@@ -60,21 +60,21 @@ But sterling worth it is that tells.*
 
 WITH these significant words of the author himself, it would be appropriate to announce the Devanāgari edition of Śaktibhadra's *Āścaryacūḍāmaṇi*, with a good commentary, which is brought out for the *first time* in a complete and handy form by the Proprietor of the Śrī BālamanoramāPress, Mylapore, Madras. This edition is based on the following manuscripts:
 
-।                                                                      ।                                                                                             ।
-|:--------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:।
-।                        No.DESCRIPTION OF MS.                        ।                                           LENT BY                                           ।
-। 1.MS. written on paper in Devanāgari script of text and commentary. ।                  The Curator, Govt. Oriental manuscripts library, Madras.                   ।
-।            2.Palm-leaf MS. in Malayālam script of text.             ।                  The late Mr. A. Mahadeva Sastri, Director, Adyar Library.                  ।
-।        3.MS. written on paper in Devanāgari script of text.         । Mr. P. P. S. Sastri, M.A. (Oxon.), Superintendent of Sanskrit Schools and Colleges, Madras. ।
+|                                                                      |                                                                                             |
+|:--------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|
+|                        No.DESCRIPTION OF MS.                        |                                           LENT BY                                           |
+| 1.MS. written on paper in Devanāgari script of text and commentary. |                  The Curator, Govt. Oriental manuscripts library, Madras.                   |
+|            2.Palm-leaf MS. in Malayālam script of text.             |                  The late Mr. A. Mahadeva Sastri, Director, Adyar Library.                  |
+|        3.MS. written on paper in Devanāgari script of text.         | Mr. P. P. S. Sastri, M.A. (Oxon.), Superintendent of Sanskrit Schools and Colleges, Madras. |
 
 
 
-।                                                        ।                                                                          ।
-|:------------------------------------------------------:|:------------------------------------------------------------------------:।
-।                 No. DESCRIPTION OF MS.                 ।                                 LENT BY                                  ।
-। 4. MS. written on paper in Devanāgari script of text. ।        Mr. T. Satakopachariar, High Court Vakil, Tiruppapuliyur.         ।
-।     5. Palm-leaf MS. in Malayālam script of text.      । Mr. PunnasseriNīla-kaṇṭhaSarma, Principal, Sanskrit College, Pattambi. ।
-।  6. Palm-leaf MS. in Malayālam script of commentary.   ।                                   " "                                    ।
+|                                                        |                                                                          |
+|:------------------------------------------------------:|:------------------------------------------------------------------------:|
+|                 No. DESCRIPTION OF MS.                 |                                 LENT BY                                  |
+| 4. MS. written on paper in Devanāgari script of text. |        Mr. T. Satakopachariar, High Court Vakil, Tiruppapuliyur.         |
+|     5. Palm-leaf MS. in Malayālam script of text.      | Mr. PunnasseriNīla-kaṇṭhaSarma, Principal, Sanskrit College, Pattambi. |
+|  6. Palm-leaf MS. in Malayālam script of commentary.   |                                   " "                                    |
 
 
 
@@ -328,23 +328,23 @@ Presidency College, Madras*
 
 
 
-।                       ।
-|:---------------------:।
-। **DRAMATIS PERSONAE** ।
+|                       |
+|:---------------------:|
+| **DRAMATIS PERSONAE** |
 
-।            ।           ।
-।------------।-----------।
-। लक्ष्मण :  । विद्याधरः ।
-। रामः       । जाम्बवान् ।
-। ऋषिकुमारः  । विभीषणः   ।
-। वृद्धतापसः । सुग्रीवः  ।
-। मारीचः     । नारदः     ।
-। रावणः      । शूर्पणखा  ।
-। सूतः       । सीता      ।
-। जटायुः     । मण्डोदरी  ।
-। वर्षवरः    । चेटी      ।
-। अमात्यः    । सौदामिनी  ।
-। हनूमान्    ।          ।
+|            |           |
+|------------|-----------|
+| लक्ष्मण :  | विद्याधरः |
+| रामः       | जाम्बवान् |
+| ऋषिकुमारः  | विभीषणः   |
+| वृद्धतापसः | सुग्रीवः  |
+| मारीचः     | नारदः     |
+| रावणः      | शूर्पणखा  |
+| सूतः       | सीता      |
+| जटायुः     | मण्डोदरी  |
+| वर्षवरः    | चेटी      |
+| अमात्यः    | सौदामिनी  |
+| हनूमान्    |          |
 
 
 

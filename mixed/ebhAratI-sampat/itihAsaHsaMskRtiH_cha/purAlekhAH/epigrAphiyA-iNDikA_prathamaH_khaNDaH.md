@@ -139,25 +139,25 @@ JAS. BURGESS.
 
 
 
-।     ।                                                                                                                     ।
-।-----।---------------------------------------------------------------------------------------------------------------------।
-। 35. । Deopara inscription of Vijayasena; by Prof. F. Kielhorn, Ph.D., C.I.E., Göttingen (*with facsimile*)                ।
-। 36. । Sûnak grant of the Chaulukya king Karna I.; by E. Hultzsch, Ph.D. (*with facsimile*)                                ।
-। 37. । Praśasti of the temple of VâdÎpura Pârśvanâtha at Pattana; by Prof. G. Bühler, Ph.D., LL.D., C.I.E., Vienna         ।
-। 38. । Two Chandella inscriptions from Ajayagadh; by Prof. F. Kielhorn, Ph.D,C.I.E.                                       ।
-। 39. । Pâtņâ inscription of the time of the Yâdava king, Siṁghana and his feudatories Soïdeva and Hemâdideva; by the same ।
-। 40. । Bêgûr inscription of the Gaṅga king Ereyapparasa; by J. F. Fleet, Bo. C.S., C.I.E.                                  ।
-। 41. । Stone inscription from Ranod (Narod); by Prof. F. Kielhorn, Ph.D., C.L.E.                                           ।
-। 42. । Hampo inscription of Krishnarâya, dated Śaka 1430; by E. Hultzsch, Ph.D.                                            ।
-। 43. । New Jeina inscriptions from Mathurâ; by Prof. G. Bühler, Ph.D., LL.D., C.I.E. (*with facsimiles*)                   ।
-। 44. । Further Jaina inscriptions from Mathurâ;. by the same (*with facsimiles*)                                           ।
-। 45  । Plate of a Pallava copper–plate grant; by E. Hultzsch, Ph.D. (*with facsimile*)                                     ।
-। 46. । Krishnâpuna inscription of Krishnarâya, dated Śaka 1451; by the same                                                ।
-।    । On the Computation of Hindu Dates in Inscriptions, &c.; by Prof. H. Jacobi, Ph.D., Bonh.                            ।
-।    । General Tables for the computation of Dates                                                                         ।
-।    । Special Tables for the same                                                                                         ।
-।    । Index                                                                                                               ।
-।    । Errata and Corrigenda                                                                                               ।
+|     |                                                                                                                     |
+|-----|---------------------------------------------------------------------------------------------------------------------|
+| 35. | Deopara inscription of Vijayasena; by Prof. F. Kielhorn, Ph.D., C.I.E., Göttingen (*with facsimile*)                |
+| 36. | Sûnak grant of the Chaulukya king Karna I.; by E. Hultzsch, Ph.D. (*with facsimile*)                                |
+| 37. | Praśasti of the temple of VâdÎpura Pârśvanâtha at Pattana; by Prof. G. Bühler, Ph.D., LL.D., C.I.E., Vienna         |
+| 38. | Two Chandella inscriptions from Ajayagadh; by Prof. F. Kielhorn, Ph.D,C.I.E.                                       |
+| 39. | Pâtņâ inscription of the time of the Yâdava king, Siṁghana and his feudatories Soïdeva and Hemâdideva; by the same |
+| 40. | Bêgûr inscription of the Gaṅga king Ereyapparasa; by J. F. Fleet, Bo. C.S., C.I.E.                                  |
+| 41. | Stone inscription from Ranod (Narod); by Prof. F. Kielhorn, Ph.D., C.L.E.                                           |
+| 42. | Hampo inscription of Krishnarâya, dated Śaka 1430; by E. Hultzsch, Ph.D.                                            |
+| 43. | New Jeina inscriptions from Mathurâ; by Prof. G. Bühler, Ph.D., LL.D., C.I.E. (*with facsimiles*)                   |
+| 44. | Further Jaina inscriptions from Mathurâ;. by the same (*with facsimiles*)                                           |
+| 45  | Plate of a Pallava copper–plate grant; by E. Hultzsch, Ph.D. (*with facsimile*)                                     |
+| 46. | Krishnâpuna inscription of Krishnarâya, dated Śaka 1451; by the same                                                |
+|    | On the Computation of Hindu Dates in Inscriptions, &c.; by Prof. H. Jacobi, Ph.D., Bonh.                            |
+|    | General Tables for the computation of Dates                                                                         |
+|    | Special Tables for the same                                                                                         |
+|    | Index                                                                                                               |
+|    | Errata and Corrigenda                                                                                               |
 
 **———————————————**
 
@@ -176,27 +176,27 @@ JAS. BURGESS.
 
 **LIST OF FACSIMILE PLATES.**
 
-।       ।                                                                                               ।
-।-------।-----------------------------------------------------------------------------------------------।
-। 1-5.  । Copper–plate graft of Śivaskandavarman Pallava 5 pages, 15 sides of plates) between pp. 6 & 7 ।
-। 6.    । Alphabet of the same, by J. Burgess, LL.D., Editor                                            ।
-। 7.    । Praśasti of the Lakkha Maṇḍal temple in Jaunsâr Bâwar, by the Editor                          ।
-। 8.    । The twelfth edict of Aśoka at Shâhbâzgarhî, by the Editor                                     ।
-। 9.    । Ratnapur inscription of Jâjalladeva, the Chedi year 866, by the Editor                        ।
-। 10.   । Illahâbâs or Dewal inscription of Lalla the Chhinda, by A. Führer, Ph.D.                      ।
-। 11.   । Khajurâho inscription of Yuśovarman, dated Saṁ 1011, by the Editor                            ।
-। 12.   । Gwalior inscription of the year 933, by A. Führer, Ph.D.                                      ।
-। 13.   । Kudârkot inscription of Harivarman, by the Editor                                             ।
-। 14.   । Inscription from Jhânsî of Sallakshanasiṁha, by the Editor                                    ।
-। 15.   । Udayapura inscription of the kings of Mâlava, by A. Führer, Ph.D.                             ।
-। 16.   । Inscription of Toramâna Shâha, by the Editor                                                  ।
-। 17.   । Pehevâ inscription of the reign of Mahendrapâla, by J. L. Kipling, C.I.E.                     ।
-। 18.   । Bilhari inscription of the Chedi princes                                                      ।
-। 19.   । Deopara inscription of Vijayasena, by the Editor                                              ।
-। 20.   । Sûnak copper–plate grant of Karna I. of Gujarat (2 sides), by H. Cousens between p.p 316–317  ।
-। 21–24 । Mathurâ ancient Jaina inscriptions, Nos, 1-11 (4 pages), by A. Führer, Ph.D.                  ।
-। 25–28 । Ditto   "    Nos. 12–32 (4 pages), by the same                                        ।
-। 29.   । Ditto   "   Nos. 33–35, by the same; and Pallava copper-plate, by E. Hultzsch, Ph.D    ।
+|       |                                                                                               |
+|-------|-----------------------------------------------------------------------------------------------|
+| 1-5.  | Copper–plate graft of Śivaskandavarman Pallava 5 pages, 15 sides of plates) between pp. 6 & 7 |
+| 6.    | Alphabet of the same, by J. Burgess, LL.D., Editor                                            |
+| 7.    | Praśasti of the Lakkha Maṇḍal temple in Jaunsâr Bâwar, by the Editor                          |
+| 8.    | The twelfth edict of Aśoka at Shâhbâzgarhî, by the Editor                                     |
+| 9.    | Ratnapur inscription of Jâjalladeva, the Chedi year 866, by the Editor                        |
+| 10.   | Illahâbâs or Dewal inscription of Lalla the Chhinda, by A. Führer, Ph.D.                      |
+| 11.   | Khajurâho inscription of Yuśovarman, dated Saṁ 1011, by the Editor                            |
+| 12.   | Gwalior inscription of the year 933, by A. Führer, Ph.D.                                      |
+| 13.   | Kudârkot inscription of Harivarman, by the Editor                                             |
+| 14.   | Inscription from Jhânsî of Sallakshanasiṁha, by the Editor                                    |
+| 15.   | Udayapura inscription of the kings of Mâlava, by A. Führer, Ph.D.                             |
+| 16.   | Inscription of Toramâna Shâha, by the Editor                                                  |
+| 17.   | Pehevâ inscription of the reign of Mahendrapâla, by J. L. Kipling, C.I.E.                     |
+| 18.   | Bilhari inscription of the Chedi princes                                                      |
+| 19.   | Deopara inscription of Vijayasena, by the Editor                                              |
+| 20.   | Sûnak copper–plate grant of Karna I. of Gujarat (2 sides), by H. Cousens between p.p 316–317  |
+| 21–24 | Mathurâ ancient Jaina inscriptions, Nos, 1-11 (4 pages), by A. Führer, Ph.D.                  |
+| 25–28 | Ditto   "    Nos. 12–32 (4 pages), by the same                                        |
+| 29.   | Ditto   "   Nos. 33–35, by the same; and Pallava copper-plate, by E. Hultzsch, Ph.D    |
 
 
 
@@ -11461,12 +11461,12 @@ months approximately; and Table IV, the *ghaṭikás* of a whole day.
  The quantities contained in the columns in the different tables must be summed up,*e.g.*, with the date 4682 K.Y. 18th solar Vaisakha, we proceed as follows:–                         
 
 
-।           ।            ।                 ।       ।       ।     ।
-।-----------।------------।-----------------।-------।-------।-----।
-। By Table । I          । 4600            । \(0\) । 17-60 । 15  ।
-। "   "  । II         । 82 Years       । \(5\) । 7-09  । 971 ।
-। "   " । III        । 18th Vais K.Y. । \(1\) । 15-26 । 544 ।
-।          । Svan, 4682 । 18th Vais      । \(6\) । 39-95 । 560 ।
+|           |            |                 |       |       |     |
+|-----------|------------|-----------------|-------|-------|-----|
+| By Table | I          | 4600            | \(0\) | 17-60 | 15  |
+| "   "  | II         | 82 Years       | \(5\) | 7-09  | 971 |
+| "   " | III        | 18th Vais K.Y. | \(1\) | 15-26 | 544 |
+|          | Svan, 4682 | 18th Vais      | \(6\) | 39-95 | 560 |
 
  The week-days are counted from Sunday=1 (Saturday being 7 or 0 ) Therrefore, if the Feria is greater than 7 (or 14), retrench 7 (or 14); the remainder indicates the week-day. In this case it is the 6th, or Friday.
 
@@ -11499,12 +11499,12 @@ is above 15, retrench 15; the remainder indicates the complete tithi of the dark
 
  The date 8585 K. Y., Âshâḍhæ-*sudi* 12, Thursday, being given,–we calculate first,the Feria, *tithi*, and C's anomaly for the beginning of the given year, *viz.* 3585, K. Y.
 
-।                ।         ।           ।            ।
-|:--------------:|:-------:|:---------:|:----------:।
-।               । **Fer** । **Tithi** । **C's an** ।
-। **3500 K.Y.** । **(1)** । **25.96** ।  **585**   ।
-।  **86 Years**  । **(2)** । **10.52** ।  **747**   ।
-। **3585 K.Y.**  । **(3)** । **6.48**  ।  **332**   ।
+|                |         |           |            |
+|:--------------:|:-------:|:---------:|:----------:|
+|               | **Fer** | **Tithi** | **C's an** |
+| **3500 K.Y.** | **(1)** | **25.96** |  **585**   |
+|  **86 Years**  | **(2)** | **10.52** |  **747**   |
+| **3585 K.Y.**  | **(3)** | **6.48**  |  **332**   |
 
  We next ascertain the new-moon in solar Âshâḍha, as by it the lunar month Âshâḍha is determined. New-moon being equal to *tithi* 30·00, we find (by subtracting the *tithi*for the beginning of the given year, *viz.* 6.48 from 30) that 23.52 *tithis* have to elapse before the next new-moon. Therefore all days in Table III, whose *tithi* is 23.52 or the next lower figure, are approximately new-moon days in 3585 K. Y. Call ' Index of new-moon,' the difference between the tithi for the beginning of the given year and 30, and 'Index of the *tithi*,' the sum of the index of new-moon and the number of the*tithi* given in the date to be verified. In this example the *Index* of new-moon is 23·52, and the Index of the *tithi* is 23-52 +12 = 35-52 or 5.52.
 
@@ -11536,31 +11536,31 @@ Though this notation of the solar day is artificial, still it should always be r
 
  Ex. 2 Samvat 1011, Bhâdrapada-*badi* 11, Śukradine *(púrnimánta*, northern year), sam1011=4055 K.Y.           
 
-।                      ।          ।           ।             ।                                           ।
-|:--------------------:|:--------:|:---------:|:-----------:|:-----------------------------------------:।
-।                     । **Fer.** । **Tithi** । **C's An** ।                                          ।
-।    **4000 K.Y.**     । **(1)**  । **8.98**  ।   **523**   ।         **Ind• = 30-17.31=1269**         ।
-।     **55 Years**     । **(6)**  । **8.33**  ।   **63**    । **Ind *badi 11,* is 15+11+12.69-30=8.69** ।
-।    **4055 K.Y.**     । **(7)**  । **17.81** ।   **586**   ।                                          ।
-।    **4th Bhadr**     । **(0)**  । **8.31**  ।   **573**   ।                                          ।
-।                     । **(7)**  । **25.02** ।   **159**   ।                                          ।
-।                     ।         । **+0.77** ।            ।                                          ।
-। **C's An. 159, eq.** । **(7)**  । **26.39** ।            ।                                          ।
+|                      |          |           |             |                                           |
+|:--------------------:|:--------:|:---------:|:-----------:|:-----------------------------------------:|
+|                     | **Fer.** | **Tithi** | **C's An** |                                          |
+|    **4000 K.Y.**     | **(1)**  | **8.98**  |   **523**   |         **Ind• = 30-17.31=1269**         |
+|     **55 Years**     | **(6)**  | **8.33**  |   **63**    | **Ind *badi 11,* is 15+11+12.69-30=8.69** |
+|    **4055 K.Y.**     | **(7)**  | **17.81** |   **586**   |                                          |
+|    **4th Bhadr**     | **(0)**  | **8.31**  |   **573**   |                                          |
+|                     | **(7)**  | **25.02** |   **159**   |                                          |
+|                     |         | **+0.77** |            |                                          |
+| **C's An. 159, eq.** | **(7)**  | **26.39** |            |                                          |
 
   Accordingly, at the beginning of Saturday (= 7) the 27th tithi, or the 12th tithi of the dark fort night, was running; and the 11th *tithi* ended on the preceding day, a Friday, which therefore was the day intended in the date.
 
 * Ex. 3*. Samvat 1236, Vaisakha-sudi 15, Sukre, southern year; hence Vaisakha does not belong to the corresponding solar year, 4280 K.Y., but to the following year 4281; see above §15.
 
-।                    ।          ।           ।             ।                           ।
-|:------------------:|:--------:|:---------:|:-----------:|:-------------------------:।
-।                   । **Fer.** । **Tithi** । **C's An** ।                          ।
-।   **4200 K.Y.**    । **(1)**  । **2.19**  ।   **699**   ।     **Ind• is 1.52**     ।
-।    **81 Years**    । **(4)**  । **26.29** ।   **725**   । **Ind *sudi*15 = 16.52** ।
-।   **4281 K.Y.**    । **(5)**  । **28.48** ।   **424**   ।                          ।
-। **19 Vaishakha**  । **(2)**  । **16.28** ।   **581**   ।                          ।
-।                   । **(7)**  । **14.76** ।    **6**    ।                          ।
-। **C's an. 5, eq.** ।         । **+0.43** ।            ।                          ।
-।                   । **(7)**  । **15.19** ।            ।                          ।
+|                    |          |           |             |                           |
+|:------------------:|:--------:|:---------:|:-----------:|:-------------------------:|
+|                   | **Fer.** | **Tithi** | **C's An** |                          |
+|   **4200 K.Y.**    | **(1)**  | **2.19**  |   **699**   |     **Ind• is 1.52**     |
+|    **81 Years**    | **(4)**  | **26.29** |   **725**   | **Ind *sudi*15 = 16.52** |
+|   **4281 K.Y.**    | **(5)**  | **28.48** |   **424**   |                          |
+| **19 Vaishakha**  | **(2)**  | **16.28** |   **581**   |                          |
+|                   | **(7)**  | **14.76** |    **6**    |                          |
+| **C's an. 5, eq.** |         | **+0.43** |            |                          |
+|                   | **(7)**  | **15.19** |            |                          |
 
 The 15th *tithi* having ended on the preceding day, which was a Friday (6), the date is correct.
 
@@ -11568,41 +11568,41 @@ The 15th *tithi* having ended on the preceding day, which was a Friday (6), the 
 
   Ex. 4. Samvat 1154, Chaitra-sudi %, Ravau (sonthern year), Samvat 1154=4198 K.V. Chaitra belonging to the corresponding solar year, K.Y. 4198, we use the second Chaitra of Table III (see § 16). 
 
-।                 ।           ।            ।                 ।                          ।
-|:---------------:|:---------:|:----------:|:---------------:|:------------------------:।
-।                । **Fer. ** । **Tithi.** ।   **C's An.**   ।                         ।
-।  **4100 K.Y.**  ।  **(1)**  ।  **5.58**  ।     **111**     ।    **Ind• = 20.43**     ।
-।  **98 Years**   ।  **(4)**  ।  **3.99**  ।     **59**      । **Ind *sudi* 2 = 22.43** ।
-।  **4198 K.Y.**  ।  **(5)**  ।  **9.57**  ।     **170**     ।                         ।
-। **15 Chaitra** ।  **(4)**  । **22.52**  ।     **593**     ।                         ।
-।                ।  **(2)**  ।  **2.09**  । **763, ey = 0** ।                         ।
+|                 |           |            |                 |                          |
+|:---------------:|:---------:|:----------:|:---------------:|:------------------------:|
+|                | **Fer. ** | **Tithi.** |   **C's An.**   |                         |
+|  **4100 K.Y.**  |  **(1)**  |  **5.58**  |     **111**     |    **Ind• = 20.43**     |
+|  **98 Years**   |  **(4)**  |  **3.99**  |     **59**      | **Ind *sudi* 2 = 22.43** |
+|  **4198 K.Y.**  |  **(5)**  |  **9.57**  |     **170**     |                         |
+| **15 Chaitra** |  **(4)**  | **22.52**  |     **593**     |                         |
+|                |  **(2)**  |  **2.09**  | **763, ey = 0** |                         |
 
     The 2nd *tithi* ended on the preceding day, Sunday, as required.
 
  Ex. 5. Samvat 1194, Chaitra-*badi* 5, Gurau. Northern year, *purnimánta.*We must use the second Chaitra of Table III (see § 15). Samvat 1194 = 4238 K.Y.
 
-।                 ।                      ।            ।             ।
-|:---------------:|:--------------------:|:----------:|:-----------:।
-।                ।       **Fer.**       । **Tithi.** । **C's An.** ।
-।  **4200 K.Y.**  ।       **(1)**        ।  **2.19**  ।   **699**   ।
-।  **38 Years**   ।       **(6)**        ।  **0.63**  ।   **728**   ।
-।  **4238 K.Y.**  ।       **(7)**        ।  **2.82**  ।   **427**   ।
-। **9th Chaitra** ।       **(5)**        । **16.42**  ।   **375**   ।
-।                ।       **(5)**        । **19.24**  ।   **802**   ।
-।                । **C's an. 802, eq** । **= 0.02** ।            ।
-।                ।                     । **19.26**  ।            ।
+|                 |                      |            |             |
+|:---------------:|:--------------------:|:----------:|:-----------:|
+|                |       **Fer.**       | **Tithi.** | **C's An.** |
+|  **4200 K.Y.**  |       **(1)**        |  **2.19**  |   **699**   |
+|  **38 Years**   |       **(6)**        |  **0.63**  |   **728**   |
+|  **4238 K.Y.**  |       **(7)**        |  **2.82**  |   **427**   |
+| **9th Chaitra** |       **(5)**        | **16.42**  |   **375**   |
+|                |       **(5)**        | **19.24**  |   **802**   |
+|                | **C's an. 802, eq** | **= 0.02** |            |
+|                |                     | **19.26**  |            |
 
 Thus the 20th *tithi*, or 5th *tithi* of the dark fortnight, ended on Thursday as required.
 
    If a doubt be entertained, whether the *tithi* actually ended on the day whose *tithi*has been calculated, calculate for the following day; thus—
 
-।                   ।                     ।            ।         ।
-|:-----------------:|:-------------------:|:----------:|:-------:।
-।   **4238 K. Y**   ।       **(7)**       ।  **2.82**  । **427** ।
-। **10th Chaitra ** ।       **(6)**       । **17.64**  । **412** ।
-।                  ।       **(6)**       । **20.28**  । **839** ।
-।                  । **C's an. 839eq =** । **= 0.07** ।        ।
-।                  ।                    । **20.33**  ।        ।
+|                   |                     |            |         |
+|:-----------------:|:-------------------:|:----------:|:-------:|
+|   **4238 K. Y**   |       **(7)**       |  **2.82**  | **427** |
+| **10th Chaitra ** |       **(6)**       | **17.64**  | **412** |
+|                  |       **(6)**       | **20.28**  | **839** |
+|                  | **C's an. 839eq =** | **= 0.07** |        |
+|                  |                    | **20.33**  |        |
 
  Hence at the beginning of Friday (6) the 21st tithi was running and therefore the day could not be badi 5.
 
@@ -11630,35 +11630,35 @@ tables, it becomes doubtful whether the new-moon belongs to the current or to th
 
  *Ex.* Suppose a date in Pausha 3844 K.Y. be given, we calculate as usual :–
 
-।                ।         ।           ।            ।                  ।
-|:--------------:|:-------:|:---------:|:----------:|:----------------:।
-।               । **Fer** । **Tithi** । **C's an** ।                 ।
-। **3800 K.Y.** । **(1)** । **15.17** ।  **348**   । **Ind• = 8.37** ।
-।  **44 Years**  । **(6)** । **6.46**  ।  **243**   ।                 ।
-। **3844 K.Y.**  । **(7)** । **21.63** ।  **591**   ।                 ।
+|                |         |           |            |                  |
+|:--------------:|:-------:|:---------:|:----------:|:----------------:|
+|               | **Fer** | **Tithi** | **C's an** |                 |
+| **3800 K.Y.** | **(1)** | **15.17** |  **348**   | **Ind• = 8.37** |
+|  **44 Years**  | **(6)** | **6.46**  |  **243**   |                 |
+| **3844 K.Y.**  | **(7)** | **21.63** |  **591**   |                 |
 
 
  The index of new-moon points to the first Pausha and to the first Mâgha, both these days belonging to the doubtful days; hence it is uncertain whether the first new-moon belongs to Mârgasira or Pausha, and whether the second belongs to Pausha or Mâgha. We therefore determine first the true beginning of the solar months Pausha and Mâgha. Cor. for 3800 is —Ogh. 50p., for 44 years +22gh. 55p.; consequently for 3814 K Y. it is + 22gh. 5p. Add 'Cor.' for Pausha (+9gh. 44p.) = +31gh. 49p., and for Magha (+ 30gh. 37p.) = + 52gh. 42p. We then add to the result for 3844. K. Y. the *tithi* and C's an. for 1 Pausha and 1 Mâgha, and the increase of *tithi* and C 's an. for the calculated Cor. of Pausha and Mâgha.
 
-।                                                             ।           ।         ।
-|:-----------------------------------------------------------:|:---------:|:-------:।
-।                                                            । **Tithi** । **An**  ।
-।            **3844 K.Y     .     .**             । **21.63** । **591** ।
-।           **1 Pausha      .      .**            । **8.11**  । **855** ।
-।             **32 *gh* (Table IV)     .**             । **0.54**  । **19**  ।
-।                                                            । **0.28**  । **465** ।
-। **        C's an. 465, eq.          .** । **0.51**  ।        ।
-।                                                            । **0.79**  ।        ।
+|                                                             |           |         |
+|:-----------------------------------------------------------:|:---------:|:-------:|
+|                                                            | **Tithi** | **An**  |
+|            **3844 K.Y     .     .**             | **21.63** | **591** |
+|           **1 Pausha      .      .**            | **8.11**  | **855** |
+|             **32 *gh* (Table IV)     .**             | **0.54**  | **19**  |
+|                                                            | **0.28**  | **465** |
+| **        C's an. 465, eq.          .** | **0.51**  |        |
+|                                                            | **0.79**  |        |
 
-।                                          ।           ।         ।
-|:----------------------------------------:|:---------:|:-------:।
-।                                         । **Tithi** । **An**  ।
-।   **3844 K.Y     .     .**   । **21.68** । **591** ।
-।   **1 Magha     .     .**    । **7.48**  । **908** ।
-। **53 gh        .      .** । **0.89**  । **32**  ।
-।                                         । **0.00**  । **531** ।
-।   **C's an. 581, eq.       .**   । **0.34**  ।        ।
-।                                         । **0.34**  ।        ।
+|                                          |           |         |
+|:----------------------------------------:|:---------:|:-------:|
+|                                         | **Tithi** | **An**  |
+|   **3844 K.Y     .     .**   | **21.68** | **591** |
+|   **1 Magha     .     .**    | **7.48**  | **908** |
+| **53 gh        .      .** | **0.89**  | **32**  |
+|                                         | **0.00**  | **531** |
+|   **C's an. 581, eq.       .**   | **0.34**  |        |
+|                                         | **0.34**  |        |
 
 
  The true *tithi* for the beginning of both months shows that, in both cases, new-moon had passed consequently the first new-moon belonged to Mârgasira and the second to Pausha.
@@ -11675,60 +11675,60 @@ tables, it becomes doubtful whether the new-moon belongs to the current or to th
 
  At beginning of a solar month, and "At end of the same solar month.
 
-।                                                                  ।                       ।
-|:----------------------------------------------------------------:|:---------------------:।
-। **Sudi         and      Sudi        .** ।  **Ordinary Month**   ।
-। **Badi        and      Badi        .** ।                      ।
-। **Badi         and      Sudi        .** । **intercalary month** ।
-। **Sudi         and      Badi        .** ।  **expunged month**   ।
+|                                                                  |                       |
+|:----------------------------------------------------------------:|:---------------------:|
+| **Sudi         and      Sudi        .** |  **Ordinary Month**   |
+| **Badi        and      Badi        .** |                      |
+| **Badi         and      Sudi        .** | **intercalary month** |
+| **Sudi         and      Badi        .** |  **expunged month**   |
 
 *    Examples for intercalary months—*
 
 * Ex. 1.* Samvat 1218 (northern year) dviº Ashâḍha sudi 5, Gurau.,  
     Samvat 1218 = 4262 K. Y.
 
-।                 ।         ।           ।         ।                           ।
-|:---------------:|:-------:|:---------:|:-------:|:-------------------------:।
-।                । **Fer** । **Tithi** । **An**  । **gh        p.** ।
-।  **4200K.Y.**   । **(1)** । **2.19**  । **699** ।   **Cor–32    30**    ।
-।  **62 Years**   । **(1)** । **25.98** । **861** । **+2        17**  ।
-। **4262 Years** । **(2)** । **28.17** । **560** । **-30       13**  ।
+|                 |         |           |         |                           |
+|:---------------:|:-------:|:---------:|:-------:|:-------------------------:|
+|                | **Fer** | **Tithi** | **An**  | **gh        p.** |
+|  **4200K.Y.**   | **(1)** | **2.19**  | **699** |   **Cor–32    30**    |
+|  **62 Years**   | **(1)** | **25.98** | **861** | **+2        17**  |
+| **4262 Years** | **(2)** | **28.17** | **560** | **-30       13**  |
 
  Cor.' for Ashâdha, + 10*gh.* 51*p*. added to Cor.' of the year,
 -30*gh.* 13p. makes-19*gh*. 22*p.;*Ashâḍha began 19gh. 22p. before 1 Ashâdha of Table III. Cor.' for Srâvaṇa, 12*gh.,* 31*p*. added to 30*gh.* 13*p*. makes -42gk44p.; Srâvaṇa began (or Âshâḍha ended) 42*gh*, 44*p*. before 1 Sravana of the Table.
 
-।                     ।                         ।         ।
-|:-------------------:|:-----------------------:|:-------:।
-।                    ।       **Thithi**        । **An**  ।
-।    **4262 K.Y.**    ।        **28.17**        । **550** ।
-।   **1 Ashadha**    ।        **1.07**         । **177** ।
-।                    ।        **29.24**        । **737** ।
-।      **—19gh**      ।        **-0.32**        । **11**  ।
-।                    ।        **28.92**        । **726** ।
-। **C's an, 726, eq** ।        **0.01**         ।        ।
-।                    । **28.93, Moon Wraning** ।        ।
+|                     |                         |         |
+|:-------------------:|:-----------------------:|:-------:|
+|                    |       **Thithi**        | **An**  |
+|    **4262 K.Y.**    |        **28.17**        | **550** |
+|   **1 Ashadha**    |        **1.07**         | **177** |
+|                    |        **29.24**        | **737** |
+|      **—19gh**      |        **-0.32**        | **11**  |
+|                    |        **28.92**        | **726** |
+| **C's an, 726, eq** |        **0.01**         |        |
+|                    | **28.93, Moon Wraning** |        |
 
-।                    ।                        ।         ।
-।--------------------|:----------------------:|:-------:।
-।                   ।       **Thithi**       । **An**  ।
-। **4262 K.Y.**      ।       **28.17**        । **560** ।
-। **1 Shravana**     ।        **3.68**        । **339** ।
-।                   ।        **1.85**        । **899** ।
-।                   ।        **0.73**        । **26**  ।
-।                   ।        **1.12**        । **873** ।
-। **C's an 873, eq** ।        **0.11**        ।        ।
-।                   । **1.23, Moon warning** ।        ।
+|                    |                        |         |
+|--------------------|:----------------------:|:-------:|
+|                   |       **Thithi**       | **An**  |
+| **4262 K.Y.**      |       **28.17**        | **560** |
+| **1 Shravana**     |        **3.68**        | **339** |
+|                   |        **1.85**        | **899** |
+|                   |        **0.73**        | **26**  |
+|                   |        **1.12**        | **873** |
+| **C's an 873, eq** |        **0.11**        |        |
+|                   | **1.23, Moon warning** |        |
 
  Accordingly there was an intercalary Ashâdha. We now calculate sudi 5, of the intercalated month.
 
-।                      ।          ।           ।         ।                         ।
-|:--------------------:|:--------:|:---------:|:-------:|:-----------------------:।
-।                     । **Fer.** । **Tithi** । **An**  ।                        ।
-।    **4262 K.Y.**     । **(2)**  । **28.17** । **560** ।    **Ind• = 1.083**    ।
-।   **4th Sravana**    । **(4)**  । **6.74**  । **448** । **Ind Sudi's 5 = 6.83** ।
-।                     । **(6)**  । **4.91**  ।  **8**  ।                        ।
-। **C's an. 8, eq. =** ।         । **0.44**  ।        ।                        ।
-।                     । **(6)**  । **5.55**  ।        ।                        ।
+|                      |          |           |         |                         |
+|:--------------------:|:--------:|:---------:|:-------:|:-----------------------:|
+|                     | **Fer.** | **Tithi** | **An**  |                        |
+|    **4262 K.Y.**     | **(2)**  | **28.17** | **560** |    **Ind• = 1.083**    |
+|   **4th Sravana**    | **(4)**  | **6.74**  | **448** | **Ind Sudi's 5 = 6.83** |
+|                     | **(6)**  | **4.91**  |  **8**  |                        |
+| **C's an. 8, eq. =** |         | **0.44**  |        |                        |
+|                     | **(6)**  | **5.55**  |        |                        |
 
  Accordingly the 5th *tithi* ended on the preceding day, which was a Thursday, as shown by its Fer. being (5). The *sadi* 5 of the regular month fell on the 6th Ashadha, which was a Wednesday.
 
@@ -11736,49 +11736,49 @@ tables, it becomes doubtful whether the new-moon belongs to the current or to th
 
  The year being the southern year, Bhadrapada fell in 4343 K. Y. (not in 4342 K. Y.) See§ 16. We proceed as above-
 
-।                                                                                      ।         ।           ।         ।         ।        ।
-|:------------------------------------------------------------------------------------:|:-------:|:---------:|:-------:|:-------:|:------:।
-।                                                                                     । **Fer** । **Tithi** । **An**  । **gh**  । **p.** ।
-। **4300 K.Y.    .       .        .      .      .**  । **(0)** । **27.28** । **251** । **+9**  । **35** ।
-। **48 Years     .       .         .      .      .** । **(5)** । **25.06** । **997** । **+7**  । **24** ।
-। **4343 K.Y     .       .         .      .      .** । **(b)** । **22.94** । **248** । **+16** । **59** ।
+|                                                                                      |         |           |         |         |        |
+|:------------------------------------------------------------------------------------:|:-------:|:---------:|:-------:|:-------:|:------:|
+|                                                                                     | **Fer** | **Tithi** | **An**  | **gh**  | **p.** |
+| **4300 K.Y.    .       .        .      .      .**  | **(0)** | **27.28** | **251** | **+9**  | **35** |
+| **48 Years     .       .         .      .      .** | **(5)** | **25.06** | **997** | **+7**  | **24** |
+| **4343 K.Y     .       .         .      .      .** | **(b)** | **22.94** | **248** | **+16** | **59** |
 
     Bhadrapada Cor. + 15*gh*.41*p* + 16*gh*. 59*p* = +32*gh*.40*p*
 
     Asvina Cor. +17*gh*.51*p* +16gh.59*p* = +34*gh*. 50*p*
 
-।                    ।                        ।         ।
-|:------------------:|:----------------------:|:-------:।
-।                   ।       **Tithi**        । **An**  ।
-।    **4343K.Y.**    ।       **22.94**        । **248** ।
-।  **1 Bhadrapada**  ।        **5.26**        । **464** ।
-।     **+33gh**      ।        **0.56**        । **20**  ।
-।                   ।       **28.75**        । **732** ।
-। **An. 731, eq =** ।        **0.00**        ।        ।
-।                   । **28.76, Moon Waning** ।        ।
+|                    |                        |         |
+|:------------------:|:----------------------:|:-------:|
+|                   |       **Tithi**        | **An**  |
+|    **4343K.Y.**    |       **22.94**        | **248** |
+|  **1 Bhadrapada**  |        **5.26**        | **464** |
+|     **+33gh**      |        **0.56**        | **20**  |
+|                   |       **28.75**        | **732** |
+| **An. 731, eq =** |        **0.00**        |        |
+|                   | **28.76, Moon Waning** |        |
 
-।                 ।                ।         ।
-|:---------------:|:--------------:|:-------:।
-।                ।   **Tithi**    । **An**  ।
-।  **4343 K.Y.**  ।   **22.94**    । **248** ।
-।  **1 Asvina**   ।    **6.80**    । **589** ।
-।    **+35gh**    ।    **0.57**    । **21**  ।
-।                ।    **0.31**    । **858** ।
-। **An. 858, eq** ।    **0.09**    ।        ।
-।                । **0.40, Moon** ।        ।
+|                 |                |         |
+|:---------------:|:--------------:|:-------:|
+|                |   **Tithi**    | **An**  |
+|  **4343 K.Y.**  |   **22.94**    | **248** |
+|  **1 Asvina**   |    **6.80**    | **589** |
+|    **+35gh**    |    **0.57**    | **21**  |
+|                |    **0.31**    | **858** |
+| **An. 858, eq** |    **0.09**    |        |
+|                | **0.40, Moon** |        |
 
 
 
  Accordingly, there was en intercalation of Bhadrapada. We calculate the *tithi*:-
 
-।                  ।         ।           ।         ।                      ।
-|:----------------:|:-------:|:---------:|:-------:|:--------------------:।
-।                 । **Fer** । **Tithi** । **An**  ।                     ।
-।  **4343 K.Y.**   । **(5)** । **22.94** । **248** ।    **Ind• 7.06**    ।
-। **22nd Asvina**  । **(0)** । **28.14** । **351** । **Ind badi 7-29.05** ।
-।                 । **(5)** । **21.08** । **599** ।                     ।
-। **An. 599, eq.** ।        । **0.17**  ।        ।                     ।
-।                 । **(5)** । **21.25** ।        ।                     ।
+|                  |         |           |         |                      |
+|:----------------:|:-------:|:---------:|:-------:|:--------------------:|
+|                 | **Fer** | **Tithi** | **An**  |                     |
+|  **4343 K.Y.**   | **(5)** | **22.94** | **248** |    **Ind• 7.06**    |
+| **22nd Asvina**  | **(0)** | **28.14** | **351** | **Ind badi 7-29.05** |
+|                 | **(5)** | **21.08** | **599** |                     |
+| **An. 599, eq.** |        | **0.17**  |        |                     |
+|                 | **(5)** | **21.25** |        |                     |
 
  Accordingly the 22nd *tithi*, or *badi* 7, ended on Thursday (5), as required.
 
@@ -11786,29 +11786,29 @@ tables, it becomes doubtful whether the new-moon belongs to the current or to th
 
  32. Though an expunged month cannot occur in a date, still it may be interesting to see how an expunged morth can be proved by calculation to have been duc. If it be suspected that in 4012 K. Y., Pausha had been expunged, we calculate the *tithis* andanomaly for the beginning of Paucha and Magha:–
 
-।                  ।                       ।            ।         ।        ।
-|:----------------:|:---------------------:|:----------:|:-------:|:------:।
-।                 ।       **Tithi**       । **C's an** । **gh**  । **p**  ।
-।  **40000 K.Y.**  ।       **8.98**        ।  **523**   । **-16** । **40** ।
-।   **12 Years**   ।       **12.67**       ।   **66**   । **+6**  । **15** ।
-।  **4012 K.Y.**   ।       **12.65**       ।  **589**   । **-10** । **25** ।
-।   **1 Pausha**   ।       **8.11**        ।  **855**   ।        ।       ।
-।    **-10gh**     ।       **0.17**        ।   **-6**   ।        ।       ।
-।                 ।       **29.59**       ।  **438**   ।        ।       ।
-। **an. 438, eq.** ।       **0.57**        ।           ।        ।       ।
-।                 । **0.16, Moon Waning** ।           ।        ।       ।
+|                  |                       |            |         |        |
+|:----------------:|:---------------------:|:----------:|:-------:|:------:|
+|                 |       **Tithi**       | **C's an** | **gh**  | **p**  |
+|  **40000 K.Y.**  |       **8.98**        |  **523**   | **-16** | **40** |
+|   **12 Years**   |       **12.67**       |   **66**   | **+6**  | **15** |
+|  **4012 K.Y.**   |       **12.65**       |  **589**   | **-10** | **25** |
+|   **1 Pausha**   |       **8.11**        |  **855**   |        |       |
+|    **-10gh**     |       **0.17**        |   **-6**   |        |       |
+|                 |       **29.59**       |  **438**   |        |       |
+| **an. 438, eq.** |       **0.57**        |           |        |       |
+|                 | **0.16, Moon Waning** |           |        |       |
 
-।                      ।                        ।         ।         ।         ।         ।        ।
-|:--------------------:|:----------------------:|:-------:|:-------:|:-------:|:-------:|:------:।
-।                     ।         **gh**         ।  **p**  । **gh**  ।  **p**  । **gh**  । **p**  ।
-।      **Pausha**      ।        **-10**         । **25+** ।  **9**  । **44=** । **-0**  । **49** ।
-।     **Phalguna**     ।        **-10**         । **25+** । **30**  । **37=** । **+20** । **12** ।
-।     **402 K.Y.**     ।       **21.65**        ।        । **589** ।        ।        ।       ।
-।     **1 Magha**      ।        **7.48**        ।        । **908** ।        ।        ।       ।
-।      **420gh**       ।        **0.34**        ।        । **18**  ।        ।        ।       ।
-।                     ।       **29.47**        ।        । **509** ।        ।        ।       ।
-। **an. 509, eq=0.30** ।        **0.30**        ।        ।        ।        ।        ।       ।
-।                     । **29.86, Moon Waning** ।        ।        ।        ।        ।       ।
+|                      |                        |         |         |         |         |        |
+|:--------------------:|:----------------------:|:-------:|:-------:|:-------:|:-------:|:------:|
+|                     |         **gh**         |  **p**  | **gh**  |  **p**  | **gh**  | **p**  |
+|      **Pausha**      |        **-10**         | **25+** |  **9**  | **44=** | **-0**  | **49** |
+|     **Phalguna**     |        **-10**         | **25+** | **30**  | **37=** | **+20** | **12** |
+|     **402 K.Y.**     |       **21.65**        |        | **589** |        |        |       |
+|     **1 Magha**      |        **7.48**        |        | **908** |        |        |       |
+|      **420gh**       |        **0.34**        |        | **18**  |        |        |       |
+|                     |       **29.47**        |        | **509** |        |        |       |
+| **an. 509, eq=0.30** |        **0.30**        |        |        |        |        |       |
+|                     | **29.86, Moon Waning** |        |        |        |        |       |
 
 
 The calculation shows that no new-moon occurred in solar Pausha: accordingly Paushawas expunged in the Lunar calendar of 4012 K. Y.
@@ -11820,23 +11820,23 @@ The calculation shows that no new-moon occurred in solar Pausha: accordingly Pau
  33. It may sometimes be desired to know in which years of a given century a certain month was intercalary. This may best be explained by an example. If it be required in which years of the 40th century of the Kaliyuga, Sravana was intercalary: we add the elements of the 40th century to those of the 1 Śrâvaṇa and 1 Bhadrapada, and calculate them for the beginning of those months in 4000 K. Y., viz.—  
 
 
-।               ।           ।            ।         ।        ।
-|:-------------:|:---------:|:----------:|:-------:|:------:।
-।              । **Tithi** । **C's an** । **gh**  । **p**  ।
-। **4000K.Y.**  । **8.98**  ।  **523**   । **-16** । **40** ।
-। **1 Sravana** । **3.08**  ।  **339**   । **-12** । **31** ।
-।              । **12.66** ।  **862**   । **-29** । **11** ।
-।  **-29 gh**   । **-0.49** ।  **-18**   ।        ।       ।
-।              । **12.17** ।  **844**   ।        ।       ।
+|               |           |            |         |        |
+|:-------------:|:---------:|:----------:|:-------:|:------:|
+|              | **Tithi** | **C's an** | **gh**  | **p**  |
+| **4000K.Y.**  | **8.98**  |  **523**   | **-16** | **40** |
+| **1 Sravana** | **3.08**  |  **339**   | **-12** | **31** |
+|              | **12.66** |  **862**   | **-29** | **11** |
+|  **-29 gh**   | **-0.49** |  **-18**   |        |       |
+|              | **12.17** |  **844**   |        |       |
 
-।               ।           ।            ।         ।        ।
-।---------------|:---------:|:----------:|:-------:|:------:।
-।              । **Tithi** । **C's an** । **gh**  । **p**  ।
-। **4000 K.Y.** । **8.98**  ।  **523**   । **-16** । **40** ।
-। **1 Bhadr**   । **5.26**  ।  **464**   । **+15** । **41** ।
-।              । **14.24** ।  **421**   । **-0**  । **59** ।
-। **-1 gh**     । **-0.02** ।   **1**    ।        ।       ।
-।              । **14.22** ।  **420**   ।        ।       ।
+|               |           |            |         |        |
+|---------------|:---------:|:----------:|:-------:|:------:|
+|              | **Tithi** | **C's an** | **gh**  | **p**  |
+| **4000 K.Y.** | **8.98**  |  **523**   | **-16** | **40** |
+| **1 Bhadr**   | **5.26**  |  **464**   | **+15** | **41** |
+|              | **14.24** |  **421**   | **-0**  | **59** |
+| **-1 gh**     | **-0.02** |   **1**    |        |       |
+|              | **14.22** |  **420**   |        |       |
 
 
 
@@ -11845,16 +11845,16 @@ The calculation shows that no new-moon occurred in solar Pausha: accordingly Pau
  In these years, therefore, an intercalation of Sravana was possible: Those years whose *tithi* is very near the limits must be calculated, as for them the intercalation is doubtful*, e.g.* 7, the *Cor.* of 7 being
 -12 *gh.* 21*p*. subtract the equivalent (Table IV) from the result. As 29.78indicates waning moon, the month was intercalary, for without calculation we see that the 1st *tithi* of Bhadrapada comes out larger than 30 or 0.
 
-।               ।           ।         ।
-|:-------------:|:---------:|:-------:।
-।              । **Tithi** । **An**  ।
-। **K.Y. 4000** । **12.17** । **844** ।
-।     **7**     । **17.85** । **798** ।
-।   **4007**    । **29.82** । **643** ।
-।   **-12gh**   । **-0.20** । **-7**  ।
-।              । **29.62** । **635** ।
-।  **an 635**   । **+0.11** ।        ।
-।              । **20.73** ।        ।
+|               |           |         |
+|:-------------:|:---------:|:-------:|
+|              | **Tithi** | **An**  |
+| **K.Y. 4000** | **12.17** | **844** |
+|     **7**     | **17.85** | **798** |
+|   **4007**    | **29.82** | **643** |
+|   **-12gh**   | **-0.20** | **-7**  |
+|              | **29.62** | **635** |
+|  **an 635**   | **+0.11** |        |
+|              | **20.73** |        |
 
  But, if we compute for 4061, we find that the new-moon had occurred before the beginning of the Sravana,–there being consequently no intercalary month of that name.
 
@@ -11865,29 +11865,29 @@ The calculation shows that no new-moon occurred in solar Pausha: accordingly Pau
 * 1st.* The calculation according to the *Súrya Siddhánta—*  
 
 
-।                    ।                        ।         ।         ।        ।
-|:------------------:|:----------------------:|:-------:|:-------:|:------:।
-।                   ।       **Tithi**        । **An**  । **gh**  । **p**  ।
-।      **4500**      ।       **20.99**        । **428** । **+9**  । **15** ।
-।    **11 Years**    ।        **1.87**        । **820** । **-9**  । **16** ।
-।   **4511 K.Y.**    ।       **22.86**        । **248** । **-0**  । **1**  ।
-।     **Bhadra**     ।        **5.26**        । **464** । **+17** । **57** ।
-।                   ।       **28.12**        । **712** । **+17** । **56** ।
-।      **18gh**      ।       **+0.30**        । **11**  ।        ।       ।
-।                   ।       **28.42**        । **723** ।        ।       ।
-। **an. 723, eq. =** ।        **0.01**        ।        ।        ।       ।
-।                   । **28.43, Moon Waning** ।        ।        ।       ।
+|                    |                        |         |         |        |
+|:------------------:|:----------------------:|:-------:|:-------:|:------:|
+|                   |       **Tithi**        | **An**  | **gh**  | **p**  |
+|      **4500**      |       **20.99**        | **428** | **+9**  | **15** |
+|    **11 Years**    |        **1.87**        | **820** | **-9**  | **16** |
+|   **4511 K.Y.**    |       **22.86**        | **248** | **-0**  | **1**  |
+|     **Bhadra**     |        **5.26**        | **464** | **+17** | **57** |
+|                   |       **28.12**        | **712** | **+17** | **56** |
+|      **18gh**      |       **+0.30**        | **11**  |        |       |
+|                   |       **28.42**        | **723** |        |       |
+| **an. 723, eq. =** |        **0.01**        |        |        |       |
+|                   | **28.43, Moon Waning** |        |        |       |
 
-।                    ।                       ।         ।         ।        ।
-|:------------------:|:---------------------:|:-------:|:-------:|:------:।
-।                   ।       **Tithi**       । **An**  । **gh**  । **p**  ।
-।   **4511 K.Y.**    ।       **22.86**       । **248** । **-0**  । **1**  ।
-।     **Asvina**     ।       **6.80**        । **589** । **+19** । **30** ।
-।                   ।       **29.06**       । **837** । **+19** । **30** ।
-।      **10gh**      ।       **+0.32**       । **11**  ।        ।       ।
-।                   ।       **29.98**       । **848** ।        ।       ।
-। **an. 848, eq. =** ।       **0.08**        ।        ।        ।       ।
-।                   । **0.08, Moon Waning** ।        ।        ।       ।
+|                    |                       |         |         |        |
+|:------------------:|:---------------------:|:-------:|:-------:|:------:|
+|                   |       **Tithi**       | **An**  | **gh**  | **p**  |
+|   **4511 K.Y.**    |       **22.86**       | **248** | **-0**  | **1**  |
+|     **Asvina**     |       **6.80**        | **589** | **+19** | **30** |
+|                   |       **29.06**       | **837** | **+19** | **30** |
+|      **10gh**      |       **+0.32**       | **11**  |        |       |
+|                   |       **29.98**       | **848** |        |       |
+| **an. 848, eq. =** |       **0.08**        |        |        |       |
+|                   | **0.08, Moon Waning** |        |        |       |
 
 
  16 The two factors which influence the preliminary result are *Cor.* of the year and C's an. The former may even extend the limits under certain circumstances: if Cor. of the odd year is,— the limit for the beginning of the month may become extended, if +, that for the end of the month; but never by more than 0.60.
@@ -11896,18 +11896,18 @@ The calculation shows that no new-moon occurred in solar Pausha: accordingly Pau
 
  Now compute Asvina and Karttika according to the Arya Siddhánta.
 
-।                  ।                        ।         ।         ।        ।
-|:----------------:|:----------------------:|:-------:|:-------:|:------:।
-।                 ।       **tithi.**       । **An.** । **gh**  । **p**  ।
-।  **4500 K.Y.**   ।       **20.09**        । **428** । **+3**  । **45** ।
-।   **11 Years**   ।        **1.87**        । **820** । **-9**  । **16** ।
-।  **4511 K.Y.**   ।       **22.86**        । **248** । **-5**  । **31** ।
-।    **Asvina**    ।        **6.80**        । **589** । **+17** । **51** ।
-।                 ।       **29.66**        । **837** । **+12** । **20** ।
-।   **+12 gh=**    ।        **0.20**        ।  **7**  ।        ।       ।
-।                 ।       **29.86**        । **844** ।        ।       ।
-। **An.844, eq =** ।        **0.08**        ।        ।        ।       ।
-।                 । **29.94, Moon Waning** ।        ।        ।       ।
+|                  |                        |         |         |        |
+|:----------------:|:----------------------:|:-------:|:-------:|:------:|
+|                 |       **tithi.**       | **An.** | **gh**  | **p**  |
+|  **4500 K.Y.**   |       **20.09**        | **428** | **+3**  | **45** |
+|   **11 Years**   |        **1.87**        | **820** | **-9**  | **16** |
+|  **4511 K.Y.**   |       **22.86**        | **248** | **-5**  | **31** |
+|    **Asvina**    |        **6.80**        | **589** | **+17** | **51** |
+|                 |       **29.66**        | **837** | **+12** | **20** |
+|   **+12 gh=**    |        **0.20**        |  **7**  |        |       |
+|                 |       **29.86**        | **844** |        |       |
+| **An.844, eq =** |        **0.08**        |        |        |       |
+|                 | **29.94, Moon Waning** |        |        |       |
 
 
  The calculation proves that in Samvat 1467, Bhâdrapada was intercalary according to the *Surya Siddhánta,* and Âśvina according to the *Árya Siddhánta.* However, to decide such cases beyond doubt, the *tithi* should be calculated by means of the Special Tables for the *Siddhánta* in question.
@@ -11921,15 +11921,15 @@ The calculation shows that no new-moon occurred in solar Pausha: accordingly Pau
 * Ex.1*—The Khera plate of Dharasena IV mentions an intercalary Mârgasira. It has been proposed by Dr. Schram" that this was a mean intercalation which occurred in 3749 K.Y. Let us calculate the mean *tithi* for the beginning of mean Mârgasira according to the above rules.  
 
 
-।                ।               ।           ।         ।        ।
-|:--------------:|:-------------:|:---------:|:-------:|:------:।
-।               ।              । **tithi** । **gh**  । **p**  ।
-।  **Table I**   । **3700 K.Y.** । **19.17** । **+7**  । **5**  ।
-। **"   II**  । **49 Years**  । **2.50**  । **-19** । **29** ।
-।               । **Mean Marg** । **7.06**  ।        ।       ।
-।               ।              । **28.73** । **-12** । **24** ।
-। **"   IV** ।   **-12gh**   । **-0.20** ।        ।       ।
-।               ।              । **28.53** ।        ।       ।
+|                |               |           |         |        |
+|:--------------:|:-------------:|:---------:|:-------:|:------:|
+|               |              | **tithi** | **gh**  | **p**  |
+|  **Table I**   | **3700 K.Y.** | **19.17** | **+7**  | **5**  |
+| **"   II**  | **49 Years**  | **2.50**  | **-19** | **29** |
+|               | **Mean Marg** | **7.06**  |        |       |
+|               |              | **28.73** | **-12** | **24** |
+| **"   IV** |   **-12gh**   | **-0.20** |        |       |
+|               |              | **28.53** |        |       |
 
 
 
@@ -11940,15 +11940,15 @@ The calculation shows that no new-moon occurred in solar Pausha: accordingly Pau
 
     Ex. 2.-It has been [suggested](# "20 Sitzungsberichte, ut sup.") that, in Kaliyuga 3741, mean Pausha was intercalary according to the elements of the *Brahma Siddhánta.*
 
-।               ।           ।         ।        ।
-|:-------------:|:---------:|:-------:|:------:।
-।              । **Tithi** । **gh**  । **p.** ।
-। **3700 K.Y.** । **19.17** । **+13** । **7**  ।
-। **41 Years** । **3.04**  । **+36** । **21** ।
-। **m.Pausha**  । **7.98**  । **-00** ।       ।
-।              । **0.19**  । **-10** । **32** ।
-।  **11*gh***   । **-0.19** ।        ।       ।
-।              । **0.00**  ।        ।       ।
+|               |           |         |        |
+|:-------------:|:---------:|:-------:|:------:|
+|              | **Tithi** | **gh**  | **p.** |
+| **3700 K.Y.** | **19.17** | **+13** | **7**  |
+| **41 Years** | **3.04**  | **+36** | **21** |
+| **m.Pausha**  | **7.98**  | **-00** |       |
+|              | **0.19**  | **-10** | **32** |
+|  **11*gh***   | **-0.19** |        |       |
+|              | **0.00**  |        |       |
 
     The *tithi*being just within the prescribed límits, the month was probably intercalary. See below § 57.
 
@@ -11962,15 +11962,15 @@ The calculation shows that no new-moon occurred in solar Pausha: accordingly Pau
 
 *   *Ex. In the date Sam. 1275 (*i.e.* 4319 K.Y.) Mârgasira-sudi 5, the *karaṇa Balava*is given. What time of the day is intended? We calculate first the *tithi.*
 
-।                  ।       ।     ।                   ।
-।------------------।-------।-----।-------------------।
-। 4300 K.Y.        । 27.78 । 251 । Ind● = 1.90      ।
-। 19 Years         । 0.82  । 864 । Ind sudi's = 6.90 ।
-। 4319 K.Y         । 28.10 । 115 ।                  ।
-। 23 Maragasira    । 6.09  । 783 ।                  ।
-।                 । 4.19  । 898 ।                  ।
-। An eq 898, eq. = । 0.17  ।    ।                  ।
-।                 । 4.36  ।    ।                  ।
+|                  |       |     |                   |
+|------------------|-------|-----|-------------------|
+| 4300 K.Y.        | 27.78 | 251 | Ind● = 1.90      |
+| 19 Years         | 0.82  | 864 | Ind sudi's = 6.90 |
+| 4319 K.Y         | 28.10 | 115 |                  |
+| 23 Maragasira    | 6.09  | 783 |                  |
+|                 | 4.19  | 898 |                  |
+| An eq 898, eq. = | 0.17  |    |                  |
+|                 | 4.36  |    |                  |
 
     From the above scheme of *Karaṇas* we make out Bàlava No. 10 to have been the second half of sudi 5. By 'table IV we find that the difference between the *tithi* for the beginning of the day 4:36 and that for the beginning of Bâlava 4.50, *viz.* 0.14, is equal to about 8 *ghatikas.* The time intended by Bâlava therefore was 28th Mârgasira 8 to 37 *gh.*
 
@@ -11991,11 +11991,11 @@ The calculation shows that no new-moon occurred in solar Pausha: accordingly Pau
 
 In this example we have—
 
-।                                           ।            ।
-|:-----------------------------------------:|:----------:।
-। Longitude of the sun           । 237° 35'\* ।
-।    + Distance of sun and moon        ।  52° 19   ।
-। Longitude of the moon          ।  289° 54'  ।
+|                                           |            |
+|:-----------------------------------------:|:----------:|
+| Longitude of the sun           | 237° 35'\* |
+|    + Distance of sun and moon        |  52° 19   |
+| Longitude of the moon          |  289° 54'  |
 
     According to Table IX the moon stood in Śravaṇa (280°—293° 20′), and would pass into  
 the next *Nakshatra* in between 15 and 16 *ghatikás*, the difference 293° 20'-289° 53'=8° 27', being equal to 15*gh.* 43*p*. (the motion of the moon being supposed to be of mean amount), see Table XI. Table V shows the moon to have been in *Makara*, the Hindu Capricornus.
@@ -12127,12 +12127,12 @@ Multiplying the figures of the differences by 2 1/6, the result is the differenc
 
  *Rule.* Find 'Jupiter's Saṁvat.' for the given date according to the *Siddhânta* to be employed. Divide the figures of the integral part by 12, Aneglect the quotient, and the remainder is the index of the subjoined table :—
 
-।                    ।              ।                 ।
-।--------------------।--------------।-----------------।
-। 0 or 12. Áśvayuja, । 4. Mágha.    । 8. Jyaishṭha.   ।
-। 1. Kârttika.       । 5. Phâlguna. । 9. Áshâḍha.     ।
-। 2. Mârgasira.      । 6. Chaitra.  । 10. Śrâvaṇa.    ।
-। 3. Pausha.         । 7. Vaisakha. । 11. Bhadrapada. ।
+|                    |              |                 |
+|--------------------|--------------|-----------------|
+| 0 or 12. Áśvayuja, | 4. Mágha.    | 8. Jyaishṭha.   |
+| 1. Kârttika.       | 5. Phâlguna. | 9. Áshâḍha.     |
+| 2. Mârgasira.      | 6. Chaitra.  | 10. Śrâvaṇa.    |
+| 3. Pausha.         | 7. Vaisakha. | 11. Bhadrapada. |
 
  *E. g*. we have found above that 'Jupiter' according to the *Árya Siddhânta* about the beginning of 4210 K.Y. was 59.3973. By the above rule we find that then the year Mahâ-Bhâdrapada was running, which ended, as calculated above, on the 3rd Mârgaśira.'
 
@@ -12402,12 +12402,12 @@ of the Hindus contain 1,461,035 days, they are equal to 40 centuries of Julian y
 
 ** *The sun's apogee.***
 
-।                      ।                    ।                    ।                        ।
-|:--------------------:|:------------------:|:------------------:|:----------------------:।
-।                     । Revol Sun's Kalpa । Position at 0.K.Y. । Mean anom. O at 0.K.Y. ।
-। *Sūrga Siddhânta* :  ।        887         ।     77° 7′ 48″     ।      282° 52' 12"      ।
-। *2nd Árya Siddhânta* ।        461         ।    77° 45' 36"     ।      282° 14' 24"      ।
-। *Brahma Siddhânta :* ।        480         ।    77° 45′ 36″     ।      282° 14' 24"      ।
+|                      |                    |                    |                        |
+|:--------------------:|:------------------:|:------------------:|:----------------------:|
+|                     | Revol Sun's Kalpa | Position at 0.K.Y. | Mean anom. O at 0.K.Y. |
+| *Sūrga Siddhânta* :  |        887         |     77° 7′ 48″     |      282° 52' 12"      |
+| *2nd Árya Siddhânta* |        461         |    77° 45' 36"     |      282° 14' 24"      |
+| *Brahma Siddhânta :* |        480         |    77° 45′ 36″     |      282° 14' 24"      |
 
 
 

@@ -85,18 +85,18 @@ Publishers Pvt. Ltd.
 
 Contents
 
-।                                                                                                                             ।
-।-----------------------------------------------------------------------------------------------------------------------------।
-। *Abbreviations*                                                                                                             ।
-। *Preface*                                                                                                                   ।
-। Introduction                                                                                                                ।
-। Vibhūtipādaḥ                                                                                                                ।
-। Kaivalyapādaḥ                                                                                                               ।
-। Contents                                                                                                                    ।
-। APPENDIX I: The Problem of the Authorship of the Yogasūtrabhāṣyavivaraṇam                                                   ।
-। APPENDIX II: Śankara's views on Yoga in the Brahmasūtrabhāṣya in the Light of the Authorship of the Yogasūtrabhāṣyavivaraṇa ।
-। Bibliography                                                                                                                ।
-। Index                                                                                                                       ।
+|                                                                                                                             |
+|-----------------------------------------------------------------------------------------------------------------------------|
+| *Abbreviations*                                                                                                             |
+| *Preface*                                                                                                                   |
+| Introduction                                                                                                                |
+| Vibhūtipādaḥ                                                                                                                |
+| Kaivalyapādaḥ                                                                                                               |
+| Contents                                                                                                                    |
+| APPENDIX I: The Problem of the Authorship of the Yogasūtrabhāṣyavivaraṇam                                                   |
+| APPENDIX II: Śankara's views on Yoga in the Brahmasūtrabhāṣya in the Light of the Authorship of the Yogasūtrabhāṣyavivaraṇa |
+| Bibliography                                                                                                                |
+| Index                                                                                                                       |
 
 
 

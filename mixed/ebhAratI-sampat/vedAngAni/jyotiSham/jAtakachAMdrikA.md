@@ -627,75 +627,75 @@ Guru is the lord of 8th and 11th houses, Kuja is the lord of 7th and 12th houses
 
 There are 27 constellations or *Nakshatras* and they are divided among the nine planets including Rahu and Kethu. The planetary periods are thus arranged.
 
-।                          ।                                                   ।
-।--------------------------।---------------------------------------------------।
-। ******Krittika******     । ******Ravis' period extending over 6 years.****** ।
-। ******Oottara******      ।                                                   ।
-। ******Oottarashada****** ।                                                   ।
+|                          |                                                   |
+|--------------------------|---------------------------------------------------|
+| ******Krittika******     | ******Ravis' period extending over 6 years.****** |
+| ******Oottara******      |                                                   |
+| ******Oottarashada****** |                                                   |
 
 
 
-।                      ।                                        ।
-।----------------------।----------------------------------------।
-। ******Rohiny******   । ******Chundra's period 10 years.****** ।
-। ******Hasta******    ।                                        ।
-। ******Sravanam****** ।                                        ।
+|                      |                                        |
+|----------------------|----------------------------------------|
+| ******Rohiny******   | ******Chundra's period 10 years.****** |
+| ******Hasta******    |                                        |
+| ******Sravanam****** |                                        |
 
 
 
-।                       ।                                    ।
-।-----------------------।------------------------------------।
-। ******Mrigasira****** । ******Kuja's period 7 years.****** ।
-। ******Chitta******    ।                                    ।
-। ******Dhanista******  ।                                    ।
+|                       |                                    |
+|-----------------------|------------------------------------|
+| ******Mrigasira****** | ******Kuja's period 7 years.****** |
+| ******Chitta******    |                                    |
+| ******Dhanista******  |                                    |
 
 
 
-।                         ।                                     ।
-।-------------------------।-------------------------------------।
-। ******Auridra******     । ******Rahu's period 18 years.****** ।
-। ******Swathy******      ।                                     ।
-। ******Sathabhisha****** ।                                     ।
+|                         |                                     |
+|-------------------------|-------------------------------------|
+| ******Auridra******     | ******Rahu's period 18 years.****** |
+| ******Swathy******      |                                     |
+| ******Sathabhisha****** |                                     |
 
 
 
-।                          ।                                   ।
-।--------------------------।-----------------------------------।
-। ******Poornarvasu******  । ******Guru's Dasa 16 years.****** ।
-। ******Visakha******      ।                                   ।
-। ******Poorvabhadra****** ।                                   ।
+|                          |                                   |
+|--------------------------|-----------------------------------|
+| ******Poornarvasu******  | ******Guru's Dasa 16 years.****** |
+| ******Visakha******      |                                   |
+| ******Poorvabhadra****** |                                   |
 
 
 
-।               ।                       ।
-।---------------।-----------------------।
-। Pooshiami     । Sani's Dasa 19 years. ।
-। Anooradha     ।                       ।
-। Oottarabhadra ।                       ।
+|               |                       |
+|---------------|-----------------------|
+| Pooshiami     | Sani's Dasa 19 years. |
+| Anooradha     |                       |
+| Oottarabhadra |                       |
 
 
 
-।                      ।                                     ।
-।----------------------।-------------------------------------।
-। ******Auslasha****** । ******Buda's Period 17 years.****** ।
-। ******Jaista******   ।                                     ।
-। ******Raivathy****** ।                                     ।
+|                      |                                     |
+|----------------------|-------------------------------------|
+| ******Auslasha****** | ******Buda's Period 17 years.****** |
+| ******Jaista******   |                                     |
+| ******Raivathy****** |                                     |
 
 
 
-।                    ।                                     ।
-।--------------------।-------------------------------------।
-। ******Makha******  । ******Kethu's Period 7 years.****** ।
-। ******Moola******  ।                                     ।
-। ******Aswini****** ।                                     ।
+|                    |                                     |
+|--------------------|-------------------------------------|
+| ******Makha******  | ******Kethu's Period 7 years.****** |
+| ******Moola******  |                                     |
+| ******Aswini****** |                                     |
 
 
 
-।                          ।                                      ।
-।--------------------------।--------------------------------------।
-। ******Poobba******       । ******Sukra's Period 20 years.****** ।
-। ******Poorvashadha****** ।                                      ।
-। ******Bharani******      ।                                      ।
+|                          |                                      |
+|--------------------------|--------------------------------------|
+| ******Poobba******       | ******Sukra's Period 20 years.****** |
+| ******Poorvashadha****** |                                      |
+| ******Bharani******      |                                      |
 
 The total of all these planetary periods will give 120 years as the extreme limit of the man's general age. There are instances of persons living beyond this period, but they fall under exceptions. Taking the horoscope given on page 32, I shall also give the Navamsa :-
 

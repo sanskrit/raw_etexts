@@ -42,10 +42,10 @@ title = "रामायणम्"
 
 
 
-।                     ।                             ।
-|:-------------------:|:---------------------------:।
-।    BARODA,       ।   **(Sd.) J. M. MEHTA,** ।
-। *28th March 1944.* ।     *  Vidyadhikari.*    ।
+|                     |                             |
+|:-------------------:|:---------------------------:|
+|    BARODA,       |   **(Sd.) J. M. MEHTA,** |
+| *28th March 1944.* |     *  Vidyadhikari.*    |
 
 
 
@@ -68,25 +68,25 @@ The Genius of Valmiki**
 
 **CONTENTS**
 
-।                  ।                                                      ।
-|:----------------:।------------------------------------------------------।
-। **INTRODUCTORY** ।                                                     ।
-।    CHAPTER I     । What is the Ramayana?                                ।
-।    CHAPTER II    । India's Representative Poem.                         ।
-।   CHAPTER III    । Valmiki: The Man and the Poem.                       ।
-।    CHAPTER IV    । The Composition and the Date of the Ramayana.        ।
-।    CHAPTER V     । Characterisation in the Ramayana.                    ।
-।    CHAPTER VI    । Valmiki's Ideals of Education.                       ।
-।   CHAPTER VII    । Valmiki's Ideals of Individual Life.                 ।
-।   CHAPTER VIII   । Valmiki's Ideals of Family Life.                     ।
-।    CHAPTER IX    । Valmiki's Ideals of Social Life.                     ।
-।    CHAPTER X     । Valmiki's Economic and Political Ideals.             ।
-।    CHAPTER XI    । The Ramayana as a Masterpiece of Literature and Art. ।
-।   CHAPTER XII    । Valmiki's Spiritual Ideals.                          ।
-।   CHAPTER XIII   । Valmiki's Portraiture of the Indian Civilisation.    ।
-।   CHAPTER XIV    । Valmiki's Vision of Life.                            ।
-।    CHAPTER XV    । Valmiki and his Successors.                          ।
-।   CHAPTER XVI    । Conclusion.                                          ।
+|                  |                                                      |
+|:----------------:|------------------------------------------------------|
+| **INTRODUCTORY** |                                                     |
+|    CHAPTER I     | What is the Ramayana?                                |
+|    CHAPTER II    | India's Representative Poem.                         |
+|   CHAPTER III    | Valmiki: The Man and the Poem.                       |
+|    CHAPTER IV    | The Composition and the Date of the Ramayana.        |
+|    CHAPTER V     | Characterisation in the Ramayana.                    |
+|    CHAPTER VI    | Valmiki's Ideals of Education.                       |
+|   CHAPTER VII    | Valmiki's Ideals of Individual Life.                 |
+|   CHAPTER VIII   | Valmiki's Ideals of Family Life.                     |
+|    CHAPTER IX    | Valmiki's Ideals of Social Life.                     |
+|    CHAPTER X     | Valmiki's Economic and Political Ideals.             |
+|    CHAPTER XI    | The Ramayana as a Masterpiece of Literature and Art. |
+|   CHAPTER XII    | Valmiki's Spiritual Ideals.                          |
+|   CHAPTER XIII   | Valmiki's Portraiture of the Indian Civilisation.    |
+|   CHAPTER XIV    | Valmiki's Vision of Life.                            |
+|    CHAPTER XV    | Valmiki and his Successors.                          |
+|   CHAPTER XVI    | Conclusion.                                          |
 
 
 
@@ -3835,42 +3835,42 @@ CONTENTS
 Book I  
 General Riddles**
 
-।                                                               ।
-।---------------------------------------------------------------।
-। The Riddle of the Commentaries                                ।
-। The Riddle of the Orientalists and the Indologists            ।
-। The Riddle of the Itihasas and Puranas                        ।
-। The Riddle of the Priority of the Ramayana to the Mahabharata ।
-। The Riddle of the Satakoti Ramayana                           ।
-। The Riddle of the Yugas                                       ।
-। The Riddle of the Gayatri Ramayana                            ।
-। The Riddle of Narada                                          ।
-। The Riddle of Valmiki                                         ।
-। The Riddle of the Moolaramayana                               ।
-। The Riddle of the Search for the Perfect Man                  ।
-। The Riddle of Valmiki's Religion                              ।
-। The Riddle of the Kāndas                                      ।
-। The Riddle of Interpolations                                  ।
-। The Riddle of the Historical Ramayana                         ।
-। The Riddle of the Sloka and the Adikavya                      ।
+|                                                               |
+|---------------------------------------------------------------|
+| The Riddle of the Commentaries                                |
+| The Riddle of the Orientalists and the Indologists            |
+| The Riddle of the Itihasas and Puranas                        |
+| The Riddle of the Priority of the Ramayana to the Mahabharata |
+| The Riddle of the Satakoti Ramayana                           |
+| The Riddle of the Yugas                                       |
+| The Riddle of the Gayatri Ramayana                            |
+| The Riddle of Narada                                          |
+| The Riddle of Valmiki                                         |
+| The Riddle of the Moolaramayana                               |
+| The Riddle of the Search for the Perfect Man                  |
+| The Riddle of Valmiki's Religion                              |
+| The Riddle of the Kāndas                                      |
+| The Riddle of Interpolations                                  |
+| The Riddle of the Historical Ramayana                         |
+| The Riddle of the Sloka and the Adikavya                      |
 
 **BOOK II  
 Riddles in the Bālakānda**
 
-।                                            ।
-।--------------------------------------------।
-। The Riddle of Dasaratha's Longevity        ।
-। The Riddle of Dasaratha's Queens           ।
-। The Riddle of Rishyasringa                 ।
-। The Riddle of the Pāyasam Episode          ।
-। The Riddle of Incarnation                  ।
-। The Riddle of Rama's Castemark             ।
-। The Riddle of the Yoga Vasishta            ।
-। The Riddle of Viswamitra                   ।
-। The Riddle of Rama's Sandhya Worship       ।
-। The Riddle of the Bala and Atibala Mantras ।
-। The Riddle of Tātaka and Mareecha          ।
-। The Riddle of Ahalya                       ।
+|                                            |
+|--------------------------------------------|
+| The Riddle of Dasaratha's Longevity        |
+| The Riddle of Dasaratha's Queens           |
+| The Riddle of Rishyasringa                 |
+| The Riddle of the Pāyasam Episode          |
+| The Riddle of Incarnation                  |
+| The Riddle of Rama's Castemark             |
+| The Riddle of the Yoga Vasishta            |
+| The Riddle of Viswamitra                   |
+| The Riddle of Rama's Sandhya Worship       |
+| The Riddle of the Bala and Atibala Mantras |
+| The Riddle of Tātaka and Mareecha          |
+| The Riddle of Ahalya                       |
 
 
 
@@ -9651,96 +9651,96 @@ I
 
 **बालकांडः**
 
-।                             ।                            ।
-।-----------------------------।----------------------------।
-। 1. शुद्धब्रह्मपरात्परराम    । 15. गौतममुनिसंपूजितराम     ।
-। 2. कालात्मकपरमेश्वरराम      । 16. सुरमुनिवरगुणसंस्तुतराम ।
-। 3.शेषतल्पसुखनिद्रितराम      । 17.शंकरादिसंसेवितराम       ।
-। 4. ब्रह्माद्यमरप्रार्थितराम । 18.पंकजाक्षपरमात्मकराम     ।
-। 5.भक्तवृंदपरिपालनराम        । 19.समस्तजगदुद्धारकराम      ।
-। 6. मुक्तिप्रदसुरमुनिनुतराम  । 20. हिमधामनिभाननराम        ।
-। 7. चंडकिरणकुलमंडनराम        । 21. नाविकधावितमृदुपादराम   ।
-। 8.श्रीमद्दशरथनन्दनराम       । 22.मिथिलापुरजनमोददराम      ।
-। 9.कौसल्यासुखवर्धनराम        । 23.विदेहमानसरंजकराम        ।
-। 10. विश्वामित्रप्रियधनराम   । 24.त्र्यंबककार्मुखभंजनराम  ।
-। 11. घोरताठकाघातकराम         । 25.सीतापितवनमालिकराम       ।
-। 12. मारीचादिनिपातकराम       । 26. कृतवैवाहिककौतुकराम     ।
-। 13. कौशिकमस्वसंरक्षकराम     । 27.भार्गवदर्पविनाशकराम     ।
-। 14. श्रीमदहल्योद्धारकराम    । 28. श्रीमदयोध्यानन्दकराम.  ।
+|                             |                            |
+|-----------------------------|----------------------------|
+| 1. शुद्धब्रह्मपरात्परराम    | 15. गौतममुनिसंपूजितराम     |
+| 2. कालात्मकपरमेश्वरराम      | 16. सुरमुनिवरगुणसंस्तुतराम |
+| 3.शेषतल्पसुखनिद्रितराम      | 17.शंकरादिसंसेवितराम       |
+| 4. ब्रह्माद्यमरप्रार्थितराम | 18.पंकजाक्षपरमात्मकराम     |
+| 5.भक्तवृंदपरिपालनराम        | 19.समस्तजगदुद्धारकराम      |
+| 6. मुक्तिप्रदसुरमुनिनुतराम  | 20. हिमधामनिभाननराम        |
+| 7. चंडकिरणकुलमंडनराम        | 21. नाविकधावितमृदुपादराम   |
+| 8.श्रीमद्दशरथनन्दनराम       | 22.मिथिलापुरजनमोददराम      |
+| 9.कौसल्यासुखवर्धनराम        | 23.विदेहमानसरंजकराम        |
+| 10. विश्वामित्रप्रियधनराम   | 24.त्र्यंबककार्मुखभंजनराम  |
+| 11. घोरताठकाघातकराम         | 25.सीतापितवनमालिकराम       |
+| 12. मारीचादिनिपातकराम       | 26. कृतवैवाहिककौतुकराम     |
+| 13. कौशिकमस्वसंरक्षकराम     | 27.भार्गवदर्पविनाशकराम     |
+| 14. श्रीमदहल्योद्धारकराम    | 28. श्रीमदयोध्यानन्दकराम.  |
 
 **अयोध्याकांडः.**
 
-।                             ।                            ।
-।-----------------------------।----------------------------।
-। 29. देवराजसंसेवितराम        । 33. राकाचन्द्रसमाननराम     ।
-। 30. भावजारिविधिप्रार्थितराम । 34. पितृवाक्याश्रितकाननराम ।
-। 31. अगणितगुणागणभूषितराम     । 35. प्रियगुहविनिवेदितपदराम ।
-। 32. अपनीकामिनिकामितराम      । 36 तत्क्षालितनिजमूदुपदराम  ।
+|                             |                            |
+|-----------------------------|----------------------------|
+| 29. देवराजसंसेवितराम        | 33. राकाचन्द्रसमाननराम     |
+| 30. भावजारिविधिप्रार्थितराम | 34. पितृवाक्याश्रितकाननराम |
+| 31. अगणितगुणागणभूषितराम     | 35. प्रियगुहविनिवेदितपदराम |
+| 32. अपनीकामिनिकामितराम      | 36 तत्क्षालितनिजमूदुपदराम  |
 
 
 
-।                            ।                          ।
-।----------------------------।--------------------------।
-। 37. भरद्वाजदृगानन्दनराम    । 42. भरतार्पितनिजपादुकराम ।
-। 38. चित्रकूठाद्रिनिकेतनराम । 43. जनकनृपतनूजाधिपसम     ।
-। 39. दशरथसंततचिंतितराम      । 44.दनुजकुलाठवीदाहनराम    ।
-। 40. ककेयीसुतप्रार्थितराम   । 45.दंडकावनजनपावनराम      ।
-। 41. विरचितनिजपितृकर्मकराम  ।                         ।
+|                            |                          |
+|----------------------------|--------------------------|
+| 37. भरद्वाजदृगानन्दनराम    | 42. भरतार्पितनिजपादुकराम |
+| 38. चित्रकूठाद्रिनिकेतनराम | 43. जनकनृपतनूजाधिपसम     |
+| 39. दशरथसंततचिंतितराम      | 44.दनुजकुलाठवीदाहनराम    |
+| 40. ककेयीसुतप्रार्थितराम   | 45.दंडकावनजनपावनराम      |
+| 41. विरचितनिजपितृकर्मकराम  |                         |
 
 **आरण्यकांडः**
 
-।                             ।                          ।
-।-----------------------------।--------------------------।
-। 46. दुष्टविराधविनाशनराम     । 54. मारीचार्तिकृदाशुगराम ।
-। 47. शरभंगसुतीक्ष्णार्चितराम । 55. विनष्टसीतान्वेषणराम  ।
-। 48.अगस्त्यानुग्रहवर्धितराम  । 56. गृध्राधिपगतिदायकराम  ।
-। 49. गृध्राधिपसंसेवितराम     । 57. शबरीदत्तफलाशनराम     ।
-। 50.पंचवठीवठसुस्थितराम       । 58. कबन्धबाहुच्छेदनराम   ।
-। 51. शूर्पणखार्तिविधायकराम   । 59. भूरिविबुधसंपूजितराम  ।
-। 52.स्वरदूषणमुखसादनराम       । 60.सारसाक्षबुधसन्नुतराम  ।
-। 53.सीताप्रियहरिणानुगराम     ।                         ।
+|                             |                          |
+|-----------------------------|--------------------------|
+| 46. दुष्टविराधविनाशनराम     | 54. मारीचार्तिकृदाशुगराम |
+| 47. शरभंगसुतीक्ष्णार्चितराम | 55. विनष्टसीतान्वेषणराम  |
+| 48.अगस्त्यानुग्रहवर्धितराम  | 56. गृध्राधिपगतिदायकराम  |
+| 49. गृध्राधिपसंसेवितराम     | 57. शबरीदत्तफलाशनराम     |
+| 50.पंचवठीवठसुस्थितराम       | 58. कबन्धबाहुच्छेदनराम   |
+| 51. शूर्पणखार्तिविधायकराम   | 59. भूरिविबुधसंपूजितराम  |
+| 52.स्वरदूषणमुखसादनराम       | 60.सारसाक्षबुधसन्नुतराम  |
+| 53.सीताप्रियहरिणानुगराम     |                         |
 
 **किष्किन्धाकांडः.**
 
-।                         ।                          ।
-।-------------------------।--------------------------।
-। 61. हनुमत्सेवितनिजपदराम । 64.वानरदूतप्रेषकराम      ।
-। 62. नतसुग्रीवाभीष्टदराम । 65.हितकरलक्ष्मणसंयुतराम. ।
-। 63. गर्वितवालिसंवाहकराम ।                         ।
+|                         |                          |
+|-------------------------|--------------------------|
+| 61. हनुमत्सेवितनिजपदराम | 64.वानरदूतप्रेषकराम      |
+| 62. नतसुग्रीवाभीष्टदराम | 65.हितकरलक्ष्मणसंयुतराम. |
+| 63. गर्वितवालिसंवाहकराम |                         |
 
 **सुन्दरकांडः.**
 
-।                            ।                         ।
-।----------------------------।-------------------------।
-। 66. कपिवरसंततसंस्मृतराम    । 72.सीताप्राणाधारकराम    ।
-। 67. तद्गतिविघ्नध्वंसकराम   । 73.दुष्टदशाननदूषितराम   ।
-। 68.परमभक्तपरिपालकराम       । 74. शिष्टहनूमद्भूषितराम ।
-। 69. नरवरेन्द्रसन्नुतराम    । 75. सीतोदितकाकासुरराम   ।
-। 70.इन्द्रादित्रिदशवंदितराम । 76. कृतचूडामणिदर्शनराम  ।
-। 71. अतिमानसमानगभीरश्रीराम  । 77. कपिवरवचनाश्वासितराम ।
+|                            |                         |
+|----------------------------|-------------------------|
+| 66. कपिवरसंततसंस्मृतराम    | 72.सीताप्राणाधारकराम    |
+| 67. तद्गतिविघ्नध्वंसकराम   | 73.दुष्टदशाननदूषितराम   |
+| 68.परमभक्तपरिपालकराम       | 74. शिष्टहनूमद्भूषितराम |
+| 69. नरवरेन्द्रसन्नुतराम    | 75. सीतोदितकाकासुरराम   |
+| 70.इन्द्रादित्रिदशवंदितराम | 76. कृतचूडामणिदर्शनराम  |
+| 71. अतिमानसमानगभीरश्रीराम  | 77. कपिवरवचनाश्वासितराम |
 
 
 
 **युद्धकांडः**
 
-।                            ।                              ।
-।----------------------------।------------------------------।
-। 78. रावणनिधनप्रस्थितराम    । 94. भरद्वाजादिनिषेवणराम      ।
-। 79. वानरसैन्यसमावृतराम     । 95. भरतप्राणनवितरणराम        ।
-। 80. शोषितसरिदीशार्थितराम   । 96. साकेतपुरीभूषणराम         ।
-। 81.विभीषणाभयदायकराम        । 97. सकलस्वीयसमावृतराम        ।
-। 82. पर्वतसेतुनिबन्धकराम    । 98. रत्नलसत्पीठस्थितराम      ।
-। 83. घठकर्णशिरच्छेदकराम.    । 99. पट्टाभिषेकालंकृतराम      ।
-। 84. राक्षसकोठिविमर्दकराम   । 100. पार्थिवकुलसंमानितराम    ।
-। 85. अहिमहिरावणमारकराम      । 101 विभीषणार्पितरंगकराम      ।
-। 86. संहृतदशमुखरावणराम      । 102. कीशकुलानुग्रहकारकराम    ।
-। 87. विधिभवमुखसुरसंस्तुतराम । 103. कंदर्पसुन्दराकारश्रीराम ।
-। 88. स्वस्थितदशरथवीक्षितराम । 104. बन्धुरहितनृपनन्दनराम    ।
-। 89. सीतादर्शनमादितराम      । 105. सकलजीवसंरक्षकराम        ।
-। 90. अभिषिक्तविभीषणनुतराम   । 106. समस्तलोकाधारकराम        ।
-। 91. मेचकांगपरमात्मकराम     । 107. रामरामजयराजाराम         ।
-। 92. नीचदनुजमदनाशनराम      । 108. रामरामजयसीताराम.        ।
-। 93. पुष्पकयानारोहणराम      ।                             ।
+|                            |                              |
+|----------------------------|------------------------------|
+| 78. रावणनिधनप्रस्थितराम    | 94. भरद्वाजादिनिषेवणराम      |
+| 79. वानरसैन्यसमावृतराम     | 95. भरतप्राणनवितरणराम        |
+| 80. शोषितसरिदीशार्थितराम   | 96. साकेतपुरीभूषणराम         |
+| 81.विभीषणाभयदायकराम        | 97. सकलस्वीयसमावृतराम        |
+| 82. पर्वतसेतुनिबन्धकराम    | 98. रत्नलसत्पीठस्थितराम      |
+| 83. घठकर्णशिरच्छेदकराम.    | 99. पट्टाभिषेकालंकृतराम      |
+| 84. राक्षसकोठिविमर्दकराम   | 100. पार्थिवकुलसंमानितराम    |
+| 85. अहिमहिरावणमारकराम      | 101 विभीषणार्पितरंगकराम      |
+| 86. संहृतदशमुखरावणराम      | 102. कीशकुलानुग्रहकारकराम    |
+| 87. विधिभवमुखसुरसंस्तुतराम | 103. कंदर्पसुन्दराकारश्रीराम |
+| 88. स्वस्थितदशरथवीक्षितराम | 104. बन्धुरहितनृपनन्दनराम    |
+| 89. सीतादर्शनमादितराम      | 105. सकलजीवसंरक्षकराम        |
+| 90. अभिषिक्तविभीषणनुतराम   | 106. समस्तलोकाधारकराम        |
+| 91. मेचकांगपरमात्मकराम     | 107. रामरामजयराजाराम         |
+| 92. नीचदनुजमदनाशनराम      | 108. रामरामजयसीताराम.        |
+| 93. पुष्पकयानारोहणराम      |                             |
 
 **![](../books_images/U-IMG-1728446121Screenshot2024-08-04235410.png)**
 
@@ -12051,218 +12051,218 @@ POEMS OF NATURE.
 
 **ERRATA**
 
-।               ।               ।
-|:-------------:|:-------------:।
-।    **FOR**    ।   **READ**    ।
-।     mind      ।     mind      ।
-।    Atmain     ।     Atman     ।
-।      द्य      ।     द्या      ।
-।    Tirput     ।    Tirhut     ।
-।   Faminine    ।   Feminine    ।
-।    Peaeock    ।    Peacock    ।
-।    Equinot    ।    Equinox    ।
-।     Yayur     ।     Yajur     ।
-।     conto     ।     canto     ।
-।    राकृतं     ।   पुराकृतं    ।
-।     4000      ।     10000     ।
-।  भुंजीयात्   ।   भुंजीथाः    ।
-।      ये       ।      यं       ।
-।  अवैक्षमाणः   ।  अवेक्षमाणः   ।
-।     इवाच      ।     उवाच      ।
-।   अनार्थिन    ।    अनर्थिन    ।
-।    become     ।    becomes    ।
-।     loved     ।     loves     ।
-।   explained   ।   explains    ।
-।    showed     ।     shows     ।
-।   withdrow    ।   withdraws   ।
-।      was      ।      is       ।
-।    Valmiki    ।     Vali      ।
-।    to day     ।  to this day  ।
-।     कश्चन     ।     किंचन     ।
-।     lead      ।    lead to    ।
-।  continually  ।   continual   ।
-।   nārājaha    ।   nārājaka    ।
-। hair apparent । heir-apparent ।
-।   tributory   ।   tributary   ।
-।     the,      ।      the      ।
-।   abhishaka   ।   abhisheka   ।
+|               |               |
+|:-------------:|:-------------:|
+|    **FOR**    |   **READ**    |
+|     mind      |     mind      |
+|    Atmain     |     Atman     |
+|      द्य      |     द्या      |
+|    Tirput     |    Tirhut     |
+|   Faminine    |   Feminine    |
+|    Peaeock    |    Peacock    |
+|    Equinot    |    Equinox    |
+|     Yayur     |     Yajur     |
+|     conto     |     canto     |
+|    राकृतं     |   पुराकृतं    |
+|     4000      |     10000     |
+|  भुंजीयात्   |   भुंजीथाः    |
+|      ये       |      यं       |
+|  अवैक्षमाणः   |  अवेक्षमाणः   |
+|     इवाच      |     उवाच      |
+|   अनार्थिन    |    अनर्थिन    |
+|    become     |    becomes    |
+|     loved     |     loves     |
+|   explained   |   explains    |
+|    showed     |     shows     |
+|   withdrow    |   withdraws   |
+|      was      |      is       |
+|    Valmiki    |     Vali      |
+|    to day     |  to this day  |
+|     कश्चन     |     किंचन     |
+|     lead      |    lead to    |
+|  continually  |   continual   |
+|   nārājaha    |   nārājaka    |
+| hair apparent | heir-apparent |
+|   tributory   |   tributary   |
+|     the,      |      the      |
+|   abhishaka   |   abhisheka   |
 
 
 
-।                ।                ।
-|:--------------:|:--------------:।
-।    **FOR**     ।    **READ**    ।
-।     धिताः      ।     जिताः      ।
-।     punja      ।     punya      ।
-।    ritri-ks    ।    ritwiks     ।
-।    भवतामर्ज    ।  भवतामार्जवं   ।
-। न् स्मानहंसि  ।  नस्मान्हंसि   ।
-।   आनन्तर्मम    ।   आनन्तर्यम    ।
-।     asāna      ।     āsana      ।
-।  Vipralambhas  ।  Vipralambha   ।
-।       हव       ।       हत       ।
-। self conscious । self-conscious ।
-।      the       ।      they      ।
-।     become     ।     became     ।
-।      दधिक      ।     दधिकं      ।
-।     jataha     ।     jataka     ।
-।    **FOR**     ।    **READ**    ।
-।    Aurbindo    ।   Aurobindo    ।
-।       to       ।      omit      ।
-।      योहव      ।     योहवा      ।
-।     event      ।     event      ।
-।  in nutshell   । in a nutshell  ।
-।      i. e      ।      and       ।
-।   अन्वियायं    ।    अन्वियाय    ।
-।     mother     ।     mother     ।
-।      Vaya      ।      Vayu      ।
-।      Kama      ।      Rama      ।
-।     sloha      ।     sloka      ।
-।      उभया      ।      उमया      ।
-।   निरूपयितु    ।   विरूपयितु    ।
-।     cruel      ।     cruel      ।
-।   ब्रह्येशा    ।  ब्रह्मेशाना   ।
-।      sag-      ।      sage      ।
+|                |                |
+|:--------------:|:--------------:|
+|    **FOR**     |    **READ**    |
+|     धिताः      |     जिताः      |
+|     punja      |     punya      |
+|    ritri-ks    |    ritwiks     |
+|    भवतामर्ज    |  भवतामार्जवं   |
+| न् स्मानहंसि  |  नस्मान्हंसि   |
+|   आनन्तर्मम    |   आनन्तर्यम    |
+|     asāna      |     āsana      |
+|  Vipralambhas  |  Vipralambha   |
+|       हव       |       हत       |
+| self conscious | self-conscious |
+|      the       |      they      |
+|     become     |     became     |
+|      दधिक      |     दधिकं      |
+|     jataha     |     jataka     |
+|    **FOR**     |    **READ**    |
+|    Aurbindo    |   Aurobindo    |
+|       to       |      omit      |
+|      योहव      |     योहवा      |
+|     event      |     event      |
+|  in nutshell   | in a nutshell  |
+|      i. e      |      and       |
+|   अन्वियायं    |    अन्वियाय    |
+|     mother     |     mother     |
+|      Vaya      |      Vayu      |
+|      Kama      |      Rama      |
+|     sloha      |     sloka      |
+|      उभया      |      उमया      |
+|   निरूपयितु    |   विरूपयितु    |
+|     cruel      |     cruel      |
+|   ब्रह्येशा    |  ब्रह्मेशाना   |
+|      sag-      |      sage      |
 
 
 
 **INDEX**
 
-।                                 ।                                       ।
-।---------------------------------।---------------------------------------।
-। Adhyatma Ramayana—Appendix VIII । Dasaratha                   ।
-। Aditya Hridaya—Part II          । Dasaratha's Longevity—Part II         ।
-। Agastya                         । Dasaratha's Queens—Part II            ।
-। Agastya—Part II                 । Ekasloki Ramayana—Appendix V          ।
-। Ahalya                          । Ethical Pathology—Appendix I          ।
-। Ahalya—Part II                  । Garuda —Part II                       ।
-। Anasuya                         । Gayatri Ramayana—Part II              ।
-। Angada                          । Gayatri Ramayana—Appendix IV          ।
-। Vali                            । Guha                                  ।
-। Atri                            । Guha— Part II                         ।
-। Aurobindo—Part II               । Hanuman                               ।
-। Bala-Atibala Mantras—Part II    । Hanuman—Part II                       ।
-। Bharadwaja                      । Harappa                               ।
-। Bharadwaja— Part II             । Haraprasad Sastri                     ।
-। Bharata                         । Hindu Customs                         ।
-। Castemark—PartII               । Homage to Valmiki—Appendix XVIII, XXI ।
-। Chiranjeevi —Part II            । Homer, Virgil, Valmiki                ।
-। Crow episode—Part II            ।                                      ।
+|                                 |                                       |
+|---------------------------------|---------------------------------------|
+| Adhyatma Ramayana—Appendix VIII | Dasaratha                   |
+| Aditya Hridaya—Part II          | Dasaratha's Longevity—Part II         |
+| Agastya                         | Dasaratha's Queens—Part II            |
+| Agastya—Part II                 | Ekasloki Ramayana—Appendix V          |
+| Ahalya                          | Ethical Pathology—Appendix I          |
+| Ahalya—Part II                  | Garuda —Part II                       |
+| Anasuya                         | Gayatri Ramayana—Part II              |
+| Angada                          | Gayatri Ramayana—Appendix IV          |
+| Vali                            | Guha                                  |
+| Atri                            | Guha— Part II                         |
+| Aurobindo—Part II               | Hanuman                               |
+| Bala-Atibala Mantras—Part II    | Hanuman—Part II                       |
+| Bharadwaja                      | Harappa                               |
+| Bharadwaja— Part II             | Haraprasad Sastri                     |
+| Bharata                         | Hindu Customs                         |
+| Castemark—PartII               | Homage to Valmiki—Appendix XVIII, XXI |
+| Chiranjeevi —Part II            | Homer, Virgil, Valmiki                |
+| Crow episode—Part II            |                                      |
 
 
 
-।                                    ।                                       ।
-।------------------------------------।---------------------------------------।
-। Incarnation                        । Mahadeva— Part II                     ।
-। Indrajit                           । Mahabharata, Date                     ।
-। Indrajit— Part II                  । Mandodari                             ।
-। Interpolations—Part II             । Mandodari—Part II                     ।
-। Jambavan                           । Manu and Valmiki                      ।
-। Jatayu                             । Manthara                              ।
-। Jatayu— Part II                    । Manthara—Part II                      ।
-। Kaikeyi                            । Mareecha—Part II                      ।
-। Kaikeyi—Part II                    । Modern Views on Ramayana—Appendix XVI ।
-। Kausalya                           । Mohenjo Daro                          ।
-। Key Verses in Ramayana—Appendix II । Moolaramayana—Part II                 ।
-। Kula Dhana—Part II                 । Nala Sethu—Part II                    ।
-। Kumbhakarna                        । Nāma Ramayana—Appendix Xl             ।
-। Kumbhakarna—Part II                । Narada —Part II                       ।
-। Laxmana                            । Orientalists— Part II                 ।
-। Lakshmana's Ascension—Part II      । Parasurama —Part II                   ।
-। Lakshmana's Fast and Vigil—Part II । Payasam episode—Part II               ।
-। Later Ramayanas—Appendix XII       । Perfect Man—Part II                   ।
+|                                    |                                       |
+|------------------------------------|---------------------------------------|
+| Incarnation                        | Mahadeva— Part II                     |
+| Indrajit                           | Mahabharata, Date                     |
+| Indrajit— Part II                  | Mandodari                             |
+| Interpolations—Part II             | Mandodari—Part II                     |
+| Jambavan                           | Manu and Valmiki                      |
+| Jatayu                             | Manthara                              |
+| Jatayu— Part II                    | Manthara—Part II                      |
+| Kaikeyi                            | Mareecha—Part II                      |
+| Kaikeyi—Part II                    | Modern Views on Ramayana—Appendix XVI |
+| Kausalya                           | Mohenjo Daro                          |
+| Key Verses in Ramayana—Appendix II | Moolaramayana—Part II                 |
+| Kula Dhana—Part II                 | Nala Sethu—Part II                    |
+| Kumbhakarna                        | Nāma Ramayana—Appendix Xl             |
+| Kumbhakarna—Part II                | Narada —Part II                       |
+| Laxmana                            | Orientalists— Part II                 |
+| Lakshmana's Ascension—Part II      | Parasurama —Part II                   |
+| Lakshmana's Fast and Vigil—Part II | Payasam episode—Part II               |
+| Later Ramayanas—Appendix XII       | Perfect Man—Part II                   |
 
 
 
-।                                       ।                                     ।
-।---------------------------------------।-------------------------------------।
-। Poetic Anthology from Valmiki         । Ramayana as Bhakti Shastra          ।
-। Pushpaka—Part II                      । Ramayana as Itihasa                 ।
-। Rama                                  । Ramayana as Itihasa—Part II         ।
-। Ramaraksha— Appendix X                । Ramayana as Kavya                   ।
-। Rama Rajya—Part II                    । Ramayana beyond India—Part XVII     ।
-। Rama's Age—Part II                    । Ramayana Commentaries—Part II       ।
-। Rama's Coronation as Yuvaraja—Part II । Ramayana in Manabharata—Appendix VI ।
-। Rama and Krishna                      । Ramayana in Bhagawata—Appendix II   ।
-। Rama and Rajasuya                     । Ramayana and Gita                   ।
-। Rama and Truth—Part II                । Ramayanas—Other                     ।
-। Rama's Ascension—Part II              । Ravana                              ।
-। Rama's Grief for Sita—Part II         । Ravana—Part II                      ।
-। Rama's Truthfulness—Part II           । Riddle of Incarnation—Part II       ।
-। Rama's Loyalty to Sita—Part II        । Riddle of Kandas—Part II            ।
-। Rama's Sandhya Worship — Part II      । Rishyasringa—Part II                ।
-। Rama's Self—praise—Part II            । Rig Veda—Date                       ।
-। Rama's Stepping Back—Part II          । Sabari                              ।
-। Ramayana as Allegory                  । Sambooka—Part II                    ।
+|                                       |                                     |
+|---------------------------------------|-------------------------------------|
+| Poetic Anthology from Valmiki         | Ramayana as Bhakti Shastra          |
+| Pushpaka—Part II                      | Ramayana as Itihasa                 |
+| Rama                                  | Ramayana as Itihasa—Part II         |
+| Ramaraksha— Appendix X                | Ramayana as Kavya                   |
+| Rama Rajya—Part II                    | Ramayana beyond India—Part XVII     |
+| Rama's Age—Part II                    | Ramayana Commentaries—Part II       |
+| Rama's Coronation as Yuvaraja—Part II | Ramayana in Manabharata—Appendix VI |
+| Rama and Krishna                      | Ramayana in Bhagawata—Appendix II   |
+| Rama and Rajasuya                     | Ramayana and Gita                   |
+| Rama and Truth—Part II                | Ramayanas—Other                     |
+| Rama's Ascension—Part II              | Ravana                              |
+| Rama's Grief for Sita—Part II         | Ravana—Part II                      |
+| Rama's Truthfulness—Part II           | Riddle of Incarnation—Part II       |
+| Rama's Loyalty to Sita—Part II        | Riddle of Kandas—Part II            |
+| Rama's Sandhya Worship — Part II      | Rishyasringa—Part II                |
+| Rama's Self—praise—Part II            | Rig Veda—Date                       |
+| Rama's Stepping Back—Part II          | Sabari                              |
+| Ramayana as Allegory                  | Sambooka—Part II                    |
 
 
 
-।                                         ।                               ।
-।-----------------------------------------।-------------------------------।
-। Sampathi                                । Sumantra—Part II              ।
-। Sanjeevani—Part II                      । Sumerians                     ।
-। Saptarishi Ramayana—Appendix IX         । Sumitra                       ।
-। Sarabhanga                              । Surpanakha                    ।
-। Satakoti Ramayana—Part II               । Surpanakha—Part II            ।
-। Satananda                               । Sutheckshna                   ।
-। Satrughna                               । Swayamprabha                  ।
-। Sita                                    । Tara                          ।
-। Sita's Age—Part II                      । Tara—Part II                  ।
-। Sita's Banishment—Part II               । Tātaka                        ।
-। Sita's Disappearance—Part II            । Tataka—Part II                ।
-। Sita's Entry into Fire—Part II          । Unity of India               ।
-। Sita's Truthfulness—Part II             । Vaidya C. V. on Incarnation   ।
-। Sitarama Stotra—Appendix XX             । Valkala —Part II              ।
-। Sloka in Ramayana—Part II               । Vanaras and Rakshasas—Part II ।
-। Special Verses in Ramayana—Appendix III । Vali and Sugreeva—Part II     ।
-। Sugriva                                 । Vali Vadha—Part II            ।
-। Sumantra                                । VaImiki                       ।
+|                                         |                               |
+|-----------------------------------------|-------------------------------|
+| Sampathi                                | Sumantra—Part II              |
+| Sanjeevani—Part II                      | Sumerians                     |
+| Saptarishi Ramayana—Appendix IX         | Sumitra                       |
+| Sarabhanga                              | Surpanakha                    |
+| Satakoti Ramayana—Part II               | Surpanakha—Part II            |
+| Satananda                               | Sutheckshna                   |
+| Satrughna                               | Swayamprabha                  |
+| Sita                                    | Tara                          |
+| Sita's Age—Part II                      | Tara—Part II                  |
+| Sita's Banishment—Part II               | Tātaka                        |
+| Sita's Disappearance—Part II            | Tataka—Part II                |
+| Sita's Entry into Fire—Part II          | Unity of India               |
+| Sita's Truthfulness—Part II             | Vaidya C. V. on Incarnation   |
+| Sitarama Stotra—Appendix XX             | Valkala —Part II              |
+| Sloka in Ramayana—Part II               | Vanaras and Rakshasas—Part II |
+| Special Verses in Ramayana—Appendix III | Vali and Sugreeva—Part II     |
+| Sugriva                                 | Vali Vadha—Part II            |
+| Sumantra                                | VaImiki                       |
 
 
 
-।                                         ।                                  ।
-।-----------------------------------------।----------------------------------।
-। Valmiki —Adikavi                       । Valmiki and Spirituality         ।
-। Valmiki—his Learning                   । Valmiki and Tulsidas—Appendix XV ।
-। Valmiki his Life                       । Valmiki on Fate and Freewill     ।
-। Valmiki Riddle—Part II                  । Valmiki's Figures of Speech      ।
-। Valmiki and Aesthetics                  । Valmiki on Heaven                ।
-। Valmiki and Asvagosha                   । Valmiki's Humour                 ।
-। Valmiki and Auchitya                    । Valmiki's Ideals of Education    ।
-। Valmiki on Devas                        । Valmiki and International Ideals ।
-। Valmiki and Bhasa                       । Valmiki's Ideals of Manhood      ।
-। Valmiki and Dhvani                      । Valmiki's Ideals of Social Life  ।
-। Valmiki and Kalidasa                    । Valniki on Individual Life       ।
-। Valmiki and Kalidasa—Appendix XV        । Valmiki on Karma                 ।
-। Valmiki and Kamban—Appendix XIV         । Valmiki on Kingship              ।
-। Valmiki and later poets                 । Valmiki's Love Poetry            ।
-। Valmiki and National Ideals             । Valmiki on Military Science      ।
-। Valmiki on Econoinic and Political Life । Valmiki's Religion—Part Il       ।
-। Valmiki on Family Life                  । Valmiki on Ministers             ।
-। Valmiki and Indian Civilisation         । Valmiki on Officials             ।
+|                                         |                                  |
+|-----------------------------------------|----------------------------------|
+| Valmiki —Adikavi                       | Valmiki and Spirituality         |
+| Valmiki—his Learning                   | Valmiki and Tulsidas—Appendix XV |
+| Valmiki his Life                       | Valmiki on Fate and Freewill     |
+| Valmiki Riddle—Part II                  | Valmiki's Figures of Speech      |
+| Valmiki and Aesthetics                  | Valmiki on Heaven                |
+| Valmiki and Asvagosha                   | Valmiki's Humour                 |
+| Valmiki and Auchitya                    | Valmiki's Ideals of Education    |
+| Valmiki on Devas                        | Valmiki and International Ideals |
+| Valmiki and Bhasa                       | Valmiki's Ideals of Manhood      |
+| Valmiki and Dhvani                      | Valmiki's Ideals of Social Life  |
+| Valmiki and Kalidasa                    | Valniki on Individual Life       |
+| Valmiki and Kalidasa—Appendix XV        | Valmiki on Karma                 |
+| Valmiki and Kamban—Appendix XIV         | Valmiki on Kingship              |
+| Valmiki and later poets                 | Valmiki's Love Poetry            |
+| Valmiki and National Ideals             | Valmiki on Military Science      |
+| Valmiki on Econoinic and Political Life | Valmiki's Religion—Part Il       |
+| Valmiki on Family Life                  | Valmiki on Ministers             |
+| Valmiki and Indian Civilisation         | Valmiki on Officials             |
 
 
 
-।                                     ।                                    ।
-।-------------------------------------।------------------------------------।
-। Valmiki and other world Epics       । Valmiki on *Tapas* Epics           ।
-। Valmiki on Paradise Epics           । Valmiki on Tapovanas Epics         ।
-। Valmiki's Nature Poetry Epics       । Valmiki on the Trinity Epics       ।
-। Valmiki's Poetry Epics              । Valmiki on Upāyas Epics            ।
-। Valmiki on Fine Arts Epics          । Valmiki on Urban Life Epics        ।
-। Valmiki on Human Life Epics         । Valmiki on Veda Epics              ।
-। Valmiki and Music Epics             । Valmiki's Vision of Life Epics     ।
-। Valmiki and the Rasas Epics         । Valmiki and Womanhood Epics        ।
-। Valmiki on *Rishis* (Sages) Epics   । Valmiki on Yukthis Epics           ।
-। Valmiki on Rama Rajya Epics         । Vasishta Epics                     ।
-। Valmiki on Roads Epics****          । Vibheeshana Epics                  ।
-। Valmiki on Rural and Urban Councils । Vindhya and Mahendra—Part II Epics ।
-। Valmiki on Rural Life Epics         । Viswamitra Epics                   ।
-। Valmiki ou Sabhas Epics             । Vibheeshana—Part II                ।
-। Valmiki on Samskaras Epics          । Viswamitra—Part II Epics           ।
-। Valmiki on Saranāgati Epics         । Winternitz Epics                   ।
-। Valmiki on the Soul Epics           । Yoga Vasishta—Part II Epics        ।
-। Valmiki's Style Epics               । Yugas—Part II**** Epics           ।
+|                                     |                                    |
+|-------------------------------------|------------------------------------|
+| Valmiki and other world Epics       | Valmiki on *Tapas* Epics           |
+| Valmiki on Paradise Epics           | Valmiki on Tapovanas Epics         |
+| Valmiki's Nature Poetry Epics       | Valmiki on the Trinity Epics       |
+| Valmiki's Poetry Epics              | Valmiki on Upāyas Epics            |
+| Valmiki on Fine Arts Epics          | Valmiki on Urban Life Epics        |
+| Valmiki on Human Life Epics         | Valmiki on Veda Epics              |
+| Valmiki and Music Epics             | Valmiki's Vision of Life Epics     |
+| Valmiki and the Rasas Epics         | Valmiki and Womanhood Epics        |
+| Valmiki on *Rishis* (Sages) Epics   | Valmiki on Yukthis Epics           |
+| Valmiki on Rama Rajya Epics         | Vasishta Epics                     |
+| Valmiki on Roads Epics****          | Vibheeshana Epics                  |
+| Valmiki on Rural and Urban Councils | Vindhya and Mahendra—Part II Epics |
+| Valmiki on Rural Life Epics         | Viswamitra Epics                   |
+| Valmiki ou Sabhas Epics             | Vibheeshana—Part II                |
+| Valmiki on Samskaras Epics          | Viswamitra—Part II Epics           |
+| Valmiki on Saranāgati Epics         | Winternitz Epics                   |
+| Valmiki on the Soul Epics           | Yoga Vasishta—Part II Epics        |
+| Valmiki's Style Epics               | Yugas—Part II**** Epics           |
 
 
 

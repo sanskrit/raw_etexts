@@ -98,44 +98,44 @@ CONTENTS.
 
 FIRST SERIES.
 
-।          ।                                                    ।     ।
-|:--------:।----------------------------------------------------|:---:।
-।    I.    । The three fishes                                   ।  1  ।
-।   II\.   । The vulture and the cat                            ।  2  ।
-।   III    । An account of Mâlavikâ                             ।  4  ।
-।   IV\.   । Pârvatî practising penance                         ।  5  ।
-।    V    । A specimen of a letter                             ।  7  ।
-।   VI\.   । A thunder-storm                                    ।  8  ।
-।  VII\.   । Yayâti with renovated youth                        । 10  ।
-।  VIII\.  । Introduction of Patralekhâ to Chandrapida          । 11  ।
-।   IX\.   । Atreyi and Vásanti ( a Sylvan deity )              । 13  ।
-।   XI\.   । The Yaksha's abode                                 । 17  ।
-।  XII\.   । A foundling                                        । 19  ।
-।  XIII\.  । An ideal king                                      । 20  ।
-।  XIV\.   । Chandrapida requesting Mahâsvetâ to tell her story । 22  ।
-।   XV\.   । A contrast                                         । 23  ।
-।  XVI\.   । The heroic and fiery-tempered Asvatthâman Part I   । 25  ।
-।  XVII\.  । ” ” ”            । 30  ।
-।  XVII\.  । Aja's lamentation on the death of his wife         । 35  ।
-। XVIII\.  । Advice of Sukanâsa to Chandràpida                  । 37  ।
-।  XIX\.   । The evils of anarchy                               । 39  ।
-।   XX\.   । Vidura's advice to Dhritarashtra                   । 41  ।
-।  XXI   । "    "       "                    । 44  ।
-।  XXII\.  । The tale of Pururavas and Urvasi                   । 46  ।
-। XXIII  । "    "      "                      । 51  ।
-।  XXIV\.  । Râmâ's return journey from Lanka to Ayodhyâ        । 56  ।
-।  XXV\.   । Another foundling                                  । 58  ।
-।  XXVI\.  । Dasaratha and Visvâmitra                           । 60  ।
-। XXVII\.  । Draupadi and Yudhishthira                          । 61  ।
-। XXVIII\. । Brahman is the efficient cause of the universe     । 63  ।
+|          |                                                    |     |
+|:--------:|----------------------------------------------------|:---:|
+|    I.    | The three fishes                                   |  1  |
+|   II\.   | The vulture and the cat                            |  2  |
+|   III    | An account of Mâlavikâ                             |  4  |
+|   IV\.   | Pârvatî practising penance                         |  5  |
+|    V    | A specimen of a letter                             |  7  |
+|   VI\.   | A thunder-storm                                    |  8  |
+|  VII\.   | Yayâti with renovated youth                        | 10  |
+|  VIII\.  | Introduction of Patralekhâ to Chandrapida          | 11  |
+|   IX\.   | Atreyi and Vásanti ( a Sylvan deity )              | 13  |
+|   XI\.   | The Yaksha's abode                                 | 17  |
+|  XII\.   | A foundling                                        | 19  |
+|  XIII\.  | An ideal king                                      | 20  |
+|  XIV\.   | Chandrapida requesting Mahâsvetâ to tell her story | 22  |
+|   XV\.   | A contrast                                         | 23  |
+|  XVI\.   | The heroic and fiery-tempered Asvatthâman Part I   | 25  |
+|  XVII\.  | ” ” ”            | 30  |
+|  XVII\.  | Aja's lamentation on the death of his wife         | 35  |
+| XVIII\.  | Advice of Sukanâsa to Chandràpida                  | 37  |
+|  XIX\.   | The evils of anarchy                               | 39  |
+|   XX\.   | Vidura's advice to Dhritarashtra                   | 41  |
+|  XXI   | "    "       "                    | 44  |
+|  XXII\.  | The tale of Pururavas and Urvasi                   | 46  |
+| XXIII  | "    "      "                      | 51  |
+|  XXIV\.  | Râmâ's return journey from Lanka to Ayodhyâ        | 56  |
+|  XXV\.   | Another foundling                                  | 58  |
+|  XXVI\.  | Dasaratha and Visvâmitra                           | 60  |
+| XXVII\.  | Draupadi and Yudhishthira                          | 61  |
+| XXVIII\. | Brahman is the efficient cause of the universe     | 63  |
 
 
 
-।        ।                      ।     ।
-|:------:।----------------------|:---:।
-। XXIX\. । The Sun-rise         । 64  ।
-। XXX\.  । Judicial procedure   । 65  ।
-। XXXI\. । Miscellaneous verses । 67  ।
+|        |                      |     |
+|:------:|----------------------|:---:|
+| XXIX\. | The Sun-rise         | 64  |
+| XXX\.  | Judicial procedure   | 65  |
+| XXXI\. | Miscellaneous verses | 67  |
 
 SECOND SERIES.
 
@@ -143,42 +143,42 @@ SECOND SERIES.
 
 THIRD SERIES.
 
-।       ।                            ।     ।
-|:-----:।----------------------------|:---:।
-।  I.   । The hare and the lion      । 152 ।
-। II\.  । The crab and the Crab      । 153 ।
-। III\. । The tale of Sâvitri Part I । 155 ।
+|       |                            |     |
+|:-----:|----------------------------|:---:|
+|  I.   | The hare and the lion      | 152 |
+| II\.  | The crab and the Crab      | 153 |
+| III\. | The tale of Sâvitri Part I | 155 |
 
 
 
-।          ।                                                               ।     ।
-|:--------:।---------------------------------------------------------------|:---:।
-।   IV\.   । The tale of Sâvitri Part II                                   । 157 ।
-।    V.    । Know thyself                                                  । 162 ।
-।   VI\.   । Repudiation of Sakuntala by Dushyanta Part I                  । 164 ।
-।  VII\.   । "        "         "                       । 167 ।
-।  VIII.  । Ayodhya and its subjects &c.                                  । 170 ।
-।   IX\.   । The hermitage of Jábáli                                       । 173 ।
-।    X.    । Siva disguised as an ascetic to test Pârvati's love           । 174 ।
-।   XI\.   । The prologue to the Ratnâvali                                 । 179 ।
-।  XII\.   । The course of the cloud messenger from Brahmavarta to Kailasa । 180 ।
-।  XIII\.  । Kapinjalâ's account of himself after Pandarika's              । 182 ।
-।  XIV\.   । The Omnipresent form of Vishnu                                । 184 ।
-।   XV\.   । Rama abandoning Sîtâ                                          । 187 ।
-।  XVI\.   । Description of Alaka                                          । 191 ।
-।  XVII\.  । Surpanakha personating Mantharâ                               । 192 ।
-। XVIII\.  । Advice to a king grieved at the death of his beloved queen……  । 194 ।
-।  XIX\.   । An account of Kadambari                                       । 195 ।
-।   XX\.   । The duties of a king                                          । 197 ।
-।  XXI\.   । The rainy season                                              । 199 ।
-।  XXII\.  । A battle scene                                                । 200 ।
-। XXIII\.  । An address to the Supreme Being                               । 205 ।
-।  XXIV\.  । An old minister's advice to a young prince                    । 207 ।
-।  XXV\.   । Bhima's address to Yudhishthira                               । 209 ।
-।  XXVI\.  । Chanakya's soliloquy                                          । 211 ।
-। XXVII\.  । Some rules of royal policy                                    । 213 ।
-। XXVIII\. । Sarasvati cursed by Durvasas                                  । 215 ।
-।  XXIX\.  । Miscellaneous verses                                          । 217 ।
+|          |                                                               |     |
+|:--------:|---------------------------------------------------------------|:---:|
+|   IV\.   | The tale of Sâvitri Part II                                   | 157 |
+|    V.    | Know thyself                                                  | 162 |
+|   VI\.   | Repudiation of Sakuntala by Dushyanta Part I                  | 164 |
+|  VII\.   | "        "         "                       | 167 |
+|  VIII.  | Ayodhya and its subjects &c.                                  | 170 |
+|   IX\.   | The hermitage of Jábáli                                       | 173 |
+|    X.    | Siva disguised as an ascetic to test Pârvati's love           | 174 |
+|   XI\.   | The prologue to the Ratnâvali                                 | 179 |
+|  XII\.   | The course of the cloud messenger from Brahmavarta to Kailasa | 180 |
+|  XIII\.  | Kapinjalâ's account of himself after Pandarika's              | 182 |
+|  XIV\.   | The Omnipresent form of Vishnu                                | 184 |
+|   XV\.   | Rama abandoning Sîtâ                                          | 187 |
+|  XVI\.   | Description of Alaka                                          | 191 |
+|  XVII\.  | Surpanakha personating Mantharâ                               | 192 |
+| XVIII\.  | Advice to a king grieved at the death of his beloved queen……  | 194 |
+|  XIX\.   | An account of Kadambari                                       | 195 |
+|   XX\.   | The duties of a king                                          | 197 |
+|  XXI\.   | The rainy season                                              | 199 |
+|  XXII\.  | A battle scene                                                | 200 |
+| XXIII\.  | An address to the Supreme Being                               | 205 |
+|  XXIV\.  | An old minister's advice to a young prince                    | 207 |
+|  XXV\.   | Bhima's address to Yudhishthira                               | 209 |
+|  XXVI\.  | Chanakya's soliloquy                                          | 211 |
+| XXVII\.  | Some rules of royal policy                                    | 213 |
+| XXVIII\. | Sarasvati cursed by Durvasas                                  | 215 |
+|  XXIX\.  | Miscellaneous verses                                          | 217 |
 
 
 

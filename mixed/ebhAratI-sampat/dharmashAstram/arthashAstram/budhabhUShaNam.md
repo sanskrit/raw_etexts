@@ -186,15 +186,15 @@ Bhandarkar Oriental Research Institute, POONA.
 
       
 
-।                  ।
-।------------------।
-। Author's Preface ।
-। Introduction     ।
-। Text             ।
-। Chapter I        ।
-। Chapter II       ।
-। Chapter III      ।
-। Notes            ।
+|                  |
+|------------------|
+| Author's Preface |
+| Introduction     |
+| Text             |
+| Chapter I        |
+| Chapter II       |
+| Chapter III      |
+| Notes            |
 
                       
 

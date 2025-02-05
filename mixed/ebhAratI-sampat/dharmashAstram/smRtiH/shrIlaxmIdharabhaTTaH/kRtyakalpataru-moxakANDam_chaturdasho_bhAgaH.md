@@ -180,54 +180,54 @@ K. V. RANGASWAMI
 PREFACE  
 INTRODUCTION:
 
-।                                                                   ।
-।-------------------------------------------------------------------।
-। The Background of Mokṣa                                           ।
-। The Mumukṣu                                                       ।
-। Preparation of the Mumukṣu                                        ।
-। Dharmaśāstra and Darśanaśāstra                                    ।
-। The Contribution of Lakṣmīdhara                                   ।
-। Its opportuneness and Value                                       ।
-। Lakṣmīdhara, Śaṃkara and Rāmānuja                                 ।
-। Lakṣmīdhara's Philosophical Position                              ।
-। Scheme of The Mokṣakāṇḍa                                          ।
-। What is Mokṣa                                                     ।
-। Lakṣmīdhara's Conception of Liberation                            ।
-। The Last Two Ās'ramas                                             ।
-। Vairāgya                                                          ।
-। The Knowledge Needed as Preparation                               ।
-। Vānaprastha (Hermit).                                             ।
-। The Ascetic (Sanyāsin)                                            ।
-। Dispassion (Vairāgyam)                                            ।
-। The Eradication of Love (Kāmavarjanaṃ)                            ।
-। The Truth in Creation (Tattva-sṛṣṭiḥ)                             ।
-। Consideration of the Body (Śarīra-cintā)                          ।
-। Discrimination between the Body and the Soul (Deha-śārīra-viveka) ।
-। The Jivātman and the Brahmātman (Jiva-brahmätma-bhāva)            ।
-। The Relative uses of Knowledge and Action (Jnāna-karmopayogaḥ)    ।
-। What Contributes to True Knowledge (Ātma-Jñāna-Hetavaḥ)           ।
-। Yoga and Its Branches (Sa-pallavaḥ)                               ।
+|                                                                   |
+|-------------------------------------------------------------------|
+| The Background of Mokṣa                                           |
+| The Mumukṣu                                                       |
+| Preparation of the Mumukṣu                                        |
+| Dharmaśāstra and Darśanaśāstra                                    |
+| The Contribution of Lakṣmīdhara                                   |
+| Its opportuneness and Value                                       |
+| Lakṣmīdhara, Śaṃkara and Rāmānuja                                 |
+| Lakṣmīdhara's Philosophical Position                              |
+| Scheme of The Mokṣakāṇḍa                                          |
+| What is Mokṣa                                                     |
+| Lakṣmīdhara's Conception of Liberation                            |
+| The Last Two Ās'ramas                                             |
+| Vairāgya                                                          |
+| The Knowledge Needed as Preparation                               |
+| Vānaprastha (Hermit).                                             |
+| The Ascetic (Sanyāsin)                                            |
+| Dispassion (Vairāgyam)                                            |
+| The Eradication of Love (Kāmavarjanaṃ)                            |
+| The Truth in Creation (Tattva-sṛṣṭiḥ)                             |
+| Consideration of the Body (Śarīra-cintā)                          |
+| Discrimination between the Body and the Soul (Deha-śārīra-viveka) |
+| The Jivātman and the Brahmātman (Jiva-brahmätma-bhāva)            |
+| The Relative uses of Knowledge and Action (Jnāna-karmopayogaḥ)    |
+| What Contributes to True Knowledge (Ātma-Jñāna-Hetavaḥ)           |
+| Yoga and Its Branches (Sa-pallavaḥ)                               |
 
 
 
 
 
-।                                                                  ।
-।------------------------------------------------------------------।
-। Value of Yoga                                                    ।
-। Definition of Yoga                                               ।
-। Means of Yoga (Yogāṅgāni)                                        ।
-। Rules for Food Etc.                                              ।
-। Dangers in Neglect of Rules                                      ।
-। How To Do Yoga—Yogavidhi                                         ।
-। Description of the Successful Yogin (Yuktasya lakṣaṇaṃ)          ।
-। The Subject of Meditation (Dhyeya-svarūpaṃ)                      ।
-। Results of Yogic Practice                                        ।
-। The Man of the Poised Mind (Sthita-Prajña-Caritaṃ)               ।
-। The Destiny of the Person Who Lapses from Yoga(Yogabhraṣṭāgatiḥ) ।
-। Portents of Death (Ariṣṭāni)                                     ।
-। The Passage of the Soul from the Body (Utkrāntih)                ।
-। Conclusion                                                       ।
+|                                                                  |
+|------------------------------------------------------------------|
+| Value of Yoga                                                    |
+| Definition of Yoga                                               |
+| Means of Yoga (Yogāṅgāni)                                        |
+| Rules for Food Etc.                                              |
+| Dangers in Neglect of Rules                                      |
+| How To Do Yoga—Yogavidhi                                         |
+| Description of the Successful Yogin (Yuktasya lakṣaṇaṃ)          |
+| The Subject of Meditation (Dhyeya-svarūpaṃ)                      |
+| Results of Yogic Practice                                        |
+| The Man of the Poised Mind (Sthita-Prajña-Caritaṃ)               |
+| The Destiny of the Person Who Lapses from Yoga(Yogabhraṣṭāgatiḥ) |
+| Portents of Death (Ariṣṭāni)                                     |
+| The Passage of the Soul from the Body (Utkrāntih)                |
+| Conclusion                                                       |
 
 
 
@@ -243,15 +243,15 @@ TEXT
 
 **अनुबन्धः**
 
-।                                                         ।
-।---------------------------------------------------------।
-। Index of Authors and Works cited in the Text            ।
-। Index of Authors and Works cited only in the Foot-notes ।
-। Index of Half-verses                                    ।
-। Notes                                                   ।
-। Manuscripts of the Mokṣakāṇḍa                           ।
-। Supplementary Identifications of Citations              ।
-। Corrections                                             ।
+|                                                         |
+|---------------------------------------------------------|
+| Index of Authors and Works cited in the Text            |
+| Index of Authors and Works cited only in the Foot-notes |
+| Index of Half-verses                                    |
+| Notes                                                   |
+| Manuscripts of the Mokṣakāṇḍa                           |
+| Supplementary Identifications of Citations              |
+| Corrections                                             |
 
 
 

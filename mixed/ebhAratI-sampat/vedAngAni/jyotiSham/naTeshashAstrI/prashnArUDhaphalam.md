@@ -193,47 +193,47 @@ Research Centre (Advisory Committee)
 
 ***![](../books_images/1681707734.png)***
 
-।                 ।                                        ।          ।
-|:---------------:|:--------------------------------------:।----------।
-। **Chapter No.** ।                                       । **Page** ।
-।       \*        ।         Dedicated to my mother         । 3        ।
-।       \*        ।      Note on Aacharya Kadalangudi      । 5        ।
-।       \*        । Brief note on Dr. Mrs. K.N. Saraswathy । 11       ।
-।       \*        ।   Note on M.A. Jaishankar(Publisher)   । 12       ।
-।       \*        ।                Preface                 । 15       ।
-।        I        ।              Introduction              । 17       ।
-।       II        ।        Fundamental Propositions        । 21       ।
-।       \*        ।      Direction of the lost things      । 34       ।
-।       \*        ।     Indications to find out places     । 41       ।
-।       III       ।          Of roots and planets          । 52       ।
-।       IV        ।         Human correspondences          । 57       ।
-।        V        ।      The finding of lost articles      । 64       ।
-।       VI        ।              On Aaroodha               । 71       ।
-।       VII       ।            On Chhatra Raasi            । 73       ।
-।      VIII       ।          On the rising Raasi           । 75       ।
-।       IX        ।          About lost property           । 78       ।
-।        X        ।           Of Gain and Lords            । 87       ।
-।       XI        ।              On Diseases               । 91       ।
-।       XII       ।                On Death                । 98       ।
-।      XIII       ।           On Heavenly Abode            । 102      ।
-।       XIV       ।                On Food                 । 102      ।
-।       XV        ।               On Dreams                । 106      ।
-।       XVI       ।                  Omen                  । 109      ।
-।      XVII       ।              On Marriages              । 112      ।
-।      XVIII      ।     On Love and conjugal felicity      । 118      ।
-।       XIX       ।              Of Children               । 125      ।
-।       \*        ।           Sex Determination            । 126      ।
-।       XX        ।            Of Misfortuners             । 128      ।
-।       XXI       ।               Of Knives                । 131      ।
-।      XXII       ।         Of Shadows and Shafts          । 134      ।
-।      XXIII      ।                Of Wells                । 149      ।
-।      XXIV       ।               Of Armies                । 159      ।
-।       XXV       ।               On Travel                । 169      ।
-।      XXVI       ।                Of Rains                । 174      ।
-।      XXVII      ।                Of Ships                । 177      ।
-।     XXVIII      ।              Achievement               । 179      ।
-।       \*        ।                Glossary                । 181      ।
-।       \*        ।         **TOTAL NO. OF PAGES**         । **184**  ।
+|                 |                                        |          |
+|:---------------:|:--------------------------------------:|----------|
+| **Chapter No.** |                                       | **Page** |
+|       \*        |         Dedicated to my mother         | 3        |
+|       \*        |      Note on Aacharya Kadalangudi      | 5        |
+|       \*        | Brief note on Dr. Mrs. K.N. Saraswathy | 11       |
+|       \*        |   Note on M.A. Jaishankar(Publisher)   | 12       |
+|       \*        |                Preface                 | 15       |
+|        I        |              Introduction              | 17       |
+|       II        |        Fundamental Propositions        | 21       |
+|       \*        |      Direction of the lost things      | 34       |
+|       \*        |     Indications to find out places     | 41       |
+|       III       |          Of roots and planets          | 52       |
+|       IV        |         Human correspondences          | 57       |
+|        V        |      The finding of lost articles      | 64       |
+|       VI        |              On Aaroodha               | 71       |
+|       VII       |            On Chhatra Raasi            | 73       |
+|      VIII       |          On the rising Raasi           | 75       |
+|       IX        |          About lost property           | 78       |
+|        X        |           Of Gain and Lords            | 87       |
+|       XI        |              On Diseases               | 91       |
+|       XII       |                On Death                | 98       |
+|      XIII       |           On Heavenly Abode            | 102      |
+|       XIV       |                On Food                 | 102      |
+|       XV        |               On Dreams                | 106      |
+|       XVI       |                  Omen                  | 109      |
+|      XVII       |              On Marriages              | 112      |
+|      XVIII      |     On Love and conjugal felicity      | 118      |
+|       XIX       |              Of Children               | 125      |
+|       \*        |           Sex Determination            | 126      |
+|       XX        |            Of Misfortuners             | 128      |
+|       XXI       |               Of Knives                | 131      |
+|      XXII       |         Of Shadows and Shafts          | 134      |
+|      XXIII      |                Of Wells                | 149      |
+|      XXIV       |               Of Armies                | 159      |
+|       XXV       |               On Travel                | 169      |
+|      XXVI       |                Of Rains                | 174      |
+|      XXVII      |                Of Ships                | 177      |
+|     XXVIII      |              Achievement               | 179      |
+|       \*        |                Glossary                | 181      |
+|       \*        |         **TOTAL NO. OF PAGES**         | **184**  |
 
 ***![](../books_images/1681707919.png)***
 
@@ -596,15 +596,15 @@ MOON ... Jupiter and Mercury are friends. 13
 
 **The lords of he signs are the following:**
 
-।             ।                             ।
-|:-----------:|:---------------------------:।
-।  MARS ...   ।    for Aries and Scorpio    ।
-।  VENUS ...  ।    for Taurus and Libra     ।
-। JUPITER ... । for Sagittarius and Pisces  ।
-। MERCURY ... ।    for Gemini and Vigro     ।
-। SATURN ...  ।  for Capricon and Aquarius  ।
-।   SUN ...   ।           for Leo           ।
-।  MOON ...   । for Cancer     14 & 15 ।
+|             |                             |
+|:-----------:|:---------------------------:|
+|  MARS ...   |    for Aries and Scorpio    |
+|  VENUS ...  |    for Taurus and Libra     |
+| JUPITER ... | for Sagittarius and Pisces  |
+| MERCURY ... |    for Gemini and Vigro     |
+| SATURN ...  |  for Capricon and Aquarius  |
+|   SUN ...   |           for Leo           |
+|  MOON ...   | for Cancer     14 & 15 |
 
 
 
@@ -12124,70 +12124,70 @@ ASTROLOGY ENDS**
 
 
 
-।                  ।                                                                 ।
-|:----------------:|:---------------------------------------------------------------:।
-।   **GLOSSARY**   ।                                                                 ।
-।       Amsa       ।                        ... Part, Portion                        ।
-।     Apachaya     ।                   ... 1,2,4,7 and 8th houses                    ।
-।    Aapoklima     ।                    ... 3,6,9 and 12th houses                    ।
-।     Aarohana     ।                    ... Ascendiring direction                    ।
-।     Aaroodha     ।                 ... Direction where one stands                  ।
-।      Asubha      ।                        ... inauspicious                         ।
-।    Avarohana     ।                    ... Descending direction                     ।
-।      Bhaava      ।                            ... House                            ।
-।      Budha       ।                           ... Mercury                           ।
-।     Chandra      ।                          ... The Moon                           ।
-।   Chara Raasi    ।                        ... Moveable sign                        ।
-।      Dasaa       ।                      ... Planetary period                       ।
-।      Dhanus      ।                         ... Sagittarius                         ।
-।       Dik        ।                          ... Direction                          ।
-।    Drekkaana     ।                ... One–third division of a sign                 ।
-।     Dakshina     ।                            ... South                            ।
-।      Ghati       ।              ... A time period equal to 24 minutes              ।
-।       Guru       ।                           ... Jupiter                           ।
-।      Horaa       ।                  ... Half a division of a sign                  ।
-।      Kanyaa      ।                            ... Virgo                            ।
-।      Karma       । ... Literally, action; philosophically moral law of consequence ।
-।      Kataka      ।                           ... Cancer                            ।
-।      Kendra      ।                          ... Quadrant                           ।
-।       Ketu       ।                ... Planet signifying Moon's Node                ।
-।   Kroora Raasi   ।                         ... Cruel sign                          ।
-।       Kuja       ।                            ... Mars                             ।
-।      Kumbha      ।                          ... Aquarius                           ।
-।      Makara      ।                          ... Capricorn                          ।
-।     Maaraka      ।                   ... Death–inflicting planet                   ।
-।      Mesha       ।                            ... Aries                            ।
-।      Mithna      ।                           ... Gemini                            ।
-।     Muhurta      ।          ... Auspicious time; duration of 1 1/2 hours           ।
-।    Nakshatra     ।                            ... Star                             ।
-।     Navaamsa     ।                ... One–ninth divission of a sign                ।
-।      Neecha      ।                        ... Debilitation                         ।
-।      Paapa       ।                       ... Malefic Planet                        ।
-।    Panaphara     ।                    ... 2,5,8 and 11th houses                    ।
-।     Paschima     ।                            ... West                             ।
-।     Poorvee      ।                            ... East                             ।
-।      Praaga      ।                            ... East                             ।
-।      Prasna      ।                      ... Question, inquiry                      ।
-।   Prasna Lagna   ।              ... Rising sign at the time of query               ।
-।   Prushtodaya    ।                    ... Rising by hinder part                    ।
-।       Rahu       ।               ... Planet representing Moon's node               ।
-।      Raasi       ।                        ... Zodiacal sign                        ।
-।       Sani       ।                           ... Saturn                            ।
-।    Shadvarga     ।               ... Six kinds of division of a sign               ।
-।      Subha       ।                     ... Auspicious, benefic                     ।
-।     Sirodaya     ।                   ... Rising by the head–sign                   ।
-।   Stree Raasi    ।                        ... Feminine sign                        ।
-।   Sthira Rassi   ।                         ... Fixed sign                          ।
-।      Sukra       ।                            ... Venus                            ।
-।     Trikona      ।                            ... Trine                            ।
-।      Tulaa       ।                            ... Libra                            ।
-।   Udaya Lagna    ।                   ... Rising sign – Ascendant                   ।
-। Ubhayodaya Raasi ।         ... Signs rising both by hinder and head sides          ।
-।      Uccha       ।                         ... Exaltation                          ।
-।     Upachaya     ।                   ... 3,6,10 and 11th houses                    ।
-।      Vakra       ।                        ... retrogression                        ।
-।     Vighati      ।       ... 1/60th part of a ghati or 1/60th of 24 minutes        ।
-।    Vrishabha     ।                           ... Taurus                           ।
+|                  |                                                                 |
+|:----------------:|:---------------------------------------------------------------:|
+|   **GLOSSARY**   |                                                                 |
+|       Amsa       |                        ... Part, Portion                        |
+|     Apachaya     |                   ... 1,2,4,7 and 8th houses                    |
+|    Aapoklima     |                    ... 3,6,9 and 12th houses                    |
+|     Aarohana     |                    ... Ascendiring direction                    |
+|     Aaroodha     |                 ... Direction where one stands                  |
+|      Asubha      |                        ... inauspicious                         |
+|    Avarohana     |                    ... Descending direction                     |
+|      Bhaava      |                            ... House                            |
+|      Budha       |                           ... Mercury                           |
+|     Chandra      |                          ... The Moon                           |
+|   Chara Raasi    |                        ... Moveable sign                        |
+|      Dasaa       |                      ... Planetary period                       |
+|      Dhanus      |                         ... Sagittarius                         |
+|       Dik        |                          ... Direction                          |
+|    Drekkaana     |                ... One–third division of a sign                 |
+|     Dakshina     |                            ... South                            |
+|      Ghati       |              ... A time period equal to 24 minutes              |
+|       Guru       |                           ... Jupiter                           |
+|      Horaa       |                  ... Half a division of a sign                  |
+|      Kanyaa      |                            ... Virgo                            |
+|      Karma       | ... Literally, action; philosophically moral law of consequence |
+|      Kataka      |                           ... Cancer                            |
+|      Kendra      |                          ... Quadrant                           |
+|       Ketu       |                ... Planet signifying Moon's Node                |
+|   Kroora Raasi   |                         ... Cruel sign                          |
+|       Kuja       |                            ... Mars                             |
+|      Kumbha      |                          ... Aquarius                           |
+|      Makara      |                          ... Capricorn                          |
+|     Maaraka      |                   ... Death–inflicting planet                   |
+|      Mesha       |                            ... Aries                            |
+|      Mithna      |                           ... Gemini                            |
+|     Muhurta      |          ... Auspicious time; duration of 1 1/2 hours           |
+|    Nakshatra     |                            ... Star                             |
+|     Navaamsa     |                ... One–ninth divission of a sign                |
+|      Neecha      |                        ... Debilitation                         |
+|      Paapa       |                       ... Malefic Planet                        |
+|    Panaphara     |                    ... 2,5,8 and 11th houses                    |
+|     Paschima     |                            ... West                             |
+|     Poorvee      |                            ... East                             |
+|      Praaga      |                            ... East                             |
+|      Prasna      |                      ... Question, inquiry                      |
+|   Prasna Lagna   |              ... Rising sign at the time of query               |
+|   Prushtodaya    |                    ... Rising by hinder part                    |
+|       Rahu       |               ... Planet representing Moon's node               |
+|      Raasi       |                        ... Zodiacal sign                        |
+|       Sani       |                           ... Saturn                            |
+|    Shadvarga     |               ... Six kinds of division of a sign               |
+|      Subha       |                     ... Auspicious, benefic                     |
+|     Sirodaya     |                   ... Rising by the head–sign                   |
+|   Stree Raasi    |                        ... Feminine sign                        |
+|   Sthira Rassi   |                         ... Fixed sign                          |
+|      Sukra       |                            ... Venus                            |
+|     Trikona      |                            ... Trine                            |
+|      Tulaa       |                            ... Libra                            |
+|   Udaya Lagna    |                   ... Rising sign – Ascendant                   |
+| Ubhayodaya Raasi |         ... Signs rising both by hinder and head sides          |
+|      Uccha       |                         ... Exaltation                          |
+|     Upachaya     |                   ... 3,6,10 and 11th houses                    |
+|      Vakra       |                        ... retrogression                        |
+|     Vighati      |       ... 1/60th part of a ghati or 1/60th of 24 minutes        |
+|    Vrishabha     |                           ... Taurus                           |
 
 
 

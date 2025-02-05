@@ -1758,12 +1758,12 @@ Neelakantha has dealt with this in a more scientific way. He has classified the 
 
 There are other combinations and indications of planets also. They are all very similar to the ones given here.
 
-।            ।      ।           ।         ।
-|:----------:|:----:|:---------:|:-------:।
-।           । Mars । Sun Venus ।        ।
-।           ।     ।          ।        ।
-।  Sat (R)   ।     ।          । jup (R) ।
-। Rahu Ascdt ।     ।   Moon    ।        ।
+|            |      |           |         |
+|:----------:|:----:|:---------:|:-------:|
+|           | Mars | Sun Venus |        |
+|           |     |          |        |
+|  Sat (R)   |     |          | jup (R) |
+| Rahu Ascdt |     |   Moon    |        |
 
 The method devised by Krishnamurti depends upon the position of Moon, who is also identified as Mathi or mind. Representing the mind of the querist the position of Moon in the horary chart discloses the question. As this is slightly off the traditional track the case can better be explained by an example. The horary chart is as under: Moon representing the mind of the querent is the 8th lord. He stands both for debts as well as the in-fighting. He
 
@@ -1809,16 +1809,16 @@ The Sun is square in form, Mars is round. Mercury is tall. TheMoon is also tall.
 
 If the planet is placed in an odd sign the Navamsas denote query about mineral, vegetable and animal respectively. If the planet is posited in an even sign, this should be considered in the reverse order i.e., the first Navamsa represent, animals, the second vegetables and the third minerals. This in short is the method to be adopted in silent queries.
 
-।      ।      ।     ।           ।           ।
-|:----:|:----:|:---:|:---------:|:---------:।
-।     ।     ।    । Odd sign  ।          ।
-। 1st, । 4th, । 7th ।  Navamsa  ।  mineral  ।
-। 2nd  । 5th  । 8th ।  Navamsa  । vegetable ।
-। 3rd  । 6th  । 9th ।  Navamsa  ।  animal   ।
-।     ।     ।    । Even sign ।          ।
-। 1st, । 4th, । 7th ।  Navamsa  ।  animal   ।
-। 2nd  । 5th  । 8th ।  Navamsa  । vegetable ।
-। 3rd  । 6th  । 9th ।  Navamsa  ।  mineral  ।
+|      |      |     |           |           |
+|:----:|:----:|:---:|:---------:|:---------:|
+|     |     |    | Odd sign  |          |
+| 1st, | 4th, | 7th |  Navamsa  |  mineral  |
+| 2nd  | 5th  | 8th |  Navamsa  | vegetable |
+| 3rd  | 6th  | 9th |  Navamsa  |  animal   |
+|     |     |    | Even sign |          |
+| 1st, | 4th, | 7th |  Navamsa  |  animal   |
+| 2nd  | 5th  | 8th |  Navamsa  | vegetable |
+| 3rd  | 6th  | 9th |  Navamsa  |  mineral  |
 
 The correct judgement needs intellegence, ingenuity and
 
@@ -2068,13 +2068,13 @@ The number of nurses attending the lady during delivery will be equal to the num
 
 *NOTES:-* According to Brihat Jataka the number of nurses attending the lady is the same as there are planets between the lagna and Moon. Saravali gives more details in this respect. The number of nurses inside and outside the delivery room depends upon the number of planets in the visible and invisible half of the zodiac, There are some acharyas who say that the number of nurses depends upon the lagna of the native birth chart. Following are the details:
 
-।                       ।               ।
-|:---------------------:|:-------------:।
-।         Lagna         । No. of nurses ।
-।    Pisces or Aries    ।      one      ।
-।  Taurus or Aquarius   ।     four      ।
-। Sagittarius or Cancer ।     Five      ।
-।      Other signs      ।     five      ।
+|                       |               |
+|:---------------------:|:-------------:|
+|         Lagna         | No. of nurses |
+|    Pisces or Aries    |      one      |
+|  Taurus or Aquarius   |     four      |
+| Sagittarius or Cancer |     Five      |
+|      Other signs      |     five      |
 
 The visible half extends (roughly) from the Navamsa of the 7th house to the Navamsa in which the ascendant falls. The invisible half extends from the Navamsa containing the ascendant to the Navamsa containing the 7th house.
 
@@ -2313,11 +2313,11 @@ NOTE : Vide Brihat Jataka Chapter 1, Sloka 4.
 
 As shown in the table below:
 
-।           ।     ।      ।      ।         ।         ।       ।        ।
-|:---------:|:---:|:----:|:----:|:-------:|:-------:|:-----:|:------:।
-। Remainder ।  1  ।  2   ।  3   ।    4    ।    5    ।   6   ।   7    ।
-।  Planet   । Sun । Moon । Mars । Mercury । Jupiter । Venus । Saturn ।
-। Gunakara  ।  5  ।  21  ।  14  ।    9    ।    8    ।   3   ।   11   ।
+|           |     |      |      |         |         |       |        |
+|:---------:|:---:|:----:|:----:|:-------:|:-------:|:-----:|:------:|
+| Remainder |  1  |  2   |  3   |    4    |    5    |   6   |   7    |
+|  Planet   | Sun | Moon | Mars | Mercury | Jupiter | Venus | Saturn |
+| Gunakara  |  5  |  21  |  14  |    9    |    8    |   3   |   11   |
 
 Ascertain the measure in Anguls of the shadow of the shanku at the time of the query. With the help of this shadow find out the longitude of the Ascendant at the time according to the rules given in "GRAH LAGHAV" (We can find out straight away also the Ascendant)-Leave the signs and degrees of the Ascendant and taking only the minutes multiply the minutes by the lenght of the shadow. Divide the product by 7 and find out the remainder. In the Table given above multiply the figure of the remainder with its corresponding figure shown under it (under 1, 2, 3, 4 etc.). Divide the product by 71. Take the remainder. Deduct from this remainder the figure 5, 21, 14 etc., shown under Sun, Moon, Mars etc. Go on deducting these figures until further deduction is not possible. The number that cannot be deducted will show the number of days etc. in which work will be accomplished. The Number will be days if the non-diminishable number falls under Sun or Mars.
 

@@ -63,269 +63,269 @@ BHUDEB MOOKERJI**
 
 **CHAPTER I.**
 
-।                                                               ।
-।---------------------------------------------------------------।
-।                                                              ।
-। Uparasas                                                      ।
-। Abhram (Mica)                                                 ।
-। Different kinds of Mica                                       ।
-। Mica should be deprived of its glaze                          ।
-। Purification of Mica                                          ।
-। Dhanya abhram                                                 ।
-। Incineration of mica                                          ।
-। Characteristic of killed mica                                 ।
-। Nectarization of mica                                         ।
-। Importance of putam in killing of mica                        ।
-। Rubbing not necessary in putams for 1000 times                ।
-। Killers of Mica                                               ।
-। Use of incinerated mica                                       ।
-। Special accompaniments of mica                                ।
-। General directions for use of mica                            ।
-। Dietary in the use of Mica                                    ।
-। Evil effects of mica, not properly incinerated                ।
-। Removal ofmica, not properly incinerated                     ।
-। Extraction of essence of mica                                 ।
-। Purification of essence of mica                               ।
-। Incineration of essence of mica                               ।
-। How incinerated essence of mica is to be used                 ।
-। Softening of essence of mica                                  ।
-। Liquefaction of mica                                          ।
-। Amalgamation of more than one metal in a state of cold liquid ।
-। Transformation of tin into silver by means of mica            ।
-। Makshikam (pyrites)                                           ।
-। Detailed classification of pyrites                            ।
-। Merits of makshika                                            ।
-। Evil effects of impure makshika                               ।
+|                                                               |
+|---------------------------------------------------------------|
+|                                                              |
+| Uparasas                                                      |
+| Abhram (Mica)                                                 |
+| Different kinds of Mica                                       |
+| Mica should be deprived of its glaze                          |
+| Purification of Mica                                          |
+| Dhanya abhram                                                 |
+| Incineration of mica                                          |
+| Characteristic of killed mica                                 |
+| Nectarization of mica                                         |
+| Importance of putam in killing of mica                        |
+| Rubbing not necessary in putams for 1000 times                |
+| Killers of Mica                                               |
+| Use of incinerated mica                                       |
+| Special accompaniments of mica                                |
+| General directions for use of mica                            |
+| Dietary in the use of Mica                                    |
+| Evil effects of mica, not properly incinerated                |
+| Removal ofmica, not properly incinerated                     |
+| Extraction of essence of mica                                 |
+| Purification of essence of mica                               |
+| Incineration of essence of mica                               |
+| How incinerated essence of mica is to be used                 |
+| Softening of essence of mica                                  |
+| Liquefaction of mica                                          |
+| Amalgamation of more than one metal in a state of cold liquid |
+| Transformation of tin into silver by means of mica            |
+| Makshikam (pyrites)                                           |
+| Detailed classification of pyrites                            |
+| Merits of makshika                                            |
+| Evil effects of impure makshika                               |
 
                                    
 
 
-।                                                                                       ।
-।---------------------------------------------------------------------------------------।
-। Purification of Makshika                                                              ।
-। Incineration of makshika                                                              ।
-। Extraction of essence of makshika                                                     ।
-। Use of essence of makshika                                                            ।
-। Liquefaction of essence of makshika                                                   ।
-। Accompaniments of makshika                                                            ।
-। Removal of evil effects caused by impure makshika                                     ।
-। Bimala (pyrites with red tints)                                                       ।
-। Purification of Bimala                                                                ।
-। Incineration of Bimala                                                                ।
-। Extraction of essence of Bimala                                                       ।
-। Use of the essence of Bimala                                                          ।
-। Shila-jatu (Bitumen)                                                                  ।
-। Special properties of different kinds of shilajatu                                    ।
-। (*a*) Gold shila-jatu                                                                 ।
-। (*b*) Silver shila-jatu                                                               ।
-। (*c*) Copper shilajatu (*d*) iron shilajatu (*e*) tin shilajatu (*ƒ*) lead shilajatu ।
-। Test of genuine shila-jatu                                                            ।
-। Properties of shila-jatus in general                                                  ।
-। Purification of shila-jatu                                                            ।
-। Test of purified Shila-jatu                                                           ।
-। Uses of purified Shila-jatu                                                           ।
-। Incineration of shila-jatu                                                           ।
-। Use of incinerated Shila-jatu                                                         ।
-। Essence of shila-jatu                                                                 ।
-। Camphor shila-jatu                                                                    ।
-। Evil effects of taking impure shila-jatu                                              ।
-। How to cure the diseases due to the use of impure shila-jatu                          ।
-। Sora (saltpetre), a kind of of shila-jatu                                             ।
-। Tuttham (Sulphate of copper, manufactured)                                            ।
-। Purification of tuttham                                                               ।
-। Extraction of essence from tuttham                                                    ।
-। Ditto without application of heat                                                     ।
-। How to extract copper from feathers of peacock                                        ।
-। The finger ring which cures colic and neutralises poison                              ।
+|                                                                                       |
+|---------------------------------------------------------------------------------------|
+| Purification of Makshika                                                              |
+| Incineration of makshika                                                              |
+| Extraction of essence of makshika                                                     |
+| Use of essence of makshika                                                            |
+| Liquefaction of essence of makshika                                                   |
+| Accompaniments of makshika                                                            |
+| Removal of evil effects caused by impure makshika                                     |
+| Bimala (pyrites with red tints)                                                       |
+| Purification of Bimala                                                                |
+| Incineration of Bimala                                                                |
+| Extraction of essence of Bimala                                                       |
+| Use of the essence of Bimala                                                          |
+| Shila-jatu (Bitumen)                                                                  |
+| Special properties of different kinds of shilajatu                                    |
+| (*a*) Gold shila-jatu                                                                 |
+| (*b*) Silver shila-jatu                                                               |
+| (*c*) Copper shilajatu (*d*) iron shilajatu (*e*) tin shilajatu (*ƒ*) lead shilajatu |
+| Test of genuine shila-jatu                                                            |
+| Properties of shila-jatus in general                                                  |
+| Purification of shila-jatu                                                            |
+| Test of purified Shila-jatu                                                           |
+| Uses of purified Shila-jatu                                                           |
+| Incineration of shila-jatu                                                           |
+| Use of incinerated Shila-jatu                                                         |
+| Essence of shila-jatu                                                                 |
+| Camphor shila-jatu                                                                    |
+| Evil effects of taking impure shila-jatu                                              |
+| How to cure the diseases due to the use of impure shila-jatu                          |
+| Sora (saltpetre), a kind of of shila-jatu                                             |
+| Tuttham (Sulphate of copper, manufactured)                                            |
+| Purification of tuttham                                                               |
+| Extraction of essence from tuttham                                                    |
+| Ditto without application of heat                                                     |
+| How to extract copper from feathers of peacock                                        |
+| The finger ring which cures colic and neutralises poison                              |
 
 
 
-।                                                                  ।
-।------------------------------------------------------------------।
-। Sasyakam or blue stone                                           ।
-। Qualities of sasyakam                                            ।
-। Purification of sasyakam                                        ।
-। Incineration of sasyaka                                          ।
-। Extraction of essence from sasyaka                               ।
-। Another kind of finger ring which cures colic and removes poison ।
-। Incineration of the essence of tuttham or sasyakam               ।
-। How to remedy the evil effect of impure tutthaka and sasyaka     ।
-। Chapala                                                          ।
-। Purification of chapala                                          ।
-। Extraction of essence from chapala                               ।
-। Chapala produced from lead and tin                              ।
-। Rasaka or kharpara (calamine)                                    ।
-। Inability of Rasaka to stand fire                                ।
-। How Rasaka may be made to stand fire                             ।
-। Purification of Rasaka                                           ।
-। Incineration of Rasaka                                           ।
-। Extraction of essence from Rasaka                                ।
-। Incineration of the essence of Rasaka                            ।
-। Dyeing of mercury,etc. by rasaka                                 ।
+|                                                                  |
+|------------------------------------------------------------------|
+| Sasyakam or blue stone                                           |
+| Qualities of sasyakam                                            |
+| Purification of sasyakam                                        |
+| Incineration of sasyaka                                          |
+| Extraction of essence from sasyaka                               |
+| Another kind of finger ring which cures colic and removes poison |
+| Incineration of the essence of tuttham or sasyakam               |
+| How to remedy the evil effect of impure tutthaka and sasyaka     |
+| Chapala                                                          |
+| Purification of chapala                                          |
+| Extraction of essence from chapala                               |
+| Chapala produced from lead and tin                              |
+| Rasaka or kharpara (calamine)                                    |
+| Inability of Rasaka to stand fire                                |
+| How Rasaka may be made to stand fire                             |
+| Purification of Rasaka                                           |
+| Incineration of Rasaka                                           |
+| Extraction of essence from Rasaka                                |
+| Incineration of the essence of Rasaka                            |
+| Dyeing of mercury,etc. by rasaka                                 |
 
 **CHAPTER II**
 
-।                                            ।     ।
-।--------------------------------------------।-----।
-। Gandhaka (sulphur)                        । 130 ।
-। Variety of sulphur                         । 130 ।
-। Properties of sulphur                     । 131 ।
-। Sulphur is to be purified                  । 132 ।
-। Purification of Gandhaka                   । 132 ।
-। How to take gandhaka                       । 135 ।
-। The Rasayana gandhaka                      । 139 ।
-। Sulphur soil                               । 141 ।
-। Dietary when taking sulphur                । 143 ।
-। Removal of odour from sulphur              । 143 ।
-। Transformation of base metals by Gandhaka । 145 ।
+|                                            |     |
+|--------------------------------------------|-----|
+| Gandhaka (sulphur)                        | 130 |
+| Variety of sulphur                         | 130 |
+| Properties of sulphur                     | 131 |
+| Sulphur is to be purified                  | 132 |
+| Purification of Gandhaka                   | 132 |
+| How to take gandhaka                       | 135 |
+| The Rasayana gandhaka                      | 139 |
+| Sulphur soil                               | 141 |
+| Dietary when taking sulphur                | 143 |
+| Removal of odour from sulphur              | 143 |
+| Transformation of base metals by Gandhaka | 145 |
 
 
 
-।                                                           ।
-।-----------------------------------------------------------।
-। Removal of the evil consequences of takingimpure sulphur ।
-। Gairikam (red ochre)                                      ।
-। Purification of gairikam                                  ।
-। Extraction of essence from gairikam                       ।
-। Uses of gairikam                                          ।
-। Kasisam (sulphate of iron)                                ।
-। Purification of kasisam                                   ।
-। How to take kasisam                                       ।
-। Kankshi (alum clay)                                       ।
-। Properties of kankshi                                     ।
-। Purification of extraction of essence from tubari         ।
-। Haritalam (Orpiment)                                      ।
-। (a) Patra haritalam                                       ।
-। (2) Pinda haritalam                                       ।
-। (3) Godanta haritalam                                     ।
-। (4) Vakadala haritalam                                    ।
-। Properties of purified haritalam                          ।
-। Haritalam fit for incineration                            ।
-। Evils of using impure haritalam                           ।
-। Purification of haritalam                                 ।
-। Incineration of haritalam                                 ।
-। Liquefaction of haritalam                                 ।
-। Test of incinerated haritalam                             ।
-। Merits of incinerated haritalam                           ।
-। Accompaniments of haritalam                               ।
-। Extraction of essence from haritalam                      ।
-। Use of essence of haritalam                               ।
-। Aiedotes to the bad effects of taking impure haritalam   ।
-। Dietary                                                   ।
-। Transformation of base metals into gold by haritalam      ।
-। Manas-shila realger                                       ।
-। Different kinds of manas-shila                            ।
-। Properties of manas-shila                                 ।
-। Evil effects of taking mans-shila, not properly purified  ।
+|                                                           |
+|-----------------------------------------------------------|
+| Removal of the evil consequences of takingimpure sulphur |
+| Gairikam (red ochre)                                      |
+| Purification of gairikam                                  |
+| Extraction of essence from gairikam                       |
+| Uses of gairikam                                          |
+| Kasisam (sulphate of iron)                                |
+| Purification of kasisam                                   |
+| How to take kasisam                                       |
+| Kankshi (alum clay)                                       |
+| Properties of kankshi                                     |
+| Purification of extraction of essence from tubari         |
+| Haritalam (Orpiment)                                      |
+| (a) Patra haritalam                                       |
+| (2) Pinda haritalam                                       |
+| (3) Godanta haritalam                                     |
+| (4) Vakadala haritalam                                    |
+| Properties of purified haritalam                          |
+| Haritalam fit for incineration                            |
+| Evils of using impure haritalam                           |
+| Purification of haritalam                                 |
+| Incineration of haritalam                                 |
+| Liquefaction of haritalam                                 |
+| Test of incinerated haritalam                             |
+| Merits of incinerated haritalam                           |
+| Accompaniments of haritalam                               |
+| Extraction of essence from haritalam                      |
+| Use of essence of haritalam                               |
+| Aiedotes to the bad effects of taking impure haritalam   |
+| Dietary                                                   |
+| Transformation of base metals into gold by haritalam      |
+| Manas-shila realger                                       |
+| Different kinds of manas-shila                            |
+| Properties of manas-shila                                 |
+| Evil effects of taking mans-shila, not properly purified  |
 
                                    
                  
 
-।                                                            ।
-।------------------------------------------------------------।
-। Purification of manas-shila                                ।
-। Extraction of essece of mamas-shila                        ।
-। Antedotes to the bed efrects of taking impure manas-shila ।
-। Anjanam                                                    ।
-। (1)Sauviranjanam                                           ।
-। (2)Nilanjanam                                              ।
-। (3)Rasanjanam                                              ।
-। (4)Srotonjanam                                             ।
-। (5)Kulatthanjanam                                          ।
-। (6)Pushpanjanam                                            ।
-। Purification of anjanams                                   ।
-। Extraction of essence from anjanams                        ।
-। Solidification of mercury by means of Srotonjan           ।
-। Kunkustham (an ore containing tin)                         ।
-। Purification of kunkustham                                 ।
-। How to take kunkustham                                     ।
+|                                                            |
+|------------------------------------------------------------|
+| Purification of manas-shila                                |
+| Extraction of essece of mamas-shila                        |
+| Antedotes to the bed efrects of taking impure manas-shila |
+| Anjanam                                                    |
+| (1)Sauviranjanam                                           |
+| (2)Nilanjanam                                              |
+| (3)Rasanjanam                                              |
+| (4)Srotonjanam                                             |
+| (5)Kulatthanjanam                                          |
+| (6)Pushpanjanam                                            |
+| Purification of anjanams                                   |
+| Extraction of essence from anjanams                        |
+| Solidification of mercury by means of Srotonjan           |
+| Kunkustham (an ore containing tin)                         |
+| Purification of kunkustham                                 |
+| How to take kunkustham                                     |
 
 **CHAPTER III**
 
-।                                                                   ।     ।
-।-------------------------------------------------------------------।-----।
-। Kampilla                                                          । 211 ।
-। Purification of sadharana uparasas (viz from kampilla to bhunaga) । 212 ।
-। Use of Kampilla                                                   । 212 ।
-। Gouripashana (Aresenic stone)                                     । 213 ।
-। purification of arsenic stone                                     । 213 ।
-। Extraction of essence from gauripashana                           । 214 ।
-। Navasara (Sal ammoniac)                                           । 214 ।
-। Properities of Navasara                                          । 215 ।
-। Kapardaka (cowri or marine shells)                                । 216 ।
-। Properties of cowry or marine shells                              । 217 ।
-। Purification kapardi (cowri)                                      । 218 ।
-। Incineration of kapardi or cowri                                  । 218 ।
-। Shankha (conch shell)                                             । 220 ।
-। Purification of Shankha                                           । 220 ।
-। Incineration of Shankha                                           । 220 ।
+|                                                                   |     |
+|-------------------------------------------------------------------|-----|
+| Kampilla                                                          | 211 |
+| Purification of sadharana uparasas (viz from kampilla to bhunaga) | 212 |
+| Use of Kampilla                                                   | 212 |
+| Gouripashana (Aresenic stone)                                     | 213 |
+| purification of arsenic stone                                     | 213 |
+| Extraction of essence from gauripashana                           | 214 |
+| Navasara (Sal ammoniac)                                           | 214 |
+| Properities of Navasara                                          | 215 |
+| Kapardaka (cowri or marine shells)                                | 216 |
+| Properties of cowry or marine shells                              | 217 |
+| Purification kapardi (cowri)                                      | 218 |
+| Incineration of kapardi or cowri                                  | 218 |
+| Shankha (conch shell)                                             | 220 |
+| Purification of Shankha                                           | 220 |
+| Incineration of Shankha                                           | 220 |
 
 
 
-।                                       ।
-।---------------------------------------।
-। Properties of Shankha              ।
-। Bahni jara or agni jata               ।
-। Girisinduram (mineral red vermilion) ।
-। Properties of girisinduram            ।
-। Red vermilion fit for use             ।
-। Purification of red vermilion         ।
-। Cinnabar (Hingula)                    ।
-। Varieties of Hingula                  ।
-। Properties of Hingula                ।
-। Purification of Hingula               ।
-। Preparations of hingula               ।
-। Preparation of cinnabar at laboratory ।
-। Evil effects of impure hingula        ।
-। Their remedies                       ।
-। Essence of hingula                    ।
-। Mriddara shringaka                    ।
-। Purification of Ditto                 ।
-। Bhunaga (earthworm)                   ।
-। Purification of Ditto                ।
-। Essence of Ditto                      ।
-। Properties of essence of earthworms   ।
+|                                       |
+|---------------------------------------|
+| Properties of Shankha              |
+| Bahni jara or agni jata               |
+| Girisinduram (mineral red vermilion) |
+| Properties of girisinduram            |
+| Red vermilion fit for use             |
+| Purification of red vermilion         |
+| Cinnabar (Hingula)                    |
+| Varieties of Hingula                  |
+| Properties of Hingula                |
+| Purification of Hingula               |
+| Preparations of hingula               |
+| Preparation of cinnabar at laboratory |
+| Evil effects of impure hingula        |
+| Their remedies                       |
+| Essence of hingula                    |
+| Mriddara shringaka                    |
+| Purification of Ditto                 |
+| Bhunaga (earthworm)                   |
+| Purification of Ditto                |
+| Essence of Ditto                      |
+| Properties of essence of earthworms   |
 
 **CHAPTER IV.**
 
-।                                                                ।     ।
-।----------------------------------------------------------------।-----।
-। Metals                                                        । 237 ।
-। Gold                                                           । 238 ।
-। Varieties of gold                                              । 238 ।
-। Properties of gold                                             । 239 ।
-। Evil effects of taking gold not duly incinerated and purified । 241 ।
-। Purification of gold                                          । 242 ।
-। Incineration of gold                                           । 245 ।
-। Importance of mercury in the incineration of gold              । 245 ।
-। Accompaniments of gold                                         । 258 ।
-। Liquefaction of gold                                          । 259 ।
-। Silver                                                         । 260 ।
+|                                                                |     |
+|----------------------------------------------------------------|-----|
+| Metals                                                        | 237 |
+| Gold                                                           | 238 |
+| Varieties of gold                                              | 238 |
+| Properties of gold                                             | 239 |
+| Evil effects of taking gold not duly incinerated and purified | 241 |
+| Purification of gold                                          | 242 |
+| Incineration of gold                                           | 245 |
+| Importance of mercury in the incineration of gold              | 245 |
+| Accompaniments of gold                                         | 258 |
+| Liquefaction of gold                                          | 259 |
+| Silver                                                         | 260 |
 
 
 
-।                                                              ।     ।
-।--------------------------------------------------------------।-----।
-। Varieties of silver                                          । 260 ।
-। Qualities of silver                                          । 262 ।
-। Silver is to be purified and incinerated                     । 263 ।
-। Purification of silver                                       । 263 ।
-। Incineration of silver                                       । 265 ।
-। Uses of incinerated silver                                   । 271 ।
-। Liquefaction of silver                                       । 273 ।
-। Tamram (Copper)                                              । 273 ।
-। Characteristics of bad coppper                               । 274 ।
-। Characteristics of good copper                               । 274 ।
-। Properties of copper                                         । 275 ।
-। Evil properties of copper not duly purified and incinerated । 276 ।
-। Purification of copper                                       । 278 ।
-। Incineration of copper                                       । 279 ।
-। Somanatha Tamram                                             । 280 ।
-। Arka-talam                                                   । 282 ।
-। Nectarisation of incinerated copper                          । 287 ।
-। Use of incinerated copper                                    । 288 ।
-। Glossary                                                     । 289 ।
-। Appendix                                                     ।    ।
+|                                                              |     |
+|--------------------------------------------------------------|-----|
+| Varieties of silver                                          | 260 |
+| Qualities of silver                                          | 262 |
+| Silver is to be purified and incinerated                     | 263 |
+| Purification of silver                                       | 263 |
+| Incineration of silver                                       | 265 |
+| Uses of incinerated silver                                   | 271 |
+| Liquefaction of silver                                       | 273 |
+| Tamram (Copper)                                              | 273 |
+| Characteristics of bad coppper                               | 274 |
+| Characteristics of good copper                               | 274 |
+| Properties of copper                                         | 275 |
+| Evil properties of copper not duly purified and incinerated | 276 |
+| Purification of copper                                       | 278 |
+| Incineration of copper                                       | 279 |
+| Somanatha Tamram                                             | 280 |
+| Arka-talam                                                   | 282 |
+| Nectarisation of incinerated copper                          | 287 |
+| Use of incinerated copper                                    | 288 |
+| Glossary                                                     | 289 |
+| Appendix                                                     |    |
 
 
 
@@ -359,262 +359,262 @@ Page 259 line 7. Insert “Liquefaction of gold.”
 
 
 
-।                                     ।
-।:-----------------------------------:।
-।              **विषयः**              ।
-।             मङ्गलाचरणम्             ।
-।            **अथ अभ्रम्**            ।
-।            तस्य प्रकारः             ।
-।           सचन्द्रिकमभ्रम्           ।
-।           अभ्रस्य शोधनम्            ।
-।             धान्याभ्रम्             ।
-।           अभ्रस्य मारणम्            ।
-।         मृताभ्रस्य लक्षणम्          ।
-।        मृताभ्रस्य अमृतीकरणम्        ।
-।    अभ्रमारणे पुटनस्य वैशिष्ट्यम्    ।
-। सहस्रपुटनपक्षे मर्दनस्य नैरर्थक्यम् ।
-।            अभ्रमारकवर्गः            ।
-।           अभ्रभस्मप्रयोगः           ।
-।          अभ्रभस्मानुपानानि          ।
-।              अभ्रकल्पः              ।
-।          अभ्रसेवने अपथ्यम्          ।
-।         अपक्वाभ्रसेवने दोषः         ।
-।             तच्छान्तिः              ।
-।        अभ्रस्य सत्त्वपातनम्         ।
-।             पञ्चमित्रम्             ।
-।        अभ्रसत्त्वस्य शोधनम्         ।
-।        अभ्रसत्त्वस्यमारणम्         ।
+|                                     |
+|:-----------------------------------:|
+|              **विषयः**              |
+|             मङ्गलाचरणम्             |
+|            **अथ अभ्रम्**            |
+|            तस्य प्रकारः             |
+|           सचन्द्रिकमभ्रम्           |
+|           अभ्रस्य शोधनम्            |
+|             धान्याभ्रम्             |
+|           अभ्रस्य मारणम्            |
+|         मृताभ्रस्य लक्षणम्          |
+|        मृताभ्रस्य अमृतीकरणम्        |
+|    अभ्रमारणे पुटनस्य वैशिष्ट्यम्    |
+| सहस्रपुटनपक्षे मर्दनस्य नैरर्थक्यम् |
+|            अभ्रमारकवर्गः            |
+|           अभ्रभस्मप्रयोगः           |
+|          अभ्रभस्मानुपानानि          |
+|              अभ्रकल्पः              |
+|          अभ्रसेवने अपथ्यम्          |
+|         अपक्वाभ्रसेवने दोषः         |
+|             तच्छान्तिः              |
+|        अभ्रस्य सत्त्वपातनम्         |
+|             पञ्चमित्रम्             |
+|        अभ्रसत्त्वस्य शोधनम्         |
+|        अभ्रसत्त्वस्यमारणम्         |
 
 
 
-।                                        ।
-।:--------------------------------------:।
-।               **विषयः**                ।
-।        अभ्रसत्त्वभस्मसेवनविधिः         ।
-।        अभ्रसत्त्वस्य मृदूकरणम्        ।
-।              अभ्रद्रुतिः               ।
-।      अभ्रसत्त्वाद् द्रुतिसाधनम्       ।
-।         अनेकद्रुतिमेलापनविधिः         ।
-।             अभ्रकवेधक्रिया             ।
-।      **अथ माक्षिकम्—तस्य भेदाः**       ।
-।              अस्य गुणाः               ।
-।        अशोधितमाक्षिकसेवने दोषः         ।
-।           माक्षिकस्य शोधनम्           ।
-।            मक्षिकस्य मारणम्            ।
-।         मक्षिकस्य सत्त्वपातनम्         ।
-।          माक्षिकसत्त्वप्रयोगः          ।
-।          माक्षिकसत्त्वद्रुतिः          ।
-।          माक्षिकस्य अनुपानम्           ।
-। अशुंद्धमाक्षिकभक्षणजनित-दोषस्य शान्तिः ।
-।              **अथ विमलः**              ।
-।            विमलस्य शोधनम्             ।
-।           विमलस्य भस्मीकरणम्           ।
-।          विमलस्य सत्त्वपातनम्          ।
-।         विमलसत्त्वस्य प्रयोगः          ।
-।      **अथ शिलाधातुः—तस्य भेदाः**       ।
-।        शिलाधातूनां विशेषगुणाः         ।
-।         जात्यशिलाजतुनःपरीक्षा          ।
-।        शिलाजतूनां साधारणगुणाः         ।
-।            शिलाधातोः शोधनम्            ।
-।         शोधितशिलाधातोः परीक्षा         ।
+|                                        |
+|:--------------------------------------:|
+|               **विषयः**                |
+|        अभ्रसत्त्वभस्मसेवनविधिः         |
+|        अभ्रसत्त्वस्य मृदूकरणम्        |
+|              अभ्रद्रुतिः               |
+|      अभ्रसत्त्वाद् द्रुतिसाधनम्       |
+|         अनेकद्रुतिमेलापनविधिः         |
+|             अभ्रकवेधक्रिया             |
+|      **अथ माक्षिकम्—तस्य भेदाः**       |
+|              अस्य गुणाः               |
+|        अशोधितमाक्षिकसेवने दोषः         |
+|           माक्षिकस्य शोधनम्           |
+|            मक्षिकस्य मारणम्            |
+|         मक्षिकस्य सत्त्वपातनम्         |
+|          माक्षिकसत्त्वप्रयोगः          |
+|          माक्षिकसत्त्वद्रुतिः          |
+|          माक्षिकस्य अनुपानम्           |
+| अशुंद्धमाक्षिकभक्षणजनित-दोषस्य शान्तिः |
+|              **अथ विमलः**              |
+|            विमलस्य शोधनम्             |
+|           विमलस्य भस्मीकरणम्           |
+|          विमलस्य सत्त्वपातनम्          |
+|         विमलसत्त्वस्य प्रयोगः          |
+|      **अथ शिलाधातुः—तस्य भेदाः**       |
+|        शिलाधातूनां विशेषगुणाः         |
+|         जात्यशिलाजतुनःपरीक्षा          |
+|        शिलाजतूनां साधारणगुणाः         |
+|            शिलाधातोः शोधनम्            |
+|         शोधितशिलाधातोः परीक्षा         |
 
 
 
-।                                       ।
-।:-------------------------------------:।
-।               **विषयः**               ।
-। शिलाधातोः प्रयोगो मात्रा पथ्यापथ्यं च ।
-।         शिलाधातोर्भस्मीकरणम्          ।
-।          शिलाजतुभस्मप्रयोगः           ।
-।          शिलाधातोः सत्त्वम्           ।
-।             कर्पूरशिलाजतु             ।
-।        अशुद्धशिलाजतुसेवने दोषः        ।
-।    शिलाजतूत्थविकाराणां निवारणोपायः    ।
-।           ऊषरकाख्यं शिलाजतु           ।
-।            **अथ तुत्थम्**             ।
-।            तुत्थस्य शोधनम्            ।
-।         तुत्थस्यसत्त्वपातनम्         ।
-।  मयूरपक्षात् ताम्रनिष्काशनस्य विधिः   ।
-।           शूलघ्नी मुद्रिका            ।
-।       तुत्थसत्त्वस्य भस्मीकरणम्       ।
-।            **अथ सस्यकम्**             ।
-।            सस्यकस्य गुणाः             ।
-।            सस्यकस्य शोधनम्            ।
-।            सस्यकस्यमारणम्            ।
-।         सस्यकस्यसत्त्वपातनम्         ।
-।       द्वितीया शूलघ्नी मुद्रिका       ।
-।      तुत्तसस्यकसत्त्वस्य मारणम्       ।
-।      तुत्थसस्यकविकारस्य शान्तिः       ।
-।                अथ चपलः                ।
-।             चपलस्य शोधनम्             ।
-।          चपलस्य सत्त्वपातनम्          ।
-।             नागसम्भवचपलः             ।
-।              **अथ रसकः**              ।
+|                                       |
+|:-------------------------------------:|
+|               **विषयः**               |
+| शिलाधातोः प्रयोगो मात्रा पथ्यापथ्यं च |
+|         शिलाधातोर्भस्मीकरणम्          |
+|          शिलाजतुभस्मप्रयोगः           |
+|          शिलाधातोः सत्त्वम्           |
+|             कर्पूरशिलाजतु             |
+|        अशुद्धशिलाजतुसेवने दोषः        |
+|    शिलाजतूत्थविकाराणां निवारणोपायः    |
+|           ऊषरकाख्यं शिलाजतु           |
+|            **अथ तुत्थम्**             |
+|            तुत्थस्य शोधनम्            |
+|         तुत्थस्यसत्त्वपातनम्         |
+|  मयूरपक्षात् ताम्रनिष्काशनस्य विधिः   |
+|           शूलघ्नी मुद्रिका            |
+|       तुत्थसत्त्वस्य भस्मीकरणम्       |
+|            **अथ सस्यकम्**             |
+|            सस्यकस्य गुणाः             |
+|            सस्यकस्य शोधनम्            |
+|            सस्यकस्यमारणम्            |
+|         सस्यकस्यसत्त्वपातनम्         |
+|       द्वितीया शूलघ्नी मुद्रिका       |
+|      तुत्तसस्यकसत्त्वस्य मारणम्       |
+|      तुत्थसस्यकविकारस्य शान्तिः       |
+|                अथ चपलः                |
+|             चपलस्य शोधनम्             |
+|          चपलस्य सत्त्वपातनम्          |
+|             नागसम्भवचपलः             |
+|              **अथ रसकः**              |
 
 
 
-।                                        ।
-।:--------------------------------------:।
-।               **विषयः**                ।
-। अग्निसहने रसकस्य अक्षमता       ।
-।       रसकस्याग्निसहता-सम्पादनम्        ।
-।             रसकस्य शोधनम्              ।
-।             रसकस्यमारणम्              ।
-।          रसकस्यसत्त्वपातनम्           ।
-।           सतालकरसकसत्त्वभस्म           ।
-।         रसकेन रसादीनां रञ्जनम्         ।
+|                                        |
+|:--------------------------------------:|
+|               **विषयः**                |
+| अग्निसहने रसकस्य अक्षमता       |
+|       रसकस्याग्निसहता-सम्पादनम्        |
+|             रसकस्य शोधनम्              |
+|             रसकस्यमारणम्              |
+|          रसकस्यसत्त्वपातनम्           |
+|           सतालकरसकसत्त्वभस्म           |
+|         रसकेन रसादीनां रञ्जनम्         |
 
 **द्वितीयोऽध्यायः।**
 
-।                                     ।
-।-------------------------------------।
-। **अथ गन्धकः**                       ।
-। गन्धकस्य प्रकाराः                   ।
-। गन्धकस्यगुणाः                      ।
-। गन्धकस्यशोधनम्                     ।
-। गन्धकसेवनविधिः                      ।
-। गन्धकतैलम्                          ।
-। गन्धकसेवने अपथ्यम्                  ।
-। गन्धकस्य गन्धदूरीकरणम्              ।
-। गन्धकेन वेधनक्रिया                  ।
-। अशुद्धगन्धकभक्षणजनितविकारस्थापनयनम् ।
-। **अथ गैरिकम्**                      ।
-। गौरिकस्य शोधनम्                     ।
-। गौरिकस्यसत्त्वपातनम्               ।
-। गौरिकस्यप्रयोगः                    ।
-। **अथ कासीसम्**                      ।
-। कासीसस्य शोधनम्                     ।
-। **अथ कांक्षी (तुवरी)**              ।
-। अस्याः गुणाः                        ।
-। अस्याः शोधनम् सत्त्वपातनम् च        ।
+|                                     |
+|-------------------------------------|
+| **अथ गन्धकः**                       |
+| गन्धकस्य प्रकाराः                   |
+| गन्धकस्यगुणाः                      |
+| गन्धकस्यशोधनम्                     |
+| गन्धकसेवनविधिः                      |
+| गन्धकतैलम्                          |
+| गन्धकसेवने अपथ्यम्                  |
+| गन्धकस्य गन्धदूरीकरणम्              |
+| गन्धकेन वेधनक्रिया                  |
+| अशुद्धगन्धकभक्षणजनितविकारस्थापनयनम् |
+| **अथ गैरिकम्**                      |
+| गौरिकस्य शोधनम्                     |
+| गौरिकस्यसत्त्वपातनम्               |
+| गौरिकस्यप्रयोगः                    |
+| **अथ कासीसम्**                      |
+| कासीसस्य शोधनम्                     |
+| **अथ कांक्षी (तुवरी)**              |
+| अस्याः गुणाः                        |
+| अस्याः शोधनम् सत्त्वपातनम् च        |
 
 
 
-।                                    ।
-।:----------------------------------:।
-।             **विषयः**              ।
-।           **अथ स्फटिका**           ।
-।        स्फटिकार्य्या गुणाः         ।
-।          **अथ हरितालम्**           ।
-।          (१) पत्रहरितालम्          ।
-।         (२) पिण्डहरितालम्          ।
-।         (३) गोदन्तहरितालम्         ।
-।         (४) वकदाल हरितालम्         ।
-।        शोधितहरितालस्य गुणाः        ।
-।        मारणयोग्यं हरितालम्         ।
-।       अशुद्धहरितालस्य दोषाः        ।
-।          हरितालस्य शोधनम्          ।
-।            रसमाणिक्यम्             ।
-।         हरितालस्य मारणम्          ।
-।         हरितालस्य द्रुतिः          ।
-।         तालभस्मनः परीक्षा          ।
-।          तालभस्मनः गुणाः           ।
-।        तालभस्मनः अनुपानानि         ।
-।       हरितालस्य सत्त्वपातनम्       ।
-।      हरितालसत्त्वस्य प्रयोगः       ।
-। अशुद्धहरितालसेवनजनितदोषस्य शान्तिः ।
-।      हरितालसेवने पथ्यापथ्यम्       ।
-।        हरितालेन वेधनक्रियाः        ।
-।           **अथ मनःशिला**           ।
-।          अस्याः प्रकाराः           ।
-।            अस्याःगुणाः            ।
-।       अशोधितमनः शिलायाः दोषः       ।
-।         मनःशिलायाः शोधनम्          ।
+|                                    |
+|:----------------------------------:|
+|             **विषयः**              |
+|           **अथ स्फटिका**           |
+|        स्फटिकार्य्या गुणाः         |
+|          **अथ हरितालम्**           |
+|          (१) पत्रहरितालम्          |
+|         (२) पिण्डहरितालम्          |
+|         (३) गोदन्तहरितालम्         |
+|         (४) वकदाल हरितालम्         |
+|        शोधितहरितालस्य गुणाः        |
+|        मारणयोग्यं हरितालम्         |
+|       अशुद्धहरितालस्य दोषाः        |
+|          हरितालस्य शोधनम्          |
+|            रसमाणिक्यम्             |
+|         हरितालस्य मारणम्          |
+|         हरितालस्य द्रुतिः          |
+|         तालभस्मनः परीक्षा          |
+|          तालभस्मनः गुणाः           |
+|        तालभस्मनः अनुपानानि         |
+|       हरितालस्य सत्त्वपातनम्       |
+|      हरितालसत्त्वस्य प्रयोगः       |
+| अशुद्धहरितालसेवनजनितदोषस्य शान्तिः |
+|      हरितालसेवने पथ्यापथ्यम्       |
+|        हरितालेन वेधनक्रियाः        |
+|           **अथ मनःशिला**           |
+|          अस्याः प्रकाराः           |
+|            अस्याःगुणाः            |
+|       अशोधितमनः शिलायाः दोषः       |
+|         मनःशिलायाः शोधनम्          |
 
 **तृतीयोऽध्यायः।**
 
-।                                  ।
-।:--------------------------------:।
-।            **विषयः**             ।
-।        **अथ कम्पिल्लम्**         ।
-। कम्पिल्लादिसाधारणोपरसानां शोधनम् ।
-।       कम्पिल्लप्रयोगविधिः        ।
-।        **अथ गौरीपाषाणः**         ।
-।           अस्य शोधनम्           ।
-।        अस्य सत्त्वपातनम्         ।
-।          **अथ नवसारः**           ।
-।            अस्य गुणाः            ।
-।          **अथ कपदकाः**           ।
-।         वराटिकायाः गुणाः         ।
+|                                  |
+|:--------------------------------:|
+|            **विषयः**             |
+|        **अथ कम्पिल्लम्**         |
+| कम्पिल्लादिसाधारणोपरसानां शोधनम् |
+|       कम्पिल्लप्रयोगविधिः        |
+|        **अथ गौरीपाषाणः**         |
+|           अस्य शोधनम्           |
+|        अस्य सत्त्वपातनम्         |
+|          **अथ नवसारः**           |
+|            अस्य गुणाः            |
+|          **अथ कपदकाः**           |
+|         वराटिकायाः गुणाः         |
 
 
 
-।                            ।
-।:--------------------------:।
-।         **विषयः**          ।
-।       अस्याः शोधनम्        ।
-।       अस्याः मारणम्        ।
-।        **अथ शङ्खः**        ।
-।        अस्य शोधनम्         ।
-।        अस्यमारणम्         ।
-।         अस्य गुणाः         ।
-।      **अथ वह्णिजारः**      ।
-।      अथगिरिसिन्दूरम्      ।
-।         अस्य गुणाः         ।
-। व्यवहारयोग्यः गिरिसिन्दूरः ।
-।     सिन्दूरस्य शोधनम्      ।
-।         अथ हिंगुलः         ।
-।         अस्य गुणाः         ।
-।        अस्यशोधनम्         ।
-।         शतार्कदरदः         ।
-।      हिंगुलस्य पाकाः       ।
-। कृत्रिमहिङ्गुलजननस्य विधिः ।
-।    अशुद्धहिंगुलस्य दोषः    ।
-।        अस्य शान्तिः        ।
-।        दरदसत्त्वम्         ।
-।   **अथ मृद्दारशृङ्गकम्**   ।
-।        अस्य शोधनम्         ।
-।         अथ भूनागः          ।
-।        अस्य शोधनम्         ।
-।   भूनागस्य सत्त्वपातनम्    ।
-।   ताम्रभूनागसत्त्वपातनम्   ।
-।    भूनागसत्त्वस्य गुणाः    ।
-।    **चतुर्थोऽध्यायः।**     ।
-।        **अथ धातवः**        ।
-।      **अथ स्वर्णम्**       ।
-।        अस्य प्रकारः        ।
+|                            |
+|:--------------------------:|
+|         **विषयः**          |
+|       अस्याः शोधनम्        |
+|       अस्याः मारणम्        |
+|        **अथ शङ्खः**        |
+|        अस्य शोधनम्         |
+|        अस्यमारणम्         |
+|         अस्य गुणाः         |
+|      **अथ वह्णिजारः**      |
+|      अथगिरिसिन्दूरम्      |
+|         अस्य गुणाः         |
+| व्यवहारयोग्यः गिरिसिन्दूरः |
+|     सिन्दूरस्य शोधनम्      |
+|         अथ हिंगुलः         |
+|         अस्य गुणाः         |
+|        अस्यशोधनम्         |
+|         शतार्कदरदः         |
+|      हिंगुलस्य पाकाः       |
+| कृत्रिमहिङ्गुलजननस्य विधिः |
+|    अशुद्धहिंगुलस्य दोषः    |
+|        अस्य शान्तिः        |
+|        दरदसत्त्वम्         |
+|   **अथ मृद्दारशृङ्गकम्**   |
+|        अस्य शोधनम्         |
+|         अथ भूनागः          |
+|        अस्य शोधनम्         |
+|   भूनागस्य सत्त्वपातनम्    |
+|   ताम्रभूनागसत्त्वपातनम्   |
+|    भूनागसत्त्वस्य गुणाः    |
+|    **चतुर्थोऽध्यायः|**     |
+|        **अथ धातवः**        |
+|      **अथ स्वर्णम्**       |
+|        अस्य प्रकारः        |
 
 
 
-।                                     ।
-।:-----------------------------------:।
-।              **विषयः**              ।
-।           सुवर्णस्य गुणा            ।
-। अशोधितस्यामारितस्य च स्वर्णस्य दोषः ।
-।          स्वर्णस्य शोधनम्           ।
-।          स्वर्णस्य मारणम्           ।
-।         स्वर्णभस्मानुपानम्          ।
-।            स्वर्णद्रुतिः            ।
-।           **अथ रौप्यम्**            ।
-।            रजतस्य भेदाः             ।
-।             सहजरौप्यम्              ।
-।             खनिजरौप्यम्             ।
-।            कृत्रिमरौप्यर            ।
-।            रौप्यस्यगुणाः            ।
-।     रौप्यं शोधनीयं मारयितव्यञ्च     ।
-।           रौप्यस्य शोधनम्           ।
-।           रौप्यस्य मारणम्           ।
-।         रोप्यभस्मनः प्रयोगः         ।
-।            रौप्यद्रुतिः             ।
-।           **अथ ताम्रम् **           ।
-।       निकृष्टताम्रस्य लक्षणम्       ।
-।      उत्कृष्टताम्रस्य लक्षणम्       ।
-।           ताम्रस्य गुणाः            ।
-।      शोधनमारणहीन-ताम्रस्य दोषः      ।
-।           ताम्रस्य शोधनम्           ।
-।           ताम्रस्य मारणम्           ।
-।            सोमनाथताम्रम्            ।
-।              अर्कतालम्              ।
-।        मृतताम्रस्यामृतीकरणम्        ।
-।          ताम्रभस्मप्रयोगः           ।
+|                                     |
+|:-----------------------------------:|
+|              **विषयः**              |
+|           सुवर्णस्य गुणा            |
+| अशोधितस्यामारितस्य च स्वर्णस्य दोषः |
+|          स्वर्णस्य शोधनम्           |
+|          स्वर्णस्य मारणम्           |
+|         स्वर्णभस्मानुपानम्          |
+|            स्वर्णद्रुतिः            |
+|           **अथ रौप्यम्**            |
+|            रजतस्य भेदाः             |
+|             सहजरौप्यम्              |
+|             खनिजरौप्यम्             |
+|            कृत्रिमरौप्यर            |
+|            रौप्यस्यगुणाः            |
+|     रौप्यं शोधनीयं मारयितव्यञ्च     |
+|           रौप्यस्य शोधनम्           |
+|           रौप्यस्य मारणम्           |
+|         रोप्यभस्मनः प्रयोगः         |
+|            रौप्यद्रुतिः             |
+|           **अथ ताम्रम् **           |
+|       निकृष्टताम्रस्य लक्षणम्       |
+|      उत्कृष्टताम्रस्य लक्षणम्       |
+|           ताम्रस्य गुणाः            |
+|      शोधनमारणहीन-ताम्रस्य दोषः      |
+|           ताम्रस्य शोधनम्           |
+|           ताम्रस्य मारणम्           |
+|            सोमनाथताम्रम्            |
+|              अर्कतालम्              |
+|        मृतताम्रस्यामृतीकरणम्        |
+|          ताम्रभस्मप्रयोगः           |
 
 **शुद्धिपत्रम्**      
 
-।                 ।               ।              ।           ।
-।:---------------:।:-------------:।:------------:।:---------:।
-। **अशुद्ध पाठः** । **शुद्धपाठः** । **पृष्ठम् ** । **पंकिः** ।
-।     पिष्टा      ।   पिष्ट्वा    ।     १४१      ।    २४     ।
-।       धता       ।     धृता      ।   १४१    ।    २५     ।
+|                 |               |              |           |
+|:---------------:|:-------------:|:------------:|:---------:|
+| **अशुद्ध पाठः** | **शुद्धपाठः** | **पृष्ठम् ** | **पंकिः** |
+|     पिष्टा      |   पिष्ट्वा    |     १४१      |    २४     |
+|       धता       |     धृता      |   १४१    |    २५     |
 
                                    
                        
@@ -8098,38 +8098,38 @@ Prepared by
 
 **APPENDIX**
 
-।         ।               ।               ।            ।               ।                      ।                       ।
-।ः-------:।:-------------:।:-------------:।:----------:।:-------------:।:--------------------:।:---------------------:।
-। **No.** । **Sanskrit.** । **Bengali.**  । **Hindi.** ।  **Mahrati**  । **Tamil or Telegu.** ।    **Botanical.**     ।
-।   19    ।  Amlabargas   ।              ।           ।              ।                     ।                      ।
-।   20    ।  Amlabetasa   ।    Thykol     ।  Amaltas   ।              ।                     ।   Ruxem Vesicarius    ।
-।   21    ।   Aragwadha   ।    Sondal     ।  Sonehali  ।  Thorebahaba  ।    Bella - chettu    ।    Cassia fistula     ।
-।   22    ।     Arka      ।    Akanda     ।   Madar    ।      Rui      ।  Jillettu - chettu   ।  Calotropis gigantea  ।
-।   23    ।    Arjuna     ।     Arjun     ।   Kahee    । Arjun- saraha ।    Matti - chettu    ।   Terminalia Arjuna   ।
-।   24    । Ardha chandra । Krishna Tewri ।  Pithori   ।     Tior      ।        Sibdai        । Convolvulus turpethum ।
-।   25    ।   Alambusha   ।   Fulshola    ।           ।              ।                     ।                      ।
-।   26    ।     Asana     ।    Piasal     ।    Asan    ।     Asna      ।                     । Terminalia tomentosa ।
-।   27    ।  Aswagandha   ।  Aswagandha   ।  Asgandh   ।    Asandh     ।                     ।  Withania somnifera   ।
-।   28    ।   Aswattha    ।     Asoth     ।   Pipar    ।    Pingpal    ।   Kulujuhi- chettu   ।    Ficus religiosa    ।
-।   29    ।  Asthibhanga  ।    Harjora    ।  Horjori   ।              ।                     । Vitis quadrangularis  ।
-।   30    । Asthisamhara  । (See No. 30)  ।           ।              ।                     ।                      ।
-।   31    ।      Ahi      । Nag - kesara  । Kababchini ।              ।      Nagkesarlu      ।     Mesua ferrea      ।
-।   32    ।   Ahiphena    ।     Afim      ।   Aphim    ।     Aphun     ।        Abini         ।  Papaver somniferum  ।
-।   33    ।    Akshika    ।     Anch      ।           ।              ।                     ।                      ।
-।   34    ।     Akuli     ।              ।           ।              ।                     ।                      ।
-।   35    ।   Akhukarni   ।   Indurkani   ।  Musakani  ।    Bhopli     ।                     ।  Salvinia cucullata   ।
-।   36    ।   Akhuparni   । (See No. 35)  ।           ।              ।                     ।                      ।
-।   37    ।    Adhaki     ।     Arhar     ।   Rahar    ।              ।                     ।    Cajanus Indicus    ।
-।   38    ।    Amalaki    ।    Amlaki     ।    Amla    ।     Anbul     ।                     ।  Phyllanthus emblica  ।
-।   39    ।    Ardraka    ।      Ada      ।   Adrak    ।      Alu      ।                     । Zingiber officinalis  ।
+|         |               |               |            |               |                      |                       |
+|:-------:|:-------------:|:-------------:|:----------:|:-------------:|:--------------------:|:---------------------:|
+| **No.** | **Sanskrit.** | **Bengali.**  | **Hindi.** |  **Mahrati**  | **Tamil or Telegu.** |    **Botanical.**     |
+|   19    |  Amlabargas   |              |           |              |                     |                      |
+|   20    |  Amlabetasa   |    Thykol     |  Amaltas   |              |                     |   Ruxem Vesicarius    |
+|   21    |   Aragwadha   |    Sondal     |  Sonehali  |  Thorebahaba  |    Bella - chettu    |    Cassia fistula     |
+|   22    |     Arka      |    Akanda     |   Madar    |      Rui      |  Jillettu - chettu   |  Calotropis gigantea  |
+|   23    |    Arjuna     |     Arjun     |   Kahee    | Arjun- saraha |    Matti - chettu    |   Terminalia Arjuna   |
+|   24    | Ardha chandra | Krishna Tewri |  Pithori   |     Tior      |        Sibdai        | Convolvulus turpethum |
+|   25    |   Alambusha   |   Fulshola    |           |              |                     |                      |
+|   26    |     Asana     |    Piasal     |    Asan    |     Asna      |                     | Terminalia tomentosa |
+|   27    |  Aswagandha   |  Aswagandha   |  Asgandh   |    Asandh     |                     |  Withania somnifera   |
+|   28    |   Aswattha    |     Asoth     |   Pipar    |    Pingpal    |   Kulujuhi- chettu   |    Ficus religiosa    |
+|   29    |  Asthibhanga  |    Harjora    |  Horjori   |              |                     | Vitis quadrangularis  |
+|   30    | Asthisamhara  | (See No. 30)  |           |              |                     |                      |
+|   31    |      Ahi      | Nag - kesara  | Kababchini |              |      Nagkesarlu      |     Mesua ferrea      |
+|   32    |   Ahiphena    |     Afim      |   Aphim    |     Aphun     |        Abini         |  Papaver somniferum  |
+|   33    |    Akshika    |     Anch      |           |              |                     |                      |
+|   34    |     Akuli     |              |           |              |                     |                      |
+|   35    |   Akhukarni   |   Indurkani   |  Musakani  |    Bhopli     |                     |  Salvinia cucullata   |
+|   36    |   Akhuparni   | (See No. 35)  |           |              |                     |                      |
+|   37    |    Adhaki     |     Arhar     |   Rahar    |              |                     |    Cajanus Indicus    |
+|   38    |    Amalaki    |    Amlaki     |    Amla    |     Anbul     |                     |  Phyllanthus emblica  |
+|   39    |    Ardraka    |      Ada      |   Adrak    |      Alu      |                     | Zingiber officinalis  |
 
 **B**
 
-।     ।              ।              ।         ।         ।            ।                        ।
-।-----।--------------।--------------।---------।---------।------------।------------------------।
-। 40  । Bandhuka     । Bandhuli     । Gogulia । Banduja । Makuchette । Pentapetas phoenicia   ।
-। 41  । Bandhujibaka । (See No. 40) ।        ।        ।           ।                       ।
-। 42  । Bandhya      । Kankrola     ।        ।        ।           । A bitter sort of gourd ।
+|     |              |              |         |         |            |                        |
+|-----|--------------|--------------|---------|---------|------------|------------------------|
+| 40  | Bandhuka     | Bandhuli     | Gogulia | Banduja | Makuchette | Pentapetas phoenicia   |
+| 41  | Bandhujibaka | (See No. 40) |        |        |           |                       |
+| 42  | Bandhya      | Kankrola     |        |        |           | A bitter sort of gourd |
 
 **APPENDIX**
 
@@ -8163,9 +8163,9 @@ Prepared by
 
 **E**
 
-।     ।                 ।                     ।                       ।                      ।               ।                    ।
-।-----।-----------------।---------------------।-----------------------।----------------------।---------------।--------------------।
-। 150 । Eranda    । Veranda      । Rerhi        ।           । Amidpuchittu । Ricinus communis ।
+|     |                 |                     |                       |                      |               |                    |
+|-----|-----------------|---------------------|-----------------------|----------------------|---------------|--------------------|
+| 150 | Eranda    | Veranda      | Rerhi        |           | Amidpuchittu | Ricinus communis |
 
 **APPENDIX**
 
@@ -8173,29 +8173,29 @@ Prepared by
 
 **APPENDIX**
 
-।         ।                    ।                   ।              ।              ।                      ।                            ।
-।---------।--------------------।-------------------।--------------।--------------।----------------------।----------------------------।
-। **No.** । **Sanskrit.**      । **Bengali.**      । **Hindi.**   । **Mahrati,** । **Tamil or Telegu.** । **Botanical.**             ।
-। 171     । Haridra            । Halud             । Hardi        । Haldi        । Pasup                । Circuma longer             ।
-। 172     । Haritaki           । Hartuki           । Harrha       । Hiraha       । Karakchettu          । Chebulic myrobelan         ।
-। 173     । Hastikarna-palasha । Bhupalash         ।             ।             ।                     । Butea superba              ।
-। 174     । Hastishundi        । Hatisurra         ।             । Nelbal       ।                     । Heliotropium Indicum       ।
-। 175     । Hingu              । Hing              । Hingu        ।             । Ingoor               । Ferula asafoetida          ।
-। 176     । Hingupatri         । Bansapa- tratripa ।             ।             ।                     । Balanitis roxburghi        ।
-। 177     । Hilamochika        । Hinchisak         । Hurhuch      ।             ।                     । Enhydra fluctuans          ।
-। 178     । Hemchandra         ।                  ।             ।             ।                     ।                           ।
-। **I**   ।                    ।                   ।              ।              ।                      ।                            ।
-। 179     । Ijjala             । Hijal             । Ijar         । Parjaya      ।                     । Engenia atu- tangula       ।
-। 180     । Indrajaba          । Kurchi            । Indrajab     ।             ।                     । Holarrhena antidysenterica ।
-। 181     । Indrabaruni        । Rakhalsasa        । Indra- barun । Indra-baruni ।                     । Cucumis colocynthis        ।
-। 182     । Ikshu              । Ak                । Gande        ।             । Cheruku              । Saccharum officinarum      ।
-। 183     । Ikshaku            । Tita-lau          । Tumbi        । Koru- bhopla । Chetianub            । Lagenaria vulgaris         ।
-। **J**   ।                    ।                   ।              ।              ।                      ।                            ।
-। 184     । Jatamansi          । Jatamansi         । Konuchar     ।             ।                     । Valeriana Jatamansh        ।
-। 185     । Japa, Jaba         । Jabaful           ।             ।             ।                     । HibiscusRosa sinemsis      ।
-। 186     । Jambira            । Gonranebu         । Nimbu        । Id           । Nimmachettu          । Citrus medicai             ।
-। 187     । Jayanti            । Dhanche Joit      । Soberi       ।             ।                     । Sesbania aculeata          ।
-। 188     । Jayapala           । Joypala           ।             ।             ।                     । Croton tiglium             ।
+|         |                    |                   |              |              |                      |                            |
+|---------|--------------------|-------------------|--------------|--------------|----------------------|----------------------------|
+| **No.** | **Sanskrit.**      | **Bengali.**      | **Hindi.**   | **Mahrati,** | **Tamil or Telegu.** | **Botanical.**             |
+| 171     | Haridra            | Halud             | Hardi        | Haldi        | Pasup                | Circuma longer             |
+| 172     | Haritaki           | Hartuki           | Harrha       | Hiraha       | Karakchettu          | Chebulic myrobelan         |
+| 173     | Hastikarna-palasha | Bhupalash         |             |             |                     | Butea superba              |
+| 174     | Hastishundi        | Hatisurra         |             | Nelbal       |                     | Heliotropium Indicum       |
+| 175     | Hingu              | Hing              | Hingu        |             | Ingoor               | Ferula asafoetida          |
+| 176     | Hingupatri         | Bansapa- tratripa |             |             |                     | Balanitis roxburghi        |
+| 177     | Hilamochika        | Hinchisak         | Hurhuch      |             |                     | Enhydra fluctuans          |
+| 178     | Hemchandra         |                  |             |             |                     |                           |
+| **I**   |                    |                   |              |              |                      |                            |
+| 179     | Ijjala             | Hijal             | Ijar         | Parjaya      |                     | Engenia atu- tangula       |
+| 180     | Indrajaba          | Kurchi            | Indrajab     |             |                     | Holarrhena antidysenterica |
+| 181     | Indrabaruni        | Rakhalsasa        | Indra- barun | Indra-baruni |                     | Cucumis colocynthis        |
+| 182     | Ikshu              | Ak                | Gande        |             | Cheruku              | Saccharum officinarum      |
+| 183     | Ikshaku            | Tita-lau          | Tumbi        | Koru- bhopla | Chetianub            | Lagenaria vulgaris         |
+| **J**   |                    |                   |              |              |                      |                            |
+| 184     | Jatamansi          | Jatamansi         | Konuchar     |             |                     | Valeriana Jatamansh        |
+| 185     | Japa, Jaba         | Jabaful           |             |             |                     | HibiscusRosa sinemsis      |
+| 186     | Jambira            | Gonranebu         | Nimbu        | Id           | Nimmachettu          | Citrus medicai             |
+| 187     | Jayanti            | Dhanche Joit      | Soberi       |             |                     | Sesbania aculeata          |
+| 188     | Jayapala           | Joypala           |             |             |                     | Croton tiglium             |
 
 **APPENDIX**
 

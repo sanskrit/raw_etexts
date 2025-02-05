@@ -1192,17 +1192,17 @@ unit orders एकक-आदेश**
 unit recruiting party एकक भर्ती दल  
 units of electricity विद्युद्-एकक**
 
-।         ।             ।                    ।
-|:-------:|:-----------:|:------------------:।
-। *unit*  ।  *nature*   ।                   ।
-। ampere  ।   current   ।    द्युवहि (व.)    ।
-। coulomb ।  quantity   ।  द्युमात्रा (मा.)  ।
-।  farad  ।  capacity   ।  द्युक्षम (क्ष.)   ।
-।  henry  । inductance  । द्युप्ररोच (प्र .) ।
-।   mho   । conductance ।  द्युसंवाह (सं.)   ।
-।   ohm   । resistance  ।   द्युरोध (रो.)    ।
-।  volt   ।  potential  ।   द्युशक्म (श.)    ।
-।  joule  ।   energy    ।   द्युर्जा(ऊ.)    ।
+|         |             |                    |
+|:-------:|:-----------:|:------------------:|
+| *unit*  |  *nature*   |                   |
+| ampere  |   current   |    द्युवहि (व.)    |
+| coulomb |  quantity   |  द्युमात्रा (मा.)  |
+|  farad  |  capacity   |  द्युक्षम (क्ष.)   |
+|  henry  | inductance  | द्युप्ररोच (प्र .) |
+|   mho   | conductance |  द्युसंवाह (सं.)   |
+|   ohm   | resistance  |   द्युरोध (रो.)    |
+|  volt   |  potential  |   द्युशक्म (श.)    |
+|  joule  |   energy    |   द्युर्जा(ऊ.)    |
 
 **unit system एकक-पद्धति  
 unit time** *Math.* **एकक-काल, काल-एकक  
@@ -2256,12 +2256,12 @@ Ustilago** *Bot.* (agenus of smut fungi)**प्रकालिका-प्र�
 **Five of its species are involved in attacking the three species of cereals, oats and barley having both loose and covered smuts, while wheat is only attacked by a loose  
 smut. The following table will make this clear.**
 
-।                    ।                 ।                 ।                  ।
-|:------------------:|:---------------:|:---------------:|:----------------:।
-।  **Type of smut**  ।    **Oats**     ।   **Barley**    ।    **Wheat**     ।
-।   **loose smut**   । ***U. avenae*** ।  ***U. nuda***  । ***U. tritici*** ।
-।  **covered smut**  । ***U. laevis*** । ***U. hordei*** ।        —         ।
-। **(McLean I.308)** ।                 ।                 ।                  ।
+|                    |                 |                 |                  |
+|:------------------:|:---------------:|:---------------:|:----------------:|
+|  **Type of smut**  |    **Oats**     |   **Barley**    |    **Wheat**     |
+|   **loose smut**   | ***U. avenae*** |  ***U. nuda***  | ***U. tritici*** |
+|  **covered smut**  | ***U. laevis*** | ***U. hordei*** |        —         |
+| **(McLean I.308)** |                 |                 |                  |
 
 **Ustilago avenae यविका-प्रकालिका  
 Ustilago hordei** (covered smut of barley)**परियव-प्रकालिका  

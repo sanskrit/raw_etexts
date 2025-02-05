@@ -33,32 +33,32 @@ title = "शाङ्खायनश्रौतसूत्रम् (द्व
 
   The edition of the Commentary on the Sankhayana Srauta Sūtra is based upon the three Manuscripts which I have already described on page viii and 240 of the first volume. Besides the Kauşītaki Brāhmana the author quotes numerous works on different branches of Sanskrit-literature. Isubjoin a list of his principal authorities:—
 
-।                                                        ।
-।--------------------------------------------------------।
-। Aitareyinah I, 4, 15.                                  ।
-। Açvalayana III, 18, 21; 19, 2.                         ।
-। Rgvidhäna III, 19, 3.                                  ।
-। Kāṭhaka II, 1, 7.                                      ।
-। Katyāyana I, 3, 16; 4, 1; 8,14; 12; 4; II, 5, 32, etc. ।
-। Kaunḍapayinīya II, 13, 1.                              ।
-। Gobhilapariçişṭa IV, 5, 4.                             ।
-। Chagaleyinah VI, 1, 17.                                ।
-। Jaimini I, 5, 3; 16, 2; III, 19,10.                    ।
-। Taittiriya I, 9, 2; 14, 9, etc.                        ।
-। Nirukta V, 1, 1; 16, 9.                                ।
-। Pāṇini I, 2, 2, etc.                                   ।
-। Prātiçakhya I, 2, 6.                                   ।
-। Manu III, 19, 2, etc.                                  ।
-। Mahabhāṣya I, 15, 14.                                  ।
-। Mīmānsaka IV, 14, 18.                                  ।
-। Maitrāyaṇīya IV, 5, 11.                                ।
-। Yajñavalkya I, 15, 10.                                 ।
-। Vaijavāpa III, 18, 19.                                 ।
-। Çatapatha Brāhmaṇa.                                    ।
-। Cakala (homa) I, 2, 23.                                ।
-। Çankhāyana Grhya Sutra.                                ।
-। Çaunaka I, 17, 11.                                     ।
-। Suyajña I, 2, 18.                                      ।
+|                                                        |
+|--------------------------------------------------------|
+| Aitareyinah I, 4, 15.                                  |
+| Açvalayana III, 18, 21; 19, 2.                         |
+| Rgvidhäna III, 19, 3.                                  |
+| Kāṭhaka II, 1, 7.                                      |
+| Katyāyana I, 3, 16; 4, 1; 8,14; 12; 4; II, 5, 32, etc. |
+| Kaunḍapayinīya II, 13, 1.                              |
+| Gobhilapariçişṭa IV, 5, 4.                             |
+| Chagaleyinah VI, 1, 17.                                |
+| Jaimini I, 5, 3; 16, 2; III, 19,10.                    |
+| Taittiriya I, 9, 2; 14, 9, etc.                        |
+| Nirukta V, 1, 1; 16, 9.                                |
+| Pāṇini I, 2, 2, etc.                                   |
+| Prātiçakhya I, 2, 6.                                   |
+| Manu III, 19, 2, etc.                                  |
+| Mahabhāṣya I, 15, 14.                                  |
+| Mīmānsaka IV, 14, 18.                                  |
+| Maitrāyaṇīya IV, 5, 11.                                |
+| Yajñavalkya I, 15, 10.                                 |
+| Vaijavāpa III, 18, 19.                                 |
+| Çatapatha Brāhmaṇa.                                    |
+| Cakala (homa) I, 2, 23.                                |
+| Çankhāyana Grhya Sutra.                                |
+| Çaunaka I, 17, 11.                                     |
+| Suyajña I, 2, 18.                                      |
 
   A passage from our commentary (V, 8, 3) is quoted in the Commentary on the Katyāyana Srauta Sutra VIII, 2, 6 (p.182).
 
@@ -72,26 +72,26 @@ ERRATA.
 
 ![](../books_images/U-IMG-1706270208Capture-removebg-preview(2).png)
 
-।                                  ।
-।----------------------------------।
-। साव॰; note 4 add A               ।
-। चादेश॰ instead of स च            ।
-। शैलीयं                           ।
-। ऊ३कालो                           ।
-। यथा प्रतिमासम्                   ।
-। प्रायेण न instead of ८ प्रायेण च ।
-। यधन्यः  "  "  यद्यन्यः  ।
-। उपरि लक्षणं                      ।
-। भवति                             ।
-। यथाग्निमन्थनं                    ।
-। धनुर्दक्षिणा                     ।
-। इष्टिरेवा॰                       ।
-। प्रतिपूर्वो सु                   ।
-। ॰योज्छन्ति                       ।
-। इतिकार्यान्तरे                   ।
-। ॰शके घोषा                        ।
-। वितष्ट                           ।
-। 4 and 302 1. 5————dele (०)       ।
+|                                  |
+|----------------------------------|
+| साव॰; note 4 add A               |
+| चादेश॰ instead of स च            |
+| शैलीयं                           |
+| ऊ३कालो                           |
+| यथा प्रतिमासम्                   |
+| प्रायेण न instead of ८ प्रायेण च |
+| यधन्यः  "  "  यद्यन्यः  |
+| उपरि लक्षणं                      |
+| भवति                             |
+| यथाग्निमन्थनं                    |
+| धनुर्दक्षिणा                     |
+| इष्टिरेवा॰                       |
+| प्रतिपूर्वो सु                   |
+| ॰योज्छन्ति                       |
+| इतिकार्यान्तरे                   |
+| ॰शके घोषा                        |
+| वितष्ट                           |
+| 4 and 302 1. 5————dele (०)       |
 
   I beg the reader to cancel note 1 on pp. 35-37, note 2 on p. 10, and the letter C on p. 6, note 1 ; p•23, note 2.
 

@@ -1984,11 +1984,11 @@ G. P. T. 1503, 500, 16-1-1106
 **LIST OF SANSKRIT PUBLICATIONS  
 FOR SALE**
 
-।                                                                                                                                                                              ।         ।         ।        ।
-।------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------:।ः-------:।ः------:।
-। **NAME**                                                                                                                                                                     । **RS.** । **AS.** । **P.** ।
-। **भक्तिमञ्जरीBhaktimanjari** (Stuti) by H. H. SvātiŚrī Rāma Varma Mahārāja.                                                                                                ।    1    ।    0    ।  0   ।
-। **स्यानन्दूरपुरवर्णनप्रवन्धः Syanandurapuravarnana-prabandha** (Kāvya) by H. H. SvātiŚrī Rāma Varma Mahārāja, with the commentary Sundarī of RājarājaVarma Koil Tampuran. ।    2    ।    0    ।   0    ।
+|                                                                                                                                                                              |         |         |        |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------:|:-------:|:------:|
+| **NAME**                                                                                                                                                                     | **RS.** | **AS.** | **P.** |
+| **भक्तिमञ्जरीBhaktimanjari** (Stuti) by H. H. SvātiŚrī Rāma Varma Mahārāja.                                                                                                |    1    |    0    |  0   |
+| **स्यानन्दूरपुरवर्णनप्रवन्धः Syanandurapuravarnana-prabandha** (Kāvya) by H. H. SvātiŚrī Rāma Varma Mahārāja, with the commentary Sundarī of RājarājaVarma Koil Tampuran. |    2    |    0    |   0    |
 
 *        *
 
@@ -1997,58 +1997,36 @@ FOR SALE**
 **Trivandrum Sanskrit Series.**   
                          
 
-।     ।                                                                                                          ।                 ।     ।     ।     ।
-।ः---:।:--------------------------------------------------------------------------------------------------------:।-----------------।ः---:।ः---:।ः---:।
-। No. ।                                                   NAME                                                   ।                । RS. । AS. । P.  ।
-। 1  ।                 **दैवम्Daiva** (Vyākaraṇa) by Deva with Puruṣakāra of Kṛṣṇalīlāśukamuni                 । (out of stock) । 1  ।  0  ।  0  ।
-। 2  । **अभिनवकौस्तुभमाला-दक्षिणामूर्तिस्तवौ Abhinavakaustubhamala and Daksinamurtistava** by Kṛṣṇalīlāśukamuni । (out of stock)  ।  0  ।  2  ।  0  ।
-। 3  ।              **नलाभ्युदयःNalabhyudaya** (Kāvya) by Vāmana Bhaṭṭa Bāṇa (`second edition`).               ।                ।  0  ।  4  ।  0  ।
-। 4  ।                       **शिवलीलार्णवःSivalilarnava** (Kāvya) by Nīlakaṇṭha Dikṣita                       । (out of stock)  ।  2  ।  0  ।  0  ।
-। 5  ।                **व्यक्तिविवेकःVyaktiviveka** (Alaṅkāra) by Mahima-Bhaṭṭa with commentary                । (out of stock). ।  2  । 12  ।  0  ।
-। 6  ।                        **दुर्घटवृत्तिःDurghatavrtti** (Vyākaraṇa) by Śaraṇadeva                         । (out of stock)  ।  2  ।  0  ।  0  ।
-। 7  ।            **ब्रह्मतत्त्वप्रकाशिका BrahmatattvaPrakāśikā** (Vedānta) by Sadāśivendrasarasvatī            । (out of stock)  ।  2  ।  4  ।  0  ।
-। 8  ।                 **प्रद्युम्नाभ्युदयम्Pradyumnabhyudaya.** (Nāṭaka) by Ravi Varma Bhūpa                  । (out of stock). ।  1  ।  0  ।  0  ।
+|     |                                                                                                          |                 |     |     |     |
+|:---:|:--------------------------------------------------------------------------------------------------------:|-----------------|:---:|:---:|:---:|
+| No. |                                                   NAME                                                   |                | RS. | AS. | P.  |
+| 1  |                 **दैवम्Daiva** (Vyākaraṇa) by Deva with Puruṣakāra of Kṛṣṇalīlāśukamuni                 | (out of stock) | 1  |  0  |  0  |
+| 2  | **अभिनवकौस्तुभमाला-दक्षिणामूर्तिस्तवौ Abhinavakaustubhamala and Daksinamurtistava** by Kṛṣṇalīlāśukamuni | (out of stock)  |  0  |  2  |  0  |
+| 3  |              **नलाभ्युदयःNalabhyudaya** (Kāvya) by Vāmana Bhaṭṭa Bāṇa (`second edition`).               |                |  0  |  4  |  0  |
+| 4  |                       **शिवलीलार्णवःSivalilarnava** (Kāvya) by Nīlakaṇṭha Dikṣita                       | (out of stock)  |  2  |  0  |  0  |
+| 5  |                **व्यक्तिविवेकःVyaktiviveka** (Alaṅkāra) by Mahima-Bhaṭṭa with commentary                | (out of stock). |  2  | 12  |  0  |
+| 6  |                        **दुर्घटवृत्तिःDurghatavrtti** (Vyākaraṇa) by Śaraṇadeva                         | (out of stock)  |  2  |  0  |  0  |
+| 7  |            **ब्रह्मतत्त्वप्रकाशिका BrahmatattvaPrakāśikā** (Vedānta) by Sadāśivendrasarasvatī            | (out of stock)  |  2  |  4  |  0  |
+| 8  |                 **प्रद्युम्नाभ्युदयम्Pradyumnabhyudaya.** (Nāṭaka) by Ravi Varma Bhūpa                  | (out of stock). |  1  |  0  |  0  |
 
 
 
-।      ।                                                                                                                 ।                  ।     ।     ।     ।
-।ः----:।:---------------------------------------------------------------------------------------------------------------:।:----------------:।ः---:।ः---:।ः---:।
-। No. ।                                                      NAME                                                       ।                 । RS. । AS. । P.  ।
-।  09  । **विरूपाक्षपञ्चाशिका Virupaksapancasika**(Vedānta) by Virūpākṣanātha with the commentary of Vidyācakravartin . ।  (out of stock)  ।  0  ।  8  ।  0  ।
-।  10  ।                            **मातङ्गलीलाMatangalila**(Gajalakṣaṇa). by Nīlakaṇṭha                             ।  (out of stock)  ।  0  ।  8  ।  0  ।
-।  11  ।          **तपतीसंवरणम्Tapatisamvarana**(Nāṭaka) by Kulaśekhara Varma with the commentary of Śivarāma          ।  (out of stock)  ।  2  ।  4  ।  0  ।
-।  12  ।            **परमार्थसारम्Paramarthasara** (Vedānta) by Âdiśeṣa with the commentary of Rāghavānanda             ।  (out of stock)  ।  0  ।  8  ।  0  ।
-।  13  ।      **सुभद्राधनञ्जयम्Subhadradhananjaya**(Nāṭaka) by Kulaśekhara Varma with the commentary of Śivarāma       ।  (out of stock)  ।  2  ।  0  ।  0  ।
-।  14  ।                   **नीतिसारःNitisara** (Nīti) by Kāmandaka, with the commentary of Śankarāya                   ।  (out of stock)  ।  3  ।  8  ।  0  ।
-।  15  ।                            **स्वप्नवासवदत्तम्Svapnavasavadatta**(Nāṭaka) by Bhāsa.                            । (second edition) ।  1  ।  8  ।  0  ।
-।  16  ।                       **प्रतिज्ञायौगन्धरायणम्Pratijnayaugandharayana** (Nāṭaka) by Bhāsa                       ।  (out of stock)  ।  1  ।  8  ।  0  ।
-।  17  ।                                 **पञ्चरात्रम् Pancharatra** (Nāṭaka) by Bhāsa                                 ।  (out of stock)  ।  1  ।  0  ।  0  ।
-।  18  ।          **नारायणीयम् Narayaniya** (Stuti) by Nārāyaṇa Bhaṭṭa with the commentary of Deśamangalavārya          ।  (out of stock)  ।  4  ।  0  ।  0  ।
-।  19  ।                 **मानमेयोदयः Manameyodaya** (Mīmānsā) by Nārāyaṇa Bhaṭṭa and Nārāyaṇa Paṇḍita                  ।  (out of stock)  ।  1  ।  4  ।  0  ।
-।  20  ।                                   **अविमारकम् Avimaraka** (Nāṭaka) by Bhāsa                                    ।  (out of stock)  ।  1  ।  8  ।  0  ।
-।  21  ।                                   **वालचरितम् Balacarita** (Nāṭaka) by Bhāsa                                   ।  (out of stock)  ।  1  ।  0  ।  0  ।
-
-
-
-[TABLE]
-
-
-
-।     ।                                                                                                                                                                                                          ।                 ।     ।     ।     ।
-।ः---:।:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:।:---------------:।ः---:।ः---:।ः---:।
-। No. ।                                                                                                   NAME                                                                                                   ।                । RS. । AS. । P.  ।
-। 33  ।                                                        **वाररुचसंग्रहः Vararucasangraha**(Vyākaraṇa) with the commentary Dīpaprabhā of Nārāyaṇa                                                         । (out of stock). ।  0  ।  8  ।  0  ।
-। 34  ।                                                                         **मणिदर्पणः Manidarpana** (Nyāya) by Rājacûḍāmaṇimakhin.                                                                         ।                ।  1  ।  4  ।  0  ।
-। 35  ।                                                                                **मणिसारः Manisara** (Nyāya) by Gopīnātha.                                                                                ।                ।  1  ।  8  ।  0  ।
-। 36  ।             **कुमारसम्भवः Kumarasambhava** (Kāvya) by Kālidāsa with the two commentaries, Prakāśikā of Aruṇagirinātha and Vivaraṇa of Nārāyaṇa Paṇḍita (Part III, 6th, 7th and 8th Sargas).             ।                ।  3  ।  0  ।  0  ।
-। 37  ।                                                                     **आशौचाष्टकम् Asaucastaka**(Smṛti) by Vararuci with commentary.                                                                     ।                ।  0  ।  4  ।  0  ।
-। 38  ।                              **नामलिङ्गानुशासनम् Namalinganusasana**(Kośa) by Amarasimha with the commentary Tīkāsarvasva of Vandyaghaṭīya Sarvānanda (Part I, 1st Kāṇḍa).                              ।                ।  2  ।  0  ।  0  ।
-। 39  ।                                                                                **चारुदत्तम् Carudatta** (Nāṭaka) by Bhāsa                                                                                । (out of stock). ।  0  । 12  ।  0  ।
-। 40  ।                            **अलङ्कारसूत्रम् Alankarasutra** by Rajānaka Ruyyaka with the Alaṅkārasarvesva of Mankhuka and its commentary by Samudrabandha (*second dition*).                            ।                ।  2  ।  8  ।  0  ।
-। 41  ।                                                   **अध्यात्मपटलम् Adhyatmapatala** (Vedānta) by Âpastamba with Vivaraṇa of Śrī Sankara Bhagavat-Pāda                                                    । (out of stock). ।  0  ।  4  ।  0  ।
-। 42  ।                                                                                **प्रतिमानाटकम् Pratimanataka** by Bhāsa                                                                                 । (out of stock). ।  1  ।  8  ।  0  ।
-। 43  । **नामलिङ्गानुशासनम् Namalinganusasana**(Kośa) by Amarasimha with the two commentaries, Amarakośod ghaṭana of Kṣīrasvāmin and Tīkāsarvasva of Vandyaghaṭiya Sarvānanda (Part II, 2nd Kanda, 1-6 vargas). ।                ।  2  ।  8  ।  0  ।
-। 44  ।                                                                         **तन्त्रशुद्धम् Tantrasuddha** by Bhaṭṭāraka Vedottama.                                                                         ।                ।  0  ।  4  ।  0  ।
+|      |                                                                                                                 |                  |     |     |     |
+|:----:|:---------------------------------------------------------------------------------------------------------------:|:----------------:|:---:|:---:|:---:|
+| No. |                                                      NAME                                                       |                 | RS. | AS. | P.  |
+|  09  | **विरूपाक्षपञ्चाशिका Virupaksapancasika**(Vedānta) by Virūpākṣanātha with the commentary of Vidyācakravartin . |  (out of stock)  |  0  |  8  |  0  |
+|  10  |                            **मातङ्गलीलाMatangalila**(Gajalakṣaṇa). by Nīlakaṇṭha                             |  (out of stock)  |  0  |  8  |  0  |
+|  11  |          **तपतीसंवरणम्Tapatisamvarana**(Nāṭaka) by Kulaśekhara Varma with the commentary of Śivarāma          |  (out of stock)  |  2  |  4  |  0  |
+|  12  |            **परमार्थसारम्Paramarthasara** (Vedānta) by Âdiśeṣa with the commentary of Rāghavānanda             |  (out of stock)  |  0  |  8  |  0  |
+|  13  |      **सुभद्राधनञ्जयम्Subhadradhananjaya**(Nāṭaka) by Kulaśekhara Varma with the commentary of Śivarāma       |  (out of stock)  |  2  |  0  |  0  |
+|  14  |                   **नीतिसारःNitisara** (Nīti) by Kāmandaka, with the commentary of Śankarāya                   |  (out of stock)  |  3  |  8  |  0  |
+|  15  |                            **स्वप्नवासवदत्तम्Svapnavasavadatta**(Nāṭaka) by Bhāsa.                            | (second edition) |  1  |  8  |  0  |
+|  16  |                       **प्रतिज्ञायौगन्धरायणम्Pratijnayaugandharayana** (Nāṭaka) by Bhāsa                       |  (out of stock)  |  1  |  8  |  0  |
+|  17  |                                 **पञ्चरात्रम् Pancharatra** (Nāṭaka) by Bhāsa                                 |  (out of stock)  |  1  |  0  |  0  |
+|  18  |          **नारायणीयम् Narayaniya** (Stuti) by Nārāyaṇa Bhaṭṭa with the commentary of Deśamangalavārya          |  (out of stock)  |  4  |  0  |  0  |
+|  19  |                 **मानमेयोदयः Manameyodaya** (Mīmānsā) by Nārāyaṇa Bhaṭṭa and Nārāyaṇa Paṇḍita                  |  (out of stock)  |  1  |  4  |  0  |
+|  20  |                                   **अविमारकम् Avimaraka** (Nāṭaka) by Bhāsa                                    |  (out of stock)  |  1  |  8  |  0  |
+|  21  |                                   **वालचरितम् Balacarita** (Nāṭaka) by Bhāsa                                   |  (out of stock)  |  1  |  0  |  0  |
 
 
 
@@ -2056,7 +2034,21 @@ FOR SALE**
 
 
 
-[TABLE]
+|     |                                                                                                                                                                                                          |                 |     |     |     |
+|:---:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|:---:|:---:|:---:|
+| No. |                                                                                                   NAME                                                                                                   |                | RS. | AS. | P.  |
+| 33  |                                                        **वाररुचसंग्रहः Vararucasangraha**(Vyākaraṇa) with the commentary Dīpaprabhā of Nārāyaṇa                                                         | (out of stock). |  0  |  8  |  0  |
+| 34  |                                                                         **मणिदर्पणः Manidarpana** (Nyāya) by Rājacûḍāmaṇimakhin.                                                                         |                |  1  |  4  |  0  |
+| 35  |                                                                                **मणिसारः Manisara** (Nyāya) by Gopīnātha.                                                                                |                |  1  |  8  |  0  |
+| 36  |             **कुमारसम्भवः Kumarasambhava** (Kāvya) by Kālidāsa with the two commentaries, Prakāśikā of Aruṇagirinātha and Vivaraṇa of Nārāyaṇa Paṇḍita (Part III, 6th, 7th and 8th Sargas).             |                |  3  |  0  |  0  |
+| 37  |                                                                     **आशौचाष्टकम् Asaucastaka**(Smṛti) by Vararuci with commentary.                                                                     |                |  0  |  4  |  0  |
+| 38  |                              **नामलिङ्गानुशासनम् Namalinganusasana**(Kośa) by Amarasimha with the commentary Tīkāsarvasva of Vandyaghaṭīya Sarvānanda (Part I, 1st Kāṇḍa).                              |                |  2  |  0  |  0  |
+| 39  |                                                                                **चारुदत्तम् Carudatta** (Nāṭaka) by Bhāsa                                                                                | (out of stock). |  0  | 12  |  0  |
+| 40  |                            **अलङ्कारसूत्रम् Alankarasutra** by Rajānaka Ruyyaka with the Alaṅkārasarvesva of Mankhuka and its commentary by Samudrabandha (*second dition*).                            |                |  2  |  8  |  0  |
+| 41  |                                                   **अध्यात्मपटलम् Adhyatmapatala** (Vedānta) by Âpastamba with Vivaraṇa of Śrī Sankara Bhagavat-Pāda                                                    | (out of stock). |  0  |  4  |  0  |
+| 42  |                                                                                **प्रतिमानाटकम् Pratimanataka** by Bhāsa                                                                                 | (out of stock). |  1  |  8  |  0  |
+| 43  | **नामलिङ्गानुशासनम् Namalinganusasana**(Kośa) by Amarasimha with the two commentaries, Amarakośod ghaṭana of Kṣīrasvāmin and Tīkāsarvasva of Vandyaghaṭiya Sarvānanda (Part II, 2nd Kanda, 1-6 vargas). |                |  2  |  8  |  0  |
+| 44  |                                                                         **तन्त्रशुद्धम् Tantrasuddha** by Bhaṭṭāraka Vedottama.                                                                         |                |  0  |  4  |  0  |
 
 
 
@@ -2068,18 +2060,26 @@ FOR SALE**
 
 
 
-।     ।                                                                                                                                                                                               ।     ।     ।     ।
-।ः---:।:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:।ः---:।ः---:।ः---:।
-। No  ।                                                                                             NAME                                                                                              । RS. । AS. । P.  ।
-। 97  ।                                                         **नारदीयमनुसंहिता Naradiyamanusamhita**(Smṛti) with Bhāṣya of Bhavasvāmin.                                                          ।  2  ।  0  ।  0  ।
-। 98  ।                                                                      **शिल्परत्नम् Silparatna** (Śilpa) by Śrī kumāra.                                                                       ।  2  ।  8  ।  0  ।
-। 99  ।                                       **मीमांसाश्लोकवार्त्तिकम् Mimamsaslokavartika** (Mīmāmsa) with the commentary Kāśikā of Sucaritamiśra (Part II).                                       ।  2  ।  0  ।  0  ।
-। 100 । **काव्यप्रकाशः Kavyaprakasa** (Alaṅkâra) of Mammaṭabhaṭṭawith the two commentarios, Sumpradāyaprakāsinī of Śrīvidyācakravartin and Sāhityacūḍāmaṇi of Bhaṭṭagopāla. (Part II, 6-10 Ullāsās) ।  5  ।  0  ।  0  ।
-। 101 ।                                     **आर्यभटीयम् Aryabhatiya** (Jyotiṣa) of Âryabhaṭācārya with the Bhâṣya of Nīlakaṇṭhasomasutvan (Part I. Gaṇitapāda)                                      ।  2  ।  8  ।  0  ।
-। 102 ।                                                                        **दत्तिलम् Dattila** (Saṅgīta) of Dattilamuni                                                                         ।  0  ।  4  ।  0  ।
-। 103 ।                                                                    **हंससन्देशः Hamsasandesa** (Vedanta) with commentary.                                                                    ।  0  ।  8  ।  0  ।
-। 104 ।                                                                 **साम्बपञ्चाशिका सव्याख्या Sambapachasika** with commentary.                                                                 ।  1  ।  0  ।  0  ।
-। 105 ।                                                                    **निधिप्रदिपः Nidhipradipa** of Siddhaśrīkaṇṭhaśambhu.                                                                    ।  0  ।  4  ।  0  ।
+[TABLE]
+
+
+
+[TABLE]
+
+
+
+|     |                                                                                                                                                                                               |     |     |     |
+|:---:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|:---:|:---:|
+| No  |                                                                                             NAME                                                                                              | RS. | AS. | P.  |
+| 97  |                                                         **नारदीयमनुसंहिता Naradiyamanusamhita**(Smṛti) with Bhāṣya of Bhavasvāmin.                                                          |  2  |  0  |  0  |
+| 98  |                                                                      **शिल्परत्नम् Silparatna** (Śilpa) by Śrī kumāra.                                                                       |  2  |  8  |  0  |
+| 99  |                                       **मीमांसाश्लोकवार्त्तिकम् Mimamsaslokavartika** (Mīmāmsa) with the commentary Kāśikā of Sucaritamiśra (Part II).                                       |  2  |  0  |  0  |
+| 100 | **काव्यप्रकाशः Kavyaprakasa** (Alaṅkâra) of Mammaṭabhaṭṭawith the two commentarios, Sumpradāyaprakāsinī of Śrīvidyācakravartin and Sāhityacūḍāmaṇi of Bhaṭṭagopāla. (Part II, 6-10 Ullāsās) |  5  |  0  |  0  |
+| 101 |                                     **आर्यभटीयम् Aryabhatiya** (Jyotiṣa) of Âryabhaṭācārya with the Bhâṣya of Nīlakaṇṭhasomasutvan (Part I. Gaṇitapāda)                                      |  2  |  8  |  0  |
+| 102 |                                                                        **दत्तिलम् Dattila** (Saṅgīta) of Dattilamuni                                                                         |  0  |  4  |  0  |
+| 103 |                                                                    **हंससन्देशः Hamsasandesa** (Vedanta) with commentary.                                                                    |  0  |  8  |  0  |
+| 104 |                                                                 **साम्बपञ्चाशिका सव्याख्या Sambapachasika** with commentary.                                                                 |  1  |  0  |  0  |
+| 105 |                                                                    **निधिप्रदिपः Nidhipradipa** of Siddhaśrīkaṇṭhaśambhu.                                                                    |  0  |  4  |  0  |
 
 
 

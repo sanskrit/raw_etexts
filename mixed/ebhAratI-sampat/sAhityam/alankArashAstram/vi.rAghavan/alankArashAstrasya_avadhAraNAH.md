@@ -94,26 +94,26 @@ of articles. I am thankful to the authorities of the Madras University for permi
 
 
 
-।                                       ।
-|:-------------------------------------:।
-।             **CONTENTS**              ।
-।               Foreword                ।
-।                Preface                ।
-। Abbreviations and Select Bibliography ।
-।                Lakṣaṇa                ।
-।       Use and Abuse of Alaṅkāra       ।
-।              Svabhāvokti              ।
-।                Bhāvika                ।
-।                 Rīti                  ।
-।            Vṛtti in Kāvya             ।
-।                Aucitya                ।
-।       Names of Sanskrit Poetics       ।
-।               Camatkara               ।
+|                                       |
+|:-------------------------------------:|
+|             **CONTENTS**              |
+|               Foreword                |
+|                Preface                |
+| Abbreviations and Select Bibliography |
+|                Lakṣaṇa                |
+|       Use and Abuse of Alaṅkāra       |
+|              Svabhāvokti              |
+|                Bhāvika                |
+|                 Rīti                  |
+|            Vṛtti in Kāvya             |
+|                Aucitya                |
+|       Names of Sanskrit Poetics       |
+|               Camatkara               |
 
-।         ।
-।---------।
-। Addenda ।
-। Index   ।
+|         |
+|---------|
+| Addenda |
+| Index   |
 
 
 
@@ -464,24 +464,24 @@ What is Art? Tolstoy.
 
 
 
-।          ।          ।                       ।
-|:--------:|:--------:|:---------------------:।
-। **PAGE** । **LINE** ।       **READ**        ।
-।   191    ।    20    ।        नाम्नां        ।
-।   193    ।    1     ।       निष्टुरा       ।
-।   211    ।    26    ।    Of this chapter    ।
-।   219    ।    13    । -विश्रान्तेरनुसन्धान- ।
-।   223    ।    16    ।    over-developed     ।
-।   224    ।    1     ।       क्रमापेतः       ।
-।   224    ।    22    ।    वृत्यनौचित्यमेव    ।
-।   230    ।    29    ।  औचित्यानौचित्ये एव   ।
-।   235    ।    20    ।        Vicitra        ।
-।   238    ।    5     ।    Alaṅkāraucitya     ।
-।   241    ।    25    ।       Kuntaka's       ।
-।   242    ।    4     ।       Vakrokti        ।
-।   246    ।    23    ।      Kavis'ıkṣā       ।
-।   249    ।    4     ।  Lokasvabhāvaucitya   ।
-।   254    ।    19    ।        Sṛṅgāra        ।
+|          |          |                       |
+|:--------:|:--------:|:---------------------:|
+| **PAGE** | **LINE** |       **READ**        |
+|   191    |    20    |        नाम्नां        |
+|   193    |    1     |       निष्टुरा       |
+|   211    |    26    |    Of this chapter    |
+|   219    |    13    | -विश्रान्तेरनुसन्धान- |
+|   223    |    16    |    over-developed     |
+|   224    |    1     |       क्रमापेतः       |
+|   224    |    22    |    वृत्यनौचित्यमेव    |
+|   230    |    29    |  औचित्यानौचित्ये एव   |
+|   235    |    20    |        Vicitra        |
+|   238    |    5     |    Alaṅkāraucitya     |
+|   241    |    25    |       Kuntaka's       |
+|   242    |    4     |       Vakrokti        |
+|   246    |    23    |      Kavis'ıkṣā       |
+|   249    |    4     |  Lokasvabhāvaucitya   |
+|   254    |    19    |        Sṛṅgāra        |
 
 
 
@@ -1157,22 +1157,22 @@ have an element of Alankāra in them, the expression as a whole being more than 
 
 
 
-।                               ।                                                     ।                                                                                    ।
-।-------------------------------।-----------------------------------------------------।------------------------------------------------------------------------------------।
-। 23. अनुनयः                    ।                                                    । 28. क्षमा (Bh.) (Sa) (विशेषणम्)                                                    ।
-। 24. माला                      ।                                                    । 30. पश्चात्तपतम् (Bh.) (Śā) (विचारः)                                               ।
-। 25. दाक्षिण्यम्               ।                                                    । 31. अर्थानुवृत्तिः, (Bh.) (Śā.) \[also called अनुवृत्ति by AG.\] (अनुनयः)          ।
-। 26. गर्हणम                    ।                                                    । 32. उपपत्तिः (Bh.) (Śā.) (उपदिष्टम्)                                               ।
-। 27. अर्थापत्तिः               ।                                                    । 33. युक्तिः (Bh.) (Śā.) (अभिप्रायः)                                                ।
-। 28. प्रसिद्धिः                ।                                                    । 34. कार्यम् (Bh.) (Śā.) \[also called गर्हणम् by others, says AG.\] (अर्थापत्तिः)  ।
-। 29. पृच्छा                    । 21. पृच्छा                                          । 35. अनुनीतिः (Once more here प्रसिद्धिः)                                           ।
-। 30.सारूप्यम्                । 12.सारूप्यम्                                      । 36. परिदेवनम् (क्षोभः and अनुक्तसिद्धिः) In the 26th प्रियम्, AG. includes भ्रंशः ।
-। 31. मनोरथः                    । 17. मनोरथः                                          ।                                                                                   ।
-। 32. लेशः (लेखः- Śinga.)       ।                                                    ।                                                                                   ।
-। 33. क्षोभः or दोषः            ।                                                    ।                                                                                   ।
-। 34. गुणकीर्तनम्               । 5. गुणकीर्तनम्                                      ।                                                                                   ।
-। 35. अनुक्तसिद्धिः, or सिद्धिः ।                                                    ।                                                                                   ।
-। 36. प्रियं वचनम्              । 21. प्रियम् Total common with the Anuṣṭbh list - 17 ।                                                                                   ।
+|                               |                                                     |                                                                                    |
+|-------------------------------|-----------------------------------------------------|------------------------------------------------------------------------------------|
+| 23. अनुनयः                    |                                                    | 28. क्षमा (Bh.) (Sa) (विशेषणम्)                                                    |
+| 24. माला                      |                                                    | 30. पश्चात्तपतम् (Bh.) (Śā) (विचारः)                                               |
+| 25. दाक्षिण्यम्               |                                                    | 31. अर्थानुवृत्तिः, (Bh.) (Śā.) \[also called अनुवृत्ति by AG.\] (अनुनयः)          |
+| 26. गर्हणम                    |                                                    | 32. उपपत्तिः (Bh.) (Śā.) (उपदिष्टम्)                                               |
+| 27. अर्थापत्तिः               |                                                    | 33. युक्तिः (Bh.) (Śā.) (अभिप्रायः)                                                |
+| 28. प्रसिद्धिः                |                                                    | 34. कार्यम् (Bh.) (Śā.) \[also called गर्हणम् by others, says AG.\] (अर्थापत्तिः)  |
+| 29. पृच्छा                    | 21. पृच्छा                                          | 35. अनुनीतिः (Once more here प्रसिद्धिः)                                           |
+| 30.सारूप्यम्                | 12.सारूप्यम्                                      | 36. परिदेवनम् (क्षोभः and अनुक्तसिद्धिः) In the 26th प्रियम्, AG. includes भ्रंशः |
+| 31. मनोरथः                    | 17. मनोरथः                                          |                                                                                   |
+| 32. लेशः (लेख:- Śinga.)       |                                                    |                                                                                   |
+| 33. क्षोभः or दोषः            |                                                    |                                                                                   |
+| 34. गुणकीर्तनम्               | 5. गुणकीर्तनम्                                      |                                                                                   |
+| 35. अनुक्तसिद्धिः, or सिद्धिः |                                                    |                                                                                   |
+| 36. प्रियं वचनम्              | 21. प्रियम् Total common with the Anuṣṭbh list - 17 |                                                                                   |
 
 **New Lakṣaṇas of Bhoja.**
 
@@ -2909,12 +2909,12 @@ Bhoja treats of Rītis and Vittis under Anubhāva. The Vṛtti differs from Rīt
  Rājaśekhara's main chapter, the third, on Rīti, called Rītinirṇaya, is lost. Still we gather some of his ideas on Rīti in his description of the legendary Kāvyapuruṣa's Avatāra in the beginning of his Kāvya mīmāmsā, as also from his dramas. In his Kāvyamīmāmsā, Rājaśekhara speaks of three Rītis in the description of which he introduces a new distinguishing feature, viz., the use of Yogavṛtti in abundance, the same to a less extent, and the use of Upacāra. These are the features Rājaśekhara attributes to the [three](# "Vide my article on Rīti and Guṇa in the Agni Purāṇa in I.H.Q. X, iv, 767-779.") :  
 
 
-।                 ।            ।               ।
-।-----------------।------------।---------------।
-। Gauḍī           । Pāñcāli    । Vaidarbhī     ।
-। समास            । ईषदसमास    । असमास         ।
-। अनुप्रास        । ईषदनुप्रास । स्थानानुप्रास ।
-। योगवृत्तिपरंपरा । उपचार      । योगवृत्ति     ।
+|                 |            |               |
+|-----------------|------------|---------------|
+| Gauḍī           | Pāñcāli    | Vaidarbhī     |
+| समास            | ईषदसमास    | असमास         |
+| अनुप्रास        | ईषदनुप्रास | स्थानानुप्रास |
+| योगवृत्तिपरंपरा | उपचार      | योगवृत्ति     |
 
 These three Rītis, Rājaśekhara relates to the Deśas whose names they bear. He considers the Vaidarbhīas the best form of poetic style. For he says that when the spouse of Sāhityavidyā spoke to the Kāvyapuruṣa in the Gauḍa style, he was absolutely indifferent; when she talked in the Pāñcālī style, he was
 
@@ -4978,33 +4978,33 @@ Act I. P. 40. Jīvānanda Vīdyāsāgara's edn.
 
 
 
-।                                                                           ।                                                                                                                                                                                                  ।
-।---------------------------------------------------------------------------।--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। Objective differentia of poetic expression                                । -priate,endless in Bāņa,favourite of Dākṣiṇātyas                                                                                                                                               ।
-। Omnipresent in poetry                                                     । —Hetūlprekṣā                                                                                                                                                                                     ।
-। Organic, necessary, structural, irremovable and otherwise                 । Udātta                                                                                                                                                                                           ।
-। Proper place and function of                                              । Upamā                                                                                                                                                                                            ।
-। Result of the poetic activity called Varṇan ā Rules for the proper use of । —Appayya on; Abhi. nava on; Vāmana on; and philosophical teachings; its greatness; its purpose to convey idea better; the basis of numerous other figures; two kınds, emotional and intellectual ।
-। Should not be an over- growth                                             । Ullekha                                                                                                                                                                                          ।
-। Should not be emphasised in drama                                         । Aupamya. See Upamā                                                                                                                                                                               ।
-। Should not necessitate special effort                                    । Dipaka                                                                                                                                                                                           ।
-। Skt. Poetics named after                                                  । Dṛṣṭānta                                                                                                                                                                                         ।
-। Thematic points in drama as                                               । Nidarśana                                                                                                                                                                                        ।
-। Those in the Rāmāyaṇa discussed                                           । Pariṇāma                                                                                                                                                                                         ।
-। Those in Rudraṭa's Vāstava set                                            । Rūpaka                                                                                                                                                                                           ।
-। Use and abuse of                                                          । Paryāyokta                                                                                                                                                                                       ।
-। Use of particular Alaṅk. discussed                                        । Pratişedha                                                                                                                                                                                       ।
-। Atiśayoktı                                                                । Praśamsopamā                                                                                                                                                                                     ।
-। Atyukti                                                                   । Preyas                                                                                                                                                                                           ।
-। loved by Gaudas                                                           । Bhāva                                                                                                                                                                                            ।
-। Anyāpadeśa                                                                । BhāvikaSee separately.                                                                                                                                                                          ।
-। Anyokti, see Anyāpadeśa                                                   । Bhāvikacchavi                                                                                                                                                                                    ।
-। Aprastutapraśamsā                                                         । Bhrāntimān                                                                                                                                                                                       ।
-। Arthāpatti                                                                । Mithyādhyavasāya                                                                                                                                                                                 ।
-। Āśis                                                                      । Yathāsankhya, cannot be spontaneous, rejected by Kuntaka                                                                                                                                         ।
-। Utprekṣāappropriate; inappro                                            । Yukti                                                                                                                                                                                            ।
-।                                                                           । Rasavadaand Bhavika                                                                                                                                                                             ।
-।                                                                           । Rūpaka , andeconomy of language                                                                                                                                                                 ।
+|                                                                           |                                                                                                                                                                                                  |
+|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Objective differentia of poetic expression                                | -priate,endless in Bāņa,favourite of Dākṣiṇātyas                                                                                                                                               |
+| Omnipresent in poetry                                                     | —Hetūlprekṣā                                                                                                                                                                                     |
+| Organic, necessary, structural, irremovable and otherwise                 | Udātta                                                                                                                                                                                           |
+| Proper place and function of                                              | Upamā                                                                                                                                                                                            |
+| Result of the poetic activity called Varṇan ā Rules for the proper use of | —Appayya on; Abhi. nava on; Vāmana on; and philosophical teachings; its greatness; its purpose to convey idea better; the basis of numerous other figures; two kınds, emotional and intellectual |
+| Should not be an over- growth                                             | Ullekha                                                                                                                                                                                          |
+| Should not be emphasised in drama                                         | Aupamya. See Upamā                                                                                                                                                                               |
+| Should not necessitate special effort                                    | Dipaka                                                                                                                                                                                           |
+| Skt. Poetics named after                                                  | Dṛṣṭānta                                                                                                                                                                                         |
+| Thematic points in drama as                                               | Nidarśana                                                                                                                                                                                        |
+| Those in the Rāmāyaṇa discussed                                           | Pariṇāma                                                                                                                                                                                         |
+| Those in Rudraṭa's Vāstava set                                            | Rūpaka                                                                                                                                                                                           |
+| Use and abuse of                                                          | Paryāyokta                                                                                                                                                                                       |
+| Use of particular Alaṅk. discussed                                        | Pratişedha                                                                                                                                                                                       |
+| Atiśayoktı                                                                | Praśamsopamā                                                                                                                                                                                     |
+| Atyukti                                                                   | Preyas                                                                                                                                                                                           |
+| loved by Gaudas                                                           | Bhāva                                                                                                                                                                                            |
+| Anyāpadeśa                                                                | BhāvikaSee separately.                                                                                                                                                                          |
+| Anyokti, see Anyāpadeśa                                                   | Bhāvikacchavi                                                                                                                                                                                    |
+| Aprastutapraśamsā                                                         | Bhrāntimān                                                                                                                                                                                       |
+| Arthāpatti                                                                | Mithyādhyavasāya                                                                                                                                                                                 |
+| Āśis                                                                      | Yathāsankhya, cannot be spontaneous, rejected by Kuntaka                                                                                                                                         |
+| Utprekṣāappropriate; inappro                                            | Yukti                                                                                                                                                                                            |
+|                                                                           | Rasavadaand Bhavika                                                                                                                                                                             |
+|                                                                           | Rūpaka , andeconomy of language                                                                                                                                                                 |
 
 
 

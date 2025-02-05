@@ -38,12 +38,12 @@ TO
 
 CONTENTS.
 
-।                      ।
-।----------------------।
-। PREFACE              ।
-। THE ISAVASYOPANISHAD ।
-। THE KENOPANISHAD     ।
-। THE MUNDAKOPANISHAD  ।
+|                      |
+|----------------------|
+| PREFACE              |
+| THE ISAVASYOPANISHAD |
+| THE KENOPANISHAD     |
+| THE MUNDAKOPANISHAD  |
 
 
 

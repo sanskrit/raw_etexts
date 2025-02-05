@@ -161,79 +161,79 @@ Parikshit, made by Suka. These are left untranslated. In all these respects, the
 
 **\_\_\_\_**
 
-।                              ।
-।------------------------------।
-। FOREWORD                     ।
-। TRANSLATOR'S NOTE            ।
-। PUBLISHER'S NOTE             ।
-। GENESIS OF THE BHAGAVATA     ।
-। VARAHA AVATARA               ।
-। KAPILA AVATARA               ।
-। THE STORY OF DHRUVA          ।
-। PRITHU AVATARA               ।
-। THE STORY OF PRACHINABARHIS  ।
-। THE STORY OF PRIYAVRATA      ।
-। RISHABHA AVATARA             ।
-। THE STORY OF JADABHARATA     ।
-। THE STORY OF AJAMILA         ।
-। THE STORY OF VRITRA ASURA    ।
-। THE STORY OF PRAHLADA        ।
-। THE STORY OF ELEPHANT-KING   ।
-। KURMA AVATARA                ।
-। VAMANA & TRIVIKRAMA AVATARAS ।
-। MATSYA AVATARA               ।
-। RAMA AVATARA                 ।
+|                              |
+|------------------------------|
+| FOREWORD                     |
+| TRANSLATOR'S NOTE            |
+| PUBLISHER'S NOTE             |
+| GENESIS OF THE BHAGAVATA     |
+| VARAHA AVATARA               |
+| KAPILA AVATARA               |
+| THE STORY OF DHRUVA          |
+| PRITHU AVATARA               |
+| THE STORY OF PRACHINABARHIS  |
+| THE STORY OF PRIYAVRATA      |
+| RISHABHA AVATARA             |
+| THE STORY OF JADABHARATA     |
+| THE STORY OF AJAMILA         |
+| THE STORY OF VRITRA ASURA    |
+| THE STORY OF PRAHLADA        |
+| THE STORY OF ELEPHANT-KING   |
+| KURMA AVATARA                |
+| VAMANA & TRIVIKRAMA AVATARAS |
+| MATSYA AVATARA               |
+| RAMA AVATARA                 |
 
 
 
-।                                      ।
-।--------------------------------------।
-। **PARASURAMA AVATARA**               ।
-। **KRISHNA AVATARA**                  ।
-। The Killing of Putana                ।
-। The Shattering of Sakata             ।
-। The Killing of Trinavarta            ।
-। The Sacrament of Naming              ।
-। Showing Visvarupa to His Mother      ।
-। The Binding of Krishna               ।
-। The Uprooting of the Arjuna Trees    ।
-। Killing of Vatsa                     ।
-। Killing of Baka                      ।
-। Killing of Agha                      ।
-। The Carrying Away of the Calves      ।
-। The Killing of Dhenuka               ।
-। The Subduing of the Serpent Kaliya   ।
-। The Killing of Pralamba              ।
-। Stealing the Garments of the Gopis   ।
-। Lifting the Govardhana Mountain      ।
-। The Sport of Dance                   ।
-। The Killing of Arishta               ।
-। The Arrival of Akrura                ।
-। Preparations for the Bow—Festival    ।
-। The Entry of the Lord into Mathura   ।
-। The Killing of Kamsa                 ।
-। The Installation of Ugrasena as King ।
+|                                      |
+|--------------------------------------|
+| **PARASURAMA AVATARA**               |
+| **KRISHNA AVATARA**                  |
+| The Killing of Putana                |
+| The Shattering of Sakata             |
+| The Killing of Trinavarta            |
+| The Sacrament of Naming              |
+| Showing Visvarupa to His Mother      |
+| The Binding of Krishna               |
+| The Uprooting of the Arjuna Trees    |
+| Killing of Vatsa                     |
+| Killing of Baka                      |
+| Killing of Agha                      |
+| The Carrying Away of the Calves      |
+| The Killing of Dhenuka               |
+| The Subduing of the Serpent Kaliya   |
+| The Killing of Pralamba              |
+| Stealing the Garments of the Gopis   |
+| Lifting the Govardhana Mountain      |
+| The Sport of Dance                   |
+| The Killing of Arishta               |
+| The Arrival of Akrura                |
+| Preparations for the Bow—Festival    |
+| The Entry of the Lord into Mathura   |
+| The Killing of Kamsa                 |
+| The Installation of Ugrasena as King |
 
 
 
-।                                   ।
-।-----------------------------------।
-। Life with the Teacher             ।
-। Message to Gokula through Uddhava ।
-। Krishna Marrying Rukmini          ।
-। The Killing of Narakasura         ।
-। A Love-Quarrel with Rukmini       ।
-। Marriage of Aniruddha and Usha    ।
-। Krishna's Household Life          ।
-। The Killing of Jarasandha         ।
-। The Killing of Sisupala           ।
-। The Story of Kuchela              ।
-। Advice to Uddhava                 ।
-। The Passage of the Lord           ।
-। KALKI AVATARA                     ।
-। THE SALVATION OF PARIKSHIT        ।
-। NOTE ON THE BHAGAVATA             ।
-। INDEX TO PROPER NAMES             ।
+|                                   |
+|-----------------------------------|
+| Life with the Teacher             |
+| Message to Gokula through Uddhava |
+| Krishna Marrying Rukmini          |
+| The Killing of Narakasura         |
+| A Love-Quarrel with Rukmini       |
+| Marriage of Aniruddha and Usha    |
+| Krishna's Household Life          |
+| The Killing of Jarasandha         |
+| The Killing of Sisupala           |
+| The Story of Kuchela              |
+| Advice to Uddhava                 |
+| The Passage of the Lord           |
+| KALKI AVATARA                     |
+| THE SALVATION OF PARIKSHIT        |
+| NOTE ON THE BHAGAVATA             |
+| INDEX TO PROPER NAMES             |
 
 
 

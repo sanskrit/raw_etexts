@@ -84,13 +84,13 @@ TO
 
 
 
-।                               ।
-|:-----------------------------:।
-।           CONTENTS.           ।
-।            PREFACE            ।
-। PROFESSOR MAX MULLER'S LETTER ।
-।    THE AITAREYA UPANISHAD     ।
-।   THE TAITTIRI'YA UPANISHAD   ।
+|                               |
+|:-----------------------------:|
+|           CONTENTS.           |
+|            PREFACE            |
+| PROFESSOR MAX MULLER'S LETTER |
+|    THE AITAREYA UPANISHAD     |
+|   THE TAITTIRI'YA UPANISHAD   |
 
 
 
@@ -2131,15 +2131,15 @@ Original Translation by S. Sitarama Sastriar, B.A,
 and Vols. III and IV.  
 Original Translation by Pandit Ganga'nath Jha, M.A.
 
-।                                                           ।             ।             ।             ।             ।
-।-----------------------------------------------------------|:-----------:|:-----------:|:-----------:|:-----------:।
-।                                                          । Cloth Bound । Cloth Bound । Paper Bound । Paper Bound ।
-।                                                          ।     Rs.     ।     A.      ।     Rs.     ।     A.      ।
-। *Vol. 1. I'SA, KENA AND MUNDAKA*                          ।      2      ।      8      ।      2      ।      0      ।
-। *Vol. II. THE KATHA AND PRASNA*                           ।      2      ।      8      ।      2      ।      0      ।
-। *Vol. III. THE CHHANDOGYA, PART I.—The first 4 Adhya'yas* ।      2      ।      8      ।      2      ।      0      ।
-। *Vol. IV. THE CHHA'NDOGYA, PART II.—The last 4 Adhya'yas* ।      3      ।      8      ।      3      ।      0      ।
-। *Vol. V. AITAREYA AND TAITTIRIYA*                         ।      2      ।      8      ।      2      ।      0      ।
+|                                                           |             |             |             |             |
+|-----------------------------------------------------------|:-----------:|:-----------:|:-----------:|:-----------:|
+|                                                          | Cloth Bound | Cloth Bound | Paper Bound | Paper Bound |
+|                                                          |     Rs.     |     A.      |     Rs.     |     A.      |
+| *Vol. 1. I'SA, KENA AND MUNDAKA*                          |      2      |      8      |      2      |      0      |
+| *Vol. II. THE KATHA AND PRASNA*                           |      2      |      8      |      2      |      0      |
+| *Vol. III. THE CHHANDOGYA, PART I.—The first 4 Adhya'yas* |      2      |      8      |      2      |      0      |
+| *Vol. IV. THE CHHA'NDOGYA, PART II.—The last 4 Adhya'yas* |      3      |      8      |      3      |      0      |
+| *Vol. V. AITAREYA AND TAITTIRIYA*                         |      2      |      8      |      2      |      0      |
 
 ——————————————————————————————————————————————————————
 

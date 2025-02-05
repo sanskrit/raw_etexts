@@ -8078,88 +8078,88 @@ Sri Sadguru Paramatmane Namah
 
 **PART II.**
 
-।                                                                                                              ।
-।--------------------------------------------------------------------------------------------------------------।
-। Atma is distinct from the body                                                                               ।
-। Ashrama Dharma to be followed byeven those not desirous of Moksha                                            ।
-। Adhikari for knowledge                                                                                       ।
-। Brahman is one without a second                                                                              ।
-। Brahman-its attributes in meditation                                                                         ।
-। Brahman-its nature                                                                                           ।
-। Child-like state                                                                                             ।
-। Characteristics of the soul which hasattained the Nirguna Brahman                                           ।
-। Expiation for violating the Sannyas orderFate of souls after death who are notentitled to go to Chandraloka ।
-। Food restrictions can be given up onlywhen life is in danger                                                ।
-। Good and evil deeds of a man ofknowledge are shared by his friendsand enemies                              ।
+|                                                                                                              |
+|--------------------------------------------------------------------------------------------------------------|
+| Atma is distinct from the body                                                                               |
+| Ashrama Dharma to be followed byeven those not desirous of Moksha                                            |
+| Adhikari for knowledge                                                                                       |
+| Brahman is one without a second                                                                              |
+| Brahman-its attributes in meditation                                                                         |
+| Brahman-its nature                                                                                           |
+| Child-like state                                                                                             |
+| Characteristics of the soul which hasattained the Nirguna Brahman                                           |
+| Expiation for violating the Sannyas orderFate of souls after death who are notentitled to go to Chandraloka |
+| Food restrictions can be given up onlywhen life is in danger                                                |
+| Good and evil deeds of a man ofknowledge are shared by his friendsand enemies                              |
 
 
 
 
 
 
-।                                                                                                    ।
-।----------------------------------------------------------------------------------------------------।
-। Knower of Saguna Brahman goesalong the path of Devayana                                           ।
-। Knowledge-its origination                                                                          ।
-। Knowledge of Brahman frees one fromall sins past and future                                       ।
-। Knower of Brahman merges inBrahman at death                                                       ।
-। Knower of Saguna Brahman departsthrough Sushumna Nadi at death                                    ।
-। Knower of Saguna Brahman goesto Brahmaloka                                                       ।
-। Knower of Saguna Brahman goesto Brahmaloka even though he dies in Dakshinayana                   ।
-। Liberated soul manifests its essential natureLiberated soul remains inseparablefrom Supreme Soul ।
-। Liberated soul who hasattainedBrahmaloka can remain with orwithout body                         ।
-। Liberated soul can animate several bodies at once                                                 ।
-। Liberated soul who has attainedBrahmaloka has all lordly powers                                  ।
-। Meditations in sacrificial acts                                                                    ।
-। Meditation is enjoined even for a Muni                                                             ।
-। Meditation its technique and rules                                                                 ।
+|                                                                                                    |
+|----------------------------------------------------------------------------------------------------|
+| Knower of Saguna Brahman goesalong the path of Devayana                                           |
+| Knowledge-its origination                                                                          |
+| Knowledge of Brahman frees one fromall sins past and future                                       |
+| Knower of Brahman merges inBrahman at death                                                       |
+| Knower of Saguna Brahman departsthrough Sushumna Nadi at death                                    |
+| Knower of Saguna Brahman goesto Brahmaloka                                                       |
+| Knower of Saguna Brahman goesto Brahmaloka even though he dies in Dakshinayana                   |
+| Liberated soul manifests its essential natureLiberated soul remains inseparablefrom Supreme Soul |
+| Liberated soul who hasattainedBrahmaloka can remain with orwithout body                         |
+| Liberated soul can animate several bodies at once                                                 |
+| Liberated soul who has attainedBrahmaloka has all lordly powers                                  |
+| Meditations in sacrificial acts                                                                    |
+| Meditation is enjoined even for a Muni                                                             |
+| Meditation its technique and rules                                                                 |
 
 
 
-।                                                              ।
-।--------------------------------------------------------------।
-। Meditation essential till knowledge is attained              ।
-। Merging of functions of organs at death                      ।
-। Mode of departure at death                                   ।
-। Nature of Mukti                                              ।
-। Nityakarmas enjoined in Vedas shouldnot be given up       ।
-। Nature of swoon                                              ।
-। Neti Neti explained                                          ।
-। Om and Udgitha                                               ।
-। Prana Vidya-unity of                                         ।
-। Perfected souls may take birth tofulfill the divine mission ।
-। Prarabdha not destroyed by knowledge                         ।
-। Prana is merged in Jiva                                      ।
-। Prana of a knower of Brahman doesnot depart                 ।
-। Path to Brahmaloka                                           ।
-। Reconciliation of Vidyas                                     ।
-। Reciprocal meditation                                        ।
-। Return of soul from deep sleep                               ।
-। Soul descending from heaven                                  ।
-। Soul-transmigration of                                       ।
-। Soul's descent from Chandraloka                              ।
-। Soul's time for descent to the earth                         ।
-। Soul's entry into plants                                     ।
-। Soul in dream state                                          ।
+|                                                              |
+|--------------------------------------------------------------|
+| Meditation essential till knowledge is attained              |
+| Merging of functions of organs at death                      |
+| Mode of departure at death                                   |
+| Nature of Mukti                                              |
+| Nityakarmas enjoined in Vedas shouldnot be given up       |
+| Nature of swoon                                              |
+| Neti Neti explained                                          |
+| Om and Udgitha                                               |
+| Prana Vidya-unity of                                         |
+| Perfected souls may take birth tofulfill the divine mission |
+| Prarabdha not destroyed by knowledge                         |
+| Prana is merged in Jiva                                      |
+| Prana of a knower of Brahman doesnot depart                 |
+| Path to Brahmaloka                                           |
+| Reconciliation of Vidyas                                     |
+| Reciprocal meditation                                        |
+| Return of soul from deep sleep                               |
+| Soul descending from heaven                                  |
+| Soul-transmigration of                                       |
+| Soul's descent from Chandraloka                              |
+| Soul's time for descent to the earth                         |
+| Soul's entry into plants                                     |
+| Soul in dream state                                          |
 
 
 
 
 
-।                                                                                               ।
-।-----------------------------------------------------------------------------------------------।
-। Soul in deep sleep                                                                            ।
-। Self is higher than everything                                                                ।
-। Self is Supreme                                                                               ।
-। Sannyasa is prescribed in scripturesStories in Upanishadseulogise theVidyas taught in them ।
-। Sannyasi cannot revert back to formerstages of life                                          ।
-। Social boycott by society of a NaishtikaBrahmachari failing to keep up celibacy              ।
-। Soul attaining Saguna Brahmaneffects desires by mere will                                    ।
-। Unconnected Mantras in certainUpanishads do not belong toBrahma Vidya                       ।
-। Upasanas                                                                                      ।
-। Vidyas their constitution                                                                     ।
-। Vidyas their place in meditation                                                              ।
-। Works-a means to knowledge                                                                    ।
+|                                                                                               |
+|-----------------------------------------------------------------------------------------------|
+| Soul in deep sleep                                                                            |
+| Self is higher than everything                                                                |
+| Self is Supreme                                                                               |
+| Sannyasa is prescribed in scripturesStories in Upanishadseulogise theVidyas taught in them |
+| Sannyasi cannot revert back to formerstages of life                                          |
+| Social boycott by society of a NaishtikaBrahmachari failing to keep up celibacy              |
+| Soul attaining Saguna Brahmaneffects desires by mere will                                    |
+| Unconnected Mantras in certainUpanishads do not belong toBrahma Vidya                       |
+| Upasanas                                                                                      |
+| Vidyas their constitution                                                                     |
+| Vidyas their place in meditation                                                              |
+| Works-a means to knowledge                                                                    |
 
 
 

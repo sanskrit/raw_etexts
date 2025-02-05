@@ -128,25 +128,25 @@ Vice-Chancellor,
 
 **विषय सूची**
 
-।     ।                                  ।
-।-----।----------------------------------।
-।    । **अध्याय**                       ।
-।    । भूमिका                           ।
-।    । प्रास्ताविक                      ।
-। १   । पुष्पी पादप और उसके भाग          ।
-। २   । बीजों की संरचना तथा उद्भेदन      ।
-। ३   । मूल तथा उनके संपरिवर्तन          ।
-। ४   । स्तम्भ और उनके संपरिवर्तन        ।
-। ५   । पर्ण और उनके संपरिवर्तन          ।
-। ६   । फूल                              ।
-। ७   । पुष्पविन्यास                     ।
-। ८   । फल                               ।
-। ९   । पुष्पी पादपों का पारिभाषिक वर्णन ।
-। १०  । अण्वीक्ष और उसका प्रयोग          ।
-। ११  । औतिकी                            ।
-। १२  । ऊति और ऊतिसंहतियां               ।
-। १३  । संवृतबीजी पादपों का शारीर        ।
-। १४  । मूल की आन्तरिक रचना              ।
+|     |                                  |
+|-----|----------------------------------|
+|    | **अध्याय**                       |
+|    | भूमिका                           |
+|    | प्रास्ताविक                      |
+| १   | पुष्पी पादप और उसके भाग          |
+| २   | बीजों की संरचना तथा उद्भेदन      |
+| ३   | मूल तथा उनके संपरिवर्तन          |
+| ४   | स्तम्भ और उनके संपरिवर्तन        |
+| ५   | पर्ण और उनके संपरिवर्तन          |
+| ६   | फूल                              |
+| ७   | पुष्पविन्यास                     |
+| ८   | फल                               |
+| ९   | पुष्पी पादपों का पारिभाषिक वर्णन |
+| १०  | अण्वीक्ष और उसका प्रयोग          |
+| ११  | औतिकी                            |
+| १२  | ऊति और ऊतिसंहतियां               |
+| १३  | संवृतबीजी पादपों का शारीर        |
+| १४  | मूल की आन्तरिक रचना              |
 
 
 
@@ -813,13 +813,13 @@ Vice-Chancellor,
 
  गुलाब की संयुक्त पत्ती और शहतूत की पत्तियों वाली शाखा में पाई जाने वाली भिन्नता पर ध्यान दीजिए।
 
-।                                                                                         ।                                                                          ।
-।:---------------------------------------------------------------------------------------:।:------------------------------------------------------------------------:।
-।                                   **गुलाब की पत्ती**                                    ।                            **शहतूत की शाखा**                             ।
-।                   (१) संयुक्तपर्ण के कक्ष में कलिका उपस्थित रहती है।                    । शाखा स्वयं कलिका के विकास से बनती है। इसके कक्ष में कलिका नहीं पाई जाती। ।
-।                         (२) पर्णक के कक्ष में कलिका नहीं होती।                          ।            शाखा की प्रत्येक पत्ते के कक्ष में कलिका रहती है।             ।
-।                               (३) अग्र कलिका का अभाव है।                                ।                           अग्र कलिका होती है।                            ।
-। (४) यदि अनुपत्र हों तो वे संयुक्त पर्ण के आधार पर स्थित होते हैं न कि पर्णक के आधार पर। ।     अनुपत्र यदि हों तो वे प्रत्येक पत्ती के आधार पर स्थित रहते हैं।      ।
+|                                                                                         |                                                                          |
+|:---------------------------------------------------------------------------------------:|:------------------------------------------------------------------------:|
+|                                   **गुलाब की पत्ती**                                    |                            **शहतूत की शाखा**                             |
+|                   (१) संयुक्तपर्ण के कक्ष में कलिका उपस्थित रहती है|                    | शाखा स्वयं कलिका के विकास से बनती है| इसके कक्ष में कलिका नहीं पाई जाती| |
+|                         (२) पर्णक के कक्ष में कलिका नहीं होती|                          |            शाखा की प्रत्येक पत्ते के कक्ष में कलिका रहती है|             |
+|                               (३) अग्र कलिका का अभाव है|                                |                           अग्र कलिका होती है|                            |
+| (४) यदि अनुपत्र हों तो वे संयुक्त पर्ण के आधार पर स्थित होते हैं न कि पर्णक के आधार पर| |     अनुपत्र यदि हों तो वे प्रत्येक पत्ती के आधार पर स्थित रहते हैं|      |
 
 ** फलक का वयन** (texture)**—**पत्ती के वयन का अध्ययन करने के लिए विभिन्न प्रकार के पत्तियों को लीजिए।चौलाई, सूर्यमुखी और दूसरे शाक में पत्ती कोमल, पतली और कलावत् होती है। ऐसी पत्तियों को **शाकीय** (herbaceous) कहते हैं।
 
@@ -879,14 +879,14 @@ Vice-Chancellor,
 
  एक समतल पर केन्द्र से दो पूर्वानुपर पत्तियों के बीच के औपकाल्पनिक (hypothetical) कोण को **अपसार कोण**(angle of diveregence) कहते है।यह बड़ी सरलता सेनिकाला जा सकता है। इसे जानने के लिए पर्णन्यास का गुणा ३६० से करते हैं। जैसे—
 
-।              ।               ।
-।:------------:।:-------------:।
-। **पर्णक्रम** । **अपसार कोण** ।
-।  १ /२ X ३६०  ।     १८०°      ।
-।  २/५ X ३६०   ।     १४४°      ।
-।  ५/१३ X ३६०  ।   १३८°–२४'    ।
-।  १/३X ३६०   ।     १२०°      ।
-।  ३/८X ३६०   ।     १३५°      ।
+|              |               |
+|:------------:|:-------------:|
+| **पर्णक्रम** | **अपसार कोण** |
+|  १ /२ X ३६०  |     १८०°      |
+|  २/५ X ३६०   |     १४४°      |
+|  ५/१३ X ३६०  |   १३८°–२४'    |
+|  १/३X ३६०   |     १२०°      |
+|  ३/८X ३६०   |     १३५°      |
 
  इसप्रकार गुडहल में अपसार कोण १४४°है और दूर्वाघास में १८०°।
 
@@ -2820,735 +2820,735 @@ Vice-Chancellor,
 **पारिभाषिक शब्दावलि**  
 **भारतीय–आंगल**
 
-।                                         ।                                           ।
-।-----------------------------------------।-------------------------------------------।
-। अंश numerator                           । अण्डप carpel                              ।
-। अंशु filament                           । अण्डपमर carpophore                        ।
-। अशुसंलाग adelphous                      । अण्डवत् ovate                             ।
-। अक्ष axis                               । अण्डाकार oval                             ।
-। अक्षलग्न axile                          । अण्डाशय ovary                             ।
-। अक्षि mesh                              । अण्वीक्ष microscope                       ।
-। अखण्ड प्रविभाजीcontinuos meristem      । अण्वीक्ष-निर्मिति microscopic preparation ।
-। अग्र anterior, apex                     । अतिछादित overlapped                       ।
-। अग्र-कलिका apical bud                   । अद्विलिंगी dioecious                      ।
-। अग्रचोल caruncle, aril                  । अधर ventral, inferior                     ।
-। अग्रवलित circinate                      । अधर सेवनी ventral suture                  ।
-। अग्राभिवर्धी क्रमacropetal succession  । अधःस्तर hypodermis                        ।
-। अंगक tentacle                           । अधिमूल tap-root                           ।
-। अचर passive                             । अधिमूल संहति tap-root system              ।
-। अण्ड egg                                । अधिस्तर epidermis                         ।
-। अण्डकोशा egg-cell                       । अधिस्तरीय epidermal                       ।
-। अण्डद्वार micropyle                     । आधिस्तरीय उपांग epidermal appendage       ।
-। अण्डधानी venter                         ।                                          ।
-। अण्डधानी-कुल्या-कोशा ventral canal cell ।                                           ।
-
-
-
-।                                                           ।                                             ।
-।-----------------------------------------------------------।---------------------------------------------।
-। ओधाजाय hypogynous                                         । अधिस्तरीय ऊति संहति epidermal tissue system ।
-। अधोबीजपत्र hypocotyl                                      । अनेधावी (फूल) closed (bundle)               ।
-। अधोभूमिक hypogeal                                         । अन्तराकोश अवकाश intercellular space         ।
-। अधोभूस्तारी sucker                                        । अन्तरापूल interfascicular                   ।
-। अधोवाहां phloem                                           । अन्तरापूल एधा interfascicular cambium       ।
-। अधोवाही जीवितकphloem parenchyma                          । अन्तरारम्भ endarch                          ।
-। अनतिछादी valvate                                          । अन्तराल interval                            ।
-। अनिपत्री ebracteate                                       । अन्तर्नित्तिendocarp                       ।
-। अनियमछादी imbricate                                       । अन्तर्वर्धingrowth                         ।
-। अनियमी irregular                                          । अन्तर्वलित involute                         ।
-। अनुपत्र stipule                                           । अन्तर्वलित कंगुताल Cycas circinalis         ।
-। अनुपत्री stipulate                                        । अन्तर्विष्ट intercalary                     ।
-। अनुप्रस्थ transverse                                      । अन्तश्चोलtegmen                            ।
-। अनुप्रस्थ तल transverse plane                             । अन्तःस्तर endodermis                        ।
-। अनुप्रस्थभेदी lomentum                                    । अपकिरण dispersal                            ।
-। अनुप्रस्थभेदी बदरीय शिम्बि lomentaceous beriaceous legume । अपटीमत् aseptate                            ।
-। अनुप्रस्थभेदी शिम्बि lomentaceous legume                  । अवर्णस्तम्भ-प्रजाति Psilotum                ।
-। अनुत्पत तैल fatty oil                                     । अपसार कोण angle of divergenec               ।
-। अनुदारु metaxylem                                         । अपसारित diverged                            ।
-
-
-
-।                                      ।                                     ।
-।--------------------------------------।-------------------------------------।
-। अपमारी divergent                     । अलग्न-केन्द्रस्थ free-central       ।
-। अपाक्ष abaxial                       । अलाबुक pepo                         ।
-। अप्रवेश्य impervious                 । अवकाश space                         ।
-। अभिन्न undifferentiated              । अवयव limb                           ।
-। अभिन्न entire                        । अवरोही descending                   ।
-। अभिमुख opposite                      । अवलित plane                         ।
-। अभिरंजन stain                        । अवृन्त sessile                      ।
-। अभिरंजित stained                     । अशाखी unbranched                    ।
-। अभिलग्न adnate                       । **अश्मान्तक प्रजाति** Coleus        ।
-। अभिसारित converged                   । अश्ववार-गोत्र Equisetales           ।
-। अभिसारी convergent                   । अष्ठफल drupe                        ।
-। अभिहृद्वत् otcordate                 । अष्ठि-समूह-फल etaerio of drupes     ।
-। अभूम्याकृष्ट negatively geofropic    । असमपक्षवत imparipinnate             ।
-। **अभ्यण्डपर्ण कासमई** Cassia obovata । असम्मित asymmetrical                ।
-। अभ्यण्डवत् obovate                   । अस्फोटी indehiscent                 ।
-। अध्रूणपोषी non-endospermic           । आकन्द tuber                         ।
-। **अमरवल्लि- प्रजाति** Cuscuta        । आकार shape                          ।
-। अमैथुन प्रजनन asexual reproduction   । आकारिकी morphology                  ।
-। अरशीर्षि inulin                      । आकर्षण attraction                   ।
-। अरसम्मित actinomorphic               । आक्षीर latex                        ।
-। अरीय radiating, radial               । आक्षीरी ऊति laticiferous tissue     ।
-। **अर्के- प्रजाति** Calotropis        । आक्षीरी कोशा laticiferous cell      ।
-। अर्ध half                            । आक्षांरी वाहिनी laticiferous vessel ।
-।                                     । आगन्तुक adventitious                ।
-
-
-
-।                                             ।                                      ।
-।---------------------------------------------।--------------------------------------।
-। आगन्तुक कलिका adventitious bud              । आयामवलित plicate                     ।
-। आगन्तुक मूल-संहाते adventitious root system । आयाम-स्फोटना longitudinal dehiscence ।
-। आच्छादित superosed                          । आरावत् serrate                       ।
-। आदर्श ideal                                 । आरोपण mounting                       ।
-। आदि-दृति primordial utricle                 । आरोही liane                          ।
-। आदिदारु protoxylem.                         । आरोही ascending                      ।
-। आदियोनि archegonium                         । आवरण-खण्ड cover-slip                 ।
-। आदियोनि-वेश्म archegonial chamber           । आशय bladder                          ।
-। आद्य प्रविभाजी primary meristem             । आनुपाती caducous                     ।
-। आधार base                                   । आसजन attachment                      ।
-। आधार-उक्ति ground tissue                    । आसंजन-स्थान place of attachment      ।
-। आधारलग्न basal, basifixed                   । **आस्तारी गेन्दुक** Tagetes patula   ।
-। आन्तरकवच intine                             । **आहरिपुष्प-प्रजाति** Ruscus.        ।
-। आन्तरजात endogenous                         । **ईश्वरा-प्रजाति Ixora**             ।
-। आन्तरतम innermost                           । **उग्रगंध पलाण्डु** Allium sativa    ।
-। आपद्म-प्रजाति Dianthus                     । उच्चर्म cuticle                      ।
-। आपणग-प्रजाति Nephrolepis                    । उच्चर्मिcutin                       ।
-। आप्यक alga                                  । उच्चर्मीयित cutinised                ।
-। आप्यकाः Algae                               । उच्छत्र umbel                        ।
-। आयाम longitudinal                           । उत्कोलक pome                         ।
-। आयाम - छेद longitudinal section             । उत्तर dorsal,                        ।
-।                                            । उत्तर secondary, superior            ।
-।                                             । अधोवाही secondary phloem             ।
-
-
-
-।                                          ।                                              ।
-।------------------------------------------।----------------------------------------------।
-। उत्तर दारु secondary xylem               । उद्यास resin                                 ।
-। उत्तर प्रविभाजी secondary meristem       । उद्यास-कुल्या resin canal                    ।
-। उत्तर बाह्यक secondary cortex            । उद्वर्ध outgrowth                            ।
-। उत्तर मध्यक किरण secondary medullary ray । उन्देक्षीय hygroscopic                       ।
-। उत्तर वृद्धि secondary growth            । उप-कलिका accessory bud                       ।
-। उत्तर सेवनी dorsal suture                । उपत्वक्षा phelloderm                         ।
-। उत्तराधर dorsiventral                    । उपरिजाय epigynous                            ।
-। उत्थ erect                               । उपरिभूमिक epigeal                            ।
-। उत्सर्ग excretion                        । उपशाखा daughter-branch                       ।
-। उत्स्वेदन transpiration                  । उप-संक्रामण-ऊति accessory transfusion tissue ।
-। उदग्र vertical                           । उपाक्ष daughter-axis                         ।
-। उदग्रपंक्ति orthostichy.                 । उपांग appendage                              ।
-। उदनीरिक अम्ल hydrochloric acid           । उपाण्डवत् elliptic                           ।
-। **उदावर्त-प्रजाति** Hydrilla             । उपाधिस्तरीय subepidermal                     ।
-। उदासर्ग secretion                        । उपायोजन adaptation                           ।
-। उदुब्ज convex                            । उभयतोविकासी scorpioid                        ।
-। उदुम्बरक syconus                         । उभयपार्श्वस्थ bicollateral                   ।
-। उद्भव origin                             । उपसि विलयन eosin solution                    ।
-। उद्भेदन germination                      । ऊति tissue                                   ।
-। उद्भेदी बीजाणु germination spore        । एककोश unicellular                           ।
-।                                         । एककोश रोम unicellular hair                   ।
-।                                          । एकगह्वर unilocular                           ।
-।                                          । एकोविकासी helicoid                           ।
-।                                          । एकपत्री बीज monocotyledonous seed            ।
-
-
-
-।                                                  ।                                         ।
-।--------------------------------------------------।-----------------------------------------।
-। एकपार्श्वस्थ collateral                          । एकसेवनीक-समूह-फल etaerio of follicles   ।
-। एकपार्श्वस्थ वाही पूलcollateral vascular bundle । एकाक्षी monopodium                     ।
-। एकप्रनाडीक unicostate                            । एकाक्षी monopodial                     ।
-। एकबीज one seeded                                 । एकाण्डप monocarpellary                  ।
-। एकबीजपत्र monocotyledon                          । एकान्तर, एकान्तारेक alternate           ।
-। एकबीजपत्राः Monocotyledonous                     । एकास्फोटी mericarp                      ।
-। एकबीजपत्री monocotyledonous                      । एकिफल simple fruit                      ।
-। एकबीजास्फोटी फलachenial fruit                   । एधा cambium                            ।
-। एकरूप identical                                  । एधान्तर ऊति intracambial tissue         ।
-। एकवर्थ्यक्ष raceme                               । एधाबाह्य ऊति extra-cambial tissue       ।
-। एकवर्ध्यक्षीय racemose                           । एधावी (पुल) open (bundle )              ।
-। एकल solitary, single                             । औतिक मिन्नन histologial differentiation ।
-। एकलस्तर unilayered                               । कक्ष axil                               ।
-। एकलिंग unisexual                                 । कक्ष-कलिका axillary bud                 ।
-। एकलिंगी पादप dioecious plant                     । कक्ष-पुष्प axillary flower              ।
-। एकशाख monochasium                                । कक्षस्थ axillary                        ।
-। एकसंलाग monadelphous                             । **कंकती-प्रजाति** Abutilon              ।
-। एकसम्मित zygomorphic                             । कंगुताल-गोत्र Cycadales                 ।
-। एकसम्मिति zygomorphy                             । **कंगुताल-प्रजाति** Cycas               ।
-। एकसृट् uniparous                                 । कंचुक sheath                            ।
-। एकसेवनीक follicle                                । कटिबन्ध zone                            ।
-।                                                 । कठिन hard                               ।
-।                                                  । कठिन अधोवाही hard bast                  ।
-
-
-
-।                                        ।                                       ।
-।----------------------------------------।---------------------------------------।
-। कणात्मक granular                       । काष्ट वाहिनी woodvvessel              ।
-। काणका granule                          । काष्ठीय woody                         ।
-। **कण्टक वृत्ताक**Solanum xanthocarpum । **कासमर्द-प्रजाति** Cassia            ।
-। **कण्टाल-प्रजाति** cactus             । किण scar                              ।
-। कन्द bulb                              । किण्वन fermentation                   ।
-। कन्दगर्भ disc                          । कीटाश insectivorous                   ।
-। कन्दिका corm                           । **कीटाश-प्रजाति** Drosera             ।
-। **करवीर बन्धु-प्रजाति** Vinca          । कुक्षिवृन्त style                     ।
-। **करीर-प्रजाति** Capparis              । कुक्षिबिम्ब stigmatic disc            ।
-। कलश pitcher                            । कुट्टिमदारु maple                     ।
-। **कलशपर्ण-प्रजाति** Nepenthes          । कुड्म bud                             ।
-। कलश-पादप pitcher-plant                 । **कुन्तपर्ण त्रिवृता** Ipomea hastata ।
-। कला membrane                           । कुन्तल spiral                         ।
-। कलावत् membranous                      । कुन्तलपुष्प spiral flower             ।
-। कलिका bud                              । कुन्तलवत् spiral                      ।
-। कवक fungus                             । **कुन्तलवलय-प्रजाति** Spirogyra       ।
-। कवक-जाल mycelium                       । कुन्तलवलयित spirally coiled           ।
-। कवक-सूत्र hypha                        । कुन्तवत् hastate                      ।
-। कवकानि Fungi                           । **कुमारी-प्रजाति** Aloe               ।
-। **कांचनार-प्रजाति** Bauhinia           । **कुम्भिका-प्रजाति** Pistia           ।
-। काय body                               । कुम्भीरूप napiform                    ।
-। कार्य function                         । कूट false                             ।
-। काष्ठ-जीवितकwood parenchyma           । कूट ridge                             ।
-। काष्ठ-तन्तु wood fibre                 । कूटपटी false septum                   ।
-। काष्ठफल nut                            । कूटपटीक siliqua                       ।
-।                                       । कूटपटीका silicula                     ।
-
-
-
-।                                     ।                                        ।
-।-------------------------------------।----------------------------------------।
-। कूट ग्रग्मशाखिता false dichotomy    । **खरमंजरी प्रजाति** Achyranthes        ।
-। कूपक areole                         । **गजपिप्पली-प्रजाति** Pothos           ।
-। कूपी-कूर्च bottle-brush             । **गन्धराज नाडीहिंगु** Gardenia florida ।
-। **कृष्ण तुलसी** Ocimum sanctum      । **गन्धुल-प्रजाति** Sambucus            ।
-। कृष्णवदरी blackberry                । गर्त pit                               ।
-। केन्द्रापग दारु centrifugal xylem   । गर्तकी retuse                          ।
-। केद्राभिग दारु centripetal xylem    । **गर्तकी शणपट्ट** Crotalaria retusa    ।
-। केन्द्रीय central                   । गर्ती pitted                           ।
-। कोशाघट idioblast                    । गर्ती emarginate                       ।
-। कोशाधु cellulose                    । गह्वर loculus                          ।
-। कोशाभित्ति cell-wall                । गह्वर-स्फोटना locuilcidal dehiscence   ।
-। कोशाश्म cystolith                   । गुण features                           ।
-। कौणिक angular                       । गूढपंचनखर caryophyllaceocs             ।
-। **कौशेयफल-प्रजाति** Tridax,         । गोलछिन्न crenate                       ।
-। क्रियाशील active                    । गोलाकार round                          ।
-। **क्षेत्र सहदेवी** Sonchus arvensis । गोलिका globule                         ।
-। खण्ड segment                        । गौण कोशा subsidiary cell               ।
-। **खदिर बब्बूल** Acacia catechu      । ग्रन्थि gland                          ।
-। खानिज-काय mineral body              । ग्रन्थिमय glandular                    ।
-। खनिजगुलिका globoid                  । ग्रन्थिरोम glandular hair              ।
-। खनिज निक्षेप mineral deposit        । ग्रन्थीय ऊति glandular tissue          ।
-।                                    । ग्रीवा neck                            ।
-।                                     । ग्रीवा-कोशा neck-cell                  ।
-
-
-
-।                                              ।                                        ।
-।----------------------------------------------।----------------------------------------।
-। घटन plastid                                  । चालनी पट्ट sieve plate                 ।
-। घण्टाकार campanulate                         । चित्रकुट्टिम mosaic                    ।
-। घण्टावल्लरी railway creeper                  । चिपिट flat flattened                   ।
-। **घातपर्ण–प्रजाति**Bryophyllum              । चिपिटक corymb                          ।
-। चक्रित rotate                                । चिपिटगुच्छ candituft                   ।
-। चक्री पुष्प cyclic flower                    । **चिपिटस्तम्भ-प्रजाति** Muehlenbeckia  ।
-। चंचु beak                                    । चिरलग्न persistent                     ।
-। चणक-अनुकुल Papilionatae                      । **चीनमूल- प्रजाति** Smilax             ।
-। चतुरादिवेश्म carceralus                      । चूर्णातु तिग्मीय calcium oxalate       ।
-। चतुर्गह्वर tetralocular                      । चूर्णातु प्रांगारीय calcium carbonate. ।
-। चतुर्दीर्घ tetradynamous                     । चोलtunic, integument                  ।
-। **चतुष्कोण वनद्राक्षा** Cissus qudrangularis । चोल-शल्क-पत्र tunicated scale-leaf     ।
-। **चन्द्रिका प्रजाति** Gynandropsis           । छत्रीय peltate                         ।
-। **चम्पक-प्रजाति** Michelia                   । छदशूकी spadix                          ।
-। चर active                                    । छेद section                            ।
-। चर्मल coriaceous                             । जटिल complex                           ।
-। चर्मलफल achene                               । जन्यु gamete                           ।
-। चर्मल-समूह -फल etaerio of achenes            । जन्यु-जनक gametophyte                  ।
-। चषक cyathium                                 । जन्युधर gametophore                    ।
-। चषक cup                                      । जन्युधानी gametangium                  ।
-। चषकाकार cup-shaped                           । जम्बीरक hespiridium                    ।
-। चालनी-नाल sieve tube                         । जम्बुकी iodine                         ।
-। चालनी-नाल-ऊति sieve-tube tissue              । जम्बुकी विलयन iodine solution          ।
-
-
-
-।                                         ।                                     ।
-।-----------------------------------------।-------------------------------------।
-। **जयन्ती-प्रजाति** Sesbania             । तन्तुमय अष्ठिफल fibrous drupe       ।
-। जरायु placenta.                         । तन्तुमय, तन्दुवत् fibrous           ।
-। **जरायु-कंकाल** replum                  । तन्तु-वाहीपूल fibro-vascular bundle ।
-। जरायुन्यास placentation                 । तरंगित crisped                      ।
-। जलवाही ऊति tracheal tissue              । तरंगित wavy                         ।
-। जलीय aquatic                            । तर्कुरूप fusiform                   ।
-। जलीय मूल aquatic root                   । तल plane                            ।
-। जलात्सर्गी hydathode                    । तल-दृश्य surface view               ।
-। जलोद्भिद् hydrophyte                    । **ताम्बूल पिप्पली** Piper betle     ।
-। **जानुमद् दुग्धी** Euphorbia geniculata । तीक्षण aacute                       ।
-। **जानुस्तम्भ-प्रजाति** Antigonon        । तुलसी-कुल Labiatae                  ।
-। जायांग gynaeceum                        । **तुलसी बन्धु–प्रजाति** Salvia      ।
-। जायांगभर gynophcre                      । तैल-गौलिका oil globule              ।
-। जारंक oxygen                            । त्वक्षा cork                        ।
-। जालवत् reticulate                       । त्वक्षि suberin                     ।
-। जालशाख्यन anastomosis                   । त्वक्ष-पट्टी casparian strip        ।
-। जालिकावत् reticulate                    । त्वक्षीयित suberisesd               ।
-। जिह्वित ligulate                        । त्वक्षैधा phellogen                 ।
-। **जीरी-प्रजाति** Vernonia               । त्रिपंक्तिक tristichous             ।
-। जीवाधार substratum                      । **त्रिवृता-प्रजाति** Ipomoea        ।
-। तट margin                               । द ( दली) C ( corolla)               ।
-। **तटपत्री-प्रजाति** Launaea             । देशक रोम stinging hair              ।
-। **तनुकेसर-प्रजाति** Tradescantia        । दंशरोम nettle                       ।
-। तनुभित्ति-जीवितक thin-walled parenchyma । दक्षुल तैल ethereal oil             ।
-।                                        । दण्डिका trabeculae                  ।
-।                                         । दण्डी seta                          ।
-
-
-
-।                                                ।                                             ।
-।------------------------------------------------।---------------------------------------------।
-। दन्तविम्ब-साधिव peristome apparatus            । दृढकोशाभित्तिक sclerenchyma                 ।
-। दन्तुर dentate                                 । दृढकोशाभित्ति तन्तु sclerenchymatous fibre. ।
-। दल petal                                      । दृढपूल stereid bundle                       ।
-। दलबद्ध, दलरुह epipetalous                      । दृढलोम bristle.                             ।
-। दलाभ petaloids                                 । दृतिपर्ण bladderwort                        ।
-। दली corolla                                    । **दृतिपर्ण-प्रजाति** Utricularia            ।
-। दलीय corolline                                 । **द्राक्षा-प्रजाति** Vitis                  ।
-। दाडिमक balusta                                 । **द्रोणपुष्प-प्रजाति** Leucas               ।
-। दारु xylem                                     । द्वि-उदुब्ज biconvex                        ।
-। दारु-जीवितक xylem parenchyma                   । द्विगह्वर bilocular                         ।
-। दारु वाहिनी xylem vessel                       । द्वितीय secondary                           ।
-। **दिनशोभा-प्रजाति** Hemerocallis               । द्वितीय मूल secondary root                  ।
-। दीर्घण prolongation                            । द्विदीर्घ didynarnous                       ।
-। दीर्घवृत्त oblong                              । द्विपंक्तिक distichous                      ।
-। **दीर्घवृत्त वृत्तान्त** Solanum seaforthianum । द्विपत्री बीज dicotyledonous seed           ।
-। दीर्घित elongated                              । द्विबीजपत्र dicotyledon                     ।
-। दीर्घितक prosenchyma                           । द्विबीजपत्राः Dicotyledons                  ।
-। **दुग्धघृषि-प्रजाति** Cryptostegia             । द्विबीजपत्री dicotyledonous                 ।
-। **दुग्धी-प्रजाति** Euphorbia                   । द्विमुण्डक dumbbell                         ।
-। दुर्बल weak                                    । द्विलिंगी पादप monoecious plant             ।
-। दुहितृ कोशा daughter-cell                      । द्विशाख dichasium                           ।
-। दृढकोशा stone celI                             । द्विसंलाग diadelphous                       ।
-।                                               । द्विसृट् biparous                           ।
-
-
-
-।                                           ।                                       ।
-।-------------------------------------------।---------------------------------------।
-। व्द्यण्डप bicarpellary                    । निदल sepal                            ।
-। व्द्यनीक bifacial,                        । निधरण keel, carina                    ।
-। व्द्योष्ठी bilabiate                      । निपत्र bract                          ।
-। धानी ascus                                । निपत्रक bracteole                     ।
-। धानी-बीजाणु ascospore                     । निपत्रचक involucre                    ।
-। धानीरस cell-sap                           । निपत्री bracteate                     ।
-। ध्वज vexillum                             । निप्रावर apophysis                    ।
-। नखर claw                                  । निभाग chalaza                         ।
-। नखरी unguiculate                          । निम्नता depression                    ।
-। नग्नधीज gymnosperm                        । नियमी regular                         ।
-। नग्नबीजाः Gymnosperms                     । निरूपण representation                 ।
-। **नग्नस्तम्भ तटपत्री** Launaea nudicaulis । निर्गम emergence                      ।
-। नलिनी lily                                । निर्माायी प्रदेश formative region     ।
-। नलिनीकुल Liliaceae                        । निर्यासोद mucilage                    ।
-। **नलिनी-प्रजाति** Lilium                  । निलम्ब suspensor                      ।
-। **नवनीत चष-प्रजाति** Ranunculus           । निलम्ब-शूकी catkin                    ।
-। नाडिका veinlet                            । निलम्बी hanging                       ।
-। नाड़ीविन्यास venation                      । **निवापदलीक-प्रजाति** Petunia         ।
-। नाल-काय body-tube (of microscope)         । निवापाकार infundibuliform             ।
-। नालचोली ochreate                          । निवेशन inserton                       ।
-। नालाकार tubular                           । निस्सादित precipitated                ।
-। **नासापुष्प-प्रजाति** Antirrhinum         । नीरकुप्यातु,-जम्बुकी chlor-zinciodine ।
-। निकलिकाविन्यास aestivation                । नेत्र - वीक्ष eye-piece               ।
-।                                          । नैकसपक्ष doublesamara                 ।
-।                                           । न्यष्टिका nucleolus                   ।
-
-
-
-।                                         ।                                  ।
-।-----------------------------------------।----------------------------------।
-। न्युद्वेष्टिन twisted, contorted        । परिजाय perigynous                ।
-। न्युब्ज concave                         । परिणाह periphery                 ।
-। पक्ष wing                               । परिदोली versatile (anther)       ।
-। पक्ष ala                                । परिपत्र perfoliate               ।
-। पक्षक pinna                             । परिपाची ऊतिassimilating tissrue ।
-। पक्षवत् pinnate                         । परिपुष्प perianth                ।
-। पक्षवद्-दर pinnati-fid                  । परिमाण size                      ।
-। पक्षवद्-विदर pinnati-partite            । परिरक्षित preserved              ।
-। पक्षवन्-निदर pinnati sect               । परिवलित convolute                ।
-। पंचपक्तिक pentastichous                 । परिवहण circulation               ।
-। पंचाण्डप pentacarpellary                । **परूपबन्धु-प्रजाति** Tilia      ।
-। पटी septum                              । पर्ण leaf                        ।
-। पटी-भंग-स्फोटना septifragal dehiscence । पर्ण-उपायोजन leaf-adaptation     ।
-। पटीमत् septate                          । पर्णकleaflet                    ।
-। पटी-स्फोटना septicidigal dehiscence    । पर्णक-संजनी leaflet-tendril      ।
-। पट्टकरूप strap-shaped                   । पर्णकार्यस्तम्भ phylloclade      ।
-। परजीवी parasite                         । पर्णकी pinnule                   ।
-। परजीवी मूल parasitic root               । पर्णखण्ड leaf-segment            ।
-। पररोही मूल epiphytic root               । पर्णन्यास phyllotaxis            ।
-। पराग pollen                             । पर्ण-प्रदाय leaf-trace           ।
-। पराग-कण pollen-grain                    । पर्णप्रदाय-पूल leaf-trace bundle ।
-। परागण pollination                       । पर्णवलना leaf-ptyxis             ।
-। परागवेश्म pollen-chamber                । पणवृत्त petiole                  ।
-। परागाशय anther                          । पर्णसदृश foliaceous              ।
-।                                        । पर्णांग fern                     ।
-
-
-
-।                                             ।                                      ।
-।---------------------------------------------।--------------------------------------।
-। पर्णाग-गोत्र Filicales                      । पार्श्व-पर्णक lateral leaflet        ।
-। पर्णागोद्भिदः Pteridophyta                  । पार्श्व-मूलक lateral rootlet         ।
-। पर्णाधार leaf-base                          । पार्श्व-शाखा lateral branch          ।
-। **पर्णासीपर्ण दुग्धी** Euphorbia thymifolia । पार्श्व-संयुग्मन lateral conjugation ।
-। पर्णेकपर्व cladode                          । **पार्श्वाप्य-प्रजाति** Pleurococus  ।
-। पर्यण्ड ovule                               । पालि lobe                            ।
-। पर्यावरण environment                        । पालिमत् lobed                        ।
-। पर्व internode                              । पाषाणवत् stony                       ।
-। पर्वसन्धि node                              । पिधान operculum                      ।
-। पलाश frond                                  । **पीत शोभा-प्रजाति** Hypericum       ।
-। पश्च posterior                              । **पीताक्षीर-प्रजाति**Latuca         ।
-। **पाकवदरी-प्रजाति** Ribes                   । पीनाक्ष thalamus                     ।
-। पाटलीय rosaceous                            । पीनाधार pulvinus                     ।
-। पाणिवद्-दर palmati-fid                      । पु (पुष्पकोश) K (calyx)              ।
-। पाणिवद्-विदर palmati-partite                । पुंशंकु staminate strobilus or cone  ।
-। पाणिवन्-निदर palmati-sect                   । पुंकेसर stamen                       ।
-। पाद foot                                    । पुंकेसरीय staminal                   ।
-। पादप plant                                  । पुंजन्यु male gamete                 ।
-। पादायुध spur                                । पुजायांगभर androgynophore            ।
-। पादायुधी दल spurred petal                   । पुंधानीantheridium                  ।
-। पारिभाषिक technical                         । पुमिन्द्रिय male organ               ।
-। पार्श्व leteral                             । पुंपुष्प male flower                 ।
-। पार्श्व-उपांगlateral appendage            ।                                     ।
-। पार्श्व-कलिका lateral bud                   ।                                      ।
-। पार्श्व-नाडी lateral vein                   ।                                      ।
-
-
-
-।                                ।                                         ।
-।--------------------------------।-----------------------------------------।
-। पुमंग androecium               । पृथङ्निदल polysepalous                  ।
-। **पुरुरक्त-प्रजाति** Dablia    । पृष्ठलग्ने dorsifixed                   ।
-। पुरुशाख polychasium            । पोषिता host                             ।
-। पुरुसंलाग poyadelphous         । प्रकार type, kind                       ।
-। **पुरसन्धि–प्रजाति** Polygonum । प्रकाशयम iris diaphragm(of microscope) ।
-। पुर्वण्डप polycarpellary      । प्रकिण्व yeast                          ।
-। पुष्प flower                   । प्रचूषण absorb, absorption              ।
-। पुष्पक floret                  । प्रजनन reproduction                     ।
-। पुष्पकोश calyx                 । प्रजननांग reproductive organ            ।
-। पुष्पपत्र floral leaf          । प्रजापतिरूप papilionaceous              ।
-। पुष्पविन्यास inflorescence     । प्रतानी climber                         ।
-। पुष्पवृन्त pedicel             । प्रथम मूल primary root                  ।
-। पुष्प-सम्मिति floral symmetry  । प्रदेह nucellus                         ।
-। पुष्पसूत्र floral formula      । **प्रनाग-प्रजाति** Dracaena             ।
-। पुष्प-रेखाचित्र floral diagram । प्रपाती deciduous                       ।
-। पुष्पी पादप Flowering Plants   । प्रबल strong                            ।
-। पुष्पी प्ररोह flowering shoot  । प्रबल अम्लिक रस strong acidic rap       ।
-। पूर्वानुपर successive          । प्रबुद्बुदन effervescence               ।
-। पूलकंचुक bundle sheath         । **प्रमंजिष्ठा-प्रजाति** Mussaenda       ।
-। पूलीय एधा fascicular cambium   । प्ररस protplasm                         ।
-। पृथक् पुंकेसर polyandrous      । प्ररस–परिवहण circulation of protoplasm  ।
-। पृथगण्डप apocarpous            ।                                        ।
-। पृथग्दल polypetalous           ।                                         ।
-। पृथग्दलीpolyetalous corolla   ।                                         ।
-
-
-
-।                                           ।                                    ।
-।-------------------------------------------।------------------------------------।
-। प्ररूप type                               । प्रावरवेष्ट calyptra               ।
-। प्ररोह shoot                              । प्रासवत् lanceolate                ।
-। प्रलोम glochidium                         । प्रोदल नील methyl blue             ।
-। प्रवर्ध process                           । प्रोभूजक pyrenoid                  ।
-। प्रवाल-मूल coralline root                 । प्रोभूजिन protein                  ।
-। **प्रवास्तुक-प्रजाति** Amarantus          । प्रोभूजिन-कण protein grain         ।
-। प्रवाह flow                               । फल fruit                         ।
-। प्रविभाजी meristematic                    । फलक lamina                         ।
-। प्रसामान्य normal                         । फलन-काय fruiting body              ।
-। प्रसीती grooved                           । फल-भित्ति pericarp                 ।
-। प्रहरिताः Hepaticae, Liverworts           । फलापकिरण dispersal of fruits       ।
-। प्रह्रसित reduced                         । बदरी berry                         ।
-। प्राक्ष rachis                            । बदरी-समूह-फल etaerio of berries    ।
-। प्रांकुर protonema                        । बन्ध adhesion                      ।
-। प्रांगार द्विजारय वाति carbon-dioxide gas । बहिःकोशepicalyx                   ।
-। प्रांगारिक organic                        । बहिरारम्भ exarch                   ।
-। प्राथमिक, primary                         । बहिर्वलित revolute                 ।
-। प्राथमिक संरचना primary structure         । **बहिवलित कंगुताल** Cycas revoluta ।
-। प्रादर्श specimen                         । बहिष्केन्द्र excentric             ।
-। प्रान्त margin                            । बहिःस्तर exodernmis                ।
-। प्रान्तीय marginal                        । बहीरेखा outline                    ।
-। प्रारूपिक typical                         । बहुकोशरोम multicellular hair       ।
-। प्रावरवेष्ट calyptra                      । बहुगव्हर multilocular              ।
-। प्रावर capsule                            । बहुन्यष्टित multinucleated         ।
-। प्रावरक theca                             ।                                   ।
-। प्रावर-भित्ति capsule wall                ।                                    ।
-
-
-
-।                                         ।                                            ।
-।-----------------------------------------।--------------------------------------------।
-। बहुप्रनाडीक multicostate                । बीजाणुजनिका sporogonium                    ।
-। बहुवीज many-seeded                      । बीजाणुधानी sporangium                      ।
-। बहुचीजस्फोटी फल capsular fruit          । बीजाणुपत्र sporophyll                      ।
-। बहुभुज polygonal                        । बीजाणु–स्यून spore-sac                     ।
-। बहुवर्व्यक्ष cyme                       । बीजोद्भिदः Spermatophyta                   ।
-। बहुवर्व्यक्षीय cymose                   । बीधागुच्छ sorus                            ।
-। बहुसृट् multiparous                     । बीधागोप indusium                           ।
-। बहुस्तर multilayered                    । बीधाभर sporangiophore                      ।
-। बाणवत् sagittate                        । बीधावलय annulus                            ।
-। **बालचंद्र कृष्णकमल** Passiflora lunata । **बृहत्पुष्प जयन्ती** Sesbania grandiflora ।
-। बाहु limb (of microscope)               । **ब्राह्मी-प्रजाति** Hydrocotyle           ।
-। बाह्य external                          । भंगजात कूप lysigenous cavity               ।
-। बाह्यक cortex                           । भंजरेखा crease                             ।
-। बाह्य कवच exine                         । **भारत अम्लिका** Tamarindus indica         ।
-। बाह्य गुण external characters           । **भारत कण्टफल** Xanthium strumarium        ।
-। बाह्य रचनाकार external morphology       । **भारत बब्बूल**Acacia arabica             ।
-। बिम्ब disc                              । भित्तिलग्न parietal                        ।
-। बिम्ब-पुष्पक disc-floret                । भिन्नन differentiation                     ।
-। बीज seed                                । भूमिगत underground                         ।
-। बीजचोल testa                            । भूयाति nitrogen                            ।
-। बीजपत्र cotyledon                       । भूयाति-स्थिरक nitrogen-fixing              ।
-। बीजाणु spore                            । भूयिक अम्ल nitric acid                     ।
-। बीजाणुजनक - sporophyte                  ।                                           ।
-
-
-
-।                                         ।                                          ।
-।-----------------------------------------।------------------------------------------।
-। भूयीय nitrate                           । मधुजन कणिका glycogen granule             ।
-। **भूशायिनी दुग्धी** Euphorbia prostrata । मधुरी glycerine                          ।
-। भूशायी prostrate                        । मध्य-आयाम-छेद median logitudinal section ।
-। **भूशायी कौशेयफल** Tridax procumbens    । मध्यक pith                               ।
-। भूस्तारिका offset                       । मध्यक-किरण medullary ray                 ।
-। भूस्तारी runner                         । मध्यदारुक hadrocentric                   ।
-। भेदन incision                           । मध्य-नाडी midrib                         ।
-। भ्रनि whorl                             । मध्यनाडीवलित conduplicate                ।
-। भ्रमियुग्म verticillaster               । मध्यपर्णोति mesophyll                   ।
-। भ्रमिरूप whorled                        । मध्यभित्ति mesocarp                      ।
-। भ्रूण embryo                            । मध्यरम्भ stele or centralcylinder       ।
-। भ्रूणपोष endosperm                      । मध्यरम्भवेष्ट pericycle                  ।
-। भ्रूणपोषी endospermic                   । मध्याधोवाहिक leptocentric                ।
-। भ्रूणमूल radicle                        । मध्यारम्भ mesarch                        ।
-। भ्रूणमूल-चोल coleorhiza                 । मध्योद्भिद् mesophyte                    ।
-। भ्रूणस्यून embryo-sac                   । मन्द dilute                              ।
-। भ्रूणाग्र plumule                       । मन्द मधुरी dilute glycerine              ।
-। भ्रूणाग्रचोल coleoptile                 । महावीजाणुपत्र megasporophyll             ।
-। मकरन्द honey                            । मार्ग-कोशा passage-cell                  ।
-। मकरन्द-ग्रन्थि neciary                  । मातृ-अक्ष mother axis                    ।
-। मक्षीभक्ष Venus' fly-trap               । मातृ-मूल mother root                     ।
-। **मक्षीभक्ष-प्रजाति** Dionaea           । माला series                              ।
-। मंच stage (of microscope)               । **माष मुद्ग** Phaseolus radiatus         ।
-। मण्ड starch                             ।                                         ।
-। मण्डकण starch grain                     ।                                          ।
-
-
-
-।                                             ।                                   ।
-।---------------------------------------------।-----------------------------------।
-। मिश्रित mixed                               । युक्तदल gamopetalous              ।
-। मुकुट corona                                । युक्तदली gamopetalous corolla     ।
-। मुख stomium                                 । युक्तनखर hypocrateriform          ।
-। मुख stomata                                 । युक्तनिदल gamosepalous            ।
-। मुण्डक capitulum                            । युक्तबीजाणु zygospore             ।
-। मुद्गरहरिता-गोत्र Lycopodiales              । युग्मवेश्म cremocarp              ।
-। मुद्गराकार club-shaped                      । युग्मशाखिता dichotomy             ।
-। मूल root                                    । युग्मशाखी dichotomous             ।
-। मूलक rootlet                                । युताण्डप syncarpous               ।
-। मूलप्रदेश root regions                      । योजी connective                   ।
-। मूलभूत fundamental                         । रक्षिकोशा guard cell              ।
-। मूलभूत ऊति- संहति fundamental tissue system । रचनाकार morphology                ।
-। मूलगोप root-cap                             । रचानाकारिकी morphology            ।
-। मूलरोम root-hair                            । रचनाकारीय morphological           ।
-। मूलरोम-प्रदेश root-hair region              । रचिति structure                   ।
-। मूल-संहति root system                       । रन्ध्री स्फोटना porous dehiscence ।
-। मूल-संजनी root-tendril                      । रम्भ cylinder                     ।
-। मूलाकन्दिका root tubercle                   । रम्भाकार cylindrical              ।
-। मूलाधिस्तर epiblema                         । रस sap                            ।
-। **मूलाश-प्रजाति** Striga.                   । रसधानी vacuole                    ।
-। मृतजीवी saprophyte                          । रसचदरी raspberry                  ।
-। मैथुन प्रजननsexual reproduction            । **राज आभरण** Poinciana regia      ।
-। मैथुन सायुज्यन sexual fusion                । **राहुरत्न प्रजाति** Eichhornia.  ।
-।                                            । रुण्डित truncate                  ।
-।                                             । रुण्डोद्वधीmucronate             ।
-।                                             । रुधद्वार trap-door                ।
-
-
-
-।                                     ।                                      ।
-।-------------------------------------।--------------------------------------।
-। **रूक्ष द्रोणपुष्प** Leucas as pera । वंजु oak                             ।
-। रूप form                            । **वनकुमारी-प्रजाति** Agave           ।
-। रेखाचित्र diagram                   । **वनद्राक्षा - प्रजाति** Cissus      ।
-। रेखावत् linear                      । **वन विलास-प्रजाति** Bougainvillaea  ।
-। रोम hair                            । **वन्द-प्रजाति** Vanda               ।
-। रोमवलय pappus                       । वन्ध्य sterile                       ।
-। रोमवलयफल cypsela                    । वन्ध्यकेसर staminode                 ।
-। रोमावरण ramentum of hairs           । वन्ध्यांशु paraphysis                ।
-। रोमावृत hairy                       । **वमदुग्धा-प्रजाति** Daemia          ।
-। रोमिका papilla                      । वयन texture                          ।
-। रोमिस्तर piliferous layer           । चरुथिका scutellum                    ।
-। लगुडि lignin                        । वर्णिघटन chromoplast                 ।
-। लगुडित lignifed                     । वर्धी vegetative                     ।
-। **लघुकर्णी-प्रजाति** Clematis       । वर्धी अग्र growing point             ।
-। लघुफल fruitlet                      । वर्धी अंग vegetative organ           ।
-। लघुबीजाणुपत्र microsporophyll       । वर्धी कुड्मन vegetative budding      ।
-। लज्जालु-अनुकुल Mimosoideae          । वर्धी प्रजनन vegetative reproduction ।
-। **लज्जालु-प्रजाति** Mimosa          । वर्धी प्रदेश growing region          ।
-। लताकरंज-अनुकुल Caesalpiniodeae      । वलक-मूल clinging root                ।
-। **लताकरंज-प्रजाति**Caesalpinia     । वलयाकार orbicular                    ।
-। वक्रकण्ट लज्जालुMimosa hamata      । वलयाकार annular                      ।
-। **वंग शणपट्ट** Crotalaria junced    । विलयिता twiner                       ।
-।                                    । वल्क bark                            ।
-।                                     । वातनरन्ध्र lenticel                  ।
-
-
-
-।                                         ।                                           ।
-।-----------------------------------------।-------------------------------------------।
-। बात-स्यून air-sac                       । विशालन-चीक्ष magnifying lens              ।
-। वायव्य aerial                           । विशालन-शक्ति magnifying power            ।
-। **वायुशिफ-प्रजाति** Rhizophora          । विशेष special                            ।
-। वार्षिक वलय annual ring                 । विप्रम odd                                ।
-। वाही vascular                           । **विस्तारी मंजिष्ठाबन्धु** Hamelia patens ।
-। वाही ऊति vascular tissue                । वीक्ष lens                                ।
-। वाही ऊति-संहति vascular tissue system   । वीक्षधर nose - piece                      ।
-। वाही एधा vascular cambium               । वृक्काकार reniform                        ।
-।                                         । **वृतिकण्ट-प्रजाति** Duranta              ।
-। वाही कोशा tracheid                      । वृन्तफलक phullode                         ।
-।                                         । **वृन्तफलक वव्वूल** Acacia decurrens.     ।
-। वाही पट्ट vascular strand               । वृन्तमध्यस्थ interpetiolar                ।
-। वाही पूल vascular bundle                । वृन्तयु hilum                             ।
-। वाही रम्भ vascular cylinder             । वेश्मस्फोटी फल schizocarpic fruit         ।
-। विकास-कुन्तल genetic spiral             । व्यत्यस्त decussate                       ।
-। **विकुसुम्भ-प्रजाति**Tropaeolum       । व्यवधान-भित्ति partition-wall             ।
-। विचाली anomalous                        । व्यवस्थापन adjustment                     ।
-। विच्छेदन-अण्वीक्षdissecting microscope । **शतावरी-प्रजाति** Asparagus              ।
-। विधा process                            । **शर्कराकवक-प्रजाति** Saccharomyces       ।
-। विन्यास arrangement                     । शल्क scale                                ।
-। विमा dimension                         । शल्क-निपत्र scaly bract                   ।
-। विरोह stolon                            ।                                          ।
-। विलयन solution                          ।                                           ।
-। विलेय soluble                           ।                                           ।
-। विवृत ringent                           ।                                           ।
-
-
-
-।                                     ।                                        ।
-।-------------------------------------।----------------------------------------।
-। शल्कपत्र scale-leaf                 । शिम्बि-कुल Leguminosae                 ।
-। शल्कावरण rementum of scales         । **शिम्बि कुलत्थ** Dolichos lablab      ।
-। शल्कि tannin                        । **शुक-प्रजाति** Bignonia               ।
-। शल्य spine                          । शुक्तिक अम्ल acetic acid               ।
-। शल्यरूप spiny                       । शुण्डरूप conical                       ।
-। शल्यावृत spiny                      । शुष्क dry                              ।
-। **शाक प्रवास्तुक** Amarantus blitum । शुष्कोद्भिद् xerophyte                 ।
-। शाकाणु bacterium                    । शुकिका spikelet                        ।
-। शाकाणु-ग्रन्था bacterial nodule     । शूकी spike                             ।
-। शाकीय herbaceous                    । शूकीछद spathe                          ।
-। शाखा branch                         । श्रृंखला chain                         ।
-। शाखाविन्यास branching               । **शेफालिबन्धु-प्रजाति** Avicennia      ।
-। शाखी branched                       । **शोभा वनाम्लिका** Pithecolobium saman ।
-। शाद chlorophyll                     । श्लेष्म mucus                          ।
-। **शादाप्यकाः** Chlorophyceae        । श्वसन-कूप respiratory cavity           ।
-। शादिघटन chloroplast                 । श्वसन-मूल pneumatophore                ।
-। शादी जीवितक chlorenchyma            । श्वितिमत् albuminous                   ।
-। शारीर antomy                        । श्वितिरहित exalbuminous                ।
-। शिथिल loose                         । श्वेता Mucor                           ।
-। शिथिल जीवितक spongy parenchyma      । **श्वेता-प्रजाति** Mucor               ।
-। शिफमध्वि phloroglucin               । **षोडशदन्त-प्रजाति** Funaria           ।
-। शिफाभ rhizoid                       । संयुक्त compound                       ।
-। शिफावृन्त rhizome                   । संयुक्त अण्वीक्ष compound microscope   ।
-। शिम्बि legume                       ।                                       ।
-
-
-
-।                                    ।                                        ।
-।------------------------------------।----------------------------------------।
-। संयुक्त कन्द compound bulb         । संजनी tendril                          ।
-। संयुग्मन conjugation               । **संजनीपत्र त्रिपुट**Lathyrus aphaca  ।
-। संयुग्मन नाल conjugation tube      । संजनीरूप tendrillar                    ।
-। संयुताष्ठि compound drupe          । सत्यपत्र foliage leaf                  ।
-। संयोजी ऊति conjunctive tissue      । सन्धि articulation                     ।
-। संलाग cohesion                     । सपक्ष winged, samara                   ।
-। संवाही पट्टconducting strand       । समतल plane                             ।
-। संवृत personate                    । समपक्षवत् paripinnate                  ।
-। संवृतबीज angiosperm                । समान्तर parallel                       ।
-। संवृतबीजाःः Angiosperms            । समुण्ड रोम capitate hair               ।
-। **संवेल्लनी-प्रजाति**Jacquemontia  । समूह-फल aggregate fruit,etaerio        ।
-। **संवेल्लिका-प्रजाति** Convolvulus । संपरागाशय syngenesious,synantherous    ।
-। संहति system                       । संपरिवर्तन modification                ।
-। सखि-कोशा companion cell            । संपरिवर्तित modified                   ।
-। संकेन्द्र concentric               । सरल simple                             ।
-। सकेन्द्र पूल concentric bundle     । **सरल-प्रजाति** Pinus                  ।
-। संकेन्द्रित concentrated           । सरस succulent                          ।
-। संग्रथित कुल Compositae            । सरसाक्ष sorosis                        ।
-। संग्रथित फल composite fruit        । सर्पी स्तम्भ creeping stem             ।
-। संघनित condensed                   । सवृन्त pedicillate, petiolate          ।
-। संचालभित्ति caryopsis              । सशल्क कन्द scaly bulb                  ।
-।                                   । सशल्य spiny                            ।
-।                                    । साशीख acuminate                        ।
-।                                    । साकन्द tuberous                        ।
-।                                    । **सामान्य अग्निशिखा** Gloriosa superba ।
-
-
-
-।                                                   ।                                            ।
-।---------------------------------------------------।--------------------------------------------।
-। **सामान्य अशोक **Saraca indica                    । **सामान्य बाह्यक **general cortex          ।
-। **सामान्य उदस्फोट **Caesulia axillaris            । **सामान्य भूमुद्र **Arachishypogaea        ।
-। **सामान्य उष्ट्रकण्ट **Echinops echinatus         । **सामान्य मसूर **Lens esculentus           ।
-। **सामान्य कुसुम्भ **Carthamus tinctorius          । **सामान्य मुद्र **Phasaeolus mungo         ।
-। **सामान्य खरमंजरी **Achyranthes aspera            । **सामान्य राजमाष **Vigna cat jung          ।
-। **सामान्य गुंजा **Abrus precatorius               । **सामान्य लज्जालु **Mimosa pudica          ।
-। **सामान्य चणक **Cicer arietinum                   । **सामान्य लताकरंज **Caesalpinia bonducella ।
-। **सामान्य चिपिटस्तम्भ **Muehlenbeckia platyclados । **सामान्य लोणी **Portulaca oleracea       ।
-। **सामान्य तुवरी **Cajanus indicus                 । **सामान्य शमी **Prosopis spicigera         ।
-। **सामान्य दूर्वा **Cynodon dactylon               । **सामान्य शिशपा **Dalbergia sissoo         ।
-। **सामान्य पर्णास **Mentha arvensis                । **सामान्य शिरीष **Albizzia lebbeck         ।
-। **सामान्य पलाण्डु **Allium cepa                   । **सामान्य शृगालकण्ट **Argemone mexicana    ।
-। **सामान्य पलाश **Butea frondosa                   । **सामान्य सितसुमन **Leucaena glauca        ।
-। **सामान्य प्रशूली** Parkinsonia aculeata          । **सामान्य सूर्यमुखी** Heliant bus annuur   ।
-
-
-
-।                                             ।                                                      ।
-।---------------------------------------------।------------------------------------------------------।
-। **सितकुसुम-प्रजाति** Yucca                  । स्कम्भोति palisade tissue                            ।
-। सितघटन leucoplast                           । स्तम्भ stem                                          ।
-। सीता furrow                                 । स्तम्भिका columella                                  ।
-। **सुन्दर लताकरंज** Caesal pinia pulcherrima । स्तर layer                                           ।
-। **सुभगा-प्रजाति** Zinnia                    । स्त्री-जन्यु female gamete                           ।
-। सुषिर hollow                                । स्त्रीजन्यु-जनक female gametophyte                   ।
-। सुषिर fistular                              । स्त्री-निलम्बशूकीfemale catkin                       ।
-। सुषिरक lumen                                । स्त्रीन्द्रिय female organ                           ।
-। सूकायक prothallus                           । स्त्री-पुष्प female flower                           ।
-। सूकायोद्भिदः Thallophyta                    । स्थानसीमित localised                                 ।
-। सूक्ष्म व्यवस्थापन fine adjustment          । स्थायी permanenttissue                              ।
-। सूची needle                                 । स्थायी अण्वीक्ष-निर्मिति permanent micro-preparation ।
-। सूचीवत् acicular                            । स्थायी ऊति permanent tissue                          ।
-। सूत्र filament                              । स्थायी प्रदेश permanentregion                       ।
-। सूत्रमय filamentous                         । स्थितिकाल duration                                   ।
-। सूत्रवत् कोशापट्ट filamentous cell-plates   । स्थूलकोण collenchyma                                 ।
-। **सूरणबन्धु प्रजाति**Caladium              । स्थूलभित्ति thick-walled                             ।
-। **सूर्यावर्त प्रजाति** Heliotropium         । स्थूलभित्ति जीवितक thick-walled parenchyma           ।
-। सृप slide                                   ।                                                     ।
-। सेवनी raphe                                 ।                                                      ।
-। सोपान-संयुग्मन scalariform conjugation      ।                                                      ।
-। स्कम्भ column                               ।                                                      ।
-
-
-
-।                                    ।                                          ।
-।------------------------------------।------------------------------------------।
-। स्थूल व्यवस्थापन coarse adjustment । **स्वादु कलाय** Pisum sativum            ।
-। स्पटगोल sphaerite                  । **स्वादु वनाम्लिका** Pithecolobium dulce ।
-। स्फटपिण्ड sphaeraphide             । हर denominator                           ।
-। स्फटपुंज crystalline mass          । हरिता moss                               ।
-। स्फटसूची raphide                   । हरिताः Musci                             ।
-। स्फटाभ crystalloid                 । हरितोद्भिदः Bryophyta                    ।
-। स्फोटना dehiscence                 । हरिनील glaucous                          ।
-। स्फोटी वेश्म coccus                । **हर्यानील दुग्धी** Euphorbia rothiana   ।
-। स्फोटि-वेश्मी regma                । **हृत्पर्ण अजर** Ageratum conyzoides     ।
-। स्फोटी dehiscent                   । **हृत्पर्ण बला** Sida cordifolia         ।
-। **स्त्रवपर्ण-प्रजाति** Notonia     । हृद्वत् cordate                          ।
-। स्त्रववत् spathulate               । हृष senstive                             ।
-। स्वरूप nature                      । **हेमपुष्प-प्रजाति** Chrysanthemum       ।
-। स्वरूप habit                       ।                                         ।
-। **स्वर्णक्षीरी-प्रजाति** Cleome    ।                                          ।
-। स्वस्तिकाकार cruciform             ।                                          ।
+|                                         |                                           |
+|-----------------------------------------|-------------------------------------------|
+| अंश numerator                           | अण्डप carpel                              |
+| अंशु filament                           | अण्डपमर carpophore                        |
+| अशुसंलाग adelphous                      | अण्डवत् ovate                             |
+| अक्ष axis                               | अण्डाकार oval                             |
+| अक्षलग्न axile                          | अण्डाशय ovary                             |
+| अक्षि mesh                              | अण्वीक्ष microscope                       |
+| अखण्ड प्रविभाजीcontinuos meristem      | अण्वीक्ष-निर्मिति microscopic preparation |
+| अग्र anterior, apex                     | अतिछादित overlapped                       |
+| अग्र-कलिका apical bud                   | अद्विलिंगी dioecious                      |
+| अग्रचोल caruncle, aril                  | अधर ventral, inferior                     |
+| अग्रवलित circinate                      | अधर सेवनी ventral suture                  |
+| अग्राभिवर्धी क्रमacropetal succession  | अधःस्तर hypodermis                        |
+| अंगक tentacle                           | अधिमूल tap-root                           |
+| अचर passive                             | अधिमूल संहति tap-root system              |
+| अण्ड egg                                | अधिस्तर epidermis                         |
+| अण्डकोशा egg-cell                       | अधिस्तरीय epidermal                       |
+| अण्डद्वार micropyle                     | आधिस्तरीय उपांग epidermal appendage       |
+| अण्डधानी venter                         |                                          |
+| अण्डधानी-कुल्या-कोशा ventral canal cell |                                           |
+
+
+
+|                                                           |                                             |
+|-----------------------------------------------------------|---------------------------------------------|
+| ओधाजाय hypogynous                                         | अधिस्तरीय ऊति संहति epidermal tissue system |
+| अधोबीजपत्र hypocotyl                                      | अनेधावी (फूल) closed (bundle)               |
+| अधोभूमिक hypogeal                                         | अन्तराकोश अवकाश intercellular space         |
+| अधोभूस्तारी sucker                                        | अन्तरापूल interfascicular                   |
+| अधोवाहां phloem                                           | अन्तरापूल एधा interfascicular cambium       |
+| अधोवाही जीवितकphloem parenchyma                          | अन्तरारम्भ endarch                          |
+| अनतिछादी valvate                                          | अन्तराल interval                            |
+| अनिपत्री ebracteate                                       | अन्तर्नित्तिendocarp                       |
+| अनियमछादी imbricate                                       | अन्तर्वर्धingrowth                         |
+| अनियमी irregular                                          | अन्तर्वलित involute                         |
+| अनुपत्र stipule                                           | अन्तर्वलित कंगुताल Cycas circinalis         |
+| अनुपत्री stipulate                                        | अन्तर्विष्ट intercalary                     |
+| अनुप्रस्थ transverse                                      | अन्तश्चोलtegmen                            |
+| अनुप्रस्थ तल transverse plane                             | अन्तःस्तर endodermis                        |
+| अनुप्रस्थभेदी lomentum                                    | अपकिरण dispersal                            |
+| अनुप्रस्थभेदी बदरीय शिम्बि lomentaceous beriaceous legume | अपटीमत् aseptate                            |
+| अनुप्रस्थभेदी शिम्बि lomentaceous legume                  | अवर्णस्तम्भ-प्रजाति Psilotum                |
+| अनुत्पत तैल fatty oil                                     | अपसार कोण angle of divergenec               |
+| अनुदारु metaxylem                                         | अपसारित diverged                            |
+
+
+
+|                                      |                                     |
+|--------------------------------------|-------------------------------------|
+| अपमारी divergent                     | अलग्न-केन्द्रस्थ free-central       |
+| अपाक्ष abaxial                       | अलाबुक pepo                         |
+| अप्रवेश्य impervious                 | अवकाश space                         |
+| अभिन्न undifferentiated              | अवयव limb                           |
+| अभिन्न entire                        | अवरोही descending                   |
+| अभिमुख opposite                      | अवलित plane                         |
+| अभिरंजन stain                        | अवृन्त sessile                      |
+| अभिरंजित stained                     | अशाखी unbranched                    |
+| अभिलग्न adnate                       | **अश्मान्तक प्रजाति** Coleus        |
+| अभिसारित converged                   | अश्ववार-गोत्र Equisetales           |
+| अभिसारी convergent                   | अष्ठफल drupe                        |
+| अभिहृद्वत् otcordate                 | अष्ठि-समूह-फल etaerio of drupes     |
+| अभूम्याकृष्ट negatively geofropic    | असमपक्षवत imparipinnate             |
+| **अभ्यण्डपर्ण कासमई** Cassia obovata | असम्मित asymmetrical                |
+| अभ्यण्डवत् obovate                   | अस्फोटी indehiscent                 |
+| अध्रूणपोषी non-endospermic           | आकन्द tuber                         |
+| **अमरवल्लि- प्रजाति** Cuscuta        | आकार shape                          |
+| अमैथुन प्रजनन asexual reproduction   | आकारिकी morphology                  |
+| अरशीर्षि inulin                      | आकर्षण attraction                   |
+| अरसम्मित actinomorphic               | आक्षीर latex                        |
+| अरीय radiating, radial               | आक्षीरी ऊति laticiferous tissue     |
+| **अर्के- प्रजाति** Calotropis        | आक्षीरी कोशा laticiferous cell      |
+| अर्ध half                            | आक्षांरी वाहिनी laticiferous vessel |
+|                                     | आगन्तुक adventitious                |
+
+
+
+|                                             |                                      |
+|---------------------------------------------|--------------------------------------|
+| आगन्तुक कलिका adventitious bud              | आयामवलित plicate                     |
+| आगन्तुक मूल-संहाते adventitious root system | आयाम-स्फोटना longitudinal dehiscence |
+| आच्छादित superosed                          | आरावत् serrate                       |
+| आदर्श ideal                                 | आरोपण mounting                       |
+| आदि-दृति primordial utricle                 | आरोही liane                          |
+| आदिदारु protoxylem.                         | आरोही ascending                      |
+| आदियोनि archegonium                         | आवरण-खण्ड cover-slip                 |
+| आदियोनि-वेश्म archegonial chamber           | आशय bladder                          |
+| आद्य प्रविभाजी primary meristem             | आनुपाती caducous                     |
+| आधार base                                   | आसजन attachment                      |
+| आधार-उक्ति ground tissue                    | आसंजन-स्थान place of attachment      |
+| आधारलग्न basal, basifixed                   | **आस्तारी गेन्दुक** Tagetes patula   |
+| आन्तरकवच intine                             | **आहरिपुष्प-प्रजाति** Ruscus.        |
+| आन्तरजात endogenous                         | **ईश्वरा-प्रजाति Ixora**             |
+| आन्तरतम innermost                           | **उग्रगंध पलाण्डु** Allium sativa    |
+| आपद्म-प्रजाति Dianthus                     | उच्चर्म cuticle                      |
+| आपणग-प्रजाति Nephrolepis                    | उच्चर्मिcutin                       |
+| आप्यक alga                                  | उच्चर्मीयित cutinised                |
+| आप्यकाः Algae                               | उच्छत्र umbel                        |
+| आयाम longitudinal                           | उत्कोलक pome                         |
+| आयाम - छेद longitudinal section             | उत्तर dorsal,                        |
+|                                            | उत्तर secondary, superior            |
+|                                             | अधोवाही secondary phloem             |
+
+
+
+|                                          |                                              |
+|------------------------------------------|----------------------------------------------|
+| उत्तर दारु secondary xylem               | उद्यास resin                                 |
+| उत्तर प्रविभाजी secondary meristem       | उद्यास-कुल्या resin canal                    |
+| उत्तर बाह्यक secondary cortex            | उद्वर्ध outgrowth                            |
+| उत्तर मध्यक किरण secondary medullary ray | उन्देक्षीय hygroscopic                       |
+| उत्तर वृद्धि secondary growth            | उप-कलिका accessory bud                       |
+| उत्तर सेवनी dorsal suture                | उपत्वक्षा phelloderm                         |
+| उत्तराधर dorsiventral                    | उपरिजाय epigynous                            |
+| उत्थ erect                               | उपरिभूमिक epigeal                            |
+| उत्सर्ग excretion                        | उपशाखा daughter-branch                       |
+| उत्स्वेदन transpiration                  | उप-संक्रामण-ऊति accessory transfusion tissue |
+| उदग्र vertical                           | उपाक्ष daughter-axis                         |
+| उदग्रपंक्ति orthostichy.                 | उपांग appendage                              |
+| उदनीरिक अम्ल hydrochloric acid           | उपाण्डवत् elliptic                           |
+| **उदावर्त-प्रजाति** Hydrilla             | उपाधिस्तरीय subepidermal                     |
+| उदासर्ग secretion                        | उपायोजन adaptation                           |
+| उदुब्ज convex                            | उभयतोविकासी scorpioid                        |
+| उदुम्बरक syconus                         | उभयपार्श्वस्थ bicollateral                   |
+| उद्भव origin                             | उपसि विलयन eosin solution                    |
+| उद्भेदन germination                      | ऊति tissue                                   |
+| उद्भेदी बीजाणु germination spore        | एककोश unicellular                           |
+|                                         | एककोश रोम unicellular hair                   |
+|                                          | एकगह्वर unilocular                           |
+|                                          | एकोविकासी helicoid                           |
+|                                          | एकपत्री बीज monocotyledonous seed            |
+
+
+
+|                                                  |                                         |
+|--------------------------------------------------|-----------------------------------------|
+| एकपार्श्वस्थ collateral                          | एकसेवनीक-समूह-फल etaerio of follicles   |
+| एकपार्श्वस्थ वाही पूलcollateral vascular bundle | एकाक्षी monopodium                     |
+| एकप्रनाडीक unicostate                            | एकाक्षी monopodial                     |
+| एकबीज one seeded                                 | एकाण्डप monocarpellary                  |
+| एकबीजपत्र monocotyledon                          | एकान्तर, एकान्तारेक alternate           |
+| एकबीजपत्राः Monocotyledonous                     | एकास्फोटी mericarp                      |
+| एकबीजपत्री monocotyledonous                      | एकिफल simple fruit                      |
+| एकबीजास्फोटी फलachenial fruit                   | एधा cambium                            |
+| एकरूप identical                                  | एधान्तर ऊति intracambial tissue         |
+| एकवर्थ्यक्ष raceme                               | एधाबाह्य ऊति extra-cambial tissue       |
+| एकवर्ध्यक्षीय racemose                           | एधावी (पुल) open (bundle )              |
+| एकल solitary, single                             | औतिक मिन्नन histologial differentiation |
+| एकलस्तर unilayered                               | कक्ष axil                               |
+| एकलिंग unisexual                                 | कक्ष-कलिका axillary bud                 |
+| एकलिंगी पादप dioecious plant                     | कक्ष-पुष्प axillary flower              |
+| एकशाख monochasium                                | कक्षस्थ axillary                        |
+| एकसंलाग monadelphous                             | **कंकती-प्रजाति** Abutilon              |
+| एकसम्मित zygomorphic                             | कंगुताल-गोत्र Cycadales                 |
+| एकसम्मिति zygomorphy                             | **कंगुताल-प्रजाति** Cycas               |
+| एकसृट् uniparous                                 | कंचुक sheath                            |
+| एकसेवनीक follicle                                | कटिबन्ध zone                            |
+|                                                 | कठिन hard                               |
+|                                                  | कठिन अधोवाही hard bast                  |
+
+
+
+|                                        |                                       |
+|----------------------------------------|---------------------------------------|
+| कणात्मक granular                       | काष्ट वाहिनी woodvvessel              |
+| काणका granule                          | काष्ठीय woody                         |
+| **कण्टक वृत्ताक**Solanum xanthocarpum | **कासमर्द-प्रजाति** Cassia            |
+| **कण्टाल-प्रजाति** cactus             | किण scar                              |
+| कन्द bulb                              | किण्वन fermentation                   |
+| कन्दगर्भ disc                          | कीटाश insectivorous                   |
+| कन्दिका corm                           | **कीटाश-प्रजाति** Drosera             |
+| **करवीर बन्धु-प्रजाति** Vinca          | कुक्षिवृन्त style                     |
+| **करीर-प्रजाति** Capparis              | कुक्षिबिम्ब stigmatic disc            |
+| कलश pitcher                            | कुट्टिमदारु maple                     |
+| **कलशपर्ण-प्रजाति** Nepenthes          | कुड्म bud                             |
+| कलश-पादप pitcher-plant                 | **कुन्तपर्ण त्रिवृता** Ipomea hastata |
+| कला membrane                           | कुन्तल spiral                         |
+| कलावत् membranous                      | कुन्तलपुष्प spiral flower             |
+| कलिका bud                              | कुन्तलवत् spiral                      |
+| कवक fungus                             | **कुन्तलवलय-प्रजाति** Spirogyra       |
+| कवक-जाल mycelium                       | कुन्तलवलयित spirally coiled           |
+| कवक-सूत्र hypha                        | कुन्तवत् hastate                      |
+| कवकानि Fungi                           | **कुमारी-प्रजाति** Aloe               |
+| **कांचनार-प्रजाति** Bauhinia           | **कुम्भिका-प्रजाति** Pistia           |
+| काय body                               | कुम्भीरूप napiform                    |
+| कार्य function                         | कूट false                             |
+| काष्ठ-जीवितकwood parenchyma           | कूट ridge                             |
+| काष्ठ-तन्तु wood fibre                 | कूटपटी false septum                   |
+| काष्ठफल nut                            | कूटपटीक siliqua                       |
+|                                       | कूटपटीका silicula                     |
+
+
+
+|                                     |                                        |
+|-------------------------------------|----------------------------------------|
+| कूट ग्रग्मशाखिता false dichotomy    | **खरमंजरी प्रजाति** Achyranthes        |
+| कूपक areole                         | **गजपिप्पली-प्रजाति** Pothos           |
+| कूपी-कूर्च bottle-brush             | **गन्धराज नाडीहिंगु** Gardenia florida |
+| **कृष्ण तुलसी** Ocimum sanctum      | **गन्धुल-प्रजाति** Sambucus            |
+| कृष्णवदरी blackberry                | गर्त pit                               |
+| केन्द्रापग दारु centrifugal xylem   | गर्तकी retuse                          |
+| केद्राभिग दारु centripetal xylem    | **गर्तकी शणपट्ट** Crotalaria retusa    |
+| केन्द्रीय central                   | गर्ती pitted                           |
+| कोशाघट idioblast                    | गर्ती emarginate                       |
+| कोशाधु cellulose                    | गह्वर loculus                          |
+| कोशाभित्ति cell-wall                | गह्वर-स्फोटना locuilcidal dehiscence   |
+| कोशाश्म cystolith                   | गुण features                           |
+| कौणिक angular                       | गूढपंचनखर caryophyllaceocs             |
+| **कौशेयफल-प्रजाति** Tridax,         | गोलछिन्न crenate                       |
+| क्रियाशील active                    | गोलाकार round                          |
+| **क्षेत्र सहदेवी** Sonchus arvensis | गोलिका globule                         |
+| खण्ड segment                        | गौण कोशा subsidiary cell               |
+| **खदिर बब्बूल** Acacia catechu      | ग्रन्थि gland                          |
+| खानिज-काय mineral body              | ग्रन्थिमय glandular                    |
+| खनिजगुलिका globoid                  | ग्रन्थिरोम glandular hair              |
+| खनिज निक्षेप mineral deposit        | ग्रन्थीय ऊति glandular tissue          |
+|                                    | ग्रीवा neck                            |
+|                                     | ग्रीवा-कोशा neck-cell                  |
+
+
+
+|                                              |                                        |
+|----------------------------------------------|----------------------------------------|
+| घटन plastid                                  | चालनी पट्ट sieve plate                 |
+| घण्टाकार campanulate                         | चित्रकुट्टिम mosaic                    |
+| घण्टावल्लरी railway creeper                  | चिपिट flat flattened                   |
+| **घातपर्ण–प्रजाति**Bryophyllum              | चिपिटक corymb                          |
+| चक्रित rotate                                | चिपिटगुच्छ candituft                   |
+| चक्री पुष्प cyclic flower                    | **चिपिटस्तम्भ-प्रजाति** Muehlenbeckia  |
+| चंचु beak                                    | चिरलग्न persistent                     |
+| चणक-अनुकुल Papilionatae                      | **चीनमूल- प्रजाति** Smilax             |
+| चतुरादिवेश्म carceralus                      | चूर्णातु तिग्मीय calcium oxalate       |
+| चतुर्गह्वर tetralocular                      | चूर्णातु प्रांगारीय calcium carbonate. |
+| चतुर्दीर्घ tetradynamous                     | चोलtunic, integument                  |
+| **चतुष्कोण वनद्राक्षा** Cissus qudrangularis | चोल-शल्क-पत्र tunicated scale-leaf     |
+| **चन्द्रिका प्रजाति** Gynandropsis           | छत्रीय peltate                         |
+| **चम्पक-प्रजाति** Michelia                   | छदशूकी spadix                          |
+| चर active                                    | छेद section                            |
+| चर्मल coriaceous                             | जटिल complex                           |
+| चर्मलफल achene                               | जन्यु gamete                           |
+| चर्मल-समूह -फल etaerio of achenes            | जन्यु-जनक gametophyte                  |
+| चषक cyathium                                 | जन्युधर gametophore                    |
+| चषक cup                                      | जन्युधानी gametangium                  |
+| चषकाकार cup-shaped                           | जम्बीरक hespiridium                    |
+| चालनी-नाल sieve tube                         | जम्बुकी iodine                         |
+| चालनी-नाल-ऊति sieve-tube tissue              | जम्बुकी विलयन iodine solution          |
+
+
+
+|                                         |                                     |
+|-----------------------------------------|-------------------------------------|
+| **जयन्ती-प्रजाति** Sesbania             | तन्तुमय अष्ठिफल fibrous drupe       |
+| जरायु placenta.                         | तन्तुमय, तन्दुवत् fibrous           |
+| **जरायु-कंकाल** replum                  | तन्तु-वाहीपूल fibro-vascular bundle |
+| जरायुन्यास placentation                 | तरंगित crisped                      |
+| जलवाही ऊति tracheal tissue              | तरंगित wavy                         |
+| जलीय aquatic                            | तर्कुरूप fusiform                   |
+| जलीय मूल aquatic root                   | तल plane                            |
+| जलात्सर्गी hydathode                    | तल-दृश्य surface view               |
+| जलोद्भिद् hydrophyte                    | **ताम्बूल पिप्पली** Piper betle     |
+| **जानुमद् दुग्धी** Euphorbia geniculata | तीक्षण aacute                       |
+| **जानुस्तम्भ-प्रजाति** Antigonon        | तुलसी-कुल Labiatae                  |
+| जायांग gynaeceum                        | **तुलसी बन्धु–प्रजाति** Salvia      |
+| जायांगभर gynophcre                      | तैल-गौलिका oil globule              |
+| जारंक oxygen                            | त्वक्षा cork                        |
+| जालवत् reticulate                       | त्वक्षि suberin                     |
+| जालशाख्यन anastomosis                   | त्वक्ष-पट्टी casparian strip        |
+| जालिकावत् reticulate                    | त्वक्षीयित suberisesd               |
+| जिह्वित ligulate                        | त्वक्षैधा phellogen                 |
+| **जीरी-प्रजाति** Vernonia               | त्रिपंक्तिक tristichous             |
+| जीवाधार substratum                      | **त्रिवृता-प्रजाति** Ipomoea        |
+| तट margin                               | द ( दली) C ( corolla)               |
+| **तटपत्री-प्रजाति** Launaea             | देशक रोम stinging hair              |
+| **तनुकेसर-प्रजाति** Tradescantia        | दंशरोम nettle                       |
+| तनुभित्ति-जीवितक thin-walled parenchyma | दक्षुल तैल ethereal oil             |
+|                                        | दण्डिका trabeculae                  |
+|                                         | दण्डी seta                          |
+
+
+
+|                                                |                                             |
+|------------------------------------------------|---------------------------------------------|
+| दन्तविम्ब-साधिव peristome apparatus            | दृढकोशाभित्तिक sclerenchyma                 |
+| दन्तुर dentate                                 | दृढकोशाभित्ति तन्तु sclerenchymatous fibre. |
+| दल petal                                      | दृढपूल stereid bundle                       |
+| दलबद्ध, दलरुह epipetalous                      | दृढलोम bristle.                             |
+| दलाभ petaloids                                 | दृतिपर्ण bladderwort                        |
+| दली corolla                                    | **दृतिपर्ण-प्रजाति** Utricularia            |
+| दलीय corolline                                 | **द्राक्षा-प्रजाति** Vitis                  |
+| दाडिमक balusta                                 | **द्रोणपुष्प-प्रजाति** Leucas               |
+| दारु xylem                                     | द्वि-उदुब्ज biconvex                        |
+| दारु-जीवितक xylem parenchyma                   | द्विगह्वर bilocular                         |
+| दारु वाहिनी xylem vessel                       | द्वितीय secondary                           |
+| **दिनशोभा-प्रजाति** Hemerocallis               | द्वितीय मूल secondary root                  |
+| दीर्घण prolongation                            | द्विदीर्घ didynarnous                       |
+| दीर्घवृत्त oblong                              | द्विपंक्तिक distichous                      |
+| **दीर्घवृत्त वृत्तान्त** Solanum seaforthianum | द्विपत्री बीज dicotyledonous seed           |
+| दीर्घित elongated                              | द्विबीजपत्र dicotyledon                     |
+| दीर्घितक prosenchyma                           | द्विबीजपत्राः Dicotyledons                  |
+| **दुग्धघृषि-प्रजाति** Cryptostegia             | द्विबीजपत्री dicotyledonous                 |
+| **दुग्धी-प्रजाति** Euphorbia                   | द्विमुण्डक dumbbell                         |
+| दुर्बल weak                                    | द्विलिंगी पादप monoecious plant             |
+| दुहितृ कोशा daughter-cell                      | द्विशाख dichasium                           |
+| दृढकोशा stone celI                             | द्विसंलाग diadelphous                       |
+|                                               | द्विसृट् biparous                           |
+
+
+
+|                                           |                                       |
+|-------------------------------------------|---------------------------------------|
+| व्द्यण्डप bicarpellary                    | निदल sepal                            |
+| व्द्यनीक bifacial,                        | निधरण keel, carina                    |
+| व्द्योष्ठी bilabiate                      | निपत्र bract                          |
+| धानी ascus                                | निपत्रक bracteole                     |
+| धानी-बीजाणु ascospore                     | निपत्रचक involucre                    |
+| धानीरस cell-sap                           | निपत्री bracteate                     |
+| ध्वज vexillum                             | निप्रावर apophysis                    |
+| नखर claw                                  | निभाग chalaza                         |
+| नखरी unguiculate                          | निम्नता depression                    |
+| नग्नधीज gymnosperm                        | नियमी regular                         |
+| नग्नबीजाः Gymnosperms                     | निरूपण representation                 |
+| **नग्नस्तम्भ तटपत्री** Launaea nudicaulis | निर्गम emergence                      |
+| नलिनी lily                                | निर्माायी प्रदेश formative region     |
+| नलिनीकुल Liliaceae                        | निर्यासोद mucilage                    |
+| **नलिनी-प्रजाति** Lilium                  | निलम्ब suspensor                      |
+| **नवनीत चष-प्रजाति** Ranunculus           | निलम्ब-शूकी catkin                    |
+| नाडिका veinlet                            | निलम्बी hanging                       |
+| नाड़ीविन्यास venation                      | **निवापदलीक-प्रजाति** Petunia         |
+| नाल-काय body-tube (of microscope)         | निवापाकार infundibuliform             |
+| नालचोली ochreate                          | निवेशन inserton                       |
+| नालाकार tubular                           | निस्सादित precipitated                |
+| **नासापुष्प-प्रजाति** Antirrhinum         | नीरकुप्यातु,-जम्बुकी chlor-zinciodine |
+| निकलिकाविन्यास aestivation                | नेत्र - वीक्ष eye-piece               |
+|                                          | नैकसपक्ष doublesamara                 |
+|                                           | न्यष्टिका nucleolus                   |
+
+
+
+|                                         |                                  |
+|-----------------------------------------|----------------------------------|
+| न्युद्वेष्टिन twisted, contorted        | परिजाय perigynous                |
+| न्युब्ज concave                         | परिणाह periphery                 |
+| पक्ष wing                               | परिदोली versatile (anther)       |
+| पक्ष ala                                | परिपत्र perfoliate               |
+| पक्षक pinna                             | परिपाची ऊतिassimilating tissrue |
+| पक्षवत् pinnate                         | परिपुष्प perianth                |
+| पक्षवद्-दर pinnati-fid                  | परिमाण size                      |
+| पक्षवद्-विदर pinnati-partite            | परिरक्षित preserved              |
+| पक्षवन्-निदर pinnati sect               | परिवलित convolute                |
+| पंचपक्तिक pentastichous                 | परिवहण circulation               |
+| पंचाण्डप pentacarpellary                | **परूपबन्धु-प्रजाति** Tilia      |
+| पटी septum                              | पर्ण leaf                        |
+| पटी-भंग-स्फोटना septifragal dehiscence | पर्ण-उपायोजन leaf-adaptation     |
+| पटीमत् septate                          | पर्णकleaflet                    |
+| पटी-स्फोटना septicidigal dehiscence    | पर्णक-संजनी leaflet-tendril      |
+| पट्टकरूप strap-shaped                   | पर्णकार्यस्तम्भ phylloclade      |
+| परजीवी parasite                         | पर्णकी pinnule                   |
+| परजीवी मूल parasitic root               | पर्णखण्ड leaf-segment            |
+| पररोही मूल epiphytic root               | पर्णन्यास phyllotaxis            |
+| पराग pollen                             | पर्ण-प्रदाय leaf-trace           |
+| पराग-कण pollen-grain                    | पर्णप्रदाय-पूल leaf-trace bundle |
+| परागण pollination                       | पर्णवलना leaf-ptyxis             |
+| परागवेश्म pollen-chamber                | पणवृत्त petiole                  |
+| परागाशय anther                          | पर्णसदृश foliaceous              |
+|                                        | पर्णांग fern                     |
+
+
+
+|                                             |                                      |
+|---------------------------------------------|--------------------------------------|
+| पर्णाग-गोत्र Filicales                      | पार्श्व-पर्णक lateral leaflet        |
+| पर्णागोद्भिदः Pteridophyta                  | पार्श्व-मूलक lateral rootlet         |
+| पर्णाधार leaf-base                          | पार्श्व-शाखा lateral branch          |
+| **पर्णासीपर्ण दुग्धी** Euphorbia thymifolia | पार्श्व-संयुग्मन lateral conjugation |
+| पर्णेकपर्व cladode                          | **पार्श्वाप्य-प्रजाति** Pleurococus  |
+| पर्यण्ड ovule                               | पालि lobe                            |
+| पर्यावरण environment                        | पालिमत् lobed                        |
+| पर्व internode                              | पाषाणवत् stony                       |
+| पर्वसन्धि node                              | पिधान operculum                      |
+| पलाश frond                                  | **पीत शोभा-प्रजाति** Hypericum       |
+| पश्च posterior                              | **पीताक्षीर-प्रजाति**Latuca         |
+| **पाकवदरी-प्रजाति** Ribes                   | पीनाक्ष thalamus                     |
+| पाटलीय rosaceous                            | पीनाधार pulvinus                     |
+| पाणिवद्-दर palmati-fid                      | पु (पुष्पकोश) K (calyx)              |
+| पाणिवद्-विदर palmati-partite                | पुंशंकु staminate strobilus or cone  |
+| पाणिवन्-निदर palmati-sect                   | पुंकेसर stamen                       |
+| पाद foot                                    | पुंकेसरीय staminal                   |
+| पादप plant                                  | पुंजन्यु male gamete                 |
+| पादायुध spur                                | पुजायांगभर androgynophore            |
+| पादायुधी दल spurred petal                   | पुंधानीantheridium                  |
+| पारिभाषिक technical                         | पुमिन्द्रिय male organ               |
+| पार्श्व leteral                             | पुंपुष्प male flower                 |
+| पार्श्व-उपांगlateral appendage            |                                     |
+| पार्श्व-कलिका lateral bud                   |                                      |
+| पार्श्व-नाडी lateral vein                   |                                      |
+
+
+
+|                                |                                         |
+|--------------------------------|-----------------------------------------|
+| पुमंग androecium               | पृथङ्निदल polysepalous                  |
+| **पुरुरक्त-प्रजाति** Dablia    | पृष्ठलग्ने dorsifixed                   |
+| पुरुशाख polychasium            | पोषिता host                             |
+| पुरुसंलाग poyadelphous         | प्रकार type, kind                       |
+| **पुरसन्धि–प्रजाति** Polygonum | प्रकाशयम iris diaphragm(of microscope) |
+| पुर्वण्डप polycarpellary      | प्रकिण्व yeast                          |
+| पुष्प flower                   | प्रचूषण absorb, absorption              |
+| पुष्पक floret                  | प्रजनन reproduction                     |
+| पुष्पकोश calyx                 | प्रजननांग reproductive organ            |
+| पुष्पपत्र floral leaf          | प्रजापतिरूप papilionaceous              |
+| पुष्पविन्यास inflorescence     | प्रतानी climber                         |
+| पुष्पवृन्त pedicel             | प्रथम मूल primary root                  |
+| पुष्प-सम्मिति floral symmetry  | प्रदेह nucellus                         |
+| पुष्पसूत्र floral formula      | **प्रनाग-प्रजाति** Dracaena             |
+| पुष्प-रेखाचित्र floral diagram | प्रपाती deciduous                       |
+| पुष्पी पादप Flowering Plants   | प्रबल strong                            |
+| पुष्पी प्ररोह flowering shoot  | प्रबल अम्लिक रस strong acidic rap       |
+| पूर्वानुपर successive          | प्रबुद्बुदन effervescence               |
+| पूलकंचुक bundle sheath         | **प्रमंजिष्ठा-प्रजाति** Mussaenda       |
+| पूलीय एधा fascicular cambium   | प्ररस protplasm                         |
+| पृथक् पुंकेसर polyandrous      | प्ररस–परिवहण circulation of protoplasm  |
+| पृथगण्डप apocarpous            |                                        |
+| पृथग्दल polypetalous           |                                         |
+| पृथग्दलीpolyetalous corolla   |                                         |
+
+
+
+|                                           |                                    |
+|-------------------------------------------|------------------------------------|
+| प्ररूप type                               | प्रावरवेष्ट calyptra               |
+| प्ररोह shoot                              | प्रासवत् lanceolate                |
+| प्रलोम glochidium                         | प्रोदल नील methyl blue             |
+| प्रवर्ध process                           | प्रोभूजक pyrenoid                  |
+| प्रवाल-मूल coralline root                 | प्रोभूजिन protein                  |
+| **प्रवास्तुक-प्रजाति** Amarantus          | प्रोभूजिन-कण protein grain         |
+| प्रवाह flow                               | फल fruit                         |
+| प्रविभाजी meristematic                    | फलक lamina                         |
+| प्रसामान्य normal                         | फलन-काय fruiting body              |
+| प्रसीती grooved                           | फल-भित्ति pericarp                 |
+| प्रहरिताः Hepaticae, Liverworts           | फलापकिरण dispersal of fruits       |
+| प्रह्रसित reduced                         | बदरी berry                         |
+| प्राक्ष rachis                            | बदरी-समूह-फल etaerio of berries    |
+| प्रांकुर protonema                        | बन्ध adhesion                      |
+| प्रांगार द्विजारय वाति carbon-dioxide gas | बहिःकोशepicalyx                   |
+| प्रांगारिक organic                        | बहिरारम्भ exarch                   |
+| प्राथमिक, primary                         | बहिर्वलित revolute                 |
+| प्राथमिक संरचना primary structure         | **बहिवलित कंगुताल** Cycas revoluta |
+| प्रादर्श specimen                         | बहिष्केन्द्र excentric             |
+| प्रान्त margin                            | बहिःस्तर exodernmis                |
+| प्रान्तीय marginal                        | बहीरेखा outline                    |
+| प्रारूपिक typical                         | बहुकोशरोम multicellular hair       |
+| प्रावरवेष्ट calyptra                      | बहुगव्हर multilocular              |
+| प्रावर capsule                            | बहुन्यष्टित multinucleated         |
+| प्रावरक theca                             |                                   |
+| प्रावर-भित्ति capsule wall                |                                    |
+
+
+
+|                                         |                                            |
+|-----------------------------------------|--------------------------------------------|
+| बहुप्रनाडीक multicostate                | बीजाणुजनिका sporogonium                    |
+| बहुवीज many-seeded                      | बीजाणुधानी sporangium                      |
+| बहुचीजस्फोटी फल capsular fruit          | बीजाणुपत्र sporophyll                      |
+| बहुभुज polygonal                        | बीजाणु–स्यून spore-sac                     |
+| बहुवर्व्यक्ष cyme                       | बीजोद्भिदः Spermatophyta                   |
+| बहुवर्व्यक्षीय cymose                   | बीधागुच्छ sorus                            |
+| बहुसृट् multiparous                     | बीधागोप indusium                           |
+| बहुस्तर multilayered                    | बीधाभर sporangiophore                      |
+| बाणवत् sagittate                        | बीधावलय annulus                            |
+| **बालचंद्र कृष्णकमल** Passiflora lunata | **बृहत्पुष्प जयन्ती** Sesbania grandiflora |
+| बाहु limb (of microscope)               | **ब्राह्मी-प्रजाति** Hydrocotyle           |
+| बाह्य external                          | भंगजात कूप lysigenous cavity               |
+| बाह्यक cortex                           | भंजरेखा crease                             |
+| बाह्य कवच exine                         | **भारत अम्लिका** Tamarindus indica         |
+| बाह्य गुण external characters           | **भारत कण्टफल** Xanthium strumarium        |
+| बाह्य रचनाकार external morphology       | **भारत बब्बूल**Acacia arabica             |
+| बिम्ब disc                              | भित्तिलग्न parietal                        |
+| बिम्ब-पुष्पक disc-floret                | भिन्नन differentiation                     |
+| बीज seed                                | भूमिगत underground                         |
+| बीजचोल testa                            | भूयाति nitrogen                            |
+| बीजपत्र cotyledon                       | भूयाति-स्थिरक nitrogen-fixing              |
+| बीजाणु spore                            | भूयिक अम्ल nitric acid                     |
+| बीजाणुजनक - sporophyte                  |                                           |
+
+
+
+|                                         |                                          |
+|-----------------------------------------|------------------------------------------|
+| भूयीय nitrate                           | मधुजन कणिका glycogen granule             |
+| **भूशायिनी दुग्धी** Euphorbia prostrata | मधुरी glycerine                          |
+| भूशायी prostrate                        | मध्य-आयाम-छेद median logitudinal section |
+| **भूशायी कौशेयफल** Tridax procumbens    | मध्यक pith                               |
+| भूस्तारिका offset                       | मध्यक-किरण medullary ray                 |
+| भूस्तारी runner                         | मध्यदारुक hadrocentric                   |
+| भेदन incision                           | मध्य-नाडी midrib                         |
+| भ्रनि whorl                             | मध्यनाडीवलित conduplicate                |
+| भ्रमियुग्म verticillaster               | मध्यपर्णोति mesophyll                   |
+| भ्रमिरूप whorled                        | मध्यभित्ति mesocarp                      |
+| भ्रूण embryo                            | मध्यरम्भ stele or centralcylinder       |
+| भ्रूणपोष endosperm                      | मध्यरम्भवेष्ट pericycle                  |
+| भ्रूणपोषी endospermic                   | मध्याधोवाहिक leptocentric                |
+| भ्रूणमूल radicle                        | मध्यारम्भ mesarch                        |
+| भ्रूणमूल-चोल coleorhiza                 | मध्योद्भिद् mesophyte                    |
+| भ्रूणस्यून embryo-sac                   | मन्द dilute                              |
+| भ्रूणाग्र plumule                       | मन्द मधुरी dilute glycerine              |
+| भ्रूणाग्रचोल coleoptile                 | महावीजाणुपत्र megasporophyll             |
+| मकरन्द honey                            | मार्ग-कोशा passage-cell                  |
+| मकरन्द-ग्रन्थि neciary                  | मातृ-अक्ष mother axis                    |
+| मक्षीभक्ष Venus' fly-trap               | मातृ-मूल mother root                     |
+| **मक्षीभक्ष-प्रजाति** Dionaea           | माला series                              |
+| मंच stage (of microscope)               | **माष मुद्ग** Phaseolus radiatus         |
+| मण्ड starch                             |                                         |
+| मण्डकण starch grain                     |                                          |
+
+
+
+|                                             |                                   |
+|---------------------------------------------|-----------------------------------|
+| मिश्रित mixed                               | युक्तदल gamopetalous              |
+| मुकुट corona                                | युक्तदली gamopetalous corolla     |
+| मुख stomium                                 | युक्तनखर hypocrateriform          |
+| मुख stomata                                 | युक्तनिदल gamosepalous            |
+| मुण्डक capitulum                            | युक्तबीजाणु zygospore             |
+| मुद्गरहरिता-गोत्र Lycopodiales              | युग्मवेश्म cremocarp              |
+| मुद्गराकार club-shaped                      | युग्मशाखिता dichotomy             |
+| मूल root                                    | युग्मशाखी dichotomous             |
+| मूलक rootlet                                | युताण्डप syncarpous               |
+| मूलप्रदेश root regions                      | योजी connective                   |
+| मूलभूत fundamental                         | रक्षिकोशा guard cell              |
+| मूलभूत ऊति- संहति fundamental tissue system | रचनाकार morphology                |
+| मूलगोप root-cap                             | रचानाकारिकी morphology            |
+| मूलरोम root-hair                            | रचनाकारीय morphological           |
+| मूलरोम-प्रदेश root-hair region              | रचिति structure                   |
+| मूल-संहति root system                       | रन्ध्री स्फोटना porous dehiscence |
+| मूल-संजनी root-tendril                      | रम्भ cylinder                     |
+| मूलाकन्दिका root tubercle                   | रम्भाकार cylindrical              |
+| मूलाधिस्तर epiblema                         | रस sap                            |
+| **मूलाश-प्रजाति** Striga.                   | रसधानी vacuole                    |
+| मृतजीवी saprophyte                          | रसचदरी raspberry                  |
+| मैथुन प्रजननsexual reproduction            | **राज आभरण** Poinciana regia      |
+| मैथुन सायुज्यन sexual fusion                | **राहुरत्न प्रजाति** Eichhornia.  |
+|                                            | रुण्डित truncate                  |
+|                                             | रुण्डोद्वधीmucronate             |
+|                                             | रुधद्वार trap-door                |
+
+
+
+|                                     |                                      |
+|-------------------------------------|--------------------------------------|
+| **रूक्ष द्रोणपुष्प** Leucas as pera | वंजु oak                             |
+| रूप form                            | **वनकुमारी-प्रजाति** Agave           |
+| रेखाचित्र diagram                   | **वनद्राक्षा - प्रजाति** Cissus      |
+| रेखावत् linear                      | **वन विलास-प्रजाति** Bougainvillaea  |
+| रोम hair                            | **वन्द-प्रजाति** Vanda               |
+| रोमवलय pappus                       | वन्ध्य sterile                       |
+| रोमवलयफल cypsela                    | वन्ध्यकेसर staminode                 |
+| रोमावरण ramentum of hairs           | वन्ध्यांशु paraphysis                |
+| रोमावृत hairy                       | **वमदुग्धा-प्रजाति** Daemia          |
+| रोमिका papilla                      | वयन texture                          |
+| रोमिस्तर piliferous layer           | चरुथिका scutellum                    |
+| लगुडि lignin                        | वर्णिघटन chromoplast                 |
+| लगुडित lignifed                     | वर्धी vegetative                     |
+| **लघुकर्णी-प्रजाति** Clematis       | वर्धी अग्र growing point             |
+| लघुफल fruitlet                      | वर्धी अंग vegetative organ           |
+| लघुबीजाणुपत्र microsporophyll       | वर्धी कुड्मन vegetative budding      |
+| लज्जालु-अनुकुल Mimosoideae          | वर्धी प्रजनन vegetative reproduction |
+| **लज्जालु-प्रजाति** Mimosa          | वर्धी प्रदेश growing region          |
+| लताकरंज-अनुकुल Caesalpiniodeae      | वलक-मूल clinging root                |
+| **लताकरंज-प्रजाति**Caesalpinia     | वलयाकार orbicular                    |
+| वक्रकण्ट लज्जालुMimosa hamata      | वलयाकार annular                      |
+| **वंग शणपट्ट** Crotalaria junced    | विलयिता twiner                       |
+|                                    | वल्क bark                            |
+|                                     | वातनरन्ध्र lenticel                  |
+
+
+
+|                                         |                                           |
+|-----------------------------------------|-------------------------------------------|
+| बात-स्यून air-sac                       | विशालन-चीक्ष magnifying lens              |
+| वायव्य aerial                           | विशालन-शक्ति magnifying power            |
+| **वायुशिफ-प्रजाति** Rhizophora          | विशेष special                            |
+| वार्षिक वलय annual ring                 | विप्रम odd                                |
+| वाही vascular                           | **विस्तारी मंजिष्ठाबन्धु** Hamelia patens |
+| वाही ऊति vascular tissue                | वीक्ष lens                                |
+| वाही ऊति-संहति vascular tissue system   | वीक्षधर nose - piece                      |
+| वाही एधा vascular cambium               | वृक्काकार reniform                        |
+|                                         | **वृतिकण्ट-प्रजाति** Duranta              |
+| वाही कोशा tracheid                      | वृन्तफलक phullode                         |
+|                                         | **वृन्तफलक वव्वूल** Acacia decurrens.     |
+| वाही पट्ट vascular strand               | वृन्तमध्यस्थ interpetiolar                |
+| वाही पूल vascular bundle                | वृन्तयु hilum                             |
+| वाही रम्भ vascular cylinder             | वेश्मस्फोटी फल schizocarpic fruit         |
+| विकास-कुन्तल genetic spiral             | व्यत्यस्त decussate                       |
+| **विकुसुम्भ-प्रजाति**Tropaeolum       | व्यवधान-भित्ति partition-wall             |
+| विचाली anomalous                        | व्यवस्थापन adjustment                     |
+| विच्छेदन-अण्वीक्षdissecting microscope | **शतावरी-प्रजाति** Asparagus              |
+| विधा process                            | **शर्कराकवक-प्रजाति** Saccharomyces       |
+| विन्यास arrangement                     | शल्क scale                                |
+| विमा dimension                         | शल्क-निपत्र scaly bract                   |
+| विरोह stolon                            |                                          |
+| विलयन solution                          |                                           |
+| विलेय soluble                           |                                           |
+| विवृत ringent                           |                                           |
+
+
+
+|                                     |                                        |
+|-------------------------------------|----------------------------------------|
+| शल्कपत्र scale-leaf                 | शिम्बि-कुल Leguminosae                 |
+| शल्कावरण rementum of scales         | **शिम्बि कुलत्थ** Dolichos lablab      |
+| शल्कि tannin                        | **शुक-प्रजाति** Bignonia               |
+| शल्य spine                          | शुक्तिक अम्ल acetic acid               |
+| शल्यरूप spiny                       | शुण्डरूप conical                       |
+| शल्यावृत spiny                      | शुष्क dry                              |
+| **शाक प्रवास्तुक** Amarantus blitum | शुष्कोद्भिद् xerophyte                 |
+| शाकाणु bacterium                    | शुकिका spikelet                        |
+| शाकाणु-ग्रन्था bacterial nodule     | शूकी spike                             |
+| शाकीय herbaceous                    | शूकीछद spathe                          |
+| शाखा branch                         | श्रृंखला chain                         |
+| शाखाविन्यास branching               | **शेफालिबन्धु-प्रजाति** Avicennia      |
+| शाखी branched                       | **शोभा वनाम्लिका** Pithecolobium saman |
+| शाद chlorophyll                     | श्लेष्म mucus                          |
+| **शादाप्यकाः** Chlorophyceae        | श्वसन-कूप respiratory cavity           |
+| शादिघटन chloroplast                 | श्वसन-मूल pneumatophore                |
+| शादी जीवितक chlorenchyma            | श्वितिमत् albuminous                   |
+| शारीर antomy                        | श्वितिरहित exalbuminous                |
+| शिथिल loose                         | श्वेता Mucor                           |
+| शिथिल जीवितक spongy parenchyma      | **श्वेता-प्रजाति** Mucor               |
+| शिफमध्वि phloroglucin               | **षोडशदन्त-प्रजाति** Funaria           |
+| शिफाभ rhizoid                       | संयुक्त compound                       |
+| शिफावृन्त rhizome                   | संयुक्त अण्वीक्ष compound microscope   |
+| शिम्बि legume                       |                                       |
+
+
+
+|                                    |                                        |
+|------------------------------------|----------------------------------------|
+| संयुक्त कन्द compound bulb         | संजनी tendril                          |
+| संयुग्मन conjugation               | **संजनीपत्र त्रिपुट**Lathyrus aphaca  |
+| संयुग्मन नाल conjugation tube      | संजनीरूप tendrillar                    |
+| संयुताष्ठि compound drupe          | सत्यपत्र foliage leaf                  |
+| संयोजी ऊति conjunctive tissue      | सन्धि articulation                     |
+| संलाग cohesion                     | सपक्ष winged, samara                   |
+| संवाही पट्टconducting strand       | समतल plane                             |
+| संवृत personate                    | समपक्षवत् paripinnate                  |
+| संवृतबीज angiosperm                | समान्तर parallel                       |
+| संवृतबीजाःः Angiosperms            | समुण्ड रोम capitate hair               |
+| **संवेल्लनी-प्रजाति**Jacquemontia  | समूह-फल aggregate fruit,etaerio        |
+| **संवेल्लिका-प्रजाति** Convolvulus | संपरागाशय syngenesious,synantherous    |
+| संहति system                       | संपरिवर्तन modification                |
+| सखि-कोशा companion cell            | संपरिवर्तित modified                   |
+| संकेन्द्र concentric               | सरल simple                             |
+| सकेन्द्र पूल concentric bundle     | **सरल-प्रजाति** Pinus                  |
+| संकेन्द्रित concentrated           | सरस succulent                          |
+| संग्रथित कुल Compositae            | सरसाक्ष sorosis                        |
+| संग्रथित फल composite fruit        | सर्पी स्तम्भ creeping stem             |
+| संघनित condensed                   | सवृन्त pedicillate, petiolate          |
+| संचालभित्ति caryopsis              | सशल्क कन्द scaly bulb                  |
+|                                   | सशल्य spiny                            |
+|                                    | साशीख acuminate                        |
+|                                    | साकन्द tuberous                        |
+|                                    | **सामान्य अग्निशिखा** Gloriosa superba |
+
+
+
+|                                                   |                                            |
+|---------------------------------------------------|--------------------------------------------|
+| **सामान्य अशोक **Saraca indica                    | **सामान्य बाह्यक **general cortex          |
+| **सामान्य उदस्फोट **Caesulia axillaris            | **सामान्य भूमुद्र **Arachishypogaea        |
+| **सामान्य उष्ट्रकण्ट **Echinops echinatus         | **सामान्य मसूर **Lens esculentus           |
+| **सामान्य कुसुम्भ **Carthamus tinctorius          | **सामान्य मुद्र **Phasaeolus mungo         |
+| **सामान्य खरमंजरी **Achyranthes aspera            | **सामान्य राजमाष **Vigna cat jung          |
+| **सामान्य गुंजा **Abrus precatorius               | **सामान्य लज्जालु **Mimosa pudica          |
+| **सामान्य चणक **Cicer arietinum                   | **सामान्य लताकरंज **Caesalpinia bonducella |
+| **सामान्य चिपिटस्तम्भ **Muehlenbeckia platyclados | **सामान्य लोणी **Portulaca oleracea       |
+| **सामान्य तुवरी **Cajanus indicus                 | **सामान्य शमी **Prosopis spicigera         |
+| **सामान्य दूर्वा **Cynodon dactylon               | **सामान्य शिशपा **Dalbergia sissoo         |
+| **सामान्य पर्णास **Mentha arvensis                | **सामान्य शिरीष **Albizzia lebbeck         |
+| **सामान्य पलाण्डु **Allium cepa                   | **सामान्य शृगालकण्ट **Argemone mexicana    |
+| **सामान्य पलाश **Butea frondosa                   | **सामान्य सितसुमन **Leucaena glauca        |
+| **सामान्य प्रशूली** Parkinsonia aculeata          | **सामान्य सूर्यमुखी** Heliant bus annuur   |
+
+
+
+|                                             |                                                      |
+|---------------------------------------------|------------------------------------------------------|
+| **सितकुसुम-प्रजाति** Yucca                  | स्कम्भोति palisade tissue                            |
+| सितघटन leucoplast                           | स्तम्भ stem                                          |
+| सीता furrow                                 | स्तम्भिका columella                                  |
+| **सुन्दर लताकरंज** Caesal pinia pulcherrima | स्तर layer                                           |
+| **सुभगा-प्रजाति** Zinnia                    | स्त्री-जन्यु female gamete                           |
+| सुषिर hollow                                | स्त्रीजन्यु-जनक female gametophyte                   |
+| सुषिर fistular                              | स्त्री-निलम्बशूकीfemale catkin                       |
+| सुषिरक lumen                                | स्त्रीन्द्रिय female organ                           |
+| सूकायक prothallus                           | स्त्री-पुष्प female flower                           |
+| सूकायोद्भिदः Thallophyta                    | स्थानसीमित localised                                 |
+| सूक्ष्म व्यवस्थापन fine adjustment          | स्थायी permanenttissue                              |
+| सूची needle                                 | स्थायी अण्वीक्ष-निर्मिति permanent micro-preparation |
+| सूचीवत् acicular                            | स्थायी ऊति permanent tissue                          |
+| सूत्र filament                              | स्थायी प्रदेश permanentregion                       |
+| सूत्रमय filamentous                         | स्थितिकाल duration                                   |
+| सूत्रवत् कोशापट्ट filamentous cell-plates   | स्थूलकोण collenchyma                                 |
+| **सूरणबन्धु प्रजाति**Caladium              | स्थूलभित्ति thick-walled                             |
+| **सूर्यावर्त प्रजाति** Heliotropium         | स्थूलभित्ति जीवितक thick-walled parenchyma           |
+| सृप slide                                   |                                                     |
+| सेवनी raphe                                 |                                                      |
+| सोपान-संयुग्मन scalariform conjugation      |                                                      |
+| स्कम्भ column                               |                                                      |
+
+
+
+|                                    |                                          |
+|------------------------------------|------------------------------------------|
+| स्थूल व्यवस्थापन coarse adjustment | **स्वादु कलाय** Pisum sativum            |
+| स्पटगोल sphaerite                  | **स्वादु वनाम्लिका** Pithecolobium dulce |
+| स्फटपिण्ड sphaeraphide             | हर denominator                           |
+| स्फटपुंज crystalline mass          | हरिता moss                               |
+| स्फटसूची raphide                   | हरिताः Musci                             |
+| स्फटाभ crystalloid                 | हरितोद्भिदः Bryophyta                    |
+| स्फोटना dehiscence                 | हरिनील glaucous                          |
+| स्फोटी वेश्म coccus                | **हर्यानील दुग्धी** Euphorbia rothiana   |
+| स्फोटि-वेश्मी regma                | **हृत्पर्ण अजर** Ageratum conyzoides     |
+| स्फोटी dehiscent                   | **हृत्पर्ण बला** Sida cordifolia         |
+| **स्त्रवपर्ण-प्रजाति** Notonia     | हृद्वत् cordate                          |
+| स्त्रववत् spathulate               | हृष senstive                             |
+| स्वरूप nature                      | **हेमपुष्प-प्रजाति** Chrysanthemum       |
+| स्वरूप habit                       |                                         |
+| **स्वर्णक्षीरी-प्रजाति** Cleome    |                                          |
+| स्वस्तिकाकार cruciform             |                                          |
 
 
 
@@ -3567,746 +3567,746 @@ Vice-Chancellor,
 **पारिभाषिक शब्दावलि**  
 **आंगल–भारतीय**
 
-।                                              ।                                            ।
-।----------------------------------------------।--------------------------------------------।
-। abaxial अपराक्ष                              । active क्रियाशील, चर                       ।
-। Abrus pracatorius **सामान्य गुंजा**          । acuminate सशिख                             ।
-। absorb प्रचूपण                               । acute तीक्ष्ण                             ।
-। absorption प्रचूषण                           । adaptation उपायोजन                         ।
-। Abutilon **ककती प्रजाति**                    । adelphous अंशुसंलाग                        ।
-। Acacia arabica **भारत बब्बूल**               । adhesion बन्ध, अभिलाग                      ।
-। Acacia catechu **खदिर बब्बूल**               । adjustment व्यवस्थापन                      ।
-। Acacia decurrens **वृन्तफलक बब्बूल**         । adoate अभिलग्न                             ।
-। accessory bud उप-कलिका                       । adventitious आगन्तुक                       ।
-। accessory transfusion tissue उप-संक्रामण ऊति । adventitious bud आगन्तुक कलिका             ।
-। acetic acid शुक्तिक अम्ल                     । adventitious root system आगन्तुक मूल-संहति ।
-। achene चर्मलफल                               । aerial वायव्य                              ।
-। achenial fruit एकबीजास्फोटी फल               । aestivation निकलिकाविन्यास                 ।
-। Achyranthes **खरमंजरी-प्रजाति**              । Agave **वनकुमारी-प्रजाति**                 ।
-। Achyranthes as pera **सामान्य खरमंजरी**      । Ageratum conyzoides **हृत्पूर्ण अजर**      ।
-। acicular सूचीवत्                             । aggregate fruit समूह फल                    ।
-। acrcpetal successionअग्राभिवर्धी क्रम       । air-sac वात-स्यून                          ।
-। actinomorphic अरसम्मित                       । ala पक्ष                                   ।
-। catinomorphy अरसम्मिति                       । Albissia lebbek **सामान्य शिरीष**          ।
-।                                             । albumincus श्वितिमत्                       ।
-।                                              । alga आप्यका                                ।
-।                                              । Algae आप्यकाः                              ।
-
-
-
-।                                     ।                                         ।
-।-------------------------------------।-----------------------------------------।
-। Allium cepa **सामान्य पलाण्डु**     । apophysis निप्रावर                      ।
-। Alliumsativa **उग्रगन्ध पलाण्डु**   । appendage उपांग                         ।
-। Aloe **कुमारी-प्रजाति**             । aquatic जलीय                            ।
-। alternate एकान्तरिक                 । aquatic root जलीय मूल                   ।
-। Amarantus **प्रवास्तुक-प्रजाति**    । Arachis hypogaea **सामान्य भूमुद्र**    ।
-। Amarantus blitum **शाक प्रवास्तुक** । archegonialchamber आदियोनि- वेश्म       ।
-। anastomosis जालशाख्यन               । archegonium आदियोनि                     ।
-। anatomy शारीर                       । areole कूपक                             ।
-। androecium पुमंग                    । Argemone mexicana**सामान्य शृगालकण्ट** ।
-। androgynophore पुंजायांगभर          । aril अग्रचोल                            ।
-। Angiosperms-संवृतबीजांः             । arrangement विन्यास                     ।
-। angle of divergence अपसार- कोण      । articulation सन्धि                      ।
-। angular कौणिक                       । ascospore धानीबीजाणु                    ।
-। annual ring वार्षिक वलय             । ascending आरोही                         ।
-। annular वलयाकार                     । ascus धानी                              ।
-। annulus बीधावलय                     । aseptate अपटीमत्                        ।
-। anomalous विचाली                    । asexual reproduction अमैथुन प्रजनन      ।
-। anterior अग्र                       । As paragus **शतावरी-प्रजाति**           ।
-। anther परागाशय                      । assimilating tissue परिपाची ऊति         ।
-। antheridium पुंधानी                 । asymmetrical असम्मित                    ।
-। Antigonon-**जानुस्तम्भ-प्रजाति**    । attachment आसंजन                        ।
-। Antirrhinum **नासापुष्प-प्रजाति**   । attraction आकर्षण                       ।
-। apex अग्र                           ।                                        ।
-। apical bud अग्र-कालका               ।                                         ।
-। apocarpous पृथगण्डप                 ।                                         ।
-
-
-
-।                                   ।                                            ।
-।-----------------------------------।--------------------------------------------।
-। Avicennia **शेफालिबन्धु-प्रजाति** । bladder आशय                                ।
-। axil कक्ष                         । bladderwort दृतिवर्ण                       ।
-। axile अक्षलग्न                    । body काय                                   ।
-। axillary कक्ष                     । body-tube (of micro- scope) नाल-काय        ।
-। axillary bud कक्ष कलिका           । bottle - brush कूपी-कूर्च                  ।
-। axillary flower कक्ष पुष्प        । Bougainvillaea **वनविलास-प्रजाति**         ।
-। axis अक्ष                         । bract निपत्र                               ।
-। bacterial nodule शाकाणु-ग्रन्था   । bracteate निपत्री                          ।
-। bacterium शाकाणु                  । bracteole निपत्रक                          ।
-। balusta दाडिमक                    । branch शाखा                                ।
-। bark वल्क                         । branched शाखी                              ।
-। basal आधारलग्न                    । branching शाखाविन्यास                      ।
-। base आधार                         । bristle दृढलोम                             ।
-। basifixed आधारलग्न                । Bryophyllum घातपर्ण-प्रजाति                ।
-। Bauhinia **कांचनार-प्रजाति**      । bryophyta हरितोभ्दिदः                      ।
-। beak चंचु                         । bud कुड्म, कालिका                          ।
-। berry बदरी                        । bulb कन्द                                  ।
-। bicarp:llary द्व्यण्डप            । bundle sheath पुलकंचुक                     ।
-। bicollateral उभयपार्श्वस्थ        । Butea frondosa **सामान्य पलाश**            ।
-। biconvex द्वि-उदुब्ज              । corolla दली                                ।
-। bifacial व्द्यनीक                 । Cactus **कण्टाल-प्रजाति**                  ।
-। Bignonia **शुक्र-प्रजाति**        । caducous आशुपाती                           ।
-। bilabiate व्द्योष्ठी              । Caesalpinia **लताकरंज-प्रजाति**            ।
-। bilocular द्विगह्वर               । Caesalpinia pulcherimar **सुन्दर लताकरंज** ।
-। biparous द्विसृट्                 ।                                           ।
-। blackberry कृष्णवदरी              ।                                            ।
-
-
-
-।                                             ।                                          ।
-।---------------------------------------------।------------------------------------------।
-। Caesalpinioideae लताकरंज-अनुकुल             । carpel अण्डप                             ।
-। Caesulia axillaris **सामान्य उद्स्फोट**     । carpophore अण्डपभर                       ।
-। Calcium oxalate **सामान्य तुवरी**           । Carthamus tinctorius **सामान्य कुसुम्भ** ।
-। Caladium **सूरणबन्धु प्रजाति**              । caruncle अग्रचोल                         ।
-। Cajanus indicus चूर्णातु प्रांगारीय         । caryophyllaceous गूड-पंचनखर              ।
-। calcium carbonate चूर्गातु तिग्मीय          । caryopsis संचोलभित्ति                    ।
-। Calotropis **अर्क-प्रजाति**                 । casparian strip त्वक्षि-पट्टी            ।
-। calyptra प्रावरवष्ट                         । Cassia **कालसर्द-प्रजाति**               ।
-। calyx पुष्पकोश                              । Cassia obovata **अभ्यण्डपर्ग कासमर्द**   ।
-। cambium एधा                                 । catkin निलम्ब-शूकी                       ।
-। campanulate घण्टाकार                        । cell-sap धानीरस                          ।
-। candituft चिपिटगुच्छ                        । cellulose कोशाधु                         ।
-। capitate hair समुण्ड रोम                    । cell-wall कोशाभित्ति                     ।
-। capituium मुण्डक                            । central केन्द्रीय                        ।
-। Capparis **करीर-प्रजाति**                   । central cylinder मध्यरम्भ                ।
-। capsular fruit बहुवीजस्कोटी फल              । centrifugal xylem केन्द्रापग दारु        ।
-। capsule प्रावर                              । centripetal xylem केन्द्राभिग दारु       ।
-। capsule wall प्रावर-भिति                    । chain शुखला                              ।
-। carbon di-oxide gas प्रांगार-द्विजारेव वाति । chalaza निभाग                            ।
-। carcerulus चतुरादिवेश्म                     । chlorenchyma शादी जीवितक                 ।
-। carina निधरण                                । Chlorophyceae **शादाप्यकाः**             ।
-।                                            । chlorophyll शाद                          ।
-।                                             । chloroplast शादिघटन                      ।
-
-
-
-।                                               ।                                                 ।
-।-----------------------------------------------।-------------------------------------------------।
-। chlor-zinc-iodine नीर-कुप्यातु- जम्बुकी       । Coleus **अश्मान्तक प्रजाति**                    ।
-। chromoplast वर्णिघटन                          । collateral एकपार्श्वस्थ                         ।
-। Chrysanthemum **हेमपुष्य प्रजाति**            । collteral vascular bundle एकपार्श्वस्थ वाही पूल ।
-। Cicer arietinum **सामान्य चणक**               । collenchyma स्थूलकोण                            ।
-। circinate अग्रवलित                            । collenchymatous स्थूलकोण—                       ।
-। circulation परिवहण                            । collenchymatous hypodermis स्थूलकोण अधःस्तर     ।
-। circulation of protoplasm प्ररस- परिवहण       । columella स्तम्भिका                             ।
-। Cissus **वनद्राक्षा-प्रजाति**                 । column स्कम्भ                                   ।
-। Cissus quadrangularis **चतुष्कोण वनद्राक्षा** । companion cell सखि-कोशा                         ।
-। cladode पर्णैकपर्व                            । complex जटिल                                    ।
-। claw नखर                                      । Compositae संग्रथित कुल                         ।
-। Clematis **लघुकर्णी-प्रजाति**                 । composite fruit संग्रथित फल                     ।
-। Cleome **स्वर्णक्षीरी प्रजाति**               । compound संयुक्त, संयुत                         ।
-। climber प्रतानी                               । compound bulbसंयुक्त कन्द                      ।
-। clinging root वलक-मूल                         । compound drupe संयुताष्ठि                       ।
-। closed bundle अनेधावी पूल                     । compound microscope संयुक्त अण्वीक्ष            ।
-। club-shaprd मुद्गप्रकार                       । concave न्युब्ज                                 ।
-। coarse adjustment स्थूल-व्यवस्थापन            । concentrated संकेन्द्रित                        ।
-। coccus स्फोटिं-वेश्म                          । concentric संकेन्द्र                            ।
-। cohesion संलाग                                । concentric bundle संकेन्द्र पूल                 ।
-। coleoptile भ्रूणाग्र                          । condensed संघनित                                ।
-। coleorhiza भ्रूणनूलचोल                        ।                                                ।
-
-
-
-।                                     ।                                     ।
-।-------------------------------------।-------------------------------------।
-। conducting strand संवाही पट्ट       । corolline दलीय                      ।
-। conduplicate मध्यनाडीवलित           । corona मुकुट                        ।
-। conjugation संयुग्मन                । cortex बाह्यक                       ।
-। conical शुण्डरूप                    । corymb चिपिटक                       ।
-। conjugating tube संयुग्मन-नाल       । cotyledon बीजपत्र                   ।
-। conjugation संयुग्मन                । cover-slip आवरण-खण्ड                ।
-। conjunctive tissue संयोजी ऊति       । crease भंजरेखा                      ।
-। conrective योजी                     । creeping stem सर्पी स्तम्भ          ।
-। continuous meristem अखण्ड प्रविभाजी । cremocarp युग्मवेश्म                ।
-। contorted न्युद्धेष्टित             । crenate गोलछिन्न                    ।
-। converged अभिसारत                   । crisped तरंगित                      ।
-। convergent अभिसारी                  । Crotalaria juncea **वंग शणपट्ट**    ।
-। convex उदुब्ज                       । Crotaloria retusa **गर्तकी शणपट्ट** ।
-। convolute परिवलित                   । cruciform स्वस्तिकाकार              ।
-। Convolvulus **संवेल्लिका-प्रजाति**  । Cryptostegia **दुग्धघपि-प्रजाति**   ।
-। coralline root प्रवालरूप मूल        । crystalline masses स्फट-पुंज        ।
-। cordate हृद्वत्                     । crystalloid स्फटाभ                  ।
-। coriaceous चर्मल                    । cup चषक                             ।
-। cork त्वक्षा                        । cup-shaped चपकाकार                  ।
-। corm कन्दिका                        । Cuscuta **अमरवल्लि-प्रजाति**        ।
-। corolla दली                         । cuticle उच्चार्मि                   ।
-।                                    । cutin उच्चर्म                       ।
-।                                     । cutinised उच्चर्मीयित               ।
-।                                     । cyathium चषक                        ।
-
-
-
-।                                        ।                                   ।
-।----------------------------------------।-----------------------------------।
-। Cycadales कंगुताल-गोत्र                । denominator हर                    ।
-। Cycas **कंगुताल-प्रजाति**              । dentate दन्तुर                    ।
-। Cycas circinalis **अंतर्वलित कंगुताल** । depression निम्नता                ।
-। Cycas revoluta **वहिर्वलित कंगुताल**   । descending अवरोही                 ।
-। cyclic flower चक्री पुष्प              । diadelphous द्विसंलाग             ।
-। cylinder रम्भ                          । diagram रेखाचित्र                 ।
-। cylindrical रम्भाकार                   । Dianthus **आपद्म-प्रजाति**        ।
-। cyme बहुवर्ध्यक्ष                      । dichasium द्विशाख                 ।
-। cymose बहुवर्थ्यक्षीय                  । dichotomous युग्मशाखी             ।
-। Cynodon dactylon **सामान्य दूर्वा**    । dichotomy युग्मशाखिता             ।
-। cypsela रोमवलय-फल                      । Dicotyledons द्विवीजपत्राः        ।
-। cystolith कोशाश्म                      । dicotyledonous द्विबीजपत्री       ।
-। Daemia **चमदुग्धा-प्रजाति**            । dicotyledonous seed द्विपत्री बीज ।
-। Dablia **पुरुरक्त प्रजाति**            । didynamous द्विदीर्घ              ।
-। Dalbergia sissoo **सामान्य शिंशपा**    । differentiation भिन्नन            ।
-। daughter-axisउपाक्ष दुहितृ-अक्ष       । dilute मन्द                       ।
-। daughter-branch उपशाखा                 । dilute glycerine मन्द मधुरी       ।
-। daughter-cell दुहितृ-कोशा              । dimension विमा                    ।
-। deciduous प्रपाती                      । dioecious plant एकलिंगी पादप      ।
-। decussate व्यत्यस्त                    । Dionaia **मक्षीभक्ष-प्रजाति**     ।
-। dehiscence स्फोटना                     । disc कन्दगर्भ                     ।
-। dehiscent स्फोटी                       । disc विम्ब                        ।
-।                                       । disc floret त्रिम्व-पुष्पक        ।
-।                                        । dispersal अपकिरण                  ।
-।                                        । dispersal of fruits फलापकिरण      ।
-
-
-
-।                                           ।                                             ।
-।-------------------------------------------।---------------------------------------------।
-। dissecting microscopeविच्छेदन अण्वीक्ष   । elliptic उपाण्डवत्                          ।
-। distichous द्विपंक्तिक                    । elongated दीर्पित                           ।
-। diverged अपसारित                          । emarginate गर्ती                            ।
-। divergent अपसारी                          । embryo भ्रूण                                ।
-। Dolichos lablab **शिम्बि-कुलत्थ**         । embryo-sac भ्रूण स्यून                      ।
-। dorsal उत्तर                              । emergence निर्गम                            ।
-। dorsal suture उत्तर सेवनी                 । exarch बहिरारम्भ                            ।
-। dorsifixed पृष्ठलग्न                      । endarch अन्तरारम्भ                          ।
-। dorsiventral उत्तराधर                     । endocarp अन्तर्भित्ति                       ।
-। double samara नैकसपक्ष                    । endodernis अन्तःस्तर                        ।
-। Dracaena **प्रनाग-प्रजाति**               । endogenous आन्तरजात                         ।
-। Drosera **कीटाश-प्रजाति**                 । endosperm भ्रूणपोष                          ।
-। drupe अष्टिफल                             । endospermic भ्रूणपोषी                       ।
-। dry शुष्क                                 । entire अभिन्न                               ।
-। dumbbell द्विमुण्डक                       । environment पर्यावरण                        ।
-। Duranta **वृतिकण्ट-प्रजाति**              । eosin solution उपसि विलयन                   ।
-। duration स्थितिकाल                        । epiblema मूलाधिस्तर                         ।
-। ebracteate अनिपत्री,निपत्ररहित            । epicalyx बहिःकोश                            ।
-। Echinops echinatus **सामान्य उष्ट्रकण्ट** । epicotyl उपरिवीजपत्र                        ।
-। eggअण्ड                                  । epidermal अधिस्तरीय                         ।
-। egg cell अण्डकोशा                         । epidermal appendage अधिस्तरीय उपांग         ।
-। effervescence प्रबुद्बुदन                 । epidermal tissue system अधिस्तरीय ऊति-संहति ।
-। Eichhornia **राहुरत्न-प्रजाति**           । epidermis अधिस्तर                           ।
-।                                          । epigeal उपरिभूमिक                           ।
-।                                           । epigynous उपरिजाय                           ।
-
-
-
-।                                             ।                                    ।
-।---------------------------------------------।------------------------------------।
-। epipetalous दलवद्ध, दलरुह                   । exine बाह्यकवच                     ।
-। epiphytic root पररोही मूल                   । exodermis बहिःस्तर                 ।
-। Equisetales अश्वबार-गोत्र                   । external बाह्य                     ।
-। erect उत्थ                                  । external characters बाह्य गुण      ।
-। etaerio समूह-फल                             । external morphology बाह्य रचनाकार  ।
-। etaerio of achenes चर्मल-समूह-फल            । extra cambial tissueएधा बाह्य ऊति ।
-। etaerio of berties बदरी-समूह-फल             । eye-piece नेत्र-वीक्ष              ।
-। etaerio of drupes अष्टि-समूह-फल             । fa'se कूट                          ।
-। etaerio of follicles एकसेवनीक-संमूह-फल      । false dichotomy कूट युग्मशाखिता    ।
-। ethereal oil दक्षुल तल                      । false septum कूटपटी                ।
-। Euophorbia **दुग्धी-प्रजाति**               । fascicular cambium पूलोय एधा       ।
-। Euphorbia geniculala **जानुमद दुग्धी**      । fatty oil अनुत्पत तैल              ।
-। Euphorbia prostrata **भूशायिनी दुग्धी**     । features गुण                       ।
-। Euphorbia rothiana **हर्यानील दुग्धी**      । female catkin स्त्री-निलम्बशूकी    ।
-। Euphorbia thymifolia **पर्णालीपर्ण दुग्धी** । female flower स्त्री-पुष्प         ।
-। exalbuminons श्वितिरहित                     । female gamete स्त्रीजन्यु          ।
-। exarch बहिरारम्भ                            । female gametophyte स्त्री जन्युजनक ।
-। excentric बहिष्केन्द्र                      । female organ स्त्रीन्द्रिय         ।
-। excretion उत्सर्ग                           । fermentation किण्वन                ।
-।                                            । fern पर्णांग                       ।
-
-
-
-।                                          ।                                            ।
-।------------------------------------------।--------------------------------------------।
-। fibrous तन्तुवत् तन्तुमय                 । follicle एकसेवनीक                          ।
-। fibrous drupe तन्तुमय अष्टिफल            । foot पाद                                   ।
-। fibro-vascular bundle तन्तु-वाही पूल     । form रूप                                   ।
-। filament अंशु, सूत्र                     । fornative region निर्मायी प्रदेश           ।
-। filamentous सूत्रमय                      । free-central अलग्न केन्द्रस्थ              ।
-। filamentous cell-plate सूत्रवत् कोशापट्ट । frond पलाश                                 ।
-। Filicales **पर्णांग-गोत्र**              । fruit फल                                   ।
-। fine adjustment सूक्ष्म व्यवस्थापन       । fruiting body फलन-काय                      ।
-। fistular सुषिर                           । fruitlet लघुफल                             ।
-। flat, flattened चिपिट                    । Funaria **षोडपदन्त-प्रजाति**               ।
-। floral diagram पुष्प-रेखाचित्र           । function कार्य                             ।
-। floral formula पुष्पसूत्र                । fundamental मूलभूत                         ।
-। floral leaf पुष्पपत्र                    । fundamental tissue system मूलभूत ऊति-संहति ।
-। floral symmetry पुष्प-सम्मिाति           । fuagus कवक                                 ।
-। floret पुष्पक                            । furrow सीता                                ।
-। flower पुष्प                             । fusiform तर्कुरूप                          ।
-। Flowering Plantsपुष्पी पादप             । gamete जन्यु                               ।
-। flowering shoot पुष्पी प्ररोह            । gamerangium जन्युघानी                      ।
-। foliaceous पर्णसदृश                      । gametophore जन्युधर                        ।
-। foliage leaf सत्यपत्र                    । gametophyte जन्युजनक                       ।
-।                                         । gamopetalous युक्तदल                       ।
-।                                          । gamopetalous corolla युक्तदली              ।
-।                                          । gamosepalous युक्त निदल                    ।
-।                                          । Gardenia florida **नाडीर्हिगु गन्धराज**    ।
-
-
-
-।                                        ।                                           ।
-।----------------------------------------।-------------------------------------------।
-। general cortex सामान्य बाह्यक          । gymnosperm नग्नबीज                        ।
-। genetic spiral विकास कुन्तल            । gynaeceum जायांग                          ।
-। germinating spore उद्भेदी बीजाणु       । Gynandropsis **चन्द्रिका-प्रजाति**        ।
-। germination उद्भेदन                    । gynophore जायांगभर                        ।
-। gland ग्रन्थि                          । habit स्वरूप                              ।
-। glandular ग्रन्थिमय                    । hadrocentric मध्वदारुक                    ।
-। glandular hair ग्रन्थिरो               । hair रोम                                  ।
-। glandular tissue ग्रन्थीय ऊति          । hairy रोमातृत                             ।
-। glaucous हरिनील                        । half अर्ध                                 ।
-। globoid खनिज-गुलिका                    । Hamelia patens **विस्तारी मंजिष्ठाबन्धु** ।
-। globule गोलिका                         । hanging निलम्बी                           ।
-। glochidum प्रलोम                       । hard कठिन                                 ।
-। Gloriosa superba **सामान्य अग्निशिखा** । hard bast कठिन अधोवाही                    ।
-। glycerine मधुरी                        । hastate कुन्तवत्                          ।
-। glycogen granule मधुजन-कणिका           । Helianthus annuus **सामान्य सूर्यमुखी**   ।
-। granular कणात्मक                       । helicoid एकतोविकासी                       ।
-। granule कणिका                          । Heliotropium **सूर्यावर्त-प्रजाति**       ।
-। groved प्रसीती                         । Hemerocallis **दिनशोभा-प्रजाति**          ।
-। ground tissue आधार-ऊत्ति.              । Hepaticae प्रहरितः                        ।
-। growing point वर्धी अग्र               । herbaceous शाकीय                          ।
-। growing regicn वर्धी प्रदेश            । hespiridium जम्बीरक                       ।
-। guard cell रक्षि-कोशा                  । hilum वृन्तयु                             ।
-। Gymnosperms नग्नबीजाः                  ।                                          ।
-
-
-
-।                                          ।                                       ।
-।------------------------------------------।---------------------------------------।
-। histological differentiation औतिक भिन्नत । indehiscent अस्फोटी                   ।
-। hollow सुपिर                             । indusium बीधा-गोप                     ।
-। honey मकरन्द                             । inferior अधर                          ।
-। host पोषित                               । inflorescence पुष्पविन्यास            ।
-। hydathode जलोत्सर्गी                     । infundibuliform निवप कार              ।
-। Hydrilla **उदावर्त-प्रजाति**             । ingrowth अन्तर्वर्ध                   ।
-। hydrochloric acid उदनीरिक अम्ल           । innermost आन्तरतम                     ।
-। Hydrocotyle **ब्राह्मी-प्रजाति**         । insectivorous कीटाश                   ।
-। hydrophyte जलोद्भिद्                     । insertion निवेशन                      ।
-। hygroscopic उन्देक्षीय                   । intercalary अन्तर्विष्ट               ।
-। Hypericum **पीत शोभा-प्रजाति**           । intercellu'ar space अन्तर्राकेश अवकाश ।
-। hypha कवक-सूत्र                          । interfascicular अन्तरापूल             ।
-। hypocotyl अधोवीजपत्र                     । interfascicular cambium अन्तरापूल एधा ।
-। hypocrateriorm युक्तनखर                  । internode पर्व                        ।
-। hypodermis अधःस्तर                       । interpetiplar वृन्तमध्यस्थ            ।
-। hypogeal अधोभूमिक                        । interval अन्तराल                      ।
-। hypogynous अधोजाय                        । intine अन्तर कवच                      ।
-। ideai आदश                                । intracambial tissue,एभ्रान्तर जात     ।
-। indentical एकरूप                         । Inulin अरशीर्ष                        ।
-। idioblast कोशावट                         । involucre निपत्रचक्र                  ।
-। imbricate अनियमछादी                      । involute अन्तर्वलित                   ।
-। imparipinnate असमपक्षवत्                 । iodine जम्बुकी                        ।
-। impervious अप्रवेश्य                     । iodine solution जम्बुकी विलयन         ।
-। incision भेदन                            ।                                      ।
-
-
-
-।                                         ।                                            ।
-।-----------------------------------------।--------------------------------------------।
-। Ipomoea **त्रिवृता-प्रजाति**            । Lathyrus aphaca **संजनीपत्र त्रिपुट**      ।
-। Ipomoea hastata **कुन्तपर्ण त्रिवृता**  । laticiferous cellआक्षीरीकोश              ।
-। iris'diaphragm (of microscope) प्रकाशयम । laticiferous tissue आक्षीरी ऊति            ।
-। irregular आनयमी                         । laticiferous vessel आक्षीरी वाहिनी         ।
-। Ixora. **ईश्वरा-प्रजाति**               । Latuca **पीताक्षीर-प्रजाति**               ।
-। Jacquemontia **संवेल्लनी-प्रजाति**      । Launaea **तटपत्री-प्रजाति**                ।
-। K (ca yx) पु (पुष्पकोश)                 । Launaca nudicaulis **नग्न स्तम्भ तटपत्री** ।
-। keelI निधरण                             । layer स्तर                                 ।
-। kind प्रकार                             । leaf पर्ण                                  ।
-। Labiafae तुलसीकुल                       । leaf-adaptation पर्ण-उपायोजन               ।
-। lamina फलक                              । leaf base पर्णाधार                         ।
-। lanceolate प्रासवत्                     । leaflet पर्णक                              ।
-। lateral पाश्व                           । leaflet-tendril पर्णक-संजनी                ।
-। lateral appendage पार्श्व-उपांग         । leaf-ptyxis पर्ण वलना                      ।
-। lateral branch पार्व-शाखा               । leaf segment पर्णखण्ड                      ।
-। lateral branching पार्श्व-शाख विन्यास   । leaf-trace पर्ण-प्रदाय                     ।
-। lateral.bud पार्श्व-कलिका               । leaf-trace bundleपण प्रदाय-पूल            ।
-। lateral conjugation पार्श्व-संयुग्मन    । legume शिम्बि                              ।
-। lateral leaflet पार्श्व पर्णक           । Legumincsae शिम्बि-कुल                     ।
-। lateral roc.tlet पार्श्व मूलक           । lens वीक्ष                                 ।
-। lateral vein पार्श्व-नाडी               ।                                           ।
-। latex-आक्षीर                            ।                                            ।
-
-
-
-।                                      ।                                                          ।
-।--------------------------------------।----------------------------------------------------------।
-। Lens esculentus **सामान्य मसूर**     । lomentaceous beriaceous legume अनुप्रस्थभेदी बदरीय शिम्ब ।
-। lenticel वासनरन्ध्र                  । lomentacecus legum अनुप्रस्थभेदी शिम्बि                  ।
-। leptocentric मध्याधोवाहिक            । lomentum अनुप्रस्थभेदी                                   ।
-। Leucaena glauca**सामान्य सितसुमन**  । longitudinal आयाम-अन्वायाम                               ।
-। Leucas **द्रोणपुष्प-प्रजाति**       । longitudinal dehiscence आयाम स्फोटना                     ।
-। Leucas aspera **रुक्ष द्रोणपुष्प**   । longitudinal section आयाम-छेद                            ।
-। leucoplast सितघटन                    । loose शिथिल                                              ।
-। liane आरोही                          । lumen सुषिरक                                             ।
-। lignified लगुडित                     । Lycopodiales मुद्गरहरिता-गोत्र                           ।
-। lignin गुडि                          । lysigenous cavity भंगजातकूप                              ।
-। ligulate जिव्हित                     । magnification विशालन                                     ।
-। Liliaceae नलिनीकुल                   । magnifying lens विशालन-वीक्ष                             ।
-। Lilium **नलिनी-प्रजाति**             । magnifying power विशालन-शक्ति                            ।
-। lily नलिनी                           । male flower पुंपुष्प                                     ।
-। limb अवयव                            । male gamete पुंजन्यु                                     ।
-। limb (of microscope) बाहु            । male organ पुमिन्द्रिय                                   ।
-। linear रेखावत्                       । many-seeded बहुबीज                                       ।
-। Liverworts प्रहरिताः                 । maple कुट्टिमदारु                                        ।
-। lobe पालि                            ।                                                         ।
-। lobed पालिमत्                        ।                                                          ।
-। localised स्थानसीमित                 ।                                                          ।
-। loculicidal dehiscenceगह्वर-स्फोटना ।                                                          ।
-। loculus गह्वर                        ।                                                          ।
-
-
-
-।                                          ।                                    ।
-।------------------------------------------।------------------------------------।
-। margin तटं, प्रान्त                      । microsporophyll लबुत्रीजाणुपत्र    ।
-। marginal प्रान्तीय                       । Mimosa **लज्जालु-प्रजाति**         ।
-। medianlongitudinal section मध्य-आयाम छद । Mimosa hamata **वक्रकष्ट लज्जालु** ।
-। medullary ray मध्यक-किरण                 । Mimosa pudica **सामान्य लज्जालु**  ।
-। megasp:rophyll महाबीजाणुपत्र             । Mimosoideae लज्जालु अनुकुल         ।
-। memebrane कला                           । mineral body खनिजकाय               ।
-। membranous कलावत्                        । mineral deposit खनिज निक्षेप       ।
-। Mentha arvensis **सामान्य पर्णास**       । mixed मिश्रित                      ।
-। mericarp एकास्फोटी                       । modificatiom संपरिवर्तन            ।
-। meristematic प्रविभाजी                   । modified संपरिवर्तित               ।
-। mesarch मध्यारम्भ                        । monadelphous एकसंलाग               ।
-। mesh अक्षि                               । monocarpellary एकाण्डप             ।
-। mesocarp मध्यभित्ति                      । monochasium एकशाख                  ।
-। mesophyll मध्यपर्णोति                    । monocotyledon एकबीजपत्र            ।
-। mesophyte मध्योद्भिद्                    । monocotyledonous एकबीजपत्री        ।
-। metaxylem अनुदारु                        । monocotyledonous seed एकपत्री बीज  ।
-। metaxylem vessel अनुवाहिनी               । Monocotyledons एकबीजपत्रः          ।
-। methyl blue प्रोदल नील                   । Imonoecious द्विलिंगी              ।
-। Michelia **चम्पक-प्रजाति**               ।                                   ।
-। micropyle अण्डद्वार                      ।                                    ।
-। microscope अण्वीक्ष                      ।                                    ।
-। microscopic preparationअण्वीक्ष-नर्मिति ।                                    ।
-
-
-
-।                                                  ।                                 ।
-।--------------------------------------------------।---------------------------------।
-। monecious plant द्विलिंगी पदप                    । Imultiparous बहुसृट्            ।
-। monopodial एकाक्षी                               । Musci हरिताः                    ।
-। moncpodium एकाक्ष                                । Mussaenda **पमंजिष्ठा-प्रजाति** ।
-। morphological रचनाकारीय                          । mycelium कवक-जाल                ।
-। morphology रचनाकार                              । napiform कुम्भीरूप              ।
-। morphology आकारिकी                               । nature स्वरूप                   ।
-। mosaic चित्रकुट्टिम                              । neck ग्रीवा                     ।
-। moss हरिता                                       । neck-cell ग्रीवा-कोशा           ।
-। mother axis मातृ-अक्ष                            । inectary मकरन्द-ग्रन्थि         ।
-। mother root मातृमूल                              । needle सूची                     ।
-। mounting आरोपण                                   । negatively geotropic अभूम्याकृष ।
-। muciiage नियासांद                                । Nepenthes **कलशपण-प्रजाति**     ।
-। Mucor **श्वेता-प्रजाति**                         । Nephrolepis **आपर्णाग-प्रजाति** ।
-। mucronate रुण्डोवर्धी                            । nettle दशरोम                    ।
-। mucus श्लेष्म                                    । nitrate भूत्रीय                 ।
-। Muehlenbeckia **चिपिटस्तम्भ-प्रजाति**            । nitric acid भूयिक अम्ल          ।
-। Mueblenbekia platyclados **सामान्य चिपिटस्तम्भ** । nitrogen भूयाति                 ।
-। multicellular hair बहुकोश रोम                    । nitrogen-fixing भूषांत-स्थिरक   ।
-। multicostate बहुप्रनाडीक                         । node पर्वसन्धि                  ।
-। multilayered बहुस्तर                             । non-endospermic अभ्रूणपोपी      ।
-। multilocular बहुगह्वर                            । normal प्रसामान्य               ।
-। multinucleated चहुन्यष्टित                       । nose-piece वीक्षधर              ।
-।                                                 । Notonia **स्रुत्रपर्ण-प्रजाति** ।
-।                                                  । Inucellus प्रदेह                ।
-
-
-
-।                                               ।                                          ।
-।-----------------------------------------------।------------------------------------------।
-। nucleolus न्यष्टिका                           । overlapped अतिछादित                      ।
-। numerator अंश                                 । ovule पर्यण्ड                            ।
-। nut काष्टफल                                   । Oxygen जारक                              ।
-। oak वंजु                                      । palisade tissue स्कम्भोति                ।
-। obcordate अभिहृद्वत्                          । palmati-fid पाणिवद्-दर                   ।
-। oblong दीर्घवृत्त                             । palmati-partite पाणिवद् विदर             ।
-। obovate अभ्यण्डवत्                            । palmati-sect पाणिवन्-निदर                ।
-। ochreate नालचोली                              । papilionaceous प्रजापतिरूप               ।
-। Ocimum sanctum**कृष्ण तुलसी**                । Papilionatae चणक-अनुकुल                  ।
-। odd विषम                                      । papilla रोभिका                           ।
-। offset भूस्तारिका                             । pappus रोमवलय                            ।
-। oil globule तैल-गोलिका                        । parallel समान्तर                         ।
-। one-seeded एकत्रीज                            । paraphysis वन्ध्यांशु                    ।
-। open (bundle) एधावी (पूल)                     । parasite परजीवी                          ।
-। operculum पिधान                               । parasitic root परजीवी मूल                ।
-। opposite अभिमुख                               । parietal भित्तिलग्न                      ।
-। orbicular वलयाकार                             । paripinnate समपक्षवत्                    ।
-। ordinary epidermal cell साधारण अधिस्तरीय कोशा । Parkinsonia aculeata**सामान्य प्रशूली** ।
-। organic प्रांगारिक                            । partition-wall व्यवधान-भित्ति            ।
-। origin उद्भव                                  । passage cell मार्ग-कोशा                  ।
-। orthostichy उदग्रपंक्ति                       । Passiflora lunata **बालचन्द्र कृष्णकमल** ।
-। outgrowth उद्वंर्ध                            । passive अचर                              ।
-। outline बहीरेखा                               । pedicel पुष्पवृन्त                       ।
-। oval अण्डाकार                                 । pedicillate सत्रुन्त                     ।
-। ovary अण्डाशय                                 । peltate छत्रीय                           ।
-। ovate अण्डवत्                                 । pentacarpellary पंचाण्डप                 ।
-
-
-
-।                                                     ।                                          ।
-।-----------------------------------------------------।------------------------------------------।
-। pentastichous पंचपंक्तिक                            । Phaseolus radiatus **माष मुद्र**         ।
-। pepo अलाबुक                                         । phelloderm उपत्वक्षा                     ।
-। perfoliate परिपत्र                                  । phellogen त्वक्षैधा                      ।
-। perianth परिपुष्प                                   । phloem अधोवाही                           ।
-। pericarp फल-भित्ति                                  । phlomn parenchyma अधोवाही- जीवितक        ।
-। pericycle मध्यरम्भवेष्ट                             । phloroglucin शिफमध्वि                    ।
-। perigyncus परिजाय                                   । phylloclade पर्ण कार्यस्तम्भ             ।
-। periphery परिणाह                                    । phylloclade पर्ण कार्यस्तम्भ             ।
-। peristome दन्तबिम्ब                                 । phyllode वृन्तफलक                        ।
-। peristome apparatus दन्तविम्व-माधित्र               । phyllotaxis पणन्यास                      ।
-। permannet स्थायी                                    । piliferous layer रोमिरतर                 ।
-। permanent micropreparation स्थायी अण्वीक्ष निर्मिति । pinna पक्षक                              ।
-। permanent region स्थायी प्रदेश                      । pinnate पक्षवत्                          ।
-। permanant tissue स्थायां ऊति                        । pinnati-fid पक्षवद्-दर                   ।
-। persistent चिरलग्न                                  । pinnati-partite पक्षवद्-बिदर             ।
-। personate संवृत                                     । pinnati sect पक्षवन-निदर                 ।
-। petal दल                                            । pinnule पर्णकी, पक्षकी                   ।
-। petaloid दलाभ                                       । Pinus **सरल-प्रजाति**                    ।
-। petiolate सत्रुन्त                                  । Piper betle **ताम्बूल पिप्पली**          ।
-। petiole पर्णवृन्त                                   । Pistia **कुम्भिका-प्रजाति**              ।
-। Petunia **जिवापदलीक-प्रजाति**                       । Pisum sativum **स्वादु कलाय**            ।
-। Phaseolus mungo **सामान्य मुद्र**                   । pit गर्त                                 ।
-।                                                    । pitcher कलश                              ।
-।                                                     । pitcher-plant कलश-पादप                   ।
-।                                                     । pith मध्यक                               ।
-।                                                     । Pithecolobium dulce **स्वादु वनाम्लिका** ।
-
-
-
-।                                        ।                                     ।
-।----------------------------------------।-------------------------------------।
-। Pithecolobium saman **शोभा बनाम्बिका** । polypetalous पृथग्दल                ।
-। pitted गर्ती                           । polypetalous corolla पृथग्दली       ।
-। placenta जरायु                         । polysepalous पृथङ्निदल              ।
-। placentation जरायुन्यास                । pome उत्कोलक                        ।
-। place of attachmentआरोजन-स्थान        । porous छिद्रिष्ठ                    ।
-। plane ( adj.) समतल, अवलित              । porous d-hiscence रन्ध्रो स्फोटना   ।
-। plane (n.) तल                          । Portulaca oleracea **सामान्य लोणी** ।
-। plant पादप                             । posterior पश्च                      ।
-। plastid घटन                            । Pothos **गजपिप्पली प्रजाति**        ।
-। Pleurococcus **पार्श्वाप्य-प्रजाति**   । precipitate1 निस्सादित              ।
-। plicate आयामवलित                       । preserved परिरक्षित                 ।
-। plumle भ्रूणाग्र                       । primary प्राथमिक, प्रथम             ।
-। pneumatophore श्वसन-मूल                । primary meristem आद्य प्रविभाजी     ।
-। Poinciana regia राज आपरण               । primary root प्रथम मूल              ।
-। pollen पराग                            । primary structure प्राथमिक संरचना   ।
-। pollen-chamber परागवेश्म               । primordial utricle आदि-इति          ।
-। pollen-grain पराग-कण                   । process विधा, प्रवर्ध               ।
-। pollinaton पर गण                       । prolongation दीर्घण                 ।
-। polyadelphous पुरुसंलाग                । prosenchymatous दीर्घितक            ।
-। poyandrous पृथक्पुंकेसर                । Prosopis spicigera **सामान्य शमी**  ।
-। polycarpellary पुर्वण्डप               । prostrate भूज़ायी                    ।
-। polychasium पुरुशाख                    ।                                    ।
-। polygonal बहुभुज                       ।                                     ।
-। Polygonum **पुरुसन्धि-प्रजाति**        ।                                     ।
-
-
-
-।                                  ।                                ।
-।----------------------------------।--------------------------------।
-। protein प्रोभूजिन                । raphides स्फ्टसूची             ।
-। protein grain प्रोभूजिन-कण       । raspberry रसबदरी               ।
-। prothallus सूकायक                । reduced प्रह्रसित              ।
-। protonema प्रांकुर               । regma स्फोटि-वंश्मी            ।
-। protoplasm प्ररस                 । regular नियमी                  ।
-। protoxylem आदिदारु               । reniform वृक्काकार             ।
-। Psilotum**अपर्णस्तम्भ-प्रजाति** । replum जरायु कंकाल             ।
-। Pteridophyta पर्णांगोद्भिदः      । representation निरूपण          ।
-। pulvinus पीनाधार                 । reproduction प्रजनन            ।
-। pyrenoid प्रोभूजक                । reproductive organ प्रजननांग   ।
-। raceme एकवर्थ्यक्ष               । resin उद्यास                   ।
-। racemose एकवर्ध्यक्षीय           । resin canal उद्यास-कुल्या      ।
-। rachis प्राक्ष                   । respiratory cavity श्वसन कूप   ।
-। radial अरीय                      । reticulate जालवत्, जालिकावत्   ।
-। radial wall अरीय-भित्ति          । retuse गर्तकी                  ।
-। radiating अरीय                   । revolute बहिर्वलित             ।
-। radicle भ्रूणमूल                 । rhizoid शिफाभ                  ।
-। railway creeper घण्टावल्लरी      । rhiome शिफावृन्त               ।
-। ramentum of hairs रोमावरण        । Rhizophora **वायुशिफ-प्रजाति** ।
-। ramentum of scalesशल्कावरण      । Ribes **पाकवदरी-प्रजाति**      ।
-। Ranunculus **नवनीतचष-प्रजाति**   । ridge कूट                      ।
-। raphe सेवनी                      । ringent विवृत                  ।
-।                                 । root मूल                       ।
-।                                  । root-cap मूलगोपः               ।
-।                                  । root-hair मूलरोम               ।
-
-
-
-।                                        ।                                            ।
-।----------------------------------------।--------------------------------------------।
-। root-hair region मूलरोम-प्रदेश         । scar किण                                   ।
-। rootlet मूलक                           । schizocarpic fruit वेश्मर फाटी फल          ।
-। root regions मूलप्रदेश                 । sclerenchyma दृढकोशभित्तिक                 ।
-। root system मूल-संहति                  । sclerenchymatous दृढकोशामित्ति             ।
-। root tendril मूल-संजनी                 । sclerenchymatous fibre दृढकोशानित्ति तन्तु ।
-। root tubercle मूलाकन्दिका              । scorpioid उभयतोविकासी                      ।
-। rosaceous पाटलीय                       । scutellum वरूथिका                          ।
-। rotate चक्रित                          । secondary उत्तर, द्वितीय                   ।
-। round गोलाकार                          । secondary cortex उत्तर बाह्यक              ।
-। runner भूस्तारी                        । secondary growth उत्तर वृद्धि              ।
-। Ruscus **आहरिपुष्य-प्रजाति**           । secondary medullary ray उत्तर मध्यक -किरण  ।
-। Saccharomyces **शर्कराकवक-प्रजाति**    । secondary meristem उत्तर प्रविभाजी         ।
-। sagittate बाणवत्                       । secondary phloem उत्तर अधोवाही             ।
-। Salvia **तुलसीबन्धु-प्रजाति**          । secondary root द्वितीय मूल                 ।
-। samara सपक्ष                           । secondary xylem उत्तर दारु.                ।
-। Sambucus **गन्धुल-प्रजाति**            । secretion उदासर्ग                          ।
-। sap रस                                 । section छेद                                ।
-। saprophyte मृतजीवी                     । seed बीज                                   ।
-। Saraca indica**सामान्य अशोक**         । segment खण्ड                               ।
-। scalariform conjugation सोपान-संयुग्मन ।                                           ।
-। scale शल्क                             ।                                            ।
-। scale leaf शल्कपत्र                    ।                                            ।
-। scaly bract शल्क-निपत्र                ।                                            ।
-। scaly bulb सशल्क कन्द                  ।                                            ।
-
-
-
-।                                            ।                                               ।
-।--------------------------------------------।-----------------------------------------------।
-। sensitive हृष                              । simple fruit एकिफल                            ।
-। sepal निदल                                 । single एकल                                    ।
-। septate पटमित्                             । size परिमाण                                   ।
-। septicidaldehiscence पटी-स्फोटना          । lide सृप                                      ।
-। septifragal dehiscenceपटभिंग-स्फोटना      । Smilax **चीनमूल-प्रजाति**                     ।
-। septum पटी                                 । Solanum seaforthianum **दीर्घवृन्त वृन्ताक** ।
-। series माला                                । Solanum xanthocarpum **कण्टक वृन्ताक**       ।
-। serrate आरावत्                             । solitary एकल,                                 ।
-। Sesbania **जयन्ती-प्रजाति**                । soluble विलेय                                 ।
-। Sesbania grandiflora **बृहत्पुष्प-जयन्ती** । solution विलयन                                ।
-। sessileअवृन्त                             । Sonchus arvensis**क्षेत्र सहदेवी**           ।
-। seta दण्डी                                 । sorcsis सरसाक्ष                               ।
-। sexual fusion मैथुन सायुज्यन               । sorus बीधागुच्छ                               ।
-। sexual reproduction मैथुन प्रजनन           । Space अवकाश                                   ।
-। shape आकार                                 । spadix छदशूकी                                 ।
-। sheath कंचुक                               । spathe शूकी-छद                                ।
-। shoot प्ररोह                               । spathulate सुववत्                             ।
-। Sida cordifolia **हृत्पर्ण बला**           । special विशेष                                 ।
-। sieve-plate चालनी-पट्ट                     । Specimen प्रादर्श                             ।
-। sieve tube चालनी-नाल                       । Spermatophy ta बीजोद्भिदः                     ।
-। sieve-tube tissue चालनी-नाल ऊति            । sphaeraphides स्फटपिण्ड                       ।
-। silicula कूटपटीक                           । sphaerite स्फटगोल                             ।
-। simple सरल                                 । spike शूकी                                    ।
-।                                           । spikelet शूकिका                               ।
-।                                            । spine शल्य, शल्यावृत्त, शल्यरूप, सशल्य        ।
-
-
-
-।                                  ।                                 ।
-।----------------------------------।---------------------------------।
-। spiral कुन्तल, कुन्तलवत्         । sterid bundle दृढपूल            ।
-। spiral flower कुन्तल पुष्प       । sterile वन्थ्य                  ।
-। spirally coiled कुन्तलवलायत      । stigmetic disc कुक्षिबिम्ब      ।
-। Spirogyra **कुन्तलवलय-प्रजाति**  । stinging hair दंशक रोम          ।
-। spongy parenchyma शिथिल जीवितक   । stipulate अनुपत्री              ।
-। sporangiophore बीधाभर            । stipule अनुपत्र                 ।
-। sporangium बीजाणु-धानी           । stolon विरोह                    ।
-। spore बीजाणु.                    । stomata मुख                     ।
-। sporogoniumबीजाणुजनक           । stomium मुख                     ।
-। sporophyll बीजाणुपत्र            । sone call दृढकोशा               ।
-। sporophyte बीजाणुजनक             । Stony पाषाणवत्                  ।
-। spur पादायुव                     । strap-shaped पट्टकरूप           ।
-। spurred petal पाहायुधी दल        । Striga मूल प्रजाति              ।
-। stage (of microscope) मंच        । strong प्रबल                    ।
-। stain अभिरंजन                    । strong acidic प्रबल अस्ट्रिक रस ।
-। stained अभिगजित                  । structure रचिति, संरचना         ।
-। stamen पुंकेसर                   । style कुक्षिवृत्त               ।
-। staminal पुंकेसरी                । subepidermal उपाधिस्तरीय        ।
-। staminate strobilus cone पुंशंकु । suborin त्वक्षि                 ।
-। staminode वन्ध्यकेसर             । suberised त्वक्षीयित            ।
-। starch मण्ड                      । subsidiary cell गौण कोशा        ।
-। starch grain मण्डकण              । substratum जीवाधार              ।
-। stele मध्यरम्भ                   । successive पूर्वानुपर           ।
-। stem स्तम्भ                      । succulent सरस                   ।
-।                                 । sucker अधोभूस्तारी              ।
-।                                  । superior उत्तर                  ।
-।                                  । superposed आच्छादित             ।
-
-
-
-।                                    ।                                            ।
-।------------------------------------।--------------------------------------------।
-। surface view तलदृश्य               । thick-walledparenchyma स्थूलभित्ति जीवितक ।
-। suspensor निलम्ब                   । thinwalled parenchymaतनुभित्ति-जीवितक     ।
-। syconus उदुम्बरक                   । Tilia **परूषबन्धु-प्रजाति**                ।
-। synantherous संपरागाशय             । tissue ऊति                                ।
-। syncarpous युताण्डप                । trabeculae दण्डिका                         ।
-। syngenesious संपरागाशय             । tracheal tissue जलवाही ऊति                 ।
-। system संहति                       । tracheid वाही कोशा                         ।
-। Tagetes patula**आस्तारी गन्दुक**  । Tradescantia**तनूकेसर-प्रजाति**           ।
-। Tamarindus indica**भारत अम्लिका** । transpiration उत्स्वेदन                    ।
-। tannin शाल्क                       । transverseअनुप्रस्थ                       ।
-। tap-root अधिमूल                    । transversedehiscnce अनुप्रस्थ-स्कोटना     ।
-। tap-root system आधिमूल-संहति       । transverse plane अनुप्रस्थतल              ।
-। technical पारिभाषिक                । trap-door रुधद्वार                         ।
-। tegmen अन्तश्चोल                   । Tridax **कौशेयफल-प्रजाति**                 ।
-। tendril संजनी                      । Tridax procumbensभूशायी कौशेयफल           ।
-। tendrillar संजनीरूप                । tristichous त्रिपंक्तिक                    ।
-। tentacle अंगुक                     । Tro paeolum **विकुसुम्भ-प्रजाति**          ।
-। testa बीज-चोल                      । truncate रुण्डित                           ।
-। tetradyoamous चतुर्दीर्घ           । tuber आकन्द                                ।
-। tetralocular चतुर्गव्हर            । tuberous साकन्द                            ।
-। texture वयन                        ।                                           ।
-। thalamus पीनाक्ष                   ।                                            ।
-। Thallophyta सूकायोद्भिदः           ।                                            ।
-। theca प्रावरक                      ।                                            ।
-। thick-walled स्थूलभित्ति           ।                                            ।
-
-
-
-।                                   ।                                         ।
-।-----------------------------------।-----------------------------------------।
-। tubualr नालाकार                   । vasular cambium वाही एधा                ।
-। tunic चोल                         । vascular cylinder वाही रम्भ             ।
-। tunicated scale-leafचोल-शल्कपत्र । vascular strand वाही पट्ट               ।
-। twiner वलयिता                     । vascular tissue वाही ऊति                ।
-। twisted न्युद्वेष्टित             । vascular tissue systemवाही उति-संहति   ।
-। type प्ररूप, प्रकार               । vegetative buddingवर्धी कुङ्मन         ।
-। typical प्रारूपिक                 । vegetative organ वर्धी अंग              ।
-। umbel उच्छत्र                     । vegetative reproductionवर्धी प्रजनन    ।
-। unbranched अशाखी                  । vainlet नाडिका                          ।
-। underground भूमिगत                । venation नाडीविन्यास                    ।
-। undifferentiated अभिन्न           । venter अण्डधानी                         ।
-। unguiculate नखरी, वृन्ती          । ventral अधर                             ।
-। unicellular एककोश                 । ventral canal cell अण्डधानी-कुल्या कोशा ।
-। unicellular hair एककोश रोम        । ventral suture अधर सेवनी                ।
-। unicostate एकप्रनाडांक            । Venus' fly-trap मक्षीभक्ष               ।
-। unilayered एकलस्तर                । Vernonia **जीरी-प्रजाति**               ।
-। unilocular एकगह्वर                । versatile परिदोली                       ।
-। uniparous एकसृट्                  । vertical उदग्र                          ।
-। unisexual एकलिंग                  । verticillaster भ्रमियुग्म               ।
-। Utricularia **दृतिपर्ण-प्रजाति**  । vexillum ध्वज                           ।
-। vacuole रसधानी                    । Vigna cat jung **सामान्य राजमाष**       ।
-। valvate अनतिछादी                  । Vinca **करवीरवन्धु प्रजाति**            ।
-। Vanda **वन्द-प्रजाति**            । Vitis **द्राक्षा-प्रजाति**              ।
-। vascular वाही                     ।                                        ।
-। vascular bundle वाही पूल          ।                                         ।
-
-
-
-।                                     ।                              ।
-।-------------------------------------।------------------------------।
-। wavy तरंगित                         । xerophyte शुष्कोद्भिद्       ।
-। weak दुर्बल                         । xylem दारु                   ।
-। whorl भ्रमि                         । xylem parenchyma दारु जीवितक ।
-। whorled भ्रमिरूप                    । xylem vessel दारु वाहिनी     ।
-। wing पक्ष                           । yeast प्रकिण्व               ।
-। winged सपक्ष                        । Yucca **सितकुसुम-प्रजाति**   ।
-। wood fibre काष्ठ तन्तु              । Zinnia **सुभगा-प्रजाति**     ।
-। wood fibre काष्ठ तन्तु              । Zone कटिबन्ध                 ।
-। wood parenchyma.काष्ठ- जीवितक       । zygomorphic एकसम्मित         ।
-। wood vessel काष्ट-वाहिनी            । zygomorphy एकसम्मिति         ।
-। woody काष्टीयः                      । zygopsore युक्तबीजाणु        ।
-। Xanthium sbiumarium **भारत कण्डफल** ।                             ।
+|                                              |                                            |
+|----------------------------------------------|--------------------------------------------|
+| abaxial अपराक्ष                              | active क्रियाशील, चर                       |
+| Abrus pracatorius **सामान्य गुंजा**          | acuminate सशिख                             |
+| absorb प्रचूपण                               | acute तीक्ष्ण                             |
+| absorption प्रचूषण                           | adaptation उपायोजन                         |
+| Abutilon **ककती प्रजाति**                    | adelphous अंशुसंलाग                        |
+| Acacia arabica **भारत बब्बूल**               | adhesion बन्ध, अभिलाग                      |
+| Acacia catechu **खदिर बब्बूल**               | adjustment व्यवस्थापन                      |
+| Acacia decurrens **वृन्तफलक बब्बूल**         | adoate अभिलग्न                             |
+| accessory bud उप-कलिका                       | adventitious आगन्तुक                       |
+| accessory transfusion tissue उप-संक्रामण ऊति | adventitious bud आगन्तुक कलिका             |
+| acetic acid शुक्तिक अम्ल                     | adventitious root system आगन्तुक मूल-संहति |
+| achene चर्मलफल                               | aerial वायव्य                              |
+| achenial fruit एकबीजास्फोटी फल               | aestivation निकलिकाविन्यास                 |
+| Achyranthes **खरमंजरी-प्रजाति**              | Agave **वनकुमारी-प्रजाति**                 |
+| Achyranthes as pera **सामान्य खरमंजरी**      | Ageratum conyzoides **हृत्पूर्ण अजर**      |
+| acicular सूचीवत्                             | aggregate fruit समूह फल                    |
+| acrcpetal successionअग्राभिवर्धी क्रम       | air-sac वात-स्यून                          |
+| actinomorphic अरसम्मित                       | ala पक्ष                                   |
+| catinomorphy अरसम्मिति                       | Albissia lebbek **सामान्य शिरीष**          |
+|                                             | albumincus श्वितिमत्                       |
+|                                              | alga आप्यका                                |
+|                                              | Algae आप्यकाः                              |
+
+
+
+|                                     |                                         |
+|-------------------------------------|-----------------------------------------|
+| Allium cepa **सामान्य पलाण्डु**     | apophysis निप्रावर                      |
+| Alliumsativa **उग्रगन्ध पलाण्डु**   | appendage उपांग                         |
+| Aloe **कुमारी-प्रजाति**             | aquatic जलीय                            |
+| alternate एकान्तरिक                 | aquatic root जलीय मूल                   |
+| Amarantus **प्रवास्तुक-प्रजाति**    | Arachis hypogaea **सामान्य भूमुद्र**    |
+| Amarantus blitum **शाक प्रवास्तुक** | archegonialchamber आदियोनि- वेश्म       |
+| anastomosis जालशाख्यन               | archegonium आदियोनि                     |
+| anatomy शारीर                       | areole कूपक                             |
+| androecium पुमंग                    | Argemone mexicana**सामान्य शृगालकण्ट** |
+| androgynophore पुंजायांगभर          | aril अग्रचोल                            |
+| Angiosperms-संवृतबीजांः             | arrangement विन्यास                     |
+| angle of divergence अपसार- कोण      | articulation सन्धि                      |
+| angular कौणिक                       | ascospore धानीबीजाणु                    |
+| annual ring वार्षिक वलय             | ascending आरोही                         |
+| annular वलयाकार                     | ascus धानी                              |
+| annulus बीधावलय                     | aseptate अपटीमत्                        |
+| anomalous विचाली                    | asexual reproduction अमैथुन प्रजनन      |
+| anterior अग्र                       | As paragus **शतावरी-प्रजाति**           |
+| anther परागाशय                      | assimilating tissue परिपाची ऊति         |
+| antheridium पुंधानी                 | asymmetrical असम्मित                    |
+| Antigonon-**जानुस्तम्भ-प्रजाति**    | attachment आसंजन                        |
+| Antirrhinum **नासापुष्प-प्रजाति**   | attraction आकर्षण                       |
+| apex अग्र                           |                                        |
+| apical bud अग्र-कालका               |                                         |
+| apocarpous पृथगण्डप                 |                                         |
+
+
+
+|                                   |                                            |
+|-----------------------------------|--------------------------------------------|
+| Avicennia **शेफालिबन्धु-प्रजाति** | bladder आशय                                |
+| axil कक्ष                         | bladderwort दृतिवर्ण                       |
+| axile अक्षलग्न                    | body काय                                   |
+| axillary कक्ष                     | body-tube (of micro- scope) नाल-काय        |
+| axillary bud कक्ष कलिका           | bottle - brush कूपी-कूर्च                  |
+| axillary flower कक्ष पुष्प        | Bougainvillaea **वनविलास-प्रजाति**         |
+| axis अक्ष                         | bract निपत्र                               |
+| bacterial nodule शाकाणु-ग्रन्था   | bracteate निपत्री                          |
+| bacterium शाकाणु                  | bracteole निपत्रक                          |
+| balusta दाडिमक                    | branch शाखा                                |
+| bark वल्क                         | branched शाखी                              |
+| basal आधारलग्न                    | branching शाखाविन्यास                      |
+| base आधार                         | bristle दृढलोम                             |
+| basifixed आधारलग्न                | Bryophyllum घातपर्ण-प्रजाति                |
+| Bauhinia **कांचनार-प्रजाति**      | bryophyta हरितोभ्दिदः                      |
+| beak चंचु                         | bud कुड्म, कालिका                          |
+| berry बदरी                        | bulb कन्द                                  |
+| bicarp:llary द्व्यण्डप            | bundle sheath पुलकंचुक                     |
+| bicollateral उभयपार्श्वस्थ        | Butea frondosa **सामान्य पलाश**            |
+| biconvex द्वि-उदुब्ज              | corolla दली                                |
+| bifacial व्द्यनीक                 | Cactus **कण्टाल-प्रजाति**                  |
+| Bignonia **शुक्र-प्रजाति**        | caducous आशुपाती                           |
+| bilabiate व्द्योष्ठी              | Caesalpinia **लताकरंज-प्रजाति**            |
+| bilocular द्विगह्वर               | Caesalpinia pulcherimar **सुन्दर लताकरंज** |
+| biparous द्विसृट्                 |                                           |
+| blackberry कृष्णवदरी              |                                            |
+
+
+
+|                                             |                                          |
+|---------------------------------------------|------------------------------------------|
+| Caesalpinioideae लताकरंज-अनुकुल             | carpel अण्डप                             |
+| Caesulia axillaris **सामान्य उद्स्फोट**     | carpophore अण्डपभर                       |
+| Calcium oxalate **सामान्य तुवरी**           | Carthamus tinctorius **सामान्य कुसुम्भ** |
+| Caladium **सूरणबन्धु प्रजाति**              | caruncle अग्रचोल                         |
+| Cajanus indicus चूर्णातु प्रांगारीय         | caryophyllaceous गूड-पंचनखर              |
+| calcium carbonate चूर्गातु तिग्मीय          | caryopsis संचोलभित्ति                    |
+| Calotropis **अर्क-प्रजाति**                 | casparian strip त्वक्षि-पट्टी            |
+| calyptra प्रावरवष्ट                         | Cassia **कालसर्द-प्रजाति**               |
+| calyx पुष्पकोश                              | Cassia obovata **अभ्यण्डपर्ग कासमर्द**   |
+| cambium एधा                                 | catkin निलम्ब-शूकी                       |
+| campanulate घण्टाकार                        | cell-sap धानीरस                          |
+| candituft चिपिटगुच्छ                        | cellulose कोशाधु                         |
+| capitate hair समुण्ड रोम                    | cell-wall कोशाभित्ति                     |
+| capituium मुण्डक                            | central केन्द्रीय                        |
+| Capparis **करीर-प्रजाति**                   | central cylinder मध्यरम्भ                |
+| capsular fruit बहुवीजस्कोटी फल              | centrifugal xylem केन्द्रापग दारु        |
+| capsule प्रावर                              | centripetal xylem केन्द्राभिग दारु       |
+| capsule wall प्रावर-भिति                    | chain शुखला                              |
+| carbon di-oxide gas प्रांगार-द्विजारेव वाति | chalaza निभाग                            |
+| carcerulus चतुरादिवेश्म                     | chlorenchyma शादी जीवितक                 |
+| carina निधरण                                | Chlorophyceae **शादाप्यकाः**             |
+|                                            | chlorophyll शाद                          |
+|                                             | chloroplast शादिघटन                      |
+
+
+
+|                                               |                                                 |
+|-----------------------------------------------|-------------------------------------------------|
+| chlor-zinc-iodine नीर-कुप्यातु- जम्बुकी       | Coleus **अश्मान्तक प्रजाति**                    |
+| chromoplast वर्णिघटन                          | collateral एकपार्श्वस्थ                         |
+| Chrysanthemum **हेमपुष्य प्रजाति**            | collteral vascular bundle एकपार्श्वस्थ वाही पूल |
+| Cicer arietinum **सामान्य चणक**               | collenchyma स्थूलकोण                            |
+| circinate अग्रवलित                            | collenchymatous स्थूलकोण—                       |
+| circulation परिवहण                            | collenchymatous hypodermis स्थूलकोण अधःस्तर     |
+| circulation of protoplasm प्ररस- परिवहण       | columella स्तम्भिका                             |
+| Cissus **वनद्राक्षा-प्रजाति**                 | column स्कम्भ                                   |
+| Cissus quadrangularis **चतुष्कोण वनद्राक्षा** | companion cell सखि-कोशा                         |
+| cladode पर्णैकपर्व                            | complex जटिल                                    |
+| claw नखर                                      | Compositae संग्रथित कुल                         |
+| Clematis **लघुकर्णी-प्रजाति**                 | composite fruit संग्रथित फल                     |
+| Cleome **स्वर्णक्षीरी प्रजाति**               | compound संयुक्त, संयुत                         |
+| climber प्रतानी                               | compound bulbसंयुक्त कन्द                      |
+| clinging root वलक-मूल                         | compound drupe संयुताष्ठि                       |
+| closed bundle अनेधावी पूल                     | compound microscope संयुक्त अण्वीक्ष            |
+| club-shaprd मुद्गप्रकार                       | concave न्युब्ज                                 |
+| coarse adjustment स्थूल-व्यवस्थापन            | concentrated संकेन्द्रित                        |
+| coccus स्फोटिं-वेश्म                          | concentric संकेन्द्र                            |
+| cohesion संलाग                                | concentric bundle संकेन्द्र पूल                 |
+| coleoptile भ्रूणाग्र                          | condensed संघनित                                |
+| coleorhiza भ्रूणनूलचोल                        |                                                |
+
+
+
+|                                     |                                     |
+|-------------------------------------|-------------------------------------|
+| conducting strand संवाही पट्ट       | corolline दलीय                      |
+| conduplicate मध्यनाडीवलित           | corona मुकुट                        |
+| conjugation संयुग्मन                | cortex बाह्यक                       |
+| conical शुण्डरूप                    | corymb चिपिटक                       |
+| conjugating tube संयुग्मन-नाल       | cotyledon बीजपत्र                   |
+| conjugation संयुग्मन                | cover-slip आवरण-खण्ड                |
+| conjunctive tissue संयोजी ऊति       | crease भंजरेखा                      |
+| conrective योजी                     | creeping stem सर्पी स्तम्भ          |
+| continuous meristem अखण्ड प्रविभाजी | cremocarp युग्मवेश्म                |
+| contorted न्युद्धेष्टित             | crenate गोलछिन्न                    |
+| converged अभिसारत                   | crisped तरंगित                      |
+| convergent अभिसारी                  | Crotalaria juncea **वंग शणपट्ट**    |
+| convex उदुब्ज                       | Crotaloria retusa **गर्तकी शणपट्ट** |
+| convolute परिवलित                   | cruciform स्वस्तिकाकार              |
+| Convolvulus **संवेल्लिका-प्रजाति**  | Cryptostegia **दुग्धघपि-प्रजाति**   |
+| coralline root प्रवालरूप मूल        | crystalline masses स्फट-पुंज        |
+| cordate हृद्वत्                     | crystalloid स्फटाभ                  |
+| coriaceous चर्मल                    | cup चषक                             |
+| cork त्वक्षा                        | cup-shaped चपकाकार                  |
+| corm कन्दिका                        | Cuscuta **अमरवल्लि-प्रजाति**        |
+| corolla दली                         | cuticle उच्चार्मि                   |
+|                                    | cutin उच्चर्म                       |
+|                                     | cutinised उच्चर्मीयित               |
+|                                     | cyathium चषक                        |
+
+
+
+|                                        |                                   |
+|----------------------------------------|-----------------------------------|
+| Cycadales कंगुताल-गोत्र                | denominator हर                    |
+| Cycas **कंगुताल-प्रजाति**              | dentate दन्तुर                    |
+| Cycas circinalis **अंतर्वलित कंगुताल** | depression निम्नता                |
+| Cycas revoluta **वहिर्वलित कंगुताल**   | descending अवरोही                 |
+| cyclic flower चक्री पुष्प              | diadelphous द्विसंलाग             |
+| cylinder रम्भ                          | diagram रेखाचित्र                 |
+| cylindrical रम्भाकार                   | Dianthus **आपद्म-प्रजाति**        |
+| cyme बहुवर्ध्यक्ष                      | dichasium द्विशाख                 |
+| cymose बहुवर्थ्यक्षीय                  | dichotomous युग्मशाखी             |
+| Cynodon dactylon **सामान्य दूर्वा**    | dichotomy युग्मशाखिता             |
+| cypsela रोमवलय-फल                      | Dicotyledons द्विवीजपत्राः        |
+| cystolith कोशाश्म                      | dicotyledonous द्विबीजपत्री       |
+| Daemia **चमदुग्धा-प्रजाति**            | dicotyledonous seed द्विपत्री बीज |
+| Dablia **पुरुरक्त प्रजाति**            | didynamous द्विदीर्घ              |
+| Dalbergia sissoo **सामान्य शिंशपा**    | differentiation भिन्नन            |
+| daughter-axisउपाक्ष दुहितृ-अक्ष       | dilute मन्द                       |
+| daughter-branch उपशाखा                 | dilute glycerine मन्द मधुरी       |
+| daughter-cell दुहितृ-कोशा              | dimension विमा                    |
+| deciduous प्रपाती                      | dioecious plant एकलिंगी पादप      |
+| decussate व्यत्यस्त                    | Dionaia **मक्षीभक्ष-प्रजाति**     |
+| dehiscence स्फोटना                     | disc कन्दगर्भ                     |
+| dehiscent स्फोटी                       | disc विम्ब                        |
+|                                       | disc floret त्रिम्व-पुष्पक        |
+|                                        | dispersal अपकिरण                  |
+|                                        | dispersal of fruits फलापकिरण      |
+
+
+
+|                                           |                                             |
+|-------------------------------------------|---------------------------------------------|
+| dissecting microscopeविच्छेदन अण्वीक्ष   | elliptic उपाण्डवत्                          |
+| distichous द्विपंक्तिक                    | elongated दीर्पित                           |
+| diverged अपसारित                          | emarginate गर्ती                            |
+| divergent अपसारी                          | embryo भ्रूण                                |
+| Dolichos lablab **शिम्बि-कुलत्थ**         | embryo-sac भ्रूण स्यून                      |
+| dorsal उत्तर                              | emergence निर्गम                            |
+| dorsal suture उत्तर सेवनी                 | exarch बहिरारम्भ                            |
+| dorsifixed पृष्ठलग्न                      | endarch अन्तरारम्भ                          |
+| dorsiventral उत्तराधर                     | endocarp अन्तर्भित्ति                       |
+| double samara नैकसपक्ष                    | endodernis अन्तःस्तर                        |
+| Dracaena **प्रनाग-प्रजाति**               | endogenous आन्तरजात                         |
+| Drosera **कीटाश-प्रजाति**                 | endosperm भ्रूणपोष                          |
+| drupe अष्टिफल                             | endospermic भ्रूणपोषी                       |
+| dry शुष्क                                 | entire अभिन्न                               |
+| dumbbell द्विमुण्डक                       | environment पर्यावरण                        |
+| Duranta **वृतिकण्ट-प्रजाति**              | eosin solution उपसि विलयन                   |
+| duration स्थितिकाल                        | epiblema मूलाधिस्तर                         |
+| ebracteate अनिपत्री,निपत्ररहित            | epicalyx बहिःकोश                            |
+| Echinops echinatus **सामान्य उष्ट्रकण्ट** | epicotyl उपरिवीजपत्र                        |
+| eggअण्ड                                  | epidermal अधिस्तरीय                         |
+| egg cell अण्डकोशा                         | epidermal appendage अधिस्तरीय उपांग         |
+| effervescence प्रबुद्बुदन                 | epidermal tissue system अधिस्तरीय ऊति-संहति |
+| Eichhornia **राहुरत्न-प्रजाति**           | epidermis अधिस्तर                           |
+|                                          | epigeal उपरिभूमिक                           |
+|                                           | epigynous उपरिजाय                           |
+
+
+
+|                                             |                                    |
+|---------------------------------------------|------------------------------------|
+| epipetalous दलवद्ध, दलरुह                   | exine बाह्यकवच                     |
+| epiphytic root पररोही मूल                   | exodermis बहिःस्तर                 |
+| Equisetales अश्वबार-गोत्र                   | external बाह्य                     |
+| erect उत्थ                                  | external characters बाह्य गुण      |
+| etaerio समूह-फल                             | external morphology बाह्य रचनाकार  |
+| etaerio of achenes चर्मल-समूह-फल            | extra cambial tissueएधा बाह्य ऊति |
+| etaerio of berties बदरी-समूह-फल             | eye-piece नेत्र-वीक्ष              |
+| etaerio of drupes अष्टि-समूह-फल             | fa'se कूट                          |
+| etaerio of follicles एकसेवनीक-संमूह-फल      | false dichotomy कूट युग्मशाखिता    |
+| ethereal oil दक्षुल तल                      | false septum कूटपटी                |
+| Euophorbia **दुग्धी-प्रजाति**               | fascicular cambium पूलोय एधा       |
+| Euphorbia geniculala **जानुमद दुग्धी**      | fatty oil अनुत्पत तैल              |
+| Euphorbia prostrata **भूशायिनी दुग्धी**     | features गुण                       |
+| Euphorbia rothiana **हर्यानील दुग्धी**      | female catkin स्त्री-निलम्बशूकी    |
+| Euphorbia thymifolia **पर्णालीपर्ण दुग्धी** | female flower स्त्री-पुष्प         |
+| exalbuminons श्वितिरहित                     | female gamete स्त्रीजन्यु          |
+| exarch बहिरारम्भ                            | female gametophyte स्त्री जन्युजनक |
+| excentric बहिष्केन्द्र                      | female organ स्त्रीन्द्रिय         |
+| excretion उत्सर्ग                           | fermentation किण्वन                |
+|                                            | fern पर्णांग                       |
+
+
+
+|                                          |                                            |
+|------------------------------------------|--------------------------------------------|
+| fibrous तन्तुवत् तन्तुमय                 | follicle एकसेवनीक                          |
+| fibrous drupe तन्तुमय अष्टिफल            | foot पाद                                   |
+| fibro-vascular bundle तन्तु-वाही पूल     | form रूप                                   |
+| filament अंशु, सूत्र                     | fornative region निर्मायी प्रदेश           |
+| filamentous सूत्रमय                      | free-central अलग्न केन्द्रस्थ              |
+| filamentous cell-plate सूत्रवत् कोशापट्ट | frond पलाश                                 |
+| Filicales **पर्णांग-गोत्र**              | fruit फल                                   |
+| fine adjustment सूक्ष्म व्यवस्थापन       | fruiting body फलन-काय                      |
+| fistular सुषिर                           | fruitlet लघुफल                             |
+| flat, flattened चिपिट                    | Funaria **षोडपदन्त-प्रजाति**               |
+| floral diagram पुष्प-रेखाचित्र           | function कार्य                             |
+| floral formula पुष्पसूत्र                | fundamental मूलभूत                         |
+| floral leaf पुष्पपत्र                    | fundamental tissue system मूलभूत ऊति-संहति |
+| floral symmetry पुष्प-सम्मिाति           | fuagus कवक                                 |
+| floret पुष्पक                            | furrow सीता                                |
+| flower पुष्प                             | fusiform तर्कुरूप                          |
+| Flowering Plantsपुष्पी पादप             | gamete जन्यु                               |
+| flowering shoot पुष्पी प्ररोह            | gamerangium जन्युघानी                      |
+| foliaceous पर्णसदृश                      | gametophore जन्युधर                        |
+| foliage leaf सत्यपत्र                    | gametophyte जन्युजनक                       |
+|                                         | gamopetalous युक्तदल                       |
+|                                          | gamopetalous corolla युक्तदली              |
+|                                          | gamosepalous युक्त निदल                    |
+|                                          | Gardenia florida **नाडीर्हिगु गन्धराज**    |
+
+
+
+|                                        |                                           |
+|----------------------------------------|-------------------------------------------|
+| general cortex सामान्य बाह्यक          | gymnosperm नग्नबीज                        |
+| genetic spiral विकास कुन्तल            | gynaeceum जायांग                          |
+| germinating spore उद्भेदी बीजाणु       | Gynandropsis **चन्द्रिका-प्रजाति**        |
+| germination उद्भेदन                    | gynophore जायांगभर                        |
+| gland ग्रन्थि                          | habit स्वरूप                              |
+| glandular ग्रन्थिमय                    | hadrocentric मध्वदारुक                    |
+| glandular hair ग्रन्थिरो               | hair रोम                                  |
+| glandular tissue ग्रन्थीय ऊति          | hairy रोमातृत                             |
+| glaucous हरिनील                        | half अर्ध                                 |
+| globoid खनिज-गुलिका                    | Hamelia patens **विस्तारी मंजिष्ठाबन्धु** |
+| globule गोलिका                         | hanging निलम्बी                           |
+| glochidum प्रलोम                       | hard कठिन                                 |
+| Gloriosa superba **सामान्य अग्निशिखा** | hard bast कठिन अधोवाही                    |
+| glycerine मधुरी                        | hastate कुन्तवत्                          |
+| glycogen granule मधुजन-कणिका           | Helianthus annuus **सामान्य सूर्यमुखी**   |
+| granular कणात्मक                       | helicoid एकतोविकासी                       |
+| granule कणिका                          | Heliotropium **सूर्यावर्त-प्रजाति**       |
+| groved प्रसीती                         | Hemerocallis **दिनशोभा-प्रजाति**          |
+| ground tissue आधार-ऊत्ति.              | Hepaticae प्रहरितः                        |
+| growing point वर्धी अग्र               | herbaceous शाकीय                          |
+| growing regicn वर्धी प्रदेश            | hespiridium जम्बीरक                       |
+| guard cell रक्षि-कोशा                  | hilum वृन्तयु                             |
+| Gymnosperms नग्नबीजाः                  |                                          |
+
+
+
+|                                          |                                       |
+|------------------------------------------|---------------------------------------|
+| histological differentiation औतिक भिन्नत | indehiscent अस्फोटी                   |
+| hollow सुपिर                             | indusium बीधा-गोप                     |
+| honey मकरन्द                             | inferior अधर                          |
+| host पोषित                               | inflorescence पुष्पविन्यास            |
+| hydathode जलोत्सर्गी                     | infundibuliform निवप कार              |
+| Hydrilla **उदावर्त-प्रजाति**             | ingrowth अन्तर्वर्ध                   |
+| hydrochloric acid उदनीरिक अम्ल           | innermost आन्तरतम                     |
+| Hydrocotyle **ब्राह्मी-प्रजाति**         | insectivorous कीटाश                   |
+| hydrophyte जलोद्भिद्                     | insertion निवेशन                      |
+| hygroscopic उन्देक्षीय                   | intercalary अन्तर्विष्ट               |
+| Hypericum **पीत शोभा-प्रजाति**           | intercellu'ar space अन्तर्राकेश अवकाश |
+| hypha कवक-सूत्र                          | interfascicular अन्तरापूल             |
+| hypocotyl अधोवीजपत्र                     | interfascicular cambium अन्तरापूल एधा |
+| hypocrateriorm युक्तनखर                  | internode पर्व                        |
+| hypodermis अधःस्तर                       | interpetiplar वृन्तमध्यस्थ            |
+| hypogeal अधोभूमिक                        | interval अन्तराल                      |
+| hypogynous अधोजाय                        | intine अन्तर कवच                      |
+| ideai आदश                                | intracambial tissue,एभ्रान्तर जात     |
+| indentical एकरूप                         | Inulin अरशीर्ष                        |
+| idioblast कोशावट                         | involucre निपत्रचक्र                  |
+| imbricate अनियमछादी                      | involute अन्तर्वलित                   |
+| imparipinnate असमपक्षवत्                 | iodine जम्बुकी                        |
+| impervious अप्रवेश्य                     | iodine solution जम्बुकी विलयन         |
+| incision भेदन                            |                                      |
+
+
+
+|                                         |                                            |
+|-----------------------------------------|--------------------------------------------|
+| Ipomoea **त्रिवृता-प्रजाति**            | Lathyrus aphaca **संजनीपत्र त्रिपुट**      |
+| Ipomoea hastata **कुन्तपर्ण त्रिवृता**  | laticiferous cellआक्षीरीकोश              |
+| iris'diaphragm (of microscope) प्रकाशयम | laticiferous tissue आक्षीरी ऊति            |
+| irregular आनयमी                         | laticiferous vessel आक्षीरी वाहिनी         |
+| Ixora. **ईश्वरा-प्रजाति**               | Latuca **पीताक्षीर-प्रजाति**               |
+| Jacquemontia **संवेल्लनी-प्रजाति**      | Launaea **तटपत्री-प्रजाति**                |
+| K (ca yx) पु (पुष्पकोश)                 | Launaca nudicaulis **नग्न स्तम्भ तटपत्री** |
+| keelI निधरण                             | layer स्तर                                 |
+| kind प्रकार                             | leaf पर्ण                                  |
+| Labiafae तुलसीकुल                       | leaf-adaptation पर्ण-उपायोजन               |
+| lamina फलक                              | leaf base पर्णाधार                         |
+| lanceolate प्रासवत्                     | leaflet पर्णक                              |
+| lateral पाश्व                           | leaflet-tendril पर्णक-संजनी                |
+| lateral appendage पार्श्व-उपांग         | leaf-ptyxis पर्ण वलना                      |
+| lateral branch पार्व-शाखा               | leaf segment पर्णखण्ड                      |
+| lateral branching पार्श्व-शाख विन्यास   | leaf-trace पर्ण-प्रदाय                     |
+| lateral.bud पार्श्व-कलिका               | leaf-trace bundleपण प्रदाय-पूल            |
+| lateral conjugation पार्श्व-संयुग्मन    | legume शिम्बि                              |
+| lateral leaflet पार्श्व पर्णक           | Legumincsae शिम्बि-कुल                     |
+| lateral roc.tlet पार्श्व मूलक           | lens वीक्ष                                 |
+| lateral vein पार्श्व-नाडी               |                                           |
+| latex-आक्षीर                            |                                            |
+
+
+
+|                                      |                                                          |
+|--------------------------------------|----------------------------------------------------------|
+| Lens esculentus **सामान्य मसूर**     | lomentaceous beriaceous legume अनुप्रस्थभेदी बदरीय शिम्ब |
+| lenticel वासनरन्ध्र                  | lomentacecus legum अनुप्रस्थभेदी शिम्बि                  |
+| leptocentric मध्याधोवाहिक            | lomentum अनुप्रस्थभेदी                                   |
+| Leucaena glauca**सामान्य सितसुमन**  | longitudinal आयाम-अन्वायाम                               |
+| Leucas **द्रोणपुष्प-प्रजाति**       | longitudinal dehiscence आयाम स्फोटना                     |
+| Leucas aspera **रुक्ष द्रोणपुष्प**   | longitudinal section आयाम-छेद                            |
+| leucoplast सितघटन                    | loose शिथिल                                              |
+| liane आरोही                          | lumen सुषिरक                                             |
+| lignified लगुडित                     | Lycopodiales मुद्गरहरिता-गोत्र                           |
+| lignin गुडि                          | lysigenous cavity भंगजातकूप                              |
+| ligulate जिव्हित                     | magnification विशालन                                     |
+| Liliaceae नलिनीकुल                   | magnifying lens विशालन-वीक्ष                             |
+| Lilium **नलिनी-प्रजाति**             | magnifying power विशालन-शक्ति                            |
+| lily नलिनी                           | male flower पुंपुष्प                                     |
+| limb अवयव                            | male gamete पुंजन्यु                                     |
+| limb (of microscope) बाहु            | male organ पुमिन्द्रिय                                   |
+| linear रेखावत्                       | many-seeded बहुबीज                                       |
+| Liverworts प्रहरिताः                 | maple कुट्टिमदारु                                        |
+| lobe पालि                            |                                                         |
+| lobed पालिमत्                        |                                                          |
+| localised स्थानसीमित                 |                                                          |
+| loculicidal dehiscenceगह्वर-स्फोटना |                                                          |
+| loculus गह्वर                        |                                                          |
+
+
+
+|                                          |                                    |
+|------------------------------------------|------------------------------------|
+| margin तटं, प्रान्त                      | microsporophyll लबुत्रीजाणुपत्र    |
+| marginal प्रान्तीय                       | Mimosa **लज्जालु-प्रजाति**         |
+| medianlongitudinal section मध्य-आयाम छद | Mimosa hamata **वक्रकष्ट लज्जालु** |
+| medullary ray मध्यक-किरण                 | Mimosa pudica **सामान्य लज्जालु**  |
+| megasp:rophyll महाबीजाणुपत्र             | Mimosoideae लज्जालु अनुकुल         |
+| memebrane कला                           | mineral body खनिजकाय               |
+| membranous कलावत्                        | mineral deposit खनिज निक्षेप       |
+| Mentha arvensis **सामान्य पर्णास**       | mixed मिश्रित                      |
+| mericarp एकास्फोटी                       | modificatiom संपरिवर्तन            |
+| meristematic प्रविभाजी                   | modified संपरिवर्तित               |
+| mesarch मध्यारम्भ                        | monadelphous एकसंलाग               |
+| mesh अक्षि                               | monocarpellary एकाण्डप             |
+| mesocarp मध्यभित्ति                      | monochasium एकशाख                  |
+| mesophyll मध्यपर्णोति                    | monocotyledon एकबीजपत्र            |
+| mesophyte मध्योद्भिद्                    | monocotyledonous एकबीजपत्री        |
+| metaxylem अनुदारु                        | monocotyledonous seed एकपत्री बीज  |
+| metaxylem vessel अनुवाहिनी               | Monocotyledons एकबीजपत्रः          |
+| methyl blue प्रोदल नील                   | Imonoecious द्विलिंगी              |
+| Michelia **चम्पक-प्रजाति**               |                                   |
+| micropyle अण्डद्वार                      |                                    |
+| microscope अण्वीक्ष                      |                                    |
+| microscopic preparationअण्वीक्ष-नर्मिति |                                    |
+
+
+
+|                                                  |                                 |
+|--------------------------------------------------|---------------------------------|
+| monecious plant द्विलिंगी पदप                    | Imultiparous बहुसृट्            |
+| monopodial एकाक्षी                               | Musci हरिताः                    |
+| moncpodium एकाक्ष                                | Mussaenda **पमंजिष्ठा-प्रजाति** |
+| morphological रचनाकारीय                          | mycelium कवक-जाल                |
+| morphology रचनाकार                              | napiform कुम्भीरूप              |
+| morphology आकारिकी                               | nature स्वरूप                   |
+| mosaic चित्रकुट्टिम                              | neck ग्रीवा                     |
+| moss हरिता                                       | neck-cell ग्रीवा-कोशा           |
+| mother axis मातृ-अक्ष                            | inectary मकरन्द-ग्रन्थि         |
+| mother root मातृमूल                              | needle सूची                     |
+| mounting आरोपण                                   | negatively geotropic अभूम्याकृष |
+| muciiage नियासांद                                | Nepenthes **कलशपण-प्रजाति**     |
+| Mucor **श्वेता-प्रजाति**                         | Nephrolepis **आपर्णाग-प्रजाति** |
+| mucronate रुण्डोवर्धी                            | nettle दशरोम                    |
+| mucus श्लेष्म                                    | nitrate भूत्रीय                 |
+| Muehlenbeckia **चिपिटस्तम्भ-प्रजाति**            | nitric acid भूयिक अम्ल          |
+| Mueblenbekia platyclados **सामान्य चिपिटस्तम्भ** | nitrogen भूयाति                 |
+| multicellular hair बहुकोश रोम                    | nitrogen-fixing भूषांत-स्थिरक   |
+| multicostate बहुप्रनाडीक                         | node पर्वसन्धि                  |
+| multilayered बहुस्तर                             | non-endospermic अभ्रूणपोपी      |
+| multilocular बहुगह्वर                            | normal प्रसामान्य               |
+| multinucleated चहुन्यष्टित                       | nose-piece वीक्षधर              |
+|                                                 | Notonia **स्रुत्रपर्ण-प्रजाति** |
+|                                                  | Inucellus प्रदेह                |
+
+
+
+|                                               |                                          |
+|-----------------------------------------------|------------------------------------------|
+| nucleolus न्यष्टिका                           | overlapped अतिछादित                      |
+| numerator अंश                                 | ovule पर्यण्ड                            |
+| nut काष्टफल                                   | Oxygen जारक                              |
+| oak वंजु                                      | palisade tissue स्कम्भोति                |
+| obcordate अभिहृद्वत्                          | palmati-fid पाणिवद्-दर                   |
+| oblong दीर्घवृत्त                             | palmati-partite पाणिवद् विदर             |
+| obovate अभ्यण्डवत्                            | palmati-sect पाणिवन्-निदर                |
+| ochreate नालचोली                              | papilionaceous प्रजापतिरूप               |
+| Ocimum sanctum**कृष्ण तुलसी**                | Papilionatae चणक-अनुकुल                  |
+| odd विषम                                      | papilla रोभिका                           |
+| offset भूस्तारिका                             | pappus रोमवलय                            |
+| oil globule तैल-गोलिका                        | parallel समान्तर                         |
+| one-seeded एकत्रीज                            | paraphysis वन्ध्यांशु                    |
+| open (bundle) एधावी (पूल)                     | parasite परजीवी                          |
+| operculum पिधान                               | parasitic root परजीवी मूल                |
+| opposite अभिमुख                               | parietal भित्तिलग्न                      |
+| orbicular वलयाकार                             | paripinnate समपक्षवत्                    |
+| ordinary epidermal cell साधारण अधिस्तरीय कोशा | Parkinsonia aculeata**सामान्य प्रशूली** |
+| organic प्रांगारिक                            | partition-wall व्यवधान-भित्ति            |
+| origin उद्भव                                  | passage cell मार्ग-कोशा                  |
+| orthostichy उदग्रपंक्ति                       | Passiflora lunata **बालचन्द्र कृष्णकमल** |
+| outgrowth उद्वंर्ध                            | passive अचर                              |
+| outline बहीरेखा                               | pedicel पुष्पवृन्त                       |
+| oval अण्डाकार                                 | pedicillate सत्रुन्त                     |
+| ovary अण्डाशय                                 | peltate छत्रीय                           |
+| ovate अण्डवत्                                 | pentacarpellary पंचाण्डप                 |
+
+
+
+|                                                     |                                          |
+|-----------------------------------------------------|------------------------------------------|
+| pentastichous पंचपंक्तिक                            | Phaseolus radiatus **माष मुद्र**         |
+| pepo अलाबुक                                         | phelloderm उपत्वक्षा                     |
+| perfoliate परिपत्र                                  | phellogen त्वक्षैधा                      |
+| perianth परिपुष्प                                   | phloem अधोवाही                           |
+| pericarp फल-भित्ति                                  | phlomn parenchyma अधोवाही- जीवितक        |
+| pericycle मध्यरम्भवेष्ट                             | phloroglucin शिफमध्वि                    |
+| perigyncus परिजाय                                   | phylloclade पर्ण कार्यस्तम्भ             |
+| periphery परिणाह                                    | phylloclade पर्ण कार्यस्तम्भ             |
+| peristome दन्तबिम्ब                                 | phyllode वृन्तफलक                        |
+| peristome apparatus दन्तविम्व-माधित्र               | phyllotaxis पणन्यास                      |
+| permannet स्थायी                                    | piliferous layer रोमिरतर                 |
+| permanent micropreparation स्थायी अण्वीक्ष निर्मिति | pinna पक्षक                              |
+| permanent region स्थायी प्रदेश                      | pinnate पक्षवत्                          |
+| permanant tissue स्थायां ऊति                        | pinnati-fid पक्षवद्-दर                   |
+| persistent चिरलग्न                                  | pinnati-partite पक्षवद्-बिदर             |
+| personate संवृत                                     | pinnati sect पक्षवन-निदर                 |
+| petal दल                                            | pinnule पर्णकी, पक्षकी                   |
+| petaloid दलाभ                                       | Pinus **सरल-प्रजाति**                    |
+| petiolate सत्रुन्त                                  | Piper betle **ताम्बूल पिप्पली**          |
+| petiole पर्णवृन्त                                   | Pistia **कुम्भिका-प्रजाति**              |
+| Petunia **जिवापदलीक-प्रजाति**                       | Pisum sativum **स्वादु कलाय**            |
+| Phaseolus mungo **सामान्य मुद्र**                   | pit गर्त                                 |
+|                                                    | pitcher कलश                              |
+|                                                     | pitcher-plant कलश-पादप                   |
+|                                                     | pith मध्यक                               |
+|                                                     | Pithecolobium dulce **स्वादु वनाम्लिका** |
+
+
+
+|                                        |                                     |
+|----------------------------------------|-------------------------------------|
+| Pithecolobium saman **शोभा बनाम्बिका** | polypetalous पृथग्दल                |
+| pitted गर्ती                           | polypetalous corolla पृथग्दली       |
+| placenta जरायु                         | polysepalous पृथङ्निदल              |
+| placentation जरायुन्यास                | pome उत्कोलक                        |
+| place of attachmentआरोजन-स्थान        | porous छिद्रिष्ठ                    |
+| plane ( adj.) समतल, अवलित              | porous d-hiscence रन्ध्रो स्फोटना   |
+| plane (n.) तल                          | Portulaca oleracea **सामान्य लोणी** |
+| plant पादप                             | posterior पश्च                      |
+| plastid घटन                            | Pothos **गजपिप्पली प्रजाति**        |
+| Pleurococcus **पार्श्वाप्य-प्रजाति**   | precipitate1 निस्सादित              |
+| plicate आयामवलित                       | preserved परिरक्षित                 |
+| plumle भ्रूणाग्र                       | primary प्राथमिक, प्रथम             |
+| pneumatophore श्वसन-मूल                | primary meristem आद्य प्रविभाजी     |
+| Poinciana regia राज आपरण               | primary root प्रथम मूल              |
+| pollen पराग                            | primary structure प्राथमिक संरचना   |
+| pollen-chamber परागवेश्म               | primordial utricle आदि-इति          |
+| pollen-grain पराग-कण                   | process विधा, प्रवर्ध               |
+| pollinaton पर गण                       | prolongation दीर्घण                 |
+| polyadelphous पुरुसंलाग                | prosenchymatous दीर्घितक            |
+| poyandrous पृथक्पुंकेसर                | Prosopis spicigera **सामान्य शमी**  |
+| polycarpellary पुर्वण्डप               | prostrate भूज़ायी                    |
+| polychasium पुरुशाख                    |                                    |
+| polygonal बहुभुज                       |                                     |
+| Polygonum **पुरुसन्धि-प्रजाति**        |                                     |
+
+
+
+|                                  |                                |
+|----------------------------------|--------------------------------|
+| protein प्रोभूजिन                | raphides स्फ्टसूची             |
+| protein grain प्रोभूजिन-कण       | raspberry रसबदरी               |
+| prothallus सूकायक                | reduced प्रह्रसित              |
+| protonema प्रांकुर               | regma स्फोटि-वंश्मी            |
+| protoplasm प्ररस                 | regular नियमी                  |
+| protoxylem आदिदारु               | reniform वृक्काकार             |
+| Psilotum**अपर्णस्तम्भ-प्रजाति** | replum जरायु कंकाल             |
+| Pteridophyta पर्णांगोद्भिदः      | representation निरूपण          |
+| pulvinus पीनाधार                 | reproduction प्रजनन            |
+| pyrenoid प्रोभूजक                | reproductive organ प्रजननांग   |
+| raceme एकवर्थ्यक्ष               | resin उद्यास                   |
+| racemose एकवर्ध्यक्षीय           | resin canal उद्यास-कुल्या      |
+| rachis प्राक्ष                   | respiratory cavity श्वसन कूप   |
+| radial अरीय                      | reticulate जालवत्, जालिकावत्   |
+| radial wall अरीय-भित्ति          | retuse गर्तकी                  |
+| radiating अरीय                   | revolute बहिर्वलित             |
+| radicle भ्रूणमूल                 | rhizoid शिफाभ                  |
+| railway creeper घण्टावल्लरी      | rhiome शिफावृन्त               |
+| ramentum of hairs रोमावरण        | Rhizophora **वायुशिफ-प्रजाति** |
+| ramentum of scalesशल्कावरण      | Ribes **पाकवदरी-प्रजाति**      |
+| Ranunculus **नवनीतचष-प्रजाति**   | ridge कूट                      |
+| raphe सेवनी                      | ringent विवृत                  |
+|                                 | root मूल                       |
+|                                  | root-cap मूलगोपः               |
+|                                  | root-hair मूलरोम               |
+
+
+
+|                                        |                                            |
+|----------------------------------------|--------------------------------------------|
+| root-hair region मूलरोम-प्रदेश         | scar किण                                   |
+| rootlet मूलक                           | schizocarpic fruit वेश्मर फाटी फल          |
+| root regions मूलप्रदेश                 | sclerenchyma दृढकोशभित्तिक                 |
+| root system मूल-संहति                  | sclerenchymatous दृढकोशामित्ति             |
+| root tendril मूल-संजनी                 | sclerenchymatous fibre दृढकोशानित्ति तन्तु |
+| root tubercle मूलाकन्दिका              | scorpioid उभयतोविकासी                      |
+| rosaceous पाटलीय                       | scutellum वरूथिका                          |
+| rotate चक्रित                          | secondary उत्तर, द्वितीय                   |
+| round गोलाकार                          | secondary cortex उत्तर बाह्यक              |
+| runner भूस्तारी                        | secondary growth उत्तर वृद्धि              |
+| Ruscus **आहरिपुष्य-प्रजाति**           | secondary medullary ray उत्तर मध्यक -किरण  |
+| Saccharomyces **शर्कराकवक-प्रजाति**    | secondary meristem उत्तर प्रविभाजी         |
+| sagittate बाणवत्                       | secondary phloem उत्तर अधोवाही             |
+| Salvia **तुलसीबन्धु-प्रजाति**          | secondary root द्वितीय मूल                 |
+| samara सपक्ष                           | secondary xylem उत्तर दारु.                |
+| Sambucus **गन्धुल-प्रजाति**            | secretion उदासर्ग                          |
+| sap रस                                 | section छेद                                |
+| saprophyte मृतजीवी                     | seed बीज                                   |
+| Saraca indica**सामान्य अशोक**         | segment खण्ड                               |
+| scalariform conjugation सोपान-संयुग्मन |                                           |
+| scale शल्क                             |                                            |
+| scale leaf शल्कपत्र                    |                                            |
+| scaly bract शल्क-निपत्र                |                                            |
+| scaly bulb सशल्क कन्द                  |                                            |
+
+
+
+|                                            |                                               |
+|--------------------------------------------|-----------------------------------------------|
+| sensitive हृष                              | simple fruit एकिफल                            |
+| sepal निदल                                 | single एकल                                    |
+| septate पटमित्                             | size परिमाण                                   |
+| septicidaldehiscence पटी-स्फोटना          | lide सृप                                      |
+| septifragal dehiscenceपटभिंग-स्फोटना      | Smilax **चीनमूल-प्रजाति**                     |
+| septum पटी                                 | Solanum seaforthianum **दीर्घवृन्त वृन्ताक** |
+| series माला                                | Solanum xanthocarpum **कण्टक वृन्ताक**       |
+| serrate आरावत्                             | solitary एकल,                                 |
+| Sesbania **जयन्ती-प्रजाति**                | soluble विलेय                                 |
+| Sesbania grandiflora **बृहत्पुष्प-जयन्ती** | solution विलयन                                |
+| sessileअवृन्त                             | Sonchus arvensis**क्षेत्र सहदेवी**           |
+| seta दण्डी                                 | sorcsis सरसाक्ष                               |
+| sexual fusion मैथुन सायुज्यन               | sorus बीधागुच्छ                               |
+| sexual reproduction मैथुन प्रजनन           | Space अवकाश                                   |
+| shape आकार                                 | spadix छदशूकी                                 |
+| sheath कंचुक                               | spathe शूकी-छद                                |
+| shoot प्ररोह                               | spathulate सुववत्                             |
+| Sida cordifolia **हृत्पर्ण बला**           | special विशेष                                 |
+| sieve-plate चालनी-पट्ट                     | Specimen प्रादर्श                             |
+| sieve tube चालनी-नाल                       | Spermatophy ta बीजोद्भिदः                     |
+| sieve-tube tissue चालनी-नाल ऊति            | sphaeraphides स्फटपिण्ड                       |
+| silicula कूटपटीक                           | sphaerite स्फटगोल                             |
+| simple सरल                                 | spike शूकी                                    |
+|                                           | spikelet शूकिका                               |
+|                                            | spine शल्य, शल्यावृत्त, शल्यरूप, सशल्य        |
+
+
+
+|                                  |                                 |
+|----------------------------------|---------------------------------|
+| spiral कुन्तल, कुन्तलवत्         | sterid bundle दृढपूल            |
+| spiral flower कुन्तल पुष्प       | sterile वन्थ्य                  |
+| spirally coiled कुन्तलवलायत      | stigmetic disc कुक्षिबिम्ब      |
+| Spirogyra **कुन्तलवलय-प्रजाति**  | stinging hair दंशक रोम          |
+| spongy parenchyma शिथिल जीवितक   | stipulate अनुपत्री              |
+| sporangiophore बीधाभर            | stipule अनुपत्र                 |
+| sporangium बीजाणु-धानी           | stolon विरोह                    |
+| spore बीजाणु.                    | stomata मुख                     |
+| sporogoniumबीजाणुजनक           | stomium मुख                     |
+| sporophyll बीजाणुपत्र            | sone call दृढकोशा               |
+| sporophyte बीजाणुजनक             | Stony पाषाणवत्                  |
+| spur पादायुव                     | strap-shaped पट्टकरूप           |
+| spurred petal पाहायुधी दल        | Striga मूल प्रजाति              |
+| stage (of microscope) मंच        | strong प्रबल                    |
+| stain अभिरंजन                    | strong acidic प्रबल अस्ट्रिक रस |
+| stained अभिगजित                  | structure रचिति, संरचना         |
+| stamen पुंकेसर                   | style कुक्षिवृत्त               |
+| staminal पुंकेसरी                | subepidermal उपाधिस्तरीय        |
+| staminate strobilus cone पुंशंकु | suborin त्वक्षि                 |
+| staminode वन्ध्यकेसर             | suberised त्वक्षीयित            |
+| starch मण्ड                      | subsidiary cell गौण कोशा        |
+| starch grain मण्डकण              | substratum जीवाधार              |
+| stele मध्यरम्भ                   | successive पूर्वानुपर           |
+| stem स्तम्भ                      | succulent सरस                   |
+|                                 | sucker अधोभूस्तारी              |
+|                                  | superior उत्तर                  |
+|                                  | superposed आच्छादित             |
+
+
+
+|                                    |                                            |
+|------------------------------------|--------------------------------------------|
+| surface view तलदृश्य               | thick-walledparenchyma स्थूलभित्ति जीवितक |
+| suspensor निलम्ब                   | thinwalled parenchymaतनुभित्ति-जीवितक     |
+| syconus उदुम्बरक                   | Tilia **परूषबन्धु-प्रजाति**                |
+| synantherous संपरागाशय             | tissue ऊति                                |
+| syncarpous युताण्डप                | trabeculae दण्डिका                         |
+| syngenesious संपरागाशय             | tracheal tissue जलवाही ऊति                 |
+| system संहति                       | tracheid वाही कोशा                         |
+| Tagetes patula**आस्तारी गन्दुक**  | Tradescantia**तनूकेसर-प्रजाति**           |
+| Tamarindus indica**भारत अम्लिका** | transpiration उत्स्वेदन                    |
+| tannin शाल्क                       | transverseअनुप्रस्थ                       |
+| tap-root अधिमूल                    | transversedehiscnce अनुप्रस्थ-स्कोटना     |
+| tap-root system आधिमूल-संहति       | transverse plane अनुप्रस्थतल              |
+| technical पारिभाषिक                | trap-door रुधद्वार                         |
+| tegmen अन्तश्चोल                   | Tridax **कौशेयफल-प्रजाति**                 |
+| tendril संजनी                      | Tridax procumbensभूशायी कौशेयफल           |
+| tendrillar संजनीरूप                | tristichous त्रिपंक्तिक                    |
+| tentacle अंगुक                     | Tro paeolum **विकुसुम्भ-प्रजाति**          |
+| testa बीज-चोल                      | truncate रुण्डित                           |
+| tetradyoamous चतुर्दीर्घ           | tuber आकन्द                                |
+| tetralocular चतुर्गव्हर            | tuberous साकन्द                            |
+| texture वयन                        |                                           |
+| thalamus पीनाक्ष                   |                                            |
+| Thallophyta सूकायोद्भिदः           |                                            |
+| theca प्रावरक                      |                                            |
+| thick-walled स्थूलभित्ति           |                                            |
+
+
+
+|                                   |                                         |
+|-----------------------------------|-----------------------------------------|
+| tubualr नालाकार                   | vasular cambium वाही एधा                |
+| tunic चोल                         | vascular cylinder वाही रम्भ             |
+| tunicated scale-leafचोल-शल्कपत्र | vascular strand वाही पट्ट               |
+| twiner वलयिता                     | vascular tissue वाही ऊति                |
+| twisted न्युद्वेष्टित             | vascular tissue systemवाही उति-संहति   |
+| type प्ररूप, प्रकार               | vegetative buddingवर्धी कुङ्मन         |
+| typical प्रारूपिक                 | vegetative organ वर्धी अंग              |
+| umbel उच्छत्र                     | vegetative reproductionवर्धी प्रजनन    |
+| unbranched अशाखी                  | vainlet नाडिका                          |
+| underground भूमिगत                | venation नाडीविन्यास                    |
+| undifferentiated अभिन्न           | venter अण्डधानी                         |
+| unguiculate नखरी, वृन्ती          | ventral अधर                             |
+| unicellular एककोश                 | ventral canal cell अण्डधानी-कुल्या कोशा |
+| unicellular hair एककोश रोम        | ventral suture अधर सेवनी                |
+| unicostate एकप्रनाडांक            | Venus' fly-trap मक्षीभक्ष               |
+| unilayered एकलस्तर                | Vernonia **जीरी-प्रजाति**               |
+| unilocular एकगह्वर                | versatile परिदोली                       |
+| uniparous एकसृट्                  | vertical उदग्र                          |
+| unisexual एकलिंग                  | verticillaster भ्रमियुग्म               |
+| Utricularia **दृतिपर्ण-प्रजाति**  | vexillum ध्वज                           |
+| vacuole रसधानी                    | Vigna cat jung **सामान्य राजमाष**       |
+| valvate अनतिछादी                  | Vinca **करवीरवन्धु प्रजाति**            |
+| Vanda **वन्द-प्रजाति**            | Vitis **द्राक्षा-प्रजाति**              |
+| vascular वाही                     |                                        |
+| vascular bundle वाही पूल          |                                         |
+
+
+
+|                                     |                              |
+|-------------------------------------|------------------------------|
+| wavy तरंगित                         | xerophyte शुष्कोद्भिद्       |
+| weak दुर्बल                         | xylem दारु                   |
+| whorl भ्रमि                         | xylem parenchyma दारु जीवितक |
+| whorled भ्रमिरूप                    | xylem vessel दारु वाहिनी     |
+| wing पक्ष                           | yeast प्रकिण्व               |
+| winged सपक्ष                        | Yucca **सितकुसुम-प्रजाति**   |
+| wood fibre काष्ठ तन्तु              | Zinnia **सुभगा-प्रजाति**     |
+| wood fibre काष्ठ तन्तु              | Zone कटिबन्ध                 |
+| wood parenchyma.काष्ठ- जीवितक       | zygomorphic एकसम्मित         |
+| wood vessel काष्ट-वाहिनी            | zygomorphy एकसम्मिति         |
+| woody काष्टीयः                      | zygopsore युक्तबीजाणु        |
+| Xanthium sbiumarium **भारत कण्डफल** |                             |
 
 
 

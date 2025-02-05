@@ -101,26 +101,26 @@ HUMBLE DEDICATION.
 
 **DRAMATIS PERSONIE.**
 
-।                  ।                                  ।
-।------------------।----------------------------------।
-। 1. Uttanapada    । King.                            ।
-। 2. Suneeti       । Senior Qneen, wife of Uttanapada ।
-। 3. Suruchi       । Junior Queen.                    ।
-। 4. Sumati        । Minister.                        ।
-। 5. Dhruva        । Prince, son of Suneeti.          ।
-। 6. Uttama        । Prince, son of Suruchi.          ।
-। 7. Narada        । A celestial sage.                ।
-। 8. Mathali       । Charioteer of Indra.             ।
-। 9. Nandi         । Servent of Rudra.                ।
-। 10. Lord Vayu    । Name of a deity.                 ।
-। 11. Lord Krishna । Supreme God.                     ।
-। 12. Soumya       । A hermit boy.                    ।
-। 13. Meenanka     । Do.                              ।
-। 14. Krishnadas   । Name of Dhruva in thehermitage. ।
-। 15. Bhanumati    । A merchant.                      ।
-। 16. Prithoodara  । Do.                              ।
-। 17. Manthara     । Toilette-servant.                ।
-। 18. Ganga        । Mother of Suruchi.               ।
+|                  |                                  |
+|------------------|----------------------------------|
+| 1. Uttanapada    | King.                            |
+| 2. Suneeti       | Senior Qneen, wife of Uttanapada |
+| 3. Suruchi       | Junior Queen.                    |
+| 4. Sumati        | Minister.                        |
+| 5. Dhruva        | Prince, son of Suneeti.          |
+| 6. Uttama        | Prince, son of Suruchi.          |
+| 7. Narada        | A celestial sage.                |
+| 8. Mathali       | Charioteer of Indra.             |
+| 9. Nandi         | Servent of Rudra.                |
+| 10. Lord Vayu    | Name of a deity.                 |
+| 11. Lord Krishna | Supreme God.                     |
+| 12. Soumya       | A hermit boy.                    |
+| 13. Meenanka     | Do.                              |
+| 14. Krishnadas   | Name of Dhruva in thehermitage. |
+| 15. Bhanumati    | A merchant.                      |
+| 16. Prithoodara  | Do.                              |
+| 17. Manthara     | Toilette-servant.                |
+| 18. Ganga        | Mother of Suruchi.               |
 
  Besides Foresters, Physician, Policeman, Nurse, Chamberlain, etc. etc.
 
@@ -128,26 +128,26 @@ HUMBLE DEDICATION.
 
 **पात्राणि।**
 
-।              ।                       ।
-।--------------।-----------------------।
-। १ उत्तानपादः । राजा।                 ।
-। २ सुनीतिः    । महिषी।                ।
-। ३ सुरुचिः    । भट्टिनी।              ।
-। ४ सुमतिः     । सचिवः।                ।
-। ५ ध्रुवः     । सुनीतिसुतः युवराजः।   ।
-। ६ उत्तमः     । सुरुचिसुतः।           ।
-। ७ नारदः      । देवमुनिः।             ।
-। ८ मातलिः     । इन्द्रसारथिः।         ।
-। ९ नन्दिः     । रुद्रसेवकः।           ।
-। १० वायुः     । प्राणेशः।             ।
-। ११ कृष्णः    । परब्रह्म।             ।
-। १२ सौम्यः    । ऋषिकुमारः।            ।
-। १३मीनांकः   । तथा                   ।
-। १४ कृष्णदासः । आश्रमे ध्रुवस्य नामा। ।
-। १५ भानुमतिः  । वाणिजः।               ।
-। १६ पृथूदरः   । तथा                   ।
-। १७ मन्थरा    । सैरन्ध्री।            ।
-। १८ गङ्गा     । सुरुचिमाता।           ।
+|              |                       |
+|--------------|-----------------------|
+| १ उत्तानपादः | राजा|                 |
+| २ सुनीतिः    | महिषी|                |
+| ३ सुरुचिः    | भट्टिनी|              |
+| ४ सुमतिः     | सचिवः|                |
+| ५ ध्रुवः     | सुनीतिसुतः युवराजः|   |
+| ६ उत्तमः     | सुरुचिसुतः|           |
+| ७ नारदः      | देवमुनिः|             |
+| ८ मातलिः     | इन्द्रसारथिः|         |
+| ९ नन्दिः     | रुद्रसेवकः|           |
+| १० वायुः     | प्राणेशः|             |
+| ११ कृष्णः    | परब्रह्म|             |
+| १२ सौम्यः    | ऋषिकुमारः|            |
+| १३मीनांकः   | तथा                   |
+| १४ कृष्णदासः | आश्रमे ध्रुवस्य नामा| |
+| १५ भानुमतिः  | वाणिजः|               |
+| १६ पृथूदरः   | तथा                   |
+| १७ मन्थरा    | सैरन्ध्री|            |
+| १८ गङ्गा     | सुरुचिमाता|           |
 
 तथा वनचराः वैद्यः भटः इत्यादयः।
 

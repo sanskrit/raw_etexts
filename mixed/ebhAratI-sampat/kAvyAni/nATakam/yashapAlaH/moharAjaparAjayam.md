@@ -721,16 +721,16 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 **CONTENTS**
 
-।                                                                           ।
-।---------------------------------------------------------------------------।
-। (1) **मोहपराजयवस्तुसङ्क्षेपः**                                            ।
-। (2) Introduction                                                          ।
-। (3) Contents                                                              ।
-। (4) *Dramatis personae*                                                   ।
-। (5) Text                                                                  ।
-। (6) Appendices                                                            ।
-। (7) Index of names of historical importance occurring in the Mohaparâjaya ।
-। (8) Corrigenda                                                            ।
+|                                                                           |
+|---------------------------------------------------------------------------|
+| (1) **मोहपराजयवस्तुसङ्क्षेपः**                                            |
+| (2) Introduction                                                          |
+| (3) Contents                                                              |
+| (4) *Dramatis personae*                                                   |
+| (5) Text                                                                  |
+| (6) Appendices                                                            |
+| (7) Index of names of historical importance occurring in the Mohaparâjaya |
+| (8) Corrigenda                                                            |
 
 
 

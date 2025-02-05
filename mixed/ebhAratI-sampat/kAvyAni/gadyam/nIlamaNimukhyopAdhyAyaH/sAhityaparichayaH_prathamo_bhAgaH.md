@@ -1190,26 +1190,26 @@ his authority)." Then king Támrachúda asked the Vidyádhara, "What curiosity i
 
 **![](../books_images/U-IMG-172266172114.png)**
 
-।                    ।                      ।
-।--------------------।----------------------।
-। **अशुद्धम्**       । **शुद्धम्**          ।
-। व्राह्मण           । ब्राह्मण             ।
-। तच्छुत्वा          । तच्छ्रुत्वा          ।
-। परीवारान्          । परिवारान्            ।
-। पण्यार्थमेव        । पुण्यार्थमेव         ।
-। नित्यसुखभाभिः      । नित्यसुखभैः          ।
-। कुमारवणिगहं        । कुमार! वणिगहं        ।
-। सोऽप्य             । सोऽस्य               ।
-। बहूनपेक्षामाणस्य   । बहनपेक्षमाणस्व       ।
-। परिणाममुखं         । परिणामसुखं           ।
-। यथा दृष्टं         । यथादृष्टं            ।
-। तन्माताभगिन्यौ     । तन्मातृभगिन्यौ       ।
-। दुर्भिक्षः सञ्जतः। । दुर्भिक्षंसञ्जातम्। ।
-। किमपि              । कमपि                 ।
-। पेषयिष्यामि        । प्रेषयिष्यामि        ।
-। परं                । ०                    ।
-। कुष्ठ              । कुष्ठि               ।
-। कनकरथराज्ञा        । कनकरथेन राज्ञा       ।
+|                    |                      |
+|--------------------|----------------------|
+| **अशुद्धम्**       | **शुद्धम्**          |
+| व्राह्मण           | ब्राह्मण             |
+| तच्छुत्वा          | तच्छ्रुत्वा          |
+| परीवारान्          | परिवारान्            |
+| पण्यार्थमेव        | पुण्यार्थमेव         |
+| नित्यसुखभाभिः      | नित्यसुखभैः          |
+| कुमारवणिगहं        | कुमार! वणिगहं        |
+| सोऽप्य             | सोऽस्य               |
+| बहूनपेक्षामाणस्य   | बहनपेक्षमाणस्व       |
+| परिणाममुखं         | परिणामसुखं           |
+| यथा दृष्टं         | यथादृष्टं            |
+| तन्माताभगिन्यौ     | तन्मातृभगिन्यौ       |
+| दुर्भिक्षः सञ्जतः| | दुर्भिक्षंसञ्जातम्| |
+| किमपि              | कमपि                 |
+| पेषयिष्यामि        | प्रेषयिष्यामि        |
+| परं                | ०                    |
+| कुष्ठ              | कुष्ठि               |
+| कनकरथराज्ञा        | कनकरथेन राज्ञा       |
 
 
 
@@ -1219,30 +1219,30 @@ his authority)." Then king Támrachúda asked the Vidyádhara, "What curiosity i
 
 
 
-।            ।                                                       ।
-।------------।-------------------------------------------------------।
-। a named    । named                                                 ।
-। oppsed     । opposed                                               ।
-। ourseleves । ourselves                                             ।
-। commom     । common                                                ।
-। two fold   । two–fold                                              ।
-। destiniy   । destiny                                               ।
-। chalck     । chalk                                                 ।
-। empalment  । empalement                                            ।
-। desease    । disease                                               ।
-। the 1/96   । 1/96 th                                               ।
-। redicule   । ridicule                                              ।
-। than       । thou                                                  ।
-। impured    । impaired                                              ।
-। enquire    । to enquire                                            ।
-। was        । were                                                  ।
-। leige-lord । liege-lord                                            ।
-। moved.     । moved. He,letting off all the fishes, returned home. ।
-। do not     । would not                                             ।
-। haste.     । haste. So I willcorrect the mistake.                 ।
-। persons    । person                                                ।
-। Itches     । The itch                                              ।
-। fine       । five                                                  ।
+|            |                                                       |
+|------------|-------------------------------------------------------|
+| a named    | named                                                 |
+| oppsed     | opposed                                               |
+| ourseleves | ourselves                                             |
+| commom     | common                                                |
+| two fold   | two–fold                                              |
+| destiniy   | destiny                                               |
+| chalck     | chalk                                                 |
+| empalment  | empalement                                            |
+| desease    | disease                                               |
+| the 1/96   | 1/96 th                                               |
+| redicule   | ridicule                                              |
+| than       | thou                                                  |
+| impured    | impaired                                              |
+| enquire    | to enquire                                            |
+| was        | were                                                  |
+| leige-lord | liege-lord                                            |
+| moved.     | moved. He,letting off all the fishes, returned home. |
+| do not     | would not                                             |
+| haste.     | haste. So I willcorrect the mistake.                 |
+| persons    | person                                                |
+| Itches     | The itch                                              |
+| fine       | five                                                  |
 
 
 
@@ -1283,24 +1283,24 @@ The 31st January 1881.
 
 
 
-।                                                  ।
-|:------------------------------------------------:।
-।                  **CONTENTS.**                   ।
-।               Vetàlapanchavinsati.               ।
-।           Upakramanikà (Introduction)            ।
-।             Upasanhàra (Conclusion)              ।
-।                 Purushaparíkshà.                 ।
-।         Lokavidya-kathà (Story of Nanda)         ।
-।    Ubhayavidya-kathá (Story of Chandragupta)     ।
-।                   Kathà-kosha.                   ।
-।      Dànadharma-kathà (Story of Lalitànga)       ।
-।    Nala Davadanti (Story of Nala & Davadantí)    ।
-।                 Lalita-vistara.                  ।
-।        Buddha-charita (Story of Buddha).         ।
-।                   Mahàbhàrata.                   ।
-। Story of Dharmaraja (in the disguise of a crane) ।
-।                    Ràmàyana.                     ।
-।          Ráma-pravásana (Exile of Rama)          ।
+|                                                  |
+|:------------------------------------------------:|
+|                  **CONTENTS.**                   |
+|               Vetàlapanchavinsati.               |
+|           Upakramanikà (Introduction)            |
+|             Upasanhàra (Conclusion)              |
+|                 Purushaparíkshà.                 |
+|         Lokavidya-kathà (Story of Nanda)         |
+|    Ubhayavidya-kathá (Story of Chandragupta)     |
+|                   Kathà-kosha.                   |
+|      Dànadharma-kathà (Story of Lalitànga)       |
+|    Nala Davadanti (Story of Nala & Davadantí)    |
+|                 Lalita-vistara.                  |
+|        Buddha-charita (Story of Buddha).         |
+|                   Mahàbhàrata.                   |
+| Story of Dharmaraja (in the disguise of a crane) |
+|                    Ràmàyana.                     |
+|          Ráma-pravásana (Exile of Rama)          |
 
 
 

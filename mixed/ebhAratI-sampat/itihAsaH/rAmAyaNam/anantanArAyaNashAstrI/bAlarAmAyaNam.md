@@ -1692,242 +1692,242 @@ Page 69.
 
 ABBREVIATIONS USED
 
-।                                          ।                              ।
-।------------------------------------------।------------------------------।
-। N. Noun                                  । P. p. Past Participle        ।
-। a Adjective (can be used in all genders) । V. T. Verb Transitive        ।
-। m Masculine (पुंलिङ्गम्)                 । V. int. VerbIntransitive    ।
-। f Feminine (स्त्रीलिङ्गम्)               । adv. Adverb (क्रियाविशेषणम्) ।
-। n Neuter (नपुंसकलिङ्गम)                  । ind. Indeclinable            ।
+|                                          |                              |
+|------------------------------------------|------------------------------|
+| N. Noun                                  | P. p. Past Participle        |
+| a Adjective (can be used in all genders) | V. T. Verb Transitive        |
+| m Masculine (पुंलिङ्गम्)                 | V. int. VerbIntransitive    |
+| f Feminine (स्त्रीलिङ्गम्)               | adv. Adverb (क्रियाविशेषणम्) |
+| n Neuter (नपुंसकलिङ्गम)                  | ind. Indeclinable            |
 
 ![](../books_images/U-IMG-170080953378.png)
 
-।                                       ।                                   ।
-|:-------------------------------------:।-----------------------------------।
-।            **बालकाण्डः।**             । नागसहस्र N.n.Thousand elephants   ।
-।          पुरोधस्N. m Priest          । अध्यर्ध a One and a half          ।
-।             हुतवह m Fire              । निष्कण्टक a Free from peril       ।
-।     पायस n Rice-cooked with milk      । ज्याशब्द n Sound of the bowstring ।
-।          उपपन्न a Befitting           । मन्त्रग्राम m Group of mantras    ।
-।          भास्वर a Effulgent           । समेधित a. p. p.Enchanced          ।
-।      दारक्रिया N. f. Matri-mony       । जागरूक a Vigilant                 ।
-।          उतपन्न a Befitting           । राजीव n Lotus                     ।
-।         निस्संज्ञ a Senseless         । अप्रमेय a Immeasurable            ।
-।        साम्प्रतम् Ind. Proper         । सपर्या f Adoration worship        ।
-।       कृत्स्ना a. f All, whole       । अनुगत a Connected with            ।
-।          व्यतिकर m Juncture           ।                                  ।
-। अविप्रहृतa Not frequen-ted by people ।                                  ।
-।           दारुण a Dreadful            ।                                  ।
-।          स्फीत a Flourshing           ।                                  ।
+|                                       |                                   |
+|:-------------------------------------:|-----------------------------------|
+|            **बालकाण्डः|**             | नागसहस्र N.n.Thousand elephants   |
+|          पुरोधस्N. m Priest          | अध्यर्ध a One and a half          |
+|             हुतवह m Fire              | निष्कण्टक a Free from peril       |
+|     पायस n Rice-cooked with milk      | ज्याशब्द n Sound of the bowstring |
+|          उपपन्न a Befitting           | मन्त्रग्राम m Group of mantras    |
+|          भास्वर a Effulgent           | समेधित a. p. p.Enchanced          |
+|      दारक्रिया N. f. Matri-mony       | जागरूक a Vigilant                 |
+|          उतपन्न a Befitting           | राजीव n Lotus                     |
+|         निस्संज्ञ a Senseless         | अप्रमेय a Immeasurable            |
+|        साम्प्रतम् Ind. Proper         | सपर्या f Adoration worship        |
+|       कृत्स्ना a. f All, whole       | अनुगत a Connected with            |
+|          व्यतिकर m Juncture           |                                  |
+| अविप्रहृतa Not frequen-ted by people |                                  |
+|           दारुण a Dreadful            |                                  |
+|          स्फीत a Flourshing           |                                  |
 
 
 
 
 
-।                                        ।                                  ।
-।----------------------------------------।----------------------------------।
-। न्यासीकृत a. p p. Entrusted            । चत्वर n Yard                    ।
-। निर्घातm Thunder                      । विपणि f Bazaar                  ।
-। जनताMass of men                       । मण्डनविधि m Decoration           ।
-। शुल्कः m. n Purchase price (of a girl) । कुटिल a Crooked                  ।
-। वार्ताहर m Messenger                   । धात्री f Governess               ।
-। रंहस् n Speed                          । विभूति f Prosperity              ।
-। फलायित a Looking like the fruit        । गरकलुषा a Contaminated by poison ।
-। संसद् f Assembly                       । अर्हणा f Honour                  ।
-। आपृच्छ्य Ind. Having taken leave of    । प्रवाजन n Banishment             ।
-। त्रिःसप्तकृत्व Ind. Twenty-one times   । संविवे v int.lay                 ।
-। अमोघ a Unfailing in effect             । उद्विग्नa Distressed            ।
-। भग्नदर्प a Of broken pride             । विमनीभूता a Uneasy in mind       ।
-। गुणगरीयसी f Exalted in virtue          । विप्रकृताf p p. Injured         ।
-। स्नुषा f Daughter-in-law               । विमानिनाF. p. p. Insulted       ।
-। आचख्येV. T. Was explained            । ऊषर n Barren soil                ।
-। **अयोध्याकाण्डः।**                     । उप्त p p. Sewn                   ।
-। जरठ a Old                              । ब्रह्मवर्चस ल Brahmanic lusture  ।
-। प्रोषित a Gone from home               । सम्भार m (Pl) Requisities        ।
-। आकर m Mine                             । आसामास V. int. Sat               ।
-।                                       । दिनमणि N. m The Sun              ।
-।                                       । पर्यङ्क m Cot                    ।
-।                                       । पन्नग m A serpant               ।
-।                                       । प्रवण a Bent upon                ।
-।                                       । धृष्टता f Audacity               ।
-।                                       । आर्जव n Frankness candour        ।
-
-
-
-
-
-
-।                                                        ।                                                                 ।
-।--------------------------------------------------------।-----------------------------------------------------------------।
-। क्रकच m A saw                                          । अप्रमत्त a Attentive,                                           ।
-। निर्घृणम्Ruthlessly                                   । निवृति f Peace of mind, happiness                               ।
-। हायन n Year                                            । शब्दवेधी a One who is able to hit a target by hearing the sound ।
-। चीर n Bark of the tree                                 । निशीथ m Midnight                                                ।
-। वात्या f Storm                                         । कालधर्म m Death,                                                ।
-। क्षते n क्षारं n क्षिपतिV. T. Applies acid to a wound । आत्ययिक a Urgent                                                ।
-। समा f Year                                             । क्षुमिततर a Very much perturbed                                 ।
-। परिस्लान a Faded,Gloomy                                । तुमुल a Tumultous                                               ।
-। अननुगुण a Inappropriate                                । निकृत्तमूल a Cut at the root.                                   ।
-। गर्हयितुम् Ind. To blame to censure                    । नृशंसता f Cruelty                                               ।
-। मृद्गती f Crushing and softening                       । पण्डितमानिनीa. f Considering oneself very wise                 ।
-। नन्दन n Celestial garden                               । अपत्रपा f Shameless                                             ।
-। विघात m Frustration                                    । लालस a Eager                                                    ।
-। सौविदल्लN. m A Sentinal Guard                         । अनुशय m Repentance                                              ।
-। आम्नाय m Vedic scripture                               । अभ्यर्ण n Vicinity                                              ।
-। वल्कलm. n Bark of tree                                । नवीकृत a Renewed                                                ।
-। पवनजबन a As swift as wind                              । वर्त्मन् n Pathway                                              ।
-। अग्रतःसर a Foremost                                    । अन्वयुङ्क्तV. T. Enquired                                      ।
-। न्यग्रोध m A banyan tree                               । प्रत्यूष m Dawn, daybreak.                                      ।
+|                                        |                                  |
+|----------------------------------------|----------------------------------|
+| न्यासीकृत a. p p. Entrusted            | चत्वर n Yard                    |
+| निर्घातm Thunder                      | विपणि f Bazaar                  |
+| जनताMass of men                       | मण्डनविधि m Decoration           |
+| शुल्कः m. n Purchase price (of a girl) | कुटिल a Crooked                  |
+| वार्ताहर m Messenger                   | धात्री f Governess               |
+| रंहस् n Speed                          | विभूति f Prosperity              |
+| फलायित a Looking like the fruit        | गरकलुषा a Contaminated by poison |
+| संसद् f Assembly                       | अर्हणा f Honour                  |
+| आपृच्छ्य Ind. Having taken leave of    | प्रवाजन n Banishment             |
+| त्रिःसप्तकृत्व Ind. Twenty-one times   | संविवे v int.lay                 |
+| अमोघ a Unfailing in effect             | उद्विग्नa Distressed            |
+| भग्नदर्प a Of broken pride             | विमनीभूता a Uneasy in mind       |
+| गुणगरीयसी f Exalted in virtue          | विप्रकृताf p p. Injured         |
+| स्नुषा f Daughter-in-law               | विमानिनाF. p. p. Insulted       |
+| आचख्येV. T. Was explained            | ऊषर n Barren soil                |
+| **अयोध्याकाण्डः|**                     | उप्त p p. Sewn                   |
+| जरठ a Old                              | ब्रह्मवर्चस ल Brahmanic lusture  |
+| प्रोषित a Gone from home               | सम्भार m (Pl) Requisities        |
+| आकर m Mine                             | आसामास V. int. Sat               |
+|                                       | दिनमणि N. m The Sun              |
+|                                       | पर्यङ्क m Cot                    |
+|                                       | पन्नग m A serpant               |
+|                                       | प्रवण a Bent upon                |
+|                                       | धृष्टता f Audacity               |
+|                                       | आर्जव n Frankness candour        |
 
 
 
 
 
 
-।                                                     ।                                                          ।
-।-----------------------------------------------------।----------------------------------------------------------।
-। तरङ्गिणी f Stream                                   । कज्जल n Collyrium                                        ।
-। अन्तराल n Midst                                     । व्याघ्रचर्म n Tiger skin                                 ।
-। दोलायमान @ Swinging                                 । चकिता f Frightened                                       ।
-। अभिज्ञातुम् and To recognise                        । प्रावात N. m Stormy spot                                 ।
-। दृष्ट्या for ind. Fortunately                       । विवेपेV. int Trembled                                   ।
-। प्रतिष्ठा f Stability                               । द्विधाकृत्य ind Having broken into two pieces            ।
-। पञ्चताप्राप्ति f Death                              । हतासुLifeless, bereft                                   ।
-। पञ्चताप्राप्ति                                      । गर्तm Ditch                                             ।
-। निवापाञ्जलि m Handful of water offered to the dead । भोतिक a Composed of five elements, पृथवीetc.            ।
-। पिण्याक n Oılcake                                   । निर्मक m Slough                                          ।
-। विपक्षामिV. T. I wish                              । आश्रुत a Promised                                        ।
-। ध्रियमान a Alive \[to say                           । आश्रमतल्लुज m The best of hermitage                      ।
-। विप्लवm Loss, disorder                             । चुलुकित a Taken in the palm                              ।
-। योगः m Acquisition of new things                    । हेमराजि f Golden line                                    ।
-। क्षेम m Preservation of possessions                 । निषङ्ग m Quiver                                          ।
-। पादुका f Sandal                                     । हैमकोश m Having a golden sheath                          ।
-। सभाजित a Adored.                                    । प्राज्यदोष a Full of evils                               ।
-। **आरण्यकाण्डः।**                                    । विषमस्थ a Placed in difficulties                         ।
-। तिग्मांशुः m The Sun                                । विद्युत् f Lightning                                     ।
-। विज्यम् a Having the string untied                  । दोषासङ्ग m Contact with evil, also connection with night ।
-। क्षपा f Night                                       ।                                                         ।
-। क्षपयित्वा Ind Having spent                         ।                                                         ।
-
-
-
-
-
-।                                              ।                                              ।
-।----------------------------------------------।----------------------------------------------।
-। आविश्चकार V. T Showed                        । पदाति m Foot-soldier                         ।
-। परवान् a Depending on another                । पञ्चतां f नयति V. Puts to deat               ।
-। निर्णेतुं नालम् ind. Not competent to decide । दुर्धर्ष a Unassailable                      ।
-। विकच a Full blown                            । राकाशशिन् m Full moon                        ।
-। मृत्तिका f Clay                              । हठात् m By force                             ।
-। मस्कर m Bamboo                               । तर्जन m Threat                               ।
-। भगिनी f Sister                               । रजतबिन्दु m Silver spot                      ।
-। यहच्छया f By chance                          । अपाय m Absence                               ।
-। वासवोपम a Equal to Indra                     । विधुन्तुद m Demon Rahu                       ।
-। अन्तराय m Obstacle, Hindrance                । सुषमा f Charm                                ।
-। करवाल m Sword                                । उदर्क m Ultimate result                      ।
-। सरणि f Path                                  । विरल a Rare                                  ।
-। चामीकर n Gold                                । यमक्षय m Abode of the God of death           ।
-। शलभ m Moth                                   । आतङ्क m Agony                                ।
-। विकत्थन a Boastful                           । कामरूपी @ Capable of taking any form at will ।
-। उत्तेजयन्ती f Kindling                       । आस्तरणः n Carpet                             ।
-। जीमूत m Cloud                                । प्रलोभितः a Tempted                          ।
-। आमुक a Put on                                । असून् m उत्सृज् T. I.To die                  ।
-। स्वस्तिवाक्य n Words of blessings            । छद्म n Deceit, Fraud                         ।
-। रणाजिर n Battle field                        । विस्रब्ध a Conliding                         ।
-। अमर्ष m Anger                                । नाराच m Arrow                                ।
-। निरङ्कुशः a Un-restrained                    । भेषज n Remedy,Panacea                        ।
-।                                             । अन्तर n Opportunity                          ।
+|                                                        |                                                                 |
+|--------------------------------------------------------|-----------------------------------------------------------------|
+| क्रकच m A saw                                          | अप्रमत्त a Attentive,                                           |
+| निर्घृणम्Ruthlessly                                   | निवृति f Peace of mind, happiness                               |
+| हायन n Year                                            | शब्दवेधी a One who is able to hit a target by hearing the sound |
+| चीर n Bark of the tree                                 | निशीथ m Midnight                                                |
+| वात्या f Storm                                         | कालधर्म m Death,                                                |
+| क्षते n क्षारं n क्षिपतिV. T. Applies acid to a wound | आत्ययिक a Urgent                                                |
+| समा f Year                                             | क्षुमिततर a Very much perturbed                                 |
+| परिस्लान a Faded,Gloomy                                | तुमुल a Tumultous                                               |
+| अननुगुण a Inappropriate                                | निकृत्तमूल a Cut at the root.                                   |
+| गर्हयितुम् Ind. To blame to censure                    | नृशंसता f Cruelty                                               |
+| मृद्गती f Crushing and softening                       | पण्डितमानिनीa. f Considering oneself very wise                 |
+| नन्दन n Celestial garden                               | अपत्रपा f Shameless                                             |
+| विघात m Frustration                                    | लालस a Eager                                                    |
+| सौविदल्लN. m A Sentinal Guard                         | अनुशय m Repentance                                              |
+| आम्नाय m Vedic scripture                               | अभ्यर्ण n Vicinity                                              |
+| वल्कलm. n Bark of tree                                | नवीकृत a Renewed                                                |
+| पवनजबन a As swift as wind                              | वर्त्मन् n Pathway                                              |
+| अग्रतःसर a Foremost                                    | अन्वयुङ्क्तV. T. Enquired                                      |
+| न्यग्रोध m A banyan tree                               | प्रत्यूष m Dawn, daybreak.                                      |
 
 
 
 
 
 
-
-।                                      ।                                                      ।
-।--------------------------------------।------------------------------------------------------।
-। परिव्राजक m Ascetic                 । पीयूष m n Nectar                                     ।
-। विहायस् m n Sky, Aerial path         । वैदग्धी f Skill                                      ।
-। सश्रव m Vow                          । आत्मनापञ्चम m (Com-pound) Accompanied by four others ।
-। अभिमर्शन n Outrage                   । निरागस् a Innocent                                   ।
-। वृन्त n Stalk                        । (कण्ड्वामृतिः) कण्डूलिः f Desire to scratch          ।
-। परिपाटी f Mann r                     । मिहिर m The Sun                                      ।
-। तुण्ड n Beak                         । प्रावृट्काल m Rainy season                           ।
-। क्षतजोक्षित a Smeared with blood     । समिद्धमन्यु a One whose anger was kindled            ।
-। कौशेय n Silk                         । समये m तिष्ठ Int. Stick to the agreement             ।
-। अपक्रोश m Scandal                    । प्रतिश्रवः m Promise                                 ।
-। सृद् m Cook                          । पर्यय m Lapse                                        ।
-। कणशःः ind. Into pieces               । अभिज्ञान n Token                                     ।
-। देवर m Husband's brother             । कन्दर m f n Cave                                     ।
-। कामकार m Acting at will and pleasure । हरि m A monkey (alsoIndra, Lion,Vishnu, etc.)        ।
-। एकपदे ind. All at once               । कल्लोल m High wave                                   ।
-। आसन्ननिर्याण a About to die          । प्रायोपवेश m Fasting until death (Hunger strike)     ।
-। फेन m Foam                           । पारेसमुद्रम् ind On the other shore of the sea       ।
-। सव्यः a Left                         ।                                                     ।
-। स्वादिमन् m Sweetness                ।                                                     ।
-। **किष्किन्धाकाण्डः।**                ।                                                     ।
-। छदद्मचारिन् a Walking under disguise ।                                                     ।
-। चार m A spy                          ।                                                     ।
-
+|                                                     |                                                          |
+|-----------------------------------------------------|----------------------------------------------------------|
+| तरङ्गिणी f Stream                                   | कज्जल n Collyrium                                        |
+| अन्तराल n Midst                                     | व्याघ्रचर्म n Tiger skin                                 |
+| दोलायमान @ Swinging                                 | चकिता f Frightened                                       |
+| अभिज्ञातुम् and To recognise                        | प्रावात N. m Stormy spot                                 |
+| दृष्ट्या for ind. Fortunately                       | विवेपेV. int Trembled                                   |
+| प्रतिष्ठा f Stability                               | द्विधाकृत्य ind Having broken into two pieces            |
+| पञ्चताप्राप्ति f Death                              | हतासुLifeless, bereft                                   |
+| पञ्चताप्राप्ति                                      | गर्तm Ditch                                             |
+| निवापाञ्जलि m Handful of water offered to the dead | भोतिक a Composed of five elements, पृथवीetc.            |
+| पिण्याक n Oılcake                                   | निर्मक m Slough                                          |
+| विपक्षामिV. T. I wish                              | आश्रुत a Promised                                        |
+| ध्रियमान a Alive \[to say                           | आश्रमतल्लुज m The best of hermitage                      |
+| विप्लवm Loss, disorder                             | चुलुकित a Taken in the palm                              |
+| योगः m Acquisition of new things                    | हेमराजि f Golden line                                    |
+| क्षेम m Preservation of possessions                 | निषङ्ग m Quiver                                          |
+| पादुका f Sandal                                     | हैमकोश m Having a golden sheath                          |
+| सभाजित a Adored.                                    | प्राज्यदोष a Full of evils                               |
+| **आरण्यकाण्डः|**                                    | विषमस्थ a Placed in difficulties                         |
+| तिग्मांशुः m The Sun                                | विद्युत् f Lightning                                     |
+| विज्यम् a Having the string untied                  | दोषासङ्ग m Contact with evil, also connection with night |
+| क्षपा f Night                                       |                                                         |
+| क्षपयित्वा Ind Having spent                         |                                                         |
 
 
 
 
 
-।                                              ।                                       ।
-।----------------------------------------------।---------------------------------------।
-। अपर्याप्त a Incompetent                      । स्थण्डिलशायी a Lying on bare floor    ।
-। प्रभविष्णु a Powerful                        । अपशद m Wretch                         ।
-। वाहिनीƒ Army, Host                          । अरून्तुद a Heart-rending              ।
-। प्रत्याशा Expectation                        । अनन्य a Not different                 ।
-। **सुन्दरकाण्डः।**                            । प्रातराशm Breakfast                  ।
-। विश्रान्तिहेतोःm For thesake of taking rest । चतुर्थ m उपाय m Punishment            ।
-। अंशुमाली m The sun                           । च्छ्न्द m Will, choice                ।
-। ज्योत्स्ना f Moonlight                       । मानुष्यक n Humanity                   ।
-। अमृतांशु m The moon                          । भव्य a Well being                     ।
-। प्राकारः m Fortwall                          । लीन a Concealed                       ।
-। परिच्छदFurniture                            । प्रश्रित a Humble                     ।
-। कक्ष्या f Apartment                          । प्रत्यय m Belief                      ।
-। अतुल a Unequalled                            । गाथा f Popular song                   ।
-। अविजहत् a pre p: Not leaving out             । विशिख m Arrow                         ।
-। विचिकाय V. T Searched                        । पैतामह a Belonging to Brahma          ।
-। चैत्ररथ n The garden of Kubera               । विभीषका f Intimidation                ।
-। उपवास m Fasting                              । साहसिकः m One whoacts thoughtlessly ।
-। चारित्र n Chastity                           । कार्पासिक a Made of cotton            ।
-। पीतवासन n Yellow garment                     । अवसादित a Ruined                      ।
-। संवीत a Clad in                              । उपायन n Present                       ।
-। भवितव्यता f Fate                             । क्ष्वेडन n Roaring                    ।
-। द्विजः m A bird                              । **युद्धकाण्डः।**                      ।
-। उरीकृत्य ind Having accepted                 । पुलकित a Thrilled with joy            ।
+|                                              |                                              |
+|----------------------------------------------|----------------------------------------------|
+| आविश्चकार V. T Showed                        | पदाति m Foot-soldier                         |
+| परवान् a Depending on another                | पञ्चतां f नयति V. Puts to deat               |
+| निर्णेतुं नालम् ind. Not competent to decide | दुर्धर्ष a Unassailable                      |
+| विकच a Full blown                            | राकाशशिन् m Full moon                        |
+| मृत्तिका f Clay                              | हठात् m By force                             |
+| मस्कर m Bamboo                               | तर्जन m Threat                               |
+| भगिनी f Sister                               | रजतबिन्दु m Silver spot                      |
+| यहच्छया f By chance                          | अपाय m Absence                               |
+| वासवोपम a Equal to Indra                     | विधुन्तुद m Demon Rahu                       |
+| अन्तराय m Obstacle, Hindrance                | सुषमा f Charm                                |
+| करवाल m Sword                                | उदर्क m Ultimate result                      |
+| सरणि f Path                                  | विरल a Rare                                  |
+| चामीकर n Gold                                | यमक्षय m Abode of the God of death           |
+| शलभ m Moth                                   | आतङ्क m Agony                                |
+| विकत्थन a Boastful                           | कामरूपी @ Capable of taking any form at will |
+| उत्तेजयन्ती f Kindling                       | आस्तरणः n Carpet                             |
+| जीमूत m Cloud                                | प्रलोभितः a Tempted                          |
+| आमुक a Put on                                | असून् m उत्सृज् T. I.To die                  |
+| स्वस्तिवाक्य n Words of blessings            | छद्म n Deceit, Fraud                         |
+| रणाजिर n Battle field                        | विस्रब्ध a Conliding                         |
+| अमर्ष m Anger                                | नाराच m Arrow                                |
+| निरङ्कुशः a Un-restrained                    | भेषज n Remedy,Panacea                        |
+|                                             | अन्तर n Opportunity                          |
 
 
 
 
 
 
-।                                       ।                                    ।
-।---------------------------------------।------------------------------------।
-। अनीकिनी f Army                        । कृपाण m Sword                      ।
-। मिथः ind. Secretly                    । पुरूहुत m Indra                    ।
-। प्रापण n Communication                । अपरिवर्तनीय a Not to be averted    ।
-। अवज्ञान. p. p Despised                । प्रमीत a Dead                      ।
-। विसंवाद m Difference of opinion       । और्धदैहिक a Funeral Obsequies      ।
-। संवादि a Confirming to               । अवरोध Harem                        ।
-। पर्यावास्यत् V. int. Ended            । शिविका f Palanquin                 ।
-। प्रसृत्वरि f Spreading over           । द्विगुणित a Doubled                ।
-। गुप्ति f Protection,                  । साक्षिभूय a The state of a witness ।
-। परिबुभूषा f Desire to insult          । निमन्त्रित a Invited               ।
-। सन्दानित् a Bound                     । अतिपात m Lapse                     ।
-। चैनतेयः m The king a Cut off          । स्रब्ध a Stunned                   ।
-। लृन a Cut off                        । प्रतिकर्म n Personal decoration    ।
-। आसार m Shower                         । समुच्छ्रित a Hoisted               ।
-। तपनीय n Gold                          । पताका f Flag                       ।
-। उत्फुल्ल a Wide open                  । महाई a Very valuable               ।
-। ज्या f Bow string                     । हार m Necklace                     ।
-। शितिघाj a Sharp edged                 । पर्यनुनीत a. p. P. Persuaded       ।
-। उद्घाटयामास V. Tr. Exposed, Disclosed । उररीचकार V. T.Accepted.            ।
-। अजय्य a Invincible                    ।                                   ।
+
+|                                      |                                                      |
+|--------------------------------------|------------------------------------------------------|
+| परिव्राजक m Ascetic                 | पीयूष m n Nectar                                     |
+| विहायस् m n Sky, Aerial path         | वैदग्धी f Skill                                      |
+| सश्रव m Vow                          | आत्मनापञ्चम m (Com-pound) Accompanied by four others |
+| अभिमर्शन n Outrage                   | निरागस् a Innocent                                   |
+| वृन्त n Stalk                        | (कण्ड्वामृतिः) कण्डूलिः f Desire to scratch          |
+| परिपाटी f Mann r                     | मिहिर m The Sun                                      |
+| तुण्ड n Beak                         | प्रावृट्काल m Rainy season                           |
+| क्षतजोक्षित a Smeared with blood     | समिद्धमन्यु a One whose anger was kindled            |
+| कौशेय n Silk                         | समये m तिष्ठ Int. Stick to the agreement             |
+| अपक्रोश m Scandal                    | प्रतिश्रवः m Promise                                 |
+| सृद् m Cook                          | पर्यय m Lapse                                        |
+| कणशःः ind. Into pieces               | अभिज्ञान n Token                                     |
+| देवर m Husband's brother             | कन्दर m f n Cave                                     |
+| कामकार m Acting at will and pleasure | हरि m A monkey (alsoIndra, Lion,Vishnu, etc.)        |
+| एकपदे ind. All at once               | कल्लोल m High wave                                   |
+| आसन्ननिर्याण a About to die          | प्रायोपवेश m Fasting until death (Hunger strike)     |
+| फेन m Foam                           | पारेसमुद्रम् ind On the other shore of the sea       |
+| सव्यः a Left                         |                                                     |
+| स्वादिमन् m Sweetness                |                                                     |
+| **किष्किन्धाकाण्डः|**                |                                                     |
+| छदद्मचारिन् a Walking under disguise |                                                     |
+| चार m A spy                          |                                                     |
+
+
+
+
+
+
+|                                              |                                       |
+|----------------------------------------------|---------------------------------------|
+| अपर्याप्त a Incompetent                      | स्थण्डिलशायी a Lying on bare floor    |
+| प्रभविष्णु a Powerful                        | अपशद m Wretch                         |
+| वाहिनीƒ Army, Host                          | अरून्तुद a Heart-rending              |
+| प्रत्याशा Expectation                        | अनन्य a Not different                 |
+| **सुन्दरकाण्डः|**                            | प्रातराशm Breakfast                  |
+| विश्रान्तिहेतोःm For thesake of taking rest | चतुर्थ m उपाय m Punishment            |
+| अंशुमाली m The sun                           | च्छ्न्द m Will, choice                |
+| ज्योत्स्ना f Moonlight                       | मानुष्यक n Humanity                   |
+| अमृतांशु m The moon                          | भव्य a Well being                     |
+| प्राकारः m Fortwall                          | लीन a Concealed                       |
+| परिच्छदFurniture                            | प्रश्रित a Humble                     |
+| कक्ष्या f Apartment                          | प्रत्यय m Belief                      |
+| अतुल a Unequalled                            | गाथा f Popular song                   |
+| अविजहत् a pre p: Not leaving out             | विशिख m Arrow                         |
+| विचिकाय V. T Searched                        | पैतामह a Belonging to Brahma          |
+| चैत्ररथ n The garden of Kubera               | विभीषका f Intimidation                |
+| उपवास m Fasting                              | साहसिकः m One whoacts thoughtlessly |
+| चारित्र n Chastity                           | कार्पासिक a Made of cotton            |
+| पीतवासन n Yellow garment                     | अवसादित a Ruined                      |
+| संवीत a Clad in                              | उपायन n Present                       |
+| भवितव्यता f Fate                             | क्ष्वेडन n Roaring                    |
+| द्विजः m A bird                              | **युद्धकाण्डः|**                      |
+| उरीकृत्य ind Having accepted                 | पुलकित a Thrilled with joy            |
+
+
+
+
+
+
+|                                       |                                    |
+|---------------------------------------|------------------------------------|
+| अनीकिनी f Army                        | कृपाण m Sword                      |
+| मिथः ind. Secretly                    | पुरूहुत m Indra                    |
+| प्रापण n Communication                | अपरिवर्तनीय a Not to be averted    |
+| अवज्ञान. p. p Despised                | प्रमीत a Dead                      |
+| विसंवाद m Difference of opinion       | और्धदैहिक a Funeral Obsequies      |
+| संवादि a Confirming to               | अवरोध Harem                        |
+| पर्यावास्यत् V. int. Ended            | शिविका f Palanquin                 |
+| प्रसृत्वरि f Spreading over           | द्विगुणित a Doubled                |
+| गुप्ति f Protection,                  | साक्षिभूय a The state of a witness |
+| परिबुभूषा f Desire to insult          | निमन्त्रित a Invited               |
+| सन्दानित् a Bound                     | अतिपात m Lapse                     |
+| चैनतेयः m The king a Cut off          | स्रब्ध a Stunned                   |
+| लृन a Cut off                        | प्रतिकर्म n Personal decoration    |
+| आसार m Shower                         | समुच्छ्रित a Hoisted               |
+| तपनीय n Gold                          | पताका f Flag                       |
+| उत्फुल्ल a Wide open                  | महाई a Very valuable               |
+| ज्या f Bow string                     | हार m Necklace                     |
+| शितिघाj a Sharp edged                 | पर्यनुनीत a. p. P. Persuaded       |
+| उद्घाटयामास V. Tr. Exposed, Disclosed | उररीचकार V. T.Accepted.            |
+| अजय्य a Invincible                    |                                   |
 
 ![](../books_images/U-IMG-1699274628Screenshot2023-11-06181310.png)  
 

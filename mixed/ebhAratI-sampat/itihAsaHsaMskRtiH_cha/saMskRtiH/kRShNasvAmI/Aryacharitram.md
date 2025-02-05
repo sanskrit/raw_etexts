@@ -59,53 +59,53 @@ LUZ, MYLAPORE,
 
 CONTENTS
 
-।                                                                       ।
-।-----------------------------------------------------------------------।
-। Harischandropakhyanam—The Triumph of Truth                            ।
-। Satyaparipalanam—Truth at any cost                                    ।
-। Nandacharitram—Truth dearer than life                                 ।
-। Brahmanavyadhasamvada—Wise counsel                                    ।
-। Seelavarnanam—Character is everything                                 ।
-। Ajagaropakhyanam—Character, not caste makes for superiority           ।
-। Chakshusteerthavarnanam—Virtue's Triumph                              ।
-। Arunasutasatyavratacharitram—Duty Stern; father banishing son         ।
-। Maruttopakhyanam—Duty Stern; a conflict between father and son        ।
-। Nakulopakhyanam—The glory of Charity                                  ।
-। Yudhishthirasakrasamvada—Love of dependants; Yudhishthira and his dog ।
-। Sibicharitram—Giving up life to save a refugee                        ।
-। Vyadhakapotavrittanta—Romantic self-sacrifice                         ।
-। Yayaticharitram—A dutiful son                                         ।
-। Draupadiyudhishthirasamvada—To forgive or to be revenged              ।
-। Savitryuphakhyanam—Chastityovercomes Fate                            ।
-। Saibyacharitram—Persistent Chastity                                   ।
-। Pativratamahatmyam—The glory of Chastity                              ।
-। Sukanyacharitram—Devotion to husband                                  ।
-। Nalopakhyanam—The evils of gambling                                   ।
-। Asavarnanam—Desire                                                    ।
-। Saubharicharitram—Desire increases by fulfilment                      ।
-। Durvasa Upakhyanam—Evil unto him who evil thinks                      ।
+|                                                                       |
+|-----------------------------------------------------------------------|
+| Harischandropakhyanam—The Triumph of Truth                            |
+| Satyaparipalanam—Truth at any cost                                    |
+| Nandacharitram—Truth dearer than life                                 |
+| Brahmanavyadhasamvada—Wise counsel                                    |
+| Seelavarnanam—Character is everything                                 |
+| Ajagaropakhyanam—Character, not caste makes for superiority           |
+| Chakshusteerthavarnanam—Virtue's Triumph                              |
+| Arunasutasatyavratacharitram—Duty Stern; father banishing son         |
+| Maruttopakhyanam—Duty Stern; a conflict between father and son        |
+| Nakulopakhyanam—The glory of Charity                                  |
+| Yudhishthirasakrasamvada—Love of dependants; Yudhishthira and his dog |
+| Sibicharitram—Giving up life to save a refugee                        |
+| Vyadhakapotavrittanta—Romantic self-sacrifice                         |
+| Yayaticharitram—A dutiful son                                         |
+| Draupadiyudhishthirasamvada—To forgive or to be revenged              |
+| Savitryuphakhyanam—Chastityovercomes Fate                            |
+| Saibyacharitram—Persistent Chastity                                   |
+| Pativratamahatmyam—The glory of Chastity                              |
+| Sukanyacharitram—Devotion to husband                                  |
+| Nalopakhyanam—The evils of gambling                                   |
+| Asavarnanam—Desire                                                    |
+| Saubharicharitram—Desire increases by fulfilment                      |
+| Durvasa Upakhyanam—Evil unto him who evil thinks                      |
 
 
 
-।                                                       ।
-।-------------------------------------------------------।
-। Kritaghnopakhyanam—No redemption for ingratitude      ।
-। Jadabharatopakhyana—The evil of attachment            ।
-। Prahladacharitram—God everywhere                      ।
-। Dhruvacharitram—A Child Devotee                       ।
-। Markandeyopakhyanam—Deathconquered by Devotion       ।
-। Kuchelopakhyanam—The Lord and his mendicant friend    ।
-। Chyavanopakhyanam—The value of a cow                  ।
-। Gautamilubdhakasamvada—Man, the master of hisdestiny ।
-। Parikshitsarpadamsanam—Fateinevitable                ।
-। Tapatryavarnanam—The three miseries of life           ।
-। Keetopakhyana—Fear not death                          ।
-। Sri Sukacharitram—A born Mukta                        ।
-। Sukavairagyopadesa—Janaka's advice to Suka            ।
-। Chaturvimsatigurupakhyanam—Thetwenty-fourteachers   ।
-। Gurubhaktimahima—Reverencefor the teacher            ।
-। Yakshaprasna—The problems of life                     ।
-। Ramacharitam—The Indian Hero                          ।
+|                                                       |
+|-------------------------------------------------------|
+| Kritaghnopakhyanam—No redemption for ingratitude      |
+| Jadabharatopakhyana—The evil of attachment            |
+| Prahladacharitram—God everywhere                      |
+| Dhruvacharitram—A Child Devotee                       |
+| Markandeyopakhyanam—Deathconquered by Devotion       |
+| Kuchelopakhyanam—The Lord and his mendicant friend    |
+| Chyavanopakhyanam—The value of a cow                  |
+| Gautamilubdhakasamvada—Man, the master of hisdestiny |
+| Parikshitsarpadamsanam—Fateinevitable                |
+| Tapatryavarnanam—The three miseries of life           |
+| Keetopakhyana—Fear not death                          |
+| Sri Sukacharitram—A born Mukta                        |
+| Sukavairagyopadesa—Janaka's advice to Suka            |
+| Chaturvimsatigurupakhyanam—Thetwenty-fourteachers   |
+| Gurubhaktimahima—Reverencefor the teacher            |
+| Yakshaprasna—The problems of life                     |
+| Ramacharitam—The Indian Hero                          |
 
 ![](../../../../../books_images/U-IMG-1700802063aaaaaa.png)
 
@@ -115,63 +115,63 @@ CONTENTS
 
 ![](../../../../../books_images/U-IMG-1700804794aaaaaa.png)
 
-।                           ।
-।---------------------------।
-। हरिश्चन्द्रोपाख्यानम् ।  ।
-। सत्यपरिपालनम् ।          ।
-। नन्दाचरित्रम्।           ।
-। ब्राह्मणव्याधसंवादः ।     ।
-। शीलवर्णनम् ।             ।
-। अजगरोपाख्यानम् ।         ।
-। चक्षुस्तीर्थवर्णनम् ।     ।
-। अरुणसुतसत्यव्रतचरित्रम्। ।
-। मरुत्तोपाख्यानम् ।        ।
-। नकुलोपाख्यानम् ।          ।
-। युधिष्ठिरशक्रसंवादः ।     ।
-। शिबिचरित्रम् ।           ।
-। व्याधकपोतवृत्तान्तः ।    ।
-। ययातिचरितम् ।             ।
-। द्रौपदीयुधिष्ठिरसंवादः ।  ।
+|                           |
+|---------------------------|
+| हरिश्चन्द्रोपाख्यानम् |  |
+| सत्यपरिपालनम् |          |
+| नन्दाचरित्रम्|           |
+| ब्राह्मणव्याधसंवादः |     |
+| शीलवर्णनम् |             |
+| अजगरोपाख्यानम् |         |
+| चक्षुस्तीर्थवर्णनम् |     |
+| अरुणसुतसत्यव्रतचरित्रम्| |
+| मरुत्तोपाख्यानम् |        |
+| नकुलोपाख्यानम् |          |
+| युधिष्ठिरशक्रसंवादः |     |
+| शिबिचरित्रम् |           |
+| व्याधकपोतवृत्तान्तः |    |
+| ययातिचरितम् |             |
+| द्रौपदीयुधिष्ठिरसंवादः |  |
 
 
 
-।                        ।
-।------------------------।
-। सावित्र्युपाख्यानम् ।  ।
-। शैब्याचरित्रम् ।       ।
-। पतिव्रतामाहात्म्यम् ।  ।
-। सुकन्याचरित्रम्।       ।
-। नलोपाख्यानम् ।         ।
-। आशावर्णनम् ।           ।
-। सौभरिचरित्रम् l        ।
-। दुर्वास उपाख्यानम् ।   ।
-। कृतघ्नोपाख्यानम् ।     ।
-। जडभरतोपाख्यानम् ।      ।
-। प्रह्लादचरित्रम् ।     ।
-। ध्रुवचरित्रम् ।        ।
-। मार्कण्डेयोपाख्यानम्। ।
-। कुचेलोपाख्यानम् ।      ।
-। च्यवनोपाख्यानम्।      ।
-। गौतमीलुब्धकसंवादः ।    ।
-। परीक्षित्सर्पदंशनम्।  ।
-। तापत्रयवर्णनम् ।       ।
-। कीटोपाख्यानम् ।        ।
-। श्रीशुकचरितम् ।        ।
+|                        |
+|------------------------|
+| सावित्र्युपाख्यानम् |  |
+| शैब्याचरित्रम् |       |
+| पतिव्रतामाहात्म्यम् |  |
+| सुकन्याचरित्रम्|       |
+| नलोपाख्यानम् |         |
+| आशावर्णनम् |           |
+| सौभरिचरित्रम् l        |
+| दुर्वास उपाख्यानम् |   |
+| कृतघ्नोपाख्यानम् |     |
+| जडभरतोपाख्यानम् |      |
+| प्रह्लादचरित्रम् |     |
+| ध्रुवचरित्रम् |        |
+| मार्कण्डेयोपाख्यानम्| |
+| कुचेलोपाख्यानम् |      |
+| च्यवनोपाख्यानम्|      |
+| गौतमीलुब्धकसंवादः |    |
+| परीक्षित्सर्पदंशनम्|  |
+| तापत्रयवर्णनम् |       |
+| कीटोपाख्यानम् |        |
+| श्रीशुकचरितम् |        |
 
 
 
-।                               ।
-।-------------------------------।
-। शुकवैराग्योपदेशः ।            ।
-। चतुर्विंशतिगुरूपाख्यानम् ।    ।
-। गुरुभक्तिमहिमा।              ।
-। यक्षप्रश्नः ।                 ।
-। रामचरितम्—बालकाण्डम्।        ।
-। रामचरितम्—अयोध्याकाण्डम्।    ।
-। रामचरितम्—आरण्यकाण्डम् ।      ।
-। रामचरितम्—किष्किन्धाकाण्डम् । ।
-। रामचरितम्—सुन्दरकाण्डम्।     ।
-। रामचरितम्—युद्धकाण्डम् ।      ।
+|                               |
+|-------------------------------|
+| शुकवैराग्योपदेशः |            |
+| चतुर्विंशतिगुरूपाख्यानम् |    |
+| गुरुभक्तिमहिमा|              |
+| यक्षप्रश्नः |                 |
+| रामचरितम्—बालकाण्डम्|        |
+| रामचरितम्—अयोध्याकाण्डम्|    |
+| रामचरितम्—आरण्यकाण्डम् |      |
+| रामचरितम्—किष्किन्धाकाण्डम् | |
+| रामचरितम्—सुन्दरकाण्डम्|     |
+| रामचरितम्—युद्धकाण्डम् |      |
 
 ![](../../../../../books_images/U-IMG-1701153797aaaaaa.png)
 

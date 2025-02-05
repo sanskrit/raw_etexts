@@ -77,23 +77,23 @@ Calcutta.
 
 To be had of-                   
 
-।                                                                                           ।
-।-------------------------------------------------------------------------------------------।
-। **Dr. Bhudeb Mookerjee, M.A.**                                                            ।
-। **20, Grey Street, Calcutta.**                                                            ।
-। **Messrs Butterworth & Co.,                          ''**       ।
-। **   ''    Thacker, Spink., & Co.,                     ''**  ।
-। **   ''    W.Newman & Co.,                         ''** ।
-। **   ''    Chackerberty Chatterjee, & Co.              ''**         ।
-। **   ''    The Book Company,,                      ''**    ।
-। **   ''    Gurudas Chatteree, & Sons                 ''**        ।
-। **   ''    D. B. Taraporovala, Sons & Co.,             ''**         ।
-। **190, Hornby Road, Fort, Bombay.**                                                       ।
-। **   ''    G. A. Natesan & Co., Georgetown, Madras.**                             ।
-। **   ''    Luzac & Co.,**                                                         ।
-। **46, Great Russell Street, London, W.C.,**                                               ।
-। **Mr. Arthur Probsthain, esq.**                                                           ।
-। **41, Great Russell Street, London, W.C.,**                                               ।
+|                                                                                           |
+|-------------------------------------------------------------------------------------------|
+| **Dr. Bhudeb Mookerjee, M.A.**                                                            |
+| **20, Grey Street, Calcutta.**                                                            |
+| **Messrs Butterworth & Co.,                          ''**       |
+| **   ''    Thacker, Spink., & Co.,                     ''**  |
+| **   ''    W.Newman & Co.,                         ''** |
+| **   ''    Chackerberty Chatterjee, & Co.              ''**         |
+| **   ''    The Book Company,,                      ''**    |
+| **   ''    Gurudas Chatteree, & Sons                 ''**        |
+| **   ''    D. B. Taraporovala, Sons & Co.,             ''**         |
+| **190, Hornby Road, Fort, Bombay.**                                                       |
+| **   ''    G. A. Natesan & Co., Georgetown, Madras.**                             |
+| **   ''    Luzac & Co.,**                                                         |
+| **46, Great Russell Street, London, W.C.,**                                               |
+| **Mr. Arthur Probsthain, esq.**                                                           |
+| **41, Great Russell Street, London, W.C.,**                                               |
 
 
 
@@ -303,195 +303,195 @@ The date of the Mahabharata War 3139 B. C.
 
 ## **1. BRIHADRATHAHA DYNASTY.**
 
-।                                                                                                 ।
-।------------------------------------------------------------------------------------------------:।
-।                                                                  Year   FORM B.C  TO B.C ।
-।        1. Somapi or Marjari                58     3139       3081 ।
-।    2. Srutasrava                     64     3081       2017 ।
-।  3. Apratipa                       36     3017       2981 ।
-।   4. Niramitra                      40     2981       2941 ।
-।  5. Sukrita                        58     2941       2883 ।
-।      6.Brihatkarma                    23     2883       2860 ।
-। 7. Senajit                        50     2860        2810 ।
-।     8. Srutanjaya                     40     2810       2770 ।
-।     9. Mahabala.                     35      2770       2735 ।
-।  10. Suchi                        58      2735       2677 ।
-।     11. Kshema                      28      2677       2649 ।
-।   12. Anuvrita                      64     2649        2585 ।
+|                                                                                                 |
+|------------------------------------------------------------------------------------------------:|
+|                                                                  Year   FORM B.C  TO B.C |
+|        1. Somapi or Marjari                58     3139       3081 |
+|    2. Srutasrava                     64     3081       2017 |
+|  3. Apratipa                       36     3017       2981 |
+|   4. Niramitra                      40     2981       2941 |
+|  5. Sukrita                        58     2941       2883 |
+|      6.Brihatkarma                    23     2883       2860 |
+| 7. Senajit                        50     2860        2810 |
+|     8. Srutanjaya                     40     2810       2770 |
+|     9. Mahabala.                     35      2770       2735 |
+|  10. Suchi                        58      2735       2677 |
+|     11. Kshema                      28      2677       2649 |
+|   12. Anuvrita                      64     2649        2585 |
 
-।                                                                                                 ।
-।-------------------------------------------------------------------------------------------------।
-। 13. Dharmanetra                  35     2585        2550        ।
-। 14. Nirvritta                      58      2550       2492 ।
-। 15. Suvrata                      38      2492       2454    ।
-। 16. Drudhasena                  58     2454        2396        ।
-। 17. Sumati                      33     2396        2363    ।
-। 18. Suchala                     22      2363        2341    ।
-। 19. Sunetra                     40     2341        2301     ।
-। 20. Satyajit                     83      2301        2218   ।
-। 21. Virajit                       35      2218        2183 ।
-। 22. Ripunjaya                   50      2183        2133       ।
-।                             1006                                   ।
-
-
-
-
-।                                                                                             ।
-।:-------------------------------------------------------------------------------------------:।
-।                                  **II. PRADYOTA DYNASTY.**                                  ।
-।                               Year   FORM B.C  TO B.C                               ।
-। 1. Pradyota                      23      2133      2110 ।
-। 2. Palaka                       24      2110      2086 ।
-।   3. Visakhayupa                  50      2086      2036    ।
-। 4. Janaka                       21      2036      2015  ।
-।   5. Nandivardhana.                20       2015      1995    ।
-
-।                                                                 ।
-।-----------------------------------------------------------------।
-।                               138 ।
+|                                                                                                 |
+|-------------------------------------------------------------------------------------------------|
+| 13. Dharmanetra                  35     2585        2550        |
+| 14. Nirvritta                      58      2550       2492 |
+| 15. Suvrata                      38      2492       2454    |
+| 16. Drudhasena                  58     2454        2396        |
+| 17. Sumati                      33     2396        2363    |
+| 18. Suchala                     22      2363        2341    |
+| 19. Sunetra                     40     2341        2301     |
+| 20. Satyajit                     83      2301        2218   |
+| 21. Virajit                       35      2218        2183 |
+| 22. Ripunjaya                   50      2183        2133       |
+|                             1006                                   |
 
 
 
 
+|                                                                                             |
+|:-------------------------------------------------------------------------------------------:|
+|                                  **II. PRADYOTA DYNASTY.**                                  |
+|                               Year   FORM B.C  TO B.C                               |
+| 1. Pradyota                      23      2133      2110 |
+| 2. Palaka                       24      2110      2086 |
+|   3. Visakhayupa                  50      2086      2036    |
+| 4. Janaka                       21      2036      2015  |
+|   5. Nandivardhana.                20       2015      1995    |
 
-।                                                                                               ।
-।:---------------------------------------------------------------------------------------------:।
-।                                  **III. SAISUNAGA DYNASTY.**                                  ।
-।                                Year   FORM B.C  TO B.C                                ।
-। 1. Sisunaya                      40      1995       1955  ।
-।  2.Kakavarna                     36      1955       1919  ।
-।    3.Kshemadharma                 26      1919       1893     ।
-।  4. Kshatranjasa                   40      1893       1853   ।
-। 5. Vidhisara                      38      1853       1815 ।
-। 6. Ajatasatru                     27       1815       1788 ।
-।      7. Darbhaka or Darsaka           35       1788       1753      ।
-।  8. Udayana                     33       1753       1720   ।
-।    9. Nandivardhana                42       1720       1678     ।
-।   10. Mahanandi                  43       167        1635   ।
-।                                              360                 ।
+|                                                                 |
+|-----------------------------------------------------------------|
+|                               138 |
 
 
 
 
 
-।                                                                                    ।
-।:----------------------------------------------------------------------------------:।
-।                               **IV. NANDA DYNASTY.**                               ।
-।                          Year   FORM B.C  TO B.C                           ।
-। 1. Maha Padma Nanda             88     1635       1547 ।
-।  2. Sumalya & his seven brothers.     12      1547       1535   ।
-।                                        100         ।
-
-
-
-।                                                                                              ।
-।:--------------------------------------------------------------------------------------------:।
-।                                    **V. MAURYA DYNASTY.**                                    ।
-।                               Year   FORM B.C  TO B.C                                ।
-।   1. Chandragupta                  34     1535       1501    ।
-।    2.Bindusara or Virisara            28     1501       1473     ।
-। 3. Asoka                        36      1473       1437 ।
-।     4. Sayasa or Suparsva             8      1437       1429     ।
-।       5 Dasaradha or Bandhupalita        8      1429       1421       ।
-। 6. Indrapalita                    70      1421       1351 ।
-।       7. Harsha or Harsha vardhana       8      1351       1343        ।
-। 8. Sangata                       9      1343       1334 ।
-। 9. Salisuka                      13      1334       1321  ।
-।          10.Somasarma or Deva- dharma    7      1321       1314          ।
-।   11. Satadhanva                  8      1314       1306    ।
-।    12. Brihadradha                 87      1306      1219     ।
-।                                             316                ।
-
-
-
-
-।                                                                                                ।
-।:----------------------------------------------------------------------------------------------:।
-।                                     **VI. SUNGA DYNASTY.**                                     ।
-।                                Year   FORM B.C  TO B.C                                 ।
-।   1. Pushyamitra                    60     1219       1159   ।
-। 2. Agnimitra                      50     1159       1109  ।
-।  3. Vasumitra                      36      1109       1073  ।
-। 4. Sujyesta                       17      1073       1056  ।
-।   5. Bhadraka                      30      1056      1026   ।
-। 6. Pulinda                        33      1026       993 ।
-।   7. Ghoshavasuvu                  3        993       990    ।
-। 8. Vajramitra                     29       990       961 ।
-।   9. Bhagavata                     32       961       929   ।
-।    10. Devabhuti                    10      929       919    ।
-।                                              300                ।
-
-
-
-
-।                                                                                                ।
-।:----------------------------------------------------------------------------------------------:।
-।                                    **VII. KANVA DYNASTY.**                                     ।
-।                                Year   FORM B.C  TO B.C                                 ।
-। 1. Vasudeva                     39       919        880  ।
-। 2.Bhumimitra                     24       880        856  ।
-। 3. Narayana                      12        856       844 ।
-। 4. Susarma                      10        844       834 ।
-।                                              85   ।
-
-
-
-।                                                                                                                                                                               ।
-।:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:।
-।                                                                         **VIII. THE ANDHRA DYNASTY.**                                                                         ।
-।                                                                        Year   FORM B.C  TO B.C                                                                        ।
-।                                              1. Simuka or SiprakaSimhaka or SriSatakarni 23     834        811                                               ।
-।                                          2.Krishna Satakarni              18        811        793                                           ।
-।                                          3. Sri Malla Satakarni             10        793        783                                           ।
-।                                          4. Purnotheanga                18        783         765                                          ।
-।                                        5. Sri Satakarni                  56       765         709                                         ।
-।                                           6. Skandha Stambhi             18       709         691                                            ।
-।                                         7.Lombodara                  18       691         673                                          ।
-।                                       8. Apitaka                      12       673         661                                        ।
-।                                         9. Meghaswati                  18       661         643                                          ।
-।                                        10. Sataswati                   18       643          625                                         ।
-।                                           11.Skandaswatikarna             7       625          618                                            ।
-।                                            12. Mrigendra Swati karna         3       618          615                                             ।
-।                                           13. Kuntala Swati Karni            8       615          607                                           ।
-।                                            14. Saumya Swati Karni          12       607          595                                             ।
-।                                         15. Sata Satakarni                1       595          594                                          ।
-।                                           16. Puloma Satakarni            36       594          558                                            ।
-।                                                17. Maghoswati or Megha Satakarni 38      558           520                                                 ।
-।                                          18. Arista Satokarni             25       520           495                                          ।
-।                                      19. Hala                        5       495          490                                       ।
-।                                         20. Mundalaka                  5       490           485                                         ।
-।                                          21. Purindrasena                21      485          464                                          ।
-।                                           22.Sundara Satakarni              1       464         463                                            ।
-।                                                               23. Chakora Satakarni            1/2                                                               ।
-।                                                               24. Mahendra Satakarni           1/2                                                                ।
-।                                          25. Siva Satakarni                28       462         434                                          ।
-।                                              26. Gautamiputra Sri Satakarani     25      434         409                                               ।
-।                                                27. Puluma or Vasisti- putra Sri Satakarni32    409         377                                                 ।
-।                                                   28. Siva Sri Satakarni Siva Sri Vasistiputra Satakarni  7  377  370                                                   ।
-।                                            29. Siva Skanda Satakarni ...         7      370         363                                             ।
-। 30. Yagnya Sri Satakarni or Gautamiputra Yagnya Sri Satakarni                                   19        363        344 ।
-।                                          31. Vijaya Sri Satakarni            6        344        338                                           ।
-।                                            32.Chandra Sri Satakarni           3        338        335                                            ।
-।                                        33. Pulomon                     7        335        328                                         ।
-।                                                                         5054 or 506 inround figures.                                                                         ।
+|                                                                                               |
+|:---------------------------------------------------------------------------------------------:|
+|                                  **III. SAISUNAGA DYNASTY.**                                  |
+|                                Year   FORM B.C  TO B.C                                |
+| 1. Sisunaya                      40      1995       1955  |
+|  2.Kakavarna                     36      1955       1919  |
+|    3.Kshemadharma                 26      1919       1893     |
+|  4. Kshatranjasa                   40      1893       1853   |
+| 5. Vidhisara                      38      1853       1815 |
+| 6. Ajatasatru                     27       1815       1788 |
+|      7. Darbhaka or Darsaka           35       1788       1753      |
+|  8. Udayana                     33       1753       1720   |
+|    9. Nandivardhana                42       1720       1678     |
+|   10. Mahanandi                  43       167        1635   |
+|                                              360                 |
 
 
 
 
 
-।                                                                                                ।
-।:----------------------------------------------------------------------------------------------:।
-।                                     **IX. GUPTA DYNASTY**                                      ।
-।                                Year   FORM B.C  TO B.C                                 ।
-।  1. Chandra Gupta I                 7       328         321   ।
-।   2. Samudra Gupta                 51      321         370    ।
-।   3. Chandra Gupta II                36      270         234   ।
-।   4. Kumara Gupta I                 42      234         192   ।
-।   5. Skanda Gupta                  25      192         167   ।
-। 6. Sthira Gupta                     5      167         162 ।
-।    7. Narasimha Gupta                35     162         127    ।
-।   8. Kumara Gupta II                 44     127          83   ।
-।                                              245               ।
+|                                                                                    |
+|:----------------------------------------------------------------------------------:|
+|                               **IV. NANDA DYNASTY.**                               |
+|                          Year   FORM B.C  TO B.C                           |
+| 1. Maha Padma Nanda             88     1635       1547 |
+|  2. Sumalya & his seven brothers.     12      1547       1535   |
+|                                        100         |
+
+
+
+|                                                                                              |
+|:--------------------------------------------------------------------------------------------:|
+|                                    **V. MAURYA DYNASTY.**                                    |
+|                               Year   FORM B.C  TO B.C                                |
+|   1. Chandragupta                  34     1535       1501    |
+|    2.Bindusara or Virisara            28     1501       1473     |
+| 3. Asoka                        36      1473       1437 |
+|     4. Sayasa or Suparsva             8      1437       1429     |
+|       5 Dasaradha or Bandhupalita        8      1429       1421       |
+| 6. Indrapalita                    70      1421       1351 |
+|       7. Harsha or Harsha vardhana       8      1351       1343        |
+| 8. Sangata                       9      1343       1334 |
+| 9. Salisuka                      13      1334       1321  |
+|          10.Somasarma or Deva- dharma    7      1321       1314          |
+|   11. Satadhanva                  8      1314       1306    |
+|    12. Brihadradha                 87      1306      1219     |
+|                                             316                |
+
+
+
+
+|                                                                                                |
+|:----------------------------------------------------------------------------------------------:|
+|                                     **VI. SUNGA DYNASTY.**                                     |
+|                                Year   FORM B.C  TO B.C                                 |
+|   1. Pushyamitra                    60     1219       1159   |
+| 2. Agnimitra                      50     1159       1109  |
+|  3. Vasumitra                      36      1109       1073  |
+| 4. Sujyesta                       17      1073       1056  |
+|   5. Bhadraka                      30      1056      1026   |
+| 6. Pulinda                        33      1026       993 |
+|   7. Ghoshavasuvu                  3        993       990    |
+| 8. Vajramitra                     29       990       961 |
+|   9. Bhagavata                     32       961       929   |
+|    10. Devabhuti                    10      929       919    |
+|                                              300                |
+
+
+
+
+|                                                                                                |
+|:----------------------------------------------------------------------------------------------:|
+|                                    **VII. KANVA DYNASTY.**                                     |
+|                                Year   FORM B.C  TO B.C                                 |
+| 1. Vasudeva                     39       919        880  |
+| 2.Bhumimitra                     24       880        856  |
+| 3. Narayana                      12        856       844 |
+| 4. Susarma                      10        844       834 |
+|                                              85   |
+
+
+
+|                                                                                                                                                                               |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                                         **VIII. THE ANDHRA DYNASTY.**                                                                         |
+|                                                                        Year   FORM B.C  TO B.C                                                                        |
+|                                              1. Simuka or SiprakaSimhaka or SriSatakarni 23     834        811                                               |
+|                                          2.Krishna Satakarni              18        811        793                                           |
+|                                          3. Sri Malla Satakarni             10        793        783                                           |
+|                                          4. Purnotheanga                18        783         765                                          |
+|                                        5. Sri Satakarni                  56       765         709                                         |
+|                                           6. Skandha Stambhi             18       709         691                                            |
+|                                         7.Lombodara                  18       691         673                                          |
+|                                       8. Apitaka                      12       673         661                                        |
+|                                         9. Meghaswati                  18       661         643                                          |
+|                                        10. Sataswati                   18       643          625                                         |
+|                                           11.Skandaswatikarna             7       625          618                                            |
+|                                            12. Mrigendra Swati karna         3       618          615                                             |
+|                                           13. Kuntala Swati Karni            8       615          607                                           |
+|                                            14. Saumya Swati Karni          12       607          595                                             |
+|                                         15. Sata Satakarni                1       595          594                                          |
+|                                           16. Puloma Satakarni            36       594          558                                            |
+|                                                17. Maghoswati or Megha Satakarni 38      558           520                                                 |
+|                                          18. Arista Satokarni             25       520           495                                          |
+|                                      19. Hala                        5       495          490                                       |
+|                                         20. Mundalaka                  5       490           485                                         |
+|                                          21. Purindrasena                21      485          464                                          |
+|                                           22.Sundara Satakarni              1       464         463                                            |
+|                                                               23. Chakora Satakarni            1/2                                                               |
+|                                                               24. Mahendra Satakarni           1/2                                                                |
+|                                          25. Siva Satakarni                28       462         434                                          |
+|                                              26. Gautamiputra Sri Satakarani     25      434         409                                               |
+|                                                27. Puluma or Vasisti- putra Sri Satakarni32    409         377                                                 |
+|                                                   28. Siva Sri Satakarni Siva Sri Vasistiputra Satakarni  7  377  370                                                   |
+|                                            29. Siva Skanda Satakarni ...         7      370         363                                             |
+| 30. Yagnya Sri Satakarni or Gautamiputra Yagnya Sri Satakarni                                   19        363        344 |
+|                                          31. Vijaya Sri Satakarni            6        344        338                                           |
+|                                            32.Chandra Sri Satakarni           3        338        335                                            |
+|                                        33. Pulomon                     7        335        328                                         |
+|                                                                         5054 or 506 inround figures.                                                                         |
+
+
+
+
+
+|                                                                                                |
+|:----------------------------------------------------------------------------------------------:|
+|                                     **IX. GUPTA DYNASTY**                                      |
+|                                Year   FORM B.C  TO B.C                                 |
+|  1. Chandra Gupta I                 7       328         321   |
+|   2. Samudra Gupta                 51      321         370    |
+|   3. Chandra Gupta II                36      270         234   |
+|   4. Kumara Gupta I                 42      234         192   |
+|   5. Skanda Gupta                  25      192         167   |
+| 6. Sthira Gupta                     5      167         162 |
+|    7. Narasimha Gupta                35     162         127    |
+|   8. Kumara Gupta II                 44     127          83   |
+|                                              245               |
 
 
 
@@ -1126,36 +1126,36 @@ Rasayana chikitsa (treatment for the cure and prevention of senile decay)
 
 ## Measures of Weight.
 
-।                                                                                                                                                                                                                                                      ।
-।------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। 6 anus (molecules)       make      one       triti                                                                                                                                                                             ।
-। 6tritis                   "          "       liksha                                                                                                                                                            ।
-। 6 likshas                 "         "       juka                                                                                                                                                                 ।
-। 6 jukas                   "         "       raja                                                                                                                                                                ।
-। 6 rajas                   "         "       sarshapa (mustard seed)                                                                                                                                             ।
-। 6 sarshapas              "         "       java (barley seed)                                                                                                                                                       ।
-। 6 javas                  "         "       gunja                                                                                                                                                                ।
-। 2 gunjas                 "         "       nispava                                                                                                                                                                ।
-। 3 gunjas                 "         "       balla                                                                                                                                                                  ।
-। 2 ballas                 "         "   masha hemaka, dhanyaka (rice)                                                                                                                                                  ।
-। 2 mashas                "         "       dharana                                                                                                                                                                  ।
-। 2 dharanas              "         "       miska, shana, kala or tanka                                                                                                                                                ।
-। 2 niskas                 "         "        kola, bataka, or gadyana, khndraka, dharkhana                                                                                                                         ।
-। 2 kola                 "         "       ola or karsha. (Synonyms of karsha are ; adambara, panitala, subarna kabalagraha, aksha, bidalapadaka, sorashika, karamodhaya, hangsapada pichu, kinchitpani tindukam.) ।
-। 2 karsha                 "         "       sukti 1⁄2 pala, astamika                                                                                                                                               ।
-। 2 suktis or 4 tolas          "         "       pala, musti prakuncha, villa, amra chathurthika, sorashi                                                                                                                  ।
-। 2 palas                  "         "       prasrita                                                                                                                                                              ।
-। 2 prasrita                "         "       kudaba or anjali astama'na                                                                                                                                              ।
-। 2 kudabas               "         "       manika                                                                                                                                                                     ।
-। 2 manikas              "         "       prastha (64 tolas or one seer)                                                                                                                                              ।
-। 2 prastha                 "         "       shubha                                                                                                                                                                ।
-। 2 shubas                 "         "       adhaka or patra, bhajana, kangsha patra, 64 palas or 256 tolas.                                                                                                        ।
-। 4 adhakas                 "         "       drono, ghata, unmana. rashi, lavana, armana or kumbha                                                                                                                 ।
-। 100 palas                  "         "       tula                                                                                                                                                                ।
-। 2000 palas                 "         "       bhara                                                                                                                                                                ।
-। 2 dronas                   "         "       surpa                                                                                                                                                              ।
-। 2 surpas                   "         "       droni, bahi, or goni                                                                                                                                               ।
-। 4 dronis or gonis             "         "       khari                                                                                                                                                                  ।
+|                                                                                                                                                                                                                                                      |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 6 anus (molecules)       make      one       triti                                                                                                                                                                             |
+| 6tritis                   "          "       liksha                                                                                                                                                            |
+| 6 likshas                 "         "       juka                                                                                                                                                                 |
+| 6 jukas                   "         "       raja                                                                                                                                                                |
+| 6 rajas                   "         "       sarshapa (mustard seed)                                                                                                                                             |
+| 6 sarshapas              "         "       java (barley seed)                                                                                                                                                       |
+| 6 javas                  "         "       gunja                                                                                                                                                                |
+| 2 gunjas                 "         "       nispava                                                                                                                                                                |
+| 3 gunjas                 "         "       balla                                                                                                                                                                  |
+| 2 ballas                 "         "   masha hemaka, dhanyaka (rice)                                                                                                                                                  |
+| 2 mashas                "         "       dharana                                                                                                                                                                  |
+| 2 dharanas              "         "       miska, shana, kala or tanka                                                                                                                                                |
+| 2 niskas                 "         "        kola, bataka, or gadyana, khndraka, dharkhana                                                                                                                         |
+| 2 kola                 "         "       ola or karsha. (Synonyms of karsha are ; adambara, panitala, subarna kabalagraha, aksha, bidalapadaka, sorashika, karamodhaya, hangsapada pichu, kinchitpani tindukam.) |
+| 2 karsha                 "         "       sukti 1⁄2 pala, astamika                                                                                                                                               |
+| 2 suktis or 4 tolas          "         "       pala, musti prakuncha, villa, amra chathurthika, sorashi                                                                                                                  |
+| 2 palas                  "         "       prasrita                                                                                                                                                              |
+| 2 prasrita                "         "       kudaba or anjali astama'na                                                                                                                                              |
+| 2 kudabas               "         "       manika                                                                                                                                                                     |
+| 2 manikas              "         "       prastha (64 tolas or one seer)                                                                                                                                              |
+| 2 prastha                 "         "       shubha                                                                                                                                                                |
+| 2 shubas                 "         "       adhaka or patra, bhajana, kangsha patra, 64 palas or 256 tolas.                                                                                                        |
+| 4 adhakas                 "         "       drono, ghata, unmana. rashi, lavana, armana or kumbha                                                                                                                 |
+| 100 palas                  "         "       tula                                                                                                                                                                |
+| 2000 palas                 "         "       bhara                                                                                                                                                                |
+| 2 dronas                   "         "       surpa                                                                                                                                                              |
+| 2 surpas                   "         "       droni, bahi, or goni                                                                                                                                               |
+| 4 dronis or gonis             "         "       khari                                                                                                                                                                  |
 
 
 
@@ -5481,425 +5481,425 @@ Diet and deeds injurious in rheumatism.
 
 A
 
-।                                                                                                        ।
-।-------------------------------------------------------------------------------------------------------:।
-।                                                                                                  Page. ।
-। Agni rasa                                             81 ।
-।     Agni-bila'sa rasa                                       263 ।
-।      Agni-kutha'r rasa                                     190 ।
-।        Agnimukha rasa                                       145 ।
-।         Agni prabha'va rasa                                    154 ।
-।      Agni-tunda rasa                                       204 ।
-।         Aksa Manduram                                       215 ।
-।       Aksha'di lanham                                       165 ।
-।     A'maba'ta'ri rasa                                       320 ।
-।           A'maba'teshwara rasa                                  321 ।
-।        Amlapitta'ntaka rasa                                    124 ।
-।            Amogha'dya lauham                                   258 ।
-।      Amrtia'kara rasa                                       66 ।
-।         Amrita'mbudhi rasa                                    267 ।
-।         Anandodaya rasa                                      227 ।
-।  Anila'ri rasa.                                          324 ।
-।         Aparnaranjana rasa                                    325 ।
-।     Arjuna'bhram                                         112 ।
-।         Arkeshwara rasa                                       8 ।
-।          Arogya Saʼgara rasa                                   231 ।
-।            Asta'dasha'nga lauham                                219 ।
-।     Aurba'gni rasa                                        261 ।
-।      Aurba'nala rasa                                       261 ।
-।    A'yasa'di rasa                                          5 ।
+|                                                                                                        |
+|-------------------------------------------------------------------------------------------------------:|
+|                                                                                                  Page. |
+| Agni rasa                                             81 |
+|     Agni-bila'sa rasa                                       263 |
+|      Agni-kutha'r rasa                                     190 |
+|        Agnimukha rasa                                       145 |
+|         Agni prabha'va rasa                                    154 |
+|      Agni-tunda rasa                                       204 |
+|         Aksa Manduram                                       215 |
+|       Aksha'di lanham                                       165 |
+|     A'maba'ta'ri rasa                                       320 |
+|           A'maba'teshwara rasa                                  321 |
+|        Amlapitta'ntaka rasa                                    124 |
+|            Amogha'dya lauham                                   258 |
+|      Amrtia'kara rasa                                       66 |
+|         Amrita'mbudhi rasa                                    267 |
+|         Anandodaya rasa                                      227 |
+|  Anila'ri rasa.                                          324 |
+|         Aparnaranjana rasa                                    325 |
+|     Arjuna'bhram                                         112 |
+|         Arkeshwara rasa                                       8 |
+|          Arogya Saʼgara rasa                                   231 |
+|            Asta'dasha'nga lauham                                219 |
+|     Aurba'gni rasa                                        261 |
+|      Aurba'nala rasa                                       261 |
+|    A'yasa'di rasa                                          5 |
 
 
 
 B
 
-।                                                                                                      ।
-।-----------------------------------------------------------------------------------------------------:।
-।                                                                                                 Page ।
-।       Babnimukha rasa                                      149 ।
-।      Baishwa'nara rasa                                     189 ।
-।         Baishwa'nara lauham                                 168 ।
-।      Bajra manduram                                      220 ।
-। Bajra rasa                                          5C ।
-।   Bala'di lauham                                         215 ।
-।       Ba'madeve rasa                                       36 ।
-।       Bamana'mrita rasa                                     247 ।
-।       Ba'neshwara rasa                                      327 ।
-।       Bangadhara rasa                                      18€ ।
-।     Ba'rayanna rasa                                       130 ।
-।        Ba'sakendra rasa                                     5 ।
-।           Ba'ta-biddhansana rasa                                 77 ।
-।    Bha'gottara rasa                                      328 ।
-।   Bhairava rasa                                        322 ।
-।      Bha'radwa'ja rasa                                     69 ।
-।      Basanta tilaka rasa                                    106 ।
-।           Ba'tagajendra Sinha rasa                               234 ।
-।            Bhubaneshwara parpati                                54 ।
-।             Bhubanamohana rasa                                 25 ।
-।          Bhubanasundars rasa                                  222 ।
-।       Bhuta-bhairava rasa                                   290 ।
-।         Bhuta'nkusha rasa                                  80,312 ।
-।     Bidya'dhara rasa                                     184 ।
-।        Bidya'dhara'bhra rasa                                  174 ।
-।       Bijaya bhairava rasa                                  72 ।
-।      Bijaya'dya lauham                                    260 ।
-।     Biranga laubam                                      202 ।
-।      Biranga'di lauham                                    218 ।
-।    Birendra rasa                                       89 ।
-।   Birupa'ksa rasa                                       115 ।
-।       Bishwadhara rasa                                    114 ।
-।       Bolabaddha rasa                                      80 ।
-।                       Brabma'nda Sundara rasa & Sunetra rasa                  232 ।
-।      Bra'hmi parpati rasa                                    298 ।
-।           Briddha-da'ra'dya lauham                                325 ।
-।         Brihat sringa'ra'bhra rasa                               72 ।
-।      Brishadhwaja rasa                                    247 ।
-।            Byadhi baʼrana keshari rasa                             27 ।
-।     Byosa'di lauham                                      214 ।
+|                                                                                                      |
+|-----------------------------------------------------------------------------------------------------:|
+|                                                                                                 Page |
+|       Babnimukha rasa                                      149 |
+|      Baishwa'nara rasa                                     189 |
+|         Baishwa'nara lauham                                 168 |
+|      Bajra manduram                                      220 |
+| Bajra rasa                                          5C |
+|   Bala'di lauham                                         215 |
+|       Ba'madeve rasa                                       36 |
+|       Bamana'mrita rasa                                     247 |
+|       Ba'neshwara rasa                                      327 |
+|       Bangadhara rasa                                      18€ |
+|     Ba'rayanna rasa                                       130 |
+|        Ba'sakendra rasa                                     5 |
+|           Ba'ta-biddhansana rasa                                 77 |
+|    Bha'gottara rasa                                      328 |
+|   Bhairava rasa                                        322 |
+|      Bha'radwa'ja rasa                                     69 |
+|      Basanta tilaka rasa                                    106 |
+|           Ba'tagajendra Sinha rasa                               234 |
+|            Bhubaneshwara parpati                                54 |
+|             Bhubanamohana rasa                                 25 |
+|          Bhubanasundars rasa                                  222 |
+|       Bhuta-bhairava rasa                                   290 |
+|         Bhuta'nkusha rasa                                  80,312 |
+|     Bidya'dhara rasa                                     184 |
+|        Bidya'dhara'bhra rasa                                  174 |
+|       Bijaya bhairava rasa                                  72 |
+|      Bijaya'dya lauham                                    260 |
+|     Biranga laubam                                      202 |
+|      Biranga'di lauham                                    218 |
+|    Birendra rasa                                       89 |
+|   Birupa'ksa rasa                                       115 |
+|       Bishwadhara rasa                                    114 |
+|       Bolabaddha rasa                                      80 |
+|                       Brabma'nda Sundara rasa & Sunetra rasa                  232 |
+|      Bra'hmi parpati rasa                                    298 |
+|           Briddha-da'ra'dya lauham                                325 |
+|         Brihat sringa'ra'bhra rasa                               72 |
+|      Brishadhwaja rasa                                    247 |
+|            Byadhi baʼrana keshari rasa                             27 |
+|     Byosa'di lauham                                      214 |
 
 
 c
 
-।                                                                                                  ।
-।-------------------------------------------------------------------------------------------------:।
-।                                                                                             Page ।
-।   Chanchala'di lauham                                    89 ।
-। Chandrakala'-rasa                                      7 ।
-।      Chandra na'th modaka                                 319 ।
-। Chandra'mrita rasa                                     63 ।
-।        Chaudra-surya't maka rasa                               224 ।
-। Chardihare rasa                                       248 ।
-। Chaturbhuja rasa                                      300 ।
-।      Chatus-sama lauham                                  169 ।
-।          Chatus-sama-manduram                               162 ।
-।  Chatustaya rasa                                     78 ।
-।   Chinta'-hara rasa                                  113,188 ।
+|                                                                                                  |
+|-------------------------------------------------------------------------------------------------:|
+|                                                                                             Page |
+|   Chanchala'di lauham                                    89 |
+| Chandrakala'-rasa                                      7 |
+|      Chandra na'th modaka                                 319 |
+| Chandra'mrita rasa                                     63 |
+|        Chaudra-surya't maka rasa                               224 |
+| Chardihare rasa                                       248 |
+| Chaturbhuja rasa                                      300 |
+|      Chatus-sama lauham                                  169 |
+|          Chatus-sama-manduram                               162 |
+|  Chatustaya rasa                                     78 |
+|   Chinta'-hara rasa                                  113,188 |
 
 
 
 D
 
-।                                                                                                    ।
-।---------------------------------------------------------------------------------------------------:।
-।                                                                                               Page ।
-।   Da'ha'ntaka rasa                                    273 ।
-।         Da'mara'nanda'bhram                                  73 ।
-।    Da'rbya'di lanham                                    219 ।
-।    Deva'dideva rasa                                     229 ।
-। Dha'tri lauham                                       136 ।
-।    Dha'tryadi lauham                                    166 ।
-।  Dipta'mara rasa                                       187 ।
+|                                                                                                    |
+|---------------------------------------------------------------------------------------------------:|
+|                                                                                               Page |
+|   Da'ha'ntaka rasa                                    273 |
+|         Da'mara'nanda'bhram                                  73 |
+|    Da'rbya'di lanham                                    219 |
+|    Deva'dideva rasa                                     229 |
+| Dha'tri lauham                                       136 |
+|    Dha'tryadi lauham                                    166 |
+|  Dipta'mara rasa                                       187 |
 
 
 G
 
-।                                                                                                 ।
-।------------------------------------------------------------------------------------------------:।
-।                                                                                            Page ।
-।  Gangasurya'di rasa                                    148 ।
-। Galma bajra rasa                                      180 ।
-।  Golma-ka'la'nala rasa                                   181 ।
-।    Gulmana'shana rasa                                   192 ।
-।   Gulma-niba'rana rasa                                  181 ।
-।    Gulma-nisudana rasa                                  182 ।
-।   Gulma shaʼrdula rasa                                  183 ।
+|                                                                                                 |
+|------------------------------------------------------------------------------------------------:|
+|                                                                                            Page |
+|  Gangasurya'di rasa                                    148 |
+| Galma bajra rasa                                      180 |
+|  Golma-ka'la'nala rasa                                   181 |
+|    Gulmana'shana rasa                                   192 |
+|   Gulma-niba'rana rasa                                  181 |
+|    Gulma-nisudana rasa                                  182 |
+|   Gulma shaʼrdula rasa                                  183 |
 
-।                                                                                               ।
-।-----------------------------------------------------------------------------------------------।
-। Gura mandaram                                      158 ।
+|                                                                                               |
+|-----------------------------------------------------------------------------------------------|
+| Gura mandaram                                      158 |
 
 
 
 H
 
-।                                                                                                ।
-।-----------------------------------------------------------------------------------------------:।
-।                                                                                           Page ।
-।   Hansa-manduram                                     214 ।
-।   Hemagarbha pottali rasa                                 39 ।
-।    Hema-monohara rasa                                   41 ।
-। Hicca-na'shana rasa                                    96 ।
-। Hridaya'rnava rasa                                    114 ।
+|                                                                                                |
+|-----------------------------------------------------------------------------------------------:|
+|                                                                                           Page |
+|   Hansa-manduram                                     214 |
+|   Hemagarbha pottali rasa                                 39 |
+|    Hema-monohara rasa                                   41 |
+| Hicca-na'shana rasa                                    96 |
+| Hridaya'rnava rasa                                    114 |
 
 
 
 I
 
-।                                                                                               ।
-।----------------------------------------------------------------------------------------------:।
-।                                                                                          Page ।
-। Indra-brahma rasa                                    299 ।
+|                                                                                               |
+|----------------------------------------------------------------------------------------------:|
+|                                                                                          Page |
+| Indra-brahma rasa                                    299 |
 
 
 
 J
 
-।                                                                                                       ।
-।------------------------------------------------------------------------------------------------------:।
-।                                                                                                  Page ।
-।          Jaksmaʼntaka lauham                                   23 ।
-।      Jaksmaʼri lauham                                       22 ।
-।     Jalada lauham                                        215 ।
-।     Jambuka rasa                                         145 ।
-।     Jata'yu lauham                                        259 ।
-।    Jayapa'la rasa                                        234 ।
-। Joga-ra'ja ...                                          216 ।
+|                                                                                                       |
+|------------------------------------------------------------------------------------------------------:|
+|                                                                                                  Page |
+|          Jaksmaʼntaka lauham                                   23 |
+|      Jaksmaʼri lauham                                       22 |
+|     Jalada lauham                                        215 |
+|     Jambuka rasa                                         145 |
+|     Jata'yu lauham                                        259 |
+|    Jayapa'la rasa                                        234 |
+| Joga-ra'ja ...                                          216 |
 
 
 
 K
 
-।                                                                                                       ।
-।------------------------------------------------------------------------------------------------------:।
-।                                                                                                  Page ।
-।            Ka'la-biddhanshana rasa                                227 ।
-।   Ka'lapriya rasa                                         67 ।
-।          Kalya'na-sundara'bram                                  35 ।
-।         Kalya'na-sundara rasa                                  113 ।
-।   Ka'mala'ri rasa                                        236 ।
-।         Ka'meshwara rasa                                     237 ।
-।  Kana' rasa                                           287 ।
-।    Kanaka'di rasa                                        311 ।
-।          Kanakashekhara rasa                                   24 ।
-।     Ka'nchana'di rasa                                       33 ।
-।          Ka'nchaneshwara rasa                                   34 ।
-।    Ka'nsya'di rasa                                        238 ।
-।     Kapardaka rasa                                       10 ।
-।      Ka'saka'la'nala rasa                                     62 ।
-।     Ka'sa kutha'r rasa                                      64 ।
-।     Ka'santaka rasa                                        64 ।
-।            Ka'sasanha'ra bhairava rasa                              65 ।
-।        Keetamarda rasa                                      202 ।
-।      Keeta-shula'ri rasa                                     205 ।
-।             Khandaka'dyam lauham                                 13 ।
-।        Kola'di manduram                                     157 ।
-।       Krimi-bina'sha rasa                                    201 ।
-।        Krimibigha'tana rasa                                   203 ।
-।    Krimibara rasa                                        201 ।
-।      Krimika'la'nala rasa                                    200 ।
-।        Krimimudgara rasa                                    200 ।
-।      Krimipa'tana rasa                                      207 ।
-।    Krimiroga'ri rasa                                       202 ।
-।            Krimi-shula-na'shana rasa                              206 ।
-।     Krimishula'ri rasa                                      204 ।
-।      Krishna lauham                                       261 ।
-।       Ksapa'di lauham                                      218 ।
-। Ksa'ra bati                                           156 ।
-।     Ksa'ra ta'mram                                        156 ।
-।       Ksayakeshari rasa                                     26 ।
-।          Kseera manduram                                     158 ।
-।      Ksha'ra suryam                                       152 ।
-।         Kebemendra rasa                                      45 ।
-।       Kehudha'bati batika'                                    131 ।
-।        Kshudha'nidhi rasa                                    129 ।
-।              Kshudha' prabodhana rasa                              126 ।
-।           Kumudeshwara rasa                                   252 ।
-।             Kasma'adha khandam                                 124 ।
+|                                                                                                       |
+|------------------------------------------------------------------------------------------------------:|
+|                                                                                                  Page |
+|            Ka'la-biddhanshana rasa                                227 |
+|   Ka'lapriya rasa                                         67 |
+|          Kalya'na-sundara'bram                                  35 |
+|         Kalya'na-sundara rasa                                  113 |
+|   Ka'mala'ri rasa                                        236 |
+|         Ka'meshwara rasa                                     237 |
+|  Kana' rasa                                           287 |
+|    Kanaka'di rasa                                        311 |
+|          Kanakashekhara rasa                                   24 |
+|     Ka'nchana'di rasa                                       33 |
+|          Ka'nchaneshwara rasa                                   34 |
+|    Ka'nsya'di rasa                                        238 |
+|     Kapardaka rasa                                       10 |
+|      Ka'saka'la'nala rasa                                     62 |
+|     Ka'sa kutha'r rasa                                      64 |
+|     Ka'santaka rasa                                        64 |
+|            Ka'sasanha'ra bhairava rasa                              65 |
+|        Keetamarda rasa                                      202 |
+|      Keeta-shula'ri rasa                                     205 |
+|             Khandaka'dyam lauham                                 13 |
+|        Kola'di manduram                                     157 |
+|       Krimi-bina'sha rasa                                    201 |
+|        Krimibigha'tana rasa                                   203 |
+|    Krimibara rasa                                        201 |
+|      Krimika'la'nala rasa                                    200 |
+|        Krimimudgara rasa                                    200 |
+|      Krimipa'tana rasa                                      207 |
+|    Krimiroga'ri rasa                                       202 |
+|            Krimi-shula-na'shana rasa                              206 |
+|     Krimishula'ri rasa                                      204 |
+|      Krishna lauham                                       261 |
+|       Ksapa'di lauham                                      218 |
+| Ksa'ra bati                                           156 |
+|     Ksa'ra ta'mram                                        156 |
+|       Ksayakeshari rasa                                     26 |
+|          Kseera manduram                                     158 |
+|      Ksha'ra suryam                                       152 |
+|         Kebemendra rasa                                      45 |
+|       Kehudha'bati batika'                                    131 |
+|        Kshudha'nidhi rasa                                    129 |
+|              Kshudha' prabodhana rasa                              126 |
+|           Kumudeshwara rasa                                   252 |
+|             Kasma'adha khandam                                 124 |
 
 L
 
-।                                                                                                     ।
-।----------------------------------------------------------------------------------------------------:।
-।                                                                                                Page ।
-।       Lakshmi binoda rasa                                    74 ।
-।     Lauha-bhasma                                       213 ।
-।   Lauha'mritam                                         164 ।
-। Lauhagura                                          157 ।
-।      Lavanga'di lauham                                     76 ।
-।   Leela'bila'sha rasa                                     128 ।
-।       Leela'pramoda rasa                                    128 ।
-। Lokapa'la rasa                                        49 ।
-।     Lokeshwara rasa                                      46 ।
-।       Lokeshwara pottali rasa                                  37 ।
+|                                                                                                     |
+|----------------------------------------------------------------------------------------------------:|
+|                                                                                                Page |
+|       Lakshmi binoda rasa                                    74 |
+|     Lauha-bhasma                                       213 |
+|   Lauha'mritam                                         164 |
+| Lauhagura                                          157 |
+|      Lavanga'di lauham                                     76 |
+|   Leela'bila'sha rasa                                     128 |
+|       Leela'pramoda rasa                                    128 |
+| Lokapa'la rasa                                        49 |
+|     Lokeshwara rasa                                      46 |
+|       Lokeshwara pottali rasa                                  37 |
 
 
 
 M
 
-।                                                                                                     ।
-।----------------------------------------------------------------------------------------------------:।
-।                                                                                                Page ।
-।   Maha'bbra rasa                                        32 ।
-।    Maha'bira pottali rasa                                    52 ।
-।       Maha'ka'leshwara rasa                                  67 ।
-।      Maha'kalya'na rasa                                    279 ।
-।      Maha'mriga'nka rasa                                    30 ।
-।         Maha'mrita rasa'yanam                                 185 ।
-।      Maha'pitta'ntaka rasa                                  137 ।
-।    Maba'rudra rasa                                       301 ।
-।      Maba'sa'gara rasa                                     252 ।
-।          Maha'sh wa'sa-kutha'ra rasa                              91 ।
-।    Mahesha rasa                                        150 ।
-।    Mandara gura                                        159 ।
-।      Mandura-lanham                                      167 ।
-।        Mantha'na bhairava rasa                                97 ।
-।        Meeua-dhwaja rasa                                    251 ।
-।         Moorcha'ntaka rasa                                251286 ।
-।         Mrigana'bhya'di-abaleha                               106 ।
-। Mriga'nka rasa                                         28 ।
-।     Mriga'nka pottali rasa                                  43 ।
-।     Mustadi lauham                                       237 ।
+|                                                                                                     |
+|----------------------------------------------------------------------------------------------------:|
+|                                                                                                Page |
+|   Maha'bbra rasa                                        32 |
+|    Maha'bira pottali rasa                                    52 |
+|       Maha'ka'leshwara rasa                                  67 |
+|      Maha'kalya'na rasa                                    279 |
+|      Maha'mriga'nka rasa                                    30 |
+|         Maha'mrita rasa'yanam                                 185 |
+|      Maha'pitta'ntaka rasa                                  137 |
+|    Maba'rudra rasa                                       301 |
+|      Maba'sa'gara rasa                                     252 |
+|          Maha'sh wa'sa-kutha'ra rasa                              91 |
+|    Mahesha rasa                                        150 |
+|    Mandara gura                                        159 |
+|      Mandura-lanham                                      167 |
+|        Mantha'na bhairava rasa                                97 |
+|        Meeua-dhwaja rasa                                    251 |
+|         Moorcha'ntaka rasa                                251286 |
+|         Mrigana'bhya'di-abaleha                               106 |
+| Mriga'nka rasa                                         28 |
+|     Mriga'nka pottali rasa                                  43 |
+|     Mustadi lauham                                       237 |
 
 N
 
-।                                                                                                        ।
-।-------------------------------------------------------------------------------------------------------:।
-।                                                                                                   Page ।
-।           Naba'yasa churnam                                   216 ।
-।         Na'geshwara rasa                                     183 ।
-।      No'kuli parpati rasa                                     311 ।
-।           Na'ra'yani manduram                                  161 ।
-।     Nilakantha rasa                                        95 ।
-। Nirjara rasa                                            75 ।
-।      Nisha' lauham                                        217 ।
-।       Nistraigunya rasa                                      313 ।
+|                                                                                                        |
+|-------------------------------------------------------------------------------------------------------:|
+|                                                                                                   Page |
+|           Naba'yasa churnam                                   216 |
+|         Na'geshwara rasa                                     183 |
+|      No'kuli parpati rasa                                     311 |
+|           Na'ra'yani manduram                                  161 |
+|     Nilakantha rasa                                        95 |
+| Nirjara rasa                                            75 |
+|      Nisha' lauham                                        217 |
+|       Nistraigunya rasa                                      313 |
 
 P
 
-।                                                                                                      ।
-।-----------------------------------------------------------------------------------------------------:।
-।                                                                                                 Page ।
-।       Panchabaktra rasa                                     100 ।
-।       Pancha'dana rasa                                     127 ।
-।                Pancha'mrita-lauha-manduram                           221 ।
-।       Panchasudha' rasa                                     44 ।
-।           Pa'nda pancha'nana rasa                               226 ।
-।         Pa'nda shosana rasa                                   232 ।
-।        Pa'ndu sudana rasa                                    225 ।
-।       Pa'niya bhactra rasa                                   170 ।
-। Parpati rasa                                           99 ।
-। Pa'rtha rasa                                          112 ।
-।     Pa'shupata rasa                                       68 ।
-।      Phalatrika'di lauham                                    324 ।
-।  Pista-ta'ra rasa                                        78 ।
-।     Pittaghnaka rasa                                      136 ।
-।      Pittaka'sa'ntaka rasa                                    66 ।
-।   Pitta'ntaka rasa                                       137 ।
-।          Pittapa'ndu na'shana rasa                               232 ।
-।    Prabha'kara bati                                       115 ।
-।     Pralaya'nala rasa                                      153 ।
-।     Praʼnadhara rasa                                      191 ।
-।    Pra'nana'tha rasa                                       47 ।
-।     Pra'na ranjan rasa                                     184 ।
-।       Pra'natoshana rasa                                    225 ।
-।            Punarnava'di manduram                                220 ।
-।     Parandara rasa                                       62 ।
-।        Purnachandra rasa                                    268 ।
+|                                                                                                      |
+|-----------------------------------------------------------------------------------------------------:|
+|                                                                                                 Page |
+|       Panchabaktra rasa                                     100 |
+|       Pancha'dana rasa                                     127 |
+|                Pancha'mrita-lauha-manduram                           221 |
+|       Panchasudha' rasa                                     44 |
+|           Pa'nda pancha'nana rasa                               226 |
+|         Pa'nda shosana rasa                                   232 |
+|        Pa'ndu sudana rasa                                    225 |
+|       Pa'niya bhactra rasa                                   170 |
+| Parpati rasa                                           99 |
+| Pa'rtha rasa                                          112 |
+|     Pa'shupata rasa                                       68 |
+|      Phalatrika'di lauham                                    324 |
+|  Pista-ta'ra rasa                                        78 |
+|     Pittaghnaka rasa                                      136 |
+|      Pittaka'sa'ntaka rasa                                    66 |
+|   Pitta'ntaka rasa                                       137 |
+|          Pittapa'ndu na'shana rasa                               232 |
+|    Prabha'kara bati                                       115 |
+|     Pralaya'nala rasa                                      153 |
+|     Praʼnadhara rasa                                      191 |
+|    Pra'nana'tha rasa                                       47 |
+|     Pra'na ranjan rasa                                     184 |
+|       Pra'natoshana rasa                                    225 |
+|            Punarnava'di manduram                                220 |
+|     Parandara rasa                                       62 |
+|        Purnachandra rasa                                    268 |
 
 R
 
-।                                                                                                    ।
-।---------------------------------------------------------------------------------------------------:।
-।                                                                                               Page ।
-।     Racta-pitta'nkusha-rasa                                  5 ।
-।   Racta-pitta'ntaka rasa                                   8 ।
-। Ra'ja'barta rasa                                       280 ।
-।   Ra'jabhadra rasa                                      206 ।
-।   Ra'jamriga'aka rasa                                     31 ।
-।      Rasa manduram                                      163 ।
-। Rasa'mrita-rasa                                         9 ।
-।     Ratnagarbhr pottali rasa                                  39 ।
-।      Ratnakarandaka rasa                                    79 ।
+|                                                                                                    |
+|---------------------------------------------------------------------------------------------------:|
+|                                                                                               Page |
+|     Racta-pitta'nkusha-rasa                                  5 |
+|   Racta-pitta'ntaka rasa                                   8 |
+| Ra'ja'barta rasa                                       280 |
+|   Ra'jabhadra rasa                                      206 |
+|   Ra'jamriga'aka rasa                                     31 |
+|      Rasa manduram                                      163 |
+| Rasa'mrita-rasa                                         9 |
+|     Ratnagarbhr pottali rasa                                  39 |
+|      Ratnakarandaka rasa                                    79 |
 
 
 
 S
 
-।                                                                                                     ।
-।----------------------------------------------------------------------------------------------------:।
-।                                                                                                Page ।
-।          Sama-Sharkara-lanham                                 11 ।
-।      Sapta'mrita lauham                                    165 ।
-।  Sapta'mrita rase                                        95 ।
-।        Sarkara'dyam lauham                                   11 ।
-।      Saʼrvabbauma rasa                                     71 ।
-।          Sarva'may ahara lauham                                 23 ।
-।        Sarva'ngasundara rasa                                  40 ।
-।          Sarvatabhadra-lanha rasa                               125 ।
-।     Shaba'sana rasa                                      225 ।
-।   Shankara rasa                                        116 ।
-।       Shankha'dhisha rasa                                    42 ।
-।         Shankha-puspya'di rasa                                298 ।
-।       Sharbeshwara rasa                                    314 ।
-।     Sharkara'-laubam                                      168 ।
-।        Shata'bari manduram                                   160 ।
-।         Shatabirya' manduram                                 161 ।
-।        Shatamulya'di lauham                                  12 ।
-।   Shiba'di lauhäm                                       214 ।
-।     Shikhiba'raba rasa                                     186 ।
-।     Shila'jatwa'di-lauham                                    23 ।
-। Shila'puta rasa                                         97 ।
-।   Shosa'nala rasa                                        28 ।
-।    Shringara'bhra rasa                                     70 ।
-।   Shula bajra-rasa                                       172 ।
-।       Shulagaja keshari rasa                                  151 ।
-।       Shula-kari-keshari rasa                                 171 ।
-।     Shula-keshari rasa                                     147 ।
-।       Shulanisudana rasa                                    173 ।
-।    Shula'ntaka rasa                                      148 ।
-।     Shulara'ja lauham                                     170 ।
-।        Shul-sanjamana rasa                                   175 ।
-।       Shwa'sa-bhairasa rasa                                  92 ।
-।         Shwa'sa-chintamani rasa                                 93 ।
-।     Shwa'sahara rasa                                      94 ।
-।           Shwa'sa-ka'sa-kari-kesari rasa                            96 ।
-।      Shwa'sa-kutha'ra rasa                                   91 ।
-।     Shwa'sa'ntaka rasa                                    93 ।
-।    Shwa'sa'ri lauham                                      90 ।
-।        Sindura bhusana rasa                                  235 ।
+|                                                                                                     |
+|----------------------------------------------------------------------------------------------------:|
+|                                                                                                Page |
+|          Sama-Sharkara-lanham                                 11 |
+|      Sapta'mrita lauham                                    165 |
+|  Sapta'mrita rase                                        95 |
+|        Sarkara'dyam lauham                                   11 |
+|      Saʼrvabbauma rasa                                     71 |
+|          Sarva'may ahara lauham                                 23 |
+|        Sarva'ngasundara rasa                                  40 |
+|          Sarvatabhadra-lanha rasa                               125 |
+|     Shaba'sana rasa                                      225 |
+|   Shankara rasa                                        116 |
+|       Shankha'dhisha rasa                                    42 |
+|         Shankha-puspya'di rasa                                298 |
+|       Sharbeshwara rasa                                    314 |
+|     Sharkara'-laubam                                      168 |
+|        Shata'bari manduram                                   160 |
+|         Shatabirya' manduram                                 161 |
+|        Shatamulya'di lauham                                  12 |
+|   Shiba'di lauhäm                                       214 |
+|     Shikhiba'raba rasa                                     186 |
+|     Shila'jatwa'di-lauham                                    23 |
+| Shila'puta rasa                                         97 |
+|   Shosa'nala rasa                                        28 |
+|    Shringara'bhra rasa                                     70 |
+|   Shula bajra-rasa                                       172 |
+|       Shulagaja keshari rasa                                  151 |
+|       Shula-kari-keshari rasa                                 171 |
+|     Shula-keshari rasa                                     147 |
+|       Shulanisudana rasa                                    173 |
+|    Shula'ntaka rasa                                      148 |
+|     Shulara'ja lauham                                     170 |
+|        Shul-sanjamana rasa                                   175 |
+|       Shwa'sa-bhairasa rasa                                  92 |
+|         Shwa'sa-chintamani rasa                                 93 |
+|     Shwa'sahara rasa                                      94 |
+|           Shwa'sa-ka'sa-kari-kesari rasa                            96 |
+|      Shwa'sa-kutha'ra rasa                                   91 |
+|     Shwa'sa'ntaka rasa                                    93 |
+|    Shwa'sa'ri lauham                                      90 |
+|        Sindura bhusana rasa                                  235 |
 
-।                                                                                                      ।
-।------------------------------------------------------------------------------------------------------।
-। Snubiparpati rasa                                      205     ।
-। Sudha'nidhi rasa                                    10,242       ।
-। Sudha'kara rasa                                       273     ।
-। Sulocha'bhram                                        242     ।
-। Sutaka pratyaya rasa                                   314        ।
-। Sureshwara rasa                                       35      ।
-। Surya rasa                                            82 ।
-। Surya'varta rasa                                       92    ।
-। Swarnagarbha pottall rasa                                44          ।
-। Swayamagni rasa                                      81       ।
+|                                                                                                      |
+|------------------------------------------------------------------------------------------------------|
+| Snubiparpati rasa                                      205     |
+| Sudha'nidhi rasa                                    10,242       |
+| Sudha'kara rasa                                       273     |
+| Sulocha'bhram                                        242     |
+| Sutaka pratyaya rasa                                   314        |
+| Sureshwara rasa                                       35      |
+| Surya rasa                                            82 |
+| Surya'varta rasa                                       92    |
+| Swarnagarbha pottall rasa                                44          |
+| Swayamagni rasa                                      81       |
 
 T
 
-।                                                                                                       ।
-।------------------------------------------------------------------------------------------------------:।
-।                                                                                                  Page ।
-।  Ta'mradruti                                           133 ।
-।  Ta'mra rasa                                          94 ।
-।     Tamra'stakam                                         153 ।
-।     Tribikrama rasa                                       179 ।
-। Trijoni rasa                                           236 ।
-।       Trikatraya'di la'uham                                  217 ।
-।  Trinetra rasa                                          146 ।
-।     Triphala' lauham                                       167 ।
-।         Tripura sudana rasa                                  173 ।
-।         Tryambaka'bhram                                     120 ।
-।           Tryusana'di manduram                                  222 ।
+|                                                                                                       |
+|------------------------------------------------------------------------------------------------------:|
+|                                                                                                  Page |
+|  Ta'mradruti                                           133 |
+|  Ta'mra rasa                                          94 |
+|     Tamra'stakam                                         153 |
+|     Tribikrama rasa                                       179 |
+| Trijoni rasa                                           236 |
+|       Trikatraya'di la'uham                                  217 |
+|  Trinetra rasa                                          146 |
+|     Triphala' lauham                                       167 |
+|         Tripura sudana rasa                                  173 |
+|         Tryambaka'bhram                                     120 |
+|           Tryusana'di manduram                                  222 |
 
 
 
 U
 
-।                                                                                               ।
-।----------------------------------------------------------------------------------------------:।
-।                                                                                          Page ।
-।  Udaya bha'skara rasa                                  151 ।
-।    Unma'da Bhanjana rasa                                 312 ।
-।    Unma'da-gaja keshari rasa                              311 ।
-। Unmatta-parpati rasa                                   310 ।
+|                                                                                               |
+|----------------------------------------------------------------------------------------------:|
+|                                                                                          Page |
+|  Udaya bha'skara rasa                                  151 |
+|    Unma'da Bhanjana rasa                                 312 |
+|    Unma'da-gaja keshari rasa                              311 |
+| Unmatta-parpati rasa                                   310 |
 
 
 
 V
 
-।                                                                                                        ।
-।-------------------------------------------------------------------------------------------------------:।
-।                                                                                                   Page ।
-।    Vaidya ra'ja rasa                                        48 ।
-। Va'ta'ri rasa                                           323 ।
-।        Vidya'nkusha rasa                                     187 ।
+|                                                                                                        |
+|-------------------------------------------------------------------------------------------------------:|
+|                                                                                                   Page |
+|    Vaidya ra'ja rasa                                        48 |
+| Va'ta'ri rasa                                           323 |
+|        Vidya'nkusha rasa                                     187 |
 
 
 
@@ -5908,478 +5908,478 @@ V
 
 अ
 
-।                                                                                                            ।
-।-----------------------------------------------------------------------------------------------------------:।
-।                                                                                                       page ।
-।  अग्नि रसः                                               ८० ।
-।      अग्नि कुठार रसः                                         १८९ ।
-।     अग्नितुण्ड रसः                                          २०४ ।
-।     अग्नि प्रभाव रसः                                         १५४ ।
-।        अग्नि विलास रसः                                        २६२ ।
-।      अग्निमुख रसः                                          १४५ ।
-।       अनिलारि रसः                                           ३२३ ।
-।      अर्पणारञ्जन सः                                          ३२५ ।
-।        अमृताकर रसः                                           ६६ ।
-।       अमृताम्बुधिरसः                                         २६७ ।
-।         अमोधादि लौहम्                                         २५८ ।
-।       अम्लपित्तान्तको रसः                                       १२४ ।
-।  अर्केश्वर रसः                                            ८ ।
-। अर्जुनाभ्रम्                                             ११२ ।
-।       अष्टादशाङ्ग लोहम्                                       २१८ ।
-।     अक्षमण्डूरम                                            २१४ ।
-।      अक्षादि लौहम्                                          १६४ ।
+|                                                                                                            |
+|-----------------------------------------------------------------------------------------------------------:|
+|                                                                                                       page |
+|  अग्नि रसः                                               ८० |
+|      अग्नि कुठार रसः                                         १८९ |
+|     अग्नितुण्ड रसः                                          २०४ |
+|     अग्नि प्रभाव रसः                                         १५४ |
+|        अग्नि विलास रसः                                        २६२ |
+|      अग्निमुख रसः                                          १४५ |
+|       अनिलारि रसः                                           ३२३ |
+|      अर्पणारञ्जन सः                                          ३२५ |
+|        अमृताकर रसः                                           ६६ |
+|       अमृताम्बुधिरसः                                         २६७ |
+|         अमोधादि लौहम्                                         २५८ |
+|       अम्लपित्तान्तको रसः                                       १२४ |
+|  अर्केश्वर रसः                                            ८ |
+| अर्जुनाभ्रम्                                             ११२ |
+|       अष्टादशाङ्ग लोहम्                                       २१८ |
+|     अक्षमण्डूरम                                            २१४ |
+|      अक्षादि लौहम्                                          १६४ |
 
 
 
 आ
 
-।                                                                                                      ।
-।-----------------------------------------------------------------------------------------------------:।
-।                                                                                                 page ।
-।    आनन्दोदयः रसः                                        २२६ ।
-।    आमवातारि रसः                                         ३२० ।
-।  आमवातेश्वर रसः                                         ३२१ ।
-। आरोग्यस्प्रगर रसः                                       २३० ।
-।   आयसादि रसः                                           ५ ।
+|                                                                                                      |
+|-----------------------------------------------------------------------------------------------------:|
+|                                                                                                 page |
+|    आनन्दोदयः रसः                                        २२६ |
+|    आमवातारि रसः                                         ३२० |
+|  आमवातेश्वर रसः                                         ३२१ |
+| आरोग्यस्प्रगर रसः                                       २३० |
+|   आयसादि रसः                                           ५ |
 
 
 
 इ  
 
 
-।                                                                                                         ।
-।--------------------------------------------------------------------------------------------------------:।
-।                                                                                                    page ।
-। इन्द्रमा रसः                                            २९८ ।
+|                                                                                                         |
+|--------------------------------------------------------------------------------------------------------:|
+|                                                                                                    page |
+| इन्द्रमा रसः                                            २९८ |
 
 उ
 
-।                                                                                                        ।
-।-------------------------------------------------------------------------------------------------------:।
-।                                                                                                   page ।
-।      उदयभास्कर रसः                                        १५० ।
-। उन्मत्त पर्पटी रसः                                        ३१० ।
-।       उन्मादगजकेशरी रसः                                     ३११ ।
-।      उन्मादभअन रसः                                         ३१२ ।
+|                                                                                                        |
+|-------------------------------------------------------------------------------------------------------:|
+|                                                                                                   page |
+|      उदयभास्कर रसः                                        १५० |
+| उन्मत्त पर्पटी रसः                                        ३१० |
+|       उन्मादगजकेशरी रसः                                     ३११ |
+|      उन्मादभअन रसः                                         ३१२ |
 
 
 ओ
 
-।                                                                                                          ।
-।---------------------------------------------------------------------------------------------------------:।
-।                                                                                                     page ।
-। और्वाग्निरसः                                            २६१ ।
-।     और्वानल रसः                                           २६० ।
+|                                                                                                          |
+|---------------------------------------------------------------------------------------------------------:|
+|                                                                                                     page |
+| और्वाग्निरसः                                            २६१ |
+|     और्वानल रसः                                           २६० |
 
 क
 
-।                                                                                                         ।
-।--------------------------------------------------------------------------------------------------------:।
-।                                                                                                    page ।
-।   कणारसः                                              २८६ ।
-।       कनकशेखर रसः                                          २४ ।
-।     कनकादि रसः                                           ३११ ।
-।  कपर्दक रसः                                             १० ।
-।  कल्याण सुन्दराभ्रम्                                        ३४ ।
-।     कल्याणसुन्दर रसः                                        ११३ ।
-।  कांस्यादि रसः                                           २३८ ।
-।  काञ्चनादि रसः                                          ३३ ।
-।  काञ्चनेश्शर रसः                                         ३३ ।
-।     कामलारि रसः                                          २३५ ।
-।   कालप्रिय रसः                                           ६७ ।
-।      कालविध्वंसन रसः                                        २२७ ।
-।        कासकालानल रसः                                        ६१ ।
-।     कासकुठार रसः                                          ६४ ।
-।      कास संहार भैर रसः                                       ६५ ।
-।     कासान्तक रसः                                          ६४ ।
-।     कीटमई रसः                                           २०२ ।
-।     कीटशूलारि रसः                                         २०५ ।
-। कुमुदेश्वर रसः                                           २५२ ।
-।  कृष्ण लौहम्                                            २६१ ।
-।     कोलादि मण्डूरम्                                        १५७ ।
-।       क्रिमि कालानल रसः                                      १९९ ।
-। क्रिमिन रसः                                            २०२ ।
-।    क्रिमिपातन रसः                                         २०६ ।
-।     क्रिमिविघातन रसः                                       २०३ ।
-।    क्रिमिविनाश रसः                                        २०१ ।
-।   क्रिमिमुहर रसः                                          २०० ।
-।   क्रिमिरोगारि रसः                                        २०१ ।
-।       क्रिमिशूलनाशन रसः                                      २०६ ।
-।   क्रिमिशूलारि रसः                                         २०४ ।
-।  क्रिमिहर रसः                                           २०१ ।
+|                                                                                                         |
+|--------------------------------------------------------------------------------------------------------:|
+|                                                                                                    page |
+|   कणारसः                                              २८६ |
+|       कनकशेखर रसः                                          २४ |
+|     कनकादि रसः                                           ३११ |
+|  कपर्दक रसः                                             १० |
+|  कल्याण सुन्दराभ्रम्                                        ३४ |
+|     कल्याणसुन्दर रसः                                        ११३ |
+|  कांस्यादि रसः                                           २३८ |
+|  काञ्चनादि रसः                                          ३३ |
+|  काञ्चनेश्शर रसः                                         ३३ |
+|     कामलारि रसः                                          २३५ |
+|   कालप्रिय रसः                                           ६७ |
+|      कालविध्वंसन रसः                                        २२७ |
+|        कासकालानल रसः                                        ६१ |
+|     कासकुठार रसः                                          ६४ |
+|      कास संहार भैर रसः                                       ६५ |
+|     कासान्तक रसः                                          ६४ |
+|     कीटमई रसः                                           २०२ |
+|     कीटशूलारि रसः                                         २०५ |
+| कुमुदेश्वर रसः                                           २५२ |
+|  कृष्ण लौहम्                                            २६१ |
+|     कोलादि मण्डूरम्                                        १५७ |
+|       क्रिमि कालानल रसः                                      १९९ |
+| क्रिमिन रसः                                            २०२ |
+|    क्रिमिपातन रसः                                         २०६ |
+|     क्रिमिविघातन रसः                                       २०३ |
+|    क्रिमिविनाश रसः                                        २०१ |
+|   क्रिमिमुहर रसः                                          २०० |
+|   क्रिमिरोगारि रसः                                        २०१ |
+|       क्रिमिशूलनाशन रसः                                      २०६ |
+|   क्रिमिशूलारि रसः                                         २०४ |
+|  क्रिमिहर रसः                                           २०१ |
 
 
 ख  
 
 
-।                                                                                                  ।
-।-------------------------------------------------------------------------------------------------:।
-।                                                                                             page ।
-। खण्डकाय लोहम्                                        १२ ।
+|                                                                                                  |
+|-------------------------------------------------------------------------------------------------:|
+|                                                                                             page |
+| खण्डकाय लोहम्                                        १२ |
 
 ग
 
-।                                                                                                        ।
-।-------------------------------------------------------------------------------------------------------:।
-।                                                                                                   page ।
-।  गगनसूर्य्यादि रसः                                        १४७ ।
-।     गुल्मकालानल रसः                                       १८१ ।
-।    गुल्मनाशन रसः                                         १९२ ।
-।    गुल्मनिवारण रसः                                        १८० ।
-।   गुल्मनिसूदनो वटी                                        १८२ ।
-। गुल्मवजू रसः                                           १८० ।
-। गुल्मशार्दूल रसः                                         १५२ ।
-। गुदमण्डूरम                                            १५८ ।
+|                                                                                                        |
+|-------------------------------------------------------------------------------------------------------:|
+|                                                                                                   page |
+|  गगनसूर्य्यादि रसः                                        १४७ |
+|     गुल्मकालानल रसः                                       १८१ |
+|    गुल्मनाशन रसः                                         १९२ |
+|    गुल्मनिवारण रसः                                        १८० |
+|   गुल्मनिसूदनो वटी                                        १८२ |
+| गुल्मवजू रसः                                           १८० |
+| गुल्मशार्दूल रसः                                         १५२ |
+| गुदमण्डूरम                                            १५८ |
 
 
 च
 
-।                                                                                                           ।
-।----------------------------------------------------------------------------------------------------------:।
-।                                                                                                      page ।
-।      चञ्चलादि लौहम्                                          ८९ ।
-।    चतुष्टय रसः                                            ७७ ।
-।       चतुःसममण्डूरम्                                         १६२ ।
-।       चतुःसम लौहम्                                          १६८ ।
-।   चतुर्भूज रसः                                            ३०० ।
-।   चन्द्रकलारसः                                             ६ ।
-।   चन्द्रसूर्यात्मक रसः                                        २२३ ।
-। चन्द्रामृत रसः                                            ६३ ।
-।       चिन्ताहर रसः                                       ११३, १३८ ।
+|                                                                                                           |
+|----------------------------------------------------------------------------------------------------------:|
+|                                                                                                      page |
+|      चञ्चलादि लौहम्                                          ८९ |
+|    चतुष्टय रसः                                            ७७ |
+|       चतुःसममण्डूरम्                                         १६२ |
+|       चतुःसम लौहम्                                          १६८ |
+|   चतुर्भूज रसः                                            ३०० |
+|   चन्द्रकलारसः                                             ६ |
+|   चन्द्रसूर्यात्मक रसः                                        २२३ |
+| चन्द्रामृत रसः                                            ६३ |
+|       चिन्ताहर रसः                                       ११३, १३८ |
 
 छ
 
-।                                                                                                      ।
-।-----------------------------------------------------------------------------------------------------:।
-।                                                                                                 page ।
-। छहिर रसः                                           २४८ ।
+|                                                                                                      |
+|-----------------------------------------------------------------------------------------------------:|
+|                                                                                                 page |
+| छहिर रसः                                           २४८ |
 
 
 
 ज
 
-।                                                                                                        ।
-।-------------------------------------------------------------------------------------------------------:।
-।                                                                                                   page ।
-। ज लौहम्                                              २५६ ।
-।    जयपाल रसः                                           २३४ ।
-।   जलादिलोहम्                                           २१५ ।
+|                                                                                                        |
+|-------------------------------------------------------------------------------------------------------:|
+|                                                                                                   page |
+| ज लौहम्                                              २५६ |
+|    जयपाल रसः                                           २३४ |
+|   जलादिलोहम्                                           २१५ |
 
 ड
 
-।                                                                                                      ।
-।------------------------------------------------------------------------------------------------------।
-।                                                                                                     ।
-। डामरानन्दानम्                                         ७२ ।
+|                                                                                                      |
+|------------------------------------------------------------------------------------------------------|
+|                                                                                                     |
+| डामरानन्दानम्                                         ७२ |
 
 त
 
-।                                                                                                            ।
-।------------------------------------------------------------------------------------------------------------।
-।                                                                                                           ।
-। ताम्रनुतिः                                             १३२ ।
-। ताम्ररसः                                              ९४   ।
-। ताम्राष्टकम्                                             १५३  ।
-। त्रयम्बकाअम्                                           १२०     ।
-। त्रिकला लौहम्                                          १६      ।
-। त्रिनेत्र रसः                                            १४६ ।
-। त्रिपुरसूदनरसः                                          १७३     ।
-। त्रिफला लोहम्                                          १६७      ।
-। त्रिविक्रम रसः                                           १७९    ।
-। त्रियोनि रसः                                            २३६    ।
-। त्रिषणादि मण्डूरम्                                       २२२       ।
+|                                                                                                            |
+|------------------------------------------------------------------------------------------------------------|
+|                                                                                                           |
+| ताम्रनुतिः                                             १३२ |
+| ताम्ररसः                                              ९४   |
+| ताम्राष्टकम्                                             १५३  |
+| त्रयम्बकाअम्                                           १२०     |
+| त्रिकला लौहम्                                          १६      |
+| त्रिनेत्र रसः                                            १४६ |
+| त्रिपुरसूदनरसः                                          १७३     |
+| त्रिफला लोहम्                                          १६७      |
+| त्रिविक्रम रसः                                           १७९    |
+| त्रियोनि रसः                                            २३६    |
+| त्रिषणादि मण्डूरम्                                       २२२       |
 
 द
 
-।                                                                                                      ।
-।-----------------------------------------------------------------------------------------------------:।
-।                                                                                                 page ।
-। दायादि लौहम्                                          २१९ ।
-।  दाहान्तको रसः                                         २७२ ।
-। दीप्तामर रसः                                          १८७ ।
-। देवादिदेव रसः                                          २१८ ।
+|                                                                                                      |
+|-----------------------------------------------------------------------------------------------------:|
+|                                                                                                 page |
+| दायादि लौहम्                                          २१९ |
+|  दाहान्तको रसः                                         २७२ |
+| दीप्तामर रसः                                          १८७ |
+| देवादिदेव रसः                                          २१८ |
 
 ध
 
-।                                                                                                         ।
-।--------------------------------------------------------------------------------------------------------:।
-।                                                                                                    page ।
-।    धावादि लौहम्                                          १६ः ।
-। धात्री लौहम्                                            १३६ ।
+|                                                                                                         |
+|--------------------------------------------------------------------------------------------------------:|
+|                                                                                                    page |
+|    धावादि लौहम्                                          १६ः |
+| धात्री लौहम्                                            १३६ |
 
 न
 
-।                                                                                                         ।
-।--------------------------------------------------------------------------------------------------------:।
-।                                                                                                    page ।
-।   नवास चूर्णम                                           २१६ ।
-।     नाकुली पर्पटी रसः                                       ३१० ।
-। नागेश्वर रसः                                            १८२ ।
-।     नारायणो मण्डुरम्                                        १६० ।
-। निर्जर रसः                                            ७५ ।
-।   निशा लौहम्                                            २१७ ।
-।  निल गुण्य रसः                                           ३१३ ।
-।    नीलकण्ठ रसः                                           ९५ ।
+|                                                                                                         |
+|--------------------------------------------------------------------------------------------------------:|
+|                                                                                                    page |
+|   नवास चूर्णम                                           २१६ |
+|     नाकुली पर्पटी रसः                                       ३१० |
+| नागेश्वर रसः                                            १८२ |
+|     नारायणो मण्डुरम्                                        १६० |
+| निर्जर रसः                                            ७५ |
+|   निशा लौहम्                                            २१७ |
+|  निल गुण्य रसः                                           ३१३ |
+|    नीलकण्ठ रसः                                           ९५ |
 
 प
 
-।                                                                                                           ।
-।----------------------------------------------------------------------------------------------------------:।
-।                                                                                                      page ।
-।    पवक्त रसः                                             १०० ।
-।    पसुधा रसः                                             ४४ ।
-।    पश्चादल रसः                                            १२ ।
-।        पचामृत लौहमण्डूरम्                                      २२१ ।
-।  पर्पटी रसः                                              ९८ ।
-।       पानीयभक्त रसः                                         १७० ।
-।      पाण्डुपञ्चानन रसः                                       २३६ ।
-।       पाण्डुशोषण रसः                                         २३२ ।
-।      पाण्डुसूदन रसः                                         २२५ ।
-। पार्थ रसः                                              १११ ।
-।     पाशुपत रसः                                            ६८ ।
-।       पित्तकामान्तक रसः                                       ६५ ।
-।     पित्तलक रसः                                           १३५ ।
-।     पित्तपाण्डुनाशनः                                         २३२ ।
-।       पित्तस्योपशयमाह                                        १३७ ।
-।    पित्तान्तकरसः                                           १३७ ।
-।   पिष्टतार रसः                                            ७८ ।
-।     पुनर्णवादिमण्डुरम्                                        २२० ।
-।   पुरन्दर रसः                                             ६२ ।
-।  पूर्णचन्द्र रसः                                           २६७ ।
-।     प्रभाकर बटी                                           ११५ ।
-।      प्रलयानल रसः                                          १५३ ।
-।      प्राणतोषण रसः                                          २२४ ।
-।    प्राणधर रसः                                           १९० ।
-।     प्राणनाथ रसः                                          ४७ ।
+|                                                                                                           |
+|----------------------------------------------------------------------------------------------------------:|
+|                                                                                                      page |
+|    पवक्त रसः                                             १०० |
+|    पसुधा रसः                                             ४४ |
+|    पश्चादल रसः                                            १२ |
+|        पचामृत लौहमण्डूरम्                                      २२१ |
+|  पर्पटी रसः                                              ९८ |
+|       पानीयभक्त रसः                                         १७० |
+|      पाण्डुपञ्चानन रसः                                       २३६ |
+|       पाण्डुशोषण रसः                                         २३२ |
+|      पाण्डुसूदन रसः                                         २२५ |
+| पार्थ रसः                                              १११ |
+|     पाशुपत रसः                                            ६८ |
+|       पित्तकामान्तक रसः                                       ६५ |
+|     पित्तलक रसः                                           १३५ |
+|     पित्तपाण्डुनाशनः                                         २३२ |
+|       पित्तस्योपशयमाह                                        १३७ |
+|    पित्तान्तकरसः                                           १३७ |
+|   पिष्टतार रसः                                            ७८ |
+|     पुनर्णवादिमण्डुरम्                                        २२० |
+|   पुरन्दर रसः                                             ६२ |
+|  पूर्णचन्द्र रसः                                           २६७ |
+|     प्रभाकर बटी                                           ११५ |
+|      प्रलयानल रसः                                          १५३ |
+|      प्राणतोषण रसः                                          २२४ |
+|    प्राणधर रसः                                           १९० |
+|     प्राणनाथ रसः                                          ४७ |
 
 फ
 
-।                                                                                                 ।
-।------------------------------------------------------------------------------------------------:।
-।                                                                                            page ।
-। फललिकादिलौहम्                                       ३२४ ।
+|                                                                                                 |
+|------------------------------------------------------------------------------------------------:|
+|                                                                                            page |
+| फललिकादिलौहम्                                       ३२४ |
 
 ब
 
-।                                                                                                            ।
-।-----------------------------------------------------------------------------------------------------------:।
-।                                                                                                       page ।
-।     बङ्गधर रसः                                            १८५ ।
-।        बमनामृत रसः                                          २४६ ।
-।    बजूमण्डूरम्                                            २१९ ।
-।   बजूरसः                                                ५० ।
-।     लादि लौहम्                                            २०३ ।
-।          बसन्ततिलक रसः                                         ७७ ।
-।     बह्निमुख रसः                                           १४९ ।
-।    बाणेश्वर रसः                                            ३२६ ।
-।       बातगजेन्द्र सिंह रजः                                      ४२२ ।
-।        बातविध्वंसन रसः                                        ३२८ ।
-।     बातारि रसः                                            ३२३ ।
-।      बामदेव रसः                                            ३६ ।
-।   बार्यन रसः                                             १३० ।
-।  बासकेन्द्र रसः                                            ५ ।
-।        विजयभैरव रसः                                          ७३ ।
-।        बिजयादि लौहम्                                         २६० ।
-।     विद्यांकुश रसः                                          १८७ ।
-।    विद्याधर रसः                                            १८३ ।
-।      विद्याधरान रसः                                          १७४ ।
-।    विरुपाक्ष रसः                                           ११५ ।
-।    विश्वधर रसः                                            ११४ ।
-।    बिङ्गलौहम्                                             २०३ ।
-।      विदङ्गादि लौहम्                                         २१८ ।
-। बीरेन्द्र रसः                                            ८९ ।
-।     वृद्धदाराचं लौहम्                                         ३२५ ।
-।      वृषध्वज रसः                                           १४७ ।
-।    बृहच्छृङ्गाव रसः                                         ७१ ।
-।    वैद्यराज रसः                                           ४८ ।
-।   वैश्वानर रसः                                            १८९ ।
+|                                                                                                            |
+|-----------------------------------------------------------------------------------------------------------:|
+|                                                                                                       page |
+|     बङ्गधर रसः                                            १८५ |
+|        बमनामृत रसः                                          २४६ |
+|    बजूमण्डूरम्                                            २१९ |
+|   बजूरसः                                                ५० |
+|     लादि लौहम्                                            २०३ |
+|          बसन्ततिलक रसः                                         ७७ |
+|     बह्निमुख रसः                                           १४९ |
+|    बाणेश्वर रसः                                            ३२६ |
+|       बातगजेन्द्र सिंह रजः                                      ४२२ |
+|        बातविध्वंसन रसः                                        ३२८ |
+|     बातारि रसः                                            ३२३ |
+|      बामदेव रसः                                            ३६ |
+|   बार्यन रसः                                             १३० |
+|  बासकेन्द्र रसः                                            ५ |
+|        विजयभैरव रसः                                          ७३ |
+|        बिजयादि लौहम्                                         २६० |
+|     विद्यांकुश रसः                                          १८७ |
+|    विद्याधर रसः                                            १८३ |
+|      विद्याधरान रसः                                          १७४ |
+|    विरुपाक्ष रसः                                           ११५ |
+|    विश्वधर रसः                                            ११४ |
+|    बिङ्गलौहम्                                             २०३ |
+|      विदङ्गादि लौहम्                                         २१८ |
+| बीरेन्द्र रसः                                            ८९ |
+|     वृद्धदाराचं लौहम्                                         ३२५ |
+|      वृषध्वज रसः                                           १४७ |
+|    बृहच्छृङ्गाव रसः                                         ७१ |
+|    वैद्यराज रसः                                           ४८ |
+|   वैश्वानर रसः                                            १८९ |
 
-।                                                                                                          ।
-।----------------------------------------------------------------------------------------------------------।
-। बोलबद्ध रसः                                           ८०    ।
-। व्याधिवारणकेशरी रसः                                     २६        ।
-। व्योपादि लौहम्                                          २१४   ।
-। ब्रह्माण्डसुन्दर रसः सुनेल रसश्च                               २३६      ।
-। ब्राह्मीपर्पटी रसः                                         २९८ ।
+|                                                                                                          |
+|----------------------------------------------------------------------------------------------------------|
+| बोलबद्ध रसः                                           ८०    |
+| व्याधिवारणकेशरी रसः                                     २६        |
+| व्योपादि लौहम्                                          २१४   |
+| ब्रह्माण्डसुन्दर रसः सुनेल रसश्च                               २३६      |
+| ब्राह्मीपर्पटी रसः                                         २९८ |
 
 भ
 
-।                                                                                                          ।
-।---------------------------------------------------------------------------------------------------------:।
-।                                                                                                     page ।
-।   भागोत्तर रसः                                            ६९ ।
-।   भारद्वाज रसः                                           २३३ ।
-।      भुवनमोहन रसः                                          २५ ।
-।     भुवनसुन्दर रसः                                         २२२ ।
-। भुवनेश्वर पर्पटी                                           ५२ ।
-।      भूतांकुश रसः                                        ३१२, ७९ ।
-।     भूतभेरव रसः                                           २९९ ।
-।  भैरव रसः                                              १०६ ।
+|                                                                                                          |
+|---------------------------------------------------------------------------------------------------------:|
+|                                                                                                     page |
+|   भागोत्तर रसः                                            ६९ |
+|   भारद्वाज रसः                                           २३३ |
+|      भुवनमोहन रसः                                          २५ |
+|     भुवनसुन्दर रसः                                         २२२ |
+| भुवनेश्वर पर्पटी                                           ५२ |
+|      भूतांकुश रसः                                        ३१२, ७९ |
+|     भूतभेरव रसः                                           २९९ |
+|  भैरव रसः                                              १०६ |
 
 म
 
-।                                                                                                          ।
-।---------------------------------------------------------------------------------------------------------:।
-।                                                                                                     page ।
-।  मण्डर गुड़                                             १५९ ।
-।   मण्डलम्                                              १६७ ।
-।     मन्धान भैरव रसः                                         ९७ ।
-।        महाकल्याण रसः                                        २७९ ।
-।     महाकालेश्वर रसः                                         ६६ ।
-।     महापित्तान्तकरसः                                        १३७ ।
-।       महावीर पोहली रसः                                       ५१ ।
-। महास्र रसः                                              ३२ ।
-।   महामृगाङ्क रसः                                           २० ।
-।       महामृत रसायनम्                                        १८५ ।
-।   महारूद्र रसः                                           ३०० ।
-।     महाश्वास कुठार रसः                                        ९१ ।
-।      महासागर रसः                                          २५२ ।
-।   महेश रसः                                             १४९ ।
-।     मीनध्वज रसः                                           २५१ ।
-।   मुस्तादि लौहम्                                          १६६ ।
-।  मूर्च्छान्तकरसः                                          २८६ ।
-।      मृगनाभ्यादिरवलेहः                                       १०६ ।
-।  मृगाड रसः                                              २८ ।
+|                                                                                                          |
+|---------------------------------------------------------------------------------------------------------:|
+|                                                                                                     page |
+|  मण्डर गुड़                                             १५९ |
+|   मण्डलम्                                              १६७ |
+|     मन्धान भैरव रसः                                         ९७ |
+|        महाकल्याण रसः                                        २७९ |
+|     महाकालेश्वर रसः                                         ६६ |
+|     महापित्तान्तकरसः                                        १३७ |
+|       महावीर पोहली रसः                                       ५१ |
+| महास्र रसः                                              ३२ |
+|   महामृगाङ्क रसः                                           २० |
+|       महामृत रसायनम्                                        १८५ |
+|   महारूद्र रसः                                           ३०० |
+|     महाश्वास कुठार रसः                                        ९१ |
+|      महासागर रसः                                          २५२ |
+|   महेश रसः                                             १४९ |
+|     मीनध्वज रसः                                           २५१ |
+|   मुस्तादि लौहम्                                          १६६ |
+|  मूर्च्छान्तकरसः                                          २८६ |
+|      मृगनाभ्यादिरवलेहः                                       १०६ |
+|  मृगाड रसः                                              २८ |
 
-।                                                                                                        ।
-।--------------------------------------------------------------------------------------------------------।
-। मृगाङ्कपोट्टली रसः                                        ४३ ।
+|                                                                                                        |
+|--------------------------------------------------------------------------------------------------------|
+| मृगाङ्कपोट्टली रसः                                        ४३ |
 
 य
 
-।                                                                                                         ।
-।--------------------------------------------------------------------------------------------------------:।
-।                                                                                                    page ।
-।   यक्षान्तक लौहम्                                          २२ ।
-। यक्षारि लौहम्                                           २२ ।
-।  योगराज                                              २१६ ।
+|                                                                                                         |
+|--------------------------------------------------------------------------------------------------------:|
+|                                                                                                    page |
+|   यक्षान्तक लौहम्                                          २२ |
+| यक्षारि लौहम्                                           २२ |
+|  योगराज                                              २१६ |
 
 र
 
-।                                                                                                         ।
-।--------------------------------------------------------------------------------------------------------:।
-।                                                                                                    page ।
-।  रक्तपित्तांकुश रसः                                        ५ ।
-।   रक्तपित्तान्तकरसः                                        ८ ।
-।     रत्नकरण्डक रसः                                         ७८ ।
-।  रत्नगर्भपोट्टली रसः                                        ३९ ।
-।  रसमण्डूरम्                                            १६३ ।
-। रसामृत रसः                                              ९ ।
-।   राजभद्र रसः                                           २०६ ।
-।   राजमृगाङ्क रसः                                         ३१ ।
-।  राजावर्त रसः                                           २८० ।
+|                                                                                                         |
+|--------------------------------------------------------------------------------------------------------:|
+|                                                                                                    page |
+|  रक्तपित्तांकुश रसः                                        ५ |
+|   रक्तपित्तान्तकरसः                                        ८ |
+|     रत्नकरण्डक रसः                                         ७८ |
+|  रत्नगर्भपोट्टली रसः                                        ३९ |
+|  रसमण्डूरम्                                            १६३ |
+| रसामृत रसः                                              ९ |
+|   राजभद्र रसः                                           २०६ |
+|   राजमृगाङ्क रसः                                         ३१ |
+|  राजावर्त रसः                                           २८० |
 
 ल
 
-।                                                                                                         ।
-।--------------------------------------------------------------------------------------------------------:।
-।                                                                                                    page ।
-।    लबङ्गादि लौहम्                                          ७६ ।
-।    लीविनोद रसः                                           ७४ ।
-।    लीलाप्रमोद रसः                                         १२८ ।
-।       लीलाविलास रसः                                        ६५७ ।
-।     लोकपाल रसः                                           ४९ ।
-। लोकेश्वर रसः                                            ४५ ।
-।     लोकेश्वर पोहली रसः                                      ३८ ।
-। लोहगुड़म्                                             १५७ ।
-। लौह भस्म                                              २१३ ।
-।  लहसृतम्                                              १६३ ।
+|                                                                                                         |
+|--------------------------------------------------------------------------------------------------------:|
+|                                                                                                    page |
+|    लबङ्गादि लौहम्                                          ७६ |
+|    लीविनोद रसः                                           ७४ |
+|    लीलाप्रमोद रसः                                         १२८ |
+|       लीलाविलास रसः                                        ६५७ |
+|     लोकपाल रसः                                           ४९ |
+| लोकेश्वर रसः                                            ४५ |
+|     लोकेश्वर पोहली रसः                                      ३८ |
+| लोहगुड़म्                                             १५७ |
+| लौह भस्म                                              २१३ |
+|  लहसृतम्                                              १६३ |
 
 श
 
-।                                                                                                          ।
-।---------------------------------------------------------------------------------------------------------:।
-।                                                                                                     page ।
-।      शंखपुष्पादि रसः                                        २९८ ।
-।   शङ्कर रसः                                             ११६ ।
-।         शङ्खाधीश रसः                                        ४२ ।
-।   शतवीर्य्यामण्डूरम्                                       १६१ ।
-।      शतमूल्यादि लौहम्                                        १२ ।
-।     शतावरीमण्डूरम्                                         १६० ।
-।      शवासन रसः                                           २२५ ।
-। शब्वैश्वर रसः                                            ३१४ ।
-।    शर्करा लौहम्                                           १६४ ।
-।   शर्कराचं लौहम्                                          ११ ।
-।     शिवादि लोहम्                                          २१४ ।
-।      शिलाजत्वादि लौहम्                                       २३ ।
-।    शिलापूत रसः                                            ९७ ।
-।         शूलकरिकेशरी रसः                                      १७१ ।
-।      शुलकेशरी रसः                                          १४६ ।
-।         शूलगज केशरी रसः                                       १५१ ।
-।       शूलनिसूदन रसः                                         १७२ ।
-।    शूलबजू रसः                                            १७२ ।
-।      शूलराज लौहम्                                          १६९ ।
+|                                                                                                          |
+|---------------------------------------------------------------------------------------------------------:|
+|                                                                                                     page |
+|      शंखपुष्पादि रसः                                        २९८ |
+|   शङ्कर रसः                                             ११६ |
+|         शङ्खाधीश रसः                                        ४२ |
+|   शतवीर्य्यामण्डूरम्                                       १६१ |
+|      शतमूल्यादि लौहम्                                        १२ |
+|     शतावरीमण्डूरम्                                         १६० |
+|      शवासन रसः                                           २२५ |
+| शब्वैश्वर रसः                                            ३१४ |
+|    शर्करा लौहम्                                           १६४ |
+|   शर्कराचं लौहम्                                          ११ |
+|     शिवादि लोहम्                                          २१४ |
+|      शिलाजत्वादि लौहम्                                       २३ |
+|    शिलापूत रसः                                            ९७ |
+|         शूलकरिकेशरी रसः                                      १७१ |
+|      शुलकेशरी रसः                                          १४६ |
+|         शूलगज केशरी रसः                                       १५१ |
+|       शूलनिसूदन रसः                                         १७२ |
+|    शूलबजू रसः                                            १७२ |
+|      शूलराज लौहम्                                          १६९ |
 
-।                                                                                                          ।
-।----------------------------------------------------------------------------------------------------------।
-। शूलसंयमन रसः                                         १७५       ।
-। शुलान्तक रसः                                          १४८     ।
-। शृङ्गाराभ्र रसः                                          ७८ ।
-। शोषानल रसः                                          २७       ।
-। श्वासकासकरिकेशरी रसः                                   ९५            ।
-। श्वासकुठार रसः                                          ९०    ।
-। श्वासचिन्तामणि रसः                                       ९२      ।
-। श्वासभैरव रसः                                           ९२   ।
-। श्वासान्तक रसः                                           ९३  ।
-। श्वासहर रसः                                             ९३  ।
-। श्वासारि लौहम्                                          ९०  ।
+|                                                                                                          |
+|----------------------------------------------------------------------------------------------------------|
+| शूलसंयमन रसः                                         १७५       |
+| शुलान्तक रसः                                          १४८     |
+| शृङ्गाराभ्र रसः                                          ७८ |
+| शोषानल रसः                                          २७       |
+| श्वासकासकरिकेशरी रसः                                   ९५            |
+| श्वासकुठार रसः                                          ९०    |
+| श्वासचिन्तामणि रसः                                       ९२      |
+| श्वासभैरव रसः                                           ९२   |
+| श्वासान्तक रसः                                           ९३  |
+| श्वासहर रसः                                             ९३  |
+| श्वासारि लौहम्                                          ९०  |
 
 स
 
-।                                                                                                            ।
-।-----------------------------------------------------------------------------------------------------------:।
-।                                                                                                       page ।
-।     सप्तामृत रसः                                            ९४ ।
-।       सप्तामृत लौहम्                                         १६५ ।
-।      समशर्करंलौहम्                                          ११ ।
-।       सर्वतोभद्र लौह रसः                                       १२४ ।
-।   सर्वाङ्ग सुन्दरी रसः                                         ४० ।
-।       सर्वामयहर लौहम्                                         २३ ।
-।     सार्वभौम रसः                                            ७१ ।
-।       सिन्दूरभूषण रसः                                         १३४ ।
-।       सुधाकर रसः                                           २७३ ।
-।        सुधानिधि रसः                                        ९, १४२ ।
-।     सुलोचनाम्                                             २४१ ।
-।    सूतभस्म                                              २४६ ।
-।      सूतकप्रत्यय रसः                                         ३१४ ।
-। सूर्य रसः                                               ८१ ।
+|                                                                                                            |
+|-----------------------------------------------------------------------------------------------------------:|
+|                                                                                                       page |
+|     सप्तामृत रसः                                            ९४ |
+|       सप्तामृत लौहम्                                         १६५ |
+|      समशर्करंलौहम्                                          ११ |
+|       सर्वतोभद्र लौह रसः                                       १२४ |
+|   सर्वाङ्ग सुन्दरी रसः                                         ४० |
+|       सर्वामयहर लौहम्                                         २३ |
+|     सार्वभौम रसः                                            ७१ |
+|       सिन्दूरभूषण रसः                                         १३४ |
+|       सुधाकर रसः                                           २७३ |
+|        सुधानिधि रसः                                        ९, १४२ |
+|     सुलोचनाम्                                             २४१ |
+|    सूतभस्म                                              २४६ |
+|      सूतकप्रत्यय रसः                                         ३१४ |
+| सूर्य रसः                                               ८१ |
 
-।                                                                                                            ।
-।------------------------------------------------------------------------------------------------------------।
-। सूर्यावर्त रसः                                            ९२ ।
-। स्नुहीपर्पटी रसः                                          २०५    ।
-। स्वर्णगर्भपोट्टली रसः                                       ४३    ।
-। स्वयमग्नि रसः                                            ८१    ।
+|                                                                                                            |
+|------------------------------------------------------------------------------------------------------------|
+| सूर्यावर्त रसः                                            ९२ |
+| स्नुहीपर्पटी रसः                                          २०५    |
+| स्वर्णगर्भपोट्टली रसः                                       ४३    |
+| स्वयमग्नि रसः                                            ८१    |
 
 ह
 
-।                                                                                                         ।
-।--------------------------------------------------------------------------------------------------------:।
-।                                                                                                    page ।
-। हंसमण्डूरः                                             २१३ ।
-।      हिकानाशन रसः                                         ९७ ।
-।  हृदयार्णव रसः                                           ११४ ।
-।   हेमगर्भपोली रसः                                         ३८ ।
-।    हेममनोहर रसः                                          ४१ ।
+|                                                                                                         |
+|--------------------------------------------------------------------------------------------------------:|
+|                                                                                                    page |
+| हंसमण्डूरः                                             २१३ |
+|      हिकानाशन रसः                                         ९७ |
+|  हृदयार्णव रसः                                           ११४ |
+|   हेमगर्भपोली रसः                                         ३८ |
+|    हेममनोहर रसः                                          ४१ |
 
 क्ष
 
-।                                                                                                            ।
-।-----------------------------------------------------------------------------------------------------------:।
-।                                                                                                       page ।
-।     क्षपादि लौहम्                                           २१४ ।
-।      क्षयकेशरी रसः                                           २६ ।
-। क्षारताम्रम्                                            १५६ ।
-।   क्षार वटी                                              ९५५ ।
-। क्षारसूर्यम्                                             १५२ ।
-।   क्षीरमण्डूरम्                                            १५८ ।
-।   क्षुधानिधिरः                                            १२९ ।
-।    क्षुधाप्रवोधन रसः                                         १२६ ।
-।     क्षुधावती बटिका                                          १३१ ।
+|                                                                                                            |
+|-----------------------------------------------------------------------------------------------------------:|
+|                                                                                                       page |
+|     क्षपादि लौहम्                                           २१४ |
+|      क्षयकेशरी रसः                                           २६ |
+| क्षारताम्रम्                                            १५६ |
+|   क्षार वटी                                              ९५५ |
+| क्षारसूर्यम्                                             १५२ |
+|   क्षीरमण्डूरम्                                            १५८ |
+|   क्षुधानिधिरः                                            १२९ |
+|    क्षुधाप्रवोधन रसः                                         १२६ |
+|     क्षुधावती बटिका                                          १३१ |
 
-।                                                                                                              ।
-।--------------------------------------------------------------------------------------------------------------।
-। क्षेमेन्द्र रसः                                             ४४ ।
+|                                                                                                              |
+|--------------------------------------------------------------------------------------------------------------|
+| क्षेमेन्द्र रसः                                             ४४ |
 
 
 

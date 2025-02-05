@@ -69,50 +69,50 @@ Publishers Pvt. Ltd.**
 
 Content
 
-।               ।     ।
-।---------------।-----।
-। Abbreviations । vi  ।
-। Preface       । vii ।
-। Introduction  । ix  ।
-। Samādhipādaḥ  । 1   ।
-। Sādhanapādaḥ  । 205 ।
-। Bibliography  । 379 ।
-। Index         । 381 ।
+|               |     |
+|---------------|-----|
+| Abbreviations | vi  |
+| Preface       | vii |
+| Introduction  | ix  |
+| Samādhipādaḥ  | 1   |
+| Sādhanapādaḥ  | 205 |
+| Bibliography  | 379 |
+| Index         | 381 |
 
 
 
 **Abbreviations**
 
-।                  ।                                 ।
-।------------------।---------------------------------।
-। Āraṇya.          । Hariharānanda Āranyaka          ।
-। Bha. Gītā/Gītā   । Bhagavadgītā                    ।
-। Bhikṣu           । Vijñānabhikṣu                   ।
-। Br̥. Up           । Bṛhadāraṇyakopanişad            ।
-। BS               । Brahmasūtra                     ।
-। BSBh.            । Brahmasūtrabhāṣya               ।
-। Chānd. Up        । Chāndogyopanişad                ।
-। Gaut. DS         । Gautama Dharmasutra             ।
-। Gaut. NS         । Gautama Nyāyasūtras             ।
-। Kath. Up         । Kaṭhopanişad                    ।
-। Mait. Up         । Maitrāyaṇī Upanişad             ।
-। MBH              । Mahābhārata                     ।
-। Miśra            । Vācaspati Miśra                 ।
-। MS.              । Manusmrti                       ।
-। Muṇḍ. Up         । Muṇdakopanişad                  ।
-। NS               । Nyāyasūtras                     ।
-। Pāṇ. Astā        । Aṣṭādhyāyī of Pāṇini            ।
-। Pāṇ. Aṣṭā. Dhātu । Aṣṭādhyāyī Dhātupāṭha of Pāṇini ।
-। Praś. Up         । Praśnopanişad                   ।
-। Śvet. Up         । Śvetāśvataropaniṣad             ।
-। Taitt. Āran.     । Taittirīya Āran̖yaka             ।
-। Taitt. Sam.      । Taittirīyasaṃhitā               ।
-। Taitt. Up.       । Taittirīyopanişad               ।
-। UPA              । Upadeśasāhasrī                  ।
-। Vaiś. Sūtra      । Vaiśeşikasūtras                 ।
-। VBh.             । Vyāsabhāṣya                     ।
-। Viş. P           । Vişnu Purāṇa                    ।
-। YS.              । Yogasūtras of Patan̄jali         ।
+|                  |                                 |
+|------------------|---------------------------------|
+| Āraṇya.          | Hariharānanda Āranyaka          |
+| Bha. Gītā/Gītā   | Bhagavadgītā                    |
+| Bhikṣu           | Vijñānabhikṣu                   |
+| Br̥. Up           | Bṛhadāraṇyakopanişad            |
+| BS               | Brahmasūtra                     |
+| BSBh.            | Brahmasūtrabhāṣya               |
+| Chānd. Up        | Chāndogyopanişad                |
+| Gaut. DS         | Gautama Dharmasutra             |
+| Gaut. NS         | Gautama Nyāyasūtras             |
+| Kath. Up         | Kaṭhopanişad                    |
+| Mait. Up         | Maitrāyaṇī Upanişad             |
+| MBH              | Mahābhārata                     |
+| Miśra            | Vācaspati Miśra                 |
+| MS.              | Manusmrti                       |
+| Muṇḍ. Up         | Muṇdakopanişad                  |
+| NS               | Nyāyasūtras                     |
+| Pāṇ. Astā        | Aṣṭādhyāyī of Pāṇini            |
+| Pāṇ. Aṣṭā. Dhātu | Aṣṭādhyāyī Dhātupāṭha of Pāṇini |
+| Praś. Up         | Praśnopanişad                   |
+| Śvet. Up         | Śvetāśvataropaniṣad             |
+| Taitt. Āran.     | Taittirīya Āran̖yaka             |
+| Taitt. Sam.      | Taittirīyasaṃhitā               |
+| Taitt. Up.       | Taittirīyopanişad               |
+| UPA              | Upadeśasāhasrī                  |
+| Vaiś. Sūtra      | Vaiśeşikasūtras                 |
+| VBh.             | Vyāsabhāṣya                     |
+| Viş. P           | Vişnu Purāṇa                    |
+| YS.              | Yogasūtras of Patan̄jali         |
 
 
 
@@ -294,14 +294,14 @@ by Parameśvara I.
 
 ⁵The table is given by all authors who have written on Kerala Sanskrit literature such as Ullur Paramesvara Iyer (Malayalam), K.K. Raja, S. Venkatasubramonia Iyer, E. Easwaran Nampoothiry and many others. The table is consistent except in the number of sons that the first Parameśvara had. According to most of the above authors he had five sons, only K.Rama Pisharoti says he had eight sons. K.K. Raja has discounted this and established that Parameśvara I had five sons and not eight (CKCL, p. 95). One of the sons was Śaṅkara and Parameśvara II the author of *Gopālikā* was his disciple. He refers to his *guru* as *pūjyapāda*. The following table is taken from K.K. Raja (CKCL, p. 98):
 
-।                       ।                                                                                                                                                     ।
-।-----------------------।-----------------------------------------------------------------------------------------------------------------------------------------------------।
-। Rṣi, I (m. Gaurī)     । Bhavadāsa                                                                                                                                           ।
-। Parameśvara I         । (Works: *Haricarita, Sumanoramaņī, Juṣadhva*ṅ*karaṇī, Nyāyasamuccaya*)                                                                              ।
-। Rṣi, II (m. Gopālikā) । Bhavadāsa,Vāsudeva, Subrahmanya, Śańkara,                                                                                                           ।
-। Parameśvara II.       । (Mīmāmsā Commentator, Works: *Gopālikā, Tattvavibhāvanä, Commentary on Nītitattvāvirbhāva, Commentary on Vibhramaviveka)* Vasudeva II (Yamaka poet) ।
-। Rṣi, III              । (m. Āryā) also called Traividyeṣa                                                                                                                   ।
-। Parameśvara III       । (Work: Jaiminīya-sūtrārtha-saṃgraha)                                                                                                                ।
+|                       |                                                                                                                                                     |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Rṣi, I (m. Gaurī)     | Bhavadāsa                                                                                                                                           |
+| Parameśvara I         | (Works: *Haricarita, Sumanoramaņī, Juṣadhva*ṅ*karaṇī, Nyāyasamuccaya*)                                                                              |
+| Rṣi, II (m. Gopālikā) | Bhavadāsa,Vāsudeva, Subrahmanya, Śańkara,                                                                                                           |
+| Parameśvara II.       | (Mīmāmsā Commentator, Works: *Gopālikā, Tattvavibhāvanä, Commentary on Nītitattvāvirbhāva, Commentary on Vibhramaviveka)* Vasudeva II (Yamaka poet) |
+| Rṣi, III              | (m. Āryā) also called Traividyeṣa                                                                                                                   |
+| Parameśvara III       | (Work: Jaiminīya-sūtrārtha-saṃgraha)                                                                                                                |
 
 
 

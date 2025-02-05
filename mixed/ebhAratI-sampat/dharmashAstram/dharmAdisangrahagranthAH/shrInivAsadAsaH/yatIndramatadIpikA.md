@@ -266,26 +266,26 @@ the beginning of his work, acknowledges his indebtedness to the former ācāryas
 
 **ABBREVIATIONS**
 
-।              ।                            ।
-।--------------।----------------------------।
-। BG.          । Bhagavadgītā               ।
-। Bṛ. Up.      । Bṛhadāranyaka Upaniṣad     ।
-। Chā. Up.     । Chāndogya Upaniṣad         ।
-। In. Pāñ.     । Introduction to Pāñcarātra ।
-। Kaṭha Up.    । Kaṭha Upaniṣad             ।
-। Kauṣī. Up.   । Kauṣītaki Upaniṣad         ।
-। Mahānār. Up. । Mahānārāyaṇa Upaniṣad      ।
-। Muṇḍ. Up.    । Muṇḍaka Upaniṣad           ।
-। NS.          । Nyāyasūtras                ।
-। PMS.         । Pūrvamīmāṁsāsūtras         ।
-। Praś. Up.    । Praśna Upaniṣad            ।
-। Śvet. Up.    । Śvetāśvatara Upaniṣad      ।
-। Taitt. Up.   । Taittirīya Upaniṣad        ।
-। Taitt. Brā.  । Taittirīyabrāhmaṇa         ।
-। TS.          । Tarkasaṅgraha              ।
-। VP.          । Viṣṇupurāṇa                ।
-। VS.          । Vedāntasūtras              ।
-। YS.          । Yogasūtras                 ।
+|              |                            |
+|--------------|----------------------------|
+| BG.          | Bhagavadgītā               |
+| Bṛ. Up.      | Bṛhadāranyaka Upaniṣad     |
+| Chā. Up.     | Chāndogya Upaniṣad         |
+| In. Pāñ.     | Introduction to Pāñcarātra |
+| Kaṭha Up.    | Kaṭha Upaniṣad             |
+| Kauṣī. Up.   | Kauṣītaki Upaniṣad         |
+| Mahānār. Up. | Mahānārāyaṇa Upaniṣad      |
+| Muṇḍ. Up.    | Muṇḍaka Upaniṣad           |
+| NS.          | Nyāyasūtras                |
+| PMS.         | Pūrvamīmāṁsāsūtras         |
+| Praś. Up.    | Praśna Upaniṣad            |
+| Śvet. Up.    | Śvetāśvatara Upaniṣad      |
+| Taitt. Up.   | Taittirīya Upaniṣad        |
+| Taitt. Brā.  | Taittirīyabrāhmaṇa         |
+| TS.          | Tarkasaṅgraha              |
+| VP.          | Viṣṇupurāṇa                |
+| VS.          | Vedāntasūtras              |
+| YS.          | Yogasūtras                 |
 
 \_\_\_\_\_\_\_\_\_
 

@@ -513,13 +513,13 @@ Buddhist god, the personification of Śūnya, the latter occupying amuch inferio
 
 
 
-।                ।                                                    ।
-।----------------।----------------------------------------------------।
-। Sunayaśrīmitra । (1)Śrī Guhyasamājālaṁkāra-nāma                    ।
-।                । (2)Aṣṭādašapatalavyākhyāna                        ।
-।                । (3)Śri Guhyasamāja-saṁksipta-subodha-sādhana nāma ।
-। Subhāṣita      । T.Śrī Guhyasamājamaṇḍala-vidhi-nāma               ।
-। Sthagana       । śri Guhyasamājatantra-vivarana                     ।
+|                |                                                    |
+|----------------|----------------------------------------------------|
+| Sunayaśrīmitra | (1)Śrī Guhyasamājālaṁkāra-nāma                    |
+|                | (2)Aṣṭādašapatalavyākhyāna                        |
+|                | (3)Śri Guhyasamāja-saṁksipta-subodha-sādhana nāma |
+| Subhāṣita      | T.Śrī Guhyasamājamaṇḍala-vidhi-nāma               |
+| Sthagana       | śri Guhyasamājatantra-vivarana                     |
 
  In the *Jñanasiddhi* of Indrabhūti the *Guhyasamāja* is quotedextensively,**¹** showing the reverence and authority the *Guhyasamāja*enjoyed in his time. The *Advayavajrasaṁgraha* also draws its materials**²** from the *Guhyasamāja* in support of its doctrines, and as Advayavajra belonged to the 10th century A.D., the *Guhyasamāja* appearsto have maintained its authoritative character throughout the Tāntricperiod. The reason why we do not find any mention of the *Guhyasamāja* before Nāgārjuna (7th century A.D.), is because the Tantrawas kept secret among the professors and the doctrines inculcatedtherein were confined to a few adepts for three hundred years untilBuddhist Tantras of the Yoga and Yogatantra classes obtained publicity during the time of the Siddhācāryyas mainly through theirmystic songs, preachings and works.
 
@@ -617,30 +617,30 @@ century nearly 800 years after its composition, and there is, therefore,a very r
 
 CONTENTS.
 
-।                                                        ।
-।--------------------------------------------------------।
-। Preface                                                ।
-। Introduction                                           ।
-। सर्वतथागताधिष्ठानपटलः प्रथमः                           ।
-। बोधिचित्तपटलो द्वितीयः                                 ।
-। वज्रव्यूहो नाम पटलस्तृतीयः                             ।
-। गुह्यकायवाक्चित्तमण्डलपटलश्चतुर्थः                     ।
-। समन्तचर्याग्रपटलः पञ्चमः                               ।
-। कायवाक्चित्ताधिष्ठानपटलः षष्ठः                         ।
-। मन्त्रचर्यापटलः सप्तमः                                 ।
-। चित्तसमयपटलोऽष्टमः                                     ।
-। परमार्थाद्वयतत्त्वार्थसमयपटलो नवमः                     ।
-। सर्वतथागतहृदयसञ्चोदनपटलो दशमः                          ।
-। सर्वतथागतमन्त्रसमयतत्त्ववज्रविद्यापुरुषोत्तमपटल एकादशः ।
-। समयसाधनाग्रनिर्देशपटलो द्वादशः                         ।
-। सर्ववज्रसमयव्यूहतत्त्वार्थभावनासम्बोधिपटलस्त्रयोदशः    ।
-। मन्त्राकर्षणविजृम्भितराजो नाम समाधिपटलश्चतुर्दशः       ।
-। सर्वचित्तसमयसारवज्रसम्भूतिर्नाम पटलः पञ्चदशः           ।
-। सर्वसिद्धिमण्डलवज्राभिसम्बोधिर्नाम पटलः षोडशः          ।
-। सर्वतथागतसमयसम्बरवज्राधिष्ठानपटलः सप्तदशः              ।
-। सर्वगुह्यनिर्देशवज्रज्ञानाधिष्ठानं नाम पटलोऽष्टादशः    ।
-। Index of words                                         ।
-। Index of verses                                        ।
+|                                                        |
+|--------------------------------------------------------|
+| Preface                                                |
+| Introduction                                           |
+| सर्वतथागताधिष्ठानपटलः प्रथमः                           |
+| बोधिचित्तपटलो द्वितीयः                                 |
+| वज्रव्यूहो नाम पटलस्तृतीयः                             |
+| गुह्यकायवाक्चित्तमण्डलपटलश्चतुर्थः                     |
+| समन्तचर्याग्रपटलः पञ्चमः                               |
+| कायवाक्चित्ताधिष्ठानपटलः षष्ठः                         |
+| मन्त्रचर्यापटलः सप्तमः                                 |
+| चित्तसमयपटलोऽष्टमः                                     |
+| परमार्थाद्वयतत्त्वार्थसमयपटलो नवमः                     |
+| सर्वतथागतहृदयसञ्चोदनपटलो दशमः                          |
+| सर्वतथागतमन्त्रसमयतत्त्ववज्रविद्यापुरुषोत्तमपटल एकादशः |
+| समयसाधनाग्रनिर्देशपटलो द्वादशः                         |
+| सर्ववज्रसमयव्यूहतत्त्वार्थभावनासम्बोधिपटलस्त्रयोदशः    |
+| मन्त्राकर्षणविजृम्भितराजो नाम समाधिपटलश्चतुर्दशः       |
+| सर्वचित्तसमयसारवज्रसम्भूतिर्नाम पटलः पञ्चदशः           |
+| सर्वसिद्धिमण्डलवज्राभिसम्बोधिर्नाम पटलः षोडशः          |
+| सर्वतथागतसमयसम्बरवज्राधिष्ठानपटलः सप्तदशः              |
+| सर्वगुह्यनिर्देशवज्रज्ञानाधिष्ठानं नाम पटलोऽष्टादशः    |
+| Index of words                                         |
+| Index of verses                                        |
 
 
 

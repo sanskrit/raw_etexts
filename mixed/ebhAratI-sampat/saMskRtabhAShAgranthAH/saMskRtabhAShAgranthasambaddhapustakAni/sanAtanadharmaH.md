@@ -78,14 +78,14 @@ PART I.
 
 BASIC HINDU RELIGIOUS IDEAS.
 
-।              ।                                   ।
-।--------------।-----------------------------------।
-। CHAPTER I.   । THE ONE EXISTENCE.                ।
-। CHAPTER II.  । THE MANY.                         ।
-। CHAPTER III. । REBIRTH.                          ।
-। CHAPTER IV.  । KARMA.                            ।
-। CHAPTER V.   । SACRIFICE.                        ।
-। CHAPTER VI.  । THE VISIBLE AND INVISIBLE WORLDS. ।
+|              |                                   |
+|--------------|-----------------------------------|
+| CHAPTER I.   | THE ONE EXISTENCE.                |
+| CHAPTER II.  | THE MANY.                         |
+| CHAPTER III. | REBIRTH.                          |
+| CHAPTER IV.  | KARMA.                            |
+| CHAPTER V.   | SACRIFICE.                        |
+| CHAPTER VI.  | THE VISIBLE AND INVISIBLE WORLDS. |
 
 **PART II.**
 
@@ -93,15 +93,15 @@ GENERAL HINDU RELIGIOUS.
 
 CUSTOMS AND RITES.
 
-।              ।                            ।
-।--------------।----------------------------।
-। CHAPTER I.   । THE SAMSKÅRAS.             ।
-। CHAPTER II.  । SHRÂDDHA.                  ।
-। CHAPTER III. । SHAUCHAM.                  ।
-। CHAPTER IV.  । THE FIVE DAILY SACRIFICES. ।
-। CHAPTER V.   । WORSHIP.                   ।
-। CHAPTER VI.  । THE FOUR STAGES OF LIFE.   ।
-। CHAPTER VII. । THE CASTE SYSTEM.          ।
+|              |                            |
+|--------------|----------------------------|
+| CHAPTER I.   | THE SAMSKÅRAS.             |
+| CHAPTER II.  | SHRÂDDHA.                  |
+| CHAPTER III. | SHAUCHAM.                  |
+| CHAPTER IV.  | THE FIVE DAILY SACRIFICES. |
+| CHAPTER V.   | WORSHIP.                   |
+| CHAPTER VI.  | THE FOUR STAGES OF LIFE.   |
+| CHAPTER VII. | THE CASTE SYSTEM.          |
 
 
 
@@ -109,19 +109,19 @@ CUSTOMS AND RITES.
 
 **ETHICAL TEACHINGS.**
 
-।               ।                                                                       ।
-।---------------।-----------------------------------------------------------------------।
-। CHAPTER I.    । ETHICAL SCIENCE, WHATIT IS.                                          ।
-। CHAPTER II.   । THE FOUNDATION OF ETHICS, AS GIVEN BY RELIGION.                       ।
-। CHAPTER III.  । RIGHT AND WRONG.                                                      ।
-। CHAPTER IV.   । THE STANDARD OF ETHICS.                                               ।
-। CHAPTER V.    । VIRTUES & THEIR FOUNDATION.                                           ।
-। CHAPTER VI.   । BLISS AND EMOTIONS.                                                   ।
-। CHAPTER VII.  । "SELF-REGARDING" VIRTUES.                                             ।
-। CHAPTER VIII. । VIRTUES AND VICES INHUMAN RELATIONS.THOSE IN RELATION TO SUPERIORS. ।
-। CHAPTER IX.   । VIRTUES AND VICES IN RELATION TO EQUALS...                            ।
-। CHAPTER X.    । VIRTUES & VICES IN RELATION TO INFERIORS....                          ।
-। CHAPTER XI.   । THE RE-ACTION OF VIRTUES AND VICES ON EACH OTHER.                     ।
+|               |                                                                       |
+|---------------|-----------------------------------------------------------------------|
+| CHAPTER I.    | ETHICAL SCIENCE, WHATIT IS.                                          |
+| CHAPTER II.   | THE FOUNDATION OF ETHICS, AS GIVEN BY RELIGION.                       |
+| CHAPTER III.  | RIGHT AND WRONG.                                                      |
+| CHAPTER IV.   | THE STANDARD OF ETHICS.                                               |
+| CHAPTER V.    | VIRTUES & THEIR FOUNDATION.                                           |
+| CHAPTER VI.   | BLISS AND EMOTIONS.                                                   |
+| CHAPTER VII.  | "SELF-REGARDING" VIRTUES.                                             |
+| CHAPTER VIII. | VIRTUES AND VICES INHUMAN RELATIONS.THOSE IN RELATION TO SUPERIORS. |
+| CHAPTER IX.   | VIRTUES AND VICES IN RELATION TO EQUALS...                            |
+| CHAPTER X.    | VIRTUES & VICES IN RELATION TO INFERIORS....                          |
+| CHAPTER XI.   | THE RE-ACTION OF VIRTUES AND VICES ON EACH OTHER.                     |
 
 
 

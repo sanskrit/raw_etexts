@@ -124,36 +124,36 @@ M. S. Apte.
 ![](../books_images/U-IMG-1736146683Untitled.jpg)  
 FIRST SERIES.
 
-।          ।                                                           ।
-|:--------:।-----------------------------------------------------------।
-।    I.    । The three fishes                                          ।
-।   II\.   । The vulture and the cat                                   ।
-।  III\.   । An account of Mâlavikâ                                    ।
-।   IV\.   । Pârvatî practising penance                                ।
-।    V.    । A specimen of a letter                                    ।
-।   VI\.   । A thunder-storm                                           ।
-।  VII\.   । Yayâti with renovated youth                               ।
-।  VIII\.  । Introduction of Patralekhâ to Chandrapida                 ।
-।   IX\.   । Atreyi and Vásanti (a Sylvan deity)                       ।
-।   XI\.   । The Yaksha's abode                                        ।
-।  XII\.   । A foundling                                               ।
-।  XIII\.  । An ideal king                                            ।
-।  XIV\.   । Chandrapida requesting Mahâsvetà to tell her story        ।
-।   XV\.   । A contrast                                               ।
-।  XVI\.   । The heroic and fiery-tempered Asvatthâman Part I          ।
-।  XVII\.  ।    "   "   "  " Part II                    ।
-।  XVII\.  । Aja's lamentation on the death of his wife                ।
-। XVIII\.  । Advice of Sukanâsa to Chandràpida                         ।
-।  XIX\.   । The evils of anarchy                                      ।
-।   XX\.   । Vidura's advice to Dhritarashtra part I                   ।
-।  XXI\.   । "  "   "       "     Part II         ।
-।  XXII\.  । The tale of Pururavas and Urvasi part I                   ।
-। XXIII\.  ।    "   "    "     "       Part II ।
-।  XXIV\.  । Râmâ's return journey from Lanka to Ayodhyâ               ।
-।  XXV\.   । Another foundling                                         ।
-।  XXVI\.  । Dasaratha and Visvâmitra                                  ।
-। XXVII\.  । Draupadi and Yudhishthira                                 ।
-। XXVIII\. । Brahman is the efficient cause of the universe            ।
+|          |                                                           |
+|:--------:|-----------------------------------------------------------|
+|    I.    | The three fishes                                          |
+|   II\.   | The vulture and the cat                                   |
+|  III\.   | An account of Mâlavikâ                                    |
+|   IV\.   | Pârvatî practising penance                                |
+|    V.    | A specimen of a letter                                    |
+|   VI\.   | A thunder-storm                                           |
+|  VII\.   | Yayâti with renovated youth                               |
+|  VIII\.  | Introduction of Patralekhâ to Chandrapida                 |
+|   IX\.   | Atreyi and Vásanti (a Sylvan deity)                       |
+|   XI\.   | The Yaksha's abode                                        |
+|  XII\.   | A foundling                                               |
+|  XIII\.  | An ideal king                                            |
+|  XIV\.   | Chandrapida requesting Mahâsvetà to tell her story        |
+|   XV\.   | A contrast                                               |
+|  XVI\.   | The heroic and fiery-tempered Asvatthâman Part I          |
+|  XVII\.  |    "   "   "  " Part II                    |
+|  XVII\.  | Aja's lamentation on the death of his wife                |
+| XVIII\.  | Advice of Sukanâsa to Chandràpida                         |
+|  XIX\.   | The evils of anarchy                                      |
+|   XX\.   | Vidura's advice to Dhritarashtra part I                   |
+|  XXI\.   | "  "   "       "     Part II         |
+|  XXII\.  | The tale of Pururavas and Urvasi part I                   |
+| XXIII\.  |    "   "    "     "       Part II |
+|  XXIV\.  | Râmâ's return journey from Lanka to Ayodhyâ               |
+|  XXV\.   | Another foundling                                         |
+|  XXVI\.  | Dasaratha and Visvâmitra                                  |
+| XXVII\.  | Draupadi and Yudhishthira                                 |
+| XXVIII\. | Brahman is the efficient cause of the universe            |
 
 
 
@@ -914,7 +914,7 @@ Part I.
 
   अपि च ताते चापद्वितीये रणधुरां वहति को भयस्यावकाशः।
 
- ।नेपथ्ये। कुतोऽद्यापि ते तातः।
+ |नेपथ्ये| कुतोऽद्यापि ते तातः|
 
  **अश्वत्थामा**—(श्रुत्वा ) किं बूथ। कुतोऽद्यापि ते तात इति।
 

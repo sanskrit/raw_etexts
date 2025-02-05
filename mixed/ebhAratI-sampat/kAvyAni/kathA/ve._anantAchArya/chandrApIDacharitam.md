@@ -401,105 +401,105 @@ title = "चन्द्रापीडचरितम्"
 
 **N B This follows page order**
 
-।                                                       ।                                                                ।
-।-------------------------------------------------------।----------------------------------------------------------------।
-। 1 विदिशामिधानाया नगर्याम्=in the city called Vidisha  । आत्मीय नियताम्=make your own                                   ।
-। नवे वयसि यतमानोऽपि=though he was in fresh youth       । अपससार=retired                                                 ।
-। तृणवत्=as a grass (as trifle )                        । विमुक्ताहारम्= without own food and deprived of pearl necklace ।
-। अयधूत..मुख=who has spurned all pleasures of the harem । आदित प्रभृति=from the beginning                                ।
-। मृगयादिभिरेव=by hunting etc                           । कार्त्स्न्येन=in full                                          ।
-। ...पोदितहृदय=..amusing his mind                       । जीर्ण=worn out                                                 ।
-। अयाप..=spent                                          । शाल्मलीवृक्ष =silk cotton tree                                 ।
-। एकदा=once                                             । तस्य फोटो=in a hallow of thetree                              ।
-। आ......=sitting inassemblyhall                       । ..वर=a hunter                                                  ।
-। प....=cage                                            । क्षुत्पिपासातुर=tortured by hunger and thirst                  ।
-। .....=having approched him                            । वि..ष्टमा...=moving about                                      ।
-।                                                      । ....=curiosity                                                 ।
+|                                                       |                                                                |
+|-------------------------------------------------------|----------------------------------------------------------------|
+| 1 विदिशामिधानाया नगर्याम्=in the city called Vidisha  | आत्मीय नियताम्=make your own                                   |
+| नवे वयसि यतमानोऽपि=though he was in fresh youth       | अपससार=retired                                                 |
+| तृणवत्=as a grass (as trifle )                        | विमुक्ताहारम्= without own food and deprived of pearl necklace |
+| अयधूत..मुख=who has spurned all pleasures of the harem | आदित प्रभृति=from the beginning                                |
+| मृगयादिभिरेव=by hunting etc                           | कार्त्स्न्येन=in full                                          |
+| ...पोदितहृदय=..amusing his mind                       | जीर्ण=worn out                                                 |
+| अयाप..=spent                                          | शाल्मलीवृक्ष =silk cotton tree                                 |
+| एकदा=once                                             | तस्य फोटो=in a hallow of thetree                              |
+| आ......=sitting inassemblyhall                       | ..वर=a hunter                                                  |
+| प....=cage                                            | क्षुत्पिपासातुर=tortured by hunger and thirst                  |
+| .....=having approched him                            | वि..ष्टमा...=moving about                                      |
+|                                                      | ....=curiosity                                                 |
 
 
 
-।                                                     ।                                                                       ।
-।-----------------------------------------------------।-----------------------------------------------------------------------।
-। अहमहमिकासमानीतेन = brought in with great enthusiasm । बालप्रिया = ceremonies belonging to childhood                         ।
-। अहमहमिका = a running forword with great emulation   । यथास्वम् = then own                                                   ।
-। नीवार = grains growing without cultivation          । पात्रवशात् = by the capacity of the worthy pupil                      ।
-। उपचर्यमाणम् = served with                           । प्रत्यतिष्ठिपत् = inaugurated                                         ।
-। दिव्येन चक्षुषा = through his devine vision         । अयोनिजम् = not born of the womb                                       ।
-। अपरस्मिन् जन्मनि = in previous birth                । अश्वतल्लजम् = an excellent horse                                      ।
-। लीलोपघान = pleasure cushions                        । शात...वीम् = belonging to Indra e g East                              ।
-। चरमे यामिनीयामे = in the last quarter of the night  । त्रिशङ्कतिलकाम् = which has Thrishanku as its sign e g South          ।
-। 3 सप...= fulfilled                                 । वरुणलाञ्छना = marked by Varuna e g West                              ।
-। विकच = full bloomed                                 । 4 सप्तर्षिताराशबलाम् = variegated in colour by seven sages, e g North ।
-। मनोरमा = name of the wife of Shukanasa              । विजिग्ये = conquered                                                 ।
-। अवितथपश = fruitfull                                 । विश्रामहेतो = for repose                                              ।
-। प्रशस्ताया वेलायाम् = in an auspicious hour         । यदृच्छया = incidentally                                               ।
-। विप्रजनोचितम् = Suitable to brahmans                । समुखागतम् = which stood before him                                    ।
-।                                                    । प्रस्तरप्रतिहतगतिप्रसर= his                                          ।
+|                                                     |                                                                       |
+|-----------------------------------------------------|-----------------------------------------------------------------------|
+| अहमहमिकासमानीतेन = brought in with great enthusiasm | बालप्रिया = ceremonies belonging to childhood                         |
+| अहमहमिका = a running forword with great emulation   | यथास्वम् = then own                                                   |
+| नीवार = grains growing without cultivation          | पात्रवशात् = by the capacity of the worthy pupil                      |
+| उपचर्यमाणम् = served with                           | प्रत्यतिष्ठिपत् = inaugurated                                         |
+| दिव्येन चक्षुषा = through his devine vision         | अयोनिजम् = not born of the womb                                       |
+| अपरस्मिन् जन्मनि = in previous birth                | अश्वतल्लजम् = an excellent horse                                      |
+| लीलोपघान = pleasure cushions                        | शात...वीम् = belonging to Indra e g East                              |
+| चरमे यामिनीयामे = in the last quarter of the night  | त्रिशङ्कतिलकाम् = which has Thrishanku as its sign e g South          |
+| 3 सप...= fulfilled                                 | वरुणलाञ्छना = marked by Varuna e g West                              |
+| विकच = full bloomed                                 | 4 सप्तर्षिताराशबलाम् = variegated in colour by seven sages, e g North |
+| मनोरमा = name of the wife of Shukanasa              | विजिग्ये = conquered                                                 |
+| अवितथपश = fruitfull                                 | विश्रामहेतो = for repose                                              |
+| प्रशस्ताया वेलायाम् = in an auspicious hour         | यदृच्छया = incidentally                                               |
+| विप्रजनोचितम् = Suitable to brahmans                | समुखागतम् = which stood before him                                    |
+|                                                    | प्रस्तरप्रतिहतगतिप्रसर= his                                          |
 
 
 
-।                                                   ।                                                                 ।
-।---------------------------------------------------।-----------------------------------------------------------------।
-। movement being checked by rocks                   । पश्चिमया = western                                              ।
-। अभिनिवेशः = attachment                            । हिमकरकिरणावदातवर्णाम् = as white as the rays of the moon       ।
-। परिभ्रमत = wandering                              । 6.अनिमेषपक्ष्मणा = unwinking                                    ।
-। मर्त्यः= a man                                   । सप्रश्रयम् = with reverence                                     ।
-। बहुशः = often                                     । किंनरमिथुनानुसरणप्रसङ्गेन = in persuit of the pair of kinnaras ।
-। उत्तरेण सुवर्णपुरम् = to thenorth of Suvarnapura । भिक्षाकपालम् = begger's boul                                    ।
-। निर्मानुषम् = uninhabited                         । सयम्य = tying up                                                ।
-। 5. अंशुमाली= the sun                            । प्रस....णजलम्= water of the torrent                             ।
-। परिभ्रान्तः = tired                               ।                                                                ।
-। पर्याणम् = a saddle                               । उपस्पृश्य आचम्य = having rinsed his....                        ।
-। ...लीन = bridle                                   ।                                                                ।
-। लुठितोत्थितम् = having rolled himself             ।                                                                 ।
-। यवसग्रासम् = a few mouth                          ।                                                                 ।
+|                                                   |                                                                 |
+|---------------------------------------------------|-----------------------------------------------------------------|
+| movement being checked by rocks                   | पश्चिमया = western                                              |
+| अभिनिवेशः = attachment                            | हिमकरकिरणावदातवर्णाम् = as white as the rays of the moon       |
+| परिभ्रमत = wandering                              | 6.अनिमेषपक्ष्मणा = unwinking                                    |
+| मर्त्यः= a man                                   | सप्रश्रयम् = with reverence                                     |
+| बहुशः = often                                     | किंनरमिथुनानुसरणप्रसङ्गेन = in persuit of the pair of kinnaras |
+| उत्तरेण सुवर्णपुरम् = to thenorth of Suvarnapura | भिक्षाकपालम् = begger's boul                                    |
+| निर्मानुषम् = uninhabited                         | सयम्य = tying up                                                |
+| 5. अंशुमाली= the sun                            | प्रस....णजलम्= water of the torrent                             |
+| परिभ्रान्तः = tired                               |                                                                |
+| पर्याणम् = a saddle                               | उपस्पृश्य आचम्य = having rinsed his....                        |
+| ...लीन = bridle                                   |                                                                |
+| लुठितोत्थितम् = having rolled himself             |                                                                 |
+| यवसग्रासम् = a few mouth                          |                                                                 |
 
 
 
-।                                                         ।                                                     ।
-।---------------------------------------------------------।-----------------------------------------------------।
-। मधुमास = month of Chaitra                               । लज्जामन्थरम् = slowly with shyness                  ।
-। उपनीतम् = carried on                                    । 11. निर्भर्त्स्यताम् = let be reproached            ।
-। अभिभूतान्यपरिमलम् = suppressing all other smells        । आशीविषविषवेगविषमाणाम् = as cruel as snake–poison    ।
-। सवयसा = with his friend                                 । प्राणिमि = I live                                   ।
-। कर्णावतस = ear ornament                                 । अकालान्तरक्षमः = cannot brook any more delay        ।
-। परवशीकृता = over powered                                । अतिह्नेषणम् = shameful                              ।
-। सविभ्रमम् = gracefully                                  । यत् प्राप्तकालम् = what is needful for the occasion ।
-। तरलताम् अनयत् = unsteadied                              । अनुवध्नाति = entangles                              ।
-। कौतुकम् = curiosity                                     । उपलभ्य = having known                               ।
-। 9. कर्णपूरीकृता = was made an ornament to cars          । 12. किंकर्तव्यतामूढा = not knowing what to do       ।
-। ..र्चत = desired                                        । यदत्र साप्रतम् = = what is proper to do here        ।
-। प्रत्यासीदति = approaches                               । तालवृन्त = a fan                                    ।
-। उदचलम् = I went                                         । 13.अस्पन्दत = throbbed dence                        ।
-। निस्पन्दम् = motionless                                 । विप्रकर्षात् = owing to the distance                ।
-। मदन्तरङ्गनिर्विशेषया = possessing my perfect confidence । उपालक्ष्यम् = I heard                               ।
-। 10.अत्यवाहयम् = I spent                                 । निशीथ = midnight                                    ।
-। प्राहिणवम् = I sent                                     । मुषितम् stolen                                      ।
-। विवक्षुः = desiring to say                              ।                                                    ।
-। अव्यतिरिक्ता = not different                            ।                                                     ।
+|                                                         |                                                     |
+|---------------------------------------------------------|-----------------------------------------------------|
+| मधुमास = month of Chaitra                               | लज्जामन्थरम् = slowly with shyness                  |
+| उपनीतम् = carried on                                    | 11. निर्भर्त्स्यताम् = let be reproached            |
+| अभिभूतान्यपरिमलम् = suppressing all other smells        | आशीविषविषवेगविषमाणाम् = as cruel as snake–poison    |
+| सवयसा = with his friend                                 | प्राणिमि = I live                                   |
+| कर्णावतस = ear ornament                                 | अकालान्तरक्षमः = cannot brook any more delay        |
+| परवशीकृता = over powered                                | अतिह्नेषणम् = shameful                              |
+| सविभ्रमम् = gracefully                                  | यत् प्राप्तकालम् = what is needful for the occasion |
+| तरलताम् अनयत् = unsteadied                              | अनुवध्नाति = entangles                              |
+| कौतुकम् = curiosity                                     | उपलभ्य = having known                               |
+| 9. कर्णपूरीकृता = was made an ornament to cars          | 12. किंकर्तव्यतामूढा = not knowing what to do       |
+| ..र्चत = desired                                        | यदत्र साप्रतम् = = what is proper to do here        |
+| प्रत्यासीदति = approaches                               | तालवृन्त = a fan                                    |
+| उदचलम् = I went                                         | 13.अस्पन्दत = throbbed dence                        |
+| निस्पन्दम् = motionless                                 | विप्रकर्षात् = owing to the distance                |
+| मदन्तरङ्गनिर्विशेषया = possessing my perfect confidence | उपालक्ष्यम् = I heard                               |
+| 10.अत्यवाहयम् = I spent                                 | निशीथ = midnight                                    |
+| प्राहिणवम् = I sent                                     | मुषितम् stolen                                      |
+| विवक्षुः = desiring to say                              |                                                    |
+| अव्यतिरिक्ता = not different                            |                                                     |
 
 
 
-।                                                  ।                                              ।
-।--------------------------------------------------।----------------------------------------------।
-। मुक्तैकताराक्रन्दा = uttering a loud cry         । दारक = a boy                                 ।
-। प्रस्सलन्ती = with falteringsteps              । विरतवचसि तस्याम् = as she finished speaking  ।
-। 14. चिताम् = pile                                । विधुर = distressed                           ।
-। मृणाल= lotus fibres                             । 17. मोहविलसितम् = foolish freak              ।
-। उपरतम् = dead                                    । भुजलतावष्टम्भेन = resting her arms           ।
-। परिकरम् आवध्य = having girt up his loins         । 18. प्रागल्भ्य = daring action               ।
-। क्षपितवती = spent                                । 19.परिमित = limited in number                ।
-। वल्कलोपान्तेन = with edge of bark garment        । चपला = fickle minded                         ।
-। 15. संस्थाप्य = having soon thed                । महाश्वेताव्यतिकरेण = on behalf of Mahashveta ।
-। पश्चिमां सन्ध्याम् = evening worships of Sandhya । विप्रलम्भकः = decciving person               ।
-। कमण्डलु = a water pot usedby ascetics           । सहभुवः= inherent                            ।
-। पाणिम् अप्रदीत् = married                        । 20. वितान canopy                            ।
-। उदपादि = was born                                । निरभिमानताम् = humilty                       ।
-। वर्णपरपग = news going fromcar to ear            । जिगमियति = wishes to go                      ।
-। 16. अवितथ कुरु = fulfil                          । अनुरोधः = obligation                         ।
-। ...सर्जिता = was sent                            । न श्रद्द्धाति = has no faith                 ।
-। माम् अन्तरेण = about me                          । परिजनवषागु= amongst your attendents         ।
-। प्रभाति...= morning rites                       । 21. स्कन्धा..रम्= army                      ।
+|                                                  |                                              |
+|--------------------------------------------------|----------------------------------------------|
+| मुक्तैकताराक्रन्दा = uttering a loud cry         | दारक = a boy                                 |
+| प्रस्सलन्ती = with falteringsteps              | विरतवचसि तस्याम् = as she finished speaking  |
+| 14. चिताम् = pile                                | विधुर = distressed                           |
+| मृणाल= lotus fibres                             | 17. मोहविलसितम् = foolish freak              |
+| उपरतम् = dead                                    | भुजलतावष्टम्भेन = resting her arms           |
+| परिकरम् आवध्य = having girt up his loins         | 18. प्रागल्भ्य = daring action               |
+| क्षपितवती = spent                                | 19.परिमित = limited in number                |
+| वल्कलोपान्तेन = with edge of bark garment        | चपला = fickle minded                         |
+| 15. संस्थाप्य = having soon thed                | महाश्वेताव्यतिकरेण = on behalf of Mahashveta |
+| पश्चिमां सन्ध्याम् = evening worships of Sandhya | विप्रलम्भकः = decciving person               |
+| कमण्डलु = a water pot usedby ascetics           | सहभुवः= inherent                            |
+| पाणिम् अप्रदीत् = married                        | 20. वितान canopy                            |
+| उदपादि = was born                                | निरभिमानताम् = humilty                       |
+| वर्णपरपग = news going fromcar to ear            | जिगमियति = wishes to go                      |
+| 16. अवितथ कुरु = fulfil                          | अनुरोधः = obligation                         |
+| ...सर्जिता = was sent                            | न श्रद्द्धाति = has no faith                 |
+| माम् अन्तरेण = about me                          | परिजनवषागु= amongst your attendents         |
+| प्रभाति...= morning rites                       | 21. स्कन्धा..रम्= army                      |
 
 
 

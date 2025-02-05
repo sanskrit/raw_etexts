@@ -46,9 +46,9 @@ title = "अद्वैतमकरन्दः"
 
 
 
-।                                                                                    ।
-|:----------------------------------------------------------------------------------:।
-। PDF Creation and Uploading by: Hari Parshad Das (HPD) \_\_\_ on 15 November 2014. ।
+|                                                                                    |
+|:----------------------------------------------------------------------------------:|
+| PDF Creation and Uploading by: Hari Parshad Das (HPD) \_\_\_ on 15 November 2014. |
 
         **       **
 

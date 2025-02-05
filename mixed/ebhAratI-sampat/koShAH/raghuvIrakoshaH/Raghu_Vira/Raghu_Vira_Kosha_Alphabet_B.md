@@ -3524,22 +3524,22 @@ or plantings) **क्षतपूरण**
 
 **BEAUFORT'S SCALE**
 
-।         ।                 ।                ।                   ।
-।---------।-----------------|:--------------:|:-----------------:।
-। **No.** ।                 ।     m.p.h      ।                   ।
-। **0**   । calm            । निर्वात, शान्त ।         0         ।
-। **1**   । light air       ।  अतिमन्द समीर  ।        1-3        ।
-। **2**   । light breeze    ।   मन्द समीर    ।        4-7        ।
-। **3**   । gentle breeze   ।    धीर समीर    ।       8-12        ।
-। **4**   । moderate breeze ।      समीर      ।       13-18       ।
-। **5**   । fresh breeze    ।    मलयानिल     ।       19-24       ।
-। **6**   । strong breeze   ।     प्रवात     ।       25-31       ।
-। **7**   । moderate gale   ।     अतिवात     ।       32-39       ।
-। **8**   । fresh gale      ।     महावात     ।       39-46       ।
-। **9**   । strong gale     ।    चण्डवात     ।       47-54       ।
-। **10**  । whole gale      ।  प्रचण्ड वात   ।       55-63       ।
-। **11**  । storm           ।    प्रकम्पन    ।       64-75       ।
-। 12      । hurricane       ।    प्रभम्जन    । above 75, mean 92 ।
+|         |                 |                |                   |
+|---------|-----------------|:--------------:|:-----------------:|
+| **No.** |                 |     m.p.h      |                   |
+| **0**   | calm            | निर्वात, शान्त |         0         |
+| **1**   | light air       |  अतिमन्द समीर  |        1-3        |
+| **2**   | light breeze    |   मन्द समीर    |        4-7        |
+| **3**   | gentle breeze   |    धीर समीर    |       8-12        |
+| **4**   | moderate breeze |      समीर      |       13-18       |
+| **5**   | fresh breeze    |    मलयानिल     |       19-24       |
+| **6**   | strong breeze   |     प्रवात     |       25-31       |
+| **7**   | moderate gale   |     अतिवात     |       32-39       |
+| **8**   | fresh gale      |     महावात     |       39-46       |
+| **9**   | strong gale     |    चण्डवात     |       47-54       |
+| **10**  | whole gale      |  प्रचण्ड वात   |       55-63       |
+| **11**  | storm           |    प्रकम्पन    |       64-75       |
+| 12      | hurricane       |    प्रभम्जन    | above 75, mean 92 |
 
 **Beaumontia grandiflora** (a strikingly handsome climber, which is frequentlygrown in
 

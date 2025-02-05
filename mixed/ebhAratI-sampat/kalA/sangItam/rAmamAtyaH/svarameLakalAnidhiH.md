@@ -119,11 +119,11 @@ TRIPLICANE,                   *****
 
 **CONTENTS**
 
-।                  ।
-।------------------।
-। **INTRODUCTION** ।
-। **TEXT  **     ।
-। **TRANSLATION**  ।
+|                  |
+|------------------|
+| **INTRODUCTION** |
+| **TEXT  **     |
+| **TRANSLATION**  |
 
 
 
@@ -322,31 +322,31 @@ Nagmut-es-Asphi, Sangithakalpadruma*, and *Lakshyasangith—*all these works cam
   ‘The svaras arise from the srutis in such a way that Shadja takes *the 4th sruti* of the Vina, Rishabha *the 7th*, Gândhâra *the 9th*, Madhyama *the 13th,* Panchama *the 17th,* Dhaivatha *the 20th,*and Nishāda *the 22nd*.'  
   The *Sudha*-svaras, which were *common* between Shârngadêv and Râmâmâtya, may be tabulated thus :-
 
-।                      ।                     ।
-|:--------------------:|:-------------------:।
-। **Number of Srutis** । ***Sudha*-Svaras.** ।
-।          1           ।                    ।
-।          2           ।                    ।
-।          3           ।                    ।
-।        **4**         ।       **Sa**        ।
-।          5           ।                    ।
-।          6           ।                    ।
-।        **7**         ।       **Ri**        ।
-।          8           ।                    ।
-।        **9**         ।       **Ga**        ।
-।          10          ।                    ।
-।          11          ।                    ।
-।          12          ।                    ।
-।        **13**        ।       **Ma**        ।
-।          14          ।                    ।
-।          15          ।                    ।
-।          16          ।                    ।
-।        **17**        ।       **Pa**        ।
-।          18          ।                    ।
-।          19          ।                    ।
-।        **20**        ।       **Dha**       ।
-।          21          ।                    ।
-।        **22**        ।       **Ni**        ।
+|                      |                     |
+|:--------------------:|:-------------------:|
+| **Number of Srutis** | ***Sudha*-Svaras.** |
+|          1           |                    |
+|          2           |                    |
+|          3           |                    |
+|        **4**         |       **Sa**        |
+|          5           |                    |
+|          6           |                    |
+|        **7**         |       **Ri**        |
+|          8           |                    |
+|        **9**         |       **Ga**        |
+|          10          |                    |
+|          11          |                    |
+|          12          |                    |
+|        **13**        |       **Ma**        |
+|          14          |                    |
+|          15          |                    |
+|          16          |                    |
+|        **17**        |       **Pa**        |
+|          18          |                    |
+|          19          |                    |
+|        **20**        |       **Dha**       |
+|          21          |                    |
+|        **22**        |       **Ni**        |
 
   As regards the *Vikritha*-svaras, both Shârngadêv and Râmâmâtya *differed* from each other. While Shârngadêv presentedto us so many as twelve *Vikritha*-svaras, Râmâmâtya found, *inactual practice*, only seven. He therefore recognised only thoseseven and left out the remaining five.  
   Shârngadêv worked up his twelve *Vikritha*-svaras thus :-  
@@ -496,16 +496,16 @@ sums up ‘the Rule of the ancient *Sudha*-Svaras,' according to which the seven
   Another explanation Mr. E. Clements attempted to give. The ancient text-books on music took the Vina-point of [view](# "सुव्यक्तमेव वीणायामस्यार्थस्य निदर्शनम्   Svaramélakalänidhi.") ;and almost all the ancient terms of music were derived from stringed instruments with frets, which gave a series of semitonesup to a certain point and, then, a scale of tones and semitones.This latter scale (of tones and semitones)was, in the normalposition of the frets, known as the *Sudha*-Scale and the notes itcomprised were called [*Sudha*-Svaras](# "Cf. Ragas of Tanjore, page 15.").  
   The following tabular [statement](# "Vide Hindu Music, page 15.")of Mr. Bulwant Trimbuckseems to strengthen the position of Mr. Clements :—
 
-।        ।           ।        ।
-|:------:|:---------:|:------:।
-। Svaras । Intervals । Srutis ।
-।   Sa   ।    5-3    ।   4    ।
-।   Ri   ।   4-16    ।   3    ।
-।   Ga   ।    2-3    ।   2    ।
-।   Ma   ।    3-9    ।   4    ।
-।   Pa   ।   3-12    ।   4    ।
-।  Dha   ।   3-12    ।   3    ।
-।   Ni   ।    1-5    ।   2    ।
+|        |           |        |
+|:------:|:---------:|:------:|
+| Svaras | Intervals | Srutis |
+|   Sa   |    5-3    |   4    |
+|   Ri   |   4-16    |   3    |
+|   Ga   |    2-3    |   2    |
+|   Ma   |    3-9    |   4    |
+|   Pa   |   3-12    |   4    |
+|  Dha   |   3-12    |   3    |
+|   Ni   |    1-5    |   2    |
 
 (FIG. 5)
 
@@ -907,30 +907,30 @@ own—as an 'infêrior', and therefore disregardable, Râga as Râmâmâtya had 
  (2) Panchasruti *Ri* and *Dha* should be deemed to be the modern Chathusruti*Ri* and *Dha*.  
  (3) Venkatamakhi's Sudha and Shatsruti Svaras should be deemed to be the same as Râmâmâtya's.
 
-।            ।                                     ।                                ।                ।
-|:----------:|:-----------------------------------:|:------------------------------:|:--------------:।
-। **Number** ।    **Râmâmâtya's Twenty Mêlas**     ।        **Modern Mêlas**        ।                ।
-।            ।                                     ।          **Carnatic**          । **Hindustani** ।
-।     1      ।  Mukhâri         **...**   ।  Kanakângi **...**  ।               ।
-।     2      ।    Mâlavagowla  **...**     ।     Mayâmâlavagowla**...**     ।   Bhairava.    ।
-।     3      ।  Srirâga **...**  ।    Kharaharapriya  **...**    ।     Kâfi.      ।
-।     4      ।    Sâranganâta **...**     ।     Sankarâbharana **...**     ।    Bilâval.    ।
-।     5      ।  Hindôla **...**   ।   Nâtabhairavi **...**   ।    Asâvêri.    ।
-।     6      ।      Sudharâmakriya **...**      ।    Kâmavardhani **...**     ।    Poorvi.     ।
-।     7      ।   Dêsâkshi **...**    । Soolini **...** ।               ।
-।     8      ।      Kannadagowla **...**      ।   Vâgadisvari **...**   ।               ।
-।     9      ।    Sudhanâta **...**     ।  Chalanâta **...**   ।               ।
-।     10     । Ahiri **...**  । Girvâni **...** ।               ।
-।     11     ।      Nâdarâmakriya **...**      ।  Dhênuka **...**   ।               ।
-।     12     ।    Sudhavarâli **...**    । Jâlavarâli **...**  ।               ।
-।     13     ।   Rithigowla **...**    ।   Vanaspathi **...**   ।               ।
-।     14     ।     Vasanthabhairavi **...**      ।    Vakulâbharana **...**     ।               ।
-।     15     ।    Kêdâragowla **...**     ।     Sankarâbharana **...**     ।               ।
-।     16     । Hêjujji **...** ।     Mâyamâlavagowla**...**     ।               ।
-।     17     ।   Sâmavarâli **...**    ।   Gânamurthi **...**   ।               ।
-।     18     ।   Rêvagupthi **...**    ।   Gâyakapriya **...**    ।               ।
-।     19     ।   Sâmantha **...**    ।  Chalanâta **...**   ।               ।
-।     20     ।  Kâmbhoji **...**   ।     Sankarâbharana **...**     ।               ।
+|            |                                     |                                |                |
+|:----------:|:-----------------------------------:|:------------------------------:|:--------------:|
+| **Number** |    **Râmâmâtya's Twenty Mêlas**     |        **Modern Mêlas**        |                |
+|            |                                     |          **Carnatic**          | **Hindustani** |
+|     1      |  Mukhâri         **...**   |  Kanakângi **...**  |               |
+|     2      |    Mâlavagowla  **...**     |     Mayâmâlavagowla**...**     |   Bhairava.    |
+|     3      |  Srirâga **...**  |    Kharaharapriya  **...**    |     Kâfi.      |
+|     4      |    Sâranganâta **...**     |     Sankarâbharana **...**     |    Bilâval.    |
+|     5      |  Hindôla **...**   |   Nâtabhairavi **...**   |    Asâvêri.    |
+|     6      |      Sudharâmakriya **...**      |    Kâmavardhani **...**     |    Poorvi.     |
+|     7      |   Dêsâkshi **...**    | Soolini **...** |               |
+|     8      |      Kannadagowla **...**      |   Vâgadisvari **...**   |               |
+|     9      |    Sudhanâta **...**     |  Chalanâta **...**   |               |
+|     10     | Ahiri **...**  | Girvâni **...** |               |
+|     11     |      Nâdarâmakriya **...**      |  Dhênuka **...**   |               |
+|     12     |    Sudhavarâli **...**    | Jâlavarâli **...**  |               |
+|     13     |   Rithigowla **...**    |   Vanaspathi **...**   |               |
+|     14     |     Vasanthabhairavi **...**      |    Vakulâbharana **...**     |               |
+|     15     |    Kêdâragowla **...**     |     Sankarâbharana **...**     |               |
+|     16     | Hêjujji **...** |     Mâyamâlavagowla**...**     |               |
+|     17     |   Sâmavarâli **...**    |   Gânamurthi **...**   |               |
+|     18     |   Rêvagupthi **...**    |   Gâyakapriya **...**    |               |
+|     19     |   Sâmantha **...**    |  Chalanâta **...**   |               |
+|     20     |  Kâmbhoji **...**   |     Sankarâbharana **...**     |               |
 
 (FIG. 13)
 
@@ -939,31 +939,31 @@ own—as an 'infêrior', and therefore disregardable, Râga as Râmâmâtya had 
  There, yet, appears a way-out. Gentle reader, follow.  
  In the first place, I would put you in mind of what I had said in connection with Venkatamakhi's unwarranted onslaught on Râmâmâtya, namely, *Heaven knows what changes or modifications the manuscripts of ‘Svaramêlakalânidhi' underwent in the hands of different indifferent copyists and what sort of a copy finally fell into our-own-hands*. In the second place, the names of the Râgas and, for that matter, of the Thâlas, of the Svaras, and of even the 22 Srutis—have been from time to time changing, like chameleon's colour. Here are, for instance, two sets of names, given in two different periods of time, to one and the same time-honored 22 Srutis, wherein all the names differ, except Ugra, even which figures itself in the 7th Sruti in the one case and in the 21st Sruti in the other :—
 
-।           ।           ।                    ।                         ।           ।
-|:---------:|:---------:|:------------------:|:-----------------------:|:---------:।
-। **Sruti** । **Svara** । **Nârada's Names** । **Shârngadēv's Names ** । **Svara** ।
-।     1     ।          ।       Sidhâ        ।         Thivrâ          ।          ।
-।     2     ।          ।    Prabhâvathi     ।       Kumudvathi        ।          ।
-।     3     ।          ।       Kanthâ       ।          Mandâ          ।          ।
-।     4     ।    Sa     ।      Suprabhâ      ।       Chandôvathi       ।    Sa     ।
-।     5     ।          ।        Sîkâ        ।        Dayâvathi        ।          ।
-।     6     ।          ।    Dipthimathi     ।         Ranjani         ।          ।
-।     7     ।    Ri     ।       *Ugrâ*       ।         Rathikâ         ।    Ri     ।
-।     8     ।          ।       Hlâdi        ।         Rowdri          ।          ।
-।     9     ।    Ga     ।      Nirviri       ।         Krôdha          ।    Ga     ।
-।    10     ।          ।        Dirâ        ।         Vajrikâ         ।          ।
-।    11     ।          ।     Sarpasahâ      ।        Prasarini        ।          ।
-।    12     ।          ।      Kshanthi      ।         Prithi          ।          ।
-।    13     ।    Ma     ।      Vibhuthi      ।         Mârjani         ।    Ma     ।
-।    14     ।          ।       Mâlini       ।         Kshithi         ।          ।
-।    15     ।          ।      Chapalâ       ।         Rakthâ          ।          ।
-।    16     ।          ।        Bâlâ        ।        Sândipini        ।          ।
-।    17     ।    Pa     ।     Sarvaratna     ।         Alâpini         ।    Pa     ।
-।    18     ।          ।      Shânthâ       ।        Madanthi         ।          ।
-।    19     ।          ।      Vikalini      ।         Rôhini          ।          ।
-।    20     ।    Dha    ।   Hridayônmalini   ।          Ramya          ।    Dha    ।
-।    21     ।          ।      Visarini      ।         *Ugrâ*          ।          ।
-।    22     ।    Ni     ।      Prasunâ       ।        Kshobini         ।    Ni     ।
+|           |           |                    |                         |           |
+|:---------:|:---------:|:------------------:|:-----------------------:|:---------:|
+| **Sruti** | **Svara** | **Nârada's Names** | **Shârngadēv's Names ** | **Svara** |
+|     1     |          |       Sidhâ        |         Thivrâ          |          |
+|     2     |          |    Prabhâvathi     |       Kumudvathi        |          |
+|     3     |          |       Kanthâ       |          Mandâ          |          |
+|     4     |    Sa     |      Suprabhâ      |       Chandôvathi       |    Sa     |
+|     5     |          |        Sîkâ        |        Dayâvathi        |          |
+|     6     |          |    Dipthimathi     |         Ranjani         |          |
+|     7     |    Ri     |       *Ugrâ*       |         Rathikâ         |    Ri     |
+|     8     |          |       Hlâdi        |         Rowdri          |          |
+|     9     |    Ga     |      Nirviri       |         Krôdha          |    Ga     |
+|    10     |          |        Dirâ        |         Vajrikâ         |          |
+|    11     |          |     Sarpasahâ      |        Prasarini        |          |
+|    12     |          |      Kshanthi      |         Prithi          |          |
+|    13     |    Ma     |      Vibhuthi      |         Mârjani         |    Ma     |
+|    14     |          |       Mâlini       |         Kshithi         |          |
+|    15     |          |      Chapalâ       |         Rakthâ          |          |
+|    16     |          |        Bâlâ        |        Sândipini        |          |
+|    17     |    Pa     |     Sarvaratna     |         Alâpini         |    Pa     |
+|    18     |          |      Shânthâ       |        Madanthi         |          |
+|    19     |          |      Vikalini      |         Rôhini          |          |
+|    20     |    Dha    |   Hridayônmalini   |          Ramya          |    Dha    |
+|    21     |          |      Visarini      |         *Ugrâ*          |          |
+|    22     |    Ni     |      Prasunâ       |        Kshobini         |    Ni     |
 
 (FIG. 14).
 
@@ -980,35 +980,35 @@ own—as an 'infêrior', and therefore disregardable, Râga as Râmâmâtya had 
  What *Svaras* did each of the four upper-wires and of the three lower-wires speak, when sounded? The answer depends on whether the Vîna was Sudha Mêla, Madhya Mêla, or Achyutha- râjêndra Mêla. For, while the order of the three lower-wires was the same in all the three kinds of the Vîna, namely, Madhya *Sa,* Mandra *Pa*, and Mandra *Sa,* except an additional Madhya *Pa* was tacked on to the lower-wires of the third kind of the Vîna; the order of the four upper-wires, in *Sudha Mêla Vina*, was:- Anumandra *Sa,* Anumandra *Pa*, Mandra *Sa,* and Mandra *Ma;* that, in *Madhya Mêla Vîna,* was:-Anumandra *Pa*, Mandra *Sa*, Mandra *Pa*, and Madhya *Sa* ; and that, in *Achyutharâjêndra Mêla Vina*, was:Anumandra *Sa,* Anumandra *Pa,* Mandra *Sa*, and Mandra *Pa.*  
  Confining, now, our attention to the Sudha Mêla Vîna, we note that, over its cross-bar, six frets were placed in such a manner as they produced, *in order*, by *the first (Anumandra Sa-) wire*, the following svaras :-
 
-।     ।                ।     ।                       ।
-।-----।----------------।-----।-----------------------।
-। 1   । Sudha *Ri*   । 4   । Chyuthamadhyama *Ga*  ।
-। 2   । Sudha *Ga*    । 5   । Sudha *Ma*            ।
-। 3   । Sâdhârana *Ga* । 6   । Chyuthapanchama *Ma* ।
+|     |                |     |                       |
+|-----|----------------|-----|-----------------------|
+| 1   | Sudha *Ri*   | 4   | Chyuthamadhyama *Ga*  |
+| 2   | Sudha *Ga*    | 5   | Sudha *Ma*            |
+| 3   | Sâdhârana *Ga* | 6   | Chyuthapanchama *Ma* |
 
 by *the second (Anumandra Pa-*) *wire,* the following svaras :—
 
-।     ।               ।     ।                    ।
-।-----।---------------।-----।--------------------।
-। 1   । Sudha *Dha*  । 4   । Chyuthashadja *Ni* ।
-। 2   । Sudha *Ni*    । 5   । Sudha *Sa*         ।
-। 3   । Kaisiki Ni   । 6   । Sudha *Ri;*       ।
+|     |               |     |                    |
+|-----|---------------|-----|--------------------|
+| 1   | Sudha *Dha*  | 4   | Chyuthashadja *Ni* |
+| 2   | Sudha *Ni*    | 5   | Sudha *Sa*         |
+| 3   | Kaisiki Ni   | 6   | Sudha *Ri;*       |
 
 by *the third (Mandra Sa-) wire*, the following svaras :—
 
-।     ।                ।     ।                       ।
-।-----।----------------।-----।-----------------------।
-। 1   । Sudha *Ri*  । 4   । Chyuthamadhyama *Ga;* ।
-। 2   । Sudha *Ga*     । 5   । Sudha *Ma*            ।
-। 3   । Sâdhârana *Ga* । 6   । Chyuthapanchama *Ma;* ।
+|     |                |     |                       |
+|-----|----------------|-----|-----------------------|
+| 1   | Sudha *Ri*  | 4   | Chyuthamadhyama *Ga;* |
+| 2   | Sudha *Ga*     | 5   | Sudha *Ma*            |
+| 3   | Sâdhârana *Ga* | 6   | Chyuthapanchama *Ma;* |
 
 and by the *fourth (Mandra Ma-) wire,* the following svaras :—
 
-।     ।                       ।     ।                      ।
-।-----।-----------------------।-----।----------------------।
-। 1   । Chyuthapanchama *Ma* । 4   । Sudha *Ni*           ।
-। 2   । Sudha *Pa*           । 5   । Kaisiki *Ni*         ।
-। 3   । Sudha *Dha*           । 6   । Chyuthashadja *Ni.* ।
+|     |                       |     |                      |
+|-----|-----------------------|-----|----------------------|
+| 1   | Chyuthapanchama *Ma* | 4   | Sudha *Ni*           |
+| 2   | Sudha *Pa*           | 5   | Kaisiki *Ni*         |
+| 3   | Sudha *Dha*           | 6   | Chyuthashadja *Ni.* |
 
   Even for other registers, such as, *Madhyathâra* and *Anuthâra*, the same method was pursued and suitable frets were fixed. But, be it remembered, in those higher registers, the only wire that could possibly produce sweet or agreeable svaras was the *fourth* and not any of the other three upper-wires.  
  Be it also remembered that Sudha *Sa* and Sudha *Ri* of the second-wire occurred again on the third and were therefore of no use on the second and that, similarly, Sudha *Ma* and Chyuthapanchama *Ma* of the third wire occurred again on the fourth and were therefore of no use on the third.  
@@ -1106,11 +1106,11 @@ other as the fundamental or prime tone would be to its upper partial tone; such 
 Chyuthamadhyama *Ga* and Chyuthashadja *Ni* were deemed to practically represent them² and that, therefore, the whole of his *Râga-system* was built up, only with the twelve remaining svaras, mentioned in Fig. 16.  
   If, now, you look at Râmâmâtya's twelve svaras and the modern³twelve svaras, at a glance, thus-
 
-।               ।               ।      ।       ।       ।       ।      ।       ।      ।      ।        ।      ।       ।
-|:-------------:|:-------------:|:----:|:-----:|:-----:|:-----:|:----:|:-----:|:----:|:----:|:------:|:----:|:-----:।
-।     Names     । Twelve Svaras ।      ।       ।       ।       ।      ।       ।      ।      ।        ।      ।       ।
-।  Râmâmâtya's  ।     S.S.      । S.R. । S.G.  । Sa.G. । Ch.G. । S.M. । Ch.M. । S.P. । S.D. ।  S.N.  । K.N. । Ch.N. ।
-। Modern....... ।     S.S.      । S.R. । Cha.R । Sa.G. । A.G.  । S.M. । P.M.  । S.P. । S.D. । Cha.D. । K.N. । Na.K. ।
+|               |               |      |       |       |       |      |       |      |      |        |      |       |
+|:-------------:|:-------------:|:----:|:-----:|:-----:|:-----:|:----:|:-----:|:----:|:----:|:------:|:----:|:-----:|
+|     Names     | Twelve Svaras |      |       |       |       |      |       |      |      |        |      |       |
+|  Râmâmâtya's  |     S.S.      | S.R. | S.G.  | Sa.G. | Ch.G. | S.M. | Ch.M. | S.P. | S.D. |  S.N.  | K.N. | Ch.N. |
+| Modern....... |     S.S.      | S.R. | Cha.R | Sa.G. | A.G.  | S.M. | P.M.  | S.P. | S.D. | Cha.D. | K.N. | Na.K. |
 
 (FIG. 17)
 
@@ -1118,14 +1118,14 @@ Chyuthamadhyama *Ga* and Chyuthashadja *Ni* were deemed to practically represent
 
   1 The abbreviations used in this Diagram Fig. 16 and in the next Fig. 17, are explained as follows -
 
-।                      ।                   ।                               ।
-।----------------------।-------------------।-------------------------------।
-। S. R. = Sudha *Ri*   ।                  ।                              ।
-। S. G. =Sudha *Ga*   ।                  । Sa. G. = Sâdhârana *Ga*       ।
-। S. M. = Sudha *Ma*   । S.S. = Sudha *Sa* । Ch. G. =Chyuthamadhyama *Ga* ।
-। S. D. = Sudha *Dha*  । S.P. = Sudha *Pa* । Ch. M. =Chyuthamadhyama *Ma* ।
-। S. N. = Sudha *Ni*   ।                  । Ch. N. =Chyuthamadhyama *Ni* ।
-। K. N. = Kaisiki *Ni* ।                  ।                              ।
+|                      |                   |                               |
+|----------------------|-------------------|-------------------------------|
+| S. R. = Sudha *Ri*   |                  |                              |
+| S. G. =Sudha *Ga*   |                  | Sa. G. = Sâdhârana *Ga*       |
+| S. M. = Sudha *Ma*   | S.S. = Sudha *Sa* | Ch. G. =Chyuthamadhyama *Ga* |
+| S. D. = Sudha *Dha*  | S.P. = Sudha *Pa* | Ch. M. =Chyuthamadhyama *Ma* |
+| S. N. = Sudha *Ni*   |                  | Ch. N. =Chyuthamadhyama *Ni* |
+| K. N. = Kaisiki *Ni* |                  |                              |
 
 2 Cf. **च्युतमध्यमगांधारच्युतषङ्गनिषादकौ।  
     क्रमादन्तरकाकल्योः स्थाने प्रतिनिधी विदुः।
@@ -1133,11 +1133,11 @@ Chyuthamadhyama *Ga* and Chyuthashadja *Ni* were deemed to practically represent
 
    3 The five new abbreviations introduced in the Fig. 17 are explainedas follows :-
 
-।                              ।                       ।
-।------------------------------।-----------------------।
-। Cha. R. = Chathusruti *Ri*   । A. G. = Anthara *Ga* ।
-। Cha. D. = Chathusruti *Dha* । P. M. = Prathi *Ma*   ।
-।                             । Ka. N. = Kâkali *Ni*  ।
+|                              |                       |
+|------------------------------|-----------------------|
+| Cha. R. = Chathusruti *Ri*   | A. G. = Anthara *Ga* |
+| Cha. D. = Chathusruti *Dha* | P. M. = Prathi *Ma*   |
+|                             | Ka. N. = Kâkali *Ni*  |
 
 and if you refresh your memory of the special instructions given in connection with Fig. 13; you will not find it difficult to interpret almost all the Râgas of Râmâmâtya in terms of the modern Râgas. Suffice it, therefore, for me to repeat once again and emphasise the importance of what I said a little while ago,viz., *we should not allow ourselves to be \[mis-\] led by the mere 'names' of Râmâmâtya's Râgas but should delve deep and study thecharacteristics' of each of them and find out its modern prototype and its modern name, as well.*  
 *  *It now remains for us to estimate the nature of the services rendered by Râmâmâtya to the music world.  
@@ -2891,15 +2891,15 @@ of Vina, namely, *Sudha Mêla, Madhya Mêla, and Achyutharajêndra Mêla.*
 
   42-44. We shall enunciate the seven Vikritha-Svaras by mentioning their names and also statetheir characteristics. The names are—
 
-।     ।                    ।
-।-----।--------------------।
-। 1   । Chyutha Shadja     ।
-। 2   । Chyutha Madhyama   ।
-। 3   । Chyutha Panchama   ।
-। 4   । Sâdhârana Gândhâra ।
-। 5   । Anthara Gândhâra   ।
-। 6   । Kaisiki Nishâda    ।
-। 7   । and Kâkali Nishâda ।
+|     |                    |
+|-----|--------------------|
+| 1   | Chyutha Shadja     |
+| 2   | Chyutha Madhyama   |
+| 3   | Chyutha Panchama   |
+| 4   | Sâdhârana Gândhâra |
+| 5   | Anthara Gândhâra   |
+| 6   | Kaisiki Nishâda    |
+| 7   | and Kâkali Nishâda |
 
 *Their Characteristics*
 
@@ -3092,58 +3092,58 @@ Dêsâkshi).
   2-6. The following twenty Râgas areRâgas are declared to be 'Superior', on account of their being free from any kind ofmixture and also of their being suitable for use in singing,composition, elaboration, and for Tâya; and those Râgas are :---  
 
 
-।     ।                 ।     ।                  ।
-।-----।-----------------।-----।------------------।
-। 1   । Mukhâri         । 11  । Srirâga          ।
-। 2   । Sudhanâti.      । 12  । Kannadagowla.    ।
-। 3   । Mâlavagowla.    । 13  । Sâmantha.        ।
-। 4   । Sudhavarâli.    । 14  । Dêsâkshi.        ।
-। 5   । Gurjari.        । 15  । Dhanyâsi.        ।
-। 6   । Lalitha.        । 16  । Bowli.           ।
-। 7   । Sudharâmakriya. । 17  । Âhari.           ।
-। 8   । Sudhavasantha.  । 18  । Malhari.         ।
-। 9   । Bhairavi.       । 19  । Mâlavasri.       ।
-। 10  । Hindôla.        । 20  । and Sâranganâta. ।
+|     |                 |     |                  |
+|-----|-----------------|-----|------------------|
+| 1   | Mukhâri         | 11  | Srirâga          |
+| 2   | Sudhanâti.      | 12  | Kannadagowla.    |
+| 3   | Mâlavagowla.    | 13  | Sâmantha.        |
+| 4   | Sudhavarâli.    | 14  | Dêsâkshi.        |
+| 5   | Gurjari.        | 15  | Dhanyâsi.        |
+| 6   | Lalitha.        | 16  | Bowli.           |
+| 7   | Sudharâmakriya. | 17  | Âhari.           |
+| 8   | Sudhavasantha.  | 18  | Malhari.         |
+| 9   | Bhairavi.       | 19  | Mâlavasri.       |
+| 10  | Hindôla.        | 20  | and Sâranganâta. |
 
 *(ii) Middling*
 
   6-9. The following fifteen Râgas are called 'Middling';and they are of little use or, if at all, used to sing fragmentaryportions of songs. Those Râgas are:-  
 
 
-।     ।                ।     ।                  ।
-।-----।----------------।-----।------------------।
-। 1   । Kêdâragowla    । 9   । Pâdi             ।
-। 2   । Kâmbhôji       । 10  । Bhupâla          ।
-। 3   । Kannadabangâla । 11  । Rêvagupthi       ।
-। 4   । Vêlâvali       । 12  । Gundakriya       ।
-। 5   । Madhyamâdi     । 13  । Hêjujji          ।
-। 6   । Nârâyani       । 14  । Vasanthabhairavi ।
-। 7   । Rithigowla     । 15  । and Sâmavarâli   ।
-। 8   । Nâdarâmakriya  ।    ।                 ।
+|     |                |     |                  |
+|-----|----------------|-----|------------------|
+| 1   | Kêdâragowla    | 9   | Pâdi             |
+| 2   | Kâmbhôji       | 10  | Bhupâla          |
+| 3   | Kannadabangâla | 11  | Rêvagupthi       |
+| 4   | Vêlâvali       | 12  | Gundakriya       |
+| 5   | Madhyamâdi     | 13  | Hêjujji          |
+| 6   | Nârâyani       | 14  | Vasanthabhairavi |
+| 7   | Rithigowla     | 15  | and Sâmavarâli   |
+| 8   | Nâdarâmakriya  |    |                 |
 
 *(iii) Inferior*
 
   9-14. The following Râgas are called ' *Inferior'* :—
 
-।     ।                 ।     ।                  ।
-।-----।-----------------।-----।------------------।
-। 1   । Sourashtra.     । 18  । Bhinnashadja.    ।
-। 2   । Mêchabowli.     । 19  । Kunthalavarâli.  ।
-। 3   । Châyâgowla.     । 20  । Sârangabhairavi. ।
-। 4   । Kuranji.        । 21  । Sudhabangâla.    ।
-। 5   । Sindurâmakriya. । 22  । Nâgadhvani.      ।
-। 6   । Gowdi.          । 23  । Ghantârava.      ।
-। 7   । Dêsi.           । 24  । Mârgahindôla.    ।
-। 8   । Mangalakaisika. । 25  । Châyânata.       ।
-। 9   । Purvagowla.     । 26  । Dêvakriya.       ।
-। 10  । Sômaraga.       । 27  । Nârâyani.        ।
-। 11  । Andôli.        । 28  । Gowlarâga.       ।
-। 12  । Palamanjari.    । 29  । Thôdi.           ।
-। 13  । Sankarâbharana. । 30  । Varâli.          ।
-। 14  । Dêvagândhari.   । 31  । Thurushkathôdi.  ।
-। 15  । Dîpaka.         । 32  । Sâvêri.          ।
-। 16  । Natanârâyani.   । 33  । and Ârdradêsi.   ।
-। 17  । Sudhabhairavi.  ।    ।                 ।
+|     |                 |     |                  |
+|-----|-----------------|-----|------------------|
+| 1   | Sourashtra.     | 18  | Bhinnashadja.    |
+| 2   | Mêchabowli.     | 19  | Kunthalavarâli.  |
+| 3   | Châyâgowla.     | 20  | Sârangabhairavi. |
+| 4   | Kuranji.        | 21  | Sudhabangâla.    |
+| 5   | Sindurâmakriya. | 22  | Nâgadhvani.      |
+| 6   | Gowdi.          | 23  | Ghantârava.      |
+| 7   | Dêsi.           | 24  | Mârgahindôla.    |
+| 8   | Mangalakaisika. | 25  | Châyânata.       |
+| 9   | Purvagowla.     | 26  | Dêvakriya.       |
+| 10  | Sômaraga.       | 27  | Nârâyani.        |
+| 11  | Andôli.        | 28  | Gowlarâga.       |
+| 12  | Palamanjari.    | 29  | Thôdi.           |
+| 13  | Sankarâbharana. | 30  | Varâli.          |
+| 14  | Dêvagândhari.   | 31  | Thurushkathôdi.  |
+| 15  | Dîpaka.         | 32  | Sâvêri.          |
+| 16  | Natanârâyani.   | 33  | and Ârdradêsi.   |
+| 17  | Sudhabhairavi.  |    |                 |
 
  15-16. These mixed Râgas which intervene between the superiorand the middling ones-that is to say, these *inferior* Râgas are plentiful but calculated only to dazzle (and not illumine) the masses. They are further unsuitable for compositions like Tâya, Âlâpa, and Prabandha. Hence it is that the musicians do not countenance them.
 

@@ -6578,850 +6578,850 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 
 **Glossary with *Word-for-Word* Meanings**
 
-।                    ।                                                                             ।
-।--------------------।-----------------------------------------------------------------------------।
-। **A**              ।                                                                            ।
-। abhāva             । absence of awareness                                                        ।
-। abhāvaḥ            । disappearance, elimination, not existing                                    ।
-। abhāvāt           । resulting from the elimination                                              ।
-। abhāve             । in what is not there                                                        ।
-। abhibhava          । disappearance                                                               ।
-। abhijātasya        । of what is produced all around or transparent                               ।
-। ābhimata          । what is dearly desired                                                      ।
-। abhiniveśaḥ        । strong focus on mundane existence which is due to instinctive fear of death ।
-। abhivyaktiḥ       । manifestation                                                               ।
-। ābhyantara         । internal                                                                    ।
-। abhyāsa           । effective yoga practice                                                     ।
-। ādarśa             । sight                                                                       ।
-। ādayaḥ            । and related matters                                                         ।
-। adhigamaḥ         । accomplishment                                                              ।
-। adhimātraḥ         । substantial                                                                 ।
-। adhimātratvāt     । from intense                                                                ।
-। adhiṣṭhātṛtvaṁ    । authority, complete disaffection                                            ।
-। adhvabhedāt        । due to different courses or events                                          ।
-। adhyāsāt          । resulting from the super-imposition                                         ।
-। adhyātma          । relationship between the supreme soul and the limited one                   ।
-। ādi                । and the related mystic skills                                               ।
-। ādīni              । and the same for other aspects                                              ।
-। ādiṣi              । and similar aspects                                                         ।
-। ādiṣu              । and by related qualities                                                    ।
-। adṛṣṭa            । not perceived, not realized                                                 ।
-। āgamāḥ             । correct reference                                                           ।
-। ahiṁsā             । non-violence                                                                ।
-। ajñāna            । spiritual ignorance                                                         ।
-। ajñātam           । unknown                                                                     ।
-। akalpitā          । not manufactured, not artificial, not formed                                ।
-। ākāra              । form, aspect                                                                ।
-। akaraṇaṁ           । non-responsiveness                                                          ।
-। ākāśa             । atmosphere                                                                  ।
-। ākāśayoḥ          । of the sky, atmosphere                                                      ।
-। akliṣṭāḥ           । non-troublesome                                                             ।
-। akramaṁ           । without sequential perceptions                                              ।
-। akṛṣnaṁ            । not black, not penalizing                                                   ।
-। ākṣepī            । transcending                                                                ।
-। akusīdasya        । of one who has no interest or sees no gain in material nature               ।
-। alabdhabhūmikatva । not being able to maintain the progress made                                ।
-। ālambanā          । support, prop, means of conversion                                          ।
-। ālambanaiḥ         । by what supports or lifts                                                   ।
-। ālambanaṁ          । taking recourse                                                             ।
-। ālasya            । lack of energy                                                              ।
-। aliṅga             । without characteristics                                                     ।
-। aliṅgāni           । that which has no indication                                                ।
-। āloka              । supernatural insight                                                        ।
-। ālokaḥ             । illuminating                                                                ।
-। alpam              । small trivial                                                               ।
-। anabhighātaḥ       । non-obstruction                                                             ।
-। anāditvaṁ          । what is without beginning, primeval                                         ।
-। anāgata           । future                                                                      ।
-। anāgataṁ           । the future, what has not manifested                                         ।
+|                    |                                                                             |
+|--------------------|-----------------------------------------------------------------------------|
+| **A**              |                                                                            |
+| abhāva             | absence of awareness                                                        |
+| abhāvaḥ            | disappearance, elimination, not existing                                    |
+| abhāvāt           | resulting from the elimination                                              |
+| abhāve             | in what is not there                                                        |
+| abhibhava          | disappearance                                                               |
+| abhijātasya        | of what is produced all around or transparent                               |
+| ābhimata          | what is dearly desired                                                      |
+| abhiniveśaḥ        | strong focus on mundane existence which is due to instinctive fear of death |
+| abhivyaktiḥ       | manifestation                                                               |
+| ābhyantara         | internal                                                                    |
+| abhyāsa           | effective yoga practice                                                     |
+| ādarśa             | sight                                                                       |
+| ādayaḥ            | and related matters                                                         |
+| adhigamaḥ         | accomplishment                                                              |
+| adhimātraḥ         | substantial                                                                 |
+| adhimātratvāt     | from intense                                                                |
+| adhiṣṭhātṛtvaṁ    | authority, complete disaffection                                            |
+| adhvabhedāt        | due to different courses or events                                          |
+| adhyāsāt          | resulting from the super-imposition                                         |
+| adhyātma          | relationship between the supreme soul and the limited one                   |
+| ādi                | and the related mystic skills                                               |
+| ādīni              | and the same for other aspects                                              |
+| ādiṣi              | and similar aspects                                                         |
+| ādiṣu              | and by related qualities                                                    |
+| adṛṣṭa            | not perceived, not realized                                                 |
+| āgamāḥ             | correct reference                                                           |
+| ahiṁsā             | non-violence                                                                |
+| ajñāna            | spiritual ignorance                                                         |
+| ajñātam           | unknown                                                                     |
+| akalpitā          | not manufactured, not artificial, not formed                                |
+| ākāra              | form, aspect                                                                |
+| akaraṇaṁ           | non-responsiveness                                                          |
+| ākāśa             | atmosphere                                                                  |
+| ākāśayoḥ          | of the sky, atmosphere                                                      |
+| akliṣṭāḥ           | non-troublesome                                                             |
+| akramaṁ           | without sequential perceptions                                              |
+| akṛṣnaṁ            | not black, not penalizing                                                   |
+| ākṣepī            | transcending                                                                |
+| akusīdasya        | of one who has no interest or sees no gain in material nature               |
+| alabdhabhūmikatva | not being able to maintain the progress made                                |
+| ālambanā          | support, prop, means of conversion                                          |
+| ālambanaiḥ         | by what supports or lifts                                                   |
+| ālambanaṁ          | taking recourse                                                             |
+| ālasya            | lack of energy                                                              |
+| aliṅga             | without characteristics                                                     |
+| aliṅgāni           | that which has no indication                                                |
+| āloka              | supernatural insight                                                        |
+| ālokaḥ             | illuminating                                                                |
+| alpam              | small trivial                                                               |
+| anabhighātaḥ       | non-obstruction                                                             |
+| anāditvaṁ          | what is without beginning, primeval                                         |
+| anāgata           | future                                                                      |
+| anāgataṁ           | the future, what has not manifested                                         |
 
 
 
-।                   ।                                                                     ।
-।-------------------।---------------------------------------------------------------------।
-। ānanda           । introspective happiness                                             ।
-। ananta           । endless, infinite                                                   ।
-। ānantaryaṁ        । timeful sequence                                                    ।
-। ānantyāt          । due to being unlimited                                              ।
-। anāśayam          । without harmful emotions                                            ।
-। anaṣṭaṁ           । not finished, still existing, effective                             ।
-। anātmasu         । in what is not the spirit                                           ।
-। anavacchedāt     । due to or resulting from lack of definition, unconditioned          ।
-। anavacchinnāḥ     । not restricted by, not adjusted by                                  ।
-। anavadhāraṇam     । of what cannot focus                                                ।
-। anavasthitatvāni । unsteadiness in the progression                                     ।
-। anekeṣām          । of what is numberless                                               ।
-। aṅga             । limbs, part                                                         ।
-। aṅgamejayatva    । nervousness of the body                                             ।
-। aṅgāni           । parts of a thing                                                    ।
-। aṇima             । minuteness                                                          ।
-। aniṣṭa            । unwanted features of existence                                      ।
-। anitya            । not eternal, temporary                                              ।
-। añj              । to smear with, to mix with                                          ।
-। añjanatā         । assuming the nature of or characterization of                      ।
-। āntaḥ             । ending, extending to                                                ।
-। antar             । internal, psychological, concerning the thinking and feeling organs ।
-। aṅgaṁ             । part                                                                ।
-। antara           । another person, other                                               ।
-। antarāṇi          । in between, interval                                                ।
-। antarāya          । obstacle                                                            ।
-। antardhānam       । invisibility, non-perceptibility                                    ।
-। anu               । following along patteming after                                     ।
-। anubhūta          । the experience                                                      ।
-। anugamāt          । by accompaniment, occurring with                                    ।
-। anuguṇānām        । of the corresponding features                                       ।
-। anukāraḥ         । imitation, patterning, assuming                                     ।
-। anumāna          । correct analysis                                                    ।
-। anumāna          । what is surmised or seasoned out                                    ।
-। anumoditāḥ       । endorsed, approved                                                  ।
-। anupātī          । reach full retrogression, followed by                               ।
-। ānuśāsanam        । explanation                                                         ।
-। anuśayi          । connected to, devotedly attached to                                 ।
-। anuśravika        । what is conjectured on the basis of scripture valid                 ।
-। anuṣṭhānāt       । from consistent practice                                            ।
-। anuttamaḥ        । supreme, the very best                                              ।
-। anvaya            । following, connection, distribution, association                    ।
-। anya              । others                                                              ।
-। anyatā           । other than distinct from                                            ।
-। anyatā           । otherwise, in a different manner                                    ।
-। anyatvaṁ          । otherness, difference                                               ।
-। anyatve           । in difference                                                       ।
-। aparāmṛṣṭaḥ      । unaffected                                                          ।
-। aparānta          । of the other end, of death entry into the hereafter, the end        ।
-। aparigraha       । non-possessiveness                                                 ।
-। apariṇāmitvāt    । due to changelessness                                              ।
-। āpattau           । turning into, changing assuming                                     ।
-। apavarga          । liberation                                                          ।
-। apekṣitvāt       । from the expectation                                                ।
-। āpetasya          । of what is removed                                                  ।
-। api               । also, even, although, but                                           ।
-। apramāṇakam       । not being observed                                                  ।
-। apratisaṁkramāyāḥ । not moving from one position to another                             ।
+|                   |                                                                     |
+|-------------------|---------------------------------------------------------------------|
+| ānanda           | introspective happiness                                             |
+| ananta           | endless, infinite                                                   |
+| ānantaryaṁ        | timeful sequence                                                    |
+| ānantyāt          | due to being unlimited                                              |
+| anāśayam          | without harmful emotions                                            |
+| anaṣṭaṁ           | not finished, still existing, effective                             |
+| anātmasu         | in what is not the spirit                                           |
+| anavacchedāt     | due to or resulting from lack of definition, unconditioned          |
+| anavacchinnāḥ     | not restricted by, not adjusted by                                  |
+| anavadhāraṇam     | of what cannot focus                                                |
+| anavasthitatvāni | unsteadiness in the progression                                     |
+| anekeṣām          | of what is numberless                                               |
+| aṅga             | limbs, part                                                         |
+| aṅgamejayatva    | nervousness of the body                                             |
+| aṅgāni           | parts of a thing                                                    |
+| aṇima             | minuteness                                                          |
+| aniṣṭa            | unwanted features of existence                                      |
+| anitya            | not eternal, temporary                                              |
+| añj              | to smear with, to mix with                                          |
+| añjanatā         | assuming the nature of or characterization of                      |
+| āntaḥ             | ending, extending to                                                |
+| antar             | internal, psychological, concerning the thinking and feeling organs |
+| aṅgaṁ             | part                                                                |
+| antara           | another person, other                                               |
+| antarāṇi          | in between, interval                                                |
+| antarāya          | obstacle                                                            |
+| antardhānam       | invisibility, non-perceptibility                                    |
+| anu               | following along patteming after                                     |
+| anubhūta          | the experience                                                      |
+| anugamāt          | by accompaniment, occurring with                                    |
+| anuguṇānām        | of the corresponding features                                       |
+| anukāraḥ         | imitation, patterning, assuming                                     |
+| anumāna          | correct analysis                                                    |
+| anumāna          | what is surmised or seasoned out                                    |
+| anumoditāḥ       | endorsed, approved                                                  |
+| anupātī          | reach full retrogression, followed by                               |
+| ānuśāsanam        | explanation                                                         |
+| anuśayi          | connected to, devotedly attached to                                 |
+| anuśravika        | what is conjectured on the basis of scripture valid                 |
+| anuṣṭhānāt       | from consistent practice                                            |
+| anuttamaḥ        | supreme, the very best                                              |
+| anvaya            | following, connection, distribution, association                    |
+| anya              | others                                                              |
+| anyatā           | other than distinct from                                            |
+| anyatā           | otherwise, in a different manner                                    |
+| anyatvaṁ          | otherness, difference                                               |
+| anyatve           | in difference                                                       |
+| aparāmṛṣṭaḥ      | unaffected                                                          |
+| aparānta          | of the other end, of death entry into the hereafter, the end        |
+| aparigraha       | non-possessiveness                                                 |
+| apariṇāmitvāt    | due to changelessness                                              |
+| āpattau           | turning into, changing assuming                                     |
+| apavarga          | liberation                                                          |
+| apekṣitvāt       | from the expectation                                                |
+| āpetasya          | of what is removed                                                  |
+| api               | also, even, although, but                                           |
+| apramāṇakam       | not being observed                                                  |
+| apratisaṁkramāyāḥ | not moving from one position to another                             |
 
 
 
-।               ।                                                                     ।
-।---------------।---------------------------------------------------------------------।
-। aprayojakaṁ   । not used, not employed, not causing                                 ।
-। apuṇya        । demerits, vice                                                      ।
-। āpūrāt        । due to filling up or saturation                                     ।
-। ariṣṭebhyo   । from portents                                                       ।
-। artha         । purpose, objective, meaning                                         ।
-। ārtham        । for the sake of, value or purpose                                   ।
-। arthaś        । for the value of purpose                                            ।
-। arthavāt      । because of an object                                                ।
-। arthavatava  । purpose, value                                                      ।
-। arthavatva    । value, worth                                                        ।
-। asaṁkīrṇayoḥ  । of what is distinct or separate                                     ।
-। asaṁpramoṣaḥ । retention                                                           ।
-। asaṁprayoge  । in not contacting on not contacting                                 ।
-। asaṁsargaḥ   । non-association, lack of desire to associate                        ।
-। āsana         । body postures                                                       ।
-। āsanan        । bodily posture                                                      ।
-। asaṅgaḥ      । non contact                                                         ।
-। asaṅkhyeya   । innumerable                                                         ।
-। āsannaḥ       । whatever is very near, what will occur soon                         ।
-। āśayaḥ       । storage, reservoir                                                  ।
-। āśayaiḥ      । by subconscious motivations                                         ।
-। āsevitaḥ      । sustained practice, aggressive interest                             ।
-। āśiṣaḥ       । hope and desire energies                                            ।
-। asmitā       । identification, misplaced identity,                                 ।
-। asmitā       । sense of identity which is developed in relation to material nature ।
-। asmitārūpa    । I-ness self-consciousness                                           ।
-। āśraya       । storage place, causal plane, supportive base                        ।
-। āśryatvam     । what serves as a support for something else                         ।
-। aṣṭau         । eight                                                               ।
-। asteya       । non-stealing                                                        ।
-। asti         । there is, it exists                                                 ।
-। aśuci         । not clean, not pure                                                 ।
-। aśuddhi       । impurity                                                            ।
-। aśukla       । not white, not rewarding                                            ।
-। āsvāda       । taste                                                               ।
-। asya          । of his, him                                                         ।
-। atadrūpa      । not this form                                                       ।
-। atha          । now                                                                 ।
-। atiprasaṅgaḥ  । absurd argument, unwarranted stretching of a rule                   ।
-। atīta         । the past                                                            ।
-। ātma         । spirit                                                              ।
-। ātmakaṁ      । self, nature                                                        ।
-। ātmānaḥ       । of itself                                                           ।
-। atyanta      । excessively, extremely, very                                        ।
-। auṣadhi       । drugs                                                               ।
-। āvaraṇam      । covering, mental darkness                                           ।
-। anabhighātaḥ । no shrinking, no attacking, no botheration                          ।
-। avasthā      । condition                                                           ।
-। avasthānam   । is situated                                                         ।
-। āveśaḥ        । entrance, penetration                                               ।
-। avidyā       । spiritual ignorance                                                 ।
-। aviplavā     । unbroken, continuous                                                ।
-। avirati       । proness to sensuality                                               ।
-। aviṣayī      । not an object of anything, imperceptible                            ।
-। aviśeṣa      । what is regular                                                     ।
-। aviśeṣaḥ     । not distinct, inability to distinguish                              ।
-। avyapadeśya   । what is not to be defined, what is latent.                          ।
-। āyuḥ          । duration of life                                                    ।
-। **B**         ।                                                                    ।
-। bādhane       । in annoyance or disturbance                                         ।
-। bahiḥ        । outside, external                                                   ।
-। bahiraṅga    । external part                                                       ।
-। bāhya        । external                                                            ।
-। bala         । mystic force, strength                                              ।
-। balāni        । powers                                                              ।
-। baleṣu        । by strength                                                         ।
+|               |                                                                     |
+|---------------|---------------------------------------------------------------------|
+| aprayojakaṁ   | not used, not employed, not causing                                 |
+| apuṇya        | demerits, vice                                                      |
+| āpūrāt        | due to filling up or saturation                                     |
+| ariṣṭebhyo   | from portents                                                       |
+| artha         | purpose, objective, meaning                                         |
+| ārtham        | for the sake of, value or purpose                                   |
+| arthaś        | for the value of purpose                                            |
+| arthavāt      | because of an object                                                |
+| arthavatava  | purpose, value                                                      |
+| arthavatva    | value, worth                                                        |
+| asaṁkīrṇayoḥ  | of what is distinct or separate                                     |
+| asaṁpramoṣaḥ | retention                                                           |
+| asaṁprayoge  | in not contacting on not contacting                                 |
+| asaṁsargaḥ   | non-association, lack of desire to associate                        |
+| āsana         | body postures                                                       |
+| āsanan        | bodily posture                                                      |
+| asaṅgaḥ      | non contact                                                         |
+| asaṅkhyeya   | innumerable                                                         |
+| āsannaḥ       | whatever is very near, what will occur soon                         |
+| āśayaḥ       | storage, reservoir                                                  |
+| āśayaiḥ      | by subconscious motivations                                         |
+| āsevitaḥ      | sustained practice, aggressive interest                             |
+| āśiṣaḥ       | hope and desire energies                                            |
+| asmitā       | identification, misplaced identity,                                 |
+| asmitā       | sense of identity which is developed in relation to material nature |
+| asmitārūpa    | I-ness self-consciousness                                           |
+| āśraya       | storage place, causal plane, supportive base                        |
+| āśryatvam     | what serves as a support for something else                         |
+| aṣṭau         | eight                                                               |
+| asteya       | non-stealing                                                        |
+| asti         | there is, it exists                                                 |
+| aśuci         | not clean, not pure                                                 |
+| aśuddhi       | impurity                                                            |
+| aśukla       | not white, not rewarding                                            |
+| āsvāda       | taste                                                               |
+| asya          | of his, him                                                         |
+| atadrūpa      | not this form                                                       |
+| atha          | now                                                                 |
+| atiprasaṅgaḥ  | absurd argument, unwarranted stretching of a rule                   |
+| atīta         | the past                                                            |
+| ātma         | spirit                                                              |
+| ātmakaṁ      | self, nature                                                        |
+| ātmānaḥ       | of itself                                                           |
+| atyanta      | excessively, extremely, very                                        |
+| auṣadhi       | drugs                                                               |
+| āvaraṇam      | covering, mental darkness                                           |
+| anabhighātaḥ | no shrinking, no attacking, no botheration                          |
+| avasthā      | condition                                                           |
+| avasthānam   | is situated                                                         |
+| āveśaḥ        | entrance, penetration                                               |
+| avidyā       | spiritual ignorance                                                 |
+| aviplavā     | unbroken, continuous                                                |
+| avirati       | proness to sensuality                                               |
+| aviṣayī      | not an object of anything, imperceptible                            |
+| aviśeṣa      | what is regular                                                     |
+| aviśeṣaḥ     | not distinct, inability to distinguish                              |
+| avyapadeśya   | what is not to be defined, what is latent.                          |
+| āyuḥ          | duration of life                                                    |
+| **B**         |                                                                    |
+| bādhane       | in annoyance or disturbance                                         |
+| bahiḥ        | outside, external                                                   |
+| bahiraṅga    | external part                                                       |
+| bāhya        | external                                                            |
+| bala         | mystic force, strength                                              |
+| balāni        | powers                                                              |
+| baleṣu        | by strength                                                         |
 
 
 
-।                 ।                                                                           ।
-।-----------------।---------------------------------------------------------------------------।
-। bandha          । bondage                                                                   ।
-। bandhaḥ         । confinement, restriction                                                  ।
-। bhāraṁ          । gravitating                                                               ।
-। bhāva           । states of feelings and perceptions, inherent nature, psychology           ।
-। bhāvaḥ          । mento-emotional energy, feeling                                           ।
-। bhāvanā        । absorption in feelings, producing                                         ।
-। bhāvanam        । manifesting imagining, conceiving considering                             ।
-। bhāvanātaḥ     । abstract meditation                                                       ।
-। bhedaḥ          । splitting, removing, disintegrating                                       ।
-। bhedāt          । from the difference                                                       ।
-। bhede          । in the difference                                                         ।
-। bhoga          । experience                                                                ।
-। bhogāḥ          । type of experience                                                        ।
-। bhrāntidarśana । mistaken views                                                            ।
-। bhūmiḥ         । ground, foundation, basis, territory, range                               ।
-। bhūmiṣu        । in stages                                                                 ।
-। bhūta          । the various states of matter, mundane elements, creature                  ।
-। bhūtatvāt       । the actual object                                                         ।
-। bhuvana        । the solar system                                                          ।
-। bīja           । seed, origin, source                                                      ।
-। bijam           । origin                                                                    ।
-। brahmacarya    । sexual non-expressiveness which results in the perception of spirituality ।
-। buddheḥ         । of the intellect organ                                                    ।
-। buddhi          । the intellect organ                                                       ।
-। **C**           ।                                                                          ।
-। ca              । and                                                                       ।
-। cakre          । on the energy gyrating center                                             ।
-। cakṣuḥ          । vision                                                                    ।
-। candre         । on the moon or moon-god                                                   ।
-। caturthaḥ      । the fourth                                                                ।
-। ced (cet)      । if, otherwise                                                             ।
-। cetana         । sense consciousness                                                       ।
-। chidreṣu       । in the relaxation of the focus                                            ।
-। citeḥ          । of the spirit                                                             ।
-। citiśaktiḥ     । the power of pure consciousness                                           ।
-। citram          । diversified                                                               ।
-। citta           । mento-emotional energy                                                    ।
-। cittam          । mento-emotional force                                                     ।
-। citāni         । regions within the mento-emotional energy                                 ।
-। cittasya       । of the mento                                                              ।
-। cittavikṣepaḥ  । scattered mental and emotional energy                                     ।
-। **D**           ।                                                                          ।
-। darśana        । sight, vision, what is seen                                               ।
-। darśanam       । the view of                                                               ।
-। darśina         । of the one who sees                                                       ।
-। daurmanasya     । of mental depression                                                      ।
-। deśa            । location, place                                                           ।
-। deśaiḥ          । by what location                                                          ।
-। dhāraṇā        । linking of the attention to a concentration force or person               ।
-। dharma         । attributes, functions, quality, law, sustaining force                     ।
-। dharma          । nature's way of acting for beneficial results                             ।
-। dharmāṇām       । of the characteristics                                                    ।
-। dharmī          । most basic condition.                                                     ।
-। dhruve          । on the Pole Star                                                          ।
-। dhyāna         । effortless linkage of the attention to higher concentration forces        ।
-। dhyānajam      । produced by the effortless linkage of the attention to a higher reality   ।
+|                 |                                                                           |
+|-----------------|---------------------------------------------------------------------------|
+| bandha          | bondage                                                                   |
+| bandhaḥ         | confinement, restriction                                                  |
+| bhāraṁ          | gravitating                                                               |
+| bhāva           | states of feelings and perceptions, inherent nature, psychology           |
+| bhāvaḥ          | mento-emotional energy, feeling                                           |
+| bhāvanā        | absorption in feelings, producing                                         |
+| bhāvanam        | manifesting imagining, conceiving considering                             |
+| bhāvanātaḥ     | abstract meditation                                                       |
+| bhedaḥ          | splitting, removing, disintegrating                                       |
+| bhedāt          | from the difference                                                       |
+| bhede          | in the difference                                                         |
+| bhoga          | experience                                                                |
+| bhogāḥ          | type of experience                                                        |
+| bhrāntidarśana | mistaken views                                                            |
+| bhūmiḥ         | ground, foundation, basis, territory, range                               |
+| bhūmiṣu        | in stages                                                                 |
+| bhūta          | the various states of matter, mundane elements, creature                  |
+| bhūtatvāt       | the actual object                                                         |
+| bhuvana        | the solar system                                                          |
+| bīja           | seed, origin, source                                                      |
+| bijam           | origin                                                                    |
+| brahmacarya    | sexual non-expressiveness which results in the perception of spirituality |
+| buddheḥ         | of the intellect organ                                                    |
+| buddhi          | the intellect organ                                                       |
+| **C**           |                                                                          |
+| ca              | and                                                                       |
+| cakre          | on the energy gyrating center                                             |
+| cakṣuḥ          | vision                                                                    |
+| candre         | on the moon or moon-god                                                   |
+| caturthaḥ      | the fourth                                                                |
+| ced (cet)      | if, otherwise                                                             |
+| cetana         | sense consciousness                                                       |
+| chidreṣu       | in the relaxation of the focus                                            |
+| citeḥ          | of the spirit                                                             |
+| citiśaktiḥ     | the power of pure consciousness                                           |
+| citram          | diversified                                                               |
+| citta           | mento-emotional energy                                                    |
+| cittam          | mento-emotional force                                                     |
+| citāni         | regions within the mento-emotional energy                                 |
+| cittasya       | of the mento                                                              |
+| cittavikṣepaḥ  | scattered mental and emotional energy                                     |
+| **D**           |                                                                          |
+| darśana        | sight, vision, what is seen                                               |
+| darśanam       | the view of                                                               |
+| darśina         | of the one who sees                                                       |
+| daurmanasya     | of mental depression                                                      |
+| deśa            | location, place                                                           |
+| deśaiḥ          | by what location                                                          |
+| dhāraṇā        | linking of the attention to a concentration force or person               |
+| dharma         | attributes, functions, quality, law, sustaining force                     |
+| dharma          | nature's way of acting for beneficial results                             |
+| dharmāṇām       | of the characteristics                                                    |
+| dharmī          | most basic condition.                                                     |
+| dhruve          | on the Pole Star                                                          |
+| dhyāna         | effortless linkage of the attention to higher concentration forces        |
+| dhyānajam      | produced by the effortless linkage of the attention to a higher reality   |
 
 
 
-।              ।                                                                               ।
-।--------------।-------------------------------------------------------------------------------।
-। dhyānam      । effortless linking of the attention to a higher concentration force or person ।
-। dhyānāt      । from effortless linkage of the mind to a higher concentration force           ।
-। dīrgha       । long                                                                          ।
-। dīrgha       । prolonged                                                                     ।
-। divyaṁ       । divine, supernatural                                                          ।
-। doṣa         । fault, defect                                                                 ।
-। draṣṭā      । the perceiver                                                                 ।
-। draṣṭṛ       । the observer                                                                  ।
-। dṛḍha        । firm                                                                          ।
-। drg (drk)    । supematural vision                                                            ।
-। dṛśeḥ        । of the perceiver                                                              ।
-। dṛśi         । perception, consciousness                                                     ।
-। dṛṣṭa       । what is seen or perceived directly, realized                                  ।
-। dṛśya       । the perceived                                                                 ।
-। dṛśyam      । what is perceived                                                             ।
-। dṛśyasya     । of what is seen                                                               ।
-। dṛśyatvāt   । for it is due to being something to be perceived                              ।
-। dṛśyayoḥ    । of what is perceived                                                          ।
-। dṛśye       । in the perception of                                                          ।
-। duḥka       । distress                                                                      ।
-। duḥkhaiḥ     । with distress                                                                 ।
-। duḥkham      । distress                                                                      ।
-। dvandvāḥ    । the dualities of happiness and distress, heat and cold                        ।
-। dveṣa        । impulsive emotional disaffection                                              ।
-। **E**        ।                                                                              ।
-। eka          । one                                                                           ।
-। ekāgra       । ability to link the attention to one concentration force or person            ।
-। ekāgratā    । of what is in front of one aspect before the attention                        ।
-। ekāgratayoḥ । of the one aspect before the attention                                        ।
-। ekam        । one                                                                           ।
-। ekarūpatvāt  । due to one form                                                               ।
-। ekasamaye   । at the same time                                                              ।
-। ekātmatā    । having one nature, identical                                                  ।
-। ekatra      । in one place, all taken together as one practice                              ।
-। ekatānatā   । one continuous threadlike flow of attention                                   ।
-। ekatvāt      । singleness, uniqueness                                                        ।
-। eṣaḥ        । this particular person                                                        ।
-। eṣām         । of those, these                                                               ।
-। etaya        । by this                                                                       ।
-। etena        । by this                                                                       ।
-। eva          । only, alone, indeed                                                           ।
-। **G**        ।                                                                              ।
-। gamanam      । going through, passing through                                                ।
-। gati         । course of heavenly planets and stars, the flow                                ।
-। grahaṇa      । flow perception, sensual grasping                                             ।
-। grahītṛ      । perceiver                                                                     ।
-। grāhya      । appropriating, grasping sensual perceptiveness                                ।
-। grāhyeṣu    । in what is perceived                                                          ।
-। guṇa        । influences of material nature                                                 ।
-। guṇānām      । of the influence of the subtle material nature                                ।
-। guruḥ        । the spiritual teacher                                                         ।
-। **H**        ।                                                                              ।
-। hana        । avoidance                                                                     ।
-। hānam        । killing off, complete removal, withdrawal, escape                             ।
-। hasti       । elephant                                                                      ।
-। hetuḥ        । cause, reason                                                                 ।
-। hetutvāt     । that which causes                                                             ।
-। heya        । that which is to be avoided                                                   ।
-। heyāḥ       । what is fit to be abandoned or left aside                                     ।
-। heyaṁ        । that which is to be avoided                                                   ।
-। hi           । indeed                                                                        ।
-। hiṁsa       । violence                                                                      ।
+|              |                                                                               |
+|--------------|-------------------------------------------------------------------------------|
+| dhyānam      | effortless linking of the attention to a higher concentration force or person |
+| dhyānāt      | from effortless linkage of the mind to a higher concentration force           |
+| dīrgha       | long                                                                          |
+| dīrgha       | prolonged                                                                     |
+| divyaṁ       | divine, supernatural                                                          |
+| doṣa         | fault, defect                                                                 |
+| draṣṭā      | the perceiver                                                                 |
+| draṣṭṛ       | the observer                                                                  |
+| dṛḍha        | firm                                                                          |
+| drg (drk)    | supematural vision                                                            |
+| dṛśeḥ        | of the perceiver                                                              |
+| dṛśi         | perception, consciousness                                                     |
+| dṛṣṭa       | what is seen or perceived directly, realized                                  |
+| dṛśya       | the perceived                                                                 |
+| dṛśyam      | what is perceived                                                             |
+| dṛśyasya     | of what is seen                                                               |
+| dṛśyatvāt   | for it is due to being something to be perceived                              |
+| dṛśyayoḥ    | of what is perceived                                                          |
+| dṛśye       | in the perception of                                                          |
+| duḥka       | distress                                                                      |
+| duḥkhaiḥ     | with distress                                                                 |
+| duḥkham      | distress                                                                      |
+| dvandvāḥ    | the dualities of happiness and distress, heat and cold                        |
+| dveṣa        | impulsive emotional disaffection                                              |
+| **E**        |                                                                              |
+| eka          | one                                                                           |
+| ekāgra       | ability to link the attention to one concentration force or person            |
+| ekāgratā    | of what is in front of one aspect before the attention                        |
+| ekāgratayoḥ | of the one aspect before the attention                                        |
+| ekam        | one                                                                           |
+| ekarūpatvāt  | due to one form                                                               |
+| ekasamaye   | at the same time                                                              |
+| ekātmatā    | having one nature, identical                                                  |
+| ekatra      | in one place, all taken together as one practice                              |
+| ekatānatā   | one continuous threadlike flow of attention                                   |
+| ekatvāt      | singleness, uniqueness                                                        |
+| eṣaḥ        | this particular person                                                        |
+| eṣām         | of those, these                                                               |
+| etaya        | by this                                                                       |
+| etena        | by this                                                                       |
+| eva          | only, alone, indeed                                                           |
+| **G**        |                                                                              |
+| gamanam      | going through, passing through                                                |
+| gati         | course of heavenly planets and stars, the flow                                |
+| grahaṇa      | flow perception, sensual grasping                                             |
+| grahītṛ      | perceiver                                                                     |
+| grāhya      | appropriating, grasping sensual perceptiveness                                |
+| grāhyeṣu    | in what is perceived                                                          |
+| guṇa        | influences of material nature                                                 |
+| guṇānām      | of the influence of the subtle material nature                                |
+| guruḥ        | the spiritual teacher                                                         |
+| **H**        |                                                                              |
+| hana        | avoidance                                                                     |
+| hānam        | killing off, complete removal, withdrawal, escape                             |
+| hasti       | elephant                                                                      |
+| hetuḥ        | cause, reason                                                                 |
+| hetutvāt     | that which causes                                                             |
+| heya        | that which is to be avoided                                                   |
+| heyāḥ       | what is fit to be abandoned or left aside                                     |
+| heyaṁ        | that which is to be avoided                                                   |
+| hi           | indeed                                                                        |
+| hiṁsa       | violence                                                                      |
 
 
 
-।              ।                                                            ।
-।--------------।------------------------------------------------------------।
-। hlāda       । happiness                                                  ।
-। hṛdaye      । on the samyam, on the causal body                          ।
-। **I**        ।                                                           ।
-। indriya      । sense organs, sensual energy                               ।
-। indriyajayaḥ । the mastery of the sensual energy by psychological control ।
-। indriyāṇām   । of the sense                                               ।
-। indriyeṣu   । by the sensual energy                                      ।
-। irtareṣām    । for others                                                 ।
-। iṣṭadevatā  । cherished divine being                                     ।
-। īśvara       । Supreme Lord                                               ।
-। itaratra    । at other times                                             ।
-। itareṣām    । for others                                                 ।
-। itaretara   । one for the other                                          ।
-। iti         । that is all, thus, subsequently                            ।
-। iva         । as if, as it were, seems to be, like                       ।
-। **J**        ।                                                           ।
-। jāḥ          । what is produced from                                      ।
-। jala         । water                                                      ।
-। janma        । birth, particular species                                  ।
-। japaḥ        । murmering                                                  ।
-। jāti        । species, status of life, category                          ।
-। jaya        । conquest                                                   ।
-। jāyante     । is produced                                                ।
-। jayāt       । from the conquest of, from the mastery                     ।
-। jñāna       । knowledge                                                  ।
-। jñanadiptīḥ  । radiant organ of perception                                ।
-। jñānam       । information, knowledge                                     ।
-। jñānasaya   । of knowledge                                               ।
-। jñāta       । known                                                      ।
-। jñeyam       । what is known                                              ।
-। jugupsā      । aversion, disgust                                          ।
-। jvalanam    । shining, burning, blazing, with firey glow                 ।
-। jyotisi     । on the shinning light                                      ।
-। jyotiṣmatī   । spiritually luminous                                       ।
-। **K**        ।                                                           ।
-। kaivalya    । total separation from the mundane psychology               ।
-। kaivalyam    । separation of the spirit from psychology                   ।
-। kāla        । time                                                       ।
-। kālena      । by time                                                    ।
-। kaṇṭaka      । thoms                                                      ।
-। kaṇṭha      । throat                                                     ।
-। karaṇa      । cause, causing, creating, making                           ।
-। kārita      । cause to be done                                           ।
-। kāritvāt    । activity, force                                            ।
-। karma       । cultural activities, action                                ।
-। karuṇā      । compassion                                                 ।
-। kathaṁtā    । how, the reason for                                        ।
-। kāya        । body, subtle body                                          ।
-। khyāteḥ      । insight                                                    ।
-। khyāteḥ      । of a thorough awareness                                    ।
-। khyāti       । the discriminating faculty of the intellect                ।
-। khyātiḥ     । what is known or identified, insight                       ।
-। kiṁ         । what                                                       ।
-। kleśa        । mento-emotional afflictions,troubles                       ।
-। kleśavad     । like the mento-emotional afflictions                       ।
-। kliṣṭā      । agonizing                                                  ।
-। krama       । a step, succession, progression, process of development    ।
-। kramaḥ      । process                                                    ।
-। kramayoḥ     । on the sequence                                            ।
-। kriyā       । action                                                     ।
-। kriyāyogaḥ   । dynamic yoga practice                                      ।
-। krodha      । anger                                                      ।
-। kṛt          । fulfilled done                                             ।
-। kṛta        । done                                                       ।
-। kṛtārthānāṁ  । having done their purpose                                  ।
-। kṣaṇa       । moment                                                     ।
-। kṣaya       । decrease                                                   ।
+|              |                                                            |
+|--------------|------------------------------------------------------------|
+| hlāda       | happiness                                                  |
+| hṛdaye      | on the samyam, on the causal body                          |
+| **I**        |                                                           |
+| indriya      | sense organs, sensual energy                               |
+| indriyajayaḥ | the mastery of the sensual energy by psychological control |
+| indriyāṇām   | of the sense                                               |
+| indriyeṣu   | by the sensual energy                                      |
+| irtareṣām    | for others                                                 |
+| iṣṭadevatā  | cherished divine being                                     |
+| īśvara       | Supreme Lord                                               |
+| itaratra    | at other times                                             |
+| itareṣām    | for others                                                 |
+| itaretara   | one for the other                                          |
+| iti         | that is all, thus, subsequently                            |
+| iva         | as if, as it were, seems to be, like                       |
+| **J**        |                                                           |
+| jāḥ          | what is produced from                                      |
+| jala         | water                                                      |
+| janma        | birth, particular species                                  |
+| japaḥ        | murmering                                                  |
+| jāti        | species, status of life, category                          |
+| jaya        | conquest                                                   |
+| jāyante     | is produced                                                |
+| jayāt       | from the conquest of, from the mastery                     |
+| jñāna       | knowledge                                                  |
+| jñanadiptīḥ  | radiant organ of perception                                |
+| jñānam       | information, knowledge                                     |
+| jñānasaya   | of knowledge                                               |
+| jñāta       | known                                                      |
+| jñeyam       | what is known                                              |
+| jugupsā      | aversion, disgust                                          |
+| jvalanam    | shining, burning, blazing, with firey glow                 |
+| jyotisi     | on the shinning light                                      |
+| jyotiṣmatī   | spiritually luminous                                       |
+| **K**        |                                                           |
+| kaivalya    | total separation from the mundane psychology               |
+| kaivalyam    | separation of the spirit from psychology                   |
+| kāla        | time                                                       |
+| kālena      | by time                                                    |
+| kaṇṭaka      | thoms                                                      |
+| kaṇṭha      | throat                                                     |
+| karaṇa      | cause, causing, creating, making                           |
+| kārita      | cause to be done                                           |
+| kāritvāt    | activity, force                                            |
+| karma       | cultural activities, action                                |
+| karuṇā      | compassion                                                 |
+| kathaṁtā    | how, the reason for                                        |
+| kāya        | body, subtle body                                          |
+| khyāteḥ      | insight                                                    |
+| khyāteḥ      | of a thorough awareness                                    |
+| khyāti       | the discriminating faculty of the intellect                |
+| khyātiḥ     | what is known or identified, insight                       |
+| kiṁ         | what                                                       |
+| kleśa        | mento-emotional afflictions,troubles                       |
+| kleśavad     | like the mento-emotional afflictions                       |
+| kliṣṭā      | agonizing                                                  |
+| krama       | a step, succession, progression, process of development    |
+| kramaḥ      | process                                                    |
+| kramayoḥ     | on the sequence                                            |
+| kriyā       | action                                                     |
+| kriyāyogaḥ   | dynamic yoga practice                                      |
+| krodha      | anger                                                      |
+| kṛt          | fulfilled done                                             |
+| kṛta        | done                                                       |
+| kṛtārthānāṁ  | having done their purpose                                  |
+| kṣaṇa       | moment                                                     |
+| kṣaya       | decrease                                                   |
 
 
 
-।               ।                                                    ।
-।---------------।----------------------------------------------------।
-। kṣayaḥ        । dissipation, removal                               ।
-। kṣayāt        । from the elimination                               ।
-। kṣaye         । on elimination.                                    ।
-। kṣetram       । field, existential environment                     ।
-। kṣetrikavat   । like a farmer                                      ।
-। kṣīṇa        । great reduction                                    ।
-। kṣīyate      । is dissipated                                      ।
-। kṣut         । hunger                                             ।
-। kūpe         । on the gullet                                      ।
-। kūrma         । tortoise, a particular subtle nerve                ।
-। **L**         ।                                                   ।
-। lābhaḥ       । what is gained, obtained                           ।
-। laghu         । light                                              ।
-। lakṣaṇa      । individual characteristics, shape                  ।
-। lāvaṇya      । charm                                              ।
-। liṅgamātra   । a mark, that which is indicated                    ।
-। lobha        । greed                                              ।
-। **M**         ।                                                   ।
-। madhya        । mediocre                                           ।
-। mahā         । great                                              ।
-। mahatva      । largeness, cosmic proportions                      ।
-। mahāvratam   । great commitment                                   ।
-। maitrī        । friendliness                                       ।
-। mala         । impurities                                         ।
-। manasaḥ      । of the mind                                        ।
-। maṇeḥ         । of a gem                                           ।
-। manojavitvaṁ  । swiftness of mind, rapidity                        ।
-। mantra       । special sound                                      ।
-। mātra         । only, merely                                       ।
-। mātraḥ       । measure or extent                                  ।
-। mātrasya     । only                                               ।
-। mātrāt       । from that only                                     ।
-। meghaḥ        । mento-emotional clouds of energy                   ।
-। mithyājñānam  । false information                                  ।
-। moha          । delusion                                           ।
-। mṛdu         । minor, slight                                      ।
-। muditā       । joyfulness, cheerfulness                           ।
-। mūlaḥ         । root, cause                                        ।
-। mūle          । in the cause                                       ।
-। mūrdha       । the head                                           ।
-। **N**         ।                                                   ।
-। na            । not, nor                                           ।
-। nābhi        । navel                                              ।
-। nāḍyāṁ        । on the nadi or subtle nerve                        ।
-। nairantarya  । uninterrupted continuous                           ।
-। naṣṭam        । destroyed, non-existent, non-effective             ।
-। nibandhanī    । bond, fusion                                       ।
-। nidrā        । sleep                                              ।
-। nimittaṁ      । cause, motive, apparent cause                      ।
-। nimnaṁ       । leaning towards, inclined to                       ।
-। niratiśayaṁ   । unsurpassed                                        ।
-। nirbhāsā     । shining                                            ।
-। nirbhāsaṁ     । illuminating                                       ।
-। nirbījaḥ     । not motivated by themento-emotional energy        ।
-। nirbījasya    । not motivated by themento-emotional energy        ।
-। nirgāhyaḥ    । clearly perceived                                  ।
-। nirmāṇa      । producing, creating, measuring, fabricating        ।
-। nirodha       । restraint, cessation, suppression, non-operation   ।
-। nirodhāt      । resulting from thatnon-operation                  ।
-। nirodhe       । on the non-operation                               ।
-। nirupakramaṁ । dormant, destined                                  ।
-। nirvicāra     । non-investigative linkage                          ।
-। nirvitarka    । fusion or linkage without deliberation of analysis ।
-। nitya        । eternal                                            ।
-। nityatvāt     । what is eternal                                    ।
+|               |                                                    |
+|---------------|----------------------------------------------------|
+| kṣayaḥ        | dissipation, removal                               |
+| kṣayāt        | from the elimination                               |
+| kṣaye         | on elimination.                                    |
+| kṣetram       | field, existential environment                     |
+| kṣetrikavat   | like a farmer                                      |
+| kṣīṇa        | great reduction                                    |
+| kṣīyate      | is dissipated                                      |
+| kṣut         | hunger                                             |
+| kūpe         | on the gullet                                      |
+| kūrma         | tortoise, a particular subtle nerve                |
+| **L**         |                                                   |
+| lābhaḥ       | what is gained, obtained                           |
+| laghu         | light                                              |
+| lakṣaṇa      | individual characteristics, shape                  |
+| lāvaṇya      | charm                                              |
+| liṅgamātra   | a mark, that which is indicated                    |
+| lobha        | greed                                              |
+| **M**         |                                                   |
+| madhya        | mediocre                                           |
+| mahā         | great                                              |
+| mahatva      | largeness, cosmic proportions                      |
+| mahāvratam   | great commitment                                   |
+| maitrī        | friendliness                                       |
+| mala         | impurities                                         |
+| manasaḥ      | of the mind                                        |
+| maṇeḥ         | of a gem                                           |
+| manojavitvaṁ  | swiftness of mind, rapidity                        |
+| mantra       | special sound                                      |
+| mātra         | only, merely                                       |
+| mātraḥ       | measure or extent                                  |
+| mātrasya     | only                                               |
+| mātrāt       | from that only                                     |
+| meghaḥ        | mento-emotional clouds of energy                   |
+| mithyājñānam  | false information                                  |
+| moha          | delusion                                           |
+| mṛdu         | minor, slight                                      |
+| muditā       | joyfulness, cheerfulness                           |
+| mūlaḥ         | root, cause                                        |
+| mūle          | in the cause                                       |
+| mūrdha       | the head                                           |
+| **N**         |                                                   |
+| na            | not, nor                                           |
+| nābhi        | navel                                              |
+| nāḍyāṁ        | on the nadi or subtle nerve                        |
+| nairantarya  | uninterrupted continuous                           |
+| naṣṭam        | destroyed, non-existent, non-effective             |
+| nibandhanī    | bond, fusion                                       |
+| nidrā        | sleep                                              |
+| nimittaṁ      | cause, motive, apparent cause                      |
+| nimnaṁ       | leaning towards, inclined to                       |
+| niratiśayaṁ   | unsurpassed                                        |
+| nirbhāsā     | shining                                            |
+| nirbhāsaṁ     | illuminating                                       |
+| nirbījaḥ     | not motivated by themento-emotional energy        |
+| nirbījasya    | not motivated by themento-emotional energy        |
+| nirgāhyaḥ    | clearly perceived                                  |
+| nirmāṇa      | producing, creating, measuring, fabricating        |
+| nirodha       | restraint, cessation, suppression, non-operation   |
+| nirodhāt      | resulting from thatnon-operation                  |
+| nirodhe       | on the non-operation                               |
+| nirupakramaṁ | dormant, destined                                  |
+| nirvicāra     | non-investigative linkage                          |
+| nirvitarka    | fusion or linkage without deliberation of analysis |
+| nitya        | eternal                                            |
+| nityatvāt     | what is eternal                                    |
 
 
 
-।                ।                                                            ।
-।----------------।------------------------------------------------------------।
-। nivṛttiḥ       । cessation, suppression                                     ।
-। niyama         । recommended behaviors                                      ।
-। nyāsāt        । from placing or applying                                   ।
-। **P**          ।                                                           ।
-। pañcatayyaḥ    । fivefold                                                   ।
-। paṅka         । mud                                                        ।
-। panthāḥ        । ways of viewing, prejudices                                ।
-। para           । another, of others                                         ।
-। parair         । with others                                                ।
-। paraṁ          । highest (non-interest)                                     ।
-। paramā        । highest, greatest                                          ।
-। parārthaṁ     । for another's sake                                         ।
-। parārthatvāt   । what is apart from another thing                           ।
-। paridṛṣṭah     । measured, regulated                                        ।
-। pariṇāma      । transformation, change, alteration                         ।
-। pariśuddhau   । on complete purification                                   ।
-। paritāpa      । distress                                                   ।
-। parvāṇi       । phases stages parts                                        ।
-। paryavasānam   । termination                                                ।
-। paśyaḥ         । what is perceived                                          ।
-। phala          । effect                                                     ।
-। phalāḥ         । results                                                    ।
-। pipāsā         । thirst                                                     ।
-। prabhoḥ        । of the govemor                                             ।
-। pracāra        । channel flow                                               ।
-। pracchardana   । exhalation                                                 ।
-। pradhānah      । subtle matter                                              ।
-। prādurbhāvaḥ  । coming into existence, manifesting                         ।
-। prāg          । towards                                                    ।
-। prajñā        । insight                                                    ।
-। prajñābhyām    । from the two methods of insight                            ।
-। prakāśa       । clear perception, light                                    ।
-। prakṛiti       । subtle material nature                                     ।
-। prakṛtilayānām । of those who are diffused into subtle material nature      ।
-। prakṛtinām     । of the subtle material energy                              ।
-। pramāda       । inattentiveness                                            ।
-। pramāṇa       । correct perception                                         ।
-। pramāṇāni     । true perception, correct perception                        ।
-। prāṇasya       । of the vital energy                                        ।
-। praṇavaḥ      । the sacred syllable āuṁ (Oṁ)                               ।
-। prāṇāyāma     । breath enrichment of the subtle body                       ।
-। praṇidhānāni  । profound religious meditation                              ।
-। praṇidhānāt    । derived from profound religious meditation                 ।
-। prānta        । boundary or edge                                           ।
-। prāntabhūmiḥ  । stage                                                      ।
-। prasādaḥ      । clarity and serenity                                       ।
-। prasādanam    । serenity                                                   ।
-। prasaṁkhyāna  । in the abstract meditation                                 ।
-। prasaṅgāt      । due to association, due to endearing friendliness          ।
-। praśānta      । spiritual peace                                            ।
-। prasava       । expressing, going outwards                                 ।
-। prasupta       । dormant                                                    ।
-। praśvāsayoḥ    । of the exhalation                                          ।
-। prati          । opposing, reverting back, toward                           ।
-। pratibandhī   । the preventer, that which effectively suppresses something ।
-। prātibha      । the shining organ of divination                            ।
-। prātibhāt      । resulting from samyama on the shinning organ of divination ।
-। pratipakṣa     । what is opposite or contrary                               ।
-। pratipattiḥ    । perception                                                 ।
-। pratiprasavaḥ । re-absorption, retrogression, neutralization               ।
-। pratiṣedha     । removal                                                    ।
-। pratiṣthā     । established                                                ।
-। pratiṣṭham     । positioned, based                                          ।
+|                |                                                            |
+|----------------|------------------------------------------------------------|
+| nivṛttiḥ       | cessation, suppression                                     |
+| niyama         | recommended behaviors                                      |
+| nyāsāt        | from placing or applying                                   |
+| **P**          |                                                           |
+| pañcatayyaḥ    | fivefold                                                   |
+| paṅka         | mud                                                        |
+| panthāḥ        | ways of viewing, prejudices                                |
+| para           | another, of others                                         |
+| parair         | with others                                                |
+| paraṁ          | highest (non-interest)                                     |
+| paramā        | highest, greatest                                          |
+| parārthaṁ     | for another's sake                                         |
+| parārthatvāt   | what is apart from another thing                           |
+| paridṛṣṭah     | measured, regulated                                        |
+| pariṇāma      | transformation, change, alteration                         |
+| pariśuddhau   | on complete purification                                   |
+| paritāpa      | distress                                                   |
+| parvāṇi       | phases stages parts                                        |
+| paryavasānam   | termination                                                |
+| paśyaḥ         | what is perceived                                          |
+| phala          | effect                                                     |
+| phalāḥ         | results                                                    |
+| pipāsā         | thirst                                                     |
+| prabhoḥ        | of the govemor                                             |
+| pracāra        | channel flow                                               |
+| pracchardana   | exhalation                                                 |
+| pradhānah      | subtle matter                                              |
+| prādurbhāvaḥ  | coming into existence, manifesting                         |
+| prāg          | towards                                                    |
+| prajñā        | insight                                                    |
+| prajñābhyām    | from the two methods of insight                            |
+| prakāśa       | clear perception, light                                    |
+| prakṛiti       | subtle material nature                                     |
+| prakṛtilayānām | of those who are diffused into subtle material nature      |
+| prakṛtinām     | of the subtle material energy                              |
+| pramāda       | inattentiveness                                            |
+| pramāṇa       | correct perception                                         |
+| pramāṇāni     | true perception, correct perception                        |
+| prāṇasya       | of the vital energy                                        |
+| praṇavaḥ      | the sacred syllable āuṁ (Oṁ)                               |
+| prāṇāyāma     | breath enrichment of the subtle body                       |
+| praṇidhānāni  | profound religious meditation                              |
+| praṇidhānāt    | derived from profound religious meditation                 |
+| prānta        | boundary or edge                                           |
+| prāntabhūmiḥ  | stage                                                      |
+| prasādaḥ      | clarity and serenity                                       |
+| prasādanam    | serenity                                                   |
+| prasaṁkhyāna  | in the abstract meditation                                 |
+| prasaṅgāt      | due to association, due to endearing friendliness          |
+| praśānta      | spiritual peace                                            |
+| prasava       | expressing, going outwards                                 |
+| prasupta       | dormant                                                    |
+| praśvāsayoḥ    | of the exhalation                                          |
+| prati          | opposing, reverting back, toward                           |
+| pratibandhī   | the preventer, that which effectively suppresses something |
+| prātibha      | the shining organ of divination                            |
+| prātibhāt      | resulting from samyama on the shinning organ of divination |
+| pratipakṣa     | what is opposite or contrary                               |
+| pratipattiḥ    | perception                                                 |
+| pratiprasavaḥ | re-absorption, retrogression, neutralization               |
+| pratiṣedha     | removal                                                    |
+| pratiṣthā     | established                                                |
+| pratiṣṭham     | positioned, based                                          |
 
 
 
-।                ।                                                                                          ।
-।----------------।------------------------------------------------------------------------------------------।
-। pratiṣṭhāyāṁ   । on being firmly established                                                              ।
-। pratiyogī      । corresponding, being,a counter-part                                                      ।
-। pratyāhār     । sensual energy withdrawal                                                                ।
-। pratyāhraḥ     । withdrawal of sensual energy and its focus on the mind                                   ।
-। pratyak        । backwards, inwards, in the opposite direction                                            ।
-। pratyakṣa      । direct but correct perception                                                            ।
-। pratyayaḥ      । conviction or belief as mental content, instinctive interest                             ।
-। pratyayaḥ      । mental content, objective awareness within the psyche                                    ।
-। pratyayānām    । pertaining to the mind content, convictions, idea                                        ।
-। pratyayasya    । of the mind content                                                                      ।
-। pravibhāga     । differentiation, sorting, classification, mental clarity                                 ।
-। pravṛtti      । destined activity, the force of cultural activity                                        ।
-। pravṛtti      । frantic activity, dispersal of energy                                                    ।
-। pravṛttiḥ      । the operation                                                                            ।
-। prayatna      । effort                                                                                   ।
-। prayaya        । objective awareness, opinions and motives of mind content                                ।
-। prayojakaṁ     । very, much used or employed                                                              ।
-। punaḥ         । again                                                                                    ।
-। puṇya          । merits, virtue                                                                           ।
-। puruṣa        । of the spiritual person, individual spirit                                               ।
-। puruṣārtha    । the aims of a human being                                                                ।
-। puruṣasya      । of the spirit                                                                            ।
-। pūrva          । before, previous                                                                         ।
-। pūrvakaḥ      । caused by, proceeded by, previously practiced Glossary                                   ।
-। pūrveṣām       । of those before, the ancient teachers                                                    ।
-। **R**          ।                                                                                         ।
-। rāga          । a tendency of emotional attachment, craving                                              ।
-। rasa          । essence                                                                                  ।
-। ratna         । gems, precious things                                                                    ।
-। ṛtaṁbharā      । reality-perceptive, truth discerning                                                     ।
-। rūḍho          । developed produced                                                                       ।
-। rūpa          । form                                                                                     ।
-। ruta          । sound, cry, yell, language                                                               ।
-। **S**          ।                                                                                         ।
-। śabda         । sound                                                                                    ।
-। śabdādi       । sound and the related sensual pursuits                                                   ।
-। śabdajñāna    । written or spoken information                                                            ।
-। sabījaḥ        । with motivation from the mento-emotional energy                                          ।
-। sadā          । always                                                                                   ।
-। sādhāraṇatvāt  । common, normal, universal                                                                ।
-। sah           । He, that                                                                                 ।
-। sahabhuvaḥ    । occurring with the symptoms                                                              ।
-। śaithilyāt     । due to relaxation, collapse                                                              ।
-। sākṣātkaraṇāt  । from causing to be visibly present, direct intuitive                                     ।
-। śakti         । power, potency, energy                                                                   ।
-। śaktyoḥ        । of the two potencies                                                                     ।
-। sālambanaṁ     । leaning on, resting on, support                                                          ।
-। samādhi       । continuous effortless linkage of the attention to a higher concentration force or person ।
-। samāna        । digestive energy                                                                         ।
-। samāpatteḥ    । of meeting of linking                                                                    ।
-। samāpattibhyām । meeting encounter                                                                        ।
-। samāpattiḥ    । linkage fusion                                                                           ।
+|                |                                                                                          |
+|----------------|------------------------------------------------------------------------------------------|
+| pratiṣṭhāyāṁ   | on being firmly established                                                              |
+| pratiyogī      | corresponding, being,a counter-part                                                      |
+| pratyāhār     | sensual energy withdrawal                                                                |
+| pratyāhraḥ     | withdrawal of sensual energy and its focus on the mind                                   |
+| pratyak        | backwards, inwards, in the opposite direction                                            |
+| pratyakṣa      | direct but correct perception                                                            |
+| pratyayaḥ      | conviction or belief as mental content, instinctive interest                             |
+| pratyayaḥ      | mental content, objective awareness within the psyche                                    |
+| pratyayānām    | pertaining to the mind content, convictions, idea                                        |
+| pratyayasya    | of the mind content                                                                      |
+| pravibhāga     | differentiation, sorting, classification, mental clarity                                 |
+| pravṛtti      | destined activity, the force of cultural activity                                        |
+| pravṛtti      | frantic activity, dispersal of energy                                                    |
+| pravṛttiḥ      | the operation                                                                            |
+| prayatna      | effort                                                                                   |
+| prayaya        | objective awareness, opinions and motives of mind content                                |
+| prayojakaṁ     | very, much used or employed                                                              |
+| punaḥ         | again                                                                                    |
+| puṇya          | merits, virtue                                                                           |
+| puruṣa        | of the spiritual person, individual spirit                                               |
+| puruṣārtha    | the aims of a human being                                                                |
+| puruṣasya      | of the spirit                                                                            |
+| pūrva          | before, previous                                                                         |
+| pūrvakaḥ      | caused by, proceeded by, previously practiced Glossary                                   |
+| pūrveṣām       | of those before, the ancient teachers                                                    |
+| **R**          |                                                                                         |
+| rāga          | a tendency of emotional attachment, craving                                              |
+| rasa          | essence                                                                                  |
+| ratna         | gems, precious things                                                                    |
+| ṛtaṁbharā      | reality-perceptive, truth discerning                                                     |
+| rūḍho          | developed produced                                                                       |
+| rūpa          | form                                                                                     |
+| ruta          | sound, cry, yell, language                                                               |
+| **S**          |                                                                                         |
+| śabda         | sound                                                                                    |
+| śabdādi       | sound and the related sensual pursuits                                                   |
+| śabdajñāna    | written or spoken information                                                            |
+| sabījaḥ        | with motivation from the mento-emotional energy                                          |
+| sadā          | always                                                                                   |
+| sādhāraṇatvāt  | common, normal, universal                                                                |
+| sah           | He, that                                                                                 |
+| sahabhuvaḥ    | occurring with the symptoms                                                              |
+| śaithilyāt     | due to relaxation, collapse                                                              |
+| sākṣātkaraṇāt  | from causing to be visibly present, direct intuitive                                     |
+| śakti         | power, potency, energy                                                                   |
+| śaktyoḥ        | of the two potencies                                                                     |
+| sālambanaṁ     | leaning on, resting on, support                                                          |
+| samādhi       | continuous effortless linkage of the attention to a higher concentration force or person |
+| samāna        | digestive energy                                                                         |
+| samāpatteḥ    | of meeting of linking                                                                    |
+| samāpattibhyām | meeting encounter                                                                        |
+| samāpattiḥ    | linkage fusion                                                                           |
 
 
 
-।                 ।                                                                            ।
-।-----------------।----------------------------------------------------------------------------।
-। samāptir        । end conclusions                                                            ।
-। samaya          । condition                                                                  ।
-। saṁbandha       । relationship                                                               ।
-। saṁbodhaḥ      । full or correct perception                                                 ।
-। saṁhananatvāni । definiteness, hardness                                                     ।
-। saṁhatya       । because of it                                                              ।
-। saṁjñā          । consciousness, demeanor, mind-set                                          ।
-। saṁkāra        । impression                                                                 ।
-। saṁkhyābhiḥ    । with numbering accounting                                                  ।
-। saṁpat         । wealth, prosperity, perfection                                             ।
-। saṁprajñātaḥ   । the observational linkage of the attention to a higher concentration force ।
-। saṁprayogaḥ     । intimate contact                                                           ।
-। saṁśaya        । doubt                                                                      ।
-। saṁskāra       । impression in themento-emotional energy                                   ।
-। saṁskārāt      । from the impressions derived                                               ।
-। saṁskārayoḥ    । of the impressions formed of cultural activities                           ।
-। saṁskārebhaḥ   । from the subtle impressions                                                ।
-। saṁvedanam      । perception                                                                 ।
-। saṁvedanāt     । from knowing                                                               ।
-। saṁvegānām     । regarding those who practice forcibly                                      ।
-। saṁvit         । thorough insight                                                           ।
-। saṁyamād       । from the complete restraint of the mento- emotional energy                 ।
-। saṁyamah       । complete restraint                                                         ।
-। saṁyamāt       । from the complete restraint of the mento- emotional energy                 ।
-। sāmye          । on being equal, in the saṁe                                                ।
-। saṁyoga         । conjunction                                                                ।
-। saṁyogo        । the indiscriminateassociation                                             ।
-। saṅga           । association                                                                ।
-। saṅgṛhītatvāt   । what holds together                                                        ।
-। saṅkaraḥ       । confusion, intermixture                                                    ।
-। saṅkīrṇā       । blending together, mixed                                                   ।
-। sannidhau      । presence, vicinity                                                         ।
-। śānta          । tranquilized, settled,subsided, collapsed                                  ।
-। saṅtoṣa        । contentment                                                                ।
-। saṅtoṣāt       । from contentment                                                           ।
-। saptadhā        । sevenfold                                                                  ।
-। śarīra         । body                                                                       ।
-। sārūpyam        । with the same format, conformity                                           ।
-। sarva           । all                                                                        ।
-। sārvabhaumāḥ   । relating to all standard stages, being standard                            ।
-। sarvajña       । all knowing                                                                ।
-। sarvajñātṛtvaṁ । all knowledge, intuition                                                   ।
-। sarvam          । everything, all reality                                                    ।
-। sarvārtham      । what is all evaluating                                                     ।
-। sarvārthatā     । varying objective                                                          ।
-। sarvathā       । in all ways                                                                ।
-। sati            । being accomplished, there is existing                                      ।
-। satkāra         । reverence, care attention                                                  ।
-। sattva          । clarifying perception of material nature                                   ।
-। sattva         । intelligence energy of material nature                                     ।
-। satya           । realism                                                                    ।
-। śauca          । purification                                                               ।
-। śaucāt         । from purification                                                          ।
-। saumanasya      । concerning benevolence                                                     ।
-। savicāra        । investigative linkage of one's attention to a higher concetration force    ।
-। savitarkā      । thoughtfulness, reasoning, deliberation                                    ।
-। śeṣaḥ          । what is remaining                                                          ।
+|                 |                                                                            |
+|-----------------|----------------------------------------------------------------------------|
+| samāptir        | end conclusions                                                            |
+| samaya          | condition                                                                  |
+| saṁbandha       | relationship                                                               |
+| saṁbodhaḥ      | full or correct perception                                                 |
+| saṁhananatvāni | definiteness, hardness                                                     |
+| saṁhatya       | because of it                                                              |
+| saṁjñā          | consciousness, demeanor, mind-set                                          |
+| saṁkāra        | impression                                                                 |
+| saṁkhyābhiḥ    | with numbering accounting                                                  |
+| saṁpat         | wealth, prosperity, perfection                                             |
+| saṁprajñātaḥ   | the observational linkage of the attention to a higher concentration force |
+| saṁprayogaḥ     | intimate contact                                                           |
+| saṁśaya        | doubt                                                                      |
+| saṁskāra       | impression in themento-emotional energy                                   |
+| saṁskārāt      | from the impressions derived                                               |
+| saṁskārayoḥ    | of the impressions formed of cultural activities                           |
+| saṁskārebhaḥ   | from the subtle impressions                                                |
+| saṁvedanam      | perception                                                                 |
+| saṁvedanāt     | from knowing                                                               |
+| saṁvegānām     | regarding those who practice forcibly                                      |
+| saṁvit         | thorough insight                                                           |
+| saṁyamād       | from the complete restraint of the mento- emotional energy                 |
+| saṁyamah       | complete restraint                                                         |
+| saṁyamāt       | from the complete restraint of the mento- emotional energy                 |
+| sāmye          | on being equal, in the saṁe                                                |
+| saṁyoga         | conjunction                                                                |
+| saṁyogo        | the indiscriminateassociation                                             |
+| saṅga           | association                                                                |
+| saṅgṛhītatvāt   | what holds together                                                        |
+| saṅkaraḥ       | confusion, intermixture                                                    |
+| saṅkīrṇā       | blending together, mixed                                                   |
+| sannidhau      | presence, vicinity                                                         |
+| śānta          | tranquilized, settled,subsided, collapsed                                  |
+| saṅtoṣa        | contentment                                                                |
+| saṅtoṣāt       | from contentment                                                           |
+| saptadhā        | sevenfold                                                                  |
+| śarīra         | body                                                                       |
+| sārūpyam        | with the same format, conformity                                           |
+| sarva           | all                                                                        |
+| sārvabhaumāḥ   | relating to all standard stages, being standard                            |
+| sarvajña       | all knowing                                                                |
+| sarvajñātṛtvaṁ | all knowledge, intuition                                                   |
+| sarvam          | everything, all reality                                                    |
+| sarvārtham      | what is all evaluating                                                     |
+| sarvārthatā     | varying objective                                                          |
+| sarvathā       | in all ways                                                                |
+| sati            | being accomplished, there is existing                                      |
+| satkāra         | reverence, care attention                                                  |
+| sattva          | clarifying perception of material nature                                   |
+| sattva         | intelligence energy of material nature                                     |
+| satya           | realism                                                                    |
+| śauca          | purification                                                               |
+| śaucāt         | from purification                                                          |
+| saumanasya      | concerning benevolence                                                     |
+| savicāra        | investigative linkage of one's attention to a higher concetration force    |
+| savitarkā      | thoughtfulness, reasoning, deliberation                                    |
+| śeṣaḥ          | what is remaining                                                          |
 
 
 
-।                  ।                                                         ।
-।------------------।---------------------------------------------------------।
-। siddha           । the perfected being                                     ।
-। siddhayaḥ        । mystic perfectional skills                              ।
-। siddhiḥ          । perfection, skill                                       ।
-। sīlaṁ            । form, disposition                                       ।
-। smaya            । fascination, wonderment                                 ।
-। smṛtayaḥ         । memory                                                  ।
-। smṛti            । memory                                                  ।
-। sopakramaṁ       । set about, undertaken, already operative                ।
-। śraddhā          । confidence                                              ।
-। śrāvaṇa          । hearing                                                 ।
-। śrotra           । hearing sense                                           ।
-। śrotram          । hearing sense                                           ।
-। śruta            । what is heard                                           ।
-। stambha          । restrained, suppressed, restrictive                     ।
-। stambhe          । on the suspension                                       ।
-। sthairyam        । steadiness                                              ।
-। sthairye         । in the consistent                                       ।
-। sthāni           । the place a yogi would attain if his material body dies ।
-। sthira           । steady                                                  ।
-। sthitau          । regarding steadiness or persistence                     ।
-। sthiti          । stability, steadiness                                   ।
-। stūla           । gross for                                               ।
-। styāna           । idleness                                                ।
-। śuci             । pure                                                    ।
-। śuddaḥ           । purity                                                  ।
-। śuddhi           । purification                                            ।
-। sukha            । happiness                                               ।
-। sukham           । comfortable                                             ।
-। sūkṣma           । subtle                                                  ।
-। sūkṣmaḥ          । subtle energies, hardly noticeable                      ।
-। śunya            । devoid of                                               ।
-। śūnyam           । empty, void, lacking                                    ।
-। śūnyānāṁ         । devoid of                                               ।
-। sūrye            । on the sun-god or the sun planet                        ।
-। sva              । own nature, own psyche, itself, oneself                 ।
-। svābhāsaṁ        । self-illuminative                                       ।
-। svādhyāya        । study of the psyche                                     ।
-। svādhyāyāt       । from study of the psyche                                ।
-। svāmi            । the master, the individual self                         ।
-। svapna           । dream                                                   ।
-। svarasavāhī      । it's own flow of energy of self preservation            ।
-। svārtha          । one own, self interest                                  ।
-। svarūpa          । own form                                                ।
-। svarūpataḥ       । true form                                               ।
-। svarūpe          । in his own form                                         ।
-। śvāsa            । inhalation                                              ।
-। śvāsapraśvāsāḥ   । labored breathing                                       ।
-। syāt             । would occur                                             ।
-। **T **           ।                                                        ।
-। tā               । they                                                    ।
-। tad              । that                                                    ।
-। tadā             । then                                                    ।
-। tadarthabhābanam । that value with deep feelings                           ।
-। tadeva           । that only, alone                                        ।
-। tānatā           । thread of fiber                                         ।
-। tantraṁ          । dependent                                               ।
-। tanū             । thinking reducing                                       ।
-। tāpa             । strenuous endeavor                                      ।
-। tapaḥ            । austerity                                               ।
-। tārā             । stars                                                   ।
-। tārakaṁ          । crossing over transcending                              ।
-। tāsām            । those                                                   ।
-। tasmin           । on this                                                 ।
-। tasya            । of it, of this, of him, of his                          ।
-। tat              । that                                                    ।
-। tataḥ            । hence, subsequently                                     ।
-। tatha            । just as, so it is                                       ।
-। tatra            । there, in that location                                 ।
-। tatstha          । basis foundation                                        ।
-। tattva           । standard method in pursuit of reality                   ।
-। tattvam          । essence, actual composition                             ।
-। tayoḥ            । of these two                                            ।
+|                  |                                                         |
+|------------------|---------------------------------------------------------|
+| siddha           | the perfected being                                     |
+| siddhayaḥ        | mystic perfectional skills                              |
+| siddhiḥ          | perfection, skill                                       |
+| sīlaṁ            | form, disposition                                       |
+| smaya            | fascination, wonderment                                 |
+| smṛtayaḥ         | memory                                                  |
+| smṛti            | memory                                                  |
+| sopakramaṁ       | set about, undertaken, already operative                |
+| śraddhā          | confidence                                              |
+| śrāvaṇa          | hearing                                                 |
+| śrotra           | hearing sense                                           |
+| śrotram          | hearing sense                                           |
+| śruta            | what is heard                                           |
+| stambha          | restrained, suppressed, restrictive                     |
+| stambhe          | on the suspension                                       |
+| sthairyam        | steadiness                                              |
+| sthairye         | in the consistent                                       |
+| sthāni           | the place a yogi would attain if his material body dies |
+| sthira           | steady                                                  |
+| sthitau          | regarding steadiness or persistence                     |
+| sthiti          | stability, steadiness                                   |
+| stūla           | gross for                                               |
+| styāna           | idleness                                                |
+| śuci             | pure                                                    |
+| śuddaḥ           | purity                                                  |
+| śuddhi           | purification                                            |
+| sukha            | happiness                                               |
+| sukham           | comfortable                                             |
+| sūkṣma           | subtle                                                  |
+| sūkṣmaḥ          | subtle energies, hardly noticeable                      |
+| śunya            | devoid of                                               |
+| śūnyam           | empty, void, lacking                                    |
+| śūnyānāṁ         | devoid of                                               |
+| sūrye            | on the sun-god or the sun planet                        |
+| sva              | own nature, own psyche, itself, oneself                 |
+| svābhāsaṁ        | self-illuminative                                       |
+| svādhyāya        | study of the psyche                                     |
+| svādhyāyāt       | from study of the psyche                                |
+| svāmi            | the master, the individual self                         |
+| svapna           | dream                                                   |
+| svarasavāhī      | it's own flow of energy of self preservation            |
+| svārtha          | one own, self interest                                  |
+| svarūpa          | own form                                                |
+| svarūpataḥ       | true form                                               |
+| svarūpe          | in his own form                                         |
+| śvāsa            | inhalation                                              |
+| śvāsapraśvāsāḥ   | labored breathing                                       |
+| syāt             | would occur                                             |
+| **T **           |                                                        |
+| tā               | they                                                    |
+| tad              | that                                                    |
+| tadā             | then                                                    |
+| tadarthabhābanam | that value with deep feelings                           |
+| tadeva           | that only, alone                                        |
+| tānatā           | thread of fiber                                         |
+| tantraṁ          | dependent                                               |
+| tanū             | thinking reducing                                       |
+| tāpa             | strenuous endeavor                                      |
+| tapaḥ            | austerity                                               |
+| tārā             | stars                                                   |
+| tārakaṁ          | crossing over transcending                              |
+| tāsām            | those                                                   |
+| tasmin           | on this                                                 |
+| tasya            | of it, of this, of him, of his                          |
+| tat              | that                                                    |
+| tataḥ            | hence, subsequently                                     |
+| tatha            | just as, so it is                                       |
+| tatra            | there, in that location                                 |
+| tatstha          | basis foundation                                        |
+| tattva           | standard method in pursuit of reality                   |
+| tattvam          | essence, actual composition                             |
+| tayoḥ            | of these two                                            |
 
 
 
-।                ।                                                         ।
-।----------------।---------------------------------------------------------।
-। te             । these, they                                             ।
-। tīvra          । very intense                                            ।
-। traya          । threefold                                               ।
-। trayam         । three                                                   ।
-। trividham      । three fold                                              ।
-। tu             । but, except                                             ।
-। tūla           । cotton fluff                                            ।
-। tulya          । similar                                                 ।
-। tulyayoḥ       । of two similar types                                    ।
-। tyagaḥ         । abandonment                                             ।
-। **U**          ।                                                        ।
-। ubhaya         । both                                                    ।
-। udāna          । air which rises from the throat and enters the head     ।
-। udārāṇām       । expanded                                                ।
-। udayau         । and increase                                            ।
-। udita          । emergent                                                ।
-। uditau         । and agitated, emerging                                  ।
-। uktam          । authoritively said, described                           ।
-। upalabdhi      । obtaining experience                                    ।
-। upanimantraṇe  । on being invited                                        ।
-। uparāga        । color, mood                                             ।
-। uparaktaṁ      । prejudiced                                              ।
-। upasargāḥ      । impediments                                             ।
-। upasthānam     । approaching, waiting upon                               ।
-। upāyaḥ         । means, method                                           ।
-। upekṣaṇam      । indifference, neutrality, non-responsiveness            ।
-। utkrāntiḥ      । rising above                                            ।
-। utpannā        । produced, brought about                                 ।
-। uttareṣām      । of the other afflictions                                ।
-। **V**          ।                                                        ।
-। vā             । thus, at last, or                                       ।
-। vācakaḥ        । what is denoted or named                                ।
-। vāhī           । flow current,instinct for self-preservation            ।
-। vāhita         । flow                                                    ।
-। vaira          । hostility                                               ।
-। vairāgyābhyāṁ  । non-interest, a total lack of concern,non-interference ।
-। vairāgyam      । non-interest                                            ।
-। vairāgyāt      । from a lack of interest                                 ।
-। vaiśāradye     । on gaining competence                                   ।
-। vaitṛṣṇyam     । freedom from desire                                     ।
-। vajra          । diamond like, infallible                                ।
-। varaṇa         । impediments, obstacles                                  ।
-। vārtāḥ         । smell                                                   ।
-। vāsanābhiḥ     । subtle impressions                                      ।
-। vāsanānām      । of tendencies within the mento-emotional energy         ।
-। vasīkāra       । through control                                         ।
-। vasīkāraḥ      । mastery of the psyche                                   ।
-। vastu          । object                                                  ।
-। vastuśūnyaḥ    । devoid of reality, without reality                      ।
-। vaśyatā        । subdued, subjugation, control                           ।
-। vedana         । touching                                                ।
-। vedanīyaḥ      । what is experienced or realized                         ।
-। vi             । parting away from, dispersing                           ।
-। vibhaktaḥ      । separated, divided                                      ।
-। vicāra         । deliberation, reflection                                ।
-। vicchedaḥ      । the separation                                          ।
-। vicchina       । alternating, periodic                                   ।
-। videhā         । bodiless state                                          ।
-। vidhāraṇābhyāṁ । by inhalation                                           ।
-। viduṣaḥ        । the wise man                                            ।
-। vikalpa        । imagination                                             ।
-। vikalpaiḥ      । with option, alternative, doubt, uncertainty            ।
-। vikṣepa        । distraction                                             ।
-। viniyogaḥ      । application, employment, practice                       ।
-। vipāka         । development, fruition                                   ।
-। vipakaḥ        । what is resulting                                       ।
-। viparyaya      । incorrect perception                                    ।
-। viprakṛṣṭa     । remote                                                  ।
+|                |                                                         |
+|----------------|---------------------------------------------------------|
+| te             | these, they                                             |
+| tīvra          | very intense                                            |
+| traya          | threefold                                               |
+| trayam         | three                                                   |
+| trividham      | three fold                                              |
+| tu             | but, except                                             |
+| tūla           | cotton fluff                                            |
+| tulya          | similar                                                 |
+| tulyayoḥ       | of two similar types                                    |
+| tyagaḥ         | abandonment                                             |
+| **U**          |                                                        |
+| ubhaya         | both                                                    |
+| udāna          | air which rises from the throat and enters the head     |
+| udārāṇām       | expanded                                                |
+| udayau         | and increase                                            |
+| udita          | emergent                                                |
+| uditau         | and agitated, emerging                                  |
+| uktam          | authoritively said, described                           |
+| upalabdhi      | obtaining experience                                    |
+| upanimantraṇe  | on being invited                                        |
+| uparāga        | color, mood                                             |
+| uparaktaṁ      | prejudiced                                              |
+| upasargāḥ      | impediments                                             |
+| upasthānam     | approaching, waiting upon                               |
+| upāyaḥ         | means, method                                           |
+| upekṣaṇam      | indifference, neutrality, non-responsiveness            |
+| utkrāntiḥ      | rising above                                            |
+| utpannā        | produced, brought about                                 |
+| uttareṣām      | of the other afflictions                                |
+| **V**          |                                                        |
+| vā             | thus, at last, or                                       |
+| vācakaḥ        | what is denoted or named                                |
+| vāhī           | flow current,instinct for self-preservation            |
+| vāhita         | flow                                                    |
+| vaira          | hostility                                               |
+| vairāgyābhyāṁ  | non-interest, a total lack of concern,non-interference |
+| vairāgyam      | non-interest                                            |
+| vairāgyāt      | from a lack of interest                                 |
+| vaiśāradye     | on gaining competence                                   |
+| vaitṛṣṇyam     | freedom from desire                                     |
+| vajra          | diamond like, infallible                                |
+| varaṇa         | impediments, obstacles                                  |
+| vārtāḥ         | smell                                                   |
+| vāsanābhiḥ     | subtle impressions                                      |
+| vāsanānām      | of tendencies within the mento-emotional energy         |
+| vasīkāra       | through control                                         |
+| vasīkāraḥ      | mastery of the psyche                                   |
+| vastu          | object                                                  |
+| vastuśūnyaḥ    | devoid of reality, without reality                      |
+| vaśyatā        | subdued, subjugation, control                           |
+| vedana         | touching                                                |
+| vedanīyaḥ      | what is experienced or realized                         |
+| vi             | parting away from, dispersing                           |
+| vibhaktaḥ      | separated, divided                                      |
+| vicāra         | deliberation, reflection                                |
+| vicchedaḥ      | the separation                                          |
+| vicchina       | alternating, periodic                                   |
+| videhā         | bodiless state                                          |
+| vidhāraṇābhyāṁ | by inhalation                                           |
+| viduṣaḥ        | the wise man                                            |
+| vikalpa        | imagination                                             |
+| vikalpaiḥ      | with option, alternative, doubt, uncertainty            |
+| vikṣepa        | distraction                                             |
+| viniyogaḥ      | application, employment, practice                       |
+| vipāka         | development, fruition                                   |
+| vipakaḥ        | what is resulting                                       |
+| viparyaya      | incorrect perception                                    |
+| viprakṛṣṭa     | remote                                                  |
 
 
 
-।               ।                                                                            ।
-।---------------।----------------------------------------------------------------------------।
-। virāma        । losing track of, dropping                                                  ।
-। virodhāt      । resulting from confrontation or clashing aspects                           ।
-। vīrya         । vigor, stamina                                                             ।
-। viṣayā        । object                                                                     ।
-। viṣayaṁ       । an object or person                                                        ।
-। viṣayaṁ       । subtle and gross mundane objects                                           ।
-। viṣayāṇām     । relating to attractive objects                                             ।
-। viṣayatvaṁ    । what is concerning the nature of gross objects                             ।
-। viṣayavatī    । like normal sensuality, something different but similar to a normal object ।
-। viśeṣa        । distinction, specific perception                                           ।
-। viśeṣaḥ       । rating                                                                     ।
-। viśokāh       । sorrowless                                                                 ।
-। vīta          । without                                                                    ।
-। vitarka       । doubt, argument, analysis                                                  ।
-। vitṛṣṇasya    । of one who does not crave                                                  ।
-। viveka        । discrimination                                                             ।
-। vivekajaṁ     । the distinction caused by subtle discrimination                            ।
-। vivekakhyāteḥ । with super discrimination                                                  ।
-। vivekinaḥ     । the discriminating person                                                  ।
-। vṛttayaḥ      । vibrational modes of the mento-emotional energies                          ।
-। vṛtteḥ        । concerning the mento-emotional operations                                  ।
-। vṛtti         । vibrational mode of the mento-emotional energy                             ।
-। vṛttiḥ        । activity, movement, operation                                              ।
-। vyādhi        । disease                                                                    ।
-। vyākhyātā     । explained                                                                  ।
-। vyakhyātāḥ    । is described                                                               ।
-। vyakta        । gross                                                                      ।
-। vyavahita     । concealed                                                                  ।
-। vyavahitānām  । of what is placed apart or separated                                       ।
-। vyūha         । arrangement, layout, system                                                ।
-। vyutthāna     । expression                                                                 ।
-। vyutthāne     । in expressing, going outwards, rising up                                   ।
-। **Y**         ।                                                                           ।
-। yama          । moral restrains                                                            ।
-। yatha         । as, according                                                              ।
-। yatnaḥ        । endeavor                                                                   ।
-। yoga          । yoga process                                                               ।
-। yogaḥ         । the skill of yoga                                                          ।
-। yogānuśāsanam । yoga and its practice                                                      ।
-। yoginaḥ       । of the yogis                                                               ।
-। yogyatā       । being conducive for abstract meditation                                    ।
-। yogyatvāni    । being fit for yoga or abstract meditation                                  ।
+|               |                                                                            |
+|---------------|----------------------------------------------------------------------------|
+| virāma        | losing track of, dropping                                                  |
+| virodhāt      | resulting from confrontation or clashing aspects                           |
+| vīrya         | vigor, stamina                                                             |
+| viṣayā        | object                                                                     |
+| viṣayaṁ       | an object or person                                                        |
+| viṣayaṁ       | subtle and gross mundane objects                                           |
+| viṣayāṇām     | relating to attractive objects                                             |
+| viṣayatvaṁ    | what is concerning the nature of gross objects                             |
+| viṣayavatī    | like normal sensuality, something different but similar to a normal object |
+| viśeṣa        | distinction, specific perception                                           |
+| viśeṣaḥ       | rating                                                                     |
+| viśokāh       | sorrowless                                                                 |
+| vīta          | without                                                                    |
+| vitarka       | doubt, argument, analysis                                                  |
+| vitṛṣṇasya    | of one who does not crave                                                  |
+| viveka        | discrimination                                                             |
+| vivekajaṁ     | the distinction caused by subtle discrimination                            |
+| vivekakhyāteḥ | with super discrimination                                                  |
+| vivekinaḥ     | the discriminating person                                                  |
+| vṛttayaḥ      | vibrational modes of the mento-emotional energies                          |
+| vṛtteḥ        | concerning the mento-emotional operations                                  |
+| vṛtti         | vibrational mode of the mento-emotional energy                             |
+| vṛttiḥ        | activity, movement, operation                                              |
+| vyādhi        | disease                                                                    |
+| vyākhyātā     | explained                                                                  |
+| vyakhyātāḥ    | is described                                                               |
+| vyakta        | gross                                                                      |
+| vyavahita     | concealed                                                                  |
+| vyavahitānām  | of what is placed apart or separated                                       |
+| vyūha         | arrangement, layout, system                                                |
+| vyutthāna     | expression                                                                 |
+| vyutthāne     | in expressing, going outwards, rising up                                   |
+| **Y**         |                                                                           |
+| yama          | moral restrains                                                            |
+| yatha         | as, according                                                              |
+| yatnaḥ        | endeavor                                                                   |
+| yoga          | yoga process                                                               |
+| yogaḥ         | the skill of yoga                                                          |
+| yogānuśāsanam | yoga and its practice                                                      |
+| yoginaḥ       | of the yogis                                                               |
+| yogyatā       | being conducive for abstract meditation                                    |
+| yogyatvāni    | being fit for yoga or abstract meditation                                  |
 
 
 
@@ -7429,241 +7429,241 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 
 **Index to *Verses*; Selected Sanskrit Words**
 
-।                   ।             ।
-।-------------------।-------------।
-। **A**             ।            ।
-। abhiniveśaḥ       । 2.9         ।
-। abhyāsaḥ          । 1.32        ।
-। adhyātmaprasādaḥ  । 1.47        ।
-। ahiṁsā            । 2.30,35     ।
-। āloka             । 3.27        ।
-। ānantyāt          । 4.31        ।
-। anāśayam          । 4.6         ।
-। anavadhāraṇam     । 4.20        ।
-। aṇimādi           । 3.46        ।
-। antaraṅgaṁ        । 3.7         ।
-। antardhānam       । 3.21,22     ।
-। anuguṇānām        । 4.8         ।
-। aparigrahāḥ       । 2.30        ।
-। āsana             । 2.29,46     ।
-। asmitā            । 2.6, 3.48   ।
-। asmitāmātrāt      । 4.4         ।
-। asteya            । 2.30        ।
-। ātmabhāva         । 4.25        ।
-। ātmadarśana       । 2.41        ।
-। auṣadhi           । 4.1         ।
-। āvaraṇam          । 2.52, 4.31  ।
-। avidyā            । 2.4, 5, 24  ।
-। āvivekakhyāteḥ    । 2.28        ।
-। **B**             ।            ।
-। bahiraṅgaṁ        । 3.8         ।
-। bhāvanānivṛttiḥ   । 4.25        ।
-। ‘bhiniveśaḥ       । 2.9         ।
-। bhogāḥ            । 2.13        ।
-। bhogāpavargārthaṁ । 2.18        ।
-। brahmacarya       । 2.30, 38    ।
-। buddhibuddheḥ     । 4.21        ।
-। **C**             ।            ।
-। candre            । 3.28        ।
-। citeḥ             । 4.22        ।
-। citiśaktiritiṁ    । 4.34        ।
-। cittabhedāt       । 4.15        ।
-। cittam            । 4.5, 23, 26 ।
-। cittāntaradṛśye   । 4.21        ।
-। cittasaṃvit       । 3.35        ।
-। cittavikṣepaḥ     । 1.30        ।
-। cittavṛtti        । 1.2         ।
-। **D**             ।            ।
-। deśa              । 3.1; 4.9    ।
-। dhāraṇā           । 2.29; 3.1   ।
-। dhāraṇā           । 3.1         ।
-। dhāraṇāsu         । 2.53        ।
-। dharmameghaḥ      । 4.29        ।
-। dharmī            । 3.14        ।
-। dhruve            । 3.29        ।
-। dhyāna            । 2.29; 3.2   ।
-। dhyānaheyāḥ       । 2.11        ।
-। dhyānajam         । 4.6         ।
-। dhyānāt           । 1.39        ।
-। draṣṭā            । 2.20        ।
-। draṣṭṛ            । 4.23        ।
-। draṣṭuḥ           । 1.3         ।
-। dṛg               । 2.6         ।
-। dṛśya             । 4.23        ।
-। dṛśyatvāt         । 4.19        ।
-। dvandvāḥ          । 2.48        ।
-। dveṣaḥ            । 2.8         ।
+|                   |             |
+|-------------------|-------------|
+| **A**             |            |
+| abhiniveśaḥ       | 2.9         |
+| abhyāsaḥ          | 1.32        |
+| adhyātmaprasādaḥ  | 1.47        |
+| ahiṁsā            | 2.30,35     |
+| āloka             | 3.27        |
+| ānantyāt          | 4.31        |
+| anāśayam          | 4.6         |
+| anavadhāraṇam     | 4.20        |
+| aṇimādi           | 3.46        |
+| antaraṅgaṁ        | 3.7         |
+| antardhānam       | 3.21,22     |
+| anuguṇānām        | 4.8         |
+| aparigrahāḥ       | 2.30        |
+| āsana             | 2.29,46     |
+| asmitā            | 2.6, 3.48   |
+| asmitāmātrāt      | 4.4         |
+| asteya            | 2.30        |
+| ātmabhāva         | 4.25        |
+| ātmadarśana       | 2.41        |
+| auṣadhi           | 4.1         |
+| āvaraṇam          | 2.52, 4.31  |
+| avidyā            | 2.4, 5, 24  |
+| āvivekakhyāteḥ    | 2.28        |
+| **B**             |            |
+| bahiraṅgaṁ        | 3.8         |
+| bhāvanānivṛttiḥ   | 4.25        |
+| ‘bhiniveśaḥ       | 2.9         |
+| bhogāḥ            | 2.13        |
+| bhogāpavargārthaṁ | 2.18        |
+| brahmacarya       | 2.30, 38    |
+| buddhibuddheḥ     | 4.21        |
+| **C**             |            |
+| candre            | 3.28        |
+| citeḥ             | 4.22        |
+| citiśaktiritiṁ    | 4.34        |
+| cittabhedāt       | 4.15        |
+| cittam            | 4.5, 23, 26 |
+| cittāntaradṛśye   | 4.21        |
+| cittasaṃvit       | 3.35        |
+| cittavikṣepaḥ     | 1.30        |
+| cittavṛtti        | 1.2         |
+| **D**             |            |
+| deśa              | 3.1; 4.9    |
+| dhāraṇā           | 2.29; 3.1   |
+| dhāraṇā           | 3.1         |
+| dhāraṇāsu         | 2.53        |
+| dharmameghaḥ      | 4.29        |
+| dharmī            | 3.14        |
+| dhruve            | 3.29        |
+| dhyāna            | 2.29; 3.2   |
+| dhyānaheyāḥ       | 2.11        |
+| dhyānajam         | 4.6         |
+| dhyānāt           | 1.39        |
+| draṣṭā            | 2.20        |
+| draṣṭṛ            | 4.23        |
+| draṣṭuḥ           | 1.3         |
+| dṛg               | 2.6         |
+| dṛśya             | 4.23        |
+| dṛśyatvāt         | 4.19        |
+| dvandvāḥ          | 2.48        |
+| dveṣaḥ            | 2.8         |
 
 
 
-।                    ।                          ।
-।--------------------।--------------------------।
-। **E**              ।                         ।
-। ekacitta           । 4.16                     ।
-। ekāgra             । 2.41                     ।
-। ekāgratāpariṇāmaḥ  । 3.12                     ।
-। ekasamaye          । 4.20                     ।
-। **G**              ।                         ।
-। guṇānām            । 4.32, 34                 ।
-। guṇaparvāṇi        । 2.19                     ।
-। guṇātmānaḥ         । 4.13                     ।
-। guṇavṛtti          । 2.15                     ।
-। guruḥ              । 1.26                     ।
-। **H**              ।                         ।
-। hānam              । 4.28                     ।
-। hṛdaye             । 3.35                     ।
-। **I**              ।                         ।
-। indriyajaya        । 2.41                     ।
-। iṣṭadevatā         । 2.44, 45                 ।
-। Īśvara             । 1.23, 24                 ।
-। Īśvarapraṇidhānāni । 2.32, 45                 ।
-। **J**              ।                         ।
-। janma              । 4.1                      ।
-। japaḥ              । 1.28                     ।
-। jāti               । 4.9                      ।
-। jātyantara         । 4.2                      ।
-। jñānadīptiḥ        । 2.28                     ।
-। jyotiṣmatī         । 1.36                     ।
-। **K**              ।                         ।
-। kaivalyam          । 2.25; 3.34, 51, 56; 4.26 ।
-। kāla               । 4.9                      ।
-। kaṇṭhakūpe         । 3.31                     ।
-। karma              । 3.15, 23; 4.7, 30        ।
-। karmāśayaḥ         । 2.12                     ।
-। kāya               । 2.43; 3.21, 43           ।
-। kāyasaṁpat         । 3.47                     ।
-। khyātimātrasya     । 3.50                     ।
-। kleśa              । 2.2; 4.30                ।
-। kleśavat           । 4.28                     ।
-। kriyā              । 2.18                     ।
-। kriyāyogaḥ         । 2.1                      ।
-। krodha             । 2.34                     ।
-। kṣaṇa              । 3.53                     ।
-। kṣetram            । 2.4                      ।
-। kūrmanāḍyāṃ        । 3.32                     ।
-। **L**              ।                         ।
-। Lobha              । 2.34                     ।
-। **M**              ।                         ।
-। mahāvidehā         । 3.44                     ।
-। mahāvratam         । 2.31                     ।
-। manasaḥ            । 2.53                     ।
-। mantra             । 4.1                      ।
-। moha               । 2.34                     ।
-। mūrdhajyoti        । 3.33                     ।
-। **N**              ।                         ।
-। nābhicakre         । 3.30                     ।
-। nimittaṁ           । 4.3                      ।
-। nirbījaḥ           । 1.51; 3.8                ।
-। nirmāṇacittān      । 4.4                      ।
-। nirodhaḥ           । 1.2, 51; 3.9             ।
-। nirvicāra          । 1.44, 47                 ।
-। nirvitarka         । 1.43                     ।
-। nivṛttiḥ           । 3.31; 4.30               ।
-। niyama             । 2.29, 32                 ।
-। nyāsāt             । 3.27                     ।
+|                    |                          |
+|--------------------|--------------------------|
+| **E**              |                         |
+| ekacitta           | 4.16                     |
+| ekāgra             | 2.41                     |
+| ekāgratāpariṇāmaḥ  | 3.12                     |
+| ekasamaye          | 4.20                     |
+| **G**              |                         |
+| guṇānām            | 4.32, 34                 |
+| guṇaparvāṇi        | 2.19                     |
+| guṇātmānaḥ         | 4.13                     |
+| guṇavṛtti          | 2.15                     |
+| guruḥ              | 1.26                     |
+| **H**              |                         |
+| hānam              | 4.28                     |
+| hṛdaye             | 3.35                     |
+| **I**              |                         |
+| indriyajaya        | 2.41                     |
+| iṣṭadevatā         | 2.44, 45                 |
+| Īśvara             | 1.23, 24                 |
+| Īśvarapraṇidhānāni | 2.32, 45                 |
+| **J**              |                         |
+| janma              | 4.1                      |
+| japaḥ              | 1.28                     |
+| jāti               | 4.9                      |
+| jātyantara         | 4.2                      |
+| jñānadīptiḥ        | 2.28                     |
+| jyotiṣmatī         | 1.36                     |
+| **K**              |                         |
+| kaivalyam          | 2.25; 3.34, 51, 56; 4.26 |
+| kāla               | 4.9                      |
+| kaṇṭhakūpe         | 3.31                     |
+| karma              | 3.15, 23; 4.7, 30        |
+| karmāśayaḥ         | 2.12                     |
+| kāya               | 2.43; 3.21, 43           |
+| kāyasaṁpat         | 3.47                     |
+| khyātimātrasya     | 3.50                     |
+| kleśa              | 2.2; 4.30                |
+| kleśavat           | 4.28                     |
+| kriyā              | 2.18                     |
+| kriyāyogaḥ         | 2.1                      |
+| krodha             | 2.34                     |
+| kṣaṇa              | 3.53                     |
+| kṣetram            | 2.4                      |
+| kūrmanāḍyāṃ        | 3.32                     |
+| **L**              |                         |
+| Lobha              | 2.34                     |
+| **M**              |                         |
+| mahāvidehā         | 3.44                     |
+| mahāvratam         | 2.31                     |
+| manasaḥ            | 2.53                     |
+| mantra             | 4.1                      |
+| moha               | 2.34                     |
+| mūrdhajyoti        | 3.33                     |
+| **N**              |                         |
+| nābhicakre         | 3.30                     |
+| nimittaṁ           | 4.3                      |
+| nirbījaḥ           | 1.51; 3.8                |
+| nirmāṇacittān      | 4.4                      |
+| nirodhaḥ           | 1.2, 51; 3.9             |
+| nirvicāra          | 1.44, 47                 |
+| nirvitarka         | 1.43                     |
+| nivṛttiḥ           | 3.31; 4.30               |
+| niyama             | 2.29, 32                 |
+| nyāsāt             | 3.27                     |
 
 
 
-।                    ।                                     ।
-।--------------------।-------------------------------------।
-। **P**              ।                                    ।
-। panthāḥ            । 4.15                                ।
-। paraśarīrāveśaḥ    । 3.39                                ।
-। pariṇāmāḥ          । 3.13,15; 4.2, 14                    ।
-। pradhānajayaḥ      । 3.49                                ।
-। prāgbhāraṁ         । 4.26                                ।
-। prajñā             । 1.48; 2.27                          ।
-। prajñālokaḥ        । 3.5                                 ।
-। prakāśa            । 2.18, 52; 3.21,44                   ।
-। prakṛtyāpūrāt      । 4.2                                 ।
-। prāṇasya           । 1.34                                ।
-। praṇavaḥ           । 1.27                                ।
-। prāṇāyāma          । 2.29, 49                            ।
-। praṇidhānāt        । 1.23                                ।
-। praśāṃkhyāne       । 4.29                                ।
-। prasaṅgāt          । 3.52                                ।
-। praśāntavāhita     । 3.10                                ।
-। prātibhāt          । 3.34,37                             ।
-। pratipattiḥ        । 3.54                                ।
-। pratiprasavaḥ      । 4.34                                ।
-। pratyāhāra         । 2.29, 54                            ।
-। pratyakcetana      । 1.29                                ।
-। pravṛitti          । 3.27; 4.5                           ।
-। pravṛtti           । 4.5                                 ।
-। Puruṣārthaśūnyānāṁ । 4.34                                ।
-। puruṣaviśeṣaḥ      । 1.24                                ।
-। **R**              ।                                    ।
-। rāgaḥ              । 2.7                                 ।
-। ṛtaṁbharā          । 1.48                                ।
-। **S**              ।                                    ।
-। sabījaḥ            । 1.46                                ।
-। sākṣātkaraṇāt      । 3.18                                ।
-। samādhiḥ           । 1.46, 51; 2.2, 29; 3.3, 38; 4.29    ।
-। samādhipariṇāmaḥ   । 3.10                                ।
-। samādhisiddhiḥ     । 2.45                                ।
-। samāpattiḥ         । 1.42; 2.47                          ।
-। samāptir           । 4.32                                ।
-। saṁbodhaḥ          । 2.39                                ।
-। saṁprayogaḥ        । 2.44,45                             ।
-। saṁskāraḥ          । 1.50; 2.15; 3.9, 10; 4.27           ।
-। saṁyamaḥ           । 3.4, 16, 17, 27, 42, 43, 45, 48, 53 ।
-। saṁyogaḥ           । 2.17, 23, 25                        ।
-। saṅtoṣa            । 2.32, 42                            ।
-। sattvapuruṣa       । 3.50, 56                            ।
-। sattvaśuddhi       । 2.41                                ।
-। satya              । 2.30                                ।
-। satyapratiṣṭhāyāṁ  । 2.36                                ।
-। śauca              । 2.32, 40                            ।
-। savicāra           । 1.44                                ।
-। siddhadarśanam     । 3.33                                ।
-। siddhiḥ            । 2.43; 3.38; 4.1                     ।
-। śrotram            । 3.42                                ।
-। śuddhiḥ            । 3.56                                ।
-। sākṣmāḥ            । 2.10, 50; 3.27; 4.34                ।
-। sūrye              । 3.27                                ।
-। svasvāmiśaktyoḥ    । 2.23                                ।
-। svābhāsaṁ          । 4.19                                ।
-। svādhyāya          । 2.1,32,44,45                        ।
-। svapna             । 1.38                                ।
-। svarūpa            । 1.3; 2.23; 3.45,48                  ।
-। svarūpapratiṣṭhā   । 4.34                                ।
-। svarūpaśūnyam      । 3.3                                 ।
-। svarūpataḥ         । 4.12                               ।
-। **T**              ।                                    ।
-। tantraṁ            । 4.16                                ।
-। tapaḥ              । 2.1, 32; 4.1                        ।
+|                    |                                     |
+|--------------------|-------------------------------------|
+| **P**              |                                    |
+| panthāḥ            | 4.15                                |
+| paraśarīrāveśaḥ    | 3.39                                |
+| pariṇāmāḥ          | 3.13,15; 4.2, 14                    |
+| pradhānajayaḥ      | 3.49                                |
+| prāgbhāraṁ         | 4.26                                |
+| prajñā             | 1.48; 2.27                          |
+| prajñālokaḥ        | 3.5                                 |
+| prakāśa            | 2.18, 52; 3.21,44                   |
+| prakṛtyāpūrāt      | 4.2                                 |
+| prāṇasya           | 1.34                                |
+| praṇavaḥ           | 1.27                                |
+| prāṇāyāma          | 2.29, 49                            |
+| praṇidhānāt        | 1.23                                |
+| praśāṃkhyāne       | 4.29                                |
+| prasaṅgāt          | 3.52                                |
+| praśāntavāhita     | 3.10                                |
+| prātibhāt          | 3.34,37                             |
+| pratipattiḥ        | 3.54                                |
+| pratiprasavaḥ      | 4.34                                |
+| pratyāhāra         | 2.29, 54                            |
+| pratyakcetana      | 1.29                                |
+| pravṛitti          | 3.27; 4.5                           |
+| pravṛtti           | 4.5                                 |
+| Puruṣārthaśūnyānāṁ | 4.34                                |
+| puruṣaviśeṣaḥ      | 1.24                                |
+| **R**              |                                    |
+| rāgaḥ              | 2.7                                 |
+| ṛtaṁbharā          | 1.48                                |
+| **S**              |                                    |
+| sabījaḥ            | 1.46                                |
+| sākṣātkaraṇāt      | 3.18                                |
+| samādhiḥ           | 1.46, 51; 2.2, 29; 3.3, 38; 4.29    |
+| samādhipariṇāmaḥ   | 3.10                                |
+| samādhisiddhiḥ     | 2.45                                |
+| samāpattiḥ         | 1.42; 2.47                          |
+| samāptir           | 4.32                                |
+| saṁbodhaḥ          | 2.39                                |
+| saṁprayogaḥ        | 2.44,45                             |
+| saṁskāraḥ          | 1.50; 2.15; 3.9, 10; 4.27           |
+| saṁyamaḥ           | 3.4, 16, 17, 27, 42, 43, 45, 48, 53 |
+| saṁyogaḥ           | 2.17, 23, 25                        |
+| saṅtoṣa            | 2.32, 42                            |
+| sattvapuruṣa       | 3.50, 56                            |
+| sattvaśuddhi       | 2.41                                |
+| satya              | 2.30                                |
+| satyapratiṣṭhāyāṁ  | 2.36                                |
+| śauca              | 2.32, 40                            |
+| savicāra           | 1.44                                |
+| siddhadarśanam     | 3.33                                |
+| siddhiḥ            | 2.43; 3.38; 4.1                     |
+| śrotram            | 3.42                                |
+| śuddhiḥ            | 3.56                                |
+| sākṣmāḥ            | 2.10, 50; 3.27; 4.34                |
+| sūrye              | 3.27                                |
+| svasvāmiśaktyoḥ    | 2.23                                |
+| svābhāsaṁ          | 4.19                                |
+| svādhyāya          | 2.1,32,44,45                        |
+| svapna             | 1.38                                |
+| svarūpa            | 1.3; 2.23; 3.45,48                  |
+| svarūpapratiṣṭhā   | 4.34                                |
+| svarūpaśūnyam      | 3.3                                 |
+| svarūpataḥ         | 4.12                               |
+| **T**              |                                    |
+| tantraṁ            | 4.16                                |
+| tapaḥ              | 2.1, 32; 4.1                        |
 
 
 
-।                 ।             ।
-।-----------------।-------------।
-। tapasaḥ         । 2.43        ।
-। **U**           ।            ।
-। upasargāḥ       । 3.3         ।
-। **V**           ।            ।
-। vairatyāgaḥ     । 2.35        ।
-। vāsanānām       । 4.8         ।
-। vastusāmye     । 4.15        ।
-। vastutattvam    । 4.14        ।
-। vibhaktaḥ       । 4.15        ।
-। viniyogaḥ       । 3.6         ।
-। virodhāt        । 2.15        ।
-। viśe ṣadarśinaḥ । 4.25        ।
-। vitarkaḥ        । 2.34        ।
-। vivekajaṁ       । 3.55        ।
-। vivekakhyātiḥ   । 2.26; 4.29  ।
-। vivekanimnaṁ    । 4.26        ।
-। vivekinaḥ       । 2.15        ।
-। vṛttiḥ          । 1.2,4; 3.44 ।
-। vyakta          । 4.13        ।
-। vyutthāna       । 3.9         ।
-। **Y**           ।            ।
-। yama            । 2.29, 30    ।
-। yogā            । 2.28        ।
-। yogaḥ           । 1.1        ।
-। yoginaḥ         । 4.7         ।
-। yogyatā         । 2.53        ।
-। Yogyatvāni      । 2.41        ।
+|                 |             |
+|-----------------|-------------|
+| tapasaḥ         | 2.43        |
+| **U**           |            |
+| upasargāḥ       | 3.3         |
+| **V**           |            |
+| vairatyāgaḥ     | 2.35        |
+| vāsanānām       | 4.8         |
+| vastusāmye     | 4.15        |
+| vastutattvam    | 4.14        |
+| vibhaktaḥ       | 4.15        |
+| viniyogaḥ       | 3.6         |
+| virodhāt        | 2.15        |
+| viśe ṣadarśinaḥ | 4.25        |
+| vitarkaḥ        | 2.34        |
+| vivekajaṁ       | 3.55        |
+| vivekakhyātiḥ   | 2.26; 4.29  |
+| vivekanimnaṁ    | 4.26        |
+| vivekinaḥ       | 2.15        |
+| vṛttiḥ          | 1.2,4; 3.44 |
+| vyakta          | 4.13        |
+| vyutthāna       | 3.9         |
+| **Y**           |            |
+| yama            | 2.29, 30    |
+| yogā            | 2.28        |
+| yogaḥ           | 1.1        |
+| yoginaḥ         | 4.7         |
+| yogyatā         | 2.53        |
+| Yogyatvāni      | 2.41        |
 
 
 
@@ -7713,645 +7713,464 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 
 
 
-।                                 ।              ।
-।---------------------------------।--------------।
-। Depression,                     । 1.31         ।
-। Desire                          । 4.10         ।
-। Diamond-like definition        । 3.47         ।
-। Disaffection                   । 2.3, 3.50    ।
-। Discrimination                 । 1.43         ।
-। Disease                        । 1.30         ।
-। Disgust                        । 2.40         ।
-। Dispersals of energy           । 4.5          ।
-। Distress                        ।             ।
-।   cause of,                   । 2.14         ।
-।   distracted mind             । 1.31         ।
-।   non-manifested type       । 2.16         ।
-। Divination skills               । 3.38         ।
-। Divine being                    ।             ।
-।   see cherished divine being ।             ।
-। Doubt                           । 1.30,2.33,34 ।
-। Drugs                           । 4.1          ।
-। Dualities cease                 । 2.48         ।
-। **E**                           ।             ।
-। Elephant                       । 3.25         ।
-। Emotions , non-harmful ones     । 4.6          ।
-। Endeavor, strenuous             । 2.15         ।
-। Energy, lack of                 । 1.30         ।
-। Exhalation                      । 1.34         ।
-। Experience                     ।             ।
-।   defined                    । 3.36         ।
-।   nature's purpose            । 2.18         ।
-। **F**                           ।             ।
-। Farmer                         । 4.3          ।
-। Fear of death                   । 2.9          ।
-। Feelings, distinct from spirit  । 4.25         ।
-। Focus on mundane existence     । 2.3          ।
-। Friendliness                    । 1.33, 3.24   ।
-। Future                          । 3.16, 4.12   ।
-। **G**                           ।             ।
-। Ghost                           । 3.52         ।
-। Governor                        । 4.18         ।
-। Greed                           । 2.34         ।
-। Gross forms                     । 3.45         ।
-। Gullet                          । 3.31         ।
-। Guru, supreme Lord              । 1.26         ।
-। **H**                           ।             ।
-। Happiness                      ।             ।
-।  best type,                   । 2.42         ।
-।  cause of,                    । 2.14         ।
-।   craving produced,           । 2.7          ।
-। Hearing sense,                  । 3.37, 42     ।
-। Hereafter                      ।             ।
-।   invitation,                 । 3.52         ।
-।   Known                      । 3.23         ।
-। Hope                           । 4.10         ।
-। Hostility, abandoned            । 2.35         ।
-। Hunger                          । 3.31         ।
-। **I**                           ।             ।
-। Identifying powers              । 3.48         ।
-। Identity, misplaced            । 2.3          ।
-। Idleness                        । 1.30         ।
-। Ignorance,                     ।             ।
-।    afflictions              । 2.3          ।
-। as environment                 । 2.4          ।
-।  avoidance of                । 2.26         ।
-।   conjunction                । 2.24         ।
-।    doubts                    । 2.34         ।
-।   Exhibited                  । 2.5          ।
-। Imagination                    । 1.6,9        ।
-। Impediments                    । 4.3          ।
-। Impressions,                   ।             ।
-।  insights                     । 1.50         ।
-।  storage                      । 2.12         ।
-। Impurity                        ।             ।
-।  elimination                 । 2.43         ।
-।  removed                      । 4.31         ।
-। Inattentiveness                 । 1.30         ।
-। Individual spirit realized      । 3.36         ।
-। Infinite, meeting              । 2.47         ।
-। Inhalation                     । 1.34         ।
-। Inherent nature                । 4.13         ।
+|                                 |              |
+|---------------------------------|--------------|
+| Depression,                     | 1.31         |
+| Desire                          | 4.10         |
+| Diamond-like definition        | 3.47         |
+| Disaffection                   | 2.3, 3.50    |
+| Discrimination                 | 1.43         |
+| Disease                        | 1.30         |
+| Disgust                        | 2.40         |
+| Dispersals of energy           | 4.5          |
+| Distress                        |             |
+|   cause of,                   | 2.14         |
+|   distracted mind             | 1.31         |
+|   non-manifested type       | 2.16         |
+| Divination skills               | 3.38         |
+| Divine being                    |             |
+|   see cherished divine being |             |
+| Doubt                           | 1.30,2.33,34 |
+| Drugs                           | 4.1          |
+| Dualities cease                 | 2.48         |
+| **E**                           |             |
+| Elephant                       | 3.25         |
+| Emotions , non-harmful ones     | 4.6          |
+| Endeavor, strenuous             | 2.15         |
+| Energy, lack of                 | 1.30         |
+| Exhalation                      | 1.34         |
+| Experience                     |             |
+|   defined                    | 3.36         |
+|   nature's purpose            | 2.18         |
+| **F**                           |             |
+| Farmer                         | 4.3          |
+| Fear of death                   | 2.9          |
+| Feelings, distinct from spirit  | 4.25         |
+| Focus on mundane existence     | 2.3          |
+| Friendliness                    | 1.33, 3.24   |
+| Future                          | 3.16, 4.12   |
+| **G**                           |             |
+| Ghost                           | 3.52         |
+| Governor                        | 4.18         |
+| Greed                           | 2.34         |
+| Gross forms                     | 3.45         |
+| Gullet                          | 3.31         |
+| Guru, supreme Lord              | 1.26         |
+| **H**                           |             |
+| Happiness                      |             |
+|  best type,                   | 2.42         |
+|  cause of,                    | 2.14         |
+|   craving produced,           | 2.7          |
+| Hearing sense,                  | 3.37, 42     |
+| Hereafter                      |             |
+|   invitation,                 | 3.52         |
+|   Known                      | 3.23         |
+| Hope                           | 4.10         |
+| Hostility, abandoned            | 2.35         |
+| Hunger                          | 3.31         |
+| **I**                           |             |
+| Identifying powers              | 3.48         |
+| Identity, misplaced            | 2.3          |
+| Idleness                        | 1.30         |
+| Ignorance,                     |             |
+|    afflictions              | 2.3          |
+| as environment                 | 2.4          |
+|  avoidance of                | 2.26         |
+|   conjunction                | 2.24         |
+|    doubts                    | 2.34         |
+|   Exhibited                  | 2.5          |
+| Imagination                    | 1.6,9        |
+| Impediments                    | 4.3          |
+| Impressions,                   |             |
+|  insights                     | 1.50         |
+|  storage                      | 2.12         |
+| Impurity                        |             |
+|  elimination                 | 2.43         |
+|  removed                      | 4.31         |
+| Inattentiveness                 | 1.30         |
+| Individual spirit realized      | 3.36         |
+| Infinite, meeting              | 2.47         |
+| Inhalation                     | 1.34         |
+| Inherent nature                | 4.13         |
 
 
 
-।                                           ।          ।
-।-------------------------------------------।----------।
-। Insight                                   ।         ।
-।     continuous                       । 2.26     ।
-।     developed                        । 3.5      ।
-।     impression                      । 1.50     ।
-।     into culture activities          । 3.26     ।
-।     limited type                      । 1.49     ।
-।    of previous lives                  । 3.18     ।
-।    shining light                      । 3.33, 34 ।
-।    stages                             । 2.27     ।
-।    steady type                        । 2.28     ।
-।    subtle nature                     । 1.45     ।
-।    reality perception                । 1.48     ।
-। Intellect                                 ।         ।
-।    limited                           । 4.21     ।
-।    perception of                       । 4.22     ।
-। Interval                                  । 3.11,112 ।
-। Interval                                  । 4.27     ।
-। Introspective happiness                   । 1.17     ।
-। Introspective memory                      । 1.20     ।
-। Intuition                                । 3.50     ।
-। Invisibility                             । 3.21     ।
-। Inwardness                                । 1.29     ।
-। Isolation of self                         । 3.51     ।
-। **K**                                     ।         ।
-। Knowledge, origin                         । 1.25     ।
-। Kriya yoga,                               । 2.1      ।
-। Kurmanadi subtle nerver                   । 3.32     ।
-। **L**                                     ।         ।
-। Language                                 । 3.17     ।
-। Liberation, purpose                       । 2.18     ।
-। Light, subtle                            । 3.33, 34 ।
-। Linkage of attention                     ।         ।
-।     breath regulation               । 2.53     ।
-।     competence                       । 1.47     ।
-।     continuous effortless            । 1.20,2.1 ।
-।     continuous                      । 3.3      ।
-।     decreasing objectives            । 3.1      ।
-।      deliberate                      । 1.42     ।
-।      effortless                     । 1.39,3.2 ।
-।     effortless/continuous            । 1.46     ।
-।      investigative/non-investigative । 1.44     ।
-।      location                       । 3.1      ।
-।     mystic skills caused             । 4.1      ।
-।      non-analytical                  । 1.42     ।
-।      non-motivated                   । 1.51     ।
-।     observational type               । 1.17     ।
-।     obstacles                        । 3.38     ।
-।     without characteristics          । 1.45     ।
-।     yoga process                      । 2.29     ।
-। Location in the mento-emotional energy   । 3.1      ।
-। **M**                                     ।         ।
-। Material Nature                          ।         ।
-।     alterations end                  । 4.32     ।
-।     distinction                     । 3.50     ।
-।     phases                           । 2.19     ।
-।     purpose fulfilled                । 4.32     ।
-। Matter                                    । 3.12     ।
+|                                           |          |
+|-------------------------------------------|----------|
+| Insight                                   |         |
+|     continuous                       | 2.26     |
+|     developed                        | 3.5      |
+|     impression                      | 1.50     |
+|     into culture activities          | 3.26     |
+|     limited type                      | 1.49     |
+|    of previous lives                  | 3.18     |
+|    shining light                      | 3.33, 34 |
+|    stages                             | 2.27     |
+|    steady type                        | 2.28     |
+|    subtle nature                     | 1.45     |
+|    reality perception                | 1.48     |
+| Intellect                                 |         |
+|    limited                           | 4.21     |
+|    perception of                       | 4.22     |
+| Interval                                  | 3.11,112 |
+| Interval                                  | 4.27     |
+| Introspective happiness                   | 1.17     |
+| Introspective memory                      | 1.20     |
+| Intuition                                | 3.50     |
+| Invisibility                             | 3.21     |
+| Inwardness                                | 1.29     |
+| Isolation of self                         | 3.51     |
+| **K**                                     |         |
+| Knowledge, origin                         | 1.25     |
+| Kriya yoga,                               | 2.1      |
+| Kurmanadi subtle nerver                   | 3.32     |
+| **L**                                     |         |
+| Language                                 | 3.17     |
+| Liberation, purpose                       | 2.18     |
+| Light, subtle                            | 3.33, 34 |
+| Linkage of attention                     |         |
+|     breath regulation               | 2.53     |
+|     competence                       | 1.47     |
+|     continuous effortless            | 1.20,2.1 |
+|     continuous                      | 3.3      |
+|     decreasing objectives            | 3.1      |
+|      deliberate                      | 1.42     |
+|      effortless                     | 1.39,3.2 |
+|     effortless/continuous            | 1.46     |
+|      investigative/non-investigative | 1.44     |
+|      location                       | 3.1      |
+|     mystic skills caused             | 4.1      |
+|      non-analytical                  | 1.42     |
+|      non-motivated                   | 1.51     |
+|     observational type               | 1.17     |
+|     obstacles                        | 3.38     |
+|     without characteristics          | 1.45     |
+|     yoga process                      | 2.29     |
+| Location in the mento-emotional energy   | 3.1      |
+| **M**                                     |         |
+| Material Nature                          |         |
+|     alterations end                  | 4.32     |
+|     distinction                     | 3.50     |
+|     phases                           | 2.19     |
+|     purpose fulfilled                | 4.32     |
+| Matter                                    | 3.12     |
 
 
 
-।                                       ।                  ।
-।---------------------------------------।------------------।
-। Mento-emotional energy,               ।                 ।
-।        channels                । 3.39             ।
-।        conformity              । 1.4              ।
-।        insight into            । 3.35             ।
-।        known by spirit         । 4.18             ।
-।        motivational            । 1.46             ।
-।        non-interest            । 1.15,16          ।
-।        non-operation           । 1 2              ।
-।        objectives decreased    । 3.11             ।
-।        parting away/dispersion । 3.49             ।
-।        perceptible             । 4.19             ।
-।        limited                 । 4.19             ।
-।        prejudiced              । 4 23             ।
-।        proximity               । 4.24             ।
-।        regions of dispersal,   । 4.4,5            ।
-।       restraint                । 3.17             ।
-।       restraint of             । 3.10             ।
-।       scattered                । 1.30             ।
-।       serenity                 । 1.33             ।
-।      stopping operations        । 4.25             ।
-। Meditation                           ।                 ।
-।   see also Linkage of attention,    ।                 ।
-।      abstract                   । 1.33-39          ।
-।     complete restraint          । 3.4,6            ।
-।     fusion and steadyiness       । 1.35             ।
-।     on dearly desired force       । 1.39             ।
-।     on material nature           । 4.29             ।
-।    on someone                    । 1.37             ।
-।    on supreme Lord               । 1.23, 2.32, 2.45 ।
-।    proficiency                   । 2.41             ।
-।    profound religious             । 2.1              ।
-।    sorrowless/spiritually luminous । 1.35             ।
-। Memory                               ।                 ।
-।      purified                   । 1.43             ।
-।     subtle impressions           । 3.10             ।
-।     suppression                 । 1.51             ।
-।      timeful                     । 4.9.10           ।
-।      Vibrational mode            । 1.6,11           ।
-। Mental darkness                       । 2.52, 3.44, 4.31 ।
-। Mento-emotional operations            ।                 ।
-।      see vibrational modes.     ।                 ।
-। Merit                                 । 2.14             ।
-। Mind                                  ।                 ।
-। Also see mentro- emotional energy    ।                 ।
-।     content                      । 3.12             ।
-।     distracted type              । 1.312            ।
-।     swiftness                     । 3.49             ।
-। Minuteness                           । 3.46             ।
-। Moment                               । 3.53, 4.33       ।
-। Moon                                  । 3 2 8            ।
-। Moral restraints                      ।                 ।
-।     great commitment            । 2.31             ।
-।     listed                       । 2.29             ।
-।     non-adjustable               । 2.31             ।
-। Motivation                           ।                 ।
-।     impulsive type              । 2.15             ।
-।     subtle type                   । 2.10             ।
-। Mud                                   । 3.40             ।
-। Mundane existence, focus on          । 2.9              ।
-। Mundane objects                      । 3.55             ।
-। Mystic force                         । 3.47             ।
-। Mystic skills                        । 4.1              ।
-। **N**                                 ।                 ।
-। Nature                               । 3.45             ।
-।      Also see Material Nature   ।                 ।
-। Navel energy gyrating centre         । 3.30             ।
-। Nervousness                          । 1.31             ।
-। Neturality                           । 4.34             ।
-। Non- possessiveness                   । 2.30, 39         ।
-। Non- responsiveness                   । 1.33             ।
-। Non-stealing                         । 2.30, 39         ।
-। Non-violence                         । 2.30, 35         ।
-। **O**                                 ।                 ।
-। Object                               ।                 ।
-।      composition               । 4.14             ।
-।      transcendent type          । 1.35             ।
-। Observer                              । 2.17             ।
-। Obstacles to progress                । 1.29, 32         ।
-। Om                                    । 1.27, 28         ।
-। Omniscience                          । 3.34             ।
-। **P**                                 ।                 ।
-। Past and future                      । 3.16             ।
-। Past                                 । 4.12             ।
-
-
-
-
+|                                       |                  |
+|---------------------------------------|------------------|
+| Mento-emotional energy,               |                 |
+|        channels                | 3.39             |
+|        conformity              | 1.4              |
+|        insight into            | 3.35             |
+|        known by spirit         | 4.18             |
+|        motivational            | 1.46             |
+|        non-interest            | 1.15,16          |
+|        non-operation           | 1 2              |
+|        objectives decreased    | 3.11             |
+|        parting away/dispersion | 3.49             |
+|        perceptible             | 4.19             |
+|        limited                 | 4.19             |
+|        prejudiced              | 4 23             |
+|        proximity               | 4.24             |
+|        regions of dispersal,   | 4.4,5            |
+|       restraint                | 3.17             |
+|       restraint of             | 3.10             |
+|       scattered                | 1.30             |
+|       serenity                 | 1.33             |
+|      stopping operations        | 4.25             |
+| Meditation                           |                 |
+|   see also Linkage of attention,    |                 |
+|      abstract                   | 1.33-39          |
+|     complete restraint          | 3.4,6            |
+|     fusion and steadyiness       | 1.35             |
+|     on dearly desired force       | 1.39             |
+|     on material nature           | 4.29             |
+|    on someone                    | 1.37             |
+|    on supreme Lord               | 1.23, 2.32, 2.45 |
+|    proficiency                   | 2.41             |
+|    profound religious             | 2.1              |
+|    sorrowless/spiritually luminous | 1.35             |
+| Memory                               |                 |
+|      purified                   | 1.43             |
+|     subtle impressions           | 3.10             |
+|     suppression                 | 1.51             |
+|      timeful                     | 4.9.10           |
+|      Vibrational mode            | 1.6,11           |
+| Mental darkness                       | 2.52, 3.44, 4.31 |
+| Mento-emotional operations            |                 |
+|      see vibrational modes.     |                 |
+| Merit                                 | 2.14             |
+| Mind                                  |                 |
+| Also see mentro- emotional energy    |                 |
+|     content                      | 3.12             |
+|     distracted type              | 1.312            |
+|     swiftness                     | 3.49             |
+| Minuteness                           | 3.46             |
+| Moment                               | 3.53, 4.33       |
+| Moon                                  | 3 2 8            |
+| Moral restraints                      |                 |
+|     great commitment            | 2.31             |
+|     listed                       | 2.29             |
+|     non-adjustable               | 2.31             |
+| Motivation                           |                 |
+|     impulsive type              | 2.15             |
+|     subtle type                   | 2.10             |
+| Mud                                   | 3.40             |
+| Mundane existence, focus on          | 2.9              |
+| Mundane objects                      | 3.55             |
+| Mystic force                         | 3.47             |
+| Mystic skills                        | 4.1              |
+| **N**                                 |                 |
+| Nature                               | 3.45             |
+|      Also see Material Nature   |                 |
+| Navel energy gyrating centre         | 3.30             |
+| Nervousness                          | 1.31             |
+| Neturality                           | 4.34             |
+| Non- possessiveness                   | 2.30, 39         |
+| Non- responsiveness                   | 1.33             |
+| Non-stealing                         | 2.30, 39         |
+| Non-violence                         | 2.30, 35         |
+| **O**                                 |                 |
+| Object                               |                 |
+|      composition               | 4.14             |
+|      transcendent type          | 1.35             |
+| Observer                              | 2.17             |
+| Obstacles to progress                | 1.29, 32         |
+| Om                                    | 1.27, 28         |
+| Omniscience                          | 3.34             |
+| **P**                                 |                 |
+| Past and future                      | 3.16             |
+| Past                                 | 4.12             |
 
 
 
 
-।                                       ।                        ।
-।---------------------------------------।------------------------।
-। Peace                                 । 3.10                   ।
-। Perceiver                             । 1.3, 2.20              ।
-।      Also see observer          ।                       ।
-। Perception                           ।                       ।
-।   correct/incorrect                । 1.6                    ।
-।      radiant organ               । 2.28                   ।
-।     types                        । 2.18                   ।
-। Perfected beings                      । 3.33                   ।
-। Perfection                           ।                       ।
-।  of body and sensual energy         । 2.43                   ।
-। Person                               ।                       ।
-।  Also see Self                     ।                       ।
-।   discriminating type              । 2.15                   ।
-।   without craving                 । 1.37                   ।
-। Personality distinction              । 3.50                   ।
-। Planets                               । 3.29                   ।
-। Pole star                             । 3.28,29                ।
-। Portents                             । 3.23                   ।
-। Posture                              । 2.29,46,47             ।
-। Pranayama                            । 2.51                   ।
-। Prejudice                            । 4.15                   ।
-। Progress                             । 1.30                   ।
-। Psyche                               ।                       ।
-।   Also see study of psyche        ।                       ।
-।     fiery glow                    । 3.41                   ।
-।     fusion                       । 1.41                   ।
-।     isolated                     । 3.51                   ।
-।    mastery of                     । 1.40                   ।
-।    psychological organs           । 3.7                    ।
-।    steadiness                     । 3.32                   ।
-।    study                         । 2.1,44                 ।
-। Purification                         । 2.32,40,41             ।
-। Purity                               । 3.56                   ।
-। **R**                                 ।                       ।
-। Realism                              । 2.30,36                ।
-। Reality of an object                 । 4.16                   ।
-। Reality                              ।                       ।
-।      known                       । 3.34                   ।
-।     pursuit of                  । 1.32                   ।
-।     similar types                । 3.54                   ।
-। Recommended Behavior                  । 2.29,32                ।
-। Reference                            । 1.7                    ।
-। Reflection                            । 1.17                   ।
-। Reincarnation                        । 3.18,52;4.2            ।
-। Relationship control                 । 1.40                   ।
-। Retrograssion                         । 3.14                   ।
-। **S**                                 ।                       ।
-। Samana digestive force               । 3.41                   ।
-। Saturation of subtle material nature । 4.2                    ।
-। Seeing                                । 3.37                   ।
-। Self consciousness                   । 1.17                   ।
-। Self distinction                     । 4.25                   ।
-। Self preservation                    । 2.9                    ।
-। Self realization                     । 3.36                   ।
-। Self, and psyche                     । 2.22                   ।
-। Self, form of,                       । 4                      ।
-। Sense control                        । 2.54                   ।
-। Sense of identity                    । 4.4                    ।
-। Sensual energy conquest              । 2.41                   ।
-। Sensual Energy Withdrawal            । 2.29,54                ।
-। Sensual grasping                     । 3.48                   ।
-। Sensuality                           । 1.30                   ।
-। Separation of perceiver              । 2.25, 3.56, 4.26,31,34 ।
-। Sexual and non-expressiveness        । 2.30,38                ।
-। Sharp objects                        । 3.40                   ।
-। Shining organ of divination          । 3.34,37                ।
-। Sleep, dream -dreamless              । 1.6,10,38              ।
-। Smelling                             । 3.37                   ।
-। Solar system                         । 3.27                   ।
-। Soul, types                          । 1.47                   ।
-। Sound                                । 3.17,22; 4.1           ।
-। Space                                । 3.42                   ।
-। Spirit                               । 2.41                   ।
-।     Also see Self               ।                       ।
-। Spiritual ignorance, see Ignorance   ।                       ।
-। Spiritual perception                 । 2.30                   ।
-। Stamina                               । 1.20                   ।
-। Stars                                 । 3.28,29                ।
-। State                                 । 1.18,19                ।
-। States of matter                     । 3.45                   ।
 
 
 
-।                                     ।                       ।
-।-------------------------------------।-----------------------।
-। Status/ moral restraints           । 2.31                  ।
-। Strength                           । 3.25                  ।
-। Study of psyche                    । 2.44                  ।
-। Subtle activities                  । 4.6                   ।
-। Subtle body perfection             । 3.46                  ।
-। Subtle material energy             । 4.3                   ।
-। Sun planet                          । 3.27                  ।
-। Sun-god                             । 3.27                  ।
-। Supreme lord/Supreme Soul           । 1.23,24-27; 2.1.32,45 ।
-। **T**                               ।                      ।
-। Tasting                            । 3.37                  ।
-। Telepathy                          । 3.19                  ।
-। Tendencies,cause of                 । 4.8                   ।
-। Thirst                             । 3.31                  ।
-। Throat                              । 3.40                  ।
-। Time,moral reatraint                । 2.31                  ।
-। Touching                           । 3.37                  ।
-। Transformation                     । 3.15,16; 42           ।
-। Transition                          । 42                    ।
-। **U**                               ।                      ।
-। Uniqueness                         । 4.14                  ।
-। **V**                               ।                      ।
-। Vibrational modes                   ।                      ।
-।      abandoned                । 2.11                  ।
-।      distress causing         । 2.15                  ।
-।      fivefold                  । 1.5                   ।
-।      non-operational          । 1.2,12,51             ।
-।      reduction                । 1.41                  ।
-।     stoppage                  । 4.30                  ।
-। Views,mistaken type                 । 1.30                  ।
-। Vigor                               । 2.38                  ।
-। Vision                             । 2,6                   ।
-। Vital energy, regulation           । 1.34                  ।
-। **W**                               ।                      ।
-। Water                               । 3.40                  ।
-। Weightlessness                     । 3.43                  ।
-। Withdrawal                         ।                      ।
-।   see sensual energy withdrawal ।                      ।
-। Word                                । 1.42                  ।
-। **Y**                               ।                      ।
-। Yoga practice                      ।                      ।
-।     definied                  । 1.2                   ।
-।     eight parts               । 2.29                  ।
-।     introduced                । 1.1                   ।
-।     persistence for            । 1,13,14               ।
-।     rates                      । 1.21,22               ।
-।     results                   । 2.28                  ।
-।     standard methods          । 1.32                  ।
+
+|                                       |                        |
+|---------------------------------------|------------------------|
+| Peace                                 | 3.10                   |
+| Perceiver                             | 1.3, 2.20              |
+|      Also see observer          |                       |
+| Perception                           |                       |
+|   correct/incorrect                | 1.6                    |
+|      radiant organ               | 2.28                   |
+|     types                        | 2.18                   |
+| Perfected beings                      | 3.33                   |
+| Perfection                           |                       |
+|  of body and sensual energy         | 2.43                   |
+| Person                               |                       |
+|  Also see Self                     |                       |
+|   discriminating type              | 2.15                   |
+|   without craving                 | 1.37                   |
+| Personality distinction              | 3.50                   |
+| Planets                               | 3.29                   |
+| Pole star                             | 3.28,29                |
+| Portents                             | 3.23                   |
+| Posture                              | 2.29,46,47             |
+| Pranayama                            | 2.51                   |
+| Prejudice                            | 4.15                   |
+| Progress                             | 1.30                   |
+| Psyche                               |                       |
+|   Also see study of psyche        |                       |
+|     fiery glow                    | 3.41                   |
+|     fusion                       | 1.41                   |
+|     isolated                     | 3.51                   |
+|    mastery of                     | 1.40                   |
+|    psychological organs           | 3.7                    |
+|    steadiness                     | 3.32                   |
+|    study                         | 2.1,44                 |
+| Purification                         | 2.32,40,41             |
+| Purity                               | 3.56                   |
+| **R**                                 |                       |
+| Realism                              | 2.30,36                |
+| Reality of an object                 | 4.16                   |
+| Reality                              |                       |
+|      known                       | 3.34                   |
+|     pursuit of                  | 1.32                   |
+|     similar types                | 3.54                   |
+| Recommended Behavior                  | 2.29,32                |
+| Reference                            | 1.7                    |
+| Reflection                            | 1.17                   |
+| Reincarnation                        | 3.18,52;4.2            |
+| Relationship control                 | 1.40                   |
+| Retrograssion                         | 3.14                   |
+| **S**                                 |                       |
+| Samana digestive force               | 3.41                   |
+| Saturation of subtle material nature | 4.2                    |
+| Seeing                                | 3.37                   |
+| Self consciousness                   | 1.17                   |
+| Self distinction                     | 4.25                   |
+| Self preservation                    | 2.9                    |
+| Self realization                     | 3.36                   |
+| Self, and psyche                     | 2.22                   |
+| Self, form of,                       | 4                      |
+| Sense control                        | 2.54                   |
+| Sense of identity                    | 4.4                    |
+| Sensual energy conquest              | 2.41                   |
+| Sensual Energy Withdrawal            | 2.29,54                |
+| Sensual grasping                     | 3.48                   |
+| Sensuality                           | 1.30                   |
+| Separation of perceiver              | 2.25, 3.56, 4.26,31,34 |
+| Sexual and non-expressiveness        | 2.30,38                |
+| Sharp objects                        | 3.40                   |
+| Shining organ of divination          | 3.34,37                |
+| Sleep, dream -dreamless              | 1.6,10,38              |
+| Smelling                             | 3.37                   |
+| Solar system                         | 3.27                   |
+| Soul, types                          | 1.47                   |
+| Sound                                | 3.17,22; 4.1           |
+| Space                                | 3.42                   |
+| Spirit                               | 2.41                   |
+|     Also see Self               |                       |
+| Spiritual ignorance, see Ignorance   |                       |
+| Spiritual perception                 | 2.30                   |
+| Stamina                               | 1.20                   |
+| Stars                                 | 3.28,29                |
+| State                                 | 1.18,19                |
+| States of matter                     | 3.45                   |
 
 
 
-।                           ।                                    ।     ।
-।---------------------------।------------------------------------।-----।
-। **A**                     ।                                   ।    ।
-। ābhimata                  । 108                                ।    ।
-। abhiniveśaḥ               । 118,119,120                        ।    ।
-। Abhorrence                । 120                                ।    ।
-। Absoluteness              । 95                                 ।    ।
-। Absorption, observational । 94                                 ।    ।
-। Abstract meditation      । 142                                ।    ।
-। *adhiṣṭhātṛtvaṁ*          । 97                                 ।    ।
-। Adisesa                   । 144                                ।    ।
-। Afflictions               । 117                                ।    ।
-। Agnihotra                 । 95                                 ।    ।
-। *ahimsā*                  । 134,135                            ।    ।
-। Akshardham                । 82                                 ।    ।
-। *akusīdasya*              । 201                                ।    ।
-। *ālasya*                  । 102                                ।    ।
-। Alternate breathing      । 146                                ।    ।
-। Anal region               । 177                                ।    ।
-। Analysis                  । 87,111                             ।    ।
-। *anavasthitatvāni*        । 103                                ।    ।
-। Ancient authorities      । 99                                 ।    ।
-। Angelic world, defects   । 184                                ।    ।
-। Animal memory            । 123                                ।    ।
-। Animal nature            । 139                                ।    ।
-। Anu                       । 108                                ।    ।
-। Anu-gita                  । 154                                ।    ।
-। Anvaya                    । 181                                ।    ।
-। Anxiety                  । 125                                ।    ।
-। Apana                     । 170,177                            ।    ।
-। Aparigrahah               । 135                                ।    ।
-। Apte,Vaman Shivram        । 150,183                            ।    ।
-। Arjuna                    । 86,103,134,139,154,161             ।    ।
-। Asamprajanata samadhi     । 94                                 ।    ।
-। *āsana*                   । 141,143,145                        ।    ।
-। avoidance of              । 92                                 ।    ।
-। *āśayah*                  । 191                                ।    ।
-। *asmitā*                  । 118                                ।    ।
-। Association              । 101,107,142,178                    ।    ।
-। Asteya                    । 135                                ।    ।
-। Astral body               । 118,169                            ।    ।
-। Astral world              । 138                                ।    ।
-। Atheism                  । 144                                ।    ।
-। Atma                      । 183                                ।    ।
-। Aum                       । 99                                 ।    ।
-। Aura                      । 164                                ।    ।
-। Ausadhi                   । 188                                ।    ।
-। Austerity                 । 116                                ।    ।
-। Avidya                    । 118                                ।    ।
-। Avirati                   । 102                                ।    ।
-। **B**                     ।                                   ।    ।
-। Babaji Mahasaya,Sri       । 171                                ।    ।
-।      notation,       । 188                                ।    ।
-। Balarama,Lord             । 103                                ।    ।
-। Battle in the mind       । 156                                ।    ।
-। Bedstead                  । 144                                ।    ।
-। Benevolence              । 142                                ।    ।
-। Bengali Baba              । 95                                 ।    ।
-। Bhagvad-gita             । 99,103,104,130,134,136,139,151,189 ।    ।
-। Bhagvan                   । 161                                ।    ।
-। Bhagavata Purana          । 86                                 ।    ।
-। Bhakti                    । 109,116,136                        ।    ।
-। Bharata                   । 167                                ।    ।
-। Bhastrika                 । 170,177                            ।    ।
-। Bhauma                    । 136                                ।    ।
-। Bhrantidarsana            । 102                                ।    ।
-। Bhutendriya               । 158                                ।    ।
-। Birth                     ।                                   ।    ।
-।     method of powers । 189                                ।    ।
-।      millions        । 91                                 ।    ।
-।      past ones       । 123                                ।    ।
-।      skills          । 187                                ।    ।
-। Blowing out              । 176                                ।    ।
-। Bodiless nature           । 95,96,179                          ।    ।
-। Brahma                    । 82                                 ।    ।
-। Brahma, Lord             । 98                                 ।    ।
-। Brahmacarya               । 135                                ।    ।
-। Brahman                  । 135                                ।    ।
-। Brahmarandra              । 172                                ।    ।
-। Breath nutrition         । 141                                ।    ।
-। Breathing labored type   । 104                                ।    ।
-। British government       । 164                                ।    ।
-।                          ।                                   ।    ।
+|                                     |                       |
+|-------------------------------------|-----------------------|
+| Status/ moral restraints           | 2.31                  |
+| Strength                           | 3.25                  |
+| Study of psyche                    | 2.44                  |
+| Subtle activities                  | 4.6                   |
+| Subtle body perfection             | 3.46                  |
+| Subtle material energy             | 4.3                   |
+| Sun planet                          | 3.27                  |
+| Sun-god                             | 3.27                  |
+| Supreme lord/Supreme Soul           | 1.23,24-27; 2.1.32,45 |
+| **T**                               |                      |
+| Tasting                            | 3.37                  |
+| Telepathy                          | 3.19                  |
+| Tendencies,cause of                 | 4.8                   |
+| Thirst                             | 3.31                  |
+| Throat                              | 3.40                  |
+| Time,moral reatraint                | 2.31                  |
+| Touching                           | 3.37                  |
+| Transformation                     | 3.15,16; 42           |
+| Transition                          | 42                    |
+| **U**                               |                      |
+| Uniqueness                         | 4.14                  |
+| **V**                               |                      |
+| Vibrational modes                   |                      |
+|      abandoned                | 2.11                  |
+|      distress causing         | 2.15                  |
+|      fivefold                  | 1.5                   |
+|      non-operational          | 1.2,12,51             |
+|      reduction                | 1.41                  |
+|     stoppage                  | 4.30                  |
+| Views,mistaken type                 | 1.30                  |
+| Vigor                               | 2.38                  |
+| Vision                             | 2,6                   |
+| Vital energy, regulation           | 1.34                  |
+| **W**                               |                      |
+| Water                               | 3.40                  |
+| Weightlessness                     | 3.43                  |
+| Withdrawal                         |                      |
+|   see sensual energy withdrawal |                      |
+| Word                                | 1.42                  |
+| **Y**                               |                      |
+| Yoga practice                      |                      |
+|     definied                  | 1.2                   |
+|     eight parts               | 2.29                  |
+|     introduced                | 1.1                   |
+|     persistence for            | 1,13,14               |
+|     rates                      | 1.21,22               |
+|     results                   | 2.28                  |
+|     standard methods          | 1.32                  |
 
 
 
-[TABLE]
-
-
-
-।                                             ।                       ।
-।---------------------------------------------।-----------------------।
-। Durga, goddess,                             । 176                   ।
-। **E**                                       ।                      ।
-। Ear                                         । 157                   ।
-। Earth                                       । 136                   ।
-। Eating                                      । 130                   ।
-। *ekatānatā*                                 । 150                   ।
-। Emancipation                               । 131                   ।
-। Emotional disaffection                     । 118,120               ।
-। Emotional distress                          । 126                   ।
-। Emotional energy                           । 103                   ।
-। Endearment                                  । 108                   ।
-। Energy gyrating centers                     । 169                   ।
-। Entering body of others                     । 176                   ।
-। Excitation                                  । 143                   ।
-। Experience, course of                       । 174                   ।
-। Exploitation                               । 140                   ।
-। Eye of consciousness                       । 86                    ।
-। **F**                                       ।                      ।
-। Fame                                        । 141,201               ।
-। Farmer                                      । 189                   ।
-। Fear of death                              । 118                   ।
-। Flim theater                                । 159                   ।
-। Fish-eating                                 । 139                   ।
-। Friendliness                                । 105,166               ।
-। Fruitarian                                 । 139                   ।
-। Fusion                                      । 94                    ।
-। Future/real                                 । 193                   ।
-। **G**                                       ।                      ।
-। Gangotri                                    । 113                   ।
-। Gate                                        । 149                   ।
-। Gherwal                                     । 164                   ।
-। God                                         । 95,99,137,149,200,203 ।
-। god                                         । 95                    ।
-। Goddess Durga                               । 176                   ।
-। Gomsha                                      । 101                   ।
-। Gonika                                      । 144                   ।
-। Goodwill                                    । 142                   ।
-। Gorakshnatha ,sri                           । 134,170,176,188       ।
-। Grace force of prana                        । 146                   ।
-। Gravity                                     । 179                   ।
-। Great commitment                           । 137,138               ।
-। Grihasta ashram                             । 134                   ।
-। Gross existence                            । 118,119               ।
-। Guru,                                       ।                      ।
-।        adoration                     । 202                   ।
-।        grace of                      । 117-118               ।
-।     premature type                      । 175                   ।
-। **H**                                       ।                      ।
-। Habits, compulsive                         । 120                   ।
-। Happiness ,                                 ।                      ।
-।       calm type                      । 143                   ।
-।       cravings                       । 120                   ।
-।       introspective type             । 93                    ।
-। Harmlessness                                । 134,135               ।
-। Hatha yoga                                  । 170,187,188           ।
-। Heart chakra                                । 86                    ।
-। Herbs                                       । 188                   ।
-। Hiranyagarbha                               । 87                    ।
-। Honesty                                     । 135                   ।
-। Hope/desire                                 । 193                   ।
-। Human body                                 । 101,142               ।
-। Hunger/suppression                         । 170                   ।
-। Huxley/Aldous                               । 188                   ।
-। **I**                                       ।                      ।
-। Ideation energy dormant                     । 83                    ।
-। Identity, misplaced                        । 118                   ।
-। Idle-mindedness                             । 101,102               ।
-। Ignorance                                  । 117,118,131,132       ।
-। Images,mind                                 । 160                   ।
-। Imagination faculty, orb                    ।                      ।
-।         as vision                   । 154                   ।
-।        imagination faculty location । 86                    ।
-।       magical                         । 126                   ।
-।       memory                         । 162                   ।
-।       vibrational                    । 84                    ।
-।      visual insight                  । 113                   ।
-। Impersonalism                               । 144                   ।
-। Impressions,                                ।                      ।
-।        ceased                       । 114                   ।
-।      circumstance                      । 193                   ।
-।       compacted                      । 123                   ।
-।    cosmic reservoir                      । 162                   ।
-।         ended                       । 126                   ।
-। Inattentiveness                            । 102                   ।
-। Incorrect perception                       । 85,88                 ।
-। useful ones                                 । 114                   ।
-
-
-
-।                              ।                                                  ।
-।------------------------------।--------------------------------------------------।
-। I-ness                       । 93                                               ।
-। Infinite                    । 145                                              ।
-। Insight,                     ।                                                 ।
-।    as buddhi organ        । 152                                              ।
-।   discriminative         । 133                                              ।
-।    reality - perceptive  । 113                                              ।
-।    required              । 96                                               ।
-। Instability                 । 125                                              ।
-। Instinct for yoga            । 181                                              ।
-। Intellect ,                  ।                                                 ।
-।    analytical power      । 93                                               ।
-।    reality - perceiving । 88                                               ।
-। Interval                     । 154                                              ।
-। Introspection               । 131                                              ।
-। Introspective happiness     । 94                                               ।
-। Institution                 । 163                                              ।
-। Isolation of self            । 183                                              ।
-। *iṣṭdevatā*                  । 143                                              ।
-। *īśwara*                     । 98                                               ।
-। Iyenger                      । 144,148                                          ।
-। **J**                        ।                                                 ।
-। Jain                         । 135                                              ।
-। Janma                        । 189                                              ।
-। Jesus Christ, Lord           । 177                                              ।
-। Jnanachakshu                 । 86,113,133,171                                   ।
-। Jnanadipah                   । 86,113,136,171                                   ।
-। *jñānadīptiḥ*                । 135,171                                          ।
-। **K**                        ।                                                 ।
-। Kailash                      । 171                                              ।
-। Kaivalyam                    । 131,183,186                                      ।
-। Karma Yoga                   । 103                                              ।
-। Karmashaya                   । 123,126                                          ।
-। *kāya*                       । 181                                              ।
-। *khyātiḥ*                    । 182                                              ।
-। King Dharma                  । 134                                              ।
-। Krishna, Lord sri            । 86,98,99,103,116,130,134,137,139,163,164,172,189 ।
-। *kriyāyogaḥ*                 । 116,117,121,170,171,183                          ।
-। *kriyāyogaḥ* Master          । 154                                              ।
-। *kriyāyogaḥ* resaerch        । 190                                              ।
-। *kriyā*                      । 135                                              ।
-। *kṣaṇa*                      । 154                                              ।
-। Kundalini Chakra,            ।                                                 ।
-।   awakening               । 146                                              ।
-।    frontal                । 178                                              ।
-।    purified               । 103                                              ।
-। Kundalini Yoga               । 121,135,141,143,170,171,177,181,188              ।
-। Kurmanadi                    । 170                                              ।
-। Kurukshetra                  । 154                                              ।
-। **L**                        ।                                                 ।
-। Lack of energy              । 102                                              ।
-। Laws of nature              । 124                                              ।
-। Laziness                     । 101                                              ।
-। Leary,Timothy                । 188                                              ।
-। Levitation                   । 179                                              ।
-। Liberation                  । 101,127                                          ।
-। Life force,                  ।                                                 ।
-।    curbed                 । 121                                              ।
-।    protection scheme     । 170                                              ।
-।    purified              । 103                                              ।
-। Light                        ।                                                 ।
-।    Central forehead      । 157,171                                          ।
-।    vision                । 164                                              ।
-। Linkage of attention,        ।                                                 ।
-।  continuous               । 145                                              ।
-।   effortless              । 119                                              ।
-।   types                    । 110,111                                          ।
-। Liquid,subtle type          । 180                                              ।
-। Livingentity, see Self Lords । 144                                              ।
-। Love of god                  । 161                                              ।
-। Love                         । 108                                              ।
-। Lung                         । 145                                              ।
-। **M**                        ।                                                 ।
-। Mahatva                      । 108                                              ।
-। Mahavideha                   । 179                                              ।
-। Mahavira , Lord              । 135                                              ।
-। *mahāvratam*                 । 136                                              ।
-। Mahayogins                   । 171                                              ।
-। Mandukopanishad              । 95                                               ।
-। Manipuraka                   । 169                                              ।
-। Mantra                       । 188                                              ।
-। Manu                         । 95                                               ।
+|                           |                                    |     |
+|---------------------------|------------------------------------|-----|
+| **A**                     |                                   |    |
+| ābhimata                  | 108                                |    |
+| abhiniveśaḥ               | 118,119,120                        |    |
+| Abhorrence                | 120                                |    |
+| Absoluteness              | 95                                 |    |
+| Absorption, observational | 94                                 |    |
+| Abstract meditation      | 142                                |    |
+| *adhiṣṭhātṛtvaṁ*          | 97                                 |    |
+| Adisesa                   | 144                                |    |
+| Afflictions               | 117                                |    |
+| Agnihotra                 | 95                                 |    |
+| *ahimsā*                  | 134,135                            |    |
+| Akshardham                | 82                                 |    |
+| *akusīdasya*              | 201                                |    |
+| *ālasya*                  | 102                                |    |
+| Alternate breathing      | 146                                |    |
+| Anal region               | 177                                |    |
+| Analysis                  | 87,111                             |    |
+| *anavasthitatvāni*        | 103                                |    |
+| Ancient authorities      | 99                                 |    |
+| Angelic world, defects   | 184                                |    |
+| Animal memory            | 123                                |    |
+| Animal nature            | 139                                |    |
+| Anu                       | 108                                |    |
+| Anu-gita                  | 154                                |    |
+| Anvaya                    | 181                                |    |
+| Anxiety                  | 125                                |    |
+| Apana                     | 170,177                            |    |
+| Aparigrahah               | 135                                |    |
+| Apte,Vaman Shivram        | 150,183                            |    |
+| Arjuna                    | 86,103,134,139,154,161             |    |
+| Asamprajanata samadhi     | 94                                 |    |
+| *āsana*                   | 141,143,145                        |    |
+| avoidance of              | 92                                 |    |
+| *āśayah*                  | 191                                |    |
+| *asmitā*                  | 118                                |    |
+| Association              | 101,107,142,178                    |    |
+| Asteya                    | 135                                |    |
+| Astral body               | 118,169                            |    |
+| Astral world              | 138                                |    |
+| Atheism                  | 144                                |    |
+| Atma                      | 183                                |    |
+| Aum                       | 99                                 |    |
+| Aura                      | 164                                |    |
+| Ausadhi                   | 188                                |    |
+| Austerity                 | 116                                |    |
+| Avidya                    | 118                                |    |
+| Avirati                   | 102                                |    |
+| **B**                     |                                   |    |
+| Babaji Mahasaya,Sri       | 171                                |    |
+|      notation,       | 188                                |    |
+| Balarama,Lord             | 103                                |    |
+| Battle in the mind       | 156                                |    |
+| Bedstead                  | 144                                |    |
+| Benevolence              | 142                                |    |
+| Bengali Baba              | 95                                 |    |
+| Bhagvad-gita             | 99,103,104,130,134,136,139,151,189 |    |
+| Bhagvan                   | 161                                |    |
+| Bhagavata Purana          | 86                                 |    |
+| Bhakti                    | 109,116,136                        |    |
+| Bharata                   | 167                                |    |
+| Bhastrika                 | 170,177                            |    |
+| Bhauma                    | 136                                |    |
+| Bhrantidarsana            | 102                                |    |
+| Bhutendriya               | 158                                |    |
+| Birth                     |                                   |    |
+|     method of powers | 189                                |    |
+|      millions        | 91                                 |    |
+|      past ones       | 123                                |    |
+|      skills          | 187                                |    |
+| Blowing out              | 176                                |    |
+| Bodiless nature           | 95,96,179                          |    |
+| Brahma                    | 82                                 |    |
+| Brahma, Lord             | 98                                 |    |
+| Brahmacarya               | 135                                |    |
+| Brahman                  | 135                                |    |
+| Brahmarandra              | 172                                |    |
+| Breath nutrition         | 141                                |    |
+| Breathing labored type   | 104                                |    |
+| British government       | 164                                |    |
+|                          |                                   |    |
 
 
 
@@ -8359,181 +8178,362 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 
 
 
+|                                             |                       |
+|---------------------------------------------|-----------------------|
+| Durga, goddess,                             | 176                   |
+| **E**                                       |                      |
+| Ear                                         | 157                   |
+| Earth                                       | 136                   |
+| Eating                                      | 130                   |
+| *ekatānatā*                                 | 150                   |
+| Emancipation                               | 131                   |
+| Emotional disaffection                     | 118,120               |
+| Emotional distress                          | 126                   |
+| Emotional energy                           | 103                   |
+| Endearment                                  | 108                   |
+| Energy gyrating centers                     | 169                   |
+| Entering body of others                     | 176                   |
+| Excitation                                  | 143                   |
+| Experience, course of                       | 174                   |
+| Exploitation                               | 140                   |
+| Eye of consciousness                       | 86                    |
+| **F**                                       |                      |
+| Fame                                        | 141,201               |
+| Farmer                                      | 189                   |
+| Fear of death                              | 118                   |
+| Flim theater                                | 159                   |
+| Fish-eating                                 | 139                   |
+| Friendliness                                | 105,166               |
+| Fruitarian                                 | 139                   |
+| Fusion                                      | 94                    |
+| Future/real                                 | 193                   |
+| **G**                                       |                      |
+| Gangotri                                    | 113                   |
+| Gate                                        | 149                   |
+| Gherwal                                     | 164                   |
+| God                                         | 95,99,137,149,200,203 |
+| god                                         | 95                    |
+| Goddess Durga                               | 176                   |
+| Gomsha                                      | 101                   |
+| Gonika                                      | 144                   |
+| Goodwill                                    | 142                   |
+| Gorakshnatha ,sri                           | 134,170,176,188       |
+| Grace force of prana                        | 146                   |
+| Gravity                                     | 179                   |
+| Great commitment                           | 137,138               |
+| Grihasta ashram                             | 134                   |
+| Gross existence                            | 118,119               |
+| Guru,                                       |                      |
+|        adoration                     | 202                   |
+|        grace of                      | 117-118               |
+|     premature type                      | 175                   |
+| **H**                                       |                      |
+| Habits, compulsive                         | 120                   |
+| Happiness ,                                 |                      |
+|       calm type                      | 143                   |
+|       cravings                       | 120                   |
+|       introspective type             | 93                    |
+| Harmlessness                                | 134,135               |
+| Hatha yoga                                  | 170,187,188           |
+| Heart chakra                                | 86                    |
+| Herbs                                       | 188                   |
+| Hiranyagarbha                               | 87                    |
+| Honesty                                     | 135                   |
+| Hope/desire                                 | 193                   |
+| Human body                                 | 101,142               |
+| Hunger/suppression                         | 170                   |
+| Huxley/Aldous                               | 188                   |
+| **I**                                       |                      |
+| Ideation energy dormant                     | 83                    |
+| Identity, misplaced                        | 118                   |
+| Idle-mindedness                             | 101,102               |
+| Ignorance                                  | 117,118,131,132       |
+| Images,mind                                 | 160                   |
+| Imagination faculty, orb                    |                      |
+|         as vision                   | 154                   |
+|        imagination faculty location | 86                    |
+|       magical                         | 126                   |
+|       memory                         | 162                   |
+|       vibrational                    | 84                    |
+|      visual insight                  | 113                   |
+| Impersonalism                               | 144                   |
+| Impressions,                                |                      |
+|        ceased                       | 114                   |
+|      circumstance                      | 193                   |
+|       compacted                      | 123                   |
+|    cosmic reservoir                      | 162                   |
+|         ended                       | 126                   |
+| Inattentiveness                            | 102                   |
+| Incorrect perception                       | 85,88                 |
+| useful ones                                 | 114                   |
+
+
+
+|                              |                                                  |
+|------------------------------|--------------------------------------------------|
+| I-ness                       | 93                                               |
+| Infinite                    | 145                                              |
+| Insight,                     |                                                 |
+|    as buddhi organ        | 152                                              |
+|   discriminative         | 133                                              |
+|    reality - perceptive  | 113                                              |
+|    required              | 96                                               |
+| Instability                 | 125                                              |
+| Instinct for yoga            | 181                                              |
+| Intellect ,                  |                                                 |
+|    analytical power      | 93                                               |
+|    reality - perceiving | 88                                               |
+| Interval                     | 154                                              |
+| Introspection               | 131                                              |
+| Introspective happiness     | 94                                               |
+| Institution                 | 163                                              |
+| Isolation of self            | 183                                              |
+| *iṣṭdevatā*                  | 143                                              |
+| *īśwara*                     | 98                                               |
+| Iyenger                      | 144,148                                          |
+| **J**                        |                                                 |
+| Jain                         | 135                                              |
+| Janma                        | 189                                              |
+| Jesus Christ, Lord           | 177                                              |
+| Jnanachakshu                 | 86,113,133,171                                   |
+| Jnanadipah                   | 86,113,136,171                                   |
+| *jñānadīptiḥ*                | 135,171                                          |
+| **K**                        |                                                 |
+| Kailash                      | 171                                              |
+| Kaivalyam                    | 131,183,186                                      |
+| Karma Yoga                   | 103                                              |
+| Karmashaya                   | 123,126                                          |
+| *kāya*                       | 181                                              |
+| *khyātiḥ*                    | 182                                              |
+| King Dharma                  | 134                                              |
+| Krishna, Lord sri            | 86,98,99,103,116,130,134,137,139,163,164,172,189 |
+| *kriyāyogaḥ*                 | 116,117,121,170,171,183                          |
+| *kriyāyogaḥ* Master          | 154                                              |
+| *kriyāyogaḥ* resaerch        | 190                                              |
+| *kriyā*                      | 135                                              |
+| *kṣaṇa*                      | 154                                              |
+| Kundalini Chakra,            |                                                 |
+|   awakening               | 146                                              |
+|    frontal                | 178                                              |
+|    purified               | 103                                              |
+| Kundalini Yoga               | 121,135,141,143,170,171,177,181,188              |
+| Kurmanadi                    | 170                                              |
+| Kurukshetra                  | 154                                              |
+| **L**                        |                                                 |
+| Lack of energy              | 102                                              |
+| Laws of nature              | 124                                              |
+| Laziness                     | 101                                              |
+| Leary,Timothy                | 188                                              |
+| Levitation                   | 179                                              |
+| Liberation                  | 101,127                                          |
+| Life force,                  |                                                 |
+|    curbed                 | 121                                              |
+|    protection scheme     | 170                                              |
+|    purified              | 103                                              |
+| Light                        |                                                 |
+|    Central forehead      | 157,171                                          |
+|    vision                | 164                                              |
+| Linkage of attention,        |                                                 |
+|  continuous               | 145                                              |
+|   effortless              | 119                                              |
+|   types                    | 110,111                                          |
+| Liquid,subtle type          | 180                                              |
+| Livingentity, see Self Lords | 144                                              |
+| Love of god                  | 161                                              |
+| Love                         | 108                                              |
+| Lung                         | 145                                              |
+| **M**                        |                                                 |
+| Mahatva                      | 108                                              |
+| Mahavideha                   | 179                                              |
+| Mahavira , Lord              | 135                                              |
+| *mahāvratam*                 | 136                                              |
+| Mahayogins                   | 171                                              |
+| Mandukopanishad              | 95                                               |
+| Manipuraka                   | 169                                              |
+| Mantra                       | 188                                              |
+| Manu                         | 95                                               |
+
+
+
 [TABLE]
 
 
 
-।                                        ।                                 ।
-।----------------------------------------।---------------------------------।
-। Realism                                । 135,138                         ।
-। Rebirth                                ।                                ।
-। angelic world                          । 184                             ।
-। avoided                                । 176                             ।
-। haphazard                              । 84                              ।
-। Krishna's view                        । 167                             ।
-। Relationship, to Supreme Personality, । 113                             ।
-। Religion, fundamentalist,             । 124                             ।
-। Religious leaders,                     । 188                             ।
-। Research, diversion,                  । 180                             ।
-। Response of a yogi,                   । 108                             ।
-। Righteous life style,                  । 202                             ।
-। Rishi Singh Gherwal,                  । 164                             ।
-। *ṛtaṁbharā* buddhi, .                  । 113,114                         ।
-। *rūḍho*,                              । 121                             ।
-। **S**                                  ।                                ।
-। *samādhi*,                             । 93,96,134,151-153               ।
-। yielding paranormal powers             । 187,189                         ।
-। *samāna*,                             । 177                             ।
-। Samhatya,                             । 198                             ।
-। *samprajñātaḥ*,                       । 93                              ।
-। Samprayoga,                           । 164                             ।
-। *saṁśaya*,                            । 102                             ।
-। Samyama,                               । 151,156                         ।
-। Samyoga                                । 131                             ।
-। Sanctified objects,                   । 86                              ।
-। Sanskrit grammar,                     । 114                             ।
-। Sanskrit language,                    । 114                             ।
-। Sarvabhauma,                           । 136                             ।
-। Sattva features,                      । 174                             ।
-। Sattva suddhi,                        । 142                             ।
-। Sattva                                 । 186                             ।
-। Sattvaguna body,                      । 181                             ।
-। Satya,                                । 135                             ।
-। Satyananda, Swami,                    । 202                             ।
-। Saviors,                              । 201                             ।
-। Seat of feelings,                      । 191                             ।
-। Seeing instrument,                    । 127                             ।
-। Seer/seen,                            । 127                             ।
-। Self                                   ।                                ।
-। changelessness,                       । 196                             ।
-। conquest,                              । 199                             ।
-। consciousness,                        । 128                             ।
-। diffused type,                        । 95                              ।
-। handicapped,                          । 84                              ।
-। ignorance,                            । 84                              ।
-। image as the body,                     । 119.                            ।
-। independence                          । 83                              ।
-। intimidated,                           । 110,111                         ।
-। isolation,                            । 183                             ।
-। mento-emotional energy,               । 83                              ।
-। mind,                                 । 197                             ।
-। self perception,                      । 128                             ।
-। realization,                           । 130, 131                       ।
-। Sense consciousness,                  ।                                ।
-। internalization,                      । 100                             ।
-। Sense of identity                     । 93                              ।
-। Senses,                                ।                                ।
-। prejudiced,                           । 102                             ।
-। short-sighted,                        । 110                             ।
-। Sensual energies                       ।                                ।
-। purified,                             । 103                             ।
-। rapidity,                             । 181                             ।
-। Sensual expressions,                  ।                                ।
-। reverting                             । 122                             ।
-। Sensual influence,                     । 128                             ।
-। Sensual withdrawal,                   । 172                             ।
-। Sensuality proness,                   । 102                             ।
-। Serentiy,                              । 105                             ।
-। Sexual intercourse,                    । 135                            ।
-। through another's body.               । 176                             ।
-। Sexual non-expression,                । 139                             ।
-। Sexual urge sublimated,               । 135                             ।
-। Shaman,                               । 188                             ।
-। Shankaracharya, Sri Adi,              । 176                             ।
-। Shiva, Lord,                           । 98.103,134,163, 167,171,172,178 ।
-। Shiva's wife,                         । 176                             ।
-। Shivananda, Swami,                    । 202                             ।
-। Shivram Ape,                           । 150                             ।
-। Shuddha,                              । 110                             ।
-। Shuka,                                । 116                             ।
+[TABLE]
 
 
 
-।                                                                                                                  ।                           ।
-।------------------------------------------------------------------------------------------------------------------।---------------------------।
-। Siddhaloka ,                                                                                                     । 160                       ।
-। Siddhas,                                                                                                        । 116,171                   ।
-। Siddhi                                                                                                           । 154,161,187               ।
-।    impediments,                                                                                              । 178                       ।
-। Sir Paul Castagna                                                                                               । 85                        ।
-। Skanda Kumara,                                                                                                   । 134,176                   ।
-। Skeptics,                                                                                                       । 157                       ।
-। Sky of consciousness,                                                                                            । 82,106                    ।
-। Sleep.                                                                                                           ।                          ।
-।    curbed,                                                                                                    । 86,87                     ।
-।    described,                                                                                               । 89                        ।
-।    dreamless,                                                                                                । 107                       ।
-।    impulsive,                                                                                               । 84                        ।
-।    self disconnect.                                                                                          । 89                        ।
-। Solar deity,                                                                                                    । 168                       ।
-। Solar plexus,                                                                                                    । 168,169                   ।
-। Solar system,                                                                                                   । 179                       ।
-। Solitude,                                                                                                       । 152                       ।
-। Soul, see Self Sound, subtle,                                                                                   । 157,187, 188              ।
-। Special person,                                                                                                 । 130                       ।
-। Species of life,                                                                                                । 135                       ।
-। Spirit see Self                                                                                                  ।                          ।
-। Spirit,                                                                                                          ।                          ।
-।    limited,                                                                                                  । 128                       ।
-।    Material Nature,                                                                                           । 130,131                   ।
-।    proximity,                                                                                                 । 198                       ।
-। Spiritual Master,                                                                                               । 201                       ।
-। Sri Krishna, see Krishna Sri Patanjali, see Patanjali Srila Yogeshwarananda see Yogeswarananda Srimad Bhagavatam । 86                        ।
-। Study of psyche,                                                                                                । 116                       ।
-। *styāna*,                                                                                                       । 101                       ।
-। Subconscious mind,                                                                                              । 90                        ।
-। Subtle body,                                                                                                     ।                          ।
-।    changed,                                                                                                  । 121                       ।
-।    orange glow,                                                                                              । 178                       ।
-।    past lives,                                                                                               । 141                       ।
-।    special powers,                                                                                            । 178, 179                  ।
-।    upgraded,                                                                                                 । 181                       ।
-। Subtle tube nadis,                                                                                              । 180                       ।
-। Suddhi-samye,                                                                                                   । 186                       ।
-। Sun-god,                                                                                                         । 167, 168                  ।
-। Sunlight,                                                                                                       । 167                       ।
-। Sun-planet,                                                                                                     । 167                       ।
-। *śūnyam*,                                                                                                       । 150                       ।
-। Supernatural perception,                                                                                        । 122                       ।
-। Superphysical planes,                                                                                            । 96                        ।
-। Supportive element,                                                                                             । 193                       ।
-। Supreme Being                                                                                                    । 101,112,131, 161,162,167 ।
-। Supreme Lord,                                                                                                    ।                          ।
-।    affliction free,                                                                                          । 98                        ।
-।    investigated,                                                                                             । 111                       ।
-।    meditation upon,                                                                                           । 98,116,137                ।
-।    meditation upon,                                                                                          । 116                       ।
-।    special person                                                                                            । 130                       ।
-।    supreme teacher                                                                                           । 98                        ।
-।    unsurpassed                                                                                                । 98                        ।
-। Supreme Spirit,                                                                                                 । 183                       ।
-। Suratha,                                                                                                        । 95                        ।
-। Surrender,                                                                                                       । 111                       ।
-। Sushumna nadi,                                                                                                  । 178                       ।
-। Sva,                                                                                                            । 132                       ।
-। Sva-bhava,                                                                                                      । 118                       ।
-। **T**                                                                                                            ।                          ।
-। T.Lobsang Rampa,                                                                                               । 176                       ।
-। Taimni, I.K.- Raj Yogi,                                                                                          । 121,150,201               ।
-। Tapa,                                                                                                           । 99                        ।
-। Tapah,                                                                                                          । 188                       ।
-। Tapasah,                                                                                                         । 143                       ।
-। Teachers,                                                                                                        । 145,146,180.             ।
-। Telepathy,                                                                                                      । 901                       ।
-। Tendency,                                                                                                       । 192                       ।
-। Thinking conservation,                                                                                          । 100                       ।
-। Third eye,                                                                                                      । 113                       ।
-। Thirst suppression,                                                                                             । 170                       ।
-। Thoughts transmitted,                                                                                           । 165                       ।
-। Time gap/repercussions,                                                                                         । 124                       ।
-। Time, no illusion,                                                                                               । 193                       ।
-। Time/Nature                                                                                                      । 203                       ।
-। Tirthankaras                                                                                                     । 135                       ।
-। Tistha                                                                                                           । 140                       ।
-। *tīvra saṁvegā*                                                                                                 । 97                        ।
-। Transmigrations,                                                                                                 । 129                       ।
-। Trees,memory                                                                                                     । 123                       ।
-। Truthfulness                                                                                                    । 135                       ।
+|                                        |                                 |
+|----------------------------------------|---------------------------------|
+| Realism                                | 135,138                         |
+| Rebirth                                |                                |
+| angelic world                          | 184                             |
+| avoided                                | 176                             |
+| haphazard                              | 84                              |
+| Krishna's view                        | 167                             |
+| Relationship, to Supreme Personality, | 113                             |
+| Religion, fundamentalist,             | 124                             |
+| Religious leaders,                     | 188                             |
+| Research, diversion,                  | 180                             |
+| Response of a yogi,                   | 108                             |
+| Righteous life style,                  | 202                             |
+| Rishi Singh Gherwal,                  | 164                             |
+| *ṛtaṁbharā* buddhi, .                  | 113,114                         |
+| *rūḍho*,                              | 121                             |
+| **S**                                  |                                |
+| *samādhi*,                             | 93,96,134,151-153               |
+| yielding paranormal powers             | 187,189                         |
+| *samāna*,                             | 177                             |
+| Samhatya,                             | 198                             |
+| *samprajñātaḥ*,                       | 93                              |
+| Samprayoga,                           | 164                             |
+| *saṁśaya*,                            | 102                             |
+| Samyama,                               | 151,156                         |
+| Samyoga                                | 131                             |
+| Sanctified objects,                   | 86                              |
+| Sanskrit grammar,                     | 114                             |
+| Sanskrit language,                    | 114                             |
+| Sarvabhauma,                           | 136                             |
+| Sattva features,                      | 174                             |
+| Sattva suddhi,                        | 142                             |
+| Sattva                                 | 186                             |
+| Sattvaguna body,                      | 181                             |
+| Satya,                                | 135                             |
+| Satyananda, Swami,                    | 202                             |
+| Saviors,                              | 201                             |
+| Seat of feelings,                      | 191                             |
+| Seeing instrument,                    | 127                             |
+| Seer/seen,                            | 127                             |
+| Self                                   |                                |
+| changelessness,                       | 196                             |
+| conquest,                              | 199                             |
+| consciousness,                        | 128                             |
+| diffused type,                        | 95                              |
+| handicapped,                          | 84                              |
+| ignorance,                            | 84                              |
+| image as the body,                     | 119.                            |
+| independence                          | 83                              |
+| intimidated,                           | 110,111                         |
+| isolation,                            | 183                             |
+| mento-emotional energy,               | 83                              |
+| mind,                                 | 197                             |
+| self perception,                      | 128                             |
+| realization,                           | 130, 131                       |
+| Sense consciousness,                  |                                |
+| internalization,                      | 100                             |
+| Sense of identity                     | 93                              |
+| Senses,                                |                                |
+| prejudiced,                           | 102                             |
+| short-sighted,                        | 110                             |
+| Sensual energies                       |                                |
+| purified,                             | 103                             |
+| rapidity,                             | 181                             |
+| Sensual expressions,                  |                                |
+| reverting                             | 122                             |
+| Sensual influence,                     | 128                             |
+| Sensual withdrawal,                   | 172                             |
+| Sensuality proness,                   | 102                             |
+| Serentiy,                              | 105                             |
+| Sexual intercourse,                    | 135                            |
+| through another's body.               | 176                             |
+| Sexual non-expression,                | 139                             |
+| Sexual urge sublimated,               | 135                             |
+| Shaman,                               | 188                             |
+| Shankaracharya, Sri Adi,              | 176                             |
+| Shiva, Lord,                           | 98.103,134,163, 167,171,172,178 |
+| Shiva's wife,                         | 176                             |
+| Shivananda, Swami,                    | 202                             |
+| Shivram Ape,                           | 150                             |
+| Shuddha,                              | 110                             |
+| Shuka,                                | 116                             |
+
+
+
+|                                                                                                                  |                           |
+|------------------------------------------------------------------------------------------------------------------|---------------------------|
+| Siddhaloka ,                                                                                                     | 160                       |
+| Siddhas,                                                                                                        | 116,171                   |
+| Siddhi                                                                                                           | 154,161,187               |
+|    impediments,                                                                                              | 178                       |
+| Sir Paul Castagna                                                                                               | 85                        |
+| Skanda Kumara,                                                                                                   | 134,176                   |
+| Skeptics,                                                                                                       | 157                       |
+| Sky of consciousness,                                                                                            | 82,106                    |
+| Sleep.                                                                                                           |                          |
+|    curbed,                                                                                                    | 86,87                     |
+|    described,                                                                                               | 89                        |
+|    dreamless,                                                                                                | 107                       |
+|    impulsive,                                                                                               | 84                        |
+|    self disconnect.                                                                                          | 89                        |
+| Solar deity,                                                                                                    | 168                       |
+| Solar plexus,                                                                                                    | 168,169                   |
+| Solar system,                                                                                                   | 179                       |
+| Solitude,                                                                                                       | 152                       |
+| Soul, see Self Sound, subtle,                                                                                   | 157,187, 188              |
+| Special person,                                                                                                 | 130                       |
+| Species of life,                                                                                                | 135                       |
+| Spirit see Self                                                                                                  |                          |
+| Spirit,                                                                                                          |                          |
+|    limited,                                                                                                  | 128                       |
+|    Material Nature,                                                                                           | 130,131                   |
+|    proximity,                                                                                                 | 198                       |
+| Spiritual Master,                                                                                               | 201                       |
+| Sri Krishna, see Krishna Sri Patanjali, see Patanjali Srila Yogeshwarananda see Yogeswarananda Srimad Bhagavatam | 86                        |
+| Study of psyche,                                                                                                | 116                       |
+| *styāna*,                                                                                                       | 101                       |
+| Subconscious mind,                                                                                              | 90                        |
+| Subtle body,                                                                                                     |                          |
+|    changed,                                                                                                  | 121                       |
+|    orange glow,                                                                                              | 178                       |
+|    past lives,                                                                                               | 141                       |
+|    special powers,                                                                                            | 178, 179                  |
+|    upgraded,                                                                                                 | 181                       |
+| Subtle tube nadis,                                                                                              | 180                       |
+| Suddhi-samye,                                                                                                   | 186                       |
+| Sun-god,                                                                                                         | 167, 168                  |
+| Sunlight,                                                                                                       | 167                       |
+| Sun-planet,                                                                                                     | 167                       |
+| *śūnyam*,                                                                                                       | 150                       |
+| Supernatural perception,                                                                                        | 122                       |
+| Superphysical planes,                                                                                            | 96                        |
+| Supportive element,                                                                                             | 193                       |
+| Supreme Being                                                                                                    | 101,112,131, 161,162,167 |
+| Supreme Lord,                                                                                                    |                          |
+|    affliction free,                                                                                          | 98                        |
+|    investigated,                                                                                             | 111                       |
+|    meditation upon,                                                                                           | 98,116,137                |
+|    meditation upon,                                                                                          | 116                       |
+|    special person                                                                                            | 130                       |
+|    supreme teacher                                                                                           | 98                        |
+|    unsurpassed                                                                                                | 98                        |
+| Supreme Spirit,                                                                                                 | 183                       |
+| Suratha,                                                                                                        | 95                        |
+| Surrender,                                                                                                       | 111                       |
+| Sushumna nadi,                                                                                                  | 178                       |
+| Sva,                                                                                                            | 132                       |
+| Sva-bhava,                                                                                                      | 118                       |
+| **T**                                                                                                            |                          |
+| T.Lobsang Rampa,                                                                                               | 176                       |
+| Taimni, I.K.- Raj Yogi,                                                                                          | 121,150,201               |
+| Tapa,                                                                                                           | 99                        |
+| Tapah,                                                                                                          | 188                       |
+| Tapasah,                                                                                                         | 143                       |
+| Teachers,                                                                                                        | 145,146,180.             |
+| Telepathy,                                                                                                      | 901                       |
+| Tendency,                                                                                                       | 192                       |
+| Thinking conservation,                                                                                          | 100                       |
+| Third eye,                                                                                                      | 113                       |
+| Thirst suppression,                                                                                             | 170                       |
+| Thoughts transmitted,                                                                                           | 165                       |
+| Time gap/repercussions,                                                                                         | 124                       |
+| Time, no illusion,                                                                                               | 193                       |
+| Time/Nature                                                                                                      | 203                       |
+| Tirthankaras                                                                                                     | 135                       |
+| Tistha                                                                                                           | 140                       |
+| *tīvra saṁvegā*                                                                                                 | 97                        |
+| Transmigrations,                                                                                                 | 129                       |
+| Trees,memory                                                                                                     | 123                       |
+| Truthfulness                                                                                                    | 135                       |
 
 
 

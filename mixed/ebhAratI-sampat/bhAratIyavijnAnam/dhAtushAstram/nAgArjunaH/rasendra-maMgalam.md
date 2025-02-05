@@ -867,16 +867,16 @@ Alone mercury is enough for melting everything, what more if it is added with th
 
 Here is enlisted few single drugs and compounds very useful for converting *Lohas* (metals) into irreversible state of *Bhasma*, may be metals hardened like a diamond:
 
-।        ।                   ।                            ।                             ।
-।--------।-------------------।----------------------------।-----------------------------।
-। **No** । **Name of metal** । **Drugs for incenaration** ।                             ।
-।       ।                  । **Single**                 । **Compound**                ।
-। 1      । Gold              । Lead                       । *Vajri* juice & lead.       ।
-। 2      । Silver            । Pyrite, Rasa               । Lactic of *Snuhi* & Pyrite. ।
-। 3      । Copper            । Sulphur                    । Goat's milk & sulphur.      ।
-। 4      । Tin               । Orpiment                   । *Palāśa* & Orpiment.       ।
-। 5      । Lead              । Realgar                    । Latex of Arka & Realgar.    ।
-। 6      । Sharp Iron        । Cinnebar                   । Human milk & cinnebar.      ।
+|        |                   |                            |                             |
+|--------|-------------------|----------------------------|-----------------------------|
+| **No** | **Name of metal** | **Drugs for incenaration** |                             |
+|       |                  | **Single**                 | **Compound**                |
+| 1      | Gold              | Lead                       | *Vajri* juice & lead.       |
+| 2      | Silver            | Pyrite, Rasa               | Lactic of *Snuhi* & Pyrite. |
+| 3      | Copper            | Sulphur                    | Goat's milk & sulphur.      |
+| 4      | Tin               | Orpiment                   | *Palāśa* & Orpiment.       |
+| 5      | Lead              | Realgar                    | Latex of Arka & Realgar.    |
+| 6      | Sharp Iron        | Cinnebar                   | Human milk & cinnebar.      |
 
 These metals after proper incineration achieve the state of R*asībhāvanam* i.e. colloidal state. If this is tactfully administered these are alleviatives of various diseases. And if these are utilised on a regular basis, it protects undue graying of hair, formation of disease and degenarative process of ageing.
 

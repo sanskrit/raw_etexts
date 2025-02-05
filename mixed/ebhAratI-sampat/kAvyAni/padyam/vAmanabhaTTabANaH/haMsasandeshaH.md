@@ -67,96 +67,96 @@ December, 1941.
 
 
 
-।                                                                            ।
-|:--------------------------------------------------------------------------:।
-।                                **CONTENTS**                                ।
-।                                  Preface                                   ।
-।                                Introduction                                ।
-।                            Description of MSS.                             ।
-।                        The Poet: his life and date                         ।
-।        Other works of Vamana Bhatta Bāṇa, authorof the Haṃsa-dūta         ।
-।                    The subject-matter of the Haṃsa-dūta                    ।
-।        Geographical notes on the names mentionedin the Haṃsa-dūta         ।
-।                       Accounts of other Haṃsa-dūtas                        ।
-।                       1 Haṃsa-dūta by Rūpagosvāmin.                        ।
-।                 2 Haṃsa-dūta by Venkaṭanātha Vedāntācārya.                 ।
-।                       3 Haṃsa-dūta by Raghunathadāsa                       ।
-।                   4 Haṃsa-dūta by V. Kavīndra Sarasvatī                    ।
-।                     5 Haṃsa-sandeśa by Pūrṇasarasvatī                      ।
-।        6 Haṃsa-sandeśa with a metricalcommentary (both anonymous)         ।
-।                        7 Haṃsa-sandeśa (anonymous)                         ।
-।                           Text: Purva-sandeśa:—                            ।
-।                The beginning of the poem is rather abrupt.                 ।
-।                   Verse 1 Yaksa Dakṣa's exile for a year                   ।
-। '' 2 The swan is requested to carry themessage to his wife Kandarpalekhā ।
+|                                                                            |
+|:--------------------------------------------------------------------------:|
+|                                **CONTENTS**                                |
+|                                  Preface                                   |
+|                                Introduction                                |
+|                            Description of MSS.                             |
+|                        The Poet: his life and date                         |
+|        Other works of Vamana Bhatta Bāṇa, authorof the Haṃsa-dūta         |
+|                    The subject-matter of the Haṃsa-dūta                    |
+|        Geographical notes on the names mentionedin the Haṃsa-dūta         |
+|                       Accounts of other Haṃsa-dūtas                        |
+|                       1 Haṃsa-dūta by Rūpagosvāmin.                        |
+|                 2 Haṃsa-dūta by Venkaṭanātha Vedāntācārya.                 |
+|                       3 Haṃsa-dūta by Raghunathadāsa                       |
+|                   4 Haṃsa-dūta by V. Kavīndra Sarasvatī                    |
+|                     5 Haṃsa-sandeśa by Pūrṇasarasvatī                      |
+|        6 Haṃsa-sandeśa with a metricalcommentary (both anonymous)         |
+|                        7 Haṃsa-sandeśa (anonymous)                         |
+|                           Text: Purva-sandeśa:—                            |
+|                The beginning of the poem is rather abrupt.                 |
+|                   Verse 1 Yaksa Dakṣa's exile for a year                   |
+| '' 2 The swan is requested to carry themessage to his wife Kandarpalekhā |
 
 
 
-।                                                                              ।
-।------------------------------------------------------------------------------।
-। Verse 3 The messenger should go togetherwith its wife to Alakā              ।
-। Verse 4 The messenger should hurry on                                        ।
-। Verses 5-7 Route from a certain hill in theSouth, probably Malaya, to Alakā ।
-। Verse 8 The wind will be the ally of the                                     ।
-। Verses 5-7 Route from a certain hill in the                                  ।
-। South, probably Malaya, to Alakā  ... ...                                  ।
-। Verse 8 The wind will be the ally of theswan... ... ... ... ...             ।
-। 9 How to remove the fatigue of theshe-swan ... ... ... ...                ।
-। Verses 10-11 The halting places of the two swans;                           ।
-। the curiosity of visitors.                                                   ।
-। Verses 12-14 The Tamraparṇī .... ....                                       ।
-। Verses 15-18 Madhurā                                                         ।
-। Verses 19-20 The Cauvery                                                     ।
-। Verse 21 Raṅga-deśa                                                          ।
-। Verses 22-23 Cola-deśa                                                       ।
-। Verses 24-28 City Puṇḍarīka                                                  ।
-। Verse 29 Conjeeveram                                                         ।
-। Verses 30 Puṇyakoṭi                                                          ।
-। Verses 31-34 Karivara-giri and the riverKampā                               ।
-। Verse 35 Añjanādri                                                           ।
-। Verses 36 Kālahasti and Kanakamukharī                                        ।
-। Verses 37 Andhra, Kṛṣṇaveṇī and Tuṅgabhadrā                                  ।
-। Verses 38 Godāvarī                                                           ।
-।                                                                             ।
+|                                                                              |
+|------------------------------------------------------------------------------|
+| Verse 3 The messenger should go togetherwith its wife to Alakā              |
+| Verse 4 The messenger should hurry on                                        |
+| Verses 5-7 Route from a certain hill in theSouth, probably Malaya, to Alakā |
+| Verse 8 The wind will be the ally of the                                     |
+| Verses 5-7 Route from a certain hill in the                                  |
+| South, probably Malaya, to Alakā  ... ...                                  |
+| Verse 8 The wind will be the ally of theswan... ... ... ... ...             |
+| 9 How to remove the fatigue of theshe-swan ... ... ... ...                |
+| Verses 10-11 The halting places of the two swans;                           |
+| the curiosity of visitors.                                                   |
+| Verses 12-14 The Tamraparṇī .... ....                                       |
+| Verses 15-18 Madhurā                                                         |
+| Verses 19-20 The Cauvery                                                     |
+| Verse 21 Raṅga-deśa                                                          |
+| Verses 22-23 Cola-deśa                                                       |
+| Verses 24-28 City Puṇḍarīka                                                  |
+| Verse 29 Conjeeveram                                                         |
+| Verses 30 Puṇyakoṭi                                                          |
+| Verses 31-34 Karivara-giri and the riverKampā                               |
+| Verse 35 Añjanādri                                                           |
+| Verses 36 Kālahasti and Kanakamukharī                                        |
+| Verses 37 Andhra, Kṛṣṇaveṇī and Tuṅgabhadrā                                  |
+| Verses 38 Godāvarī                                                           |
+|                                                                             |
 
 
 
-।                                                                                                                                      ।
-।--------------------------------------------------------------------------------------------------------------------------------------।
-। Verses 39-40 Vindhya mountains                                                                                                       ।
-। Verses 41-42 Revā                                                                                                                    ।
-। Verses 43-44 Yamunā                                                                                                                  ।
-। Verses 45-46 Jāhnavi or the Ganges                                                                                                   ।
-। Verse 47 Benares                                                                                                                     ।
-। Verses 48-49 Ayodhyā                                                                                                                 ।
-। Verses 50-51 Sarayū                                                                                                                  ।
-। Verse 52 Gaṇḍaki                                                                                                                     ।
-। Verses 53 Kurukṣetra                                                                                                                 ।
-। Verses 54-56 The Himalayas                                                                                                           ।
-। Verses 57-58 Krauñca mountain                                                                                                        ।
-। Verses 59-60 Kailāsa                                                                                                                 ।
-। Verse 61 Alakā                                                                                                                       ।
-। Uttara-sandeśa :—                                                                                                                    ।
-। Verses 62-74 Description of Alakā                                                                                                    ।
-। Verse 75 The messenger is requested tohurry up for delivering the message                                                           ।
-। Verses 76 Songs of Kinnarīs                                                                                                          ।
-। Verses 77-79 Residence of Kubera                                                                                                     ।
-। Verses 80-87 The house of Yakṣa Dakṣahimself; pleasure-hill, peacock, garden,young mango-tree, Aśoka-tree and alarge tank in it... ।
-। Verse 88 The house cannot be so attractive as before                                                                                 ।
+|                                                                                                                                      |
+|--------------------------------------------------------------------------------------------------------------------------------------|
+| Verses 39-40 Vindhya mountains                                                                                                       |
+| Verses 41-42 Revā                                                                                                                    |
+| Verses 43-44 Yamunā                                                                                                                  |
+| Verses 45-46 Jāhnavi or the Ganges                                                                                                   |
+| Verse 47 Benares                                                                                                                     |
+| Verses 48-49 Ayodhyā                                                                                                                 |
+| Verses 50-51 Sarayū                                                                                                                  |
+| Verse 52 Gaṇḍaki                                                                                                                     |
+| Verses 53 Kurukṣetra                                                                                                                 |
+| Verses 54-56 The Himalayas                                                                                                           |
+| Verses 57-58 Krauñca mountain                                                                                                        |
+| Verses 59-60 Kailāsa                                                                                                                 |
+| Verse 61 Alakā                                                                                                                       |
+| Uttara-sandeśa :—                                                                                                                    |
+| Verses 62-74 Description of Alakā                                                                                                    |
+| Verse 75 The messenger is requested tohurry up for delivering the message                                                           |
+| Verses 76 Songs of Kinnarīs                                                                                                          |
+| Verses 77-79 Residence of Kubera                                                                                                     |
+| Verses 80-87 The house of Yakṣa Dakṣahimself; pleasure-hill, peacock, garden,young mango-tree, Aśoka-tree and alarge tank in it... |
+| Verse 88 The house cannot be so attractive as before                                                                                 |
 
 
 
-।                                                                   ।
-।-------------------------------------------------------------------।
-। Verse 89 The wind will act as an allyof the messenger            ।
-। Verses 90-101 The description of Kandarpalekhā, wife of the Yakṣa ।
-। ,,102-120 The message to be delivered                             ।
-। Verse 121 Good wishes for the messenger.                          ।
-।                                                                  ।
-। **Appendices**                                                    ।
-। Verse-index                                                       ।
-। Bibliography                                                      ।
-। General Index                                                     ।
+|                                                                   |
+|-------------------------------------------------------------------|
+| Verse 89 The wind will act as an allyof the messenger            |
+| Verses 90-101 The description of Kandarpalekhā, wife of the Yakṣa |
+| ,,102-120 The message to be delivered                             |
+| Verse 121 Good wishes for the messenger.                          |
+|                                                                  |
+| **Appendices**                                                    |
+| Verse-index                                                       |
+| Bibliography                                                      |
+| General Index                                                     |
 
 
 
@@ -185,28 +185,28 @@ Post-colophon:—
 
 
 
-।                                         ।                    ।                                    ।
-|:---------------------------------------:|:------------------:|:----------------------------------:।
-। Some of the Variant readings of the two ।                    ।                                    ।
-।          MSS. and our readings          ।                    ।                                    ।
-।            MS. A (No. 11912)            ।  MS. B (No.11913) । Readings accepted in our edition : ।
-।                  स्वेन                  ।       स्तेन        ।               स्वेन                ।
-।                  युवते                  ।       वनिताः       ।               वनिताः               ।
-।               उन्निद्रः स               ।  उन्निद्रः सन्निज  ।        उन्निद्रः सन् व्रज         ।
-।             श्रोष्यत्यग्रे              ।   श्राष्यत्यग्रे   ।          श्रोष्यस्यग्रे           ।
-।                 विजयिनः                 ।      विजयिनः       ।               जयिनः                ।
-।                  कथयति                  ।       कथयति       ।               कलयति               ।
-।               गज-स्त्यान०               ।   गज-मद-स्त्यान०   ।           गज-मद- स्त्यान           ।
-।              क्षिप्त भारा              ।    क्षिप्त-हारा    ।            क्षिप्त हारा            ।
-।                  यासां                  ।       या सा       ।               या सा                ।
-।                  तमधः                   ।        तमधः        ।                तमसः                ।
-।                भक्तिनम्र                ।     भक्तिनम्र      ।            भक्तिनम्रो             ।
-।                  गिरां                  ।       गिरां        ।                गिरः                ।
-।                पण्डितां                 ।      पण्डितं       ।              पण्डितं               ।
-।               यान्तुकामा                ।     यान्तुकामा     ।              यातुकामा              ।
-।             ...न्यस्त-भारा              । यत्र विन्यस्त-भारा ।              यत्र वि०              ।
-।             मोहमानं भवन्तं              ।   मोदमानां भवतीं   ।           मोदमानं भवन्तं           ।
-।           वाग्मिभिः सेव्यसाना           । वारिभिः सीव्यमाना ।         वारिभिः सेव्यमाना         ।
+|                                         |                    |                                    |
+|:---------------------------------------:|:------------------:|:----------------------------------:|
+| Some of the Variant readings of the two |                    |                                    |
+|          MSS. and our readings          |                    |                                    |
+|            MS. A (No. 11912)            |  MS. B (No.11913) | Readings accepted in our edition : |
+|                  स्वेन                  |       स्तेन        |               स्वेन                |
+|                  युवते                  |       वनिताः       |               वनिताः               |
+|               उन्निद्रः स               |  उन्निद्रः सन्निज  |        उन्निद्रः सन् व्रज         |
+|             श्रोष्यत्यग्रे              |   श्राष्यत्यग्रे   |          श्रोष्यस्यग्रे           |
+|                 विजयिनः                 |      विजयिनः       |               जयिनः                |
+|                  कथयति                  |       कथयति       |               कलयति               |
+|               गज-स्त्यान०               |   गज-मद-स्त्यान०   |           गज-मद- स्त्यान           |
+|              क्षिप्त भारा              |    क्षिप्त-हारा    |            क्षिप्त हारा            |
+|                  यासां                  |       या सा       |               या सा                |
+|                  तमधः                   |        तमधः        |                तमसः                |
+|                भक्तिनम्र                |     भक्तिनम्र      |            भक्तिनम्रो             |
+|                  गिरां                  |       गिरां        |                गिरः                |
+|                पण्डितां                 |      पण्डितं       |              पण्डितं               |
+|               यान्तुकामा                |     यान्तुकामा     |              यातुकामा              |
+|             ...न्यस्त-भारा              | यत्र विन्यस्त-भारा |              यत्र वि०              |
+|             मोहमानं भवन्तं              |   मोदमानां भवतीं   |           मोदमानं भवन्तं           |
+|           वाग्मिभिः सेव्यसाना           | वारिभिः सीव्यमाना |         वारिभिः सेव्यमाना         |
 
 
 
@@ -1525,21 +1525,21 @@ Further details about this work will be recorded in Vol. VI of this series.
 
 **VERSE-INDEX OF THE HAṂSA-DŪTA.**
 
-।                         ।                          ।
-।-------------------------।--------------------------।
-। अक्ष्णेरग्रे तदनु       । आविभ्राणां रघुपति०       ।
-। अग्रे तस्याः स्फटिक०    । आम्रो दृश्यस्तदनु        ।
-। अग्रे दिव्य-द्विप-कर०   । आलम्ब्य द्रागथ           ।
-। अध्व-कान्तामलघु०        । आशा मात्र-ग्रथित०        ।
-। अन्तर्यातुंचलित०       । आस्ते तस्यास्तट-भुवि     ।
-। अभ्युक्षन्तींमलयज०     । इत्यालापे कर-किशलये      ।
-। अम्बूङ्गीर्णैर्न व-मणि० । उड्डीनः सन्नु परि        ।
-। अम्भः क्रीडास्वनिश०     । उद्याने चेत् परभृत०      ।
-। अम्भःपानादर०            । कन्दर्पाग्नौ ज्वलति न    ।
-। अस्तं याते सवितरि       । कन्यां जह्नोरुपसर        ।
-। आ कैलासादविदित०         । कर्तुं कान्तैः कमल०      ।
-। आन्ध्रोद्देशानति०       । काकुत्स्थानां मुहुरवभृथ० ।
-। आपाण्डिम्ना महिम०       । कार्ष्ण्येनावामहरिव      ।
+|                         |                          |
+|-------------------------|--------------------------|
+| अक्ष्णेरग्रे तदनु       | आविभ्राणां रघुपति०       |
+| अग्रे तस्याः स्फटिक०    | आम्रो दृश्यस्तदनु        |
+| अग्रे दिव्य-द्विप-कर०   | आलम्ब्य द्रागथ           |
+| अध्व-कान्तामलघु०        | आशा मात्र-ग्रथित०        |
+| अन्तर्यातुंचलित०       | आस्ते तस्यास्तट-भुवि     |
+| अभ्युक्षन्तींमलयज०     | इत्यालापे कर-किशलये      |
+| अम्बूङ्गीर्णैर्न व-मणि० | उड्डीनः सन्नु परि        |
+| अम्भः क्रीडास्वनिश०     | उद्याने चेत् परभृत०      |
+| अम्भःपानादर०            | कन्दर्पाग्नौ ज्वलति न    |
+| अस्तं याते सवितरि       | कन्यां जह्नोरुपसर        |
+| आ कैलासादविदित०         | कर्तुं कान्तैः कमल०      |
+| आन्ध्रोद्देशानति०       | काकुत्स्थानां मुहुरवभृथ० |
+| आपाण्डिम्ना महिम०       | कार्ष्ण्येनावामहरिव      |
 
 
 
@@ -1547,77 +1547,77 @@ Further details about this work will be recorded in Vol. VI of this series.
 
 **Verse-Index**
 
-।                          ।                        ।
-।--------------------------।------------------------।
-। कालेन स्यान्नियत०        । तस्यां हंस्यस्तरल्०    ।
-। किं मुक्ताभिर्चटित०      । तस्यामेकां भवन०        ।
-। किं वा कुर्यां कति नु    । तस्यास्तीरे तरुण०      ।
-। कुर्वाणानां सलिल०        । तापं नेतुं तरुण०       ।
-। कृत्वा कार्यं मम पुन०    । तामुत्तीर्य त्रि-चतुर० ।
-। कृत्वा पक्षौ वियति       । तामुद्भूत ध्वज-पट०     ।
-। कोलाकारो मधुरिपु०        । तास्ताः पश्यञ्जनपद०    ।
-। कौवेरीं तामुपसर          । तीरे तस्या जयति        ।
-। क्रीडा-वाप्य स्फटिक ०    । तुङ्गैः शृङ्गैर्गगन०   ।
-। क्रीडाकीर्णा कुसुमित०    । त्वदुदृश्या सा भवति    ।
-। क्लाम्येत्तन्वी गगन०     । त्वय्यासन्ने भुवन०     ।
-। क्षेत्रं यायाः कु-नृपति० । दग्धुं लोकान् किल      ।
-। गच्छन् मध्ये नरपति०      । दूरे गारुत्मत०         ।
-। गत्वा सीदत्परिजन०        । दूर्वा-बुद्ध्या मरकत०  ।
-। गाढाश्लेषे तव किल        । दृश्यः पश्चात् कुसुम०  ।
-। गीर्वाणानां विदधदनिशं    । दृश्येतान्त्ये नयन०    ।
-। गुञ्जा-मिश्रैर्वन-करि०   । दृष्ट्वा नूनं ललित०    ।
-। चक्र द्वन्देष्वपि वरतनु  । दोषामन्य दिनमुप०       ।
-। चक्र द्वन्द्वे श्चटुल०   । नद्यां शैले नगर०       ।
-। चित्रे कर्तुं व्यवहित०   । नाम्ना काञ्चीं तदनु    ।
-। चिह्नै रेतैर्मनसि        । नालं चन्द्रो वदन०      ।
-। जात्वन्योन्य-प्रणय०      । निर्धौतायां गिरिश०     ।
-। ज्ञातव्या सा मम          । नीहारार्द्राःकुच०     ।
-। तत्सानूनि स्फुट०         । नेदीयः स्यात्तव        ।
+|                          |                        |
+|--------------------------|------------------------|
+| कालेन स्यान्नियत०        | तस्यां हंस्यस्तरल्०    |
+| किं मुक्ताभिर्चटित०      | तस्यामेकां भवन०        |
+| किं वा कुर्यां कति नु    | तस्यास्तीरे तरुण०      |
+| कुर्वाणानां सलिल०        | तापं नेतुं तरुण०       |
+| कृत्वा कार्यं मम पुन०    | तामुत्तीर्य त्रि-चतुर० |
+| कृत्वा पक्षौ वियति       | तामुद्भूत ध्वज-पट०     |
+| कोलाकारो मधुरिपु०        | तास्ताः पश्यञ्जनपद०    |
+| कौवेरीं तामुपसर          | तीरे तस्या जयति        |
+| क्रीडा-वाप्य स्फटिक ०    | तुङ्गैः शृङ्गैर्गगन०   |
+| क्रीडाकीर्णा कुसुमित०    | त्वदुदृश्या सा भवति    |
+| क्लाम्येत्तन्वी गगन०     | त्वय्यासन्ने भुवन०     |
+| क्षेत्रं यायाः कु-नृपति० | दग्धुं लोकान् किल      |
+| गच्छन् मध्ये नरपति०      | दूरे गारुत्मत०         |
+| गत्वा सीदत्परिजन०        | दूर्वा-बुद्ध्या मरकत०  |
+| गाढाश्लेषे तव किल        | दृश्यः पश्चात् कुसुम०  |
+| गीर्वाणानां विदधदनिशं    | दृश्येतान्त्ये नयन०    |
+| गुञ्जा-मिश्रैर्वन-करि०   | दृष्ट्वा नूनं ललित०    |
+| चक्र द्वन्देष्वपि वरतनु  | दोषामन्य दिनमुप०       |
+| चक्र द्वन्द्वे श्चटुल०   | नद्यां शैले नगर०       |
+| चित्रे कर्तुं व्यवहित०   | नाम्ना काञ्चीं तदनु    |
+| चिह्नै रेतैर्मनसि        | नालं चन्द्रो वदन०      |
+| जात्वन्योन्य-प्रणय०      | निर्धौतायां गिरिश०     |
+| ज्ञातव्या सा मम          | नीहारार्द्राःकुच०     |
+| तत्सानूनि स्फुट०         | नेदीयः स्यात्तव        |
 
 
 
 **Haṃsa-Dūta**
 
-।                               ।                         ।
-।-------------------------------।-------------------------।
-। पाण्डास्तस्यां वसति           । वासः साक्षान्मलय०       ।
-। पुण्यं रामायण०                । विद्युद्गौरी विमल०      ।
-। पुण्यैः प्राप्यं पुरमुप०      । विन्यस्यन्ती कद्व०      ।
-। पूर्वं वाचा कल०               । विश्वस्येन शिशिर०       ।
-। प्रातः प्राभाकर-कर०           । वीची-क्षोभ-व्यतिकर०     ।
-। बिन्दु द्वन्द्वं किमह         । वीथ्यां तत्र त्रि-चतुर० ।
-। मध्ये तस्याः करिवर०           । वेलामेलावन०             ।
-। मध्ये तस्या मणि-गण०           । बेलोपान्ते कमल०         ।
-। \[मन्ये (?) अन्वे\] तु त्वां । बैलक्षण्यं वपुषि        ।
-। यत्र स्त्रीणां वपुषि          । शङ्केतन्वी शशिमणि०     ।
-। यत्रोत्तुङ्गे निशि निशि       । शय्योत्थायं कथमपि       ।
-। यस्यां तत्तन्निधिo            । शृङ्गं सौमेरवमिति       ।
-। यस्यां मुग्धाः कर०            । शृङ्गाघाटैस्तपन०        ।
-। यस्यासन्न । I॥ शिरः         । शौनासीरं धनुरिव         ।
-। या निःश्रेणी भवति             । श्रुत्वा दीनं त्वदुप०   ।
-। या नीलाम्भोरुह०               । सङ्कल्पौधेर्मनसि        ।
-। या पद्मिन्याः पयसि            । साकूतोक्ति-स्फुरण०      ।
-। या लोकानां दुरित०             । सा मन्येत क्षणमिव       ।
-। रीधोवल्ली- विगलित०            । सीमा तत्तद्विटपि०       ।
-। लक्ष्मैतत्तेः सुतनु           । सेयं दीर्घा विरह०       ।
-। लेखामिन्दोरिव                 । सोऽहं यक्षो नियत०       ।
-। लोकातीत-प्रणय०                । सौवर्णीनामनुगृह०        ।
-। वक्षे मन्दानिल०               । स्वप्ने लब्बां कथमपि    ।
-। वामाक्षीणां वपुषि             ।                        ।
+|                               |                         |
+|-------------------------------|-------------------------|
+| पाण्डास्तस्यां वसति           | वासः साक्षान्मलय०       |
+| पुण्यं रामायण०                | विद्युद्गौरी विमल०      |
+| पुण्यैः प्राप्यं पुरमुप०      | विन्यस्यन्ती कद्व०      |
+| पूर्वं वाचा कल०               | विश्वस्येन शिशिर०       |
+| प्रातः प्राभाकर-कर०           | वीची-क्षोभ-व्यतिकर०     |
+| बिन्दु द्वन्द्वं किमह         | वीथ्यां तत्र त्रि-चतुर० |
+| मध्ये तस्याः करिवर०           | वेलामेलावन०             |
+| मध्ये तस्या मणि-गण०           | बेलोपान्ते कमल०         |
+| \[मन्ये (?) अन्वे\] तु त्वां | बैलक्षण्यं वपुषि        |
+| यत्र स्त्रीणां वपुषि          | शङ्केतन्वी शशिमणि०     |
+| यत्रोत्तुङ्गे निशि निशि       | शय्योत्थायं कथमपि       |
+| यस्यां तत्तन्निधिo            | शृङ्गं सौमेरवमिति       |
+| यस्यां मुग्धाः कर०            | शृङ्गाघाटैस्तपन०        |
+| यस्यासन्न | I॥ शिरः         | शौनासीरं धनुरिव         |
+| या निःश्रेणी भवति             | श्रुत्वा दीनं त्वदुप०   |
+| या नीलाम्भोरुह०               | सङ्कल्पौधेर्मनसि        |
+| या पद्मिन्याः पयसि            | साकूतोक्ति-स्फुरण०      |
+| या लोकानां दुरित०             | सा मन्येत क्षणमिव       |
+| रीधोवल्ली- विगलित०            | सीमा तत्तद्विटपि०       |
+| लक्ष्मैतत्तेः सुतनु           | सेयं दीर्घा विरह०       |
+| लेखामिन्दोरिव                 | सोऽहं यक्षो नियत०       |
+| लोकातीत-प्रणय०                | सौवर्णीनामनुगृह०        |
+| वक्षे मन्दानिल०               | स्वप्ने लब्बां कथमपि    |
+| वामाक्षीणां वपुषि             |                        |
 
 
 
-।                 ।                ।
-|:---------------:|:--------------:।
-। **CORRECTIONS** ।                ।
-।     **For**     ।    **Read**    ।
-।    उजिहीथाः     । उज्जिहीथा\[:\] ।
-।     मम्बुध      ।    मम्बुधे     ।
-।     पक्षाम      ।    पक्षाम्     ।
-।      इत्यो      ।     इत्यौ      ।
-।     पिबेयः      ।    पिबेयुः     ।
-।  श्यामा तुङ्ग   ।  श्यामा-तुङ्ग  ।
-।     शेमुषी      ।     शेमुषी     ।
+|                 |                |
+|:---------------:|:--------------:|
+| **CORRECTIONS** |                |
+|     **For**     |    **Read**    |
+|    उजिहीथाः     | उज्जिहीथा\[:\] |
+|     मम्बुध      |    मम्बुधे     |
+|     पक्षाम      |    पक्षाम्     |
+|      इत्यो      |     इत्यौ      |
+|     पिबेयः      |    पिबेयुः     |
+|  श्यामा तुङ्ग   |  श्यामा-तुङ्ग  |
+|     शेमुषी      |     शेमुषी     |
 
 
 

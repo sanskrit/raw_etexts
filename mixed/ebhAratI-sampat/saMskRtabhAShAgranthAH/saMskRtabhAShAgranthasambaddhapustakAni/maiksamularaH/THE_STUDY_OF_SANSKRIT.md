@@ -68,42 +68,42 @@ THE BULL, AND THE TWO JACKALS.
 WAR, ILLUSTRATED BY THE STORY OF THE WAR BETWEEN  
 THE GEESE AND THE PEACOCKS.
 
-।                             ।
-।-----------------------------।
-। THE BIRDS AND THE MONKEYS   ।
-। THE ASS IN A TIGER’S SKIN   ।
-। THE HARES AND THE ELEPHANTS ।
-। THE GOOSE AND THE CROW      ।
-। THE QUAIL AND THE CROW      ।
+|                             |
+|-----------------------------|
+| THE BIRDS AND THE MONKEYS   |
+| THE ASS IN A TIGER’S SKIN   |
+| THE HARES AND THE ELEPHANTS |
+| THE GOOSE AND THE CROW      |
+| THE QUAIL AND THE CROW      |
 
 
 
-।                                                         ।
-।---------------------------------------------------------।
-। THE WHEELWRIGHT, HIS WIFE, AND HER Lover                ।
-। DEATH OF THE BLUE JACKAL                                ।
-। How VîRAVARA SACRIFICED HIS OWN SON TO SAVE HISMASTER. ।
-। DEATH OF THE BARBER WHO KILLED A BEGGAR                 ।
+|                                                         |
+|---------------------------------------------------------|
+| THE WHEELWRIGHT, HIS WIFE, AND HER Lover                |
+| DEATH OF THE BLUE JACKAL                                |
+| How VîRAVARA SACRIFICED HIS OWN SON TO SAVE HISMASTER. |
+| DEATH OF THE BARBER WHO KILLED A BEGGAR                 |
 
 **BOOK IV.**
 
 PEACE, ILLUSTRATED BY THE STORY OF THE RECONCILIATION OF  
 THE GEESE AND THE PEACOCKS.
 
-।                                                           ।
-।-----------------------------------------------------------।
-। THE TORTOISE AND THE TWO GEESE                            ।
-। THE THREE FISHES                                          ।
-। THE MERCHANT’S WIFE AND HER LOVER                         ।
-। THE CRANES, THE SERPENT, AND THE ICHNEUMON                ।
-। THE SAINT AND THE MOUSE.                                  ।
-। DEATH OF A GLUTTONOUS CRANE                               ।
-। THE BRÂHMAN IN THE POTTER’S SHED                          ।
-। THE STORY OF THE TWO GIANTS SUNDA AND UPASUNDA            ।
-। THE BRÂHMAN WITH THE GOAT, AND THE THREE ROGUES           ।
-। THE LION, THE CROW, THE TIGER, THE JACKAL, AND THE CAMEL. ।
-। THE SERPENT AND THE FROGS                                 ।
-। THE BRÂHMAN AND THE ICHNEUMON                             ।
+|                                                           |
+|-----------------------------------------------------------|
+| THE TORTOISE AND THE TWO GEESE                            |
+| THE THREE FISHES                                          |
+| THE MERCHANT’S WIFE AND HER LOVER                         |
+| THE CRANES, THE SERPENT, AND THE ICHNEUMON                |
+| THE SAINT AND THE MOUSE.                                  |
+| DEATH OF A GLUTTONOUS CRANE                               |
+| THE BRÂHMAN IN THE POTTER’S SHED                          |
+| THE STORY OF THE TWO GIANTS SUNDA AND UPASUNDA            |
+| THE BRÂHMAN WITH THE GOAT, AND THE THREE ROGUES           |
+| THE LION, THE CROW, THE TIGER, THE JACKAL, AND THE CAMEL. |
+| THE SERPENT AND THE FROGS                                 |
+| THE BRÂHMAN AND THE ICHNEUMON                             |
 
 
 

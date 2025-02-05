@@ -551,80 +551,80 @@ Chinese or perhaps even greater, but certainly in no case less.
 
 
 
-।                                    ।                                                         ।
-।------------------------------------।---------------------------------------------------------।
-। २८९ भृज् or भ्रज्ज् to fry         । भर्जन fryingभ्राष्ट् oven (Hindi भाड़)                  ।
-। २९० भ्रंश् to fall                 । भ्रष्ट fallen                                           ।
-। २९१ भ्रम् to roam                  । भ्रमर 'roamer', bec                                     ।
-। २९२ भ्राज् to shine                । भ्राजमान shining                                        ।
-। २९३ मज्ज् or मरज्to sink, to dive । मग्न absorbed (as in ध्यान-मग्न)                        ।
-। २९४ मण्ड् to adorn                 । मण्डन adornment                                         ।
-। २९५ मथ् or मन्थ्to churn          । मन्थन churning (in समुद्र मन्थन)                        ।
-। २९६ मद् to rejoice                 । मदन cupid                                               ।
-। २९७ मन् to think                   । मनः mind                                                ।
-। २९८ मन्त्र to take counsel         । मन्त्री counsellor                                      ।
-। २९९ मन्द्to tarry                 । मन्द slow                                               ।
-। ३०० मह्to magnify, to honour      । महान् great                                             ।
-। ३०१ मा to measure                  । मान measurement                                         ।
-। ३०२ मार्ग to seek                  । मार्ग way                                               ।
-। ३०३ मिथ् to couple                 । मिथुन couple                                            ।
-। ३०४ मिल् to meet                   । मिलन meeting सं-मेलन conference                         ।
-। ३०५ मिश्र to mix                   । मिश्रण mixing                                           ।
-। ३०६ मिष् to open eyes              । नि-मेष twinkling                                        ।
-। ३०७ मिह्to pass urine             । मधु-मेह 'sweet urine', i.e. diabetes                    ।
-। ३०८ मील् to close eyes             । नि-मीलन closing eyes                                    ।
-। ३०९ मुच् liberate                  । मुक्ति liberation                                       ।
-। ३१० मुण्ड् shave                   । मुण्डन shaving                                          ।
-। ३११ मुद् to be merry               । आ-मोद merriment                                         ।
-। ३१२ मुर्छ्or मूर्छ् to faint      । मूर्छा fainting                                         ।
-। ३१३ मुष्, मूष्to steal, to rob    । मूषक mouse ('stealer‛)                                  ।
-। ३१४ मुह्to become confused        । मोह delusion                                            ।
-। ३१५ मूल् to be firm                । मूल root                                                ।
-। ३१६ मृ to die                      । मृत्यु death                                            ।
-। ३१७ मृग् to chase                  । मृग deer                                                ।
-। ३१८ मृज् to clean                  । मार्जन cleaning (Hindi मांजना)                          ।
-। ३१९ मृद् to crush, to rub          । मर्दन rubbing मृदु soft                                 ।
-। ३२० मृश् to touch, to consider     । परा-मर्श consultation (in Hindi)                        ।
-। ३२१ मृष्to suffer                 । मृषा untruth                                            ।
-। ३२२ मेto exchange                 । विनि-मयexchange                                        ।
-। ३२३ मोक्ष to emancipate            । मोक्ष emancipation                                      ।
-। ३२४ म्रक्ष्to annoint             । म्रक्षण (Hindi मक्खन)                                   ।
-। ३२५ म्लेच्छ्to mispronounce      । म्लेच्छ barbarian                                       ।
-। ३२६ म्लैto wither                 । म्लान withered                                          ।
-। ३२७ यज् to adore, to offer         । यज्ञ offering                                           ।
-। ३२८ यत् to endeavour               । यत्न endeavour                                          ।
-। ३२९ यम् to restrain                । यम death नि-यमन restraining                             ।
-। ३३० यस् to exert                   । प्र-यास exertion, endeavour                             ।
-। ३३१ या to go                       । यान conveyance                                          ।
-। ३३२ याच् to entreat                । याचन entreatining                                       ।
-। ३३३ यु to join                     । युत joined ( श्री-युत ‘joined with glory', illustrious) ।
-। ३३४ युज् to unite                  । योग union                                               ।
-। ३३५ युध् to fight                  । युद्ध battle                                            ।
-। ३३६ रक्ष्to protect               । रक्षा protection                                        ।
-। ३३७ रच् to form                    । रचना formation                                          ।
-। ३३८ रञ्ज् to dye                   । रंग colour, राग love, वै-राग्य absence of love          ।
-। ३३९ रट् to shout                   । रटन shouting (Hindi रटना)                               ।
-। ३४० रद् to gnaw                    । रदन tooth                                               ।
-। ३४१ रभ्or रम्भ्with आ, to begin  । आ-रम्भ beginning                                        ।
-। ३४२ रम् to delight in              । राम 'lovely' रमण delighting                             ।
-। ३४३ रस् to taste, to relish        । रस juice                                                ।
-। ३४४ राज् to reign                  । राजा king                                               ।
-। ३४५ राध्to succeed                । राधा success आ-राधन propitiating                        ।
-। ३४६ रिंग to creep, to crawl        । रिङ्गण creeping (Hindi रींगना)                          ।
-। ३४७ रिच् to empty                  । रिक्त empty                                             ।
-। ३४८ रिष् to injure                 । रिष्टिinjury                                           ।
-। ३४९ रु to sound, to cry            । रुति cry                                                ।
-। ३५० रुच् to be radiant             । रुचि interest रुक्म gold, 'shining'                     ।
-। ३५१ रुज् to be sick                । रोग sickness                                            ।
-। ३५२ रुद् to weep                   । रुदन weeping                                            ।
-। ३५३ रुध्to hold up                । रुद्ध held up                                           ।
-। ३५४ रुष् to be angry               । रोष anger                                               ।
-। ३५५ रुह्to climb                  । आ-रोहण climbing                                         ।
-। ३५६ रूक्ष्to be rough             । रूक्ष rough                                             ।
-। ३५७ रूप् to form                   । रूप form                                                ।
-। ३५८ लक्ष् to mark                  । लक्षण mark                                              ।
-। ३५९ लग् to adhere                  । लग्न adhered, attached (Hindi लगना)                     ।
-। ३६० लंघ्to cross                  । लङ्घन crossing, a fast                                  ।
+|                                    |                                                         |
+|------------------------------------|---------------------------------------------------------|
+| २८९ भृज् or भ्रज्ज् to fry         | भर्जन fryingभ्राष्ट् oven (Hindi भाड़)                  |
+| २९० भ्रंश् to fall                 | भ्रष्ट fallen                                           |
+| २९१ भ्रम् to roam                  | भ्रमर 'roamer', bec                                     |
+| २९२ भ्राज् to shine                | भ्राजमान shining                                        |
+| २९३ मज्ज् or मरज्to sink, to dive | मग्न absorbed (as in ध्यान-मग्न)                        |
+| २९४ मण्ड् to adorn                 | मण्डन adornment                                         |
+| २९५ मथ् or मन्थ्to churn          | मन्थन churning (in समुद्र मन्थन)                        |
+| २९६ मद् to rejoice                 | मदन cupid                                               |
+| २९७ मन् to think                   | मनः mind                                                |
+| २९८ मन्त्र to take counsel         | मन्त्री counsellor                                      |
+| २९९ मन्द्to tarry                 | मन्द slow                                               |
+| ३०० मह्to magnify, to honour      | महान् great                                             |
+| ३०१ मा to measure                  | मान measurement                                         |
+| ३०२ मार्ग to seek                  | मार्ग way                                               |
+| ३०३ मिथ् to couple                 | मिथुन couple                                            |
+| ३०४ मिल् to meet                   | मिलन meeting सं-मेलन conference                         |
+| ३०५ मिश्र to mix                   | मिश्रण mixing                                           |
+| ३०६ मिष् to open eyes              | नि-मेष twinkling                                        |
+| ३०७ मिह्to pass urine             | मधु-मेह 'sweet urine', i.e. diabetes                    |
+| ३०८ मील् to close eyes             | नि-मीलन closing eyes                                    |
+| ३०९ मुच् liberate                  | मुक्ति liberation                                       |
+| ३१० मुण्ड् shave                   | मुण्डन shaving                                          |
+| ३११ मुद् to be merry               | आ-मोद merriment                                         |
+| ३१२ मुर्छ्or मूर्छ् to faint      | मूर्छा fainting                                         |
+| ३१३ मुष्, मूष्to steal, to rob    | मूषक mouse ('stealer‛)                                  |
+| ३१४ मुह्to become confused        | मोह delusion                                            |
+| ३१५ मूल् to be firm                | मूल root                                                |
+| ३१६ मृ to die                      | मृत्यु death                                            |
+| ३१७ मृग् to chase                  | मृग deer                                                |
+| ३१८ मृज् to clean                  | मार्जन cleaning (Hindi मांजना)                          |
+| ३१९ मृद् to crush, to rub          | मर्दन rubbing मृदु soft                                 |
+| ३२० मृश् to touch, to consider     | परा-मर्श consultation (in Hindi)                        |
+| ३२१ मृष्to suffer                 | मृषा untruth                                            |
+| ३२२ मेto exchange                 | विनि-मयexchange                                        |
+| ३२३ मोक्ष to emancipate            | मोक्ष emancipation                                      |
+| ३२४ म्रक्ष्to annoint             | म्रक्षण (Hindi मक्खन)                                   |
+| ३२५ म्लेच्छ्to mispronounce      | म्लेच्छ barbarian                                       |
+| ३२६ म्लैto wither                 | म्लान withered                                          |
+| ३२७ यज् to adore, to offer         | यज्ञ offering                                           |
+| ३२८ यत् to endeavour               | यत्न endeavour                                          |
+| ३२९ यम् to restrain                | यम death नि-यमन restraining                             |
+| ३३० यस् to exert                   | प्र-यास exertion, endeavour                             |
+| ३३१ या to go                       | यान conveyance                                          |
+| ३३२ याच् to entreat                | याचन entreatining                                       |
+| ३३३ यु to join                     | युत joined ( श्री-युत ‘joined with glory', illustrious) |
+| ३३४ युज् to unite                  | योग union                                               |
+| ३३५ युध् to fight                  | युद्ध battle                                            |
+| ३३६ रक्ष्to protect               | रक्षा protection                                        |
+| ३३७ रच् to form                    | रचना formation                                          |
+| ३३८ रञ्ज् to dye                   | रंग colour, राग love, वै-राग्य absence of love          |
+| ३३९ रट् to shout                   | रटन shouting (Hindi रटना)                               |
+| ३४० रद् to gnaw                    | रदन tooth                                               |
+| ३४१ रभ्or रम्भ्with आ, to begin  | आ-रम्भ beginning                                        |
+| ३४२ रम् to delight in              | राम 'lovely' रमण delighting                             |
+| ३४३ रस् to taste, to relish        | रस juice                                                |
+| ३४४ राज् to reign                  | राजा king                                               |
+| ३४५ राध्to succeed                | राधा success आ-राधन propitiating                        |
+| ३४६ रिंग to creep, to crawl        | रिङ्गण creeping (Hindi रींगना)                          |
+| ३४७ रिच् to empty                  | रिक्त empty                                             |
+| ३४८ रिष् to injure                 | रिष्टिinjury                                           |
+| ३४९ रु to sound, to cry            | रुति cry                                                |
+| ३५० रुच् to be radiant             | रुचि interest रुक्म gold, 'shining'                     |
+| ३५१ रुज् to be sick                | रोग sickness                                            |
+| ३५२ रुद् to weep                   | रुदन weeping                                            |
+| ३५३ रुध्to hold up                | रुद्ध held up                                           |
+| ३५४ रुष् to be angry               | रोष anger                                               |
+| ३५५ रुह्to climb                  | आ-रोहण climbing                                         |
+| ३५६ रूक्ष्to be rough             | रूक्ष rough                                             |
+| ३५७ रूप् to form                   | रूप form                                                |
+| ३५८ लक्ष् to mark                  | लक्षण mark                                              |
+| ३५९ लग् to adhere                  | लग्न adhered, attached (Hindi लगना)                     |
+| ३६० लंघ्to cross                  | लङ्घन crossing, a fast                                  |
 
 
 
@@ -636,37 +636,37 @@ Chinese or perhaps even greater, but certainly in no case less.
 
 
 
-।                                        ।                                                                             ।
-।----------------------------------------।-----------------------------------------------------------------------------।
-। ४९२ स्फुट् to burst open (Hindi फूटना) । स्फुट open, clear उत्-स्फोटन explosion                                      ।
-। ४९३ स्फुर् to palpitate                । स्फुरण palpitation                                                          ।
-। ४९४ स्मि to smile                      । स्मयन, स्मित smiling                                                        ।
-। ४९५ स्मृ to remember                   । स्मृति memory                                                               ।
-। ४९६ स्यन्द् to flow, to run           । स्यन्दन chariot                                                             ।
-। ४९७ स्रंस् to slip off                 । स्रंसन slipping off                                                         ।
-। ४९८ स्रु to flow                       । स्राव flow स्रोतः stream                                                    ।
-। ४९९ स्वज् to embrace                   । परि-ष्वजन embracing                                                         ।
-। ५०० स्वद् to taste                     । स्वाद taste                                                                 ।
-। ५०१ स्वन् to sound                     । स्वन sound                                                                  ।
-। ५०२ स्वप् to sleep                     । स्वप्न dream                                                                ।
-। ५०३ स्विद् to sweat                    । प्र-स्वेदन perspiring (Hindi पसीना, पसीजना from प्रस्विन्न, प्रस्त्रिद्यति) ।
-। ५०४ हन् to kill                        । हनन, हत्या killing                                                          ।
-। ५०५ हल् to plough                      । हल plough                                                                   ।
-। ५०६ हस् to laugh                       । हसन laughing (Hindi हंसना )                                                 ।
-। ५०७ हा to abandon                      । हानि loss                                                                   ।
-। ५०८ हि to send forth                   । प्र-हित sent                                                                ।
-। ५०९ हिंस् to injure                    । हिंसा injury                                                                ।
-। ५१० हिक्क्to hiccough                 । हिक्का hiccough                                                             ।
-। ५११ हिण्ड् to roam about              । आ-हिण्डन roaming about                                                      ।
-। ५१२ हु to offer                        । आहुति offering होम sacrifice                                                ।
-। ५१३ हृ to carry off                    । हरण carrying off                                                            ।
-। ५१४ हृष् to rejoice                    । हर्ष rejoicing                                                              ।
-। ५१५ हेल् with अव, todisregard         । अव-हेलन disregarding                                                        ।
-। ५१६ ह्रुto conceal                    । ह्रुति concealment                                                          ।
-। ५१७ ह्रस् to diminish                  । ह्रास diminution ह्रस्व small                                               ।
-। ५१८ ह्रीto blush                      । ह्री modesty                                                                ।
-। ५१९ ह्राद् to be happy                 । आ-ह्राद delight                                                             ।
-। ४२० ह्वे to call, to challenge         । आ-ह्वान challenge.                                                          ।
+|                                        |                                                                             |
+|----------------------------------------|-----------------------------------------------------------------------------|
+| ४९२ स्फुट् to burst open (Hindi फूटना) | स्फुट open, clear उत्-स्फोटन explosion                                      |
+| ४९३ स्फुर् to palpitate                | स्फुरण palpitation                                                          |
+| ४९४ स्मि to smile                      | स्मयन, स्मित smiling                                                        |
+| ४९५ स्मृ to remember                   | स्मृति memory                                                               |
+| ४९६ स्यन्द् to flow, to run           | स्यन्दन chariot                                                             |
+| ४९७ स्रंस् to slip off                 | स्रंसन slipping off                                                         |
+| ४९८ स्रु to flow                       | स्राव flow स्रोतः stream                                                    |
+| ४९९ स्वज् to embrace                   | परि-ष्वजन embracing                                                         |
+| ५०० स्वद् to taste                     | स्वाद taste                                                                 |
+| ५०१ स्वन् to sound                     | स्वन sound                                                                  |
+| ५०२ स्वप् to sleep                     | स्वप्न dream                                                                |
+| ५०३ स्विद् to sweat                    | प्र-स्वेदन perspiring (Hindi पसीना, पसीजना from प्रस्विन्न, प्रस्त्रिद्यति) |
+| ५०४ हन् to kill                        | हनन, हत्या killing                                                          |
+| ५०५ हल् to plough                      | हल plough                                                                   |
+| ५०६ हस् to laugh                       | हसन laughing (Hindi हंसना )                                                 |
+| ५०७ हा to abandon                      | हानि loss                                                                   |
+| ५०८ हि to send forth                   | प्र-हित sent                                                                |
+| ५०९ हिंस् to injure                    | हिंसा injury                                                                |
+| ५१० हिक्क्to hiccough                 | हिक्का hiccough                                                             |
+| ५११ हिण्ड् to roam about              | आ-हिण्डन roaming about                                                      |
+| ५१२ हु to offer                        | आहुति offering होम sacrifice                                                |
+| ५१३ हृ to carry off                    | हरण carrying off                                                            |
+| ५१४ हृष् to rejoice                    | हर्ष rejoicing                                                              |
+| ५१५ हेल् with अव, todisregard         | अव-हेलन disregarding                                                        |
+| ५१६ ह्रुto conceal                    | ह्रुति concealment                                                          |
+| ५१७ ह्रस् to diminish                  | ह्रास diminution ह्रस्व small                                               |
+| ५१८ ह्रीto blush                      | ह्री modesty                                                                |
+| ५१९ ह्राद् to be happy                 | आ-ह्राद delight                                                             |
+| ४२० ह्वे to call, to challenge         | आ-ह्वान challenge.                                                          |
 
 The above is a list of primary roots. From them are derived passives, causatives, desideratives and intensives.
 
@@ -685,129 +685,129 @@ Intensives are rare. Here also the root is reduplicated. दंश् to bite' h
 
  The form cited is usually third person, singular number, present tense. The forms used in Hindi would be those that end in Kṛt suffixesThose are easily derivable, e.g. अंकुरण sprouting अंकुरित sprouted.
 
-।                  ।                                            ।
-।------------------।--------------------------------------------।
-। अंकुर sprout     । अंकुरति sprouts,अंकुरयति causes to spront ।
-। अतिचिर long time । अतिचिरयति lingers (Divya vadāna)           ।
-। अदस् that        । अदस्यति becomes that                       ।
-। अधर् inferior   । अधरयति makes inferior, excels-             ।
+|                  |                                            |
+|------------------|--------------------------------------------|
+| अंकुर sprout     | अंकुरति sprouts,अंकुरयति causes to spront |
+| अतिचिर long time | अतिचिरयति lingers (Divya vadāna)           |
+| अदस् that        | अदस्यति becomes that                       |
+| अधर् inferior   | अधरयति makes inferior, excels-             |
 
 
 
-।                                         ।                                                                                                    ।
-।-----------------------------------------।----------------------------------------------------------------------------------------------------।
-। अन्त end                                । अन्तयति ends                                                                                       ।
-। अपरोक्ष visible                         । अपरोक्षयति makes visible                                                                           ।
-। अपार्थ useless                          । अपाथर्यति renders useless                                                                          ।
-। अपूप cake                               । अपूपीयति desires for cakes (Katyāyana-Śrauta)                                                      ।
-। अभिज्ञ wise                             । अभिज्ञति becomes wise                                                                              ।
-। अभिमुख face to face                     । अभिमुखयति faces (Kirātär-juniya)                                                                   ।
-। अभ्र cloud                              । अभ्रायते creates clouds (Pānini 3.1.17)                                                            ।
-। भमल clean                               । अमलयति makes spotless clean                                                                        ।
-। अमित्र enemy                            । अमित्रायते becomes hostile                                                                         ।
-। अरहस् not secret                        । अरहायते becomes public (Panini 3.1.12 Comm.)                                                       ।
-। अर्थकाम desire for money               । अर्थकाम्यति desires for money                                                                      ।
-। अर्ध half                               । अर्धयति halves (Lilāvati)                                                                          ।
-। अलस laxy                                । अलसयति slackens, relaxes                                                                           ।
-। अल्प small                              । अल्पयति lessens, diminishes                                                                        ।
-। अशन eating                              । अशानयति is hungry,अशनीयति is greedy for food (without being hungry-Pāṇini 7.4.34 Comm.)           ।
-। अश्नीतपिबता invitation to eat and drink । अश्नीतपिबतीयति invites toeat and drink                                                            ।
-। आपीत yellowish                          । आपीतयति makes yellowish                                                                            ।
-। आर्द्र moist                            । आविलयति moistens, softens or moves (the heart)                                                     ।
-। आविल turbid                             । आविलयति makes turbid                                                                               ।
-। आह्वान summons                          । आह्वानयति summons                                                                                  ।
-। उत्तर answer                            । उत्तरयति answers                                                                                   ।
-। उदन्water                              । उदन्यति irrigates (Rgveda), is very thirsty (Panini 7.4.34)                                        ।
-। उषस् dawn                               । उषस्यति dawns                                                                                      ।
-। उष्ण hot                                । उष्णयति heats                                                                                      ।
-। ऊन less                                 । ऊनयति lessens                                                                                      ।
-। ऋजु straight, honest                    । ऋजूयति is straight or honest                                                                       ।
-। कक्ष grass                              । कक्षायते lies in ambush (Katyāyana on Panini 3,1,34)                                               ।
-। कठिन hard                               । कठिनयति hardens                                                                                    ।
-। कण blind by one eye                     । काणयति blinds by one eye                                                                           ।
-। कील peg                                 । उत्कीलयति uproots                                                                                  ।
-। कुल्या canal                            । कुल्यायते becomes or serves as a canal                                                             ।
-। कूप well                                । कूपायते becomes or serves as a well                                                                ।
-। कूल bank                                । उत्कूलयति causes to overflow the bank                                                              ।
-। कोश scabbard                            । उत्कोशयति draws out of the scabbard                                                                ।
-। क्षीर milk                              । क्षीरायति is changed into milk,क्षीरीयति longs for milk (Pānini 7.1.51 Comm.)                     ।
-। घन dense                                । घनायते becomes dense                                                                               ।
-। चतुर् four                              । चतुर्यति wishesforfour (Panini 7.2.78 Comm.)                                                     ।
-। चरम last                                । चरम्यति is the last                                                                                ।
-। छिद्र hole                              । छिद्रयति bores, perforates                                                                         ।
-। जड stiff                                । जडायते stiffens                                                                                    ।
-। तरंग wave                               । उत्तरंगते surges high                                                                              ।
-। तरुण young                              । तरुणयति makes young or fresh                                                                       ।
-। तिमिर darkness                          । तिमिरयति obscures                                                                                  ।
-। तूल cotton or brush                     । अनुतूलयति rubs lengthwise with a brush                                                             ।
-। दीर्घ long                              । दीर्घयति lengthens, procrastinates                                                                 ।
-। धीर                                     । धीरयति encourages, comforts                                                                        ।
-। धूम smoke                               । आधूमयति envelopes in smoke                                                                         ।
-। नायक leader                             । नायकायते plays the leader                                                                          ।
-। निम्न low                               । निम्नयति humbles                                                                                   ।
-। न्यून less                              । न्यूनयति lessens                                                                                   ।
-। पति master                              । पतीयति becomes a master                                                                            ।
-। पर्याण, पल्याण saddle                   । पर्याणयति, पल्याणयति saddles                                                                       ।
-। पिशुन betrayer                          । पिशुनयति betrays                                                                                   ।
-। पुच्छ tail                              । उत्पुच्छयति raises the tail (Panini 6,2,196 Comm.) परिपुच्छयते wags the tail (Pāṇini 3.1,20 Comm.) ।
-। पुराण old                               । पुराण्यति relates past events                                                                      ।
-। प्रतीप                                  । प्रतीपायते becomes hostile                                                                         ।
-। प्रपञ्च detail                          । प्रपञ्चयति amplifies, details                                                                      ।
-। प्रबल strong                            । प्रबलति becomes strong प्रवलयति strengthens                                                        ।
-। प्रश्न question                         । प्रश्नयति interrogates                                                                             ।
-। प्रासाद palace                          । प्रासादीयति imagines oneself to be in a palace (Panini 3.1.10 Comm.)                               ।
-। प्रोत woven, inlaid                     । प्रोतयति inserts, inlays (Katyayana-Śrauta Comm.)                                                  ।
+|                                         |                                                                                                    |
+|-----------------------------------------|----------------------------------------------------------------------------------------------------|
+| अन्त end                                | अन्तयति ends                                                                                       |
+| अपरोक्ष visible                         | अपरोक्षयति makes visible                                                                           |
+| अपार्थ useless                          | अपाथर्यति renders useless                                                                          |
+| अपूप cake                               | अपूपीयति desires for cakes (Katyāyana-Śrauta)                                                      |
+| अभिज्ञ wise                             | अभिज्ञति becomes wise                                                                              |
+| अभिमुख face to face                     | अभिमुखयति faces (Kirātär-juniya)                                                                   |
+| अभ्र cloud                              | अभ्रायते creates clouds (Pānini 3.1.17)                                                            |
+| भमल clean                               | अमलयति makes spotless clean                                                                        |
+| अमित्र enemy                            | अमित्रायते becomes hostile                                                                         |
+| अरहस् not secret                        | अरहायते becomes public (Panini 3.1.12 Comm.)                                                       |
+| अर्थकाम desire for money               | अर्थकाम्यति desires for money                                                                      |
+| अर्ध half                               | अर्धयति halves (Lilāvati)                                                                          |
+| अलस laxy                                | अलसयति slackens, relaxes                                                                           |
+| अल्प small                              | अल्पयति lessens, diminishes                                                                        |
+| अशन eating                              | अशानयति is hungry,अशनीयति is greedy for food (without being hungry-Pāṇini 7.4.34 Comm.)           |
+| अश्नीतपिबता invitation to eat and drink | अश्नीतपिबतीयति invites toeat and drink                                                            |
+| आपीत yellowish                          | आपीतयति makes yellowish                                                                            |
+| आर्द्र moist                            | आविलयति moistens, softens or moves (the heart)                                                     |
+| आविल turbid                             | आविलयति makes turbid                                                                               |
+| आह्वान summons                          | आह्वानयति summons                                                                                  |
+| उत्तर answer                            | उत्तरयति answers                                                                                   |
+| उदन्water                              | उदन्यति irrigates (Rgveda), is very thirsty (Panini 7.4.34)                                        |
+| उषस् dawn                               | उषस्यति dawns                                                                                      |
+| उष्ण hot                                | उष्णयति heats                                                                                      |
+| ऊन less                                 | ऊनयति lessens                                                                                      |
+| ऋजु straight, honest                    | ऋजूयति is straight or honest                                                                       |
+| कक्ष grass                              | कक्षायते lies in ambush (Katyāyana on Panini 3,1,34)                                               |
+| कठिन hard                               | कठिनयति hardens                                                                                    |
+| कण blind by one eye                     | काणयति blinds by one eye                                                                           |
+| कील peg                                 | उत्कीलयति uproots                                                                                  |
+| कुल्या canal                            | कुल्यायते becomes or serves as a canal                                                             |
+| कूप well                                | कूपायते becomes or serves as a well                                                                |
+| कूल bank                                | उत्कूलयति causes to overflow the bank                                                              |
+| कोश scabbard                            | उत्कोशयति draws out of the scabbard                                                                |
+| क्षीर milk                              | क्षीरायति is changed into milk,क्षीरीयति longs for milk (Pānini 7.1.51 Comm.)                     |
+| घन dense                                | घनायते becomes dense                                                                               |
+| चतुर् four                              | चतुर्यति wishesforfour (Panini 7.2.78 Comm.)                                                     |
+| चरम last                                | चरम्यति is the last                                                                                |
+| छिद्र hole                              | छिद्रयति bores, perforates                                                                         |
+| जड stiff                                | जडायते stiffens                                                                                    |
+| तरंग wave                               | उत्तरंगते surges high                                                                              |
+| तरुण young                              | तरुणयति makes young or fresh                                                                       |
+| तिमिर darkness                          | तिमिरयति obscures                                                                                  |
+| तूल cotton or brush                     | अनुतूलयति rubs lengthwise with a brush                                                             |
+| दीर्घ long                              | दीर्घयति lengthens, procrastinates                                                                 |
+| धीर                                     | धीरयति encourages, comforts                                                                        |
+| धूम smoke                               | आधूमयति envelopes in smoke                                                                         |
+| नायक leader                             | नायकायते plays the leader                                                                          |
+| निम्न low                               | निम्नयति humbles                                                                                   |
+| न्यून less                              | न्यूनयति lessens                                                                                   |
+| पति master                              | पतीयति becomes a master                                                                            |
+| पर्याण, पल्याण saddle                   | पर्याणयति, पल्याणयति saddles                                                                       |
+| पिशुन betrayer                          | पिशुनयति betrays                                                                                   |
+| पुच्छ tail                              | उत्पुच्छयति raises the tail (Panini 6,2,196 Comm.) परिपुच्छयते wags the tail (Pāṇini 3.1,20 Comm.) |
+| पुराण old                               | पुराण्यति relates past events                                                                      |
+| प्रतीप                                  | प्रतीपायते becomes hostile                                                                         |
+| प्रपञ्च detail                          | प्रपञ्चयति amplifies, details                                                                      |
+| प्रबल strong                            | प्रबलति becomes strong प्रवलयति strengthens                                                        |
+| प्रश्न question                         | प्रश्नयति interrogates                                                                             |
+| प्रासाद palace                          | प्रासादीयति imagines oneself to be in a palace (Panini 3.1.10 Comm.)                               |
+| प्रोत woven, inlaid                     | प्रोतयति inserts, inlays (Katyayana-Śrauta Comm.)                                                  |
 
 
 
-।                                ।                                                                                                                    ।
-।--------------------------------।--------------------------------------------------------------------------------------------------------------------।
-। बधिर deaf                      । बधिरयति deafens                                                                                                    ।
-। बल strength                    । उपोद्बलयति ratifies                                                                                                ।
-। भार load                       । भारायते becomes a load                                                                                             ।
-। मण्डल circle                   । मण्डलयति circles round (Hindi मण्डलाना)                                                                            ।
-। मन्दmild                      । मन्दयति weakens, allays                                                                                            ।
-। मलिन dirty                     । मलिनयति soils, defiles                                                                                             ।
-। मसूण smooth                    । मसृणयति smoothens                                                                                                  ।
-। मित्र friend                   । मित्रति acts in a friendly way                                                                                     ।
-। राजन् king                     । अतिराजयति surpasses a king (Pāṇini 7.4.2 Comm.)                                                                    ।
-। रुजा sickness                  । रुजायते becomes sick                                                                                               ।
-। लघु light                      । लघयति lightens, mitigates, alleviates लघूयति despises                                                              ।
-। लवण salt                       । लवणयति seasons with salt लवणस्यति longs for salt                                                                   ।
-। लाला saliva                    । लालायते slobbers                                                                                                   ।
-। लीन dissolved                  । लीनयतिdissolves (Pāṇini 7.3,39 Comm.)                                                                             ।
-। वन्ध्या barren                 । वन्ध्यायते becomes barren                                                                                          ।
-। वर्ग square                    । वर्गयति raises to a square (Lilāvati)                                                                              ।
-। वर्मन् coat of mail            । वर्मयति provides with a coat of mail                                                                               ।
-। वात wind                       । वातयति ventilates                                                                                                  ।
-। विद्युत् lightning             । विद्युतयते flashes                                                                                                 ।
-। विपक्ष enemy                   । विपक्षयति makes enemies                                                                                            ।
-। विपक्ष large, great            । विपुलयति enlarges                                                                                                  ।
-। विमुख averse                  । विमुखयति makes averse                                                                                              ।
-। विरल rare                      । विरलायते becomes rare                                                                                              ।
-। विशाल large, great, vast,wide । विशालयति enlarges, magnifies,प्रतिशालयति widens                                                                   ।
-। विषम uneven                    । विषमायते becomes uneven                                                                                            ।
-। वैर hostility                  । वैरायते starts hostilities                                                                                         ।
-। व्यंग mutilated                । व्यंगयति mutilates                                                                                                 ।
-। व्यर्थ useless                 । व्यर्थयति renders useless                                                                                          ।
-। शिथिल loose                    । शिथिलयति loosens                                                                                                   ।
-। शीघ्र quick                    । शीघ्रायते hastens                                                                                                  ।
-। शीत cool                       । शीतयति cools                                                                                                       ।
-। शृंखला chain                   । शृंखलयति fetters                                                                                                   ।
-। षण्ढ eunuch                    । षण्ढयति castrates                                                                                                  ।
-। सकल complete.                  । सकलयति makes whole, completes                                                                                      ।
-। सफल successful                 । सफलयति makes successful                                                                                            ।
-। सम्राज् sovereign              । सम्राजति reigns over                                                                                               ।
-। सरल straight                   । सरलयति straightens                                                                                                 ।
-। सावधान careful                 । सावधानयति puts on one's guard                                                                                      ।
-। सीमन्त parting line            । सीमन्तयति traverses (the sea) in a straight line (Rajatarańgini)                                                   ।
-। सुरभि perfume                  । सुरभयति perfumes                                                                                                   ।
-। सेना army                      । अभिषेणयति assails with an army (Pāṇini's commentary 8,3,64 gives the desiderative अभिषिषेणयिषति desires to assail) ।
-। स्थल land                      । स्थलयति makes into dry land स्थलायते becomes dry land स्थलीयति regards as dry land                                 ।
-। स्थविर old                     । स्थविरायते grows old                                                                                               ।
-। स्पष्ट clear                   । स्पष्टयति elucidates                                                                                               ।
-। हरित green                     । हरितायति becomes green                                                                                             ।
-। इस्त hand                      । अतिहस्तयति stretches out the hand, अपहस्तयति pushes aside, repels                                                  ।
+|                                |                                                                                                                    |
+|--------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| बधिर deaf                      | बधिरयति deafens                                                                                                    |
+| बल strength                    | उपोद्बलयति ratifies                                                                                                |
+| भार load                       | भारायते becomes a load                                                                                             |
+| मण्डल circle                   | मण्डलयति circles round (Hindi मण्डलाना)                                                                            |
+| मन्दmild                      | मन्दयति weakens, allays                                                                                            |
+| मलिन dirty                     | मलिनयति soils, defiles                                                                                             |
+| मसूण smooth                    | मसृणयति smoothens                                                                                                  |
+| मित्र friend                   | मित्रति acts in a friendly way                                                                                     |
+| राजन् king                     | अतिराजयति surpasses a king (Pāṇini 7.4.2 Comm.)                                                                    |
+| रुजा sickness                  | रुजायते becomes sick                                                                                               |
+| लघु light                      | लघयति lightens, mitigates, alleviates लघूयति despises                                                              |
+| लवण salt                       | लवणयति seasons with salt लवणस्यति longs for salt                                                                   |
+| लाला saliva                    | लालायते slobbers                                                                                                   |
+| लीन dissolved                  | लीनयतिdissolves (Pāṇini 7.3,39 Comm.)                                                                             |
+| वन्ध्या barren                 | वन्ध्यायते becomes barren                                                                                          |
+| वर्ग square                    | वर्गयति raises to a square (Lilāvati)                                                                              |
+| वर्मन् coat of mail            | वर्मयति provides with a coat of mail                                                                               |
+| वात wind                       | वातयति ventilates                                                                                                  |
+| विद्युत् lightning             | विद्युतयते flashes                                                                                                 |
+| विपक्ष enemy                   | विपक्षयति makes enemies                                                                                            |
+| विपक्ष large, great            | विपुलयति enlarges                                                                                                  |
+| विमुख averse                  | विमुखयति makes averse                                                                                              |
+| विरल rare                      | विरलायते becomes rare                                                                                              |
+| विशाल large, great, vast,wide | विशालयति enlarges, magnifies,प्रतिशालयति widens                                                                   |
+| विषम uneven                    | विषमायते becomes uneven                                                                                            |
+| वैर hostility                  | वैरायते starts hostilities                                                                                         |
+| व्यंग mutilated                | व्यंगयति mutilates                                                                                                 |
+| व्यर्थ useless                 | व्यर्थयति renders useless                                                                                          |
+| शिथिल loose                    | शिथिलयति loosens                                                                                                   |
+| शीघ्र quick                    | शीघ्रायते hastens                                                                                                  |
+| शीत cool                       | शीतयति cools                                                                                                       |
+| शृंखला chain                   | शृंखलयति fetters                                                                                                   |
+| षण्ढ eunuch                    | षण्ढयति castrates                                                                                                  |
+| सकल complete.                  | सकलयति makes whole, completes                                                                                      |
+| सफल successful                 | सफलयति makes successful                                                                                            |
+| सम्राज् sovereign              | सम्राजति reigns over                                                                                               |
+| सरल straight                   | सरलयति straightens                                                                                                 |
+| सावधान careful                 | सावधानयति puts on one's guard                                                                                      |
+| सीमन्त parting line            | सीमन्तयति traverses (the sea) in a straight line (Rajatarańgini)                                                   |
+| सुरभि perfume                  | सुरभयति perfumes                                                                                                   |
+| सेना army                      | अभिषेणयति assails with an army (Pāṇini's commentary 8,3,64 gives the desiderative अभिषिषेणयिषति desires to assail) |
+| स्थल land                      | स्थलयति makes into dry land स्थलायते becomes dry land स्थलीयति regards as dry land                                 |
+| स्थविर old                     | स्थविरायते grows old                                                                                               |
+| स्पष्ट clear                   | स्पष्टयति elucidates                                                                                               |
+| हरित green                     | हरितायति becomes green                                                                                             |
+| इस्त hand                      | अतिहस्तयति stretches out the hand, अपहस्तयति pushes aside, repels                                                  |
 
 **SUFFIXES**
 
@@ -1475,35 +1475,35 @@ Even the same prefix is doubled— सु-सु-गन्ध, सु-सु-भ
 
   How many combinations of upasargas may be used with one single root is illustrated by the root इ 'to go'. Hereunder we quote the 107-single upasargas as well as their combinations with which derivatives of the root इ, like इत, अय, अयन have been used in general language.
 
-।               ।               ।               ।                ।
-।---------------।---------------।---------------।----------------।
-। 1 अति         । 2 अन्वति      । 3 अभ्यति      । 4 उपाति        ।
-। 5 व्यति       । 6 समति        । 7 अधि         । 8 प्राधि       ।
-। 9 प्रत्यधि    । 10 समधि       । 11 अनु        । 12 समनु        ।
-। 13 अप         । 14 व्यप       । 15 अपि        । 16 अभि         ।
-। 17 समभि       । 18 अव         । 19 अन्वव      । 20 अभ्यव       ।
-। 21 समभ्यव     । 22 उपाव       । 23 पर्यव      । 24 प्रत्यव     ।
-। 25 अभिप्रत्यव । 26 व्यव       । 27 अनुव्यव    । 28 समव         ।
-। 29 आ          । 30 अत्या      । 31 अन्वा      । 32 अभ्या       ।
-। 33 समभ्या     । 34 उदा        । 35 अनूदा      । 36 उपोदा       ।
-। 37 उपा        । 38 अभ्युपा    । 39 न्या       । 40 निरा        ।
-। 41 पर्या      । 42 अनुपर्या   । 43 अभिपर्या   । 44 प्रत्या     ।
-। 45 अभिप्रत्या । 46 समा        । 47 अभिसमा     । 48 उपसमा       ।
-। 49 उद्        । 50 अनूद्      । 51 अपोद्      । 52 अभ्युद्     ।
-। 53 उपोद्      । 54 प्रोद्     । 55 प्रत्युद्  । 56 समुद्       ।
-। 57 उप         । 58 अध्युप     । 59 अभ्युप     । 60 समभ्युप     ।
-। 61 समोप       । 62 प्रत्युप   । 63 समुप       । 64 दुर्        ।
-। 65 नि         । 66 अभिनि      । 67 उपनि       । 68 निर्        ।
-। 69 परा        । 70 अनुपरा     । 71 अभिपरा     । 72 उपपरा       ।
-। 73 प्रतिपरा   । 74 विपरा      । 75 परि        । 76 अनुपरि      ।
-। 77 अभिपरि     । 78 प्रतिपरि   । 79 विपरि      । 80 प्रति विपरि ।
-। 81 संपरि      । 82 पला (=परा) । 83 प्रपला     । 84 विपला       ।
-। 85 संपला      । 86 पलि (=परि) । 87 उपपलि      । 88 विपलि       ।
-। 89 प्र        । 90 अनुप्र     । 91 अपप्र      । 92 अभिप्र      ।
-। 93 उपप्र      । 94 परिप्र     । 95 विप्र      । 96 संप्र       ।
-। 97 प्रति      । 98 संप्रति    । 99 प्ल (=प्र) । 100 वि         ।
-। 101 अनुवि     । 102 अभिवि     । 103 सम्       । 104 अतिसन्     ।
-। 105 अनुसम्    । 106 अभिसम्    । 107 उपसम्     ।                ।
+|               |               |               |                |
+|---------------|---------------|---------------|----------------|
+| 1 अति         | 2 अन्वति      | 3 अभ्यति      | 4 उपाति        |
+| 5 व्यति       | 6 समति        | 7 अधि         | 8 प्राधि       |
+| 9 प्रत्यधि    | 10 समधि       | 11 अनु        | 12 समनु        |
+| 13 अप         | 14 व्यप       | 15 अपि        | 16 अभि         |
+| 17 समभि       | 18 अव         | 19 अन्वव      | 20 अभ्यव       |
+| 21 समभ्यव     | 22 उपाव       | 23 पर्यव      | 24 प्रत्यव     |
+| 25 अभिप्रत्यव | 26 व्यव       | 27 अनुव्यव    | 28 समव         |
+| 29 आ          | 30 अत्या      | 31 अन्वा      | 32 अभ्या       |
+| 33 समभ्या     | 34 उदा        | 35 अनूदा      | 36 उपोदा       |
+| 37 उपा        | 38 अभ्युपा    | 39 न्या       | 40 निरा        |
+| 41 पर्या      | 42 अनुपर्या   | 43 अभिपर्या   | 44 प्रत्या     |
+| 45 अभिप्रत्या | 46 समा        | 47 अभिसमा     | 48 उपसमा       |
+| 49 उद्        | 50 अनूद्      | 51 अपोद्      | 52 अभ्युद्     |
+| 53 उपोद्      | 54 प्रोद्     | 55 प्रत्युद्  | 56 समुद्       |
+| 57 उप         | 58 अध्युप     | 59 अभ्युप     | 60 समभ्युप     |
+| 61 समोप       | 62 प्रत्युप   | 63 समुप       | 64 दुर्        |
+| 65 नि         | 66 अभिनि      | 67 उपनि       | 68 निर्        |
+| 69 परा        | 70 अनुपरा     | 71 अभिपरा     | 72 उपपरा       |
+| 73 प्रतिपरा   | 74 विपरा      | 75 परि        | 76 अनुपरि      |
+| 77 अभिपरि     | 78 प्रतिपरि   | 79 विपरि      | 80 प्रति विपरि |
+| 81 संपरि      | 82 पला (=परा) | 83 प्रपला     | 84 विपला       |
+| 85 संपला      | 86 पलि (=परि) | 87 उपपलि      | 88 विपलि       |
+| 89 प्र        | 90 अनुप्र     | 91 अपप्र      | 92 अभिप्र      |
+| 93 उपप्र      | 94 परिप्र     | 95 विप्र      | 96 संप्र       |
+| 97 प्रति      | 98 संप्रति    | 99 प्ल (=प्र) | 100 वि         |
+| 101 अनुवि     | 102 अभिवि     | 103 सम्       | 104 अतिसन्     |
+| 105 अनुसम्    | 106 अभिसम्    | 107 उपसम्     |                |
 
   अय and अयन are the common action nouns from इ. With them are formed some of the commonest words— अन्वय syntax, उपाय means, न्याय justice, उदय rise, अभिप्राय purpose, व्यय expenses, आय income, पर्याय synonym, पलायन running, प्रत्यय suffix, समय time, agreement, etc.  
 Addition of त forms past passive participles, e.g.— अतीत, व्यतीत, समतीत, अधीत, अन्वित, समन्वित, उदित, प्रेत, प्रतीत, विपरीत, परीत, संप्रतीत.
@@ -2274,11 +2274,11 @@ Logic is the science that deals with the canons and criteria of validity in thou
 
  Distinction and close relation have been maintained between terms of similar significance-
 
-।                         ।          ।
-|:-----------------------:|:--------:।
-। figure (of a syllogism) ।  प्रकार  ।
-।          modus          । प्रकारक  ।
-।          mood           । उपप्रकार ।
+|                         |          |
+|:-----------------------:|:--------:|
+| figure (of a syllogism) |  प्रकार  |
+|          modus          | प्रकारक  |
+|          mood           | उपप्रकार |
 
  अस्ति, present tense, third person, singular form of root अस् “to be, to exist", has been used in compounds in ancient literature with great effect—
 
@@ -2320,11 +2320,11 @@ Logic is the science that deals with the canons and criteria of validity in thou
 
  Three more abbreviations may be noted here-
 
-।               ।                ।
-|:-------------:|:--------------:।
-।  S (subject)  । उ ( उद्देश्य ) ।
-। P (predicate) ।   वि (विधेय)   ।
-।  M (middle)   ।    म (मध्य)    ।
+|               |                |
+|:-------------:|:--------------:|
+|  S (subject)  | उ ( उद्देश्य ) |
+| P (predicate) |   वि (विधेय)   |
+|  M (middle)   |    म (मध्य)    |
 
  There are numerous Latin phrases, sentences and maxims in Western logic. Usually it has been possible to translate them by words, juxtaposed to form compounds, usable in Hindi, Marathi or any other Indian language, either as standing alone or as part of a sentence. There, however, remain a few of them, where compounds cannot serve the purpose, for the relationship of one word with another has to be exhibited by the proper case-ending, or if it is a complete sentence, with its subject, object, and finite verb, all with or without adjuncts. In such cases we have resorted to Sanskrit, as India's superfine medium of expressing laws and maxims in the clearest and the most compact form. They will be common to Hindi, Marathi and other languages of India. If, however, need be felt, they are simple enough to be translated further into the mother-tongue of the student. It is only the Sanskrit case-endings which have to be replaced, the words shall remainthe same, e. g. *Causa latet*, *vis est notissima* कारणम् अदृश्यं, दृश्यं कार्यम्.
 
@@ -2432,55 +2432,55 @@ of the Alphabet**
 
  Greek and Roman letters have names: alpha, gamma, etc. These are uniformly translatable by the addition of -कार or वर्ण —alpha अकार (अवर्ण), gamma इकार (इवर्ण).
 
-।          ।                  ।     ।
-|:--------:|:----------------:|:---:।
-।   *α*    ।      alpha       ।  अ  ।
-।   *β*    ।       beta       ।  आ  ।
-।   *γ*    ।      gamma       ।  इ  ।
-।   *δ*    ।      delta       ।  ई  ।
-।   *ε*    ।     epsilon      ।  उ  ।
-।   *ζ*    ।       zeta       ।  ऊ  ।
-।   *η*    ।       eta        ।  ऋ  ।
-।   *θ*    ।      theta       । ऋृ  ।
-।   *ι*    ।       iota       । लृ  ।
-।   *κ*    ।      kappa       । लृृ ।
-। *λ*,*Λ* ।      lambda      ।  ए  ।
-।   *μ*    ।        mu        ।  ऐ  ।
-।   *ν*    ।        nu        ।  ओ  ।
-।   *ξ*    ।        xi        ।  औ  ।
-।   *ο*    ।     omicron      । अं  ।
-।   *π*    ।        pi        । अः  ।
-।   *ρ*    ।       rho        ।  य  ।
-।  *σ*,ς  ।      sigma       ।  र  ।
-।   *τ*    ।       tau        ।  ल  ।
-।   *υ*    ।     upsilon      ।  व  ।
-।   *ϕ*    ।       phi        ।  श  ।
-।   *χ*    ।       chi        ।  ष  ।
-।   *ψ*    ।       psi        ।  स  ।
-। *ω*,*Ω* । omega 'the last' ।  ह  ।
+|          |                  |     |
+|:--------:|:----------------:|:---:|
+|   *α*    |      alpha       |  अ  |
+|   *β*    |       beta       |  आ  |
+|   *γ*    |      gamma       |  इ  |
+|   *δ*    |      delta       |  ई  |
+|   *ε*    |     epsilon      |  उ  |
+|   *ζ*    |       zeta       |  ऊ  |
+|   *η*    |       eta        |  ऋ  |
+|   *θ*    |      theta       | ऋृ  |
+|   *ι*    |       iota       | लृ  |
+|   *κ*    |      kappa       | लृृ |
+| *λ*,*Λ* |      lambda      |  ए  |
+|   *μ*    |        mu        |  ऐ  |
+|   *ν*    |        nu        |  ओ  |
+|   *ξ*    |        xi        |  औ  |
+|   *ο*    |     omicron      | अं  |
+|   *π*    |        pi        | अः  |
+|   *ρ*    |       rho        |  य  |
+|  *σ*,ς  |      sigma       |  र  |
+|   *τ*    |       tau        |  ल  |
+|   *υ*    |     upsilon      |  व  |
+|   *ϕ*    |       phi        |  श  |
+|   *χ*    |       chi        |  ष  |
+|   *ψ*    |       psi        |  स  |
+| *ω*,*Ω* | omega 'the last' |  ह  |
 
 
 
-।     ।     ।     ।     ।
-|:---:|:---:|:---:|:---:।
-।  A  ।  क  ।  G  ।  छ  ।
-।  B  ।  ख  ।  H  ।  ज  ।
-।  C  ।  ग  ।  I  ।  झ  ।
-।  D  ।  घ  ।  J  ।  ञ  ।
-।  E  ।  ङ  ।  K  ।  ट  ।
-।  F  ।  च  ।  L  ।  ठ  ।
+|     |     |     |     |
+|:---:|:---:|:---:|:---:|
+|  A  |  क  |  G  |  छ  |
+|  B  |  ख  |  H  |  ज  |
+|  C  |  ग  |  I  |  झ  |
+|  D  |  घ  |  J  |  ञ  |
+|  E  |  ङ  |  K  |  ट  |
+|  F  |  च  |  L  |  ठ  |
 
 
 
-।      ।     ।     ।      ।
-।------।-----।-----।------।
-। M    । ड  । T   । न    ।
-। N   । ढ   । U   । प    ।
-। O  । ण   । V   । फ    ।
-। P    । त   । W   । ब    ।
-। Q    । थ   । X   । क्ष  ।
-। R    । द   । Y   । त्र ।
-। S    । ध   । Z   । ज्ञ  ।
+|      |     |     |      |
+|------|-----|-----|------|
+| M    | ड  | T   | न    |
+| N   | ढ   | U   | प    |
+| O  | ण   | V   | फ    |
+| P    | त   | W   | ब    |
+| Q    | थ   | X   | क्ष  |
+| R    | द   | Y   | त्र |
+| S    | ध   | Z   | ज्ञ  |
 
 * It should be noted that J,V and W are not always taken into account when consecutive numbers are marked with. Roman letters. In that case, I and J both would be झ, and K to U would be represented by toञ to न. X, Y, Z would remain unchanged.*
 
@@ -3210,22 +3210,22 @@ and simultaneous indeterminate equations of the type
 
   **SYMBOLS OF OPERATION**— The first syllable of a word, placed before or after the quantity, served the purpose of the symbol. For addition one of the Sanskrit words is युत. It is abbreviated to यु. Similarly the ancient Brahmi क, which is a cross, stands as the symbol of subtraction, being the abbreviation of क्षय. गुabbreviated from गुणनor गुणितstands for multiplication and भाfrom भागor भाजितfor division. Often these symbols are not used. Juxtaposition serves the purpose. The use of these symbols is best illustrated by the Bakhshali manuscript. Bakhshali is a village in the Peshawar district. The manuscript lay between stones. It was discovered by a farmer who was digging in the mounds in 1881. This is the oldest mathematical manuscript yet discovered. It is written in ancient Śāradā script of Kashmir on birch-bark. Its age has been variously estimated, some placing it in the second century (in the days of Kanishka), others as late as the twelfth century A.D.
 
-।     ।     ।     ।     ।
-|:---:|:---:|:---:|:---:।
-।  ०  ।    ।  ५  । यु  ।
-।  १  ।     ।  १  ।     ।
-। ११  । यु  ।  ५  ।    ।
-।  १  ।     ।  १  ।     ।
+|     |     |     |     |
+|:---:|:---:|:---:|:---:|
+|  ०  |    |  ५  | यु  |
+|  १  |     |  १  |     |
+| ११  | यु  |  ५  |    |
+|  १  |     |  १  |     |
 
 **means**$\\frac{x}{1}\~ + \~\\frac{5}{1}$  
 **means**$\\frac{11}{1}\~ + \~\\frac{5}{1}$
 
 (*folio 59 recto*)
 
-।     ।     ।     ।     ।     ।     ।     ।     ।     ।
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:।
-।  ३  ।  ३  ।  ३  ।  ३  ।  ३  ।  ३  ।  ३  । १०  । गु  ।
-।  १  ।  १  ।  १  ।  १  ।  १  ।  १  ।  १  ।  १  ।    ।
+|     |     |     |     |     |     |     |     |     |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  ३  |  ३  |  ३  |  ३  |  ३  |  ३  |  ३  | १०  | गु  |
+|  १  |  १  |  १  |  १  |  १  |  १  |  १  |  १  |    |
 
 **means**  
 **  **3 x 3 x 3 x 3 x 3 x 3 x 3 x 10
@@ -3238,8 +3238,8 @@ and simultaneous indeterminate equations of the type
 
 $x\~\\left( {1 + \\frac{3}{2}} \\right)\~ + \~\\left\\{ {2\~x\~\\left( {1 + \\frac{3}{2}} \\right)\~ - \~\\frac{5x}{2}} \\right\\}\~ + \~\\left\\{ {3x\~\\left( {1 + \\frac{3}{2}} \\right)\~ - \~\\frac{7x}{2}} \\right\\}\~ + \~\\left\\{ {4x\~\\left( {1 + \\frac{3}{2}} \\right)\~ - \\frac{9x}{2}} \\right\\}$
 
-।                           ।                  ।
-।---------------------------|:----------------:।
+|                           |                  |
+|---------------------------|:----------------:|
 । $\\begin{matrix}          
 १ & १ & १ & १ & {भा} \\\\  
 {१ +} & १ & १ & १ & \\\\   
@@ -3256,8 +3256,8 @@ $x\~\\left( {1 + \\frac{3}{2}} \\right)\~ + \~\\left\\{ {2\~x\~\\left( {1 + \\fr
 
 (*folio 13 verso*)
 
-।                  ।                   ।
-|:----------------:|:-----------------:।
+|                  |                   |
+|:----------------:|:-----------------:|
 । $\\begin{matrix} 
 {४०} & {भा} \\\\ 
 १ & \\\\     
@@ -5603,24 +5603,24 @@ which are still commonly so spelt in non-scientific use. Cf. "Basic substances s
 
 Here are a few examples from Japanese—
 
-।                 ।                     ।
-।-----------------।---------------------।
-। Latin           । Japanese            ।
-। Medicago sativa । murasaki umagoyashi ।
+|                 |                     |
+|-----------------|---------------------|
+| Latin           | Japanese            |
+| Medicago sativa | murasaki umagoyashi |
 
 * Umagoyashi* is the Japanese name for the genus Medicago. The adjective *murasaki* precedes the noun *umagoyashi*. It may also be noted that *murasaki* is not a translation of *sativa* (eatable). It refers to another characteristic of the species, viz., the purple colour. *Medicago sativa* which is popularly known as alfalfa in U.S A. and purple medic in England, bears bluish-purple clover-like flowers.
 
-।                    ।             ।
-।--------------------।-------------।
-। Latin              । Japanese    ।
-। *Vitis thunbergii* । *ebi dzuru* ।
+|                    |             |
+|--------------------|-------------|
+| Latin              | Japanese    |
+| *Vitis thunbergii* | *ebi dzuru* |
 
  Japanese *dzuru* stands for *Vitis*. *Thunbergii* is the specific adjective from a proper noun (Thunberg, name of a Swedish botanist), which has not been retained by the Japanese but replaced by their own specific adjective ebi.
 
-।                            ।                         ।
-।----------------------------।-------------------------।
-। Latin                      । Japanese                ।
-। *Chloris sinica kittlitzi* । *ogasawara kawarachiwa* ।
+|                            |                         |
+|----------------------------|-------------------------|
+| Latin                      | Japanese                |
+| *Chloris sinica kittlitzi* | *ogasawara kawarachiwa* |
 
  In this case the Japanese have replaced the specific and the subspecific adjectives in the Latin term, which both happen to be proper nouns, by a proper name of their own viz. *ogasawara*, which is a small island in the North Pacific (although it is not the only place where this bird is found).
 
@@ -5928,11 +5928,11 @@ and avoiding unnecessary burden of *eponyms*. Through-out we have taken pains to
 
  We have made use of synonyins to designate different genera:
 
-।                 ।                  ।
-|:---------------:|:----------------:।
-। मर्कट (प्रजाति) । *Trachypithecus* ।
-।    प्लवंगाः     ।   *Cynomorpha*   ।
-।  कीश (प्रजाति)  ।      *Kasi*      ।
+|                 |                  |
+|:---------------:|:----------------:|
+| मर्कट (प्रजाति) | *Trachypithecus* |
+|    प्लवंगाः     |   *Cynomorpha*   |
+|  कीश (प्रजाति)  |      *Kasi*      |
 
 Out of twenty generic and suprageneric names in the Primates for only these three have we had recourse tosynonyms. The rest are image-delineations within the limits of two to five syllables.
 
@@ -5942,13 +5942,13 @@ Out of twenty generic and suprageneric names in the Primates for only these thre
 
  Latin *ursus* and Greek *arktos* are the same as Sanskrit ऋक्ष. Hence the series:
 
-।               ।                     ।
-|:-------------:|:-------------------:।
-।   *Ursidac*   ।      ऋक्ष-वंश       ।
-।    *Ursus*    ।   ऋक्ष- (प्रजाति)   ।
-।  *Melursus*   । मन्दऋक्ष- (प्रजाति) ।
-। *Selenarctos* ।  वनऋक्ष- (प्रजाति)  ।
-।  *Helarctos*  । शाखा ऋक्ष (प्रजाति) ।
+|               |                     |
+|:-------------:|:-------------------:|
+|   *Ursidac*   |      ऋक्ष-वंश       |
+|    *Ursus*    |   ऋक्ष- (प्रजाति)   |
+|  *Melursus*   | मन्दऋक्ष- (प्रजाति) |
+| *Selenarctos* |  वनऋक्ष- (प्रजाति)  |
+|  *Helarctos*  | शाखा ऋक्ष (प्रजाति) |
 
  Several ancient names have come down to us in a changed garb in modern Indian languages. These words have enabled us to identify ancient names and to avail of them in the present nomenclature. A few instances will suffice: Hindi कसिया is from कशीकाwhich occurs in the ऋग्वेद. From it we get the subfamily *Martinae* कशीकानुवंश, and the genus Martes कशीका प्रजाति. Sindhi *jaho* gives us the identification of जाहक 'hedgehog', from which we have जाहक-वंश *Erinaccidae*, जाहकानुवंश *Erinaceinac*, and जाहक-प्रजाति *Erinaceus*. The genus *Pleropus* is वाग्गुद-प्रजाति, its family वाग्गुद-वंश. वाग्गुद is from मनुस्मृतिand it is found as the second member of the Marathi compound-wordवटवाघूल. The genus*Rhinoceros* is गण्डक-प्रजाति, its family *Rhinocerotidae* गण्डक-वंश; fromगण्डक is derived Hindi गेंडा. In Assamese *deo-chagal* is used for the Goral, for which it has been retained.
 
@@ -6451,48 +6451,48 @@ ch'iang is a combination of the characters for oxygen and hydrogen.
 
 
 
-।                                                   ।                                                                ।
-|:-------------------------------------------------:|:--------------------------------------------------------------:।
-।               **TABLE OF CONTENTS**               ।                                                                ।
-।                 Dedication                    ।                     Special Terminologies                      ।
-।            Foreword by S.S. Bhatnagar             ।   Constitution, Law, Administration, Economics and Politics    ।
-।            Obiter Dictum (Atharvaveda)            ।                             Logic                              ।
-।        Our terms are usable all over India        ।                      Scientific Symbology                      ।
-।                   Obiter Dicta                    ।                            General                             ।
-।                     Our Cost                      । Indian Counterparts of Greek and Roman Letters of the Alphabet ।
-।                      Preface                      ।                        Forms of Letters                        ।
-।                      Plates                       ।                  Symbols used in Mathematics                   ।
-।                   Introduction                    ।                    Symbols used in Physics                     ।
-।                   Verbal Roots                    ।                      Weights and Measures                      ।
-।                   Nominal Verbs                   ।                          Mathematics                           ।
-।                     Suffixes                      ।                       Topographical Maps                       ।
-।                I. Primary Suffixes                ।                            Colours                             ।
-।                  A. Participles                   ।                           Chemistry                            ।
-।                 1. Present Tense                  ।                            Elements                            ।
-।                 (a) Parasmaipada                  ।            Some Interesting Words of Indian Origin             ।
-।                  (b) Ātmanepada                   ।                            Prefixes                            ।
-।                   2. Past Tense                   ।                            Suffixes                            ।
-।             (a) Perfect Parasmaipada              ।                           Mineralogy                           ।
-।              (b) Perfect Ātmanepada               ।                             Botany                             ।
-।                    (c) Passive                    ।                            Zoology                             ।
-।                    (d) Active                     ।                            Avifauna                            ।
-।                     3. Future                     ।                            Mammalia                            ।
-।                 (a) Parasmaipada                  ।                       The Chinese System                       ।
-।                  (b) Ātmanepada                   ।                         Atomic Energy                          ।
-।                   4. Potential                    ।                           Chemistry                            ।
-।                 5. Indeclinables                  ।                            Cytology                            ।
-।                  (a) Past Tense                   ।                        Plant Physiology                        ।
-।                  (b) Infinitives                  ।                        Plant Pathology                         ।
-।              B. Nouns and Adjectives              ।                  Morphology of Spermatophyta                   ।
-।              II. Secondary Suffixes               ।                      Weights and Measures                      ।
-।               A. Feminine Suffixes                ।                            Physics                             ।
-। B. Suffixes forming Nouns, Adjectives and Adverbs ।                           Meteorolgy                           ।
-।    C. Suffixes forming Degrees of Comparison     ।                   Constructional Engineering                   ।
-।           D. Suffixes added to Numerals           ।                             Survey                             ।
-।                     Prefixes                      ।                Railways and Highway Engineering                ।
-।                                                   ।                       Table of Contents                        ।
-।     General Principles of Indian Terminology      ।                         Abbreviations                          ।
-।                                                   ।                       Dictionary (A - Z)                       ।
+|                                                   |                                                                |
+|:-------------------------------------------------:|:--------------------------------------------------------------:|
+|               **TABLE OF CONTENTS**               |                                                                |
+|                 Dedication                    |                     Special Terminologies                      |
+|            Foreword by S.S. Bhatnagar             |   Constitution, Law, Administration, Economics and Politics    |
+|            Obiter Dictum (Atharvaveda)            |                             Logic                              |
+|        Our terms are usable all over India        |                      Scientific Symbology                      |
+|                   Obiter Dicta                    |                            General                             |
+|                     Our Cost                      | Indian Counterparts of Greek and Roman Letters of the Alphabet |
+|                      Preface                      |                        Forms of Letters                        |
+|                      Plates                       |                  Symbols used in Mathematics                   |
+|                   Introduction                    |                    Symbols used in Physics                     |
+|                   Verbal Roots                    |                      Weights and Measures                      |
+|                   Nominal Verbs                   |                          Mathematics                           |
+|                     Suffixes                      |                       Topographical Maps                       |
+|                I. Primary Suffixes                |                            Colours                             |
+|                  A. Participles                   |                           Chemistry                            |
+|                 1. Present Tense                  |                            Elements                            |
+|                 (a) Parasmaipada                  |            Some Interesting Words of Indian Origin             |
+|                  (b) Ātmanepada                   |                            Prefixes                            |
+|                   2. Past Tense                   |                            Suffixes                            |
+|             (a) Perfect Parasmaipada              |                           Mineralogy                           |
+|              (b) Perfect Ātmanepada               |                             Botany                             |
+|                    (c) Passive                    |                            Zoology                             |
+|                    (d) Active                     |                            Avifauna                            |
+|                     3. Future                     |                            Mammalia                            |
+|                 (a) Parasmaipada                  |                       The Chinese System                       |
+|                  (b) Ātmanepada                   |                         Atomic Energy                          |
+|                   4. Potential                    |                           Chemistry                            |
+|                 5. Indeclinables                  |                            Cytology                            |
+|                  (a) Past Tense                   |                        Plant Physiology                        |
+|                  (b) Infinitives                  |                        Plant Pathology                         |
+|              B. Nouns and Adjectives              |                  Morphology of Spermatophyta                   |
+|              II. Secondary Suffixes               |                      Weights and Measures                      |
+|               A. Feminine Suffixes                |                            Physics                             |
+| B. Suffixes forming Nouns, Adjectives and Adverbs |                           Meteorolgy                           |
+|    C. Suffixes forming Degrees of Comparison     |                   Constructional Engineering                   |
+|           D. Suffixes added to Numerals           |                             Survey                             |
+|                     Prefixes                      |                Railways and Highway Engineering                |
+|                                                   |                       Table of Contents                        |
+|     General Principles of Indian Terminology      |                         Abbreviations                          |
+|                                                   |                       Dictionary (A - Z)                       |
 
 
 

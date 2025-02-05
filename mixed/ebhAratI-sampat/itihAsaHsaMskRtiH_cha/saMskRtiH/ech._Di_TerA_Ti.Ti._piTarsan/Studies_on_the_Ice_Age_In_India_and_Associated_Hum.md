@@ -52,87 +52,87 @@ WASHINGTON, D.C.
 
 1939
 
-।                                                                                                                ।
-।:--------------------------------------------------------------------------------------------------------------:।
-।                                                  **CONTENTS**                                                  ।
-।                                                  INTRODUCTION                                                  ।
-।                                  PART I. THE ICE AGE IN SOUTHWESTERN KASHMIR.                                  ।
-।                               A. Geographic and geologic aspects of the region                                ।
-।                                            Physiographic divisions                                         ।
-।                                            The climate of Kashmir                                          ।
-।                                     Brief outline of geologic structure                                   ।
-।                                   Drainage pattern and structural history                                 ।
-।                                            Preglacial land forms.                                         ।
-।                                Physical geologic factors now active in Kashmir                              ।
-।                          B. The glaciation on the Himalayan slope. By T. T. Paterson.                          ।
-।                                     Glacial sequence in the Sind Valley.                                    ।
-।                                     Glacial sequence in the Liddar Valley                                   ।
-।                                                    Summary                                                  ।
-।                                C. The Pleistocene record in the Kashmir Basin.                                 ।
-।                                        Sections in the Karewa series.                                      ।
-।                         Morphologic and sedimentary records of the Karewa Lake shores                       ।
-।                           D. Glaciation of the northeastern slope of the Pir Panjal.                           ।
-।                                               First glaciation                                             ।
-।                                           First interglacial period                                         ।
-।                                            Later major glaciation                                          ।
-। E. Glaciation of the southwestern slope and its corresponding features in the foothills of Jammu and Poonch... ।
-।                                        Glaciation of the Jhelum tract                                       ।
-।                                    Outlet of the Chenab Valley at Akhnur.                                  ।
-।                            Terraces and fan deposits in the Taw Valley above Jammu                         ।
-।                            The Pleistocene deposits of Poonch. By T. T. Paterson..                         ।
-।       F. The Kashmir Pleistocene in its relation to the valley basins of the upper Indusdrainage system       ।
-।                                Dainelli's analysis of the Himalayan Ice Age.                               ।
-।                              The Pleistocene records in Ladak or Indian Tibet.                             ।
-।                                   G. Summary of the Pleistocene in Kashmir.                                    ।
-।                                             Early Pleistocene.                                           ।
-।                                            Middle Pleistocene⠀⠀⠀                                           ।
-।                             H. Postglacial geology and prehistoric man in Kashmir.                             ।
-।                           1. Petrology of the Karewa lake beds. By Paul D. Krynine.                            ।
-।                      Sedimentation and genetic significance of the Karewa deposits.                      ।
-।                                            Descriptive petrography                                          ।
-।             PART II, PLEISTOCENE GEOLOGY AND STONE AGE CULTURES IN NORTHWEST AND PENINSULAR INDIA              ।
-।             A. Outline of the Upper Siwalik and younger Pleistocene history of the Potwar region.              ।
-।                                The Potwar at the end of the Tertiary period.                               ।
-।                                            Upper Siwalik period.                                           ।
-।                                             Post-Siwalik stages.                                           ।
+|                                                                                                                |
+|:--------------------------------------------------------------------------------------------------------------:|
+|                                                  **CONTENTS**                                                  |
+|                                                  INTRODUCTION                                                  |
+|                                  PART I. THE ICE AGE IN SOUTHWESTERN KASHMIR.                                  |
+|                               A. Geographic and geologic aspects of the region                                |
+|                                            Physiographic divisions                                         |
+|                                            The climate of Kashmir                                          |
+|                                     Brief outline of geologic structure                                   |
+|                                   Drainage pattern and structural history                                 |
+|                                            Preglacial land forms.                                         |
+|                                Physical geologic factors now active in Kashmir                              |
+|                          B. The glaciation on the Himalayan slope. By T. T. Paterson.                          |
+|                                     Glacial sequence in the Sind Valley.                                    |
+|                                     Glacial sequence in the Liddar Valley                                   |
+|                                                    Summary                                                  |
+|                                C. The Pleistocene record in the Kashmir Basin.                                 |
+|                                        Sections in the Karewa series.                                      |
+|                         Morphologic and sedimentary records of the Karewa Lake shores                       |
+|                           D. Glaciation of the northeastern slope of the Pir Panjal.                           |
+|                                               First glaciation                                             |
+|                                           First interglacial period                                         |
+|                                            Later major glaciation                                          |
+| E. Glaciation of the southwestern slope and its corresponding features in the foothills of Jammu and Poonch... |
+|                                        Glaciation of the Jhelum tract                                       |
+|                                    Outlet of the Chenab Valley at Akhnur.                                  |
+|                            Terraces and fan deposits in the Taw Valley above Jammu                         |
+|                            The Pleistocene deposits of Poonch. By T. T. Paterson..                         |
+|       F. The Kashmir Pleistocene in its relation to the valley basins of the upper Indusdrainage system       |
+|                                Dainelli's analysis of the Himalayan Ice Age.                               |
+|                              The Pleistocene records in Ladak or Indian Tibet.                             |
+|                                   G. Summary of the Pleistocene in Kashmir.                                    |
+|                                             Early Pleistocene.                                           |
+|                                            Middle Pleistocene⠀⠀⠀                                           |
+|                             H. Postglacial geology and prehistoric man in Kashmir.                             |
+|                           1. Petrology of the Karewa lake beds. By Paul D. Krynine.                            |
+|                      Sedimentation and genetic significance of the Karewa deposits.                      |
+|                                            Descriptive petrography                                          |
+|             PART II, PLEISTOCENE GEOLOGY AND STONE AGE CULTURES IN NORTHWEST AND PENINSULAR INDIA              |
+|             A. Outline of the Upper Siwalik and younger Pleistocene history of the Potwar region.              |
+|                                The Potwar at the end of the Tertiary period.                               |
+|                                            Upper Siwalik period.                                           |
+|                                             Post-Siwalik stages.                                           |
 
 
 
-।                                                                                                       ।
-।-------------------------------------------------------------------------------------------------------।
-। B. Geologic sections through culture-bearing Pleistocene deposits of the Potwar.                      ।
-।   Soan Valley                                                                                      ।
-।   Eastern Potwar                                                                                   ।
-।   Summary                                                                                          ।
-। C. Pleistocene deposits of the Salt Range                                                             ।
-। D. Origin and climatic record of the Pleistocene in the northwest Punjab.                             ।
-।   Sedimentation in relation to diastrophism and climatic changes                                   ।
-।   Source of Upper Siwalik deposits                                                                 ।
-। E. Prehistory of the Potwar and Indus regions. By T. T. Paterson                                      ।
-।   Stratigraphy                                                                                     ।
-।   Typology                                                                                         ।
-।   Conclusions                                                                                      ।
-। PART III. THE PLEISTOCENE IN THE NARBADA VALLEY OF                                                    ।
-।   CENTRAL INDIA                                                                                   ।
-। A. Geology of the area                                                                               ।
-।   Narbada laterite                                                                                ।
-।   Lower Narbada group                                                                              ।
-।   Upper Narbada group.                                                                            ।
-।   New alluvium and regur clay                                                                     ।
-।   The Narbada sequence and its possible correlation with the extra-peninsular Pleistocene          ।
-। B. Culture-bearing localities                                                                         ।
-।   Vicinity of Hoshangabad                                                                         ।
-।   Vicinity of Narsinghpur                                                                         ।
-। PART IV. STRATIGRAPHIC AND TYPOLOGIC SEQUENCE OF THE MADRAS PALEOLITHIC INDUSTRIES. By T. T. Paterson ।
-। PART V. THE LATE STONE AGE SITES AT SUKKUR AND ROHRI, ON THE LOWER INDUS IN UPPERSIND                ।
-। A. General features and location.                                                                     ।
-। B. Geologic age                                                                                       ।
-। C. The industries of Sukkur and Rohri. By T. T. Paterson.                                             ।
-।   Sukkur                                                                                           ।
-।    Rohri                                                                                          ।
-।    Dating                                                                                         ।
-। LITERATURE REFERENCES                                                                                 ।
-। INDEX                                                                                                 ।
+|                                                                                                       |
+|-------------------------------------------------------------------------------------------------------|
+| B. Geologic sections through culture-bearing Pleistocene deposits of the Potwar.                      |
+|   Soan Valley                                                                                      |
+|   Eastern Potwar                                                                                   |
+|   Summary                                                                                          |
+| C. Pleistocene deposits of the Salt Range                                                             |
+| D. Origin and climatic record of the Pleistocene in the northwest Punjab.                             |
+|   Sedimentation in relation to diastrophism and climatic changes                                   |
+|   Source of Upper Siwalik deposits                                                                 |
+| E. Prehistory of the Potwar and Indus regions. By T. T. Paterson                                      |
+|   Stratigraphy                                                                                     |
+|   Typology                                                                                         |
+|   Conclusions                                                                                      |
+| PART III. THE PLEISTOCENE IN THE NARBADA VALLEY OF                                                    |
+|   CENTRAL INDIA                                                                                   |
+| A. Geology of the area                                                                               |
+|   Narbada laterite                                                                                |
+|   Lower Narbada group                                                                              |
+|   Upper Narbada group.                                                                            |
+|   New alluvium and regur clay                                                                     |
+|   The Narbada sequence and its possible correlation with the extra-peninsular Pleistocene          |
+| B. Culture-bearing localities                                                                         |
+|   Vicinity of Hoshangabad                                                                         |
+|   Vicinity of Narsinghpur                                                                         |
+| PART IV. STRATIGRAPHIC AND TYPOLOGIC SEQUENCE OF THE MADRAS PALEOLITHIC INDUSTRIES. By T. T. Paterson |
+| PART V. THE LATE STONE AGE SITES AT SUKKUR AND ROHRI, ON THE LOWER INDUS IN UPPERSIND                |
+| A. General features and location.                                                                     |
+| B. Geologic age                                                                                       |
+| C. The industries of Sukkur and Rohri. By T. T. Paterson.                                             |
+|   Sukkur                                                                                           |
+|    Rohri                                                                                          |
+|    Dating                                                                                         |
+| LITERATURE REFERENCES                                                                                 |
+| INDEX                                                                                                 |
 
 **ILLUSTRATIONS**
 
@@ -140,193 +140,193 @@ WASHINGTON, D.C.
 
 **(At end of text)**
 
-।       ।                                                                                                                                                                                                                                                                                      ।
-।-------।--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। I.    । 1, Tawi Valley outlet on border of foothills at Jammu, incised in Upper Siwalik conglomerate; 2, High Pir Panjal as seen from Chinamarg, Tosh Maidan; 3, Forested Karewa beds near Sedau; 4, Kashmir Valley with rice fields in foreground and snowcovered Pir Panjal in background. ।
-। II.   । 1, View across Kashmir Valley from Takht-i-Suleiman at Srinagar, showing Jhelum flood plain, Karewa Hills, and Pir Panjal; 2, Fault-line scarp on Himalayan slope of Kashmir Basin near Gandarbal; 3, Great Karewa terrace and Jhelum plain near Bijbiara                            ।
-। III.  । 1, Sind Valley from Mohand Marg; 2, Sind Valley from point above Gandarbal                                                                                                                                                                                                           ।
-। IV.   । 1, Contact of Woyil conglomerate and Mangom moraine; 2, Erratics in second glacial clay below Woyil                                                                                                                                                                                  ।
-। V.    । 1, Solifluxion deposit at the base of the second interglacial deposit at Benahom; 2, Third glacial solifluxion scree at Tserawan                                                                                                                                                     ।
-। VI.   । 1, Glaciated floor of first glacial age 500 feet above valley floor opposite Sura Pharao; 2, The Sonamarg Basin from the east                                                                                                                                                        ।
-। VII.  । 1, Tilted second interglacial cemented fan breccia of the Sonamarg; 2, Almost horizontal cemented third interglacial conglomerate at west end of Sonamarg Basin                                                                                                                      ।
-। VIII. । View upstream from Sonamarg; 2, View from Islamabad Hill toward Bawan                                                                                                                                                                                                                ।
-। IX.   । 1, Kanjdori Hill from the west; 2, Nekabatun Gorge, showing composite slope profile of first and second glaciations                                                                                                                                                                  ।
-। X.    । 1, Striated boulder in second glacial conglomerate, Piush Gorge; 2, Sombur quarry with elephant bones uncovered in first interglacial clay; 3, Triassic limestone overlain by Lower Karewa shore deposits and loessic beds of Upper Karewa age near Sombur                           ।
-। XI.   । 1, Ancient soil profile in loamy silt covered by younger scree near Gandarbal, Sind Valley; 2, Island mountain of trap mantled by Karewa beds near Magam; 3, Takht-i-Suleiman as seen from Gagribal                                                                                  ।
-। XII.  । 1, Upper portion of Bren spur with raised beaches above fields cut into bedrock; 2, Raised beaches above Wuyan; 3, View from point below Nilnag on dissected Karewa beds, with flooded Jhelum plain in background; 4, Karewa terraces and Pir Panjal slope southeast of Magam        ।
-। XIII. । Panorama view of high Pir Panjal from Chinamarg                                                                                                                                                                                                                                      ।
-। XIV.  । 1, First interglacial (Lower Karewa) lake beds with fossil localities in Ningle Valley at 9,800 feet; 2, Rimbiara Valley at Hurapur; 3, Lower Karewa fan (tilted), overlain by third glacial gravel on left bank of Vishav River near Sedau                                          ।
-। XV.   । 1, Lower Karewa beds exposed on 300-foot cliff in Shaliganga Valley; 2, Cliff below Dangarpur; 3, Glacier remnants on watershed range, Gorapathri, upper Harseni Valley                                                                                                              ।
-। XVI.  । Faulted anticline in Lower Karewa clay overlain by second glacial outwash below Shupiyan                                                                                                                                                                                             ।
-। XVII. । 1, Basam Gali Pass, a second glacial trough in watershed range; 2, Glacial slope profiles on border of Tosh Maidan; 3, Relations of three glaciations at Chinamarg; 4, Watershed of Tosh Maidan toward Kashmir Basin, with third glacial overflow trough                             ।
+|       |                                                                                                                                                                                                                                                                                      |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| I.    | 1, Tawi Valley outlet on border of foothills at Jammu, incised in Upper Siwalik conglomerate; 2, High Pir Panjal as seen from Chinamarg, Tosh Maidan; 3, Forested Karewa beds near Sedau; 4, Kashmir Valley with rice fields in foreground and snowcovered Pir Panjal in background. |
+| II.   | 1, View across Kashmir Valley from Takht-i-Suleiman at Srinagar, showing Jhelum flood plain, Karewa Hills, and Pir Panjal; 2, Fault-line scarp on Himalayan slope of Kashmir Basin near Gandarbal; 3, Great Karewa terrace and Jhelum plain near Bijbiara                            |
+| III.  | 1, Sind Valley from Mohand Marg; 2, Sind Valley from point above Gandarbal                                                                                                                                                                                                           |
+| IV.   | 1, Contact of Woyil conglomerate and Mangom moraine; 2, Erratics in second glacial clay below Woyil                                                                                                                                                                                  |
+| V.    | 1, Solifluxion deposit at the base of the second interglacial deposit at Benahom; 2, Third glacial solifluxion scree at Tserawan                                                                                                                                                     |
+| VI.   | 1, Glaciated floor of first glacial age 500 feet above valley floor opposite Sura Pharao; 2, The Sonamarg Basin from the east                                                                                                                                                        |
+| VII.  | 1, Tilted second interglacial cemented fan breccia of the Sonamarg; 2, Almost horizontal cemented third interglacial conglomerate at west end of Sonamarg Basin                                                                                                                      |
+| VIII. | View upstream from Sonamarg; 2, View from Islamabad Hill toward Bawan                                                                                                                                                                                                                |
+| IX.   | 1, Kanjdori Hill from the west; 2, Nekabatun Gorge, showing composite slope profile of first and second glaciations                                                                                                                                                                  |
+| X.    | 1, Striated boulder in second glacial conglomerate, Piush Gorge; 2, Sombur quarry with elephant bones uncovered in first interglacial clay; 3, Triassic limestone overlain by Lower Karewa shore deposits and loessic beds of Upper Karewa age near Sombur                           |
+| XI.   | 1, Ancient soil profile in loamy silt covered by younger scree near Gandarbal, Sind Valley; 2, Island mountain of trap mantled by Karewa beds near Magam; 3, Takht-i-Suleiman as seen from Gagribal                                                                                  |
+| XII.  | 1, Upper portion of Bren spur with raised beaches above fields cut into bedrock; 2, Raised beaches above Wuyan; 3, View from point below Nilnag on dissected Karewa beds, with flooded Jhelum plain in background; 4, Karewa terraces and Pir Panjal slope southeast of Magam        |
+| XIII. | Panorama view of high Pir Panjal from Chinamarg                                                                                                                                                                                                                                      |
+| XIV.  | 1, First interglacial (Lower Karewa) lake beds with fossil localities in Ningle Valley at 9,800 feet; 2, Rimbiara Valley at Hurapur; 3, Lower Karewa fan (tilted), overlain by third glacial gravel on left bank of Vishav River near Sedau                                          |
+| XV.   | 1, Lower Karewa beds exposed on 300-foot cliff in Shaliganga Valley; 2, Cliff below Dangarpur; 3, Glacier remnants on watershed range, Gorapathri, upper Harseni Valley                                                                                                              |
+| XVI.  | Faulted anticline in Lower Karewa clay overlain by second glacial outwash below Shupiyan                                                                                                                                                                                             |
+| XVII. | 1, Basam Gali Pass, a second glacial trough in watershed range; 2, Glacial slope profiles on border of Tosh Maidan; 3, Relations of three glaciations at Chinamarg; 4, Watershed of Tosh Maidan toward Kashmir Basin, with third glacial overflow trough                             |
 
 
 
-।         ।                                                                                                                                                                                                                                                                                                                                                                        ।
-।---------।------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। XVIII.  । 1, Structure soil at 10,800 feet on third moraine of Tosh Maidan; 2, Third moraine between Hatbar and Drang, at 6,850 feet; 3, Outlet of Sokhnagh Valley at Zugu, with dissected and terraced Karewa Hills; 4, Tilted Lower Karewa beds overlain by third glacial gravel, above Zugu                                                                                   ।
-। XIX.    । 1, Harseni Nar from point below Tsurugul Pass; 2,Preglacial relief remnant and second glacial trough opposite Shahkut, upper Vishav Valley; 3, Harseni Valley above Sedau                                                                                                                                                                                              ।
-। XX.     । 1, Terraced outlet of Vishav River near Sedau; 2,Harseni Nar at 11,800 feet, with glacier remnants on watershed; 3, Tilted Lower Karewa beds overlain by third glacial gravel on left bank of Vishav River below Sedauthur                                                                                                                                             ।
-। XXI.    । 1, Ferozepur Valley at Drang, with snowy Pir Panjal in background; 2, Karewa gravel on road above Tangmarg, Ferozepur Valley; 3, Ferozepur Valley at Tangmarg; 4, Third moraine at 6,320 feet, near Dangarpur                                                                                                                                                          ।
-। XXII.   । 1, Ground moraine of second Jhelum glacier near Naushera and Jhelum terraces; 2, Giant fan opposite Naushera and Jhelum terraces; 3, Jhelum Gorge at Baramula; 4, Upper Siwalik fan tilted and dissected by Tawi River near Jammu                                                                                                                                      ।
-। XXIII.  । 1, Tilted and terraced Boulder conglomerate fan in Chenab Valley above Akhnur; 2, Northeast slope of Udhampur Basin; 3, Terraces in Udhampur Basin in Baruin Nullah                                                                                                                                                                                                    ।
-। XXIV.   । 1, Trial excavation at the megalithic site of Burzahom; 2, Trial trench at Burzahom, showing hearth level in postglacial loess; 3, Stone tools and bone awl from layer C and surface at Burzahom; 4, Various types of potsherds from Burzahom                                                                                                                          ।
-। XXV.    । 1, Potwar peneplain over Middle Siwalik beds west of Chauntra, with Khair-i-Murat ridge in background; 2,Soan Valley near Chakri, with Khair-i-Murat in background; 3, Loess landscape in Potwar silt; 4, Fault escarpment of Khair-i-Murat with dis- sected pediments                                                                                                 ।
-। XXVI.   । 1, Soan workshop above Adial, with redeposited loam in foreground; 2, Boulder conglomerate with erratics on tilted Upper Siwalik beds with bone bed on Haro River near Campbellpore; 3, Erratic boulder near Campbellpore; 4, Boulder conglomerate tilted to 85° capped by tufa near Golra, Punjab                                                                     ।
-। XXVII.  । 1, "Khuddera" or loess canyons near Sohawa, eastern Potwar; 2, Terraced outlet of Kurang Valley on border of Murree Hills near Barakao; 3, Potwar peneplain over Pliocene beds mantled by Potwar silt and dissected, near Malakpur; 4, Lei River meandering through Lower Siwalik beds,                                                                                ।
-। XXVIII. । 1, Right slope of Soan Valley above Chauntra; 2, Right slope of Soan Valley near Bandhar; 3, Pinjor silt overlain by Boulder conglomerate and Potwar loessic silt, unconformable on folded Pliocene Dhok Pathan beds in Soan Valley; 4, Soan work- shop level between Potwar loess and Soan gravel                                                                     ।
-। XXIX.   । 1, Human skull of neolithic(?) age in postglacial loessic soil southeast of Rawalpindi; 2, Potwar loess over Boulder conglomerate with Soan workshop on terrace ledge above Chauntra; 3, Old conglomerate over Dhok Pathan beds and upper edge of T3 at hand-ax site near Chauntra; 4, Late Soan workshop at base of Potwar loess at Pir Abdul, near Gila Kalan, Soan. ।
-। XXX.    । 1, View into Narbada Valley north of Narsinghpur; 2,Locality 3 at Hoshangabad; 3, Upper Narbada group in Sher Nullah, near Narsinghpur; 4, Factory site near Rohri, upper Sind                                                                                                                                                                                         ।
-। XXXI.   । Paleolithic implements from Soan Valley                                                                                                                                                                                                                                                                                                                                ।
-। XXXII.  । Paleolithic implements from Narbada Valley                                                                                                                                                                                                                                                                                                                             ।
-। XXXIII. । Large flake from the Boulder conglomerate at Kallar                                                                                                                                                                                                                                                                                                                    ।
-। XXXIV.  । Early Soan pebble tools, flat-based types                                                                                                                                                                                                                                                                                                                              ।
-। XXXV.   । Early Soan pebble tools, rounded-pebble types                                                                                                                                                                                                                                                                                                                          ।
+|         |                                                                                                                                                                                                                                                                                                                                                                        |
+|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| XVIII.  | 1, Structure soil at 10,800 feet on third moraine of Tosh Maidan; 2, Third moraine between Hatbar and Drang, at 6,850 feet; 3, Outlet of Sokhnagh Valley at Zugu, with dissected and terraced Karewa Hills; 4, Tilted Lower Karewa beds overlain by third glacial gravel, above Zugu                                                                                   |
+| XIX.    | 1, Harseni Nar from point below Tsurugul Pass; 2,Preglacial relief remnant and second glacial trough opposite Shahkut, upper Vishav Valley; 3, Harseni Valley above Sedau                                                                                                                                                                                              |
+| XX.     | 1, Terraced outlet of Vishav River near Sedau; 2,Harseni Nar at 11,800 feet, with glacier remnants on watershed; 3, Tilted Lower Karewa beds overlain by third glacial gravel on left bank of Vishav River below Sedauthur                                                                                                                                             |
+| XXI.    | 1, Ferozepur Valley at Drang, with snowy Pir Panjal in background; 2, Karewa gravel on road above Tangmarg, Ferozepur Valley; 3, Ferozepur Valley at Tangmarg; 4, Third moraine at 6,320 feet, near Dangarpur                                                                                                                                                          |
+| XXII.   | 1, Ground moraine of second Jhelum glacier near Naushera and Jhelum terraces; 2, Giant fan opposite Naushera and Jhelum terraces; 3, Jhelum Gorge at Baramula; 4, Upper Siwalik fan tilted and dissected by Tawi River near Jammu                                                                                                                                      |
+| XXIII.  | 1, Tilted and terraced Boulder conglomerate fan in Chenab Valley above Akhnur; 2, Northeast slope of Udhampur Basin; 3, Terraces in Udhampur Basin in Baruin Nullah                                                                                                                                                                                                    |
+| XXIV.   | 1, Trial excavation at the megalithic site of Burzahom; 2, Trial trench at Burzahom, showing hearth level in postglacial loess; 3, Stone tools and bone awl from layer C and surface at Burzahom; 4, Various types of potsherds from Burzahom                                                                                                                          |
+| XXV.    | 1, Potwar peneplain over Middle Siwalik beds west of Chauntra, with Khair-i-Murat ridge in background; 2,Soan Valley near Chakri, with Khair-i-Murat in background; 3, Loess landscape in Potwar silt; 4, Fault escarpment of Khair-i-Murat with dis- sected pediments                                                                                                 |
+| XXVI.   | 1, Soan workshop above Adial, with redeposited loam in foreground; 2, Boulder conglomerate with erratics on tilted Upper Siwalik beds with bone bed on Haro River near Campbellpore; 3, Erratic boulder near Campbellpore; 4, Boulder conglomerate tilted to 85° capped by tufa near Golra, Punjab                                                                     |
+| XXVII.  | 1, "Khuddera" or loess canyons near Sohawa, eastern Potwar; 2, Terraced outlet of Kurang Valley on border of Murree Hills near Barakao; 3, Potwar peneplain over Pliocene beds mantled by Potwar silt and dissected, near Malakpur; 4, Lei River meandering through Lower Siwalik beds,                                                                                |
+| XXVIII. | 1, Right slope of Soan Valley above Chauntra; 2, Right slope of Soan Valley near Bandhar; 3, Pinjor silt overlain by Boulder conglomerate and Potwar loessic silt, unconformable on folded Pliocene Dhok Pathan beds in Soan Valley; 4, Soan work- shop level between Potwar loess and Soan gravel                                                                     |
+| XXIX.   | 1, Human skull of neolithic(?) age in postglacial loessic soil southeast of Rawalpindi; 2, Potwar loess over Boulder conglomerate with Soan workshop on terrace ledge above Chauntra; 3, Old conglomerate over Dhok Pathan beds and upper edge of T3 at hand-ax site near Chauntra; 4, Late Soan workshop at base of Potwar loess at Pir Abdul, near Gila Kalan, Soan. |
+| XXX.    | 1, View into Narbada Valley north of Narsinghpur; 2,Locality 3 at Hoshangabad; 3, Upper Narbada group in Sher Nullah, near Narsinghpur; 4, Factory site near Rohri, upper Sind                                                                                                                                                                                         |
+| XXXI.   | Paleolithic implements from Soan Valley                                                                                                                                                                                                                                                                                                                                |
+| XXXII.  | Paleolithic implements from Narbada Valley                                                                                                                                                                                                                                                                                                                             |
+| XXXIII. | Large flake from the Boulder conglomerate at Kallar                                                                                                                                                                                                                                                                                                                    |
+| XXXIV.  | Early Soan pebble tools, flat-based types                                                                                                                                                                                                                                                                                                                              |
+| XXXV.   | Early Soan pebble tools, rounded-pebble types                                                                                                                                                                                                                                                                                                                          |
 
 
 
-।          ।                                                                  ।
-।----------।------------------------------------------------------------------।
-। XXXVI.   । Early Soan cores, discoidal types                                ।
-। XXXVII.  । Early Soan flakes                                                ।
-। XXXVIII. । Early Soan C cores and flakes                                    ।
-। XXXIX.   । Late Soan A cores                                                ।
-। XL.      । Late Soan A cores                                                ।
-। XLI.     । Late Soan A flakes                                               ।
-। XLII.    । Late Soan B core and flakes                                      ।
-। XLIII.   । Chauntra industry                                                ।
-। XLIV.    । Dhok Pathan industry                                             ।
-। XLV.     । XLV. Sukkur, group A: flakes, blades, and core                   ।
-। XLVI.    । Sukkur, group B: flakes, blades, and cores                       ।
-। XLVII.   । Sukkur, group C: flakes and cores                                ।
-। XLVIII.  । Sukkur, groups B and C: hand-ax type of core                     ।
-। XLIX.    । XLIX. Rohri 1: cores and waste flake                             ।
-। L.       । Rohri 1: blades                                                  ।
-। LI.      । Rohri 2: flakes                                                  ।
-। LII.     । Rohri 2: cores and picklike implement                            ।
-। LIII.    । Fossil plants from interglacial Karewa clays, Kashmir            ।
-। LIV.     । Fossil plants from interglacial Karewa clays, Kashmir            ।
-। LV.      । Map of Kashmir Valley                                            ।
-। LVI.     । Map showing the Pleistocene deposits of the Sind Valley, Kashmir ।
+|          |                                                                  |
+|----------|------------------------------------------------------------------|
+| XXXVI.   | Early Soan cores, discoidal types                                |
+| XXXVII.  | Early Soan flakes                                                |
+| XXXVIII. | Early Soan C cores and flakes                                    |
+| XXXIX.   | Late Soan A cores                                                |
+| XL.      | Late Soan A cores                                                |
+| XLI.     | Late Soan A flakes                                               |
+| XLII.    | Late Soan B core and flakes                                      |
+| XLIII.   | Chauntra industry                                                |
+| XLIV.    | Dhok Pathan industry                                             |
+| XLV.     | XLV. Sukkur, group A: flakes, blades, and core                   |
+| XLVI.    | Sukkur, group B: flakes, blades, and cores                       |
+| XLVII.   | Sukkur, group C: flakes and cores                                |
+| XLVIII.  | Sukkur, groups B and C: hand-ax type of core                     |
+| XLIX.    | XLIX. Rohri 1: cores and waste flake                             |
+| L.       | Rohri 1: blades                                                  |
+| LI.      | Rohri 2: flakes                                                  |
+| LII.     | Rohri 2: cores and picklike implement                            |
+| LIII.    | Fossil plants from interglacial Karewa clays, Kashmir            |
+| LIV.     | Fossil plants from interglacial Karewa clays, Kashmir            |
+| LV.      | Map of Kashmir Valley                                            |
+| LVI.     | Map showing the Pleistocene deposits of the Sind Valley, Kashmir |
 
 **TEXT FIGURES**
 
-।     ।                                                                                                         ।
-।-----।---------------------------------------------------------------------------------------------------------।
-। 1   । Index map showing location of the five areas with which this report is concerned.                       ।
-। 2   । River gradients on the Kashmir slope of the Pir Panjal.                                                 ।
-। 3   । Block diagrammatic sketch of the northwestern Himalaya.                                                 ।
-। 4   । Climatic conditions of Kashmir in regard to rainfall, humidity, and temperature.                        ।
-। 5   । Annual rainfall, 1923-1932, as compared with annual temperature.                                        ।
-। 6   । Map of southwestern Kashmir and the adjoining plains of the Punjab, with main structure lines....facing ।
-। 7   । Composite slope profiles showing relation of preglacial to glaciated valleys.                           ।
-। 8   । Sketch of view from Shupiyan toward the Pir Panjal and Rimbiara Valley outlet                           ।
-। 9   । Map of lower Sind Valley..                                                                              ।
-। 10  । Composite transverse section, Gandarbal to Ahateng..                                                    ।
-। 11  । Composite transverse section below Nunar.                                                               ।
-। 12  । Transverse section at Woyil, below the Mangom moraine.                                                  ।
-। 13  । Section across the Mangom moraine.                                                                      ।
-। 14  । Transverse section above the Mangom moraine.                                                            ।
-। 15  । Map of the Sind from Wusan to Margund...                                                                ।
-। 16  । Transverse and longitudinal sections on the right bank of the Sind at Dragtiyung.                       ।
-। 17  । Variation of facies in first glacial conglomerate.                                                      ।
-। 18  । Transverse section across mouth of Wangat Nullah.                                                       ।
-। 19  । Longitudinal section, Nunar to Kangan.                                                                  ।
-। 20  । Postulated conditions at Mangom during time of greatest extension of second glacier.                    ।
-। 21  । Section immediately west of Benahom.                                                                    ।
-। 22  । Longitudinal section at mouth of Wangat Nullah....                                                      ।
-। 23  । Transverse sections across the lower part of Wangat Nullah.                                             ।
-। 24  । Map of the Sind from Margund to Hari.                                                                   ।
-। 25  । View upstream from Kangan, showing spurs on the left bank.                                              ।
-। 26  । View up the Sind 2 miles beyond Margund, showing oversteepening on the left.                            ।
-। 27  । Transverse sections on right bank of the Sind between Margund and Mamar.                                ।
+|     |                                                                                                         |
+|-----|---------------------------------------------------------------------------------------------------------|
+| 1   | Index map showing location of the five areas with which this report is concerned.                       |
+| 2   | River gradients on the Kashmir slope of the Pir Panjal.                                                 |
+| 3   | Block diagrammatic sketch of the northwestern Himalaya.                                                 |
+| 4   | Climatic conditions of Kashmir in regard to rainfall, humidity, and temperature.                        |
+| 5   | Annual rainfall, 1923-1932, as compared with annual temperature.                                        |
+| 6   | Map of southwestern Kashmir and the adjoining plains of the Punjab, with main structure lines....facing |
+| 7   | Composite slope profiles showing relation of preglacial to glaciated valleys.                           |
+| 8   | Sketch of view from Shupiyan toward the Pir Panjal and Rimbiara Valley outlet                           |
+| 9   | Map of lower Sind Valley..                                                                              |
+| 10  | Composite transverse section, Gandarbal to Ahateng..                                                    |
+| 11  | Composite transverse section below Nunar.                                                               |
+| 12  | Transverse section at Woyil, below the Mangom moraine.                                                  |
+| 13  | Section across the Mangom moraine.                                                                      |
+| 14  | Transverse section above the Mangom moraine.                                                            |
+| 15  | Map of the Sind from Wusan to Margund...                                                                |
+| 16  | Transverse and longitudinal sections on the right bank of the Sind at Dragtiyung.                       |
+| 17  | Variation of facies in first glacial conglomerate.                                                      |
+| 18  | Transverse section across mouth of Wangat Nullah.                                                       |
+| 19  | Longitudinal section, Nunar to Kangan.                                                                  |
+| 20  | Postulated conditions at Mangom during time of greatest extension of second glacier.                    |
+| 21  | Section immediately west of Benahom.                                                                    |
+| 22  | Longitudinal section at mouth of Wangat Nullah....                                                      |
+| 23  | Transverse sections across the lower part of Wangat Nullah.                                             |
+| 24  | Map of the Sind from Margund to Hari.                                                                   |
+| 25  | View upstream from Kangan, showing spurs on the left bank.                                              |
+| 26  | View up the Sind 2 miles beyond Margund, showing oversteepening on the left.                            |
+| 27  | Transverse sections on right bank of the Sind between Margund and Mamar.                                |
 
 [TABLE]
 
 [TABLE]
 
-।     ।                                                                                                                         ।
-।-----।-------------------------------------------------------------------------------------------------------------------------।
-। 117 । View of the watershed east of Tatakuti, from Shahpur.                                                                  ।
-। 118 । Sections above Sarian                                                                                                  ।
-। 119 । Transverse section at Loran.                                                                                            ।
-। 120 । Transverse section between Loran and Palera.                                                                            ।
-। 121 । Transverse section at Palera.                                                                                           ।
-। 122 । View toward Palera from Loran.                                                                                          ।
-। 123 । Transverse section of Shahpur Nullah.                                                                                   ।
-। 124 । Rounded topography about Shahpur.                                                                                       ।
-। 125 । Transverse section at Poonch.                                                                                           ।
-। 126 । Transverse section at Sehr.                                                                                             ।
-। 127 । Transverse section at Mandhol.                                                                                          ।
-। 128 । Transverse section at Sehra.                                                                                            ।
-। 129 । Terrace landscape at Tahi.                                                                                              ।
-। 130 । Transverse section at Tahi.                                                                                             ।
-। 131 । Transverse section at Menithli.                                                                                         ।
-। 132 । Transverse section at Phagwari.                                                                                         ।
-। 133 । Transverse section across Kotli syncline at Kotli.                                                                      ।
-। 134 । Exposure in Phanakha Nullah, west of Kotli.                                                                             ।
-। 135 । Section of northern border of syncline at Dhangrot, cast of Kotli.                                                      ।
-। 136 । Transverse section at Rajdhani.                                                                                         ।
-। 137 । Section at Palak.                                                                                                       ।
-। 138 । Section in gully opposite Chaomukh.                                                                                     ।
-। 139 । Section on northern border of Chaomukh syncline.                                                                        ।
-। 140 । View from the rest house at Chaomukh to the east, showing the topography produced by uncomformable overlap and folding. ।
-। 141 । Transverse section of Chaomukh syncline.                                                                                ।
-। 142 । Longitudinal section of Chaomukh syncline.                                                                              ।
-। 143 । Section of terraces at Hil, on the Jhelum.                                                                              ।
-। 144 । View of the Jhelum terraces at Hil, looking east from a point opposite the village.                                     ।
-। 145 । Diagram to show the relations of the several glacial epochs in different parts of the Poonch thalweg..                  ।
-। 146 । Terraced valley at Tankse, in Ladak.                                                                                    ।
-। 147 । Glacial slope profile in Panggong Basin.                                                                                ।
-। 148 । Schematic cross sections through Kashmir Basin during the early and middle Pleistocene                                  ।
-। 149 । Generalized terrace section in Kashmir.                                                                                 ।
-। 150 । Proportionate magnitude of four glaciations in Kashmir.                                                                 ।
-। 151 । Postglacial Jhelum terrace near Pampur.                                                                                 ।
-। 152 । Map of the region between the Jhelum and Indus rivers in northwestern Punjab.                                           ।
-। 153 । Geologic sketch map of the Potwar area.                                                                                 ।
-। 154 । Cross section through Potwar between Khair-i-Murat ridge and Soan Valley.                                               ।
-। 155 । Transverse section through fault escarpment of Khair-i-Murat west of Murat.                                             ।
-। 156 । Schematic section through valley fill and adjoining slope of Kala Chitta near Hatar, Fatahjang Tahsil.                  ।
-। 157 । Sketch map of Jhelum River outlet and upper Soan drainage in relation to structure.                                     ।
-। 158 । Generalized section through Kurang Valley.                                                                              ।
-। 159 । Section through Potwar and foothills north of Rawalpindi.                                                               ।
-। 160 । Transverse section through Kahuta syncline.                                                                             ।
-। 161 । Terraces on left bank of Lei River east of Rawalpindi.                                                                  ।
-। 162 । Cross section through Soan syncline southeast of Rawalpindi.                                                            ।
+|     |                                                                                                                         |
+|-----|-------------------------------------------------------------------------------------------------------------------------|
+| 117 | View of the watershed east of Tatakuti, from Shahpur.                                                                  |
+| 118 | Sections above Sarian                                                                                                  |
+| 119 | Transverse section at Loran.                                                                                            |
+| 120 | Transverse section between Loran and Palera.                                                                            |
+| 121 | Transverse section at Palera.                                                                                           |
+| 122 | View toward Palera from Loran.                                                                                          |
+| 123 | Transverse section of Shahpur Nullah.                                                                                   |
+| 124 | Rounded topography about Shahpur.                                                                                       |
+| 125 | Transverse section at Poonch.                                                                                           |
+| 126 | Transverse section at Sehr.                                                                                             |
+| 127 | Transverse section at Mandhol.                                                                                          |
+| 128 | Transverse section at Sehra.                                                                                            |
+| 129 | Terrace landscape at Tahi.                                                                                              |
+| 130 | Transverse section at Tahi.                                                                                             |
+| 131 | Transverse section at Menithli.                                                                                         |
+| 132 | Transverse section at Phagwari.                                                                                         |
+| 133 | Transverse section across Kotli syncline at Kotli.                                                                      |
+| 134 | Exposure in Phanakha Nullah, west of Kotli.                                                                             |
+| 135 | Section of northern border of syncline at Dhangrot, cast of Kotli.                                                      |
+| 136 | Transverse section at Rajdhani.                                                                                         |
+| 137 | Section at Palak.                                                                                                       |
+| 138 | Section in gully opposite Chaomukh.                                                                                     |
+| 139 | Section on northern border of Chaomukh syncline.                                                                        |
+| 140 | View from the rest house at Chaomukh to the east, showing the topography produced by uncomformable overlap and folding. |
+| 141 | Transverse section of Chaomukh syncline.                                                                                |
+| 142 | Longitudinal section of Chaomukh syncline.                                                                              |
+| 143 | Section of terraces at Hil, on the Jhelum.                                                                              |
+| 144 | View of the Jhelum terraces at Hil, looking east from a point opposite the village.                                     |
+| 145 | Diagram to show the relations of the several glacial epochs in different parts of the Poonch thalweg..                  |
+| 146 | Terraced valley at Tankse, in Ladak.                                                                                    |
+| 147 | Glacial slope profile in Panggong Basin.                                                                                |
+| 148 | Schematic cross sections through Kashmir Basin during the early and middle Pleistocene                                  |
+| 149 | Generalized terrace section in Kashmir.                                                                                 |
+| 150 | Proportionate magnitude of four glaciations in Kashmir.                                                                 |
+| 151 | Postglacial Jhelum terrace near Pampur.                                                                                 |
+| 152 | Map of the region between the Jhelum and Indus rivers in northwestern Punjab.                                           |
+| 153 | Geologic sketch map of the Potwar area.                                                                                 |
+| 154 | Cross section through Potwar between Khair-i-Murat ridge and Soan Valley.                                               |
+| 155 | Transverse section through fault escarpment of Khair-i-Murat west of Murat.                                             |
+| 156 | Schematic section through valley fill and adjoining slope of Kala Chitta near Hatar, Fatahjang Tahsil.                  |
+| 157 | Sketch map of Jhelum River outlet and upper Soan drainage in relation to structure.                                     |
+| 158 | Generalized section through Kurang Valley.                                                                              |
+| 159 | Section through Potwar and foothills north of Rawalpindi.                                                               |
+| 160 | Transverse section through Kahuta syncline.                                                                             |
+| 161 | Terraces on left bank of Lei River east of Rawalpindi.                                                                  |
+| 162 | Cross section through Soan syncline southeast of Rawalpindi.                                                            |
 
-।     ।                                                                                                                                                                               ।
-।-----।-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। 163 । Cross section through deposits of second to third glacial age on Grand Trunk Road southeast of Rawalpindi.                                                                    ।
-। 164 । Section showing Potwar beds as ancient valley fill on Boulder conglomerate south of Grand Trunk Road near Rawalpindi.                                                         ।
-। 165 । Generalized section near Malakpur.                                                                                                                                            ।
-। 166 । Section through Soan syncline at Adial.                                                                                                                                       ।
-। 167 । Cross section at locality 1, above Adial (Soan).                                                                                                                              ।
-। 168 । Section of western slope of Soan Valley above Chauntra.                                                                                                                       ।
-। 169 । Section across gravel ridge at Hun, above Chauntra.                                                                                                                           ।
-। 170 । Cross section through Rakh Dungi Ridge, opposite Chauntra                                                                                                                     ।
-। 171 । Cross section through eastern slope of Rakh Dungi Ridge.                                                                                                                      ।
-। 172 । A, Potwar loess over synclinal structure of Siwalik beds southeast of Chauntra; B, Section at Chauntra site, with ancient terrace gravel overlain by redeposited Potwar silt. ।
-। 173 । A, Composite section through right bank of Soan River below Chakri; B, C, Detailed sections at localities 3 and 4.                                                            ।
-। 174 । A, Cross section through left bank of Soan Valley near Gila Kalan; B, Detailed section at Pir Abdul.                                                                          ।
-। 175 । Cross section through right bank of Soan Valley near Sihala.                                                                                                                  ।
-। 176 । Section on eastern slope of ridge near Gujar Khan.                                                                                                                            ।
-। 177 । 177. General section through Soan terraces above Chauntra .                                                                                                                   ।
-। 178 । "Ridge gravels" as ancient valley fill in Salt Range near Bandhar.                                                                                                            ।
-। 179 । General section through northern slope of Naushahra Basin near Chitta, Salt Range.                                                                                            ।
-। 180 । Map showing distribution of prehistoric sites in the northwestern Punjab.                                                                                                     ।
-। 181 । Transverse section through Indus terraces near confluence with Soan River                                                                                                     ।
-। 182 । Composite transverse section through Narbada Valley near Narsinghpur.                                                                                                         ।
-। 183 । Map of Narbada sites near Hoshangabad and Narsinghpur                                                                                                                         ।
-। 184 । Cross section through left river bank at Hoshangabad.                                                                                                                         ।
-। 185 । Section on right river bank below railroad bridge, Hoshangabad.                                                                                                               ।
-। 186 । Generalized cross section through Adamgarh Hill, near Hoshangabad.                                                                                                            ।
-। 187 । Cross section through a late Narbada filling at Janakpur.                                                                                                                     ।
-। 188 । Section through right bank of Umar River.                                                                                                                                     ।
-। 189 । Section through left bank of Narbada River.                                                                                                                                   ।
-। 190 । Section near Jhansi Ghat.                                                                                                                                                     ।
-। 191 । Terrace section at locality 13.                                                                                                                                               ।
-। 192 । Terrace sequence near Madras.                                                                                                                                                 ।
-। 193 । Sections near Sukkur and Rohri.                                                                                                                                               ।
+|     |                                                                                                                                                                               |
+|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 163 | Cross section through deposits of second to third glacial age on Grand Trunk Road southeast of Rawalpindi.                                                                    |
+| 164 | Section showing Potwar beds as ancient valley fill on Boulder conglomerate south of Grand Trunk Road near Rawalpindi.                                                         |
+| 165 | Generalized section near Malakpur.                                                                                                                                            |
+| 166 | Section through Soan syncline at Adial.                                                                                                                                       |
+| 167 | Cross section at locality 1, above Adial (Soan).                                                                                                                              |
+| 168 | Section of western slope of Soan Valley above Chauntra.                                                                                                                       |
+| 169 | Section across gravel ridge at Hun, above Chauntra.                                                                                                                           |
+| 170 | Cross section through Rakh Dungi Ridge, opposite Chauntra                                                                                                                     |
+| 171 | Cross section through eastern slope of Rakh Dungi Ridge.                                                                                                                      |
+| 172 | A, Potwar loess over synclinal structure of Siwalik beds southeast of Chauntra; B, Section at Chauntra site, with ancient terrace gravel overlain by redeposited Potwar silt. |
+| 173 | A, Composite section through right bank of Soan River below Chakri; B, C, Detailed sections at localities 3 and 4.                                                            |
+| 174 | A, Cross section through left bank of Soan Valley near Gila Kalan; B, Detailed section at Pir Abdul.                                                                          |
+| 175 | Cross section through right bank of Soan Valley near Sihala.                                                                                                                  |
+| 176 | Section on eastern slope of ridge near Gujar Khan.                                                                                                                            |
+| 177 | 177. General section through Soan terraces above Chauntra .                                                                                                                   |
+| 178 | "Ridge gravels" as ancient valley fill in Salt Range near Bandhar.                                                                                                            |
+| 179 | General section through northern slope of Naushahra Basin near Chitta, Salt Range.                                                                                            |
+| 180 | Map showing distribution of prehistoric sites in the northwestern Punjab.                                                                                                     |
+| 181 | Transverse section through Indus terraces near confluence with Soan River                                                                                                     |
+| 182 | Composite transverse section through Narbada Valley near Narsinghpur.                                                                                                         |
+| 183 | Map of Narbada sites near Hoshangabad and Narsinghpur                                                                                                                         |
+| 184 | Cross section through left river bank at Hoshangabad.                                                                                                                         |
+| 185 | Section on right river bank below railroad bridge, Hoshangabad.                                                                                                               |
+| 186 | Generalized cross section through Adamgarh Hill, near Hoshangabad.                                                                                                            |
+| 187 | Cross section through a late Narbada filling at Janakpur.                                                                                                                     |
+| 188 | Section through right bank of Umar River.                                                                                                                                     |
+| 189 | Section through left bank of Narbada River.                                                                                                                                   |
+| 190 | Section near Jhansi Ghat.                                                                                                                                                     |
+| 191 | Terrace section at locality 13.                                                                                                                                               |
+| 192 | Terrace sequence near Madras.                                                                                                                                                 |
+| 193 | Sections near Sukkur and Rohri.                                                                                                                                               |
 
 **STUDIES ON THE ICE AGE IN INDIA AND  
 ASSOCIATED HUMAN CULTURES**
@@ -1372,18 +1372,18 @@ revealed. Near Sangarwein and Abhom this clay gives rise to precipitous cliffs o
  3. Upper lignite zone: At Laradura and in the Handawor area, the thickest coal measures appear in a series of cross-bedded brown sand overlain by lignite bearing shaly silt and sands. (See petrologic analysis of specimen 5 by Krynine.) At Laradura (fig. 73) the lower lignite lies several hundred feet below the upper lignite beds, and as these appear above the brown sand, it is possible to trace this horizon by means of this superposition. On the Shaliganga River this brown sand  
 appears under the lignite-bearing clay beds, and at Nichahom, near Handawor, shaly sandstone is exposed in the deepest portions of a similar sequence. At Nichahom and Laradura there are five or six different beds of lignite. Middlemiss (1924, p. 247) cited the following section from a steep scarp about three-quarters of a mile southwest of Nichahom:
 
-।                                ।     ।     ।
-।--------------------------------।-----।-----।
-।                               । Ft. । In. ।
-। Sandy bed                      । 5   ।    ।
-। Impure lignite                 । 2   ।    ।
-। Lignite                        । 6   ।    ।
-। Very tough clay                । 1   । 8   ।
-। Lignitic and carbonaceous clay । 2   । 8   ।
-। Gray sandy, shelly bed         । 2   । 6   ।
-। Carbonaceous clay              ।    । 10  ।
-। Lignite                        । 1   । 10  ।
-। Blue clay                      । 6   । 10  ।
+|                                |     |     |
+|--------------------------------|-----|-----|
+|                               | Ft. | In. |
+| Sandy bed                      | 5   |    |
+| Impure lignite                 | 2   |    |
+| Lignite                        | 6   |    |
+| Very tough clay                | 1   | 8   |
+| Lignitic and carbonaceous clay | 2   | 8   |
+| Gray sandy, shelly bed         | 2   | 6   |
+| Carbonaceous clay              |    | 10  |
+| Lignite                        | 1   | 10  |
+| Blue clay                      | 6   | 10  |
 
 
  Here, as well as at Laradura, brown sand overlies the coal beds. The coal beds, then, are really embedded in a clay-bearing sand, whose cross-bedding leaves little doubt as to the fluvial origin. The close association of river sand with lignite characterizes this series as belonging to a period of heavy delta deposition on the slope of the Pir Panjal. The Karewa Lake, no doubt, was still in existence, as the lignite is found in a bedded clay matrix filled with fresh-water mollusks. The thickness of the lower sand is about 140 feet, that of the lignite-bearing clays is at least 180 feet, and the upper shaly sandstone ranges from 110 to 350 feet. The greatest thickness in this shaly sandstone was found above Nilnag, where the fan character is made evident by forest bedding and gravel content. The total thickness of this zone is therefore at its maximum 670 feet.  
@@ -1557,13 +1557,13 @@ Selaginella?
 
  The following genera were identified from pollen only (Wodehouse and De Terra, 1935, p. 5):
 
-।                       ।                            ।
-।-----------------------।----------------------------।
-। Picea sp.             । Alnus sp.                  ।
-। Abies sp.             । Juglans sp.                ।
-। Ephedra sp.           । Persicaria sp.             ।
-। Gramineae gen. indet. । Chenopodiaceae gen. indet. ।
-। Carpinus? sp.         । Artemisia sp.              ।
+|                       |                            |
+|-----------------------|----------------------------|
+| Picea sp.             | Alnus sp.                  |
+| Abies sp.             | Juglans sp.                |
+| Ephedra sp.           | Persicaria sp.             |
+| Gramineae gen. indet. | Chenopodiaceae gen. indet. |
+| Carpinus? sp.         | Artemisia sp.              |
 
 
  In addition, Middlemiss (1910, p. 122) listed Cinnamomum? tamala and possibly Jasminum*.*
@@ -1572,109 +1572,109 @@ Selaginella?
 
  Sample K 30. Kashmir (Karewa), India. Fresh-water clay belonging to Lower Karewa beds (first interglacial). Much lime. Diatoms present, but all badly broken.
 
-।                                               ।     ।
-।-----------------------------------------------।-----।
-। Amphora ovalis var. lybica (Ehr.) Cl....      । S   ।
-। Cymatopleura elliptica W. Sm...               । S   ।
-। Cymbella ehrenbergii Ktz...                   । C   ।
-। Cymbella lanceolata (Ehr.) V. H...            । C   ।
-। Epithemia argus Ktz..                         । C   ।
-। Epithemia zebra (Ehr.) Ktz.....               । C   ।
-। Navicula ambigua Ehr. (craticular form)...... । S   ।
-। Navicula amphirhynchus Ehr.....               । S   ।
-। Navicula cuspidata Ktz.....                   । S   ।
-। Navicula viridis (Nitzsch) Ktz.....           । F   ।
-। Rhopalodia gibba (Ehr.) O. Müll...            । F   ।
-। Stauroneis phoenicenteron Ehr..               । VC  ।
-। Synedra ulna (Nitzsch) Ehr....                । S   ।
+|                                               |     |
+|-----------------------------------------------|-----|
+| Amphora ovalis var. lybica (Ehr.) Cl....      | S   |
+| Cymatopleura elliptica W. Sm...               | S   |
+| Cymbella ehrenbergii Ktz...                   | C   |
+| Cymbella lanceolata (Ehr.) V. H...            | C   |
+| Epithemia argus Ktz..                         | C   |
+| Epithemia zebra (Ehr.) Ktz.....               | C   |
+| Navicula ambigua Ehr. (craticular form)...... | S   |
+| Navicula amphirhynchus Ehr.....               | S   |
+| Navicula cuspidata Ktz.....                   | S   |
+| Navicula viridis (Nitzsch) Ktz.....           | F   |
+| Rhopalodia gibba (Ehr.) O. Müll...            | F   |
+| Stauroneis phoenicenteron Ehr..               | VC  |
+| Synedra ulna (Nitzsch) Ehr....                | S   |
 
 (Cymbella ehrenbergii and the Epithemias dominate this sample.)
 
  Sample. Handawor (Lower Karewa beds), India. Fresh water. Very soft dark-gray shale, peaty, containing numerous very minute snail shells. Much lime. Many, and a great variety of diatoms:
 
-।                                                ।      ।
-।------------------------------------------------।------।
-। Amphipleura pellucida Ktz....                  । \*VS ।
-। Amphora ovalis Ktz......                       । F    ।
-। Amphora ovalis Ktz. var. lybica (Ehr.) Cl..... । F    ।
-। Amphora ovalis Ktz. var. pediculus Ktz...      । S    ।
-। Cocconeis placentula Ehr. (and varieties).     । VC   ।
-। Amphora ovalis Ktz .var.pediculus Ktz          । VC   ।
-। Cymatopleura elliptica W. Sm..                 । VS   ।
-। Cymatopleura solea (Breb.) W. Sm.....          । VC   ।
-। Cymbella cesatii (Rabh.) Grun.....             । \*S  ।
-। Cymbella cistula (Hemp.) Kirchn...             । C    ।
+|                                                |      |
+|------------------------------------------------|------|
+| Amphipleura pellucida Ktz....                  | \*VS |
+| Amphora ovalis Ktz......                       | F    |
+| Amphora ovalis Ktz. var. lybica (Ehr.) Cl..... | F    |
+| Amphora ovalis Ktz. var. pediculus Ktz...      | S    |
+| Cocconeis placentula Ehr. (and varieties).     | VC   |
+| Amphora ovalis Ktz .var.pediculus Ktz          | VC   |
+| Cymatopleura elliptica W. Sm..                 | VS   |
+| Cymatopleura solea (Breb.) W. Sm.....          | VC   |
+| Cymbella cesatii (Rabh.) Grun.....             | \*S  |
+| Cymbella cistula (Hemp.) Kirchn...             | C    |
 
 
 
-।                                                               ।      ।
-।---------------------------------------------------------------।------।
-। Cymbella ehrenbergii Ktz..                                    । VC   ।
-। Cymbella lanceolata (Ehr.) V. H..                             । F    ।
-। Cymbella prostrata (Berk.) Cl..                               । \*S  ।
-। Cymbella turgida (Greg.) Cl...                                । \*S  ।
-। Cymbella ventricosa Ktz...                                    । F    ।
-। Epithemia argus Ktz..                                         । VC   ।
-। Epithemia sorex Ktz..                                         । C    ।
-। Epithemia turgida (Ehr.) Ktz..                                । C    ।
-। Epithemia zebra (Ehr.) Ktz...                                 । C    ।
-। Epithemia zebra (Ehr.) Ktz. var. porcellus (Ktz.) Grun...     । C    ।
-। Fragilaria capucina Desm...                                   । F    ।
-। Fragilaria construens (Ehr.) Grun.                            । S    ।
-। Gomphonema capitatum Ehr..                                    । \*S  ।
-। Gomphonema constrictum Ehr...                                 । F    ।
-। Gomphonema geminatum Ag. var. hybrida Grun....                । \*S  ।
-। Gomphonema intricatum Ktz..                                   । C    ।
-। Gomphonema lanceolatum Ehr........                            । C    ।
-। Navicula amphisbaena Bory.                                    । F    ।
-। Navicula bacilliformis Grun.                                  । VS   ।
-। Navicula borealis Ehr...                                      । VS   ।
-। Navicula (Pinnularia) brebissonii Ktz.                        । F    ।
-। Navicula cuspidata Ktz.                                       । F    ।
-। Navicula (Neidium) iridis Ehr..                               । \*S  ।
-। Navicula (Neidium) kozlowi Meresch.                           । \*S  ।
-। Navicula limosa Ktz..                                         । \*S  ।
-। Navicula major Grun. var..                                    । F    ।
-। Navicula oblonga Ktz..                                        । VC   ।
-। Navicula polygramma Ehr.                                      । VC   ।
-। Navicula radiosa Ktz...                                       । VC   ।
-। Navicula sphaerophora Ktz...                                  । \*VC ।
-। Navicula viridis (Nitzsch) Ktz..                              । F    ।
-। Nitzschia angustata (W. Sm.) Grun.                            । F    ।
-। Nitzschia hungarica Grun..                                    । C    ।
-। Nitzschia palea (Ktz.) W. Sm...                               । S    ।
-। Nitzschia sigmoidea (Ehr.) W. Sm...                           । C    ।
-। Pleurosigma attenuatum Ktz..                                  । VS   ।
-। Pleurosigma kützingii Grun.....                               । VS   ।
-। Rhoicosphenia curvata (Ktz.) Grun..                           । VC   ।
-। Rhopalodia gibba (Ehr.) O. Müll...                            । C    ।
-। Rhopalodia gibba (Ehr.) O. Müll. var. ventricosa (Ehr.) Grun. । VS   ।
-। Stauroneis anceps Ehr..                                       । S    ।
-। Stauroneis phoenicenteron Ehr..                               । S    ।
-। Stephanodiscus astraca (Ehr.) Grun..                          । VS   ।
-। Surirella bifrons Ktz...                                      । \*VC ।
-। Synedra capitata Ehr..                                        । S    ।
-। Synedra gaillonii (Bory) Ehr..                                । S    ।
-। Synedra obtusa W. Sm....                                      । S    ।
-। Synedra pulchella Ktz.....                                    । VC   ।
-। Synedra ulna (Nitzsch) Ehr...                                 । S    ।
-। Synedra ulna (Nitzsch) Ehr. var. danica (Ktz.) Grun..         । S    ।
-। Synedra vitrea Ktz..                                          । \*S  ।
+|                                                               |      |
+|---------------------------------------------------------------|------|
+| Cymbella ehrenbergii Ktz..                                    | VC   |
+| Cymbella lanceolata (Ehr.) V. H..                             | F    |
+| Cymbella prostrata (Berk.) Cl..                               | \*S  |
+| Cymbella turgida (Greg.) Cl...                                | \*S  |
+| Cymbella ventricosa Ktz...                                    | F    |
+| Epithemia argus Ktz..                                         | VC   |
+| Epithemia sorex Ktz..                                         | C    |
+| Epithemia turgida (Ehr.) Ktz..                                | C    |
+| Epithemia zebra (Ehr.) Ktz...                                 | C    |
+| Epithemia zebra (Ehr.) Ktz. var. porcellus (Ktz.) Grun...     | C    |
+| Fragilaria capucina Desm...                                   | F    |
+| Fragilaria construens (Ehr.) Grun.                            | S    |
+| Gomphonema capitatum Ehr..                                    | \*S  |
+| Gomphonema constrictum Ehr...                                 | F    |
+| Gomphonema geminatum Ag. var. hybrida Grun....                | \*S  |
+| Gomphonema intricatum Ktz..                                   | C    |
+| Gomphonema lanceolatum Ehr........                            | C    |
+| Navicula amphisbaena Bory.                                    | F    |
+| Navicula bacilliformis Grun.                                  | VS   |
+| Navicula borealis Ehr...                                      | VS   |
+| Navicula (Pinnularia) brebissonii Ktz.                        | F    |
+| Navicula cuspidata Ktz.                                       | F    |
+| Navicula (Neidium) iridis Ehr..                               | \*S  |
+| Navicula (Neidium) kozlowi Meresch.                           | \*S  |
+| Navicula limosa Ktz..                                         | \*S  |
+| Navicula major Grun. var..                                    | F    |
+| Navicula oblonga Ktz..                                        | VC   |
+| Navicula polygramma Ehr.                                      | VC   |
+| Navicula radiosa Ktz...                                       | VC   |
+| Navicula sphaerophora Ktz...                                  | \*VC |
+| Navicula viridis (Nitzsch) Ktz..                              | F    |
+| Nitzschia angustata (W. Sm.) Grun.                            | F    |
+| Nitzschia hungarica Grun..                                    | C    |
+| Nitzschia palea (Ktz.) W. Sm...                               | S    |
+| Nitzschia sigmoidea (Ehr.) W. Sm...                           | C    |
+| Pleurosigma attenuatum Ktz..                                  | VS   |
+| Pleurosigma kützingii Grun.....                               | VS   |
+| Rhoicosphenia curvata (Ktz.) Grun..                           | VC   |
+| Rhopalodia gibba (Ehr.) O. Müll...                            | C    |
+| Rhopalodia gibba (Ehr.) O. Müll. var. ventricosa (Ehr.) Grun. | VS   |
+| Stauroneis anceps Ehr..                                       | S    |
+| Stauroneis phoenicenteron Ehr..                               | S    |
+| Stephanodiscus astraca (Ehr.) Grun..                          | VS   |
+| Surirella bifrons Ktz...                                      | \*VC |
+| Synedra capitata Ehr..                                        | S    |
+| Synedra gaillonii (Bory) Ehr..                                | S    |
+| Synedra obtusa W. Sm....                                      | S    |
+| Synedra pulchella Ktz.....                                    | VC   |
+| Synedra ulna (Nitzsch) Ehr...                                 | S    |
+| Synedra ulna (Nitzsch) Ehr. var. danica (Ktz.) Grun..         | S    |
+| Synedra vitrea Ktz..                                          | \*S  |
 
  Sample K 17. Kashmir (Karewa), India. Medium hard, dark-gray shale. Many minute snail shells. Much lime. Diatoms abundant, many broken.
 
-।                                       ।     ।
-।---------------------------------------।-----।
-। Cocconeis placentula Ehr....          । S   ।
-। Cymatopleura solea (Breb.) W. Sm..... । S   ।
-। Cymbella ehrenbergii Ktz.....         । F   ।
-। Cymbella lanceolata (Ehr.) V. H...... । S   ।
-। Cymbella ventricosa Ktz..             । S   ।
-। Epithemia argus Ktz...                । F   ।
-। Epithemia zebra (Ehr.) Ktz..          । F   ।
-। Gomphonema intricatum Ktz..           । S   ।
-। Navicula viridis (Nitzsch) Ktz..      । S   ।
-। Stauroneis phoenicenteron Ehr..       । S   ।
+|                                       |     |
+|---------------------------------------|-----|
+| Cocconeis placentula Ehr....          | S   |
+| Cymatopleura solea (Breb.) W. Sm..... | S   |
+| Cymbella ehrenbergii Ktz.....         | F   |
+| Cymbella lanceolata (Ehr.) V. H...... | S   |
+| Cymbella ventricosa Ktz..             | S   |
+| Epithemia argus Ktz...                | F   |
+| Epithemia zebra (Ehr.) Ktz..          | F   |
+| Gomphonema intricatum Ktz..           | S   |
+| Navicula viridis (Nitzsch) Ktz..      | S   |
+| Stauroneis phoenicenteron Ehr..       | S   |
 
  Mr. Conger comments as follows:
 
@@ -1706,11 +1706,11 @@ Selaginella?
 
  Of invertebrate fossils a great many fresh-water and a few land mollusks were collected at various horizons in the Lower and Upper Karewa beds. The Lower Karewa beds are especially rich in shells, which occur most abundantly inthe gray clay layers but also in shaly sands of the lignitic beds. Although the material has not yet been fully studied, it is nevertheless possible to assign most of the fossils to a few genera, some of which were previously described from othercollections by Prashad (1925). He listed the following forms from a Lower Karewa horizon:
 
-।                                              ।                 ।
-।----------------------------------------------।-----------------।
-। Bensonia sp.                                 । Corbicula sp.   ।
-। Bithynia tentaculata var. kashmirensis Nev.  । Lamellidens sp. ।
-। Gyraulus cf. pankongensis (Neville) v. Mart. । Planorbis sp.   ।
+|                                              |                 |
+|----------------------------------------------|-----------------|
+| Bensonia sp.                                 | Corbicula sp.   |
+| Bithynia tentaculata var. kashmirensis Nev.  | Lamellidens sp. |
+| Gyraulus cf. pankongensis (Neville) v. Mart. | Planorbis sp.   |
 
  *Bithynia, Gyraulus, and Planorbis* are at present found in Kashmir in association with palearctic [forms](# "According to a manuscript by Dr. Prashad on "),but that does not necessarily mean that the freshwater fauna of Lower Karewa time was of the same type. No definite conclusions can be drawn from the small collection described by Prashad, but Mr. Conger in commenting on the [diatoms](# " By letter to me")assures me that the forms listed from Handawor indicate a mild temperate climate.
 
@@ -1939,15 +1939,15 @@ lake beds. At the same time the Upper Karewa silt gains in thickness until it fi
 
  *Fourth glaciation*—The progressive shrinkage of the size of glaciers toward the end of Pleistocene time is nowhere more evident than in this region. To begin with, the terminal moraine (TMIv) is encountered at 8,863 feet, below the ford by which one crosses the Harseni River in order to get to Narilwein (fig. 85). This position is 1,200 feet above that of the third terminal moraine. It is an incompletely preserved ridge of large angular boulders which traverses the valley. some 40 feet below the level of T3. Here knoblike masses of this boulder moraine are found on both banks, and some of them are 30 feet high. Below the moraine there are neither any glacial deposits nor any morphologic traces of a younger glaciation, whereas upstream lateral moraines abound. This situation makes us believe that this moraine (TMiv) is the lowest glacial deposit of this ice advance. The fourth glacier apparently never entered the gorge, and its total length was about 10 miles. Its thickness must have been under 100 feet, for that is the total height of the slope from T3 on downward, on which no traces of glacial action were found. Lateral moraines usually accompany the stream up to a height of 25 feet,pe wash there is no sure way of telling how far up they had lain originally. A comparison of data relating both to the present glaciation of this valley and to the Pleistocene Harseni Glacier will show how extensive this latest ice advance was.
 
-।                        ।               ।                 ।
-।------------------------।---------------।-----------------।
-।                       । Budil Glacier । Harseni Glacier ।
-। Glacier snout (fect).  । 11,600        । TMIV:  8,760 ।
-। Glacier height (feet)  । 110           । \>100           ।
-। Glacier width (feet))  । 400           । 300-400         ।
-। Glacier length (miles) । 134           । 10              ।
-। Cirque level (feet).   । 13.400        । 13,000          ।
-। Snow line (feet).      । 215,000       । 214.000         ।
+|                        |               |                 |
+|------------------------|---------------|-----------------|
+|                       | Budil Glacier | Harseni Glacier |
+| Glacier snout (fect).  | 11,600        | TMIV:  8,760 |
+| Glacier height (feet)  | 110           | \>100           |
+| Glacier width (feet))  | 400           | 300-400         |
+| Glacier length (miles) | 134           | 10              |
+| Cirque level (feet).   | 13.400        | 13,000          |
+| Snow line (feet).      | 215,000       | 214.000         |
 
  A terminal moraine wall intermediate between TMiv and the snout of the Budil Glacier (fig. 85) encircles a narrow lake in the valley floor at 11,085 feet and lies not quite 2 miles from the Budil Glacier. This moraine obviously marks a brief glacial advance of relatively recent date and should be considered of post Pleistocene age. We will call this stage a fifth glaciation and designate the terminal moraines by TMv.
 
@@ -2748,10 +2748,10 @@ great differences in level within a single valley tract-for example, the Poonch 
 
 *Altitude in feet of postglacial and fourth glacial moraines*
 
-।                                                            ।              ।              ।              ।              ।               ।              ।               ।
-।:----------------------------------------------------------:।:------------:।:------------:।:------------:।:------------:।:-------------:।:------------:।:-------------:।
-।                                                           ।     Sind     ।    Liddar    ।   Harseni    ।   Sokhnagh   ।    Gulmarg    ।    Ningle    ।    Poonch     ।
-। Postglacial terminal moraines. Fourth glacial moraines.... । 10,500 8,800 । 11,500 9,200 । 11,085 8,760 । 12,500 9,000 । ?11,000 9,000 । 13,000 9,600 । 12,500 10,500 ।
+|                                                            |              |              |              |              |               |              |               |
+|:----------------------------------------------------------:|:------------:|:------------:|:------------:|:------------:|:-------------:|:------------:|:-------------:|
+|                                                           |     Sind     |    Liddar    |   Harseni    |   Sokhnagh   |    Gulmarg    |    Ningle    |    Poonch     |
+| Postglacial terminal moraines. Fourth glacial moraines.... | 10,500 8,800 | 11,500 9,200 | 11,085 8,760 | 12,500 9,000 | ?11,000 9,000 | 13,000 9,600 | 12,500 10,500 |
 
  In all these valleys the younger terminal moraines are distinguished from the older set (1) by their higher position, which in some of them is close to the lowest limit of present glaciation; (2) by their fresher state of preservation; (3) by their lesser thickness; and (4) by the selection of boulders derived from the nearest cirques. This glacial débris is clearly more closely associated with the recent moraines than with any belonging to the last glaciation. In the Sind and Tosh Maidan regions more than one moraine appears, but it is not clear whether these represent different retreat stages of the same glacier or short ice advances.
 
@@ -2841,19 +2841,19 @@ the glacial age but that it continued, as in northern China and Europe, into pos
 
 * General composition.—*
 
-।                                ।               ।
-।--------------------------------।---------------।
-। Soluble in cold HCl (C_(a)CO₃) । 67.93 percent ।
-। Insoluble residue              । 32.07         ।
+|                                |               |
+|--------------------------------|---------------|
+| Soluble in cold HCl (C_(a)CO₃) | 67.93 percent |
+| Insoluble residue              | 32.07         |
 
 * Mechanical analysis of insoluble residue (condensed).-*
 
-।             ।             ।
-।-------------।-------------।
-। Sand        । 0.3 percent ।
-। Coarse silt । 33.7        ।
-। Fine silt   । 41.1        ।
-। Clay        । 21.8        ।
+|             |             |
+|-------------|-------------|
+| Sand        | 0.3 percent |
+| Coarse silt | 33.7        |
+| Fine silt   | 41.1        |
+| Clay        | 21.8        |
 
  *Microscopic examination.-*Subparallel wavy laminations due to varying amounts of organic content are faintly visible. Plant (?) remains are mostly arranged parallel and elongated.
 
@@ -2875,10 +2875,10 @@ the glacial age but that it continued, as in northern China and Europe, into pos
 
 * General composition.—*
 
-।                             ।               ।
-।-----------------------------।---------------।
-। Soluble in cold HCl (CaCO₂) । 91.20 percent ।
-। Insoluble residue           । 8.80          ।
+|                             |               |
+|-----------------------------|---------------|
+| Soluble in cold HCl (CaCO₂) | 91.20 percent |
+| Insoluble residue           | 8.80          |
 
  *Mechanical analysis of insoluble residue.*-Could not be made owing to insufficient amount of insoluble residue.
 
@@ -2906,12 +2906,12 @@ the glacial age but that it continued, as in northern China and Europe, into pos
 
 * Mechanical analysis (condensed).—*
 
-।             ।              ।
-।-------------।--------------।
-। Sand        । 21.0 percent ।
-। Coarse silt । 25.4         ।
-। Fine silt   । 29.3         ।
-। Clay        । 23.0         ।
+|             |              |
+|-------------|--------------|
+| Sand        | 21.0 percent |
+| Coarse silt | 25.4         |
+| Fine silt   | 29.3         |
+| Clay        | 23.0         |
 
  *Microscopic examination.*—The rock is a microconglomerate, a structureless, almost till-like jumble of grains of different sizes embedded in a dark organic matrix. The grains form 20 to 25 percent of the mass, the organic matter 40 percent, and the balance is made up of finer clayey  
 and colloidal material.
@@ -2934,23 +2934,23 @@ and colloidal material.
  A petrographic analysis shows the following composition for the fine-sand fraction (0.25 mm):  
 
 
-।                                              ।            ।
-।----------------------------------------------।------------।
-। Quartz                                       । 48 percent ।
-। Phyllite schist and sericitic rock fragments । 35         ।
-। Wood fragments                               । 14         ।
-। Feldspar                                     । 3          ।
+|                                              |            |
+|----------------------------------------------|------------|
+| Quartz                                       | 48 percent |
+| Phyllite schist and sericitic rock fragments | 35         |
+| Wood fragments                               | 14         |
+| Feldspar                                     | 3          |
 
  The relative angularity of the quartz and phyllite-schist suites is as follows:  
 
 
-।              ।              ।                ।
-।--------------।--------------।----------------।
-।             । Quartz suite । Phyllite suite ।
-। Very angular । 5 percent    । 0 percent      ।
-। Angular      । 20-25        । 5              ।
-। Subangular   । 70           । 55-60          ।
-। Rounded      । 1-2          । 40             ।
+|              |              |                |
+|--------------|--------------|----------------|
+|             | Quartz suite | Phyllite suite |
+| Very angular | 5 percent    | 0 percent      |
+| Angular      | 20-25        | 5              |
+| Subangular   | 70           | 55-60          |
+| Rounded      | 1-2          | 40             |
 
  These comparative figures indicate a relatively short fluvial transport, sufficient to round well the softer material (schists, phyllites) but insufficient to affect very much the more resistant quartz grains.
 
@@ -2968,19 +2968,19 @@ and colloidal material.
 
 * General composition.—*
 
-।                             ।               ।
-।-----------------------------।---------------।
-। Soluble in cold HCI (CaCO₂) । 23.77 percent ।
-। Insoluble residue           । 76.23         ।
+|                             |               |
+|-----------------------------|---------------|
+| Soluble in cold HCI (CaCO₂) | 23.77 percent |
+| Insoluble residue           | 76.23         |
 
  *Mechanical analysis of insoluble residue (condensed).—*
 
-।             ।             ।
-।-------------।-------------।
-। Sand        । 2.1 percent ।
-। Coarse silt । 25-5        ।
-। Fine silt   । 53.5        ।
-। Clay        । 17.1        ।
+|             |             |
+|-------------|-------------|
+| Sand        | 2.1 percent |
+| Coarse silt | 25-5        |
+| Fine silt   | 53.5        |
+| Clay        | 17.1        |
 
  *Microscopic examination.*—The rock is an almost structureless microconglomerate containing from 5 to 10 percent of large sand grains and shell fragments embedded in a ground mass consisting of a gradational series of finer sand grains and rock flour (ço percent) and recrystallized colloidal matter (40 percent).
 
@@ -3001,19 +3001,19 @@ and colloidal material.
 
  *General composition.—*
 
-।                             ।               ।
-।-----------------------------।---------------।
-। Soluble in cold HCl (CaCO₂) । 39.16 percent ।
-। Insoluble residue           । 60.84         ।
+|                             |               |
+|-----------------------------|---------------|
+| Soluble in cold HCl (CaCO₂) | 39.16 percent |
+| Insoluble residue           | 60.84         |
 
 * Mechanical analysis of insoluble residue (condensed).—*
 
-।             ।             ।
-।-------------।-------------।
-। Sand        । 0.2 percent ।
-। Coarse silt । 37.1        ।
-। Fine silt   । 43.1        ।
-। Clay        । 20.6        ।
+|             |             |
+|-------------|-------------|
+| Sand        | 0.2 percent |
+| Coarse silt | 37.1        |
+| Fine silt   | 43.1        |
+| Clay        | 20.6        |
 
 * Microscopic examination.*—The constituents show a fair to poor arrangement parallel to the bedding, which accounts for the banding. Some of the coarser grains, however, cut across it. The material, mostly micaceous in composition, shows a seriate grading and sizing. The finest paste is very pale buff and appears to be made up of recrystallized colloids, possible beidellite-like in composition. The calcite is finely disseminated throughout the rock, very little of it showing recrystallization.
 
@@ -3031,19 +3031,19 @@ and colloidal material.
 
 * General composition.—*
 
-।                             ।               ।
-।-----------------------------।---------------।
-। Soluble in cold HCI (CaCO₃) । 11.40 percent ।
-। Insoluble residue           । 88.60         ।
+|                             |               |
+|-----------------------------|---------------|
+| Soluble in cold HCI (CaCO₃) | 11.40 percent |
+| Insoluble residue           | 88.60         |
 
 * Mechanical analysis of insoluble residue (condensed).—*
 
-।             ।             ।
-।-------------।-------------।
-। Sand        । 2.3 percent ।
-। Coarse silt । 64.0        ।
-। Fine silt   । 23.5        ।
-। Clay        । 10.2        ।
+|             |             |
+|-------------|-------------|
+| Sand        | 2.3 percent |
+| Coarse silt | 64.0        |
+| Fine silt   | 23.5        |
+| Clay        | 10.2        |
 
  *Microscopic examination.*—A poorly oriented, heterogeneous mixture of coarser material (60-65 percent) embedded in a very fine pasty matrix (35-40 percent). From 60 to 70 percent of the coarser material consists of mineral grains, the balance (30 to 40 percent) of organic specks. The paste is made up of 20 to 30 percent of organic material and 70 to 80 percent of a yellowish-buff recrystallized colloidal substance, apparently similar to beidellite. The calcite in the rock is finely disseminated and is almost invisible.
 
@@ -3063,12 +3063,12 @@ and colloidal material.
 
 * Mechanical analysis (condensed).—*
 
-।             ।             ।
-।-------------।-------------।
-। Sand        । 0.0 percent ।
-। Coarse silt । 16.7        ।
-। Fine silt   । 53.5        ।
-। Clay        । 28.8        ।
+|             |             |
+|-------------|-------------|
+| Sand        | 0.0 percent |
+| Coarse silt | 16.7        |
+| Fine silt   | 53.5        |
+| Clay        | 28.8        |
 
 * Microscopic examination.*—The rock is made up of approximately 25 percent of mineral grains, diatom shells, and plant remains embedded in a finer matrix (75 percent) made up of silty and clayey paste. This paste, most of which is almost optically inert, consists approximately of 40 percent of organic matter and 60 percent of a micaceous material made up principally of clayey minerals, optically indeterminable. Many of these micaceous flakes are in optical continuity.
 
@@ -3092,12 +3092,12 @@ and colloidal material.
 
 * Mechanical analysis (condensed).*—
 
-।             ।             ।
-।-------------।-------------।
-। Sand        । 0.0 percent ।
-। Coarse silt । 15.0        ।
-। Fine silt   । 46.7        ।
-। Clay        । 35.5        ।
+|             |             |
+|-------------|-------------|
+| Sand        | 0.0 percent |
+| Coarse silt | 15.0        |
+| Fine silt   | 46.7        |
+| Clay        | 35.5        |
 
 * Microscopic examination.*—The rock is made up mostly (95 percent) of very angular mineral grains and rock flour, with only a very small amount of organic matter. Only quartz, feldspar,and biotite were recognized, for, in the absence of a centrifuge, the heavy minerals could not be extracted from this very fine-grained sediment. No diatoms or pollen were found. The reddish spots are limonitic stains either related to slightly altered biotitic areas or infiltrations along the poorly marked bedding planes.
 
@@ -3112,19 +3112,19 @@ and colloidal material.
  *Megascopic appearance.*—Pale yellowish-gray fine-grained semiunctuous sediment, showing irregular fracture and very poor stratification. Pale-orange limonitic stains are present, apparently along bedding planes and in the vicinity of organic remains.  
  *General composition.*—
 
-।                             ।               ।
-।-----------------------------।---------------।
-। Soluble in cold HCl (CaCO₃) । 27.95 percent ।
-। Insoluble residue           । 72.05         ।
+|                             |               |
+|-----------------------------|---------------|
+| Soluble in cold HCl (CaCO₃) | 27.95 percent |
+| Insoluble residue           | 72.05         |
 
  *Mechanical analysis of insoluble residue (condensed).*—
 
-।             ।             ।
-।-------------।-------------।
-। Sand        । 1.1 percent ।
-। Coarse silt । 22.0        ।
-। Fine silt   । 66.8        ।
-। Clay        । 10.9        ।
+|             |             |
+|-------------|-------------|
+| Sand        | 1.1 percent |
+| Coarse silt | 22.0        |
+| Fine silt   | 66.8        |
+| Clay        | 10.9        |
 
 * Microscopic examination.*—The rock consists of very fine micaceous flakes, showing a parallel to subparallel arrangement. There is an appreciable amount of biotite, part of which is bleached.
 
@@ -3146,19 +3146,19 @@ and colloidal material.
 
 * General composition.*—
 
-।                             ।               ।
-।-----------------------------।---------------।
-। Soluble in cold HCl (CaCO₃) । 15.60 percent ।
-। Insoluble residue           । 84.40         ।
+|                             |               |
+|-----------------------------|---------------|
+| Soluble in cold HCl (CaCO₃) | 15.60 percent |
+| Insoluble residue           | 84.40         |
 
 * Mechanical analysis of insoluble residue (condensed).—*
 
-।             ।             ।
-।-------------।-------------।
-। Sand        । 5.7 percent ।
-। Coarse silt । 49.1        ।
-। Fine silt   । 34.3        ।
-। Clay        । 10.9        ।
+|             |             |
+|-------------|-------------|
+| Sand        | 5.7 percent |
+| Coarse silt | 49.1        |
+| Fine silt   | 34.3        |
+| Clay        | 10.9        |
 
  *Microscopic examination.—*A poorly stratified rock consisting of a mixture of shell fragments, minute rock fragments (mostly epidotized quartz schist), numerous quartz grains, and a little feldspar (sodic oligoclase) in a finer matrix of clayey and colloidal matter. There is relatively little mica.
 
@@ -3179,19 +3179,19 @@ and colloidal material.
 
  *General composition.—*
 
-।                             ।               ।
-।-----------------------------।---------------।
-। Soluble in cold HCl (CaCO₃) । 77.53 percent ।
-। Insoluble residue           । 22.47         ।
+|                             |               |
+|-----------------------------|---------------|
+| Soluble in cold HCl (CaCO₃) | 77.53 percent |
+| Insoluble residue           | 22.47         |
 
  *Mechanical analysis of insoluble residue (condensed).**—*
 
-।             ।             ।
-।-------------।-------------।
-। Sand        । 1.4 percent ।
-। Coarse silt । 54.3        ।
-। Fine silt   । 32.2        ।
-। Clay        । 11.9        ।
+|             |             |
+|-------------|-------------|
+| Sand        | 1.4 percent |
+| Coarse silt | 54.3        |
+| Fine silt   | 32.2        |
+| Clay        | 11.9        |
 
  *Microscopic examination.—*The rock consists of isolated mineral grains embedded in a fine mosaic of calcium carbonate, partly recrystallized. There is a small amount of organic matter.
 
@@ -3210,19 +3210,19 @@ and colloidal material.
 
 * General composition.*—
 
-।                             ।               ।
-।-----------------------------।---------------।
-। Soluble in cold HCl (CaCO₃) । 71.87 percent ।
-। Insoluble residue           । 28.13         ।
+|                             |               |
+|-----------------------------|---------------|
+| Soluble in cold HCl (CaCO₃) | 71.87 percent |
+| Insoluble residue           | 28.13         |
 
  *Mechanical analysis of insoluble residue (condensed).*—
 
-।             ।             ।
-।-------------।-------------।
-। Sand        । 0.0 percent ।
-। Coarse silt । 13.6        ।
-। Fine silt   । 61.7        ।
-। Clay        । 24.8        ।
+|             |             |
+|-------------|-------------|
+| Sand        | 0.0 percent |
+| Coarse silt | 13.6        |
+| Fine silt   | 61.7        |
+| Clay        | 24.8        |
 
  *Microscopic examination.*—The rock consists of subordinate mineral grains and mica flakes (consisting of recrystallized colloids?) embedded in a fine-grained mosaic of calcium carbonate, which shows very little recrystallization. Small, irregular nests of organic matter are locally present.
 
@@ -3242,19 +3242,19 @@ and colloidal material.
 
 * General composition.*—
 
-।                             ।               ।
-।-----------------------------।---------------।
-। Soluble in cold HCl (CaCO₃) । 19.73 percent ।
-। Insoluble residue           । 80.27         ।
+|                             |               |
+|-----------------------------|---------------|
+| Soluble in cold HCl (CaCO₃) | 19.73 percent |
+| Insoluble residue           | 80.27         |
 
  *Mechanical analysis of insoluble residue (condensed).—*
 
-।             ।             ।
-।-------------।-------------।
-। Sand        । 0.0 percent ।
-। Coarse silt । 40.4        ।
-। Fine silt   । 41.0        ।
-। Clay        । 18.4        ।
+|             |             |
+|-------------|-------------|
+| Sand        | 0.0 percent |
+| Coarse silt | 40.4        |
+| Fine silt   | 41.0        |
+| Clay        | 18.4        |
 
  *Microscopic appearance.—*The rock is essentially a structureless, heterogeneous mixture of mineral grains in a buffish mass of recrystallized colloids (possibly beidellite), with a very weak, incipient beginning of the formation of minute iron oxide concretions.
 
@@ -3274,19 +3274,19 @@ and colloidal material.
 
 * General composition.—*
 
-।                             ।               ।
-।-----------------------------।---------------।
-। Soluble in cold HCl (CaCO₃) । 18.70 percent ।
-। Insoluble residue           । 81.30         ।
+|                             |               |
+|-----------------------------|---------------|
+| Soluble in cold HCl (CaCO₃) | 18.70 percent |
+| Insoluble residue           | 81.30         |
 
 * Mechanical analysis of insoluble residue (condensed).—*
 
-।             ।             ।
-।-------------।-------------।
-। Sand        । 2.2 percent ।
-। Coarse silt । 60.9        ।
-। Fine silt   । 26.9        ।
-। Clay        । 11.0        ।
+|             |             |
+|-------------|-------------|
+| Sand        | 2.2 percent |
+| Coarse silt | 60.9        |
+| Fine silt   | 26.9        |
+| Clay        | 11.0        |
 
  *Microscopic examination.—*The rock consists of a structureless, heterogeneous jumble of grains of various sizes, mixed pell-mell in a very subordinate matrix of clayey and colloidal material.
 
@@ -3308,19 +3308,19 @@ and colloidal material.
 
  *General composition.—*
 
-।                             ।               ।
-।-----------------------------।---------------।
-। Soluble in cold HCl (CaCO₃) । 19.38 percent ।
-। Insoluble residue           । 80.62         ।
+|                             |               |
+|-----------------------------|---------------|
+| Soluble in cold HCl (CaCO₃) | 19.38 percent |
+| Insoluble residue           | 80.62         |
 
 * Mechanical analysis of insoluble residue (condensed).—*
 
-।             ।             ।
-।-------------।-------------।
-। Sand        । 1.2 percent ।
-। Coarse silt । 43.3        ।
-। Fine silt   । 42.2        ।
-। Clay        । 13.2        ।
+|             |             |
+|-------------|-------------|
+| Sand        | 1.2 percent |
+| Coarse silt | 43.3        |
+| Fine silt   | 42.2        |
+| Clay        | 13.2        |
 
  *Microscopic examination.—*A structureless, heterogeneous jumble of mineral grains mixed pell-mell with yellowish recrystallized colloidal matter (beidellite?). Much of the calcite is disseminated; some of it occurs in nodules.
 
@@ -3410,13 +3410,13 @@ Panjar. The confluence points upstream, the tributary making an acute angle with
 
  Sample 22. Naushahra, India. Fresh-water clay (Tatrot stage, early Pleistocene). Light-colored medium-hard rock; much lime. Many sponge spicules; diatoms frequent, as follows:
 
-।                             ।     ।
-।-----------------------------।-----।
-। Cyclotella kützingii Thw    । C   ।
-। Cymbella ventricosa Krz     । H   ।
-। Epithemia sorex Ktz         । S   ।
-। Gomphonema intricatum Ktz   । C   ।
-। Mastogloia elliptica Agardh । C   ।
+|                             |     |
+|-----------------------------|-----|
+| Cyclotella kützingii Thw    | C   |
+| Cymbella ventricosa Krz     | H   |
+| Epithemia sorex Ktz         | S   |
+| Gomphonema intricatum Ktz   | C   |
+| Mastogloia elliptica Agardh | C   |
 
  For explanation of letters see page 120.  
  (The last two forms dominate the sample, as to diatoms.)
@@ -3501,14 +3501,14 @@ Panjar. The confluence points upstream, the tributary making an acute angle with
 
  Fossil invertebrates, however, both mollusks and gastropods, are known from various places. North of Rawalpindi we collected a number of fresh-water mollusks belonging to *Limnea rufuscens h.* embedded in a laminated pink silt. Much more common are land forms such as *Planorbis* exustus and *P*. *convexiusculus*. Theobald (1877,p.141) mentioned a lacustrine marl with beds of tufa southeast of Fatahjang, crowded with land and fresh-water shells. He listed the following forms:
 
-।                      ।                          ।
-।----------------------।--------------------------।
-। Limnea rufuscens h.  । Corbicula sp.            ।
-। Planorbis exustus    । Unio sp.                 ।
-। P. convexiusculus    । Macrochlamys jacquemonti ।
-। Vivipara bengalensis । Cylendrus insularis      ।
-। Bythinia pulchella   । Napoens salsicola        ।
-। Melania tuberculata  । Opeas gracilis           ।
+|                      |                          |
+|----------------------|--------------------------|
+| Limnea rufuscens h.  | Corbicula sp.            |
+| Planorbis exustus    | Unio sp.                 |
+| P. convexiusculus    | Macrochlamys jacquemonti |
+| Vivipara bengalensis | Cylendrus insularis      |
+| Bythinia pulchella   | Napoens salsicola        |
+| Melania tuberculata  | Opeas gracilis           |
 
  This deposit evidently belongs to the tufa horizon which is generally developed on loess, or near hot- or ground-water springs. This tufa is presumably of somewhat later date than the loessic silt, and the fauna cited from it is not typical for this stage. In the course of 3months of field work we found only one locality with fresh-water shells, while numerous others yielded land forms only.
 
@@ -4010,57 +4010,57 @@ FIGURE 183.—Map of Narbada sites near Hoshangabad and Narsinghpur. Numbers in 
 
  Theobald (1860, p. 284) pointed out that there is a difference both in size and in distribution between the fossil and recent species. He gave the following list as determined by Mr. Benson:
 
-।                                             ।
-।---------------------------------------------।
-। Gastropoda:                                 ।
-। Melania tuberculata Müll. Not rare.         ।
-। Paludina bengalensis Lam. Very common.      ।
-। Paludina melanostoma B. Not uncommon.       ।
-। Bithynia cerameopoma B. Not rare.           ।
-। Bithynia pulchella B. Not rare.             ।
-। Bulimus insularis Eh. Not rare.             ।
-। Limnaea sp. (? acuminata Desh.) Not common. ।
-। Planorbis coromandelicus Fab. Very rare.    ।
-। Planorbis convexiusculus B. Rare.           ।
-। Helix asperella Pfr.                        ।
+|                                             |
+|---------------------------------------------|
+| Gastropoda:                                 |
+| Melania tuberculata Müll. Not rare.         |
+| Paludina bengalensis Lam. Very common.      |
+| Paludina melanostoma B. Not uncommon.       |
+| Bithynia cerameopoma B. Not rare.           |
+| Bithynia pulchella B. Not rare.             |
+| Bulimus insularis Eh. Not rare.             |
+| Limnaea sp. (? acuminata Desh.) Not common. |
+| Planorbis coromandelicus Fab. Very rare.    |
+| Planorbis convexiusculus B. Rare.           |
+| Helix asperella Pfr.                        |
 
 
 
-।                                  ।
-।----------------------------------।
-। Clams:                           ।
-। Unio marginalis Lam. Common.     ।
-। Unio corrugatus Lam. Common.     ।
-। Unio caeruleus Lea. Common.      ।
-। Corbicula cor. Sow. Very common. ।
+|                                  |
+|----------------------------------|
+| Clams:                           |
+| Unio marginalis Lam. Common.     |
+| Unio corrugatus Lam. Common.     |
+| Unio caeruleus Lea. Common.      |
+| Corbicula cor. Sow. Very common. |
 
  The clams are somewhat larger than the living forms, and so are the two species of *Paludina*. As regards distribution, Theobald states that the land gastropod *Bulimus* is now extremely common throughout central India and the Punjab "and ranges even to Burma and the Red Sea." We take this to indicate that the climate is at present somewhat drier than it was during the middle Pleistocene. Generally there is a greater number of species in the recent fauna as compared with the Pleistocene, and it is again significant that not less than 17 land forms were collected by Theobald from the recent valley surface as compared with Ifrom the Pleistocene river drift.
 
  Before critical consideration is given to the vertebrate remains previously found in these upper gravels, we can with confidence list those fossils which Dr. Teilhard and 1 collected, as determined by him and Dr. E. H. Colbert, of the American Museum of Natural History.
 
-।                                              ।
-।----------------------------------------------।
-। Elephas namadicus Falc. (jaws and molars).   ।
-। Equus namadicus Falc. (jaw fragment).        ।
-। Hexaprotodon namadicus Falc. (jaw fragment). ।
-। Bos namadicus Falc. (skull and teeth).       ।
-। Bubalus palaeindicus (skull).                ।
-। Sus sp.                                      ।
-। Trionyx sp.                                  ।
-। Emys sp.                                     ।
+|                                              |
+|----------------------------------------------|
+| Elephas namadicus Falc. (jaws and molars).   |
+| Equus namadicus Falc. (jaw fragment).        |
+| Hexaprotodon namadicus Falc. (jaw fragment). |
+| Bos namadicus Falc. (skull and teeth).       |
+| Bubalus palaeindicus (skull).                |
+| Sus sp.                                      |
+| Trionyx sp.                                  |
+| Emys sp.                                     |
 
  In the Calcutta Museum there are preserved earlier collections from which we can add to the foregoing list the following as quoted from Pilgrim (1905):
 
-।                                                                                                              ।
-।--------------------------------------------------------------------------------------------------------------।
-। Ursus namadicus F. and C.                                                                                    ।
-। Leptobos frazeri Rüt.                                                                                        ।
-। Cervus duvancelli [Cuv](http://# "Theobald (1860) mentioned five species of deer, yet he listed only one."). ।
-। Rhinoceros unicornis Lim.                                                                                    ।
-। Rhinoceros unicornis Lim.                                                                                    ।
-। Stegodon ganesa F. and C.                                                                                    ।
-। Hippopotamus palaeindicus F. and C.                                                                          ।
-। Pangsura tectus Bell "and other Reptilia."                                                                   ।
+|                                                                                                              |
+|--------------------------------------------------------------------------------------------------------------|
+| Ursus namadicus F. and C.                                                                                    |
+| Leptobos frazeri Rüt.                                                                                        |
+| Cervus duvancelli [Cuv](http://# "Theobald (1860) mentioned five species of deer, yet he listed only one."). |
+| Rhinoceros unicornis Lim.                                                                                    |
+| Rhinoceros unicornis Lim.                                                                                    |
+| Stegodon ganesa F. and C.                                                                                    |
+| Hippopotamus palaeindicus F. and C.                                                                          |
+| Pangsura tectus Bell "and other Reptilia."                                                                   |
 
  From this it would appear that there are in this otherwise middle Pleistocene fauna two discordant elements—namely, *Leptobos* and *Stegodon—*both of which occur in the Pinjor zone of the Upper Siwalik series. Dr. Teilhard, who critically examined these specimens in Calcutta, reports that the Leptobos of Rütimeyer may well be a damaged skull of *Bos*, and as for *Stegodon* it is apparently represented by tusks or fragments which are altogether too imperfect to permit even generic specifications. Therefore, we prefer to rely on the surely identified types, which show clearly an assemblage typical for the middle Pleistocene of Eurasia (see Hopwood, 935) and younger than the Pinjor fauna of the Siwalik region. On another occasion Pilgrim (1905) referred the Narbada fauna to a zone lying between the Upper Siwalik beds and the ossiferous late Pleistocene cave deposits of Karnool, in Madras Presidency. To this we agree if by Upper Siwalik is meant the Pinjor beds exclusive of the conglomerate beds containing *Elephas namadicus* and *Bubalus* at Bubhor (Falconer, 1837). No further detail can be gained from present data concerning the fossil fauna of the upper Narbada group than that it appears to be similar to that of the lower group and that both carry middle Pleistocene mammal remains.
 
@@ -4084,16 +4084,16 @@ The basal gravels and sands of the upper group are generally less cemented and l
 
  This obviously involves a geologic synchronization for which no proper basis can be given at present, in view of the absence of clear terrace records in the Narbada region. But on archeologic grounds it would seem as if the "lower group" represents the true Acheulian and "early Soan" horizon, and the "upper group" contains examples of a fresh "late Soan" industry. We have seen that in the Punjab these two Stone Age tool complexes are roughly synchronous with T1-T2 and T3-T4 respectively. On such a basis we suggest the following correlation:** 
 
-।                        ।          ।
-।:----------------------:।:--------:।
-।       *Narbada*        । *Punjab* ।
-।      Cotton soil       ।   T5   ।
-।   **Upper group:**    ।         ।
-।       Pink clay        ।    T4    ।
-।         Sand          ।    T3    ।
-।   **Lower group:**    ।         ।
-।      Pink clay.       ।    T2    ।
-। Conglomerate and sand. ।    T1    ।
+|                        |          |
+|:----------------------:|:--------:|
+|       *Narbada*        | *Punjab* |
+|      Cotton soil       |   T5   |
+|   **Upper group:**    |         |
+|       Pink clay        |    T4    |
+|         Sand          |    T3    |
+|   **Lower group:**    |         |
+|      Pink clay.       |    T2    |
+| Conglomerate and sand. |    T1    |
 
  Certain geologic data support such a correlation.In the first place, it should be noted that the exposed I30 feet of Narbada Pleistocene represents only a fraction of the total valley fill, which makes it probable that the Upper Siwalik equivalents underlie the ossiferous Narbada beds. Also the great unconformity at the have base of the lower group and its disconformable contact with the upper group their counterparts in the Punjab (prominent slopes between TDand T1, T2and T3, fig. 181). Moreover, the aggradational phases of T3and T4in the Punjab coincide with wet phases (third and fourth glacial), just as in the Narbada the "pink clays” seem to repeat a more widespread inundation of the valley.
 

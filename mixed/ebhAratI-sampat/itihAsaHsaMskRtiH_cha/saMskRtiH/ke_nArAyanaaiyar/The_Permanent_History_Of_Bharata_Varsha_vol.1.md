@@ -47,29 +47,29 @@ AT THE **"BHASKARA PRESS"**, TRIVANDRUM
 
 —————
 
-।                  ।
-।:----------------:।
-।  **CHAPTER I.**  ।
-। **INTRODUCTION** ।
+|                  |
+|:----------------:|
+|  **CHAPTER I.**  |
+| **INTRODUCTION** |
 
       
 
-।                                    ।
-।:----------------------------------:।
-।          **CHAPTER II.**           ।
-। **RELIGIOUS TEXTS AND PHILOSOPHY** ।
-।   **SECTION I.—RELIGIOUS TEXTS**   ।
-।  **SECTION II.—HINDU PHILOSOPHY**  ।
+|                                    |
+|:----------------------------------:|
+|          **CHAPTER II.**           |
+| **RELIGIOUS TEXTS AND PHILOSOPHY** |
+|   **SECTION I.—RELIGIOUS TEXTS**   |
+|  **SECTION II.—HINDU PHILOSOPHY**  |
 
 
 
-।                                 ।
-।:-------------------------------:।
-।        **CHAPTER III.**         ।
-। **PLACE, TIME AND PERSONALITY** ।
-।      **SECTION I.—PLACES**      ।
-।     **SECTION II.—TIMES **     ।
-।  **SECTION III.—PERSONALITY**   ।
+|                                 |
+|:-------------------------------:|
+|        **CHAPTER III.**         |
+| **PLACE, TIME AND PERSONALITY** |
+|      **SECTION I.—PLACES**      |
+|     **SECTION II.—TIMES **     |
+|  **SECTION III.—PERSONALITY**   |
 
 
 
@@ -84,21 +84,21 @@ AT THE **"BHASKARA PRESS"**, TRIVANDRUM
 
  ———— 
 
-।          ।                                                                                        ।
-।----------।----------------------------------------------------------------------------------------।
-। **Para** । **The Preface.**                                                                       ।
-। **1**    । **The Bharata-Varsha.**                                                                ।
-। **4**    । **The Yugas of Bharata-Varsha.**                                                       ।
-। **5**    । **The general outline of the stories in the Maha-bharata and the Ramayana.**           ।
-। **6**    । **The Puranic significance of incarnations**                                           ।
-। **8**    । **The Soorya and Soma Vamsas.**                                                        ।
-। **10**   । **Their origin in the Treta and Dwapara Yugas.**                                       ।
-। **11**   । **The real contents of the Ramayana and the Maha-bharata.**                           ।
-। **13**   । **The Maha-Bharata as done by Vyasa.**                                                 ।
-। **14**   । **Kuru-kshetra, Dwaraka, Mathura, Brindavana, Govardhana, Ganga, Yemuna and Narmada.** ।
-। **15**   । **Sri-Krishna, his Gopas and Go-Loka.**                                                ।
-। **17**   । **The story of Sri-Krishna as described in the Bhagavata.**                            ।
-। **18**   । **Modern misinterpretation of Sri-Krishna as a human being.**                          ।
+|          |                                                                                        |
+|----------|----------------------------------------------------------------------------------------|
+| **Para** | **The Preface.**                                                                       |
+| **1**    | **The Bharata-Varsha.**                                                                |
+| **4**    | **The Yugas of Bharata-Varsha.**                                                       |
+| **5**    | **The general outline of the stories in the Maha-bharata and the Ramayana.**           |
+| **6**    | **The Puranic significance of incarnations**                                           |
+| **8**    | **The Soorya and Soma Vamsas.**                                                        |
+| **10**   | **Their origin in the Treta and Dwapara Yugas.**                                       |
+| **11**   | **The real contents of the Ramayana and the Maha-bharata.**                           |
+| **13**   | **The Maha-Bharata as done by Vyasa.**                                                 |
+| **14**   | **Kuru-kshetra, Dwaraka, Mathura, Brindavana, Govardhana, Ganga, Yemuna and Narmada.** |
+| **15**   | **Sri-Krishna, his Gopas and Go-Loka.**                                                |
+| **17**   | **The story of Sri-Krishna as described in the Bhagavata.**                            |
+| **18**   | **Modern misinterpretation of Sri-Krishna as a human being.**                          |
 
 **CHAPTER V.**
 
@@ -107,22 +107,22 @@ AT THE **"BHASKARA PRESS"**, TRIVANDRUM
 
 ———————
 
-।          ।                                                                                                                                                                                             ।
-।----------।---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। **Para** ।                                                                                                                                                                                            ।
-।         । **Adiparva.**                                                                                                                                                                               ।
-। **1**    । **The origin of Soota. The sounakas and the Nimisa Forest.**                                                                                                                                ।
-। **2**    । **The enemies of God.**                                                                                                                                                                     ।
-। **3**    । **The complaint of Bhumi.**                                                                                                                                                                 ।
-। **4**    । **The contents of the Maha-bharata.**                                                                                                                                                       ।
-। **5**    । **The composition of the Maha-bharata.**                                                                                                                                                    ।
-। **6**    । **The dramatis personae.**                                                                                                                                                                  ।
-। **7**    । **Summary of the Epic as given in the text.**                                                                                                                                               ।
-। **8**    । **The origin of the Pandavas, Kurus and their teachers, Panchali's marriage; destruction of Beka; settlement at   Indra-prestha and the burning of the Khandava Forest.  Sabha-Parva.** ।
-। **9**    । **The construction of the Sabha; the Raja-suya sacrifice and the destruction of Jara-sandha; the gambling and the Pandavasexile to the Forest. Vana-Parva.**                               ।
-। **10**   । **The travels through the Kamyaka and Dwyta Vanoms. Virata-Parva.**                                                                                                                         ।
-। **11**   । **The Pandavas in the Virata's court. Udyoga-Parva.**                                                                                                                                       ।
-। **12**   । **The meeting of the Sabha and the declaration of war.**                                                                                                                                    ।
+|          |                                                                                                                                                                                             |
+|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Para** |                                                                                                                                                                                            |
+|         | **Adiparva.**                                                                                                                                                                               |
+| **1**    | **The origin of Soota. The sounakas and the Nimisa Forest.**                                                                                                                                |
+| **2**    | **The enemies of God.**                                                                                                                                                                     |
+| **3**    | **The complaint of Bhumi.**                                                                                                                                                                 |
+| **4**    | **The contents of the Maha-bharata.**                                                                                                                                                       |
+| **5**    | **The composition of the Maha-bharata.**                                                                                                                                                    |
+| **6**    | **The dramatis personae.**                                                                                                                                                                  |
+| **7**    | **Summary of the Epic as given in the text.**                                                                                                                                               |
+| **8**    | **The origin of the Pandavas, Kurus and their teachers, Panchali's marriage; destruction of Beka; settlement at   Indra-prestha and the burning of the Khandava Forest.  Sabha-Parva.** |
+| **9**    | **The construction of the Sabha; the Raja-suya sacrifice and the destruction of Jara-sandha; the gambling and the Pandavasexile to the Forest. Vana-Parva.**                               |
+| **10**   | **The travels through the Kamyaka and Dwyta Vanoms. Virata-Parva.**                                                                                                                         |
+| **11**   | **The Pandavas in the Virata's court. Udyoga-Parva.**                                                                                                                                       |
+| **12**   | **The meeting of the Sabha and the declaration of war.**                                                                                                                                    |
 
 **Select Opinions.**
 
@@ -182,17 +182,17 @@ This is *an epoch-making book* which deserves to be carefully studied, digested 
 
 **Introduction.**
 
-।            ।                                                                                                               ।
-।------------।:-------------------------------------------------------------------------------------------------------------:।
-। **Para**   ।                                                **CONTENTS.**                                                 ।
-। **1 to 5** । **The interpretations of the Puranas and the Itihasas by the indigenous Panditand the western critic.  ** ।
-। **6**      ।                                   **The Theosophical interpretation.  **                                   ।
-। **7 to 9** ।                          **The method of treatment adopted in thereligious texts.**                          ।
-। **10**     ।                                  **The apparent geographical descriptions.**                                  ।
-। **11**     ।                                    **The apparent descriptions of Time.**                                     ।
-। **12**     ।                         **Mistaken translations and definitions oftechnical terms.**                         ।
-। **13**     ।                                  **Apparent descriptions of Personalities.**                                  ।
-। **14**     ।                           **The usual introductions to the Puranas and Itihasas.**                            ।
+|            |                                                                                                               |
+|------------|:-------------------------------------------------------------------------------------------------------------:|
+| **Para**   |                                                **CONTENTS.**                                                 |
+| **1 to 5** | **The interpretations of the Puranas and the Itihasas by the indigenous Panditand the western critic.  ** |
+| **6**      |                                   **The Theosophical interpretation.  **                                   |
+| **7 to 9** |                          **The method of treatment adopted in thereligious texts.**                          |
+| **10**     |                                  **The apparent geographical descriptions.**                                  |
+| **11**     |                                    **The apparent descriptions of Time.**                                     |
+| **12**     |                         **Mistaken translations and definitions oftechnical terms.**                         |
+| **13**     |                                  **Apparent descriptions of Personalities.**                                  |
+| **14**     |                           **The usual introductions to the Puranas and Itihasas.**                            |
 
 **CHAPTER II.    **
 
@@ -200,124 +200,124 @@ This is *an epoch-making book* which deserves to be carefully studied, digested 
 
 **SECTION I.**
 
-।           ।                                                      ।
-।-----------।------------------------------------------------------।
-। **1**     । **Classification of the religious Texts.**           ।
-। **2 & 3** । **The Puranas, Itihasas and other religious texts.** ।
+|           |                                                      |
+|-----------|------------------------------------------------------|
+| **1**     | **Classification of the religious Texts.**           |
+| **2 & 3** | **The Puranas, Itihasas and other religious texts.** |
 
 **SECTION II.**
 
-।           ।                                                   ।
-।-----------।---------------------------------------------------।
-। **1 & 2** । **The origin of the world.**                      ।
-। **3**     । **The nature of the Supreme Spirit.**             ।
-। **4**     । **The nature of Jiva.**                          ।
-। **5**     । **The origin of matter from the SupremeSpirit.** ।
-। **6**     । **Happiness and misery.**                         ।
-। **7 & 8** । **The Almighty Eswara and Maya.**                 ।
+|           |                                                   |
+|-----------|---------------------------------------------------|
+| **1 & 2** | **The origin of the world.**                      |
+| **3**     | **The nature of the Supreme Spirit.**             |
+| **4**     | **The nature of Jiva.**                          |
+| **5**     | **The origin of matter from the SupremeSpirit.** |
+| **6**     | **Happiness and misery.**                         |
+| **7 & 8** | **The Almighty Eswara and Maya.**                 |
 
 
 
-।        ।                                               ।
-।--------।-----------------------------------------------।
-। **9**  । **The relation of Jiva to Eswara.**          ।
-। **10** । **Hindu Religion as based upon Philosophy.** ।
-। **11** । **The utility and practice of religion.**    ।
-।       । **Hinduism distinguished from Budhism**       ।
-।       । **Summary of the chapter **                 ।
-।       । **Causes of misinterpretations**              ।
+|        |                                               |
+|--------|-----------------------------------------------|
+| **9**  | **The relation of Jiva to Eswara.**          |
+| **10** | **Hindu Religion as based upon Philosophy.** |
+| **11** | **The utility and practice of religion.**    |
+|       | **Hinduism distinguished from Budhism**       |
+|       | **Summary of the chapter **                 |
+|       | **Causes of misinterpretations**              |
 
 **CHAPTER III.**
 
-।           ।                                                                                                          ।
-।-----------।----------------------------------------------------------------------------------------------------------।
-।          । **Place, Time and Personality.**                                                                         ।
-।          । **Ignorance of technicalities.**                                                                         ।
-। **1**     । **Religious geography of 14 Lokas different from terrestrial geography.**                                ।
-। **2**   । **The Mount Meru.**                                                                                      ।
-। **3**     । **The Seven-islanded earth.**                                                                            ।
-। **4**     । **The Jembu-Dwipa.**                                                                                     ।
-। **5 & 6** । **The Bharata-Varsha.**                                                                                  ।
-। **7**     । **The apparent religious geography as utilized for Upasana or worship.**                                 ।
-। **8**     । **The real significance of Ayodhya, Kashi and Kurukshetrom.**                                            ।
-। **9**     । **Do of Prayaga, Mathura, Brindavana, Govardhana, Geya, Dwaraka, Haridwar, Yemuna, Narmada and Ganga.** ।
-। **10**    । **The religious geography explained as lying beyond human cosmology.**                                   ।
-। **11**    । **The Manasa or internal Thirthas.**                                                                     ।
-। **12**    । **The Bhowma or external Thirthas or sacred baths in India.**                                            ।
+|           |                                                                                                          |
+|-----------|----------------------------------------------------------------------------------------------------------|
+|          | **Place, Time and Personality.**                                                                         |
+|          | **Ignorance of technicalities.**                                                                         |
+| **1**     | **Religious geography of 14 Lokas different from terrestrial geography.**                                |
+| **2**   | **The Mount Meru.**                                                                                      |
+| **3**     | **The Seven-islanded earth.**                                                                            |
+| **4**     | **The Jembu-Dwipa.**                                                                                     |
+| **5 & 6** | **The Bharata-Varsha.**                                                                                  |
+| **7**     | **The apparent religious geography as utilized for Upasana or worship.**                                 |
+| **8**     | **The real significance of Ayodhya, Kashi and Kurukshetrom.**                                            |
+| **9**     | **Do of Prayaga, Mathura, Brindavana, Govardhana, Geya, Dwaraka, Haridwar, Yemuna, Narmada and Ganga.** |
+| **10**    | **The religious geography explained as lying beyond human cosmology.**                                   |
+| **11**    | **The Manasa or internal Thirthas.**                                                                     |
+| **12**    | **The Bhowma or external Thirthas or sacred baths in India.**                                            |
 
-।            ।                                                                     ।
-।------------।---------------------------------------------------------------------।
-। **13 ** । **The Bhowma Thirthas as different fromthe religious geography.** ।
-।           । **The Theosophical ignorance of our religious geography.**          ।
+|            |                                                                     |
+|------------|---------------------------------------------------------------------|
+| **13 ** | **The Bhowma Thirthas as different fromthe religious geography.** |
+|           | **The Theosophical ignorance of our religious geography.**          |
 
 
 
-।                     ।                                                                                                                        ।
-।---------------------।------------------------------------------------------------------------------------------------------------------------।
-। **       ** । **The cause of the subsequent applications of religious terms to terms to the cities, mountains and rivers in India.** ।
+|                     |                                                                                                                        |
+|---------------------|------------------------------------------------------------------------------------------------------------------------|
+| **       ** | **The cause of the subsequent applications of religious terms to terms to the cities, mountains and rivers in India.** |
 
 **SECTION II.  
 ON TIME.**
 
-।           ।                                                                    ।
-।-----------।--------------------------------------------------------------------।
-। **1**     । **Classification of Time into Sthula, Sukshma and Satwa.**         ।
-। **2**     । **The Sukshma variety of Time alluded to in the religious texts.** ।
-।          । **The meaning of Parardhas.**                                      ।
-। **3 & 4** । **The four Yugas.**                                                ।
-। **5 & 7** । **The Manus and Manwantaras.**                                     ।
+|           |                                                                    |
+|-----------|--------------------------------------------------------------------|
+| **1**     | **Classification of Time into Sthula, Sukshma and Satwa.**         |
+| **2**     | **The Sukshma variety of Time alluded to in the religious texts.** |
+|          | **The meaning of Parardhas.**                                      |
+| **3 & 4** | **The four Yugas.**                                                |
+| **5 & 7** | **The Manus and Manwantaras.**                                     |
 
 **SECTION III.**
 
 **ON PERSONALITY.**
 
-।             ।                                                                            ।
-।-------------।----------------------------------------------------------------------------।
-।            । **The necessity of Sabda-Bramhan and the current false Vedantism. **      ।
-। **1 & 2**   । **Bramha, Vishnu and Rudra.**                                              ।
-। **3 & 3 A** । **The goddesses.**                                                         ।
-। **4**       । **The Devas, Asuras, Gendharvas, Yekshas, Rakshasas, Pannagas, Pisachas.** ।
-। **5**       । **The Theosophical misinterpretation ofthe above.**                      ।
-। **6 & 7**   । **The Pitris. **                                                          ।
-। **8**       । **The Sandhya-vandana and the Asuras named Mandehas.**                    ।
-।            । **The Asuras called Madhu and Kytabha **                                 ।
-। **9 & 10**  । **The classifications and definitions of theRishis.**                     ।
-। **11**      । **Apology to the Pandits andthe Theosophists.**                           ।
+|             |                                                                            |
+|-------------|----------------------------------------------------------------------------|
+|            | **The necessity of Sabda-Bramhan and the current false Vedantism. **      |
+| **1 & 2**   | **Bramha, Vishnu and Rudra.**                                              |
+| **3 & 3 A** | **The goddesses.**                                                         |
+| **4**       | **The Devas, Asuras, Gendharvas, Yekshas, Rakshasas, Pannagas, Pisachas.** |
+| **5**       | **The Theosophical misinterpretation ofthe above.**                      |
+| **6 & 7**   | **The Pitris. **                                                          |
+| **8**       | **The Sandhya-vandana and the Asuras named Mandehas.**                    |
+|            | **The Asuras called Madhu and Kytabha **                                 |
+| **9 & 10**  | **The classifications and definitions of theRishis.**                     |
+| **11**      | **Apology to the Pandits andthe Theosophists.**                           |
 
 
 
-।           ।                                                       ।
-।-----------।-------------------------------------------------------।
-।      । **Summary of the first three chapters of the essay.** ।
-।          । **Conclusion.**                                       ।
+|           |                                                       |
+|-----------|-------------------------------------------------------|
+|      | **Summary of the first three chapters of the essay.** |
+|          | **Conclusion.**                                       |
 
 **CORRECTIONS.**
 
-।                                                   ।                       ।
-।---------------------------------------------------।-----------------------।
-। **FOR**                                           । **READ**              ।
-। **(Para) 4**                                     । **(Para) 4A.**        ।
-। **critics**                                       । **critics**           ।
-। **plains**                                        । **planes**            ।
-। **raciocination**                                 । **ratiocination**    ।
-। **नापता          **                    । **नपिता**             ।
-। **कलि                     ** । **कल्पिता**           ।
-। **अतिष्ठाने**                                     । **अधिष्ठाने**         ।
-। **ईक्षणेद**                                     । **ईक्षणादि**         ।
-। **cread                **       । **creed**             ।
-। **possesses**                                     । **processes**         ।
-। **relinquishlng**                                 । **relinquishing  ** ।
-। **raciocination.**                                । **ratiocination.**    ।
-। **ब्रह्मपृराणम्**                               । **ब्रह्मपुराणम्**     ।
-। **Bharata-Uarsha.**                               । **Bharata-Varsha.**   ।
-। **woh**                                           । **who**               ।
-। **वोलं**                                         । **नीलं**              ।
-। **राप्त**                                         । **सप्त**              ।
-। **practicesw       **                     । **practices**         ।
-। **aud**                                           । **and**               ।
-। **aur**                                           । **our**               ।
-। **(Para) 3**                                      । **(Para) 3A**         ।
-। **थनुः  **                                    । **मनुः**              ।
+|                                                   |                       |
+|---------------------------------------------------|-----------------------|
+| **FOR**                                           | **READ**              |
+| **(Para) 4**                                     | **(Para) 4A.**        |
+| **critics**                                       | **critics**           |
+| **plains**                                        | **planes**            |
+| **raciocination**                                 | **ratiocination**    |
+| **नापता          **                    | **नपिता**             |
+| **कलि                     ** | **कल्पिता**           |
+| **अतिष्ठाने**                                     | **अधिष्ठाने**         |
+| **ईक्षणेद**                                     | **ईक्षणादि**         |
+| **cread                **       | **creed**             |
+| **possesses**                                     | **processes**         |
+| **relinquishlng**                                 | **relinquishing  ** |
+| **raciocination.**                                | **ratiocination.**    |
+| **ब्रह्मपृराणम्**                               | **ब्रह्मपुराणम्**     |
+| **Bharata-Uarsha.**                               | **Bharata-Varsha.**   |
+| **woh**                                           | **who**               |
+| **वोलं**                                         | **नीलं**              |
+| **राप्त**                                         | **सप्त**              |
+| **practicesw       **                     | **practices**         |
+| **aud**                                           | **and**               |
+| **aur**                                           | **our**               |
+| **(Para) 3**                                      | **(Para) 3A**         |
+| **थनुः  **                                    | **मनुः**              |
 
 
 

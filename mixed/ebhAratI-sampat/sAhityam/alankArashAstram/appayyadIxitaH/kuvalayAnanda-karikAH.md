@@ -2350,14 +2350,14 @@ Ex
 
 . नीचप्रवणता लक्ष्मि ! जलजायास्तवोचिता॥
 
-।                                  ।                                        ।
-।----------------------------------।----------------------------------------।
-। कार्य्यस्य of the effect         । जलजायाः born of water                  ।
-। कारणेन by the cause              । तव thy                                 ।
-। सारूप्यम् अपि sameness also      । नीचप्रवणता resorting to the low people ।
-। समम् Equal                       । उचिता is worthy.                       ।
-। विदुः know                      ।                                       ।
-। लक्ष्मि ! O Goddess of riches! ।                                       ।
+|                                  |                                        |
+|----------------------------------|----------------------------------------|
+| कार्य्यस्य of the effect         | जलजायाः born of water                  |
+| कारणेन by the cause              | तव thy                                 |
+| सारूप्यम् अपि sameness also      | नीचप्रवणता resorting to the low people |
+| समम् Equal                       | उचिता is worthy.                       |
+| विदुः know                      |                                       |
+| लक्ष्मि ! O Goddess of riches! |                                       |
 
  Def. The sameness of an effect with its cause is‌ termed a second kind of Sama.
 
@@ -2381,14 +2381,14 @@ Ex.
 
 
 
-।                                        ।                                          ।
-।----------------------------------------।------------------------------------------।
-। यम् अर्थम् which thing                 । वारणार्थिनः seeking for an elephant      ।
-। कर्तुम् to do                          । ते thy                                   ।
-। उद्यमः endeavour                       । अयम् this                                ।
-। अनिष्टम् विना without an obstacle      । वारणलाभः attainment of वारण (impediment) ।
-। तत्सिद्धिः the accomplishment of that । युक्तः स्यात् न is it not worthy.        ।
-। समम् the Equal                         ।                                         ।
+|                                        |                                          |
+|----------------------------------------|------------------------------------------|
+| यम् अर्थम् which thing                 | वारणार्थिनः seeking for an elephant      |
+| कर्तुम् to do                          | ते thy                                   |
+| उद्यमः endeavour                       | अयम् this                                |
+| अनिष्टम् विना without an obstacle      | वारणलाभः attainment of वारण (impediment) |
+| तत्सिद्धिः the accomplishment of that | युक्तः स्यात् न is it not worthy.        |
+| समम् the Equal                         |                                         |
 
  Def. The accomplishment, without any obstacle, of an object for which an effort has been made, is termed a third kind of Sama.
 
@@ -2466,14 +2466,14 @@ XLII**. अल्पम्—**Smallness.
 
  Ex**. मणिमालोर्मिका तेऽद्य जपमालायते करे॥**
 
-।                                    ।                                                 ।
-।------------------------------------।-------------------------------------------------।
-। सूक्ष्मात्small                   । अद्यto-day                                     ।
-। आधेयात्than the object contained. । ते thy                                         ।
-। यत् which                          । करे in the hand                                 ।
-। आधारस्य of the containant          । मणिमालोर्मिका ring inlaid with precious stones. ।
-। सूक्ष्मताsmallness                । जपमालायते becomes a rosary.                     ।
-। अल्पम्Smallness                   ।                                                ।
+|                                    |                                                 |
+|------------------------------------|-------------------------------------------------|
+| सूक्ष्मात्small                   | अद्यto-day                                     |
+| आधेयात्than the object contained. | ते thy                                         |
+| यत् which                          | करे in the hand                                 |
+| आधारस्य of the containant          | मणिमालोर्मिका ring inlaid with precious stones. |
+| सूक्ष्मताsmallness                | जपमालायते becomes a rosary.                     |
+| अल्पम्Smallness                   |                                                |
 
  Def. When the containant is described as smaller than the object contained which is really very small, it is called Smallness.
 
@@ -2495,14 +2495,14 @@ XLIII
 
 . त्रियामा शशिना भाति शशी भाति त्रियामया।
 
-।                                              ।                         ।
-।----------------------------------------------।-------------------------।
-। यत्र where                                   । त्रियामा the night     ।
-। परस्परम् mutual                              । शशिना by the moon      ।
-। उपकारः benefit                               । भाति looks splendid    ।
-। स्यात् is                                    । शशी the moon         ।
-। (तत्र) there                                 । त्रियामया by the night ।
-। अन्योन्यम् नाम the figure called Reciprocal । भाति looks splendid.    ।
+|                                              |                         |
+|----------------------------------------------|-------------------------|
+| यत्र where                                   | त्रियामा the night     |
+| परस्परम् mutual                              | शशिना by the moon      |
+| उपकारः benefit                               | भाति looks splendid    |
+| स्यात् is                                    | शशी the moon         |
+| (तत्र) there                                 | त्रियामया by the night |
+| अन्योन्यम् नाम the figure called Reciprocal | भाति looks splendid.    |
 
  Def. When two things benefit each other (by doing the same act causing each other's beauty), it is the Reciprocal.
 
@@ -2518,14 +2518,14 @@ XLIII
 
 ** **EX**. गतेऽपि सूर्ये दीपस्थास्तमश्छिंदंति तत्कराः॥**
 
-।                                                     ।                              ।
-।-----------------------------------------------------।------------------------------।
-। ख्यातम् well-known                                  । सूर्ये the sun              ।
-। आधारम् the containant                               । गते अपि though set          ।
-। विनापि even without                                 । दीपस्थाः abiding in the lamp ।
-। आधेयवर्णनम् the description of the Object contained । तत्कराः its (sun's) rays    ।
-। विशेषः Extraordinary                                । तमः the darkness             ।
-।                                                    । छिंदंति expel.               ।
+|                                                     |                              |
+|-----------------------------------------------------|------------------------------|
+| ख्यातम् well-known                                  | सूर्ये the sun              |
+| आधारम् the containant                               | गते अपि though set          |
+| विनापि even without                                 | दीपस्थाः abiding in the lamp |
+| आधेयवर्णनम् the description of the Object contained | तत्कराः its (sun's) rays    |
+| विशेषः Extraordinary                                | तमः the darkness             |
+|                                                    | छिंदंति expel.               |
 
  Def. The description of something dependent, *i.e.,* the object contained as existing without its wellknown supporter, *i.e.,* the containant, or in other words, the representation of the independent existence of the object contained without its supporter on which it depends, is termed the Extraordinary.
 
@@ -2557,15 +2557,15 @@ Ex
 . अंतर्बहिःपुरःपश्चात्सर्वदिक्ष्वपि सैव मे॥  
 
 
-।                           ।                                          ।
-।---------------------------।------------------------------------------।
-। यदि if                    । अंतः in                                  ।
-। एकं one                   । बहिः out                                 ।
-। वस्तु object              । पुरः in the front                       ।
-। अनेकत्र in many places    । पश्चात् behind                          ।
-। वर्ण्यते is described     । मे सर्वदिक्षु अपि in all the directions ।
-। सोऽपि that too            । सैव only she.                            ।
-। विशेषः the Extraordinary ।                                         ।
+|                           |                                          |
+|---------------------------|------------------------------------------|
+| यदि if                    | अंतः in                                  |
+| एकं one                   | बहिः out                                 |
+| वस्तु object              | पुरः in the front                       |
+| अनेकत्र in many places    | पश्चात् behind                          |
+| वर्ण्यते is described     | मे सर्वदिक्षु अपि in all the directions |
+| सोऽपि that too            | सैव only she.                            |
+| विशेषः the Extraordinary |                                         |
 
  Def. If one and the same object is described as existing in many places, it is also termed the Extra-ordinary.
 
@@ -2589,13 +2589,13 @@ Ex
 
 
 
-।                                                                      ।                                                   ।
-।----------------------------------------------------------------------।---------------------------------------------------।
-। किंचित्a certain (act)                                              । त्वां thee                                        ।
-। आरंभतः commencing to do                                              । पश्यता seeing                                     ।
-। अशक्यवस्त्वंतरकृतिश्च even the performance of another impossible act । मया by me                                        ।
-। सः the Extraordinary                                                 । कल्पद्रुमनिरीक्षणम् the sight of the *kalpa* tree ।
-।                                                                     । लब्धम् was got.                                   ।
+|                                                                      |                                                   |
+|----------------------------------------------------------------------|---------------------------------------------------|
+| किंचित्a certain (act)                                              | त्वां thee                                        |
+| आरंभतः commencing to do                                              | पश्यता seeing                                     |
+| अशक्यवस्त्वंतरकृतिश्च even the performance of another impossible act | मया by me                                        |
+| सः the Extraordinary                                                 | कल्पद्रुमनिरीक्षणम् the sight of the *kalpa* tree |
+|                                                                     | लब्धम् was got.                                   |
 
  Def. When some one who has commenced to do an act chances to do another impossible act (unconnected with the former), it is the third kind of the Extraordinary.
 
@@ -2609,14 +2609,14 @@ XLV\. **व्याघातः—**Frustration.
 
 ** **Ex**. यैर्जगत्प्रीयते हंति तैरेव कुसुमायुधः॥**
 
-।                                                      ।                                            ।
-।------------------------------------------------------।--------------------------------------------।
-। चेत् if                                              । यैः (पुष्पैः) by which (flowers)           ।
-। तथाकारि the thing which produces its natural effect । जगत् the world                            ।
-। अन्यथाकारि as the one which produces another effect  । प्रीयते is pleased                         ।
-। क्रियेत is represented                               । तैः एव by the same (flowers)              ।
-। व्याघातः स्यात् it is frudtration.                   । कुसुमायुधः the flower-shafted God of love ।
-।                                                     । हंति torments.                             ।
+|                                                      |                                            |
+|------------------------------------------------------|--------------------------------------------|
+| चेत् if                                              | यैः (पुष्पैः) by which (flowers)           |
+| तथाकारि the thing which produces its natural effect | जगत् the world                            |
+| अन्यथाकारि as the one which produces another effect  | प्रीयते is pleased                         |
+| क्रियेत is represented                               | तैः एव by the same (flowers)              |
+| व्याघातः स्यात् it is frudtration.                   | कुसुमायुधः the flower-shafted God of love |
+|                                                     | हंति torments.                             |
 
 
 
@@ -2636,15 +2636,15 @@ Second kind of Frustration.
 
 ** **Ex**. दया चेद्वाल इति मय्यपरित्याज्य एव ते॥**
 
-।                                        ।                                     ।
-।----------------------------------------।-------------------------------------।
-। सौकर्येण with facility                 । बाल इति on account of being a boy   ।
-। निबद्धा begun                          । दया चेत् if (thou hast) compassion  ।
-। क्रिया an act                          । ते by thee                        ।
-। कार्यविरोधिनी the contrary of that act । अपरित्याज्य एव cannot be abandoned. ।
-। अपि (here) also                        ।                                    ।
-। (व्याघातः) Frustration                ।                                    ।
-। मयि on me                              ।                                    ।
+|                                        |                                     |
+|----------------------------------------|-------------------------------------|
+| सौकर्येण with facility                 | बाल इति on account of being a boy   |
+| निबद्धा begun                          | दया चेत् if (thou hast) compassion  |
+| क्रिया an act                          | ते by thee                        |
+| कार्यविरोधिनी the contrary of that act | अपरित्याज्य एव cannot be abandoned. |
+| अपि (here) also                        |                                    |
+| (व्याघातः) Frustration                |                                    |
+| मयि on me                              |                                    |
 
  Def. If a certain act commenced (by one) on the ground of its being facile turns out contrary, it is the second kind of Frustration.
 
@@ -2662,15 +2662,15 @@ XLVI\. **कारणमाला—** Garland of Causes.
 
 ** **Ex.**नयेन श्रीःश्रिया त्यागस्त्यागेन विपुलं यशः॥**
 
-।                                                                                                                   ।                       ।
-।-------------------------------------------------------------------------------------------------------------------।-----------------------।
-। यथाप्राक्प्रांतकारणैः by the causes in which a preceding object is spoken of as the cause of the succeeding one । स्यात् is called      ।
-। गुंफःarrangement                                                                                                 । नयेन by morality.     ।
-। कारणमाला Garland of Causes                                                                                        । श्रीः wealth         ।
-।                                                                                                                  । श्रिया by wealth      ।
-।                                                                                                                  । त्यागः donation       ।
-।                                                                                                                  । त्यागेन by donation   ।
-।                                                                                                                  । विपुलं यशः wide fame. ।
+|                                                                                                                   |                       |
+|-------------------------------------------------------------------------------------------------------------------|-----------------------|
+| यथाप्राक्प्रांतकारणैः by the causes in which a preceding object is spoken of as the cause of the succeeding one | स्यात् is called      |
+| गुंफःarrangement                                                                                                 | नयेन by morality.     |
+| कारणमाला Garland of Causes                                                                                        | श्रीः wealth         |
+|                                                                                                                  | श्रिया by wealth      |
+|                                                                                                                  | त्यागः donation       |
+|                                                                                                                  | त्यागेन by donation   |
+|                                                                                                                  | विपुलं यशः wide fame. |
 
  Def. When a preceding object is spoken of as the cause of one succeeding it, which in turn is spoken of as the cause of what comes next and so on, it is termed the Garland of Causes.
 
@@ -2702,15 +2702,15 @@ Ex
 दोस्तंभौ जानुपर्यंतप्रलंबनमनोहरौ।  
 जानुनी रत्नमुकुराकारे तस्य महीभुजः॥
 
-।                                                                                                                                                              ।                                                                                    ।
-।--------------------------------------------------------------------------------------------------------------------------------------------------------------।------------------------------------------------------------------------------------।
-। गृहीतमुक्तरीत्यार्थश्रेणिः а series ofstatements in which each succeeding thing is taken as an attribute of each preceding and then made to cease as such । कर्णांतविश्रांते extending as far as the ears                                     ।
-। एकाकली मता is considered theNecklace                                                                                                                        । कर्णौ ears                                                                         ।
-। तस्य महीभुजः of that king                                                                                                                                    । दोस्तंभदोलितौ extrending as far as the post-like arms                              ।
-। नेत्रे eyes                                                                                                                                                  । दोस्तभौ post-like arms                                                            ।
-।                                                                                                                                                             । जानुपर्यंतप्रलंबनमनोहरौ charming on account of their extension as far as the knees ।
-।                                                                                                                                                             । जानुनी knees                                                                       ।
-।                                                                                                                                                             । रत्नमुकुराकारे appearing like jewelled mirrors.                                    ।
+|                                                                                                                                                              |                                                                                    |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| गृहीतमुक्तरीत्यार्थश्रेणिः а series ofstatements in which each succeeding thing is taken as an attribute of each preceding and then made to cease as such | कर्णांतविश्रांते extending as far as the ears                                     |
+| एकाकली मता is considered theNecklace                                                                                                                        | कर्णौ ears                                                                         |
+| तस्य महीभुजः of that king                                                                                                                                    | दोस्तंभदोलितौ extrending as far as the post-like arms                              |
+| नेत्रे eyes                                                                                                                                                  | दोस्तभौ post-like arms                                                            |
+|                                                                                                                                                             | जानुपर्यंतप्रलंबनमनोहरौ charming on account of their extension as far as the knees |
+|                                                                                                                                                             | जानुनी knees                                                                       |
+|                                                                                                                                                             | रत्नमुकुराकारे appearing like jewelled mirrors.                                    |
 
  Def. A successive series of statements made in a manner in which each succeeding thing is taken**(गृहीत)** as an attribute of each preceding thing and that thing which was first taken as an attribute is
 
@@ -2749,14 +2749,14 @@ Ex
 
 . स्मरेण हृदये तस्यास्तेन त्वयि कृतास्थितिः॥
 
-।                                                                                     ।                            ।
-।-------------------------------------------------------------------------------------।----------------------------।
-। दीपकैकावलीयोगात् from a combination of the figures the Illuminator andthe Necklace । स्मरणे by cupid            ।
-। मालदीपकम् the serial Illuminator                                                    । तस्याः हृदये in her heart  ।
-। उच्यते is called                                                                   । स्थितिः setting one's foot ।
-।                                                                                    । कृता was made              ।
-।                                                                                    । तेन by him                 ।
-।                                                                                    । त्वयि in thee              ।
+|                                                                                     |                            |
+|-------------------------------------------------------------------------------------|----------------------------|
+| दीपकैकावलीयोगात् from a combination of the figures the Illuminator andthe Necklace | स्मरणे by cupid            |
+| मालदीपकम् the serial Illuminator                                                    | तस्याः हृदये in her heart  |
+| उच्यते is called                                                                   | स्थितिः setting one's foot |
+|                                                                                    | कृता was made              |
+|                                                                                    | तेन by him                 |
+|                                                                                    | त्वयि in thee              |
 
  Def. A combination of the figures, **दीपकम्** (Illuminator XV) and **एकावली** (Necklace XLII), is called the Serial Illuminator. Or, in other words, the Serial Illuminator is that wherein a number of different objects is successively associated with one and the same attribute.
 
@@ -2774,13 +2774,13 @@ XLIX\. **सारः—**The Climax.
 
 
 
-।                           ।                        ।
-।---------------------------।------------------------।
-। उत्तरोत्तरम् successively । मधुरम् sweet           ।
-। उत्कर्षः Excellence       । तस्मात् than that      ।
-। सार इति the figure Climax । पीयुषम् the nectar     ।
-। अभिधीयते is called       । तस्मात् than that      ।
-। मधु honey                 । कवे वचः poet's speech ।
+|                           |                        |
+|---------------------------|------------------------|
+| उत्तरोत्तरम् successively | मधुरम् sweet           |
+| उत्कर्षः Excellence       | तस्मात् than that      |
+| सार इति the figure Climax | पीयुषम् the nectar     |
+| अभिधीयते is called       | तस्मात् than that      |
+| मधु honey                 | कवे वचः poet's speech |
 
  Def. Excellence (rising) successively is termed the Climax.
 
@@ -2800,13 +2800,13 @@ Ex
 
 . शत्रु मित्रं विपत्तिं च जय रंजय भंजय॥
 
-।                                ।                        ।
-।--------------------------------।------------------------।
-। क्रमिकाणाम् of serial objects । जय conquer             ।
-। क्रमेणैव in due order          । मित्रम् the friend     ।
-। समन्वयः mutual connection      । रंजय gratify           ।
-। यथासंख्यम् The Relative Order  । विपत्तिम् the calamity ।
-। शत्रुम् the foe                । भंजय destroy.          ।
+|                                |                        |
+|--------------------------------|------------------------|
+| क्रमिकाणाम् of serial objects | जय conquer             |
+| क्रमेणैव in due order          | मित्रम् the friend     |
+| समन्वयः mutual connection      | रंजय gratify           |
+| यथासंख्यम् The Relative Order  | विपत्तिम् the calamity |
+| शत्रुम् the foe                | भंजय destroy.          |
 
  Def. The Relative Order is a mutual connection of a series of objects mentioned in their due order.
 
@@ -2822,13 +2822,13 @@ LI\. **पर्यायः—**The Sequence.
 
 ** **EX**. पद्म मुक्त्वा गता चंद्रं कामिनीवदनप्रभा॥**
 
-।                                    ।                                                       ।
-।------------------------------------।-------------------------------------------------------।
-। यदि if                             । कामिनीवदनप्रभा the lustre of this lovely woman's face ।
-। एकस्य of one object                । पद्मम् the lotus                                      ।
-। पर्यायेण in succession             । मुक्त्वा having left                                  ।
-। अनेकसंशयः residing in many places । चंद्रं the moon                                       ।
-। पर्यायः the sequence               । गता resorted to.                                      ।
+|                                    |                                                       |
+|------------------------------------|-------------------------------------------------------|
+| यदि if                             | कामिनीवदनप्रभा the lustre of this lovely woman's face |
+| एकस्य of one object                | पद्मम् the lotus                                      |
+| पर्यायेण in succession             | मुक्त्वा having left                                  |
+| अनेकसंशयः residing in many places | चंद्रं the moon                                       |
+| पर्यायः the sequence               | गता resorted to.                                      |
 
  Def. When one object is described as residing in many places in succession, it is termed the Sequence.
 
@@ -2842,15 +2842,15 @@ Second kind of the Sequence.
 
 ** **Ex**. अधुना पुलिनं तत्र यत्र स्रोतः पुराऽजनि॥**
 
-।                        ।                    ।
-।------------------------।--------------------।
-। यदि वा or if           । पुरा formerly      ।
-। एकस्मिन् in one object । स्रोतः water       ।
-। अनेकम् many            । अजनि was           ।
-। सोऽपि that too         । अधुना now          ।
-। पर्यायः the sequence   । तत्र there         ।
-। संमतः is regarded      । पुलिनम् sand bank. ।
-। यत्र where             ।                   ।
+|                        |                    |
+|------------------------|--------------------|
+| यदि वा or if           | पुरा formerly      |
+| एकस्मिन् in one object | स्रोतः water       |
+| अनेकम् many            | अजनि was           |
+| सोऽपि that too         | अधुना now          |
+| पर्यायः the sequence   | तत्र there         |
+| संमतः is regarded      | पुलिनम् sand bank. |
+| यत्र where             |                   |
 
  Def. Or, if many objects are said to reside in one and the same place in succession, that too is regarded as the Sequence.
 
@@ -2866,13 +2866,13 @@ LII\. **परिवृत्तिः—**The Return.
 
 ** **Ex**. जग्राहैकं शरं मुक्त्वा कटाक्षान् सरिपुश्रियः॥**
 
-।                                                ।                                             ।
-।------------------------------------------------।---------------------------------------------।
-। न्यूनाभ्यधिकयोः of lesser and greater things । एकम् शरम् one arrow                       ।
-। मिथः mutual                                    । मुक्त्वा having discharged                  ।
-। विनिमयः exchange                               । रिपुश्रियः of the enemy's Goddess of wealth ।
-। परिवृत्तिः the Return                         । कटाक्षान् (many) side-glances               ।
-। (स राजा) that king                             । जग्राह received.                           ।
+|                                                |                                             |
+|------------------------------------------------|---------------------------------------------|
+| न्यूनाभ्यधिकयोः of lesser and greater things | एकम् शरम् one arrow                       |
+| मिथः mutual                                    | मुक्त्वा having discharged                  |
+| विनिमयः exchange                               | रिपुश्रियः of the enemy's Goddess of wealth |
+| परिवृत्तिः the Return                         | कटाक्षान् (many) side-glances               |
+| (स राजा) that king                             | जग्राह received.                           |
 
  Def. The Return is a mutual exchange of things lesser or greater.
 
@@ -2889,14 +2889,14 @@ The Exclusion of Specification.
 
 
 
-।                                 ।                                          ।
-।---------------------------------।------------------------------------------।
-। एकस्मिन् in one onject on hand । प्रदीपेषु in the lamps                  ।
-। एकम् वस्तु one object           । नतभ्रुवाम् of women of curved eye- brows ।
-। निषिध्य having denied           । स्वान्तेषु in the hearts                 ।
-। यन्त्रणम् restriction           । न not                                    ।
-। परिसङ्ख्या the Special Mention  ।                                         ।
-। स्नेहक्षयः diminution of oil    ।                                         ।
+|                                 |                                          |
+|---------------------------------|------------------------------------------|
+| एकस्मिन् in one onject on hand | प्रदीपेषु in the lamps                  |
+| एकम् वस्तु one object           | नतभ्रुवाम् of women of curved eye- brows |
+| निषिध्य having denied           | स्वान्तेषु in the hearts                 |
+| यन्त्रणम् restriction           | न not                                    |
+| परिसङ्ख्या the Special Mention  |                                         |
+| स्नेहक्षयः diminution of oil    |                                         |
 
  Def. The denial of the existence of something in a certain object and the restriction of its existence in another object constitutes the figure the Special Mention.
 
@@ -2914,13 +2914,13 @@ Ex
 
 . सद्यः शिरांसि चापान् वा नमयन्तु महीभूजः॥
 
-।                                  ।                          ।
-।----------------------------------।--------------------------।
-। तुल्यबलयोः of equal probability । महौभुजः the kings        ।
-। विरोधे when there is opposition  । सद्यः at once           ।
-। विकल्पालंकृतिः the Alternative   । शिरांसि their heads    ।
-। मता is considered                । नमयन्तु let bend       ।
-।                                 । चापान् वा or their bows. ।
+|                                  |                          |
+|----------------------------------|--------------------------|
+| तुल्यबलयोः of equal probability | महौभुजः the kings        |
+| विरोधे when there is opposition  | सद्यः at once           |
+| विकल्पालंकृतिः the Alternative   | शिरांसि their heads    |
+| मता is considered                | नमयन्तु let bend       |
+|                                 | चापान् वा or their bows. |
 
  Def. When there is an opposition of two things of equal probability, or, in other words, when the performance of two such things becomes impossible at the same time and thus restricts the agent to have recourse to only one of them, it is called the Alternative.
 
@@ -2942,13 +2942,13 @@ Ex
 
 . नश्यन्ति पश्चात्पश्यन्ति भ्रश्यन्ति च भवद्द्विषः॥
 
-।                                            ।                             ।
-।--------------------------------------------।-----------------------------।
-। युगपद्भावभाजाम् of actions of simultaniety । भवद्द्विषः thy foes         ।
-। वहुनाम् of many                            । नश्यन्ति take flight        ।
-। गुम्फः combination                         । पश्चात् on back             ।
-। समुच्चयः the Conjunction                   । पश्यन्ति see                ।
-।                                           । भ्रश्यन्ति च and fall down. ।
+|                                            |                             |
+|--------------------------------------------|-----------------------------|
+| युगपद्भावभाजाम् of actions of simultaniety | भवद्द्विषः thy foes         |
+| वहुनाम् of many                            | नश्यन्ति take flight        |
+| गुम्फः combination                         | पश्चात् on back             |
+| समुच्चयः the Conjunction                   | पश्यन्ति see                |
+|                                           | भ्रश्यन्ति च and fall down. |
 
  Def. The Conjunction is a combination of many actions that are described as being simultaneously produced.
 
@@ -2972,15 +2972,15 @@ Ex
 
 . कुलं रूपं वयो विद्या धनं च मदयन्त्यमुम्॥
 
-।                                           ।                           ।
-।-------------------------------------------।---------------------------।
-। प्राथमिकाभाजाम् of things with emulation  । कुलम् noble birth         ।
-। एककार्यान्वयः that go to effect one thing । रुपम् handsome appearance ।
-। अपि also                                  । वयः the pime of youth     ।
-। सः that *i.e.* the conjunction            । विद्या learning           ।
-।                                          । धनंच and the wealth       ।
-।                                          । अमुम् him                ।
-।                                          । मदयन्ति exhilerate        ।
+|                                           |                           |
+|-------------------------------------------|---------------------------|
+| प्राथमिकाभाजाम् of things with emulation  | कुलम् noble birth         |
+| एककार्यान्वयः that go to effect one thing | रुपम् handsome appearance |
+| अपि also                                  | वयः the pime of youth     |
+| सः that *i.e.* the conjunction            | विद्या learning           |
+|                                          | धनंच and the wealth       |
+|                                          | अमुम् him                |
+|                                          | मदयन्ति exhilerate        |
 
  Def. A combination of many things that go to effect a thing with emulation or competition, is also termed the Conjunction. Or, in other words, a combination of many things independent of each other but represented as simultaneously producing the same common effect is called the Conjunction.
 
@@ -2998,14 +2998,14 @@ Ex
 
 . गच्छत्यागच्छति पुनः पान्थः पश्यति पृच्छति॥
 
-।                                                                    ।                  ।
-।--------------------------------------------------------------------।------------------।
-। क्रमिकैकगतानाम् of actions connected with one kāraka in succession । पान्थः traveller ।
-। गुम्फः combination                                                 । गच्छति goes      ।
-। कारकदीपकम् the Case-Illuminator                                    । पुनः again       ।
-।                                                                   । आगच्छति comes    ।
-।                                                                   । पश्यति sees      ।
-।                                                                   । पृच्छति asks.    ।
+|                                                                    |                  |
+|--------------------------------------------------------------------|------------------|
+| क्रमिकैकगतानाम् of actions connected with one kāraka in succession | पान्थः traveller |
+| गुम्फः combination                                                 | गच्छति goes      |
+| कारकदीपकम् the Case-Illuminator                                    | पुनः again       |
+|                                                                   | आगच्छति comes    |
+|                                                                   | पश्यति sees      |
+|                                                                   | पृच्छति asks.    |
 
 
 
@@ -3027,12 +3027,12 @@ Ex
 
 . उत्कण्ठिता च तरुणी जगामास्तं च भानुमान्**॥**
 
-।                                                            ।                                       ।
-।------------------------------------------------------------।---------------------------------------।
-। कारणान्तरसन्निधेः through the persence of some other cause । तरुणी young ledy                    ।
-। कार्य्यसौकर्य्यम् facility of an act                      । उत्कण्ठिता च longed for (her lover) ।
-। समाधिः the convenience                                     । भानुनाम् the sun                     ।
-।                                                           । अस्तम् जगाम set in.                   ।
+|                                                            |                                       |
+|------------------------------------------------------------|---------------------------------------|
+| कारणान्तरसन्निधेः through the persence of some other cause | तरुणी young ledy                    |
+| कार्य्यसौकर्य्यम् facility of an act                      | उत्कण्ठिता च longed for (her lover) |
+| समाधिः the convenience                                     | भानुनाम् the sun                     |
+|                                                           | अस्तम् जगाम set in.                   |
 
  Def. When the accomplishment of an act is facilitated by the presence of some other cause, or in other words, when the facilitation of an act is obtained through the accidental operation of another agency, it is called the Convenience.
 
@@ -3056,13 +3056,13 @@ The Rivalry.
 
 ** **Ex**. जैत्रनेत्रानुगौ कर्णावुत्पलाभ्यामधः कृतौ॥**
 
-।                         ।                                                     ।
-।-------------------------।-----------------------------------------------------।
-। बलवतः strong            । उत्पलाभ्याम् by the lilies                         ।
-। शत्रोः of the enemy     । जैत्रनेत्रानुगौ the servants of the victorious eyes ।
-। पक्षे on any partisan   । कर्णौ the ears                                      ।
-। पराक्रमः attempt        । अधः कृतौ made to bow down.                          ।
-। प्रत्यनीकम् the Rivalry ।                                                    ।
+|                         |                                                     |
+|-------------------------|-----------------------------------------------------|
+| बलवतः strong            | उत्पलाभ्याम् by the lilies                         |
+| शत्रोः of the enemy     | जैत्रनेत्रानुगौ the servants of the victorious eyes |
+| पक्षे on any partisan   | कर्णौ the ears                                      |
+| पराक्रमः attempt        | अधः कृतौ made to bow down.                          |
+| प्रत्यनीकम् the Rivalry |                                                    |
 
  Def. When any act of injury or mortification is attempted on a partisan of one's powerful enemy (by somebody who is unable to avenge himself directly on his enemy), it is called the Rivalry.
 
@@ -3084,15 +3084,15 @@ Ex
 
 . स जितस्त्वन्मुखेनेन्दुः का वार्ता सरसीरुहासम्॥
 
-।                                                                     ।                           ।
-।---------------------------------------------------------------------।---------------------------।
-। कैमुत्येन by the expression 'howmuch more'                         । इष्यते is called         ।
-। अर्थसंसिद्धिः accomplishment of an act                             । त्वन्मुखेन by thy face    ।
-। काव्यार्थापत्तिः the Necessary Conclusion in the province of Poetry । सः इन्दुः that moon       ।
-।                                                                    । जितः was conquered        ।
-।                                                                    । सरसौरुहाम् of the lotuses ।
-।                                                                    । का what                  ।
-।                                                                    । वार्ता mention.           ।
+|                                                                     |                           |
+|---------------------------------------------------------------------|---------------------------|
+| कैमुत्येन by the expression 'howmuch more'                         | इष्यते is called         |
+| अर्थसंसिद्धिः accomplishment of an act                             | त्वन्मुखेन by thy face    |
+| काव्यार्थापत्तिः the Necessary Conclusion in the province of Poetry | सः इन्दुः that moon       |
+|                                                                    | जितः was conquered        |
+|                                                                    | सरसौरुहाम् of the lotuses |
+|                                                                    | का what                  |
+|                                                                    | वार्ता mention.           |
 
  Def. The accomplishment of an act founded upon the popular maxim **कैमुतिकन्यायः**'argument with stronger reason', is termed the Necessary Conclusion.
 
@@ -3116,14 +3116,14 @@ Ex
 
 . जितोऽसि मन्द कन्दर्प ! मच्चित्तेऽस्ति त्रिलोचनः॥
 
-।                                 ।                                   ।
-।---------------------------------।-----------------------------------।
-। समर्थनीयस्य to be esablished    । जितः असि thou hast been conquered ।
-। अर्थस्य of a fact               । मच्चित्ते in my mind             ।
-। समर्थनम् justifying             । त्रिलोचनः three-eyed god Siva     ।
-। काव्यलिंगम् the poetical reason । अस्ति resides                     ।
-। मन्द foolish                    ।                                  ।
-। कन्दर्प cupid                   ।                                  ।
+|                                 |                                   |
+|---------------------------------|-----------------------------------|
+| समर्थनीयस्य to be esablished    | जितः असि thou hast been conquered |
+| अर्थस्य of a fact               | मच्चित्ते in my mind             |
+| समर्थनम् justifying             | त्रिलोचनः three-eyed god Siva     |
+| काव्यलिंगम् the poetical reason | अस्ति resides                     |
+| मन्द foolish                    |                                  |
+| कन्दर्प cupid                   |                                  |
 
  Def. The Poetical Reason is a reason justifying a statement which requires to be established.
 
@@ -3137,13 +3137,13 @@ LXI\. **अर्थान्तरन्यासः—**The Transition.
 
  EX**.हनूमानव्धिमतरद्दुष्करं किं महात्मनाम्॥**
 
-।                                                                      ।                         ।
-।----------------------------------------------------------------------।-------------------------।
-। सामान्यविशेषयोः of & universal proposition and a particular instance । अव्धिम् the ocean       ।
-। उक्तिः assertion                                                     । अतरत् crossed           ।
-। अर्थान्तरन्यासः the Transition                                       । महात्मनाम् of great men ।
-। हनुमान् the monkey-god Hanūmān                                       । दुष्करम् impossible    ।
-।                                                                     । किम् what.             ।
+|                                                                      |                         |
+|----------------------------------------------------------------------|-------------------------|
+| सामान्यविशेषयोः of & universal proposition and a particular instance | अव्धिम् the ocean       |
+| उक्तिः assertion                                                     | अतरत् crossed           |
+| अर्थान्तरन्यासः the Transition                                       | महात्मनाम् of great men |
+| हनुमान् the monkey-god Hanūmān                                       | दुष्करम् impossible    |
+|                                                                     | किम् what.             |
 
 
 
@@ -3159,12 +3159,12 @@ particular instance.
 गुणवद्वस्तुसंसर्गाद् याति स्वल्पोऽपि गौरवम्।  
 पुष्पमालानुषंगेण सूत्रं शिरसि धार्यते॥
 
-।                                                       ।                                                        ।
-।-------------------------------------------------------।--------------------------------------------------------।
-। गुणद्वस्तुसंसर्गात् by association of the meritorious । पुष्पमालानुषंगेण by the union with a wreath of flowers ।
-। स्वल्पोऽपि even the meanest creature                  । सूत्रम् thread                                         ।
-। गौरवम् greatness                                      । शिरसि on the head                                      ।
-। याति attains                                          । धार्यते is worn                                        ।
+|                                                       |                                                        |
+|-------------------------------------------------------|--------------------------------------------------------|
+| गुणद्वस्तुसंसर्गात् by association of the meritorious | पुष्पमालानुषंगेण by the union with a wreath of flowers |
+| स्वल्पोऽपि even the meanest creature                  | सूत्रम् thread                                         |
+| गौरवम् greatness                                      | शिरसि on the head                                      |
+| याति attains                                          | धार्यते is worn                                        |
 
  Even the meanest creature, by the association of the meritorious, attains to the greatness. A thread united with a wreath of flowers is worn on the head.
 
@@ -3182,14 +3182,14 @@ LXII\. **विकस्वरः—**The Expansion.
 
 . स न जिग्ये महान्तो हि दुर्द्धर्षाः सागरा इव॥
 
-।                                                                   ।                            ।
-।-------------------------------------------------------------------।----------------------------।
-। यस्मिन् in which                                                  । सः that (king)             ।
-। विशेषसामान्यविशेषाः particular, general and particular assertions । न जिग्ये was not conquered ।
-। सः that                                                           । हि beacause                ।
-। विकस्वरः the Expansion                                            । महान्तः great men          ।
-।                                                                  । सागरा इव like the oceans   ।
-।                                                                  । दुर्द्धर्षाः unassailable. ।
+|                                                                   |                            |
+|-------------------------------------------------------------------|----------------------------|
+| यस्मिन् in which                                                  | सः that (king)             |
+| विशेषसामान्यविशेषाः particular, general and particular assertions | न जिग्ये was not conquered |
+| सः that                                                           | हि beacause                |
+| विकस्वरः the Expansion                                            | महान्तः great men          |
+|                                                                  | सागरा इव like the oceans   |
+|                                                                  | दुर्द्धर्षाः unassailable. |
 
  Def. When a particular is supported by a general which again is supported by a particular, it is called the Expansion. Or, in other words, when a Transition in which a particular instance is supported by a general proposition with a Simile, it is termed the Expansion (of the Transition).
 
@@ -3207,12 +3207,12 @@ EX
 
 . कचाः कलिन्दजातीरतमालस्तोममेचकाः॥
 
-।                                                           ।                                                                                                ।
-।-----------------------------------------------------------।------------------------------------------------------------------------------------------------।
-। उत्कर्षाहेतौ which cannot form asa cause of excellence   । कलिन्दजातीरतमालस्तोममेचकाः as black as the tamāla group grown on the bank of the Yamunā river. ।
-। तद्धेतुत्वप्रकल्पनम् attribution of a certain cause to it ।                                                                                               ।
-। प्रौढ़ोक्तिः The Bold Speech                              ।                                                                                               ।
-। कचाः the tresses                                         ।                                                                                               ।
+|                                                           |                                                                                                |
+|-----------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| उत्कर्षाहेतौ which cannot form asa cause of excellence   | कलिन्दजातीरतमालस्तोममेचकाः as black as the tamāla group grown on the bank of the Yamunā river. |
+| तद्धेतुत्वप्रकल्पनम् attribution of a certain cause to it |                                                                                               |
+| प्रौढ़ोक्तिः The Bold Speech                              |                                                                                               |
+| कचाः the tresses                                         |                                                                                               |
 
 
 
@@ -3234,15 +3234,15 @@ Ex
 
 . यदि शेषो भवेद्वक्ता कथिताः स्युर्गुणास्तव॥
 
-।                                 ।                                        ।
-।---------------------------------।----------------------------------------।
-। अन्यस्य of another act          । शेषः lord of serpents                  ।
-। सिद्धये for the accomplishment  । वक्ता narrater                         ।
-। यदि इत्थं स्यात् if it were so । भवेत् happen                           ।
-। इति So                          । तव thy                                 ।
-। ऊहः conjecture                  । गुणाः merits                           ।
-। संभावना the supposition         । कथिताः स्युः would have been described ।
-। यदि if                          ।                                       ।
+|                                 |                                        |
+|---------------------------------|----------------------------------------|
+| अन्यस्य of another act          | शेषः lord of serpents                  |
+| सिद्धये for the accomplishment  | वक्ता narrater                         |
+| यदि इत्थं स्यात् if it were so | भवेत् happen                           |
+| इति So                          | तव thy                                 |
+| ऊहः conjecture                  | गुणाः merits                           |
+| संभावना the supposition         | कथिताः स्युः would have been described |
+| यदि if                          |                                       |
 
  Def. A conjecture assumed through the use of the expression 'if it were so' for the accomplishment of another (impossible) act, is termed the Supposition.
 
@@ -3264,13 +3264,13 @@ Ex
 
 . मिथ्याध्यवसितिर्वेश्यां वशयेत् खस्रजं वहन्॥
 
-।                                                                                  ।                                         ।
-।----------------------------------------------------------------------------------।-----------------------------------------।
-। किञ्चिन्मिथ्यात्वसिद्ध्यार्थं for the purpose of establishing a false assertion । मिथ्याध्यवसितिः the false determination ।
-। मिथ्यार्थान्तरकल्पनम् a statement of another absolute false thing                । खस्रजम् garland of sky-flowers          ।
-।                                                                                 । वहन् wearing                            ।
-।                                                                                 । वेश्याम् the prostitute               ।
-।                                                                                 । वशयेत् can win over.                    ।
+|                                                                                  |                                         |
+|----------------------------------------------------------------------------------|-----------------------------------------|
+| किञ्चिन्मिथ्यात्वसिद्ध्यार्थं for the purpose of establishing a false assertion | मिथ्याध्यवसितिः the false determination |
+| मिथ्यार्थान्तरकल्पनम् a statement of another absolute false thing                | खस्रजम् garland of sky-flowers          |
+|                                                                                 | वहन् wearing                            |
+|                                                                                 | वेश्याम् the prostitute               |
+|                                                                                 | वशयेत् can win over.                    |
 
  Def. When, for purposes of establishing a false assertion, another absolute false *one* is introduced, or, in other words, if one false assertion is made to depend upon another absolute false one, then it is called the False Determination. (*Reductio ad absurdum* = reducing a position to an absurdity).
 
@@ -3292,13 +3292,13 @@ Ex
 
 . ललितं निर्गते नीरें सेतुमेषा चिकीर्षति॥
 
-।                                                                                      ।                       ।
-।--------------------------------------------------------------------------------------।-----------------------।
-। वर्ण्ये in the object on hand                                                      । एषा this (maiden)     ।
-। वर्ण्यवृत्तान्तप्रतिबिम्बस्य of the reflective representation of an incident on hand । नीरे when water       ।
-। वर्णनम् delineation                                                                 । निर्गते had gone out ।
-। ललितम् स्यात् is the Artful Indication                                               । सेतुम् bund           ।
-।                                                                                     । चिकीर्षति wishes.     ।
+|                                                                                      |                       |
+|--------------------------------------------------------------------------------------|-----------------------|
+| वर्ण्ये in the object on hand                                                      | एषा this (maiden)     |
+| वर्ण्यवृत्तान्तप्रतिबिम्बस्य of the reflective representation of an incident on hand | नीरे when water       |
+| वर्णनम् delineation                                                                 | निर्गते had gone out |
+| ललितम् स्यात् is the Artful Indication                                               | सेतुम् bund           |
+|                                                                                     | चिकीर्षति wishes.     |
 
  Def. **ललितम्** is a delineation of an incident not on hand which ends in a reflective comparison to an incident on hand.
 
@@ -3336,13 +3336,13 @@ The Second kind of the Enrapturing.
 
 ** **EX**. दीपमुद्योजयेद् यावत्तावदभ्युदितो रविः॥**
 
-।                               ।                   ।
-।-------------------------------।-------------------।
-। वाञ्छितात् than the desired   । दीपम् the lamp    ।
-। अधिकार्थस्य of something more । उद्योजयेत् kindle ।
-। संसिद्धिः attainment          । तावत् than        ।
-। प्रहर्षणम् the Enrapturing    । रविः the sun      ।
-। यावत् no sooner               । अभ्युदितः rose.   ।
+|                               |                   |
+|-------------------------------|-------------------|
+| वाञ्छितात् than the desired   | दीपम् the lamp    |
+| अधिकार्थस्य of something more | उद्योजयेत् kindle |
+| संसिद्धिः attainment          | तावत् than        |
+| प्रहर्षणम् the Enrapturing    | रविः the sun      |
+| यावत् no sooner               | अभ्युदितः rose.   |
 
  Def. The attainment of something more than what was desired is called the second kind of the Enrapturing.
 
@@ -3358,12 +3358,12 @@ Third kind of the Enrapturing.
 
 ** **Ex. **निध्यञ्जनौषधीमूलं खनता साधितो निधिः॥**
 
-।                                          ।                                            ।
-।------------------------------------------।--------------------------------------------।
-। उपायसिद्ध्यार्थात् attainment of ameans । निध्यंजनौषधीमूलम् the root of magic plant ।
-। यत्नात् from an effort                  । खनता by a digger                           ।
-। साक्षात् फलस्य of the object itself      । निधिः treasure                             ।
-। लाभः च attainment also                   । साधितः was obtained.                       ।
+|                                          |                                            |
+|------------------------------------------|--------------------------------------------|
+| उपायसिद्ध्यार्थात् attainment of ameans | निध्यंजनौषधीमूलम् the root of magic plant |
+| यत्नात् from an effort                  | खनता by a digger                           |
+| साक्षात् फलस्य of the object itself      | निधिः treasure                             |
+| लाभः च attainment also                   | साधितः was obtained.                       |
 
  Def. When, by an effort made for the attainment of a means to get the object desired, the desired object itself is obtained, it is the third kind of the Enrapturing.
 
@@ -3385,13 +3385,13 @@ Ex
 
 
 
-।                                                                                        ।                         ।
-।----------------------------------------------------------------------------------------।-------------------------।
-। इष्यमाणविरुद्धार्थसंप्राप्तिः तु the attainment of a thing opposed to what was desired । दीपम् the lamp          ।
-। विषादनम् the Despondency                                                              । उद्यीजयेत् kindles      ।
-। यावत् no sooner                                                                        । तावदेव than            ।
-।                                                                                       । सः that                ।
-।                                                                                       । निर्माणः extinguished. ।
+|                                                                                        |                         |
+|----------------------------------------------------------------------------------------|-------------------------|
+| इष्यमाणविरुद्धार्थसंप्राप्तिः तु the attainment of a thing opposed to what was desired | दीपम् the lamp          |
+| विषादनम् the Despondency                                                              | उद्यीजयेत् kindles      |
+| यावत् no sooner                                                                        | तावदेव than            |
+|                                                                                       | सः that                |
+|                                                                                       | निर्माणः extinguished. |
 
  Def. The attainment of a thing quite opposed to what was desired is termed the Despondency.
 
@@ -3418,13 +3418,13 @@ LXIX\. **उल्लासः—**Abandonment.
 **काठिन्यं कुचयोः सृष्टं वाञ्छन्त्यः पादपद्मयोः।  
 निन्दंति च विधातारं त्वद्धाटीष्वरियोषितः॥**
 
-।                            ।                                   ।
-।----------------------------।-----------------------------------।
-। कुचयोः of the bosoms       । अरियोषितः the women of (thy) foes ।
-। काठिन्यम् hardness         । त्वद्धाटीषु in thy cavalry        ।
-। पादपद्मयोः lotus like feet । विधातारम् the Creator             ।
-। सृष्टम् created            । निन्दंति censure.                ।
-। वाञ्छन्त्यः desiring       ।                                  ।
+|                            |                                   |
+|----------------------------|-----------------------------------|
+| कुचयोः of the bosoms       | अरियोषितः the women of (thy) foes |
+| काठिन्यम् hardness         | त्वद्धाटीषु in thy cavalry        |
+| पादपद्मयोः lotus like feet | विधातारम् the Creator             |
+| सृष्टम् created            | निन्दंति censure.                |
+| वाञ्छन्त्यः desiring       |                                  |
 
  Ex. O king ! the widows of thy foemen desiring, (when they are pursued by) thy cavalry, the hardness created for their bosoms to be created for their lotuslike feet censure the Creator (Brahmā).
 
@@ -3434,11 +3434,11 @@ LXIX\. **उल्लासः—**Abandonment.
 
 तदभाग्यं धनस्यैव यन्नाश्रयति सज्जनम्॥
 
-।                              ।                             ।
-।------------------------------।-----------------------------।
-। यत् because                  । तत् that                    ।
-। ससज्जनम् the good man        । धनस्य एव of the riches only ।
-। न आश्रयति does not resort to । अभाग्यम् misfortune.       ।
+|                              |                             |
+|------------------------------|-----------------------------|
+| यत् because                  | तत् that                    |
+| ससज्जनम् the good man        | धनस्य एव of the riches only |
+| न आश्रयति does not resort to | अभाग्यम् misfortune.       |
 
 
 
@@ -3450,11 +3450,11 @@ Example of (4) demerit referring to a merit.
 
 लाभोयमेव भूपालसेवकानां न चेद्वधः॥
 
-।                                            ।                     ।
-।--------------------------------------------।---------------------।
-। चेत् if                                    । न not               ।
-। भूपालसेवकानाम् of the servants of the king । अयम् एव this itself ।
-। वधः killing                                । लाभः a boon.        ।
+|                                            |                     |
+|--------------------------------------------|---------------------|
+| चेत् if                                    | न not               |
+| भूपालसेवकानाम् of the servants of the king | अयम् एव this itself |
+| वधः killing                                | लाभः a boon.        |
 
  If the servants of this king are not killed, then it itself is a boon (to them).
 
@@ -3472,14 +3472,14 @@ Ex
 
 . स्वल्पमेवांबु लभते प्रस्थं प्राप्यापि सागरम्॥
 
-।                                ।                                  ।
-।--------------------------------।----------------------------------।
-। यदि if                         । प्रस्थम् a measure              ।
-। ताभ्याम् by those two          । सागरम् ocean                     ।
-। तौ those two                   । प्राप्यापि though reached        ।
-। न स्याताम् do not occur        । स्वल्पमेव only a small quantity ।
-। सा that                        । अंबु water                       ।
-। अवज्ञालंकृतिः Non-Abandonment । लभते gets.                      ।
+|                                |                                  |
+|--------------------------------|----------------------------------|
+| यदि if                         | प्रस्थम् a measure              |
+| ताभ्याम् by those two          | सागरम् ocean                     |
+| तौ those two                   | प्राप्यापि though reached        |
+| न स्याताम् do not occur        | स्वल्पमेव only a small quantity |
+| सा that                        | अंबु water                       |
+| अवज्ञालंकृतिः Non-Abandonment | लभते gets.                      |
 
 
 
@@ -3495,11 +3495,11 @@ Example of demerit occasioning no demerit.
 
 मीलंति यदि पद्मानि का हानिरमृतद्युतेः॥
 
-।                 ।                         ।
-।-----------------।-------------------------।
-। यदि if          । अमृतद्युतेः to the moon ।
-। पद्मानि lotuses । का what                 ।
-। मीलंति contract । हानिः detriment.        ।
+|                 |                         |
+|-----------------|-------------------------|
+| यदि if          | अमृतद्युतेः to the moon |
+| पद्मानि lotuses | का what                 |
+| मीलंति contract | हानिः detriment.        |
 
  If the lotuses were to contract (at night), then what detriment accrues to the moon (nectar-rayed).
 
@@ -3519,15 +3519,15 @@ Ex
 
 
 
-।                                                        ।                            ।
-।--------------------------------------------------------।----------------------------।
-। दोषस्य of all undesired object                         । नः to us                   ।
-। अभ्यर्थना praying for                                  । शश्वत् always              ।
-। तत्रैव in itself                                       । विपदः calamities           ।
-। गुणदर्शनात् on account of theresult of good qualities । सन्तु let occur            ।
-। अनुज्ञा the Permission                                 । यासु in which             ।
-।                                                       । हरिः God Vishnu            ।
-।                                                       । संकीर्त्यते is glorified. ।
+|                                                        |                            |
+|--------------------------------------------------------|----------------------------|
+| दोषस्य of all undesired object                         | नः to us                   |
+| अभ्यर्थना praying for                                  | शश्वत् always              |
+| तत्रैव in itself                                       | विपदः calamities           |
+| गुणदर्शनात् on account of theresult of good qualities | सन्तु let occur            |
+| अनुज्ञा the Permission                                 | यासु in which             |
+|                                                       | हरिः God Vishnu            |
+|                                                       | संकीर्त्यते is glorified. |
 
  Def. The praying for an undesired object on the ground of the acquirement of virtuous qualities resulting from it, is called the Permission.
 
@@ -3549,14 +3549,14 @@ Ex
 
 शुक ! पञ्जरबन्धस्ते मधुराणां गिरां फलम्॥
 
-।                                                   ।                                  ।
-।---------------------------------------------------।----------------------------------।
-। दोषगुणयोः of demerit and merit                    । शुक ! parrot !                  ।
-। गुणदोषत्वकल्पनम् attribution of merit and demerit । ते thy                           ।
-। लेशः स्यात् is the Suggestion                    । पञ्जरबन्धः confinement in a cage ।
-। हन्त Alas !                                       । मधुराणाम् melodious             ।
-। अखिलेषु विहंगेषु when all the birds               । गिराम् of songs                 ।
-। स्वच्छन्दचारिषु freely wander                     । फलम् result.                   ।
+|                                                   |                                  |
+|---------------------------------------------------|----------------------------------|
+| दोषगुणयोः of demerit and merit                    | शुक ! parrot !                  |
+| गुणदोषत्वकल्पनम् attribution of merit and demerit | ते thy                           |
+| लेशः स्यात् is the Suggestion                    | पञ्जरबन्धः confinement in a cage |
+| हन्त Alas !                                       | मधुराणाम् melodious             |
+| अखिलेषु विहंगेषु when all the birds               | गिराम् of songs                 |
+| स्वच्छन्दचारिषु freely wander                     | फलम् result.                   |
 
  Def. **लेशः**is a figure in which the merit and demerit of one thing are respectively construed to the demerit and merit of the other.
 
@@ -3578,12 +3578,12 @@ DEF.
 
 नितंबगुर्वी तरुणी दृग्युग्मविपुला च सा॥
 
-।                                                            ।                                                      ।
-।------------------------------------------------------------।------------------------------------------------------।
-। प्रकृतार्थपरैः serving the sense on hand                   । मुद्रा the Sealing                                   ।
-। पदैः by words                                              । सा तरुणी that young maiden                           ।
-। सूच्यार्थसूचनम् intimation of the object to be hinted at । नितंबगुवीं having large buttocks                   ।
-।                                                           । दृग्युग्मविपुला च having a couple of spacious eyes. ।
+|                                                            |                                                      |
+|------------------------------------------------------------|------------------------------------------------------|
+| प्रकृतार्थपरैः serving the sense on hand                   | मुद्रा the Sealing                                   |
+| पदैः by words                                              | सा तरुणी that young maiden                           |
+| सूच्यार्थसूचनम् intimation of the object to be hinted at | नितंबगुवीं having large buttocks                   |
+|                                                           | दृग्युग्मविपुला च having a couple of spacious eyes. |
 
  Def. If the words that serve to signify the sense on hand intimate also theobject to be hinted at,then it is called the Sealing.
 
@@ -3609,15 +3609,15 @@ Ex.
 
 चतुरास्यः पतिर्लक्ष्म्या सर्वज्ञस्त्वं महीपते॥
 
-।                                                        ।                                                                                                                        ।
-।--------------------------------------------------------।------------------------------------------------------------------------------------------------------------------------।
-। प्रकृतार्थानाम् of the words servingthe sense on hand । चतुरास्यः[having](# "चतुरं आस्यं यस्य सः ") handsome face or [four](# "चत्वारि आस्यानि यस्य सः") headedGod Brahmā ।
-। क्रमिकं serial                                        । लक्ष्म्याः of riches=of Goddess Lakshmī                                                                                ।
-। न्यासम् putting                                        । पतिः lord                                                                                                              ।
-। रत्नावलीम् The Jewelled Necklace                       । सर्वज्ञः omniscient or God Siva.                                                                                      ।
-। विदुः (poets) know                                     ।                                                                                                                       ।
-। महीपते O king!                                        ।                                                                                                                       ।
-। त्वम् thou                                             ।                                                                                                                       ।
+|                                                        |                                                                                                                        |
+|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| प्रकृतार्थानाम् of the words servingthe sense on hand | चतुरास्यः[having](# "चतुरं आस्यं यस्य सः ") handsome face or [four](# "चत्वारि आस्यानि यस्य सः") headedGod Brahmā |
+| क्रमिकं serial                                        | लक्ष्म्याः of riches=of Goddess Lakshmī                                                                                |
+| न्यासम् putting                                        | पतिः lord                                                                                                              |
+| रत्नावलीम् The Jewelled Necklace                       | सर्वज्ञः omniscient or God Siva.                                                                                      |
+| विदुः (poets) know                                     |                                                                                                                       |
+| महीपते O king!                                        |                                                                                                                       |
+| त्वम् thou                                             |                                                                                                                       |
 
  Def. Ratnāvalī is a figure containing a number of words serving the sense on hand but put in an established order of succession (with reference to objects not on hand).
 
@@ -3643,12 +3643,12 @@ Ex.
 
 पद्मरागायते नासामौक्तिकं तेऽधरत्विषा॥
 
-।                                                 ।                                                         ।
-।-------------------------------------------------।---------------------------------------------------------।
-। स्वगुणत्यागात् by quitting one's own quality    । नासामौक्तिकम् nose-pearl                                ।
-। अन्यदीयगुणग्रहः assuming the qualityof another । अधरत्विषा by the lustre of the lower lip.               ।
-। तद्गुणः the Borrower                            । पद्मरागायते becomes *Padmarāga*(ruby of lotus colour). ।
-। ते thy                                         ।                                                        ।
+|                                                 |                                                         |
+|-------------------------------------------------|---------------------------------------------------------|
+| स्वगुणत्यागात् by quitting one's own quality    | नासामौक्तिकम् nose-pearl                                |
+| अन्यदीयगुणग्रहः assuming the qualityof another | अधरत्विषा by the lustre of the lower lip.               |
+| तद्गुणः the Borrower                            | पद्मरागायते becomes *Padmarāga*(ruby of lotus colour). |
+| ते thy                                         |                                                        |
 
  Def. When a thing quits its own quality and assumes that of another (excellent one), it is the Borrower.
 
@@ -3694,13 +3694,13 @@ Ex
 
 
 
-।                                                       ।                                                         ।
-।-------------------------------------------------------।---------------------------------------------------------।
-। वस्तुनि an object                                     । निर्वापिते अपि though extinguished                     ।
-। विकृते सति when disappeared                           । कांचीरत्नैः by the jems inlaid in the girdle of a lady ।
-। पूर्वावस्थानुबृत्तिः continuity of the original state । महत् ample                                              ।
-। च also                                               । महः light                                               ।
-। दीपे lamp                                            । आसीत् was.                                              ।
+|                                                       |                                                         |
+|-------------------------------------------------------|---------------------------------------------------------|
+| वस्तुनि an object                                     | निर्वापिते अपि though extinguished                     |
+| विकृते सति when disappeared                           | कांचीरत्नैः by the jems inlaid in the girdle of a lady |
+| पूर्वावस्थानुबृत्तिः continuity of the original state | महत् ample                                              |
+| च also                                               | महः light                                               |
+| दीपे lamp                                            | आसीत् was.                                              |
 
  Def. The continuity of the original condition, notwithstanding the disappearance of an object—the cause of such continuance, by the operation of another agency, is called the second kind of the Original.
 
@@ -3720,13 +3720,13 @@ Ex.
 
 चिरंरागिणि मच्चित्ते निहितोऽपि न रञ्जसि॥
 
-।                                                                                            ।                                              ।
-।--------------------------------------------------------------------------------------------।----------------------------------------------।
-। संगतान्यगुणानंमीकारम् non-assumingthe quality of another object though connected with it । चिरम् for a long time                       ।
-। अतद्गुणम् Non-Borrower                                                                     । रागिणि red (affectionate)                  ।
-। आहः call                                                                                   । मच्चित्ते in my mind                         ।
-।                                                                                           । निहितोऽपि though seated                      ।
-।                                                                                           । न रञ्जसि dost not become red(affectionate). ।
+|                                                                                            |                                              |
+|--------------------------------------------------------------------------------------------|----------------------------------------------|
+| संगतान्यगुणानंमीकारम् non-assumingthe quality of another object though connected with it | चिरम् for a long time                       |
+| अतद्गुणम् Non-Borrower                                                                     | रागिणि red (affectionate)                  |
+| आहः call                                                                                   | मच्चित्ते in my mind                         |
+|                                                                                           | निहितोऽपि though seated                      |
+|                                                                                           | न रञ्जसि dost not become red(affectionate). |
 
  Def. The non-assuming, by an object, of the quality of another though connected with it (or in
 
@@ -3754,13 +3754,13 @@ Ex.
 
 नीलोत्पलानि दधते कटाक्षैरतिनीलताम्॥
 
-।                                                                                      ।                              ।
-।--------------------------------------------------------------------------------------।------------------------------।
-। परसन्निधेः by the presence of another object                                        । अनुगुणः the Conformity       ।
-। प्राक्सिद्धस्वगुणोत्कर्षः the pre-eminence of one's ownpreviously settled quality. । नीलोत्पलानि blue lotuses     ।
-।                                                                                     । कटाक्षैः by the side-glances ।
-।                                                                                     । अतिनीलताम् extreme blueness ।
-।                                                                                     । दधते bear.                  ।
+|                                                                                      |                              |
+|--------------------------------------------------------------------------------------|------------------------------|
+| परसन्निधेः by the presence of another object                                        | अनुगुणः the Conformity       |
+| प्राक्सिद्धस्वगुणोत्कर्षः the pre-eminence of one's ownpreviously settled quality. | नीलोत्पलानि blue lotuses     |
+|                                                                                     | कटाक्षैः by the side-glances |
+|                                                                                     | अतिनीलताम् extreme blueness |
+|                                                                                     | दधते bear.                  |
 
  Def. The pre-eminence, of one's own previously settled quality, by the presence of another agency, (or, in other words, when the original quality of an object is made pre-eminent by the proximity of another object, it) is called the Conformity.
 
@@ -3780,14 +3780,14 @@ LXXIX\. **मीलितम्—**The Lost.
 
 . रसो नालक्षि लाक्षायाश्चरणे सहजारुणे॥
 
-।                                       ।                             ।
-।---------------------------------------।-----------------------------।
-। यदि if                                । मीलितम् the Lost            ।
-। सादृश्यात् on account of resem blance । सहजारुणे naturally red     ।
-। भेदः a distinction                    । चरणेin the foot            ।
-। एव alone                             । लाक्षायाः of the red lac    ।
-। न लक्ष्यते is not perceived           । रसः dye                     ।
-।                                      । न अलक्षि was not perceived. ।
+|                                       |                             |
+|---------------------------------------|-----------------------------|
+| यदि if                                | मीलितम् the Lost            |
+| सादृश्यात् on account of resem blance | सहजारुणे naturally red     |
+| भेदः a distinction                    | चरणेin the foot            |
+| एव alone                             | लाक्षायाः of the red lac    |
+| न लक्ष्यते is not perceived           | रसः dye                     |
+|                                      | न अलक्षि was not perceived. |
 
  Def. When distinction alone is not perceived (between two objects on hand) on account of their resemblance, then it is the Lost.
 
@@ -3809,13 +3809,13 @@ LXXX\. **सामान्यम्—**The Sameness.
 
 
 
-।                                       ।                                                  ।
-।---------------------------------------।--------------------------------------------------।
-। यदि if                                । पद्माकरप्रविष्टानाम् that entered the lotus-pool ।
-। सादृश्यात् on account of resemblance  । सुभ्रुवाम् of women of beautiful eye-brows      ।
-। विशेषः distinguishable peculiarity    । मुखम् face                                      ।
-। नैव लक्ष्यते is not at all perceived । न अलक्षि was not perceived.                     ।
-। सामान्यम् The Sameness               ।                                                 ।
+|                                       |                                                  |
+|---------------------------------------|--------------------------------------------------|
+| यदि if                                | पद्माकरप्रविष्टानाम् that entered the lotus-pool |
+| सादृश्यात् on account of resemblance  | सुभ्रुवाम् of women of beautiful eye-brows      |
+| विशेषः distinguishable peculiarity    | मुखम् face                                      |
+| नैव लक्ष्यते is not at all perceived | न अलक्षि was not perceived.                     |
+| सामान्यम् The Sameness               |                                                 |
 
  Def. When any distinguishable peculiarity whatever is not perceived (between two objects coming in contact) on account of their close resemblance, it is called the Sameness.
 
@@ -3845,13 +3845,13 @@ Ex.
 
 
 
-।                                                                          ।                                       ।
-।--------------------------------------------------------------------------।---------------------------------------।
-। भेदवैशिष्ट्ययोः of any distinction and of any discriminating peculiarity । सुराः the celestial beings           ।
-। स्फूर्ती in the manifestation                                            । त्वद्यशीमग्नम् eclipsed by thy fame ।
-। उन्मीलित, विशेषकौ The Un-Lost and The Un-Sameness                       । हिमाद्रिम् the Himālaya mountain     ।
-।                                                                         । शीतेन by chillness                    ।
-।                                                                         । जानते recognize.                     ।
+|                                                                          |                                       |
+|--------------------------------------------------------------------------|---------------------------------------|
+| भेदवैशिष्ट्ययोः of any distinction and of any discriminating peculiarity | सुराः the celestial beings           |
+| स्फूर्ती in the manifestation                                            | त्वद्यशीमग्नम् eclipsed by thy fame |
+| उन्मीलित, विशेषकौ The Un-Lost and The Un-Sameness                       | हिमाद्रिम् the Himālaya mountain     |
+|                                                                         | शीतेन by chillness                    |
+|                                                                         | जानते recognize.                     |
 
  Def. If any distinction prohibited in the fa **मीलित** (LXXIX) become manifest afterwards, it is called the **उन्मीलितम्**.
 
@@ -3887,13 +3887,13 @@ LXXXIII.**उत्तरम्—**The Reply.
 
 यत्रासौ वेतसी पान्थ ! तत्रेयं सुतरा सरित्॥
 
-।                                         ।                      ।
-।-----------------------------------------।----------------------।
-। किंचिदाकूतसहितम् containing some import । यत्र where           ।
-। गूढ़ोतरम् a secret reply                । असौ वेतसी that ratan ।
-। उत्तरं स्यात् is The Reply              । तव there             ।
-। पान्थ ! O traveller!                  । इयं सरित् this river ।
-।                                        । सुतरा is fordable.   ।
+|                                         |                      |
+|-----------------------------------------|----------------------|
+| किंचिदाकूतसहितम् containing some import | यत्र where           |
+| गूढ़ोतरम् a secret reply                | असौ वेतसी that ratan |
+| उत्तरं स्यात् is The Reply              | तव there             |
+| पान्थ ! O traveller!                  | इयं सरित् this river |
+|                                        | सुतरा is fordable.   |
 
  Def. A secret reply containing some indirect import (of the speaker) is called the Reply. Or, in other words, when the speaker indirectly expresses his or her own intention in a reply made to a query previously put by some person (which query is to be inferred from the answer), it is called the Reply.
 
@@ -3915,13 +3915,13 @@ Ex.
 
 के दारपोषणरताः के खेटाः किं चलं वयः॥
 
-।                                                                                          ।                                                                                     ।
-।------------------------------------------------------------------------------------------।-------------------------------------------------------------------------------------।
-। प्रश्न + उत्तरान्तर + अभिन्नम् consisting of same words of thequery and its two replies । केदारपोषणरताः those that are bent upon bringing the lands to perfection= husbandmen ।
-। चित्रमुत्तरम् a skilful Reply                                                            । के खेटाः who move in the air                                                        ।
-। उत्तरम् The Reply                                                                       । किं चलम् which is transitory                                                       ।
-। के who                                                                                   । वयः (1) birds (2) the age.                                                         ।
-। दारपोषणरताः those that are engaged in maintaining their wives                           ।                                                                                    ।
+|                                                                                          |                                                                                     |
+|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| प्रश्न + उत्तरान्तर + अभिन्नम् consisting of same words of thequery and its two replies | केदारपोषणरताः those that are bent upon bringing the lands to perfection= husbandmen |
+| चित्रमुत्तरम् a skilful Reply                                                            | के खेटाः who move in the air                                                        |
+| उत्तरम् The Reply                                                                       | किं चलम् which is transitory                                                       |
+| के who                                                                                   | वयः (1) birds (2) the age.                                                         |
+| दारपोषणरताः those that are engaged in maintaining their wives                           |                                                                                    |
 
  Def. When a skilful reply is not different from the query, or in other words, when a reply made  
 consists of the same words of the question asked, and when one reply made serves for two queries asked, then it is called also the Reply.
@@ -3939,14 +3939,14 @@ LXXXIV\. **सूक्ष्मम्—**The Subtle.
 
  Ex. **मयि पश्यति सा केशैः सीमन्तमणिमावृणीत्॥**
 
-।                                                                             ।                               ।
-।-----------------------------------------------------------------------------।-------------------------------।
-। परा—चेष्टितम् = पराशयाभिज्ञः skilledin understanding the import of another । सूक्ष्मम् The Subtle         ।
-। इतरः a second person                                                        । सा that (maiden)             ।
-। तस्य his                                                                    । मयि पश्यति when I was looking ।
-। साकूतचेष्टितम् a significant act                                           । केशैः by the tresses          ।
-।                                                                            । सीमन्तमणिम् the crest-jewel   ।
-।                                                                            । आवृणीत् concealed.            ।
+|                                                                             |                               |
+|-----------------------------------------------------------------------------|-------------------------------|
+| परा—चेष्टितम् = पराशयाभिज्ञः skilledin understanding the import of another | सूक्ष्मम् The Subtle         |
+| इतरः a second person                                                        | सा that (maiden)             |
+| तस्य his                                                                    | मयि पश्यति when I was looking |
+| साकूतचेष्टितम् a significant act                                           | केशैः by the tresses          |
+|                                                                            | सीमन्तमणिम् the crest-jewel   |
+|                                                                            | आवृणीत् concealed.            |
 
  Def. A significant act or gesture, of a person, intimated to another who is able to understand such gestures of others is called the Subtle.
 
@@ -3964,20 +3964,20 @@ LXXXV\. **पिहितम्—**The Covering.
 
 प्रिये गृहागते प्रातः कान्ता तल्पमकल्पयत्॥
 
-।                                                               ।                                                  ।
-।---------------------------------------------------------------।--------------------------------------------------।
-। परवृत्तान्तज्ञातुः of one that knows the secret of the other । साकूतचेष्टितम् significant act or an insinuation ।
-।                                                              । पिहितम् The Covering                             ।
+|                                                               |                                                  |
+|---------------------------------------------------------------|--------------------------------------------------|
+| परवृत्तान्तज्ञातुः of one that knows the secret of the other | साकूतचेष्टितम् significant act or an insinuation |
+|                                                              | पिहितम् The Covering                             |
 
 
 
 
 
-।                                                 ।                    ।
-।-------------------------------------------------।--------------------।
-। प्रातः in the morning                           । कान्ता the lady    ।
-। प्रिये गृहागते when the lover came to the house । तल्पम् the bed     ।
-।                                                । अकल्पयत् prepared. ।
+|                                                 |                    |
+|-------------------------------------------------|--------------------|
+| प्रातः in the morning                           | कान्ता the lady    |
+| प्रिये गृहागते when the lover came to the house | तल्पम् the bed     |
+|                                                | अकल्पयत् prepared. |
 
  Def. A significant act or an insinuation of a person that he or she knows the secret of another is called The Covering.
 
@@ -3997,13 +3997,13 @@ Ex.
 
 सखि ! पश्य गृहारामपरागैरस्मि धूसरा॥
 
-।                                                       ।                                                  ।
-।-------------------------------------------------------।--------------------------------------------------।
-। अन्यहेतूक्त्या by an attribution to a different cause । सखि ! friend !                                ।
-। यत् which                                             । पश्य see                                         ।
-। आकारस्व of the appearance                            । गृहारामपरागैः by the pollens of the house-garden ।
-। गोपनम् concealment                                   । धूसरा अस्मि I am made greyish.                  ।
-। व्याजोक्तिः The Disembler                             ।                                                 ।
+|                                                       |                                                  |
+|-------------------------------------------------------|--------------------------------------------------|
+| अन्यहेतूक्त्या by an attribution to a different cause | सखि ! friend !                                |
+| यत् which                                             | पश्य see                                         |
+| आकारस्व of the appearance                            | गृहारामपरागैः by the pollens of the house-garden |
+| गोपनम् concealment                                   | धूसरा अस्मि I am made greyish.                  |
+| व्याजोक्तिः The Disembler                             |                                                 |
 
  Def. The Disembler is the dissimulation of one's appearance by attributing to a different cause.
 
@@ -4027,14 +4027,14 @@ Ex.
 
 वृषापेहि परक्षेत्रादायाति क्षेत्ररक्षकः॥
 
-।                                     ।                                            ।
-।-------------------------------------।--------------------------------------------।
-। चेद् if                            । परक्षेत्रात् from another's field or wife ।
-। अन्योद्देश्यम् intended for another । अपेहि begone                              ।
-। अन्यम् प्रति to another             । क्षेत्ररक्षकः the land-lord or husband     ।
-। कथ्यते is told                     । आयाति comes.                               ।
-। गूढ़ोक्तिः The Secrecy              ।                                           ।
-। वृष ! O bull ! or luster !       ।                                           ।
+|                                     |                                            |
+|-------------------------------------|--------------------------------------------|
+| चेद् if                            | परक्षेत्रात् from another's field or wife |
+| अन्योद्देश्यम् intended for another | अपेहि begone                              |
+| अन्यम् प्रति to another             | क्षेत्ररक्षकः the land-lord or husband     |
+| कथ्यते is told                     | आयाति comes.                               |
+| गूढ़ोक्तिः The Secrecy              |                                           |
+| वृष ! O bull ! or luster !       |                                           |
 
  Def. When a speech intended to be communicated to a particular person is addressed to another *who is also before the speaker, and when that speech conveys also the intended meaning of the speaker,* it is termed the Secret Speech.
 
@@ -4076,14 +4076,14 @@ Ex.
 
 त्वामालिखन्ती दृष्ट्वान्यं धनुःपौष्यं करेऽलिखत्॥
 
-।                                                 ।                                       ।
-।-------------------------------------------------।---------------------------------------।
-। मर्मगुप्तये for concealment of one's own desing । त्वाम् thee                           ।
-। क्रियया by an act                               । आलिखन्ती painting                     ।
-। परातिसंधानम् deception played upon another      । अन्यं दृष्ट्वा seeing another (lady) ।
-। युक्तिः Covert Speech                           । पौष्पं धनुः flowery bow              ।
-।                                                । करे in the hand                       ।
-।                                                । अलिखत् drew                           ।
+|                                                 |                                       |
+|-------------------------------------------------|---------------------------------------|
+| मर्मगुप्तये for concealment of one's own desing | त्वाम् thee                           |
+| क्रियया by an act                               | आलिखन्ती painting                     |
+| परातिसंधानम् deception played upon another      | अन्यं दृष्ट्वा seeing another (lady) |
+| युक्तिः Covert Speech                           | पौष्पं धनुः flowery bow              |
+|                                                | करे in the hand                       |
+|                                                | अलिखत् drew                           |
 
 
 
@@ -4129,13 +4129,13 @@ XCI\. **छेकोक्तिः—**The Skilful Speech,
 
 भुजङ्ग एव जानीते भुजङ्गचरणं सखे॥
 
-।                                           ।                                                                  ।
-।-------------------------------------------।------------------------------------------------------------------।
-। लोकोक्तेः of the Popular Saying          । भुजंगः एव only the serpent or villain                            ।
-। अर्थान्तरगर्भिता containing another sense । भुजंगचरणम् the feet of the serpent or the behaviourof a villain ।
-। यदि स्यात् if                             । जानीते knows.                                                    ।
-। छेकोक्तिः Skilful Speech                  ।                                                                 ।
-। सखे ! friend !                            ।                                                                 ।
+|                                           |                                                                  |
+|-------------------------------------------|------------------------------------------------------------------|
+| लोकोक्तेः of the Popular Saying          | भुजंगः एव only the serpent or villain                            |
+| अर्थान्तरगर्भिता containing another sense | भुजंगचरणम् the feet of the serpent or the behaviourof a villain |
+| यदि स्यात् if                             | जानीते knows.                                                    |
+| छेकोक्तिः Skilful Speech                  |                                                                 |
+| सखे ! friend !                            |                                                                 |
 
  Def. If the Popular Saying were to contain another sense, then it is called the Skilful Speech.
 
@@ -4155,13 +4155,13 @@ Ex
 
 . मुञ्च मानं दिनं प्राप्तं नेह नन्दी हरान्तिके॥
 
-।                                                                     ।                               ।
-।---------------------------------------------------------------------।-------------------------------।
-। श्लेषकाकुभ्याम् by means of a pun or by an affected change of voice । मुञ्च मानम् remove thy anger ।
-। अपरार्थ प्रकल्पनम् construing one's speech differently              । दिनं प्राप्तम् day appeared   ।
-। वक्रोक्तिः The Crooked Speech                                      । इह here                      ।
-।                                                                    । नन्दी न no Nandin             ।
-।                                                                    । हरान्तिके near the God Śiva.  ।
+|                                                                     |                               |
+|---------------------------------------------------------------------|-------------------------------|
+| श्लेषकाकुभ्याम् by means of a pun or by an affected change of voice | मुञ्च मानम् remove thy anger |
+| अपरार्थ प्रकल्पनम् construing one's speech differently              | दिनं प्राप्तम् day appeared   |
+| वक्रोक्तिः The Crooked Speech                                      | इह here                      |
+|                                                                    | नन्दी न no Nandin             |
+|                                                                    | हरान्तिके near the God Śiva.  |
 
  Def. when a person construes a speech of another in a different sense by means of a pun or by an affected change of voice, it is called the Crooked Speech.
 
@@ -4203,13 +4203,13 @@ Ex.
 
 अहं विलोकयेऽद्यापि युध्यन्तेऽत्र सुरासुराः॥
 
-।                                                                     ।                               ।
-।---------------------------------------------------------------------।-------------------------------।
-। भूत भावि अर्थ साक्षात्कारस्य of perception of things past orfuture । सुरासुराः the gods and demons ।
-। वर्णनम् description                                                 । युध्यन्ते fight               ।
-। भाविकम् The Vision                                                  । अहम् I                       ।
-। अत्र in this place                                                  । अद्यापि even now            ।
-।                                                                    । विलोकये behold.              ।
+|                                                                     |                               |
+|---------------------------------------------------------------------|-------------------------------|
+| भूत भावि अर्थ साक्षात्कारस्य of perception of things past orfuture | सुरासुराः the gods and demons |
+| वर्णनम् description                                                 | युध्यन्ते fight               |
+| भाविकम् The Vision                                                  | अहम् I                       |
+| अत्र in this place                                                  | अद्यापि even now            |
+|                                                                    | विलोकये behold.              |
 
  Def. When something past or future is delineated *by a poet in such a manner as can bring the subject of description* vividly before the mind's eye, it is called the Vision.
 
@@ -4227,15 +4227,15 @@ Ex
 
 . सानौ यस्याभवद्युद्धं तद्धूर्जटिकिरीटिनोः॥
 
-।                                                   ।                                               ।
-।---------------------------------------------------।-----------------------------------------------।
-। ऋद्धेः of prosperity                              । यस्य of which (himālaya mountain)            ।
-। चरितम् description                               । सानौ in the summit                            ।
-। उदात्तम् The Exalted                              । तत् that=celebrated                         ।
-। च also                                            । धूर्जटिकिरीटिनोः between God Śiva and Arjuna ।
-। श्लाघ्यम् commendable action                     । युद्धम् fight                                ।
-। अन्यस्य of another                                । अभवत् took place.                             ।
-। उपलक्षणम् indirect representation of importance ।                                              ।
+|                                                   |                                               |
+|---------------------------------------------------|-----------------------------------------------|
+| ऋद्धेः of prosperity                              | यस्य of which (himālaya mountain)            |
+| चरितम् description                               | सानौ in the summit                            |
+| उदात्तम् The Exalted                              | तत् that=celebrated                         |
+| च also                                            | धूर्जटिकिरीटिनोः between God Śiva and Arjuna |
+| श्लाघ्यम् commendable action                     | युद्धम् fight                                |
+| अन्यस्य of another                                | अभवत् took place.                             |
+| उपलक्षणम् indirect representation of importance |                                              |
 
  Def. A description of prosperity of an object is termed the Exalted.
 
@@ -4285,14 +4285,14 @@ Ex.
 
 ईदृशैश्चरितैर्जाने सत्यं दोषाकरो भवान्॥
 
-।                                                                            ।                                         ।
-।----------------------------------------------------------------------------।-----------------------------------------।
-। नाम्नाम् of words                                                          । ईदृशैः these                            ।
-। योगतः by derivation                                                        । चरितैः by acts of thine                 ।
-। अन्यर्थत्वप्रकल्पनम् construing in asense different from what is intended । भवान् thy honour                        ।
-। निरुक्तिः Exposition                                                       । दोषाकरः \*maker of night or whatfaulty ।
-। (चन्द्र ! O moon !)                                                        । सत्यम् verily                           ।
-।                                                                           । जाने I know                             ।
+|                                                                            |                                         |
+|----------------------------------------------------------------------------|-----------------------------------------|
+| नाम्नाम् of words                                                          | ईदृशैः these                            |
+| योगतः by derivation                                                        | चरितैः by acts of thine                 |
+| अन्यर्थत्वप्रकल्पनम् construing in asense different from what is intended | भवान् thy honour                        |
+| निरुक्तिः Exposition                                                       | दोषाकरः \*maker of night or whatfaulty |
+| (चन्द्र ! O moon !)                                                        | सत्यम् verily                           |
+|                                                                           | जाने I know                             |
 
 Def. Exposition consists in construing words, in sensedifferent from what is intended, by an artificial derivation of those words.
 
@@ -4306,13 +4306,13 @@ XCVIII\. **प्रतिषेधः—**Prohibition.
 
 ** **Ex. **न द्यूतमेतत् कितव ! क्रीड़नं निशितैः शरैः॥**
 
-।                          ।                                                ।
-।--------------------------।------------------------------------------------।
-। प्रसिद्धस्य well-known   । एतत् द्यूतम् न this is not the playing at dice ।
-। निषेधस्य of prevention   । निशितैः शरैः by sharpened arrows               ।
-। अनुकीर्तनम् announcement । क्रीड़नम् playing.                             ।
-। प्रतिषेधः Prohibition    ।                                               ।
-। कितव ! gambler !       ।                                               ।
+|                          |                                                |
+|--------------------------|------------------------------------------------|
+| प्रसिद्धस्य well-known   | एतत् द्यूतम् न this is not the playing at dice |
+| निषेधस्य of prevention   | निशितैः शरैः by sharpened arrows               |
+| अनुकीर्तनम् announcement | क्रीड़नम् playing.                             |
+| प्रतिषेधः Prohibition    |                                               |
+| कितव ! gambler !       |                                               |
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -4338,14 +4338,14 @@ Ex.
 
 पंचमोदंचने काले कोकिलः कोकिलो भवेत्॥
 
-।                                               ।                                                                                                         ।
-।-----------------------------------------------।---------------------------------------------------------------------------------------------------------।
-। यत् which                                     । पञ्चम + उदञ्चने काले [in the spring season](# "In the season in which panchama note becomes manifest.") ।
-। सिद्धस्य एव of that thing previously effected । कोकिलः kokila bird or the Indian cuckoo                                                                 ।
-। विधानम् declaration                          । कोकिलः kokila, *i.e.*, charming                                                                         ।
-। तत् that                                      । भवेत् shall become.                                                                                     ।
-। विधि + अलंकृतिम् the figure Fitness           ।                                                                                                        ।
-। आहुः the learned call                         ।                                                                                                        ।
+|                                               |                                                                                                         |
+|-----------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| यत् which                                     | पञ्चम + उदञ्चने काले [in the spring season](# "In the season in which panchama note becomes manifest.") |
+| सिद्धस्य एव of that thing previously effected | कोकिलः kokila bird or the Indian cuckoo                                                                 |
+| विधानम् declaration                          | कोकिलः kokila, *i.e.*, charming                                                                         |
+| तत् that                                      | भवेत् shall become.                                                                                     |
+| विधि + अलंकृतिम् the figure Fitness           |                                                                                                        |
+| आहुः the learned call                         |                                                                                                        |
 
  Def. A declaration of a thing previously effected, the learned call as the figure Fitness.
 
@@ -4361,13 +4361,13 @@ C.**हेतुः—**The Cause.
 
 ** **Ex. **असावुदेति शीतांशुर्मानच्छेदाय सुभ्रुवाम्॥**
 
-।                                       ।                                            ।
-।---------------------------------------।--------------------------------------------।
-। हेतोः of a cause                      । असौ शीतांशुः that moon                     ।
-। हेतुमता सार्धम् along with its effect । सुभ्रुवान् of women of beautiful eye-brows ।
-। वर्णनम् description                   । मानच्छेदाय for quelling the pride          ।
-। हेतुः The Cause                       । उदेति rises.                               ।
-। उच्यते is termed                      ।                                           ।
+|                                       |                                            |
+|---------------------------------------|--------------------------------------------|
+| हेतोः of a cause                      | असौ शीतांशुः that moon                     |
+| हेतुमता सार्धम् along with its effect | सुभ्रुवान् of women of beautiful eye-brows |
+| वर्णनम् description                   | मानच्छेदाय for quelling the pride          |
+| हेतुः The Cause                       | उदेति rises.                               |
+| उच्यते is termed                      |                                           |
 
  Def. The description of a cause along with *its* *intended* effect is termed the Cause.
 
@@ -4379,20 +4379,20 @@ C.**हेतुः—**The Cause.
 
 ** **Ex. **लक्ष्मीविलासा विदुषां कटाक्षा वेंकटप्रभोः॥**
 
-।                                  ।                              ।
-।----------------------------------।------------------------------।
-। हेतुहेतुमतोः of cause and effect । केचित् certain rhetoricians ।
-। ऐक्यम् identity                  । हेतुम् as the figure reason ।
+|                                  |                              |
+|----------------------------------|------------------------------|
+| हेतुहेतुमतोः of cause and effect | केचित् certain rhetoricians |
+| ऐक्यम् identity                  | हेतुम् as the figure reason |
 
 
 
 
 
-।                                                                                                                     ।                                                   ।
-।---------------------------------------------------------------------------------------------------------------------।---------------------------------------------------।
-। प्रचक्षते call                                                                                                      । कटाक्षाः glances                                 ।
-। वेङ्कटप्रभोः of the Lord of the mount [venkaṭa](# "Or the King Venkata, the patron of our author Appaya Dikshita.") । विदुषाम् of learned poet                          ।
-।                                                                                                                    । लक्ष्मीविलासाः graces of the goddess of fortune. ।
+|                                                                                                                     |                                                   |
+|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| प्रचक्षते call                                                                                                      | कटाक्षाः glances                                 |
+| वेङ्कटप्रभोः of the Lord of the mount [venkaṭa](# "Or the King Venkata, the patron of our author Appaya Dikshita.") | विदुषाम् of learned poet                          |
+|                                                                                                                    | लक्ष्मीविलासाः graces of the goddess of fortune. |
 
  Def. The identity of a cause with its effect is reckoned by some as the figure the Cause.
 
@@ -4504,13 +4504,13 @@ expressed by the use of the words **तुल्य, समान,** etc., all i
 
 
 
-।                                    ।
-।------------------------------------।
-। 16 धर्मलुप्ता — श्रौती— वाक्यगता. ।
-। 17do.—आर्थी—do.                  ।
-। 18do.—श्रौती — समासगता.           ।
-। 19do.—आर्थी—do                    ।
-। 20do.— ॥ तद्धितगता.               ।
+|                                    |
+|------------------------------------|
+| 16 धर्मलुप्ता — श्रौती— वाक्यगता. |
+| 17do.—आर्थी—do.                  |
+| 18do.—श्रौती — समासगता.           |
+| 19do.—आर्थी—do                    |
+| 20do.— ॥ तद्धितगता.               |
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -5068,68 +5068,68 @@ to a beautiful dame standing on the top of a skykissing mansion, her circular fa
 
 **औपम्यमूलाः।**
 
-।                                    ।                        ।
-|:-----------------------------------|:-----------------------।
-। 1\. उपमा।                          । 17\. प्रतिवस्तूपमा।    ।
-। 2\. अनन्वय।                        । 18\. दृष्टान्त।        ।
-। 3\. उपमेयोपमा।                     । 19\. निदर्शना।         ।
-। 4\. प्रतीप।                        । 20\. व्यतिरेक।         ।
-। 5\. रूपक।                          । 21\. सहोक्ति।          ।
-। 6\. परिणाम।                        । 23\. समासोक्ति।        ।
-। 7\. उल्लेख।                        । 26\. श्लेष।            ।
-। 8\. स्मृतिमान्।                    । 27\. अप्रस्तुतप्रशंसा। ।
-। 9\. भ्रान्तिमान्।                  । 28\. प्रस्तुतांकुर।    ।
-। 10\. सन्देह।                       । 29\. पर्यायोक्त।       ।
-। 11\. अपह्नुति।                     । 66\. ललित।             ।
-। 12\. उत्प्रेक्षा।                  । 75\. तद्गुण।           ।
-। 13\. अतिशयोक्ति 1st and 2nd kinds. । 76\. पूर्वरूप।         ।
-। 14\. तुल्ययोगिता।                  । 78\. अनुगुण।           ।
-। 15\. दीपक।                         । 79\. मीलित।            ।
-। 16\. आवृत्तिदीपक।                  । 80\. सामान्य।          ।
-।                                   । 81\. उन्मीलित।         ।
-।                                   । 82 विशेषक।            ।
+|                                    |                        |
+|:-----------------------------------|:-----------------------|
+| 1\. उपमा|                          | 17\. प्रतिवस्तूपमा|    |
+| 2\. अनन्वय|                        | 18\. दृष्टान्त|        |
+| 3\. उपमेयोपमा|                     | 19\. निदर्शना|         |
+| 4\. प्रतीप|                        | 20\. व्यतिरेक|         |
+| 5\. रूपक|                          | 21\. सहोक्ति|          |
+| 6\. परिणाम|                        | 23\. समासोक्ति|        |
+| 7\. उल्लेख|                        | 26\. श्लेष|            |
+| 8\. स्मृतिमान्|                    | 27\. अप्रस्तुतप्रशंसा| |
+| 9\. भ्रान्तिमान्|                  | 28\. प्रस्तुतांकुर|    |
+| 10\. सन्देह|                       | 29\. पर्यायोक्त|       |
+| 11\. अपह्नुति|                     | 66\. ललित|             |
+| 12\. उत्प्रेक्षा|                  | 75\. तद्गुण|           |
+| 13\. अतिशयोक्ति 1st and 2nd kinds. | 76\. पूर्वरूप|         |
+| 14\. तुल्ययोगिता|                  | 78\. अनुगुण|           |
+| 15\. दीपक|                         | 79\. मीलित|            |
+| 16\. आवृत्तिदीपक|                  | 80\. सामान्य|          |
+|                                   | 81\. उन्मीलित|         |
+|                                   | 82 विशेषक|            |
 
 
 
 II\. *Figures founded on Contrast. —* **विरोधमूलाः**।
 
-।                                    ।                ।
-।------------------------------------।----------------।
-। 13\. अतिशयोक्ति 3rd and 4th kinds । 42.अल्प।      ।
-। 33\. विरोधाभास।                    । 44\. विशेष।    ।
-। 38\. विषम।                         । 54\. विकल्प।  ।
-। 41\. अधिक।                         । 77\. अतद्गुण।  ।
-।                                   । 94.‌भाविक।      ।
-।                                   । 97.निरूक्ति । ।
+|                                    |                |
+|------------------------------------|----------------|
+| 13\. अतिशयोक्ति 3rd and 4th kinds | 42.अल्प|      |
+| 33\. विरोधाभास|                    | 44\. विशेष|    |
+| 38\. विषम|                         | 54\. विकल्प|  |
+| 41\. अधिक|                         | 77\. अतद्गुण|  |
+|                                   | 94.‌भाविक|      |
+|                                   | 97.निरूक्ति | |
 
 III\. Figures adhering to, or violating, the law of causation.
 
-।                                        ।                  ।
-।----------------------------------------।------------------।
-। 13\. अतिशयोक्ति 5th, th and 7th kinds. । 40\. विचित्र।    ।
-। 34\. विभावना।                          । 43\. अन्योन्य।   ।
-। 35\. विशेषोक्ति।                       । 45.व्याघात।      ।
-। 36\. असंभव।                            । 55.समुच्चय।      ।
-। 37\. असंगति।                           । 63\. प्रौढोक्ति। ।
-।                                       । 100\. हेतु।      ।
+|                                        |                  |
+|----------------------------------------|------------------|
+| 13\. अतिशयोक्ति 5th, th and 7th kinds. | 40\. विचित्र|    |
+| 34\. विभावना|                          | 43\. अन्योन्य|   |
+| 35\. विशेषोक्ति|                       | 45.व्याघात|      |
+| 36\. असंभव|                            | 55.समुच्चय|      |
+| 37\. असंगति|                           | 63\. प्रौढोक्ति| |
+|                                       | 100\. हेतु|      |
 
 *IV. Figures relating to the Logical connection of words in a sentence. –* **वाक्यन्यायमूलाः**।
 
-।                 ।                        ।
-।-----------------।------------------------।
-। 50\. यथासंख्य।  । 56\. कारकदीपक।         ।
-। 53\. परिसंख्या। । 59\. काव्यार्थापत्ति। ।
-।                । 74\. रत्नावली।        ।
+|                 |                        |
+|-----------------|------------------------|
+| 50\. यथासंख्य|  | 56\. कारकदीपक|         |
+| 53\. परिसंख्या| | 59\. काव्यार्थापत्ति| |
+|                | 74\. रत्नावली|        |
 
 V. Figures relating to the Logical connection of senses of two sentences. –
 
 **तर्कन्यायमूलाः।**
 
-।                     ।
-।---------------------।
-। 60\. काव्यलिंग।     ।
-। 61.अर्थान्तरन्यास। ।
-। 62\. विकस्वर।      ।
+|                     |
+|---------------------|
+| 60\. काव्यलिंग|     |
+| 61.अर्थान्तरन्यास| |
+| 62\. विकस्वर|      |
 
 
 
@@ -5137,61 +5137,61 @@ VI\. Figures founded on Universality.—
 
 **लोकव्यवहारमूलाः**।
 
-।                      ।                   ।
-।----------------------।-------------------।
-। 22\. विनोक्ति।       । 69\. उल्लास।      ।
-। 39\. सम।             । 70\. अवज्ञा।      ।
-। 51\. पर्याय।         । 71.अनुज्ञा।       ।
-। 52\. परिवृत्ति।      । 72.लेश।           ।
-। 57\. समाधि।         । 90\. लोकोक्ति।    ।
-। 58\. प्रत्यनीक।      । 91.छेकोक्ति।      ।
-। 64\. संभावना।        । 93\. स्वभावोक्ति। ।
-। 65\. मिथ्याध्यवसिति। । 95.उदात्त।        ।
-। 67\. प्रहर्षण।       । 96\. अत्युक्ति।   ।
-। 68\. विषादन।         । 98\. प्रतिषेध।   ।
+|                      |                   |
+|----------------------|-------------------|
+| 22\. विनोक्ति|       | 69\. उल्लास|      |
+| 39\. सम|             | 70\. अवज्ञा|      |
+| 51\. पर्याय|         | 71.अनुज्ञा|       |
+| 52\. परिवृत्ति|      | 72.लेश|           |
+| 57\. समाधि|         | 90\. लोकोक्ति|    |
+| 58\. प्रत्यनीक|      | 91.छेकोक्ति|      |
+| 64\. संभावना|        | 93\. स्वभावोक्ति| |
+| 65\. मिथ्याध्यवसिति| | 95.उदात्त|        |
+| 67\. प्रहर्षण|       | 96\. अत्युक्ति|   |
+| 68\. विषादन|         | 98\. प्रतिषेध|   |
 
-।                                                           ।
-।-----------------------------------------------------------।
-।                         99. विधि। ।
+|                                                           |
+|-----------------------------------------------------------|
+|                         99. विधि| |
 
 VII\. Figures founded on Dissimulation.—
 
 अपह्नवमूलाः।
 
-।                   ।                  ।
-।-------------------।------------------।
-। 30\. व्याजस्तुति। । 85\. पिहित।      ।
-। 31\. व्याजनिन्दा। । 86.व्याजोक्ति।   ।
-। 32\. आक्षेप       । 87\. गूढोति।     ।
-। 83.‌ उत्तर।        । 88\. विवृतोक्ति। ।
-। 84\. सूक्ष्म।     । 89.‌युक्ति।       ।
-।                  । 92\. वक्रोक्ति। ।
+|                   |                  |
+|-------------------|------------------|
+| 30\. व्याजस्तुति| | 85\. पिहित|      |
+| 31\. व्याजनिन्दा| | 86.व्याजोक्ति|   |
+| 32\. आक्षेप       | 87\. गूढोति|     |
+| 83.‌ उत्तर|        | 88\. विवृतोक्ति| |
+| 84\. सूक्ष्म|     | 89.‌युक्ति|       |
+|                  | 92\. वक्रोक्ति| |
 
 
 
 *VIII. Figures founded on striking chain-like*  
 *description.***—शृंखलावैचित्र्यमूलाः।**
 
-।                ।                 ।
-।----------------।-----------------।
-। 46\. कारणमाला। । 48\. मालादीपक। ।
-। 47.एकावली।    । 49\. सार।      ।
+|                |                 |
+|----------------|-----------------|
+| 46\. कारणमाला| | 48\. मालादीपक| |
+| 47.एकावली|    | 49\. सार|      |
 
 
 
 IX\. Figures founded on striking epithets.—  
 विशेषणवैचित्र्यमूलाः ।
 
-।             ।                   ।
-।-------------।-------------------।
-। 24\. परिकर। । 25\. परिकरांकुर। ।
+|             |                   |
+|-------------|-------------------|
+| 24\. परिकर| | 25\. परिकरांकुर| |
 
 ***X. Figure relating to convention of Poets.—***  
 **कविसमयमूलः ।**
 
-।              ।
-।--------------।
-। 73\. मुद्रा। ।
+|              |
+|--------------|
+| 73\. मुद्रा| |
 
 **\_\_\_\_\_\_\_\_\_**
 
@@ -5501,80 +5501,80 @@ THE END.
 
 **INDEX.**
 
-।                       ।                       ।
-|:----------------------|:----------------------।
-। अक्रमातिशयोक्तिः      । उपमा (1) 1-13, 143    ।
-। अतद्गुणः (77)         । उपमावाचकशब्दाः        ।
-। अतिशयोक्तिः (13)      । Do. प्रत्ययाः         ।
-। अत्यन्तातिशयोक्तिः    । उपमेयोपमा (3)         ।
-। अत्युक्तिः (96)       । उल्लासः (69)          ।
-। अधिकम् (41)           । उल्लेखः (7)           ।
-। अनन्वयः (2)           । एकावली (47)           ।
-। अनुगुणः (78)          । कवि -समयाः            ।
-। अनुज्ञा (71)          । कारकदीपकम् (56)       ।
-। अनुमानम्              । कारणमाला (46)         ।
-। अन्योन्यम् (43)       । काव्यलिङ्गम् (60)     ।
-। अपह्नुतिः (11)        । काव्यार्थापत्तिः (59) ।
-। अप्रस्तुतप्रशंसा (27) । कैतवाह्नुतिः          ।
-। अर्थान्तरन्यासः (61)  । गूढ़ीक्तिः (87)       ।
-। अर्थापत्तिः (59)      । चपलातिशयोक्तिः        ।
-। अल्पम् (42)           । छेकापह्नुति           ।
-। अवज्ञा (70)           । छेकोक्तिः (91)        ।
-। असंगतिः (37)          । तद्गुणः (75)          ।
-। असम्बन्धातिशयोक्तिः   । तुल्ययोगिता (14)      ।
-। असंभवः (36)           । दीपकम् (15)           ।
-। आक्षेपः (32)          । दृष्टान्तः (18)       ।
-। आवृत्तिदीपकम् (1)     । निदर्शना (19)         ।
-। उत्तरम् (83)          । निरुक्तिः (97)        ।
-। उत्प्रेक्षा (12) 3    । परिकरः (24)           ।
-। उदात्तम् (95)         । परिकराङ्कुरः (25)     ।
-। उन्मीलितम् (81)       । परिणामः (6)           ।
+|                       |                       |
+|:----------------------|:----------------------|
+| अक्रमातिशयोक्तिः      | उपमा (1) 1-13, 143    |
+| अतद्गुणः (77)         | उपमावाचकशब्दाः        |
+| अतिशयोक्तिः (13)      | Do. प्रत्ययाः         |
+| अत्यन्तातिशयोक्तिः    | उपमेयोपमा (3)         |
+| अत्युक्तिः (96)       | उल्लासः (69)          |
+| अधिकम् (41)           | उल्लेखः (7)           |
+| अनन्वयः (2)           | एकावली (47)           |
+| अनुगुणः (78)          | कवि -समयाः            |
+| अनुज्ञा (71)          | कारकदीपकम् (56)       |
+| अनुमानम्              | कारणमाला (46)         |
+| अन्योन्यम् (43)       | काव्यलिङ्गम् (60)     |
+| अपह्नुतिः (11)        | काव्यार्थापत्तिः (59) |
+| अप्रस्तुतप्रशंसा (27) | कैतवाह्नुतिः          |
+| अर्थान्तरन्यासः (61)  | गूढ़ीक्तिः (87)       |
+| अर्थापत्तिः (59)      | चपलातिशयोक्तिः        |
+| अल्पम् (42)           | छेकापह्नुति           |
+| अवज्ञा (70)           | छेकोक्तिः (91)        |
+| असंगतिः (37)          | तद्गुणः (75)          |
+| असम्बन्धातिशयोक्तिः   | तुल्ययोगिता (14)      |
+| असंभवः (36)           | दीपकम् (15)           |
+| आक्षेपः (32)          | दृष्टान्तः (18)       |
+| आवृत्तिदीपकम् (1)     | निदर्शना (19)         |
+| उत्तरम् (83)          | निरुक्तिः (97)        |
+| उत्प्रेक्षा (12) 3    | परिकरः (24)           |
+| उदात्तम् (95)         | परिकराङ्कुरः (25)     |
+| उन्मीलितम् (81)       | परिणामः (6)           |
 
 
 
-।                           ।                   ।
-।---------------------------|:------------------।
-। परिवृत्तिः (52)           । ललितम् (66)       ।
-। परिसंख्या (53)            । लेशः (72)         ।
-। पर्यस्तापह्नुतिः          । लोकोक्तिः (90)    ।
-। पर्यायः (51)              । वक्रोक्तिः (92)   ।
-। पर्यायोक्तम् (29)         । विकल्पः (54)      ।
-। पिहितम् (85)              । विकस्वरः (62)     ।
-। पूर्वरूपम् (76)           । विचित्रम् (40)    ।
-। प्रतिवस्तूपमा (17)        । विधिः (99)        ।
-। प्रतिषेधः (98)            । विनोक्तिः (22)    ।
-। प्रतीपम् (4)              । विभावना (34)      ।
-। प्रत्यनीकम् (58)          । विरोधाभासः (33)   ।
-। प्रस्तुतांकुरः (28)       । विवृतोक्तिः (88) ।
-। प्रहर्षणम् (67)           । विशेषः (44)       ।
-। प्रौढ़ीक्तिः (63)         । विशेषकः (82)      ।
-। भाविकम् (94)              । विशेषोक्तिः (35)  ।
-। भेदकातिशयोक्तिः           । विषमम् (38)       ।
-। भ्रान्तापह्नुतिः          । विषादनम् (68)     ।
-। भ्रान्तिमान् (9) 25, 26, । व्यतिरेकः (20)    ।
-। मालादीपकम् (48)           । व्याघातः (45)     ।
-। मालाप्रतिवस्तूपमा         । व्याजनिन्दा (31)  ।
-। मालोपमा                   । व्याजस्तुतिः (30) ।
-। मिथ्याध्यवसितिः (65)      । व्याजोक्तिः (86)  ।
-। मौलितम् (79)              । शुद्धापह्नुतिः    ।
-। मुद्रा (73)               । श्लेषः (26)       ।
-। यथासंख्यम् (50)           । संसृष्टि          ।
-। युक्तिः (89)              । सङ्करः 159,       ।
-। रत्नावली (74)             । सन्देहः (10)      ।
-। रशनोपमा                   । समम् (39)         ।
-। रूपकम् (5)               । समाधिः (57)       ।
-। रूपकातिश्योक्तिः शुद्धा  । समासोक्तिः (23)   ।
+|                           |                   |
+|---------------------------|:------------------|
+| परिवृत्तिः (52)           | ललितम् (66)       |
+| परिसंख्या (53)            | लेशः (72)         |
+| पर्यस्तापह्नुतिः          | लोकोक्तिः (90)    |
+| पर्यायः (51)              | वक्रोक्तिः (92)   |
+| पर्यायोक्तम् (29)         | विकल्पः (54)      |
+| पिहितम् (85)              | विकस्वरः (62)     |
+| पूर्वरूपम् (76)           | विचित्रम् (40)    |
+| प्रतिवस्तूपमा (17)        | विधिः (99)        |
+| प्रतिषेधः (98)            | विनोक्तिः (22)    |
+| प्रतीपम् (4)              | विभावना (34)      |
+| प्रत्यनीकम् (58)          | विरोधाभासः (33)   |
+| प्रस्तुतांकुरः (28)       | विवृतोक्तिः (88) |
+| प्रहर्षणम् (67)           | विशेषः (44)       |
+| प्रौढ़ीक्तिः (63)         | विशेषकः (82)      |
+| भाविकम् (94)              | विशेषोक्तिः (35)  |
+| भेदकातिशयोक्तिः           | विषमम् (38)       |
+| भ्रान्तापह्नुतिः          | विषादनम् (68)     |
+| भ्रान्तिमान् (9) 25, 26, | व्यतिरेकः (20)    |
+| मालादीपकम् (48)           | व्याघातः (45)     |
+| मालाप्रतिवस्तूपमा         | व्याजनिन्दा (31)  |
+| मालोपमा                   | व्याजस्तुतिः (30) |
+| मिथ्याध्यवसितिः (65)      | व्याजोक्तिः (86)  |
+| मौलितम् (79)              | शुद्धापह्नुतिः    |
+| मुद्रा (73)               | श्लेषः (26)       |
+| यथासंख्यम् (50)           | संसृष्टि          |
+| युक्तिः (89)              | सङ्करः 159,       |
+| रत्नावली (74)             | सन्देहः (10)      |
+| रशनोपमा                   | समम् (39)         |
+| रूपकम् (5)               | समाधिः (57)       |
+| रूपकातिश्योक्तिः शुद्धा  | समासोक्तिः (23)   |
 
 
 
-।                         ।                                   ।
-।-------------------------।-----------------------------------।
-। समुच्चयः(55)           । सारः(49)                         ।
-। सम्वन्धातिशयोक्तिः     । सूक्ष्मम्(84)                    ।
-। संभावना(64)           । स्मृतिमान्‌(8)                   ।
-। सहोक्तिः(21)          । स्वभावोक्तिः(93)                 ।
-। सापह्नवरूपकातिशयोक्तिः । हेतुः(100)                      ।
-। सामान्यम्(80)          । हेत्वपह्नुतिः          ।
+|                         |                                   |
+|-------------------------|-----------------------------------|
+| समुच्चयः(55)           | सारः(49)                         |
+| सम्वन्धातिशयोक्तिः     | सूक्ष्मम्(84)                    |
+| संभावना(64)           | स्मृतिमान्‌(8)                   |
+| सहोक्तिः(21)          | स्वभावोक्तिः(93)                 |
+| सापह्नवरूपकातिशयोक्तिः | हेतुः(100)                      |
+| सामान्यम्(80)          | हेत्वपह्नुतिः          |
 
 
 

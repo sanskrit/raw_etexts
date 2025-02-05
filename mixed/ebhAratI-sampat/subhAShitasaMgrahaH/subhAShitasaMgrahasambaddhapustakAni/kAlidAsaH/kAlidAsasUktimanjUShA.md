@@ -14954,127 +14954,127 @@ author of [Nāṭyasāstra](# "देवदूतः— मुनिना भ�
 
 **APPENDIX I.**
 
-।             ।                                                                  ।
-।-------------।------------------------------------------------------------------।
-। अङ्क्यः     । A kind of drum.                                                  ।
-। अङ्गम्      । A branch, a subdivision, an aspect, limb, body.                  ।
-। अङ्गहारः    । Gesticulation.                                                   ।
-। अनुबिद्ध    । Accompanied by, full of.                                         ।
-। अभिनयः      । Gesticulation.                                                   ।
-। अर्थः       । Meaning, outfit or apparatus.                                    ।
-। आक्षिप्तिका । A particular song or air whcih is sung by approaching the stage. ।
-। आतोद्यम्    । Any kind of musical instrument.                                  ।
-। आलापः       । A from of the prelude of a Rāga.                                 ।
-। उद्गानम्    । Singing in a high pitch( in गन्धारग्राम).                        ।
-। उपगानम्     । The prelude of Rāga.                                             ।
-। उपदेशः      । Instruction.                                                    ।
-। उपवहनम्     । See उपगानम्।                                                     ।
-। उपवीणय      । To play upan a viṇā in unison withSinging viṇa to.              ।
-। उपोहनम्     । See उपगानम्.                                                     ।
-। ऊर्ध्वकः    । A kind of drum.                                                  ।
-। ककुभः       । Name of a Rāga, a kind of metre.                                 ।
-। करणः        । A term for vairous beats on a drum.                              ।
-। कला         । Art, a measure of timing.                                        ।
-। कलिका       । The bottom of a peg of the Indian lute.                          ।
-। किन्नरः     । Celestial bard.                                                  ।
-। कीचकः       । The Bamboo tree.                                                 ।
-। कुटिलिका    । A peculiar movement or gesture.                                  ।
-। कुलिका      ।          ,,                                            ।
-। कृतिः       । Composition, action                                              ।
-। कैशिक       । Name of a ग्रामराग.                                              ।
+|             |                                                                  |
+|-------------|------------------------------------------------------------------|
+| अङ्क्यः     | A kind of drum.                                                  |
+| अङ्गम्      | A branch, a subdivision, an aspect, limb, body.                  |
+| अङ्गहारः    | Gesticulation.                                                   |
+| अनुबिद्ध    | Accompanied by, full of.                                         |
+| अभिनयः      | Gesticulation.                                                   |
+| अर्थः       | Meaning, outfit or apparatus.                                    |
+| आक्षिप्तिका | A particular song or air whcih is sung by approaching the stage. |
+| आतोद्यम्    | Any kind of musical instrument.                                  |
+| आलापः       | A from of the prelude of a Rāga.                                 |
+| उद्गानम्    | Singing in a high pitch( in गन्धारग्राम).                        |
+| उपगानम्     | The prelude of Rāga.                                             |
+| उपदेशः      | Instruction.                                                    |
+| उपवहनम्     | See उपगानम्|                                                     |
+| उपवीणय      | To play upan a viṇā in unison withSinging viṇa to.              |
+| उपोहनम्     | See उपगानम्.                                                     |
+| ऊर्ध्वकः    | A kind of drum.                                                  |
+| ककुभः       | Name of a Rāga, a kind of metre.                                 |
+| करणः        | A term for vairous beats on a drum.                              |
+| कला         | Art, a measure of timing.                                        |
+| कलिका       | The bottom of a peg of the Indian lute.                          |
+| किन्नरः     | Celestial bard.                                                  |
+| कीचकः       | The Bamboo tree.                                                 |
+| कुटिलिका    | A peculiar movement or gesture.                                  |
+| कुलिका      |          ,,                                            |
+| कृतिः       | Composition, action                                              |
+| कैशिक       | Name of a ग्रामराग.                                              |
 
 
 
-।            ।                                                                                    ।
-।------------।------------------------------------------------------------------------------------।
-। खण्डकः     । A kind of dance of air, name or a metre                                            ।
-। खण्डधारा   ।                ,,                                                   ।
-। खुरकः      । A kind of dance                                                                    ।
-। गलितकः     । A kind of dance or gesticulation.                                                  ।
-। चतुरस्रकः  । Name of various postures in dancing                                                ।
-। चर्चरीरिका । A kind of gesture of song musical symphony Striking the hand to beat time          ।
-। चलितम्     । A song consisting of four parts and recited with certain gestures or gesticulaton. ।
-। चतुष्पद    । Having four parts.                                                                 ।
-। छलिकतम्    । See **चलितम्.**                                                                    ।
-। जम्भलिका   । A kind of song.                                                                    ।
-। तन्त्री    । Vieeṇā, a kind of guitar, string.                                                  ।
-। तानः       । The drone or toinc. Accompaniment.                                                 ।
-। तालः       । Rhythm, timing in music.                                                           ।
-। तेना       । A meaningless combination of characters used in singing the prelude of a Rāga.     ।
-। तूर्यं     । See आतोद्यम्।                                                                      ।
-। दुन्दुभिः  । A kind of drum.                                                                    ।
-। द्विपदिका  । A peculiar movement. A kind of metre.                                              ।
-। नर्तकी     । A dancing girl.                                                                    ।
-। नर्तयितृ   । A dancing teacher.                                                                 ।
-। नाट्यम्    । Gesticulation with language.                                                       ।
-। नृत्तम्    । simple dancing.                                                                    ।
-। नृत्यम्    । Gesticulation without language.                                                    ।
-। नेपथ्यम्   । Costume of an sctor, the part of a stage behind the scenes.                        ।
-। पटहः       । A kind of drum.                                                                    ।
-। परिवादिनी  । A lute.                                                                            ।
-। पाटः       । A combination of latters in drum beating.                                          ।
+|            |                                                                                    |
+|------------|------------------------------------------------------------------------------------|
+| खण्डकः     | A kind of dance of air, name or a metre                                            |
+| खण्डधारा   |                ,,                                                   |
+| खुरकः      | A kind of dance                                                                    |
+| गलितकः     | A kind of dance or gesticulation.                                                  |
+| चतुरस्रकः  | Name of various postures in dancing                                                |
+| चर्चरीरिका | A kind of gesture of song musical symphony Striking the hand to beat time          |
+| चलितम्     | A song consisting of four parts and recited with certain gestures or gesticulaton. |
+| चतुष्पद    | Having four parts.                                                                 |
+| छलिकतम्    | See **चलितम्.**                                                                    |
+| जम्भलिका   | A kind of song.                                                                    |
+| तन्त्री    | Vieeṇā, a kind of guitar, string.                                                  |
+| तानः       | The drone or toinc. Accompaniment.                                                 |
+| तालः       | Rhythm, timing in music.                                                           |
+| तेना       | A meaningless combination of characters used in singing the prelude of a Rāga.     |
+| तूर्यं     | See आतोद्यम्|                                                                      |
+| दुन्दुभिः  | A kind of drum.                                                                    |
+| द्विपदिका  | A peculiar movement. A kind of metre.                                              |
+| नर्तकी     | A dancing girl.                                                                    |
+| नर्तयितृ   | A dancing teacher.                                                                 |
+| नाट्यम्    | Gesticulation with language.                                                       |
+| नृत्तम्    | simple dancing.                                                                    |
+| नृत्यम्    | Gesticulation without language.                                                    |
+| नेपथ्यम्   | Costume of an sctor, the part of a stage behind the scenes.                        |
+| पटहः       | A kind of drum.                                                                    |
+| परिवादिनी  | A lute.                                                                            |
+| पाटः       | A combination of latters in drum beating.                                          |
 
 
 
-।               ।                                                                      ।
-।---------------।----------------------------------------------------------------------।
-। पदन्यासः      । Stepping in dancing.                                                 ।
-। पुष्करः       । A kind of drum.                                                      ।
-। प्रयोगः       । Representation.                                                      ।
-। प्रावेशिका    । Relating to the entrance on the stage.                               ।
-। प्राश्निकः    । An umpire, an examiner.                                              ।
-। प्रेक्षागृहम् । A theatre.                                                           ।
-। भारतः         । Name of the author of Nāṭyashastra.                                  ।
-। भावः          । Emotion, condition of the mind or body.                              ।
-। भिन्नकः       । Name of a Rāga.                                                      ।
-। भेरी          । A kettle-drum.                                                       ।
-। मन्दघटी       । A kind of metre.                                                     ।
-। मर्दलः        । A kind of drum.                                                      ।
-। मल्लघटी       । A kind of dacing or pantomimic gestute.                              ।
-। मायूरी        । One of the special beats on the Pushkara drum.                       ।
-। मार्गः        । Style of singing, dancing or acting.                                 ।
-। मार्जना       । A from of beating on a drum.                                         ।
-। मुरजः         । A kind of drum.                                                      ।
-। मूर्च्छना     । The regular ascent and descent of the notes complete musical scale. ।
-। मृदङ्गः       । A kind of drum.                                                      ।
-। मृदु          । Beautiful.                                                           ।
-। रसः           । Sentiment, flavour.                                                  ।
-। रागः          । A musical mode.                                                      ।
-। लयः           । Regulated time in music.                                             ।
-। वंशः          । The Bamboo, a flute—कृत्यम् playing on the flute.                   ।
-। वर्णः         । Elements of singing.                                                 ।
-। वलन्तिका      । A peculiar Rāga.                                                     ।
-। वल्लकी        । Viṇā, a lyre.                                                       ।
-। वस्तु         । A composition, a piece, plot                                         ।
-। वितन्त्री     । A lyre having discordant strings.                                    ।
+|               |                                                                      |
+|---------------|----------------------------------------------------------------------|
+| पदन्यासः      | Stepping in dancing.                                                 |
+| पुष्करः       | A kind of drum.                                                      |
+| प्रयोगः       | Representation.                                                      |
+| प्रावेशिका    | Relating to the entrance on the stage.                               |
+| प्राश्निकः    | An umpire, an examiner.                                              |
+| प्रेक्षागृहम् | A theatre.                                                           |
+| भारतः         | Name of the author of Nāṭyashastra.                                  |
+| भावः          | Emotion, condition of the mind or body.                              |
+| भिन्नकः       | Name of a Rāga.                                                      |
+| भेरी          | A kettle-drum.                                                       |
+| मन्दघटी       | A kind of metre.                                                     |
+| मर्दलः        | A kind of drum.                                                      |
+| मल्लघटी       | A kind of dacing or pantomimic gestute.                              |
+| मायूरी        | One of the special beats on the Pushkara drum.                       |
+| मार्गः        | Style of singing, dancing or acting.                                 |
+| मार्जना       | A from of beating on a drum.                                         |
+| मुरजः         | A kind of drum.                                                      |
+| मूर्च्छना     | The regular ascent and descent of the notes complete musical scale. |
+| मृदङ्गः       | A kind of drum.                                                      |
+| मृदु          | Beautiful.                                                           |
+| रसः           | Sentiment, flavour.                                                  |
+| रागः          | A musical mode.                                                      |
+| लयः           | Regulated time in music.                                             |
+| वंशः          | The Bamboo, a flute—कृत्यम् playing on the flute.                   |
+| वर्णः         | Elements of singing.                                                 |
+| वलन्तिका      | A peculiar Rāga.                                                     |
+| वल्लकी        | Viṇā, a lyre.                                                       |
+| वस्तु         | A composition, a piece, plot                                         |
+| वितन्त्री     | A lyre having discordant strings.                                    |
 
 
 
-।              ।                                                                           ।
-।--------------।---------------------------------------------------------------------------।
-। वृत्तिः      । Style of dramatic representation Action.                                  ।
-। वेणुः        । Flute.                                                                    ।
-। शङ्खः        । A conch.                                                                  ।
-। शाखायः       । (Gesticulation by) poses of the hand.                                     ।
-। षड्जसंवादिनी । Resembling the shaḍja, the first note of a musical scale or drone         ।
-। संगीतकम्     । Music, comprising dancing etc.                                            ।
-। संगीतरचना    । Preliminaries of respresentation.                                         ।
-। संगीतशाला    । Concert-hall.                                                             ।
-। सत्त्वम्     । Life, purity, style, the pegs of a lyre by which its strings are strained ।
-। संधिः        । Critical junctures or situations in a drama.                              ।
-। स्थानम्      । See तानः                                                                  ।
-। स्थानकः      । A particular point or situation in dramatic action                        ।
-। स्वरः        । A tone, a note                                                            ।
+|              |                                                                           |
+|--------------|---------------------------------------------------------------------------|
+| वृत्तिः      | Style of dramatic representation Action.                                  |
+| वेणुः        | Flute.                                                                    |
+| शङ्खः        | A conch.                                                                  |
+| शाखायः       | (Gesticulation by) poses of the hand.                                     |
+| षड्जसंवादिनी | Resembling the shaḍja, the first note of a musical scale or drone         |
+| संगीतकम्     | Music, comprising dancing etc.                                            |
+| संगीतरचना    | Preliminaries of respresentation.                                         |
+| संगीतशाला    | Concert-hall.                                                             |
+| सत्त्वम्     | Life, purity, style, the pegs of a lyre by which its strings are strained |
+| संधिः        | Critical junctures or situations in a drama.                              |
+| स्थानम्      | See तानः                                                                  |
+| स्थानकः      | A particular point or situation in dramatic action                        |
+| स्वरः        | A tone, a note                                                            |
 
 APPENDEXII
 
-।                      ।                                 ।
-।----------------------।---------------------------------।
-। दुल्लहो पिहो तस्मिं. । मालविकाII.4.                   ।
-। ईसीसि चुम्बिआइ.      । शाकुंतलेI.I.                   ।
-। अहिणवमहुलोलुवो       । शाकुंतलेV.I.                   ।
-। अविसअगमणम्           । शाकुंंतलेV.II.I.(Kashmir Mss) ।
-। चर्चरी               । विक्रमो. IV.                    ।
+|                      |                                 |
+|----------------------|---------------------------------|
+| दुल्लहो पिहो तस्मिं. | मालविकाII.4.                   |
+| ईसीसि चुम्बिआइ.      | शाकुंतलेI.I.                   |
+| अहिणवमहुलोलुवो       | शाकुंतलेV.I.                   |
+| अविसअगमणम्           | शाकुंंतलेV.II.I.(Kashmir Mss) |
+| चर्चरी               | विक्रमो. IV.                    |
 
 Vide pages 135-149 of this Book.  
 END.

@@ -1098,21 +1098,21 @@ whole of Northern India from 606 A.D. to 647 A.D. Bana was one of his foremost f
 
 हर्षचरितसंग्रहशोधनम्।
 
-।                  ।
-|:-----------------।
-। शुद्धम्          ।
-। द्वादश्यां       ।
-। यावज्जीवम्।      ।
-। हारैः समुत्सा... ।
-। उत्पत्स्यमानानां ।
-। सोच्छवासं        ।
-। धन्यः           ।
-। चरणाभ्या         ।
-। परिजनेनेवा       ।
-। रुदता            ।
-। पापमलेन          ।
-। एकभर्तृ          ।
-। श्रुत्वा         ।
+|                  |
+|:-----------------|
+| शुद्धम्          |
+| द्वादश्यां       |
+| यावज्जीवम्|      |
+| हारैः समुत्सा... |
+| उत्पत्स्यमानानां |
+| सोच्छवासं        |
+| धन्यः           |
+| चरणाभ्या         |
+| परिजनेनेवा       |
+| रुदता            |
+| पापमलेन          |
+| एकभर्तृ          |
+| श्रुत्वा         |
 
 
 
@@ -1122,349 +1122,349 @@ whole of Northern India from 606 A.D. to 647 A.D. Bana was one of his foremost f
 
 This follows Text order.
 
-।             ।                       ।
-।-------------।-----------------------।
-। वृत्त       । character,Round      ।
-। गुण(गुणिनि) । Merit, thread         ।
-। जनपद        । Country               ।
-। प्रतिनिधि   । Representative        ।
-। नामाभिहार   । Synonym              ।
-। वसु         । Wealth               ।
-। वर्ण        । Caste,Colour          ।
-। मर्यादा     । Boundary              ।
-। कला         । Digits, Arts          ।
-। गुरु        । Great, Brihaspathi    ।
-। पृथु        । Broad, A king         ।
-। विशाल       । Broad, A king         ।
-। जनक         । Creator, A king       ।
-। बुध         । Wise, Planet Mercury  ।
-। अर्जुन      । White, Arjuna         ।
-। भीष्म       । Terriflo, Bhishma     ।
-। भव          । Siva                  ।
-। प्रतीहारी   । Portress              ।
-। परिव्राट्   । Ascetic               ।
-। प्रांशु     । Tall                  ।
-। मस्करिन्    । Ascetic               ।
-। कार्पटिक    । Pilgrim               ।
-। आकर         । Mine                  ।
-। श्रीफल      । Bilva Fruit           ।
-। उपायन       । Present               ।
-। यन्त्रणा    । Restriction           ।
-। अजिन        । Skin                  ।
-। राजक        । A collection of kings ।
-। गौरव        । Greatness.Heaviness  ।
-। स्वापतेय    । Property              ।
-। कोश         । Treasury              ।
-। व्यतिक्रम   । Transgressing         ।
-। सोपग्रहम्   । Affectionately        ।
-। अर्गल       । Bolt                  ।
-। संकेत       । Agreement             ।
-। मण्डल       । Circle                ।
-। उत्तानशय    । Lying supinely        ।
-। उष्णीष      । Turban                ।
-। प्रतिसर     । A piece of thread     ।
-। विस्रब्धम्  । Confidently           ।
-। कौणप        । Fiend                 ।
-। अदीर्यत     । Burst                 ।
-। अवलेप       । Conceit               ।
-। बलि         । Oblation              ।
+|             |                       |
+|-------------|-----------------------|
+| वृत्त       | character,Round      |
+| गुण(गुणिनि) | Merit, thread         |
+| जनपद        | Country               |
+| प्रतिनिधि   | Representative        |
+| नामाभिहार   | Synonym              |
+| वसु         | Wealth               |
+| वर्ण        | Caste,Colour          |
+| मर्यादा     | Boundary              |
+| कला         | Digits, Arts          |
+| गुरु        | Great, Brihaspathi    |
+| पृथु        | Broad, A king         |
+| विशाल       | Broad, A king         |
+| जनक         | Creator, A king       |
+| बुध         | Wise, Planet Mercury  |
+| अर्जुन      | White, Arjuna         |
+| भीष्म       | Terriflo, Bhishma     |
+| भव          | Siva                  |
+| प्रतीहारी   | Portress              |
+| परिव्राट्   | Ascetic               |
+| प्रांशु     | Tall                  |
+| मस्करिन्    | Ascetic               |
+| कार्पटिक    | Pilgrim               |
+| आकर         | Mine                  |
+| श्रीफल      | Bilva Fruit           |
+| उपायन       | Present               |
+| यन्त्रणा    | Restriction           |
+| अजिन        | Skin                  |
+| राजक        | A collection of kings |
+| गौरव        | Greatness.Heaviness  |
+| स्वापतेय    | Property              |
+| कोश         | Treasury              |
+| व्यतिक्रम   | Transgressing         |
+| सोपग्रहम्   | Affectionately        |
+| अर्गल       | Bolt                  |
+| संकेत       | Agreement             |
+| मण्डल       | Circle                |
+| उत्तानशय    | Lying supinely        |
+| उष्णीष      | Turban                |
+| प्रतिसर     | A piece of thread     |
+| विस्रब्धम्  | Confidently           |
+| कौणप        | Fiend                 |
+| अदीर्यत     | Burst                 |
+| अवलेप       | Conceit               |
+| बलि         | Oblation              |
 
 
 
-।                   ।                                          ।
-|:------------------|:-----------------------------------------।
-। तपस्वी           । Pitiable                                 ।
-। प्रकोष्ठ          । Forearm                                 ।
-। काकोदर           । Serpent                                  ।
-। हेति              । Weapon                                  ।
-। चर्मफलक          । Shield                                   ।
-। अर्धोरुक          । Under wear (equivalent of Modern Shorts) ।
-। कक्ष्या           । Sash                                     ।
-। चापल             । Rash act                                 ।
-। अवष्टम्भ          । Courage                                 ।
-। सत्त्व            । Inherent power                          ।
-। मुद्गर            । Hummer                                  ।
-। व्यतिकर           । Occurrence                              ।
-। तोरण              । Porch                                   ।
-। हर्ष              । Joy.King Harsha                        ।
-। व्यसन             । Heart's desire                          ।
-। पञ्जर             । Cage                                    ।
-। धात्री            । Nurse                                   ।
-। ब्रह्मन्          । Veda                                    ।
-। पल्लवक            । Libertine. sprout                       ।
-। विप्रलम्भक        । Cheat                                   ।
-। दोषाभिषज्ञ        । Contact of vise                         ।
-। उपधा              । Trial or test ofHonesty                ।
-। निमेषोन्मेषौ      । The shutting and opening (of the eyes)  ।
-। उच्छ्रासनिःश्वासौ । Exhalation and inhalation               ।
-। अधर्म्या          । Inconsistent with duty                  ।
-। संस्तुत           । Acquainted                              ।
-। अभिजन             । Descent                                 ।
-। गाम् (गो)         । Earth                                   ।
-। प्रमाण            । Authority                               ।
-। पटवितान           । Canopy                                  ।
-। औत्सुक्य          । Ardent desire                           ।
-। विविक्त           । Solitary                               ।
-। जामातृ            । Son-in-law                              ।
-। कालात्यय          । Lapse of time                           ।
-। प्रतीपम्          । Backward                                ।
-। माधव              । Vasanta                                ।
-। कौतुकगृह          । A bridal house                          ।
-। पेशलम्           । Gently                                  ।
-। सुधा              । Lime                                    ।
-। शिखा              । Flame.Top                              ।
-। लाज               । Fried grain                             ।
-। विभावसु           । Fire                                    ।
-। उपधान             । A pillow                                ।
-। वासगृह            । Bed-Chamber                             ।
-। हूण               । Huns                                    ।
-। उत्तरापथ          । Northern part                           ।
-। मृगया             । Hunt                                    ।
-। श्वापद            । Wild beast                              ।
-। वासतेयी           । Night                                   ।
-। विपप्रथे          । Spread over                            ।
-। चीरचीरिका         । A piece of rag                          ।
+|                   |                                          |
+|:------------------|:-----------------------------------------|
+| तपस्वी           | Pitiable                                 |
+| प्रकोष्ठ          | Forearm                                 |
+| काकोदर           | Serpent                                  |
+| हेति              | Weapon                                  |
+| चर्मफलक          | Shield                                   |
+| अर्धोरुक          | Under wear (equivalent of Modern Shorts) |
+| कक्ष्या           | Sash                                     |
+| चापल             | Rash act                                 |
+| अवष्टम्भ          | Courage                                 |
+| सत्त्व            | Inherent power                          |
+| मुद्गर            | Hummer                                  |
+| व्यतिकर           | Occurrence                              |
+| तोरण              | Porch                                   |
+| हर्ष              | Joy.King Harsha                        |
+| व्यसन             | Heart's desire                          |
+| पञ्जर             | Cage                                    |
+| धात्री            | Nurse                                   |
+| ब्रह्मन्          | Veda                                    |
+| पल्लवक            | Libertine. sprout                       |
+| विप्रलम्भक        | Cheat                                   |
+| दोषाभिषज्ञ        | Contact of vise                         |
+| उपधा              | Trial or test ofHonesty                |
+| निमेषोन्मेषौ      | The shutting and opening (of the eyes)  |
+| उच्छ्रासनिःश्वासौ | Exhalation and inhalation               |
+| अधर्म्या          | Inconsistent with duty                  |
+| संस्तुत           | Acquainted                              |
+| अभिजन             | Descent                                 |
+| गाम् (गो)         | Earth                                   |
+| प्रमाण            | Authority                               |
+| पटवितान           | Canopy                                  |
+| औत्सुक्य          | Ardent desire                           |
+| विविक्त           | Solitary                               |
+| जामातृ            | Son-in-law                              |
+| कालात्यय          | Lapse of time                           |
+| प्रतीपम्          | Backward                                |
+| माधव              | Vasanta                                |
+| कौतुकगृह          | A bridal house                          |
+| पेशलम्           | Gently                                  |
+| सुधा              | Lime                                    |
+| शिखा              | Flame.Top                              |
+| लाज               | Fried grain                             |
+| विभावसु           | Fire                                    |
+| उपधान             | A pillow                                |
+| वासगृह            | Bed-Chamber                             |
+| हूण               | Huns                                    |
+| उत्तरापथ          | Northern part                           |
+| मृगया             | Hunt                                    |
+| श्वापद            | Wild beast                              |
+| वासतेयी           | Night                                   |
+| विपप्रथे          | Spread over                            |
+| चीरचीरिका         | A piece of rag                          |
 
 
 
-।               ।                                                                                      ।
-।---------------।--------------------------------------------------------------------------------------।
-। पफाल          । Was broken                                                                          ।
-। परिबर्ह       । Royal insignia                                                                      ।
-। पर्याण        । Saddle                                                                              ।
-। परिवर्धक      । Groom                                                                               ।
-। पण्य          । Merchandise                                                                         ।
-। यातुधान       । Fiend                                                                               ।
-। स्कन्धावार    । Capital                                                                             ।
-। विष्कम्भ      । Support                                                                             ।
-। यमपट्टिक      । Yamaloka-Inforno showman                                                            ।
-। चरू           । Odiation of rice                                                                    ।
-। प्रयत         । Holy                                                                                ।
-। प्रघण         । Porch before the door of a house                                                    ।
-। क्वाथ         । Decoction                                                                           ।
-। कक्ष्यान्तर   । Inner court                                                                         ।
-। अवग्रहणी      । Vestibule                                                                           ।
-। पक्षद्वार     । Side door                                                                           ।
-। संज्ञा        । Hint                                                                               ।
-। जृम्भिका      । Yawning                                                                             ।
-। अनुबन्धिका    । Pain in the joints or hiccough                                                      ।
-। आवर्जित       । Influenced                                                                          ।
-। आधि           । Mental pain                                                                         ।
-। ज्ञाति        । Relative                                                                            ।
-। दुधुक्षे      । Kindled                                                                             ।
-। उष्ट          । Camel                                                                               ।
-। प्रतिकर्म     । Personal decoration                                                                 ।
-। अभिजात        । Nobly-born                                                                          ।
-। सांप्रतम्     । (Ind) Properly                                                                      ।
-। निधानीकृत     । Stored up                                                                           ।
-। विजुघूर्णिरे  । Rolled about                                                                        ।
-। व्यावक्रोशी   । Mutual cawing                                                                       ।
-। उत्पात        । Portent                                                                             ।
-। समुच्छून      । Swollen                                                                             ।
-। कुट्टिम       । Pavement                                                                            ।
-। अनुक्रोश      । Compassion                                                                          ।
-। आमन्त्रण      । Bidding goodbye                                                                     ।
-। स्वापतेय      । Wealth                                                                              ।
-। बभ्रु         । Reddish brown                                                                       ।
-। कौलेयक        । A hound                                                                             ।
-। गद्गदिका      । Sobbing                                                                             ।
-। प्राकृत       । Unrefined                                                                           ।
-। शौण्ड         । Skilled                                                                             ।
-। पुरुषप्रकाण्ड । Eminent man                                                                         ।
-। स्नेह         । Love, Oil                                                                           ।
-। भूति          । Ash, Prosperity                                                                     ।
-। विश्वस्ता     । Widow, Confidant                                                                    ।
-। अतिशय         । Eminence                                                                            ।
-। भीमरथी        । The seventh night in the seventh month of the seventy-seventh year of a man's life. ।
-। अपदान         । Noble deed                                                                          ।
-। कृकवाकु       । Cook                                                                                ।
-। यूथप          । Leader (of elephants)                                                               ।
-। कक्ष्या       । Courtyard, Girth rope                                                              ।
+|               |                                                                                      |
+|---------------|--------------------------------------------------------------------------------------|
+| पफाल          | Was broken                                                                          |
+| परिबर्ह       | Royal insignia                                                                      |
+| पर्याण        | Saddle                                                                              |
+| परिवर्धक      | Groom                                                                               |
+| पण्य          | Merchandise                                                                         |
+| यातुधान       | Fiend                                                                               |
+| स्कन्धावार    | Capital                                                                             |
+| विष्कम्भ      | Support                                                                             |
+| यमपट्टिक      | Yamaloka-Inforno showman                                                            |
+| चरू           | Odiation of rice                                                                    |
+| प्रयत         | Holy                                                                                |
+| प्रघण         | Porch before the door of a house                                                    |
+| क्वाथ         | Decoction                                                                           |
+| कक्ष्यान्तर   | Inner court                                                                         |
+| अवग्रहणी      | Vestibule                                                                           |
+| पक्षद्वार     | Side door                                                                           |
+| संज्ञा        | Hint                                                                               |
+| जृम्भिका      | Yawning                                                                             |
+| अनुबन्धिका    | Pain in the joints or hiccough                                                      |
+| आवर्जित       | Influenced                                                                          |
+| आधि           | Mental pain                                                                         |
+| ज्ञाति        | Relative                                                                            |
+| दुधुक्षे      | Kindled                                                                             |
+| उष्ट          | Camel                                                                               |
+| प्रतिकर्म     | Personal decoration                                                                 |
+| अभिजात        | Nobly-born                                                                          |
+| सांप्रतम्     | (Ind) Properly                                                                      |
+| निधानीकृत     | Stored up                                                                           |
+| विजुघूर्णिरे  | Rolled about                                                                        |
+| व्यावक्रोशी   | Mutual cawing                                                                       |
+| उत्पात        | Portent                                                                             |
+| समुच्छून      | Swollen                                                                             |
+| कुट्टिम       | Pavement                                                                            |
+| अनुक्रोश      | Compassion                                                                          |
+| आमन्त्रण      | Bidding goodbye                                                                     |
+| स्वापतेय      | Wealth                                                                              |
+| बभ्रु         | Reddish brown                                                                       |
+| कौलेयक        | A hound                                                                             |
+| गद्गदिका      | Sobbing                                                                             |
+| प्राकृत       | Unrefined                                                                           |
+| शौण्ड         | Skilled                                                                             |
+| पुरुषप्रकाण्ड | Eminent man                                                                         |
+| स्नेह         | Love, Oil                                                                           |
+| भूति          | Ash, Prosperity                                                                     |
+| विश्वस्ता     | Widow, Confidant                                                                    |
+| अतिशय         | Eminence                                                                            |
+| भीमरथी        | The seventh night in the seventh month of the seventy-seventh year of a man's life. |
+| अपदान         | Noble deed                                                                          |
+| कृकवाकु       | Cook                                                                                |
+| यूथप          | Leader (of elephants)                                                               |
+| कक्ष्या       | Courtyard, Girth rope                                                              |
 
 
 
-।                     ।                                                             ।
-।---------------------।-------------------------------------------------------------।
-। निषादिन्           । Rider                                                      ।
-। मन्दुरा             । Stable                                                     ।
-। अखिल                । Quadrangle                                                 ।
-। निलय                । House                                                      ।
-। निरय                । Hell                                                       ।
-। कल्य                । Healthy                                                    ।
-। पराचीन              । Opposed to                                                 ।
-। उपकरण               । Articles                                                   ।
-। कीकस                । Bone                                                       ।
-। मौल                 । Hereditary                                                 ।
-। आकर                 । Crowd                                                      ।
-। चतुरशाल             । Quadrangle enolosed by four buildings.                     ।
-। वितर्दिका           । Baloony                                                    ।
-। पर्यङ्किका          । A small sofa                                               ।
-। जोषम्               । (End) Silently                                             ।
-। पारावार             । Ocean                                                      ।
-। वामता               । Refractoriness.                                            ।
-। स्त्रैण             । Womaniabness                                               ।
-। प्रस्त्रवण          । Scream                                                     ।
-। निस्त्रिंश          । Sword                                                      ।
-। माम् अन्तरण         । About me                                                   ।
-। समाक्षेप            । Distraction                                                ।
-। अवग्रह              । Drought                                                    ।
-। धन्वन्              । Desert                                                     ।
-। अङ्गार              । Burning cinder                                             ।
-। दुर्विनीत           । Arrogant                                                   ।
-। कर्मान्तिक          । Servant                                                    ।
-। स्त्रैण             । Crowd of women                                             ।
-। निगड                । Fetters                                                    ।
-। आवेग                । Excitement                                                 ।
-। परिकर               । Rstinue                                                    ।
-। अश्ववार             । An officer of cavalry                                      ।
-। आशीविष              । Serpent                                                    ।
-। विग्रह              । Battle                                                     ।
-। प्राग्रहर           । Fore-most                                                  ।
-। अधिचार              । Magical spell for securing some malevolent purpose         ।
-। विपकृत              । Insulted, worked by Brahmana                               ।
-। प्रधन               । War                                                        ।
-। शेष                 । Adi Sesha, rest                                            ।
-। पाद                 । Race,foot                                                  ।
-। शल्य                । Dart                                                       ।
-। पोटा                । Hermaphrodite                                              ।
-। महासंधिविग्रहाधिकृत । The chief minister entrusted with affairs of war and peace ।
-। अभिसर               । Attendent (Thief)                                          ।
-। प्रचार              । Pasturage                                                  ।
-। कियदपि              । A little                                                   ।
-। उदवसित              । House                                                      ।
-। उपलिङ्ग             । Evil portent                                               ।
-। दण्डयात्रा          । Warlike expedition                                         ।
+|                     |                                                             |
+|---------------------|-------------------------------------------------------------|
+| निषादिन्           | Rider                                                      |
+| मन्दुरा             | Stable                                                     |
+| अखिल                | Quadrangle                                                 |
+| निलय                | House                                                      |
+| निरय                | Hell                                                       |
+| कल्य                | Healthy                                                    |
+| पराचीन              | Opposed to                                                 |
+| उपकरण               | Articles                                                   |
+| कीकस                | Bone                                                       |
+| मौल                 | Hereditary                                                 |
+| आकर                 | Crowd                                                      |
+| चतुरशाल             | Quadrangle enolosed by four buildings.                     |
+| वितर्दिका           | Baloony                                                    |
+| पर्यङ्किका          | A small sofa                                               |
+| जोषम्               | (End) Silently                                             |
+| पारावार             | Ocean                                                      |
+| वामता               | Refractoriness.                                            |
+| स्त्रैण             | Womaniabness                                               |
+| प्रस्त्रवण          | Scream                                                     |
+| निस्त्रिंश          | Sword                                                      |
+| माम् अन्तरण         | About me                                                   |
+| समाक्षेप            | Distraction                                                |
+| अवग्रह              | Drought                                                    |
+| धन्वन्              | Desert                                                     |
+| अङ्गार              | Burning cinder                                             |
+| दुर्विनीत           | Arrogant                                                   |
+| कर्मान्तिक          | Servant                                                    |
+| स्त्रैण             | Crowd of women                                             |
+| निगड                | Fetters                                                    |
+| आवेग                | Excitement                                                 |
+| परिकर               | Rstinue                                                    |
+| अश्ववार             | An officer of cavalry                                      |
+| आशीविष              | Serpent                                                    |
+| विग्रह              | Battle                                                     |
+| प्राग्रहर           | Fore-most                                                  |
+| अधिचार              | Magical spell for securing some malevolent purpose         |
+| विपकृत              | Insulted, worked by Brahmana                               |
+| प्रधन               | War                                                        |
+| शेष                 | Adi Sesha, rest                                            |
+| पाद                 | Race,foot                                                  |
+| शल्य                | Dart                                                       |
+| पोटा                | Hermaphrodite                                              |
+| महासंधिविग्रहाधिकृत | The chief minister entrusted with affairs of war and peace |
+| अभिसर               | Attendent (Thief)                                          |
+| प्रचार              | Pasturage                                                  |
+| कियदपि              | A little                                                   |
+| उदवसित              | House                                                      |
+| उपलिङ्ग             | Evil portent                                               |
+| दण्डयात्रा          | Warlike expedition                                         |
 
 
 
-।                 ।                                                    ।
-|:----------------|:---------------------------------------------------।
-। जातरूप          । Gold                                              ।
-। शफ              । Hoof                                              ।
-। अर्बुद          । One hunderd millions                              ।
-। ग्रामक्षपटलिक   । Village Munfif                                    ।
-। करणि            । Clerk (karnam)                                    ।
-। सीर             । Plough                                            ।
-। क्रोश           । A measure of distance equal to 1/4 th of a yojana ।
-। समायोग          । Tha assembly or Robe                              ।
-। स्कन्धावार      । The army                                          ।
-। अधोक्षज         । Vishnu                                            ।
-। कटक             । Army.Camp                                        ।
-। प्राभृत         । Present                                           ।
-। दन्तवीणा        । Chattering of teeth                               ।
-। शलाका           । Rib                                               ।
-। संदेश           । Message                                           ।
-। निचोलक          । Case                                              ।
-। कार्म           । Servant                                           ।
-। वेत्रकरण्ड      । Cane box                                          ।
-। रत्न            । Jewels, Precious things                           ।
-। परमेश्वर        । Siva, Emperor                                     ।
-। प्रतिकौशलिका    । A Present in return                               ।
-। एकपिङ्ग         । Kubera                                            ।
-। अभिजात          । Noble                                             ।
-। अतिवृद्धा       । Very old, very much aggravated                    ।
-। दुर्गति         । Wretohed state                                    ।
-। अभवनिः          । An end                                            ।
-। वराक            । Wretoheb                                          ।
-। राजिल           । Poisonless.snake                                 ।
-। पुलाक           । Bad grain                                         ।
-। अनुपदिन्        । Seeker                                            ।
-। बुस             । Cuatt                                             ।
-। गोवाट           । Cow pen                                           ।
-। वत्सरूपक        । Young calves                                      ।
-। कुठार           । Axe                                               ।
-। करहाट           । Fibrous root of aiotus                           ।
-। प्रपा           । Water arbour                                      ।
-। व्योकार         । Blacksmith                                        ।
-। प्रातिवेश्यविषय । Neighbouring district                             ।
-। स्थविर          । Old man                                           ।
-। पाटच्चर         । Robber                                            ।
-। प्रत्यवाय       । Odstacle                                          ।
-। पटच्चर          । Rag                                               ।
-। संनिवेश         । Situation                                         ।
-। वेणुपोटदल       । Slips of bamboo                                   ।
-। आट (अटति        । Perleot of अट् to wonder                          ।
-। आटविकसामन्त     । A tributary chief in the forest.                  ।
+|                 |                                                    |
+|:----------------|:---------------------------------------------------|
+| जातरूप          | Gold                                              |
+| शफ              | Hoof                                              |
+| अर्बुद          | One hunderd millions                              |
+| ग्रामक्षपटलिक   | Village Munfif                                    |
+| करणि            | Clerk (karnam)                                    |
+| सीर             | Plough                                            |
+| क्रोश           | A measure of distance equal to 1/4 th of a yojana |
+| समायोग          | Tha assembly or Robe                              |
+| स्कन्धावार      | The army                                          |
+| अधोक्षज         | Vishnu                                            |
+| कटक             | Army.Camp                                        |
+| प्राभृत         | Present                                           |
+| दन्तवीणा        | Chattering of teeth                               |
+| शलाका           | Rib                                               |
+| संदेश           | Message                                           |
+| निचोलक          | Case                                              |
+| कार्म           | Servant                                           |
+| वेत्रकरण्ड      | Cane box                                          |
+| रत्न            | Jewels, Precious things                           |
+| परमेश्वर        | Siva, Emperor                                     |
+| प्रतिकौशलिका    | A Present in return                               |
+| एकपिङ्ग         | Kubera                                            |
+| अभिजात          | Noble                                             |
+| अतिवृद्धा       | Very old, very much aggravated                    |
+| दुर्गति         | Wretohed state                                    |
+| अभवनिः          | An end                                            |
+| वराक            | Wretoheb                                          |
+| राजिल           | Poisonless.snake                                 |
+| पुलाक           | Bad grain                                         |
+| अनुपदिन्        | Seeker                                            |
+| बुस             | Cuatt                                             |
+| गोवाट           | Cow pen                                           |
+| वत्सरूपक        | Young calves                                      |
+| कुठार           | Axe                                               |
+| करहाट           | Fibrous root of aiotus                           |
+| प्रपा           | Water arbour                                      |
+| व्योकार         | Blacksmith                                        |
+| प्रातिवेश्यविषय | Neighbouring district                             |
+| स्थविर          | Old man                                           |
+| पाटच्चर         | Robber                                            |
+| प्रत्यवाय       | Odstacle                                          |
+| पटच्चर          | Rag                                               |
+| संनिवेश         | Situation                                         |
+| वेणुपोटदल       | Slips of bamboo                                   |
+| आट (अटति        | Perleot of अट् to wonder                          |
+| आटविकसामन्त     | A tributary chief in the forest.                  |
 
 
 
-।                ।                                       ।
-|:---------------|:--------------------------------------।
-। कज्जल          । Collyrium                             ।
-। काचर           । Tawny                                 ।
-। काचमणि         । Orystal                              ।
-। कर्णिका        । Ear-ring                             ।
-। चुल्ल          । Blear (eye)                          ।
-। क्षतज          । Blood                                ।
-। अवनाट          । Low or hanging                       ।
-। चिपिट          । Low or hanging                       ।
-। चिकिन          । Low or hanging                       ।
-। चिबुक          । Chin                                 ।
-। पाकल           । Fever of elephant                    ।
-। पल्ली          । (Forest) Hamlet                      ।
-। स्वस्रीय       । Sister's son                         ।
-। अपरिगत         । Un-known                             ।
-। गव्यूति        । Two krcsas                           ।
-। प्रतीक्ष्य     । Worthy of regard                     ।
-। वैधेय          । Idiot                                ।
-। प्रव्रज्या     । Asceticism                           ।
-। अवकेशिन्       । Unfruitful                           ।
-। स्थाणु         । Stem of tree                         ।
-। चैत्य          । Monument                             ।
-। त्रि(श)सरण     । Three refuges.Three paths            ।
-। आलोक           । Light.Enlightenment.A Budhist book ।
-। कृत्रिम        । Artificial                           ।
-। पारावत         । Pigeon                               ।
-। पोत            । Young                                ।
-। करक            । Water pot                            ।
-। चीवरपटल        । Red robe                             ।
-। अप्राकृत       । Extraodinary                         ।
-। परकरणमिव       । Making a stranger of one             ।
-। देवानांप्रिय   । Beloved of gode                      ।
-। कार्यम्        । Proper                               ।
-। भूभृत्         । King, Mountain                       ।
-। वंश            । Family, Bamboo                       ।
-। मुक्तामय       । Free from disease (defects), Pearl   ।
-। कायकलि         । Wretched body                        ।
-। भव्य           । Fortunate                            ।
-। यवीयसी स्वसा   । Younger sister                       ।
-। भदन्त          । Buddhist mendicants                  ।
-। (द) शमिनि वयसि । In old age, In peaceful age          ।
-। एकतान          । Monotonous, Incessant                ।
-। शूल            । Pain                                 ।
-। अध्वनीन        । Caused by the fatigue of the journey ।
-। गुल्फ          । Ankle                                ।
-। पूलिका         । Bundle                               ।
-। अस्र           । Tear                                 ।
-। दग्धदशा        । Wretohed state.burnt up wick         ।
-। आमन्त्रये      । (I)Address                           ।
+|                |                                       |
+|:---------------|:--------------------------------------|
+| कज्जल          | Collyrium                             |
+| काचर           | Tawny                                 |
+| काचमणि         | Orystal                              |
+| कर्णिका        | Ear-ring                             |
+| चुल्ल          | Blear (eye)                          |
+| क्षतज          | Blood                                |
+| अवनाट          | Low or hanging                       |
+| चिपिट          | Low or hanging                       |
+| चिकिन          | Low or hanging                       |
+| चिबुक          | Chin                                 |
+| पाकल           | Fever of elephant                    |
+| पल्ली          | (Forest) Hamlet                      |
+| स्वस्रीय       | Sister's son                         |
+| अपरिगत         | Un-known                             |
+| गव्यूति        | Two krcsas                           |
+| प्रतीक्ष्य     | Worthy of regard                     |
+| वैधेय          | Idiot                                |
+| प्रव्रज्या     | Asceticism                           |
+| अवकेशिन्       | Unfruitful                           |
+| स्थाणु         | Stem of tree                         |
+| चैत्य          | Monument                             |
+| त्रि(श)सरण     | Three refuges.Three paths            |
+| आलोक           | Light.Enlightenment.A Budhist book |
+| कृत्रिम        | Artificial                           |
+| पारावत         | Pigeon                               |
+| पोत            | Young                                |
+| करक            | Water pot                            |
+| चीवरपटल        | Red robe                             |
+| अप्राकृत       | Extraodinary                         |
+| परकरणमिव       | Making a stranger of one             |
+| देवानांप्रिय   | Beloved of gode                      |
+| कार्यम्        | Proper                               |
+| भूभृत्         | King, Mountain                       |
+| वंश            | Family, Bamboo                       |
+| मुक्तामय       | Free from disease (defects), Pearl   |
+| कायकलि         | Wretched body                        |
+| भव्य           | Fortunate                            |
+| यवीयसी स्वसा   | Younger sister                       |
+| भदन्त          | Buddhist mendicants                  |
+| (द) शमिनि वयसि | In old age, In peaceful age          |
+| एकतान          | Monotonous, Incessant                |
+| शूल            | Pain                                 |
+| अध्वनीन        | Caused by the fatigue of the journey |
+| गुल्फ          | Ankle                                |
+| पूलिका         | Bundle                               |
+| अस्र           | Tear                                 |
+| दग्धदशा        | Wretohed state.burnt up wick         |
+| आमन्त्रये      | (I)Address                           |
 
 
 
-।                     ।                                            ।
-|:--------------------|:-------------------------------------------।
-। पलितशार             । Variegated with grey hair                  ।
-। निदर्शन             । Example                                   ।
-। निम्नीकृत           । Depressed                                 ।
-। मन्यु               । Sorrow                                    ।
-। श्रमण               । A Buddhist ascetic                        ।
-। पतङ्ग               । Sun                                       ।
-। हेषित               । Neighing                                  ।
-। काहल                । Exoessive                                 ।
-। उद्धात              । Blow                                      ।
-। अभ्यवहार            । Food                                      ।
-। संभ्रम              । Tumult                                    ।
-। निर्वेद             । Despair                                   ।
-। उन्माद              । Intoxication                              ।
-। कामचार              । Acting according to one's will            ।
-। अशालीनत्व           । Immodesty                                 ।
-। पर्याय              । Synonym                                   ।
-। स्थितयः             । Ordinances                                ।
-। विश्वम्             । Whole world                               ।
-। प्रतिसंख्यान        । Discrimination                            ।
-। वठरसत्त्व           । Wicked animale                            ।
-। चषक                 । Goblet                                    ।
-। राजतशासनमुद्रानिवेश । The stamp of the silver seal of authority ।
+|                     |                                            |
+|:--------------------|:-------------------------------------------|
+| पलितशार             | Variegated with grey hair                  |
+| निदर्शन             | Example                                   |
+| निम्नीकृत           | Depressed                                 |
+| मन्यु               | Sorrow                                    |
+| श्रमण               | A Buddhist ascetic                        |
+| पतङ्ग               | Sun                                       |
+| हेषित               | Neighing                                  |
+| काहल                | Exoessive                                 |
+| उद्धात              | Blow                                      |
+| अभ्यवहार            | Food                                      |
+| संभ्रम              | Tumult                                    |
+| निर्वेद             | Despair                                   |
+| उन्माद              | Intoxication                              |
+| कामचार              | Acting according to one's will            |
+| अशालीनत्व           | Immodesty                                 |
+| पर्याय              | Synonym                                   |
+| स्थितयः             | Ordinances                                |
+| विश्वम्             | Whole world                               |
+| प्रतिसंख्यान        | Discrimination                            |
+| वठरसत्त्व           | Wicked animale                            |
+| चषक                 | Goblet                                    |
+| राजतशासनमुद्रानिवेश | The stamp of the silver seal of authority |
 
 
 

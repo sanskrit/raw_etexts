@@ -33,9 +33,9 @@ title = "महाभारतम्"
 
 
 
-।                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ।
-।----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-।  These most remarkable poems contain almost all the history of ancient India, so far as it can be recovered; together with such inexhaustible details of its political, social and religious life, that the unique Hindu world reallystands epitomised in them.............The stories, songs, and ballads; the histories and genealogies; the nursery tales and religious discourses ; the art, the learning, the philosophy, the creeds, the moralities, the modes of thought, sayings, terms the very phrases, of expression and daily ideas of the Hindu people are taken from these poems.—***Sir Edwin Arnold.*** ।
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  These most remarkable poems contain almost all the history of ancient India, so far as it can be recovered; together with such inexhaustible details of its political, social and religious life, that the unique Hindu world reallystands epitomised in them.............The stories, songs, and ballads; the histories and genealogies; the nursery tales and religious discourses ; the art, the learning, the philosophy, the creeds, the moralities, the modes of thought, sayings, terms the very phrases, of expression and daily ideas of the Hindu people are taken from these poems.—***Sir Edwin Arnold.*** |
 
 
 
@@ -121,9 +121,9 @@ readable. The translator is grateful to the kindness of those who helped him tow
 
 
 
-।                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ।
-।----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-।  “Every scene on the shifting stage is a perfect and impressive picture. The tournament of the princes in which Arjun and Karna—the Achilles andHector of the Indian Epic—first met and each marked the other for his foe; the gorgeous bridal of Draupadi ; the equally gorgeous coronation of Yudhisthir and the death of the proud and boisterous Sisupala; the fatal game of dice and the scornful wrath of Draupadi against her insulters; the calm beauty of the forest life of the Pandavs; the cattle-lifting in Matsyaland in which the gallant Arjun threw off his disguise and stood forth as warrior and conqueror; and the Homeric speeches of the warriors in the council of war on the eve of the great contest—each scene of this venerable old Epic impresses itself on the mind of the hushed andastonished reader.”—*R. C. Dutt.* ।
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  “Every scene on the shifting stage is a perfect and impressive picture. The tournament of the princes in which Arjun and Karna—the Achilles andHector of the Indian Epic—first met and each marked the other for his foe; the gorgeous bridal of Draupadi ; the equally gorgeous coronation of Yudhisthir and the death of the proud and boisterous Sisupala; the fatal game of dice and the scornful wrath of Draupadi against her insulters; the calm beauty of the forest life of the Pandavs; the cattle-lifting in Matsyaland in which the gallant Arjun threw off his disguise and stood forth as warrior and conqueror; and the Homeric speeches of the warriors in the council of war on the eve of the great contest—each scene of this venerable old Epic impresses itself on the mind of the hushed andastonished reader.”—*R. C. Dutt.* |
 
  
 
@@ -131,44 +131,44 @@ readable. The translator is grateful to the kindness of those who helped him tow
 
 **?**
 
-।                  ।
-|:----------------:।
-। **CORRECT TEXT** ।
-।      शयनानि      ।
-।     वृद्धिं      ।
-।     बुद्धिं      ।
-।     कनकप्रभः     ।
-।      पङ्गु       ।
-।   नियुङ्क्ष्व    ।
-।     निकृतिं      ।
-।    राजपुत्रि     ।
-।    युधिष्ठिर     ।
-।     वृद्धस्य     ।
-।   अब्रवीद्धर्म   ।
-।    युधिष्ठिर     ।
-।    युधिष्ठिर     ।
-।    वर्तित्वं     ।
-।      देशेन       ।
+|                  |
+|:----------------:|
+| **CORRECT TEXT** |
+|      शयनानि      |
+|     वृद्धिं      |
+|     बुद्धिं      |
+|     कनकप्रभः     |
+|      पङ्गु       |
+|   नियुङ्क्ष्व    |
+|     निकृतिं      |
+|    राजपुत्रि     |
+|    युधिष्ठिर     |
+|     वृद्धस्य     |
+|   अब्रवीद्धर्म   |
+|    युधिष्ठिर     |
+|    युधिष्ठिर     |
+|    वर्तित्वं     |
+|      देशेन       |
 
 
 
 
 
-।                    ।
-|:------------------:।
-।  **CORRECT TEXT**  ।
-। प्रादुश्चकारैन्द्र ।
-।     सूतपुत्रो      ।
-।      पापताम्       ।
-।       करवाणि       ।
-।      कौन्तेयः      ।
-।   कवचं निक्षिप्य   ।
-।       धरणीं        ।
-।      सर्पमुखं      ।
-।       शक्तिं       ।
-।   प्रध्मापयन्तो    ।
-।      -मर्चनं       ।
-।     अविज्ञातो      ।
+|                    |
+|:------------------:|
+|  **CORRECT TEXT**  |
+| प्रादुश्चकारैन्द्र |
+|     सूतपुत्रो      |
+|      पापताम्       |
+|       करवाणि       |
+|      कौन्तेयः      |
+|   कवचं निक्षिप्य   |
+|       धरणीं        |
+|      सर्पमुखं      |
+|       शक्तिं       |
+|   प्रध्मापयन्तो    |
+|      -मर्चनं       |
+|     अविज्ञातो      |
 
 
 
@@ -178,31 +178,31 @@ readable. The translator is grateful to the kindness of those who helped him tow
 **CONTENTS  
 ![](../books_images/U-IMG-1701071042Screenshot2023-11-27105857.png)**
 
-।                            ।
-।----------------------------।
-। FOREWORD                   ।
-। TRANSLATOR'S NOTE          ।
-। PUBLISHER'S NOTE           ।
-। ADI PARVA                  ।
-। SABHA PARVA                ।
-। VANA PARVA                 ।
-। VIRATA PARVA               ।
-। UDYOGA PARVA               ।
-। BHISHMA PARVA              ।
-। DRONA PARVA                ।
-। KARNA PARVA                ।
-। SALYA PARVA                ।
-। SAUPTIKA PARVA             ।
-। STRI PARVA                 ।
-। SANTI PARVA                ।
-। ANUSASANA PARVA            ।
-। ASVAMEDHIKA PARVA          ।
-। ASRAMAVASIKA PARVA         ।
-। MAUSALA PARVA              ।
-। MAHAPRASTHANA PARVA        ।
-। SVARGAROHANA PARVA         ।
-। MESSAGE OF THE MAHABHARATA ।
-। INDEX TO PROPER NAMES      ।
+|                            |
+|----------------------------|
+| FOREWORD                   |
+| TRANSLATOR'S NOTE          |
+| PUBLISHER'S NOTE           |
+| ADI PARVA                  |
+| SABHA PARVA                |
+| VANA PARVA                 |
+| VIRATA PARVA               |
+| UDYOGA PARVA               |
+| BHISHMA PARVA              |
+| DRONA PARVA                |
+| KARNA PARVA                |
+| SALYA PARVA                |
+| SAUPTIKA PARVA             |
+| STRI PARVA                 |
+| SANTI PARVA                |
+| ANUSASANA PARVA            |
+| ASVAMEDHIKA PARVA          |
+| ASRAMAVASIKA PARVA         |
+| MAUSALA PARVA              |
+| MAHAPRASTHANA PARVA        |
+| SVARGAROHANA PARVA         |
+| MESSAGE OF THE MAHABHARATA |
+| INDEX TO PROPER NAMES      |
 
 ![](../books_images/U-IMG-1701071372Screenshot2023-11-27105857.png)  
 

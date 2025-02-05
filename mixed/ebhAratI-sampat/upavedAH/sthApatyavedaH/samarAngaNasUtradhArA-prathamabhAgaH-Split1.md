@@ -8569,11 +8569,11 @@ ${५०}\\frac{१}{२}$
 
 
 
-।                           ।        ।     ।     ।     ।      ।      ।      ।        ।       ।
-।---------------------------|:------:|:---:|:---:|:---:|:----:|:----:|:----:|:------:|:-----:।
-। ┼अष्टशालगृहाणामैक्यं६५५३६ ।  गृह१  । १६  । १२० । ५६० । १८२० । ४३६८ । ८००८ । १.१४४० । १२८७० ।
-।                          । भद्र०  ।  १  ।  २  ।  ३  ।  ४   ।  ५   ।  ६   । ७भद्र ।   ८   ।
-। षोडशगुरूणां प्रस्तारे     । भद्र१६ । १५  । १४  । १३  ।  १२  ।  ११  ।  १०  । ९भद्र ।   ८   ।
+|                           |        |     |     |     |      |      |      |        |       |
+|---------------------------|:------:|:---:|:---:|:---:|:----:|:----:|:----:|:------:|:-----:|
+| ┼अष्टशालगृहाणामैक्यं६५५३६ |  गृह१  | १६  | १२० | ५६० | १८२० | ४३६८ | ८००८ | १.१४४० | १२८७० |
+|                          | भद्र०  |  १  |  २  |  ३  |  ४   |  ५   |  ६   | ७भद्र |   ८   |
+| षोडशगुरूणां प्रस्तारे     | भद्र१६ | १५  | १४  | १३  |  १२  |  ११  |  १०  | ९भद्र |   ८   |
 
 इति टिप्पणं दत्तमस्ति।
 
@@ -13987,35 +13987,35 @@ SANSKRIT WORKS,
 
 ENGLISH TRANSLATIONS ETC,
 
-।     ।                                                                                                        ।                  ।
-।-----।--------------------------------------------------------------------------------------------------------।------------------।
-।    ।                                                                                                       । Rs. As. P  ।
-। 1   । Sanskrit Reader No. I. (PrathamaPathavali) byMahamahopadhyaya Dr. T. Ganapati Sastri, Hon. M. R. A. S । .0  6 0      ।
-। 2   । Do. No. II. (Dvitiya Pathavali)   by Do.                                                            । 0  7  0      ।
-। 3   । Do. No. III (Tritiya Pathavali)   by Do.                                                           । 0  8 0       ।
-। 4   । 5Sanskrit Teacher by K. P. Trivedi-Parts I & II.                                                     । 1  0 0       ।
-। 5   । Gadyavaliby P. V. Kane                                                                               । 8  0 0       ।
-। 6   । Padyavaliby P. V. Kane                                                                                । 8  0 0       ।
-। 7   । Dhaturapavali                                                                                         । 0 4  0       ।
-। 8   । Sabdarupavali                                                                                          । 0  3  0       ।
-। 9   । Bhandarkar's First book in Sanskrit                                                                    । 1  4  0        ।
-। 10  । Do. Second Do.                                                                                        । 2  0 0       ।
-। 11  । Apte's Sanskrit Exercises (Parts 1 & 11.)                                                              । 1 8 0        ।
-। 12  । Apte's Kusumamala (Pafs I & II.)                                                                       । 2  8 0      ।
-। 13  । Apte's Guide to Sanskrit Composition                                                                   । 3  0  0      ।
-। 14  । Exercises for translation from English into Sanskrit and                                               । 3 10 0       ।
-। 15  । Sanskrit into English by Mojak                                                                         । 1 6  0       ।
-। 16  । Exercises in Sanskrit Grammar & Translation by Oke                                                     । 0  8 0       ।
-। 17  । Sanskrit Grammar by A. A. Macdonell                                                                    । 3 0  0     ।
-। 18  । Do. by Dr: Kielhorn                                                                                   । 2  8 0       ।
-। 19  । Do. by Monier Williams                                                                                 । 7 0  0       ।
-। 20  । Do.by Whitney                                                                                          । 5 0  0      ।
-। 21  । Higher Sanskrit Grammar by Kale                                                                        । 3 12 0       ।
-। 22  । Smaller Do.Do.                                                                                         । 2 8  0       ।
-। 23  । Systems of Sanskrit Grammar by Dr. S.K. Belvalkar                                                      । 5 0 0        ।
-। 24  । Sanskrit English Dictionery by Vaidya                                                                 । 60 0 0       ।
-। 25  । Do. by Monier Williams                                                                                । 11 0  0      ।
-। 26  । Do.by Apte (Students Edition)                                                                     । 16 0 0      ।
+|     |                                                                                                        |                  |
+|-----|--------------------------------------------------------------------------------------------------------|------------------|
+|    |                                                                                                       | Rs. As. P  |
+| 1   | Sanskrit Reader No. I. (PrathamaPathavali) byMahamahopadhyaya Dr. T. Ganapati Sastri, Hon. M. R. A. S | .0  6 0      |
+| 2   | Do. No. II. (Dvitiya Pathavali)   by Do.                                                            | 0  7  0      |
+| 3   | Do. No. III (Tritiya Pathavali)   by Do.                                                           | 0  8 0       |
+| 4   | 5Sanskrit Teacher by K. P. Trivedi-Parts I & II.                                                     | 1  0 0       |
+| 5   | Gadyavaliby P. V. Kane                                                                               | 8  0 0       |
+| 6   | Padyavaliby P. V. Kane                                                                                | 8  0 0       |
+| 7   | Dhaturapavali                                                                                         | 0 4  0       |
+| 8   | Sabdarupavali                                                                                          | 0  3  0       |
+| 9   | Bhandarkar's First book in Sanskrit                                                                    | 1  4  0        |
+| 10  | Do. Second Do.                                                                                        | 2  0 0       |
+| 11  | Apte's Sanskrit Exercises (Parts 1 & 11.)                                                              | 1 8 0        |
+| 12  | Apte's Kusumamala (Pafs I & II.)                                                                       | 2  8 0      |
+| 13  | Apte's Guide to Sanskrit Composition                                                                   | 3  0  0      |
+| 14  | Exercises for translation from English into Sanskrit and                                               | 3 10 0       |
+| 15  | Sanskrit into English by Mojak                                                                         | 1 6  0       |
+| 16  | Exercises in Sanskrit Grammar & Translation by Oke                                                     | 0  8 0       |
+| 17  | Sanskrit Grammar by A. A. Macdonell                                                                    | 3 0  0     |
+| 18  | Do. by Dr: Kielhorn                                                                                   | 2  8 0       |
+| 19  | Do. by Monier Williams                                                                                 | 7 0  0       |
+| 20  | Do.by Whitney                                                                                          | 5 0  0      |
+| 21  | Higher Sanskrit Grammar by Kale                                                                        | 3 12 0       |
+| 22  | Smaller Do.Do.                                                                                         | 2 8  0       |
+| 23  | Systems of Sanskrit Grammar by Dr. S.K. Belvalkar                                                      | 5 0 0        |
+| 24  | Sanskrit English Dictionery by Vaidya                                                                 | 60 0 0       |
+| 25  | Do. by Monier Williams                                                                                | 11 0  0      |
+| 26  | Do.by Apte (Students Edition)                                                                     | 16 0 0      |
 
                                    
                                    

@@ -31,9 +31,9 @@ title = "The Mirror Of Gesture"
 
 
 
-।                                 ।
-|:-------------------------------:।
-। **Cornell University Library** ।
+|                                 |
+|:-------------------------------:|
+| **Cornell University Library** |
 
 
 
@@ -1135,18 +1135,18 @@ i. e. the forefinger and middle finger bent like a bow, the thirdfinger placed a
 
 
 
-।            ।
-|:----------:।
-। **PLATES** ।
+|            |
+|:----------:|
+| **PLATES** |
 
 
 
 
 
-।                                                       ।
-|:-----------------------------------------------------:।
-।                    ** PLATE I**                     ।
-। **![](../books_images/U-IMG-1727105556picture1.png)** ।
+|                                                       |
+|:-----------------------------------------------------:|
+|                    ** PLATE I**                     |
+| **![](../books_images/U-IMG-1727105556picture1.png)** |
 
 **THE COSMIC DANCE OF ŚIVA (NAṬARĀJA)**
 
@@ -1156,10 +1156,10 @@ forward left hand exhibiting the *gaja or daṇḍa* pose (cf. Plate III).
 
 
 
-।                                                   ।
-|:-------------------------------------------------:।
-।                   **PLATE II**                    ।
-। ![](../books_images/U-IMG-1727105986picture2.png) ।
+|                                                   |
+|:-------------------------------------------------:|
+|                   **PLATE II**                    |
+| ![](../books_images/U-IMG-1727105986picture2.png) |
 
 **      ** **                        
                         ****** **KURUKULLĀ**
@@ -1169,10 +1169,10 @@ shooting an arrow (CI Plate XV c).
 
 
 
-।                                                   ।
-|:-------------------------------------------------:।
-।                   **PLATE III**                   ।
-। ![](../books_images/U-IMG-1727152704picture3.png) ।
+|                                                   |
+|:-------------------------------------------------:|
+|                   **PLATE III**                   |
+| ![](../books_images/U-IMG-1727152704picture3.png) |
 
 **DANSEUSE**
 
@@ -1181,22 +1181,22 @@ about ninth century, A.D.
 
 
 
-।                                                   ।
-|:-------------------------------------------------:।
-। ![](../books_images/U-IMG-1727153526picture4.png) ।
-।                       **A**                       ।
+|                                                   |
+|:-------------------------------------------------:|
+| ![](../books_images/U-IMG-1727153526picture4.png) |
+|                       **A**                       |
 
 
 
-।                                                   ।
-|:-------------------------------------------------:।
-। ![](../books_images/U-IMG-1727153776picture5.png) ।
-।                       **B**                       ।
+|                                                   |
+|:-------------------------------------------------:|
+| ![](../books_images/U-IMG-1727153776picture5.png) |
+|                       **B**                       |
 
-।                                                   ।
-|:-------------------------------------------------:।
-। ![](../books_images/U-IMG-1727153968picture6.png) ।
-।                       **C**                       ।
+|                                                   |
+|:-------------------------------------------------:|
+| ![](../books_images/U-IMG-1727153968picture6.png) |
+|                       **C**                       |
 
 **CEILING SCULPTURE AT DILWARRA, MT. ĀBŪ**
 
@@ -1204,17 +1204,17 @@ Dance with hand poses, and music.
 
 
 
-।                                                   ।
-|:-------------------------------------------------:।
-।                    **PLATE V**                    ।
-। ![](../books_images/U-IMG-1727154905picture7.png) ।
+|                                                   |
+|:-------------------------------------------------:|
+|                    **PLATE V**                    |
+| ![](../books_images/U-IMG-1727154905picture7.png) |
 
 **DANSEUSES BEFORE A JAINA GODDESS**  
 Ceiling sculpture at Dilwarra, Mt. Ābū.
 
-।                                                   ।
-|:-------------------------------------------------:।
-। ![](../books_images/U-IMG-1727155097picture8.png) ।
+|                                                   |
+|:-------------------------------------------------:|
+| ![](../books_images/U-IMG-1727155097picture8.png) |
 
 **APSARĀS DANCING**
 
@@ -1224,10 +1224,10 @@ Mr. W. Rothenstein.
 
 
 
-।                                                   ।
-|:-------------------------------------------------:।
-।                   **PLATE VI**                    ।
-। ![](../books_images/U-IMG-1727156586picture9.png) ।
+|                                                   |
+|:-------------------------------------------------:|
+|                   **PLATE VI**                    |
+| ![](../books_images/U-IMG-1727156586picture9.png) |
 
 **DANSEUSE**
 
@@ -1235,10 +1235,10 @@ From an Ajaṇṭā fresco (sixth to seventh century A.D.): tracing by Samarendr
 
 
 
-।                                                    ।                                                    ।
-|:--------------------------------------------------:|:--------------------------------------------------:।
-।                                                   ।                   **PLATE VII**                    ।
-। ![](../books_images/U-IMG-1727156936picture10.png) । ![](../books_images/U-IMG-1727157034picture11.png) ।
+|                                                    |                                                    |
+|:--------------------------------------------------:|:--------------------------------------------------:|
+|                                                   |                   **PLATE VII**                    |
+| ![](../books_images/U-IMG-1727156936picture10.png) | ![](../books_images/U-IMG-1727157034picture11.png) |
 
 **                                 A. BUDDHA                                
        B. BODHISATTVA**  
@@ -1252,9 +1252,9 @@ From an Ajaṇṭā fresco (sixth to seventh century A.D.): tracing by Samarendr
 
 
 
-।                                                    ।                                                    ।                                                    ।
-।----------------------------------------------------।----------------------------------------------------।----------------------------------------------------।
-। ![](../books_images/U-IMG-1727190343picture13.png) । ![](../books_images/U-IMG-1727190531picture14.png) । ![](../books_images/U-IMG-1727190696picture15.png) ।
+|                                                    |                                                    |                                                    |
+|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
+| ![](../books_images/U-IMG-1727190343picture13.png) | ![](../books_images/U-IMG-1727190531picture14.png) | ![](../books_images/U-IMG-1727190696picture15.png) |
 
                                  
   
@@ -1269,10 +1269,10 @@ From an Ajaṇṭā fresco (sixth to seventh century A.D.): tracing by Samarendr
 
 
 
-।                                                    ।
-|:--------------------------------------------------:।
-।                   **PLATE VIII**                   ।
-। ![](../books_images/U-IMG-1727191480picture16.png) ।
+|                                                    |
+|:--------------------------------------------------:|
+|                   **PLATE VIII**                   |
+| ![](../books_images/U-IMG-1727191480picture16.png) |
 
 **SEATED IMAGE WITH *AÑNJALI* HANDS**
 
@@ -1282,10 +1282,10 @@ Nepal, sixteenth to seventeenth century. Indian Museum, South Kensington, London
 
 
 
-।                                                    ।
-|:--------------------------------------------------:।
-।                    **PLATE IX**                    ।
-। ![](../books_images/U-IMG-1727191950picture17.png) ।
+|                                                    |
+|:--------------------------------------------------:|
+|                    **PLATE IX**                    |
+| ![](../books_images/U-IMG-1727191950picture17.png) |
 
 **NAUTCH DANCE BEFORE A ROYAL PATRON**
 
@@ -1296,22 +1296,22 @@ dancer exhibiting palāka hands: chorus to left.
 
 
 
-।                                                    ।                                                    ।
-|:--------------------------------------------------:|:--------------------------------------------------:।
-।                                                   ।                    **PLATE X**                     ।
-। ![](../books_images/U-IMG-1727237384picture14.png) । ![](../books_images/U-IMG-1727237476picture15.png) ।
+|                                                    |                                                    |
+|:--------------------------------------------------:|:--------------------------------------------------:|
+|                                                   |                    **PLATE X**                     |
+| ![](../books_images/U-IMG-1727237384picture14.png) | ![](../books_images/U-IMG-1727237476picture15.png) |
 
      **A. *Patāka* hand             B. *Ardha*-*candra* hand**
 
-।                                                    ।                                                    ।
-।----------------------------------------------------।----------------------------------------------------।
-। ![](../books_images/U-IMG-1727237953picture16.png) । ![](../books_images/U-IMG-1727238096picture17.png) ।
+|                                                    |                                                    |
+|----------------------------------------------------|----------------------------------------------------|
+| ![](../books_images/U-IMG-1727237953picture16.png) | ![](../books_images/U-IMG-1727238096picture17.png) |
 
 **   C. *Muṣṭi* hand                  D. *Śikhara* hand**
 
-।                                                    ।                                                    ।
-।----------------------------------------------------।----------------------------------------------------।
-। ![](../books_images/U-IMG-1727238583picture18.png) । ![](../books_images/U-IMG-1727238706picture19.png) ।
+|                                                    |                                                    |
+|----------------------------------------------------|----------------------------------------------------|
+| ![](../books_images/U-IMG-1727238583picture18.png) | ![](../books_images/U-IMG-1727238706picture19.png) |
 
 **   E. *Bhramara* hand                      F. *Śukatṇda* hand**  
 
@@ -1322,25 +1322,25 @@ dancer exhibiting palāka hands: chorus to left.
 
 
 
-।                                                    ।                                                    ।
-।----------------------------------------------------|:--------------------------------------------------:।
-।                                                   ।                    **PLATE XI**                    ।
-। ![](../books_images/U-IMG-1727243407picture20.png) । ![](../books_images/U-IMG-1727243434picture21.png) ।
+|                                                    |                                                    |
+|----------------------------------------------------|:--------------------------------------------------:|
+|                                                   |                    **PLATE XI**                    |
+| ![](../books_images/U-IMG-1727243407picture20.png) | ![](../books_images/U-IMG-1727243434picture21.png) |
 
 
 **A. *Kaṭaka mukha* hand with blue lotus**    **B. *Ardha-candra* hand, with flame (upper left**  
 (hand of Bodhisatṭva, Ajaṇṭā).              hand of figure represented on Pl. I).
 
-।                                                    ।                                                    ।
-।----------------------------------------------------।----------------------------------------------------।
-। ![](../books_images/U-IMG-1727243917PICTURE22.png) । ![](../books_images/U-IMG-1727243999PICTURE23.png) ।
+|                                                    |                                                    |
+|----------------------------------------------------|----------------------------------------------------|
+| ![](../books_images/U-IMG-1727243917PICTURE22.png) | ![](../books_images/U-IMG-1727243999PICTURE23.png) |
 
 **C. *Kartar mukha* (hand of an           D. *Padmakośa* hand.**  
 image in Madras Museum).
 
-।                                                    ।                                                    ।
-।----------------------------------------------------।----------------------------------------------------।
-। ![](../books_images/U-IMG-1727244344picture24.png) । ![](../books_images/U-IMG-1727244424picture25.png) ।
+|                                                    |                                                    |
+|----------------------------------------------------|----------------------------------------------------|
+| ![](../books_images/U-IMG-1727244344picture24.png) | ![](../books_images/U-IMG-1727244424picture25.png) |
 
 
 **E. Udveṣṭitāla padma hands.**
@@ -1350,24 +1350,24 @@ SINGLE AND COMBINED HANDS
 
 
 
-।                                                    ।                                                    ।
-।----------------------------------------------------|:--------------------------------------------------:।
-।                                                   ।                   **PLATE XII**                    ।
-। ![](../books_images/U-IMG-1727322017picture18.png) । ![](../books_images/U-IMG-1727322112picture19.png) ।
+|                                                    |                                                    |
+|----------------------------------------------------|:--------------------------------------------------:|
+|                                                   |                   **PLATE XII**                    |
+| ![](../books_images/U-IMG-1727322017picture18.png) | ![](../books_images/U-IMG-1727322112picture19.png) |
 
 **             A *Tripatāka* right hand         
   B. *Siṃha-mukha* left hand**
 
-।                                                    ।                                                    ।
-।----------------------------------------------------।----------------------------------------------------।
-। ![](../books_images/U-IMG-1727322410picture20.png) । ![](../books_images/U-IMG-1727322542picture21.png) ।
+|                                                    |                                                    |
+|----------------------------------------------------|----------------------------------------------------|
+| ![](../books_images/U-IMG-1727322410picture20.png) | ![](../books_images/U-IMG-1727322542picture21.png) |
 
 **             C. *Alapadma* left hand.         
    D. *Sikhara* left hand**
 
-।                                                    ।                                                    ।
-।----------------------------------------------------।----------------------------------------------------।
-। ![](../books_images/U-IMG-1727322754picture22.png) । ![](../books_images/U-IMG-1727322835picture23.png) ।
+|                                                    |                                                    |
+|----------------------------------------------------|----------------------------------------------------|
+| ![](../books_images/U-IMG-1727322754picture22.png) | ![](../books_images/U-IMG-1727322835picture23.png) |
 
 **  E. *Karkaṭa* combined hands (a grove of trees)F. *Pāśa*combined hands (enmity)**
 
@@ -1375,24 +1375,24 @@ SINGLE AND COMBINED HANDS
 
 
 
-।                                                    ।
-|:--------------------------------------------------:।
-।                   **PLATE XIII**                   ।
-। ![](../books_images/U-IMG-1727323298picture24.png) ।
+|                                                    |
+|:--------------------------------------------------:|
+|                   **PLATE XIII**                   |
+| ![](../books_images/U-IMG-1727323298picture24.png) |
 
 **A. r. h. *Sūct*, 1 h. *Siṃha mukha* representing Krishna driving cattle.**
 
-।                                                    ।                                                    ।
-।----------------------------------------------------।----------------------------------------------------।
-। ![](../books_images/U-IMG-1727323526picture25.png) । ![](../books_images/U-IMG-1727323629picture26.png) ।
+|                                                    |                                                    |
+|----------------------------------------------------|----------------------------------------------------|
+| ![](../books_images/U-IMG-1727323526picture25.png) | ![](../books_images/U-IMG-1727323629picture26.png) |
 
 **         B. RAISING MT. GOVARDHAN          C. THE RICE-MORTAR**
 
 (*Alapadma* hands)
 
-।                                                    ।
-।----------------------------------------------------।
-। ![](../books_images/U-IMG-1727323900picture27.png) ।
+|                                                    |
+|----------------------------------------------------|
+| ![](../books_images/U-IMG-1727323900picture27.png) |
 
 **D. BOTH HANDS *udècṣṭitāla padma***
 
@@ -1400,23 +1400,23 @@ COMBINED HANDS
 
 
 
-।                                                    ।
-|:--------------------------------------------------:।
-।                   **PLATE XIV**                    ।
-। ![](../books_images/U-IMG-1727495776picture28.png) ।
+|                                                    |
+|:--------------------------------------------------:|
+|                   **PLATE XIV**                    |
+| ![](../books_images/U-IMG-1727495776picture28.png) |
 
 **A. EYEBROWS LIKE THE CRESCENT MOON (I. h. *candra-kalā*)**
 
-।                                                    ।                                                    ।
-।----------------------------------------------------।----------------------------------------------------।
-। ![](../books_images/U-IMG-1727495983picture29.png) । ![](../books_images/U-IMG-1727496055picture30.png) ।
+|                                                    |                                                    |
+|----------------------------------------------------|----------------------------------------------------|
+| ![](../books_images/U-IMG-1727495983picture29.png) | ![](../books_images/U-IMG-1727496055picture30.png) |
 
 **               B. A BED               
          C. THE FISH (Avatar)of Vishnu)**
 
-।                                                    ।                                                    ।
-।----------------------------------------------------।----------------------------------------------------।
-। ![](../books_images/U-IMG-1727496290picture31.png) । ![](../books_images/U-IMG-1727496369picture32.png) ।
+|                                                    |                                                    |
+|----------------------------------------------------|----------------------------------------------------|
+| ![](../books_images/U-IMG-1727496290picture31.png) | ![](../books_images/U-IMG-1727496369picture32.png) |
 
 **            THE TORTOISE                
     E. GARUḌA**  

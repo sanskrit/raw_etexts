@@ -7030,13 +7030,13 @@ An appreciate of the science of calculation
 
 Terminology relating to the measurement of space
 
-।     ।     ।              ।
-।-----।-----।--------------।
-। Do  । do  । time         ।
-। Do  । do  । grain        ।
-। Do  । do  । gold         ।
-। Do  । do  । silver       ।
-। Do  । do  । other metals ।
+|     |     |              |
+|-----|-----|--------------|
+| Do  | do  | time         |
+| Do  | do  | grain        |
+| Do  | do  | gold         |
+| Do  | do  | silver       |
+| Do  | do  | other metals |
 
 Names of the operations in Arithmetis
 
@@ -7379,17 +7379,17 @@ The rule of work in relation to the operation of multiplication, which is the fi
 
  27
 
-।         ।       ।       ।       ।       ।       ।
-।---------।-------।-------।-------।-------।-------।
-। 2x 1 = । 2     ।      ।      ।      ।      ।
-। 2x 9 = । 1     । 8     ।      ।      ।      ।
-। 2x 9 = ।      । 1     । 8     ।      ।      ।
-। 2x 8 = ।      ।      । 1     । 6     ।      ।
-। 7x 1 = ।      । 7     ।      ।      ।      ।
-। 7x 9 = ।      । 6     । 3     ।      ।      ।
-। 7x 9 = ।      ।      । 6     । 3     ।      ।
-। 7x 8 = ।      ।      ।      । 5     । 6     ।
-।        । **5** । **3** । **9** । **4** । **6** ।
+|         |       |       |       |       |       |
+|---------|-------|-------|-------|-------|-------|
+| 2x 1 = | 2     |      |      |      |      |
+| 2x 9 = | 1     | 8     |      |      |      |
+| 2x 9 = |      | 1     | 8     |      |      |
+| 2x 8 = |      |      | 1     | 6     |      |
+| 7x 1 = |      | 7     |      |      |      |
+| 7x 9 = |      | 6     | 3     |      |      |
+| 7x 9 = |      |      | 6     | 3     |      |
+| 7x 8 = |      |      |      | 5     | 6     |
+|        | **5** | **3** | **9** | **4** | **6** |
 
 
 
@@ -7504,17 +7504,17 @@ Thus ends squaring, the third of the operations known as *Parikarman*.
 
 **31**. The pushing on to the right mentioned herein will become clear from the following worked out examples:-
 
-।               ।     ।     ।     ।     ।     ।               ।     ।     ।     ।     ।     ।               ।     ।     ।     ।     ।     ।
-।---------------।-----।-----।-----।-----।-----।---------------।-----।-----।-----।-----।-----।---------------।-----।-----।-----।-----।-----।
-। To square 131 ।     ।     ।     ।     ।     । To square 132 ।     ।     ।     ।     ।     । To square 555 ।     ।     ।     ।     ।     ।
-। 1²            । 1   ।    ।    ।    ।    । 1²            । 1   ।    ।    ।    ।    । 5²            । 25  ।    ।    ।    ।    ।
-। 2x 1x 3     ।    । 6   ।    ।    ।    । 2x 1x 3     ।    । 6   ।    ।    ।    । 2x 5x 5    ।    । 50  ।    ।    ।    ।
-। 2x 1x 1     ।    ।    । 2   ।    ।    । 2x 1x 2     ।    ।    । 4   ।    ।    । 2x 5x 5     ।    ।    । 50  ।    ।    ।
-। 3²            ।    ।    । 9   ।    ।    । 3²            ।    ।    । 9   ।    ।    । 5²            ।    ।    । 25  ।    ।    ।
-। 2x 3x 1     ।    ।    ।    । 6   ।    । 2x 3 x 2     ।    ।    ।    । 12  ।    । 2x 5x 5     ।    ।    ।    । 50  ।    ।
-। 1²            ।    ।    ।    ।    । 1   । 2²            ।    ।    ।    ।    । 4   । 5²            ।    ।    ।    ।    । 25  ।
-।              ।    । (1) ।    ।    ।    ।              ।    । (1) । (1) ।    ।    ।              । (5) । (8) । (5) । (2) ।    ।
-।              । 1   । 7   । 1   । 6   । 7   ।              । 1   । 7   । 4   । 2   । 4   ।              । 30  । 8   । 0   । 2   । 5   ।
+|               |     |     |     |     |     |               |     |     |     |     |     |               |     |     |     |     |     |
+|---------------|-----|-----|-----|-----|-----|---------------|-----|-----|-----|-----|-----|---------------|-----|-----|-----|-----|-----|
+| To square 131 |     |     |     |     |     | To square 132 |     |     |     |     |     | To square 555 |     |     |     |     |     |
+| 1²            | 1   |    |    |    |    | 1²            | 1   |    |    |    |    | 5²            | 25  |    |    |    |    |
+| 2x 1x 3     |    | 6   |    |    |    | 2x 1x 3     |    | 6   |    |    |    | 2x 5x 5    |    | 50  |    |    |    |
+| 2x 1x 1     |    |    | 2   |    |    | 2x 1x 2     |    |    | 4   |    |    | 2x 5x 5     |    |    | 50  |    |    |
+| 3²            |    |    | 9   |    |    | 3²            |    |    | 9   |    |    | 5²            |    |    | 25  |    |    |
+| 2x 3x 1     |    |    |    | 6   |    | 2x 3 x 2     |    |    |    | 12  |    | 2x 5x 5     |    |    |    | 50  |    |
+| 1²            |    |    |    |    | 1   | 2²            |    |    |    |    | 4   | 5²            |    |    |    |    | 25  |
+|              |    | (1) |    |    |    |              |    | (1) | (1) |    |    |              | (5) | (8) | (5) | (2) |    |
+|              | 1   | 7   | 1   | 6   | 7   |              | 1   | 7   | 4   | 2   | 4   |              | 30  | 8   | 0   | 2   | 5   |
 
 
 
@@ -8977,20 +8977,20 @@ The rule of operation relating to double, treble and quadruple rule-of-three.
 
 The data in the problem in stanzaNo. 36are to be first represented thus:-
 
-।             ।                       ।
-।-------------।-----------------------।
-। 9 *Maṇīs*   । 1 *Vāha*+ 1 *Kumbha* ।
-। 3 *Yōjanas* । 10 *Yōjanas*          ।
-। 60 *paṇas*  ।                      ।
+|             |                       |
+|-------------|-----------------------|
+| 9 *Maṇīs*   | 1 *Vāha*+ 1 *Kumbha* |
+| 3 *Yōjanas* | 10 *Yōjanas*          |
+| 60 *paṇas*  |                      |
 
 When the *Phala* here, viz,60 *paṇas*, is transferred to the other row we have -  
 
 
-।             ।                                             ।
-।-------------।---------------------------------------------।
-। 9 *Maṇīs*   । 1 *Vāha*+ 1 *Kumbha = 1$\\frac{1}{4}$Vāha* ।
-। 3 *Yōjanas* । 10 *Yōjanas*                                ।
-।            । 60 *paṇas*                                  ।
+|             |                                             |
+|-------------|---------------------------------------------|
+| 9 *Maṇīs*   | 1 *Vāha*+ 1 *Kumbha = 1$\\frac{1}{4}$Vāha* |
+| 3 *Yōjanas* | 10 *Yōjanas*                                |
+|            | 60 *paṇas*                                  |
 
 Now the right hand row, consisting of a larger number of different quantities,should be, after they are all multiplied together, divied by the smaller left hand row similarly dealt with.
 
@@ -9953,10 +9953,10 @@ The rule for arriving at the unknown *varṇas*of two (known quantities of gold 
 
 $\\frac{1}{16}\~ \\times \~16\~ \\times \~D$ and $\\frac{1}{10}\~ \\times \~10\~ \\times \~11$ are written down in two places thus:
 
-।     ।     ।
-।-----।-----।
-। 11  । 11  ।
-। 11  । 11  ।
+|     |     |
+|-----|-----|
+| 11  | 11  |
+| 11  | 11  |
 
 Then $\\frac{1}{16}$ and $\\frac{1}{10}$ are added and subtracted alternately in each of the two sets thus:  
 $11\~ + \~\\frac{1}{16} 11\~ - \~\\frac{1}{10}$} and {$11\~ - \~\\frac{1}{16} 11\~ + \~\\frac{1}{10}$. These give the two sets of answers.
@@ -12611,105 +12611,50 @@ ORDINARY AND NUMERICAL SIGNIFICATIONS.
 
 
 
-।          ।                                             ।     ।                                                                                                                                         ।
-।----------।---------------------------------------------।-----।-----------------------------------------------------------------------------------------------------------------------------------------।
-। करिन्    । An elephant                                 । 8 । Vide इभ.                                                                                                                                ।
-। कर्मन्   । Action : the effectof action as its karma. । 8  । According to Jainas there are eight kinds of *karma*, viz. ज्ञानावरणीय, दर्शनावरणीय, मोहनीय, अन्तराय, वेदनीय, नामिक, गोत्रिक and आयष्क. ।
-। कलाधर    । The moon                                    । 1  । Vide इन्दु.                                                                                                                             ।
-। कषाय     । Attachment to wordly objects.               । 4  । According to the Jaina religion there arefour causes for such attachment, viz., क्रोध, मान, माया, लोभ.                                 ।
-। कुमारवदन । The faces of Kumāra or the Hindu war-god.   । 6  । This War-god is supposed to have six faces. *Cf*. षण्मुख.                                                                               ।
-। केशव     । A name of Viṣṇu.                            । 9  । Vide उपेन्द्र.                                                                                                                          ।
-। क्षपाकर  । The\_moon                                  । 1  । Vids इन्दु.                                                                                                                             ।
-। ख        । Sky                                         । 0  । Tide अनन्त.                                                                                                                             ।
-। खर       ।                                            । 6  ।                                                                                                                                        ।
-। गगन      । Sky                                         । 0  । Vide अनन्त.                                                                                                                             ।
-। गज       । Elephant                                    । 8  । Vide इभ.                                                                                                                                ।
-। गति      । Passage: passage into re-birth.             । 4  । According to the Jaina religion soulsmay have four kinds of embodimen viz., asदेव, तिर्यक् मनुष्य, नरक.                               ।
-। गिरि     । Mountain                                    । 7  । Vide अचल.                                                                                                                               ।
-। गुण      । Quality                                     । 3  । Primordial matter is said to have three 'qualities', viz., सत्त्व, रजस्, तमस्.                                                          ।
-। ग्रह     । A planet                                    । 9  । Nine planets are recognised in Hindu astronomy, viz., Mars, Mercury, Jupiter, Venus, Saturn, Rāhu, Kētu the Sun and the Moon.           ।
-। चक्षुस्  । The eye                                     । 2  । Vide अक्षि.                                                                                                                             ।
-। चन्द्र   । The moon                                    । 1  । Vide इन्दु.                                                                                                                             ।
-। चन्द्रमस । The moon                                    । 1  । Vide इन्दु.                                                                                                                             ।
-। जलधरपथ   । Sky                                         । 0  । Vide अनन्त.                                                                                                                             ।
-। जलधि     । Ocean                                       । 4  । Vide अब्धि.                                                                                                                             ।
-। जलनिधि   । Ocean                                       । 4  । Vide आब्ध.                                                                                                                              ।
+|          |                                             |     |                                                                                                                                         |
+|----------|---------------------------------------------|-----|-----------------------------------------------------------------------------------------------------------------------------------------|
+| करिन्    | An elephant                                 | 8 | Vide इभ.                                                                                                                                |
+| कर्मन्   | Action : the effectof action as its karma. | 8  | According to Jainas there are eight kinds of *karma*, viz. ज्ञानावरणीय, दर्शनावरणीय, मोहनीय, अन्तराय, वेदनीय, नामिक, गोत्रिक and आयष्क. |
+| कलाधर    | The moon                                    | 1  | Vide इन्दु.                                                                                                                             |
+| कषाय     | Attachment to wordly objects.               | 4  | According to the Jaina religion there arefour causes for such attachment, viz., क्रोध, मान, माया, लोभ.                                 |
+| कुमारवदन | The faces of Kumāra or the Hindu war-god.   | 6  | This War-god is supposed to have six faces. *Cf*. षण्मुख.                                                                               |
+| केशव     | A name of Viṣṇu.                            | 9  | Vide उपेन्द्र.                                                                                                                          |
+| क्षपाकर  | The\_moon                                  | 1  | Vids इन्दु.                                                                                                                             |
+| ख        | Sky                                         | 0  | Tide अनन्त.                                                                                                                             |
+| खर       |                                            | 6  |                                                                                                                                        |
+| गगन      | Sky                                         | 0  | Vide अनन्त.                                                                                                                             |
+| गज       | Elephant                                    | 8  | Vide इभ.                                                                                                                                |
+| गति      | Passage: passage into re-birth.             | 4  | According to the Jaina religion soulsmay have four kinds of embodimen viz., asदेव, तिर्यक् मनुष्य, नरक.                               |
+| गिरि     | Mountain                                    | 7  | Vide अचल.                                                                                                                               |
+| गुण      | Quality                                     | 3  | Primordial matter is said to have three 'qualities', viz., सत्त्व, रजस्, तमस्.                                                          |
+| ग्रह     | A planet                                    | 9  | Nine planets are recognised in Hindu astronomy, viz., Mars, Mercury, Jupiter, Venus, Saturn, Rāhu, Kētu the Sun and the Moon.           |
+| चक्षुस्  | The eye                                     | 2  | Vide अक्षि.                                                                                                                             |
+| चन्द्र   | The moon                                    | 1  | Vide इन्दु.                                                                                                                             |
+| चन्द्रमस | The moon                                    | 1  | Vide इन्दु.                                                                                                                             |
+| जलधरपथ   | Sky                                         | 0  | Vide अनन्त.                                                                                                                             |
+| जलधि     | Ocean                                       | 4  | Vide अब्धि.                                                                                                                             |
+| जलनिधि   | Ocean                                       | 4  | Vide आब्ध.                                                                                                                              |
 
 
 
-।               ।                                              ।      ।                                                                                                                          ।
-।---------------।----------------------------------------------।------।--------------------------------------------------------------------------------------------------------------------------।
-। जिन           । Name of a Jaina saint.                       । 24 । According to the Jainas there are 24 *tīrthaṅkaras* or saints.                                                           ।
-। ज्वलन         । Fire                                         । 3   । Vide अग्नि.                                                                                                              ।
-। तत्त्व        । Elementary principles.                       । 7   । The Jainas recognize seven such principles, viz., जीव, अजीव, आस्रव, बन्ध, संवर, निर्जर, मोक्ष.                           ।
-। तनु           । Body                                         । 8   । Śiva isconsidered to have his body made up of eight things, viz., पृथिवी, अप्, तेजस्, वायु, आकाश, सूर्य, चन्द्र, यजमान. ।
-। तर्क          । Evidence                                     । 6   । The six kinds of evidence areप्रत्यक्ष, अनुमान, उपमान, शब्द, अर्थापत्ति, and अनुपलब्धि.                                 ।
-। तार्क्ष्यध्वज । Viṣṇu                                        । 9   । Tide उपेन्द्र.                                                                                                           ।
-। तीर्थक        । Tīrthaṅkaraor Jina.                         । 24  । Vide जिन.                                                                                                                ।
-। दन्तिन्       । An elephant                                  । 8   । Vide इभ.                                                                                                                 ।
-। दुरित         । Worldly action                               । 8   । Vide कर्मन्.                                                                                                             ।
-। दुर्गा        । Name of a manifestation of Parvati or Durga. । 9   । Nine separate manifestations of Dargā are recognized                                                                     ।
-। दिक्          । Quarter or a cardinal point of the universe. । 8   । There are eight cardinal points of the universe.                                                                         ।
-। दिक्          । Do                                           । 10  । Ten directions are recognized, namely the eight cardinal points of the universe, the upward and the downward directions. ।
-। दिव्          । Sky                                          । 0   । Vide अनन्त.                                                                                                              ।
-। दृक्          । The eye                                      । 2   । Vide अक्षि.                                                                                                              ।
-। दृष्टि        । Theeye                                      । 2   । Vide अक्षि.                                                                                                              ।
-। द्रव्य        । Elementary substance.                        । 6   । Acocording to the Jainas there are six varieties of elementary substance, viz., जीव, धर्म, अधर्म, पदुल, काल,आकाश.       ।
-
-
-
-[TABLE]
-
-
-
-।             ।                           ।      ।                                                                                                                                                                   ।
-।-------------।---------------------------।------।-------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। पुर         । City                      । 3   । Three cities representing three Asurasare said in the Purāṇas to have caused great havoc to the gods, and Śiva issaid to have destroyed them. cf. त्रिपुरान्तक. ।
-। पुष्करिन्   । Elephant                  । 8   । Vide इभ.                                                                                                                                                          ।
-। प्रालेयांशु । The moon                  । 1   । Vide इन्दु.                                                                                                                                                       ।
-। बन्ध        । Bondage                   । 4   । The Jainas recognize four kinds of spiritual bondage, viz., प्रकृति, स्थिति, अनुभाव and प्रदेश.                                                                   ।
-। बाण         । Arrow                     । 5   । Vide इषु.                                                                                                                                                         ।
-। भ           । A constellation           । 27 । The Hindu astronomers count 27 chief stellar constellations or lunar mansions around the ecliptic.                                                                ।
-। भय          । Fear                      । 7   ।                                                                                                                                                                  ।
-। भाव         । Elements                  । 5   । Five elements are recognized, viz., पृथिवी, अप्, तेजस्, वायु, आकाश.                                                                                               ।
-। भास्कर      । The Sun                   । 12  । Vide इन.                                                                                                                                                          ।
-। भुवन        । The World                 । 3   । The number of worlds ordinarily counted are three, viz., the upper, the lower and the middleworlds.                                                              ।
-। भूत         । Element                   । 5   । Vide भाव.                                                                                                                                                         ।
-। भूध्र       । Mountain                  । 7   । Vide अचल.                                                                                                                                                         ।
-। मद          । Passion                   । 8   ।                                                                                                                                                                  ।
-। महीध्र      । Mountain                  । 7   । Vide अचल.                                                                                                                                                         ।
-। मातृका      । A Goddess                 । 7   । Generully seven of those goddeuses are enumerated.                                                                                                                ।
-। मुनि        । Sage                      । 7   । Seven chief sages are usually mentioned : they are, कश्यप, अत्रि, भरद्वाज, विश्वामित्र, गौतम, जमदग्नि, वसिष्ठ.                                                    ।
-। मृगाङ्क     । The moon                  । 1   । Vide इन्दु.                                                                                                                                                       ।
-। मृड         । A Name ofŚiva or Rudras. । 11  । It is held that there are eleven Rudras.                                                                                                                          ।
-। यति         । Sage                      । 7   । Vide मुनि.                                                                                                                                                        ।
-। रजनीकार     । The moon                  । 1   । Vide इन्दु.                                                                                                                                                       ।
-
-
-
-।         ।                                            ।      ।                                                                                                                                                     ।
-।---------।--------------------------------------------।------।-----------------------------------------------------------------------------------------------------------------------------------------------------।
-। रत्न    । Excellent thing                            । 3   । There are three excellent things for Jainas, viz., सम्यग्दर्शन, सम्यग्ज्ञान, सम्यक्चारित्र.                                                         ।
-। रत्न    । A presions gem                             । 9   । Nine gems are usually recokned, viz., वज्र, वैडूर्य, गोमेद, पुष्पराग, पद्मराग, मरतक, नील, मुक्ता, प्रवाल.                                           ।
-। रन्ध्र  । Opening                                    । 9   । There are nine chief openings in the human body.                                                                                                    ।
-। रस      । Taste                                      । 6   । The six principal tastes are मधुर, अम्ल, लवण, कटुक, तिक्त, कषाय.                                                                                    ।
-। रुद्र   । Name of a deity                            । 11 । Vide मृड.                                                                                                                                           ।
-। रूप     । Form or shape                              । 1   । Everything has its one only shape.                                                                                                                  ।
-। लब्ध    । Attainment;attainment of the nine powers. । 9   । The nine powers to be attained areअनन्तदर्शन, अनन्तज्ञान, क्षायकसम्य, क्त्वक्षायकचारित्र, अनन्तदान, अनन्तलाभ, अनन्तभोग, अनन्तोपभोग and अनन्तवीर्य. ।
-। लब्धि   । Attainment                                 । 9   । Videलब्ध.                                                                                                                                          ।
-। लेख्य   ।                                           । 6   ।                                                                                                                                                    ।
-। लोक     । World                                      । 3   । Vide भुवन.                                                                                                                                          ।
-। लोचन    । The eye                                    । 2   । Videअक्षि.                                                                                                                                         ।
-। वर्ण    ।                                           । 6   ।                                                                                                                                                    ।
-। वसु     । A class of Vedicdeities.                  । 8   । These deities are considered to be eight in number.                                                                                                 ।
-। वह्नि   । Fire                                       । 3   । Vide अग्नि.                                                                                                                                         ।
-। वारण    । Elephant                                   । 8   । Videइभ.                                                                                                                                            ।
-। वार्धि  । Ocean                                      । 4   । Vide अब्धि.                                                                                                                                         ।
-। विधु    । The moon                                   । 1   । Videइन्दु.                                                                                                                                         ।
-। विषधि   । Ocean                                      । 4   । Vide अब्धि.                                                                                                                                         ।
-। विषनिधि । Ocean                                      । 4   । Vide अब्धि.                                                                                                                                         ।
-। विषय    । Object of sense                            । 5   । The objects cognizable by the five organs of sense are five, viz.. गन्ध, रस, रूप, स्पर्श, शब्द.                                                     ।
-। वियत्   । Sky                                        । 0   । Vide अनन्त.                                                                                                                                         ।
+|               |                                              |      |                                                                                                                          |
+|---------------|----------------------------------------------|------|--------------------------------------------------------------------------------------------------------------------------|
+| जिन           | Name of a Jaina saint.                       | 24 | According to the Jainas there are 24 *tīrthaṅkaras* or saints.                                                           |
+| ज्वलन         | Fire                                         | 3   | Vide अग्नि.                                                                                                              |
+| तत्त्व        | Elementary principles.                       | 7   | The Jainas recognize seven such principles, viz., जीव, अजीव, आस्रव, बन्ध, संवर, निर्जर, मोक्ष.                           |
+| तनु           | Body                                         | 8   | Śiva isconsidered to have his body made up of eight things, viz., पृथिवी, अप्, तेजस्, वायु, आकाश, सूर्य, चन्द्र, यजमान. |
+| तर्क          | Evidence                                     | 6   | The six kinds of evidence areप्रत्यक्ष, अनुमान, उपमान, शब्द, अर्थापत्ति, and अनुपलब्धि.                                 |
+| तार्क्ष्यध्वज | Viṣṇu                                        | 9   | Tide उपेन्द्र.                                                                                                           |
+| तीर्थक        | Tīrthaṅkaraor Jina.                         | 24  | Vide जिन.                                                                                                                |
+| दन्तिन्       | An elephant                                  | 8   | Vide इभ.                                                                                                                 |
+| दुरित         | Worldly action                               | 8   | Vide कर्मन्.                                                                                                             |
+| दुर्गा        | Name of a manifestation of Parvati or Durga. | 9   | Nine separate manifestations of Dargā are recognized                                                                     |
+| दिक्          | Quarter or a cardinal point of the universe. | 8   | There are eight cardinal points of the universe.                                                                         |
+| दिक्          | Do                                           | 10  | Ten directions are recognized, namely the eight cardinal points of the universe, the upward and the downward directions. |
+| दिव्          | Sky                                          | 0   | Vide अनन्त.                                                                                                              |
+| दृक्          | The eye                                      | 2   | Vide अक्षि.                                                                                                              |
+| दृष्टि        | Theeye                                      | 2   | Vide अक्षि.                                                                                                              |
+| द्रव्य        | Elementary substance.                        | 6   | Acocording to the Jainas there are six varieties of elementary substance, viz., जीव, धर्म, अधर्म, पदुल, काल,आकाश.       |
 
 
 
@@ -12717,16 +12662,71 @@ ORDINARY AND NUMERICAL SIGNIFICATIONS.
 
 
 
-।         ।               ।      ।                                                                                          ।
-।---------।---------------।------।------------------------------------------------------------------------------------------।
-। हृय     । Horse         । 7   । Vide अश्व.                                                                               ।
-। हर      । Name of Rudra । 11 । Vide मृड                                                                                 ।
-। हरनेत्र । Siva's eyes   । 3   । Śivais said to have one extra eye in the middle of the forehead making up three in all. ।
-। हुतवह   । Fire          । 3   । Vide अग्नि                                                                               ।
-। हुताशन  । Fire          । 3   । Vide अग्नि                                                                               ।
-। हिमकर   । The moon      । 1   । Vide इन्दु                                                                               ।
-। हिमगु   । The moon      । 1   । Vide इन्दु                                                                               ।
-। हिमांशु । The moon      । 1   । Vide इन्दु                                                                               ।
+|             |                           |      |                                                                                                                                                                   |
+|-------------|---------------------------|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| पुर         | City                      | 3   | Three cities representing three Asurasare said in the Purāṇas to have caused great havoc to the gods, and Śiva issaid to have destroyed them. cf. त्रिपुरान्तक. |
+| पुष्करिन्   | Elephant                  | 8   | Vide इभ.                                                                                                                                                          |
+| प्रालेयांशु | The moon                  | 1   | Vide इन्दु.                                                                                                                                                       |
+| बन्ध        | Bondage                   | 4   | The Jainas recognize four kinds of spiritual bondage, viz., प्रकृति, स्थिति, अनुभाव and प्रदेश.                                                                   |
+| बाण         | Arrow                     | 5   | Vide इषु.                                                                                                                                                         |
+| भ           | A constellation           | 27 | The Hindu astronomers count 27 chief stellar constellations or lunar mansions around the ecliptic.                                                                |
+| भय          | Fear                      | 7   |                                                                                                                                                                  |
+| भाव         | Elements                  | 5   | Five elements are recognized, viz., पृथिवी, अप्, तेजस्, वायु, आकाश.                                                                                               |
+| भास्कर      | The Sun                   | 12  | Vide इन.                                                                                                                                                          |
+| भुवन        | The World                 | 3   | The number of worlds ordinarily counted are three, viz., the upper, the lower and the middleworlds.                                                              |
+| भूत         | Element                   | 5   | Vide भाव.                                                                                                                                                         |
+| भूध्र       | Mountain                  | 7   | Vide अचल.                                                                                                                                                         |
+| मद          | Passion                   | 8   |                                                                                                                                                                  |
+| महीध्र      | Mountain                  | 7   | Vide अचल.                                                                                                                                                         |
+| मातृका      | A Goddess                 | 7   | Generully seven of those goddeuses are enumerated.                                                                                                                |
+| मुनि        | Sage                      | 7   | Seven chief sages are usually mentioned : they are, कश्यप, अत्रि, भरद्वाज, विश्वामित्र, गौतम, जमदग्नि, वसिष्ठ.                                                    |
+| मृगाङ्क     | The moon                  | 1   | Vide इन्दु.                                                                                                                                                       |
+| मृड         | A Name ofŚiva or Rudras. | 11  | It is held that there are eleven Rudras.                                                                                                                          |
+| यति         | Sage                      | 7   | Vide मुनि.                                                                                                                                                        |
+| रजनीकार     | The moon                  | 1   | Vide इन्दु.                                                                                                                                                       |
+
+
+
+|         |                                            |      |                                                                                                                                                     |
+|---------|--------------------------------------------|------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| रत्न    | Excellent thing                            | 3   | There are three excellent things for Jainas, viz., सम्यग्दर्शन, सम्यग्ज्ञान, सम्यक्चारित्र.                                                         |
+| रत्न    | A presions gem                             | 9   | Nine gems are usually recokned, viz., वज्र, वैडूर्य, गोमेद, पुष्पराग, पद्मराग, मरतक, नील, मुक्ता, प्रवाल.                                           |
+| रन्ध्र  | Opening                                    | 9   | There are nine chief openings in the human body.                                                                                                    |
+| रस      | Taste                                      | 6   | The six principal tastes are मधुर, अम्ल, लवण, कटुक, तिक्त, कषाय.                                                                                    |
+| रुद्र   | Name of a deity                            | 11 | Vide मृड.                                                                                                                                           |
+| रूप     | Form or shape                              | 1   | Everything has its one only shape.                                                                                                                  |
+| लब्ध    | Attainment;attainment of the nine powers. | 9   | The nine powers to be attained areअनन्तदर्शन, अनन्तज्ञान, क्षायकसम्य, क्त्वक्षायकचारित्र, अनन्तदान, अनन्तलाभ, अनन्तभोग, अनन्तोपभोग and अनन्तवीर्य. |
+| लब्धि   | Attainment                                 | 9   | Videलब्ध.                                                                                                                                          |
+| लेख्य   |                                           | 6   |                                                                                                                                                    |
+| लोक     | World                                      | 3   | Vide भुवन.                                                                                                                                          |
+| लोचन    | The eye                                    | 2   | Videअक्षि.                                                                                                                                         |
+| वर्ण    |                                           | 6   |                                                                                                                                                    |
+| वसु     | A class of Vedicdeities.                  | 8   | These deities are considered to be eight in number.                                                                                                 |
+| वह्नि   | Fire                                       | 3   | Vide अग्नि.                                                                                                                                         |
+| वारण    | Elephant                                   | 8   | Videइभ.                                                                                                                                            |
+| वार्धि  | Ocean                                      | 4   | Vide अब्धि.                                                                                                                                         |
+| विधु    | The moon                                   | 1   | Videइन्दु.                                                                                                                                         |
+| विषधि   | Ocean                                      | 4   | Vide अब्धि.                                                                                                                                         |
+| विषनिधि | Ocean                                      | 4   | Vide अब्धि.                                                                                                                                         |
+| विषय    | Object of sense                            | 5   | The objects cognizable by the five organs of sense are five, viz.. गन्ध, रस, रूप, स्पर्श, शब्द.                                                     |
+| वियत्   | Sky                                        | 0   | Vide अनन्त.                                                                                                                                         |
+
+
+
+[TABLE]
+
+
+
+|         |               |      |                                                                                          |
+|---------|---------------|------|------------------------------------------------------------------------------------------|
+| हृय     | Horse         | 7   | Vide अश्व.                                                                               |
+| हर      | Name of Rudra | 11 | Vide मृड                                                                                 |
+| हरनेत्र | Siva's eyes   | 3   | Śivais said to have one extra eye in the middle of the forehead making up three in all. |
+| हुतवह   | Fire          | 3   | Vide अग्नि                                                                               |
+| हुताशन  | Fire          | 3   | Vide अग्नि                                                                               |
+| हिमकर   | The moon      | 1   | Vide इन्दु                                                                               |
+| हिमगु   | The moon      | 1   | Vide इन्दु                                                                               |
+| हिमांशु | The moon      | 1   | Vide इन्दु                                                                               |
 
 
 
@@ -12741,22 +12741,22 @@ AND THEIR EXPLANATION.
 
 
 
-।                   ।                                                                                                                                                                                                                                                                                                                                                                         ।
-।-------------------।-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। *Ābādha*          । Segment of a straight line forming the base of a triangle or quadrilateral.                                                                                                                                                                                                                                                                                             ।
-। *Āḍhaka*          । A measure of grain. Vide Table 3, Appendix IV.                                                                                                                                                                                                                                                                                                                          ।
-। *Adhvan*          । The vertical space required for presenting the long and the short syllables of All thepossible varieties of metre with any given number of syllables, the space required for the symbol of a short or a long syllable being one *aṅgula* and the intervening space between each variety being also an *aṅgula*. See note to VI-333$\\frac{1}{2}$to 336$\\frac{1}{2}$. ।
-। *Ādidhana*        । Each term of a series in arithmetical progression is conceived to consist of the sum of the first term and amultiple of the common difference. The sum of all the first terms is called the Ādidhana. See note to II-63 and 64.                                                                                                                                        ।
-। *Ādimiśradhana*   । The sum of a series in arithmetical progression combined with the first term thereof. See note to II-80 to 82.                                                                                                                                                                                                                                                          ।
-। *Agaru*           । A kind of fragrant wood;*Amyris agallocha*.                                                                                                                                                                                                                                                                                                                            ।
-। *Amla-vētasa*     । A kind of sorrel, *Rumex vesicarius*.                                                                                                                                                                                                                                                                                                                                   ।
-। *Amoghavarṣa*     । Name of a king;lit : one who showers down truly useful rain.                                                                                                                                                                                                                                                                                                           ।
-। *Aṃśa*            । A measure of weight in relation to metals. See Table 6, Appendix IV.                                                                                                                                                                                                                                                                                                    ।
-। *Aṃśamūla*        । Square root of a fractional part. See note to IV-3.                                                                                                                                                                                                                                                                                                                     ।
-। *Aṃśavarga*       । Square of a fractional part. See note to IV-3.                                                                                                                                                                                                                                                                                                                          ।
-। *Aṅga-śāstra*     । An auxiliary science.                                                                                                                                                                                                                                                                                                                                                   ।
-। *Aṅgula*          । A measure of length ; finger measure. See I-25 to 29 also Table 1, Appendix IV.                                                                                                                                                                                                                                                                                         ।
-। *Antārāvalambaka* । Inner perpendicular ; the measure of a string suspended from the point of intersection of two stringsstretched from the top of two pillars to a point in the line passing through the bottom of both the pillars.                                                                                                                                                      ।
+|                   |                                                                                                                                                                                                                                                                                                                                                                         |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Ābādha*          | Segment of a straight line forming the base of a triangle or quadrilateral.                                                                                                                                                                                                                                                                                             |
+| *Āḍhaka*          | A measure of grain. Vide Table 3, Appendix IV.                                                                                                                                                                                                                                                                                                                          |
+| *Adhvan*          | The vertical space required for presenting the long and the short syllables of All thepossible varieties of metre with any given number of syllables, the space required for the symbol of a short or a long syllable being one *aṅgula* and the intervening space between each variety being also an *aṅgula*. See note to VI-333$\\frac{1}{2}$to 336$\\frac{1}{2}$. |
+| *Ādidhana*        | Each term of a series in arithmetical progression is conceived to consist of the sum of the first term and amultiple of the common difference. The sum of all the first terms is called the Ādidhana. See note to II-63 and 64.                                                                                                                                        |
+| *Ādimiśradhana*   | The sum of a series in arithmetical progression combined with the first term thereof. See note to II-80 to 82.                                                                                                                                                                                                                                                          |
+| *Agaru*           | A kind of fragrant wood;*Amyris agallocha*.                                                                                                                                                                                                                                                                                                                            |
+| *Amla-vētasa*     | A kind of sorrel, *Rumex vesicarius*.                                                                                                                                                                                                                                                                                                                                   |
+| *Amoghavarṣa*     | Name of a king;lit : one who showers down truly useful rain.                                                                                                                                                                                                                                                                                                           |
+| *Aṃśa*            | A measure of weight in relation to metals. See Table 6, Appendix IV.                                                                                                                                                                                                                                                                                                    |
+| *Aṃśamūla*        | Square root of a fractional part. See note to IV-3.                                                                                                                                                                                                                                                                                                                     |
+| *Aṃśavarga*       | Square of a fractional part. See note to IV-3.                                                                                                                                                                                                                                                                                                                          |
+| *Aṅga-śāstra*     | An auxiliary science.                                                                                                                                                                                                                                                                                                                                                   |
+| *Aṅgula*          | A measure of length ; finger measure. See I-25 to 29 also Table 1, Appendix IV.                                                                                                                                                                                                                                                                                         |
+| *Antārāvalambaka* | Inner perpendicular ; the measure of a string suspended from the point of intersection of two stringsstretched from the top of two pillars to a point in the line passing through the bottom of both the pillars.                                                                                                                                                      |
 
 
 
@@ -12764,139 +12764,139 @@ AND THEIR EXPLANATION.
 
 
 
-।                        ।                                                                                                                                                                                                        ।
-।------------------------।--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। *Bhinnakuṭṭīkāra*      । Proportionate,distribution involving fractional quantities. See footnote in page 125.                                                                                                                 ।
-। *Cakrikābhañjana*      । The destroyer of the cycle of recurring rebirths ; also the name of a king of the Rāṣṭrakūṭa dynasty.                                                                                                  ।
-। *Campaka*              । Name of a tree bearing a yellow fragrant flower *Michelia Champaka*.                                                                                                                                   ।
-। *Chandas*              । A syllabic metre.                                                                                                                                                                                      ।
-। *Citi*                 । Summation of series.                                                                                                                                                                                   ।
-। *Citra-kuṭṭīkāra*      । Curious and interesting problemsinvolving proportionate division.                                                                                                                                     ।
-। *Citra-kuṭṭīkāramiśra* । Mixed problems of a curious and interesting nature involving the application of the operation of proportionate division.                                                                               ।
-। *Daṇḍa*                । A measure of distance. Vide Table 1 of Appendix IV.                                                                                                                                                    ।
-। *Daśa*                 । Tenth place.                                                                                                                                                                                           ।
-। *Daśa-koṭi*            । Ten crore.                                                                                                                                                                                             ।
-। *Daśa-lakṣa*           । Ten lakhs or one million.                                                                                                                                                                              ।
-। *Daśasahasra*          । Ten thousand.                                                                                                                                                                                          ।
-। *Dharaṇa*              । A weight measure of gold or silver; Vide Tables 4 and 5 of Appendix IV.                                                                                                                                ।
-। *Dīnāra*               । A weight measure of baser metals. Vide Table 6 of Appendix IV. Also used as the name of a coin.                                                                                                        ।
-। *Drakṣūṇa*             । A weight measure of baser metals. Vide table 6 of Appendix IV.                                                                                                                                         ।
-। *Droṇa*                । A measure of capacity in relation to grain. Vide Table 3 of Appendix IV.                                                                                                                               ।
-। *Daṇḍuka*              । Name of a tree.                                                                                                                                                                                        ।
-। *Dviragraśeṣamūla*     । A variety of miscellaneous problems on fractions.                                                                                                                                                      ।
-। *Eka*                  । Unit place.                                                                                                                                                                                            ।
-। *Gaṇḍaka*              । A weight measure of gold. Vide Table 4, Appendix IV.                                                                                                                                                   ।
-। *Ghana*                । Cubing ; the first figure on the right, among the three digits forming a group of figures into which a numerical quantity whose cube root is to be found out has to be divided. See note to II-53, 54. ।
-। *Ghanamūla*            । Cube root.                                                                                                                                                                                             ।
-। *Ghaṭī*                । A measure of time. Vide table 2 of Appendix IV.                                                                                                                                                        ।
-। *Guṇākāra*             । Multiplication.                                                                                                                                                                                        ।
-। *Guṇadhana*            । The product of the common ratio taken as many times as the number of terms in a geometrically progressive series multiplied by the first term.See note to II-93.                                      ।
+|                        |                                                                                                                                                                                                        |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Bhinnakuṭṭīkāra*      | Proportionate,distribution involving fractional quantities. See footnote in page 125.                                                                                                                 |
+| *Cakrikābhañjana*      | The destroyer of the cycle of recurring rebirths ; also the name of a king of the Rāṣṭrakūṭa dynasty.                                                                                                  |
+| *Campaka*              | Name of a tree bearing a yellow fragrant flower *Michelia Champaka*.                                                                                                                                   |
+| *Chandas*              | A syllabic metre.                                                                                                                                                                                      |
+| *Citi*                 | Summation of series.                                                                                                                                                                                   |
+| *Citra-kuṭṭīkāra*      | Curious and interesting problemsinvolving proportionate division.                                                                                                                                     |
+| *Citra-kuṭṭīkāramiśra* | Mixed problems of a curious and interesting nature involving the application of the operation of proportionate division.                                                                               |
+| *Daṇḍa*                | A measure of distance. Vide Table 1 of Appendix IV.                                                                                                                                                    |
+| *Daśa*                 | Tenth place.                                                                                                                                                                                           |
+| *Daśa-koṭi*            | Ten crore.                                                                                                                                                                                             |
+| *Daśa-lakṣa*           | Ten lakhs or one million.                                                                                                                                                                              |
+| *Daśasahasra*          | Ten thousand.                                                                                                                                                                                          |
+| *Dharaṇa*              | A weight measure of gold or silver; Vide Tables 4 and 5 of Appendix IV.                                                                                                                                |
+| *Dīnāra*               | A weight measure of baser metals. Vide Table 6 of Appendix IV. Also used as the name of a coin.                                                                                                        |
+| *Drakṣūṇa*             | A weight measure of baser metals. Vide table 6 of Appendix IV.                                                                                                                                         |
+| *Droṇa*                | A measure of capacity in relation to grain. Vide Table 3 of Appendix IV.                                                                                                                               |
+| *Daṇḍuka*              | Name of a tree.                                                                                                                                                                                        |
+| *Dviragraśeṣamūla*     | A variety of miscellaneous problems on fractions.                                                                                                                                                      |
+| *Eka*                  | Unit place.                                                                                                                                                                                            |
+| *Gaṇḍaka*              | A weight measure of gold. Vide Table 4, Appendix IV.                                                                                                                                                   |
+| *Ghana*                | Cubing ; the first figure on the right, among the three digits forming a group of figures into which a numerical quantity whose cube root is to be found out has to be divided. See note to II-53, 54. |
+| *Ghanamūla*            | Cube root.                                                                                                                                                                                             |
+| *Ghaṭī*                | A measure of time. Vide table 2 of Appendix IV.                                                                                                                                                        |
+| *Guṇākāra*             | Multiplication.                                                                                                                                                                                        |
+| *Guṇadhana*            | The product of the common ratio taken as many times as the number of terms in a geometrically progressive series multiplied by the first term.See note to II-93.                                      |
 
 
 
-।                   ।                                                                                                                                     ।
-।-------------------।-------------------------------------------------------------------------------------------------------------------------------------।
-। *Guñjā*           । A weight measure of gold or silver. Vide Tables 4 and 5 of Appendix IV.                                                             ।
-। *Hasta*           । A measure of length. Vide Table 1 of Appendix IV.                                                                                   ।
-। *Hintāle*         । Name of a tree; *Phoenix* or *Elate Paludosa*.                                                                                      ।
-। *Icchā*           । That quantity in a problem on Rule-of-Three in relation to which something is required to be found out according to the givenrate. ।
-। *Indranīla*       । Sapphire.                                                                                                                           ।
-। *Jambū*           । Name of a tree; Eugenia Jambalona.                                                                                                  ।
-। *Janya*           । Trilateral and quadrilateral figures that may be derived out of certain given data called *bījas*.                                  ।
-। *Jinas*           । The great teachers of the Jaina religion; the Jaina Tīrthaṅkara.                                                                    ।
-। *Jinapati*        । The Chief of the Jinas, Vardhamāna.                                                                                                 ।
-। *Jinaśānti*       । Name of a Jaina saint; a Tīrthaṅkara.                                                                                               ।
-। *Jina-Vardhamāna* । Vardhamāna, the great propagator of the Jaina religion and the last of the Tīrthaṅkara.                                             ।
-। *Kadamba*         । Name of a tree ;*Nauclea Cadamba*.                                                                                                 ।
-। *Kalā*            । A weight measure of baser metals. Vide Table 6, Appendix IV.                                                                        ।
-। *Kalāsavarṇa*     । Fraction. See footnote on page 38.                                                                                                  ।
-। *Karmas*          । Consequence of acts done in previous births. According to Jainas the *Karmas* are of eight kinds. See under कर्म in Appendix I.     ।
-। *karmāntika*      । A kind of approximate measure of the cubical contents of an excavation or of a solid. See note to Chapter VIII - 9.                 ।
-। *Karṣa*           । A weight measure of gold or silver. Vide Tables 4 and 5, Appendix IV.                                                               ।
-। *Karṣāpaṇa*       । A Karṣa.                                                                                                                            ।
-। *Kētakī*          । Name of a tree : Pandanus Odoratissimus.                                                                                            ।
-। *Khārī*           । A measure of capacity in relation to grain.                                                                                         ।
-। *Kharva*          । The 13th place in notation.                                                                                                         ।
-। *Kiṣku*           । A measure of length in relation to the wing of wood.                                                                                ।
-। *Kōṭī*            । Crore, the 8th place in notation.                                                                                                   ।
-। *Kōṭīkā*          । A numerical measure of cloths, jewels and canes. Vide Table 7, Appendix IV.                                                         ।
-। *Krōśa*           । A measure of length. Vide Table 1 of Appendix IV.                                                                                   ।
-। *Kṛṣṇagaru*       । A kind of fragrant wood; a black variety of *Agallochum*.                                                                           ।
-। *Kṛti*            । Squaring.                                                                                                                           ।
-। *Kṣepapada*       । Halfof the difference between twice the first term and the common difference in a series in arithmetical progression.              ।
+|                   |                                                                                                                                     |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| *Guñjā*           | A weight measure of gold or silver. Vide Tables 4 and 5 of Appendix IV.                                                             |
+| *Hasta*           | A measure of length. Vide Table 1 of Appendix IV.                                                                                   |
+| *Hintāle*         | Name of a tree; *Phoenix* or *Elate Paludosa*.                                                                                      |
+| *Icchā*           | That quantity in a problem on Rule-of-Three in relation to which something is required to be found out according to the givenrate. |
+| *Indranīla*       | Sapphire.                                                                                                                           |
+| *Jambū*           | Name of a tree; Eugenia Jambalona.                                                                                                  |
+| *Janya*           | Trilateral and quadrilateral figures that may be derived out of certain given data called *bījas*.                                  |
+| *Jinas*           | The great teachers of the Jaina religion; the Jaina Tīrthaṅkara.                                                                    |
+| *Jinapati*        | The Chief of the Jinas, Vardhamāna.                                                                                                 |
+| *Jinaśānti*       | Name of a Jaina saint; a Tīrthaṅkara.                                                                                               |
+| *Jina-Vardhamāna* | Vardhamāna, the great propagator of the Jaina religion and the last of the Tīrthaṅkara.                                             |
+| *Kadamba*         | Name of a tree ;*Nauclea Cadamba*.                                                                                                 |
+| *Kalā*            | A weight measure of baser metals. Vide Table 6, Appendix IV.                                                                        |
+| *Kalāsavarṇa*     | Fraction. See footnote on page 38.                                                                                                  |
+| *Karmas*          | Consequence of acts done in previous births. According to Jainas the *Karmas* are of eight kinds. See under कर्म in Appendix I.     |
+| *karmāntika*      | A kind of approximate measure of the cubical contents of an excavation or of a solid. See note to Chapter VIII - 9.                 |
+| *Karṣa*           | A weight measure of gold or silver. Vide Tables 4 and 5, Appendix IV.                                                               |
+| *Karṣāpaṇa*       | A Karṣa.                                                                                                                            |
+| *Kētakī*          | Name of a tree : Pandanus Odoratissimus.                                                                                            |
+| *Khārī*           | A measure of capacity in relation to grain.                                                                                         |
+| *Kharva*          | The 13th place in notation.                                                                                                         |
+| *Kiṣku*           | A measure of length in relation to the wing of wood.                                                                                |
+| *Kōṭī*            | Crore, the 8th place in notation.                                                                                                   |
+| *Kōṭīkā*          | A numerical measure of cloths, jewels and canes. Vide Table 7, Appendix IV.                                                         |
+| *Krōśa*           | A measure of length. Vide Table 1 of Appendix IV.                                                                                   |
+| *Kṛṣṇagaru*       | A kind of fragrant wood; a black variety of *Agallochum*.                                                                           |
+| *Kṛti*            | Squaring.                                                                                                                           |
+| *Kṣepapada*       | Halfof the difference between twice the first term and the common difference in a series in arithmetical progression.              |
 
 
 
-।                    ।                                                                                               ।
-।--------------------।-----------------------------------------------------------------------------------------------।
-। *Kṣityā*           । The 21st place in notation.                                                                   ।
-। *Kṣōbha*           । The 23rd place in notation.                                                                   ।
-। *Kṣōṇī*            । The 17th place in notation.                                                                   ।
-। *Kuḍaha or Kuḍaba* । A measure of capacity in relation to grain. Vide Table 3 of Appendix IV9.                     ।
-। *Kumbha*           । Do.                    do.                                                ।
-। *Kuṅkuma*          । The pollen and filaments of the flowers of saffron, *Crocus sativus*.                         ।
-। *Kuravaka*         । Name of a tree; the *Amaranth* or the *Barleria*.                                             ।
-। *Kuṭaja*           । Name of a tree; *Wrightia Antidyasenterica*.                                                  ।
-। *Kuṭṭīkāra*        । Proportionate division. See VI -79$\\frac{1}{2}$.                                             ।
-। *Lābha*            । Quotient or share.                                                                            ।
-। *Lakṣa*            । Lakh, the 6th place in notation.                                                              ।
-। *Laṅkā*            । The place where the meridian passing through Ujjain meets the equator.                        ।
-। *Lava*             । A measure of time. *Vide* Table 2 of Appendix IV.                                             ।
-। *Madhuka*          । Name of a tree, *Bassia Latifolia*.                                                           ।
-। *Madhyadhana*      । The middle term of a series in arithmetical progression. See note to II-63.                   ।
-। *Mahākharva*       । The 14th place in notation.                                                                   ।
-। *Mahākṣityā*       । The 22nd place in notation.                                                                   ।
-। *Mahākṣōbha*       । The 24th place in notation.                                                                   ।
-। *Mahākṣōṇī*        । The 18th place in notation.                                                                   ।
-। *Mahāpadma*        । The 16th place in notation.                                                                   ।
-। *Mahāśaṅkha*       । The20th place in notation.                                                                   ।
-। *Mahāvīra*         । A name of Vardhamāna.                                                                         ।
-। *Mānī*             । A measureof capacity in relation to grain. *Vide* Table 3 of Appendix IV.                    ।
-। *Mardala*          । A kind of drum; for a longitudinal section, see note to VII-32.                               ।
-। *Mārga*            । Section; the line along which a piece of wood is cut by a saw.                                ।
-। *Māṣa*             । A weight measure of silver. See Tables 5, Appendix IV.                                        ।
-। *Mēru*             । Name of a fabulous mountain forming the centre of Jambdūvīpa, all planets revolving round it. ।
-। *Miśradhana*       । Mixed sum. See note to II-80 to 82.                                                           ।
-। *Mṛdaṅga*          । A kind of drum; for a longitudinal section, see note to VIII-32.                              ।
-। *Muhūrta*          । A measure of time. *Vide* Table 2, Appendix lV.                                               ।
-। *Mukha*            । The topside of a quadrilateral.                                                               ।
-। *Mūla*             । Square root ; a variety of miscellaneous problems on fractions. *Vide* note to IV-3.          ।
-। *Mūlamiśra*        । Involving square root; a variety of miscellaneous problems on fractions. Vide note to IV-3.   ।
+|                    |                                                                                               |
+|--------------------|-----------------------------------------------------------------------------------------------|
+| *Kṣityā*           | The 21st place in notation.                                                                   |
+| *Kṣōbha*           | The 23rd place in notation.                                                                   |
+| *Kṣōṇī*            | The 17th place in notation.                                                                   |
+| *Kuḍaha or Kuḍaba* | A measure of capacity in relation to grain. Vide Table 3 of Appendix IV9.                     |
+| *Kumbha*           | Do.                    do.                                                |
+| *Kuṅkuma*          | The pollen and filaments of the flowers of saffron, *Crocus sativus*.                         |
+| *Kuravaka*         | Name of a tree; the *Amaranth* or the *Barleria*.                                             |
+| *Kuṭaja*           | Name of a tree; *Wrightia Antidyasenterica*.                                                  |
+| *Kuṭṭīkāra*        | Proportionate division. See VI -79$\\frac{1}{2}$.                                             |
+| *Lābha*            | Quotient or share.                                                                            |
+| *Lakṣa*            | Lakh, the 6th place in notation.                                                              |
+| *Laṅkā*            | The place where the meridian passing through Ujjain meets the equator.                        |
+| *Lava*             | A measure of time. *Vide* Table 2 of Appendix IV.                                             |
+| *Madhuka*          | Name of a tree, *Bassia Latifolia*.                                                           |
+| *Madhyadhana*      | The middle term of a series in arithmetical progression. See note to II-63.                   |
+| *Mahākharva*       | The 14th place in notation.                                                                   |
+| *Mahākṣityā*       | The 22nd place in notation.                                                                   |
+| *Mahākṣōbha*       | The 24th place in notation.                                                                   |
+| *Mahākṣōṇī*        | The 18th place in notation.                                                                   |
+| *Mahāpadma*        | The 16th place in notation.                                                                   |
+| *Mahāśaṅkha*       | The20th place in notation.                                                                   |
+| *Mahāvīra*         | A name of Vardhamāna.                                                                         |
+| *Mānī*             | A measureof capacity in relation to grain. *Vide* Table 3 of Appendix IV.                    |
+| *Mardala*          | A kind of drum; for a longitudinal section, see note to VII-32.                               |
+| *Mārga*            | Section; the line along which a piece of wood is cut by a saw.                                |
+| *Māṣa*             | A weight measure of silver. See Tables 5, Appendix IV.                                        |
+| *Mēru*             | Name of a fabulous mountain forming the centre of Jambdūvīpa, all planets revolving round it. |
+| *Miśradhana*       | Mixed sum. See note to II-80 to 82.                                                           |
+| *Mṛdaṅga*          | A kind of drum; for a longitudinal section, see note to VIII-32.                              |
+| *Muhūrta*          | A measure of time. *Vide* Table 2, Appendix lV.                                               |
+| *Mukha*            | The topside of a quadrilateral.                                                               |
+| *Mūla*             | Square root ; a variety of miscellaneous problems on fractions. *Vide* note to IV-3.          |
+| *Mūlamiśra*        | Involving square root; a variety of miscellaneous problems on fractions. Vide note to IV-3.   |
 
 
 
-।                      ।                                                                                                                                                ।
-।----------------------।------------------------------------------------------------------------------------------------------------------------------------------------।
-। *Muraja*             । Akind of drum; same as Mṛdaṅga.                                                                                                               ।
-। *Nandyāvarta*        । Name of a palace built in a particular form. See note to VI-332$\\frac{1}{2}$.                                                                 ।
-। *Narapāla*           । King: probably name of a king.                                                                                                                 ।
-। *Nīlōtpala*          । Blue water-lily.                                                                                                                               ।
-। *Niruddha*           । Least common multiple.                                                                                                                         ।
-। *Niṣka*              । A golden coin.                                                                                                                                 ।
-। *Nyarbuda*           । The 12th place in notation.                                                                                                                    ।
-। *Pāda*               । A measure of length. *Vide* Table 1, Appendix IV.                                                                                              ।
-। *Padma*              । The 15th place in notation.                                                                                                                    ।
-। *Padmarāga*          । A kind of gem or precious stone.                                                                                                               ।
-। *Paiśācika*          । Relating to the devil; hence very difficult or complex.                                                                                        ।
-। *Pakṣa*              । A measure of time. *Vide* Table 2 of Appendix IV.                                                                                              ।
-। *Paal*               । A weight measure of gold, silver and other metals. *Vide* Tables 4, 5, 6 of Appendix IV.                                                       ।
-। *Paṇa*               । A weight measure of gold;v*ide* table 4 of Appendix IV ; also a golden coin.                                                                  ।
-। *Paṇava*            । A kind of drum; for longitudinal section see note to VII-32.                                                                                   ।
-। *Paramāṇu*          । Smallest particle. Vide Table 1, Appendix IV.                                                                                                  ।
-। *Parikarman*         । Arithmetical operation.                                                                                                                        ।
-। *Pārśva*            । A Jaina saint ; one of the *Tīrthaṅkaras*.                                                                                                     ।
-। *Pāṭalī*            । A tree with sweet-scented blossoms; *Bignonia Suaveolens*.                                                                                     ।
-। *Paṭṭikā*           । A measure of saw-work. *Vide* Table 10, Appendix IV; also note to VIII-63 to 67 1/2.                                                           ।
-। *Phala*              । A given quantity corresponding to what has to be found out in a problem on the Rule-of-Three.See note to V-2.                                 ।
-। *Plakṣa*            । Name of a tree; the waved-leaf fig-tree, *FicusInfectoria* or *Religiosa*.                                                                    ।
-। *Prabhāga*          । Fraction of a fraction.                                                                                                                        ।
-। *Prakīrṇaka*        । Miscellaneous problems.                                                                                                                        ।
-। *Prakṣepaka*        । Proportionate distribution.                                                                                                                    ।
-। *Prakṣepaka-karaṇa* । An operation of proportionate distribution.                                                                                                    ।
-। *Pramāṇa*           । Ameasure of length. *Vide*Table 1 of Appendix IV. The given quantity corresponding to Icchā, in a problem on Rule-of-Three. See note to V-2. ।
-। *Prapūraṇikā*       । Literally, that which completes or fills; here, baser metalsmixed with gold; dross.                                                           ।
-। *Prastha*            । A measure of capacity in relation to grain. *Vide*Tables 3 and 6, Appendix IV.                                                                ।
-। *Pratyutpanna*       । Multiplication.                                                                                                                                ।
+|                      |                                                                                                                                                |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Muraja*             | Akind of drum; same as Mṛdaṅga.                                                                                                               |
+| *Nandyāvarta*        | Name of a palace built in a particular form. See note to VI-332$\\frac{1}{2}$.                                                                 |
+| *Narapāla*           | King: probably name of a king.                                                                                                                 |
+| *Nīlōtpala*          | Blue water-lily.                                                                                                                               |
+| *Niruddha*           | Least common multiple.                                                                                                                         |
+| *Niṣka*              | A golden coin.                                                                                                                                 |
+| *Nyarbuda*           | The 12th place in notation.                                                                                                                    |
+| *Pāda*               | A measure of length. *Vide* Table 1, Appendix IV.                                                                                              |
+| *Padma*              | The 15th place in notation.                                                                                                                    |
+| *Padmarāga*          | A kind of gem or precious stone.                                                                                                               |
+| *Paiśācika*          | Relating to the devil; hence very difficult or complex.                                                                                        |
+| *Pakṣa*              | A measure of time. *Vide* Table 2 of Appendix IV.                                                                                              |
+| *Paal*               | A weight measure of gold, silver and other metals. *Vide* Tables 4, 5, 6 of Appendix IV.                                                       |
+| *Paṇa*               | A weight measure of gold;v*ide* table 4 of Appendix IV ; also a golden coin.                                                                  |
+| *Paṇava*            | A kind of drum; for longitudinal section see note to VII-32.                                                                                   |
+| *Paramāṇu*          | Smallest particle. Vide Table 1, Appendix IV.                                                                                                  |
+| *Parikarman*         | Arithmetical operation.                                                                                                                        |
+| *Pārśva*            | A Jaina saint ; one of the *Tīrthaṅkaras*.                                                                                                     |
+| *Pāṭalī*            | A tree with sweet-scented blossoms; *Bignonia Suaveolens*.                                                                                     |
+| *Paṭṭikā*           | A measure of saw-work. *Vide* Table 10, Appendix IV; also note to VIII-63 to 67 1/2.                                                           |
+| *Phala*              | A given quantity corresponding to what has to be found out in a problem on the Rule-of-Three.See note to V-2.                                 |
+| *Plakṣa*            | Name of a tree; the waved-leaf fig-tree, *FicusInfectoria* or *Religiosa*.                                                                    |
+| *Prabhāga*          | Fraction of a fraction.                                                                                                                        |
+| *Prakīrṇaka*        | Miscellaneous problems.                                                                                                                        |
+| *Prakṣepaka*        | Proportionate distribution.                                                                                                                    |
+| *Prakṣepaka-karaṇa* | An operation of proportionate distribution.                                                                                                    |
+| *Pramāṇa*           | Ameasure of length. *Vide*Table 1 of Appendix IV. The given quantity corresponding to Icchā, in a problem on Rule-of-Three. See note to V-2. |
+| *Prapūraṇikā*       | Literally, that which completes or fills; here, baser metalsmixed with gold; dross.                                                           |
+| *Prastha*            | A measure of capacity in relation to grain. *Vide*Tables 3 and 6, Appendix IV.                                                                |
+| *Pratyutpanna*       | Multiplication.                                                                                                                                |
 
 
 
@@ -13515,12 +13515,12 @@ CHAPTER VI.
 
 (92$\\frac{1}{2}$ to 94$\\frac{1}{2}$).
 
-।         ।                  ।                 ।                 ।
-|:-------:|:----------------:|:---------------:|:---------------:।
-।        ।      Curd.       ।      Ghee.      ।      Milk.      ।
-।  Ipot  । $\\frac{128}{9}$ । $\\frac{32}{8}$ । $\\frac{64}{9}$ ।
-। II pot  । $\\frac{32}{3}$  ।        8        । $\\frac{16}{3}$ ।
-। III pot । $\\frac{64}{9}$  । $\\frac{16}{8}$ । $\\frac{32}{9}$ ।
+|         |                  |                 |                 |
+|:-------:|:----------------:|:---------------:|:---------------:|
+|        |      Curd.       |      Ghee.      |      Milk.      |
+|  Ipot  | $\\frac{128}{9}$ | $\\frac{32}{8}$ | $\\frac{64}{9}$ |
+| II pot  | $\\frac{32}{3}$  |        8        | $\\frac{16}{3}$ |
+| III pot | $\\frac{64}{9}$  | $\\frac{16}{8}$ | $\\frac{32}{9}$ |
 
 (95$\\frac{1}{2}$ aud 96$\\frac{1}{2}$) 15 men; 50 men.
 
@@ -13595,29 +13595,29 @@ In the case of negative associated numbers :
 
 (144$\\frac{1}{2}$and 145$\\frac{1}{2}$)
 
-।         ।          ।            ।              ।               ।
-|:-------:|:--------:|:----------:|:------------:|:-------------:।
-।        । Citrons. । Plantains. । Wood-apples. । Pomegranates. ।
-। I heap  ।    14    ।     3      ।      3       ।       1       ।
-। II heap ।    16    ।     3      ।      2       ।       1       ।
-। II heap ।    18    ।     3      ।      1       ।       1       ।
-।  Price  ।    2     ।     10     ।      4       ।       3       ।
+|         |          |            |              |               |
+|:-------:|:--------:|:----------:|:------------:|:-------------:|
+|        | Citrons. | Plantains. | Wood-apples. | Pomegranates. |
+| I heap  |    14    |     3      |      3       |       1       |
+| II heap |    16    |     3      |      2       |       1       |
+| II heap |    18    |     3      |      1       |       1       |
+|  Price  |    2     |     10     |      4       |       3       |
 
 (147$\\frac{1}{2}$ to 149).
 
-।                  ।                        ।          ।        ।                         ।
-|:----------------:|:----------------------:|:--------:|:------:|:-----------------------:।
-।                 ।       Peacocks.        । Pigeons. । Swans. ।      Sārasa-birds.      ।
-।      Number      ।           7            ।    16    ।   45   ।            4            ।
-। Price in *paṇas* ।   $\\frac{14}{3}$  ।    12    ।   36   ।  $\\frac{10}{3}$   ।
+|                  |                        |          |        |                         |
+|:----------------:|:----------------------:|:--------:|:------:|:-----------------------:|
+|                 |       Peacocks.        | Pigeons. | Swans. |      Sārasa-birds.      |
+|      Number      |           7            |    16    |   45   |            4            |
+| Price in *paṇas* |   $\\frac{14}{3}$  |    12    |   36   |  $\\frac{10}{3}$   |
 
 (150) -
 
-।                  ।         ।              ।         ।
-|:----------------:|:-------:|:------------:|:-------:।
-।                 । Ginger. । Long pepper. । Pepper. ।
-।     Quantity     ।   20    ।      44      ।    4    ।
-। Price in *paṇas* ।   12    ।      16      ।   32    ।
+|                  |         |              |         |
+|:----------------:|:-------:|:------------:|:-------:|
+|                 | Ginger. | Long pepper. | Pepper. |
+|     Quantity     |   20    |      44      |    4    |
+| Price in *paṇas* |   12    |      16      |   32    |
 
 (152 and 153) *Paṇas* 9; 20; 35; 36.
 
@@ -14191,123 +14191,123 @@ TABLES OF MEASURES.
 
 1. LINEAR MEASURE.
 
-।                              ।                                      ।
-|:----------------------------:।:------------------------------------:।
-।   Infinity of *Paramāṇus*    ।               1 *Aṇu*                ।
-।           8*Aṇus*           ।            1 *Trasarēṇu*             ।
-।        8*Trasarēṇus*        ।            1 *Ratharēṇu*             ।
-।        8*Ratharēṇu*         ।           1 hair-measure            ।
-।        8hair-measure        । 1 sesamum-measure or musterd-measure ।
-।      8 sesamum-measure       ।           1 barely-measure           ।
-।       8barely-measure       ।   1*aṅgula*or*vyavahārāṅgula*    ।
-।    500*vyavahārāṅgulas*     ।    1*pramāṇa* or*pramāṇāṅgula*     ।
-। 6*aṅgulas (finger-measure)* ।   1 foot-measure (measured across)   ।
-।            2 feet            ।             1 *Vitasti*              ।
-।         2 *Vitastis*         ।              1 *Hasta*               ।
-।          4 *Hastas*          ।              1 *Daṇḍa*              ।
-।        2000*Daṇḍas*         ।            1 *Kr**ō**śa*             ।
-।         4*Krōśas*          ।              1 Y*ōjana*              ।
+|                              |                                      |
+|:----------------------------:|:------------------------------------:|
+|   Infinity of *Paramāṇus*    |               1 *Aṇu*                |
+|           8*Aṇus*           |            1 *Trasarēṇu*             |
+|        8*Trasarēṇus*        |            1 *Ratharēṇu*             |
+|        8*Ratharēṇu*         |           1 hair-measure            |
+|        8hair-measure        | 1 sesamum-measure or musterd-measure |
+|      8 sesamum-measure       |           1 barely-measure           |
+|       8barely-measure       |   1*aṅgula*or*vyavahārāṅgula*    |
+|    500*vyavahārāṅgulas*     |    1*pramāṇa* or*pramāṇāṅgula*     |
+| 6*aṅgulas (finger-measure)* |   1 foot-measure (measured across)   |
+|            2 feet            |             1 *Vitasti*              |
+|         2 *Vitastis*         |              1 *Hasta*               |
+|          4 *Hastas*          |              1 *Daṇḍa*              |
+|        2000*Daṇḍas*         |            1 *Kr**ō**śa*             |
+|         4*Krōśas*          |              1 Y*ōjana*              |
 
 
 
 2. TIME MEASURE.
 
-।                       ।              ।
-।:---------------------:।:------------:।
-। Infinity of *Samayas* ।  1*Āvali*   ।
-। A number of*Āvalis*  । 1 *Ucchvāsa* ।
-।     7*Ucchvāsas*     । 1 *St**ōka*  ।
-।     7*St**ōkas*      ।    1 Lava    ।
-।       38Lavas        ।   1 Ghaṭī    ।
-।       2 Ghaṭīs       ।  1 Muhūrta   ।
-।      30 Muhūrtas      ।    1 Day     ।
-।        15 Days        ।   1 Pakṣa    ।
-।       2 Pakṣas        ।   1 Month    ।
-।       2 months        ।   1*Ṛtu*    ।
-।       3*Ṛtus*       ।   1 Ayana    ।
-।       2 Ayanas        ।    1 Year    ।
+|                       |              |
+|:---------------------:|:------------:|
+| Infinity of *Samayas* |  1*Āvali*   |
+| A number of*Āvalis*  | 1 *Ucchvāsa* |
+|     7*Ucchvāsas*     | 1 *St**ōka*  |
+|     7*St**ōkas*      |    1 Lava    |
+|       38Lavas        |   1 Ghaṭī    |
+|       2 Ghaṭīs       |  1 Muhūrta   |
+|      30 Muhūrtas      |    1 Day     |
+|        15 Days        |   1 Pakṣa    |
+|       2 Pakṣas        |   1 Month    |
+|       2 months        |   1*Ṛtu*    |
+|       3*Ṛtus*       |   1 Ayana    |
+|       2 Ayanas        |    1 Year    |
 
 
 
 3. MEASURES OF CAPACITY (GRAIN MEASUREMENT).
 
-।                 ।                ।
-।:---------------:।:--------------:।
-। 4 *Ṣ**oḍaśikṣā* ।   1 *Kuḍaha*   ।
-।   4*Kuḍahas*   ।  1 *Prastha*   ।
-।  4 *Prasthas*   ।  1*Ā**ḍhaka*  ।
-।  4*Ā**ḍhakas*  ।   1 *Droṇa*    ।
-।   4*Droṇas*    ।    1 *Mānī*    ।
-।    4*Mānīs*    ।   1 *Khārī*   ।
-।   5 *Khārīs*    । 1 *Pravartikā* ।
-। 4*Pravartikās* ।   1 *Vāha*    ।
-। 5*Pravartikās* ।   1 *Kumbha*   ।
+|                 |                |
+|:---------------:|:--------------:|
+| 4 *Ṣ**oḍaśikṣā* |   1 *Kuḍaha*   |
+|   4*Kuḍahas*   |  1 *Prastha*   |
+|  4 *Prasthas*   |  1*Ā**ḍhaka*  |
+|  4*Ā**ḍhakas*  |   1 *Droṇa*    |
+|   4*Droṇas*    |    1 *Mānī*    |
+|    4*Mānīs*    |   1 *Khārī*   |
+|   5 *Khārīs*    | 1 *Pravartikā* |
+| 4*Pravartikās* |   1 *Vāha*    |
+| 5*Pravartikās* |   1 *Kumbha*   |
 
 
 
 4. MEASURES OF WEIGHT-GOLD.
 
-।              ।             ।
-।:------------:।:-----------:।
-। 4 *Gaṇḍaka*  ।  1*Guñjā*  ।
-।  5*Guñjās*  ।  1*Paṇa*   ।
-।  8*Paṇas*  । 1*Dhāraṇa* ।
-। 2*Dhāraṇas* ।  1*Karṣa*  ।
-।  4*Karṣas*  ।   1 Pala    ।
+|              |             |
+|:------------:|:-----------:|
+| 4 *Gaṇḍaka*  |  1*Guñjā*  |
+|  5*Guñjās*  |  1*Paṇa*   |
+|  8*Paṇas*  | 1*Dhāraṇa* |
+| 2*Dhāraṇas* |  1*Karṣa*  |
+|  4*Karṣas*  |   1 Pala    |
 
 
 
 5. MEASURES OF WEIGHT - SILVER.
 
-।                           ।                       ।
-।:-------------------------:।:---------------------:।
-।         2 Grains         ।       1*Guñjā*       ।
-।        2*Guñjās*         ।       1*Māṣa*        ।
-।        16*Māṣas*         ।      1*Dhāraṇa*      ।
-। $2\\frac{1}{2}$*Dhāraṇas* । 1*Karṣa*or*Purāṇa* ।
-।  4*Karṣas*or*Purāṇas*  ।        1 Pala         ।
+|                           |                       |
+|:-------------------------:|:---------------------:|
+|         2 Grains         |       1*Guñjā*       |
+|        2*Guñjās*         |       1*Māṣa*        |
+|        16*Māṣas*         |      1*Dhāraṇa*      |
+| $2\\frac{1}{2}$*Dhāraṇas* | 1*Karṣa*or*Purāṇa* |
+|  4*Karṣas*or*Purāṇas*  |        1 Pala         |
 
 
 
 6. MEASURES OF WEIGHT - OTHER METALS.
 
-।                          ।              ।
-।:------------------------:।:------------:।
-।        4*Pādas*         ।   1*Kalā*   ।
-।  $6\\frac{1}{4}$*Kalās*  ।   1*Yava*   ।
-।        4*Yavas*         ।   1*Aṃśa*   ।
-।        4*Aṃśas*         ।  1 *Bhāga*   ।
-।        6*Bhāgas*        । 1*Drakṣūṇa* ।
-।      2*Drakṣūṇas*       ।  1*Dīnāra*  ।
-।       2*Dīnāras*        ।  1*Satēra*  ।
-। $12\\frac{1}{2}$*Palas* । 1*Prastha*  ।
-।       200*Palas*        ।   1*Tulā*   ।
-।        10*Tulā*         ।  1*Bhāra*   ।
+|                          |              |
+|:------------------------:|:------------:|
+|        4*Pādas*         |   1*Kalā*   |
+|  $6\\frac{1}{4}$*Kalās*  |   1*Yava*   |
+|        4*Yavas*         |   1*Aṃśa*   |
+|        4*Aṃśas*         |  1 *Bhāga*   |
+|        6*Bhāgas*        | 1*Drakṣūṇa* |
+|      2*Drakṣūṇas*       |  1*Dīnāra*  |
+|       2*Dīnāras*        |  1*Satēra*  |
+| $12\\frac{1}{2}$*Palas* | 1*Prastha*  |
+|       200*Palas*        |   1*Tulā*   |
+|        10*Tulā*         |  1*Bhāra*   |
 
 
 
 7. MEASUREMENT OF CLOTHES, JEWELS AND CANES.
 
-।          ।                ।
-।:--------:।:--------------:।
-। 20 pairs । 1*K**ō**ṭīkā* ।
+|          |                |
+|:--------:|:--------------:|
+| 20 pairs | 1*K**ō**ṭīkā* |
 
 
 
 8. EARTH MEASUREMENT.
 
-।                                     ।               ।
-।:-----------------------------------:।:-------------:।
-। 1 cubic *Hasta* of compressed earth । 3600 *Palas*. ।
-।   1 cubic *Hasta* of loose earth    । 3200 *Palas*. ।
+|                                     |               |
+|:-----------------------------------:|:-------------:|
+| 1 cubic *Hasta* of compressed earth | 3600 *Palas*. |
+|   1 cubic *Hasta* of loose earth    | 3200 *Palas*. |
 
 
 
 9. BRICK MEASUREMENT.
 
-।                                                       ।             ।
-।:-----------------------------------------------------:।:-----------:।
-। Brick of 1 *hasta* X$\\frac{1}{2}$Hasta x 4 Aṅgulas । Unit brick. ।
+|                                                       |             |
+|:-----------------------------------------------------:|:-----------:|
+| Brick of 1 *hasta* X$\\frac{1}{2}$Hasta x 4 Aṅgulas | Unit brick. |
 
 
 
@@ -14315,18 +14315,18 @@ TABLES OF MEASURES.
 
 10. WOOD MEASUREMENT.
 
-।                                                                                                    ।             ।
-।:--------------------------------------------------------------------------------------------------:।:-----------:।
-।                                     1 *Hasta* and 18 *aṅgulas*                                     ।  1 *Kiṣku*  ।
-। Work done in cutting along by means of a saw a piece of wood 96 *aṅgulas*long and 1*Kiṣku*broad । 1 *Paṭṭīkā* ।
+|                                                                                                    |             |
+|:--------------------------------------------------------------------------------------------------:|:-----------:|
+|                                     1 *Hasta* and 18 *aṅgulas*                                     |  1 *Kiṣku*  |
+| Work done in cutting along by means of a saw a piece of wood 96 *aṅgulas*long and 1*Kiṣku*broad | 1 *Paṭṭīkā* |
 
 
 
 11. SHADOW MEASUREMENT.
 
-।                                  ।                   ।
-।:--------------------------------:।:-----------------:।
-। $\\frac{1}{7}$of a man's height । his foot measure. ।
+|                                  |                   |
+|:--------------------------------:|:-----------------:|
+| $\\frac{1}{7}$of a man's height | his foot measure. |
 
 
 

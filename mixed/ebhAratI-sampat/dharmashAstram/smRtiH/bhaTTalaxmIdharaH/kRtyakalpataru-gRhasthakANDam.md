@@ -249,161 +249,161 @@ On odd numbered pages from p. 393 to p. 411, the page heading
 
 
 
-।                                                              ।
-|:------------------------------------------------------------:।
-।                         **CONTENTS**                         ।
-।                           Preface                            ।
-।                 Note on the Manuscripts Used                 ।
-।                  Corrections and Additions                   ।
-।                        INTRODUCTION :                        ।
-।                   The Hindu Scheme of Life                   ।
-।                         The Āśramas                          ।
-।           Magnification of the householder's life            ।
-।                        Gṛhasthakāṇḍa                         ।
-।              Relation of Marriage to Gārhasthya              ।
-।                  The Approach to Gārhasthya                  ।
-।      The Sacrament of Marriage (**Vaivāhika-samskāra**)      ।
-।                General conditions of Marriage                ।
-।                    Endogamy and Hypergamy                    ।
-।         Exogamy : Prohibited degrees of Relationship         ।
-।                       Cousin Marriages                       ।
-।        The **Sagotra** and **Sapravara** Prohibition         ।
-।                Requisite Qualities in a Bride                ।
-।                 Qualities of the Bridegroom                  ।
-।        Law of Betrothal. (Error or Fraud in Marriage)        ।
-।                      The Marriage Rites                      ।
-।             Post-puberty Marriage, when allowed              ।
-।            Kanyā-svayamvara (The Maiden's Choice)            ।
-।                   Selection by Divination                    ।
-।               Forms of Marriage (Vivāhabhedāḥ)               ।
-।                      Types of Marriage                       ।
-।               Features of the Different Types                ।
-।                   Consummation of Marriage                   ।
-।            Marriage of a Second Wife (Adhivedana)            ।
-।                    Precedence among Wives                    ।
-। Parivedana : Priority of marriage among Brothersand Sisters ।
-।         The Kindling of the Fires (**Agnyādhānam**)          ।
-।            The daily Ṛites of the House-holder :             ।
-।                        1\. Agnihotra                         ।
-।                     2\. Periodical Rites                     ।
+|                                                              |
+|:------------------------------------------------------------:|
+|                         **CONTENTS**                         |
+|                           Preface                            |
+|                 Note on the Manuscripts Used                 |
+|                  Corrections and Additions                   |
+|                        INTRODUCTION :                        |
+|                   The Hindu Scheme of Life                   |
+|                         The Āśramas                          |
+|           Magnification of the householder's life            |
+|                        Gṛhasthakāṇḍa                         |
+|              Relation of Marriage to Gārhasthya              |
+|                  The Approach to Gārhasthya                  |
+|      The Sacrament of Marriage (**Vaivāhika-samskāra**)      |
+|                General conditions of Marriage                |
+|                    Endogamy and Hypergamy                    |
+|         Exogamy : Prohibited degrees of Relationship         |
+|                       Cousin Marriages                       |
+|        The **Sagotra** and **Sapravara** Prohibition         |
+|                Requisite Qualities in a Bride                |
+|                 Qualities of the Bridegroom                  |
+|        Law of Betrothal. (Error or Fraud in Marriage)        |
+|                      The Marriage Rites                      |
+|             Post-puberty Marriage, when allowed              |
+|            Kanyā-svayamvara (The Maiden's Choice)            |
+|                   Selection by Divination                    |
+|               Forms of Marriage (Vivāhabhedāḥ)               |
+|                      Types of Marriage                       |
+|               Features of the Different Types                |
+|                   Consummation of Marriage                   |
+|            Marriage of a Second Wife (Adhivedana)            |
+|                    Precedence among Wives                    |
+| Parivedana : Priority of marriage among Brothersand Sisters |
+|         The Kindling of the Fires (**Agnyādhānam**)          |
+|            The daily Ṛites of the House-holder :             |
+|                        1\. Agnihotra                         |
+|                     2\. Periodical Rites                     |
 
 
 
-।                                                         ।
-।---------------------------------------------------------।
-। A. The Seven Pākayajñas                                 ।
-। B. Havir-Yajñas                                         ।
-। C. Soma-Samsthāḥ                                        ।
-। Duty and Occupation                                     ।
-। The Pañca-mahāyajñas (Five Sacrifices)                  ।
-। Duties of the First Varṇa                               ।
-। Brāhmaṇa occupations in times of distress (Āpad-Dharma) ।
-। Agriculture.                                            ।
-। Trade (vāṇijya)                                         ।
-। Cattle rearing (pāśupālyam)                             ।
-। Money-lending (kusīdam)                                 ।
-। Miscellaneous Occupations in Distress                   ।
-। Acceptance of Gifts (Pratigraha)                        ।
-। Occupations of Kṣatriya and Vaiśya                      ।
-। Duties and occupations of the Śūdra                     ।
-। The Sources and the Uses of Wealth                      ।
-। The duties of the Snātaka                               ।
-। Yama-Niyama                                             ।
-। Truth                                                   ।
-। Conflict of Yamas : Truth versus Cruelty                ।
-। Permissible deviations from Truthfulness                ।
-। Avoidance of Theft (A-steyam)                           ।
-। Purity (Śaucam)                                         ।
-। Brahmacaryam                                            ।
-। Niyamāḥ                                                 ।
-। Destruction of Family (Kulanāśanam)                     ।
-। Where should a householder live?                        ।
-। Restraint on Speech (Vācyāvācayam)                      ।
-। How the householder should travel (Gamanapraveśana)     ।
-। Taboos of the householder                               ।
-। What a Gṛhastha should not give a Śūdra.                ।
-। Avoidance of Saṃkara                                    ।
-। Other elements of a Moral Life                          ।
-। Miscellaneous Rules                                     ।
-। Magnification of the Brahmaṇa                           ।
-। Re-iteration of the Condemnation of Sins                ।
-। Rules of Exclusion : the Outcaste                       ।
+|                                                         |
+|---------------------------------------------------------|
+| A. The Seven Pākayajñas                                 |
+| B. Havir-Yajñas                                         |
+| C. Soma-Samsthāḥ                                        |
+| Duty and Occupation                                     |
+| The Pañca-mahāyajñas (Five Sacrifices)                  |
+| Duties of the First Varṇa                               |
+| Brāhmaṇa occupations in times of distress (Āpad-Dharma) |
+| Agriculture.                                            |
+| Trade (vāṇijya)                                         |
+| Cattle rearing (pāśupālyam)                             |
+| Money-lending (kusīdam)                                 |
+| Miscellaneous Occupations in Distress                   |
+| Acceptance of Gifts (Pratigraha)                        |
+| Occupations of Kṣatriya and Vaiśya                      |
+| Duties and occupations of the Śūdra                     |
+| The Sources and the Uses of Wealth                      |
+| The duties of the Snātaka                               |
+| Yama-Niyama                                             |
+| Truth                                                   |
+| Conflict of Yamas : Truth versus Cruelty                |
+| Permissible deviations from Truthfulness                |
+| Avoidance of Theft (A-steyam)                           |
+| Purity (Śaucam)                                         |
+| Brahmacaryam                                            |
+| Niyamāḥ                                                 |
+| Destruction of Family (Kulanāśanam)                     |
+| Where should a householder live?                        |
+| Restraint on Speech (Vācyāvācayam)                      |
+| How the householder should travel (Gamanapraveśana)     |
+| Taboos of the householder                               |
+| What a Gṛhastha should not give a Śūdra.                |
+| Avoidance of Saṃkara                                    |
+| Other elements of a Moral Life                          |
+| Miscellaneous Rules                                     |
+| Magnification of the Brahmaṇa                           |
+| Re-iteration of the Condemnation of Sins                |
+| Rules of Exclusion : the Outcaste                       |
 
 
 
-।                                                 ।
-।-------------------------------------------------।
-। Procedure of Excommunication and Rehabilitation ।
-। Abandonment of Relations                        ।
-। The discharge of the Natal Debt (Ṛṇāpakaraṇam)  ।
-। The Culmination of Gṛhastha Life                ।
-। Epilogue                                        ।
-। Citations in the Introduction                   ।
-। TEXT :                                          ।
-। प्रतिज्ञा                                       ।
-। १. गार्हस्थ्यम्                                 ।
-। विवाह्याविवाह्यकन्यकानिरूपणम्                   ।
-। वरनिरूपणम्                                      ।
-। दारानुकल्पः                                     ।
-। कन्यावरयोः वयःक्रमनिर्णयः                       ।
-। कन्यादातृनिरूपणम्                               ।
-। कन्यास्वयंवरः                                   ।
-। स्त्रीपुरुषसम्बन्धः                             ।
-। २. विवाहभेदाः                                   ।
-। ब्राह्मलक्षणम्                                  ।
-। दैवलक्षणम्                                      ।
-। आर्षलक्षणम्                                    ।
-। प्राजापत्यलक्षणम्                               ।
-। आसुरलक्षणम्                                     ।
-। गान्धर्वलक्षणम्                                 ।
-। राक्षसलक्षणम                                    ।
-। पैशाचलक्षणम्                                    ।
-। विवाहगुणागुणौ                                   ।
-। **३. अधिवेदनम्**                                ।
-। **४.परिवेदनविधिः**                              ।
-। **५. आवसथ्याधानम्**                             ।
-। **६.अग्निहोत्राधानादि**                         ।
-। **७.यजनयाजने**                                  ।
-। **८.ब्राह्मणकर्मधर्मवृत्तयः**                   ।
-। **९. आपद्वृत्तिः**                              ।
-। **१०. कृषिः**                                   ।
+|                                                 |
+|-------------------------------------------------|
+| Procedure of Excommunication and Rehabilitation |
+| Abandonment of Relations                        |
+| The discharge of the Natal Debt (Ṛṇāpakaraṇam)  |
+| The Culmination of Gṛhastha Life                |
+| Epilogue                                        |
+| Citations in the Introduction                   |
+| TEXT :                                          |
+| प्रतिज्ञा                                       |
+| १. गार्हस्थ्यम्                                 |
+| विवाह्याविवाह्यकन्यकानिरूपणम्                   |
+| वरनिरूपणम्                                      |
+| दारानुकल्पः                                     |
+| कन्यावरयोः वयःक्रमनिर्णयः                       |
+| कन्यादातृनिरूपणम्                               |
+| कन्यास्वयंवरः                                   |
+| स्त्रीपुरुषसम्बन्धः                             |
+| २. विवाहभेदाः                                   |
+| ब्राह्मलक्षणम्                                  |
+| दैवलक्षणम्                                      |
+| आर्षलक्षणम्                                    |
+| प्राजापत्यलक्षणम्                               |
+| आसुरलक्षणम्                                     |
+| गान्धर्वलक्षणम्                                 |
+| राक्षसलक्षणम                                    |
+| पैशाचलक्षणम्                                    |
+| विवाहगुणागुणौ                                   |
+| **३. अधिवेदनम्**                                |
+| **४.परिवेदनविधिः**                              |
+| **५. आवसथ्याधानम्**                             |
+| **६.अग्निहोत्राधानादि**                         |
+| **७.यजनयाजने**                                  |
+| **८.ब्राह्मणकर्मधर्मवृत्तयः**                   |
+| **९. आपद्वृत्तिः**                              |
+| **१०. कृषिः**                                   |
 
 
 
-।                                                                           ।
-।---------------------------------------------------------------------------।
-। **११.** **बाणिज्यम्**                                                     ।
-। पाशुपाल्यम्                                                               ।
-। **१२. कुसीदम्**                                                           ।
-। **१३. अन्या आपद्वृत्तयः**                                                 ।
-। प्रतिग्रहविधिः                                                            ।
-। १४. क्षत्रियवैश्यकर्मवृत्तयः                                              ।
-। १५. द्रव्याणां धर्माधर्मस्वत्वानि                                         ।
-। १६. शूद्रधर्मकर्मवृत्तयः                                                  ।
-। १७. स्नातकव्रतानि                                                         ।
-। १८. यमनियमाः                                                              ।
-। १९. स्तेयापवादः                                                           ।
-। २०. शौचम्                                                                 ।
-। २१. ब्रह्मचर्यम्                                                          ।
-। २२. नियमाः                                                                ।
-। २३. कुलनाशकानि                                                            ।
-। २४. निवासः                                                                ।
-। २५. वाच्यावाच्यम्                                                         ।
-। २६. गमनप्रवेशनविधिः                                                       ।
-। २७. अनाक्रमणीयन्यनधिष्ठेयानि                                              ।
-। २८. अवलोकनीयानि                                                           ।
-। २९. शूद्राऽप्रदेयानि                                                      ।
-। ३०. क्रोधादीनां वर्जनम्                                                   ।
-। ३१. परदारादिवर्जनम्                                                       ।
-। ३२. सङ्करवर्जनम्                                                          ।
-। ३३. त्याज्यात्याज्याः                                                     ।
-। ३४. ऋणापाकरणम्                                                            ।
-। Appendix A. Variant Readings of the India Office and Bikanir Manuscripts. ।
-। Appendix B. Index of Smṛti Writers Cited.                                 ।
-। Appendix C. Index of Purāṇas Cited.                                       ।
-। Appendix D. Index of Vedic Works.                                         ।
-। Appendix E. Half-verse Index of Quotations.                               ।
-। Appendix F. Citations of Commentators in the Footnotes                    ।
+|                                                                           |
+|---------------------------------------------------------------------------|
+| **११.** **बाणिज्यम्**                                                     |
+| पाशुपाल्यम्                                                               |
+| **१२. कुसीदम्**                                                           |
+| **१३. अन्या आपद्वृत्तयः**                                                 |
+| प्रतिग्रहविधिः                                                            |
+| १४. क्षत्रियवैश्यकर्मवृत्तयः                                              |
+| १५. द्रव्याणां धर्माधर्मस्वत्वानि                                         |
+| १६. शूद्रधर्मकर्मवृत्तयः                                                  |
+| १७. स्नातकव्रतानि                                                         |
+| १८. यमनियमाः                                                              |
+| १९. स्तेयापवादः                                                           |
+| २०. शौचम्                                                                 |
+| २१. ब्रह्मचर्यम्                                                          |
+| २२. नियमाः                                                                |
+| २३. कुलनाशकानि                                                            |
+| २४. निवासः                                                                |
+| २५. वाच्यावाच्यम्                                                         |
+| २६. गमनप्रवेशनविधिः                                                       |
+| २७. अनाक्रमणीयन्यनधिष्ठेयानि                                              |
+| २८. अवलोकनीयानि                                                           |
+| २९. शूद्राऽप्रदेयानि                                                      |
+| ३०. क्रोधादीनां वर्जनम्                                                   |
+| ३१. परदारादिवर्जनम्                                                       |
+| ३२. सङ्करवर्जनम्                                                          |
+| ३३. त्याज्यात्याज्याः                                                     |
+| ३४. ऋणापाकरणम्                                                            |
+| Appendix A. Variant Readings of the India Office and Bikanir Manuscripts. |
+| Appendix B. Index of Smṛti Writers Cited.                                 |
+| Appendix C. Index of Purāṇas Cited.                                       |
+| Appendix D. Index of Vedic Works.                                         |
+| Appendix E. Half-verse Index of Quotations.                               |
+| Appendix F. Citations of Commentators in the Footnotes                    |
 
 
 

@@ -77,28 +77,28 @@ MYLAPORE, MADRAS.**
 
 **CONTENTS**
 
-।             ।                                ।
-|:-----------:।--------------------------------।
-। **CHAPTER** ।                               ।
-।     1\.     । Preface by the General Editor. ।
-।     2\.     । Introduction by the Editor     ।
-।     3\.     । Harmonisation                  ।
-।     4\.     । Refutation                     ।
-।     5\.     । Means                          ।
-।     6\.     । Realization ( Final Fruit)     ।
-।     7\.     । Index-glossary                 ।
+|             |                                |
+|:-----------:|--------------------------------|
+| **CHAPTER** |                               |
+|     1\.     | Preface by the General Editor. |
+|     2\.     | Introduction by the Editor     |
+|     3\.     | Harmonisation                  |
+|     4\.     | Refutation                     |
+|     5\.     | Means                          |
+|     6\.     | Realization ( Final Fruit)     |
+|     7\.     | Index-glossary                 |
 
 
 **॥विषयाः॥**  
 
 
-।     ।               ।
-।-----|:-------------:।
-।    ।    **नाम**    ।
-। १.  । समन्वयाध्यायः ।
-। २.  । अविरोधाध्यायः ।
-। ३.  ।  साधनाध्यायः  ।
-। ४.  ।   फलाध्यायः   ।
+|     |               |
+|-----|:-------------:|
+|    |    **नाम**    |
+| १.  | समन्वयाध्यायः |
+| २.  | अविरोधाध्यायः |
+| ३.  |  साधनाध्यायः  |
+| ४.  |   फलाध्यायः   |
 
 
 
@@ -2495,176 +2495,176 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 **INDEX—GLOSSARY**
 
-।                   ।                                                                                              ।
-|:-----------------:।:--------------------------------------------------------------------------------------------:।
-।       TERM.       ।                                           MEANING.                                           ।
-।      **अ**       ।                                                                                              ।
-। **अङ्गदेवतोपासन** ।         Worship of Particular gods asattached to specific limbs ofthe supreme Lord         ।
-।     **अत्ता**     ।                                       The supreme Lord                                       ।
-।    **अधिकरण**     ।                                Section of the Vedānta-Sūtras                                 ।
-।  **अन्तर्यामी**   ।                                        Immanent Lord                                         ।
-।    **अध्ययन**     ।                      Study of scripture accordingto orthodox tradition                      ।
-। **अधमानियम्यत्व** ।     State of being controlled by inferiors, to which releasedsouls are *not* subjected      ।
-। **अनुव्याख्यान**  ।                                   *Magnunu opus* of Madhva                                   ।
-।  **अबिम्बोपासन**  । Worship of the Lord contemplated as *other* than the Immanent (*i.e.*, in idols, images etc) ।
-।  **अवसरसङ्गति**   ।                Contextual connection controlled by the criterion ofrelevancy                ।
-। **अविरोधाध्याय**  ।  2nd chapter of the Vedānta Sūtras devoted to refutation of systems opposed to the Vedānta   ।
-।     **असत्**      ।                                   The Void-Fontal Nullity                                    ।
-।  **असुरस्वभाव**   ।                                      Demoniacal Nature                                       ।
-।       **आ**       ।                                                                                              ।
-।  **आनन्दतीर्थ**   ।                                 Founder of Dvaita Philosophy                                 ।
-।   **आश्मरथ्य**    ।                                 A philosophic system-builder                                 ।
-।      **आसन**      ।                                        Yogic posture                                         ।
+|                   |                                                                                              |
+|:-----------------:|:--------------------------------------------------------------------------------------------:|
+|       TERM.       |                                           MEANING.                                           |
+|      **अ**       |                                                                                              |
+| **अङ्गदेवतोपासन** |         Worship of Particular gods asattached to specific limbs ofthe supreme Lord         |
+|     **अत्ता**     |                                       The supreme Lord                                       |
+|    **अधिकरण**     |                                Section of the Vedānta-Sūtras                                 |
+|  **अन्तर्यामी**   |                                        Immanent Lord                                         |
+|    **अध्ययन**     |                      Study of scripture accordingto orthodox tradition                      |
+| **अधमानियम्यत्व** |     State of being controlled by inferiors, to which releasedsouls are *not* subjected      |
+| **अनुव्याख्यान**  |                                   *Magnunu opus* of Madhva                                   |
+|  **अबिम्बोपासन**  | Worship of the Lord contemplated as *other* than the Immanent (*i.e.*, in idols, images etc) |
+|  **अवसरसङ्गति**   |                Contextual connection controlled by the criterion ofrelevancy                |
+| **अविरोधाध्याय**  |  2nd chapter of the Vedānta Sūtras devoted to refutation of systems opposed to the Vedānta   |
+|     **असत्**      |                                   The Void-Fontal Nullity                                    |
+|  **असुरस्वभाव**   |                                      Demoniacal Nature                                       |
+|       **आ**       |                                                                                              |
+|  **आनन्दतीर्थ**   |                                 Founder of Dvaita Philosophy                                 |
+|   **आश्मरथ्य**    |                                 A philosophic system-builder                                 |
+|      **आसन**      |                                        Yogic posture                                         |
 
 
 
 **SŪTRĀRTHĀMṚTA LAHARI**
 
-।                  ।                                                                                     ।
-।:----------------:।:-----------------------------------------------------------------------------------:।
-।      TERM.       ।                                      MEANING.                                       ।
-।      **ई**       ।                                                                                     ।
-।     **ईशान**     ।                             A term that refers to Viṣṇu                             ।
-। **ईश्वरानुग्रह** ।                                  Grace of the Lord                                  ।
-।      **उ**       ।                                                                                     ।
-।  **उत्क्रांति**  ।                          Flight of the self from the body                           ।
-।  **उपासनापाद**   । 3rd quarter of the 3rd chapter of the Vedānta Sūtras devoted to worship of the Lord ।
-।      **औ**       ।                                                                                     ।
-।   **औडुलोभि**    ।                            A philosophic system-builder                             ।
-।      **क**       ।                                                                                     ।
-।   **कक्ष्या**    ।                                    Topical unit                                     ।
-।      **का**      ।                                                                                     ।
-। **कार्ष्णाजिनि** ।                            Ā philosophic system-builder                             ।
-।  **काशकृत्स्न**  ।                                         Do.                                         ।
-।    **कामचार**    ।                                 Free-lance Activity                                 ।
-।     **काल**      ।                          Time (Absolutely Real for Madhva)                          ।
-।      **ग**       ।                                                                                     ।
-।   **गर्भवास**    ।                               Intra-uterine existence                               ।
-।  **गुणोपसंहार**  ।     Lontemplation of the Āttributes of the Lord as devotionally focussed on Him     ।
-।    **गोप्य**     ।                                       Secret                                        ।
-।      **गु**      ।                                                                                     ।
-।     **गुरु**     ।                Spiritual preceptor whose place is supreme in Vedānta                ।
-।      **च**       ।                                                                                     ।
-।   **चतुर्मुख**   ।       Four-faced Brahmā through-whom alone the supreme Lord has to be reached       ।
+|                  |                                                                                     |
+|:----------------:|:-----------------------------------------------------------------------------------:|
+|      TERM.       |                                      MEANING.                                       |
+|      **ई**       |                                                                                     |
+|     **ईशान**     |                             A term that refers to Viṣṇu                             |
+| **ईश्वरानुग्रह** |                                  Grace of the Lord                                  |
+|      **उ**       |                                                                                     |
+|  **उत्क्रांति**  |                          Flight of the self from the body                           |
+|  **उपासनापाद**   | 3rd quarter of the 3rd chapter of the Vedānta Sūtras devoted to worship of the Lord |
+|      **औ**       |                                                                                     |
+|   **औडुलोभि**    |                            A philosophic system-builder                             |
+|      **क**       |                                                                                     |
+|   **कक्ष्या**    |                                    Topical unit                                     |
+|      **का**      |                                                                                     |
+| **कार्ष्णाजिनि** |                            Ā philosophic system-builder                             |
+|  **काशकृत्स्न**  |                                         Do.                                         |
+|    **कामचार**    |                                 Free-lance Activity                                 |
+|     **काल**      |                          Time (Absolutely Real for Madhva)                          |
+|      **ग**       |                                                                                     |
+|   **गर्भवास**    |                               Intra-uterine existence                               |
+|  **गुणोपसंहार**  |     Lontemplation of the Āttributes of the Lord as devotionally focussed on Him     |
+|    **गोप्य**     |                                       Secret                                        |
+|      **गु**      |                                                                                     |
+|     **गुरु**     |                Spiritual preceptor whose place is supreme in Vedānta                |
+|      **च**       |                                                                                     |
+|   **चतुर्मुख**   |       Four-faced Brahmā through-whom alone the supreme Lord has to be reached       |
 
 
 
 **INDEX—GLOSSARY**
 
-।                    ।                                                                                                ।
-।:------------------:।:----------------------------------------------------------------------------------------------:।
-।     **TERM.**      ।                                          **MEANING.**                                          ।
-।       **ज**        ।                                                                                                ।
-।  **जगद्व्यापार**   ।            Creation of the universe (Notwithin competence even of released souls)             ।
-।  **जन्माद्यष्ट**   ।                            Eight determinations like creation-etc.                             ।
-।       **जी**       ।                                                                                                ।
-।   **जीवाणुत्व**    ।                                     Atomicity of the Soul                                      ।
-।    **जीवेशभेद**    ।    Difference between the finite self and the Lord**—**the main philosophic plank of Madhva    ।
-।       **जै**       ।                                                                                                ।
-।     **जैमिनि**     ।                            Founder of the system ofpūrva. Mīmāmsā                             ।
-।       **द**        ।                                                                                                ।
-।      **दहर**       । Innermost chamber of heart, the Lord immanent in which is to be meditated on by Yogic practice ।
-।       **दे**       ।                                                                                                ।
-।     **देवलय**      ।                        Absorption of lower deities into the higher ones                        ।
-।       **न**        ।                                                                                                ।
-।      **नरक**       ।                                              Hell                                              ।
-।       **पा**       ।                                                                                                ।
-।  **पारतन्त्र्य**   ।                                           Dependence                                           ।
-।       **पु**       ।                                                                                                ।
-।  **पुरुषाश्मवत्**  ।                                 Analogy of man lifting stone.                                  ।
-।       **पू**       ।                                                                                                ।
-।  **पूर्णप्रज्ञ**   ।                                    Another name of Madhva.                                     ।
-।       **पृ**       ।                                                                                                ।
-। **"पृथगुपदेशात्"** ।            This apothegm proves difference between the finite and the Supreme Lord.            ।
+|                    |                                                                                                |
+|:------------------:|:----------------------------------------------------------------------------------------------:|
+|     **TERM.**      |                                          **MEANING.**                                          |
+|       **ज**        |                                                                                                |
+|  **जगद्व्यापार**   |            Creation of the universe (Notwithin competence even of released souls)             |
+|  **जन्माद्यष्ट**   |                            Eight determinations like creation-etc.                             |
+|       **जी**       |                                                                                                |
+|   **जीवाणुत्व**    |                                     Atomicity of the Soul                                      |
+|    **जीवेशभेद**    |    Difference between the finite self and the Lord**—**the main philosophic plank of Madhva    |
+|       **जै**       |                                                                                                |
+|     **जैमिनि**     |                            Founder of the system ofpūrva. Mīmāmsā                             |
+|       **द**        |                                                                                                |
+|      **दहर**       | Innermost chamber of heart, the Lord immanent in which is to be meditated on by Yogic practice |
+|       **दे**       |                                                                                                |
+|     **देवलय**      |                        Absorption of lower deities into the higher ones                        |
+|       **न**        |                                                                                                |
+|      **नरक**       |                                              Hell                                              |
+|       **पा**       |                                                                                                |
+|  **पारतन्त्र्य**   |                                           Dependence                                           |
+|       **पु**       |                                                                                                |
+|  **पुरुषाश्मवत्**  |                                 Analogy of man lifting stone.                                  |
+|       **पू**       |                                                                                                |
+|  **पूर्णप्रज्ञ**   |                                    Another name of Madhva.                                     |
+|       **पृ**       |                                                                                                |
+| **"पृथगुपदेशात्"** |            This apothegm proves difference between the finite and the Supreme Lord.            |
 
 
 
 **SŪTṚĀRTHĀMṚTA LAHARĪ**
 
-।                    ।                                                                                          ।
-।:------------------:।:----------------------------------------------------------------------------------------:।
-।       TERM.        ।                                         MEANING.                                         ।
-।      **प्र**       ।                                                                                          ।
-।   **प्रतिबिम्ब**   ।                                   Image or Reflection.                                   ।
-।      **प्रा**      ।                                                                                          ।
-।  **प्राण संख्या**  ।                                    Number of breaths.                                    ।
-।   **प्राणात्यय**   ।                                     Danger to life.                                      ।
-।       **बा**       ।                                                                                          ।
-।    **बादरायण**     ।                                Author of Vedānta-Sūtras.                                 ।
-।     **बादरि**      ।                                    A system-builder.                                     ।
-।      **ब्र**       ।                                                                                          ।
-। **ब्रह्मजिज्ञासा** ।                             Inquiry into nature of Brahman.                              ।
-।       **भ**        ।                                                                                          ।
-।     **भक्ति**      ।                                        Devotion.                                         ।
-।    **भक्तिपाद**    ।          2nd quarter of the 3rd chapter of Vedānta-Sūtras, devoted to Devotion.          ।
-।   **भगवदपरोक्ष**   ।                       Coming face to face with God in realization.                       ।
-।       **भे**       ।                                                                                          ।
-।      **भेद**       ।                  Difference**—**The basic category of the Dvaita-system                  ।
-।       **भो**       ।                                                                                          ।
-।     **भोगपाद**     । 4th quarter of the 4th chapterof Vedānta-Sūtras devotedto Enjoyment of ReleasedSouls. ।
-।       **मु**       ।                                                                                          ।
-।   **मुक्तोपासन**   ।                        Worship engaged in even byreleased Souls.                        ।
-।       **मु**       ।                                                                                          ।
-।   **मुख्यप्राण**   ।                         Main or chief Life-breath(Son of God).                          ।
+|                    |                                                                                          |
+|:------------------:|:----------------------------------------------------------------------------------------:|
+|       TERM.        |                                         MEANING.                                         |
+|      **प्र**       |                                                                                          |
+|   **प्रतिबिम्ब**   |                                   Image or Reflection.                                   |
+|      **प्रा**      |                                                                                          |
+|  **प्राण संख्या**  |                                    Number of breaths.                                    |
+|   **प्राणात्यय**   |                                     Danger to life.                                      |
+|       **बा**       |                                                                                          |
+|    **बादरायण**     |                                Author of Vedānta-Sūtras.                                 |
+|     **बादरि**      |                                    A system-builder.                                     |
+|      **ब्र**       |                                                                                          |
+| **ब्रह्मजिज्ञासा** |                             Inquiry into nature of Brahman.                              |
+|       **भ**        |                                                                                          |
+|     **भक्ति**      |                                        Devotion.                                         |
+|    **भक्तिपाद**    |          2nd quarter of the 3rd chapter of Vedānta-Sūtras, devoted to Devotion.          |
+|   **भगवदपरोक्ष**   |                       Coming face to face with God in realization.                       |
+|       **भे**       |                                                                                          |
+|      **भेद**       |                  Difference**—**The basic category of the Dvaita-system                  |
+|       **भो**       |                                                                                          |
+|     **भोगपाद**     | 4th quarter of the 4th chapterof Vedānta-Sūtras devotedto Enjoyment of ReleasedSouls. |
+|       **मु**       |                                                                                          |
+|   **मुक्तोपासन**   |                        Worship engaged in even byreleased Souls.                        |
+|       **मु**       |                                                                                          |
+|   **मुख्यप्राण**   |                         Main or chief Life-breath(Son of God).                          |
 
 
 
 **INDEX-GLOSSARY**
 
-।                   ।                                                                            ।
-।:-----------------:।:--------------------------------------------------------------------------:।
-।       TERM.       ।                                  MEANING.                                  ।
-।      **मा**       ।                                                                            ।
-।   **मार्गपाद**    । 3rd quarter of the 4th chapterof the Vedānta-Sūtras devoted to the *WAY.* ।
-।      **मो**       ।                                                                            ।
-।     **मोक्ष**     ।                                 Salvation.                                 ।
-।      **यो**       ।                                                                            ।
-।      **योग**      ।     Patañjali's System of phycho-physical discipline and mindcontrol.      ।
-।       **ल**       ।                                                                            ।
-।    **लक्ष्मी**    ।                 Lord's Consort who presidesover Prakṛti.                  ।
-।      **ली**       ।                                                                            ।
-।     **लीला**      ।                        Creation is the Lord's play.                        ।
-।      **वृ**       ।                                                                            ।
-।  **वृत्तिज्ञान**  ।         Sense-knowledge, it has a peculiar connotation in Advaita.         ।
-।      **वै**       ।                                                                            ।
-। **वैशेषिकाधिकरण** ।             Section devoted to refutationof Vaiśeṣika-system.             ।
-।    **वैषम्य**     ।                         Partiality or Favouritism.                         ।
-।       **श**       ।                                                                            ।
-।    **शक्तिमत**    ।          A School that derives theuniverse from force of energy.          ।
-।  **शरीरोपादान**   ।               Material causes of body (thenervous System).                ।
-।      **शू**       ।                                                                            ।
-।    **शून्यमत**    ।                                 Nihilism.                                  ।
-।     **श्री**      ।                                                                            ।
-।  **श्रीतत्त्व**   ।                         Mahālakṣmī (category of ).                         ।
-।     **श्रु**      ।                                                                            ।
-।    **श्रुति**     ।                                 Scripture.                                 ।
+|                   |                                                                            |
+|:-----------------:|:--------------------------------------------------------------------------:|
+|       TERM.       |                                  MEANING.                                  |
+|      **मा**       |                                                                            |
+|   **मार्गपाद**    | 3rd quarter of the 4th chapterof the Vedānta-Sūtras devoted to the *WAY.* |
+|      **मो**       |                                                                            |
+|     **मोक्ष**     |                                 Salvation.                                 |
+|      **यो**       |                                                                            |
+|      **योग**      |     Patañjali's System of phycho-physical discipline and mindcontrol.      |
+|       **ल**       |                                                                            |
+|    **लक्ष्मी**    |                 Lord's Consort who presidesover Prakṛti.                  |
+|      **ली**       |                                                                            |
+|     **लीला**      |                        Creation is the Lord's play.                        |
+|      **वृ**       |                                                                            |
+|  **वृत्तिज्ञान**  |         Sense-knowledge, it has a peculiar connotation in Advaita.         |
+|      **वै**       |                                                                            |
+| **वैशेषिकाधिकरण** |             Section devoted to refutationof Vaiśeṣika-system.             |
+|    **वैषम्य**     |                         Partiality or Favouritism.                         |
+|       **श**       |                                                                            |
+|    **शक्तिमत**    |          A School that derives theuniverse from force of energy.          |
+|  **शरीरोपादान**   |               Material causes of body (thenervous System).                |
+|      **शू**       |                                                                            |
+|    **शून्यमत**    |                                 Nihilism.                                  |
+|     **श्री**      |                                                                            |
+|  **श्रीतत्त्व**   |                         Mahālakṣmī (category of ).                         |
+|     **श्रु**      |                                                                            |
+|    **श्रुति**     |                                 Scripture.                                 |
 
 
 
 **RŪTRARTHĀMṚTA LAHARĪ**
 
-।                       ।                                                                                                      ।
-।:---------------------:।:----------------------------------------------------------------------------------------------------:।
-।         TERM.         ।                                               MEANING.                                               ।
-।         **स**         ।                                                                                                      ।
-।   **समन्वयाध्याय**   ।  Chapter devoted to harmonisation of terms on the Supreme Lord (1st chapter ofthe Vedānta-Sūtras).  ।
-।   **समाकर्षाधिकरण**   ।               Section on Indirect harmonisation (Not included in Vijayīndra's count).                ।
-। **सर्वावस्थाप्रेरक**  ।                 The Lord who energises allthe States—waking-sleepingand dreaming.                  ।
-।        **सा**         ।                                                                                                      ।
-।    **साधनाध्याय**     ।           3rd chapter of the Vedānta-Sūtras devoted to discussionof means of realization.           ।
-।        **सु**         ।                                                                                                      ।
-।     **सुषुप्ति**      ।                                           State of Sleep.                                            ।
-।        **सं**         ।                                                                                                      ।
-।      **संभृति**       ।              A Special Attribute of theLord beyond meditationalreach of the ordinary.              ।
-। **संहारविषयश्रुति**  ।                         Scriptural text in which destruction is referred to.                         ।
-।        **स्व**        ।                                                                                                      ।
-। **स्वतन्त्रकर्तृत्व** ।                  Independent Doership orAgentship, Attribute of the Supreme Lord.                   ।
-।       **स्वा**        ।                                                                                                      ।
-।   **स्वातन्त्र्य**    ।                             Independence, Attribute of the Supreme Lord.                             ।
-।        **क्ष**        ।                                                                                                      ।
-।   **क्षपणकाधिकरण**   ।                               Section devoted to refutationof Jainism.                               ।
-।       **ज्ञा**        ।                                                                                                      ।
-।     **ज्ञानपाद**      । 4th quarter of the 3rd chapterof Vedānta-Sūtras devotedto exposition of the Natureof Realization. ।
+|                       |                                                                                                      |
+|:---------------------:|:----------------------------------------------------------------------------------------------------:|
+|         TERM.         |                                               MEANING.                                               |
+|         **स**         |                                                                                                      |
+|   **समन्वयाध्याय**   |  Chapter devoted to harmonisation of terms on the Supreme Lord (1st chapter ofthe Vedānta-Sūtras).  |
+|   **समाकर्षाधिकरण**   |               Section on Indirect harmonisation (Not included in Vijayīndra's count).                |
+| **सर्वावस्थाप्रेरक**  |                 The Lord who energises allthe States—waking-sleepingand dreaming.                  |
+|        **सा**         |                                                                                                      |
+|    **साधनाध्याय**     |           3rd chapter of the Vedānta-Sūtras devoted to discussionof means of realization.           |
+|        **सु**         |                                                                                                      |
+|     **सुषुप्ति**      |                                           State of Sleep.                                            |
+|        **सं**         |                                                                                                      |
+|      **संभृति**       |              A Special Attribute of theLord beyond meditationalreach of the ordinary.              |
+| **संहारविषयश्रुति**  |                         Scriptural text in which destruction is referred to.                         |
+|        **स्व**        |                                                                                                      |
+| **स्वतन्त्रकर्तृत्व** |                  Independent Doership orAgentship, Attribute of the Supreme Lord.                   |
+|       **स्वा**        |                                                                                                      |
+|   **स्वातन्त्र्य**    |                             Independence, Attribute of the Supreme Lord.                             |
+|        **क्ष**        |                                                                                                      |
+|   **क्षपणकाधिकरण**   |                               Section devoted to refutationof Jainism.                               |
+|       **ज्ञा**        |                                                                                                      |
+|     **ज्ञानपाद**      | 4th quarter of the 3rd chapterof Vedānta-Sūtras devotedto exposition of the Natureof Realization. |
 
 
 

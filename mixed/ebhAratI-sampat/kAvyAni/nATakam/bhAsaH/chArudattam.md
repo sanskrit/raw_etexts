@@ -33,15 +33,15 @@ title = "चारुदत्तम्"
 
 TABLE OF CONTENTS
 
-।                    ।
-।--------------------।
-। PREFACE            ।
-। DRAMATIS PERSONA   ।
-। INTRODUCTION       ।
-। TEXT OF CĀRUDATTAM ।
-। INDEX OF VERSES    ।
-। TRANSLATION        ।
-। NOTES              ।
+|                    |
+|--------------------|
+| PREFACE            |
+| DRAMATIS PERSONA   |
+| INTRODUCTION       |
+| TEXT OF CĀRUDATTAM |
+| INDEX OF VERSES    |
+| TRANSLATION        |
+| NOTES              |
 
 
 
@@ -82,26 +82,26 @@ C.R. DEVADHAR
 
 
 
-।                                                                             ।                ।                                                 ।
-|:---------------------------------------------------------------------------:|:--------------:|:-----------------------------------------------:।
-।                              DRAMATIS PERSONE                               ।                ।                                                 ।
-।                                  Male : -                                   ।                ।                                                 ।
-।                                     1\.                                     ।     Nāyaka     ।                   Cārudatta.                    ।
-।                                     2\.                                     ।    Vidūṣaka    ।          Maitreya, friend to Cārudatta          ।
-।                                     3\.                                     ।     Sakāra     । ..Saṃsthāna, a brother-in-law with of the king. ।
-।                                     4\.                                     ।      Viṭa      ।      The parasitical companion of Sakāra.       ।
-।                                     5\.                                     ।   Saṃvāhaka    ।                  a Shampooer.                   ।
-।                                     6\.                                     ।     Cheṭa      ।            a servant to Vasantasenā.            ।
-।                                     7\.                                     ।   Sajjalaka    ।              ..Lover of Madanikā.               ।
-।                                     8\.                                     ।  Vardhamānaka  ।       ... a Servant in Cãrudatta's house.       ।
-।                                 Female : -                                  ।                ।                                                 ।
-।                                     1\.                                     ।     Ganikā     ।           The Courtesan Vasantasenā.            ।
-।                                     2\.                                     ।    Brāhmaṇī    ।               Wife of Cārudatta.                ।
-।                                     3\.                                     ।    Radanikā    ।          A maid-servant of Cārudatta.           ।
-।                                     4\.                                     ।    Madanikā    ।  A maid-servant and confidante of Vasantasenā.  ।
-।                                     5\.                                     । Vicchittikā... ।          Maids in Vasantasenā's house.          ।
-।                                     6\.                                     ।    Caturikā    ।          Maids in Vasantasenā's house.          ।
-। Besides these, there are the usual stage-manager and his wife, the actress. ।                ।                                                 ।
+|                                                                             |                |                                                 |
+|:---------------------------------------------------------------------------:|:--------------:|:-----------------------------------------------:|
+|                              DRAMATIS PERSONE                               |                |                                                 |
+|                                  Male : -                                   |                |                                                 |
+|                                     1\.                                     |     Nāyaka     |                   Cārudatta.                    |
+|                                     2\.                                     |    Vidūṣaka    |          Maitreya, friend to Cārudatta          |
+|                                     3\.                                     |     Sakāra     | ..Saṃsthāna, a brother-in-law with of the king. |
+|                                     4\.                                     |      Viṭa      |      The parasitical companion of Sakāra.       |
+|                                     5\.                                     |   Saṃvāhaka    |                  a Shampooer.                   |
+|                                     6\.                                     |     Cheṭa      |            a servant to Vasantasenā.            |
+|                                     7\.                                     |   Sajjalaka    |              ..Lover of Madanikā.               |
+|                                     8\.                                     |  Vardhamānaka  |       ... a Servant in Cãrudatta's house.       |
+|                                 Female : -                                  |                |                                                 |
+|                                     1\.                                     |     Ganikā     |           The Courtesan Vasantasenā.            |
+|                                     2\.                                     |    Brāhmaṇī    |               Wife of Cārudatta.                |
+|                                     3\.                                     |    Radanikā    |          A maid-servant of Cārudatta.           |
+|                                     4\.                                     |    Madanikā    |  A maid-servant and confidante of Vasantasenā.  |
+|                                     5\.                                     | Vicchittikā... |          Maids in Vasantasenā's house.          |
+|                                     6\.                                     |    Caturikā    |          Maids in Vasantasenā's house.          |
+| Besides these, there are the usual stage-manager and his wife, the actress. |                |                                                 |
 
 
 
@@ -184,17 +184,17 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 **Errata**
 
-।               ।              ।
-|:-------------:|:------------:।
-।   Incorect    ।   Correct    ।
-।     अहणिअ     ।    अहणिअ     ।
-।   अदिमत्तं    ।   अदिमत्तं   ।
-। ०प्पहुदिण अण० ।  पहुदि णअण०  ।
-।  वशश्वशेणिआ   ।  वशञ्चशेणिआ  ।
-। तवादविज्ञात०  । तावदविज्ञात० ।
-।    ०तमार्य    ।   ०तमार्य    ।
-। ०दृश्ययवस्था० । ०दृश्यवस्था० ।
-।     देदुं     ।     देदु     ।
+|               |              |
+|:-------------:|:------------:|
+|   Incorect    |   Correct    |
+|     अहणिअ     |    अहणिअ     |
+|   अदिमत्तं    |   अदिमत्तं   |
+| ०प्पहुदिण अण० |  पहुदि णअण०  |
+|  वशश्वशेणिआ   |  वशञ्चशेणिआ  |
+| तवादविज्ञात०  | तावदविज्ञात० |
+|    ०तमार्य    |   ०तमार्य    |
+| ०दृश्ययवस्था० | ०दृश्यवस्था० |
+|     देदुं     |     देदु     |
 
 
 

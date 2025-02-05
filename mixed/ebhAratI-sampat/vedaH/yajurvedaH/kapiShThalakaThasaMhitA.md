@@ -294,201 +294,201 @@ OF
 KAP. AND KĀṬH.  
 SAṂHITĀS.**
 
-।                                             ।     ।                                                                                                  ।
-|:-------------------------------------------:|:---:|:------------------------------------------------------------------------------------------------:।
-।                    KapS.                    ।     ।                                              KāṭhS.                                              ।
-।                    1-12                     ।     ।                                      Sthānaka I, sec. 1-12                                       ।
-।                    13-16                    ।     ।                                        Sth. II, sec. 1-4                                         ।
-। Kap. I, 15 ends with ūrdhvo mā pāhy odṛcaḥ. ।     ।                                                                                                  ।
-।                    17-18                    ।     ।                                                5                                                 ।
-।                     19                      ।     ।                                                6                                                 ।
-।                      1                      ।     ।                                                7                                                 ।
-।                      2                      ।     ।                          8 upto namodive namaḥ pṛthivyai p. 14, 1. 3.                           ।
-।                      3                      ।     । 8, (beginning with yā te agne p.14, 1. 3) and ending with yajñaḥ pratyaṣṭhat p. 15, 1. 3 in sec- ।
+|                                             |     |                                                                                                  |
+|:-------------------------------------------:|:---:|:------------------------------------------------------------------------------------------------:|
+|                    KapS.                    |     |                                              KāṭhS.                                              |
+|                    1-12                     |     |                                      Sthānaka I, sec. 1-12                                       |
+|                    13-16                    |     |                                        Sth. II, sec. 1-4                                         |
+| Kap. I, 15 ends with ūrdhvo mā pāhy odṛcaḥ. |     |                                                                                                  |
+|                    17-18                    |     |                                                5                                                 |
+|                     19                      |     |                                                6                                                 |
+|                      1                      |     |                                                7                                                 |
+|                      2                      |     |                          8 upto namodive namaḥ pṛthivyai p. 14, 1. 3.                           |
+|                      3                      |     | 8, (beginning with yā te agne p.14, 1. 3) and ending with yajñaḥ pratyaṣṭhat p. 15, 1. 3 in sec- |
 
 
 
-।                                                                                                                                                ।     ।                                             ।                  ।
-।------------------------------------------------------------------------------------------------------------------------------------------------।-----।---------------------------------------------।------------------।
-। 4-7                                                                                                                                            ।     । 10-13                                       ।                  ।
-। Kāṭh. II, 14-15 (yājyānuvākyās) is not given in Kap.                                                                                           ।     ।                                             ।                  ।
-। 8-17                                                                                                                                           ।     । Sth. III, sec. 1-10                         ।                  ।
-। Adh. III, sec.                                                                                                                                 ।     ।                                             ।                  ।
-। 1-2                                                                                                                                            ।     । Sth. IV, sec. 1-2                           ।                  ।
-। 3                                                                                                                                              ।     । 3-4                                         ।                  ।
-। 4                                                                                                                                              ।     । 5-6                                         ।                  ।
-। 5                                                                                                                                              ।     । 5-7                                         ।                  ।
-। 6-11                                                                                                                                           ।     । 8-13                                        ।                  ।
-। Kāth. IV, 14-16 (15-16 being yājyānuvākyās) is not given in Kap.Kāṭh. sthānaka V and the corresponding Brāhmaṇa XXXII, 1-6 are omitted in Kap. ।     ।                                             ।                  ।
-। 12                                                                                                                                             ।     । Sth. VI, sec. 1                             ।                  ।
-। Adh. IV, sec,                                                                                                                                  ।     ।                                             ।                  ।
-। 1-8                                                                                                                                            ।     । 2-9                                         ।                  ।
-। Kāth VI, 10-11 (yājyānuvākyās) is not given in Kap.                                                                                            ।     ।                                             ।                  ।
-। Adh. V, sec.                                                                                                                                   ।     ।                                             ।                  ।
-। 1                                                                                                                                              ।     ।                                             । Sth. VII, sec. 1 ।
-। 2                                                                                                                                              ।     । 2-3                                         ।                  ।
-। 3-4                                                                                                                                            ।     । 4-5                                         ।                  ।
-। 5, a fragment                                                                                                                                  ।     । 6, upto śreyān chreyān ātmanā p. 68, 1. 13. ।                  ।
-। Kap. V, 6-7 is entirely lost, as well as the major part of V, 8, which is resumed with prajām evānusantanoti (Kāth. p. 71, 11. 7-8).           ।     ।                                             ।                  ।
-। 8, a fragment          9                                                                                                             ।     ।                                             ।                  ।
-। 9                                                                                                                                              ।     । 10                                          ।                  ।
-। Kap. ms. marks the eighth and ninth sections as 5 and 6.                                                                                       ।     ।                                             ।                  ।
-। Adh. VI, sec.                                                                                                                                  ।     ।                                             ।                  ।
-। 1                                                                                                                                              ।     । 11                                          ।                  ।
-। 2                                                                                                                                              ।     । 12-13                                       ।                  ।
-। 3                                                                                                                                              ।     । 13-14                                       ।                  ।
+|                                                                                                                                                |     |                                             |                  |
+|------------------------------------------------------------------------------------------------------------------------------------------------|-----|---------------------------------------------|------------------|
+| 4-7                                                                                                                                            |     | 10-13                                       |                  |
+| Kāṭh. II, 14-15 (yājyānuvākyās) is not given in Kap.                                                                                           |     |                                             |                  |
+| 8-17                                                                                                                                           |     | Sth. III, sec. 1-10                         |                  |
+| Adh. III, sec.                                                                                                                                 |     |                                             |                  |
+| 1-2                                                                                                                                            |     | Sth. IV, sec. 1-2                           |                  |
+| 3                                                                                                                                              |     | 3-4                                         |                  |
+| 4                                                                                                                                              |     | 5-6                                         |                  |
+| 5                                                                                                                                              |     | 5-7                                         |                  |
+| 6-11                                                                                                                                           |     | 8-13                                        |                  |
+| Kāth. IV, 14-16 (15-16 being yājyānuvākyās) is not given in Kap.Kāṭh. sthānaka V and the corresponding Brāhmaṇa XXXII, 1-6 are omitted in Kap. |     |                                             |                  |
+| 12                                                                                                                                             |     | Sth. VI, sec. 1                             |                  |
+| Adh. IV, sec,                                                                                                                                  |     |                                             |                  |
+| 1-8                                                                                                                                            |     | 2-9                                         |                  |
+| Kāth VI, 10-11 (yājyānuvākyās) is not given in Kap.                                                                                            |     |                                             |                  |
+| Adh. V, sec.                                                                                                                                   |     |                                             |                  |
+| 1                                                                                                                                              |     |                                             | Sth. VII, sec. 1 |
+| 2                                                                                                                                              |     | 2-3                                         |                  |
+| 3-4                                                                                                                                            |     | 4-5                                         |                  |
+| 5, a fragment                                                                                                                                  |     | 6, upto śreyān chreyān ātmanā p. 68, 1. 13. |                  |
+| Kap. V, 6-7 is entirely lost, as well as the major part of V, 8, which is resumed with prajām evānusantanoti (Kāth. p. 71, 11. 7-8).           |     |                                             |                  |
+| 8, a fragment          9                                                                                                             |     |                                             |                  |
+| 9                                                                                                                                              |     | 10                                          |                  |
+| Kap. ms. marks the eighth and ninth sections as 5 and 6.                                                                                       |     |                                             |                  |
+| Adh. VI, sec.                                                                                                                                  |     |                                             |                  |
+| 1                                                                                                                                              |     | 11                                          |                  |
+| 2                                                                                                                                              |     | 12-13                                       |                  |
+| 3                                                                                                                                              |     | 13-14                                       |                  |
 
 
 
-।                                                                                                                    ।     ।                                                         ।
-।--------------------------------------------------------------------------------------------------------------------।-----।---------------------------------------------------------।
-। 4                                                                                                                  ।     । 13-14                                                   ।
-। In these four sections the Kap. text is very different from the Kāṭh., both in its wording and in its arrangement. ।     ।                                                         ।
-। 5                                                                                                                  ।     । 15                                                      ।
-। Kāṭh. VII, 16-17 (yājyānuvākyās) is not. given in Kap.                                                             ।     ।                                                         ।
-। Adh. VII, sec                                                                                                      ।     ।                                                         ।
-। 6-9                                                                                                                ।     । Sth. VIII, sec. 1-4                                     ।
-। 1                                                                                                                  ।     । 5                                                       ।
-। 2                                                                                                                  ।     । 6\. 8, first ten lines upto yajňamukhaṃ nātikrāmati.    ।
-। 3                                                                                                                  ।     । 8, beginning with trīņi havīm- şi bhavanti p. 91, 1.15. ।
-। 4                                                                                                                  ।     । 7                                                       ।
-। 5-6                                                                                                                ।     । 9-10                                                    ।
-। 7                                                                                                                  ।     । 12                                                      ।
-। 8                                                                                                                  ।     । 11                                                      ।
-। Adh. VIII, sec.                                                                                                    ।     ।                                                         ।
-। 1-3                                                                                                                ।     । 13-15                                                   ।
-। Kāṭh. VIII, 16-17 (yājyānuvākyās) is not given in Kap.                                                             ।     ।                                                         ।
-। 4-8                                                                                                                ।     । Sth. IX, sec. 1-5                                       ।
-। 9                                                                                                                  ।     । 6, upto jīvaṃ vrātaṃ sacemahi p. 109, 1. 15.            ।
-। 10                                                                                                                 ।     । 6 (last one verse). 7                                   ।
-। 11-12                                                                                                              ।     । 8-9                                                     ।
-। The Kap. ms. marks the last four sections as the 10th, 11th, 12th and 13th sections respectively.                  ।     ।                                                         ।
-। The second and third aṣṭakas of Kap. are entirely lost.                                                            ।     ।                                                         ।
-। Adh. XXV,sec.                                                                                                      ।     ।                                                         ।
-। 1-3                                                                                                                ।     । Sth. XVI, sec                                           ।
+|                                                                                                                    |     |                                                         |
+|--------------------------------------------------------------------------------------------------------------------|-----|---------------------------------------------------------|
+| 4                                                                                                                  |     | 13-14                                                   |
+| In these four sections the Kap. text is very different from the Kāṭh., both in its wording and in its arrangement. |     |                                                         |
+| 5                                                                                                                  |     | 15                                                      |
+| Kāṭh. VII, 16-17 (yājyānuvākyās) is not. given in Kap.                                                             |     |                                                         |
+| Adh. VII, sec                                                                                                      |     |                                                         |
+| 6-9                                                                                                                |     | Sth. VIII, sec. 1-4                                     |
+| 1                                                                                                                  |     | 5                                                       |
+| 2                                                                                                                  |     | 6\. 8, first ten lines upto yajňamukhaṃ nātikrāmati.    |
+| 3                                                                                                                  |     | 8, beginning with trīņi havīm- şi bhavanti p. 91, 1.15. |
+| 4                                                                                                                  |     | 7                                                       |
+| 5-6                                                                                                                |     | 9-10                                                    |
+| 7                                                                                                                  |     | 12                                                      |
+| 8                                                                                                                  |     | 11                                                      |
+| Adh. VIII, sec.                                                                                                    |     |                                                         |
+| 1-3                                                                                                                |     | 13-15                                                   |
+| Kāṭh. VIII, 16-17 (yājyānuvākyās) is not given in Kap.                                                             |     |                                                         |
+| 4-8                                                                                                                |     | Sth. IX, sec. 1-5                                       |
+| 9                                                                                                                  |     | 6, upto jīvaṃ vrātaṃ sacemahi p. 109, 1. 15.            |
+| 10                                                                                                                 |     | 6 (last one verse). 7                                   |
+| 11-12                                                                                                              |     | 8-9                                                     |
+| The Kap. ms. marks the last four sections as the 10th, 11th, 12th and 13th sections respectively.                  |     |                                                         |
+| The second and third aṣṭakas of Kap. are entirely lost.                                                            |     |                                                         |
+| Adh. XXV,sec.                                                                                                      |     |                                                         |
+| 1-3                                                                                                                |     | Sth. XVI, sec                                           |
 
 
 
-।                                                                                                                                                                                                   ।     ।                                               ।
-।---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।-----।-----------------------------------------------।
-। 4                                                                                                                                                                                                 ।     । 13, upto na sa riṣyāti pūruṣaḥ p. 236, 1. 14. ।
-। 5                                                                                                                                                                                                 ।     । 14                                            ।
-। The end of the fifth section is not marked in Kap. ms., though from the numbering of the following sections it is quite certain that it must have ended with the fourteenth section of the KāṭhS. ।     ।                                               ।
-। 6, a fragment                                                                                                                                                                                     ।     । 15, uptoayam agniḥ p. 239, 1. 6.             ।
-। Kap. XXV, 7 is lost. 8, a fragment                                                                                                                                                                ।     । 17, beginning with yo agnir p. 240, 1. 18.    ।
-। 9                                                                                                                                                                                                 ।     । 18-19                                         ।
-। Kāṭh. XVI, 20-21 (yājyānuvākyās) is omitted in Kap.                                                                                                                                               ।     ।                                               ।
-। 10                                                                                                                                                                                                ।     । Sth. XVII, sec. 1                             ।
-। Adh. XXVI, sec.                                                                                                                                                                                   ।     ।                                               ।
-। 1-9                                                                                                                                                                                               ।     । 2-10                                          ।
-। Adh. XXVII, sec.                                                                                                                                                                                  ।     ।                                               ।
-। 1-6                                                                                                                                                                                               ।     । 11-16                                         ।
-। Adh. XXVIII, sec                                                                                                                                                                                  ।     ।                                               ।
-। 1                                                                                                                                                                                                 ।     । 17                                            ।
-। Kāṭh. XVII, 18-19 (yājyānuvākyās) is omitted in Kap.                                                                                                                                              ।     ।                                               ।
-। 2                                                                                                                                                                                                 ।     । Sth. XVIII, sec. 1-2                          ।
-। 3-11                                                                                                                                                                                              ।     । 3-11                                          ।
-। Adh. XXIX, sec.                                                                                                                                                                                   ।     ।                                               ।
-। 1                                                                                                                                                                                                 ।     । 12                                            ।
-। 2                                                                                                                                                                                                 ।     । 13                                            ।
-। 3                                                                                                                                                                                                 ।     । 14                                            ।
-। 4                                                                                                                                                                                                 ।     । 15-16                                         ।
-। 5-7                                                                                                                                                                                               ।     । 17-19                                         ।
-। Kāṭh. XVIII, 20-21 (yājyānuvākyās) is not given in Kap.                                                                                                                                           ।     ।                                               ।
-। 8                                                                                                                                                                                                 ।     । Sth. XIX, sec. 1-2                            ।
-। Adh. XXX, sec.                                                                                                                                                                                    ।     ।                                               ।
-। 1-5                                                                                                                                                                                               ।     । 3-7                                           ।
+|                                                                                                                                                                                                   |     |                                               |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-----------------------------------------------|
+| 4                                                                                                                                                                                                 |     | 13, upto na sa riṣyāti pūruṣaḥ p. 236, 1. 14. |
+| 5                                                                                                                                                                                                 |     | 14                                            |
+| The end of the fifth section is not marked in Kap. ms., though from the numbering of the following sections it is quite certain that it must have ended with the fourteenth section of the KāṭhS. |     |                                               |
+| 6, a fragment                                                                                                                                                                                     |     | 15, uptoayam agniḥ p. 239, 1. 6.             |
+| Kap. XXV, 7 is lost. 8, a fragment                                                                                                                                                                |     | 17, beginning with yo agnir p. 240, 1. 18.    |
+| 9                                                                                                                                                                                                 |     | 18-19                                         |
+| Kāṭh. XVI, 20-21 (yājyānuvākyās) is omitted in Kap.                                                                                                                                               |     |                                               |
+| 10                                                                                                                                                                                                |     | Sth. XVII, sec. 1                             |
+| Adh. XXVI, sec.                                                                                                                                                                                   |     |                                               |
+| 1-9                                                                                                                                                                                               |     | 2-10                                          |
+| Adh. XXVII, sec.                                                                                                                                                                                  |     |                                               |
+| 1-6                                                                                                                                                                                               |     | 11-16                                         |
+| Adh. XXVIII, sec                                                                                                                                                                                  |     |                                               |
+| 1                                                                                                                                                                                                 |     | 17                                            |
+| Kāṭh. XVII, 18-19 (yājyānuvākyās) is omitted in Kap.                                                                                                                                              |     |                                               |
+| 2                                                                                                                                                                                                 |     | Sth. XVIII, sec. 1-2                          |
+| 3-11                                                                                                                                                                                              |     | 3-11                                          |
+| Adh. XXIX, sec.                                                                                                                                                                                   |     |                                               |
+| 1                                                                                                                                                                                                 |     | 12                                            |
+| 2                                                                                                                                                                                                 |     | 13                                            |
+| 3                                                                                                                                                                                                 |     | 14                                            |
+| 4                                                                                                                                                                                                 |     | 15-16                                         |
+| 5-7                                                                                                                                                                                               |     | 17-19                                         |
+| Kāṭh. XVIII, 20-21 (yājyānuvākyās) is not given in Kap.                                                                                                                                           |     |                                               |
+| 8                                                                                                                                                                                                 |     | Sth. XIX, sec. 1-2                            |
+| Adh. XXX, sec.                                                                                                                                                                                    |     |                                               |
+| 1-5                                                                                                                                                                                               |     | 3-7                                           |
 
 
 
-।                                                                                                                                                                                                                                                                                              ।                                                                  ।
-।----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।------------------------------------------------------------------।
-। 6, a fragment                                                                                                                                                                                                                                                                                । 8, uptoyat paryagnikṛtān utsṛjati p. 9, 11. 6-7.                ।
-। 7, a fragment                                                                                                                                                                                                                                                                                । 9, beginning with \[ni\]rvapaty aśnute p. 10, 1. 12.            ।
-। 8                                                                                                                                                                                                                                                                                          । 10                                                              ।
-। The next adh. is marked as the 32nd adh., but the contents do not show the slightest break in the continuity of the text. Besides, the unusual length of this adhyāya strengthens the suspicion that two adhyāyas have been wrongly numbered as one.                                         ।                                                                  ।
-। Adh. XXXI, sec.                                                                                                                                                                                                                                                                              ।                                                                  ।
-। 1-2                                                                                                                                                                                                                                                                                          । 11-12                                                            ।
-। Kāṭh. XIX, 13-14 (yājyānuvākyās) is not given in Kap.                                                                                                                                                                                                                                        ।                                                                  ।
-। 3-14                                                                                                                                                                                                                                                                                         । Sth. XX, sec. 1-12                                               ।
-। 15, a fragment                                                                                                                                                                                                                                                                               । 13, upto abhiprayāyī jayati p. 33, 1. 9.                         ।
-। Kāṭh. XX, 14-15 (yājyānuvākyās) is not given in Kap.                                                                                                                                                                                                                                         ।                                                                  ।
-। 16, a fragment                                                                                                                                                                                                                                                                               । Sth. XXI, sec. 1, beginning with \[mā\]sā vai yavā p. 37, 1. 14. ।
-। 17-21                                                                                                                                                                                                                                                                                        । 2-6                                                              ।
-। The entire 33rd adh. as well as the major part of the lacuna in Kap. ms. 34th are lost in a This lacuna corresponds to Kāṭh. XXI, 7-12. XXII, 1-5 and the first line sajūr...araṇīs sūra of the sixth section. Kāṭh. XXI, 13-14 being yājyānuvākyās must have certainly been omitted in Kap. ।                                                                  ।
+|                                                                                                                                                                                                                                                                                              |                                                                  |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| 6, a fragment                                                                                                                                                                                                                                                                                | 8, uptoyat paryagnikṛtān utsṛjati p. 9, 11. 6-7.                |
+| 7, a fragment                                                                                                                                                                                                                                                                                | 9, beginning with \[ni\]rvapaty aśnute p. 10, 1. 12.            |
+| 8                                                                                                                                                                                                                                                                                          | 10                                                              |
+| The next adh. is marked as the 32nd adh., but the contents do not show the slightest break in the continuity of the text. Besides, the unusual length of this adhyāya strengthens the suspicion that two adhyāyas have been wrongly numbered as one.                                         |                                                                  |
+| Adh. XXXI, sec.                                                                                                                                                                                                                                                                              |                                                                  |
+| 1-2                                                                                                                                                                                                                                                                                          | 11-12                                                            |
+| Kāṭh. XIX, 13-14 (yājyānuvākyās) is not given in Kap.                                                                                                                                                                                                                                        |                                                                  |
+| 3-14                                                                                                                                                                                                                                                                                         | Sth. XX, sec. 1-12                                               |
+| 15, a fragment                                                                                                                                                                                                                                                                               | 13, upto abhiprayāyī jayati p. 33, 1. 9.                         |
+| Kāṭh. XX, 14-15 (yājyānuvākyās) is not given in Kap.                                                                                                                                                                                                                                         |                                                                  |
+| 16, a fragment                                                                                                                                                                                                                                                                               | Sth. XXI, sec. 1, beginning with \[mā\]sā vai yavā p. 37, 1. 14. |
+| 17-21                                                                                                                                                                                                                                                                                        | 2-6                                                              |
+| The entire 33rd adh. as well as the major part of the lacuna in Kap. ms. 34th are lost in a This lacuna corresponds to Kāṭh. XXI, 7-12. XXII, 1-5 and the first line sajūr...araṇīs sūra of the sixth section. Kāṭh. XXI, 13-14 being yājyānuvākyās must have certainly been omitted in Kap. |                                                                  |
 
 
 
-।                                                                                                            ।                                                         ।
-।------------------------------------------------------------------------------------------------------------।---------------------------------------------------------।
-। Only the last section of the 34th adh. is preserved, which is, however, not numbered.                      ।                                                         ।
-। Adh. XXXIV, last section,                                                                                  ।                                                         ।
-। a fragment, beginning ta (for Kāṭh. etaśa) ime.                                                            । Sth. XXII, sec. 6, p. 61, 1. 12.                        ।
-। Adh. XXXV, sec.                                                                                            ।                                                         ।
-। 1-4                                                                                                        । 7-10                                                    ।
-। 5, a fragment                                                                                              । 11-12, up to śucārpayati ya\[rhi\] p. 67, 1. 20.        ।
-। 6, a fragment                                                                                              । 13, beginning with snāyād p. 69, 1. 11.                 ।
-। Kāṭh. XXII, 14-15 (yājyānuvākyās) is not given in Kap.                                                     ।                                                         ।
-। 7                                                                                                          । Sth. XXIII, sec. 1                                      ।
-। 8, a fragment                                                                                              । 2, upto tredhā prāvi\[śat\] p. 76, 1. 12.               ।
-। 9, a fragment                                                                                              । 3, beginning with \[pā\]daṃ pratiṣīvyedp. 77,11.17-18. ।
-। Adh. XXXVI, sec.                                                                                           ।                                                         ।
-। 1                                                                                                          । 4                                                       ।
-। 2, a fragment                                                                                              । 5, upto vācaṃ visṛjate di\[vā\] p. 80, 1.6.             ।
-। This gap has been filled up by a fragment of the Kap. version of the Kāṭhaka portion of Tait. Br. III, 12. ।                                                         ।
-। 3, a fragment                                                                                              । 6, beginning with \[devatā\]bhiś caiva p. 82, 1. 13.    ।
-। 4-6                                                                                                        । 7-9                                                     ।
+|                                                                                                            |                                                         |
+|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
+| Only the last section of the 34th adh. is preserved, which is, however, not numbered.                      |                                                         |
+| Adh. XXXIV, last section,                                                                                  |                                                         |
+| a fragment, beginning ta (for Kāṭh. etaśa) ime.                                                            | Sth. XXII, sec. 6, p. 61, 1. 12.                        |
+| Adh. XXXV, sec.                                                                                            |                                                         |
+| 1-4                                                                                                        | 7-10                                                    |
+| 5, a fragment                                                                                              | 11-12, up to śucārpayati ya\[rhi\] p. 67, 1. 20.        |
+| 6, a fragment                                                                                              | 13, beginning with snāyād p. 69, 1. 11.                 |
+| Kāṭh. XXII, 14-15 (yājyānuvākyās) is not given in Kap.                                                     |                                                         |
+| 7                                                                                                          | Sth. XXIII, sec. 1                                      |
+| 8, a fragment                                                                                              | 2, upto tredhā prāvi\[śat\] p. 76, 1. 12.               |
+| 9, a fragment                                                                                              | 3, beginning with \[pā\]daṃ pratiṣīvyedp. 77,11.17-18. |
+| Adh. XXXVI, sec.                                                                                           |                                                         |
+| 1                                                                                                          | 4                                                       |
+| 2, a fragment                                                                                              | 5, upto vācaṃ visṛjate di\[vā\] p. 80, 1.6.             |
+| This gap has been filled up by a fragment of the Kap. version of the Kāṭhaka portion of Tait. Br. III, 12. |                                                         |
+| 3, a fragment                                                                                              | 6, beginning with \[devatā\]bhiś caiva p. 82, 1. 13.    |
+| 4-6                                                                                                        | 7-9                                                     |
 
 
 
-। Adh. XXXVII, sec.1                                                                                                                                                                                                                                                                                                                     ।                                                   ।
-।----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।---------------------------------------------------।
-। 1                                                                                                                                                                                                                                                                                                                                      । 10                                                ।
-। Kāṭh. XXIII, 11-12 (yājyānuvākyās) is not given in Kap.                                                                                                                                                                                                                                                                                ।                                                   ।
-। 2-8                                                                                                                                                                                                                                                                                                                                    । Sth. XXIV, sec. 1-7                               ।
-। Adh. XXXVIII, sec.                                                                                                                                                                                                                                                                                                                     ।                                                   ।
-। 1-3                                                                                                                                                                                                                                                                                                                                    । 8-10                                              ।
-। 4-6                                                                                                                                                                                                                                                                                                                                    । 'Sth. XXV, sec. 1-3                               ।
-। Adh. XXXIX, sec.                                                                                                                                                                                                                                                                                                                       ।                                                   ।
-। 1-2                                                                                                                                                                                                                                                                                                                                    । 4-5                                               ।
-। 3                                                                                                                                                                                                                                                                                                                                      । 6, upto devapātram nivedayati p. 109,1.19.        ।
-। 4                                                                                                                                                                                                                                                                                                                                      । 6, beginning with yatîn vai p.109, 1. 20.         ।
-। 5                                                                                                                                                                                                                                                                                                                                      । 7                                                 ।
-। Adh. XL, sec.                                                                                                                                                                                                                                                                                                                          ।                                                   ।
-। 1-3                                                                                                                                                                                                                                                                                                                                    । 8-10                                              ।
-। 4-5                                                                                                                                                                                                                                                                                                                                    । Sth. XXVI, sec. 1-2                               ।
-। Kap. marks the end of the fourth section after retaḥ siñcati (Kāṭh. p. 122, 1. 4), and the next section is brought to a close with Kāṭh. XXVI, 2. Prof. Caland's copy marks the end of Kāṭh. XXVI, 1 as \।\।3\।\।, while the Göt. copy leaves it unmarked thus \।\। \।\।. I take the fourth section of Kap. to end with Kāṭh. XXVI, 1. ।                                                   ।
-। Adh. XLI, sec.                                                                                                                                                                                                                                                                                                                         ।                                                   ।
-। 1, a fragment                                                                                                                                                                                                                                                                                                                          । 3, beginning with yajñovai viṣṇuḥ p. 124, 1. 21. ।
-। 2-8                                                                                                                                                                                                                                                                                                                                    । 4-10                                              ।
-। Kap. marks the seventh sec. as \।\।5\।\।, and leaves the next section unnumbered thus \।\।cha\।\।.                                                                                                                                                                                                                                     ।                                                   ।
-। Kāṭh. XXVI, 11-12 (yājyānuvākyās) is not given in Kap.                                                                                                                                                                                                                                                                                 ।                                                   ।
-। Adh. XLII, sec.                                                                                                                                                                                                                                                                                                                        ।                                                   ।
-। 1-6                  Sth. XXVII, sec. 1-6                                                                                                                                                                                                                                                                           ।                                                   ।
-। **Adh. XLIII, sec**.                                                                                                                                                                                                                                                                                                                   ।                                                   ।
-। \[1?\], a [fragment](http://्र "See note 2 on page 254.")         8, upto                                                                                                                                                                                                                                                    ।                                                   ।
+| Adh. XXXVII, sec.1                                                                                                                                                                                                                                                                                                                     |                                                   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| 1                                                                                                                                                                                                                                                                                                                                      | 10                                                |
+| Kāṭh. XXIII, 11-12 (yājyānuvākyās) is not given in Kap.                                                                                                                                                                                                                                                                                |                                                   |
+| 2-8                                                                                                                                                                                                                                                                                                                                    | Sth. XXIV, sec. 1-7                               |
+| Adh. XXXVIII, sec.                                                                                                                                                                                                                                                                                                                     |                                                   |
+| 1-3                                                                                                                                                                                                                                                                                                                                    | 8-10                                              |
+| 4-6                                                                                                                                                                                                                                                                                                                                    | 'Sth. XXV, sec. 1-3                               |
+| Adh. XXXIX, sec.                                                                                                                                                                                                                                                                                                                       |                                                   |
+| 1-2                                                                                                                                                                                                                                                                                                                                    | 4-5                                               |
+| 3                                                                                                                                                                                                                                                                                                                                      | 6, upto devapātram nivedayati p. 109,1.19.        |
+| 4                                                                                                                                                                                                                                                                                                                                      | 6, beginning with yatîn vai p.109, 1. 20.         |
+| 5                                                                                                                                                                                                                                                                                                                                      | 7                                                 |
+| Adh. XL, sec.                                                                                                                                                                                                                                                                                                                          |                                                   |
+| 1-3                                                                                                                                                                                                                                                                                                                                    | 8-10                                              |
+| 4-5                                                                                                                                                                                                                                                                                                                                    | Sth. XXVI, sec. 1-2                               |
+| Kap. marks the end of the fourth section after retaḥ siñcati (Kāṭh. p. 122, 1. 4), and the next section is brought to a close with Kāṭh. XXVI, 2. Prof. Caland's copy marks the end of Kāṭh. XXVI, 1 as \|\|3\|\|, while the Göt. copy leaves it unmarked thus \|\| \|\|. I take the fourth section of Kap. to end with Kāṭh. XXVI, 1. |                                                   |
+| Adh. XLI, sec.                                                                                                                                                                                                                                                                                                                         |                                                   |
+| 1, a fragment                                                                                                                                                                                                                                                                                                                          | 3, beginning with yajñovai viṣṇuḥ p. 124, 1. 21. |
+| 2-8                                                                                                                                                                                                                                                                                                                                    | 4-10                                              |
+| Kap. marks the seventh sec. as \|\|5\|\|, and leaves the next section unnumbered thus \|\|cha\|\|.                                                                                                                                                                                                                                     |                                                   |
+| Kāṭh. XXVI, 11-12 (yājyānuvākyās) is not given in Kap.                                                                                                                                                                                                                                                                                 |                                                   |
+| Adh. XLII, sec.                                                                                                                                                                                                                                                                                                                        |                                                   |
+| 1-6                  Sth. XXVII, sec. 1-6                                                                                                                                                                                                                                                                           |                                                   |
+| **Adh. XLIII, sec**.                                                                                                                                                                                                                                                                                                                   |                                                   |
+| \[1?\], a [fragment](http://्र "See note 2 on page 254.")         8, upto                                                                                                                                                                                                                                                    |                                                   |
 
 
 
 
 
-।                                                                                                                                                                                                                                            ।                                                                         ।
-।--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।-------------------------------------------------------------------------।
-।                                                                                                                                                                                                                                           । prāyacchad āp. 147, 1.3.                                               ।
-। The rest of the43rd adh. is lost in a big Iacuna.                                                                                                                                                                                         ।                                                                         ।
-। Adh. XLIV, sec.                                                                                                                                                                                                                            ।                                                                         ।
-। 1, a fragment                                                                                                                                                                                                                              । Sth. XXVIII, sec. 1, beginning with prajānāṃ pradadhyāt p.153, 11. 2-3. ।
-। 2-9                                                                                                                                                                                                                                        । 2-9                                                                     ।
-। Adh. XLV, sec.                                                                                                                                                                                                                             ।                                                                         ।
-। 1                                                                                                                                                                                                                                          । 10                                                                      ।
-। 2-3                                                                                                                                                                                                                                        । Sth. XXIX, sec. 1-2                                                     ।
-। 4, a fragment                                                                                                                                                                                                                            । 3, uptoanīkam apa āvive \[śeti\] p. 171, 11. 4-5.                      ।
-। 5, fragment                                                                                                                                                                                                                                । 4, beginning with \[pratitiṣṭha\]ti yathāvāp. 172,1. 18.              ।
-। Of the first 13 lines of Kāṭh. XXIX, 4 missing here, eleven (gṛhṇāti varuṇo... brahmavarcase pratitiṣṭha\[ti\] p. 172, 11. 6-18) are inserted in the following section after somam āpo yathāp. 173, 1. 12.                                ।                                                                         ।
-। 6-7                                                                                                                                                                                                                                        । 5-6                                                                     ।
-। 8, a fragment                                                                                                                                                                                                                              । 7, uptoyad vai virājas tejas tad āp. 175, 1. 22.                      ।
-। Adh. XLVI                                                                                                                                                                                                                                  ।                                                                         ।
-। The first section corresponding to Kāṭh. XXIX, 8 is lost. Of the second, prajāpatiḥ prajās sṛṣṭvā...ātmann upaniyunkte (Kāṭh. p. 178, 11. 8-13) is missing. Then follows one line \[a\]tha saumyaḥ somo re\[to\]dhā mithuna eva reto dadh- ।                                                                         ।
+|                                                                                                                                                                                                                                            |                                                                         |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+|                                                                                                                                                                                                                                           | prāyacchad āp. 147, 1.3.                                               |
+| The rest of the43rd adh. is lost in a big Iacuna.                                                                                                                                                                                         |                                                                         |
+| Adh. XLIV, sec.                                                                                                                                                                                                                            |                                                                         |
+| 1, a fragment                                                                                                                                                                                                                              | Sth. XXVIII, sec. 1, beginning with prajānāṃ pradadhyāt p.153, 11. 2-3. |
+| 2-9                                                                                                                                                                                                                                        | 2-9                                                                     |
+| Adh. XLV, sec.                                                                                                                                                                                                                             |                                                                         |
+| 1                                                                                                                                                                                                                                          | 10                                                                      |
+| 2-3                                                                                                                                                                                                                                        | Sth. XXIX, sec. 1-2                                                     |
+| 4, a fragment                                                                                                                                                                                                                            | 3, uptoanīkam apa āvive \[śeti\] p. 171, 11. 4-5.                      |
+| 5, fragment                                                                                                                                                                                                                                | 4, beginning with \[pratitiṣṭha\]ti yathāvāp. 172,1. 18.              |
+| Of the first 13 lines of Kāṭh. XXIX, 4 missing here, eleven (gṛhṇāti varuṇo... brahmavarcase pratitiṣṭha\[ti\] p. 172, 11. 6-18) are inserted in the following section after somam āpo yathāp. 173, 1. 12.                                |                                                                         |
+| 6-7                                                                                                                                                                                                                                        | 5-6                                                                     |
+| 8, a fragment                                                                                                                                                                                                                              | 7, uptoyad vai virājas tejas tad āp. 175, 1. 22.                      |
+| Adh. XLVI                                                                                                                                                                                                                                  |                                                                         |
+| The first section corresponding to Kāṭh. XXIX, 8 is lost. Of the second, prajāpatiḥ prajās sṛṣṭvā...ātmann upaniyunkte (Kāṭh. p. 178, 11. 8-13) is missing. Then follows one line \[a\]tha saumyaḥ somo re\[to\]dhā mithuna eva reto dadh- |                                                                         |
 
 
 
@@ -506,33 +506,33 @@ PORTION OF TAITTIRIYA-BRĀHMAṆA III, 12
 
  The text preserved in our ms., though mostly indentical with that of TB., shows some omissions and variations, which are noted below:
 
-।                                                                           ।                                                               ।
-|:-------------------------------------------------------------------------:|:-------------------------------------------------------------:।
-।                                 Kap. ms.                                  ।                            TaitBr.                            ।
-।                                    nil                                    । agnaye sviṣṭakṛte svāhā (bis), III, 12, 4, 5. 6 (at the end). ।
-।                         divase no 'timuktāyā nāma                         ।    apādyā (? corr. apāghā) anuvittayo nāma III, 12, 4, 7.     ।
-। Kap. is very corrupt. Cf. TB. III, 12, 2, 9 divaḥśyenayo 'nuvittayo nāma. ।                                                               ।
-।                                  dadāti                                   ।                          dadyāt ib.                           ।
-।                              viśvasya dhātrī                              ।                viśvasya bhartrī III, 12, 3, 2.                ।
-।                       tasmai te deva haviṣā vidhema                       ।               tasmai vidhema haviṣā ghṛtena ib.               ।
-।                              yathā devebhis                               ।                  yathā devais III, 12, 3, 3.                  ।
-।                        manaso vaśam anvetisarvam                         ।              manaso vaśe sarvamidaṃ babhūva ib.              ।
-।                       bhīṣmo devaḥ sahajaḥsahīyān                        ।              bhīṣmo hi devaḥ sahasaḥ sahīyān ib.              ।
+|                                                                           |                                                               |
+|:-------------------------------------------------------------------------:|:-------------------------------------------------------------:|
+|                                 Kap. ms.                                  |                            TaitBr.                            |
+|                                    nil                                    | agnaye sviṣṭakṛte svāhā (bis), III, 12, 4, 5. 6 (at the end). |
+|                         divase no 'timuktāyā nāma                         |    apādyā (? corr. apāghā) anuvittayo nāma III, 12, 4, 7.     |
+| Kap. is very corrupt. Cf. TB. III, 12, 2, 9 divaḥśyenayo 'nuvittayo nāma. |                                                               |
+|                                  dadāti                                   |                          dadyāt ib.                           |
+|                              viśvasya dhātrī                              |                viśvasya bhartrī III, 12, 3, 2.                |
+|                       tasmai te deva haviṣā vidhema                       |               tasmai vidhema haviṣā ghṛtena ib.               |
+|                              yathā devebhis                               |                  yathā devais III, 12, 3, 3.                  |
+|                        manaso vaśam anvetisarvam                         |              manaso vaśe sarvamidaṃ babhūva ib.              |
+|                       bhīṣmo devaḥ sahajaḥsahīyān                        |              bhīṣmo hi devaḥ sahasaḥ sahīyān ib.              |
 
 
 
-।                                                                                                               ।                                                              ।
-।---------------------------------------------------------------------------------------------------------------।--------------------------------------------------------------।
-। manuṃ rājānam                                                                                                 । mano rājānam III, 12,3, 4.                                   ।
-। arcivat                                                                                                       । arcimat ib.                                                  ।
-। sukṛtāṃ                                                                                                       । sudhitāṃ ib.                                                 ।
-। agnir mūrdhā. bhuvo yajñasya                                                                                  । agnir mūrdhā. bhuvaḥ ib.                                     ।
-। In TB. also bhuvaḥ is a pratīka by itself and not a part of the preceding mantra.                             ।                                                              ।
-। anv adya no anumatiḥ                                                                                          । anu no 'dyānumatiḥ ib.                                       ।
-। VS. XXXIV, 9; TS. III, 3, 11, 3 agree with TB.  AV. VII, 20, 1; MS. III, 16, 4: 189, 10 agree with Kap. ms. ।                                                              ।
-। havyavāhaṃ svasti                                                                                             । havyavāhaṁ sviṣṭam ib.                                       ।
-। svargo vai lokaḥ                                                                                              । svargo vai no lokaḥ III, 12, 2, 1.                           ।
-। nil                                                                                                           । agnaye sviṣṭakṛte svāhã (bis) III, 12, 2, 2. 3 (at the end). ।
+|                                                                                                               |                                                              |
+|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| manuṃ rājānam                                                                                                 | mano rājānam III, 12,3, 4.                                   |
+| arcivat                                                                                                       | arcimat ib.                                                  |
+| sukṛtāṃ                                                                                                       | sudhitāṃ ib.                                                 |
+| agnir mūrdhā. bhuvo yajñasya                                                                                  | agnir mūrdhā. bhuvaḥ ib.                                     |
+| In TB. also bhuvaḥ is a pratīka by itself and not a part of the preceding mantra.                             |                                                              |
+| anv adya no anumatiḥ                                                                                          | anu no 'dyānumatiḥ ib.                                       |
+| VS. XXXIV, 9; TS. III, 3, 11, 3 agree with TB.  AV. VII, 20, 1; MS. III, 16, 4: 189, 10 agree with Kap. ms. |                                                              |
+| havyavāhaṃ svasti                                                                                             | havyavāhaṁ sviṣṭam ib.                                       |
+| svargo vai lokaḥ                                                                                              | svargo vai no lokaḥ III, 12, 2, 1.                           |
+| nil                                                                                                           | agnaye sviṣṭakṛte svāhã (bis) III, 12, 2, 2. 3 (at the end). |
 
 YĀJYĀNUVĀKYĀS
 
@@ -589,113 +589,113 @@ KĀṬHAKA-SAṂHITA
 
  in Schroeder's Kath. text as suggested by the Kap. readings:
 
-।                                                                                                                                                             ।                             ।
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------:।
-।                                                                           Kāṭhaka                                                                           ।         Corrections         ।
-।                                                                           sāṭayaḥ                                                                           ।           sātaye            ।
-।                                                                        yad aśuddhaḥ                                                                         ।       yad vo 'śuddhaḥ       ।
-।                                                                          saṃjayema                                                                          ।           jayema            ।
-।                                                                    divas skambhadhānyam                                                                     । divas skambhanyasi dhānyam ।
-।                                                                           samṛtim                                                                           ।          prasṛtim           ।
-।                                                                         balaṃ dehi                                                                          ।         varṇaṃ dehi         ।
-।                                                                             vo                                                                              ।         vedim eta??         ।
-। [saṃnahya](http://्र "The verse containing samnahya is omitted in Kap. Some other corrections not based on Kap, ms, have also been included in this list.") ।          saṃnahye           ।
-।                                                                        tan mārjitvā                                                                         ।        tan mā jinva         ।
-।                                                                          nirdṛkṣaṃ                                                                          ।          nirmṛkṣaṃ          ।
-।                                                                         vājinīm tvā                                                                         ।     vājinīm tvā vājini      ।
-।                                                                          mekṣitās                                                                           ।          prokṣitās          ।
-।                                                                         devatayāsuṃ                                                                         ।         devatayāmuṃ         ।
-।                                                                           arthaṃ                                                                            ।            aktaṃ            ।
-।                                                                         paridheyāś                                                                          ।         paridhiyāś          ।
-।                                                                         devayajñaṁ                                                                          ।         deva yajñaṁ         ।
-।                                                                    Correct also the Kap.                                                                    ।                             ।
-।                                                                             ha                                                                              ।             hi              ।
-।                                                                          mitrasya                                                                           ।         vṛtrasya??          ।
-।                                                                           varuṇaṁ                                                                           ।           varuṇa            ।
-।                                                                        sumanasyāyai                                                                         ।         susasyāyai          ।
-।                                                                        yajñamanasas                                                                         ।       yajñam manasas        ।
-।                                                                          sakṣemahi                                                                          ।           sakṣehi           ।
-।                                                                         rāyas poşe                                                                          ।        rāyas poṣeṇa         ।
-।                                                                           vahnaya                                                                           ।           vahnīn            ।
-।                                                                          devayate                                                                           ।          devāyate           ।
-।                                                                           dadhātu                                                                           ।           dadhāta           ।
-।                                                                      yathādhūran dhūro                                                                      ।     yathādhuran dhuro??     ।
+|                                                                                                                                                             |                             |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------:|
+|                                                                           Kāṭhaka                                                                           |         Corrections         |
+|                                                                           sāṭayaḥ                                                                           |           sātaye            |
+|                                                                        yad aśuddhaḥ                                                                         |       yad vo 'śuddhaḥ       |
+|                                                                          saṃjayema                                                                          |           jayema            |
+|                                                                    divas skambhadhānyam                                                                     | divas skambhanyasi dhānyam |
+|                                                                           samṛtim                                                                           |          prasṛtim           |
+|                                                                         balaṃ dehi                                                                          |         varṇaṃ dehi         |
+|                                                                             vo                                                                              |         vedim eta??         |
+| [saṃnahya](http://्र "The verse containing samnahya is omitted in Kap. Some other corrections not based on Kap, ms, have also been included in this list.") |          saṃnahye           |
+|                                                                        tan mārjitvā                                                                         |        tan mā jinva         |
+|                                                                          nirdṛkṣaṃ                                                                          |          nirmṛkṣaṃ          |
+|                                                                         vājinīm tvā                                                                         |     vājinīm tvā vājini      |
+|                                                                          mekṣitās                                                                           |          prokṣitās          |
+|                                                                         devatayāsuṃ                                                                         |         devatayāmuṃ         |
+|                                                                           arthaṃ                                                                            |            aktaṃ            |
+|                                                                         paridheyāś                                                                          |         paridhiyāś          |
+|                                                                         devayajñaṁ                                                                          |         deva yajñaṁ         |
+|                                                                    Correct also the Kap.                                                                    |                             |
+|                                                                             ha                                                                              |             hi              |
+|                                                                          mitrasya                                                                           |         vṛtrasya??          |
+|                                                                           varuṇaṁ                                                                           |           varuṇa            |
+|                                                                        sumanasyāyai                                                                         |         susasyāyai          |
+|                                                                        yajñamanasas                                                                         |       yajñam manasas        |
+|                                                                          sakṣemahi                                                                          |           sakṣehi           |
+|                                                                         rāyas poşe                                                                          |        rāyas poṣeṇa         |
+|                                                                           vahnaya                                                                           |           vahnīn            |
+|                                                                          devayate                                                                           |          devāyate           |
+|                                                                           dadhātu                                                                           |           dadhāta           |
+|                                                                      yathādhūran dhūro                                                                      |     yathādhuran dhuro??     |
 
 
 
-।                          ।                          ।
-|:------------------------:|:------------------------:।
-।         Kāṭhaka          ।       Corrections        ।
-।        saṃvitthā         ।        saṃvikthā         ।
-।           inda           ।         ta inda          ।
-।         dadhātu          ।         dadhāta          ।
-।        devayajñaṁ        ।       deva yajñaṁ        ।
-।          asmāt           ।          asmat           ।
-।       dhanyamānau        ।        dhanyamāno        ।
-।        upākrāmata        ।        upākramata        ।
-।       ayaḥ pātraṃ        ।        ayaspātraṃ        ।
-।        tat payasā        ।        yat payasā        ।
-।        devamātraṃ        ।        devapātraṃ        ।
-। ucchiṣyeta nodakamiśreṇa । ucchisya tenodakamiśreṇa ।
-।          mānavā          ।         sā na vā         ।
-।        avabhidyād        ।       avabhindyād        ।
-।          ahute           ।          ahutaṁ          ।
-।     apratiṣiktaṃ na      ।      apratiṣiktena       ।
-।          mayaś           ।          payaś           ।
-।        jāyampatī         ।         jāyāpatī         ।
-।         sam evaṃ         ।         sam eva          ।
-।       anudhyāyinaṃ       ।      ananudhyāyinaṃ      ।
-।       abhitasthau        ।       abhitas tau        ।
-।       yathāsanneṣu       ।      yathā sanneṣu       ।
-।          na hi           ।          barhir          ।
-।       ajāyanta te        ।       ajāyantarte        ।
-।        pañcadaśa         ।        pañcadasaṁ        ।
-।          devāḥ           ।          devaḥ           ।
-।        tasyaitaj         ।        tasyai taj        ।
-।            na            ।      na svāhākuryāt      ।
-।           vāva           ।           vāk            ।
-।           ayān           ।           ayāḍ           ।
-।    karoty asyāvibhūr     ।   karoty āsyāabhibhūr    ।
-।          āśāste          ।          āśāse           ।
+|                          |                          |
+|:------------------------:|:------------------------:|
+|         Kāṭhaka          |       Corrections        |
+|        saṃvitthā         |        saṃvikthā         |
+|           inda           |         ta inda          |
+|         dadhātu          |         dadhāta          |
+|        devayajñaṁ        |       deva yajñaṁ        |
+|          asmāt           |          asmat           |
+|       dhanyamānau        |        dhanyamāno        |
+|        upākrāmata        |        upākramata        |
+|       ayaḥ pātraṃ        |        ayaspātraṃ        |
+|        tat payasā        |        yat payasā        |
+|        devamātraṃ        |        devapātraṃ        |
+| ucchiṣyeta nodakamiśreṇa | ucchisya tenodakamiśreṇa |
+|          mānavā          |         sā na vā         |
+|        avabhidyād        |       avabhindyād        |
+|          ahute           |          ahutaṁ          |
+|     apratiṣiktaṃ na      |      apratiṣiktena       |
+|          mayaś           |          payaś           |
+|        jāyampatī         |         jāyāpatī         |
+|         sam evaṃ         |         sam eva          |
+|       anudhyāyinaṃ       |      ananudhyāyinaṃ      |
+|       abhitasthau        |       abhitas tau        |
+|       yathāsanneṣu       |      yathā sanneṣu       |
+|          na hi           |          barhir          |
+|       ajāyanta te        |       ajāyantarte        |
+|        pañcadaśa         |        pañcadasaṁ        |
+|          devāḥ           |          devaḥ           |
+|        tasyaitaj         |        tasyai taj        |
+|            na            |      na svāhākuryāt      |
+|           vāva           |           vāk            |
+|           ayān           |           ayāḍ           |
+|    karoty asyāvibhūr     |   karoty āsyāabhibhūr    |
+|          āśāste          |          āśāse           |
 
 
 
-।                                 ।                 ।
-|:-------------------------------:|:---------------:।
-।             Kathaka             ।   Corrections   ।
-।            dadai te             ।    mad aitor    ।
-।              tava               ।     tava ca     ।
-।            prāviśati            ।    praviśati    ।
-।           upāvartata            ।   upāvartate    ।
-।           prājāyanta            ।   prājñāyanta   ।
-।             bhavati             ।    bhavanti     ।
-।            bhavanti             ।     bhavati     ।
-।          tato bandhur           ।   tatobandhur   ।
-।           tata āyano            ।    tataāyano    ।
-।          yato bandhur           ।   yatobandhur   ।
-।           yata āyanas           ।   yataāyanas    ।
-। So also in the following lines. ।                 ।
-।             kaś cid             ।     kac cid     ।
-।            hiraṇyam             ।  yad dhiraṇyam  ।
-।             ghātako             ।     ghātuko     ।
-।            'ghātako             ।    'ghātuko     ।
-।           aimīty aid            ।    aimīty ed    ।
-।              jyote              ।     jyotir      ।
-।              'syā               ।       sya       ।
-।            prajānāṃ             ।   prayājānāṃ    ।
-।            ālabheta             ।    ālabhate     ।
-।            aṅkaṅkaṃ             ।    ankāṅkaṃ     ।
-।            vilīhitāḥ            ।    vilohitāḥ    ।
-।             svāhite             ।   svā hi te??   ।
-।           adyāhuvema            ।   adyā huvema   ।
-।      Correct also the Kap.      ।                 ।
-।            sumnahur             ।    sumnahūr     ।
-।             sanāmy              ।     sanomy      ।
-।          parūṁṣy etaṃ           । parūṁṣi sa etaṃ ।
-।              suṣis              ।     suṣiras     ।
-।            kalmaṣam             ।    kalmāṣam     ।
-।         pratūrvann ahy          । pratūrvann ehy  ।
-।            rakṣāṁsi             ।   na rakṣāṁsi   ।
+|                                 |                 |
+|:-------------------------------:|:---------------:|
+|             Kathaka             |   Corrections   |
+|            dadai te             |    mad aitor    |
+|              tava               |     tava ca     |
+|            prāviśati            |    praviśati    |
+|           upāvartata            |   upāvartate    |
+|           prājāyanta            |   prājñāyanta   |
+|             bhavati             |    bhavanti     |
+|            bhavanti             |     bhavati     |
+|          tato bandhur           |   tatobandhur   |
+|           tata āyano            |    tataāyano    |
+|          yato bandhur           |   yatobandhur   |
+|           yata āyanas           |   yataāyanas    |
+| So also in the following lines. |                 |
+|             kaś cid             |     kac cid     |
+|            hiraṇyam             |  yad dhiraṇyam  |
+|             ghātako             |     ghātuko     |
+|            'ghātako             |    'ghātuko     |
+|           aimīty aid            |    aimīty ed    |
+|              jyote              |     jyotir      |
+|              'syā               |       sya       |
+|            prajānāṃ             |   prayājānāṃ    |
+|            ālabheta             |    ālabhate     |
+|            aṅkaṅkaṃ             |    ankāṅkaṃ     |
+|            vilīhitāḥ            |    vilohitāḥ    |
+|             svāhite             |   svā hi te??   |
+|           adyāhuvema            |   adyā huvema   |
+|      Correct also the Kap.      |                 |
+|            sumnahur             |    sumnahūr     |
+|             sanāmy              |     sanomy      |
+|          parūṁṣy etaṃ           | parūṁṣi sa etaṃ |
+|              suṣis              |     suṣiras     |
+|            kalmaṣam             |    kalmāṣam     |
+|         pratūrvann ahy          | pratūrvann ehy  |
+|            rakṣāṁsi             |   na rakṣāṁsi   |
 
 
 
@@ -703,43 +703,43 @@ KĀṬHAKA-SAṂHITA
 
 
 
-।                 ।                   ।
-|:---------------:|:-----------------:।
-।     Kāṭhaka     ।    Corrections    ।
-।   dhāmāvindad   ।    dhāmāvidad     ।
-।       vā        ।      vā eṣa       ।
-।     jayati      ।      jayate       ।
-। pratipuruṣasyā- । prati puruṣasyā-  ।
-।    aparicito    ।      apacito      ।
-।     -vainaṃ     ।      -vaināṃ      ।
-।     tejasā      । tejasā caivaujasā ।
-।    yajamānād    ।    'yajamānād     ।
-।   yajamāṇena    ।    'yajamānena    ।
-।    prastare     ।     prastaraṃ     ।
-।     -vainān     ।      -vaināṃ      ।
-।  (bis)-vainān   ।      -vaināṃ      ।
-।     ādhṛtā      ।      adhṛtā       ।
-।      evaṃ       ।        eva        ।
-।    vasīyānit    ।    vasīyān iva    ।
-।     parvaṃ      ।      pūrvaṃ       ।
-।     evainān     ।      evaināṃ      ।
-।     -vainaṃ     ।      -vaināṃ      ।
-।     -vainaṃ     ।      -vainān      ।
-।     -vainaṃ     ।      -vainān      ।
-।     -vainaṃ     ।      -vainān      ।
-।     -vainaṃ     ।      -vaine       ।
-।     -vainaṃ     ।      -vaine       ।
-।     -vainam     ।      -vainām      ।
-।     huyante     ।      hūyante      ।
-।    apinayati    ।     atinayati     ।
-। devatayāpohati  ।  devatayopohati   ।
-।    brahmaṇā     ।     brahmaṇaḥ     ।
-।   jātavedasa    ।    jātavedasā     ।
-। vā tīrthenaiva  ।   vātīrthenaiva   ।
-।    cagnidhaṃ    ।     cagnidhaṃ     ।
-।    lakebhyas    ।     lokebhyas     ।
-।   yajñas saṁ-   ।      yajñaṁ       ।
-।  sthāpyate na   ।  saṁsthāpya tena  ।
+|                 |                   |
+|:---------------:|:-----------------:|
+|     Kāṭhaka     |    Corrections    |
+|   dhāmāvindad   |    dhāmāvidad     |
+|       vā        |      vā eṣa       |
+|     jayati      |      jayate       |
+| pratipuruṣasyā- | prati puruṣasyā-  |
+|    aparicito    |      apacito      |
+|     -vainaṃ     |      -vaināṃ      |
+|     tejasā      | tejasā caivaujasā |
+|    yajamānād    |    'yajamānād     |
+|   yajamāṇena    |    'yajamānena    |
+|    prastare     |     prastaraṃ     |
+|     -vainān     |      -vaināṃ      |
+|  (bis)-vainān   |      -vaināṃ      |
+|     ādhṛtā      |      adhṛtā       |
+|      evaṃ       |        eva        |
+|    vasīyānit    |    vasīyān iva    |
+|     parvaṃ      |      pūrvaṃ       |
+|     evainān     |      evaināṃ      |
+|     -vainaṃ     |      -vaināṃ      |
+|     -vainaṃ     |      -vainān      |
+|     -vainaṃ     |      -vainān      |
+|     -vainaṃ     |      -vainān      |
+|     -vainaṃ     |      -vaine       |
+|     -vainaṃ     |      -vaine       |
+|     -vainam     |      -vainām      |
+|     huyante     |      hūyante      |
+|    apinayati    |     atinayati     |
+| devatayāpohati  |  devatayopohati   |
+|    brahmaṇā     |     brahmaṇaḥ     |
+|   jātavedasa    |    jātavedasā     |
+| vā tīrthenaiva  |   vātīrthenaiva   |
+|    cagnidhaṃ    |     cagnidhaṃ     |
+|    lakebhyas    |     lokebhyas     |
+|   yajñas saṁ-   |      yajñaṁ       |
+|  sthāpyate na   |  saṁsthāpya tena  |
 
 
 
@@ -2639,7 +2639,7 @@ Cf. KS. VIII, 8.
 
 त्वष्टाग्नीत्
 
-।मित्र उपवक्ता। वाचस्पते वाचो वीर्येण संभृततमेनायक्षसे। यज्ञपतये वीर्यमा स्वस्करः। वाचस्पतिः सोमं पिबतु। जजनदिन्द्रमिन्द्रियाय स्वाहा। सोमः सोमस्य पुरोगः। शुक्रः शुक्रस्य पुरोगाः।
+|मित्र उपवक्ता| वाचस्पते वाचो वीर्येण संभृततमेनायक्षसे| यज्ञपतये वीर्यमा स्वस्करः| वाचस्पतिः सोमं पिबतु| जजनदिन्द्रमिन्द्रियाय स्वाहा| सोमः सोमस्य पुरोगः| शुक्रः शुक्रस्य पुरोगाः|
 
 श्रातास्तइन्द्र सोमा
 

@@ -7400,26 +7400,26 @@ PEACE BE TO ALL WORLDS.
 
 
 
-।                                                                                                                                                                                                                                                                   ।                            ।                                                                                                                                                ।
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:।
-।                                                                                                                              **FOR**                                                                                                                              ।          **READ**          ।                                                                  **REMARKS**.                                                                  ।
-।                                                                                                                         i\. 8. **तथैव च**                                                                                                                         ।        **जयद्रथः**         ।                                                Adds the name of one of the principal warriors.                                                 ।
-।                                                                                                                   i\. 10. **बलं भीमाभिरक्षितं**                                                                                                                   । **धृष्टद्युम्नाभिरक्षितं** ।                                         Dhṛiṣhṭadyumna was the Commander-in-chief of the Pâṇḍava army.                                         ।
-।                                                                                                                        i\. 19.**व्यनु-**                                                                                                                         ।         **ऽभ्यनु**         ।                      The prefix **वि** has no special significance here, while **अभि** gives the sense of "on all sides."                      ।
-।                                                                                                                     i\. 36. **स्वबान्धवान्**                                                                                                                      ।       **सबांधवान्**        । The alternative here is scarcely preferable, as it means 'with their relations'; the text, on the other hand, our own relatives', is stronger. ।
-।                                                                                                                         ii\. 26.**नैनं**                                                                                                                          ।          **नैवं**          ।                                                  "Not thus" (shouldst thou grieve, even so).                                                   ।
-। ii.53.**श्रुतिविप्रतिपन्नाPt.**Vrindâvana interprets this as meaning: **श्रुत्या श्रवणेन** **श्रुतौ श्रुत्यर्थे विशेषेण प्रतिपन्ना ज्ञानवती,** “having, by listening (to my teaching) acquired knowledge of the *true* and particular significance of the Veda”. ।                            ।                                                                                                                                                ।
-।                                                                                                                         ii.62.**क्रोधः**                                                                                                                          ।          **लोभः**          ।           This is an emendationsuggested by Paṇḍit Vrindâvana, on the ground that anger does not arise from desire but.from defeat            ।
-।                                                                                                                       ii\. 63.**क्रोधात्**                                                                                                                        ।         **लोभात्**         ।                                                                                                                                                ।
+|                                                                                                                                                                                                                                                                   |                            |                                                                                                                                                |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                                                                                              **FOR**                                                                                                                              |          **READ**          |                                                                  **REMARKS**.                                                                  |
+|                                                                                                                         i\. 8. **तथैव च**                                                                                                                         |        **जयद्रथः**         |                                                Adds the name of one of the principal warriors.                                                 |
+|                                                                                                                   i\. 10. **बलं भीमाभिरक्षितं**                                                                                                                   | **धृष्टद्युम्नाभिरक्षितं** |                                         Dhṛiṣhṭadyumna was the Commander-in-chief of the Pâṇḍava army.                                         |
+|                                                                                                                        i\. 19.**व्यनु-**                                                                                                                         |         **ऽभ्यनु**         |                      The prefix **वि** has no special significance here, while **अभि** gives the sense of "on all sides."                      |
+|                                                                                                                     i\. 36. **स्वबान्धवान्**                                                                                                                      |       **सबांधवान्**        | The alternative here is scarcely preferable, as it means 'with their relations'; the text, on the other hand, our own relatives', is stronger. |
+|                                                                                                                         ii\. 26.**नैनं**                                                                                                                          |          **नैवं**          |                                                  "Not thus" (shouldst thou grieve, even so).                                                   |
+| ii.53.**श्रुतिविप्रतिपन्नाPt.**Vrindâvana interprets this as meaning: **श्रुत्या श्रवणेन** **श्रुतौ श्रुत्यर्थे विशेषेण प्रतिपन्ना ज्ञानवती,** “having, by listening (to my teaching) acquired knowledge of the *true* and particular significance of the Veda”. |                            |                                                                                                                                                |
+|                                                                                                                         ii.62.**क्रोधः**                                                                                                                          |          **लोभः**          |           This is an emendationsuggested by Paṇḍit Vrindâvana, on the ground that anger does not arise from desire but.from defeat            |
+|                                                                                                                       ii\. 63.**क्रोधात्**                                                                                                                        |         **लोभात्**         |                                                                                                                                                |
 
 
 
-।                         ।                  ।                                                                                                                                                                                                                                                                                      ।
-।-------------------------।------------------।--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-।                        ।                 । of desire, while **लोभ**, blind craving, is the natural consequence of desire. The emendation has a doubtful value, however, because it is not supported by any manuscripts inspected, and the addition of “defeat of” is no very serious strain on the interpretation of the verse. ।
-। iv.23.**मुक्तस्य**   । **युक्तस्य**     । The context refers to one who is still striving after deliverance, **युक्तस्य**, and not to one who has already attained it, **मुक्तस्य**.                                                                                                                                           ।
-। v.21**.यत्सुखं**       । **यः सुखं**      । In view of the following **सः, यः** is distinctly the better reading grammatically; **यत्** confuses the prose order and the sense, and does not fit in.                                                                                                                             ।
-। vi.39.**एतन्मे**        । **एतम्** **मे** । The alternative is correct according to modern grammar, and the other incorrect, because **संशय**, with which the pronoun is in apposition, is masculine and not neuter,                                                                                                             ।
+|                         |                  |                                                                                                                                                                                                                                                                                      |
+|-------------------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                        |                 | of desire, while **लोभ**, blind craving, is the natural consequence of desire. The emendation has a doubtful value, however, because it is not supported by any manuscripts inspected, and the addition of “defeat of” is no very serious strain on the interpretation of the verse. |
+| iv.23.**मुक्तस्य**   | **युक्तस्य**     | The context refers to one who is still striving after deliverance, **युक्तस्य**, and not to one who has already attained it, **मुक्तस्य**.                                                                                                                                           |
+| v.21**.यत्सुखं**       | **यः सुखं**      | In view of the following **सः, यः** is distinctly the better reading grammatically; **यत्** confuses the prose order and the sense, and does not fit in.                                                                                                                             |
+| vi.39.**एतन्मे**        | **एतम्** **मे** | The alternative is correct according to modern grammar, and the other incorrect, because **संशय**, with which the pronoun is in apposition, is masculine and not neuter,                                                                                                             |
 
 
 
@@ -7433,28 +7433,28 @@ PEACE BE TO ALL WORLDS.
 
 
 
-।                                  ।                      ।                                                                                                                                                            ।
-।----------------------------------।----------------------।------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। ****vii**.**19.**सुदुर्ल्लभः** । **स दुर्लभः**        ।  “He is difficult to find ” instead of “very difficult to find”.                                                                                         ।
-। viii**.** 5**. असंशयं**          । **असंशयः**           ।  The text means “undoubtedly ”; the alternative “free of doubt thyself ”. The text seems to be the stronger reading.                                     ।
-। viii**.**8**. नान्यगामिना**      । **ऽनन्यगामिना**      ।  The alternative makes no change of meaning, but is more in accordance with modern grammar.                                                              ।
-। viii.20**. ऽव्यक्तो व्यक्तात्** । **व्यक्ताव्यक्तात्** ।  “(More ancient) than both the manifested and the (lower) unmanifested.” Cf. xv. 16 & 18, xi. 37.                                                        ।
-। x\. 7. **ऽविकंपेन**              । **ऽविकल्पेन**        । The alternative means‌ “abstract, without Vikalpa, without alternative, doubt, or lower attraction ”. It is more in keeping with the technicality of Yoga. ।
-। xi.28. **अभिविज्वलन्ति**        । **अभितो ज्वलंति**    । “Flaming on all sides.” The alternative seems to make better sense. The text has a superfluous and weak prefix **वि**.                                    ।
-। xi\. 41**. इदं**                 । **इमम्**             । The alternative is gramma-                                                                                                                                ।
+|                                  |                      |                                                                                                                                                            |
+|----------------------------------|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ****vii**.**19.**सुदुर्ल्लभः** | **स दुर्लभः**        |  “He is difficult to find ” instead of “very difficult to find”.                                                                                         |
+| viii**.** 5**. असंशयं**          | **असंशयः**           |  The text means “undoubtedly ”; the alternative “free of doubt thyself ”. The text seems to be the stronger reading.                                     |
+| viii**.**8**. नान्यगामिना**      | **ऽनन्यगामिना**      |  The alternative makes no change of meaning, but is more in accordance with modern grammar.                                                              |
+| viii.20**. ऽव्यक्तो व्यक्तात्** | **व्यक्ताव्यक्तात्** |  “(More ancient) than both the manifested and the (lower) unmanifested.” Cf. xv. 16 & 18, xi. 37.                                                        |
+| x\. 7. **ऽविकंपेन**              | **ऽविकल्पेन**        | The alternative means‌ “abstract, without Vikalpa, without alternative, doubt, or lower attraction ”. It is more in keeping with the technicality of Yoga. |
+| xi.28. **अभिविज्वलन्ति**        | **अभितो ज्वलंति**    | “Flaming on all sides.” The alternative seems to make better sense. The text has a superfluous and weak prefix **वि**.                                    |
+| xi\. 41**. इदं**                 | **इमम्**             | The alternative is gramma-                                                                                                                                |
 
 
 
 
 
-।                                                                                                                                                                                                                                                                                                                                                                                                              ।                                                                                         ।                                                                                                               ।
-।--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।-----------------------------------------------------------------------------------------।---------------------------------------------------------------------------------------------------------------।
-।                                                                                                                                                                                                                                                                                                                                                                                                             । tically correct, as the **महिमा**which the pronoun qualifies is masculine, not neuter. ।                                                                                                               ।
-। xii\. 5.**अव्यक्तम्**here is interpreted by Pt. Vrindâvana asmeaning the Linga Sharîra.                                                                                                                                                                                                                                                                                                                    ।                                                                                         ।                                                                                                               ।
-। xiv.1. **ज्ञानानां**                                                                                                                                                                                                                                                                                                                                                                                         । **ज्ञानिनां**                                                                          ।  “(The highest knowledge)of the wise“ instead of “of all knowledges”.                                      ।
-। xiv\. 3.4. In these two shlokas, the current commentaries interpret the word **महत्** as 'great' and regard it as qualifying, **ब्रह्म** Brahman; and further they construe both the shlokas as meaning that “the great Brahman is the womb and I the depositor of the seed”. Pt. Vrindiâvana says the construction should be as follows: “mahat-tattva is the womb and I, Brahman, am the seed-giver ”. ।                                                                                         ।                                                                                                               ।
-। xv.23. **अवतिष्टति**                                                                                                                                                                                                                                                                                                                                                                                         । **अनुतिष्ठति **                                                                      ।  “And acts in pursuance.” This gives additional meaning; the other merely repeats the sense of **र्नेगते**. ।
-। xvii.23. **ब्राह्मणास्तेन**                                                                                                                                                                                                                                                                                                                                                                                  । **ब्रह्मणा तेन**                                                                       ।  “By that Brahmâ, or by that Brahman.“ Cf. iv. 32.                                                          ।
+|                                                                                                                                                                                                                                                                                                                                                                                                              |                                                                                         |                                                                                                               |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                                                                                                                                                                                                                                             | tically correct, as the **महिमा**which the pronoun qualifies is masculine, not neuter. |                                                                                                               |
+| xii\. 5.**अव्यक्तम्**here is interpreted by Pt. Vrindâvana asmeaning the Linga Sharîra.                                                                                                                                                                                                                                                                                                                    |                                                                                         |                                                                                                               |
+| xiv.1. **ज्ञानानां**                                                                                                                                                                                                                                                                                                                                                                                         | **ज्ञानिनां**                                                                          |  “(The highest knowledge)of the wise“ instead of “of all knowledges”.                                      |
+| xiv\. 3.4. In these two shlokas, the current commentaries interpret the word **महत्** as 'great' and regard it as qualifying, **ब्रह्म** Brahman; and further they construe both the shlokas as meaning that “the great Brahman is the womb and I the depositor of the seed”. Pt. Vrindiâvana says the construction should be as follows: “mahat-tattva is the womb and I, Brahman, am the seed-giver ”. |                                                                                         |                                                                                                               |
+| xv.23. **अवतिष्टति**                                                                                                                                                                                                                                                                                                                                                                                         | **अनुतिष्ठति **                                                                      |  “And acts in pursuance.” This gives additional meaning; the other merely repeats the sense of **र्नेगते**. |
+| xvii.23. **ब्राह्मणास्तेन**                                                                                                                                                                                                                                                                                                                                                                                  | **ब्रह्मणा तेन**                                                                       |  “By that Brahmâ, or by that Brahman.“ Cf. iv. 32.                                                          |
 
 
 
@@ -7480,388 +7480,388 @@ PEACE BE TO ALL WORLDS.
 
 
 
-।                                                                                                                 ।
-|:---------------------------------------------------------------------------------------------------------------:।
-।                                                    **INDEX**                                                    ।
-।                                            **अंश**—x. 41, 42—xv. 7.                                             ।
-। **अकर्त्ता**—iv. 13—v. 14—vii. 5. 6. 12. 25, 26—ix. 5. 9. 19—x. 6—xi.37—xiii. 21. 31—xiv. 12. 19—xviii, 14. 16. ।
-।                                   **अकर्म**—ii. 47—iii. 5. 8—iv. 16. 17. 18.                                    ।
-।                                        **अकार्य**—xvi. 24—xviii. 30. 31.                                        ।
-।                                                **अकाल**—ii. 34.                                                 ।
-।                                      **अकृत**—iii. 18—xv. 11—xviii. 6. 16.                                      ।
-।                                              **अकृत्स्न**—iii. 29.                                              ।
-।                                                **अक्रिय**—vi. 1.                                                ।
-।                                               **अक्रोध**—xvi. 2.                                                ।
-।                                             **अक्षय**—v. 31—x. 33.                                              ।
-।                **अक्षर**—iii. 15—viii. 3. 11. 13, 21—x. 25. 33—xi. 18. 37—xii. 1. 3—xv. 16. 18.                 ।
-।                                         **अखिल**—iv. 83—vii. 29—xv. 12.                                         ।
-।                            **अग्नि**—iv. 37—viii. 24—ix, 16—xi. 39—xv. 12—xviii. 48.                            ।
-।                             **अचल**—ii. 24. 53, 70—vi. 13—vii, 21—viii, 10—xii. 3.                              ।
-।                                        **अचेतः**—iii. 32—xv. 11—xvii. 6.                                        ।
-।                                       **अच्युत**—i. 21—xi. 42—xviii. 73.                                        ।
-।                                      **अज**—ii. 21—iv. 6—vii. 25—x. 3. 12.                                      ।
-।                                       **अजानत्**—vii. 24—xi. 41—xiii. 25.                                       ।
-।                 **अज्ञान**—iv. 42—v. 15. 16—x. 11—xiii. 11—xiv, 8. 16. 17—xvi. 4. 15—xviii. 72.                 ।
-।                                                **अणीय**—viii. 9.                                                ।
-।                                    **अधर्म**—i. 40, 41—iv. 7—xviii. 31. 32.                                     ।
-।                           **अधिगम्**—ii..71—iv. 39—v. 6. 24—vi. 15—xiv. 19—xviii. 49.                           ।
-।                            **अधिदैव**—vii. 30—viii. 1. 4. (also**अधिभूत, अधियज्ञ**)                            ।
-।                              **अधिष्ठान**—iii. 40—iv. 6—xiii. 17—xv. 9—xviii, 14.                               ।
-
-
-
-।                                                                                       ।
-|:--------------------------------------------------------------------------------------।
-। **अध्यात्म**—iii. 30—vii. 29—viii. 1. 3—x. 32—xi. 1—xv. 5—xiii. 11—xv. 5.             ।
-। **अनन्तरूप**—xi. 16. 38.                                                              ।
-। **अनामय**—ii.51—xiv. 6.                                                               ।
-। **अनुशोचन्ति**—ii. 11. 25 seq.—iv. 8.                                                 ।
-। **अनुस्मर**—viii. 7. 9, 13.                                                           ।
-। **अनेक**—vi, 45—xi, 10, 13. 16. 24—xvi. 16.                                           ।
-। **अन्त**—ii. 16.55.72—v. 24—vi. 26—vii. 19. 28—viii. 5. 6—x. 19. 32. 40—xi. 16—xv. 3. ।
-। **अन्तर**—v. 24—vi. 47—xi. 20—xiii. 34.                                               ।
-। **अन्न**—iii.4.—xv. 14,                                                               ।
-। **अन्यदेवता**—vii. 20—ix. 58.                                                         ।
-। **अपर**—ii, 22 iv. 4. 25. 27-30—vi. 22—vii. 5—xiii. 24—xvi. 8. 14—xviii. 3.           ।
-। **अपहृत**—ii. 44—vii. 15.                                                             ।
-। **अपात्र**—xvii. 22.12                                                                ।
-। **अप्राप्य**—vi. 37—ix. 3—xvi. 20.                                                   ।
-। **अफल**—xvii. 11. 17—xviii. 23.                                                       ।
-। **अभय**—x.4—xvi. 1—xviii. 30.                                                         ।
-। **अभाव**—ii. 16. 66—x. 4.                                                             ।
-। **अभिजानाति**—iv. 14—vii. 13. 25—ix. 24—xviii. 55.                                    ।
-। **अभ्यास**—vi. 35. 44—viii. 8—xii. 9. 10. 12—xviii. 36.                               ।
-। **अभ्यासयोग**—viii. 8—xii. 9.                                                        ।
-। **अमानित्व**—xiii. 7.                                                                 ।
-। **अमूढ**—xv. 5.                                                                       ।
-। **अमृत**—iv.31—ix. 19—x. 18—xiii, 12—xiv. 20, 27.                                     ।
-। **अमृतोपम**—xviii. 37. 38.                                                            ।
-। **अयज्ञ**—iv. 31,                                                                     ।
-
-
-
-।                                                                                                                                                                                                                                     ।
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। **अयति**—vi. 37.                                                                                                                                                                                                                    ।
-। **अयुक्त**—ii. 66—v. 12—xviii. 28.                                                                                                                                                                                                  ।
-। **अरागद्वेषतः**—xviii. 23.                                                                                                                                                                                                          ।
-। **अवध्य**—ii 30.                                                                                                                                                                                                                    ।
-। **अवश**—iii. 5—vi. 44—viii. 19—ix. 8—xviii. 60.                                                                                                                                                                                     ।
-। **अविकार्य** ii 25.                                                                                                                                                                                                                 ।
-। **अविभक्त**—xiii. 16—xviii. 20.                                                                                                                                                                                                     ।
-। **अव्यक्त**—ii. 25. 28—vii. 24—viii. 18. 20. 21—ix. 4—xii. 1. 3. 5. 6—xiii. 5.                                                                                                                                                      ।
-। **अव्यय**—ii.17. 21. 34—iv 1. 13—vii. 13. 24. 25—ix. 2. 13. 18.—xi. 2.4. 18—xiii. 31—xiv. 5. 27—xv. 1. 5. 17—xviii. 20.56.                                                                                                          ।
-। **अव्यवसायी**—ii. 41.                                                                                                                                                                                                               ।
-। **अशान्त**—ii 66.                                                                                                                                                                                                                   ।
-। **असक्त**—iii. 7. 19. 25—v. 21—ix. 9—xiii. 9. 14—xviii. 49.                                                                                                                                                                         ।
-। **असङ्गशस्र**—xiii. 5.                                                                                                                                                                                                              ।
-। **असत्**—ii—16—ix, 19—xi 37—xiii. 12—xvii. 28.                                                                                                                                                                                      ।
-। **असन्न्यस्तसङ्कल्प**——vi. 2.                                                                                                                                                                                                       ।
-। **असिद्धि**—ii.48—iv. 22—xviii. 26.                                                                                                                                                                                                ।
-। **असुर**—xi. 22.                                                                                                                                                                                                                    ।
-। **अहंकार**—iii.27—vii. 4—xiii. 5—xvi. 18—xvii. 5—xviii. 17. 58. 59.                                                                                                                                                                 ।
-। **आत्मा**—ii. 55—iii. 13. 17. 43—iv. 7. 35. 38. 42—v. 7. 16 21—vi 5. 6. 7. 8. 10. 11. 15. 18. 19. 20. 26—vii. 18—viii. 12—1x. 5. 28. 34—x. 15. 18. 20—xi. 3. 4—xiii. 24. 28. 29. 32.—xv. 11—xvi. 21. 22—xvii. 19—xviii. 16. 39. 51. ।
-। **आत्मवत्**—ii.45—iv. 41.                                                                                                                                                                                                           ।
-। **आव्**—iii. 38. 39. 40—v. 15—xiv, 9—xviii. 32. 48.                                                                                                                                                                                 ।
-
-
-
-।                                                                                                                                                                                                                                                                                                                                                  ।
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। **आसुर**—vii. 15—ix. 19—xvi. 4. 5. 6. 7. 19. 20—xvii. 6.                                                                                                                                                                                                                                                                                         ।
-। **आहार**—xvii. 7. 8. 9.                                                                                                                                                                                                                                                                                                                          ।
-। **इन्द्रिय**—ii 8. 58. 60. 61. 64. 67—iii. 7. 34. 40. 41. 42—iv. 26.27 v. 9. 11—x. 22—xii. 14—xiii. 5—xv. 7—xviii. 33.38—vi. 24.                                                                                                                                                                                                                ।
-। **ईश्वर**—iv. 6—xiii. 28—xv. 8. 17—xvi. 14.                                                                                                                                                                                                                                                                                                      ।
-। **उत्तरायण**—viii. 24.                                                                                                                                                                                                                                                                                                                           ।
-। **उत्या**—ii. 3. 37—iv. 42—xi. 12. 33.                                                                                                                                                                                                                                                                                                           ।
-। **उदार**—vii. 18.                                                                                                                                                                                                                                                                                                                                ।
-। **उदास**—vi. 9—ix, 9—xii. 16—xiv. 23.                                                                                                                                                                                                                                                                                                            ।
-। **एक**—ii. 41—iii. 2—v. 1. 4, 5—vi. 31—viii. 26—ix. 15.—x. 25.42—xi. 7. 13. 20. 42—xiii. 5..30, 33—xviii. 3. 20. 22.66.                                                                                                                                                                                                                          ।
-। **ओम्**—xvii. 23. 24.                                                                                                                                                                                                                                                                                                                            ।
-। **कर्त्तु**—iii. 24. 27—iv. 13—v. 14—xiii, 20—xiv. 19—xviii. 14. 16.18. 19. 26. 27. 28.                                                                                                                                                                                                                                                          ।
-। **कर्मचोदना**—xviii. 18.                                                                                                                                                                                                                                                                                                                         ।
-। **कर्मज**—ii. 51—iv. 12. 32.                                                                                                                                                                                                                                                                                                                     ।
-। **कर्म**—ii. 47. 48. 49. 50—iii. 1. 4. 5. 8. 9. 15. 19, 20. 22. 23. 24.25. 27. 30. 31—iv. 9. 12, 14. 15. 16. 17. 18. 20. 21. 23.33. 41—v. 1. 10. 11. 14—vi. 1. 3. 4. 17—vii. 29—viii.1—ix. 9—xii. 6. 10—xiii. 29—xiv. 9. 12. 16—xvi. 24—xvii 26. 27—xviii. 2. 3. 6. 7. 8. 9. 10. 11. 12.15. 18. 19. 23. 24. 25. 41. 43. 44. 45. 47. 48. 60. ।
-। **कर्मफल**—iv. 14—v. 12—vi. 1—xii. 11. 12—xviii, 11.                                                                                                                                                                                                                                                                                             ।
-। **कर्मयोग**—iii, 3. 7—v. 2—xiii. 24.                                                                                                                                                                                                                                                                                                             ।
-। **काम**—ii. 55. 62, 70. 71—iii. 37—vi. 24—vii. 11. 20. 22—xvi.10. 18. 21—xvii. 5—xviii. 34. 53.                                                                                                                                                                                                                                                  ।
-। **कूटस्य**—vi. 8—xii. 3—xv. 16.                                                                                                                                                                                                                                                                                                                  ।
-
-
-
-।                                                                                                                                                                                         ।
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। **कौशल**—ii. 50.                                                                                                                                                                        ।
-। **क्रोध**—ii. 62. 63—iii. 37—xvi. 4. 18. 21—xviii. 53.                                                                                                                                  ।
-। **क्षेत्र**—xiii. 1. 2. 3. 6. 18. 26. 33. 34.                                                                                                                                           ।
-। **क्षेत्रज्ञ**—xiii. 1. 2. 26. 34.                                                                                                                                                      ।
-। **गतव्यथ**—xii 16.                                                                                                                                                                      ।
-। **गतसङ्ग**—ix. 23.                                                                                                                                                                      ।
-। **गुण**—iii. 5. 27. 28. 29—iv. 13—xiiii. 19. 21. 23—xiv. 5. 19. 20. 21. 23. 26—xviii. 29. 40. 41.                                                                                       ।
-। **गुह्य**—x. 38—xi. 1—xviii. 63. 68. 75.                                                                                                                                                ।
-। **गुह्यतम**—ix. 1—xv. 20—xviii. 64.                                                                                                                                                     ।
-। **चञ्चल**—vi. 26. 33. 34.                                                                                                                                                               ।
-। **चतुर्विध**—vii. 16—xv. 14.                                                                                                                                                            ।
-। **चित्त**—vi. 18.20—xii. 8.                                                                                                                                                             ।
-। **चेतस्**—i. 38—ii. 7—viii. 8—xviii. 57. 72.                                                                                                                                            ।
-। **छिद्**—ii. 23—iv. 42—v. 25—vi. 38. 39—xv. 3—xviii. 10.                                                                                                                                ।
-। **जगत्**—vii. 5. 6. 13—viii. 26—ix. 4. 10. 17—x. 42—xi. 7. 13. 30. 36—xv. 12—xvi. 8. 9.                                                                                                 ।
-। **जन्**—i. 29. 41—ii, 27—iii. 26—x. 6—xiv. 12. 13. 15.                                                                                                                                  ।
-। **ज्ञा**—i. 38—iv 15. 16. 32. 35—v. 3. 29.—vii. 1. 2—viii. 2. 27—ix. 13—xi. 25. 54—xiii. 12. 16. 17. 18—xiv. 1—xv. 19—xvi. 24—xviii. 18. 55.                                            ।
-। **ज्ञान**—iii. 39. 40. 41—iv. 33. 34. 38. 39—v. 15. 16—vi. 8—vii. 2—ix. 1—x. 4. 38. 42—xii. 12—xiii. 2. 11. 17. 18—xiv. 1.2. 9. 11. 17—xv. 15—xvi. 1—xviii. 18. 19. 20. 21. 42. 50. 63. ।
-। **ज्ञानयज्ञ—**iv.33—ix.15—xviii. 70.                                                                                                                                                   ।
-। **ज्ञानी—**iii.39—iv.34—vi.46—vii.16.17.18.                                                                                                                                             ।
-। **तत्त्व—**vi. 21—ix. 24—xi. 54—xviii. 1.                                                                                                                                               ।
-
-
-
-।                                                                                          ।
-|:-----------------------------------------------------------------------------------------।
-। **तत्त्वतस्**—iv. 9.—vii. 3—x. 7—xviii. 55.                                              ।
-। **तमस्**—x. 11—xiii. 17—xiv. 8. 9. 10. 13. 15. 16. 17—xvi. 52—xvii. 1—xviii. 32.         ।
-। **तुल्य**—xii. 19—xiv. 24. 25.                                                           ।
-। **त्रिविध**—xvi. 21—xvii. 2. 7. 17. 23—xviii. 4. 12. 18. 29. 36.                         ।
-। **दान**—viii. 28—x. 5.—xi. 48. 53—xvi. 1—xvii. 7. 20. 21. 22.24. 25. 27—xviii. 3. 5. 43. ।
-। **दानव**—x.14.                                                                           ।
-। **दुःख**—ii. 56—vi 22, 23. 32—x. 4—xiii, 6. 8—xiv. 16—xvii. 9.                           ।
-। **देह**—ii. 13. 18. 30—iv. 9—viii. 2. 4. 13—xi. 7. 15—xiii. 22. 32—xiv. 5. 11—xv. 14.    ।
-। **देहभृत्**—viii. 4 xiv. 14—xviii. 11.                                                   ।
-। **देही**—ii. 13. 22. 30. 59—iii. 40—xiv. 5. 7. 20—xvii. 2.                               ।
-। **दैव**—iv. 25—vii. 14—ix. 13—xvi. 3. 5. 6—xviii. 14.                                    ।
-। **द्विष्**—ii. 57—v. 3—vi. 9—iv. 29—xii. 17—xiv. 22—xvi. 19—xviii. 10.                   ।
-। **धर्म**—i. 40—ii, 7. 40—iv. 7. 8—ix. 3—xiv. 27—xviii. 31. 32. 34.                       ।
-। **निराशीः**—iii. 30—iv. 21—vi. 10.                                                       ।
-। **निर्मम**—ii, 71—iii. 30—xviii. 53.                                                     ।
-। **निर्योगक्षेम**—ii. 45.                                                                 ।
-। **पञ्च**—xiii. 5—xviii. 13. 15.                                                          ।
-। **फल**—ii. 47.49 51.—v. 4. 12.—vii. 23—ix, 26—xiv. 16—xvii. 12.21. 25—xviii. 6. 9. 12.   ।
-। **बन्ध**—iv. 14,—xiv. 6.—xvi. 12.                                                        ।
-। **बन्ध**—v. 3.—xviii, 30.                                                                ।
-। **बहूनि जन्मानि —**iv. 5—vii. 19.                                                        ।
-। **बीज**—vii. 10—іх. 18—х, 39.— xiv. 4                                                    ।
-। **बुद्धि**— (and derivatives) ii. 39. 41. 44. 49. 50. 51, 52, 53, 65.                    ।
-
-
-
-।                                                                                                                                                         ।
-।---------------------------------------------------------------------------------------------------------------------------------------------------------।
-। 66\. iii. 1. 8. 26, 40, 42. 43.—iv. 17, 18, 19—v. 11—vi. 21, 22, 25, 43—vii, 4, 10—x. 4. 8. 9. 10—xii. 8—xiii. 5. xv. 20—xviii, 17, 29. 30. 32, 51, 57. ।
-। **ब्रह्मकर्मन्**—xviii. 42.                                                                                                                             ।
-। **ब्रह्मकर्मसमाधिना**—iv. 24.                                                                                                                           ।
-। **ब्रह्मचर्यम्**—xvii. 14.                                                                                                                              ।
-। **ब्रह्मचारिव्रत**—vi. 14.                                                                                                                              ।
-। **ब्रह्म**—iii. 15—iv, 24, 31, 32—v,6 10, 19—vi. 38—vii. 29—viii. 1.3. 17. 24—x. 12—xi, 15, 37—xii, 12. 30—xiv. 3. 4. 27—xvii. 23—xviii. 50.            ।
-। **ब्रह्मनिर्वाण**——72 – v. 24, 25, 26.                                                                                                                  ।
-। **ब्रह्मभुवन**—viii. 16.                                                                                                                                ।
-। **ब्रह्मभुत**—v.24—vi. 27—xviii. 54.                                                                                                                    ।
-। **ब्रह्मभूय**—xiv. 26—xviii. 53.                                                                                                                        ।
-। **ब्रह्मयोग**—v. 21.                                                                                                                                    ।
-। **ब्रह्मवादिन्**—xvii. 24.                                                                                                                              ।
-। **ब्रह्मवत्**—viii.24.                                                                                                                                  ।
-। **ब्रह्मसंस्पर्श**—vi. 28.                                                                                                                              ।
-। **ब्रह्मसूत्र**—xiii .4.                                                                                                                                ।
-। **ब्रह्माग्नि**—iv. 24. 25.                                                                                                                             ।
-। **ब्रह्मोद्भव**—iii, 15.                                                                                                                                ।
-। **ब्राह्मी**—ii. 72.                                                                                                                                    ।
-। **ब्राह्मणे—**ii. 46**—**v. 18**—**ix. 33**—**xvii, 23**—**xviii, 41.                                                                                   ।
-। **भक्त्या** **—**viii. 10. 22**—**ix.14.26. 29**—**xi. 54**—**xvii, 55.                                                                                 ।
-। **भक्ति—**ix, 26**—**xii. 17. 19**—**xiii, 10**—**xviii, 54, 68                                                                                         ।
-। **भक्तियोग**-xiv. 26.                                                                                                                                   ।
-। **भक्त—**ix.3**—**vii, 21**—**ix. 23. 31. 33. 34**—**xii. 1. 20                                                                                         ।
-। **भस्मसात्****—**iv. 37.                                                                                                                               ।
-
-
-
-।                                                                                                                                                                            ।
-।----------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। **भाव**―ii. 16―vii. 12. 13, 15, 24―viii. 4. 5.6. 20―x. 5.17―xviii.17.20.                                                                                                   ।
-। **भूतानि**―ii, 28. 34. 69―iii. 14. 33―iv. 6. 35―vii, 11, 26―viii.20, 22―ix. 5. 25―x. 5, 20. 22. 39―xi. 2.―xiii. 15. 16. 27. 30―xiv. 3―xv. 13. 16―xvi. 2―xviii, 21. 46. 54. ।
-। **भूतप्रकृति**―xiii. 34.                                                                                                                                                   ।
-। **भोक्तृ**―v. 29―ix, 24―xiii. 22.                                                                                                                                          ।
-। **मत्पर**―ii, 61―vi. 14―xii. 6―xviii. 57.                                                                                                                                  ।
-। **मत्परम्**―xi. 55―xii. 20.                                                                                                                                                ।
-। **मत्परायण**―ix. 34.                                                                                                                                                       ।
-। **मत्संस्था**―vi. 15.                                                                                                                                                      ।
-। **मत्स्थानि**―ix. 4. 5. 6.                                                                                                                                                 ।
-। **मद्भक्त**―vii, 23―ix. 34―xi. 55―xii. 14, 16―xiii, 18―xviii, 65.68.                                                                                                       ।
-। **मद्भाव**―iv. 10―x. 6―xiii. 18―xiv. 19.                                                                                                                                   ।
-। **मन्**―iii. 28―xi, 41.                                                                                                                                                    ।
-। **मत**―iii, 1, 31, 32―vi, 32, 46, 47―vii. 18―viii. 26―xi. 18―xii. 2―xiii. 2―xvi. 5―xviii. 6. 9.                                                                            ।
-। **मनः प्रसाद** — xvii. 16.                                                                                                                                                 ।
-। **मनःसष्ठ**―xv.7                                                                                                                                                           ।
-। **मनस्**―i. 30. 60―ii. 55, 67―iii. 6. 7. 40. 42―v. 11, 13. 19―vi. 12. 14. 24, 25.26. 34. 35―vii.4―viii. 10―ix, 34―x. 22―xi. 45―xii. 2. 8―xv. 9―xvii. 11―xviii. 15. 33, 65. ।
-। **मनुष्य**―i. 44―iii. 23―iv. 18―vii. 3―xviii. 69.                                                                                                                          ।
-। **मनुष्यलोके**—xv.2.                                                                                                                                                       ।
-। **मन्मनस**—ix.34—xvii.65.                                                                                                                                                  ।
-। **मन्मथ**—iv.10                                                                                                                                                            ।
-। **मर्त्यलोक**—ix.21.                                                                                                                                                       ।
-। **महद्ब्रह्म**—xiv.3.                                                                                                                                                      ।
-
-
-
-।                                                                                                                      ।
-।----------------------------------------------------------------------------------------------------------------------।
-। **महद्योनिः**—xiv. 4.                                                                                                ।
-। **महात्मन्**—vii. 19—viii. 15—ix. 18—xi. 12. 20. 37, 50—xviii. 74.                                                   ।
-। **महापाप्मा**—iii. 37.                                                                                               ।
-। **महाभूत**——xiii. 5.                                                                                                 ।
-। **महेश्वर**—v.29—x. 3—xiii. 22.                                                                                      ।
-। **मानस्** i. 47—x. 7—xvii. 16.                                                                                       ।
-। **माया**—vii. 14. 15—xviii. 61.                                                                                      ।
-। **मुक्तसंग**—iii. 9—xviii. 26.                                                                                       ।
-। **सुच्यन्ते** iii. 13. 31.                                                                                           ।
-। **मुक्त**—v. 28—xii. 15—xviii. 40. 71.                                                                               ।
-। **सुक्त्वा**—viii. 5.                                                                                                ।
-। **सुमुक्षु** iv. 15.                                                                                                 ।
-। **मूढयोनि**—xiv. 15.                                                                                                 ।
-। **मूर्त्तिं**—iv. 4.                                                                                                 ।
-। **मूल**—xv. 2.                                                                                                       ।
-। **मृत**—ii. 26.27.                                                                                                   ।
-। **मृत्यु**—ii, 27—ix. 3. 19—x. 34—xii. 7—xiii. 8. 25.—xiv, 20.                                                       ।
-। **मोक्ष्यसे**—iv. 16—ix. 28.                                                                                         ।
-। **मोक्ष**—v. 28—vii. 29—xiii. 34—xvii. 25—xviii. 30.                                                                 ।
-। **मोघ**—iii 16—ix. 12.                                                                                               ।
-। **मोह**—iv 35—xi, 1—xiv. 13. 17. 22—xvi. 10—xviii. 7. 25. 60.73.                                                     ।
-। **मोहकलिल**—ii. 52.                                                                                                  ।
-। **मोहजाल**—xvi. 16.                                                                                                  ।
-। **मोहन**—ix. 12—xiv. 8—xviii. 39.                                                                                    ।
-। **मौन**—x. 38—xii. 19—xvii. 16.                                                                                      ।
-। **यजन्त** iv. 12—ix. 15, 23—xvi. 15. 17—xvii. 4. 11. 12—xviii.70.                                                    ।
-। **यज्ञ**—iii. 9. 12. 13. 14. 15—iv. 23. 25. 30. 31. 32. 33—v. 29—viii. 28—ix. 16. 20—x. 25—xi. 48—xvi. 1—xvii, 7. 11 ।
-
-
-
-।                                                                                                                                                                                                         ।
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। 12, 13, 23, 24, 25. 27—xviii. 3. 5.                                                                                                                                                                     ।
-। **यतचेतस्**—v.26                                                                                                                                                                                        ।
-। **यति**—iv. 28—v. 26—viii, 11.                                                                                                                                                                          ।
-। **युक्तचेतस्**—vi. 17, 47—vii. 18. 30—xii. 2.                                                                                                                                                           ।
-। **युक्त**—i. 14—ii. 39. 61—iii. 26—iv. 18. 23—v. 8. 12. 23—vi. 8.14 18—vii. 22—viii. 8. 10—xvii. 17—xviii. 51.                                                                                          ।
-। **युज**—ii. 38, 50—vi. 10. 12. 15. 19. 23—vii: 1—ix. 34—x. 7—xvii. 26.                                                                                                                                  ।
-। **योग**—ii. 39. 48. 50. 53—iv. 1. 2, 3, 28. 38 41. 42—v. 1. 4. 5—vi. 2.3. 4 .12, 16. 17. 19. 20. 23. 33. 36. 37. 44—vii. 1.—viii. 10.12—ix. 5. 22.—x 7. 18—xii. 1. 6. 11—xiii. 24.—xvi 1—xviii. 33. 75. ।
-। **योगमाया**—vii. 25.                                                                                                                                                                                    ।
-। **योगयुक्त**—v. 6. 7—viii. 27 – **आत्मन्** vi. 29.                                                                                                                                                      ।
-। **योगिन्**—iii. 3. iv. 25—v. 11. 24—vi. 1. 2. 8. 10. 15. 19. 27. 28. 31, 32. 42. 45, 46, 47—viii, 14, 23. 25, 27, 28—x. 17.—xii. 14—xv. 11.                                                             ।
-। **योगेश्वर**—xi. 4—xviii. 75. 78.                                                                                                                                                                       ।
-। **योनि**—xiv, 3, 4—xvi. 19. 20.                                                                                                                                                                         ।
-। **रजस्**—iii. 37—xiv. 7. 9, 10, 12, 15. 16. 17—xvii. 1.                                                                                                                                                 ।
-। **रस**—ii, 59—vii. 8.—**आत्मक** xv. 13.                                                                                                                                                                 ।
-। **रहस्य**—iv. 3.                                                                                                                                                                                        ।
-। **राग**—ii, 64—iii. 34—vii, 11—xvii. 5—xviii, 51 **आत्मक**. xiv. 7.                                                                                                                                     ।
-। **रागिन्**—xviii. 27.                                                                                                                                                                                   ।
-। **राजगुह्य**—ix, 2.                                                                                                                                                                                     ।
-। **राजविद्या**—x 2.                                                                                                                                                                                      ।
-। **राजस**—vii. 12—xiv, 18—xvii 2. 4. 9. 12, 18, 21—xviii. 8. 21.24. 27. 31. 34. 38.                                                                                                                      ।
-
-
-
-।                                                                                                                                                                                                    ।
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। **रात्रि**—viii, 17, 25.                                                                                                                                                                           ।
-। **लोक**—iii, 3. 9. 20. 21, 22, 24, 25—iv. 12. 31, 40—v. 14—vi. 41. 42—vii, 25—viii, 16—ix, 33—x. 3. 6. 16—xi, 20. 23. 29. 30, 32, 43—xii, 15 xiii, 33—xiv, 14—xv. 16, 17. 18—xvi. 6—xviii. 17. 71. ।
-। **विद्या**—v. 18 – x.32.                                                                                                                                                                           ।
-। **विभूति**—x. 7. 16, 18. 40.41.                                                                                                                                                                    ।
-। **विषय**—ii. 59. 62, 64—iv. 26—xv. 2. 9—xviii. 38. 51.                                                                                                                                             ।
-। **विषाद**—xviii. 35.                                                                                                                                                                               ।
-। **विष्णु**—x. 21—xi, 24. 30.                                                                                                                                                                       ।
-। **विसर्ग**—viii, 3.                                                                                                                                                                                ।
-। **विसृज्**—1. 47 – v. 9ix, 7, 8,                                                                                                                                                                   ।
-। **वेद**—ii. 42. 45. 46—viii. 28—x. 22—xi. 48. 53—xv. 15. 18—xvii. 23.                                                                                                                              ।
-। **वैराग्य**—vi 35.—xiii. 8—xviii. 52.                                                                                                                                                              ।
-। **वैरिन्**—iii. 37.                                                                                                                                                                                ।
-। **शम**—vi. 3—x, 4—xi. 24—xviii. 42.                                                                                                                                                                ।
-। **शय्या**—xi. 42.                                                                                                                                                                                  ।
-। **शरण**—ii. 49—ix, 18—xviii, 62, 66.                                                                                                                                                               ।
-। **शरीर**—i, 29—ii. 18 22—iii. 8—v. 23—xi, 13—xiii. 1. 31—xv. 8.—xviii. 6. 15.                                                                                                                      ।
-। **शास्त्र**—20—xvi. 23. 24—xvii. 1.                                                                                                                                                                ।
-। **शिष्य** —i. 3—ii. 7.                                                                                                                                                                             ।
-। **शीतोष्ण**—ii. 14—vi. 7.                                                                                                                                                                          ।
-। **शुचि**—vi, 11, 41—xii. 16.                                                                                                                                                                       ।
-। **शुभाशुभ**—ii. 57—xii 17—ix. 28.                                                                                                                                                                  ।
-। **शोक**—i. 47—ii, 8—xvii. 9—xviii, 27, 35.                                                                                                                                                         ।
-। **शौच**—xiii, 7—xvi. 3. 7—xvii. 14—xviii. 42.                                                                                                                                                      ।
-
-
-
-।                                                                                                 ।
-|:------------------------------------------------------------------------------------------------।
-। **श्रद्धा**—iii. 31—iv, 39—xi, 37, 47—vii. 21. 22—ix, 23—xii. 2.20—xvii, 2. 3. 13.17—xviii. 71. ।
-। **श्रुति**—ii, 53—xiii, 25.                                                                     ।
-। **षण्मासाः**—viii. 24. 25.                                                                      ।
-। **संयतेन्द्रिय**—vi. 39.                                                                        ।
-। **संयम्य**—ii, 61—iii, 6—vi, 14—viii, 12.                                                       ।
-। **संयोग**—vi, 23—xiii, 26—xviii, 38.                                                            ।
-। **संशय**—i, 40, 42—vi, 39—viii, 5—x, 7—xii, 8.                                                  ।
-। **संसार**—ix, 3—xii. 7—xvi. 19.                                                                 ।
-। **संसिद्धि**—iii. 20—vi, 43—xiii. 15—xviii. 45.                                                 ।
-। **संसिद्धः**—vi. 45.                                                                            ।
-। **संकल्प**—vi. 4—**प्रभव** vi. 24.                                                              ।
-। **संग्रह**—viii. 11.                                                                            ।
-। **सचारचार**—ix.10—xi. 7.                                                                        ।
-। **सक्त**—iii. 25—v. 12—xviii. 22.                                                               ।
-। **सज्जते**—iii, 28. 29—xiv. 9.                                                                  ।
-। **सञ्जनयन्** – i. 11.                                                                           ।
-। **सत्**—ii. 16—ix. 19—xi. 37—xiii. 12—xvii. 23. 26. 27.                                         ।
-। **सततम्**—iii. 19—vi. 10—viii. 14—ix, 14—xii. 14—xvii, 24—xviii. 57.                            ।
-। **सततयुक्त**—x.10—xii, 1.                                                                       ।
-। **सत्कार**—xvii 18.                                                                             ।
-। **सत्त्व**—x. 36. 41—xiii. 26—xiv. 1. 6. 9. 10. 11. 14. 17. 18—xvii. 1. 3. 8—xviii. 10. 40.     ।
-। **सत्य**—x.4—xvi. 2. 7—xvii 15—xviii. 65.                                                       ।
-। **सदसद्योनि**—xiii. 21.                                                                         ।
-। **सनातन**—i.30—ii. 24—iv. 31—vii. 10—viii. 20—xi. 18—xv. 7.                                     ।
-। **सन्नियम्य**—xii. 4.                                                                           ।
-
-
-
-।                                                                                         ।
-|:----------------------------------------------------------------------------------------।
-। **सन्निविष्ट**—xv. 15.                                                                  ।
-। **सन्नस्य**—iii. 30—v. 13—xii. 6—xviii. 57.                                             ।
-। **स्रन्न्यसन**—iii. 4.                                                                  ।
-। **सन्न्यास**—v.1.2.6—vi. 2—xviii. 1. 2. 7. 49.º**योग** ix. 28.                          ।
-। **सन्न्यासिन्**—vi. 1. 4—xviii. 12.                                                     ।
-। **समचित्तत्त्व**—xiii. 9.                                                               ।
-। **समदर्शन**—vi. 29.                                                                     ।
-। **समदर्शिन्**—v. 18.                                                                    ।
-। **समदुःखसुख**—ii. 15—xii. 13xiv. 24.                                                    ।
-। **समधिगच्छति**—iii. 4.                                                                  ।
-। **समबुद्धि**—vi. 9—xii. 4.                                                              ।
-। **समलोष्टाश्म**—vi. 8—xiv. 24.                                                          ।
-। **समवस्था**—xiii. 28.                                                                   ।
-। **समाचरे**—iii. 9. 19. 26.                                                              ।
-। **समाधि**—ii. 44 53.54.                                                                 ।
-। **समायुज्**—xv. 14.                                                                     ।
-। **समावृत**—vii. 25—xvi. 16.                                                             ।
-। **समास**—xiii. 3. 6. 18—xviii. 50.                                                      ।
-। **सर्ग**—v. 19—vii. 27—x. 32—xiv. 2.                                                    ।
-। **साक्षी**—ix. 18.                                                                      ।
-। **सांख्य**—ii. 39—iii. 3—v. 4. 5—xiii. 24—xviii, 13.                                    ।
-। **सात्त्विकं**—vii. 12—xiv. 16—xvii. 2. 4. 11. 17. 20—xviii. 9. 20. 23. 26. 30. 33. 37. ।
-। **साधर्म्य**—xiv. 2.                                                                    ।
-। **साधिभूताधिदैव**—vii. 30.                                                              ।
-। **साधियज्ञ**—vii. 30.                                                                   ।
-। **साधु**—iv. 8—vi. 9—ix. 30.                                                            ।
-। **सिद्धि**—ii. 49—iii. 4—iv. 12. 22—vii. 8—xii, 10—xiv, 1. xvi.                         ।
-
-
-
-।                                                                                                                            ।
-|:---------------------------------------------------------------------------------------------------------------------------।
-। 23—xviii, 13, 26, 45, 46, 49.50.                                                                                           ।
-। **सिद्ध**—vii. 3—x, 26—xvi, 14.                                                                                            ।
-। **सुकृत्**—ii. 50—v. 15—xiv. 16.                                                                                           ।
-। **सुकृतिन्**—vii. 16.                                                                                                      ।
-। **सुख**—i. 32, 45, 56—ii, 66—iv. 40—v. 21—vi. 21. 27, 28, 32—x. 4—xiii, 6—xiv. 9. 27—xvi. 23—xvii. 8—xviii. 36. 37. 38.39. ।
-। **सुखदुःख**—ii, 7—vi. 7—xii. 18—xiii. **संज्ञैः** xv. 5.                                                                 ।
-। **सुखदुःखद**—ii. 14.                                                                                                       ।
-। **सुखम्**—v. 3, 13. ° **संज्ञेन** xiv. 6.                                                                                  ।
-। **सुखिन्**—i. 37—ii. 32—v. 23—xvi, 14.                                                                                     ।
-। **हतम्**—ii. 19, 37—xi, 34—xvi. 14.                                                                                        ।
-। **हन्ति**—ii, 19. 21—xviii, 17.                                                                                            ।
-। **हन्यते**—ii, 19. 20.                                                                                                     ।
-। **हेतु**—i, 35—ix, 10—xiii, 20—xviii. 15.                                                                                  ।
-। **हेतुमत्**—xiii, 4.                                                                                                       ।
+|                                                                                                                 |
+|:---------------------------------------------------------------------------------------------------------------:|
+|                                                    **INDEX**                                                    |
+|                                            **अंश**—x. 41, 42—xv. 7.                                             |
+| **अकर्त्ता**—iv. 13—v. 14—vii. 5. 6. 12. 25, 26—ix. 5. 9. 19—x. 6—xi.37—xiii. 21. 31—xiv. 12. 19—xviii, 14. 16. |
+|                                   **अकर्म**—ii. 47—iii. 5. 8—iv. 16. 17. 18.                                    |
+|                                        **अकार्य**—xvi. 24—xviii. 30. 31.                                        |
+|                                                **अकाल**—ii. 34.                                                 |
+|                                      **अकृत**—iii. 18—xv. 11—xviii. 6. 16.                                      |
+|                                              **अकृत्स्न**—iii. 29.                                              |
+|                                                **अक्रिय**—vi. 1.                                                |
+|                                               **अक्रोध**—xvi. 2.                                                |
+|                                             **अक्षय**—v. 31—x. 33.                                              |
+|                **अक्षर**—iii. 15—viii. 3. 11. 13, 21—x. 25. 33—xi. 18. 37—xii. 1. 3—xv. 16. 18.                 |
+|                                         **अखिल**—iv. 83—vii. 29—xv. 12.                                         |
+|                            **अग्नि**—iv. 37—viii. 24—ix, 16—xi. 39—xv. 12—xviii. 48.                            |
+|                             **अचल**—ii. 24. 53, 70—vi. 13—vii, 21—viii, 10—xii. 3.                              |
+|                                        **अचेतः**—iii. 32—xv. 11—xvii. 6.                                        |
+|                                       **अच्युत**—i. 21—xi. 42—xviii. 73.                                        |
+|                                      **अज**—ii. 21—iv. 6—vii. 25—x. 3. 12.                                      |
+|                                       **अजानत्**—vii. 24—xi. 41—xiii. 25.                                       |
+|                 **अज्ञान**—iv. 42—v. 15. 16—x. 11—xiii. 11—xiv, 8. 16. 17—xvi. 4. 15—xviii. 72.                 |
+|                                                **अणीय**—viii. 9.                                                |
+|                                    **अधर्म**—i. 40, 41—iv. 7—xviii. 31. 32.                                     |
+|                           **अधिगम्**—ii..71—iv. 39—v. 6. 24—vi. 15—xiv. 19—xviii. 49.                           |
+|                            **अधिदैव**—vii. 30—viii. 1. 4. (also**अधिभूत, अधियज्ञ**)                            |
+|                              **अधिष्ठान**—iii. 40—iv. 6—xiii. 17—xv. 9—xviii, 14.                               |
+
+
+
+|                                                                                       |
+|:--------------------------------------------------------------------------------------|
+| **अध्यात्म**—iii. 30—vii. 29—viii. 1. 3—x. 32—xi. 1—xv. 5—xiii. 11—xv. 5.             |
+| **अनन्तरूप**—xi. 16. 38.                                                              |
+| **अनामय**—ii.51—xiv. 6.                                                               |
+| **अनुशोचन्ति**—ii. 11. 25 seq.—iv. 8.                                                 |
+| **अनुस्मर**—viii. 7. 9, 13.                                                           |
+| **अनेक**—vi, 45—xi, 10, 13. 16. 24—xvi. 16.                                           |
+| **अन्त**—ii. 16.55.72—v. 24—vi. 26—vii. 19. 28—viii. 5. 6—x. 19. 32. 40—xi. 16—xv. 3. |
+| **अन्तर**—v. 24—vi. 47—xi. 20—xiii. 34.                                               |
+| **अन्न**—iii.4.—xv. 14,                                                               |
+| **अन्यदेवता**—vii. 20—ix. 58.                                                         |
+| **अपर**—ii, 22 iv. 4. 25. 27-30—vi. 22—vii. 5—xiii. 24—xvi. 8. 14—xviii. 3.           |
+| **अपहृत**—ii. 44—vii. 15.                                                             |
+| **अपात्र**—xvii. 22.12                                                                |
+| **अप्राप्य**—vi. 37—ix. 3—xvi. 20.                                                   |
+| **अफल**—xvii. 11. 17—xviii. 23.                                                       |
+| **अभय**—x.4—xvi. 1—xviii. 30.                                                         |
+| **अभाव**—ii. 16. 66—x. 4.                                                             |
+| **अभिजानाति**—iv. 14—vii. 13. 25—ix. 24—xviii. 55.                                    |
+| **अभ्यास**—vi. 35. 44—viii. 8—xii. 9. 10. 12—xviii. 36.                               |
+| **अभ्यासयोग**—viii. 8—xii. 9.                                                        |
+| **अमानित्व**—xiii. 7.                                                                 |
+| **अमूढ**—xv. 5.                                                                       |
+| **अमृत**—iv.31—ix. 19—x. 18—xiii, 12—xiv. 20, 27.                                     |
+| **अमृतोपम**—xviii. 37. 38.                                                            |
+| **अयज्ञ**—iv. 31,                                                                     |
+
+
+
+|                                                                                                                                                                                                                                     |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **अयति**—vi. 37.                                                                                                                                                                                                                    |
+| **अयुक्त**—ii. 66—v. 12—xviii. 28.                                                                                                                                                                                                  |
+| **अरागद्वेषतः**—xviii. 23.                                                                                                                                                                                                          |
+| **अवध्य**—ii 30.                                                                                                                                                                                                                    |
+| **अवश**—iii. 5—vi. 44—viii. 19—ix. 8—xviii. 60.                                                                                                                                                                                     |
+| **अविकार्य** ii 25.                                                                                                                                                                                                                 |
+| **अविभक्त**—xiii. 16—xviii. 20.                                                                                                                                                                                                     |
+| **अव्यक्त**—ii. 25. 28—vii. 24—viii. 18. 20. 21—ix. 4—xii. 1. 3. 5. 6—xiii. 5.                                                                                                                                                      |
+| **अव्यय**—ii.17. 21. 34—iv 1. 13—vii. 13. 24. 25—ix. 2. 13. 18.—xi. 2.4. 18—xiii. 31—xiv. 5. 27—xv. 1. 5. 17—xviii. 20.56.                                                                                                          |
+| **अव्यवसायी**—ii. 41.                                                                                                                                                                                                               |
+| **अशान्त**—ii 66.                                                                                                                                                                                                                   |
+| **असक्त**—iii. 7. 19. 25—v. 21—ix. 9—xiii. 9. 14—xviii. 49.                                                                                                                                                                         |
+| **असङ्गशस्र**—xiii. 5.                                                                                                                                                                                                              |
+| **असत्**—ii—16—ix, 19—xi 37—xiii. 12—xvii. 28.                                                                                                                                                                                      |
+| **असन्न्यस्तसङ्कल्प**——vi. 2.                                                                                                                                                                                                       |
+| **असिद्धि**—ii.48—iv. 22—xviii. 26.                                                                                                                                                                                                |
+| **असुर**—xi. 22.                                                                                                                                                                                                                    |
+| **अहंकार**—iii.27—vii. 4—xiii. 5—xvi. 18—xvii. 5—xviii. 17. 58. 59.                                                                                                                                                                 |
+| **आत्मा**—ii. 55—iii. 13. 17. 43—iv. 7. 35. 38. 42—v. 7. 16 21—vi 5. 6. 7. 8. 10. 11. 15. 18. 19. 20. 26—vii. 18—viii. 12—1x. 5. 28. 34—x. 15. 18. 20—xi. 3. 4—xiii. 24. 28. 29. 32.—xv. 11—xvi. 21. 22—xvii. 19—xviii. 16. 39. 51. |
+| **आत्मवत्**—ii.45—iv. 41.                                                                                                                                                                                                           |
+| **आव्**—iii. 38. 39. 40—v. 15—xiv, 9—xviii. 32. 48.                                                                                                                                                                                 |
+
+
+
+|                                                                                                                                                                                                                                                                                                                                                  |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **आसुर**—vii. 15—ix. 19—xvi. 4. 5. 6. 7. 19. 20—xvii. 6.                                                                                                                                                                                                                                                                                         |
+| **आहार**—xvii. 7. 8. 9.                                                                                                                                                                                                                                                                                                                          |
+| **इन्द्रिय**—ii 8. 58. 60. 61. 64. 67—iii. 7. 34. 40. 41. 42—iv. 26.27 v. 9. 11—x. 22—xii. 14—xiii. 5—xv. 7—xviii. 33.38—vi. 24.                                                                                                                                                                                                                |
+| **ईश्वर**—iv. 6—xiii. 28—xv. 8. 17—xvi. 14.                                                                                                                                                                                                                                                                                                      |
+| **उत्तरायण**—viii. 24.                                                                                                                                                                                                                                                                                                                           |
+| **उत्या**—ii. 3. 37—iv. 42—xi. 12. 33.                                                                                                                                                                                                                                                                                                           |
+| **उदार**—vii. 18.                                                                                                                                                                                                                                                                                                                                |
+| **उदास**—vi. 9—ix, 9—xii. 16—xiv. 23.                                                                                                                                                                                                                                                                                                            |
+| **एक**—ii. 41—iii. 2—v. 1. 4, 5—vi. 31—viii. 26—ix. 15.—x. 25.42—xi. 7. 13. 20. 42—xiii. 5..30, 33—xviii. 3. 20. 22.66.                                                                                                                                                                                                                          |
+| **ओम्**—xvii. 23. 24.                                                                                                                                                                                                                                                                                                                            |
+| **कर्त्तु**—iii. 24. 27—iv. 13—v. 14—xiii, 20—xiv. 19—xviii. 14. 16.18. 19. 26. 27. 28.                                                                                                                                                                                                                                                          |
+| **कर्मचोदना**—xviii. 18.                                                                                                                                                                                                                                                                                                                         |
+| **कर्मज**—ii. 51—iv. 12. 32.                                                                                                                                                                                                                                                                                                                     |
+| **कर्म**—ii. 47. 48. 49. 50—iii. 1. 4. 5. 8. 9. 15. 19, 20. 22. 23. 24.25. 27. 30. 31—iv. 9. 12, 14. 15. 16. 17. 18. 20. 21. 23.33. 41—v. 1. 10. 11. 14—vi. 1. 3. 4. 17—vii. 29—viii.1—ix. 9—xii. 6. 10—xiii. 29—xiv. 9. 12. 16—xvi. 24—xvii 26. 27—xviii. 2. 3. 6. 7. 8. 9. 10. 11. 12.15. 18. 19. 23. 24. 25. 41. 43. 44. 45. 47. 48. 60. |
+| **कर्मफल**—iv. 14—v. 12—vi. 1—xii. 11. 12—xviii, 11.                                                                                                                                                                                                                                                                                             |
+| **कर्मयोग**—iii, 3. 7—v. 2—xiii. 24.                                                                                                                                                                                                                                                                                                             |
+| **काम**—ii. 55. 62, 70. 71—iii. 37—vi. 24—vii. 11. 20. 22—xvi.10. 18. 21—xvii. 5—xviii. 34. 53.                                                                                                                                                                                                                                                  |
+| **कूटस्य**—vi. 8—xii. 3—xv. 16.                                                                                                                                                                                                                                                                                                                  |
+
+
+
+|                                                                                                                                                                                         |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **कौशल**—ii. 50.                                                                                                                                                                        |
+| **क्रोध**—ii. 62. 63—iii. 37—xvi. 4. 18. 21—xviii. 53.                                                                                                                                  |
+| **क्षेत्र**—xiii. 1. 2. 3. 6. 18. 26. 33. 34.                                                                                                                                           |
+| **क्षेत्रज्ञ**—xiii. 1. 2. 26. 34.                                                                                                                                                      |
+| **गतव्यथ**—xii 16.                                                                                                                                                                      |
+| **गतसङ्ग**—ix. 23.                                                                                                                                                                      |
+| **गुण**—iii. 5. 27. 28. 29—iv. 13—xiiii. 19. 21. 23—xiv. 5. 19. 20. 21. 23. 26—xviii. 29. 40. 41.                                                                                       |
+| **गुह्य**—x. 38—xi. 1—xviii. 63. 68. 75.                                                                                                                                                |
+| **गुह्यतम**—ix. 1—xv. 20—xviii. 64.                                                                                                                                                     |
+| **चञ्चल**—vi. 26. 33. 34.                                                                                                                                                               |
+| **चतुर्विध**—vii. 16—xv. 14.                                                                                                                                                            |
+| **चित्त**—vi. 18.20—xii. 8.                                                                                                                                                             |
+| **चेतस्**—i. 38—ii. 7—viii. 8—xviii. 57. 72.                                                                                                                                            |
+| **छिद्**—ii. 23—iv. 42—v. 25—vi. 38. 39—xv. 3—xviii. 10.                                                                                                                                |
+| **जगत्**—vii. 5. 6. 13—viii. 26—ix. 4. 10. 17—x. 42—xi. 7. 13. 30. 36—xv. 12—xvi. 8. 9.                                                                                                 |
+| **जन्**—i. 29. 41—ii, 27—iii. 26—x. 6—xiv. 12. 13. 15.                                                                                                                                  |
+| **ज्ञा**—i. 38—iv 15. 16. 32. 35—v. 3. 29.—vii. 1. 2—viii. 2. 27—ix. 13—xi. 25. 54—xiii. 12. 16. 17. 18—xiv. 1—xv. 19—xvi. 24—xviii. 18. 55.                                            |
+| **ज्ञान**—iii. 39. 40. 41—iv. 33. 34. 38. 39—v. 15. 16—vi. 8—vii. 2—ix. 1—x. 4. 38. 42—xii. 12—xiii. 2. 11. 17. 18—xiv. 1.2. 9. 11. 17—xv. 15—xvi. 1—xviii. 18. 19. 20. 21. 42. 50. 63. |
+| **ज्ञानयज्ञ—**iv.33—ix.15—xviii. 70.                                                                                                                                                   |
+| **ज्ञानी—**iii.39—iv.34—vi.46—vii.16.17.18.                                                                                                                                             |
+| **तत्त्व—**vi. 21—ix. 24—xi. 54—xviii. 1.                                                                                                                                               |
+
+
+
+|                                                                                          |
+|:-----------------------------------------------------------------------------------------|
+| **तत्त्वतस्**—iv. 9.—vii. 3—x. 7—xviii. 55.                                              |
+| **तमस्**—x. 11—xiii. 17—xiv. 8. 9. 10. 13. 15. 16. 17—xvi. 52—xvii. 1—xviii. 32.         |
+| **तुल्य**—xii. 19—xiv. 24. 25.                                                           |
+| **त्रिविध**—xvi. 21—xvii. 2. 7. 17. 23—xviii. 4. 12. 18. 29. 36.                         |
+| **दान**—viii. 28—x. 5.—xi. 48. 53—xvi. 1—xvii. 7. 20. 21. 22.24. 25. 27—xviii. 3. 5. 43. |
+| **दानव**—x.14.                                                                           |
+| **दुःख**—ii. 56—vi 22, 23. 32—x. 4—xiii, 6. 8—xiv. 16—xvii. 9.                           |
+| **देह**—ii. 13. 18. 30—iv. 9—viii. 2. 4. 13—xi. 7. 15—xiii. 22. 32—xiv. 5. 11—xv. 14.    |
+| **देहभृत्**—viii. 4 xiv. 14—xviii. 11.                                                   |
+| **देही**—ii. 13. 22. 30. 59—iii. 40—xiv. 5. 7. 20—xvii. 2.                               |
+| **दैव**—iv. 25—vii. 14—ix. 13—xvi. 3. 5. 6—xviii. 14.                                    |
+| **द्विष्**—ii. 57—v. 3—vi. 9—iv. 29—xii. 17—xiv. 22—xvi. 19—xviii. 10.                   |
+| **धर्म**—i. 40—ii, 7. 40—iv. 7. 8—ix. 3—xiv. 27—xviii. 31. 32. 34.                       |
+| **निराशीः**—iii. 30—iv. 21—vi. 10.                                                       |
+| **निर्मम**—ii, 71—iii. 30—xviii. 53.                                                     |
+| **निर्योगक्षेम**—ii. 45.                                                                 |
+| **पञ्च**—xiii. 5—xviii. 13. 15.                                                          |
+| **फल**—ii. 47.49 51.—v. 4. 12.—vii. 23—ix, 26—xiv. 16—xvii. 12.21. 25—xviii. 6. 9. 12.   |
+| **बन्ध**—iv. 14,—xiv. 6.—xvi. 12.                                                        |
+| **बन्ध**—v. 3.—xviii, 30.                                                                |
+| **बहूनि जन्मानि —**iv. 5—vii. 19.                                                        |
+| **बीज**—vii. 10—іх. 18—х, 39.— xiv. 4                                                    |
+| **बुद्धि**— (and derivatives) ii. 39. 41. 44. 49. 50. 51, 52, 53, 65.                    |
+
+
+
+|                                                                                                                                                         |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 66\. iii. 1. 8. 26, 40, 42. 43.—iv. 17, 18, 19—v. 11—vi. 21, 22, 25, 43—vii, 4, 10—x. 4. 8. 9. 10—xii. 8—xiii. 5. xv. 20—xviii, 17, 29. 30. 32, 51, 57. |
+| **ब्रह्मकर्मन्**—xviii. 42.                                                                                                                             |
+| **ब्रह्मकर्मसमाधिना**—iv. 24.                                                                                                                           |
+| **ब्रह्मचर्यम्**—xvii. 14.                                                                                                                              |
+| **ब्रह्मचारिव्रत**—vi. 14.                                                                                                                              |
+| **ब्रह्म**—iii. 15—iv, 24, 31, 32—v,6 10, 19—vi. 38—vii. 29—viii. 1.3. 17. 24—x. 12—xi, 15, 37—xii, 12. 30—xiv. 3. 4. 27—xvii. 23—xviii. 50.            |
+| **ब्रह्मनिर्वाण**——72 – v. 24, 25, 26.                                                                                                                  |
+| **ब्रह्मभुवन**—viii. 16.                                                                                                                                |
+| **ब्रह्मभुत**—v.24—vi. 27—xviii. 54.                                                                                                                    |
+| **ब्रह्मभूय**—xiv. 26—xviii. 53.                                                                                                                        |
+| **ब्रह्मयोग**—v. 21.                                                                                                                                    |
+| **ब्रह्मवादिन्**—xvii. 24.                                                                                                                              |
+| **ब्रह्मवत्**—viii.24.                                                                                                                                  |
+| **ब्रह्मसंस्पर्श**—vi. 28.                                                                                                                              |
+| **ब्रह्मसूत्र**—xiii .4.                                                                                                                                |
+| **ब्रह्माग्नि**—iv. 24. 25.                                                                                                                             |
+| **ब्रह्मोद्भव**—iii, 15.                                                                                                                                |
+| **ब्राह्मी**—ii. 72.                                                                                                                                    |
+| **ब्राह्मणे—**ii. 46**—**v. 18**—**ix. 33**—**xvii, 23**—**xviii, 41.                                                                                   |
+| **भक्त्या** **—**viii. 10. 22**—**ix.14.26. 29**—**xi. 54**—**xvii, 55.                                                                                 |
+| **भक्ति—**ix, 26**—**xii. 17. 19**—**xiii, 10**—**xviii, 54, 68                                                                                         |
+| **भक्तियोग**-xiv. 26.                                                                                                                                   |
+| **भक्त—**ix.3**—**vii, 21**—**ix. 23. 31. 33. 34**—**xii. 1. 20                                                                                         |
+| **भस्मसात्****—**iv. 37.                                                                                                                               |
+
+
+
+|                                                                                                                                                                            |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **भाव**―ii. 16―vii. 12. 13, 15, 24―viii. 4. 5.6. 20―x. 5.17―xviii.17.20.                                                                                                   |
+| **भूतानि**―ii, 28. 34. 69―iii. 14. 33―iv. 6. 35―vii, 11, 26―viii.20, 22―ix. 5. 25―x. 5, 20. 22. 39―xi. 2.―xiii. 15. 16. 27. 30―xiv. 3―xv. 13. 16―xvi. 2―xviii, 21. 46. 54. |
+| **भूतप्रकृति**―xiii. 34.                                                                                                                                                   |
+| **भोक्तृ**―v. 29―ix, 24―xiii. 22.                                                                                                                                          |
+| **मत्पर**―ii, 61―vi. 14―xii. 6―xviii. 57.                                                                                                                                  |
+| **मत्परम्**―xi. 55―xii. 20.                                                                                                                                                |
+| **मत्परायण**―ix. 34.                                                                                                                                                       |
+| **मत्संस्था**―vi. 15.                                                                                                                                                      |
+| **मत्स्थानि**―ix. 4. 5. 6.                                                                                                                                                 |
+| **मद्भक्त**―vii, 23―ix. 34―xi. 55―xii. 14, 16―xiii, 18―xviii, 65.68.                                                                                                       |
+| **मद्भाव**―iv. 10―x. 6―xiii. 18―xiv. 19.                                                                                                                                   |
+| **मन्**―iii. 28―xi, 41.                                                                                                                                                    |
+| **मत**―iii, 1, 31, 32―vi, 32, 46, 47―vii. 18―viii. 26―xi. 18―xii. 2―xiii. 2―xvi. 5―xviii. 6. 9.                                                                            |
+| **मनः प्रसाद** — xvii. 16.                                                                                                                                                 |
+| **मनःसष्ठ**―xv.7                                                                                                                                                           |
+| **मनस्**―i. 30. 60―ii. 55, 67―iii. 6. 7. 40. 42―v. 11, 13. 19―vi. 12. 14. 24, 25.26. 34. 35―vii.4―viii. 10―ix, 34―x. 22―xi. 45―xii. 2. 8―xv. 9―xvii. 11―xviii. 15. 33, 65. |
+| **मनुष्य**―i. 44―iii. 23―iv. 18―vii. 3―xviii. 69.                                                                                                                          |
+| **मनुष्यलोके**—xv.2.                                                                                                                                                       |
+| **मन्मनस**—ix.34—xvii.65.                                                                                                                                                  |
+| **मन्मथ**—iv.10                                                                                                                                                            |
+| **मर्त्यलोक**—ix.21.                                                                                                                                                       |
+| **महद्ब्रह्म**—xiv.3.                                                                                                                                                      |
+
+
+
+|                                                                                                                      |
+|----------------------------------------------------------------------------------------------------------------------|
+| **महद्योनिः**—xiv. 4.                                                                                                |
+| **महात्मन्**—vii. 19—viii. 15—ix. 18—xi. 12. 20. 37, 50—xviii. 74.                                                   |
+| **महापाप्मा**—iii. 37.                                                                                               |
+| **महाभूत**——xiii. 5.                                                                                                 |
+| **महेश्वर**—v.29—x. 3—xiii. 22.                                                                                      |
+| **मानस्** i. 47—x. 7—xvii. 16.                                                                                       |
+| **माया**—vii. 14. 15—xviii. 61.                                                                                      |
+| **मुक्तसंग**—iii. 9—xviii. 26.                                                                                       |
+| **सुच्यन्ते** iii. 13. 31.                                                                                           |
+| **मुक्त**—v. 28—xii. 15—xviii. 40. 71.                                                                               |
+| **सुक्त्वा**—viii. 5.                                                                                                |
+| **सुमुक्षु** iv. 15.                                                                                                 |
+| **मूढयोनि**—xiv. 15.                                                                                                 |
+| **मूर्त्तिं**—iv. 4.                                                                                                 |
+| **मूल**—xv. 2.                                                                                                       |
+| **मृत**—ii. 26.27.                                                                                                   |
+| **मृत्यु**—ii, 27—ix. 3. 19—x. 34—xii. 7—xiii. 8. 25.—xiv, 20.                                                       |
+| **मोक्ष्यसे**—iv. 16—ix. 28.                                                                                         |
+| **मोक्ष**—v. 28—vii. 29—xiii. 34—xvii. 25—xviii. 30.                                                                 |
+| **मोघ**—iii 16—ix. 12.                                                                                               |
+| **मोह**—iv 35—xi, 1—xiv. 13. 17. 22—xvi. 10—xviii. 7. 25. 60.73.                                                     |
+| **मोहकलिल**—ii. 52.                                                                                                  |
+| **मोहजाल**—xvi. 16.                                                                                                  |
+| **मोहन**—ix. 12—xiv. 8—xviii. 39.                                                                                    |
+| **मौन**—x. 38—xii. 19—xvii. 16.                                                                                      |
+| **यजन्त** iv. 12—ix. 15, 23—xvi. 15. 17—xvii. 4. 11. 12—xviii.70.                                                    |
+| **यज्ञ**—iii. 9. 12. 13. 14. 15—iv. 23. 25. 30. 31. 32. 33—v. 29—viii. 28—ix. 16. 20—x. 25—xi. 48—xvi. 1—xvii, 7. 11 |
+
+
+
+|                                                                                                                                                                                                         |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 12, 13, 23, 24, 25. 27—xviii. 3. 5.                                                                                                                                                                     |
+| **यतचेतस्**—v.26                                                                                                                                                                                        |
+| **यति**—iv. 28—v. 26—viii, 11.                                                                                                                                                                          |
+| **युक्तचेतस्**—vi. 17, 47—vii. 18. 30—xii. 2.                                                                                                                                                           |
+| **युक्त**—i. 14—ii. 39. 61—iii. 26—iv. 18. 23—v. 8. 12. 23—vi. 8.14 18—vii. 22—viii. 8. 10—xvii. 17—xviii. 51.                                                                                          |
+| **युज**—ii. 38, 50—vi. 10. 12. 15. 19. 23—vii: 1—ix. 34—x. 7—xvii. 26.                                                                                                                                  |
+| **योग**—ii. 39. 48. 50. 53—iv. 1. 2, 3, 28. 38 41. 42—v. 1. 4. 5—vi. 2.3. 4 .12, 16. 17. 19. 20. 23. 33. 36. 37. 44—vii. 1.—viii. 10.12—ix. 5. 22.—x 7. 18—xii. 1. 6. 11—xiii. 24.—xvi 1—xviii. 33. 75. |
+| **योगमाया**—vii. 25.                                                                                                                                                                                    |
+| **योगयुक्त**—v. 6. 7—viii. 27 – **आत्मन्** vi. 29.                                                                                                                                                      |
+| **योगिन्**—iii. 3. iv. 25—v. 11. 24—vi. 1. 2. 8. 10. 15. 19. 27. 28. 31, 32. 42. 45, 46, 47—viii, 14, 23. 25, 27, 28—x. 17.—xii. 14—xv. 11.                                                             |
+| **योगेश्वर**—xi. 4—xviii. 75. 78.                                                                                                                                                                       |
+| **योनि**—xiv, 3, 4—xvi. 19. 20.                                                                                                                                                                         |
+| **रजस्**—iii. 37—xiv. 7. 9, 10, 12, 15. 16. 17—xvii. 1.                                                                                                                                                 |
+| **रस**—ii, 59—vii. 8.—**आत्मक** xv. 13.                                                                                                                                                                 |
+| **रहस्य**—iv. 3.                                                                                                                                                                                        |
+| **राग**—ii, 64—iii. 34—vii, 11—xvii. 5—xviii, 51 **आत्मक**. xiv. 7.                                                                                                                                     |
+| **रागिन्**—xviii. 27.                                                                                                                                                                                   |
+| **राजगुह्य**—ix, 2.                                                                                                                                                                                     |
+| **राजविद्या**—x 2.                                                                                                                                                                                      |
+| **राजस**—vii. 12—xiv, 18—xvii 2. 4. 9. 12, 18, 21—xviii. 8. 21.24. 27. 31. 34. 38.                                                                                                                      |
+
+
+
+|                                                                                                                                                                                                    |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **रात्रि**—viii, 17, 25.                                                                                                                                                                           |
+| **लोक**—iii, 3. 9. 20. 21, 22, 24, 25—iv. 12. 31, 40—v. 14—vi. 41. 42—vii, 25—viii, 16—ix, 33—x. 3. 6. 16—xi, 20. 23. 29. 30, 32, 43—xii, 15 xiii, 33—xiv, 14—xv. 16, 17. 18—xvi. 6—xviii. 17. 71. |
+| **विद्या**—v. 18 – x.32.                                                                                                                                                                           |
+| **विभूति**—x. 7. 16, 18. 40.41.                                                                                                                                                                    |
+| **विषय**—ii. 59. 62, 64—iv. 26—xv. 2. 9—xviii. 38. 51.                                                                                                                                             |
+| **विषाद**—xviii. 35.                                                                                                                                                                               |
+| **विष्णु**—x. 21—xi, 24. 30.                                                                                                                                                                       |
+| **विसर्ग**—viii, 3.                                                                                                                                                                                |
+| **विसृज्**—1. 47 – v. 9ix, 7, 8,                                                                                                                                                                   |
+| **वेद**—ii. 42. 45. 46—viii. 28—x. 22—xi. 48. 53—xv. 15. 18—xvii. 23.                                                                                                                              |
+| **वैराग्य**—vi 35.—xiii. 8—xviii. 52.                                                                                                                                                              |
+| **वैरिन्**—iii. 37.                                                                                                                                                                                |
+| **शम**—vi. 3—x, 4—xi. 24—xviii. 42.                                                                                                                                                                |
+| **शय्या**—xi. 42.                                                                                                                                                                                  |
+| **शरण**—ii. 49—ix, 18—xviii, 62, 66.                                                                                                                                                               |
+| **शरीर**—i, 29—ii. 18 22—iii. 8—v. 23—xi, 13—xiii. 1. 31—xv. 8.—xviii. 6. 15.                                                                                                                      |
+| **शास्त्र**—20—xvi. 23. 24—xvii. 1.                                                                                                                                                                |
+| **शिष्य** —i. 3—ii. 7.                                                                                                                                                                             |
+| **शीतोष्ण**—ii. 14—vi. 7.                                                                                                                                                                          |
+| **शुचि**—vi, 11, 41—xii. 16.                                                                                                                                                                       |
+| **शुभाशुभ**—ii. 57—xii 17—ix. 28.                                                                                                                                                                  |
+| **शोक**—i. 47—ii, 8—xvii. 9—xviii, 27, 35.                                                                                                                                                         |
+| **शौच**—xiii, 7—xvi. 3. 7—xvii. 14—xviii. 42.                                                                                                                                                      |
+
+
+
+|                                                                                                 |
+|:------------------------------------------------------------------------------------------------|
+| **श्रद्धा**—iii. 31—iv, 39—xi, 37, 47—vii. 21. 22—ix, 23—xii. 2.20—xvii, 2. 3. 13.17—xviii. 71. |
+| **श्रुति**—ii, 53—xiii, 25.                                                                     |
+| **षण्मासाः**—viii. 24. 25.                                                                      |
+| **संयतेन्द्रिय**—vi. 39.                                                                        |
+| **संयम्य**—ii, 61—iii, 6—vi, 14—viii, 12.                                                       |
+| **संयोग**—vi, 23—xiii, 26—xviii, 38.                                                            |
+| **संशय**—i, 40, 42—vi, 39—viii, 5—x, 7—xii, 8.                                                  |
+| **संसार**—ix, 3—xii. 7—xvi. 19.                                                                 |
+| **संसिद्धि**—iii. 20—vi, 43—xiii. 15—xviii. 45.                                                 |
+| **संसिद्धः**—vi. 45.                                                                            |
+| **संकल्प**—vi. 4—**प्रभव** vi. 24.                                                              |
+| **संग्रह**—viii. 11.                                                                            |
+| **सचारचार**—ix.10—xi. 7.                                                                        |
+| **सक्त**—iii. 25—v. 12—xviii. 22.                                                               |
+| **सज्जते**—iii, 28. 29—xiv. 9.                                                                  |
+| **सञ्जनयन्** – i. 11.                                                                           |
+| **सत्**—ii. 16—ix. 19—xi. 37—xiii. 12—xvii. 23. 26. 27.                                         |
+| **सततम्**—iii. 19—vi. 10—viii. 14—ix, 14—xii. 14—xvii, 24—xviii. 57.                            |
+| **सततयुक्त**—x.10—xii, 1.                                                                       |
+| **सत्कार**—xvii 18.                                                                             |
+| **सत्त्व**—x. 36. 41—xiii. 26—xiv. 1. 6. 9. 10. 11. 14. 17. 18—xvii. 1. 3. 8—xviii. 10. 40.     |
+| **सत्य**—x.4—xvi. 2. 7—xvii 15—xviii. 65.                                                       |
+| **सदसद्योनि**—xiii. 21.                                                                         |
+| **सनातन**—i.30—ii. 24—iv. 31—vii. 10—viii. 20—xi. 18—xv. 7.                                     |
+| **सन्नियम्य**—xii. 4.                                                                           |
+
+
+
+|                                                                                         |
+|:----------------------------------------------------------------------------------------|
+| **सन्निविष्ट**—xv. 15.                                                                  |
+| **सन्नस्य**—iii. 30—v. 13—xii. 6—xviii. 57.                                             |
+| **स्रन्न्यसन**—iii. 4.                                                                  |
+| **सन्न्यास**—v.1.2.6—vi. 2—xviii. 1. 2. 7. 49.º**योग** ix. 28.                          |
+| **सन्न्यासिन्**—vi. 1. 4—xviii. 12.                                                     |
+| **समचित्तत्त्व**—xiii. 9.                                                               |
+| **समदर्शन**—vi. 29.                                                                     |
+| **समदर्शिन्**—v. 18.                                                                    |
+| **समदुःखसुख**—ii. 15—xii. 13xiv. 24.                                                    |
+| **समधिगच्छति**—iii. 4.                                                                  |
+| **समबुद्धि**—vi. 9—xii. 4.                                                              |
+| **समलोष्टाश्म**—vi. 8—xiv. 24.                                                          |
+| **समवस्था**—xiii. 28.                                                                   |
+| **समाचरे**—iii. 9. 19. 26.                                                              |
+| **समाधि**—ii. 44 53.54.                                                                 |
+| **समायुज्**—xv. 14.                                                                     |
+| **समावृत**—vii. 25—xvi. 16.                                                             |
+| **समास**—xiii. 3. 6. 18—xviii. 50.                                                      |
+| **सर्ग**—v. 19—vii. 27—x. 32—xiv. 2.                                                    |
+| **साक्षी**—ix. 18.                                                                      |
+| **सांख्य**—ii. 39—iii. 3—v. 4. 5—xiii. 24—xviii, 13.                                    |
+| **सात्त्विकं**—vii. 12—xiv. 16—xvii. 2. 4. 11. 17. 20—xviii. 9. 20. 23. 26. 30. 33. 37. |
+| **साधर्म्य**—xiv. 2.                                                                    |
+| **साधिभूताधिदैव**—vii. 30.                                                              |
+| **साधियज्ञ**—vii. 30.                                                                   |
+| **साधु**—iv. 8—vi. 9—ix. 30.                                                            |
+| **सिद्धि**—ii. 49—iii. 4—iv. 12. 22—vii. 8—xii, 10—xiv, 1. xvi.                         |
+
+
+
+|                                                                                                                            |
+|:---------------------------------------------------------------------------------------------------------------------------|
+| 23—xviii, 13, 26, 45, 46, 49.50.                                                                                           |
+| **सिद्ध**—vii. 3—x, 26—xvi, 14.                                                                                            |
+| **सुकृत्**—ii. 50—v. 15—xiv. 16.                                                                                           |
+| **सुकृतिन्**—vii. 16.                                                                                                      |
+| **सुख**—i. 32, 45, 56—ii, 66—iv. 40—v. 21—vi. 21. 27, 28, 32—x. 4—xiii, 6—xiv. 9. 27—xvi. 23—xvii. 8—xviii. 36. 37. 38.39. |
+| **सुखदुःख**—ii, 7—vi. 7—xii. 18—xiii. **संज्ञैः** xv. 5.                                                                 |
+| **सुखदुःखद**—ii. 14.                                                                                                       |
+| **सुखम्**—v. 3, 13. ° **संज्ञेन** xiv. 6.                                                                                  |
+| **सुखिन्**—i. 37—ii. 32—v. 23—xvi, 14.                                                                                     |
+| **हतम्**—ii. 19, 37—xi, 34—xvi. 14.                                                                                        |
+| **हन्ति**—ii, 19. 21—xviii, 17.                                                                                            |
+| **हन्यते**—ii, 19. 20.                                                                                                     |
+| **हेतु**—i, 35—ix, 10—xiii, 20—xviii. 15.                                                                                  |
+| **हेतुमत्**—xiii, 4.                                                                                                       |
 
 
 

@@ -89,69 +89,69 @@ CONTENTS OF VOLUME IV
 
 
 
-।                                                                                                                   ।
-।-------------------------------------------------------------------------------------------------------------------।
-। WILSON PHILOLOGICAL LECTURES ON SANSKRIT AND THE DERIVED LANGUAGES                                                ।
-। LECTURE I— General Laws guiding the Development of Language: The different stages in the Development of Sanskrit ।
-। Preliminary                                                                                                       ।
-। Sanskrit: its importance                                                                                          ।
-। Phonetic decay                                                                                                    ।
-। Śvāsa: Nāda                                                                                                       ।
-। False analogies                                                                                                   ।
-। Names of Objects                                                                                                  ।
-। Gradual disappearance of words                                                                                    ।
-। Three Languages of the world                                                                                      ।
-। Three Varieties of Sanskrit                                                                                       ।
-। Chief characteristics of Vedic Sanskrit; an example of Vedic Sanskrit                                             ।
-। -Do- of Brāhmaṇa passage; its peculiarities                                                                       ।
-। The next stage of Sanskrit                                                                                        ।
-। The fluent and nominal styles                                                                                     ।
-। The petrified or nominal stage                                                                                    ।
-। The nominal stage cultivated in philosophical writings.                                                           ।
-। Middle stage of writing : Sanskrit of Śamkarācārya                                                                ।
-। Change of Style after Śamkarācārya                                                                                ।
-। Real style of Sanskrit                                                                                            ।
-। Kātyāyana, his evidence about the Sanskrit style                                                                  ।
-। Conclusion that verbal forms had been obsolete and participles were used in their place                           ।
-। Places and rules in which Pāṇini had become obsolete                                                              ।
-। Conclusion from this.                                                                                             ।
-। Pāṇini's Grammar contains the Middle Sanskrit and Kātyāyana's, the Classical Sanskrit                             ।
-। LECTURE II—Pali and the Dialects of the Period                                                                    ।
-। Sanskrit corrupted in course of time                                                                              ।
-। Examples from Pali                                                                                                ।
-। Phonology of the Pali Dialect—Pronouncing a Conjunct:                                                             ।
-। Śvāsa: Nāda                                                                                                       ।
+|                                                                                                                   |
+|-------------------------------------------------------------------------------------------------------------------|
+| WILSON PHILOLOGICAL LECTURES ON SANSKRIT AND THE DERIVED LANGUAGES                                                |
+| LECTURE I— General Laws guiding the Development of Language: The different stages in the Development of Sanskrit |
+| Preliminary                                                                                                       |
+| Sanskrit: its importance                                                                                          |
+| Phonetic decay                                                                                                    |
+| Śvāsa: Nāda                                                                                                       |
+| False analogies                                                                                                   |
+| Names of Objects                                                                                                  |
+| Gradual disappearance of words                                                                                    |
+| Three Languages of the world                                                                                      |
+| Three Varieties of Sanskrit                                                                                       |
+| Chief characteristics of Vedic Sanskrit; an example of Vedic Sanskrit                                             |
+| -Do- of Brāhmaṇa passage; its peculiarities                                                                       |
+| The next stage of Sanskrit                                                                                        |
+| The fluent and nominal styles                                                                                     |
+| The petrified or nominal stage                                                                                    |
+| The nominal stage cultivated in philosophical writings.                                                           |
+| Middle stage of writing : Sanskrit of Śamkarācārya                                                                |
+| Change of Style after Śamkarācārya                                                                                |
+| Real style of Sanskrit                                                                                            |
+| Kātyāyana, his evidence about the Sanskrit style                                                                  |
+| Conclusion that verbal forms had been obsolete and participles were used in their place                           |
+| Places and rules in which Pāṇini had become obsolete                                                              |
+| Conclusion from this.                                                                                             |
+| Pāṇini's Grammar contains the Middle Sanskrit and Kātyāyana's, the Classical Sanskrit                             |
+| LECTURE II—Pali and the Dialects of the Period                                                                    |
+| Sanskrit corrupted in course of time                                                                              |
+| Examples from Pali                                                                                                |
+| Phonology of the Pali Dialect—Pronouncing a Conjunct:                                                             |
+| Śvāsa: Nāda                                                                                                       |
 
 
 
-।                                                                                                              ।
-।--------------------------------------------------------------------------------------------------------------।
-। No Pali consonants omitted by Pali speakers                                                                  ।
-। Exceptions to the above                                                                                      ।
-। Changes of single consonants                                                                                 ।
-। Mātrā                                                                                                        ।
-। Possible influence of aliens on language modification                                                        ।
-। Assimilation of Consonants a universal rule in Pali                                                          ।
-। Several words, unknown to Sanskrit, but formed from Sanskrit, coming into use.                               ।
-। Grammar of the Pali Dialect                                                                                  ।
-। The Noun: Masculine Nouns ending in अ                                                                        ।
-। Masculine Nouns in इ and उ                                                                                   ।
-। Masculine Nouns in ऋ                                                                                         ।
-। Masculine Nouns in a consonant                                                                               ।
-। Feminine Nouns                                                                                               ।
-। Neuter Nouns                                                                                                 ।
-। Pronouns                                                                                                     ।
-। False Analogies or Generalisations: false ideas regarding some of these                                      ।
-। The Verb in Pali                                                                                             ।
-। Terminations in Pali                                                                                         ।
-। The Grammar of Aśoka Inscriptions: their place                                                               ।
-। Examples of Aśoka Inscriptions                                                                               ।
-। Resemblance of some Inscriptions in Pali to Sanskrit                                                         ।
-। LECTURE III — The Prakrits and the Apabhraṁśa                                                                ।
-। Prakrits: Vararuci's Prākṛtaprakāśa; Hemacandra's Koṣa of Deśi words                                         ।
-। Daṇḍin his Kāvyādarśa; Setubandha; Vākpatirāja ; Gauḍavadhakāvya                                             ।
-। General rule that the dramatic person should speak language of the country to which he is supposed do belong ।
-। Later dramatists: Sāhityadarpaṇa                                                                             ।
+|                                                                                                              |
+|--------------------------------------------------------------------------------------------------------------|
+| No Pali consonants omitted by Pali speakers                                                                  |
+| Exceptions to the above                                                                                      |
+| Changes of single consonants                                                                                 |
+| Mātrā                                                                                                        |
+| Possible influence of aliens on language modification                                                        |
+| Assimilation of Consonants a universal rule in Pali                                                          |
+| Several words, unknown to Sanskrit, but formed from Sanskrit, coming into use.                               |
+| Grammar of the Pali Dialect                                                                                  |
+| The Noun: Masculine Nouns ending in अ                                                                        |
+| Masculine Nouns in इ and उ                                                                                   |
+| Masculine Nouns in ऋ                                                                                         |
+| Masculine Nouns in a consonant                                                                               |
+| Feminine Nouns                                                                                               |
+| Neuter Nouns                                                                                                 |
+| Pronouns                                                                                                     |
+| False Analogies or Generalisations: false ideas regarding some of these                                      |
+| The Verb in Pali                                                                                             |
+| Terminations in Pali                                                                                         |
+| The Grammar of Aśoka Inscriptions: their place                                                               |
+| Examples of Aśoka Inscriptions                                                                               |
+| Resemblance of some Inscriptions in Pali to Sanskrit                                                         |
+| LECTURE III — The Prakrits and the Apabhraṁśa                                                                |
+| Prakrits: Vararuci's Prākṛtaprakāśa; Hemacandra's Koṣa of Deśi words                                         |
+| Daṇḍin his Kāvyādarśa; Setubandha; Vākpatirāja ; Gauḍavadhakāvya                                             |
+| General rule that the dramatic person should speak language of the country to which he is supposed do belong |
+| Later dramatists: Sāhityadarpaṇa                                                                             |
 
 
 
@@ -159,111 +159,111 @@ CONTENTS OF VOLUME IV
 
 
 
-।                                                                                 ।
-।---------------------------------------------------------------------------------।
-। Words derived from Sanskrit from the eight Dialects                             ।
-। Distinction between the Vocabulary of the Vernaculars of N. India.              ।
-। Distinction between Modern Tatsamas, Sanskrit &c.                               ।
-। Three classes of Prakrit and newly constructed words                            ।
-। Tracing the Vernaculars from Pali and Prakrits                                  ।
-। Accent in Modern Vernaculars                                                    ।
-। The suffix ka in Pāṇini's time to indicate littleness &c.                       ।
-। The Original and Derivative Accents in the Vernaculars.                         ।
-। Accent in the Hindi                                                             ।
-। Exceptions to the above.                                                        ।
-। Accent in Gujarati                                                              ।
-। Accent in Panjabi                                                               ।
-। Accent in Sindhi                                                                ।
-। Accent in Bengali and Oriya                                                     ।
-। Accent on Vernacular Terminations.                                              ।
-। Accent in Vernacular Compounds                                                  ।
-। Avoiding of the Hiatus in the Vernaculars                                       ।
-। Consonantal Changes in the Vernaculars                                          ।
-। Interchangeableness of certain Consonants                                       ।
-। Va of the Causal Terminations in the Vernaculars                                ।
-। Treatment of Sankrit Conjuncts in the Vernaculars.                              ।
-। Dentals changed to Palatals                                                     ।
-। Assimilation of Members of Conjuncts.                                           ।
-। LECTURE V — Remnants of the Older Grammatical Forms in the Northern Vernaculars ।
-। Case Terminations in the Vernaculars                                            ।
-। Pronouns in the Vernaculars.                                                    ।
-। Personal Pronouns in the Vernaculars                                            ।
-। Verb in the Vernaculars.                                                        ।
-। Verbal Terminations: The Present                                                ।
-। Verbal Terminations: The Imperative                                             ।
-। Verbal Terminations: The Future                                                 ।
-। The Past Tense in the Vernaculars                                               ।
-। The Past Participle                                                             ।
-। The Present Participle in the Vernaculars                                       ।
+|                                                                                 |
+|---------------------------------------------------------------------------------|
+| Words derived from Sanskrit from the eight Dialects                             |
+| Distinction between the Vocabulary of the Vernaculars of N. India.              |
+| Distinction between Modern Tatsamas, Sanskrit &c.                               |
+| Three classes of Prakrit and newly constructed words                            |
+| Tracing the Vernaculars from Pali and Prakrits                                  |
+| Accent in Modern Vernaculars                                                    |
+| The suffix ka in Pāṇini's time to indicate littleness &c.                       |
+| The Original and Derivative Accents in the Vernaculars.                         |
+| Accent in the Hindi                                                             |
+| Exceptions to the above.                                                        |
+| Accent in Gujarati                                                              |
+| Accent in Panjabi                                                               |
+| Accent in Sindhi                                                                |
+| Accent in Bengali and Oriya                                                     |
+| Accent on Vernacular Terminations.                                              |
+| Accent in Vernacular Compounds                                                  |
+| Avoiding of the Hiatus in the Vernaculars                                       |
+| Consonantal Changes in the Vernaculars                                          |
+| Interchangeableness of certain Consonants                                       |
+| Va of the Causal Terminations in the Vernaculars                                |
+| Treatment of Sankrit Conjuncts in the Vernaculars.                              |
+| Dentals changed to Palatals                                                     |
+| Assimilation of Members of Conjuncts.                                           |
+| LECTURE V — Remnants of the Older Grammatical Forms in the Northern Vernaculars |
+| Case Terminations in the Vernaculars                                            |
+| Pronouns in the Vernaculars.                                                    |
+| Personal Pronouns in the Vernaculars                                            |
+| Verb in the Vernaculars.                                                        |
+| Verbal Terminations: The Present                                                |
+| Verbal Terminations: The Imperative                                             |
+| Verbal Terminations: The Future                                                 |
+| The Past Tense in the Vernaculars                                               |
+| The Past Participle                                                             |
+| The Present Participle in the Vernaculars                                       |
 
 
 
-।                                                                                         ।
-।-----------------------------------------------------------------------------------------।
-। The Absolutive in the Vernaculars                                                       ।
-। Infinitive of Purpose in the Vernaculars                                                ।
-। Potential Participle in the Vernaculars.                                                ।
-। Passive in Participle in the Vernaculars.                                               ।
-। Causal in Participle in the Vernaculars.                                                ।
-। LECTURE VI—New Grammatical Formations in the Northern Vernaculars                       ।
-। The Oblique forms.                                                                      ।
-। The Oblique form in the Marathi: Five ways of taking the Obsolete forms in Marathi      ।
-। The Oblique Forms of Sindhi                                                             ।
-। The Oblique Forms of Punjabi                                                            ।
-। The Oblique Forms of Hindi                                                              ।
-। The Oblique Forms of Gujarati                                                           ।
-। Absence of Oblique Form in Bengali and Oriya                                            ।
-। Nature of the Oblique Form                                                              ।
-। Analysis of the Marathi Oblique Form                                                    ।
-। Analysis of the Sindhi Oblique forms                                                    ।
-। Hindi and Punjabi Oblique forms                                                         ।
-। New Terminations in the Vernaculars                                                     ।
-। Origin of Ka in the Vernacular Terminations.                                            ।
-। Origin of Sa in the Vernacular Terminations.                                            ।
-। The Verbal forms.                                                                       ।
-। The Future Tense                                                                        ।
-। LECTURE VII— Relations between Sanskrit, Pali, the Prakrits and the Modern Vernaculars ।
-। The Vedic dialect lost a good deal of its words: "Middle Sanskrit"                      ।
-। Pali the sacred language of the Southern Buddhists                                      ।
-। Not great difference in the dialect: Prakrits coming into importance                    ।
-। Certain scholars holding that the Prakrits were an artificiality its refutation         ।
-। The present practice of Deśastha Brāhmaṇas                                              ।
-। Prakrits became literary and dead dialects like Sanskrit                                ।
-। Were there various dialects in the Vedic times?                                         ।
-। Many uneducated persons using wrong English: instances                                 ।
+|                                                                                         |
+|-----------------------------------------------------------------------------------------|
+| The Absolutive in the Vernaculars                                                       |
+| Infinitive of Purpose in the Vernaculars                                                |
+| Potential Participle in the Vernaculars.                                                |
+| Passive in Participle in the Vernaculars.                                               |
+| Causal in Participle in the Vernaculars.                                                |
+| LECTURE VI—New Grammatical Formations in the Northern Vernaculars                       |
+| The Oblique forms.                                                                      |
+| The Oblique form in the Marathi: Five ways of taking the Obsolete forms in Marathi      |
+| The Oblique Forms of Sindhi                                                             |
+| The Oblique Forms of Punjabi                                                            |
+| The Oblique Forms of Hindi                                                              |
+| The Oblique Forms of Gujarati                                                           |
+| Absence of Oblique Form in Bengali and Oriya                                            |
+| Nature of the Oblique Form                                                              |
+| Analysis of the Marathi Oblique Form                                                    |
+| Analysis of the Sindhi Oblique forms                                                    |
+| Hindi and Punjabi Oblique forms                                                         |
+| New Terminations in the Vernaculars                                                     |
+| Origin of Ka in the Vernacular Terminations.                                            |
+| Origin of Sa in the Vernacular Terminations.                                            |
+| The Verbal forms.                                                                       |
+| The Future Tense                                                                        |
+| LECTURE VII— Relations between Sanskrit, Pali, the Prakrits and the Modern Vernaculars |
+| The Vedic dialect lost a good deal of its words: "Middle Sanskrit"                      |
+| Pali the sacred language of the Southern Buddhists                                      |
+| Not great difference in the dialect: Prakrits coming into importance                    |
+| Certain scholars holding that the Prakrits were an artificiality its refutation         |
+| The present practice of Deśastha Brāhmaṇas                                              |
+| Prakrits became literary and dead dialects like Sanskrit                                |
+| Were there various dialects in the Vedic times?                                         |
+| Many uneducated persons using wrong English: instances                                 |
 
 
 
-।                                                                                                        ।
-।--------------------------------------------------------------------------------------------------------।
-। The theory is utterly untenable; contemporaneous development of Sanskrit and Prakrits an impossibility ।
-। Other objections—their refutation                                                                      ।
-। Positive evidence that Sanskrit was a spoken language: the evidence of Yāska                           ।
-। Pāṇiniand Patañjali                                                                                   ।
-। Sanskrit Grammar the best in the world                                                                 ।
-। Sanskrit Compounds in the language—Later writers using rather too many Sanskrit Compounds              ।
-। Traces of Sanskrit expressions, showing that Sanskrit in colloquial use once existed                   ।
-। Sanskrit was not the only language in the time of Kātyāyana and Patañjali; instances.                  ।
-। Patañjali's evidence                                                                                   ।
-। Who were the Śiṣṭas without learning Pāṇini's Grammar                                                  ।
-। Characters in Plays - Males and Females.                                                               ।
-। Sanskrit losing ground-after some times                                                                ।
-। Chronology and historical changes of the same                                                          ।
-। Pali people a foreign race?                                                                            ।
-। Pali continuing for a long time as the mother tongue                                                   ।
-। Times of Aśoka                                                                                         ।
-। Dates of Pāṇini, Kātyāyana and Patañjali                                                               ।
-। Prakrits coming into importance in the early centuries of the Christian era                            ।
-। Apabhraṁśain the sixth or seventh Century; Daṇḍin Kālidāsa                                            ।
-। Modern Vernaculars appearing about the tenth century,aCopper-plate Inscription of 1206 A. D.          ।
-। Author's Farewell                                                                                      ।
-। List of Abbreviations                                                                                  ।
-। Index I—General Index                                                                                  ।
-। Index II—Index of Archaic and Obsolete Sanskrit Words                                                  ।
-। Index III—Index of Mythological Names                                                                  ।
-। Index IV—Index of Ancient Writers and Works                                                            ।
-। Index V—Index of Modern Scholars                                                                       ।
-। Inder VI—Index of Sanskrit and other Words.                                                            ।
+|                                                                                                        |
+|--------------------------------------------------------------------------------------------------------|
+| The theory is utterly untenable; contemporaneous development of Sanskrit and Prakrits an impossibility |
+| Other objections—their refutation                                                                      |
+| Positive evidence that Sanskrit was a spoken language: the evidence of Yāska                           |
+| Pāṇiniand Patañjali                                                                                   |
+| Sanskrit Grammar the best in the world                                                                 |
+| Sanskrit Compounds in the language—Later writers using rather too many Sanskrit Compounds              |
+| Traces of Sanskrit expressions, showing that Sanskrit in colloquial use once existed                   |
+| Sanskrit was not the only language in the time of Kātyāyana and Patañjali; instances.                  |
+| Patañjali's evidence                                                                                   |
+| Who were the Śiṣṭas without learning Pāṇini's Grammar                                                  |
+| Characters in Plays - Males and Females.                                                               |
+| Sanskrit losing ground-after some times                                                                |
+| Chronology and historical changes of the same                                                          |
+| Pali people a foreign race?                                                                            |
+| Pali continuing for a long time as the mother tongue                                                   |
+| Times of Aśoka                                                                                         |
+| Dates of Pāṇini, Kātyāyana and Patañjali                                                               |
+| Prakrits coming into importance in the early centuries of the Christian era                            |
+| Apabhraṁśain the sixth or seventh Century; Daṇḍin Kālidāsa                                            |
+| Modern Vernaculars appearing about the tenth century,aCopper-plate Inscription of 1206 A. D.          |
+| Author's Farewell                                                                                      |
+| List of Abbreviations                                                                                  |
+| Index I—General Index                                                                                  |
+| Index II—Index of Archaic and Obsolete Sanskrit Words                                                  |
+| Index III—Index of Mythological Names                                                                  |
+| Index IV—Index of Ancient Writers and Works                                                            |
+| Index V—Index of Modern Scholars                                                                       |
+| Inder VI—Index of Sanskrit and other Words.                                                            |
 
 
 
@@ -846,21 +846,21 @@ two centuries before Ānandatīrtha to account for the reputation of the sacred 
 
  These devotees, who are known by the name of Ālvārs, are generally reckoned as twelve in number and are divided into three classes by S. Krishnaswami [Aiyengar](# "Ind. Ant. Vol, XXXV, p. 228.") in accordance with the received chronology which he follows to determine. their sequence, though in itself it assigns a preposterously high antiquity to them. Their names, Tamil and Sanskrit, are as follows:—
 
-।         ।                      ।                            ।
-।---------।----------------------।----------------------------।
-। Class  । Tamil name           । Sanskrit name              ।
-। Ancient । Poygai Ālvār        । Saroyogin                 ।
-।        । Bhūtnttār           । Bhūtayogin                 ।
-।        । Pēy Ālvār            । Mabadyogin or Bhrāntayogin ।
-।        । Tirumaliśai Ālvār  । Bhaktisāra                 ।
-। Later  । Namm Ālvār         । Śaṭhakopa                  ।
-।        । Periy Ālvār          । Madhurakavi               ।
-।        । Aṇḍāl               । Kulaśekhara               ।
-।        ।                     । Viṣṇoitta                 ।
-।        ।                     । Godā                     ।
-। Last   । Toṇḍaraḍippoḍi      । Bhaktāṅghrireṇu            ।
-।        । TiruppāṇĀlvārr      । Yogivāhana                 ।
-।        । Tirumangai Ālvār    । Parakāla                   ।
+|         |                      |                            |
+|---------|----------------------|----------------------------|
+| Class  | Tamil name           | Sanskrit name              |
+| Ancient | Poygai Ālvār        | Saroyogin                 |
+|        | Bhūtnttār           | Bhūtayogin                 |
+|        | Pēy Ālvār            | Mabadyogin or Bhrāntayogin |
+|        | Tirumaliśai Ālvār  | Bhaktisāra                 |
+| Later  | Namm Ālvār         | Śaṭhakopa                  |
+|        | Periy Ālvār          | Madhurakavi               |
+|        | Aṇḍāl               | Kulaśekhara               |
+|        |                     | Viṣṇoitta                 |
+|        |                     | Godā                     |
+| Last   | Toṇḍaraḍippoḍi      | Bhaktāṅghrireṇu            |
+|        | TiruppāṇĀlvārr      | Yogivāhana                 |
+|        | Tirumangai Ālvār    | Parakāla                   |
 
  The date of the first, ordinarily given, is B. C. 4203 and of the last, B. C. 2706, and the others range between these two. Not only are these dates fanciful, but even the sequence shown above is unreliable. Krishnaswami places the last in the earlier half of the eighth century A. D., and all the preceding ones impliedly before that date. But there is distinct evidence to show that Kulaśekhara flourished much later. He was a king of Travancore, and one ofthe works composed by him styled Mukundamāla contains a verse from the Bhāgavata-Purāṇa [(XI. 2. 36)](# "Kāyena vācāmanasendriyair vā, etc.").
 
@@ -2351,38 +2351,38 @@ of Rāmānuja. Practically he makes no distinction between thetwo. The theory of
 
 **LIST OF ABBREVIATIONS.**
 
-।                                       ।
-।---------------------------------------।
-। AB. = Aitareya-Brāhmaṇa.             ।
-। ĀG. = Aśvalāyana-Gṛhyasūtra.          ।
-। AU. = Atharvaśiras-Upaniṣad.          ।
-। AV. = Atharva-Veda.                   ।
-। BhG. = Bhagavad-Gītā.                 ।
-। Bibl. Ind. = Bibliotheca Indica.      ।
-। Br.S. = Brahma-Sūtra.                 ।
-। BṛS. = Bṛhat-Saṁhitā.                 ।
-। BU. = Bṛhadāraṇyaka-Upaniṣad.         ।
-। Chowkh. = Chowkhamba Sanskrit Series. ।
-। ChU. = Chāndogya-Upaniṣad.            ।
-। HG.= Hiraṇyakeśi-Gṛhyasūtra.          ।
-। KB. = Kauṣītaki-Brāhmaṇa.             ।
-। KBU. = auṣītaki-Brāhmaṇa-Upaniṣad.    ।
-। KnU. = Kena-Upaniṣad.                 ।
-। KU. = Kaṭha-Upaniṣad.                 ।
-। MaiU. = Maitri-Upaniṣad.              ।
-। MBh. = Mahābhārata.                   ।
-। MU.= Muṇḍaka-Upaniṣad.               ।
-। P. = Pāṇini.                          ।
-। PG. = Pāraskara-Gṛhyasūtra.           ।
-। RV. = Ṛg-Veda.                        ।
-। RVS. = Ṛg-Veda-Saṁhitā.               ।
-। ŚB. = Śatapatha-Brāhmaṇa.             ।
-। ŚU.= Śvetaśvatara-Upaniṣad.           ।
-। TA. = Taittirīya-Āraṇyaka.            ।
-। TS. = Taittirīya-Saṁhitā.             ।
-। TU. = Taittirīya-Upaniṣad.            ।
-। VS. = Vājasaneyi-Saṁhitā.             ।
-। YV. = Yajur-Veda.                     ।
+|                                       |
+|---------------------------------------|
+| AB. = Aitareya-Brāhmaṇa.             |
+| ĀG. = Aśvalāyana-Gṛhyasūtra.          |
+| AU. = Atharvaśiras-Upaniṣad.          |
+| AV. = Atharva-Veda.                   |
+| BhG. = Bhagavad-Gītā.                 |
+| Bibl. Ind. = Bibliotheca Indica.      |
+| Br.S. = Brahma-Sūtra.                 |
+| BṛS. = Bṛhat-Saṁhitā.                 |
+| BU. = Bṛhadāraṇyaka-Upaniṣad.         |
+| Chowkh. = Chowkhamba Sanskrit Series. |
+| ChU. = Chāndogya-Upaniṣad.            |
+| HG.= Hiraṇyakeśi-Gṛhyasūtra.          |
+| KB. = Kauṣītaki-Brāhmaṇa.             |
+| KBU. = auṣītaki-Brāhmaṇa-Upaniṣad.    |
+| KnU. = Kena-Upaniṣad.                 |
+| KU. = Kaṭha-Upaniṣad.                 |
+| MaiU. = Maitri-Upaniṣad.              |
+| MBh. = Mahābhārata.                   |
+| MU.= Muṇḍaka-Upaniṣad.               |
+| P. = Pāṇini.                          |
+| PG. = Pāraskara-Gṛhyasūtra.           |
+| RV. = Ṛg-Veda.                        |
+| RVS. = Ṛg-Veda-Saṁhitā.               |
+| ŚB. = Śatapatha-Brāhmaṇa.             |
+| ŚU.= Śvetaśvatara-Upaniṣad.           |
+| TA. = Taittirīya-Āraṇyaka.            |
+| TS. = Taittirīya-Saṁhitā.             |
+| TU. = Taittirīya-Upaniṣad.            |
+| VS. = Vājasaneyi-Saṁhitā.             |
+| YV. = Yajur-Veda.                     |
 
 
 
@@ -2952,79 +2952,79 @@ fifth and the ninth are confounded, and roots of the former takethe termination 
 
 **PRESENT TENSE**
 
-।           ।      ।            ।           ।            ।
-|:---------:|:----:|:----------:|:---------:|:----------:।
-।  Parasm.  ।      ।            ।   Ātm.    ।            ।
-। Singular. ।      ।  Plural.   । Singular. ।  Plural.   ।
-। 1st pers. ।  मि  ।     म      ।     ए     ।    म्हे    ।
-।   2nd…   ।  सि  ।     थ      ।    से     ।    व्हे    ।
-।   3rd…   ।  ति  ।   अन्ति    ।    ते     ।   अन्ते    ।
-।   *Ex.*   । पचति । पचन्ति &c. ।   पचते    । पचन्ते &c. ।
+|           |      |            |           |            |
+|:---------:|:----:|:----------:|:---------:|:----------:|
+|  Parasm.  |      |            |   Ātm.    |            |
+| Singular. |      |  Plural.   | Singular. |  Plural.   |
+| 1st pers. |  मि  |     म      |     ए     |    म्हे    |
+|   2nd…   |  सि  |     थ      |    से     |    व्हे    |
+|   3rd…   |  ति  |   अन्ति    |    ते     |   अन्ते    |
+|   *Ex.*   | पचति | पचन्ति &c. |   पचते    | पचन्ते &c. |
 
 **IMPERATIVE.**
 
-।           ।             ।            ।           ।            ।
-|:---------:|:-----------:|:----------:|:---------:|:----------:।
-।  Parasm.  ।             ।            ।   Ätm.    ।            ।
-। Singular. ।             ।  Plural.   । Singular. ।  Plural.   ।
-। 1st pers. ।     मि      ।     म      ।     ए     ।    आमसे    ।
-।   2nd…   । हि, or none ।     थ      ।   स्सु    ।    व्हो    ।
-।   3rd…   ।     तु      ।   अन्तु    ।    तं     ।   अन्तं    ।
-।   *Ex.*   ।    पचतु     । पचन्तु &c. ।   पचतं    । पचन्तं &c. ।
+|           |             |            |           |            |
+|:---------:|:-----------:|:----------:|:---------:|:----------:|
+|  Parasm.  |             |            |   Ätm.    |            |
+| Singular. |             |  Plural.   | Singular. |  Plural.   |
+| 1st pers. |     मि      |     म      |     ए     |    आमसे    |
+|   2nd…   | हि, or none |     थ      |   स्सु    |    व्हो    |
+|   3rd…   |     तु      |   अन्तु    |    तं     |   अन्तं    |
+|   *Ex.*   |    पचतु     | पचन्तु &c. |   पचतं    | पचन्तं &c. |
 
 **IMPERFECT**
 
-।           ।      ।          ।        ।               ।
-|:---------:|:----:|:--------:|:------:|:-------------:।
-। 1st pers. ।  अ   ।   म्हा   ।   ई    ।     म्हसे     ।
-।    2nd    ।  ओ   ।   त्थ    ।   से   ।     व्हं      ।
-।    3rd    ।  आ   ।    ऊ     ।  त्थ   ।     त्थुं     ।
-।    Ex.    । अपचा । अपचू &c. । अपचत्थ । अपचत्थुं &co. ।
+|           |      |          |        |               |
+|:---------:|:----:|:--------:|:------:|:-------------:|
+| 1st pers. |  अ   |   म्हा   |   ई    |     म्हसे     |
+|    2nd    |  ओ   |   त्थ    |   से   |     व्हं      |
+|    3rd    |  आ   |    ऊ     |  त्थ   |     त्थुं     |
+|    Ex.    | अपचा | अपचू &c. | अपचत्थ | अपचत्थुं &co. |
 
 **POTENTIAL**
 
-।           ।               ।             ।       ।           ।
-|:---------:|:-------------:|:-----------:|:-----:|:---------:।
-। 1st pers. ।    एय्यामि    ।   एय्याम    । एय्यं । एय्यम्हे  ।
-।    2nd    ।    एय्यासि    ।   एय्याथ    ।  एथो  । एय्यव्हो  ।
-।    3rd    ।   एय्य or ए   ।   एय्युं    ।  एथ   ।    एरं    ।
-।    Ex.    । पचे or पचेय्य । पचेय्यु &c. । पचेथ  । पचेरं &c. ।
+|           |               |             |       |           |
+|:---------:|:-------------:|:-----------:|:-----:|:---------:|
+| 1st pers. |    एय्यामि    |   एय्याम    | एय्यं | एय्यम्हे  |
+|    2nd    |    एय्यासि    |   एय्याथ    |  एथो  | एय्यव्हो  |
+|    3rd    |   एय्य or ए   |   एय्युं    |  एथ   |    एरं    |
+|    Ex.    | पचे or पचेय्य | पचेय्यु &c. | पचेथ  | पचेरं &c. |
 
 **AORIST**
 
-।           ।      ।                      ।      ।          ।
-|:---------:|:----:|:--------------------:|:----:|:--------:।
-। 1st pers. ।  ई   ।         म्हा         ।  अ   ।   म्हे   ।
-।    2nd    ।  ओ   ।         त्थ          ।  से  ।   व्हं   ।
-।    3rd    ।  ई   ।      उं or इंसु      ।  आ   ।    ऊ     ।
-।    Ex.    । अपची । अपचुं or अपचिंसु &c. । अपचा । अपचू &c. ।
+|           |      |                      |      |          |
+|:---------:|:----:|:--------------------:|:----:|:--------:|
+| 1st pers. |  ई   |         म्हा         |  अ   |   म्हे   |
+|    2nd    |  ओ   |         त्थ          |  से  |   व्हं   |
+|    3rd    |  ई   |      उं or इंसु      |  आ   |    ऊ     |
+|    Ex.    | अपची | अपचुं or अपचिंसु &c. | अपचा | अपचू &c. |
 
 **PERFECT**
 
-।           ।     ।          ।         ।            ।
-|:---------:|:---:|:--------:|:-------:|:----------:।
-। 1st pers. ।  अ  ।   म्ह    ।    इ    ।    म्हे    ।
-।    2nd    ।  ए  ।   त्थ    ।  त्थो   ।    व्हो    ।
-।    3rd    ।  अ  ।    उ     ।   त्थ   ।     रे     ।
-।    Ex.    । पपच । पपचु &c. । पचचित्थ । पपचिरे &c. ।
+|           |     |          |         |            |
+|:---------:|:---:|:--------:|:-------:|:----------:|
+| 1st pers. |  अ  |   म्ह    |    इ    |    म्हे    |
+|    2nd    |  ए  |   त्थ    |  त्थो   |    व्हो    |
+|    3rd    |  अ  |    उ     |   त्थ   |     रे     |
+|    Ex.    | पपच | पपचु &c. | पचचित्थ | पपचिरे &c. |
 
 **FUTURE**
 
-।           ।          ।                ।          ।                ।
-|:---------:|:--------:|:--------------:|:--------:|:--------------:।
-। 1st pers. ।  स्सामि  ।     स्साम      ।   स्सं   ।    स्सम्हे     ।
-।    2nd    ।  स्ससि   ।      स्सथ      ।  स्ससे   ।    स्सव्हे     ।
-।    3rd    ।  स्सति   ।    स्सन्ति     ।  स्सते   ।    स्सन्ते     ।
-।    Ex.    । भविस्सति । भविस्सन्ति &c. । भविस्सते । भविस्सन्ते &c. ।
+|           |          |                |          |                |
+|:---------:|:--------:|:--------------:|:--------:|:--------------:|
+| 1st pers. |  स्सामि  |     स्साम      |   स्सं   |    स्सम्हे     |
+|    2nd    |  स्ससि   |      स्सथ      |  स्ससे   |    स्सव्हे     |
+|    3rd    |  स्सति   |    स्सन्ति     |  स्सते   |    स्सन्ते     |
+|    Ex.    | भविस्सति | भविस्सन्ति &c. | भविस्सते | भविस्सन्ते &c. |
 
 **CONDITIONAL**
 
-।           ।          ।               ।          ।                 ।
-|:---------:|:--------:|:-------------:|:--------:|:---------------:।
-। 1st pers. ।   स्सं   ।    स्सम्हा    ।   स्सं   ।    स्साम्हसे    ।
-।    2nd    ।   स्से   ।     स्सथ      ।  स्ससे   ।     स्सव्हे     ।
-।    3rd    ।   स्सा   ।    स्संसु     ।   स्सथ   ।     स्सिंसु     ।
-।    Ex.    । अभविस्सा । अभविस्ससु &c. । अभविस्सथ । अभविस्सिंसु &c. ।
+|           |          |               |          |                 |
+|:---------:|:--------:|:-------------:|:--------:|:---------------:|
+| 1st pers. |   स्सं   |    स्सम्हा    |   स्सं   |    स्साम्हसे    |
+|    2nd    |   स्से   |     स्सथ      |  स्ससे   |     स्सव्हे     |
+|    3rd    |   स्सा   |    स्संसु     |   स्सथ   |     स्सिंसु     |
+|    Ex.    | अभविस्सा | अभविस्ससु &c. | अभविस्सथ | अभविस्सिंसु &c. |
 
  The terminations of the Present of both Padas are the same asin Sanskrit, with the exception of the plural **ञ**and **म्हे**, the **व्ह**of the second person plural of the Ātmanepada being a corruptionof **ध्वे**. This tense is most in use; hence the Pali speakers learnedit well, so to say, from their Sanskrit teachers.
 
@@ -3734,16 +3734,16 @@ second verse, and **सुन्दरखत्वङ्गाओ विला�
 
   The pronouns of the 1st and 2nd persons are thus declined :—
 
-।                ।                ।                  ।                ।
-|:--------------:|:--------------:|:----------------:|:--------------:।
-।   1st pers.    ।                ।    2nd pers.     ।                ।
-।    *sing.*     ।     *pl.*      ।     *sing.*      ।     *pl.*      ।
-।   Nom. इउं    । अम्हे, अम्हहं ।      तुहं       । तुम्हे-तुम्हइं ।
-। Acc. महं    ।      ——       ।      तइं       ।      ——       ।
-।    Instr.—    ।    अम्हेहिं    ।     पइं, तइं     ।   तुम्हेहिं    ।
-। Abl. महु-मज्झु ।     अम्हहं     । तउ, तुज्झ, तुध्र ।    तुम्हहं     ।
-।    Gen.——    ।       —        ।      ———       ।       —        ।
-।    Loc. मइं    ।    अम्हासु     ।     पइं, तइं     ।   तुम्हासु    ।
+|                |                |                  |                |
+|:--------------:|:--------------:|:----------------:|:--------------:|
+|   1st pers.    |                |    2nd pers.     |                |
+|    *sing.*     |     *pl.*      |     *sing.*      |     *pl.*      |
+|   Nom. इउं    | अम्हे, अम्हहं |      तुहं       | तुम्हे-तुम्हइं |
+| Acc. महं    |      ——       |      तइं       |      ——       |
+|    Instr.—    |    अम्हेहिं    |     पइं, तइं     |   तुम्हेहिं    |
+| Abl. महु-मज्झु |     अम्हहं     | तउ, तुज्झ, तुध्र |    तुम्हहं     |
+|    Gen.——    |       —        |      ———       |       —        |
+|    Loc. मइं    |    अम्हासु     |     पइं, तइं     |   तुम्हासु    |
 
  Here we have not the wilderness of forms which we observedin the principal Prakrit. The nom. sing. of the 1st per. is **इउं**
 
@@ -4914,37 +4914,37 @@ Skr. **भाद्रपद** &c. in which **अइ** forms **ए**. and **अ�
 
 ** \[ Table 20: ए, ऐ, ओ, and औ in the different Vernaculars \]**
 
-।                ।         ।          ।        ।               ।            ।
-।----------------।---------।----------।--------।---------------।------------।
-। H.             । G.      । S.       । H.     । G.            । S.         ।
-। पैठा           । पेठो    । पेठो     । जै     । जे            ।           ।
-। बैसना          । बेसंवुं ।         । सै     । से in सेंकडा ।           ।
-। बैठा           । बेठो    ।         । बैन    । बेन           । बेणु       ।
-। खैर            । खेर     ।         । मौडा   । मोड           । मोडु       ।
-। बेल            । बेल     ।         । चौथा   । चोथो          । चोथो,&c.   ।
-। भैस            । भेस     । मेहिं    । चौक    । चोक           । चौक,चौपैरो ।
-। बैन ( P. भैण ) । बेन     । भेणु,भेण । चौरस   । चोरस&c.       ।           ।
-। मैल            । मेल     । मेरो–मैल । धौला   । धोलो          । धोरो       ।
-। मैन            । मेन     ।         । कौडी   । कोडी          । कोडी       ।
-। रैन            । रेन     ।         । सौत    । सोक           ।           ।
-। नैन            । नेन     । नेणु     । सौंपना । सोंपवुं       । सेैंपणु    ।
-। भै             । भे      ।         । पैदल   । पेदल          ।           ।
+|                |         |          |        |               |            |
+|----------------|---------|----------|--------|---------------|------------|
+| H.             | G.      | S.       | H.     | G.            | S.         |
+| पैठा           | पेठो    | पेठो     | जै     | जे            |           |
+| बैसना          | बेसंवुं |         | सै     | से in सेंकडा |           |
+| बैठा           | बेठो    |         | बैन    | बेन           | बेणु       |
+| खैर            | खेर     |         | मौडा   | मोड           | मोडु       |
+| बेल            | बेल     |         | चौथा   | चोथो          | चोथो,&c.   |
+| भैस            | भेस     | मेहिं    | चौक    | चोक           | चौक,चौपैरो |
+| बैन ( P. भैण ) | बेन     | भेणु,भेण | चौरस   | चोरस&c.       |           |
+| मैल            | मेल     | मेरो–मैल | धौला   | धोलो          | धोरो       |
+| मैन            | मेन     |         | कौडी   | कोडी          | कोडी       |
+| रैन            | रेन     |         | सौत    | सोक           |           |
+| नैन            | नेन     | नेणु     | सौंपना | सोंपवुं       | सेैंपणु    |
+| भै             | भे      |         | पैदल   | पेदल          |           |
 
-।       ।       ।
-।-------।-------।
-। H.    । G.    ।
-। भौजाई । भोजाई ।
-। पौने  । पोणा  ।
+|       |       |
+|-------|-------|
+| H.    | G.    |
+| भौजाई | भोजाई |
+| पौने  | पोणा  |
 
  The Gujarati has **ए** or **ओ** even in words of a foreign origin where the other languages have **ऐ** or **औ** as;—
 
 \[ Table 21 : Gujarati ए or ओ for foreign ऐ or ओ \]
 
-।           ।            ।        ।        ।
-।-----------।------------।--------।--------।
-। **H.**   । **G.**     । **H.** । **G.** ।
-। पैदा करना । पेदा करवुं । मैदान  । मेदान  ।
-। दालत      । दोलत       । फौज    । फोज    ।
+|           |            |        |        |
+|-----------|------------|--------|--------|
+| **H.**   | **G.**     | **H.** | **G.** |
+| पैदा करना | पेदा करवुं | मैदान  | मेदान  |
+| दालत      | दोलत       | फौज    | फोज    |
 
 Similarly, though a few Sanskrit words containing **ऐ** and **ओ** do occur in Gujarati dictionaries, these diphthongs are generally pronounced like **ए** and **ओ** as in **जने** for **जैन** ’a follower of the Jaina sec’,**वेर** for **वैर**'enmity', &c. The Gujarati, therefore, like the old Prakrits combines **अय** and **अव** and **अइ** and **अउ** into **ए** and **ओ** and since it did not receive the diphthongs **ऐ** and **ओ** from the old Prakrits, its alphabet really does not contain them. As observed before, the syllables **अइ** and **अउ** differ from **ऐ** and **औ** only in two currents of breath being emitted instead of one, in other respects they are alike, both the vowel sounds being contained in the diphthongs. Those syllables as well as **अय** and **अव** should, therefore, naturally pass into those diphthongs as involving the least possible change. If, notwithstanding, the Gujarati people make **ए** or **ओ** out of them, and also give those forms to the **ऐ** and **औ** of Sanskrit and foreign words, it must be so, because their vocal organs are in this respect in the same condition as those of their Pali and Prakrit ancestors. On the other hand, the Hindi, and especially the Braj form of it, presents the old Aryan tendency of pronouncing the diphthongs in somewhat exaggerated form; while the other dialects take up a position between these two in this respect.
 
@@ -5004,20 +5004,20 @@ Similarly, though a few Sanskrit words containing **ऐ** and **ओ** do occur i
 
  In the Prakrits there are two instances of the change of **अ** to **उ**, viz. **चुड**and **खुडिओ** for Skr. **चण्ड** 'fierce‛and **सण्डित** ‛plucked out‛. The latter we have in the vernaculars in the form of **खूट** M. G., **खुटि** S. ‛deficiency‛**खोट** H., **खोड** M. ‛blemish‛and **खुडणें** or **खुटणें** M., **खुटना** H., **खुंटवुं** G. ‛to pluck put‛or **खुटवुं** G. ‛to be deficient‛. The Bengali changes **अ** to **उ** in a good many casesas:—
 
-।                                          ।
-|:----------------------------------------:।
-। \[Table 25: अ changed toउ in Bengali\] ।
+|                                          |
+|:----------------------------------------:|
+| \[Table 25: अ changed toउ in Bengali\] |
 
-।                            ।                ।                             ।
-|:--------------------------:|:--------------:|:---------------------------:।
-।             B.             ।  Skr. or Pr.   ।          M. or H.           ।
-।       हलुदturmeric        । हरिद्रा-हलद्दा ।           हलदM.            ।
-।         आगुन fire          ।   आग्नि-अगणी   ।            आगM.            ।
-।       बामुन Brahman        । ब्राह्मण-बह्मण ।            बामण.            ।
-।       थुअन to place        ।  स्थापन-ठावण   ।          ठेवणें M.          ।
-। शिमुल the silk-cotton tree । शाल्मली-सामरी  । सेमल H., शेवरी or सांवरी M. ।
-।       पुकुरa pond        । पुष्कर-पोक्खर  ।           पोखर H.           ।
-।       मुगुर a mallet       । मुद्गर-मोग्गर  ।          मोगरा M.           ।
+|                            |                |                             |
+|:--------------------------:|:--------------:|:---------------------------:|
+|             B.             |  Skr. or Pr.   |          M. or H.           |
+|       हलुदturmeric        | हरिद्रा-हलद्दा |           हलदM.            |
+|         आगुन fire          |   आग्नि-अगणी   |            आगM.            |
+|       बामुन Brahman        | ब्राह्मण-बह्मण |            बामण.            |
+|       थुअन to place        |  स्थापन-ठावण   |          ठेवणें M.          |
+| शिमुल the silk-cotton tree | शाल्मली-सामरी  | सेमल H., शेवरी or सांवरी M. |
+|       पुकुरa pond        | पुष्कर-पोक्खर  |           पोखर H.           |
+|       मुगुर a mallet       | मुद्गर-मोग्गर  |          मोगरा M.           |
 
   And where the Sanskrit or the sister dialects have **ओ** , the Bengali has **उ** as in the following words:—
 
@@ -5366,19 +5366,19 @@ Here also the Sindhi preserves the old endings in some cases, and has dropped th
  It may be urged that in modern prcnunciation when the penultimate **अ** is accented, it does not become **आ** even though pronounced long, as observed before. How is it then that it becomes **आ** here? In modern times several new modes of pronunciation have arisen, but as regards the matter in hand, to lengthen **अ** into **आ** was the old process. And often when the old processes have disappeared from what is considered the standerd form of a language, they are found preserved in some dialect of that language. Thus, while in the standard Marathi the penultimate **अ** is simply pronounced long, it becomes आ in the Goanese and Malvani dialects.  
 Thus:—
 
-।                                                      ।
-|:----------------------------------------------------:।
-। \[Table 37: Penultimate a preserved dialectically \] ।
+|                                                      |
+|:----------------------------------------------------:|
+| \[Table 37: Penultimate a preserved dialectically \] |
 
-।                           ।           ।
-|:-------------------------:|:---------:।
-।          St. M.           । Mal.Goan. ।
-।  पाताल garment, or thin.  ।  पाताल   ।
-।        कापडcloth.        ।  कापाड.   ।
-। वतनhereditary property.  ।   वतान.   ।
-। जतनcareful preservation. ।   जतान.   ।
-।       धोतरgarment.       ।  धोतार.   ।
-।        खडपarock.        ।   खडाप.   ।
+|                           |           |
+|:-------------------------:|:---------:|
+|          St. M.           | Mal.Goan. |
+|  पाताल garment, or thin.  |  पाताल   |
+|        कापडcloth.        |  कापाड.   |
+| वतनhereditary property.  |   वतान.   |
+| जतनcareful preservation. |   जतान.   |
+|       धोतरgarment.       |  धोतार.   |
+|        खडपarock.        |   खडाप.   |
 
  In this manner, then, the penultimate **अ** in consequence of the accent became **आ**, and the final **उ** and the **अ** of the final **अं** being dropped, itself became final, and has preserved its accent.
 
@@ -5990,9 +5990,9 @@ Skr. **तडाग** a tank, Pr.**तलाअ**, M. G.**तलाव**, H.**�
 
  The numerals with their **द्** changed in the Prakrits to **र्** through an intermediate **ड** have come down to the vernaculars:—
 
-।                                                  ।
-|:------------------------------------------------:।
-। \[Table 58:द्of Skr. Numerals changed to र्\] ।
+|                                                  |
+|:------------------------------------------------:|
+| \[Table 58:द्of Skr. Numerals changed to र्\] |
 
 
 
@@ -6150,19 +6150,19 @@ Skr, **भ्रमर** bee, H. **भंवरा** Or **भौंरा**, P. 
 
  From the fact that the Marathi, Hindi, Sindhi, and Panjabi contain many instances of this change it is to be gathered that though it does not appear in the Prakrits proper, it must have begun very early, before the vernaculars received their distinctive forms and were isolated from each other. Of all the dialects the Marathi alone has preserved the **व्** of this **वं** in most cases, the Hindi and the others having dropped it or softened it to **उ** in good many instances; while the Gujarati changes it back again to **म्**. Thus, such of the above words as exist in Gujarati have the following forms:—
 
-।                                                     ।
-।-----------------------------------------------------।
-। \[Table 65:वं (Skr.म्) changed to म् in Gujarati\] ।
+|                                                     |
+|-----------------------------------------------------|
+| \[Table 65:वं (Skr.म्) changed to म् in Gujarati\] |
 
-।                                                                       ।                                             ।
-|:---------------------------------------------------------------------:|:-------------------------------------------:।
-।                             **नाम** name.                             ।            **चमरी** a fly-brush.            ।
-।                          **गाम** a village.                           ।              **कमल** a lotus.               ।
-। **भमवुं** to turn round, भमरी giddiness, corresponding to M. भोंवल. ।               **भमरो** a bee.               ।
-।                         **गमाववुं** wasting.                          । **पांचमो, सातमो,** &c., fifth, seventh, &c. ।
-।                           **विसामो** rest.                            ।             **कुमलो** delicate.             ।
-।                    **सामलो** a dark-complexioned.                     ।              **जमवुं** eating.              ।
-।                         **जमाइ** son-in-law.                          ।            **आमला** myrobalans.             ।
+|                                                                       |                                             |
+|:---------------------------------------------------------------------:|:-------------------------------------------:|
+|                             **नाम** name.                             |            **चमरी** a fly-brush.            |
+|                          **गाम** a village.                           |              **कमल** a lotus.               |
+| **भमवुं** to turn round, भमरी giddiness, corresponding to M. भोंवल. |               **भमरो** a bee.               |
+|                         **गमाववुं** wasting.                          | **पांचमो, सातमो,** &c., fifth, seventh, &c. |
+|                           **विसामो** rest.                            |             **कुमलो** delicate.             |
+|                    **सामलो** a dark-complexioned.                     |              **जमवुं** eating.              |
+|                         **जमाइ** son-in-law.                          |            **आमला** myrobalans.             |
 
  
 
@@ -6194,24 +6194,24 @@ G. **कमाड** a door, H. **किवाड**, M. **कवाड**, Pr. **�
 
 **\[Table 67: Disaspiration in the Vernaculars\]**
 
-।                      ।                     ।                                    ।
-|:--------------------:|:-------------------:|:----------------------------------:।
-।    M. शीक learn,     ।     Pr. सिक्ख,      ।              H. सीख.               ।
-।   M. भीक beggary,    ।     Pr. भिक्खा,     ।          H. भीख,S. बीख.           ।
-।  M. सुकणें to dry,   । Pr. सुक्क or सुक्ख, ।        H. सूखना,S. सुकणु.         ।
-।    M. भूक hunger,    ।    Pr. बुटुक्खा     ।          H. भूख,S.बुख,           ।
-।     M. हात hand,     ।      Pr. हत्थ,      ।              H. हाथ.               ।
-।  M. हत्तीelephant,  ।     Pr. हत्थी,      ।              H. हाथी.              ।
-।   G. बीनो afraid,    ।  Pr. भीदो or भीओ,   ।             M. भ्याला.             ।
-।  G, बडाई greatness,  ।      Pr. वड्ढ       ।              H. वढाई.              ।
-। G. बगाडवुं to spoil, ।      Pr. बिघड,      ।             M. बिघडणे.             ।
-।   B. पुति a book,    ।    Pr. पोत्थिआ,     ।            H. M. पोथी.             ।
-।   B. पड to learn,    ।       Pr. पढ,       ।           H. M., &c. पड.           ।
-।   B. वाड to grow,    ।      Pr. वड्ढ,      ।  H. वाढ-\[णें\],H.बाढ-ढब-\[ना\].   ।
-। B. वेड to surround,  ।       Pr वेढ,       । M. वेड-\[णें\], H. वेंढ-\[ना\],&c, ।
-।    B. पातर stones    ।     Pr. पत्थर,      ।     M. पाथर, H. पत्थर or पाचर.     ।
-।     B. पिट back,     ।  Pr. पिठ्ठ or पठ्ठ  ।          H. पीठ, M. पाठ.           ।
-।     B. साद wish,     ।     Pr. सद्धा,      ।             S, P. साथ.             ।
+|                      |                     |                                    |
+|:--------------------:|:-------------------:|:----------------------------------:|
+|    M. शीक learn,     |     Pr. सिक्ख,      |              H. सीख.               |
+|   M. भीक beggary,    |     Pr. भिक्खा,     |          H. भीख,S. बीख.           |
+|  M. सुकणें to dry,   | Pr. सुक्क or सुक्ख, |        H. सूखना,S. सुकणु.         |
+|    M. भूक hunger,    |    Pr. बुटुक्खा     |          H. भूख,S.बुख,           |
+|     M. हात hand,     |      Pr. हत्थ,      |              H. हाथ.               |
+|  M. हत्तीelephant,  |     Pr. हत्थी,      |              H. हाथी.              |
+|   G. बीनो afraid,    |  Pr. भीदो or भीओ,   |             M. भ्याला.             |
+|  G, बडाई greatness,  |      Pr. वड्ढ       |              H. वढाई.              |
+| G. बगाडवुं to spoil, |      Pr. बिघड,      |             M. बिघडणे.             |
+|   B. पुति a book,    |    Pr. पोत्थिआ,     |            H. M. पोथी.             |
+|   B. पड to learn,    |       Pr. पढ,       |           H. M., &c. पड.           |
+|   B. वाड to grow,    |      Pr. वड्ढ,      |  H. वाढ-\[णें\],H.बाढ-ढब-\[ना\].   |
+| B. वेड to surround,  |       Pr वेढ,       | M. वेड-\[णें\], H. वेंढ-\[ना\],&c, |
+|    B. पातर stones    |     Pr. पत्थर,      |     M. पाथर, H. पत्थर or पाचर.     |
+|     B. पिट back,     |  Pr. पिठ्ठ or पठ्ठ  |          H. पीठ, M. पाठ.           |
+|     B. साद wish,     |     Pr. सद्धा,      |             S, P. साथ.             |
 
  B. **शुकः** (in **शुकान**) to dry, Pr. **सुक्ख**, or **सुक्क**, H. **सूखना**.
 
@@ -6753,16 +6753,16 @@ Gujarati too shows the same tendency though it is not so decided; and we have th
 
 \[Table 85: Bengali श्for Hindi स्\]
 
-।         ।                  ।          ।                                  ।
-|:-------:|:----------------:|:--------:|:--------------------------------:।
-।   B.    ।        H.        ।    B.    ।                H.                ।
-। शुकिवा ।   सूखना to dry   ।  शियाल   ।         सियारा a jackal.         ।
-। शुनिवा  ।  सूनना to hear.  ।  शिमुल   ।      the silk cotton tree.       ।
-।  शुइवा  ।  सोना to sleep.  ।   शूंड   । सोंड, सूंड trunk of an elephant. ।
-।  पाशे   ।    पास near.     ।         ।                                 ।
-।  शिंगा  ।     a horn.      ।   शिशू   ।         सीसो blackwood.         ।
-।  डांश   । डांसa mosquito. ।   शेल    ।           सालa dart.            ।
-।   भईश   । भैंसa buffalo.  । दिवाशलाई ।      दिपासलाई & fire-match.      ।
+|         |                  |          |                                  |
+|:-------:|:----------------:|:--------:|:--------------------------------:|
+|   B.    |        H.        |    B.    |                H.                |
+| शुकिवा |   सूखना to dry   |  शियाल   |         सियारा a jackal.         |
+| शुनिवा  |  सूनना to hear.  |  शिमुल   |      the silk cotton tree.       |
+|  शुइवा  |  सोना to sleep.  |   शूंड   | सोंड, सूंड trunk of an elephant. |
+|  पाशे   |    पास near.     |         |                                 |
+|  शिंगा  |     a horn.      |   शिशू   |         सीसो blackwood.         |
+|  डांश   | डांसa mosquito. |   शेल    |           सालa dart.            |
+|   भईश   | भैंसa buffalo.  | दिवाशलाई |      दिपासलाई & fire-match.      |
 
  
 
@@ -7457,12 +7457,12 @@ inSindhi. The old Hindi or Braj poots use this tense in the presentalso. In all 
  M. has two forms of this old Present :—  
 
 
-।      ।       ।        ।       ।        ।
-।------।-------।--------।-------।--------।
-।     । Sing. । Plural । Sing. । Plural ।
-। 1st । करीं  । करूं   । हसें  । हसूं   ।
-। 2nd  । करीस  । करा    । हसस   । हसा    ।
-। 3rd  । करी   । करीत   । हसे   । हसत    ।
+|      |       |        |       |        |
+|------|-------|--------|-------|--------|
+|     | Sing. | Plural | Sing. | Plural |
+| 1st | करीं  | करूं   | हसें  | हसूं   |
+| 2nd  | करीस  | करा    | हसस   | हसा    |
+| 3rd  | करी   | करीत   | हसे   | हसत    |
 
 
 
@@ -7492,12 +7492,12 @@ pronounced without closing the lips, becomes **इं**. In the same waythe Pr. 
  O. and B. have the following forms for the Present Tense :—  
 
 
-।         ।           ।          ।           ।
-|:-------:|:---------:|:--------:|:---------:।
-।   O.    ।           ।    B.    ।           ।
-। मु करइं । अम्भे करु । मुइ करि  ।  आमि करि  ।
-। तु करु  । तुम्भे कर । तुइ करिस ।  तुमि कर  ।
-। से करइ  । से करन्ति ।  से करे  । तिनि करेन ।
+|         |           |          |           |
+|:-------:|:---------:|:--------:|:---------:|
+|   O.    |           |    B.    |           |
+| मु करइं | अम्भे करु | मुइ करि  |  आमि करि  |
+| तु करु  | तुम्भे कर | तुइ करिस |  तुमि कर  |
+| से करइ  | से करन्ति |  से करे  | तिनि करेन |
 
 
 
@@ -7505,27 +7505,27 @@ pronounced without closing the lips, becomes **इं**. In the same waythe Pr. 
 
  The other languages have:—
 
-।          ।           ।         ।         ।
-|:--------:|:---------:|:-------:|:-------:।
-।    G.    ।           ।   H.    ।         ।
-। हुं करुं । अमे करिये । मै करुं । हम करें ।
-। तुं करे  ।  तमे करो  । तुं करे । तुम करो ।
-।  ते करे  ।  तेओ करे  । उह करे  । वै करें ।
+|          |           |         |         |
+|:--------:|:---------:|:-------:|:-------:|
+|    G.    |           |   H.    |         |
+| हुं करुं | अमे करिये | मै करुं | हम करें |
+| तुं करे  |  तमे करो  | तुं करे | तुम करो |
+|  ते करे  |  तेओ करे  | उह करे  | वै करें |
 
 **S.Tr.**
 
-।                    ।                   ।
-।--------------------।-------------------।
-। आंऊं मारिआं-र्पो   । असीं मारिऊं-र्यूं ।
-। तूं मारिएं-रें-रीं । अहीं मारिओ-र्यो   ।
-। हू मारे            । हू मारीनि-रिनि    ।
+|                    |                   |
+|--------------------|-------------------|
+| आंऊं मारिआं-र्पो   | असीं मारिऊं-र्यूं |
+| तूं मारिएं-रें-रीं | अहीं मारिओ-र्यो   |
+| हू मारे            | हू मारीनि-रिनि    |
 
-।         ।      ।          ।           ।
-|:-------:|:----:|:--------:|:---------:।
-। S.Intr. ।      ।    P.    ।           ।
-।  हलां   । हलूं । मै करां  । असीं करये ।
-।  हलें   । हलो  । तूं करें । तुसी करो  ।
-।   हले   । हलनि ।  उह करे  ।  उह करण   ।
+|         |      |          |           |
+|:-------:|:----:|:--------:|:---------:|
+| S.Intr. |      |    P.    |           |
+|  हलां   | हलूं | मै करां  | असीं करये |
+|  हलें   | हलो  | तूं करें | तुसी करो  |
+|   हले   | हलनि |  उह करे  |  उह करण   |
 
 
 
@@ -7632,12 +7632,12 @@ Bāla-K.
  The Marathi, Oriya, and the Bangali have preserved theImperative mood entire; the others, only the second person sing.,the rest being taken over from the old present or the modernPotential.  
 
 
-।     ।        ।          ।     ।                 ।         ।             ।
-।-----|:------:|:--------:|:---:|:---------------:|:-------:|:-----------:।
-।    ।   M.   ।          । O.  ।                 ।   B.    ।             ।
-। 1st ।  करूं  । करूं-रों । करि ।      करूं       ।   करि   ।     करि     ।
-। 2nd । कर-रीं ।   करा    । कर  ।       कर        । कर-करीस । कर करह करीओ ।
-। 3rd ।  करो   ।   करोत   । करु । करन्तु or करन्त ।  करुक्  ।    करुन्    ।
+|     |        |          |     |                 |         |             |
+|-----|:------:|:--------:|:---:|:---------------:|:-------:|:-----------:|
+|    |   M.   |          | O.  |                 |   B.    |             |
+| 1st |  करूं  | करूं-रों | करि |      करूं       |   करि   |     करि     |
+| 2nd | कर-रीं |   करा    | कर  |       कर        | कर-करीस | कर करह करीओ |
+| 3rd |  करो   |   करोत   | करु | करन्तु or करन्त |  करुक्  |    करुन्    |
 
 
 
@@ -7755,11 +7755,11 @@ seen that **ई** is used in many more grammatical forms in M. than**ए**, whil
  The third Skr. tense preserved by the Prakrits is the SecondFuture. It has descended to the Gujarati. Thus:—  
 
 
-।     ।      ।            ।
-।-----।------।------------।
-। हुं । करीस । अमे करिसुं ।
-। तुं । करसे । तमे करसो   ।
-। ते  । करसे । तेओ करसे   ।
+|     |      |            |
+|-----|------|------------|
+| हुं | करीस | अमे करिसुं |
+| तुं | करसे | तमे करसो   |
+| ते  | करसे | तेओ करसे   |
 
 
 
@@ -7769,11 +7769,11 @@ seen that **ई** is used in many more grammatical forms in M. than**ए**, whil
 to **ह**as it very often is. Thus:—  
 
 
-।        ।        ।
-।--------।--------।
-। करिहौं । करिहैं ।
-। करिहै  । करिहो  ।
-। करिहै  । करिहै  ।
+|        |        |
+|--------|--------|
+| करिहौं | करिहैं |
+| करिहै  | करिहो  |
+| करिहै  | करिहै  |
 
  Here in the 1st pers. sing. we have the **औं**of the Pres. Braj asin **करौं**, unlike the G. and in conformity with the ancient practice.You will also observe that the old augment **इ** is preserved. Itmay be suspected that these forms are derived from those in thePr. which have **ह** instead of **स**, but you will have observed thatthere we have **हि** as in **करिहिइ** and here **ह** which represents theŚaur, and Apbhr. **स**.The old Future occurs in Tulsidāsa'sRāmāyaṇa.
 
@@ -7988,20 +7988,20 @@ Parasm. **इ**, and **ए** or **अ**of the intransitive and reflexive with th
 will remember, the Pr. has **ए, आवे**and, the **ए** of the latter beingdropped, there is another **आव**. We have also a good manyexamples in the vernaculars of the Pr. causals mentioned byHemacandra as formed by dropping all terminations and preserving the vowel changes, guns or viddhi, which roots takebefore the Skr. **अय**or Pr. **ए** Thus:—  
 
 
-।             ।                  ।                  ।
-।-------------।------------------।------------------।
-। M. G. H.    । मरणें-वुं-ना     । मारणें-वुं-ना.   ।
-। H.          । खुलना            । खोलना            ।
-। M. G. H. S. । तुटणें-वुं-ना-णु । तोडणें-वुं-ना-णु ।
-। M. G. H.    । फुटणें-वुं-ना    । फोडणें-वुं-ना    ।
-। H.          । फटना             । फाडनां           ।
-। G.H.        । छुटवुं-ना        । छोडवुं-ना        ।
-। M.          । सुटणें           । सोढणें           ।
-। M.G.        । पडणें-वुं        । पाडणें-हुं       ।
-। M.          । चरणेॆं           । चारणें           ।
-। S.         । वरणु             । वारणु            ।
-। M. S.       । गलणें-गरणु       । गालणें-गारणु     ।
-। S.          । पढणु             । पाढणु            ।
+|             |                  |                  |
+|-------------|------------------|------------------|
+| M. G. H.    | मरणें-वुं-ना     | मारणें-वुं-ना.   |
+| H.          | खुलना            | खोलना            |
+| M. G. H. S. | तुटणें-वुं-ना-णु | तोडणें-वुं-ना-णु |
+| M. G. H.    | फुटणें-वुं-ना    | फोडणें-वुं-ना    |
+| H.          | फटना             | फाडनां           |
+| G.H.        | छुटवुं-ना        | छोडवुं-ना        |
+| M.          | सुटणें           | सोढणें           |
+| M.G.        | पडणें-वुं        | पाडणें-हुं       |
+| M.          | चरणेॆं           | चारणें           |
+| S.         | वरणु             | वारणु            |
+| M. S.       | गलणें-गरणु       | गालणें-गारणु     |
+| S.          | पढणु             | पाढणु            |
 
 
 
@@ -8071,13 +8071,13 @@ will not serve his purpose, but he must have some such as **तदीयंप�
  The Marathi oblique forms are made up by adding theseterminations :—  
 
 
-।             ।     ।      ।     ।
-।-------------।-----|:----:।-----।
-। \(1\) Sing. । आ   । Pl. । आं  ।
-। (2) „      । ई   ।  „   । ईं  ।
-। (3) „      । ई   ।  „   । आं  ।
-। (4) „      । ऊ   ।  „   । ऊं  ।
-। (5) „      । ए   ।  „   । आं  ।
+|             |     |      |     |
+|-------------|-----|:----:|-----|
+| \(1\) Sing. | आ   | Pl. | आं  |
+| (2) „      | ई   |  „   | ईं  |
+| (3) „      | ई   |  „   | आं  |
+| (4) „      | ऊ   |  „   | ऊं  |
+| (5) „      | ए   |  „   | आं  |
 
 
 
@@ -8470,12 +8470,12 @@ Sursāgar, pada 29, page 255.
 
  We have seen that in the course of the development of ourmodern languages the genitive which even in Skr. expressedrelation in general was used for the dative and sometimes forother cases also. The dative thus went out of use and, to expressthe relations which it indicated, various new suffixes, given andexplained above, were brought into use and the old genitive beingattenuated was felt to be too weak to express the usual genitiverelation and it was adapted to serve as the base of all obliquecases to which the newly constituted terminations were appended. The relation of possession as well as other genitive relations,such as that of a thing and the material of which it is made, had thus no special expression left for them. ln Skr. such relationsare indicated, besides the genitive case, by adjectives formed fromthe name of the possessor, material etc. by the addition of specific terminations and from these mostly the genitive terminationsin the modern languages are derived and consequently areadjectival in their nature and agree with the gender of thething possessed or made. The genitive terminations are asfollows:—
 
-।     ।           ।     ।          ।
-|:---:|:---------:|:---:|:--------:।
-। M.  । चा-ची-चें । P.  ।  दा-दी   ।
-। G.  । नो-नी-मुं । B.  । इर or एर ।
-। S.  ।   जो-जी   । O. ।    र     ।
-। H.  ।   का-की   ।    ।         ।
+|     |           |     |          |
+|:---:|:---------:|:---:|:--------:|
+| M.  | चा-ची-चें | P.  |  दा-दी   |
+| G.  | नो-नी-मुं | B.  | इर or एर |
+| S.  |   जो-जी   | O. |    र     |
+| H.  |   का-की   |    |         |
 
 
 
@@ -8645,12 +8645,12 @@ M., S., B. and O. make up some of their tenses and moods in thefirst way; the ot
 
  Here then we see that, like nouns in **ओ-आ**, adjectives alsowith those endings have preserved the old terminations. Nowthe three participles I have mentioned end in **आ** or **ओ** arisingfrom the original affix **क**, wherefore they must be inflected. InM. and G., however, under certain circumstances the presentparticiple ends in **अ** and therefore is not inflected. The oldPresent has in M. acquired another sense whence a new one cameinto use, the forms of which are as follows:—
 
-।           ।                       ।       ।
-|:---------:|:---------------------:|:-----:।
-।   Sing.   ।                       ।  Pl.  ।
-। 1st pers. । करतों-त्ये or तीं-ते  । करतों ।
-। 2nd pers. । करतोस-त्येस, तीस-तेंस । करतां ।
-। 3rd pers. ।   करतो-त्ये, ती-तें   । करतात ।
+|           |                       |       |
+|:---------:|:---------------------:|:-----:|
+|   Sing.   |                       |  Pl.  |
+| 1st pers. | करतों-त्ये or तीं-ते  | करतों |
+| 2nd pers. | करतोस-त्येस, तीस-तेंस | करतां |
+| 3rd pers. |   करतो-त्ये, ती-तें   | करतात |
 
  These are made up by adding the terminations expressive ofgender and person to the pres. part. which is **करत**. White the fem. **ई**this becomes **करती**, but there is another form in **ये** which appearsto have been arrived at thus:**करन्तअ** ( for **करन्तक** )-**करतय-करतय+ई**of fem.—**करतये**—**करत्ये**.The neuter form is **करते**.These threeforms are used in the sing. while the gender is neglected in the pl.There is however such a form as **करत्यात** used for the 3rd pers. pl.in the pure Deccan in which **करत्यात** is the fem. pl. of **करती**. Tothese adjectival bases are appended the personal terminations ofthe old Pres. for the two numbers, which, you will remember, are3rd pers. sing. **इ**. pl. **त**; 2nd pers. sing. **स**, pl. **आ**; 1st pers. sing. **इं**,pl. **ऊं**.
 
@@ -8660,19 +8660,19 @@ M., S., B. and O. make up some of their tenses and moods in thefirst way; the ot
 
  In the Goan. and Māl. the gender is not attended to and theforms are the same for all. This arises from the use of the unaugmented participle **करत** and not **करतअ** which retains the inflections. The forms are:—
 
-।           ।                   ।             ।
-|:---------:|:-----------------:|:-----------:।
-।   Sing.   ।                   ।             ।
-। 1st pers. । करतैं or तंय Māl. । करतां Goan. ।
-। 2nd pers. ।     करतस Māl.     । करतास Goan. ।
-। 3rd pers. ।     करता Māl.     । करता Goan.  ।
+|           |                   |             |
+|:---------:|:-----------------:|:-----------:|
+|   Sing.   |                   |             |
+| 1st pers. | करतैं or तंय Māl. | करतां Goan. |
+| 2nd pers. |     करतस Māl.     | करतास Goan. |
+| 3rd pers. |     करता Māl.     | करता Goan.  |
 
-।           ।                ।              ।
-|:---------:|:--------------:|:------------:।
-।    Pl.    ।                ।              ।
-। 1st pers. । करतौं—तंवMāl. । करतांव Goan. ।
-। 2nd pers. ।   करतात Māl.   । करतात Goan.  ।
-। 3rd pers. ।   करतत Māl.    । करतात Goan.  ।
+|           |                |              |
+|:---------:|:--------------:|:------------:|
+|    Pl.    |                |              |
+| 1st pers. | करतौं—तंवMāl. | करतांव Goan. |
+| 2nd pers. |   करतात Māl.   | करतात Goan.  |
+| 3rd pers. |   करतत Māl.    | करतात Goan.  |
 
  The terminations are those of the old Pres. of intransitiveroots in these dialects, *i. e.* the real Pr. terminations without thetransitive or Parasm, augment **ई**. The 2nd pers. pl. **त**, which Ihave traced to the Pr. **इत्था**, is peculiar to the Goan. and Māl. andit is not altogether absent from the ordinary M. In the 1st. pers.sing. Māl, we have the old **इं** from **मि** distinct and not reduced toan amusvära as in the standard dialect and also the Goan.
 
@@ -8681,12 +8681,12 @@ M., S., B. and O. make up some of their tenses and moods in thefirst way; the ot
  The reason why forms expressive of present time have cometo denote past time is to be sought for in that natural use of thePres, which is called Historic Present. A man in narrating astory transports himself for the sake of vividness into that timewhen the actions are supposed to have taken place and speaks ofthem as if they were present; and when this habit becomes generalin a language, the fact of such an imaginary transfer is forgottenand the Present Tense becomes Past Tense. We have manyinstances of this use of the Skr. Pres. in such books as the Pañcatantra. The forms of the O. Past Habitual are these :—  
 
 
-।           ।        ।         ।
-|:---------:|:------:|:-------:।
-।   Sing.   ।        ।   Pl.   ।
-। 1st pers  । करन्ति । करन्तुं ।
-। 2nd pers. । करन्तु ।  करन्त  ।
-। 3rd pers. । करन्ता । करन्ते  ।
+|           |        |         |
+|:---------:|:------:|:-------:|
+|   Sing.   |        |   Pl.   |
+| 1st pers  | करन्ति | करन्तुं |
+| 2nd pers. | करन्तु |  करन्त  |
+| 3rd pers. | करन्ता | करन्ते  |
 
 
 
@@ -8697,13 +8697,13 @@ M., S., B. and O. make up some of their tenses and moods in thefirst way; the ot
  These same forms that we have been discussing have in theS. acquired a future signification and constitute the regularFuture tense of that dialect. The Pres, expresses in all languagesan immediate future—a man's intending shortly to do a thing isconsidered as good as actually doing it. This is the germ offuturity in the signification of forms of the Present tense; andusage may take hold of it and constitute them into a regularFuture. The Sindhi forms are—  
 
 
-।           ।         ।           ।                  ।               ।
-|:---------:|:-------:|:---------:|:----------------:|:-------------:।
-।   Masc.   ।         ।          ।       Fem.       ।               ।
-।   Sing.   ।         ।    Pl.    ।      Sing.       ।      Pl.      ।
-। 1st pers. । हलंदुसि । हलंदासीं  । हलांदेआसि-द्यासि । हलंदिऊं-गूसीं ।
-। 2nd pers. । हलंदें  । हलंदउन्दौ ।    हलंदिअं-एं    ।  हलंदिऊं-गू   ।
-। 3rd pers. ।  हलंदो  ।   हलंदा   ।      हलंदी       । हलंदिऊं-द्यूं ।
+|           |         |           |                  |               |
+|:---------:|:-------:|:---------:|:----------------:|:-------------:|
+|   Masc.   |         |          |       Fem.       |               |
+|   Sing.   |         |    Pl.    |      Sing.       |      Pl.      |
+| 1st pers. | हलंदुसि | हलंदासीं  | हलांदेआसि-द्यासि | हलंदिऊं-गूसीं |
+| 2nd pers. | हलंदें  | हलंदउन्दौ |    हलंदिअं-एं    |  हलंदिऊं-गू   |
+| 3rd pers. |  हलंदो  |   हलंदा   |      हलंदी       | हलंदिऊं-द्यूं |
 
 
 
@@ -8715,21 +8715,21 @@ the pl. are like those of corresponding adjectives in **ओ**. The 2ndpers, has 
 
 **Masc.**
 
-।               ।                 ।
-|:-------------:|:---------------:।
-।   Singular    ।     Plural.     ।
-। हलिउसि-ल्युसि । हलिआसीं-ल्यासीं ।
-।  हलिएं-ल्यें  ।   हल्यउ-ल्यु    ।
-।   हलिओ-ल्यो   ।    हलिआ-ल्या    ।
+|               |                 |
+|:-------------:|:---------------:|
+|   Singular    |     Plural.     |
+| हलिउसि-ल्युसि | हलिआसीं-ल्यासीं |
+|  हलिएं-ल्यें  |   हल्यउ-ल्यु    |
+|   हलिओ-ल्यो   |    हलिआ-ल्या    |
 
 **Fem.**
 
-।              ।           ।
-|:------------:|:---------:।
-।   Singular   ।  Plural.  ।
-। हलिउसि-ल्यसि । हलियूंसि  ।
-।   हलिअं-एं   । हलियूं-ऊं ।
-।     हलीं     ।  हलियूं   ।
+|              |           |
+|:------------:|:---------:|
+|   Singular   |  Plural.  |
+| हलिउसि-ल्यसि | हलियूंसि  |
+|   हलिअं-एं   | हलियूं-ऊं |
+|     हलीं     |  हलियूं   |
 
 
 
@@ -8737,13 +8737,13 @@ the pl. are like those of corresponding adjectives in **ओ**. The 2ndpers, has 
 
  Marathi has—
 
-।       ।       ।       ।             ।         ।        ।        ।
-|:-----:|:-----:|:-----:|:-----------:|:-------:|:------:|:------:।
-। Masc. ।       ।       ।    Fem.     ।         । Neut.  ।        ।
-।      । Sing. ।  Pl.  ।    Sing.    ।   Pl.   । Sing.  ।  Pl.   ।
-। 1st.  । गेलों । गेलों । गेल्यें-लीं । गेल्यों । गेलें  । गेलों  ।
-। 2nd.  । गेलास । गेलां ।    गेलीस    । गेल्यात । गेलेंस । गेलींत ।
-। 3rd.  । गेला  । गेले  ।    गेली     । गेल्या  । गेलें  । गेलीं  ।
+|       |       |       |             |         |        |        |
+|:-----:|:-----:|:-----:|:-----------:|:-------:|:------:|:------:|
+| Masc. |       |       |    Fem.     |         | Neut.  |        |
+|      | Sing. |  Pl.  |    Sing.    |   Pl.   | Sing.  |  Pl.   |
+| 1st.  | गेलों | गेलों | गेल्यें-लीं | गेल्यों | गेलें  | गेलों  |
+| 2nd.  | गेलास | गेलां |    गेलीस    | गेल्यात | गेलेंस | गेलींत |
+| 3rd.  | गेला  | गेले  |    गेली     | गेल्या  | गेलें  | गेलीं  |
 
  Here as before we have simply adjectival forms for the 3rdpers.; and the verbal terminations of the old Pres. appear in thefirst and second united with the nominal affixes indicative ofgender and number, which however are dropped where they cannot be easily combined with the other, as in the first and secondperson plural mase. It should be remarked that the old masc.termination **उ** or **ओ** is preserved in the 1st pers. sing., as in thenew Pres., and the 2nd pers. pl. has in some cases the affix **त**.,which I have already noticed and traced to the Pr. **इत्था**.
 
@@ -8753,21 +8753,21 @@ the pl. are like those of corresponding adjectives in **ओ**. The 2ndpers, has 
 
 **Goan.**
 
-।                      ।                           ।
-|:--------------------:|:-------------------------:।
-।  हांव गेलों-लीं-लं   ।    आमी गेलों-ल्यों-लीं    ।
-।   तूं गेलो-ली-लंस    ।    तुमी गेले-ल्यो-लींत    ।
-। तो-ती-तें-गेलो-ली-लं । ते-त्यो-तीं-गेले-ल्यो-लीं ।
+|                      |                           |
+|:--------------------:|:-------------------------:|
+|  हांव गेलों-लीं-लं   |    आमी गेलों-ल्यों-लीं    |
+|   तूं गेलो-ली-लंस    |    तुमी गेले-ल्यो-लींत    |
+| तो-ती-तें-गेलो-ली-लं | ते-त्यो-तीं-गेले-ल्यो-लीं |
 
 
 
 Māl.
 
-।                       ।                           ।
-|:---------------------:|:-------------------------:।
-।       मी गेलइं        ।         आमी गेलौं         ।
-।       तूं गेलस        ।     तुमी गेलात-ल्यात      ।
-। तो-ती-तां-गेलो-ली-लां । ते-त्यो-तीं-गेले-ल्यो-लीं ।
+|                       |                           |
+|:---------------------:|:-------------------------:|
+|       मी गेलइं        |         आमी गेलौं         |
+|       तूं गेलस        |     तुमी गेलात-ल्यात      |
+| तो-ती-तां-गेलो-ली-लां | ते-त्यो-तीं-गेले-ल्यो-लीं |
 
 
 
@@ -8779,13 +8779,13 @@ S. mean 'thou wert beaten' and 'I was beaten', but we do not use'.such forms as 
 
  The O. and the B. do not inflect their adjectives, whether theyend in ओ or any other vowel and have no agent case or instrumental. When the languages came to be in this condition, there wasnothing to mark off the passive nature of the transitive participle.Hence it was forgotten and we have now active verbal formsonly, which are constructed as in the other languages.
 
-।            ।       ।      ।               ।           ।
-|:----------:|:-----:|:----:|:-------------:|:---------:।
-।     O.     ।       ।      ।      B.       ।           ।
-।           । Sing. । Pl.  ।     Sing.     ।    Pl.    ।
-। 1st. pers. ।  कलि  । कलुं ।   देखिलाम्    । देखिलाम्  ।
-। 2nd pers.  ।  कलु  ।  कल  ।    देखिलि     । देखिला-ले ।
-। 3rd pers.  ।  कला  । कले  । देखिल (or ल्) । देखिलेन्  ।
+|            |       |      |               |           |
+|:----------:|:-----:|:----:|:-------------:|:---------:|
+|     O.     |       |      |      B.       |           |
+|           | Sing. | Pl.  |     Sing.     |    Pl.    |
+| 1st. pers. |  कलि  | कलुं |   देखिलाम्    | देखिलाम्  |
+| 2nd pers.  |  कलु  |  कल  |    देखिलि     | देखिला-ले |
+| 3rd pers.  |  कला  | कले  | देखिल (or ल्) | देखिलेन्  |
 
 
 
@@ -8797,13 +8797,13 @@ S. mean 'thou wert beaten' and 'I was beaten', but we do not use'.such forms as 
 
  The Skr. potential participle in **तव्य**, Pr. **अव्व**, which impliesduty, has become the base of the O. and B. Future. In Skr. **मयाकर्तव्यम्** means 'it is to be done by me' *i. e.* it is my duty to do it,and the transition from this idea to 'I shall do it is natural. Thevery word 'shall' in English, which primarily signifies 'I owe'and has now become the sing of the English Future, is anexample of it. This participle in Skr. and Pr. is impersonal whenthe root is intransitive and passive when it is transitive. Likethe past part, this has lost its passive character in these languagesfor the same reasons. The usual personal terminations areapplied to it as—
 
-।            ।       ।          ।       ।          ।
-|:----------:|:-----:|:--------:|:-----:|:--------:।
-।     O.     ।       ।          ।  B.   ।          ।
-।           । Sing. ।   Pl.    । Sing. ।   Pl.    ।
-। 1st. pers. । करिवि । करिवु-वा । करिव  ।   करिव   ।
-। 2nd pers.  । करिवु ।   करिव   । करिवि । करिवा-वे ।
-। 3rd pers.  । करिव  ।  करिवे   । करिवे । करिवेन्  ।
+|            |       |          |       |          |
+|:----------:|:-----:|:--------:|:-----:|:--------:|
+|     O.     |       |          |  B.   |          |
+|           | Sing. |   Pl.    | Sing. |   Pl.    |
+| 1st. pers. | करिवि | करिवु-वा | करिव  |   करिव   |
+| 2nd pers.  | करिवु |   करिव   | करिवि | करिवा-वे |
+| 3rd pers.  | करिव  |  करिवे   | करिवे | करिवेन्  |
 
  In the O., the third pers. sing. has no terminations and the pl.has the nom. pl. **ए**, which we have found in so many cases. Theothers have the usual affixes. The optional **वा**of the first pers. pl.appears to be the adjectival sing. **वा**.
 
@@ -8821,12 +8821,12 @@ unaspirates. The genius of the Prakrits and their descendantsis to preserve the 
 
  We have next to examine the forms that are made up byadding independent words. There are not many of this class.The H. and P. Future is constructed by affixing **गा** sing., **गे** pl.masc., and **गी**sing. and **गीं** pl. fem to the forms of the Present. This **गा** appears to be the past participle of **गम्**and ordinarily it isused in the form of **गया**. Participles of other roots also are in H.sometimes reduced to monosyllabic forms as **दी**for **दिई, की** for **किई**;these are feminine and the corresponding masc. monosyllabicforms are er **दा**and **का**. We have seen that these **का-की** and **दा-दी**are appended to the obl. case form to make up the genitive in H.and P. Similarly the participle **गा-गी** is used to form the Future,so that **करेगा** means 'gone that he may do.' The M. Future isformed by adding **इल** or **ल** to the old Present, as you will see fromthe following forms:—
 
-।      ।          ।        ।        ।        ।
-|:----:|:--------:|:------:|:------:|:------:।
-।     ।  Sing.   ।  Pl.   । Sing.  ।  Pl.   ।
-। 1st. ।   करीन   ।  करूं  । धावेन  । धाबूं  ।
-। 2nd. । कर-रिशील ।  कराल  । धावशील । धावाल  ।
-। 3rd. ।   करील   । करितील । धाबेल  । धावतील ।
+|      |          |        |        |        |
+|:----:|:--------:|:------:|:------:|:------:|
+|     |  Sing.   |  Pl.   | Sing.  |  Pl.   |
+| 1st. |   करीन   |  करूं  | धावेन  | धाबूं  |
+| 2nd. | कर-रिशील |  कराल  | धावशील | धावाल  |
+| 3rd. |   करील   | करितील | धाबेल  | धावतील |
 
  In the first pers. sing. **ल** and the anusvära of **रीं** together form**न**as they do in several other cases; the pl. is the same as that ofthe Pres. What is the nature of this **ल** or **इल** ? One **ल** that isappended to the past participle we have already examined. Thereis another appended in the Goan. and Māl. to the present part.and the forms thus made up have past habitual and future sense.Thus Goan. **करतालो**means 'he used to do' and **करतलो**Goan.andMāl. 'he will do.' In both cases the base is the present part., butin the first it occurs in the augmented form or the form with theold Skr. **क**. The pres. part. has in the O., as we have seen,acquired a past and in the S. a future sense, the germs of both ofwhich are, as I have explained, contained in its original signification, while here in the Goan. it has both the senses. Now, asit was the practice, as I observed in the last two lectures, toattach **क** and **ल**or **इल** optionally to a great many words, the sameword had often several forms—one without **क**, another with it, athird with **ल**, a fourth without it and a fifth with both **ल** and **क**.These terminations did not signify much originally but afterwards, when the words such as the pres. part. began more andmore to acquire distinct and diverse significations, one of theforms whether with or without **ल** became identified with onesense and the other with another. Thus **करतालो**, made up as it isby the addition of **क**, which has left its **अ**, and of **ल**, was appropriated for the Habitual Past and without to the Future.But that the new additions themselves originally were notexpressive of that sense is shown by the fact that the augmentedform **करता** in **तो करता तर बरें होतें** expresses past conditional in M.and H., while it is the unaugmented **करत** in G. in **ते करत तो सारुंथात** which conveys that sense. Thus then **ल** was applied in M.to the Present verbal forms also and, when the old Future waslost, these came to be appropriated for the Future, just as thepresent participle with **ल** came to have a future signification inthe Goan. and Māl.
 
@@ -9097,43 +9097,43 @@ The growth of the specifio Prakrits, therefore, must be referredto the early cen
 
 **LIST OF ABREVIATIONS**
 
-।                                                   ।                                    ।
-।---------------------------------------------------।------------------------------------।
-। Abl. = Ablative                                   । Obl. = Oblique                     ।
-। Absol. = Absolutive                               । P. = Panjabi or Panjābī            ।
-। Acc. = Accusative                                 । Pāṇ. =Pāṇini                      ।
-। Ait. = Aitareya                                   । Parasm. = Parasmaipada             ।
-। Ap., Apabhr., Apblr., Apbr. =Apabhraṁśa          । Part. = Participle                 ।
-। Ath. Pr. = Atharva Prātiśākhya                    । Per. or Pres. = Person             ।
-। Ätm. = Ātmanepada                                 । Pl. = Plural                       ।
-। B. = Bengali                                      । Pot. = potential                   ।
-। Bräh. = Brāhmaṇa                                  । P. p. p. = Past Passive Participle ।
-। cit. = citpavani                                  । Pr. = Prakrit                      ।
-। Corp. insc. Ind. = Corpus inscriptional Indicarum । Pres. = Present                    ।
-। Dat. = Dative                                     । Pürva = Pūrvapakṣin                ।
-। Dh. = Dhaull                                      । Ṛv. = Ṛgveda                       ।
-। Dial. = Dialect                                   । S. = Sindhi or Sindhī              ।
-। Fem. Feminine                                     । Saṁh. = Saṁhitā                    ।
-। G., Guj. = Gujarati                               । Śat. = Śatapatha                   ।
-। Gen. = Genitive                                   । Śaur. = Śaurasenī                  ।
-। Goan, Goanese                                     । Sid. = Siddhāntin                  ।
-। H.= Hindi                                         । Sing. = Singular                   ।
-। Imper. = Imperative                               । Sk. = Sanskrit                     ।
-। Ind. St.= Indische Studien                        । St. = Standard                     ।
-। Instr. = Instrumental                             । Tad. = Tadbhava                    ।
-। Intr.= Intransitive                               । Tait. = Taittirïya                 ।
-। Jñän, = Jñäneśvari                                । Term. = Termination.               ।
-। Karh. = Karhāda or Karhada                        । Tr. = Transitive                   ।
-। Kh. = Khalsi                                      । Tulasi. = Tulasidäs.or Tulsidäsa  ।
-। Loc. = Locative                                   । Väj. Pr. = Vājasaneyi Prātiśakhya  ।
-। M., Mar. = Marathi or Marāṭhī                     । Voc. = Vocative                    ।
-। Mah., Mahr. = Mahārāṣṭrī                          ।                                   ।
-। Mal. = Malvani or Mālvaṇī                         ।                                   ।
-। Mase. = Masculine                                 ।                                   ।
-। Mod. = Modern                                     ।                                   ।
-। Neut. = Neuter                                    ।                                   ।
-। Nom. = Nominative                                 ।                                   ।
-। O. = Oriya or Oriyä                               ।                                   ।
+|                                                   |                                    |
+|---------------------------------------------------|------------------------------------|
+| Abl. = Ablative                                   | Obl. = Oblique                     |
+| Absol. = Absolutive                               | P. = Panjabi or Panjābī            |
+| Acc. = Accusative                                 | Pāṇ. =Pāṇini                      |
+| Ait. = Aitareya                                   | Parasm. = Parasmaipada             |
+| Ap., Apabhr., Apblr., Apbr. =Apabhraṁśa          | Part. = Participle                 |
+| Ath. Pr. = Atharva Prātiśākhya                    | Per. or Pres. = Person             |
+| Ätm. = Ātmanepada                                 | Pl. = Plural                       |
+| B. = Bengali                                      | Pot. = potential                   |
+| Bräh. = Brāhmaṇa                                  | P. p. p. = Past Passive Participle |
+| cit. = citpavani                                  | Pr. = Prakrit                      |
+| Corp. insc. Ind. = Corpus inscriptional Indicarum | Pres. = Present                    |
+| Dat. = Dative                                     | Pürva = Pūrvapakṣin                |
+| Dh. = Dhaull                                      | Ṛv. = Ṛgveda                       |
+| Dial. = Dialect                                   | S. = Sindhi or Sindhī              |
+| Fem. Feminine                                     | Saṁh. = Saṁhitā                    |
+| G., Guj. = Gujarati                               | Śat. = Śatapatha                   |
+| Gen. = Genitive                                   | Śaur. = Śaurasenī                  |
+| Goan, Goanese                                     | Sid. = Siddhāntin                  |
+| H.= Hindi                                         | Sing. = Singular                   |
+| Imper. = Imperative                               | Sk. = Sanskrit                     |
+| Ind. St.= Indische Studien                        | St. = Standard                     |
+| Instr. = Instrumental                             | Tad. = Tadbhava                    |
+| Intr.= Intransitive                               | Tait. = Taittirïya                 |
+| Jñän, = Jñäneśvari                                | Term. = Termination.               |
+| Karh. = Karhāda or Karhada                        | Tr. = Transitive                   |
+| Kh. = Khalsi                                      | Tulasi. = Tulasidäs.or Tulsidäsa  |
+| Loc. = Locative                                   | Väj. Pr. = Vājasaneyi Prātiśakhya  |
+| M., Mar. = Marathi or Marāṭhī                     | Voc. = Vocative                    |
+| Mah., Mahr. = Mahārāṣṭrī                          |                                   |
+| Mal. = Malvani or Mālvaṇī                         |                                   |
+| Mase. = Masculine                                 |                                   |
+| Mod. = Modern                                     |                                   |
+| Neut. = Neuter                                    |                                   |
+| Nom. = Nominative                                 |                                   |
+| O. = Oriya or Oriyä                               |                                   |
 
 **INDEXES**  
 INDEX - I  
@@ -9167,9 +9167,9 @@ GENERAL INDEX
 
 **INDEX II**
 
-।                                                                                                                                                                                                                                                                                                                                                                 ।                                                                                                                                                                                                                                                                                                                                                        ।
-।-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। V.s derived from Prakrits, date of modern V.s coming into prominence, modern V. pronunciation, law of accentuation causal roots in V. Skr. dentals changed to cerebrals in V.s. mode of Northern V.s of India, local tendencies exhibited by the speakers of V.s, pronouns in V.s., verbs etc. in V.s, absolutive in V.s. causes of V.s, one chief and import- । ant source of the modern case affixes overlooked by V. philologists; origin of स in V. terminations.ablative terminations in V.s, derivation of तन् in V.s, in: Gujarati, another way of possession in V.s, another derivation of the V.s, "कर" future tense of V.s. V.s and Prakrits, peculiarities modern V.s, sanskrit and Prakrits 11  Visarga, ।
+|                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                        |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| V.s derived from Prakrits, date of modern V.s coming into prominence, modern V. pronunciation, law of accentuation causal roots in V. Skr. dentals changed to cerebrals in V.s. mode of Northern V.s of India, local tendencies exhibited by the speakers of V.s, pronouns in V.s., verbs etc. in V.s, absolutive in V.s. causes of V.s, one chief and import- | ant source of the modern case affixes overlooked by V. philologists; origin of स in V. terminations.ablative terminations in V.s, derivation of तन् in V.s, in: Gujarati, another way of possession in V.s, another derivation of the V.s, "कर" future tense of V.s. V.s and Prakrits, peculiarities modern V.s, sanskrit and Prakrits 11  Visarga, |
 
 **INDEX II**
 
@@ -9421,69 +9421,69 @@ CONTENTS OF VOLUME IV
 
 
 
-।                                                                                                                   ।
-।-------------------------------------------------------------------------------------------------------------------।
-। WILSON PHILOLOGICAL LECTURES ON SANSKRIT AND THE DERIVED LANGUAGES                                                ।
-। LECTURE I— General Laws guiding the Development of Language: The different stages in the Development of Sanskrit ।
-। Preliminary                                                                                                       ।
-। Sanskrit: its importance                                                                                          ।
-। Phonetic decay                                                                                                    ।
-। Śvāsa: Nāda                                                                                                       ।
-। False analogies                                                                                                   ।
-। Names of Objects                                                                                                  ।
-। Gradual disappearance of words                                                                                    ।
-। Three Languages of the world                                                                                      ।
-। Three Varieties of Sanskrit                                                                                       ।
-। Chief characteristics of Vedic Sanskrit; an example of Vedic Sanskrit                                             ।
-। -Do- of Brāhmaṇa passage; its peculiarities                                                                       ।
-। The next stage of Sanskrit                                                                                        ।
-। The fluent and nominal styles                                                                                     ।
-। The petrified or nominal stage                                                                                    ।
-। The nominal stage cultivated in philosophical writings.                                                           ।
-। Middle stage of writing : Sanskrit of Śamkarācārya                                                                ।
-। Change of Style after Śamkarācārya                                                                                ।
-। Real style of Sanskrit                                                                                            ।
-। Kātyāyana, his evidence about the Sanskrit style                                                                  ।
-। Conclusion that verbal forms had been obsolete and participles were used in their place                           ।
-। Places and rules in which Pāṇini had become obsolete                                                              ।
-। Conclusion from this.                                                                                             ।
-। Pāṇini's Grammar contains the Middle Sanskrit and Kātyāyana's, the Classical Sanskrit                             ।
-। LECTURE II—Pali and the Dialects of the Period                                                                    ।
-। Sanskrit corrupted in course of time                                                                              ।
-। Examples from Pali                                                                                                ।
-। Phonology of the Pali Dialect—Pronouncing a Conjunct:                                                             ।
-। Śvāsa: Nāda                                                                                                       ।
+|                                                                                                                   |
+|-------------------------------------------------------------------------------------------------------------------|
+| WILSON PHILOLOGICAL LECTURES ON SANSKRIT AND THE DERIVED LANGUAGES                                                |
+| LECTURE I— General Laws guiding the Development of Language: The different stages in the Development of Sanskrit |
+| Preliminary                                                                                                       |
+| Sanskrit: its importance                                                                                          |
+| Phonetic decay                                                                                                    |
+| Śvāsa: Nāda                                                                                                       |
+| False analogies                                                                                                   |
+| Names of Objects                                                                                                  |
+| Gradual disappearance of words                                                                                    |
+| Three Languages of the world                                                                                      |
+| Three Varieties of Sanskrit                                                                                       |
+| Chief characteristics of Vedic Sanskrit; an example of Vedic Sanskrit                                             |
+| -Do- of Brāhmaṇa passage; its peculiarities                                                                       |
+| The next stage of Sanskrit                                                                                        |
+| The fluent and nominal styles                                                                                     |
+| The petrified or nominal stage                                                                                    |
+| The nominal stage cultivated in philosophical writings.                                                           |
+| Middle stage of writing : Sanskrit of Śamkarācārya                                                                |
+| Change of Style after Śamkarācārya                                                                                |
+| Real style of Sanskrit                                                                                            |
+| Kātyāyana, his evidence about the Sanskrit style                                                                  |
+| Conclusion that verbal forms had been obsolete and participles were used in their place                           |
+| Places and rules in which Pāṇini had become obsolete                                                              |
+| Conclusion from this.                                                                                             |
+| Pāṇini's Grammar contains the Middle Sanskrit and Kātyāyana's, the Classical Sanskrit                             |
+| LECTURE II—Pali and the Dialects of the Period                                                                    |
+| Sanskrit corrupted in course of time                                                                              |
+| Examples from Pali                                                                                                |
+| Phonology of the Pali Dialect—Pronouncing a Conjunct:                                                             |
+| Śvāsa: Nāda                                                                                                       |
 
 
 
-।                                                                                                              ।
-।--------------------------------------------------------------------------------------------------------------।
-। No Pali consonants omitted by Pali speakers                                                                  ।
-। Exceptions to the above                                                                                      ।
-। Changes of single consonants                                                                                 ।
-। Mātrā                                                                                                        ।
-। Possible influence of aliens on language modification                                                        ।
-। Assimilation of Consonants a universal rule in Pali                                                          ।
-। Several words, unknown to Sanskrit, but formed from Sanskrit, coming into use.                               ।
-। Grammar of the Pali Dialect                                                                                  ।
-। The Noun: Masculine Nouns ending in अ                                                                        ।
-। Masculine Nouns in इ and उ                                                                                   ।
-। Masculine Nouns in ऋ                                                                                         ।
-। Masculine Nouns in a consonant                                                                               ।
-। Feminine Nouns                                                                                               ।
-। Neuter Nouns                                                                                                 ।
-। Pronouns                                                                                                     ।
-। False Analogies or Generalisations: false ideas regarding some of these                                      ।
-। The Verb in Pali                                                                                             ।
-। Terminations in Pali                                                                                         ।
-। The Grammar of Aśoka Inscriptions: their place                                                               ।
-। Examples of Aśoka Inscriptions                                                                               ।
-। Resemblance of some Inscriptions in Pali to Sanskrit                                                         ।
-। LECTURE III — The Prakrits and the Apabhraṁśa                                                                ।
-। Prakrits: Vararuci's Prākṛtaprakāśa; Hemacandra's Koṣa of Deśi words                                         ।
-। Daṇḍin his Kāvyādarśa; Setubandha; Vākpatirāja ; Gauḍavadhakāvya                                             ।
-। General rule that the dramatic person should speak language of the country to which he is supposed do belong ।
-। Later dramatists: Sāhityadarpaṇa                                                                             ।
+|                                                                                                              |
+|--------------------------------------------------------------------------------------------------------------|
+| No Pali consonants omitted by Pali speakers                                                                  |
+| Exceptions to the above                                                                                      |
+| Changes of single consonants                                                                                 |
+| Mātrā                                                                                                        |
+| Possible influence of aliens on language modification                                                        |
+| Assimilation of Consonants a universal rule in Pali                                                          |
+| Several words, unknown to Sanskrit, but formed from Sanskrit, coming into use.                               |
+| Grammar of the Pali Dialect                                                                                  |
+| The Noun: Masculine Nouns ending in अ                                                                        |
+| Masculine Nouns in इ and उ                                                                                   |
+| Masculine Nouns in ऋ                                                                                         |
+| Masculine Nouns in a consonant                                                                               |
+| Feminine Nouns                                                                                               |
+| Neuter Nouns                                                                                                 |
+| Pronouns                                                                                                     |
+| False Analogies or Generalisations: false ideas regarding some of these                                      |
+| The Verb in Pali                                                                                             |
+| Terminations in Pali                                                                                         |
+| The Grammar of Aśoka Inscriptions: their place                                                               |
+| Examples of Aśoka Inscriptions                                                                               |
+| Resemblance of some Inscriptions in Pali to Sanskrit                                                         |
+| LECTURE III — The Prakrits and the Apabhraṁśa                                                                |
+| Prakrits: Vararuci's Prākṛtaprakāśa; Hemacandra's Koṣa of Deśi words                                         |
+| Daṇḍin his Kāvyādarśa; Setubandha; Vākpatirāja ; Gauḍavadhakāvya                                             |
+| General rule that the dramatic person should speak language of the country to which he is supposed do belong |
+| Later dramatists: Sāhityadarpaṇa                                                                             |
 
 
 
@@ -9491,111 +9491,111 @@ CONTENTS OF VOLUME IV
 
 
 
-।                                                                                 ।
-।---------------------------------------------------------------------------------।
-। Words derived from Sanskrit from the eight Dialects                             ।
-। Distinction between the Vocabulary of the Vernaculars of N. India.              ।
-। Distinction between Modern Tatsamas, Sanskrit &c.                               ।
-। Three classes of Prakrit and newly constructed words                            ।
-। Tracing the Vernaculars from Pali and Prakrits                                  ।
-। Accent in Modern Vernaculars                                                    ।
-। The suffix ka in Pāṇini's time to indicate littleness &c.                       ।
-। The Original and Derivative Accents in the Vernaculars.                         ।
-। Accent in the Hindi                                                             ।
-। Exceptions to the above.                                                        ।
-। Accent in Gujarati                                                              ।
-। Accent in Panjabi                                                               ।
-। Accent in Sindhi                                                                ।
-। Accent in Bengali and Oriya                                                     ।
-। Accent on Vernacular Terminations.                                              ।
-। Accent in Vernacular Compounds                                                  ।
-। Avoiding of the Hiatus in the Vernaculars                                       ।
-। Consonantal Changes in the Vernaculars                                          ।
-। Interchangeableness of certain Consonants                                       ।
-। Va of the Causal Terminations in the Vernaculars                                ।
-। Treatment of Sankrit Conjuncts in the Vernaculars.                              ।
-। Dentals changed to Palatals                                                     ।
-। Assimilation of Members of Conjuncts.                                           ।
-। LECTURE V — Remnants of the Older Grammatical Forms in the Northern Vernaculars ।
-। Case Terminations in the Vernaculars                                            ।
-। Pronouns in the Vernaculars.                                                    ।
-। Personal Pronouns in the Vernaculars                                            ।
-। Verb in the Vernaculars.                                                        ।
-। Verbal Terminations: The Present                                                ।
-। Verbal Terminations: The Imperative                                             ।
-। Verbal Terminations: The Future                                                 ।
-। The Past Tense in the Vernaculars                                               ।
-। The Past Participle                                                             ।
-। The Present Participle in the Vernaculars                                       ।
+|                                                                                 |
+|---------------------------------------------------------------------------------|
+| Words derived from Sanskrit from the eight Dialects                             |
+| Distinction between the Vocabulary of the Vernaculars of N. India.              |
+| Distinction between Modern Tatsamas, Sanskrit &c.                               |
+| Three classes of Prakrit and newly constructed words                            |
+| Tracing the Vernaculars from Pali and Prakrits                                  |
+| Accent in Modern Vernaculars                                                    |
+| The suffix ka in Pāṇini's time to indicate littleness &c.                       |
+| The Original and Derivative Accents in the Vernaculars.                         |
+| Accent in the Hindi                                                             |
+| Exceptions to the above.                                                        |
+| Accent in Gujarati                                                              |
+| Accent in Panjabi                                                               |
+| Accent in Sindhi                                                                |
+| Accent in Bengali and Oriya                                                     |
+| Accent on Vernacular Terminations.                                              |
+| Accent in Vernacular Compounds                                                  |
+| Avoiding of the Hiatus in the Vernaculars                                       |
+| Consonantal Changes in the Vernaculars                                          |
+| Interchangeableness of certain Consonants                                       |
+| Va of the Causal Terminations in the Vernaculars                                |
+| Treatment of Sankrit Conjuncts in the Vernaculars.                              |
+| Dentals changed to Palatals                                                     |
+| Assimilation of Members of Conjuncts.                                           |
+| LECTURE V — Remnants of the Older Grammatical Forms in the Northern Vernaculars |
+| Case Terminations in the Vernaculars                                            |
+| Pronouns in the Vernaculars.                                                    |
+| Personal Pronouns in the Vernaculars                                            |
+| Verb in the Vernaculars.                                                        |
+| Verbal Terminations: The Present                                                |
+| Verbal Terminations: The Imperative                                             |
+| Verbal Terminations: The Future                                                 |
+| The Past Tense in the Vernaculars                                               |
+| The Past Participle                                                             |
+| The Present Participle in the Vernaculars                                       |
 
 
 
-।                                                                                         ।
-।-----------------------------------------------------------------------------------------।
-। The Absolutive in the Vernaculars                                                       ।
-। Infinitive of Purpose in the Vernaculars                                                ।
-। Potential Participle in the Vernaculars.                                                ।
-। Passive in Participle in the Vernaculars.                                               ।
-। Causal in Participle in the Vernaculars.                                                ।
-। LECTURE VI—New Grammatical Formations in the Northern Vernaculars                       ।
-। The Oblique forms.                                                                      ।
-। The Oblique form in the Marathi: Five ways of taking the Obsolete forms in Marathi      ।
-। The Oblique Forms of Sindhi                                                             ।
-। The Oblique Forms of Punjabi                                                            ।
-। The Oblique Forms of Hindi                                                              ।
-। The Oblique Forms of Gujarati                                                           ।
-। Absence of Oblique Form in Bengali and Oriya                                            ।
-। Nature of the Oblique Form                                                              ।
-। Analysis of the Marathi Oblique Form                                                    ।
-। Analysis of the Sindhi Oblique forms                                                    ।
-। Hindi and Punjabi Oblique forms                                                         ।
-। New Terminations in the Vernaculars                                                     ।
-। Origin of Ka in the Vernacular Terminations.                                            ।
-। Origin of Sa in the Vernacular Terminations.                                            ।
-। The Verbal forms.                                                                       ।
-। The Future Tense                                                                        ।
-। LECTURE VII— Relations between Sanskrit, Pali, the Prakrits and the Modern Vernaculars ।
-। The Vedic dialect lost a good deal of its words: "Middle Sanskrit"                      ।
-। Pali the sacred language of the Southern Buddhists                                      ।
-। Not great difference in the dialect: Prakrits coming into importance                    ।
-। Certain scholars holding that the Prakrits were an artificiality its refutation         ।
-। The present practice of Deśastha Brāhmaṇas                                              ।
-। Prakrits became literary and dead dialects like Sanskrit                                ।
-। Were there various dialects in the Vedic times?                                         ।
-। Many uneducated persons using wrong English: instances                                 ।
+|                                                                                         |
+|-----------------------------------------------------------------------------------------|
+| The Absolutive in the Vernaculars                                                       |
+| Infinitive of Purpose in the Vernaculars                                                |
+| Potential Participle in the Vernaculars.                                                |
+| Passive in Participle in the Vernaculars.                                               |
+| Causal in Participle in the Vernaculars.                                                |
+| LECTURE VI—New Grammatical Formations in the Northern Vernaculars                       |
+| The Oblique forms.                                                                      |
+| The Oblique form in the Marathi: Five ways of taking the Obsolete forms in Marathi      |
+| The Oblique Forms of Sindhi                                                             |
+| The Oblique Forms of Punjabi                                                            |
+| The Oblique Forms of Hindi                                                              |
+| The Oblique Forms of Gujarati                                                           |
+| Absence of Oblique Form in Bengali and Oriya                                            |
+| Nature of the Oblique Form                                                              |
+| Analysis of the Marathi Oblique Form                                                    |
+| Analysis of the Sindhi Oblique forms                                                    |
+| Hindi and Punjabi Oblique forms                                                         |
+| New Terminations in the Vernaculars                                                     |
+| Origin of Ka in the Vernacular Terminations.                                            |
+| Origin of Sa in the Vernacular Terminations.                                            |
+| The Verbal forms.                                                                       |
+| The Future Tense                                                                        |
+| LECTURE VII— Relations between Sanskrit, Pali, the Prakrits and the Modern Vernaculars |
+| The Vedic dialect lost a good deal of its words: "Middle Sanskrit"                      |
+| Pali the sacred language of the Southern Buddhists                                      |
+| Not great difference in the dialect: Prakrits coming into importance                    |
+| Certain scholars holding that the Prakrits were an artificiality its refutation         |
+| The present practice of Deśastha Brāhmaṇas                                              |
+| Prakrits became literary and dead dialects like Sanskrit                                |
+| Were there various dialects in the Vedic times?                                         |
+| Many uneducated persons using wrong English: instances                                 |
 
 
 
-।                                                                                                        ।
-।--------------------------------------------------------------------------------------------------------।
-। The theory is utterly untenable; contemporaneous development of Sanskrit and Prakrits an impossibility ।
-। Other objections—their refutation                                                                      ।
-। Positive evidence that Sanskrit was a spoken language: the evidence of Yāska                           ।
-। Pāṇiniand Patañjali                                                                                   ।
-। Sanskrit Grammar the best in the world                                                                 ।
-। Sanskrit Compounds in the language—Later writers using rather too many Sanskrit Compounds              ।
-। Traces of Sanskrit expressions, showing that Sanskrit in colloquial use once existed                   ।
-। Sanskrit was not the only language in the time of Kātyāyana and Patañjali; instances.                  ।
-। Patañjali's evidence                                                                                   ।
-। Who were the Śiṣṭas without learning Pāṇini's Grammar                                                  ।
-। Characters in Plays - Males and Females.                                                               ।
-। Sanskrit losing ground-after some times                                                                ।
-। Chronology and historical changes of the same                                                          ।
-। Pali people a foreign race?                                                                            ।
-। Pali continuing for a long time as the mother tongue                                                   ।
-। Times of Aśoka                                                                                         ।
-। Dates of Pāṇini, Kātyāyana and Patañjali                                                               ।
-। Prakrits coming into importance in the early centuries of the Christian era                            ।
-। Apabhraṁśain the sixth or seventh Century; Daṇḍin Kālidāsa                                            ।
-। Modern Vernaculars appearing about the tenth century,aCopper-plate Inscription of 1206 A. D.          ।
-। Author's Farewell                                                                                      ।
-। List of Abbreviations                                                                                  ।
-। Index I—General Index                                                                                  ।
-। Index II—Index of Archaic and Obsolete Sanskrit Words                                                  ।
-। Index III—Index of Mythological Names                                                                  ।
-। Index IV—Index of Ancient Writers and Works                                                            ।
-। Index V—Index of Modern Scholars                                                                       ।
-। Inder VI—Index of Sanskrit and other Words.                                                            ।
+|                                                                                                        |
+|--------------------------------------------------------------------------------------------------------|
+| The theory is utterly untenable; contemporaneous development of Sanskrit and Prakrits an impossibility |
+| Other objections—their refutation                                                                      |
+| Positive evidence that Sanskrit was a spoken language: the evidence of Yāska                           |
+| Pāṇiniand Patañjali                                                                                   |
+| Sanskrit Grammar the best in the world                                                                 |
+| Sanskrit Compounds in the language—Later writers using rather too many Sanskrit Compounds              |
+| Traces of Sanskrit expressions, showing that Sanskrit in colloquial use once existed                   |
+| Sanskrit was not the only language in the time of Kātyāyana and Patañjali; instances.                  |
+| Patañjali's evidence                                                                                   |
+| Who were the Śiṣṭas without learning Pāṇini's Grammar                                                  |
+| Characters in Plays - Males and Females.                                                               |
+| Sanskrit losing ground-after some times                                                                |
+| Chronology and historical changes of the same                                                          |
+| Pali people a foreign race?                                                                            |
+| Pali continuing for a long time as the mother tongue                                                   |
+| Times of Aśoka                                                                                         |
+| Dates of Pāṇini, Kātyāyana and Patañjali                                                               |
+| Prakrits coming into importance in the early centuries of the Christian era                            |
+| Apabhraṁśain the sixth or seventh Century; Daṇḍin Kālidāsa                                            |
+| Modern Vernaculars appearing about the tenth century,aCopper-plate Inscription of 1206 A. D.          |
+| Author's Farewell                                                                                      |
+| List of Abbreviations                                                                                  |
+| Index I—General Index                                                                                  |
+| Index II—Index of Archaic and Obsolete Sanskrit Words                                                  |
+| Index III—Index of Mythological Names                                                                  |
+| Index IV—Index of Ancient Writers and Works                                                            |
+| Index V—Index of Modern Scholars                                                                       |
+| Inder VI—Index of Sanskrit and other Words.                                                            |
 
 
 
@@ -10178,21 +10178,21 @@ two centuries before Ānandatīrtha to account for the reputation of the sacred 
 
  These devotees, who are known by the name of Ālvārs, are generally reckoned as twelve in number and are divided into three classes by S. Krishnaswami [Aiyengar](# "Ind. Ant. Vol, XXXV, p. 228.") in accordance with the received chronology which he follows to determine. their sequence, though in itself it assigns a preposterously high antiquity to them. Their names, Tamil and Sanskrit, are as follows:—
 
-।         ।                      ।                            ।
-।---------।----------------------।----------------------------।
-। Class  । Tamil name           । Sanskrit name              ।
-। Ancient । Poygai Ālvār        । Saroyogin                 ।
-।        । Bhūtnttār           । Bhūtayogin                 ।
-।        । Pēy Ālvār            । Mabadyogin or Bhrāntayogin ।
-।        । Tirumaliśai Ālvār  । Bhaktisāra                 ।
-। Later  । Namm Ālvār         । Śaṭhakopa                  ।
-।        । Periy Ālvār          । Madhurakavi               ।
-।        । Aṇḍāl               । Kulaśekhara               ।
-।        ।                     । Viṣṇoitta                 ।
-।        ।                     । Godā                     ।
-। Last   । Toṇḍaraḍippoḍi      । Bhaktāṅghrireṇu            ।
-।        । TiruppāṇĀlvārr      । Yogivāhana                 ।
-।        । Tirumangai Ālvār    । Parakāla                   ।
+|         |                      |                            |
+|---------|----------------------|----------------------------|
+| Class  | Tamil name           | Sanskrit name              |
+| Ancient | Poygai Ālvār        | Saroyogin                 |
+|        | Bhūtnttār           | Bhūtayogin                 |
+|        | Pēy Ālvār            | Mabadyogin or Bhrāntayogin |
+|        | Tirumaliśai Ālvār  | Bhaktisāra                 |
+| Later  | Namm Ālvār         | Śaṭhakopa                  |
+|        | Periy Ālvār          | Madhurakavi               |
+|        | Aṇḍāl               | Kulaśekhara               |
+|        |                     | Viṣṇoitta                 |
+|        |                     | Godā                     |
+| Last   | Toṇḍaraḍippoḍi      | Bhaktāṅghrireṇu            |
+|        | TiruppāṇĀlvārr      | Yogivāhana                 |
+|        | Tirumangai Ālvār    | Parakāla                   |
 
  The date of the first, ordinarily given, is B. C. 4203 and of the last, B. C. 2706, and the others range between these two. Not only are these dates fanciful, but even the sequence shown above is unreliable. Krishnaswami places the last in the earlier half of the eighth century A. D., and all the preceding ones impliedly before that date. But there is distinct evidence to show that Kulaśekhara flourished much later. He was a king of Travancore, and one ofthe works composed by him styled Mukundamāla contains a verse from the Bhāgavata-Purāṇa [(XI. 2. 36)](# "Kāyena vācāmanasendriyair vā, etc.").
 
@@ -11683,38 +11683,38 @@ of Rāmānuja. Practically he makes no distinction between thetwo. The theory of
 
 **LIST OF ABBREVIATIONS.**
 
-।                                       ।
-।---------------------------------------।
-। AB. = Aitareya-Brāhmaṇa.             ।
-। ĀG. = Aśvalāyana-Gṛhyasūtra.          ।
-। AU. = Atharvaśiras-Upaniṣad.          ।
-। AV. = Atharva-Veda.                   ।
-। BhG. = Bhagavad-Gītā.                 ।
-। Bibl. Ind. = Bibliotheca Indica.      ।
-। Br.S. = Brahma-Sūtra.                 ।
-। BṛS. = Bṛhat-Saṁhitā.                 ।
-। BU. = Bṛhadāraṇyaka-Upaniṣad.         ।
-। Chowkh. = Chowkhamba Sanskrit Series. ।
-। ChU. = Chāndogya-Upaniṣad.            ।
-। HG.= Hiraṇyakeśi-Gṛhyasūtra.          ।
-। KB. = Kauṣītaki-Brāhmaṇa.             ।
-। KBU. = auṣītaki-Brāhmaṇa-Upaniṣad.    ।
-। KnU. = Kena-Upaniṣad.                 ।
-। KU. = Kaṭha-Upaniṣad.                 ।
-। MaiU. = Maitri-Upaniṣad.              ।
-। MBh. = Mahābhārata.                   ।
-। MU.= Muṇḍaka-Upaniṣad.               ।
-। P. = Pāṇini.                          ।
-। PG. = Pāraskara-Gṛhyasūtra.           ।
-। RV. = Ṛg-Veda.                        ।
-। RVS. = Ṛg-Veda-Saṁhitā.               ।
-। ŚB. = Śatapatha-Brāhmaṇa.             ।
-। ŚU.= Śvetaśvatara-Upaniṣad.           ।
-। TA. = Taittirīya-Āraṇyaka.            ।
-। TS. = Taittirīya-Saṁhitā.             ।
-। TU. = Taittirīya-Upaniṣad.            ।
-। VS. = Vājasaneyi-Saṁhitā.             ।
-। YV. = Yajur-Veda.                     ।
+|                                       |
+|---------------------------------------|
+| AB. = Aitareya-Brāhmaṇa.             |
+| ĀG. = Aśvalāyana-Gṛhyasūtra.          |
+| AU. = Atharvaśiras-Upaniṣad.          |
+| AV. = Atharva-Veda.                   |
+| BhG. = Bhagavad-Gītā.                 |
+| Bibl. Ind. = Bibliotheca Indica.      |
+| Br.S. = Brahma-Sūtra.                 |
+| BṛS. = Bṛhat-Saṁhitā.                 |
+| BU. = Bṛhadāraṇyaka-Upaniṣad.         |
+| Chowkh. = Chowkhamba Sanskrit Series. |
+| ChU. = Chāndogya-Upaniṣad.            |
+| HG.= Hiraṇyakeśi-Gṛhyasūtra.          |
+| KB. = Kauṣītaki-Brāhmaṇa.             |
+| KBU. = auṣītaki-Brāhmaṇa-Upaniṣad.    |
+| KnU. = Kena-Upaniṣad.                 |
+| KU. = Kaṭha-Upaniṣad.                 |
+| MaiU. = Maitri-Upaniṣad.              |
+| MBh. = Mahābhārata.                   |
+| MU.= Muṇḍaka-Upaniṣad.               |
+| P. = Pāṇini.                          |
+| PG. = Pāraskara-Gṛhyasūtra.           |
+| RV. = Ṛg-Veda.                        |
+| RVS. = Ṛg-Veda-Saṁhitā.               |
+| ŚB. = Śatapatha-Brāhmaṇa.             |
+| ŚU.= Śvetaśvatara-Upaniṣad.           |
+| TA. = Taittirīya-Āraṇyaka.            |
+| TS. = Taittirīya-Saṁhitā.             |
+| TU. = Taittirīya-Upaniṣad.            |
+| VS. = Vājasaneyi-Saṁhitā.             |
+| YV. = Yajur-Veda.                     |
 
 
 
@@ -12284,79 +12284,79 @@ fifth and the ninth are confounded, and roots of the former takethe termination 
 
 **PRESENT TENSE**
 
-।           ।      ।            ।           ।            ।
-|:---------:|:----:|:----------:|:---------:|:----------:।
-।  Parasm.  ।      ।            ।   Ātm.    ।            ।
-। Singular. ।      ।  Plural.   । Singular. ।  Plural.   ।
-। 1st pers. ।  मि  ।     म      ।     ए     ।    म्हे    ।
-।   2nd…   ।  सि  ।     थ      ।    से     ।    व्हे    ।
-।   3rd…   ।  ति  ।   अन्ति    ।    ते     ।   अन्ते    ।
-।   *Ex.*   । पचति । पचन्ति &c. ।   पचते    । पचन्ते &c. ।
+|           |      |            |           |            |
+|:---------:|:----:|:----------:|:---------:|:----------:|
+|  Parasm.  |      |            |   Ātm.    |            |
+| Singular. |      |  Plural.   | Singular. |  Plural.   |
+| 1st pers. |  मि  |     म      |     ए     |    म्हे    |
+|   2nd…   |  सि  |     थ      |    से     |    व्हे    |
+|   3rd…   |  ति  |   अन्ति    |    ते     |   अन्ते    |
+|   *Ex.*   | पचति | पचन्ति &c. |   पचते    | पचन्ते &c. |
 
 **IMPERATIVE.**
 
-।           ।             ।            ।           ।            ।
-|:---------:|:-----------:|:----------:|:---------:|:----------:।
-।  Parasm.  ।             ।            ।   Ätm.    ।            ।
-। Singular. ।             ।  Plural.   । Singular. ।  Plural.   ।
-। 1st pers. ।     मि      ।     म      ।     ए     ।    आमसे    ।
-।   2nd…   । हि, or none ।     थ      ।   स्सु    ।    व्हो    ।
-।   3rd…   ।     तु      ।   अन्तु    ।    तं     ।   अन्तं    ।
-।   *Ex.*   ।    पचतु     । पचन्तु &c. ।   पचतं    । पचन्तं &c. ।
+|           |             |            |           |            |
+|:---------:|:-----------:|:----------:|:---------:|:----------:|
+|  Parasm.  |             |            |   Ätm.    |            |
+| Singular. |             |  Plural.   | Singular. |  Plural.   |
+| 1st pers. |     मि      |     म      |     ए     |    आमसे    |
+|   2nd…   | हि, or none |     थ      |   स्सु    |    व्हो    |
+|   3rd…   |     तु      |   अन्तु    |    तं     |   अन्तं    |
+|   *Ex.*   |    पचतु     | पचन्तु &c. |   पचतं    | पचन्तं &c. |
 
 **IMPERFECT**
 
-।           ।      ।          ।        ।               ।
-|:---------:|:----:|:--------:|:------:|:-------------:।
-। 1st pers. ।  अ   ।   म्हा   ।   ई    ।     म्हसे     ।
-।    2nd    ।  ओ   ।   त्थ    ।   से   ।     व्हं      ।
-।    3rd    ।  आ   ।    ऊ     ।  त्थ   ।     त्थुं     ।
-।    Ex.    । अपचा । अपचू &c. । अपचत्थ । अपचत्थुं &co. ।
+|           |      |          |        |               |
+|:---------:|:----:|:--------:|:------:|:-------------:|
+| 1st pers. |  अ   |   म्हा   |   ई    |     म्हसे     |
+|    2nd    |  ओ   |   त्थ    |   से   |     व्हं      |
+|    3rd    |  आ   |    ऊ     |  त्थ   |     त्थुं     |
+|    Ex.    | अपचा | अपचू &c. | अपचत्थ | अपचत्थुं &co. |
 
 **POTENTIAL**
 
-।           ।               ।             ।       ।           ।
-|:---------:|:-------------:|:-----------:|:-----:|:---------:।
-। 1st pers. ।    एय्यामि    ।   एय्याम    । एय्यं । एय्यम्हे  ।
-।    2nd    ।    एय्यासि    ।   एय्याथ    ।  एथो  । एय्यव्हो  ।
-।    3rd    ।   एय्य or ए   ।   एय्युं    ।  एथ   ।    एरं    ।
-।    Ex.    । पचे or पचेय्य । पचेय्यु &c. । पचेथ  । पचेरं &c. ।
+|           |               |             |       |           |
+|:---------:|:-------------:|:-----------:|:-----:|:---------:|
+| 1st pers. |    एय्यामि    |   एय्याम    | एय्यं | एय्यम्हे  |
+|    2nd    |    एय्यासि    |   एय्याथ    |  एथो  | एय्यव्हो  |
+|    3rd    |   एय्य or ए   |   एय्युं    |  एथ   |    एरं    |
+|    Ex.    | पचे or पचेय्य | पचेय्यु &c. | पचेथ  | पचेरं &c. |
 
 **AORIST**
 
-।           ।      ।                      ।      ।          ।
-|:---------:|:----:|:--------------------:|:----:|:--------:।
-। 1st pers. ।  ई   ।         म्हा         ।  अ   ।   म्हे   ।
-।    2nd    ।  ओ   ।         त्थ          ।  से  ।   व्हं   ।
-।    3rd    ।  ई   ।      उं or इंसु      ।  आ   ।    ऊ     ।
-।    Ex.    । अपची । अपचुं or अपचिंसु &c. । अपचा । अपचू &c. ।
+|           |      |                      |      |          |
+|:---------:|:----:|:--------------------:|:----:|:--------:|
+| 1st pers. |  ई   |         म्हा         |  अ   |   म्हे   |
+|    2nd    |  ओ   |         त्थ          |  से  |   व्हं   |
+|    3rd    |  ई   |      उं or इंसु      |  आ   |    ऊ     |
+|    Ex.    | अपची | अपचुं or अपचिंसु &c. | अपचा | अपचू &c. |
 
 **PERFECT**
 
-।           ।     ।          ।         ।            ।
-|:---------:|:---:|:--------:|:-------:|:----------:।
-। 1st pers. ।  अ  ।   म्ह    ।    इ    ।    म्हे    ।
-।    2nd    ।  ए  ।   त्थ    ।  त्थो   ।    व्हो    ।
-।    3rd    ।  अ  ।    उ     ।   त्थ   ।     रे     ।
-।    Ex.    । पपच । पपचु &c. । पचचित्थ । पपचिरे &c. ।
+|           |     |          |         |            |
+|:---------:|:---:|:--------:|:-------:|:----------:|
+| 1st pers. |  अ  |   म्ह    |    इ    |    म्हे    |
+|    2nd    |  ए  |   त्थ    |  त्थो   |    व्हो    |
+|    3rd    |  अ  |    उ     |   त्थ   |     रे     |
+|    Ex.    | पपच | पपचु &c. | पचचित्थ | पपचिरे &c. |
 
 **FUTURE**
 
-।           ।          ।                ।          ।                ।
-|:---------:|:--------:।:--------------:।:--------:।:--------------:।
-। 1st pers. ।  स्सामि  ।     स्साम      ।   स्सं   ।    स्सम्हे     ।
-।    2nd    ।  स्ससि   ।      स्सथ      ।  स्ससे   ।    स्सव्हे     ।
-।    3rd    ।  स्सति   ।    स्सन्ति     ।  स्सते   ।    स्सन्ते     ।
-।    Ex.    । भविस्सति । भविस्सन्ति &c. । भविस्सते । भविस्सन्ते &c. ।
+|           |          |                |          |                |
+|:---------:|:--------:|:--------------:|:--------:|:--------------:|
+| 1st pers. |  स्सामि  |     स्साम      |   स्सं   |    स्सम्हे     |
+|    2nd    |  स्ससि   |      स्सथ      |  स्ससे   |    स्सव्हे     |
+|    3rd    |  स्सति   |    स्सन्ति     |  स्सते   |    स्सन्ते     |
+|    Ex.    | भविस्सति | भविस्सन्ति &c. | भविस्सते | भविस्सन्ते &c. |
 
 **CONDITIONAL**
 
-।           ।          ।               ।          ।                 ।
-।:---------:।:--------:।:-------------:।:--------:।:---------------:।
-। 1st pers. ।   स्सं   ।    स्सम्हा    ।   स्सं   ।    स्साम्हसे    ।
-।    2nd    ।   स्से   ।     स्सथ      ।  स्ससे   ।     स्सव्हे     ।
-।    3rd    ।   स्सा   ।    स्संसु     ।   स्सथ   ।     स्सिंसु     ।
-।    Ex.    । अभविस्सा । अभविस्ससु &c. । अभविस्सथ । अभविस्सिंसु &c. ।
+|           |          |               |          |                 |
+|:---------:|:--------:|:-------------:|:--------:|:---------------:|
+| 1st pers. |   स्सं   |    स्सम्हा    |   स्सं   |    स्साम्हसे    |
+|    2nd    |   स्से   |     स्सथ      |  स्ससे   |     स्सव्हे     |
+|    3rd    |   स्सा   |    स्संसु     |   स्सथ   |     स्सिंसु     |
+|    Ex.    | अभविस्सा | अभविस्ससु &c. | अभविस्सथ | अभविस्सिंसु &c. |
 
  The terminations of the Present of both Padas are the same asin Sanskrit, with the exception of the plural **ञ**and **म्हे**, the **व्ह**of the second person plural of the Ātmanepada being a corruptionof **ध्वे**. This tense is most in use; hence the Pali speakers learnedit well, so to say, from their Sanskrit teachers.
 
@@ -13066,16 +13066,16 @@ second verse, and **सुन्दरखत्वङ्गाओ विला�
 
   The pronouns of the 1st and 2nd persons are thus declined :—
 
-।                ।                ।                  ।                ।
-।:--------------:।:--------------:।:----------------:।:--------------:।
-।   1st pers.    ।                ।    2nd pers.     ।                ।
-।    *sing.*     ।     *pl.*      ।     *sing.*      ।     *pl.*      ।
-।   Nom. इउं    । अम्हे, अम्हहं ।      तुहं       । तुम्हे-तुम्हइं ।
-। Acc. महं    ।      ——       ।      तइं       ।      ——       ।
-।    Instr.—    ।    अम्हेहिं    ।     पइं, तइं     ।   तुम्हेहिं    ।
-। Abl. महु-मज्झु ।     अम्हहं     । तउ, तुज्झ, तुध्र ।    तुम्हहं     ।
-।    Gen.——    ।       —        ।      ———       ।       —        ।
-।    Loc. मइं    ।    अम्हासु     ।     पइं, तइं     ।   तुम्हासु    ।
+|                |                |                  |                |
+|:--------------:|:--------------:|:----------------:|:--------------:|
+|   1st pers.    |                |    2nd pers.     |                |
+|    *sing.*     |     *pl.*      |     *sing.*      |     *pl.*      |
+|   Nom. इउं    | अम्हे, अम्हहं |      तुहं       | तुम्हे-तुम्हइं |
+| Acc. महं    |      ——       |      तइं       |      ——       |
+|    Instr.—    |    अम्हेहिं    |     पइं, तइं     |   तुम्हेहिं    |
+| Abl. महु-मज्झु |     अम्हहं     | तउ, तुज्झ, तुध्र |    तुम्हहं     |
+|    Gen.——    |       —        |      ———       |       —        |
+|    Loc. मइं    |    अम्हासु     |     पइं, तइं     |   तुम्हासु    |
 
  Here we have not the wilderness of forms which we observedin the principal Prakrit. The nom. sing. of the 1st per. is **इउं**
 
@@ -14246,37 +14246,37 @@ Skr. **भाद्रपद** &c. in which **अइ** forms **ए**. and **अ�
 
 ** \[ Table 20: ए, ऐ, ओ, and औ in the different Vernaculars \]**
 
-।                ।         ।          ।        ।               ।            ।
-।----------------।---------।----------।--------।---------------।------------।
-। H.             । G.      । S.       । H.     । G.            । S.         ।
-। पैठा           । पेठो    । पेठो     । जै     । जे            ।           ।
-। बैसना          । बेसंवुं ।         । सै     । से in सेंकडा ।           ।
-। बैठा           । बेठो    ।         । बैन    । बेन           । बेणु       ।
-। खैर            । खेर     ।         । मौडा   । मोड           । मोडु       ।
-। बेल            । बेल     ।         । चौथा   । चोथो          । चोथो,&c.   ।
-। भैस            । भेस     । मेहिं    । चौक    । चोक           । चौक,चौपैरो ।
-। बैन ( P. भैण ) । बेन     । भेणु,भेण । चौरस   । चोरस&c.       ।           ।
-। मैल            । मेल     । मेरो–मैल । धौला   । धोलो          । धोरो       ।
-। मैन            । मेन     ।         । कौडी   । कोडी          । कोडी       ।
-। रैन            । रेन     ।         । सौत    । सोक           ।           ।
-। नैन            । नेन     । नेणु     । सौंपना । सोंपवुं       । सेैंपणु    ।
-। भै             । भे      ।         । पैदल   । पेदल          ।           ।
+|                |         |          |        |               |            |
+|----------------|---------|----------|--------|---------------|------------|
+| H.             | G.      | S.       | H.     | G.            | S.         |
+| पैठा           | पेठो    | पेठो     | जै     | जे            |           |
+| बैसना          | बेसंवुं |         | सै     | से in सेंकडा |           |
+| बैठा           | बेठो    |         | बैन    | बेन           | बेणु       |
+| खैर            | खेर     |         | मौडा   | मोड           | मोडु       |
+| बेल            | बेल     |         | चौथा   | चोथो          | चोथो,&c.   |
+| भैस            | भेस     | मेहिं    | चौक    | चोक           | चौक,चौपैरो |
+| बैन ( P. भैण ) | बेन     | भेणु,भेण | चौरस   | चोरस&c.       |           |
+| मैल            | मेल     | मेरो–मैल | धौला   | धोलो          | धोरो       |
+| मैन            | मेन     |         | कौडी   | कोडी          | कोडी       |
+| रैन            | रेन     |         | सौत    | सोक           |           |
+| नैन            | नेन     | नेणु     | सौंपना | सोंपवुं       | सेैंपणु    |
+| भै             | भे      |         | पैदल   | पेदल          |           |
 
-।       ।       ।
-।-------।-------।
-। H.    । G.    ।
-। भौजाई । भोजाई ।
-। पौने  । पोणा  ।
+|       |       |
+|-------|-------|
+| H.    | G.    |
+| भौजाई | भोजाई |
+| पौने  | पोणा  |
 
  The Gujarati has **ए** or **ओ** even in words of a foreign origin where the other languages have **ऐ** or **औ** as;—
 
 \[ Table 21 : Gujarati ए or ओ for foreign ऐ or ओ \]
 
-।           ।            ।        ।        ।
-।-----------।------------।--------।--------।
-। **H.**   । **G.**     । **H.** । **G.** ।
-। पैदा करना । पेदा करवुं । मैदान  । मेदान  ।
-। दालत      । दोलत       । फौज    । फोज    ।
+|           |            |        |        |
+|-----------|------------|--------|--------|
+| **H.**   | **G.**     | **H.** | **G.** |
+| पैदा करना | पेदा करवुं | मैदान  | मेदान  |
+| दालत      | दोलत       | फौज    | फोज    |
 
 Similarly, though a few Sanskrit words containing **ऐ** and **ओ** do occur in Gujarati dictionaries, these diphthongs are generally pronounced like **ए** and **ओ** as in **जने** for **जैन** ’a follower of the Jaina sec’,**वेर** for **वैर**'enmity', &c. The Gujarati, therefore, like the old Prakrits combines **अय** and **अव** and **अइ** and **अउ** into **ए** and **ओ** and since it did not receive the diphthongs **ऐ** and **ओ** from the old Prakrits, its alphabet really does not contain them. As observed before, the syllables **अइ** and **अउ** differ from **ऐ** and **औ** only in two currents of breath being emitted instead of one, in other respects they are alike, both the vowel sounds being contained in the diphthongs. Those syllables as well as **अय** and **अव** should, therefore, naturally pass into those diphthongs as involving the least possible change. If, notwithstanding, the Gujarati people make **ए** or **ओ** out of them, and also give those forms to the **ऐ** and **औ** of Sanskrit and foreign words, it must be so, because their vocal organs are in this respect in the same condition as those of their Pali and Prakrit ancestors. On the other hand, the Hindi, and especially the Braj form of it, presents the old Aryan tendency of pronouncing the diphthongs in somewhat exaggerated form; while the other dialects take up a position between these two in this respect.
 
@@ -14336,20 +14336,20 @@ Similarly, though a few Sanskrit words containing **ऐ** and **ओ** do occur i
 
  In the Prakrits there are two instances of the change of **अ** to **उ**, viz. **चुड**and **खुडिओ** for Skr. **चण्ड** 'fierce‛and **सण्डित** ‛plucked out‛. The latter we have in the vernaculars in the form of **खूट** M. G., **खुटि** S. ‛deficiency‛**खोट** H., **खोड** M. ‛blemish‛and **खुडणें** or **खुटणें** M., **खुटना** H., **खुंटवुं** G. ‛to pluck put‛or **खुटवुं** G. ‛to be deficient‛. The Bengali changes **अ** to **उ** in a good many casesas:—
 
-।                                          ।
-।:----------------------------------------:।
-। \[Table 25: अ changed toउ in Bengali\] ।
+|                                          |
+|:----------------------------------------:|
+| \[Table 25: अ changed toउ in Bengali\] |
 
-।                            ।                ।                             ।
-।:--------------------------:।:--------------:।:---------------------------:।
-।             B.             ।  Skr. or Pr.   ।          M. or H.           ।
-।       हलुदturmeric        । हरिद्रा-हलद्दा ।           हलदM.            ।
-।         आगुन fire          ।   आग्नि-अगणी   ।            आगM.            ।
-।       बामुन Brahman        । ब्राह्मण-बह्मण ।            बामण.            ।
-।       थुअन to place        ।  स्थापन-ठावण   ।          ठेवणें M.          ।
-। शिमुल the silk-cotton tree । शाल्मली-सामरी  । सेमल H., शेवरी or सांवरी M. ।
-।       पुकुरa pond        । पुष्कर-पोक्खर  ।           पोखर H.           ।
-।       मुगुर a mallet       । मुद्गर-मोग्गर  ।          मोगरा M.           ।
+|                            |                |                             |
+|:--------------------------:|:--------------:|:---------------------------:|
+|             B.             |  Skr. or Pr.   |          M. or H.           |
+|       हलुदturmeric        | हरिद्रा-हलद्दा |           हलदM.            |
+|         आगुन fire          |   आग्नि-अगणी   |            आगM.            |
+|       बामुन Brahman        | ब्राह्मण-बह्मण |            बामण.            |
+|       थुअन to place        |  स्थापन-ठावण   |          ठेवणें M.          |
+| शिमुल the silk-cotton tree | शाल्मली-सामरी  | सेमल H., शेवरी or सांवरी M. |
+|       पुकुरa pond        | पुष्कर-पोक्खर  |           पोखर H.           |
+|       मुगुर a mallet       | मुद्गर-मोग्गर  |          मोगरा M.           |
 
   And where the Sanskrit or the sister dialects have **ओ** , the Bengali has **उ** as in the following words:—
 
@@ -14698,19 +14698,19 @@ Here also the Sindhi preserves the old endings in some cases, and has dropped th
  It may be urged that in modern prcnunciation when the penultimate **अ** is accented, it does not become **आ** even though pronounced long, as observed before. How is it then that it becomes **आ** here? In modern times several new modes of pronunciation have arisen, but as regards the matter in hand, to lengthen **अ** into **आ** was the old process. And often when the old processes have disappeared from what is considered the standerd form of a language, they are found preserved in some dialect of that language. Thus, while in the standard Marathi the penultimate **अ** is simply pronounced long, it becomes आ in the Goanese and Malvani dialects.  
 Thus:—
 
-।                                                      ।
-।:----------------------------------------------------:।
-। \[Table 37: Penultimate a preserved dialectically \] ।
+|                                                      |
+|:----------------------------------------------------:|
+| \[Table 37: Penultimate a preserved dialectically \] |
 
-।                           ।           ।
-।:-------------------------:।:---------:।
-।          St. M.           । Mal.Goan. ।
-।  पाताल garment, or thin.  ।  पाताल   ।
-।        कापडcloth.        ।  कापाड.   ।
-। वतनhereditary property.  ।   वतान.   ।
-। जतनcareful preservation. ।   जतान.   ।
-।       धोतरgarment.       ।  धोतार.   ।
-।        खडपarock.        ।   खडाप.   ।
+|                           |           |
+|:-------------------------:|:---------:|
+|          St. M.           | Mal.Goan. |
+|  पाताल garment, or thin.  |  पाताल   |
+|        कापडcloth.        |  कापाड.   |
+| वतनhereditary property.  |   वतान.   |
+| जतनcareful preservation. |   जतान.   |
+|       धोतरgarment.       |  धोतार.   |
+|        खडपarock.        |   खडाप.   |
 
  In this manner, then, the penultimate **अ** in consequence of the accent became **आ**, and the final **उ** and the **अ** of the final **अं** being dropped, itself became final, and has preserved its accent.
 
@@ -15322,9 +15322,9 @@ Skr. **तडाग** a tank, Pr.**तलाअ**, M. G.**तलाव**, H.**�
 
  The numerals with their **द्** changed in the Prakrits to **र्** through an intermediate **ड** have come down to the vernaculars:—
 
-।                                                  ।
-।:------------------------------------------------:।
-। \[Table 58:द्of Skr. Numerals changed to र्\] ।
+|                                                  |
+|:------------------------------------------------:|
+| \[Table 58:द्of Skr. Numerals changed to र्\] |
 
 
 
@@ -15482,19 +15482,19 @@ Skr, **भ्रमर** bee, H. **भंवरा** Or **भौंरा**, P. 
 
  From the fact that the Marathi, Hindi, Sindhi, and Panjabi contain many instances of this change it is to be gathered that though it does not appear in the Prakrits proper, it must have begun very early, before the vernaculars received their distinctive forms and were isolated from each other. Of all the dialects the Marathi alone has preserved the **व्** of this **वं** in most cases, the Hindi and the others having dropped it or softened it to **उ** in good many instances; while the Gujarati changes it back again to **म्**. Thus, such of the above words as exist in Gujarati have the following forms:—
 
-।                                                     ।
-।-----------------------------------------------------।
-। \[Table 65:वं (Skr.म्) changed to म् in Gujarati\] ।
+|                                                     |
+|-----------------------------------------------------|
+| \[Table 65:वं (Skr.म्) changed to म् in Gujarati\] |
 
-।                                                                       ।                                             ।
-।:---------------------------------------------------------------------:।:-------------------------------------------:।
-।                             **नाम** name.                             ।            **चमरी** a fly-brush.            ।
-।                          **गाम** a village.                           ।              **कमल** a lotus.               ।
-। **भमवुं** to turn round, भमरी giddiness, corresponding to M. भोंवल. ।               **भमरो** a bee.               ।
-।                         **गमाववुं** wasting.                          । **पांचमो, सातमो,** &c., fifth, seventh, &c. ।
-।                           **विसामो** rest.                            ।             **कुमलो** delicate.             ।
-।                    **सामलो** a dark-complexioned.                     ।              **जमवुं** eating.              ।
-।                         **जमाइ** son-in-law.                          ।            **आमला** myrobalans.             ।
+|                                                                       |                                             |
+|:---------------------------------------------------------------------:|:-------------------------------------------:|
+|                             **नाम** name.                             |            **चमरी** a fly-brush.            |
+|                          **गाम** a village.                           |              **कमल** a lotus.               |
+| **भमवुं** to turn round, भमरी giddiness, corresponding to M. भोंवल. |               **भमरो** a bee.               |
+|                         **गमाववुं** wasting.                          | **पांचमो, सातमो,** &c., fifth, seventh, &c. |
+|                           **विसामो** rest.                            |             **कुमलो** delicate.             |
+|                    **सामलो** a dark-complexioned.                     |              **जमवुं** eating.              |
+|                         **जमाइ** son-in-law.                          |            **आमला** myrobalans.             |
 
  
 
@@ -15526,24 +15526,24 @@ G. **कमाड** a door, H. **किवाड**, M. **कवाड**, Pr. **�
 
 **\[Table 67: Disaspiration in the Vernaculars\]**
 
-।                      ।                     ।                                    ।
-।:--------------------:।:-------------------:।:----------------------------------:।
-।    M. शीक learn,     ।     Pr. सिक्ख,      ।              H. सीख.               ।
-।   M. भीक beggary,    ।     Pr. भिक्खा,     ।          H. भीख,S. बीख.           ।
-।  M. सुकणें to dry,   । Pr. सुक्क or सुक्ख, ।        H. सूखना,S. सुकणु.         ।
-।    M. भूक hunger,    ।    Pr. बुटुक्खा     ।          H. भूख,S.बुख,           ।
-।     M. हात hand,     ।      Pr. हत्थ,      ।              H. हाथ.               ।
-।  M. हत्तीelephant,  ।     Pr. हत्थी,      ।              H. हाथी.              ।
-।   G. बीनो afraid,    ।  Pr. भीदो or भीओ,   ।             M. भ्याला.             ।
-।  G, बडाई greatness,  ।      Pr. वड्ढ       ।              H. वढाई.              ।
-। G. बगाडवुं to spoil, ।      Pr. बिघड,      ।             M. बिघडणे.             ।
-।   B. पुति a book,    ।    Pr. पोत्थिआ,     ।            H. M. पोथी.             ।
-।   B. पड to learn,    ।       Pr. पढ,       ।           H. M., &c. पड.           ।
-।   B. वाड to grow,    ।      Pr. वड्ढ,      ।  H. वाढ-\[णें\],H.बाढ-ढब-\[ना\].   ।
-। B. वेड to surround,  ।       Pr वेढ,       । M. वेड-\[णें\], H. वेंढ-\[ना\],&c, ।
-।    B. पातर stones    ।     Pr. पत्थर,      ।     M. पाथर, H. पत्थर or पाचर.     ।
-।     B. पिट back,     ।  Pr. पिठ्ठ or पठ्ठ  ।          H. पीठ, M. पाठ.           ।
-।     B. साद wish,     ।     Pr. सद्धा,      ।             S, P. साथ.             ।
+|                      |                     |                                    |
+|:--------------------:|:-------------------:|:----------------------------------:|
+|    M. शीक learn,     |     Pr. सिक्ख,      |              H. सीख.               |
+|   M. भीक beggary,    |     Pr. भिक्खा,     |          H. भीख,S. बीख.           |
+|  M. सुकणें to dry,   | Pr. सुक्क or सुक्ख, |        H. सूखना,S. सुकणु.         |
+|    M. भूक hunger,    |    Pr. बुटुक्खा     |          H. भूख,S.बुख,           |
+|     M. हात hand,     |      Pr. हत्थ,      |              H. हाथ.               |
+|  M. हत्तीelephant,  |     Pr. हत्थी,      |              H. हाथी.              |
+|   G. बीनो afraid,    |  Pr. भीदो or भीओ,   |             M. भ्याला.             |
+|  G, बडाई greatness,  |      Pr. वड्ढ       |              H. वढाई.              |
+| G. बगाडवुं to spoil, |      Pr. बिघड,      |             M. बिघडणे.             |
+|   B. पुति a book,    |    Pr. पोत्थिआ,     |            H. M. पोथी.             |
+|   B. पड to learn,    |       Pr. पढ,       |           H. M., &c. पड.           |
+|   B. वाड to grow,    |      Pr. वड्ढ,      |  H. वाढ-\[णें\],H.बाढ-ढब-\[ना\].   |
+| B. वेड to surround,  |       Pr वेढ,       | M. वेड-\[णें\], H. वेंढ-\[ना\],&c, |
+|    B. पातर stones    |     Pr. पत्थर,      |     M. पाथर, H. पत्थर or पाचर.     |
+|     B. पिट back,     |  Pr. पिठ्ठ or पठ्ठ  |          H. पीठ, M. पाठ.           |
+|     B. साद wish,     |     Pr. सद्धा,      |             S, P. साथ.             |
 
  B. **शुकः** (in **शुकान**) to dry, Pr. **सुक्ख**, or **सुक्क**, H. **सूखना**.
 
@@ -16085,16 +16085,16 @@ Gujarati too shows the same tendency though it is not so decided; and we have th
 
 \[Table 85: Bengali श्for Hindi स्\]
 
-।         ।                  ।          ।                                  ।
-।ः-------:।:----------------:।:--------:।:--------------------------------:।
-।   B.    ।        H.        ।    B.    ।                H.                ।
-। शुकिवा ।   सूखना to dry   ।  शियाल   ।         सियारा a jackal.         ।
-। शुनिवा  ।  सूनना to hear.  ।  शिमुल   ।      the silk cotton tree.       ।
-।  शुइवा  ।  सोना to sleep.  ।   शूंड   । सोंड, सूंड trunk of an elephant. ।
-।  पाशे   ।    पास near.     ।         ।                                 ।
-।  शिंगा  ।     a horn.      ।   शिशू   ।         सीसो blackwood.         ।
-।  डांश   । डांसa mosquito. ।   शेल    ।           सालa dart.            ।
-।   भईश   । भैंसa buffalo.  । दिवाशलाई ।      दिपासलाई & fire-match.      ।
+|         |                  |          |                                  |
+|:-------:|:----------------:|:--------:|:--------------------------------:|
+|   B.    |        H.        |    B.    |                H.                |
+| शुकिवा |   सूखना to dry   |  शियाल   |         सियारा a jackal.         |
+| शुनिवा  |  सूनना to hear.  |  शिमुल   |      the silk cotton tree.       |
+|  शुइवा  |  सोना to sleep.  |   शूंड   | सोंड, सूंड trunk of an elephant. |
+|  पाशे   |    पास near.     |         |                                 |
+|  शिंगा  |     a horn.      |   शिशू   |         सीसो blackwood.         |
+|  डांश   | डांसa mosquito. |   शेल    |           सालa dart.            |
+|   भईश   | भैंसa buffalo.  | दिवाशलाई |      दिपासलाई & fire-match.      |
 
  
 
@@ -16789,12 +16789,12 @@ inSindhi. The old Hindi or Braj poots use this tense in the presentalso. In all 
  M. has two forms of this old Present :—  
 
 
-।      ।       ।        ।       ।        ।
-।------।-------।--------।-------।--------।
-।     । Sing. । Plural । Sing. । Plural ।
-। 1st । करीं  । करूं   । हसें  । हसूं   ।
-। 2nd  । करीस  । करा    । हसस   । हसा    ।
-। 3rd  । करी   । करीत   । हसे   । हसत    ।
+|      |       |        |       |        |
+|------|-------|--------|-------|--------|
+|     | Sing. | Plural | Sing. | Plural |
+| 1st | करीं  | करूं   | हसें  | हसूं   |
+| 2nd  | करीस  | करा    | हसस   | हसा    |
+| 3rd  | करी   | करीत   | हसे   | हसत    |
 
 
 
@@ -16824,12 +16824,12 @@ pronounced without closing the lips, becomes **इं**. In the same waythe Pr. 
  O. and B. have the following forms for the Present Tense :—  
 
 
-।         ।           ।          ।           ।
-।ः-------:।:---------:।:--------:।:---------:।
-।   O.    ।           ।    B.    ।           ।
-। मु करइं । अम्भे करु । मुइ करि  ।  आमि करि  ।
-। तु करु  । तुम्भे कर । तुइ करिस ।  तुमि कर  ।
-। से करइ  । से करन्ति ।  से करे  । तिनि करेन ।
+|         |           |          |           |
+|:-------:|:---------:|:--------:|:---------:|
+|   O.    |           |    B.    |           |
+| मु करइं | अम्भे करु | मुइ करि  |  आमि करि  |
+| तु करु  | तुम्भे कर | तुइ करिस |  तुमि कर  |
+| से करइ  | से करन्ति |  से करे  | तिनि करेन |
 
 
 
@@ -16837,27 +16837,27 @@ pronounced without closing the lips, becomes **इं**. In the same waythe Pr. 
 
  The other languages have:—
 
-।          ।           ।         ।         ।
-।:--------:।:---------:।ः-------:।ः-------:।
-।    G.    ।           ।   H.    ।         ।
-। हुं करुं । अमे करिये । मै करुं । हम करें ।
-। तुं करे  ।  तमे करो  । तुं करे । तुम करो ।
-।  ते करे  ।  तेओ करे  । उह करे  । वै करें ।
+|          |           |         |         |
+|:--------:|:---------:|:-------:|:-------:|
+|    G.    |           |   H.    |         |
+| हुं करुं | अमे करिये | मै करुं | हम करें |
+| तुं करे  |  तमे करो  | तुं करे | तुम करो |
+|  ते करे  |  तेओ करे  | उह करे  | वै करें |
 
 **S.Tr.**
 
-।                    ।                   ।
-।--------------------।-------------------।
-। आंऊं मारिआं-र्पो   । असीं मारिऊं-र्यूं ।
-। तूं मारिएं-रें-रीं । अहीं मारिओ-र्यो   ।
-। हू मारे            । हू मारीनि-रिनि    ।
+|                    |                   |
+|--------------------|-------------------|
+| आंऊं मारिआं-र्पो   | असीं मारिऊं-र्यूं |
+| तूं मारिएं-रें-रीं | अहीं मारिओ-र्यो   |
+| हू मारे            | हू मारीनि-रिनि    |
 
-।         ।      ।          ।           ।
-।ः-------:।ः----:।:--------:।:---------:।
-। S.Intr. ।      ।    P.    ।           ।
-।  हलां   । हलूं । मै करां  । असीं करये ।
-।  हलें   । हलो  । तूं करें । तुसी करो  ।
-।   हले   । हलनि ।  उह करे  ।  उह करण   ।
+|         |      |          |           |
+|:-------:|:----:|:--------:|:---------:|
+| S.Intr. |      |    P.    |           |
+|  हलां   | हलूं | मै करां  | असीं करये |
+|  हलें   | हलो  | तूं करें | तुसी करो  |
+|   हले   | हलनि |  उह करे  |  उह करण   |
 
 
 
@@ -16964,12 +16964,12 @@ Bāla-K.
  The Marathi, Oriya, and the Bangali have preserved theImperative mood entire; the others, only the second person sing.,the rest being taken over from the old present or the modernPotential.  
 
 
-।     ।        ।          ।     ।                 ।         ।             ।
-।-----।ः------:।:--------:।ः---:।:---------------:।ः-------:।:-----------:।
-।    ।   M.   ।          । O.  ।                 ।   B.    ।             ।
-। 1st ।  करूं  । करूं-रों । करि ।      करूं       ।   करि   ।     करि     ।
-। 2nd । कर-रीं ।   करा    । कर  ।       कर        । कर-करीस । कर करह करीओ ।
-। 3rd ।  करो   ।   करोत   । करु । करन्तु or करन्त ।  करुक्  ।    करुन्    ।
+|     |        |          |     |                 |         |             |
+|-----|:------:|:--------:|:---:|:---------------:|:-------:|:-----------:|
+|    |   M.   |          | O.  |                 |   B.    |             |
+| 1st |  करूं  | करूं-रों | करि |      करूं       |   करि   |     करि     |
+| 2nd | कर-रीं |   करा    | कर  |       कर        | कर-करीस | कर करह करीओ |
+| 3rd |  करो   |   करोत   | करु | करन्तु or करन्त |  करुक्  |    करुन्    |
 
 
 
@@ -17087,11 +17087,11 @@ seen that **ई** is used in many more grammatical forms in M. than**ए**, whil
  The third Skr. tense preserved by the Prakrits is the SecondFuture. It has descended to the Gujarati. Thus:—  
 
 
-।     ।      ।            ।
-।-----।------।------------।
-। हुं । करीस । अमे करिसुं ।
-। तुं । करसे । तमे करसो   ।
-। ते  । करसे । तेओ करसे   ।
+|     |      |            |
+|-----|------|------------|
+| हुं | करीस | अमे करिसुं |
+| तुं | करसे | तमे करसो   |
+| ते  | करसे | तेओ करसे   |
 
 
 
@@ -17101,11 +17101,11 @@ seen that **ई** is used in many more grammatical forms in M. than**ए**, whil
 to **ह**as it very often is. Thus:—  
 
 
-।        ।        ।
-।--------।--------।
-। करिहौं । करिहैं ।
-। करिहै  । करिहो  ।
-। करिहै  । करिहै  ।
+|        |        |
+|--------|--------|
+| करिहौं | करिहैं |
+| करिहै  | करिहो  |
+| करिहै  | करिहै  |
 
  Here in the 1st pers. sing. we have the **औं**of the Pres. Braj asin **करौं**, unlike the G. and in conformity with the ancient practice.You will also observe that the old augment **इ** is preserved. Itmay be suspected that these forms are derived from those in thePr. which have **ह** instead of **स**, but you will have observed thatthere we have **हि** as in **करिहिइ** and here **ह** which represents theŚaur, and Apbhr. **स**.The old Future occurs in Tulsidāsa'sRāmāyaṇa.
 
@@ -17320,20 +17320,20 @@ Parasm. **इ**, and **ए** or **अ**of the intransitive and reflexive with th
 will remember, the Pr. has **ए, आवे**and, the **ए** of the latter beingdropped, there is another **आव**. We have also a good manyexamples in the vernaculars of the Pr. causals mentioned byHemacandra as formed by dropping all terminations and preserving the vowel changes, guns or viddhi, which roots takebefore the Skr. **अय**or Pr. **ए** Thus:—  
 
 
-।             ।                  ।                  ।
-।-------------।------------------।------------------।
-। M. G. H.    । मरणें-वुं-ना     । मारणें-वुं-ना.   ।
-। H.          । खुलना            । खोलना            ।
-। M. G. H. S. । तुटणें-वुं-ना-णु । तोडणें-वुं-ना-णु ।
-। M. G. H.    । फुटणें-वुं-ना    । फोडणें-वुं-ना    ।
-। H.          । फटना             । फाडनां           ।
-। G.H.        । छुटवुं-ना        । छोडवुं-ना        ।
-। M.          । सुटणें           । सोढणें           ।
-। M.G.        । पडणें-वुं        । पाडणें-हुं       ।
-। M.          । चरणेॆं           । चारणें           ।
-। S.         । वरणु             । वारणु            ।
-। M. S.       । गलणें-गरणु       । गालणें-गारणु     ।
-। S.          । पढणु             । पाढणु            ।
+|             |                  |                  |
+|-------------|------------------|------------------|
+| M. G. H.    | मरणें-वुं-ना     | मारणें-वुं-ना.   |
+| H.          | खुलना            | खोलना            |
+| M. G. H. S. | तुटणें-वुं-ना-णु | तोडणें-वुं-ना-णु |
+| M. G. H.    | फुटणें-वुं-ना    | फोडणें-वुं-ना    |
+| H.          | फटना             | फाडनां           |
+| G.H.        | छुटवुं-ना        | छोडवुं-ना        |
+| M.          | सुटणें           | सोढणें           |
+| M.G.        | पडणें-वुं        | पाडणें-हुं       |
+| M.          | चरणेॆं           | चारणें           |
+| S.         | वरणु             | वारणु            |
+| M. S.       | गलणें-गरणु       | गालणें-गारणु     |
+| S.          | पढणु             | पाढणु            |
 
 
 
@@ -17403,13 +17403,13 @@ will not serve his purpose, but he must have some such as **तदीयंप�
  The Marathi oblique forms are made up by adding theseterminations :—  
 
 
-।             ।     ।      ।     ।
-।-------------।-----।ः----:।-----।
-। \(1\) Sing. । आ   । Pl. । आं  ।
-। (2) „      । ई   ।  „   । ईं  ।
-। (3) „      । ई   ।  „   । आं  ।
-। (4) „      । ऊ   ।  „   । ऊं  ।
-। (5) „      । ए   ।  „   । आं  ।
+|             |     |      |     |
+|-------------|-----|:----:|-----|
+| \(1\) Sing. | आ   | Pl. | आं  |
+| (2) „      | ई   |  „   | ईं  |
+| (3) „      | ई   |  „   | आं  |
+| (4) „      | ऊ   |  „   | ऊं  |
+| (5) „      | ए   |  „   | आं  |
 
 
 
@@ -17802,12 +17802,12 @@ Sursāgar, pada 29, page 255.
 
  We have seen that in the course of the development of ourmodern languages the genitive which even in Skr. expressedrelation in general was used for the dative and sometimes forother cases also. The dative thus went out of use and, to expressthe relations which it indicated, various new suffixes, given andexplained above, were brought into use and the old genitive beingattenuated was felt to be too weak to express the usual genitiverelation and it was adapted to serve as the base of all obliquecases to which the newly constituted terminations were appended. The relation of possession as well as other genitive relations,such as that of a thing and the material of which it is made, had thus no special expression left for them. ln Skr. such relationsare indicated, besides the genitive case, by adjectives formed fromthe name of the possessor, material etc. by the addition of specific terminations and from these mostly the genitive terminationsin the modern languages are derived and consequently areadjectival in their nature and agree with the gender of thething possessed or made. The genitive terminations are asfollows:—
 
-।     ।           ।     ।          ।
-।ः---:।:---------:।ः---:।:--------:।
-। M.  । चा-ची-चें । P.  ।  दा-दी   ।
-। G.  । नो-नी-मुं । B.  । इर or एर ।
-। S.  ।   जो-जी   । O. ।    र     ।
-। H.  ।   का-की   ।    ।         ।
+|     |           |     |          |
+|:---:|:---------:|:---:|:--------:|
+| M.  | चा-ची-चें | P.  |  दा-दी   |
+| G.  | नो-नी-मुं | B.  | इर or एर |
+| S.  |   जो-जी   | O. |    र     |
+| H.  |   का-की   |    |         |
 
 
 
@@ -17977,12 +17977,12 @@ M., S., B. and O. make up some of their tenses and moods in thefirst way; the ot
 
  Here then we see that, like nouns in **ओ-आ**, adjectives alsowith those endings have preserved the old terminations. Nowthe three participles I have mentioned end in **आ** or **ओ** arisingfrom the original affix **क**, wherefore they must be inflected. InM. and G., however, under certain circumstances the presentparticiple ends in **अ** and therefore is not inflected. The oldPresent has in M. acquired another sense whence a new one cameinto use, the forms of which are as follows:—
 
-।           ।                       ।       ।
-।:---------:।:---------------------:।ः-----:।
-।   Sing.   ।                       ।  Pl.  ।
-। 1st pers. । करतों-त्ये or तीं-ते  । करतों ।
-। 2nd pers. । करतोस-त्येस, तीस-तेंस । करतां ।
-। 3rd pers. ।   करतो-त्ये, ती-तें   । करतात ।
+|           |                       |       |
+|:---------:|:---------------------:|:-----:|
+|   Sing.   |                       |  Pl.  |
+| 1st pers. | करतों-त्ये or तीं-ते  | करतों |
+| 2nd pers. | करतोस-त्येस, तीस-तेंस | करतां |
+| 3rd pers. |   करतो-त्ये, ती-तें   | करतात |
 
  These are made up by adding the terminations expressive ofgender and person to the pres. part. which is **करत**. White the fem. **ई**this becomes **करती**, but there is another form in **ये** which appearsto have been arrived at thus:**करन्तअ** ( for **करन्तक** )-**करतय-करतय+ई**of fem.—**करतये**—**करत्ये**.The neuter form is **करते**.These threeforms are used in the sing. while the gender is neglected in the pl.There is however such a form as **करत्यात** used for the 3rd pers. pl.in the pure Deccan in which **करत्यात** is the fem. pl. of **करती**. Tothese adjectival bases are appended the personal terminations ofthe old Pres. for the two numbers, which, you will remember, are3rd pers. sing. **इ**. pl. **त**; 2nd pers. sing. **स**, pl. **आ**; 1st pers. sing. **इं**,pl. **ऊं**.
 
@@ -17992,19 +17992,19 @@ M., S., B. and O. make up some of their tenses and moods in thefirst way; the ot
 
  In the Goan. and Māl. the gender is not attended to and theforms are the same for all. This arises from the use of the unaugmented participle **करत** and not **करतअ** which retains the inflections. The forms are:—
 
-।           ।                   ।             ।
-।:---------:।:-----------------:।:-----------:।
-।   Sing.   ।                   ।             ।
-। 1st pers. । करतैं or तंय Māl. । करतां Goan. ।
-। 2nd pers. ।     करतस Māl.     । करतास Goan. ।
-। 3rd pers. ।     करता Māl.     । करता Goan.  ।
+|           |                   |             |
+|:---------:|:-----------------:|:-----------:|
+|   Sing.   |                   |             |
+| 1st pers. | करतैं or तंय Māl. | करतां Goan. |
+| 2nd pers. |     करतस Māl.     | करतास Goan. |
+| 3rd pers. |     करता Māl.     | करता Goan.  |
 
-।           ।                ।              ।
-।:---------:।:--------------:।:------------:।
-।    Pl.    ।                ।              ।
-। 1st pers. । करतौं—तंवMāl. । करतांव Goan. ।
-। 2nd pers. ।   करतात Māl.   । करतात Goan.  ।
-। 3rd pers. ।   करतत Māl.    । करतात Goan.  ।
+|           |                |              |
+|:---------:|:--------------:|:------------:|
+|    Pl.    |                |              |
+| 1st pers. | करतौं—तंवMāl. | करतांव Goan. |
+| 2nd pers. |   करतात Māl.   | करतात Goan.  |
+| 3rd pers. |   करतत Māl.    | करतात Goan.  |
 
  The terminations are those of the old Pres. of intransitiveroots in these dialects, *i. e.* the real Pr. terminations without thetransitive or Parasm, augment **ई**. The 2nd pers. pl. **त**, which Ihave traced to the Pr. **इत्था**, is peculiar to the Goan. and Māl. andit is not altogether absent from the ordinary M. In the 1st. pers.sing. Māl, we have the old **इं** from **मि** distinct and not reduced toan amusvära as in the standard dialect and also the Goan.
 
@@ -18013,12 +18013,12 @@ M., S., B. and O. make up some of their tenses and moods in thefirst way; the ot
  The reason why forms expressive of present time have cometo denote past time is to be sought for in that natural use of thePres, which is called Historic Present. A man in narrating astory transports himself for the sake of vividness into that timewhen the actions are supposed to have taken place and speaks ofthem as if they were present; and when this habit becomes generalin a language, the fact of such an imaginary transfer is forgottenand the Present Tense becomes Past Tense. We have manyinstances of this use of the Skr. Pres. in such books as the Pañcatantra. The forms of the O. Past Habitual are these :—  
 
 
-।           ।        ।         ।
-।:---------:।ः------:।ः-------:।
-।   Sing.   ।        ।   Pl.   ।
-। 1st pers  । करन्ति । करन्तुं ।
-। 2nd pers. । करन्तु ।  करन्त  ।
-। 3rd pers. । करन्ता । करन्ते  ।
+|           |        |         |
+|:---------:|:------:|:-------:|
+|   Sing.   |        |   Pl.   |
+| 1st pers  | करन्ति | करन्तुं |
+| 2nd pers. | करन्तु |  करन्त  |
+| 3rd pers. | करन्ता | करन्ते  |
 
 
 
@@ -18029,13 +18029,13 @@ M., S., B. and O. make up some of their tenses and moods in thefirst way; the ot
  These same forms that we have been discussing have in theS. acquired a future signification and constitute the regularFuture tense of that dialect. The Pres, expresses in all languagesan immediate future—a man's intending shortly to do a thing isconsidered as good as actually doing it. This is the germ offuturity in the signification of forms of the Present tense; andusage may take hold of it and constitute them into a regularFuture. The Sindhi forms are—  
 
 
-।           ।         ।           ।                  ।               ।
-।:---------:।ः-------:।:---------:।:----------------:।:-------------:।
-।   Masc.   ।         ।          ।       Fem.       ।               ।
-।   Sing.   ।         ।    Pl.    ।      Sing.       ।      Pl.      ।
-। 1st pers. । हलंदुसि । हलंदासीं  । हलांदेआसि-द्यासि । हलंदिऊं-गूसीं ।
-। 2nd pers. । हलंदें  । हलंदउन्दौ ।    हलंदिअं-एं    ।  हलंदिऊं-गू   ।
-। 3rd pers. ।  हलंदो  ।   हलंदा   ।      हलंदी       । हलंदिऊं-द्यूं ।
+|           |         |           |                  |               |
+|:---------:|:-------:|:---------:|:----------------:|:-------------:|
+|   Masc.   |         |          |       Fem.       |               |
+|   Sing.   |         |    Pl.    |      Sing.       |      Pl.      |
+| 1st pers. | हलंदुसि | हलंदासीं  | हलांदेआसि-द्यासि | हलंदिऊं-गूसीं |
+| 2nd pers. | हलंदें  | हलंदउन्दौ |    हलंदिअं-एं    |  हलंदिऊं-गू   |
+| 3rd pers. |  हलंदो  |   हलंदा   |      हलंदी       | हलंदिऊं-द्यूं |
 
 
 
@@ -18047,21 +18047,21 @@ the pl. are like those of corresponding adjectives in **ओ**. The 2ndpers, has 
 
 **Masc.**
 
-।               ।                 ।
-।:-------------:।:---------------:।
-।   Singular    ।     Plural.     ।
-। हलिउसि-ल्युसि । हलिआसीं-ल्यासीं ।
-।  हलिएं-ल्यें  ।   हल्यउ-ल्यु    ।
-।   हलिओ-ल्यो   ।    हलिआ-ल्या    ।
+|               |                 |
+|:-------------:|:---------------:|
+|   Singular    |     Plural.     |
+| हलिउसि-ल्युसि | हलिआसीं-ल्यासीं |
+|  हलिएं-ल्यें  |   हल्यउ-ल्यु    |
+|   हलिओ-ल्यो   |    हलिआ-ल्या    |
 
 **Fem.**
 
-।              ।           ।
-।:------------:।:---------:।
-।   Singular   ।  Plural.  ।
-। हलिउसि-ल्यसि । हलियूंसि  ।
-।   हलिअं-एं   । हलियूं-ऊं ।
-।     हलीं     ।  हलियूं   ।
+|              |           |
+|:------------:|:---------:|
+|   Singular   |  Plural.  |
+| हलिउसि-ल्यसि | हलियूंसि  |
+|   हलिअं-एं   | हलियूं-ऊं |
+|     हलीं     |  हलियूं   |
 
 
 
@@ -18069,13 +18069,13 @@ the pl. are like those of corresponding adjectives in **ओ**. The 2ndpers, has 
 
  Marathi has—
 
-।       ।       ।       ।             ।         ।        ।        ।
-।ः-----:।ः-----:।ः-----:।:-----------:।ः-------:।ः------:।ः------:।
-। Masc. ।       ।       ।    Fem.     ।         । Neut.  ।        ।
-।      । Sing. ।  Pl.  ।    Sing.    ।   Pl.   । Sing.  ।  Pl.   ।
-। 1st.  । गेलों । गेलों । गेल्यें-लीं । गेल्यों । गेलें  । गेलों  ।
-। 2nd.  । गेलास । गेलां ।    गेलीस    । गेल्यात । गेलेंस । गेलींत ।
-। 3rd.  । गेला  । गेले  ।    गेली     । गेल्या  । गेलें  । गेलीं  ।
+|       |       |       |             |         |        |        |
+|:-----:|:-----:|:-----:|:-----------:|:-------:|:------:|:------:|
+| Masc. |       |       |    Fem.     |         | Neut.  |        |
+|      | Sing. |  Pl.  |    Sing.    |   Pl.   | Sing.  |  Pl.   |
+| 1st.  | गेलों | गेलों | गेल्यें-लीं | गेल्यों | गेलें  | गेलों  |
+| 2nd.  | गेलास | गेलां |    गेलीस    | गेल्यात | गेलेंस | गेलींत |
+| 3rd.  | गेला  | गेले  |    गेली     | गेल्या  | गेलें  | गेलीं  |
 
  Here as before we have simply adjectival forms for the 3rdpers.; and the verbal terminations of the old Pres. appear in thefirst and second united with the nominal affixes indicative ofgender and number, which however are dropped where they cannot be easily combined with the other, as in the first and secondperson plural mase. It should be remarked that the old masc.termination **उ** or **ओ** is preserved in the 1st pers. sing., as in thenew Pres., and the 2nd pers. pl. has in some cases the affix **त**.,which I have already noticed and traced to the Pr. **इत्था**.
 
@@ -18085,21 +18085,21 @@ the pl. are like those of corresponding adjectives in **ओ**. The 2ndpers, has 
 
 **Goan.**
 
-।                      ।                           ।
-।:--------------------:।:-------------------------:।
-।  हांव गेलों-लीं-लं   ।    आमी गेलों-ल्यों-लीं    ।
-।   तूं गेलो-ली-लंस    ।    तुमी गेले-ल्यो-लींत    ।
-। तो-ती-तें-गेलो-ली-लं । ते-त्यो-तीं-गेले-ल्यो-लीं ।
+|                      |                           |
+|:--------------------:|:-------------------------:|
+|  हांव गेलों-लीं-लं   |    आमी गेलों-ल्यों-लीं    |
+|   तूं गेलो-ली-लंस    |    तुमी गेले-ल्यो-लींत    |
+| तो-ती-तें-गेलो-ली-लं | ते-त्यो-तीं-गेले-ल्यो-लीं |
 
 
 
 Māl.
 
-।                       ।                           ।
-।:---------------------:।:-------------------------:।
-।       मी गेलइं        ।         आमी गेलौं         ।
-।       तूं गेलस        ।     तुमी गेलात-ल्यात      ।
-। तो-ती-तां-गेलो-ली-लां । ते-त्यो-तीं-गेले-ल्यो-लीं ।
+|                       |                           |
+|:---------------------:|:-------------------------:|
+|       मी गेलइं        |         आमी गेलौं         |
+|       तूं गेलस        |     तुमी गेलात-ल्यात      |
+| तो-ती-तां-गेलो-ली-लां | ते-त्यो-तीं-गेले-ल्यो-लीं |
 
 
 
@@ -18111,13 +18111,13 @@ S. mean 'thou wert beaten' and 'I was beaten', but we do not use'.such forms as 
 
  The O. and the B. do not inflect their adjectives, whether theyend in ओ or any other vowel and have no agent case or instrumental. When the languages came to be in this condition, there wasnothing to mark off the passive nature of the transitive participle.Hence it was forgotten and we have now active verbal formsonly, which are constructed as in the other languages.
 
-।            ।       ।      ।               ।           ।
-।:----------:।ः-----:।ः----:।:-------------:।:---------:।
-।     O.     ।       ।      ।      B.       ।           ।
-।           । Sing. । Pl.  ।     Sing.     ।    Pl.    ।
-। 1st. pers. ।  कलि  । कलुं ।   देखिलाम्    । देखिलाम्  ।
-। 2nd pers.  ।  कलु  ।  कल  ।    देखिलि     । देखिला-ले ।
-। 3rd pers.  ।  कला  । कले  । देखिल (or ल्) । देखिलेन्  ।
+|            |       |      |               |           |
+|:----------:|:-----:|:----:|:-------------:|:---------:|
+|     O.     |       |      |      B.       |           |
+|           | Sing. | Pl.  |     Sing.     |    Pl.    |
+| 1st. pers. |  कलि  | कलुं |   देखिलाम्    | देखिलाम्  |
+| 2nd pers.  |  कलु  |  कल  |    देखिलि     | देखिला-ले |
+| 3rd pers.  |  कला  | कले  | देखिल (or ल्) | देखिलेन्  |
 
 
 
@@ -18129,13 +18129,13 @@ S. mean 'thou wert beaten' and 'I was beaten', but we do not use'.such forms as 
 
  The Skr. potential participle in **तव्य**, Pr. **अव्व**, which impliesduty, has become the base of the O. and B. Future. In Skr. **मयाकर्तव्यम्** means 'it is to be done by me' *i. e.* it is my duty to do it,and the transition from this idea to 'I shall do it is natural. Thevery word 'shall' in English, which primarily signifies 'I owe'and has now become the sing of the English Future, is anexample of it. This participle in Skr. and Pr. is impersonal whenthe root is intransitive and passive when it is transitive. Likethe past part, this has lost its passive character in these languagesfor the same reasons. The usual personal terminations areapplied to it as—
 
-।            ।       ।          ।       ।          ।
-।:----------:।ः-----:।:--------:।ः-----:।:--------:।
-।     O.     ।       ।          ।  B.   ।          ।
-।           । Sing. ।   Pl.    । Sing. ।   Pl.    ।
-। 1st. pers. । करिवि । करिवु-वा । करिव  ।   करिव   ।
-। 2nd pers.  । करिवु ।   करिव   । करिवि । करिवा-वे ।
-। 3rd pers.  । करिव  ।  करिवे   । करिवे । करिवेन्  ।
+|            |       |          |       |          |
+|:----------:|:-----:|:--------:|:-----:|:--------:|
+|     O.     |       |          |  B.   |          |
+|           | Sing. |   Pl.    | Sing. |   Pl.    |
+| 1st. pers. | करिवि | करिवु-वा | करिव  |   करिव   |
+| 2nd pers.  | करिवु |   करिव   | करिवि | करिवा-वे |
+| 3rd pers.  | करिव  |  करिवे   | करिवे | करिवेन्  |
 
  In the O., the third pers. sing. has no terminations and the pl.has the nom. pl. **ए**, which we have found in so many cases. Theothers have the usual affixes. The optional **वा**of the first pers. pl.appears to be the adjectival sing. **वा**.
 
@@ -18153,12 +18153,12 @@ unaspirates. The genius of the Prakrits and their descendantsis to preserve the 
 
  We have next to examine the forms that are made up byadding independent words. There are not many of this class.The H. and P. Future is constructed by affixing **गा** sing., **गे** pl.masc., and **गी**sing. and **गीं** pl. fem to the forms of the Present. This **गा** appears to be the past participle of **गम्**and ordinarily it isused in the form of **गया**. Participles of other roots also are in H.sometimes reduced to monosyllabic forms as **दी**for **दिई, की** for **किई**;these are feminine and the corresponding masc. monosyllabicforms are er **दा**and **का**. We have seen that these **का-की** and **दा-दी**are appended to the obl. case form to make up the genitive in H.and P. Similarly the participle **गा-गी** is used to form the Future,so that **करेगा** means 'gone that he may do.' The M. Future isformed by adding **इल** or **ल** to the old Present, as you will see fromthe following forms:—
 
-।      ।          ।        ।        ।        ।
-।ः----:।:--------:।ः------:।ः------:।ः------:।
-।     ।  Sing.   ।  Pl.   । Sing.  ।  Pl.   ।
-। 1st. ।   करीन   ।  करूं  । धावेन  । धाबूं  ।
-। 2nd. । कर-रिशील ।  कराल  । धावशील । धावाल  ।
-। 3rd. ।   करील   । करितील । धाबेल  । धावतील ।
+|      |          |        |        |        |
+|:----:|:--------:|:------:|:------:|:------:|
+|     |  Sing.   |  Pl.   | Sing.  |  Pl.   |
+| 1st. |   करीन   |  करूं  | धावेन  | धाबूं  |
+| 2nd. | कर-रिशील |  कराल  | धावशील | धावाल  |
+| 3rd. |   करील   | करितील | धाबेल  | धावतील |
 
  In the first pers. sing. **ल** and the anusvära of **रीं** together form**न**as they do in several other cases; the pl. is the same as that ofthe Pres. What is the nature of this **ल** or **इल** ? One **ल** that isappended to the past participle we have already examined. Thereis another appended in the Goan. and Māl. to the present part.and the forms thus made up have past habitual and future sense.Thus Goan. **करतालो**means 'he used to do' and **करतलो**Goan.andMāl. 'he will do.' In both cases the base is the present part., butin the first it occurs in the augmented form or the form with theold Skr. **क**. The pres. part. has in the O., as we have seen,acquired a past and in the S. a future sense, the germs of both ofwhich are, as I have explained, contained in its original signification, while here in the Goan. it has both the senses. Now, asit was the practice, as I observed in the last two lectures, toattach **क** and **ल**or **इल** optionally to a great many words, the sameword had often several forms—one without **क**, another with it, athird with **ल**, a fourth without it and a fifth with both **ल** and **क**.These terminations did not signify much originally but afterwards, when the words such as the pres. part. began more andmore to acquire distinct and diverse significations, one of theforms whether with or without **ल** became identified with onesense and the other with another. Thus **करतालो**, made up as it isby the addition of **क**, which has left its **अ**, and of **ल**, was appropriated for the Habitual Past and without to the Future.But that the new additions themselves originally were notexpressive of that sense is shown by the fact that the augmentedform **करता** in **तो करता तर बरें होतें** expresses past conditional in M.and H., while it is the unaugmented **करत** in G. in **ते करत तो सारुंथात** which conveys that sense. Thus then **ल** was applied in M.to the Present verbal forms also and, when the old Future waslost, these came to be appropriated for the Future, just as thepresent participle with **ल** came to have a future signification inthe Goan. and Māl.
 
@@ -18429,43 +18429,43 @@ The growth of the specifio Prakrits, therefore, must be referredto the early cen
 
 **LIST OF ABREVIATIONS**
 
-।                                                   ।                                    ।
-।---------------------------------------------------।------------------------------------।
-। Abl. = Ablative                                   । Obl. = Oblique                     ।
-। Absol. = Absolutive                               । P. = Panjabi or Panjābī            ।
-। Acc. = Accusative                                 । Pāṇ. =Pāṇini                      ।
-। Ait. = Aitareya                                   । Parasm. = Parasmaipada             ।
-। Ap., Apabhr., Apblr., Apbr. =Apabhraṁśa          । Part. = Participle                 ।
-। Ath. Pr. = Atharva Prātiśākhya                    । Per. or Pres. = Person             ।
-। Ätm. = Ātmanepada                                 । Pl. = Plural                       ।
-। B. = Bengali                                      । Pot. = potential                   ।
-। Bräh. = Brāhmaṇa                                  । P. p. p. = Past Passive Participle ।
-। cit. = citpavani                                  । Pr. = Prakrit                      ।
-। Corp. insc. Ind. = Corpus inscriptional Indicarum । Pres. = Present                    ।
-। Dat. = Dative                                     । Pürva = Pūrvapakṣin                ।
-। Dh. = Dhaull                                      । Ṛv. = Ṛgveda                       ।
-। Dial. = Dialect                                   । S. = Sindhi or Sindhī              ।
-। Fem. Feminine                                     । Saṁh. = Saṁhitā                    ।
-। G., Guj. = Gujarati                               । Śat. = Śatapatha                   ।
-। Gen. = Genitive                                   । Śaur. = Śaurasenī                  ।
-। Goan, Goanese                                     । Sid. = Siddhāntin                  ।
-। H.= Hindi                                         । Sing. = Singular                   ।
-। Imper. = Imperative                               । Sk. = Sanskrit                     ।
-। Ind. St.= Indische Studien                        । St. = Standard                     ।
-। Instr. = Instrumental                             । Tad. = Tadbhava                    ।
-। Intr.= Intransitive                               । Tait. = Taittirïya                 ।
-। Jñän, = Jñäneśvari                                । Term. = Termination.               ।
-। Karh. = Karhāda or Karhada                        । Tr. = Transitive                   ।
-। Kh. = Khalsi                                      । Tulasi. = Tulasidäs.or Tulsidäsa  ।
-। Loc. = Locative                                   । Väj. Pr. = Vājasaneyi Prātiśakhya  ।
-। M., Mar. = Marathi or Marāṭhī                     । Voc. = Vocative                    ।
-। Mah., Mahr. = Mahārāṣṭrī                          ।                                   ।
-। Mal. = Malvani or Mālvaṇī                         ।                                   ।
-। Mase. = Masculine                                 ।                                   ।
-। Mod. = Modern                                     ।                                   ।
-। Neut. = Neuter                                    ।                                   ।
-। Nom. = Nominative                                 ।                                   ।
-। O. = Oriya or Oriyä                               ।                                   ।
+|                                                   |                                    |
+|---------------------------------------------------|------------------------------------|
+| Abl. = Ablative                                   | Obl. = Oblique                     |
+| Absol. = Absolutive                               | P. = Panjabi or Panjābī            |
+| Acc. = Accusative                                 | Pāṇ. =Pāṇini                      |
+| Ait. = Aitareya                                   | Parasm. = Parasmaipada             |
+| Ap., Apabhr., Apblr., Apbr. =Apabhraṁśa          | Part. = Participle                 |
+| Ath. Pr. = Atharva Prātiśākhya                    | Per. or Pres. = Person             |
+| Ätm. = Ātmanepada                                 | Pl. = Plural                       |
+| B. = Bengali                                      | Pot. = potential                   |
+| Bräh. = Brāhmaṇa                                  | P. p. p. = Past Passive Participle |
+| cit. = citpavani                                  | Pr. = Prakrit                      |
+| Corp. insc. Ind. = Corpus inscriptional Indicarum | Pres. = Present                    |
+| Dat. = Dative                                     | Pürva = Pūrvapakṣin                |
+| Dh. = Dhaull                                      | Ṛv. = Ṛgveda                       |
+| Dial. = Dialect                                   | S. = Sindhi or Sindhī              |
+| Fem. Feminine                                     | Saṁh. = Saṁhitā                    |
+| G., Guj. = Gujarati                               | Śat. = Śatapatha                   |
+| Gen. = Genitive                                   | Śaur. = Śaurasenī                  |
+| Goan, Goanese                                     | Sid. = Siddhāntin                  |
+| H.= Hindi                                         | Sing. = Singular                   |
+| Imper. = Imperative                               | Sk. = Sanskrit                     |
+| Ind. St.= Indische Studien                        | St. = Standard                     |
+| Instr. = Instrumental                             | Tad. = Tadbhava                    |
+| Intr.= Intransitive                               | Tait. = Taittirïya                 |
+| Jñän, = Jñäneśvari                                | Term. = Termination.               |
+| Karh. = Karhāda or Karhada                        | Tr. = Transitive                   |
+| Kh. = Khalsi                                      | Tulasi. = Tulasidäs.or Tulsidäsa  |
+| Loc. = Locative                                   | Väj. Pr. = Vājasaneyi Prātiśakhya  |
+| M., Mar. = Marathi or Marāṭhī                     | Voc. = Vocative                    |
+| Mah., Mahr. = Mahārāṣṭrī                          |                                   |
+| Mal. = Malvani or Mālvaṇī                         |                                   |
+| Mase. = Masculine                                 |                                   |
+| Mod. = Modern                                     |                                   |
+| Neut. = Neuter                                    |                                   |
+| Nom. = Nominative                                 |                                   |
+| O. = Oriya or Oriyä                               |                                   |
 
 **INDEXES**  
 INDEX - I  
@@ -18499,9 +18499,9 @@ GENERAL INDEX
 
 **INDEX II**
 
-।                                                                                                                                                                                                                                                                                                                                                                 ।                                                                                                                                                                                                                                                                                                                                                        ।
-।-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। V.s derived from Prakrits, date of modern V.s coming into prominence, modern V. pronunciation, law of accentuation causal roots in V. Skr. dentals changed to cerebrals in V.s. mode of Northern V.s of India, local tendencies exhibited by the speakers of V.s, pronouns in V.s., verbs etc. in V.s, absolutive in V.s. causes of V.s, one chief and import- । ant source of the modern case affixes overlooked by V. philologists; origin of स in V. terminations.ablative terminations in V.s, derivation of तन् in V.s, in: Gujarati, another way of possession in V.s, another derivation of the V.s, "कर" future tense of V.s. V.s and Prakrits, peculiarities modern V.s, sanskrit and Prakrits 11  Visarga, ।
+|                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                        |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| V.s derived from Prakrits, date of modern V.s coming into prominence, modern V. pronunciation, law of accentuation causal roots in V. Skr. dentals changed to cerebrals in V.s. mode of Northern V.s of India, local tendencies exhibited by the speakers of V.s, pronouns in V.s., verbs etc. in V.s, absolutive in V.s. causes of V.s, one chief and import- | ant source of the modern case affixes overlooked by V. philologists; origin of स in V. terminations.ablative terminations in V.s, derivation of तन् in V.s, in: Gujarati, another way of possession in V.s, another derivation of the V.s, "कर" future tense of V.s. V.s and Prakrits, peculiarities modern V.s, sanskrit and Prakrits 11  Visarga, |
 
 **INDEX II**
 

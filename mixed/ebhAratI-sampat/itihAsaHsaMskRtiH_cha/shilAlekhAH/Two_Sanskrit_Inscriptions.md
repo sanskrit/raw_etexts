@@ -504,23 +504,23 @@ INSCRIPTIONS.**
 
   None of these metres call for special remark, except those of stanzas 6, 21, 24, 32, and 34. In these we have quatrains composed of the *Indravajrá* and *Upendravajrá* measures intermixed. The modes in which they are combined were long ago alluded to,[❋](# "Colebrooke s Miscell. Essays, ii. 100.") but have not yet been detailed; and the Ákhyának, which Colebrooke correctly limits,[†](# "Ibid., ii. 124, 164.")has erroneously been understood as embracing all these variations.[‡](# "Dr. Stenzler s Raghuvans a, p. 174; and Dr. Boehtlingk s S ákuntala, p. 290. Other editors have gone still further astray, in supposing the term Indravajrá to denote a tetrastich of any of the sixteen sorts named in the text, the Upendravajrá") The Ákhyánakí, as ordinarily described, is the same as the *Smṛiti*; some, on the other hand, holding it to be one with the *Maṇiprabhá*. The *Viparitákhyának*i, again, is equivalent to the Śivá; or, perhaps, on a different view, it corresponds with the Śubhá. Very likely the comprehensive nomenclature about to be brought forward is of somewhat late origin. It does not, however, furnish appellations for mere factitious or new-fangled refinements; as will be seen—to go no further[❋](# "The eleven stanzas, blended of Upendravajrás and Indravajrás, which occur in the S ákuntala, exemplify no less than nine of these species.")—by the annexed references to a few of the first fifty-nine stanzas of a single canto of the RaghuvanŚa.[†](# "My authorities for the following particulars are the Chhando-mártanda, as cited in the Vrittaratnákarádars a of Divákara Bhatta, son of Mahádeva Bhaṭṭa; and a treatise on Prákrit prosody, my copy of which is defective at the commencement and at the conclusion, and of which I know neither the title nor the author. If the Sanskrit names in the first column here given have Prákrit representatives, I have not met with them.")The pure *Upendravajrá* and the pure *Indravajrá* constitute, respectively, the beginning and the end of the series.
 
-।             ।                                                                                  ।                     ।                     ।                 ।
-|:-----------:|:--------------------------------------------------------------------------------:|:-------------------:|:-------------------:|:---------------:।
-। **No. ** ।                              **Sanskrit name.  **                              । **Prákrit name. ** । **Composition. ** । **Raghu., II.** ।
-।     2\.     । *Maṇiprabhá, or Kirti.                           * ।      *Kitti.*       ।     I U U U.      ।      39.       ।
-।     3\.     ।                       *Kántimati or Váṇí.       *                       ।       *Váṇí.*       ।      U I U U.       ।       1\.       ।
-।     4\.     ।                                 *Satí or Málá.*                                  ।       *Málá.*       ।      I I U U.      ।       15.       ।
-।     5\.     ।                                 *Gati, or Śálá.*                                 ।       *Sálá.*       ।      U U I U.      ।       28.       ।
-।     6\.     ।                         *Smṛiti, or Hansi.      *                         ।      *Hansí.*       ।      I U I U.      ।       2.        ।
-।     7\.     ।                                *KriŚá, or Máyá.*                                 ।       *Μάά.*        ।      U I I U.      ।       59.       ।
-।     8\.     ।                                 *Śri, or Jáyá.*                                 ।       *Jáá.*       ।      I I I U.       ।       22.       ।
-।     9\.     ।                                *Dhriti, or Bálá.*                                ।       *Bálá.*       ।      U U U I.       ।       6.        ।
-।    10\.     ।                               *Unnatá, or Árdrá.*                                ।       *Addá.*       ।      I U U I.       ।       13.       ।
-।    11\.     ।                                *Śivá, or Bhadrá.*                                ।      *Bhaddá.*      ।      U I U I.       ।       9.        ।
-।    12\.     ।                             *Varidhará, or Premá.*                              ।      *Pemmá.*      ।     I I U I.      ।       16.       ।
-।    13\.     ।                             *Prítimatí, or Rámá. *                              ।      *Rámá. *      ।      U U I I.      ।       8.        ।
-।    14\.     ।                               *Priyá, or Ṛiddhi.*                                ।      *Riddhi.*      ।      I U I I.      ।       31.       ।
-।     15      ।                               *Śubhá, or Buddhi.*                                ।      *Buddhí.*      ।      U I I I.      ।       12.       ।
+|             |                                                                                  |                     |                     |                 |
+|:-----------:|:--------------------------------------------------------------------------------:|:-------------------:|:-------------------:|:---------------:|
+| **No. ** |                              **Sanskrit name.  **                              | **Prákrit name. ** | **Composition. ** | **Raghu., II.** |
+|     2\.     | *Maṇiprabhá, or Kirti.                           * |      *Kitti.*       |     I U U U.      |      39.       |
+|     3\.     |                       *Kántimati or Váṇí.       *                       |       *Váṇí.*       |      U I U U.       |       1\.       |
+|     4\.     |                                 *Satí or Málá.*                                  |       *Málá.*       |      I I U U.      |       15.       |
+|     5\.     |                                 *Gati, or Śálá.*                                 |       *Sálá.*       |      U U I U.      |       28.       |
+|     6\.     |                         *Smṛiti, or Hansi.      *                         |      *Hansí.*       |      I U I U.      |       2.        |
+|     7\.     |                                *KriŚá, or Máyá.*                                 |       *Μάά.*        |      U I I U.      |       59.       |
+|     8\.     |                                 *Śri, or Jáyá.*                                 |       *Jáá.*       |      I I I U.       |       22.       |
+|     9\.     |                                *Dhriti, or Bálá.*                                |       *Bálá.*       |      U U U I.       |       6.        |
+|    10\.     |                               *Unnatá, or Árdrá.*                                |       *Addá.*       |      I U U I.       |       13.       |
+|    11\.     |                                *Śivá, or Bhadrá.*                                |      *Bhaddá.*      |      U I U I.       |       9.        |
+|    12\.     |                             *Varidhará, or Premá.*                              |      *Pemmá.*      |     I I U I.      |       16.       |
+|    13\.     |                             *Prítimatí, or Rámá. *                              |      *Rámá. *      |      U U I I.      |       8.        |
+|    14\.     |                               *Priyá, or Ṛiddhi.*                                |      *Riddhi.*      |      I U I I.      |       31.       |
+|     15      |                               *Śubhá, or Buddhi.*                                |      *Buddhí.*      |      U I I I.      |       12.       |
 
   The metres of this table are disposed agreeably to a method which evidences some ingenuity. The ensuing couplet—which, like those that follow it, is from the *Vṛitta-ratnákara*-states the rule:
 

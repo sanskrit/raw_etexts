@@ -760,9 +760,9 @@ T. GANAPATI SÁSTRÍ
 
 **Ready for sale.**
 
-।                                                               ।              ।
-।---------------------------------------------------------------।--------------।
-। **भक्तिमजरी(Stuti) by H. H. Svâti Srî Râma Varma Mahârâjab.** । **100 ** ।
+|                                                               |              |
+|---------------------------------------------------------------|--------------|
+| **भक्तिमजरी(Stuti) by H. H. Svâti Srî Râma Varma Mahârâjab.** | **100 ** |
 
 **   —**
 
@@ -777,25 +777,25 @@ T. GANAPATI SÁSTRÍ
 
 
 
-।              ।                                                                                                                                                     ।            ।
-।--------------।-----------------------------------------------------------------------------------------------------------------------------------------------------।------------।
-। **No.21-** । **बालचरितम् (Do.)     Do.                                  **                                             । **1 00**   ।
-। **No.22-**   । **मध्यमव्यायोग- दूतवाक्य दूत घटोत्कच कर्णभारोरुभङ्गानि ( Nâtaka)by Bhâsa**                                                                          । **1 80**   ।
-। **No.23-**   । **नानार्थार्णवसंक्षेपः(Kosa) by Kesavaswâmin (1 & 2 Kândas)**                                                                                       । **1 12 0** ।
-। **No.24-**   । **जानकीपरिणयः(Kâvya) by Chakrakavi.**                                                                                                              । **1 0 0**  ।
-। **No.25-**   । **काणादसिद्धान्तचन्दिका (Nyâya) by Gangâdharasûri**                                                                                                 । **0 12 0** ।
-। **No. 26-**  । **अभिषेकनाटकम् (Nâtaka) by Bhâsa**                                                                                                                  । **0 12 0** ।
-। **No.27-**   । **कुमारसम्भवः(Kâvya) by Kálidâsa with the two commentaries, Prakâsikâ of Arunagirinatha and Vivarana of Narayana Pandita (1 & 2Sargas)**           । **1 12 0** ।
-। **No. 28-**  । **वैखानसर्धमप्रश्नः (Dharmasûtra) by Vikhanas**                                                                                                     । **0 80**   ।
-। **No. 29-**  । **नानार्थार्णवसंक्षेपः (Kosa) by Kesavaswamin (3rd Kanda)**                                                                                        । **2 40**   ।
-। **No. 30-**  । **वास्तुविद्या (Silpa)**                                                                                                                            । **0 12 0** ।
-। **No. 31-**  । **नानार्थार्णवसंक्षेपः(Kosa) by Kesavaswamin (4th, 5th, & 6th Kandas)**                                                                             । **100**    ।
-। **No. 32-**  । **कुमारसम्भवः(Kâvya) by Kalidâsa with the two commentaries, Prakâsiká of Arunagirinátha and Vivarana of Nárâyana Pandita (3rd,4th & 5th Sargas)**   । **2 80**   ।
-। **No. 33-**  । **वाररुचसंग्रहः(Vykârana) with the commentary Dîpaprabhâ of Nârâyana**                                                                              । **0 80**   ।
-। **No. 34-**  । **मणिदर्पणः ( शब्दपरिच्छेदः) (Nyâya ) by RâjachÛdâ- manimakhin**                                                                                    । **1 40**   ।
-। **No. 35-**  । **मणिसारः ( अनुमानखण्ड :) (Nyâya ) by Gopînâtha**                                                                                                   । **1 80**   ।
-। **No. 36-**  । **कुमारसम्भवः (Kâvya) by Kâlidása with the two commentaries, Prakâsikȧ of Arunagirinâtha and Vivarana of Nârâyana Pandita (6th, 7th & 8th sargas)** । **3 00**   ।
-। **No. 37-**  । **आशौचाम्टकम्(Smriti) by Vararuchi with the commentary**                                                                                            । **0 40**   ।
+|              |                                                                                                                                                     |            |
+|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| **No.21-** | **बालचरितम् (Do.)     Do.                                  **                                             | **1 00**   |
+| **No.22-**   | **मध्यमव्यायोग- दूतवाक्य दूत घटोत्कच कर्णभारोरुभङ्गानि ( Nâtaka)by Bhâsa**                                                                          | **1 80**   |
+| **No.23-**   | **नानार्थार्णवसंक्षेपः(Kosa) by Kesavaswâmin (1 & 2 Kândas)**                                                                                       | **1 12 0** |
+| **No.24-**   | **जानकीपरिणयः(Kâvya) by Chakrakavi.**                                                                                                              | **1 0 0**  |
+| **No.25-**   | **काणादसिद्धान्तचन्दिका (Nyâya) by Gangâdharasûri**                                                                                                 | **0 12 0** |
+| **No. 26-**  | **अभिषेकनाटकम् (Nâtaka) by Bhâsa**                                                                                                                  | **0 12 0** |
+| **No.27-**   | **कुमारसम्भवः(Kâvya) by Kálidâsa with the two commentaries, Prakâsikâ of Arunagirinatha and Vivarana of Narayana Pandita (1 & 2Sargas)**           | **1 12 0** |
+| **No. 28-**  | **वैखानसर्धमप्रश्नः (Dharmasûtra) by Vikhanas**                                                                                                     | **0 80**   |
+| **No. 29-**  | **नानार्थार्णवसंक्षेपः (Kosa) by Kesavaswamin (3rd Kanda)**                                                                                        | **2 40**   |
+| **No. 30-**  | **वास्तुविद्या (Silpa)**                                                                                                                            | **0 12 0** |
+| **No. 31-**  | **नानार्थार्णवसंक्षेपः(Kosa) by Kesavaswamin (4th, 5th, & 6th Kandas)**                                                                             | **100**    |
+| **No. 32-**  | **कुमारसम्भवः(Kâvya) by Kalidâsa with the two commentaries, Prakâsiká of Arunagirinátha and Vivarana of Nárâyana Pandita (3rd,4th & 5th Sargas)**   | **2 80**   |
+| **No. 33-**  | **वाररुचसंग्रहः(Vykârana) with the commentary Dîpaprabhâ of Nârâyana**                                                                              | **0 80**   |
+| **No. 34-**  | **मणिदर्पणः ( शब्दपरिच्छेदः) (Nyâya ) by RâjachÛdâ- manimakhin**                                                                                    | **1 40**   |
+| **No. 35-**  | **मणिसारः ( अनुमानखण्ड :) (Nyâya ) by Gopînâtha**                                                                                                   | **1 80**   |
+| **No. 36-**  | **कुमारसम्भवः (Kâvya) by Kâlidása with the two commentaries, Prakâsikȧ of Arunagirinâtha and Vivarana of Nârâyana Pandita (6th, 7th & 8th sargas)** | **3 00**   |
+| **No. 37-**  | **आशौचाम्टकम्(Smriti) by Vararuchi with the commentary**                                                                                            | **0 40**   |
 
 
 

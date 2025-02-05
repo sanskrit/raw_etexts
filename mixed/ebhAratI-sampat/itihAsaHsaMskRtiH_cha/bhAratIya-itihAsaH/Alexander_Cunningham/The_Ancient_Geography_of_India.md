@@ -163,46 +163,46 @@ showing that I have not undertaken the present work without much previous prepar
 
 
 
-।                        ।
-।------------------------।
-। 2. Kosala              ।
-। 3. Andhra              ।
-। 4. Donakakotta         ।
-। 5. Choliya, or Jorya   ।
-। 6. Drâvida             ।
-। 7. Malakuta, or Madura ।
-। 8. Konkana             ।
-। 9. Maharashtra         ।
-। CEYLON                 ।
+|                        |
+|------------------------|
+| 2. Kosala              |
+| 3. Andhra              |
+| 4. Donakakotta         |
+| 5. Choliya, or Jorya   |
+| 6. Drâvida             |
+| 7. Malakuta, or Madura |
+| 8. Konkana             |
+| 9. Maharashtra         |
+| CEYLON                 |
 
 ![](../books_images/U-IMG-1698922319Screenshot2023-11-02161957.png)  
 **APPENDIX.**
 
-।                                                        ।
-।--------------------------------------------------------।
-। A. Approximate Chronology of Hwen Thsang's Travels     ।
-। B. Measures of Distance, Yojana, Li, Kroṣa.            ।
-। C. Correction of Error in Ptolemy's Eastern Longitudes ।
+|                                                        |
+|--------------------------------------------------------|
+| A. Approximate Chronology of Hwen Thsang's Travels     |
+| B. Measures of Distance, Yojana, Li, Kroṣa.            |
+| C. Correction of Error in Ptolemy's Eastern Longitudes |
 
 ![](../books_images/U-IMG-1698922395Screenshot2023-11-02161957.png)  
 **LIST OF MAPS.**
 
-।                                                                                          ।
-।------------------------------------------------------------------------------------------।
-। No.                                                                                      ।
-। I. Map of INDIA, showing the Political Divisions in a.d. 629-642..........To face Title. ।
-। II. Ancient Maps of INDIA, according to the Greeks and Indians                           ।
-। III. Map of KAPISENE and KOPHENE, or Upper Kabul Valley                                  ।
-। IV. Map of GÂNDHARA, or Lower Kabul Valley—Map showing the position of Taxila .          ।
-। V. Campaign of Alexander in the Panjâb, B.c. 327-326                                     ।
-। VI. Travels of Hwen Thsang in the Panjâb, a.d. 631–633                                   ।
-। VII. Alexander's Passage of the Hydaspes, and Battle with Porus, B.C. 327                ।
-। VIII. Hill of Sangala between the Rivers Chenâb and Râvi.                                ।
-। IX. Campaign of Alexander in Sindh.                                                      ।
-। X. Travels of Hwen Thsang in N.W. India. B.c. 635-637 .                                  ।
-। XI. Travels of Hwen Thsang in the Gangetic Provinces                                     ।
-। XII. Map of Gaya and Bihar, A.D. 650, showing Hwen Thsang's route                        ।
-। XIII. Map of the Eastern Coast between the Rivers Godavari and Krishṇa                   ।
+|                                                                                          |
+|------------------------------------------------------------------------------------------|
+| No.                                                                                      |
+| I. Map of INDIA, showing the Political Divisions in a.d. 629-642..........To face Title. |
+| II. Ancient Maps of INDIA, according to the Greeks and Indians                           |
+| III. Map of KAPISENE and KOPHENE, or Upper Kabul Valley                                  |
+| IV. Map of GÂNDHARA, or Lower Kabul Valley—Map showing the position of Taxila .          |
+| V. Campaign of Alexander in the Panjâb, B.c. 327-326                                     |
+| VI. Travels of Hwen Thsang in the Panjâb, a.d. 631–633                                   |
+| VII. Alexander's Passage of the Hydaspes, and Battle with Porus, B.C. 327                |
+| VIII. Hill of Sangala between the Rivers Chenâb and Râvi.                                |
+| IX. Campaign of Alexander in Sindh.                                                      |
+| X. Travels of Hwen Thsang in N.W. India. B.c. 635-637 .                                  |
+| XI. Travels of Hwen Thsang in the Gangetic Provinces                                     |
+| XII. Map of Gaya and Bihar, A.D. 650, showing Hwen Thsang's route                        |
+| XIII. Map of the Eastern Coast between the Rivers Godavari and Krishṇa                   |
 
 
 
@@ -1247,20 +1247,20 @@ family in the great kingdom of Kashmir. *Jasrota*, in the outer range of hills, 
 
 
 
-।                      ।                                     ।
-।----------------------।-------------------------------------।
-। Somvansi             । 1. Kângra, or Kâtoch.               ।
-।                      । 2. Guler, to S.W. of Kângra.        ।
-।                      । 3. Jaswâl, on Suhan R.              ।
-।                      । 4. Datârpur, on lower Biâs R.       ।
-।                      । 5. Siba,do.                         ।
-। Surajvansi.          । 6. Chamba, on Râvi R.               ।
-।                      । 7. Kullu, on upper Biâs R.          ।
-। Pundir, or Pândayas. । 8. Mandi, on middle Biâs R.         ।
-।                      । 9. Sukhet, to south of Mandi.       ।
-।                      । 10.Nûrpur, between Râvi andBiâs R. ।
-।                      । 11. Kotila, to E. of Nûrpur.        ।
-।                      । 12. Kotlehar.                       ।
+|                      |                                     |
+|----------------------|-------------------------------------|
+| Somvansi             | 1. Kângra, or Kâtoch.               |
+|                      | 2. Guler, to S.W. of Kângra.        |
+|                      | 3. Jaswâl, on Suhan R.              |
+|                      | 4. Datârpur, on lower Biâs R.       |
+|                      | 5. Siba,do.                         |
+| Surajvansi.          | 6. Chamba, on Râvi R.               |
+|                      | 7. Kullu, on upper Biâs R.          |
+| Pundir, or Pândayas. | 8. Mandi, on middle Biâs R.         |
+|                      | 9. Sukhet, to south of Mandi.       |
+|                      | 10.Nûrpur, between Râvi andBiâs R. |
+|                      | 11. Kotila, to E. of Nûrpur.        |
+|                      | 12. Kotlehar.                       |
 
  Of these twelve states no less than five are mere subdivisions of the once rich kingdom of Jâlandhar, which embraced the whole of the Doâb, or plain country, between the Biâs and Satlej, and all the hill country lying between the Râvi and the frontiers of Mandi and Sukket, to the south of the Dhaola-dhâr mountains. This included Nûrpûr, Kotila, and Kotlehar; and as Mandi and Sukhet were at first under one rule, there were originally only four chiefships in the eastern division of the Alpine Panjâb, namely, Jâlandhar, Chamba, Kullu, and Mandi.
 
@@ -1402,19 +1402,19 @@ three Doâbs of Sindh-Sâgar, Richna, and Bâri. The province of *Shorkot* compr
 
  The province of Tâki contained several of the most celebrated places of ancient India; some renowned in the wars of Alexander, some famous in Buddhist history, and others known only in the widely-spread traditions of the people. The following is a list of the most important of the ancient places, arranged according to their relative geographical positions from west to east. The names of the Doâbs were invented by Akbar by combining the names of the including rivers. Thus, *Chaj* is an abbreviation of Chenâb and Jhelam; *Richna* of Râvi and Chenâb; and *Bâri* of Biâs and Ravi.
 
-।                  ।                            ।
-।------------------।----------------------------।
-। Sindh-Sâgar Doâb । 1. Jobnâthnagar, or Bhira. ।
-।                  । 2. Bukephala, or Dilâwar.  ।
-। Chaj Doâb        । 3. Nikaa, or Mong.         ।
-।                  । 4. Gujarât.                ।
-। Richna Doâb      । 5. Sâkala, or Sangala.     ।
-।                  । 6. Tâki, or Asarur.        ।
-।                  । 7. Narsingha, or Ransi.    ।
-।                  । 8. Ammakatis, or Ambakapi. ।
-। Bâri Doâb        । 9. Lohâwar, or Lahor.      ।
-।                  । 10. Kusâwar, or Kasur.     ।
-।                  । 11. Chinapati, or Patti.   ।
+|                  |                            |
+|------------------|----------------------------|
+| Sindh-Sâgar Doâb | 1. Jobnâthnagar, or Bhira. |
+|                  | 2. Bukephala, or Dilâwar.  |
+| Chaj Doâb        | 3. Nikaa, or Mong.         |
+|                  | 4. Gujarât.                |
+| Richna Doâb      | 5. Sâkala, or Sangala.     |
+|                  | 6. Tâki, or Asarur.        |
+|                  | 7. Narsingha, or Ransi.    |
+|                  | 8. Ammakatis, or Ambakapi. |
+| Bâri Doâb        | 9. Lohâwar, or Lahor.      |
+|                  | 10. Kusâwar, or Kasur.     |
+|                  | 11. Chinapati, or Patti.   |
 
 
 
@@ -1793,15 +1793,15 @@ reduce the circuit of 833 miles to 531, which agrees very closely with the actua
 
  Within these limits there are several important towns, and many ruined mounds, the remains of ancient cities, which once played an important part in the history of the Panjâb. These are:—
 
-।                     ।                 ।
-।---------------------।-----------------।
-। Richna Doâb         । 1. Shorkot.     ।
-।                     । 2. Kot Kamâlia. ।
-। Bâri Doâb           । 3. Harapa.      ।
-।                     । 4. Akbar.       ।
-।                     । 5. Satgarha.    ।
-। DoâbJâlandhar Pith । 6. Depâlpur.    ।
-।                     । 7. Ajudhan.     ।
+|                     |                 |
+|---------------------|-----------------|
+| Richna Doâb         | 1. Shorkot.     |
+|                     | 2. Kot Kamâlia. |
+| Bâri Doâb           | 3. Harapa.      |
+|                     | 4. Akbar.       |
+|                     | 5. Satgarha.    |
+| DoâbJâlandhar Pith | 6. Depâlpur.    |
+|                     | 7. Ajudhan.     |
 
 
 *Shorkot.*
@@ -1950,13 +1950,13 @@ the *Sûk-Nai*, all dry beds of the Biâs river to the south of Harapa. The *Dan
 
 desertion of Atâri, a ruined town 20 miles to the west-south-west of Tulamba, which was supplied by a canal from the old bed of the Râvi. The only places which I think it necessary to notice in the present account are the following:—
 
-।                ।             ।
-।----------------।-------------।
-। Bâri Doâb.     । 1. Tulamba. ।
-।                । 2. Atâri.   ।
-।                । 3. Multân.  ।
-। Jalandhar Pith । 4. Kahror.  ।
-। At junction    । 5. Uchh.    ।
+|                |             |
+|----------------|-------------|
+| Bâri Doâb.     | 1. Tulamba. |
+|                | 2. Atâri.   |
+|                | 3. Multân.  |
+| Jalandhar Pith | 4. Kahror.  |
+| At junction    | 5. Uchh.    |
 
 Four of these places are celebrated in the history of India, and the second, named Atâri, I have added on account of its size and position, which would certainly have attracted the notice of Alexander and other conquerors of the Panjâb.
 
@@ -3757,13 +3757,13 @@ be north-north-west, and the distance upwards of 9000 feet.
 
  I have already quoted Fa-Hian's statement that the "five hills form a girdle like the walls of a town." This agrees with Hwen Thsang's description, who says that "high mountains surround it on four sides, and form its exterior walls, which have a circuit of 150 *li* or 25 miles." For this number I propose to read 50 *li* or 8^(1/3) miles, a correction which is absolutely necessary to make the statement tally with the measurements of my survey. The following are the direct distances between the hills :-
 
-।                             ।                 ।                         ।
-।:---------------------------:।:---------------:।:-----------------------:।
-।   From Baibhâr to Vipula    ।  .  .   .  ।      12,000 feet.       ।
-।  "    Vipula to Ratna  ।  .  .   .  ।       4,500  "       ।
-।  "    Ratna to Udaya   ।  .  .  .  ।     8,500   "    ।
-।  "    Udaya to Sona   । .   .  .  ।      7,000   "      ।
-।  "    Sona to Baibhâr. । .   .  . ।      9,000   " ।
+|                             |                 |                         |
+|:---------------------------:|:---------------:|:-----------------------:|
+|   From Baibhâr to Vipula    |  .  .   .  |      12,000 feet.       |
+|  "    Vipula to Ratna  |  .  .   .  |       4,500  "       |
+|  "    Ratna to Udaya   |  .  .  .  |     8,500   "    |
+|  "    Udaya to Sona   | .   .  .  |      7,000   "      |
+|  "    Sona to Baibhâr. | .   .  . |      9,000   " |
 
 
 
@@ -4604,29 +4604,29 @@ TRAVELS.**
 
 
 
-।      ।         ।                                                                                                              ।                       ।
-।------।---------।--------------------------------------------------------------------------------------------------------------।-----------------------।
-। A.D. ।        ।                                                                                                             । **'Hiouen Thsang,' ** ।
-। 644  । Nov. 29 । *Chemotana.*                                                                                                 ।                      ।
-।     । Dec. 13 । *Nafopo.*                                                                                                    ।                      ।
-।     । Jan. I  । Frontier of China, after some détours.                                                                       ।                      ।
-।     । Apr. 1  । Enters the capital of Western China, in spring of 645 (first moon of spring, nineteenth year of Ching-kwang) । Vol. i. 292.          ।
+|      |         |                                                                                                              |                       |
+|------|---------|--------------------------------------------------------------------------------------------------------------|-----------------------|
+| A.D. |        |                                                                                                             | **'Hiouen Thsang,' ** |
+| 644  | Nov. 29 | *Chemotana.*                                                                                                 |                      |
+|     | Dec. 13 | *Nafopo.*                                                                                                    |                      |
+|     | Jan. I  | Frontier of China, after some détours.                                                                       |                      |
+|     | Apr. 1  | Enters the capital of Western China, in spring of 645 (first moon of spring, nineteenth year of Ching-kwang) | Vol. i. 292.          |
 
  The above chronology gives the approximate dates as nearly as I can determine them, partly from the facts stated, and partly from my own lengthened experience of travelling in India. The estimated dates are well supported by facts noted in the histories of Ceylon, Sindh, and Kashmir; but I may here repeat, that on Hwen Thsang's arrival at *Kânchi,*in February, 640, he heard of the assassination of the King of Ceylon. This must have been Raja Buna Mugalan, who was put to death in a.d. 639.
 
  Another proof of the general accuracy of my estimate of the pilgrim's rate of travelling is afforded by his statement made to the Great Abbot of the Nâlanda Monastery that his travels had occupied three years.**[\*](# "Julien's 'Hiouen Thsang.' i. 147.")** This period must refer to the actual time spent in travelling, as his recorded halts at various places for the purpose of study, before he reached Nâlanda, amount to four years and seven months. These halts, as stated in his life, are as follows :-
 
-।                                          ।        ।         ।
-।------------------------------------------।--------।---------।
-।                                         । Years. । Months. ।
-। At Kapisa, one whole summer              । 0      । 3       ।
-। At Kashmir, two entire years             । 2      । 0       ।
-। At a large town (Kasur?)                 । 0      । 1       ।
-। At Chinapati                             । 1      । 2       ।
-। AtJalandhar                             । 0      । 4^(1/₂) ।
-। AtSrughna, whole winter and half spring । 0      । 4^(1/₂) ।
-। AtMadâmar, half spring and whole summer । 0      । 4       ।
-। Years                                    । 4      । 7       ।
+|                                          |        |         |
+|------------------------------------------|--------|---------|
+|                                         | Years. | Months. |
+| At Kapisa, one whole summer              | 0      | 3       |
+| At Kashmir, two entire years             | 2      | 0       |
+| At a large town (Kasur?)                 | 0      | 1       |
+| At Chinapati                             | 1      | 2       |
+| AtJalandhar                             | 0      | 4^(1/₂) |
+| AtSrughna, whole winter and half spring | 0      | 4^(1/₂) |
+| AtMadâmar, half spring and whole summer | 0      | 4       |
+| Years                                    | 4      | 7       |
 
 
 

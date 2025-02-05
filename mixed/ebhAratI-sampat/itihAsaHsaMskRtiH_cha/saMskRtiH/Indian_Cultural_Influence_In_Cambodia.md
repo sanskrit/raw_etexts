@@ -54,14 +54,14 @@ CALCUTTA:
 
 ABBREVIATIONS
 
-।            ।                                                          ।
-।------------।----------------------------------------------------------।
-। B.C.A.I.   । Bulletin de la Commission Archéologique de l'Indo-Chine. ।
-। B.E.F.E.O. । Bulletin de l'École Française d'Extrême-Orient.          ।
-। I.S.C.C.   । Inscriptions Sanscrites deCampa et du Cambodge.         ।
-। J.A.       । Journal Asiatique.                                       ।
-। N.E.       । Notes d'Epigraphie by M. Finot.                          ।
-। Ç. e.      । Çaka era (starting from 78 A.D.).                        ।
+|            |                                                          |
+|------------|----------------------------------------------------------|
+| B.C.A.I.   | Bulletin de la Commission Archéologique de l'Indo-Chine. |
+| B.E.F.E.O. | Bulletin de l'École Française d'Extrême-Orient.          |
+| I.S.C.C.   | Inscriptions Sanscrites deCampa et du Cambodge.         |
+| J.A.       | Journal Asiatique.                                       |
+| N.E.       | Notes d'Epigraphie by M. Finot.                          |
+| Ç. e.      | Çaka era (starting from 78 A.D.).                        |
 
 
 
@@ -76,59 +76,59 @@ c=च
 
 
 
-।                                  ।
-|:--------------------------------:।
-।           **CONTENTS**           ।
-।           Introduction           ।
-।            CHAPTER I.            ।
-।   Early Legends and Traditions   ।
-।           CHAPTER II.            ।
-।              Fu-nan              ।
-।           CHAPTER III.           ।
-।    The Early Kings of Kambuja    ।
-।           CHAPTER IV.            ।
-।  Anarchy and Foreign Domination  ।
-।            CHAPTER V.            ।
-। Jayavarman II and his successors ।
-।           CHAPTER VI.            ।
-।    Yaçovarman and Angkor Thom    ।
-।           CHAPTER VII.           ।
-।       The Rise of Buddhism       ।
+|                                  |
+|:--------------------------------:|
+|           **CONTENTS**           |
+|           Introduction           |
+|            CHAPTER I.            |
+|   Early Legends and Traditions   |
+|           CHAPTER II.            |
+|              Fu-nan              |
+|           CHAPTER III.           |
+|    The Early Kings of Kambuja    |
+|           CHAPTER IV.            |
+|  Anarchy and Foreign Domination  |
+|            CHAPTER V.            |
+| Jayavarman II and his successors |
+|           CHAPTER VI.            |
+|    Yaçovarman and Angkor Thom    |
+|           CHAPTER VII.           |
+|       The Rise of Buddhism       |
 
 
 
 
 
-।                               ।
-|:-----------------------------:।
-।         CHAPTER VIII.         ।
-। Suryavarman II and Angkor Vat ।
-।          CHAPTER IX.          ।
-। The Last Monarchs of Kambuja  ।
-।          CHAPTER X.           ।
-।          Conclusion           ।
+|                               |
+|:-----------------------------:|
+|         CHAPTER VIII.         |
+| Suryavarman II and Angkor Vat |
+|          CHAPTER IX.          |
+| The Last Monarchs of Kambuja  |
+|          CHAPTER X.           |
+|          Conclusion           |
 
 **\_\_\_\_\_\_**  
 
 
 APPENDIX
 
-।                                                             ।
-।-------------------------------------------------------------।
-। Synchronistic Table of Kambuja, Champa, Java, Sumatra, etc. ।
-। INDEX                                                       ।
-। Addenda and Corrigenda                                      ।
+|                                                             |
+|-------------------------------------------------------------|
+| Synchronistic Table of Kambuja, Champa, Java, Sumatra, etc. |
+| INDEX                                                       |
+| Addenda and Corrigenda                                      |
 
 **\_\_\_\_\_\_**
 
 **ILLUSTRATIONS**
 
-।                       ।
-।-----------------------।
-। Buddha from the Bayon ।
-। The Bayon             ।
-। Angkor Vat            ।
-। Map of Kambuja        ।
+|                       |
+|-----------------------|
+| Buddha from the Bayon |
+| The Bayon             |
+| Angkor Vat            |
+| Map of Kambuja        |
 
 **\_\_\_\_\_\_**
 
@@ -166,9 +166,9 @@ of the inscriptions. For these Chinese sources we are indebted to M. Rémusat (N
 
 
 
-।                                               ।
-|:---------------------------------------------:।
-। ![](../books_images/U-IMG-17358844140102.png) ।
+|                                               |
+|:---------------------------------------------:|
+| ![](../books_images/U-IMG-17358844140102.png) |
 
 **BUDDHA SEATED ON THE COILS OF NÀGA**
 
@@ -1293,9 +1293,9 @@ ones were probably the sources of the water supply of the city.
 
 
 
-।                                                 ।
-|:-----------------------------------------------:।
-। ![](../books_images/U-IMG-1735283762000011.png) ।
+|                                                 |
+|:-----------------------------------------------:|
+| ![](../books_images/U-IMG-1735283762000011.png) |
 
 THE
 
@@ -1770,9 +1770,9 @@ was a Viṣṇu temple, though now it has become a Hinayâna Buddhist shrine.
 
 
 
-।                                                 ।
-|:-----------------------------------------------:।
-। ![](../books_images/U-IMG-1735283863000012.png) ।
+|                                                 |
+|:-----------------------------------------------:|
+| ![](../books_images/U-IMG-1735283863000012.png) |
 
 ANGKOR VAT
 
@@ -2427,284 +2427,284 @@ is bounded by the country of Jâwaga (Çrivijaya) which is the kingdom of the Ma
 
 
 
-।                                               ।
-|:---------------------------------------------:।
-। ![](../books_images/U-IMG-17359687500402.png) ।
+|                                               |
+|:---------------------------------------------:|
+| ![](../books_images/U-IMG-17359687500402.png) |
 
 
 
-।                                               ।
-|:---------------------------------------------:।
-। ![](../books_images/U-IMG-17359689220401.png) ।
+|                                               |
+|:---------------------------------------------:|
+| ![](../books_images/U-IMG-17359689220401.png) |
 
 
 
-।                                                                                                                                                                                                                              ।
-।------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। Abhiṣeka                                                                                                                                                                                                                     ।
-। Abu Zaid Hasan                                                                                                                                                                                                              ।
-। Anârya,                                                                                                                                                                                                                      ।
-। Âçrama,                                                                                                                                                                                                                      ।
-। Açvakrânâ                                                                                                                                                                                                                  ।
-। Açvatthâmâ                                                                                                                                                                                                                 ।
-। Adhyâpaka( professor),                                                                                                                                                                                                      ।
-। Adhyâpakâdhipa,                                                                                                                                                                                                              ।
-। Adityavarṃṣa                                                                                                                                                                                                                ।
-। Administration (Kambuja)—see officials                                                                                                                                                                                       ।
-। Agastya                                                                                                                                                                                                                     ।
-। Akriti-avâmi                                                                                                                                                                                                                ।
-। Alâvirâçṭrn                                                                                                                                                                                                                  ।
-। Amarendrapura( Bantel Chamar),                                                                                                                                                                                              ।
-। Ambujanetri                                                                                                                                                                                                                  ।
-। Amitâttha                                                                                                                                                                                                                    ।
-। Ancestor worship                                                                                                                                                                                                             ।
-। Angkor Thom( Nagarn Dhâma,the capital of Kambuja)                                                                                                                                                                            ।
-। Angkor Vat, possible references to built during the reign of sûryavarman II, probably by Divâkara Pandita, the structure, bas-reliefs, deseribed as atomb, inacr.of                                                        ।
-। Ang Chumnik(insur)                                                                                                                                                                                                           ।
-। Aninditapurn                                                                                                                                                                                                                 ।
-। Annala(of Kambuja)                                                                                                                                                                                                           ।
-। Annamites                                                                                                                                                                                                                    ।
-। Anuloma marriages                                                                                                                                                                                                            ।
-। Arab                                                                                                                                                                                                                         ।
-। Aravinda-brada                                                                                                                                                                                                               ।
-। Architechture,Early, during Jayaraman II's reign (Bantel Chamar), during Indravarman I's reign, during Yaçovarman's reign (Bayon and Angkor Thom), Bap'uon, Angkor-Vat, Bantol Srei, Influence of North India on Cambodian, ।
-। Arjuna                                                                                                                                                                                                                       ।
-। Arogyaçâla (see hospital)                                                                                                                                                                                                    ।
-। Art(cambodian), see Architecture, Baa-reliefe, Ornaments, Sculpture                                                                                                                                                          ।
-। Arthaçâstra                                                                                                                                                                                                                 ।
-। Âryadeça                                                                                                                                                                                                                     ।
-। Âryâdevi                                                                                                                                                                                                                     ।
-। Agnanga                                                                                                                                                                                                                      ।
-। Atharva(veda)                                                                                                                                                                                                                ।
-। Avalokiteçvara (see Lokeçrara)                                                                                                                                                                                              ।
-। Aymonier(M),introd.                                                                                                                                                                                                          ।
-। Ayodhya                                                                                                                                                                                                                      ।
-। Bakong                                                                                                                                                                                                                       ।
-। Baksel Camkron (inser.)                                                                                                                                                                                                      ।
+|                                                                                                                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Abhiṣeka                                                                                                                                                                                                                     |
+| Abu Zaid Hasan                                                                                                                                                                                                              |
+| Anârya,                                                                                                                                                                                                                      |
+| Âçrama,                                                                                                                                                                                                                      |
+| Açvakrânâ                                                                                                                                                                                                                  |
+| Açvatthâmâ                                                                                                                                                                                                                 |
+| Adhyâpaka( professor),                                                                                                                                                                                                      |
+| Adhyâpakâdhipa,                                                                                                                                                                                                              |
+| Adityavarṃṣa                                                                                                                                                                                                                |
+| Administration (Kambuja)—see officials                                                                                                                                                                                       |
+| Agastya                                                                                                                                                                                                                     |
+| Akriti-avâmi                                                                                                                                                                                                                |
+| Alâvirâçṭrn                                                                                                                                                                                                                  |
+| Amarendrapura( Bantel Chamar),                                                                                                                                                                                              |
+| Ambujanetri                                                                                                                                                                                                                  |
+| Amitâttha                                                                                                                                                                                                                    |
+| Ancestor worship                                                                                                                                                                                                             |
+| Angkor Thom( Nagarn Dhâma,the capital of Kambuja)                                                                                                                                                                            |
+| Angkor Vat, possible references to built during the reign of sûryavarman II, probably by Divâkara Pandita, the structure, bas-reliefs, deseribed as atomb, inacr.of                                                        |
+| Ang Chumnik(insur)                                                                                                                                                                                                           |
+| Aninditapurn                                                                                                                                                                                                                 |
+| Annala(of Kambuja)                                                                                                                                                                                                           |
+| Annamites                                                                                                                                                                                                                    |
+| Anuloma marriages                                                                                                                                                                                                            |
+| Arab                                                                                                                                                                                                                         |
+| Aravinda-brada                                                                                                                                                                                                               |
+| Architechture,Early, during Jayaraman II's reign (Bantel Chamar), during Indravarman I's reign, during Yaçovarman's reign (Bayon and Angkor Thom), Bap'uon, Angkor-Vat, Bantol Srei, Influence of North India on Cambodian, |
+| Arjuna                                                                                                                                                                                                                       |
+| Arogyaçâla (see hospital)                                                                                                                                                                                                    |
+| Art(cambodian), see Architecture, Baa-reliefe, Ornaments, Sculpture                                                                                                                                                          |
+| Arthaçâstra                                                                                                                                                                                                                 |
+| Âryadeça                                                                                                                                                                                                                     |
+| Âryâdevi                                                                                                                                                                                                                     |
+| Agnanga                                                                                                                                                                                                                      |
+| Atharva(veda)                                                                                                                                                                                                                |
+| Avalokiteçvara (see Lokeçrara)                                                                                                                                                                                              |
+| Aymonier(M),introd.                                                                                                                                                                                                          |
+| Ayodhya                                                                                                                                                                                                                      |
+| Bakong                                                                                                                                                                                                                       |
+| Baksel Camkron (inser.)                                                                                                                                                                                                      |
 
 
 
-।                                                                                                                                                                                                                           ।
-।---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। Baku (Brahmans)                                                                                                                                                                                                           ।
-। Baku (inscr.)                                                                                                                                                                                                             ।
-। Bâlaputradeva                                                                                                                                                                                                             ।
-। Bantea Chamar(see Amarendrapura)                                                                                                                                                                                          ।
-। Bantoa Chamar(inscr.)                                                                                                                                                                                                     ।
-। Bantei kedni                                                                                                                                                                                                              ।
-। Bantoa Srel ( Inscr.),                                                                                                                                                                                                    ।
-। Ban thnt (inser),                                                                                                                                                                                                        ।
-। Ba-p'non, (Hema-çringa-girl)                                                                                                                                                                                              ।
-। Barth, introd,                                                                                                                                                                                                            ।
-। Bas-reliefs,                                                                                                                                                                                                             ।
-। Bat Cum (Inser.),                                                                                                                                                                                                        ।
-। Bayang (inscr.)                                                                                                                                                                                                           ।
-। Bayon (çivâçrama),                                                                                                                                                                                                        ।
-। Benares, II                                                                                                                                                                                                              ।
-। Bengal and Tantrayans, and the Archipelago,Pâla kings of, see Pâla, Bengal Baniyas, Kamboja dynasty of, Bengali alphabet, Bengali folk tale,                                                                            ।
-। Bhadreçvara,                                                                                                                                                                                                              ।
-। Bhagavân ,                                                                                                                                                                                                                ।
-। Bhagavati                                                                                                                                                                                                                 ।
-। Bharadvâja(gotra)                                                                                                                                                                                                         ।
-। Bhâs-svâmini                                                                                                                                                                                                              ।
-। Bhâṣya                                                                                                                                                                                                                    ।
-। Bhaṭṭa                                                                                                                                                                                                                    ।
-। Bhattacârya,                                                                                                                                                                                                             ।
-। Bhavâni,                                                                                                                                                                                                                 ।
-। Bhavapura                                                                                                                                                                                                                 ।
-। Bhavapuraman I,foundar of a lion of kings,Sanscrit inscr.of, ancestor of Jayavarman VII                                                                                                                                   ।
-। Bhavavarman II                                                                                                                                                                                                            ।
-। Bhikṣn                                                                                                                                                                                                                    ।
-। Bhima                                                                                                                                                                                                                     ।
-। Bhimaka                                                                                                                                                                                                                   ।
-। bhimapura                                                                                                                                                                                                                 ।
-। Bhuvanâdhya                                                                                                                                                                                                               ।
-। Boar (Varaha Avatara)                                                                                                                                                                                                     ।
-। Bodhi,                                                                                                                                                                                                                    ।
-। Bodhisattva (see Lokoçvara)                                                                                                                                                                                               ।
-। Borneo                                                                                                                                                                                                                   ।
-। Brahma,                                                                                                                                                                                                                   ।
-। Brahman,                                                                                                                                                                                                                  ।
-। Brahmarâkṣas                                                                                                                                                                                                              ।
-। Brahmayajña                                                                                                                                                                                                               ।
-। Brihat-Kathâ                                                                                                                                                                                                              ।
-। Buddha,                                                                                                                                                                                                                   ।
-। Buddha Bhaiṣajya                                                                                                                                                                                                          ।
-। Buddhaghoṣn                                                                                                                                                                                                               ।
-। Buddhism, first mention in aninser., rising importance of, noval definition of, combined with Çaiva enlt, HI- nayâna, Mahâyâna doctrines in Kambuja and Çrivijaya, Tantrayânn doctrines in Kambuja and Java from Bengal, ।
-। Buddhist, triratuas, Jayavarman II n Buddhist, inscr. (Top Pranam), monastery, çâtras, inscr. (Bat cum), minister (Karindrârimathana)                                                                                     ।
+|                                                                                                                                                                                                                           |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Baku (Brahmans)                                                                                                                                                                                                           |
+| Baku (inscr.)                                                                                                                                                                                                             |
+| Bâlaputradeva                                                                                                                                                                                                             |
+| Bantea Chamar(see Amarendrapura)                                                                                                                                                                                          |
+| Bantoa Chamar(inscr.)                                                                                                                                                                                                     |
+| Bantei kedni                                                                                                                                                                                                              |
+| Bantoa Srel ( Inscr.),                                                                                                                                                                                                    |
+| Ban thnt (inser),                                                                                                                                                                                                        |
+| Ba-p'non, (Hema-çringa-girl)                                                                                                                                                                                              |
+| Barth, introd,                                                                                                                                                                                                            |
+| Bas-reliefs,                                                                                                                                                                                                             |
+| Bat Cum (Inser.),                                                                                                                                                                                                        |
+| Bayang (inscr.)                                                                                                                                                                                                           |
+| Bayon (çivâçrama),                                                                                                                                                                                                        |
+| Benares, II                                                                                                                                                                                                              |
+| Bengal and Tantrayans, and the Archipelago,Pâla kings of, see Pâla, Bengal Baniyas, Kamboja dynasty of, Bengali alphabet, Bengali folk tale,                                                                            |
+| Bhadreçvara,                                                                                                                                                                                                              |
+| Bhagavân ,                                                                                                                                                                                                                |
+| Bhagavati                                                                                                                                                                                                                 |
+| Bharadvâja(gotra)                                                                                                                                                                                                         |
+| Bhâs-svâmini                                                                                                                                                                                                              |
+| Bhâṣya                                                                                                                                                                                                                    |
+| Bhaṭṭa                                                                                                                                                                                                                    |
+| Bhattacârya,                                                                                                                                                                                                             |
+| Bhavâni,                                                                                                                                                                                                                 |
+| Bhavapura                                                                                                                                                                                                                 |
+| Bhavapuraman I,foundar of a lion of kings,Sanscrit inscr.of, ancestor of Jayavarman VII                                                                                                                                   |
+| Bhavavarman II                                                                                                                                                                                                            |
+| Bhikṣn                                                                                                                                                                                                                    |
+| Bhima                                                                                                                                                                                                                     |
+| Bhimaka                                                                                                                                                                                                                   |
+| bhimapura                                                                                                                                                                                                                 |
+| Bhuvanâdhya                                                                                                                                                                                                               |
+| Boar (Varaha Avatara)                                                                                                                                                                                                     |
+| Bodhi,                                                                                                                                                                                                                    |
+| Bodhisattva (see Lokoçvara)                                                                                                                                                                                               |
+| Borneo                                                                                                                                                                                                                   |
+| Brahma,                                                                                                                                                                                                                   |
+| Brahman,                                                                                                                                                                                                                  |
+| Brahmarâkṣas                                                                                                                                                                                                              |
+| Brahmayajña                                                                                                                                                                                                               |
+| Brihat-Kathâ                                                                                                                                                                                                              |
+| Buddha,                                                                                                                                                                                                                   |
+| Buddha Bhaiṣajya                                                                                                                                                                                                          |
+| Buddhaghoṣn                                                                                                                                                                                                               |
+| Buddhism, first mention in aninser., rising importance of, noval definition of, combined with Çaiva enlt, HI- nayâna, Mahâyâna doctrines in Kambuja and Çrivijaya, Tantrayânn doctrines in Kambuja and Java from Bengal, |
+| Buddhist, triratuas, Jayavarman II n Buddhist, inscr. (Top Pranam), monastery, çâtras, inscr. (Bat cum), minister (Karindrârimathana)                                                                                     |
 
 
 
-।                                                                                                                                                                                                                                                                                                                                       ।
-।---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। another...minister (Kîrtipaṇḍita),inscr. (Srei Santher) Literature from North India, first...King, Dharanindravarman I a Buddhist, inser. (Ta Prohm), a learned...lady                                                                                                                                                               ।
-। Bulletin de l'Ecole Francaise d'Extrime Orient, introd                                                                                                                                                                                                                                                                                ।
-। Burma(see also appendix)                                                                                                                                                                                                                                                                                                              ।
-। Burnell                                                                                                                                                                                                                                                                                                                               ।
-। Cabinet(Khmer)                                                                                                                                                                                                                                                                                                                       ।
-। Caitra(festival),                                                                                                                                                                                                                                                                                                                     ।
-। Cakra                                                                                                                                                                                                                                                                                                                                 ।
-। Cambodia,see Kambuja and Appendix                                                                                                                                                                                                                                                                                                     ।
-। Campeçvara,                                                                                                                                                                                                                                                                                                                           ।
-। Candeçrareçâna                                                                                                                                                                                                                                                                                                                        ।
-। Candravairocana-rohiniça.                                                                                                                                                                                                                                                                                                             ।
-। Castes,                                                                                                                                                                                                                                                                                                                               ।
-। Caturbhuja                                                                                                                                                                                                                                                                                                                            ।
-। Censor (of morals),                                                                                                                                                                                                                                                                                                                   ।
-। Ceylon,                                                                                                                                                                                                                                                                                                                               ।
-। Champu, Kaundinya legend in, riṣi foundars of, Fu-nan and… friendly relations with Kambuja Çiva-linga and rolling dynesty of, invaded by yaçovarman, and by Râjendmvarman victory of Prince Pan of, Kambuja raided by, conquered by Jayavarman VII, evacuted by Kambuja, Çira and Mahâyâna doctrinas combined in, (see also Appendix) ।
-। Chan-tan                                                                                                                                                                                                                                                                                                                              ।
-। Chao ju-kua                                                                                                                                                                                                                                                                                                                           ।
-। Chen-la(vhinese name for kambuja, overthrows Fu-nan, split uo into two states, chinese accounts of people, ceremonies,etc. in the 12th century, attacked by Champa, conquest of champa, pagan, cheau Ta-kouan in.                                                                                                                     ।
-। Chen-song                                                                                                                                                                                                                                                                                                                             ।
-। Cheon Ta-kanan                                                                                                                                                                                                                                                                                                                        ।
-। China,P'oll and…, Java and…, India and…,Champa, Fu-nan and…, title conferred by Emperor of…, diplomatic relations cut off with, resumed in the 8th century, So, resumed after a long interval, embassy from Emperor Kublai Khan of,                                                                                                  ।
-। Chinese chronicles,                                                                                                                                                                                                                                                                                                                   ।
-। Chinese (references in inscr.), frontier, merchant, silk, beds of grass,                                                                                                                                                                                                                                                              ।
-। Chronicles (of Cambodia),                                                                                                                                                                                                                                                                                                             ।
-। Churning (of the ocean),                                                                                                                                                                                                                                                                                                              ।
-। Citrasens,                                                                                                                                                                                                                                                                                                                            ।
-। Codés (M.), introd.                                                                                                                                                                                                                                                                                                                   ।
-। Corvia Courta (Law), see Law                                                                                                                                                                                                                                                                                                          ।
-। Çaçânka                                                                                                                                                                                                                                                                                                                               ।
-। Çailendra, see Çrivijaya                                                                                                                                                                                                                                                                                                              ।
-। Çaiva (cult), in Fa-man, in Kambuja, see Çiva, Bantei Chamar and…, Pallavas and, Acârya, Buddhism and…, scriptures,                                                                                                                                                                                                                   ।
+|                                                                                                                                                                                                                                                                                                                                       |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| another...minister (Kîrtipaṇḍita),inscr. (Srei Santher) Literature from North India, first...King, Dharanindravarman I a Buddhist, inser. (Ta Prohm), a learned...lady                                                                                                                                                               |
+| Bulletin de l'Ecole Francaise d'Extrime Orient, introd                                                                                                                                                                                                                                                                                |
+| Burma(see also appendix)                                                                                                                                                                                                                                                                                                              |
+| Burnell                                                                                                                                                                                                                                                                                                                               |
+| Cabinet(Khmer)                                                                                                                                                                                                                                                                                                                       |
+| Caitra(festival),                                                                                                                                                                                                                                                                                                                     |
+| Cakra                                                                                                                                                                                                                                                                                                                                 |
+| Cambodia,see Kambuja and Appendix                                                                                                                                                                                                                                                                                                     |
+| Campeçvara,                                                                                                                                                                                                                                                                                                                           |
+| Candeçrareçâna                                                                                                                                                                                                                                                                                                                        |
+| Candravairocana-rohiniça.                                                                                                                                                                                                                                                                                                             |
+| Castes,                                                                                                                                                                                                                                                                                                                               |
+| Caturbhuja                                                                                                                                                                                                                                                                                                                            |
+| Censor (of morals),                                                                                                                                                                                                                                                                                                                   |
+| Ceylon,                                                                                                                                                                                                                                                                                                                               |
+| Champu, Kaundinya legend in, riṣi foundars of, Fu-nan and… friendly relations with Kambuja Çiva-linga and rolling dynesty of, invaded by yaçovarman, and by Râjendmvarman victory of Prince Pan of, Kambuja raided by, conquered by Jayavarman VII, evacuted by Kambuja, Çira and Mahâyâna doctrinas combined in, (see also Appendix) |
+| Chan-tan                                                                                                                                                                                                                                                                                                                              |
+| Chao ju-kua                                                                                                                                                                                                                                                                                                                           |
+| Chen-la(vhinese name for kambuja, overthrows Fu-nan, split uo into two states, chinese accounts of people, ceremonies,etc. in the 12th century, attacked by Champa, conquest of champa, pagan, cheau Ta-kouan in.                                                                                                                     |
+| Chen-song                                                                                                                                                                                                                                                                                                                             |
+| Cheon Ta-kanan                                                                                                                                                                                                                                                                                                                        |
+| China,P'oll and…, Java and…, India and…,Champa, Fu-nan and…, title conferred by Emperor of…, diplomatic relations cut off with, resumed in the 8th century, So, resumed after a long interval, embassy from Emperor Kublai Khan of,                                                                                                  |
+| Chinese chronicles,                                                                                                                                                                                                                                                                                                                   |
+| Chinese (references in inscr.), frontier, merchant, silk, beds of grass,                                                                                                                                                                                                                                                              |
+| Chronicles (of Cambodia),                                                                                                                                                                                                                                                                                                             |
+| Churning (of the ocean),                                                                                                                                                                                                                                                                                                              |
+| Citrasens,                                                                                                                                                                                                                                                                                                                            |
+| Codés (M.), introd.                                                                                                                                                                                                                                                                                                                   |
+| Corvia Courta (Law), see Law                                                                                                                                                                                                                                                                                                          |
+| Çaçânka                                                                                                                                                                                                                                                                                                                               |
+| Çailendra, see Çrivijaya                                                                                                                                                                                                                                                                                                              |
+| Çaiva (cult), in Fa-man, in Kambuja, see Çiva, Bantei Chamar and…, Pallavas and, Acârya, Buddhism and…, scriptures,                                                                                                                                                                                                                   |
 
 
 
-।                                                                                                                                                                                                                                 ।
-।---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। familylast... inscr.blending with Buddhism                                                                                                                                                                                     ।
-। Çaluvankappa                                                                                                                                                                                                                    ।
-। Çambha                                                                                                                                                                                                                          ।
-। Çambhapura (Samber)                                                                                                                                                                                                             ।
-। Çambu-Viṣṇu                                                                                                                                                                                                                     ।
-। Çankara                                                                                                                                                                                                                         ।
-। Çankara-Nârâyaṇa                                                                                                                                                                                                                ।
-। Çankara-paṇḍita                                                                                                                                                                                                                 ।
-। Çârngi,                                                                                                                                                                                                                         ।
-। Çarvâni                                                                                                                                                                                                                         ।
-। Çisana,                                                                                                                                                                                                                         ।
-। Çâstra,                                                                                                                                                                                                                         ।
-। Çastrotsava,                                                                                                                                                                                                                    ।
-। Çaunaka,                                                                                                                                                                                                                        ।
-। Çikhariçvarn,                                                                                                                                                                                                                   ।
-। Çiraccheda                                                                                                                                                                                                                      ।
-। Çiva                                                                                                                                                                                                                            ।
-। Çivâcârys,                                                                                                                                                                                                                      ।
-। Çiva-çakti                                                                                                                                                                                                                      ।
-। Çivâçrama, see Bayon                                                                                                                                                                                                            ।
-। Çivaṇrayn                                                                                                                                                                                                                       ।
-। Çivadevi,                                                                                                                                                                                                                       ।
-। Çivakaivalya                                                                                                                                                                                                                    ।
-। Çivapada                                                                                                                                                                                                                        ।
-। Çivamṣa,                                                                                                                                                                                                                        ।
-। Çiva-Viṣṇu                                                                                                                                                                                                                      ।
-। Çrâddha                                                                                                                                                                                                                         ।
-। Çrâvnti                                                                                                                                                                                                                         ।
-। Çresthapurn                                                                                                                                                                                                                     ।
-। Çresthavarman                                                                                                                                                                                                                   ।
-। Çri                                                                                                                                                                                                                             ।
-। Çrindravarman                                                                                                                                                                                                                   ।
-। Çrikṣetra                                                                                                                                                                                                                       ।
-। Çrinivâsa                                                                                                                                                                                                                       ।
-। Çriratna                                                                                                                                                                                                                        ।
-। Çrivijaya (in Sumatra)—Çailendra dynasty of, 4, naval raid on Kam- baja, 71, Kambala a tributary of 81, architecture, , inser. of, Mahâyâna doctrines in Kambuja and...,Bengal and ..., Arab account of, (see also Appendix). ।
-। Çrutavarman,                                                                                                                                                                                                                    ।
-। Çurn,                                                                                                                                                                                                                           ।
-। Deified (ancestors), see Ancestors Deification of distinguished persons,                                                                                                                                                        ।
-। Devapâla                                                                                                                                                                                                                        ।
-। Devarâja, see Jagat ta raja ,                                                                                                                                                                                                   ।
-। Devi                                                                                                                                                                                                                            ।
-। Dhanvipura,                                                                                                                                                                                                                     ।
-। Dharanindravarman I                                                                                                                                                                                                             ।
-। Dharanindravarman II                                                                                                                                                                                                            ।
-। Dharma,                                                                                                                                                                                                                         ।
-। Dharmaçâstra (of Manu),                                                                                                                                                                                                         ।
-। Dharmadeva                                                                                                                                                                                                                      ।
-। Dharma-kâya                                                                                                                                                                                                                     ।
-। Dharmakîrti,                                                                                                                                                                                                                    ।
-। Dhâtrin,                                                                                                                                                                                                                        ।
-। Dhaumya,                                                                                                                                                                                                                        ।
-। Dhruva,                                                                                                                                                                                                                         ।
-। Dhulijeng,                                                                                                                                                                                                                      ।
-। Dhûrjaṭi,                                                                                                                                                                                                                       ।
-। Digraphic inscr.,                                                                                                                                                                                                               ।
-। Dikṣah,                                                                                                                                                                                                                         ।
-। Dilips,                                                                                                                                                                                                                         ।
-। Dipankara, see Ation                                                                                                                                                                                                            ।
-। Dighasattra,                                                                                                                                                                                                                    ।
-। Divakara,                                                                                                                                                                                                                       ।
-। Divakarapandita,                                                                                                                                                                                                                ।
-। Divyadevi                                                                                                                                                                                                                       ।
+|                                                                                                                                                                                                                                 |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| familylast... inscr.blending with Buddhism                                                                                                                                                                                     |
+| Çaluvankappa                                                                                                                                                                                                                    |
+| Çambha                                                                                                                                                                                                                          |
+| Çambhapura (Samber)                                                                                                                                                                                                             |
+| Çambu-Viṣṇu                                                                                                                                                                                                                     |
+| Çankara                                                                                                                                                                                                                         |
+| Çankara-Nârâyaṇa                                                                                                                                                                                                                |
+| Çankara-paṇḍita                                                                                                                                                                                                                 |
+| Çârngi,                                                                                                                                                                                                                         |
+| Çarvâni                                                                                                                                                                                                                         |
+| Çisana,                                                                                                                                                                                                                         |
+| Çâstra,                                                                                                                                                                                                                         |
+| Çastrotsava,                                                                                                                                                                                                                    |
+| Çaunaka,                                                                                                                                                                                                                        |
+| Çikhariçvarn,                                                                                                                                                                                                                   |
+| Çiraccheda                                                                                                                                                                                                                      |
+| Çiva                                                                                                                                                                                                                            |
+| Çivâcârys,                                                                                                                                                                                                                      |
+| Çiva-çakti                                                                                                                                                                                                                      |
+| Çivâçrama, see Bayon                                                                                                                                                                                                            |
+| Çivaṇrayn                                                                                                                                                                                                                       |
+| Çivadevi,                                                                                                                                                                                                                       |
+| Çivakaivalya                                                                                                                                                                                                                    |
+| Çivapada                                                                                                                                                                                                                        |
+| Çivamṣa,                                                                                                                                                                                                                        |
+| Çiva-Viṣṇu                                                                                                                                                                                                                      |
+| Çrâddha                                                                                                                                                                                                                         |
+| Çrâvnti                                                                                                                                                                                                                         |
+| Çresthapurn                                                                                                                                                                                                                     |
+| Çresthavarman                                                                                                                                                                                                                   |
+| Çri                                                                                                                                                                                                                             |
+| Çrindravarman                                                                                                                                                                                                                   |
+| Çrikṣetra                                                                                                                                                                                                                       |
+| Çrinivâsa                                                                                                                                                                                                                       |
+| Çriratna                                                                                                                                                                                                                        |
+| Çrivijaya (in Sumatra)—Çailendra dynasty of, 4, naval raid on Kam- baja, 71, Kambala a tributary of 81, architecture, , inser. of, Mahâyâna doctrines in Kambuja and...,Bengal and ..., Arab account of, (see also Appendix). |
+| Çrutavarman,                                                                                                                                                                                                                    |
+| Çurn,                                                                                                                                                                                                                           |
+| Deified (ancestors), see Ancestors Deification of distinguished persons,                                                                                                                                                        |
+| Devapâla                                                                                                                                                                                                                        |
+| Devarâja, see Jagat ta raja ,                                                                                                                                                                                                   |
+| Devi                                                                                                                                                                                                                            |
+| Dhanvipura,                                                                                                                                                                                                                     |
+| Dharanindravarman I                                                                                                                                                                                                             |
+| Dharanindravarman II                                                                                                                                                                                                            |
+| Dharma,                                                                                                                                                                                                                         |
+| Dharmaçâstra (of Manu),                                                                                                                                                                                                         |
+| Dharmadeva                                                                                                                                                                                                                      |
+| Dharma-kâya                                                                                                                                                                                                                     |
+| Dharmakîrti,                                                                                                                                                                                                                    |
+| Dhâtrin,                                                                                                                                                                                                                        |
+| Dhaumya,                                                                                                                                                                                                                        |
+| Dhruva,                                                                                                                                                                                                                         |
+| Dhulijeng,                                                                                                                                                                                                                      |
+| Dhûrjaṭi,                                                                                                                                                                                                                       |
+| Digraphic inscr.,                                                                                                                                                                                                               |
+| Dikṣah,                                                                                                                                                                                                                         |
+| Dilips,                                                                                                                                                                                                                         |
+| Dipankara, see Ation                                                                                                                                                                                                            |
+| Dighasattra,                                                                                                                                                                                                                    |
+| Divakara,                                                                                                                                                                                                                       |
+| Divakarapandita,                                                                                                                                                                                                                |
+| Divyadevi                                                                                                                                                                                                                       |
 
 
 
-।                                                                                                                                                                                                                                     ।
-।-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। Dress (Cambodina),                                                                                                                                                                                                                  ।
-। Drops                                                                                                                                                                                                                               ।
-। Durgâ,                                                                                                                                                                                                                              ।
-। Dvârâvati,                                                                                                                                                                                                                          ।
-। Educational institutions                                                                                                                                                                                                            ।
-। Epigraphy, ano Inscriptions Etudes Cambodgiennes (by M. Coedes), introd.                                                                                                                                                            ।
-। Fairy tale (Cambodian),                                                                                                                                                                                                             ।
-। Fan,                                                                                                                                                                                                                                ।
-। Fan Chan,                                                                                                                                                                                                                           ।
-। Fan-Che-man,                                                                                                                                                                                                                        ।
-। Fan Sinn,                                                                                                                                                                                                                           ।
-। Ferrand G. (M.)                                                                                                                                                                                                                     ।
-। Finot (M.), seeintrod.                                                                                                                                                                                                             ।
-। Fo-nan, 1, vassal states of, India and...,description of, Buddhist monks in China from...., fall of, , name of,                                                                                                                   ।
-। Gambhireçvara,                                                                                                                                                                                                                      ।
-। Ganeça,                                                                                                                                                                                                                             ।
-। Gangâ,                                                                                                                                                                                                                              ।
-। Garuda,                                                                                                                                                                                                                             ।
-। Gauri,                                                                                                                                                                                                                              ।
-। Generala (Cambodian),                                                                                                                                                                                                               ।
-। Genie,                                                                                                                                                                                                                              ।
-। Giriça,                                                                                                                                                                                                                             ।
-। Goloube (M.), introd.,                                                                                                                                                                                                              ।
-। Greco-Buddhist art,                                                                                                                                                                                                                 ।
-। Groslier                                                                                                                                                                                                                            ।
-। Guhys (Vrah),                                                                                                                                                                                                                      ।
-। Gunâdhya,                                                                                                                                                                                                                           ।
-। Guru                                                                                                                                                                                                                                ।
-। Harpavati                                                                                                                                                                                                                           ।
-। Han Chey (inscr.),                                                                                                                                                                                                                  ।
-। Ḥara                                                                                                                                                                                                                                ।
-। Haraprasad çastri                                                                                                                                                                                                                   ।
-। Hari                                                                                                                                                                                                                                ।
-। Hari-Hara(cult),                                                                                                                                                                                                                   ।
-। Harivamça,                                                                                                                                                                                                                          ।
-। Harṣavarman I,                                                                                                                                                                                                                      ।
-। Harṣavarman II,                                                                                                                                                                                                                     ।
-। Harṣavarman III                                                                                                                                                                                                                    ।
-। Harṣavarman IV,                                                                                                                                                                                                                     ।
-। Heaven (scenes of),                                                                                                                                                                                                                 ।
-। Hell (sosnes of),                                                                                                                                                                                                                   ।
-। Hema-çringa-giri, see Ba-puon                                                                                                                                                                                                       ।
-। He-vajra,                                                                                                                                                                                                                           ।
-। Hiraṇyagarbha,                                                                                                                                                                                                                      ।
-। Hiraṇyadâma,                                                                                                                                                                                                                        ।
-। Hinen Tasng,                                                                                                                                                                                                                        ।
-। Horâçâstra                                                                                                                                                                                                                          ।
-। Hospitals (Arogyagaçila),                                                                                                                                                                                                           ।
-। Houen-dien                                                                                                                                                                                                                          ।
-। Hriṣikeça                                                                                                                                                                                                                           ।
-। Ibn Rosteh,                                                                                                                                                                                                                         ।
-। Iça                                                                                                                                                                                                                                 ।
-। Içâna                                                                                                                                                                                                                               ।
-। Içânadatta                                                                                                                                                                                                                          ।
-। Içânamurti,                                                                                                                                                                                                                         ।
-। Içânapura                                                                                                                                                                                                                           ।
-। Içânaseça                                                                                                                                                                                                                           ।
-। Içanavarman,                                                                                                                                                                                                                        ।
-। Içinavarman II,                                                                                                                                                                                                                     ।
-। Içvara,                                                                                                                                                                                                                             ।
-। Imprecations,                                                                                                                                                                                                                       ।
-। India, first contact with Fa-nan,, embassy to, envoy in Fu-nan from, Muranda king of, influence on Cambodian Art of, North Indian script, Brahmans from, Religious influence of, Mahâyâna and Tantrayâna doctrines in Çrivijaya and ।
+|                                                                                                                                                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dress (Cambodina),                                                                                                                                                                                                                  |
+| Drops                                                                                                                                                                                                                               |
+| Durgâ,                                                                                                                                                                                                                              |
+| Dvârâvati,                                                                                                                                                                                                                          |
+| Educational institutions                                                                                                                                                                                                            |
+| Epigraphy, ano Inscriptions Etudes Cambodgiennes (by M. Coedes), introd.                                                                                                                                                            |
+| Fairy tale (Cambodian),                                                                                                                                                                                                             |
+| Fan,                                                                                                                                                                                                                                |
+| Fan Chan,                                                                                                                                                                                                                           |
+| Fan-Che-man,                                                                                                                                                                                                                        |
+| Fan Sinn,                                                                                                                                                                                                                           |
+| Ferrand G. (M.)                                                                                                                                                                                                                     |
+| Finot (M.), seeintrod.                                                                                                                                                                                                             |
+| Fo-nan, 1, vassal states of, India and...,description of, Buddhist monks in China from...., fall of, , name of,                                                                                                                   |
+| Gambhireçvara,                                                                                                                                                                                                                      |
+| Ganeça,                                                                                                                                                                                                                             |
+| Gangâ,                                                                                                                                                                                                                              |
+| Garuda,                                                                                                                                                                                                                             |
+| Gauri,                                                                                                                                                                                                                              |
+| Generala (Cambodian),                                                                                                                                                                                                               |
+| Genie,                                                                                                                                                                                                                              |
+| Giriça,                                                                                                                                                                                                                             |
+| Goloube (M.), introd.,                                                                                                                                                                                                              |
+| Greco-Buddhist art,                                                                                                                                                                                                                 |
+| Groslier                                                                                                                                                                                                                            |
+| Guhys (Vrah),                                                                                                                                                                                                                      |
+| Gunâdhya,                                                                                                                                                                                                                           |
+| Guru                                                                                                                                                                                                                                |
+| Harpavati                                                                                                                                                                                                                           |
+| Han Chey (inscr.),                                                                                                                                                                                                                  |
+| Ḥara                                                                                                                                                                                                                                |
+| Haraprasad çastri                                                                                                                                                                                                                   |
+| Hari                                                                                                                                                                                                                                |
+| Hari-Hara(cult),                                                                                                                                                                                                                   |
+| Harivamça,                                                                                                                                                                                                                          |
+| Harṣavarman I,                                                                                                                                                                                                                      |
+| Harṣavarman II,                                                                                                                                                                                                                     |
+| Harṣavarman III                                                                                                                                                                                                                    |
+| Harṣavarman IV,                                                                                                                                                                                                                     |
+| Heaven (scenes of),                                                                                                                                                                                                                 |
+| Hell (sosnes of),                                                                                                                                                                                                                   |
+| Hema-çringa-giri, see Ba-puon                                                                                                                                                                                                       |
+| He-vajra,                                                                                                                                                                                                                           |
+| Hiraṇyagarbha,                                                                                                                                                                                                                      |
+| Hiraṇyadâma,                                                                                                                                                                                                                        |
+| Hinen Tasng,                                                                                                                                                                                                                        |
+| Horâçâstra                                                                                                                                                                                                                          |
+| Hospitals (Arogyagaçila),                                                                                                                                                                                                           |
+| Houen-dien                                                                                                                                                                                                                          |
+| Hriṣikeça                                                                                                                                                                                                                           |
+| Ibn Rosteh,                                                                                                                                                                                                                         |
+| Iça                                                                                                                                                                                                                                 |
+| Içâna                                                                                                                                                                                                                               |
+| Içânadatta                                                                                                                                                                                                                          |
+| Içânamurti,                                                                                                                                                                                                                         |
+| Içânapura                                                                                                                                                                                                                           |
+| Içânaseça                                                                                                                                                                                                                           |
+| Içanavarman,                                                                                                                                                                                                                        |
+| Içinavarman II,                                                                                                                                                                                                                     |
+| Içvara,                                                                                                                                                                                                                             |
+| Imprecations,                                                                                                                                                                                                                       |
+| India, first contact with Fa-nan,, embassy to, envoy in Fu-nan from, Muranda king of, influence on Cambodian Art of, North Indian script, Brahmans from, Religious influence of, Mahâyâna and Tantrayâna doctrines in Çrivijaya and |
 
 
 
@@ -2712,443 +2712,443 @@ is bounded by the country of Jâwaga (Çrivijaya) which is the kingdom of the Ma
 
 
 
-।                                                                                                                                                                                                                                                                                                                                                                                                                                                ।
-।------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। early capital, Champa and, Chinese accounts of the people, ceremonies, etc., Çrivijaya and, Chinese frontier and, script, vassal states of, Ceylon and, ecoquasta during Jayavarman VII's reign, wealth of, last rulers of, Brahmins in, Indian onlts in, Mahâyâna doctrines in Çrivijaya and, Tântrism in, For architecture, Buddhism. Çaiva cult, and Sanscrit culture in Kambuja, see under those houdings respectively. See also Appendix ।
-। Kambuja-lakṣmi,                                                                                                                                                                                                                                                                                                                                                                                                                                ।
-। Kambu-puri,                                                                                                                                                                                                                                                                                                                                                                                                                                    ।
-। Kambuja-râja-lakṣmi                                                                                                                                                                                                                                                                                                                                                                                                                            ।
-। Kamvan                                                                                                                                                                                                                                                                                                                                                                                                                                         ।
-। Kanâda                                                                                                                                                                                                                                                                                                                                                                                                                                         ।
-। Kânci                                                                                                                                                                                                                                                                                                                                                                                                                                          ।
-। K'ang Tui,                                                                                                                                                                                                                                                                                                                                                                                                                                     ।
-। Kan-po-she                                                                                                                                                                                                                                                                                                                                                                                                                                     ।
-। Kapilvastu                                                                                                                                                                                                                                                                                                                                                                                                                                     ।
-। Karttikeya,                                                                                                                                                                                                                                                                                                                                                                                                                                    ।
-। Kashmir,                                                                                                                                                                                                                                                                                                                                                                                                                                       ।
-। Kauṇdinys, founder of Fu-nan,. gotra in P'oli, a second Koundinya, a prince of the race of,                                                                                                                                                                                                                                                                                                                                                   ।
-। Кâvyas                                                                                                                                                                                                                                                                                                                                                                                                                                         ।
-। Kâyas,                                                                                                                                                                                                                                                                                                                                                                                                                                         ।
-। Kodei Char (inser.),                                                                                                                                                                                                                                                                                                                                                                                                                           ।
-। Kuru (Prof.) Introd.                                                                                                                                                                                                                                                                                                                                                                                                                           ।
-। Khmer (native name of Cambodia) inscr., Arab account of, titles, see titles Cabinet, court, language,                                                                                                                                                                                                                                                                                                                                         ।
-। Kia-siang-li,                                                                                                                                                                                                                                                                                                                                                                                                                                  ।
-। Kîrtipaṇḍita                                                                                                                                                                                                                                                                                                                                                                                                                                   ।
-। Koli Ker                                                                                                                                                                                                                                                                                                                                                                                                                                       ।
-। Koki                                                                                                                                                                                                                                                                                                                                                                                                                                           ।
-। Koṭi-homa,                                                                                                                                                                                                                                                                                                                                                                                                                                     ।
-। Kru (isthmus of),                                                                                                                                                                                                                                                                                                                                                                                                                              ।
-। Kriṣṇa                                                                                                                                                                                                                                                                                                                                                                                                                                         ।
-। Kṣatriya                                                                                                                                                                                                                                                                                                                                                                                                                                       ।
-। Kublai Khan,                                                                                                                                                                                                                                                                                                                                                                                                                                   ।
-। Kuçs                                                                                                                                                                                                                                                                                                                                                                                                                                           ।
-। Kulâdhyakṣa,                                                                                                                                                                                                                                                                                                                                                                                                                                   ।
-। Kumbhipâka,                                                                                                                                                                                                                                                                                                                                                                                                                                    ।
-। Lakṣa-huma,                                                                                                                                                                                                                                                                                                                                                                                                                                    ।
-। Lakṣmi,                                                                                                                                                                                                                                                                                                                                                                                                                                        ।
-। Laos                                                                                                                                                                                                                                                                                                                                                                                                                                           ।
-। Law (Cambodian)                                                                                                                                                                                                                                                                                                                                                                                                                                ।
-। Law (Courts),                                                                                                                                                                                                                                                                                                                                                                                                                                  ।
-। Loper( (Bing)                                                                                                                                                                                                                                                                                                                                                                                                                                  ।
-। LéviSylvain (Prof.), introd.,                                                                                                                                                                                                                                                                                                                                                                                                                 ।
-। Libraries,                                                                                                                                                                                                                                                                                                                                                                                                                                     ।
-। Licou-ye,                                                                                                                                                                                                                                                                                                                                                                                                                                      ।
-। Lin-yi (Chinese name of Champa)—see Champa                                                                                                                                                                                                                                                                                                                                                                                                     ।
-। Lokanâtha,                                                                                                                                                                                                                                                                                                                                                                                                                                     ।
-। Lokeçvara                                                                                                                                                                                                                                                                                                                                                                                                                                      ।
-। Loley (inscr.)                                                                                                                                                                                                                                                                                                                                                                                                                                 ।
-। Loley (digraphic inser.)                                                                                                                                                                                                                                                                                                                                                                                                                       ।
-। Lomapada                                                                                                                                                                                                                                                                                                                                                                                                                                       ।
-। Lapburl (inscr.)                                                                                                                                                                                                                                                                                                                                                                                                                               ।
-। Lovek (inscr.),                                                                                                                                                                                                                                                                                                                                                                                                                                ।
-। Lunar race                                                                                                                                                                                                                                                                                                                                                                                                                                     ।
-। Madhuvana                                                                                                                                                                                                                                                                                                                                                                                                                                      ।
-। Madhyavibhiga (çâstra)                                                                                                                                                                                                                                                                                                                                                                                                                         ।
-। Magadha                                                                                                                                                                                                                                                                                                                                                                                                                                        ।
-। Mahâbhârata                                                                                                                                                                                                                                                                                                                                                                                                                                    ।
-। Mahâhoma                                                                                                                                                                                                                                                                                                                                                                                                                                       ।
-। Mahânâtha                                                                                                                                                                                                                                                                                                                                                                                                                                      ।
-। Mahârâja (of Zabaj)                                                                                                                                                                                                                                                                                                                                                                                                                            ।
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| early capital, Champa and, Chinese accounts of the people, ceremonies, etc., Çrivijaya and, Chinese frontier and, script, vassal states of, Ceylon and, ecoquasta during Jayavarman VII's reign, wealth of, last rulers of, Brahmins in, Indian onlts in, Mahâyâna doctrines in Çrivijaya and, Tântrism in, For architecture, Buddhism. Çaiva cult, and Sanscrit culture in Kambuja, see under those houdings respectively. See also Appendix |
+| Kambuja-lakṣmi,                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Kambu-puri,                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Kambuja-râja-lakṣmi                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Kamvan                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Kanâda                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Kânci                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| K'ang Tui,                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Kan-po-she                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Kapilvastu                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Karttikeya,                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Kashmir,                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Kauṇdinys, founder of Fu-nan,. gotra in P'oli, a second Koundinya, a prince of the race of,                                                                                                                                                                                                                                                                                                                                                   |
+| Кâvyas                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Kâyas,                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Kodei Char (inser.),                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Kuru (Prof.) Introd.                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Khmer (native name of Cambodia) inscr., Arab account of, titles, see titles Cabinet, court, language,                                                                                                                                                                                                                                                                                                                                         |
+| Kia-siang-li,                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Kîrtipaṇḍita                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Koli Ker                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Koki                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Koṭi-homa,                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Kru (isthmus of),                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Kriṣṇa                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Kṣatriya                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Kublai Khan,                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Kuçs                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Kulâdhyakṣa,                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Kumbhipâka,                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Lakṣa-huma,                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Lakṣmi,                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Laos                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Law (Cambodian)                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Law (Courts),                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Loper( (Bing)                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| LéviSylvain (Prof.), introd.,                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Libraries,                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Licou-ye,                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Lin-yi (Chinese name of Champa)—see Champa                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Lokanâtha,                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Lokeçvara                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Loley (inscr.)                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Loley (digraphic inser.)                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Lomapada                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Lapburl (inscr.)                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Lovek (inscr.),                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Lunar race                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Madhuvana                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Madhyavibhiga (çâstra)                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Magadha                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Mahâbhârata                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Mahâhoma                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Mahânâtha                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Mahârâja (of Zabaj)                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 
 
-।                             ।
-।-----------------------------।
-। Mahâvamça                   ।
-। Mahâyâna                    ।
-। Mahendraparvata             ।
-। Maheçvara                   ।
-। Mahendravarman (Citrasena), ।
-। Mahipaura                   ।
-। Mahotsavapuja               ।
-। Malay (Peninsula)           ।
-। Mandrasena,                 ।
-। Mangalârtha (adhyâpaka)     ।
-। Mangâlartha (temple)        ।
-। Mantri                      ।
-। Mûra                        ।
-। Maspero (Georges)           ।
-। Ma'sudi                     ।
-। Matriarchal (genealogies)   ।
-। Ma Tonan-lin                ।
-। Mayûra,                     ।
-। Meboune,                    ।
-। Medicine,                   ।
-। Meou-lun, see Murunda       ।
-। Merk (speark)               ।
-। Meru,                       ।
-। Ministers                   ।
-। Mo-fou,                     ।
-। Monasteries                 ।
-। Motan,                      ।
-। Monhot, introd.,            ।
-। Mulavarman (of Borneo),     ।
-। Muni,                       ।
-। Murunda,                    ।
-। Musical (instruments),      ।
-। Nabbasya,                   ।
-। Nâga (ancestors),           ।
-। Nâgârja,                    ।
-। Nagarakritaguna             ।
-। Nâgari (alphabet),          ।
-। Nâgasenn,                   ।
-। Nâgi, (ancestress),         ।
-। Namaç-Çivaya                ।
-। Narapatideça,               ।
-। Nârâyana                    ।
-। Natarâja                    ।
-। Nayottara,                  ।
-। Neak Ta Charek (inscr.),    ।
-। Nepal                       ।
-। Nirmâna Kâya                ।
-। Nirvâna,                    ।
-। Nirvânapada,                ।
-। Niti,                       ।
-। Non Van (inscr.),           ।
-। Notes d'epigraphie, introd. ।
-। Nrisimha                    ।
-। Nyiya                       ।
-। Oath (of allegiance),       ।
-। Officials,                  ।
-। Ornaments,                  ।
-। Pûçupata                    ।
-। Pâla (Kings),               ।
-। Pallava                     ।
-। Paṇḍita                     ।
-। Pâṇini                      ।
-। Pan-ki                      ।
-। P'an-p'an                   ।
-। Pârada,                     ।
-। Parama-Brahma               ।
-। Parama-Çivaloka             ।
-। Parama-Çivapada             ।
-। Parama-Rudraloka            ।
+|                             |
+|-----------------------------|
+| Mahâvamça                   |
+| Mahâyâna                    |
+| Mahendraparvata             |
+| Maheçvara                   |
+| Mahendravarman (Citrasena), |
+| Mahipaura                   |
+| Mahotsavapuja               |
+| Malay (Peninsula)           |
+| Mandrasena,                 |
+| Mangalârtha (adhyâpaka)     |
+| Mangâlartha (temple)        |
+| Mantri                      |
+| Mûra                        |
+| Maspero (Georges)           |
+| Ma'sudi                     |
+| Matriarchal (genealogies)   |
+| Ma Tonan-lin                |
+| Mayûra,                     |
+| Meboune,                    |
+| Medicine,                   |
+| Meou-lun, see Murunda       |
+| Merk (speark)               |
+| Meru,                       |
+| Ministers                   |
+| Mo-fou,                     |
+| Monasteries                 |
+| Motan,                      |
+| Monhot, introd.,            |
+| Mulavarman (of Borneo),     |
+| Muni,                       |
+| Murunda,                    |
+| Musical (instruments),      |
+| Nabbasya,                   |
+| Nâga (ancestors),           |
+| Nâgârja,                    |
+| Nagarakritaguna             |
+| Nâgari (alphabet),          |
+| Nâgasenn,                   |
+| Nâgi, (ancestress),         |
+| Namaç-Çivaya                |
+| Narapatideça,               |
+| Nârâyana                    |
+| Natarâja                    |
+| Nayottara,                  |
+| Neak Ta Charek (inscr.),    |
+| Nepal                       |
+| Nirmâna Kâya                |
+| Nirvâna,                    |
+| Nirvânapada,                |
+| Niti,                       |
+| Non Van (inscr.),           |
+| Notes d'epigraphie, introd. |
+| Nrisimha                    |
+| Nyiya                       |
+| Oath (of allegiance),       |
+| Officials,                  |
+| Ornaments,                  |
+| Pûçupata                    |
+| Pâla (Kings),               |
+| Pallava                     |
+| Paṇḍita                     |
+| Pâṇini                      |
+| Pan-ki                      |
+| P'an-p'an                   |
+| Pârada,                     |
+| Parama-Brahma               |
+| Parama-Çivaloka             |
+| Parama-Çivapada             |
+| Parama-Rudraloka            |
 
 
 
-।                                                    ।
-।----------------------------------------------------।
-। Parama-Viraloka,                                   ।
-। Parama-Viṣṇaloka                                   ।
-। Parameçvara (Jayavarman II )                       ।
-। Pâramis                                            ।
-। Parennosey,                                        ।
-। Parmenties (M.), introd.                           ।
-। Pârvati,                                           ।
-। Pa-seen-wei,                                       ।
-। Pâtaliputra,                                       ।
-। Patañjali,                                         ।
-। Pegu,                                              ।
-। Pelliot (Prof.), introd,                           ।
-। Phimesnakas                                        ।
-। Phimeanskas (inscr.)                               ।
-। Phnom Preah Vihar (inscr.),                        ।
-। Phnom Sandak (inscr.),                             ।
-। Phon Lokhon,                                       ।
-। Pi-Kien,                                           ।
-। P'oli,                                             ।
-। Ponhear Hor (inscr)                                ।
-। Popusuclear (story of),                            ।
-। Posthnmous names                                   ।
-। PraÇasti,                                          ।
-। Prahket Meales,                                    ।
-। Prah Khan (inscr.),                                ।
-। Prajñapâramita,                                    ।
-।                                                   ।
-। Prakhan, sos Hariharâlaya Prikrit,                 ।
-। Prambanan,                                         ।
-। Prâṇa,                                             ।
-। Praat Khanat (inscr.)                              ।
-। Prasat Kana (inscr.)                               ।
-। Prasat Neang Khman (inscr.),                       ।
-। Prasat Pra (inscr.),                               ।
-। Prasat Pra Dak (inscr.)                            ।
-। Pratima Nâtaka,                                    ।
-। Pravarasens (King of Kashmir)                      ।
-। Prea Eynkosay (inscr.)                             ।
-। Prea Kev (inscr.)                                  ।
-। Prea Ngonk (inscr.),                               ।
-। Prea Vihear,                                       ।
-। Precedence (order of)                              ।
-। Priesta (High), ses Sdok Kak Thom inscr.           ।
-। Prithivindra-pandita                               ।
-। Prithuçaila,                                       ।
-। Ptolamy                                            ।
-। Pukam (Pagan),                                     ।
-। Purçna                                             ।
-। Purohita                                           ।
-। Puskarâkṣa                                         ।
-। Pustakâçrama,                                      ।
-। Pyramidal (structares),                            ।
-। Raghu                                              ।
-। Râhu                                               ।
-। Râjendravarman                                     ।
-। Raktamriitikâ                                      ।
-। Râma,                                              ।
-। Râmâyana,                                          ।
-। Raurava                                            ।
-। Râvana,                                            ।
-। Regulations, see Temple regulations                ।
-। Religious syncretism, (of Bud- dhlam and Çaivism), ।
-। Rémunat, introd                                    ।
-। Riçyaçringa,                                       ।
-। Rişi,                                              ।
-। Rolom Tim (inscr.),                                ।
-। Royal God, see Jagasta Raja                        ।
-। Rudra,                                             ।
-। Rudraloka,                                         ।
-। Rudravarman                                        ।
+|                                                    |
+|----------------------------------------------------|
+| Parama-Viraloka,                                   |
+| Parama-Viṣṇaloka                                   |
+| Parameçvara (Jayavarman II )                       |
+| Pâramis                                            |
+| Parennosey,                                        |
+| Parmenties (M.), introd.                           |
+| Pârvati,                                           |
+| Pa-seen-wei,                                       |
+| Pâtaliputra,                                       |
+| Patañjali,                                         |
+| Pegu,                                              |
+| Pelliot (Prof.), introd,                           |
+| Phimesnakas                                        |
+| Phimeanskas (inscr.)                               |
+| Phnom Preah Vihar (inscr.),                        |
+| Phnom Sandak (inscr.),                             |
+| Phon Lokhon,                                       |
+| Pi-Kien,                                           |
+| P'oli,                                             |
+| Ponhear Hor (inscr)                                |
+| Popusuclear (story of),                            |
+| Posthnmous names                                   |
+| PraÇasti,                                          |
+| Prahket Meales,                                    |
+| Prah Khan (inscr.),                                |
+| Prajñapâramita,                                    |
+|                                                   |
+| Prakhan, sos Hariharâlaya Prikrit,                 |
+| Prambanan,                                         |
+| Prâṇa,                                             |
+| Praat Khanat (inscr.)                              |
+| Prasat Kana (inscr.)                               |
+| Prasat Neang Khman (inscr.),                       |
+| Prasat Pra (inscr.),                               |
+| Prasat Pra Dak (inscr.)                            |
+| Pratima Nâtaka,                                    |
+| Pravarasens (King of Kashmir)                      |
+| Prea Eynkosay (inscr.)                             |
+| Prea Kev (inscr.)                                  |
+| Prea Ngonk (inscr.),                               |
+| Prea Vihear,                                       |
+| Precedence (order of)                              |
+| Priesta (High), ses Sdok Kak Thom inscr.           |
+| Prithivindra-pandita                               |
+| Prithuçaila,                                       |
+| Ptolamy                                            |
+| Pukam (Pagan),                                     |
+| Purçna                                             |
+| Purohita                                           |
+| Puskarâkṣa                                         |
+| Pustakâçrama,                                      |
+| Pyramidal (structares),                            |
+| Raghu                                              |
+| Râhu                                               |
+| Râjendravarman                                     |
+| Raktamriitikâ                                      |
+| Râma,                                              |
+| Râmâyana,                                          |
+| Raurava                                            |
+| Râvana,                                            |
+| Regulations, see Temple regulations                |
+| Religious syncretism, (of Bud- dhlam and Çaivism), |
+| Rémunat, introd                                    |
+| Riçyaçringa,                                       |
+| Rişi,                                              |
+| Rolom Tim (inscr.),                                |
+| Royal God, see Jagasta Raja                        |
+| Rudra,                                             |
+| Rudraloka,                                         |
+| Rudravarman                                        |
 
 
 
-।                                                                                                                                                                             ।
-।-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। Sadaçiva,                                                                                                                                                                   ।
-। Sadadarçana                                                                                                                                                                 ।
-। Saḍânana                                                                                                                                                                    ।
-। Samâdhi                                                                                                                                                                     ।
-। Samatata,                                                                                                                                                                   ।
-। Samaveda                                                                                                                                                                    ।
-। Sambhava, Pustaka,                                                                                                                                                          ।
-। Sambhogakâya                                                                                                                                                                ।
-। Sambor (inscr.)                                                                                                                                                             ।
-। Sammoha                                                                                                                                                                     ।
-। San-to-tal (Çrivijaya)                                                                                                                                                      ।
-। Sangha                                                                                                                                                                      ।
-। Sanghapâla                                                                                                                                                                  ।
-। Sangrâma                                                                                                                                                                    ।
-। Sanjak                                                                                                                                                                      ।
-। Sânkhya                                                                                                                                                                     ।
-। Sanscrit, Inscriptions, epicarecited, grammar references to literature in inscr., verses written by a king, and by a queen, culture in Kambuja, influence on Khmer language ।
-। Saptadevakula                                                                                                                                                               ।
-। Sarasvatî                                                                                                                                                                   ।
-। Sarvajñamani,                                                                                                                                                               ।
-। Satyâçraya                                                                                                                                                                  ।
-। Sangatiçrama                                                                                                                                                                ।
-। Saurivong                                                                                                                                                                   ।
-। Script (of the inser.)                                                                                                                                                      ।
-। Sculpture (khmer)                                                                                                                                                           ।
-। Sdok kak Thom (inscr. of the High Priests),                                                                                                                                 ।
-। Sezart (M.), introd.                                                                                                                                                        ।
-। Setubandha,                                                                                                                                                                 ।
-। Seven Pagodas                                                                                                                                                               ।
-। Siam (see also Appendix)                                                                                                                                                    ।
-। Siddhântas                                                                                                                                                                  ।
-। Simhadatta,                                                                                                                                                                 ।
-। Simhadeva,                                                                                                                                                                  ।
-। Sîti,                                                                                                                                                                       ।
-। Slaves                                                                                                                                                                      ।
-। Smritis,                                                                                                                                                                    ।
-। Solar race,                                                                                                                                                                 ।
-। Somâ,                                                                                                                                                                       ।
-। Somaçarmâ                                                                                                                                                                   ।
-। Somaçiva                                                                                                                                                                    ।
-। Spy                                                                                                                                                                         ।
-। Srok,                                                                                                                                                                       ।
-। Sthavira                                                                                                                                                                    ।
-। Sthitidâyinah                                                                                                                                                               ।
-। Subhadra                                                                                                                                                                    ।
-। Subhadrâ,                                                                                                                                                                   ।
-। Sucruta                                                                                                                                                                     ।
-। Sudharmanagara,                                                                                                                                                            ।
-। Suita (Law)                                                                                                                                                                 ।
-। Sukhodaya                                                                                                                                                                   ।
-। Sulayman                                                                                                                                                                    ।
-। Sumantra,                                                                                                                                                                   ।
-। Sumatra, (see Çrivijaya and Appendix).                                                                                                                                      ।
-। Sûryavairocana-caṇḍarcci,                                                                                                                                                   ।
-। Sûryavarman I (the first Buddhist king)                                                                                                                                     ।
-। Sûryavarman II—early youth and accession, education, his guru, relations with China, and Angkor Vat depicted in the bas relief asParama-viṣṇuloka,                       ।
-। Sûta,                                                                                                                                                                       ।
-। Savarnadvîpa                                                                                                                                                                ।
-। Savarṇagrâma,                                                                                                                                                               ।
-। Svai chno (inscr.),                                                                                                                                                         ।
-। Tales (Cambodian and Bengali),                                                                                                                                              ।
+|                                                                                                                                                                             |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sadaçiva,                                                                                                                                                                   |
+| Sadadarçana                                                                                                                                                                 |
+| Saḍânana                                                                                                                                                                    |
+| Samâdhi                                                                                                                                                                     |
+| Samatata,                                                                                                                                                                   |
+| Samaveda                                                                                                                                                                    |
+| Sambhava, Pustaka,                                                                                                                                                          |
+| Sambhogakâya                                                                                                                                                                |
+| Sambor (inscr.)                                                                                                                                                             |
+| Sammoha                                                                                                                                                                     |
+| San-to-tal (Çrivijaya)                                                                                                                                                      |
+| Sangha                                                                                                                                                                      |
+| Sanghapâla                                                                                                                                                                  |
+| Sangrâma                                                                                                                                                                    |
+| Sanjak                                                                                                                                                                      |
+| Sânkhya                                                                                                                                                                     |
+| Sanscrit, Inscriptions, epicarecited, grammar references to literature in inscr., verses written by a king, and by a queen, culture in Kambuja, influence on Khmer language |
+| Saptadevakula                                                                                                                                                               |
+| Sarasvatî                                                                                                                                                                   |
+| Sarvajñamani,                                                                                                                                                               |
+| Satyâçraya                                                                                                                                                                  |
+| Sangatiçrama                                                                                                                                                                |
+| Saurivong                                                                                                                                                                   |
+| Script (of the inser.)                                                                                                                                                      |
+| Sculpture (khmer)                                                                                                                                                           |
+| Sdok kak Thom (inscr. of the High Priests),                                                                                                                                 |
+| Sezart (M.), introd.                                                                                                                                                        |
+| Setubandha,                                                                                                                                                                 |
+| Seven Pagodas                                                                                                                                                               |
+| Siam (see also Appendix)                                                                                                                                                    |
+| Siddhântas                                                                                                                                                                  |
+| Simhadatta,                                                                                                                                                                 |
+| Simhadeva,                                                                                                                                                                  |
+| Sîti,                                                                                                                                                                       |
+| Slaves                                                                                                                                                                      |
+| Smritis,                                                                                                                                                                    |
+| Solar race,                                                                                                                                                                 |
+| Somâ,                                                                                                                                                                       |
+| Somaçarmâ                                                                                                                                                                   |
+| Somaçiva                                                                                                                                                                    |
+| Spy                                                                                                                                                                         |
+| Srok,                                                                                                                                                                       |
+| Sthavira                                                                                                                                                                    |
+| Sthitidâyinah                                                                                                                                                               |
+| Subhadra                                                                                                                                                                    |
+| Subhadrâ,                                                                                                                                                                   |
+| Sucruta                                                                                                                                                                     |
+| Sudharmanagara,                                                                                                                                                            |
+| Suita (Law)                                                                                                                                                                 |
+| Sukhodaya                                                                                                                                                                   |
+| Sulayman                                                                                                                                                                    |
+| Sumantra,                                                                                                                                                                   |
+| Sumatra, (see Çrivijaya and Appendix).                                                                                                                                      |
+| Sûryavairocana-caṇḍarcci,                                                                                                                                                   |
+| Sûryavarman I (the first Buddhist king)                                                                                                                                     |
+| Sûryavarman II—early youth and accession, education, his guru, relations with China, and Angkor Vat depicted in the bas relief asParama-viṣṇuloka,                       |
+| Sûta,                                                                                                                                                                       |
+| Savarnadvîpa                                                                                                                                                                |
+| Savarṇagrâma,                                                                                                                                                               |
+| Svai chno (inscr.),                                                                                                                                                         |
+| Tales (Cambodian and Bengali),                                                                                                                                              |
 
 
 
-।                                ।
-।--------------------------------।
-। Tamluk                         ।
-। Ticarapurn                     ।
-। Tantras,                       ।
-। Tantrayins,                    ।
-। Tao,                           ।
-। Тараsуa                        ।
-। Tapasvin,                      ।
-। Ta Prohm (inscr.),            ।
-। Ta Prohm (temple)              ।
-। Târânâtha                      ।
-। Temple Regulations,            ।
-। Tenseserim,                    ।
-। Tep Pranam (inscr.),           ।
-। Terrace (Royal),               ।
-। Terraced structures,           ।
-। Thnal Baray (Inscr.),          ।
-। Tibet,                         ।
-। Tilakâ                         ।
-। Titles (khmer),                ।
-। Tonen-alen,                    ।
-। Trade (of Kambuja with China), ।
-। Trailokyansârn,                ।
-। Travancore,                    ।
-। Trial (by ordeal),             ।
-। Tribhuvaneçvara,               ।
-। Trivikrama,                    ।
-। Tryambaka,                     ।
-। Tool pei (insr.),              ।
-। Udayâdityavarman I,            ।
-। Udayâdityavarman II,           ।
-। Udgitha,                       ।
-। Udyana,                        ।
-। Ugrapura,                      ।
-। Umâ                            ।
-। Upadhmaniya,                   ।
-। Upâdhyâya,                     ।
-। Upendra,                       ।
-। Uroja                          ।
-। Vaçiatha,                      ।
-। Vâglevari                      ।
-। Vaiçesika                      ।
-। Vaiṣṇva (names),               ।
-। Vajrapâṇi,                     ।
-। Vajrasena                      ।
-। Vâmaçiva                       ।
-। Vasubandhu                     ।
-। Vat chakret (inscr.),          ।
-। Vat Phou (inscr.),             ।
-। Vat Thipdai (inscr.),          ।
-। Vitalyana                      ।
-। Veal kantnl (inscr.),.         ।
-। Veda,                          ।
-। Vedânga                        ।
-। Vedânta,                       ।
-। Vedantic invocations,          ।
-। Vibhiṣaṇa                      ।
-। Viçâlâkṣa                      ।
-। Vidyâdeva,                     ।
-। Vidyâdi-vindvanta,             ।
-। Vikramaçilâ                    ।
-। Vimalasaba,                    ।
-। Vinâçika,                      ।
-। Vira,                          ।
-। Virabhakti-garjita             ।
-। Viralakṣmi,                    ।
-। Viravarman,                    ।
-। Virinca,                       ।
-। Viṣṇu,                         ।
-। Viṣṇu-candeçvareçâna,          ।
-। Viṣṇukrântâ (tantras)          ।
+|                                |
+|--------------------------------|
+| Tamluk                         |
+| Ticarapurn                     |
+| Tantras,                       |
+| Tantrayins,                    |
+| Tao,                           |
+| Тараsуa                        |
+| Tapasvin,                      |
+| Ta Prohm (inscr.),            |
+| Ta Prohm (temple)              |
+| Târânâtha                      |
+| Temple Regulations,            |
+| Tenseserim,                    |
+| Tep Pranam (inscr.),           |
+| Terrace (Royal),               |
+| Terraced structures,           |
+| Thnal Baray (Inscr.),          |
+| Tibet,                         |
+| Tilakâ                         |
+| Titles (khmer),                |
+| Tonen-alen,                    |
+| Trade (of Kambuja with China), |
+| Trailokyansârn,                |
+| Travancore,                    |
+| Trial (by ordeal),             |
+| Tribhuvaneçvara,               |
+| Trivikrama,                    |
+| Tryambaka,                     |
+| Tool pei (insr.),              |
+| Udayâdityavarman I,            |
+| Udayâdityavarman II,           |
+| Udgitha,                       |
+| Udyana,                        |
+| Ugrapura,                      |
+| Umâ                            |
+| Upadhmaniya,                   |
+| Upâdhyâya,                     |
+| Upendra,                       |
+| Uroja                          |
+| Vaçiatha,                      |
+| Vâglevari                      |
+| Vaiçesika                      |
+| Vaiṣṇva (names),               |
+| Vajrapâṇi,                     |
+| Vajrasena                      |
+| Vâmaçiva                       |
+| Vasubandhu                     |
+| Vat chakret (inscr.),          |
+| Vat Phou (inscr.),             |
+| Vat Thipdai (inscr.),          |
+| Vitalyana                      |
+| Veal kantnl (inscr.),.         |
+| Veda,                          |
+| Vedânga                        |
+| Vedânta,                       |
+| Vedantic invocations,          |
+| Vibhiṣaṇa                      |
+| Viçâlâkṣa                      |
+| Vidyâdeva,                     |
+| Vidyâdi-vindvanta,             |
+| Vikramaçilâ                    |
+| Vimalasaba,                    |
+| Vinâçika,                      |
+| Vira,                          |
+| Virabhakti-garjita             |
+| Viralakṣmi,                    |
+| Viravarman,                    |
+| Virinca,                       |
+| Viṣṇu,                         |
+| Viṣṇu-candeçvareçâna,          |
+| Viṣṇukrântâ (tantras)          |
 
 
 
-।                                                                                                                                                                                                                                                                                                                                                                                                    ।
-।----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।
-। Varvong (story of),                                                                                                                                                                                                                                                                                                                                                                                ।
-। Vriddheçvara                                                                                                                                                                                                                                                                                                                                                                                       ।
-। Vyâdhapura,                                                                                                                                                                                                                                                                                                                                                                                        ।
-। Vyâsa-çatra,                                                                                                                                                                                                                                                                                                                                                                                       ।
-। Weapons,                                                                                                                                                                                                                                                                                                                                                                                           ।
-। Witnesses,                                                                                                                                                                                                                                                                                                                                                                                         ।
-। Word-numerals                                                                                                                                                                                                                                                                                                                                                                                      ।
-। Yaçodharapura,—ace Angkor Thom Yaçodhara Taṭâks, Yaçovarman, his tutor, address to future rulers, invasion of Champa, appoints a professor, digraphic inscr., genealogy and accomplishments, çâsanas, compared with Sanscrit authors, author of a bhâṣya on Patañjali's work, founds Angkor Thom (Yaçodharapura), builds a Buddhist monastery, constracts the Bayon, dies a leper, vandalism of, ।
-। Yajña,                                                                                                                                                                                                                                                                                                                                                                                             ।
-। Yâjñavalkya,                                                                                                                                                                                                                                                                                                                                                                                       ।
-। Yama,                                                                                                                                                                                                                                                                                                                                                                                              ।
-। Yati,                                                                                                                                                                                                                                                                                                                                                                                              ।
-। Ye-ti-ao                                                                                                                                                                                                                                                                                                                                                                                           ।
-। Yoga                                                                                                                                                                                                                                                                                                                                                                                               ।
-। Yogiçvarapaṇḍita,                                                                                                                                                                                                                                                                                                                                                                                  ।
-। Yonaka,                                                                                                                                                                                                                                                                                                                                                                                            ।
-। Yudhiṣthira,                                                                                                                                                                                                                                                                                                                                                                                       ।
-। Yue-chi,                                                                                                                                                                                                                                                                                                                                                                                           ।
-। Zabaj, (Çrivijaya),                                                                                                                                                                                                                                                                                                                                                                                ।
+|                                                                                                                                                                                                                                                                                                                                                                                                    |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Varvong (story of),                                                                                                                                                                                                                                                                                                                                                                                |
+| Vriddheçvara                                                                                                                                                                                                                                                                                                                                                                                       |
+| Vyâdhapura,                                                                                                                                                                                                                                                                                                                                                                                        |
+| Vyâsa-çatra,                                                                                                                                                                                                                                                                                                                                                                                       |
+| Weapons,                                                                                                                                                                                                                                                                                                                                                                                           |
+| Witnesses,                                                                                                                                                                                                                                                                                                                                                                                         |
+| Word-numerals                                                                                                                                                                                                                                                                                                                                                                                      |
+| Yaçodharapura,—ace Angkor Thom Yaçodhara Taṭâks, Yaçovarman, his tutor, address to future rulers, invasion of Champa, appoints a professor, digraphic inscr., genealogy and accomplishments, çâsanas, compared with Sanscrit authors, author of a bhâṣya on Patañjali's work, founds Angkor Thom (Yaçodharapura), builds a Buddhist monastery, constracts the Bayon, dies a leper, vandalism of, |
+| Yajña,                                                                                                                                                                                                                                                                                                                                                                                             |
+| Yâjñavalkya,                                                                                                                                                                                                                                                                                                                                                                                       |
+| Yama,                                                                                                                                                                                                                                                                                                                                                                                              |
+| Yati,                                                                                                                                                                                                                                                                                                                                                                                              |
+| Ye-ti-ao                                                                                                                                                                                                                                                                                                                                                                                           |
+| Yoga                                                                                                                                                                                                                                                                                                                                                                                               |
+| Yogiçvarapaṇḍita,                                                                                                                                                                                                                                                                                                                                                                                  |
+| Yonaka,                                                                                                                                                                                                                                                                                                                                                                                            |
+| Yudhiṣthira,                                                                                                                                                                                                                                                                                                                                                                                       |
+| Yue-chi,                                                                                                                                                                                                                                                                                                                                                                                           |
+| Zabaj, (Çrivijaya),                                                                                                                                                                                                                                                                                                                                                                                |
 
 
 
-।     ।                                                                                                                                                                          ।      ।                ।
-।-----।--------------------------------------------------------------------------------------------------------------------------------------------------------------------------।------।----------------।
-। For । Funan                                                                                                                                                                    । Read । Fu-nan         ।
-। For । Nan Tsi Chu                                                                                                                                                              । Read । Nan-ts’i-shu   ।
-। For । Kiso                                                                                                                                                                     । Read । Kiao           ।
-। For । p.275                                                                                                                                                                    । Read । p.256          ।
-। For । Coedes                                                                                                                                                                   । Read । Cædès          ।
-। For । Suddhodana                                                                                                                                                               । Read । çuddhodana     ।
-। For । Po-li has now been identifinitely with the island of Bali by Prof.Krom                                                                                                   । Read ।               ।
-। For । Yatiao                                                                                                                                                                   । Read । Ye-tiao        ।
-। For । Teou kiu-li                                                                                                                                                              । Read । T'eon-kiu-li   ।
-। For । Linyi                                                                                                                                                                    । Read । Lin-yi         ।
-। For । The word Hou means ‘barbarians’ in general. Up to the 5th century the indians were included among the barbarians by the chinese, but subsequently a distinction was made । Read ।               ।
-। For । Chan-tan                                                                                                                                                                 । Read । chan t'an      ।
-। For । The more correct restoration of the name sanghapâla is Sanghabhara ( of.Bagehi-Le canon Bouddhique p.415)                                                                । Read ।               ।
-। For । Chenla                                                                                                                                                                   । Read । Chen-la        ।
-। For । Tomu                                                                                                                                                                     । Read । Tö-mu          ।
-। For । Çrutavarmanmula                                                                                                                                                          । Read । Çrutavarmamula ।
-। For । Makong                                                                                                                                                                   । Read । Mekong         ।
-। For । Souei-chou                                                                                                                                                               । Read । Souei-shu      ।
-। For । Ye-cho-na-sien                                                                                                                                                           । Read । Ye-sho-na-sien ।
-। For । Svai Chuo                                                                                                                                                                । Read । Svai Chno      ।
+|     |                                                                                                                                                                          |      |                |
+|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|----------------|
+| For | Funan                                                                                                                                                                    | Read | Fu-nan         |
+| For | Nan Tsi Chu                                                                                                                                                              | Read | Nan-ts’i-shu   |
+| For | Kiso                                                                                                                                                                     | Read | Kiao           |
+| For | p.275                                                                                                                                                                    | Read | p.256          |
+| For | Coedes                                                                                                                                                                   | Read | Cædès          |
+| For | Suddhodana                                                                                                                                                               | Read | çuddhodana     |
+| For | Po-li has now been identifinitely with the island of Bali by Prof.Krom                                                                                                   | Read |               |
+| For | Yatiao                                                                                                                                                                   | Read | Ye-tiao        |
+| For | Teou kiu-li                                                                                                                                                              | Read | T'eon-kiu-li   |
+| For | Linyi                                                                                                                                                                    | Read | Lin-yi         |
+| For | The word Hou means ‘barbarians’ in general. Up to the 5th century the indians were included among the barbarians by the chinese, but subsequently a distinction was made | Read |               |
+| For | Chan-tan                                                                                                                                                                 | Read | chan t'an      |
+| For | The more correct restoration of the name sanghapâla is Sanghabhara ( of.Bagehi-Le canon Bouddhique p.415)                                                                | Read |               |
+| For | Chenla                                                                                                                                                                   | Read | Chen-la        |
+| For | Tomu                                                                                                                                                                     | Read | Tö-mu          |
+| For | Çrutavarmanmula                                                                                                                                                          | Read | Çrutavarmamula |
+| For | Makong                                                                                                                                                                   | Read | Mekong         |
+| For | Souei-chou                                                                                                                                                               | Read | Souei-shu      |
+| For | Ye-cho-na-sien                                                                                                                                                           | Read | Ye-sho-na-sien |
+| For | Svai Chuo                                                                                                                                                                | Read | Svai Chno      |
 
 
 
-।     ।                                                                                                                             ।      ।                 ।
-|:---:|:---------------------------------------------------------------------------------------------------------------------------:|:----:|:---------------:।
-। For ।                                                          Dhatri                                                           । Read ।     Dhâtrin     ।
-। For ।                                                       Mahendravarman                                                        । Read ।   Jayavarman    ।
-। For ।                                                           Gambira                                                           । Read ।    Gambhîra     ।
-। For ।                                                            this                                                             । Read ।       his       ।
-। For ।                                                          Yavadviça                                                          । Read ।    Yavadvîpa    ।
-। For ।                                                         Permentier                                                          । Read ।   Parmentier    ।
-। For ।                                                        Kunjara Kunja                                                        । Read । Kuñjara Kuñja.  ।
-। For ।                                                         Viṣṇu-vala                                                          । Read ।   Viṣṇu-bala.   ।
-।    ।                                                           724-791                                                           । Read । (724-791 ç. e.) ।
-। For ।                                                            Kouen                                                            । Read ।     Koulen      ।
-। For ।                                                          Çiva-oma                                                           । Read ।    Çivasoma     ।
-। For ।                                                           Chhmar                                                            । Read ।     Chamar      ।
-। For । At the end of para. 1 add a footnote:—Barth, I. S. C. C., p. 354.At the end of line 27 add a foot-note: Barth I.S.C.C p.354 । Read ।                ।
-। For ।                                                           Yajnas                                                            । Read ।     Yajñas      ।
-। For ।                                                          Pâtanjali                                                          । Read ।    Patañjali    ।
-। For ।                             The more correct restoration of Phimeanakas should be Vimânokas.                              । Read ।                ।
-। For ।                                                           J'œnvre                                                           । Read ।     J'œuvre     ।
-। For ।                                                            hotar                                                            । Read ।     hotrin      ।
-। For ।                                                         Ranakesari                                                          । Read ।   Ranakeçari    ।
-। For ।                                                           kanâda                                                            । Read ।     Kaṇâda      ।
-। For ।                                                          dvisatam                                                           । Read ।    dviṣatam     ।
-। For ।                                                         Suvavarman                                                          । Read ।   sûryavarman   ।
-। For ।                                                          Song che                                                           । Read ।    Song-she     ।
-। For ।                                                           Râmânya                                                           । Read ।     Ramanya     ।
-। For ।                                                          Candaroei                                                          । Read ।    Caṇḍarcci    ।
-। For ।                                                           Bantel                                                            । Read ।     Bantei      ।
+|     |                                                                                                                             |      |                 |
+|:---:|:---------------------------------------------------------------------------------------------------------------------------:|:----:|:---------------:|
+| For |                                                          Dhatri                                                           | Read |     Dhâtrin     |
+| For |                                                       Mahendravarman                                                        | Read |   Jayavarman    |
+| For |                                                           Gambira                                                           | Read |    Gambhîra     |
+| For |                                                            this                                                             | Read |       his       |
+| For |                                                          Yavadviça                                                          | Read |    Yavadvîpa    |
+| For |                                                         Permentier                                                          | Read |   Parmentier    |
+| For |                                                        Kunjara Kunja                                                        | Read | Kuñjara Kuñja.  |
+| For |                                                         Viṣṇu-vala                                                          | Read |   Viṣṇu-bala.   |
+|    |                                                           724-791                                                           | Read | (724-791 ç. e.) |
+| For |                                                            Kouen                                                            | Read |     Koulen      |
+| For |                                                          Çiva-oma                                                           | Read |    Çivasoma     |
+| For |                                                           Chhmar                                                            | Read |     Chamar      |
+| For | At the end of para. 1 add a footnote:—Barth, I. S. C. C., p. 354.At the end of line 27 add a foot-note: Barth I.S.C.C p.354 | Read |                |
+| For |                                                           Yajnas                                                            | Read |     Yajñas      |
+| For |                                                          Pâtanjali                                                          | Read |    Patañjali    |
+| For |                             The more correct restoration of Phimeanakas should be Vimânokas.                              | Read |                |
+| For |                                                           J'œnvre                                                           | Read |     J'œuvre     |
+| For |                                                            hotar                                                            | Read |     hotrin      |
+| For |                                                         Ranakesari                                                          | Read |   Ranakeçari    |
+| For |                                                           kanâda                                                            | Read |     Kaṇâda      |
+| For |                                                          dvisatam                                                           | Read |    dviṣatam     |
+| For |                                                         Suvavarman                                                          | Read |   sûryavarman   |
+| For |                                                          Song che                                                           | Read |    Song-she     |
+| For |                                                           Râmânya                                                           | Read |     Ramanya     |
+| For |                                                          Candaroei                                                          | Read |    Caṇḍarcci    |
+| For |                                                           Bantel                                                            | Read |     Bantei      |
 
 
 
-।     ।                                                                                                                                                                                                                                                                                       ।      ।         ।
-।-----।---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------।------।---------।
-। For । On maturer consideration i give up the identification of Uddiyâna with Orissa                                                                                                                                                                                                         ।     ।        ।
-। For । Kambuja                                                                                                                                                                                                                                                                               । Read । Kamboja ।
-। For । It is interesting to note in this connection that Dr. Sunitikumar Chattrjee proposes to derive the name of the Koch tribes of the Tibeto-Chinese family from Kamboja. The kamboja Kings,who usurped part of Bengal,would therefore be the predecessors of the Koch kings of Kochbehar ।     ।        ।
-। For । Masporo                                                                                                                                                                                                                                                                               । Read । Maspéro ।
-। For । Iangua                                                                                                                                                                                                                                                                                । Read । Langue  ।
+|     |                                                                                                                                                                                                                                                                                       |      |         |
+|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|---------|
+| For | On maturer consideration i give up the identification of Uddiyâna with Orissa                                                                                                                                                                                                         |     |        |
+| For | Kambuja                                                                                                                                                                                                                                                                               | Read | Kamboja |
+| For | It is interesting to note in this connection that Dr. Sunitikumar Chattrjee proposes to derive the name of the Koch tribes of the Tibeto-Chinese family from Kamboja. The kamboja Kings,who usurped part of Bengal,would therefore be the predecessors of the Koch kings of Kochbehar |     |        |
+| For | Masporo                                                                                                                                                                                                                                                                               | Read | Maspéro |
+| For | Iangua                                                                                                                                                                                                                                                                                | Read | Langue  |
 
 **\_\_\_\_\_\_\_\_**
 

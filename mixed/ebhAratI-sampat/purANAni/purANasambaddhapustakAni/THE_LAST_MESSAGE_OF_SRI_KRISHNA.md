@@ -55,39 +55,39 @@ vata. The difficulty of the original **will, it is hoped,** be greatly overcome 
 
 **CHAPTER**
 
-।           ।                                                                          ।
-।-----------।--------------------------------------------------------------------------।
-। FOREWORD ।                                                                          ।
-। I         । INTRODUCTION: THE GODS PRAY FOR THE LORD'S RETURN.                       ।
-। II        । THE AVADHUTA AND HIS EIGHT TEACHERS.                                    ।
-। III       । NINE OTHER TEACHERS OF THE AVADHUTA.                                    ।
-। IV        । SEVEN MORE TEACHERS OF THE AVADHUTA.                                    ।
-। V         । THE REAL NATURE OF THE WORLD.                                           ।
-। VI        । SOULS BOUND AND FREE; CHARACTERISTICS OF A SAINT AND A DEVOTEE.         ।
-। VII       । THE EFFECT OF HOLY ASSOCIATIONS; THE TREE OF SAMSARA.                   ।
-। VIII      । KNOWLEDGE THROUGH THE DESTRUCTION OF GUNAS; THE LORD TEACHES AS A SWAN. ।
-। IX        । THE GLORY OF DEVOTION; DIRECTIONS ON MEDITATION.                        ।
-। X         । POWERS RESULTING FROM YOGA.                                             ।
-। XI        । DIVINE MANIFESTATIONS.                                                  ।
-। XII       । CASTES AND ORDERS OF LIFE.                                              ।
-। XIII      । FOREST LIFE AND MONASTICISM.                                            ।
-। XIV       । PRACTICE OF DEVOTION.                                                    ।
+|           |                                                                          |
+|-----------|--------------------------------------------------------------------------|
+| FOREWORD |                                                                          |
+| I         | INTRODUCTION: THE GODS PRAY FOR THE LORD'S RETURN.                       |
+| II        | THE AVADHUTA AND HIS EIGHT TEACHERS.                                    |
+| III       | NINE OTHER TEACHERS OF THE AVADHUTA.                                    |
+| IV        | SEVEN MORE TEACHERS OF THE AVADHUTA.                                    |
+| V         | THE REAL NATURE OF THE WORLD.                                           |
+| VI        | SOULS BOUND AND FREE; CHARACTERISTICS OF A SAINT AND A DEVOTEE.         |
+| VII       | THE EFFECT OF HOLY ASSOCIATIONS; THE TREE OF SAMSARA.                   |
+| VIII      | KNOWLEDGE THROUGH THE DESTRUCTION OF GUNAS; THE LORD TEACHES AS A SWAN. |
+| IX        | THE GLORY OF DEVOTION; DIRECTIONS ON MEDITATION.                        |
+| X         | POWERS RESULTING FROM YOGA.                                             |
+| XI        | DIVINE MANIFESTATIONS.                                                  |
+| XII       | CASTES AND ORDERS OF LIFE.                                              |
+| XIII      | FOREST LIFE AND MONASTICISM.                                            |
+| XIV       | PRACTICE OF DEVOTION.                                                    |
 
 
 
-।       ।                                                                                       ।
-|:-----:।---------------------------------------------------------------------------------------।
-।  XV   । JNANA-YOGA, KARMA-YOGA AND BHAKTI-YOGA.                                              ।
-।  XVI  । MERITS AND DEFECTS WITH REGARD TO PLACE, TIME, ETC.                                  ।
-। XVII  । CATEGORIES: THEIR NUMBER; DISTINCTION BETWEEN PURUSHA AND PRAKRITI; LIFE AFTER DEATH. ।
-। XVIII । HOW TO BE ABOVE INSULT, ILLUSTRATED BY THE STORY OF A MENDICANT.                     ।
-।  XIX  । THE SANKHYA SYSTEM.                                                                  ।
-।  XX   । THREE GUNAS: THEIR EFFECTS.                                                          ।
-।  XXI  । RESULTS OF OF EVIL EVIL ASSOCIATION: THE STORY OF EMPEROR PURURAVAS.                  ।
-। XXII  । METHODS OF WORSHIP.                                                                  ।
-। XXIII । THE CAUSE OF DELUSION.                                                               ।
-। XXIV  । AN EASY WAY TO SELF-REALISATION.                                                     ।
-।      । INDEX                                                                                 ।
+|       |                                                                                       |
+|:-----:|---------------------------------------------------------------------------------------|
+|  XV   | JNANA-YOGA, KARMA-YOGA AND BHAKTI-YOGA.                                              |
+|  XVI  | MERITS AND DEFECTS WITH REGARD TO PLACE, TIME, ETC.                                  |
+| XVII  | CATEGORIES: THEIR NUMBER; DISTINCTION BETWEEN PURUSHA AND PRAKRITI; LIFE AFTER DEATH. |
+| XVIII | HOW TO BE ABOVE INSULT, ILLUSTRATED BY THE STORY OF A MENDICANT.                     |
+|  XIX  | THE SANKHYA SYSTEM.                                                                  |
+|  XX   | THREE GUNAS: THEIR EFFECTS.                                                          |
+|  XXI  | RESULTS OF OF EVIL EVIL ASSOCIATION: THE STORY OF EMPEROR PURURAVAS.                  |
+| XXII  | METHODS OF WORSHIP.                                                                  |
+| XXIII | THE CAUSE OF DELUSION.                                                               |
+| XXIV  | AN EASY WAY TO SELF-REALISATION.                                                     |
+|      | INDEX                                                                                 |
 
 
 
