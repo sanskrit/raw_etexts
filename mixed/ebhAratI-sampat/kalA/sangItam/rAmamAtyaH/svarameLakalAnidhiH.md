@@ -1,16 +1,15 @@
 +++
-TITLE = "स्वरमेळकलानिधिः"
-AUTHOR = "राममात्यः"
-"PUBLISH YEAR" = "१९३२"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "132"
-LANGUAGE = "संस्कृतम्/आङ्ग्लम्"
-TRANSLATOR = "रामस्वामि-अय्यर्"
-EDITOR = "रामस्वामि अय्यर्"
-"SERIAL NO." = "Ebharati-4700"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA0MzgzOTMzMjgxMTU0&pageno=MjI0MjQyNjk5NTk="
 title = "स्वरमेळकलानिधिः"
+author = "राममात्यः"
+"publish year" = "१९३२"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "132"
+language = "संस्कृतम्/आङ्ग्लम्"
+translator = "रामस्वामि-अय्यर्"
+editor = "रामस्वामि अय्यर्"
+"serial no." = "Ebharati-4700"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA0MzgzOTMzMjgxMTU0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्वरमेळकलानिधिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA0MzgzOTMzMjgxMTU0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3223,19 +3222,6 @@ anymixture,ofthefifteen*middling*ones,as well as of the *inferior* ones.
   62. That Râga is called *Ghantârava*, which is Shâdava, for,it leaves *Ga*; which has *Dha* for its Graha, Amsa, and Nyâsa;and which is sung at all times.  
   63. That Râga is called *Bhinnashadja*, which is Shâdava,for it leaves *Ma*; which has *Sa* for its Graha and Nyâsa; andwhich is sung at all times.
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,18 +1,17 @@
 +++
-TITLE = "पातञ्जलयोगसूत्रम्"
-AUTHOR = "पतञ्जलिः"
-"PUBLISH YEAR" = "1986"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "153"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "T K V देशिकाचार्"
-EDITOR = "T K V देशिकाचार्"
-"PRIMARY COMMENTATOR" = "T K V देशिकाचार्"
-PRINTER = "East West Press Private Ltd"
-"SERIAL NO." = "Ebharati-1607"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUxMjc1MTY5NTYyNDUx&pageno=MjI0MjQyNjk5NTk="
 title = "पातञ्जलयोगसूत्रम्"
+author = "पतञ्जलिः"
+"publish year" = "1986"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "153"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "T K V देशिकाचार्"
+editor = "T K V देशिकाचार्"
+"primary commentator" = "T K V देशिकाचार्"
+printer = "East West Press Private Ltd"
+"serial no." = "Ebharati-1607"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUxMjc1MTY5NTYyNDUx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पातञ्जलयोगसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDUxMjc1MTY5NTYyNDUx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4122,8 +4121,5 @@ It is serenity in action as well as in inaction. There is no sense of obligation
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

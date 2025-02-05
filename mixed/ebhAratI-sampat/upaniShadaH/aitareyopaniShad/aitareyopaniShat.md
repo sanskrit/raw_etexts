@@ -1,17 +1,16 @@
 +++
-TITLE = "ऐतरेयोपनिषत्"
-AUTHOR = "."
-PUBLISHER = "."
-"PUBLISH YEAR" = "1898"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "ऐतरेयोपनिषद्"
-PAGES = "130"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "आनन्दाश्रमपण्डितः"
-PRINTER = "आनन्दाश्रममुद्रणालयः"
-"SERIAL NO." = "Ebharati-7975"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0NTEzMzMwMDc1NTY3&pageno=MjI0MjQyNjk5NTk="
 title = "ऐतरेयोपनिषत्"
+author = "."
+publisher = "."
+"publish year" = "1898"
+domain = "उपनिषदः"
+sub-domain = "ऐतरेयोपनिषद्"
+pages = "130"
+language = "संस्कृतम्"
+editor = "आनन्दाश्रमपण्डितः"
+printer = "आनन्दाश्रममुद्रणालयः"
+"serial no." = "Ebharati-7975"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0NTEzMzMwMDc1NTY3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ऐतरेयोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU0NTEzMzMwMDc1NTY3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1954,8 +1953,5 @@ title = "ऐतरेयोपनिषत्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,15 +1,14 @@
 +++
-TITLE = "संस्कृतशिक्षा"
-AUTHOR = "जगन्मोहनतर्कालङ्कारः"
-PUBLISHER = "गोपालचन्द्रमुखोपाध्यायः"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "116"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "पूराणप्रकाश-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7044"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY1MDI2MTM1NzkxNjc2&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृतशिक्षा"
+author = "जगन्मोहनतर्कालङ्कारः"
+publisher = "गोपालचन्द्रमुखोपाध्यायः"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "116"
+language = "संस्कृतम्"
+printer = "पूराणप्रकाश-यन्त्रालयः"
+"serial no." = "Ebharati-7044"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY1MDI2MTM1NzkxNjc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृतशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY1MDI2MTM1NzkxNjc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2046,19 +2045,6 @@ title = "संस्कृतशिक्षा"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

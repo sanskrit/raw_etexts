@@ -1,13 +1,12 @@
 +++
-TITLE = "चिन्त्यागमः"
-PUBLISHER = "MAHARISHI UNIVERSITY"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "स्थापत्यवेदः"
-PAGES = "287"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4626"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxNDQ0NzE2ODcwNDQ0&pageno=MjI0MjQyNjk5NTk="
 title = "चिन्त्यागमः"
+publisher = "MAHARISHI UNIVERSITY"
+domain = "उपवेदाः"
+sub-domain = "स्थापत्यवेदः"
+pages = "287"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4626"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxNDQ0NzE2ODcwNDQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चिन्त्यागमः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjcxNDQ0NzE2ODcwNDQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -14764,8 +14763,5 @@ Muktabodha Indological Research Institute: The Catalogue and On-Line Digital Lib
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,19 +1,18 @@
 +++
-TITLE = "कुमारसम्भवः (तृतीयः सम्पुटः)"
-AUTHOR = "कालिदासः"
-PUBLISHER = "गवर्नमेण्ट्-आफ्-ट्रवण्कोर्"
-"PUBLISH YEAR" = "1914"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "349"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "त. गणपति-शास्त्री"
-"PRIMARY COMMENTATOR" = "अरुणगिरिनाथः नारायणपण्डितः"
-"COMMENTARY NAME" = "कुमारसम्भवः"
-PRINTER = "राजकीय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7723"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAxNTIyMDg5ODczMTQ3&pageno=MjI0MjQyNjk5NTk="
 title = "कुमारसम्भवः (तृतीयः सम्पुटः)"
+author = "कालिदासः"
+publisher = "गवर्नमेण्ट्-आफ्-ट्रवण्कोर्"
+"publish year" = "1914"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "349"
+language = "संस्कृतम्"
+editor = "त. गणपति-शास्त्री"
+"primary commentator" = "अरुणगिरिनाथः नारायणपण्डितः"
+"commentary name" = "कुमारसम्भवः"
+printer = "राजकीय-मुद्रणालयः"
+"serial no." = "Ebharati-7723"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAxNTIyMDg5ODczMTQ3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कुमारसम्भवः (तृतीयः सम्पुटः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjAxNTIyMDg5ODczMTQ3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6301,8 +6300,5 @@ ALL Rights Reserved.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

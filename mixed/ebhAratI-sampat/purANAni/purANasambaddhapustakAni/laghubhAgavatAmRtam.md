@@ -1,12 +1,11 @@
 +++
-TITLE = "लघुभागवतामृतम्"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "पुराणसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4192"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDIwMzMyODQyNjE0MjA0"
 title = "लघुभागवतामृतम्"
+domain = "पुराणानि"
+sub-domain = "पुराणसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4192"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDIwMzMyODQyNjE0MjA0"
 
 +++
 [[लघुभागवतामृतम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDIwMzMyODQyNjE0MjA0)]]

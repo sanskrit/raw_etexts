@@ -1,14 +1,13 @@
 +++
-TITLE = "पूर्णप्रज्ञनाटकम्"
-AUTHOR = "व्यासरायशास्त्री"
-"PUBLISH YEAR" = "2006"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2867"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4MzIwNzIyMTIyNTcy&pageno=MjI0MjQyNjk5NTk="
 title = "पूर्णप्रज्ञनाटकम्"
+author = "व्यासरायशास्त्री"
+"publish year" = "2006"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2867"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4MzIwNzIyMTIyNTcy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पूर्णप्रज्ञनाटकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDc4MzIwNzIyMTIyNTcy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1006,19 +1005,6 @@ FN:(87)अयं नः प्रणामः।
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
         
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

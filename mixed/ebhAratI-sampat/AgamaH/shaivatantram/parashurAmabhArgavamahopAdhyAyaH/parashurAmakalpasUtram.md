@@ -1,13 +1,12 @@
 +++
-TITLE = "परशुरामकल्पसूत्रम्"
-AUTHOR = "परशुरामभार्गवमहोपाध्यायः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4018"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk1MTUwMjA5MjE3NTgz&pageno=MjI0MjQyNjk5NTk="
 title = "परशुरामकल्पसूत्रम्"
+author = "परशुरामभार्गवमहोपाध्यायः"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4018"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk1MTUwMjA5MjE3NTgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[परशुरामकल्पसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk1MTUwMjA5MjE3NTgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -856,19 +855,6 @@ title = "परशुरामकल्पसूत्रम्"
 इति श्रीदुष्टक्षत्रियकुलकालान्तकरेणुकागर्भसम्भूतमहादेवप्रधानशिष्यजामदग्न्यश्रीपरशुरामभार्गवमहोपाध्यायमहाकुलाचार्यनिर्मितं कल्पसूत्रं संपूर्णम् ॥ १०.८५ ॥
 
 -------------------------------------------------------------------
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

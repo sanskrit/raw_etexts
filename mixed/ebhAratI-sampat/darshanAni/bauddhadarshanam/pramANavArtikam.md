@@ -1,12 +1,11 @@
 +++
-TITLE = "प्रमाणवार्तिकम्"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3763"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg5MzMyMDY4MzMyMTYz"
 title = "प्रमाणवार्तिकम्"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3763"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg5MzMyMDY4MzMyMTYz"
 
 +++
 [[प्रमाणवार्तिकम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=Njg5MzMyMDY4MzMyMTYz)]]

@@ -1,16 +1,15 @@
 +++
-TITLE = "शाक्त्त-उपनिषदः"
-PUBLISHER = "अडयार्-पुस्तकालयः"
-"PUBLISH YEAR" = "1950"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "अन्याः उपनिषदः"
-PAGES = "144"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "अ.महादेव शास्त्री"
-"PRIMARY COMMENTATOR" = "उपनिषद्ब्रह्मयोगि"
-"SERIAL NO." = "Ebharati-7233"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIzODM0MTI4MDQzNDk2&pageno=MjI0MjQyNjk5NTk="
 title = "शाक्त्त-उपनिषदः"
+publisher = "अडयार्-पुस्तकालयः"
+"publish year" = "1950"
+domain = "उपनिषदः"
+sub-domain = "अन्याः उपनिषदः"
+pages = "144"
+language = "संस्कृतम्"
+editor = "अ.महादेव शास्त्री"
+"primary commentator" = "उपनिषद्ब्रह्मयोगि"
+"serial no." = "Ebharati-7233"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIzODM0MTI4MDQzNDk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शाक्त्त-उपनिषदः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjIzODM0MTI4MDQzNDk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2715,8 +2714,5 @@ THE materials on which is based this edition of the S'ĀKTA-UPANIṢADS comprise
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

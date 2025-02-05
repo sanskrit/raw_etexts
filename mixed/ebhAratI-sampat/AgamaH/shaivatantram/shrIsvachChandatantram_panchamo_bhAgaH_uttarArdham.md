@@ -1,17 +1,16 @@
 +++
-TITLE = "श्रीस्वच्छन्दतन्त्रम् (पञ्चमो भागः) (उत्तरार्धम्)"
-PUBLISHER = "मधुसूदनकौल-शास्त्री"
-"PUBLISH YEAR" = "1933"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-PAGES = "284"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मधुसूदनकौल-शास्त्री"
-"PRIMARY COMMENTATOR" = "क्षेमराजः"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7576"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwOTg1MjM1NzYyNzI3&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीस्वच्छन्दतन्त्रम् (पञ्चमो भागः) (उत्तरार्धम्)"
+publisher = "मधुसूदनकौल-शास्त्री"
+"publish year" = "1933"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+pages = "284"
+language = "संस्कृतम्"
+editor = "मधुसूदनकौल-शास्त्री"
+"primary commentator" = "क्षेमराजः"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-7576"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwOTg1MjM1NzYyNzI3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीस्वच्छन्दतन्त्रम् (पञ्चमो भागः) (उत्तरार्धम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjcwOTg1MjM1NzYyNzI3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6727,8 +6726,5 @@ Jammu and Kashmir Government, SRINAGAR,**
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

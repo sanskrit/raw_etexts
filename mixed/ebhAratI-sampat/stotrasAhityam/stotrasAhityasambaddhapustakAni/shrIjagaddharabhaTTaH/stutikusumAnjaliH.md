@@ -1,18 +1,17 @@
 +++
-TITLE = "स्तुतिकुसुमाञ्जलिः"
-AUTHOR = "श्रीजगद्धरभट्टः"
-PUBLISHER = "केशवदत्त-त्रिपाठी"
-"PUBLISH YEAR" = "1938"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "829"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "प्रेमवल्लभ-त्रिपाठी-शास्त्री"
-"COMMENTARY NAME" = "प्रेममकरन्दः"
-PRINTER = "अपूर्वकृष्णवसुः इण्डियन-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7137"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE4NTYxMjgxNTIxNTg2&pageno=MjI0MjQyNjk5NTk="
 title = "स्तुतिकुसुमाञ्जलिः"
+author = "श्रीजगद्धरभट्टः"
+publisher = "केशवदत्त-त्रिपाठी"
+"publish year" = "1938"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "829"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "प्रेमवल्लभ-त्रिपाठी-शास्त्री"
+"commentary name" = "प्रेममकरन्दः"
+printer = "अपूर्वकृष्णवसुः इण्डियन-यन्त्रालयः"
+"serial no." = "Ebharati-7137"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE4NTYxMjgxNTIxNTg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्तुतिकुसुमाञ्जलिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDE4NTYxMjgxNTIxNTg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -14547,19 +14546,6 @@ X    X    X    X**
 
 **——:०ः——**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

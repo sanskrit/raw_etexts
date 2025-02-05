@@ -1,12 +1,11 @@
 +++
-TITLE = "जाबालोपनिषद् अथर्ववेदीया"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4283"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI0MzkyNjA5MTUxMTE0&pageno=MjI0MjQyNjk5NTk="
 title = "जाबालोपनिषद् अथर्ववेदीया"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4283"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI0MzkyNjA5MTUxMTE0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जाबालोपनिषद् अथर्ववेदीया	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjI0MzkyNjA5MTUxMTE0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -217,8 +216,5 @@ title = "जाबालोपनिषद् अथर्ववेदीया"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

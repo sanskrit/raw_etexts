@@ -1,14 +1,13 @@
 +++
-TITLE = "SCHOOL DIALOGUES"
-"PUBLISH YEAR" = "1865"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "35"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "ज्वाइंट-स्टॅाक-प्रेस-बम्बई"
-"SERIAL NO." = "Ebharati-7006"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM1ODA0NDc2OTQ1Mjc2&pageno=MjI0MjQyNjk5NTk="
 title = "SCHOOL DIALOGUES"
+"publish year" = "1865"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "35"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "ज्वाइंट-स्टॅाक-प्रेस-बम्बई"
+"serial no." = "Ebharati-7006"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM1ODA0NDc2OTQ1Mjc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[SCHOOL DIALOGUES	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjM1ODA0NDc2OTQ1Mjc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -977,8 +976,5 @@ LESSON VI.
 
 **———————**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

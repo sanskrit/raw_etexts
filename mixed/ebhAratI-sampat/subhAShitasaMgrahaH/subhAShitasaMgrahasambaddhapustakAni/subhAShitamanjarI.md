@@ -1,15 +1,14 @@
 +++
-TITLE = "सुभाषितमञ्जरी"
-PUBLISHER = "शान्तिलाल-जैन्"
-DOMAIN = "सुभाषितसंग्रहः"
-SUB-DOMAIN = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
-PAGES = "197"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "पन्नालालः"
-EDITOR = "अजितसागरः"
-"SERIAL NO." = "Ebharati-7190"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgxNDEwMzg5MjEyMDk2&pageno=MjI0MjQyNjk5NTk="
 title = "सुभाषितमञ्जरी"
+publisher = "शान्तिलाल-जैन्"
+domain = "सुभाषितसंग्रहः"
+sub-domain = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
+pages = "197"
+language = "संस्कृतम् हिन्दी"
+translator = "पन्नालालः"
+editor = "अजितसागरः"
+"serial no." = "Ebharati-7190"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgxNDEwMzg5MjEyMDk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुभाषितमञ्जरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDgxNDEwMzg5MjEyMDk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4647,8 +4646,5 @@ title = "सुभाषितमञ्जरी"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

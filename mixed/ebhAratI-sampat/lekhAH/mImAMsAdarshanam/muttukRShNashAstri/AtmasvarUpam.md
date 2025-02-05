@@ -1,13 +1,12 @@
 +++
-TITLE = "आत्मस्वरूपम्"
-AUTHOR = "मुत्तुकृष्णशास्त्रि"
-DOMAIN = "लेखाः"
-SUB-DOMAIN = "मीमांसादर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2556"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM2MDM2NTkzNjYzNTQy&pageno=MjI0MjQyNjk5NTk="
 title = "आत्मस्वरूपम्"
+author = "मुत्तुकृष्णशास्त्रि"
+domain = "लेखाः"
+sub-domain = "मीमांसादर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2556"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM2MDM2NTkzNjYzNTQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आत्मस्वरूपम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjM2MDM2NTkzNjYzNTQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -227,19 +226,6 @@ Sri R.M.
   
   
     
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

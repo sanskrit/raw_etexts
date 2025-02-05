@@ -1,16 +1,15 @@
 +++
-TITLE = "रागतरंगिणी"
-AUTHOR = "लोचनपण्डितः"
-PUBLISHER = "भालचन्द्र-सीताराम-सुकथनकरः"
-"PUBLISH YEAR" = "१९१८"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "22"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "आर्यभूषणाख्यमुद्रालयः"
-"SERIAL NO." = "Ebharati-4670"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3MDExMjU0MjAzODQ0&pageno=MjI0MjQyNjk5NTk="
 title = "रागतरंगिणी"
+author = "लोचनपण्डितः"
+publisher = "भालचन्द्र-सीताराम-सुकथनकरः"
+"publish year" = "१९१८"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "22"
+language = "संस्कृतम्"
+printer = "आर्यभूषणाख्यमुद्रालयः"
+"serial no." = "Ebharati-4670"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3MDExMjU0MjAzODQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रागतरंगिणी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3MDExMjU0MjAzODQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -655,19 +654,6 @@ X        X        X        X
 |     १० पूर्वा      |                                                                                                                     ( १) पूर्वा.                                                                                                                      |
 |     ११ मुखारी      |                                                                                                                     ( १) मुखारी.                                                                                                                      |
 |      १२ दीपकः      |                                                                                                                      ( १) दीपकः.                                                                                                                      |
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

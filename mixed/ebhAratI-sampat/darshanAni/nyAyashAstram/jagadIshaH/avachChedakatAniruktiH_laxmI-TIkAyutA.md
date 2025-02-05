@@ -1,19 +1,18 @@
 +++
-TITLE = "अवच्छेदकतानिरुक्तिः (लक्ष्मी-टीकायुता)"
-AUTHOR = "जगदीशः"
-PUBLISHER = "दत्त्तात्रेयशास्त्री"
-"PUBLISH YEAR" = "१९६८"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-PAGES = "154"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "धर्मानन्दः"
-"PRIMARY COMMENTATOR" = "दत्तात्रेयशास्त्री-ओगले"
-"COMMENTARY NAME" = "लक्ष्मी-टीका"
-PRINTER = "गीताधर्म-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1695"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkyNTA5MDM2MzE3MjYx&pageno=MjI0MjQyNjk5NTk="
 title = "अवच्छेदकतानिरुक्तिः (लक्ष्मी-टीकायुता)"
+author = "जगदीशः"
+publisher = "दत्त्तात्रेयशास्त्री"
+"publish year" = "१९६८"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+pages = "154"
+language = "संस्कृतम्"
+editor = "धर्मानन्दः"
+"primary commentator" = "दत्तात्रेयशास्त्री-ओगले"
+"commentary name" = "लक्ष्मी-टीका"
+printer = "गीताधर्म-मुद्रणालयः"
+"serial no." = "Ebharati-1695"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkyNTA5MDM2MzE3MjYx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अवच्छेदकतानिरुक्तिः (लक्ष्मी-टीकायुता)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDkyNTA5MDM2MzE3MjYx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -927,19 +926,6 @@ t ainadine
 
 ----------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,17 +1,16 @@
 +++
-TITLE = "प्रकृतिसौन्दर्यम्"
-AUTHOR = "मेधाव्रतकविरत्नः"
-PUBLISHER = "सत्यव्रतः"
-"PUBLISH YEAR" = "1934"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "141"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "श्रृतबन्धुशास्त्री"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5632"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MDIzNzM4MDU2MDQ1&pageno=MjI0MjQyNjk5NTk="
 title = "प्रकृतिसौन्दर्यम्"
+author = "मेधाव्रतकविरत्नः"
+publisher = "सत्यव्रतः"
+"publish year" = "1934"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "141"
+language = "संस्कृतम् हिन्दी"
+translator = "श्रृतबन्धुशास्त्री"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-5632"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MDIzNzM4MDU2MDQ1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रकृतिसौन्दर्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MDIzNzM4MDU2MDQ1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4546,19 +4545,6 @@ title = "प्रकृतिसौन्दर्यम्"
 
 **कविरत्नंमेधाव्रताचार्यः।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,18 +1,17 @@
 +++
-TITLE = "पाटीगणितम्  टीकासनाथीकृतम्"
-AUTHOR = "श्रीधराचार्यः"
-PUBLISHER = "लखनऊ-विश्वविद्यालयः"
-"PUBLISH YEAR" = "१९५९"
-DOMAIN = "भारतीयविज्ञानम्"
-SUB-DOMAIN = "वेदगणितम्"
-PAGES = "333"
-LANGUAGE = "संस्कृतम्"
-TRANSLATOR = "कृपाशङ्करशुक्लः"
-EDITOR = "कृपाशङ्करशुक्लः"
-PRINTER = "The Fine Press"
-"SERIAL NO." = "Ebharati-3333"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI1Mjk5NTc0NTU5OTEz&pageno=MjI0MjQyNjk5NTk="
 title = "पाटीगणितम्  टीकासनाथीकृतम्"
+author = "श्रीधराचार्यः"
+publisher = "लखनऊ-विश्वविद्यालयः"
+"publish year" = "१९५९"
+domain = "भारतीयविज्ञानम्"
+sub-domain = "वेदगणितम्"
+pages = "333"
+language = "संस्कृतम्"
+translator = "कृपाशङ्करशुक्लः"
+editor = "कृपाशङ्करशुक्लः"
+printer = "The Fine Press"
+"serial no." = "Ebharati-3333"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI1Mjk5NTc0NTU5OTEz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पाटीगणितम्  टीकासनाथीकृतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjI1Mjk5NTc0NTU5OTEz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8249,19 +8248,6 @@ ANSWERS
 
 ----------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

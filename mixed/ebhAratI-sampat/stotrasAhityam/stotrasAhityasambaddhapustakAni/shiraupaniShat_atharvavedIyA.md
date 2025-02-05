@@ -1,12 +1,11 @@
 +++
-TITLE = "शिरौपनिषत् अथर्ववेदीया"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4254"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgxMzYyNTEwODYzODA0&pageno=MjI0MjQyNjk5NTk="
 title = "शिरौपनिषत् अथर्ववेदीया"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4254"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgxMzYyNTEwODYzODA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शिरौपनिषत् अथर्ववेदीया	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODgxMzYyNTEwODYzODA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -129,8 +128,5 @@ title = "शिरौपनिषत् अथर्ववेदीया"
 
 **-------------------------------------------**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

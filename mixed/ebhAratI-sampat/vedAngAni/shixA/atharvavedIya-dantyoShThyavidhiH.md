@@ -1,12 +1,11 @@
 +++
-TITLE = "अथर्ववेदीय-दन्त्योष्ठ्यविधिः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3920"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQyNDkyMDcyNTAzNjcz"
 title = "अथर्ववेदीय-दन्त्योष्ठ्यविधिः"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3920"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQyNDkyMDcyNTAzNjcz"
 
 +++
 [[अथर्ववेदीय-दन्त्योष्ठ्यविधिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDQyNDkyMDcyNTAzNjcz)]]

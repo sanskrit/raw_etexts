@@ -1,18 +1,17 @@
 +++
-TITLE = "धनुर्वेदसंहिता"
-AUTHOR = "वसिष्ठमहर्षिः"
-PUBLISHER = "क्षेमराज-श्रीकृष्णदास-श्रेष्ठी"
-"PUBLISH YEAR" = "सं. १९५८"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "धनुर्वेदः"
-PAGES = "114"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "हरदयालुः"
-"COMMENTARY NAME" = "भाषाटीका"
-PRINTER = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-4703"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2MDExODIzMDc0MTU0&pageno=MjI0MjQyNjk5NTk="
 title = "धनुर्वेदसंहिता"
+author = "वसिष्ठमहर्षिः"
+publisher = "क्षेमराज-श्रीकृष्णदास-श्रेष्ठी"
+"publish year" = "सं. १९५८"
+domain = "उपवेदाः"
+sub-domain = "धनुर्वेदः"
+pages = "114"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "हरदयालुः"
+"commentary name" = "भाषाटीका"
+printer = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-4703"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2MDExODIzMDc0MTU0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[धनुर्वेदसंहिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjY2MDExODIzMDc0MTU0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1930,19 +1929,6 @@ title = "धनुर्वेदसंहिता"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

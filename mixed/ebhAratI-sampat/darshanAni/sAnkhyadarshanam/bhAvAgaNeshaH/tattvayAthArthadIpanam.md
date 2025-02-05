@@ -1,13 +1,12 @@
 +++
-TITLE = "तत्त्वयाथार्थदीपनम्"
-AUTHOR = "भावागणेशः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "साङ्ख्यदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3909"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk1NzI2MTEzOTQyNTcz&pageno=MjI0MjQyNjk5NTk="
 title = "तत्त्वयाथार्थदीपनम्"
+author = "भावागणेशः"
+domain = "दर्शनानि"
+sub-domain = "साङ्ख्यदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3909"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk1NzI2MTEzOTQyNTcz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तत्त्वयाथार्थदीपनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODk1NzI2MTEzOTQyNTcz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -704,19 +703,6 @@ title = "तत्त्वयाथार्थदीपनम्"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

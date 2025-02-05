@@ -1,17 +1,16 @@
 +++
-TITLE = "कीर्तिकौमुदी"
-AUTHOR = "सोमेश्वरदेवः"
-PUBLISHER = "गवर्नमेण्ट्-सेन्ट्रल्-बुक्-डिपो"
-"PUBLISH YEAR" = "1883"
-DOMAIN = "आधुनिकसाहित्यम्"
-SUB-DOMAIN = "आधुनिकसाहित्यम्"
-PAGES = "168"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "आबाजीविष्णुः"
-PRINTER = "एज्युकेशनल्-सोसैटी-प्रेस्"
-"SERIAL NO." = "Ebharati-6178"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjExMzg2NTg3NDYwMzk1&pageno=MjI0MjQyNjk5NTk="
 title = "कीर्तिकौमुदी"
+author = "सोमेश्वरदेवः"
+publisher = "गवर्नमेण्ट्-सेन्ट्रल्-बुक्-डिपो"
+"publish year" = "1883"
+domain = "आधुनिकसाहित्यम्"
+sub-domain = "आधुनिकसाहित्यम्"
+pages = "168"
+language = "संस्कृतम्"
+editor = "आबाजीविष्णुः"
+printer = "एज्युकेशनल्-सोसैटी-प्रेस्"
+"serial no." = "Ebharati-6178"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjExMzg2NTg3NDYwMzk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कीर्तिकौमुदी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjExMzg2NTg3NDYwMzk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4084,8 +4083,5 @@ ERRATA
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,13 +1,12 @@
 +++
-TITLE = "नाटकचन्द्रिका"
-AUTHOR = "रुपगोस्वामिः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2748"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU2NTcxNDc2Nzk3MzYy&pageno=MjI0MjQyNjk5NTk="
 title = "नाटकचन्द्रिका"
+author = "रुपगोस्वामिः"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2748"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU2NTcxNDc2Nzk3MzYy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नाटकचन्द्रिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjU2NTcxNDc2Nzk3MzYy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5931,19 +5930,6 @@ title = "नाटकचन्द्रिका"
 
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

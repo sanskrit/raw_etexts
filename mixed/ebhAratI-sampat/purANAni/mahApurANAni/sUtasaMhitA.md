@@ -1,17 +1,16 @@
 +++
-TITLE = "सूतसंहिता"
-PUBLISHER = "श्रीबालमनोरमा-यन्त्रालयः"
-"PUBLISH YEAR" = "1945"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "1091"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "विद्यारण्यः"
-"COMMENTARY NAME" = "तात्पर्यदीपिका"
-PRINTER = "श्रीबालमनोरमा-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6448"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwNzMxMTc3Mzg5ODE2&pageno=MjI0MjQyNjk5NTk="
 title = "सूतसंहिता"
+publisher = "श्रीबालमनोरमा-यन्त्रालयः"
+"publish year" = "1945"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "1091"
+language = "संस्कृतम्"
+"primary commentator" = "विद्यारण्यः"
+"commentary name" = "तात्पर्यदीपिका"
+printer = "श्रीबालमनोरमा-यन्त्रालयः"
+"serial no." = "Ebharati-6448"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwNzMxMTc3Mzg5ODE2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सूतसंहिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjUwNzMxMTc3Mzg5ODE2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -24186,8 +24185,5 @@ All Rights Reserved.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

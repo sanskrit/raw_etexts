@@ -1,12 +1,11 @@
 +++
-TITLE = "कात्यायनशिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3546"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE0ODI2NTc2MjA0MDQz&pageno=MjI0MjQyNjk5NTk="
 title = "कात्यायनशिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3546"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE0ODI2NTc2MjA0MDQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कात्यायनशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE0ODI2NTc2MjA0MDQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -47,8 +46,5 @@ title = "कात्यायनशिक्षा"
 उक्तं वा नीचहीनं चेत्पितृश्रवणं तद्भवेत् १३  
        इति महर्षिकात्यायनप्रणीता शिक्षा समाप्ता
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

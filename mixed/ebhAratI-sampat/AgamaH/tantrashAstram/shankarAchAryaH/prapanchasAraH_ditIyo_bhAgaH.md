@@ -1,14 +1,13 @@
 +++
-TITLE = "प्रपञ्चसारः (दितीयो भागः)"
-AUTHOR = "शङ्कराचार्यः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "284"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीवाणिविलासमुद्रणालयम् श्रीरङ्गम्"
-"SERIAL NO." = "Ebharati-8600"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY1NTI4&pageno=MjI0MjQyNjk5NTk="
 title = "प्रपञ्चसारः (दितीयो भागः)"
+author = "शङ्कराचार्यः"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "284"
+language = "संस्कृतम्"
+printer = "श्रीवाणिविलासमुद्रणालयम् श्रीरङ्गम्"
+"serial no." = "Ebharati-8600"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY1NTI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रपञ्चसारः (दितीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY1NTI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4765,8 +4764,5 @@ title = "प्रपञ्चसारः (दितीयो भागः)"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

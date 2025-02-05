@@ -1,12 +1,11 @@
 +++
-TITLE = "नारदीयबैण्मूलम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3564"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAwMjk5NzA2MDMxMjQz&pageno=MjI0MjQyNjk5NTk="
 title = "नारदीयबैण्मूलम्"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3564"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAwMjk5NzA2MDMxMjQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नारदीयबैण्मूलम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODAwMjk5NzA2MDMxMjQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -40,8 +39,5 @@ Naradabaith
               नारदबैण्मूलं संपूर्णम्  
               श्रीभक्तवत्सलपरब्रह्मणे नमः
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

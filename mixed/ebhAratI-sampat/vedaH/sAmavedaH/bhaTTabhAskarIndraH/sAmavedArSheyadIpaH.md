@@ -1,13 +1,12 @@
 +++
-TITLE = "सामवेदार्षेयदीपः"
-AUTHOR = "भट्टभास्करीन्द्रः"
-DOMAIN = "वेदः"
-SUB-DOMAIN = "सामवेदः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3588"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMxMDE4NzE1NDM0NDQz"
 title = "सामवेदार्षेयदीपः"
+author = "भट्टभास्करीन्द्रः"
+domain = "वेदः"
+sub-domain = "सामवेदः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3588"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMxMDE4NzE1NDM0NDQz"
 
 +++
 [[सामवेदार्षेयदीपः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjMxMDE4NzE1NDM0NDQz)]]

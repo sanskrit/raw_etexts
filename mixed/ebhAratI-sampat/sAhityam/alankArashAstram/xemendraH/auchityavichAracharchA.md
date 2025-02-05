@@ -1,14 +1,13 @@
 +++
-TITLE = "औचित्यविचारचर्चा"
-AUTHOR = "क्षेमेन्द्रः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"PRIMARY COMMENTATOR" = "डॉ. रमाशङ्कर त्रिपाठी"
-"SERIAL NO." = "Ebharati-2624"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIzNTExMDQxNDk4MTUy&pageno=MjI0MjQyNjk5NTk="
 title = "औचित्यविचारचर्चा"
+author = "क्षेमेन्द्रः"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"primary commentator" = "डॉ. रमाशङ्कर त्रिपाठी"
+"serial no." = "Ebharati-2624"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIzNTExMDQxNDk4MTUy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[औचित्यविचारचर्चा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODIzNTExMDQxNDk4MTUy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1209,19 +1208,6 @@ title = "औचित्यविचारचर्चा"
 स्तस्य श्रीमदनन्तराजनृपतेः काले किलायं कृतः ॥ 5 ॥  
 इति श्रीप्रकाशेन्द्रात्मज्वयासदासपराख्यश्रीक्षेमेन्द्रकृता  
     'औचित्यविचारर्चा' समाप्ता ॥  
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

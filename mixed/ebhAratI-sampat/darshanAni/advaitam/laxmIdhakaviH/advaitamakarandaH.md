@@ -1,17 +1,16 @@
 +++
-TITLE = "अद्वैतमकरन्दः"
-AUTHOR = "लक्ष्मीधकविः"
-"PUBLISH YEAR" = "्"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "5"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "श्रीमन्नारायणाश्रमः"
-"COMMENTARY NAME" = "टीका"
-PRINTER = "मेडिकल्-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-2115"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM1MjI3MjUwMjMwMzAy&pageno=MjI0MjQyNjk5NTk="
 title = "अद्वैतमकरन्दः"
+author = "लक्ष्मीधकविः"
+"publish year" = "्"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "5"
+language = "संस्कृतम्"
+"primary commentator" = "श्रीमन्नारायणाश्रमः"
+"commentary name" = "टीका"
+printer = "मेडिकल्-यन्त्रालयः"
+"serial no." = "Ebharati-2115"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM1MjI3MjUwMjMwMzAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अद्वैतमकरन्दः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDM1MjI3MjUwMjMwMzAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -37,8 +36,5 @@ title = "अद्वैतमकरन्दः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

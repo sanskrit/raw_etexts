@@ -1,14 +1,13 @@
 +++
-TITLE = "चक्रदत्तः"
-AUTHOR = "चक्रपाणिः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "662"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "शिवदासः"
-"SERIAL NO." = "Ebharati-5877"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkwNDE3NjE5OTYxNDY1&pageno=MjI0MjQyNjk5NTk="
 title = "चक्रदत्तः"
+author = "चक्रपाणिः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "662"
+language = "संस्कृतम्"
+"primary commentator" = "शिवदासः"
+"serial no." = "Ebharati-5877"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkwNDE3NjE5OTYxNDY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चक्रदत्तः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDkwNDE3NjE5OTYxNDY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -24396,8 +24395,5 @@ title = "चक्रदत्तः"
 
 उचितं समवेतम्, तच्चसमवाये इत्यस्य रूपम्। समवायोऽत्र सतताभ्यासरूपः सम्बन्धः, तेन शीतसमवेतज्ञानमित्यर्थः। सहसा
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

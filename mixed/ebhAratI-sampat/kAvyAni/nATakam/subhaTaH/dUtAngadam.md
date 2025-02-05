@@ -1,17 +1,16 @@
 +++
-TITLE = "दूताङ्गदम्"
-AUTHOR = "सुभटः"
-PUBLISHER = "तुकारामजावजी"
-"PUBLISH YEAR" = "1900"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "20"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "दुर्गाप्रसादः  काशीनाथः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5414"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA3Mjc0NjU2MzI3OTE1&pageno=MjI0MjQyNjk5NTk="
 title = "दूताङ्गदम्"
+author = "सुभटः"
+publisher = "तुकारामजावजी"
+"publish year" = "1900"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "20"
+language = "संस्कृतम्"
+editor = "दुर्गाप्रसादः  काशीनाथः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-5414"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA3Mjc0NjU2MzI3OTE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दूताङ्गदम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODA3Mjc0NjU2MzI3OTE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -683,19 +682,6 @@ Price 2 Annas,**
 | पितर्युपरते यस्तु नोद्वहे      | स्वनिर्मित किंचन गद्यपद्यदबन्धं |
 | पिता ते यद्वाली वलनि           | हेलाखण्डितचण्डहेमहरिणैर्बा      |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

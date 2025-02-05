@@ -1,16 +1,15 @@
 +++
-TITLE = "योगदृष्टिसमुच्चयः (स्वोपज्ञवृत्तियुतः)"
-AUTHOR = "हरिभद्रसूरिः"
-PUBLISHER = "देवचन्द्रलालभाई"
-"PUBLISH YEAR" = "१९१२"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "105"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "Prof. L Suali"
-"SERIAL NO." = "Ebharati-1637"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE4NDQ4ODQ4NTQxNzUx&pageno=MjI0MjQyNjk5NTk="
 title = "योगदृष्टिसमुच्चयः (स्वोपज्ञवृत्तियुतः)"
+author = "हरिभद्रसूरिः"
+publisher = "देवचन्द्रलालभाई"
+"publish year" = "१९१२"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "105"
+language = "संस्कृतम्"
+editor = "Prof. L Suali"
+"serial no." = "Ebharati-1637"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE4NDQ4ODQ4NTQxNzUx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[योगदृष्टिसमुच्चयः (स्वोपज्ञवृत्तियुतः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDE4NDQ4ODQ4NTQxNzUx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2050,19 +2049,6 @@ a trustee, for himselfand co-trustees.
 
 ![](../books_images/U-IMG-1693396016Screenshot2023-08-30171614.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

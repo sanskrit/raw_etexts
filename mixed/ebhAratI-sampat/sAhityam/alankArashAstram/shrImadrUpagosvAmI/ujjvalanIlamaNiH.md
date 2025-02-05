@@ -1,17 +1,16 @@
 +++
-TITLE = "उज्ज्वलनीलमणिः"
-AUTHOR = "श्रीमद्रूपगोस्वामी"
-PUBLISHER = "पाण्डुरङ्ग्-जावजी"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "622"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मज्जीवगोस्वामी  विश्वनाथचक्रवर्तिः"
-"COMMENTARY NAME" = "लोचनरोचनम् आनन्दचन्द्रिका"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7766"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUyOTQ2ODE4NjA1NTQ3&pageno=MjI0MjQyNjk5NTk="
 title = "उज्ज्वलनीलमणिः"
+author = "श्रीमद्रूपगोस्वामी"
+publisher = "पाण्डुरङ्ग्-जावजी"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "622"
+language = "संस्कृतम्"
+editor = "मज्जीवगोस्वामी  विश्वनाथचक्रवर्तिः"
+"commentary name" = "लोचनरोचनम् आनन्दचन्द्रिका"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-7766"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUyOTQ2ODE4NjA1NTQ3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[उज्ज्वलनीलमणिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjUyOTQ2ODE4NjA1NTQ3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -15449,19 +15448,6 @@ PRINTER:—Ramchandra Yesu Shedge, }26-28, Kolbhat Lane, Bombay.
 
 *प्रतिमा प्रतिबिम्बम्। नार्दति न पीडयति॥४४॥४५॥४६॥*
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

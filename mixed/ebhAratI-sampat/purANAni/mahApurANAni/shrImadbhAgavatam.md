@@ -1,15 +1,14 @@
 +++
-TITLE = "श्रीमद्भागवतम्"
-"PUBLISH YEAR" = "1923"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "88"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "गिरिधाराजी"
-"COMMENTARY NAME" = "बालबोधिनी"
-"SERIAL NO." = "Ebharati-6768"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkwMjE3ODY1MjA3OTQ2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमद्भागवतम्"
+"publish year" = "1923"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "88"
+language = "संस्कृतम्"
+"primary commentator" = "गिरिधाराजी"
+"commentary name" = "बालबोधिनी"
+"serial no." = "Ebharati-6768"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkwMjE3ODY1MjA3OTQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमद्भागवतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjkwMjE3ODY1MjA3OTQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -777,8 +776,5 @@ title = "श्रीमद्भागवतम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

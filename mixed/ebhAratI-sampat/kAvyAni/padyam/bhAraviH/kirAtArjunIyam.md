@@ -1,17 +1,16 @@
 +++
-TITLE = "किरातार्जुनीयम्"
-AUTHOR = "भारविः"
-"PUBLISH YEAR" = "1905"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "574"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "मल्लिनाथः"
-"COMMENTARY NAME" = "घण्टापथः"
-PRINTER = "सिद्धेश्वर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7888"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3NDIyMDYzODEyNzU3&pageno=MjI0MjQyNjk5NTk="
 title = "किरातार्जुनीयम्"
+author = "भारविः"
+"publish year" = "1905"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "574"
+language = "संस्कृतम्"
+"primary commentator" = "मल्लिनाथः"
+"commentary name" = "घण्टापथः"
+printer = "सिद्धेश्वर-यन्त्रालयः"
+"serial no." = "Ebharati-7888"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3NDIyMDYzODEyNzU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[किरातार्जुनीयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM3NDIyMDYzODEyNzU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9706,8 +9705,5 @@ xxxxxxx
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

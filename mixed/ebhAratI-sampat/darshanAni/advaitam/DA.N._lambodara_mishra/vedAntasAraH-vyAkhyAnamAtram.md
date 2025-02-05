@@ -1,13 +1,12 @@
 +++
-TITLE = "वेदान्तसारः-व्याख्यानमात्रम्"
-AUTHOR = "डाँ. लम्बोदर मिश्र"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "Samskrtham"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2515"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMzMTk2OTQ1MDM0MTQy&pageno=MjI0MjQyNjk5NTk="
 title = "वेदान्तसारः-व्याख्यानमात्रम्"
+author = "डाँ. लम्बोदर मिश्र"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "Samskrtham"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2515"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMzMTk2OTQ1MDM0MTQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वेदान्तसारः-व्याख्यानमात्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDMzMTk2OTQ1MDM0MTQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -445,19 +444,6 @@ title = "वेदान्तसारः-व्याख्यानमात�
 
 
 ॥समाप्तः॥
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

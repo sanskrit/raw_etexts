@@ -1,12 +1,11 @@
 +++
-TITLE = "ऋग्-सूक्तम्"
-DOMAIN = "वेदः"
-SUB-DOMAIN = "ऋग्वेदः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3575"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU2ODU2NjY1NjgxMzQz"
 title = "ऋग्-सूक्तम्"
+domain = "वेदः"
+sub-domain = "ऋग्वेदः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3575"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU2ODU2NjY1NjgxMzQz"
 
 +++
 [[ऋग्-सूक्तम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDU2ODU2NjY1NjgxMzQz)]]

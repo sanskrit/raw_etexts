@@ -1,12 +1,11 @@
 +++
-TITLE = "पाराशरीशिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3570"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ1NjQ0NTg1NjA3MjQz&pageno=MjI0MjQyNjk5NTk="
 title = "पाराशरीशिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3570"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ1NjQ0NTg1NjA3MjQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पाराशरीशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ1NjQ0NTg1NjA3MjQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -340,8 +339,5 @@ parashara_shiksha
        इति पाराशरीशिक्षा समाप्ता  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

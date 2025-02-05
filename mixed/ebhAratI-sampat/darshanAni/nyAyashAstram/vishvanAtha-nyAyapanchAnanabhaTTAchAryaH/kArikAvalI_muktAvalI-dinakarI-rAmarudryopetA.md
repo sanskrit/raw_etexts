@@ -1,16 +1,15 @@
 +++
-TITLE = "कारिकावली (मुक्तावली-दिनकरी-रामरुद्र्योपेता)"
-AUTHOR = "विश्वनाथ-न्यायपञ्चाननभट्टाचार्यः"
-PUBLISHER = "निर्णयसागः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-PAGES = "13"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "आत्मारामशर्मा-जेरे"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1729"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM2NzQxMzA1Nzc5NTYx&pageno=MjI0MjQyNjk5NTk="
 title = "कारिकावली (मुक्तावली-दिनकरी-रामरुद्र्योपेता)"
+author = "विश्वनाथ-न्यायपञ्चाननभट्टाचार्यः"
+publisher = "निर्णयसागः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+pages = "13"
+language = "संस्कृतम्"
+editor = "आत्मारामशर्मा-जेरे"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-1729"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM2NzQxMzA1Nzc5NTYx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कारिकावली (मुक्तावली-दिनकरी-रामरुद्र्योपेता)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODM2NzQxMzA1Nzc5NTYx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -183,19 +182,6 @@ EDITED WITH FOOT-NOTES Etc. BY ATMARAM NARAYAN JERE
 त्वाश्रयौपाधिकी तथाप्रतीतिः। एवं जन्यशीतस्पर्शजनकतावच्छेदकं जन्यजलत्वं तदवच्छिन्नजनकतावच्छेदकं जलत्वं  
 बोध्यम्। घृष्टचन्दनादौ तु शैत्योपलब्धिश्चन्दनान्तर्वतिशीततरसलिलस्यैव। तेजःसंयोगाज्जले उष्णप्रतीतिरौपाधिकी स्फुटैव तत्र पाकासंभवात्। स्नेहस्तत्रेति। घृतादावपि तदन्तर्वर्तिजलस्यैव स्नेहः जलस्य स्नेहसमवायिकारणत्वात्। तेन जलएव स्नेह इति मन्तव्यम्। द्रवत्वमिति। सांसिद्धिकद्रवत्वत्वं जातिविशेषः प्रत्यक्षसिद्धः तदवच्छिन्नजनकतावच्छेदकमपि
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,13 +1,12 @@
 +++
-TITLE = "ऋग्वर्णक्रमलक्षणम्"
-AUTHOR = "नरसिंहसूरिः"
-DOMAIN = "वेदः"
-SUB-DOMAIN = "ऋग्वेदः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3586"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkyNTIzNTI1MjQyNDQz"
 title = "ऋग्वर्णक्रमलक्षणम्"
+author = "नरसिंहसूरिः"
+domain = "वेदः"
+sub-domain = "ऋग्वेदः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3586"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkyNTIzNTI1MjQyNDQz"
 
 +++
 [[ऋग्वर्णक्रमलक्षणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjkyNTIzNTI1MjQyNDQz)]]

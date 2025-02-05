@@ -1,12 +1,11 @@
 +++
-TITLE = "सुभाषितानि"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "मिश्रितम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4122"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1Njk2NTkz"
 title = "सुभाषितानि"
+domain = "सुभाषितानि"
+sub-domain = "मिश्रितम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4122"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1Njk2NTkz"
 
 +++
 [[सुभाषितानि	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1Njk2NTkz)]]

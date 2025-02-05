@@ -1,13 +1,12 @@
 +++
-TITLE = "साङ्ख्यदर्शनम्"
-AUTHOR = "कपिलाचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "साङ्ख्यदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3892"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDI0NjA1NTczNzE2Mzcz"
 title = "साङ्ख्यदर्शनम्"
+author = "कपिलाचार्यः"
+domain = "दर्शनानि"
+sub-domain = "साङ्ख्यदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3892"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDI0NjA1NTczNzE2Mzcz"
 
 +++
 [[साङ्ख्यदर्शनम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDI0NjA1NTczNzE2Mzcz)]]

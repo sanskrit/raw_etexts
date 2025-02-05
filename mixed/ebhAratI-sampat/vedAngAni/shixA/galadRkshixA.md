@@ -1,13 +1,12 @@
 +++
-TITLE = "गलदृक्शिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-PAGES = "4"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3519"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEwMzgwNzc3MDE4NzMz&pageno=MjI0MjQyNjk5NTk="
 title = "गलदृक्शिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+pages = "4"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3519"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEwMzgwNzc3MDE4NzMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गलदृक्शिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODEwMzgwNzc3MDE4NzMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -41,8 +40,5 @@ title = "गलदृक्शिक्षा"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

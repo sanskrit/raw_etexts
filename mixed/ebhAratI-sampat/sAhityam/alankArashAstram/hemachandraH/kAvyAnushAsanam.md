@@ -1,18 +1,17 @@
 +++
-TITLE = "काव्यानुशासनम्"
-AUTHOR = "हेमचन्द्रः"
-PUBLISHER = "पाण्डुरङ्ग जावजी"
-"PUBLISH YEAR" = "1934"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "459"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शिवदत्त काशिनाथ पाण्डुरङ्ग परब"
-"SECOND EDITOR" = "वासुदेव लक्ष्मण शास्त्रि पन्शिकर"
-PRINTER = "रामचन्द्र येसु  शेड्गे"
-"SERIAL NO." = "Ebharati-5996"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEzMjY1OTY0Mzk1NTc1&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यानुशासनम्"
+author = "हेमचन्द्रः"
+publisher = "पाण्डुरङ्ग जावजी"
+"publish year" = "1934"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "459"
+language = "संस्कृतम्"
+editor = "शिवदत्त काशिनाथ पाण्डुरङ्ग परब"
+"second editor" = "वासुदेव लक्ष्मण शास्त्रि पन्शिकर"
+printer = "रामचन्द्र येसु  शेड्गे"
+"serial no." = "Ebharati-5996"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEzMjY1OTY0Mzk1NTc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यानुशासनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjEzMjY1OTY0Mzk1NTc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11308,8 +11307,5 @@ title = "काव्यानुशासनम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

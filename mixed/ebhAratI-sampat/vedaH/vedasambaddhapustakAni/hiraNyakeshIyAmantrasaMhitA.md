@@ -1,16 +1,15 @@
 +++
-TITLE = "हिरण्यकेशीयामन्त्रसंहिता"
-PUBLISHER = "पाण्डुरङ्ग-जावजी"
-"PUBLISH YEAR" = "1934"
-DOMAIN = "वेदः"
-SUB-DOMAIN = "वेदसम्बद्धपुस्तकानि"
-PAGES = "168"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "महादेव-भट्टः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-8927"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkxMTAxNjU0ODU5NjU4&pageno=MjI0MjQyNjk5NTk="
 title = "हिरण्यकेशीयामन्त्रसंहिता"
+publisher = "पाण्डुरङ्ग-जावजी"
+"publish year" = "1934"
+domain = "वेदः"
+sub-domain = "वेदसम्बद्धपुस्तकानि"
+pages = "168"
+language = "संस्कृतम्"
+editor = "महादेव-भट्टः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-8927"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkxMTAxNjU0ODU5NjU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हिरण्यकेशीयामन्त्रसंहिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDkxMTAxNjU0ODU5NjU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -735,19 +734,6 @@ title = "हिरण्यकेशीयामन्त्रसंहित�
 
 [TABLE]
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

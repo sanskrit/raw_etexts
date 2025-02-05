@@ -1,17 +1,16 @@
 +++
-TITLE = "नित्याचारपद्धतिः (प्रथमो भागः)"
-AUTHOR = "विद्याकर-वाजपेयी"
-PUBLISHER = "एशियाटिक-सोसायटी"
-"PUBLISH YEAR" = "1903"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "646"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "विनोद-विहारी-भट्टाचार्यः"
-PRINTER = "उपेन्द्रनाथ-चक्रवर्ती"
-"SERIAL NO." = "Ebharati-5201"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI4NjM4NjU0NjcyOTk0&pageno=MjI0MjQyNjk5NTk="
 title = "नित्याचारपद्धतिः (प्रथमो भागः)"
+author = "विद्याकर-वाजपेयी"
+publisher = "एशियाटिक-सोसायटी"
+"publish year" = "1903"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "646"
+language = "संस्कृतम्"
+editor = "विनोद-विहारी-भट्टाचार्यः"
+printer = "उपेन्द्रनाथ-चक्रवर्ती"
+"serial no." = "Ebharati-5201"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI4NjM4NjU0NjcyOTk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नित्याचारपद्धतिः (प्रथमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjI4NjM4NjU0NjcyOTk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -14627,19 +14626,6 @@ VINODA VIHĀRI BHATTĀCĀRYYA
 सितासितेषु यैः स्नातं माघमासे युधिष्ठिर।  
 न तेषां पुनरावृत्तिः कल्पकोटिशतैरपि॥
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

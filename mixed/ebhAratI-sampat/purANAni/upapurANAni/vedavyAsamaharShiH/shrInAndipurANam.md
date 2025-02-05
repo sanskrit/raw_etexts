@@ -1,13 +1,12 @@
 +++
-TITLE = "श्रीनान्दिपुराणम्"
-AUTHOR = "वेदव्यासमहर्षिः"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "उपपुराणानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2857"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYyMTYyNDcy"
 title = "श्रीनान्दिपुराणम्"
+author = "वेदव्यासमहर्षिः"
+domain = "पुराणानि"
+sub-domain = "उपपुराणानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2857"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYyMTYyNDcy"
 
 +++
 [[श्रीनान्दिपुराणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYyMTYyNDcy)]]

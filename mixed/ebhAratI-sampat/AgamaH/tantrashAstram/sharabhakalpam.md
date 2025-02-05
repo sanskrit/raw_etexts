@@ -1,13 +1,12 @@
 +++
-TITLE = "शरभकल्पम्"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "87"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "एस्. कृष्णमूर्तिशास्त्री"
-"SERIAL NO." = "Ebharati-8580"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ2MzI4&pageno=MjI0MjQyNjk5NTk="
 title = "शरभकल्पम्"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "87"
+language = "संस्कृतम्"
+editor = "एस्. कृष्णमूर्तिशास्त्री"
+"serial no." = "Ebharati-8580"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ2MzI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शरभकल्पम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ2MzI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2402,8 +2401,5 @@ title = "शरभकल्पम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

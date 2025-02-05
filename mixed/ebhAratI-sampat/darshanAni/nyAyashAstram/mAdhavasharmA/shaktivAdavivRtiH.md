@@ -1,19 +1,18 @@
 +++
-TITLE = "शक्तिवादविवृतिः"
-AUTHOR = "माधवशर्मा"
-PUBLISHER = "जयकृष्णदास-हरिदासगुप्तः"
-"PUBLISH YEAR" = "1984"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गोस्वामिदामोदरशास्त्री"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"PRIMARY COMMENTATOR" = "कृष्णभट्टः"
-"SECONDARY COMMENTATOR" = "गोस्वामिदामोदरशास्त्री"
-"COMMENTARY NAME" = "मञ्जूषा विनोदिन्या"
-"SERIAL NO." = "Ebharati-4088"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxMTIwOTM2MjM0Mjkz&pageno=MjI0MjQyNjk5NTk="
 title = "शक्तिवादविवृतिः"
+author = "माधवशर्मा"
+publisher = "जयकृष्णदास-हरिदासगुप्तः"
+"publish year" = "1984"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+editor = "गोस्वामिदामोदरशास्त्री"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"primary commentator" = "कृष्णभट्टः"
+"secondary commentator" = "गोस्वामिदामोदरशास्त्री"
+"commentary name" = "मञ्जूषा विनोदिन्या"
+"serial no." = "Ebharati-4088"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxMTIwOTM2MjM0Mjkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शक्तिवादविवृतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjMxMTIwOTM2MjM0Mjkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1243,19 +1242,6 @@ title = "शक्तिवादविवृतिः"
 
 ** ----------------------------------**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,17 +1,16 @@
 +++
-TITLE = "प्रत्यक्षशारीरम् (प्रथमो भागः)"
-AUTHOR = "समस्तभारतभिषक्सम्मेलनलब्धः"
-PUBLISHER = "श्रीराखलदाससेनकाव्यतीर्थः"
-"PUBLISH YEAR" = "1913"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "280"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-EDITOR = "गणनाथसेन-विद्यानिधिः"
-PRINTER = "गोवर्धन-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-3464"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA4OTQ3Mzg5MDM1MjMz&pageno=MjI0MjQyNjk5NTk="
 title = "प्रत्यक्षशारीरम् (प्रथमो भागः)"
+author = "समस्तभारतभिषक्सम्मेलनलब्धः"
+publisher = "श्रीराखलदाससेनकाव्यतीर्थः"
+"publish year" = "1913"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "280"
+language = "संस्कृतम् आङ्ग्लम्"
+editor = "गणनाथसेन-विद्यानिधिः"
+printer = "गोवर्धन-मुद्रणालयः"
+"serial no." = "Ebharati-3464"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA4OTQ3Mzg5MDM1MjMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रत्यक्षशारीरम् (प्रथमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODA4OTQ3Mzg5MDM1MjMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5412,19 +5411,6 @@ PUBLISHED BY KAVIRAJ RAKALDAS SEN KAVYATIRTHA
 
 \[ मूल्यादिकं तु ग्रन्थकर्त्तॄणामेव नामतः प्रेष्यम् \]
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

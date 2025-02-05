@@ -1,19 +1,18 @@
 +++
-TITLE = "कारिकावली (प्रत्यक्षखण्डान्ता)"
-AUTHOR = "विश्वनाथ-न्यायपञ्चाननभट्टाचार्यः"
-PUBLISHER = "श्रीहरिकृष्णनिबन्धभवनम्"
-"PUBLISH YEAR" = "१९५५"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रामगोविन्दशुक्लः"
-"PRIMARY COMMENTATOR" = "सूर्यनारायणशुक्लः"
-"SECONDARY COMMENTATOR" = "रामगोविन्दशुक्लः"
-"COMMENTARY NAME" = "सिद्धान्तमुक्तावली प्रकाश-हिन्दीव्याख्या"
-PRINTER = "विद्याविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1738"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM0OTIzOTY0MTQ4NjYx&pageno=MjI0MjQyNjk5NTk="
 title = "कारिकावली (प्रत्यक्षखण्डान्ता)"
+author = "विश्वनाथ-न्यायपञ्चाननभट्टाचार्यः"
+publisher = "श्रीहरिकृष्णनिबन्धभवनम्"
+"publish year" = "१९५५"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+editor = "रामगोविन्दशुक्लः"
+"primary commentator" = "सूर्यनारायणशुक्लः"
+"secondary commentator" = "रामगोविन्दशुक्लः"
+"commentary name" = "सिद्धान्तमुक्तावली प्रकाश-हिन्दीव्याख्या"
+printer = "विद्याविलास-मुद्रणालयः"
+"serial no." = "Ebharati-1738"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM0OTIzOTY0MTQ4NjYx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कारिकावली (प्रत्यक्षखण्डान्ता)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM0OTIzOTY0MTQ4NjYx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1800,8 +1799,5 @@ et
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

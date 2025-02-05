@@ -1,16 +1,15 @@
 +++
-TITLE = "नित्याषोडशिकार्णवः"
-PUBLISHER = "हरिनारायणआपटे"
-"PUBLISH YEAR" = "1908"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "354"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "काशीनाथशास्त्री-आगाशे"
-PRINTER = "आनन्दाश्रम-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-8550"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxODA3Mjc4NzY3MDI4&pageno=MjI0MjQyNjk5NTk="
 title = "नित्याषोडशिकार्णवः"
+publisher = "हरिनारायणआपटे"
+"publish year" = "1908"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "354"
+language = "संस्कृतम्"
+editor = "काशीनाथशास्त्री-आगाशे"
+printer = "आनन्दाश्रम-मुद्रणालयः"
+"serial no." = "Ebharati-8550"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxODA3Mjc4NzY3MDI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नित्याषोडशिकार्णवः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDAxODA3Mjc4NzY3MDI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7594,8 +7593,5 @@ title = "नित्याषोडशिकार्णवः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

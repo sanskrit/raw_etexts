@@ -1,14 +1,13 @@
 +++
-TITLE = "दशकुमारचरितम्-प्रदीपिका"
-AUTHOR = "दण्डिः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "गद्यम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"PRIMARY COMMENTATOR" = "त्रिपाठीयमुनेशचातकः"
-"COMMENTARY NAME" = "प्रदीपिका"
-"SERIAL NO." = "Ebharati-3035"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc3MDU3NTk1ODQzMTky"
 title = "दशकुमारचरितम्-प्रदीपिका"
+author = "दण्डिः"
+domain = "साहित्यम्"
+sub-domain = "गद्यम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"primary commentator" = "त्रिपाठीयमुनेशचातकः"
+"commentary name" = "प्रदीपिका"
+"serial no." = "Ebharati-3035"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc3MDU3NTk1ODQzMTky"
 
 +++
 [[दशकुमारचरितम्-प्रदीपिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDc3MDU3NTk1ODQzMTky)]]

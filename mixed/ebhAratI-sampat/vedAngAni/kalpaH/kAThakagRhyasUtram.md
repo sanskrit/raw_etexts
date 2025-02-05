@@ -1,11 +1,10 @@
 +++
-TITLE = "काठकगृह्यसूत्रम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2586"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkyMzA5MjgyNjQyODQy"
 title = "काठकगृह्यसूत्रम्"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2586"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkyMzA5MjgyNjQyODQy"
 
 +++
 [[काठकगृह्यसूत्रम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjkyMzA5MjgyNjQyODQy)]]

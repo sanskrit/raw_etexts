@@ -1,14 +1,13 @@
 +++
-TITLE = "कृष्णीयम्"
-AUTHOR = "श्री कृष्णाचार्यरचितम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "47"
-LANGUAGE = "संस्कृतम्"
-"COMMENTARY NAME" = "चतुरसुन्दरी व्याख्या"
-"SERIAL NO." = "Ebharati-4935"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc1MjUzNjU0MTQ3Mzc0&pageno=MjI0MjQyNjk5NTk="
 title = "कृष्णीयम्"
+author = "श्री कृष्णाचार्यरचितम्"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "47"
+language = "संस्कृतम्"
+"commentary name" = "चतुरसुन्दरी व्याख्या"
+"serial no." = "Ebharati-4935"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc1MjUzNjU0MTQ3Mzc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कृष्णीयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc1MjUzNjU0MTQ3Mzc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2013,8 +2012,5 @@ t\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ----------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

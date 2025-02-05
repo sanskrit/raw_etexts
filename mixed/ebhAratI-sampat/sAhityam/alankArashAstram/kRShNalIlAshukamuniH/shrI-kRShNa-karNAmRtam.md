@@ -1,15 +1,14 @@
 +++
-TITLE = "श्री-कृष्ण-कर्णामृतम्"
-AUTHOR = "कृष्णलीलाशुकमुनिः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"PRIMARY COMMENTATOR" = "कृष्णदासः"
-"COMMENTARY NAME" = "सारङ्ग-रङ्गदा"
-"SERIAL NO." = "Ebharati-2746"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE4MDk2MTg2NTA2MzYy&pageno=MjI0MjQyNjk5NTk="
 title = "श्री-कृष्ण-कर्णामृतम्"
+author = "कृष्णलीलाशुकमुनिः"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"primary commentator" = "कृष्णदासः"
+"commentary name" = "सारङ्ग-रङ्गदा"
+"serial no." = "Ebharati-2746"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE4MDk2MTg2NTA2MzYy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्री-कृष्ण-कर्णामृतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE4MDk2MTg2NTA2MzYy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6888,19 +6887,6 @@ title = "श्री-कृष्ण-कर्णामृतम्"
 
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

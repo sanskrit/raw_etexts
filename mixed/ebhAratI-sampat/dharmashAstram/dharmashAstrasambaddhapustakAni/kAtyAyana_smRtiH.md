@@ -1,12 +1,11 @@
 +++
-TITLE = "कात्यायन स्मृतिः"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "धर्मशास्त्रसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2502"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ4OTM1ODk1MjgxMDQy&pageno=MjI0MjQyNjk5NTk="
 title = "कात्यायन स्मृतिः"
+domain = "धर्मशास्त्रम्"
+sub-domain = "धर्मशास्त्रसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2502"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ4OTM1ODk1MjgxMDQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कात्यायन स्मृतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQ4OTM1ODk1MjgxMDQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3192,8 +3191,5 @@ title = "कात्यायन स्मृतिः"
 हितेषु चैव लोकस्य सर्वान्भृत्यान्नियोजयेत् । । ९७३ । ।  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

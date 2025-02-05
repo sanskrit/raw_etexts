@@ -1,12 +1,11 @@
 +++
-TITLE = "सुभाषितानि हिन्दीभाषार्थसहितम्"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "मिश्रितम्"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4121"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwMTIwNTE1MDA2NTkz&pageno=MjI0MjQyNjk5NTk="
 title = "सुभाषितानि हिन्दीभाषार्थसहितम्"
+domain = "सुभाषितानि"
+sub-domain = "मिश्रितम्"
+language = "संस्कृतम् हिन्दी"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4121"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwMTIwNTE1MDA2NTkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुभाषितानि हिन्दीभाषार्थसहितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjYwMTIwNTE1MDA2NTkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -16901,8 +16900,5 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

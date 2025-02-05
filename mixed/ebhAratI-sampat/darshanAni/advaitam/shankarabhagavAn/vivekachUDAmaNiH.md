@@ -1,13 +1,12 @@
 +++
-TITLE = "विवेकचूडामणिः"
-AUTHOR = "शङ्करभगवान्"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "81"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2179"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NzMyMjE4NTcxOTAy&pageno=MjI0MjQyNjk5NTk="
 title = "विवेकचूडामणिः"
+author = "शङ्करभगवान्"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "81"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2179"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NzMyMjE4NTcxOTAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विवेकचूडामणिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NzMyMjE4NTcxOTAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2434,19 +2433,6 @@ title = "विवेकचूडामणिः"
 **विवेकचूडामणिः समाप्तः ॥  
 ------------------**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

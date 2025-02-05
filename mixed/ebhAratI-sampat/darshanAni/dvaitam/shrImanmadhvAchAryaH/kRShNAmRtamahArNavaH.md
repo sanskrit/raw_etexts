@@ -1,12 +1,11 @@
 +++
-TITLE = "कृष्णामृतमहार्णवः"
-AUTHOR = "श्रीमन्मध्वाचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4191"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA2MDk5MTUyMDIzMjA0&pageno=MjI0MjQyNjk5NTk="
 title = "कृष्णामृतमहार्णवः"
+author = "श्रीमन्मध्वाचार्यः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4191"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA2MDk5MTUyMDIzMjA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कृष्णामृतमहार्णवः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjA2MDk5MTUyMDIzMjA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -747,8 +746,5 @@ Bरह्माः
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

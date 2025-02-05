@@ -1,17 +1,16 @@
 +++
-TITLE = "ऐतरेयोपनिषत् तैत्तिरियोपनिषत् च"
-PUBLISHER = "वि.सि.शेषाचारिः"
-"PUBLISH YEAR" = "1923"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "ऐतरेयोपनिषद्"
-PAGES = "203"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "एस्. सीतारामशास्त्री"
-"PRIMARY COMMENTATOR" = "शङ्कराचार्यः"
-PRINTER = "दि इण्डिय प्रिण्टिङ्ग् वर्क्स् मद्रास्"
-"SERIAL NO." = "Ebharati-6194"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4MTY1NTI3MDA2NDk1&pageno=MjI0MjQyNjk5NTk="
 title = "ऐतरेयोपनिषत् तैत्तिरियोपनिषत् च"
+publisher = "वि.सि.शेषाचारिः"
+"publish year" = "1923"
+domain = "उपनिषदः"
+sub-domain = "ऐतरेयोपनिषद्"
+pages = "203"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "एस्. सीतारामशास्त्री"
+"primary commentator" = "शङ्कराचार्यः"
+printer = "दि इण्डिय प्रिण्टिङ्ग् वर्क्स् मद्रास्"
+"serial no." = "Ebharati-6194"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4MTY1NTI3MDA2NDk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ऐतरेयोपनिषत् तैत्तिरियोपनिषत् च	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY4MTY1NTI3MDA2NDk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2163,8 +2162,5 @@ Original Translation by Pandit Ganga'nath Jha, M.A.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,15 +1,14 @@
 +++
-TITLE = "ईशानशिवगुरुदेवपद्धतिः - द्वितीयः मन्त्रपादः"
-PUBLISHER = "University of Trivandrum"
-"PUBLISH YEAR" = "1920"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "743"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गणपतिशास्त्री"
-"SERIAL NO." = "Ebharati-316"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUzNTA2MjE4NDMzMDM=&pageno=MjI0MjQyNjk5NTk="
 title = "ईशानशिवगुरुदेवपद्धतिः - द्वितीयः मन्त्रपादः"
+publisher = "University of Trivandrum"
+"publish year" = "1920"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "743"
+language = "संस्कृतम्"
+editor = "गणपतिशास्त्री"
+"serial no." = "Ebharati-316"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUzNTA2MjE4NDMzMDM=&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ईशानशिवगुरुदेवपद्धतिः - द्वितीयः मन्त्रपादः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjUzNTA2MjE4NDMzMDM=&pageno=MjI0MjQyNjk5NTk=)]]
@@ -17349,8 +17348,5 @@ p\. 390)तेन बद्धेन बद्धासि तिष्ठात
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,17 +1,16 @@
 +++
-TITLE = "क्रोडपत्रसङ्ग्रहः"
-AUTHOR = "कालीशङ्करसिद्धान्तवागीशः"
-PUBLISHER = "चौखाम्बासंस्कृतसिरीज्"
-"PUBLISH YEAR" = "१९२४"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-PAGES = "382"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वामचरणभट्टाचार्यः"
-PRINTER = "विद्याविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1756"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMwMzk2MTA0OTY1ODYx&pageno=MjI0MjQyNjk5NTk="
 title = "क्रोडपत्रसङ्ग्रहः"
+author = "कालीशङ्करसिद्धान्तवागीशः"
+publisher = "चौखाम्बासंस्कृतसिरीज्"
+"publish year" = "१९२४"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+pages = "382"
+language = "संस्कृतम्"
+editor = "वामचरणभट्टाचार्यः"
+printer = "विद्याविलास-मुद्रणालयः"
+"serial no." = "Ebharati-1756"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMwMzk2MTA0OTY1ODYx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[क्रोडपत्रसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjMwMzk2MTA0OTY1ODYx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1745,8 +1744,5 @@ T
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

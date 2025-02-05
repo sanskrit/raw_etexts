@@ -1,12 +1,11 @@
 +++
-TITLE = "मृगेन्द्रतन्त्रम्"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3966"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU2NTQ0NzkwMTI3MDgz&pageno=MjI0MjQyNjk5NTk="
 title = "मृगेन्द्रतन्त्रम्"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3966"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU2NTQ0NzkwMTI3MDgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मृगेन्द्रतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjU2NTQ0NzkwMTI3MDgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1358,8 +1357,5 @@ title = "मृगेन्द्रतन्त्रम्"
 अस्याभ्यासाद्दिव्यसिद्ध्यंशुजालैरिष्टान् लोकान् रोरुचानो विहृत्य ।  
 काले हित्वापास्रवं देहमास्ते स्वात्मन्येवाश्चर्यचर्याधिवासः ॥ ४.६५ ॥
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

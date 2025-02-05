@@ -1,13 +1,12 @@
 +++
-TITLE = "तैत्तिरीयोपनिषद्भाष्ये शिक्षावलीभाष्यम्"
-AUTHOR = "श्रीमच्चङ्करभगवत्पादाः"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4233"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIzMjcxNDkwMjUzNjA0&pageno=MjI0MjQyNjk5NTk="
 title = "तैत्तिरीयोपनिषद्भाष्ये शिक्षावलीभाष्यम्"
+author = "श्रीमच्चङ्करभगवत्पादाः"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4233"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIzMjcxNDkwMjUzNjA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तैत्तिरीयोपनिषद्भाष्ये शिक्षावलीभाष्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjIzMjcxNDkwMjUzNjA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -399,19 +398,6 @@ $ ¥ÉÀÊ´ÉnùÉ{xÉÉäÊiÉ {É®ú¨ÉÂ\* iÉnäù¹ÉÉ%¦ªÉÖHòÉ\* 
 iÉèÊkÉ®úÒªÉÉä{ÉÊxÉ¹ÉnÂù¦ÉÉ¹ªÉä ¶ÉÒIÉÉ´É±ÉÂ±ÉÒ¦ÉÉ¹ªÉ¨ÉÂ ºÉÆ{ÉÚhÉÇ¨ÉÂ\*\***
 
 **------------------------ --------------------------**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

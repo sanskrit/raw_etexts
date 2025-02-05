@@ -1,14 +1,13 @@
 +++
-TITLE = "दुर्गापाठभाषाटीका"
-"PUBLISH YEAR" = "1922"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "120"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "नवलकिशोर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7072"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgzODA0NjI0NTg4ODc2&pageno=MjI0MjQyNjk5NTk="
 title = "दुर्गापाठभाषाटीका"
+"publish year" = "1922"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "120"
+language = "संस्कृतम् हिन्दी"
+printer = "नवलकिशोर-यन्त्रालयः"
+"serial no." = "Ebharati-7072"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgzODA0NjI0NTg4ODc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दुर्गापाठभाषाटीका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDgzODA0NjI0NTg4ODc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1001,8 +1000,5 @@ title = "दुर्गापाठभाषाटीका"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

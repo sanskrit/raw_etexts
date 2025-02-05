@@ -1,17 +1,16 @@
 +++
-TITLE = "रससदनभाणः"
-AUTHOR = "युवराजः"
-PUBLISHER = "तुकारामजावजी"
-"PUBLISH YEAR" = "1893"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "70"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शिवदत्तः  काशीनाथः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5555"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEyNDU2NjIxOTUyMzM1&pageno=MjI0MjQyNjk5NTk="
 title = "रससदनभाणः"
+author = "युवराजः"
+publisher = "तुकारामजावजी"
+"publish year" = "1893"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "70"
+language = "संस्कृतम्"
+editor = "शिवदत्तः  काशीनाथः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-5555"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEyNDU2NjIxOTUyMzM1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रससदनभाणः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDEyNDU2NjIxOTUyMzM1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1663,19 +1662,6 @@ title = "रससदनभाणः"
 
 **——————————**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

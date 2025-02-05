@@ -1,12 +1,11 @@
 +++
-TITLE = "लाङ्गूलोपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4293"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ2NzE3ODY4MTExMjE0&pageno=MjI0MjQyNjk5NTk="
 title = "लाङ्गूलोपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4293"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ2NzE3ODY4MTExMjE0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लाङ्गूलोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQ2NzE3ODY4MTExMjE0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -247,8 +246,5 @@ title = "लाङ्गूलोपनिषत्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

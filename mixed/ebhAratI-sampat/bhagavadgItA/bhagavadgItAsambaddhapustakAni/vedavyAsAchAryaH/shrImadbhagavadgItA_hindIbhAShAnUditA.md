@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीमद्भगवद्गीता हिन्दीभाषानूदिता"
-AUTHOR = "वेदव्यासाचार्यः"
-DOMAIN = "भगवद्गीता"
-SUB-DOMAIN = "भगवद्गीतासम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2657"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDUyNTExNjEwMjYwNTUy"
 title = "श्रीमद्भगवद्गीता हिन्दीभाषानूदिता"
+author = "वेदव्यासाचार्यः"
+domain = "भगवद्गीता"
+sub-domain = "भगवद्गीतासम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2657"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDUyNTExNjEwMjYwNTUy"
 
 +++
 [[श्रीमद्भगवद्गीता हिन्दीभाषानूदिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDUyNTExNjEwMjYwNTUy)]]

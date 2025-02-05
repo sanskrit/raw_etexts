@@ -1,14 +1,13 @@
 +++
-TITLE = "कुवलयानन्दचन्द्रिकाचकोरः"
-"PUBLISH YEAR" = "1943"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "322"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "भक्तिविलास-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7793"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ2NDkxNzE3ODkwODQ3&pageno=MjI0MjQyNjk5NTk="
 title = "कुवलयानन्दचन्द्रिकाचकोरः"
+"publish year" = "1943"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "322"
+language = "संस्कृतम्"
+printer = "भक्तिविलास-यन्त्रालयः"
+"serial no." = "Ebharati-7793"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ2NDkxNzE3ODkwODQ3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कुवलयानन्दचन्द्रिकाचकोरः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQ2NDkxNzE3ODkwODQ3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4997,8 +4996,5 @@ Mysore University**:**
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

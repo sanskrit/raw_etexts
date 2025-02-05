@@ -1,16 +1,15 @@
 +++
-TITLE = "कण्ठामृतलहरी"
-AUTHOR = "नीलकण्ठतीर्थपादस्वामी"
-PUBLISHER = "श्रीवर्द्धनत्तु-रामन्पिळ्ळः"
-"PUBLISH YEAR" = "1914"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "32"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "मङ्गलोदयम्-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7079"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMzNTAxMDA0NzU1OTc2&pageno=MjI0MjQyNjk5NTk="
 title = "कण्ठामृतलहरी"
+author = "नीलकण्ठतीर्थपादस्वामी"
+publisher = "श्रीवर्द्धनत्तु-रामन्पिळ्ळः"
+"publish year" = "1914"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "32"
+language = "संस्कृतम्"
+printer = "मङ्गलोदयम्-यन्त्रालयः"
+"serial no." = "Ebharati-7079"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMzNTAxMDA0NzU1OTc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कण्ठामृतलहरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODMzNTAxMDA0NzU1OTc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -712,19 +711,6 @@ AGRA
 ————  
 (पण्डितशिवप्रसादेन संस्कृतमिदं पुस्तकम्)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

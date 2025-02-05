@@ -1,17 +1,16 @@
 +++
-TITLE = "श्रीशिवभारतम्"
-AUTHOR = "कवीन्द्रपरमानन्दः"
-PUBLISHER = "विनायक-गणेश-आपटे"
-"PUBLISH YEAR" = "1930"
-DOMAIN = "चरितानि - Biography"
-SUB-DOMAIN = "चरितसम्बद्धपुस्तकानि"
-PAGES = "135"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पुरुषोत्तमशास्त्री-रानडे वासुदेवशास्त्री-मराठे"
-PRINTER = "आनन्दाश्रम-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-8548"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc1MDI4&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीशिवभारतम्"
+author = "कवीन्द्रपरमानन्दः"
+publisher = "विनायक-गणेश-आपटे"
+"publish year" = "1930"
+domain = "चरितानि - Biography"
+sub-domain = "चरितसम्बद्धपुस्तकानि"
+pages = "135"
+language = "संस्कृतम्"
+editor = "पुरुषोत्तमशास्त्री-रानडे वासुदेवशास्त्री-मराठे"
+printer = "आनन्दाश्रम-मुद्रणालयः"
+"serial no." = "Ebharati-8548"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc1MDI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीशिवभारतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc1MDI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7959,19 +7958,6 @@ title = "श्रीशिवभारतम्"
 
 ***      ***
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

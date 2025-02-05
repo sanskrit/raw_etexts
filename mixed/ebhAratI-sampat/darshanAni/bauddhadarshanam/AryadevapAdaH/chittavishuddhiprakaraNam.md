@@ -1,13 +1,12 @@
 +++
-TITLE = "चित्तविशुद्धिप्रकरणम्"
-AUTHOR = "आर्यदेवपादः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3696"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE3MTk5MTExMjA4NDUz&pageno=MjI0MjQyNjk5NTk="
 title = "चित्तविशुद्धिप्रकरणम्"
+author = "आर्यदेवपादः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3696"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE3MTk5MTExMjA4NDUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चित्तविशुद्धिप्रकरणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE3MTk5MTExMjA4NDUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -309,19 +308,6 @@ title = "चित्तविशुद्धिप्रकरणम्"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

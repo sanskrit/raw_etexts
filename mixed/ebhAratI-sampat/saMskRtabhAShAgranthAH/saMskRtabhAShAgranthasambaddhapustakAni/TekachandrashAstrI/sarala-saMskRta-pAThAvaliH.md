@@ -1,15 +1,14 @@
 +++
-TITLE = "सरल-संस्कृत-पाठावलिः"
-AUTHOR = "टेकचन्द्रशास्त्री"
-PUBLISHER = "मेहरचन्द्रलक्ष्मणदासः"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "165"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "नरेन्द्र-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7005"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDExNjYxODc2MzU0Mjc2&pageno=MjI0MjQyNjk5NTk="
 title = "सरल-संस्कृत-पाठावलिः"
+author = "टेकचन्द्रशास्त्री"
+publisher = "मेहरचन्द्रलक्ष्मणदासः"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "165"
+language = "संस्कृतम् हिन्दी"
+printer = "नरेन्द्र-यन्त्रालयः"
+"serial no." = "Ebharati-7005"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDExNjYxODc2MzU0Mjc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सरल-संस्कृत-पाठावलिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDExNjYxODc2MzU0Mjc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4694,19 +4693,6 @@ title = "सरल-संस्कृत-पाठावलिः"
 
 **—** **—** **—** **—** **—**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

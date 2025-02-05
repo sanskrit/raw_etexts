@@ -1,13 +1,12 @@
 +++
-TITLE = "तैत्तिरियोपनिषत्-भृगुवल्लि"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "तैत्तिरीयोपनिषत्"
-PAGES = "51"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "ब्रह्मानन्द-परमार्थानन्दः"
-"SERIAL NO." = "Ebharati-7252"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQzNDQwMDU3NDYxNjk2&pageno=MjI0MjQyNjk5NTk="
 title = "तैत्तिरियोपनिषत्-भृगुवल्लि"
+domain = "उपनिषदः"
+sub-domain = "तैत्तिरीयोपनिषत्"
+pages = "51"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "ब्रह्मानन्द-परमार्थानन्दः"
+"serial no." = "Ebharati-7252"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQzNDQwMDU3NDYxNjk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तैत्तिरियोपनिषत्-भृगुवल्लि	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQzNDQwMDU3NDYxNjk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -666,19 +665,6 @@ In the first six sections, it talked about panca kosa viveka in nutshell. This w
 
 annam. In tenth we got the value of annadanam. Then three sets of upasanas - adhyamikabrahma, adhidevia brahma and akasa upasanas. Upanishad concluded with jnanam(mahavakya) and phalam. Phalam is going beyond mamakara and ahamkara and gainingsarvatma bhava.
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

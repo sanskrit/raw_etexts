@@ -1,12 +1,11 @@
 +++
-TITLE = "सुभाषितानि सार्थम्"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "मिश्रितम्"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4120"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2ODc3ODE1NDA1NTkz&pageno=MjI0MjQyNjk5NTk="
 title = "सुभाषितानि सार्थम्"
+domain = "सुभाषितानि"
+sub-domain = "मिश्रितम्"
+language = "संस्कृतम् आङ्ग्लम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4120"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2ODc3ODE1NDA1NTkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुभाषितानि सार्थम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2ODc3ODE1NDA1NTkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3692,8 +3691,5 @@ Only fools claim pices of stone (diamonds) to be on par with these.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

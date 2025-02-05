@@ -1,18 +1,17 @@
 +++
-TITLE = "दैवज्ञकामधेनुः"
-AUTHOR = "अनवमदर्शी-सङ्घराजः"
-PUBLISHER = "ब्राज्.बि. दास्-आण्ड्-को"
-"PUBLISH YEAR" = "1905"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "314"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "सी.ए.शीलक्खण्ड-स्थाविरा-दोदण्डुवा-सीलोन"
-"BOOKS CONTRIBUTOR" = "आर्. टि .एच् . ग्रिफ्फिथ् जि. तिबौट्"
-PRINTER = "टि.पि. डब्ल्यु.-विद्याविलास-प्रेस्-बनारेस्"
-"SERIAL NO." = "Ebharati-5128"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwMDQxMTM3ODYyMjk0&pageno=MjI0MjQyNjk5NTk="
 title = "दैवज्ञकामधेनुः"
+author = "अनवमदर्शी-सङ्घराजः"
+publisher = "ब्राज्.बि. दास्-आण्ड्-को"
+"publish year" = "1905"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "314"
+language = "संस्कृतम्"
+editor = "सी.ए.शीलक्खण्ड-स्थाविरा-दोदण्डुवा-सीलोन"
+"books contributor" = "आर्. टि .एच् . ग्रिफ्फिथ् जि. तिबौट्"
+printer = "टि.पि. डब्ल्यु.-विद्याविलास-प्रेस्-बनारेस्"
+"serial no." = "Ebharati-5128"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwMDQxMTM3ODYyMjk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दैवज्ञकामधेनुः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjEwMDQxMTM3ODYyMjk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11705,19 +11704,6 @@ PLEASE DO NOT REMOVE CARDS OR SLIPS FROM THIS POCKET
 UNIVERSITY OF TORONTO LIBRARY
 
 ----------
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

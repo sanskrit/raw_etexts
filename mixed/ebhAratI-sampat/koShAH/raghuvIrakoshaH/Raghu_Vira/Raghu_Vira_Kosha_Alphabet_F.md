@@ -1,17 +1,16 @@
 +++
-TITLE = "Raghu Vira Kosha Alphabet F"
-AUTHOR = "Raghu Vira"
-PUBLISHER = "International academy of indian culture New delhi"
-"PUBLISH YEAR" = "1976"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "रघुवीरकोशः"
-PAGES = "58"
-LANGUAGE = "English-Hindi"
-"BOOKS CONTRIBUTOR" = "डा. शशिबाला"
-PRINTER = "Jayyed Press Delhi6"
-"SERIAL NO." = "Ebharati-5247"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMyODg5MzgyMjk2MzA1&pageno=MjI0MjQyNjk5NTk="
 title = "Raghu Vira Kosha Alphabet F"
+author = "Raghu Vira"
+publisher = "International academy of indian culture New delhi"
+"publish year" = "1976"
+domain = "कोषाः"
+sub-domain = "रघुवीरकोशः"
+pages = "58"
+language = "English-Hindi"
+"books contributor" = "डा. शशिबाला"
+printer = "Jayyed Press Delhi6"
+"serial no." = "Ebharati-5247"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMyODg5MzgyMjk2MzA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[Raghu Vira Kosha Alphabet F	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDMyODg5MzgyMjk2MzA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7956,8 +7955,5 @@ seed of most cotton varieties after removal of the longer fibres) **तूलो
 **Fys. Act** (Factories Act) **नि.अधि.**(निर्माणी-अधिनियम)  
 **Fys. Rules** (Factories Rules) **नि. नियम**(निर्माणी-नियम)
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

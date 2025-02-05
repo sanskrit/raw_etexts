@@ -1,12 +1,11 @@
 +++
-TITLE = "शाङ्खायनगृह्यसूत्रम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3194"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4NTkyODk5MTE2NjAz&pageno=MjI0MjQyNjk5NTk="
 title = "शाङ्खायनगृह्यसूत्रम्"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3194"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4NTkyODk5MTE2NjAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शाङ्खायनगृह्यसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY4NTkyODk5MTE2NjAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -641,8 +640,5 @@ Formatted for Maharishi University of Management Vedic Literature Collection
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

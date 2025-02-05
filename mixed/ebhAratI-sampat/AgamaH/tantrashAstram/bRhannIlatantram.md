@@ -1,15 +1,14 @@
 +++
-TITLE = "बृहन्नीलतन्त्रम्"
-"PUBLISH YEAR" = "1938"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "282"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रामचन्द्रः हरभट्टशास्त्री"
-PRINTER = "काश्मीर-मेर्त्न्टैन्-प्रेस्"
-"SERIAL NO." = "Ebharati-6023"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA3NzAxODYzNTgxODc1&pageno=MjI0MjQyNjk5NTk="
 title = "बृहन्नीलतन्त्रम्"
+"publish year" = "1938"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "282"
+language = "संस्कृतम्"
+editor = "रामचन्द्रः हरभट्टशास्त्री"
+printer = "काश्मीर-मेर्त्न्टैन्-प्रेस्"
+"serial no." = "Ebharati-6023"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA3NzAxODYzNTgxODc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बृहन्नीलतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjA3NzAxODYzNTgxODc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10299,8 +10298,5 @@ Srinagar, Kashmir.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

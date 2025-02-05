@@ -1,13 +1,12 @@
 +++
-TITLE = "वैशेषिकदर्शनम् वैशेषिकरसायनसहितम्"
-AUTHOR = "वीरराघवाचार्यशिरोमणिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "वैशेषिकदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3884"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODQwNzY1NTA0OTQ4Mjcz"
 title = "वैशेषिकदर्शनम् वैशेषिकरसायनसहितम्"
+author = "वीरराघवाचार्यशिरोमणिः"
+domain = "दर्शनानि"
+sub-domain = "वैशेषिकदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3884"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODQwNzY1NTA0OTQ4Mjcz"
 
 +++
 [[वैशेषिकदर्शनम् वैशेषिकरसायनसहितम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODQwNzY1NTA0OTQ4Mjcz)]]

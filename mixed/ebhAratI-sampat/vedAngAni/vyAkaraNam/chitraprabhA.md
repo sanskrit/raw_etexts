@@ -1,12 +1,11 @@
 +++
-TITLE = "चित्रप्रभा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3282"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAwOTI2NzY2OTUwNTEz&pageno=MjI0MjQyNjk5NTk="
 title = "चित्रप्रभा"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3282"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAwOTI2NzY2OTUwNTEz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चित्रप्रभा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDAwOTI2NzY2OTUwNTEz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -172613,8 +172612,5 @@ continue to july
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

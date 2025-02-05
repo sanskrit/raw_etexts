@@ -1,17 +1,16 @@
 +++
-TITLE = "नागानन्दम् नाटकम्"
-AUTHOR = "श्रीहर्षः"
-PUBLISHER = "भार्गव-पुस्तकालयः"
-"PUBLISH YEAR" = "1948"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "356"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "गुरुप्रसादशास्त्री"
-"COMMENTARY NAME" = "अभिनवराजलक्ष्मीकलभाषिणी"
-"SERIAL NO." = "Ebharati-5507"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU5NzEwNzAzMTU2ODI1&pageno=MjI0MjQyNjk5NTk="
 title = "नागानन्दम् नाटकम्"
+author = "श्रीहर्षः"
+publisher = "भार्गव-पुस्तकालयः"
+"publish year" = "1948"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "356"
+language = "संस्कृतम्"
+"primary commentator" = "गुरुप्रसादशास्त्री"
+"commentary name" = "अभिनवराजलक्ष्मीकलभाषिणी"
+"serial no." = "Ebharati-5507"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU5NzEwNzAzMTU2ODI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नागानन्दम् नाटकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDU5NzEwNzAzMTU2ODI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8257,19 +8256,6 @@ title = "नागानन्दम् नाटकम्"
 
  मुद्रक—पं० बैकुण्ठनाथ भार्गव, आनन्दसागर प्रेस, गायघाट, बनारस।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

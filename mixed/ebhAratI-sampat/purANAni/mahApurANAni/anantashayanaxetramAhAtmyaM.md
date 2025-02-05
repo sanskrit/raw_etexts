@@ -1,16 +1,15 @@
 +++
-TITLE = "अनन्तशयनक्षेत्रमाहात्म्यं"
-PUBLISHER = "विष्णुशास्त्री"
-"PUBLISH YEAR" = "1913"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "173"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पद्मनाभशास्त्री-सुब्रह्मण्यचार्य"
-PRINTER = "भास्कर-मुद्राणालयः"
-"SERIAL NO." = "Ebharati-6810"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI4Mzk4MDE0NDM3MzU2&pageno=MjI0MjQyNjk5NTk="
 title = "अनन्तशयनक्षेत्रमाहात्म्यं"
+publisher = "विष्णुशास्त्री"
+"publish year" = "1913"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "173"
+language = "संस्कृतम्"
+editor = "पद्मनाभशास्त्री-सुब्रह्मण्यचार्य"
+printer = "भास्कर-मुद्राणालयः"
+"serial no." = "Ebharati-6810"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI4Mzk4MDE0NDM3MzU2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अनन्तशयनक्षेत्रमाहात्म्यं	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDI4Mzk4MDE0NDM3MzU2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4819,8 +4818,5 @@ RESEARCH INSTITUTE,
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

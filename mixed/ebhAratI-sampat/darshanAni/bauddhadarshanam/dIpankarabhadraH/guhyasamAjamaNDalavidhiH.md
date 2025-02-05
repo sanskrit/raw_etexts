@@ -1,13 +1,12 @@
 +++
-TITLE = "गुह्यसमाजमण्डलविधिः"
-AUTHOR = "दीपङ्करभद्रः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3711"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQwODI2NTUwMjQyNjUz&pageno=MjI0MjQyNjk5NTk="
 title = "गुह्यसमाजमण्डलविधिः"
+author = "दीपङ्करभद्रः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3711"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQwODI2NTUwMjQyNjUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गुह्यसमाजमण्डलविधिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQwODI2NTUwMjQyNjUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1375,19 +1374,6 @@ title = "गुह्यसमाजमण्डलविधिः"
 \\Z
 
 ---------------------------------------------------------
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

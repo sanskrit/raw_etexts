@@ -1,11 +1,10 @@
 +++
-TITLE = "मतिभ्रमणम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2828"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjE0OTY1MzczNzc0MTcy"
 title = "मतिभ्रमणम्"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2828"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjE0OTY1MzczNzc0MTcy"
 
 +++
 [[मतिभ्रमणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjE0OTY1MzczNzc0MTcy)]]

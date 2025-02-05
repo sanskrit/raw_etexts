@@ -1,17 +1,16 @@
 +++
-TITLE = "रामतापिनीयोपनिषत्"
-"PUBLISH YEAR" = "1927"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "अन्याः उपनिषदः"
-PAGES = "305"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "अनन्त-राम-शास्त्री-वेतालः"
-"PRIMARY COMMENTATOR" = "आनन्दवनः"
-"COMMENTARY NAME" = "रामकासिक-आनन्दनिधिः"
-PRINTER = "जयकृष्णदास-गुप्तः"
-"SERIAL NO." = "Ebharati-7231"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg0MzU5ODI4ODQxNDk2&pageno=MjI0MjQyNjk5NTk="
 title = "रामतापिनीयोपनिषत्"
+"publish year" = "1927"
+domain = "उपनिषदः"
+sub-domain = "अन्याः उपनिषदः"
+pages = "305"
+language = "संस्कृतम्"
+editor = "अनन्त-राम-शास्त्री-वेतालः"
+"primary commentator" = "आनन्दवनः"
+"commentary name" = "रामकासिक-आनन्दनिधिः"
+printer = "जयकृष्णदास-गुप्तः"
+"serial no." = "Ebharati-7231"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg0MzU5ODI4ODQxNDk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रामतापिनीयोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjg0MzU5ODI4ODQxNDk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4349,8 +4348,5 @@ GOPINATH KAVIRAJ
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

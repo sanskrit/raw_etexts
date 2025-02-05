@@ -1,17 +1,16 @@
 +++
-TITLE = "आत्मबोधः"
-AUTHOR = "शंकराचार्यः"
-"PUBLISH YEAR" = "1886"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतदर्शनम्"
-PAGES = "144"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "माधवानन्दः"
-"COMMENTARY NAME" = "हिन्दुस्थानी"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7901"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIyNjczMTEzNjY0ODU3&pageno=MjI0MjQyNjk5NTk="
 title = "आत्मबोधः"
+author = "शंकराचार्यः"
+"publish year" = "1886"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतदर्शनम्"
+pages = "144"
+language = "संस्कृतम्"
+"primary commentator" = "माधवानन्दः"
+"commentary name" = "हिन्दुस्थानी"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-7901"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIyNjczMTEzNjY0ODU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आत्मबोधः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjIyNjczMTEzNjY0ODU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1256,19 +1255,6 @@ title = "आत्मबोधः"
 
 ** इति श्रीमन्माधवानंदपरमहंसपरिव्राजविरचिता तत्त्वबोधप्रकरण की सुबोधिनीभाषाटीका समाप्ता॥ शुभं भवतु॥**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

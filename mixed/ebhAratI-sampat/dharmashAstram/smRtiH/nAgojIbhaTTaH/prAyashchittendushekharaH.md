@@ -1,17 +1,16 @@
 +++
-TITLE = "प्रायश्चित्तेन्दुशेखरः"
-AUTHOR = "नागोजीभट्टः"
-PUBLISHER = "आयसाक्षरः"
-"PUBLISH YEAR" = "1931"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "175"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "श्रीमन्महादेव चिमणाजी आपटे"
-PRINTER = "आनन्दाश्रममुद्रणालयः"
-"SERIAL NO." = "Ebharati-4950"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA5ODg5OTkzMTgxNTc0&pageno=MjI0MjQyNjk5NTk="
 title = "प्रायश्चित्तेन्दुशेखरः"
+author = "नागोजीभट्टः"
+publisher = "आयसाक्षरः"
+"publish year" = "1931"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "175"
+language = "संस्कृतम्"
+editor = "श्रीमन्महादेव चिमणाजी आपटे"
+printer = "आनन्दाश्रममुद्रणालयः"
+"serial no." = "Ebharati-4950"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA5ODg5OTkzMTgxNTc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रायश्चित्तेन्दुशेखरः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA5ODg5OTkzMTgxNTc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1772,19 +1771,6 @@ title = "प्रायश्चित्तेन्दुशेखरः"
 
 **————0————**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,16 +1,15 @@
 +++
-TITLE = "तत्त्वचिन्तामणिः"
-AUTHOR = "गङ्गेशोपाध्यायः"
-"PUBLISH YEAR" = "1872"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायदर्शनम्"
-PAGES = "32"
-LANGUAGE = "संस्कॄतम्"
-EDITOR = "जीवानन्दविद्यासागरः"
-PRINTER = "सुचारू-यन्त्तालयः"
-"SERIAL NO." = "Ebharati-8391"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAwMzYxMDc0NDA1NTA4&pageno=MjI0MjQyNjk5NTk="
 title = "तत्त्वचिन्तामणिः"
+author = "गङ्गेशोपाध्यायः"
+"publish year" = "1872"
+domain = "दर्शनानि"
+sub-domain = "न्यायदर्शनम्"
+pages = "32"
+language = "संस्कॄतम्"
+editor = "जीवानन्दविद्यासागरः"
+printer = "सुचारू-यन्त्तालयः"
+"serial no." = "Ebharati-8391"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAwMzYxMDc0NDA1NTA4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तत्त्वचिन्तामणिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjAwMzYxMDc0NDA1NTA4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -149,19 +148,6 @@ title = "तत्त्वचिन्तामणिः"
 
  वि, ए, उपाधिधारिणा श्रीजीवानन्द-विद्यासागर-भट्टाचार्य्येण संस्कृतः॥
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,18 +1,17 @@
 +++
-TITLE = "पञ्चतन्त्रम्"
-AUTHOR = "विष्णुशर्म"
-PUBLISHER = "क्षेमराज-श्रीकृष्णदास"
-"PUBLISH YEAR" = "1910"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "536"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "ज्वालाप्रसाद मिश्र"
-"COMMENTARY NAME" = "नीतिसर्वस्व"
-PRINTER = "क्षेमराज-श्रीकृष्णदास"
-"SERIAL NO." = "Ebharati-5658"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2MzI2OTM3NjQxMzQ1&pageno=MjI0MjQyNjk5NTk="
 title = "पञ्चतन्त्रम्"
+author = "विष्णुशर्म"
+publisher = "क्षेमराज-श्रीकृष्णदास"
+"publish year" = "1910"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "536"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "ज्वालाप्रसाद मिश्र"
+"commentary name" = "नीतिसर्वस्व"
+printer = "क्षेमराज-श्रीकृष्णदास"
+"serial no." = "Ebharati-5658"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2MzI2OTM3NjQxMzQ1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पञ्चतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njc2MzI2OTM3NjQxMzQ1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10892,8 +10891,5 @@ title = "पञ्चतन्त्रम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

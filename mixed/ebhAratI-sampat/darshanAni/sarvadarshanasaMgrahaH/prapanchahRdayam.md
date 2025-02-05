@@ -1,16 +1,15 @@
 +++
-TITLE = "प्रपञ्चहृदयम्"
-PUBLISHER = "गवर्नमेण्ट्-आफ्-ट्रवण्कोर्"
-"PUBLISH YEAR" = "1915"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "सर्वदर्शनसंग्रहः"
-PAGES = "127"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "त. गणपति-शास्त्री"
-PRINTER = "राजकीय-मुद्रणालयः त्रिवेन्द्रम्"
-"SERIAL NO." = "Ebharati-7720"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ4Nzk0MTk5MDkwMTQ3&pageno=MjI0MjQyNjk5NTk="
 title = "प्रपञ्चहृदयम्"
+publisher = "गवर्नमेण्ट्-आफ्-ट्रवण्कोर्"
+"publish year" = "1915"
+domain = "दर्शनानि"
+sub-domain = "सर्वदर्शनसंग्रहः"
+pages = "127"
+language = "संस्कृतम्"
+editor = "त. गणपति-शास्त्री"
+printer = "राजकीय-मुद्रणालयः त्रिवेन्द्रम्"
+"serial no." = "Ebharati-7720"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ4Nzk0MTk5MDkwMTQ3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रपञ्चहृदयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ4Nzk0MTk5MDkwMTQ3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2704,8 +2703,5 @@ Trivandrum,
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

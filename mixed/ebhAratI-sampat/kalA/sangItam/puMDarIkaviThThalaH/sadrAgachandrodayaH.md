@@ -1,16 +1,15 @@
 +++
-TITLE = "सद्रागचन्द्रोदयः"
-AUTHOR = "पुंडरीकविठ्ठलः"
-PUBLISHER = "भालचन्द्रसीतारामसुकथनकरः"
-"PUBLISH YEAR" = "१९१२"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "30"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "निर्णयसागरयंत्रालयः"
-"SERIAL NO." = "Ebharati-4676"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyNTY1OTI0ODc4ODQ0&pageno=MjI0MjQyNjk5NTk="
 title = "सद्रागचन्द्रोदयः"
+author = "पुंडरीकविठ्ठलः"
+publisher = "भालचन्द्रसीतारामसुकथनकरः"
+"publish year" = "१९१२"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "30"
+language = "संस्कृतम्"
+printer = "निर्णयसागरयंत्रालयः"
+"serial no." = "Ebharati-4676"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyNTY1OTI0ODc4ODQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सद्रागचन्द्रोदयः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjcyNTY1OTI0ODc4ODQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -943,19 +942,6 @@ title = "सद्रागचन्द्रोदयः"
 **समाप्तोऽयं रागचंद्रोदयो ग्रंथः॥**
 
 **![](../books_images/U-IMG-1694242727mama.png)**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

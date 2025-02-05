@@ -1,17 +1,16 @@
 +++
-TITLE = "ज्योतिर्निबन्धः"
-AUTHOR = "शिवराजः"
-PUBLISHER = "विनायक-गणेश-आपटे"
-"PUBLISH YEAR" = "१९१९"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "399"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रङ्गनाथः"
-PRINTER = "आनन्दाश्रम-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1225"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5NjY5NjkzNTk1NzEx&pageno=MjI0MjQyNjk5NTk="
 title = "ज्योतिर्निबन्धः"
+author = "शिवराजः"
+publisher = "विनायक-गणेश-आपटे"
+"publish year" = "१९१९"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "399"
+language = "संस्कृतम्"
+editor = "रङ्गनाथः"
+printer = "आनन्दाश्रम-मुद्रणालयः"
+"serial no." = "Ebharati-1225"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5NjY5NjkzNTk1NzEx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ज्योतिर्निबन्धः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU5NjY5NjkzNTk1NzEx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -13558,19 +13557,6 @@ title = "ज्योतिर्निबन्धः"
 
 ![](../books_images/U-IMG-1690377777000.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

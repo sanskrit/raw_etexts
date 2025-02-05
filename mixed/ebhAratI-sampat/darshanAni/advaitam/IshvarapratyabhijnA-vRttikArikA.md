@@ -1,12 +1,11 @@
 +++
-TITLE = "ईश्वरप्रत्यभिज्ञा-वृत्तिकारिका"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3854"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgzNDkyODE1OTY5OTYz"
 title = "ईश्वरप्रत्यभिज्ञा-वृत्तिकारिका"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3854"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgzNDkyODE1OTY5OTYz"
 
 +++
 [[ईश्वरप्रत्यभिज्ञा-वृत्तिकारिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODgzNDkyODE1OTY5OTYz)]]

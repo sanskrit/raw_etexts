@@ -1,15 +1,14 @@
 +++
-TITLE = "कादम्बिनी"
-AUTHOR = "मधुसूदनशर्मा"
-"PUBLISH YEAR" = "1922"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "189"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "जैनसिद्धान्तप्रकाश-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5744"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA0MTU1&pageno=MjI0MjQyNjk5NTk="
 title = "कादम्बिनी"
+author = "मधुसूदनशर्मा"
+"publish year" = "1922"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "189"
+language = "संस्कृतम्"
+printer = "जैनसिद्धान्तप्रकाश-मुद्रणालयः"
+"serial no." = "Ebharati-5744"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA0MTU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कादम्बिनी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA0MTU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4464,19 +4463,6 @@ title = "कादम्बिनी"
 **इत्थं कादम्बिनी पूर्णा पूर्णपञ्चग्रहेन्दुभिः ( १९५० )  
 प्रमिते वैक्रमे वर्षे तया तुष्यतु चर्षणिः॥३६५॥**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

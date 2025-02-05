@@ -1,12 +1,11 @@
 +++
-TITLE = "सुदर्शनाचरित्रम्"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "गद्यम्"
-PAGES = "140"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8906"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMzMDEwNTM1MjQ5NDU4&pageno=MjI0MjQyNjk5NTk="
 title = "सुदर्शनाचरित्रम्"
+domain = "काव्यानि"
+sub-domain = "गद्यम्"
+pages = "140"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8906"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMzMDEwNTM1MjQ5NDU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुदर्शनाचरित्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjMzMDEwNTM1MjQ5NDU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2361,8 +2360,5 @@ title = "सुदर्शनाचरित्रम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

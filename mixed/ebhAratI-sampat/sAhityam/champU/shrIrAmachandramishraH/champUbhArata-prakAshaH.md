@@ -1,12 +1,11 @@
 +++
-TITLE = "चम्पूभारत-प्रकाशः"
-AUTHOR = "श्रीरामचन्द्रमिश्रः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "चम्पू"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2754"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgxMDM2MTU2MzczNDYy"
 title = "चम्पूभारत-प्रकाशः"
+author = "श्रीरामचन्द्रमिश्रः"
+domain = "साहित्यम्"
+sub-domain = "चम्पू"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2754"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgxMDM2MTU2MzczNDYy"
 
 +++
 [[चम्पूभारत-प्रकाशः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODgxMDM2MTU2MzczNDYy)]]

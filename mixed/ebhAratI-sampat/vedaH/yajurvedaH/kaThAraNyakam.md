@@ -1,12 +1,11 @@
 +++
-TITLE = "कठारण्यकम्"
-DOMAIN = "वेदः"
-SUB-DOMAIN = "यजुर्वेदः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4363"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgxNzg2NTA2MTM4ODE0&pageno=MjI0MjQyNjk5NTk="
 title = "कठारण्यकम्"
+domain = "वेदः"
+sub-domain = "यजुर्वेदः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4363"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgxNzg2NTA2MTM4ODE0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कठारण्यकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjgxNzg2NTA2MTM4ODE0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9977,8 +9976,5 @@ title = "कठारण्यकम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

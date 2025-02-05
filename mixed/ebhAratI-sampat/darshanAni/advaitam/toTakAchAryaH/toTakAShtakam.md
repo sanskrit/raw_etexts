@@ -1,13 +1,12 @@
 +++
-TITLE = "तोटकाष्तकम्"
-AUTHOR = "तोटकाचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "2"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-"SERIAL NO." = "Ebharati-2166"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwNjgwMTY4NzI5NzAy&pageno=MjI0MjQyNjk5NTk="
 title = "तोटकाष्तकम्"
+author = "तोटकाचार्यः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "2"
+language = "संस्कृतम् आङ्ग्लम्"
+"serial no." = "Ebharati-2166"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwNjgwMTY4NzI5NzAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तोटकाष्तकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjUwNjgwMTY4NzI5NzAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -82,19 +81,6 @@ The Totakashtaka has been composed in the Totaka meter, in which each paada (qua
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

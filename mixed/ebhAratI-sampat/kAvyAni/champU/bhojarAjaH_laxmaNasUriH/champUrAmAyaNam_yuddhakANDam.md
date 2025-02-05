@@ -1,18 +1,17 @@
 +++
-TITLE = "चम्पूरामायणम् (युद्धकाण्डम्)"
-AUTHOR = "भोजराजः लक्ष्मणसूरिः"
-PUBLISHER = "पाण्डुरङ्ग-जावजी"
-"PUBLISH YEAR" = "1933"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "चम्पू"
-PAGES = "403"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वासुदेव-लक्ष्मण-शर्मा-पणशीकरः"
-"PRIMARY COMMENTATOR" = "रामचन्द्रबुधेन्द्रः"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8689"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU3NDA0MDUzMTExNDM4&pageno=MjI0MjQyNjk5NTk="
 title = "चम्पूरामायणम् (युद्धकाण्डम्)"
+author = "भोजराजः लक्ष्मणसूरिः"
+publisher = "पाण्डुरङ्ग-जावजी"
+"publish year" = "1933"
+domain = "काव्यानि"
+sub-domain = "चम्पू"
+pages = "403"
+language = "संस्कृतम्"
+editor = "वासुदेव-लक्ष्मण-शर्मा-पणशीकरः"
+"primary commentator" = "रामचन्द्रबुधेन्द्रः"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-8689"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU3NDA0MDUzMTExNDM4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चम्पूरामायणम् (युद्धकाण्डम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODU3NDA0MDUzMTExNDM4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5657,19 +5656,6 @@ PRINTER:— Ramchandra Yesu Shedge,} 26-28, Kolbhat Lane, Bombay.
 व्याख्या श्रीयुद्धकाण्डस्य पूर्णा मञ्जूषिकाभिधा॥**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

@@ -1,19 +1,18 @@
 +++
-TITLE = "रघुवंशम्"
-AUTHOR = "कालिदासः"
-PUBLISHER = "हितचिन्तकः"
-"PUBLISH YEAR" = "1931"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "319"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "बालकृष्णशास्त्री"
-"PRIMARY COMMENTATOR" = "मल्लिनाथः"
-"COMMENTARY NAME" = "संजीविनी"
-PRINTER = "हितचिन्तक-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7861"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQzOTc2MTY0NjI2NDU3&pageno=MjI0MjQyNjk5NTk="
 title = "रघुवंशम्"
+author = "कालिदासः"
+publisher = "हितचिन्तकः"
+"publish year" = "1931"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "319"
+language = "संस्कृतम्"
+editor = "बालकृष्णशास्त्री"
+"primary commentator" = "मल्लिनाथः"
+"commentary name" = "संजीविनी"
+printer = "हितचिन्तक-यन्त्रालयः"
+"serial no." = "Ebharati-7861"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQzOTc2MTY0NjI2NDU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रघुवंशम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQzOTc2MTY0NjI2NDU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9324,8 +9323,5 @@ Ramghat, Benares City.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

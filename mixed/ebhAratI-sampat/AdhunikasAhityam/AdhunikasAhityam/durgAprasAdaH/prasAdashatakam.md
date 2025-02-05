@@ -1,17 +1,16 @@
 +++
-TITLE = "प्रसादशतकम्"
-AUTHOR = "दुर्गाप्रसादः"
-PUBLISHER = "निर्णयसागर-यन्त्रालयः"
-"PUBLISH YEAR" = "1892"
-DOMAIN = "आधुनिकसाहित्यम्"
-SUB-DOMAIN = "आधुनिकसाहित्यम्"
-PAGES = "24"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "काशीनाथः"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6183"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIyNTk4NjY3NDQ1Mzk1&pageno=MjI0MjQyNjk5NTk="
 title = "प्रसादशतकम्"
+author = "दुर्गाप्रसादः"
+publisher = "निर्णयसागर-यन्त्रालयः"
+"publish year" = "1892"
+domain = "आधुनिकसाहित्यम्"
+sub-domain = "आधुनिकसाहित्यम्"
+pages = "24"
+language = "संस्कृतम्"
+editor = "काशीनाथः"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-6183"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIyNTk4NjY3NDQ1Mzk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रसादशतकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjIyNTk4NjY3NDQ1Mzk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -704,19 +703,6 @@ BOMBAY.
 दुर्गाप्रसादविरचितं प्रसादशतकम् ।  
 ![](../books_images/U-IMG-1727351327Screenshot2023-06-15124029.png)**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

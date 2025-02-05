@@ -1,16 +1,15 @@
 +++
-TITLE = "नवरात्रप्रदीपः"
-AUTHOR = "विनायकः"
-"PUBLISH YEAR" = "1928"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शाक्तम्"
-PAGES = "171"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "विद्यानाथशास्त्री"
-PRINTER = "विद्याविलास-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7829"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM4MTI5MTg1NDU1MTU3&pageno=MjI0MjQyNjk5NTk="
 title = "नवरात्रप्रदीपः"
+author = "विनायकः"
+"publish year" = "1928"
+domain = "आगमः"
+sub-domain = "शाक्तम्"
+pages = "171"
+language = "संस्कृतम्"
+editor = "विद्यानाथशास्त्री"
+printer = "विद्याविलास-यन्त्रालयः"
+"serial no." = "Ebharati-7829"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM4MTI5MTg1NDU1MTU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नवरात्रप्रदीपः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODM4MTI5MTg1NDU1MTU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2957,19 +2956,6 @@ Vol VI—(In progress)
 The Superintendent, Government Press  
 Allahabad U P. (India)**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

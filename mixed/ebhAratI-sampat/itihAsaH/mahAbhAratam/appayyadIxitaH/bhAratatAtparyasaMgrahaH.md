@@ -1,16 +1,15 @@
 +++
-TITLE = "भारततात्पर्यसंग्रहः"
-AUTHOR = "अप्पय्यदीक्षितः"
-PUBLISHER = "तुकारामजावजी"
-"PUBLISH YEAR" = "1929"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "महाभारतम्"
-PAGES = "44"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "वाणिविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6082"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2MDE0NjQxOTQ4Mzg1&pageno=MjI0MjQyNjk5NTk="
 title = "भारततात्पर्यसंग्रहः"
+author = "अप्पय्यदीक्षितः"
+publisher = "तुकारामजावजी"
+"publish year" = "1929"
+domain = "इतिहासः"
+sub-domain = "महाभारतम्"
+pages = "44"
+language = "संस्कृतम्"
+printer = "वाणिविलास-मुद्रणालयः"
+"serial no." = "Ebharati-6082"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2MDE0NjQxOTQ4Mzg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भारततात्पर्यसंग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDA2MDE0NjQxOTQ4Mzg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -421,19 +420,6 @@ title = "भारततात्पर्यसंग्रहः"
 संमुद्रितः  
 १९२९
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

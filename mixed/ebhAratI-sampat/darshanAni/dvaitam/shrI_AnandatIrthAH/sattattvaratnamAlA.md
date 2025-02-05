@@ -1,13 +1,12 @@
 +++
-TITLE = "सत्तत्त्वरत्नमाला"
-AUTHOR = "श्री आनन्दतीर्थाः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3109"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODk5OTg2NzEzMjU0ODky"
 title = "सत्तत्त्वरत्नमाला"
+author = "श्री आनन्दतीर्थाः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3109"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODk5OTg2NzEzMjU0ODky"
 
 +++
 [[सत्तत्त्वरत्नमाला	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODk5OTg2NzEzMjU0ODky)]]

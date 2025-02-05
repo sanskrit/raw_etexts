@@ -1,18 +1,17 @@
 +++
-TITLE = "चमत्कारचिंतामणि"
-AUTHOR = "नारायण"
-PUBLISHER = "पेंठ बुधवार पुणें"
-"PUBLISH YEAR" = "1865"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "62"
-LANGUAGE = "संस्कृतम्-मराठी"
-EDITOR = "अनंताचार्य अष्टपुत्रे वाईकर"
-"SECOND EDITOR" = "लक्ष्मण गोपाळ जोशीदिक्षित सावारकर"
-"BOOKS CONTRIBUTOR" = "गंगाधर गोविंद सापकर बंधु"
-"SERIAL NO." = "Ebharati-4972"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgxMjIzNzEzMzkyNzc0&pageno=MjI0MjQyNjk5NTk="
 title = "चमत्कारचिंतामणि"
+author = "नारायण"
+publisher = "पेंठ बुधवार पुणें"
+"publish year" = "1865"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "62"
+language = "संस्कृतम्-मराठी"
+editor = "अनंताचार्य अष्टपुत्रे वाईकर"
+"second editor" = "लक्ष्मण गोपाळ जोशीदिक्षित सावारकर"
+"books contributor" = "गंगाधर गोविंद सापकर बंधु"
+"serial no." = "Ebharati-4972"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgxMjIzNzEzMzkyNzc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चमत्कारचिंतामणि	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDgxMjIzNzEzMzkyNzc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1483,19 +1482,6 @@ title = "चमत्कारचिंतामणि"
 | **जोगाईचे अंबे** |                        **रा० कृष्ण त्रिंबकराव**                        |      **१०**       |
 |    **पुणें.**    |                          **" गणेश हरी साठे**                           |      **१०**       |
 |      **"**       | ****"दाहाचे आंत प्रती घेणारांची संख्या ११३ आणि प्रतीची संख्या ३१७**** |                   |
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

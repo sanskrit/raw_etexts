@@ -1,15 +1,14 @@
 +++
-TITLE = "विवाहवृन्दावनम् (शिवकरीभाषाटीकायुतम्)"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "319"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "शिवदत्तत्रिपाठी"
-"PRIMARY COMMENTATOR" = "शिवदत्तत्रिपाठी"
-"COMMENTARY NAME" = "शिवकरीभाषाटीका"
-"SERIAL NO." = "Ebharati-1286"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk2NDU3NzYxMTU0MzIx&pageno=MjI0MjQyNjk5NTk="
 title = "विवाहवृन्दावनम् (शिवकरीभाषाटीकायुतम्)"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "319"
+language = "संस्कृतम् हिन्दी"
+translator = "शिवदत्तत्रिपाठी"
+"primary commentator" = "शिवदत्तत्रिपाठी"
+"commentary name" = "शिवकरीभाषाटीका"
+"serial no." = "Ebharati-1286"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk2NDU3NzYxMTU0MzIx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विवाहवृन्दावनम् (शिवकरीभाषाटीकायुतम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjk2NDU3NzYxMTU0MzIx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6348,8 +6347,5 @@ title = "विवाहवृन्दावनम् (शिवकरीभा
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

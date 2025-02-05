@@ -1,17 +1,16 @@
 +++
-TITLE = "काव्यमीमंसा"
-AUTHOR = "राजशेखरः"
-PUBLISHER = "मोहनदत्तः"
-"PUBLISH YEAR" = "1924"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "साहित्येतिहासः"
-PAGES = "190"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "सि.डि.दलाल् आर्.ए.शास्त्री"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5938"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM4MTA1Nzg2NTIwMDc1&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यमीमंसा"
+author = "राजशेखरः"
+publisher = "मोहनदत्तः"
+"publish year" = "1924"
+domain = "साहित्यम्"
+sub-domain = "साहित्येतिहासः"
+pages = "190"
+language = "संस्कृतम्"
+editor = "सि.डि.दलाल् आर्.ए.शास्त्री"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-5938"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM4MTA1Nzg2NTIwMDc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यमीमंसा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM4MTA1Nzg2NTIwMDc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6688,8 +6687,5 @@ This work gives an interesting description of the city of Ahmedabad and the Prov
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

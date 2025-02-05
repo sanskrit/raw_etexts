@@ -1,18 +1,17 @@
 +++
-TITLE = "श्रीमद्भगवद्गीता (प्रथमद्वितीयाध्यायौ)"
-PUBLISHER = "विनायक-गणेश-आपटे"
-"PUBLISH YEAR" = "1938"
-DOMAIN = "भगवद्गीता"
-SUB-DOMAIN = "भगवद्गीतासम्बद्धपुस्तकानि"
-PAGES = "233"
-LANGUAGE = "संस्कॄतम्"
-EDITOR = "शङ्करशास्त्रीमारूलकरः"
-"PRIMARY COMMENTATOR" = "वासुदेवशास्त्री-अभ्यङ्करः"
-"COMMENTARY NAME" = "अद्वैताङ्कुरा"
-PRINTER = "आनन्दाश्रममुद्रणालयम्"
-"SERIAL NO." = "Ebharati-8712"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY0MDg5MzYyOTEzNjM4&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमद्भगवद्गीता (प्रथमद्वितीयाध्यायौ)"
+publisher = "विनायक-गणेश-आपटे"
+"publish year" = "1938"
+domain = "भगवद्गीता"
+sub-domain = "भगवद्गीतासम्बद्धपुस्तकानि"
+pages = "233"
+language = "संस्कॄतम्"
+editor = "शङ्करशास्त्रीमारूलकरः"
+"primary commentator" = "वासुदेवशास्त्री-अभ्यङ्करः"
+"commentary name" = "अद्वैताङ्कुरा"
+printer = "आनन्दाश्रममुद्रणालयम्"
+"serial no." = "Ebharati-8712"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY0MDg5MzYyOTEzNjM4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमद्भगवद्गीता (प्रथमद्वितीयाध्यायौ)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDY0MDg5MzYyOTEzNjM4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3178,8 +3177,5 @@ title = "श्रीमद्भगवद्गीता (प्रथमद्
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,15 +1,14 @@
 +++
-TITLE = "नीतिशृङ्गारवैराग्य-शतकत्रयम् सटीकम्"
-AUTHOR = "भर्तृहरिः"
-PUBLISHER = "कवलेसरसिंहः"
-"PUBLISH YEAR" = "शक १८१०"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "विष्णुदत्तः"
-"SERIAL NO." = "Ebharati-5072"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgzNDY1MTQ5Mjk4Njg0&pageno=MjI0MjQyNjk5NTk="
 title = "नीतिशृङ्गारवैराग्य-शतकत्रयम् सटीकम्"
+author = "भर्तृहरिः"
+publisher = "कवलेसरसिंहः"
+"publish year" = "शक १८१०"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+language = "संस्कृतम्"
+printer = "विष्णुदत्तः"
+"serial no." = "Ebharati-5072"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgzNDY1MTQ5Mjk4Njg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नीतिशृङ्गारवैराग्य-शतकत्रयम् सटीकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDgzNDY1MTQ5Mjk4Njg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5732,8 +5731,5 @@ SAVE AND CONTINUEAfter send to admin you not able to edit it SEND TO ADMIN © 20
 ॥ सटीकंसंपूर्णम्॥  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

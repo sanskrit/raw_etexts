@@ -1,14 +1,13 @@
 +++
-TITLE = "ब्रह्मसूत्रभाष्यम् (तृतीयो भागः)"
-AUTHOR = "वेदव्यासः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतदर्शनम्"
-PAGES = "376"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीवाणिविलासमुद्रणालयम् श्रीरङ्गम्"
-"SERIAL NO." = "Ebharati-8568"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk2MTcwNTA4NTk0MjI4&pageno=MjI0MjQyNjk5NTk="
 title = "ब्रह्मसूत्रभाष्यम् (तृतीयो भागः)"
+author = "वेदव्यासः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतदर्शनम्"
+pages = "376"
+language = "संस्कृतम्"
+printer = "श्रीवाणिविलासमुद्रणालयम् श्रीरङ्गम्"
+"serial no." = "Ebharati-8568"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk2MTcwNTA4NTk0MjI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ब्रह्मसूत्रभाष्यम् (तृतीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk2MTcwNTA4NTk0MjI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3906,19 +3905,6 @@ title = "ब्रह्मसूत्रभाष्यम् (तृतीय
 
 ![](../books_images/U-IMG-1737364505000951.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

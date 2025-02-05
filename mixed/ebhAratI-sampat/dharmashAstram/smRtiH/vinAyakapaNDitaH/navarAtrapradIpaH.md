@@ -1,17 +1,16 @@
 +++
-TITLE = "नवरात्रप्रदीपः"
-AUTHOR = "विनायकपण्डितः"
-"PUBLISH YEAR" = "1928"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "171"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वैद्यानाथशस्त्री"
-"PRIMARY COMMENTATOR" = "गोपिनाथकविराजः"
-PRINTER = "विद्याविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5197"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMxNzY4MTc0Mjk4ODk0&pageno=MjI0MjQyNjk5NTk="
 title = "नवरात्रप्रदीपः"
+author = "विनायकपण्डितः"
+"publish year" = "1928"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "171"
+language = "संस्कृतम्"
+editor = "वैद्यानाथशस्त्री"
+"primary commentator" = "गोपिनाथकविराजः"
+printer = "विद्याविलास-मुद्रणालयः"
+"serial no." = "Ebharati-5197"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMxNzY4MTc0Mjk4ODk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नवरात्रप्रदीपः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDMxNzY4MTc0Mjk4ODk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3431,19 +3430,6 @@ GOVT. SANSKRIT COLLEGE }   GOPINATHKAVIRAJ.
 |      "      |      "      |
 |   दानर्चा   |  दानार्चा   |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

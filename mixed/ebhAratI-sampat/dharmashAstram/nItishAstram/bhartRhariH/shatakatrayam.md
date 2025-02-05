@@ -1,18 +1,17 @@
 +++
-TITLE = "शतकत्रयम्"
-AUTHOR = "भर्तृहरिः"
-PUBLISHER = "जयन्तकृष्ण-एइच्. दवे"
-"PUBLISH YEAR" = "1946"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "214"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "दामोदर-धर्मानन्द-कोसांबी"
-"PRIMARY COMMENTATOR" = "कृष्णमूर्तिशर्मा"
-PRINTER = "रामचन्द्र-येशु-शेडगे"
-"SERIAL NO." = "Ebharati-6461"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ1ODgyMjI3MTMyMDI2&pageno=MjI0MjQyNjk5NTk="
 title = "शतकत्रयम्"
+author = "भर्तृहरिः"
+publisher = "जयन्तकृष्ण-एइच्. दवे"
+"publish year" = "1946"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "214"
+language = "संस्कृतम्"
+editor = "दामोदर-धर्मानन्द-कोसांबी"
+"primary commentator" = "कृष्णमूर्तिशर्मा"
+printer = "रामचन्द्र-येशु-शेडगे"
+"serial no." = "Ebharati-6461"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ1ODgyMjI3MTMyMDI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शतकत्रयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ1ODgyMjI3MTMyMDI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4880,8 +4879,5 @@ Tata Institute of Fundamental Research.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

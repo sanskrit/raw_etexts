@@ -1,13 +1,12 @@
 +++
-TITLE = "शास्त्रदीपिका"
-AUTHOR = "पार्थसारथिमिश्रः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2628"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNTgwNTIxODcyMjUy&pageno=MjI0MjQyNjk5NTk="
 title = "शास्त्रदीपिका"
+author = "पार्थसारथिमिश्रः"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2628"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNTgwNTIxODcyMjUy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शास्त्रदीपिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNTgwNTIxODcyMjUy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3316,19 +3315,6 @@ title = "शास्त्रदीपिका"
 ननु प्राप्यकारि श्रोत्रं, न च ध्वन्युत्पत्तिदेशः श्रोत्रेण प्राप्यत इति कथं तस्य श्रोत्रेण ग्रहणम्, तदग्रहे च कथं तद्विशिष्टशब्दग्रहः /  
 उच्यते- नायं श्रोत्रतस्तद्विशिष्टशब्दप्रत्ययः, किं तु श्रोत्रं गि स्वदेशस्थितं शब्दं बोधयदपि न देशविशिष्टं बोधयति किन्तु स्वरूपमात्रेण, यतस्तु दिश आगता ध्वनयस्तया विशिष्टं शब्दं बोदयन्ति, सा हि दिक् श्रोत्रप्राप्ता शक्यते श्रोत्रेण ग्रहीतुम्, यद्यपि न स्वातन्त्र्येण दिशः श्रोत्रग्राह्यत्वं तथापि रावे गृह्यमाणे तद्विशेषणतया अथ च विषयेषु स्वेषु गृह्यमाणेषु तद्विशेषणतया सर्वैरपीन्द्रियैर्गृह्यते तद्वत् /  
 ततश्चास्यां दिशि शब्द इति विशिष्टग्रहणं तावत्सिद्धम् /
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

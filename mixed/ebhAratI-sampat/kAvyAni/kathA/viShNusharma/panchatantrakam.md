@@ -1,17 +1,16 @@
 +++
-TITLE = "पञ्चतन्त्रकम्"
-AUTHOR = "विष्णुशर्म"
-PUBLISHER = "तुकाराम जावजी"
-"PUBLISH YEAR" = "1896"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "244"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "काशिनाथ पाण्डुरङ्ग परब"
-PRINTER = "तुकाराम जावजी"
-"SERIAL NO." = "Ebharati-5663"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg3NTM4MDI3NjI2MzQ1&pageno=MjI0MjQyNjk5NTk="
 title = "पञ्चतन्त्रकम्"
+author = "विष्णुशर्म"
+publisher = "तुकाराम जावजी"
+"publish year" = "1896"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "244"
+language = "संस्कृतम्"
+editor = "काशिनाथ पाण्डुरङ्ग परब"
+printer = "तुकाराम जावजी"
+"serial no." = "Ebharati-5663"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg3NTM4MDI3NjI2MzQ1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पञ्चतन्त्रकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njg3NTM4MDI3NjI2MzQ1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6003,8 +6002,5 @@ title = "पञ्चतन्त्रकम्"
 
 कोपि सहायः कार्य,नैकाकिना गन्तव्यम्।यतो मया
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,15 +1,14 @@
 +++
-TITLE = "वयोनिर्णयः भाग-2"
-"PUBLISH YEAR" = "1910"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "30"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "टि. गणपतिशास्त्री"
-PRINTER = "श्री विद्याक्षर शाला"
-"SERIAL NO." = "Ebharati-5058"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc0MDcxNDk5ODQ1NTg0&pageno=MjI0MjQyNjk5NTk="
 title = "वयोनिर्णयः भाग-2"
+"publish year" = "1910"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "30"
+language = "संस्कृतम्"
+editor = "टि. गणपतिशास्त्री"
+printer = "श्री विद्याक्षर शाला"
+"serial no." = "Ebharati-5058"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc0MDcxNDk5ODQ1NTg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वयोनिर्णयः भाग-2	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njc0MDcxNDk5ODQ1NTg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -237,8 +236,5 @@ anti गमयन्ती सत्यनुगृह्णातिच स्�
 
 ----------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

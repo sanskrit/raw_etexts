@@ -1,13 +1,12 @@
 +++
-TITLE = "भरतकवचम्-श्रीमदानन्दरामायणं"
-AUTHOR = "श्री वाल्मीकिः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3171"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYxMDI3NDgwNDA0NDAz&pageno=MjI0MjQyNjk5NTk="
 title = "भरतकवचम्-श्रीमदानन्दरामायणं"
+author = "श्री वाल्मीकिः"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3171"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYxMDI3NDgwNDA0NDAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भरतकवचम्-श्रीमदानन्दरामायणं	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjYxMDI3NDgwNDA0NDAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -214,19 +213,6 @@ title = "भरतकवचम्-श्रीमदानन्दरामा�
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

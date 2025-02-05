@@ -1,12 +1,11 @@
 +++
-TITLE = "पञ्चदशी"
-AUTHOR = "Vidhyaranyamuni"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2475"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU0NDk5OTk2MDk1NzMy"
 title = "पञ्चदशी"
+author = "Vidhyaranyamuni"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2475"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU0NDk5OTk2MDk1NzMy"
 
 +++
 [[पञ्चदशी	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDU0NDk5OTk2MDk1NzMy)]]

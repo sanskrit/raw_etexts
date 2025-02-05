@@ -1,17 +1,16 @@
 +++
-TITLE = "भक्तिमीमांसा"
-AUTHOR = "शाण्डिल्यः"
-PUBLISHER = "खेमराजश्रीकृष्णदासः"
-"PUBLISH YEAR" = "1887"
-DOMAIN = "भक्तिसम्प्रदायः"
-SUB-DOMAIN = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
-PAGES = "63"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "स्वप्नेश्वरः"
-PRINTER = "वेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6166"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwNDc3MDM4MjE5MTk1&pageno=MjI0MjQyNjk5NTk="
 title = "भक्तिमीमांसा"
+author = "शाण्डिल्यः"
+publisher = "खेमराजश्रीकृष्णदासः"
+"publish year" = "1887"
+domain = "भक्तिसम्प्रदायः"
+sub-domain = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
+pages = "63"
+language = "संस्कृतम्"
+"primary commentator" = "स्वप्नेश्वरः"
+printer = "वेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-6166"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwNDc3MDM4MjE5MTk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भक्तिमीमांसा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjUwNDc3MDM4MjE5MTk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1492,19 +1491,6 @@ title = "भक्तिमीमांसा"
 
  ति श्रुतम्। तथा \[ नृसिंहपु॰। \] भक्त्यैकलभ्ये पुरुषे पुराणेकिमर्थं क्रियते न यत्न इति। तस्मात् परभक्तिमात्रेण बुद्धेरत्यये सति ब्रह्मानन्दावाप्तिलक्षणा मुक्तिरित्यर्थः। तथा च तदीयबुलयप्रागभावसहवृत्तिब्रह्मानन्दावाप्तिर्मुक्तिरिति तल्लक्षणं सूचितम्। अथ ब्रह्मानन्दावाप्तेः सिद्धत्वेनापुरुषार्थत्वमिति चेन्न ग्रामादिवष्टतया पुमर्थत्वात्। अत्र बुद्धिर्जीवोपाधिर्मता भगवत एव बुस्वाभ्युपगमात्। अन्यथा इदं सुखमत्र सुखत्वमिति ज्ञानाज्जाते तया तद्विशिष्टस्य पुमर्थाभावप्रसङ्गात् ईहाकृत्योर्विकल्पकत्वात्। तस्मादसिद्धोपरागेण सिद्धे अपीच्छाकृती इति। कृत्यसाज्ञानं प्रतिबन्धकमिति येत् ताच बलवदनिष्टानुबन्धित्वतिरो दिवोत्कटरागंण
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

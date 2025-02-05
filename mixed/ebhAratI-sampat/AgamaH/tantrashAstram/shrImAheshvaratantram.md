@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीमाहेश्वरतन्त्रम्"
-PUBLISHER = "जयकृष्णहरिदासगुप्ता"
-"PUBLISH YEAR" = "1940"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "282"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "कृष्णप्रियाचार्यः"
-PRINTER = "विद्याविलास-मुद्रणलयः"
-"SERIAL NO." = "Ebharati-6033"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI5MTM1MDMzNTQxOTc1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमाहेश्वरतन्त्रम्"
+publisher = "जयकृष्णहरिदासगुप्ता"
+"publish year" = "1940"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "282"
+language = "संस्कृतम्"
+editor = "कृष्णप्रियाचार्यः"
+printer = "विद्याविलास-मुद्रणलयः"
+"serial no." = "Ebharati-6033"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI5MTM1MDMzNTQxOTc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमाहेश्वरतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjI5MTM1MDMzNTQxOTc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10433,8 +10432,5 @@ BENARES
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

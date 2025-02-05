@@ -1,14 +1,13 @@
 +++
-TITLE = "न्यायसिद्धान्तमुक्तावली"
-AUTHOR = "विश्वनाथपञ्चाननभट्टाचार्यः"
-"PUBLISH YEAR" = "1885"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायदर्शनम्"
-PAGES = "231"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8802"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ0ODk3NTI5ODU5NDQ4&pageno=MjI0MjQyNjk5NTk="
 title = "न्यायसिद्धान्तमुक्तावली"
+author = "विश्वनाथपञ्चाननभट्टाचार्यः"
+"publish year" = "1885"
+domain = "दर्शनानि"
+sub-domain = "न्यायदर्शनम्"
+pages = "231"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8802"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ0ODk3NTI5ODU5NDQ4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[न्यायसिद्धान्तमुक्तावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQ0ODk3NTI5ODU5NDQ4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3053,19 +3052,6 @@ title = "न्यायसिद्धान्तमुक्तावली"
 
  इति श्रीमहामहोपाध्यायविद्यानिवासभट्टाचार्य्यपुत्रश्रीयुतविश्वनाथपञ्चाननभट्टाचार्य्यविरचिता न्यायसिद्धान्तमुक्तावली संपूर्णा॥
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

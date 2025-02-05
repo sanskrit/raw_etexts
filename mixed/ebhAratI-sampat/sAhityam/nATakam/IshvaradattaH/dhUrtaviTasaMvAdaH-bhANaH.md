@@ -1,13 +1,12 @@
 +++
-TITLE = "धूर्तविटसंवादः-भाणः"
-AUTHOR = "ईश्वरदत्तः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2783"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI0MDY2MjQ1NzUxNzYy&pageno=MjI0MjQyNjk5NTk="
 title = "धूर्तविटसंवादः-भाणः"
+author = "ईश्वरदत्तः"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2783"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI0MDY2MjQ1NzUxNzYy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[धूर्तविटसंवादः-भाणः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjI0MDY2MjQ1NzUxNzYy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -404,19 +403,6 @@ title = "धूर्तविटसंवादः-भाणः"
  इति श्री ईश्वरदत्तस्य कृतिः धूर्तविटसंवादो नाम  
   भाणः समाप्तः।  
 \*\*\*
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

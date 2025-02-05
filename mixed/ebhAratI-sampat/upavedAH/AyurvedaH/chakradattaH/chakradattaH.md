@@ -1,17 +1,16 @@
 +++
-TITLE = "चक्रदत्तः"
-AUTHOR = "चक्रदत्तः"
-PUBLISHER = "जीवानन्दविद्यासागरभट्टाचार्यः"
-"PUBLISH YEAR" = "१८८८"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "506"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "जीवानन्दविद्यासागरभट्टाचार्यः"
-PRINTER = "सरस्वतीयन्त्रालयः"
-"SERIAL NO." = "Ebharati-3429"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMwNTYyNTExMTcxOTIz&pageno=MjI0MjQyNjk5NTk="
 title = "चक्रदत्तः"
+author = "चक्रदत्तः"
+publisher = "जीवानन्दविद्यासागरभट्टाचार्यः"
+"publish year" = "१८८८"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "506"
+language = "संस्कृतम्"
+editor = "जीवानन्दविद्यासागरभट्टाचार्यः"
+printer = "सरस्वतीयन्त्रालयः"
+"serial no." = "Ebharati-3429"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMwNTYyNTExMTcxOTIz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चक्रदत्तः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODMwNTYyNTExMTcxOTIz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -17654,19 +17653,6 @@ No.2 Ramanatha Majumdara's Street, Calcutta
 इति कवलगण्डूषाधिकारः।  
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

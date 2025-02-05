@@ -1,16 +1,15 @@
 +++
-TITLE = "माधवचम्पू"
-AUTHOR = "चिरञ्जीविः"
-"PUBLISH YEAR" = "1872"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "चम्पू"
-PAGES = "64"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "जीवानन्दविद्यासागरभट्टाचार्यः"
-PRINTER = "काव्यप्रकाश-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5278"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEzMzA1NzYxODY2NjA1&pageno=MjI0MjQyNjk5NTk="
 title = "माधवचम्पू"
+author = "चिरञ्जीविः"
+"publish year" = "1872"
+domain = "काव्यानि"
+sub-domain = "चम्पू"
+pages = "64"
+language = "संस्कृतम्"
+editor = "जीवानन्दविद्यासागरभट्टाचार्यः"
+printer = "काव्यप्रकाश-मुद्रणालयः"
+"serial no." = "Ebharati-5278"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEzMzA1NzYxODY2NjA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[माधवचम्पू	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjEzMzA1NzYxODY2NjA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1675,19 +1674,6 @@ title = "माधवचम्पू"
 
 [TABLE]
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

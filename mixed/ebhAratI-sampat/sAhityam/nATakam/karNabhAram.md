@@ -1,11 +1,10 @@
 +++
-TITLE = "कर्णभारम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2801"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIwNDIwNTc0NTg4ODYy&pageno=MjI0MjQyNjk5NTk="
 title = "कर्णभारम्"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2801"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIwNDIwNTc0NTg4ODYy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कर्णभारम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjIwNDIwNTc0NTg4ODYy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2440,8 +2439,5 @@ title = "कर्णभारम्"
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

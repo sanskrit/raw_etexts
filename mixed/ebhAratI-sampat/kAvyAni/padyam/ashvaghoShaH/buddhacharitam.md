@@ -1,19 +1,18 @@
 +++
-TITLE = "बुद्धचरितम्"
-AUTHOR = "अश्वघोषः"
-PUBLISHER = "अ.चि. भटसंघः"
-"PUBLISH YEAR" = "1911"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "202"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वेङ्कटेशशर्मा"
-"PRIMARY COMMENTATOR" = "अप्पाशर्मा"
-"COMMENTARY NAME" = "बालबोधिनी"
-PRINTER = "यशवन्त-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5813"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgwOTkxNzUxNjIwODU1&pageno=MjI0MjQyNjk5NTk="
 title = "बुद्धचरितम्"
+author = "अश्वघोषः"
+publisher = "अ.चि. भटसंघः"
+"publish year" = "1911"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "202"
+language = "संस्कृतम्"
+editor = "वेङ्कटेशशर्मा"
+"primary commentator" = "अप्पाशर्मा"
+"commentary name" = "बालबोधिनी"
+printer = "यशवन्त-यन्त्रालयः"
+"serial no." = "Ebharati-5813"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgwOTkxNzUxNjIwODU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बुद्धचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjgwOTkxNzUxNjIwODU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4226,19 +4225,6 @@ ceeds out of the concentration on the subtile entities (विवेकजात
 
 ![](../../../books_images/U-IMG-1700628590cb.jpg)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

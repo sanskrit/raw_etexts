@@ -1,17 +1,16 @@
 +++
-TITLE = "रसजलनिधिः पञ्चमखण्डम्"
-AUTHOR = "भूदेव-शर्मा"
-PUBLISHER = "भूदेव-शर्मा"
-"PUBLISH YEAR" = "1938"
-DOMAIN = "भारतीयविज्ञानम्"
-SUB-DOMAIN = "धातुशास्त्रम्"
-PAGES = "454"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "भूदेव-शर्मा"
-PRINTER = "श्रीकृष्णमुद्रणालयः"
-"SERIAL NO." = "Ebharati-4647"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMwNTM1ODM1NDkwNjQ0&pageno=MjI0MjQyNjk5NTk="
 title = "रसजलनिधिः पञ्चमखण्डम्"
+author = "भूदेव-शर्मा"
+publisher = "भूदेव-शर्मा"
+"publish year" = "1938"
+domain = "भारतीयविज्ञानम्"
+sub-domain = "धातुशास्त्रम्"
+pages = "454"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "भूदेव-शर्मा"
+printer = "श्रीकृष्णमुद्रणालयः"
+"serial no." = "Ebharati-4647"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMwNTM1ODM1NDkwNjQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रसजलनिधिः पञ्चमखण्डम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDMwNTM1ODM1NDkwNjQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6383,19 +6382,6 @@ V
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

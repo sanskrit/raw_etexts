@@ -1,12 +1,11 @@
 +++
-TITLE = "प्रमाणवचनसङ्ग्रहः (तत्वप्रकाशिका-तात्पर्यचन्द्रिकोदाहृतः)"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3148"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU0NDQxMTcxNjkxMjAz&pageno=MjI0MjQyNjk5NTk="
 title = "प्रमाणवचनसङ्ग्रहः (तत्वप्रकाशिका-तात्पर्यचन्द्रिकोदाहृतः)"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3148"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU0NDQxMTcxNjkxMjAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रमाणवचनसङ्ग्रहः (तत्वप्रकाशिका-तात्पर्यचन्द्रिकोदाहृतः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjU0NDQxMTcxNjkxMjAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1399,8 +1398,5 @@ title = "प्रमाणवचनसङ्ग्रहः (तत्वप्
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

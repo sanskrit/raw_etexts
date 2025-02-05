@@ -1,12 +1,11 @@
 +++
-TITLE = "नित्यकर्मपूजाविधिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3752"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQzNzY1MTA5NzcxMDYz&pageno=MjI0MjQyNjk5NTk="
 title = "नित्यकर्मपूजाविधिः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3752"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQzNzY1MTA5NzcxMDYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नित्यकर्मपूजाविधिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQzNzY1MTA5NzcxMDYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -235,8 +234,5 @@ title = "नित्यकर्मपूजाविधिः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,15 +1,14 @@
 +++
-TITLE = "परिशिष्टदीपकः(तृतीयःभागः)"
-AUTHOR = "श्रीनित्यानन्दपन्त-पर्वतीयः"
-PUBLISHER = "जयकृष्णदासहरिदास-गुप्तः"
-"PUBLISH YEAR" = "1951"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "धर्मशास्त्रसम्बद्धपुस्तकानि"
-PAGES = "332"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8894"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODYyMTAxMDg1MDk3MzU4&pageno=MjI0MjQyNjk5NTk="
 title = "परिशिष्टदीपकः(तृतीयःभागः)"
+author = "श्रीनित्यानन्दपन्त-पर्वतीयः"
+publisher = "जयकृष्णदासहरिदास-गुप्तः"
+"publish year" = "1951"
+domain = "धर्मशास्त्रम्"
+sub-domain = "धर्मशास्त्रसम्बद्धपुस्तकानि"
+pages = "332"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8894"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODYyMTAxMDg1MDk3MzU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[परिशिष्टदीपकः(तृतीयःभागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODYyMTAxMDg1MDk3MzU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9007,19 +9006,6 @@ title = "परिशिष्टदीपकः(तृतीयःभागः)
 
 ![](../books_images/U-IMG-1725857687328.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

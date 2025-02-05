@@ -1,12 +1,11 @@
 +++
-TITLE = "पारस्करगृह्यसूत्रम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3196"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE3MDg3MDk5MzA4NjAz&pageno=MjI0MjQyNjk5NTk="
 title = "पारस्करगृह्यसूत्रम्"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3196"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE3MDg3MDk5MzA4NjAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पारस्करगृह्यसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE3MDg3MDk5MzA4NjAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1761,8 +1760,5 @@ title = "पारस्करगृह्यसूत्रम्"
 
 योगीश्वरप्रसादेन विद्यावान्धनवान् भवेत् ३
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,12 +1,11 @@
 +++
-TITLE = "पद्यावली"
-AUTHOR = "रूपगोस्वामिः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-3138"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMyMDI3ODAyNjMyMTAz&pageno=MjI0MjQyNjk5NTk="
 title = "पद्यावली"
+author = "रूपगोस्वामिः"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-3138"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMyMDI3ODAyNjMyMTAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पद्यावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjMyMDI3ODAyNjMyMTAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5216,19 +5215,6 @@ Exत्र वेर्सेसः
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

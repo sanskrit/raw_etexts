@@ -1,12 +1,11 @@
 +++
-TITLE = "आत्रेयशिक्षाकारिका"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3512"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwNjgzMzA4ODMxNzMz&pageno=MjI0MjQyNjk5NTk="
 title = "आत्रेयशिक्षाकारिका"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3512"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwNjgzMzA4ODMxNzMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आत्रेयशिक्षाकारिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDYwNjgzMzA4ODMxNzMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -728,8 +727,5 @@ atreya1_shiksha
               इत्यात्रेयशिक्षामूलं संपूर्णम्  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,14 +1,13 @@
 +++
-TITLE = "परशम्भुमहिम्नस्तवः"
-"PUBLISH YEAR" = "1946"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "40"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "एन.राजम-&amp-को-मद्रास्"
-"SERIAL NO." = "Ebharati-7103"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY0MzI5OTAzMTY4MTg2&pageno=MjI0MjQyNjk5NTk="
 title = "परशम्भुमहिम्नस्तवः"
+"publish year" = "1946"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "40"
+language = "संस्कृतम्"
+printer = "एन.राजम-&amp-को-मद्रास्"
+"serial no." = "Ebharati-7103"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY0MzI5OTAzMTY4MTg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[परशम्भुमहिम्नस्तवः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjY0MzI5OTAzMTY4MTg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -860,8 +859,5 @@ title = "परशम्भुमहिम्नस्तवः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

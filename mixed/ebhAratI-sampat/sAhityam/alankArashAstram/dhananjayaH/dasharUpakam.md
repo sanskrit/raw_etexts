@@ -1,17 +1,16 @@
 +++
-TITLE = "दशरूपकम्"
-AUTHOR = "धनञ्जयः"
-PUBLISHER = "पाण्डुरङ्ग-जावजी"
-"PUBLISH YEAR" = "1927"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "142"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वासुदेव-लक्ष्मण-शर्मा-पणशीकरः"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8158"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2ODc2NTQzNzMxMzg3&pageno=MjI0MjQyNjk5NTk="
 title = "दशरूपकम्"
+author = "धनञ्जयः"
+publisher = "पाण्डुरङ्ग-जावजी"
+"publish year" = "1927"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "142"
+language = "संस्कृतम्"
+editor = "वासुदेव-लक्ष्मण-शर्मा-पणशीकरः"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-8158"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2ODc2NTQzNzMxMzg3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दशरूपकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njc2ODc2NTQzNzMxMzg3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5746,19 +5745,6 @@ title = "दशरूपकम्"
 
 ![](../books_images/U-IMG-1730337486Capture_6-removebg-preview.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

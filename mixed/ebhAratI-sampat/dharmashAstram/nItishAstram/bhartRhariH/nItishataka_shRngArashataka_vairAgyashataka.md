@@ -1,16 +1,15 @@
 +++
-TITLE = "नीतिशतक शृङ्गारशतक वैराग्यशतक"
-AUTHOR = "भर्तृहरिः"
-PUBLISHER = "ठाकुरप्रसाद-एण्ड-सन्स्"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "127"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "राजाराम-पाटकः"
-PRINTER = "बम्बई-प्रेस्-वाराणसी"
-"SERIAL NO." = "Ebharati-6496"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEzMzc3MDk1MTk1MzI2&pageno=MjI0MjQyNjk5NTk="
 title = "नीतिशतक शृङ्गारशतक वैराग्यशतक"
+author = "भर्तृहरिः"
+publisher = "ठाकुरप्रसाद-एण्ड-सन्स्"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "127"
+language = "संस्कृतम् हिन्दी"
+translator = "राजाराम-पाटकः"
+printer = "बम्बई-प्रेस्-वाराणसी"
+"serial no." = "Ebharati-6496"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEzMzc3MDk1MTk1MzI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नीतिशतक शृङ्गारशतक वैराग्यशतक	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjEzMzc3MDk1MTk1MzI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2469,8 +2468,5 @@ title = "नीतिशतक शृङ्गारशतक वैराग्
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

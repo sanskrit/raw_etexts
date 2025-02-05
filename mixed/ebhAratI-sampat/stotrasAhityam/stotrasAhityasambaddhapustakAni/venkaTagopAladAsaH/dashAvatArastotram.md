@@ -1,15 +1,14 @@
 +++
-TITLE = "दशावतारस्तोत्रम्"
-AUTHOR = "वेङ्कटगोपालदासः"
-"PUBLISH YEAR" = "1928"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "118"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "वाणीविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7065"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM0MTE3MjU0MzEyODc2&pageno=MjI0MjQyNjk5NTk="
 title = "दशावतारस्तोत्रम्"
+author = "वेङ्कटगोपालदासः"
+"publish year" = "1928"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "118"
+language = "संस्कृतम्"
+printer = "वाणीविलास-मुद्रणालयः"
+"serial no." = "Ebharati-7065"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM0MTE3MjU0MzEyODc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दशावतारस्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDM0MTE3MjU0MzEyODc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -850,19 +849,6 @@ title = "दशावतारस्तोत्रम्"
 | तन्मूर्धरत्नीनकर               | तन्मूर्धरत्ननिकर              |
 | सह कर्तृत्वमुच्यते             | सहकर्तृत्वमुच्यते             |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

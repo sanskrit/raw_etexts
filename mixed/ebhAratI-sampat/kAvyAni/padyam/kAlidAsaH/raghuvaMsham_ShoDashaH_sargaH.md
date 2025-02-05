@@ -1,16 +1,15 @@
 +++
-TITLE = "रघुवंशम् (षोडशः सर्गः)"
-AUTHOR = "कालिदासः"
-PUBLISHER = "एस्.एन्.सिंहः"
-"PUBLISH YEAR" = "1943"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "51"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "वि.बि.सुब्बय्य एण्ड् सन्स् बेङ्गलूरुः"
-"SERIAL NO." = "Ebharati-7890"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg1OTA3MjUzMDE0NzU3&pageno=MjI0MjQyNjk5NTk="
 title = "रघुवंशम् (षोडशः सर्गः)"
+author = "कालिदासः"
+publisher = "एस्.एन्.सिंहः"
+"publish year" = "1943"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "51"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "वि.बि.सुब्बय्य एण्ड् सन्स् बेङ्गलूरुः"
+"serial no." = "Ebharati-7890"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg1OTA3MjUzMDE0NzU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रघुवंशम् (षोडशः सर्गः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDg1OTA3MjUzMDE0NzU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -986,19 +985,6 @@ skilled in diving into a river; they after having dived into the Sarayu being un
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,16 +1,15 @@
 +++
-TITLE = "कुवलयानन्दचन्द्रिकाचकोर अलङ्कारतत्त्वञ्च"
-AUTHOR = "जग्गु वेङ्कटाचार्यः"
-PUBLISHER = "जग्गु वेङ्कटाचार्यः"
-"PUBLISH YEAR" = "1943"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "322"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "कारोनेषन् मुद्रणालयम्"
-"SERIAL NO." = "Ebharati-5950"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA5MDE0MjQ2NzcxMTc1&pageno=MjI0MjQyNjk5NTk="
 title = "कुवलयानन्दचन्द्रिकाचकोर अलङ्कारतत्त्वञ्च"
+author = "जग्गु वेङ्कटाचार्यः"
+publisher = "जग्गु वेङ्कटाचार्यः"
+"publish year" = "1943"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "322"
+language = "संस्कृतम्"
+printer = "कारोनेषन् मुद्रणालयम्"
+"serial no." = "Ebharati-5950"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA5MDE0MjQ2NzcxMTc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कुवलयानन्दचन्द्रिकाचकोर अलङ्कारतत्त्वञ्च	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA5MDE0MjQ2NzcxMTc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5098,8 +5097,5 @@ Mysore University:
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

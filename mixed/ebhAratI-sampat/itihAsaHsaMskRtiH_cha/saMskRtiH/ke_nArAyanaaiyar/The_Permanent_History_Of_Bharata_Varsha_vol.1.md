@@ -1,15 +1,14 @@
 +++
-TITLE = "The Permanent History Of Bharata Varsha vol.1"
-AUTHOR = "के नारायनऐयर्"
-"PUBLISH YEAR" = "1915"
-DOMAIN = "इतिहासःसंस्कृतिः च"
-SUB-DOMAIN = "संस्कृतिः"
-PAGES = "897"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "भास्कर-प्रेस्-तिरुवनन्तपुरम्"
-"SERIAL NO." = "Ebharati-6215"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM3MjU2NjQ2NjE2Njk1&pageno=MjI0MjQyNjk5NTk="
 title = "The Permanent History Of Bharata Varsha vol.1"
+author = "के नारायनऐयर्"
+"publish year" = "1915"
+domain = "इतिहासःसंस्कृतिः च"
+sub-domain = "संस्कृतिः"
+pages = "897"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "भास्कर-प्रेस्-तिरुवनन्तपुरम्"
+"serial no." = "Ebharati-6215"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM3MjU2NjQ2NjE2Njk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[The Permanent History Of Bharata Varsha vol.1	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDM3MjU2NjQ2NjE2Njk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -491583,19 +491582,6 @@ our modern attempt to bury the real subject altogether under the earth and to co
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

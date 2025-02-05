@@ -1,11 +1,10 @@
 +++
-TITLE = "साहित्यदर्पणः-लोचनः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2709"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODkxMTI3MDI4MzUwMDYy"
 title = "साहित्यदर्पणः-लोचनः"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2709"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODkxMTI3MDI4MzUwMDYy"
 
 +++
 [[साहित्यदर्पणः-लोचनः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODkxMTI3MDI4MzUwMDYy)]]

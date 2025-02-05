@@ -1,17 +1,16 @@
 +++
-TITLE = "हितोपदेशः"
-AUTHOR = "नारायणपण्डित"
-PUBLISHER = "पाण्डुरङ्ग जावजी"
-"PUBLISH YEAR" = "1935"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "143"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "काशिनाथ पाण्डुरङ्ग परब"
-PRINTER = "रामचन्द्र येसु  शेड्गे"
-"SERIAL NO." = "Ebharati-5372"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg5MDkyNDE4MTk2NTE1&pageno=MjI0MjQyNjk5NTk="
 title = "हितोपदेशः"
+author = "नारायणपण्डित"
+publisher = "पाण्डुरङ्ग जावजी"
+"publish year" = "1935"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "143"
+language = "संस्कृतम्"
+editor = "काशिनाथ पाण्डुरङ्ग परब"
+printer = "रामचन्द्र येसु  शेड्गे"
+"serial no." = "Ebharati-5372"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg5MDkyNDE4MTk2NTE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हितोपदेशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDg5MDkyNDE4MTk2NTE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4123,8 +4122,5 @@ title = "हितोपदेशः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

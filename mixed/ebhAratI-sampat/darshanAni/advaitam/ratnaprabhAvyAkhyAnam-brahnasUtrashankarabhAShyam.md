@@ -1,11 +1,10 @@
 +++
-TITLE = "रत्नप्रभाव्याख्यानम्-ब्रह्नसूत्रशन्करभाष्यम्"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2490"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDg3MDM2MzQ2MDMwOTMy"
 title = "रत्नप्रभाव्याख्यानम्-ब्रह्नसूत्रशन्करभाष्यम्"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2490"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDg3MDM2MzQ2MDMwOTMy"
 
 +++
 [[रत्नप्रभाव्याख्यानम्-ब्रह्नसूत्रशन्करभाष्यम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDg3MDM2MzQ2MDMwOTMy)]]

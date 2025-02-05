@@ -1,12 +1,11 @@
 +++
-TITLE = "प्रकरणपञ्चिका"
-AUTHOR = "नारायणः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2494"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODY0MDA2ODI2NDE0OTMy"
 title = "प्रकरणपञ्चिका"
+author = "नारायणः"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2494"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODY0MDA2ODI2NDE0OTMy"
 
 +++
 [[प्रकरणपञ्चिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODY0MDA2ODI2NDE0OTMy)]]

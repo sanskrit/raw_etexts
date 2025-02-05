@@ -1,15 +1,14 @@
 +++
-TITLE = "सुबोधिनी"
-AUTHOR = "रामवर्मा-परीक्षित्-तम्पुरन्"
-"PUBLISH YEAR" = "1956"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मन्दिट्टा-कुन्चु-नंबून्द्रि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4091"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA0ODQ3NzI2MDI3Mjkz&pageno=MjI0MjQyNjk5NTk="
 title = "सुबोधिनी"
+author = "रामवर्मा-परीक्षित्-तम्पुरन्"
+"publish year" = "1956"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+editor = "मन्दिट्टा-कुन्चु-नंबून्द्रि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4091"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA0ODQ3NzI2MDI3Mjkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुबोधिनी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjA0ODQ3NzI2MDI3Mjkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6732,19 +6731,6 @@ title = "सुबोधिनी"
 
 
  **------------------------------------------------**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

@@ -1,12 +1,11 @@
 +++
-TITLE = "गौडपादीयकारिका"
-AUTHOR = "Goudapadhacharya"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2476"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjc4NjMyNjk2Njg2NzMy"
 title = "गौडपादीयकारिका"
+author = "Goudapadhacharya"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2476"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjc4NjMyNjk2Njg2NzMy"
 
 +++
 [[गौडपादीयकारिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=Mjc4NjMyNjk2Njg2NzMy)]]

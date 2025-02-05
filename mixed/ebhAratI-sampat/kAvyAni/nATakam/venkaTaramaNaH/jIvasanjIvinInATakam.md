@@ -1,16 +1,15 @@
 +++
-TITLE = "जीवसञ्जीविनीनाटकम्"
-AUTHOR = "वेङ्कटरमणः"
-"PUBLISH YEAR" = "1945"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "319"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मल्लिकार्जुनशास्त्री"
-PRINTER = "सुब्बय्य-एण्ड-सन्स्-प्रेस्"
-"SERIAL NO." = "Ebharati-5423"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA1NDU2MjI2Nzg1MDI1&pageno=MjI0MjQyNjk5NTk="
 title = "जीवसञ्जीविनीनाटकम्"
+author = "वेङ्कटरमणः"
+"publish year" = "1945"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "319"
+language = "संस्कृतम्"
+editor = "मल्लिकार्जुनशास्त्री"
+printer = "सुब्बय्य-एण्ड-सन्स्-प्रेस्"
+"serial no." = "Ebharati-5423"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA1NDU2MjI2Nzg1MDI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जीवसञ्जीविनीनाटकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjA1NDU2MjI2Nzg1MDI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9072,8 +9071,5 @@ SANSKRIT SCHOOLS IN MYSORE BANGALORE CITY
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

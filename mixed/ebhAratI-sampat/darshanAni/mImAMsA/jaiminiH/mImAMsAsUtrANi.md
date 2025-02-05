@@ -1,12 +1,11 @@
 +++
-TITLE = "मीमांसासूत्राणि"
-AUTHOR = "जैमिनिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2638"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMyOTA1NzgwODMyMzUy"
 title = "मीमांसासूत्राणि"
+author = "जैमिनिः"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2638"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMyOTA1NzgwODMyMzUy"
 
 +++
 [[मीमांसासूत्राणि	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjMyOTA1NzgwODMyMzUy)]]

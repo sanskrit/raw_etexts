@@ -1,12 +1,11 @@
 +++
-TITLE = "यामुनः गीतार्थसङ्ग्रहः"
-DOMAIN = "भगवद्गीता"
-SUB-DOMAIN = "भगवद्गीतासम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4204"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwMjQxMzAyODY1MzA0&pageno=MjI0MjQyNjk5NTk="
 title = "यामुनः गीतार्थसङ्ग्रहः"
+domain = "भगवद्गीता"
+sub-domain = "भगवद्गीतासम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4204"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwMjQxMzAyODY1MzA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[यामुनः गीतार्थसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODgwMjQxMzAyODY1MzA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -229,19 +228,6 @@ title = "यामुनः गीतार्थसङ्ग्रहः"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

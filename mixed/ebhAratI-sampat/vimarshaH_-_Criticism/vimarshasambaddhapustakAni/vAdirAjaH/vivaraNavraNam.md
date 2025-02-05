@@ -1,17 +1,16 @@
 +++
-TITLE = "विवरणव्रणम्"
-AUTHOR = "वादिराजः"
-PUBLISHER = "श्रीमद्वादिराजीयग्रन्थप्रकाशनसमितिः"
-"PUBLISH YEAR" = "1955"
-DOMAIN = "विमर्शः - Criticism"
-SUB-DOMAIN = "विमर्शसम्बद्धपुस्तकानि"
-PAGES = "131"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "श्रीमद्वादिराजीयग्रन्थप्रकाशनसमितिः"
-PRINTER = "Majestic Press Udipi"
-"SERIAL NO." = "Ebharati-310"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI4MDUxNTM4ODU3OTI=&pageno=MjI0MjQyNjk5NTk="
 title = "विवरणव्रणम्"
+author = "वादिराजः"
+publisher = "श्रीमद्वादिराजीयग्रन्थप्रकाशनसमितिः"
+"publish year" = "1955"
+domain = "विमर्शः - Criticism"
+sub-domain = "विमर्शसम्बद्धपुस्तकानि"
+pages = "131"
+language = "संस्कृतम्"
+editor = "श्रीमद्वादिराजीयग्रन्थप्रकाशनसमितिः"
+printer = "Majestic Press Udipi"
+"serial no." = "Ebharati-310"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI4MDUxNTM4ODU3OTI=&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विवरणव्रणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDI4MDUxNTM4ODU3OTI=&pageno=MjI0MjQyNjk5NTk=)]]
@@ -741,19 +740,6 @@ MAJESTIC PRESS, UDIPI.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 Printed by K. Raghavendra Rao, at Majestic Press, Udipi & Published by Sri A Narayana Tantry Secretary Sri Vadirajiya Grantha Prakashana Samithi, Udipi.
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

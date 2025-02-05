@@ -1,18 +1,17 @@
 +++
-TITLE = "दशकुमारचरितम्"
-AUTHOR = "दण्डिन्"
-PUBLISHER = "गवर्नमेन्ट् सेन्ट्रल् प्रेस् बाम्बे"
-"PUBLISH YEAR" = "1919"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "469"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "बूल्हेर् एण्ड् पीटर्सन्"
-"SECOND EDITOR" = "गणेश जनार्धन अगशे"
-PRINTER = "बि.मिल्लर्"
-"SERIAL NO." = "Ebharati-5284"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ4NzU5NDQxNDQyNzA1&pageno=MjI0MjQyNjk5NTk="
 title = "दशकुमारचरितम्"
+author = "दण्डिन्"
+publisher = "गवर्नमेन्ट् सेन्ट्रल् प्रेस् बाम्बे"
+"publish year" = "1919"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "469"
+language = "संस्कृतम्"
+editor = "बूल्हेर् एण्ड् पीटर्सन्"
+"second editor" = "गणेश जनार्धन अगशे"
+printer = "बि.मिल्लर्"
+"serial no." = "Ebharati-5284"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ4NzU5NDQxNDQyNzA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दशकुमारचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ4NzU5NDQxNDQyNzA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5508,19 +5507,6 @@ Index to Proper names in the
 |            | सौराष्ट्र |
 |            | हंसावली   |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

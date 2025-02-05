@@ -1,13 +1,12 @@
 +++
-TITLE = "कण्टकोद्वारवाक्यम्"
-AUTHOR = "एन्.एस्. रामानुजतानताचार्यः"
-DOMAIN = "लेखाः"
-SUB-DOMAIN = "न्यायदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3684"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ2MjgwNzUxMDU2MzUz&pageno=MjI0MjQyNjk5NTk="
 title = "कण्टकोद्वारवाक्यम्"
+author = "एन्.एस्. रामानुजतानताचार्यः"
+domain = "लेखाः"
+sub-domain = "न्यायदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3684"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ2MjgwNzUxMDU2MzUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कण्टकोद्वारवाक्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ2MjgwNzUxMDU2MzUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -84,8 +83,5 @@ title = "कण्टकोद्वारवाक्यम्"
  अतः प्राचीननैयायिकपरंपरागतं कण्टकोद्धारशब्दार्थं संप्रदायविच्छेदात् यथावदगृह्णन्तौ स्वबुद्ध्या संदर्भाननुगुणं शब्दशवत्यलभ्यं च कंचिदर्थं परिकल्प्य पूर्वोक्तं मणिग्रन्थं व्याकुरुतां कृष्णम्भट्टमधुरानाथभट्टचार्याविति सिद्धम्॥  
   ---------\*\*\*\*\*\*\*\*\*\*\*\*\*------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

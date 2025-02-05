@@ -1,12 +1,11 @@
 +++
-TITLE = "लौगाक्षिक गृह्यसूत्रम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3208"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc3OTg2NTQ5NTU5NzAz&pageno=MjI0MjQyNjk5NTk="
 title = "लौगाक्षिक गृह्यसूत्रम्"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3208"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc3OTg2NTQ5NTU5NzAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लौगाक्षिक गृह्यसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njc3OTg2NTQ5NTU5NzAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -80061,8 +80060,5 @@ Lougakshi Grhya Sutra
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

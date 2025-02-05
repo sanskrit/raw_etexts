@@ -1,12 +1,11 @@
 +++
-TITLE = "हंसोपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4280"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYxNjY1NzE5MzY4MDE0&pageno=MjI0MjQyNjk5NTk="
 title = "हंसोपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4280"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYxNjY1NzE5MzY4MDE0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हंसोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDYxNjY1NzE5MzY4MDE0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -159,8 +158,5 @@ title = "हंसोपनिषत्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

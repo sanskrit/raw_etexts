@@ -1,17 +1,16 @@
 +++
-TITLE = "गूडार्थदीपिका"
-PUBLISHER = "ब्रिज्-बिदास-एण्ड-कम्पनी"
-"PUBLISH YEAR" = "1908"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "117"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रत्न-गोपाल-भट्ट्"
-"PRIMARY COMMENTATOR" = "धनपति-सूरी"
-PRINTER = "विद्याविलासप्रस्-बनारस्"
-"SERIAL NO." = "Ebharati-6859"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk0Mjc3NjIyODM0ODU2&pageno=MjI0MjQyNjk5NTk="
 title = "गूडार्थदीपिका"
+publisher = "ब्रिज्-बिदास-एण्ड-कम्पनी"
+"publish year" = "1908"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "117"
+language = "संस्कृतम्"
+editor = "रत्न-गोपाल-भट्ट्"
+"primary commentator" = "धनपति-सूरी"
+printer = "विद्याविलासप्रस्-बनारस्"
+"serial no." = "Ebharati-6859"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk0Mjc3NjIyODM0ODU2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गूडार्थदीपिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODk0Mjc3NjIyODM0ODU2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1231,8 +1230,5 @@ title = "गूडार्थदीपिका"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

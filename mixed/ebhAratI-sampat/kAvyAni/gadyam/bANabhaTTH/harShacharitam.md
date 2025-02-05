@@ -1,19 +1,18 @@
 +++
-TITLE = "हर्षचरितम्"
-AUTHOR = "बाणभट्ट्ः"
-PUBLISHER = "पाण्डुरङ्ग्-जावजी"
-"PUBLISH YEAR" = "1937"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "गद्यम्"
-PAGES = "265"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "काशीनाथः"
-"PRIMARY COMMENTATOR" = "शङ्करः"
-"COMMENTARY NAME" = "संकेताख्यया"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8052"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MTg5MzQ3MTY5Mjc3&pageno=MjI0MjQyNjk5NTk="
 title = "हर्षचरितम्"
+author = "बाणभट्ट्ः"
+publisher = "पाण्डुरङ्ग्-जावजी"
+"publish year" = "1937"
+domain = "काव्यानि"
+sub-domain = "गद्यम्"
+pages = "265"
+language = "संस्कृतम्"
+editor = "काशीनाथः"
+"primary commentator" = "शङ्करः"
+"commentary name" = "संकेताख्यया"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-8052"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MTg5MzQ3MTY5Mjc3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हर्षचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MTg5MzQ3MTY5Mjc3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1393,19 +1392,6 @@ Printer:-Ramchandra Yesu Shedge, **
 *अन्तःकरणं मनः। गौरवमुत्कर्षः, भारवत्त्वं च। **अदत्तदृष्टिरिति।** न तु मया धनान्यलभ्यानि। स्वापतेयेषु धनेषु। संरक्षिता इति यदि कदाचित्क्वचिदुपयोगं यास्यन्तीति। अनेन प्राणादिदानमेवोचितमित्युक्तम्। सकलसंपत्पात्रस्येयतः कियती वसुसंपत्तिर्भविष्यतीत्याशङ्क्याह—**प्रतन्वित्यादि।** गुणा उत्कर्षाः, तन्तवश्च। **कुसुमानीवेति।** कुसुमसादृश्येन मनसः सौकुमार्यमप्युक्तम्। साधवः शिष्टाः, शब्दा इव साधवः। संस्कृता विद्वत्संमताश्च। फेनवत्तैश्च धवलैर्गुणगणैः स्रोतोभिश्च।*
 
 *** स्वामिन एव प्रणयिन इति।** अनुक्तान्यपि शरीरादीनि प्रणयिनां स्वायत्तानीत्यर्थः।*
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

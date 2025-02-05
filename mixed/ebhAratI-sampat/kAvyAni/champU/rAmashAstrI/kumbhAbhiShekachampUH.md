@@ -1,15 +1,14 @@
 +++
-TITLE = "कुम्भाभिषेकचम्पूः"
-AUTHOR = "रामशास्त्री"
-"PUBLISH YEAR" = "1917"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "चम्पू"
-PAGES = "40"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीवाणिविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5277"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MDYyMTcxMjc1NjA1&pageno=MjI0MjQyNjk5NTk="
 title = "कुम्भाभिषेकचम्पूः"
+author = "रामशास्त्री"
+"publish year" = "1917"
+domain = "काव्यानि"
+sub-domain = "चम्पू"
+pages = "40"
+language = "संस्कृतम्"
+printer = "श्रीवाणिविलास-मुद्रणालयः"
+"serial no." = "Ebharati-5277"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MDYyMTcxMjc1NjA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कुम्भाभिषेकचम्पूः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MDYyMTcxMjc1NjA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -787,8 +786,5 @@ title = "कुम्भाभिषेकचम्पूः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

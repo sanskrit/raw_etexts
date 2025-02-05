@@ -1,18 +1,17 @@
 +++
-TITLE = "शुल्बसूत्रम्"
-AUTHOR = "कात्यायनः"
-PUBLISHER = "गौरीशङ्करगायेनकः"
-"PUBLISH YEAR" = "1928"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "69"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "विद्याधरशर्मा"
-"PRIMARY COMMENTATOR" = "विद्याधरशर्मा"
-PRINTER = "माधवविष्णु-पराड़करः ज्ञानमण्डल-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7480"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY1NjEzMzk4MTUwODE3&pageno=MjI0MjQyNjk5NTk="
 title = "शुल्बसूत्रम्"
+author = "कात्यायनः"
+publisher = "गौरीशङ्करगायेनकः"
+"publish year" = "1928"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "69"
+language = "संस्कृतम्"
+editor = "विद्याधरशर्मा"
+"primary commentator" = "विद्याधरशर्मा"
+printer = "माधवविष्णु-पराड़करः ज्ञानमण्डल-यन्त्रालयः"
+"serial no." = "Ebharati-7480"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY1NjEzMzk4MTUwODE3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शुल्बसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDY1NjEzMzk4MTUwODE3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1237,8 +1236,5 @@ x^(१)द्वादशप्रक्रमव्यवहिते वा �
 
 ![](../books_images/U-IMG-1701887492Screenshot2023-12-07000107.png)
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,17 +1,16 @@
 +++
-TITLE = "प्राचीनलेखमाला द्वितीय भागः Split 1"
-PUBLISHER = "तुकाराम जावजी"
-"PUBLISH YEAR" = "1897"
-DOMAIN = "इतिहासःसंस्कृतिः च"
-SUB-DOMAIN = "शिलालेखाः"
-PAGES = "30"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "महामहोपाध्याय पंडित शिवदत्त"
-"SECOND EDITOR" = "काशिनाथ पाण्डुरङ्ग परब"
-PRINTER = "निर्णय सागर प्रेस मुम्बई"
-"SERIAL NO." = "Ebharati-4862"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY3NTU2MDM3MzM3NjY0&pageno=MjI0MjQyNjk5NTk="
 title = "प्राचीनलेखमाला द्वितीय भागः Split 1"
+publisher = "तुकाराम जावजी"
+"publish year" = "1897"
+domain = "इतिहासःसंस्कृतिः च"
+sub-domain = "शिलालेखाः"
+pages = "30"
+language = "संस्कृतम्"
+editor = "महामहोपाध्याय पंडित शिवदत्त"
+"second editor" = "काशिनाथ पाण्डुरङ्ग परब"
+printer = "निर्णय सागर प्रेस मुम्बई"
+"serial no." = "Ebharati-4862"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY3NTU2MDM3MzM3NjY0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्राचीनलेखमाला द्वितीय भागः Split 1	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDY3NTU2MDM3MzM3NjY0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -21864,8 +21863,5 @@ After ' sides ' supply a comma.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

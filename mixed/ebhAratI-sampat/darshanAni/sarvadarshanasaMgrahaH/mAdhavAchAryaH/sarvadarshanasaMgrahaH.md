@@ -1,16 +1,15 @@
 +++
-TITLE = "सर्वदर्शनसंग्रहः"
-AUTHOR = "माधवाचार्यः"
-PUBLISHER = "द एशियाटिक् सोसैटि"
-"PUBLISH YEAR" = "1858"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "सर्वदर्शनसंग्रहः"
-PAGES = "190"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "ईश्वरचन्द्र विद्यासागरः"
-"SERIAL NO." = "Ebharati-5734"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ3NzQwNDU0MjQ0MDU1&pageno=MjI0MjQyNjk5NTk="
 title = "सर्वदर्शनसंग्रहः"
+author = "माधवाचार्यः"
+publisher = "द एशियाटिक् सोसैटि"
+"publish year" = "1858"
+domain = "दर्शनानि"
+sub-domain = "सर्वदर्शनसंग्रहः"
+pages = "190"
+language = "संस्कृतम्"
+editor = "ईश्वरचन्द्र विद्यासागरः"
+"serial no." = "Ebharati-5734"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ3NzQwNDU0MjQ0MDU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सर्वदर्शनसंग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ3NzQwNDU0MjQ0MDU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2717,19 +2716,6 @@ The 20th January, 1858.
 
 **\_\_\_\_\_\_\_\_\_\_**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

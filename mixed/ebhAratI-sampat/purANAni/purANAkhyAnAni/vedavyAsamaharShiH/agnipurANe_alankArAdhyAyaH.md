@@ -1,13 +1,12 @@
 +++
-TITLE = "अग्निपुराणे अलङ्काराध्यायः"
-AUTHOR = "वेदव्यासमहर्षिः"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "पुराणाख्यानानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2922"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgwNzUzMDIwMTA1MDgy"
 title = "अग्निपुराणे अलङ्काराध्यायः"
+author = "वेदव्यासमहर्षिः"
+domain = "पुराणानि"
+sub-domain = "पुराणाख्यानानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2922"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgwNzUzMDIwMTA1MDgy"
 
 +++
 [[अग्निपुराणे अलङ्काराध्यायः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDgwNzUzMDIwMTA1MDgy)]]

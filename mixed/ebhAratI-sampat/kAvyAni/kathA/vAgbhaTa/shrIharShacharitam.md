@@ -1,17 +1,16 @@
 +++
-TITLE = "श्रीहर्षचरितम्"
-AUTHOR = "वाग्भट"
-PUBLISHER = "जीवानन्द विद्यासागर भट्टाचार्य"
-"PUBLISH YEAR" = "1876"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "240"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "जीवानन्द विद्यासागर भट्टाचार्य"
-PRINTER = "सुचारुयन्त्रम् कलिकातानगरम्"
-"SERIAL NO." = "Ebharati-5370"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQxNjA4MTI4OTk0NTE1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीहर्षचरितम्"
+author = "वाग्भट"
+publisher = "जीवानन्द विद्यासागर भट्टाचार्य"
+"publish year" = "1876"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "240"
+language = "संस्कृतम्"
+editor = "जीवानन्द विद्यासागर भट्टाचार्य"
+printer = "सुचारुयन्त्रम् कलिकातानगरम्"
+"serial no." = "Ebharati-5370"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQxNjA4MTI4OTk0NTE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीहर्षचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQxNjA4MTI4OTk0NTE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -804,19 +803,6 @@ title = "श्रीहर्षचरितम्"
 
 कलिकाता संस्कृतविद्यामन्दिरे-वि, ए, उपाधिधारिणः  
 श्रीजीवानन्दविद्यासागर भट्टाचार्यस्य सकाशात् लभ्यानि!
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

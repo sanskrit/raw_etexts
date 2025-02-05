@@ -1,19 +1,18 @@
 +++
-TITLE = "प्रतिमालक्षणम्"
-AUTHOR = "सम्यक्संबुद्धः"
-PUBLISHER = "जयकृष्णदासगुप्तः"
-"PUBLISH YEAR" = "१९३३"
-DOMAIN = "भारतीयविज्ञानम्"
-SUB-DOMAIN = "शिल्पशास्त्रम्"
-PAGES = "78"
-LANGUAGE = "संस्कृतम् /आङ्ग्लम्"
-EDITOR = "गोपीनाथकविराजः"
-"SECOND EDITOR" = "हरिदासमित्रः"
-"COMMENTARY NAME" = "प्रतिमालक्षण-विवरणी"
-PRINTER = "विद्याविलासमुद्रणालयः"
-"SERIAL NO." = "Ebharati-4563"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg1MTcxNDU4MDMwODM0&pageno=MjI0MjQyNjk5NTk="
 title = "प्रतिमालक्षणम्"
+author = "सम्यक्संबुद्धः"
+publisher = "जयकृष्णदासगुप्तः"
+"publish year" = "१९३३"
+domain = "भारतीयविज्ञानम्"
+sub-domain = "शिल्पशास्त्रम्"
+pages = "78"
+language = "संस्कृतम् /आङ्ग्लम्"
+editor = "गोपीनाथकविराजः"
+"second editor" = "हरिदासमित्रः"
+"commentary name" = "प्रतिमालक्षण-विवरणी"
+printer = "विद्याविलासमुद्रणालयः"
+"serial no." = "Ebharati-4563"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg1MTcxNDU4MDMwODM0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रतिमालक्षणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njg1MTcxNDU4MDMwODM0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1568,19 +1567,6 @@ Rs 5
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

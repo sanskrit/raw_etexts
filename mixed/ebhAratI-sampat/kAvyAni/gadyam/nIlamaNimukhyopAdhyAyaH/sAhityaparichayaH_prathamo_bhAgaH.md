@@ -1,16 +1,15 @@
 +++
-TITLE = "साहित्यपरिचयः (प्रथमो भागः)"
-AUTHOR = "नीलमणिमुख्योपाध्यायः"
-PUBLISHER = "बि. एल्. चक्रवर्तिः"
-"PUBLISH YEAR" = "1880"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "गद्यम्"
-PAGES = "292"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "न्यु-स्कूल्-बुक्हौस्-प्रेस्"
-"SERIAL NO." = "Ebharati-5351"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIxMDAyMzk4NTc2MzE1&pageno=MjI0MjQyNjk5NTk="
 title = "साहित्यपरिचयः (प्रथमो भागः)"
+author = "नीलमणिमुख्योपाध्यायः"
+publisher = "बि. एल्. चक्रवर्तिः"
+"publish year" = "1880"
+domain = "काव्यानि"
+sub-domain = "गद्यम्"
+pages = "292"
+language = "संस्कृतम्"
+printer = "न्यु-स्कूल्-बुक्हौस्-प्रेस्"
+"serial no." = "Ebharati-5351"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIxMDAyMzk4NTc2MzE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[साहित्यपरिचयः (प्रथमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjIxMDAyMzk4NTc2MzE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2876,19 +2875,6 @@ The 31st January 1881.
 
 **समाप्तः।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

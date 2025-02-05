@@ -1,14 +1,13 @@
 +++
-TITLE = "गौतमधर्मसूत्रम् परिशिष्टम्"
-"PUBLISH YEAR" = "1948"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "धर्मसूत्राणि"
-PAGES = "176"
-LANGUAGE = "संस्कृतम् / आंग्लम्"
-EDITOR = "A N Krishna Aiyangar"
-"SERIAL NO." = "Ebharati-4846"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEwNzc3MDk3NzkxNTY0&pageno=MjI0MjQyNjk5NTk="
 title = "गौतमधर्मसूत्रम् परिशिष्टम्"
+"publish year" = "1948"
+domain = "धर्मशास्त्रम्"
+sub-domain = "धर्मसूत्राणि"
+pages = "176"
+language = "संस्कृतम् / आंग्लम्"
+editor = "A N Krishna Aiyangar"
+"serial no." = "Ebharati-4846"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEwNzc3MDk3NzkxNTY0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गौतमधर्मसूत्रम् परिशिष्टम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjEwNzc3MDk3NzkxNTY0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5456,8 +5455,5 @@ XVII, 3, p. 79*
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

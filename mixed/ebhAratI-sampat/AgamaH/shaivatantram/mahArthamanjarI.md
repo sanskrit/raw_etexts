@@ -1,18 +1,17 @@
 +++
-TITLE = "महार्थमञ्जरी"
-PUBLISHER = "तिरुवनन्तपुरस्य महाराजः"
-"PUBLISH YEAR" = "1919"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-PAGES = "219"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "त. गणपतिशास्त्री"
-"PRIMARY COMMENTATOR" = "महेश्वरानन्दः"
-"COMMENTARY NAME" = "परिमला"
-PRINTER = "राजकीयमुद्रणयन्त्रालयम् तिरुवनन्तपुरम्"
-"SERIAL NO." = "Ebharati-7740"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgyNjQzNjE5MDEwMzQ3&pageno=MjI0MjQyNjk5NTk="
 title = "महार्थमञ्जरी"
+publisher = "तिरुवनन्तपुरस्य महाराजः"
+"publish year" = "1919"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+pages = "219"
+language = "संस्कृतम्"
+editor = "त. गणपतिशास्त्री"
+"primary commentator" = "महेश्वरानन्दः"
+"commentary name" = "परिमला"
+printer = "राजकीयमुद्रणयन्त्रालयम् तिरुवनन्तपुरम्"
+"serial no." = "Ebharati-7740"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgyNjQzNjE5MDEwMzQ3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[महार्थमञ्जरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDgyNjQzNjE5MDEwMzQ3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4848,8 +4847,5 @@ P R E F A C E.
 |      १८४       |         २६          |         लयित्वा         |    (लयित्वा?)ल्य     |
 |      १९६       |         १२          |           न्द           |          द           |
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

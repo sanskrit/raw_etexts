@@ -1,13 +1,12 @@
 +++
-TITLE = "भुवनेश्वरी-रहस्यः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "279"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "हरिदत्तशास्त्री"
-"SERIAL NO." = "Ebharati-8577"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0MzUyMTc3OTUzMzI4&pageno=MjI0MjQyNjk5NTk="
 title = "भुवनेश्वरी-रहस्यः"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "279"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "हरिदत्तशास्त्री"
+"serial no." = "Ebharati-8577"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0MzUyMTc3OTUzMzI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भुवनेश्वरी-रहस्यः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk0MzUyMTc3OTUzMzI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4896,8 +4895,5 @@ title = "भुवनेश्वरी-रहस्यः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,13 +1,12 @@
 +++
-TITLE = "मानसोल्लासः भागः-1 Split-5"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "स्थापत्यवेदः"
-PAGES = "34"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "Gajanan K Shrigondekar"
-"SERIAL NO." = "Ebharati-4917"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc5ODg5MzI1MzEwMjc0&pageno=MjI0MjQyNjk5NTk="
 title = "मानसोल्लासः भागः-1 Split-5"
+domain = "उपवेदाः"
+sub-domain = "स्थापत्यवेदः"
+pages = "34"
+language = "संस्कृतम्"
+editor = "Gajanan K Shrigondekar"
+"serial no." = "Ebharati-4917"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc5ODg5MzI1MzEwMjc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मानसोल्लासः भागः-1 Split-5	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDc5ODg5MzI1MzEwMjc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -736,8 +735,5 @@ tet
 
 ----------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

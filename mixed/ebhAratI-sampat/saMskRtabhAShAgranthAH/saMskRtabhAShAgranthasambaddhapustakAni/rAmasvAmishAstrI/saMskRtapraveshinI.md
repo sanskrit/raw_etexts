@@ -1,15 +1,14 @@
 +++
-TITLE = "संस्कृतप्रवेशिनी"
-AUTHOR = "रामस्वामिशास्त्री"
-"PUBLISH YEAR" = "1924"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "101"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "वाणीविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6975"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0Mzk4MDk3Mzc1OTY2&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृतप्रवेशिनी"
+author = "रामस्वामिशास्त्री"
+"publish year" = "1924"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "101"
+language = "संस्कृतम्"
+printer = "वाणीविलास-मुद्रणालयः"
+"serial no." = "Ebharati-6975"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0Mzk4MDk3Mzc1OTY2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृतप्रवेशिनी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU0Mzk4MDk3Mzc1OTY2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1317,19 +1316,6 @@ title = "संस्कृतप्रवेशिनी"
 
 ![](../books_images/U-IMG-1734967569Screenshot2024-12-23205449.jpg)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

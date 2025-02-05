@@ -1,17 +1,16 @@
 +++
-TITLE = "प्राचीनलेखमाला तृतीय भागः Split 1"
-PUBLISHER = "तुकाराम जावजी"
-"PUBLISH YEAR" = "1903"
-DOMAIN = "इतिहासःसंस्कृतिः च"
-SUB-DOMAIN = "शिलालेखाः"
-PAGES = "40"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पण्डित भवदत्त शास्त्री"
-"SECOND EDITOR" = "काशिनाथ पाण्डुरङ्ग परब"
-PRINTER = "निर्णय सागर प्रेस मुम्बई"
-"SERIAL NO." = "Ebharati-4965"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMyNTI2MzQzMTI2Njc0&pageno=MjI0MjQyNjk5NTk="
 title = "प्राचीनलेखमाला तृतीय भागः Split 1"
+publisher = "तुकाराम जावजी"
+"publish year" = "1903"
+domain = "इतिहासःसंस्कृतिः च"
+sub-domain = "शिलालेखाः"
+pages = "40"
+language = "संस्कृतम्"
+editor = "पण्डित भवदत्त शास्त्री"
+"second editor" = "काशिनाथ पाण्डुरङ्ग परब"
+printer = "निर्णय सागर प्रेस मुम्बई"
+"serial no." = "Ebharati-4965"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMyNTI2MzQzMTI2Njc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्राचीनलेखमाला तृतीय भागः Split 1	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDMyNTI2MzQzMTI2Njc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4444,8 +4443,5 @@ Price 1 Rupee.
 
 ( गिरनार इन्स्किप्शन्स् - न० २ । २९-३०)
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

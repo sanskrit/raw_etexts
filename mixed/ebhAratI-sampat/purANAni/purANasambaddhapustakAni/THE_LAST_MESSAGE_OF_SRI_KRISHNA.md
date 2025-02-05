@@ -1,16 +1,15 @@
 +++
-TITLE = "THE LAST MESSAGE OF SRI KRISHNA"
-PUBLISHER = "स्वामिपवित्रानन्दः"
-"PUBLISH YEAR" = "1939"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "पुराणसम्बद्धपुस्तकानि"
-PAGES = "396"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "स्वामी-मध्वानन्द"
-PRINTER = "आर्ट्ट् प्रेस-कलकत्ता"
-"SERIAL NO." = "Ebharati-6920"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyMDY1Nzk5MzkyNDY2&pageno=MjI0MjQyNjk5NTk="
 title = "THE LAST MESSAGE OF SRI KRISHNA"
+publisher = "स्वामिपवित्रानन्दः"
+"publish year" = "1939"
+domain = "पुराणानि"
+sub-domain = "पुराणसम्बद्धपुस्तकानि"
+pages = "396"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "स्वामी-मध्वानन्द"
+printer = "आर्ट्ट् प्रेस-कलकत्ता"
+"serial no." = "Ebharati-6920"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyMDY1Nzk5MzkyNDY2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[THE LAST MESSAGE OF SRI KRISHNA	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQyMDY1Nzk5MzkyNDY2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7523,19 +7522,6 @@ Cloth-bound: Rs. 3. To Subscribers of P. B. Rs. 2-12.**
 The Manager, ADVAITA ASHRAMA,  
 4, Wellington Lane, Calcutta (India).**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

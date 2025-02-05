@@ -1,10 +1,9 @@
 +++
-TITLE = "स्वप्नवासवदत्तम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"SERIAL NO." = "Ebharati-2807"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU1ODc0MjU0MTY0OTYy"
 title = "स्वप्नवासवदत्तम्"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"serial no." = "Ebharati-2807"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU1ODc0MjU0MTY0OTYy"
 
 +++
 [[स्वप्नवासवदत्तम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDU1ODc0MjU0MTY0OTYy)]]

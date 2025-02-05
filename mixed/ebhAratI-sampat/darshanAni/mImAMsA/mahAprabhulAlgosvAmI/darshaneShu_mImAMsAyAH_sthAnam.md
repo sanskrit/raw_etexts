@@ -1,13 +1,12 @@
 +++
-TITLE = "दर्शनेषु मीमांसायाः स्थानम्"
-AUTHOR = "महाप्रभुलाल्\u200cगोस्वामी"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2617"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDczODE0NjYxMjIyMTUy&pageno=MjI0MjQyNjk5NTk="
 title = "दर्शनेषु मीमांसायाः स्थानम्"
+author = "महाप्रभुलाल्\u200cगोस्वामी"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2617"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDczODE0NjYxMjIyMTUy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दर्शनेषु मीमांसायाः स्थानम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDczODE0NjYxMjIyMTUy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -226,19 +225,6 @@ title = "दर्शनेषु मीमांसायाः स्थान
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

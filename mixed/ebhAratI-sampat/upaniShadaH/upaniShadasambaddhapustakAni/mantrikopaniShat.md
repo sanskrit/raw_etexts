@@ -1,12 +1,11 @@
 +++
-TITLE = "मन्त्रिकोपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4299"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcxMjcxNjQ4Nzg2MjE0&pageno=MjI0MjQyNjk5NTk="
 title = "मन्त्रिकोपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4299"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcxMjcxNjQ4Nzg2MjE0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मन्त्रिकोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODcxMjcxNjQ4Nzg2MjE0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -125,8 +124,5 @@ title = "मन्त्रिकोपनिषत्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

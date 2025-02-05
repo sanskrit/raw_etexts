@@ -1,12 +1,11 @@
 +++
-TITLE = "सौन्दरानन्दः"
-AUTHOR = "महावादिः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3048"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjUyMjA5NjQ1Njk1Mjky"
 title = "सौन्दरानन्दः"
+author = "महावादिः"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3048"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjUyMjA5NjQ1Njk1Mjky"
 
 +++
 [[सौन्दरानन्दः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjUyMjA5NjQ1Njk1Mjky)]]

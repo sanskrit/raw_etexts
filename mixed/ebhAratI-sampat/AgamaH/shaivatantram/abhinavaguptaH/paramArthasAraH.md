@@ -1,18 +1,17 @@
 +++
-TITLE = "परमार्थसारः"
-AUTHOR = "अभिनवगुप्तः"
-PUBLISHER = "रिसर्च्-डिपार्ट्मेण्ट्-श्रीनगर-कश्मीरः"
-"PUBLISH YEAR" = "1916"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-PAGES = "214"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "जगदीशचन्द्रचटर्जी"
-"PRIMARY COMMENTATOR" = "योगराजाचार्यः"
-PRINTER = "पि.विशिनाथः"
-"SERIAL NO." = "Ebharati-6038"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMwNDQ3MTEzNTI2OTc1&pageno=MjI0MjQyNjk5NTk="
 title = "परमार्थसारः"
+author = "अभिनवगुप्तः"
+publisher = "रिसर्च्-डिपार्ट्मेण्ट्-श्रीनगर-कश्मीरः"
+"publish year" = "1916"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+pages = "214"
+language = "संस्कृतम्"
+editor = "जगदीशचन्द्रचटर्जी"
+"primary commentator" = "योगराजाचार्यः"
+printer = "पि.विशिनाथः"
+"serial no." = "Ebharati-6038"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMwNDQ3MTEzNTI2OTc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[परमार्थसारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjMwNDQ3MTEzNTI2OTc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3003,8 +3002,5 @@ J. C. Chatterji.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

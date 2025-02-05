@@ -1,16 +1,15 @@
 +++
-TITLE = "SENIOR SELECTIONS"
-PUBLISHER = "के.बी.धवले"
-"PUBLISH YEAR" = "1937"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "160"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-EDITOR = "वसन्तरामचन्द्रः"
-PRINTER = "बी.वी.प्रेस बम्बई"
-"SERIAL NO." = "Ebharati-7007"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU5MDU2MDc2NTQ2Mjc2&pageno=MjI0MjQyNjk5NTk="
 title = "SENIOR SELECTIONS"
+publisher = "के.बी.धवले"
+"publish year" = "1937"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "160"
+language = "संस्कृतम् आङ्ग्लम्"
+editor = "वसन्तरामचन्द्रः"
+printer = "बी.वी.प्रेस बम्बई"
+"serial no." = "Ebharati-7007"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU5MDU2MDc2NTQ2Mjc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[SENIOR SELECTIONS	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDU5MDU2MDc2NTQ2Mjc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5530,8 +5529,5 @@ NOTES
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

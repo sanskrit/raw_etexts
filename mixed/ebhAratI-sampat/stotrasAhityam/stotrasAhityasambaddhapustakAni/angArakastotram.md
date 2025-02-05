@@ -1,12 +1,11 @@
 +++
-TITLE = "अङ्गारकस्तोत्रम्"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2838"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM2Mzk5NTMzNzM0Mjcy&pageno=MjI0MjQyNjk5NTk="
 title = "अङ्गारकस्तोत्रम्"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2838"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM2Mzk5NTMzNzM0Mjcy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अङ्गारकस्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM2Mzk5NTMzNzM0Mjcy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -59,8 +58,5 @@ title = "अङ्गारकस्तोत्रम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

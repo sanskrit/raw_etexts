@@ -1,12 +1,11 @@
 +++
-TITLE = "रुद्राक्षजाबालोपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4320"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQwMzYyNzY3MzA3NDE0&pageno=MjI0MjQyNjk5NTk="
 title = "रुद्राक्षजाबालोपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4320"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQwMzYyNzY3MzA3NDE0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रुद्राक्षजाबालोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQwMzYyNzY3MzA3NDE0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -311,8 +310,5 @@ c
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

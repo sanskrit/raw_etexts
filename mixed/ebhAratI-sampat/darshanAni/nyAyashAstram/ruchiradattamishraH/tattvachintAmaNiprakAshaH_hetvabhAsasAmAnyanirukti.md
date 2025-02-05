@@ -1,16 +1,15 @@
 +++
-TITLE = "तत्त्वचिन्तामणिप्रकाशः हेत्वभाससामान्यनिरुक्तिः"
-AUTHOR = "रुचिरदत्तमिश्रः"
-PUBLISHER = "राष्ट्रियसंस्कृतविश्वविद्यालयः"
-"PUBLISH YEAR" = "१९९९"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "N S रामानुजताताचार्यः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4028"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE4NTc0NDY4Mjc2Njgz&pageno=MjI0MjQyNjk5NTk="
 title = "तत्त्वचिन्तामणिप्रकाशः हेत्वभाससामान्यनिरुक्तिः"
+author = "रुचिरदत्तमिश्रः"
+publisher = "राष्ट्रियसंस्कृतविश्वविद्यालयः"
+"publish year" = "१९९९"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+editor = "N S रामानुजताताचार्यः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4028"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE4NTc0NDY4Mjc2Njgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तत्त्वचिन्तामणिप्रकाशः हेत्वभाससामान्यनिरुक्तिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjE4NTc0NDY4Mjc2Njgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -441,19 +440,6 @@ F.N.२.तदंशतद्वत्व-ख ३.व्याप्तिरे
 ** अनुमानखण्डे हेत्वाभाससामान्यनिरुक्तिः॥ **
 
 ** --------------------------------------------**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

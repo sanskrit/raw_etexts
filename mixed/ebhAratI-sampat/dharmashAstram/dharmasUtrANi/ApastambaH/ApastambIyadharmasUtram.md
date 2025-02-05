@@ -1,17 +1,16 @@
 +++
-TITLE = "आपस्तम्बीयधर्मसूत्रम्"
-AUTHOR = "आपस्तम्बः"
-PUBLISHER = "गवर्नमेंट्-सेट्रल्-बुक्"
-"PUBLISH YEAR" = "१८९१"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "धर्मसूत्राणि"
-PAGES = "174"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "जार्ज-बुहलर्"
-"PRIMARY COMMENTATOR" = "हरदत्तः"
-"SERIAL NO." = "Ebharati-4614"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAxNTM1MjY2NjI5MjQ0&pageno=MjI0MjQyNjk5NTk="
 title = "आपस्तम्बीयधर्मसूत्रम्"
+author = "आपस्तम्बः"
+publisher = "गवर्नमेंट्-सेट्रल्-बुक्"
+"publish year" = "१८९१"
+domain = "धर्मशास्त्रम्"
+sub-domain = "धर्मसूत्राणि"
+pages = "174"
+language = "संस्कृतम्"
+editor = "जार्ज-बुहलर्"
+"primary commentator" = "हरदत्तः"
+"serial no." = "Ebharati-4614"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAxNTM1MjY2NjI5MjQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आपस्तम्बीयधर्मसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODAxNTM1MjY2NjI5MjQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1907,8 +1906,5 @@ FROM**
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

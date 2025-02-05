@@ -1,16 +1,15 @@
 +++
-TITLE = "अश्ववैद्यकम् तथा अश्वचिकित्सा"
-AUTHOR = "जयदत्तः च नकुलः"
-PUBLISHER = "जीवानन्दविद्यासागरभट्टाचार्यः"
-"PUBLISH YEAR" = "१८९३"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "जीवानन्दविद्यासागरभट्टाचार्यः"
-PRINTER = "सिद्धेश्वरयन्त्रालयः"
-"SERIAL NO." = "Ebharati-3393"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4NzM1MDUyNTE3NTIz&pageno=MjI0MjQyNjk5NTk="
 title = "अश्ववैद्यकम् तथा अश्वचिकित्सा"
+author = "जयदत्तः च नकुलः"
+publisher = "जीवानन्दविद्यासागरभट्टाचार्यः"
+"publish year" = "१८९३"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+language = "संस्कृतम्"
+editor = "जीवानन्दविद्यासागरभट्टाचार्यः"
+printer = "सिद्धेश्वरयन्त्रालयः"
+"serial no." = "Ebharati-3393"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4NzM1MDUyNTE3NTIz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अश्ववैद्यकम् तथा अश्वचिकित्सा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4NzM1MDUyNTE3NTIz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10357,19 +10356,6 @@ Superintendent Free Sanskrit College, Calcutta.
 
 ———♦♦♦———
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

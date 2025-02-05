@@ -1,12 +1,11 @@
 +++
-TITLE = "अनेकान्तव्यवस्थाप्रकरणम्"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "जैनदर्शनम्"
-PAGES = "202"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-7821"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY0Mjg5MTE2Njg3MDU3&pageno=MjI0MjQyNjk5NTk="
 title = "अनेकान्तव्यवस्थाप्रकरणम्"
+domain = "दर्शनानि"
+sub-domain = "जैनदर्शनम्"
+pages = "202"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-7821"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY0Mjg5MTE2Njg3MDU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अनेकान्तव्यवस्थाप्रकरणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjY0Mjg5MTE2Njg3MDU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1265,8 +1264,5 @@ title = "अनेकान्तव्यवस्थाप्रकरणम�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

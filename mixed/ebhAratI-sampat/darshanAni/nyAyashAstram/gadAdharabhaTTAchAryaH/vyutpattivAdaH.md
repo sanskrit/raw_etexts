@@ -1,15 +1,14 @@
 +++
-TITLE = "व्युत्पत्तिवादः"
-AUTHOR = "गदाधरभट्टाचार्यः"
-PUBLISHER = "कृष्णदास-अकादमी वारणासी"
-"PUBLISH YEAR" = "2001"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "कीर्त्यानन्दझा"
-"SERIAL NO." = "Ebharati-4095"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkwODE3MjE2NDAxMzkz&pageno=MjI0MjQyNjk5NTk="
 title = "व्युत्पत्तिवादः"
+author = "गदाधरभट्टाचार्यः"
+publisher = "कृष्णदास-अकादमी वारणासी"
+"publish year" = "2001"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+editor = "कीर्त्यानन्दझा"
+"serial no." = "Ebharati-4095"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkwODE3MjE2NDAxMzkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[व्युत्पत्तिवादः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDkwODE3MjE2NDAxMzkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -18057,19 +18056,6 @@ title = "व्युत्पत्तिवादः"
 
 
 ****
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

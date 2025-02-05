@@ -1,17 +1,16 @@
 +++
-TITLE = "पार्वतीपरिणयम्"
-AUTHOR = "बाणभट्टः"
-PUBLISHER = "पाण्डुरङ्गजावजी"
-"PUBLISH YEAR" = "1923"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "51"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मङ्गेशरामकृष्णतेलङ्ग"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5513"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0Mjc0NDgyNzIyOTI1&pageno=MjI0MjQyNjk5NTk="
 title = "पार्वतीपरिणयम्"
+author = "बाणभट्टः"
+publisher = "पाण्डुरङ्गजावजी"
+"publish year" = "1923"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "51"
+language = "संस्कृतम्"
+editor = "मङ्गेशरामकृष्णतेलङ्ग"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-5513"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0Mjc0NDgyNzIyOTI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पार्वतीपरिणयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njg0Mjc0NDgyNzIyOTI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1810,19 +1809,6 @@ title = "पार्वतीपरिणयम्"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

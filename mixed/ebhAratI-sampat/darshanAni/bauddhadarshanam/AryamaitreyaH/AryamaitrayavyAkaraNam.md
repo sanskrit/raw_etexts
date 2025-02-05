@@ -1,13 +1,12 @@
 +++
-TITLE = "आर्यमैत्रयव्याकरणम्"
-AUTHOR = "आर्यमैत्रेयः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3741"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA3MDA5MjQ5MTIxOTUz&pageno=MjI0MjQyNjk5NTk="
 title = "आर्यमैत्रयव्याकरणम्"
+author = "आर्यमैत्रेयः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3741"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA3MDA5MjQ5MTIxOTUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आर्यमैत्रयव्याकरणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjA3MDA5MjQ5MTIxOTUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -260,8 +259,5 @@ title = "आर्यमैत्रयव्याकरणम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

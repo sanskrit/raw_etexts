@@ -1,13 +1,12 @@
 +++
-TITLE = "मनीषापञ्चकम्"
-AUTHOR = "शङ्करभगवत्पादाः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "4"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2144"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY3MjU3MzQ5NTE4NTAy&pageno=MjI0MjQyNjk5NTk="
 title = "मनीषापञ्चकम्"
+author = "शङ्करभगवत्पादाः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "4"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2144"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY3MjU3MzQ5NTE4NTAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मनीषापञ्चकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY3MjU3MzQ5NTE4NTAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -70,8 +69,5 @@ title = "मनीषापञ्चकम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

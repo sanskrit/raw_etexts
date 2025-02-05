@@ -1,15 +1,14 @@
 +++
-TITLE = "शाण्डिल्यसंहिता"
-AUTHOR = "शाण्डिल्यः"
-"PUBLISH YEAR" = "1935"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "156"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "अनन्त-शास्त्री-फडके"
-"SERIAL NO." = "Ebharati-7111"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MjY4OTcyOTI2Mjg2&pageno=MjI0MjQyNjk5NTk="
 title = "शाण्डिल्यसंहिता"
+author = "शाण्डिल्यः"
+"publish year" = "1935"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "156"
+language = "संस्कृतम्"
+editor = "अनन्त-शास्त्री-फडके"
+"serial no." = "Ebharati-7111"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MjY4OTcyOTI2Mjg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शाण्डिल्यसंहिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MjY4OTcyOTI2Mjg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5829,19 +5828,6 @@ title = "शाण्डिल्यसंहिता"
 
 **———o———**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

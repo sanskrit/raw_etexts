@@ -1,17 +1,16 @@
 +++
-TITLE = "बहुविवाहवादः"
-AUTHOR = "श्री तारानाथ-तर्कवाचस्पति-भट्टाचार्यः"
-PUBLISHER = "काव्यप्रकाश प्रेस"
-"PUBLISH YEAR" = "1872"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "50"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "श्री तारानाथ-तर्कवाचस्पति-भट्टाचार्यः"
-PRINTER = "श्री. कालीकुमार चक्रवर्ति"
-"SERIAL NO." = "Ebharati-5103"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY0OTcwNTI4ODY4OTg0&pageno=MjI0MjQyNjk5NTk="
 title = "बहुविवाहवादः"
+author = "श्री तारानाथ-तर्कवाचस्पति-भट्टाचार्यः"
+publisher = "काव्यप्रकाश प्रेस"
+"publish year" = "1872"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "50"
+language = "संस्कृतम्"
+editor = "श्री तारानाथ-तर्कवाचस्पति-भट्टाचार्यः"
+printer = "श्री. कालीकुमार चक्रवर्ति"
+"serial no." = "Ebharati-5103"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY0OTcwNTI4ODY4OTg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बहुविवाहवादः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjY0OTcwNTI4ODY4OTg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -667,19 +666,6 @@ Charlestown, Massachusetts
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

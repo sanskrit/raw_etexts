@@ -1,14 +1,13 @@
 +++
-TITLE = "रसविलासः"
-AUTHOR = "भूदेवशुक्लः"
-"PUBLISH YEAR" = "1952"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "143"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-7978"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE3MjQwMjIwODU4NTY3&pageno=MjI0MjQyNjk5NTk="
 title = "रसविलासः"
+author = "भूदेवशुक्लः"
+"publish year" = "1952"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "143"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-7978"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE3MjQwMjIwODU4NTY3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रसविलासः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjE3MjQwMjIwODU4NTY3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3800,19 +3799,6 @@ after a long discussion covering some 12 pages (134-145). He comes to the conclu
 |     ४३      |    हृदये कृतशैवलानुषङ्गा    | र. गं. पृ. ८६  |
 |            |          गालितनीवि          |  किरात. ९.४८   |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

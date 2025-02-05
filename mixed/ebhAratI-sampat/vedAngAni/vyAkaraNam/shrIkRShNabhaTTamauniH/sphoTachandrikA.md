@@ -1,13 +1,12 @@
 +++
-TITLE = "स्फोटचन्द्रिका"
-AUTHOR = "श्रीकृष्णभट्टमौनिः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3565"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM0NDMyNDA2NjIyMjQz&pageno=MjI0MjQyNjk5NTk="
 title = "स्फोटचन्द्रिका"
+author = "श्रीकृष्णभट्टमौनिः"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3565"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM0NDMyNDA2NjIyMjQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्फोटचन्द्रिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDM0NDMyNDA2NjIyMjQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -212,19 +211,6 @@ title = "स्फोटचन्द्रिका"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

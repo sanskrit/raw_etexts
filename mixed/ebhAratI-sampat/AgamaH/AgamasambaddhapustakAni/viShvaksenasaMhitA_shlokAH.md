@@ -1,11 +1,10 @@
 +++
-TITLE = "विष्वक्सेनसंहिता श्लोकाः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "आगमसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4161"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5NzE3NDYzMDQ0OTkz&pageno=MjI0MjQyNjk5NTk="
 title = "विष्वक्सेनसंहिता श्लोकाः"
+domain = "आगमः"
+sub-domain = "आगमसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4161"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5NzE3NDYzMDQ0OTkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विष्वक्सेनसंहिता श्लोकाः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5NzE3NDYzMDQ0OTkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8119,8 +8118,5 @@ title = "विष्वक्सेनसंहिता श्लोकाः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

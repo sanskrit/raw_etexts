@@ -1,13 +1,12 @@
 +++
-TITLE = "साङ्ख्यसारः"
-AUTHOR = "विज्ञानभिक्षुः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "साङ्ख्यदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3898"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjU5MDY5MjUzMzkxNDcz"
 title = "साङ्ख्यसारः"
+author = "विज्ञानभिक्षुः"
+domain = "दर्शनानि"
+sub-domain = "साङ्ख्यदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3898"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjU5MDY5MjUzMzkxNDcz"
 
 +++
 [[साङ्ख्यसारः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjU5MDY5MjUzMzkxNDcz)]]

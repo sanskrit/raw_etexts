@@ -1,16 +1,15 @@
 +++
-TITLE = "सूक्तिसुधातरङ्गिणी"
-AUTHOR = "महादेव-पाण्डुरङ्ग-ओका"
-PUBLISHER = "महादेव-पाण्डुरङ्ग-ओका"
-"PUBLISH YEAR" = "1924"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "125"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "ए एस्. गोखाले-विजय-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6469"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE5NzIyMjk2OTk5MDI2&pageno=MjI0MjQyNjk5NTk="
 title = "सूक्तिसुधातरङ्गिणी"
+author = "महादेव-पाण्डुरङ्ग-ओका"
+publisher = "महादेव-पाण्डुरङ्ग-ओका"
+"publish year" = "1924"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "125"
+language = "संस्कृतम्"
+printer = "ए एस्. गोखाले-विजय-यन्त्रालयः"
+"serial no." = "Ebharati-6469"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE5NzIyMjk2OTk5MDI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सूक्तिसुधातरङ्गिणी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODE5NzIyMjk2OTk5MDI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4320,19 +4319,6 @@ WARWICK—
 
 ---------------------------------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

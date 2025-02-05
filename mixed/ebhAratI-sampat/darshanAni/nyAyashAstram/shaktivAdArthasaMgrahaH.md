@@ -1,12 +1,11 @@
 +++
-TITLE = "शक्तिवादार्थसंग्रहः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4084"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ0MTUwNDU2ODQwMjkz&pageno=MjI0MjQyNjk5NTk="
 title = "शक्तिवादार्थसंग्रहः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4084"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ0MTUwNDU2ODQwMjkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शक्तिवादार्थसंग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ0MTUwNDU2ODQwMjkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3775,8 +3774,5 @@ x
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

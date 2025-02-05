@@ -1,13 +1,12 @@
 +++
-TITLE = "आर्योदयकाव्यम् (उत्तरार्द्धम्)"
-PUBLISHER = "व्यवस्थापकः-कला-प्रेस्-इलाहाबाद्"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "244"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8893"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4ODU4Mzg1NDk2MzU4&pageno=MjI0MjQyNjk5NTk="
 title = "आर्योदयकाव्यम् (उत्तरार्द्धम्)"
+publisher = "व्यवस्थापकः-कला-प्रेस्-इलाहाबाद्"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "244"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8893"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4ODU4Mzg1NDk2MzU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आर्योदयकाव्यम् (उत्तरार्द्धम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4ODU4Mzg1NDk2MzU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4294,8 +4293,5 @@ Yours sincerely
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

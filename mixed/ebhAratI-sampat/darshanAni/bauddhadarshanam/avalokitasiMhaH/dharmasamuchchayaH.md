@@ -1,13 +1,12 @@
 +++
-TITLE = "धर्मसमुच्चयः"
-AUTHOR = "अवलोकितसिंहः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3704"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgwMDc1NTUz"
 title = "धर्मसमुच्चयः"
+author = "अवलोकितसिंहः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3704"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgwMDc1NTUz"
 
 +++
 [[धर्मसमुच्चयः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgwMDc1NTUz)]]

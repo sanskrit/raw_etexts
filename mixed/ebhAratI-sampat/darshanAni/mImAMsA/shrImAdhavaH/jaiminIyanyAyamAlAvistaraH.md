@@ -1,12 +1,11 @@
 +++
-TITLE = "जैमिनीयन्यायमालाविस्तरः"
-AUTHOR = "श्रीमाधवः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2626"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcxMDA2MjMxNjgwMjUy"
 title = "जैमिनीयन्यायमालाविस्तरः"
+author = "श्रीमाधवः"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2626"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcxMDA2MjMxNjgwMjUy"
 
 +++
 [[जैमिनीयन्यायमालाविस्तरः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjcxMDA2MjMxNjgwMjUy)]]

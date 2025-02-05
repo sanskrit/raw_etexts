@@ -1,13 +1,12 @@
 +++
-TITLE = "चतुर्दशलक्षणी"
-AUTHOR = "रामानुजताताचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4026"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5MDk5MTc4MDg0Njgz&pageno=MjI0MjQyNjk5NTk="
 title = "चतुर्दशलक्षणी"
+author = "रामानुजताताचार्यः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4026"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5MDk5MTc4MDg0Njgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चतुर्दशलक्षणी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5MDk5MTc4MDg0Njgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -14775,8 +14774,5 @@ continue to april
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,13 +1,12 @@
 +++
-TITLE = "ऐतरेयताम्रपर्णीयम् भाष्यार्थ-रत्नमाला"
-AUTHOR = "श्रीनिवासः"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3234"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODQ3Mjk5NzQ4MTU0MDEz"
 title = "ऐतरेयताम्रपर्णीयम् भाष्यार्थ-रत्नमाला"
+author = "श्रीनिवासः"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3234"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODQ3Mjk5NzQ4MTU0MDEz"
 
 +++
 [[ऐतरेयताम्रपर्णीयम् भाष्यार्थ-रत्नमाला	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODQ3Mjk5NzQ4MTU0MDEz)]]

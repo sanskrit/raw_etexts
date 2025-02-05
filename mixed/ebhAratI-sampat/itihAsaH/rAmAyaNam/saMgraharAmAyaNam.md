@@ -1,14 +1,13 @@
 +++
-TITLE = "संग्रहरामायणम्"
-"PUBLISH YEAR" = "1948"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "121"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "वेङ्गलूरु-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8233"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIzMDY4MzYwNzMzMDk3&pageno=MjI0MjQyNjk5NTk="
 title = "संग्रहरामायणम्"
+"publish year" = "1948"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "121"
+language = "संस्कृतम्"
+printer = "वेङ्गलूरु-यन्त्रालयः"
+"serial no." = "Ebharati-8233"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIzMDY4MzYwNzMzMDk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संग्रहरामायणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjIzMDY4MzYwNzMzMDk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4744,8 +4743,5 @@ and when ready, will be notified.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

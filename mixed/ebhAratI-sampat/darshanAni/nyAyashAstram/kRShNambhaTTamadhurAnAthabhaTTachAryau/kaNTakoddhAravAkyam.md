@@ -1,13 +1,12 @@
 +++
-TITLE = "कण्टकोद्धारवाक्यम्"
-AUTHOR = "कृष्णम्भट्टमधुरानाथभट्टचार्यौ"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4099"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Nzg2Nzk1ODg0Mzkz&pageno=MjI0MjQyNjk5NTk="
 title = "कण्टकोद्धारवाक्यम्"
+author = "कृष्णम्भट्टमधुरानाथभट्टचार्यौ"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4099"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Nzg2Nzk1ODg0Mzkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कण्टकोद्धारवाक्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Nzg2Nzk1ODg0Mzkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -103,19 +102,6 @@ title = "कण्टकोद्धारवाक्यम्"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

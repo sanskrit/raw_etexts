@@ -1,15 +1,14 @@
 +++
-TITLE = "श्रीविष्णुगीता"
-PUBLISHER = "बी. एल्. पावगी"
-"PUBLISH YEAR" = "1919"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-PAGES = "194"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "हितचिन्तक-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6700"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA0NzIyNDI4NDcxMzQ2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीविष्णुगीता"
+publisher = "बी. एल्. पावगी"
+"publish year" = "1919"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+pages = "194"
+language = "संस्कृतम् हिन्दी"
+printer = "हितचिन्तक-यन्त्रालयः"
+"serial no." = "Ebharati-6700"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA0NzIyNDI4NDcxMzQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीविष्णुगीता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA0NzIyNDI4NDcxMzQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4109,8 +4108,5 @@ title = "श्रीविष्णुगीता"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

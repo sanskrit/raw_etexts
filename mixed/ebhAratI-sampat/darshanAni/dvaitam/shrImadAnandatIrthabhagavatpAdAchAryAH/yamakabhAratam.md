@@ -1,13 +1,12 @@
 +++
-TITLE = "यमकभारतम्"
-AUTHOR = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3205"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE1MjY5NjU5NzY2NzAz&pageno=MjI0MjQyNjk5NTk="
 title = "यमकभारतम्"
+author = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3205"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE1MjY5NjU5NzY2NzAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[यमकभारतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE1MjY5NjU5NzY2NzAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -191,19 +190,6 @@ title = "यमकभारतम्"
 पूर्ण गुणैर्धिक पूर्णज्ञानेच्छाभक्तिभिः स्वधिकपूर्ण ॥81॥  
 इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं यमकभारतम् ॥
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,17 +1,16 @@
 +++
-TITLE = "सूतसंहिता (तृतीयो खण्डः)"
-PUBLISHER = "विनायक-गणेश-आपटे"
-"PUBLISH YEAR" = "1925"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "368"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "माधवाचार्यः"
-"COMMENTARY NAME" = "तात्पर्यादिपिका"
-PRINTER = "आनन्दाश्रम-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-8520"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0NTM0NTg5Nzg4NzE4&pageno=MjI0MjQyNjk5NTk="
 title = "सूतसंहिता (तृतीयो खण्डः)"
+publisher = "विनायक-गणेश-आपटे"
+"publish year" = "1925"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "368"
+language = "संस्कृतम्"
+"primary commentator" = "माधवाचार्यः"
+"commentary name" = "तात्पर्यादिपिका"
+printer = "आनन्दाश्रम-मुद्रणालयः"
+"serial no." = "Ebharati-8520"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0NTM0NTg5Nzg4NzE4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सूतसंहिता (तृतीयो खण्डः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0NTM0NTg5Nzg4NzE4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9378,8 +9377,5 @@ title = "सूतसंहिता (तृतीयो खण्डः)"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,12 +1,11 @@
 +++
-TITLE = "अरुणशमनम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3506"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM1MTM5NTI4MjY1NjMz&pageno=MjI0MjQyNjk5NTk="
 title = "अरुणशमनम्"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3506"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM1MTM5NTI4MjY1NjMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अरुणशमनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjM1MTM5NTI4MjY1NjMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -54,8 +53,5 @@ Arunashamanam
        अरुणशमानं संपूर्णम्  
       श्रीमते हयग्रीवपरब्रह्मणे नमः
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

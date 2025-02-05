@@ -1,12 +1,11 @@
 +++
-TITLE = "शिवस्तोत्रावलिः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3967"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDcwODg2MzkwNzE4MDgz"
 title = "शिवस्तोत्रावलिः"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3967"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDcwODg2MzkwNzE4MDgz"
 
 +++
 [[शिवस्तोत्रावलिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDcwODg2MzkwNzE4MDgz)]]

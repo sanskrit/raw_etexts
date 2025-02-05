@@ -1,12 +1,11 @@
 +++
-TITLE = "जन्ममरणविचारः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3965"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMyMzAyMTAxNTI2MDgz&pageno=MjI0MjQyNjk5NTk="
 title = "जन्ममरणविचारः"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3965"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMyMzAyMTAxNTI2MDgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जन्ममरणविचारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDMyMzAyMTAxNTI2MDgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -337,8 +336,5 @@ title = "जन्ममरणविचारः"
 श्रीस्वात्मचिदमृतवपुःशंकरार्पणं भूयात् ॥ ३१८  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

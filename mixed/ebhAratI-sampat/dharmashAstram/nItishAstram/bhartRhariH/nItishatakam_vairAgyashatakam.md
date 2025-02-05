@@ -1,17 +1,16 @@
 +++
-TITLE = "नीतिशतकम् वैराग्यशतकम्"
-AUTHOR = "भर्तृहरिः"
-PUBLISHER = "गोपाल-नारायणः"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "279"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "एम.आर्.काले"
-EDITOR = "एम.आर्.काले"
-PRINTER = "सी. एस. देओले-बम्बई-वैभव-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6495"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk4MDM1NDk1NTk0MzI2&pageno=MjI0MjQyNjk5NTk="
 title = "नीतिशतकम् वैराग्यशतकम्"
+author = "भर्तृहरिः"
+publisher = "गोपाल-नारायणः"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "279"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "एम.आर्.काले"
+editor = "एम.आर्.काले"
+printer = "सी. एस. देओले-बम्बई-वैभव-यन्त्रालयः"
+"serial no." = "Ebharati-6495"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk4MDM1NDk1NTk0MzI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नीतिशतकम् वैराग्यशतकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDk4MDM1NDk1NTk0MzI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4939,8 +4938,5 @@ V. Give the context of:—
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

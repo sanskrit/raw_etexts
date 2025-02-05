@@ -1,17 +1,16 @@
 +++
-TITLE = "मध्यमव्यायोगः दूतवाक्यं दूतघटोत्कचं कर्णभारम् ऊरुभङ्गम्"
-AUTHOR = "भासः"
-PUBLISHER = "राजकीय-मुद्रणालयः"
-"PUBLISH YEAR" = "1912"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "126"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "त.गणपतिशास्त्री"
-PRINTER = "राजकीय-मुद्रणालयः तिरुवनंतपुरम्"
-"SERIAL NO." = "Ebharati-7807"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU1ODg1NDY2MjQ0OTQ3&pageno=MjI0MjQyNjk5NTk="
 title = "मध्यमव्यायोगः दूतवाक्यं दूतघटोत्कचं कर्णभारम् ऊरुभङ्गम्"
+author = "भासः"
+publisher = "राजकीय-मुद्रणालयः"
+"publish year" = "1912"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "126"
+language = "संस्कृतम्"
+editor = "त.गणपतिशास्त्री"
+printer = "राजकीय-मुद्रणालयः तिरुवनंतपुरम्"
+"serial no." = "Ebharati-7807"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU1ODg1NDY2MjQ0OTQ3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मध्यमव्यायोगः दूतवाक्यं दूतघटोत्कचं कर्णभारम् ऊरुभङ्गम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDU1ODg1NDY2MjQ0OTQ3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2970,8 +2969,5 @@ kya', a complete copy (a worn out manuscript marked ख) of the same with coloph
 
 **————————**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,17 +1,16 @@
 +++
-TITLE = "आयुर्वेदप्रकाशः"
-AUTHOR = "माधवः"
-PUBLISHER = "यादवशर्मा"
-"PUBLISH YEAR" = "१९१३"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "217"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "यादवशर्मा"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-3399"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODczMjk5NzIyMTkyNjIz&pageno=MjI0MjQyNjk5NTk="
 title = "आयुर्वेदप्रकाशः"
+author = "माधवः"
+publisher = "यादवशर्मा"
+"publish year" = "१९१३"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "217"
+language = "संस्कृतम्"
+editor = "यादवशर्मा"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-3399"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODczMjk5NzIyMTkyNjIz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आयुर्वेदप्रकाशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODczMjk5NzIyMTkyNjIz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8701,19 +8700,6 @@ Fort Bombay
 | **वङ्गवत्प्लवते**           | **वङ्गवद्द्रवते**            | **१६१** | **१**    |
 | **भूमि**                    | **विज्ञान**                  | **१६५** | **११**   |
 | **पीतारुण**                 | **नीलारुण**                  | **१८०** | **२६**   |
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

@@ -1,19 +1,18 @@
 +++
-TITLE = "काव्यमीमंसा"
-AUTHOR = "राजशेखरः"
-PUBLISHER = "जयकृष्णहरिदासगुप्ता"
-"PUBLISH YEAR" = "1934"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "353"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मधुसूदनमिश्रा"
-"PRIMARY COMMENTATOR" = "मधुसूदनमिश्रा"
-"COMMENTARY NAME" = "मधुसूदनी"
-PRINTER = "विद्याविलास-मुद्रणलयः"
-"SERIAL NO." = "Ebharati-5939"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUyNDQ3Mzg2MTIxMDc1&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यमीमंसा"
+author = "राजशेखरः"
+publisher = "जयकृष्णहरिदासगुप्ता"
+"publish year" = "1934"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "353"
+language = "संस्कृतम्"
+editor = "मधुसूदनमिश्रा"
+"primary commentator" = "मधुसूदनमिश्रा"
+"commentary name" = "मधुसूदनी"
+printer = "विद्याविलास-मुद्रणलयः"
+"serial no." = "Ebharati-5939"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUyNDQ3Mzg2MTIxMDc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यमीमंसा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODUyNDQ3Mzg2MTIxMDc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10700,8 +10699,5 @@ Conjeevaram, in Chingleput district in the Madraspresidency. It was the capital 
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

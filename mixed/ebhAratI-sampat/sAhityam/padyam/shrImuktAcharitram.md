@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीमुक्ताचरित्रम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2986"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkwMjc4OTc3NDQ2Njgy&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमुक्ताचरित्रम्"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2986"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkwMjc4OTc3NDQ2Njgy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमुक्ताचरित्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjkwMjc4OTc3NDQ2Njgy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4006,8 +4005,5 @@ title = "श्रीमुक्ताचरित्रम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

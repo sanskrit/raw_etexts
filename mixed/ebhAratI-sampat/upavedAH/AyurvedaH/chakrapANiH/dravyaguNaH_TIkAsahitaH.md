@@ -1,18 +1,17 @@
 +++
-TITLE = "द्रव्यगुणः (टीकासहितः)"
-AUTHOR = "चक्रपाणिः"
-PUBLISHER = "श्रीजीवानन्दविद्यासागरभट्टाचार्यः"
-"PUBLISH YEAR" = "१८९७"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "जीवानन्दविद्यासागरभट्टाचार्यः"
-"PRIMARY COMMENTATOR" = "शिवदाससेनः"
-"COMMENTARY NAME" = "टीका"
-PRINTER = "सिद्धेश्वरयन्त्रालयः"
-"SERIAL NO." = "Ebharati-3441"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAxNDcxMDcwMzIzMDMz&pageno=MjI0MjQyNjk5NTk="
 title = "द्रव्यगुणः (टीकासहितः)"
+author = "चक्रपाणिः"
+publisher = "श्रीजीवानन्दविद्यासागरभट्टाचार्यः"
+"publish year" = "१८९७"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+language = "संस्कृतम्"
+editor = "जीवानन्दविद्यासागरभट्टाचार्यः"
+"primary commentator" = "शिवदाससेनः"
+"commentary name" = "टीका"
+printer = "सिद्धेश्वरयन्त्रालयः"
+"serial no." = "Ebharati-3441"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAxNDcxMDcwMzIzMDMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[द्रव्यगुणः (टीकासहितः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjAxNDcxMDcwMzIzMDMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2810,19 +2809,6 @@ Superintendent Free Sanskrit College, Calcutta.
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

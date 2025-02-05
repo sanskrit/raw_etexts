@@ -1,15 +1,14 @@
 +++
-TITLE = "वाराहगृह्यसूत्रम्"
-PUBLISHER = "उदयनारायणसिंहः"
-"PUBLISH YEAR" = "1934"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "66"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "उदयनारायणसिंहः"
-"SERIAL NO." = "Ebharati-7428"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE2MDE3ODgwMDYwMzE3&pageno=MjI0MjQyNjk5NTk="
 title = "वाराहगृह्यसूत्रम्"
+publisher = "उदयनारायणसिंहः"
+"publish year" = "1934"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "66"
+language = "संस्कृतम् हिन्दी"
+translator = "उदयनारायणसिंहः"
+"serial no." = "Ebharati-7428"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE2MDE3ODgwMDYwMzE3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वाराहगृह्यसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjE2MDE3ODgwMDYwMzE3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -420,8 +419,5 @@ title = "वाराहगृह्यसूत्रम्"
 |           २०   |            गानामिक      |           गोनामिक    |
 |            ४   |         विद्याद्गाम-   |        विद्याद्गामि- |
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

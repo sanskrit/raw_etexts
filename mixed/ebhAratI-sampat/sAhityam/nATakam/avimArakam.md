@@ -1,11 +1,10 @@
 +++
-TITLE = "अविमारकम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2793"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ2NDgwNTA1NzExODYy"
 title = "अविमारकम्"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2793"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ2NDgwNTA1NzExODYy"
 
 +++
 [[अविमारकम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ2NDgwNTA1NzExODYy)]]

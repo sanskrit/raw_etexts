@@ -1,12 +1,11 @@
 +++
-TITLE = "उपसम्पादज्ञप्तिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3833"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI1MzAyNzk1MzU5NzYz&pageno=MjI0MjQyNjk5NTk="
 title = "उपसम्पादज्ञप्तिः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3833"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI1MzAyNzk1MzU5NzYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[उपसम्पादज्ञप्तिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjI1MzAyNzk1MzU5NzYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -300,8 +299,5 @@ title = "उपसम्पादज्ञप्तिः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

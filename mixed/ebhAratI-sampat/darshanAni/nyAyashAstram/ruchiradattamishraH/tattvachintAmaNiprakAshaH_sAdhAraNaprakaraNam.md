@@ -1,16 +1,15 @@
 +++
-TITLE = "तत्त्वचिन्तामणिप्रकाशः साधारणप्रकरणम्"
-AUTHOR = "रुचिरदत्तमिश्रः"
-PUBLISHER = "राष्ट्रियसंस्कृतविश्वविद्यालयः"
-"PUBLISH YEAR" = "1999"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "N S रामानुजताताचार्यः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4029"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMyODE3MDY4ODY3Njgz&pageno=MjI0MjQyNjk5NTk="
 title = "तत्त्वचिन्तामणिप्रकाशः साधारणप्रकरणम्"
+author = "रुचिरदत्तमिश्रः"
+publisher = "राष्ट्रियसंस्कृतविश्वविद्यालयः"
+"publish year" = "1999"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+editor = "N S रामानुजताताचार्यः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4029"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMyODE3MDY4ODY3Njgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तत्त्वचिन्तामणिप्रकाशः साधारणप्रकरणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODMyODE3MDY4ODY3Njgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -438,8 +437,5 @@ F.N.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

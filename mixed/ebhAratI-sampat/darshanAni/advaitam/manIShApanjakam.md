@@ -1,12 +1,11 @@
 +++
-TITLE = "मनीषापञ्जकम्"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2591"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA0NTExNDYyNjI3ODQy&pageno=MjI0MjQyNjk5NTk="
 title = "मनीषापञ्जकम्"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2591"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA0NTExNDYyNjI3ODQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मनीषापञ्जकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjA0NTExNDYyNjI3ODQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -101,8 +100,5 @@ title = "मनीषापञ्जकम्"
 
 मनीषापञ्चकं संपूर्णम्॥
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

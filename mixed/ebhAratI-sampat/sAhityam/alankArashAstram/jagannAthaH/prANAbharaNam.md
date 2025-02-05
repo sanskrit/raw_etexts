@@ -1,13 +1,12 @@
 +++
-TITLE = "प्राणाभरणम्"
-AUTHOR = "जगन्नाथः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2749"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcwODE0MDc2Mzk4MzYy&pageno=MjI0MjQyNjk5NTk="
 title = "प्राणाभरणम्"
+author = "जगन्नाथः"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2749"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcwODE0MDc2Mzk4MzYy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्राणाभरणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODcwODE0MDc2Mzk4MzYy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -288,8 +287,5 @@ title = "प्राणाभरणम्"
 
 इति पण्डितराजश्रीजगन्नाथविरचितं प्राणाभरणं तत्कृतयैव टिप्पण्या समेतं समाप्तम्‌ ।
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

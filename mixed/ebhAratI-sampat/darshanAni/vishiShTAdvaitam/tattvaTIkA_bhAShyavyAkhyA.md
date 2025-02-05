@@ -1,12 +1,11 @@
 +++
-TITLE = "तत्त्वटीका भाष्यव्याख्या"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "विशिष्टाद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4221"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYyMzYyOTMxMDAyNTA0&pageno=MjI0MjQyNjk5NTk="
 title = "तत्त्वटीका भाष्यव्याख्या"
+domain = "दर्शनानि"
+sub-domain = "विशिष्टाद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4221"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYyMzYyOTMxMDAyNTA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तत्त्वटीका भाष्यव्याख्या	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjYyMzYyOTMxMDAyNTA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -13087,8 +13086,5 @@ title = "तत्त्वटीका भाष्यव्याख्या"
 
 --------------- ------------- --------------- ----------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

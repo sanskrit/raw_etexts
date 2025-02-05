@@ -1,13 +1,12 @@
 +++
-TITLE = "न्यायसङ्ग्रहः"
-AUTHOR = "हेमहंसगणिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4032"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDA1NTQ0OTQ4NjUwNzgz"
 title = "न्यायसङ्ग्रहः"
+author = "हेमहंसगणिः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4032"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDA1NTQ0OTQ4NjUwNzgz"
 
 +++
 [[न्यायसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDA1NTQ0OTQ4NjUwNzgz)]]

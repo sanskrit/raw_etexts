@@ -1,12 +1,11 @@
 +++
-TITLE = "कोशाम्बकवस्तु"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3727"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk3NjA1NTk5Nzc3NzUz&pageno=MjI0MjQyNjk5NTk="
 title = "कोशाम्बकवस्तु"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3727"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk3NjA1NTk5Nzc3NzUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कोशाम्बकवस्तु	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk3NjA1NTk5Nzc3NzUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -142,8 +141,5 @@ title = "कोशाम्बकवस्तु"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

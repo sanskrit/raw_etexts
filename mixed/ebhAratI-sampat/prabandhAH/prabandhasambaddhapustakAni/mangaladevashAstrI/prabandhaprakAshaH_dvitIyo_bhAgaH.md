@@ -1,16 +1,15 @@
 +++
-TITLE = "प्रबन्धप्रकाशः (द्वितीयो भागः)"
-AUTHOR = "मङ्गलदेवशास्त्री"
-PUBLISHER = "के.मित्रा"
-"PUBLISH YEAR" = "1950"
-DOMAIN = "प्रबन्धाः"
-SUB-DOMAIN = "प्रबन्धसम्बद्धपुस्तकानि"
-PAGES = "362"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "इण्डियन-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6506"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM1NzkxMzU1MTU1NDI2&pageno=MjI0MjQyNjk5NTk="
 title = "प्रबन्धप्रकाशः (द्वितीयो भागः)"
+author = "मङ्गलदेवशास्त्री"
+publisher = "के.मित्रा"
+"publish year" = "1950"
+domain = "प्रबन्धाः"
+sub-domain = "प्रबन्धसम्बद्धपुस्तकानि"
+pages = "362"
+language = "संस्कृतम्"
+printer = "इण्डियन-यन्त्रालयः"
+"serial no." = "Ebharati-6506"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM1NzkxMzU1MTU1NDI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रबन्धप्रकाशः (द्वितीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjM1NzkxMzU1MTU1NDI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7142,8 +7141,5 @@ Oxford University Press, Oxford (out of print).
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

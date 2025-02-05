@@ -1,17 +1,16 @@
 +++
-TITLE = "श्रृङ्गारप्रकाशः"
-AUTHOR = "भोजदेवः"
-PUBLISHER = "श्रीशङ्करगुरुकुलम्"
-"PUBLISH YEAR" = "1939"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "100"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "सुब्रह्मण्यशास्त्री"
-PRINTER = "वाणिविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5959"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk2Mjk1ODA2MTQwMjc1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रृङ्गारप्रकाशः"
+author = "भोजदेवः"
+publisher = "श्रीशङ्करगुरुकुलम्"
+"publish year" = "1939"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "100"
+language = "संस्कृतम्"
+editor = "सुब्रह्मण्यशास्त्री"
+printer = "वाणिविलास-मुद्रणालयः"
+"serial no." = "Ebharati-5959"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk2Mjk1ODA2MTQwMjc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रृङ्गारप्रकाशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODk2Mjk1ODA2MTQwMjc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1189,19 +1188,6 @@ Madras.
 
 [TABLE]
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,12 +1,11 @@
 +++
-TITLE = "साङ्ख्यपरिभाषा"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "साङ्ख्यदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3897"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM1ODE3NjUzNzkwNDcz&pageno=MjI0MjQyNjk5NTk="
 title = "साङ्ख्यपरिभाषा"
+domain = "दर्शनानि"
+sub-domain = "साङ्ख्यदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3897"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM1ODE3NjUzNzkwNDcz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[साङ्ख्यपरिभाषा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDM1ODE3NjUzNzkwNDcz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -486,8 +485,5 @@ title = "साङ्ख्यपरिभाषा"
 गुरुयुक्त्या प्रसादेन ग्रन्थगर्भावलोकनम्‌ ॥  
 इति प्रतिज्ञातत्वादस्य मुद्रणे कारिते बहुषु स्थलेषु अगत्याऽशुद्धिरस्ति किन्तु ग्रन्थार्थरक्षार्थं न तन्निरासेऽस्माभिर्दृष्टिपातः कृतः । ग्रन्थोऽपि खण्डित इवाभाति ।
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

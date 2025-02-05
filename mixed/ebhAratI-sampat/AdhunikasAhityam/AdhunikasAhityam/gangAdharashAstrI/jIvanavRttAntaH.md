@@ -1,16 +1,15 @@
 +++
-TITLE = "जीवनवृत्तान्तः"
-AUTHOR = "गङ्गाधरशास्त्री"
-"PUBLISH YEAR" = "1939"
-DOMAIN = "आधुनिकसाहित्यम्"
-SUB-DOMAIN = "आधुनिकसाहित्यम्"
-PAGES = "40"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रघुनन्दनशर्मा"
-PRINTER = "मेडिकल्होल्-यन्त्रः"
-"SERIAL NO." = "Ebharati-6177"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MDQ0OTg3ODY5Mjk1&pageno=MjI0MjQyNjk5NTk="
 title = "जीवनवृत्तान्तः"
+author = "गङ्गाधरशास्त्री"
+"publish year" = "1939"
+domain = "आधुनिकसाहित्यम्"
+sub-domain = "आधुनिकसाहित्यम्"
+pages = "40"
+language = "संस्कृतम्"
+editor = "रघुनन्दनशर्मा"
+printer = "मेडिकल्होल्-यन्त्रः"
+"serial no." = "Ebharati-6177"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MDQ0OTg3ODY5Mjk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जीवनवृत्तान्तः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MDQ0OTg3ODY5Mjk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -907,19 +906,6 @@ title = "जीवनवृत्तान्तः"
 स्याद् गङ्गाधरशास्त्रिणः कृतिरियं विद्वज्जनानां मुदे ॥१८१॥इति॥**
 
 **इति श्री ६ बालशास्त्रिजीवनवृत्तान्तः ॥**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

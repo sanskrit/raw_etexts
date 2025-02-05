@@ -1,16 +1,15 @@
 +++
-TITLE = "सर्वमतसंग्रहः"
-PUBLISHER = "राजकीय-मुद्रणालयः"
-"PUBLISH YEAR" = "1918"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "षड्दर्शनसमुच्चयः"
-PAGES = "51"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "त. गणपति-शास्त्री"
-PRINTER = "राजकीय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7726"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjczMjU5ODY5NjY2MTQ3&pageno=MjI0MjQyNjk5NTk="
 title = "सर्वमतसंग्रहः"
+publisher = "राजकीय-मुद्रणालयः"
+"publish year" = "1918"
+domain = "दर्शनानि"
+sub-domain = "षड्दर्शनसमुच्चयः"
+pages = "51"
+language = "संस्कृतम्"
+editor = "त. गणपति-शास्त्री"
+printer = "राजकीय-मुद्रणालयः"
+"serial no." = "Ebharati-7726"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjczMjU5ODY5NjY2MTQ3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सर्वमतसंग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjczMjU5ODY5NjY2MTQ3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -562,19 +561,6 @@ Trivandrum,
 
 **शुभं भूयात्।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

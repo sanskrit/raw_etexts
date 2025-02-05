@@ -1,17 +1,16 @@
 +++
-TITLE = "उपनिषद्"
-PUBLISHER = "वि.सी.सेशाचारी"
-"PUBLISH YEAR" = "1905"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "अन्याः उपनिषदः"
-PAGES = "194"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "एस्.सीताराम-शास्त्री"
-"PRIMARY COMMENTATOR" = "शङ्कराचार्यः"
-PRINTER = "जी.ए.नाटेशन्-आण्ड्-को-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7264"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA0MzU5NDA3NjEzNzk2&pageno=MjI0MjQyNjk5NTk="
 title = "उपनिषद्"
+publisher = "वि.सी.सेशाचारी"
+"publish year" = "1905"
+domain = "उपनिषदः"
+sub-domain = "अन्याः उपनिषदः"
+pages = "194"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "एस्.सीताराम-शास्त्री"
+"primary commentator" = "शङ्कराचार्यः"
+printer = "जी.ए.नाटेशन्-आण्ड्-को-मुद्रणालयः"
+"serial no." = "Ebharati-7264"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA0MzU5NDA3NjEzNzk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[उपनिषद्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODA0MzU5NDA3NjEzNzk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1782,8 +1781,5 @@ the Third Mundaka.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

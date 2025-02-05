@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीरमणगीता"
-AUTHOR = "गणपतिमुनिः"
-PUBLISHER = "निरञ्जनानन्दः"
-"PUBLISH YEAR" = "1946"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-PAGES = "177"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "नन्दिनी-मुद्रणालय-सिरसी"
-"SERIAL NO." = "Ebharati-6686"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0MzM4Njc4MDM4MTQ2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीरमणगीता"
+author = "गणपतिमुनिः"
+publisher = "निरञ्जनानन्दः"
+"publish year" = "1946"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+pages = "177"
+language = "संस्कृतम्"
+printer = "नन्दिनी-मुद्रणालय-सिरसी"
+"serial no." = "Ebharati-6686"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0MzM4Njc4MDM4MTQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीरमणगीता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0MzM4Njc4MDM4MTQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3068,19 +3067,6 @@ _(***\****)**गुरुमन्त्रभाष्यम्*****_(\*)***
 
 १२९ पृष्ठे ६ पंक्तेरनन्तरम् — अथास्मिन्नध्याये ज्ञानप्राप्तिं निरूपयति॥
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

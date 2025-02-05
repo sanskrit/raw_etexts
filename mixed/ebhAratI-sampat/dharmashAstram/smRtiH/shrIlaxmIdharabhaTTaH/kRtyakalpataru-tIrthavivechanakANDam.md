@@ -1,17 +1,16 @@
 +++
-TITLE = "कृत्यकल्पतरु-तीर्थविवेचनकाण्डम्"
-AUTHOR = "श्रीलक्ष्मीधरभट्टः"
-PUBLISHER = "बेनोयतोष-भट्टाचार्यः"
-"PUBLISH YEAR" = "1942"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "414"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "के.वि.रङ्गस्वामी-अय्यङ्गारः"
-PRINTER = "आर.नारायणस्वामी-अय्यङ्गारः"
-"SERIAL NO." = "Ebharati-6443"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NDI5OTg3MzA1ODE2&pageno=MjI0MjQyNjk5NTk="
 title = "कृत्यकल्पतरु-तीर्थविवेचनकाण्डम्"
+author = "श्रीलक्ष्मीधरभट्टः"
+publisher = "बेनोयतोष-भट्टाचार्यः"
+"publish year" = "1942"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "414"
+language = "संस्कृतम्"
+editor = "के.वि.रङ्गस्वामी-अय्यङ्गारः"
+printer = "आर.नारायणस्वामी-अय्यङ्गारः"
+"serial no." = "Ebharati-6443"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NDI5OTg3MzA1ODE2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कृत्यकल्पतरु-तीर्थविवेचनकाण्डम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NDI5OTg3MzA1ODE2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -12903,8 +12902,5 @@ PRINTED AT THE MADRAS LAW JOURNAL PRESS, MYLAPORE, MADRAS.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

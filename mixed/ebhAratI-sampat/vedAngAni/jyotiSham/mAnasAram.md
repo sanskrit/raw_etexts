@@ -1,11 +1,10 @@
 +++
-TITLE = "मानसारम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2676"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5NTg4NjUy"
 title = "मानसारम्"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2676"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5NTg4NjUy"
 
 +++
 [[मानसारम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5NTg4NjUy)]]

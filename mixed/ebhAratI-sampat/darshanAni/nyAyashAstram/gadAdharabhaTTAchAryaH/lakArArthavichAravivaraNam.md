@@ -1,13 +1,12 @@
 +++
-TITLE = "लकारार्थविचारविवरणम्"
-AUTHOR = "गदाधरभट्टाचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3658"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc2OTc3NDUyNDUxMTUz"
 title = "लकारार्थविचारविवरणम्"
+author = "गदाधरभट्टाचार्यः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3658"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc2OTc3NDUyNDUxMTUz"
 
 +++
 [[लकारार्थविचारविवरणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=Njc2OTc3NDUyNDUxMTUz)]]

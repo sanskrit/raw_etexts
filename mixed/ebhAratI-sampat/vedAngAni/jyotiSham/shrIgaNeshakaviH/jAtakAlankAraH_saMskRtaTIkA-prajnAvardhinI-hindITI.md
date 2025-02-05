@@ -1,18 +1,17 @@
 +++
-TITLE = "जातकालङ्कारः (संस्कृतटीका-प्रज्ञावर्धिनी-हिन्दीटीकाद्वयोपेतम्)"
-AUTHOR = "श्रीगणेशकविः"
-PUBLISHER = "चौखाम्बा-सुरभारती"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "116"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "हरभानुः"
-EDITOR = "सत्येन्द्रमिश्रः"
-"PRIMARY COMMENTATOR" = "हरभानुः"
-"COMMENTARY NAME" = "संस्कृतटीका प्रज्ञावर्धिनी-हिन्दीटीका"
-"SERIAL NO." = "Ebharati-1218"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk5OTYyMzI0MzI5NjEx&pageno=MjI0MjQyNjk5NTk="
 title = "जातकालङ्कारः (संस्कृतटीका-प्रज्ञावर्धिनी-हिन्दीटीकाद्वयोपेतम्)"
+author = "श्रीगणेशकविः"
+publisher = "चौखाम्बा-सुरभारती"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "116"
+language = "संस्कृतम् हिन्दी"
+translator = "हरभानुः"
+editor = "सत्येन्द्रमिश्रः"
+"primary commentator" = "हरभानुः"
+"commentary name" = "संस्कृतटीका प्रज्ञावर्धिनी-हिन्दीटीका"
+"serial no." = "Ebharati-1218"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk5OTYyMzI0MzI5NjEx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जातकालङ्कारः (संस्कृतटीका-प्रज्ञावर्धिनी-हिन्दीटीकाद्वयोपेतम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk5OTYyMzI0MzI5NjEx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -856,19 +855,6 @@ uruww uruwww urww999999999 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ----------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

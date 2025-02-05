@@ -1,15 +1,14 @@
 +++
-TITLE = "तर्कसङ्ग्रहदीपिका"
-AUTHOR = "अन्नम्भट्टः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"PRIMARY COMMENTATOR" = "रामानुजताताचार्यः"
-"COMMENTARY NAME" = "बालप्रियव्याख्या"
-"SERIAL NO." = "Ebharati-4044"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY1NDUzNDA4ODAyODgz&pageno=MjI0MjQyNjk5NTk="
 title = "तर्कसङ्ग्रहदीपिका"
+author = "अन्नम्भट्टः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"primary commentator" = "रामानुजताताचार्यः"
+"commentary name" = "बालप्रियव्याख्या"
+"serial no." = "Ebharati-4044"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY1NDUzNDA4ODAyODgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तर्कसङ्ग्रहदीपिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY1NDUzNDA4ODAyODgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -29149,19 +29148,6 @@ title = "तर्कसङ्ग्रहदीपिका"
 
 \\Z
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

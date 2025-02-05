@@ -1,16 +1,15 @@
 +++
-TITLE = "वृषभानुजा"
-AUTHOR = "मथुरादासः"
-"PUBLISH YEAR" = "1895"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "61"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शिवदत्तः  काशीनाथः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5629"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM0Mzk1ODQ4MjYzMDQ1&pageno=MjI0MjQyNjk5NTk="
 title = "वृषभानुजा"
+author = "मथुरादासः"
+"publish year" = "1895"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "61"
+language = "संस्कृतम्"
+editor = "शिवदत्तः  काशीनाथः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-5629"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM0Mzk1ODQ4MjYzMDQ1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वृषभानुजा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODM0Mzk1ODQ4MjYzMDQ1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1810,19 +1809,6 @@ title = "वृषभानुजा"
  (क)भो वयस्य, जितमस्माभिः। श्रुतमिदानीं तत्रभवत्या मानस्य निदानम्। त्वरितमेव निधेहि तच्चित्रफलकं तत्रभवत्या अग्रे।  
  (ख)अहो प्रमादः। अकारण आयासितो मूढया मयैष प्रियतमः।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

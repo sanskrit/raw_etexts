@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीमाधवमहोत्सवम्"
-AUTHOR = "श्रीश्रीलजीवगोस्वामिः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2897"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDM1NjkyNDExMTAxODcy"
 title = "श्रीमाधवमहोत्सवम्"
+author = "श्रीश्रीलजीवगोस्वामिः"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2897"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDM1NjkyNDExMTAxODcy"
 
 +++
 [[श्रीमाधवमहोत्सवम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDM1NjkyNDExMTAxODcy)]]

@@ -1,12 +1,11 @@
 +++
-TITLE = "मध्यमव्यायोगः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2803"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0NzcwOTYy&pageno=MjI0MjQyNjk5NTk="
 title = "मध्यमव्यायोगः"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2803"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0NzcwOTYy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मध्यमव्यायोगः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0NzcwOTYy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -42343,8 +42342,5 @@ title = "मध्यमव्यायोगः"
 
 ।
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

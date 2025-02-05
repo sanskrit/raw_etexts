@@ -1,16 +1,15 @@
 +++
-TITLE = "उत्तरगीता"
-PUBLISHER = "थियोसोफिकल-पब्लिशिंग-हाउस"
-"PUBLISH YEAR" = "1933"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-PAGES = "76"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "बी. के. लहेरि"
-PRINTER = "वसन्त-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6697"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMxMDA1NTM4Njg4MjQ2&pageno=MjI0MjQyNjk5NTk="
 title = "उत्तरगीता"
+publisher = "थियोसोफिकल-पब्लिशिंग-हाउस"
+"publish year" = "1933"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+pages = "76"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "बी. के. लहेरि"
+printer = "वसन्त-यन्त्रालयः"
+"serial no." = "Ebharati-6697"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMxMDA1NTM4Njg4MjQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[उत्तरगीता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDMxMDA1NTM4Njg4MjQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1011,8 +1010,5 @@ names, and colours— alone can see the Eternal Paramātman actually.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

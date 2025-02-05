@@ -1,12 +1,11 @@
 +++
-TITLE = "गुरुभावप्रकाशिका"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "39"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2140"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgwMzg3ODU5MTM0NTAy&pageno=MjI0MjQyNjk5NTk="
 title = "गुरुभावप्रकाशिका"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "39"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2140"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgwMzg3ODU5MTM0NTAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गुरुभावप्रकाशिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDgwMzg3ODU5MTM0NTAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -230,8 +229,5 @@ title = "गुरुभावप्रकाशिका"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

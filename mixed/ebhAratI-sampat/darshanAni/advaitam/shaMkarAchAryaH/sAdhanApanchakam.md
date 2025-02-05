@@ -1,13 +1,12 @@
 +++
-TITLE = "साधनापञ्चकम्"
-AUTHOR = "शंकराचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2610"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI0MTI3MjkxMDU1MDUy&pageno=MjI0MjQyNjk5NTk="
 title = "साधनापञ्चकम्"
+author = "शंकराचार्यः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2610"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI0MTI3MjkxMDU1MDUy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[साधनापञ्चकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDI0MTI3MjkxMDU1MDUy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -94,19 +93,6 @@ title = "साधनापञ्चकम्"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

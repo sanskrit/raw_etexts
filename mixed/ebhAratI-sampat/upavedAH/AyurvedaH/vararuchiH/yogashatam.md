@@ -1,13 +1,12 @@
 +++
-TITLE = "योगशतम्"
-AUTHOR = "वररुचिः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2601"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI2OTM1NjIyNjg2OTQy&pageno=MjI0MjQyNjk5NTk="
 title = "योगशतम्"
+author = "वररुचिः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2601"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI2OTM1NjIyNjg2OTQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[योगशतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjI2OTM1NjIyNjg2OTQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -294,19 +293,6 @@ title = "योगशतम्"
 नानाप्रकारामयनीडभूतं कृत्स्नं जगत्तेन भवत्वरोगम् ॥ १११ ॥  
 \\\\Z
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

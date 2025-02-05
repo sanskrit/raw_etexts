@@ -1,12 +1,11 @@
 +++
-TITLE = "काश्यपसंहिता / वृद्धजीवकीयतन्त्रम्"
-AUTHOR = "कौमारभृत्यः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2513"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0NjAyNzU1ODMyMTQy"
 title = "काश्यपसंहिता / वृद्धजीवकीयतन्त्रम्"
+author = "कौमारभृत्यः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2513"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0NjAyNzU1ODMyMTQy"
 
 +++
 [[काश्यपसंहिता / वृद्धजीवकीयतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0NjAyNzU1ODMyMTQy)]]

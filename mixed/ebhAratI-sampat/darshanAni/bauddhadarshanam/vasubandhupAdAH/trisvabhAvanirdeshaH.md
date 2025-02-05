@@ -1,13 +1,12 @@
 +++
-TITLE = "त्रिस्वभावनिर्देशः"
-AUTHOR = "वसुबन्धुपादाः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3828"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE0MTk5NTE2Mzc0NzYz&pageno=MjI0MjQyNjk5NTk="
 title = "त्रिस्वभावनिर्देशः"
+author = "वसुबन्धुपादाः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3828"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE0MTk5NTE2Mzc0NzYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[त्रिस्वभावनिर्देशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjE0MTk5NTE2Mzc0NzYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -117,8 +116,5 @@ title = "त्रिस्वभावनिर्देशः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,12 +1,11 @@
 +++
-TITLE = "कृदन्तरूपमाला"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3346"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEwNDQxNzI0MzAyMTIz&pageno=MjI0MjQyNjk5NTk="
 title = "कृदन्तरूपमाला"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3346"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEwNDQxNzI0MzAyMTIz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कृदन्तरूपमाला	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjEwNDQxNzI0MzAyMTIz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -107644,8 +107643,5 @@ publisher : Samskrit Education Society, Madras
 
 Volume : Five
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

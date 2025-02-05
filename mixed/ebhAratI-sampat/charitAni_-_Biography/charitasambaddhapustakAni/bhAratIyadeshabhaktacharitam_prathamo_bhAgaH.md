@@ -1,15 +1,14 @@
 +++
-TITLE = "भारतीयदेशभक्तचरितम् (प्रथमो भागः)"
-PUBLISHER = "श्रीरामः"
-"PUBLISH YEAR" = "1952"
-DOMAIN = "चरितानि - Biography"
-SUB-DOMAIN = "चरितसम्बद्धपुस्तकानि"
-PAGES = "103"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीराम-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7936"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk5MDY4OTcxNjI4MTY3&pageno=MjI0MjQyNjk5NTk="
 title = "भारतीयदेशभक्तचरितम् (प्रथमो भागः)"
+publisher = "श्रीरामः"
+"publish year" = "1952"
+domain = "चरितानि - Biography"
+sub-domain = "चरितसम्बद्धपुस्तकानि"
+pages = "103"
+language = "संस्कृतम्"
+printer = "श्रीराम-यन्त्रालयः"
+"serial no." = "Ebharati-7936"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk5MDY4OTcxNjI4MTY3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भारतीयदेशभक्तचरितम् (प्रथमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjk5MDY4OTcxNjI4MTY3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -658,8 +657,5 @@ Bangalore
 | कदु              | कटु           |
 | स्तस्र           | स्तत्र        |
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

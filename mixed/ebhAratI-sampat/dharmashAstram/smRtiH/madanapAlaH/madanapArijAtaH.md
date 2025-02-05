@@ -1,17 +1,16 @@
 +++
-TITLE = "मदनपारिजातः"
-AUTHOR = "मदनपालः"
-PUBLISHER = "एशियाटिक-सोसाइटी"
-"PUBLISH YEAR" = "1893"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "523"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मधुसूदन-स्मृतिरत्नः"
-PRINTER = "शशिभूषण-भट्टाचार्यः"
-"SERIAL NO." = "Ebharati-5183"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIyMzc0NDI1ODQ1Nzk0&pageno=MjI0MjQyNjk5NTk="
 title = "मदनपारिजातः"
+author = "मदनपालः"
+publisher = "एशियाटिक-सोसाइटी"
+"publish year" = "1893"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "523"
+language = "संस्कृतम्"
+editor = "मधुसूदन-स्मृतिरत्नः"
+printer = "शशिभूषण-भट्टाचार्यः"
+"serial no." = "Ebharati-5183"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIyMzc0NDI1ODQ1Nzk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मदनपारिजातः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjIyMzc0NDI1ODQ1Nzk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -13854,8 +13853,5 @@ EDITED BY
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

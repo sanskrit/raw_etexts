@@ -1,15 +1,14 @@
 +++
-TITLE = "कपिष्ठलकठसंहिता"
-"PUBLISH YEAR" = "1932"
-DOMAIN = "वेदः"
-SUB-DOMAIN = "यजुर्वेदः"
-PAGES = "356"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-EDITOR = "रघुवीरः"
-PRINTER = "मनोहर-एलेक्ट्रिक-प्रेस्"
-"SERIAL NO." = "Ebharati-8928"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE2MzQzMjU0NDUwNzU4&pageno=MjI0MjQyNjk5NTk="
 title = "कपिष्ठलकठसंहिता"
+"publish year" = "1932"
+domain = "वेदः"
+sub-domain = "यजुर्वेदः"
+pages = "356"
+language = "संस्कृतम् आङ्ग्लम्"
+editor = "रघुवीरः"
+printer = "मनोहर-एलेक्ट्रिक-प्रेस्"
+"serial no." = "Ebharati-8928"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE2MzQzMjU0NDUwNzU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कपिष्ठलकठसंहिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjE2MzQzMjU0NDUwNzU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6024,8 +6023,5 @@ Cf. KS. XXXV, 13. 14.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

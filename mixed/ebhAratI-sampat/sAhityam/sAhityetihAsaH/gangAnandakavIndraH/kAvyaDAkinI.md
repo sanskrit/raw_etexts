@@ -1,17 +1,16 @@
 +++
-TITLE = "काव्यडाकिनी"
-AUTHOR = "गङ्गानन्दकवीन्द्रः"
-PUBLISHER = "जयकृष्णहरिदासगुप्ता"
-"PUBLISH YEAR" = "1924"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "साहित्येतिहासः"
-PAGES = "65"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "जगन्नाथशास्त्री अनन्तरामशास्त्री"
-PRINTER = "विद्याविलास-मुद्रणलयः"
-"SERIAL NO." = "Ebharati-5942"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI1MTc0Mjc2OTA0MDc1&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यडाकिनी"
+author = "गङ्गानन्दकवीन्द्रः"
+publisher = "जयकृष्णहरिदासगुप्ता"
+"publish year" = "1924"
+domain = "साहित्यम्"
+sub-domain = "साहित्येतिहासः"
+pages = "65"
+language = "संस्कृतम्"
+editor = "जगन्नाथशास्त्री अनन्तरामशास्त्री"
+printer = "विद्याविलास-मुद्रणलयः"
+"serial no." = "Ebharati-5942"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI1MTc0Mjc2OTA0MDc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यडाकिनी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDI1MTc0Mjc2OTA0MDc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1921,19 +1920,6 @@ Jagannath Sastri Hoshing
 **इति श्रीमैथिलश्रीगङ्गानन्दकवीन्द्रकृतौ काव्यडाकिन्यां पञ्चमी दृष्टिः॥**
 
 **समाप्तम्।**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

@@ -1,15 +1,14 @@
 +++
-TITLE = "आर्यचरित्रम्"
-AUTHOR = "कृष्णस्वामी"
-"PUBLISH YEAR" = "1908"
-DOMAIN = "इतिहासःसंस्कृतिः च"
-SUB-DOMAIN = "संस्कृतिः"
-PAGES = "770"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "वाणी-विलास-मुद्राालयः"
-"SERIAL NO." = "Ebharati-6226"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjczOTEzNTA2Mjc2Nzk1&pageno=MjI0MjQyNjk5NTk="
 title = "आर्यचरित्रम्"
+author = "कृष्णस्वामी"
+"publish year" = "1908"
+domain = "इतिहासःसंस्कृतिः च"
+sub-domain = "संस्कृतिः"
+pages = "770"
+language = "संस्कृतम्"
+printer = "वाणी-विलास-मुद्राालयः"
+"serial no." = "Ebharati-6226"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjczOTEzNTA2Mjc2Nzk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आर्यचरित्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjczOTEzNTA2Mjc2Nzk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -23578,8 +23577,5 @@ CONTENTS
 
 ![](../../../../../books_images/U-IMG-1704172835z.PNG)
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

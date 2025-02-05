@@ -1,17 +1,16 @@
 +++
-TITLE = "अलङ्कारमणिहारः प्रथमो भागः"
-AUTHOR = "श्रीकृष्णब्रह्मतन्त्र परकाल संयमीन्द्रः"
-PUBLISHER = "मैसूरु महाराजः"
-"PUBLISH YEAR" = "1917"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "560"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "एल्.श्रीनिवासाचार्यः"
-PRINTER = "गवर्नमेन्ट् ब्राञ्च् प्रेस् मैसूरु"
-"SERIAL NO." = "Ebharati-5888"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTIyNTY1&pageno=MjI0MjQyNjk5NTk="
 title = "अलङ्कारमणिहारः प्रथमो भागः"
+author = "श्रीकृष्णब्रह्मतन्त्र परकाल संयमीन्द्रः"
+publisher = "मैसूरु महाराजः"
+"publish year" = "1917"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "560"
+language = "संस्कृतम्"
+editor = "एल्.श्रीनिवासाचार्यः"
+printer = "गवर्नमेन्ट् ब्राञ्च् प्रेस् मैसूरु"
+"serial no." = "Ebharati-5888"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTIyNTY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अलङ्कारमणिहारः प्रथमो भागः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTIyNTY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9783,8 +9782,5 @@ title = "अलङ्कारमणिहारः प्रथमो भाग
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीकल्किपुराणम्"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "उपपुराणानि"
-PAGES = "258"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"SERIAL NO." = "Ebharati-6941"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAxMTU2ODE5OTAzNjY2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीकल्किपुराणम्"
+domain = "पुराणानि"
+sub-domain = "उपपुराणानि"
+pages = "258"
+language = "संस्कृतम् हिन्दी"
+"serial no." = "Ebharati-6941"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAxMTU2ODE5OTAzNjY2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीकल्किपुराणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjAxMTU2ODE5OTAzNjY2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5802,8 +5801,5 @@ title = "श्रीकल्किपुराणम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

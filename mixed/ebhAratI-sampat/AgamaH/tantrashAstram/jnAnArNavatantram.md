@@ -1,15 +1,14 @@
 +++
-TITLE = "ज्ञानार्णवतन्त्रम्"
-PUBLISHER = "महादेव-चिमणाजी-आपटे"
-"PUBLISH YEAR" = "1952"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "141"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "आनन्दाश्रम-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-8249"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcwOTM3MzAwMzc4MTk3&pageno=MjI0MjQyNjk5NTk="
 title = "ज्ञानार्णवतन्त्रम्"
+publisher = "महादेव-चिमणाजी-आपटे"
+"publish year" = "1952"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "141"
+language = "संस्कृतम्"
+printer = "आनन्दाश्रम-मुद्रणालयः"
+"serial no." = "Ebharati-8249"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcwOTM3MzAwMzc4MTk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ज्ञानार्णवतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODcwOTM3MzAwMzc4MTk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5646,8 +5645,5 @@ title = "ज्ञानार्णवतन्त्रम्"
 
 [TABLE]
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

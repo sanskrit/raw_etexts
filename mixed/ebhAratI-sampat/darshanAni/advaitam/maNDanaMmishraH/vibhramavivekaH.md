@@ -1,13 +1,12 @@
 +++
-TITLE = "विभ्रमविवेकः"
-AUTHOR = "मण्डनंमिश्रः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2602"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQwMjg3MjIyMjg3OTQy&pageno=MjI0MjQyNjk5NTk="
 title = "विभ्रमविवेकः"
+author = "मण्डनंमिश्रः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2602"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQwMjg3MjIyMjg3OTQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विभ्रमविवेकः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQwMjg3MjIyMjg3OTQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -514,19 +513,6 @@ title = "विभ्रमविवेकः"
 अख्यातौ नो तत्त्वमिथ्याविभागस्तस्मादेषां विभ्रमाणां विवेकः ॥ १६४ ॥
 
 \\Z  
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

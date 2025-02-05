@@ -1,17 +1,16 @@
 +++
-TITLE = "भारतमञ्जरी"
-AUTHOR = "क्षेमेन्द्रः"
-PUBLISHER = "तुकाराम-जावजी"
-"PUBLISH YEAR" = "1898"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "856"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शिवदत्तः  काशीनाथः"
-PRINTER = "निर्णयसागर-प्रेस् बोम्बे"
-"SERIAL NO." = "Ebharati-5794"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODYwMzk1ODIyMjAyNjU1&pageno=MjI0MjQyNjk5NTk="
 title = "भारतमञ्जरी"
+author = "क्षेमेन्द्रः"
+publisher = "तुकाराम-जावजी"
+"publish year" = "1898"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "856"
+language = "संस्कृतम्"
+editor = "शिवदत्तः  काशीनाथः"
+printer = "निर्णयसागर-प्रेस् बोम्बे"
+"serial no." = "Ebharati-5794"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODYwMzk1ODIyMjAyNjU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भारतमञ्जरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODYwMzk1ODIyMjAyNjU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -35677,8 +35676,5 @@ XXX करे॥१६९१॥
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

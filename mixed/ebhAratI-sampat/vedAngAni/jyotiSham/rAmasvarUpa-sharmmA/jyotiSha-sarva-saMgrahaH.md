@@ -1,14 +1,13 @@
 +++
-TITLE = "ज्योतिष-सर्व-संग्रहः"
-AUTHOR = "रामस्वरूप-शर्म्मा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "175"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "हरिहर-प्रस्"
-"SERIAL NO." = "Ebharati-4949"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc0NjQ3MzA0NTgwNTc0&pageno=MjI0MjQyNjk5NTk="
 title = "ज्योतिष-सर्व-संग्रहः"
+author = "रामस्वरूप-शर्म्मा"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "175"
+language = "संस्कृतम्"
+printer = "हरिहर-प्रस्"
+"serial no." = "Ebharati-4949"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc0NjQ3MzA0NTgwNTc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ज्योतिष-सर्व-संग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODc0NjQ3MzA0NTgwNTc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3990,19 +3989,6 @@ title = "ज्योतिष-सर्व-संग्रहः"
 Printer-S. L. Gupta, Hindi Pustkalya Press, Mathuar.
 
 ----------
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

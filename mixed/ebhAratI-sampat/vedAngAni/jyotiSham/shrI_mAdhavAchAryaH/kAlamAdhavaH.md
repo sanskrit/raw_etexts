@@ -1,15 +1,14 @@
 +++
-TITLE = "कालमाधवः"
-AUTHOR = "श्री माधवाचार्यः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "241"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रत्नगोपाल-भट्टः"
-PRINTER = "विद्याविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-4967"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcwMDExNjMzMzE4Njc0&pageno=MjI0MjQyNjk5NTk="
 title = "कालमाधवः"
+author = "श्री माधवाचार्यः"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "241"
+language = "संस्कृतम्"
+editor = "रत्नगोपाल-भट्टः"
+printer = "विद्याविलास-मुद्रणालयः"
+"serial no." = "Ebharati-4967"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcwMDExNjMzMzE4Njc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कालमाधवः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDcwMDExNjMzMzE4Njc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -720,19 +719,6 @@ title = "कालमाधवः"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

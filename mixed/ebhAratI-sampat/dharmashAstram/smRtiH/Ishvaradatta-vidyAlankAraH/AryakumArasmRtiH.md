@@ -1,16 +1,15 @@
 +++
-TITLE = "आर्यकुमारस्मृतिः"
-AUTHOR = "ईश्वरदत्त-विद्यालङ्कारः"
-PUBLISHER = "विश्वम्भरप्रसादशर्मा"
-"PUBLISH YEAR" = "1926"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "55"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "आर्यकुमार-कार्यालय-कलकत्ता"
-"SERIAL NO." = "Ebharati-5146"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk5Mzk0&pageno=MjI0MjQyNjk5NTk="
 title = "आर्यकुमारस्मृतिः"
+author = "ईश्वरदत्त-विद्यालङ्कारः"
+publisher = "विश्वम्भरप्रसादशर्मा"
+"publish year" = "1926"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "55"
+language = "संस्कृतम् हिन्दी"
+printer = "आर्यकुमार-कार्यालय-कलकत्ता"
+"serial no." = "Ebharati-5146"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk5Mzk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आर्यकुमारस्मृतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk5Mzk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1359,8 +1358,5 @@ title = "आर्यकुमारस्मृतिः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

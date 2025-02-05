@@ -1,18 +1,17 @@
 +++
-TITLE = "आश्वलायनश्रौतसूत्रम्"
-AUTHOR = "आश्वलायनः"
-PUBLISHER = "हरिनारायण-आपटे"
-"PUBLISH YEAR" = "1917"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "480"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गणेशशास्त्री-गोखले"
-"PRIMARY COMMENTATOR" = "नारायणः"
-PRINTER = "हरिनारायण-आपटे"
-"SERIAL NO." = "Ebharati-7450"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA5MzQwNjAwMjcxNTE3&pageno=MjI0MjQyNjk5NTk="
 title = "आश्वलायनश्रौतसूत्रम्"
+author = "आश्वलायनः"
+publisher = "हरिनारायण-आपटे"
+"publish year" = "1917"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "480"
+language = "संस्कृतम्"
+editor = "गणेशशास्त्री-गोखले"
+"primary commentator" = "नारायणः"
+printer = "हरिनारायण-आपटे"
+"serial no." = "Ebharati-7450"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA5MzQwNjAwMjcxNTE3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आश्वलायनश्रौतसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA5MzQwNjAwMjcxNTE3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -12563,19 +12562,6 @@ title = "आश्वलायनश्रौतसूत्रम्"
 
 **————————  
 ————————**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

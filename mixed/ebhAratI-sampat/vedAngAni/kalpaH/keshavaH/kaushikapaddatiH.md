@@ -1,13 +1,12 @@
 +++
-TITLE = "कौशिकपद्दतिः"
-AUTHOR = "केशवः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3165"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM2NTYyNzAxODI4MzAz&pageno=MjI0MjQyNjk5NTk="
 title = "कौशिकपद्दतिः"
+author = "केशवः"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3165"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM2NTYyNzAxODI4MzAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कौशिकपद्दतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDM2NTYyNzAxODI4MzAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8360,8 +8359,5 @@ title = "कौशिकपद्दतिः"
 \\Z  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,12 +1,11 @@
 +++
-TITLE = "ख्यातिसमीक्षा"
-AUTHOR = "एन्.एस्. रामानुजतानताचार्यः"
-DOMAIN = "लेखाः"
-SUB-DOMAIN = "न्यायदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-3687"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5OTA4NTQxODM5MzUz&pageno=MjI0MjQyNjk5NTk="
 title = "ख्यातिसमीक्षा"
+author = "एन्.एस्. रामानुजतानताचार्यः"
+domain = "लेखाः"
+sub-domain = "न्यायदर्शनम्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-3687"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5OTA4NTQxODM5MzUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ख्यातिसमीक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDE5OTA4NTQxODM5MzUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -182,8 +181,5 @@ title = "ख्यातिसमीक्षा"
  \`शुक्तिशकलमेव मया रजततया गृहीतम्' इत्यनुव्यवसायः, पूर्वोक्तान्यनुमानानि, \`योऽन्यथासन्तमात्मानमन्यथा प्रतिपद्यते' \`अयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी' \`अनात्मन्यात्मबुद्धिर्या अस्वे स्वमिति या मतिः' इत्यादीन्याप्तवचनानि च अन्यथाख्यातौ प्रमाणानि। तस्मादन्यथाख्यातिर्निराबाधेति सिद्धम्॥  
   --------------\*\*\*\*\*\*\*\*\*\*\*------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

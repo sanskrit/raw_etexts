@@ -1,14 +1,13 @@
 +++
-TITLE = "भारतीयदर्शनेषु प्रत्यक्षप्रमाणविमर्शः"
-AUTHOR = "र. तङ्गस्वामिशर्मा"
-PUBLISHER = "अडयार् पुस्तकालयः अनुसन्धानकेन्द्रश्च"
-DOMAIN = "विमर्शः - Criticism"
-SUB-DOMAIN = "विमर्शसम्बद्धपुस्तकानि"
-PAGES = "289"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-313"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgwODc4MzI4NjQwMDM=&pageno=MjI0MjQyNjk5NTk="
 title = "भारतीयदर्शनेषु प्रत्यक्षप्रमाणविमर्शः"
+author = "र. तङ्गस्वामिशर्मा"
+publisher = "अडयार् पुस्तकालयः अनुसन्धानकेन्द्रश्च"
+domain = "विमर्शः - Criticism"
+sub-domain = "विमर्शसम्बद्धपुस्तकानि"
+pages = "289"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-313"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgwODc4MzI4NjQwMDM=&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भारतीयदर्शनेषु प्रत्यक्षप्रमाणविमर्शः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjgwODc4MzI4NjQwMDM=&pageno=MjI0MjQyNjk5NTk=)]]
@@ -976,19 +975,6 @@ Tamil Nadu
 **श्रीभगवत्पादसेवायां समर्पितश्च ।**
 
 **॥ शुभं भूयात् ॥**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

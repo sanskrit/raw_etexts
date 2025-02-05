@@ -1,11 +1,10 @@
 +++
-TITLE = "शङ्करपादभूषणम्"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2516"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU3MzM5NTQ1NjI1MTQy"
 title = "शङ्करपादभूषणम्"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2516"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU3MzM5NTQ1NjI1MTQy"
 
 +++
 [[शङ्करपादभूषणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjU3MzM5NTQ1NjI1MTQy)]]

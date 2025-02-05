@@ -1,14 +1,13 @@
 +++
-TITLE = "मेघदूतम्-संजीविनि"
-AUTHOR = "कालिदासः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"COMMENTARY NAME" = "संजीविनी"
-PRINTER = "मल्लिनाथः"
-"SERIAL NO." = "Ebharati-3019"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODEwMjc4NTU2MjE4OTgy"
 title = "मेघदूतम्-संजीविनि"
+author = "कालिदासः"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"commentary name" = "संजीविनी"
+printer = "मल्लिनाथः"
+"serial no." = "Ebharati-3019"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODEwMjc4NTU2MjE4OTgy"
 
 +++
 [[मेघदूतम्-संजीविनि	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODEwMjc4NTU2MjE4OTgy)]]

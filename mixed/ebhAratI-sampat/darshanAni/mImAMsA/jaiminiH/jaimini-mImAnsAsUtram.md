@@ -1,14 +1,13 @@
 +++
-TITLE = "जैमिनि-मीमान्सासूत्रम्"
-AUTHOR = "जैमिनिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"PRIMARY COMMENTATOR" = "शबरः"
-"COMMENTARY NAME" = "शबरभाष्यम्"
-"SERIAL NO." = "Ebharati-2625"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU3NzUzNjMxMDk5MTUy"
 title = "जैमिनि-मीमान्सासूत्रम्"
+author = "जैमिनिः"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"primary commentator" = "शबरः"
+"commentary name" = "शबरभाष्यम्"
+"serial no." = "Ebharati-2625"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU3NzUzNjMxMDk5MTUy"
 
 +++
 [[जैमिनि-मीमान्सासूत्रम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDU3NzUzNjMxMDk5MTUy)]]

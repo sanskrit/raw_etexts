@@ -1,11 +1,10 @@
 +++
-TITLE = "मीमान्साशास्त्रसारः (प्रथमः भागः)"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2631"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjgyMjE4MzExNjY1MjUy"
 title = "मीमान्साशास्त्रसारः (प्रथमः भागः)"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2631"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjgyMjE4MzExNjY1MjUy"
 
 +++
 [[मीमान्साशास्त्रसारः (प्रथमः भागः)	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjgyMjE4MzExNjY1MjUy)]]

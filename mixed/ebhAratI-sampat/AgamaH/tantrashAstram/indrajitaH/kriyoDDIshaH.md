@@ -1,18 +1,17 @@
 +++
-TITLE = "क्रियोड्डीशः"
-AUTHOR = "इन्द्रजितः"
-PUBLISHER = "गङ्गाविष्णुः"
-"PUBLISH YEAR" = "1923"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "177"
-LANGUAGE = "संस्कृतम् हिन्दी"
-EDITOR = "बालदेवप्रसादमिश्रा"
-"PRIMARY COMMENTATOR" = "लालमनशर्मा"
-PRINTER = "श्रीलक्ष्मीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6051"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI1NTk4MjYyMzc4MDg1&pageno=MjI0MjQyNjk5NTk="
 title = "क्रियोड्डीशः"
+author = "इन्द्रजितः"
+publisher = "गङ्गाविष्णुः"
+"publish year" = "1923"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "177"
+language = "संस्कृतम् हिन्दी"
+editor = "बालदेवप्रसादमिश्रा"
+"primary commentator" = "लालमनशर्मा"
+printer = "श्रीलक्ष्मीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-6051"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI1NTk4MjYyMzc4MDg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[क्रियोड्डीशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjI1NTk4MjYyMzc4MDg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1552,8 +1551,5 @@ title = "क्रियोड्डीशः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

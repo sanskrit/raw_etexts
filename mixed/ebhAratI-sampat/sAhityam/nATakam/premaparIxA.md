@@ -1,11 +1,10 @@
 +++
-TITLE = "प्रेमपरीक्षा"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2852"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDQ1NzgzMzgyMTg3Mzcy"
 title = "प्रेमपरीक्षा"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2852"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDQ1NzgzMzgyMTg3Mzcy"
 
 +++
 [[प्रेमपरीक्षा	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDQ1NzgzMzgyMTg3Mzcy)]]

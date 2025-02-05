@@ -1,12 +1,11 @@
 +++
-TITLE = "प्रवारणवस्तु"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3770"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ5MDM5MzM4NTA5MTYz&pageno=MjI0MjQyNjk5NTk="
 title = "प्रवारणवस्तु"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3770"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ5MDM5MzM4NTA5MTYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रवारणवस्तु	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ5MDM5MzM4NTA5MTYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -485,8 +484,5 @@ fओलिओ ७४ इस्लोस्त्, थेरेfओरे थे 
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

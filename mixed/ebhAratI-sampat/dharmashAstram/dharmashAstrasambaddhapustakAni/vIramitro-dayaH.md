@@ -1,12 +1,11 @@
 +++
-TITLE = "वीरमित्रोऽदयः"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "धर्मशास्त्रसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2566"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjIzNjQy&pageno=MjI0MjQyNjk5NTk="
 title = "वीरमित्रोऽदयः"
+domain = "धर्मशास्त्रम्"
+sub-domain = "धर्मशास्त्रसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2566"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjIzNjQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वीरमित्रोऽदयः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjIzNjQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -14670,8 +14669,5 @@ title = "वीरमित्रोऽदयः"
 शुभं भूयात् ।  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

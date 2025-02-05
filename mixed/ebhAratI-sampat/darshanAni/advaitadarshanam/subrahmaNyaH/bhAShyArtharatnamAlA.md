@@ -1,18 +1,17 @@
 +++
-TITLE = "भाष्यार्थरत्नमाला"
-AUTHOR = "सुब्रह्मण्यः"
-PUBLISHER = "हरि नारायण आपटे"
-"PUBLISH YEAR" = "1915"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतदर्शनम्"
-PAGES = "430"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गणेशशास्त्रीगोखले"
-"PRIMARY COMMENTATOR" = "शङ्कराचार्यः"
-PRINTER = "आनन्दाश्रममुद्रणालयम्"
-"SERIAL NO." = "Ebharati-8642"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI5MDEwNzI1OTk1OTI4&pageno=MjI0MjQyNjk5NTk="
 title = "भाष्यार्थरत्नमाला"
+author = "सुब्रह्मण्यः"
+publisher = "हरि नारायण आपटे"
+"publish year" = "1915"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतदर्शनम्"
+pages = "430"
+language = "संस्कृतम्"
+editor = "गणेशशास्त्रीगोखले"
+"primary commentator" = "शङ्कराचार्यः"
+printer = "आनन्दाश्रममुद्रणालयम्"
+"serial no." = "Ebharati-8642"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI5MDEwNzI1OTk1OTI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भाष्यार्थरत्नमाला	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDI5MDEwNzI1OTk1OTI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -20596,19 +20595,6 @@ title = "भाष्यार्थरत्नमाला"
 
 **समाप्तेयं भाष्यार्थरत्नमाला।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

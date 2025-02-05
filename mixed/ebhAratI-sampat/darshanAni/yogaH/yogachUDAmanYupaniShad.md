@@ -1,13 +1,12 @@
 +++
-TITLE = "योगचूडामन्य़ुपनिषद्"
-"PUBLISH YEAR" = "२०००"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "9"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-1622"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg0ODAyNTA5NTA3NTUx&pageno=MjI0MjQyNjk5NTk="
 title = "योगचूडामन्य़ुपनिषद्"
+"publish year" = "२०००"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "9"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-1622"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg0ODAyNTA5NTA3NTUx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[योगचूडामन्य़ुपनिषद्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDg0ODAyNTA5NTA3NTUx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -602,8 +601,5 @@ Last updated April 25, 2000
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

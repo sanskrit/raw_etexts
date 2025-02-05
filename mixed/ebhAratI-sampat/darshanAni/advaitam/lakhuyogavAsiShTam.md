@@ -1,11 +1,10 @@
 +++
-TITLE = "लखुयोगवासिष्टम्"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2508"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjczNDk5NTc1ODU3MDQy"
 title = "लखुयोगवासिष्टम्"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2508"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjczNDk5NTc1ODU3MDQy"
 
 +++
 [[लखुयोगवासिष्टम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjczNDk5NTc1ODU3MDQy)]]

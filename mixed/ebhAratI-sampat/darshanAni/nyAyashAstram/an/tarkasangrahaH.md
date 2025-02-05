@@ -1,13 +1,12 @@
 +++
-TITLE = "तर्कसङ्ग्रहः"
-AUTHOR = "अन्"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4092"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4MDk5MzI2NjE4Mjkz&pageno=MjI0MjQyNjk5NTk="
 title = "तर्कसङ्ग्रहः"
+author = "अन्"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4092"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4MDk5MzI2NjE4Mjkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तर्कसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDI4MDk5MzI2NjE4Mjkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -125,19 +124,6 @@ title = "तर्कसङ्ग्रहः"
 
 ** -------------------------------------------------**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,13 +1,12 @@
 +++
-TITLE = "अद्वैतानुभूतिः"
-AUTHOR = "आदिशन्कराचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "3"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2120"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2NDM5MzMwMjE1MzAy&pageno=MjI0MjQyNjk5NTk="
 title = "अद्वैतानुभूतिः"
+author = "आदिशन्कराचार्यः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "3"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2120"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2NDM5MzMwMjE1MzAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अद्वैतानुभूतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2NDM5MzMwMjE1MzAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -196,8 +195,5 @@ title = "अद्वैतानुभूतिः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

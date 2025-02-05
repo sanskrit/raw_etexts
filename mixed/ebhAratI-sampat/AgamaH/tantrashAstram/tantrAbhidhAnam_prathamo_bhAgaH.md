@@ -1,15 +1,14 @@
 +++
-TITLE = "तन्त्राभिधानम् (प्रथमो भागः)"
-"PUBLISH YEAR" = "1937"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "212"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पञ्चाननभट्टाचार्यः"
-PRINTER = "महाराष्ट्र-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-8836"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk3MDQwODk3MjIyODQ4&pageno=MjI0MjQyNjk5NTk="
 title = "तन्त्राभिधानम् (प्रथमो भागः)"
+"publish year" = "1937"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "212"
+language = "संस्कृतम्"
+editor = "पञ्चाननभट्टाचार्यः"
+printer = "महाराष्ट्र-मुद्रणालयः"
+"serial no." = "Ebharati-8836"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk3MDQwODk3MjIyODQ4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तन्त्राभिधानम् (प्रथमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjk3MDQwODk3MjIyODQ4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5218,8 +5217,5 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

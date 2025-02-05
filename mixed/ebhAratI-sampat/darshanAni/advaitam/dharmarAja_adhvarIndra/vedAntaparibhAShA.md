@@ -1,12 +1,11 @@
 +++
-TITLE = "वेदान्तपरिभाषा"
-AUTHOR = "धर्मराज अध्वरीन्द्र"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2510"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDIyOTc0ODY1MDU5MDQy"
 title = "वेदान्तपरिभाषा"
+author = "धर्मराज अध्वरीन्द्र"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2510"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDIyOTc0ODY1MDU5MDQy"
 
 +++
 [[वेदान्तपरिभाषा	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDIyOTc0ODY1MDU5MDQy)]]

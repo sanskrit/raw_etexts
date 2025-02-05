@@ -1,16 +1,15 @@
 +++
-TITLE = "शौनकीयं-Split-1"
-PUBLISHER = "द गवर्नमेन्ट आफ् ट्रवनकोर"
-"PUBLISH YEAR" = "1935"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "38"
-LANGUAGE = "संस्कृतम् English"
-EDITOR = "के. साम्बशिवशास्त्री"
-PRINTER = "The Government Press Trivandrum"
-"SERIAL NO." = "Ebharati-5052"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5NTE3NjEwMzc5NDg0&pageno=MjI0MjQyNjk5NTk="
 title = "शौनकीयं-Split-1"
+publisher = "द गवर्नमेन्ट आफ् ट्रवनकोर"
+"publish year" = "1935"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "38"
+language = "संस्कृतम् English"
+editor = "के. साम्बशिवशास्त्री"
+printer = "The Government Press Trivandrum"
+"serial no." = "Ebharati-5052"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5NTE3NjEwMzc5NDg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शौनकीयं-Split-1	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5NTE3NjEwMzc5NDg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3370,8 +3369,5 @@ G. P. T. 1845. 500. 25-3-1109, B
 
 यमुद्दिश्य कृतं मन्त्री प्रोक्षयेत् तं जलेन वै ॥ २६ ॥
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

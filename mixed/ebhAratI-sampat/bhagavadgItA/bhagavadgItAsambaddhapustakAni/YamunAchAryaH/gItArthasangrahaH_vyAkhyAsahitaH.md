@@ -1,13 +1,12 @@
 +++
-TITLE = "गीतार्थसङ्ग्रहः व्याख्यासहितः"
-AUTHOR = "य़मुनाचार्यः"
-DOMAIN = "भगवद्गीता"
-SUB-DOMAIN = "भगवद्गीतासम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4205"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE1NDgzOTkxNDY2MzA0"
 title = "गीतार्थसङ्ग्रहः व्याख्यासहितः"
+author = "य़मुनाचार्यः"
+domain = "भगवद्गीता"
+sub-domain = "भगवद्गीतासम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4205"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE1NDgzOTkxNDY2MzA0"
 
 +++
 [[गीतार्थसङ्ग्रहः व्याख्यासहितः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDE1NDgzOTkxNDY2MzA0)]]

@@ -1,20 +1,19 @@
 +++
-TITLE = "काशिकावृत्तिः (प्रथमो भागः न्यास-पदमञ्जरीसहिता)"
-AUTHOR = "वामनजयादित्यौ"
-PUBLISHER = "प्राच्यभारतीयप्रकाशनम्"
-"PUBLISH YEAR" = "१९६५"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "स्वामिद्वारिकादासशास्त्री"
-"SECOND EDITOR" = "कलिकाप्रसादशुक्लः"
-"PRIMARY COMMENTATOR" = "जिनेन्द्रबुद्धिः"
-"SECONDARY COMMENTATOR" = "हरदत्तमिश्रः"
-"COMMENTARY NAME" = "न्यास-काशिकाविवरणपञ्चिका पदमञ्जरी-व्याख्या"
-PRINTER = "गौरीशङ्कर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1020"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0MDcyNzYxNjE5Nzk=&pageno=MjI0MjQyNjk5NTk="
 title = "काशिकावृत्तिः (प्रथमो भागः न्यास-पदमञ्जरीसहिता)"
+author = "वामनजयादित्यौ"
+publisher = "प्राच्यभारतीयप्रकाशनम्"
+"publish year" = "१९६५"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+editor = "स्वामिद्वारिकादासशास्त्री"
+"second editor" = "कलिकाप्रसादशुक्लः"
+"primary commentator" = "जिनेन्द्रबुद्धिः"
+"secondary commentator" = "हरदत्तमिश्रः"
+"commentary name" = "न्यास-काशिकाविवरणपञ्चिका पदमञ्जरी-व्याख्या"
+printer = "गौरीशङ्कर-मुद्रणालयः"
+"serial no." = "Ebharati-1020"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0MDcyNzYxNjE5Nzk=&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काशिकावृत्तिः (प्रथमो भागः न्यास-पदमञ्जरीसहिता)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0MDcyNzYxNjE5Nzk=&pageno=MjI0MjQyNjk5NTk=)]]
@@ -107693,8 +107692,5 @@ OMoto
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ “A book that is shut is but a block" CHAEOLOGICA CENTRAL GOVT. OF INDIA Department of Archaeology NEW DELHI. AAL LIBRARY : Please help us to keep the book clean and moving. 5. B. 148. N. DELHI. -
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

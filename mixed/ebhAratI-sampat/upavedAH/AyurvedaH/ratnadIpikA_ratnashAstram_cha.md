@@ -1,14 +1,13 @@
 +++
-TITLE = "रत्नदीपिका रत्नशास्त्रम् च"
-PUBLISHER = "मद्राससर्वकारः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "83"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीवत्समुद्रणालयः"
-"SERIAL NO." = "Ebharati-4692"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIwNDQ0OTYzNDE0MDU0&pageno=MjI0MjQyNjk5NTk="
 title = "रत्नदीपिका रत्नशास्त्रम् च"
+publisher = "मद्राससर्वकारः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "83"
+language = "संस्कृतम्"
+printer = "श्रीवत्समुद्रणालयः"
+"serial no." = "Ebharati-4692"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIwNDQ0OTYzNDE0MDU0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रत्नदीपिका रत्नशास्त्रम् च	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDIwNDQ0OTYzNDE0MDU0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2282,8 +2281,5 @@ Madras Govt. OrientalSeries.**
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

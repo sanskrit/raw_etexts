@@ -1,16 +1,15 @@
 +++
-TITLE = "कामकलाविलासः"
-AUTHOR = "पुण्यानन्दः"
-"PUBLISH YEAR" = "1918"
-DOMAIN = "भारतीयविज्ञानम्"
-SUB-DOMAIN = "कामशास्त्रम्"
-PAGES = "87"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "श्रीनटनानन्दः"
-"COMMENTARY NAME" = "कामकलाचिद्वल्ली"
-"SERIAL NO." = "Ebharati-4569"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODExNjI2MTM4NjA2ODM0&pageno=MjI0MjQyNjk5NTk="
 title = "कामकलाविलासः"
+author = "पुण्यानन्दः"
+"publish year" = "1918"
+domain = "भारतीयविज्ञानम्"
+sub-domain = "कामशास्त्रम्"
+pages = "87"
+language = "संस्कृतम्"
+"primary commentator" = "श्रीनटनानन्दः"
+"commentary name" = "कामकलाचिद्वल्ली"
+"serial no." = "Ebharati-4569"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODExNjI2MTM4NjA2ODM0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कामकलाविलासः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODExNjI2MTM4NjA2ODM0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2917,19 +2916,6 @@ title = "कामकलाविलासः"
 
 **॥शुभस्तु॥**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

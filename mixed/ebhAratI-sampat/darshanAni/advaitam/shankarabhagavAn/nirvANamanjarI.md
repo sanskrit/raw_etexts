@@ -1,13 +1,12 @@
 +++
-TITLE = "निर्वाणमञ्जरी"
-AUTHOR = "शङ्करभगवान्"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "3"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2149"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc4NDY5NDI5NTkyNjAy&pageno=MjI0MjQyNjk5NTk="
 title = "निर्वाणमञ्जरी"
+author = "शङ्करभगवान्"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "3"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2149"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc4NDY5NDI5NTkyNjAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[निर्वाणमञ्जरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODc4NDY5NDI5NTkyNjAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -105,8 +104,5 @@ Nirvanamanjari
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

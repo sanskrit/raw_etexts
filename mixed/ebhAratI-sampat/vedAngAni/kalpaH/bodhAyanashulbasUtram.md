@@ -1,12 +1,11 @@
 +++
-TITLE = "बोधायनशुल्बसूत्रम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3267"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc2Mjk5MzI3OTE2MzEz&pageno=MjI0MjQyNjk5NTk="
 title = "बोधायनशुल्बसूत्रम्"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3267"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc2Mjk5MzI3OTE2MzEz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बोधायनशुल्बसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDc2Mjk5MzI3OTE2MzEz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -673,8 +672,5 @@ title = "बोधायनशुल्बसूत्रम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

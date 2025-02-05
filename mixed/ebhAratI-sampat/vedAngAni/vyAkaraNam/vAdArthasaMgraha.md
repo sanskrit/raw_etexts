@@ -1,12 +1,11 @@
 +++
-TITLE = "वादार्थसंग्रह:"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3538"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMwOTg2NTA3NDM2OTMz&pageno=MjI0MjQyNjk5NTk="
 title = "वादार्थसंग्रह:"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3538"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMwOTg2NTA3NDM2OTMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वादार्थसंग्रह:	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjMwOTg2NTA3NDM2OTMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1137,8 +1136,5 @@ title = "वादार्थसंग्रह:"
 
 भूतलवृत्त्‍यभावप्रतियोगिघटोस्‍तीतिवाक्‍यार्थबोधाङ्गीकारे इति शेषः।
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

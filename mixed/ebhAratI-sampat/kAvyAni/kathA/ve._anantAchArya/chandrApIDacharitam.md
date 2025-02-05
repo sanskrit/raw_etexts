@@ -1,16 +1,15 @@
 +++
-TITLE = "चन्द्रापीडचरितम्"
-AUTHOR = "वे. अनन्ताचार्य"
-PUBLISHER = "आर्. सुब्रह्मण्य वाद्यार्"
-"PUBLISH YEAR" = "1933"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "47"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "दि. मद्रास् ला जर्नल् प्रेस् मैलापुर"
-"SERIAL NO." = "Ebharati-5350"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA3NzU5Njk4OTc1MzE1&pageno=MjI0MjQyNjk5NTk="
 title = "चन्द्रापीडचरितम्"
+author = "वे. अनन्ताचार्य"
+publisher = "आर्. सुब्रह्मण्य वाद्यार्"
+"publish year" = "1933"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "47"
+language = "संस्कृतम्"
+printer = "दि. मद्रास् ला जर्नल् प्रेस् मैलापुर"
+"serial no." = "Ebharati-5350"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA3NzU5Njk4OTc1MzE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चन्द्रापीडचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA3NzU5Njk4OTc1MzE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -501,19 +500,6 @@ title = "चन्द्रापीडचरितम्"
 | माम् अन्तरेण = about me                          | परिजनवषागु= amongst your attendents         |
 | प्रभाति...= morning rites                       | 21. स्कन्धा..रम्= army                      |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

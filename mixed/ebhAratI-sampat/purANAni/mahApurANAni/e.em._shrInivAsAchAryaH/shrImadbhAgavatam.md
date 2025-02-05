@@ -1,15 +1,14 @@
 +++
-TITLE = "श्रीमद्भागवतम्"
-AUTHOR = "ए.एम्. श्रीनिवासाचार्यः"
-PUBLISHER = "नटेश-एण्ड-कम्पनी"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "495"
-LANGUAGE = ":संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "वि.राघवन्"
-"SERIAL NO." = "Ebharati-6781"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg1MzY4OTE1MDU5MDU2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमद्भागवतम्"
+author = "ए.एम्. श्रीनिवासाचार्यः"
+publisher = "नटेश-एण्ड-कम्पनी"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "495"
+language = ":संस्कृतम् आङ्ग्लम्"
+translator = "वि.राघवन्"
+"serial no." = "Ebharati-6781"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg1MzY4OTE1MDU5MDU2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमद्भागवतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjg1MzY4OTE1MDU5MDU2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8497,19 +8496,6 @@ Raumaharshani. His proper name is Ugrasravas.
 
 ![](../books_images/U-IMG-1735092528Screenshot2024-12-15104840.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

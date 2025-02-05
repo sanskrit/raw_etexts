@@ -1,15 +1,14 @@
 +++
-TITLE = "स्तोत्ररत्नाकरः (द्वितीयो भागः)"
-PUBLISHER = "वाविळ्ळ-रामस्वामिशास्त्रुलु-एण्ड्-सन्स्"
-"PUBLISH YEAR" = "1929"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "587"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "वाविळ्ळ-मुद्रणालयः मद्रास्"
-"SERIAL NO." = "Ebharati-7134"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1ODM0MzkxNzM4NDg2&pageno=MjI0MjQyNjk5NTk="
 title = "स्तोत्ररत्नाकरः (द्वितीयो भागः)"
+publisher = "वाविळ्ळ-रामस्वामिशास्त्रुलु-एण्ड्-सन्स्"
+"publish year" = "1929"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "587"
+language = "संस्कृतम्"
+printer = "वाविळ्ळ-मुद्रणालयः मद्रास्"
+"serial no." = "Ebharati-7134"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1ODM0MzkxNzM4NDg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्तोत्ररत्नाकरः (द्वितीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1ODM0MzkxNzM4NDg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -15253,8 +15252,5 @@ All Rights Reserved.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

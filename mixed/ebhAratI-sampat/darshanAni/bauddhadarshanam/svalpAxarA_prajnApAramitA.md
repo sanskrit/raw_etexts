@@ -1,12 +1,11 @@
 +++
-TITLE = "स्वल्पाक्षरा प्रज्ञापारमिता"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3817"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc3NDIzNzU2NzE0NjYz&pageno=MjI0MjQyNjk5NTk="
 title = "स्वल्पाक्षरा प्रज्ञापारमिता"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3817"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc3NDIzNzU2NzE0NjYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्वल्पाक्षरा प्रज्ञापारमिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDc3NDIzNzU2NzE0NjYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -130,8 +129,5 @@ Their hearts gladdened, the noble Avalokitesvara, grounded in openness and vastn
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

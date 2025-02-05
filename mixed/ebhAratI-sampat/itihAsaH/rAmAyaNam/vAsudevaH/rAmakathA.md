@@ -1,17 +1,16 @@
 +++
-TITLE = "रामकथा"
-AUTHOR = "वासुदेवः"
-PUBLISHER = "श्रीबालमनोरमा-मुद्रणालयः"
-"PUBLISH YEAR" = "1929"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "63"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शङ्कररामशास्त्री"
-PRINTER = "श्रीबालमनोरमा-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6131"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyOTgyMjY5MjU1ODg1&pageno=MjI0MjQyNjk5NTk="
 title = "रामकथा"
+author = "वासुदेवः"
+publisher = "श्रीबालमनोरमा-मुद्रणालयः"
+"publish year" = "1929"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "63"
+language = "संस्कृतम्"
+editor = "शङ्कररामशास्त्री"
+printer = "श्रीबालमनोरमा-मुद्रणालयः"
+"serial no." = "Ebharati-6131"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyOTgyMjY5MjU1ODg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रामकथा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjgyOTgyMjY5MjU1ODg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -674,19 +673,6 @@ barī and the ruggedness of Harṣacarita, Rāmakatha is quite easy-reading, wri
 
 **॥ इति रामकथा संपूर्णा ॥**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

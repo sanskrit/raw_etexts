@@ -1,15 +1,14 @@
 +++
-TITLE = "गुरुगीता"
-PUBLISHER = "बि. एल्. पावगी"
-"PUBLISH YEAR" = "1920"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-PAGES = "82"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "हितचिन्तक-प्रेस्-काशी"
-"SERIAL NO." = "Ebharati-6674"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0NDI5MTI5ODc2MDQ2&pageno=MjI0MjQyNjk5NTk="
 title = "गुरुगीता"
+publisher = "बि. एल्. पावगी"
+"publish year" = "1920"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+pages = "82"
+language = "संस्कृतम् हिन्दी"
+printer = "हितचिन्तक-प्रेस्-काशी"
+"serial no." = "Ebharati-6674"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0NDI5MTI5ODc2MDQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गुरुगीता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODI0NDI5MTI5ODc2MDQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1608,8 +1607,5 @@ Buildings, Jagatganj, Benares,
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

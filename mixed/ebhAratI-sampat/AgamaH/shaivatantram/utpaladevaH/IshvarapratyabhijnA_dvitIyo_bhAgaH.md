@@ -1,19 +1,18 @@
 +++
-TITLE = "ईश्वरप्रत्यभिज्ञा द्वितीयो भागः"
-AUTHOR = "उत्पलदेवः"
-PUBLISHER = "मधुसूदनकौलशास्त्री"
-"PUBLISH YEAR" = "1921"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-PAGES = "292"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मधुसूदनकौलशास्त्री"
-"PRIMARY COMMENTATOR" = "अभिनवगुप्तः"
-"COMMENTARY NAME" = "विमर्शिनी"
-PRINTER = "रामचन्द्र-येसु-शेड्गे"
-"SERIAL NO." = "Ebharati-6036"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxOTUyOTEzMzM0OTc1&pageno=MjI0MjQyNjk5NTk="
 title = "ईश्वरप्रत्यभिज्ञा द्वितीयो भागः"
+author = "उत्पलदेवः"
+publisher = "मधुसूदनकौलशास्त्री"
+"publish year" = "1921"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+pages = "292"
+language = "संस्कृतम्"
+editor = "मधुसूदनकौलशास्त्री"
+"primary commentator" = "अभिनवगुप्तः"
+"commentary name" = "विमर्शिनी"
+printer = "रामचन्द्र-येसु-शेड्गे"
+"serial no." = "Ebharati-6036"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxOTUyOTEzMzM0OTc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ईश्वरप्रत्यभिज्ञा द्वितीयो भागः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjkxOTUyOTEzMzM0OTc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2690,19 +2689,6 @@ The author of Īśvarapratyabhijñā is Utpaladeva. This is obvious from the clo
 मधुसूदनकौलेन संपाद्येयं प्रकाशिता॥**
 
 **\_\_\_\_\_\_\_\_\_\_\_**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

@@ -1,16 +1,15 @@
 +++
-TITLE = "रागकल्पद्रुमांकुरः"
-AUTHOR = "काशीनाथः"
-PUBLISHER = "विष्णु नारायन भट्खंडे शान्ताराम नारायण"
-"PUBLISH YEAR" = "१९११"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "28"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "निर्णयसागरयंत्रालय कोलभाट"
-"SERIAL NO." = "Ebharati-4664"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyNjU2NDc0NjI3NzQ0&pageno=MjI0MjQyNjk5NTk="
 title = "रागकल्पद्रुमांकुरः"
+author = "काशीनाथः"
+publisher = "विष्णु नारायन भट्खंडे शान्ताराम नारायण"
+"publish year" = "१९११"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "28"
+language = "संस्कृतम्"
+printer = "निर्णयसागरयंत्रालय कोलभाट"
+"serial no." = "Ebharati-4664"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyNjU2NDc0NjI3NzQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रागकल्पद्रुमांकुरः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODAyNjU2NDc0NjI3NzQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -982,19 +981,6 @@ title = "रागकल्पद्रुमांकुरः"
 योगाद्यागाद्विरागात्प्रियमधिकतया रामचंद्रस्य गानम्॥ १२४॥**
 
 ॥ श्रीरामचंद्रार्पणमस्तु॥
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

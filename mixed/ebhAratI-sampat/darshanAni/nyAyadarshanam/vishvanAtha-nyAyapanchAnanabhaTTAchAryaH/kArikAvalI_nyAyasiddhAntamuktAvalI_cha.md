@@ -1,14 +1,13 @@
 +++
-TITLE = "कारिकावली (न्यायसिद्धान्तमुक्तावली च)"
-AUTHOR = "विश्वनाथ-न्यायपञ्चाननभट्टाचार्यः"
-"PUBLISH YEAR" = "1889"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायदर्शनम्"
-PAGES = "279"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8692"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIwMjMxOTMzOTkzNDM4&pageno=MjI0MjQyNjk5NTk="
 title = "कारिकावली (न्यायसिद्धान्तमुक्तावली च)"
+author = "विश्वनाथ-न्यायपञ्चाननभट्टाचार्यः"
+"publish year" = "1889"
+domain = "दर्शनानि"
+sub-domain = "न्यायदर्शनम्"
+pages = "279"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8692"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIwMjMxOTMzOTkzNDM4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कारिकावली (न्यायसिद्धान्तमुक्तावली च)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDIwMjMxOTMzOTkzNDM4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3411,19 +3410,6 @@ title = "कारिकावली (न्यायसिद्धान्त
 
 नसामान्यमित्यत्र जातेरेव सामान्यपदार्थत्वे अनित्यसामान्यस्यैव अप्रसिद्ध्या तत्र दोषदानानुपपत्या तद्वारणार्थं सामान्यमुपेक्ष्य तज्ज्ञानस्य प्रत्यासत्तित्वोपगमवैयर्थ्यमित्यनित्यस्य सामान्यत्वव्यवस्थापनमुत्तरग्रंथावतरेणापयुक्तमिति बोध्यम्। मूले समानानामिति। तथा च प्रकृते सामान्यपदं यौगिकमेव न तु पारिभाषिकमिति भावः। परिग्रह इति। यद्यपि समवायेन तद्घटाधिकरणं क-
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,18 +1,17 @@
 +++
-TITLE = "न्यायभाष्यवार्तिकतात्पर्यविवरणपञ्जिका"
-AUTHOR = "अनिरुद्धाचार्यः"
-PUBLISHER = "मिथिलाविद्यापीठम्"
-"PUBLISH YEAR" = "१९६९"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-PAGES = "90"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शीतांशुशेखरवागचिः"
-"SECOND EDITOR" = "अनन्तलालठक्कुरः"
-PRINTER = "तारा-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1782"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAwNjk5MzAzNTYwMTcx&pageno=MjI0MjQyNjk5NTk="
 title = "न्यायभाष्यवार्तिकतात्पर्यविवरणपञ्जिका"
+author = "अनिरुद्धाचार्यः"
+publisher = "मिथिलाविद्यापीठम्"
+"publish year" = "१९६९"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+pages = "90"
+language = "संस्कृतम्"
+editor = "शीतांशुशेखरवागचिः"
+"second editor" = "अनन्तलालठक्कुरः"
+printer = "तारा-मुद्रणालयः"
+"serial no." = "Ebharati-1782"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAwNjk5MzAzNTYwMTcx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[न्यायभाष्यवार्तिकतात्पर्यविवरणपञ्जिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDAwNjk5MzAzNTYwMTcx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1222,19 +1221,6 @@ and attributes it to Bhadanta Dharmottara. Aniruddha quotes here
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

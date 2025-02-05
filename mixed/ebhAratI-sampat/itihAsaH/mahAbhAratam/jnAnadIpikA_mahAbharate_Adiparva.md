@@ -1,16 +1,15 @@
 +++
-TITLE = "ज्ञानदीपिका (महाभरते आदिपर्व)"
-"PUBLISH YEAR" = "1941"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "महाभारतम्"
-PAGES = "108"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "आर्.एन्. दण्डेकरः"
-"PRIMARY COMMENTATOR" = "देवबोधः"
-"COMMENTARY NAME" = "महाभारतम् (आदिपर्व)"
-"SERIAL NO." = "Ebharati-6081"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxODYxMDUxMzU3Mzg1&pageno=MjI0MjQyNjk5NTk="
 title = "ज्ञानदीपिका (महाभरते आदिपर्व)"
+"publish year" = "1941"
+domain = "इतिहासः"
+sub-domain = "महाभारतम्"
+pages = "108"
+language = "संस्कृतम्"
+editor = "आर्.एन्. दण्डेकरः"
+"primary commentator" = "देवबोधः"
+"commentary name" = "महाभारतम् (आदिपर्व)"
+"serial no." = "Ebharati-6081"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxODYxMDUxMzU3Mzg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ज्ञानदीपिका (महाभरते आदिपर्व)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjgxODYxMDUxMzU3Mzg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1920,8 +1919,5 @@ September 1941
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

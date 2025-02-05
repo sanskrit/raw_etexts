@@ -1,16 +1,15 @@
 +++
-TITLE = "द्राह्यायणगृह्यसूत्रम्"
-PUBLISHER = "उदयनारायणसिंहः"
-"PUBLISH YEAR" = "1934"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "164"
-LANGUAGE = "संस्कृतम्  हिन्दी"
-TRANSLATOR = "ठाकुरउदयनारायणसिंहः"
-PRINTER = "ब्रह्मदेव-मिश्रः"
-"SERIAL NO." = "Ebharati-7418"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzNjgyNjIxMDAxMjE3&pageno=MjI0MjQyNjk5NTk="
 title = "द्राह्यायणगृह्यसूत्रम्"
+publisher = "उदयनारायणसिंहः"
+"publish year" = "1934"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "164"
+language = "संस्कृतम्  हिन्दी"
+translator = "ठाकुरउदयनारायणसिंहः"
+printer = "ब्रह्मदेव-मिश्रः"
+"serial no." = "Ebharati-7418"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzNjgyNjIxMDAxMjE3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[द्राह्यायणगृह्यसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjkzNjgyNjIxMDAxMjE3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5404,8 +5403,5 @@ title = "द्राह्यायणगृह्यसूत्रम्"
 
 ठा० उदयनारायणसिंह.
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

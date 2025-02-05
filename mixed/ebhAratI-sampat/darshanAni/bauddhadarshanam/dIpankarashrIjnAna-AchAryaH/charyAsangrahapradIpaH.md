@@ -1,13 +1,12 @@
 +++
-TITLE = "चर्यासङ्ग्रहप्रदीपः"
-AUTHOR = "दीपङ्करश्रीज्ञान-आचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3694"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4NjA1OTExMDE2NDUz&pageno=MjI0MjQyNjk5NTk="
 title = "चर्यासङ्ग्रहप्रदीपः"
+author = "दीपङ्करश्रीज्ञान-आचार्यः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3694"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4NjA1OTExMDE2NDUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चर्यासङ्ग्रहप्रदीपः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY4NjA1OTExMDE2NDUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -81,8 +80,5 @@ title = "चर्यासङ्ग्रहप्रदीपः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

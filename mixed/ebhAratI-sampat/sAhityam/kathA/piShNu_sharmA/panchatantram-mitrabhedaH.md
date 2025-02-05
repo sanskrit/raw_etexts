@@ -1,13 +1,12 @@
 +++
-TITLE = "पञ्चतन्त्रम्-मित्रभेदः"
-AUTHOR = "पिष्णु शर्मा"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "कथा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2769"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE1NjYyNTk1MzE4NTYy&pageno=MjI0MjQyNjk5NTk="
 title = "पञ्चतन्त्रम्-मित्रभेदः"
+author = "पिष्णु शर्मा"
+domain = "साहित्यम्"
+sub-domain = "कथा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2769"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE1NjYyNTk1MzE4NTYy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पञ्चतन्त्रम्-मित्रभेदः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODE1NjYyNTk1MzE4NTYy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1930,8 +1929,5 @@ title = "पञ्चतन्त्रम्-मित्रभेदः"
    ---0---   
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

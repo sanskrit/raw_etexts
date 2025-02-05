@@ -1,16 +1,15 @@
 +++
-TITLE = "भट्टिकाव्यम्"
-AUTHOR = "भट्टिः"
-PUBLISHER = "जयकृष्णदास-हरिदासगुप्तः"
-"PUBLISH YEAR" = "1941"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "417"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "विद्याविलास-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8627"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk1NDczMzg1OTUxODI4&pageno=MjI0MjQyNjk5NTk="
 title = "भट्टिकाव्यम्"
+author = "भट्टिः"
+publisher = "जयकृष्णदास-हरिदासगुप्तः"
+"publish year" = "1941"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "417"
+language = "संस्कृतम्"
+printer = "विद्याविलास-यन्त्रालयः"
+"serial no." = "Ebharati-8627"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk1NDczMzg1OTUxODI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भट्टिकाव्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk1NDczMzg1OTUxODI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8363,19 +8362,6 @@ title = "भट्टिकाव्यम्"
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 प्राप्तिस्थानम्—चौखम्बा-संस्कृत-पुस्तकालय, बनारस सिटी।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

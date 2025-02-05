@@ -1,13 +1,12 @@
 +++
-TITLE = "परमार्थसारम्"
-AUTHOR = "आदिशेषः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "संस्कृतम्English"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2582"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2MzM5NzkyMjY4NzQy&pageno=MjI0MjQyNjk5NTk="
 title = "परमार्थसारम्"
+author = "आदिशेषः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "संस्कृतम्English"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2582"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2MzM5NzkyMjY4NzQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[परमार्थसारम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDA2MzM5NzkyMjY4NzQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -535,19 +534,6 @@ upagīti āryā : Break Verse 35 as follows from Ādiśeṣa’s paramārthasār
 -
 
 \[ Typed by Suryansu Ray \]
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

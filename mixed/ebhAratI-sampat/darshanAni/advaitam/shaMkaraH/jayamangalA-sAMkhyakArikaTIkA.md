@@ -1,13 +1,12 @@
 +++
-TITLE = "जयमङ्गला-सांख्यकारिकटीका"
-AUTHOR = "शंकरः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2549"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc2MzM5MTI0NDk2NDQy&pageno=MjI0MjQyNjk5NTk="
 title = "जयमङ्गला-सांख्यकारिकटीका"
+author = "शंकरः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2549"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc2MzM5MTI0NDk2NDQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जयमङ्गला-सांख्यकारिकटीका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODc2MzM5MTI0NDk2NDQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1015,8 +1014,5 @@ title = "जयमङ्गला-सांख्यकारिकटीका"
 
 ॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यश्रीगोविन्दभगवत्पूज्यपादशिष्येण श्रीशङ्करभगवता कृता सांख्यसप्ततिटीका समाप्ता ॥
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

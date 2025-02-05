@@ -1,19 +1,18 @@
 +++
-TITLE = "चित्रमीमांसा"
-AUTHOR = "अप्पयदीक्षितः"
-PUBLISHER = "सत्यभामाबाई पाण्डुरङ्ग"
-"PUBLISH YEAR" = "1941"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "169"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शिवदत्त काशिनाथ पाण्डुरङ्ग परब"
-"PRIMARY COMMENTATOR" = "Jagannath Pandit"
-"COMMENTARY NAME" = "चित्रमीमांसखण्डनः"
-PRINTER = "रामचन्द्र येसु  शेड्गे"
-"SERIAL NO." = "Ebharati-5954"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg1MDgzNzI2MTY1MTc1&pageno=MjI0MjQyNjk5NTk="
 title = "चित्रमीमांसा"
+author = "अप्पयदीक्षितः"
+publisher = "सत्यभामाबाई पाण्डुरङ्ग"
+"publish year" = "1941"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "169"
+language = "संस्कृतम्"
+editor = "शिवदत्त काशिनाथ पाण्डुरङ्ग परब"
+"primary commentator" = "Jagannath Pandit"
+"commentary name" = "चित्रमीमांसखण्डनः"
+printer = "रामचन्द्र येसु  शेड्गे"
+"serial no." = "Ebharati-5954"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg1MDgzNzI2MTY1MTc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चित्रमीमांसा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODg1MDgzNzI2MTY1MTc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3303,19 +3302,6 @@ Printer: Ramchandra Yesu Shedge, }26-28, Kolbhat Street, Bombay.
 
 ————————
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

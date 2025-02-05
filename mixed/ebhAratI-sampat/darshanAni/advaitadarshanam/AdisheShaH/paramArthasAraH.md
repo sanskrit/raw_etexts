@@ -1,18 +1,17 @@
 +++
-TITLE = "परमार्थसारः"
-AUTHOR = "आदिशेषः"
-PUBLISHER = "राजकीय-मुद्रणालयः"
-"PUBLISH YEAR" = "1911"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतदर्शनम्"
-PAGES = "53"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "त. गणपतिशास्त्री"
-"PRIMARY COMMENTATOR" = "राघवानन्दः"
-PRINTER = "राजकीय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7635"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc5MTk4MDEzMTM5MjM3&pageno=MjI0MjQyNjk5NTk="
 title = "परमार्थसारः"
+author = "आदिशेषः"
+publisher = "राजकीय-मुद्रणालयः"
+"publish year" = "1911"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतदर्शनम्"
+pages = "53"
+language = "संस्कृतम्"
+editor = "त. गणपतिशास्त्री"
+"primary commentator" = "राघवानन्दः"
+printer = "राजकीय-मुद्रणालयः"
+"serial no." = "Ebharati-7635"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc5MTk4MDEzMTM5MjM3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[परमार्थसारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc5MTk4MDEzMTM5MjM3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1158,19 +1157,6 @@ and the commentator’s explanation of the same:—**“जगदाधारः
 
 **इति श्रीराघवानन्दविरचितं परमार्थसारविवरणं समाप्तम्॥**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,15 +1,14 @@
 +++
-TITLE = "विश्वहितम्"
-AUTHOR = "पण्डित विश्वम्भरः ज्योतिषार्णावः"
-PUBLISHER = "एसियाटिक-सोसायटी"
-"PUBLISH YEAR" = "1834"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "101"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4908"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQxMTc0&pageno=MjI0MjQyNjk5NTk="
 title = "विश्वहितम्"
+author = "पण्डित विश्वम्भरः ज्योतिषार्णावः"
+publisher = "एसियाटिक-सोसायटी"
+"publish year" = "1834"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "101"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4908"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQxMTc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विश्वहितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQxMTc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -916,19 +915,6 @@ $\\overset{६}{४}$६ । १ । $\\overset{७}{५}$४ ॥ २ । $\\ove
 अन्यनस्यपलात् क्वब्धिः४१ लब्धैःस्वाभार्कः१२०० शेषितः॥  
 वालास्योविषमे लब्धेः सौम्यः शेषे बलेऽन्यथा।  
 षट्शता ६०० दधिकःशोधः स्वस्वसूर्य्यात् १२०० स नान्यथा॥**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

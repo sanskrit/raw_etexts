@@ -1,12 +1,11 @@
 +++
-TITLE = "रसप्रकाशसुधाकरः"
-AUTHOR = "जीवरामकालिदासशास्त्री"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2563"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg1NzIzOTYzODMwNjQy"
 title = "रसप्रकाशसुधाकरः"
+author = "जीवरामकालिदासशास्त्री"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2563"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg1NzIzOTYzODMwNjQy"
 
 +++
 [[रसप्रकाशसुधाकरः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=Njg1NzIzOTYzODMwNjQy)]]

@@ -1,18 +1,17 @@
 +++
-TITLE = "आर्यभटीयम् गणितपादः"
-AUTHOR = "आर्यभटाचार्यः"
-PUBLISHER = "त्रावणकोरस्य-महारानी"
-"PUBLISH YEAR" = "1930"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "212"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "के.साम्बशिवशास्त्री"
-"PRIMARY COMMENTATOR" = "नीलकण्ठ-सोमसुत्व"
-PRINTER = "राजकीय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7397"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM1NTkxNTAyNDgwMDE3&pageno=MjI0MjQyNjk5NTk="
 title = "आर्यभटीयम् गणितपादः"
+author = "आर्यभटाचार्यः"
+publisher = "त्रावणकोरस्य-महारानी"
+"publish year" = "1930"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "212"
+language = "संस्कृतम्"
+editor = "के.साम्बशिवशास्त्री"
+"primary commentator" = "नीलकण्ठ-सोमसुत्व"
+printer = "राजकीय-मुद्रणालयः"
+"serial no." = "Ebharati-7397"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM1NTkxNTAyNDgwMDE3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आर्यभटीयम् गणितपादः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDM1NTkxNTAyNDgwMDE3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2170,8 +2169,5 @@ M B A Ś I V A Ś Ā S T R Í,
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

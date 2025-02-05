@@ -1,13 +1,12 @@
 +++
-TITLE = "त्रिंशिकाविज्ञप्तिकारिकाः"
-AUTHOR = "वसुबन्धुः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3826"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc1NjA1MzI2MTgyNzYz&pageno=MjI0MjQyNjk5NTk="
 title = "त्रिंशिकाविज्ञप्तिकारिकाः"
+author = "वसुबन्धुः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3826"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc1NjA1MzI2MTgyNzYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[त्रिंशिकाविज्ञप्तिकारिकाः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc1NjA1MzI2MTgyNzYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -101,8 +100,5 @@ title = "त्रिंशिकाविज्ञप्तिकारिक�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,17 +1,16 @@
 +++
-TITLE = "प्रसन्नराघवम्"
-AUTHOR = "जयदेवः"
-PUBLISHER = "पाण्डुरङ्गजावजी"
-"PUBLISH YEAR" = "1922"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "136"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वासुदेवशर्मा"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5534"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQzMzY1NTAyMzQyMTM1&pageno=MjI0MjQyNjk5NTk="
 title = "प्रसन्नराघवम्"
+author = "जयदेवः"
+publisher = "पाण्डुरङ्गजावजी"
+"publish year" = "1922"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "136"
+language = "संस्कृतम्"
+editor = "वासुदेवशर्मा"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-5534"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQzMzY1NTAyMzQyMTM1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रसन्नराघवम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQzMzY1NTAyMzQyMTM1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4518,19 +4517,6 @@ title = "प्रसन्नराघवम्"
 | सेवायात समस्त खेचर ३|३१      | हेलोन्मूलितचन्द्रचूड ७|३७       |
 | सौन्दर्यं मदनादपि प्रथ ४|१४  | हेलोन्मूलितचन्द्रचूड ७|३८       |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

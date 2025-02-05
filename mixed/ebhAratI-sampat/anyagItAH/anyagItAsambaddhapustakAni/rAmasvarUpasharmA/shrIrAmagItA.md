@@ -1,17 +1,16 @@
 +++
-TITLE = "श्रीरामगीता"
-AUTHOR = "रामस्वरूपशर्मा"
-PUBLISHER = "हरिप्रसादः-व्रजवल्लभशर्मा"
-"PUBLISH YEAR" = "1913"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-PAGES = "81"
-LANGUAGE = "संस्कृतम् हिन्दी"
-EDITOR = "रामभद्रशर्मा"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6684"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ2ODQzNDg4ODM2MTQ2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीरामगीता"
+author = "रामस्वरूपशर्मा"
+publisher = "हरिप्रसादः-व्रजवल्लभशर्मा"
+"publish year" = "1913"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+pages = "81"
+language = "संस्कृतम् हिन्दी"
+editor = "रामभद्रशर्मा"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-6684"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ2ODQzNDg4ODM2MTQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीरामगीता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ2ODQzNDg4ODM2MTQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -155,19 +154,6 @@ Printed by R. Y. Shedge, at the Nirnaya–sagar Press,
 **इति श्रीभाषाटीकया सहितमध्यात्मरामायणोक्तं रामगीतामाहात्म्यं समाप्तम्॥**
 
 **![](../books_images/U-IMG-1723481654Screenshot2024-08-13002503.png)**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

@@ -1,18 +1,17 @@
 +++
-TITLE = "सुभाषितावली"
-AUTHOR = "सकलकीर्तिः"
-PUBLISHER = "बालचन्द-कस्तुचन्द-धाराशीकरः"
-"PUBLISH YEAR" = "1897"
-DOMAIN = "सुभाषितसंग्रहः"
-SUB-DOMAIN = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
-PAGES = "116"
-LANGUAGE = "संस्कृतम् मराठी"
-"PRIMARY COMMENTATOR" = "मल्लिषेणाचार्यः"
-"COMMENTARY NAME" = "सज्जनचित्तवल्लभः"
-PRINTER = "बालचन्द-कस्तुचन्द-धाराशीकरः"
-"SERIAL NO." = "Ebharati-7199"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NTkxOTQ5NjcwMTk2&pageno=MjI0MjQyNjk5NTk="
 title = "सुभाषितावली"
+author = "सकलकीर्तिः"
+publisher = "बालचन्द-कस्तुचन्द-धाराशीकरः"
+"publish year" = "1897"
+domain = "सुभाषितसंग्रहः"
+sub-domain = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
+pages = "116"
+language = "संस्कृतम् मराठी"
+"primary commentator" = "मल्लिषेणाचार्यः"
+"commentary name" = "सज्जनचित्तवल्लभः"
+printer = "बालचन्द-कस्तुचन्द-धाराशीकरः"
+"serial no." = "Ebharati-7199"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NTkxOTQ5NjcwMTk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुभाषितावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NTkxOTQ5NjcwMTk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2786,19 +2785,6 @@ title = "सुभाषितावली"
 **समाप्त.  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

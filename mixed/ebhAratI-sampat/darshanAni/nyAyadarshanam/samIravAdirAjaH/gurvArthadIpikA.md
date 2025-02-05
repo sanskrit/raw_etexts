@@ -1,17 +1,16 @@
 +++
-TITLE = "गुर्वार्थदीपिका"
-AUTHOR = "समीरवादिराजः"
-PUBLISHER = "श्रीमद्वादिराजीयग्रन्थप्रकाशनसमितिः"
-"PUBLISH YEAR" = "1953"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायदर्शनम्"
-PAGES = "256"
-LANGUAGE = "संस्कृतम्"
-"COMMENTARY NAME" = "न्यायसुधाभिधायाः"
-PRINTER = "उडुपि-मेजिष्टिक्-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-8915"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMxMjkxMTA1NjA4NTU4&pageno=MjI0MjQyNjk5NTk="
 title = "गुर्वार्थदीपिका"
+author = "समीरवादिराजः"
+publisher = "श्रीमद्वादिराजीयग्रन्थप्रकाशनसमितिः"
+"publish year" = "1953"
+domain = "दर्शनानि"
+sub-domain = "न्यायदर्शनम्"
+pages = "256"
+language = "संस्कृतम्"
+"commentary name" = "न्यायसुधाभिधायाः"
+printer = "उडुपि-मेजिष्टिक्-मुद्रणालयः"
+"serial no." = "Ebharati-8915"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMxMjkxMTA1NjA4NTU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गुर्वार्थदीपिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDMxMjkxMTA1NjA4NTU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1348,19 +1347,6 @@ title = "गुर्वार्थदीपिका"
 | लोमन्तरा           | लोकमन्तरा             |
 | पूर्णैश्वर्यत्वात् | आश्चर्यत्वात्         |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

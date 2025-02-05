@@ -1,12 +1,11 @@
 +++
-TITLE = "संन्यासोपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4322"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg4NzQ3OTU3NTk4NDE0&pageno=MjI0MjQyNjk5NTk="
 title = "संन्यासोपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4322"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg4NzQ3OTU3NTk4NDE0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संन्यासोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDg4NzQ3OTU3NTk4NDE0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -669,8 +668,5 @@ title = "संन्यासोपनिषत्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

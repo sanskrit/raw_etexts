@@ -1,13 +1,12 @@
 +++
-TITLE = "पञ्चक्रमः"
-AUTHOR = "नागार्जुनपादः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3753"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY3OTA4Nzk4MzcyMDYz"
 title = "पञ्चक्रमः"
+author = "नागार्जुनपादः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3753"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY3OTA4Nzk4MzcyMDYz"
 
 +++
 [[पञ्चक्रमः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjY3OTA4Nzk4MzcyMDYz)]]

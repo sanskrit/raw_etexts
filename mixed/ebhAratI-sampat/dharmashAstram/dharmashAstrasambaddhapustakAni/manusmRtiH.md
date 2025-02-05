@@ -1,12 +1,11 @@
 +++
-TITLE = "मनुस्मृतिः"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "धर्मशास्त्रसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2503"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYyMjg3NDk1ODcyMDQy&pageno=MjI0MjQyNjk5NTk="
 title = "मनुस्मृतिः"
+domain = "धर्मशास्त्रम्"
+sub-domain = "धर्मशास्त्रसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2503"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYyMjg3NDk1ODcyMDQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मनुस्मृतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjYyMjg3NDk1ODcyMDQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5417,8 +5416,5 @@ title = "मनुस्मृतिः"
 भवत्याचारवान्नित्यं यथेष्टां प्राप्नुयाद्गतिम् । । १२.१२६ । ।  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

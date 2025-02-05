@@ -1,13 +1,12 @@
 +++
-TITLE = "क्रमस्तोत्रम्"
-AUTHOR = "अभिनवगुप्तः"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3010"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIyMDk2OTg2ODQ5ODgy&pageno=MjI0MjQyNjk5NTk="
 title = "क्रमस्तोत्रम्"
+author = "अभिनवगुप्तः"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3010"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIyMDk2OTg2ODQ5ODgy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[क्रमस्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDIyMDk2OTg2ODQ5ODgy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -179,8 +178,5 @@ title = "क्रमस्तोत्रम्"
 \\\\\\\\Z  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

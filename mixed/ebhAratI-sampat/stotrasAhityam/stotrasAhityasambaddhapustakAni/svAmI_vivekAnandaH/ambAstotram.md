@@ -1,13 +1,12 @@
 +++
-TITLE = "अम्बास्तोत्रम्"
-AUTHOR = "स्वामी विवेकानन्दः"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2819"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE2NzgzNzA0MzE2MDcy&pageno=MjI0MjQyNjk5NTk="
 title = "अम्बास्तोत्रम्"
+author = "स्वामी विवेकानन्दः"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2819"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE2NzgzNzA0MzE2MDcy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अम्बास्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODE2NzgzNzA0MzE2MDcy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -56,8 +55,5 @@ title = "अम्बास्तोत्रम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

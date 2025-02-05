@@ -1,12 +1,11 @@
 +++
-TITLE = "लक्ष्मीकान्तशिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3553"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzNTIzOTQ2NDcwMTQz&pageno=MjI0MjQyNjk5NTk="
 title = "लक्ष्मीकान्तशिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3553"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzNTIzOTQ2NDcwMTQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लक्ष्मीकान्तशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjYzNTIzOTQ2NDcwMTQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -39,8 +38,5 @@ lakshmikanta_shiksha
 पाठतश्चार्थतो ज्ञात्वा विजयध्वं दिशो दश  
                       इति लक्ष्मीकान्तशिक्षा
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

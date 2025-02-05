@@ -1,12 +1,11 @@
 +++
-TITLE = "नानार्थरत्नमाला"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "कोषसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3080"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3OTU2NjI0ODY2NTky&pageno=MjI0MjQyNjk5NTk="
 title = "नानार्थरत्नमाला"
+domain = "कोषाः"
+sub-domain = "कोषसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3080"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3OTU2NjI0ODY2NTky&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नानार्थरत्नमाला	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDY3OTU2NjI0ODY2NTky&pageno=MjI0MjQyNjk5NTk=)]]
@@ -193,8 +192,5 @@ title = "नानार्थरत्नमाला"
 ------------------------------------------------------------  
 \[1\]  किं स्यादिति न ज्ञायते।
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

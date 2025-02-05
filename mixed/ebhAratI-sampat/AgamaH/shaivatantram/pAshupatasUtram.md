@@ -1,12 +1,11 @@
 +++
-TITLE = "पाशुपतसूत्रम्"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4007"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU5NDgzMzQ5NjU2NDgz&pageno=MjI0MjQyNjk5NTk="
 title = "पाशुपतसूत्रम्"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4007"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU5NDgzMzQ5NjU2NDgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पाशुपतसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDU5NDgzMzQ5NjU2NDgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -207,8 +206,5 @@ title = "पाशुपतसूत्रम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

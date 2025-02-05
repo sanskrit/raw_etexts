@@ -1,12 +1,11 @@
 +++
-TITLE = "पक्षतादीधितिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4076"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMjExNDg2MDgyMTkz&pageno=MjI0MjQyNjk5NTk="
 title = "पक्षतादीधितिः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4076"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMjExNDg2MDgyMTkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पक्षतादीधितिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMjExNDg2MDgyMTkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -67,8 +66,5 @@ title = "पक्षतादीधितिः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

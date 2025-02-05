@@ -1,17 +1,16 @@
 +++
-TITLE = "जातकतत्तवम्"
-AUTHOR = "महादेवः"
-PUBLISHER = "सुब्रह्मण्यशास्त्री"
-"PUBLISH YEAR" = "१९४१"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "375"
-TRANSLATOR = "सुब्रह्मण्यशास्त्री"
-EDITOR = "सुब्रह्मण्यशास्त्री"
-PRINTER = "वि बि सुब्बय्य च पुत्राः"
-"SERIAL NO." = "Ebharati-1223"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAxMjg0NDA0MzA0NzEx&pageno=MjI0MjQyNjk5NTk="
 title = "जातकतत्तवम्"
+author = "महादेवः"
+publisher = "सुब्रह्मण्यशास्त्री"
+"publish year" = "१९४१"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "375"
+translator = "सुब्रह्मण्यशास्त्री"
+editor = "सुब्रह्मण्यशास्त्री"
+printer = "वि बि सुब्बय्य च पुत्राः"
+"serial no." = "Ebharati-1223"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAxMjg0NDA0MzA0NzEx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जातकतत्तवम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjAxMjg0NDA0MzA0NzEx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10369,19 +10368,6 @@ BOILS . To suffer from \_\_\_. H- 14,15.
 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

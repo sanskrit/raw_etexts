@@ -1,11 +1,10 @@
 +++
-TITLE = "जातकपारिजातः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2690"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDgxNTExMjk4OTIyODUy"
 title = "जातकपारिजातः"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2690"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDgxNTExMjk4OTIyODUy"
 
 +++
 [[जातकपारिजातः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDgxNTExMjk4OTIyODUy)]]

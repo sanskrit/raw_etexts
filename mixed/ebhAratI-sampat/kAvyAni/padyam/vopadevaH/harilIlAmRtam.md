@@ -1,18 +1,17 @@
 +++
-TITLE = "हरिलीलामृतम्"
-AUTHOR = "वोपदेवः"
-PUBLISHER = "जयकृष्णहरिदासगुप्तः"
-"PUBLISH YEAR" = "1933"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "91"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "देवीदत्तः"
-"PRIMARY COMMENTATOR" = "मधुसूदनसरस्वती"
-PRINTER = "विद्याविलास-मुद्रणलयः"
-"SERIAL NO." = "Ebharati-5855"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE4MDgzOTk5NzUwMjY1&pageno=MjI0MjQyNjk5NTk="
 title = "हरिलीलामृतम्"
+author = "वोपदेवः"
+publisher = "जयकृष्णहरिदासगुप्तः"
+"publish year" = "1933"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "91"
+language = "संस्कृतम्"
+editor = "देवीदत्तः"
+"primary commentator" = "मधुसूदनसरस्वती"
+printer = "विद्याविलास-मुद्रणलयः"
+"serial no." = "Ebharati-5855"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE4MDgzOTk5NzUwMjY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हरिलीलामृतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE4MDgzOTk5NzUwMjY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1778,19 +1777,6 @@ at the Vidya Vilas Press, Benares.*
 
 इति श्रीमधुसूदनसरस्वतीकृता श्रीमद्धागवतस्यादिमश्लोकल्य व्याख्या।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

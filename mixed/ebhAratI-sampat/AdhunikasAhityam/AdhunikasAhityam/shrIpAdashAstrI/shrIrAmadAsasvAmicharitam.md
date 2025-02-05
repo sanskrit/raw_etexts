@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीरामदासस्वामिचरितम्"
-AUTHOR = "श्रीपादशास्त्री"
-PUBLISHER = "श्रीपादवामन-हसुर्कर्"
-"PUBLISH YEAR" = "1922"
-DOMAIN = "आधुनिकसाहित्यम्"
-SUB-DOMAIN = "आधुनिकसाहित्यम्"
-PAGES = "172"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6184"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ2NzMxMzY3MDQ2Mzk1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीरामदासस्वामिचरितम्"
+author = "श्रीपादशास्त्री"
+publisher = "श्रीपादवामन-हसुर्कर्"
+"publish year" = "1922"
+domain = "आधुनिकसाहित्यम्"
+sub-domain = "आधुनिकसाहित्यम्"
+pages = "172"
+language = "संस्कृतम्"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-6184"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ2NzMxMzY3MDQ2Mzk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीरामदासस्वामिचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ2NzMxMzY3MDQ2Mzk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1058,19 +1057,6 @@ title = "श्रीरामदासस्वामिचरितम्"
  प्रियबान्धवाः ! धन्यास्ते श्रीसमर्थचरणप्रमुखाः साधुवराः सदैव लोकोद्धारपरायणाः । धन्याश्च ते कल्याणस्वामिमुखाः श्रीसमर्थशिष्याः । धन्याश्च ते शिवराजप्रभृतयो राजर्षयः । धन्यः स कालो यत्रेदृशानि नररत्नान्यजायन्त । सज्जनाः ? वयमपि अस्मत्पूर्वजानां लोकोत्तराणि चरितानि अभ्यस्यन्तस्तदनुकूलं च वर्तमानाः सदैव दीननाथं जानकीजानिं ध्यायन्तो भाविनं भाग्योदयं प्रतीक्षामहे ।
 
 ![](../books_images/U-IMG-1699608298Screenshot2023-11-10145432.png)
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

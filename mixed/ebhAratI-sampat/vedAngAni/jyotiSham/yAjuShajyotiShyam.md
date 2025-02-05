@@ -1,12 +1,11 @@
 +++
-TITLE = "याजुषज्योतिष्यम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2659"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwMDA2ODAwNDUyNTUy&pageno=MjI0MjQyNjk5NTk="
 title = "याजुषज्योतिष्यम्"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2659"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwMDA2ODAwNDUyNTUy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[याजुषज्योतिष्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODkwMDA2ODAwNDUyNTUy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -109,8 +108,5 @@ title = "याजुषज्योतिष्यम्"
 सोमसूर्यस्तृचरितं लोकं लोके च सम्मतिम् ॥ ४३॥  
 ॥ इति याजुषज्योतिषं समाप्तम् ॥
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

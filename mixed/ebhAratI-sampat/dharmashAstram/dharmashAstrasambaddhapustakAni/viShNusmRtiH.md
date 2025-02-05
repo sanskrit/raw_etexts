@@ -1,11 +1,10 @@
 +++
-TITLE = "विष्णुस्मृतिः"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "धर्मशास्त्रसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2561"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjQ3MjQ4NjczNjQ4NTQy"
 title = "विष्णुस्मृतिः"
+domain = "धर्मशास्त्रम्"
+sub-domain = "धर्मशास्त्रसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2561"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjQ3MjQ4NjczNjQ4NTQy"
 
 +++
 [[विष्णुस्मृतिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjQ3MjQ4NjczNjQ4NTQy)]]

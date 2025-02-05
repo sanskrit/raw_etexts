@@ -1,12 +1,11 @@
 +++
-TITLE = "ध्वजाग्रकेयुराधारणी"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3708"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc3MDA5NjYwNDU5NTUz&pageno=MjI0MjQyNjk5NTk="
 title = "ध्वजाग्रकेयुराधारणी"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3708"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc3MDA5NjYwNDU5NTUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ध्वजाग्रकेयुराधारणी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njc3MDA5NjYwNDU5NTUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -48,8 +47,5 @@ title = "ध्वजाग्रकेयुराधारणी"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

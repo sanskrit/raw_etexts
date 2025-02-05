@@ -1,17 +1,16 @@
 +++
-TITLE = "उड्डीशतन्त्रम्"
-AUTHOR = "रावणः"
-PUBLISHER = "गङ्गाविष्णुः"
-"PUBLISH YEAR" = "1908"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "108"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "मुकुन्दरामः"
-PRINTER = "श्रीलक्ष्मीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6053"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzMDgzNTUyNTYwMTg1&pageno=MjI0MjQyNjk5NTk="
 title = "उड्डीशतन्त्रम्"
+author = "रावणः"
+publisher = "गङ्गाविष्णुः"
+"publish year" = "1908"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "108"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "मुकुन्दरामः"
+printer = "श्रीलक्ष्मीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-6053"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzMDgzNTUyNTYwMTg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[उड्डीशतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjYzMDgzNTUyNTYwMTg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1533,19 +1532,6 @@ title = "उड्डीशतन्त्रम्"
 
 **कल्याण—मुंबई.**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

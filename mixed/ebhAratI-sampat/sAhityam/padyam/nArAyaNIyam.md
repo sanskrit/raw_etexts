@@ -1,10 +1,9 @@
 +++
-TITLE = "नारायणीयम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-"SERIAL NO." = "Ebharati-3140"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDgwNTAyMTAyODI0MTAz"
 title = "नारायणीयम्"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+"serial no." = "Ebharati-3140"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDgwNTAyMTAyODI0MTAz"
 
 +++
 [[नारायणीयम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDgwNTAyMTAyODI0MTAz)]]

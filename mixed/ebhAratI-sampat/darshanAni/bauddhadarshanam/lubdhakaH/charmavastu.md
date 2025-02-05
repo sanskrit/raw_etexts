@@ -1,13 +1,12 @@
 +++
-TITLE = "चर्मवस्तु"
-AUTHOR = "लुब्धकः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3692"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIwMjIwNzIxODE0NDUz&pageno=MjI0MjQyNjk5NTk="
 title = "चर्मवस्तु"
+author = "लुब्धकः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3692"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIwMjIwNzIxODE0NDUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चर्मवस्तु	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDIwMjIwNzIxODE0NDUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -175,19 +174,6 @@ title = "चर्मवस्तु"
 
 **----------------------------------------------**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

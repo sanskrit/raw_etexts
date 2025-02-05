@@ -1,12 +1,11 @@
 +++
-TITLE = "आर्याशतकम्"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "116"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-7094"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2MTQ3MzQzNzk5MDg2&pageno=MjI0MjQyNjk5NTk="
 title = "आर्याशतकम्"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "116"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-7094"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2MTQ3MzQzNzk5MDg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आर्याशतकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY2MTQ3MzQzNzk5MDg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2900,8 +2899,5 @@ title = "आर्याशतकम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

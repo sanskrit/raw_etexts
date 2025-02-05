@@ -1,19 +1,18 @@
 +++
-TITLE = "आश्वलायनगृह्यसूत्रम्"
-AUTHOR = "आश्वलायनः"
-PUBLISHER = "तिरुवनन्तपुरस्य-महाराजः"
-"PUBLISH YEAR" = "1923"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "268"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "टी.गणपति-शास्त्री"
-"PRIMARY COMMENTATOR" = "हरदत्ताचार्यः"
-"COMMENTARY NAME" = "अनाविला"
-PRINTER = "राजकीय-मुद्रणालयः-तिरुवनन्तपुरम्"
-"SERIAL NO." = "Ebharati-7411"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ0OTg1MjUxODI0MTE3&pageno=MjI0MjQyNjk5NTk="
 title = "आश्वलायनगृह्यसूत्रम्"
+author = "आश्वलायनः"
+publisher = "तिरुवनन्तपुरस्य-महाराजः"
+"publish year" = "1923"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "268"
+language = "संस्कृतम्"
+editor = "टी.गणपति-शास्त्री"
+"primary commentator" = "हरदत्ताचार्यः"
+"commentary name" = "अनाविला"
+printer = "राजकीय-मुद्रणालयः-तिरुवनन्तपुरम्"
+"serial no." = "Ebharati-7411"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ0OTg1MjUxODI0MTE3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आश्वलायनगृह्यसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ0OTg1MjUxODI0MTE3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3981,8 +3980,5 @@ T. GANAPATI SĀSTRĪ.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

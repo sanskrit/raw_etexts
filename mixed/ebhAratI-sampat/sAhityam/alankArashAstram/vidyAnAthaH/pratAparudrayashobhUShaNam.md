@@ -1,18 +1,17 @@
 +++
-TITLE = "प्रतापरुद्रयशोभूषणम्"
-AUTHOR = "विद्यानाथः"
-"PUBLISH YEAR" = "1909"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "870"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-EDITOR = "कमलाशङ्करः"
-"PRIMARY COMMENTATOR" = "कुमारस्वामिः"
-"COMMENTARY NAME" = "रत्नापणा"
-PRINTER = "तत्वविवेचक-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5988"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5MjI2OTk0NTI4NDc1&pageno=MjI0MjQyNjk5NTk="
 title = "प्रतापरुद्रयशोभूषणम्"
+author = "विद्यानाथः"
+"publish year" = "1909"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "870"
+language = "संस्कृतम् आङ्ग्लम्"
+editor = "कमलाशङ्करः"
+"primary commentator" = "कुमारस्वामिः"
+"commentary name" = "रत्नापणा"
+printer = "तत्वविवेचक-मुद्रणालयः"
+"serial no." = "Ebharati-5988"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5MjI2OTk0NTI4NDc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रतापरुद्रयशोभूषणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM5MjI2OTk0NTI4NDc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -27905,8 +27904,5 @@ The Pratâparudrîya, the Ratnâpaṇs, and the Ratnas'âņa.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

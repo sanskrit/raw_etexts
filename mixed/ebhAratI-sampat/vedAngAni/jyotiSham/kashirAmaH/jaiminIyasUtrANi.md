@@ -1,17 +1,16 @@
 +++
-TITLE = "जैमिनीयसूत्राणि"
-AUTHOR = "कशिरामः"
-PUBLISHER = "रामचन्द्र-राघुः"
-"PUBLISH YEAR" = "1913"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "140"
-LANGUAGE = "संस्कृतम्-हिन्दी"
-"BOOKS CONTRIBUTOR" = "गंगाविष्णुः"
-PRINTER = "लक्ष्मीवेंकटेश्वर मुद्रणागारः कल्याण-मुंबई."
-"SERIAL NO." = "Ebharati-5131"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyNzY4OTE3NjU1Mjk0&pageno=MjI0MjQyNjk5NTk="
 title = "जैमिनीयसूत्राणि"
+author = "कशिरामः"
+publisher = "रामचन्द्र-राघुः"
+"publish year" = "1913"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "140"
+language = "संस्कृतम्-हिन्दी"
+"books contributor" = "गंगाविष्णुः"
+printer = "लक्ष्मीवेंकटेश्वर मुद्रणागारः कल्याण-मुंबई."
+"serial no." = "Ebharati-5131"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyNzY4OTE3NjU1Mjk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जैमिनीयसूत्राणि	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjgyNzY4OTE3NjU1Mjk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2608,19 +2607,6 @@ only
 आपका सबक
 
 ----------
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

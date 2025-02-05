@@ -1,15 +1,14 @@
 +++
-TITLE = "मालविकाग्निमित्रम्"
-AUTHOR = "कालिदासः"
-"PUBLISH YEAR" = "1949"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "162"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "रघुवीर-यन्त्रालयः मैसूर्"
-"SERIAL NO." = "Ebharati-7847"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0NTgyNDE1MjgyMzU3&pageno=MjI0MjQyNjk5NTk="
 title = "मालविकाग्निमित्रम्"
+author = "कालिदासः"
+"publish year" = "1949"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "162"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "रघुवीर-यन्त्रालयः मैसूर्"
+"serial no." = "Ebharati-7847"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0NTgyNDE1MjgyMzU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मालविकाग्निमित्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDM0NTgyNDE1MjgyMzU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5181,8 +5180,5 @@ Here Ends the Malavikagnimitra
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

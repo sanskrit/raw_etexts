@@ -1,17 +1,16 @@
 +++
-TITLE = "नारदभक्त्तिसूत्रम्"
-AUTHOR = "देवर्षिनारदः"
-PUBLISHER = "मोतीलाल-माणकचन्दः"
-"PUBLISH YEAR" = "1939"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "78"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "रामावतारशास्त्री"
-PRINTER = "आर्यभूषण-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7098"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMTE3ODIzMTgzMTg2&pageno=MjI0MjQyNjk5NTk="
 title = "नारदभक्त्तिसूत्रम्"
+author = "देवर्षिनारदः"
+publisher = "मोतीलाल-माणकचन्दः"
+"publish year" = "1939"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "78"
+language = "संस्कृतम्"
+"primary commentator" = "रामावतारशास्त्री"
+printer = "आर्यभूषण-यन्त्रालयः"
+"serial no." = "Ebharati-7098"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMTE3ODIzMTgzMTg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नारदभक्त्तिसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMTE3ODIzMTgzMTg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1049,19 +1048,6 @@ title = "नारदभक्त्तिसूत्रम्"
 
 # Please dont Edit this page (Blank Page)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

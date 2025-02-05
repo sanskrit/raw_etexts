@@ -1,12 +1,11 @@
 +++
-TITLE = "आर्यश्रीमहादेवीव्याकरणम्"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3732"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA5ODE3Njc5NzUyODUz&pageno=MjI0MjQyNjk5NTk="
 title = "आर्यश्रीमहादेवीव्याकरणम्"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3732"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA5ODE3Njc5NzUyODUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आर्यश्रीमहादेवीव्याकरणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDA5ODE3Njc5NzUyODUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -44,8 +43,5 @@ title = "आर्यश्रीमहादेवीव्याकरणम�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

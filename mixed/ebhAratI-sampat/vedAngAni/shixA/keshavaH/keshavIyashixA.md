@@ -1,12 +1,11 @@
 +++
-TITLE = "केशवीयशिक्षा"
-AUTHOR = "केशवः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-3550"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxODk1MDY2Njg3MDQz&pageno=MjI0MjQyNjk5NTk="
 title = "केशवीयशिक्षा"
+author = "केशवः"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-3550"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxODk1MDY2Njg3MDQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[केशवीयशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDAxODk1MDY2Njg3MDQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -38,8 +37,5 @@ keshava_shiksha
 शिक्षादिभिः षडङ्गैश्च विज्ञेयं वेदपाठकैः १३  
     इति श्रीदैवज्ञकेशवकृता प्रतिज्ञासूत्रानुसारिणी केशवीशिक्षा समाप्ता
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

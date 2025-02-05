@@ -1,13 +1,12 @@
 +++
-TITLE = "अमृतलहरी"
-AUTHOR = "जगन्नाथः"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2823"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAzNzUzMjkzNzk5MDcy&pageno=MjI0MjQyNjk5NTk="
 title = "अमृतलहरी"
+author = "जगन्नाथः"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2823"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAzNzUzMjkzNzk5MDcy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अमृतलहरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjAzNzUzMjkzNzk5MDcy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -64,8 +63,5 @@ title = "अमृतलहरी"
 ॥ इति पण्डितराजश्रीजगन्नथकृतामृतलहरिः समाप्ता ॥  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

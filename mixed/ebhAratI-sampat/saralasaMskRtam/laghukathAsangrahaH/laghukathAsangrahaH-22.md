@@ -1,12 +1,11 @@
 +++
-TITLE = "लघुकथासङ्ग्रहः-२२"
-DOMAIN = "सरलसंस्कृतम्"
-SUB-DOMAIN = "लघुकथासङ्ग्रहः"
-PAGES = "71"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8320"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQwMTU5NjM3ODg2ODk3&pageno=MjI0MjQyNjk5NTk="
 title = "लघुकथासङ्ग्रहः-२२"
+domain = "सरलसंस्कृतम्"
+sub-domain = "लघुकथासङ्ग्रहः"
+pages = "71"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8320"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQwMTU5NjM3ODg2ODk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लघुकथासङ्ग्रहः-२२	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQwMTU5NjM3ODg2ODk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1366,8 +1365,5 @@ title = "लघुकथासङ्ग्रहः-२२"
 
  शान्तिभूषणस्य उपदेशं श्रद्धया गृहीतवन्तौ शाण्डिल्यः च्यवनः च । अनन्तरं तौ अपि विविधान् ग्रन्थान् परिशीलयन्तौ सन्देहानां निवारणार्थं गुरोः मार्गदर्शनं प्राप्नुवन्तौ ज्ञानार्जनं कृतवन्तौ । अतः तौ कालान्तरे विख्यातौ पण्डितौ जातौ ।**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

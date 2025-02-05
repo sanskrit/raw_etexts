@@ -1,13 +1,12 @@
 +++
-TITLE = "आदिशंकराचार्यपूजाविधिः"
-AUTHOR = "शङ्कराचार्यः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4183"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIyMTUwMjgyMjU1MTA0&pageno=MjI0MjQyNjk5NTk="
 title = "आदिशंकराचार्यपूजाविधिः"
+author = "शङ्कराचार्यः"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4183"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIyMTUwMjgyMjU1MTA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आदिशंकराचार्यपूजाविधिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjIyMTUwMjgyMjU1MTA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2630,8 +2629,5 @@ c
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

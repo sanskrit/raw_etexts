@@ -1,13 +1,12 @@
 +++
-TITLE = "कारणागमः"
-PUBLISHER = "Maharshi University"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "स्थापत्यवेदः"
-PAGES = "250"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4635"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc5NTI2Mzg1MjQ5NDQ0&pageno=MjI0MjQyNjk5NTk="
 title = "कारणागमः"
+publisher = "Maharshi University"
+domain = "उपवेदाः"
+sub-domain = "स्थापत्यवेदः"
+pages = "250"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4635"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc5NTI2Mzg1MjQ5NDQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कारणागमः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc5NTI2Mzg1MjQ5NDQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -13203,8 +13202,5 @@ title = "कारणागमः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

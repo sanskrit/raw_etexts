@@ -1,12 +1,11 @@
 +++
-TITLE = "गायत्रीरहस्योपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4277"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4ODM4ODI5NTc1MDE0&pageno=MjI0MjQyNjk5NTk="
 title = "गायत्रीरहस्योपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4277"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4ODM4ODI5NTc1MDE0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गायत्रीरहस्योपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk4ODM4ODI5NTc1MDE0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -333,8 +332,5 @@ title = "गायत्रीरहस्योपनिषत्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

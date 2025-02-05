@@ -1,19 +1,18 @@
 +++
-TITLE = "आर्यासप्तशती"
-AUTHOR = "गोवर्धनाचार्यः"
-PUBLISHER = "पाण्डुरङ्ग-जावजी"
-"PUBLISH YEAR" = "1934"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "288"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "दुर्गाप्रसादः काशिनाथपाण्डुरङ्गपरबः वासुदेवलक्ष्मणशर्मापणशीकरः"
-"PRIMARY COMMENTATOR" = "अनन्तपण्डितः"
-"COMMENTARY NAME" = "व्यङ्ग्यार्थदीपनः"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7053"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzMjA4Nzk0MTYwNzc2&pageno=MjI0MjQyNjk5NTk="
 title = "आर्यासप्तशती"
+author = "गोवर्धनाचार्यः"
+publisher = "पाण्डुरङ्ग-जावजी"
+"publish year" = "1934"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "288"
+language = "संस्कृतम्"
+editor = "दुर्गाप्रसादः काशिनाथपाण्डुरङ्गपरबः वासुदेवलक्ष्मणशर्मापणशीकरः"
+"primary commentator" = "अनन्तपण्डितः"
+"commentary name" = "व्यङ्ग्यार्थदीपनः"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-7053"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzMjA4Nzk0MTYwNzc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आर्यासप्तशती	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjYzMjA4Nzk0MTYwNzc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8242,8 +8241,5 @@ title = "आर्यासप्तशती"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

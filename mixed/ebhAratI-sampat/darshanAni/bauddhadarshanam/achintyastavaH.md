@@ -1,12 +1,11 @@
 +++
-TITLE = "अचिन्त्यस्तवः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3631"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyNDMyNjUzMjY1ODQz&pageno=MjI0MjQyNjk5NTk="
 title = "अचिन्त्यस्तवः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3631"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyNDMyNjUzMjY1ODQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अचिन्त्यस्तवः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjgyNDMyNjUzMjY1ODQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -206,8 +205,5 @@ title = "अचिन्त्यस्तवः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

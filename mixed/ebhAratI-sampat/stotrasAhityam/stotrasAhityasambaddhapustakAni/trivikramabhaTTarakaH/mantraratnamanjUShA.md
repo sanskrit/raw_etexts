@@ -1,17 +1,16 @@
 +++
-TITLE = "मन्त्ररत्नमञ्जूषा"
-AUTHOR = "त्रिविक्रमभट्टरकः"
-PUBLISHER = "पाण्डुरङ्ग-जावजी"
-"PUBLISH YEAR" = "1926"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "110"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वासुदेव-लक्ष्मण-शास्त्री-पणशीकरः"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7091"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA0NDEwNTUzOTA3MDg2&pageno=MjI0MjQyNjk5NTk="
 title = "मन्त्ररत्नमञ्जूषा"
+author = "त्रिविक्रमभट्टरकः"
+publisher = "पाण्डुरङ्ग-जावजी"
+"publish year" = "1926"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "110"
+language = "संस्कृतम्"
+editor = "वासुदेव-लक्ष्मण-शास्त्री-पणशीकरः"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-7091"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA0NDEwNTUzOTA3MDg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मन्त्ररत्नमञ्जूषा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjA0NDEwNTUzOTA3MDg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -601,19 +600,6 @@ title = "मन्त्ररत्नमञ्जूषा"
 
 **निर्णयसागरमुद्रणालयाधिपतिः.**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

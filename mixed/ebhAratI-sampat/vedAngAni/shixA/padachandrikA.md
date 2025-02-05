@@ -1,12 +1,11 @@
 +++
-TITLE = "पदचन्द्रिका"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3947"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDM2OTM4ODYxNzk4ODcz"
 title = "पदचन्द्रिका"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3947"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDM2OTM4ODYxNzk4ODcz"
 
 +++
 [[पदचन्द्रिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDM2OTM4ODYxNzk4ODcz)]]

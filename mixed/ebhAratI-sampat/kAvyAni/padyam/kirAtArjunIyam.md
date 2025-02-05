@@ -1,17 +1,16 @@
 +++
-TITLE = "किरातार्जुनीयम्"
-PUBLISHER = "पाण्डुरङ्ग-जावजी"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "298"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "दुर्गाप्रसादः काशिनाथपाण्डुरङ्गः"
-"PRIMARY COMMENTATOR" = "मल्लिनाथः"
-"COMMENTARY NAME" = "घण्टापथः"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8687"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5OTE5NzUzOTE5MzM4&pageno=MjI0MjQyNjk5NTk="
 title = "किरातार्जुनीयम्"
+publisher = "पाण्डुरङ्ग-जावजी"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "298"
+language = "संस्कृतम्"
+editor = "दुर्गाप्रसादः काशिनाथपाण्डुरङ्गः"
+"primary commentator" = "मल्लिनाथः"
+"commentary name" = "घण्टापथः"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-8687"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5OTE5NzUzOTE5MzM4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[किरातार्जुनीयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDE5OTE5NzUzOTE5MzM4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6138,8 +6137,5 @@ Yesu Shedge, at the 'Nirnaya-sagar' Press,
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

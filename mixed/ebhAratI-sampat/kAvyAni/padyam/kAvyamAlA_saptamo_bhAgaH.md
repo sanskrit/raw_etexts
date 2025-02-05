@@ -1,15 +1,14 @@
 +++
-TITLE = "काव्यमाला (सप्तमो भागः)"
-"PUBLISH YEAR" = "1890"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "167"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "दुर्गाप्रसादः  काशीनाथः"
-PRINTER = "निर्णयसागर-प्रेस् बोम्बे"
-"SERIAL NO." = "Ebharati-5781"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg1MTQ0NzcyNDU5NDU1&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यमाला (सप्तमो भागः)"
+"publish year" = "1890"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "167"
+language = "संस्कृतम्"
+editor = "दुर्गाप्रसादः  काशीनाथः"
+printer = "निर्णयसागर-प्रेस् बोम्बे"
+"serial no." = "Ebharati-5781"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg1MTQ0NzcyNDU5NDU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यमाला (सप्तमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjg1MTQ0NzcyNDU5NDU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7052,8 +7051,5 @@ PDF मध्ये अस्पष्टता अस्ति । कृपय
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

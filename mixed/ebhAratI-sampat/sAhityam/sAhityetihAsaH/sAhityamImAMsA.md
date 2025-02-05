@@ -1,16 +1,15 @@
 +++
-TITLE = "साहित्यमीमांसा"
-PUBLISHER = "ओथोरिटि आफ् गवर्नमेण्ट्"
-"PUBLISH YEAR" = "1934"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "साहित्येतिहासः"
-PAGES = "225"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "साम्बशिवशास्त्री"
-PRINTER = "राजकीयमुद्रणयन्त्रालयः"
-"SERIAL NO." = "Ebharati-5946"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEyMTQ0NzU2Mzk3MDc1&pageno=MjI0MjQyNjk5NTk="
 title = "साहित्यमीमांसा"
+publisher = "ओथोरिटि आफ् गवर्नमेण्ट्"
+"publish year" = "1934"
+domain = "साहित्यम्"
+sub-domain = "साहित्येतिहासः"
+pages = "225"
+language = "संस्कृतम्"
+editor = "साम्बशिवशास्त्री"
+printer = "राजकीयमुद्रणयन्त्रालयः"
+"serial no." = "Ebharati-5946"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEyMTQ0NzU2Mzk3MDc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[साहित्यमीमांसा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjEyMTQ0NzU2Mzk3MDc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7341,8 +7340,5 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

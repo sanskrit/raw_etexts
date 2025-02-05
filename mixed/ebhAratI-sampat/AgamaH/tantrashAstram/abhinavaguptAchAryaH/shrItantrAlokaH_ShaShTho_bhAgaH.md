@@ -1,17 +1,16 @@
 +++
-TITLE = "श्रीतन्त्रालोकः (षष्ठो भागः)"
-AUTHOR = "अभिनवगुप्ताचार्यः"
-"PUBLISH YEAR" = "1921"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "282"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मधुसूदनशास्त्री"
-"PRIMARY COMMENTATOR" = "जयतीर्थः"
-PRINTER = "इण्डियन्-प्रेस्"
-"SERIAL NO." = "Ebharati-6065"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM0OTgyMDEyNzEyMjg1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीतन्त्रालोकः (षष्ठो भागः)"
+author = "अभिनवगुप्ताचार्यः"
+"publish year" = "1921"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "282"
+language = "संस्कृतम्"
+editor = "मधुसूदनशास्त्री"
+"primary commentator" = "जयतीर्थः"
+printer = "इण्डियन्-प्रेस्"
+"serial no." = "Ebharati-6065"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM0OTgyMDEyNzEyMjg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीतन्त्रालोकः (षष्ठो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDM0OTgyMDEyNzEyMjg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2343,19 +2342,6 @@ PRINTED BY APURA KRISHNA BONE, AT THE INDIAN PRESS. Ltd.,
 सर्वेषामपि भाविनाम्।  
 शुद्धत्वमस्ति तेषां ये  
 शक्तिपातपवित्रिताः॥१७१॥**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

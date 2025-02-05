@@ -1,15 +1,14 @@
 +++
-TITLE = "सच्चिदानन्दशिवाभिनव-नृसिंहभारतीविजयकाव्यम्"
-AUTHOR = "राजवल्लभशास्त्री"
-"PUBLISH YEAR" = "1934"
-DOMAIN = "आधुनिकसाहित्यम्"
-SUB-DOMAIN = "आधुनिकसाहित्यम्"
-PAGES = "442"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "मद्रास-लाँजर्नल-प्रेस्"
-"SERIAL NO." = "Ebharati-6186"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0MjI2NTU3MjM4Mzk1&pageno=MjI0MjQyNjk5NTk="
 title = "सच्चिदानन्दशिवाभिनव-नृसिंहभारतीविजयकाव्यम्"
+author = "राजवल्लभशास्त्री"
+"publish year" = "1934"
+domain = "आधुनिकसाहित्यम्"
+sub-domain = "आधुनिकसाहित्यम्"
+pages = "442"
+language = "संस्कृतम्"
+printer = "मद्रास-लाँजर्नल-प्रेस्"
+"serial no." = "Ebharati-6186"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0MjI2NTU3MjM4Mzk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सच्चिदानन्दशिवाभिनव-नृसिंहभारतीविजयकाव्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0MjI2NTU3MjM4Mzk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10430,19 +10429,6 @@ FOREWORD.
 |     २५     |      विद्यां      |     विद्या     |
 |     २७     |   भक्ते लोकगुरौ   | भक्तेर्लोकगुरौ |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,17 +1,16 @@
 +++
-TITLE = "स्मृतिप्रकाश:"
-AUTHOR = "वासुदेव-रथः"
-PUBLISHER = "एशियाटिक-सोसाइटी"
-"PUBLISH YEAR" = "1912"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "119"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "सदाशिव-मिश्रः"
-PRINTER = "उपेन्द्रनाथ-चक्रवर्ती"
-"SERIAL NO." = "Ebharati-6399"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODczODUyNTU5OTcyNDE2&pageno=MjI0MjQyNjk5NTk="
 title = "स्मृतिप्रकाश:"
+author = "वासुदेव-रथः"
+publisher = "एशियाटिक-सोसाइटी"
+"publish year" = "1912"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "119"
+language = "संस्कृतम्"
+editor = "सदाशिव-मिश्रः"
+printer = "उपेन्द्रनाथ-चक्रवर्ती"
+"serial no." = "Ebharati-6399"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODczODUyNTU5OTcyNDE2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्मृतिप्रकाश:	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODczODUyNTU5OTcyNDE2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2768,19 +2767,6 @@ VASÚDEVA RATHA.**
 प्रकाशितम्।**  
    
 **शकाब्दाः १८३४**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

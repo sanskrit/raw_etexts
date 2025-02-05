@@ -1,17 +1,16 @@
 +++
-TITLE = "उत्तररामचरितम्"
-AUTHOR = "भवभूतिः"
-PUBLISHER = "सत्यभामाभाई-पाण्डुरङ्गः"
-"PUBLISH YEAR" = "1949"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "208"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "नारायणराय-आचार्यः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-8922"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgwOTg4NDc0ODc0NjU4&pageno=MjI0MjQyNjk5NTk="
 title = "उत्तररामचरितम्"
+author = "भवभूतिः"
+publisher = "सत्यभामाभाई-पाण्डुरङ्गः"
+"publish year" = "1949"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "208"
+language = "संस्कृतम्"
+editor = "नारायणराय-आचार्यः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-8922"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgwOTg4NDc0ODc0NjU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[उत्तररामचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDgwOTg4NDc0ODc0NjU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4805,19 +4804,6 @@ title = "उत्तररामचरितम्"
 
 **—————————————**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

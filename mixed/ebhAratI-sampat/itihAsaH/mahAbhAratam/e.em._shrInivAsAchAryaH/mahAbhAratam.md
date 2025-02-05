@@ -1,16 +1,15 @@
 +++
-TITLE = "महाभारतम्"
-AUTHOR = "ए.एम्. श्रीनिवासाचार्यः"
-PUBLISHER = "जि. ए. नटेशः"
-"PUBLISH YEAR" = "1935"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "महाभारतम्"
-PAGES = "531"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "वि.राघवः"
-"SERIAL NO." = "Ebharati-6098"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzOTgyNjgwNTgzNTg1&pageno=MjI0MjQyNjk5NTk="
 title = "महाभारतम्"
+author = "ए.एम्. श्रीनिवासाचार्यः"
+publisher = "जि. ए. नटेशः"
+"publish year" = "1935"
+domain = "इतिहासः"
+sub-domain = "महाभारतम्"
+pages = "531"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "वि.राघवः"
+"serial no." = "Ebharati-6098"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzOTgyNjgwNTgzNTg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[महाभारतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjUzOTgyNjgwNTgzNTg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10734,19 +10733,6 @@ Foreign Sah. Postage 9d.
 
 **G. A. NATESAN & Co., PUBLISHERS, MADRAS**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

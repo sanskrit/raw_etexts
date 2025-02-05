@@ -1,16 +1,15 @@
 +++
-TITLE = "कौटिलीयम्-अर्थशास्त्रम्"
-AUTHOR = "कौटिल्यः"
-"PUBLISH YEAR" = "1909"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "अर्थशास्त्रम्"
-PAGES = "462"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शमाशास्त्री"
-PRINTER = "राजकीय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5211"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQwMTYyOTE0NjMyMDA1&pageno=MjI0MjQyNjk5NTk="
 title = "कौटिलीयम्-अर्थशास्त्रम्"
+author = "कौटिल्यः"
+"publish year" = "1909"
+domain = "धर्मशास्त्रम्"
+sub-domain = "अर्थशास्त्रम्"
+pages = "462"
+language = "संस्कृतम्"
+editor = "शमाशास्त्री"
+printer = "राजकीय-मुद्रणालयः"
+"serial no." = "Ebharati-5211"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQwMTYyOTE0NjMyMDA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कौटिलीयम्-अर्थशास्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQwMTYyOTE0NjMyMDA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10150,8 +10149,5 @@ Curator, Govt. Oriental Library.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

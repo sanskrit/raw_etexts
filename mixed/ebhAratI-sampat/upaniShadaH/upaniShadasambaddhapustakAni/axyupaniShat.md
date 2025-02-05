@@ -1,12 +1,11 @@
 +++
-TITLE = "अक्ष्युपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4248"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU2ODA4NzMwMjk3NzA0&pageno=MjI0MjQyNjk5NTk="
 title = "अक्ष्युपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4248"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU2ODA4NzMwMjk3NzA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अक्ष्युपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjU2ODA4NzMwMjk3NzA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -495,8 +494,5 @@ title = "अक्ष्युपनिषत्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

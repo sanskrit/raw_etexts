@@ -1,20 +1,19 @@
 +++
-TITLE = "रेखागणितम्  द्वितीयो भागः"
-AUTHOR = "सम्राट् जगन्नाथः"
-PUBLISHER = "मुम्बापुरीस्थ-राजकीय-ग्रन्थशालाधिकारी"
-"PUBLISH YEAR" = "१९०२"
-DOMAIN = "भारतीयविज्ञानम्"
-SUB-DOMAIN = "वेदगणितम्"
-PAGES = "259"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-EDITOR = "हरिलालः"
-"SECOND EDITOR" = "कमलाशङ्करः"
-"PRIMARY COMMENTATOR" = "कमलाशङ्करः"
-"COMMENTARY NAME" = "आङ्ग्लटिप्पणी"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-3335"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDczNzc0ODY0NzQxMDIz&pageno=MjI0MjQyNjk5NTk="
 title = "रेखागणितम्  द्वितीयो भागः"
+author = "सम्राट् जगन्नाथः"
+publisher = "मुम्बापुरीस्थ-राजकीय-ग्रन्थशालाधिकारी"
+"publish year" = "१९०२"
+domain = "भारतीयविज्ञानम्"
+sub-domain = "वेदगणितम्"
+pages = "259"
+language = "संस्कृतम् आङ्ग्लम्"
+editor = "हरिलालः"
+"second editor" = "कमलाशङ्करः"
+"primary commentator" = "कमलाशङ्करः"
+"commentary name" = "आङ्ग्लटिप्पणी"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-3335"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDczNzc0ODY0NzQxMDIz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रेखागणितम्  द्वितीयो भागः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDczNzc0ODY0NzQxMDIz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4338,19 +4337,6 @@ GOVERNMENT CENTRAL BOOK DEPÔT,
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

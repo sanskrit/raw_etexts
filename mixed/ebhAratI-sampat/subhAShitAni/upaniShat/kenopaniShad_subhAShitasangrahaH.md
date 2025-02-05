@@ -1,11 +1,10 @@
 +++
-TITLE = "केनोपनिषद् सुभाषितसङ्ग्रहः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "उपनिषत्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4149"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc4ODA4OTA0ODgyODkz&pageno=MjI0MjQyNjk5NTk="
 title = "केनोपनिषद् सुभाषितसङ्ग्रहः"
+domain = "सुभाषितानि"
+sub-domain = "उपनिषत्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4149"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc4ODA4OTA0ODgyODkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[केनोपनिषद् सुभाषितसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODc4ODA4OTA0ODgyODkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -35,8 +34,5 @@ title = "केनोपनिषद् सुभाषितसङ्ग्र�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

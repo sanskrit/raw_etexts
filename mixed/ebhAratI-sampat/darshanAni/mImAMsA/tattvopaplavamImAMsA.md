@@ -1,12 +1,11 @@
 +++
-TITLE = "तत्त्वोपप्लवमीमांसा"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3851"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjIxNzY1OTI1MTg2OTYz"
 title = "तत्त्वोपप्लवमीमांसा"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3851"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjIxNzY1OTI1MTg2OTYz"
 
 +++
 [[तत्त्वोपप्लवमीमांसा	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjIxNzY1OTI1MTg2OTYz)]]

@@ -1,13 +1,12 @@
 +++
-TITLE = "अजितसेनव्याकरणम् महायानसूत्रम्"
-AUTHOR = "अजितसेनः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3636"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNjQ0NzMzMjQwOTQz&pageno=MjI0MjQyNjk5NTk="
 title = "अजितसेनव्याकरणम् महायानसूत्रम्"
+author = "अजितसेनः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3636"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNjQ0NzMzMjQwOTQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अजितसेनव्याकरणम् महायानसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNjQ0NzMzMjQwOTQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -279,8 +278,5 @@ title = "अजितसेनव्याकरणम् महायानस�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

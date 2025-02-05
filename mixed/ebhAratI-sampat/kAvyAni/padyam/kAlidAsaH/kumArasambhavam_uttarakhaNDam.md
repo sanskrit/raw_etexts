@@ -1,16 +1,15 @@
 +++
-TITLE = "कुमारसम्भवम् (उत्तरखण्डम्)"
-AUTHOR = "कालिदासः"
-"PUBLISH YEAR" = "1871"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "65"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "तारानाथतर्कवाचस्पतिः"
-PRINTER = "वाल्मिकी-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8744"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NzM3MzQxMTkzOTM4&pageno=MjI0MjQyNjk5NTk="
 title = "कुमारसम्भवम् (उत्तरखण्डम्)"
+author = "कालिदासः"
+"publish year" = "1871"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "65"
+language = "संस्कृतम्"
+editor = "तारानाथतर्कवाचस्पतिः"
+printer = "वाल्मिकी-यन्त्रालयः"
+"serial no." = "Ebharati-8744"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NzM3MzQxMTkzOTM4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कुमारसम्भवम् (उत्तरखण्डम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NzM3MzQxMTkzOTM4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2112,8 +2111,5 @@ title = "कुमारसम्भवम् (उत्तरखण्डम्
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

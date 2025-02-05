@@ -1,13 +1,12 @@
 +++
-TITLE = "तर्कभाषा"
-AUTHOR = "केशवमिश्रः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4042"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI3OTY4MTE4NjEwODgz&pageno=MjI0MjQyNjk5NTk="
 title = "तर्कभाषा"
+author = "केशवमिश्रः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4042"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI3OTY4MTE4NjEwODgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तर्कभाषा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDI3OTY4MTE4NjEwODgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -82,19 +81,6 @@ title = "तर्कभाषा"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

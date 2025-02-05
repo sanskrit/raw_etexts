@@ -1,15 +1,14 @@
 +++
-TITLE = "वीणावासवदत्तम्"
-PUBLISHER = "ओरिएन्टल्-रिसर्च्-पत्रिका"
-"PUBLISH YEAR" = "1931"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "58"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "मद्रास-ला-जर्नल्-प्रेस्"
-"SERIAL NO." = "Ebharati-5635"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc5NzQwNjI4ODM5MDQ1&pageno=MjI0MjQyNjk5NTk="
 title = "वीणावासवदत्तम्"
+publisher = "ओरिएन्टल्-रिसर्च्-पत्रिका"
+"publish year" = "1931"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "58"
+language = "संस्कृतम्"
+printer = "मद्रास-ला-जर्नल्-प्रेस्"
+"serial no." = "Ebharati-5635"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc5NzQwNjI4ODM5MDQ1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वीणावासवदत्तम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc5NzQwNjI4ODM5MDQ1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1241,8 +1240,5 @@ S. KUPPUSWAMI SASTRI.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

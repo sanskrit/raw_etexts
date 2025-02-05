@@ -1,12 +1,11 @@
 +++
-TITLE = "घटखर्परकाव्यम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3221"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYyMTQ4Njk4MzAyOTAz&pageno=MjI0MjQyNjk5NTk="
 title = "घटखर्परकाव्यम्"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3221"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYyMTQ4Njk4MzAyOTAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[घटखर्परकाव्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjYyMTQ4Njk4MzAyOTAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -484,8 +483,5 @@ title = "घटखर्परकाव्यम्"
        २.१. नोतेन् शुं तेxत्  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

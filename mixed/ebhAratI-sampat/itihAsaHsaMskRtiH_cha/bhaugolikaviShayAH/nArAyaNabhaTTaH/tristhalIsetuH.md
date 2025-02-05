@@ -1,17 +1,16 @@
 +++
-TITLE = "त्रिस्थलीसेतुः"
-AUTHOR = "नारायणभट्टः"
-PUBLISHER = "हरिनारायणआपटे"
-"PUBLISH YEAR" = "1915"
-DOMAIN = "इतिहासःसंस्कृतिः च"
-SUB-DOMAIN = "भौगोलिकविषयाः"
-PAGES = "379"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गणेशशास्त्रीगोखले"
-PRINTER = "आनन्दाश्रममुद्रणालयः"
-"SERIAL NO." = "Ebharati-8647"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMwMzIyODA1OTcwMDM4&pageno=MjI0MjQyNjk5NTk="
 title = "त्रिस्थलीसेतुः"
+author = "नारायणभट्टः"
+publisher = "हरिनारायणआपटे"
+"publish year" = "1915"
+domain = "इतिहासःसंस्कृतिः च"
+sub-domain = "भौगोलिकविषयाः"
+pages = "379"
+language = "संस्कृतम्"
+editor = "गणेशशास्त्रीगोखले"
+printer = "आनन्दाश्रममुद्रणालयः"
+"serial no." = "Ebharati-8647"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMwMzIyODA1OTcwMDM4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[त्रिस्थलीसेतुः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDMwMzIyODA1OTcwMDM4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -17092,19 +17091,6 @@ title = "त्रिस्थलीसेतुः"
 
 **समाप्तोऽयं त्रिस्थली सेतुः।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

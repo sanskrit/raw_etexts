@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीधनञ्जयविरचितं-दशरूपकम्"
-AUTHOR = "श्रीधनञ्जयः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2656"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjM4Mjc4OTEwNjY5NDUy"
 title = "श्रीधनञ्जयविरचितं-दशरूपकम्"
+author = "श्रीधनञ्जयः"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2656"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjM4Mjc4OTEwNjY5NDUy"
 
 +++
 [[श्रीधनञ्जयविरचितं-दशरूपकम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjM4Mjc4OTEwNjY5NDUy)]]

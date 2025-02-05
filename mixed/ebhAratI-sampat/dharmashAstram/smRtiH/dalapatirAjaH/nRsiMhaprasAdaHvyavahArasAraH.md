@@ -1,15 +1,14 @@
 +++
-TITLE = "नृसिंहप्रसादः(व्यवहारसारः)"
-AUTHOR = "दलपतिराजः"
-PUBLISHER = "संस्कृतमहाविद्यालयं बनारस्"
-"PUBLISH YEAR" = "1984"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "विनायक शास्त्रि तिल्लुः"
-"SERIAL NO." = "Ebharati-4761"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQxMTcxMDExODMwNzU0&pageno=MjI0MjQyNjk5NTk="
 title = "नृसिंहप्रसादः(व्यवहारसारः)"
+author = "दलपतिराजः"
+publisher = "संस्कृतमहाविद्यालयं बनारस्"
+"publish year" = "1984"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+language = "संस्कृतम्"
+editor = "विनायक शास्त्रि तिल्लुः"
+"serial no." = "Ebharati-4761"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQxMTcxMDExODMwNzU0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नृसिंहप्रसादः(व्यवहारसारः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQxMTcxMDExODMwNzU0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9300,19 +9299,6 @@ hila)द्यनेकराजस्पृहणीयकीर्तित्
 |        **व्यासः**         |     **स्मृतिकाराः**      |
 |        **लिखितः**         | **स्मृतिचन्द्रिकाकाराः** |
 |                          |        **हारीतः**        |
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

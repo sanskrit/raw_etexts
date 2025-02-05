@@ -1,16 +1,15 @@
 +++
-TITLE = "सनातनधर्मदीपिका"
-AUTHOR = "भगवानहमसायोगिः"
-"PUBLISH YEAR" = "1921"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "331"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-EDITOR = "के.टी.श्रीनिवासचारियर्"
-PRINTER = "डिक्सन-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7029"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMyNDg5Nzg1NzU3NDc2&pageno=MjI0MjQyNjk5NTk="
 title = "सनातनधर्मदीपिका"
+author = "भगवानहमसायोगिः"
+"publish year" = "1921"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "331"
+language = "संस्कृतम् आङ्ग्लम्"
+editor = "के.टी.श्रीनिवासचारियर्"
+printer = "डिक्सन-यन्त्रालयः"
+"serial no." = "Ebharati-7029"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMyNDg5Nzg1NzU3NDc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सनातनधर्मदीपिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODMyNDg5Nzg1NzU3NDc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9021,19 +9020,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,16 +1,15 @@
 +++
-TITLE = "वैष्णव-उपनिषदः"
-"PUBLISH YEAR" = "1923"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "अन्याः उपनिषदः"
-PAGES = "446"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "अ. महादेवशास्त्री"
-"COMMENTARY NAME" = "श्री उपनिषद्ब्रह्मयोगिनः"
-PRINTER = "वसन्त-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7796"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE5MTI5NTA3NjgzODQ3&pageno=MjI0MjQyNjk5NTk="
 title = "वैष्णव-उपनिषदः"
+"publish year" = "1923"
+domain = "उपनिषदः"
+sub-domain = "अन्याः उपनिषदः"
+pages = "446"
+language = "संस्कृतम्"
+editor = "अ. महादेवशास्त्री"
+"commentary name" = "श्री उपनिषद्ब्रह्मयोगिनः"
+printer = "वसन्त-यन्त्रालयः"
+"serial no." = "Ebharati-7796"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE5MTI5NTA3NjgzODQ3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वैष्णव-उपनिषदः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE5MTI5NTA3NjgzODQ3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7459,19 +7458,6 @@ through Generations
 
 **—————**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

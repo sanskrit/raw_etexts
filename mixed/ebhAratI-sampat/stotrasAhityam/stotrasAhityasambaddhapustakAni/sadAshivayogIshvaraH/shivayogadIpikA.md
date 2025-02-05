@@ -1,16 +1,15 @@
 +++
-TITLE = "शिवयोगदीपिका"
-AUTHOR = "सदाशिवयोगीश्वरः"
-PUBLISHER = "हरिनारायण-आपटे"
-"PUBLISH YEAR" = "1907"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "46"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "आनन्दाश्रम-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7123"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA5MTc3NDMyMTg3Mzg2&pageno=MjI0MjQyNjk5NTk="
 title = "शिवयोगदीपिका"
+author = "सदाशिवयोगीश्वरः"
+publisher = "हरिनारायण-आपटे"
+"publish year" = "1907"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "46"
+language = "संस्कृतम्"
+printer = "आनन्दाश्रम-मुद्रणालयः"
+"serial no." = "Ebharati-7123"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA5MTc3NDMyMTg3Mzg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शिवयोगदीपिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjA5MTc3NDMyMTg3Mzg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1923,19 +1922,6 @@ Satchidanand Shivabhinav Narsinha Bharati.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

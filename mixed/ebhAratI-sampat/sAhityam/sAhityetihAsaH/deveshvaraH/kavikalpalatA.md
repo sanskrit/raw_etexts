@@ -1,17 +1,16 @@
 +++
-TITLE = "कविकल्पलता"
-AUTHOR = "देवेश्वरः"
-PUBLISHER = "रामगोपालकविरत्नः"
-"PUBLISH YEAR" = "1895"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "साहित्येतिहासः"
-PAGES = "100"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रामगोपालकविरत्नः"
-PRINTER = "सिद्देश्वर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5929"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMwMDIzMTI3MTYxOTY1&pageno=MjI0MjQyNjk5NTk="
 title = "कविकल्पलता"
+author = "देवेश्वरः"
+publisher = "रामगोपालकविरत्नः"
+"publish year" = "1895"
+domain = "साहित्यम्"
+sub-domain = "साहित्येतिहासः"
+pages = "100"
+language = "संस्कृतम्"
+editor = "रामगोपालकविरत्नः"
+printer = "सिद्देश्वर-यन्त्रालयः"
+"serial no." = "Ebharati-5929"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMwMDIzMTI3MTYxOTY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कविकल्पलता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODMwMDIzMTI3MTYxOTY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2865,19 +2864,6 @@ title = "कविकल्पलता"
 संमुद्रितेयं प्रकटीकृता च॥**
 
 **—:•:—**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

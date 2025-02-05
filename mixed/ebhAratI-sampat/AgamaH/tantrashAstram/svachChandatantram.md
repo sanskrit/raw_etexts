@@ -1,18 +1,17 @@
 +++
-TITLE = "स्वच्छन्दतन्त्रम्"
-PUBLISHER = "मधुसूदनकौलशास्त्री"
-"PUBLISH YEAR" = "1921"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "350"
-LANGUAGE = "संस्कृतम्"
-TRANSLATOR = "उद्योतः"
-EDITOR = "मधुसूदनकौलशास्त्री"
-"PRIMARY COMMENTATOR" = "क्षेमराजः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6063"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg1NDA4NzEyNTIwMjg1&pageno=MjI0MjQyNjk5NTk="
 title = "स्वच्छन्दतन्त्रम्"
+publisher = "मधुसूदनकौलशास्त्री"
+"publish year" = "1921"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "350"
+language = "संस्कृतम्"
+translator = "उद्योतः"
+editor = "मधुसूदनकौलशास्त्री"
+"primary commentator" = "क्षेमराजः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-6063"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg1NDA4NzEyNTIwMjg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्वच्छन्दतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njg1NDA4NzEyNTIwMjg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7253,8 +7252,5 @@ MADHUSUDAN KAUL.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

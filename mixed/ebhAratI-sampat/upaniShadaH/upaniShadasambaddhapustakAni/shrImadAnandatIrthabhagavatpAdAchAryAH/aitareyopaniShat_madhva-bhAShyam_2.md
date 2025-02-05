@@ -1,13 +1,12 @@
 +++
-TITLE = "ऐतरेयोपनिषत् मध्व-भाष्यम् (२)"
-AUTHOR = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3246"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE4MTA5MjA4MzA2MTEz"
 title = "ऐतरेयोपनिषत् मध्व-भाष्यम् (२)"
+author = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3246"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE4MTA5MjA4MzA2MTEz"
 
 +++
 [[ऐतरेयोपनिषत् मध्व-भाष्यम् (२)	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjE4MTA5MjA4MzA2MTEz)]]

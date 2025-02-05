@@ -1,15 +1,14 @@
 +++
-TITLE = "ब्रह्मसूत्रभाष्यम् (प्रथमो भागः)"
-AUTHOR = "वेदव्यासः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतदर्शनम्"
-PAGES = "326"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "शङ्कराचार्यः"
-PRINTER = "श्रीवाणिविलासमुद्रणालयम् श्रीरङ्गम्"
-"SERIAL NO." = "Ebharati-8566"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4Njg1MjE4MzAzMjI4&pageno=MjI0MjQyNjk5NTk="
 title = "ब्रह्मसूत्रभाष्यम् (प्रथमो भागः)"
+author = "वेदव्यासः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतदर्शनम्"
+pages = "326"
+language = "संस्कृतम्"
+"primary commentator" = "शङ्कराचार्यः"
+printer = "श्रीवाणिविलासमुद्रणालयम् श्रीरङ्गम्"
+"serial no." = "Ebharati-8566"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4Njg1MjE4MzAzMjI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ब्रह्मसूत्रभाष्यम् (प्रथमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjU4Njg1MjE4MzAzMjI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2568,8 +2567,5 @@ Gourishanker Ganerinvala.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

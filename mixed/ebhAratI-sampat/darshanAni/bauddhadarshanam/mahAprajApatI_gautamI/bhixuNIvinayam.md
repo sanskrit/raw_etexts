@@ -1,13 +1,12 @@
 +++
-TITLE = "भिक्षुणीविनयम्"
-AUTHOR = "महाप्रजापती गौतमी"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3665"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDM2Njc0ODIyNjI4MTUz"
 title = "भिक्षुणीविनयम्"
+author = "महाप्रजापती गौतमी"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3665"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDM2Njc0ODIyNjI4MTUz"
 
 +++
 [[भिक्षुणीविनयम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDM2Njc0ODIyNjI4MTUz)]]

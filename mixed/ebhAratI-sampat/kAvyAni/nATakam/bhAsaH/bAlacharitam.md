@@ -1,17 +1,16 @@
 +++
-TITLE = "बालचरितम्"
-AUTHOR = "भासः"
-PUBLISHER = "राजकीय-मुद्रणालयः"
-"PUBLISH YEAR" = "1912"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "86"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "त. गणपति-शास्त्री"
-PRINTER = "राजकीय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7706"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM5MzAxNDQwNzQ3OTM3&pageno=MjI0MjQyNjk5NTk="
 title = "बालचरितम्"
+author = "भासः"
+publisher = "राजकीय-मुद्रणालयः"
+"publish year" = "1912"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "86"
+language = "संस्कृतम्"
+editor = "त. गणपति-शास्त्री"
+printer = "राजकीय-मुद्रणालयः"
+"serial no." = "Ebharati-7706"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM5MzAxNDQwNzQ3OTM3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बालचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjM5MzAxNDQwNzQ3OTM3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2638,8 +2637,5 @@ T. GANAPATI SÂSTRÎ.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

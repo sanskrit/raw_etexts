@@ -1,12 +1,11 @@
 +++
-TITLE = "शिवपूजास्तवः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4023"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA3MzYyMzg4MjkxNjgz&pageno=MjI0MjQyNjk5NTk="
 title = "शिवपूजास्तवः"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4023"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA3MzYyMzg4MjkxNjgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शिवपूजास्तवः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjA3MzYyMzg4MjkxNjgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -167,8 +166,5 @@ title = "शिवपूजास्तवः"
 
 --------------------------------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

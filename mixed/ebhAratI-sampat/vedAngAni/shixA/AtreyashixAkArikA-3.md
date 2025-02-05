@@ -1,13 +1,12 @@
 +++
-TITLE = "आत्रेयशिक्षाकारिका-३"
-"PUBLISH YEAR" = "Publisher"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3514"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA5MDc4NTk3MDMzNzMz&pageno=MjI0MjQyNjk5NTk="
 title = "आत्रेयशिक्षाकारिका-३"
+"publish year" = "Publisher"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3514"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA5MDc4NTk3MDMzNzMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आत्रेयशिक्षाकारिका-३	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODA5MDc4NTk3MDMzNzMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -31,8 +30,5 @@ atreya3_shiksha
 
                    इत्यात्रेयशिक्षा
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

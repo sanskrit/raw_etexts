@@ -1,17 +1,16 @@
 +++
-TITLE = "यशस्तिलकम् (उत्तरखण्डम्)"
-AUTHOR = "सोमदेवसूरिः"
-"PUBLISH YEAR" = "1903"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "चम्पू"
-PAGES = "420"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शिवदत्तशर्मा  काशीनाथशर्मा"
-"PRIMARY COMMENTATOR" = "श्रुतसागरसूरिः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5296"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE5NjY4OTkwNjkzODA1&pageno=MjI0MjQyNjk5NTk="
 title = "यशस्तिलकम् (उत्तरखण्डम्)"
+author = "सोमदेवसूरिः"
+"publish year" = "1903"
+domain = "काव्यानि"
+sub-domain = "चम्पू"
+pages = "420"
+language = "संस्कृतम्"
+editor = "शिवदत्तशर्मा  काशीनाथशर्मा"
+"primary commentator" = "श्रुतसागरसूरिः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-5296"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE5NjY4OTkwNjkzODA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[यशस्तिलकम् (उत्तरखण्डम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE5NjY4OTkwNjkzODA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8310,19 +8309,6 @@ title = "यशस्तिलकम् (उत्तरखण्डम्)"
 
 **![](../books_images/U-IMG-1730211512Screenshot2024-10-29194810.png)**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

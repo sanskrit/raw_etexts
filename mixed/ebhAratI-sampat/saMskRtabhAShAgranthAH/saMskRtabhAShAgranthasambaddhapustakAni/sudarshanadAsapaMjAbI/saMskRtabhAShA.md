@@ -1,15 +1,14 @@
 +++
-TITLE = "संस्कृतभाषा"
-AUTHOR = "सुदर्शनदासपंजाबी"
-"PUBLISH YEAR" = "1896"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "28"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "चन्द्रप्रभा-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7030"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY2NjIyNDg1MzU4NDc2&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृतभाषा"
+author = "सुदर्शनदासपंजाबी"
+"publish year" = "1896"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "28"
+language = "संस्कृतम्"
+printer = "चन्द्रप्रभा-यन्त्रालयः"
+"serial no." = "Ebharati-7030"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY2NjIyNDg1MzU4NDc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृतभाषा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDY2NjIyNDg1MzU4NDc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -351,19 +350,6 @@ Pandit Sudarshan Das
 
 Chaukhambha, Benares City:
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

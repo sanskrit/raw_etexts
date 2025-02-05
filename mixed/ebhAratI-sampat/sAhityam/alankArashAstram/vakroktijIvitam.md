@@ -1,11 +1,10 @@
 +++
-TITLE = "वक्रोक्तिजीवितम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2733"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjIzOTM1MDM3NzUzMjYy"
 title = "वक्रोक्तिजीवितम्"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2733"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjIzOTM1MDM3NzUzMjYy"
 
 +++
 [[वक्रोक्तिजीवितम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjIzOTM1MDM3NzUzMjYy)]]

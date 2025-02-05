@@ -1,13 +1,12 @@
 +++
-TITLE = "भृगुसंहिता"
-AUTHOR = "भृगुमहर्षिः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "वैखानसम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4176"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyNDUzODAzMDg4MDA0"
 title = "भृगुसंहिता"
+author = "भृगुमहर्षिः"
+domain = "आगमः"
+sub-domain = "वैखानसम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4176"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyNDUzODAzMDg4MDA0"
 
 +++
 [[भृगुसंहिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyNDUzODAzMDg4MDA0)]]

@@ -1,12 +1,11 @@
 +++
-TITLE = "आरुणिकोपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4252"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQzODc3MjIwNjcxODA0&pageno=MjI0MjQyNjk5NTk="
 title = "आरुणिकोपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4252"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQzODc3MjIwNjcxODA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आरुणिकोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQzODc3MjIwNjcxODA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -137,8 +136,5 @@ c
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

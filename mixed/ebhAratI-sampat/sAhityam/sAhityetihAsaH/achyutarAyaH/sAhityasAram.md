@@ -1,18 +1,17 @@
 +++
-TITLE = "साहित्यसारम्"
-AUTHOR = "अच्युतरायः"
-PUBLISHER = "तुकारामजावजी"
-"PUBLISH YEAR" = "1906"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "साहित्येतिहासः"
-PAGES = "582"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वासुदेवशर्मा"
-"COMMENTARY NAME" = "सरसमोदः"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5948"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwNjI5OTQ2NTg5MDc1&pageno=MjI0MjQyNjk5NTk="
 title = "साहित्यसारम्"
+author = "अच्युतरायः"
+publisher = "तुकारामजावजी"
+"publish year" = "1906"
+domain = "साहित्यम्"
+sub-domain = "साहित्येतिहासः"
+pages = "582"
+language = "संस्कृतम्"
+editor = "वासुदेवशर्मा"
+"commentary name" = "सरसमोदः"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-5948"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwNjI5OTQ2NTg5MDc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[साहित्यसारम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjUwNjI5OTQ2NTg5MDc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7072,19 +7071,6 @@ title = "साहित्यसारम्"
 
 ![](../books_images/U-IMG-1694098302Capture.JPG)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

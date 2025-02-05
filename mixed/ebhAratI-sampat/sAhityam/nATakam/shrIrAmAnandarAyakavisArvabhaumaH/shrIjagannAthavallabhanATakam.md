@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीजगन्नाथवल्लभनाटकम्"
-AUTHOR = "श्रीरामानन्दरायकविसार्वभौमः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2899"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODczMTg3NjAxMzkyODcy"
 title = "श्रीजगन्नाथवल्लभनाटकम्"
+author = "श्रीरामानन्दरायकविसार्वभौमः"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2899"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODczMTg3NjAxMzkyODcy"
 
 +++
 [[श्रीजगन्नाथवल्लभनाटकम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODczMTg3NjAxMzkyODcy)]]

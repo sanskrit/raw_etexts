@@ -1,17 +1,16 @@
 +++
-TITLE = "दुर्गासप्तशती"
-PUBLISHER = "खेमराजश्रीकृष्णदासः"
-"PUBLISH YEAR" = "1893"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "132"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "अग्निरामशास्त्री"
-"COMMENTARY NAME" = "शान्तनवीटीका"
-PRINTER = "श्रीवेङ्कटेश्वर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7071"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY5NTYxMDM0OTg3ODc2&pageno=MjI0MjQyNjk5NTk="
 title = "दुर्गासप्तशती"
+publisher = "खेमराजश्रीकृष्णदासः"
+"publish year" = "1893"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "132"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "अग्निरामशास्त्री"
+"commentary name" = "शान्तनवीटीका"
+printer = "श्रीवेङ्कटेश्वर-यन्त्रालयः"
+"serial no." = "Ebharati-7071"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY5NTYxMDM0OTg3ODc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दुर्गासप्तशती	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjY5NTYxMDM0OTg3ODc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1333,8 +1332,5 @@ title = "दुर्गासप्तशती"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

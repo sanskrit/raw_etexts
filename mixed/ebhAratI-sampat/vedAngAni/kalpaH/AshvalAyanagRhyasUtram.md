@@ -1,11 +1,10 @@
 +++
-TITLE = "आश्वलायनगृह्यसूत्रम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3073"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjA4MjY5MjU0Njk5NDky"
 title = "आश्वलायनगृह्यसूत्रम्"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3073"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjA4MjY5MjU0Njk5NDky"
 
 +++
 [[आश्वलायनगृह्यसूत्रम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjA4MjY5MjU0Njk5NDky)]]

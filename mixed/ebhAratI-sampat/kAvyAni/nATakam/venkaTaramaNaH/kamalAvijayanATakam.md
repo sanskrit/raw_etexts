@@ -1,15 +1,14 @@
 +++
-TITLE = "कमलाविजयनाटकम्"
-AUTHOR = "वेङ्कटरमणः"
-"PUBLISH YEAR" = "1938"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "96"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "राजकीय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5429"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMwOTAxMDA2MzYxMTI1&pageno=MjI0MjQyNjk5NTk="
 title = "कमलाविजयनाटकम्"
+author = "वेङ्कटरमणः"
+"publish year" = "1938"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "96"
+language = "संस्कृतम्"
+printer = "राजकीय-मुद्रणालयः"
+"serial no." = "Ebharati-5429"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMwOTAxMDA2MzYxMTI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कमलाविजयनाटकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODMwOTAxMDA2MzYxMTI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2024,19 +2023,6 @@ Yours sincerely,
 
 [TABLE]
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

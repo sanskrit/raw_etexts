@@ -1,16 +1,15 @@
 +++
-TITLE = "संक्षिप्तरामायणम्"
-AUTHOR = "मुद्दुसुब्बकविः"
-PUBLISHER = "लक्ष्मणसूरिः"
-"PUBLISH YEAR" = "1901"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "54"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "पूर्णचन्द्रोदय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6146"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2NTI5NTA5Mjk5OTg1&pageno=MjI0MjQyNjk5NTk="
 title = "संक्षिप्तरामायणम्"
+author = "मुद्दुसुब्बकविः"
+publisher = "लक्ष्मणसूरिः"
+"publish year" = "1901"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "54"
+language = "संस्कृतम्"
+printer = "पूर्णचन्द्रोदय-मुद्रणालयः"
+"serial no." = "Ebharati-6146"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2NTI5NTA5Mjk5OTg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संक्षिप्तरामायणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE2NTI5NTA5Mjk5OTg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1179,19 +1178,6 @@ title = "संक्षिप्तरामायणम्"
 
 **![](../books_images/U-IMG-1700734223i7.png)**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

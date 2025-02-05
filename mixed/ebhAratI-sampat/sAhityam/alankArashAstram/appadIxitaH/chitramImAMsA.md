@@ -1,19 +1,18 @@
 +++
-TITLE = "चित्रमीमांसा"
-AUTHOR = "अप्पदीक्षितः"
-PUBLISHER = "तुकाराम जावजी"
-"PUBLISH YEAR" = "1893"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "147"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शिवदत्त काशिनाथ पाण्डुरङ्ग परब"
-"PRIMARY COMMENTATOR" = "जगन्नाथपण्डितः"
-"COMMENTARY NAME" = "चित्रमीमांसखण्डनः"
-PRINTER = "तुकाराम जावजी"
-"SERIAL NO." = "Ebharati-5952"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ3NTk4NDM2OTYzMTc1&pageno=MjI0MjQyNjk5NTk="
 title = "चित्रमीमांसा"
+author = "अप्पदीक्षितः"
+publisher = "तुकाराम जावजी"
+"publish year" = "1893"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "147"
+language = "संस्कृतम्"
+editor = "शिवदत्त काशिनाथ पाण्डुरङ्ग परब"
+"primary commentator" = "जगन्नाथपण्डितः"
+"commentary name" = "चित्रमीमांसखण्डनः"
+printer = "तुकाराम जावजी"
+"serial no." = "Ebharati-5952"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ3NTk4NDM2OTYzMTc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चित्रमीमांसा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQ3NTk4NDM2OTYzMTc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3259,19 +3258,6 @@ title = "चित्रमीमांसा"
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

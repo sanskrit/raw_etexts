@@ -1,12 +1,11 @@
 +++
-TITLE = "शास्त्रवार्तासमुच्चयः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "जैनदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3850"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA3NDIzMzM1NTg1OTYz"
 title = "शास्त्रवार्तासमुच्चयः"
+domain = "दर्शनानि"
+sub-domain = "जैनदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3850"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA3NDIzMzM1NTg1OTYz"
 
 +++
 [[शास्त्रवार्तासमुच्चयः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDA3NDIzMzM1NTg1OTYz)]]

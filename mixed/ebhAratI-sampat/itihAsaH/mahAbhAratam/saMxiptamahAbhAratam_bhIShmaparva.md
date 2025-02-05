@@ -1,12 +1,11 @@
 +++
-TITLE = "संक्षिप्तमहाभारतम् (भीष्मपर्व)"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "महाभारतम्"
-PAGES = "35"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-6069"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODExOTUyNTkxMTA2Mjg1&pageno=MjI0MjQyNjk5NTk="
 title = "संक्षिप्तमहाभारतम् (भीष्मपर्व)"
+domain = "इतिहासः"
+sub-domain = "महाभारतम्"
+pages = "35"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-6069"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODExOTUyNTkxMTA2Mjg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संक्षिप्तमहाभारतम् (भीष्मपर्व)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODExOTUyNTkxMTA2Mjg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1545,8 +1544,5 @@ title = "संक्षिप्तमहाभारतम् (भीष्म
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

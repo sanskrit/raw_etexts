@@ -1,13 +1,12 @@
 +++
-TITLE = "श्यामलादण्डकम्"
-AUTHOR = "कालिदासः"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2980"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY1NzE0MjA4ODYwNjgy&pageno=MjI0MjQyNjk5NTk="
 title = "श्यामलादण्डकम्"
+author = "कालिदासः"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2980"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY1NzE0MjA4ODYwNjgy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्यामलादण्डकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDY1NzE0MjA4ODYwNjgy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -48,19 +47,6 @@ title = "श्यामलादण्डकम्"
  कटाक्षयतु कल्याणी कदम्बवनवासिनी ॥
 
  इति महाकविश्रीकालिदासकृतं श्यामलादण्डकं समाप्तम्‌ ।
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

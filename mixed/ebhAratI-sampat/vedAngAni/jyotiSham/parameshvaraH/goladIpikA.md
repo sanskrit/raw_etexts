@@ -1,17 +1,16 @@
 +++
-TITLE = "गोलदीपिका"
-AUTHOR = "परमेश्वरः"
-PUBLISHER = "राजकीयमुद्रणयन्त्रालयः"
-"PUBLISH YEAR" = "1916"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "39"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "टी. गणपती-शास्त्री"
-PRINTER = "राजकीयमुद्रणयन्त्रालयः"
-"SERIAL NO." = "Ebharati-4945"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk3Njc3ODE0MTA3NDc0&pageno=MjI0MjQyNjk5NTk="
 title = "गोलदीपिका"
+author = "परमेश्वरः"
+publisher = "राजकीयमुद्रणयन्त्रालयः"
+"publish year" = "1916"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "39"
+language = "संस्कृतम्"
+editor = "टी. गणपती-शास्त्री"
+printer = "राजकीयमुद्रणयन्त्रालयः"
+"serial no." = "Ebharati-4945"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk3Njc3ODE0MTA3NDc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गोलदीपिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDk3Njc3ODE0MTA3NDc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1107,19 +1106,6 @@ T GANÀPATI SÂSTRÎ
 
 **शुभं भूयात् ।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,18 +1,17 @@
 +++
-TITLE = "समयमातृका"
-AUTHOR = "क्षेमेन्द्रः"
-PUBLISHER = "पाण्डुरङ्ग-जावजी"
-"PUBLISH YEAR" = "1925"
-DOMAIN = "भारतीयविज्ञानम्"
-SUB-DOMAIN = "कामशास्त्रम्"
-PAGES = "64"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "दुर्गाप्रसादः"
-"SECOND EDITOR" = "काशिनाथशर्मा"
-PRINTER = "निर्णयसागरयन्त्रालयः"
-"SERIAL NO." = "Ebharati-4577"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0NTY1MTA4NDczOTM0&pageno=MjI0MjQyNjk5NTk="
 title = "समयमातृका"
+author = "क्षेमेन्द्रः"
+publisher = "पाण्डुरङ्ग-जावजी"
+"publish year" = "1925"
+domain = "भारतीयविज्ञानम्"
+sub-domain = "कामशास्त्रम्"
+pages = "64"
+language = "संस्कृतम्"
+editor = "दुर्गाप्रसादः"
+"second editor" = "काशिनाथशर्मा"
+printer = "निर्णयसागरयन्त्रालयः"
+"serial no." = "Ebharati-4577"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0NTY1MTA4NDczOTM0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[समयमातृका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk0NTY1MTA4NDczOTM0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2230,19 +2229,6 @@ title = "समयमातृका"
 **किं.** **४ आणे, ट. ख. १ आणा.**  
 **पाण्डुरंग जावजी,**  
 **निर्णयसागर प्रेसचे मालक.**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

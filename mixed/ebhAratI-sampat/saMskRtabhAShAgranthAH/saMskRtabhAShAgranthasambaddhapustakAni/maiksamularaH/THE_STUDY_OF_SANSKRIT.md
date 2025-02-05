@@ -1,14 +1,13 @@
 +++
-TITLE = "THE STUDY OF SANSKRIT"
-AUTHOR = "मैक्समुलरः"
-"PUBLISH YEAR" = "1865"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "170"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-"SERIAL NO." = "Ebharati-6964"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA4NjIyMjM4NzE1ODY2&pageno=MjI0MjQyNjk5NTk="
 title = "THE STUDY OF SANSKRIT"
+author = "मैक्समुलरः"
+"publish year" = "1865"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "170"
+language = "संस्कृतम् आङ्ग्लम्"
+"serial no." = "Ebharati-6964"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA4NjIyMjM4NzE1ODY2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[THE STUDY OF SANSKRIT	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODA4NjIyMjM4NzE1ODY2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9268,19 +9267,6 @@ the mouth may kiss of ministers! Day by day may be great rejoicing! (132)
 
 Thus in the Hitopadeśa Reconciliation by name the fourth-story-collection finished.
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

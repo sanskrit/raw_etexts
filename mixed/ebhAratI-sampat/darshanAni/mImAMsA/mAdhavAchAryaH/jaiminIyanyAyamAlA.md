@@ -1,12 +1,11 @@
 +++
-TITLE = "जैमिनीयन्यायमाला"
-AUTHOR = "माधवाचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2608"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc1NjMyMDAyODUzMDUy"
 title = "जैमिनीयन्यायमाला"
+author = "माधवाचार्यः"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2608"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc1NjMyMDAyODUzMDUy"
 
 +++
 [[जैमिनीयन्यायमाला	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=Njc1NjMyMDAyODUzMDUy)]]

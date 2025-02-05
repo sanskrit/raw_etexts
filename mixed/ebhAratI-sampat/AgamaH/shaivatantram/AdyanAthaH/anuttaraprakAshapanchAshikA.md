@@ -1,14 +1,13 @@
 +++
-TITLE = "अनुत्तरप्रकाशपञ्चाशिका"
-AUTHOR = "आद्यनाथः"
-PUBLISHER = "काश्मीरभूपालः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3951"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIzOTA4MzUxMTgyOTcz&pageno=MjI0MjQyNjk5NTk="
 title = "अनुत्तरप्रकाशपञ्चाशिका"
+author = "आद्यनाथः"
+publisher = "काश्मीरभूपालः"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3951"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIzOTA4MzUxMTgyOTcz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अनुत्तरप्रकाशपञ्चाशिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjIzOTA4MzUxMTgyOTcz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -183,8 +182,5 @@ title = "अनुत्तरप्रकाशपञ्चाशिका"
 
 -----------------------------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

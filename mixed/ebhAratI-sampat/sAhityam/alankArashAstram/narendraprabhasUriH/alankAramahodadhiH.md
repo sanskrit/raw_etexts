@@ -1,18 +1,17 @@
 +++
-TITLE = "अलङ्कारमहोदधिः"
-AUTHOR = "नरेन्द्रप्रभसूरिः"
-PUBLISHER = "Oriental Institute"
-"PUBLISH YEAR" = "1942"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "450"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "लालचन्द्रः भगवान् दासः"
-"BOOKS CONTRIBUTOR" = ""
-PRINTER = "Anand Printing Press"
-"SERIAL NO." = "Ebharati-625"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU3MzE1MTU2Nzk5OTU=&pageno=MjI0MjQyNjk5NTk="
 title = "अलङ्कारमहोदधिः"
+author = "नरेन्द्रप्रभसूरिः"
+publisher = "Oriental Institute"
+"publish year" = "1942"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "450"
+language = "संस्कृतम्"
+editor = "लालचन्द्रः भगवान् दासः"
+"books contributor" = ""
+printer = "Anand Printing Press"
+"serial no." = "Ebharati-625"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU3MzE1MTU2Nzk5OTU=&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अलङ्कारमहोदधिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU3MzE1MTU2Nzk5OTU=&pageno=MjI0MjQyNjk5NTk=)]]
@@ -13318,8 +13317,5 @@ X “दे [आ](# "प. देसाए०।")पसिअ [निअतस�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,17 +1,16 @@
 +++
-TITLE = "सारावली"
-AUTHOR = "कल्याणवर्मा"
-PUBLISHER = "तुकारामजावजी"
-"PUBLISH YEAR" = "1907"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "270"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "सुब्रह्मण्यशास्त्री"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7598"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjI5OTQ0OTczOTI3&pageno=MjI0MjQyNjk5NTk="
 title = "सारावली"
+author = "कल्याणवर्मा"
+publisher = "तुकारामजावजी"
+"publish year" = "1907"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "270"
+language = "संस्कृतम्"
+editor = "सुब्रह्मण्यशास्त्री"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-7598"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjI5OTQ0OTczOTI3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सारावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjI5OTQ0OTczOTI3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6748,19 +6747,6 @@ K. N. M. S. reads the same Sloka thus.
 
 ——————
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

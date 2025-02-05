@@ -1,12 +1,11 @@
 +++
-TITLE = "अर्थविनिश्चयसूत्रम्"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3644"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY3NTgzNzAzMDE4OTQz&pageno=MjI0MjQyNjk5NTk="
 title = "अर्थविनिश्चयसूत्रम्"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3644"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY3NTgzNzAzMDE4OTQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अर्थविनिश्चयसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY3NTgzNzAzMDE4OTQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -177,8 +176,5 @@ title = "अर्थविनिश्चयसूत्रम्"
 
 ------------------------------------------------------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

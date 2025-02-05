@@ -1,13 +1,12 @@
 +++
-TITLE = "प्रमालक्षणवादः"
-AUTHOR = "एन् एस् रामानुजताताचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4106"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM3NDgzMTc1MDYxNDkz&pageno=MjI0MjQyNjk5NTk="
 title = "प्रमालक्षणवादः"
+author = "एन् एस् रामानुजताताचार्यः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4106"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM3NDgzMTc1MDYxNDkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रमालक्षणवादः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjM3NDgzMTc1MDYxNDkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -255,8 +254,5 @@ title = "प्रमालक्षणवादः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

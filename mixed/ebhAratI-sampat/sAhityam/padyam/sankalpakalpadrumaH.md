@@ -1,12 +1,11 @@
 +++
-TITLE = "सङ्कल्पकल्पद्रुमः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3015"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMzMjA5MDc2ODI0OTgy&pageno=MjI0MjQyNjk5NTk="
 title = "सङ्कल्पकल्पद्रुमः"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3015"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMzMjA5MDc2ODI0OTgy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सङ्कल्पकल्पद्रुमः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDMzMjA5MDc2ODI0OTgy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1781,8 +1780,5 @@ title = "सङ्कल्पकल्पद्रुमः"
 \\\\Z  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

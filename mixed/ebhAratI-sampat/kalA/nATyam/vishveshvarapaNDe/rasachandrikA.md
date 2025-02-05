@@ -1,17 +1,16 @@
 +++
-TITLE = "रसचन्द्रिका"
-AUTHOR = "विश्वेश्वरपण्डे"
-PUBLISHER = "जयकृष्णदास हरिदासगुप्तः"
-"PUBLISH YEAR" = "1926"
-DOMAIN = "कला"
-SUB-DOMAIN = "नाट्यम्"
-PAGES = "108"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "विष्णुप्रसादभण्डारिः"
-PRINTER = "विद्याविलास-मुद्रणलयः"
-"SERIAL NO." = "Ebharati-5910"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIwNDE3Mjk3NzMzNzY1&pageno=MjI0MjQyNjk5NTk="
 title = "रसचन्द्रिका"
+author = "विश्वेश्वरपण्डे"
+publisher = "जयकृष्णदास हरिदासगुप्तः"
+"publish year" = "1926"
+domain = "कला"
+sub-domain = "नाट्यम्"
+pages = "108"
+language = "संस्कृतम्"
+editor = "विष्णुप्रसादभण्डारिः"
+printer = "विद्याविलास-मुद्रणलयः"
+"serial no." = "Ebharati-5910"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIwNDE3Mjk3NzMzNzY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रसचन्द्रिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDIwNDE3Mjk3NzMzNzY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3955,19 +3954,6 @@ Printed Published & sold by**
 (**१) चत्वरगृहिणी प्रियदर्शना च तरुणी च प्रोषितपतिका च ।  
  असतीसहचरी दुर्गता च न खलु खण्डितं शीलम् ॥**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

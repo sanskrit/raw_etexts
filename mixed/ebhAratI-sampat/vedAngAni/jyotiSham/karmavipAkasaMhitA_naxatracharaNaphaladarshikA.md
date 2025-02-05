@@ -1,16 +1,15 @@
 +++
-TITLE = "कर्मविपाकसंहिता (नक्षत्रचरणफलदर्शिका)"
-PUBLISHER = "राष्ट्रियसंस्कृतसंस्थानम् नवदेहली"
-"PUBLISH YEAR" = "२०१०"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "373"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "वस्तीरामः"
-PRINTER = "राष्ट्रियसंस्कृतसंस्थानम्"
-"SERIAL NO." = "Ebharati-1240"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgyMzA2MDQzNTMwOTEx&pageno=MjI0MjQyNjk5NTk="
 title = "कर्मविपाकसंहिता (नक्षत्रचरणफलदर्शिका)"
+publisher = "राष्ट्रियसंस्कृतसंस्थानम् नवदेहली"
+"publish year" = "२०१०"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "373"
+language = "संस्कृतम् हिन्दी"
+translator = "वस्तीरामः"
+printer = "राष्ट्रियसंस्कृतसंस्थानम्"
+"serial no." = "Ebharati-1240"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgyMzA2MDQzNTMwOTEx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कर्मविपाकसंहिता (नक्षत्रचरणफलदर्शिका)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDgyMzA2MDQzNTMwOTEx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -15575,8 +15574,5 @@ ISBN : 978-93-86111-67-8
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

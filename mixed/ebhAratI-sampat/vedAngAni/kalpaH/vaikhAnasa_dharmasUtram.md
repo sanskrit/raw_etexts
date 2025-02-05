@@ -1,13 +1,12 @@
 +++
-TITLE = "वैखानस धर्मसूत्रम्"
-"PUBLISH YEAR" = "13-09-2022"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "18"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2717"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc1MDY2MDk3MTI4MDYy&pageno=MjI0MjQyNjk5NTk="
 title = "वैखानस धर्मसूत्रम्"
+"publish year" = "13-09-2022"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "18"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2717"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc1MDY2MDk3MTI4MDYy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वैखानस धर्मसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDc1MDY2MDk3MTI4MDYy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -414,8 +413,5 @@ Formatted for Maharishi University of Management Vedic Literature Collection
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

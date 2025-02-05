@@ -1,18 +1,17 @@
 +++
-TITLE = "शुक्रनीतिसारः"
-AUTHOR = "शुक्राचार्यः"
-PUBLISHER = "क्षेमराज-श्रीकृष्णदासः"
-"PUBLISH YEAR" = "1895"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "263"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "मिहिरचन्द्रः"
-"COMMENTARY NAME" = "भाषाटीका"
-PRINTER = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6463"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgzMzc3NDE3MzI0MDI2&pageno=MjI0MjQyNjk5NTk="
 title = "शुक्रनीतिसारः"
+author = "शुक्राचार्यः"
+publisher = "क्षेमराज-श्रीकृष्णदासः"
+"publish year" = "1895"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "263"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "मिहिरचन्द्रः"
+"commentary name" = "भाषाटीका"
+printer = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-6463"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgzMzc3NDE3MzI0MDI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शुक्रनीतिसारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjgzMzc3NDE3MzI0MDI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -13526,19 +13525,6 @@ title = "शुक्रनीतिसारः"
 खेमराज श्रीकृष्णदास–  
 " श्रीवेङ्कटेश्वर " छापाखाना–मुंबई.**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

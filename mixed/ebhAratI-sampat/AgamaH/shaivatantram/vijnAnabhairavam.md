@@ -1,12 +1,11 @@
 +++
-TITLE = "विज्ञानभैरवम्"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4011"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ2NDUzODI5MDQwNTgz&pageno=MjI0MjQyNjk5NTk="
 title = "विज्ञानभैरवम्"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4011"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ2NDUzODI5MDQwNTgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विज्ञानभैरवम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ2NDUzODI5MDQwNTgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -535,19 +534,6 @@ title = "विज्ञानभैरवम्"
 इत्युक्त्वानन्दिता देवि क.ङ्थे लग्ना शिवस्य तु ॥ १६२ ॥
 
 ------------------------------------------------------------------------
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

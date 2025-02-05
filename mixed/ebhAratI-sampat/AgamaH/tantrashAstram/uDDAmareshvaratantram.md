@@ -1,15 +1,14 @@
 +++
-TITLE = "उड्डामरेश्वरतन्त्रम्"
-PUBLISHER = "जगद्धरजाडूशास्त्री"
-"PUBLISH YEAR" = "1947"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "115"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "निर्मल-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6055"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEyNTY4NzQyNzUyMTg1&pageno=MjI0MjQyNjk5NTk="
 title = "उड्डामरेश्वरतन्त्रम्"
+publisher = "जगद्धरजाडूशास्त्री"
+"publish year" = "1947"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "115"
+language = "संस्कृतम्"
+printer = "निर्मल-मुद्रणालयः"
+"serial no." = "Ebharati-6055"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEyNTY4NzQyNzUyMTg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[उड्डामरेश्वरतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDEyNTY4NzQyNzUyMTg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2467,8 +2466,5 @@ Dated Pahlgam
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

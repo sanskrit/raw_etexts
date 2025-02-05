@@ -1,17 +1,16 @@
 +++
-TITLE = "ब्रह्मतत्त्वप्रकाशिका"
-AUTHOR = "श्रीसदाशिवेन्द्रसरस्वती"
-PUBLISHER = "राजकीय-मुद्रणालयः"
-"PUBLISH YEAR" = "1909"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतदर्शनम्"
-PAGES = "196"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "त. गणपतिशास्त्री"
-PRINTER = "राजकीय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7634"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1OTQ2NDEzNTM4MjM3&pageno=MjI0MjQyNjk5NTk="
 title = "ब्रह्मतत्त्वप्रकाशिका"
+author = "श्रीसदाशिवेन्द्रसरस्वती"
+publisher = "राजकीय-मुद्रणालयः"
+"publish year" = "1909"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतदर्शनम्"
+pages = "196"
+language = "संस्कृतम्"
+editor = "त. गणपतिशास्त्री"
+printer = "राजकीय-मुद्रणालयः"
+"serial no." = "Ebharati-7634"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1OTQ2NDEzNTM4MjM3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ब्रह्मतत्त्वप्रकाशिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1OTQ2NDEzNTM4MjM3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4786,19 +4785,6 @@ T GAṆAPATI ŚĀSTRĪ.
 
 **——————**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,16 +1,15 @@
 +++
-TITLE = "भरतचरितम्"
-AUTHOR = "कृष्णकविः"
-"PUBLISH YEAR" = "1925"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "148"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "टि. गणपतिशास्त्री"
-PRINTER = "गवर्नमेण्ट्-प्रेस्"
-"SERIAL NO." = "Ebharati-5791"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA4NTY4OTMyNDE5NTU1&pageno=MjI0MjQyNjk5NTk="
 title = "भरतचरितम्"
+author = "कृष्णकविः"
+"publish year" = "1925"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "148"
+language = "संस्कृतम्"
+editor = "टि. गणपतिशास्त्री"
+printer = "गवर्नमेण्ट्-प्रेस्"
+"serial no." = "Ebharati-5791"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA4NTY4OTMyNDE5NTU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भरतचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjA4NTY4OTMyNDE5NTU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4239,19 +4238,6 @@ KRISHNACHARYA**
 
 **शुभंभूयात्।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

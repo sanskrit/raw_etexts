@@ -1,12 +1,11 @@
 +++
-TITLE = "निर्वाणमंजरी"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "दर्शनसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2578"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE5MzY5MjEzODc0NzQy&pageno=MjI0MjQyNjk5NTk="
 title = "निर्वाणमंजरी"
+domain = "दर्शनानि"
+sub-domain = "दर्शनसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2578"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE5MzY5MjEzODc0NzQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[निर्वाणमंजरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjE5MzY5MjEzODc0NzQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -77,8 +76,5 @@ title = "निर्वाणमंजरी"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

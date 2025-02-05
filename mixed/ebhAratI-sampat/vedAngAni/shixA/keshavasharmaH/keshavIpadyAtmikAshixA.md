@@ -1,13 +1,12 @@
 +++
-TITLE = "केशवीपद्यात्मिकाशिक्षा"
-AUTHOR = "केशवशर्मः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3549"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc2NTUzNDY2MDk2MDQz&pageno=MjI0MjQyNjk5NTk="
 title = "केशवीपद्यात्मिकाशिक्षा"
+author = "केशवशर्मः"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3549"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc2NTUzNDY2MDk2MDQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[केशवीपद्यात्मिकाशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODc2NTUzNDY2MDk2MDQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -63,8 +62,5 @@ keshavi_padyatmika_shiksha
   इति श्रिमदास्तिकमहर्षिवंशोद्भवज्ञगोकुलचन्द्रसुतदैवज्ञकेशवरामकृता- 
               कारिकावली सम्पूर्णा
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

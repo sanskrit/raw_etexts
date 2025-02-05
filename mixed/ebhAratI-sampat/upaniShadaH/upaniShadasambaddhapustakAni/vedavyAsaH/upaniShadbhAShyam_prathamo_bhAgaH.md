@@ -1,15 +1,14 @@
 +++
-TITLE = "उपनिषद्भाष्यम् (प्रथमो भागः)"
-AUTHOR = "वेदव्यासः"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-PAGES = "336"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "शङ्कराचार्यः"
-PRINTER = "श्रीवाणिविलासमुद्रणालयम् श्रीरङ्गम्"
-"SERIAL NO." = "Ebharati-8572"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgzMTQwMDk3OTc4MjI4&pageno=MjI0MjQyNjk5NTk="
 title = "उपनिषद्भाष्यम् (प्रथमो भागः)"
+author = "वेदव्यासः"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+pages = "336"
+language = "संस्कृतम्"
+"primary commentator" = "शङ्कराचार्यः"
+printer = "श्रीवाणिविलासमुद्रणालयम् श्रीरङ्गम्"
+"serial no." = "Ebharati-8572"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgzMTQwMDk3OTc4MjI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[उपनिषद्भाष्यम् (प्रथमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDgzMTQwMDk3OTc4MjI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3487,8 +3486,5 @@ SRIRANGAM
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

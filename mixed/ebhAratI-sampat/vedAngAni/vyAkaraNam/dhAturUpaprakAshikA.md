@@ -1,12 +1,11 @@
 +++
-TITLE = "धातुरूपप्रकाशिका"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3290"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgzODY1NzM2NzI4NTEz&pageno=MjI0MjQyNjk5NTk="
 title = "धातुरूपप्रकाशिका"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3290"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgzODY1NzM2NzI4NTEz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[धातुरूपप्रकाशिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDgzODY1NzM2NzI4NTEz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -14235,8 +14234,5 @@ title = "धातुरूपप्रकाशिका"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

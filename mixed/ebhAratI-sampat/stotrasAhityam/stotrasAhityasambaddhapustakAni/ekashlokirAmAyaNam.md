@@ -1,12 +1,11 @@
 +++
-TITLE = "एकश्लोकिरामायणम्"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2938"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM4NTMyMDY5NjMwMjgy&pageno=MjI0MjQyNjk5NTk="
 title = "एकश्लोकिरामायणम्"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2938"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM4NTMyMDY5NjMwMjgy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[एकश्लोकिरामायणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM4NTMyMDY5NjMwMjgy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -34,8 +33,5 @@ title = "एकश्लोकिरामायणम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,18 +1,17 @@
 +++
-TITLE = "चाणक्यसूत्राणि"
-AUTHOR = "कौटिल्यः"
-PUBLISHER = "वसन्त-श्रीपाद-सातवलेकरः"
-"PUBLISH YEAR" = "1946"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "691"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "रामवतार-विद्याभास्करः"
-"PRIMARY COMMENTATOR" = "रामवतार-विद्याभास्करः"
-PRINTER = "भारत-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6454"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg1MTk1ODQ3OTU1OTE2&pageno=MjI0MjQyNjk5NTk="
 title = "चाणक्यसूत्राणि"
+author = "कौटिल्यः"
+publisher = "वसन्त-श्रीपाद-सातवलेकरः"
+"publish year" = "1946"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "691"
+language = "संस्कृतम् हिन्दी"
+translator = "रामवतार-विद्याभास्करः"
+"primary commentator" = "रामवतार-विद्याभास्करः"
+printer = "भारत-मुद्रणालयः"
+"serial no." = "Ebharati-6454"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg1MTk1ODQ3OTU1OTE2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चाणक्यसूत्राणि	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODg1MTk1ODQ3OTU1OTE2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10853,19 +10852,6 @@ title = "चाणक्यसूत्राणि"
 
 ![](../books_images/U-IMG-1699304235Screenshot2023-11-07022702.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

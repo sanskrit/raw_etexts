@@ -1,14 +1,13 @@
 +++
-TITLE = "स्त्रोत्रादिसंग्रहः"
-"PUBLISH YEAR" = "1952"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "474"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "समर्थभारत-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7979"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU5NTY3&pageno=MjI0MjQyNjk5NTk="
 title = "स्त्रोत्रादिसंग्रहः"
+"publish year" = "1952"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "474"
+language = "संस्कृतम्"
+printer = "समर्थभारत-यन्त्रालयः"
+"serial no." = "Ebharati-7979"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU5NTY3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्त्रोत्रादिसंग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU5NTY3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -13608,8 +13607,5 @@ title = "स्त्रोत्रादिसंग्रहः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

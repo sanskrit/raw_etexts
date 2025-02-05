@@ -1,16 +1,15 @@
 +++
-TITLE = "संक्षिप्तवाल्मीकि-रामायणम्"
-PUBLISHER = "रामचन्दगोविन्द-एण्ड-सन्स्"
-"PUBLISH YEAR" = "1914"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "364"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "चिन्तामणविनायकवैद्यः"
-PRINTER = "कर्नाटक-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6145"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxMzg2OTA5Njk4OTg1&pageno=MjI0MjQyNjk5NTk="
 title = "संक्षिप्तवाल्मीकि-रामायणम्"
+publisher = "रामचन्दगोविन्द-एण्ड-सन्स्"
+"publish year" = "1914"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "364"
+language = "संस्कृतम्"
+editor = "चिन्तामणविनायकवैद्यः"
+printer = "कर्नाटक-मुद्रणालयः"
+"serial no." = "Ebharati-6145"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxMzg2OTA5Njk4OTg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संक्षिप्तवाल्मीकि-रामायणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDkxMzg2OTA5Njk4OTg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11070,8 +11069,5 @@ Kalbadevi Road, Bombay
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

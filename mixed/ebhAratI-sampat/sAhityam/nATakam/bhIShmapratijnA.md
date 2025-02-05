@@ -1,11 +1,10 @@
 +++
-TITLE = "भीष्मप्रतिज्ञा"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2813"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjgwMzM5OTI0NzMwMDcy"
 title = "भीष्मप्रतिज्ञा"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2813"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjgwMzM5OTI0NzMwMDcy"
 
 +++
 [[भीष्मप्रतिज्ञा	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjgwMzM5OTI0NzMwMDcy)]]

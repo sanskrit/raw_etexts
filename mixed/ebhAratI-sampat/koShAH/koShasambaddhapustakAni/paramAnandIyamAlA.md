@@ -1,11 +1,10 @@
 +++
-TITLE = "परमानन्दीयमाला"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "कोषसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-3079"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMzNzE0MDM0Mjc1NTky&pageno=MjI0MjQyNjk5NTk="
 title = "परमानन्दीयमाला"
+domain = "कोषाः"
+sub-domain = "कोषसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-3079"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMzNzE0MDM0Mjc1NTky&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[परमानन्दीयमाला	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODMzNzE0MDM0Mjc1NTky&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5119,8 +5118,5 @@ title = "परमानन्दीयमाला"
 इति परमान्दी नाममाला संपूर्णा ॥  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

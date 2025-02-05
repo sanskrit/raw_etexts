@@ -1,15 +1,14 @@
 +++
-TITLE = "नीतिप्रकाशिका"
-"PUBLISH YEAR" = "1882"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "101"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गुस्ताव-ओप्पर्ट्"
-PRINTER = "ई. कीज-गवर्मेण्ट-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5226"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjczNzk4MjYzNjc2MTA1&pageno=MjI0MjQyNjk5NTk="
 title = "नीतिप्रकाशिका"
+"publish year" = "1882"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "101"
+language = "संस्कृतम्"
+editor = "गुस्ताव-ओप्पर्ट्"
+printer = "ई. कीज-गवर्मेण्ट-यन्त्रालयः"
+"serial no." = "Ebharati-5226"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjczNzk4MjYzNjc2MTA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नीतिप्रकाशिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjczNzk4MjYzNjc2MTA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2486,8 +2485,5 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

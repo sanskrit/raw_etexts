@@ -1,13 +1,12 @@
 +++
-TITLE = "वैयाकरणभूषणसारः-काशिकाटीका"
-AUTHOR = "श्रीहरिभट्टः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3619"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODEyNTIzMTA0MDE0NzQz"
 title = "वैयाकरणभूषणसारः-काशिकाटीका"
+author = "श्रीहरिभट्टः"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3619"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODEyNTIzMTA0MDE0NzQz"
 
 +++
 [[वैयाकरणभूषणसारः-काशिकाटीका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODEyNTIzMTA0MDE0NzQz)]]

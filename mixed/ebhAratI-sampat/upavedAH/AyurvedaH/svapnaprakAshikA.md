@@ -1,18 +1,17 @@
 +++
-TITLE = "स्वप्नप्रकाशिका"
-PUBLISHER = "गङ्गाविष्णुः"
-"PUBLISH YEAR" = "1920"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "41"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "तनयदत्तरामः"
-"PRIMARY COMMENTATOR" = "तनयदत्तरामः"
-"COMMENTARY NAME" = "भाषाटीका"
-PRINTER = "लक्ष्मीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-4694"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4ODI5MTYzNjA2MDU0&pageno=MjI0MjQyNjk5NTk="
 title = "स्वप्नप्रकाशिका"
+publisher = "गङ्गाविष्णुः"
+"publish year" = "1920"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "41"
+language = "संस्कृतम्"
+editor = "तनयदत्तरामः"
+"primary commentator" = "तनयदत्तरामः"
+"commentary name" = "भाषाटीका"
+printer = "लक्ष्मीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-4694"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4ODI5MTYzNjA2MDU0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्वप्नप्रकाशिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY4ODI5MTYzNjA2MDU0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1014,8 +1013,5 @@ title = "स्वप्नप्रकाशिका"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

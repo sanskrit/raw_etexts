@@ -1,12 +1,11 @@
 +++
-TITLE = "चारायणशिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3518"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk1MDQ4MDg3NDE3NzMz&pageno=MjI0MjQyNjk5NTk="
 title = "चारायणशिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3518"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk1MDQ4MDg3NDE3NzMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चारायणशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk1MDQ4MDg3NDE3NzMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -766,8 +765,5 @@ carayaniya_shiksha
 अस्यार्थं बुद्ध्यते यो वै ब्रह्मलोकं स गच्छति ४४  
        इति चारायणीयशिक्षायां दशमोऽध्यायः
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

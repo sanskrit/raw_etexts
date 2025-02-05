@@ -1,17 +1,16 @@
 +++
-TITLE = "श्रीभागवद्भक्तिरसायनम्"
-AUTHOR = "मधुसूदनसरस्वती"
-PUBLISHER = "माधवविष्णुपराड़कर्"
-"PUBLISH YEAR" = "1927"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "182"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "स्वामी-दामोदर-शास्त्री"
-PRINTER = "ज्ञान-मण्डल-मुद्रााणालयः-काशी"
-"SERIAL NO." = "Ebharati-6790"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgzNTQwNjg0NDE4MTU2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीभागवद्भक्तिरसायनम्"
+author = "मधुसूदनसरस्वती"
+publisher = "माधवविष्णुपराड़कर्"
+"publish year" = "1927"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "182"
+language = "संस्कृतम्"
+editor = "स्वामी-दामोदर-शास्त्री"
+printer = "ज्ञान-मण्डल-मुद्रााणालयः-काशी"
+"serial no." = "Ebharati-6790"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgzNTQwNjg0NDE4MTU2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीभागवद्भक्तिरसायनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDgzNTQwNjg0NDE4MTU2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5076,19 +5075,6 @@ title = "श्रीभागवद्भक्तिरसायनम्"
 
 **इति।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

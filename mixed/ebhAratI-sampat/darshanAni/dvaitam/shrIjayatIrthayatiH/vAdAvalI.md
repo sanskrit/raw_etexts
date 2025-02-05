@@ -1,12 +1,11 @@
 +++
-TITLE = "वादावली"
-AUTHOR = "श्रीजयतीर्थयतिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-3530"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY2OTQ3NTM3NjY4ODMz"
 title = "वादावली"
+author = "श्रीजयतीर्थयतिः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-3530"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY2OTQ3NTM3NjY4ODMz"
 
 +++
 [[वादावली	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDY2OTQ3NTM3NjY4ODMz)]]

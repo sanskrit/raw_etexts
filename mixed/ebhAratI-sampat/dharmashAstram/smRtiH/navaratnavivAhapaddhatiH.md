@@ -1,16 +1,15 @@
 +++
-TITLE = "नवरत्नविवाहपद्धतिः"
-PUBLISHER = "गंगाविष्णुः-खेमराजगुप्तः"
-"PUBLISH YEAR" = "1892"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "265"
-LANGUAGE = "संस्कृतम् हिन्दी"
-EDITOR = "विष्णुदत्तशर्मा"
-PRINTER = "श्रीवेंकटेश्वर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5194"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA2ODk0&pageno=MjI0MjQyNjk5NTk="
 title = "नवरत्नविवाहपद्धतिः"
+publisher = "गंगाविष्णुः-खेमराजगुप्तः"
+"publish year" = "1892"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "265"
+language = "संस्कृतम् हिन्दी"
+editor = "विष्णुदत्तशर्मा"
+printer = "श्रीवेंकटेश्वर-यन्त्रालयः"
+"serial no." = "Ebharati-5194"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA2ODk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नवरत्नविवाहपद्धतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA2ODk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4182,8 +4181,5 @@ title = "नवरत्नविवाहपद्धतिः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

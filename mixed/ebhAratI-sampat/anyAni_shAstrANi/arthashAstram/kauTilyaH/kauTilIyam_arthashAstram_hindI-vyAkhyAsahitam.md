@@ -1,18 +1,17 @@
 +++
-TITLE = "कौटिलीयम् अर्थशास्त्रम् (हिन्दी-व्याख्यासहितम्)"
-AUTHOR = "कौटिल्यः"
-PUBLISHER = "चौखाम्बा-विद्याभवनम्"
-"PUBLISH YEAR" = "१९८४"
-DOMAIN = "अन्यानि शास्त्राणि"
-SUB-DOMAIN = "अर्थशास्त्रम्"
-PAGES = "902"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "वाचस्पति-गैरोला"
-"COMMENTARY NAME" = "हिन्दी-व्याख्या"
-PRINTER = "श्रीजी-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-3365"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMwMDU3NTUzNzIwMzIz&pageno=MjI0MjQyNjk5NTk="
 title = "कौटिलीयम् अर्थशास्त्रम् (हिन्दी-व्याख्यासहितम्)"
+author = "कौटिल्यः"
+publisher = "चौखाम्बा-विद्याभवनम्"
+"publish year" = "१९८४"
+domain = "अन्यानि शास्त्राणि"
+sub-domain = "अर्थशास्त्रम्"
+pages = "902"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "वाचस्पति-गैरोला"
+"commentary name" = "हिन्दी-व्याख्या"
+printer = "श्रीजी-मुद्रणालयः"
+"serial no." = "Ebharati-3365"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMwMDU3NTUzNzIwMzIz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कौटिलीयम् अर्थशास्त्रम् (हिन्दी-व्याख्यासहितम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDMwMDU3NTUzNzIwMzIz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -19130,8 +19129,5 @@ K. 37/117, Gopal Mandir Lane
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,15 +1,14 @@
 +++
-TITLE = "रसमञ्जरी"
-AUTHOR = "भानुदत्तमिश्रः"
-PUBLISHER = "श्रीहरिकृष्णनिबन्धभवनम्"
-"PUBLISH YEAR" = "1951"
-DOMAIN = "कला"
-SUB-DOMAIN = "नाट्यम्"
-PAGES = "371"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8872"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg5NzY3MjY2ODc2MTU4&pageno=MjI0MjQyNjk5NTk="
 title = "रसमञ्जरी"
+author = "भानुदत्तमिश्रः"
+publisher = "श्रीहरिकृष्णनिबन्धभवनम्"
+"publish year" = "1951"
+domain = "कला"
+sub-domain = "नाट्यम्"
+pages = "371"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8872"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg5NzY3MjY2ODc2MTU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रसमञ्जरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDg5NzY3MjY2ODc2MTU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7674,19 +7673,6 @@ title = "रसमञ्जरी"
 
   व्याख्याकार के इस स्तुत्य एवं सफल प्रयास द्वारा छात्रों एवं अध्यापकों का समानरूप से हित होगा ऐसी आशा हैं।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

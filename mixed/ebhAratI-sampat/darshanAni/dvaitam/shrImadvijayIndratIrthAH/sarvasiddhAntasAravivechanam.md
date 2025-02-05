@@ -1,13 +1,12 @@
 +++
-TITLE = "सर्वसिद्धान्तसारविवेचनम्"
-AUTHOR = "श्रीमद्विजयीन्द्रतीर्थाः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3101"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjI2MDU3NzQzNDg2Nzky"
 title = "सर्वसिद्धान्तसारविवेचनम्"
+author = "श्रीमद्विजयीन्द्रतीर्थाः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3101"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjI2MDU3NzQzNDg2Nzky"
 
 +++
 [[सर्वसिद्धान्तसारविवेचनम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjI2MDU3NzQzNDg2Nzky)]]

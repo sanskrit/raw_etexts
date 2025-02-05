@@ -1,13 +1,12 @@
 +++
-TITLE = "सुभाषितावलिः"
-AUTHOR = "वल्लभदेवः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "मिश्रितम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4127"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk1NTc0Mjk0NjcxNjkz&pageno=MjI0MjQyNjk5NTk="
 title = "सुभाषितावलिः"
+author = "वल्लभदेवः"
+domain = "सुभाषितानि"
+sub-domain = "मिश्रितम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4127"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk1NTc0Mjk0NjcxNjkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुभाषितावलिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk1NTc0Mjk0NjcxNjkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6719,19 +6718,6 @@ title = "सुभाषितावलिः"
 
 
 **---------------------------------------------------------**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

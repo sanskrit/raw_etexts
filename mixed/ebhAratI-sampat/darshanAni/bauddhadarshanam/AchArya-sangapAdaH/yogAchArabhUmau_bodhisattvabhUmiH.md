@@ -1,13 +1,12 @@
 +++
-TITLE = "योगाचारभूमौ बोधिसत्त्वभूमिः"
-AUTHOR = "आचार्य-सङ्गपादः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3690"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDgxNzM1NDMxNjIyNDUz"
 title = "योगाचारभूमौ बोधिसत्त्वभूमिः"
+author = "आचार्य-सङ्गपादः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3690"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDgxNzM1NDMxNjIyNDUz"
 
 +++
 [[योगाचारभूमौ बोधिसत्त्वभूमिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDgxNzM1NDMxNjIyNDUz)]]

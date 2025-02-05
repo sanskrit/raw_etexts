@@ -1,11 +1,10 @@
 +++
-TITLE = "लक्ष्मीतन्त्रम्"
-AUTHOR = "कृष्णमाचार्यः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "आगमसम्बद्धपुस्तकानि"
-"SERIAL NO." = "Ebharati-437"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDE0ODM5NzUzMDU5MTQ="
 title = "लक्ष्मीतन्त्रम्"
+author = "कृष्णमाचार्यः"
+domain = "आगमः"
+sub-domain = "आगमसम्बद्धपुस्तकानि"
+"serial no." = "Ebharati-437"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDE0ODM5NzUzMDU5MTQ="
 
 +++
 [[लक्ष्मीतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDE0ODM5NzUzMDU5MTQ=)]]

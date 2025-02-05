@@ -1,17 +1,16 @@
 +++
-TITLE = "मुद्राराक्षसम्"
-AUTHOR = "विशाखदत्तः"
-PUBLISHER = "एन्.के. गान्धिः"
-"PUBLISH YEAR" = "1948"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "494"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-EDITOR = "आर्. आर्. देशपण्डे"
-PRINTER = "आर्यसंस्कृति-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5492"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI2MTgzMzYzMTEyNzI1&pageno=MjI0MjQyNjk5NTk="
 title = "मुद्राराक्षसम्"
+author = "विशाखदत्तः"
+publisher = "एन्.के. गान्धिः"
+"publish year" = "1948"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "494"
+language = "संस्कृतम् आङ्ग्लम्"
+editor = "आर्. आर्. देशपण्डे"
+printer = "आर्यसंस्कृति-मुद्रणालयः"
+"serial no." = "Ebharati-5492"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI2MTgzMzYzMTEyNzI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मुद्राराक्षसम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDI2MTgzMzYzMTEyNzI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8865,19 +8864,6 @@ high-sould Rāksasa who caused an amount of trouble both to Visala's army my min
 
       At this juncture, there enters Candragupta along with his retinue. He is full of shame as his preceptor has conquered the enemy's army—‘not easily vanquished’— even without giving it a battle. With so vigilant a person as Cānakya at the helm of affairs, he next admits, rulers like him even though sleeping are sure to be able to conquer all who ought to be conquered. Candragupta draws near Cāṇakya and salutes him. Cāṇakya says to him that at his, (Candragupta's) desires are now fulfilled as Minister Rāksasa has arrived and that he should therefore salute that chief of the ministers Rāksasa understands the implication and in a swagata says,‘here has he already brought about a relation between us. Candragupta goes near Rāksasa and salutes him with the words ‘noble one, Candragupta salutes you’ Rāksasa looks at Candragupta and recalls to his mind how even when a boy Candragupta was quite promising,
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

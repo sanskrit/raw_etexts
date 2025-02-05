@@ -1,17 +1,16 @@
 +++
-TITLE = "कर्णभूषणम्"
-AUTHOR = "गङ्गानन्दः"
-PUBLISHER = "पाण्डुरङ्गजावजी"
-"PUBLISH YEAR" = "1926"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "साहित्येतिहासः"
-PAGES = "71"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "भवदत्तशर्मा काशीनाथशर्मा"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5928"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE2NzcwNTI3NTYwOTY1&pageno=MjI0MjQyNjk5NTk="
 title = "कर्णभूषणम्"
+author = "गङ्गानन्दः"
+publisher = "पाण्डुरङ्गजावजी"
+"publish year" = "1926"
+domain = "साहित्यम्"
+sub-domain = "साहित्येतिहासः"
+pages = "71"
+language = "संस्कृतम्"
+editor = "भवदत्तशर्मा काशीनाथशर्मा"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-5928"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE2NzcwNTI3NTYwOTY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कर्णभूषणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjE2NzcwNTI3NTYwOTY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2591,19 +2590,6 @@ title = "कर्णभूषणम्"
 कर्णभूषणे रसनिरूपणो नामपञ्चमः परिच्छेदः।  
 **समाप्तं चैतत्कर्णभूषणम्।  
 **———————**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

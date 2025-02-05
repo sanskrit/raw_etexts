@@ -1,15 +1,14 @@
 +++
-TITLE = "कारिकावली-न्यायमुक्तावलीसंवलिता"
-AUTHOR = "विश्वनाथन्यायपञ्चाननभट्टाचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"PRIMARY COMMENTATOR" = "विद्यानिवासभट्टाचार्य"
-"COMMENTARY NAME" = "सिद्धान्तमुक्तावली"
-"SERIAL NO." = "Ebharati-3638"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMyMTM5OTIzNDMyOTQz&pageno=MjI0MjQyNjk5NTk="
 title = "कारिकावली-न्यायमुक्तावलीसंवलिता"
+author = "विश्वनाथन्यायपञ्चाननभट्टाचार्यः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"primary commentator" = "विद्यानिवासभट्टाचार्य"
+"commentary name" = "सिद्धान्तमुक्तावली"
+"serial no." = "Ebharati-3638"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMyMTM5OTIzNDMyOTQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कारिकावली-न्यायमुक्तावलीसंवलिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjMyMTM5OTIzNDMyOTQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2432,19 +2431,6 @@ text 276
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

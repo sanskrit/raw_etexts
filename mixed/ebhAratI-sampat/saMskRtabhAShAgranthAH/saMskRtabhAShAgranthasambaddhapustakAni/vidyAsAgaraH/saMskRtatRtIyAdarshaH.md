@@ -1,16 +1,15 @@
 +++
-TITLE = "संस्कृततृतीयादर्शः"
-AUTHOR = "विद्यासागरः"
-PUBLISHER = "आर्.एस.वाध्यार एण्ड सन्स"
-"PUBLISH YEAR" = "1947"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "154"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "स्काॅलर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6985"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc2NzEzMzU3MzM1MDc2&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृततृतीयादर्शः"
+author = "विद्यासागरः"
+publisher = "आर्.एस.वाध्यार एण्ड सन्स"
+"publish year" = "1947"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "154"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "स्काॅलर-यन्त्रालयः"
+"serial no." = "Ebharati-6985"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc2NzEzMzU3MzM1MDc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृततृतीयादर्शः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc2NzEzMzU3MzM1MDc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3945,19 +3944,6 @@ Participle **कर्मणि शानच्**
 
 **-------------------------------**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

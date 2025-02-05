@@ -1,15 +1,14 @@
 +++
-TITLE = "धर्म-व्यतिक्रम-विलापः"
-AUTHOR = "टी. एस्. नारायणशास्त्री"
-"PUBLISH YEAR" = "1916"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "16"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीशिवरहस्य-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5166"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMjUzODg1NjE5NTk0&pageno=MjI0MjQyNjk5NTk="
 title = "धर्म-व्यतिक्रम-विलापः"
+author = "टी. एस्. नारायणशास्त्री"
+"publish year" = "1916"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "16"
+language = "संस्कृतम्"
+printer = "श्रीशिवरहस्य-यन्त्रालयः"
+"serial no." = "Ebharati-5166"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMjUzODg1NjE5NTk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[धर्म-व्यतिक्रम-विलापः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMjUzODg1NjE5NTk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -255,19 +254,6 @@ title = "धर्म-व्यतिक्रम-विलापः"
 
 [TABLE]
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

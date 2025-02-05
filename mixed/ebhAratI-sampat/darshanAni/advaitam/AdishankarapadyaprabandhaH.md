@@ -1,12 +1,11 @@
 +++
-TITLE = "आदिशङ्करपद्यप्रबन्धः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "75"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2110"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI0MDE1MTcwMjU1MjAy&pageno=MjI0MjQyNjk5NTk="
 title = "आदिशङ्करपद्यप्रबन्धः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "75"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2110"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI0MDE1MTcwMjU1MjAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आदिशङ्करपद्यप्रबन्धः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDI0MDE1MTcwMjU1MjAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2940,8 +2939,5 @@ Chapter 17 (1-88)
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

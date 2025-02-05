@@ -1,12 +1,11 @@
 +++
-TITLE = "फलदीपिका"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "98"
-LANGUAGE = "SANSKRIT"
-"SERIAL NO." = "Ebharati-4947"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk4NDc0&pageno=MjI0MjQyNjk5NTk="
 title = "फलदीपिका"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "98"
+language = "SANSKRIT"
+"serial no." = "Ebharati-4947"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk4NDc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[फलदीपिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk4NDc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6201,8 +6200,5 @@ title = "फलदीपिका"
 
 ----------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

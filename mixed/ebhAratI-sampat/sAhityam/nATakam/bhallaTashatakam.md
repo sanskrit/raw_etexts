@@ -1,12 +1,11 @@
 +++
-TITLE = "भल्लटशतकम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2935"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc1ODA1MTc5ODQ3MTgy&pageno=MjI0MjQyNjk5NTk="
 title = "भल्लटशतकम्"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2935"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc1ODA1MTc5ODQ3MTgy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भल्लटशतकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc1ODA1MTc5ODQ3MTgy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -824,8 +823,5 @@ S
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

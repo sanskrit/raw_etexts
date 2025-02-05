@@ -1,19 +1,18 @@
 +++
-TITLE = "लक्षणावली"
-AUTHOR = "उदयनाचार्यः"
-PUBLISHER = "मिथिलाविद्यापीठम्"
-"PUBLISH YEAR" = "१९६३"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-PAGES = "40"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शशिनाथझाशर्मा"
-"PRIMARY COMMENTATOR" = "केशवभट्टः"
-"COMMENTARY NAME" = "व्याख्या"
-PRINTER = "तारा-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1764"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA0MjM2MTczNzMzOTYx&pageno=MjI0MjQyNjk5NTk="
 title = "लक्षणावली"
+author = "उदयनाचार्यः"
+publisher = "मिथिलाविद्यापीठम्"
+"publish year" = "१९६३"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+pages = "40"
+language = "संस्कृतम्"
+editor = "शशिनाथझाशर्मा"
+"primary commentator" = "केशवभट्टः"
+"commentary name" = "व्याख्या"
+printer = "तारा-मुद्रणालयः"
+"serial no." = "Ebharati-1764"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA0MjM2MTczNzMzOTYx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लक्षणावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODA0MjM2MTczNzMzOTYx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -307,8 +306,5 @@ Ha।
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

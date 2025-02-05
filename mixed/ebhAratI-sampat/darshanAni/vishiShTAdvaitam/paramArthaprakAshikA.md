@@ -1,12 +1,11 @@
 +++
-TITLE = "परमार्थप्रकाशिका"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "विशिष्टाद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4186"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0ODc3MDcyMDQ4MTA0&pageno=MjI0MjQyNjk5NTk="
 title = "परमार्थप्रकाशिका"
+domain = "दर्शनानि"
+sub-domain = "विशिष्टाद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4186"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0ODc3MDcyMDQ4MTA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[परमार्थप्रकाशिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0ODc3MDcyMDQ4MTA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -486,8 +485,5 @@ title = "परमार्थप्रकाशिका"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,12 +1,11 @@
 +++
-TITLE = "शाङ्खायनारण्यकम्"
-DOMAIN = "वेदः"
-SUB-DOMAIN = "ऋग्वेदः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4359"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODk0NzE3MDI2NzQ0ODE0"
 title = "शाङ्खायनारण्यकम्"
+domain = "वेदः"
+sub-domain = "ऋग्वेदः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4359"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODk0NzE3MDI2NzQ0ODE0"
 
 +++
 [[शाङ्खायनारण्यकम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODk0NzE3MDI2NzQ0ODE0)]]

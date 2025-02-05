@@ -1,12 +1,11 @@
 +++
-TITLE = "दृग्दृश्यविवेकः"
-AUTHOR = "भारती तीर्थ स्वामिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2568"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk2OTM1MDUzODE1NjQy&pageno=MjI0MjQyNjk5NTk="
 title = "दृग्दृश्यविवेकः"
+author = "भारती तीर्थ स्वामिः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2568"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk2OTM1MDUzODE1NjQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दृग्दृश्यविवेकः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk2OTM1MDUzODE1NjQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -221,19 +220,6 @@ title = "दृग्दृश्यविवेकः"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

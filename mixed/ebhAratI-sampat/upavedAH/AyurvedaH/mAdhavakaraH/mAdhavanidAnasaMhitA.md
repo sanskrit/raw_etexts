@@ -1,13 +1,12 @@
 +++
-TITLE = "माधवनिदानसंहिता"
-AUTHOR = "माधवकरः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2596"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE1NzIzNTQyNjAyOTQy&pageno=MjI0MjQyNjk5NTk="
 title = "माधवनिदानसंहिता"
+author = "माधवकरः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2596"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE1NzIzNTQyNjAyOTQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[माधवनिदानसंहिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE1NzIzNTQyNjAyOTQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3374,19 +3373,6 @@ Mādhav Nidān Saṁhitā
 MŒdhava NidŒna, by MŒdhavŒchŒrya, edited by Vaidya Yadav ji Trikam ji ÌchŒrya, 1977 edition.  
 Typed by Om Prakash Sharma, B.A., and proofread by Maya Nand Sastri, Ved Vyakaranacharya.
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

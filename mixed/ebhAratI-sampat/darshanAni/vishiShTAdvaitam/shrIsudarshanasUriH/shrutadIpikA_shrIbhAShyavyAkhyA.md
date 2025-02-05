@@ -1,13 +1,12 @@
 +++
-TITLE = "श्रुतदीपिका श्रीभाष्यव्याख्या"
-AUTHOR = "श्रीसुदर्शनसूरिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "विशिष्टाद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4216"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjUxMTUwODUxMDI3NDA0"
 title = "श्रुतदीपिका श्रीभाष्यव्याख्या"
+author = "श्रीसुदर्शनसूरिः"
+domain = "दर्शनानि"
+sub-domain = "विशिष्टाद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4216"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjUxMTUwODUxMDI3NDA0"
 
 +++
 [[श्रुतदीपिका श्रीभाष्यव्याख्या	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjUxMTUwODUxMDI3NDA0)]]

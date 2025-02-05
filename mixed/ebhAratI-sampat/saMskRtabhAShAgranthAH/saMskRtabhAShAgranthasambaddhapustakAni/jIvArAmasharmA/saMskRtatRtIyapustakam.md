@@ -1,16 +1,15 @@
 +++
-TITLE = "संस्कृततृतीयपुस्तकम्"
-AUTHOR = "जीवारामशर्मा"
-PUBLISHER = "जीवारामशर्मा"
-"PUBLISH YEAR" = "1910"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "88"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "लक्ष्मीनारायण-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6989"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUzNzgyODM3NzE5MDc2&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृततृतीयपुस्तकम्"
+author = "जीवारामशर्मा"
+publisher = "जीवारामशर्मा"
+"publish year" = "1910"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "88"
+language = "संस्कृतम् हिन्दी"
+printer = "लक्ष्मीनारायण-मुद्रणालयः"
+"serial no." = "Ebharati-6989"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUzNzgyODM3NzE5MDc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृततृतीयपुस्तकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODUzNzgyODM3NzE5MDc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1194,19 +1193,6 @@ title = "संस्कृततृतीयपुस्तकम्"
 **
   प० जीवारामा****र्यः - मुरादाबाद.**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

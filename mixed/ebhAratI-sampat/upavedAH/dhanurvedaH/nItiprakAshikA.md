@@ -1,12 +1,11 @@
 +++
-TITLE = "नीतिप्रकाशिका"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "धनुर्वेदः"
-PAGES = "44"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4704"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwMzUzNDIzNjY1MTU0&pageno=MjI0MjQyNjk5NTk="
 title = "नीतिप्रकाशिका"
+domain = "उपवेदाः"
+sub-domain = "धनुर्वेदः"
+pages = "44"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4704"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwMzUzNDIzNjY1MTU0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नीतिप्रकाशिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODgwMzUzNDIzNjY1MTU0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2272,8 +2271,5 @@ title = "नीतिप्रकाशिका"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

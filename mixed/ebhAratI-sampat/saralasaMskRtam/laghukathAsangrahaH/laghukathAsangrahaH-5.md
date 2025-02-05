@@ -1,12 +1,11 @@
 +++
-TITLE = "लघुकथासङ्ग्रहः-५"
-DOMAIN = "सरलसंस्कृतम्"
-SUB-DOMAIN = "लघुकथासङ्ग्रहः"
-PAGES = "86"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8295"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk0MDk4MDM4ODgyNjk3&pageno=MjI0MjQyNjk5NTk="
 title = "लघुकथासङ्ग्रहः-५"
+domain = "सरलसंस्कृतम्"
+sub-domain = "लघुकथासङ्ग्रहः"
+pages = "86"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8295"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk0MDk4MDM4ODgyNjk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लघुकथासङ्ग्रहः-५	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDk0MDk4MDM4ODgyNjk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1279,8 +1278,5 @@ title = "लघुकथासङ्ग्रहः-५"
 
 ** एतादृशं हालकं गतदिने अहं वृथा निन्दितवान् इति चैतन्यः दुःखितः अभवत्। सः हालकं प्रीत्या पश्यन्– 'यथाकथञ्चित् मुक्ताहारेण भवतः मम च कल्याणमेव अभवत्। भवतः सम्पत्तिलाभेन मम महान् सन्तोषः जातः। भवतः वाणिज्ये यत् किमपि साहाय्यम् अपेक्षितं भवति चेत्, विना सङ्कोचं मां पृच्छतु' इति उक्तवान्।**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

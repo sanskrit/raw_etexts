@@ -1,12 +1,11 @@
 +++
-TITLE = "शतपथब्राह्मणम्"
-DOMAIN = "वेदः"
-SUB-DOMAIN = "यजुर्वेदः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4369"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODE3MTQxMzg1NzA0OTE0"
 title = "शतपथब्राह्मणम्"
+domain = "वेदः"
+sub-domain = "यजुर्वेदः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4369"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODE3MTQxMzg1NzA0OTE0"
 
 +++
 [[शतपथब्राह्मणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODE3MTQxMzg1NzA0OTE0)]]

@@ -1,13 +1,12 @@
 +++
-TITLE = "पिण्डीक्रमसाधनम्"
-AUTHOR = "नागार्जुनपादः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3759"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyNDYyNTc4OTQ4MDYz&pageno=MjI0MjQyNjk5NTk="
 title = "पिण्डीक्रमसाधनम्"
+author = "नागार्जुनपादः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3759"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyNDYyNTc4OTQ4MDYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पिण्डीक्रमसाधनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODkyNDYyNTc4OTQ4MDYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -522,8 +521,5 @@ title = "पिण्डीक्रमसाधनम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

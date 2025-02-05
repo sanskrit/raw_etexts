@@ -1,13 +1,12 @@
 +++
-TITLE = "शब्दशक्तिप्रकाशिकाटीका कृष्णकान्तटीका"
-AUTHOR = "कृष्णकान्तविद्यावागीशः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4037"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDE2NzU2MDM4NjM1Nzgz"
 title = "शब्दशक्तिप्रकाशिकाटीका कृष्णकान्तटीका"
+author = "कृष्णकान्तविद्यावागीशः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4037"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDE2NzU2MDM4NjM1Nzgz"
 
 +++
 [[शब्दशक्तिप्रकाशिकाटीका कृष्णकान्तटीका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDE2NzU2MDM4NjM1Nzgz)]]

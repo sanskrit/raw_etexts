@@ -1,15 +1,14 @@
 +++
-TITLE = "अभिनयाङ्कुरम्"
-AUTHOR = "गोपिनथः नागभुषणः"
-"PUBLISH YEAR" = "१९४६"
-DOMAIN = "कला"
-SUB-DOMAIN = "नाट्यम्"
-PAGES = "72"
-LANGUAGE = "संस्कृतम्/आङ्ग्लम्"
-PRINTER = "नटननिकेतन-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-4649"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc4OTEwMTM1NjgyNjQ0&pageno=MjI0MjQyNjk5NTk="
 title = "अभिनयाङ्कुरम्"
+author = "गोपिनथः नागभुषणः"
+"publish year" = "१९४६"
+domain = "कला"
+sub-domain = "नाट्यम्"
+pages = "72"
+language = "संस्कृतम्/आङ्ग्लम्"
+printer = "नटननिकेतन-मुद्रणालयः"
+"serial no." = "Ebharati-4649"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc4OTEwMTM1NjgyNjQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अभिनयाङ्कुरम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODc4OTEwMTM1NjgyNjQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -597,8 +596,5 @@ NATANA NIKETAN PUBLICATION
 
 ----------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

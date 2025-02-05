@@ -1,16 +1,15 @@
 +++
-TITLE = "न्यायबोधिनी नीलकण्ठीय विषयमाला"
-PUBLISHER = "कामाक्षी अम्मा"
-"PUBLISH YEAR" = "१९१२"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-PAGES = "91"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "कामाक्षी"
-PRINTER = "श्रीविद्या-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1795"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk0NzQxNTUyMzEzMjcx&pageno=MjI0MjQyNjk5NTk="
 title = "न्यायबोधिनी नीलकण्ठीय विषयमाला"
+publisher = "कामाक्षी अम्मा"
+"publish year" = "१९१२"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+pages = "91"
+language = "संस्कृतम्"
+editor = "कामाक्षी"
+printer = "श्रीविद्या-मुद्रणालयः"
+"serial no." = "Ebharati-1795"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk0NzQxNTUyMzEzMjcx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[न्यायबोधिनी नीलकण्ठीय विषयमाला	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDk0NzQxNTUyMzEzMjcx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -449,8 +448,5 @@ Mala
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

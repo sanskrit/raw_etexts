@@ -1,14 +1,13 @@
 +++
-TITLE = "कुमारसम्भवम्-संजीविनी"
-AUTHOR = "कालिदासः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"PRIMARY COMMENTATOR" = "श्रीसीतारामकविः"
-"COMMENTARY NAME" = "संजीविनी"
-"SERIAL NO." = "Ebharati-3018"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njk1OTI2OTU2NjE3OTgy"
 title = "कुमारसम्भवम्-संजीविनी"
+author = "कालिदासः"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"primary commentator" = "श्रीसीतारामकविः"
+"commentary name" = "संजीविनी"
+"serial no." = "Ebharati-3018"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njk1OTI2OTU2NjE3OTgy"
 
 +++
 [[कुमारसम्भवम्-संजीविनी	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=Njk1OTI2OTU2NjE3OTgy)]]

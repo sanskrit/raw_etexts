@@ -1,11 +1,10 @@
 +++
-TITLE = "श्रावणम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2860"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI5NjIzMzUyOTQ1NDcy"
 title = "श्रावणम्"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2860"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI5NjIzMzUyOTQ1NDcy"
 
 +++
 [[श्रावणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDI5NjIzMzUyOTQ1NDcy)]]

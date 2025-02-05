@@ -1,17 +1,16 @@
 +++
-TITLE = "प्राचीनलेखमाला प्रथमः भागः Split 1"
-PUBLISHER = "तुकाराम-जावजी"
-"PUBLISH YEAR" = "1892"
-DOMAIN = "इतिहासःसंस्कृतिः च"
-SUB-DOMAIN = "शिलालेखाः"
-PAGES = "26"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पंडितदुर्गाप्रसादः"
-"SECOND EDITOR" = "काशिनाथ-पाण्डुरङ्ग-परबः"
-PRINTER = "निर्णयसागर-मुद्रणाालयः मुम्बई"
-"SERIAL NO." = "Ebharati-4745"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzMjkyMDcxMjA1NTU0&pageno=MjI0MjQyNjk5NTk="
 title = "प्राचीनलेखमाला प्रथमः भागः Split 1"
+publisher = "तुकाराम-जावजी"
+"publish year" = "1892"
+domain = "इतिहासःसंस्कृतिः च"
+sub-domain = "शिलालेखाः"
+pages = "26"
+language = "संस्कृतम्"
+editor = "पंडितदुर्गाप्रसादः"
+"second editor" = "काशिनाथ-पाण्डुरङ्ग-परबः"
+printer = "निर्णयसागर-मुद्रणाालयः मुम्बई"
+"serial no." = "Ebharati-4745"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzMjkyMDcxMjA1NTU0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्राचीनलेखमाला प्रथमः भागः Split 1	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDkzMjkyMDcxMjA1NTU0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8921,8 +8920,5 @@ TILL HERE - 27 March 2023
 
 ----------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

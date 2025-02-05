@@ -1,12 +1,11 @@
 +++
-TITLE = "अद्भुतसागरः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2622"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg0MDM2NzQxMjA3MTUy&pageno=MjI0MjQyNjk5NTk="
 title = "अद्भुतसागरः"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2622"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg0MDM2NzQxMjA3MTUy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अद्भुतसागरः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDg0MDM2NzQxMjA3MTUy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -31471,8 +31470,5 @@ title = "अद्भुतसागरः"
   
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

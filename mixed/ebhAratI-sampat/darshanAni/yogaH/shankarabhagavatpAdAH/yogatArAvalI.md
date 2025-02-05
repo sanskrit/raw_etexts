@@ -1,19 +1,18 @@
 +++
-TITLE = "योगतारावली"
-AUTHOR = "शङ्करभगवत्पादाः"
-PUBLISHER = "भारतीयविद्याप्रकाशनम्"
-"PUBLISH YEAR" = "१९८७"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "रामशङ्करभट्टाचार्यः"
-EDITOR = "रामशङ्करभट्टाचार्यः"
-"PRIMARY COMMENTATOR" = "रामशङ्करभट्टाचार्यः"
-"COMMENTARY NAME" = "व्याख्या"
-PRINTER = "वाराणसीमुद्रणसंस्था"
-"SERIAL NO." = "Ebharati-1671"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYxNzgwMTI3OTA0MDYx&pageno=MjI0MjQyNjk5NTk="
 title = "योगतारावली"
+author = "शङ्करभगवत्पादाः"
+publisher = "भारतीयविद्याप्रकाशनम्"
+"publish year" = "१९८७"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+language = "संस्कृतम् हिन्दी"
+translator = "रामशङ्करभट्टाचार्यः"
+editor = "रामशङ्करभट्टाचार्यः"
+"primary commentator" = "रामशङ्करभट्टाचार्यः"
+"commentary name" = "व्याख्या"
+printer = "वाराणसीमुद्रणसंस्था"
+"serial no." = "Ebharati-1671"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYxNzgwMTI3OTA0MDYx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[योगतारावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjYxNzgwMTI3OTA0MDYx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -532,19 +531,6 @@ an
 
 ----------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

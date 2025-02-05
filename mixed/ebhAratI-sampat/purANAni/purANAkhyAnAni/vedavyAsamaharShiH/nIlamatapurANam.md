@@ -1,13 +1,12 @@
 +++
-TITLE = "नीलमतपुराणम्"
-AUTHOR = "वेदव्यासमहर्षिः"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "पुराणाख्यानानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2901"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIyNjYyOTkwNTg0ODcy&pageno=MjI0MjQyNjk5NTk="
 title = "नीलमतपुराणम्"
+author = "वेदव्यासमहर्षिः"
+domain = "पुराणानि"
+sub-domain = "पुराणाख्यानानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2901"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIyNjYyOTkwNTg0ODcy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नीलमतपुराणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjIyNjYyOTkwNTg0ODcy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -30270,8 +30269,5 @@ J & K Academy of Art, Culture and Languages, Srinagar: 1973 (393 pages).
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

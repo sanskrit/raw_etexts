@@ -1,17 +1,16 @@
 +++
-TITLE = "रामायणमुक्तावली (नीतिश्लोकाः)"
-AUTHOR = "वाल्मीकि-महर्षिः"
-"PUBLISH YEAR" = "१९४९"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "111"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "टि श्रीनिवास-राघवेन्द्राचार्यः"
-EDITOR = "टि श्रीनिवास-राघवेन्द्राचार्यः"
-PRINTER = "श्रीवेदव्यास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5117"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDczMzc0Mjc3MjEyMTk0&pageno=MjI0MjQyNjk5NTk="
 title = "रामायणमुक्तावली (नीतिश्लोकाः)"
+author = "वाल्मीकि-महर्षिः"
+"publish year" = "१९४९"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "111"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "टि श्रीनिवास-राघवेन्द्राचार्यः"
+editor = "टि श्रीनिवास-राघवेन्द्राचार्यः"
+printer = "श्रीवेदव्यास-मुद्रणालयः"
+"serial no." = "Ebharati-5117"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDczMzc0Mjc3MjEyMTk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रामायणमुक्तावली (नीतिश्लोकाः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDczMzc0Mjc3MjEyMTk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2714,19 +2713,6 @@ Whoever daily reads or hears with devotion the sacred Ramayana, or the history o
 
 **----------**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

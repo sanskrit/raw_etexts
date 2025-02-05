@@ -1,15 +1,14 @@
 +++
-TITLE = "श्रीमत्त्यागराजविजयम्"
-AUTHOR = "मुत्तय्यभागवतः"
-"PUBLISH YEAR" = "1940"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "95"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "वि.वि.प्रेस्"
-"SERIAL NO." = "Ebharati-5583"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIwMjQ0MTIwNzQ5NTM1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमत्त्यागराजविजयम्"
+author = "मुत्तय्यभागवतः"
+"publish year" = "1940"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "95"
+language = "संस्कृतम्"
+printer = "वि.वि.प्रेस्"
+"serial no." = "Ebharati-5583"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIwMjQ0MTIwNzQ5NTM1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमत्त्यागराजविजयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjIwMjQ0MTIwNzQ5NTM1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2228,19 +2227,6 @@ UNIVERSITY OF TRAVANCORE
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

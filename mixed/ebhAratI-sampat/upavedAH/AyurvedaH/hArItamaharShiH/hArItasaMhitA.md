@@ -1,12 +1,11 @@
 +++
-TITLE = "हारीतसंहिता"
-AUTHOR = "हारीतमहर्षिः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2512"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDYwNDY5MDY1MjQxMTQy"
 title = "हारीतसंहिता"
+author = "हारीतमहर्षिः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2512"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDYwNDY5MDY1MjQxMTQy"
 
 +++
 [[हारीतसंहिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDYwNDY5MDY1MjQxMTQy)]]

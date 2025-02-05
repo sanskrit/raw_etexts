@@ -1,12 +1,11 @@
 +++
-TITLE = "रसहृदयतन्त्रम्"
-AUTHOR = "भिक्षुगोविन्दः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2544"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODY1MTI3MDQ0NDEyNDQy"
 title = "रसहृदयतन्त्रम्"
+author = "भिक्षुगोविन्दः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2544"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODY1MTI3MDQ0NDEyNDQy"
 
 +++
 [[रसहृदयतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODY1MTI3MDQ0NDEyNDQy)]]

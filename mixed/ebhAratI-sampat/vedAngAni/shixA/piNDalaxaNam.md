@@ -1,12 +1,11 @@
 +++
-TITLE = "पिण्डलक्षणम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3572"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgzMTM5Nzc1ODk4MjQz&pageno=MjI0MjQyNjk5NTk="
 title = "पिण्डलक्षणम्"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3572"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgzMTM5Nzc1ODk4MjQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पिण्डलक्षणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDgzMTM5Nzc1ODk4MjQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -62,8 +61,5 @@ Pindalakshanam
 यथा चतुर्होतृणां मल्यहा प्रत्यन्दीहोतारं एतान् होमान् ३६  
 मातृकायामप्यसंपूर्णम् ३७
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

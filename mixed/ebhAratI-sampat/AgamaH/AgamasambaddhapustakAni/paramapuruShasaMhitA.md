@@ -1,10 +1,9 @@
 +++
-TITLE = "परमपुरुषसंहिता"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "आगमसम्बद्धपुस्तकानि"
-"SERIAL NO." = "Ebharati-441"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQzNDMzMjQ="
 title = "परमपुरुषसंहिता"
+domain = "आगमः"
+sub-domain = "आगमसम्बद्धपुस्तकानि"
+"serial no." = "Ebharati-441"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQzNDMzMjQ="
 
 +++
 [[परमपुरुषसंहिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQzNDMzMjQ=)]]

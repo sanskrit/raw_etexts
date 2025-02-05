@@ -1,17 +1,16 @@
 +++
-TITLE = "अभिनवकौस्तुभमाला-दक्षिणमूर्तिस्तवौ"
-AUTHOR = "श्रीकृष्णलीलाशुकमुनिः"
-PUBLISHER = "त.गणपतिशास्त्री"
-"PUBLISH YEAR" = "1905"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "21"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "त.गणपतिशास्त्री"
-PRINTER = "राजकीय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7045"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk5MjY4NzI1MzkyNjc2&pageno=MjI0MjQyNjk5NTk="
 title = "अभिनवकौस्तुभमाला-दक्षिणमूर्तिस्तवौ"
+author = "श्रीकृष्णलीलाशुकमुनिः"
+publisher = "त.गणपतिशास्त्री"
+"publish year" = "1905"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "21"
+language = "संस्कृतम्"
+editor = "त.गणपतिशास्त्री"
+printer = "राजकीय-मुद्रणालयः"
+"serial no." = "Ebharati-7045"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk5MjY4NzI1MzkyNjc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अभिनवकौस्तुभमाला-दक्षिणमूर्तिस्तवौ	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDk5MjY4NzI1MzkyNjc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -358,8 +357,5 @@ T. G. S.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

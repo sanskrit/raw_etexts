@@ -1,13 +1,12 @@
 +++
-TITLE = "वररुचिशिक्षा"
-AUTHOR = "वररुचिः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3983"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4NjY1MzMwMzUzMjgz&pageno=MjI0MjQyNjk5NTk="
 title = "वररुचिशिक्षा"
+author = "वररुचिः"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3983"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4NjY1MzMwMzUzMjgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वररुचिशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjI4NjY1MzMwMzUzMjgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -297,19 +296,6 @@ title = "वररुचिशिक्षा"
 
 **--------------------------------------------------**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,16 +1,15 @@
 +++
-TITLE = "अष्टावक्रीयम्"
-AUTHOR = "र. शेषशायी"
-PUBLISHER = "रा. गुरुराजाचार्यः"
-"PUBLISH YEAR" = "1914"
-DOMAIN = "चरितानि - Biography"
-SUB-DOMAIN = "चरितसम्बद्धपुस्तकानि"
-PAGES = "48"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीगोपालविलासमुद्राक्षरशाला कुम्भघोणम्"
-"SERIAL NO." = "Ebharati-301"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIwOTY5ODY4NDk4ODI=&pageno=MjI0MjQyNjk5NTk="
 title = "अष्टावक्रीयम्"
+author = "र. शेषशायी"
+publisher = "रा. गुरुराजाचार्यः"
+"publish year" = "1914"
+domain = "चरितानि - Biography"
+sub-domain = "चरितसम्बद्धपुस्तकानि"
+pages = "48"
+language = "संस्कृतम्"
+printer = "श्रीगोपालविलासमुद्राक्षरशाला कुम्भघोणम्"
+"serial no." = "Ebharati-301"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIwOTY5ODY4NDk4ODI=&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अष्टावक्रीयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjIwOTY5ODY4NDk4ODI=&pageno=MjI0MjQyNjk5NTk=)]]
@@ -473,19 +472,6 @@ title = "अष्टावक्रीयम्"
 | ममुहू          | मम्मुहू        |
 | सीन्दर्य       | सौंदर्य        |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

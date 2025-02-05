@@ -1,12 +1,11 @@
 +++
-TITLE = "दन्त्योष्ठविधिः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "वेदाङ्गसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3501"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI0OTE3NDQ4MjgwNjMz&pageno=MjI0MjQyNjk5NTk="
 title = "दन्त्योष्ठविधिः"
+domain = "वेदाङ्गानि"
+sub-domain = "वेदाङ्गसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3501"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI0OTE3NDQ4MjgwNjMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दन्त्योष्ठविधिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjI0OTE3NDQ4MjgwNjMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -74,8 +73,5 @@ title = "दन्त्योष्ठविधिः"
 \\\\Z  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,13 +1,12 @@
 +++
-TITLE = "न्यायसारटीका ज्ञानतात्पर्यदीपिका"
-AUTHOR = "जयसिंहसूरिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4073"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjA4NDgzNTk2Mjk5MDkz"
 title = "न्यायसारटीका ज्ञानतात्पर्यदीपिका"
+author = "जयसिंहसूरिः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4073"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjA4NDgzNTk2Mjk5MDkz"
 
 +++
 [[न्यायसारटीका ज्ञानतात्पर्यदीपिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjA4NDgzNTk2Mjk5MDkz)]]

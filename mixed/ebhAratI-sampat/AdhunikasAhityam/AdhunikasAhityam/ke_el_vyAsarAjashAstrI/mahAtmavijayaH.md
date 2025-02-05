@@ -1,15 +1,14 @@
 +++
-TITLE = "महात्मविजयः"
-AUTHOR = "के एल् व्यासराजशास्त्री"
-"PUBLISH YEAR" = "1949"
-DOMAIN = "आधुनिकसाहित्यम्"
-SUB-DOMAIN = "आधुनिकसाहित्यम्"
-PAGES = "51"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "स्कोलर्-प्रेस्"
-"SERIAL NO." = "Ebharati-6180"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY5NzYxODc3NjUyMzk1&pageno=MjI0MjQyNjk5NTk="
 title = "महात्मविजयः"
+author = "के एल् व्यासराजशास्त्री"
+"publish year" = "1949"
+domain = "आधुनिकसाहित्यम्"
+sub-domain = "आधुनिकसाहित्यम्"
+pages = "51"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "स्कोलर्-प्रेस्"
+"serial no." = "Ebharati-6180"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY5NzYxODc3NjUyMzk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[महात्मविजयः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDY5NzYxODc3NjUyMzk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -907,19 +906,6 @@ Justice **P. Y. RAJAMANNAN,**
 **श्रीकृष्णानन्दलहरी**— A Literary work.  
 **लौकिकन्यायाञ्जली**— A treatise dealing with Sanskrit Maxims.  
 **निपुणिकप्रहसन**— A Farce in 5 Acts.
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

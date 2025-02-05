@@ -1,18 +1,17 @@
 +++
-TITLE = "आनन्दलहरी"
-AUTHOR = "अप्पयदीक्षितः"
-"PUBLISH YEAR" = "1908"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतदर्शनम्"
-PAGES = "168"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रा.हालास्यनाथशास्त्रिः"
-"PRIMARY COMMENTATOR" = "अप्पयदीक्षितः"
-"COMMENTARY NAME" = "चन्द्रिका"
-PRINTER = "वणीविलासमुद्राणालयः"
-"SERIAL NO." = "Ebharati-8638"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMyMTQwMjQ1NTEyOTI4&pageno=MjI0MjQyNjk5NTk="
 title = "आनन्दलहरी"
+author = "अप्पयदीक्षितः"
+"publish year" = "1908"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतदर्शनम्"
+pages = "168"
+language = "संस्कृतम्"
+editor = "रा.हालास्यनाथशास्त्रिः"
+"primary commentator" = "अप्पयदीक्षितः"
+"commentary name" = "चन्द्रिका"
+printer = "वणीविलासमुद्राणालयः"
+"serial no." = "Ebharati-8638"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMyMTQwMjQ1NTEyOTI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आनन्दलहरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjMyMTQwMjQ1NTEyOTI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1550,8 +1549,5 @@ title = "आनन्दलहरी"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

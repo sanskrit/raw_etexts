@@ -1,13 +1,12 @@
 +++
-TITLE = "हिरण्यकेशिगृह्यसूत्रम्"
-AUTHOR = "हिरण्यकेशिः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3216"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUxOTI2NTE5MzI3ODAz&pageno=MjI0MjQyNjk5NTk="
 title = "हिरण्यकेशिगृह्यसूत्रम्"
+author = "हिरण्यकेशिः"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3216"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUxOTI2NTE5MzI3ODAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हिरण्यकेशिगृह्यसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjUxOTI2NTE5MzI3ODAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -304,19 +303,6 @@ title = "हिरण्यकेशिगृह्यसूत्रम्"
 
 अष्टमः पटलः
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

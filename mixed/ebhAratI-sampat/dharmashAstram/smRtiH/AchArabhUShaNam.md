@@ -1,15 +1,14 @@
 +++
-TITLE = "आचारभूषणम्"
-PUBLISHER = "आनन्दाश्रममुद्रणालयः"
-"PUBLISH YEAR" = "1908"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "454"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "आनन्दाश्रममुद्रणालयः"
-"SERIAL NO." = "Ebharati-4822"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg4ODU5MDg4Mzk4MjY0&pageno=MjI0MjQyNjk5NTk="
 title = "आचारभूषणम्"
+publisher = "आनन्दाश्रममुद्रणालयः"
+"publish year" = "1908"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "454"
+language = "संस्कृतम्"
+printer = "आनन्दाश्रममुद्रणालयः"
+"serial no." = "Ebharati-4822"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg4ODU5MDg4Mzk4MjY0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आचारभूषणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDg4ODU5MDg4Mzk4MjY0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -13652,8 +13651,5 @@ _(ँ) स्त० १९ मृगू _(ँ) स्त० २० मरुत�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

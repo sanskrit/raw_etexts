@@ -1,12 +1,11 @@
 +++
-TITLE = "चैतन्योपनिषद्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4267"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc2NDE0NjY5NTE2OTA0&pageno=MjI0MjQyNjk5NTk="
 title = "चैतन्योपनिषद्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4267"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc2NDE0NjY5NTE2OTA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चैतन्योपनिषद्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDc2NDE0NjY5NTE2OTA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -151,8 +150,5 @@ title = "चैतन्योपनिषद्"
 
 -------------- -------------- -------------- -------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,13 +1,12 @@
 +++
-TITLE = "रामायणमुक्तावली"
-"PUBLISH YEAR" = "1940"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "126"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8236"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk1Nzg1MjUwNTI2MDk3&pageno=MjI0MjQyNjk5NTk="
 title = "रामायणमुक्तावली"
+"publish year" = "1940"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "126"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8236"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk1Nzg1MjUwNTI2MDk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रामायणमुक्तावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjk1Nzg1MjUwNTI2MDk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2199,8 +2198,5 @@ Some Episodes from Valmiki
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

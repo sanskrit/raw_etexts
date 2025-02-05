@@ -1,11 +1,10 @@
 +++
-TITLE = "कौशिकपद्दतिः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-3608"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc1ODU2MjQ0NDUzNjQz"
 title = "कौशिकपद्दतिः"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-3608"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc1ODU2MjQ0NDUzNjQz"
 
 +++
 [[कौशिकपद्दतिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=Njc1ODU2MjQ0NDUzNjQz)]]

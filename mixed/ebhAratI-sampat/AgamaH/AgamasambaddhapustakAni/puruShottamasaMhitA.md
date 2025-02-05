@@ -1,12 +1,11 @@
 +++
-TITLE = "पुरुषोत्तमसंहिता"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "आगमसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4160"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQzOTkz&pageno=MjI0MjQyNjk5NTk="
 title = "पुरुषोत्तमसंहिता"
+domain = "आगमः"
+sub-domain = "आगमसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4160"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQzOTkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पुरुषोत्तमसंहिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQzOTkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -38445,8 +38444,5 @@ title = "पुरुषोत्तमसंहिता"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

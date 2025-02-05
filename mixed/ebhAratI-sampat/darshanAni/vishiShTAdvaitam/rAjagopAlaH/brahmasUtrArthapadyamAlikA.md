@@ -1,13 +1,12 @@
 +++
-TITLE = "ब्रह्मसूत्रार्थपद्यमालिका"
-AUTHOR = "राजगोपालः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "विशिष्टाद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4202"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDQyNzU2MDEyNjczMzA0"
 title = "ब्रह्मसूत्रार्थपद्यमालिका"
+author = "राजगोपालः"
+domain = "दर्शनानि"
+sub-domain = "विशिष्टाद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4202"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDQyNzU2MDEyNjczMzA0"
 
 +++
 [[ब्रह्मसूत्रार्थपद्यमालिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDQyNzU2MDEyNjczMzA0)]]

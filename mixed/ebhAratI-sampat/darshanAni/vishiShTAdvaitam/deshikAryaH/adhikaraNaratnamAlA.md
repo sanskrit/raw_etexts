@@ -1,12 +1,11 @@
 +++
-TITLE = "अधिकरणरत्नमाला"
-AUTHOR = "देशिकार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "विशिष्टाद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4197"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDMxNTQ0OTIyNjk4MjA0"
 title = "अधिकरणरत्नमाला"
+author = "देशिकार्यः"
+domain = "दर्शनानि"
+sub-domain = "विशिष्टाद्वैतम्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4197"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDMxNTQ0OTIyNjk4MjA0"
 
 +++
 [[अधिकरणरत्नमाला	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDMxNTQ0OTIyNjk4MjA0)]]

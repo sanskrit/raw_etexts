@@ -1,18 +1,17 @@
 +++
-TITLE = "अलङ्कारसर्वस्वम्"
-AUTHOR = "राजनक रुय्यक"
-PUBLISHER = "तुकाराम जावजी"
-"PUBLISH YEAR" = "1893"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "219"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "दुर्गाप्रसाद काशिनाथ पाण्डुरङ्ग परब"
-"PRIMARY COMMENTATOR" = "जयरथः"
-PRINTER = "तुकाराम जावजी"
-"SERIAL NO." = "Ebharati-5915"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMxNjI5Mzc3NzE4NzY1&pageno=MjI0MjQyNjk5NTk="
 title = "अलङ्कारसर्वस्वम्"
+author = "राजनक रुय्यक"
+publisher = "तुकाराम जावजी"
+"publish year" = "1893"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "219"
+language = "संस्कृतम्"
+editor = "दुर्गाप्रसाद काशिनाथ पाण्डुरङ्ग परब"
+"primary commentator" = "जयरथः"
+printer = "तुकाराम जावजी"
+"serial no." = "Ebharati-5915"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMxNjI5Mzc3NzE4NzY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अलङ्कारसर्वस्वम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDMxNjI5Mzc3NzE4NzY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3882,8 +3881,5 @@ title = "अलङ्कारसर्वस्वम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

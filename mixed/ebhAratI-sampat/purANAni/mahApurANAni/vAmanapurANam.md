@@ -1,15 +1,14 @@
 +++
-TITLE = "वामनपुराणम्"
-PUBLISHER = "राजीवशर्मा"
-"PUBLISH YEAR" = "1886"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "313"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "जगद्धित-मुद्रानालयः"
-"SERIAL NO." = "Ebharati-6881"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg3NTAxNDQxMDU1MDY2&pageno=MjI0MjQyNjk5NTk="
 title = "वामनपुराणम्"
+publisher = "राजीवशर्मा"
+"publish year" = "1886"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "313"
+language = "संस्कृतम्"
+printer = "जगद्धित-मुद्रानालयः"
+"serial no." = "Ebharati-6881"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg3NTAxNDQxMDU1MDY2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वामनपुराणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjg3NTAxNDQxMDU1MDY2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -18028,19 +18027,6 @@ title = "वामनपुराणम्"
 
 **समाप्तम्**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

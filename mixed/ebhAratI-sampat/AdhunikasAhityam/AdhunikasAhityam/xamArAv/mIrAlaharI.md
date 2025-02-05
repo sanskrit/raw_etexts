@@ -1,16 +1,15 @@
 +++
-TITLE = "मीरालहरी"
-AUTHOR = "क्षमाराव्"
-PUBLISHER = "क्षमाराव्"
-"PUBLISH YEAR" = "1944"
-DOMAIN = "आधुनिकसाहित्यम्"
-SUB-DOMAIN = "आधुनिकसाहित्यम्"
-PAGES = "89"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6181"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzMDE0NDc3MjUzMzk1&pageno=MjI0MjQyNjk5NTk="
 title = "मीरालहरी"
+author = "क्षमाराव्"
+publisher = "क्षमाराव्"
+"publish year" = "1944"
+domain = "आधुनिकसाहित्यम्"
+sub-domain = "आधुनिकसाहित्यम्"
+pages = "89"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-6181"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzMDE0NDc3MjUzMzk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मीरालहरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjgzMDE0NDc3MjUzMzk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1583,8 +1582,5 @@ Presence, the delight of the moon would sink into nothing,although the latter be
  44) And as she was dancing in that sacred place whichsurpassed the splendour of swarga, Gandharwas descended fromHeaven to accompany her on their *veenas*. Her complexion ooking unusually fair with a halo around her head, she lookeddazzling with a lotus in her hand.  
   Then ! Lo ! In the midst of her dance she left thesurface of the earth and vanished into the sky and becameone with Lord Krishna.
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

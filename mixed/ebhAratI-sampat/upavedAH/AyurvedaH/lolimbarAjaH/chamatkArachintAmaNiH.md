@@ -1,18 +1,17 @@
 +++
-TITLE = "चमत्कारचिन्तामणिः"
-AUTHOR = "लोलिम्बराजः"
-PUBLISHER = "चौखाम्बा-विद्याभवनम्"
-"PUBLISH YEAR" = "१९७३"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "149"
-LANGUAGE = "संस्कृतम् हिन्दी"
-EDITOR = "ब्रह्मानन्द-त्रिपाठी"
-"PRIMARY COMMENTATOR" = "ब्रह्मानन्द-त्रिपाठी"
-"COMMENTARY NAME" = "विमलासंस्कृत-हिन्दीव्याख्या"
-"SERIAL NO." = "Ebharati-3488"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5NzY1Mzk4NDM4NDMz&pageno=MjI0MjQyNjk5NTk="
 title = "चमत्कारचिन्तामणिः"
+author = "लोलिम्बराजः"
+publisher = "चौखाम्बा-विद्याभवनम्"
+"publish year" = "१९७३"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "149"
+language = "संस्कृतम् हिन्दी"
+editor = "ब्रह्मानन्द-त्रिपाठी"
+"primary commentator" = "ब्रह्मानन्द-त्रिपाठी"
+"commentary name" = "विमलासंस्कृत-हिन्दीव्याख्या"
+"serial no." = "Ebharati-3488"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5NzY1Mzk4NDM4NDMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चमत्कारचिन्तामणिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM5NzY1Mzk4NDM4NDMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1582,19 +1581,6 @@ VARANASI-1
 
 ----------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,13 +1,12 @@
 +++
-TITLE = "अनुव्यवसायमीमांसा"
-AUTHOR = "एन्.एस्. रामानुजतानताचार्यः"
-DOMAIN = "लेखाः"
-SUB-DOMAIN = "न्यायदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3683"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIyMDQ4MDYxNDU1MzUz&pageno=MjI0MjQyNjk5NTk="
 title = "अनुव्यवसायमीमांसा"
+author = "एन्.एस्. रामानुजतानताचार्यः"
+domain = "लेखाः"
+sub-domain = "न्यायदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3683"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIyMDQ4MDYxNDU1MzUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अनुव्यवसायमीमांसा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjIyMDQ4MDYxNDU1MzUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -264,8 +263,5 @@ title = "अनुव्यवसायमीमांसा"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

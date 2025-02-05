@@ -1,14 +1,13 @@
 +++
-TITLE = "मातृकाविलासः"
-PUBLISHER = "खेमराजश्रीकृष्णदासः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "242"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीवेङ्कटेश्वर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8603"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY0NjU1Mzc2NTU4NTI4&pageno=MjI0MjQyNjk5NTk="
 title = "मातृकाविलासः"
+publisher = "खेमराजश्रीकृष्णदासः"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "242"
+language = "संस्कृतम्"
+printer = "श्रीवेङ्कटेश्वर-यन्त्रालयः"
+"serial no." = "Ebharati-8603"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY0NjU1Mzc2NTU4NTI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मातृकाविलासः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjY0NjU1Mzc2NTU4NTI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1506,8 +1505,5 @@ title = "मातृकाविलासः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

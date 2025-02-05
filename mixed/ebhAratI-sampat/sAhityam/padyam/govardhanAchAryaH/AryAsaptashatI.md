@@ -1,13 +1,12 @@
 +++
-TITLE = "आर्यासप्तशती"
-AUTHOR = "गोवर्धनाचार्यः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3157"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUyNjIzNzMxMDYwMzAz&pageno=MjI0MjQyNjk5NTk="
 title = "आर्यासप्तशती"
+author = "गोवर्धनाचार्यः"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3157"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUyNjIzNzMxMDYwMzAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आर्यासप्तशती	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDUyNjIzNzMxMDYwMzAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2493,8 +2492,5 @@ title = "आर्यासप्तशती"
 \\Z  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

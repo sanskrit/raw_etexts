@@ -1,17 +1,16 @@
 +++
-TITLE = "नवरत्नविवाहपद्दति:"
-AUTHOR = "विष्णुदत्तः"
-PUBLISHER = "गंगाविष्णु:खेमराजगुप्त:"
-"PUBLISH YEAR" = "1949"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "266"
-LANGUAGE = "संस्कृतम्"
-"COMMENTARY NAME" = "नवरत्नप्रकाशिका"
-PRINTER = "गंगाविष्णु खेमराजगुप्तः"
-"SERIAL NO." = "Ebharati-7435"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc1NzA0MjYwMjM3MzE3&pageno=MjI0MjQyNjk5NTk="
 title = "नवरत्नविवाहपद्दति:"
+author = "विष्णुदत्तः"
+publisher = "गंगाविष्णु:खेमराजगुप्त:"
+"publish year" = "1949"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "266"
+language = "संस्कृतम्"
+"commentary name" = "नवरत्नप्रकाशिका"
+printer = "गंगाविष्णु खेमराजगुप्तः"
+"serial no." = "Ebharati-7435"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc1NzA0MjYwMjM3MzE3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नवरत्नविवाहपद्दति:	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc1NzA0MjYwMjM3MzE3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2823,19 +2822,6 @@ Sअ॒स्याउ॒षसो॒व्युष्ट्टौ। अव॑
 
 ![](../books_images/U-IMG-1706102316Capture13jan.JPG)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

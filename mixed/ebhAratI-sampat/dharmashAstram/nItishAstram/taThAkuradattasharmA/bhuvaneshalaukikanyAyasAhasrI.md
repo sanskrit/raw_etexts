@@ -1,16 +1,15 @@
 +++
-TITLE = "भुवनेशलौकिकन्यायसाहस्री"
-AUTHOR = "तठाकुरदत्तशर्मा"
-PUBLISHER = "खेमराजश्रीकृष्णदासः"
-"PUBLISH YEAR" = "1908"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "354"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "खेमराजश्रीकृष्णदासः"
-"SERIAL NO." = "Ebharati-6453"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYxOTQzMjU3MzY0OTE2&pageno=MjI0MjQyNjk5NTk="
 title = "भुवनेशलौकिकन्यायसाहस्री"
+author = "तठाकुरदत्तशर्मा"
+publisher = "खेमराजश्रीकृष्णदासः"
+"publish year" = "1908"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "354"
+language = "संस्कृतम्"
+printer = "खेमराजश्रीकृष्णदासः"
+"serial no." = "Ebharati-6453"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYxOTQzMjU3MzY0OTE2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भुवनेशलौकिकन्यायसाहस्री	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjYxOTQzMjU3MzY0OTE2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5721,19 +5720,6 @@ title = "भुवनेशलौकिकन्यायसाहस्री"
 
 ![](../books_images/U-IMG-1700146728Screenshot2023-11-16202834.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

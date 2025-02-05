@@ -1,12 +1,11 @@
 +++
-TITLE = "नवकोटिः"
-AUTHOR = "कट्टे नृसिंहाचार्य"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3178"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExNzE0ODUwNjcwNTAz"
 title = "नवकोटिः"
+author = "कट्टे नृसिंहाचार्य"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3178"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExNzE0ODUwNjcwNTAz"
 
 +++
 [[नवकोटिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjExNzE0ODUwNjcwNTAz)]]

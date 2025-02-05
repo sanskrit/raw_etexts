@@ -1,12 +1,11 @@
 +++
-TITLE = "लघुकथासङ्ग्रहः-१४"
-DOMAIN = "सरलसंस्कृतम्"
-SUB-DOMAIN = "लघुकथासङ्ग्रहः"
-PAGES = "64"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8312"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY2MTEwNzY3MDI5Nzk3&pageno=MjI0MjQyNjk5NTk="
 title = "लघुकथासङ्ग्रहः-१४"
+domain = "सरलसंस्कृतम्"
+sub-domain = "लघुकथासङ्ग्रहः"
+pages = "64"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8312"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY2MTEwNzY3MDI5Nzk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लघुकथासङ्ग्रहः-१४	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDY2MTEwNzY3MDI5Nzk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1200,8 +1199,5 @@ title = "लघुकथासङ्ग्रहः-१४"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

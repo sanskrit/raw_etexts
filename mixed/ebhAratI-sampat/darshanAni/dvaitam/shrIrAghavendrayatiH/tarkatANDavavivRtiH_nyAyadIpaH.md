@@ -1,12 +1,11 @@
 +++
-TITLE = "तर्कताण्डवविवृतिः (न्यायदीपः)"
-AUTHOR = "श्रीराघवेन्द्रयतिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3130"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY4MDg3ODMyODY0MDAz"
 title = "तर्कताण्डवविवृतिः (न्यायदीपः)"
+author = "श्रीराघवेन्द्रयतिः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3130"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY4MDg3ODMyODY0MDAz"
 
 +++
 [[तर्कताण्डवविवृतिः (न्यायदीपः)	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDY4MDg3ODMyODY0MDAz)]]

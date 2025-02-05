@@ -1,12 +1,11 @@
 +++
-TITLE = "तन्त्रवार्तिकम्"
-AUTHOR = "कुमारिलभट्टः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2642"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDI5ODc0MjcwMjI2MzUy"
 title = "तन्त्रवार्तिकम्"
+author = "कुमारिलभट्टः"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2642"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDI5ODc0MjcwMjI2MzUy"
 
 +++
 [[तन्त्रवार्तिकम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDI5ODc0MjcwMjI2MzUy)]]

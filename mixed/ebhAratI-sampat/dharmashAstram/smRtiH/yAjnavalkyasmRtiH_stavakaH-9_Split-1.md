@@ -1,20 +1,19 @@
 +++
-TITLE = "याज्ञवल्क्यस्मृतिः स्तवकः-9 Split-1"
-PUBLISHER = "चौखम्वाा संस्कृत सिरिज् अफिस्"
-"PUBLISH YEAR" = "1928"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "33"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "प. नारायणशास्त्री"
-"SECOND EDITOR" = "प. जगन्नाथशास्त्री"
-"PRIMARY COMMENTATOR" = "श्रीमित्रमिश्रः"
-"SECONDARY COMMENTATOR" = "श्रीविज्ञानेश्वरः"
-"COMMENTARY NAME" = "वीरमित्रोदय मिताक्षरा"
-PRINTER = "विद्याविलास प्रेस् वाराणसी"
-"SERIAL NO." = "Ebharati-5022"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgyMzQ0OTIxMzkwMjg0&pageno=MjI0MjQyNjk5NTk="
 title = "याज्ञवल्क्यस्मृतिः स्तवकः-9 Split-1"
+publisher = "चौखम्वाा संस्कृत सिरिज् अफिस्"
+"publish year" = "1928"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "33"
+language = "संस्कृतम्"
+editor = "प. नारायणशास्त्री"
+"second editor" = "प. जगन्नाथशास्त्री"
+"primary commentator" = "श्रीमित्रमिश्रः"
+"secondary commentator" = "श्रीविज्ञानेश्वरः"
+"commentary name" = "वीरमित्रोदय मिताक्षरा"
+printer = "विद्याविलास प्रेस् वाराणसी"
+"serial no." = "Ebharati-5022"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgyMzQ0OTIxMzkwMjg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[याज्ञवल्क्यस्मृतिः स्तवकः-9 Split-1	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDgyMzQ0OTIxMzkwMjg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1626,19 +1625,6 @@ Sandaly
 दन्दशूकः पतङ्गो वा भवेत्कीटोऽथवा कृमिः ॥ १९७ ॥
 
  यतद्देवयानपितृयानरूपं मार्गद्वितयमात्मनोऽर्थे यो न जानाति तदनुसारि कर्म न करोति स दन्दशुकः सर्पः पतङ्गः शलभः, कीटः शमिर्धा भवेत् ॥ १९७ ॥
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

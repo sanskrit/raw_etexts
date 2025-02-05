@@ -1,11 +1,10 @@
 +++
-TITLE = "योगयात्रा-२"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2653"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMwODc2NDUy"
 title = "योगयात्रा-२"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2653"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMwODc2NDUy"
 
 +++
 [[योगयात्रा-२	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMwODc2NDUy)]]

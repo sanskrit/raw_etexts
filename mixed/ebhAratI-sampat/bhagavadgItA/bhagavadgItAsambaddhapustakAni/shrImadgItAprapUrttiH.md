@@ -1,14 +1,13 @@
 +++
-TITLE = "श्रीमद्गीताप्रपूर्त्तिः"
-"PUBLISH YEAR" = "1824"
-DOMAIN = "भगवद्गीता"
-SUB-DOMAIN = "भगवद्गीतासम्बद्धपुस्तकानि"
-PAGES = "451"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "मङ्गलगञ्च-मिशन्"
-"SERIAL NO." = "Ebharati-4696"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE3MzE0NDUzODk3MDU0&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमद्गीताप्रपूर्त्तिः"
+"publish year" = "1824"
+domain = "भगवद्गीता"
+sub-domain = "भगवद्गीतासम्बद्धपुस्तकानि"
+pages = "451"
+language = "संस्कृतम्"
+printer = "मङ्गलगञ्च-मिशन्"
+"serial no." = "Ebharati-4696"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE3MzE0NDUzODk3MDU0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमद्गीताप्रपूर्त्तिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE3MzE0NDUzODk3MDU0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3621,8 +3620,5 @@ AV
 
 ----------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,14 +1,13 @@
 +++
-TITLE = "पार्वतीपरिणयम्"
-"PUBLISH YEAR" = "1906"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "93"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "वाणीविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7969"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE5MDY4NTUwNDk5NDY3&pageno=MjI0MjQyNjk5NTk="
 title = "पार्वतीपरिणयम्"
+"publish year" = "1906"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "93"
+language = "संस्कृतम्"
+printer = "वाणीविलास-मुद्रणालयः"
+"serial no." = "Ebharati-7969"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE5MDY4NTUwNDk5NDY3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पार्वतीपरिणयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODE5MDY4NTUwNDk5NDY3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2901,8 +2900,5 @@ PREFACE
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

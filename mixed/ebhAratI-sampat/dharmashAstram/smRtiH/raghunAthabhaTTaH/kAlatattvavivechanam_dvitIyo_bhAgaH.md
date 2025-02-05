@@ -1,17 +1,16 @@
 +++
-TITLE = "कालतत्त्वविवेचनम् (द्वितीयो भागः)"
-AUTHOR = "रघुनाथभट्टः"
-"PUBLISH YEAR" = "1933"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "305"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गोपीनाथकविराजः"
-"SECOND EDITOR" = "नन्दकिशोरशर्मा"
-PRINTER = "बि.सी.बेनर्जी"
-"SERIAL NO." = "Ebharati-5178"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjExMTYyMzQ1ODYwNzk0&pageno=MjI0MjQyNjk5NTk="
 title = "कालतत्त्वविवेचनम् (द्वितीयो भागः)"
+author = "रघुनाथभट्टः"
+"publish year" = "1933"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "305"
+language = "संस्कृतम्"
+editor = "गोपीनाथकविराजः"
+"second editor" = "नन्दकिशोरशर्मा"
+printer = "बि.सी.बेनर्जी"
+"serial no." = "Ebharati-5178"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjExMTYyMzQ1ODYwNzk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कालतत्त्वविवेचनम् (द्वितीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjExMTYyMzQ1ODYwNzk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -12591,19 +12590,6 @@ NANDA KISHORE SHARMA.
 अर्थानुभाषणं चैतच्छ्रुतेः सूत्रस्य च। क्षीणे राजनीति तु स्ववाक्यस्यैव।
 
  नन्वदर्शनविषयायाः श्रुतेः क्षयपरत्वेन पौरुषेये व्याख्याने किं मूलम्। सूत्रस्य तु तथा व्याख्याने "अथ यदहश्चन्द्रमा न दृश्यते
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

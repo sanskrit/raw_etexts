@@ -1,18 +1,17 @@
 +++
-TITLE = "गृह्यसंग्रहः"
-AUTHOR = "गोबिलपुत्रः"
-PUBLISHER = "एशियाटिक-सोसैटि-आफ्-बेङ्गाल्"
-"PUBLISH YEAR" = "1910"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "456"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "चन्द्रकान्त-तरकलङ्करः"
-"PRIMARY COMMENTATOR" = "चन्द्रकान्त-तरकलङ्करः"
-PRINTER = "उपेन्द्रनाथ-चक्रवर्ती"
-"SERIAL NO." = "Ebharati-7422"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgwNjUyMTExNDg0MjE3&pageno=MjI0MjQyNjk5NTk="
 title = "गृह्यसंग्रहः"
+author = "गोबिलपुत्रः"
+publisher = "एशियाटिक-सोसैटि-आफ्-बेङ्गाल्"
+"publish year" = "1910"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "456"
+language = "संस्कृतम्"
+editor = "चन्द्रकान्त-तरकलङ्करः"
+"primary commentator" = "चन्द्रकान्त-तरकलङ्करः"
+printer = "उपेन्द्रनाथ-चक्रवर्ती"
+"serial no." = "Ebharati-7422"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgwNjUyMTExNDg0MjE3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गृह्यसंग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDgwNjUyMTExNDg0MjE3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6335,19 +6334,6 @@ ASIATIC SOCIETY, 57, PARK STREET.
 कृपाकटाक्षसम्पातम्पण्डितानामपेक्षते॥**
 
   **इति सेरपुरनगरवास्तव्यवन्द्यघटीयमहामहोपाध्यायराधाकान्त-सिद्धान्तवागीशभट्टाचार्य्यात्मजब्रह्ममयीसूनुश्रीचन्द्रकान्ततर्कालङ्कारभट्टाचार्य्यविरचितं श्राद्धकल्पपरिशिष्टभाष्यं सम्पूर्णम्।**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

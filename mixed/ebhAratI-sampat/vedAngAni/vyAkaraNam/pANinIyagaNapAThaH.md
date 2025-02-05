@@ -1,12 +1,11 @@
 +++
-TITLE = "पाणिनीयगणपाठः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3532"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODUwOTMz&pageno=MjI0MjQyNjk5NTk="
 title = "पाणिनीयगणपाठः"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3532"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODUwOTMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पाणिनीयगणपाठः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODUwOTMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -15591,8 +15590,5 @@ title = "पाणिनीयगणपाठः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

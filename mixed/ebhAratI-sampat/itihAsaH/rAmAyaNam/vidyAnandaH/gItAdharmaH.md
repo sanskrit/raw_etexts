@@ -1,16 +1,15 @@
 +++
-TITLE = "गीताधर्मः"
-AUTHOR = "विद्यानन्दः"
-PUBLISHER = "गोवर्धनः मङ्गल-पटेलः"
-"PUBLISH YEAR" = "1947"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "523"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "गीताधर्म-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6113"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2NTI5OTIwNTI4Njg1&pageno=MjI0MjQyNjk5NTk="
 title = "गीताधर्मः"
+author = "विद्यानन्दः"
+publisher = "गोवर्धनः मङ्गल-पटेलः"
+"publish year" = "1947"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "523"
+language = "संस्कृतम् हिन्दी"
+printer = "गीताधर्म-मुद्रणालयः"
+"serial no." = "Ebharati-6113"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2NTI5OTIwNTI4Njg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गीताधर्मः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njg2NTI5OTIwNTI4Njg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -13631,19 +13630,6 @@ title = "गीताधर्मः"
 
 ![](../books_images/U-IMG-1725393087n.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

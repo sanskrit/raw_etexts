@@ -1,13 +1,12 @@
 +++
-TITLE = "जातकमाला"
-AUTHOR = "आर्यशूरः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3719"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODE0NzY1NTIwMDEwNzUz"
 title = "जातकमाला"
+author = "आर्यशूरः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3719"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODE0NzY1NTIwMDEwNzUz"
 
 +++
 [[जातकमाला	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODE0NzY1NTIwMDEwNzUz)]]

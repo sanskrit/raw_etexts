@@ -1,17 +1,16 @@
 +++
-TITLE = "पद्मपुराणम् (प्रथमः भागः)"
-AUTHOR = "व्यासः"
-PUBLISHER = "महादेव-चिमणाजी-आपटे"
-"PUBLISH YEAR" = "1893"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "383"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "विश्वनाथः नारायणः"
-PRINTER = "आनन्दाश्रम-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7664"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMjI5MTAyNTE3NTM3&pageno=MjI0MjQyNjk5NTk="
 title = "पद्मपुराणम् (प्रथमः भागः)"
+author = "व्यासः"
+publisher = "महादेव-चिमणाजी-आपटे"
+"publish year" = "1893"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "383"
+language = "संस्कृतम्"
+editor = "विश्वनाथः नारायणः"
+printer = "आनन्दाश्रम-मुद्रणालयः"
+"serial no." = "Ebharati-7664"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMjI5MTAyNTE3NTM3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पद्मपुराणम् (प्रथमः भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMjI5MTAyNTE3NTM3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -31784,19 +31783,6 @@ title = "पद्मपुराणम् (प्रथमः भागः)"
 बी. ए. एल. एल. बी.,  
 मुंबई युनिम्हर्सिटीचे फेलो, व मुंबई हायकोर्टाचे वकील.
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

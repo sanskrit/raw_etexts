@@ -1,15 +1,14 @@
 +++
-TITLE = "पर्यटनमीमांसा_Split-1"
-AUTHOR = "राजराजेश्वरशङ्कराश्रमस्वामी"
-"PUBLISH YEAR" = "1947"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "36"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "निर्णयसागरः"
-"SERIAL NO." = "Ebharati-5114"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAxNjQ3Mzg3NDI5MDk0&pageno=MjI0MjQyNjk5NTk="
 title = "पर्यटनमीमांसा_Split-1"
+author = "राजराजेश्वरशङ्कराश्रमस्वामी"
+"publish year" = "1947"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "36"
+language = "संस्कृतम्"
+printer = "निर्णयसागरः"
+"serial no." = "Ebharati-5114"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAxNjQ3Mzg3NDI5MDk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पर्यटनमीमांसा_Split-1	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODAxNjQ3Mzg3NDI5MDk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -859,19 +858,6 @@ title = "पर्यटनमीमांसा_Split-1"
 शिष्यसञ्चारशालिन्यां मया लोकार्थहेतवे ॥ २ ॥
 
  इति श्रीमत्परमहंसपरिव्राजकाचार्य्यवर्य्यपदवाक्यप्रमाणपारावारपारी- णत्वाद्यनेकपदाङ्कितजगद्गुरुश्रीमच्छङ्कराचार्य्यश्रीशारदापीठद्वारकासंस्थानाधीश्वरश्रीमत्केशवाश्रमस्वामिदेशिकवरकरकमलसञ्जातजगद्गुरुश्रीमच्छङ्कराचार्यश्रीशारदापीठद्वारकासंस्थानाघीश्वरश्रीमद्राजराजेश्वरशङ्कराश्रमस्वामिविरचिता पर्य्यटनमीमांसा समाप्ता.
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

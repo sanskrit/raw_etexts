@@ -1,12 +1,11 @@
 +++
-TITLE = "सिद्धान्तशिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3971"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY3NzU2ODcwMTAyMTgz&pageno=MjI0MjQyNjk5NTk="
 title = "सिद्धान्तशिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3971"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY3NzU2ODcwMTAyMTgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सिद्धान्तशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjY3NzU2ODcwMTAyMTgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -179,8 +178,5 @@ title = "सिद्धान्तशिक्षा"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,16 +1,15 @@
 +++
-TITLE = "मृगाङ्कलेखा नाटिका"
-AUTHOR = "विश्वनाथदेवः"
-"PUBLISH YEAR" = "1929"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "86"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गोपीनाथकविराजः"
-PRINTER = "विद्याविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5488"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5MTE0ODczNzI4NjI1&pageno=MjI0MjQyNjk5NTk="
 title = "मृगाङ्कलेखा नाटिका"
+author = "विश्वनाथदेवः"
+"publish year" = "1929"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "86"
+language = "संस्कृतम्"
+editor = "गोपीनाथकविराजः"
+printer = "विद्याविलास-मुद्रणालयः"
+"serial no." = "Ebharati-5488"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5MTE0ODczNzI4NjI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मृगाङ्कलेखा नाटिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM5MTE0ODczNzI4NjI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1844,19 +1843,6 @@ title = "मृगाङ्कलेखा नाटिका"
 
 ![](../books_images/U-IMG-1728196874ा.jpg)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

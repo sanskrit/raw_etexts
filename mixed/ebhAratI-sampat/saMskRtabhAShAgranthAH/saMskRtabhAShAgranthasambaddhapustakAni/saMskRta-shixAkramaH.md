@@ -1,15 +1,14 @@
 +++
-TITLE = "संस्कृत-शिक्षाक्रमः"
-PUBLISHER = "गिरिधरशर्मा"
-"PUBLISH YEAR" = "1921"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "48"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "रामनारायण-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7021"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY4NDQwODE2OTg5Mzc2&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृत-शिक्षाक्रमः"
+publisher = "गिरिधरशर्मा"
+"publish year" = "1921"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "48"
+language = "संस्कृतम्"
+printer = "रामनारायण-यन्त्रालयः"
+"serial no." = "Ebharati-7021"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY4NDQwODE2OTg5Mzc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृत-शिक्षाक्रमः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjY4NDQwODE2OTg5Mzc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -848,8 +847,5 @@ title = "संस्कृत-शिक्षाक्रमः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

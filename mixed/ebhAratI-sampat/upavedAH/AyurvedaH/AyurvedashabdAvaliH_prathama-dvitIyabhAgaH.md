@@ -1,12 +1,11 @@
 +++
-TITLE = "आयुर्वेदशब्दावलिः प्रथम-द्वितीयभागः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "35"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-"SERIAL NO." = "Ebharati-3384"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQwNjUzNDgyMTU4NDIz&pageno=MjI0MjQyNjk5NTk="
 title = "आयुर्वेदशब्दावलिः प्रथम-द्वितीयभागः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "35"
+language = "संस्कृतम् आङ्ग्लम्"
+"serial no." = "Ebharati-3384"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQwNjUzNDgyMTU4NDIz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आयुर्वेदशब्दावलिः प्रथम-द्वितीयभागः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQwNjUzNDgyMTU4NDIz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -900,8 +899,5 @@ III\. Measurement of Time
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

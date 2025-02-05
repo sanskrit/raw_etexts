@@ -1,17 +1,16 @@
 +++
-TITLE = "साहित्यसुधासंग्रहः (तृतीयबिन्दुः)"
-AUTHOR = "भवानीप्रसादः"
-PUBLISHER = "नन्दलालः"
-"PUBLISH YEAR" = "1926"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "गद्यम्"
-PAGES = "200"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वागीश्वरविद्यालङ्कारः"
-PRINTER = "गुरुकुल-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5367"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTEyNTE1&pageno=MjI0MjQyNjk5NTk="
 title = "साहित्यसुधासंग्रहः (तृतीयबिन्दुः)"
+author = "भवानीप्रसादः"
+publisher = "नन्दलालः"
+"publish year" = "1926"
+domain = "काव्यानि"
+sub-domain = "गद्यम्"
+pages = "200"
+language = "संस्कृतम्"
+editor = "वागीश्वरविद्यालङ्कारः"
+printer = "गुरुकुल-मुद्रणालयः"
+"serial no." = "Ebharati-5367"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTEyNTE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[साहित्यसुधासंग्रहः (तृतीयबिन्दुः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTEyNTE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6165,19 +6164,6 @@ title = "साहित्यसुधासंग्रहः (तृतीय
 
 **![](../books_images/U-IMG-1721526797Screenshot2024-07-21064941.png)**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

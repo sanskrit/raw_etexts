@@ -1,12 +1,11 @@
 +++
-TITLE = "यज्ञतत्त्वप्रकाशः"
-AUTHOR = "ए चिन्नस्वामी"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2500"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDAwNTUwNjA2MDk5OTMy"
 title = "यज्ञतत्त्वप्रकाशः"
+author = "ए चिन्नस्वामी"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2500"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDAwNTUwNjA2MDk5OTMy"
 
 +++
 [[यज्ञतत्त्वप्रकाशः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDAwNTUwNjA2MDk5OTMy)]]

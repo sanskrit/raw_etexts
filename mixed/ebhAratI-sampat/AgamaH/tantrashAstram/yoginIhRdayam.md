@@ -1,18 +1,17 @@
 +++
-TITLE = "योगिनीहृदयम्"
-PUBLISHER = "वारणासेयसंस्कृतविश्वविद्यालयः"
-"PUBLISH YEAR" = "1924"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "455"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गोपीनाथकविराजः"
-"PRIMARY COMMENTATOR" = "अमृतानन्दः भास्कररायः"
-"COMMENTARY NAME" = "दीपिका सेतुबन्धः"
-PRINTER = "विक्रमपञ्चाङ्ग-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6052"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5NzMxOTUyOTY5MDg1&pageno=MjI0MjQyNjk5NTk="
 title = "योगिनीहृदयम्"
+publisher = "वारणासेयसंस्कृतविश्वविद्यालयः"
+"publish year" = "1924"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "455"
+language = "संस्कृतम्"
+editor = "गोपीनाथकविराजः"
+"primary commentator" = "अमृतानन्दः भास्कररायः"
+"commentary name" = "दीपिका सेतुबन्धः"
+printer = "विक्रमपञ्चाङ्ग-मुद्रणालयः"
+"serial no." = "Ebharati-6052"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5NzMxOTUyOTY5MDg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[योगिनीहृदयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5NzMxOTUyOTY5MDg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7115,19 +7114,6 @@ March 30, 1924.
 
 ![](../books_images/U-IMG-1721333365Screenshot2024-07-19013915.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

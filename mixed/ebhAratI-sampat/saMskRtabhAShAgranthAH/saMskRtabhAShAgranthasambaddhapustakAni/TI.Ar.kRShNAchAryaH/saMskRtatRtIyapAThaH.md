@@ -1,16 +1,15 @@
 +++
-TITLE = "संस्कृततृतीयपाठः"
-AUTHOR = "टी.आर्.कृष्णाचार्यः"
-PUBLISHER = "टी.के.वेंकोबाचार्यः"
-"PUBLISH YEAR" = "1948"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "87"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "गोपालविलास-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6995"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk4MTQ3NTE3Mzk0MTc2&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृततृतीयपाठः"
+author = "टी.आर्.कृष्णाचार्यः"
+publisher = "टी.के.वेंकोबाचार्यः"
+"publish year" = "1948"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "87"
+language = "संस्कृतम्"
+printer = "गोपालविलास-यन्त्रालयः"
+"serial no." = "Ebharati-6995"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk4MTQ3NTE3Mzk0MTc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृततृतीयपाठः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDk4MTQ3NTE3Mzk0MTc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1073,19 +1072,6 @@ title = "संस्कृततृतीयपाठः"
 |  6  |    शखा    |    शाखा    |
 | 16  | त्यात्तवा | त्यक्तत्वा |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

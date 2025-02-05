@@ -1,16 +1,15 @@
 +++
-TITLE = "चतुर्दण्डिप्रकाशिका"
-AUTHOR = "वेंकटेश्वरदीक्षित"
-PUBLISHER = "भालोहन्द्र सीताराम सुक्थन्कर्"
-"PUBLISH YEAR" = "१९१८"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "56"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "आर्यभूषणाल्यमुद्रालय"
-"SERIAL NO." = "Ebharati-4655"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0NDc0ODA1MjY4NjQ0&pageno=MjI0MjQyNjk5NTk="
 title = "चतुर्दण्डिप्रकाशिका"
+author = "वेंकटेश्वरदीक्षित"
+publisher = "भालोहन्द्र सीताराम सुक्थन्कर्"
+"publish year" = "१९१८"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "56"
+language = "संस्कृतम्"
+printer = "आर्यभूषणाल्यमुद्रालय"
+"serial no." = "Ebharati-4655"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0NDc0ODA1MjY4NjQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चतुर्दण्डिप्रकाशिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE0NDc0ODA1MjY4NjQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2059,19 +2058,6 @@ at 2 Malabar Hill, Bombay.
 | २० रम्या      | धैवतः       |              |
 | २१ उग्रा      |            |              |
 | २२ क्षोभिणी   | निषादः      |              |
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

@@ -1,16 +1,15 @@
 +++
-TITLE = "चारुचरितावली"
-PUBLISHER = "सिद्धगोपालः"
-"PUBLISH YEAR" = "1921"
-DOMAIN = "प्रबन्धाः"
-SUB-DOMAIN = "प्रबन्धसम्बद्धपुस्तकानि"
-PAGES = "189"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "भवानी-प्रसादः"
-PRINTER = "दीनबन्धु-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6499"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc1MDA1OTc1OTc4MzI2&pageno=MjI0MjQyNjk5NTk="
 title = "चारुचरितावली"
+publisher = "सिद्धगोपालः"
+"publish year" = "1921"
+domain = "प्रबन्धाः"
+sub-domain = "प्रबन्धसम्बद्धपुस्तकानि"
+pages = "189"
+language = "संस्कृतम्"
+editor = "भवानी-प्रसादः"
+printer = "दीनबन्धु-मुद्रणालयः"
+"serial no." = "Ebharati-6499"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc1MDA1OTc1OTc4MzI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चारुचरितावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODc1MDA1OTc1OTc4MzI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1902,8 +1901,5 @@ title = "चारुचरितावली"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

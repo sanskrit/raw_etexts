@@ -1,12 +1,11 @@
 +++
-TITLE = "रघुवीरगद्यम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "गद्यम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3033"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI5NTYyMzA2NjUxMTky&pageno=MjI0MjQyNjk5NTk="
 title = "रघुवीरगद्यम्"
+domain = "साहित्यम्"
+sub-domain = "गद्यम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3033"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI5NTYyMzA2NjUxMTky&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रघुवीरगद्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjI5NTYyMzA2NjUxMTky&pageno=MjI0MjQyNjk5NTk=)]]
@@ -338,19 +337,6 @@ In his works, the indication or mudhra is "venkatesa" or venkata kavi .
 Encoded by T. R. Chari trchari@hotmail.com
 
 http://trchari.tripod.com/script.html
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

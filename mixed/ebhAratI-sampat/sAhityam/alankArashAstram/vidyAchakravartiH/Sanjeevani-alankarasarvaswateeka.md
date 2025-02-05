@@ -1,13 +1,12 @@
 +++
-TITLE = "Sanjeevani-alankarasarvaswateeka"
-AUTHOR = "विद्याचक्रवर्तिः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2681"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzMzM5NTI5NTYzNzUy&pageno=MjI0MjQyNjk5NTk="
 title = "Sanjeevani-alankarasarvaswateeka"
+author = "विद्याचक्रवर्तिः"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2681"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzMzM5NTI5NTYzNzUy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[Sanjeevani-alankarasarvaswateeka	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjgzMzM5NTI5NTYzNzUy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9513,19 +9512,6 @@ title = "Sanjeevani-alankarasarvaswateeka"
 
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

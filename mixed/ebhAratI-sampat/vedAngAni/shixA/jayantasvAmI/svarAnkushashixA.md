@@ -1,13 +1,12 @@
 +++
-TITLE = "स्वराङ्कुशशिक्षा"
-AUTHOR = "जयन्तस्वामी"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3973"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA2MjQxMTcwMzkzMTgz&pageno=MjI0MjQyNjk5NTk="
 title = "स्वराङ्कुशशिक्षा"
+author = "जयन्तस्वामी"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3973"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA2MjQxMTcwMzkzMTgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्वराङ्कुशशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjA2MjQxMTcwMzkzMTgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -88,19 +87,6 @@ title = "स्वराङ्कुशशिक्षा"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

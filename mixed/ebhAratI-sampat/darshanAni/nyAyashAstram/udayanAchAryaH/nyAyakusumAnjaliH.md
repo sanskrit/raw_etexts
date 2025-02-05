@@ -1,12 +1,11 @@
 +++
-TITLE = "न्यायकुसुमाञ्जलिः"
-AUTHOR = "उदयनाचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4066"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU4Nzg2MTI3MDIzMDkz"
 title = "न्यायकुसुमाञ्जलिः"
+author = "उदयनाचार्यः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4066"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU4Nzg2MTI3MDIzMDkz"
 
 +++
 [[न्यायकुसुमाञ्जलिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjU4Nzg2MTI3MDIzMDkz)]]

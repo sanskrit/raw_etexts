@@ -1,12 +1,11 @@
 +++
-TITLE = "अग्निपुराणम् सुभाषितसङ्ग्रहः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "पुराणानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4131"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyNTQ0Nzc0MDY1Njkz&pageno=MjI0MjQyNjk5NTk="
 title = "अग्निपुराणम् सुभाषितसङ्ग्रहः"
+domain = "सुभाषितानि"
+sub-domain = "पुराणानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4131"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyNTQ0Nzc0MDY1Njkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अग्निपुराणम् सुभाषितसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjgyNTQ0Nzc0MDY1Njkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -395,8 +394,5 @@ title = "अग्निपुराणम् सुभाषितसङ्ग�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

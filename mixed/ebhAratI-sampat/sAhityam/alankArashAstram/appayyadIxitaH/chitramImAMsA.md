@@ -1,15 +1,14 @@
 +++
-TITLE = "चित्रमीमांसा"
-AUTHOR = "अप्पय्यदीक्षितः"
-"PUBLISH YEAR" = "1999"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "नरसिंहाचार्यः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2675"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU4ODc0ODQ5OTg3NjUy&pageno=MjI0MjQyNjk5NTk="
 title = "चित्रमीमांसा"
+author = "अप्पय्यदीक्षितः"
+"publish year" = "1999"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+language = "संस्कृतम्"
+editor = "नरसिंहाचार्यः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2675"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU4ODc0ODQ5OTg3NjUy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चित्रमीमांसा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU4ODc0ODQ5OTg3NjUy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2256,8 +2255,5 @@ III लक्ष्यश्लोकानाम् अकाराद्यन
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,15 +1,14 @@
 +++
-TITLE = "बोधायन-पूर्वप्रयोगदर्शः"
-AUTHOR = "कनकसभापति:"
-PUBLISHER = "दक्षिणभारतीय-अर्चकानाम्-संघः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "325"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "एस्.सुब्रह्मण्य-शास्त्री"
-"SERIAL NO." = "Ebharati-7494"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY0MDE3MDQ4NTkzOTE3&pageno=MjI0MjQyNjk5NTk="
 title = "बोधायन-पूर्वप्रयोगदर्शः"
+author = "कनकसभापति:"
+publisher = "दक्षिणभारतीय-अर्चकानाम्-संघः"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "325"
+language = "संस्कृतम्"
+editor = "एस्.सुब्रह्मण्य-शास्त्री"
+"serial no." = "Ebharati-7494"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY0MDE3MDQ4NTkzOTE3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बोधायन-पूर्वप्रयोगदर्शः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY0MDE3MDQ4NTkzOTE3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5444,19 +5443,6 @@ title = "बोधायन-पूर्वप्रयोगदर्शः"
 इत्यं कनक सभापतिपूर्वप्रयोगादर्शग्रन्थः समाप्तः \।\।
 
     इति शुभम्॥ श्रीकृष्णार्पणमस्तु॥
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

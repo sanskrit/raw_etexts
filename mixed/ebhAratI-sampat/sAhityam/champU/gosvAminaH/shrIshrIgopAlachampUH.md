@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीश्रीगोपालचम्पूः"
-AUTHOR = "गोस्वामिनः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "चम्पू"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2758"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc4OTk1NjM2NzU3NDYy"
 title = "श्रीश्रीगोपालचम्पूः"
+author = "गोस्वामिनः"
+domain = "साहित्यम्"
+sub-domain = "चम्पू"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2758"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc4OTk1NjM2NzU3NDYy"
 
 +++
 [[श्रीश्रीगोपालचम्पूः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=Njc4OTk1NjM2NzU3NDYy)]]

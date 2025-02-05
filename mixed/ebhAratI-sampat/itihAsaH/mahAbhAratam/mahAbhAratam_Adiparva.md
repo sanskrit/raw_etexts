@@ -1,16 +1,15 @@
 +++
-TITLE = "महाभारतम् (आदिपर्व)"
-PUBLISHER = "वि. रामस्वामि शास्त्रुलु एण्ड् सन्स्"
-"PUBLISH YEAR" = "1931"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "महाभारतम्"
-PAGES = "999"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पि.पि.सुब्रह्मण्यशास्त्री"
-PRINTER = "वाविळ्ळ मुद्रणालयम् चेन्नपुरी"
-"SERIAL NO." = "Ebharati-6071"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY5MzQ3NzgxMzk3Mjg1&pageno=MjI0MjQyNjk5NTk="
 title = "महाभारतम् (आदिपर्व)"
+publisher = "वि. रामस्वामि शास्त्रुलु एण्ड् सन्स्"
+"publish year" = "1931"
+domain = "इतिहासः"
+sub-domain = "महाभारतम्"
+pages = "999"
+language = "संस्कृतम्"
+editor = "पि.पि.सुब्रह्मण्यशास्त्री"
+printer = "वाविळ्ळ मुद्रणालयम् चेन्नपुरी"
+"serial no." = "Ebharati-6071"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY5MzQ3NzgxMzk3Mjg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[महाभारतम् (आदिपर्व)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjY5MzQ3NzgxMzk3Mjg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -29749,8 +29748,5 @@ Printed by V.Ramaswamy Sastrulu & Sons at‘Vavilla’ Press, Madras.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

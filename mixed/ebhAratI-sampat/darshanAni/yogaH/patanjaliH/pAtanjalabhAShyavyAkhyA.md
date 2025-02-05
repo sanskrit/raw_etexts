@@ -1,13 +1,12 @@
 +++
-TITLE = "पातञ्जलभाष्यव्याख्या"
-AUTHOR = "पतञ्जलिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3859"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODk0NjA1OTk0OTQ0MDcz"
 title = "पातञ्जलभाष्यव्याख्या"
+author = "पतञ्जलिः"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3859"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODk0NjA1OTk0OTQ0MDcz"
 
 +++
 [[पातञ्जलभाष्यव्याख्या	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODk0NjA1OTk0OTQ0MDcz)]]

@@ -1,18 +1,17 @@
 +++
-TITLE = "योगरसायनम्"
-AUTHOR = "पतञ्जलिः"
-PUBLISHER = "पाण्डुरङ्गजावजी"
-"PUBLISH YEAR" = "१९२९"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "100"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "ब्रह्मानन्दस्वामी"
-EDITOR = "ब्रह्मानन्दस्वामी"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1648"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU0MTE1NzA4MTAyODUx&pageno=MjI0MjQyNjk5NTk="
 title = "योगरसायनम्"
+author = "पतञ्जलिः"
+publisher = "पाण्डुरङ्गजावजी"
+"publish year" = "१९२९"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "100"
+language = "संस्कृतम् हिन्दी"
+translator = "ब्रह्मानन्दस्वामी"
+editor = "ब्रह्मानन्दस्वामी"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-1648"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU0MTE1NzA4MTAyODUx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[योगरसायनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjU0MTE1NzA4MTAyODUx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2104,8 +2103,5 @@ title = "योगरसायनम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

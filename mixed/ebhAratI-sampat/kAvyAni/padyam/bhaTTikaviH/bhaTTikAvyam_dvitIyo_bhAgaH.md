@@ -1,18 +1,17 @@
 +++
-TITLE = "भट्टिकाव्यम् (द्वितीयो भागः)"
-AUTHOR = "भट्टिकविः"
-PUBLISHER = "गवर्नमेण्ट-सेन्ट्रल्-बुक्-डिपोट्"
-"PUBLISH YEAR" = "1898"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "455"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-EDITOR = "कमलशङ्करः"
-"PRIMARY COMMENTATOR" = "मल्लिनाथः"
-PRINTER = "तत्वविवेचक-प्रेस् बोम्बे"
-"SERIAL NO." = "Ebharati-5796"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE5NzcwMTIyNDkzNjU1&pageno=MjI0MjQyNjk5NTk="
 title = "भट्टिकाव्यम् (द्वितीयो भागः)"
+author = "भट्टिकविः"
+publisher = "गवर्नमेण्ट-सेन्ट्रल्-बुक्-डिपोट्"
+"publish year" = "1898"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "455"
+language = "संस्कृतम् आङ्ग्लम्"
+editor = "कमलशङ्करः"
+"primary commentator" = "मल्लिनाथः"
+printer = "तत्वविवेचक-प्रेस् बोम्बे"
+"serial no." = "Ebharati-5796"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE5NzcwMTIyNDkzNjU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भट्टिकाव्यम् (द्वितीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE5NzcwMTIyNDkzNjU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9591,19 +9590,6 @@ Anonymous Quotations by Mallinâtha.**\***
 
 ![](../books_images/U-IMG-17264790341.jpg)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

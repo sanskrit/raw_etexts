@@ -1,12 +1,11 @@
 +++
-TITLE = "गणकारिका"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4015"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMzNDIzMzE5NDI0NTgz&pageno=MjI0MjQyNjk5NTk="
 title = "गणकारिका"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4015"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMzNDIzMzE5NDI0NTgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गणकारिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDMzNDIzMzE5NDI0NTgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -683,8 +682,5 @@ title = "गणकारिका"
   नमः सद्गुरवे तस्मै सर्वविद्यान्तगामिने ।  
   सच्छ्लोकैरष्टभिर्येन पञ्चार्थाब्धिः प्रदर्शितः ॥ १.८४७\]
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

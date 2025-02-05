@@ -1,12 +1,11 @@
 +++
-TITLE = "नाममालिका"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "कोषसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3084"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ0OTI2MTE0MjUwNjky&pageno=MjI0MjQyNjk5NTk="
 title = "नाममालिका"
+domain = "कोषाः"
+sub-domain = "कोषसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3084"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ0OTI2MTE0MjUwNjky&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नाममालिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ0OTI2MTE0MjUwNjky&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1920,8 +1919,5 @@ This is prepared an d compiled by
 Dr.P .Srinivas , Lecturer in Vyakarana , S.V.V.V.S.College , Bowenpally, Secunderabad, A.P.500011  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

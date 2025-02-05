@@ -1,13 +1,12 @@
 +++
-TITLE = "वेदान्तपरिभाषा"
-AUTHOR = "धर्मराज-अध्वरीन्द्रः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "75"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2177"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MjU3OTE4Mzg5ODAy&pageno=MjI0MjQyNjk5NTk="
 title = "वेदान्तपरिभाषा"
+author = "धर्मराज-अध्वरीन्द्रः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "75"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2177"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MjU3OTE4Mzg5ODAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वेदान्तपरिभाषा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MjU3OTE4Mzg5ODAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2842,19 +2841,6 @@ title = "वेदान्तपरिभाषा"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

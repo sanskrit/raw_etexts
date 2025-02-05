@@ -1,16 +1,15 @@
 +++
-TITLE = "अग्निपुराणम्"
-PUBLISHER = "एशियाटिक्-सोसैटि-आफ्-बेंगाल"
-"PUBLISH YEAR" = "1879"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "436"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "राजेन्द्रलालमित्र"
-PRINTER = "गणेश-प्रेस्"
-"SERIAL NO." = "Ebharati-6763"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg5OTk0Nzg1MjIyOTQ2&pageno=MjI0MjQyNjk5NTk="
 title = "अग्निपुराणम्"
+publisher = "एशियाटिक्-सोसैटि-आफ्-बेंगाल"
+"publish year" = "1879"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "436"
+language = "संस्कृतम्"
+editor = "राजेन्द्रलालमित्र"
+printer = "गणेश-प्रेस्"
+"serial no." = "Ebharati-6763"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg5OTk0Nzg1MjIyOTQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अग्निपुराणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njg5OTk0Nzg1MjIyOTQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -14271,8 +14270,5 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

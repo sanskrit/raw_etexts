@@ -1,13 +1,12 @@
 +++
-TITLE = "पञ्चदशी द्वैतविवेकप्रकरणम्"
-AUTHOR = "विद्यारण्यमुनिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "33"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2152"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQxMjk2MzE5Mzg1NjAy&pageno=MjI0MjQyNjk5NTk="
 title = "पञ्चदशी द्वैतविवेकप्रकरणम्"
+author = "विद्यारण्यमुनिः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "33"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2152"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQxMjk2MzE5Mzg1NjAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पञ्चदशी द्वैतविवेकप्रकरणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQxMjk2MzE5Mzg1NjAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -865,8 +864,5 @@ title = "पञ्चदशी द्वैतविवेकप्रकरण�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,13 +1,12 @@
 +++
-TITLE = "नरसिंहनस्वस्तोत्रम्"
-AUTHOR = "आनन्दतीर्थः"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2989"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUzOTk1ODY3MjM5Njgy&pageno=MjI0MjQyNjk5NTk="
 title = "नरसिंहनस्वस्तोत्रम्"
+author = "आनन्दतीर्थः"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2989"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUzOTk1ODY3MjM5Njgy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नरसिंहनस्वस्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODUzOTk1ODY3MjM5Njgy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -66,8 +65,5 @@ F.N.
     -छान्दोग्योपनिषद्भाष्ये  
  
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

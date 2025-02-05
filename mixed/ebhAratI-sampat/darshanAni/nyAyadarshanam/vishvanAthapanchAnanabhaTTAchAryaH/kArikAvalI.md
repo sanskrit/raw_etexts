@@ -1,17 +1,16 @@
 +++
-TITLE = "कारिकावली"
-AUTHOR = "विश्वनाथपञ्चाननभट्टाचार्यः"
-PUBLISHER = "पाण्डुरङ्ग-जावजी"
-"PUBLISH YEAR" = "1934"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायदर्शनम्"
-PAGES = "99"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "महादेवगङ्गाधरशास्त्रीबक्रे"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8501"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI0OTI4NjUwNDYwNjE4&pageno=MjI0MjQyNjk5NTk="
 title = "कारिकावली"
+author = "विश्वनाथपञ्चाननभट्टाचार्यः"
+publisher = "पाण्डुरङ्ग-जावजी"
+"publish year" = "1934"
+domain = "दर्शनानि"
+sub-domain = "न्यायदर्शनम्"
+pages = "99"
+language = "संस्कृतम्"
+editor = "महादेवगङ्गाधरशास्त्रीबक्रे"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-8501"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI0OTI4NjUwNDYwNjE4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कारिकावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjI0OTI4NjUwNDYwNjE4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2112,8 +2111,5 @@ title = "कारिकावली"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

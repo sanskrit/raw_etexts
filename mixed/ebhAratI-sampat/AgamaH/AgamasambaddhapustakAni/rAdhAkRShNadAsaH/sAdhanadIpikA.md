@@ -1,11 +1,10 @@
 +++
-TITLE = "साधनदीपिका"
-AUTHOR = "राधाकृष्णदासः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "आगमसम्बद्धपुस्तकानि"
-"SERIAL NO." = "Ebharati-431"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjg4Mzg0MDgzNDczMTQ="
 title = "साधनदीपिका"
+author = "राधाकृष्णदासः"
+domain = "आगमः"
+sub-domain = "आगमसम्बद्धपुस्तकानि"
+"serial no." = "Ebharati-431"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjg4Mzg0MDgzNDczMTQ="
 
 +++
 [[साधनदीपिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=Mjg4Mzg0MDgzNDczMTQ=)]]

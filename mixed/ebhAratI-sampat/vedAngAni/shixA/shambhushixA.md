@@ -1,12 +1,11 @@
 +++
-TITLE = "शम्भुशिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3964"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA4MDY5NDAxOTI1MDgz&pageno=MjI0MjQyNjk5NTk="
 title = "शम्भुशिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3964"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA4MDY5NDAxOTI1MDgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शम्भुशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODA4MDY5NDAxOTI1MDgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -138,8 +137,5 @@ title = "शम्भुशिक्षा"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

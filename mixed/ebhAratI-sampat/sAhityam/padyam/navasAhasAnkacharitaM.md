@@ -1,11 +1,10 @@
 +++
-TITLE = "नवसाहसाङ्कचरितं"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3139"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU2MjY5NDAyMjMzMTAz"
 title = "नवसाहसाङ्कचरितं"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3139"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU2MjY5NDAyMjMzMTAz"
 
 +++
 [[नवसाहसाङ्कचरितं	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODU2MjY5NDAyMjMzMTAz)]]

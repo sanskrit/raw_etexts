@@ -1,17 +1,16 @@
 +++
-TITLE = "वर्षकृत्यदीपकः"
-AUTHOR = "नित्यानन्दपन्तः-गोपालशास्त्री"
-PUBLISHER = "चौखम्बा-संस्कृत-सीरिज्-आफिस्"
-"PUBLISH YEAR" = "1932"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "474"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "विनायक-शास्त्री-टिल्लू"
-PRINTER = "जयकृष्णदास-हरिदासगुप्तः"
-"SERIAL NO." = "Ebharati-6359"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk0MTY1NTAxMDQ0MDE2&pageno=MjI0MjQyNjk5NTk="
 title = "वर्षकृत्यदीपकः"
+author = "नित्यानन्दपन्तः-गोपालशास्त्री"
+publisher = "चौखम्बा-संस्कृत-सीरिज्-आफिस्"
+"publish year" = "1932"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "474"
+language = "संस्कृतम्"
+editor = "विनायक-शास्त्री-टिल्लू"
+printer = "जयकृष्णदास-हरिदासगुप्तः"
+"serial no." = "Ebharati-6359"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk0MTY1NTAxMDQ0MDE2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वर्षकृत्यदीपकः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODk0MTY1NTAxMDQ0MDE2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -15366,19 +15365,6 @@ at the Vidya Vilas Press, Benares.***
 
 **        ![](../books_images/U-IMG-1697132599M.PNG)**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

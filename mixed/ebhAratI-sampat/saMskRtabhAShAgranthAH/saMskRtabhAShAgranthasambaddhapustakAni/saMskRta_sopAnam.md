@@ -1,13 +1,12 @@
 +++
-TITLE = "संस्कृत सोपानम्"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "47"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "बम्बईमैशीन-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6992"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI2NDEwNzI3NTAyMTc2&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृत सोपानम्"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "47"
+language = "संस्कृतम् हिन्दी"
+printer = "बम्बईमैशीन-यन्त्रालयः"
+"serial no." = "Ebharati-6992"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI2NDEwNzI3NTAyMTc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृत सोपानम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDI2NDEwNzI3NTAyMTc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1303,8 +1302,5 @@ title = "संस्कृत सोपानम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

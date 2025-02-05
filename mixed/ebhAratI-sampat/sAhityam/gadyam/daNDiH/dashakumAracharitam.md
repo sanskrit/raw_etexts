@@ -1,12 +1,11 @@
 +++
-TITLE = "दशकुमारचरितम्"
-AUTHOR = "दण्डिः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "गद्यम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3036"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkxMzk5MTk1NDQ0MTky"
 title = "दशकुमारचरितम्"
+author = "दण्डिः"
+domain = "साहित्यम्"
+sub-domain = "गद्यम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3036"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkxMzk5MTk1NDQ0MTky"
 
 +++
 [[दशकुमारचरितम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjkxMzk5MTk1NDQ0MTky)]]

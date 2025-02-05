@@ -1,15 +1,14 @@
 +++
-TITLE = "संशोधित पञ्चतन्त्रकम् - २"
-AUTHOR = "विष्णुशर्म"
-"PUBLISH YEAR" = "1914"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "153"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गुरुकुलस्थपण्डिताः"
-"SERIAL NO." = "Ebharati-5754"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgxNjk4ODczMjYzMjU1&pageno=MjI0MjQyNjk5NTk="
 title = "संशोधित पञ्चतन्त्रकम् - २"
+author = "विष्णुशर्म"
+"publish year" = "1914"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "153"
+language = "संस्कृतम्"
+editor = "गुरुकुलस्थपण्डिताः"
+"serial no." = "Ebharati-5754"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgxNjk4ODczMjYzMjU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संशोधित पञ्चतन्त्रकम् - २	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODgxNjk4ODczMjYzMjU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2193,19 +2192,6 @@ title = "संशोधित पञ्चतन्त्रकम् - २"
 
 २४. सौम्यानिलः सुखप्रदो वायुः। अग्निहोत्रपरिग्रहो विहितो यागादिविधि। पर्जन्योमेघः। गगनम्
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

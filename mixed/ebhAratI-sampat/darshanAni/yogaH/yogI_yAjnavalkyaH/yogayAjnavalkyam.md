@@ -1,15 +1,14 @@
 +++
-TITLE = "योगयाज्ञवल्क्यम्"
-AUTHOR = "योगी याज्ञवल्क्यः"
-"PUBLISH YEAR" = "१९५४"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "153"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "सि प्रह्लाद-दिवान्जि"
-"SERIAL NO." = "Ebharati-1675"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU4NjUwNjA3Mzk3MDYx&pageno=MjI0MjQyNjk5NTk="
 title = "योगयाज्ञवल्क्यम्"
+author = "योगी याज्ञवल्क्यः"
+"publish year" = "१९५४"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "153"
+language = "संस्कृतम्"
+editor = "सि प्रह्लाद-दिवान्जि"
+"serial no." = "Ebharati-1675"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU4NjUwNjA3Mzk3MDYx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[योगयाज्ञवल्क्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU4NjUwNjA3Mzk3MDYx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2624,19 +2623,6 @@ Apply to:-
                 Trivandrum.  
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

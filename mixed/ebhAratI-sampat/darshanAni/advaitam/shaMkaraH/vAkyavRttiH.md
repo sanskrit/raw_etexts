@@ -1,13 +1,12 @@
 +++
-TITLE = "वाक्यवृत्तिः"
-AUTHOR = "शंकरः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2600"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyNzkyMDMyMDk1OTQy&pageno=MjI0MjQyNjk5NTk="
 title = "वाक्यवृत्तिः"
+author = "शंकरः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2600"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyNzkyMDMyMDk1OTQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वाक्यवृत्तिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDAyNzkyMDMyMDk1OTQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -576,8 +575,5 @@ title = "वाक्यवृत्तिः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

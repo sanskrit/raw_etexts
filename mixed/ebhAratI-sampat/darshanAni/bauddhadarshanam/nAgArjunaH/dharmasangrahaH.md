@@ -1,13 +1,12 @@
 +++
-TITLE = "धर्मसङ्ग्रहः"
-AUTHOR = "नागार्जुनः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3705"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE1MzcxODcwNjY2NTUz&pageno=MjI0MjQyNjk5NTk="
 title = "धर्मसङ्ग्रहः"
+author = "नागार्जुनः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3705"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE1MzcxODcwNjY2NTUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[धर्मसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE1MzcxODcwNjY2NTUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -345,8 +344,5 @@ title = "धर्मसङ्ग्रहः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

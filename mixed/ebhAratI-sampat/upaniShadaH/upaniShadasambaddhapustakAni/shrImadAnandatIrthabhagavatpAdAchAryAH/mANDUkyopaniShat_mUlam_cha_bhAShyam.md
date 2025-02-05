@@ -1,13 +1,12 @@
 +++
-TITLE = "माण्डूक्योपनिषत् मूलम् च भाष्यम्"
-AUTHOR = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3249"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODcwOTI2MTk3MTk4MTEz"
 title = "माण्डूक्योपनिषत् मूलम् च भाष्यम्"
+author = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3249"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODcwOTI2MTk3MTk4MTEz"
 
 +++
 [[माण्डूक्योपनिषत् मूलम् च भाष्यम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODcwOTI2MTk3MTk4MTEz)]]

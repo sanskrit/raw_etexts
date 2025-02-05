@@ -1,17 +1,16 @@
 +++
-TITLE = "कौटलीय-अर्थशास्त्रम् (हिन्दी-अनुवादसहितम्)"
-AUTHOR = "कौटिल्यः"
-PUBLISHER = "चतुरसेन-गुप्ता"
-"PUBLISH YEAR" = "1944"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "अर्थशास्त्रम्"
-PAGES = "713"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "गङ्गाप्रसाद-जि-शास्त्री"
-PRINTER = "वैदिक-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5207"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUzMTkyNDM0MjU4OTk0&pageno=MjI0MjQyNjk5NTk="
 title = "कौटलीय-अर्थशास्त्रम् (हिन्दी-अनुवादसहितम्)"
+author = "कौटिल्यः"
+publisher = "चतुरसेन-गुप्ता"
+"publish year" = "1944"
+domain = "धर्मशास्त्रम्"
+sub-domain = "अर्थशास्त्रम्"
+pages = "713"
+language = "संस्कृतम् हिन्दी"
+translator = "गङ्गाप्रसाद-जि-शास्त्री"
+printer = "वैदिक-मुद्रणालयः"
+"serial no." = "Ebharati-5207"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUzMTkyNDM0MjU4OTk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कौटलीय-अर्थशास्त्रम् (हिन्दी-अनुवादसहितम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDUzMTkyNDM0MjU4OTk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11628,19 +11627,6 @@ L.M.P.
 
 ![](../books_images/U-IMG-1730952049Capture.PNG)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

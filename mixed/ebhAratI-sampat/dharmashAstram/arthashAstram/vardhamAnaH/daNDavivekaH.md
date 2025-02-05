@@ -1,17 +1,16 @@
 +++
-TITLE = "दण्डविवेकः"
-AUTHOR = "वर्धमानः"
-PUBLISHER = "बेनोयतोष-भट्टाचार्यः"
-"PUBLISH YEAR" = "1931"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "अर्थशास्त्रम्"
-PAGES = "415"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "कमलकृष्णः"
-PRINTER = "पी.नाइट्-बैप्टिस्टमिशन-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5215"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM3MDMyNDA0MDI2MDA1&pageno=MjI0MjQyNjk5NTk="
 title = "दण्डविवेकः"
+author = "वर्धमानः"
+publisher = "बेनोयतोष-भट्टाचार्यः"
+"publish year" = "1931"
+domain = "धर्मशास्त्रम्"
+sub-domain = "अर्थशास्त्रम्"
+pages = "415"
+language = "संस्कृतम्"
+editor = "कमलकृष्णः"
+printer = "पी.नाइट्-बैप्टिस्टमिशन-यन्त्रालयः"
+"serial no." = "Ebharati-5215"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM3MDMyNDA0MDI2MDA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दण्डविवेकः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDM3MDMyNDA0MDI2MDA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8352,19 +8351,6 @@ KANALAKRSNA SMRTITĪRTHA
 [TABLE]
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,16 +1,15 @@
 +++
-TITLE = "Indian Cultural Influence In Cambodia"
-PUBLISHER = "युनिवार्सिटि-ओफ-कलकाता"
-"PUBLISH YEAR" = "1928"
-DOMAIN = "इतिहासःसंस्कृतिः च"
-SUB-DOMAIN = "संस्कृतिः"
-PAGES = "323"
-LANGUAGE = "आङग्लम्"
-EDITOR = "बिजनराजः"
-PRINTER = "युनिवार्सिटि-ओफ-कलकाता"
-"SERIAL NO." = "Ebharati-8768"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkwNjU1MzUwNTk2MTQ4&pageno=MjI0MjQyNjk5NTk="
 title = "Indian Cultural Influence In Cambodia"
+publisher = "युनिवार्सिटि-ओफ-कलकाता"
+"publish year" = "1928"
+domain = "इतिहासःसंस्कृतिः च"
+sub-domain = "संस्कृतिः"
+pages = "323"
+language = "आङग्लम्"
+editor = "बिजनराजः"
+printer = "युनिवार्सिटि-ओफ-कलकाता"
+"serial no." = "Ebharati-8768"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkwNjU1MzUwNTk2MTQ4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[Indian Cultural Influence In Cambodia	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjkwNjU1MzUwNTk2MTQ4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3154,8 +3153,5 @@ is bounded by the country of Jâwaga (Çrivijaya) which is the kingdom of the Ma
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

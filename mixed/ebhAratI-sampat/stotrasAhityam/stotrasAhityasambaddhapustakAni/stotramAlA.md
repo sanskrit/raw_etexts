@@ -1,16 +1,15 @@
 +++
-TITLE = "स्तोत्रमाला"
-PUBLISHER = "संपत्कुमाराचार्यः"
-"PUBLISH YEAR" = "1942"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "112"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "अण्णङ्गराचार्यः"
-PRINTER = "श्रीविलास-यन्त्रालयः श्रीरङ्गम्"
-"SERIAL NO." = "Ebharati-7131"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMTE3NDAyOTQ1NDg2&pageno=MjI0MjQyNjk5NTk="
 title = "स्तोत्रमाला"
+publisher = "संपत्कुमाराचार्यः"
+"publish year" = "1942"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "112"
+language = "संस्कृतम्"
+editor = "अण्णङ्गराचार्यः"
+printer = "श्रीविलास-यन्त्रालयः श्रीरङ्गम्"
+"serial no." = "Ebharati-7131"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMTE3NDAyOTQ1NDg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्तोत्रमाला	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMTE3NDAyOTQ1NDg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5013,8 +5012,5 @@ title = "स्तोत्रमाला"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

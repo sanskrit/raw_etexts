@@ -1,12 +1,11 @@
 +++
-TITLE = "केनोपनिषद्भाष्यम्"
-AUTHOR = "शङ्करभगवत्पादाः"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2701"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjI4MTg3MDU4NTgyOTUy"
 title = "केनोपनिषद्भाष्यम्"
+author = "शङ्करभगवत्पादाः"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2701"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjI4MTg3MDU4NTgyOTUy"
 
 +++
 [[केनोपनिषद्भाष्यम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjI4MTg3MDU4NTgyOTUy)]]

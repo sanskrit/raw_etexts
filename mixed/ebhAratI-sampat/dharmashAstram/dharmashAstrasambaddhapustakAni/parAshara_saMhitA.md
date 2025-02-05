@@ -1,11 +1,10 @@
 +++
-TITLE = "पराशर संहिता"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "धर्मशास्त्रसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2507"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU5MTU3OTc1MjY2MDQy"
 title = "पराशर संहिता"
+domain = "धर्मशास्त्रम्"
+sub-domain = "धर्मशास्त्रसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2507"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU5MTU3OTc1MjY2MDQy"
 
 +++
 [[पराशर संहिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDU5MTU3OTc1MjY2MDQy)]]

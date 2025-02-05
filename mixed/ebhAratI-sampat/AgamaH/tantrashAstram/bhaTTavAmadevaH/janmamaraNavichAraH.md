@@ -1,16 +1,15 @@
 +++
-TITLE = "जन्ममरणविचारः"
-AUTHOR = "भट्टवामदेवः"
-PUBLISHER = "मुकुन्दरामशास्त्री"
-"PUBLISH YEAR" = "1918"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "37"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6029"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMyMjY1NTQzMTY3ODc1&pageno=MjI0MjQyNjk5NTk="
 title = "जन्ममरणविचारः"
+author = "भट्टवामदेवः"
+publisher = "मुकुन्दरामशास्त्री"
+"publish year" = "1918"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "37"
+language = "संस्कृतम्"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-6029"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMyMjY1NTQzMTY3ODc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जन्ममरणविचारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODMyMjY1NTQzMTY3ODc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -725,19 +724,6 @@ PAṆḌDIT MUKUND RĀM SHÂSTRI.**
 
 श्रीस्वात्मचिदमृतवपुः शंकरार्पणं भूयात्॥
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

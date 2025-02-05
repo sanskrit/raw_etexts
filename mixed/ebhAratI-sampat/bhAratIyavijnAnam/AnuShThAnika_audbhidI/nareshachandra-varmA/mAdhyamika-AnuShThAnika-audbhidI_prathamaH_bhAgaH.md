@@ -1,19 +1,18 @@
 +++
-TITLE = "माध्यमिक-आनुष्ठानिक-औद्भिदी प्रथमः भागः"
-AUTHOR = "नरेशचन्द्र-वर्मा"
-PUBLISHER = "नागपुर-विश्वविद्यालयः"
-"PUBLISH YEAR" = "1950"
-DOMAIN = "भारतीयविज्ञानम्"
-SUB-DOMAIN = "आनुष्ठानिक औद्भिदी"
-PAGES = "270"
-LANGUAGE = "हिन्दी"
-EDITOR = "डा.रघुवीरः"
-"SECOND EDITOR" = "श्री. मधुसूदन-वासुदेव-मिराशी श्री. विष्णु-रामचन्द्र-ज्ञानसागरः"
-"BOOKS CONTRIBUTOR" = "डा. लोकेश-चन्द्रः"
-PRINTER = "नेशनल्-प्रेस्-पब्लिकेशन्-लिमिटेड् धर्मपेट् नागपुरम्"
-"SERIAL NO." = "Ebharati-7526"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5NzY0MDI3NzY0MjI3&pageno=MjI0MjQyNjk5NTk="
 title = "माध्यमिक-आनुष्ठानिक-औद्भिदी प्रथमः भागः"
+author = "नरेशचन्द्र-वर्मा"
+publisher = "नागपुर-विश्वविद्यालयः"
+"publish year" = "1950"
+domain = "भारतीयविज्ञानम्"
+sub-domain = "आनुष्ठानिक औद्भिदी"
+pages = "270"
+language = "हिन्दी"
+editor = "डा.रघुवीरः"
+"second editor" = "श्री. मधुसूदन-वासुदेव-मिराशी श्री. विष्णु-रामचन्द्र-ज्ञानसागरः"
+"books contributor" = "डा. लोकेश-चन्द्रः"
+printer = "नेशनल्-प्रेस्-पब्लिकेशन्-लिमिटेड् धर्मपेट् नागपुरम्"
+"serial no." = "Ebharati-7526"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5NzY0MDI3NzY0MjI3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[माध्यमिक-आनुष्ठानिक-औद्भिदी प्रथमः भागः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5NzY0MDI3NzY0MjI3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4314,19 +4313,6 @@ Vice-Chancellor,
 
 **———————**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

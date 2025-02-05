@@ -1,15 +1,14 @@
 +++
-TITLE = "चैतन्यचन्द्रामृतम्"
-AUTHOR = "प्रवोदानन्दसरस्वती"
-PUBLISHER = "हरिदासशास्त्रिः"
-DOMAIN = "भक्तिसम्प्रदायः"
-SUB-DOMAIN = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
-PAGES = "146"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "गदाधरगौरहरि-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6163"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg3NjQwMjQ4NDI2MTk1&pageno=MjI0MjQyNjk5NTk="
 title = "चैतन्यचन्द्रामृतम्"
+author = "प्रवोदानन्दसरस्वती"
+publisher = "हरिदासशास्त्रिः"
+domain = "भक्तिसम्प्रदायः"
+sub-domain = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
+pages = "146"
+language = "संस्कृतम् हिन्दी"
+printer = "गदाधरगौरहरि-मुद्रणालयः"
+"serial no." = "Ebharati-6163"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg3NjQwMjQ4NDI2MTk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चैतन्यचन्द्रामृतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njg3NjQwMjQ4NDI2MTk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3543,19 +3542,6 @@ title = "चैतन्यचन्द्रामृतम्"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

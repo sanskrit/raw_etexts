@@ -1,12 +1,11 @@
 +++
-TITLE = "पारिजातहरणम्"
-AUTHOR = "कर्णपूरः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3086"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkyNDExNDA0NDQyNjky"
 title = "पारिजातहरणम्"
+author = "कर्णपूरः"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3086"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkyNDExNDA0NDQyNjky"
 
 +++
 [[पारिजातहरणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjkyNDExNDA0NDQyNjky)]]

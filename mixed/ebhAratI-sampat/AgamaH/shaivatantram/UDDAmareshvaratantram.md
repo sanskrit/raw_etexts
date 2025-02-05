@@ -1,12 +1,11 @@
 +++
-TITLE = "ऊड्डामरेश्वरतन्त्रम्"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4010"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIyMjExMjM5NDQ5NDgz&pageno=MjI0MjQyNjk5NTk="
 title = "ऊड्डामरेश्वरतन्त्रम्"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4010"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIyMjExMjM5NDQ5NDgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ऊड्डामरेश्वरतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDIyMjExMjM5NDQ5NDgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -896,8 +895,5 @@ title = "ऊड्डामरेश्वरतन्त्रम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

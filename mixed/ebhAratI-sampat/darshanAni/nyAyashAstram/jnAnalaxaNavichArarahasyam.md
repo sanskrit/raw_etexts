@@ -1,13 +1,12 @@
 +++
-TITLE = "ज्ञानलक्षणविचाररहस्यम्"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "हरिरामतर्कवागीशः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3669"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEzNjQ0MzEyMDEyMjUz&pageno=MjI0MjQyNjk5NTk="
 title = "ज्ञानलक्षणविचाररहस्यम्"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+editor = "हरिरामतर्कवागीशः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3669"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEzNjQ0MzEyMDEyMjUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ज्ञानलक्षणविचाररहस्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODEzNjQ0MzEyMDEyMjUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -167,8 +166,5 @@ title = "ज्ञानलक्षणविचाररहस्यम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

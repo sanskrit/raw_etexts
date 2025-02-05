@@ -1,12 +1,11 @@
 +++
-TITLE = "लौगाक्षिशिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3557"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUwNTkyNDM2ODU0MTQz&pageno=MjI0MjQyNjk5NTk="
 title = "लौगाक्षिशिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3557"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUwNTkyNDM2ODU0MTQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लौगाक्षिशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDUwNTkyNDM2ODU0MTQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -410,8 +409,5 @@ laugakshi_shiksha
 समाप्तमिति  
                  इति लौगाक्षि शिक्षा समाप्ता
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

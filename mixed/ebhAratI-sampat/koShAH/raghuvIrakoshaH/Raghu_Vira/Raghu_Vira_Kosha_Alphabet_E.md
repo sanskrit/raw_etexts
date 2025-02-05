@@ -1,17 +1,16 @@
 +++
-TITLE = "Raghu Vira Kosha Alphabet E"
-AUTHOR = "Raghu Vira"
-PUBLISHER = "International academy of indian culture New delhi"
-"PUBLISH YEAR" = "1976"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "रघुवीरकोशः"
-PAGES = "63"
-LANGUAGE = "English-Hindi"
-"BOOKS CONTRIBUTOR" = "डा. शशिबाला"
-PRINTER = "Jayyed Press Delhi6"
-"SERIAL NO." = "Ebharati-5246"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE4NTQ3NzgyNjk1MzA1&pageno=MjI0MjQyNjk5NTk="
 title = "Raghu Vira Kosha Alphabet E"
+author = "Raghu Vira"
+publisher = "International academy of indian culture New delhi"
+"publish year" = "1976"
+domain = "कोषाः"
+sub-domain = "रघुवीरकोशः"
+pages = "63"
+language = "English-Hindi"
+"books contributor" = "डा. शशिबाला"
+printer = "Jayyed Press Delhi6"
+"serial no." = "Ebharati-5246"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE4NTQ3NzgyNjk1MzA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[Raghu Vira Kosha Alphabet E	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE4NTQ3NzgyNjk1MzA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -14717,8 +14716,5 @@ eye-witness कर्मसाक्षी, प्रत्यक्ष सा�
 **eyeworm** (*Oxyspirura mansoni*) **नेत्रकृमि** *m.*  
 **eyeworm disease नेत्रकृमि-रोग**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

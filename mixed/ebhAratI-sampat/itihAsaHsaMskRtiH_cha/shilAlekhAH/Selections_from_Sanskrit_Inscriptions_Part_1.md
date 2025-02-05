@@ -1,16 +1,15 @@
 +++
-TITLE = "Selections from Sanskrit Inscriptions Part 1"
-PUBLISHER = "D. B. Diskalkar"
-"PUBLISH YEAR" = "1925"
-DOMAIN = "इतिहासःसंस्कृतिः च"
-SUB-DOMAIN = "शिलालेखाः"
-PAGES = "62"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-EDITOR = "D. B. Diskalkar"
-PRINTER = "आर्यभूषण प्रेस"
-"SERIAL NO." = "Ebharati-4973"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA2NDY1MzEzOTgzNzc0&pageno=MjI0MjQyNjk5NTk="
 title = "Selections from Sanskrit Inscriptions Part 1"
+publisher = "D. B. Diskalkar"
+"publish year" = "1925"
+domain = "इतिहासःसंस्कृतिः च"
+sub-domain = "शिलालेखाः"
+pages = "62"
+language = "संस्कृतम् आङ्ग्लम्"
+editor = "D. B. Diskalkar"
+printer = "आर्यभूषण प्रेस"
+"serial no." = "Ebharati-4973"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA2NDY1MzEzOTgzNzc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[Selections from Sanskrit Inscriptions Part 1	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjA2NDY1MzEzOTgzNzc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2559,8 +2558,5 @@ ERRATA.
 
 \_\_\_\_\_\_\_\_\_
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

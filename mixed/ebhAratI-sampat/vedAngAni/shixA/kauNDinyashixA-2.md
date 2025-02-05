@@ -1,12 +1,11 @@
 +++
-TITLE = "कौण्डिन्यशिक्षा-२"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3548"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzExODY2NDk1MDQz&pageno=MjI0MjQyNjk5NTk="
 title = "कौण्डिन्यशिक्षा-२"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3548"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzExODY2NDk1MDQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कौण्डिन्यशिक्षा-२	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzExODY2NDk1MDQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -190,8 +189,5 @@ kaundinya_mysore_shiksha
 तेन शुद्धिमवाप्नोति देवत्वं चाधिगच्छति ८६  
        इति कौंडिन्य शीक्षा षडशीति समाप्तं
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

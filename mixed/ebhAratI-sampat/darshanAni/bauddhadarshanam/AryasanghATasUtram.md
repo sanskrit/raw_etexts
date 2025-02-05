@@ -1,12 +1,11 @@
 +++
-TITLE = "आर्यसङ्घाटसूत्रम्"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3650"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAzMDQ4NDgyNjgzMDUz&pageno=MjI0MjQyNjk5NTk="
 title = "आर्यसङ्घाटसूत्रम्"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3650"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAzMDQ4NDgyNjgzMDUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आर्यसङ्घाटसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDAzMDQ4NDgyNjgzMDUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1120,8 +1119,5 @@ title = "आर्यसङ्घाटसूत्रम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

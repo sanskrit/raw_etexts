@@ -1,13 +1,12 @@
 +++
-TITLE = "आलम्बनपरीक्षा"
-AUTHOR = "आचार्यः दिङ्नागः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3637"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE4ODg2MzMzODMxOTQz&pageno=MjI0MjQyNjk5NTk="
 title = "आलम्बनपरीक्षा"
+author = "आचार्यः दिङ्नागः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3637"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE4ODg2MzMzODMxOTQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आलम्बनपरीक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDE4ODg2MzMzODMxOTQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -58,8 +57,5 @@ title = "आलम्बनपरीक्षा"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

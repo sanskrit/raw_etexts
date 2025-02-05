@@ -1,18 +1,17 @@
 +++
-TITLE = "मालतीमाधवम्"
-AUTHOR = "भवभूतिः"
-PUBLISHER = "पाण्डुरङ्गजावजी"
-"PUBLISH YEAR" = "1936"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "380"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मङ्गेशरामकृष्णतेलङ्ग"
-"PRIMARY COMMENTATOR" = "जगद्धरः त्रिपुरारिः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5454"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg1OTYxNjA1MzY1MzI1&pageno=MjI0MjQyNjk5NTk="
 title = "मालतीमाधवम्"
+author = "भवभूतिः"
+publisher = "पाण्डुरङ्गजावजी"
+"publish year" = "1936"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "380"
+language = "संस्कृतम्"
+editor = "मङ्गेशरामकृष्णतेलङ्ग"
+"primary commentator" = "जगद्धरः त्रिपुरारिः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-5454"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg1OTYxNjA1MzY1MzI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मालतीमाधवम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODg1OTYxNjA1MzY1MzI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6647,8 +6646,5 @@ Price 2 Rupees.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

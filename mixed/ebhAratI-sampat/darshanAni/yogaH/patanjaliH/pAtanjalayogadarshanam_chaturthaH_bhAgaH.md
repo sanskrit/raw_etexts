@@ -1,22 +1,21 @@
 +++
-TITLE = "पातञ्जलयोगदर्शनम् (चतुर्थः भागः)"
-AUTHOR = "पतञ्जलिः"
-PUBLISHER = "रत्नाप्रकाशनम्"
-"PUBLISH YEAR" = "१९९२"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "304"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "विमला-कर्नाटक"
-EDITOR = "विमला-कर्नाटक"
-"PRIMARY COMMENTATOR" = "व्यासमहर्षिः"
-"SECONDARY COMMENTATOR" = "वाचस्पतिमिश्रः"
-"TERTIARY COMMENTATOR" = "विज्ञानभिक्षुः"
-"COMMENTARY NAME" = "व्यासभाष्यम् तत्त्ववैशारदी-व्याख्या योगवार्तिकम्"
-PRINTER = "रत्ना-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1596"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE1NTA5MjAwMDEyMzUx&pageno=MjI0MjQyNjk5NTk="
 title = "पातञ्जलयोगदर्शनम् (चतुर्थः भागः)"
+author = "पतञ्जलिः"
+publisher = "रत्नाप्रकाशनम्"
+"publish year" = "१९९२"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "304"
+language = "संस्कृतम् हिन्दी"
+translator = "विमला-कर्नाटक"
+editor = "विमला-कर्नाटक"
+"primary commentator" = "व्यासमहर्षिः"
+"secondary commentator" = "वाचस्पतिमिश्रः"
+"tertiary commentator" = "विज्ञानभिक्षुः"
+"commentary name" = "व्यासभाष्यम् तत्त्ववैशारदी-व्याख्या योगवार्तिकम्"
+printer = "रत्ना-मुद्रणालयः"
+"serial no." = "Ebharati-1596"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE1NTA5MjAwMDEyMzUx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पातञ्जलयोगदर्शनम् (चतुर्थः भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE1NTA5MjAwMDEyMzUx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5383,8 +5382,5 @@ different Journals.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

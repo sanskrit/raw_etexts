@@ -1,17 +1,16 @@
 +++
-TITLE = "सुभद्राहरणम्"
-AUTHOR = "माधवभट्टः"
-PUBLISHER = "जावजीदादाजी"
-"PUBLISH YEAR" = "1888"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "22"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "दुर्गाप्रसादः  काशीनाथः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5577"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0Nzg5MzQwMTczNTM1&pageno=MjI0MjQyNjk5NTk="
 title = "सुभद्राहरणम्"
+author = "माधवभट्टः"
+publisher = "जावजीदादाजी"
+"publish year" = "1888"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "22"
+language = "संस्कृतम्"
+editor = "दुर्गाप्रसादः  काशीनाथः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-5577"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0Nzg5MzQwMTczNTM1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुभद्राहरणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk0Nzg5MzQwMTczNTM1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -596,19 +595,6 @@ Price 4 Annas.
 इति श्रीमन्मण्डलेश्वरभट्टात्मजमाधवभट्टविरचितं सुभद्राहरणं नाम श्रीगदितं समाप्तम्।  
 **==============**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

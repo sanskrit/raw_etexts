@@ -1,13 +1,12 @@
 +++
-TITLE = "ईशावास्योपनिषत् खण्डार्थः"
-AUTHOR = "श्रीराघवेन्द्रयतिः"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4228"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEyMDY5MjExMjc4NTA0&pageno=MjI0MjQyNjk5NTk="
 title = "ईशावास्योपनिषत् खण्डार्थः"
+author = "श्रीराघवेन्द्रयतिः"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4228"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEyMDY5MjExMjc4NTA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ईशावास्योपनिषत् खण्डार्थः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjEyMDY5MjExMjc4NTA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1528,8 +1527,5 @@ x
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

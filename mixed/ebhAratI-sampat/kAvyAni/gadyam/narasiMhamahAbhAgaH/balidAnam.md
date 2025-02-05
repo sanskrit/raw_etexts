@@ -1,15 +1,14 @@
 +++
-TITLE = "बलिदानम्"
-AUTHOR = "नरसिंहमहाभागः"
-"PUBLISH YEAR" = "1940"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "गद्यम्"
-PAGES = "254"
-LANGUAGE = "संस्कृतम्"
-TRANSLATOR = "वासुदेवः"
-"SERIAL NO." = "Ebharati-5317"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc3NzU5MDIwMjE0MDE1&pageno=MjI0MjQyNjk5NTk="
 title = "बलिदानम्"
+author = "नरसिंहमहाभागः"
+"publish year" = "1940"
+domain = "काव्यानि"
+sub-domain = "गद्यम्"
+pages = "254"
+language = "संस्कृतम्"
+translator = "वासुदेवः"
+"serial no." = "Ebharati-5317"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc3NzU5MDIwMjE0MDE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बलिदानम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDc3NzU5MDIwMjE0MDE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2751,19 +2750,6 @@ X    X    X
 |   निरतास्त    |     निरतास्ते      |
 |   शमधनवुभा    |     शमधनावुभा      |
 |     समप्य     |      समर्प्य       |
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

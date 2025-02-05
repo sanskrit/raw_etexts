@@ -1,18 +1,17 @@
 +++
-TITLE = "भट्टिकाव्यम् (प्रथमो भागः)"
-AUTHOR = "भट्टिकविः"
-PUBLISHER = "गवर्नमेण्ट-सेन्ट्रल्-बुक्-डिपोट्"
-"PUBLISH YEAR" = "1898"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "561"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-EDITOR = "कमलशङ्करः"
-"PRIMARY COMMENTATOR" = "मल्लिनाथः"
-PRINTER = "तत्वविवेक-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5795"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk0NTM4NDIyODkyNjU1&pageno=MjI0MjQyNjk5NTk="
 title = "भट्टिकाव्यम् (प्रथमो भागः)"
+author = "भट्टिकविः"
+publisher = "गवर्नमेण्ट-सेन्ट्रल्-बुक्-डिपोट्"
+"publish year" = "1898"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "561"
+language = "संस्कृतम् आङ्ग्लम्"
+editor = "कमलशङ्करः"
+"primary commentator" = "मल्लिनाथः"
+printer = "तत्वविवेक-मुद्रणालयः"
+"serial no." = "Ebharati-5795"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk0NTM4NDIyODkyNjU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भट्टिकाव्यम् (प्रथमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDk0NTM4NDIyODkyNjU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -12567,8 +12566,5 @@ The Stanza alludes to the story of Râvana desiring to fightVâlî. It is said t
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,16 +1,15 @@
 +++
-TITLE = "अलङ्कारमणिहारः चतुर्थो भागः"
-AUTHOR = "श्रीकृष्णब्रह्मतन्त्र परकाल संयमीन्द्रः"
-"PUBLISH YEAR" = "1929"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "329"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "डि.श्रीनिवासाचार"
-PRINTER = "गवर्नमेन्ट् ब्राञ्च् प्रेस् मैसूरु"
-"SERIAL NO." = "Ebharati-5887"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEzODMxOTc4OTIxNTY1&pageno=MjI0MjQyNjk5NTk="
 title = "अलङ्कारमणिहारः चतुर्थो भागः"
+author = "श्रीकृष्णब्रह्मतन्त्र परकाल संयमीन्द्रः"
+"publish year" = "1929"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "329"
+language = "संस्कृतम्"
+editor = "डि.श्रीनिवासाचार"
+printer = "गवर्नमेन्ट् ब्राञ्च् प्रेस् मैसूरु"
+"serial no." = "Ebharati-5887"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEzODMxOTc4OTIxNTY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अलङ्कारमणिहारः चतुर्थो भागः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDEzODMxOTc4OTIxNTY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6292,8 +6291,5 @@ title = "अलङ्कारमणिहारः चतुर्थो भा
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,11 +1,10 @@
 +++
-TITLE = "अद्वैतसिद्धिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2478"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjE3MTI3ODg2ODc4NzMy"
 title = "अद्वैतसिद्धिः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2478"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjE3MTI3ODg2ODc4NzMy"
 
 +++
 [[अद्वैतसिद्धिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjE3MTI3ODg2ODc4NzMy)]]

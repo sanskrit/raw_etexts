@@ -1,17 +1,16 @@
 +++
-TITLE = "वृद्धचाणाक्यनीतिदर्पणः"
-AUTHOR = "चाणक्यः"
-PUBLISHER = "रत्नेश्वरभट्टः"
-"PUBLISH YEAR" = "1887"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "109"
-LANGUAGE = "संस्कृतम् गुजराती"
-TRANSLATOR = "रत्नेश्वरभट्टः"
-PRINTER = "रत्नेश्वरभट्टः"
-"SERIAL NO." = "Ebharati-5237"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM3MjA1&pageno=MjI0MjQyNjk5NTk="
 title = "वृद्धचाणाक्यनीतिदर्पणः"
+author = "चाणक्यः"
+publisher = "रत्नेश्वरभट्टः"
+"publish year" = "1887"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "109"
+language = "संस्कृतम् गुजराती"
+translator = "रत्नेश्वरभट्टः"
+printer = "रत्नेश्वरभट्टः"
+"serial no." = "Ebharati-5237"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM3MjA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वृद्धचाणाक्यनीतिदर्पणः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM3MjA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2307,19 +2306,6 @@ title = "वृद्धचाणाक्यनीतिदर्पणः"
 
   ![](../books_images/U-IMG-1698600657Screenshot2023-10-29230018.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

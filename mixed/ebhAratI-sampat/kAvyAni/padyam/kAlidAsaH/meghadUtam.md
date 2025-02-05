@@ -1,18 +1,17 @@
 +++
-TITLE = "मेघदूतम्"
-AUTHOR = "कालिदासः"
-PUBLISHER = "भुवनचन्द्रवसाकः"
-"PUBLISH YEAR" = "1262"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "128"
-LANGUAGE = "संस्कॄतम्"
-"PRIMARY COMMENTATOR" = "मल्लिनाथसूरिः"
-"COMMENTARY NAME" = "सञ्जीवनी"
-PRINTER = "रामायणयन्त्रम् कलिकातानगरी"
-"SERIAL NO." = "Ebharati-8618"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk3MjkxNzE2NTkyNzI4&pageno=MjI0MjQyNjk5NTk="
 title = "मेघदूतम्"
+author = "कालिदासः"
+publisher = "भुवनचन्द्रवसाकः"
+"publish year" = "1262"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "128"
+language = "संस्कॄतम्"
+"primary commentator" = "मल्लिनाथसूरिः"
+"commentary name" = "सञ्जीवनी"
+printer = "रामायणयन्त्रम् कलिकातानगरी"
+"serial no." = "Ebharati-8618"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk3MjkxNzE2NTkyNzI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मेघदूतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk3MjkxNzE2NTkyNzI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1472,8 +1471,5 @@ title = "मेघदूतम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

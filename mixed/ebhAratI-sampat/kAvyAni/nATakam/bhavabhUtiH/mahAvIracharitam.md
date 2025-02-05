@@ -1,15 +1,14 @@
 +++
-TITLE = "महावीरचरितम्"
-AUTHOR = "भवभूतिः"
-"PUBLISH YEAR" = "1848"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "152"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "फ्रान्सिस्-हेन्रि-त्रिथेन्"
-"SERIAL NO." = "Ebharati-5446"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEyMDMyNjM1NTk3MjI1&pageno=MjI0MjQyNjk5NTk="
 title = "महावीरचरितम्"
+author = "भवभूतिः"
+"publish year" = "1848"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "152"
+language = "संस्कृतम्"
+editor = "फ्रान्सिस्-हेन्रि-त्रिथेन्"
+"serial no." = "Ebharati-5446"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEyMDMyNjM1NTk3MjI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[महावीरचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjEyMDMyNjM1NTk3MjI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5267,8 +5266,5 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

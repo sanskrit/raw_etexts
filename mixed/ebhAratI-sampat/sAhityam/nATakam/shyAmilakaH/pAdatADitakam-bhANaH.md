@@ -1,13 +1,12 @@
 +++
-TITLE = "पादताडितकम्-भाणः"
-AUTHOR = "श्यामिलकः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2784"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ4MjA5ODM1MzUyNzYy&pageno=MjI0MjQyNjk5NTk="
 title = "पादताडितकम्-भाणः"
+author = "श्यामिलकः"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2784"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ4MjA5ODM1MzUyNzYy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पादताडितकम्-भाणः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ4MjA5ODM1MzUyNzYy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -729,19 +728,6 @@ title = "पादताडितकम्-भाणः"
 कृतिः पादताडितकं नाम भाणः समाप्तः ॥**
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

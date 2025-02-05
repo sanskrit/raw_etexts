@@ -1,16 +1,15 @@
 +++
-TITLE = "महाभारतम् (विराटपर्व)"
-PUBLISHER = "वि. रामस्वामि शास्त्रुलु एण्ड् सन्स्"
-"PUBLISH YEAR" = "1932"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "महाभारतम्"
-PAGES = "564"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पि.पि.सुब्रह्मण्यशास्त्री"
-PRINTER = "वाविळ्ळ मुद्रणालयम् चेन्नपुरी"
-"SERIAL NO." = "Ebharati-6083"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIwMzU2MjQxNTQ5Mzg1&pageno=MjI0MjQyNjk5NTk="
 title = "महाभारतम् (विराटपर्व)"
+publisher = "वि. रामस्वामि शास्त्रुलु एण्ड् सन्स्"
+"publish year" = "1932"
+domain = "इतिहासः"
+sub-domain = "महाभारतम्"
+pages = "564"
+language = "संस्कृतम्"
+editor = "पि.पि.सुब्रह्मण्यशास्त्री"
+printer = "वाविळ्ळ मुद्रणालयम् चेन्नपुरी"
+"serial no." = "Ebharati-6083"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIwMzU2MjQxNTQ5Mzg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[महाभारतम् (विराटपर्व)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjIwMzU2MjQxNTQ5Mzg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -15557,8 +15556,5 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

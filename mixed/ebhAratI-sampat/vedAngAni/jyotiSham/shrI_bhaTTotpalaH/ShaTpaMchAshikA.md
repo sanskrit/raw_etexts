@@ -1,18 +1,17 @@
 +++
-TITLE = "षट्पंचाशिका"
-AUTHOR = "श्री भट्टोत्पलः"
-PUBLISHER = "श्रीवेङ्कटेश्वरछापखाना मुम्बई."
-"PUBLISH YEAR" = "1809"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "46"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गङ्गाविष्णु खेमराजः"
-"COMMENTARY NAME" = "रत्नप्रभा"
-PRINTER = "गङ्गाविष्णुश्रीकृष्णदास"
-"SERIAL NO." = "Ebharati-4976"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc4MTkyMjAzNzc2Nzc0&pageno=MjI0MjQyNjk5NTk="
 title = "षट्पंचाशिका"
+author = "श्री भट्टोत्पलः"
+publisher = "श्रीवेङ्कटेश्वरछापखाना मुम्बई."
+"publish year" = "1809"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "46"
+language = "संस्कृतम्"
+editor = "गङ्गाविष्णु खेमराजः"
+"commentary name" = "रत्नप्रभा"
+printer = "गङ्गाविष्णुश्रीकृष्णदास"
+"serial no." = "Ebharati-4976"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc4MTkyMjAzNzc2Nzc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[षट्पंचाशिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc4MTkyMjAzNzc2Nzc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1692,19 +1691,6 @@ title = "षट्पंचाशिका"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

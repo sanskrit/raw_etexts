@@ -1,12 +1,11 @@
 +++
-TITLE = "न्यायामृततरङ्गिणी"
-AUTHOR = "श्रीव्यासरामाचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3091"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjA0NjIzNTgzNDI3Njky"
 title = "न्यायामृततरङ्गिणी"
+author = "श्रीव्यासरामाचार्यः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3091"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjA0NjIzNTgzNDI3Njky"
 
 +++
 [[न्यायामृततरङ्गिणी	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjA0NjIzNTgzNDI3Njky)]]

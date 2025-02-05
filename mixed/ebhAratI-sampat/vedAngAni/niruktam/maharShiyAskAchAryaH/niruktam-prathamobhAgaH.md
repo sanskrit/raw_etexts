@@ -1,16 +1,15 @@
 +++
-TITLE = "निरुक्तम्-(प्रथमोभागः)"
-AUTHOR = "महर्षियास्काचार्यः"
-"PUBLISH YEAR" = "1952"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "निरुक्तम्"
-PAGES = "572"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "देवराजयग्वः"
-"COMMENTARY NAME" = "निर्वचन"
-"SERIAL NO." = "Ebharati-8722"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg2NDA0NjIyOTcyNzM4&pageno=MjI0MjQyNjk5NTk="
 title = "निरुक्तम्-(प्रथमोभागः)"
+author = "महर्षियास्काचार्यः"
+"publish year" = "1952"
+domain = "वेदाङ्गानि"
+sub-domain = "निरुक्तम्"
+pages = "572"
+language = "संस्कृतम्"
+"primary commentator" = "देवराजयग्वः"
+"commentary name" = "निर्वचन"
+"serial no." = "Ebharati-8722"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg2NDA0NjIyOTcyNzM4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[निरुक्तम्-(प्रथमोभागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDg2NDA0NjIyOTcyNzM4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6761,19 +6760,6 @@ that this was not sooner recognised. अभिप्राय यह है क�
 **इति निरुके (निघण्टु भागस्य) शुद्धाशुद्धि पत्रम्।  
 ॐ तत्सत्**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

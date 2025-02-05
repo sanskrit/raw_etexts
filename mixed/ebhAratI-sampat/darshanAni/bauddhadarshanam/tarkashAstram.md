@@ -1,12 +1,11 @@
 +++
-TITLE = "तर्कशास्त्रम्"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3820"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQwMjUwNjQ2NTA3NjYz"
 title = "तर्कशास्त्रम्"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3820"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQwMjUwNjQ2NTA3NjYz"
 
 +++
 [[तर्कशास्त्रम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDQwMjUwNjQ2NTA3NjYz)]]

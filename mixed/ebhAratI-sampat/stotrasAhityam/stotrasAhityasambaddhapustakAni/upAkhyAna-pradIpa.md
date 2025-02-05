@@ -1,14 +1,13 @@
 +++
-TITLE = "उपाख्यान-प्रदीप"
-PUBLISHER = "भारतीय-गौख-ग्रंथमाला"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "196"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "कैलाशनाथ-भटनागर"
-"SERIAL NO." = "Ebharati-8907"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU3MjUyMTM1ODMwNTU4&pageno=MjI0MjQyNjk5NTk="
 title = "उपाख्यान-प्रदीप"
+publisher = "भारतीय-गौख-ग्रंथमाला"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "196"
+language = "संस्कृतम्"
+editor = "कैलाशनाथ-भटनागर"
+"serial no." = "Ebharati-8907"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU3MjUyMTM1ODMwNTU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[उपाख्यान-प्रदीप	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDU3MjUyMTM1ODMwNTU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5326,8 +5325,5 @@ V. 72. **पुरस्कृतान्—**Acc. Honoured. **निदधे�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

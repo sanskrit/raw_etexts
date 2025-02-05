@@ -1,14 +1,13 @@
 +++
-TITLE = "गीतासंग्रहः"
-PUBLISHER = "अष्टेकर-एण्ड-कम्पनी"
-"PUBLISH YEAR" = "1915"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-PAGES = "468"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-6673"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwMjg2NTI5Mjg1MDQ2&pageno=MjI0MjQyNjk5NTk="
 title = "गीतासंग्रहः"
+publisher = "अष्टेकर-एण्ड-कम्पनी"
+"publish year" = "1915"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+pages = "468"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-6673"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwMjg2NTI5Mjg1MDQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गीतासंग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjAwMjg2NTI5Mjg1MDQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -19207,8 +19206,5 @@ XXXXXXXXXXXXX त्यवर्णनं नाम पंचम सर्गः
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

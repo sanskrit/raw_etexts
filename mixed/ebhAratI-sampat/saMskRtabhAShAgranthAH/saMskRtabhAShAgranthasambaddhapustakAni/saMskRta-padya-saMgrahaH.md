@@ -1,15 +1,14 @@
 +++
-TITLE = "संस्कृत-पद्य-संग्रहः"
-PUBLISHER = "सार्वभौमसंस्कृतप्रचारकार्यालयः"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "113"
-LANGUAGE = "संस्कृतम् हिन्दी"
-EDITOR = "वासुदेवद्विवेदी"
-PRINTER = "विश्वनाथभार्गव-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7015"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMzMDk1MDQ2MzE0Mzc2&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृत-पद्य-संग्रहः"
+publisher = "सार्वभौमसंस्कृतप्रचारकार्यालयः"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "113"
+language = "संस्कृतम् हिन्दी"
+editor = "वासुदेवद्विवेदी"
+printer = "विश्वनाथभार्गव-यन्त्रालयः"
+"serial no." = "Ebharati-7015"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMzMDk1MDQ2MzE0Mzc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृत-पद्य-संग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDMzMDk1MDQ2MzE0Mzc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2886,8 +2885,5 @@ title = "संस्कृत-पद्य-संग्रहः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

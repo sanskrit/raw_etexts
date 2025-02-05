@@ -1,18 +1,17 @@
 +++
-TITLE = "लघुपाराशरी (उदुदायप्रदीपः)"
-AUTHOR = "पराशरः"
-PUBLISHER = "गङ्गाविष्णुः-श्रीकृष्णदासः"
-"PUBLISH YEAR" = "१९८६"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "45"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "रामेश्वरभट्टः"
-"COMMENTARY NAME" = "सान्वय-हिन्दीटीका"
-PRINTER = "लक्ष्मीवेंकटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1248"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU2MjQ1MDEzMzA4OTEx&pageno=MjI0MjQyNjk5NTk="
 title = "लघुपाराशरी (उदुदायप्रदीपः)"
+author = "पराशरः"
+publisher = "गङ्गाविष्णुः-श्रीकृष्णदासः"
+"publish year" = "१९८६"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "45"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "रामेश्वरभट्टः"
+"commentary name" = "सान्वय-हिन्दीटीका"
+printer = "लक्ष्मीवेंकटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-1248"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU2MjQ1MDEzMzA4OTEx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लघुपाराशरी (उदुदायप्रदीपः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjU2MjQ1MDEzMzA4OTEx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -930,8 +929,5 @@ title = "लघुपाराशरी (उदुदायप्रदीपः
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

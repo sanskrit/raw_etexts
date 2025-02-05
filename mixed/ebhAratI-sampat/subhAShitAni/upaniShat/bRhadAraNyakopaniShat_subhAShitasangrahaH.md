@@ -1,12 +1,11 @@
 +++
-TITLE = "बृहदारण्यकोपनिषत् सुभाषितसङ्ग्रहः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "उपनिषत्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4140"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgwNzI2MzQ0NDI0Nzkz&pageno=MjI0MjQyNjk5NTk="
 title = "बृहदारण्यकोपनिषत् सुभाषितसङ्ग्रहः"
+domain = "सुभाषितानि"
+sub-domain = "उपनिषत्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4140"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgwNzI2MzQ0NDI0Nzkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बृहदारण्यकोपनिषत् सुभाषितसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDgwNzI2MzQ0NDI0Nzkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -85,8 +84,5 @@ title = "बृहदारण्यकोपनिषत् सुभाषि�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

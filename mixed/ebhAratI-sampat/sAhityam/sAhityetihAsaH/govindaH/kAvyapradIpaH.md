@@ -1,18 +1,17 @@
 +++
-TITLE = "काव्यप्रदीपः"
-AUTHOR = "गोविन्दः"
-PUBLISHER = "पाण्डुरङ्गजावजी"
-"PUBLISH YEAR" = "1933"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "साहित्येतिहासः"
-PAGES = "430"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "दुर्गाप्रसादः  वासुदेवः"
-"PRIMARY COMMENTATOR" = "वैद्यनाथः"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5941"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAxOTIyNjc2MzEzMDc1&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यप्रदीपः"
+author = "गोविन्दः"
+publisher = "पाण्डुरङ्गजावजी"
+"publish year" = "1933"
+domain = "साहित्यम्"
+sub-domain = "साहित्येतिहासः"
+pages = "430"
+language = "संस्कृतम्"
+editor = "दुर्गाप्रसादः  वासुदेवः"
+"primary commentator" = "वैद्यनाथः"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-5941"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAxOTIyNjc2MzEzMDc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यप्रदीपः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjAxOTIyNjc2MzEzMDc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9860,8 +9859,5 @@ title = "काव्यप्रदीपः"
 
 समाप्तोऽयं ग्रन्थः।
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

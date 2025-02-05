@@ -1,17 +1,16 @@
 +++
-TITLE = "लौकिकन्यायशास्त्रार्थकला कूटशास्त्रार्थकला"
-AUTHOR = "वेणीमाधवशास्त्री"
-PUBLISHER = "जयकृष्णदास-हरिदासगुप्तः"
-"PUBLISH YEAR" = "1939"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "71"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "राजनारायणशास्त्री"
-PRINTER = "विद्याविलास-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6457"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU4ODEzNzM3NzQ4OTE2&pageno=MjI0MjQyNjk5NTk="
 title = "लौकिकन्यायशास्त्रार्थकला कूटशास्त्रार्थकला"
+author = "वेणीमाधवशास्त्री"
+publisher = "जयकृष्णदास-हरिदासगुप्तः"
+"publish year" = "1939"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "71"
+language = "संस्कृतम्"
+editor = "राजनारायणशास्त्री"
+printer = "विद्याविलास-यन्त्रालयः"
+"serial no." = "Ebharati-6457"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU4ODEzNzM3NzQ4OTE2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लौकिकन्यायशास्त्रार्थकला कूटशास्त्रार्थकला	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDU4ODEzNzM3NzQ4OTE2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2726,8 +2725,5 @@ Benares City.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

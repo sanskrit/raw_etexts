@@ -1,16 +1,15 @@
 +++
-TITLE = "हरिश्चन्द्रोपाख्यानम्"
-PUBLISHER = "रा.सुदर्शनशर्मा"
-"PUBLISH YEAR" = "1935"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "108"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रा.सुदर्शनशर्मा"
-PRINTER = "श्रीविद्या-प्रेस् कुम्बकोणम्"
-"SERIAL NO." = "Ebharati-5843"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ3MTc0NDQwNjA5MDY1&pageno=MjI0MjQyNjk5NTk="
 title = "हरिश्चन्द्रोपाख्यानम्"
+publisher = "रा.सुदर्शनशर्मा"
+"publish year" = "1935"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "108"
+language = "संस्कृतम्"
+editor = "रा.सुदर्शनशर्मा"
+printer = "श्रीविद्या-प्रेस् कुम्बकोणम्"
+"serial no." = "Ebharati-5843"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ3MTc0NDQwNjA5MDY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हरिश्चन्द्रोपाख्यानम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQ3MTc0NDQwNjA5MDY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -821,8 +820,5 @@ title = "हरिश्चन्द्रोपाख्यानम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,16 +1,15 @@
 +++
-TITLE = "सुबोध-संस्कृतम्"
-AUTHOR = "ब.ब.कामथ"
-PUBLISHER = "ब.ब.कामथ"
-"PUBLISH YEAR" = "1925"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "104"
-LANGUAGE = "संस्कृतम् आङ्ग्लम् हिन्दी"
-PRINTER = "मनोरञ्जन-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7026"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5NjUyOTk1OTY0NDc2&pageno=MjI0MjQyNjk5NTk="
 title = "सुबोध-संस्कृतम्"
+author = "ब.ब.कामथ"
+publisher = "ब.ब.कामथ"
+"publish year" = "1925"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "104"
+language = "संस्कृतम् आङ्ग्लम् हिन्दी"
+printer = "मनोरञ्जन-यन्त्रालयः"
+"serial no." = "Ebharati-7026"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5NjUyOTk1OTY0NDc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुबोध-संस्कृतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5NjUyOTk1OTY0NDc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2475,19 +2474,6 @@ sweet name is chanted with great fervour and eclát in every Hindu home. The pic
 
 Printed by. D. N. Mandra at the Britannia Press, Karachi & Published by B. B. Karmat, 448, Robson Road, Karachi,
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

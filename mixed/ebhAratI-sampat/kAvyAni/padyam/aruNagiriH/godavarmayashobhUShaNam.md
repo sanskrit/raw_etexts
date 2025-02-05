@@ -1,16 +1,15 @@
 +++
-TITLE = "गोदवर्मयशोभूषणम्"
-AUTHOR = "अरुणगिरिः"
-PUBLISHER = "युनिवर्सिटि-आफ्-त्रिवेन्द्रम्"
-"PUBLISH YEAR" = "1947"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "80"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "गवर्नमेण्ट्-प्रेस् त्रिवेन्द्रम्"
-"SERIAL NO." = "Ebharati-5850"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA3ODYxODEwODc1MTY1&pageno=MjI0MjQyNjk5NTk="
 title = "गोदवर्मयशोभूषणम्"
+author = "अरुणगिरिः"
+publisher = "युनिवर्सिटि-आफ्-त्रिवेन्द्रम्"
+"publish year" = "1947"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "80"
+language = "संस्कृतम्"
+printer = "गवर्नमेण्ट्-प्रेस् त्रिवेन्द्रम्"
+"serial no." = "Ebharati-5850"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA3ODYxODEwODc1MTY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गोदवर्मयशोभूषणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA3ODYxODEwODc1MTY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2191,19 +2190,6 @@ son of one [Rāmadatta](# "Cf. Raghuvamsa, Trichur Edn., p. 87: इति रा
 
 **———————**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

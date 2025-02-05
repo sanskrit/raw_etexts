@@ -1,18 +1,17 @@
 +++
-TITLE = "यशस्तिलकम् (पूर्वखाण्डम्)"
-AUTHOR = "सोमदेवसूरिः"
-PUBLISHER = "तुकारामजावजी"
-"PUBLISH YEAR" = "1916"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "चम्पू"
-PAGES = "591"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शिवदत्तः वासुदेवलक्ष्मणशर्मा"
-"PRIMARY COMMENTATOR" = "श्रुतदेवसूरिः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5297"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMzOTAxNjkwMjk0ODA1&pageno=MjI0MjQyNjk5NTk="
 title = "यशस्तिलकम् (पूर्वखाण्डम्)"
+author = "सोमदेवसूरिः"
+publisher = "तुकारामजावजी"
+"publish year" = "1916"
+domain = "काव्यानि"
+sub-domain = "चम्पू"
+pages = "591"
+language = "संस्कृतम्"
+editor = "शिवदत्तः वासुदेवलक्ष्मणशर्मा"
+"primary commentator" = "श्रुतदेवसूरिः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-5297"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMzOTAxNjkwMjk0ODA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[यशस्तिलकम् (पूर्वखाण्डम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDMzOTAxNjkwMjk0ODA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10519,8 +10518,5 @@ xx
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

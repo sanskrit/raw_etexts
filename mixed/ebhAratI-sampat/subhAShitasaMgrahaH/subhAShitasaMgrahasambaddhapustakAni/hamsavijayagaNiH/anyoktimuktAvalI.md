@@ -1,17 +1,16 @@
 +++
-TITLE = "अन्योक्तिमुक्तावली"
-AUTHOR = "हम्सविजयगणिः"
-PUBLISHER = "निर्णयसागर-मुद्रणालयः"
-"PUBLISH YEAR" = "1907"
-DOMAIN = "सुभाषितसंग्रहः"
-SUB-DOMAIN = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
-PAGES = "186"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "केदारनाथः वासुदेवशर्मा"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7161"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5Mzg5MTkwOTI0Nzg2&pageno=MjI0MjQyNjk5NTk="
 title = "अन्योक्तिमुक्तावली"
+author = "हम्सविजयगणिः"
+publisher = "निर्णयसागर-मुद्रणालयः"
+"publish year" = "1907"
+domain = "सुभाषितसंग्रहः"
+sub-domain = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
+pages = "186"
+language = "संस्कृतम्"
+editor = "केदारनाथः वासुदेवशर्मा"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-7161"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5Mzg5MTkwOTI0Nzg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अन्योक्तिमुक्तावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5Mzg5MTkwOTI0Nzg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6462,8 +6461,5 @@ title = "अन्योक्तिमुक्तावली"
 
 ————————
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

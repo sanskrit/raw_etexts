@@ -1,17 +1,16 @@
 +++
-TITLE = "Raghu Vira Kosha Alphabet S"
-AUTHOR = "Raghu Vira"
-PUBLISHER = "International academy of indian culture New delhi"
-"PUBLISH YEAR" = "1976"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "रघुवीरकोशः"
-PAGES = "150"
-LANGUAGE = "English-Hindi"
-"BOOKS CONTRIBUTOR" = "डा. शशिबाला"
-PRINTER = "Jayyed Press Delhi6"
-"SERIAL NO." = "Ebharati-5255"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2NzI5MzUyMDY0NDA1&pageno=MjI0MjQyNjk5NTk="
 title = "Raghu Vira Kosha Alphabet S"
+author = "Raghu Vira"
+publisher = "International academy of indian culture New delhi"
+"publish year" = "1976"
+domain = "कोषाः"
+sub-domain = "रघुवीरकोशः"
+pages = "150"
+language = "English-Hindi"
+"books contributor" = "डा. शशिबाला"
+printer = "Jayyed Press Delhi6"
+"serial no." = "Ebharati-5255"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2NzI5MzUyMDY0NDA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[Raghu Vira Kosha Alphabet S	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE2NzI5MzUyMDY0NDA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -19076,8 +19075,5 @@ Syzygites megalocarpus = Sporodinia grandis सामान्य महाब�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

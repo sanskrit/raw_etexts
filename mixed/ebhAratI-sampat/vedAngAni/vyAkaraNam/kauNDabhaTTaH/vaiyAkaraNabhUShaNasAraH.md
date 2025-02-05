@@ -1,15 +1,14 @@
 +++
-TITLE = "वैयाकरणभूषणसारः"
-AUTHOR = "कौण्डभट्टः"
-"PUBLISH YEAR" = "1879"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शङ्करशास्त्री"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3597"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDM5MTk5Mzg0ODkyNTQz"
 title = "वैयाकरणभूषणसारः"
+author = "कौण्डभट्टः"
+"publish year" = "1879"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+editor = "शङ्करशास्त्री"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3597"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDM5MTk5Mzg0ODkyNTQz"
 
 +++
 [[वैयाकरणभूषणसारः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDM5MTk5Mzg0ODkyNTQz)]]

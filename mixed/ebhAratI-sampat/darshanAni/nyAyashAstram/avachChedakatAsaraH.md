@@ -1,12 +1,11 @@
 +++
-TITLE = "अवच्छेदकतासरः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4048"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyNDIzOTg3Mjk1ODgz&pageno=MjI0MjQyNjk5NTk="
 title = "अवच्छेदकतासरः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4048"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyNDIzOTg3Mjk1ODgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अवच्छेदकतासरः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjUyNDIzOTg3Mjk1ODgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -193,8 +192,5 @@ title = "अवच्छेदकतासरः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

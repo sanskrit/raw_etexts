@@ -1,12 +1,11 @@
 +++
-TITLE = "तृतीयप्रवाहः टिप्पणियुतः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "मिश्रितम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4136"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkzNzU2ODU0MDQwNzkz"
 title = "तृतीयप्रवाहः टिप्पणियुतः"
+domain = "सुभाषितानि"
+sub-domain = "मिश्रितम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4136"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkzNzU2ODU0MDQwNzkz"
 
 +++
 [[तृतीयप्रवाहः टिप्पणियुतः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjkzNzU2ODU0MDQwNzkz)]]

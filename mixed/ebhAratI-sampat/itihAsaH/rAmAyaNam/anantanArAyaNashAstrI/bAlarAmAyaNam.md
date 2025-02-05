@@ -1,18 +1,17 @@
 +++
-TITLE = "बालरामायणम्"
-AUTHOR = "अनन्तनारायणशास्त्री"
-PUBLISHER = "आर्.एस्. विद्याधरः"
-"PUBLISH YEAR" = "1949"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "107"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "अनन्तरामशास्त्री"
-"PRIMARY COMMENTATOR" = "वाल्मीकिः"
-PRINTER = "स्कोलर्-प्रेस्"
-"SERIAL NO." = "Ebharati-6125"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU3NDM4NDg5Njc5Nzg1&pageno=MjI0MjQyNjk5NTk="
 title = "बालरामायणम्"
+author = "अनन्तनारायणशास्त्री"
+publisher = "आर्.एस्. विद्याधरः"
+"publish year" = "1949"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "107"
+language = "संस्कृतम्"
+editor = "अनन्तरामशास्त्री"
+"primary commentator" = "वाल्मीकिः"
+printer = "स्कोलर्-प्रेस्"
+"serial no." = "Ebharati-6125"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU3NDM4NDg5Njc5Nzg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बालरामायणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU3NDM4NDg5Njc5Nzg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1932,19 +1931,6 @@ ABBREVIATIONS USED
 ![](../books_images/U-IMG-1699274628Screenshot2023-11-06181310.png)  
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

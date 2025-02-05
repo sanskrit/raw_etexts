@@ -1,16 +1,15 @@
 +++
-TITLE = "हितोपदेश:"
-AUTHOR = "नारायणपण्डित"
-PUBLISHER = "वाविळ्ळ रामस्वामिशास्त्रुलु अण्ड् सन्स्"
-"PUBLISH YEAR" = "1928"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "165"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीराम प्रेस् मद्रास्"
-"SERIAL NO." = "Ebharati-5385"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc0MjQ0NTY3OTM5NjE1&pageno=MjI0MjQyNjk5NTk="
 title = "हितोपदेश:"
+author = "नारायणपण्डित"
+publisher = "वाविळ्ळ रामस्वामिशास्त्रुलु अण्ड् सन्स्"
+"publish year" = "1928"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "165"
+language = "संस्कृतम्"
+printer = "श्रीराम प्रेस् मद्रास्"
+"serial no." = "Ebharati-5385"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc0MjQ0NTY3OTM5NjE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हितोपदेश:	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc0MjQ0NTY3OTM5NjE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4222,19 +4221,6 @@ title = "हितोपदेश:"
 
 PRINTED AT THE SRI RAMA PRESS, MADRAS—1928.
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

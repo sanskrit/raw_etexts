@@ -1,12 +1,11 @@
 +++
-TITLE = "अथर्व-शिरौपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4330"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYyNzg2OTI3MzY2NTE0&pageno=MjI0MjQyNjk5NTk="
 title = "अथर्व-शिरौपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4330"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYyNzg2OTI3MzY2NTE0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अथर्व-शिरौपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDYyNzg2OTI3MzY2NTE0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -235,8 +234,5 @@ title = "अथर्व-शिरौपनिषत्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

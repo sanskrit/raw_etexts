@@ -1,12 +1,11 @@
 +++
-TITLE = "ऋग्विधानम्"
-DOMAIN = "वेदः"
-SUB-DOMAIN = "ऋग्वेदः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3587"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDE3NzY1MTI1ODMzNDQz"
 title = "ऋग्विधानम्"
+domain = "वेदः"
+sub-domain = "ऋग्वेदः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3587"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDE3NzY1MTI1ODMzNDQz"
 
 +++
 [[ऋग्विधानम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDE3NzY1MTI1ODMzNDQz)]]

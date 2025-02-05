@@ -1,16 +1,15 @@
 +++
-TITLE = "गदनिग्रहः प्रथमः प्रयोगखण्डः"
-AUTHOR = "वैद्यसाढलः"
-PUBLISHER = "यादवशर्मा"
-"PUBLISH YEAR" = "सं..१९३७"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "286"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "यादवशर्मा"
-"SERIAL NO." = "Ebharati-3437"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE0NDAyNTgwOTM5OTIz&pageno=MjI0MjQyNjk5NTk="
 title = "गदनिग्रहः प्रथमः प्रयोगखण्डः"
+author = "वैद्यसाढलः"
+publisher = "यादवशर्मा"
+"publish year" = "सं..१९३७"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "286"
+language = "संस्कृतम्"
+editor = "यादवशर्मा"
+"serial no." = "Ebharati-3437"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE0NDAyNTgwOTM5OTIz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गदनिग्रहः प्रथमः प्रयोगखण्डः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDE0NDAyNTgwOTM5OTIz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -13857,19 +13856,6 @@ PILLAYAR PALAYam,
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

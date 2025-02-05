@@ -1,17 +1,16 @@
 +++
-TITLE = "दशोपनिषत्"
-PUBLISHER = "अडयार्-पुस्तकालयः"
-"PUBLISH YEAR" = "1935"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "अन्याः उपनिषदः"
-PAGES = "514"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "सी.कुन्हन-राजा"
-"PRIMARY COMMENTATOR" = "उपनिषद्ब्रह्मयोगि"
-PRINTER = "ए.के.सीताराम-शास्त्री"
-"SERIAL NO." = "Ebharati-7227"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk3Mzg5MzQ4NDY3Mzk2&pageno=MjI0MjQyNjk5NTk="
 title = "दशोपनिषत्"
+publisher = "अडयार्-पुस्तकालयः"
+"publish year" = "1935"
+domain = "उपनिषदः"
+sub-domain = "अन्याः उपनिषदः"
+pages = "514"
+language = "संस्कृतम्"
+editor = "सी.कुन्हन-राजा"
+"primary commentator" = "उपनिषद्ब्रह्मयोगि"
+printer = "ए.के.सीताराम-शास्त्री"
+"serial no." = "Ebharati-7227"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk3Mzg5MzQ4NDY3Mzk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दशोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk3Mzg5MzQ4NDY3Mzk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8966,8 +8965,5 @@ ADYAR LIBRARY
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

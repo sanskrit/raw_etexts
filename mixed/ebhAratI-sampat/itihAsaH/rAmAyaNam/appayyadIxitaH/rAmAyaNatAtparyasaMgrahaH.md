@@ -1,16 +1,15 @@
 +++
-TITLE = "रामायणतात्पर्यसंग्रहः"
-AUTHOR = "अप्पय्यदीक्षितः"
-"PUBLISH YEAR" = "1929"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "58"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "अप्पय्यदीक्षितः"
-PRINTER = "वाणिविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6138"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMyNjg5NTM5NDIyOTg1&pageno=MjI0MjQyNjk5NTk="
 title = "रामायणतात्पर्यसंग्रहः"
+author = "अप्पय्यदीक्षितः"
+"publish year" = "1929"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "58"
+language = "संस्कृतम्"
+"primary commentator" = "अप्पय्यदीक्षितः"
+printer = "वाणिविलास-मुद्रणालयः"
+"serial no." = "Ebharati-6138"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMyNjg5NTM5NDIyOTg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रामायणतात्पर्यसंग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjMyNjg5NTM5NDIyOTg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -603,19 +602,6 @@ title = "रामायणतात्पर्यसंग्रहः"
 
 ![](../books_images/U-IMG-1701453317इ१.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

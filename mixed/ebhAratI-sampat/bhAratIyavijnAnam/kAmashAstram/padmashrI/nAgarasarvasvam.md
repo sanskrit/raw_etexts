@@ -1,18 +1,17 @@
 +++
-TITLE = "नागरसर्वस्वम्"
-AUTHOR = "पद्मश्री"
-PUBLISHER = "श्रीवेंकटेश्वर-पुस्तक-एजेन्सी"
-"PUBLISH YEAR" = "1929"
-DOMAIN = "भारतीयविज्ञानम्"
-SUB-DOMAIN = "कामशास्त्रम्"
-PAGES = "194"
-LANGUAGE = "संस्कृतम् /हिन्दी"
-TRANSLATOR = "राजधर-झा"
-EDITOR = "भगीरथस्वामी"
-PRINTER = "श्रीनारायण-प्रिण्टिङ्ग-वर्क्स्"
-"SERIAL NO." = "Ebharati-4576"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODcyOTM0&pageno=MjI0MjQyNjk5NTk="
 title = "नागरसर्वस्वम्"
+author = "पद्मश्री"
+publisher = "श्रीवेंकटेश्वर-पुस्तक-एजेन्सी"
+"publish year" = "1929"
+domain = "भारतीयविज्ञानम्"
+sub-domain = "कामशास्त्रम्"
+pages = "194"
+language = "संस्कृतम् /हिन्दी"
+translator = "राजधर-झा"
+editor = "भगीरथस्वामी"
+printer = "श्रीनारायण-प्रिण्टिङ्ग-वर्क्स्"
+"serial no." = "Ebharati-4576"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODcyOTM0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नागरसर्वस्वम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODcyOTM0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2923,19 +2922,6 @@ title = "नागरसर्वस्वम्"
 
   
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

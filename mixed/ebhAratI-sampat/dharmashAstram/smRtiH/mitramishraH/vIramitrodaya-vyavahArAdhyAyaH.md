@@ -1,16 +1,15 @@
 +++
-TITLE = "वीरमित्रोदय-व्यवहाराध्यायः"
-AUTHOR = "मित्रमिश्रः"
-"PUBLISH YEAR" = "1875"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "734"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "जीवानन्द-विद्यासागर-भट्टाचार्यः"
-PRINTER = "सुचारू-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6449"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc0OTczNzY3OTcwOTE2&pageno=MjI0MjQyNjk5NTk="
 title = "वीरमित्रोदय-व्यवहाराध्यायः"
+author = "मित्रमिश्रः"
+"publish year" = "1875"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "734"
+language = "संस्कृतम्"
+editor = "जीवानन्द-विद्यासागर-भट्टाचार्यः"
+printer = "सुचारू-यन्त्रालयः"
+"serial no." = "Ebharati-6449"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc0OTczNzY3OTcwOTE2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वीरमित्रोदय-व्यवहाराध्यायः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODc0OTczNzY3OTcwOTE2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -14982,19 +14981,6 @@ _()परिहार इति चेत्। शृणु। पिता ह
 ग्रन्थेऽस्मिन् व्यवहार जातिविषयः पूर्णः प्रकाशोऽभवत्।  
      इति व्यवहारकाण्डंसमाप्तम्।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,13 +1,12 @@
 +++
-TITLE = "श्रीमद्भगवद्गीता मध्वभाष्यम्"
-AUTHOR = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
-DOMAIN = "भगवद्गीता"
-SUB-DOMAIN = "भगवद्गीतासम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3230"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDYwMzIwMzY4NzYwMDEz"
 title = "श्रीमद्भगवद्गीता मध्वभाष्यम्"
+author = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
+domain = "भगवद्गीता"
+sub-domain = "भगवद्गीतासम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3230"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDYwMzIwMzY4NzYwMDEz"
 
 +++
 [[श्रीमद्भगवद्गीता मध्वभाष्यम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDYwMzIwMzY4NzYwMDEz)]]

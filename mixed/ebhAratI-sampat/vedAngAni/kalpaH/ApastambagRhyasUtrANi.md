@@ -1,15 +1,14 @@
 +++
-TITLE = "आपस्तम्बगृह्यसूत्राणि"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"PRIMARY COMMENTATOR" = "हरदत्तः"
-"SECONDARY COMMENTATOR" = "सुदर्शनसूरिः"
-"COMMENTARY NAME" = "अनुकूला तात्पर्यदर्शनम्"
-"SERIAL NO." = "Ebharati-2562"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDYxNTgwMzczMjQ5NTQy"
 title = "आपस्तम्बगृह्यसूत्राणि"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"primary commentator" = "हरदत्तः"
+"secondary commentator" = "सुदर्शनसूरिः"
+"commentary name" = "अनुकूला तात्पर्यदर्शनम्"
+"serial no." = "Ebharati-2562"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDYxNTgwMzczMjQ5NTQy"
 
 +++
 [[आपस्तम्बगृह्यसूत्राणि	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDYxNTgwMzczMjQ5NTQy)]]

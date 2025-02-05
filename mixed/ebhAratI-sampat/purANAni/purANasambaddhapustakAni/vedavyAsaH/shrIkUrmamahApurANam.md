@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीकूर्ममहापुराणम्"
-AUTHOR = "वेदव्यासः"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "पुराणसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2737"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDEwOTA1NTE3MTQ3MjYy"
 title = "श्रीकूर्ममहापुराणम्"
+author = "वेदव्यासः"
+domain = "पुराणानि"
+sub-domain = "पुराणसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2737"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDEwOTA1NTE3MTQ3MjYy"
 
 +++
 [[श्रीकूर्ममहापुराणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDEwOTA1NTE3MTQ3MjYy)]]

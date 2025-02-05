@@ -1,19 +1,18 @@
 +++
-TITLE = "योगशतकम्"
-AUTHOR = "वररुचिः"
-PUBLISHER = "खेमराज-कृष्णदासः"
-"PUBLISH YEAR" = "सं. १९५७"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "59"
-LANGUAGE = "संस्कृतम् हिन्दी"
-EDITOR = "ज्वालाप्रसादमिश्रः"
-"PRIMARY COMMENTATOR" = "ज्वालाप्रसादमिश्रः"
-"COMMENTARY NAME" = "हिन्दीभाषाटीका"
-PRINTER = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1656"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM4MDU0Nzc3OTY5ODUx&pageno=MjI0MjQyNjk5NTk="
 title = "योगशतकम्"
+author = "वररुचिः"
+publisher = "खेमराज-कृष्णदासः"
+"publish year" = "सं. १९५७"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "59"
+language = "संस्कृतम् हिन्दी"
+editor = "ज्वालाप्रसादमिश्रः"
+"primary commentator" = "ज्वालाप्रसादमिश्रः"
+"commentary name" = "हिन्दीभाषाटीका"
+printer = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-1656"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM4MDU0Nzc3OTY5ODUx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[योगशतकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjM4MDU0Nzc3OTY5ODUx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1042,19 +1041,6 @@ title = "योगशतकम्"
 **खेमराज श्रीकृष्णदास,  
 “श्रीबङ्गटेश्वर” छापाखाना खेतवाडी— बंबई.**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

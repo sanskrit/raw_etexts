@@ -1,13 +1,12 @@
 +++
-TITLE = "वैराग्यशतकम्"
-AUTHOR = "श्रीमदप्पय्यदीक्षितः"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2970"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQzMzk5OTM4ODAxNTgy&pageno=MjI0MjQyNjk5NTk="
 title = "वैराग्यशतकम्"
+author = "श्रीमदप्पय्यदीक्षितः"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2970"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQzMzk5OTM4ODAxNTgy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वैराग्यशतकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQzMzk5OTM4ODAxNTgy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -234,19 +233,6 @@ title = "वैराग्यशतकम्"
 इच्छामि च धाम परं गच्छामि तु विश्वनाथपुरीम्‌ ॥ १०१ ॥
 
 इति श्रीमदप्पयदीक्षितविरचितं वैराग्यशतकं संपूर्णम्‌ ।  
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

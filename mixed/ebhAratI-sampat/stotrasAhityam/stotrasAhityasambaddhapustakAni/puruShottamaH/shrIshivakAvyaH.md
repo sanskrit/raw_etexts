@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीशिवकाव्यः"
-AUTHOR = "पुरुषोत्तमः"
-"PUBLISH YEAR" = "1884"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "310"
-LANGUAGE = "संस्कृतम् मराठी"
-EDITOR = "काशीनाथः"
-"PRIMARY COMMENTATOR" = "काशीनाथः"
-"SERIAL NO." = "Ebharati-7122"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg0OTI1ODMyNTg2Mzg2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीशिवकाव्यः"
+author = "पुरुषोत्तमः"
+"publish year" = "1884"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "310"
+language = "संस्कृतम् मराठी"
+editor = "काशीनाथः"
+"primary commentator" = "काशीनाथः"
+"serial no." = "Ebharati-7122"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg0OTI1ODMyNTg2Mzg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीशिवकाव्यः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDg0OTI1ODMyNTg2Mzg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8043,19 +8042,6 @@ POONA:
 
 **समाप्तम्**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

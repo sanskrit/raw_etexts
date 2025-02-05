@@ -1,12 +1,11 @@
 +++
-TITLE = "धर्मस्कन्धः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3706"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjM5NTE0NDcwMjY3NTUz"
 title = "धर्मस्कन्धः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3706"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjM5NTE0NDcwMjY3NTUz"
 
 +++
 [[धर्मस्कन्धः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjM5NTE0NDcwMjY3NTUz)]]

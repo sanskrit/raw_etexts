@@ -1,12 +1,11 @@
 +++
-TITLE = "पानशाला"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2832"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAxOTM1ODUzMTY4MTcy&pageno=MjI0MjQyNjk5NTk="
 title = "पानशाला"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2832"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAxOTM1ODUzMTY4MTcy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पानशाला	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDAxOTM1ODUzMTY4MTcy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -524,8 +523,5 @@ title = "पानशाला"
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

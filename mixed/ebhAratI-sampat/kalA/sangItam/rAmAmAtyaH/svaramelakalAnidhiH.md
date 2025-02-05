@@ -1,16 +1,15 @@
 +++
-TITLE = "स्वरमेलकलानिधिः"
-AUTHOR = "रामामात्यः"
-"PUBLISH YEAR" = "1906"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "34"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "एस्.नारायणस्वामी"
-PRINTER = "श्रीविद्यामुद्राक्षरशाला"
-"SERIAL NO." = "Ebharati-4590"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg5NjE3MjU3MjI2MDQ0&pageno=MjI0MjQyNjk5NTk="
 title = "स्वरमेलकलानिधिः"
+author = "रामामात्यः"
+"publish year" = "1906"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "34"
+language = "संस्कृतम्"
+editor = "एस्.नारायणस्वामी"
+printer = "श्रीविद्यामुद्राक्षरशाला"
+"serial no." = "Ebharati-4590"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg5NjE3MjU3MjI2MDQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्वरमेलकलानिधिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDg5NjE3MjU3MjI2MDQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1204,19 +1203,6 @@ THE EDITOR.
 
 **पञ्चमं संपूर्णम्॥  
 \_\_\_\_\_\_\_\_\_**  
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

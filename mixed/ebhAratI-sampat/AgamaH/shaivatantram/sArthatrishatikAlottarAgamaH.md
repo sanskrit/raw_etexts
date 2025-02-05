@@ -1,12 +1,11 @@
 +++
-TITLE = "सार्थत्रिशतिकालोत्तरागमः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4025"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU1ODQ3NTc4NDgzNjgz&pageno=MjI0MjQyNjk5NTk="
 title = "सार्थत्रिशतिकालोत्तरागमः"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4025"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU1ODQ3NTc4NDgzNjgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सार्थत्रिशतिकालोत्तरागमः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU1ODQ3NTc4NDgzNjgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -769,8 +768,5 @@ title = "सार्थत्रिशतिकालोत्तरागम�
 
 -----------------------------------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

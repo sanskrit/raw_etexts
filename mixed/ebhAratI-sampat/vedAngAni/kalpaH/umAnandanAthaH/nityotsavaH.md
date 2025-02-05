@@ -1,15 +1,14 @@
 +++
-TITLE = "नित्योत्सवः"
-AUTHOR = "उमानन्दनाथः"
-"PUBLISH YEAR" = "१९४८"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "209"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "A. MAHADEVA SASTRI"
-"SERIAL NO." = "Ebharati-2932"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAzMTg3Mjg5MDY0MTgy&pageno=MjI0MjQyNjk5NTk="
 title = "नित्योत्सवः"
+author = "उमानन्दनाथः"
+"publish year" = "१९४८"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "209"
+language = "संस्कृतम्"
+editor = "A. MAHADEVA SASTRI"
+"serial no." = "Ebharati-2932"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAzMTg3Mjg5MDY0MTgy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नित्योत्सवः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDAzMTg3Mjg5MDY0MTgy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6019,19 +6018,6 @@ Baroda,}
 **इत्यादि राघवभट्टधृतवचनात् जलमारुतयोः शत्रुता बोध्या॥**
 
 **इति कुलाकुलचक्रविचारः**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

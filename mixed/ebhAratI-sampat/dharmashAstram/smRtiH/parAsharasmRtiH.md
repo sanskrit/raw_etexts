@@ -1,12 +1,11 @@
 +++
-TITLE = "पराशरस्मृतिः"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "129"
-LANGUAGE = "संस्कृतम्/आंग्लम्"
-"SERIAL NO." = "Ebharati-4900"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA4NzY4Nzg1MTgzMDc0&pageno=MjI0MjQyNjk5NTk="
 title = "पराशरस्मृतिः"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "129"
+language = "संस्कृतम्/आंग्लम्"
+"serial no." = "Ebharati-4900"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA4NzY4Nzg1MTgzMDc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पराशरस्मृतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA4NzY4Nzg1MTgzMDc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4399,8 +4398,5 @@ E-mail: srisharmaa@gmail.com
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,18 +1,17 @@
 +++
-TITLE = "काव्यालङ्कारसङ्ग्रहः"
-AUTHOR = "उद्भटभट्टः"
-PUBLISHER = "पाण्डुरङ्ग जावजी"
-"PUBLISH YEAR" = "1928"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "116"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मङ्गेश रामकृष्ण तेलेङ्ग्"
-"PRIMARY COMMENTATOR" = "प्रतिहारेन्दुराजः"
-PRINTER = "रामचन्द्र येसु  शेड्गे"
-"SERIAL NO." = "Ebharati-5973"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA2Njg5NTU1NTgzMzc1&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यालङ्कारसङ्ग्रहः"
+author = "उद्भटभट्टः"
+publisher = "पाण्डुरङ्ग जावजी"
+"publish year" = "1928"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "116"
+language = "संस्कृतम्"
+editor = "मङ्गेश रामकृष्ण तेलेङ्ग्"
+"primary commentator" = "प्रतिहारेन्दुराजः"
+printer = "रामचन्द्र येसु  शेड्गे"
+"serial no." = "Ebharati-5973"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA2Njg5NTU1NTgzMzc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यालङ्कारसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjA2Njg5NTU1NTgzMzc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1716,8 +1715,5 @@ title = "काव्यालङ्कारसङ्ग्रहः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीमद्\u200cब्रह्मवैवर्तपुराणम्"
-AUTHOR = "वेदव्यासमहर्षिः"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "पुराणसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2791"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjA4OTk1MjE1NTI5NzYy"
 title = "श्रीमद्\u200cब्रह्मवैवर्तपुराणम्"
+author = "वेदव्यासमहर्षिः"
+domain = "पुराणानि"
+sub-domain = "पुराणसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2791"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjA4OTk1MjE1NTI5NzYy"
 
 +++
 [[श्रीमद्‌ब्रह्मवैवर्तपुराणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjA4OTk1MjE1NTI5NzYy)]]

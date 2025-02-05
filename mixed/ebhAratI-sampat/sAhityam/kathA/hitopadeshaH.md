@@ -1,11 +1,10 @@
 +++
-TITLE = "हितोपदेशः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "कथा"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2778"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjEzODQ0MTY1Nzc2NjYy"
 title = "हितोपदेशः"
+domain = "साहित्यम्"
+sub-domain = "कथा"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2778"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjEzODQ0MTY1Nzc2NjYy"
 
 +++
 [[हितोपदेशः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjEzODQ0MTY1Nzc2NjYy)]]

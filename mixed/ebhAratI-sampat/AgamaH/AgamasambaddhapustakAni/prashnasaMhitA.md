@@ -1,11 +1,10 @@
 +++
-TITLE = "प्रश्नसंहिता"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "आगमसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-1159"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODkwNzY5NDQ2OTUyMTEx"
 title = "प्रश्नसंहिता"
+domain = "आगमः"
+sub-domain = "आगमसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-1159"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODkwNzY5NDQ2OTUyMTEx"
 
 +++
 [[प्रश्नसंहिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODkwNzY5NDQ2OTUyMTEx)]]

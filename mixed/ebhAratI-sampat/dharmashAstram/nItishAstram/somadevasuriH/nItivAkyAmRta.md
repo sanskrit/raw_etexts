@@ -1,17 +1,16 @@
 +++
-TITLE = "नीतिवाक्यामृत"
-AUTHOR = "सोमदेवसुरिः"
-PUBLISHER = "सुन्दरलालशास्त्री"
-"PUBLISH YEAR" = "1950"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "460"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "सुन्दरलालशास्त्री"
-PRINTER = "अजितकुमार-जैन-शास्त्री"
-"SERIAL NO." = "Ebharati-6459"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk2MzA4OTI3OTMwMDI2&pageno=MjI0MjQyNjk5NTk="
 title = "नीतिवाक्यामृत"
+author = "सोमदेवसुरिः"
+publisher = "सुन्दरलालशास्त्री"
+"publish year" = "1950"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "460"
+language = "संस्कृतम् हिन्दी"
+translator = "सुन्दरलालशास्त्री"
+printer = "अजितकुमार-जैन-शास्त्री"
+"serial no." = "Ebharati-6459"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk2MzA4OTI3OTMwMDI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नीतिवाक्यामृत	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODk2MzA4OTI3OTMwMDI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11726,19 +11725,6 @@ A, B, मु. मू. प्रति से संकलित।
 
 ![](../books_images/U-IMG-1695797920तकपक.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

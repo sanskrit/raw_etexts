@@ -1,17 +1,16 @@
 +++
-TITLE = "श्रीस्वच्छन्दतन्त्रम् (तृतीयो भागः)"
-PUBLISHER = "ओथोरिटि-आफ्-गवर्नमेण्ट्"
-"PUBLISH YEAR" = "1926"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-PAGES = "356"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मधुसूदनकौल-शास्त्री"
-"PRIMARY COMMENTATOR" = "क्षेमराजः"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7571"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY5NjczMTU1Nzg3NjI3&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीस्वच्छन्दतन्त्रम् (तृतीयो भागः)"
+publisher = "ओथोरिटि-आफ्-गवर्नमेण्ट्"
+"publish year" = "1926"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+pages = "356"
+language = "संस्कृतम्"
+editor = "मधुसूदनकौल-शास्त्री"
+"primary commentator" = "क्षेमराजः"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-7571"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY5NjczMTU1Nzg3NjI3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीस्वच्छन्दतन्त्रम् (तृतीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjY5NjczMTU1Nzg3NjI3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7241,8 +7240,5 @@ Jammu and Kashmir State, SRINAGAR,
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

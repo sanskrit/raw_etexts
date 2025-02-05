@@ -1,12 +1,11 @@
 +++
-TITLE = "एवकारार्थप्रारम्भः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4051"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI1MTUwODc3MDg4ODgz&pageno=MjI0MjQyNjk5NTk="
 title = "एवकारार्थप्रारम्भः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4051"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI1MTUwODc3MDg4ODgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[एवकारार्थप्रारम्भः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjI1MTUwODc3MDg4ODgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -153,8 +152,5 @@ title = "एवकारार्थप्रारम्भः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

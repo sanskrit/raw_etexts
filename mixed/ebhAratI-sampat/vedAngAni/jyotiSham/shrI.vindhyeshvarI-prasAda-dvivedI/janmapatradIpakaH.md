@@ -1,16 +1,15 @@
 +++
-TITLE = "जन्मपत्रदीपकः"
-AUTHOR = "श्री.विन्ध्येश्वरी-प्रसाद-द्विवेदी"
-PUBLISHER = "चौखम्बा-संस्कृत-सीरिज-आफिस्"
-"PUBLISH YEAR" = "1946"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "81"
-LANGUAGE = "संस्कृत-हिन्दी"
-PRINTER = "विद्याविलास-प्रेस् बनारस्"
-"SERIAL NO." = "Ebharati-4918"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMTMyMDI1OTAxMjc0&pageno=MjI0MjQyNjk5NTk="
 title = "जन्मपत्रदीपकः"
+author = "श्री.विन्ध्येश्वरी-प्रसाद-द्विवेदी"
+publisher = "चौखम्बा-संस्कृत-सीरिज-आफिस्"
+"publish year" = "1946"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "81"
+language = "संस्कृत-हिन्दी"
+printer = "विद्याविलास-प्रेस् बनारस्"
+"serial no." = "Ebharati-4918"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMTMyMDI1OTAxMjc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जन्मपत्रदीपकः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMTMyMDI1OTAxMjc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2298,19 +2297,6 @@ BENARES
                                    
               १।)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,13 +1,12 @@
 +++
-TITLE = "वज्रसूची"
-AUTHOR = "सिद्धाचार्याश्वघोषपादः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3837"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMzcxMjg1NzMzODYz&pageno=MjI0MjQyNjk5NTk="
 title = "वज्रसूची"
+author = "सिद्धाचार्याश्वघोषपादः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3837"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMzcxMjg1NzMzODYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वज्रसूची	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMzcxMjg1NzMzODYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -150,19 +149,6 @@ title = "वज्रसूची"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

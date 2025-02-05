@@ -1,16 +1,15 @@
 +++
-TITLE = "रामगीता"
-PUBLISHER = "गङ्गाविष्णु-खेमराजः"
-"PUBLISH YEAR" = "1890"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-PAGES = "87"
-LANGUAGE = "संस्कृतम् हिन्दी"
-EDITOR = "रामनाथ-शास्त्री"
-PRINTER = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6683"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIyNjAxODg4MjQ1MTQ2&pageno=MjI0MjQyNjk5NTk="
 title = "रामगीता"
+publisher = "गङ्गाविष्णु-खेमराजः"
+"publish year" = "1890"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+pages = "87"
+language = "संस्कृतम् हिन्दी"
+editor = "रामनाथ-शास्त्री"
+printer = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-6683"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIyNjAxODg4MjQ1MTQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रामगीता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjIyNjAxODg4MjQ1MTQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1227,8 +1226,5 @@ title = "रामगीता"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

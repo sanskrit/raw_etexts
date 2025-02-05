@@ -1,17 +1,16 @@
 +++
-TITLE = "बृहदारण्यकोपनिषद्भाष्यवार्तिकम् (प्रथमो भागः)"
-AUTHOR = "सुरेश्वराचार्यः"
-PUBLISHER = "महादेव-चिमणाजी-आपटे"
-"PUBLISH YEAR" = "1892"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "बृहदारण्यकोपनिषद्"
-PAGES = "321"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "काशीनाथशास्त्री-आगाशे"
-PRINTER = "आनन्दाश्रम-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-8509"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3ODY3NjIwMjM4NjE4&pageno=MjI0MjQyNjk5NTk="
 title = "बृहदारण्यकोपनिषद्भाष्यवार्तिकम् (प्रथमो भागः)"
+author = "सुरेश्वराचार्यः"
+publisher = "महादेव-चिमणाजी-आपटे"
+"publish year" = "1892"
+domain = "उपनिषदः"
+sub-domain = "बृहदारण्यकोपनिषद्"
+pages = "321"
+language = "संस्कृतम्"
+editor = "काशीनाथशास्त्री-आगाशे"
+printer = "आनन्दाश्रम-मुद्रणालयः"
+"serial no." = "Ebharati-8509"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3ODY3NjIwMjM4NjE4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बृहदारण्यकोपनिषद्भाष्यवार्तिकम् (प्रथमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODk3ODY3NjIwMjM4NjE4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7339,8 +7338,5 @@ _(\*)
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,14 +1,13 @@
 +++
-TITLE = "साहित्यरत्नमञ्जूषा"
-"PUBLISH YEAR" = "1908"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "साहित्येतिहासः"
-PAGES = "194"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "वाणीविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7824"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI3OTA3MDA2NDcwMTU3&pageno=MjI0MjQyNjk5NTk="
 title = "साहित्यरत्नमञ्जूषा"
+"publish year" = "1908"
+domain = "साहित्यम्"
+sub-domain = "साहित्येतिहासः"
+pages = "194"
+language = "संस्कृतम्"
+printer = "वाणीविलास-मुद्रणालयः"
+"serial no." = "Ebharati-7824"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI3OTA3MDA2NDcwMTU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[साहित्यरत्नमञ्जूषा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODI3OTA3MDA2NDcwMTU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5522,8 +5521,5 @@ SRIRANGAM.                         ** *T. K. Balasubrahmanyam.***
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

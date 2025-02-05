@@ -1,18 +1,17 @@
 +++
-TITLE = "दशकुमारचरितम्"
-AUTHOR = "दण्डिकवि"
-PUBLISHER = "तुकाराम जावजी"
-"PUBLISH YEAR" = "1905"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "296"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "नारायण बालकॄष्ण गोडबोले काशीनाथ पाण्डुरङ्ग परब"
-"COMMENTARY NAME" = "पददीपिका पदचन्द्रिका भूषणा लघुदीपिका"
-PRINTER = "तुकाराम जावजी"
-"SERIAL NO." = "Ebharati-5287"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDExNTg2MzMxMjM1NzA1&pageno=MjI0MjQyNjk5NTk="
 title = "दशकुमारचरितम्"
+author = "दण्डिकवि"
+publisher = "तुकाराम जावजी"
+"publish year" = "1905"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "296"
+language = "संस्कृतम्"
+editor = "नारायण बालकॄष्ण गोडबोले काशीनाथ पाण्डुरङ्ग परब"
+"commentary name" = "पददीपिका पदचन्द्रिका भूषणा लघुदीपिका"
+printer = "तुकाराम जावजी"
+"serial no." = "Ebharati-5287"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDExNTg2MzMxMjM1NzA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दशकुमारचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDExNTg2MzMxMjM1NzA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3911,19 +3910,6 @@ title = "दशकुमारचरितम्"
 शर्वरीश्वरसरस्वतीनिःश्वसितकविदण्डिपण्डित  
 विरचितं दशकुमारचरितं संपूर्णम्।  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

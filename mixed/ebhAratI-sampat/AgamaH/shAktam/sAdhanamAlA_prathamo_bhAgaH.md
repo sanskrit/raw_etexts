@@ -1,16 +1,15 @@
 +++
-TITLE = "साधनमाला (प्रथमो भागः)"
-PUBLISHER = "निउटन-मोहन-दत्तः"
-"PUBLISH YEAR" = "1925"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शाक्तम्"
-PAGES = "372"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "बेनोयतोष-भट्टाचार्यः"
-PRINTER = "बैप्टिस्टमिशन-प्रेस्"
-"SERIAL NO." = "Ebharati-7820"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQwMDQ3NTE2MDk2MDU3&pageno=MjI0MjQyNjk5NTk="
 title = "साधनमाला (प्रथमो भागः)"
+publisher = "निउटन-मोहन-दत्तः"
+"publish year" = "1925"
+domain = "आगमः"
+sub-domain = "शाक्तम्"
+pages = "372"
+language = "संस्कृतम्"
+editor = "बेनोयतोष-भट्टाचार्यः"
+printer = "बैप्टिस्टमिशन-प्रेस्"
+"serial no." = "Ebharati-7820"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQwMDQ3NTE2MDk2MDU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[साधनमाला (प्रथमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQwMDQ3NTE2MDk2MDU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6096,8 +6095,5 @@ END OF VOLUME ONE.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

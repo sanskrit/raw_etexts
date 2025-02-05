@@ -1,12 +1,11 @@
 +++
-TITLE = "स्पन्दकारिका"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4012"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwNzk1NDI5NjMxNTgz&pageno=MjI0MjQyNjk5NTk="
 title = "स्पन्दकारिका"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4012"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwNzk1NDI5NjMxNTgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्पन्दकारिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDYwNzk1NDI5NjMxNTgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -962,8 +961,5 @@ title = "स्पन्दकारिका"
     शिवादिक्षित्यन्तो विततविततो योऽध्वविभवः स्फुरन्नानासर्गस्थितिलयदशाचित्रिततनुः ।  
     इयद्विश्वं यस्य प्रसरकणिकासौ विजयते परः संवित्स्पन्दो लसदसमसौख्यायतनभूः ॥ स्पन्दकारिकानिर्णय४.२ः७\]
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

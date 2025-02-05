@@ -1,12 +1,11 @@
 +++
-TITLE = "विश्वकर्म-वास्तुशास्त्रम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2666"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwNzkyMjg5NTI5NTUy&pageno=MjI0MjQyNjk5NTk="
 title = "विश्वकर्म-वास्तुशास्त्रम्"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2666"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwNzkyMjg5NTI5NTUy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विश्वकर्म-वास्तुशास्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjUwNzkyMjg5NTI5NTUy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -420,8 +419,5 @@ Eन्दोf Vइवहपतल
 \\\\Z  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

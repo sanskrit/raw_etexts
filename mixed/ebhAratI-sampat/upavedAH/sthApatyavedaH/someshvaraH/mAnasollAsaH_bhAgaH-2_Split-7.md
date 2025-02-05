@@ -1,13 +1,12 @@
 +++
-TITLE = "मानसोल्लासः भागः-2 Split-7"
-AUTHOR = "सोमेश्वरः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "स्थापत्यवेदः"
-PAGES = "36"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4883"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2NjQ3MTU2OTQ3ODY0&pageno=MjI0MjQyNjk5NTk="
 title = "मानसोल्लासः भागः-2 Split-7"
+author = "सोमेश्वरः"
+domain = "उपवेदाः"
+sub-domain = "स्थापत्यवेदः"
+pages = "36"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4883"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2NjQ3MTU2OTQ3ODY0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मानसोल्लासः भागः-2 Split-7	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjI2NjQ3MTU2OTQ3ODY0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -710,19 +709,6 @@ AANAA
 AF गो९ A लाल ।
 
 ----------
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

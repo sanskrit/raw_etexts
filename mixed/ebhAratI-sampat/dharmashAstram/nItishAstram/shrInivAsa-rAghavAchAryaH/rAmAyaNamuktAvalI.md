@@ -1,15 +1,14 @@
 +++
-TITLE = "रामायणमुक्तावली"
-AUTHOR = "श्रीनिवास-राघवाचार्यः"
-"PUBLISH YEAR" = "1949"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "111"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "श्रीवेदव्यास-प्रेस्-चित्तुर्"
-"SERIAL NO." = "Ebharati-6460"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIxNjQwNjI3NTMxMDI2&pageno=MjI0MjQyNjk5NTk="
 title = "रामायणमुक्तावली"
+author = "श्रीनिवास-राघवाचार्यः"
+"publish year" = "1949"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "111"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "श्रीवेदव्यास-प्रेस्-चित्तुर्"
+"serial no." = "Ebharati-6460"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIxNjQwNjI3NTMxMDI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रामायणमुक्तावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDIxNjQwNjI3NTMxMDI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3157,19 +3156,6 @@ devoid of them. All the same the latter should be preferred to the former.
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

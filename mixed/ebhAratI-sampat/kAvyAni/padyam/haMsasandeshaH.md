@@ -1,16 +1,15 @@
 +++
-TITLE = "हंससन्देशः"
-PUBLISHER = "गवर्नमेण्ट्-आफ्-ट्रवण्कोर्"
-"PUBLISH YEAR" = "1930"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "69"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "साम्बशिवशास्त्री"
-PRINTER = "राजकीयमुद्रणयन्त्रालयः"
-"SERIAL NO." = "Ebharati-5852"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ1MzU2MDEwMDc3MTY1&pageno=MjI0MjQyNjk5NTk="
 title = "हंससन्देशः"
+publisher = "गवर्नमेण्ट्-आफ्-ट्रवण्कोर्"
+"publish year" = "1930"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "69"
+language = "संस्कृतम्"
+editor = "साम्बशिवशास्त्री"
+printer = "राजकीयमुद्रणयन्त्रालयः"
+"serial no." = "Ebharati-5852"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ1MzU2MDEwMDc3MTY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हंससन्देशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQ1MzU2MDEwMDc3MTY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1714,8 +1713,5 @@ All these, सन्देशाः exept हंस are productions of poets bor
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

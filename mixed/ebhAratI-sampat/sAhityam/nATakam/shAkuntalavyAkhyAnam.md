@@ -1,11 +1,10 @@
 +++
-TITLE = "शाकुन्तलव्याख्यानम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2869"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODE3ODA1OTEyMzE0NTcy"
 title = "शाकुन्तलव्याख्यानम्"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2869"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODE3ODA1OTEyMzE0NTcy"
 
 +++
 [[शाकुन्तलव्याख्यानम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODE3ODA1OTEyMzE0NTcy)]]

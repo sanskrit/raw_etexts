@@ -1,12 +1,11 @@
 +++
-TITLE = "सुखातिव्यूहः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3810"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI4NzI2Mzg2NTQ3NTYz&pageno=MjI0MjQyNjk5NTk="
 title = "सुखातिव्यूहः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3810"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI4NzI2Mzg2NTQ3NTYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुखातिव्यूहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDI4NzI2Mzg2NTQ3NTYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1726,8 +1725,5 @@ title = "सुखातिव्यूहः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

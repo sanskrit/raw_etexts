@@ -1,17 +1,16 @@
 +++
-TITLE = "श्रीमद्भागवतमहापुराणम्"
-PUBLISHER = "हरिप्रसादशर्मा"
-"PUBLISH YEAR" = "1922"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "83"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "गिरिधरः"
-"COMMENTARY NAME" = "बालप्रबोधिनी"
-PRINTER = "वैभव-प्रेस्-मुबाई"
-"SERIAL NO." = "Ebharati-6799"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcxNzIyMjU0ODc2MjU2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमद्भागवतमहापुराणम्"
+publisher = "हरिप्रसादशर्मा"
+"publish year" = "1922"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "83"
+language = "संस्कृतम्"
+"primary commentator" = "गिरिधरः"
+"commentary name" = "बालप्रबोधिनी"
+printer = "वैभव-प्रेस्-मुबाई"
+"serial no." = "Ebharati-6799"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcxNzIyMjU0ODc2MjU2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमद्भागवतमहापुराणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODcxNzIyMjU0ODc2MjU2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -696,8 +695,5 @@ title = "श्रीमद्भागवतमहापुराणम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

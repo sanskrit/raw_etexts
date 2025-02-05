@@ -1,12 +1,11 @@
 +++
-TITLE = "योहिभाष्यम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3997"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM3MDY5MDg5Njk2Mzgz&pageno=MjI0MjQyNjk5NTk="
 title = "योहिभाष्यम्"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3997"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM3MDY5MDg5Njk2Mzgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[योहिभाष्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDM3MDY5MDg5Njk2Mzgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -112,8 +111,5 @@ title = "योहिभाष्यम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

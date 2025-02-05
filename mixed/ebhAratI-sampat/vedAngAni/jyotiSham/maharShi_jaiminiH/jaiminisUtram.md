@@ -1,14 +1,13 @@
 +++
-TITLE = "जैमिनिसूत्रम्"
-AUTHOR = "महर्षि जैमिनिः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "126"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "प.श्रीसीतारामशर्मः"
-"SERIAL NO." = "Ebharati-1154"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg5NDU3MzY2OTc3MDEx&pageno=MjI0MjQyNjk5NTk="
 title = "जैमिनिसूत्रम्"
+author = "महर्षि जैमिनिः"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "126"
+language = "संस्कृतम्"
+editor = "प.श्रीसीतारामशर्मः"
+"serial no." = "Ebharati-1154"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg5NDU3MzY2OTc3MDEx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जैमिनिसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODg5NDU3MzY2OTc3MDEx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3148,19 +3147,6 @@ title = "जैमिनिसूत्रम्"
 
 ——————►——————
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

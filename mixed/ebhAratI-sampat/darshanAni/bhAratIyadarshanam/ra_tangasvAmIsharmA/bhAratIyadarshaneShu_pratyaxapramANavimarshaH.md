@@ -1,13 +1,12 @@
 +++
-TITLE = "भारतीयदर्शनेषु प्रत्यक्षप्रमाणविमर्शः"
-AUTHOR = "र तङ्गस्वामीशर्मा"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "भारतीयदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3604"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg4ODg2NzU0MDc5NTQz"
 title = "भारतीयदर्शनेषु प्रत्यक्षप्रमाणविमर्शः"
+author = "र तङ्गस्वामीशर्मा"
+domain = "दर्शनानि"
+sub-domain = "भारतीयदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3604"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg4ODg2NzU0MDc5NTQz"
 
 +++
 [[भारतीयदर्शनेषु प्रत्यक्षप्रमाणविमर्शः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODg4ODg2NzU0MDc5NTQz)]]

@@ -1,18 +1,17 @@
 +++
-TITLE = "केनोपनिषत्"
-PUBLISHER = "हरिनारायण-आपटे"
-"PUBLISH YEAR" = "1909"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "केनोपनिषत्"
-PAGES = "98"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "आनन्दाश्रमपण्डिताः"
-"PRIMARY COMMENTATOR" = "केनोपनिषद्दीपिका केनोपनिषद्दीपिका"
-"COMMENTARY NAME" = "शंकरानन्दः नारायणः"
-PRINTER = "आनन्दाश्रम-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7656"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM4Mjg5MTMyNzQ5NDM3&pageno=MjI0MjQyNjk5NTk="
 title = "केनोपनिषत्"
+publisher = "हरिनारायण-आपटे"
+"publish year" = "1909"
+domain = "उपनिषदः"
+sub-domain = "केनोपनिषत्"
+pages = "98"
+language = "संस्कृतम्"
+editor = "आनन्दाश्रमपण्डिताः"
+"primary commentator" = "केनोपनिषद्दीपिका केनोपनिषद्दीपिका"
+"commentary name" = "शंकरानन्दः नारायणः"
+printer = "आनन्दाश्रम-मुद्रणालयः"
+"serial no." = "Ebharati-7656"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM4Mjg5MTMyNzQ5NDM3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[केनोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjM4Mjg5MTMyNzQ5NDM3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1639,8 +1638,5 @@ title = "केनोपनिषत्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,15 +1,14 @@
 +++
-TITLE = "साङ्ख्यकारिका गौडपादभाष्यसहिता"
-AUTHOR = "ईश्वरकृष्णः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "साङ्ख्यदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"PRIMARY COMMENTATOR" = "गौडपादाः"
-"COMMENTARY NAME" = "भाष्यम्"
-"SERIAL NO." = "Ebharati-3894"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODYyMTk5NzYzOTA4Mzcz&pageno=MjI0MjQyNjk5NTk="
 title = "साङ्ख्यकारिका गौडपादभाष्यसहिता"
+author = "ईश्वरकृष्णः"
+domain = "दर्शनानि"
+sub-domain = "साङ्ख्यदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"primary commentator" = "गौडपादाः"
+"commentary name" = "भाष्यम्"
+"serial no." = "Ebharati-3894"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODYyMTk5NzYzOTA4Mzcz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[साङ्ख्यकारिका गौडपादभाष्यसहिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODYyMTk5NzYzOTA4Mzcz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -624,8 +623,5 @@ title = "साङ्ख्यकारिका गौडपादभाष्�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

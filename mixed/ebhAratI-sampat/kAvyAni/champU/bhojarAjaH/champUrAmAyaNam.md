@@ -1,20 +1,19 @@
 +++
-TITLE = "चम्पूरामायणम्"
-AUTHOR = "भोजराजः"
-PUBLISHER = "तुकारामजावजी"
-"PUBLISH YEAR" = "1917"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "चम्पू"
-PAGES = "397"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वासुदेवशर्मा"
-"PRIMARY COMMENTATOR" = "लक्ष्मणसूरिः"
-"SECONDARY COMMENTATOR" = "रामचन्द्रबुधेन्द्रः"
-"COMMENTARY NAME" = "युद्धकाण्डम्"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5267"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc2NjM4ODAyMjE2NTA1&pageno=MjI0MjQyNjk5NTk="
 title = "चम्पूरामायणम्"
+author = "भोजराजः"
+publisher = "तुकारामजावजी"
+"publish year" = "1917"
+domain = "काव्यानि"
+sub-domain = "चम्पू"
+pages = "397"
+language = "संस्कृतम्"
+editor = "वासुदेवशर्मा"
+"primary commentator" = "लक्ष्मणसूरिः"
+"secondary commentator" = "रामचन्द्रबुधेन्द्रः"
+"commentary name" = "युद्धकाण्डम्"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-5267"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc2NjM4ODAyMjE2NTA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चम्पूरामायणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDc2NjM4ODAyMjE2NTA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7103,19 +7102,6 @@ at the ‘Nirnaya Sagra Press, 26, KolbhatlaneBombay
 
 **——————**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

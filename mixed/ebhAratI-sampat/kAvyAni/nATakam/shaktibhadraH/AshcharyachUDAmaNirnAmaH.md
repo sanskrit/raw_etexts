@@ -1,14 +1,13 @@
 +++
-TITLE = "आश्चर्यचूडामणिर्नामः"
-AUTHOR = "शक्तिभद्रः"
-"PUBLISH YEAR" = "1867"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "268"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-7846"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEwMzQwODE1NjgxMzU3&pageno=MjI0MjQyNjk5NTk="
 title = "आश्चर्यचूडामणिर्नामः"
+author = "शक्तिभद्रः"
+"publish year" = "1867"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "268"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-7846"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEwMzQwODE1NjgxMzU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आश्चर्यचूडामणिर्नामः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjEwMzQwODE1NjgxMzU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5114,19 +5113,6 @@ Presidency College, Madras*
 
 ![](../books_images/U-IMG-1723612492image_2024-08-14_104452965.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

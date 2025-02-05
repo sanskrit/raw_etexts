@@ -1,16 +1,15 @@
 +++
-TITLE = "Collected Works of Sir R.G. Bhandarkar Vol. 4"
-PUBLISHER = "भण्डार्कर्-रिसर्च्-इन्स्टिट्यूट्"
-"PUBLISH YEAR" = "1929"
-DOMAIN = "इतिहासःसंस्कृतिः च"
-SUB-DOMAIN = "संस्कृतिः"
-PAGES = "666"
-LANGUAGE = "आङ्ग्लम्संस्कृतम्"
-EDITOR = "नारायण-बापूजि-उट्गिकर्"
-PRINTER = "वि.जि. पराञ्जपे"
-"SERIAL NO." = "Ebharati-7669"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEzNDMxMzgxNTkxNjM3&pageno=MjI0MjQyNjk5NTk="
 title = "Collected Works of Sir R.G. Bhandarkar Vol. 4"
+publisher = "भण्डार्कर्-रिसर्च्-इन्स्टिट्यूट्"
+"publish year" = "1929"
+domain = "इतिहासःसंस्कृतिः च"
+sub-domain = "संस्कृतिः"
+pages = "666"
+language = "आङ्ग्लम्संस्कृतम्"
+editor = "नारायण-बापूजि-उट्गिकर्"
+printer = "वि.जि. पराञ्जपे"
+"serial no." = "Ebharati-7669"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEzNDMxMzgxNTkxNjM3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[Collected Works of Sir R.G. Bhandarkar Vol. 4	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODEzNDMxMzgxNTkxNjM3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -18681,8 +18680,5 @@ INDEX OF SANSKRIT AND OTHER WORKS
 
 [TABLE]
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,17 +1,16 @@
 +++
-TITLE = "यात्राप्रबन्धः"
-AUTHOR = "समरपुंगवदीक्षितः"
-PUBLISHER = "पाण्डुरङ्गजावजी"
-"PUBLISH YEAR" = "1936"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "चम्पू"
-PAGES = "182"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "केदारनाथः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5300"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2NjM4NDgwMDg3ODA1&pageno=MjI0MjQyNjk5NTk="
 title = "यात्राप्रबन्धः"
+author = "समरपुंगवदीक्षितः"
+publisher = "पाण्डुरङ्गजावजी"
+"publish year" = "1936"
+domain = "काव्यानि"
+sub-domain = "चम्पू"
+pages = "182"
+language = "संस्कृतम्"
+editor = "केदारनाथः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-5300"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2NjM4NDgwMDg3ODA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[यात्राप्रबन्धः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA2NjM4NDgwMDg3ODA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5317,19 +5316,6 @@ title = "यात्राप्रबन्धः"
 
 **समाप्तोऽयं ग्रन्थः।  
 ———————**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

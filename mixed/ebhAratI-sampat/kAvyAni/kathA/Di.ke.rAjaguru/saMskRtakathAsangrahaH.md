@@ -1,16 +1,15 @@
 +++
-TITLE = "संस्कृतकथासङ्ग्रहः"
-AUTHOR = "डि.के.राजगुरु"
-PUBLISHER = "एम्. एन्. कुलकर्णि"
-"PUBLISH YEAR" = "1938"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "101"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "एम्. एन्. कुलकर्णि"
-"SERIAL NO." = "Ebharati-5687"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5MzU2MDM2MDM5NTQ1&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृतकथासङ्ग्रहः"
+author = "डि.के.राजगुरु"
+publisher = "एम्. एन्. कुलकर्णि"
+"publish year" = "1938"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "101"
+language = "संस्कृतम्"
+printer = "एम्. एन्. कुलकर्णि"
+"serial no." = "Ebharati-5687"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5MzU2MDM2MDM5NTQ1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृतकथासङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDE5MzU2MDM2MDM5NTQ1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2419,19 +2418,6 @@ Should be avoided. **मन०** One thing in mind, another in speech and a thir
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

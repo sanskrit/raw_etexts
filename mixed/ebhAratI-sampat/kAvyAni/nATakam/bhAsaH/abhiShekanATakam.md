@@ -1,16 +1,15 @@
 +++
-TITLE = "अभिषेकनाटकम्"
-AUTHOR = "भासः"
-PUBLISHER = "संस्कृतसाहित्यसदनः बेङ्गलूरुः"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "125"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "कृष्णमूर्तिः"
-PRINTER = "श्री रघुवीरमुद्रणालयः मैसूरुः"
-"SERIAL NO." = "Ebharati-7877"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkwODU1MTA0MjYxNjU3&pageno=MjI0MjQyNjk5NTk="
 title = "अभिषेकनाटकम्"
+author = "भासः"
+publisher = "संस्कृतसाहित्यसदनः बेङ्गलूरुः"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "125"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "कृष्णमूर्तिः"
+printer = "श्री रघुवीरमुद्रणालयः मैसूरुः"
+"serial no." = "Ebharati-7877"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkwODU1MTA0MjYxNjU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अभिषेकनाटकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDkwODU1MTA0MjYxNjU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3507,8 +3506,5 @@ ACT VI
 
  **Sl**. 1 is a split verse. Bhasa is fond of using suchverses; *of*. प्रतिमाiii 1; पञ्चi 57. **sl** 2. Warfield compared to an ocean. **sl**. 3 d. वज्र—इन्द्रा's (thunder-bolt) weapon made of the bones of दधीच, by which he chopped the wings of the mountains. **sl**. 4 demons attack the monkey forces. **sl**. 5 is like vii, a split verse and graphically describes the fight. **sl**.16 रावण in fighting mood. उदयशिखरि— the mountain supposed to be at the eastern horizon, behind which the sun and moon appear to rise. **sl.**7 राम in his fighting pose. क्रौञ्च यथा &c. see note on i 24. **sl**. 8 the fight begins. **sl.**9-11 the fight between रामon foot and रावणin his chariot. **sl**. 12 राम in इन्द्र's chariot driven by मातलि. त्रिपुरवधाय—मय had built three cities of gold, silver and iron in the sky, air and earth for demons. At the request of the gods, शिवburnt down these cities with their inhabitants. **sl.**13-17 the fight. Note the metre suggestive of the manner of the fight. **sl.**18 Rejoicing in the heavens at रावण's death. **P. 39**प्रतिज्ञार्णव— the vow of promise to free the sages of their troubles from demons by slaying Ravana. *of*. आश्चर्यचूडामणिvii 11. **sl**. 20 क्षय— house. राम is reluctant to see सीता for two reasons– 1. long separation between himself and सीता; and 2. her stay in the house of his enemy. /10 note the implicit obedience of . **sl**. 22 gives राम's definition of a true friend. While विभीषण is trying to advocate the cause of सीता before राम, लक्ष्मण has informed सीता of राम's attitude and she has decided to throw herself into fire with राम's permission. / 22 प्रतिव्रतायाः.... This is ample to show that राम has no doubt of her purity; only the points mentioned in sl 20 prevent him from accepting her. **sl**. 23 धर्मस्नेहान्तरे.... *of*. p. 13 / 20 & प्रतिज्ञा ii 7. / 8 आश्चर्यमाश्वर्यम् *of.* आ. चूडामणि vii **sl**. 24 सीता enters into the pyre gladly. **sl**. 25 सीता's appearance after the अग्निप्रवेश. I 25 Rama salutes the Fire god who recognises राम as the great नारायणin P 41/1; but it is significant that he immediately addresses him राजेन्द्र and पुरुषोत्तम in **sl**. 27 just as वरुण did in p. 27 // 2-3 (iv). **sl**. 28 अग्नि reveals that सीता is goddess लक्ष्मी. of राघवत्वेऽभवत्सीता रुक्मिणी कृष्णजन्मनि। अन्येषु चायतारेषु विष्णोरेषानपायिनी॥**sl**. 29 रामा's explanation as to why he allowed सीता's अग्निप्रवेश. **sl.** 30-31. राम is clearly identified with नारायण. The गान is similar to that in the आश्चर्यचूडामणि **sl**. 32 प्रतिज्ञार्णव of. vi 19. **sl.** 33 of. आ.चूडामणिv13. **sl.** 34 The circumstances in which रामis consecrated on the seashore alone is very significant. Even Bharata arrives there to participate in the rejoicing occasion.
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

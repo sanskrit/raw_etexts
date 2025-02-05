@@ -1,16 +1,15 @@
 +++
-TITLE = "भगवद्गीता"
-PUBLISHER = "थिओसोफिकलसोसाइटी"
-"PUBLISH YEAR" = "1905"
-DOMAIN = "भगवद्गीता"
-SUB-DOMAIN = "भगवद्गीतासम्बद्धपुस्तकानि"
-PAGES = "398"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "एनीबेसन्तः भगवानदासः"
-PRINTER = "तारा-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6227"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk3MTY1MTA2ODY3Nzk1&pageno=MjI0MjQyNjk5NTk="
 title = "भगवद्गीता"
+publisher = "थिओसोफिकलसोसाइटी"
+"publish year" = "1905"
+domain = "भगवद्गीता"
+sub-domain = "भगवद्गीतासम्बद्धपुस्तकानि"
+pages = "398"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "एनीबेसन्तः भगवानदासः"
+printer = "तारा-मुद्रणालयः"
+"serial no." = "Ebharati-6227"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk3MTY1MTA2ODY3Nzk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भगवद्गीता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk3MTY1MTA2ODY3Nzk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7865,8 +7864,5 @@ PEACE BE TO ALL WORLDS.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

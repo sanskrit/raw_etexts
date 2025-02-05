@@ -1,15 +1,14 @@
 +++
-TITLE = "पञ्चतन्त्रम् १"
-"PUBLISH YEAR" = "1873"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "166"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "कील्हार्न्"
-PRINTER = "इन्दुप्रकाश प्रेस्"
-"SERIAL NO." = "Ebharati-5644"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY3OTIyMjk3MjA4MTQ1&pageno=MjI0MjQyNjk5NTk="
 title = "पञ्चतन्त्रम् १"
+"publish year" = "1873"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "166"
+language = "संस्कृतम्"
+editor = "कील्हार्न्"
+printer = "इन्दुप्रकाश प्रेस्"
+"serial no." = "Ebharati-5644"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY3OTIyMjk3MjA4MTQ1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पञ्चतन्त्रम् १	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY3OTIyMjk3MjA4MTQ1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3843,8 +3842,5 @@ P. 112. L. 1.— Metre of s'l. 424: Indravajrâ.
 
 \_\_\_\_\_\_\_\_\_\_\_\_
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

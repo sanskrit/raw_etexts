@@ -1,18 +1,17 @@
 +++
-TITLE = "नीतिशतक वैराग्यशतक"
-AUTHOR = "भर्तृहरिः"
-PUBLISHER = "प्राच्य प्रकाशन कम्पनी"
-"PUBLISH YEAR" = "1902"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "243"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "एम. आर्. काले"
-EDITOR = "एम. आर्. काले"
-PRINTER = "शारदाकृदन-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5222"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg2NzI5NzczMjkyMTA1&pageno=MjI0MjQyNjk5NTk="
 title = "नीतिशतक वैराग्यशतक"
+author = "भर्तृहरिः"
+publisher = "प्राच्य प्रकाशन कम्पनी"
+"publish year" = "1902"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "243"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "एम. आर्. काले"
+editor = "एम. आर्. काले"
+printer = "शारदाकृदन-यन्त्रालयः"
+"serial no." = "Ebharati-5222"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg2NzI5NzczMjkyMTA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नीतिशतक वैराग्यशतक	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDg2NzI5NzczMjkyMTA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4483,8 +4482,5 @@ This belongs to the class of metres regulated by the number of mantras or syllab
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

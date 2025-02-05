@@ -1,14 +1,13 @@
 +++
-TITLE = "सत्यद्वयावतारनाम"
-AUTHOR = "दीपङ्करश्रीज्ञान-आचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-TRANSLATOR = "वीर्यसिंहः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3797"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMzNjc0MjM3Nzk0NDYz&pageno=MjI0MjQyNjk5NTk="
 title = "सत्यद्वयावतारनाम"
+author = "दीपङ्करश्रीज्ञान-आचार्यः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+translator = "वीर्यसिंहः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3797"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMzNjc0MjM3Nzk0NDYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सत्यद्वयावतारनाम	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDMzNjc0MjM3Nzk0NDYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -104,19 +103,6 @@ title = "सत्यद्वयावतारनाम"
 
 **---------------------------------------------------**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

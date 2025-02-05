@@ -1,16 +1,15 @@
 +++
-TITLE = "स्मृतिचन्द्रिका (पञ्चमो भागः)"
-AUTHOR = "याज्ञिकदेवणभट्टः"
-"PUBLISH YEAR" = "1921"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "230"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शमाशास्त्री"
-PRINTER = "गवर्मेण्ट-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6482"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA0OTczMzQ2NzQyMjI2&pageno=MjI0MjQyNjk5NTk="
 title = "स्मृतिचन्द्रिका (पञ्चमो भागः)"
+author = "याज्ञिकदेवणभट्टः"
+"publish year" = "1921"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "230"
+language = "संस्कृतम्"
+editor = "शमाशास्त्री"
+printer = "गवर्मेण्ट-यन्त्रालयः"
+"serial no." = "Ebharati-6482"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA0OTczMzQ2NzQyMjI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्मृतिचन्द्रिका (पञ्चमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDA0OTczMzQ2NzQyMjI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5287,19 +5286,6 @@ Campl ll Metal Medalist.**
 
 ![](../books_images/U-IMG-169778549734-removebg-preview.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

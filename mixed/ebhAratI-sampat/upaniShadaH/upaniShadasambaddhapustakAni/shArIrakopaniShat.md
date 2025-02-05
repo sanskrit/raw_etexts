@@ -1,11 +1,10 @@
 +++
-TITLE = "शारीरकोपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4326"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc1NzE3NDQ3OTcyNTE0&pageno=MjI0MjQyNjk5NTk="
 title = "शारीरकोपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4326"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc1NzE3NDQ3OTcyNTE0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शारीरकोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc1NzE3NDQ3OTcyNTE0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -152,8 +151,5 @@ c
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

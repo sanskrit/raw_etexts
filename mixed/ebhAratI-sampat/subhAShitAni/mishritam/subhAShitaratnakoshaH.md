@@ -1,12 +1,11 @@
 +++
-TITLE = "सुभाषितरत्नकोशः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "मिश्रितम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4125"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU3MDk5OTk0NDg5NTkz&pageno=MjI0MjQyNjk5NTk="
 title = "सुभाषितरत्नकोशः"
+domain = "सुभाषितानि"
+sub-domain = "मिश्रितम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4125"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU3MDk5OTk0NDg5NTkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुभाषितरत्नकोशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU3MDk5OTk0NDg5NTkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -17036,8 +17035,5 @@ K
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

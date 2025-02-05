@@ -1,15 +1,14 @@
 +++
-TITLE = "माण्डूक्योपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "माण्डूक्योपनिषत्"
-PAGES = "156"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "शङ्कराचार्यः"
-"SECONDARY COMMENTATOR" = "अनुभुूतिस्वरुपाचार्यः"
-"TERTIARY COMMENTATOR" = "आनन्दगिर्याचार्यः"
-"SERIAL NO." = "Ebharati-7219"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0NDQwNDc4Njk5Mjk2&pageno=MjI0MjQyNjk5NTk="
 title = "माण्डूक्योपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "माण्डूक्योपनिषत्"
+pages = "156"
+language = "संस्कृतम्"
+"primary commentator" = "शङ्कराचार्यः"
+"secondary commentator" = "अनुभुूतिस्वरुपाचार्यः"
+"tertiary commentator" = "आनन्दगिर्याचार्यः"
+"serial no." = "Ebharati-7219"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0NDQwNDc4Njk5Mjk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[माण्डूक्योपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODE0NDQwNDc4Njk5Mjk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4233,19 +4232,6 @@ title = "माण्डूक्योपनिषत्"
 इति श्रीमत्परमहंसपरिव्राजकाचार्यश्रीशुद्धानन्दपूज्यपादशिष्यभगवदानन्दज्ञानविरचितायां
 गौडपादीयभाष्यटीकायामलातशान्त्याख्यं चतुर्थप्रकरणम्
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

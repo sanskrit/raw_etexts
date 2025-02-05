@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीमार्कण्डेयपुराणम्"
-PUBLISHER = "एशियाटिक्-सोसैटि-आफ्-बेंगाल"
-"PUBLISH YEAR" = "1855"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "660"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "के.एम्.बनर्जी"
-PRINTER = "बिशप-कोलेज्-प्रेस्"
-"SERIAL NO." = "Ebharati-6847"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjgyNzU2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमार्कण्डेयपुराणम्"
+publisher = "एशियाटिक्-सोसैटि-आफ्-बेंगाल"
+"publish year" = "1855"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "660"
+language = "संस्कृतम्"
+editor = "के.एम्.बनर्जी"
+printer = "बिशप-कोलेज्-प्रेस्"
+"serial no." = "Ebharati-6847"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjgyNzU2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमार्कण्डेयपुराणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjgyNzU2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -23301,8 +23300,5 @@ title = "श्रीमार्कण्डेयपुराणम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

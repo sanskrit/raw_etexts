@@ -1,13 +1,12 @@
 +++
-TITLE = "योगदीपिका"
-AUTHOR = "नारायणपण्डिताचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3865"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDMwMTY5Njc0NTIwMTcz"
 title = "योगदीपिका"
+author = "नारायणपण्डिताचार्यः"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3865"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDMwMTY5Njc0NTIwMTcz"
 
 +++
 [[योगदीपिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDMwMTY5Njc0NTIwMTcz)]]

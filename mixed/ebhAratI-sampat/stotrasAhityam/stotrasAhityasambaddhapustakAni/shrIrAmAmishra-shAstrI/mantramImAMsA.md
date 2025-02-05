@@ -1,15 +1,14 @@
 +++
-TITLE = "मन्त्रमीमांसा"
-AUTHOR = "श्रीरामामिश्र-शास्त्री"
-PUBLISHER = "मथुराप्रसाद-मिश्रः"
-"PUBLISH YEAR" = "1886"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "57"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-7090"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg5MTc3ODUzMzE2MDg2&pageno=MjI0MjQyNjk5NTk="
 title = "मन्त्रमीमांसा"
+author = "श्रीरामामिश्र-शास्त्री"
+publisher = "मथुराप्रसाद-मिश्रः"
+"publish year" = "1886"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "57"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-7090"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg5MTc3ODUzMzE2MDg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मन्त्रमीमांसा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDg5MTc3ODUzMzE2MDg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -386,19 +385,6 @@ Brahmamritavarshini Sabha
 
  इति श्रीकाशीस्यब्रह्मामृतवर्षिणीसभासंपादकेन परमपूरुषकृपासरित्पूरपरीवाहपूर्णपात्रेण पण्डितवरश्रीराममिश्रशास्त्रिणा प्रणीता परमपुरुषार्पिता मन्त्रमीमांसा संवत् १९४३॥ आषाढकृष्णसप्तमीबृहस्पति।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

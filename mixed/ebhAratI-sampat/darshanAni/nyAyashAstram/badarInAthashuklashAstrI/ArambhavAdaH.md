@@ -1,16 +1,15 @@
 +++
-TITLE = "आरम्भवादः"
-AUTHOR = "बदरीनाथशुक्लशास्त्री"
-PUBLISHER = "बदरीनाथशुक्लशास्त्री"
-"PUBLISH YEAR" = "वै. २००८"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-PAGES = "89"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "अच्युत-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1679"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NjIwMTk2NzcxMTYx&pageno=MjI0MjQyNjk5NTk="
 title = "आरम्भवादः"
+author = "बदरीनाथशुक्लशास्त्री"
+publisher = "बदरीनाथशुक्लशास्त्री"
+"publish year" = "वै. २००८"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+pages = "89"
+language = "संस्कृतम्"
+printer = "अच्युत-मुद्रणालयः"
+"serial no." = "Ebharati-1679"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NjIwMTk2NzcxMTYx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आरम्भवादः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NjIwMTk2NzcxMTYx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -733,8 +732,5 @@ title = "आरम्भवादः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

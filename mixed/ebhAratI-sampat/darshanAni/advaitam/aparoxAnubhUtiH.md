@@ -1,12 +1,11 @@
 +++
-TITLE = "अपरोक्षानुभूतिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "16"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2123"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA5MTY2MjIwMDA4MzAy&pageno=MjI0MjQyNjk5NTk="
 title = "अपरोक्षानुभूतिः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "16"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2123"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA5MTY2MjIwMDA4MzAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अपरोक्षानुभूतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjA5MTY2MjIwMDA4MzAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -570,8 +569,5 @@ title = "अपरोक्षानुभूतिः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

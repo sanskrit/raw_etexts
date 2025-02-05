@@ -1,12 +1,11 @@
 +++
-TITLE = "विष्वक्सेनसंहिता - विमर्शनात्मकमध्ययनम्"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "आगमसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम् द्राविडभाषा"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4162"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYzMDY5MDYzNjM1OTkz&pageno=MjI0MjQyNjk5NTk="
 title = "विष्वक्सेनसंहिता - विमर्शनात्मकमध्ययनम्"
+domain = "आगमः"
+sub-domain = "आगमसम्बद्धपुस्तकानि"
+language = "संस्कृतम् द्राविडभाषा"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4162"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYzMDY5MDYzNjM1OTkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विष्वक्सेनसंहिता - विमर्शनात्मकमध्ययनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDYzMDY5MDYzNjM1OTkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11502,19 +11501,6 @@ INDEX-
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

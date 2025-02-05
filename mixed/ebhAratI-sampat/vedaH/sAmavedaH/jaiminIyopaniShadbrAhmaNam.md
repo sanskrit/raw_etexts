@@ -1,12 +1,11 @@
 +++
-TITLE = "जैमिनीयोपनिषद्ब्राह्मणम्"
-DOMAIN = "वेदः"
-SUB-DOMAIN = "सामवेदः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4367"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDc4NjU2MDk1NTEyOTE0"
 title = "जैमिनीयोपनिषद्ब्राह्मणम्"
+domain = "वेदः"
+sub-domain = "सामवेदः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4367"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDc4NjU2MDk1NTEyOTE0"
 
 +++
 [[जैमिनीयोपनिषद्ब्राह्मणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDc4NjU2MDk1NTEyOTE0)]]

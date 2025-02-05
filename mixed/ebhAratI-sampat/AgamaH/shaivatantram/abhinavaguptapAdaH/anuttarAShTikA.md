@@ -1,13 +1,12 @@
 +++
-TITLE = "अनुत्तराष्टिका"
-AUTHOR = "अभिनवगुप्तपादः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3952"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ3MTUwMDUxNzczOTcz&pageno=MjI0MjQyNjk5NTk="
 title = "अनुत्तराष्टिका"
+author = "अभिनवगुप्तपादः"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3952"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ3MTUwMDUxNzczOTcz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अनुत्तराष्टिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQ3MTUwMDUxNzczOTcz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -74,8 +73,5 @@ title = "अनुत्तराष्टिका"
 
 गन्धर्व-नगरम् । द्सो सन्स्क्रितर्छिवे
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

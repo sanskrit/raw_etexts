@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीमन्महाभारतम् (शल्य-सौप्तिक-स्त्री पर्वाणि)"
-PUBLISHER = "वि. रामस्वामि शास्त्रुलु एण्ड् सन्स्"
-"PUBLISH YEAR" = "1935"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "महाभारतम्"
-PAGES = "752"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पि.पि.सुब्रह्मण्यशास्त्री"
-PRINTER = "वाविळ्ळ मुद्रणालयम् चेन्नपुरी"
-"SERIAL NO." = "Ebharati-6110"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI0ODkxMTQwNzM1Njg1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमन्महाभारतम् (शल्य-सौप्तिक-स्त्री पर्वाणि)"
+publisher = "वि. रामस्वामि शास्त्रुलु एण्ड् सन्स्"
+"publish year" = "1935"
+domain = "इतिहासः"
+sub-domain = "महाभारतम्"
+pages = "752"
+language = "संस्कृतम्"
+editor = "पि.पि.सुब्रह्मण्यशास्त्री"
+printer = "वाविळ्ळ मुद्रणालयम् चेन्नपुरी"
+"serial no." = "Ebharati-6110"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI0ODkxMTQwNzM1Njg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमन्महाभारतम् (शल्य-सौप्तिक-स्त्री पर्वाणि)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDI0ODkxMTQwNzM1Njg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -22259,8 +22258,5 @@ NOTE.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

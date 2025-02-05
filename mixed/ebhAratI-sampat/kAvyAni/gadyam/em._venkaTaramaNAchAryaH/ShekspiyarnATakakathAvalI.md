@@ -1,15 +1,14 @@
 +++
-TITLE = "षेक्स्पियर्नाटककथावली"
-AUTHOR = "एम्. वेङ्कटरमणाचार्यः"
-PUBLISHER = "वि. रामस्वामिशास्त्रि-एण्ड-सन्स्"
-"PUBLISH YEAR" = "1933"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "गद्यम्"
-PAGES = "441"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-5365"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMwNDk1MDQ4OTEwNTE1&pageno=MjI0MjQyNjk5NTk="
 title = "षेक्स्पियर्नाटककथावली"
+author = "एम्. वेङ्कटरमणाचार्यः"
+publisher = "वि. रामस्वामिशास्त्रि-एण्ड-सन्स्"
+"publish year" = "1933"
+domain = "काव्यानि"
+sub-domain = "गद्यम्"
+pages = "441"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-5365"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMwNDk1MDQ4OTEwNTE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[षेक्स्पियर्नाटककथावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDMwNDk1MDQ4OTEwNTE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2922,19 +2921,6 @@ Dramatis Personæ.
 
 **AT THE ‘VAVILLA PRESS,’MADRAS. - 1933.**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,10 +1,9 @@
 +++
-TITLE = "ज्ञानामृतसारसंहिता अथवा नारदपाञ्चरात्रम्"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "आगमसम्बद्धपुस्तकानि"
-"SERIAL NO." = "Ebharati-436"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYzNDU4MTQ="
 title = "ज्ञानामृतसारसंहिता अथवा नारदपाञ्चरात्रम्"
+domain = "आगमः"
+sub-domain = "आगमसम्बद्धपुस्तकानि"
+"serial no." = "Ebharati-436"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYzNDU4MTQ="
 
 +++
 [[ज्ञानामृतसारसंहिता अथवा नारदपाञ्चरात्रम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYzNDU4MTQ=)]]

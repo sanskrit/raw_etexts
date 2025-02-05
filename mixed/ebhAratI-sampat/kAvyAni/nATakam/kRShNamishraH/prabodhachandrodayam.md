@@ -1,19 +1,18 @@
 +++
-TITLE = "प्रबोधचन्द्रोदयम्"
-AUTHOR = "कृष्णमिश्रः"
-PUBLISHER = "तुकारामजावजी"
-"PUBLISH YEAR" = "1916"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "260"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वासुदेवशर्मा"
-"PRIMARY COMMENTATOR" = "शेखरः रामदासदीक्षितः"
-"COMMENTARY NAME" = "चन्द्रिका प्रकाशः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5529"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMyMTUzNDIyMzY3MDM1&pageno=MjI0MjQyNjk5NTk="
 title = "प्रबोधचन्द्रोदयम्"
+author = "कृष्णमिश्रः"
+publisher = "तुकारामजावजी"
+"publish year" = "1916"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "260"
+language = "संस्कृतम्"
+editor = "वासुदेवशर्मा"
+"primary commentator" = "शेखरः रामदासदीक्षितः"
+"commentary name" = "चन्द्रिका प्रकाशः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-5529"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMyMTUzNDIyMzY3MDM1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रबोधचन्द्रोदयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODMyMTUzNDIyMzY3MDM1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5017,19 +5016,6 @@ Printer:—Ramchandra Yesu Shedge, Nirnaya-sagar Press
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

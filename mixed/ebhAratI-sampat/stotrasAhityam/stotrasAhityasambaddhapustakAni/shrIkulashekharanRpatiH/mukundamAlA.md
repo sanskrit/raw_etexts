@@ -1,13 +1,12 @@
 +++
-TITLE = "मुकुन्दमाला"
-AUTHOR = "श्रीकुलशेखरनृपतिः"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2988"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5NjUzMjc3NjM4Njgy&pageno=MjI0MjQyNjk5NTk="
 title = "मुकुन्दमाला"
+author = "श्रीकुलशेखरनृपतिः"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2988"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5NjUzMjc3NjM4Njgy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मुकुन्दमाला	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM5NjUzMjc3NjM4Njgy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -142,19 +141,6 @@ title = "मुकुन्दमाला"
 राज्ञा कृता स्तुतिरियं कुलशेखरेण ॥ ३४ ॥
 
 इति श्रीकुलशेखरनृपतिविरचिता मुकुन्दमाला समाप्ता ।
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

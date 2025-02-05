@@ -1,19 +1,18 @@
 +++
-TITLE = "संस्कृतबीजकग्रन्थः"
-AUTHOR = "सुरहः"
-PUBLISHER = "मोतीदासजी-चेतनदासजी"
-"PUBLISH YEAR" = "1952"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "दर्शनसम्बद्धपुस्तकानि"
-PAGES = "920"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मोतीदासजी-चेतनदासजी-चैतन्य"
-"PRIMARY COMMENTATOR" = "हनुमद्दासः"
-"COMMENTARY NAME" = "स्वानुभूतिः"
-PRINTER = "कबीर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-8917"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc5Njc2Mzk0ODk5NTU4&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृतबीजकग्रन्थः"
+author = "सुरहः"
+publisher = "मोतीदासजी-चेतनदासजी"
+"publish year" = "1952"
+domain = "दर्शनानि"
+sub-domain = "दर्शनसम्बद्धपुस्तकानि"
+pages = "920"
+language = "संस्कृतम्"
+editor = "मोतीदासजी-चेतनदासजी-चैतन्य"
+"primary commentator" = "हनुमद्दासः"
+"commentary name" = "स्वानुभूतिः"
+printer = "कबीर-मुद्रणालयः"
+"serial no." = "Ebharati-8917"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc5Njc2Mzk0ODk5NTU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृतबीजकग्रन्थः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDc5Njc2Mzk0ODk5NTU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -16959,19 +16958,6 @@ title = "संस्कृतबीजकग्रन्थः"
 |      अलक       |     अलर्क      |        भ्रमन्त        |    भ्रमता    |
 |     चरणौ      |     वृषणौ      |          षदा          |     सदा      |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

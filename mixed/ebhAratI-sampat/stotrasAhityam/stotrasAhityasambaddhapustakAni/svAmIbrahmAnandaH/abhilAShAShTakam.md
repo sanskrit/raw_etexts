@@ -1,13 +1,12 @@
 +++
-TITLE = "अभिलाषाष्टकम्"
-AUTHOR = "स्वामीब्रह्मानन्दः"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2792"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIyMjQ4ODA1MTIwODYy&pageno=MjI0MjQyNjk5NTk="
 title = "अभिलाषाष्टकम्"
+author = "स्वामीब्रह्मानन्दः"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2792"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIyMjQ4ODA1MTIwODYy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अभिलाषाष्टकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDIyMjQ4ODA1MTIwODYy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -89,8 +88,5 @@ title = "अभिलाषाष्टकम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

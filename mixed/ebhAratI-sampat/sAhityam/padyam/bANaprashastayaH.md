@@ -1,12 +1,11 @@
 +++
-TITLE = "बाणप्रशस्तयः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3220"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ4ODk1MDA5NzAxOTAz&pageno=MjI0MjQyNjk5NTk="
 title = "बाणप्रशस्तयः"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3220"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ4ODk1MDA5NzAxOTAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बाणप्रशस्तयः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ4ODk1MDA5NzAxOTAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -99,8 +98,5 @@ title = "बाणप्रशस्तयः"
 प्रविष्ठेत्वन्तरं बाणे कण्ठे वागेव रुध्यते ॥ १८ ॥  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

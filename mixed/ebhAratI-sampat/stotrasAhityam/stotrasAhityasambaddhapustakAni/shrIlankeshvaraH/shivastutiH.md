@@ -1,13 +1,12 @@
 +++
-TITLE = "शिवस्तुतिः"
-AUTHOR = "श्रीलङ्केश्वरः"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2998"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUxMTg3NDM3Njk3Nzgy&pageno=MjI0MjQyNjk5NTk="
 title = "शिवस्तुतिः"
+author = "श्रीलङ्केश्वरः"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2998"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUxMTg3NDM3Njk3Nzgy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शिवस्तुतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjUxMTg3NDM3Njk3Nzgy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -70,19 +69,6 @@ title = "शिवस्तुतिः"
 त्तपस्विपरिषत्तुलाममलमल्लिकाभ प्रभो ॥ १० ॥
 
 इति श्रीलङ्केश्वरविरचिता शिवस्तुतिः समाप्ता ।  
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

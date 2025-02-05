@@ -1,16 +1,15 @@
 +++
-TITLE = "रागमंजरी"
-AUTHOR = "पुंडरीकविठ्ठलः"
-PUBLISHER = "भालचन्द्रसीतारामसुकथनकरः"
-"PUBLISH YEAR" = "१९१८"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "25"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "आर्यभूषण-मुद्रालयः"
-"SERIAL NO." = "Ebharati-4667"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc0MzgzMzY0NDEwODQ0&pageno=MjI0MjQyNjk5NTk="
 title = "रागमंजरी"
+author = "पुंडरीकविठ्ठलः"
+publisher = "भालचन्द्रसीतारामसुकथनकरः"
+"publish year" = "१९१८"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "25"
+language = "संस्कृतम्"
+printer = "आर्यभूषण-मुद्रालयः"
+"serial no." = "Ebharati-4667"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc0MzgzMzY0NDEwODQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रागमंजरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDc0MzgzMzY0NDEwODQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -909,8 +908,5 @@ at 2 Malabar Hill, Bombay.
 रागमंजरी समाप्ता।  
 ॥शुभं भवतु॥
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

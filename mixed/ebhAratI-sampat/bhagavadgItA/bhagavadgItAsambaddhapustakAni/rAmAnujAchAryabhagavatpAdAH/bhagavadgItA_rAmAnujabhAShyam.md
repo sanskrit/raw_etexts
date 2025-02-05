@@ -1,12 +1,11 @@
 +++
-TITLE = "भगवद्गीता रामानुजभाष्यम्"
-AUTHOR = "रामानुजाचार्यभगवत्पादाः"
-DOMAIN = "भगवद्गीता"
-SUB-DOMAIN = "भगवद्गीतासम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2650"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDAzODE0MjQwMDkzNDUy"
 title = "भगवद्गीता रामानुजभाष्यम्"
+author = "रामानुजाचार्यभगवत्पादाः"
+domain = "भगवद्गीता"
+sub-domain = "भगवद्गीतासम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2650"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDAzODE0MjQwMDkzNDUy"
 
 +++
 [[भगवद्गीता रामानुजभाष्यम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDAzODE0MjQwMDkzNDUy)]]

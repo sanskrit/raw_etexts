@@ -1,13 +1,12 @@
 +++
-TITLE = "श्रीमच्छन्दोग्योपनिषत्खण्डार्थः"
-AUTHOR = "श्रीराघवेन्द्रयतिः"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3243"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ1NDcxNDE4NTEzMTEz"
 title = "श्रीमच्छन्दोग्योपनिषत्खण्डार्थः"
+author = "श्रीराघवेन्द्रयतिः"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3243"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ1NDcxNDE4NTEzMTEz"
 
 +++
 [[श्रीमच्छन्दोग्योपनिषत्खण्डार्थः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ1NDcxNDE4NTEzMTEz)]]

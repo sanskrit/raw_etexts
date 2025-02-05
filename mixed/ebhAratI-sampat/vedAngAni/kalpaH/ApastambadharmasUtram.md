@@ -1,12 +1,11 @@
 +++
-TITLE = "आपस्तम्बधर्मसूत्रम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3030"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY2ODM1NDE2ODY4MDky&pageno=MjI0MjQyNjk5NTk="
 title = "आपस्तम्बधर्मसूत्रम्"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3030"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY2ODM1NDE2ODY4MDky&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आपस्तम्बधर्मसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDY2ODM1NDE2ODY4MDky&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5608,8 +5607,5 @@ Avaheran)
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

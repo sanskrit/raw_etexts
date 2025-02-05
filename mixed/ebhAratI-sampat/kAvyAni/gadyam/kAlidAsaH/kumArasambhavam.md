@@ -1,17 +1,16 @@
 +++
-TITLE = "कुमारसम्भवम्"
-AUTHOR = "कालिदासः"
-PUBLISHER = "जीवानन्दविद्यासागरभट्टाचार्यः"
-"PUBLISH YEAR" = "1887"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "गद्यम्"
-PAGES = "508"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "जीवानन्दविद्यासागरभट्टाचार्यः"
-PRINTER = "सरस्वती-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8343"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ3NjI1MDU2Njk4MDA4&pageno=MjI0MjQyNjk5NTk="
 title = "कुमारसम्भवम्"
+author = "कालिदासः"
+publisher = "जीवानन्दविद्यासागरभट्टाचार्यः"
+"publish year" = "1887"
+domain = "काव्यानि"
+sub-domain = "गद्यम्"
+pages = "508"
+language = "संस्कृतम्"
+editor = "जीवानन्दविद्यासागरभट्टाचार्यः"
+printer = "सरस्वती-यन्त्रालयः"
+"serial no." = "Ebharati-8343"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ3NjI1MDU2Njk4MDA4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कुमारसम्भवम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQ3NjI1MDU2Njk4MDA4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8175,8 +8174,5 @@ _(\*)——
 
 ![](../books_images/U-IMG-1724047171Screenshot_2024-08-19_112836-removebg-preview.png)
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

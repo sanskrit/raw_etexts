@@ -1,13 +1,12 @@
 +++
-TITLE = "तर्कभाषाप्रकाशः"
-AUTHOR = "गोवर्शनमिश्रः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4043"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxMjExODA4MjExODgz&pageno=MjI0MjQyNjk5NTk="
 title = "तर्कभाषाप्रकाशः"
+author = "गोवर्शनमिश्रः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4043"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxMjExODA4MjExODgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तर्कभाषाप्रकाशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQxMjExODA4MjExODgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -90,19 +89,6 @@ title = "तर्कभाषाप्रकाशः"
 
  
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

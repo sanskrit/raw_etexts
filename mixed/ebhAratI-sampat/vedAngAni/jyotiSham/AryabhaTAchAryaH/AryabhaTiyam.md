@@ -1,17 +1,16 @@
 +++
-TITLE = "आर्यभटियम्"
-AUTHOR = "आर्यभटाचार्यः"
-"PUBLISH YEAR" = "1874"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "126"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "परमादीश्वरः"
-"COMMENTARY NAME" = "भटदीपिका"
-PRINTER = "E.J. Brill Leiden"
-"SERIAL NO." = "Ebharati-7399"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODczMDg2NzkxNjcyMDE3&pageno=MjI0MjQyNjk5NTk="
 title = "आर्यभटियम्"
+author = "आर्यभटाचार्यः"
+"publish year" = "1874"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "126"
+language = "संस्कृतम्"
+"primary commentator" = "परमादीश्वरः"
+"commentary name" = "भटदीपिका"
+printer = "E.J. Brill Leiden"
+"serial no." = "Ebharati-7399"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODczMDg2NzkxNjcyMDE3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आर्यभटियम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODczMDg2NzkxNjcyMDE3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1771,8 +1770,5 @@ Such passages are marked by ( ). Another form of brackets indicates that the inc
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

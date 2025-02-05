@@ -1,13 +1,12 @@
 +++
-TITLE = "षट्पञ्चाशिका"
-AUTHOR = "पृथुयशः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "7"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-5082"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2ODg5MzA5MjU4Nzg0&pageno=MjI0MjQyNjk5NTk="
 title = "षट्पञ्चाशिका"
+author = "पृथुयशः"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "7"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-5082"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2ODg5MzA5MjU4Nzg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[षट्पञ्चाशिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDA2ODg5MzA5MjU4Nzg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -246,19 +245,6 @@ title = "षट्पञ्चाशिका"
 इति वराहमिहिरात्मजपृथुयशोविरचितायां षट्पञ्चाशिकायां  
 मिश्रकाध्यायः सप्तमः  
 **षट्पञ्चाशिका समाप्ता**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

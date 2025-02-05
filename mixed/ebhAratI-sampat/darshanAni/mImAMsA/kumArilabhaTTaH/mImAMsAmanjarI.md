@@ -1,12 +1,11 @@
 +++
-TITLE = "मीमांसामञ्जरी"
-AUTHOR = "कुमारिलभट्टः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2484"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODQyNjcxNjY2NDU0ODMy"
 title = "मीमांसामञ्जरी"
+author = "कुमारिलभट्टः"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2484"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODQyNjcxNjY2NDU0ODMy"
 
 +++
 [[मीमांसामञ्जरी	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODQyNjcxNjY2NDU0ODMy)]]

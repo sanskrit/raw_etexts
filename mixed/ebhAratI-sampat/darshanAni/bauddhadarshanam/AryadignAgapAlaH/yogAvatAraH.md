@@ -1,13 +1,12 @@
 +++
-TITLE = "योगावतारः"
-AUTHOR = "आर्यदिग्नागपालः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3848"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4OTM4MDQ1MzkzOTYz&pageno=MjI0MjQyNjk5NTk="
 title = "योगावतारः"
+author = "आर्यदिग्नागपालः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3848"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4OTM4MDQ1MzkzOTYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[योगावतारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjU4OTM4MDQ1MzkzOTYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -74,19 +73,6 @@ title = "योगावतारः"
 
 \\Z
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

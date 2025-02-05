@@ -1,18 +1,17 @@
 +++
-TITLE = "कामकलाविलासः"
-AUTHOR = "पुण्यानन्दः"
-PUBLISHER = "गणेश एण्ड को."
-"PUBLISH YEAR" = "1953"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "229"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "नटनानन्दः"
-"COMMENTARY NAME" = "चिद्वल्ल्या"
-PRINTER = "वसन्त-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8850"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA3NDM0NTQ3NjY1OTQ4&pageno=MjI0MjQyNjk5NTk="
 title = "कामकलाविलासः"
+author = "पुण्यानन्दः"
+publisher = "गणेश एण्ड को."
+"publish year" = "1953"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "229"
+language = "संस्कृतम्"
+"primary commentator" = "नटनानन्दः"
+"commentary name" = "चिद्वल्ल्या"
+printer = "वसन्त-यन्त्रालयः"
+"serial no." = "Ebharati-8850"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA3NDM0NTQ3NjY1OTQ4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कामकलाविलासः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA3NDM0NTQ3NjY1OTQ4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4865,19 +4864,6 @@ THIS is the end of the description by Puṇyānanda of the playful movements of 
 | शिवोऽयमिति                            | मुदाहृत०                              |
 | गुहा त्रीणि                           | मुपस्यमि०                             |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

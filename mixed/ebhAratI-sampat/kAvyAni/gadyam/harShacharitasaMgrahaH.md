@@ -1,13 +1,12 @@
 +++
-TITLE = "हर्षचरितसंग्रहः"
-"PUBLISH YEAR" = "1928"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "गद्यम्"
-PAGES = "101"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8064"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAwMTk4ODk2MzExNDc3&pageno=MjI0MjQyNjk5NTk="
 title = "हर्षचरितसंग्रहः"
+"publish year" = "1928"
+domain = "काव्यानि"
+sub-domain = "गद्यम्"
+pages = "101"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8064"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAwMTk4ODk2MzExNDc3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हर्षचरितसंग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODAwMTk4ODk2MzExNDc3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1468,8 +1467,5 @@ This follows Text order.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,21 +1,20 @@
 +++
-TITLE = "रसहृदयतन्त्रम्"
-AUTHOR = "गोविन्दभगवत्पादाः"
-PUBLISHER = "मोतीलाल-बनारसीदासः"
-"PUBLISH YEAR" = "१९२७"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "194"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "त्र्यम्बक-काले"
-"SECOND EDITOR" = "यादवशर्मा-आचार्यः"
-"PRIMARY COMMENTATOR" = "चतिर्भुजमिश्रः"
-"SECONDARY COMMENTATOR" = "जयदेव-विद्यालङ्कारः"
-"COMMENTARY NAME" = "मुग्धबोधिनी-व्याख्या टिप्पणी"
-PRINTER = "मुम्बई-संस्कृत-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-4690"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgxOTU5NjczMjIyMDU0&pageno=MjI0MjQyNjk5NTk="
 title = "रसहृदयतन्त्रम्"
+author = "गोविन्दभगवत्पादाः"
+publisher = "मोतीलाल-बनारसीदासः"
+"publish year" = "१९२७"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "194"
+language = "संस्कृतम्"
+editor = "त्र्यम्बक-काले"
+"second editor" = "यादवशर्मा-आचार्यः"
+"primary commentator" = "चतिर्भुजमिश्रः"
+"secondary commentator" = "जयदेव-विद्यालङ्कारः"
+"commentary name" = "मुग्धबोधिनी-व्याख्या टिप्पणी"
+printer = "मुम्बई-संस्कृत-मुद्रणालयः"
+"serial no." = "Ebharati-4690"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgxOTU5NjczMjIyMDU0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रसहृदयतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDgxOTU5NjczMjIyMDU0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3428,8 +3427,5 @@ title = "रसहृदयतन्त्रम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रृङ्गारतिलकम्"
-AUTHOR = "रुद्रभट्टः"
-PUBLISHER = "कील्"
-"PUBLISH YEAR" = "1886"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "141"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-EDITOR = "डि.आर्. फिशेल्"
-"SERIAL NO." = "Ebharati-5974"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIwOTIyMjU1MTg0Mzc1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रृङ्गारतिलकम्"
+author = "रुद्रभट्टः"
+publisher = "कील्"
+"publish year" = "1886"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "141"
+language = "संस्कृतम् आङ्ग्लम्"
+editor = "डि.आर्. फिशेल्"
+"serial no." = "Ebharati-5974"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIwOTIyMjU1MTg0Mzc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रृङ्गारतिलकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODIwOTIyMjU1MTg0Mzc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2759,19 +2758,6 @@ alphabet it is impossible to confound these ligatures; 2) by Raghuvaṁça 18, 3
 **Bonn:  
 Printed by CharlesGeorgi.**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

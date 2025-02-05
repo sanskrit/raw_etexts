@@ -1,19 +1,18 @@
 +++
-TITLE = "संकल्पसूर्योदयः (प्रथमभागः)"
-AUTHOR = "वेङ्कटनाथः"
-PUBLISHER = "अड्यारपुस्तकालयम्"
-"PUBLISH YEAR" = "1948"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "736"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वि. कृष्णमाचार्यः"
-"PRIMARY COMMENTATOR" = "अहोबलः नृसिंहराजः"
-"COMMENTARY NAME" = "प्रभाविलासः प्रभावली"
-PRINTER = "वसन्त-प्रेस्"
-"SERIAL NO." = "Ebharati-5553"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzOTYxNDMxNzYwMzM1&pageno=MjI0MjQyNjk5NTk="
 title = "संकल्पसूर्योदयः (प्रथमभागः)"
+author = "वेङ्कटनाथः"
+publisher = "अड्यारपुस्तकालयम्"
+"publish year" = "1948"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "736"
+language = "संस्कृतम्"
+editor = "वि. कृष्णमाचार्यः"
+"primary commentator" = "अहोबलः नृसिंहराजः"
+"commentary name" = "प्रभाविलासः प्रभावली"
+printer = "वसन्त-प्रेस्"
+"serial no." = "Ebharati-5553"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzOTYxNDMxNzYwMzM1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संकल्पसूर्योदयः (प्रथमभागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjYzOTYxNDMxNzYwMzM1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -14515,19 +14514,6 @@ THE ADYAR LIBRARY
 प्रभावल्यां दम्भाद्युपालम्भो नाम पञ्चमोऽङ्कः।  
 -----------------------**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

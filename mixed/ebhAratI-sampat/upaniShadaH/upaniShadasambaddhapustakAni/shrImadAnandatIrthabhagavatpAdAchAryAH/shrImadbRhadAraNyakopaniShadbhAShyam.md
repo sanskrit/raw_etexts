@@ -1,13 +1,12 @@
 +++
-TITLE = "श्रीमद्बृहदारण्यकोपनिषद्भाष्यम्"
-AUTHOR = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3238"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjM0MjY5MjM4NTM4MDEz"
 title = "श्रीमद्बृहदारण्यकोपनिषद्भाष्यम्"
+author = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3238"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjM0MjY5MjM4NTM4MDEz"
 
 +++
 [[श्रीमद्बृहदारण्यकोपनिषद्भाष्यम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjM0MjY5MjM4NTM4MDEz)]]

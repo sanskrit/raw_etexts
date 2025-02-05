@@ -1,13 +1,12 @@
 +++
-TITLE = "संस्कृतप्रथमपुस्तकम्"
-AUTHOR = "रामविहारीलालः"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "323"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"SERIAL NO." = "Ebharati-7017"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcxNTcwMzM2NTA2Mzc2&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृतप्रथमपुस्तकम्"
+author = "रामविहारीलालः"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "323"
+language = "संस्कृतम् हिन्दी"
+"serial no." = "Ebharati-7017"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcxNTcwMzM2NTA2Mzc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृतप्रथमपुस्तकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDcxNTcwMzM2NTA2Mzc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5029,19 +5028,6 @@ RAM BEHARI LAL, Professor of Sanskrit, D.A.V. College, Cawnpore.
 **पं० रामविहारीलाल चान्दापुरी**   
 **द्वारा अवध सीड स्टोर्स लखनऊ।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

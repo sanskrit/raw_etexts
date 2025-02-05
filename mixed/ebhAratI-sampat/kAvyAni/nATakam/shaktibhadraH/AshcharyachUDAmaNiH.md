@@ -1,17 +1,16 @@
 +++
-TITLE = "आश्चर्यचूडामणिः"
-AUTHOR = "शक्तिभद्रः"
-PUBLISHER = "लालतुलसीरामजैन्"
-"PUBLISH YEAR" = "1932"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "261"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "विजयानन्दशास्त्री"
-PRINTER = "मनोहर-इलेक्ट्रिक्-प्रेस्"
-"SERIAL NO." = "Ebharati-5389"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxMjE0MDU3MzIzNzE1&pageno=MjI0MjQyNjk5NTk="
 title = "आश्चर्यचूडामणिः"
+author = "शक्तिभद्रः"
+publisher = "लालतुलसीरामजैन्"
+"publish year" = "1932"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "261"
+language = "संस्कृतम्"
+editor = "विजयानन्दशास्त्री"
+printer = "मनोहर-इलेक्ट्रिक्-प्रेस्"
+"serial no." = "Ebharati-5389"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxMjE0MDU3MzIzNzE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आश्चर्यचूडामणिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODUxMjE0MDU3MzIzNzE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6649,8 +6648,5 @@ title = "आश्चर्यचूडामणिः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

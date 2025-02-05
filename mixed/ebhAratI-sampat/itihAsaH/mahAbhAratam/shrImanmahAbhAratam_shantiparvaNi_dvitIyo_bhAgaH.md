@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीमन्महाभारतम् (शन्तिपर्वणि द्वितीयो भागः)"
-PUBLISHER = "वि. रामस्वामि शास्त्रुलु एण्ड् सन्स्"
-"PUBLISH YEAR" = "1936"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "महाभारतम्"
-PAGES = "867"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पि.पि.सुब्रह्मण्यशास्त्री"
-PRINTER = "वाविळ्ळ मुद्रणालयम् चेन्नपुरी"
-"SERIAL NO." = "Ebharati-6114"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAxODYxNjIwMTI5Njg1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमन्महाभारतम् (शन्तिपर्वणि द्वितीयो भागः)"
+publisher = "वि. रामस्वामि शास्त्रुलु एण्ड् सन्स्"
+"publish year" = "1936"
+domain = "इतिहासः"
+sub-domain = "महाभारतम्"
+pages = "867"
+language = "संस्कृतम्"
+editor = "पि.पि.सुब्रह्मण्यशास्त्री"
+printer = "वाविळ्ळ मुद्रणालयम् चेन्नपुरी"
+"serial no." = "Ebharati-6114"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAxODYxNjIwMTI5Njg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमन्महाभारतम् (शन्तिपर्वणि द्वितीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODAxODYxNjIwMTI5Njg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -24918,8 +24917,5 @@ at the Vavilla Press, Madras—1936.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

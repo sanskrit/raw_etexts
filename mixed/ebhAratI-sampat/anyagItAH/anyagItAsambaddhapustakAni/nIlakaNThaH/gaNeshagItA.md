@@ -1,16 +1,15 @@
 +++
-TITLE = "गणेशगीता"
-AUTHOR = "नीलकण्ठः"
-PUBLISHER = "हरिनारायणआपटे"
-"PUBLISH YEAR" = "1906"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-PAGES = "208"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "आनन्दाश्रम-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6671"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYxNzkxMzM5MDkzMDQ2&pageno=MjI0MjQyNjk5NTk="
 title = "गणेशगीता"
+author = "नीलकण्ठः"
+publisher = "हरिनारायणआपटे"
+"publish year" = "1906"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+pages = "208"
+language = "संस्कृतम्"
+printer = "आनन्दाश्रम-मुद्रणालयः"
+"serial no." = "Ebharati-6671"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYxNzkxMzM5MDkzMDQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गणेशगीता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjYxNzkxMzM5MDkzMDQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4375,19 +4374,6 @@ title = "गणेशगीता"
 
 **![](../books_images/U-IMG-1722957615Screenshot2024-08-06204934.336.png)**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

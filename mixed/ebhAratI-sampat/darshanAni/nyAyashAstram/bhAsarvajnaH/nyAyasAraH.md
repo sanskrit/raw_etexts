@@ -1,14 +1,13 @@
 +++
-TITLE = "न्यायसारः"
-AUTHOR = "भासर्वज्ञः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "सतीश्चन्द्रविद्याभूषणः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4034"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQzMDM5MTQ4ODQyNzgz&pageno=MjI0MjQyNjk5NTk="
 title = "न्यायसारः"
+author = "भासर्वज्ञः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+editor = "सतीश्चन्द्रविद्याभूषणः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4034"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQzMDM5MTQ4ODQyNzgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[न्यायसारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQzMDM5MTQ4ODQyNzgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -269,19 +268,6 @@ title = "न्यायसारः"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

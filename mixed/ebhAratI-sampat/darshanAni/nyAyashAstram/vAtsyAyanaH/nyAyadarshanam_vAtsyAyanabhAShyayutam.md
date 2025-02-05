@@ -1,13 +1,12 @@
 +++
-TITLE = "न्यायदर्शनम् वात्स्यायनभाष्ययुतम्"
-AUTHOR = "वात्स्यायनः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4063"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg1MDY5MjM3MjMwMDkz"
 title = "न्यायदर्शनम् वात्स्यायनभाष्ययुतम्"
+author = "वात्स्यायनः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4063"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg1MDY5MjM3MjMwMDkz"
 
 +++
 [[न्यायदर्शनम् वात्स्यायनभाष्ययुतम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=Njg1MDY5MjM3MjMwMDkz)]]

@@ -1,11 +1,10 @@
 +++
-TITLE = "मलयमारूतः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2983"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI4NDQxMTk3NjUzNjgy"
 title = "मलयमारूतः"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2983"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI4NDQxMTk3NjUzNjgy"
 
 +++
 [[मलयमारूतः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjI4NDQxMTk3NjUzNjgy)]]

@@ -1,13 +1,12 @@
 +++
-TITLE = "परिभाषेन्दुशेखरः"
-AUTHOR = "नागोजीभट्टः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3516"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU3NTUzODg3MjI1NzMz"
 title = "परिभाषेन्दुशेखरः"
+author = "नागोजीभट्टः"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3516"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU3NTUzODg3MjI1NzMz"
 
 +++
 [[परिभाषेन्दुशेखरः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjU3NTUzODg3MjI1NzMz)]]

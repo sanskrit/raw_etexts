@@ -1,17 +1,16 @@
 +++
-TITLE = "पातञ्जलदर्शनम्"
-"PUBLISH YEAR" = "1967"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगदर्शनम्"
-PAGES = "481"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "श्रीजीवानन्दविद्यासागरभट्टाचार्य्यः"
-"PRIMARY COMMENTATOR" = "वेदव्यासःविज्ञानभिक्षुः"
-"COMMENTARY NAME" = "योगवार्तिकव्यख्या"
-PRINTER = "सिद्धेश्वरयन्त्रे-मुद्रितम्"
-"SERIAL NO." = "Ebharati-8883"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2NDM0MTI2NDM3MjU4&pageno=MjI0MjQyNjk5NTk="
 title = "पातञ्जलदर्शनम्"
+"publish year" = "1967"
+domain = "दर्शनानि"
+sub-domain = "योगदर्शनम्"
+pages = "481"
+language = "संस्कृतम्"
+editor = "श्रीजीवानन्दविद्यासागरभट्टाचार्य्यः"
+"primary commentator" = "वेदव्यासःविज्ञानभिक्षुः"
+"commentary name" = "योगवार्तिकव्यख्या"
+printer = "सिद्धेश्वरयन्त्रे-मुद्रितम्"
+"serial no." = "Ebharati-8883"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2NDM0MTI2NDM3MjU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पातञ्जलदर्शनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjI2NDM0MTI2NDM3MjU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4307,19 +4306,6 @@ title = "पातञ्जलदर्शनम्"
 
 समाप्तंचेदं दर्शनम्।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

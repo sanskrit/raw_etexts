@@ -1,18 +1,17 @@
 +++
-TITLE = "वैद्यविनोदसंहिता"
-AUTHOR = "शङ्करशर्मा"
-PUBLISHER = "क्षेमराज-श्रीकृष्णदास-श्रेष्ठी"
-"PUBLISH YEAR" = "१९१३"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "243"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "गदाधरत्रिपाठी"
-"COMMENTARY NAME" = "भाषाटिप्पणी"
-PRINTER = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-4697"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMxNjU2MDUzNDk4MDU0&pageno=MjI0MjQyNjk5NTk="
 title = "वैद्यविनोदसंहिता"
+author = "शङ्करशर्मा"
+publisher = "क्षेमराज-श्रीकृष्णदास-श्रेष्ठी"
+"publish year" = "१९१३"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "243"
+language = "संस्कृतम्"
+"primary commentator" = "गदाधरत्रिपाठी"
+"commentary name" = "भाषाटिप्पणी"
+printer = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-4697"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMxNjU2MDUzNDk4MDU0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वैद्यविनोदसंहिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDMxNjU2MDUzNDk4MDU0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2369,19 +2368,6 @@ title = "वैद्यविनोदसंहिता"
 
 ![](../../../books_images/U-IMG-1708173072image23.jpg)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

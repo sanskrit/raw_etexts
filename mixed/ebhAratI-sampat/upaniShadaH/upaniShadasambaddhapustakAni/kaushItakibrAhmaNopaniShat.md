@@ -1,12 +1,11 @@
 +++
-TITLE = "कौशीतकिब्राह्मणोपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4288"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjM1NTA1Nzg4MTM2MTE0"
 title = "कौशीतकिब्राह्मणोपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4288"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjM1NTA1Nzg4MTM2MTE0"
 
 +++
 [[कौशीतकिब्राह्मणोपनिषत्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjM1NTA1Nzg4MTM2MTE0)]]

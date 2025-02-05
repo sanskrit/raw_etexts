@@ -1,16 +1,15 @@
 +++
-TITLE = "संस्कृतसाहित्यविमर्शः"
-AUTHOR = "द्विजेन्द्रनाथशास्त्री"
-PUBLISHER = "भारती प्रतिष्ठान"
-"PUBLISH YEAR" = "1939"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "साहित्येतिहासः"
-PAGES = "760"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "न्यू इण्डिया प्रेस्मु नई दिल्ली"
-"SERIAL NO." = "Ebharati-8619"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEyNTM0MzE2MTkzNzI4&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृतसाहित्यविमर्शः"
+author = "द्विजेन्द्रनाथशास्त्री"
+publisher = "भारती प्रतिष्ठान"
+"publish year" = "1939"
+domain = "साहित्यम्"
+sub-domain = "साहित्येतिहासः"
+pages = "760"
+language = "संस्कृतम्"
+printer = "न्यू इण्डिया प्रेस्मु नई दिल्ली"
+"serial no." = "Ebharati-8619"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEyNTM0MzE2MTkzNzI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृतसाहित्यविमर्शः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODEyNTM0MzE2MTkzNzI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -17200,19 +17199,6 @@ X       X       X
 
 **समाप्तश्चायं ग्रन्थः।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

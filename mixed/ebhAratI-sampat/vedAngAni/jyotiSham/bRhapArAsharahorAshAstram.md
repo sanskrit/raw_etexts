@@ -1,11 +1,10 @@
 +++
-TITLE = "बृहपाराशरहोराशास्त्रम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2637"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDE4NjYyMTkwMjQxMzUy"
 title = "बृहपाराशरहोराशास्त्रम्"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2637"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDE4NjYyMTkwMjQxMzUy"
 
 +++
 [[बृहपाराशरहोराशास्त्रम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDE4NjYyMTkwMjQxMzUy)]]

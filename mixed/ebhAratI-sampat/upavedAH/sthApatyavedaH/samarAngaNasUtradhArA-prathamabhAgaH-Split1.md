@@ -1,11 +1,10 @@
 +++
-TITLE = "समराङ्गणसूत्रधारा-प्रथमभागः-Split1"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "स्थापत्यवेदः"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4787"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDExNDc0MjEwNDM1OTU0&pageno=MjI0MjQyNjk5NTk="
 title = "समराङ्गणसूत्रधारा-प्रथमभागः-Split1"
+domain = "उपवेदाः"
+sub-domain = "स्थापत्यवेदः"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4787"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDExNDc0MjEwNDM1OTU0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[समराङ्गणसूत्रधारा-प्रथमभागः-Split1	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDExNDc0MjEwNDM1OTU0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -17792,8 +17791,5 @@ No. 79-ARTHASASTRA of Kautalya with the commentary SriMula of
 
 ⇔⇔⇔⇔⇔⇔⇔⇔⇔⇔⇔⇔
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

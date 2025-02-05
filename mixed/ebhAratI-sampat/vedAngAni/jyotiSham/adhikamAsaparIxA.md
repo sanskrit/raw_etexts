@@ -1,16 +1,15 @@
 +++
-TITLE = "अधि(क)मासपरीक्षा"
-PUBLISHER = "क्षेमराज श्रीकृष्णदास इत्यनेन स्वकीये “श्रीवेङ्कटेश्वर” (स्टीम् ) मुद्रायन्त्रालयः"
-"PUBLISH YEAR" = "1823"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "54"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "श्रीमाधवशास्त्रिणा"
-PRINTER = "क्षेमराज श्रीकृष्णदास इत्यनेन स्वकीये “श्रीवेङ्कटेश्वर” (स्टीम् ) मुद्रायन्त्रालयः"
-"SERIAL NO." = "Ebharati-4948"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwNDA1NzA0OTg5NDc0&pageno=MjI0MjQyNjk5NTk="
 title = "अधि(क)मासपरीक्षा"
+publisher = "क्षेमराज श्रीकृष्णदास इत्यनेन स्वकीये “श्रीवेङ्कटेश्वर” (स्टीम् ) मुद्रायन्त्रालयः"
+"publish year" = "1823"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "54"
+language = "संस्कृतम्"
+editor = "श्रीमाधवशास्त्रिणा"
+printer = "क्षेमराज श्रीकृष्णदास इत्यनेन स्वकीये “श्रीवेङ्कटेश्वर” (स्टीम् ) मुद्रायन्त्रालयः"
+"serial no." = "Ebharati-4948"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwNDA1NzA0OTg5NDc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अधि(क)मासपरीक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjUwNDA1NzA0OTg5NDc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -994,8 +993,5 @@ $\\frac{०}{१},\\frac{१}{२},\\frac{१}{३},\\frac{३}{८},\\frac{७}
 
 **![](../books_images/1680264612.jpg)**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

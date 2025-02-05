@@ -1,15 +1,14 @@
 +++
-TITLE = "भक्त्तकुसुमाञ्जलिः"
-"PUBLISH YEAR" = "1938"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "244"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "वि.कृष्णाचार्यः"
-EDITOR = "पु.सुब्रह्मण्यशास्त्री"
-"SERIAL NO." = "Ebharati-7056"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM2OTI1Njg0OTQzNzc2&pageno=MjI0MjQyNjk5NTk="
 title = "भक्त्तकुसुमाञ्जलिः"
+"publish year" = "1938"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "244"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "वि.कृष्णाचार्यः"
+editor = "पु.सुब्रह्मण्यशास्त्री"
+"serial no." = "Ebharati-7056"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM2OTI1Njg0OTQzNzc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भक्त्तकुसुमाञ्जलिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjM2OTI1Njg0OTQzNzc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2961,8 +2960,5 @@ Bangalore.\]*
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

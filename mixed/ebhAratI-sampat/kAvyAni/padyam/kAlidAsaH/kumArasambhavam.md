@@ -1,19 +1,18 @@
 +++
-TITLE = "कुमारसम्भवम्"
-AUTHOR = "कालिदासः"
-PUBLISHER = "पाण्डुरङ्ग-जावजी"
-"PUBLISH YEAR" = "1927"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "338"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वासुदेव-लक्ष्मण-शर्मा-पणशीकरः"
-"PRIMARY COMMENTATOR" = "मल्लिनाथः"
-"COMMENTARY NAME" = "सञ्जिवनी"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8686"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0Nzc2MTYzMzI4MzM4&pageno=MjI0MjQyNjk5NTk="
 title = "कुमारसम्भवम्"
+author = "कालिदासः"
+publisher = "पाण्डुरङ्ग-जावजी"
+"publish year" = "1927"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "338"
+language = "संस्कृतम्"
+editor = "वासुदेव-लक्ष्मण-शर्मा-पणशीकरः"
+"primary commentator" = "मल्लिनाथः"
+"commentary name" = "सञ्जिवनी"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-8686"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0Nzc2MTYzMzI4MzM4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कुमारसम्भवम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0Nzc2MTYzMzI4MzM4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -14856,8 +14855,5 @@ PRINTER:– Ramchandra Yesu Shedge.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

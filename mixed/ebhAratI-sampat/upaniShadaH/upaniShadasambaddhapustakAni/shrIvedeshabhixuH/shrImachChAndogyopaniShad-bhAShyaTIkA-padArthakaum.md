@@ -1,13 +1,12 @@
 +++
-TITLE = "श्रीमच्छान्दोग्योपनिषद्-भाष्यटीका-पदार्थकौमुदी"
-AUTHOR = "श्रीवेदेशभिक्षुः"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3242"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDIxMjM5NzE4OTEyMTEz"
 title = "श्रीमच्छान्दोग्योपनिषद्-भाष्यटीका-पदार्थकौमुदी"
+author = "श्रीवेदेशभिक्षुः"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3242"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDIxMjM5NzE4OTEyMTEz"
 
 +++
 [[श्रीमच्छान्दोग्योपनिषद्-भाष्यटीका-पदार्थकौमुदी	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDIxMjM5NzE4OTEyMTEz)]]

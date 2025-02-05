@@ -1,17 +1,16 @@
 +++
-TITLE = "चिद्गगनचन्द्रिका"
-AUTHOR = "कालिदासः"
-PUBLISHER = "आगमानुसन्धानसमितितः"
-"PUBLISH YEAR" = "1937"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "128"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "त्रिविक्रमतीर्थस्वामी"
-PRINTER = "महाराष्ट्र-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6024"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIxMDUzNDYzMTgyODc1&pageno=MjI0MjQyNjk5NTk="
 title = "चिद्गगनचन्द्रिका"
+author = "कालिदासः"
+publisher = "आगमानुसन्धानसमितितः"
+"publish year" = "1937"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "128"
+language = "संस्कृतम्"
+editor = "त्रिविक्रमतीर्थस्वामी"
+printer = "महाराष्ट्र-मुद्रणालयः"
+"serial no." = "Ebharati-6024"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIxMDUzNDYzMTgyODc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चिद्गगनचन्द्रिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODIxMDUzNDYzMTgyODc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3138,8 +3137,5 @@ ARNOLD AVALON.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

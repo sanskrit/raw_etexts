@@ -1,17 +1,16 @@
 +++
-TITLE = "विधानमाला"
-AUTHOR = "नरसिंहभट्टः"
-PUBLISHER = "विनायक-गणेश-आपटे"
-"PUBLISH YEAR" = "1920"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "434"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शङ्करशास्त्री"
-PRINTER = "आनन्दाश्रम-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6472"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgxNTU5MDg2NzgyMTI2&pageno=MjI0MjQyNjk5NTk="
 title = "विधानमाला"
+author = "नरसिंहभट्टः"
+publisher = "विनायक-गणेश-आपटे"
+"publish year" = "1920"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "434"
+language = "संस्कृतम्"
+editor = "शङ्करशास्त्री"
+printer = "आनन्दाश्रम-मुद्रणालयः"
+"serial no." = "Ebharati-6472"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgxNTU5MDg2NzgyMTI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विधानमाला	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDgxNTU5MDg2NzgyMTI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -19106,19 +19105,6 @@ title = "विधानमाला"
 
 **≈≈≈≈≈≈≈≈≈≈≈≈≈**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

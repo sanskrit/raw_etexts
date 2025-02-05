@@ -1,12 +1,11 @@
 +++
-TITLE = "मणिदर्पणः (शब्दपरिच्छेदः)"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-PAGES = "135"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-1768"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkwMjA2NjUzMTI3OTYx&pageno=MjI0MjQyNjk5NTk="
 title = "मणिदर्पणः (शब्दपरिच्छेदः)"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+pages = "135"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-1768"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkwMjA2NjUzMTI3OTYx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मणिदर्पणः (शब्दपरिच्छेदः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjkwMjA2NjUzMTI3OTYx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -817,8 +816,5 @@ NI3
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

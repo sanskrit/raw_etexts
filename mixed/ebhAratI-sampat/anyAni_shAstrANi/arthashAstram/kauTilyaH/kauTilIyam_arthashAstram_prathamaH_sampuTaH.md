@@ -1,19 +1,18 @@
 +++
-TITLE = "कौटिलीयम् अर्थशास्त्रम् (प्रथमः सम्पुटः)"
-AUTHOR = "कौटिल्यः"
-PUBLISHER = "भारतीयविद्याप्रकाशनम्"
-"PUBLISH YEAR" = "१९९०"
-DOMAIN = "अन्यानि शास्त्राणि"
-SUB-DOMAIN = "अर्थशास्त्रम्"
-PAGES = "463"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "T गणपतिशास्त्री"
-"PRIMARY COMMENTATOR" = "T गणपतिशास्त्री"
-"COMMENTARY NAME" = "श्रीमूलव्याख्या"
-PRINTER = "जैन-अमर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-3376"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2NjE0NDEzMzgwNDIz&pageno=MjI0MjQyNjk5NTk="
 title = "कौटिलीयम् अर्थशास्त्रम् (प्रथमः सम्पुटः)"
+author = "कौटिल्यः"
+publisher = "भारतीयविद्याप्रकाशनम्"
+"publish year" = "१९९०"
+domain = "अन्यानि शास्त्राणि"
+sub-domain = "अर्थशास्त्रम्"
+pages = "463"
+language = "संस्कृतम्"
+editor = "T गणपतिशास्त्री"
+"primary commentator" = "T गणपतिशास्त्री"
+"commentary name" = "श्रीमूलव्याख्या"
+printer = "जैन-अमर-मुद्रणालयः"
+"serial no." = "Ebharati-3376"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2NjE0NDEzMzgwNDIz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कौटिलीयम् अर्थशास्त्रम् (प्रथमः सम्पुटः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2NjE0NDEzMzgwNDIz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8433,8 +8432,5 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 शुभं भूयात् ।**  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

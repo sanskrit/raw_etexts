@@ -1,11 +1,10 @@
 +++
-TITLE = "नागानन्दम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2903"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjYwMTU3MTkwNzc2ODcy"
 title = "नागानन्दम्"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2903"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjYwMTU3MTkwNzc2ODcy"
 
 +++
 [[नागानन्दम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjYwMTU3MTkwNzc2ODcy)]]

@@ -1,13 +1,12 @@
 +++
-TITLE = "फलदीपिका (मूलमात्रम् )"
-AUTHOR = "मन्त्रेश्वरः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "98"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-1259"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU4MDIx&pageno=MjI0MjQyNjk5NTk="
 title = "फलदीपिका (मूलमात्रम् )"
+author = "मन्त्रेश्वरः"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "98"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-1259"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU4MDIx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[फलदीपिका (मूलमात्रम् )	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU4MDIx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5969,19 +5968,6 @@ title = "फलदीपिका (मूलमात्रम् )"
 
 ----------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,12 +1,11 @@
 +++
-TITLE = "सुमध्वविजयः"
-AUTHOR = "श्रीनारायणपण्डिताचार्याः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3170"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ3Nzc0ODgwODAzNDAz"
 title = "सुमध्वविजयः"
+author = "श्रीनारायणपण्डिताचार्याः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3170"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ3Nzc0ODgwODAzNDAz"
 
 +++
 [[सुमध्वविजयः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ3Nzc0ODgwODAzNDAz)]]

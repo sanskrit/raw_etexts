@@ -1,16 +1,15 @@
 +++
-TITLE = "भाषापरिच्छेदः (सिद्धान्तमुक्तावलीसहितः)"
-AUTHOR = "विश्वनाथपञ्चाननभट्टः"
-PUBLISHER = "जीवानन्दविद्यासागरभट्टाचार्यः"
-"PUBLISH YEAR" = "१९०२"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "जीवानन्दविद्यासागरभट्टाचार्यः"
-PRINTER = "सिद्धेश्वर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-1705"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE1OTIzMzk1Mzc2MzYx&pageno=MjI0MjQyNjk5NTk="
 title = "भाषापरिच्छेदः (सिद्धान्तमुक्तावलीसहितः)"
+author = "विश्वनाथपञ्चाननभट्टः"
+publisher = "जीवानन्दविद्यासागरभट्टाचार्यः"
+"publish year" = "१९०२"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+editor = "जीवानन्दविद्यासागरभट्टाचार्यः"
+printer = "सिद्धेश्वर-यन्त्रालयः"
+"serial no." = "Ebharati-1705"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE1OTIzMzk1Mzc2MzYx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भाषापरिच्छेदः (सिद्धान्तमुक्तावलीसहितः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE1OTIzMzk1Mzc2MzYx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1558,19 +1557,6 @@ N
 
 ----------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

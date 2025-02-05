@@ -1,18 +1,17 @@
 +++
-TITLE = "काव्यादर्शः"
-AUTHOR = "दण्डी"
-PUBLISHER = "लालातुलसिराम-जैन्"
-"PUBLISH YEAR" = "1933"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "साहित्येतिहासः"
-PAGES = "383"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "नृसिंहदेवशास्त्री"
-"COMMENTARY NAME" = "सौभाग्यवती"
-PRINTER = "मनोहर-इलेक्ट्रिक्-प्रेस्-लाहोर्"
-"SERIAL NO." = "Ebharati-5935"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc1NDc3ODk2NzM3OTY1&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यादर्शः"
+author = "दण्डी"
+publisher = "लालातुलसिराम-जैन्"
+"publish year" = "1933"
+domain = "साहित्यम्"
+sub-domain = "साहित्येतिहासः"
+pages = "383"
+language = "संस्कृतम्"
+"primary commentator" = "नृसिंहदेवशास्त्री"
+"commentary name" = "सौभाग्यवती"
+printer = "मनोहर-इलेक्ट्रिक्-प्रेस्-लाहोर्"
+"serial no." = "Ebharati-5935"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc1NDc3ODk2NzM3OTY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यादर्शः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc1NDc3ODk2NzM3OTY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11187,19 +11186,6 @@ x   x   x x   x x   x   x  x  x **
 | **समानरूपा गौणार्था**     |   **३**   |  **१००**  | **क्षिणोतु कामं**            |  **२**   |  **१७८**  |
 | **संख्याता नाम संख्यानं** |   **३**   |  **१०१**  | **क्षितिविजिति**             |  **३**   |  **८५**   |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

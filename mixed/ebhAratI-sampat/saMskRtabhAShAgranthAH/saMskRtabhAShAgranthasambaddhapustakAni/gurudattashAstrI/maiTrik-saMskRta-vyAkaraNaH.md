@@ -1,16 +1,15 @@
 +++
-TITLE = "मैट्रिक्-संस्कृत-व्याकरणः"
-AUTHOR = "गुरुदत्तशास्त्री"
-PUBLISHER = "अतरचन्दकपूरः"
-"PUBLISH YEAR" = "1933"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "196"
-LANGUAGE = "संस्कृतम् आङ्ग्लम् हिन्दी"
-PRINTER = "कपूर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7013"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NTAxODQ2MTIyMzc2&pageno=MjI0MjQyNjk5NTk="
 title = "मैट्रिक्-संस्कृत-व्याकरणः"
+author = "गुरुदत्तशास्त्री"
+publisher = "अतरचन्दकपूरः"
+"publish year" = "1933"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "196"
+language = "संस्कृतम् आङ्ग्लम् हिन्दी"
+printer = "कपूर-यन्त्रालयः"
+"serial no." = "Ebharati-7013"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NTAxODQ2MTIyMzc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मैट्रिक्-संस्कृत-व्याकरणः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NTAxODQ2MTIyMzc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6827,19 +6826,6 @@ title = "मैट्रिक्-संस्कृत-व्याकरणः
 
 ![](../books_images/U-IMG-1735307352Screenshot_2024-12-27_19-18-57.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

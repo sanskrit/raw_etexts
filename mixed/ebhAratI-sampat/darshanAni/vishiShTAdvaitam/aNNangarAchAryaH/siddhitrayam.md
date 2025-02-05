@@ -1,13 +1,12 @@
 +++
-TITLE = "सिद्धित्रयम्"
-AUTHOR = "अण्णङ्गराचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "विशिष्टाद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4214"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODAzNjY1NTYxODI1NDA0"
 title = "सिद्धित्रयम्"
+author = "अण्णङ्गराचार्यः"
+domain = "दर्शनानि"
+sub-domain = "विशिष्टाद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4214"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODAzNjY1NTYxODI1NDA0"
 
 +++
 [[सिद्धित्रयम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODAzNjY1NTYxODI1NDA0)]]

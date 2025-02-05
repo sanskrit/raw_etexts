@@ -1,12 +1,11 @@
 +++
-TITLE = "रससङ्केतकलिका"
-AUTHOR = "सिद्धनित्यनाथः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2572"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgzOTA1NTMzMjA5NjQy"
 title = "रससङ्केतकलिका"
+author = "सिद्धनित्यनाथः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2572"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgzOTA1NTMzMjA5NjQy"
 
 +++
 [[रससङ्केतकलिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDgzOTA1NTMzMjA5NjQy)]]

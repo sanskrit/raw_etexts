@@ -1,16 +1,15 @@
 +++
-TITLE = "सूर्यसिद्धान्तः"
-AUTHOR = "रङ्गनाथः"
-PUBLISHER = "Department Of Jyotish Rashtriya Sanskrit Sansthan (Deemed University) Lucknow Campus Lucknow."
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "200"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "प्रो. सर्वनारयण-झा"
-"COMMENTARY NAME" = "गूढार्थप्रकाशिका"
-"SERIAL NO." = "Ebharati-4996"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEzMDQxNzIyNzk1OTc0&pageno=MjI0MjQyNjk5NTk="
 title = "सूर्यसिद्धान्तः"
+author = "रङ्गनाथः"
+publisher = "Department Of Jyotish Rashtriya Sanskrit Sansthan (Deemed University) Lucknow Campus Lucknow."
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "200"
+language = "संस्कृतम्"
+editor = "प्रो. सर्वनारयण-झा"
+"commentary name" = "गूढार्थप्रकाशिका"
+"serial no." = "Ebharati-4996"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEzMDQxNzIyNzk1OTc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सूर्यसिद्धान्तः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjEzMDQxNzIyNzk1OTc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -15063,19 +15062,6 @@ Lucknow Campus, Lucknow
 
 ----------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

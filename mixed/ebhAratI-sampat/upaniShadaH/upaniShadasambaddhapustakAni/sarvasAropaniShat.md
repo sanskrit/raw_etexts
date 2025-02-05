@@ -1,12 +1,11 @@
 +++
-TITLE = "सर्वसारोपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4327"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk5OTU5MDQ3NTczNTE0&pageno=MjI0MjQyNjk5NTk="
 title = "सर्वसारोपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4327"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk5OTU5MDQ3NTczNTE0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सर्वसारोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk5OTU5MDQ3NTczNTE0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -207,8 +206,5 @@ title = "सर्वसारोपनिषत्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

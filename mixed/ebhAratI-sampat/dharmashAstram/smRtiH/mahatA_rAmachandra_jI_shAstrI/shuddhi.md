@@ -1,16 +1,15 @@
 +++
-TITLE = "शुद्धि"
-AUTHOR = "महता रामचन्द्र जी शास्त्री"
-PUBLISHER = "श्रीमती आर्य्य प्रादेशिक प्रतिनिधी सभा लाहौर"
-"PUBLISH YEAR" = "1909"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "176"
-LANGUAGE = "संस्कृतम्-हिन्दी"
-PRINTER = "दूनीचन्द बाम्बे मैशीन प्रैस लाहौर"
-"SERIAL NO." = "Ebharati-5113"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MzA1Nzg3ODI4MDk0&pageno=MjI0MjQyNjk5NTk="
 title = "शुद्धि"
+author = "महता रामचन्द्र जी शास्त्री"
+publisher = "श्रीमती आर्य्य प्रादेशिक प्रतिनिधी सभा लाहौर"
+"publish year" = "1909"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "176"
+language = "संस्कृतम्-हिन्दी"
+printer = "दूनीचन्द बाम्बे मैशीन प्रैस लाहौर"
+"serial no." = "Ebharati-5113"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MzA1Nzg3ODI4MDk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शुद्धि	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MzA1Nzg3ODI4MDk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3344,19 +3343,6 @@ title = "शुद्धि"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

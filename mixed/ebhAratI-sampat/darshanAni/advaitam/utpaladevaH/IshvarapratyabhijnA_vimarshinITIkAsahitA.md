@@ -1,13 +1,12 @@
 +++
-TITLE = "ईश्वरप्रत्यभिज्ञा विमर्शिनीटीकासहिता"
-AUTHOR = "उत्पलदेवः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3853"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY5MTUwMjI1Mzc4OTYz"
 title = "ईश्वरप्रत्यभिज्ञा विमर्शिनीटीकासहिता"
+author = "उत्पलदेवः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3853"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY5MTUwMjI1Mzc4OTYz"
 
 +++
 [[ईश्वरप्रत्यभिज्ञा विमर्शिनीटीकासहिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjY5MTUwMjI1Mzc4OTYz)]]

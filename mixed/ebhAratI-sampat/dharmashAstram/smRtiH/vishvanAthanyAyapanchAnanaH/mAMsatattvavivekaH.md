@@ -1,16 +1,15 @@
 +++
-TITLE = "मांसतत्त्वविवेकः"
-AUTHOR = "विश्वनाथन्यायपञ्चाननः"
-"PUBLISH YEAR" = "1927"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "51"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "जगन्नाथशास्त्री"
-PRINTER = "विद्याविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5186"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0MDAyMzE1NjM4Nzk0&pageno=MjI0MjQyNjk5NTk="
 title = "मांसतत्त्वविवेकः"
+author = "विश्वनाथन्यायपञ्चाननः"
+"publish year" = "1927"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "51"
+language = "संस्कृतम्"
+editor = "जगन्नाथशास्त्री"
+printer = "विद्याविलास-मुद्रणालयः"
+"serial no." = "Ebharati-5186"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0MDAyMzE1NjM4Nzk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मांसतत्त्वविवेकः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0MDAyMzE1NjM4Nzk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -649,19 +648,6 @@ March 17, 1927.
 
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

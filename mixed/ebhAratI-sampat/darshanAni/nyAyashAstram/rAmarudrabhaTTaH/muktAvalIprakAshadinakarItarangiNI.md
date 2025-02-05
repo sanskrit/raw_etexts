@@ -1,13 +1,12 @@
 +++
-TITLE = "मुक्तावलीप्रकाशदिनकरीतरङ्गिणी"
-AUTHOR = "रामरुद्रभट्टः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4081"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjgxNDIzNTY2MDY3MTkz"
 title = "मुक्तावलीप्रकाशदिनकरीतरङ्गिणी"
+author = "रामरुद्रभट्टः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4081"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjgxNDIzNTY2MDY3MTkz"
 
 +++
 [[मुक्तावलीप्रकाशदिनकरीतरङ्गिणी	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjgxNDIzNTY2MDY3MTkz)]]

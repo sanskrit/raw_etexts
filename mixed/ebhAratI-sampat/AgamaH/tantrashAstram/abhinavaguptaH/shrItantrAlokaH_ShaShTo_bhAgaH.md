@@ -1,18 +1,17 @@
 +++
-TITLE = "श्रीतन्त्रालोकः (षष्टो भागः)"
-AUTHOR = "अभिनवगुप्तः"
-PUBLISHER = "इण्डियन्-प्रेस्"
-"PUBLISH YEAR" = "1921"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "278"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मधुसूदनकौलशास्त्री"
-"PRIMARY COMMENTATOR" = "राजानक-जयरथः"
-PRINTER = "इण्डियन्-प्रेस्"
-"SERIAL NO." = "Ebharati-7897"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM1NjA0NjIzMjgwODU3&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीतन्त्रालोकः (षष्टो भागः)"
+author = "अभिनवगुप्तः"
+publisher = "इण्डियन्-प्रेस्"
+"publish year" = "1921"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "278"
+language = "संस्कृतम्"
+editor = "मधुसूदनकौलशास्त्री"
+"primary commentator" = "राजानक-जयरथः"
+printer = "इण्डियन्-प्रेस्"
+"serial no." = "Ebharati-7897"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM1NjA0NjIzMjgwODU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीतन्त्रालोकः (षष्टो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDM1NjA0NjIzMjgwODU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5488,8 +5487,5 @@ Published by the Research Department, JAMMU & KASHMIR, STATE, Srinagar.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

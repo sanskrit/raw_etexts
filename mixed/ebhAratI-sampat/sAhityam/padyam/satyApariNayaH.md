@@ -1,11 +1,10 @@
 +++
-TITLE = "सत्यापरिणयः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3093"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQyMTE4NzczNjE5Njky"
 title = "सत्यापरिणयः"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3093"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQyMTE4NzczNjE5Njky"
 
 +++
 [[सत्यापरिणयः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjQyMTE4NzczNjE5Njky)]]

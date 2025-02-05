@@ -1,15 +1,14 @@
 +++
-TITLE = "पाणिनीयप्रबोधः (उत्तरार्द्धः)"
-AUTHOR = "श्रीगोपालशास्त्री"
-PUBLISHER = "शास्त्रिमण्डलम्"
-"PUBLISH YEAR" = "1951"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-PAGES = "104"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8869"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MDQwNDc2MDkzMTU4&pageno=MjI0MjQyNjk5NTk="
 title = "पाणिनीयप्रबोधः (उत्तरार्द्धः)"
+author = "श्रीगोपालशास्त्री"
+publisher = "शास्त्रिमण्डलम्"
+"publish year" = "1951"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+pages = "104"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8869"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MDQwNDc2MDkzMTU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पाणिनीयप्रबोधः (उत्तरार्द्धः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MDQwNDc2MDkzMTU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -796,19 +795,6 @@ title = "पाणिनीयप्रबोधः (उत्तरार्द
 **स्वग्रन्थे भारतेसन्ति यदयोऽन्ये मनीषिणः।**  
 **सारभ्यं मेसमीहन्ते संस्कृत्याऽध्यापनेऽधुना॥**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

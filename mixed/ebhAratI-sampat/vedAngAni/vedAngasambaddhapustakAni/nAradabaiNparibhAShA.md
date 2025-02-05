@@ -1,12 +1,11 @@
 +++
-TITLE = "नारदबैण्परिभाषा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "वेदाङ्गसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3567"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcyOTE3Njk1ODE0MjQz&pageno=MjI0MjQyNjk5NTk="
 title = "नारदबैण्परिभाषा"
+domain = "वेदाङ्गानि"
+sub-domain = "वेदाङ्गसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3567"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcyOTE3Njk1ODE0MjQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नारदबैण्परिभाषा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDcyOTE3Njk1ODE0MjQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -88,19 +87,6 @@ Naradabaith_Vyakhya
 
               इति सप्तमकाण्डं समाप्तम्  
               श्रीभक्तवत्सलपरब्रह्मणे नमः
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

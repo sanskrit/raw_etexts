@@ -1,10 +1,9 @@
 +++
-TITLE = "पारमेश्वरसंहिता"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "आगमसम्बद्धपुस्तकानि"
-"SERIAL NO." = "Ebharati-443"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMzNjI1MjQ="
 title = "पारमेश्वरसंहिता"
+domain = "आगमः"
+sub-domain = "आगमसम्बद्धपुस्तकानि"
+"serial no." = "Ebharati-443"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMzNjI1MjQ="
 
 +++
 [[पारमेश्वरसंहिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMzNjI1MjQ=)]]

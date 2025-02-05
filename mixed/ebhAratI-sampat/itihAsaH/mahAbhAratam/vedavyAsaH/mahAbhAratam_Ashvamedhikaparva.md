@@ -1,17 +1,16 @@
 +++
-TITLE = "महाभारतम् (आश्वमेधिकपर्व)"
-AUTHOR = "वेदव्यासः"
-PUBLISHER = "श्रीपाददामोदरसातवळेकरः"
-"PUBLISH YEAR" = "1932"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "महाभारतम्"
-PAGES = "674"
-LANGUAGE = "संस्कृतम् हिन्दी"
-EDITOR = "श्रीपाददामोदरसातवळेकरः"
-PRINTER = "भारत-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6092"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4NDM4ODAxOTA4NDg1&pageno=MjI0MjQyNjk5NTk="
 title = "महाभारतम् (आश्वमेधिकपर्व)"
+author = "वेदव्यासः"
+publisher = "श्रीपाददामोदरसातवळेकरः"
+"publish year" = "1932"
+domain = "इतिहासः"
+sub-domain = "महाभारतम्"
+pages = "674"
+language = "संस्कृतम् हिन्दी"
+editor = "श्रीपाददामोदरसातवळेकरः"
+printer = "भारत-मुद्रणालयः"
+"serial no." = "Ebharati-6092"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4NDM4ODAxOTA4NDg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[महाभारतम् (आश्वमेधिकपर्व)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDI4NDM4ODAxOTA4NDg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -22732,8 +22731,5 @@ I
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

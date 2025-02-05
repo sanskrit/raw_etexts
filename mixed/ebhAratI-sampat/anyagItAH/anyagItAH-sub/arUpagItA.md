@@ -1,11 +1,10 @@
 +++
-TITLE = "अरूपगीता"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीताः-sub"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3119"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODEyNDExMDgyMjE0OTky"
 title = "अरूपगीता"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीताः-sub"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3119"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODEyNDExMDgyMjE0OTky"
 
 +++
 [[अरूपगीता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODEyNDExMDgyMjE0OTky)]]

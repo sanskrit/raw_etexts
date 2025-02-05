@@ -1,14 +1,13 @@
 +++
-TITLE = "समराङ्गणसूत्रधारः Vol-2 Split-1"
-AUTHOR = "भोजदेवः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "स्थापत्यवेदः"
-PAGES = "49"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "T. GANAPATI SASTRI"
-"SERIAL NO." = "Ebharati-4812"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY2NDM1ODE5MzM5MTY0&pageno=MjI0MjQyNjk5NTk="
 title = "समराङ्गणसूत्रधारः Vol-2 Split-1"
+author = "भोजदेवः"
+domain = "उपवेदाः"
+sub-domain = "स्थापत्यवेदः"
+pages = "49"
+language = "संस्कृतम्"
+editor = "T. GANAPATI SASTRI"
+"serial no." = "Ebharati-4812"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY2NDM1ODE5MzM5MTY0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[समराङ्गणसूत्रधारः Vol-2 Split-1	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDY2NDM1ODE5MzM5MTY0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -18036,19 +18035,6 @@ I. *Nyavapravesa*, the earliest work on Buddhist logic, by Dinnaga, with comment
 9. *Mirat-i-Ahmadi* with its Khatimae or supplement, by Ali Maham mad Khan, the last Moghul Dewan of Gujarat, edited in the original Persian by Syed Nawabali. Professor of Persian Baroda College. 2vols.
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

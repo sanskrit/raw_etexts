@@ -1,20 +1,19 @@
 +++
-TITLE = "जातकालङ्कारः (संस्कृत-हिन्दीटीकाद्वयोपेतम्)"
-AUTHOR = "गणेशदैवज्ञः"
-PUBLISHER = "कैलासनाथभार्गवः"
-"PUBLISH YEAR" = "सं. १९९३"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "144"
-LANGUAGE = "संस्कृतम् हिन्दी"
-EDITOR = "गणेशदत्तः"
-"PRIMARY COMMENTATOR" = "हरभानुशुक्लः"
-"SECONDARY COMMENTATOR" = "गणेशदत्तः"
-"COMMENTARY NAME" = "संस्कृतटीका हिन्दी-भाषाटीका टिप्पणी"
-PRINTER = "भार्गवभूषण-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1219"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MjE1OTE0OTEwNzEx&pageno=MjI0MjQyNjk5NTk="
 title = "जातकालङ्कारः (संस्कृत-हिन्दीटीकाद्वयोपेतम्)"
+author = "गणेशदैवज्ञः"
+publisher = "कैलासनाथभार्गवः"
+"publish year" = "सं. १९९३"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "144"
+language = "संस्कृतम् हिन्दी"
+editor = "गणेशदत्तः"
+"primary commentator" = "हरभानुशुक्लः"
+"secondary commentator" = "गणेशदत्तः"
+"commentary name" = "संस्कृतटीका हिन्दी-भाषाटीका टिप्पणी"
+printer = "भार्गवभूषण-मुद्रणालयः"
+"serial no." = "Ebharati-1219"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MjE1OTE0OTEwNzEx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जातकालङ्कारः (संस्कृत-हिन्दीटीकाद्वयोपेतम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MjE1OTE0OTEwNzEx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1017,19 +1016,6 @@ Commuwaood
 
 ----------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

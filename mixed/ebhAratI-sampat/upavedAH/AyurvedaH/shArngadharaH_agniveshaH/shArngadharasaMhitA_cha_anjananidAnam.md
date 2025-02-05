@@ -1,17 +1,16 @@
 +++
-TITLE = "शार्ङ्गधरसंहिता च अञ्जननिदानम्"
-AUTHOR = "शार्ङ्गधरः अग्निवेशः"
-PUBLISHER = "तुकाराम-जावजी"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "340"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "कृष्णशास्त्री-नवरे"
-"SECOND EDITOR" = "केशवशर्मा-पिटकर्"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-3476"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc4ODU2ODM5Mjg2MzMz&pageno=MjI0MjQyNjk5NTk="
 title = "शार्ङ्गधरसंहिता च अञ्जननिदानम्"
+author = "शार्ङ्गधरः अग्निवेशः"
+publisher = "तुकाराम-जावजी"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "340"
+language = "संस्कृतम्"
+editor = "कृष्णशास्त्री-नवरे"
+"second editor" = "केशवशर्मा-पिटकर्"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-3476"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc4ODU2ODM5Mjg2MzMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शार्ङ्गधरसंहिता च अञ्जननिदानम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc4ODU2ODM5Mjg2MzMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -12846,19 +12845,6 @@ title = "शार्ङ्गधरसंहिता च अञ्जननि
 असाध्यं सहजं क्लैब्यं मर्मच्छेदात्तु यद्भवेत् ।
 
 साध्यानामितरेषां च कार्योवाजिक्रियाक्रमः ॥ २२२ ॥
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

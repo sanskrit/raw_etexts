@@ -1,18 +1,17 @@
 +++
-TITLE = "विवाहपद्धतिः"
-"PUBLISH YEAR" = "1886"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "149"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पंडित गुरुप्रसाद:"
-"BOOKS CONTRIBUTOR" = "मेहरचंद"
-"PRIMARY COMMENTATOR" = "निबाहूरामः"
-"COMMENTARY NAME" = "नित्यानुरागिणी"
-PRINTER = "निर्णयसागर मुद्रणयंत्रालय मुंबई."
-"SERIAL NO." = "Ebharati-5096"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE1MjgzMTU4NjkxOTg0&pageno=MjI0MjQyNjk5NTk="
 title = "विवाहपद्धतिः"
+"publish year" = "1886"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "149"
+language = "संस्कृतम्"
+editor = "पंडित गुरुप्रसाद:"
+"books contributor" = "मेहरचंद"
+"primary commentator" = "निबाहूरामः"
+"commentary name" = "नित्यानुरागिणी"
+printer = "निर्णयसागर मुद्रणयंत्रालय मुंबई."
+"serial no." = "Ebharati-5096"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE1MjgzMTU4NjkxOTg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विवाहपद्धतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE1MjgzMTU4NjkxOTg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -771,8 +770,5 @@ Charlestown, Massachusetts
 
 ****
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

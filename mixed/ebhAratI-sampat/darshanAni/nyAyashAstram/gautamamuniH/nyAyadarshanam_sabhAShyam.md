@@ -1,20 +1,19 @@
 +++
-TITLE = "न्यायदर्शनम् (सभाष्यम्)"
-AUTHOR = "गौतममुनिः"
-PUBLISHER = "चौखाम्बासंस्कृतसिरीज्"
-"PUBLISH YEAR" = "२०००"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-PAGES = "352"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "आशुबोधविद्याभूषणभट्टाचार्यः"
-"SECOND EDITOR" = "श्रीनित्य्बोधविद्यारत्नः"
-"PRIMARY COMMENTATOR" = "वात्स्यायनमुनिः"
-"COMMENTARY NAME" = "वात्स्यायनः"
-PRINTER = "फूल-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1802"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ0NDQ4ODIyNTg5Mjcx&pageno=MjI0MjQyNjk5NTk="
 title = "न्यायदर्शनम् (सभाष्यम्)"
+author = "गौतममुनिः"
+publisher = "चौखाम्बासंस्कृतसिरीज्"
+"publish year" = "२०००"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+pages = "352"
+language = "संस्कृतम्"
+editor = "आशुबोधविद्याभूषणभट्टाचार्यः"
+"second editor" = "श्रीनित्य्बोधविद्यारत्नः"
+"primary commentator" = "वात्स्यायनमुनिः"
+"commentary name" = "वात्स्यायनः"
+printer = "फूल-मुद्रणालयः"
+"serial no." = "Ebharati-1802"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ0NDQ4ODIyNTg5Mjcx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[न्यायदर्शनम् (सभाष्यम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQ0NDQ4ODIyNTg5Mjcx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3395,19 +3394,6 @@ Yम अध्यायः
 
 ----------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

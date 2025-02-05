@@ -1,13 +1,12 @@
 +++
-TITLE = "मुकुन्दमालास्तोत्रम्"
-AUTHOR = "कुलशेखरः"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4187"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5MDIwNzYyNjM5MTA0&pageno=MjI0MjQyNjk5NTk="
 title = "मुकुन्दमालास्तोत्रम्"
+author = "कुलशेखरः"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4187"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5MDIwNzYyNjM5MTA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मुकुन्दमालास्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDE5MDIwNzYyNjM5MTA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -284,19 +283,6 @@ title = "मुकुन्दमालास्तोत्रम्"
 
 **----------------------------------------------------------**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,15 +1,14 @@
 +++
-TITLE = "गायत्रीपुरश्चरणपद्धतिः"
-"PUBLISH YEAR" = "1914"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "आगमसम्बद्धपुस्तकानि"
-PAGES = "164"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रङ्गनाथशास्त्री"
-PRINTER = "आनन्दाश्रम-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-8441"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAxNDgyMjgyNDAzMDE4&pageno=MjI0MjQyNjk5NTk="
 title = "गायत्रीपुरश्चरणपद्धतिः"
+"publish year" = "1914"
+domain = "आगमः"
+sub-domain = "आगमसम्बद्धपुस्तकानि"
+pages = "164"
+language = "संस्कृतम्"
+editor = "रङ्गनाथशास्त्री"
+printer = "आनन्दाश्रम-मुद्रणालयः"
+"serial no." = "Ebharati-8441"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAxNDgyMjgyNDAzMDE4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गायत्रीपुरश्चरणपद्धतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjAxNDgyMjgyNDAzMDE4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4194,8 +4193,5 @@ title = "गायत्रीपुरश्चरणपद्धतिः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

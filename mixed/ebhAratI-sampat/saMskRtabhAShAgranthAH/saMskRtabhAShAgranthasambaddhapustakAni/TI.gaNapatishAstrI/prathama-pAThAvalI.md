@@ -1,16 +1,15 @@
 +++
-TITLE = "प्रथम-पाठावली"
-AUTHOR = "टी.गणपतिशास्त्री"
-PUBLISHER = "के.नारायणय्यङ्कारः"
-"PUBLISH YEAR" = "1907"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "237"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "भास्कर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7000"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAwNDU5Njk2Mzc5MTc2&pageno=MjI0MjQyNjk5NTk="
 title = "प्रथम-पाठावली"
+author = "टी.गणपतिशास्त्री"
+publisher = "के.नारायणय्यङ्कारः"
+"publish year" = "1907"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "237"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "भास्कर-मुद्रणालयः"
+"serial no." = "Ebharati-7000"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAwNDU5Njk2Mzc5MTc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रथम-पाठावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDAwNDU5Njk2Mzc5MTc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3635,8 +3634,5 @@ Lesson 40. Advice
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,12 +1,11 @@
 +++
-TITLE = "कठोपनिषद्भाष्यम्"
-AUTHOR = "शङ्करभगवत्पादाः"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2700"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA0OTM1NDU4OTgxOTUy"
 title = "कठोपनिषद्भाष्यम्"
+author = "शङ्करभगवत्पादाः"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2700"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA0OTM1NDU4OTgxOTUy"
 
 +++
 [[कठोपनिषद्भाष्यम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDA0OTM1NDU4OTgxOTUy)]]

@@ -1,13 +1,12 @@
 +++
-TITLE = "तर्कभाषा"
-AUTHOR = "भिक्षुमोक्षाकरगुप्तः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3819"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODE2OTA4OTQ2OTA2NjYz"
 title = "तर्कभाषा"
+author = "भिक्षुमोक्षाकरगुप्तः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3819"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODE2OTA4OTQ2OTA2NjYz"
 
 +++
 [[तर्कभाषा	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODE2OTA4OTQ2OTA2NjYz)]]

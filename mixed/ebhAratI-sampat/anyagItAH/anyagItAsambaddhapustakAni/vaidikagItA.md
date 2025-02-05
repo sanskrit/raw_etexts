@@ -1,15 +1,14 @@
 +++
-TITLE = "वैदिकगीता"
-PUBLISHER = "यतीन्द्रमोहनचट्टोपाध्यायः"
-"PUBLISH YEAR" = "1937"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-PAGES = "206"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "समर्थभारत-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6699"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NDg5NzI4ODcwMzQ2&pageno=MjI0MjQyNjk5NTk="
 title = "वैदिकगीता"
+publisher = "यतीन्द्रमोहनचट्टोपाध्यायः"
+"publish year" = "1937"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+pages = "206"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "समर्थभारत-यन्त्रालयः"
+"serial no." = "Ebharati-6699"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NDg5NzI4ODcwMzQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वैदिकगीता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NDg5NzI4ODcwMzQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5326,19 +5325,6 @@ Price– As. 10
 
 Price–As. 4
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

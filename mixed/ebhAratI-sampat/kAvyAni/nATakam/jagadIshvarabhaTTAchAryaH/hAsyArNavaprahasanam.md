@@ -1,16 +1,15 @@
 +++
-TITLE = "हास्यार्णवप्रहसनम्"
-AUTHOR = "जगदीश्वरभट्टाचार्यः"
-"PUBLISH YEAR" = "1896"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "108"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "वागीशभट्टाचार्यः"
-PRINTER = "कलिकता-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5420"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNzI5MzM2OTkyMDI1&pageno=MjI0MjQyNjk5NTk="
 title = "हास्यार्णवप्रहसनम्"
+author = "जगदीश्वरभट्टाचार्यः"
+"publish year" = "1896"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "108"
+language = "संस्कृतम्"
+"primary commentator" = "वागीशभट्टाचार्यः"
+printer = "कलिकता-यन्त्रालयः"
+"serial no." = "Ebharati-5420"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNzI5MzM2OTkyMDI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हास्यार्णवप्रहसनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNzI5MzM2OTkyMDI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2806,19 +2805,6 @@ No, 2. Ramanatha Majumdar's Street, Calcutta.
 इति श्रीश्रीनाथवेदान्तवागीशभट्टाचार्य्यविरचिता हास्यार्णवप्रहसनव्याख्या समाप्ता।  
 --------------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

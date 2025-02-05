@@ -1,18 +1,17 @@
 +++
-TITLE = "चारुदत्तम्"
-AUTHOR = "भासः"
-PUBLISHER = "एन्. जि. सरदेसाई"
-"PUBLISH YEAR" = "1939"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "130"
-LANGUAGE = "संस्कृतम्"
-TRANSLATOR = "सि. आर्. देवधरः"
-EDITOR = "सि. आर्. देवधरः"
-PRINTER = "समर्थभारत-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5405"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE5MDkyMDk2OTU4ODE1&pageno=MjI0MjQyNjk5NTk="
 title = "चारुदत्तम्"
+author = "भासः"
+publisher = "एन्. जि. सरदेसाई"
+"publish year" = "1939"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "130"
+language = "संस्कृतम्"
+translator = "सि. आर्. देवधरः"
+editor = "सि. आर्. देवधरः"
+printer = "समर्थभारत-मुद्रणालयः"
+"serial no." = "Ebharati-5405"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE5MDkyMDk2OTU4ODE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चारुदत्तम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE5MDkyMDk2OTU4ODE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3864,8 +3863,5 @@ to go to **वसन्तसेना** with the pearl-necklace no such message
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

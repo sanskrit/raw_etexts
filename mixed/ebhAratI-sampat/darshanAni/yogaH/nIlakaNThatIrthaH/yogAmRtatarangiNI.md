@@ -1,16 +1,15 @@
 +++
-TITLE = "योगामृततरङ्गिणी"
-AUTHOR = "नीलकण्ठतीर्थः"
-PUBLISHER = "मङ्गलानन्ददेवी"
-"PUBLISH YEAR" = "१९०४"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "76"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1620"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MzI3MjE5MzE1NTUx&pageno=MjI0MjQyNjk5NTk="
 title = "योगामृततरङ्गिणी"
+author = "नीलकण्ठतीर्थः"
+publisher = "मङ्गलानन्ददेवी"
+"publish year" = "१९०४"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "76"
+language = "संस्कृतम्"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-1620"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MzI3MjE5MzE1NTUx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[योगामृततरङ्गिणी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MzI3MjE5MzE1NTUx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -787,19 +786,6 @@ title = "योगामृततरङ्गिणी"
 
 # Please dont Edit this page (Blank Page)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,14 +1,13 @@
 +++
-TITLE = "स्तोत्राणि (प्रथमो भागः)"
-AUTHOR = "शङ्कराचार्यः"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "304"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीवाणिविलासमुद्रणालयम् श्रीरङ्गम्"
-"SERIAL NO." = "Ebharati-8597"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM5MTAxNjk2OTcyNTI4&pageno=MjI0MjQyNjk5NTk="
 title = "स्तोत्राणि (प्रथमो भागः)"
+author = "शङ्कराचार्यः"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "304"
+language = "संस्कृतम्"
+printer = "श्रीवाणिविलासमुद्रणालयम् श्रीरङ्गम्"
+"serial no." = "Ebharati-8597"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM5MTAxNjk2OTcyNTI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्तोत्राणि (प्रथमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDM5MTAxNjk2OTcyNTI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5533,8 +5532,5 @@ CONTENTS.
 
 ![](../books_images/U-IMG-1722848637ddddd.png)
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

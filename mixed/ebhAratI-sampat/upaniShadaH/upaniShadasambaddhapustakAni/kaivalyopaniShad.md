@@ -1,12 +1,11 @@
 +++
-TITLE = "कैवल्योपनिषद्\u200c"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4285"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDcyODc3ODk4MzQzMTE0"
 title = "कैवल्योपनिषद्\u200c"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4285"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDcyODc3ODk4MzQzMTE0"
 
 +++
 [[कैवल्योपनिषद्‌	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDcyODc3ODk4MzQzMTE0)]]

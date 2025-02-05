@@ -1,12 +1,11 @@
 +++
-TITLE = "अथर्वणोपनिषत् मूलम्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3244"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODY5NjE0MDE4MTE0MTEz"
 title = "अथर्वणोपनिषत् मूलम्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3244"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODY5NjE0MDE4MTE0MTEz"
 
 +++
 [[अथर्वणोपनिषत् मूलम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODY5NjE0MDE4MTE0MTEz)]]

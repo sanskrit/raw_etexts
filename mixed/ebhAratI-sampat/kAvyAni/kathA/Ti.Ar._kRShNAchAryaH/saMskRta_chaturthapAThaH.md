@@ -1,16 +1,15 @@
 +++
-TITLE = "संस्कृत चतुर्थपाठः"
-AUTHOR = "टि.आर्. कृष्णाचार्यः"
-PUBLISHER = "टि.के.वेङ्कोबाचार्यः"
-"PUBLISH YEAR" = "1931"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "151"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "हिन्दी प्रचार् प्रेस् मद्रास्"
-"SERIAL NO." = "Ebharati-5702"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQyMDkyNDc1MDczNzQ1&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृत चतुर्थपाठः"
+author = "टि.आर्. कृष्णाचार्यः"
+publisher = "टि.के.वेङ्कोबाचार्यः"
+"publish year" = "1931"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "151"
+language = "संस्कृतम्"
+printer = "हिन्दी प्रचार् प्रेस् मद्रास्"
+"serial no." = "Ebharati-5702"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQyMDkyNDc1MDczNzQ1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृत चतुर्थपाठः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQyMDkyNDc1MDczNzQ1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3145,8 +3144,5 @@ _(\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

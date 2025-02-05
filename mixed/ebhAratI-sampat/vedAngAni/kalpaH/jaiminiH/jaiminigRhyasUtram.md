@@ -1,13 +1,12 @@
 +++
-TITLE = "जैमिनिगृह्यसूत्रम्"
-AUTHOR = "जैमिनिः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3215"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM3NjgzOTE5NzI2ODAz&pageno=MjI0MjQyNjk5NTk="
 title = "जैमिनिगृह्यसूत्रम्"
+author = "जैमिनिः"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3215"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM3NjgzOTE5NzI2ODAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जैमिनिगृह्यसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDM3NjgzOTE5NzI2ODAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -148,19 +147,6 @@ Typescript: Entered by Thomas Zehnder
 Conversion to Devanagari using Vedapad Software by Ralph Bunker  
 Formatted for Maharishi University of Management Vedic Literature Collection
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

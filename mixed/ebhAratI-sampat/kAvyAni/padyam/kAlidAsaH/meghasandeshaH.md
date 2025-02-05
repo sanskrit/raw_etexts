@@ -1,19 +1,18 @@
 +++
-TITLE = "मेघसन्देशः"
-AUTHOR = "कालिदासः"
-PUBLISHER = "तिरुवनन्तपुरस्य महाराजः"
-"PUBLISH YEAR" = "1919"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "79"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "त. गणपतिशास्त्री"
-"PRIMARY COMMENTATOR" = "दक्षिणावर्तनाथः"
-"COMMENTARY NAME" = "प्रदीपा"
-PRINTER = "राजकीयमुद्रणयन्त्रालयम् तिरुवनन्तपुरम्"
-"SERIAL NO." = "Ebharati-7739"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU4MzAxMDI5NDE5MjQ3&pageno=MjI0MjQyNjk5NTk="
 title = "मेघसन्देशः"
+author = "कालिदासः"
+publisher = "तिरुवनन्तपुरस्य महाराजः"
+"publish year" = "1919"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "79"
+language = "संस्कृतम्"
+editor = "त. गणपतिशास्त्री"
+"primary commentator" = "दक्षिणावर्तनाथः"
+"commentary name" = "प्रदीपा"
+printer = "राजकीयमुद्रणयन्त्रालयम् तिरुवनन्तपुरम्"
+"serial no." = "Ebharati-7739"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU4MzAxMDI5NDE5MjQ3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मेघसन्देशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODU4MzAxMDI5NDE5MjQ3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1562,8 +1561,5 @@ Trivandrum,
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

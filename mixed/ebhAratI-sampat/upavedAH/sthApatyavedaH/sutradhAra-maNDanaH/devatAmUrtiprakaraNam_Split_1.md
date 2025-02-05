@@ -1,17 +1,16 @@
 +++
-TITLE = "देवतामूर्तिप्रकरणम् Split 1"
-AUTHOR = "सुत्रधार-मण्डनः"
-PUBLISHER = "Metropolitan printing and Publishing House Culcutta"
-"PUBLISH YEAR" = "1936"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "स्थापत्यवेदः"
-PAGES = "100"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "नरेन्द्र-चन्द्र-वेदान्ततीर्थः"
-PRINTER = "Metropolitan printing and Publishing House Culcutta"
-"SERIAL NO." = "Ebharati-4809"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkzNzA4OTI5NTQ2MTY0&pageno=MjI0MjQyNjk5NTk="
 title = "देवतामूर्तिप्रकरणम् Split 1"
+author = "सुत्रधार-मण्डनः"
+publisher = "Metropolitan printing and Publishing House Culcutta"
+"publish year" = "1936"
+domain = "उपवेदाः"
+sub-domain = "स्थापत्यवेदः"
+pages = "100"
+language = "संस्कृतम्"
+editor = "नरेन्द्र-चन्द्र-वेदान्ततीर्थः"
+printer = "Metropolitan printing and Publishing House Culcutta"
+"serial no." = "Ebharati-4809"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkzNzA4OTI5NTQ2MTY0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[देवतामूर्तिप्रकरणम् Split 1	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODkzNzA4OTI5NTQ2MTY0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10115,19 +10114,6 @@ ans: शान्तिनाथस्य श्यामः शूकरवा�
 इति श्रीक्षेत्रात्मज ( सूत्र ) भृन्मण्डनविरचिते वास्तुशास्त्र रूपावतारे जिनमूर्त्तिचतुर्विंशतियक्ष यक्षिण्यधिकारो नाम सप्तमोऽध्यायः॥ ७॥
 
 ----------
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

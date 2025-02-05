@@ -1,14 +1,13 @@
 +++
-TITLE = "Two Sanskrit Inscriptions"
-"PUBLISH YEAR" = "1859"
-DOMAIN = "इतिहासःसंस्कृतिः च"
-SUB-DOMAIN = "शिलालेखाः"
-PAGES = "39"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "फिट्स्-एड्वर्ड-हाल्"
-"SERIAL NO." = "Ebharati-7590"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg5Mjg5OTc0MTE2ODI3&pageno=MjI0MjQyNjk5NTk="
 title = "Two Sanskrit Inscriptions"
+"publish year" = "1859"
+domain = "इतिहासःसंस्कृतिः च"
+sub-domain = "शिलालेखाः"
+pages = "39"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "फिट्स्-एड्वर्ड-हाल्"
+"serial no." = "Ebharati-7590"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg5Mjg5OTc0MTE2ODI3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[Two Sanskrit Inscriptions	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDg5Mjg5OTc0MTE2ODI3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1013,19 +1012,6 @@ Limbáryá,[❋](# "Or Lítswáryá, as it also admits of being read; the charac
 Troy, N. Y., April 3rd, 1860.                    
                                    
                               F. E. H.
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

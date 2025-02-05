@@ -1,16 +1,15 @@
 +++
-TITLE = "ललितोपाख्यानम्"
-PUBLISHER = "पाण्डुरङ्ग-जावजी"
-"PUBLISH YEAR" = "1918"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "480"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "टी. एन्. के. तिरुमुलपाड्"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7085"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4OTU1NzczMzMxMDg2&pageno=MjI0MjQyNjk5NTk="
 title = "ललितोपाख्यानम्"
+publisher = "पाण्डुरङ्ग-जावजी"
+"publish year" = "1918"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "480"
+language = "संस्कृतम्"
+editor = "टी. एन्. के. तिरुमुलपाड्"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-7085"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4OTU1NzczMzMxMDg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ललितोपाख्यानम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc4OTU1NzczMzMxMDg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -12798,8 +12797,5 @@ Ramchandra Yesu Shedge, at the
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

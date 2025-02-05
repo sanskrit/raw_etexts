@@ -1,16 +1,15 @@
 +++
-TITLE = "काव्यमञ्जरी"
-AUTHOR = "चण्डीचरणस्मृतिभूषणः"
-PUBLISHER = "चण्डीचरणस्मृतिभूषणः"
-"PUBLISH YEAR" = "1908"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "78"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "राधिकाप्रसादत्त-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7042"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI3NTMxOTM1NTAwNjc2&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यमञ्जरी"
+author = "चण्डीचरणस्मृतिभूषणः"
+publisher = "चण्डीचरणस्मृतिभूषणः"
+"publish year" = "1908"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "78"
+language = "संस्कृतम्"
+printer = "राधिकाप्रसादत्त-यन्त्रालयः"
+"serial no." = "Ebharati-7042"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI3NTMxOTM1NTAwNjc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यमञ्जरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDI3NTMxOTM1NTAwNjc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1818,19 +1817,6 @@ Approved by the Text-Book Committee.
 
 **सम्पूर्णम्।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रृङ्गारप्रकाशः"
-AUTHOR = "भोजदेवः"
-PUBLISHER = "यदुगिरिमुनिभिः"
-"PUBLISH YEAR" = "1926"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "साहित्येतिहासः"
-PAGES = "164"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "लाप्रिन्टिंग् हौस्"
-"SERIAL NO." = "Ebharati-5951"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIzMzU2ODM2MzcyMTc1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रृङ्गारप्रकाशः"
+author = "भोजदेवः"
+publisher = "यदुगिरिमुनिभिः"
+"publish year" = "1926"
+domain = "साहित्यम्"
+sub-domain = "साहित्येतिहासः"
+pages = "164"
+language = "संस्कृतम्"
+printer = "लाप्रिन्टिंग् हौस्"
+"serial no." = "Ebharati-5951"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIzMzU2ODM2MzcyMTc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रृङ्गारप्रकाशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjIzMzU2ODM2MzcyMTc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5148,19 +5147,6 @@ XXIV."ध्वस्तैरौदरिकेः" इति पद्यस�
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,15 +1,14 @@
 +++
-TITLE = "मण्डलब्राह्मणोपनिषत्"
-"PUBLISH YEAR" = "1899"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "अन्याः उपनिषदः"
-PAGES = "47"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "महादेवशास्त्री"
-PRINTER = "गवर्मेण्ट-ब्राञ्च-प्रेस्"
-"SERIAL NO." = "Ebharati-8439"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUyOTk3OTgyMjExMDE4&pageno=MjI0MjQyNjk5NTk="
 title = "मण्डलब्राह्मणोपनिषत्"
+"publish year" = "1899"
+domain = "उपनिषदः"
+sub-domain = "अन्याः उपनिषदः"
+pages = "47"
+language = "संस्कृतम्"
+editor = "महादेवशास्त्री"
+printer = "गवर्मेण्ट-ब्राञ्च-प्रेस्"
+"serial no." = "Ebharati-8439"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUyOTk3OTgyMjExMDE4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मण्डलब्राह्मणोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODUyOTk3OTgyMjExMDE4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -843,8 +842,5 @@ A. M.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,15 +1,14 @@
 +++
-TITLE = "स्वरमेलकलानिधिः (मराठी भाषान्तरम्)"
-AUTHOR = "राममात्या"
-"PUBLISH YEAR" = "1910"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "48"
-LANGUAGE = "संस्कृतम् मराठी"
-PRINTER = "श्रीगणेश-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-4701"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI4NTI2NTMzODcyMTU0&pageno=MjI0MjQyNjk5NTk="
 title = "स्वरमेलकलानिधिः (मराठी भाषान्तरम्)"
+author = "राममात्या"
+"publish year" = "1910"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "48"
+language = "संस्कृतम् मराठी"
+printer = "श्रीगणेश-मुद्रणालयः"
+"serial no." = "Ebharati-4701"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI4NTI2NTMzODcyMTU0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्वरमेलकलानिधिः (मराठी भाषान्तरम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjI4NTI2NTMzODcyMTU0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -985,19 +984,6 @@ title = "स्वरमेलकलानिधिः (मराठी भा�
 | **२० कांभोजी**   |   १ कांभोजी   |
 
 # समाप्तम् **![](../books_images/U-IMG-1694242573Chitram.jpg)**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

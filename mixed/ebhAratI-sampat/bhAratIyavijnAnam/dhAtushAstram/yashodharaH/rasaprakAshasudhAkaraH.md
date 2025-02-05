@@ -1,13 +1,12 @@
 +++
-TITLE = "रसप्रकाशसुधाकरः"
-AUTHOR = "यशोधरः"
-DOMAIN = "भारतीयविज्ञानम्"
-SUB-DOMAIN = "धातुशास्त्रम्"
-PAGES = "59"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-"SERIAL NO." = "Ebharati-4557"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUwNzE3Njc4NDU0NzM0&pageno=MjI0MjQyNjk5NTk="
 title = "रसप्रकाशसुधाकरः"
+author = "यशोधरः"
+domain = "भारतीयविज्ञानम्"
+sub-domain = "धातुशास्त्रम्"
+pages = "59"
+language = "संस्कृतम् आङ्ग्लम्"
+"serial no." = "Ebharati-4557"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUwNzE3Njc4NDU0NzM0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रसप्रकाशसुधाकरः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDUwNzE3Njc4NDU0NzM0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1597,19 +1596,6 @@ Mix *talaka* with this *satva* in equal amount and put it in a *kharpara* (iron 
 **Method of using *Satvabhasma***  
 Mix *mrta satva* (*satva bhasma*) and *kanta bhasma* in equal amount. Take one *maşaka* (about one gram) of this powder, mix it with *vara kvātha*, Keep it over night in an iron pot, put *tila* *taila* as *prati vāpa* over it and then it may be used to cure *madhumeha*, *ksaya*, *pandu*, *vātavyādhi*, *yoniroga* of ladies, *visamajvara* and all the *rogas* of ladies specially *śvāsa* and *kasa* (128-130).
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,13 +1,12 @@
 +++
-TITLE = "मञ्जूषा शक्तिवादार्थदीपिका"
-AUTHOR = "कृष्णभट्टः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4060"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDIzMzMyNDQ3NDQ3OTgz"
 title = "मञ्जूषा शक्तिवादार्थदीपिका"
+author = "कृष्णभट्टः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4060"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDIzMzMyNDQ3NDQ3OTgz"
 
 +++
 [[मञ्जूषा शक्तिवादार्थदीपिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDIzMzMyNDQ3NDQ3OTgz)]]

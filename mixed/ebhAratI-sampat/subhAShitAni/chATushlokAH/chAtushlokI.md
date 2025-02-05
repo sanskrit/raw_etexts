@@ -1,12 +1,11 @@
 +++
-TITLE = "चातुश्लोकी"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "चाटुश्लोकाः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4189"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU3NTA1OTUyODIxMjA0&pageno=MjI0MjQyNjk5NTk="
 title = "चातुश्लोकी"
+domain = "सुभाषितानि"
+sub-domain = "चाटुश्लोकाः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4189"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU3NTA1OTUyODIxMjA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चातुश्लोकी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODU3NTA1OTUyODIxMjA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -48,19 +47,6 @@ title = "चातुश्लोकी"
 \\Z
 
 ** ----------------------------------------------------**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

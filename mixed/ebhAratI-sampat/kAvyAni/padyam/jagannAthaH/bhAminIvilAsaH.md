@@ -1,18 +1,17 @@
 +++
-TITLE = "भामिनीविलासः"
-AUTHOR = "जगन्नाथः"
-PUBLISHER = "ओरिएन्टल्-पब्लिशिङ्ग बोम्बे"
-"PUBLISH YEAR" = "1935"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "153"
-LANGUAGE = "संस्कृतम्"
-TRANSLATOR = "जि.सि. झला"
-EDITOR = "जि.सि. झला"
-PRINTER = "बोम्बे-वैभव प्रेस्"
-"SERIAL NO." = "Ebharati-5782"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAwNDg2MzcyMDUwNTU1&pageno=MjI0MjQyNjk5NTk="
 title = "भामिनीविलासः"
+author = "जगन्नाथः"
+publisher = "ओरिएन्टल्-पब्लिशिङ्ग बोम्बे"
+"publish year" = "1935"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "153"
+language = "संस्कृतम्"
+translator = "जि.सि. झला"
+editor = "जि.सि. झला"
+printer = "बोम्बे-वैभव प्रेस्"
+"serial no." = "Ebharati-5782"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAwNDg2MzcyMDUwNTU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भामिनीविलासः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDAwNDg2MzcyMDUwNTU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2758,19 +2757,6 @@ the standard which Jagannātha sets for all aspirants forrecognition as poets to
 
 # 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

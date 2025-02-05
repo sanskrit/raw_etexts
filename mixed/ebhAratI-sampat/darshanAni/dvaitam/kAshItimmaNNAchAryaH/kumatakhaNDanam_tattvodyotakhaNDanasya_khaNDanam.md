@@ -1,13 +1,12 @@
 +++
-TITLE = "कुमतखण्डनम् (तत्त्वोद्योतखण्डनस्य खण्डनम्)"
-AUTHOR = "काशीतिम्मण्णाचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3087"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE3NjUzMDA0MDQzNjky&pageno=MjI0MjQyNjk5NTk="
 title = "कुमतखण्डनम् (तत्त्वोद्योतखण्डनस्य खण्डनम्)"
+author = "काशीतिम्मण्णाचार्यः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3087"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE3NjUzMDA0MDQzNjky&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कुमतखण्डनम् (तत्त्वोद्योतखण्डनस्य खण्डनम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDE3NjUzMDA0MDQzNjky&pageno=MjI0MjQyNjk5NTk=)]]
@@ -335,8 +334,5 @@ title = "कुमतखण्डनम् (तत्त्वोद्योत
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

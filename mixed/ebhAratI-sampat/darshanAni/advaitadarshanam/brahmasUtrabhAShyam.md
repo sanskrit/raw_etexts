@@ -1,16 +1,15 @@
 +++
-TITLE = "ब्रह्मसूत्रभाष्यम्"
-PUBLISHER = "पाण्डुरङ्ग-जावजी"
-"PUBLISH YEAR" = "1927"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतदर्शनम्"
-PAGES = "536"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वासुदेव-लक्ष्मण-शास्त्री-पणशीकरः"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8674"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODY3NjA0MTc2MjM4&pageno=MjI0MjQyNjk5NTk="
 title = "ब्रह्मसूत्रभाष्यम्"
+publisher = "पाण्डुरङ्ग-जावजी"
+"publish year" = "1927"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतदर्शनम्"
+pages = "536"
+language = "संस्कृतम्"
+editor = "वासुदेव-लक्ष्मण-शास्त्री-पणशीकरः"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-8674"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODY3NjA0MTc2MjM4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ब्रह्मसूत्रभाष्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODY3NjA0MTc2MjM4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6110,8 +6109,5 @@ title = "ब्रह्मसूत्रभाष्यम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

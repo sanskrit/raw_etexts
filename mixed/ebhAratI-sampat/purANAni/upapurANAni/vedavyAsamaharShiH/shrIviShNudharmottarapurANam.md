@@ -1,13 +1,12 @@
 +++
-TITLE = "श्रीविष्णुधर्मोत्तरपुराणम्"
-AUTHOR = "वेदव्यासमहर्षिः"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "उपपुराणानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2906"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMzODc0MDgwNTY5ODcy"
 title = "श्रीविष्णुधर्मोत्तरपुराणम्"
+author = "वेदव्यासमहर्षिः"
+domain = "पुराणानि"
+sub-domain = "उपपुराणानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2906"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMzODc0MDgwNTY5ODcy"
 
 +++
 [[श्रीविष्णुधर्मोत्तरपुराणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjMzODc0MDgwNTY5ODcy)]]

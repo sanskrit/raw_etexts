@@ -1,16 +1,15 @@
 +++
-TITLE = "त्रिपुराभारतीलघुस्तवः"
-AUTHOR = "सिद्धसारस्वरः"
-PUBLISHER = "राजस्थानपुरातत्त्वमन्दिरः"
-"PUBLISH YEAR" = "1952"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "97"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8276"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc0NDgyMjA5NDY0NDk3&pageno=MjI0MjQyNjk5NTk="
 title = "त्रिपुराभारतीलघुस्तवः"
+author = "सिद्धसारस्वरः"
+publisher = "राजस्थानपुरातत्त्वमन्दिरः"
+"publish year" = "1952"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "97"
+language = "संस्कृतम्"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-8276"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc0NDgyMjA5NDY0NDk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[त्रिपुराभारतीलघुस्तवः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc0NDgyMjA5NDY0NDk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1442,19 +1441,6 @@ title = "त्रिपुराभारतीलघुस्तवः"
 ॥इति पठितसिद्धसारस्वतस्तवः॥
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

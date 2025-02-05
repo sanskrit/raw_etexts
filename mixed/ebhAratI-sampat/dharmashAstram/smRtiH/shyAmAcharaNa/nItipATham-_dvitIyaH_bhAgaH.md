@@ -1,16 +1,15 @@
 +++
-TITLE = "नीतिपाठम्- द्वितीयः भागः"
-AUTHOR = "श्यामाचरण"
-PUBLISHER = "N. Banerji Calcutta"
-"PUBLISH YEAR" = "1916"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "31"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "R.S. Das Victoria Press Calcutta."
-"SERIAL NO." = "Ebharati-5079"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMzMTYyNTE5NDY1Nzg0&pageno=MjI0MjQyNjk5NTk="
 title = "नीतिपाठम्- द्वितीयः भागः"
+author = "श्यामाचरण"
+publisher = "N. Banerji Calcutta"
+"publish year" = "1916"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "31"
+language = "संस्कृतम्"
+printer = "R.S. Das Victoria Press Calcutta."
+"serial no." = "Ebharati-5079"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMzMTYyNTE5NDY1Nzg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नीतिपाठम्- द्वितीयः भागः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODMzMTYyNTE5NDY1Nzg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -641,19 +640,6 @@ VICTORIA PRESS "**
 सम्पूर्णम्।
 
 —————
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

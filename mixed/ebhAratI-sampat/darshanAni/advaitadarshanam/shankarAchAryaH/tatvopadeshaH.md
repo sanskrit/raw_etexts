@@ -1,17 +1,16 @@
 +++
-TITLE = "तत्वोपदेशः"
-AUTHOR = "शङ्कराचार्यः"
-PUBLISHER = "भुवनचन्द्रवसाकः"
-"PUBLISH YEAR" = "1887"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतदर्शनम्"
-PAGES = "16"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "नवचन्द्रशिरोमणिः"
-PRINTER = "ज्ञानरत्नाकरयन्त्रम् कलिकतानगरी"
-"SERIAL NO." = "Ebharati-8620"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2Nzc2OTA2Nzg0NzI4&pageno=MjI0MjQyNjk5NTk="
 title = "तत्वोपदेशः"
+author = "शङ्कराचार्यः"
+publisher = "भुवनचन्द्रवसाकः"
+"publish year" = "1887"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतदर्शनम्"
+pages = "16"
+language = "संस्कृतम्"
+editor = "नवचन्द्रशिरोमणिः"
+printer = "ज्ञानरत्नाकरयन्त्रम् कलिकतानगरी"
+"serial no." = "Ebharati-8620"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2Nzc2OTA2Nzg0NzI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तत्वोपदेशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2Nzc2OTA2Nzg0NzI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -398,8 +397,5 @@ title = "तत्वोपदेशः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

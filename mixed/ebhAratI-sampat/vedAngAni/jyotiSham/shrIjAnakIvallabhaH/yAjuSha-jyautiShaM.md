@@ -1,19 +1,18 @@
 +++
-TITLE = "याजुष-ज्यौतिषं"
-AUTHOR = "श्रीजानकीवल्लभः"
-"PUBLISH YEAR" = "1908"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "108"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "महामहोपाध्याय-सुधाकर-द्विवेदी"
-"PRIMARY COMMENTATOR" = "सुधाकर द्विवेदि"
-"SECONDARY COMMENTATOR" = "सोमाकर-शेषः"
-"TERTIARY COMMENTATOR" = "मुरलीधर-झा"
-PRINTER = "मेडिकल्-हाल्-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-4912"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY4Njc3MjQ1MzM1MTc0&pageno=MjI0MjQyNjk5NTk="
 title = "याजुष-ज्यौतिषं"
+author = "श्रीजानकीवल्लभः"
+"publish year" = "1908"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "108"
+language = "संस्कृतम्"
+editor = "महामहोपाध्याय-सुधाकर-द्विवेदी"
+"primary commentator" = "सुधाकर द्विवेदि"
+"secondary commentator" = "सोमाकर-शेषः"
+"tertiary commentator" = "मुरलीधर-झा"
+printer = "मेडिकल्-हाल्-मुद्रणालयः"
+"serial no." = "Ebharati-4912"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY4Njc3MjQ1MzM1MTc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[याजुष-ज्यौतिषं	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDY4Njc3MjQ1MzM1MTc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1785,19 +1784,6 @@ and the first half of ऋ (३४) in which the latter half is wanting is anothe
 
 
 ********************************************
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

@@ -1,17 +1,16 @@
 +++
-TITLE = "तन्त्रवटधानिका"
-AUTHOR = "अभिनवगुप्तः"
-PUBLISHER = "मुकुन्दरामशास्त्री"
-"PUBLISH YEAR" = "1918"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "16"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मुकुन्दरामशास्त्री"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6068"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk2NjEwOTkxNTA1Mjg1&pageno=MjI0MjQyNjk5NTk="
 title = "तन्त्रवटधानिका"
+author = "अभिनवगुप्तः"
+publisher = "मुकुन्दरामशास्त्री"
+"publish year" = "1918"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "16"
+language = "संस्कृतम्"
+editor = "मुकुन्दरामशास्त्री"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-6068"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk2NjEwOTkxNTA1Mjg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तन्त्रवटधानिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk2NjEwOTkxNTA1Mjg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -402,19 +401,6 @@ Jammu and Kashmir State, SRINAGAR.**
 
 **![](../books_images/U-IMG-1721669676Screenshot2024-07-22230410.png)**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

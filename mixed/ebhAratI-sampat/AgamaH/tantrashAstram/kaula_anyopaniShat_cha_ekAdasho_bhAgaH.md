@@ -1,15 +1,14 @@
 +++
-TITLE = "कौल अन्योपनिषत् च (एकादशो भागः)"
-"PUBLISH YEAR" = "1922"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "113"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "सीतारामशास्त्री"
-PRINTER = "संस्कृत-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8851"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIxNzc2MTQ3MjY2OTQ4&pageno=MjI0MjQyNjk5NTk="
 title = "कौल अन्योपनिषत् च (एकादशो भागः)"
+"publish year" = "1922"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "113"
+language = "संस्कृतम्"
+editor = "सीतारामशास्त्री"
+printer = "संस्कृत-यन्त्रालयः"
+"serial no." = "Ebharati-8851"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIxNzc2MTQ3MjY2OTQ4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कौल अन्योपनिषत् च (एकादशो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjIxNzc2MTQ3MjY2OTQ4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1865,8 +1864,5 @@ it, like the generality of his commentary, deals with the surface of things and 
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

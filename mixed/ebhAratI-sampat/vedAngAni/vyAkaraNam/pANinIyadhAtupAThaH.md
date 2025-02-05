@@ -1,12 +1,11 @@
 +++
-TITLE = "पाणिनीयधातुपाठः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3531"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY5ODMz&pageno=MjI0MjQyNjk5NTk="
 title = "पाणिनीयधातुपाठः"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3531"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY5ODMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पाणिनीयधातुपाठः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY5ODMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7119,8 +7118,5 @@ title = "पाणिनीयधातुपाठः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

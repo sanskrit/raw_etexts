@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीगान्धिचरितम्"
-"PUBLISH YEAR" = "1930"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "गद्यम्"
-PAGES = "203"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "चारुदेवशास्त्रिः"
-"COMMENTARY NAME" = "बालबोधिनी"
-PRINTER = "राव्-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5837"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyNzEwNzYwMDMzMDY1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीगान्धिचरितम्"
+"publish year" = "1930"
+domain = "काव्यानि"
+sub-domain = "गद्यम्"
+pages = "203"
+language = "संस्कृतम्"
+"primary commentator" = "चारुदेवशास्त्रिः"
+"commentary name" = "बालबोधिनी"
+printer = "राव्-मुद्रणालयः"
+"serial no." = "Ebharati-5837"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyNzEwNzYwMDMzMDY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीगान्धिचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDEyNzEwNzYwMDMzMDY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1895,8 +1894,5 @@ title = "श्रीगान्धिचरितम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

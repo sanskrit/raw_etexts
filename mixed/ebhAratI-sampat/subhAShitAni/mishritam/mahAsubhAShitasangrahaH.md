@@ -1,12 +1,11 @@
 +++
-TITLE = "महासुभाषितसङ्ग्रहः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "मिश्रितम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4112"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyOTM4ODQ1NjM3NDkz&pageno=MjI0MjQyNjk5NTk="
 title = "महासुभाषितसङ्ग्रहः"
+domain = "सुभाषितानि"
+sub-domain = "मिश्रितम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4112"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyOTM4ODQ1NjM3NDkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[महासुभाषितसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDYyOTM4ODQ1NjM3NDkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -32339,8 +32338,5 @@ C-
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

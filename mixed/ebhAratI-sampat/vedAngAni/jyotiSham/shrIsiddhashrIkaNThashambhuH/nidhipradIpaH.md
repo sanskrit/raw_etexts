@@ -1,17 +1,16 @@
 +++
-TITLE = "निधिप्रदीपः"
-AUTHOR = "श्रीसिद्धश्रीकण्ठशम्भुः"
-PUBLISHER = "राजकीय मुद्रणयन्त्रालयः"
-"PUBLISH YEAR" = "1930"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "60"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "के. साम्बशिवशास्त्री"
-"BOOKS CONTRIBUTOR" = "महामहिमश्रीसेतुलक्ष्मीमहाराज्ञी"
-"SERIAL NO." = "Ebharati-5051"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI1Mzc0MDIwNzc4NDg0&pageno=MjI0MjQyNjk5NTk="
 title = "निधिप्रदीपः"
+author = "श्रीसिद्धश्रीकण्ठशम्भुः"
+publisher = "राजकीय मुद्रणयन्त्रालयः"
+"publish year" = "1930"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "60"
+language = "संस्कृतम्"
+editor = "के. साम्बशिवशास्त्री"
+"books contributor" = "महामहिमश्रीसेतुलक्ष्मीमहाराज्ञी"
+"serial no." = "Ebharati-5051"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI1Mzc0MDIwNzc4NDg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[निधिप्रदीपः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjI1Mzc0MDIwNzc4NDg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1953,19 +1952,6 @@ The edition of the work is based on the following three manuscripts.
 शुभं भूयात्।
 
 ———————
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

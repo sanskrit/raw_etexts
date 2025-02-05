@@ -1,13 +1,12 @@
 +++
-TITLE = "प्रश्नोत्तररत्नमालिका"
-AUTHOR = "शंकरः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2585"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4MDY2NjgyMDUxODQy&pageno=MjI0MjQyNjk5NTk="
 title = "प्रश्नोत्तररत्नमालिका"
+author = "शंकरः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2585"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4MDY2NjgyMDUxODQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रश्नोत्तररत्नमालिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc4MDY2NjgyMDUxODQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -712,8 +711,5 @@ title = "प्रश्नोत्तररत्नमालिका"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

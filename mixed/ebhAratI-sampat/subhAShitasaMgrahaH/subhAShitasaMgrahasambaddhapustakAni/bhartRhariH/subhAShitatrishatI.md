@@ -1,19 +1,18 @@
 +++
-TITLE = "सुभाषितत्रिशती"
-AUTHOR = "भर्तृहरिः"
-PUBLISHER = "पाण्डुरङ्ग-जावाजी"
-"PUBLISH YEAR" = "1922"
-DOMAIN = "सुभाषितसंग्रहः"
-SUB-DOMAIN = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
-PAGES = "194"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वासुदेव-लक्ष्मणशास्त्री"
-"PRIMARY COMMENTATOR" = "रामचन्द्र-बुधेन्द्रः"
-"COMMENTARY NAME" = "सहृदयानन्दिनी"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7201"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI4MDg2MTQ5ODYyMTk2&pageno=MjI0MjQyNjk5NTk="
 title = "सुभाषितत्रिशती"
+author = "भर्तृहरिः"
+publisher = "पाण्डुरङ्ग-जावाजी"
+"publish year" = "1922"
+domain = "सुभाषितसंग्रहः"
+sub-domain = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
+pages = "194"
+language = "संस्कृतम्"
+editor = "वासुदेव-लक्ष्मणशास्त्री"
+"primary commentator" = "रामचन्द्र-बुधेन्द्रः"
+"commentary name" = "सहृदयानन्दिनी"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-7201"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI4MDg2MTQ5ODYyMTk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुभाषितत्रिशती	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjI4MDg2MTQ5ODYyMTk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3786,19 +3785,6 @@ title = "सुभाषितत्रिशती"
 | हिंसाशून्यमयत्नलभ्यमशनं        | वैराग्य ० | ९७          |
 | हेमन्ते दधिदुग्धसर्पि—         | शृङ्गार०  | ९७          |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

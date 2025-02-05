@@ -1,12 +1,11 @@
 +++
-TITLE = "तत्त्वकौस्तुभकुलिशम्"
-AUTHOR = "श्रीमुष्णं सेतुमाधवाचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3143"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQzMjM5OTgxNjE3MTAz"
 title = "तत्त्वकौस्तुभकुलिशम्"
+author = "श्रीमुष्णं सेतुमाधवाचार्यः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3143"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQzMjM5OTgxNjE3MTAz"
 
 +++
 [[तत्त्वकौस्तुभकुलिशम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjQzMjM5OTgxNjE3MTAz)]]

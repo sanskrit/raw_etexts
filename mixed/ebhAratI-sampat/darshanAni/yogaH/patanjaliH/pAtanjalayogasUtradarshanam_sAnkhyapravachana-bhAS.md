@@ -1,20 +1,19 @@
 +++
-TITLE = "पातञ्जलयोगसूत्रदर्शनम् (साङ्ख्यप्रवचन-भाष्य-वृत्ति-सहितम् )"
-AUTHOR = "पतञ्जलिः"
-PUBLISHER = "शङ्करदत्तशर्मा"
-"PUBLISH YEAR" = "१९२४"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "404"
-TRANSLATOR = "रुद्रदत्तशर्मा"
-EDITOR = "बदरीदत्तजोशी"
-"PRIMARY COMMENTATOR" = "व्यासमहर्षिः"
-"SECONDARY COMMENTATOR" = "राजर्षिः भोजदेवः"
-"COMMENTARY NAME" = "साङ्ख्यप्रवचनम् भाष्यम् राजमार्ताण्डववृत्तिः"
-PRINTER = "शर्मा-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1581"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxOTYyOTUwMDc3MTUx&pageno=MjI0MjQyNjk5NTk="
 title = "पातञ्जलयोगसूत्रदर्शनम् (साङ्ख्यप्रवचन-भाष्य-वृत्ति-सहितम् )"
+author = "पतञ्जलिः"
+publisher = "शङ्करदत्तशर्मा"
+"publish year" = "१९२४"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "404"
+translator = "रुद्रदत्तशर्मा"
+editor = "बदरीदत्तजोशी"
+"primary commentator" = "व्यासमहर्षिः"
+"secondary commentator" = "राजर्षिः भोजदेवः"
+"commentary name" = "साङ्ख्यप्रवचनम् भाष्यम् राजमार्ताण्डववृत्तिः"
+printer = "शर्मा-मुद्रणालयः"
+"serial no." = "Ebharati-1581"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxOTYyOTUwMDc3MTUx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पातञ्जलयोगसूत्रदर्शनम् (साङ्ख्यप्रवचन-भाष्य-वृत्ति-सहितम् )	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjgxOTYyOTUwMDc3MTUx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6206,8 +6205,5 @@ Barcode EAN.UCC-13
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,17 +1,16 @@
 +++
-TITLE = "रावणार्जुनीयम्"
-AUTHOR = "भट्टभीमः"
-PUBLISHER = "तुकारामजावजी"
-"PUBLISH YEAR" = "1900"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "216"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शिवदत्तशर्मा काशिनाथपाण्डुरङ्गपरबः"
-PRINTER = "तुकारामजावजी"
-"SERIAL NO." = "Ebharati-7711"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQwNjEzNTIwNzIyMDQ3&pageno=MjI0MjQyNjk5NTk="
 title = "रावणार्जुनीयम्"
+author = "भट्टभीमः"
+publisher = "तुकारामजावजी"
+"publish year" = "1900"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "216"
+language = "संस्कृतम्"
+editor = "शिवदत्तशर्मा काशिनाथपाण्डुरङ्गपरबः"
+printer = "तुकारामजावजी"
+"serial no." = "Ebharati-7711"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQwNjEzNTIwNzIyMDQ3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रावणार्जुनीयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQwNjEzNTIwNzIyMDQ3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7186,19 +7185,6 @@ title = "रावणार्जुनीयम्"
 
  कृतिस्तत्रभवतो महाप्रभावश्रीशारदादेशान्तर्वर्तिवल्लभीस्थाननिवा भूमभट्टस्येति शुभम्। **वल्लभी**स्थानं उडू इति ग्रामो **वराहमूलो**पक स्थितः॥
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

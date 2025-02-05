@@ -1,19 +1,18 @@
 +++
-TITLE = "न्यायसारः"
-AUTHOR = "भासर्वज्ञः"
-PUBLISHER = "तिरुवनन्तपुरस्य महाराज्ञी"
-"PUBLISH YEAR" = "1931"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायदर्शनम्"
-PAGES = "175"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "साम्बशिवशास्त्री"
-"PRIMARY COMMENTATOR" = "वासुदेवसूरिः"
-"COMMENTARY NAME" = "न्यायसारपदपञ्चिका"
-PRINTER = "राजकीयमुद्रणयन्त्रालयम् तिरुवनन्तपुरम्"
-"SERIAL NO." = "Ebharati-7745"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzODU1Nzk4MDk0MzQ3&pageno=MjI0MjQyNjk5NTk="
 title = "न्यायसारः"
+author = "भासर्वज्ञः"
+publisher = "तिरुवनन्तपुरस्य महाराज्ञी"
+"publish year" = "1931"
+domain = "दर्शनानि"
+sub-domain = "न्यायदर्शनम्"
+pages = "175"
+language = "संस्कृतम्"
+editor = "साम्बशिवशास्त्री"
+"primary commentator" = "वासुदेवसूरिः"
+"commentary name" = "न्यायसारपदपञ्चिका"
+printer = "राजकीयमुद्रणयन्त्रालयम् तिरुवनन्तपुरम्"
+"serial no." = "Ebharati-7745"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzODU1Nzk4MDk0MzQ3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[न्यायसारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDkzODU1Nzk4MDk0MzQ3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3156,19 +3155,6 @@ Trivandrum, }                         K. SĀMBAŚIVA ŚĀSTRI.
 
 **शुभं भूयात्।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

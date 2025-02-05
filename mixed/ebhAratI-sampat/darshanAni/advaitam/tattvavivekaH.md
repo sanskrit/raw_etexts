@@ -1,12 +1,11 @@
 +++
-TITLE = "तत्त्वविवेकः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "33"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-"SERIAL NO." = "Ebharati-2150"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAzNzAyMTI5MTkzNjAy&pageno=MjI0MjQyNjk5NTk="
 title = "तत्त्वविवेकः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "33"
+language = "संस्कृतम् आङ्ग्लम्"
+"serial no." = "Ebharati-2150"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAzNzAyMTI5MTkzNjAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तत्त्वविवेकः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDAzNzAyMTI5MTkzNjAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1158,8 +1157,5 @@ iti tattvavivekah samaptah \।\। 1\।\।
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

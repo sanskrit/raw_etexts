@@ -1,18 +1,17 @@
 +++
-TITLE = "स्कान्दपुराणम् (प्रणवकल्पम्)"
-PUBLISHER = "जयकृष्णदासहरिदासगुप्ता"
-"PUBLISH YEAR" = "1933"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "92"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "दुन्दिराज-शास्त्री"
-"PRIMARY COMMENTATOR" = "गंगाधरेन्द्र-सरस्वती"
-"COMMENTARY NAME" = "प्रणव-भाष्यः"
-PRINTER = "विद्या-विलास-प्रेस्-बनास्"
-"SERIAL NO." = "Ebharati-6867"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4MTE3NjkxNjAyOTU2&pageno=MjI0MjQyNjk5NTk="
 title = "स्कान्दपुराणम् (प्रणवकल्पम्)"
+publisher = "जयकृष्णदासहरिदासगुप्ता"
+"publish year" = "1933"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "92"
+language = "संस्कृतम्"
+editor = "दुन्दिराज-शास्त्री"
+"primary commentator" = "गंगाधरेन्द्र-सरस्वती"
+"commentary name" = "प्रणव-भाष्यः"
+printer = "विद्या-विलास-प्रेस्-बनास्"
+"serial no." = "Ebharati-6867"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4MTE3NjkxNjAyOTU2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्कान्दपुराणम् (प्रणवकल्पम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDc4MTE3NjkxNjAyOTU2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2426,8 +2425,5 @@ at the Vidya Vilas Press, Benares.
 किरीटिने सुगदिने शङ्खिने चक्रिणे नमः॥  
 शूलिने चन्द्रमूर्द्धेच वृषाय वृषवाहिने॥ ९८ ॥
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

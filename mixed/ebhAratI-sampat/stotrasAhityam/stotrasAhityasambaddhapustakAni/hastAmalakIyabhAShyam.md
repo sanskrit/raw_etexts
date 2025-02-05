@@ -1,12 +1,11 @@
 +++
-TITLE = "हस्तामलकीयभाष्यम्"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3050"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNzgzOTM1ODg3Mjky&pageno=MjI0MjQyNjk5NTk="
 title = "हस्तामलकीयभाष्यम्"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3050"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNzgzOTM1ODg3Mjky&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हस्तामलकीयभाष्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNzgzOTM1ODg3Mjky&pageno=MjI0MjQyNjk5NTk=)]]
@@ -106,8 +105,5 @@ Shankaracharya’s Commentary on Hastaamalakiyam
 
 ( 12) -- उपाधौ सति उपाधिभेदसंबन्धे सति यथा भेदता भेद एव भेदता, स्वार्थे तल्, सन्मणीनां विशुद्धमणीनां स्फटिकादीनां लोहितकृष्णादिभेदेन भेदता भेदः। तथा बुद्धिभेदेषु नानाबुद्धिषु ते तवापि नानात्वं हे विष्णो परमार्थतस्तु तव भेदो नास्त्येव बुद्ध्युपाधिकृतस्तु विद्यत इत्यर्थः। यथा चन्द्रिकाणां चन्द्रा एव चन्द्रिकाः, स्वार्थे कप्रत्ययः, निर्मलितानां जले प्रतिबिम्बितस्वरूपेण दृश्यमानानां जलस्य चञ्चलत्वात् चञ्चलत्वम् औपाधिकं न पारमार्थिकम्, तथा बुद्धीनां चञ्चलत्वात् तवापि चञ्चलत्वमौपाधिकं न पारमार्थिकमित्यर्थः। इह बुद्धिषु हे विष्णो व्यापनशील॥
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

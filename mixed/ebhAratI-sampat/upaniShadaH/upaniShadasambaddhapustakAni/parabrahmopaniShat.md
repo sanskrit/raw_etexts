@@ -1,12 +1,11 @@
 +++
-TITLE = "परब्रह्मोपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4309"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkzNjk1ODA4NzQ2MzE0&pageno=MjI0MjQyNjk5NTk="
 title = "परब्रह्मोपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4309"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkzNjk1ODA4NzQ2MzE0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[परब्रह्मोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODkzNjk1ODA4NzQ2MzE0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -263,8 +262,5 @@ title = "परब्रह्मोपनिषत्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

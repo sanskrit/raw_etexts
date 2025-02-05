@@ -1,14 +1,13 @@
 +++
-TITLE = "संस्कृतप्रबोधः"
-AUTHOR = "बदरीदत्तशर्मा"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "83"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "स्वामी-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7025"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU1NDEwMzA2MzczNDc2&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृतप्रबोधः"
+author = "बदरीदत्तशर्मा"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "83"
+language = "संस्कृतम् हिन्दी"
+printer = "स्वामी-यन्त्रालयः"
+"serial no." = "Ebharati-7025"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU1NDEwMzA2MzczNDc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृतप्रबोधः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU1NDEwMzA2MzczNDc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1919,19 +1918,6 @@ title = "संस्कृतप्रबोधः"
 
 **वा सरस्वती पुस्तकालय मेरठ**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

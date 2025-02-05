@@ -1,18 +1,17 @@
 +++
-TITLE = "न्यायमञ्जरी गौतमसूत्रतात्पर्यविवृतिः"
-AUTHOR = "जयन्तभट्टः"
-PUBLISHER = "चौखाम्बासंस्कृतसिरीज्"
-"PUBLISH YEAR" = "१९३४"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-PAGES = "217"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "सूर्यनारायणशर्मा-शुक्लः"
-"SECOND EDITOR" = "ढुण्ढिराजः"
-PRINTER = "विद्याविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1835"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDczNDQ4NDAxMzUxNjcx&pageno=MjI0MjQyNjk5NTk="
 title = "न्यायमञ्जरी गौतमसूत्रतात्पर्यविवृतिः"
+author = "जयन्तभट्टः"
+publisher = "चौखाम्बासंस्कृतसिरीज्"
+"publish year" = "१९३४"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+pages = "217"
+language = "संस्कृतम्"
+editor = "सूर्यनारायणशर्मा-शुक्लः"
+"second editor" = "ढुण्ढिराजः"
+printer = "विद्याविलास-मुद्रणालयः"
+"serial no." = "Ebharati-1835"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDczNDQ4NDAxMzUxNjcx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[न्यायमञ्जरी गौतमसूत्रतात्पर्यविवृतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDczNDQ4NDAxMzUxNjcx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2079,8 +2078,5 @@ Hin"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,16 +1,15 @@
 +++
-TITLE = "काव्यप्रकाशः"
-AUTHOR = "मम्मटः"
-"PUBLISH YEAR" = "1829"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "215"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "नाथूरामपण्डितः"
-PRINTER = "एडुकेषन् प्रेस् कलिकातानगरम्"
-"SERIAL NO." = "Ebharati-6007"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU5ODIyODI0OTQ2Njc1&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यप्रकाशः"
+author = "मम्मटः"
+"publish year" = "1829"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "215"
+language = "संस्कृतम्"
+editor = "नाथूरामपण्डितः"
+printer = "एडुकेषन् प्रेस् कलिकातानगरम्"
+"serial no." = "Ebharati-6007"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU5ODIyODI0OTQ2Njc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यप्रकाशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDU5ODIyODI0OTQ2Njc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2838,8 +2837,5 @@ title = "काव्यप्रकाशः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

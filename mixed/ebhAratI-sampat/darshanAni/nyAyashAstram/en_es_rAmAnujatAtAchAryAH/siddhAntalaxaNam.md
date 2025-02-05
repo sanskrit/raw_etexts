@@ -1,14 +1,13 @@
 +++
-TITLE = "सिद्धान्तलक्षणम्"
-AUTHOR = "एन्  एस् रामानुजताताचार्याः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "चक्रवर्तिराघवन्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4090"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg5NTA1MTM2NDI2Mjkz&pageno=MjI0MjQyNjk5NTk="
 title = "सिद्धान्तलक्षणम्"
+author = "एन्  एस् रामानुजताताचार्याः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+editor = "चक्रवर्तिराघवन्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4090"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg5NTA1MTM2NDI2Mjkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सिद्धान्तलक्षणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDg5NTA1MTM2NDI2Mjkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1618,19 +1617,6 @@ title = "सिद्धान्तलक्षणम्"
 
 ----------------------------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

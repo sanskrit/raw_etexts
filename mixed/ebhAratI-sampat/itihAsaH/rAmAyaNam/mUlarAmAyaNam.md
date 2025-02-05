@@ -1,15 +1,14 @@
 +++
-TITLE = "मूलरामायणम्"
-PUBLISHER = "भार्गव-पुस्तकालयः"
-"PUBLISH YEAR" = "1935"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "89"
-LANGUAGE = "संस्कृतम् हिन्दी"
-EDITOR = "गुरुप्रसादशास्त्री"
-"SERIAL NO." = "Ebharati-6128"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwMjY1Mzc5NDYyODg1&pageno=MjI0MjQyNjk5NTk="
 title = "मूलरामायणम्"
+publisher = "भार्गव-पुस्तकालयः"
+"publish year" = "1935"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "89"
+language = "संस्कृतम् हिन्दी"
+editor = "गुरुप्रसादशास्त्री"
+"serial no." = "Ebharati-6128"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwMjY1Mzc5NDYyODg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मूलरामायणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjEwMjY1Mzc5NDYyODg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1946,8 +1945,5 @@ _()     तिलकः
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

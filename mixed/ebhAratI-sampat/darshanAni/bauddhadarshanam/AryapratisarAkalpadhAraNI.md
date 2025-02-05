@@ -1,12 +1,11 @@
 +++
-TITLE = "आर्यप्रतिसराकल्पधारणी"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3765"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM4ODE3MjU4NTI0MTYz&pageno=MjI0MjQyNjk5NTk="
 title = "आर्यप्रतिसराकल्पधारणी"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3765"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM4ODE3MjU4NTI0MTYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आर्यप्रतिसराकल्पधारणी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDM4ODE3MjU4NTI0MTYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -32,8 +31,5 @@ title = "आर्यप्रतिसराकल्पधारणी"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

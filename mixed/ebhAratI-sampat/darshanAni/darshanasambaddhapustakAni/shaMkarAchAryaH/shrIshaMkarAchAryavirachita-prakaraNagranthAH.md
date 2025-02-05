@@ -1,13 +1,12 @@
 +++
-TITLE = "श्रीशंकराचार्यविरचित-प्रकरणग्रन्थाः"
-AUTHOR = "शंकराचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "दर्शनसम्बद्धपुस्तकानि"
-PAGES = "593"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8890"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg1MTMxNTk1NjA0MzU4&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीशंकराचार्यविरचित-प्रकरणग्रन्थाः"
+author = "शंकराचार्यः"
+domain = "दर्शनानि"
+sub-domain = "दर्शनसम्बद्धपुस्तकानि"
+pages = "593"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8890"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg1MTMxNTk1NjA0MzU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीशंकराचार्यविरचित-प्रकरणग्रन्थाः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDg1MTMxNTk1NjA0MzU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -18388,19 +18387,6 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 
 **—————**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

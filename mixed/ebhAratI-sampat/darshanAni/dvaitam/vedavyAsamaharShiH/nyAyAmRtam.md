@@ -1,12 +1,11 @@
 +++
-TITLE = "न्यायामृतम्"
-AUTHOR = "वेदव्यासमहर्षिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3088"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMxOTk1NjkzNjM0Njky"
 title = "न्यायामृतम्"
+author = "वेदव्यासमहर्षिः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3088"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMxOTk1NjkzNjM0Njky"
 
 +++
 [[न्यायामृतम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjMxOTk1NjkzNjM0Njky)]]

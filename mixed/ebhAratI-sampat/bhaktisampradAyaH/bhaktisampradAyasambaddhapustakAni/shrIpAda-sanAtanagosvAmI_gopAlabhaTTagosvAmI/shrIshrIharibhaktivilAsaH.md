@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीश्रीहरिभक्तिविलासः"
-AUTHOR = "श्रीपाद-सनातनगोस्वामी गोपालभट्टगोस्वामी"
-DOMAIN = "भक्तिसम्प्रदायः"
-SUB-DOMAIN = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2671"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjYxOTA1MzY5NTA0NjUy"
 title = "श्रीश्रीहरिभक्तिविलासः"
+author = "श्रीपाद-सनातनगोस्वामी गोपालभट्टगोस्वामी"
+domain = "भक्तिसम्प्रदायः"
+sub-domain = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2671"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjYxOTA1MzY5NTA0NjUy"
 
 +++
 [[श्रीश्रीहरिभक्तिविलासः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjYxOTA1MzY5NTA0NjUy)]]

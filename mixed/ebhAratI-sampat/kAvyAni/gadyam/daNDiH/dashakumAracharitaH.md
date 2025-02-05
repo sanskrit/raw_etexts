@@ -1,16 +1,15 @@
 +++
-TITLE = "दशकुमारचरितः"
-AUTHOR = "दण्डिः"
-PUBLISHER = "श्रीबलमनोरमा"
-"PUBLISH YEAR" = "1932"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "गद्यम्"
-PAGES = "90"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीबलमनोरमा-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7972"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgxODg1NDQwMjgyNTY3&pageno=MjI0MjQyNjk5NTk="
 title = "दशकुमारचरितः"
+author = "दण्डिः"
+publisher = "श्रीबलमनोरमा"
+"publish year" = "1932"
+domain = "काव्यानि"
+sub-domain = "गद्यम्"
+pages = "90"
+language = "संस्कृतम्"
+printer = "श्रीबलमनोरमा-यन्त्रालयः"
+"serial no." = "Ebharati-7972"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgxODg1NDQwMjgyNTY3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दशकुमारचरितः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDgxODg1NDQwMjgyNTY3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -968,19 +967,6 @@ Third Ucchvāsa
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

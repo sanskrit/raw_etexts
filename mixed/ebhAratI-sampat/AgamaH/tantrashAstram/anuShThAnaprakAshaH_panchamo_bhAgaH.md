@@ -1,15 +1,14 @@
 +++
-TITLE = "अनुष्ठानप्रकाशः (पञ्चमो भागः)"
-PUBLISHER = "खेमराजः"
-"PUBLISH YEAR" = "1934"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "115"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "चतुर्थीलालशर्मा"
-"SERIAL NO." = "Ebharati-8576"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMTEwNTc3MzYyMzI4&pageno=MjI0MjQyNjk5NTk="
 title = "अनुष्ठानप्रकाशः (पञ्चमो भागः)"
+publisher = "खेमराजः"
+"publish year" = "1934"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "115"
+language = "संस्कृतम्"
+editor = "चतुर्थीलालशर्मा"
+"serial no." = "Ebharati-8576"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMTEwNTc3MzYyMzI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अनुष्ठानप्रकाशः (पञ्चमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMTEwNTc3MzYyMzI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -518,8 +517,5 @@ title = "अनुष्ठानप्रकाशः (पञ्चमो भ�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,16 +1,15 @@
 +++
-TITLE = "एपिग्राफिया-इण्डिका प्रथमः खण्डः"
-PUBLISHER = "राजकीयमुद्रणयन्त्रालयः"
-"PUBLISH YEAR" = "1892"
-DOMAIN = "इतिहासःसंस्कृतिः च"
-SUB-DOMAIN = "पुरालेखाः"
-PAGES = "539"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-EDITOR = "जस्-बर्गस्"
-PRINTER = "राजकीयमुद्रणयन्त्रालयः"
-"SERIAL NO." = "Ebharati-7604"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg4NjczNzI0NTU5OTI3&pageno=MjI0MjQyNjk5NTk="
 title = "एपिग्राफिया-इण्डिका प्रथमः खण्डः"
+publisher = "राजकीयमुद्रणयन्त्रालयः"
+"publish year" = "1892"
+domain = "इतिहासःसंस्कृतिः च"
+sub-domain = "पुरालेखाः"
+pages = "539"
+language = "संस्कृतम् आङ्ग्लम्"
+editor = "जस्-बर्गस्"
+printer = "राजकीयमुद्रणयन्त्रालयः"
+"serial no." = "Ebharati-7604"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg4NjczNzI0NTU5OTI3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[एपिग्राफिया-इण्डिका प्रथमः खण्डः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODg4NjczNzI0NTU5OTI3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -12533,19 +12532,6 @@ For the rule see above §60
  In the column Chara are entered the Asus by which the equivalent in right ascension of the several signs differs from the minutes of each sign. This difference is combined with the ascensional difference in the above table. As the former difference, however, whofirst introduced by Bhâskara, the amount of Chara must be added to the equivalents in oblique ascension if the date calculated is previous to Bhâskara, A. D. 1150.  
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

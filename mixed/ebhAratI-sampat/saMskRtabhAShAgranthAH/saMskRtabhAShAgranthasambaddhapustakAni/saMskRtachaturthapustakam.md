@@ -1,12 +1,11 @@
 +++
-TITLE = "संस्कृतचतुर्थपुस्तकम्"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "117"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"SERIAL NO." = "Ebharati-6990"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg3OTI1NDM3MzEwMTc2&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृतचतुर्थपुस्तकम्"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "117"
+language = "संस्कृतम् हिन्दी"
+"serial no." = "Ebharati-6990"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg3OTI1NDM3MzEwMTc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृतचतुर्थपुस्तकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDg3OTI1NDM3MzEwMTc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1623,8 +1622,5 @@ title = "संस्कृतचतुर्थपुस्तकम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

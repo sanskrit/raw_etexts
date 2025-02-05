@@ -1,11 +1,10 @@
 +++
-TITLE = "मैत्रेयोपनिषद् सुभाषितसङ्ग्रहः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "उपनिषत्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4152"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQxNjM1ODkzNjc1ODkz&pageno=MjI0MjQyNjk5NTk="
 title = "मैत्रेयोपनिषद् सुभाषितसङ्ग्रहः"
+domain = "सुभाषितानि"
+sub-domain = "उपनिषत्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4152"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQxNjM1ODkzNjc1ODkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मैत्रेयोपनिषद् सुभाषितसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQxNjM1ODkzNjc1ODkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -76,8 +75,5 @@ title = "मैत्रेयोपनिषद् सुभाषितसङ�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

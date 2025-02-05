@@ -1,13 +1,12 @@
 +++
-TITLE = "न्यायपरिशुद्धिः"
-AUTHOR = "वेङ्कटनाथः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4069"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODExNTE0MDE3ODA2MDkz"
 title = "न्यायपरिशुद्धिः"
+author = "वेङ्कटनाथः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4069"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODExNTE0MDE3ODA2MDkz"
 
 +++
 [[न्यायपरिशुद्धिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODExNTE0MDE3ODA2MDkz)]]

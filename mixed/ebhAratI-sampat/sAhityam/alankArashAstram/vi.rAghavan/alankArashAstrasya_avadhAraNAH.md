@@ -1,15 +1,14 @@
 +++
-TITLE = "अलङ्कारशास्त्रस्य अवधारणाः"
-AUTHOR = "वि.राघवन्"
-"PUBLISH YEAR" = "1942"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "334"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "सि.सुब्बरायुडु"
-"SERIAL NO." = "Ebharati-5913"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgyMTQ0MTg3NTI2NzY1&pageno=MjI0MjQyNjk5NTk="
 title = "अलङ्कारशास्त्रस्य अवधारणाः"
+author = "वि.राघवन्"
+"publish year" = "1942"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "334"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "सि.सुब्बरायुडु"
+"serial no." = "Ebharati-5913"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgyMTQ0MTg3NTI2NzY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अलङ्कारशास्त्रस्य अवधारणाः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjgyMTQ0MTg3NTI2NzY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5094,19 +5093,6 @@ Act I. P. 40. Jīvānanda Vīdyāsāgara's edn.
 
 [TABLE]
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

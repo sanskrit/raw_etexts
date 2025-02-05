@@ -1,13 +1,12 @@
 +++
-TITLE = "प्रतिमालक्षणम्"
-AUTHOR = "सम्बुद्धः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3785"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNzY1Nzc3NTQzMzYz&pageno=MjI0MjQyNjk5NTk="
 title = "प्रतिमालक्षणम्"
+author = "सम्बुद्धः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3785"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNzY1Nzc3NTQzMzYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रतिमालक्षणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNzY1Nzc3NTQzMzYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -210,19 +209,6 @@ title = "प्रतिमालक्षणम्"
 
 **----------------------------------------------**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

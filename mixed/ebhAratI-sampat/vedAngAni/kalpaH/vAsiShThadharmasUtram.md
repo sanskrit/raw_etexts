@@ -1,12 +1,11 @@
 +++
-TITLE = "वासिष्ठधर्मसूत्रम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3027"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzMTE4NTI2MDg1MDky&pageno=MjI0MjQyNjk5NTk="
 title = "वासिष्ठधर्मसूत्रम्"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3027"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzMTE4NTI2MDg1MDky&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वासिष्ठधर्मसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDkzMTE4NTI2MDg1MDky&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1581,8 +1580,5 @@ title = "वासिष्ठधर्मसूत्रम्"
 
 म्।
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

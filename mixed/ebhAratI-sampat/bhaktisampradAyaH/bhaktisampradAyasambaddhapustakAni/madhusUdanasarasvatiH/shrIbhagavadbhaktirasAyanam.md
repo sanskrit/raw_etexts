@@ -1,18 +1,17 @@
 +++
-TITLE = "श्रीभगवद्भक्तिरसायनम्"
-AUTHOR = "मधुसूदनसरस्वतिः"
-PUBLISHER = "शङ्करशर्मः"
-"PUBLISH YEAR" = "1927"
-DOMAIN = "भक्तिसम्प्रदायः"
-SUB-DOMAIN = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
-PAGES = "182"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "दामोदरशास्त्रिः"
-"PRIMARY COMMENTATOR" = "दामोदरशास्त्रिः"
-PRINTER = "ज्ञानमण्डल-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6170"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3MzQ3NTE4NjkyMjk1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीभगवद्भक्तिरसायनम्"
+author = "मधुसूदनसरस्वतिः"
+publisher = "शङ्करशर्मः"
+"publish year" = "1927"
+domain = "भक्तिसम्प्रदायः"
+sub-domain = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
+pages = "182"
+language = "संस्कृतम्"
+editor = "दामोदरशास्त्रिः"
+"primary commentator" = "दामोदरशास्त्रिः"
+printer = "ज्ञानमण्डल-मुद्रणालयः"
+"serial no." = "Ebharati-6170"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3MzQ3NTE4NjkyMjk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीभगवद्भक्तिरसायनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3MzQ3NTE4NjkyMjk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5131,19 +5130,6 @@ title = "श्रीभगवद्भक्तिरसायनम्"
 
 **इति ।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

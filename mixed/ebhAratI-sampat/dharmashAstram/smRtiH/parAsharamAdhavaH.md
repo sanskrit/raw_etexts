@@ -1,12 +1,11 @@
 +++
-TITLE = "पराशरमाधवः"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "579"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-6483"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQzMjI2&pageno=MjI0MjQyNjk5NTk="
 title = "पराशरमाधवः"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "579"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-6483"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQzMjI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पराशरमाधवः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQzMjI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -14135,8 +14134,5 @@ x     x     x    x
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

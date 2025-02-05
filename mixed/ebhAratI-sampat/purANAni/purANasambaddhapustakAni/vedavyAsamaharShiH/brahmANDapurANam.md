@@ -1,12 +1,11 @@
 +++
-TITLE = "ब्रह्माण्डपुराणम्"
-AUTHOR = "वेदव्यासमहर्षिः"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "पुराणसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2723"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAxNTExODY3NzkzMTYy"
 title = "ब्रह्माण्डपुराणम्"
+author = "वेदव्यासमहर्षिः"
+domain = "पुराणानि"
+sub-domain = "पुराणसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2723"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAxNTExODY3NzkzMTYy"
 
 +++
 [[ब्रह्माण्डपुराणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjAxNTExODY3NzkzMTYy)]]

@@ -1,19 +1,18 @@
 +++
-TITLE = "आपस्तम्ब-धर्मसूत्रम्"
-AUTHOR = "आपस्तम्बः"
-PUBLISHER = "गवर्नमेंट-ऑफ्-हिज्-हाईनेश्-दा-महाराजा-ऑफ-मैसुर"
-"PUBLISH YEAR" = "१८९८"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "धर्मसूत्राणि"
-PAGES = "470"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "ए-महादेव-शास्त्री"
-"SECOND EDITOR" = "के-रंगाचार्यः"
-"PRIMARY COMMENTATOR" = "हरदत्तः"
-PRINTER = "गवर्नमेंट्-ब्रांचे-प्रेस्"
-"SERIAL NO." = "Ebharati-4617"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDczMjYyMTU2NDEyMzQ0&pageno=MjI0MjQyNjk5NTk="
 title = "आपस्तम्ब-धर्मसूत्रम्"
+author = "आपस्तम्बः"
+publisher = "गवर्नमेंट-ऑफ्-हिज्-हाईनेश्-दा-महाराजा-ऑफ-मैसुर"
+"publish year" = "१८९८"
+domain = "धर्मशास्त्रम्"
+sub-domain = "धर्मसूत्राणि"
+pages = "470"
+language = "संस्कृतम्"
+editor = "ए-महादेव-शास्त्री"
+"second editor" = "के-रंगाचार्यः"
+"primary commentator" = "हरदत्तः"
+printer = "गवर्नमेंट्-ब्रांचे-प्रेस्"
+"serial no." = "Ebharati-4617"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDczMjYyMTU2NDEyMzQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आपस्तम्ब-धर्मसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDczMjYyMTU2NDEyMzQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8337,8 +8336,5 @@ eiterating the unique view whichthe author of the Padamañjarí holds as to the 
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

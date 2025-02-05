@@ -1,11 +1,10 @@
 +++
-TITLE = "उपनिषदनुक्रमणिका"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4347"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0ODA4NTY2NTkyNzE0&pageno=MjI0MjQyNjk5NTk="
 title = "उपनिषदनुक्रमणिका"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4347"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0ODA4NTY2NTkyNzE0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[उपनिषदनुक्रमणिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDM0ODA4NTY2NTkyNzE0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -343,8 +342,5 @@ title = "उपनिषदनुक्रमणिका"
 
 ----------------------------------------------------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

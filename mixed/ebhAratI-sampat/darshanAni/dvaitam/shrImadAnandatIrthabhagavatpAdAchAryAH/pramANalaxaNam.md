@@ -1,13 +1,12 @@
 +++
-TITLE = "प्रमाणलक्षणम्"
-AUTHOR = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3181"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzNDQxNzQwNDYzNTAz&pageno=MjI0MjQyNjk5NTk="
 title = "प्रमाणलक्षणम्"
+author = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3181"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzNDQxNzQwNDYzNTAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रमाणलक्षणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjgzNDQxNzQwNDYzNTAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -400,8 +399,5 @@ F.N.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,13 +1,12 @@
 +++
-TITLE = "यज्ञाधिकारः"
-AUTHOR = "भृगुमहर्षिः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "वैखानसम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4180"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY5MzIzMzkyNDYyMTA0"
 title = "यज्ञाधिकारः"
+author = "भृगुमहर्षिः"
+domain = "आगमः"
+sub-domain = "वैखानसम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4180"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY5MzIzMzkyNDYyMTA0"
 
 +++
 [[यज्ञाधिकारः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDY5MzIzMzkyNDYyMTA0)]]

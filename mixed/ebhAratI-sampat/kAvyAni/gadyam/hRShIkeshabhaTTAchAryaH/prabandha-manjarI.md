@@ -1,17 +1,16 @@
 +++
-TITLE = "प्रबन्ध-मञ्जरी"
-AUTHOR = "हृषीकेशभट्टाचार्यः"
-PUBLISHER = "काशीनाथः"
-"PUBLISH YEAR" = "1929"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "गद्यम्"
-PAGES = "276"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पद्मसिंहशर्मा"
-PRINTER = "जगदीश-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5313"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgwODg5NTMwODIwMDE1&pageno=MjI0MjQyNjk5NTk="
 title = "प्रबन्ध-मञ्जरी"
+author = "हृषीकेशभट्टाचार्यः"
+publisher = "काशीनाथः"
+"publish year" = "1929"
+domain = "काव्यानि"
+sub-domain = "गद्यम्"
+pages = "276"
+language = "संस्कृतम्"
+editor = "पद्मसिंहशर्मा"
+printer = "जगदीश-मुद्रणालयः"
+"serial no." = "Ebharati-5313"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgwODg5NTMwODIwMDE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रबन्ध-मञ्जरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjgwODg5NTMwODIwMDE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2522,19 +2521,6 @@ College, Sylhet, Assam*. )
 **"पद्म-परागः"** मूल्यञ्चास्य  
 पादोनं रूप्यक-त्रयम् २ ॥
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

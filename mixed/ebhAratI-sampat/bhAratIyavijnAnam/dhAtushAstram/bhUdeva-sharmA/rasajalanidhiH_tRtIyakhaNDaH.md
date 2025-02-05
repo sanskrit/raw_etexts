@@ -1,17 +1,16 @@
 +++
-TITLE = "रसजलनिधिः तृतीयखण्डः"
-AUTHOR = "भूदेव-शर्मा"
-PUBLISHER = "भूदेव-शर्मा"
-"PUBLISH YEAR" = "१९२९"
-DOMAIN = "भारतीयविज्ञानम्"
-SUB-DOMAIN = "धातुशास्त्रम्"
-PAGES = "460"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "भूदेव-शर्मा"
-PRINTER = "नबबिभाकर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-4645"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxMDUwNjQ1MjA5NTQ0&pageno=MjI0MjQyNjk5NTk="
 title = "रसजलनिधिः तृतीयखण्डः"
+author = "भूदेव-शर्मा"
+publisher = "भूदेव-शर्मा"
+"publish year" = "१९२९"
+domain = "भारतीयविज्ञानम्"
+sub-domain = "धातुशास्त्रम्"
+pages = "460"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "भूदेव-शर्मा"
+printer = "नबबिभाकर-मुद्रणालयः"
+"serial no." = "Ebharati-4645"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxMDUwNjQ1MjA5NTQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रसजलनिधिः तृतीयखण्डः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDkxMDUwNjQ1MjA5NTQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10132,8 +10131,5 @@ Mr. Mookerji's book should attract the attention of all those who are interested
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

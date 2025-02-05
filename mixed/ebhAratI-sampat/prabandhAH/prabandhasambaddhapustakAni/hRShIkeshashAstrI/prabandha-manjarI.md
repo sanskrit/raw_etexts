@@ -1,17 +1,16 @@
 +++
-TITLE = "प्रबन्ध-मञ्जरी"
-AUTHOR = "हृषीकेशशास्त्री"
-PUBLISHER = "काशीनाथशर्मा"
-"PUBLISH YEAR" = "1929"
-DOMAIN = "प्रबन्धाः"
-SUB-DOMAIN = "प्रबन्धसम्बद्धपुस्तकानि"
-PAGES = "275"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पद्मसिंहशर्मा"
-PRINTER = "जगदीश-यन्त्रालयः कलकत्ता"
-"SERIAL NO." = "Ebharati-6501"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI0NTg5MTc1MTcwNDI2&pageno=MjI0MjQyNjk5NTk="
 title = "प्रबन्ध-मञ्जरी"
+author = "हृषीकेशशास्त्री"
+publisher = "काशीनाथशर्मा"
+"publish year" = "1929"
+domain = "प्रबन्धाः"
+sub-domain = "प्रबन्धसम्बद्धपुस्तकानि"
+pages = "275"
+language = "संस्कृतम्"
+editor = "पद्मसिंहशर्मा"
+printer = "जगदीश-यन्त्रालयः कलकत्ता"
+"serial no." = "Ebharati-6501"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI0NTg5MTc1MTcwNDI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रबन्ध-मञ्जरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjI0NTg5MTc1MTcwNDI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2785,19 +2784,6 @@ College, Sylhet, Assam.)*
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

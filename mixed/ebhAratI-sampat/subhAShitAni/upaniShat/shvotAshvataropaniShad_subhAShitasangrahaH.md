@@ -1,11 +1,10 @@
 +++
-TITLE = "श्वोताश्वतरोपनिषद् सुभाषितसङ्ग्रहः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "उपनिषत्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4156"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM4NTA1MzgzMDY5ODkz&pageno=MjI0MjQyNjk5NTk="
 title = "श्वोताश्वतरोपनिषद् सुभाषितसङ्ग्रहः"
+domain = "सुभाषितानि"
+sub-domain = "उपनिषत्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4156"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM4NTA1MzgzMDY5ODkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्वोताश्वतरोपनिषद् सुभाषितसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjM4NTA1MzgzMDY5ODkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -90,8 +89,5 @@ title = "श्वोताश्वतरोपनिषद् सुभाष�
 
  --------------------------------------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

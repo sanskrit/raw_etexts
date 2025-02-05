@@ -1,12 +1,11 @@
 +++
-TITLE = "राजनिघण्टु"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "कोषसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3077"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0MjM5NzM0MDgzNTky&pageno=MjI0MjQyNjk5NTk="
 title = "राजनिघण्टु"
+domain = "कोषाः"
+sub-domain = "कोषसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3077"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0MjM5NzM0MDgzNTky&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[राजनिघण्टु	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk0MjM5NzM0MDgzNTky&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7326,8 +7325,5 @@ title = "राजनिघण्टु"
 \\Z  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

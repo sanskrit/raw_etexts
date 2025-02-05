@@ -1,18 +1,17 @@
 +++
-TITLE = "विदुरनीतिः"
-AUTHOR = "विदुरः"
-PUBLISHER = "भार्गव-पुस्तकालयः"
-"PUBLISH YEAR" = "1941"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "131"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "गुरुप्रसादशास्त्री"
-"COMMENTARY NAME" = "राज्यलक्ष्मी-सरला"
-PRINTER = "भार्गवभूषण-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6467"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcwMzQ3OTk2NzA4MDI2&pageno=MjI0MjQyNjk5NTk="
 title = "विदुरनीतिः"
+author = "विदुरः"
+publisher = "भार्गव-पुस्तकालयः"
+"publish year" = "1941"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "131"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "गुरुप्रसादशास्त्री"
+"commentary name" = "राज्यलक्ष्मी-सरला"
+printer = "भार्गवभूषण-यन्त्रालयः"
+"serial no." = "Ebharati-6467"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcwMzQ3OTk2NzA4MDI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विदुरनीतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDcwMzQ3OTk2NzA4MDI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2608,19 +2607,6 @@ title = "विदुरनीतिः"
 
 भार्गवभूषण प्रेस, गायघाट, वनारस।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

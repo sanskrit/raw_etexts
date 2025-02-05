@@ -1,13 +1,12 @@
 +++
-TITLE = "अष्टाङ्गनिघण्टु"
-AUTHOR = "वाहटः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2595"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkwNTgwOTQyMDExOTQy&pageno=MjI0MjQyNjk5NTk="
 title = "अष्टाङ्गनिघण्टु"
+author = "वाहटः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2595"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkwNTgwOTQyMDExOTQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अष्टाङ्गनिघण्टु	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDkwNTgwOTQyMDExOTQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -845,19 +844,6 @@ title = "अष्टाङ्गनिघण्टु"
 नासत्यावश्विनौ दस्रावाश्विनेयौ च तावुभौ ।  
 रक्षतां देवभिषजौ वैद्यपुत्रान् स्वरोचिषा ॥ ४०८ ॥
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

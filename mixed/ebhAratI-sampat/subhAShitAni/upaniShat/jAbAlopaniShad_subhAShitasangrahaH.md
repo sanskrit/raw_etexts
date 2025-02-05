@@ -1,12 +1,11 @@
 +++
-TITLE = "जाबालोपनिषद्  सुभाषितसङ्ग्रहः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "उपनिषत्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4145"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxOTM4NDI0NDA5Nzkz&pageno=MjI0MjQyNjk5NTk="
 title = "जाबालोपनिषद्  सुभाषितसङ्ग्रहः"
+domain = "सुभाषितानि"
+sub-domain = "उपनिषत्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4145"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxOTM4NDI0NDA5Nzkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जाबालोपनिषद्  सुभाषितसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDkxOTM4NDI0NDA5Nzkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -40,8 +39,5 @@ title = "जाबालोपनिषद्  सुभाषितसङ्ग
 ----------------------------------------
 -------------------------------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,12 +1,11 @@
 +++
-TITLE = "वेदपरिभाषाकारिकाशिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3988"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5ODc3NDEwMzM4Mjgz&pageno=MjI0MjQyNjk5NTk="
 title = "वेदपरिभाषाकारिकाशिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3988"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5ODc3NDEwMzM4Mjgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वेदपरिभाषाकारिकाशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM5ODc3NDEwMzM4Mjgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -55,8 +54,5 @@ title = "वेदपरिभाषाकारिकाशिक्षा"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

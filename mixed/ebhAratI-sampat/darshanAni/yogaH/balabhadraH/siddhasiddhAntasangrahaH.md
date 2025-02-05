@@ -1,14 +1,13 @@
 +++
-TITLE = "सिद्धसिद्धान्तसङ्ग्रहः"
-AUTHOR = "बलभद्रः"
-"PUBLISH YEAR" = "१९२५"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "54"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-1618"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk3ODMyMDI5MTIzNTUx&pageno=MjI0MjQyNjk5NTk="
 title = "सिद्धसिद्धान्तसङ्ग्रहः"
+author = "बलभद्रः"
+"publish year" = "१९२५"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "54"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-1618"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk3ODMyMDI5MTIzNTUx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सिद्धसिद्धान्तसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk3ODMyMDI5MTIzNTUx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1708,19 +1707,6 @@ No. 18 (Part I)- The Gorakṣa siddhanta Sangraha. Ed. with Prefatory Note by Go
 
  -----------------------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

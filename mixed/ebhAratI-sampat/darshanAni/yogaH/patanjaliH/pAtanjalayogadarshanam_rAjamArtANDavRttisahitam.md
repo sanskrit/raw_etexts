@@ -1,15 +1,14 @@
 +++
-TITLE = "पातञ्जलयोगदर्शनम् (राजमार्ताण्डवृत्तिसहितम्)"
-AUTHOR = "पतञ्जलिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "232"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "भोजदेवः"
-"COMMENTARY NAME" = "राजमार्ताण्डवृत्तिः"
-"SERIAL NO." = "Ebharati-1624"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIzMzk2Nzk4Nzk4NTUx&pageno=MjI0MjQyNjk5NTk="
 title = "पातञ्जलयोगदर्शनम् (राजमार्ताण्डवृत्तिसहितम्)"
+author = "पतञ्जलिः"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "232"
+language = "संस्कृतम्"
+"primary commentator" = "भोजदेवः"
+"commentary name" = "राजमार्ताण्डवृत्तिः"
+"serial no." = "Ebharati-1624"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIzMzk2Nzk4Nzk4NTUx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पातञ्जलयोगदर्शनम् (राजमार्ताण्डवृत्तिसहितम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODIzMzk2Nzk4Nzk4NTUx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3724,8 +3723,5 @@ title = "पातञ्जलयोगदर्शनम् (राजमार
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

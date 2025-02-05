@@ -1,12 +1,11 @@
 +++
-TITLE = "केनोपनिषद्भाष्यम्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4231"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg0Nzg2MTAxMDYxNjA0&pageno=MjI0MjQyNjk5NTk="
 title = "केनोपनिषद्भाष्यम्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4231"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg0Nzg2MTAxMDYxNjA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[केनोपनिषद्भाष्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjg0Nzg2MTAxMDYxNjA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -614,8 +613,5 @@ Section 2,3,4 text is not appearing, seems blank
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

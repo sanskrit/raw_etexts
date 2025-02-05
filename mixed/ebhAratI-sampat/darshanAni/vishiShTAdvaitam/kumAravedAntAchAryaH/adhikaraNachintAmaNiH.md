@@ -1,12 +1,11 @@
 +++
-TITLE = "अधिकरणचिन्तामणिः"
-AUTHOR = "कुमारवेदान्ताचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "विशिष्टाद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4196"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE3MjAyMzMyMDA4MjA0"
 title = "अधिकरणचिन्तामणिः"
+author = "कुमारवेदान्ताचार्यः"
+domain = "दर्शनानि"
+sub-domain = "विशिष्टाद्वैतम्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4196"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE3MjAyMzMyMDA4MjA0"
 
 +++
 [[अधिकरणचिन्तामणिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjE3MjAyMzMyMDA4MjA0)]]

@@ -1,12 +1,11 @@
 +++
-TITLE = "लघुकथासङ्ग्रहः-१२"
-DOMAIN = "सरलसंस्कृतम्"
-SUB-DOMAIN = "लघुकथासङ्ग्रहः"
-PAGES = "85"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8310"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI4NjI1NDc3ODI3Nzk3&pageno=MjI0MjQyNjk5NTk="
 title = "लघुकथासङ्ग्रहः-१२"
+domain = "सरलसंस्कृतम्"
+sub-domain = "लघुकथासङ्ग्रहः"
+pages = "85"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8310"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI4NjI1NDc3ODI3Nzk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लघुकथासङ्ग्रहः-१२	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDI4NjI1NDc3ODI3Nzk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1434,8 +1433,5 @@ title = "लघुकथासङ्ग्रहः-१२"
 
 ** तद्दिने एव मोहनं युक्ते उद्योगे नियोजितवान् महाराजः ।**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

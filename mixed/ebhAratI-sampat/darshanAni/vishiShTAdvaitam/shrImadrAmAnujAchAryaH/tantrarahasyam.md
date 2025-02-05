@@ -1,13 +1,12 @@
 +++
-TITLE = "तन्त्ररहस्यम्"
-AUTHOR = "श्रीमद्रामानुजाचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "विशिष्टाद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4219"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODE0ODc3NjQxODAwNTA0"
 title = "तन्त्ररहस्यम्"
+author = "श्रीमद्रामानुजाचार्यः"
+domain = "दर्शनानि"
+sub-domain = "विशिष्टाद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4219"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODE0ODc3NjQxODAwNTA0"
 
 +++
 [[तन्त्ररहस्यम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODE0ODc3NjQxODAwNTA0)]]

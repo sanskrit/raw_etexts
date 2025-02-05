@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रृङ्गारलीलतिलकः"
-PUBLISHER = "जे.सि. चटर्जी"
-"PUBLISH YEAR" = "1934"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "41"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "के. रामपिशरोती"
-PRINTER = "कल्कता-ओरिएण्टल्-प्रेस्"
-"SERIAL NO." = "Ebharati-5566"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4MDIzNTgwNTEzNDM1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रृङ्गारलीलतिलकः"
+publisher = "जे.सि. चटर्जी"
+"publish year" = "1934"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "41"
+language = "संस्कृतम्"
+editor = "के. रामपिशरोती"
+printer = "कल्कता-ओरिएण्टल्-प्रेस्"
+"serial no." = "Ebharati-5566"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4MDIzNTgwNTEzNDM1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रृङ्गारलीलतिलकः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjU4MDIzNTgwNTEzNDM1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1083,8 +1082,5 @@ Annamalainagar
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

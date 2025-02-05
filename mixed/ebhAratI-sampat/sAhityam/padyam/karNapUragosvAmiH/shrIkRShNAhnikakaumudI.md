@@ -1,13 +1,12 @@
 +++
-TITLE = "श्रीकृष्णाह्निककौमुदी"
-AUTHOR = "कर्णपूरगोस्वामिः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3227"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk3NTkyNDc4OTc3OTAz"
 title = "श्रीकृष्णाह्निककौमुदी"
+author = "कर्णपूरगोस्वामिः"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3227"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk3NTkyNDc4OTc3OTAz"
 
 +++
 [[श्रीकृष्णाह्निककौमुदी	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDk3NTkyNDc4OTc3OTAz)]]

@@ -1,15 +1,14 @@
 +++
-TITLE = "प्रासादमण्डनम्"
-AUTHOR = "सूत्रधारमण्डनः"
-"PUBLISH YEAR" = "1948"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "स्थापत्यवेदः"
-PAGES = "77"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "दुर्गामुद्रणालयः श्रीरङ्गम्"
-"SERIAL NO." = "Ebharati-4631"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyNjU2ODk1ODU1NDQ0&pageno=MjI0MjQyNjk5NTk="
 title = "प्रासादमण्डनम्"
+author = "सूत्रधारमण्डनः"
+"publish year" = "1948"
+domain = "उपवेदाः"
+sub-domain = "स्थापत्यवेदः"
+pages = "77"
+language = "संस्कृतम्"
+printer = "दुर्गामुद्रणालयः श्रीरङ्गम्"
+"serial no." = "Ebharati-4631"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyNjU2ODk1ODU1NDQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रासादमण्डनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjgyNjU2ODk1ODU1NDQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2375,19 +2374,6 @@ INTRODUCTION**
 **इति प्रासादमण्डनं समाप्तम् ॥**
 
 **------------------------------------------------------**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

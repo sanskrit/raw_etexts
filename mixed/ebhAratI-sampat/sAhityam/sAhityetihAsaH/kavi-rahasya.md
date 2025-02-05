@@ -1,15 +1,14 @@
 +++
-TITLE = "कवि-रहस्य"
-PUBLISHER = "हिन्दुस्थानी एकेडेमि"
-"PUBLISH YEAR" = "1929"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "साहित्येतिहासः"
-PAGES = "125"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "गङ्गानाथः"
-"SERIAL NO." = "Ebharati-5930"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY0MjY1NzE3NzUyOTY1&pageno=MjI0MjQyNjk5NTk="
 title = "कवि-रहस्य"
+publisher = "हिन्दुस्थानी एकेडेमि"
+"publish year" = "1929"
+domain = "साहित्यम्"
+sub-domain = "साहित्येतिहासः"
+pages = "125"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "गङ्गानाथः"
+"serial no." = "Ebharati-5930"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY0MjY1NzE3NzUyOTY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कवि-रहस्य	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDY0MjY1NzE3NzUyOTY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2266,8 +2265,5 @@ title = "कवि-रहस्य"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

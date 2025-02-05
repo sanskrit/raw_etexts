@@ -1,16 +1,15 @@
 +++
-TITLE = "साहित्यसारः"
-AUTHOR = "सर्वेश्वरः"
-PUBLISHER = "तिरुमलैः"
-"PUBLISH YEAR" = "1952"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "77"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "तिरुमलै-तिरुपति-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7963"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgzNjA0ODcwODE0NDY3&pageno=MjI0MjQyNjk5NTk="
 title = "साहित्यसारः"
+author = "सर्वेश्वरः"
+publisher = "तिरुमलैः"
+"publish year" = "1952"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "77"
+language = "संस्कृतम्"
+printer = "तिरुमलै-तिरुपति-यन्त्रालयः"
+"serial no." = "Ebharati-7963"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgzNjA0ODcwODE0NDY3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[साहित्यसारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjgzNjA0ODcwODE0NDY3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2502,19 +2501,6 @@ P. V. RAMANUJASWAMI,
 
 Printed at the Tirumalai-Tirupati Devasthanamns Press, Tirupati and published by the Director Sri Venkatesvara Oriental Institute.
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,16 +1,15 @@
 +++
-TITLE = "कर्मकाण्डचन्द्रिका"
-AUTHOR = "देवदत्तशर्मा"
-PUBLISHER = "जयनारायण-रामचन्द्रः"
-"PUBLISH YEAR" = "1825"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "90"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "हितचिन्तक-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5179"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1MzA1OTM1NDYxNzk0&pageno=MjI0MjQyNjk5NTk="
 title = "कर्मकाण्डचन्द्रिका"
+author = "देवदत्तशर्मा"
+publisher = "जयनारायण-रामचन्द्रः"
+"publish year" = "1825"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "90"
+language = "संस्कृतम् हिन्दी"
+printer = "हितचिन्तक-यन्त्रालयः"
+"serial no." = "Ebharati-5179"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1MzA1OTM1NDYxNzk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कर्मकाण्डचन्द्रिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODM1MzA1OTM1NDYxNzk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1854,19 +1853,6 @@ title = "कर्मकाण्डचन्द्रिका"
 
 **![](../books_images/U-IMG-1731342823dd.jpg)**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

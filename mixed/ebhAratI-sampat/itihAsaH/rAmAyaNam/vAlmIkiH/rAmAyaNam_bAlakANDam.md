@@ -1,15 +1,14 @@
 +++
-TITLE = "रामायणम् (बालकाण्डम्)"
-AUTHOR = "वाल्मीकिः"
-PUBLISHER = "गवर्नमेण्ट्-सेन्ट्रल-बुक्-डिपो"
-"PUBLISH YEAR" = "1883"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "232"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-6132"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ2ODg1&pageno=MjI0MjQyNjk5NTk="
 title = "रामायणम् (बालकाण्डम्)"
+author = "वाल्मीकिः"
+publisher = "गवर्नमेण्ट्-सेन्ट्रल-बुक्-डिपो"
+"publish year" = "1883"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "232"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-6132"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ2ODg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रामायणम् (बालकाण्डम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ2ODg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9390,8 +9389,5 @@ C. and M.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

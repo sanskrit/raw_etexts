@@ -1,19 +1,18 @@
 +++
-TITLE = "नागानन्दम्"
-AUTHOR = "श्रीहर्षः"
-PUBLISHER = "ओथोरिटि-आफ्-गवर्नमेण्ट्"
-"PUBLISH YEAR" = "1917"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "327"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गणपतिशास्त्री"
-"PRIMARY COMMENTATOR" = "शिवरामः"
-"COMMENTARY NAME" = "नागानन्दविमर्शिणी"
-PRINTER = "गवर्नमेण्ट्-प्रेस्-त्रिवेन्द्रम्"
-"SERIAL NO." = "Ebharati-5502"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ4NTA4NTIzMTcxODI1&pageno=MjI0MjQyNjk5NTk="
 title = "नागानन्दम्"
+author = "श्रीहर्षः"
+publisher = "ओथोरिटि-आफ्-गवर्नमेण्ट्"
+"publish year" = "1917"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "327"
+language = "संस्कृतम्"
+editor = "गणपतिशास्त्री"
+"primary commentator" = "शिवरामः"
+"commentary name" = "नागानन्दविमर्शिणी"
+printer = "गवर्नमेण्ट्-प्रेस्-त्रिवेन्द्रम्"
+"serial no." = "Ebharati-5502"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ4NTA4NTIzMTcxODI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नागानन्दम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQ4NTA4NTIzMTcxODI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6245,8 +6244,5 @@ title = "नागानन्दम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

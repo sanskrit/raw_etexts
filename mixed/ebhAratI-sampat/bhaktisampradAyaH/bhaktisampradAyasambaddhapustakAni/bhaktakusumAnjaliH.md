@@ -1,13 +1,12 @@
 +++
-TITLE = "भक्तकुसुमाञ्जलिः"
-"PUBLISH YEAR" = "1938"
-DOMAIN = "भक्तिसम्प्रदायः"
-SUB-DOMAIN = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
-PAGES = "244"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-6159"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQyMTk1&pageno=MjI0MjQyNjk5NTk="
 title = "भक्तकुसुमाञ्जलिः"
+"publish year" = "1938"
+domain = "भक्तिसम्प्रदायः"
+sub-domain = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
+pages = "244"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-6159"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQyMTk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भक्तकुसुमाञ्जलिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQyMTk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2940,8 +2939,5 @@ Bangalore.\]
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

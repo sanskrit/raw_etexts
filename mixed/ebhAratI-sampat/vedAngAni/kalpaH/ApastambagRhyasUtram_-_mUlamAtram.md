@@ -1,11 +1,10 @@
 +++
-TITLE = "आपस्तम्बगृह्यसूत्रम् - मूलमात्रम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2579"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAzNDc1NzQy"
 title = "आपस्तम्बगृह्यसूत्रम् - मूलमात्रम्"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2579"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAzNDc1NzQy"
 
 +++
 [[आपस्तम्बगृह्यसूत्रम् - मूलमात्रम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAzNDc1NzQy)]]

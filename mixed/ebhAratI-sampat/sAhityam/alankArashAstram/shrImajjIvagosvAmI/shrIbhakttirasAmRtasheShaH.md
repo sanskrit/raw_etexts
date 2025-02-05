@@ -1,15 +1,14 @@
 +++
-TITLE = "श्रीभक्त्तिरसामृतशेषः"
-AUTHOR = "श्रीमज्जीवगोस्वामी"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "351"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "हरिवासशास्त्री"
-PRINTER = "श्रीगदाघ्रगौरहरि-प्रेस"
-"SERIAL NO." = "Ebharati-8685"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI3MzM4&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीभक्त्तिरसामृतशेषः"
+author = "श्रीमज्जीवगोस्वामी"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "351"
+language = "संस्कृतम्"
+editor = "हरिवासशास्त्री"
+printer = "श्रीगदाघ्रगौरहरि-प्रेस"
+"serial no." = "Ebharati-8685"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI3MzM4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीभक्त्तिरसामृतशेषः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI3MzM4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8845,19 +8844,6 @@ title = "श्रीभक्त्तिरसामृतशेषः"
 
 **![](../books_images/U-IMG-1729524584भक्तिरसाशेष2-removebg-preview.png)**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

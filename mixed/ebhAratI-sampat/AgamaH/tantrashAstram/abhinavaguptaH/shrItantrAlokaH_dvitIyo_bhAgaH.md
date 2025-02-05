@@ -1,17 +1,16 @@
 +++
-TITLE = "श्रीतन्त्रालोकः (द्वितीयो भागः)"
-AUTHOR = "अभिनवगुप्तः"
-PUBLISHER = "वेङ्कटेश्वर-स्टीम्-प्रेस्"
-"PUBLISH YEAR" = "1921"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "271"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मधुसूदनकौलशास्त्री"
-PRINTER = "वेङ्कटेश्वर-स्टीम्-प्रेस्"
-"SERIAL NO." = "Ebharati-7889"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxNzY0NjUzNDEzNzU3&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीतन्त्रालोकः (द्वितीयो भागः)"
+author = "अभिनवगुप्तः"
+publisher = "वेङ्कटेश्वर-स्टीम्-प्रेस्"
+"publish year" = "1921"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "271"
+language = "संस्कृतम्"
+editor = "मधुसूदनकौलशास्त्री"
+printer = "वेङ्कटेश्वर-स्टीम्-प्रेस्"
+"serial no." = "Ebharati-7889"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxNzY0NjUzNDEzNzU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीतन्त्रालोकः (द्वितीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODUxNzY0NjUzNDEzNzU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4408,8 +4407,5 @@ title = "श्रीतन्त्रालोकः (द्वितीयो
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 **ओंतत्सत्।**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,17 +1,16 @@
 +++
-TITLE = "शाङ्करयोगसूत्रभाष्यविवरणम् (द्वितीयः भागः)"
-AUTHOR = "शङ्करभगवत्पादाः"
-PUBLISHER = "मुन्शीराम-मनोहरलाल-प्रकाशनम्"
-"PUBLISH YEAR" = "२०१०"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "243"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "टि एस् रुक्मिणी"
-EDITOR = "टि एस् रुक्मिणी"
-"SERIAL NO." = "Ebharati-1661"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5MjY2ODU3OTQ0OTUx&pageno=MjI0MjQyNjk5NTk="
 title = "शाङ्करयोगसूत्रभाष्यविवरणम् (द्वितीयः भागः)"
+author = "शङ्करभगवत्पादाः"
+publisher = "मुन्शीराम-मनोहरलाल-प्रकाशनम्"
+"publish year" = "२०१०"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "243"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "टि एस् रुक्मिणी"
+editor = "टि एस् रुक्मिणी"
+"serial no." = "Ebharati-1661"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5MjY2ODU3OTQ0OTUx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शाङ्करयोगसूत्रभाष्यविवरणम् (द्वितीयः भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5MjY2ODU3OTQ0OTUx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6767,8 +6766,5 @@ Rs 1600 (for the set)
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

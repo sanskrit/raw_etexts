@@ -1,12 +1,11 @@
 +++
-TITLE = "नवश्लोकी"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3748"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU2Nzk1NjE5Mzk3OTUz&pageno=MjI0MjQyNjk5NTk="
 title = "नवश्लोकी"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3748"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU2Nzk1NjE5Mzk3OTUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नवश्लोकी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjU2Nzk1NjE5Mzk3OTUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -62,8 +61,5 @@ title = "नवश्लोकी"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,13 +1,12 @@
 +++
-TITLE = "उदाहरणपद्यानि"
-AUTHOR = "जगन्नाथशर्मा"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3123"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA5MzgwNTYyNjk3OTky&pageno=MjI0MjQyNjk5NTk="
 title = "उदाहरणपद्यानि"
+author = "जगन्नाथशर्मा"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3123"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA5MzgwNTYyNjk3OTky&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[उदाहरणपद्यानि	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjA5MzgwNTYyNjk3OTky&pageno=MjI0MjQyNjk5NTk=)]]
@@ -789,8 +788,5 @@ title = "उदाहरणपद्यानि"
 
  \*\*\*\*\*\*\*\*\*\*\*\*
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

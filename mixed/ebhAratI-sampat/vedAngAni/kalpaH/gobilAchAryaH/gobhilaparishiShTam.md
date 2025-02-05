@@ -1,18 +1,17 @@
 +++
-TITLE = "गोभिलपरिशिष्टम्"
-AUTHOR = "गोबिलाचार्यः"
-PUBLISHER = "एशियाटिक-सोसायटी-आफ्-बेङ्गाल्"
-"PUBLISH YEAR" = "1909"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "310"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "चन्द्रकान्त-तर्कालङ्कारभट्टाचार्यः"
-"PRIMARY COMMENTATOR" = "चन्द्रकान्त-तर्कालङ्कारः"
-PRINTER = "उपेन्द्रनाथ-चक्रवर्ती"
-"SERIAL NO." = "Ebharati-7427"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkxODY0MjkwNDY5MjE3&pageno=MjI0MjQyNjk5NTk="
 title = "गोभिलपरिशिष्टम्"
+author = "गोबिलाचार्यः"
+publisher = "एशियाटिक-सोसायटी-आफ्-बेङ्गाल्"
+"publish year" = "1909"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "310"
+language = "संस्कृतम्"
+editor = "चन्द्रकान्त-तर्कालङ्कारभट्टाचार्यः"
+"primary commentator" = "चन्द्रकान्त-तर्कालङ्कारः"
+printer = "उपेन्द्रनाथ-चक्रवर्ती"
+"serial no." = "Ebharati-7427"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkxODY0MjkwNDY5MjE3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गोभिलपरिशिष्टम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDkxODY0MjkwNDY5MjE3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4390,19 +4389,6 @@ title = "गोभिलपरिशिष्टम्"
 सिद्धान्तवागीशभट्टाचार्य्यात्मजब्रह्ममयीसूनुश्रीचन्द्रकान्त-  
 तर्कालङ्कारभट्टाचार्य्यविरचितं श्राद्धकल्पपरिशिष्ट-  
 भाष्यं सम्पूर्णम्।**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

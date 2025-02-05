@@ -1,12 +1,11 @@
 +++
-TITLE = "तत्वबोधः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2551"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI1ODE0NDE0Njg4NDQy&pageno=MjI0MjQyNjk5NTk="
 title = "तत्वबोधः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2551"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI1ODE0NDE0Njg4NDQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तत्वबोधः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjI1ODE0NDE0Njg4NDQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -655,8 +654,5 @@ title = "तत्वबोधः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

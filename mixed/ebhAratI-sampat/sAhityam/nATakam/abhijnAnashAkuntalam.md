@@ -1,11 +1,10 @@
 +++
-TITLE = "अभिज्ञानशाकुन्तलम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2779"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1Mzc3NjYy"
 title = "अभिज्ञानशाकुन्तलम्"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2779"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1Mzc3NjYy"
 
 +++
 [[अभिज्ञानशाकुन्तलम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1Mzc3NjYy)]]

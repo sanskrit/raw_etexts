@@ -1,18 +1,17 @@
 +++
-TITLE = "लघुस्तुतिः"
-AUTHOR = "लघुभट्टारकः"
-PUBLISHER = "ट्रावन्कुर्-महाराजः"
-"PUBLISH YEAR" = "1917"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "68"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "टी.गणपति-शास्त्री"
-"PRIMARY COMMENTATOR" = "राघवानन्दः"
-PRINTER = "राजकीय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7082"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2MjM4ODgzNTQ4OTc2&pageno=MjI0MjQyNjk5NTk="
 title = "लघुस्तुतिः"
+author = "लघुभट्टारकः"
+publisher = "ट्रावन्कुर्-महाराजः"
+"publish year" = "1917"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "68"
+language = "संस्कृतम्"
+editor = "टी.गणपति-शास्त्री"
+"primary commentator" = "राघवानन्दः"
+printer = "राजकीय-मुद्रणालयः"
+"serial no." = "Ebharati-7082"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2MjM4ODgzNTQ4OTc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लघुस्तुतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDA2MjM4ODgzNTQ4OTc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -829,8 +828,5 @@ T. GAṆAPATI SÂSTRÎ.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

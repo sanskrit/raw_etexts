@@ -1,17 +1,16 @@
 +++
-TITLE = "चम्पूभारतम्"
-AUTHOR = "अनन्तकविः"
-PUBLISHER = "सत्यभामाबाई-पाण्डुरङ्गः"
-"PUBLISH YEAR" = "1950"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "चम्पू"
-PAGES = "496"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "रामचन्द्रयुधेन्द्रः"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8677"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2NTk0NTkzOTU5MjM4&pageno=MjI0MjQyNjk5NTk="
 title = "चम्पूभारतम्"
+author = "अनन्तकविः"
+publisher = "सत्यभामाबाई-पाण्डुरङ्गः"
+"publish year" = "1950"
+domain = "काव्यानि"
+sub-domain = "चम्पू"
+pages = "496"
+language = "संस्कृतम्"
+"primary commentator" = "रामचन्द्रयुधेन्द्रः"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-8677"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2NTk0NTkzOTU5MjM4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चम्पूभारतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk2NTk0NTkzOTU5MjM4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9186,19 +9185,6 @@ CC-0. Prof. Satya Vrat Shastri Collection, New Delhi. Digitized by $3 Foundation
 |   उद्युेक्त   |  उद्युक्ते   |
 | कृष्णार्जुनयो | कर्णार्जुनयो |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

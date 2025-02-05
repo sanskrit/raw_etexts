@@ -1,19 +1,18 @@
 +++
-TITLE = "अलङ्कारसूत्रम्"
-AUTHOR = "राजनक रुय्यक"
-PUBLISHER = "त्रवन्कोरस्य महाराजः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "285"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "त.गणपतिशास्त्रिणा"
-"PRIMARY COMMENTATOR" = "मङ्खुक"
-"SECONDARY COMMENTATOR" = "समुद्रबन्ध"
-"COMMENTARY NAME" = "अलङ्कारसर्वस्वम्"
-PRINTER = "गवर्नमेन्ट् प्रेस् त्रवन्कोर्"
-"SERIAL NO." = "Ebharati-5906"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMzNDQ3NzA4MzU5NjY1&pageno=MjI0MjQyNjk5NTk="
 title = "अलङ्कारसूत्रम्"
+author = "राजनक रुय्यक"
+publisher = "त्रवन्कोरस्य महाराजः"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "285"
+language = "संस्कृतम्"
+editor = "त.गणपतिशास्त्रिणा"
+"primary commentator" = "मङ्खुक"
+"secondary commentator" = "समुद्रबन्ध"
+"commentary name" = "अलङ्कारसर्वस्वम्"
+printer = "गवर्नमेन्ट् प्रेस् त्रवन्कोर्"
+"serial no." = "Ebharati-5906"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMzNDQ3NzA4MzU5NjY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अलङ्कारसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjMzNDQ3NzA4MzU5NjY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5871,8 +5870,5 @@ APPENDIX II.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

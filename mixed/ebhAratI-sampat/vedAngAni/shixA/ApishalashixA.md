@@ -1,12 +1,11 @@
 +++
-TITLE = "आपिशलशिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3508"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjczNjE0ODE4NDU3NjMz&pageno=MjI0MjQyNjk5NTk="
 title = "आपिशलशिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3508"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjczNjE0ODE4NDU3NjMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आपिशलशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjczNjE0ODE4NDU3NjMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -152,8 +151,5 @@ title = "आपिशलशिक्षा"
 स्पृष्टत्वमीषत्स्पृष्टत्वंसंवृतत्वंतथैव च । विवृतत्वं च वर्णानामन्तःकरणमुच्यते ॥ २६ ।  
 कालोविवारसंवारौश्वासनादावघोषता । घोषोऽल्पप्राणताचैवमहाप्राणःस्वरास्त्रयः ॥ २७ ।
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

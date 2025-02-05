@@ -1,12 +1,11 @@
 +++
-TITLE = "आर्यानित्यतासूत्रम्"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3648"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU0NTUzMjkyNDkxMDUz&pageno=MjI0MjQyNjk5NTk="
 title = "आर्यानित्यतासूत्रम्"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3648"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU0NTUzMjkyNDkxMDUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आर्यानित्यतासूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjU0NTUzMjkyNDkxMDUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -65,8 +64,5 @@ title = "आर्यानित्यतासूत्रम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

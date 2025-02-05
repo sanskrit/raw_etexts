@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीमद्वाल्मीकिरामायणम् (किष्किन्धाकाण्डम्)"
-PUBLISHER = "रामस्वामिअय्यर्"
-"PUBLISH YEAR" = "1940"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "311"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "कृष्णस्वामी"
-PRINTER = "स्कोलर्-प्रेस्"
-"SERIAL NO." = "Ebharati-8255"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ0Mjk3&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमद्वाल्मीकिरामायणम् (किष्किन्धाकाण्डम्)"
+publisher = "रामस्वामिअय्यर्"
+"publish year" = "1940"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "311"
+language = "संस्कृतम्"
+editor = "कृष्णस्वामी"
+printer = "स्कोलर्-प्रेस्"
+"serial no." = "Ebharati-8255"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ0Mjk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमद्वाल्मीकिरामायणम् (किष्किन्धाकाण्डम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ0Mjk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9487,8 +9486,5 @@ title = "श्रीमद्वाल्मीकिरामायणम् (
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

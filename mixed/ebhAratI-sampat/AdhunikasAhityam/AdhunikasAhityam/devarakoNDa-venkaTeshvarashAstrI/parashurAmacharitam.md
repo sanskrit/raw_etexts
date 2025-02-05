@@ -1,15 +1,14 @@
 +++
-TITLE = "परशुरामचरितम्"
-AUTHOR = "देवरकोण्ड-वेङ्कटेश्वरशास्त्री"
-"PUBLISH YEAR" = "1934"
-DOMAIN = "आधुनिकसाहित्यम्"
-SUB-DOMAIN = "आधुनिकसाहित्यम्"
-PAGES = "41"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीनिवास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6182"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA4MjU2MDc3ODQ0Mzk1&pageno=MjI0MjQyNjk5NTk="
 title = "परशुरामचरितम्"
+author = "देवरकोण्ड-वेङ्कटेश्वरशास्त्री"
+"publish year" = "1934"
+domain = "आधुनिकसाहित्यम्"
+sub-domain = "आधुनिकसाहित्यम्"
+pages = "41"
+language = "संस्कृतम्"
+printer = "श्रीनिवास-मुद्रणालयः"
+"serial no." = "Ebharati-6182"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA4MjU2MDc3ODQ0Mzk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[परशुरामचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDA4MjU2MDc3ODQ0Mzk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -350,19 +349,6 @@ Parvatipuram. Vizag Dt.
 
 
 **परशुरामचरितम् समाप्तम्।**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

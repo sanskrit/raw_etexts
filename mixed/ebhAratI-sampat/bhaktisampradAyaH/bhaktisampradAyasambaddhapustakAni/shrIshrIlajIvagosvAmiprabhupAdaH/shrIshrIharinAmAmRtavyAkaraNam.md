@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीश्रीहरिनामामृतव्याकरणम्"
-AUTHOR = "श्रीश्रीलजीवगोस्वामिप्रभुपादः"
-DOMAIN = "भक्तिसम्प्रदायः"
-SUB-DOMAIN = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2678"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExNjAyNzM5NzcwNzUy"
 title = "श्रीश्रीहरिनामामृतव्याकरणम्"
+author = "श्रीश्रीलजीवगोस्वामिप्रभुपादः"
+domain = "भक्तिसम्प्रदायः"
+sub-domain = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2678"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExNjAyNzM5NzcwNzUy"
 
 +++
 [[श्रीश्रीहरिनामामृतव्याकरणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjExNjAyNzM5NzcwNzUy)]]

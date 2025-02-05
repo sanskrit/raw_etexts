@@ -1,12 +1,11 @@
 +++
-TITLE = "शब्दरत्नप्रदीपः"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3068"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk2MDU3MTc0NjE1NDky&pageno=MjI0MjQyNjk5NTk="
 title = "शब्दरत्नप्रदीपः"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3068"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk2MDU3MTc0NjE1NDky&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शब्दरत्नप्रदीपः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk2MDU3MTc0NjE1NDky&pageno=MjI0MjQyNjk5NTk=)]]
@@ -904,8 +903,5 @@ title = "शब्दरत्नप्रदीपः"
 इति शब्दरत्नदीपे पञ्चमो मुक्तः समाप्तः ॥  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

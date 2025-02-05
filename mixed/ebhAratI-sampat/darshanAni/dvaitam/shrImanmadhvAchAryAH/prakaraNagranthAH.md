@@ -1,17 +1,16 @@
 +++
-TITLE = "प्रकरणग्रन्थाः"
-AUTHOR = "श्रीमन्मध्वाचार्याः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"PRIMARY COMMENTATOR" = "श्रीजयतीर्थभिक्षुः"
-"SECONDARY COMMENTATOR" = "श्रीराघवेन्द्रतीर्थयतिः"
-"TERTIARY COMMENTATOR" = "काशी-तिम्मणाचार्यः"
-"COMMENTARY NAME" = "टीका विवरणम् टिप्पणी"
-"SERIAL NO." = "Ebharati-3074"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODIyNTAyOTQ0MjkwNTky"
 title = "प्रकरणग्रन्थाः"
+author = "श्रीमन्मध्वाचार्याः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"primary commentator" = "श्रीजयतीर्थभिक्षुः"
+"secondary commentator" = "श्रीराघवेन्द्रतीर्थयतिः"
+"tertiary commentator" = "काशी-तिम्मणाचार्यः"
+"commentary name" = "टीका विवरणम् टिप्पणी"
+"serial no." = "Ebharati-3074"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODIyNTAyOTQ0MjkwNTky"
 
 +++
 [[प्रकरणग्रन्थाः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODIyNTAyOTQ0MjkwNTky)]]

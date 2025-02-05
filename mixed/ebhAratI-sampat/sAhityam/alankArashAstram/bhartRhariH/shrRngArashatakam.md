@@ -1,17 +1,16 @@
 +++
-TITLE = "श्रृङ्गारशतकम्"
-AUTHOR = "भर्तृहरिः"
-PUBLISHER = "हरिदासकम्पनी"
-"PUBLISH YEAR" = "1925"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "495"
-LANGUAGE = "संस्कृतम् आङ्ग्लम् हिन्दी"
-TRANSLATOR = "बाबुहरिदासः"
-PRINTER = "भोलानाथ-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5976"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc4MzE3NDQ1Mzc2Mzc1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रृङ्गारशतकम्"
+author = "भर्तृहरिः"
+publisher = "हरिदासकम्पनी"
+"publish year" = "1925"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "495"
+language = "संस्कृतम् आङ्ग्लम् हिन्दी"
+translator = "बाबुहरिदासः"
+printer = "भोलानाथ-यन्त्रालयः"
+"serial no." = "Ebharati-5976"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc4MzE3NDQ1Mzc2Mzc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रृङ्गारशतकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc4MzE3NDQ1Mzc2Mzc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7107,19 +7106,6 @@ own disease of pthisis and in order to cure phimself of that disease, the moon h
 
 **पता—हरिदास एण्ड कम्पनी, कलकत्ता।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

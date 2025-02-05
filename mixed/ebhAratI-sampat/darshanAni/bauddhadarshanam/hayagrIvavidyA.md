@@ -1,12 +1,11 @@
 +++
-TITLE = "हयग्रीवविद्या"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3716"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUxMDQ4NjMwMjI3NjUz&pageno=MjI0MjQyNjk5NTk="
 title = "हयग्रीवविद्या"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3716"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUxMDQ4NjMwMjI3NjUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हयग्रीवविद्या	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjUxMDQ4NjMwMjI3NjUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -35,8 +34,5 @@ title = "हयग्रीवविद्या"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

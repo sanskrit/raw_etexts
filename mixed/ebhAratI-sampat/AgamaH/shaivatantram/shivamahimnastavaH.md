@@ -1,12 +1,11 @@
 +++
-TITLE = "शिवमहिम्नस्तवः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4024"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIxNjA1OTc4ODgyNjgz&pageno=MjI0MjQyNjk5NTk="
 title = "शिवमहिम्नस्तवः"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4024"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIxNjA1OTc4ODgyNjgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शिवमहिम्नस्तवः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODIxNjA1OTc4ODgyNjgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -237,8 +236,5 @@ title = "शिवमहिम्नस्तवः"
 
 ----------------------------------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

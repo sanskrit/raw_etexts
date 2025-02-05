@@ -1,16 +1,15 @@
 +++
-TITLE = "तर्कशास्त्र-पारिभाषिक-शब्दावली"
-AUTHOR = "Dr.Raghu Vira"
-PUBLISHER = "Director International Academy of Indian Culture Nagpur"
-"PUBLISH YEAR" = "1949"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "कोषसम्बद्धपुस्तकानि"
-PAGES = "29"
-LANGUAGE = "English-Hindi"
-PRINTER = "आर्यभारती-मुद्रणालय नागपुर"
-"SERIAL NO." = "Ebharati-4641"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA1MDgwMTY1ODE1NTQ0&pageno=MjI0MjQyNjk5NTk="
 title = "तर्कशास्त्र-पारिभाषिक-शब्दावली"
+author = "Dr.Raghu Vira"
+publisher = "Director International Academy of Indian Culture Nagpur"
+"publish year" = "1949"
+domain = "कोषाः"
+sub-domain = "कोषसम्बद्धपुस्तकानि"
+pages = "29"
+language = "English-Hindi"
+printer = "आर्यभारती-मुद्रणालय नागपुर"
+"serial no." = "Ebharati-4641"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA1MDgwMTY1ODE1NTQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तर्कशास्त्र-पारिभाषिक-शब्दावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjA1MDgwMTY1ODE1NTQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1658,19 +1657,6 @@ working hypothesis **कार्यवाहक उपकल्पना**
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

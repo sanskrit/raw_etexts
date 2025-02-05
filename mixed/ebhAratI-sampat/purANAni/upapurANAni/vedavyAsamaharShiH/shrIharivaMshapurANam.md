@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीहरिवंशपुराणम्"
-AUTHOR = "वेदव्यासमहर्षिः"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "उपपुराणानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2894"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODYyOTY1NTIxMzE4Nzcy"
 title = "श्रीहरिवंशपुराणम्"
+author = "वेदव्यासमहर्षिः"
+domain = "पुराणानि"
+sub-domain = "उपपुराणानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2894"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODYyOTY1NTIxMzE4Nzcy"
 
 +++
 [[श्रीहरिवंशपुराणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODYyOTY1NTIxMzE4Nzcy)]]

@@ -1,16 +1,15 @@
 +++
-TITLE = "बुद्धशतकम् (भक्तिशतकम्)"
-AUTHOR = "रामचन्द्रभारती"
-PUBLISHER = "भिक्षुमहानाम"
-"PUBLISH YEAR" = "वि. २००१"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-PAGES = "60"
-TRANSLATOR = "भदन्त-आनन्द-कौशल्यायनः"
-PRINTER = "Time Table Press"
-"SERIAL NO." = "Ebharati-1324"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI3NjY5NDIwOTkwNzIx&pageno=MjI0MjQyNjk5NTk="
 title = "बुद्धशतकम् (भक्तिशतकम्)"
+author = "रामचन्द्रभारती"
+publisher = "भिक्षुमहानाम"
+"publish year" = "वि. २००१"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+pages = "60"
+translator = "भदन्त-आनन्द-कौशल्यायनः"
+printer = "Time Table Press"
+"serial no." = "Ebharati-1324"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI3NjY5NDIwOTkwNzIx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बुद्धशतकम् (भक्तिशतकम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODI3NjY5NDIwOTkwNzIx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1547,19 +1546,6 @@ title = "बुद्धशतकम् (भक्तिशतकम्)"
     ******************************----------******************
 
 ********************************
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

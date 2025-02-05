@@ -1,17 +1,16 @@
 +++
-TITLE = "भोजप्रबन्धः"
-AUTHOR = "बल्लालः"
-PUBLISHER = "गङ्गाविष्णुखेमराजः"
-"PUBLISH YEAR" = "1895"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "गद्यम्"
-PAGES = "289"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "बस्तिरामः"
-PRINTER = "लक्ष्मीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5321"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY0NzI5NTAwNjk3MDE1&pageno=MjI0MjQyNjk5NTk="
 title = "भोजप्रबन्धः"
+author = "बल्लालः"
+publisher = "गङ्गाविष्णुखेमराजः"
+"publish year" = "1895"
+domain = "काव्यानि"
+sub-domain = "गद्यम्"
+pages = "289"
+language = "संस्कृतम्"
+"primary commentator" = "बस्तिरामः"
+printer = "लक्ष्मीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-5321"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY0NzI5NTAwNjk3MDE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भोजप्रबन्धः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjY0NzI5NTAwNjk3MDE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3684,19 +3683,6 @@ title = "भोजप्रबन्धः"
 
 **कल्याण–मुंबई.**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

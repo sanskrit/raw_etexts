@@ -1,19 +1,18 @@
 +++
-TITLE = "पातञ्जलयोगसूत्रम् (योगसुधाकरसहितम्)"
-AUTHOR = "पतञ्जलिः"
-PUBLISHER = "जि.सीतारामः"
-"PUBLISH YEAR" = "१९८३"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "116"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पि वि शिवरामदीक्षितः"
-"PRIMARY COMMENTATOR" = "सदाशिवेन्द्रसरस्वती"
-"COMMENTARY NAME" = "योगसुधाकरः"
-PRINTER = "अनन्तेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1608"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc1NDE4NzU5MTYzNDUx&pageno=MjI0MjQyNjk5NTk="
 title = "पातञ्जलयोगसूत्रम् (योगसुधाकरसहितम्)"
+author = "पतञ्जलिः"
+publisher = "जि.सीतारामः"
+"publish year" = "१९८३"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "116"
+language = "संस्कृतम्"
+editor = "पि वि शिवरामदीक्षितः"
+"primary commentator" = "सदाशिवेन्द्रसरस्वती"
+"commentary name" = "योगसुधाकरः"
+printer = "अनन्तेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-1608"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc1NDE4NzU5MTYzNDUx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पातञ्जलयोगसूत्रम् (योगसुधाकरसहितम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njc1NDE4NzU5MTYzNDUx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2594,8 +2593,5 @@ Tiruchirapalli-620 002.*
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

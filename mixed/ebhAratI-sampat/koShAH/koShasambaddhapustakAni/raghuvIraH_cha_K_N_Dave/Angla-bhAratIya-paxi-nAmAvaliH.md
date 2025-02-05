@@ -1,16 +1,15 @@
 +++
-TITLE = "आङ्ग्ल-भारतीय-पक्षि-नामावलिः"
-AUTHOR = "रघुवीरः च K N Dave"
-PUBLISHER = "लोकेश्चन्द्रः"
-"PUBLISH YEAR" = "१९४९"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "कोषसम्बद्धपुस्तकानि"
-PAGES = "630"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "आर्यभारती-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-4624"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIzOTU5NDI2Njg4MzQ0&pageno=MjI0MjQyNjk5NTk="
 title = "आङ्ग्ल-भारतीय-पक्षि-नामावलिः"
+author = "रघुवीरः च K N Dave"
+publisher = "लोकेश्चन्द्रः"
+"publish year" = "१९४९"
+domain = "कोषाः"
+sub-domain = "कोषसम्बद्धपुस्तकानि"
+pages = "630"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "आर्यभारती-मुद्रणालयः"
+"serial no." = "Ebharati-4624"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIzOTU5NDI2Njg4MzQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आङ्ग्ल-भारतीय-पक्षि-नामावलिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODIzOTU5NDI2Njg4MzQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8291,19 +8290,6 @@ Page no. 492 is missing in the pdf.
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

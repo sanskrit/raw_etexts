@@ -1,12 +1,11 @@
 +++
-TITLE = "भाट्टभाषाप्रकाशः"
-AUTHOR = "नारायणतीर्थमुनिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2525"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU1NTExMjE1MDkzMjQy"
 title = "भाट्टभाषाप्रकाशः"
+author = "नारायणतीर्थमुनिः"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2525"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU1NTExMjE1MDkzMjQy"
 
 +++
 [[भाट्टभाषाप्रकाशः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDU1NTExMjE1MDkzMjQy)]]

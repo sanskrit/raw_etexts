@@ -1,16 +1,15 @@
 +++
-TITLE = "वीरकृष्णविजयम्"
-AUTHOR = "पुल्य उमामहेश्वरशास्त्री"
-PUBLISHER = "इङ्गुव श्रीकृष्णय्य"
-"PUBLISH YEAR" = "."
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "208"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "."
-"SERIAL NO." = "Ebharati-7948"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMDc3NDMxODc5MjY3&pageno=MjI0MjQyNjk5NTk="
 title = "वीरकृष्णविजयम्"
+author = "पुल्य उमामहेश्वरशास्त्री"
+publisher = "इङ्गुव श्रीकृष्णय्य"
+"publish year" = "."
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "208"
+language = "संस्कृतम्"
+printer = "."
+"serial no." = "Ebharati-7948"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMDc3NDMxODc5MjY3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वीरकृष्णविजयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMDc3NDMxODc5MjY3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6247,19 +6246,6 @@ title = "वीरकृष्णविजयम्"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,12 +1,11 @@
 +++
-TITLE = "जैमिनीयारण्यकम्"
-DOMAIN = "वेदः"
-SUB-DOMAIN = "सामवेदः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4362"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2NTM3ODE0"
 title = "जैमिनीयारण्यकम्"
+domain = "वेदः"
+sub-domain = "सामवेदः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4362"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2NTM3ODE0"
 
 +++
 [[जैमिनीयारण्यकम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2NTM3ODE0)]]

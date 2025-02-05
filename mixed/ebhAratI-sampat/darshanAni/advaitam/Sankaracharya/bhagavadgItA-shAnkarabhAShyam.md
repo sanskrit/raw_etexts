@@ -1,12 +1,11 @@
 +++
-TITLE = "भगवद्गीता-शाङ्करभाष्यम्"
-AUTHOR = "Sankaracharya"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2472"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgxNzYyMTE3MjAzNzMy"
 title = "भगवद्गीता-शाङ्करभाष्यम्"
+author = "Sankaracharya"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2472"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgxNzYyMTE3MjAzNzMy"
 
 +++
 [[भगवद्गीता-शाङ्करभाष्यम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDgxNzYyMTE3MjAzNzMy)]]

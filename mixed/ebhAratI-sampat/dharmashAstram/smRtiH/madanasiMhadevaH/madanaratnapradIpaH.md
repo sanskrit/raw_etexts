@@ -1,17 +1,16 @@
 +++
-TITLE = "मदनरत्नप्रदीपः"
-AUTHOR = "मदनसिंहदेवः"
-PUBLISHER = "के. माधवकृष्णशर्मा"
-"PUBLISH YEAR" = "1948"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "506"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-EDITOR = "पी.वि.केने"
-PRINTER = "रामचन्द्र-येशु-शेडगे"
-"SERIAL NO." = "Ebharati-5184"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ2NTE3MDI1NDQ2Nzk0&pageno=MjI0MjQyNjk5NTk="
 title = "मदनरत्नप्रदीपः"
+author = "मदनसिंहदेवः"
+publisher = "के. माधवकृष्णशर्मा"
+"publish year" = "1948"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "506"
+language = "संस्कृतम् आङ्ग्लम्"
+editor = "पी.वि.केने"
+printer = "रामचन्द्र-येशु-शेडगे"
+"serial no." = "Ebharati-5184"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ2NTE3MDI1NDQ2Nzk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मदनरत्नप्रदीपः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ2NTE3MDI1NDQ2Nzk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -15975,19 +15974,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

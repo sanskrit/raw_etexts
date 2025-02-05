@@ -1,17 +1,16 @@
 +++
-TITLE = "ज्ञानदीपिका"
-"PUBLISH YEAR" = "1947"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "महाभारतम्"
-PAGES = "44"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "एस्.के. बेल्वाल्करः"
-"PRIMARY COMMENTATOR" = "देवबोधः"
-"COMMENTARY NAME" = "महाभारतम् (भीष्मपर्व)"
-PRINTER = "भण्डार्कर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6096"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE1NDA4MzkwMzkxNTg1&pageno=MjI0MjQyNjk5NTk="
 title = "ज्ञानदीपिका"
+"publish year" = "1947"
+domain = "इतिहासः"
+sub-domain = "महाभारतम्"
+pages = "44"
+language = "संस्कृतम्"
+editor = "एस्.के. बेल्वाल्करः"
+"primary commentator" = "देवबोधः"
+"commentary name" = "महाभारतम् (भीष्मपर्व)"
+printer = "भण्डार्कर-मुद्रणालयः"
+"serial no." = "Ebharati-6096"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE1NDA4MzkwMzkxNTg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ज्ञानदीपिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE1NDA4MzkwMzkxNTg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -616,8 +615,5 @@ Page 20, footnote २ः for अनुमानेन read अनुमाने
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

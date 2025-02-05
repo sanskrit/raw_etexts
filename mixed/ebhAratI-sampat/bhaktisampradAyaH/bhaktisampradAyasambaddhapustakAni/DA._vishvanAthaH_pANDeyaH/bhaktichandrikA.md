@@ -1,17 +1,16 @@
 +++
-TITLE = "भक्तिचन्द्रिका"
-AUTHOR = "डा. विश्वनाथः पाण्डेयः"
-PUBLISHER = "चौखम्बा सुरभारती प्रकाशनम्"
-"PUBLISH YEAR" = "1995"
-DOMAIN = "भक्तिसम्प्रदायः"
-SUB-DOMAIN = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
-PAGES = "334"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "विजयशङ्करः तिवारी"
-PRINTER = "फूल प्रिण्चर्स् वाराणसी"
-"SERIAL NO." = "Ebharati-283"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI0NTA2NjM5NjYxNzI=&pageno=MjI0MjQyNjk5NTk="
 title = "भक्तिचन्द्रिका"
+author = "डा. विश्वनाथः पाण्डेयः"
+publisher = "चौखम्बा सुरभारती प्रकाशनम्"
+"publish year" = "1995"
+domain = "भक्तिसम्प्रदायः"
+sub-domain = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
+pages = "334"
+language = "संस्कृतम्"
+editor = "विजयशङ्करः तिवारी"
+printer = "फूल प्रिण्चर्स् वाराणसी"
+"serial no." = "Ebharati-283"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI0NTA2NjM5NjYxNzI=&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भक्तिचन्द्रिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjI0NTA2NjM5NjYxNzI=&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9679,19 +9678,6 @@ title = "भक्तिचन्द्रिका"
 
 ----------------------------------------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,12 +1,11 @@
 +++
-TITLE = "सङ्गीतरत्नाकर"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "790"
-LANGUAGE = "Sanskrit"
-"SERIAL NO." = "Ebharati-4685"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNzQ3NTkzMjQ3OTQ0&pageno=MjI0MjQyNjk5NTk="
 title = "सङ्गीतरत्नाकर"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "790"
+language = "Sanskrit"
+"serial no." = "Ebharati-4685"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNzQ3NTkzMjQ3OTQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सङ्गीतरत्नाकर	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNzQ3NTkzMjQ3OTQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9076,8 +9075,5 @@ D\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ----------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

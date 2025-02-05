@@ -1,17 +1,16 @@
 +++
-TITLE = "श्रीमहानयप्रकाशः"
-AUTHOR = "शितिकण्ठाचार्यः"
-PUBLISHER = "जम्मुकाश्मीरस्य महाराजः"
-"PUBLISH YEAR" = "1918"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-PAGES = "151"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मुकुन्दरामशास्त्री"
-PRINTER = "तत्वविवेचक-प्रेस् बाम्बे"
-"SERIAL NO." = "Ebharati-7686"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0NTUyOTExNzI4NzM3&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमहानयप्रकाशः"
+author = "शितिकण्ठाचार्यः"
+publisher = "जम्मुकाश्मीरस्य महाराजः"
+"publish year" = "1918"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+pages = "151"
+language = "संस्कृतम्"
+editor = "मुकुन्दरामशास्त्री"
+printer = "तत्वविवेचक-प्रेस् बाम्बे"
+"serial no." = "Ebharati-7686"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0NTUyOTExNzI4NzM3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमहानयप्रकाशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0NTUyOTExNzI4NzM3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2036,19 +2035,6 @@ the Research Department, Srinagar, Kashmir.
 
 श्रीमत्स्वात्मशिवार्पणं बोभवीतु।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

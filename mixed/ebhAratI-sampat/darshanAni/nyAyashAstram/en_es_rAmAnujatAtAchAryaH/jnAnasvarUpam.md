@@ -1,13 +1,12 @@
 +++
-TITLE = "ज्ञानस्वरूपम्"
-AUTHOR = "एन् एस् रामानुजताताचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4105"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEzMjQxNTc1NDYwNDkz&pageno=MjI0MjQyNjk5NTk="
 title = "ज्ञानस्वरूपम्"
+author = "एन् एस् रामानुजताताचार्यः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4105"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEzMjQxNTc1NDYwNDkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ज्ञानस्वरूपम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDEzMjQxNTc1NDYwNDkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -530,8 +529,5 @@ title = "ज्ञानस्वरूपम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीकृष्णकर्णामृतम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "चम्पू"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3228"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEyODM1MDc4NTc4OTAz&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीकृष्णकर्णामृतम्"
+domain = "साहित्यम्"
+sub-domain = "चम्पू"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3228"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEyODM1MDc4NTc4OTAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीकृष्णकर्णामृतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjEyODM1MDc4NTc4OTAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -41363,8 +41362,5 @@ title = "श्रीकृष्णकर्णामृतम्"
 
 श्री-कृष्ण-कर्णामृतं समाप्तम् ।
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

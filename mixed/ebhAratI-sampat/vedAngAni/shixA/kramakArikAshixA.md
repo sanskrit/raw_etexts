@@ -1,11 +1,10 @@
 +++
-TITLE = "क्रमकारिकाशिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-3551"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI1MDQ4NjU2Mjg4MDQz&pageno=MjI0MjQyNjk5NTk="
 title = "क्रमकारिकाशिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-3551"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI1MDQ4NjU2Mjg4MDQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[क्रमकारिकाशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjI1MDQ4NjU2Mjg4MDQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -206,8 +205,5 @@ kramakarika_shiksha
 ईशावास्यमिदं सर्व्वं द्विवेष्ट्यं सर्वसम्मतम् ९४  
        इति क्रमकारिका शिक्षा समाप्ता
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

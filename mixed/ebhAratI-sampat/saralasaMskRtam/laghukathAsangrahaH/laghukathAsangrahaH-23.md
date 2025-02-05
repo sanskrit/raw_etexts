@@ -1,12 +1,11 @@
 +++
-TITLE = "लघुकथासङ्ग्रहः-२३"
-DOMAIN = "सरलसंस्कृतम्"
-SUB-DOMAIN = "लघुकथासङ्ग्रहः"
-PAGES = "69"
-LANGUAGE = "संस्कॄतम्"
-"SERIAL NO." = "Ebharati-8321"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY0MzkxMzM3NDg3ODk3&pageno=MjI0MjQyNjk5NTk="
 title = "लघुकथासङ्ग्रहः-२३"
+domain = "सरलसंस्कृतम्"
+sub-domain = "लघुकथासङ्ग्रहः"
+pages = "69"
+language = "संस्कॄतम्"
+"serial no." = "Ebharati-8321"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY0MzkxMzM3NDg3ODk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लघुकथासङ्ग्रहः-२३	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjY0MzkxMzM3NDg3ODk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1128,8 +1127,5 @@ title = "लघुकथासङ्ग्रहः-२३"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

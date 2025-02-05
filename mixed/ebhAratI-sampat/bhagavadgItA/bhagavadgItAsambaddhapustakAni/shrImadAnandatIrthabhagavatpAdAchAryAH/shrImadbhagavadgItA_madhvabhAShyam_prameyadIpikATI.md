@@ -1,13 +1,12 @@
 +++
-TITLE = "श्रीमद्भगवद्गीता मध्वभाष्यम् प्रमेयदीपिकाटीका"
-AUTHOR = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
-DOMAIN = "भगवद्गीता"
-SUB-DOMAIN = "भगवद्गीतासम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3207"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDUzNzQ0OTQ5OTU4NzAz"
 title = "श्रीमद्भगवद्गीता मध्वभाष्यम् प्रमेयदीपिकाटीका"
+author = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
+domain = "भगवद्गीता"
+sub-domain = "भगवद्गीतासम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3207"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDUzNzQ0OTQ5OTU4NzAz"
 
 +++
 [[श्रीमद्भगवद्गीता मध्वभाष्यम् प्रमेयदीपिकाटीका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDUzNzQ0OTQ5OTU4NzAz)]]

@@ -1,16 +1,15 @@
 +++
-TITLE = "धर्मोत्तरप्रदीपः"
-AUTHOR = "दुर्वेकः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"PRIMARY COMMENTATOR" = "धर्मकीर्तिः"
-"SECONDARY COMMENTATOR" = "धर्मोत्तरः"
-"COMMENTARY NAME" = "न्यायबिन्दुः न्यायबिन्दुटीका"
-"SERIAL NO." = "Ebharati-3707"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUzODU2MDcwODU4NTUz&pageno=MjI0MjQyNjk5NTk="
 title = "धर्मोत्तरप्रदीपः"
+author = "दुर्वेकः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"primary commentator" = "धर्मकीर्तिः"
+"secondary commentator" = "धर्मोत्तरः"
+"commentary name" = "न्यायबिन्दुः न्यायबिन्दुटीका"
+"serial no." = "Ebharati-3707"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUzODU2MDcwODU4NTUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[धर्मोत्तरप्रदीपः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDUzODU2MDcwODU4NTUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10083,19 +10082,6 @@ title = "धर्मोत्तरप्रदीपः"
 
 ----------------------------------------------------------------------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

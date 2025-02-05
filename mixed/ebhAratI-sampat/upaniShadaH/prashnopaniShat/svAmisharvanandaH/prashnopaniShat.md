@@ -1,16 +1,15 @@
 +++
-TITLE = "प्रश्नोपनिषत्"
-AUTHOR = "स्वामिशर्वनन्दः"
-PUBLISHER = "श्रीरामकृष्णमठः"
-"PUBLISH YEAR" = "1950"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "प्रश्नोपनिषत्"
-PAGES = "75"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "वसन्त-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8496"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEzNzE2NTcwNDg1NTE4&pageno=MjI0MjQyNjk5NTk="
 title = "प्रश्नोपनिषत्"
+author = "स्वामिशर्वनन्दः"
+publisher = "श्रीरामकृष्णमठः"
+"publish year" = "1950"
+domain = "उपनिषदः"
+sub-domain = "प्रश्नोपनिषत्"
+pages = "75"
+language = "संस्कृतम्"
+printer = "वसन्त-यन्त्रालयः"
+"serial no." = "Ebharati-8496"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEzNzE2NTcwNDg1NTE4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रश्नोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjEzNzE2NTcwNDg1NTE4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -961,19 +960,6 @@ Obeisance to the highest Ṛṣis!
 
 **   ॐ तत्सत्॥हरिः ॐ॥**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

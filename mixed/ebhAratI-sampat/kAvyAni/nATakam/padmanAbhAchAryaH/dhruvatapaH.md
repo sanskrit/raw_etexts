@@ -1,15 +1,14 @@
 +++
-TITLE = "ध्रुवतपः"
-AUTHOR = "पद्मनाभाचार्यः"
-"PUBLISH YEAR" = "1905"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "222"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "श्रीवाणिविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5412"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY4Nzg5MzY2MTM1OTE1&pageno=MjI0MjQyNjk5NTk="
 title = "ध्रुवतपः"
+author = "पद्मनाभाचार्यः"
+"publish year" = "1905"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "222"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "श्रीवाणिविलास-मुद्रणालयः"
+"serial no." = "Ebharati-5412"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY4Nzg5MzY2MTM1OTE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ध्रुवतपः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDY4Nzg5MzY2MTM1OTE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5377,19 +5376,6 @@ I will at once seat you on the lap of the King, as on that account, you grieved 
 
 *![](../books_images/U-IMG-1723309665Screenshot2024-08-10223705.png)*
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

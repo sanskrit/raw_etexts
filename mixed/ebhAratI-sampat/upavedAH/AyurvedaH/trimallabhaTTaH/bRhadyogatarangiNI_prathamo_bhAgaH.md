@@ -1,17 +1,16 @@
 +++
-TITLE = "बृहद्योगतरङ्गिणी प्रथमो भागः"
-AUTHOR = "त्रिमल्लभट्टः"
-PUBLISHER = "हरिनारायण-आप्टे"
-"PUBLISH YEAR" = "१९१३"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "551"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "हनुमन्त-पाध्येशास्त्री"
-PRINTER = "आनन्दाश्रममुद्रणालयः"
-"SERIAL NO." = "Ebharati-3421"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY2NTIzNTQxMzA0ODIz&pageno=MjI0MjQyNjk5NTk="
 title = "बृहद्योगतरङ्गिणी प्रथमो भागः"
+author = "त्रिमल्लभट्टः"
+publisher = "हरिनारायण-आप्टे"
+"publish year" = "१९१३"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "551"
+language = "संस्कृतम्"
+editor = "हनुमन्त-पाध्येशास्त्री"
+printer = "आनन्दाश्रममुद्रणालयः"
+"serial no." = "Ebharati-3421"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY2NTIzNTQxMzA0ODIz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बृहद्योगतरङ्गिणी प्रथमो भागः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjY2NTIzNTQxMzA0ODIz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -21409,8 +21408,5 @@ WHATग. कण्डम् ।२ ग.विषतु । \_\_\_\_\_\_\_\_\_\_\
 
 ****
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

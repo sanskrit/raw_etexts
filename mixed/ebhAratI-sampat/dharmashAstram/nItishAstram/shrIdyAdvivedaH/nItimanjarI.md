@@ -1,16 +1,15 @@
 +++
-TITLE = "नीतिमञ्जरी"
-AUTHOR = "श्रीद्याद्विवेदः"
-PUBLISHER = "श्रीशालिग्रामशर्मा"
-"PUBLISH YEAR" = "1933"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "436"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "सिताराम-जयराम-जोशी"
-"SERIAL NO." = "Ebharati-8881"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg3OTQ5ODI2MjQ1MjU4&pageno=MjI0MjQyNjk5NTk="
 title = "नीतिमञ्जरी"
+author = "श्रीद्याद्विवेदः"
+publisher = "श्रीशालिग्रामशर्मा"
+"publish year" = "1933"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "436"
+language = "संस्कृतम्"
+editor = "सिताराम-जयराम-जोशी"
+"serial no." = "Ebharati-8881"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg3OTQ5ODI2MjQ1MjU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नीतिमञ्जरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjg3OTQ5ODI2MjQ1MjU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8437,19 +8436,6 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 **काशी।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

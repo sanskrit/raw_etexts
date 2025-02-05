@@ -1,13 +1,12 @@
 +++
-TITLE = "शिष्यलेखः"
-AUTHOR = "चन्द्रगोमिपादः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3804"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgyMzcxNjA3OTYxNTYz&pageno=MjI0MjQyNjk5NTk="
 title = "शिष्यलेखः"
+author = "चन्द्रगोमिपादः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3804"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgyMzcxNjA3OTYxNTYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शिष्यलेखः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODgyMzcxNjA3OTYxNTYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -271,19 +270,6 @@ title = "शिष्यलेखः"
 
 **-------------------------------------------------**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

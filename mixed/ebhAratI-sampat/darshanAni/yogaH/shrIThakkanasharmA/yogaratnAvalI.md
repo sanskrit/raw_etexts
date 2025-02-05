@@ -1,13 +1,12 @@
 +++
-TITLE = "योगरत्नावली"
-AUTHOR = "श्रीठक्कनशर्मा"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3867"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDc4NTQ0OTY0NzEyMTcz"
 title = "योगरत्नावली"
+author = "श्रीठक्कनशर्मा"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3867"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDc4NTQ0OTY0NzEyMTcz"
 
 +++
 [[योगरत्नावली	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDc4NTQ0OTY0NzEyMTcz)]]

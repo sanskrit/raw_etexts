@@ -1,16 +1,15 @@
 +++
-TITLE = "वेतालपञ्चविंशतिकथाः"
-PUBLISHER = "जीवानन्द विद्यासागर भट्टाचार्य"
-"PUBLISH YEAR" = "1907"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "134"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "जीवानन्द विद्यासागर भट्टाचार्य"
-PRINTER = "गोवर्धनयन्त्रम् कलिकाता"
-"SERIAL NO." = "Ebharati-5743"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ1OTIyMDI0NjAzMTU1&pageno=MjI0MjQyNjk5NTk="
 title = "वेतालपञ्चविंशतिकथाः"
+publisher = "जीवानन्द विद्यासागर भट्टाचार्य"
+"publish year" = "1907"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "134"
+language = "संस्कृतम्"
+editor = "जीवानन्द विद्यासागर भट्टाचार्य"
+printer = "गोवर्धनयन्त्रम् कलिकाता"
+"serial no." = "Ebharati-5743"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ1OTIyMDI0NjAzMTU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वेतालपञ्चविंशतिकथाः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQ1OTIyMDI0NjAzMTU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -492,8 +491,5 @@ title = "वेतालपञ्चविंशतिकथाः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

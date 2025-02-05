@@ -1,18 +1,17 @@
 +++
-TITLE = "अवतारवादावलिः प्रथमः भागः"
-AUTHOR = "स्वामी पुरुषोत्तमः"
-PUBLISHER = "V H Shastri for Shri Vallabhacharyajis Vidyavibhaga"
-"PUBLISH YEAR" = "वि. 1984"
-DOMAIN = "विमर्शः - Criticism"
-SUB-DOMAIN = "विमर्शसम्बद्धपुस्तकानि"
-PAGES = "355"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वसन्तरामः शास्त्री"
-"SECOND EDITOR" = "हरिशङ्करशास्त्री"
-PRINTER = "Manilal Iccharam Desai New Printing Press Fort Bombay"
-"SERIAL NO." = "Ebharati-311"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQyMzkzMTM4NDU4OTI=&pageno=MjI0MjQyNjk5NTk="
 title = "अवतारवादावलिः प्रथमः भागः"
+author = "स्वामी पुरुषोत्तमः"
+publisher = "V H Shastri for Shri Vallabhacharyajis Vidyavibhaga"
+"publish year" = "वि. 1984"
+domain = "विमर्शः - Criticism"
+sub-domain = "विमर्शसम्बद्धपुस्तकानि"
+pages = "355"
+language = "संस्कृतम्"
+editor = "वसन्तरामः शास्त्री"
+"second editor" = "हरिशङ्करशास्त्री"
+printer = "Manilal Iccharam Desai New Printing Press Fort Bombay"
+"serial no." = "Ebharati-311"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQyMzkzMTM4NDU4OTI=&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अवतारवादावलिः प्रथमः भागः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQyMzkzMTM4NDU4OTI=&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5413,19 +5412,6 @@ VAISNAWISM AND INDIA.
 | विनिवेयामि    | **विनिवेदयामि**           |
 | करुणयैव       | **करुणयैप**               |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

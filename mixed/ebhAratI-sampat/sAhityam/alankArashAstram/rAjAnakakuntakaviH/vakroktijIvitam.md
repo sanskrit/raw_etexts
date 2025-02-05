@@ -1,16 +1,15 @@
 +++
-TITLE = "वक्रोक्तिजीवितम्"
-AUTHOR = "राजानककुन्तकविः"
-PUBLISHER = "चौखम्बा संस्कृत संस्थान"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "523"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "राधेश्याम मिश्र"
-"COMMENTARY NAME" = "प्रकाश"
-"SERIAL NO." = "Ebharati-5739"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU4OTUyNTM0MjI5MDU1&pageno=MjI0MjQyNjk5NTk="
 title = "वक्रोक्तिजीवितम्"
+author = "राजानककुन्तकविः"
+publisher = "चौखम्बा संस्कृत संस्थान"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "523"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "राधेश्याम मिश्र"
+"commentary name" = "प्रकाश"
+"serial no." = "Ebharati-5739"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU4OTUyNTM0MjI5MDU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वक्रोक्तिजीवितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODU4OTUyNTM0MjI5MDU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10024,19 +10023,6 @@ x
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

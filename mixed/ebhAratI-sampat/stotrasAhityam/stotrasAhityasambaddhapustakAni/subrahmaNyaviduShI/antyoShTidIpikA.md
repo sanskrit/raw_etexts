@@ -1,16 +1,15 @@
 +++
-TITLE = "अन्त्योष्टिदीपिका"
-AUTHOR = "सुब्रह्मण्यविदुषी"
-"PUBLISH YEAR" = "1905"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "90"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पुरुषोत्तमशास्त्री सूर्यनारायणदीक्षितः"
-PRINTER = "प्राभाकरी-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7051"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI1NzEzNTA1OTY4Njc2&pageno=MjI0MjQyNjk5NTk="
 title = "अन्त्योष्टिदीपिका"
+author = "सुब्रह्मण्यविदुषी"
+"publish year" = "1905"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "90"
+language = "संस्कृतम्"
+editor = "पुरुषोत्तमशास्त्री सूर्यनारायणदीक्षितः"
+printer = "प्राभाकरी-यन्त्रालयः"
+"serial no." = "Ebharati-7051"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI1NzEzNTA1OTY4Njc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अन्त्योष्टिदीपिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjI1NzEzNTA1OTY4Njc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1734,8 +1733,5 @@ title = "अन्त्योष्टिदीपिका"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

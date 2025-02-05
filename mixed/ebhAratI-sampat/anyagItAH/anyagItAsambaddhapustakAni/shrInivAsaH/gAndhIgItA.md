@@ -1,16 +1,15 @@
 +++
-TITLE = "गान्धीगीता"
-AUTHOR = "श्रीनिवासः"
-"PUBLISH YEAR" = "1949"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-PAGES = "128"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "एस्. एन्. ताडपत्रीकारः"
-PRINTER = "आनन्दाश्रम-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6670"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3NDU5NjM5NDkyMDQ2&pageno=MjI0MjQyNjk5NTk="
 title = "गान्धीगीता"
+author = "श्रीनिवासः"
+"publish year" = "1949"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+pages = "128"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "एस्. एन्. ताडपत्रीकारः"
+printer = "आनन्दाश्रम-मुद्रणालयः"
+"serial no." = "Ebharati-6670"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3NDU5NjM5NDkyMDQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गान्धीगीता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3NDU5NjM5NDkyMDQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4147,19 +4146,6 @@ Hindus to West Bengal, has added to the difficulties of the Indian Government.
 
 ![](../books_images/U-IMG-1723916743kjkkkklk.jpg)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

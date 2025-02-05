@@ -1,17 +1,16 @@
 +++
-TITLE = "अलङ्कारशेखरः"
-AUTHOR = "केशवमिश्रः"
-PUBLISHER = "तुकाराम जावजी"
-"PUBLISH YEAR" = "1895"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "86"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शिवदत्त काशिनाथ पाण्डुरङ्ग परब"
-PRINTER = "तुकाराम जावजी"
-"SERIAL NO." = "Ebharati-5917"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc5MDE0NjY3OTAwODY1&pageno=MjI0MjQyNjk5NTk="
 title = "अलङ्कारशेखरः"
+author = "केशवमिश्रः"
+publisher = "तुकाराम जावजी"
+"publish year" = "1895"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "86"
+language = "संस्कृतम्"
+editor = "शिवदत्त काशिनाथ पाण्डुरङ्ग परब"
+printer = "तुकाराम जावजी"
+"serial no." = "Ebharati-5917"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc5MDE0NjY3OTAwODY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अलङ्कारशेखरः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDc5MDE0NjY3OTAwODY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3605,8 +3604,5 @@ title = "अलङ्कारशेखरः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

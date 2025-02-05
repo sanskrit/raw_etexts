@@ -1,12 +1,11 @@
 +++
-TITLE = "रसार्णवम्"
-AUTHOR = "गोविन्दभगवत्पादाः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2571"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY5NjYyOTMzNjA4NjQy"
 title = "रसार्णवम्"
+author = "गोविन्दभगवत्पादाः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2571"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY5NjYyOTMzNjA4NjQy"
 
 +++
 [[रसार्णवम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjY5NjYyOTMzNjA4NjQy)]]

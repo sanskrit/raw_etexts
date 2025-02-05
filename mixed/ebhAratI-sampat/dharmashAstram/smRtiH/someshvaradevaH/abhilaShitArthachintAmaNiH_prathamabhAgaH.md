@@ -1,16 +1,15 @@
 +++
-TITLE = "अभिलषितार्थचिन्तामणिः  प्रथमभागः"
-AUTHOR = "सोमेश्वरदेवः"
-"PUBLISH YEAR" = "१९२६"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "438"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "आर् शामशास्त्री"
-PRINTER = "GOVT. Branch Press"
-"SERIAL NO." = "Ebharati-4928"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE2NTU2Mjg0OTYwMzc0&pageno=MjI0MjQyNjk5NTk="
 title = "अभिलषितार्थचिन्तामणिः  प्रथमभागः"
+author = "सोमेश्वरदेवः"
+"publish year" = "१९२६"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "438"
+language = "संस्कृतम्"
+editor = "आर् शामशास्त्री"
+printer = "GOVT. Branch Press"
+"serial no." = "Ebharati-4928"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE2NTU2Mjg0OTYwMzc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अभिलषितार्थचिन्तामणिः  प्रथमभागः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjE2NTU2Mjg0OTYwMzc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8085,8 +8084,5 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 चिन्तामणौरजमानसोल्लासशास्त्रे राज्योप-  
 भोगकथने तृतीयं प्रकरणम्।**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

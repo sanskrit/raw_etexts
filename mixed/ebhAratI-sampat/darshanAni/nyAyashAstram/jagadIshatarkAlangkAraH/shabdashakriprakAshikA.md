@@ -1,13 +1,12 @@
 +++
-TITLE = "शब्दशक्रिप्रकाशिका"
-AUTHOR = "जगदीशतर्कालङ्ग्कारः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4039"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU0MjQxMzI4ODI3Nzgz"
 title = "शब्दशक्रिप्रकाशिका"
+author = "जगदीशतर्कालङ्ग्कारः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4039"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU0MjQxMzI4ODI3Nzgz"
 
 +++
 [[शब्दशक्रिप्रकाशिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODU0MjQxMzI4ODI3Nzgz)]]

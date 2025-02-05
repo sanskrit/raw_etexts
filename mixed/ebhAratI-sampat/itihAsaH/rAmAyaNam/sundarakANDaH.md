@@ -1,17 +1,16 @@
 +++
-TITLE = "सुन्दरकाण्डः"
-PUBLISHER = "रामस्वामिशास्त्री"
-"PUBLISH YEAR" = "1928"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "309"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "वाल्मीकिः"
-"COMMENTARY NAME" = "रामायणम्"
-PRINTER = "वाविल्ला-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6150"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAzNTk4MDk4NjczMDk1&pageno=MjI0MjQyNjk5NTk="
 title = "सुन्दरकाण्डः"
+publisher = "रामस्वामिशास्त्री"
+"publish year" = "1928"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "309"
+language = "संस्कृतम्"
+"primary commentator" = "वाल्मीकिः"
+"commentary name" = "रामायणम्"
+printer = "वाविल्ला-मुद्रणालयः"
+"serial no." = "Ebharati-6150"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAzNTk4MDk4NjczMDk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुन्दरकाण्डः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDAzNTk4MDk4NjczMDk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -13513,8 +13512,5 @@ OF
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

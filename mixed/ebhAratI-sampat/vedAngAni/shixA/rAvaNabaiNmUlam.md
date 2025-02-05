@@ -1,12 +1,11 @@
 +++
-TITLE = "रावणबैण्मूलम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3958"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcyNjA1NzIxMzU5OTcz&pageno=MjI0MjQyNjk5NTk="
 title = "रावणबैण्मूलम्"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3958"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcyNjA1NzIxMzU5OTcz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रावणबैण्मूलम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjcyNjA1NzIxMzU5OTcz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -64,8 +63,5 @@ title = "रावणबैण्मूलम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,13 +1,12 @@
 +++
-TITLE = "भाषावृत्ति:"
-AUTHOR = "पुरुषोत्तमदेवः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3283"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI0MTc4MzY2NTUxNTEz"
 title = "भाषावृत्ति:"
+author = "पुरुषोत्तमदेवः"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3283"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI0MTc4MzY2NTUxNTEz"
 
 +++
 [[भाषावृत्ति:	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjI0MTc4MzY2NTUxNTEz)]]

@@ -1,13 +1,12 @@
 +++
-TITLE = "पद्यपुष्पाञ्जलिः"
-AUTHOR = "सुब्रह्मण्यार्येण"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "157"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8903"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYwMzgyNjQ1NDU2NDU4&pageno=MjI0MjQyNjk5NTk="
 title = "पद्यपुष्पाञ्जलिः"
+author = "सुब्रह्मण्यार्येण"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "157"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8903"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYwMzgyNjQ1NDU2NDU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पद्यपुष्पाञ्जलिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjYwMzgyNjQ1NDU2NDU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3080,19 +3079,6 @@ children prove an unbearable burden to a mother? Strange! How does she desire ev
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,19 +1,18 @@
 +++
-TITLE = "कर्पूरमञ्जरी"
-AUTHOR = "राजशेखरः"
-PUBLISHER = "तुकारामजावजी"
-"PUBLISH YEAR" = "1900"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "329"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "दुर्गाप्रसादः  काशीनाथः"
-"PRIMARY COMMENTATOR" = "वासुदेवः"
-"COMMENTARY NAME" = "बालभारतम्"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5647"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMwNzU5MDg3MDkwMjQ1&pageno=MjI0MjQyNjk5NTk="
 title = "कर्पूरमञ्जरी"
+author = "राजशेखरः"
+publisher = "तुकारामजावजी"
+"publish year" = "1900"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "329"
+language = "संस्कृतम्"
+editor = "दुर्गाप्रसादः  काशीनाथः"
+"primary commentator" = "वासुदेवः"
+"commentary name" = "बालभारतम्"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-5647"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMwNzU5MDg3MDkwMjQ1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कर्पूरमञ्जरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDMwNzU5MDg3MDkwMjQ1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -12522,8 +12521,5 @@ PROPRIETOR OF JAVAJI DADAJI’S “NIRNAYA-SAGARA’ PRESS.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,17 +1,16 @@
 +++
-TITLE = "भेदोज्जीवनम् (शर्कराव्याख्यायुतम्)"
-AUTHOR = "श्रीव्यासतीर्थाः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"PRIMARY COMMENTATOR" = "भगवान् मुद्गलार्यः"
-"SECONDARY COMMENTATOR" = "वासुदेवाचार्यः  श्रीनिवासः"
-"TERTIARY COMMENTATOR" = "श्रीनाथः काशीतिरुमलाचार्यः श्रीनिवासः"
-"COMMENTARY NAME" = "भेदोज्जीवनप~भेदचिन्तारत्नम् भेदोज्जीवनटिप्पणी भेदसञ्जीवनी भेदोज्जीवनव्याख्यानम् शर्कराव्याख्या"
-"SERIAL NO." = "Ebharati-3152"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDQxNDExNjUxMDg1MjAz"
 title = "भेदोज्जीवनम् (शर्कराव्याख्यायुतम्)"
+author = "श्रीव्यासतीर्थाः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"primary commentator" = "भगवान् मुद्गलार्यः"
+"secondary commentator" = "वासुदेवाचार्यः  श्रीनिवासः"
+"tertiary commentator" = "श्रीनाथः काशीतिरुमलाचार्यः श्रीनिवासः"
+"commentary name" = "भेदोज्जीवनप~भेदचिन्तारत्नम् भेदोज्जीवनटिप्पणी भेदसञ्जीवनी भेदोज्जीवनव्याख्यानम् शर्कराव्याख्या"
+"serial no." = "Ebharati-3152"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDQxNDExNjUxMDg1MjAz"
 
 +++
 [[भेदोज्जीवनम् (शर्कराव्याख्यायुतम्)	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDQxNDExNjUxMDg1MjAz)]]

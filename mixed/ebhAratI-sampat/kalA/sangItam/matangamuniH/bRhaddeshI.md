@@ -1,17 +1,16 @@
 +++
-TITLE = "बृहद्देशी"
-AUTHOR = "मतङ्गमुनिः"
-PUBLISHER = "राजकीयमुद्रणयन्त्रालयः"
-"PUBLISH YEAR" = "१९२८"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "183"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "साम्बशिवशास्त्रिः"
-PRINTER = "दी-सुपरिंटेंडेंट-गवर्नमेंट"
-"SERIAL NO." = "Ebharati-4571"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY5MDExNDI4ODk3ODM0&pageno=MjI0MjQyNjk5NTk="
 title = "बृहद्देशी"
+author = "मतङ्गमुनिः"
+publisher = "राजकीयमुद्रणयन्त्रालयः"
+"publish year" = "१९२८"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "183"
+language = "संस्कृतम्"
+editor = "साम्बशिवशास्त्रिः"
+printer = "दी-सुपरिंटेंडेंट-गवर्नमेंट"
+"serial no." = "Ebharati-4571"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY5MDExNDI4ODk3ODM0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बृहद्देशी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjY5MDExNDI4ODk3ODM0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4399,19 +4398,6 @@ K. SAMBASIVA SASTRI
 विश्वावसुः
 
 शार्दूलः  
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

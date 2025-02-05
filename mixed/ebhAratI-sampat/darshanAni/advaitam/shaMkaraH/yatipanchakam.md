@@ -1,13 +1,12 @@
 +++
-TITLE = "यतिपञ्चकम्"
-AUTHOR = "शंकरः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2594"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2MjQ4MjUyNDEwOTQy&pageno=MjI0MjQyNjk5NTk="
 title = "यतिपञ्चकम्"
+author = "शंकरः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2594"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2MjQ4MjUyNDEwOTQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[यतिपञ्चकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY2MjQ4MjUyNDEwOTQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -82,8 +81,5 @@ title = "यतिपञ्चकम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

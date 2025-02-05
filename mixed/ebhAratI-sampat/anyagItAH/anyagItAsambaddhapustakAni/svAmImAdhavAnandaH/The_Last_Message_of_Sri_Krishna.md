@@ -1,16 +1,15 @@
 +++
-TITLE = "The Last Message of Sri Krishna"
-AUTHOR = "स्वामीमाधवानन्दः"
-PUBLISHER = "स्वामीपवित्रानन्दः"
-"PUBLISH YEAR" = "1939"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-PAGES = "396"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "आर्ट-प्रेस्-कलकत्ता"
-"SERIAL NO." = "Ebharati-6694"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4Mjc3NjQ4ODk1MjQ2&pageno=MjI0MjQyNjk5NTk="
 title = "The Last Message of Sri Krishna"
+author = "स्वामीमाधवानन्दः"
+publisher = "स्वामीपवित्रानन्दः"
+"publish year" = "1939"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+pages = "396"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "आर्ट-प्रेस्-कलकत्ता"
+"serial no." = "Ebharati-6694"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4Mjc3NjQ4ODk1MjQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[The Last Message of Sri Krishna	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY4Mjc3NjQ4ODk1MjQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9712,19 +9711,6 @@ drink,—that primeval, perfect Being, Krishna by name, I salute.
 
 [TABLE]
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

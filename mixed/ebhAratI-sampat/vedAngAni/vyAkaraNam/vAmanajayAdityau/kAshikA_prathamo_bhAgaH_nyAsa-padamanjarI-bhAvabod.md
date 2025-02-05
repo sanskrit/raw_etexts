@@ -1,22 +1,21 @@
 +++
-TITLE = "काशिका (प्रथमो भागः न्यास-पदमञ्जरी-भावबोधिनीसहिता)"
-AUTHOR = "वामनजयादित्यौ"
-PUBLISHER = "तारा-प्रिन्टिन्ग्-वर्क्स्"
-"PUBLISH YEAR" = "१९८६"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "जयशङ्करलालत्रिपाठी"
-EDITOR = "जयशङ्करलालत्रिपाठी"
-"SECOND EDITOR" = "सुधाकरमालवीयः"
-"PRIMARY COMMENTATOR" = "जिनेन्द्रबुद्धिः"
-"SECONDARY COMMENTATOR" = "हरदत्तमिश्रः"
-"TERTIARY COMMENTATOR" = "जयशङ्करलालत्रिपाठी"
-"COMMENTARY NAME" = "न्यास पदमञ्जरी भावबोधिनी-हिन्दीव्याख्या"
-PRINTER = "तारा-प्रिन्टिन्ग्-वर्क्स्"
-"SERIAL NO." = "Ebharati-1019"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEwODIwMTcxMDI4Nzk=&pageno=MjI0MjQyNjk5NTk="
 title = "काशिका (प्रथमो भागः न्यास-पदमञ्जरी-भावबोधिनीसहिता)"
+author = "वामनजयादित्यौ"
+publisher = "तारा-प्रिन्टिन्ग्-वर्क्स्"
+"publish year" = "१९८६"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम् हिन्दी"
+translator = "जयशङ्करलालत्रिपाठी"
+editor = "जयशङ्करलालत्रिपाठी"
+"second editor" = "सुधाकरमालवीयः"
+"primary commentator" = "जिनेन्द्रबुद्धिः"
+"secondary commentator" = "हरदत्तमिश्रः"
+"tertiary commentator" = "जयशङ्करलालत्रिपाठी"
+"commentary name" = "न्यास पदमञ्जरी भावबोधिनी-हिन्दीव्याख्या"
+printer = "तारा-प्रिन्टिन्ग्-वर्क्स्"
+"serial no." = "Ebharati-1019"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEwODIwMTcxMDI4Nzk=&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काशिका (प्रथमो भागः न्यास-पदमञ्जरी-भावबोधिनीसहिता)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODEwODIwMTcxMDI4Nzk=&pageno=MjI0MjQyNjk5NTk=)]]
@@ -90098,8 +90097,5 @@ mmmm\.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

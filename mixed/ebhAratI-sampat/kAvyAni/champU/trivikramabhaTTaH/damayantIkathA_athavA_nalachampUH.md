@@ -1,17 +1,16 @@
 +++
-TITLE = "दमयन्तीकथा अथवा नलचम्पूः"
-AUTHOR = "त्रिविक्रमभट्टः"
-"PUBLISH YEAR" = "1885"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "चम्पू"
-PAGES = "305"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "चण्डपालः"
-"COMMENTARY NAME" = "विषमपदप्रकाशः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5272"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg3ODQwMDkxMjkwNjA1&pageno=MjI0MjQyNjk5NTk="
 title = "दमयन्तीकथा अथवा नलचम्पूः"
+author = "त्रिविक्रमभट्टः"
+"publish year" = "1885"
+domain = "काव्यानि"
+sub-domain = "चम्पू"
+pages = "305"
+language = "संस्कृतम्"
+"primary commentator" = "चण्डपालः"
+"commentary name" = "विषमपदप्रकाशः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-5272"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg3ODQwMDkxMjkwNjA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दमयन्तीकथा अथवा नलचम्पूः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDg3ODQwMDkxMjkwNjA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7316,19 +7315,6 @@ _(^(\*))पुराणादौ किल श्रूयते— पुरा
 *^(**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**)*  
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

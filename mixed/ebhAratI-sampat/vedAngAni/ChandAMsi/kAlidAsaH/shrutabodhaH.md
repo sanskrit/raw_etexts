@@ -1,17 +1,16 @@
 +++
-TITLE = "श्रुतबोधः"
-AUTHOR = "कालिदासः"
-PUBLISHER = "आशुबोधविद्याभूषणः नित्यबोधविद्यारत्नः"
-"PUBLISH YEAR" = "1913"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "छन्दांसि"
-PAGES = "14"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "जीवानन्दविद्यासागरः"
-PRINTER = "वाचस्पतियन्त्रम् कलिकातानगरी"
-"SERIAL NO." = "Ebharati-8389"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxODc2Nzc0MjEzNTA4&pageno=MjI0MjQyNjk5NTk="
 title = "श्रुतबोधः"
+author = "कालिदासः"
+publisher = "आशुबोधविद्याभूषणः नित्यबोधविद्यारत्नः"
+"publish year" = "1913"
+domain = "वेदाङ्गानि"
+sub-domain = "छन्दांसि"
+pages = "14"
+language = "संस्कृतम्"
+editor = "जीवानन्दविद्यासागरः"
+printer = "वाचस्पतियन्त्रम् कलिकातानगरी"
+"serial no." = "Ebharati-8389"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxODc2Nzc0MjEzNTA4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रुतबोधः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODUxODc2Nzc0MjEzNTA4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -422,19 +421,6 @@ title = "श्रुतबोधः"
 
 समाप्तोऽयं ग्रन्थः।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

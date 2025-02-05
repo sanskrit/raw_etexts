@@ -1,12 +1,11 @@
 +++
-TITLE = "लघुकथासङ्ग्रहः ६"
-DOMAIN = "सरलसंस्कृतम्"
-SUB-DOMAIN = "लघुकथासङ्ग्रहः"
-PAGES = "75"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8296"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE5MjMxNzI4NDgzNjk3&pageno=MjI0MjQyNjk5NTk="
 title = "लघुकथासङ्ग्रहः ६"
+domain = "सरलसंस्कृतम्"
+sub-domain = "लघुकथासङ्ग्रहः"
+pages = "75"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8296"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE5MjMxNzI4NDgzNjk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लघुकथासङ्ग्रहः ६	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE5MjMxNzI4NDgzNjk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1262,8 +1261,5 @@ title = "लघुकथासङ्ग्रहः ६"
 
  “भवान् अपि दानधर्मादिकं मनःपूर्वकम् एव करोतु । अनिच्छया न करोतु । अहम् अपि इतः परम् एतत् तापसजीवनं मनःपूर्वकम् एव यापयामि" इति उक्त्वा कृष्णद्वैपायनः ततः निर्गत्य तपश्चरणार्थं देशान्तरं गतवान् ।
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,12 +1,11 @@
 +++
-TITLE = "सप्तशतिका प्रज्ञापारमिता"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3790"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDgzOTc3ODU3NTI4MzYz"
 title = "सप्तशतिका प्रज्ञापारमिता"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3790"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDgzOTc3ODU3NTI4MzYz"
 
 +++
 [[सप्तशतिका प्रज्ञापारमिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDgzOTc3ODU3NTI4MzYz)]]

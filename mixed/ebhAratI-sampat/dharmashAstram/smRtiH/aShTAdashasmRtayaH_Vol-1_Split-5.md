@@ -1,15 +1,14 @@
 +++
-TITLE = "अष्टादशस्मृतयः Vol-1 Split-5"
-PUBLISHER = "क्षेमराज-श्रीकृष्णदासश्रेष्ठी"
-"PUBLISH YEAR" = "1925"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "30"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीवेङ्कटेश्वर-स्टीम्-यंत्रालयः"
-"SERIAL NO." = "Ebharati-4924"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI5NTg2Nzk0NTg2Mjc0&pageno=MjI0MjQyNjk5NTk="
 title = "अष्टादशस्मृतयः Vol-1 Split-5"
+publisher = "क्षेमराज-श्रीकृष्णदासश्रेष्ठी"
+"publish year" = "1925"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "30"
+language = "संस्कृतम्"
+printer = "श्रीवेङ्कटेश्वर-स्टीम्-यंत्रालयः"
+"serial no." = "Ebharati-4924"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI5NTg2Nzk0NTg2Mjc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अष्टादशस्मृतयः Vol-1 Split-5	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODI5NTg2Nzk0NTg2Mjc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -207,8 +206,5 @@ L
 
 ----------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

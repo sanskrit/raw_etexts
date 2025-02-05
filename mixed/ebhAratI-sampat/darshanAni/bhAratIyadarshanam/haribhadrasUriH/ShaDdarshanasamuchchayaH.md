@@ -1,13 +1,12 @@
 +++
-TITLE = "षड्दर्शनसमुच्चयः"
-AUTHOR = "हरिभद्रसूरिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "भारतीयदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3617"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDczMDQ4ODA0ODEyNzQz"
 title = "षड्दर्शनसमुच्चयः"
+author = "हरिभद्रसूरिः"
+domain = "दर्शनानि"
+sub-domain = "भारतीयदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3617"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDczMDQ4ODA0ODEyNzQz"
 
 +++
 [[षड्दर्शनसमुच्चयः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDczMDQ4ODA0ODEyNzQz)]]

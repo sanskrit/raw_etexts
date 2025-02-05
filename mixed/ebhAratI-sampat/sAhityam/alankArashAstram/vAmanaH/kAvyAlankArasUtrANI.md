@@ -1,20 +1,19 @@
 +++
-TITLE = "काव्यालङ्कारसूत्राणी"
-AUTHOR = "वामनः"
-PUBLISHER = "चौखाम्ब संस्कृत संस्थानम्"
-"PUBLISH YEAR" = "1941"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "305"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "बेचन झा"
-EDITOR = "बेचन झा"
-"PRIMARY COMMENTATOR" = "गोपेन्द्रत्रिपुरहार भूपालः"
-"COMMENTARY NAME" = "काव्यालङ्कार कामधेनुः"
-PRINTER = "चौकाम्ब संस्कृत संस्थान"
-"SERIAL NO." = "Ebharati-5981"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg5NTI5NTI1MzUxNDc1&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यालङ्कारसूत्राणी"
+author = "वामनः"
+publisher = "चौखाम्ब संस्कृत संस्थानम्"
+"publish year" = "1941"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "305"
+language = "संस्कृतम् हिन्दी"
+translator = "बेचन झा"
+editor = "बेचन झा"
+"primary commentator" = "गोपेन्द्रत्रिपुरहार भूपालः"
+"commentary name" = "काव्यालङ्कार कामधेनुः"
+printer = "चौकाम्ब संस्कृत संस्थान"
+"serial no." = "Ebharati-5981"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg5NTI5NTI1MzUxNDc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यालङ्कारसूत्राणी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjg5NTI5NTI1MzUxNDc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7876,8 +7875,5 @@ Jadau Bhawan K. 37/116, Gopal Mandir Lane
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

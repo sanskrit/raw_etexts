@@ -1,16 +1,15 @@
 +++
-TITLE = "अलङ्कारमणिहारः तृतीयो भागः"
-AUTHOR = "श्रीकृष्णब्रह्मतन्त्र परकाल संयमीन्द्रः"
-"PUBLISH YEAR" = "1923"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "369"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "आर्.शामाशास्त्रिः"
-PRINTER = "गवर्नमेन्ट् ब्राञ्च् प्रेस् मैसूरु"
-"SERIAL NO." = "Ebharati-5880"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYzMTQ0NTA5NzU0NDY1&pageno=MjI0MjQyNjk5NTk="
 title = "अलङ्कारमणिहारः तृतीयो भागः"
+author = "श्रीकृष्णब्रह्मतन्त्र परकाल संयमीन्द्रः"
+"publish year" = "1923"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "369"
+language = "संस्कृतम्"
+editor = "आर्.शामाशास्त्रिः"
+printer = "गवर्नमेन्ट् ब्राञ्च् प्रेस् मैसूरु"
+"serial no." = "Ebharati-5880"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYzMTQ0NTA5NzU0NDY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अलङ्कारमणिहारः तृतीयो भागः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDYzMTQ0NTA5NzU0NDY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6739,8 +6738,5 @@ PRINTED AT THE GOVERNMENI BRANCH PRESS
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

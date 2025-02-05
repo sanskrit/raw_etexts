@@ -1,13 +1,12 @@
 +++
-TITLE = "नयमयूखमालिका"
-AUTHOR = "अप्पय्यदीक्षितः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "विशिष्टाद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4207"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDUzOTY4MTkxNjU4MzA0"
 title = "नयमयूखमालिका"
+author = "अप्पय्यदीक्षितः"
+domain = "दर्शनानि"
+sub-domain = "विशिष्टाद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4207"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDUzOTY4MTkxNjU4MzA0"
 
 +++
 [[नयमयूखमालिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDUzOTY4MTkxNjU4MzA0)]]

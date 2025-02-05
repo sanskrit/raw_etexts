@@ -1,19 +1,18 @@
 +++
-TITLE = "काव्यालङ्कारसारसङ्ग्रहः"
-AUTHOR = "उद्भटभट्टः"
-PUBLISHER = "वि.जि. परञ्ज्पे"
-"PUBLISH YEAR" = "1925"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "366"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "नारायण दासो बन्हट्टी"
-"PRIMARY COMMENTATOR" = "इन्दुराजः"
-"COMMENTARY NAME" = "लघुवृत्तिः"
-PRINTER = "अनन्तविनायकपट्टवर्धनः"
-"SERIAL NO." = "Ebharati-5977"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkyNjU5MDQ1OTY3Mzc1&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यालङ्कारसारसङ्ग्रहः"
+author = "उद्भटभट्टः"
+publisher = "वि.जि. परञ्ज्पे"
+"publish year" = "1925"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "366"
+language = "संस्कृतम्"
+editor = "नारायण दासो बन्हट्टी"
+"primary commentator" = "इन्दुराजः"
+"commentary name" = "लघुवृत्तिः"
+printer = "अनन्तविनायकपट्टवर्धनः"
+"serial no." = "Ebharati-5977"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkyNjU5MDQ1OTY3Mzc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यालङ्कारसारसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDkyNjU5MDQ1OTY3Mzc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6752,8 +6751,5 @@ Institute, Poona.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

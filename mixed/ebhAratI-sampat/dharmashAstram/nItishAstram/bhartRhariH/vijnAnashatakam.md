@@ -1,17 +1,16 @@
 +++
-TITLE = "विज्ञानशतकम्"
-AUTHOR = "भर्तृहरिः"
-"PUBLISH YEAR" = "१८९७"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "97"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-EDITOR = "के.बि.घुले"
-"COMMENTARY NAME" = "प्रज्ञा-टीका टिप्पणी"
-PRINTER = "गोरक्षण-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-4977"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkyNDM1ODkyMzc3Nzc0&pageno=MjI0MjQyNjk5NTk="
 title = "विज्ञानशतकम्"
+author = "भर्तृहरिः"
+"publish year" = "१८९७"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "97"
+language = "संस्कृतम् आङ्ग्लम्"
+editor = "के.बि.घुले"
+"commentary name" = "प्रज्ञा-टीका टिप्पणी"
+printer = "गोरक्षण-मुद्रणालयः"
+"serial no." = "Ebharati-4977"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkyNDM1ODkyMzc3Nzc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विज्ञानशतकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDkyNDM1ODkyMzc3Nzc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1445,19 +1444,6 @@ The description of the Saka given by Albiruni in his account. of the battle of K
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

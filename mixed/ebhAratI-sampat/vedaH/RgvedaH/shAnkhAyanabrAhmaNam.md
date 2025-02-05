@@ -1,15 +1,14 @@
 +++
-TITLE = "शाङ्खायनब्राह्मणम्"
-PUBLISHER = "हरिनारायणआपटे"
-"PUBLISH YEAR" = "1911"
-DOMAIN = "वेदः"
-SUB-DOMAIN = "ऋग्वेदः"
-PAGES = "116"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "आनन्दाश्रम-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-8555"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEyMDI5MzU4NzQyMTI4&pageno=MjI0MjQyNjk5NTk="
 title = "शाङ्खायनब्राह्मणम्"
+publisher = "हरिनारायणआपटे"
+"publish year" = "1911"
+domain = "वेदः"
+sub-domain = "ऋग्वेदः"
+pages = "116"
+language = "संस्कृतम्"
+printer = "आनन्दाश्रम-मुद्रणालयः"
+"serial no." = "Ebharati-8555"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEyMDI5MzU4NzQyMTI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शाङ्खायनब्राह्मणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDEyMDI5MzU4NzQyMTI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1150,8 +1149,5 @@ title = "शाङ्खायनब्राह्मणम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

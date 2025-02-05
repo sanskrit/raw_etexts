@@ -1,12 +1,11 @@
 +++
-TITLE = "एकादशमुखहनूमत्कवचम्"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2936"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk5MDU3NzY5NDQ4MTgy&pageno=MjI0MjQyNjk5NTk="
 title = "एकादशमुखहनूमत्कवचम्"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2936"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk5MDU3NzY5NDQ4MTgy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[एकादशमुखहनूमत्कवचम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjk5MDU3NzY5NDQ4MTgy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -76,8 +75,5 @@ title = "एकादशमुखहनूमत्कवचम्"
 संहृष्टचित्तापि तदा तदीयपादा ननामातिमुदा स्वभर्तुः ॥ २७॥  
 ॥ इत्यगस्त्यसारसंहितायामेकादशमुखहनुमत्कवचं सम्पूर्णम् ॥
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

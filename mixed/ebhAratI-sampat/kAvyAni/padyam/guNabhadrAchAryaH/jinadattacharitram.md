@@ -1,17 +1,16 @@
 +++
-TITLE = "जिनदत्तचरित्रम्"
-AUTHOR = "गुणभद्राचार्यः"
-PUBLISHER = "नाथुराम-प्रेमी"
-"PUBLISH YEAR" = "1916"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "100"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मनोहरलालशास्त्री"
-PRINTER = "चिन्तामणसखाराम-डिओल्"
-"SERIAL NO." = "Ebharati-5833"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI1NzQwMjgwNjQ5OTU1&pageno=MjI0MjQyNjk5NTk="
 title = "जिनदत्तचरित्रम्"
+author = "गुणभद्राचार्यः"
+publisher = "नाथुराम-प्रेमी"
+"publish year" = "1916"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "100"
+language = "संस्कृतम्"
+editor = "मनोहरलालशास्त्री"
+printer = "चिन्तामणसखाराम-डिओल्"
+"serial no." = "Ebharati-5833"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI1NzQwMjgwNjQ5OTU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जिनदत्तचरित्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjI1NzQwMjgwNjQ5OTU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3024,19 +3023,6 @@ Digambar Jain Grantbmala Samiti, Hirabag, Bombay.
 
 **———————**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

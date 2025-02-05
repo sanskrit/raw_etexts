@@ -1,13 +1,12 @@
 +++
-TITLE = "लघुभूषणकान्तिः"
-AUTHOR = "गोपालदेवः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3382"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAyMTc4MTkyOTU2NDIz&pageno=MjI0MjQyNjk5NTk="
 title = "लघुभूषणकान्तिः"
+author = "गोपालदेवः"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3382"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAyMTc4MTkyOTU2NDIz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लघुभूषणकान्तिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDAyMTc4MTkyOTU2NDIz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -701,8 +700,5 @@ title = "लघुभूषणकान्तिः"
 -0दुर्गागर्भजगोपालदेवविरचिता -0लघुवैयाकरणभूषणसार -0टीका कान्तिनामिका
 -0समाप्ता
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

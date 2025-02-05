@@ -1,16 +1,15 @@
 +++
-TITLE = "नलदमयन्तीयम्"
-AUTHOR = "कालीपदतर्काचार्यः"
-PUBLISHER = "संस्कृत-साहित्य-परिषत्"
-"PUBLISH YEAR" = "1926"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "154"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "सिद्देश्वर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5510"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIyNTQ3NTkyOTM5ODI1&pageno=MjI0MjQyNjk5NTk="
 title = "नलदमयन्तीयम्"
+author = "कालीपदतर्काचार्यः"
+publisher = "संस्कृत-साहित्य-परिषत्"
+"publish year" = "1926"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "154"
+language = "संस्कृतम्"
+printer = "सिद्देश्वर-यन्त्रालयः"
+"serial no." = "Ebharati-5510"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIyNTQ3NTkyOTM5ODI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नलदमयन्तीयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDIyNTQ3NTkyOTM5ODI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3788,8 +3787,5 @@ GISPATI ROY CHOUDHURI
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

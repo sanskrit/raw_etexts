@@ -1,12 +1,11 @@
 +++
-TITLE = "तन्त्रसारः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4005"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDExMDA5MDU5NDY0NDgz&pageno=MjI0MjQyNjk5NTk="
 title = "तन्त्रसारः"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4005"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDExMDA5MDU5NDY0NDgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तन्त्रसारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDExMDA5MDU5NDY0NDgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -885,8 +884,5 @@ title = "तन्त्रसारः"
 केवलमेतद्यागप्रधानतया इति ॥ २२ ५३  
 गुरुशरीरे सप्तमः कुलयागः सर्वोत्तमः सोऽपि प्राग्यागसाहित्येन सकृदेव कृतः सर्वं पूरयति इति शिवम् ॥ २२ ५४
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,16 +1,15 @@
 +++
-TITLE = "शुद्धिः"
-AUTHOR = "रामचन्द्रशास्त्री"
-PUBLISHER = "दुनचिन्दप्रिण्टर"
-"PUBLISH YEAR" = "1909"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "176"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "बोम्बे मैशीन प्रैस लाहौर"
-"SERIAL NO." = "Ebharati-7027"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY1NDc2&pageno=MjI0MjQyNjk5NTk="
 title = "शुद्धिः"
+author = "रामचन्द्रशास्त्री"
+publisher = "दुनचिन्दप्रिण्टर"
+"publish year" = "1909"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "176"
+language = "संस्कृतम् हिन्दी"
+printer = "बोम्बे मैशीन प्रैस लाहौर"
+"serial no." = "Ebharati-7027"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY1NDc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शुद्धिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY1NDc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3483,19 +3482,6 @@ title = "शुद्धिः"
 
 ![](../books_images/U-IMG-1731219316Screenshot2024-11-10114458.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

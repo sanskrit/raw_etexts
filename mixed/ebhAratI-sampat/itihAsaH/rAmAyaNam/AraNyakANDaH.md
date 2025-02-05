@@ -1,14 +1,13 @@
 +++
-TITLE = "आरण्यकाण्डः"
-"PUBLISH YEAR" = "1951"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "262"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "वाविळ्ळ-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8231"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg0NTczMTcwNTQxMDk3&pageno=MjI0MjQyNjk5NTk="
 title = "आरण्यकाण्डः"
+"publish year" = "1951"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "262"
+language = "संस्कृतम्"
+printer = "वाविळ्ळ-यन्त्रालयः"
+"serial no." = "Ebharati-8231"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg0NTczMTcwNTQxMDk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आरण्यकाण्डः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjg0NTczMTcwNTQxMDk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8513,8 +8512,5 @@ Madras.**
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

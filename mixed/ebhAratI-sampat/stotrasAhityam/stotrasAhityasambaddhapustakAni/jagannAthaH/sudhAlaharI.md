@@ -1,13 +1,12 @@
 +++
-TITLE = "सुधालहरी"
-AUTHOR = "जगन्नाथः"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2978"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE3MjM5OTA4Njc4NTgy&pageno=MjI0MjQyNjk5NTk="
 title = "सुधालहरी"
+author = "जगन्नाथः"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2978"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE3MjM5OTA4Njc4NTgy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुधालहरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjE3MjM5OTA4Njc4NTgy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -151,19 +150,6 @@ title = "सुधालहरी"
 सोऽयं सर्वान्तरात्मा तव दिशतुतरां वासरेशः शिवानि ॥ ३० ॥
 
 इति पण्डितराजश्रीजगन्नाथविरचिता सुधालहरी समाप्ता ।
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

@@ -1,15 +1,14 @@
 +++
-TITLE = "सनातनधर्मप्रदीपः"
-PUBLISHER = "सन्तोजिमहाराजाः"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "740"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "श्रीयुक्तानन्तकृष्णशास्त्री"
-PRINTER = "वणिक्-यन्त्रालयः-कलकत्ता"
-"SERIAL NO." = "Ebharati-6489"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUzNjcwNzE2OTE5MjI2&pageno=MjI0MjQyNjk5NTk="
 title = "सनातनधर्मप्रदीपः"
+publisher = "सन्तोजिमहाराजाः"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "740"
+language = "संस्कृतम्"
+editor = "श्रीयुक्तानन्तकृष्णशास्त्री"
+printer = "वणिक्-यन्त्रालयः-कलकत्ता"
+"serial no." = "Ebharati-6489"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUzNjcwNzE2OTE5MjI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सनातनधर्मप्रदीपः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODUzNjcwNzE2OTE5MjI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10904,8 +10903,5 @@ title = "सनातनधर्मप्रदीपः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

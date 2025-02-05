@@ -1,16 +1,15 @@
 +++
-TITLE = "अध्यात्मरामायणम्"
-AUTHOR = "उमादत्तत्रिपाठी"
-PUBLISHER = "रत्नाकरः"
-"PUBLISH YEAR" = "1893"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "578"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "मुंशीनवलकिशोरः"
-"SERIAL NO." = "Ebharati-6115"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM1MDE0MjIwNzEwNzg1&pageno=MjI0MjQyNjk5NTk="
 title = "अध्यात्मरामायणम्"
+author = "उमादत्तत्रिपाठी"
+publisher = "रत्नाकरः"
+"publish year" = "1893"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "578"
+language = "संस्कृतम् हिन्दी"
+printer = "मुंशीनवलकिशोरः"
+"serial no." = "Ebharati-6115"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM1MDE0MjIwNzEwNzg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अध्यात्मरामायणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDM1MDE0MjIwNzEwNzg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -18392,8 +18391,5 @@ title = "अध्यात्मरामायणम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

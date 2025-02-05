@@ -1,15 +1,14 @@
 +++
-TITLE = "वेदोक्तशिवार्चनपद्धतिः"
-PUBLISHER = "क्षेमराज-श्रीकृष्णदासः"
-"PUBLISH YEAR" = "1926"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "50"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीवेङ्कटेश्वर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7146"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2NzQzODQxOTg5NTg2&pageno=MjI0MjQyNjk5NTk="
 title = "वेदोक्तशिवार्चनपद्धतिः"
+publisher = "क्षेमराज-श्रीकृष्णदासः"
+"publish year" = "1926"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "50"
+language = "संस्कृतम्"
+printer = "श्रीवेङ्कटेश्वर-यन्त्रालयः"
+"serial no." = "Ebharati-7146"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2NzQzODQxOTg5NTg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वेदोक्तशिवार्चनपद्धतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE2NzQzODQxOTg5NTg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -246,8 +245,5 @@ title = "वेदोक्तशिवार्चनपद्धतिः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

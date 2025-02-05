@@ -1,13 +1,12 @@
 +++
-TITLE = "विध्यर्थविमर्शः"
-AUTHOR = "एन्.एस्. रामानुजतानताचार्यः"
-DOMAIN = "लेखाः"
-SUB-DOMAIN = "न्यायदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3680"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY5MjExMjcxNjYyMzUz&pageno=MjI0MjQyNjk5NTk="
 title = "विध्यर्थविमर्शः"
+author = "एन्.एस्. रामानुजतानताचार्यः"
+domain = "लेखाः"
+sub-domain = "न्यायदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3680"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY5MjExMjcxNjYyMzUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विध्यर्थविमर्शः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDY5MjExMjcxNjYyMzUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -227,8 +226,5 @@ title = "विध्यर्थविमर्शः"
  अत्र इष्टसाधनत्वपरिष्कारविषये बलवदनिष्टाननुबन्धित्वपरिष्कारविषये त्रिषुविशिष्टशक्तिर्वा प्रत्येकशक्तिर्वा इति विषये च बहु पराक्रमन्त गदाधरभट्टाचार्यप्रभृतय इति तादृशं परिष्कारमार्गं पिष्टपेषणभिया परित्यज्य इष्टसाधनत्वादीनां त्रयाणां लिङर्थत्वे खण्डदेवादिभिरुद्धावितानां दोषाणां परिहारो न्यायनये अस्ति न वेति विमर्शार्थमेवायं लघुर्ग्रन्थोऽस्माभिः न्यवन्धि।  
   -----------\*\*\*\*\*-----------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

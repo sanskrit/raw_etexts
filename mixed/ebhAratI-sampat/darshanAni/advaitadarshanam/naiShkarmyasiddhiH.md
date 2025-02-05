@@ -1,14 +1,13 @@
 +++
-TITLE = "नैष्कर्म्यसिद्धिः"
-PUBLISHER = "श्रेष्ठिप्रवर-श्रीगौरीशङ्कर-गोयनका"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतदर्शनम्"
-PAGES = "202"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "अच्युत-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-8868"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyODk3Nzc2NDkyMTU4&pageno=MjI0MjQyNjk5NTk="
 title = "नैष्कर्म्यसिद्धिः"
+publisher = "श्रेष्ठिप्रवर-श्रीगौरीशङ्कर-गोयनका"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतदर्शनम्"
+pages = "202"
+language = "संस्कृतम्"
+printer = "अच्युत-मुद्रणालयः"
+"serial no." = "Ebharati-8868"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyODk3Nzc2NDkyMTU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नैष्कर्म्यसिद्धिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjkyODk3Nzc2NDkyMTU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4749,8 +4748,5 @@ title = "नैष्कर्म्यसिद्धिः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

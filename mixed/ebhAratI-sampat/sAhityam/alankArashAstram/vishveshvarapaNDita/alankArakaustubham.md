@@ -1,18 +1,17 @@
 +++
-TITLE = "अलङ्कारकौस्तुभम्"
-AUTHOR = "विश्वेश्वरपण्डित"
-PUBLISHER = "तुकाराम जावजी"
-"PUBLISH YEAR" = "1898"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "433"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शिवदत्तशर्मा काशिनाथ पाण्डुरङ्ग परब"
-"COMMENTARY NAME" = "स्वोपज्ञा"
-PRINTER = "तुकाराम जावजी"
-"SERIAL NO." = "Ebharati-5882"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAyNjI5Nzk4OTQ2NDY1&pageno=MjI0MjQyNjk5NTk="
 title = "अलङ्कारकौस्तुभम्"
+author = "विश्वेश्वरपण्डित"
+publisher = "तुकाराम जावजी"
+"publish year" = "1898"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "433"
+language = "संस्कृतम्"
+editor = "शिवदत्तशर्मा काशिनाथ पाण्डुरङ्ग परब"
+"commentary name" = "स्वोपज्ञा"
+printer = "तुकाराम जावजी"
+"serial no." = "Ebharati-5882"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAyNjI5Nzk4OTQ2NDY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अलङ्कारकौस्तुभम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDAyNjI5Nzk4OTQ2NDY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10136,8 +10135,5 @@ title = "अलङ्कारकौस्तुभम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

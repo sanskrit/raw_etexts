@@ -1,16 +1,15 @@
 +++
-TITLE = "सुभाषितरत्नाकरः"
-PUBLISHER = "गोपालनारायण-एण्ड-कम्पनी"
-"PUBLISH YEAR" = "1888"
-DOMAIN = "सुभाषितसंग्रहः"
-SUB-DOMAIN = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
-PAGES = "422"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "कृष्णशास्त्री-भटवाडेकरः"
-PRINTER = "जगदीश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7198"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU1MzU5MjU5MDg5MDk2&pageno=MjI0MjQyNjk5NTk="
 title = "सुभाषितरत्नाकरः"
+publisher = "गोपालनारायण-एण्ड-कम्पनी"
+"publish year" = "1888"
+domain = "सुभाषितसंग्रहः"
+sub-domain = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
+pages = "422"
+language = "संस्कृतम्"
+editor = "कृष्णशास्त्री-भटवाडेकरः"
+printer = "जगदीश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-7198"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU1MzU5MjU5MDg5MDk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुभाषितरत्नाकरः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjU1MzU5MjU5MDg5MDk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -13408,8 +13407,5 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

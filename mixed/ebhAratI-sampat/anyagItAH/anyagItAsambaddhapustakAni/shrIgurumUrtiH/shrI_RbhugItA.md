@@ -1,12 +1,11 @@
 +++
-TITLE = "श्री ऋभुगीता"
-AUTHOR = "श्रीगुरुमूर्तिः"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-3585"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc4MjgwOTI1NjQxNDQz"
 title = "श्री ऋभुगीता"
+author = "श्रीगुरुमूर्तिः"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-3585"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc4MjgwOTI1NjQxNDQz"
 
 +++
 [[श्री ऋभुगीता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDc4MjgwOTI1NjQxNDQz)]]

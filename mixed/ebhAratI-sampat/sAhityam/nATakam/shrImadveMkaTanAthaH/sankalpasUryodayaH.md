@@ -1,12 +1,11 @@
 +++
-TITLE = "सङ्कल्पसूर्योदयः"
-AUTHOR = "श्रीमद्वेंकटनाथः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2872"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg5NTMyODAyMTA3NTcy"
 title = "सङ्कल्पसूर्योदयः"
+author = "श्रीमद्वेंकटनाथः"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2872"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg5NTMyODAyMTA3NTcy"
 
 +++
 [[सङ्कल्पसूर्योदयः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDg5NTMyODAyMTA3NTcy)]]

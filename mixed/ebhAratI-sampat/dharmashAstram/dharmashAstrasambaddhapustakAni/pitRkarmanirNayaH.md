@@ -1,13 +1,12 @@
 +++
-TITLE = "पितृकर्मनिर्णयः"
-PUBLISHER = "चौखम्बा-संस्कृत-पुस्तकालयः"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "धर्मशास्त्रसम्बद्धपुस्तकानि"
-PAGES = "230"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8900"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA4NTU1NzU1NjYzNDU4&pageno=MjI0MjQyNjk5NTk="
 title = "पितृकर्मनिर्णयः"
+publisher = "चौखम्बा-संस्कृत-पुस्तकालयः"
+domain = "धर्मशास्त्रम्"
+sub-domain = "धर्मशास्त्रसम्बद्धपुस्तकानि"
+pages = "230"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8900"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA4NTU1NzU1NjYzNDU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पितृकर्मनिर्णयः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA4NTU1NzU1NjYzNDU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3195,8 +3194,5 @@ title = "पितृकर्मनिर्णयः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

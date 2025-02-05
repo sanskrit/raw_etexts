@@ -1,13 +1,12 @@
 +++
-TITLE = "अन्तर्व्याप्तिसमर्थनम्"
-AUTHOR = "रत्नाकरशान्तिपादः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3640"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgwNjE0MjIzNjI0OTQz&pageno=MjI0MjQyNjk5NTk="
 title = "अन्तर्व्याप्तिसमर्थनम्"
+author = "रत्नाकरशान्तिपादः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3640"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgwNjE0MjIzNjI0OTQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अन्तर्व्याप्तिसमर्थनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDgwNjE0MjIzNjI0OTQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -107,8 +106,5 @@ title = "अन्तर्व्याप्तिसमर्थनम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

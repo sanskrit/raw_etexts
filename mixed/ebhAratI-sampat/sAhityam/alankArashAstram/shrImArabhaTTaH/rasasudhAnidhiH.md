@@ -1,13 +1,12 @@
 +++
-TITLE = "रससुधानिधिः"
-AUTHOR = "श्रीमारभट्टः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2702"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDQyNDIwNzQ4MTgzOTUy"
 title = "रससुधानिधिः"
+author = "श्रीमारभट्टः"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2702"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDQyNDIwNzQ4MTgzOTUy"
 
 +++
 [[रससुधानिधिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDQyNDIwNzQ4MTgzOTUy)]]

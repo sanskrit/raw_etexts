@@ -1,16 +1,15 @@
 +++
-TITLE = "अभिनवा पाठावलिः"
-AUTHOR = "विनायकशर्मा"
-PUBLISHER = "एफ.ई.फ्रांसिस"
-"PUBLISH YEAR" = "1937"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "159"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "कर्णाटक-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7037"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE2MzI5NzU1NTI1NTc2&pageno=MjI0MjQyNjk5NTk="
 title = "अभिनवा पाठावलिः"
+author = "विनायकशर्मा"
+publisher = "एफ.ई.फ्रांसिस"
+"publish year" = "1937"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "159"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "कर्णाटक-यन्त्रालयः"
+"serial no." = "Ebharati-7037"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE2MzI5NzU1NTI1NTc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अभिनवा पाठावलिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDE2MzI5NzU1NTI1NTc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3877,8 +3876,5 @@ Dhulia.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

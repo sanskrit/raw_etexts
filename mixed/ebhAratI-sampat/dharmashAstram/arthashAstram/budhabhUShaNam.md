@@ -1,12 +1,11 @@
 +++
-TITLE = "बुधभूषणम्"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "अर्थशास्त्रम्"
-PAGES = "133"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4804"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgyNTk1ODQ5NTYxMTY0&pageno=MjI0MjQyNjk5NTk="
 title = "बुधभूषणम्"
+domain = "धर्मशास्त्रम्"
+sub-domain = "अर्थशास्त्रम्"
+pages = "133"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4804"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgyNTk1ODQ5NTYxMTY0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बुधभूषणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODgyNTk1ODQ5NTYxMTY0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4928,8 +4927,5 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

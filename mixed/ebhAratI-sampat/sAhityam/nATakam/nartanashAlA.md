@@ -1,11 +1,10 @@
 +++
-TITLE = "नर्तनशाला"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2829"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM4MTE4OTYzMzc1MTcy"
 title = "नर्तनशाला"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2829"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM4MTE4OTYzMzc1MTcy"
 
 +++
 [[नर्तनशाला	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODM4MTE4OTYzMzc1MTcy)]]

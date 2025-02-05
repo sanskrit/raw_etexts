@@ -1,17 +1,16 @@
 +++
-TITLE = "स्पन्दसंदोहः"
-AUTHOR = "क्षेमराजाचार्यः"
-PUBLISHER = "ओथोरिटि-आफ्-गवर्नमेण्ट्"
-"PUBLISH YEAR" = "1917"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-PAGES = "30"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मुकुन्दरामशास्त्री"
-PRINTER = "वेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7570"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ1NDMxNTU1MTk2NjI3&pageno=MjI0MjQyNjk5NTk="
 title = "स्पन्दसंदोहः"
+author = "क्षेमराजाचार्यः"
+publisher = "ओथोरिटि-आफ्-गवर्नमेण्ट्"
+"publish year" = "1917"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+pages = "30"
+language = "संस्कृतम्"
+editor = "मुकुन्दरामशास्त्री"
+printer = "वेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-7570"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ1NDMxNTU1MTk2NjI3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्पन्दसंदोहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ1NDMxNTU1MTk2NjI3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -611,19 +610,6 @@ Kashmir.
 श्रीशिवार्पण भूयात्।
 
 ------------------------
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

@@ -1,13 +1,12 @@
 +++
-TITLE = "वाक्यपदीयम्"
-AUTHOR = "भर्तृहरिः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3561"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ4MTQz&pageno=MjI0MjQyNjk5NTk="
 title = "वाक्यपदीयम्"
+author = "भर्तृहरिः"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3561"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ4MTQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वाक्यपदीयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ4MTQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8128,19 +8127,6 @@ title = "वाक्यपदीयम्"
 
 इति भर्तृहरिकृतं वाक्यपदीयं समाप्तं
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

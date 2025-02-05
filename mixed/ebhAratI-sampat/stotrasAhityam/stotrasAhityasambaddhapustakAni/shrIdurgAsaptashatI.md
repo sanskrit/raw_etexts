@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीदुर्गासप्तशती"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "240"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8448"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMTg5NTUyNjc5MDE4&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीदुर्गासप्तशती"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "240"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8448"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMTg5NTUyNjc5MDE4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीदुर्गासप्तशती	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMTg5NTUyNjc5MDE4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5885,8 +5884,5 @@ e-mail **:** **booksales@gitapress.org** website **:** **www.gitapress.org**
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

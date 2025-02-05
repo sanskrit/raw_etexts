@@ -1,13 +1,12 @@
 +++
-TITLE = "यतीन्द्रमतदीपिका"
-AUTHOR = "श्रीनिवासदासः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "विशिष्टाद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4223"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAxODQ3MTMxMjkzNTA0"
 title = "यतीन्द्रमतदीपिका"
+author = "श्रीनिवासदासः"
+domain = "दर्शनानि"
+sub-domain = "विशिष्टाद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4223"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAxODQ3MTMxMjkzNTA0"
 
 +++
 [[यतीन्द्रमतदीपिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjAxODQ3MTMxMjkzNTA0)]]

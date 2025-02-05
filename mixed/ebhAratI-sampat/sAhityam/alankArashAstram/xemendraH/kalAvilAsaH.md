@@ -1,12 +1,11 @@
 +++
-TITLE = "कलाविलासः"
-AUTHOR = "क्षेमेन्द्रः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2745"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDkzODQ0NTg2OTA1MzYy"
 title = "कलाविलासः"
+author = "क्षेमेन्द्रः"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2745"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDkzODQ0NTg2OTA1MzYy"
 
 +++
 [[कलाविलासः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDkzODQ0NTg2OTA1MzYy)]]

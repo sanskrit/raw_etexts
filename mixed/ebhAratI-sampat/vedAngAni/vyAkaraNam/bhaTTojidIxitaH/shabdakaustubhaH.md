@@ -1,13 +1,12 @@
 +++
-TITLE = "शब्दकौस्तुभः"
-AUTHOR = "भट्टोजिदीक्षितः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3566"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU4Njc0MDA2MjIzMjQz"
 title = "शब्दकौस्तुभः"
+author = "भट्टोजिदीक्षितः"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3566"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU4Njc0MDA2MjIzMjQz"
 
 +++
 [[शब्दकौस्तुभः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjU4Njc0MDA2MjIzMjQz)]]

@@ -1,13 +1,12 @@
 +++
-TITLE = "बालमनोरमा-उत्तरार्धम्"
-AUTHOR = "वासुदेवदीक्षितः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3271"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjYzMjY5ODA3MzAwNDEz"
 title = "बालमनोरमा-उत्तरार्धम्"
+author = "वासुदेवदीक्षितः"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3271"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjYzMjY5ODA3MzAwNDEz"
 
 +++
 [[बालमनोरमा-उत्तरार्धम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjYzMjY5ODA3MzAwNDEz)]]

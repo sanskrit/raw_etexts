@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीमन्महाभारतम् (शान्तिपर्वणि तृतीयो भागः)"
-PUBLISHER = "वि. रामस्वामि शास्त्रुलु एण्ड् सन्स्"
-"PUBLISH YEAR" = "1936"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "महाभारतम्"
-PAGES = "729"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पि.पि.सुब्रह्मण्यशास्त्री"
-PRINTER = "वाविळ्ळ मुद्रणालयम् चेन्नपुरी"
-"SERIAL NO." = "Ebharati-6116"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU5MjU2ODEwMzExNzg1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमन्महाभारतम् (शान्तिपर्वणि तृतीयो भागः)"
+publisher = "वि. रामस्वामि शास्त्रुलु एण्ड् सन्स्"
+"publish year" = "1936"
+domain = "इतिहासः"
+sub-domain = "महाभारतम्"
+pages = "729"
+language = "संस्कृतम्"
+editor = "पि.पि.सुब्रह्मण्यशास्त्री"
+printer = "वाविळ्ळ मुद्रणालयम् चेन्नपुरी"
+"serial no." = "Ebharati-6116"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU5MjU2ODEwMzExNzg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमन्महाभारतम् (शान्तिपर्वणि तृतीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjU5MjU2ODEwMzExNzg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -18458,8 +18457,5 @@ _()मोक्षं समयतोऽस्माकं चिन्तयस
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

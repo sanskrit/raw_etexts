@@ -1,12 +1,11 @@
 +++
-TITLE = "कौशिकसूत्रम्"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "धर्मशास्त्रसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2546"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE0NjAyMzM0NjA0NDQy&pageno=MjI0MjQyNjk5NTk="
 title = "कौशिकसूत्रम्"
+domain = "धर्मशास्त्रम्"
+sub-domain = "धर्मशास्त्रसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2546"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE0NjAyMzM0NjA0NDQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कौशिकसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE0NjAyMzM0NjA0NDQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6154,8 +6153,5 @@ title = "कौशिकसूत्रम्"
   
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,13 +1,12 @@
 +++
-TITLE = "रावणवधम्-भट्टिकाव्यम्-२२अध्यायपर्यन्तम्"
-AUTHOR = "Vathmeeki"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3172"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg1MjY5MDgwMDA1NDAz&pageno=MjI0MjQyNjk5NTk="
 title = "रावणवधम्-भट्टिकाव्यम्-२२अध्यायपर्यन्तम्"
+author = "Vathmeeki"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3172"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg1MjY5MDgwMDA1NDAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रावणवधम्-भट्टिकाव्यम्-२२अध्यायपर्यन्तम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDg1MjY5MDgwMDA1NDAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6874,19 +6873,6 @@ title = "रावणवधम्-भट्टिकाव्यम्-२२अ
 
 २२.३५२ कीर्तिरतो भवतान्नृपस्य, तस्य प्रेमकरः क्षितिपो यतः प्रजानाम्.
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

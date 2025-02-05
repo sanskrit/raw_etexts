@@ -1,19 +1,18 @@
 +++
-TITLE = "कुसुमाञलिव्याख्याविवृतिः (कारिका-व्याख्यासहिता)"
-AUTHOR = "कामाख्यनाथ-तर्कवागीशः"
-PUBLISHER = "हरिदासभट्टाचार्यः"
-"PUBLISH YEAR" = "शक. १८३९"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-PAGES = "143"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "हरिदासभट्टाचार्यः"
-"PRIMARY COMMENTATOR" = "हरिदासभट्टाचार्यः"
-"COMMENTARY NAME" = "व्याख्या"
-PRINTER = "गोवर्धन-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1762"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1NzQxOTczNTQxOTYx&pageno=MjI0MjQyNjk5NTk="
 title = "कुसुमाञलिव्याख्याविवृतिः (कारिका-व्याख्यासहिता)"
+author = "कामाख्यनाथ-तर्कवागीशः"
+publisher = "हरिदासभट्टाचार्यः"
+"publish year" = "शक. १८३९"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+pages = "143"
+language = "संस्कृतम्"
+editor = "हरिदासभट्टाचार्यः"
+"primary commentator" = "हरिदासभट्टाचार्यः"
+"commentary name" = "व्याख्या"
+printer = "गोवर्धन-मुद्रणालयः"
+"serial no." = "Ebharati-1762"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1NzQxOTczNTQxOTYx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कुसुमाञलिव्याख्याविवृतिः (कारिका-व्याख्यासहिता)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDY1NzQxOTczNTQxOTYx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1034,8 +1033,5 @@ CC-O No Rights Reserved. Digitized by eGangotri
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

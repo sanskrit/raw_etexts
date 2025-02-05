@@ -1,16 +1,15 @@
 +++
-TITLE = "वादन्यायः"
-AUTHOR = "धर्मकीर्तिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-PAGES = "193"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "सान्कृत्यायनः"
-"PRIMARY COMMENTATOR" = "शान्तरक्षितः"
-"COMMENTARY NAME" = "विपञ्जितार्था-टीका"
-"SERIAL NO." = "Ebharati-1382"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAyNzIwNzA4NjY2MjMx&pageno=MjI0MjQyNjk5NTk="
 title = "वादन्यायः"
+author = "धर्मकीर्तिः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+pages = "193"
+language = "संस्कृतम्"
+editor = "सान्कृत्यायनः"
+"primary commentator" = "शान्तरक्षितः"
+"commentary name" = "विपञ्जितार्था-टीका"
+"serial no." = "Ebharati-1382"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAyNzIwNzA4NjY2MjMx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वादन्यायः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDAyNzIwNzA4NjY2MjMx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2192,19 +2191,6 @@ APPENDIX. J.
 
 ----------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

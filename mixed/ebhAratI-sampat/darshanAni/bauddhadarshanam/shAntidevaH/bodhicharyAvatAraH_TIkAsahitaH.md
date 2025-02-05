@@ -1,15 +1,14 @@
 +++
-TITLE = "बोधिचर्यावतारः टीकासहितः"
-AUTHOR = "शान्तिदेवः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"PRIMARY COMMENTATOR" = "प्रज्ञाकरमतिः"
-"COMMENTARY NAME" = "पञ्जिका-व्याख्या"
-"SERIAL NO." = "Ebharati-3877"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDkwMDc4MTM0NzcxMjcz"
 title = "बोधिचर्यावतारः टीकासहितः"
+author = "शान्तिदेवः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"primary commentator" = "प्रज्ञाकरमतिः"
+"commentary name" = "पञ्जिका-व्याख्या"
+"serial no." = "Ebharati-3877"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDkwMDc4MTM0NzcxMjcz"
 
 +++
 [[बोधिचर्यावतारः टीकासहितः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDkwMDc4MTM0NzcxMjcz)]]

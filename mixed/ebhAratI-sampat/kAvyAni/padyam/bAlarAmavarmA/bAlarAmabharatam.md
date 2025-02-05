@@ -1,17 +1,16 @@
 +++
-TITLE = "बालरामभरतम्"
-AUTHOR = "बालरामवर्मा"
-PUBLISHER = "गवर्नमेण्ट्-आफ्-ट्रवण्कोर्"
-"PUBLISH YEAR" = "1935"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "321"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "साम्बशिवशास्त्री"
-PRINTER = "गवर्नमेण्ट्-प्रेस्  त्रिवेन्द्रम्"
-"SERIAL NO." = "Ebharati-5777"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MTc0MjkyMDc1NDU1&pageno=MjI0MjQyNjk5NTk="
 title = "बालरामभरतम्"
+author = "बालरामवर्मा"
+publisher = "गवर्नमेण्ट्-आफ्-ट्रवण्कोर्"
+"publish year" = "1935"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "321"
+language = "संस्कृतम्"
+editor = "साम्बशिवशास्त्री"
+printer = "गवर्नमेण्ट्-प्रेस्  त्रिवेन्द्रम्"
+"serial no." = "Ebharati-5777"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MTc0MjkyMDc1NDU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बालरामभरतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MTc0MjkyMDc1NDU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11707,19 +11706,6 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **शुभं भूयात्।  
 ————————**  
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

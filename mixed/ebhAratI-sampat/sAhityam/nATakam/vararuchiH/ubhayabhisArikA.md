@@ -1,13 +1,12 @@
 +++
-TITLE = "उभयभिसारिका"
-AUTHOR = "वररुचिः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2788"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1Mjc4MzI1NzM2NzYy&pageno=MjI0MjQyNjk5NTk="
 title = "उभयभिसारिका"
+author = "वररुचिः"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2788"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1Mjc4MzI1NzM2NzYy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[उभयभिसारिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM1Mjc4MzI1NzM2NzYy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -253,19 +252,6 @@ title = "उभयभिसारिका"
    (इति निष्क्रान्तो विटः)  
  इति श्रीमद्वररुचिमुनिकृतिरुभयाभिसारिका नाम भाणः समाप्तः।  
 \*\*\* 
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

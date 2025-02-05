@@ -1,16 +1,15 @@
 +++
-TITLE = "हरिचरितम्"
-AUTHOR = "परमेश्वरभट्टः"
-"PUBLISH YEAR" = "1948"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "144"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वि.कृष्णमाचार्यः"
-PRINTER = "सि.सुब्बरायुडु"
-"SERIAL NO." = "Ebharati-5845"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk1NjU5NjMwODkwMTY1&pageno=MjI0MjQyNjk5NTk="
 title = "हरिचरितम्"
+author = "परमेश्वरभट्टः"
+"publish year" = "1948"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "144"
+language = "संस्कृतम्"
+editor = "वि.कृष्णमाचार्यः"
+printer = "सि.सुब्बरायुडु"
+"serial no." = "Ebharati-5845"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk1NjU5NjMwODkwMTY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हरिचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDk1NjU5NjMwODkwMTY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2927,19 +2926,6 @@ THE first column notes the number of the ***Vākya***,and the last column notes 
 |      | 246-248 | 3   |
 |      | Total   | 248 |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

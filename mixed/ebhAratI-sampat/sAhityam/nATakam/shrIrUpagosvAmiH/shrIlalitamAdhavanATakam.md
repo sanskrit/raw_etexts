@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीललितमाधवनाटकम्"
-AUTHOR = "श्रीरूपगोस्वामिः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2898"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjU5ODM1MDExNzkxODcy"
 title = "श्रीललितमाधवनाटकम्"
+author = "श्रीरूपगोस्वामिः"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2898"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjU5ODM1MDExNzkxODcy"
 
 +++
 [[श्रीललितमाधवनाटकम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjU5ODM1MDExNzkxODcy)]]

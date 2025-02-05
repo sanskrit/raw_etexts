@@ -1,12 +1,11 @@
 +++
-TITLE = "यशोधरचरितम्"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3847"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0Nzk1NDQ1NzkyOTYz&pageno=MjI0MjQyNjk5NTk="
 title = "यशोधरचरितम्"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3847"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0Nzk1NDQ1NzkyOTYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[यशोधरचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDM0Nzk1NDQ1NzkyOTYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -247,8 +246,5 @@ title = "यशोधरचरितम्"
 
 ----------------------------------------------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

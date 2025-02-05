@@ -1,15 +1,14 @@
 +++
-TITLE = "रसेन्द्र-मंगलम्"
-AUTHOR = "नागार्जुनः"
-PUBLISHER = "भुवनेश्वरी-पीठ-गोंडल-गुजरात्"
-"PUBLISH YEAR" = "१९२४"
-DOMAIN = "भारतीयविज्ञानम्"
-SUB-DOMAIN = "धातुशास्त्रम्"
-PAGES = "27"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-"SERIAL NO." = "Ebharati-4559"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk4MTAyOTY4NjQ2NzM0&pageno=MjI0MjQyNjk5NTk="
 title = "रसेन्द्र-मंगलम्"
+author = "नागार्जुनः"
+publisher = "भुवनेश्वरी-पीठ-गोंडल-गुजरात्"
+"publish year" = "१९२४"
+domain = "भारतीयविज्ञानम्"
+sub-domain = "धातुशास्त्रम्"
+pages = "27"
+language = "संस्कृतम् आङ्ग्लम्"
+"serial no." = "Ebharati-4559"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk4MTAyOTY4NjQ2NzM0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रसेन्द्र-मंगलम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODk4MTAyOTY4NjQ2NzM0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -881,19 +880,6 @@ Here is enlisted few single drugs and compounds very useful for converting *Loha
 These metals after proper incineration achieve the state of R*asībhāvanam* i.e. colloidal state. If this is tactfully administered these are alleviatives of various diseases. And if these are utilised on a regular basis, it protects undue graying of hair, formation of disease and degenarative process of ageing.
 
 **Here ends the second chapter of *Rasendra-Mangalam*.**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

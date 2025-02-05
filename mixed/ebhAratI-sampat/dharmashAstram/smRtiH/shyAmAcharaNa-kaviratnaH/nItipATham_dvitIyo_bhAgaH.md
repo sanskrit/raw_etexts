@@ -1,16 +1,15 @@
 +++
-TITLE = "नीतिपाठम् (द्वितीयो भागः)"
-AUTHOR = "श्यामाचरण-कविरत्नः"
-PUBLISHER = "एन्. बनर्जी"
-"PUBLISH YEAR" = "1916"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "37"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "विक्टोरिया-यन्त्रालयः-कलकत्ता"
-"SERIAL NO." = "Ebharati-5200"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA0NDk1MDY0MDgxOTk0&pageno=MjI0MjQyNjk5NTk="
 title = "नीतिपाठम् (द्वितीयो भागः)"
+author = "श्यामाचरण-कविरत्नः"
+publisher = "एन्. बनर्जी"
+"publish year" = "1916"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "37"
+language = "संस्कृतम्"
+printer = "विक्टोरिया-यन्त्रालयः-कलकत्ता"
+"serial no." = "Ebharati-5200"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA0NDk1MDY0MDgxOTk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नीतिपाठम् (द्वितीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA0NDk1MDY0MDgxOTk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -616,19 +615,6 @@ CALCUTTA
 सम्पूर्णम्।  
 \_\_\_\_\_\_\_\_\_
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

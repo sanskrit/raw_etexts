@@ -1,13 +1,12 @@
 +++
-TITLE = "रसाध्यायः"
-AUTHOR = "कङ्कालयोगिशिष्य़ः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2597"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM5OTY1MTQyMjAzOTQy&pageno=MjI0MjQyNjk5NTk="
 title = "रसाध्यायः"
+author = "कङ्कालयोगिशिष्य़ः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2597"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM5OTY1MTQyMjAzOTQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रसाध्यायः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDM5OTY1MTQyMjAzOTQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2712,19 +2711,6 @@ title = "रसाध्यायः"
 परोपकारैकरसः कलावान्मनागजाकौ किल यस्य बन्धू ॥ १.४८१ ॥
 
 \\Z  
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

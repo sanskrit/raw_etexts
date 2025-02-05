@@ -1,12 +1,11 @@
 +++
-TITLE = "दशोपनिषद्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4238"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjM0NDgzNTcwMjM4NjA0"
 title = "दशोपनिषद्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4238"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjM0NDgzNTcwMjM4NjA0"
 
 +++
 [[दशोपनिषद्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjM0NDgzNTcwMjM4NjA0)]]

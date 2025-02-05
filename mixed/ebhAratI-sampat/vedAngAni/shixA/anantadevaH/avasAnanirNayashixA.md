@@ -1,13 +1,12 @@
 +++
-TITLE = "अवसाननिर्णयशिक्षा"
-AUTHOR = "अनन्तदेवः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3515"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMzMzExMjk3NjI0NzMz&pageno=MjI0MjQyNjk5NTk="
 title = "अवसाननिर्णयशिक्षा"
+author = "अनन्तदेवः"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3515"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMzMzExMjk3NjI0NzMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अवसाननिर्णयशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDMzMzExMjk3NjI0NzMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -74,19 +73,6 @@ avasananirnaya_shiksha
 सर्वाण्यवसानान्येकीकृत्यैकोनविंशतिः शतानि  
 पञ्चसप्ततिः संख्या कण्डिकायाश्चत्वारिंशदध्याये १९७५  
        इत्यनन्तदेवविरचितावसाननिर्णयशिक्षा समाप्ता
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

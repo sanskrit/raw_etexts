@@ -1,17 +1,16 @@
 +++
-TITLE = "दामकप्रहसनम्"
-PUBLISHER = "मोतिलाल-बनारसीदासः"
-"PUBLISH YEAR" = "1926"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "18"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "वेङ्कटरामशास्त्री"
-EDITOR = "वेङ्कटरामशास्त्री"
-PRINTER = "बोम्बेसंस्कृत-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5406"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMzMzM1Njg2NTU5ODE1&pageno=MjI0MjQyNjk5NTk="
 title = "दामकप्रहसनम्"
+publisher = "मोतिलाल-बनारसीदासः"
+"publish year" = "1926"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "18"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "वेङ्कटरामशास्त्री"
+editor = "वेङ्कटरामशास्त्री"
+printer = "बोम्बेसंस्कृत-यन्त्रालयः"
+"serial no." = "Ebharati-5406"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMzMzM1Njg2NTU5ODE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दामकप्रहसनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjMzMzM1Njg2NTU5ODE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -414,8 +413,5 @@ and none be discontented.
 
 **FINIS.**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

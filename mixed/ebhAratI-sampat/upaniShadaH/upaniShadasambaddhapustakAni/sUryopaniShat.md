@@ -1,12 +1,11 @@
 +++
-TITLE = "सूर्योपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4337"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyNDgzMzA3NTMzNjE0&pageno=MjI0MjQyNjk5NTk="
 title = "सूर्योपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4337"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyNDgzMzA3NTMzNjE0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सूर्योपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDEyNDgzMzA3NTMzNjE0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -183,8 +182,5 @@ J
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

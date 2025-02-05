@@ -1,15 +1,14 @@
 +++
-TITLE = "श्रीरामचरितम्"
-AUTHOR = "शिवराम-शास्त्री"
-"PUBLISH YEAR" = "1906"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "52"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "ओरिएण्टल्-पब्लिषिङ्ग-हौस्"
-"SERIAL NO." = "Ebharati-6130"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY4NjQwNjY5NjU0ODg1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीरामचरितम्"
+author = "शिवराम-शास्त्री"
+"publish year" = "1906"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "52"
+language = "संस्कृतम्"
+printer = "ओरिएण्टल्-पब्लिषिङ्ग-हौस्"
+"serial no." = "Ebharati-6130"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY4NjQwNjY5NjU0ODg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीरामचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDY4NjQwNjY5NjU0ODg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -259,19 +258,6 @@ MADRAS STATE (S. INDIA)**
 
 
 ओरियन्टल पब्लिषिङ् हौम्, मयूरपुर्ग, मद्रास्.
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

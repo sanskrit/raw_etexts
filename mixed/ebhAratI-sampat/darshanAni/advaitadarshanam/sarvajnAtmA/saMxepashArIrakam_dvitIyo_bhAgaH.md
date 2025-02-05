@@ -1,19 +1,18 @@
 +++
-TITLE = "संक्षेपशारीरकम् (द्वितीयो भागः)"
-AUTHOR = "सर्वज्ञात्मा"
-PUBLISHER = "हरि नारायण आपटे"
-"PUBLISH YEAR" = "1918"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतदर्शनम्"
-PAGES = "453"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रङ्गनाथशास्त्री वैद्या"
-"PRIMARY COMMENTATOR" = "अग्निचित्पुरुषोत्तममिश्रः रामतीर्थः"
-"COMMENTARY NAME" = "सुबोधिनी अन्वयार्थप्रकाशिका"
-PRINTER = "आनन्दाश्रममुद्रणालयम्"
-"SERIAL NO." = "Ebharati-8654"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg5OTE5MTg0MTU3MDM4&pageno=MjI0MjQyNjk5NTk="
 title = "संक्षेपशारीरकम् (द्वितीयो भागः)"
+author = "सर्वज्ञात्मा"
+publisher = "हरि नारायण आपटे"
+"publish year" = "1918"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतदर्शनम्"
+pages = "453"
+language = "संस्कृतम्"
+editor = "रङ्गनाथशास्त्री वैद्या"
+"primary commentator" = "अग्निचित्पुरुषोत्तममिश्रः रामतीर्थः"
+"commentary name" = "सुबोधिनी अन्वयार्थप्रकाशिका"
+printer = "आनन्दाश्रममुद्रणालयम्"
+"serial no." = "Ebharati-8654"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg5OTE5MTg0MTU3MDM4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संक्षेपशारीरकम् (द्वितीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODg5OTE5MTg0MTU3MDM4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8945,19 +8944,6 @@ title = "संक्षेपशारीरकम् (द्वितीयो
 
 **—————**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

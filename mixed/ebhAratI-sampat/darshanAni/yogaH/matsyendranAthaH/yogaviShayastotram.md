@@ -1,14 +1,13 @@
 +++
-TITLE = "योगविषयस्तोत्रम्"
-AUTHOR = "मत्स्येन्द्रनाथः"
-"PUBLISH YEAR" = "१९९८"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "3"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-1674"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0NDE4OTA3Nzk2MDYx&pageno=MjI0MjQyNjk5NTk="
 title = "योगविषयस्तोत्रम्"
+author = "मत्स्येन्द्रनाथः"
+"publish year" = "१९९८"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "3"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-1674"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0NDE4OTA3Nzk2MDYx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[योगविषयस्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODI0NDE4OTA3Nzk2MDYx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -140,19 +139,6 @@ title = "योगविषयस्तोत्रम्"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

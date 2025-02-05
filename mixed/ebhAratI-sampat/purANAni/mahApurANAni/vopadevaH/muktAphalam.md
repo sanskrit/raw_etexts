@@ -1,17 +1,16 @@
 +++
-TITLE = "मुक्ताफलम्"
-AUTHOR = "वोपदेवः"
-"PUBLISH YEAR" = "1920"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "210"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "ईश्वरचन्द्रशास्त्री हरिदास्"
-"PRIMARY COMMENTATOR" = "हेमाद्री"
-PRINTER = "न्यु-आर्य-मिशन्-प्रेस्"
-"SERIAL NO." = "Ebharati-6850"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA3MDk1MDYyNDc1NzU2&pageno=MjI0MjQyNjk5NTk="
 title = "मुक्ताफलम्"
+author = "वोपदेवः"
+"publish year" = "1920"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "210"
+language = "संस्कृतम्"
+editor = "ईश्वरचन्द्रशास्त्री हरिदास्"
+"primary commentator" = "हेमाद्री"
+printer = "न्यु-आर्य-मिशन्-प्रेस्"
+"serial no." = "Ebharati-6850"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA3MDk1MDYyNDc1NzU2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मुक्ताफलम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA3MDk1MDYyNDc1NzU2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4644,19 +4643,6 @@ Published by Baidya Nath Dutt,
 इति श्रीहेमाद्रिविरचितायां कैवल्यदीपिकायां विष्णुभक्तानां  
 सम्भोगशृङ्गार नाम एकादशोऽध्यायः॥११॥
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

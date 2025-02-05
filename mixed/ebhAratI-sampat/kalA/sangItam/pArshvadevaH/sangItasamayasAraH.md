@@ -1,16 +1,15 @@
 +++
-TITLE = "सङ्गीतसमयसारः"
-AUTHOR = "पार्श्वदेवः"
-"PUBLISH YEAR" = "1925"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "117"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "त.गणपतिशास्त्री"
-PRINTER = "राजकीयमुद्रणयन्त्रालयः"
-"SERIAL NO." = "Ebharati-4602"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQwNjI2NzA3NDc3MTQ0&pageno=MjI0MjQyNjk5NTk="
 title = "सङ्गीतसमयसारः"
+author = "पार्श्वदेवः"
+"publish year" = "1925"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "117"
+language = "संस्कृतम्"
+editor = "त.गणपतिशास्त्री"
+printer = "राजकीयमुद्रणयन्त्रालयः"
+"serial no." = "Ebharati-4602"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQwNjI2NzA3NDc3MTQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सङ्गीतसमयसारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQwNjI2NzA3NDc3MTQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5242,19 +5241,6 @@ T. GANAPATI SASIRI.**
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

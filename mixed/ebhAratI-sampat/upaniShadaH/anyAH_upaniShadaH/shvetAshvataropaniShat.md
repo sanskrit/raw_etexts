@@ -1,16 +1,15 @@
 +++
-TITLE = "श्वेताश्वतरोपनिषत्"
-PUBLISHER = "ब्रह्मदेव-शर्मा"
-"PUBLISH YEAR" = "1916"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "अन्याः उपनिषदः"
-PAGES = "256"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "भीमसेनशर्मः"
-PRINTER = "ब्रह्मदेव-शर्मा"
-"SERIAL NO." = "Ebharati-7239"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU4Mjk4ODk3NjE5NDk2&pageno=MjI0MjQyNjk5NTk="
 title = "श्वेताश्वतरोपनिषत्"
+publisher = "ब्रह्मदेव-शर्मा"
+"publish year" = "1916"
+domain = "उपनिषदः"
+sub-domain = "अन्याः उपनिषदः"
+pages = "256"
+language = "संस्कृतम्"
+"primary commentator" = "भीमसेनशर्मः"
+printer = "ब्रह्मदेव-शर्मा"
+"serial no." = "Ebharati-7239"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU4Mjk4ODk3NjE5NDk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्वेताश्वतरोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODU4Mjk4ODk3NjE5NDk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2309,8 +2308,5 @@ title = "श्वेताश्वतरोपनिषत्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

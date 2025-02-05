@@ -1,17 +1,16 @@
 +++
-TITLE = "पार्थपराक्रमव्यायोगः"
-AUTHOR = "प्रह्लादनदेवः"
-PUBLISHER = "जनार्धनसखारामकूडल्करः"
-"PUBLISH YEAR" = "1917"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "40"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "चिमणलालदलालः"
-PRINTER = "गुजराती-प्रिन्टिंग-प्रेस्"
-"SERIAL NO." = "Ebharati-5511"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ2Nzg5MTkyNTMwOTI1&pageno=MjI0MjQyNjk5NTk="
 title = "पार्थपराक्रमव्यायोगः"
+author = "प्रह्लादनदेवः"
+publisher = "जनार्धनसखारामकूडल्करः"
+"publish year" = "1917"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "40"
+language = "संस्कृतम्"
+editor = "चिमणलालदलालः"
+printer = "गुजराती-प्रिन्टिंग-प्रेस्"
+"serial no." = "Ebharati-5511"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ2Nzg5MTkyNTMwOTI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पार्थपराक्रमव्यायोगः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ2Nzg5MTkyNTMwOTI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1279,19 +1278,6 @@ KAYADRAN INSCRIPTION**
 
 **उपदेशतरङ्गिणी PP. 198-199**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,12 +1,11 @@
 +++
-TITLE = "सुभाषितरत्नभाण्डागारम्"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "मिश्रितम्"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4123"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA5NTA1NzA1Mjk3NTkz&pageno=MjI0MjQyNjk5NTk="
 title = "सुभाषितरत्नभाण्डागारम्"
+domain = "सुभाषितानि"
+sub-domain = "मिश्रितम्"
+language = "संस्कृतम् आङ्ग्लम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4123"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA5NTA1NzA1Mjk3NTkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुभाषितरत्नभाण्डागारम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjA5NTA1NzA1Mjk3NTkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -38280,8 +38279,5 @@ This last section appears to contain odds and ends that did not fit in easily or
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

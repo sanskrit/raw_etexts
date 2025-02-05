@@ -1,17 +1,16 @@
 +++
-TITLE = "नरेश्वपरीक्षा"
-PUBLISHER = "ओथोरिटि-आफ्-गवर्नमेण्ट्"
-"PUBLISH YEAR" = "1926"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "295"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मधुसूदनकौल-शास्त्री"
-"PRIMARY COMMENTATOR" = "रामकण्ठः"
-PRINTER = "काश्मीर-प्रेस्"
-"SERIAL NO." = "Ebharati-7601"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI2OTQ2ODM0NzY2OTI3&pageno=MjI0MjQyNjk5NTk="
 title = "नरेश्वपरीक्षा"
+publisher = "ओथोरिटि-आफ्-गवर्नमेण्ट्"
+"publish year" = "1926"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "295"
+language = "संस्कृतम्"
+editor = "मधुसूदनकौल-शास्त्री"
+"primary commentator" = "रामकण्ठः"
+printer = "काश्मीर-प्रेस्"
+"serial no." = "Ebharati-7601"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI2OTQ2ODM0NzY2OTI3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नरेश्वपरीक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjI2OTQ2ODM0NzY2OTI3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5190,8 +5189,5 @@ view to embellishing his commentary and developing the arguments employed in it.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

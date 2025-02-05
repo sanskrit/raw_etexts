@@ -1,12 +1,11 @@
 +++
-TITLE = "वैखानसमन्त्रप्रश्नः"
-AUTHOR = "विखानसः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "वैखानसम्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4182"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA4ODA4NTgyNjU0MTA0&pageno=MjI0MjQyNjk5NTk="
 title = "वैखानसमन्त्रप्रश्नः"
+author = "विखानसः"
+domain = "आगमः"
+sub-domain = "वैखानसम्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4182"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA4ODA4NTgyNjU0MTA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वैखानसमन्त्रप्रश्नः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDA4ODA4NTgyNjU0MTA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8722,19 +8721,6 @@ Bहगवच्छताष्टकम्
 
 \\Z
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

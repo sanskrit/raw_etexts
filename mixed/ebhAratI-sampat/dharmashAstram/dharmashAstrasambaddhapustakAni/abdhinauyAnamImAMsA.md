@@ -1,11 +1,10 @@
 +++
-TITLE = "अब्धिनौयानमीमांसा"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "धर्मशास्त्रसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2529"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMyNTgwNzk0NDc3MjQy"
 title = "अब्धिनौयानमीमांसा"
+domain = "धर्मशास्त्रम्"
+sub-domain = "धर्मशास्त्रसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2529"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMyNTgwNzk0NDc3MjQy"
 
 +++
 [[अब्धिनौयानमीमांसा	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODMyNTgwNzk0NDc3MjQy)]]

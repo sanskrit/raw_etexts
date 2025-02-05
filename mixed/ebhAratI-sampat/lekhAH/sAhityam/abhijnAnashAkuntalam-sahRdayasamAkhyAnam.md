@@ -1,11 +1,10 @@
 +++
-TITLE = "अभिज्ञानशाकुन्तलम्-सहृदयसमाख्यानम्"
-DOMAIN = "लेखाः"
-SUB-DOMAIN = "साहित्यम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2782"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDAwODE0NjQ1MTYwNzYy"
 title = "अभिज्ञानशाकुन्तलम्-सहृदयसमाख्यानम्"
+domain = "लेखाः"
+sub-domain = "साहित्यम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2782"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDAwODE0NjQ1MTYwNzYy"
 
 +++
 [[अभिज्ञानशाकुन्तलम्-सहृदयसमाख्यानम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDAwODE0NjQ1MTYwNzYy)]]

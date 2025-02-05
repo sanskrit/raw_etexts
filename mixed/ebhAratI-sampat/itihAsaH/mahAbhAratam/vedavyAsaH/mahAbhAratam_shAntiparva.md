@@ -1,17 +1,16 @@
 +++
-TITLE = "महाभारतम् (शान्तिपर्व)"
-AUTHOR = "वेदव्यासः"
-PUBLISHER = "श्रीपाददामोदरसातवळेकरः"
-"PUBLISH YEAR" = "1929"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "महाभारतम्"
-PAGES = "722"
-LANGUAGE = "संस्कृतम् हिन्दी"
-EDITOR = "श्रीपाददामोदरसातवळेकरः"
-PRINTER = "भारत-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6094"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2OTEzMTAxMTAwNTg1&pageno=MjI0MjQyNjk5NTk="
 title = "महाभारतम् (शान्तिपर्व)"
+author = "वेदव्यासः"
+publisher = "श्रीपाददामोदरसातवळेकरः"
+"publish year" = "1929"
+domain = "इतिहासः"
+sub-domain = "महाभारतम्"
+pages = "722"
+language = "संस्कृतम् हिन्दी"
+editor = "श्रीपाददामोदरसातवळेकरः"
+printer = "भारत-मुद्रणालयः"
+"serial no." = "Ebharati-6094"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2OTEzMTAxMTAwNTg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[महाभारतम् (शान्तिपर्व)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY2OTEzMTAxMTAwNTg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -21933,19 +21932,6 @@ title = "महाभारतम् (शान्तिपर्व)"
 स्वाध्याय मंढल; भारतमुद्रणालय, औंध (जि०सातारा)  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

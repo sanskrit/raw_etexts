@@ -1,12 +1,11 @@
 +++
-TITLE = "रसरत्नाकरः"
-AUTHOR = "सिद्धनित्यनाथः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2564"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODAwMDc1NTYzNDMxNjQy"
 title = "रसरत्नाकरः"
+author = "सिद्धनित्यनाथः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2564"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODAwMDc1NTYzNDMxNjQy"
 
 +++
 [[रसरत्नाकरः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODAwMDc1NTYzNDMxNjQy)]]

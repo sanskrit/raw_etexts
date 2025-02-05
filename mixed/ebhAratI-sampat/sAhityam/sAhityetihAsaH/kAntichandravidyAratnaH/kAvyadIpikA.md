@@ -1,15 +1,14 @@
 +++
-TITLE = "काव्यदीपिका"
-AUTHOR = "कान्तिचन्द्रविद्यारत्नः"
-"PUBLISH YEAR" = "1870"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "साहित्येतिहासः"
-PAGES = "108"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "काव्यप्रकाश-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5936"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk5NjEwNTk2MzM4OTY1&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यदीपिका"
+author = "कान्तिचन्द्रविद्यारत्नः"
+"publish year" = "1870"
+domain = "साहित्यम्"
+sub-domain = "साहित्येतिहासः"
+pages = "108"
+language = "संस्कृतम्"
+printer = "काव्यप्रकाश-मुद्रणालयः"
+"serial no." = "Ebharati-5936"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk5NjEwNTk2MzM4OTY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यदीपिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjk5NjEwNTk2MzM4OTY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2178,19 +2177,6 @@ K. C. B.
 
 ![](../books_images/U-IMG-1702562873Untitled-removebg-preview(1).png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

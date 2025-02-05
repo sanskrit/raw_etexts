@@ -1,19 +1,18 @@
 +++
-TITLE = "कुमारसम्भवः (द्वितीयः सम्पुटः)"
-AUTHOR = "कालिदासः"
-PUBLISHER = "राजकीय-मुद्रणालयः"
-"PUBLISH YEAR" = "1913"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "293"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "त. गणपति-शास्त्री"
-"PRIMARY COMMENTATOR" = "नारायणपण्डितः"
-"COMMENTARY NAME" = "कुमारसम्भवः"
-PRINTER = "राजकीय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7709"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkxMTM4MjMwNTMwMDQ3&pageno=MjI0MjQyNjk5NTk="
 title = "कुमारसम्भवः (द्वितीयः सम्पुटः)"
+author = "कालिदासः"
+publisher = "राजकीय-मुद्रणालयः"
+"publish year" = "1913"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "293"
+language = "संस्कृतम्"
+editor = "त. गणपति-शास्त्री"
+"primary commentator" = "नारायणपण्डितः"
+"commentary name" = "कुमारसम्भवः"
+printer = "राजकीय-मुद्रणालयः"
+"serial no." = "Ebharati-7709"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkxMTM4MjMwNTMwMDQ3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कुमारसम्भवः (द्वितीयः सम्पुटः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODkxMTM4MjMwNTMwMDQ3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5045,8 +5044,5 @@ XXन्मादावस्थांचाह—
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

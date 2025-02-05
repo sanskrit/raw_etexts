@@ -1,13 +1,12 @@
 +++
-TITLE = "ईशावास्योपनिषत् भाष्यम्"
-AUTHOR = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3247"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDMyNDQxOTk3OTk2MTEz"
 title = "ईशावास्योपनिषत् भाष्यम्"
+author = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3247"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDMyNDQxOTk3OTk2MTEz"
 
 +++
 [[ईशावास्योपनिषत् भाष्यम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDMyNDQxOTk3OTk2MTEz)]]

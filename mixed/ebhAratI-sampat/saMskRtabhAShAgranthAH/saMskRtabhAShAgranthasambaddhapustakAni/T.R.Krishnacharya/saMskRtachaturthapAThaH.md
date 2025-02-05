@@ -1,16 +1,15 @@
 +++
-TITLE = "संस्कृतचतुर्थपाठः"
-AUTHOR = "T.R.Krishnacharya"
-PUBLISHER = "टी.के.वेंकोबाचार्यः"
-"PUBLISH YEAR" = "1931"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "151"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "हिन्दीप्रचार-प्रेस-मद्रास"
-"SERIAL NO." = "Ebharati-6996"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEzNDg5MTE3OTg1MTc2&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृतचतुर्थपाठः"
+author = "T.R.Krishnacharya"
+publisher = "टी.के.वेंकोबाचार्यः"
+"publish year" = "1931"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "151"
+language = "संस्कृतम्"
+printer = "हिन्दीप्रचार-प्रेस-मद्रास"
+"serial no." = "Ebharati-6996"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEzNDg5MTE3OTg1MTc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृतचतुर्थपाठः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjEzNDg5MTE3OTg1MTc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2818,19 +2817,6 @@ KUMBAKONAM,
 ॥इति टिप्पनी संपूर्णा॥  
 ॥शुभं भूयात्॥
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

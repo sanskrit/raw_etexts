@@ -1,17 +1,16 @@
 +++
-TITLE = "वेदान्तपरिभाषा"
-AUTHOR = "धर्मराजाध्वरीन्द्रः"
-PUBLISHER = "जीवानन्दविद्यासागरः"
-"PUBLISH YEAR" = "1899"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतदर्शनम्"
-PAGES = "219"
-LANGUAGE = "संस्कॄतम्"
-"PRIMARY COMMENTATOR" = "जीवानन्दविद्यासागरः"
-PRINTER = "सिद्धेश्वरयन्त्रम् कलिकातानगरी"
-"SERIAL NO." = "Ebharati-8401"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIyNzg1MjM0NDY0NjA4&pageno=MjI0MjQyNjk5NTk="
 title = "वेदान्तपरिभाषा"
+author = "धर्मराजाध्वरीन्द्रः"
+publisher = "जीवानन्दविद्यासागरः"
+"publish year" = "1899"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतदर्शनम्"
+pages = "219"
+language = "संस्कॄतम्"
+"primary commentator" = "जीवानन्दविद्यासागरः"
+printer = "सिद्धेश्वरयन्त्रम् कलिकातानगरी"
+"serial no." = "Ebharati-8401"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIyNzg1MjM0NDY0NjA4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वेदान्तपरिभाषा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjIyNzg1MjM0NDY0NjA4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2096,19 +2095,6 @@ title = "वेदान्तपरिभाषा"
 
  इति पण्डितकुलपतिना वि. ए. उपाधिधारिणा श्रीजीवानन्दविद्यासागरभट्टाचार्य्येण प्राचीनां व्याख्यामवलम्ब्य सङ्कलिता वेदान्तपरिभाषाव्याख्या समाप्ता।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

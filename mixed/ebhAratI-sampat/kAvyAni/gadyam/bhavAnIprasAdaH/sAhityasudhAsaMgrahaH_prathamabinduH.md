@@ -1,17 +1,16 @@
 +++
-TITLE = "साहित्यसुधासंग्रहः (प्रथमबिन्दुः)"
-AUTHOR = "भवानीप्रसादः"
-PUBLISHER = "नन्दलालः"
-"PUBLISH YEAR" = "1926"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "गद्यम्"
-PAGES = "185"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वागीश्वरविद्यालङ्कारः"
-PRINTER = "गुरुकुल-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5368"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzAzNTE1&pageno=MjI0MjQyNjk5NTk="
 title = "साहित्यसुधासंग्रहः (प्रथमबिन्दुः)"
+author = "भवानीप्रसादः"
+publisher = "नन्दलालः"
+"publish year" = "1926"
+domain = "काव्यानि"
+sub-domain = "गद्यम्"
+pages = "185"
+language = "संस्कृतम्"
+editor = "वागीश्वरविद्यालङ्कारः"
+printer = "गुरुकुल-मुद्रणालयः"
+"serial no." = "Ebharati-5368"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzAzNTE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[साहित्यसुधासंग्रहः (प्रथमबिन्दुः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzAzNTE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5901,8 +5900,5 @@ title = "साहित्यसुधासंग्रहः (प्रथम
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

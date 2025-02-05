@@ -1,18 +1,17 @@
 +++
-TITLE = "शिवस्तोत्रावली"
-AUTHOR = "उत्पलदेवाचार्य्यः"
-PUBLISHER = "हरिदासगुप्तः"
-"PUBLISH YEAR" = "1903"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "167"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "प्रमदादासमित्रः कालिचरणमित्रः"
-"PRIMARY COMMENTATOR" = "क्षेमराजः"
-PRINTER = "हरिदासगुप्त-तारा-यनि्त"
-"SERIAL NO." = "Ebharati-7125"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU3NjUyNzIyMzc5Mzg2&pageno=MjI0MjQyNjk5NTk="
 title = "शिवस्तोत्रावली"
+author = "उत्पलदेवाचार्य्यः"
+publisher = "हरिदासगुप्तः"
+"publish year" = "1903"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "167"
+language = "संस्कृतम्"
+editor = "प्रमदादासमित्रः कालिचरणमित्रः"
+"primary commentator" = "क्षेमराजः"
+printer = "हरिदासगुप्त-तारा-यनि्त"
+"serial no." = "Ebharati-7125"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU3NjUyNzIyMzc5Mzg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शिवस्तोत्रावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU3NjUyNzIyMzc5Mzg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3252,19 +3251,6 @@ title = "शिवस्तोत्रावली"
 तस्माद्गुरोरभिनवात्परमेशमूर्तेः  
 क्षेमो निशम्य विवृति व्यतनोदमुत्र॥३॥ॐ तत्सत्॥**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

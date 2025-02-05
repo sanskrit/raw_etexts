@@ -1,13 +1,12 @@
 +++
-TITLE = "दत्तात्रेयस्तोत्रम् (नारदकृतम्)"
-AUTHOR = "नारद"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2890"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg1OTk1MDQxOTI0Nzcy&pageno=MjI0MjQyNjk5NTk="
 title = "दत्तात्रेयस्तोत्रम् (नारदकृतम्)"
+author = "नारद"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2890"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg1OTk1MDQxOTI0Nzcy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दत्तात्रेयस्तोत्रम् (नारदकृतम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDg1OTk1MDQxOTI0Nzcy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -72,19 +71,6 @@ title = "दत्तात्रेयस्तोत्रम् (नारद
 दत्तात्रेयप्रसादाच्च नारदेन प्रकीर्तितम् ॥ १८॥  
 ॥ इति श्रीनारदपुराणे नारदविरचितं  
            दत्तात्रेयस्तोत्रं सुसंपूर्णम् ॥
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

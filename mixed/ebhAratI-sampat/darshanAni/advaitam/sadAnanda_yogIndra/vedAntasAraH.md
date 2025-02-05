@@ -1,13 +1,12 @@
 +++
-TITLE = "वेदान्तसारः"
-AUTHOR = "सदानन्द योगीन्द्र"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "Samskrtham"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2514"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA5ODQ0MzU1NDMzMTQy&pageno=MjI0MjQyNjk5NTk="
 title = "वेदान्तसारः"
+author = "सदानन्द योगीन्द्र"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "Samskrtham"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2514"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA5ODQ0MzU1NDMzMTQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वेदान्तसारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODA5ODQ0MzU1NDMzMTQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1142,19 +1141,6 @@ title = "वेदान्तसारः"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

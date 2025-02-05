@@ -1,13 +1,12 @@
 +++
-TITLE = "श्रीभाष्यम्"
-AUTHOR = "श्रीभगवद्रामानुजाचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "विशिष्टाद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4215"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDM3ODA4MTYxNDI2NDA0"
 title = "श्रीभाष्यम्"
+author = "श्रीभगवद्रामानुजाचार्यः"
+domain = "दर्शनानि"
+sub-domain = "विशिष्टाद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4215"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDM3ODA4MTYxNDI2NDA0"
 
 +++
 [[श्रीभाष्यम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDM3ODA4MTYxNDI2NDA0)]]

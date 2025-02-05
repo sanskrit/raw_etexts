@@ -1,12 +1,11 @@
 +++
-TITLE = "वृत्तरत्नाकरः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "छन्दांसि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3503"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYyNDAyNzM4NDcyNjMz&pageno=MjI0MjQyNjk5NTk="
 title = "वृत्तरत्नाकरः"
+domain = "वेदाङ्गानि"
+sub-domain = "छन्दांसि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3503"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYyNDAyNzM4NDcyNjMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वृत्तरत्नाकरः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjYyNDAyNzM4NDcyNjMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -479,8 +478,5 @@ title = "वृत्तरत्नाकरः"
   इति श्रीकेदारभट्टविरचिते वृत्तरत्नाकरे षष्ठोऽध्यायः॥  
    -------- \*\*\*\*\*\* --------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

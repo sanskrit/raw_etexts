@@ -1,15 +1,14 @@
 +++
-TITLE = "बृहत्स्तोत्ररत्नाकरः"
-PUBLISHER = "क्षेमराजश्रीकृष्णदासः"
-"PUBLISH YEAR" = "1916"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "419"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7062"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYxNDg5MzY0NTI5Nzc2&pageno=MjI0MjQyNjk5NTk="
 title = "बृहत्स्तोत्ररत्नाकरः"
+publisher = "क्षेमराजश्रीकृष्णदासः"
+"publish year" = "1916"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "419"
+language = "संस्कृतम्"
+printer = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-7062"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYxNDg5MzY0NTI5Nzc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बृहत्स्तोत्ररत्नाकरः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDYxNDg5MzY0NTI5Nzc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11298,8 +11297,5 @@ title = "बृहत्स्तोत्ररत्नाकरः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

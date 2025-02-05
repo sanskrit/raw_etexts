@@ -1,13 +1,12 @@
 +++
-TITLE = "गुरुक्रियाक्रमः"
-AUTHOR = "दीपङ्करश्रीज्ञान-आचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3713"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg4MjExODQwNDM0NjUz&pageno=MjI0MjQyNjk5NTk="
 title = "गुरुक्रियाक्रमः"
+author = "दीपङ्करश्रीज्ञान-आचार्यः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3713"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg4MjExODQwNDM0NjUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गुरुक्रियाक्रमः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njg4MjExODQwNDM0NjUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -42,8 +41,5 @@ title = "गुरुक्रियाक्रमः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

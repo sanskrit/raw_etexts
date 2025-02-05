@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीगरुडपुराणम्"
-AUTHOR = "वेदव्यासमहर्षिः"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "पुराणसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2741"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjA3ODc0MDA3NTIxMzYy"
 title = "श्रीगरुडपुराणम्"
+author = "वेदव्यासमहर्षिः"
+domain = "पुराणानि"
+sub-domain = "पुराणसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2741"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjA3ODc0MDA3NTIxMzYy"
 
 +++
 [[श्रीगरुडपुराणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjA3ODc0MDA3NTIxMzYy)]]

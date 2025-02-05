@@ -1,17 +1,16 @@
 +++
-TITLE = "Raghu Vira Kosha Alphabet PQR"
-AUTHOR = "Raghu Vira"
-PUBLISHER = "International academy of indian culture New delhi"
-"PUBLISH YEAR" = "1976"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "रघुवीरकोशः"
-PAGES = "203"
-LANGUAGE = "English-Hindi"
-"BOOKS CONTRIBUTOR" = "डा. शशिबाला"
-PRINTER = "Jayyed Press Delhi6"
-"SERIAL NO." = "Ebharati-5254"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgxNTg2NzUyNDYzNDA1&pageno=MjI0MjQyNjk5NTk="
 title = "Raghu Vira Kosha Alphabet PQR"
+author = "Raghu Vira"
+publisher = "International academy of indian culture New delhi"
+"publish year" = "1976"
+domain = "कोषाः"
+sub-domain = "रघुवीरकोशः"
+pages = "203"
+language = "English-Hindi"
+"books contributor" = "डा. शशिबाला"
+printer = "Jayyed Press Delhi6"
+"serial no." = "Ebharati-5254"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgxNTg2NzUyNDYzNDA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[Raghu Vira Kosha Alphabet PQR	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODgxNTg2NzUyNDYzNDA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -40486,8 +40485,5 @@ R. Z. (rice zone) **त. क्षे.** (तण्डुल.क्षेत्�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,17 +1,16 @@
 +++
-TITLE = "ईसब्नीतिकथाः (द्वितीयोभागः)"
-AUTHOR = "सदाशिव-काशिनाथ-छत्रे"
-PUBLISHER = "तुकराम-जावाजी"
-"PUBLISH YEAR" = "1916"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "70"
-LANGUAGE = "संस्कृतम्"
-TRANSLATOR = "नारायण-बालकृष्ण-गोडबोले"
-PRINTER = "रामचन्द्र-येसु-शेडगे"
-"SERIAL NO." = "Ebharati-7852"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ1Nzk0NTk0MjY3MzU3&pageno=MjI0MjQyNjk5NTk="
 title = "ईसब्नीतिकथाः (द्वितीयोभागः)"
+author = "सदाशिव-काशिनाथ-छत्रे"
+publisher = "तुकराम-जावाजी"
+"publish year" = "1916"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "70"
+language = "संस्कृतम्"
+translator = "नारायण-बालकृष्ण-गोडबोले"
+printer = "रामचन्द्र-येसु-शेडगे"
+"serial no." = "Ebharati-7852"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ1Nzk0NTk0MjY3MzU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ईसब्नीतिकथाः (द्वितीयोभागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQ1Nzk0NTk0MjY3MzU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -977,8 +976,5 @@ Sri Gargeshwar Digital Foundation
 
 \_\_\_\_\_\_\_\_\_\_\_
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

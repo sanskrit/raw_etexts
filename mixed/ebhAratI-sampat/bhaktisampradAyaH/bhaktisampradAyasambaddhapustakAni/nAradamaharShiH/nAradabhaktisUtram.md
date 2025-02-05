@@ -1,13 +1,12 @@
 +++
-TITLE = "नारदभक्तिसूत्रम्"
-AUTHOR = "नारदमहर्षिः"
-DOMAIN = "भक्तिसम्प्रदायः"
-SUB-DOMAIN = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2679"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1ODQ0MzM5MzcxNzUy&pageno=MjI0MjQyNjk5NTk="
 title = "नारदभक्तिसूत्रम्"
+author = "नारदमहर्षिः"
+domain = "भक्तिसम्प्रदायः"
+sub-domain = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2679"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1ODQ0MzM5MzcxNzUy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नारदभक्तिसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODM1ODQ0MzM5MzcxNzUy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -310,19 +309,6 @@ title = "नारदभक्तिसूत्रम्"
 
 
 **॥ समाप्तमिदं नारदभक्तिसूत्रम् ॥**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

@@ -1,17 +1,16 @@
 +++
-TITLE = "सत्यहरिश्चन्द्रनाटकम्"
-AUTHOR = "रामचन्द्रः"
-PUBLISHER = "पाण्डुरङ्गजावजी"
-"PUBLISH YEAR" = "1923"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "66"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "भास्कररामचन्द्रआपटे शङ्करविष्णुपौराणिकः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5559"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk4MzI2MTExMzQ2MzM1&pageno=MjI0MjQyNjk5NTk="
 title = "सत्यहरिश्चन्द्रनाटकम्"
+author = "रामचन्द्रः"
+publisher = "पाण्डुरङ्गजावजी"
+"publish year" = "1923"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "66"
+language = "संस्कृतम्"
+editor = "भास्कररामचन्द्रआपटे शङ्करविष्णुपौराणिकः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-5559"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk4MzI2MTExMzQ2MzM1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सत्यहरिश्चन्द्रनाटकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODk4MzI2MTExMzQ2MzM1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2256,19 +2255,6 @@ title = "सत्यहरिश्चन्द्रनाटकम्"
 **॥ शुभं भवतु ॥**
 
 **——————**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

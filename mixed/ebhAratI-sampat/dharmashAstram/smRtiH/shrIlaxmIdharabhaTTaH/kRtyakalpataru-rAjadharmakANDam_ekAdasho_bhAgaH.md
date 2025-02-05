@@ -1,17 +1,16 @@
 +++
-TITLE = "कृत्यकल्पतरु-राजधर्मकाण्डम् (एकादशो भागः)"
-AUTHOR = "श्रीलक्ष्मीधरभट्टः"
-PUBLISHER = "बिनय्तोश-भट्टाचार्यः"
-"PUBLISH YEAR" = "1943"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "410"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रङ्गस्वामि-अय्यङ्गारः"
-PRINTER = "विद्याविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6441"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAxMDQ0Nzk3MTEzODE2&pageno=MjI0MjQyNjk5NTk="
 title = "कृत्यकल्पतरु-राजधर्मकाण्डम् (एकादशो भागः)"
+author = "श्रीलक्ष्मीधरभट्टः"
+publisher = "बिनय्तोश-भट्टाचार्यः"
+"publish year" = "1943"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "410"
+language = "संस्कृतम्"
+editor = "रङ्गस्वामि-अय्यङ्गारः"
+printer = "विद्याविलास-मुद्रणालयः"
+"serial no." = "Ebharati-6441"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAxMDQ0Nzk3MTEzODE2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कृत्यकल्पतरु-राजधर्मकाण्डम् (एकादशो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjAxMDQ0Nzk3MTEzODE2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9909,8 +9908,5 @@ Rajadharna-Kāṇḍam.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

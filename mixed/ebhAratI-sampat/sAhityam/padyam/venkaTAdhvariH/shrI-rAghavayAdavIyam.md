@@ -1,13 +1,12 @@
 +++
-TITLE = "श्री-राघवयादवीयम्"
-AUTHOR = "वेङ्कटाध्वरिः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3126"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxMTE4MzUyNDgwMDAz&pageno=MjI0MjQyNjk5NTk="
 title = "श्री-राघवयादवीयम्"
+author = "वेङ्कटाध्वरिः"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3126"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxMTE4MzUyNDgwMDAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्री-राघवयादवीयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjcxMTE4MzUyNDgwMDAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -359,19 +358,6 @@ title = "श्री-राघवयादवीयम्"
 **\।\।इति श्रीवेङ्कटाध्वरि कृतं**
 
 **श्री राघव यादवीयं समाप्तम् \।\।**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

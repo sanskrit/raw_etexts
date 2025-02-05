@@ -1,17 +1,16 @@
 +++
-TITLE = "कादम्बिनी"
-AUTHOR = "मधुसूदनजी-शर्मा-ओझा"
-PUBLISHER = "प्रद्युम्न-शर्मा-ओझा"
-"PUBLISH YEAR" = "1942"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "397"
-LANGUAGE = "संस्कृतम् हिन्दी"
-EDITOR = "प्रद्युम्न-शर्मा-ओझा"
-PRINTER = "हरिमोहन-प्रिण्टिङ्ग्-प्रेस् जयपुर"
-"SERIAL NO." = "Ebharati-5828"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE0NTM4MDAxNjY0OTU1&pageno=MjI0MjQyNjk5NTk="
 title = "कादम्बिनी"
+author = "मधुसूदनजी-शर्मा-ओझा"
+publisher = "प्रद्युम्न-शर्मा-ओझा"
+"publish year" = "1942"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "397"
+language = "संस्कृतम् हिन्दी"
+editor = "प्रद्युम्न-शर्मा-ओझा"
+printer = "हरिमोहन-प्रिण्टिङ्ग्-प्रेस् जयपुर"
+"serial no." = "Ebharati-5828"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE0NTM4MDAxNjY0OTU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कादम्बिनी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjE0NTM4MDAxNjY0OTU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10754,19 +10753,6 @@ A Hindoo savant in London.**
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

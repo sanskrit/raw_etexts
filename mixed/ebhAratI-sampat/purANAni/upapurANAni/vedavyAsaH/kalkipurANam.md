@@ -1,16 +1,15 @@
 +++
-TITLE = "कल्किपुराणम्"
-AUTHOR = "वेदव्यासः"
-PUBLISHER = "जिवानन्दविद्यासागरः"
-"PUBLISH YEAR" = "1890"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "उपपुराणानि"
-PAGES = "138"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "नारायण-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6939"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUyNjYxNjI5NzExNjY2&pageno=MjI0MjQyNjk5NTk="
 title = "कल्किपुराणम्"
+author = "वेदव्यासः"
+publisher = "जिवानन्दविद्यासागरः"
+"publish year" = "1890"
+domain = "पुराणानि"
+sub-domain = "उपपुराणानि"
+pages = "138"
+language = "संस्कृतम्"
+printer = "नारायण-यन्त्रालयः"
+"serial no." = "Ebharati-6939"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUyNjYxNjI5NzExNjY2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कल्किपुराणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODUyNjYxNjI5NzExNjY2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4994,8 +4993,5 @@ title = "कल्किपुराणम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

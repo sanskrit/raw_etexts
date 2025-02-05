@@ -1,18 +1,17 @@
 +++
-TITLE = "अभिज्ञानशकुन्तलम्"
-AUTHOR = "कालिदासः"
-PUBLISHER = "जे.एन्. यादवः"
-"PUBLISH YEAR" = "1935"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "817"
-LANGUAGE = "संस्कृतम्"
-TRANSLATOR = "नारायणशास्त्रिखिस्ते"
-EDITOR = "नारायणशास्त्रिखिस्ते"
-PRINTER = "श्रीलक्ष्मीनारायण-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5520"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0OTYxODUyOTk4OTI1&pageno=MjI0MjQyNjk5NTk="
 title = "अभिज्ञानशकुन्तलम्"
+author = "कालिदासः"
+publisher = "जे.एन्. यादवः"
+"publish year" = "1935"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "817"
+language = "संस्कृतम्"
+translator = "नारायणशास्त्रिखिस्ते"
+editor = "नारायणशास्त्रिखिस्ते"
+printer = "श्रीलक्ष्मीनारायण-मुद्रणालयः"
+"serial no." = "Ebharati-5520"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0OTYxODUyOTk4OTI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अभिज्ञानशकुन्तलम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0OTYxODUyOTk4OTI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -16930,8 +16929,5 @@ Jatanbar, Benares City.
 
 ![](../books_images/U-IMG-1730191110Screenshot2024-10-29140813.png)
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

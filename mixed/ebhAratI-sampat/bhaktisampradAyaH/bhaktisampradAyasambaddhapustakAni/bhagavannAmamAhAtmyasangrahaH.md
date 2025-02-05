@@ -1,15 +1,14 @@
 +++
-TITLE = "भगवन्नाममाहात्म्यसङ्ग्रहः"
-"PUBLISH YEAR" = "1934"
-DOMAIN = "भक्तिसम्प्रदायः"
-SUB-DOMAIN = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
-PAGES = "255"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गोपिनाथः कविराजः"
-PRINTER = "JKD Gupta Vidya VIlas Press Benares city"
-"SERIAL NO." = "Ebharati-276"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc0ODA5MjY5NDk0NjI=&pageno=MjI0MjQyNjk5NTk="
 title = "भगवन्नाममाहात्म्यसङ्ग्रहः"
+"publish year" = "1934"
+domain = "भक्तिसम्प्रदायः"
+sub-domain = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
+pages = "255"
+language = "संस्कृतम्"
+editor = "गोपिनाथः कविराजः"
+printer = "JKD Gupta Vidya VIlas Press Benares city"
+"serial no." = "Ebharati-276"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc0ODA5MjY5NDk0NjI=&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भगवन्नाममाहात्म्यसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc0ODA5MjY5NDk0NjI=&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5398,8 +5397,5 @@ xरोप्य भङयन्तरेण महादेवादिना�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

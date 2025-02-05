@@ -1,13 +1,12 @@
 +++
-TITLE = "पारिशिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-PAGES = "18"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3574"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjE0MDc1MDkwMzQz&pageno=MjI0MjQyNjk5NTk="
 title = "पारिशिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+pages = "18"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3574"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjE0MDc1MDkwMzQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पारिशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjE0MDc1MDkwMzQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -592,8 +591,5 @@ title = "पारिशिक्षा"
 
 **                                 पारि शिक्षा समाप्ता**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

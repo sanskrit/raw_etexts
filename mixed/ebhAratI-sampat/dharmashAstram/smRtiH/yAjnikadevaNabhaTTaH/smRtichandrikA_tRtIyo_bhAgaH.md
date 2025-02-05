@@ -1,16 +1,15 @@
 +++
-TITLE = "स्मृतिचन्द्रिका (तृतीयो भागः)"
-AUTHOR = "याज्ञिकदेवणभट्टः"
-"PUBLISH YEAR" = "1914"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "332"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "एल्.श्रीनिवासाचार्यः"
-PRINTER = "गवर्मेण्ट-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6479"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxMjU2NDU2OTU5MTI2&pageno=MjI0MjQyNjk5NTk="
 title = "स्मृतिचन्द्रिका (तृतीयो भागः)"
+author = "याज्ञिकदेवणभट्टः"
+"publish year" = "1914"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "332"
+language = "संस्कृतम्"
+editor = "एल्.श्रीनिवासाचार्यः"
+printer = "गवर्मेण्ट-यन्त्रालयः"
+"serial no." = "Ebharati-6479"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxMjU2NDU2OTU5MTI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्मृतिचन्द्रिका (तृतीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODMxMjU2NDU2OTU5MTI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8443,8 +8442,5 @@ The following manuscripts have been used for editing this Volume :—
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

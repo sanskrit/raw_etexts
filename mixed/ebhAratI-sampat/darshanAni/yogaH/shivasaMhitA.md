@@ -1,16 +1,15 @@
 +++
-TITLE = "शिवसंहिता"
-PUBLISHER = "भुवनेश्वरी आश्रम"
-"PUBLISH YEAR" = "1914"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "90"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "श्रीश चन्द्र वसु"
-PRINTER = "द इण्डियन् प्रेस् अलहाबाद"
-"SERIAL NO." = "Ebharati-5693"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0ODAxODA2NjA1NjQ1&pageno=MjI0MjQyNjk5NTk="
 title = "शिवसंहिता"
+publisher = "भुवनेश्वरी आश्रम"
+"publish year" = "1914"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "90"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "श्रीश चन्द्र वसु"
+printer = "द इण्डियन् प्रेस् अलहाबाद"
+"serial no." = "Ebharati-5693"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0ODAxODA2NjA1NjQ1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शिवसंहिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0ODAxODA2NjA1NjQ1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3774,8 +3773,5 @@ the universe, wherever he likes; he sees the pores of the earth, i.e., he sees t
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

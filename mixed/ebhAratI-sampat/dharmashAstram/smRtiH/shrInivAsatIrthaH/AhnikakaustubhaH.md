@@ -1,16 +1,15 @@
 +++
-TITLE = "आह्निककौस्तुभः"
-AUTHOR = "श्रीनिवासतीर्थः"
-PUBLISHER = "श्रीगलगलीरामचार्यः"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "68"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "श्रीगलगलीरामचार्यः-श्रीमहाव्याघ्रगोपालाचार्यः"
-PRINTER = "विजयालक्ष्मी-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6485"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc2NjAxMjM2NTM1MjI2&pageno=MjI0MjQyNjk5NTk="
 title = "आह्निककौस्तुभः"
+author = "श्रीनिवासतीर्थः"
+publisher = "श्रीगलगलीरामचार्यः"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "68"
+language = "संस्कृतम्"
+editor = "श्रीगलगलीरामचार्यः-श्रीमहाव्याघ्रगोपालाचार्यः"
+printer = "विजयालक्ष्मी-मुद्रणालयः"
+"serial no." = "Ebharati-6485"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc2NjAxMjM2NTM1MjI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आह्निककौस्तुभः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc2NjAxMjM2NTM1MjI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -977,8 +976,5 @@ title = "आह्निककौस्तुभः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

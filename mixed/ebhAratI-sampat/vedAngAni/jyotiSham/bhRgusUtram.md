@@ -1,12 +1,11 @@
 +++
-TITLE = "भृगुसूत्रम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2636"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNDIwNTkwNjQwMzUy&pageno=MjI0MjQyNjk5NTk="
 title = "भृगुसूत्रम्"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2636"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNDIwNTkwNjQwMzUy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भृगुसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNDIwNTkwNjQwMzUy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -930,8 +929,5 @@ title = "भृगुसूत्रम्"
 अल्पपुत्रः ॥ ३१॥  
 नेत्ररोगी पापगतिः ॥ ३२॥
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

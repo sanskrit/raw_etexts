@@ -1,12 +1,11 @@
 +++
-TITLE = "आमरौघशासनं सटीकम्"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3949"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc0NDIzMTYxOTgwOTcz&pageno=MjI0MjQyNjk5NTk="
 title = "आमरौघशासनं सटीकम्"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3949"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc0NDIzMTYxOTgwOTcz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आमरौघशासनं सटीकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODc0NDIzMTYxOTgwOTcz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -182,8 +181,5 @@ title = "आमरौघशासनं सटीकम्"
 
 ------------------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

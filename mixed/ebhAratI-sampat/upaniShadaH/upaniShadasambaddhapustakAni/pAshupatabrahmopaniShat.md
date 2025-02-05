@@ -1,12 +1,11 @@
 +++
-TITLE = "पाशुपतब्रह्मोपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4312"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY2MzIzNzk3NTM5MzE0&pageno=MjI0MjQyNjk5NTk="
 title = "पाशुपतब्रह्मोपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4312"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY2MzIzNzk3NTM5MzE0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पाशुपतब्रह्मोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDY2MzIzNzk3NTM5MzE0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -371,8 +370,5 @@ title = "पाशुपतब्रह्मोपनिषत्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

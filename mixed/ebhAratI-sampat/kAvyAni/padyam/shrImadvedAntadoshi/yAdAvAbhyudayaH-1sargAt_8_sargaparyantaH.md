@@ -1,15 +1,14 @@
 +++
-TITLE = "यादावाभ्युदयः-१सर्गात् ८ सर्गपर्यन्तः"
-AUTHOR = "श्रीमद्वेदान्तदोशि"
-"PUBLISH YEAR" = "1951"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "244"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "वाविळ्ळ-रामस्वमिशास्त्रुलु-अण्ड्-सन्स्"
-"SERIAL NO." = "Ebharati-8895"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk2MzQzNjc1Njg4MzU4&pageno=MjI0MjQyNjk5NTk="
 title = "यादावाभ्युदयः-१सर्गात् ८ सर्गपर्यन्तः"
+author = "श्रीमद्वेदान्तदोशि"
+"publish year" = "1951"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "244"
+language = "संस्कृतम्"
+printer = "वाविळ्ळ-रामस्वमिशास्त्रुलु-अण्ड्-सन्स्"
+"serial no." = "Ebharati-8895"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk2MzQzNjc1Njg4MzU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[यादावाभ्युदयः-१सर्गात् ८ सर्गपर्यन्तः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDk2MzQzNjc1Njg4MzU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4353,19 +4352,6 @@ absence of pleasure; distress, pain, anguish. आयत long, growing.
 
 ‘Vavilla’ Press, Madras.-1951.
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

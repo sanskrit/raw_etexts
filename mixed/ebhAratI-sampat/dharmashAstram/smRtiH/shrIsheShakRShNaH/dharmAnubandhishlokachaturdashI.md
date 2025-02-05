@@ -1,15 +1,14 @@
 +++
-TITLE = "धर्मानुबन्धिश्लोकचतुर्दशी"
-AUTHOR = "श्रीशेषकृष्णः"
-"PUBLISH YEAR" = "1927"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "59"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "श्रीरामपण्डितशेषः"
-"SERIAL NO." = "Ebharati-4906"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMzMjIzNTY1NzU5MDc0&pageno=MjI0MjQyNjk5NTk="
 title = "धर्मानुबन्धिश्लोकचतुर्दशी"
+author = "श्रीशेषकृष्णः"
+"publish year" = "1927"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "59"
+language = "संस्कृतम्"
+"primary commentator" = "श्रीरामपण्डितशेषः"
+"serial no." = "Ebharati-4906"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMzMjIzNTY1NzU5MDc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[धर्मानुबन्धिश्लोकचतुर्दशी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjMzMjIzNTY1NzU5MDc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1441,19 +1440,6 @@ title = "धर्मानुबन्धिश्लोकचतुर्द�
 
 **![](../books_images/1685597536.png)**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

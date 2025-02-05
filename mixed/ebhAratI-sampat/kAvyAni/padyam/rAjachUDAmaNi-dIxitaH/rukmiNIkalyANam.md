@@ -1,14 +1,13 @@
 +++
-TITLE = "रुक्मिणीकल्याणम्"
-AUTHOR = "राजचूडामणि-दीक्षितः"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "180"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीवाणीविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7799"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcxOTQ2NDk2NDc2ODQ3&pageno=MjI0MjQyNjk5NTk="
 title = "रुक्मिणीकल्याणम्"
+author = "राजचूडामणि-दीक्षितः"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "180"
+language = "संस्कृतम्"
+printer = "श्रीवाणीविलास-मुद्रणालयः"
+"serial no." = "Ebharati-7799"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcxOTQ2NDk2NDc2ODQ3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रुक्मिणीकल्याणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODcxOTQ2NDk2NDc2ODQ3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4254,19 +4253,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **समाप्तश्चायं ग्रन्थः॥**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

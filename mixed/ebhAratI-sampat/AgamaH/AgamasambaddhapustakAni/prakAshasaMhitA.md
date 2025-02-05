@@ -1,11 +1,10 @@
 +++
-TITLE = "प्रकाशसंहिता"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "आगमसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-1157"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDUyMjg0MjU2NzYwMTEx"
 title = "प्रकाशसंहिता"
+domain = "आगमः"
+sub-domain = "आगमसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-1157"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDUyMjg0MjU2NzYwMTEx"
 
 +++
 [[प्रकाशसंहिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDUyMjg0MjU2NzYwMTEx)]]

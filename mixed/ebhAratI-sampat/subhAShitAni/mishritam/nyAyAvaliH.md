@@ -1,12 +1,11 @@
 +++
-TITLE = "न्यायावलिः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "मिश्रितम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4116"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU5ODA4MzM1MDIxNTkz&pageno=MjI0MjQyNjk5NTk="
 title = "न्यायावलिः"
+domain = "सुभाषितानि"
+sub-domain = "मिश्रितम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4116"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU5ODA4MzM1MDIxNTkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[न्यायावलिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjU5ODA4MzM1MDIxNTkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6035,8 +6034,5 @@ This maxim originates from an idea, that if any one live in a lake and quarrel w
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

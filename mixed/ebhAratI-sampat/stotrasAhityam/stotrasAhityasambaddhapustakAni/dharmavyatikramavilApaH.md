@@ -1,15 +1,14 @@
 +++
-TITLE = "धर्मव्यतिक्रमविलापः"
-"PUBLISH YEAR" = "1916"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "17"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "त.शं.नारायणशास्त्री"
-PRINTER = "श्रीशिवरहस्य-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7046"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE0NTAxNDI1OTgzNjc2&pageno=MjI0MjQyNjk5NTk="
 title = "धर्मव्यतिक्रमविलापः"
+"publish year" = "1916"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "17"
+language = "संस्कृतम्"
+editor = "त.शं.नारायणशास्त्री"
+printer = "श्रीशिवरहस्य-यन्त्रालयः"
+"serial no." = "Ebharati-7046"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE0NTAxNDI1OTgzNjc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[धर्मव्यतिक्रमविलापः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE0NTAxNDI1OTgzNjc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -236,8 +235,5 @@ title = "धर्मव्यतिक्रमविलापः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

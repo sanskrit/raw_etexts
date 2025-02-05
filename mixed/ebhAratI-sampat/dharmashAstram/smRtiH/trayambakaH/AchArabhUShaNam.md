@@ -1,16 +1,15 @@
 +++
-TITLE = "आचारभूषणम्"
-AUTHOR = "त्रयम्बकः"
-"PUBLISH YEAR" = "1908"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "454"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "हरिनारायण-आपटे"
-PRINTER = "आनन्दाश्रम-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5155"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0NTg2OTI2MDY4NDk0&pageno=MjI0MjQyNjk5NTk="
 title = "आचारभूषणम्"
+author = "त्रयम्बकः"
+"publish year" = "1908"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "454"
+language = "संस्कृतम्"
+editor = "हरिनारायण-आपटे"
+printer = "आनन्दाश्रम-मुद्रणालयः"
+"serial no." = "Ebharati-5155"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0NTg2OTI2MDY4NDk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आचारभूषणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE0NTg2OTI2MDY4NDk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -12670,8 +12669,5 @@ title = "आचारभूषणम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,17 +1,16 @@
 +++
-TITLE = "हितोपदेश:"
-AUTHOR = "भट्ट नारायण"
-PUBLISHER = "हरिनारायण गोखले"
-"PUBLISH YEAR" = "1907"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "246"
-LANGUAGE = "संस्कृतम् आङ्ग्ला"
-EDITOR = "महादेव शिवराम आप्टे"
-PRINTER = "हरिनारायण गोखले"
-"SERIAL NO." = "Ebharati-5307"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU1MzM1ODUwMjU0OTA1&pageno=MjI0MjQyNjk5NTk="
 title = "हितोपदेश:"
+author = "भट्ट नारायण"
+publisher = "हरिनारायण गोखले"
+"publish year" = "1907"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "246"
+language = "संस्कृतम् आङ्ग्ला"
+editor = "महादेव शिवराम आप्टे"
+printer = "हरिनारायण गोखले"
+"serial no." = "Ebharati-5307"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU1MzM1ODUwMjU0OTA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हितोपदेश:	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDU1MzM1ODUwMjU0OTA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5129,19 +5128,6 @@ with these, but should only fight,for these when fought with easily come within 
                                   
 ![](../books_images/U-IMG-1729251838Screenshot2024-10-18171342.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

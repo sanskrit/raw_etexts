@@ -1,17 +1,16 @@
 +++
-TITLE = "आरोग्यचिन्तामणिः"
-AUTHOR = "दामोदरभट्टाचार्यः"
-PUBLISHER = "गवर्न्मेन्ट् ओरिएन्टल् मानुस्क्रिप्ट्स् लैब्ररि मड्रास्"
-"PUBLISH YEAR" = "1951"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "318"
-LANGUAGE = "संस्कॄतम्"
-EDITOR = "विश्वनाथशर्मा"
-PRINTER = "रामरत्नम्"
-"SERIAL NO." = "Ebharati-8806"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMxODY3MDE5MjQzNTQ4&pageno=MjI0MjQyNjk5NTk="
 title = "आरोग्यचिन्तामणिः"
+author = "दामोदरभट्टाचार्यः"
+publisher = "गवर्न्मेन्ट् ओरिएन्टल् मानुस्क्रिप्ट्स् लैब्ररि मड्रास्"
+"publish year" = "1951"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "318"
+language = "संस्कॄतम्"
+editor = "विश्वनाथशर्मा"
+printer = "रामरत्नम्"
+"serial no." = "Ebharati-8806"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMxODY3MDE5MjQzNTQ4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आरोग्यचिन्तामणिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjMxODY3MDE5MjQzNTQ4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10266,8 +10265,5 @@ Mylapore
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,12 +1,11 @@
 +++
-TITLE = "सामवेदसप्तलक्षणानि"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3963"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgzODE3ODAxMzM0MDgz&pageno=MjI0MjQyNjk5NTk="
 title = "सामवेदसप्तलक्षणानि"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3963"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgzODE3ODAxMzM0MDgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सामवेदसप्तलक्षणानि	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjgzODE3ODAxMzM0MDgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -334,8 +333,5 @@ title = "सामवेदसप्तलक्षणानि"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

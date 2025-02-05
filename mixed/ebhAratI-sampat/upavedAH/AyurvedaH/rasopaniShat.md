@@ -1,16 +1,15 @@
 +++
-TITLE = "रसोपनिषत्"
-PUBLISHER = "श्रीसेतुलक्ष्मीमहाराज्ञी"
-"PUBLISH YEAR" = "१९२८"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "251"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "के साम्बशिवशास्त्री"
-PRINTER = "राजकीय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-3473"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA2MTM5OTQ5NDkzMzMz&pageno=MjI0MjQyNjk5NTk="
 title = "रसोपनिषत्"
+publisher = "श्रीसेतुलक्ष्मीमहाराज्ञी"
+"publish year" = "१९२८"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "251"
+language = "संस्कृतम्"
+editor = "के साम्बशिवशास्त्री"
+printer = "राजकीय-मुद्रणालयः"
+"serial no." = "Ebharati-3473"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA2MTM5OTQ5NDkzMzMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रसोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjA2MTM5OTQ5NDkzMzMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -15082,8 +15081,5 @@ deva.       1 2 0
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

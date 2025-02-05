@@ -1,11 +1,10 @@
 +++
-TITLE = "तत्त्वदीपिका (ब्रह्मसूत्रभाष्यटीका)"
-AUTHOR = "त्रिविक्रमार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-"SERIAL NO." = "Ebharati-3142"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDI5OTg2MzkxMDI2MTAz"
 title = "तत्त्वदीपिका (ब्रह्मसूत्रभाष्यटीका)"
+author = "त्रिविक्रमार्यः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+"serial no." = "Ebharati-3142"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDI5OTg2MzkxMDI2MTAz"
 
 +++
 [[तत्त्वदीपिका (ब्रह्मसूत्रभाष्यटीका)	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDI5OTg2MzkxMDI2MTAz)]]

@@ -1,15 +1,14 @@
 +++
-TITLE = "पञ्चतन्त्रम् ४५"
-"PUBLISH YEAR" = "1891"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "98"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "जि. बूह्लर्"
-PRINTER = "एजुकेषन् सोसैटि प्रेस् बाम्बे"
-"SERIAL NO." = "Ebharati-5655"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU4MjQ1&pageno=MjI0MjQyNjk5NTk="
 title = "पञ्चतन्त्रम् ४५"
+"publish year" = "1891"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "98"
+language = "संस्कृतम्"
+editor = "जि. बूह्लर्"
+printer = "एजुकेषन् सोसैटि प्रेस् बाम्बे"
+"serial no." = "Ebharati-5655"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU4MjQ1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पञ्चतन्त्रम् ४५	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU4MjQ1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1951,8 +1950,5 @@ THE END
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

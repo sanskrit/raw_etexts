@@ -1,12 +1,11 @@
 +++
-TITLE = "पाणिनीयशिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3571"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY5ODg2MTg1MjA4MjQz&pageno=MjI0MjQyNjk5NTk="
 title = "पाणिनीयशिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3571"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY5ODg2MTg1MjA4MjQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पाणिनीयशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjY5ODg2MTg1MjA4MjQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -142,8 +141,5 @@ paniniya_shiksha
        इति परिभाषा  
 इति पाणिनीय शिक्षा
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

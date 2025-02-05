@@ -1,16 +1,15 @@
 +++
-TITLE = "नलचरित्रनाटकम्"
-AUTHOR = "नीलकण्ठदीक्षितः"
-"PUBLISH YEAR" = "1925"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "135"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शङ्कररामशास्त्री"
-PRINTER = "श्रीबालमनोरमा-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5509"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3MjA1OTkyMzQ4ODI1&pageno=MjI0MjQyNjk5NTk="
 title = "नलचरित्रनाटकम्"
+author = "नीलकण्ठदीक्षितः"
+"publish year" = "1925"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "135"
+language = "संस्कृतम्"
+editor = "शङ्कररामशास्त्री"
+printer = "श्रीबालमनोरमा-मुद्रणालयः"
+"serial no." = "Ebharati-5509"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3MjA1OTkyMzQ4ODI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नलचरित्रनाटकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODk3MjA1OTkyMzQ4ODI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3131,19 +3130,6 @@ MANORAMĀ
 नीलकण्ठाध्वरिकृतं नलवृत्तसुशोभितम्।  
 नाटकं लिखितं रम्यं वीरराघवसूरिणा॥ इति रकोशे।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

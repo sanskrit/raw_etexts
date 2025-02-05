@@ -1,17 +1,16 @@
 +++
-TITLE = "प्रतापविजयम्"
-AUTHOR = "मूलशङ्करः"
-PUBLISHER = "मूलशङ्करः"
-"PUBLISH YEAR" = "1931"
-DOMAIN = "चरितानि - Biography"
-SUB-DOMAIN = "चरितसम्बद्धपुस्तकानि"
-PAGES = "137"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "श्रीधरशास्त्री"
-PRINTER = "बरोडा-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6206"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM5MDc0MDg2MjU3NTk1&pageno=MjI0MjQyNjk5NTk="
 title = "प्रतापविजयम्"
+author = "मूलशङ्करः"
+publisher = "मूलशङ्करः"
+"publish year" = "1931"
+domain = "चरितानि - Biography"
+sub-domain = "चरितसम्बद्धपुस्तकानि"
+pages = "137"
+language = "संस्कृतम्"
+"primary commentator" = "श्रीधरशास्त्री"
+printer = "बरोडा-मुद्रणालयः"
+"serial no." = "Ebharati-6206"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM5MDc0MDg2MjU3NTk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रतापविजयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjM5MDc0MDg2MjU3NTk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3903,19 +3902,6 @@ x
 आरोहावरोह  
 सा *रे* *ग* म प *ध* *नि* सां *नि* *ध* प म *ग* *रे* सा ।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

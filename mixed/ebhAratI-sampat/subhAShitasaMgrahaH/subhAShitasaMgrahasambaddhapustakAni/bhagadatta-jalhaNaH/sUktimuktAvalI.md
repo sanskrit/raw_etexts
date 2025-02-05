@@ -1,17 +1,16 @@
 +++
-TITLE = "सूक्तिमुक्तावली"
-AUTHOR = "भगदत्त-जल्हणः"
-PUBLISHER = "बिनोयतोष-भट्टाचार्यः"
-"PUBLISH YEAR" = "1938"
-DOMAIN = "सुभाषितसंग्रहः"
-SUB-DOMAIN = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
-PAGES = "627"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "कृष्णमाचार्यः"
-PRINTER = "बोम्बे-वैभव-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7204"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwODA0MDM5NjU1MTk2&pageno=MjI0MjQyNjk5NTk="
 title = "सूक्तिमुक्तावली"
+author = "भगदत्त-जल्हणः"
+publisher = "बिनोयतोष-भट्टाचार्यः"
+"publish year" = "1938"
+domain = "सुभाषितसंग्रहः"
+sub-domain = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
+pages = "627"
+language = "संस्कृतम्"
+editor = "कृष्णमाचार्यः"
+printer = "बोम्बे-वैभव-मुद्रणालयः"
+"serial no." = "Ebharati-7204"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwODA0MDM5NjU1MTk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सूक्तिमुक्तावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODgwODA0MDM5NjU1MTk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -22962,19 +22961,6 @@ THE GAEKWAD'S STUDIES IN RELIGION AND PHILOSOPHY.
 
 [TABLE]
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

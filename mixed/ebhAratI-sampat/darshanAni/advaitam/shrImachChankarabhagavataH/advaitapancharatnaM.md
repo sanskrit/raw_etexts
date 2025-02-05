@@ -1,14 +1,13 @@
 +++
-TITLE = "अद्वैतपञ्चरत्नं"
-AUTHOR = "श्रीमच्छङ्करभगवतः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "1"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2534"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQzNzkyODc0NDUyMzQy&pageno=MjI0MjQyNjk5NTk="
 title = "अद्वैतपञ्चरत्नं"
+author = "श्रीमच्छङ्करभगवतः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "1"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2534"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQzNzkyODc0NDUyMzQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अद्वैतपञ्चरत्नं	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQzNzkyODc0NDUyMzQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -85,8 +84,5 @@ title = "अद्वैतपञ्चरत्नं"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

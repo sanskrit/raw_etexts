@@ -1,17 +1,16 @@
 +++
-TITLE = "निर्णयसिन्धुः"
-AUTHOR = "कमलाकरभट्टः"
-PUBLISHER = "सत्यभामबाई-पाण्डुरङ्गः"
-"PUBLISH YEAR" = "1949"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "464"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "काव्यतीर्थः"
-PRINTER = "निर्णयसागर-यन्त्रालयः-मुम्बई"
-"SERIAL NO." = "Ebharati-5198"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU1OTAxODY0ODg5ODk0&pageno=MjI0MjQyNjk5NTk="
 title = "निर्णयसिन्धुः"
+author = "कमलाकरभट्टः"
+publisher = "सत्यभामबाई-पाण्डुरङ्गः"
+"publish year" = "1949"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "464"
+language = "संस्कृतम्"
+editor = "काव्यतीर्थः"
+printer = "निर्णयसागर-यन्त्रालयः-मुम्बई"
+"serial no." = "Ebharati-5198"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU1OTAxODY0ODg5ODk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[निर्णयसिन्धुः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjU1OTAxODY0ODg5ODk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6950,19 +6949,6 @@ Printer :- Ramchandra Yesu Shedge,
 
 **समाप्तोऽयं निबन्धः ॥**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

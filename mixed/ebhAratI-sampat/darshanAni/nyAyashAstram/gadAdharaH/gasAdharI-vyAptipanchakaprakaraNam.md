@@ -1,13 +1,12 @@
 +++
-TITLE = "गसाधरी-व्याप्तिपञ्चकप्रकरणम्"
-AUTHOR = "गदाधरः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4054"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg3ODc3NjY3ODYxOTgz"
 title = "गसाधरी-व्याप्तिपञ्चकप्रकरणम्"
+author = "गदाधरः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4054"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg3ODc3NjY3ODYxOTgz"
 
 +++
 [[गसाधरी-व्याप्तिपञ्चकप्रकरणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODg3ODc3NjY3ODYxOTgz)]]

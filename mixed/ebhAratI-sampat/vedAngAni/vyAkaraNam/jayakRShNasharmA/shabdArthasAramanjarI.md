@@ -1,13 +1,12 @@
 +++
-TITLE = "शब्\u200dदार्थसारमञ्जरी"
-AUTHOR = "जयकृष्णशर्मा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3540"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg4MzcxODk2NjI4OTMz&pageno=MjI0MjQyNjk5NTk="
 title = "शब्\u200dदार्थसारमञ्जरी"
+author = "जयकृष्णशर्मा"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3540"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg4MzcxODk2NjI4OTMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शब्‍दार्थसारमञ्जरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDg4MzcxODk2NjI4OTMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -339,19 +338,6 @@ title = "शब्\u200dदार्थसारमञ्जरी"
 कृतेयं जयकृष्‍णेन शब्दार्थसारमञ्जरी॥
 
 **इति शाब्दिकजयकृष्‍णविरचिता शब्‍दार्थसारमञ्जरी समाप्ता॥ ऊँ तत्सत्।**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

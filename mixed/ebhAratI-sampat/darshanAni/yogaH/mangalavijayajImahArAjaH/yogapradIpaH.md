@@ -1,16 +1,15 @@
 +++
-TITLE = "योगप्रदीपः"
-AUTHOR = "मङ्गलविजयजीमहाराजः"
-PUBLISHER = "हेमचन्द-सवचन्द-शाह"
-"PUBLISH YEAR" = "सं. १९९६"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "801"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "वणिक-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1645"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxNDg3ODE4MzE5NzUx&pageno=MjI0MjQyNjk5NTk="
 title = "योगप्रदीपः"
+author = "मङ्गलविजयजीमहाराजः"
+publisher = "हेमचन्द-सवचन्द-शाह"
+"publish year" = "सं. १९९६"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "801"
+language = "संस्कृतम्"
+printer = "वणिक-मुद्रणालयः"
+"serial no." = "Ebharati-1645"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxNDg3ODE4MzE5NzUx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[योगप्रदीपः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDkxNDg3ODE4MzE5NzUx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -20686,19 +20685,6 @@ title = "योगप्रदीपः"
 
 [TABLE]
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

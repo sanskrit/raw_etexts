@@ -1,13 +1,12 @@
 +++
-TITLE = "स्वयं-संस्कृतम्"
-AUTHOR = "रामस्वरूपशास्त्री"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "70"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"SERIAL NO." = "Ebharati-7009"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NTMxMzY2NzM4Mjc2&pageno=MjI0MjQyNjk5NTk="
 title = "स्वयं-संस्कृतम्"
+author = "रामस्वरूपशास्त्री"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "70"
+language = "संस्कृतम् हिन्दी"
+"serial no." = "Ebharati-7009"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NTMxMzY2NzM4Mjc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्वयं-संस्कृतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NTMxMzY2NzM4Mjc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2036,19 +2035,6 @@ title = "स्वयं-संस्कृतम्"
 
 **—०—**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

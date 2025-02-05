@@ -1,17 +1,16 @@
 +++
-TITLE = "कौलोपनिषत्"
-AUTHOR = "सदाशिवः"
-"PUBLISH YEAR" = "1922"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "अन्याः उपनिषदः"
-PAGES = "114"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "सीताराम-शास्त्री"
-"PRIMARY COMMENTATOR" = "भास्करारायः"
-PRINTER = "एस्.सि.चौधरी"
-"SERIAL NO." = "Ebharati-7230"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYwMTE3MjM4MjUwNDk2&pageno=MjI0MjQyNjk5NTk="
 title = "कौलोपनिषत्"
+author = "सदाशिवः"
+"publish year" = "1922"
+domain = "उपनिषदः"
+sub-domain = "अन्याः उपनिषदः"
+pages = "114"
+language = "संस्कृतम्"
+editor = "सीताराम-शास्त्री"
+"primary commentator" = "भास्करारायः"
+printer = "एस्.सि.चौधरी"
+"serial no." = "Ebharati-7230"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYwMTE3MjM4MjUwNDk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कौलोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDYwMTE3MjM4MjUwNDk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1940,19 +1939,6 @@ UNIVERSITY OF TORONTO LIBRARY
 
 —————————————————
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

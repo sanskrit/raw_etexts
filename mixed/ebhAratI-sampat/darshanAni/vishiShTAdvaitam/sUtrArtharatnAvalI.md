@@ -1,11 +1,10 @@
 +++
-TITLE = "सूत्रार्थरत्नावली"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "विशिष्टाद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4195"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDkyMDY5NjMyNDA3MjA0"
 title = "सूत्रार्थरत्नावली"
+domain = "दर्शनानि"
+sub-domain = "विशिष्टाद्वैतम्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4195"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDkyMDY5NjMyNDA3MjA0"
 
 +++
 [[सूत्रार्थरत्नावली	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDkyMDY5NjMyNDA3MjA0)]]

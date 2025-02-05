@@ -1,17 +1,16 @@
 +++
-TITLE = "नव्यमतीयपरामर्शकारणतावादः"
-AUTHOR = "महादेवः"
-PUBLISHER = "सम्पूर्णानन्दसंस्कृतविश्वविद्यालयः"
-"PUBLISH YEAR" = "सं. २०५४ १"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-PAGES = "58"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "राजारामशुक्लः"
-PRINTER = "विजय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1774"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI2NjUwNDMzNzkyMDcx&pageno=MjI0MjQyNjk5NTk="
 title = "नव्यमतीयपरामर्शकारणतावादः"
+author = "महादेवः"
+publisher = "सम्पूर्णानन्दसंस्कृतविश्वविद्यालयः"
+"publish year" = "सं. २०५४ १"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+pages = "58"
+language = "संस्कृतम्"
+editor = "राजारामशुक्लः"
+printer = "विजय-मुद्रणालयः"
+"serial no." = "Ebharati-1774"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI2NjUwNDMzNzkyMDcx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नव्यमतीयपरामर्शकारणतावादः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODI2NjUwNDMzNzkyMDcx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -918,19 +917,6 @@ Varanasi,
 
 ----------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

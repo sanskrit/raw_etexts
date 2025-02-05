@@ -1,15 +1,14 @@
 +++
-TITLE = "तत्वचिन्तामणिप्रकाशः असाधारणप्रकरणम्"
-AUTHOR = "रुचिदत्तः"
-"PUBLISH YEAR" = "१९९९"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "एन् एस् रामानुज-ताताचार्यः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4027"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzMzMyODY4Njc1Njgz&pageno=MjI0MjQyNjk5NTk="
 title = "तत्वचिन्तामणिप्रकाशः असाधारणप्रकरणम्"
+author = "रुचिदत्तः"
+"publish year" = "१९९९"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+editor = "एन् एस् रामानुज-ताताचार्यः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4027"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzMzMyODY4Njc1Njgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तत्वचिन्तामणिप्रकाशः असाधारणप्रकरणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDkzMzMyODY4Njc1Njgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -412,19 +411,6 @@ F.N.१.पक्षव्यावृत्तत्वम्-ख २.तज्
 
 
 F.N.२.व्यावृत्तत्वेऽपि-क ३.यथा वा न साध्य-क ४.द्धयसंग्रहः-क ५.असाधारण्यलक्षण--क १.प्रतिबध्यत्वात्--क २.विरुद्धमिति-ख
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

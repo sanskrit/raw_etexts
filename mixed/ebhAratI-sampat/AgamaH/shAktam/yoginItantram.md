@@ -1,16 +1,15 @@
 +++
-TITLE = "योगिनीतन्त्रम्"
-PUBLISHER = "जीवानन्दविद्यासागरः"
-"PUBLISH YEAR" = "1897"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शाक्तम्"
-PAGES = "244"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "जीवानन्दविद्यासागरः"
-PRINTER = "कलिकातायन्त्रम् कलिकातानगरी"
-"SERIAL NO." = "Ebharati-8408"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNDgyNjA0NjMxNzA4&pageno=MjI0MjQyNjk5NTk="
 title = "योगिनीतन्त्रम्"
+publisher = "जीवानन्दविद्यासागरः"
+"publish year" = "1897"
+domain = "आगमः"
+sub-domain = "शाक्तम्"
+pages = "244"
+language = "संस्कृतम्"
+editor = "जीवानन्दविद्यासागरः"
+printer = "कलिकातायन्त्रम् कलिकातानगरी"
+"serial no." = "Ebharati-8408"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNDgyNjA0NjMxNzA4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[योगिनीतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNDgyNjA0NjMxNzA4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9730,19 +9729,6 @@ xलैः साक्षात्‌ सर्वपापौघहर्त�
 
 **समाप्तोऽयं ग्रन्थः।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

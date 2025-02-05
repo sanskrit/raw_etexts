@@ -1,17 +1,16 @@
 +++
-TITLE = "श्यामरहस्यम्"
-AUTHOR = "श्रीपूर्णानन्दगिरिपरमहंसः"
-PUBLISHER = "जीवानन्दविद्यासागरभट्टाचार्यः"
-"PUBLISH YEAR" = "1899"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "211"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "जीवानन्दविद्यासागरभट्टाचार्यः"
-PRINTER = "कलिकातायन्त्रम् कलिकातानगरम्"
-"SERIAL NO." = "Ebharati-6050"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxMzU2NjYyNzc3MDg1&pageno=MjI0MjQyNjk5NTk="
 title = "श्यामरहस्यम्"
+author = "श्रीपूर्णानन्दगिरिपरमहंसः"
+publisher = "जीवानन्दविद्यासागरभट्टाचार्यः"
+"publish year" = "1899"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "211"
+language = "संस्कृतम्"
+editor = "जीवानन्दविद्यासागरभट्टाचार्यः"
+printer = "कलिकातायन्त्रम् कलिकातानगरम्"
+"serial no." = "Ebharati-6050"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxMzU2NjYyNzc3MDg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्यामरहस्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDAxMzU2NjYyNzc3MDg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7412,19 +7411,6 @@ JIBANANDA VIDYASAGARA, B.A.
 श्यामारहस्यं समाप्तम्॥**
 
 **\_\_\_\_\_\_**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

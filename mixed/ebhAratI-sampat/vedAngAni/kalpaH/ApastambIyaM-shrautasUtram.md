@@ -1,17 +1,16 @@
 +++
-TITLE = "आपस्तम्बीयं-श्रौतसूत्रम्"
-PUBLISHER = "एशियाटिक-सोसैटि-आफ्-बेङ्गाल्"
-"PUBLISH YEAR" = "1882"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "478"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रिचर्ड्-गार्बे"
-"PRIMARY COMMENTATOR" = "रिचर्ड्-गार्बे"
-PRINTER = "जे.डब्ल्यू.थोमस्"
-"SERIAL NO." = "Ebharati-7476"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc4NjQzODA5NzY2NzE3&pageno=MjI0MjQyNjk5NTk="
 title = "आपस्तम्बीयं-श्रौतसूत्रम्"
+publisher = "एशियाटिक-सोसैटि-आफ्-बेङ्गाल्"
+"publish year" = "1882"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "478"
+language = "संस्कृतम्"
+editor = "रिचर्ड्-गार्बे"
+"primary commentator" = "रिचर्ड्-गार्बे"
+printer = "जे.डब्ल्यू.थोमस्"
+"serial no." = "Ebharati-7476"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc4NjQzODA5NzY2NzE3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आपस्तम्बीयं-श्रौतसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc4NjQzODA5NzY2NzE3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8141,8 +8140,5 @@ Königsberg, May 1882.
 
 [TABLE]
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

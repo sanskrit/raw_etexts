@@ -1,12 +1,11 @@
 +++
-TITLE = "हरिनामामृतव्याकरणं"
-AUTHOR = "जीवगोस्वामिः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3273"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAyNzQ0MTA3NTkxNDEz"
 title = "हरिनामामृतव्याकरणं"
+author = "जीवगोस्वामिः"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3273"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAyNzQ0MTA3NTkxNDEz"
 
 +++
 [[हरिनामामृतव्याकरणं	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjAyNzQ0MTA3NTkxNDEz)]]

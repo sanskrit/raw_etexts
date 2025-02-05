@@ -1,16 +1,15 @@
 +++
-TITLE = "संस्कृतकविपञ्चकः"
-PUBLISHER = "खोमराजश्रीकृष्णदासः"
-"PUBLISH YEAR" = "1904"
-DOMAIN = "आधुनिकसाहित्यम्"
-SUB-DOMAIN = "आधुनिकसाहित्यम्"
-PAGES = "274"
-LANGUAGE = "संस्कृतम्"
-TRANSLATOR = "गङ्गाप्रसादअग्निहोत्री"
-PRINTER = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6188"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMzNzAxODQ3NDIwNDk1&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृतकविपञ्चकः"
+publisher = "खोमराजश्रीकृष्णदासः"
+"publish year" = "1904"
+domain = "आधुनिकसाहित्यम्"
+sub-domain = "आधुनिकसाहित्यम्"
+pages = "274"
+language = "संस्कृतम्"
+translator = "गङ्गाप्रसादअग्निहोत्री"
+printer = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-6188"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMzNzAxODQ3NDIwNDk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृतकविपञ्चकः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjMzNzAxODQ3NDIwNDk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2958,8 +2957,5 @@ Act—III, Scene II.
 
 **इति।**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

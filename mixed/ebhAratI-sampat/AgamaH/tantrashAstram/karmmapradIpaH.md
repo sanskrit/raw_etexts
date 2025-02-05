@@ -1,18 +1,17 @@
 +++
-TITLE = "कर्म्मप्रदीपः"
-PUBLISHER = "एशियाटिक-सोसैटि-आफ्-बेङ्गाल्"
-"PUBLISH YEAR" = "1909"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "302"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "महमहोपाध्यायः चन्द्रकान्ततर्कालङ्कारः"
-"PRIMARY COMMENTATOR" = "महामहोपाध्यायः नारायणोपाध्यायः"
-"COMMENTARY NAME" = "परिशिष्टप्रकाशः"
-PRINTER = "एशियाटिक्-सोसैटि-आफ्-बेङ्गाल्"
-"SERIAL NO." = "Ebharati-120"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MDkwOTQ1OTE1MTE=&pageno=MjI0MjQyNjk5NTk="
 title = "कर्म्मप्रदीपः"
+publisher = "एशियाटिक-सोसैटि-आफ्-बेङ्गाल्"
+"publish year" = "1909"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "302"
+language = "संस्कृतम्"
+editor = "महमहोपाध्यायः चन्द्रकान्ततर्कालङ्कारः"
+"primary commentator" = "महामहोपाध्यायः नारायणोपाध्यायः"
+"commentary name" = "परिशिष्टप्रकाशः"
+printer = "एशियाटिक्-सोसैटि-आफ्-बेङ्गाल्"
+"serial no." = "Ebharati-120"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MDkwOTQ1OTE1MTE=&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कर्म्मप्रदीपः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MDkwOTQ1OTE1MTE=&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5897,8 +5896,5 @@ General Secretary,
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

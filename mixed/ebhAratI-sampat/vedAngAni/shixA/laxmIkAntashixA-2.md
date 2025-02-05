@@ -1,12 +1,11 @@
 +++
-TITLE = "लक्ष्मीकान्तशिक्षा-२"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3555"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEyMDE4MTQ2NjYyMTQz&pageno=MjI0MjQyNjk5NTk="
 title = "लक्ष्मीकान्तशिक्षा-२"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3555"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEyMDE4MTQ2NjYyMTQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लक्ष्मीकान्तशिक्षा-२	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDEyMDE4MTQ2NjYyMTQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -82,8 +81,5 @@ lakshmikanta_shiksha_2
 वेतसे वत्सरो वज्री वाचो विंशस्तु वि  
               इति लक्ष्मीकान्त शिक्षा समाप्ता
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,18 +1,17 @@
 +++
-TITLE = "होराशास्त्रम्"
-AUTHOR = "वराहमिहिरः"
-PUBLISHER = "महमहिम-श्रीसेतुमहालक्ष्मी-महराज्ञी-शासनम् राजकीयमुद्रणयन्त्रालयम्"
-"PUBLISH YEAR" = "1926"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "391"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "के. साम्बशिवशास्त्रिः"
-"PRIMARY COMMENTATOR" = "रुद्रः"
-PRINTER = "राजकीयमुद्रणयन्त्रालयः"
-"SERIAL NO." = "Ebharati-4833"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI1NTI2OTM4OTQ5MzY0&pageno=MjI0MjQyNjk5NTk="
 title = "होराशास्त्रम्"
+author = "वराहमिहिरः"
+publisher = "महमहिम-श्रीसेतुमहालक्ष्मी-महराज्ञी-शासनम् राजकीयमुद्रणयन्त्रालयम्"
+"publish year" = "1926"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "391"
+language = "संस्कृतम्"
+editor = "के. साम्बशिवशास्त्रिः"
+"primary commentator" = "रुद्रः"
+printer = "राजकीयमुद्रणयन्त्रालयः"
+"serial no." = "Ebharati-4833"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI1NTI2OTM4OTQ5MzY0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[होराशास्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjI1NTI2OTM4OTQ5MzY0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6870,8 +6869,5 @@ It is a matter of extreme satisfaction for us that we are now in position to pub
 | No. 90 | मीमांसाश्लोकवार्तिकम् (Mīmāṃsā) with the commentary Kāsika of Sucaritamiśra (Part I).                                                                                             | 2   | 8   | 0   |
 | No. 91 | होराशास्त्रम्(Jyotisa) of Varāhamihirāchārya with the Vivarana of Rudra                                                                                                           | 3   | 0   | 0   |
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

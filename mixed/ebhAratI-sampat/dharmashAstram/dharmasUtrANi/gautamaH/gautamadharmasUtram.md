@@ -1,18 +1,17 @@
 +++
-TITLE = "गौतमधर्मसूत्रम्"
-AUTHOR = "गौतमः"
-PUBLISHER = "गवर्नमेंट-ऑफ्-हिज्-हाईनेश्-दा-महाराजा-ऑफ-मैसुर"
-"PUBLISH YEAR" = "१९०७"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "धर्मसूत्राणि"
-PAGES = "557"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "एल्-श्रीनिवासः"
-"PRIMARY COMMENTATOR" = "मस्करिः"
-PRINTER = "दी-गवर्नमेंट-ब्रांच-प्रेस्"
-"SERIAL NO." = "Ebharati-4620"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2OTg5OTM2MjA1MzQ0&pageno=MjI0MjQyNjk5NTk="
 title = "गौतमधर्मसूत्रम्"
+author = "गौतमः"
+publisher = "गवर्नमेंट-ऑफ्-हिज्-हाईनेश्-दा-महाराजा-ऑफ-मैसुर"
+"publish year" = "१९०७"
+domain = "धर्मशास्त्रम्"
+sub-domain = "धर्मसूत्राणि"
+pages = "557"
+language = "संस्कृतम्"
+editor = "एल्-श्रीनिवासः"
+"primary commentator" = "मस्करिः"
+printer = "दी-गवर्नमेंट-ब्रांच-प्रेस्"
+"serial no." = "Ebharati-4620"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2OTg5OTM2MjA1MzQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गौतमधर्मसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2OTg5OTM2MjA1MzQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9268,19 +9267,6 @@ PRINTED AT THE GOVERNMENT BRANCH PRESS
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

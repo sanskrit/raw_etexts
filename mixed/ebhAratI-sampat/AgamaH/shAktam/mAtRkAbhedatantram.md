@@ -1,11 +1,10 @@
 +++
-TITLE = "मातृकाभेदतन्त्रम्"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शाक्तम्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4171"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjYxMjQxNzIzMDA0MDA0"
 title = "मातृकाभेदतन्त्रम्"
+domain = "आगमः"
+sub-domain = "शाक्तम्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4171"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjYxMjQxNzIzMDA0MDA0"
 
 +++
 [[मातृकाभेदतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjYxMjQxNzIzMDA0MDA0)]]

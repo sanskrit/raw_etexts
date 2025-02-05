@@ -1,17 +1,16 @@
 +++
-TITLE = "अक्षयनीतिसुधाकरः"
-AUTHOR = "अक्षयसिंहाजी-वर्मा"
-PUBLISHER = "गंगाविष्णु-श्रीकृष्णदासः"
-"PUBLISH YEAR" = "1925"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "470"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "अक्षयसिंहाजी-वर्मा"
-PRINTER = "लक्ष्मीवेंकटेश्वर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5219"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDAwMTA1&pageno=MjI0MjQyNjk5NTk="
 title = "अक्षयनीतिसुधाकरः"
+author = "अक्षयसिंहाजी-वर्मा"
+publisher = "गंगाविष्णु-श्रीकृष्णदासः"
+"publish year" = "1925"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "470"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "अक्षयसिंहाजी-वर्मा"
+printer = "लक्ष्मीवेंकटेश्वर-यन्त्रालयः"
+"serial no." = "Ebharati-5219"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDAwMTA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अक्षयनीतिसुधाकरः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDAwMTA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11589,8 +11588,5 @@ title = "अक्षयनीतिसुधाकरः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

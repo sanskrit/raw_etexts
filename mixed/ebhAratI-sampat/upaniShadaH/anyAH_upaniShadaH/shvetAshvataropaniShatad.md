@@ -1,14 +1,13 @@
 +++
-TITLE = "श्वेताश्वतरोपनिषतद्"
-PUBLISHER = "दक्षिणमूर्ति-मुत्त"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "अन्याः उपनिषदः"
-PAGES = "544"
-LANGUAGE = "संस्कृतम्  हिन्दी"
-PRINTER = "पार्वतीय-प्रेस्-वाराणसी"
-"SERIAL NO." = "Ebharati-7240"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgyNTMxNTk3MjEwNTk2&pageno=MjI0MjQyNjk5NTk="
 title = "श्वेताश्वतरोपनिषतद्"
+publisher = "दक्षिणमूर्ति-मुत्त"
+domain = "उपनिषदः"
+sub-domain = "अन्याः उपनिषदः"
+pages = "544"
+language = "संस्कृतम्  हिन्दी"
+printer = "पार्वतीय-प्रेस्-वाराणसी"
+"serial no." = "Ebharati-7240"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgyNTMxNTk3MjEwNTk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्वेताश्वतरोपनिषतद्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDgyNTMxNTk3MjEwNTk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7234,8 +7233,5 @@ title = "श्वेताश्वतरोपनिषतद्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

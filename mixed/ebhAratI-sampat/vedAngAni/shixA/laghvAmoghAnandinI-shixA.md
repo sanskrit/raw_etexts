@@ -1,12 +1,11 @@
 +++
-TITLE = "लघ्वामोघानन्दिनी-शिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-PAGES = "2"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-985"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc2NTg3ODkyNjU1NDk=&pageno=MjI0MjQyNjk5NTk="
 title = "लघ्वामोघानन्दिनी-शिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+pages = "2"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-985"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc2NTg3ODkyNjU1NDk=&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लघ्वामोघानन्दिनी-शिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc2NTg3ODkyNjU1NDk=&pageno=MjI0MjQyNjk5NTk=)]]
@@ -101,8 +100,5 @@ title = "लघ्वामोघानन्दिनी-शिक्षा"
 
 समाप्ता ॥
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

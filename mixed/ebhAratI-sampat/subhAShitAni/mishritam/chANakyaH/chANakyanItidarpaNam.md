@@ -1,13 +1,12 @@
 +++
-TITLE = "चाणक्यनीतिदर्पणम्"
-AUTHOR = "चाणक्यः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "मिश्रितम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4111"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjQ4Njk1MjU1MDQ2NDkz"
 title = "चाणक्यनीतिदर्पणम्"
+author = "चाणक्यः"
+domain = "सुभाषितानि"
+sub-domain = "मिश्रितम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4111"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjQ4Njk1MjU1MDQ2NDkz"
 
 +++
 [[चाणक्यनीतिदर्पणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjQ4Njk1MjU1MDQ2NDkz)]]

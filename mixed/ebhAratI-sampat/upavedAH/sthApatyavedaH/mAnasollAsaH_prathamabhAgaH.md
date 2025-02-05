@@ -1,16 +1,15 @@
 +++
-TITLE = "मानसोल्लासः प्रथमभागः"
-PUBLISHER = "CENTRAL LIBRARY BARODA"
-"PUBLISH YEAR" = "1925"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "स्थापत्यवेदः"
-PAGES = "165"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "Gajanan K. Shrigondekar"
-PRINTER = "Luhana Mitra Printing Press"
-"SERIAL NO." = "Ebharati-5008"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjczOTQwMjgxOTQ3MDg0&pageno=MjI0MjQyNjk5NTk="
 title = "मानसोल्लासः प्रथमभागः"
+publisher = "CENTRAL LIBRARY BARODA"
+"publish year" = "1925"
+domain = "उपवेदाः"
+sub-domain = "स्थापत्यवेदः"
+pages = "165"
+language = "संस्कृतम्"
+editor = "Gajanan K. Shrigondekar"
+printer = "Luhana Mitra Printing Press"
+"serial no." = "Ebharati-5008"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjczOTQwMjgxOTQ3MDg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मानसोल्लासः प्रथमभागः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjczOTQwMjgxOTQ3MDg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7053,8 +7052,5 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

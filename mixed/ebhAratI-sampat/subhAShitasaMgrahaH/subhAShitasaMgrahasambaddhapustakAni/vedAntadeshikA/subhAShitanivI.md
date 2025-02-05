@@ -1,18 +1,17 @@
 +++
-TITLE = "सुभाषितनिवी"
-AUTHOR = "वेदान्तदेशिका"
-"PUBLISH YEAR" = "1908"
-DOMAIN = "सुभाषितसंग्रहः"
-SUB-DOMAIN = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
-PAGES = "129"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "म.तो. नरसिम्हः"
-"PRIMARY COMMENTATOR" = "श्रीनिवास-सूरिः"
-"COMMENTARY NAME" = "रत्नपेटिका"
-PRINTER = "वाणीविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7191"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA2NjUyOTc5ODAzMDk2&pageno=MjI0MjQyNjk5NTk="
 title = "सुभाषितनिवी"
+author = "वेदान्तदेशिका"
+"publish year" = "1908"
+domain = "सुभाषितसंग्रहः"
+sub-domain = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
+pages = "129"
+language = "संस्कृतम्"
+editor = "म.तो. नरसिम्हः"
+"primary commentator" = "श्रीनिवास-सूरिः"
+"commentary name" = "रत्नपेटिका"
+printer = "वाणीविलास-मुद्रणालयः"
+"serial no." = "Ebharati-7191"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA2NjUyOTc5ODAzMDk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुभाषितनिवी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjA2NjUyOTc5ODAzMDk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1891,19 +1890,6 @@ Bangalore,
 
 ——————
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

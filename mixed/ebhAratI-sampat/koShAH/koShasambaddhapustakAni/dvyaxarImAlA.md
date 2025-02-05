@@ -1,12 +1,11 @@
 +++
-TITLE = "द्व्यक्षरीमाला"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "कोषसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3125"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU3ODY1NzUyODg5OTky&pageno=MjI0MjQyNjk5NTk="
 title = "द्व्यक्षरीमाला"
+domain = "कोषाः"
+sub-domain = "कोषसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3125"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU3ODY1NzUyODg5OTky&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[द्व्यक्षरीमाला	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU3ODY1NzUyODg5OTky&pageno=MjI0MjQyNjk5NTk=)]]
@@ -694,8 +693,5 @@ This is prepared an d compiled by
 Dr.P .Srinivas , Lecturer in Vyakarana , S.V.V.V.S.College , Bowenpally, Secunderabad, A.P.500011  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

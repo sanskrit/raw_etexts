@@ -1,16 +1,15 @@
 +++
-TITLE = "प्रपञ्चसारतन्त्रम् (प्रथमो भागः)"
-AUTHOR = "शङ्कराचार्यः"
-PUBLISHER = "संस्कृतप्रेसडिपनिटरी"
-"PUBLISH YEAR" = "1919"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "341"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "अटलाननन्दसरस्वती"
-"SERIAL NO." = "Ebharati-8857"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU2MTMxOTE3ODMyMDU4&pageno=MjI0MjQyNjk5NTk="
 title = "प्रपञ्चसारतन्त्रम् (प्रथमो भागः)"
+author = "शङ्कराचार्यः"
+publisher = "संस्कृतप्रेसडिपनिटरी"
+"publish year" = "1919"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "341"
+language = "संस्कृतम्"
+editor = "अटलाननन्दसरस्वती"
+"serial no." = "Ebharati-8857"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU2MTMxOTE3ODMyMDU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रपञ्चसारतन्त्रम् (प्रथमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDU2MTMxOTE3ODMyMDU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9888,8 +9887,5 @@ June 1935.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

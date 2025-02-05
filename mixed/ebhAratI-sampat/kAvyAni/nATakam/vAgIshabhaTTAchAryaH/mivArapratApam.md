@@ -1,16 +1,15 @@
 +++
-TITLE = "मिवारप्रतापम्"
-AUTHOR = "वागीशभट्टाचार्यः"
-PUBLISHER = "हेमचन्द्रतर्कवागीशः"
-"PUBLISH YEAR" = "1937"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "144"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "सिद्धान्त-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5475"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc1NTI1&pageno=MjI0MjQyNjk5NTk="
 title = "मिवारप्रतापम्"
+author = "वागीशभट्टाचार्यः"
+publisher = "हेमचन्द्रतर्कवागीशः"
+"publish year" = "1937"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "144"
+language = "संस्कृतम्"
+printer = "सिद्धान्त-यन्त्रालयः"
+"serial no." = "Ebharati-5475"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc1NTI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मिवारप्रतापम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc1NTI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3966,8 +3965,5 @@ title = "मिवारप्रतापम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

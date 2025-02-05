@@ -1,16 +1,15 @@
 +++
-TITLE = "मुण्डकोपनिषत्"
-PUBLISHER = "रामकृष्णमठः"
-"PUBLISH YEAR" = "1950"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "मुण्डकोपनिषत्"
-PAGES = "80"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "स्वामीशर्वानन्दः"
-PRINTER = "सि. सुव्वार्युडु-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7221"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYyOTI1NjY4ODgxMzk2&pageno=MjI0MjQyNjk5NTk="
 title = "मुण्डकोपनिषत्"
+publisher = "रामकृष्णमठः"
+"publish year" = "1950"
+domain = "उपनिषदः"
+sub-domain = "मुण्डकोपनिषत्"
+pages = "80"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "स्वामीशर्वानन्दः"
+printer = "सि. सुव्वार्युडु-यन्त्रालयः"
+"serial no." = "Ebharati-7221"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYyOTI1NjY4ODgxMzk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मुण्डकोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjYyOTI1NjY4ODgxMzk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1012,19 +1011,6 @@ No one who has not observed any¹ vow should study it.
 
  \[NOTES— 1. *Any vow*—The idea is that the study of the Upaniṣads should be undertaken only by men of spiritual inclination. Spiritual inclination is always accompanied by some kind of tendency towards renunciation of the world. A vrata or vow is always an act of renunciation. Hence it is mentioned as a test of man's fitness to study the Upaniṣads.\]
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

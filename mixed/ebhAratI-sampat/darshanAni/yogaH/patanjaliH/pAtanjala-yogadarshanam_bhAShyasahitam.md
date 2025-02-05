@@ -1,13 +1,12 @@
 +++
-TITLE = "पातञ्जल-योगदर्शनम् भाष्यसहितम्"
-AUTHOR = "पतञ्जलिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3863"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjgxNjc0NDg0MzM4MDcz"
 title = "पातञ्जल-योगदर्शनम् भाष्यसहितम्"
+author = "पतञ्जलिः"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3863"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjgxNjc0NDg0MzM4MDcz"
 
 +++
 [[पातञ्जल-योगदर्शनम् भाष्यसहितम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjgxNjc0NDg0MzM4MDcz)]]

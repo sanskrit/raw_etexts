@@ -1,13 +1,12 @@
 +++
-TITLE = "वृत्तरत्नाकरव्याख्या"
-AUTHOR = "नारायणभट्टः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "छन्दांसि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3911"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjQ0MjExNDAzMTQ0NTcz"
 title = "वृत्तरत्नाकरव्याख्या"
+author = "नारायणभट्टः"
+domain = "वेदाङ्गानि"
+sub-domain = "छन्दांसि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3911"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjQ0MjExNDAzMTQ0NTcz"
 
 +++
 [[वृत्तरत्नाकरव्याख्या	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjQ0MjExNDAzMTQ0NTcz)]]

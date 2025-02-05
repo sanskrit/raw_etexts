@@ -1,12 +1,11 @@
 +++
-TITLE = "गरुडपुराणम्"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "135"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"SERIAL NO." = "Ebharati-6831"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg2NDg5MTMzMDU3NTU2&pageno=MjI0MjQyNjk5NTk="
 title = "गरुडपुराणम्"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "135"
+language = "संस्कृतम् हिन्दी"
+"serial no." = "Ebharati-6831"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg2NDg5MTMzMDU3NTU2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गरुडपुराणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjg2NDg5MTMzMDU3NTU2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5283,8 +5282,5 @@ title = "गरुडपुराणम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

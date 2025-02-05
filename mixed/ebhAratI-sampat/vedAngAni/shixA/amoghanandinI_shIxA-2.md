@@ -1,12 +1,11 @@
 +++
-TITLE = "अमोघनन्दिनी शीक्षा-२"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3511"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ2MzQxNzA4MjQwNzMz&pageno=MjI0MjQyNjk5NTk="
 title = "अमोघनन्दिनी शीक्षा-२"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3511"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ2MzQxNzA4MjQwNzMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अमोघनन्दिनी शीक्षा-२	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ2MzQxNzA4MjQwNzMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -44,8 +43,5 @@ amoghanandini_bori_shiksha
 अमोघानन्दसंज्ञेयं पूजनीया मनीषिभिः ५७  
        इति अमघानन्दिनी शिक्षा समाप्ता
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

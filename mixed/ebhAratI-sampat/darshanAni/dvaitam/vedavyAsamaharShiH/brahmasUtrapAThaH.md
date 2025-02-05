@@ -1,12 +1,11 @@
 +++
-TITLE = "ब्रह्मसूत्रपाठः"
-AUTHOR = "वेदव्यासमहर्षिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3155"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MTQ4NDQxODY4MjAz"
 title = "ब्रह्मसूत्रपाठः"
+author = "वेदव्यासमहर्षिः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3155"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MTQ4NDQxODY4MjAz"
 
 +++
 [[ब्रह्मसूत्रपाठः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MTQ4NDQxODY4MjAz)]]

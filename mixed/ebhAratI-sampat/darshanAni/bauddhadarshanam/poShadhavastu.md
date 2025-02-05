@@ -1,12 +1,11 @@
 +++
-TITLE = "पोषधवस्तु"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3761"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQxOTQ3NzY4MTQwMTYz&pageno=MjI0MjQyNjk5NTk="
 title = "पोषधवस्तु"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3761"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQxOTQ3NzY4MTQwMTYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पोषधवस्तु	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQxOTQ3NzY4MTQwMTYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1364,8 +1363,5 @@ fओलिओस्६७ अन्द्६८ अरे लोस्त्.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

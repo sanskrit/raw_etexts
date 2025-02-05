@@ -1,13 +1,12 @@
 +++
-TITLE = "भावनासारसङ्ग्रहः"
-AUTHOR = "गोवर्धनवासी"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3173"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk1NDAz&pageno=MjI0MjQyNjk5NTk="
 title = "भावनासारसङ्ग्रहः"
+author = "गोवर्धनवासी"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3173"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk1NDAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भावनासारसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk1NDAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -32037,19 +32036,6 @@ title = "भावनासारसङ्ग्रहः"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

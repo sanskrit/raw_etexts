@@ -1,15 +1,14 @@
 +++
-TITLE = "जयोदयः"
-AUTHOR = "भूरामलशास्त्री"
-PUBLISHER = "ब्रह्मचारी सूरजमलः"
-"PUBLISH YEAR" = "1949"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "376"
-LANGUAGE = "संस्कॄतम्"
-"SERIAL NO." = "Ebharati-8840"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg0MDEwMzg3NjA2ODQ4&pageno=MjI0MjQyNjk5NTk="
 title = "जयोदयः"
+author = "भूरामलशास्त्री"
+publisher = "ब्रह्मचारी सूरजमलः"
+"publish year" = "1949"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "376"
+language = "संस्कॄतम्"
+"serial no." = "Ebharati-8840"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg0MDEwMzg3NjA2ODQ4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जयोदयः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDg0MDEwMzg3NjA2ODQ4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -20706,19 +20705,6 @@ title = "जयोदयः"
 
 ![](../books_images/U-IMG-1721025110Screenshot2024-07-15120015.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

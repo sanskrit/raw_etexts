@@ -1,13 +1,12 @@
 +++
-TITLE = "कौटिलीयम् अर्थशास्त्रम्"
-AUTHOR = "चाणक्यः"
-DOMAIN = "अन्यानि शास्त्राणि"
-SUB-DOMAIN = "अर्थशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3999"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODc1NTQ0Mzc5ODg4Mzgz"
 title = "कौटिलीयम् अर्थशास्त्रम्"
+author = "चाणक्यः"
+domain = "अन्यानि शास्त्राणि"
+sub-domain = "अर्थशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3999"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODc1NTQ0Mzc5ODg4Mzgz"
 
 +++
 [[कौटिलीयम् अर्थशास्त्रम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODc1NTQ0Mzc5ODg4Mzgz)]]

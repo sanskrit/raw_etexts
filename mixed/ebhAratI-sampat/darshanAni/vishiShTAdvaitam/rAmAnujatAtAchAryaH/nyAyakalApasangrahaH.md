@@ -1,13 +1,12 @@
 +++
-TITLE = "न्यायकलापसङ्ग्रहः"
-AUTHOR = "रामानुजताताचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "विशिष्टाद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4209"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODkxNDUzNDgxODQwNDA0"
 title = "न्यायकलापसङ्ग्रहः"
+author = "रामानुजताताचार्यः"
+domain = "दर्शनानि"
+sub-domain = "विशिष्टाद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4209"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODkxNDUzNDgxODQwNDA0"
 
 +++
 [[न्यायकलापसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODkxNDUzNDgxODQwNDA0)]]

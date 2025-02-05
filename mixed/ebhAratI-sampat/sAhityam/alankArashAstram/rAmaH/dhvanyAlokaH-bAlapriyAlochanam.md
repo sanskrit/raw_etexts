@@ -1,12 +1,11 @@
 +++
-TITLE = "ध्वन्यालोकः-बालप्रियालोचनम्"
-AUTHOR = "रामः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2658"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc2NzUzMjEwODUxNTUy"
 title = "ध्वन्यालोकः-बालप्रियालोचनम्"
+author = "रामः"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2658"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc2NzUzMjEwODUxNTUy"
 
 +++
 [[ध्वन्यालोकः-बालप्रियालोचनम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=Njc2NzUzMjEwODUxNTUy)]]

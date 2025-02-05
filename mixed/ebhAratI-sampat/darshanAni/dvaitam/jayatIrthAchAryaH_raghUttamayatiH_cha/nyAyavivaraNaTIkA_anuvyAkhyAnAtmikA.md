@@ -1,12 +1,11 @@
 +++
-TITLE = "न्यायविवरणटीका (अनुव्याख्यानात्मिका)"
-AUTHOR = "जयतीर्थाचार्यः रघूत्तमयतिः च"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3095"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDkwNjkyMDczODAxNzky"
 title = "न्यायविवरणटीका (अनुव्याख्यानात्मिका)"
+author = "जयतीर्थाचार्यः रघूत्तमयतिः च"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3095"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDkwNjkyMDczODAxNzky"
 
 +++
 [[न्यायविवरणटीका (अनुव्याख्यानात्मिका)	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDkwNjkyMDczODAxNzky)]]

@@ -1,12 +1,11 @@
 +++
-TITLE = "अपराजितम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2811"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQyODQ0NzM0NTQ4OTYy&pageno=MjI0MjQyNjk5NTk="
 title = "अपराजितम्"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2811"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQyODQ0NzM0NTQ4OTYy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अपराजितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQyODQ0NzM0NTQ4OTYy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -641,8 +640,5 @@ title = "अपराजितम्"
 
   (यवनिका पतति)
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

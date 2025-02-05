@@ -1,15 +1,14 @@
 +++
-TITLE = "काञ्चीमाहात्म्यम्"
-"PUBLISH YEAR" = "1906"
-DOMAIN = "इतिहासःसंस्कृतिः च"
-SUB-DOMAIN = "भारतीय इतिहासः"
-PAGES = "206"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "प्रतिवादिभंयकरं-अनन्तचार्यः"
-PRINTER = "श्रीसुदर्शन-मु्द्रणालयः"
-"SERIAL NO." = "Ebharati-8245"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzOTY3ODEwOTg0MTk3&pageno=MjI0MjQyNjk5NTk="
 title = "काञ्चीमाहात्म्यम्"
+"publish year" = "1906"
+domain = "इतिहासःसंस्कृतिः च"
+sub-domain = "भारतीय इतिहासः"
+pages = "206"
+language = "संस्कृतम्"
+editor = "प्रतिवादिभंयकरं-अनन्तचार्यः"
+printer = "श्रीसुदर्शन-मु्द्रणालयः"
+"serial no." = "Ebharati-8245"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzOTY3ODEwOTg0MTk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काञ्चीमाहात्म्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDkzOTY3ODEwOTg0MTk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8030,19 +8029,6 @@ title = "काञ्चीमाहात्म्यम्"
 
 **—————**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

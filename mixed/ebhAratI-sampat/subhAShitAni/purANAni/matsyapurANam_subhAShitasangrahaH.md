@@ -1,12 +1,11 @@
 +++
-TITLE = "मत्स्यपुराणम् सुभाषितसङ्ग्रहः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "पुराणानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4132"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3Nzg2Mzc0NjU2Njkz&pageno=MjI0MjQyNjk5NTk="
 title = "मत्स्यपुराणम् सुभाषितसङ्ग्रहः"
+domain = "सुभाषितानि"
+sub-domain = "पुराणानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4132"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3Nzg2Mzc0NjU2Njkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मत्स्यपुराणम् सुभाषितसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDA3Nzg2Mzc0NjU2Njkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -385,8 +384,5 @@ title = "मत्स्यपुराणम् सुभाषितसङ्�
 
 ****
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

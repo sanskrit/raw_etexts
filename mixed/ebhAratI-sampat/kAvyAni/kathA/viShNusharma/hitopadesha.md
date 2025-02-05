@@ -1,16 +1,15 @@
 +++
-TITLE = "हितोपदेश:"
-AUTHOR = "विष्णुशर्म"
-PUBLISHER = "गङ्गाविष्णु श्रीकृष्णदास"
-"PUBLISH YEAR" = "1989"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "135"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "गङ्गाविष्णु श्रीकृष्णदास"
-"SERIAL NO." = "Ebharati-5561"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3ODAxNDAxNTM4MzM1&pageno=MjI0MjQyNjk5NTk="
 title = "हितोपदेश:"
+author = "विष्णुशर्म"
+publisher = "गङ्गाविष्णु श्रीकृष्णदास"
+"publish year" = "1989"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "135"
+language = "संस्कृतम्"
+printer = "गङ्गाविष्णु श्रीकृष्णदास"
+"serial no." = "Ebharati-5561"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3ODAxNDAxNTM4MzM1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हितोपदेश:	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3ODAxNDAxNTM4MzM1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4440,8 +4439,5 @@ title = "हितोपदेश:"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

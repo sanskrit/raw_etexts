@@ -1,16 +1,15 @@
 +++
-TITLE = "अष्टावक्रगीता"
-AUTHOR = "अष्टावक्रः"
-PUBLISHER = "गङ्गाविष्णु-श्रीकृष्णदासः"
-"PUBLISH YEAR" = "1920"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-PAGES = "255"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "लक्ष्मीवेङ्कटेश्वर-स्टीम्-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6661"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5Mjc3MDc5MDM0OTM2&pageno=MjI0MjQyNjk5NTk="
 title = "अष्टावक्रगीता"
+author = "अष्टावक्रः"
+publisher = "गङ्गाविष्णु-श्रीकृष्णदासः"
+"publish year" = "1920"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+pages = "255"
+language = "संस्कृतम् हिन्दी"
+printer = "लक्ष्मीवेङ्कटेश्वर-स्टीम्-मुद्रणालयः"
+"serial no." = "Ebharati-6661"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5Mjc3MDc5MDM0OTM2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अष्टावक्रगीता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5Mjc3MDc5MDM0OTM2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2073,8 +2072,5 @@ title = "अष्टावक्रगीता"
 
  अन्वयः—निरावरणदृष्टयः व्यामोहमात्रविरतौस्वरूपादानमात्रतः वीतशोकाः (संतः) विराजन्ते॥६॥
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

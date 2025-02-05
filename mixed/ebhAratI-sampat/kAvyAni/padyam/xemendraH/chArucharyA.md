@@ -1,15 +1,14 @@
 +++
-TITLE = "चारुचर्या"
-AUTHOR = "क्षेमेन्द्रः"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "30"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "देवदत्त-शास्त्री"
-PRINTER = "चौकाम्बा-विद्याभवनम्"
-"SERIAL NO." = "Ebharati-8926"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc3ODU4OTU0MjY4NjU4&pageno=MjI0MjQyNjk5NTk="
 title = "चारुचर्या"
+author = "क्षेमेन्द्रः"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "30"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "देवदत्त-शास्त्री"
+printer = "चौकाम्बा-विद्याभवनम्"
+"serial no." = "Ebharati-8926"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc3ODU4OTU0MjY4NjU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चारुचर्या	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc3ODU4OTU0MjY4NjU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -722,19 +721,6 @@ title = "चारुचर्या"
 
 ![](../books_images/U-IMG-1728277239n0.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

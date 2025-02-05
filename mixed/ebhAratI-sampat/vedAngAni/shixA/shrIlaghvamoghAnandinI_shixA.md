@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीलघ्वमोघानन्दिनी शिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3939"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUyMDA5ODkxOTIxODcz&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीलघ्वमोघानन्दिनी शिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3939"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUyMDA5ODkxOTIxODcz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीलघ्वमोघानन्दिनी शिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODUyMDA5ODkxOTIxODcz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -61,8 +60,5 @@ title = "श्रीलघ्वमोघानन्दिनी शिक्�
 
 **----------------------------------------------------**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

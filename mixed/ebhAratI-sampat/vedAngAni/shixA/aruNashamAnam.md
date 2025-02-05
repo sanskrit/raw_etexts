@@ -1,12 +1,11 @@
 +++
-TITLE = "अरुणशमानम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3919"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE4MTUwNDcyOTAyNjcz&pageno=MjI0MjQyNjk5NTk="
 title = "अरुणशमानम्"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3919"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE4MTUwNDcyOTAyNjcz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अरुणशमानम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODE4MTUwNDcyOTAyNjcz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -67,8 +66,5 @@ title = "अरुणशमानम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

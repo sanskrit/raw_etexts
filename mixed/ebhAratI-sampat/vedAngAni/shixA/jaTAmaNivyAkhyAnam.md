@@ -1,12 +1,11 @@
 +++
-TITLE = "जटामणिव्याख्यानम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3528"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE4NDYyMzQ3NDc2ODMz&pageno=MjI0MjQyNjk5NTk="
 title = "जटामणिव्याख्यानम्"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3528"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE4NDYyMzQ3NDc2ODMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जटामणिव्याख्यानम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjE4NDYyMzQ3NDc2ODMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -93,8 +92,5 @@ Jatamani_vyakhyana
               जटामणिता अपर्यं संपूर्णम्  
               श्रीमते हयग्रीवाय नमः
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

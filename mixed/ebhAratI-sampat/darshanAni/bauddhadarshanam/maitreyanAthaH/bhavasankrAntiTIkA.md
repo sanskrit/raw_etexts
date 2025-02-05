@@ -1,13 +1,12 @@
 +++
-TITLE = "भवसङ्क्रान्तिटीका"
-AUTHOR = "मैत्रेयनाथः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3662"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYzOTQ3OTMyODM1MTUz&pageno=MjI0MjQyNjk5NTk="
 title = "भवसङ्क्रान्तिटीका"
+author = "मैत्रेयनाथः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3662"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYzOTQ3OTMyODM1MTUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भवसङ्क्रान्तिटीका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDYzOTQ3OTMyODM1MTUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -281,19 +280,6 @@ title = "भवसङ्क्रान्तिटीका"
 
 **\\Z**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

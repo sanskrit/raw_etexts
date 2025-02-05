@@ -1,12 +1,11 @@
 +++
-TITLE = "न्यायामृतप्रकाशः"
-AUTHOR = "श्रीनिवासतीर्थाः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3090"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDg5MzgwOTgzODI2Njky"
 title = "न्यायामृतप्रकाशः"
+author = "श्रीनिवासतीर्थाः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3090"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDg5MzgwOTgzODI2Njky"
 
 +++
 [[न्यायामृतप्रकाशः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDg5MzgwOTgzODI2Njky)]]

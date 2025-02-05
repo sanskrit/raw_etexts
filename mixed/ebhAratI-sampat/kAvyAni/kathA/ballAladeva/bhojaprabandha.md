@@ -1,16 +1,15 @@
 +++
-TITLE = "भोजप्रबन्ध"
-AUTHOR = "बल्लालदेव"
-PUBLISHER = "सुन्दरलाल जैन"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "358"
-LANGUAGE = "संस्कृतम् आङ्ग्ला हिन्दी"
-EDITOR = "जगदीशलालशास्त्रि"
-PRINTER = "इण्डियन् नेशन् प्रेस् पाट्न"
-"SERIAL NO." = "Ebharati-5325"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUxNzk4MDk5OTcxMTE1&pageno=MjI0MjQyNjk5NTk="
 title = "भोजप्रबन्ध"
+author = "बल्लालदेव"
+publisher = "सुन्दरलाल जैन"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "358"
+language = "संस्कृतम् आङ्ग्ला हिन्दी"
+editor = "जगदीशलालशास्त्रि"
+printer = "इण्डियन् नेशन् प्रेस् पाट्न"
+"serial no." = "Ebharati-5325"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUxNzk4MDk5OTcxMTE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भोजप्रबन्ध	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDUxNzk4MDk5OTcxMTE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7168,19 +7167,6 @@ making a noise. अभिषेक—consecration ceremony. विह्वल�
 
 ![](../books_images/U-IMG-1727235738QQ.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,13 +1,12 @@
 +++
-TITLE = "श्रीभक्तिरसामृतसिन्धुः"
-AUTHOR = "श्रीलरूपगोस्वामी"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4190"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDgxODQ3NTUyNDIyMjA0"
 title = "श्रीभक्तिरसामृतसिन्धुः"
+author = "श्रीलरूपगोस्वामी"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4190"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDgxODQ3NTUyNDIyMjA0"
 
 +++
 [[श्रीभक्तिरसामृतसिन्धुः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDgxODQ3NTUyNDIyMjA0)]]

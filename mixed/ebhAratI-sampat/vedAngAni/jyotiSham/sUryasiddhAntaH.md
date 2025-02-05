@@ -1,13 +1,12 @@
 +++
-TITLE = "सूर्यसिद्धान्तः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "55"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "Maharishi University of Management Vedic Literature Collection"
-"SERIAL NO." = "Ebharati-5050"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxMTMyNDIwMTg3NDg0&pageno=MjI0MjQyNjk5NTk="
 title = "सूर्यसिद्धान्तः"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "55"
+language = "संस्कृतम्"
+"books contributor" = "Maharishi University of Management Vedic Literature Collection"
+"serial no." = "Ebharati-5050"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxMTMyNDIwMTg3NDg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सूर्यसिद्धान्तः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDAxMTMyNDIwMTg3NDg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3040,8 +3039,5 @@ title = "सूर्यसिद्धान्तः"
 
 **समाप्तश्चायं ग्रन्थः**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

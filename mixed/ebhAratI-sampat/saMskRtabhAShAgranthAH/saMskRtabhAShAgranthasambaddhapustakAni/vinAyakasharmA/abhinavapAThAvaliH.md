@@ -1,16 +1,15 @@
 +++
-TITLE = "अभिनवपाठावलिः"
-AUTHOR = "विनायकशर्मा"
-PUBLISHER = "एफ.ई.फ्रांसिस"
-"PUBLISH YEAR" = "1937"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "187"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "कर्णाटक-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7038"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMwNjYxNDU1MTI2NTc2&pageno=MjI0MjQyNjk5NTk="
 title = "अभिनवपाठावलिः"
+author = "विनायकशर्मा"
+publisher = "एफ.ई.फ्रांसिस"
+"publish year" = "1937"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "187"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "कर्णाटक-यन्त्रालयः"
+"serial no." = "Ebharati-7038"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMwNjYxNDU1MTI2NTc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अभिनवपाठावलिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjMwNjYxNDU1MTI2NTc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6845,8 +6844,5 @@ The conjugational sign is ना.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,17 +1,16 @@
 +++
-TITLE = "संस्कारगणपतिः"
-AUTHOR = "रामकृष्णः"
-PUBLISHER = "चौखम्बा-संस्कृत-सीरिज्-आफिस"
-"PUBLISH YEAR" = "1938"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "981"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "ढुण्ढिराजशास्त्री-मार्तण्डशास्त्री"
-PRINTER = "जयकृष्णदास-हरिदासगुप्तः"
-"SERIAL NO." = "Ebharati-6327"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk5MzA4NTIyODYzNzA2&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कारगणपतिः"
+author = "रामकृष्णः"
+publisher = "चौखम्बा-संस्कृत-सीरिज्-आफिस"
+"publish year" = "1938"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "981"
+language = "संस्कृतम्"
+editor = "ढुण्ढिराजशास्त्री-मार्तण्डशास्त्री"
+printer = "जयकृष्णदास-हरिदासगुप्तः"
+"serial no." = "Ebharati-6327"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk5MzA4NTIyODYzNzA2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कारगणपतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk5MzA4NTIyODYzNzA2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -31660,19 +31659,6 @@ BENARES.
 **चौखम्बा संस्कृत पुस्तकालय,**  
 बनारस सिटी \।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

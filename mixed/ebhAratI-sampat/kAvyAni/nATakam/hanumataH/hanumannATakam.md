@@ -1,18 +1,17 @@
 +++
-TITLE = "हनुमन्नाटकम्"
-AUTHOR = "हनुमतः"
-PUBLISHER = "गङ्गाविष्णुखेमराजः"
-"PUBLISH YEAR" = "1900"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "260"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शिवरामशास्त्री"
-"PRIMARY COMMENTATOR" = "मिश्रमोहनः"
-PRINTER = "लक्ष्मीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5418"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMjQ0MTQ2NzAxMDI1&pageno=MjI0MjQyNjk5NTk="
 title = "हनुमन्नाटकम्"
+author = "हनुमतः"
+publisher = "गङ्गाविष्णुखेमराजः"
+"publish year" = "1900"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "260"
+language = "संस्कृतम्"
+editor = "शिवरामशास्त्री"
+"primary commentator" = "मिश्रमोहनः"
+printer = "लक्ष्मीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-5418"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMjQ0MTQ2NzAxMDI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हनुमन्नाटकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMjQ0MTQ2NzAxMDI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6303,19 +6302,6 @@ title = "हनुमन्नाटकम्"
 
 **समाप्तोऽयं ग्रन्थः।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

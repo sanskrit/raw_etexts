@@ -1,17 +1,16 @@
 +++
-TITLE = "करुणावज्रायुधम्"
-AUTHOR = "बालचन्द्रसूरिः"
-PUBLISHER = "गांधीवल्लभदासत्रिभुवनदासः"
-"PUBLISH YEAR" = "1916"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "55"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "चतुरविजयः"
-PRINTER = "आर्यसुधाकर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5631"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyODcwMTQ4NDU1MDQ1&pageno=MjI0MjQyNjk5NTk="
 title = "करुणावज्रायुधम्"
+author = "बालचन्द्रसूरिः"
+publisher = "गांधीवल्लभदासत्रिभुवनदासः"
+"publish year" = "1916"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "55"
+language = "संस्कृतम्"
+editor = "चतुरविजयः"
+printer = "आर्यसुधाकर-मुद्रणालयः"
+"serial no." = "Ebharati-5631"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyODcwMTQ4NDU1MDQ1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[करुणावज्रायुधम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjgyODcwMTQ4NDU1MDQ1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4833,19 +4832,6 @@ title = "करुणावज्रायुधम्"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

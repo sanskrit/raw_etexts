@@ -1,13 +1,12 @@
 +++
-TITLE = "महाभारतम् सुभाषितसङ्ग्रहः"
-AUTHOR = "वेदव्यासमहर्षिः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "महाभारतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4130"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY4MjAyMTg0NDY0Njkz"
 title = "महाभारतम् सुभाषितसङ्ग्रहः"
+author = "वेदव्यासमहर्षिः"
+domain = "सुभाषितानि"
+sub-domain = "महाभारतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4130"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY4MjAyMTg0NDY0Njkz"
 
 +++
 [[महाभारतम् सुभाषितसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDY4MjAyMTg0NDY0Njkz)]]

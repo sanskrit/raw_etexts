@@ -1,13 +1,12 @@
 +++
-TITLE = "योगयाज्ञवल्क्यम्"
-AUTHOR = "याज्ञवल्क्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3870"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQxMzcxODU0NTA1MTcz"
 title = "योगयाज्ञवल्क्यम्"
+author = "याज्ञवल्क्यः"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3870"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQxMzcxODU0NTA1MTcz"
 
 +++
 [[योगयाज्ञवल्क्यम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDQxMzcxODU0NTA1MTcz)]]

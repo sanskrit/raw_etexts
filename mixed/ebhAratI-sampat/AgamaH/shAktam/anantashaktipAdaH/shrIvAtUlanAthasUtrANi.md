@@ -1,14 +1,13 @@
 +++
-TITLE = "श्रीवातूलनाथसूत्राणि"
-AUTHOR = "अनन्तशक्तिपादः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शाक्तम्"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मधुसूदनकौलः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4174"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0OTY4NTEzODg2MDA0&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीवातूलनाथसूत्राणि"
+author = "अनन्तशक्तिपादः"
+domain = "आगमः"
+sub-domain = "शाक्तम्"
+language = "संस्कृतम्"
+editor = "मधुसूदनकौलः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4174"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0OTY4NTEzODg2MDA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीवातूलनाथसूत्राणि	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODI0OTY4NTEzODg2MDA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -166,19 +165,6 @@ title = "श्रीवातूलनाथसूत्राणि"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

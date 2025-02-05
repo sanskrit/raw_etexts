@@ -1,16 +1,15 @@
 +++
-TITLE = "बालकालिदासः"
-AUTHOR = "रूपनारायणपाण्डे"
-PUBLISHER = "के. मित्रः"
-"PUBLISH YEAR" = "1926"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "89"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "इण्डियन्-प्रेस्"
-"SERIAL NO." = "Ebharati-5516"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU3OTkxMzcyNTE1OTI1&pageno=MjI0MjQyNjk5NTk="
 title = "बालकालिदासः"
+author = "रूपनारायणपाण्डे"
+publisher = "के. मित्रः"
+"publish year" = "1926"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "89"
+language = "संस्कृतम् हिन्दी"
+printer = "इण्डियन्-प्रेस्"
+"serial no." = "Ebharati-5516"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU3OTkxMzcyNTE1OTI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बालकालिदासः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjU3OTkxMzcyNTE1OTI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1833,19 +1832,6 @@ Benares-Branch
  तात्पर्य यह कि भ्रम या कुसंस्कार के कारण अज्ञानीलोग भलाई को भी बुराई समझकर छोड़ बैठते हैं।
 
 **इति**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

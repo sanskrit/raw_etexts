@@ -1,16 +1,15 @@
 +++
-TITLE = "साहित्यदर्पणः"
-AUTHOR = "विश्वनाथः"
-PUBLISHER = "नन्दलालः"
-"PUBLISH YEAR" = "1921"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "228"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "काङ्गडीगुरुकुल-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5966"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU2OTgyMjg1MzE3Mjc1&pageno=MjI0MjQyNjk5NTk="
 title = "साहित्यदर्पणः"
+author = "विश्वनाथः"
+publisher = "नन्दलालः"
+"publish year" = "1921"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "228"
+language = "संस्कृतम्"
+printer = "काङ्गडीगुरुकुल-यन्त्रालयः"
+"serial no." = "Ebharati-5966"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU2OTgyMjg1MzE3Mjc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[साहित्यदर्पणः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjU2OTgyMjg1MzE3Mjc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6748,19 +6747,6 @@ title = "साहित्यदर्पणः"
 
 **समाप्तश्चायं प्रबन्धः।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

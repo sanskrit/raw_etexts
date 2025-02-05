@@ -1,12 +1,11 @@
 +++
-TITLE = "क्रमदीपिका"
-AUTHOR = "श्रीकेशवकाश्मीरिभट्टः"
-DOMAIN = "भक्तिसम्प्रदायः"
-SUB-DOMAIN = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2693"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ0MjQ4MDg4NzE1ODUy"
 title = "क्रमदीपिका"
+author = "श्रीकेशवकाश्मीरिभट्टः"
+domain = "भक्तिसम्प्रदायः"
+sub-domain = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2693"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ0MjQ4MDg4NzE1ODUy"
 
 +++
 [[क्रमदीपिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ0MjQ4MDg4NzE1ODUy)]]

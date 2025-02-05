@@ -1,13 +1,12 @@
 +++
-TITLE = "विष्णुसंहिता"
-AUTHOR = "वि वासुदेव-सोमयाजी"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "आगमसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4167"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDc0MjcxMjQzNjEwMDA0"
 title = "विष्णुसंहिता"
+author = "वि वासुदेव-सोमयाजी"
+domain = "आगमः"
+sub-domain = "आगमसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4167"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDc0MjcxMjQzNjEwMDA0"
 
 +++
 [[विष्णुसंहिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDc0MjcxMjQzNjEwMDA0)]]

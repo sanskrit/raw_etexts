@@ -1,17 +1,16 @@
 +++
-TITLE = "चरकसंहिता"
-AUTHOR = "अग्निवेशः"
-PUBLISHER = "पाण्डुरङ्ग-जावजी"
-"PUBLISH YEAR" = "1933"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "1091"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "यादवशर्मा"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7844"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODYxODU1NTI1NDk5MjU3&pageno=MjI0MjQyNjk5NTk="
 title = "चरकसंहिता"
+author = "अग्निवेशः"
+publisher = "पाण्डुरङ्ग-जावजी"
+"publish year" = "1933"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "1091"
+language = "संस्कृतम्"
+editor = "यादवशर्मा"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-7844"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODYxODU1NTI1NDk5MjU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चरकसंहिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODYxODU1NTI1NDk5MjU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -34847,19 +34846,6 @@ title = "चरकसंहिता"
 |    ० प्रमृत्यु ०     |  ० प्रभृत्यु०   |
 |     भिहितास्तथा      |  ० भिहिते तथा   |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

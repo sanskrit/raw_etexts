@@ -1,13 +1,12 @@
 +++
-TITLE = "धूर्तसमागमः"
-AUTHOR = "कविशेखराचार्यज्योतिरीश्वरः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2892"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI0NDgwMzMxMTI2Nzcy&pageno=MjI0MjQyNjk5NTk="
 title = "धूर्तसमागमः"
+author = "कविशेखराचार्यज्योतिरीश्वरः"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2892"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI0NDgwMzMxMTI2Nzcy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[धूर्तसमागमः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDI0NDgwMzMxMTI2Nzcy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1039,19 +1038,6 @@ title = "धूर्तसमागमः"
 समाप्तं
 
 ॥
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

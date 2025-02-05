@@ -1,17 +1,16 @@
 +++
-TITLE = "स्मृत्यर्थसारः"
-AUTHOR = "श्रीधराचार्यः"
-PUBLISHER = "हरिनारायण-आपटे"
-"PUBLISH YEAR" = "1912"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "173"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रङ्गनाथशास्त्री"
-PRINTER = "हरिनारायण-आपटे"
-"SERIAL NO." = "Ebharati-6403"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYwODIyMDQ5MzY2NDE2&pageno=MjI0MjQyNjk5NTk="
 title = "स्मृत्यर्थसारः"
+author = "श्रीधराचार्यः"
+publisher = "हरिनारायण-आपटे"
+"publish year" = "1912"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "173"
+language = "संस्कृतम्"
+editor = "रङ्गनाथशास्त्री"
+printer = "हरिनारायण-आपटे"
+"serial no." = "Ebharati-6403"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYwODIyMDQ5MzY2NDE2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्मृत्यर्थसारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjYwODIyMDQ5MzY2NDE2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2746,19 +2745,6 @@ title = "स्मृत्यर्थसारः"
 यज्वना श्रीधराचार्येण श्रुतिस्मृतिविदा कृते  
 स्मृत्यर्थसारे प्रायश्चित्तप्रकरणं समाप्तम्।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

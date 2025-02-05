@@ -1,13 +1,12 @@
 +++
-TITLE = "न्यायवार्तिकतात्पर्यटीका"
-AUTHOR = "वाचस्पतिमिश्रः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4074"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODIyNzI2MTk2ODgwMTkz"
 title = "न्यायवार्तिकतात्पर्यटीका"
+author = "वाचस्पतिमिश्रः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4074"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODIyNzI2MTk2ODgwMTkz"
 
 +++
 [[न्यायवार्तिकतात्पर्यटीका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODIyNzI2MTk2ODgwMTkz)]]

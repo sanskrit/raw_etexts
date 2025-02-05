@@ -1,16 +1,15 @@
 +++
-TITLE = "सूक्तिरत्नहारः"
-PUBLISHER = "ओथोरिटि-आफ्-गवर्नमेण्ट्"
-"PUBLISH YEAR" = "1938"
-DOMAIN = "सुभाषितसंग्रहः"
-SUB-DOMAIN = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
-PAGES = "396"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "के. साम्बशिवशास्त्री"
-PRINTER = "राजकीय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7205"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE1MDU2NjI5MjU2MTk2&pageno=MjI0MjQyNjk5NTk="
 title = "सूक्तिरत्नहारः"
+publisher = "ओथोरिटि-आफ्-गवर्नमेण्ट्"
+"publish year" = "1938"
+domain = "सुभाषितसंग्रहः"
+sub-domain = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
+pages = "396"
+language = "संस्कृतम्"
+editor = "के. साम्बशिवशास्त्री"
+printer = "राजकीय-मुद्रणालयः"
+"serial no." = "Ebharati-7205"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE1MDU2NjI5MjU2MTk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सूक्तिरत्नहारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE1MDU2NjI5MjU2MTk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -13544,19 +13543,6 @@ Trivandrum,
 
 [TABLE]
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

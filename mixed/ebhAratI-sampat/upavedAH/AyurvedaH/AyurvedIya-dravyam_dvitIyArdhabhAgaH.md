@@ -1,12 +1,11 @@
 +++
-TITLE = "आयुर्वेदीय-द्रव्यम् द्वितीयार्धभागः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "59"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-"SERIAL NO." = "Ebharati-3388"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3NTIzOTYyNTMyNTIz&pageno=MjI0MjQyNjk5NTk="
 title = "आयुर्वेदीय-द्रव्यम् द्वितीयार्धभागः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "59"
+language = "संस्कृतम् आङ्ग्लम्"
+"serial no." = "Ebharati-3388"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3NTIzOTYyNTMyNTIz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आयुर्वेदीय-द्रव्यम् द्वितीयार्धभागः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM3NTIzOTYyNTMyNTIz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -484,8 +483,5 @@ title = "आयुर्वेदीय-द्रव्यम् द्वित
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

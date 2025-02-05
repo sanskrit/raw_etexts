@@ -1,12 +1,11 @@
 +++
-TITLE = "श्री-गोविन्दलीलामृतम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3222"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg2MzgwMzk4OTkyOTAz"
 title = "श्री-गोविन्दलीलामृतम्"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3222"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg2MzgwMzk4OTkyOTAz"
 
 +++
 [[श्री-गोविन्दलीलामृतम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDg2MzgwMzk4OTkyOTAz)]]

@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीमद्वाल्मीकिरामायणम्"
-PUBLISHER = "रामस्वामिअय्यर्"
-"PUBLISH YEAR" = "1940"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "285"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "कृष्णस्वामी"
-PRINTER = "स्कोलर्-प्रेस्"
-"SERIAL NO." = "Ebharati-6155"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0NzAxMjc4NjU4MDk1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमद्वाल्मीकिरामायणम्"
+publisher = "रामस्वामिअय्यर्"
+"publish year" = "1940"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "285"
+language = "संस्कृतम्"
+editor = "कृष्णस्वामी"
+printer = "स्कोलर्-प्रेस्"
+"serial no." = "Ebharati-6155"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0NzAxMjc4NjU4MDk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमद्वाल्मीकिरामायणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE0NzAxMjc4NjU4MDk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8880,8 +8879,5 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

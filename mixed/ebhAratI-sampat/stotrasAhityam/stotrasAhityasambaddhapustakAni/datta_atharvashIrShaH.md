@@ -1,12 +1,11 @@
 +++
-TITLE = "दत्त अथर्वशीर्षः"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2874"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI4MDI3MDAyMzk4NTcy&pageno=MjI0MjQyNjk5NTk="
 title = "दत्त अथर्वशीर्षः"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2874"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI4MDI3MDAyMzk4NTcy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दत्त अथर्वशीर्षः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODI4MDI3MDAyMzk4NTcy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -50,8 +49,5 @@ title = "दत्त अथर्वशीर्षः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

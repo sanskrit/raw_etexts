@@ -1,12 +1,11 @@
 +++
-TITLE = "लिङ्गमहापुराणम्"
-AUTHOR = "वेदव्यासमहर्षिः"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "पुराणसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2738"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjM0MTU3MTE3NzM4MjYy"
 title = "लिङ्गमहापुराणम्"
+author = "वेदव्यासमहर्षिः"
+domain = "पुराणानि"
+sub-domain = "पुराणसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2738"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjM0MTU3MTE3NzM4MjYy"
 
 +++
 [[लिङ्गमहापुराणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjM0MTU3MTE3NzM4MjYy)]]

@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीप्रश्नसंहिता"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "आगमसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4165"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDM2Nzg2OTQzNDI4OTkz"
 title = "श्रीप्रश्नसंहिता"
+domain = "आगमः"
+sub-domain = "आगमसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4165"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDM2Nzg2OTQzNDI4OTkz"
 
 +++
 [[श्रीप्रश्नसंहिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDM2Nzg2OTQzNDI4OTkz)]]

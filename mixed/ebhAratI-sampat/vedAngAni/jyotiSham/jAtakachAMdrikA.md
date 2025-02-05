@@ -1,16 +1,15 @@
 +++
-TITLE = "जातकचांद्रिका"
-PUBLISHER = "रोयल्-विक्टोरिया-प्रेस्"
-"PUBLISH YEAR" = "1900"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "99"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "बि. सुब्रह्मण्य-राव्"
-PRINTER = "के. कृष्णस्वामि-अय्यर्"
-"SERIAL NO." = "Ebharati-4919"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE4Mzc0NjE1NTAyMjc0&pageno=MjI0MjQyNjk5NTk="
 title = "जातकचांद्रिका"
+publisher = "रोयल्-विक्टोरिया-प्रेस्"
+"publish year" = "1900"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "99"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "बि. सुब्रह्मण्य-राव्"
+printer = "के. कृष्णस्वामि-अय्यर्"
+"serial no." = "Ebharati-4919"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE4Mzc0NjE1NTAyMjc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जातकचांद्रिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODE4Mzc0NjE1NTAyMjc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1478,8 +1477,5 @@ to my knowledge in the course of my travels or my investigations will be publish
 
 Printed at the Royal Victoria Press : - Madras.
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

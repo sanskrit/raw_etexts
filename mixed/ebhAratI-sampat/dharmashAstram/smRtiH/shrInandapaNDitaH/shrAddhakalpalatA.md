@@ -1,17 +1,16 @@
 +++
-TITLE = "श्राद्धकल्पलता"
-AUTHOR = "श्रीनन्दपण्डितः"
-PUBLISHER = "चौखम्बा संस्कृत सीरिज आफिस बनारस सिटी."
-"PUBLISH YEAR" = "1935"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "293"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "श्रीलक्ष्मीधरपन्तधर्माधिकारी"
-PRINTER = "जयकृष्णदास हरिदास गुप्तः"
-"SERIAL NO." = "Ebharati-5032"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NzY4MTkwMzUwMzg0&pageno=MjI0MjQyNjk5NTk="
 title = "श्राद्धकल्पलता"
+author = "श्रीनन्दपण्डितः"
+publisher = "चौखम्बा संस्कृत सीरिज आफिस बनारस सिटी."
+"publish year" = "1935"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "293"
+language = "संस्कृतम्"
+editor = "श्रीलक्ष्मीधरपन्तधर्माधिकारी"
+printer = "जयकृष्णदास हरिदास गुप्तः"
+"serial no." = "Ebharati-5032"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NzY4MTkwMzUwMzg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्राद्धकल्पलता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NzY4MTkwMzUwMzg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10727,19 +10726,6 @@ August & September.
 **इति श्राद्धकल्पलता समाप्ता।**
 
 **शुभं भूयात्।**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

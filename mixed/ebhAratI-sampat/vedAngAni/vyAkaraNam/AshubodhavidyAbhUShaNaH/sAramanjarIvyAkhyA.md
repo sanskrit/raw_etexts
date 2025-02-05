@@ -1,13 +1,12 @@
 +++
-TITLE = "सारमञ्जरीव्याख्या"
-AUTHOR = "आशुबोधविद्याभूषणः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3542"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI3ODU2MDk2ODEwMDQz&pageno=MjI0MjQyNjk5NTk="
 title = "सारमञ्जरीव्याख्या"
+author = "आशुबोधविद्याभूषणः"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3542"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI3ODU2MDk2ODEwMDQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सारमञ्जरीव्याख्या	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDI3ODU2MDk2ODEwMDQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -184,19 +183,6 @@ title = "सारमञ्जरीव्याख्या"
 **ऊनविंशेत्‍यादि**। *“विंशत्‍यादिः सदैकत्‍वे सर्वो सङ्ख्‍येयसङ्ख्ययो”* रितिकोष-वचनात् ऊनविंशत्‍यादिसङ्ख्‍याशब्‍दस्‍य सङ्ख्‍येये सङ्ख्‍याने च शक्तिरवगन्‍तव्‍या, एकवचनान्‍ता च।
 
 **इति श्री आशुबोधविद्याभूषणविरचिता सारमञ्जरीव्याख्या समाप्ता।**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

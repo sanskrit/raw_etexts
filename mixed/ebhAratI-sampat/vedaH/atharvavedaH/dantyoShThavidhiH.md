@@ -1,11 +1,10 @@
 +++
-TITLE = "दन्त्योष्ठविधिः"
-DOMAIN = "वेदः"
-SUB-DOMAIN = "अथर्ववेदः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3098"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjUzMzIwOTUzNjkzNzky"
 title = "दन्त्योष्ठविधिः"
+domain = "वेदः"
+sub-domain = "अथर्ववेदः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3098"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjUzMzIwOTUzNjkzNzky"
 
 +++
 [[दन्त्योष्ठविधिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjUzMzIwOTUzNjkzNzky)]]

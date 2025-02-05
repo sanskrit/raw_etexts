@@ -1,18 +1,17 @@
 +++
-TITLE = "श्रीहर्षचरितम्"
-AUTHOR = "बाणभट्टः"
-PUBLISHER = "नारायणदत्तशर्मा"
-"PUBLISH YEAR" = "1939"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "गद्यम्"
-PAGES = "385"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "रामस्वरूपशास्त्री"
-"COMMENTARY NAME" = "आशुतोषी"
-PRINTER = "एज्युकेशनल्-प्रिन्टिंग्-प्रेस्"
-"SERIAL NO." = "Ebharati-5356"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMyMjE0NDc4NTUxNDE1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीहर्षचरितम्"
+author = "बाणभट्टः"
+publisher = "नारायणदत्तशर्मा"
+"publish year" = "1939"
+domain = "काव्यानि"
+sub-domain = "गद्यम्"
+pages = "385"
+language = "संस्कृतम्"
+"primary commentator" = "रामस्वरूपशास्त्री"
+"commentary name" = "आशुतोषी"
+printer = "एज्युकेशनल्-प्रिन्टिंग्-प्रेस्"
+"serial no." = "Ebharati-5356"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMyMjE0NDc4NTUxNDE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीहर्षचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjMyMjE0NDc4NTUxNDE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3256,19 +3255,6 @@ title = "श्रीहर्षचरितम्"
 
 ![](../books_images/U-IMG-173026821075.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

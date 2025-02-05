@@ -1,13 +1,12 @@
 +++
-TITLE = "श्रीनृसिंहपूर्वतापनीयोपनिषद्भाष्यम्"
-AUTHOR = "शङ्करभगवत्पादाः"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2705"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE1MTU3NTM4OTY2OTUy&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीनृसिंहपूर्वतापनीयोपनिषद्भाष्यम्"
+author = "शङ्करभगवत्पादाः"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2705"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE1MTU3NTM4OTY2OTUy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीनृसिंहपूर्वतापनीयोपनिषद्भाष्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE1MTU3NTM4OTY2OTUy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -339,8 +338,5 @@ Commentary on Nrsimhapurtapaniya Upanishad attributed to Bhagavatpada Shankarach
 नृसिंहपूर्वतापनीयोपनिषद्भाष्यं  
 संपूर्णम् ॥
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

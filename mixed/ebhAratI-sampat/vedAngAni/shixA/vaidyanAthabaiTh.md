@@ -1,12 +1,11 @@
 +++
-TITLE = "वैद्यनाथबैठ्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3982"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDA0NDIzNzMwNzUyMjgz"
 title = "वैद्यनाथबैठ्"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3982"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDA0NDIzNzMwNzUyMjgz"
 
 +++
 [[वैद्यनाथबैठ्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDA0NDIzNzMwNzUyMjgz)]]

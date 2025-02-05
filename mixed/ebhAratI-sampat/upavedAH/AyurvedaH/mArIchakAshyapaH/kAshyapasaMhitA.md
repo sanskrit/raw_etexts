@@ -1,18 +1,17 @@
 +++
-TITLE = "काश्यपसंहिता"
-AUTHOR = "मारीचकाश्यपः"
-PUBLISHER = "श्री यतिराज-सम्पत्कुमारमुनिः"
-"PUBLISH YEAR" = "१९३३"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "204"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वृद्धजीवकाचार्यः"
-"SECOND EDITOR" = "वात्स्यः"
-PRINTER = "कबीर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-3457"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU4MjUwMDEwOTU4MTMz&pageno=MjI0MjQyNjk5NTk="
 title = "काश्यपसंहिता"
+author = "मारीचकाश्यपः"
+publisher = "श्री यतिराज-सम्पत्कुमारमुनिः"
+"publish year" = "१९३३"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "204"
+language = "संस्कृतम्"
+editor = "वृद्धजीवकाचार्यः"
+"second editor" = "वात्स्यः"
+printer = "कबीर-मुद्रणालयः"
+"serial no." = "Ebharati-3457"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU4MjUwMDEwOTU4MTMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काश्यपसंहिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDU4MjUwMDEwOTU4MTMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3965,19 +3964,6 @@ M.A., F.R.E.S., F.M.U.
 नारायणीये तृतीयः पटलः  
 \_\_\_\_\_\_\_\_\_\_**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

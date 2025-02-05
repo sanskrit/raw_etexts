@@ -1,17 +1,16 @@
 +++
-TITLE = "आश्वलायनगृह्यमन्त्रव्याख्यम्"
-AUTHOR = "हरदत्तमिश्र:"
-PUBLISHER = "त्रावणकोरस्य-महाराजः"
-"PUBLISH YEAR" = "1938"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "296"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "के.साम्बशिव-शास्त्री"
-PRINTER = "रागकीय-प्रेस्-तिरुवनन्तपुरम्"
-"SERIAL NO." = "Ebharati-7410"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIwNzQzNjUxMjMzMTE3&pageno=MjI0MjQyNjk5NTk="
 title = "आश्वलायनगृह्यमन्त्रव्याख्यम्"
+author = "हरदत्तमिश्र:"
+publisher = "त्रावणकोरस्य-महाराजः"
+"publish year" = "1938"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "296"
+language = "संस्कृतम्"
+editor = "के.साम्बशिव-शास्त्री"
+printer = "रागकीय-प्रेस्-तिरुवनन्तपुरम्"
+"serial no." = "Ebharati-7410"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIwNzQzNjUxMjMzMTE3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आश्वलायनगृह्यमन्त्रव्याख्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDIwNzQzNjUxMjMzMTE3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5077,19 +5076,6 @@ Trivandrum
 |       'मानध्यो हि प्रजाः'       |      ब्राह्मणम्      |   **...**    |
 |     'रुद्रो वा एष यदग्निः—’     | तैत्तिरीयकब्राह्मणम् |   **...**    |
 |       'समिद्धनेषु हितेषु—'        |       श्रुतिः        |   **...**    |
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

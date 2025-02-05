@@ -1,16 +1,15 @@
 +++
-TITLE = "ईशादि नौ उपनिषदः"
-PUBLISHER = "मोतीलल-जालानः"
-"PUBLISH YEAR" = "1943"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "अन्याः उपनिषदः"
-PAGES = "449"
-LANGUAGE = "संस्कृतम् हिन्दी"
-EDITOR = "हरिकृष्णदास-गोयन्दका"
-PRINTER = "मोतीलल-जालानः"
-"SERIAL NO." = "Ebharati-7229"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM2ODY0NjM4NjU5Mzk2&pageno=MjI0MjQyNjk5NTk="
 title = "ईशादि नौ उपनिषदः"
+publisher = "मोतीलल-जालानः"
+"publish year" = "1943"
+domain = "उपनिषदः"
+sub-domain = "अन्याः उपनिषदः"
+pages = "449"
+language = "संस्कृतम् हिन्दी"
+editor = "हरिकृष्णदास-गोयन्दका"
+printer = "मोतीलल-जालानः"
+"serial no." = "Ebharati-7229"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM2ODY0NjM4NjU5Mzk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ईशादि नौ उपनिषदः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODM2ODY0NjM4NjU5Mzk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7939,8 +7938,5 @@ title = "ईशादि नौ उपनिषदः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

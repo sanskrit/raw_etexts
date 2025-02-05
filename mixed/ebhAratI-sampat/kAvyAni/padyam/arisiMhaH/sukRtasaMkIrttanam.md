@@ -1,17 +1,16 @@
 +++
-TITLE = "सुकृतसंकीर्त्तनम्"
-AUTHOR = "अरिसिंहः"
-PUBLISHER = "वल्लभदास-त्रिभुवनदास-गान्धी"
-"PUBLISH YEAR" = "1917"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "117"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "कान्तिविजयः"
-PRINTER = "मणिभाई-मथुरभाई-गुप्तः"
-"SERIAL NO." = "Ebharati-7840"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg0ODg1MDQ1MDE2MjU3&pageno=MjI0MjQyNjk5NTk="
 title = "सुकृतसंकीर्त्तनम्"
+author = "अरिसिंहः"
+publisher = "वल्लभदास-त्रिभुवनदास-गान्धी"
+"publish year" = "1917"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "117"
+language = "संस्कृतम्"
+editor = "कान्तिविजयः"
+printer = "मणिभाई-मथुरभाई-गुप्तः"
+"serial no." = "Ebharati-7840"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg0ODg1MDQ1MDE2MjU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुकृतसंकीर्त्तनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDg0ODg1MDQ1MDE2MjU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3226,19 +3225,6 @@ IV Index of geographical names occuring in the poem ४
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

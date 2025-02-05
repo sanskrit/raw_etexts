@@ -1,16 +1,15 @@
 +++
-TITLE = "चन्द्रालोकः"
-PUBLISHER = "वाविळ्ळरामस्वामिशास्त्रुलु अण्ड् सन्स्"
-"PUBLISH YEAR" = "1952"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "108"
-LANGUAGE = "संस्कृतम्"
-"COMMENTARY NAME" = "बुधरञ्जनी"
-PRINTER = "वि.वेङ्कटेश्वरशास्त्रुलु"
-"SERIAL NO." = "Ebharati-7908"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxMzcwNTgyODMxOTU3&pageno=MjI0MjQyNjk5NTk="
 title = "चन्द्रालोकः"
+publisher = "वाविळ्ळरामस्वामिशास्त्रुलु अण्ड् सन्स्"
+"publish year" = "1952"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "108"
+language = "संस्कृतम्"
+"commentary name" = "बुधरञ्जनी"
+printer = "वि.वेङ्कटेश्वरशास्त्रुलु"
+"serial no." = "Ebharati-7908"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxMzcwNTgyODMxOTU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चन्द्रालोकः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjcxMzcwNTgyODMxOTU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1940,8 +1939,5 @@ Madras.— 1952
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

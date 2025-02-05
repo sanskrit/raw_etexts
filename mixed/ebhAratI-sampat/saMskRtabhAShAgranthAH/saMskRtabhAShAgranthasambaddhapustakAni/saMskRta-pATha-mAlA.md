@@ -1,13 +1,12 @@
 +++
-TITLE = "संस्कृत-पाठ-माला"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "52"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "प.श्रीपाद-दामोदर-सातवळेकरः"
-"SERIAL NO." = "Ebharati-8904"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg0NTI1MjQ1MDU3NDU4&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृत-पाठ-माला"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "52"
+language = "संस्कृतम्"
+editor = "प.श्रीपाद-दामोदर-सातवळेकरः"
+"serial no." = "Ebharati-8904"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg0NTI1MjQ1MDU3NDU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृत-पाठ-माला	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODg0NTI1MjQ1MDU3NDU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1043,8 +1042,5 @@ title = "संस्कृत-पाठ-माला"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

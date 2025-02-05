@@ -1,19 +1,18 @@
 +++
-TITLE = "जयपुरसूर्यवंश्यावळिः Split-1"
-AUTHOR = "विद्याभूषण श्रीरामनाथनन्दशर्मा"
-PUBLISHER = "जयपूर संस्थानम्"
-"PUBLISH YEAR" = "1943"
-DOMAIN = "इतिहासःसंस्कृतिः च"
-SUB-DOMAIN = "भारतीय इतिहासः"
-PAGES = "45"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "श्री श्री श्री विक्रमदेववर्मः"
-"PRIMARY COMMENTATOR" = "विद्याभूषण श्रीरामनाथनन्दशर्मा"
-"COMMENTARY NAME" = "विवृत्याख्या"
-PRINTER = "V. Venkateswara Sastrulu The Villa Press Madras."
-"SERIAL NO." = "Ebharati-5038"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMwMjIzOTYwOTI2Mzg0&pageno=MjI0MjQyNjk5NTk="
 title = "जयपुरसूर्यवंश्यावळिः Split-1"
+author = "विद्याभूषण श्रीरामनाथनन्दशर्मा"
+publisher = "जयपूर संस्थानम्"
+"publish year" = "1943"
+domain = "इतिहासःसंस्कृतिः च"
+sub-domain = "भारतीय इतिहासः"
+pages = "45"
+language = "संस्कृतम्"
+"books contributor" = "श्री श्री श्री विक्रमदेववर्मः"
+"primary commentator" = "विद्याभूषण श्रीरामनाथनन्दशर्मा"
+"commentary name" = "विवृत्याख्या"
+printer = "V. Venkateswara Sastrulu The Villa Press Madras."
+"serial no." = "Ebharati-5038"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMwMjIzOTYwOTI2Mzg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जयपुरसूर्यवंश्यावळिः Split-1	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjMwMjIzOTYwOTI2Mzg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7813,19 +7812,6 @@ Printed by V. Ramaswamy Sastrulu & Sons, at the 'Vavilla' Press, Madras,-194,
 | 16           | विक्रमी           | विक्रमः                                    |
 | 30           | तत्वेऽपि          | वृत्तत्वेऽपि                               |
 | 6            | स्तत्सविधेः       | तस्सविधे                                   |
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

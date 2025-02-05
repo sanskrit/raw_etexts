@@ -1,13 +1,12 @@
 +++
-TITLE = "गौतमन्यायसूत्राणि (मूलम्)"
-AUTHOR = "गौतममुनिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-PAGES = "51"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-1723"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAxMzk2NTI1MTA0NTYx&pageno=MjI0MjQyNjk5NTk="
 title = "गौतमन्यायसूत्राणि (मूलम्)"
+author = "गौतममुनिः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+pages = "51"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-1723"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAxMzk2NTI1MTA0NTYx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गौतमन्यायसूत्राणि (मूलम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjAxMzk2NTI1MTA0NTYx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3674,8 +3673,5 @@ title = "गौतमन्यायसूत्राणि (मूलम्)"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

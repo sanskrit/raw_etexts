@@ -1,11 +1,10 @@
 +++
-TITLE = "शृङ्गारप्रकाशः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2753"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY3NzgzNTU2NzcyNDYy"
 title = "शृङ्गारप्रकाशः"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2753"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY3NzgzNTU2NzcyNDYy"
 
 +++
 [[शृङ्गारप्रकाशः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjY3NzgzNTU2NzcyNDYy)]]

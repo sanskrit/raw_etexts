@@ -1,13 +1,12 @@
 +++
-TITLE = "पद्मप्राभृतकम्"
-AUTHOR = "शृद्रकः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2785"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTQxNTM1OTQzNzYy&pageno=MjI0MjQyNjk5NTk="
 title = "पद्मप्राभृतकम्"
+author = "शृद्रकः"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2785"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTQxNTM1OTQzNzYy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पद्मप्राभृतकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTQxNTM1OTQzNzYy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -300,19 +299,6 @@ title = "पद्मप्राभृतकम्"
 
   
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

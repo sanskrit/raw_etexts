@@ -1,12 +1,11 @@
 +++
-TITLE = "आत्रेयशिक्षा तृतीयभागः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3923"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA1MTIwOTUyMzk1Njcz&pageno=MjI0MjQyNjk5NTk="
 title = "आत्रेयशिक्षा तृतीयभागः"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3923"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA1MTIwOTUyMzk1Njcz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आत्रेयशिक्षा तृतीयभागः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjA1MTIwOTUyMzk1Njcz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -39,8 +38,5 @@ title = "आत्रेयशिक्षा तृतीयभागः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

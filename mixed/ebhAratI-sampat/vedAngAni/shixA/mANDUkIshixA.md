@@ -1,13 +1,12 @@
 +++
-TITLE = "माण्डूकीशिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-PAGES = "18"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3560"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIzMjIwMzI2NjQ3MTQz&pageno=MjI0MjQyNjk5NTk="
 title = "माण्डूकीशिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+pages = "18"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3560"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIzMjIwMzI2NjQ3MTQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[माण्डूकीशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDIzMjIwMzI2NjQ3MTQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -575,8 +574,5 @@ title = "माण्डूकीशिक्षा"
 इत्यथर्वणवेदीया माण्डूकीशिक्षा समाप्ता  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

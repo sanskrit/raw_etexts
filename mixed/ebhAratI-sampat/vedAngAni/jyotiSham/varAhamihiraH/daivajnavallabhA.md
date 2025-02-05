@@ -1,14 +1,13 @@
 +++
-TITLE = "दैवज्ञवल्लभा"
-AUTHOR = "वराहमिहिरः"
-PUBLISHER = "रञ्जन्-पब्लिकेषन्स्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "111"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4907"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU3NDY1MTY1MzUwMTc0&pageno=MjI0MjQyNjk5NTk="
 title = "दैवज्ञवल्लभा"
+author = "वराहमिहिरः"
+publisher = "रञ्जन्-पब्लिकेषन्स्"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "111"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4907"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU3NDY1MTY1MzUwMTc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दैवज्ञवल्लभा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDU3NDY1MTY1MzUwMTc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2720,8 +2719,5 @@ Plese attach the picture here
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

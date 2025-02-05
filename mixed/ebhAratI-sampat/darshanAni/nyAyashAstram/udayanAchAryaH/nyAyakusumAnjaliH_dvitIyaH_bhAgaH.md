@@ -1,19 +1,18 @@
 +++
-TITLE = "न्यायकुसुमाञ्जलिः (द्वितीयः भागः)"
-AUTHOR = "उदयनाचार्यः"
-PUBLISHER = "कल्कत्ता-विश्वविद्यालयः"
-"PUBLISH YEAR" = "१९६४"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-PAGES = "894"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "नरेन्द्रचन्द्रवेदान्ततीर्थः"
-"PRIMARY COMMENTATOR" = "शङ्करमिश्रः"
-"SECONDARY COMMENTATOR" = "गुणानन्दविद्यावागीशः"
-PRINTER = "कल्कत्ता-विश्वविद्यालय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1827"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk5NDA5NDMxNTgzNTcx&pageno=MjI0MjQyNjk5NTk="
 title = "न्यायकुसुमाञ्जलिः (द्वितीयः भागः)"
+author = "उदयनाचार्यः"
+publisher = "कल्कत्ता-विश्वविद्यालयः"
+"publish year" = "१९६४"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+pages = "894"
+language = "संस्कृतम्"
+editor = "नरेन्द्रचन्द्रवेदान्ततीर्थः"
+"primary commentator" = "शङ्करमिश्रः"
+"secondary commentator" = "गुणानन्दविद्यावागीशः"
+printer = "कल्कत्ता-विश्वविद्यालय-मुद्रणालयः"
+"serial no." = "Ebharati-1827"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk5NDA5NDMxNTgzNTcx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[न्यायकुसुमाञ्जलिः (द्वितीयः भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk5NDA5NDMxNTgzNTcx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5093,8 +5092,5 @@ HAL
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

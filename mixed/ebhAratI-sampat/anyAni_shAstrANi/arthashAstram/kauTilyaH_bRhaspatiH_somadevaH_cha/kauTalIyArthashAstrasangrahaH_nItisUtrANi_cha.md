@@ -1,16 +1,15 @@
 +++
-TITLE = "कौटलीयार्थशास्त्रसङ्ग्रहः नीतिसूत्राणि च"
-AUTHOR = "कौटिल्यः बृहस्पतिः सोमदेवः च"
-"PUBLISH YEAR" = "1957"
-DOMAIN = "अन्यानि शास्त्राणि"
-SUB-DOMAIN = "अर्थशास्त्रम्"
-PAGES = "204"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "एन् एस् वेङ्कटनाथाचार्यः"
-PRINTER = "राजकीयमुद्रणयन्त्रालयम् मैसूरु"
-"SERIAL NO." = "Ebharati-3380"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYzNjgzOTkyNzY0NDIz&pageno=MjI0MjQyNjk5NTk="
 title = "कौटलीयार्थशास्त्रसङ्ग्रहः नीतिसूत्राणि च"
+author = "कौटिल्यः बृहस्पतिः सोमदेवः च"
+"publish year" = "1957"
+domain = "अन्यानि शास्त्राणि"
+sub-domain = "अर्थशास्त्रम्"
+pages = "204"
+language = "संस्कृतम्"
+editor = "एन् एस् वेङ्कटनाथाचार्यः"
+printer = "राजकीयमुद्रणयन्त्रालयम् मैसूरु"
+"serial no." = "Ebharati-3380"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYzNjgzOTkyNzY0NDIz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कौटलीयार्थशास्त्रसङ्ग्रहः नीतिसूत्राणि च	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDYzNjgzOTkyNzY0NDIz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6590,19 +6589,6 @@ PRINTED BY THE SENIOR ASST. DIRECTOR, GOVTBRANCH PRESS
 
 *              *
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

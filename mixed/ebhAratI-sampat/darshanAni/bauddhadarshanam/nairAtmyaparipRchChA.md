@@ -1,12 +1,11 @@
 +++
-TITLE = "नैरात्म्यपरिपृच्छा"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3746"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE4MjExNDI5MTA2OTUz&pageno=MjI0MjQyNjk5NTk="
 title = "नैरात्म्यपरिपृच्छा"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3746"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE4MjExNDI5MTA2OTUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नैरात्म्यपरिपृच्छा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE4MjExNDI5MTA2OTUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -139,8 +138,5 @@ title = "नैरात्म्यपरिपृच्छा"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

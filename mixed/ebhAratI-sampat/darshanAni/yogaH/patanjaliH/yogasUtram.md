@@ -1,17 +1,16 @@
 +++
-TITLE = "योगसूत्रम्"
-AUTHOR = "पतञ्जलिः"
-"PUBLISH YEAR" = "२००७"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "240"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "योगी माधवाचार्यः वा Michael Beloved"
-EDITOR = "योगी माधवाचार्यः वा Michael Beloved"
-PRINTER = "भगीरथदासः"
-"SERIAL NO." = "Ebharati-1670"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3NDQ4NDI3MzEzMDYx&pageno=MjI0MjQyNjk5NTk="
 title = "योगसूत्रम्"
+author = "पतञ्जलिः"
+"publish year" = "२००७"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "240"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "योगी माधवाचार्यः वा Michael Beloved"
+editor = "योगी माधवाचार्यः वा Michael Beloved"
+printer = "भगीरथदासः"
+"serial no." = "Ebharati-1670"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3NDQ4NDI3MzEzMDYx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[योगसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3NDQ4NDI3MzEzMDYx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8628,19 +8627,6 @@ If you have some interest in yoga, nurture and develop it. Sri Krishna, the Supr
 
 **In that environment (in the new birth), he (the yogi) is inspired with the cumulative intellectual interest from a previous birth. And from that time, he strives again for yoga perfection, O dear son of the Kurus. (Gitā 6.43)**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

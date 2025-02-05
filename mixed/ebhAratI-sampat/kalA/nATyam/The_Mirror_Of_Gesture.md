@@ -1,14 +1,13 @@
 +++
-TITLE = "The Mirror Of Gesture"
-"PUBLISH YEAR" = "1917"
-DOMAIN = "कला"
-SUB-DOMAIN = "नाट्यम्"
-PAGES = "104"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "ओक्सफोर्ट-प्रेस्"
-"SERIAL NO." = "Ebharati-8449"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc0MzIyMjUyMjcwMTE4&pageno=MjI0MjQyNjk5NTk="
 title = "The Mirror Of Gesture"
+"publish year" = "1917"
+domain = "कला"
+sub-domain = "नाट्यम्"
+pages = "104"
+language = "संस्कृतम्"
+printer = "ओक्सफोर्ट-प्रेस्"
+"serial no." = "Ebharati-8449"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc0MzIyMjUyMjcwMTE4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[The Mirror Of Gesture	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODc0MzIyMjUyMjcwMTE4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1425,19 +1424,6 @@ COMBINED HANDS
 
 **COMBINED HANDS**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

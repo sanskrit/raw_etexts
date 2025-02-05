@@ -1,17 +1,16 @@
 +++
-TITLE = "वीरमित्रोदय-श्राद्धप्रकाशः (नवमो भागः)"
-AUTHOR = "मित्रमिश्रः"
-PUBLISHER = "जयकृष्णदास-हरिदासगुप्तः"
-"PUBLISH YEAR" = "1935"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "386"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पद्मप्रसाद-उपाध्यायः"
-PRINTER = "जयकृष्णदासगुप्त-विद्यविलास-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6451"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIzNDY4OTU3MTcyOTE2&pageno=MjI0MjQyNjk5NTk="
 title = "वीरमित्रोदय-श्राद्धप्रकाशः (नवमो भागः)"
+author = "मित्रमिश्रः"
+publisher = "जयकृष्णदास-हरिदासगुप्तः"
+"publish year" = "1935"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "386"
+language = "संस्कृतम्"
+editor = "पद्मप्रसाद-उपाध्यायः"
+printer = "जयकृष्णदासगुप्त-विद्यविलास-यन्त्रालयः"
+"serial no." = "Ebharati-6451"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIzNDY4OTU3MTcyOTE2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वीरमित्रोदय-श्राद्धप्रकाशः (नवमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjIzNDY4OTU3MTcyOTE2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -13997,8 +13996,5 @@ Benares City.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

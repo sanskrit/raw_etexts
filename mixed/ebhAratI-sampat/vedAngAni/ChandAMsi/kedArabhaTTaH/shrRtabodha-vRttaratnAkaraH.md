@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रृतबोध-वृत्तरत्नाकरः"
-AUTHOR = "केदारभट्टः"
-PUBLISHER = "जावजिदादाजी"
-"PUBLISH YEAR" = "1950"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "छन्दांसि"
-PAGES = "73"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7278"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEzNzQzMjU2MDY2ODk2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रृतबोध-वृत्तरत्नाकरः"
+author = "केदारभट्टः"
+publisher = "जावजिदादाजी"
+"publish year" = "1950"
+domain = "वेदाङ्गानि"
+sub-domain = "छन्दांसि"
+pages = "73"
+language = "संस्कृतम्"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-7278"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEzNzQzMjU2MDY2ODk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रृतबोध-वृत्तरत्नाकरः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjEzNzQzMjU2MDY2ODk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1103,8 +1102,5 @@ title = "श्रृतबोध-वृत्तरत्नाकरः"
 
  वंशेऽभूदिति॥ पव्येकनामा विप्रः काश्यपस्य वंशेऽभूत्किंभूतो विप्रः प्रकटगुणगणः पुनः किंभूतः शैवसिद्धांतवेत्तापुनः किंभूतः वेदतत्त्वाववोधे विमलतरमतिः तस्य पव्ये कस्यकेदारः सूनुः किंभूतः केदारः शिवचरणयुगाराधनैकाग्रचित्तःतेन केदारेण इदं वृत्तरत्नाकराख्यं छंदः प्रविरचितम्।किंभूतं छंदः अभिरामम्॥१॥ इति वृत्तरत्नाकराख्यछंदसो व्याख्या समाप्ता॥
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

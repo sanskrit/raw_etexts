@@ -1,17 +1,16 @@
 +++
-TITLE = "प्रपञ्चसारसारसंग्रहः (पूर्वो भागः)"
-AUTHOR = "गीर्वाणेन्द्र-सरस्वती"
-PUBLISHER = "श्री.एस.गोपालनः"
-"PUBLISH YEAR" = "1962"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "554"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "क्षे.शं.सुब्रह्मण्यशास्त्री"
-PRINTER = "वाणीविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-8412"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY4MzUyMTkzMDI1NzA4&pageno=MjI0MjQyNjk5NTk="
 title = "प्रपञ्चसारसारसंग्रहः (पूर्वो भागः)"
+author = "गीर्वाणेन्द्र-सरस्वती"
+publisher = "श्री.एस.गोपालनः"
+"publish year" = "1962"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "554"
+language = "संस्कृतम्"
+editor = "क्षे.शं.सुब्रह्मण्यशास्त्री"
+printer = "वाणीविलास-मुद्रणालयः"
+"serial no." = "Ebharati-8412"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY4MzUyMTkzMDI1NzA4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रपञ्चसारसारसंग्रहः (पूर्वो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDY4MzUyMTkzMDI1NzA4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -12179,19 +12178,6 @@ Date 28-12-62
 
 **इति पूर्वभागस्समाप्तः॥**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

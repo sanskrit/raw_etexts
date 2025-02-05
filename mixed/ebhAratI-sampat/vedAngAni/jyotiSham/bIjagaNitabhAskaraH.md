@@ -1,12 +1,11 @@
 +++
-TITLE = "बीजगणितभास्करः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2633"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxNzkyNjAxODU3MjUy&pageno=MjI0MjQyNjk5NTk="
 title = "बीजगणितभास्करः"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2633"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxNzkyNjAxODU3MjUy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बीजगणितभास्करः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjIxNzkyNjAxODU3MjUy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -698,8 +697,5 @@ title = "बीजगणितभास्करः"
 
 १५०च् । विस्तारिता
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

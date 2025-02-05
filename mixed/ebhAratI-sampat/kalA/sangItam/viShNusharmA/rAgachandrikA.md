@@ -1,16 +1,15 @@
 +++
-TITLE = "रागचन्द्रिका"
-AUTHOR = "विष्णुशर्मा"
-PUBLISHER = "विष्णु नारायन भट्खंडे"
-"PUBLISH YEAR" = "१९११"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "16"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "निर्णयसागरयंत्रालय कोलभाट"
-"SERIAL NO." = "Ebharati-4661"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5ODI5NTg0ODM0NzQ0&pageno=MjI0MjQyNjk5NTk="
 title = "रागचन्द्रिका"
+author = "विष्णुशर्मा"
+publisher = "विष्णु नारायन भट्खंडे"
+"publish year" = "१९११"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "16"
+language = "संस्कृतम्"
+printer = "निर्णयसागरयंत्रालय कोलभाट"
+"serial no." = "Ebharati-4661"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5ODI5NTg0ODM0NzQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रागचन्द्रिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5ODI5NTg0ODM0NzQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -367,19 +366,6 @@ title = "रागचन्द्रिका"
 
 पत्ताः—**शंकर रामचंद्र रोंगे.**  
 ४ खत्र्याची चाल गायवाडी, **मुंबई.**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

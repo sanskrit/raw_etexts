@@ -1,13 +1,12 @@
 +++
-TITLE = "प्रमाणपद्धतिः"
-AUTHOR = "श्रीमज्जयतीर्थाः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3182"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA4NjgzMzQwMDY0NTAz&pageno=MjI0MjQyNjk5NTk="
 title = "प्रमाणपद्धतिः"
+author = "श्रीमज्जयतीर्थाः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3182"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA4NjgzMzQwMDY0NTAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रमाणपद्धतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDA4NjgzMzQwMDY0NTAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2670,19 +2669,6 @@ title = "प्रमाणपद्धतिः"
 
  {भारतीरमणमुख्यप्राणान्तर्गत श्रीकृष्णार्पणमस्तु}
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

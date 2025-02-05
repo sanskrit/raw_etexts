@@ -1,12 +1,11 @@
 +++
-TITLE = "अहिर्बुध्न्यसंहिता"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "आगमसम्बद्धपुस्तकानि"
-EDITOR = "रामानुजाचार्यः"
-"SECOND EDITOR" = "कृष्णमाचार्यः"
-"SERIAL NO." = "Ebharati-432"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDAzNjI3NjczMDc0MTQ="
 title = "अहिर्बुध्न्यसंहिता"
+domain = "आगमः"
+sub-domain = "आगमसम्बद्धपुस्तकानि"
+editor = "रामानुजाचार्यः"
+"second editor" = "कृष्णमाचार्यः"
+"serial no." = "Ebharati-432"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDAzNjI3NjczMDc0MTQ="
 
 +++
 [[अहिर्बुध्न्यसंहिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDAzNjI3NjczMDc0MTQ=)]]

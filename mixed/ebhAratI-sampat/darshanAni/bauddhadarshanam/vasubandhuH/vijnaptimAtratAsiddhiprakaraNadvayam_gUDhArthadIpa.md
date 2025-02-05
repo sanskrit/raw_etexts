@@ -1,21 +1,20 @@
 +++
-TITLE = "विज्ञप्तिमात्रतासिद्धिप्रकरणद्वयम् (गूढार्थदीपनी-व्याख्यासहितम्)"
-AUTHOR = "वसुबन्धुः"
-PUBLISHER = "वाराणसेयसंस्कृतविश्वविद्यालयः"
-"PUBLISH YEAR" = "१९७२"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-PAGES = "500"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "रामशङ्करत्रिपाठी"
-EDITOR = "थुषतनछोपगडुपशास्त्री"
-"SECOND EDITOR" = "रामशङ्करत्रिपाठी"
-"PRIMARY COMMENTATOR" = "थुषतनछोपगडुपशास्त्री"
-"COMMENTARY NAME" = "गूढार्थदीपनी-व्याख्या"
-PRINTER = "सुदर्शन-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1385"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc0NDU3NTk3NDU5MjMx&pageno=MjI0MjQyNjk5NTk="
 title = "विज्ञप्तिमात्रतासिद्धिप्रकरणद्वयम् (गूढार्थदीपनी-व्याख्यासहितम्)"
+author = "वसुबन्धुः"
+publisher = "वाराणसेयसंस्कृतविश्वविद्यालयः"
+"publish year" = "१९७२"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+pages = "500"
+language = "संस्कृतम् हिन्दी"
+translator = "रामशङ्करत्रिपाठी"
+editor = "थुषतनछोपगडुपशास्त्री"
+"second editor" = "रामशङ्करत्रिपाठी"
+"primary commentator" = "थुषतनछोपगडुपशास्त्री"
+"commentary name" = "गूढार्थदीपनी-व्याख्या"
+printer = "सुदर्शन-मुद्रणालयः"
+"serial no." = "Ebharati-1385"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc0NDU3NTk3NDU5MjMx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विज्ञप्तिमात्रतासिद्धिप्रकरणद्वयम् (गूढार्थदीपनी-व्याख्यासहितम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc0NDU3NTk3NDU5MjMx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8877,19 +8876,6 @@ marrMMMY
 
 ----------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

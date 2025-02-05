@@ -1,15 +1,14 @@
 +++
-TITLE = "कर्पुरादिस्त्रोत्रम्"
-PUBLISHER = "गणेश एण्ड को."
-"PUBLISH YEAR" = "1953"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "172"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "विमलानन्द-स्वामी"
-"SERIAL NO." = "Ebharati-8849"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcyMjkxOTQ3MDc0OTQ4&pageno=MjI0MjQyNjk5NTk="
 title = "कर्पुरादिस्त्रोत्रम्"
+publisher = "गणेश एण्ड को."
+"publish year" = "1953"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "172"
+language = "संस्कृतम्"
+editor = "विमलानन्द-स्वामी"
+"serial no." = "Ebharati-8849"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcyMjkxOTQ3MDc0OTQ4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कर्पुरादिस्त्रोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODcyMjkxOTQ3MDc0OTQ4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3514,8 +3513,5 @@ APPENDIX।
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

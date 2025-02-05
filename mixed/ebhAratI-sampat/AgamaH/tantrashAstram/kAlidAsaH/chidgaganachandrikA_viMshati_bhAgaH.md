@@ -1,17 +1,16 @@
 +++
-TITLE = "चिद्गगनचन्द्रिका (विंशति भागः)"
-AUTHOR = "कालिदासः"
-PUBLISHER = "आगमानुसन्धानमितितः"
-"PUBLISH YEAR" = "1937"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "119"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "स्वामीत्रिविक्रमतीर्थः"
-PRINTER = "महाराष्ट्र-मुद्रण-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8720"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ4OTE5MzMyNzgwNzM4&pageno=MjI0MjQyNjk5NTk="
 title = "चिद्गगनचन्द्रिका (विंशति भागः)"
+author = "कालिदासः"
+publisher = "आगमानुसन्धानमितितः"
+"publish year" = "1937"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "119"
+language = "संस्कृतम्"
+editor = "स्वामीत्रिविक्रमतीर्थः"
+printer = "महाराष्ट्र-मुद्रण-यन्त्रालयः"
+"serial no." = "Ebharati-8720"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ4OTE5MzMyNzgwNzM4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चिद्गगनचन्द्रिका (विंशति भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ4OTE5MzMyNzgwNzM4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2842,19 +2841,6 @@ September, 1987.  ****
 
 
 [TABLE]
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

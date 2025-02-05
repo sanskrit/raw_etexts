@@ -1,18 +1,17 @@
 +++
-TITLE = "श्रीतन्त्रालोकः (पञ्चमो भागः)"
-AUTHOR = "अभिनवगुप्तः"
-PUBLISHER = "इण्डियन्-प्रेस्"
-"PUBLISH YEAR" = "1922"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "309"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मधुसूदनकौलशास्त्री"
-"PRIMARY COMMENTATOR" = "राजानक-जयरथः"
-PRINTER = "इण्डियन्-प्रेस्"
-"SERIAL NO." = "Ebharati-7895"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk2MTI5MzMzMDk4NzU3&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीतन्त्रालोकः (पञ्चमो भागः)"
+author = "अभिनवगुप्तः"
+publisher = "इण्डियन्-प्रेस्"
+"publish year" = "1922"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "309"
+language = "संस्कृतम्"
+editor = "मधुसूदनकौलशास्त्री"
+"primary commentator" = "राजानक-जयरथः"
+printer = "इण्डियन्-प्रेस्"
+"serial no." = "Ebharati-7895"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk2MTI5MzMzMDk4NzU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीतन्त्रालोकः (पञ्चमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDk2MTI5MzMzMDk4NzU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7483,8 +7482,5 @@ Published by the Research Department, JAMMU & KASHMIR STATE, Srinagar.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

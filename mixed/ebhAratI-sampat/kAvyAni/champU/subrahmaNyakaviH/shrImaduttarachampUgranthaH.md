@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीमदुत्तरचम्पूग्रन्थः"
-AUTHOR = "सुब्रह्मण्यकविः"
-"PUBLISH YEAR" = "1910"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "चम्पू"
-PAGES = "103"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "के. साम्बशिवशास्त्रिः"
-PRINTER = "श्रीविद्याविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5288"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1NzI5OTIxODI2NzA1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमदुत्तरचम्पूग्रन्थः"
+author = "सुब्रह्मण्यकविः"
+"publish year" = "1910"
+domain = "काव्यानि"
+sub-domain = "चम्पू"
+pages = "103"
+language = "संस्कृतम्"
+"primary commentator" = "के. साम्बशिवशास्त्रिः"
+printer = "श्रीविद्याविलास-मुद्रणालयः"
+"serial no." = "Ebharati-5288"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1NzI5OTIxODI2NzA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमदुत्तरचम्पूग्रन्थः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM1NzI5OTIxODI2NzA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2189,19 +2188,6 @@ Principal,
 
 [TABLE]
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

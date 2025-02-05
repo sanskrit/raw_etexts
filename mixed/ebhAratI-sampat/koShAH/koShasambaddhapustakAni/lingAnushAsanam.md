@@ -1,12 +1,11 @@
 +++
-TITLE = "लिङ्गानुशासनम्"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "कोषसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3083"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIwNzgzNTE0NjU5NTky&pageno=MjI0MjQyNjk5NTk="
 title = "लिङ्गानुशासनम्"
+domain = "कोषाः"
+sub-domain = "कोषसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3083"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIwNzgzNTE0NjU5NTky&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लिङ्गानुशासनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjIwNzgzNTE0NjU5NTky&pageno=MjI0MjQyNjk5NTk=)]]
@@ -391,8 +390,5 @@ title = "लिङ्गानुशासनम्"
 इति परमानन्दीयनाममाला समाप्ता ।  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

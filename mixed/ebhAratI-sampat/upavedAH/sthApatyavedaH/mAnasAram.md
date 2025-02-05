@@ -1,12 +1,11 @@
 +++
-TITLE = "मानसारम्"
-"PUBLISH YEAR" = "1934"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "स्थापत्यवेदः"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4634"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1MzgzNzg1NjQ4NDQ0&pageno=MjI0MjQyNjk5NTk="
 title = "मानसारम्"
+"publish year" = "1934"
+domain = "उपवेदाः"
+sub-domain = "स्थापत्यवेदः"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4634"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1MzgzNzg1NjQ4NDQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मानसारम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1MzgzNzg1NjQ4NDQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -21752,8 +21751,5 @@ title = "मानसारम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

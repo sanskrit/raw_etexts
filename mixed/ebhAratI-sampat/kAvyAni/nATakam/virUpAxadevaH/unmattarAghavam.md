@@ -1,16 +1,15 @@
 +++
-TITLE = "उन्मत्तराघवम्"
-AUTHOR = "विरूपाक्षदेवः"
-PUBLISHER = "अड्यारपुस्तकालयम्"
-"PUBLISH YEAR" = "1946"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "50"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वि. कृष्णमाचार्यः"
-"SERIAL NO." = "Ebharati-5584"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ0NDg2NzEwMzQwNjM1&pageno=MjI0MjQyNjk5NTk="
 title = "उन्मत्तराघवम्"
+author = "विरूपाक्षदेवः"
+publisher = "अड्यारपुस्तकालयम्"
+"publish year" = "1946"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "50"
+language = "संस्कृतम्"
+editor = "वि. कृष्णमाचार्यः"
+"serial no." = "Ebharati-5584"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ0NDg2NzEwMzQwNjM1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[उन्मत्तराघवम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ0NDg2NzEwMzQwNjM1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1049,19 +1048,6 @@ G. SRINIVASA MURTI,
 | मरकतरुचा जङ्घा           |    ११    | हेरम्बाय नमस्तस्मै      |    १     |
 | मलयमरुतं श्वासेन         |    ३०    |                        |          |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

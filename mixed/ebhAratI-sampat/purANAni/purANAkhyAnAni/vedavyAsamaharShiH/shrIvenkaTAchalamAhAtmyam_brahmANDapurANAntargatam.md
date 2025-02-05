@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीवेङ्कटाचलमाहात्म्यम् ब्रह्माण्डपुराणान्तर्गतम्"
-AUTHOR = "वेदव्यासमहर्षिः"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "पुराणाख्यानानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2923"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjA1OTk1NjEwNzk1MDgy"
 title = "श्रीवेङ्कटाचलमाहात्म्यम् ब्रह्माण्डपुराणान्तर्गतम्"
+author = "वेदव्यासमहर्षिः"
+domain = "पुराणानि"
+sub-domain = "पुराणाख्यानानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2923"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjA1OTk1NjEwNzk1MDgy"
 
 +++
 [[श्रीवेङ्कटाचलमाहात्म्यम् ब्रह्माण्डपुराणान्तर्गतम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjA1OTk1NjEwNzk1MDgy)]]

@@ -1,13 +1,12 @@
 +++
-TITLE = "भारतप्रशस्तिः"
-"PUBLISH YEAR" = "1950"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "16"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8239"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU4NDEzMTQwMzE5MDk3&pageno=MjI0MjQyNjk5NTk="
 title = "भारतप्रशस्तिः"
+"publish year" = "1950"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "16"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8239"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU4NDEzMTQwMzE5MDk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भारतप्रशस्तिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODU4NDEzMTQwMzE5MDk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -256,8 +255,5 @@ IV\. DEPUTY PRIME MINISTER
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

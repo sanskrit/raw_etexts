@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीशारीरककारिकावली"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "विशिष्टाद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4212"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY0MTgwMzcxNjMzNDA0&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीशारीरककारिकावली"
+domain = "दर्शनानि"
+sub-domain = "विशिष्टाद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4212"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY0MTgwMzcxNjMzNDA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीशारीरककारिकावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDY0MTgwMzcxNjMzNDA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -22557,8 +22556,5 @@ title = "श्रीशारीरककारिकावली"
 
 ----------- ---------- ---------- ---------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

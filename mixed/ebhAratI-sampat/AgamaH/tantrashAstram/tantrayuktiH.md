@@ -1,15 +1,14 @@
 +++
-TITLE = "तन्त्रयुक्तिः"
-PUBLISHER = "वैद्यसारथिमुद्रणालयः"
-"PUBLISH YEAR" = "1949"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "39"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "वैद्यसारथिमुद्रणालयः"
-"SERIAL NO." = "Ebharati-6058"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc0Mjk1NjMyNTQ1MTg1&pageno=MjI0MjQyNjk5NTk="
 title = "तन्त्रयुक्तिः"
+publisher = "वैद्यसारथिमुद्रणालयः"
+"publish year" = "1949"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "39"
+language = "संस्कृतम्"
+printer = "वैद्यसारथिमुद्रणालयः"
+"serial no." = "Ebharati-6058"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc0Mjk1NjMyNTQ1MTg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तन्त्रयुक्तिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njc0Mjk1NjMyNTQ1MTg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -793,8 +792,5 @@ title = "तन्त्रयुक्तिः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

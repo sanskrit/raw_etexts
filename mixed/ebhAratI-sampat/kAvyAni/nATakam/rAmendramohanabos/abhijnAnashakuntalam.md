@@ -1,15 +1,14 @@
 +++
-TITLE = "अभिज्ञानशकुन्तलम्"
-AUTHOR = "रामेन्द्रमोहनबोस्"
-PUBLISHER = "डि.सि. बोस्"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "899"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "शक्ति-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5517"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcxMjQ0OTYyMTE2OTI1&pageno=MjI0MjQyNjk5NTk="
 title = "अभिज्ञानशकुन्तलम्"
+author = "रामेन्द्रमोहनबोस्"
+publisher = "डि.सि. बोस्"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "899"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "शक्ति-मुद्रणालयः"
+"serial no." = "Ebharati-5517"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcxMjQ0OTYyMTE2OTI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अभिज्ञानशकुन्तलम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDcxMjQ0OTYyMTE2OTI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11164,8 +11163,5 @@ Prepared by Miss JharṇāBose
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

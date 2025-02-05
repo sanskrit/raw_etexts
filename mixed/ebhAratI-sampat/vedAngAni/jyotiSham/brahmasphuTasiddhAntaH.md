@@ -1,12 +1,11 @@
 +++
-TITLE = "ब्रह्मस्फुटसिद्धान्तः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2635"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc5MTg3ODkwMDU5MjUy&pageno=MjI0MjQyNjk5NTk="
 title = "ब्रह्मस्फुटसिद्धान्तः"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2635"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc5MTg3ODkwMDU5MjUy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ब्रह्मस्फुटसिद्धान्तः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc5MTg3ODkwMDU5MjUy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -931,8 +930,5 @@ title = "ब्रह्मस्फुटसिद्धान्तः"
 
 २१.२३च् । कृत्वा उक्तखण्डकानि ज्या%अर्धऽनयनं न लघु अस्मात् । ।
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

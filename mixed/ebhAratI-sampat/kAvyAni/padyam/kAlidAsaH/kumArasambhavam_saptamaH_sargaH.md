@@ -1,16 +1,15 @@
 +++
-TITLE = "कुमारसम्भवम् (सप्तमः सर्गः)"
-AUTHOR = "कालिदासः"
-"PUBLISH YEAR" = "1891"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "316"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "मल्लिनाथः"
-"COMMENTARY NAME" = "सञ्जिवनी"
-"SERIAL NO." = "Ebharati-8613"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MDg5NTM2NTE4NjI4&pageno=MjI0MjQyNjk5NTk="
 title = "कुमारसम्भवम् (सप्तमः सर्गः)"
+author = "कालिदासः"
+"publish year" = "1891"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "316"
+language = "संस्कृतम्"
+"primary commentator" = "मल्लिनाथः"
+"commentary name" = "सञ्जिवनी"
+"serial no." = "Ebharati-8613"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MDg5NTM2NTE4NjI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कुमारसम्भवम् (सप्तमः सर्गः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MDg5NTM2NTE4NjI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5181,8 +5180,5 @@ title = "कुमारसम्भवम् (सप्तमः सर्ग�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

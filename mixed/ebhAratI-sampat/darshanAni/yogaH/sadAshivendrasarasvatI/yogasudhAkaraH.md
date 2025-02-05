@@ -1,13 +1,12 @@
 +++
-TITLE = "योगसुधाकरः"
-AUTHOR = "सदाशिवेन्द्रसरस्वती"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3869"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODE3MDM5MTY0OTA0MTcz"
 title = "योगसुधाकरः"
+author = "सदाशिवेन्द्रसरस्वती"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3869"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODE3MDM5MTY0OTA0MTcz"
 
 +++
 [[योगसुधाकरः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODE3MDM5MTY0OTA0MTcz)]]

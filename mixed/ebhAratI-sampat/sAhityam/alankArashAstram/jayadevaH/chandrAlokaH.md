@@ -1,17 +1,16 @@
 +++
-TITLE = "चन्द्रालोकः"
-AUTHOR = "जयदेवः"
-PUBLISHER = "कमलमणि ग्रन्थमाला कार्यालय काशी"
-"PUBLISH YEAR" = "1927"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "131"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "व्रजजीवनदास गुप्तः"
-PRINTER = "जयकृष्णदास गुप्तः"
-"SERIAL NO." = "Ebharati-5923"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA1NTY4MzQ3NTg1ODY1&pageno=MjI0MjQyNjk5NTk="
 title = "चन्द्रालोकः"
+author = "जयदेवः"
+publisher = "कमलमणि ग्रन्थमाला कार्यालय काशी"
+"publish year" = "1927"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "131"
+language = "संस्कृतम् हिन्दी"
+translator = "व्रजजीवनदास गुप्तः"
+printer = "जयकृष्णदास गुप्तः"
+"serial no." = "Ebharati-5923"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA1NTY4MzQ3NTg1ODY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चन्द्रालोकः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjA1NTY4MzQ3NTg1ODY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2193,19 +2192,6 @@ The present century has had much to do with the ‘Aesthetica’of Benedetto Cro
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

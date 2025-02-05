@@ -1,14 +1,13 @@
 +++
-TITLE = "ईशावास्योपनिषद्"
-AUTHOR = "शर्वनन्द"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "ईशावास्योपनिषद्"
-PAGES = "54"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्री-रामकृष्ण-मठम्-मयिलपुर्-मद्रास्"
-"SERIAL NO." = "Ebharati-8260"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTA0MjY5ODI5Mjk3&pageno=MjI0MjQyNjk5NTk="
 title = "ईशावास्योपनिषद्"
+author = "शर्वनन्द"
+domain = "उपनिषदः"
+sub-domain = "ईशावास्योपनिषद्"
+pages = "54"
+language = "संस्कृतम्"
+printer = "श्री-रामकृष्ण-मठम्-मयिलपुर्-मद्रास्"
+"serial no." = "Ebharati-8260"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTA0MjY5ODI5Mjk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ईशावास्योपनिषद्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTA0MjY5ODI5Mjk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -719,19 +718,6 @@ The Divine Life,               „
 
 MADRAS 4.
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

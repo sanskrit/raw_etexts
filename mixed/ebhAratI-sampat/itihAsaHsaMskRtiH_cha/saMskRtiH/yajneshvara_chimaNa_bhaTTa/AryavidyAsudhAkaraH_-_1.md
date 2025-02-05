@@ -1,18 +1,17 @@
 +++
-TITLE = "आर्यविद्यासुधाकरः - 1"
-AUTHOR = "यज्ञेश्वर चिमण भट्ट"
-PUBLISHER = "मोतीलाल बनारसी दास"
-"PUBLISH YEAR" = "1940"
-DOMAIN = "इतिहासःसंस्कृतिः च"
-SUB-DOMAIN = "संस्कृतिः"
-PAGES = "49"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पण्डित शिवदत्त कुडाळ"
-"SECOND EDITOR" = "डाॅ. मङ्गलदेव शास्त्री"
-PRINTER = "Oriental Booksellers and Publishers Lahore"
-"SERIAL NO." = "Ebharati-5014"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA5MzA1OTUxNTIzMTg0&pageno=MjI0MjQyNjk5NTk="
 title = "आर्यविद्यासुधाकरः - 1"
+author = "यज्ञेश्वर चिमण भट्ट"
+publisher = "मोतीलाल बनारसी दास"
+"publish year" = "1940"
+domain = "इतिहासःसंस्कृतिः च"
+sub-domain = "संस्कृतिः"
+pages = "49"
+language = "संस्कृतम्"
+editor = "पण्डित शिवदत्त कुडाळ"
+"second editor" = "डाॅ. मङ्गलदेव शास्त्री"
+printer = "Oriental Booksellers and Publishers Lahore"
+"serial no." = "Ebharati-5014"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA5MzA1OTUxNTIzMTg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आर्यविद्यासुधाकरः - 1	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODA5MzA1OTUxNTIzMTg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9032,8 +9031,5 @@ No. 3.
 
 **1940**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

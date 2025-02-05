@@ -1,12 +1,11 @@
 +++
-TITLE = "बौधायनश्रौतसूत्रम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3611"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjQ4NTgzMTM0MjQ2NjQz"
 title = "बौधायनश्रौतसूत्रम्"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3611"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjQ4NTgzMTM0MjQ2NjQz"
 
 +++
 [[बौधायनश्रौतसूत्रम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjQ4NTgzMTM0MjQ2NjQz)]]

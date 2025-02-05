@@ -1,19 +1,18 @@
 +++
-TITLE = "अन्यथाख्यातिवादः (प्रत्यक्षखण्डान्तर्गतः)"
-AUTHOR = "गङ्गेशोपाध्यायः"
-PUBLISHER = "श्रीशङ्कर-अद्वैतशोधकेन्द्रम्"
-"PUBLISH YEAR" = "२०१३"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-PAGES = "146"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "नवीनहोल्लः"
-"PRIMARY COMMENTATOR" = "नवीनहोल्लः"
-"COMMENTARY NAME" = "दीपिका-अभिनवव्याख्या"
-PRINTER = "विद्याभारती मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1687"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5NTY5MDY2NTQ5MTYx&pageno=MjI0MjQyNjk5NTk="
 title = "अन्यथाख्यातिवादः (प्रत्यक्षखण्डान्तर्गतः)"
+author = "गङ्गेशोपाध्यायः"
+publisher = "श्रीशङ्कर-अद्वैतशोधकेन्द्रम्"
+"publish year" = "२०१३"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+pages = "146"
+language = "संस्कृतम्"
+editor = "नवीनहोल्लः"
+"primary commentator" = "नवीनहोल्लः"
+"commentary name" = "दीपिका-अभिनवव्याख्या"
+printer = "विद्याभारती मुद्रणालयः"
+"serial no." = "Ebharati-1687"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5NTY5MDY2NTQ5MTYx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अन्यथाख्यातिवादः (प्रत्यक्षखण्डान्तर्गतः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDE5NTY5MDY2NTQ5MTYx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1239,8 +1238,5 @@ A series of discourses by Sri. R Krishnaswami Aiyar on the the essence of Advait
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

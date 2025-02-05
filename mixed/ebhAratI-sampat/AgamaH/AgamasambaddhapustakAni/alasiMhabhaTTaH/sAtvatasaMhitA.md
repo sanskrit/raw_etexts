@@ -1,12 +1,11 @@
 +++
-TITLE = "सात्वतसंहिता"
-AUTHOR = "अलसिंहभट्टः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "आगमसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-1203"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY2MzM2OTc0Mzg0NTEx"
 title = "सात्वतसंहिता"
+author = "अलसिंहभट्टः"
+domain = "आगमः"
+sub-domain = "आगमसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-1203"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY2MzM2OTc0Mzg0NTEx"
 
 +++
 [[सात्वतसंहिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjY2MzM2OTc0Mzg0NTEx)]]

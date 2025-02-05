@@ -1,13 +1,12 @@
 +++
-TITLE = "याज्ञवल्क्यशिक्षा"
-AUTHOR = "याज्ञवल्क्यऋषिः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3995"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk4NTc0ODg5NDA1Mzgz&pageno=MjI0MjQyNjk5NTk="
 title = "याज्ञवल्क्यशिक्षा"
+author = "याज्ञवल्क्यऋषिः"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3995"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk4NTc0ODg5NDA1Mzgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[याज्ञवल्क्यशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDk4NTc0ODg5NDA1Mzgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -520,19 +519,6 @@ title = "याज्ञवल्क्यशिक्षा"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

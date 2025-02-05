@@ -1,15 +1,14 @@
 +++
-TITLE = "प्रकृतिविलासः"
-AUTHOR = "के.एस्. कृष्णमूर्तिशास्त्री"
-"PUBLISH YEAR" = "1950"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "155"
-LANGUAGE = "संस्कॄतम् आङ्ग्लम्"
-PRINTER = "कल्याणमुद्रणालयः तिरुचरापल्लि."
-"SERIAL NO." = "Ebharati-7886"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk4OTM3NzYzNjIwNzU3&pageno=MjI0MjQyNjk5NTk="
 title = "प्रकृतिविलासः"
+author = "के.एस्. कृष्णमूर्तिशास्त्री"
+"publish year" = "1950"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "155"
+language = "संस्कॄतम् आङ्ग्लम्"
+printer = "कल्याणमुद्रणालयः तिरुचरापल्लि."
+"serial no." = "Ebharati-7886"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk4OTM3NzYzNjIwNzU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रकृतिविलासः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjk4OTM3NzYzNjIwNzU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3038,19 +3037,6 @@ the honey.
 |         **दनघ**         |     **दनर्घ**      |
 |         **रवः**         |      **रव-**       |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

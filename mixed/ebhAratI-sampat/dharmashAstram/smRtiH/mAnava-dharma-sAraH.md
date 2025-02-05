@@ -1,15 +1,14 @@
 +++
-TITLE = "मानव-धर्म-सारः"
-PUBLISHER = "माधवः विष्णु पराङकर"
-"PUBLISH YEAR" = "1940"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "277"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "ज्ञानमंडल यन्त्रालय काशी"
-"SERIAL NO." = "Ebharati-5010"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIyNDM1NDcxMTQ5MDg0&pageno=MjI0MjQyNjk5NTk="
 title = "मानव-धर्म-सारः"
+publisher = "माधवः विष्णु पराङकर"
+"publish year" = "1940"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "277"
+language = "संस्कृतम्"
+printer = "ज्ञानमंडल यन्त्रालय काशी"
+"serial no." = "Ebharati-5010"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIyNDM1NDcxMTQ5MDg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मानव-धर्म-सारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDIyNDM1NDcxMTQ5MDg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -14086,8 +14085,5 @@ Dr. Bhagwandas Manav Dharia Sar
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

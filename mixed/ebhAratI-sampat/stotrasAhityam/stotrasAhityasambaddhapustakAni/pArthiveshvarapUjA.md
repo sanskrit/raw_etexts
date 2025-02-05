@@ -1,15 +1,14 @@
 +++
-TITLE = "पार्थिवेश्वरपूजा"
-"PUBLISH YEAR" = "1927"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "67"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "केशवभट्ट-ज्योतिर्विदः"
-PRINTER = "निर्णायसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7104"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg4NTYxNjAzNzU5MTg2&pageno=MjI0MjQyNjk5NTk="
 title = "पार्थिवेश्वरपूजा"
+"publish year" = "1927"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "67"
+language = "संस्कृतम्"
+editor = "केशवभट्ट-ज्योतिर्विदः"
+printer = "निर्णायसागर-यन्त्रालयः"
+"serial no." = "Ebharati-7104"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg4NTYxNjAzNzU5MTg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पार्थिवेश्वरपूजा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODg4NTYxNjAzNzU5MTg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -317,8 +316,5 @@ title = "पार्थिवेश्वरपूजा"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

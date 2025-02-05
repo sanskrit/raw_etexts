@@ -1,13 +1,12 @@
 +++
-TITLE = "नयसङ्गतिमालिका"
-AUTHOR = "लक्ष्मीपुरं श्रीनिवासाचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "विशिष्टाद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4208"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc3MTExODgxMjU5MzA0&pageno=MjI0MjQyNjk5NTk="
 title = "नयसङ्गतिमालिका"
+author = "लक्ष्मीपुरं श्रीनिवासाचार्यः"
+domain = "दर्शनानि"
+sub-domain = "विशिष्टाद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4208"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc3MTExODgxMjU5MzA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नयसङ्गतिमालिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njc3MTExODgxMjU5MzA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2486,19 +2485,6 @@ title = "नयसङ्गतिमालिका"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

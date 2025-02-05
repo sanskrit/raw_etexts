@@ -1,13 +1,12 @@
 +++
-TITLE = "ब्रह्मज्ञानावलीमाला"
-AUTHOR = "शङ्करः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2588"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxODgzNTcyODM0ODQy&pageno=MjI0MjQyNjk5NTk="
 title = "ब्रह्मज्ञानावलीमाला"
+author = "शङ्करः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2588"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxODgzNTcyODM0ODQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ब्रह्मज्ञानावलीमाला	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjMxODgzNTcyODM0ODQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -210,19 +209,6 @@ title = "ब्रह्मज्ञानावलीमाला"
 
 ब्राहृज्ञानावलीमाला संपूर्णा॥
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

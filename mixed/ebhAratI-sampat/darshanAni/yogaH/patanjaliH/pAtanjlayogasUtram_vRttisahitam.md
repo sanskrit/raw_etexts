@@ -1,13 +1,12 @@
 +++
-TITLE = "पातञ्ज्लयोगसूत्रम्   वृत्तिसहितम्"
-AUTHOR = "पतञ्जलिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3862"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3MzMyODg0NzM3MDcz"
 title = "पातञ्ज्लयोगसूत्रम्   वृत्तिसहितम्"
+author = "पतञ्जलिः"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3862"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3MzMyODg0NzM3MDcz"
 
 +++
 [[पातञ्ज्लयोगसूत्रम्   वृत्तिसहितम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3MzMyODg0NzM3MDcz)]]

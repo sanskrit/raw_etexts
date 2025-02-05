@@ -1,12 +1,11 @@
 +++
-TITLE = "व्यासपाणिनिभावनिर्णयः"
-AUTHOR = "सेतुमाधवाचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3127"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk1MzUwMDUyMDgxMDAz"
 title = "व्यासपाणिनिभावनिर्णयः"
+author = "सेतुमाधवाचार्यः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3127"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk1MzUwMDUyMDgxMDAz"
 
 +++
 [[व्यासपाणिनिभावनिर्णयः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDk1MzUwMDUyMDgxMDAz)]]

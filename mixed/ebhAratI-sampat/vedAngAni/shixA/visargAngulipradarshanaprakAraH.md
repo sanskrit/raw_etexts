@@ -1,12 +1,11 @@
 +++
-TITLE = "विसर्गाङ्गुलिप्रदर्शनप्रकारः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3991"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyNjA1MzAwMTIxMzgz&pageno=MjI0MjQyNjk5NTk="
 title = "विसर्गाङ्गुलिप्रदर्शनप्रकारः"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3991"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyNjA1MzAwMTIxMzgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विसर्गाङ्गुलिप्रदर्शनप्रकारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjAyNjA1MzAwMTIxMzgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -40,8 +39,5 @@ title = "विसर्गाङ्गुलिप्रदर्शनप्�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

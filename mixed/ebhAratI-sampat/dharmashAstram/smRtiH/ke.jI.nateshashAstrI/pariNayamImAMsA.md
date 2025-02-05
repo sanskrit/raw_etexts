@@ -1,15 +1,14 @@
 +++
-TITLE = "परिणयमीमांसा"
-AUTHOR = "के.जी.नतेशशास्त्री"
-"PUBLISH YEAR" = "1913"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "83"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "वाणीविलास-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6319"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE2NDY4NTUyMDA2NjA2&pageno=MjI0MjQyNjk5NTk="
 title = "परिणयमीमांसा"
+author = "के.जी.नतेशशास्त्री"
+"publish year" = "1913"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "83"
+language = "संस्कृतम्"
+printer = "वाणीविलास-यन्त्रालयः"
+"serial no." = "Ebharati-6319"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE2NDY4NTUyMDA2NjA2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[परिणयमीमांसा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODE2NDY4NTUyMDA2NjA2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -336,19 +335,6 @@ K. G. Natesa Sastri.
 | १३  |    अलौलिक     |    अलौकिक    |
 |  १  |   लोकेभ्यः    |    लोकैः     |
 |  ५  |    दीनाम्     |    दिनितु    |
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

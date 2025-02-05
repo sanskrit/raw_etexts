@@ -1,11 +1,10 @@
 +++
-TITLE = "जयाख्यसंहिता"
-AUTHOR = "एम्बार् कृष्णमाचार्यः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "आगमसम्बद्धपुस्तकानि"
-"SERIAL NO." = "Ebharati-435"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYzODU3MTQ="
 title = "जयाख्यसंहिता"
+author = "एम्बार् कृष्णमाचार्यः"
+domain = "आगमः"
+sub-domain = "आगमसम्बद्धपुस्तकानि"
+"serial no." = "Ebharati-435"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYzODU3MTQ="
 
 +++
 [[जयाख्यसंहिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYzODU3MTQ=)]]

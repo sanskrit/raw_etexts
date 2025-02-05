@@ -1,12 +1,11 @@
 +++
-TITLE = "लघुकथासङ्ग्रहः-१९"
-DOMAIN = "सरलसंस्कृतम्"
-SUB-DOMAIN = "लघुकथासङ्ग्रहः"
-PAGES = "72"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8317"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc3MzIyODQ3MDA0ODk3&pageno=MjI0MjQyNjk5NTk="
 title = "लघुकथासङ्ग्रहः-१९"
+domain = "सरलसंस्कृतम्"
+sub-domain = "लघुकथासङ्ग्रहः"
+pages = "72"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8317"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc3MzIyODQ3MDA0ODk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लघुकथासङ्ग्रहः-१९	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDc3MzIyODQ3MDA0ODk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1293,8 +1292,5 @@ title = "लघुकथासङ्ग्रहः-१९"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

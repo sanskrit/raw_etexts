@@ -1,19 +1,18 @@
 +++
-TITLE = "मनुस्मृतिः"
-AUTHOR = "मनुः"
-PUBLISHER = "जयकृष्णदास-हरिदासगुप्तः"
-"PUBLISH YEAR" = "1935"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "539"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "चिन्तामणिशास्त्री-नेनेगोपालशास्त्री"
-"PRIMARY COMMENTATOR" = "कुल्लुकभट्टः"
-"COMMENTARY NAME" = "मन्वर्थमुक्तावली"
-PRINTER = "विद्याविलास-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6384"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQwMjI2MTEwMDQ4MjE2&pageno=MjI0MjQyNjk5NTk="
 title = "मनुस्मृतिः"
+author = "मनुः"
+publisher = "जयकृष्णदास-हरिदासगुप्तः"
+"publish year" = "1935"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "539"
+language = "संस्कृतम्"
+editor = "चिन्तामणिशास्त्री-नेनेगोपालशास्त्री"
+"primary commentator" = "कुल्लुकभट्टः"
+"commentary name" = "मन्वर्थमुक्तावली"
+printer = "विद्याविलास-यन्त्रालयः"
+"serial no." = "Ebharati-6384"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQwMjI2MTEwMDQ4MjE2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मनुस्मृतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQwMjI2MTEwMDQ4MjE2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -28099,19 +28098,6 @@ Printed at the Vidya Vilas Press, Benares,
 
 **बनारस सिटी ।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,17 +1,16 @@
 +++
-TITLE = "श्रीस्वच्छन्दतन्त्रम् (पञ्चमो भागः)"
-PUBLISHER = "मधुसूदनकौल-शास्त्री"
-"PUBLISH YEAR" = "1930"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-PAGES = "284"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मधुसूदनकौल-शास्त्री"
-"PRIMARY COMMENTATOR" = "क्षेमराजः"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7574"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNDAxMDQ1NTcwNzI3&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीस्वच्छन्दतन्त्रम् (पञ्चमो भागः)"
+publisher = "मधुसूदनकौल-शास्त्री"
+"publish year" = "1930"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+pages = "284"
+language = "संस्कृतम्"
+editor = "मधुसूदनकौल-शास्त्री"
+"primary commentator" = "क्षेमराजः"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-7574"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNDAxMDQ1NTcwNzI3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीस्वच्छन्दतन्त्रम् (पञ्चमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNDAxMDQ1NTcwNzI3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6511,8 +6510,5 @@ Jammu and Kashmir Government, SRINAGAR.**
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

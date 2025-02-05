@@ -1,13 +1,12 @@
 +++
-TITLE = "अभिसमयालङ्कारवृत्तिः"
-AUTHOR = "हरिभद्रः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3630"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY4MTk5OTUzNjY0ODQz"
 title = "अभिसमयालङ्कारवृत्तिः"
+author = "हरिभद्रः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3630"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY4MTk5OTUzNjY0ODQz"
 
 +++
 [[अभिसमयालङ्कारवृत्तिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDY4MTk5OTUzNjY0ODQz)]]

@@ -1,12 +1,11 @@
 +++
-TITLE = "बृहज्जाबालोपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4262"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY1MjAyNTg5NTMxOTA0"
 title = "बृहज्जाबालोपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4262"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY1MjAyNTg5NTMxOTA0"
 
 +++
 [[बृहज्जाबालोपनिषत्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDY1MjAyNTg5NTMxOTA0)]]

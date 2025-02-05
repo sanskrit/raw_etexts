@@ -1,15 +1,14 @@
 +++
-TITLE = "श्रीपञ्चरत्नगीता"
-PUBLISHER = "घनश्यामदासः"
-"PUBLISH YEAR" = "1936"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-PAGES = "336"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "गीता-प्रेस् गोरखपुरः"
-"SERIAL NO." = "Ebharati-6677"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY5MDQ2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीपञ्चरत्नगीता"
+publisher = "घनश्यामदासः"
+"publish year" = "1936"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+pages = "336"
+language = "संस्कृतम्"
+printer = "गीता-प्रेस् गोरखपुरः"
+"serial no." = "Ebharati-6677"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY5MDQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीपञ्चरत्नगीता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY5MDQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5271,8 +5270,5 @@ title = "श्रीपञ्चरत्नगीता"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

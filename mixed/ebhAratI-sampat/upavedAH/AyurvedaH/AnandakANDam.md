@@ -1,11 +1,10 @@
 +++
-TITLE = "आनन्दकाण्डम्"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2521"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NTQxNzI1NjAwMjQy"
 title = "आनन्दकाण्डम्"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2521"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NTQxNzI1NjAwMjQy"
 
 +++
 [[आनन्दकाण्डम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NTQxNzI1NjAwMjQy)]]

@@ -1,12 +1,11 @@
 +++
-TITLE = "तैत्तिरीयोपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4339"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODUwOTY4NTk2NzI1NjE0"
 title = "तैत्तिरीयोपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4339"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODUwOTY4NTk2NzI1NjE0"
 
 +++
 [[तैत्तिरीयोपनिषत्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODUwOTY4NTk2NzI1NjE0)]]

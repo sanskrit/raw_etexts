@@ -1,13 +1,12 @@
 +++
-TITLE = "कौपीनपञ्चकम्"
-AUTHOR = "शङ्कराचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2548"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMTk2NTI0ODk1NDQy&pageno=MjI0MjQyNjk5NTk="
 title = "कौपीनपञ्चकम्"
+author = "शङ्कराचार्यः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2548"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMTk2NTI0ODk1NDQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कौपीनपञ्चकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMTk2NTI0ODk1NDQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -88,8 +87,5 @@ title = "कौपीनपञ्चकम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

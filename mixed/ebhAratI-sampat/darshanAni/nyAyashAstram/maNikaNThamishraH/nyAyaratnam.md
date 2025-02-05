@@ -1,13 +1,12 @@
 +++
-TITLE = "न्यायरत्नम्"
-AUTHOR = "मणिकण्ठमिश्रः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4070"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ1NzU2NjA3NDA3MDkz"
 title = "न्यायरत्नम्"
+author = "मणिकण्ठमिश्रः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4070"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ1NzU2NjA3NDA3MDkz"
 
 +++
 [[न्यायरत्नम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ1NzU2NjA3NDA3MDkz)]]

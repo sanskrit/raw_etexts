@@ -1,18 +1,17 @@
 +++
-TITLE = "सुर्जनचरितम्"
-AUTHOR = "चन्द्रशेखरः"
-PUBLISHER = "चन्द्रधरशर्मा"
-"PUBLISH YEAR" = "1952"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "262"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "चन्द्रधरशर्मा"
-EDITOR = "चन्द्रधरशर्मा"
-PRINTER = "पॄथ्वीनाथभार्गवः"
-"SERIAL NO." = "Ebharati-7949"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc0MjEwMTMxNDcwMzY3&pageno=MjI0MjQyNjk5NTk="
 title = "सुर्जनचरितम्"
+author = "चन्द्रशेखरः"
+publisher = "चन्द्रधरशर्मा"
+"publish year" = "1952"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "262"
+language = "संस्कृतम् हिन्दी"
+translator = "चन्द्रधरशर्मा"
+editor = "चन्द्रधरशर्मा"
+printer = "पॄथ्वीनाथभार्गवः"
+"serial no." = "Ebharati-7949"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc0MjEwMTMxNDcwMzY3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुर्जनचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODc0MjEwMTMxNDcwMzY3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9119,19 +9118,6 @@ X        X        X          X
 (६३) दिल्लीशेन अकबरेण। रत्नादिभिः मणिहीरकादिभिः रावरत्नाख्यादिभिः स्वपुत्रैश्च। चरणाद्रिं बूंदीनगरीसमीपस्थं अरावलीपर्वतम्।  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

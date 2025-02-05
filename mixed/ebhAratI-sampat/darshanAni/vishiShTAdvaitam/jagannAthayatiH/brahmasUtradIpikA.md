@@ -1,13 +1,12 @@
 +++
-TITLE = "ब्रह्मसूत्रदीपिका"
-AUTHOR = "जगन्नाथयतिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "विशिष्टाद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4218"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njk5NTM1MDUxMjE5NDA0"
 title = "ब्रह्मसूत्रदीपिका"
+author = "जगन्नाथयतिः"
+domain = "दर्शनानि"
+sub-domain = "विशिष्टाद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4218"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njk5NTM1MDUxMjE5NDA0"
 
 +++
 [[ब्रह्मसूत्रदीपिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=Njk5NTM1MDUxMjE5NDA0)]]

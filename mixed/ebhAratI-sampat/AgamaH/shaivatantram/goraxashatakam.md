@@ -1,12 +1,11 @@
 +++
-TITLE = "गोरक्षशतकम्"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4021"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY4ODc3MDk4MDAwNjgz&pageno=MjI0MjQyNjk5NTk="
 title = "गोरक्षशतकम्"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4021"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY4ODc3MDk4MDAwNjgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गोरक्षशतकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjY4ODc3MDk4MDAwNjgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -234,8 +233,5 @@ title = "गोरक्षशतकम्"
 
 ----------------------------------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

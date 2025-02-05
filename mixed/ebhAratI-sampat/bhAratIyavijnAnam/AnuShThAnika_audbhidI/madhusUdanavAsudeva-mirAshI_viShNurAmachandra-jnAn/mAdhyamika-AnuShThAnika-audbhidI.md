@@ -1,18 +1,17 @@
 +++
-TITLE = "माध्यमिक-आनुष्ठानिक-औद्भिदी"
-AUTHOR = "मधुसूदनवासुदेव-मिराशी  विष्णुरामचन्द्र-ज्ञानसागरः"
-PUBLISHER = "नागपुर-विश्वविद्यालयः"
-"PUBLISH YEAR" = "1950"
-DOMAIN = "भारतीयविज्ञानम्"
-SUB-DOMAIN = "आनुष्ठानिक औद्भिदी"
-PAGES = "259"
-LANGUAGE = "मराठी"
-EDITOR = "डा.रघुवीरः"
-"BOOKS CONTRIBUTOR" = "डा. लोकेश-चन्द्रः"
-PRINTER = "विकास-मुद्रमन्दिरम् नागपुरम्"
-"SERIAL NO." = "Ebharati-7529"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMyNTkxOTA3NTU3MjI3&pageno=MjI0MjQyNjk5NTk="
 title = "माध्यमिक-आनुष्ठानिक-औद्भिदी"
+author = "मधुसूदनवासुदेव-मिराशी  विष्णुरामचन्द्र-ज्ञानसागरः"
+publisher = "नागपुर-विश्वविद्यालयः"
+"publish year" = "1950"
+domain = "भारतीयविज्ञानम्"
+sub-domain = "आनुष्ठानिक औद्भिदी"
+pages = "259"
+language = "मराठी"
+editor = "डा.रघुवीरः"
+"books contributor" = "डा. लोकेश-चन्द्रः"
+printer = "विकास-मुद्रमन्दिरम् नागपुरम्"
+"serial no." = "Ebharati-7529"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMyNTkxOTA3NTU3MjI3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[माध्यमिक-आनुष्ठानिक-औद्भिदी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODMyNTkxOTA3NTU3MjI3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2779,19 +2778,6 @@ Nagpur University.
   मक्याच्या मुलाचा अनुप्रस्थ छेद घेऊन त्यांतील खालील गुणांचें अण्वीक्षांतून निरीक्षण करा—
 
   **१. रोमिस्तर अथवा मूलाधिस्तर**—हा परिणाहावरचा स्तर असून त्यांतील बऱ्याच कोशांपासून रोम निघाल्याचें लक्षांतयेईल.
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

@@ -1,16 +1,15 @@
 +++
-TITLE = "विष्णुसंहिता"
-PUBLISHER = "ओथोरिटि-आफ्-गवर्नमेण्ट्"
-"PUBLISH YEAR" = "1925"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "267"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "त. गणपति-शास्त्री"
-PRINTER = "राजकीय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7616"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU5NTgyMjgzNzAxMTM3&pageno=MjI0MjQyNjk5NTk="
 title = "विष्णुसंहिता"
+publisher = "ओथोरिटि-आफ्-गवर्नमेण्ट्"
+"publish year" = "1925"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "267"
+language = "संस्कृतम्"
+editor = "त. गणपति-शास्त्री"
+printer = "राजकीय-मुद्रणालयः"
+"serial no." = "Ebharati-7616"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU5NTgyMjgzNzAxMTM3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विष्णुसंहिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjU5NTgyMjgzNzAxMTM3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8735,8 +8734,5 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 
 शुभं भूयात्‌।
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

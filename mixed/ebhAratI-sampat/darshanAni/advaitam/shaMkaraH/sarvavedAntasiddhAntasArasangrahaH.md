@@ -1,13 +1,12 @@
 +++
-TITLE = "सर्ववेदान्तसिद्धान्तसारसङ्ग्रहः"
-AUTHOR = "शंकरः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2609"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk5ODc0NjkxNDU0MDUy&pageno=MjI0MjQyNjk5NTk="
 title = "सर्ववेदान्तसिद्धान्तसारसङ्ग्रहः"
+author = "शंकरः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2609"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk5ODc0NjkxNDU0MDUy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सर्ववेदान्तसिद्धान्तसारसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODk5ODc0NjkxNDU0MDUy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7210,8 +7209,5 @@ title = "सर्ववेदान्तसिद्धान्तसार�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,12 +1,11 @@
 +++
-TITLE = "छान्दोग्यारण्यकम्"
-DOMAIN = "वेदः"
-SUB-DOMAIN = "सामवेदः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4361"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQzMjAyMzE2OTM2ODE0&pageno=MjI0MjQyNjk5NTk="
 title = "छान्दोग्यारण्यकम्"
+domain = "वेदः"
+sub-domain = "सामवेदः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4361"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQzMjAyMzE2OTM2ODE0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[छान्दोग्यारण्यकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQzMjAyMzE2OTM2ODE0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3310,8 +3309,5 @@ title = "छान्दोग्यारण्यकम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

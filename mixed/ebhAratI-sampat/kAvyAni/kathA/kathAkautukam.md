@@ -1,14 +1,13 @@
 +++
-TITLE = "कथाकौतुकम्"
-"PUBLISH YEAR" = "1898"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "228"
-LANGUAGE = "संस्कृतम् जर्मन्"
-TRANSLATOR = "रिचर्ड् स्क्मिड्ट्"
-"SERIAL NO." = "Ebharati-5611"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4OTIyNjE5NDM2ODM1&pageno=MjI0MjQyNjk5NTk="
 title = "कथाकौतुकम्"
+"publish year" = "1898"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "228"
+language = "संस्कृतम् जर्मन्"
+translator = "रिचर्ड् स्क्मिड्ट्"
+"serial no." = "Ebharati-5611"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4OTIyNjE5NDM2ODM1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कथाकौतुकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4OTIyNjE5NDM2ODM1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5231,8 +5230,5 @@ Universitäts-Buchdruckerei von Carl Georgi in Bonn.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

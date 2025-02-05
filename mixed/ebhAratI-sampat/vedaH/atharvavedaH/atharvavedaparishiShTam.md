@@ -1,12 +1,11 @@
 +++
-TITLE = "अथर्ववेदपरिशिष्टम्"
-DOMAIN = "वेदः"
-SUB-DOMAIN = "अथर्ववेदः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3096"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE1ODM1NjYzNDAyNzky&pageno=MjI0MjQyNjk5NTk="
 title = "अथर्ववेदपरिशिष्टम्"
+domain = "वेदः"
+sub-domain = "अथर्ववेदः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3096"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE1ODM1NjYzNDAyNzky&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अथर्ववेदपरिशिष्टम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE1ODM1NjYzNDAyNzky&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3897,8 +3896,5 @@ title = "अथर्ववेदपरिशिष्टम्"
 
 \*\*\*
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

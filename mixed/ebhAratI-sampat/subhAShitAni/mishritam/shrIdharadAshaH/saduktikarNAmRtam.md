@@ -1,13 +1,12 @@
 +++
-TITLE = "सदुक्तिकर्णामृतम्"
-AUTHOR = "श्रीधरदाशः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "मिश्रितम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4134"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODQ1MjcxNjY0ODQ4Njkz"
 title = "सदुक्तिकर्णामृतम्"
+author = "श्रीधरदाशः"
+domain = "सुभाषितानि"
+sub-domain = "मिश्रितम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4134"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODQ1MjcxNjY0ODQ4Njkz"
 
 +++
 [[सदुक्तिकर्णामृतम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODQ1MjcxNjY0ODQ4Njkz)]]

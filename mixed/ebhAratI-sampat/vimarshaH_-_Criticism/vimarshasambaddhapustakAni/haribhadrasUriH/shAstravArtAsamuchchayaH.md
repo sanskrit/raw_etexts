@@ -1,13 +1,12 @@
 +++
-TITLE = "शास्त्रवार्तासमुच्चयः"
-AUTHOR = "हरिभद्रसूरिः"
-DOMAIN = "विमर्शः - Criticism"
-SUB-DOMAIN = "विमर्शसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3621"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjYwMDE4MzkzMjA2NzQz"
 title = "शास्त्रवार्तासमुच्चयः"
+author = "हरिभद्रसूरिः"
+domain = "विमर्शः - Criticism"
+sub-domain = "विमर्शसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3621"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjYwMDE4MzkzMjA2NzQz"
 
 +++
 [[शास्त्रवार्तासमुच्चयः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjYwMDE4MzkzMjA2NzQz)]]

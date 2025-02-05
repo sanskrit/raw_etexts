@@ -1,13 +1,12 @@
 +++
-TITLE = "माण्डूक्योपनिषत्कारिकाः"
-AUTHOR = "गौडपादीयः"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4244"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5ODM4MjUwODA0NzA0&pageno=MjI0MjQyNjk5NTk="
 title = "माण्डूक्योपनिषत्कारिकाः"
+author = "गौडपादीयः"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4244"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5ODM4MjUwODA0NzA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[माण्डूक्योपनिषत्कारिकाः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY5ODM4MjUwODA0NzA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1066,19 +1065,6 @@ title = "माण्डूक्योपनिषत्कारिकाः"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

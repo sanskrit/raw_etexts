@@ -1,17 +1,16 @@
 +++
-TITLE = "नञ्जराजयशोभूषणम्"
-AUTHOR = "कालिदासः"
-PUBLISHER = "बिनोय्तोशभट्टाचार्यः"
-"PUBLISH YEAR" = "1930"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "340"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "कृष्णमाचार्यः"
-PRINTER = "मणिलालइच्चारामदेसाई"
-"SERIAL NO." = "Ebharati-5991"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMDUzODg0MzExNTc1&pageno=MjI0MjQyNjk5NTk="
 title = "नञ्जराजयशोभूषणम्"
+author = "कालिदासः"
+publisher = "बिनोय्तोशभट्टाचार्यः"
+"publish year" = "1930"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "340"
+language = "संस्कृतम्"
+editor = "कृष्णमाचार्यः"
+printer = "मणिलालइच्चारामदेसाई"
+"serial no." = "Ebharati-5991"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMDUzODg0MzExNTc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नञ्जराजयशोभूषणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMDUzODg0MzExNTc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -12407,19 +12406,6 @@ edited by C. D. Dalal and G. K. Sariwlekar, 1925.
 
 ** Conduct of Royal Servants**: being a collection of verses from the Viramitrodaya with their translations in English, Gujarati, and Marathi: by B. Bhattacharyya, M.A., Ph. D.
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

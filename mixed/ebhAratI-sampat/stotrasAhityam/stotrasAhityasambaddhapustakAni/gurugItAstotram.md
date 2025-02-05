@@ -1,16 +1,15 @@
 +++
-TITLE = "गुरुगीतास्तोत्रम्"
-PUBLISHER = "भुवनचन्द्रः"
-"PUBLISH YEAR" = "1886"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "20"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "नारायणचन्द्र-शार्मा"
-PRINTER = "संवादज्ञानरन्ताकर्यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8748"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU2NzA3ODIxNTc3OTM4&pageno=MjI0MjQyNjk5NTk="
 title = "गुरुगीतास्तोत्रम्"
+publisher = "भुवनचन्द्रः"
+"publish year" = "1886"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "20"
+language = "संस्कृतम्"
+editor = "नारायणचन्द्र-शार्मा"
+printer = "संवादज्ञानरन्ताकर्यन्त्रालयः"
+"serial no." = "Ebharati-8748"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU2NzA3ODIxNTc3OTM4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गुरुगीतास्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjU2NzA3ODIxNTc3OTM4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -560,8 +559,5 @@ title = "गुरुगीतास्तोत्रम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

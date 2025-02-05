@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीमद्भागवतम् (एकादशस्कन्धः)"
-PUBLISHER = "गङ्गाविष्णुः"
-"PUBLISH YEAR" = "1902"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "328"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "नारायण-शास्त्री"
-PRINTER = "लक्ष्मी-वेंकटेश्वर-प्रेस्"
-"SERIAL NO." = "Ebharati-6770"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ5NjkxMTY1NDk4OTQ2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमद्भागवतम् (एकादशस्कन्धः)"
+publisher = "गङ्गाविष्णुः"
+"publish year" = "1902"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "328"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "नारायण-शास्त्री"
+printer = "लक्ष्मी-वेंकटेश्वर-प्रेस्"
+"serial no." = "Ebharati-6770"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ5NjkxMTY1NDk4OTQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमद्भागवतम् (एकादशस्कन्धः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ5NjkxMTY1NDk4OTQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3191,8 +3190,5 @@ BOMBAY PRESIDENCY.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

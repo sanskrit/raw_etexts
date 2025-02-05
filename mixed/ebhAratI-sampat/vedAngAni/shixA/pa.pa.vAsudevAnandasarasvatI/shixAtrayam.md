@@ -1,14 +1,13 @@
 +++
-TITLE = "शिक्षात्रयम्"
-AUTHOR = "प.प.वासुदेवानन्दसरस्वती"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-PAGES = "438"
-LANGUAGE = "संस्कृतम्"
-"COMMENTARY NAME" = "कृट्टीकासहितम्"
-"SERIAL NO." = "Ebharati-8901"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIyODk3MzU1MjY0NDU4&pageno=MjI0MjQyNjk5NTk="
 title = "शिक्षात्रयम्"
+author = "प.प.वासुदेवानन्दसरस्वती"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+pages = "438"
+language = "संस्कृतम्"
+"commentary name" = "कृट्टीकासहितम्"
+"serial no." = "Ebharati-8901"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIyODk3MzU1MjY0NDU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शिक्षात्रयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjIyODk3MzU1MjY0NDU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5147,19 +5146,6 @@ title = "शिक्षात्रयम्"
 
 **————————**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

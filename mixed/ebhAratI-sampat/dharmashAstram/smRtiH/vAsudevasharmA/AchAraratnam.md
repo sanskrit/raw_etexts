@@ -1,16 +1,15 @@
 +++
-TITLE = "आचाररत्नम्"
-AUTHOR = "वासुदेवशर्मा"
-PUBLISHER = "तुकारामजावजी"
-"PUBLISH YEAR" = "1915"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "263"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "निर्णयसागर-यन्त्रालयः-बम्बई"
-"SERIAL NO." = "Ebharati-5149"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc4MDMyMjU2NDgyNDk0&pageno=MjI0MjQyNjk5NTk="
 title = "आचाररत्नम्"
+author = "वासुदेवशर्मा"
+publisher = "तुकारामजावजी"
+"publish year" = "1915"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "263"
+language = "संस्कृतम्"
+printer = "निर्णयसागर-यन्त्रालयः-बम्बई"
+"serial no." = "Ebharati-5149"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc4MDMyMjU2NDgyNDk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आचाररत्नम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODc4MDMyMjU2NDgyNDk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2395,8 +2394,5 @@ Published by Tukaram Javaji, and Printed by Ramchandra Yesu Shedge at the Nirnay
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

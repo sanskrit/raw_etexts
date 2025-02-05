@@ -1,13 +1,12 @@
 +++
-TITLE = "गोपालतापनीयोपषत् टीकायुता"
-AUTHOR = "श्रीरणछोरशरणदेवाचार्यः"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4227"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk3NzE3NjExNjc3NTA0"
 title = "गोपालतापनीयोपषत् टीकायुता"
+author = "श्रीरणछोरशरणदेवाचार्यः"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4227"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk3NzE3NjExNjc3NTA0"
 
 +++
 [[गोपालतापनीयोपषत् टीकायुता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDk3NzE3NjExNjc3NTA0)]]

@@ -1,16 +1,15 @@
 +++
-TITLE = "सुत्रार्थामृतलहरि"
-AUTHOR = "डॉ. आर.नागराज-शर्म"
-PUBLISHER = "एन्.रामरतनम्"
-"PUBLISH YEAR" = "1951"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "110"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "मद्रास्-लो-जेर्णल्-प्रस्"
-"SERIAL NO." = "Ebharati-8902"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ2MDQwMDU1ODU1NDU4&pageno=MjI0MjQyNjk5NTk="
 title = "सुत्रार्थामृतलहरि"
+author = "डॉ. आर.नागराज-शर्म"
+publisher = "एन्.रामरतनम्"
+"publish year" = "1951"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "110"
+language = "संस्कृतम्"
+printer = "मद्रास्-लो-जेर्णल्-प्रस्"
+"serial no." = "Ebharati-8902"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ2MDQwMDU1ODU1NDU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुत्रार्थामृतलहरि	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQ2MDQwMDU1ODU1NDU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2666,19 +2665,6 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 |       **ज्ञा**        |                                                                                                      |
 |     **ज्ञानपाद**      | 4th quarter of the 3rd chapterof Vedānta-Sūtras devotedto exposition of the Natureof Realization. |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

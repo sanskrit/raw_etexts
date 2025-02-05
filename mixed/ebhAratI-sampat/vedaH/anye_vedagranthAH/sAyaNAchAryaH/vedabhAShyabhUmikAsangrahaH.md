@@ -1,13 +1,12 @@
 +++
-TITLE = "वेदभाष्यभूमिकासङ्ग्रहः"
-AUTHOR = "सायणाचार्यः"
-DOMAIN = "वेदः"
-SUB-DOMAIN = "अन्ये वेदग्रन्थाः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3589"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU1MjUwNDE1MDM1NDQz"
 title = "वेदभाष्यभूमिकासङ्ग्रहः"
+author = "सायणाचार्यः"
+domain = "वेदः"
+sub-domain = "अन्ये वेदग्रन्थाः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3589"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU1MjUwNDE1MDM1NDQz"
 
 +++
 [[वेदभाष्यभूमिकासङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODU1MjUwNDE1MDM1NDQz)]]

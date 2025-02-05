@@ -1,12 +1,11 @@
 +++
-TITLE = "स्पन्दकारिका टीका"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4013"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0OTM4MDI5MjMyNTgz&pageno=MjI0MjQyNjk5NTk="
 title = "स्पन्दकारिका टीका"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4013"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0OTM4MDI5MjMyNTgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्पन्दकारिका टीका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njg0OTM4MDI5MjMyNTgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -189,8 +188,5 @@ title = "स्पन्दकारिका टीका"
 
 गन्धर्व-नगरम् । द्सो सन्स्क्रितर्छिवे
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

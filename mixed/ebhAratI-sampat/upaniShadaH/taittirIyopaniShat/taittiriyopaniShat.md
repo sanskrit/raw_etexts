@@ -1,16 +1,15 @@
 +++
-TITLE = "तैत्तिरियोपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "तैत्तिरीयोपनिषत्"
-PAGES = "76"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "शंकराचार्यः"
-"SECONDARY COMMENTATOR" = "आनन्दगिर्याचार्यः"
-"TERTIARY COMMENTATOR" = "अच्युतकृष्णानन्दतीर्तः"
-"COMMENTARY NAME" = "वनमाला"
-"SERIAL NO." = "Ebharati-7249"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcwNzEzMTY3Njc4NTk2&pageno=MjI0MjQyNjk5NTk="
 title = "तैत्तिरियोपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "तैत्तिरीयोपनिषत्"
+pages = "76"
+language = "संस्कृतम्"
+"primary commentator" = "शंकराचार्यः"
+"secondary commentator" = "आनन्दगिर्याचार्यः"
+"tertiary commentator" = "अच्युतकृष्णानन्दतीर्तः"
+"commentary name" = "वनमाला"
+"serial no." = "Ebharati-7249"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcwNzEzMTY3Njc4NTk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तैत्तिरियोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODcwNzEzMTY3Njc4NTk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2650,8 +2649,5 @@ title = "तैत्तिरियोपनिषत्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,17 +1,16 @@
 +++
-TITLE = "रणदीपिका"
-AUTHOR = "कुमारगणकः"
-PUBLISHER = "महाराणी त्रिवाङ्कूर्"
-"PUBLISH YEAR" = "१९२८"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "अर्थशास्त्रम्"
-PAGES = "33"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "के साम्बशिवशास्त्री"
-PRINTER = "राजकीय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-4971"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY3OTcwMTIzNzkxNzc0&pageno=MjI0MjQyNjk5NTk="
 title = "रणदीपिका"
+author = "कुमारगणकः"
+publisher = "महाराणी त्रिवाङ्कूर्"
+"publish year" = "१९२८"
+domain = "धर्मशास्त्रम्"
+sub-domain = "अर्थशास्त्रम्"
+pages = "33"
+language = "संस्कृतम्"
+editor = "के साम्बशिवशास्त्री"
+printer = "राजकीय-मुद्रणालयः"
+"serial no." = "Ebharati-4971"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY3OTcwMTIzNzkxNzc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रणदीपिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjY3OTcwMTIzNzkxNzc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1466,19 +1465,6 @@ Trivendrum,
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

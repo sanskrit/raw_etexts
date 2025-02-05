@@ -1,18 +1,17 @@
 +++
-TITLE = "वेणीसंहारम्"
-AUTHOR = "भट्टनारायणः"
-PUBLISHER = "जयकृष्णहरिदासः"
-"PUBLISH YEAR" = "1940"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "442"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "रामदेवझाआदित्यनारायणः"
-"COMMENTARY NAME" = "प्रबोधिनी प्रकाशः"
-PRINTER = "विद्याविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5664"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyODcwNzE3MjI3MzQ1&pageno=MjI0MjQyNjk5NTk="
 title = "वेणीसंहारम्"
+author = "भट्टनारायणः"
+publisher = "जयकृष्णहरिदासः"
+"publish year" = "1940"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "442"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "रामदेवझाआदित्यनारायणः"
+"commentary name" = "प्रबोधिनी प्रकाशः"
+printer = "विद्याविलास-मुद्रणालयः"
+"serial no." = "Ebharati-5664"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyODcwNzE3MjI3MzQ1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वेणीसंहारम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODAyODcwNzE3MjI3MzQ1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11120,19 +11119,6 @@ Printed at the Vidya Vilas Press, Benares.
 
 ![](../books_images/U-IMG-1729178133जदगहगबग.jpg)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

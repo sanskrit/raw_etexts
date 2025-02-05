@@ -1,13 +1,12 @@
 +++
-TITLE = "योगाकुण्डल्युपनिषत् (मूलम्)"
-"PUBLISH YEAR" = "२०००"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "11"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-1643"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzOTkyNjI4MTI3NzUx&pageno=MjI0MjQyNjk5NTk="
 title = "योगाकुण्डल्युपनिषत् (मूलम्)"
+"publish year" = "२०००"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "11"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-1643"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzOTkyNjI4MTI3NzUx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[योगाकुण्डल्युपनिषत् (मूलम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQzOTkyNjI4MTI3NzUx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -580,8 +579,5 @@ title = "योगाकुण्डल्युपनिषत् (मूलम
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

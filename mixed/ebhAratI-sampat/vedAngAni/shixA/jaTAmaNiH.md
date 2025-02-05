@@ -1,12 +1,11 @@
 +++
-TITLE = "जटामणिः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3526"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5OTc3MDU3Mjg0ODMz&pageno=MjI0MjQyNjk5NTk="
 title = "जटामणिः"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3526"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5OTc3MDU3Mjg0ODMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जटामणिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5OTc3MDU3Mjg0ODMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -229,8 +228,5 @@ Jatamani
 ते यान्ति नरकं घोरं यावदिन्द्राश्चतुर्दश ९७  
               जटामणिमूलं संपूर्णम्
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

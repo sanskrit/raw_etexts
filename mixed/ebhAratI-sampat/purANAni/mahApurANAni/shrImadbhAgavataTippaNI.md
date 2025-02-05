@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीमद्भागवतटिप्पणी"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "245"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-6801"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIwMjE3NDQ0MDc4MjU2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमद्भागवतटिप्पणी"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "245"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-6801"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIwMjE3NDQ0MDc4MjU2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमद्भागवतटिप्पणी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjIwMjE3NDQ0MDc4MjU2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1137,8 +1136,5 @@ XXX
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

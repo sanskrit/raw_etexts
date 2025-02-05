@@ -1,12 +1,11 @@
 +++
-TITLE = "रुक्मिणीशविजयः"
-AUTHOR = "श्रीवादिराजतीर्थः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3038"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMwODc0NDg1NjM2MTky"
 title = "रुक्मिणीशविजयः"
+author = "श्रीवादिराजतीर्थः"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3038"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMwODc0NDg1NjM2MTky"
 
 +++
 [[रुक्मिणीशविजयः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjMwODc0NDg1NjM2MTky)]]

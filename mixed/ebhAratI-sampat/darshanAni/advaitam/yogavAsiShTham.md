@@ -1,11 +1,10 @@
 +++
-TITLE = "योगवासिष्ठम्"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2499"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODc1MjE4OTA2NDk4OTMy"
 title = "योगवासिष्ठम्"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2499"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODc1MjE4OTA2NDk4OTMy"
 
 +++
 [[योगवासिष्ठम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODc1MjE4OTA2NDk4OTMy)]]

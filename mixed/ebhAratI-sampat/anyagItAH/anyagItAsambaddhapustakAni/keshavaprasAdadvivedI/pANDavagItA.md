@@ -1,16 +1,15 @@
 +++
-TITLE = "पाण्डवगीता"
-AUTHOR = "केशवप्रसादद्विवेदी"
-PUBLISHER = "खेमराजश्रीकृष्णदासः"
-"PUBLISH YEAR" = "1900"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-PAGES = "42"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6678"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjExNDk4NjA5MjYwMTQ2&pageno=MjI0MjQyNjk5NTk="
 title = "पाण्डवगीता"
+author = "केशवप्रसादद्विवेदी"
+publisher = "खेमराजश्रीकृष्णदासः"
+"publish year" = "1900"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+pages = "42"
+language = "संस्कृतम् हिन्दी"
+printer = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-6678"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjExNDk4NjA5MjYwMTQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पाण्डवगीता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjExNDk4NjA5MjYwMTQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -684,19 +683,6 @@ title = "पाण्डवगीता"
 **खेमराज श्रीकृष्णदास,**
 
 **"श्रीवेङ्कटेश्वर " छापाखाना—मुंबई.**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

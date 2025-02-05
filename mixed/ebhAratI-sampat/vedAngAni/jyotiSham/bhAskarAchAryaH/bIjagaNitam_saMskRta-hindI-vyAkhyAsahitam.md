@@ -1,18 +1,17 @@
 +++
-TITLE = "बीजगणितम् संस्कृत-हिन्दी-व्याख्यासहितम्"
-AUTHOR = "भास्कराचार्यः"
-PUBLISHER = "मनोहरलालभार्गवः"
-"PUBLISH YEAR" = "1917"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "576"
-LANGUAGE = "संस्कृतम् हिन्दी"
-EDITOR = "दुर्गाप्रसादद्विवेदी"
-"PRIMARY COMMENTATOR" = "दुर्गाप्रसादद्विवेदी"
-PRINTER = "नवलकिशोर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7506"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM1OTE2NTk3NzQ1MDI3&pageno=MjI0MjQyNjk5NTk="
 title = "बीजगणितम् संस्कृत-हिन्दी-व्याख्यासहितम्"
+author = "भास्कराचार्यः"
+publisher = "मनोहरलालभार्गवः"
+"publish year" = "1917"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "576"
+language = "संस्कृतम् हिन्दी"
+editor = "दुर्गाप्रसादद्विवेदी"
+"primary commentator" = "दुर्गाप्रसादद्विवेदी"
+printer = "नवलकिशोर-यन्त्रालयः"
+"serial no." = "Ebharati-7506"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM1OTE2NTk3NzQ1MDI3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बीजगणितम् संस्कृत-हिन्दी-व्याख्यासहितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjM1OTE2NTk3NzQ1MDI3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11468,8 +11467,5 @@ $\\frac{क.\~य\~१\~{रू}\~१}{{का}\~१\~{य१ं}} = \~{फल}$
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

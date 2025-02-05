@@ -1,12 +1,11 @@
 +++
-TITLE = "भेलसंहिता"
-AUTHOR = "भेलाचार्यः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2506"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjM1OTA1Mzg1NjY1MDQy"
 title = "भेलसंहिता"
+author = "भेलाचार्यः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2506"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjM1OTA1Mzg1NjY1MDQy"
 
 +++
 [[भेलसंहिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjM1OTA1Mzg1NjY1MDQy)]]

@@ -1,17 +1,16 @@
 +++
-TITLE = "अमरुशतकम्"
-PUBLISHER = "मित्र-प्रकाशन-इलहाबाद"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "335"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "कमलेशदत्त-त्रिपाठी"
-EDITOR = "कृष्णदासः"
-"PRIMARY COMMENTATOR" = "अमरु"
-PRINTER = "माया प्रेस् इलहाबाद"
-"SERIAL NO." = "Ebharati-5766"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUyNTA4MzMzNDE1MzU1&pageno=MjI0MjQyNjk5NTk="
 title = "अमरुशतकम्"
+publisher = "मित्र-प्रकाशन-इलहाबाद"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "335"
+language = "संस्कृतम् हिन्दी"
+translator = "कमलेशदत्त-त्रिपाठी"
+editor = "कृष्णदासः"
+"primary commentator" = "अमरु"
+printer = "माया प्रेस् इलहाबाद"
+"serial no." = "Ebharati-5766"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUyNTA4MzMzNDE1MzU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अमरुशतकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjUyNTA4MzMzNDE1MzU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6009,8 +6008,5 @@ title = "अमरुशतकम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

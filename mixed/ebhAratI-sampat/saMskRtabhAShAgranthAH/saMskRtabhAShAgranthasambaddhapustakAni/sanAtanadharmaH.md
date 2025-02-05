@@ -1,15 +1,14 @@
 +++
-TITLE = "सनातनधर्मः"
-PUBLISHER = "वोर्ड-अफ-ट्रास्ट्रीस-सेन्ट्राल-हिन्दु-कलेज-वेनारसः"
-"PUBLISH YEAR" = "1903"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "426"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "तारा-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7035"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc3ODM0NTY1MzMzNTc2&pageno=MjI0MjQyNjk5NTk="
 title = "सनातनधर्मः"
+publisher = "वोर्ड-अफ-ट्रास्ट्रीस-सेन्ट्राल-हिन्दु-कलेज-वेनारसः"
+"publish year" = "1903"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "426"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "तारा-यन्त्रालयः"
+"serial no." = "Ebharati-7035"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc3ODM0NTY1MzMzNTc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सनातनधर्मः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc3ODM0NTY1MzMzNTc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6220,8 +6219,5 @@ PEACE TO ALL BEINGS.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

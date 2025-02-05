@@ -1,14 +1,13 @@
 +++
-TITLE = "निर्गुणमानसपूजा"
-AUTHOR = "शङ्करभगवान्"
-"PUBLISH YEAR" = "१९९७"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "3"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2148"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU0MjI3ODI5OTkxNjAy&pageno=MjI0MjQyNjk5NTk="
 title = "निर्गुणमानसपूजा"
+author = "शङ्करभगवान्"
+"publish year" = "१९९७"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "3"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2148"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU0MjI3ODI5OTkxNjAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[निर्गुणमानसपूजा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjU0MjI3ODI5OTkxNjAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -164,8 +163,5 @@ title = "निर्गुणमानसपूजा"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

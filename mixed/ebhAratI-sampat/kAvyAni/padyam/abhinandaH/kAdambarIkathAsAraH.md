@@ -1,18 +1,17 @@
 +++
-TITLE = "कादम्बरीकथासारः"
-AUTHOR = "अभिनन्दः"
-PUBLISHER = "पाण्डुरङ्ग-जावजी"
-"PUBLISH YEAR" = "1925"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "88"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "दुर्गाप्रसादः काशिनाथ-पाण्डुरङ्ग-परब्"
-"SECOND EDITOR" = "वासुदेवलक्ष्मणशास्त्री-पन्शिकरः"
-PRINTER = "रामचन्द्र-येसु-शेड्गे"
-"SERIAL NO." = "Ebharati-5830"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYyMDIzMzkwODU2OTU1&pageno=MjI0MjQyNjk5NTk="
 title = "कादम्बरीकथासारः"
+author = "अभिनन्दः"
+publisher = "पाण्डुरङ्ग-जावजी"
+"publish year" = "1925"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "88"
+language = "संस्कृतम्"
+editor = "दुर्गाप्रसादः काशिनाथ-पाण्डुरङ्ग-परब्"
+"second editor" = "वासुदेवलक्ष्मणशास्त्री-पन्शिकरः"
+printer = "रामचन्द्र-येसु-शेड्गे"
+"serial no." = "Ebharati-5830"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYyMDIzMzkwODU2OTU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कादम्बरीकथासारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDYyMDIzMzkwODU2OTU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1862,19 +1861,6 @@ Kolbhat lano, bombay,
 
 **आत्मसंभावनां चेयमास्तामसदृशक्रमा।  
 कालेन व्यज्यते सर्वं कथं [च](# "'तु'क.")मम सैनिकाः॥८९॥**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

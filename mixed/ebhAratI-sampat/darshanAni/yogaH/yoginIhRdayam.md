@@ -1,19 +1,18 @@
 +++
-TITLE = "योगिनीहृदयम्"
-PUBLISHER = "वाराणसेयसंस्कृतविश्वविद्यालयः"
-"PUBLISH YEAR" = "१९२४"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "455"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गोपीनाथकविराजः"
-"PRIMARY COMMENTATOR" = "अमृतानन्दयोगी"
-"SECONDARY COMMENTATOR" = "भास्कररायः"
-"COMMENTARY NAME" = "योगिनीहृदय-दीपिका सेतुबन्धः"
-PRINTER = "विक्रमपञ्चाङ्ग-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1678"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjExNDg3NDk2MTgwMTYx&pageno=MjI0MjQyNjk5NTk="
 title = "योगिनीहृदयम्"
+publisher = "वाराणसेयसंस्कृतविश्वविद्यालयः"
+"publish year" = "१९२४"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "455"
+language = "संस्कृतम्"
+editor = "गोपीनाथकविराजः"
+"primary commentator" = "अमृतानन्दयोगी"
+"secondary commentator" = "भास्कररायः"
+"commentary name" = "योगिनीहृदय-दीपिका सेतुबन्धः"
+printer = "विक्रमपञ्चाङ्ग-मुद्रणालयः"
+"serial no." = "Ebharati-1678"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjExNDg3NDk2MTgwMTYx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[योगिनीहृदयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjExNDg3NDk2MTgwMTYx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8455,19 +8454,6 @@ Introduction**
 |    पादान     |    पादन     |
 |     २४६      |     १४६     |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

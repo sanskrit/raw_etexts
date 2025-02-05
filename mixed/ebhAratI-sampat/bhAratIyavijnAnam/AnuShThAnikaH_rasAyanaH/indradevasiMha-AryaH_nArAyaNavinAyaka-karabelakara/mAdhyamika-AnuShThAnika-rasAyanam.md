@@ -1,18 +1,17 @@
 +++
-TITLE = "माध्यमिक-आनुष्ठानिक-रसायनम्"
-AUTHOR = "इन्द्रदेवसिंह-आर्यः नारायणविनायक-करबेलकरः मंगेशविनायक-नाईकः"
-PUBLISHER = "नागपुर-विश्वविद्यालयः"
-"PUBLISH YEAR" = "1951"
-DOMAIN = "भारतीयविज्ञानम्"
-SUB-DOMAIN = "आनुष्ठानिकः रसायनः"
-PAGES = "288"
-LANGUAGE = "हिन्दी"
-EDITOR = "डा.रघुवीरः"
-"BOOKS CONTRIBUTOR" = "डा. लोकेश-चन्द्रः"
-PRINTER = "कर्मवीर-प्रेस् खाण्डवा"
-"SERIAL NO." = "Ebharati-7538"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMwNzczNTc2OTE2MzI3&pageno=MjI0MjQyNjk5NTk="
 title = "माध्यमिक-आनुष्ठानिक-रसायनम्"
+author = "इन्द्रदेवसिंह-आर्यः नारायणविनायक-करबेलकरः मंगेशविनायक-नाईकः"
+publisher = "नागपुर-विश्वविद्यालयः"
+"publish year" = "1951"
+domain = "भारतीयविज्ञानम्"
+sub-domain = "आनुष्ठानिकः रसायनः"
+pages = "288"
+language = "हिन्दी"
+editor = "डा.रघुवीरः"
+"books contributor" = "डा. लोकेश-चन्द्रः"
+printer = "कर्मवीर-प्रेस् खाण्डवा"
+"serial no." = "Ebharati-7538"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMwNzczNTc2OTE2MzI3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[माध्यमिक-आनुष्ठानिक-रसायनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjMwNzczNTc2OTE2MzI3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4282,19 +4281,6 @@ wire-gauze **तन्तु जाली**
 **हरिद्रा पत्र** Turmeric paper  
 **हर्यातु** barium  
 **हस्तक** handle
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

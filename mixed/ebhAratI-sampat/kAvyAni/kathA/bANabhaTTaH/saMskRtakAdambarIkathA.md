@@ -1,17 +1,16 @@
 +++
-TITLE = "संस्कृतकादम्बरीकथा"
-AUTHOR = "बाणभट्टः"
-PUBLISHER = "लक्ष्मणनारायण-चापेकर्"
-"PUBLISH YEAR" = "१९३५"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "138"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "नीलकण्ठशङ्करनवरे"
-PRINTER = "आर्यसंस्कृति-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5133"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMjUzMjE3ODQ3Mjk0&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृतकादम्बरीकथा"
+author = "बाणभट्टः"
+publisher = "लक्ष्मणनारायण-चापेकर्"
+"publish year" = "१९३५"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "138"
+language = "संस्कृतम्"
+editor = "नीलकण्ठशङ्करनवरे"
+printer = "आर्यसंस्कृति-मुद्रणालयः"
+"serial no." = "Ebharati-5133"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMjUzMjE3ODQ3Mjk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृतकादम्बरीकथा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMjUzMjE3ODQ3Mjk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1777,19 +1776,6 @@ I have gone through the whole of your book‘ the संस्कृतकाद
 
 **\_\_\_\_\_\_\_\_\_\_**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

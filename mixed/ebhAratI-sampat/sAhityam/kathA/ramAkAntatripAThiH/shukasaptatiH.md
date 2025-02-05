@@ -1,12 +1,11 @@
 +++
-TITLE = "शुकसप्ततिः"
-AUTHOR = "रमाकान्तत्रिपाठिः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "कथा"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2774"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODI2ODc0Njc1MzkyNjYy"
 title = "शुकसप्ततिः"
+author = "रमाकान्तत्रिपाठिः"
+domain = "साहित्यम्"
+sub-domain = "कथा"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2774"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODI2ODc0Njc1MzkyNjYy"
 
 +++
 [[शुकसप्ततिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODI2ODc0Njc1MzkyNjYy)]]

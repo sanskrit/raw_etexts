@@ -1,18 +1,17 @@
 +++
-TITLE = "रसमञ्जरी"
-AUTHOR = "भानुभट्टः"
-PUBLISHER = "ब्रज् बि. दासः"
-"PUBLISH YEAR" = "1904"
-DOMAIN = "कला"
-SUB-DOMAIN = "नाट्यम्"
-PAGES = "293"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "अनन्तपण्डितः नागेशभट्टः"
-"COMMENTARY NAME" = "व्यङ्ग्यार्थकौमुदी प्रकाशः"
-PRINTER = "विद्याविलास-मुद्रणलयः"
-"SERIAL NO." = "Ebharati-5914"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA3Mzg2Nzc3MTI3NzY1&pageno=MjI0MjQyNjk5NTk="
 title = "रसमञ्जरी"
+author = "भानुभट्टः"
+publisher = "ब्रज् बि. दासः"
+"publish year" = "1904"
+domain = "कला"
+sub-domain = "नाट्यम्"
+pages = "293"
+language = "संस्कृतम्"
+"primary commentator" = "अनन्तपण्डितः नागेशभट्टः"
+"commentary name" = "व्यङ्ग्यार्थकौमुदी प्रकाशः"
+printer = "विद्याविलास-मुद्रणलयः"
+"serial no." = "Ebharati-5914"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA3Mzg2Nzc3MTI3NzY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रसमञ्जरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODA3Mzg2Nzc3MTI3NzY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4116,19 +4115,6 @@ BENARES
 सिद्धान्तमुक्तावली दिनकरीटिप्पणीसहिता  
 उपसर्गवृत्ति
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

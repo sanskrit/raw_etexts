@@ -1,18 +1,17 @@
 +++
-TITLE = "कामसूत्रम्"
-AUTHOR = "वात्स्यायनः"
-PUBLISHER = "केदारनाथः"
-"PUBLISH YEAR" = "1900"
-DOMAIN = "भारतीयविज्ञानम्"
-SUB-DOMAIN = "कामशास्त्रम्"
-PAGES = "408"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "यशोधरः"
-"COMMENTARY NAME" = "जयमङ्गला-टीका"
-PRINTER = "निर्णयसागरयन्त्रालयः"
-"SERIAL NO." = "Ebharati-4575"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU2MDgwOTA4MjgxOTM0&pageno=MjI0MjQyNjk5NTk="
 title = "कामसूत्रम्"
+author = "वात्स्यायनः"
+publisher = "केदारनाथः"
+"publish year" = "1900"
+domain = "भारतीयविज्ञानम्"
+sub-domain = "कामशास्त्रम्"
+pages = "408"
+language = "संस्कृतम्"
+"primary commentator" = "यशोधरः"
+"commentary name" = "जयमङ्गला-टीका"
+printer = "निर्णयसागरयन्त्रालयः"
+"serial no." = "Ebharati-4575"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU2MDgwOTA4MjgxOTM0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कामसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU2MDgwOTA4MjgxOTM0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10061,19 +10060,6 @@ title = "कामसूत्रम्"
 
   " सर्वशास्त्रकलाकलापपारंगमायानेकोच्छिन्नप्रायकाव्यालंकारादिमन्थोद्धारकायसकलसद्गुणसंपद्विभूषिताय श्रीदुर्गाप्रसाद इति सुगृहीतनाम्नेश्रीजयपुरनिवासिने महापण्डितशिरोमणये डाक्टर जी० ब्यूलर इत्यभिधस्य राजसभामात्य-**'Hograth**'पदविशिष्टस्य संस्कृताध्यापकस्य कुशलप्रश्नपुरःसरं समुल्लसतुतरां विज्ञप्तिरियम्—भवत्प्रेषितं कामसूत्रस्य मुद्रितं पुस्तक मया प्राप्तम्। तत्प्रेषणेन चाह—मतीवोपकृतो भवता। यद्यपि कामसूत्रस्य भूर्याांसि स्थलानि लज्जांबीभत्सां वोत्पादयन्ति, तथापि सा श्रीवात्स्यायनमुनिकृतिः काव्यशास्त्राध्ययने भरतखण्डीयप्राचीनवृत्तान्तनिर्णये चोद्युक्तैरवश्यमेवावलोकनीया। तेन तत्संशोधने यो भवता प्रयत्नो विहितः स न निष्फलः, किं तु विद्याविवर्धनायैव। अन्येषामप्यस्मज्जातीयानां विदुषांस एवाभिप्रायः। \* \* 4 काव्यमाला तु चिरं तिष्ठेत्कीर्त्या च वर्धतामिति ममेच्छेव्यतिविस्तरेणालम्॥ —*Dr G Buler Ph. D. CI. E., (22Stefanni Gasse Ober Dobling Vrenma, Austria. 3-12-91 )*
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

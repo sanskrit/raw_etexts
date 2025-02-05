@@ -1,17 +1,16 @@
 +++
-TITLE = "श्राद्धचन्द्रिका Split-1"
-AUTHOR = "दिवाकरः भट्टः"
-PUBLISHER = "विद्या-विलास-प्रेस बनारस."
-"PUBLISH YEAR" = "1934"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "39"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "विष्णुप्रसादः भण्डारि"
-PRINTER = "जयकृष्णदासः गुप्तः"
-"SERIAL NO." = "Ebharati-5086"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkyODU5ODg4NjMyODg0&pageno=MjI0MjQyNjk5NTk="
 title = "श्राद्धचन्द्रिका Split-1"
+author = "दिवाकरः भट्टः"
+publisher = "विद्या-विलास-प्रेस बनारस."
+"publish year" = "1934"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "39"
+language = "संस्कृतम्"
+editor = "विष्णुप्रसादः भण्डारि"
+printer = "जयकृष्णदासः गुप्तः"
+"serial no." = "Ebharati-5086"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkyODU5ODg4NjMyODg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्राद्धचन्द्रिका Split-1	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjkyODU5ODg4NjMyODg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1042,19 +1041,6 @@ favoriteः पुत्रो जनन्या और्ध्वदेहि
 (२) परिपाटला स्थूला राजमाषाः ।
 
 ----------
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

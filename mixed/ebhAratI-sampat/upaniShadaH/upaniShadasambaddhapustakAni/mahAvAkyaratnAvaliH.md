@@ -1,16 +1,15 @@
 +++
-TITLE = "महावाक्यरत्नावलिः"
-PUBLISHER = "तुकाराम-जावजी"
-"PUBLISH YEAR" = "1913"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-PAGES = "93"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वासुदेव-शर्माः"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8876"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2NzM3NzQ2MjYwMjU4&pageno=MjI0MjQyNjk5NTk="
 title = "महावाक्यरत्नावलिः"
+publisher = "तुकाराम-जावजी"
+"publish year" = "1913"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+pages = "93"
+language = "संस्कृतम्"
+editor = "वासुदेव-शर्माः"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-8876"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2NzM3NzQ2MjYwMjU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[महावाक्यरत्नावलिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2NzM3NzQ2MjYwMjU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -674,8 +673,5 @@ Printed by K.Y.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

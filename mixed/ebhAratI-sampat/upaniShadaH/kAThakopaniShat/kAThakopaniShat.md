@@ -1,15 +1,14 @@
 +++
-TITLE = "काठकोपनिषत्"
-PUBLISHER = "हरिनारायणआपटे"
-"PUBLISH YEAR" = "1897"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "काठकोपनिषत्"
-PAGES = "138"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "आनन्दाश्रम-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-8446"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEyNjk0MzYyNDg3MDE4&pageno=MjI0MjQyNjk5NTk="
 title = "काठकोपनिषत्"
+publisher = "हरिनारायणआपटे"
+"publish year" = "1897"
+domain = "उपनिषदः"
+sub-domain = "काठकोपनिषत्"
+pages = "138"
+language = "संस्कृतम्"
+printer = "आनन्दाश्रम-मुद्रणालयः"
+"serial no." = "Ebharati-8446"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEyNjk0MzYyNDg3MDE4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काठकोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjEyNjk0MzYyNDg3MDE4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2777,8 +2776,5 @@ title = "काठकोपनिषत्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,13 +1,12 @@
 +++
-TITLE = "आर्यभटीयम्"
-AUTHOR = "आर्यभटः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2623"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA5Mjc4MzQxODk3MTUy&pageno=MjI0MjQyNjk5NTk="
 title = "आर्यभटीयम्"
+author = "आर्यभटः"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2623"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA5Mjc4MzQxODk3MTUy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आर्यभटीयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjA5Mjc4MzQxODk3MTUy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -514,8 +513,5 @@ title = "आर्यभटीयम्"
 \\Z  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

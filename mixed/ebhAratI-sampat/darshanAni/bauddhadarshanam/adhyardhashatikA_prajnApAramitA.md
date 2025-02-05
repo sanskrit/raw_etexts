@@ -1,12 +1,11 @@
 +++
-TITLE = "अध्यर्धशतिका प्रज्ञापारमिता"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3874"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI4MjQxMzQ0OTg4MTcz&pageno=MjI0MjQyNjk5NTk="
 title = "अध्यर्धशतिका प्रज्ञापारमिता"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3874"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI4MjQxMzQ0OTg4MTcz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अध्यर्धशतिका प्रज्ञापारमिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODI4MjQxMzQ0OTg4MTcz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -132,8 +131,5 @@ title = "अध्यर्धशतिका प्रज्ञापारम�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

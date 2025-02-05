@@ -1,13 +1,12 @@
 +++
-TITLE = "पदकारिका रत्नमाला"
-AUTHOR = "श्रीशङ्करभगवत्पादाः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3950"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA5NjY1NzUxNTgxOTcz"
 title = "पदकारिका रत्नमाला"
+author = "श्रीशङ्करभगवत्पादाः"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3950"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA5NjY1NzUxNTgxOTcz"
 
 +++
 [[पदकारिका रत्नमाला	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDA5NjY1NzUxNTgxOTcz)]]

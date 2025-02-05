@@ -1,20 +1,19 @@
 +++
-TITLE = "गणितसारसङ्ग्रहः"
-AUTHOR = "महावीराचार्यः"
-PUBLISHER = "मद्रास्-सर्वकारः"
-"PUBLISH YEAR" = "१९१२"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "528"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "महावीराचार्यः"
-EDITOR = "रङ्गाचार्यः"
-"PRIMARY COMMENTATOR" = "महावीराचार्यः"
-"COMMENTARY NAME" = "आङ्ग्लभाषाटीका"
-PRINTER = "Govt. Press"
-"SERIAL NO." = "Ebharati-4628"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwOTI5OTA2MDcyNDQ0&pageno=MjI0MjQyNjk5NTk="
 title = "गणितसारसङ्ग्रहः"
+author = "महावीराचार्यः"
+publisher = "मद्रास्-सर्वकारः"
+"publish year" = "१९१२"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "528"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "महावीराचार्यः"
+editor = "रङ्गाचार्यः"
+"primary commentator" = "महावीराचार्यः"
+"commentary name" = "आङ्ग्लभाषाटीका"
+printer = "Govt. Press"
+"serial no." = "Ebharati-4628"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwOTI5OTA2MDcyNDQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गणितसारसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjEwOTI5OTA2MDcyNDQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -14328,19 +14327,6 @@ TABLES OF MEASURES.
 |:--------------------------------:|:-----------------:|
 | $\\frac{1}{7}$of a man's height | his foot measure. |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

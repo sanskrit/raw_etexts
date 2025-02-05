@@ -1,19 +1,18 @@
 +++
-TITLE = "शिशुपालवधम्"
-AUTHOR = "माघः"
-PUBLISHER = "आशुबोधविद्याभूषणः नित्यबोधविद्यारत्नः"
-"PUBLISH YEAR" = "1920"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "1137"
-LANGUAGE = "संस्कॄतम्"
-EDITOR = "आशुबोधविद्याभूषणः नित्यबोधविद्यारत्नः"
-"PRIMARY COMMENTATOR" = "कोलाचलमल्लिमाथसूरिः"
-"COMMENTARY NAME" = "सर्वङ्कषा"
-PRINTER = "अविनाशचन्द्रमण्डलः सिद्देश्वरयन्त्रालयः कलिकातानगरी"
-"SERIAL NO." = "Ebharati-8388"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3NTM0MTg0NjEyNTA4&pageno=MjI0MjQyNjk5NTk="
 title = "शिशुपालवधम्"
+author = "माघः"
+publisher = "आशुबोधविद्याभूषणः नित्यबोधविद्यारत्नः"
+"publish year" = "1920"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "1137"
+language = "संस्कॄतम्"
+editor = "आशुबोधविद्याभूषणः नित्यबोधविद्यारत्नः"
+"primary commentator" = "कोलाचलमल्लिमाथसूरिः"
+"commentary name" = "सर्वङ्कषा"
+printer = "अविनाशचन्द्रमण्डलः सिद्देश्वरयन्त्रालयः कलिकातानगरी"
+"serial no." = "Ebharati-8388"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3NTM0MTg0NjEyNTA4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शिशुपालवधम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM3NTM0MTg0NjEyNTA4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -18637,19 +18636,6 @@ AT THE SIDDHESWAR PRESS,
 ९६७पृष्ठायां १९श सर्गस्य ९४ श्लोकीया टिप्पनीभ्रान्तिविजृम्भिता,–  
 “रेपाः स्यादधमेक्रूरेकृपणऽप्यभिधेयवत्" इति मेदिनीदर्शनात्।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

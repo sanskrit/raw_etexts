@@ -1,17 +1,16 @@
 +++
-TITLE = "बृहन्निघण्टुरत्नाकरः (पंचमो भागः)"
-PUBLISHER = "खेमराज-श्रीकृष्णदासः"
-"PUBLISH YEAR" = "1923"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "926"
-LANGUAGE = "संस्कृतम् हिन्दी"
-EDITOR = "दत्तरामः"
-"PRIMARY COMMENTATOR" = "दत्तरामः"
-PRINTER = "श्रीलक्ष्मीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5876"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2MTc0MDI5MzcwNDY1&pageno=MjI0MjQyNjk5NTk="
 title = "बृहन्निघण्टुरत्नाकरः (पंचमो भागः)"
+publisher = "खेमराज-श्रीकृष्णदासः"
+"publish year" = "1923"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "926"
+language = "संस्कृतम् हिन्दी"
+editor = "दत्तरामः"
+"primary commentator" = "दत्तरामः"
+printer = "श्रीलक्ष्मीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-5876"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2MTc0MDI5MzcwNDY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बृहन्निघण्टुरत्नाकरः (पंचमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2MTc0MDI5MzcwNDY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -33330,8 +33329,5 @@ title = "बृहन्निघण्टुरत्नाकरः (पंच
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

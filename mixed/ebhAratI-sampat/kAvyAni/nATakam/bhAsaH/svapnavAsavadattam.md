@@ -1,16 +1,15 @@
 +++
-TITLE = "स्वप्नवासवदत्तम्"
-AUTHOR = "भासः"
-"PUBLISH YEAR" = "1939"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "292"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "शङ्कररामशास्त्री"
-PRINTER = "श्रीबालमनोरमा-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5639"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU2NzEwMTE4MjIzMTQ1&pageno=MjI0MjQyNjk5NTk="
 title = "स्वप्नवासवदत्तम्"
+author = "भासः"
+"publish year" = "1939"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "292"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "शङ्कररामशास्त्री"
+printer = "श्रीबालमनोरमा-मुद्रणालयः"
+"serial no." = "Ebharati-5639"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU2NzEwMTE4MjIzMTQ1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्वप्नवासवदत्तम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODU2NzEwMTE4MjIzMTQ1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6146,8 +6145,5 @@ Other examples:—Act I. Verses 6 & 11.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

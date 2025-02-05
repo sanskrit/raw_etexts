@@ -1,13 +1,12 @@
 +++
-TITLE = "पातञ्जलसूत्राणि"
-AUTHOR = "पतञ्जलिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3858"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjcwNDYyMzA1MzUzMDcz"
 title = "पातञ्जलसूत्राणि"
+author = "पतञ्जलिः"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3858"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjcwNDYyMzA1MzUzMDcz"
 
 +++
 [[पातञ्जलसूत्राणि	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjcwNDYyMzA1MzUzMDcz)]]

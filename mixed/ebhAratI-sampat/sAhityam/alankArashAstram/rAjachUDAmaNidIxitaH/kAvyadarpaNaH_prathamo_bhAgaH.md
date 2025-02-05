@@ -1,16 +1,15 @@
 +++
-TITLE = "काव्यदर्पणः (प्रथमो भागः)"
-AUTHOR = "राजचूडामणिदीक्षितः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "417"
-LANGUAGE = "संस्कृतम्"
-TRANSLATOR = "रामस्वामिशास्त्री"
-EDITOR = "सुब्रह्मण्यशास्त्री"
-PRINTER = "वाणिविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6011"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ2ODkxMzE0MzMwNzc1&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यदर्पणः (प्रथमो भागः)"
+author = "राजचूडामणिदीक्षितः"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "417"
+language = "संस्कृतम्"
+translator = "रामस्वामिशास्त्री"
+editor = "सुब्रह्मण्यशास्त्री"
+printer = "वाणिविलास-मुद्रणालयः"
+"serial no." = "Ebharati-6011"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ2ODkxMzE0MzMwNzc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यदर्पणः (प्रथमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ2ODkxMzE0MzMwNzc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4023,19 +4022,6 @@ ward to the publication of the remaining portion of the work. The work is not, l
 |   ३७८   |    ९     |   दयस्योद्दी   |
 |    "    |    १४    |    निबन्धो     |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

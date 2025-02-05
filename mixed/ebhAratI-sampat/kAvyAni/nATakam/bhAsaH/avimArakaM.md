@@ -1,17 +1,16 @@
 +++
-TITLE = "अविमारकं"
-AUTHOR = "भासः"
-PUBLISHER = "गवर्नमेण्ट्-आफ्-ट्रवण्कोर्"
-"PUBLISH YEAR" = "1912"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "132"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गणपतिशास्त्री"
-PRINTER = "गवर्नमेण्ट्-प्रेस्ट्र"
-"SERIAL NO." = "Ebharati-5390"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg1NDU2NjQ3OTE0NzE1&pageno=MjI0MjQyNjk5NTk="
 title = "अविमारकं"
+author = "भासः"
+publisher = "गवर्नमेण्ट्-आफ्-ट्रवण्कोर्"
+"publish year" = "1912"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "132"
+language = "संस्कृतम्"
+editor = "गणपतिशास्त्री"
+printer = "गवर्नमेण्ट्-प्रेस्ट्र"
+"serial no." = "Ebharati-5390"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg1NDU2NjQ3OTE0NzE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अविमारकं	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDg1NDU2NjQ3OTE0NzE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2466,8 +2465,5 @@ Trivandrum.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

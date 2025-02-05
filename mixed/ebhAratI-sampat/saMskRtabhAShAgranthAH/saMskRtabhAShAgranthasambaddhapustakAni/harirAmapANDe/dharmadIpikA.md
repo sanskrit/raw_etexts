@@ -1,16 +1,15 @@
 +++
-TITLE = "धर्मदीपिका"
-AUTHOR = "हरिरामपाण्डे"
-PUBLISHER = "हरिरामपाण्डे"
-"PUBLISH YEAR" = "1930"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "244"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "ज्ञानमण्डल-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7033"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI5MzU5Mjc1MTQxNTc2&pageno=MjI0MjQyNjk5NTk="
 title = "धर्मदीपिका"
+author = "हरिरामपाण्डे"
+publisher = "हरिरामपाण्डे"
+"publish year" = "1930"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "244"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "ज्ञानमण्डल-यन्त्रालयः"
+"serial no." = "Ebharati-7033"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI5MzU5Mjc1MTQxNTc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[धर्मदीपिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjI5MzU5Mjc1MTQxNTc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6038,19 +6037,6 @@ not drag himself down. For the Self alone is the friend of the self. And the sel
 
 ***\_\_\_\_\_\_\_\_\_\_\_***
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

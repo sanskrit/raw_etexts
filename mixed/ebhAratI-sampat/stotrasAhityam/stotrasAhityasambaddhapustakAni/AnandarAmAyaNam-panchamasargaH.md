@@ -1,12 +1,11 @@
 +++
-TITLE = "आनन्दरामायणम्-पञ्चमसर्गः"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2835"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDczNjYyNzQzOTQxMjcy&pageno=MjI0MjQyNjk5NTk="
 title = "आनन्दरामायणम्-पञ्चमसर्गः"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2835"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDczNjYyNzQzOTQxMjcy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आनन्दरामायणम्-पञ्चमसर्गः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDczNjYyNzQzOTQxMjcy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -277,8 +276,5 @@ title = "आनन्दरामायणम्-पञ्चमसर्गः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

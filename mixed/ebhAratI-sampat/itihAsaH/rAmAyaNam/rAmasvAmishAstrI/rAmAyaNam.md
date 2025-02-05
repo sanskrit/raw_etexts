@@ -1,15 +1,14 @@
 +++
-TITLE = "रामायणम्"
-AUTHOR = "रामस्वामिशास्त्री"
-"PUBLISH YEAR" = "1944"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "485"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-"PRIMARY COMMENTATOR" = "वाल्मीकिः"
-"SERIAL NO." = "Ebharati-6137"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE4MzQ3OTM5ODIxOTg1&pageno=MjI0MjQyNjk5NTk="
 title = "रामायणम्"
+author = "रामस्वामिशास्त्री"
+"publish year" = "1944"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "485"
+language = "संस्कृतम् आङ्ग्लम्"
+"primary commentator" = "वाल्मीकिः"
+"serial no." = "Ebharati-6137"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE4MzQ3OTM5ODIxOTg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रामायणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDE4MzQ3OTM5ODIxOTg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -12264,19 +12263,6 @@ POEMS OF NATURE.
 | Valmiki on the Soul Epics           | Yoga Vasishta—Part II Epics        |
 | Valmiki's Style Epics               | Yugas—Part II**** Epics           |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,17 +1,16 @@
 +++
-TITLE = "न्यायदर्शने श्रीकण्ठटिप्पणकम्"
-AUTHOR = "श्रीकण्ठाचार्यः"
-PUBLISHER = "Asiatic Society"
-"PUBLISH YEAR" = "1986"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-PAGES = "129"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "अनन्तलालठाकुरः"
-PRINTER = "Modern Press"
-"SERIAL NO." = "Ebharati-1810"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI4Mzg3ODkxMzU3Mzcx&pageno=MjI0MjQyNjk5NTk="
 title = "न्यायदर्शने श्रीकण्ठटिप्पणकम्"
+author = "श्रीकण्ठाचार्यः"
+publisher = "Asiatic Society"
+"publish year" = "1986"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+pages = "129"
+language = "संस्कृतम्"
+editor = "अनन्तलालठाकुरः"
+printer = "Modern Press"
+"serial no." = "Ebharati-1810"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI4Mzg3ODkxMzU3Mzcx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[न्यायदर्शने श्रीकण्ठटिप्पणकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDI4Mzg3ODkxMzU3Mzcx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1502,19 +1501,6 @@ STRARAT \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ----------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

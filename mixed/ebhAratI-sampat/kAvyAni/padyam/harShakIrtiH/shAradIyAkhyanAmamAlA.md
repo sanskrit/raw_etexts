@@ -1,15 +1,14 @@
 +++
-TITLE = "शारदीयाख्यनाममाला"
-AUTHOR = "हर्षकीर्तिः"
-"PUBLISH YEAR" = "1951"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "116"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मधुकर्-मङ्गेष्कर्"
-"SERIAL NO." = "Ebharati-8911"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ0MjIyNjE1MjI0NTU4&pageno=MjI0MjQyNjk5NTk="
 title = "शारदीयाख्यनाममाला"
+author = "हर्षकीर्तिः"
+"publish year" = "1951"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "116"
+language = "संस्कृतम्"
+editor = "मधुकर्-मङ्गेष्कर्"
+"serial no." = "Ebharati-8911"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ0MjIyNjE1MjI0NTU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शारदीयाख्यनाममाला	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ0MjIyNjE1MjI0NTU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2388,19 +2387,6 @@ Colophon: B3.4 om. the colophon.
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

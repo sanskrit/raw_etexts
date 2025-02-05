@@ -1,14 +1,13 @@
 +++
-TITLE = "नाडीपरीक्षा"
-PUBLISHER = "खेमराज-श्रीकृष्णदासः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "20"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-3461"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ1MjIwNTk5MjQyMjMz&pageno=MjI0MjQyNjk5NTk="
 title = "नाडीपरीक्षा"
+publisher = "खेमराज-श्रीकृष्णदासः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "20"
+language = "संस्कृतम् हिन्दी"
+printer = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-3461"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ1MjIwNTk5MjQyMjMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नाडीपरीक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ1MjIwNTk5MjQyMjMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -537,8 +536,5 @@ title = "नाडीपरीक्षा"
 इति हिंदीटीका सहित नाड़ीपरीक्षा संपूर्ण।  
 ![](../books_images/U-IMG-1703695936Capture.JPG)
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

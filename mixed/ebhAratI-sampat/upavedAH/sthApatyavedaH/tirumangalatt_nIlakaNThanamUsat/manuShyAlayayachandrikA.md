@@ -1,17 +1,16 @@
 +++
-TITLE = "मनुष्यालययचन्द्रिका"
-AUTHOR = "तिरुमङ्गलत्त् नीलकण्ठनमूसत्"
-PUBLISHER = "राजकीयमुद्रणालयम् तिरुवनन्तपुरम्"
-"PUBLISH YEAR" = "1917"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "स्थापत्यवेदः"
-PAGES = "56"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गणपतिशास्त्रिः"
-PRINTER = "तिरुवतांकूर् महाराजा"
-"SERIAL NO." = "Ebharati-4744"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5OTQwNDcxNjA0NTU0&pageno=MjI0MjQyNjk5NTk="
 title = "मनुष्यालययचन्द्रिका"
+author = "तिरुमङ्गलत्त् नीलकण्ठनमूसत्"
+publisher = "राजकीयमुद्रणालयम् तिरुवनन्तपुरम्"
+"publish year" = "1917"
+domain = "उपवेदाः"
+sub-domain = "स्थापत्यवेदः"
+pages = "56"
+language = "संस्कृतम्"
+editor = "गणपतिशास्त्रिः"
+printer = "तिरुवतांकूर् महाराजा"
+"serial no." = "Ebharati-4744"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5OTQwNDcxNjA0NTU0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मनुष्यालययचन्द्रिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY5OTQwNDcxNjA0NTU0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1865,19 +1864,6 @@ T. GANAPATI SÂSTRÎ
 
 शुभं भूयात्।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

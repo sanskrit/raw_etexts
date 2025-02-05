@@ -1,17 +1,16 @@
 +++
-TITLE = "भारतसार-भाषा"
-AUTHOR = "कन्हैयालालमिश्रा"
-PUBLISHER = "खेमराजश्रीकृष्णदासः"
-"PUBLISH YEAR" = "1915"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "महाभारतम्"
-PAGES = "570"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "वेदव्यासः"
-PRINTER = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6085"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzMxNDg1&pageno=MjI0MjQyNjk5NTk="
 title = "भारतसार-भाषा"
+author = "कन्हैयालालमिश्रा"
+publisher = "खेमराजश्रीकृष्णदासः"
+"publish year" = "1915"
+domain = "इतिहासः"
+sub-domain = "महाभारतम्"
+pages = "570"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "वेदव्यासः"
+printer = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-6085"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzMxNDg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भारतसार-भाषा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzMxNDg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6922,19 +6921,6 @@ title = "भारतसार-भाषा"
 
 ![](../books_images/U-IMG-1726048924Screenshot2024-09-11153101.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

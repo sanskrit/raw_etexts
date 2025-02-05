@@ -1,16 +1,15 @@
 +++
-TITLE = "मानव-धर्मशास्त्रम्"
-AUTHOR = "J. jolly"
-PUBLISHER = "Trubner london"
-"PUBLISH YEAR" = "१८८७"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "धर्मसूत्राणि"
-PAGES = "396"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "the code of Manu original Sanskrit text"
-"SERIAL NO." = "Ebharati-4625"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU3MTAyMTI2Mjg5MzQ0&pageno=MjI0MjQyNjk5NTk="
 title = "मानव-धर्मशास्त्रम्"
+author = "J. jolly"
+publisher = "Trubner london"
+"publish year" = "१८८७"
+domain = "धर्मशास्त्रम्"
+sub-domain = "धर्मसूत्राणि"
+pages = "396"
+language = "संस्कृतम्"
+editor = "the code of Manu original Sanskrit text"
+"serial no." = "Ebharati-4625"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU3MTAyMTI2Mjg5MzQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मानव-धर्मशास्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU3MTAyMTI2Mjg5MzQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11267,19 +11266,6 @@ juks mit uts nil
 
 U S
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

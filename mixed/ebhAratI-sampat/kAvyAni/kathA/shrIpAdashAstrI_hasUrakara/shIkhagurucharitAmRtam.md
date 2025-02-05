@@ -1,16 +1,15 @@
 +++
-TITLE = "शीखगुरुचरितामृतम्"
-AUTHOR = "श्रीपादशास्त्री हसूरकर"
-PUBLISHER = "श्रीपादशास्त्री हसूरकर"
-"PUBLISH YEAR" = "1933"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "236"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "सहकारी मुद्रणालयः इन्दूर्"
-"SERIAL NO." = "Ebharati-5704"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwNTc3NjY1MjY1NzQ1&pageno=MjI0MjQyNjk5NTk="
 title = "शीखगुरुचरितामृतम्"
+author = "श्रीपादशास्त्री हसूरकर"
+publisher = "श्रीपादशास्त्री हसूरकर"
+"publish year" = "1933"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "236"
+language = "संस्कृतम्"
+printer = "सहकारी मुद्रणालयः इन्दूर्"
+"serial no." = "Ebharati-5704"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwNTc3NjY1MjY1NzQ1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शीखगुरुचरितामृतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODgwNTc3NjY1MjY1NzQ1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2274,19 +2273,6 @@ INDORE CITY. C. I.
 
 ![](../books_images/U-IMG-1722137881सेख.......8.JPG)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

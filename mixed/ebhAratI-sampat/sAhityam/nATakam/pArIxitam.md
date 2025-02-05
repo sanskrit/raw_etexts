@@ -1,11 +1,10 @@
 +++
-TITLE = "पारीक्षितम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2833"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI1MTg3NDUzNzU5MTcy"
 title = "पारीक्षितम्"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2833"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI1MTg3NDUzNzU5MTcy"
 
 +++
 [[पारीक्षितम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjI1MTg3NDUzNzU5MTcy)]]

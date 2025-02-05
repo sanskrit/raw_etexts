@@ -1,13 +1,12 @@
 +++
-TITLE = "विवाहकौमुदी"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "314"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "ओजा-मूलशंकर-जयानन्दः"
-"SERIAL NO." = "Ebharati-6493"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQwNjQwMjA2MzAzMzI2&pageno=MjI0MjQyNjk5NTk="
 title = "विवाहकौमुदी"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "314"
+language = "संस्कृतम्"
+editor = "ओजा-मूलशंकर-जयानन्दः"
+"serial no." = "Ebharati-6493"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQwNjQwMjA2MzAzMzI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विवाहकौमुदी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQwNjQwMjA2MzAzMzI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3138,8 +3137,5 @@ ht Pls. JH 1 E ++ ईश्मीर के १ ( उत्तरा) सो.ऐ
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

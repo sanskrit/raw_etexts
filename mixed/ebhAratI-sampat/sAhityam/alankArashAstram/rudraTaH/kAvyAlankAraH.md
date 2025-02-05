@@ -1,18 +1,17 @@
 +++
-TITLE = "काव्यालङ्कारः"
-AUTHOR = "रुद्रटः"
-PUBLISHER = "निर्णयसागरयन्त्रालयः मुम्बई"
-"PUBLISH YEAR" = "1886"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "116"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "दुर्गाप्रसाद काशिनाथ पाण्डुरङ्ग परब"
-"PRIMARY COMMENTATOR" = "नामिसाधुः"
-PRINTER = "निर्णयसागरयन्त्रालयः मुम्बई"
-"SERIAL NO." = "Ebharati-5969"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE5NjEwMTc1MTAwMzc1&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यालङ्कारः"
+author = "रुद्रटः"
+publisher = "निर्णयसागरयन्त्रालयः मुम्बई"
+"publish year" = "1886"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "116"
+language = "संस्कृतम्"
+editor = "दुर्गाप्रसाद काशिनाथ पाण्डुरङ्ग परब"
+"primary commentator" = "नामिसाधुः"
+printer = "निर्णयसागरयन्त्रालयः मुम्बई"
+"serial no." = "Ebharati-5969"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE5NjEwMTc1MTAwMzc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यालङ्कारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODE5NjEwMTc1MTAwMzc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1656,8 +1655,5 @@ title = "काव्यालङ्कारः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

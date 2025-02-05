@@ -1,14 +1,13 @@
 +++
-TITLE = "काव्यसंग्रहः"
-"PUBLISH YEAR" = "1872"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "साहित्येतिहासः"
-PAGES = "712"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "नूतनभारत-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8337"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDIzMDA4&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यसंग्रहः"
+"publish year" = "1872"
+domain = "साहित्यम्"
+sub-domain = "साहित्येतिहासः"
+pages = "712"
+language = "संस्कृतम्"
+printer = "नूतनभारत-यन्त्रालयः"
+"serial no." = "Ebharati-8337"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDIzMDA4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यसंग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDIzMDA4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -23299,8 +23298,5 @@ title = "काव्यसंग्रहः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

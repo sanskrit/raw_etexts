@@ -1,13 +1,12 @@
 +++
-TITLE = "सामान्यनिरुक्तिः"
-AUTHOR = "रघुनाथभट्टाचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4085"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4MzkyMDU2NDQxMjkz&pageno=MjI0MjQyNjk5NTk="
 title = "सामान्यनिरुक्तिः"
+author = "रघुनाथभट्टाचार्यः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4085"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4MzkyMDU2NDQxMjkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सामान्यनिरुक्तिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc4MzkyMDU2NDQxMjkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4255,19 +4254,6 @@ F.N.\*.अस्यच अग्रे तन कोलाहलश्चेत�
 
 
 **----------------------- **
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

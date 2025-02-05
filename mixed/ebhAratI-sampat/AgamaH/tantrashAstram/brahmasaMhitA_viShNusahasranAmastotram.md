@@ -1,16 +1,15 @@
 +++
-TITLE = "ब्रह्मसंहिता विष्णुसहस्रनामस्तोत्रम्"
-PUBLISHER = "संस्कृतप्रेसडिपनिटरी"
-"PUBLISH YEAR" = "1928"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "142"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "जीवगोस्वामी"
-PRINTER = "सिद्धेश्वर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8855"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE4NjQ2NjI3NjQwMDU4&pageno=MjI0MjQyNjk5NTk="
 title = "ब्रह्मसंहिता विष्णुसहस्रनामस्तोत्रम्"
+publisher = "संस्कृतप्रेसडिपनिटरी"
+"publish year" = "1928"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "142"
+language = "संस्कृतम्"
+"primary commentator" = "जीवगोस्वामी"
+printer = "सिद्धेश्वर-यन्त्रालयः"
+"serial no." = "Ebharati-8855"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE4NjQ2NjI3NjQwMDU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ब्रह्मसंहिता विष्णुसहस्रनामस्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE4NjQ2NjI3NjQwMDU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3854,8 +3853,5 @@ A. A. S.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

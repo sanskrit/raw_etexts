@@ -1,18 +1,17 @@
 +++
-TITLE = "दशरूपकम्"
-AUTHOR = "धनञ्जयः"
-PUBLISHER = "तुकारामजावजी"
-"PUBLISH YEAR" = "1897"
-DOMAIN = "कला"
-SUB-DOMAIN = "नाट्यम्"
-PAGES = "195"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "काशीनाथपाण्डुरङ्गपरब्"
-"PRIMARY COMMENTATOR" = "धनिकः"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5897"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM1MjY1MTQ4OTgwNjY1&pageno=MjI0MjQyNjk5NTk="
 title = "दशरूपकम्"
+author = "धनञ्जयः"
+publisher = "तुकारामजावजी"
+"publish year" = "1897"
+domain = "कला"
+sub-domain = "नाट्यम्"
+pages = "195"
+language = "संस्कृतम्"
+editor = "काशीनाथपाण्डुरङ्गपरब्"
+"primary commentator" = "धनिकः"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-5897"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM1MjY1MTQ4OTgwNjY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दशरूपकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDM1MjY1MTQ4OTgwNjY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6158,19 +6157,6 @@ Price 12 Annas.**
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

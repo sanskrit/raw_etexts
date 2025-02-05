@@ -1,12 +1,11 @@
 +++
-TITLE = "स्मृतिमुक्तावली"
-AUTHOR = "कृष्णाचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3189"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU3MzgwNzEwMjMxNjAz"
 title = "स्मृतिमुक्तावली"
+author = "कृष्णाचार्यः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3189"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU3MzgwNzEwMjMxNjAz"
 
 +++
 [[स्मृतिमुक्तावली	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODU3MzgwNzEwMjMxNjAz)]]

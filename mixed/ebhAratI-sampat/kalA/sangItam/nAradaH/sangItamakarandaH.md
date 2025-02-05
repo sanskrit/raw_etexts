@@ -1,17 +1,16 @@
 +++
-TITLE = "सङ्गीतमकरन्दः"
-AUTHOR = "नारदः"
-PUBLISHER = "गवर्नमेण्ट् आफ् बरोडा"
-"PUBLISH YEAR" = "1920"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "76"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मङ्गेशरामकृष्णतेलङ्ग"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5901"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIyMjM1NjI4Mzc0NjY1&pageno=MjI0MjQyNjk5NTk="
 title = "सङ्गीतमकरन्दः"
+author = "नारदः"
+publisher = "गवर्नमेण्ट् आफ् बरोडा"
+"publish year" = "1920"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "76"
+language = "संस्कृतम्"
+editor = "मङ्गेशरामकृष्णतेलङ्ग"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-5901"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIyMjM1NjI4Mzc0NjY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सङ्गीतमकरन्दः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjIyMjM1NjI4Mzc0NjY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2253,19 +2252,6 @@ found in several Mss. Catalogues and Reports.)**
 | सम्पूर्णः     | हृष्यका       |
 |              | ह्लादी        |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

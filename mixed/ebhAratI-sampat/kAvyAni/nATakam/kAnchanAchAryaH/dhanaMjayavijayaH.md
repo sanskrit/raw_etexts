@@ -1,16 +1,15 @@
 +++
-TITLE = "धनंजयविजयः"
-AUTHOR = "काञ्चनाचार्यः"
-"PUBLISH YEAR" = "1895"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "13"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "दुर्गाप्रसादः  काशीनाथः"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7667"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc0OTQ2MDkxMzAwNjM3&pageno=MjI0MjQyNjk5NTk="
 title = "धनंजयविजयः"
+author = "काञ्चनाचार्यः"
+"publish year" = "1895"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "13"
+language = "संस्कृतम्"
+editor = "दुर्गाप्रसादः  काशीनाथः"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-7667"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc0OTQ2MDkxMzAwNjM3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[धनंजयविजयः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDc0OTQ2MDkxMzAwNjM3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -787,19 +786,6 @@ title = "धनंजयविजयः"
 
 –––––––––
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

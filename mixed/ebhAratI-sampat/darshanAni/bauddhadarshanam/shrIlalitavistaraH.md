@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीललितविस्तरः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3730"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDYwNDMyNDg5NTYwODUz"
 title = "श्रीललितविस्तरः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3730"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDYwNDMyNDg5NTYwODUz"
 
 +++
 [[श्रीललितविस्तरः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDYwNDMyNDg5NTYwODUz)]]

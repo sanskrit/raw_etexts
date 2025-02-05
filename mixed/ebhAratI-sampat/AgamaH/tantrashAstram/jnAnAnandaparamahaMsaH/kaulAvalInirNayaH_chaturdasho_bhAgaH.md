@@ -1,15 +1,14 @@
 +++
-TITLE = "कौलावलीनिर्णयः (चतुर्दशो भागः)"
-AUTHOR = "ज्ञानानन्दपरमहंसः"
-"PUBLISH YEAR" = "1928"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "185"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "गोवर्द्धन-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8854"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgzNDA0MDM3MDU5OTQ4&pageno=MjI0MjQyNjk5NTk="
 title = "कौलावलीनिर्णयः (चतुर्दशो भागः)"
+author = "ज्ञानानन्दपरमहंसः"
+"publish year" = "1928"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "185"
+language = "संस्कृतम्"
+printer = "गोवर्द्धन-यन्त्रालयः"
+"serial no." = "Ebharati-8854"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgzNDA0MDM3MDU5OTQ4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कौलावलीनिर्णयः (चतुर्दशो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODgzNDA0MDM3MDU5OTQ4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -12241,19 +12240,6 @@ A. A. S.
 \_\_\_\_\_\_\_\_\_\_\_\_\_  
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

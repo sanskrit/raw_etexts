@@ -1,16 +1,15 @@
 +++
-TITLE = "कालतत्त्वविवेचनम्"
-AUTHOR = "रघुनाथभट्टः"
-"PUBLISH YEAR" = "1932"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "295"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गोपीनाथ-कविराजः"
-PRINTER = "बी. सी. बनर्जी"
-"SERIAL NO." = "Ebharati-5177"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2ODEwNzQ1Mjc5Njk0&pageno=MjI0MjQyNjk5NTk="
 title = "कालतत्त्वविवेचनम्"
+author = "रघुनाथभट्टः"
+"publish year" = "1932"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "295"
+language = "संस्कृतम्"
+editor = "गोपीनाथ-कविराजः"
+printer = "बी. सी. बनर्जी"
+"serial no." = "Ebharati-5177"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2ODEwNzQ1Mjc5Njk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कालतत्त्वविवेचनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk2ODEwNzQ1Mjc5Njk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6535,8 +6534,5 @@ ALLAHABAD.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

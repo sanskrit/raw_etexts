@@ -1,15 +1,14 @@
 +++
-TITLE = "खण्डनोद्धारः"
-AUTHOR = "वाचस्पतिमिश्रः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-PAGES = "179"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वामाचरणभट्टाचार्यः"
-PRINTER = "मेडिकल्-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-1745"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzNjIwMzQ0MzE1NzYx&pageno=MjI0MjQyNjk5NTk="
 title = "खण्डनोद्धारः"
+author = "वाचस्पतिमिश्रः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+pages = "179"
+language = "संस्कृतम्"
+editor = "वामाचरणभट्टाचार्यः"
+printer = "मेडिकल्-यन्त्रालयः"
+"serial no." = "Ebharati-1745"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzNjIwMzQ0MzE1NzYx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[खण्डनोद्धारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDkzNjIwMzQ0MzE1NzYx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6488,8 +6487,5 @@ P
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

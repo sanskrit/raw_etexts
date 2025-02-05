@@ -1,17 +1,16 @@
 +++
-TITLE = "सुन्दररामायणम्"
-AUTHOR = "सुन्दरशास्त्री"
-PUBLISHER = "शिवराममूर्तिः"
-"PUBLISH YEAR" = "1940"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "239"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "कुप्पुस्वामिशास्त्री"
-PRINTER = "नारायणस्वामिअय्यर्"
-"SERIAL NO." = "Ebharati-6151"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI3NzMxNzg4Mjc0MDk1&pageno=MjI0MjQyNjk5NTk="
 title = "सुन्दररामायणम्"
+author = "सुन्दरशास्त्री"
+publisher = "शिवराममूर्तिः"
+"publish year" = "1940"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "239"
+language = "संस्कृतम्"
+editor = "कुप्पुस्वामिशास्त्री"
+printer = "नारायणस्वामिअय्यर्"
+"serial no." = "Ebharati-6151"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI3NzMxNzg4Mjc0MDk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुन्दररामायणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjI3NzMxNzg4Mjc0MDk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5833,19 +5832,6 @@ C. S.
 इति श्रीमद्वाधूलकुलजलधिकौस्तुभस्य श्रीमन्मार्गसहायशास्त्रिणस्तनूजस्य श्रीमत्सुब्बाम्बागर्भशुक्तिमुक्ताफलस्य श्री सुन्दरेश्वरस्य कृतौसतीविलसिते उत्तरभागः  
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

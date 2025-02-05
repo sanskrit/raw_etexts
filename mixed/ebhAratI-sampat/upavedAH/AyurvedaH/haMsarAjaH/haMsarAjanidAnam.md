@@ -1,19 +1,18 @@
 +++
-TITLE = "हंसराजनिदानम्"
-AUTHOR = "हंसराजः"
-PUBLISHER = "क्षेमराज-श्रीकृष्णदासश्रेष्ठी"
-"PUBLISH YEAR" = "सं..१९७३"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "170"
-LANGUAGE = "संस्कृतम् हिन्दी"
-EDITOR = "माथुरदत्तरामः"
-"PRIMARY COMMENTATOR" = "माथुरदत्तरामः"
-"COMMENTARY NAME" = "हंसराजार्थबोधिनी-भाषाटीका"
-PRINTER = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-3445"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk3MzQxNTUwNzA3MDMz&pageno=MjI0MjQyNjk5NTk="
 title = "हंसराजनिदानम्"
+author = "हंसराजः"
+publisher = "क्षेमराज-श्रीकृष्णदासश्रेष्ठी"
+"publish year" = "सं..१९७३"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "170"
+language = "संस्कृतम् हिन्दी"
+editor = "माथुरदत्तरामः"
+"primary commentator" = "माथुरदत्तरामः"
+"commentary name" = "हंसराजार्थबोधिनी-भाषाटीका"
+printer = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-3445"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk3MzQxNTUwNzA3MDMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हंसराजनिदानम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDk3MzQxNTUwNzA3MDMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3889,19 +3888,6 @@ title = "हंसराजनिदानम्"
 
 पुस्तक मिलनेका ठिकाना—**खेमराज श्रीकृष्णदास**, "**श्रीवेङ्कटेश्वर**” स्टीम् प्रेस—**बंबई**.
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

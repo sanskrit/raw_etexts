@@ -1,11 +1,10 @@
 +++
-TITLE = "मुहूर्तचिन्तामणिः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2711"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjQwNjAyMzE4NTQyMDYy"
 title = "मुहूर्तचिन्तामणिः"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2711"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjQwNjAyMzE4NTQyMDYy"
 
 +++
 [[मुहूर्तचिन्तामणिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjQwNjAyMzE4NTQyMDYy)]]

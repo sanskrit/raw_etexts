@@ -1,11 +1,10 @@
 +++
-TITLE = "आनन्दगिरि टिका"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2524"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODIxMzc4NTE1NDkyMjQy"
 title = "आनन्दगिरि टिका"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2524"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODIxMzc4NTE1NDkyMjQy"
 
 +++
 [[आनन्दगिरि टिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODIxMzc4NTE1NDkyMjQy)]]

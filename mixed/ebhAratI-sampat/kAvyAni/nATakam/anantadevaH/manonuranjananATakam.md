@@ -1,17 +1,16 @@
 +++
-TITLE = "मनोनुरञ्जननाटकम्"
-AUTHOR = "अनन्तदेवः"
-PUBLISHER = "सुपिरिन्टेण्डेण्ट्-आफ्-अलहाबाद"
-"PUBLISH YEAR" = "1938"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "117"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मङ्गलदेवशास्त्री"
-PRINTER = "युरेका-प्रिन्टिंग्-प्रेस्"
-"SERIAL NO." = "Ebharati-5474"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIwODEwMTM0Mzg0NTI1&pageno=MjI0MjQyNjk5NTk="
 title = "मनोनुरञ्जननाटकम्"
+author = "अनन्तदेवः"
+publisher = "सुपिरिन्टेण्डेण्ट्-आफ्-अलहाबाद"
+"publish year" = "1938"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "117"
+language = "संस्कृतम्"
+editor = "मङ्गलदेवशास्त्री"
+printer = "युरेका-प्रिन्टिंग्-प्रेस्"
+"serial no." = "Ebharati-5474"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIwODEwMTM0Mzg0NTI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मनोनुरञ्जननाटकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODIwODEwMTM0Mzg0NTI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4084,19 +4083,6 @@ Sanskrit College, Benares.
 
 **![](../books_images/U-IMG-1728391842Screenshot2024-07-17202525.png)**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

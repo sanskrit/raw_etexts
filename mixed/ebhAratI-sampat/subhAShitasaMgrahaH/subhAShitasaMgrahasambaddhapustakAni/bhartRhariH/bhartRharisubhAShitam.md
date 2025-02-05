@@ -1,16 +1,15 @@
 +++
-TITLE = "भर्तृहरिसुभाषितम्"
-AUTHOR = "भर्तृहरिः"
-PUBLISHER = "विविल्ला-रामस्वामिशास्त्रि-आण्ड-सन्स्"
-"PUBLISH YEAR" = "1929"
-DOMAIN = "सुभाषितसंग्रहः"
-SUB-DOMAIN = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
-PAGES = "333"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "विविल्ला-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7164"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE3Nzg2&pageno=MjI0MjQyNjk5NTk="
 title = "भर्तृहरिसुभाषितम्"
+author = "भर्तृहरिः"
+publisher = "विविल्ला-रामस्वामिशास्त्रि-आण्ड-सन्स्"
+"publish year" = "1929"
+domain = "सुभाषितसंग्रहः"
+sub-domain = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
+pages = "333"
+language = "संस्कृतम्"
+printer = "विविल्ला-मुद्रणालयः"
+"serial no." = "Ebharati-7164"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE3Nzg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भर्तृहरिसुभाषितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE3Nzg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4514,8 +4513,5 @@ title = "भर्तृहरिसुभाषितम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

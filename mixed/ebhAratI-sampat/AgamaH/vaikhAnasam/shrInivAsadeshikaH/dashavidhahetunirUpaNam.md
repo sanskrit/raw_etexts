@@ -1,13 +1,12 @@
 +++
-TITLE = "दशविधहेतुनिरूपणम्"
-AUTHOR = "श्रीनिवासदेशिकः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "वैखानसम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4181"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzNjY1OTgyMDYzMTA0&pageno=MjI0MjQyNjk5NTk="
 title = "दशविधहेतुनिरूपणम्"
+author = "श्रीनिवासदेशिकः"
+domain = "आगमः"
+sub-domain = "वैखानसम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4181"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzNjY1OTgyMDYzMTA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दशविधहेतुनिरूपणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjgzNjY1OTgyMDYzMTA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4551,19 +4550,6 @@ title = "दशविधहेतुनिरूपणम्"
 ------------------  
 \\Z**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

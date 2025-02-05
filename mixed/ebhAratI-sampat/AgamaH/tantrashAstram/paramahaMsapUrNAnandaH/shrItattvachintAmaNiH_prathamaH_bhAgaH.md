@@ -1,17 +1,16 @@
 +++
-TITLE = "श्रीतत्त्वचिन्तामणिः (प्रथमः भागः)"
-AUTHOR = "परमहंसपूर्णानन्दः"
-PUBLISHER = "दिनेशचन्द्रगुहा"
-"PUBLISH YEAR" = "1936"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "763"
-EDITOR = "भुवनमनोहरसङ्ख्यातीर्थः चिन्तामनिभट्टाचार्यः"
-"PRIMARY COMMENTATOR" = "भुवनमनोहरसङ्ख्यातेर्थः"
-PRINTER = "दिनेशचन्द्रगुहा"
-"SERIAL NO." = "Ebharati-6057"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUwMDUzMDQyOTQ0MTg1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीतत्त्वचिन्तामणिः (प्रथमः भागः)"
+author = "परमहंसपूर्णानन्दः"
+publisher = "दिनेशचन्द्रगुहा"
+"publish year" = "1936"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "763"
+editor = "भुवनमनोहरसङ्ख्यातीर्थः चिन्तामनिभट्टाचार्यः"
+"primary commentator" = "भुवनमनोहरसङ्ख्यातेर्थः"
+printer = "दिनेशचन्द्रगुहा"
+"serial no." = "Ebharati-6057"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUwMDUzMDQyOTQ0MTg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीतत्त्वचिन्तामणिः (प्रथमः भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDUwMDUzMDQyOTQ0MTg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -24481,8 +24480,5 @@ the publication of this work.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

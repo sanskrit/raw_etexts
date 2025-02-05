@@ -1,14 +1,13 @@
 +++
-TITLE = "भारतीयदर्शनेषु प्रत्यक्षम्"
-PUBLISHER = "पूर्णप्रज्ञसंशोधनमन्दिरम् बेङ्गळूरु"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-PAGES = "84"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "कर्णाटकसंस्कृतविश्वविद्यालयः, बेङ्गलूरु"
-"SERIAL NO." = "Ebharati-693"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0ODk5NTkzNTI1NjY=&pageno=MjI0MjQyNjk5NTk="
 title = "भारतीयदर्शनेषु प्रत्यक्षम्"
+publisher = "पूर्णप्रज्ञसंशोधनमन्दिरम् बेङ्गळूरु"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+pages = "84"
+language = "संस्कृतम्"
+"books contributor" = "कर्णाटकसंस्कृतविश्वविद्यालयः, बेङ्गलूरु"
+"serial no." = "Ebharati-693"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0ODk5NTkzNTI1NjY=&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भारतीयदर्शनेषु प्रत्यक्षम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0ODk5NTkzNTI1NjY=&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1682,8 +1681,5 @@ The characteristic feature of what is truly "asat" is that it never figures in o
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ depot woes -9.84 delas Hong HAM SARAJENDRA BANSKA वाणी भजत गैर्वाणी LIBRARY FORT, BANGALORE BIT COLZ 392 NE  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,17 +1,16 @@
 +++
-TITLE = "बृहन्निघण्टुरत्नाकरः पञ्चमः भागः"
-AUTHOR = "माथुरदत्तरामः"
-PUBLISHER = "गङ्गाविष्णुः"
-"PUBLISH YEAR" = "सं..१९५४"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "889"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "माथुरदत्तरामः"
-PRINTER = "लक्ष्मीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-3427"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkxMDg3MjIxOTc5ODIz&pageno=MjI0MjQyNjk5NTk="
 title = "बृहन्निघण्टुरत्नाकरः पञ्चमः भागः"
+author = "माथुरदत्तरामः"
+publisher = "गङ्गाविष्णुः"
+"publish year" = "सं..१९५४"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "889"
+language = "संस्कृतम् हिन्दी"
+translator = "माथुरदत्तरामः"
+printer = "लक्ष्मीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-3427"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkxMDg3MjIxOTc5ODIz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बृहन्निघण्टुरत्नाकरः पञ्चमः भागः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDkxMDg3MjIxOTc5ODIz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -17936,19 +17935,6 @@ Pege no. १४६३ to १४६५ are missing from this Book.
 
 **पुस्तक मिलनेका ठिकाना-गंगाविष्णु श्रीकृष्णदास  
 " लक्ष्मीवेंकटेश्वर ” छापाखाना, कल्याण-मुंबई.**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

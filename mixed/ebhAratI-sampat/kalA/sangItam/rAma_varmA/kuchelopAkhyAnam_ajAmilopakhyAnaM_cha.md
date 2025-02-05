@@ -1,17 +1,16 @@
 +++
-TITLE = "कुचेलोपाख्यानम् अजामिलोपख्यानं च"
-AUTHOR = "राम वर्मा"
-PUBLISHER = "अनन्तशयन महामहिमश्रीचित्रावतारमहाराज"
-"PUBLISH YEAR" = "१९३२"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "44"
-LANGUAGE = "संस्कृतम्/आङ्ग्लम्"
-EDITOR = "साम्बशिव शास्त्रि"
-PRINTER = "राजकीयमुद्रणयन्त्रालय कोलम्बा"
-"SERIAL NO." = "Ebharati-4656"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM4NjE3NDA1ODU5NjQ0&pageno=MjI0MjQyNjk5NTk="
 title = "कुचेलोपाख्यानम् अजामिलोपख्यानं च"
+author = "राम वर्मा"
+publisher = "अनन्तशयन महामहिमश्रीचित्रावतारमहाराज"
+"publish year" = "१९३२"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "44"
+language = "संस्कृतम्/आङ्ग्लम्"
+editor = "साम्बशिव शास्त्रि"
+printer = "राजकीयमुद्रणयन्त्रालय कोलम्बा"
+"serial no." = "Ebharati-4656"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM4NjE3NDA1ODU5NjQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कुचेलोपाख्यानम् अजामिलोपख्यानं च	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjM4NjE3NDA1ODU5NjQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -565,8 +564,5 @@ Trivandrum.
 
 ----------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

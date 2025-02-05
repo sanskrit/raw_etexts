@@ -1,16 +1,15 @@
 +++
-TITLE = "पुष्पबाण-विलास-काव्यम्"
-AUTHOR = "कालिदासः"
-"PUBLISH YEAR" = "1874"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "58"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गीवानन्द्-विद्यासागर-भट्ट्ः"
-PRINTER = "काव्यप्रकाशयन्त्रालये"
-"SERIAL NO." = "Ebharati-8726"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjczNDczMTEyMzY2NzM4&pageno=MjI0MjQyNjk5NTk="
 title = "पुष्पबाण-विलास-काव्यम्"
+author = "कालिदासः"
+"publish year" = "1874"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "58"
+language = "संस्कृतम्"
+editor = "गीवानन्द्-विद्यासागर-भट्ट्ः"
+printer = "काव्यप्रकाशयन्त्रालये"
+"serial no." = "Ebharati-8726"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjczNDczMTEyMzY2NzM4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पुष्पबाण-विलास-काव्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjczNDczMTEyMzY2NzM4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -445,8 +444,5 @@ title = "पुष्पबाण-विलास-काव्यम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,17 +1,16 @@
 +++
-TITLE = "मोहराजपराजयम्"
-AUTHOR = "यशपालः"
-PUBLISHER = "जनार्धनसखारामकूदल्करः"
-"PUBLISH YEAR" = "1918"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "179"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मुनिचतुरविजयः"
-PRINTER = "गुजराती-प्रिन्टिंग-प्रेस्"
-"SERIAL NO." = "Ebharati-5476"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc4MjA1MzI0NTc2NTI1&pageno=MjI0MjQyNjk5NTk="
 title = "मोहराजपराजयम्"
+author = "यशपालः"
+publisher = "जनार्धनसखारामकूदल्करः"
+"publish year" = "1918"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "179"
+language = "संस्कृतम्"
+editor = "मुनिचतुरविजयः"
+printer = "गुजराती-प्रिन्टिंग-प्रेस्"
+"serial no." = "Ebharati-5476"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc4MjA1MzI0NTc2NTI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मोहराजपराजयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc4MjA1MzI0NTc2NTI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6126,19 +6125,6 @@ OCCURRING IN THE MOHAPARÂJAYA.**
 
 [TABLE]
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

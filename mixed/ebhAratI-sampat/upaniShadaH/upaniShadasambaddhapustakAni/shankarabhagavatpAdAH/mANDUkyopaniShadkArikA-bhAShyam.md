@@ -1,12 +1,11 @@
 +++
-TITLE = "माण्डूक्योपनिषद्कारिका-भाष्यम्"
-AUTHOR = "शङ्करभगवत्पादाः"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2703"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY2NjYyMzQ4Nzc0OTUy"
 title = "माण्डूक्योपनिषद्कारिका-भाष्यम्"
+author = "शङ्करभगवत्पादाः"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2703"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY2NjYyMzQ4Nzc0OTUy"
 
 +++
 [[माण्डूक्योपनिषद्कारिका-भाष्यम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjY2NjYyMzQ4Nzc0OTUy)]]

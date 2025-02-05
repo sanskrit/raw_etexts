@@ -1,17 +1,16 @@
 +++
-TITLE = "गोभिलीयं"
-AUTHOR = "गोभिलाचार्यः"
-"PUBLISH YEAR" = "1908"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "462"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "चन्द्रकान्त-तर्कालङ्करभट्टाचार्यः"
-"PRIMARY COMMENTATOR" = "चन्द्रकान्त-तर्कालङ्करभट्टाचार्यः"
-PRINTER = "वाप्तिष्टमिशन्-प्रेस्-कलकत्ता"
-"SERIAL NO." = "Ebharati-7419"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE4ODI1MjIxNjkxMjE3&pageno=MjI0MjQyNjk5NTk="
 title = "गोभिलीयं"
+author = "गोभिलाचार्यः"
+"publish year" = "1908"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "462"
+language = "संस्कृतम्"
+editor = "चन्द्रकान्त-तर्कालङ्करभट्टाचार्यः"
+"primary commentator" = "चन्द्रकान्त-तर्कालङ्करभट्टाचार्यः"
+printer = "वाप्तिष्टमिशन्-प्रेस्-कलकत्ता"
+"serial no." = "Ebharati-7419"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE4ODI1MjIxNjkxMjE3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गोभिलीयं	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODE4ODI1MjIxNjkxMjE3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7439,8 +7438,5 @@ title = "गोभिलीयं"
 
 ॥समाप्तश्चायं द्वितीयः प्रपाठकः॥
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

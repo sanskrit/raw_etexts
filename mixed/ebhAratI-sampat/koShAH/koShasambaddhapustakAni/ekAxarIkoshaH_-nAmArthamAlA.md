@@ -1,12 +1,11 @@
 +++
-TITLE = "एकाक्षरीकोशः -नामार्थमाला"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "कोषसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3134"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1MDU3MzIyMjU4MDAz&pageno=MjI0MjQyNjk5NTk="
 title = "एकाक्षरीकोशः -नामार्थमाला"
+domain = "कोषाः"
+sub-domain = "कोषसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3134"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1MDU3MzIyMjU4MDAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[एकाक्षरीकोशः -नामार्थमाला	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1MDU3MzIyMjU4MDAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -193,8 +192,5 @@ title = "एकाक्षरीकोशः -नामार्थमाला
 ------------------------------------------------------------  
 \[1\]  किं स्यादिति न ज्ञायते।
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

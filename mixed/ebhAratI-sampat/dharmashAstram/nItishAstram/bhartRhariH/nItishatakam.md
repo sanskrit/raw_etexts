@@ -1,15 +1,14 @@
 +++
-TITLE = "नीतिशतकम्"
-AUTHOR = "भर्तृहरिः"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "93"
-LANGUAGE = "संस्कृतम् हिन्दी"
-EDITOR = "अनन्तरामशास्त्री-वेतालः"
-"COMMENTARY NAME" = "ललिता-बाला"
-"SERIAL NO." = "Ebharati-6458"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcyMTY1MzM3MzQ5OTE2&pageno=MjI0MjQyNjk5NTk="
 title = "नीतिशतकम्"
+author = "भर्तृहरिः"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "93"
+language = "संस्कृतम् हिन्दी"
+editor = "अनन्तरामशास्त्री-वेतालः"
+"commentary name" = "ललिता-बाला"
+"serial no." = "Ebharati-6458"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcyMTY1MzM3MzQ5OTE2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नीतिशतकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjcyMTY1MzM3MzQ5OTE2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1945,8 +1944,5 @@ _() **भाषा–** संसार के कष्ट को हरने�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

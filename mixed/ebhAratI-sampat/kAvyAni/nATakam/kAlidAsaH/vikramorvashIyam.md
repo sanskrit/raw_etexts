@@ -1,17 +1,16 @@
 +++
-TITLE = "विक्रमोर्वशीयम्"
-AUTHOR = "कालिदासः"
-PUBLISHER = "स्टिफेन्-औस्टिन्"
-"PUBLISH YEAR" = "1849"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "84"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मोनियर-विल्लियम्"
-PRINTER = "स्टिफेन्-औस्टिन्"
-"SERIAL NO." = "Ebharati-5619"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEyOTYxNjg4MjA0OTM1&pageno=MjI0MjQyNjk5NTk="
 title = "विक्रमोर्वशीयम्"
+author = "कालिदासः"
+publisher = "स्टिफेन्-औस्टिन्"
+"publish year" = "1849"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "84"
+language = "संस्कृतम्"
+editor = "मोनियर-विल्लियम्"
+printer = "स्टिफेन्-औस्टिन्"
+"serial no." = "Ebharati-5619"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEyOTYxNjg4MjA0OTM1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विक्रमोर्वशीयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODEyOTYxNjg4MjA0OTM1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2380,19 +2379,6 @@ EAST-INDIA COLLEGE, JUNE, 1849.
 
 **॥ समाप्तोऽयं ग्रन्थः ॥**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

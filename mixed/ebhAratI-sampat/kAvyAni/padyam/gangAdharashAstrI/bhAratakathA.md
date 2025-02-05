@@ -1,15 +1,14 @@
 +++
-TITLE = "भारतकथा"
-AUTHOR = "गङ्गाधरशास्त्री"
-PUBLISHER = "मोतिलाल-बनारसीदासः"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "122"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "जगन्नाथशास्त्री"
-"SERIAL NO." = "Ebharati-5792"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIyODAxNjMyMDEwNjU1&pageno=MjI0MjQyNjk5NTk="
 title = "भारतकथा"
+author = "गङ्गाधरशास्त्री"
+publisher = "मोतिलाल-बनारसीदासः"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "122"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "जगन्नाथशास्त्री"
+"serial no." = "Ebharati-5792"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIyODAxNjMyMDEwNjU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भारतकथा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDIyODAxNjMyMDEwNjU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2211,19 +2210,6 @@ title = "भारतकथा"
 
 **—————**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

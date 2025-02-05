@@ -1,14 +1,13 @@
 +++
-TITLE = "समग्रचूडामणिः"
-AUTHOR = "गोविन्दः"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "549"
-LANGUAGE = "संस्कृतम्/आङ्ग्लम्"
-EDITOR = "सुब्रमन्य शास्त्रि"
-"SERIAL NO." = "Ebharati-4680"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY5NDM1NDE0MjYyOTQ0&pageno=MjI0MjQyNjk5NTk="
 title = "समग्रचूडामणिः"
+author = "गोविन्दः"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "549"
+language = "संस्कृतम्/आङ्ग्लम्"
+editor = "सुब्रमन्य शास्त्रि"
+"serial no." = "Ebharati-4680"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY5NDM1NDE0MjYyOTQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[समग्रचूडामणिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDY5NDM1NDE0MjYyOTQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4192,19 +4191,6 @@ P.T.O.
 Op
 
 ----------
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

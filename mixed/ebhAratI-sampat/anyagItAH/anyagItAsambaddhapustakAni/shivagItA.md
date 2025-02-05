@@ -1,17 +1,16 @@
 +++
-TITLE = "शिवगीता"
-PUBLISHER = "पाण्डुरङ्गजावजी"
-"PUBLISH YEAR" = "1929"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-PAGES = "177"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वासुदेवशर्मा"
-"PRIMARY COMMENTATOR" = "बालानन्दिनी"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6690"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgxMzA4MTY4NDEyMjQ2&pageno=MjI0MjQyNjk5NTk="
 title = "शिवगीता"
+publisher = "पाण्डुरङ्गजावजी"
+"publish year" = "1929"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+pages = "177"
+language = "संस्कृतम्"
+editor = "वासुदेवशर्मा"
+"primary commentator" = "बालानन्दिनी"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-6690"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgxMzA4MTY4NDEyMjQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शिवगीता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDgxMzA4MTY4NDEyMjQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3988,8 +3987,5 @@ title = "शिवगीता"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

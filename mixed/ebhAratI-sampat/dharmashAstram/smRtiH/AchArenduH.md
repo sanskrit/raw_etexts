@@ -1,15 +1,14 @@
 +++
-TITLE = "आचारेन्दुः"
-PUBLISHER = "हरि नारायण आपटे"
-"PUBLISH YEAR" = "1909"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "416"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "आनन्दाश्रममुद्रणालयः"
-"SERIAL NO." = "Ebharati-4887"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEzNjE3NjM2MzMxOTY0&pageno=MjI0MjQyNjk5NTk="
 title = "आचारेन्दुः"
+publisher = "हरि नारायण आपटे"
+"publish year" = "1909"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "416"
+language = "संस्कृतम्"
+printer = "आनन्दाश्रममुद्रणालयः"
+"serial no." = "Ebharati-4887"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEzNjE3NjM2MzMxOTY0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आचारेन्दुः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDEzNjE3NjM2MzMxOTY0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -16443,8 +16442,5 @@ UNIVERSAL LIBRARY
 
 **************************************************************************************************************************
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

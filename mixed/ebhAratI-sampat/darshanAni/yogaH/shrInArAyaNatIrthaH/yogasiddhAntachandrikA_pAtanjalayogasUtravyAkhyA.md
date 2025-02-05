@@ -1,17 +1,16 @@
 +++
-TITLE = "योगसिद्धान्तचन्द्रिका (पातञ्जलयोगसूत्रव्याख्या)"
-AUTHOR = "श्रीनारायणतीर्थः"
-PUBLISHER = "चौखाम्बासंस्कृतपुस्तकालयः"
-"PUBLISH YEAR" = "२०००"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "274"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "विमला-कर्नाटक"
-PRINTER = "चौखाम्बा-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1658"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2NTM5OTY3MTYxOTUx&pageno=MjI0MjQyNjk5NTk="
 title = "योगसिद्धान्तचन्द्रिका (पातञ्जलयोगसूत्रव्याख्या)"
+author = "श्रीनारायणतीर्थः"
+publisher = "चौखाम्बासंस्कृतपुस्तकालयः"
+"publish year" = "२०००"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "274"
+language = "संस्कृतम्"
+editor = "विमला-कर्नाटक"
+printer = "चौखाम्बा-मुद्रणालयः"
+"serial no." = "Ebharati-1658"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2NTM5OTY3MTYxOTUx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[योगसिद्धान्तचन्द्रिका (पातञ्जलयोगसूत्रव्याख्या)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njc2NTM5OTY3MTYxOTUx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6620,19 +6619,6 @@ title = "योगसिद्धान्तचन्द्रिका (पा
 
 प्राप्तिस्थानम्--चौखम्बा संस्कृत सीरीज आफिस पो० वा० १००८, वाराणसी
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

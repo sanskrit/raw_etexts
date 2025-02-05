@@ -1,17 +1,16 @@
 +++
-TITLE = "Raghu Vira Kosha Alphabet C"
-AUTHOR = "Raghu Vira"
-PUBLISHER = "International academy of indian culture New delhi"
-"PUBLISH YEAR" = "1976"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "रघुवीरकोशः"
-PAGES = "194"
-LANGUAGE = "English-Hindi"
-"BOOKS CONTRIBUTOR" = "डा. शशिबाला"
-PRINTER = "Jayyed Press Delhi6"
-"SERIAL NO." = "Ebharati-5244"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MDYyNTkyNDA0MzA1&pageno=MjI0MjQyNjk5NTk="
 title = "Raghu Vira Kosha Alphabet C"
+author = "Raghu Vira"
+publisher = "International academy of indian culture New delhi"
+"publish year" = "1976"
+domain = "कोषाः"
+sub-domain = "रघुवीरकोशः"
+pages = "194"
+language = "English-Hindi"
+"books contributor" = "डा. शशिबाला"
+printer = "Jayyed Press Delhi6"
+"serial no." = "Ebharati-5244"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MDYyNTkyNDA0MzA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[Raghu Vira Kosha Alphabet C	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MDYyNTkyNDA0MzA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -43498,8 +43497,5 @@ Czaplewski's bacillus** (it stains deeply at the poles, and is known as pole bac
 
 **दण्डाणु**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

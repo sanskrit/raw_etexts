@@ -1,17 +1,16 @@
 +++
-TITLE = "लघुजातकम्"
-AUTHOR = "वराहमिहिरः"
-"PUBLISH YEAR" = "1882"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "126"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "श्रीवासुदेवः"
-"PRIMARY COMMENTATOR" = "भट्टोत्पलः"
-PRINTER = "ठाकुर प्रसाद पुस्तक मन्दिर हङ्हा सराय वाराणसि-1"
-"SERIAL NO." = "Ebharati-4896"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjExODk4MjA2Nzk5OTY0&pageno=MjI0MjQyNjk5NTk="
 title = "लघुजातकम्"
+author = "वराहमिहिरः"
+"publish year" = "1882"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "126"
+language = "संस्कृतम्"
+editor = "श्रीवासुदेवः"
+"primary commentator" = "भट्टोत्पलः"
+printer = "ठाकुर प्रसाद पुस्तक मन्दिर हङ्हा सराय वाराणसि-1"
+"serial no." = "Ebharati-4896"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjExODk4MjA2Nzk5OTY0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लघुजातकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjExODk4MjA2Nzk5OTY0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2578,8 +2577,5 @@ title = "लघुजातकम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

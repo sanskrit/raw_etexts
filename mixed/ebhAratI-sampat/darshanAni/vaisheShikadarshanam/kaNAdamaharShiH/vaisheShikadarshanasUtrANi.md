@@ -1,13 +1,12 @@
 +++
-TITLE = "वैशेषिकदर्शनसूत्राणि"
-AUTHOR = "कणादमहर्षिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "वैशेषिकदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3888"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjM3NjM1MDkzMzMyMzcz"
 title = "वैशेषिकदर्शनसूत्राणि"
+author = "कणादमहर्षिः"
+domain = "दर्शनानि"
+sub-domain = "वैशेषिकदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3888"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjM3NjM1MDkzMzMyMzcz"
 
 +++
 [[वैशेषिकदर्शनसूत्राणि	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjM3NjM1MDkzMzMyMzcz)]]

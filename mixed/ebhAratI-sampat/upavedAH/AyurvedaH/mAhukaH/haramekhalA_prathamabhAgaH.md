@@ -1,17 +1,16 @@
 +++
-TITLE = "हरमेखला (प्रथमभागः)"
-AUTHOR = "माहुकः"
-PUBLISHER = "श्रीचित्रावतारमहाराजः"
-"PUBLISH YEAR" = "१९३६"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "180"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "के साम्बशिवशास्त्री"
-PRINTER = "राजकीय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-3448"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMTc4MzQwNTk5MDMz&pageno=MjI0MjQyNjk5NTk="
 title = "हरमेखला (प्रथमभागः)"
+author = "माहुकः"
+publisher = "श्रीचित्रावतारमहाराजः"
+"publish year" = "१९३६"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "180"
+language = "संस्कृतम्"
+editor = "के साम्बशिवशास्त्री"
+printer = "राजकीय-मुद्रणालयः"
+"serial no." = "Ebharati-3448"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMTc4MzQwNTk5MDMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हरमेखला (प्रथमभागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMTc4MzQwNTk5MDMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6390,19 +6389,6 @@ Trivandrum.
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

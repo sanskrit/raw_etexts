@@ -1,15 +1,14 @@
 +++
-TITLE = "श्रीमहाराणाप्रतापसिंहचरितम्"
-AUTHOR = "श्रीपादशास्त्रिः"
-PUBLISHER = "गोपालहसुर्कर्"
-"PUBLISH YEAR" = "1920"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "गद्यम्"
-PAGES = "210"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-5346"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEwODg5MTE5NTkxMzE1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमहाराणाप्रतापसिंहचरितम्"
+author = "श्रीपादशास्त्रिः"
+publisher = "गोपालहसुर्कर्"
+"publish year" = "1920"
+domain = "काव्यानि"
+sub-domain = "गद्यम्"
+pages = "210"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-5346"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEwODg5MTE5NTkxMzE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमहाराणाप्रतापसिंहचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjEwODg5MTE5NTkxMzE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2192,19 +2191,6 @@ title = "श्रीमहाराणाप्रतापसिंहचर�
 
 ![](../books_images/U-IMG-1721619803Screenshot2024-07-22091255.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

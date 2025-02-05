@@ -1,15 +1,14 @@
 +++
-TITLE = "ब्रह्मसूत्रम् (द्वितीयो भागः)"
-AUTHOR = "शिवानन्दः"
-PUBLISHER = "शिवानन्द-पब्लिकेशन्"
-"PUBLISH YEAR" = "1949"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतदर्शनम्"
-PAGES = "465"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-"SERIAL NO." = "Ebharati-8874"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI4MjUyNTU2MDc4MTU4&pageno=MjI0MjQyNjk5NTk="
 title = "ब्रह्मसूत्रम् (द्वितीयो भागः)"
+author = "शिवानन्दः"
+publisher = "शिवानन्द-पब्लिकेशन्"
+"publish year" = "1949"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतदर्शनम्"
+pages = "465"
+language = "संस्कृतम् आङ्ग्लम्"
+"serial no." = "Ebharati-8874"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI4MjUyNTU2MDc4MTU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ब्रह्मसूत्रम् (द्वितीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODI4MjUyNTU2MDc4MTU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8441,19 +8440,6 @@ Sivanandaji as well as other eminent writers on the practical aspect of religion
 ***1.5. 49.***                            
                      The Divine Life Society.
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

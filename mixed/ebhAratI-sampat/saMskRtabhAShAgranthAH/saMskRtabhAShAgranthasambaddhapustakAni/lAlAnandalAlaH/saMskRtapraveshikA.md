@@ -1,14 +1,13 @@
 +++
-TITLE = "संस्कृतप्रवेशिका"
-AUTHOR = "लालानन्दलालः"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "55"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "काङ्गड़ीगुरुकुल-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6991"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTAxMTc2&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृतप्रवेशिका"
+author = "लालानन्दलालः"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "55"
+language = "संस्कृतम्"
+printer = "काङ्गड़ीगुरुकुल-यन्त्रालयः"
+"serial no." = "Ebharati-6991"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTAxMTc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृतप्रवेशिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTAxMTc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -999,19 +998,6 @@ title = "संस्कृतप्रवेशिका"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

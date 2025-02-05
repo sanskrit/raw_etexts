@@ -1,13 +1,12 @@
 +++
-TITLE = "पातञ्जलदर्शनम्"
-AUTHOR = "पतञ्जलिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3852"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDQ1OTA4NTI1Nzc3OTYz"
 title = "पातञ्जलदर्शनम्"
+author = "पतञ्जलिः"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3852"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDQ1OTA4NTI1Nzc3OTYz"
 
 +++
 [[पातञ्जलदर्शनम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDQ1OTA4NTI1Nzc3OTYz)]]

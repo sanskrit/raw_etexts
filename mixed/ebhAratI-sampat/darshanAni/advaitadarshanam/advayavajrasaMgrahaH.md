@@ -1,15 +1,14 @@
 +++
-TITLE = "अद्वयवज्रसंग्रहः"
-PUBLISHER = "बेनोयतोष-भट्टाचार्यः"
-"PUBLISH YEAR" = "1927"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतदर्शनम्"
-PAGES = "114"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "बैप्टिस्टमिशन-प्रेस्"
-"SERIAL NO." = "Ebharati-8607"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUxNjI1ODU2OTMyNjI4&pageno=MjI0MjQyNjk5NTk="
 title = "अद्वयवज्रसंग्रहः"
+publisher = "बेनोयतोष-भट्टाचार्यः"
+"publish year" = "1927"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतदर्शनम्"
+pages = "114"
+language = "संस्कृतम्"
+printer = "बैप्टिस्टमिशन-प्रेस्"
+"serial no." = "Ebharati-8607"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUxNjI1ODU2OTMyNjI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अद्वयवज्रसंग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDUxNjI1ODU2OTMyNjI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2295,8 +2294,5 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

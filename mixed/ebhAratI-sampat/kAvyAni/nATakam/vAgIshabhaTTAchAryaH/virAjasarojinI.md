@@ -1,14 +1,13 @@
 +++
-TITLE = "विराजसरोजिनी"
-AUTHOR = "वागीशभट्टाचार्यः"
-PUBLISHER = "हरिचरणरायः"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "102"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-5634"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1NTA4OTI4MjQ4MDQ1&pageno=MjI0MjQyNjk5NTk="
 title = "विराजसरोजिनी"
+author = "वागीशभट्टाचार्यः"
+publisher = "हरिचरणरायः"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "102"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-5634"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1NTA4OTI4MjQ4MDQ1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विराजसरोजिनी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1NTA4OTI4MjQ4MDQ1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2678,19 +2677,6 @@ title = "विराजसरोजिनी"
 
 **শ্রীলক্ষ্মীকান্ত ভট্টাচাৰ্য্য।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

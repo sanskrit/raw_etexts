@@ -1,12 +1,11 @@
 +++
-TITLE = "शार्ङ्गधरसंहिता"
-AUTHOR = "शार्ङ्गधरः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2517"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDcxNjcxMjQ1MjI2MTQy"
 title = "शार्ङ्गधरसंहिता"
+author = "शार्ङ्गधरः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2517"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDcxNjcxMjQ1MjI2MTQy"
 
 +++
 [[शार्ङ्गधरसंहिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDcxNjcxMjQ1MjI2MTQy)]]

@@ -1,13 +1,12 @@
 +++
-TITLE = "जैमीनीयगृह्यसूत्रम्"
-AUTHOR = "जैमिनी"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3055"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEyOTk1MDI1ODYyMzky&pageno=MjI0MjQyNjk5NTk="
 title = "जैमीनीयगृह्यसूत्रम्"
+author = "जैमिनी"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3055"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEyOTk1MDI1ODYyMzky&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जैमीनीयगृह्यसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDEyOTk1MDI1ODYyMzky&pageno=MjI0MjQyNjk5NTk=)]]
@@ -352,19 +351,6 @@ title = "जैमीनीयगृह्यसूत्रम्"
 
 
   
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

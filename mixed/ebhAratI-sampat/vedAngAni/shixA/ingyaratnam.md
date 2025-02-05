@@ -1,12 +1,11 @@
 +++
-TITLE = "इङ्ग्यरत्नम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3524"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIxNTkyODU3MDkyODMz&pageno=MjI0MjQyNjk5NTk="
 title = "इङ्ग्यरत्नम्"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3524"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIxNTkyODU3MDkyODMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[इङ्ग्यरत्नम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODIxNTkyODU3MDkyODMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -125,8 +124,5 @@ ingya_ratnam
 ततोऽन्यानि त्वनिङ्ग्यानि बोद्धव्यानि सुधीमताम् ५३  
                  इति इङ्ग्यरत्नं समाप्तम्
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

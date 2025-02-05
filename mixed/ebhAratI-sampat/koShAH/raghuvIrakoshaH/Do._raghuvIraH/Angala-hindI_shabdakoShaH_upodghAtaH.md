@@ -1,16 +1,15 @@
 +++
-TITLE = "आङ्गल-हिन्दी शब्दकोषः उपोद्घातः"
-AUTHOR = "डो. रघुवीरः"
-PUBLISHER = "International Academy of Indian culture New Delhi 16"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "रघुवीरकोशः"
-PAGES = "190"
-LANGUAGE = "आङ्गल-हिन्दी"
-"BOOKS CONTRIBUTOR" = "डा. शशिबाला"
-PRINTER = "Jayyed Press Delhi"
-"SERIAL NO." = "Ebharati-7555"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEyODk0MTE2MTUyNTI3&pageno=MjI0MjQyNjk5NTk="
 title = "आङ्गल-हिन्दी शब्दकोषः उपोद्घातः"
+author = "डो. रघुवीरः"
+publisher = "International Academy of Indian culture New Delhi 16"
+domain = "कोषाः"
+sub-domain = "रघुवीरकोशः"
+pages = "190"
+language = "आङ्गल-हिन्दी"
+"books contributor" = "डा. शशिबाला"
+printer = "Jayyed Press Delhi"
+"serial no." = "Ebharati-7555"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEyODk0MTE2MTUyNTI3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आङ्गल-हिन्दी शब्दकोषः उपोद्घातः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDEyODk0MTE2MTUyNTI3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7056,19 +7055,6 @@ Zimmer—A Popular Dictionary of Botanical Names and Terms, by G. F. Zimmer,**
 
 
 **A-Z**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

@@ -1,12 +1,11 @@
 +++
-TITLE = "उत्तररामचरितम्"
-AUTHOR = "भवभूतिः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2878"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjE1MDk2NTgxNzcyNjcy"
 title = "उत्तररामचरितम्"
+author = "भवभूतिः"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2878"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjE1MDk2NTgxNzcyNjcy"
 
 +++
 [[उत्तररामचरितम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjE1MDk2NTgxNzcyNjcy)]]

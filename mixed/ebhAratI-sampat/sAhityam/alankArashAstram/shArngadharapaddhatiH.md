@@ -1,12 +1,11 @@
 +++
-TITLE = "शार्ङ्गधरपद्धतिः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "762"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-7834"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ5MzMxMzY1NDMwMjU3&pageno=MjI0MjQyNjk5NTk="
 title = "शार्ङ्गधरपद्धतिः"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "762"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-7834"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ5MzMxMzY1NDMwMjU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शार्ङ्गधरपद्धतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ5MzMxMzY1NDMwMjU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11720,8 +11719,5 @@ title = "शार्ङ्गधरपद्धतिः"
 पुच्छे जानुनि कक्षायां मेढ्रेगुह्ये हनौ हृदि।  
 भ्रूदेशे नेत्रपरितः कर्णग्रीवादयस्तथा॥६७॥
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

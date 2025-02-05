@@ -1,17 +1,16 @@
 +++
-TITLE = "श्रीलघुभागवतामृतम्"
-PUBLISHER = "खेमराजश्रीकृष्णदासः"
-"PUBLISH YEAR" = "1902"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "287"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "बलदेव-प्रसादः"
-EDITOR = "ज्वाला-प्रसाद-मिश्र"
-PRINTER = "श्रीवेंकटेश्वर-स्टीं-प्रेस्"
-"SERIAL NO." = "Ebharati-6787"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDExODEzNzk0NjI1MTU2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीलघुभागवतामृतम्"
+publisher = "खेमराजश्रीकृष्णदासः"
+"publish year" = "1902"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "287"
+language = "संस्कृतम् हिन्दी"
+translator = "बलदेव-प्रसादः"
+editor = "ज्वाला-प्रसाद-मिश्र"
+printer = "श्रीवेंकटेश्वर-स्टीं-प्रेस्"
+"serial no." = "Ebharati-6787"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDExODEzNzk0NjI1MTU2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीलघुभागवतामृतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDExODEzNzk0NjI1MTU2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7199,8 +7198,5 @@ title = "श्रीलघुभागवतामृतम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

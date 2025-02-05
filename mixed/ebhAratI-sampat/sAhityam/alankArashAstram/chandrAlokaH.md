@@ -1,16 +1,15 @@
 +++
-TITLE = "चन्द्रालोकः"
-PUBLISHER = "वाविळ्ळ रामस्वामिशास्त्रुलुअण्ड् सन्स्."
-"PUBLISH YEAR" = "1940"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "105"
-LANGUAGE = "संस्कृतम्"
-"COMMENTARY NAME" = "श्रीबुधरञ्जनी"
-PRINTER = "वि.वेङ्कटेश्वरशास्त्रुलु"
-"SERIAL NO." = "Ebharati-7880"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYzNTgyMDkzMDU0NjU3&pageno=MjI0MjQyNjk5NTk="
 title = "चन्द्रालोकः"
+publisher = "वाविळ्ळ रामस्वामिशास्त्रुलुअण्ड् सन्स्."
+"publish year" = "1940"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "105"
+language = "संस्कृतम्"
+"commentary name" = "श्रीबुधरञ्जनी"
+printer = "वि.वेङ्कटेश्वरशास्त्रुलु"
+"serial no." = "Ebharati-7880"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYzNTgyMDkzMDU0NjU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चन्द्रालोकः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDYzNTgyMDkzMDU0NjU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1748,8 +1747,5 @@ Ramaswamy Sastrulu & Sons, at the Vavilla' Press, Madras.-1940
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

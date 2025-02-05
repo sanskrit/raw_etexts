@@ -1,12 +1,11 @@
 +++
-TITLE = "अभिज्ञानशाकुन्तलम्-मूलम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2781"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg1NTcxMDU1NTY5NjYy&pageno=MjI0MjQyNjk5NTk="
 title = "अभिज्ञानशाकुन्तलम्-मूलम्"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2781"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg1NTcxMDU1NTY5NjYy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अभिज्ञानशाकुन्तलम्-मूलम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjg1NTcxMDU1NTY5NjYy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3249,8 +3248,5 @@ title = "अभिज्ञानशाकुन्तलम्-मूलम्"
 \\Z  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,17 +1,16 @@
 +++
-TITLE = "रसतरङ्गिणी"
-AUTHOR = "भानुमिश्रः"
-PUBLISHER = "खेमराजश्रीकृष्णदासः"
-"PUBLISH YEAR" = "1914"
-DOMAIN = "कला"
-SUB-DOMAIN = "नाट्यम्"
-PAGES = "188"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "जीवनाथ-ओझा"
-PRINTER = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5912"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY4ODkxNTg3OTI1NzY1&pageno=MjI0MjQyNjk5NTk="
 title = "रसतरङ्गिणी"
+author = "भानुमिश्रः"
+publisher = "खेमराजश्रीकृष्णदासः"
+"publish year" = "1914"
+domain = "कला"
+sub-domain = "नाट्यम्"
+pages = "188"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "जीवनाथ-ओझा"
+printer = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-5912"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY4ODkxNTg3OTI1NzY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रसतरङ्गिणी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDY4ODkxNTg3OTI1NzY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2737,19 +2736,6 @@ title = "रसतरङ्गिणी"
 
 **“श्रीवेंकटेश्वर" स्टीम् प्रेस-बम्बई.**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

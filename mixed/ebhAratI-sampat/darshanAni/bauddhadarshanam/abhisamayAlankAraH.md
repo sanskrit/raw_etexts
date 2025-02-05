@@ -1,12 +1,11 @@
 +++
-TITLE = "अभिसमयालङ्कारः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3627"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk1NDYyMTczODcxODQz"
 title = "अभिसमयालङ्कारः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3627"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk1NDYyMTczODcxODQz"
 
 +++
 [[अभिसमयालङ्कारः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDk1NDYyMTczODcxODQz)]]

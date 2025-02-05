@@ -1,16 +1,15 @@
 +++
-TITLE = "महाभारतम् (आदिपर्वणि द्वितीयोभागः)"
-PUBLISHER = "वि. रामस्वामि शास्त्रुलु एण्ड् सन्स्"
-"PUBLISH YEAR" = "1931"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "महाभारतम्"
-PAGES = "626"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पि.पि.सुब्रह्मण्यशास्त्री"
-PRINTER = "वाविळ्ळ मुद्रणालयम् चेन्नपुरी"
-"SERIAL NO." = "Ebharati-6074"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyMTc0NjcxMTgwMzg1&pageno=MjI0MjQyNjk5NTk="
 title = "महाभारतम् (आदिपर्वणि द्वितीयोभागः)"
+publisher = "वि. रामस्वामि शास्त्रुलु एण्ड् सन्स्"
+"publish year" = "1931"
+domain = "इतिहासः"
+sub-domain = "महाभारतम्"
+pages = "626"
+language = "संस्कृतम्"
+editor = "पि.पि.सुब्रह्मण्यशास्त्री"
+printer = "वाविळ्ळ मुद्रणालयम् चेन्नपुरी"
+"serial no." = "Ebharati-6074"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyMTc0NjcxMTgwMzg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[महाभारतम् (आदिपर्वणि द्वितीयोभागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODIyMTc0NjcxMTgwMzg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -17005,8 +17004,5 @@ MADRAS.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

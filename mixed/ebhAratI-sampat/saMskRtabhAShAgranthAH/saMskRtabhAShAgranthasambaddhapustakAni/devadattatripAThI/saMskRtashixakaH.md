@@ -1,16 +1,15 @@
 +++
-TITLE = "संस्कृतशिक्षकः"
-AUTHOR = "देवदत्तत्रिपाठी"
-PUBLISHER = "रघुवीरशरणदुबलिसः"
-"PUBLISH YEAR" = "1917"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "113"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "भास्कर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7020"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0MjA4MTI2Mzk4Mzc2&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृतशिक्षकः"
+author = "देवदत्तत्रिपाठी"
+publisher = "रघुवीरशरणदुबलिसः"
+"publish year" = "1917"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "113"
+language = "संस्कृतम् हिन्दी"
+printer = "भास्कर-यन्त्रालयः"
+"serial no." = "Ebharati-7020"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0MjA4MTI2Mzk4Mzc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृतशिक्षकः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0MjA4MTI2Mzk4Mzc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2180,19 +2179,6 @@ title = "संस्कृतशिक्षकः"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

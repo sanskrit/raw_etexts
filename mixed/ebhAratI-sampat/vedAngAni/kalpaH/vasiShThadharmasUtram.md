@@ -1,12 +1,11 @@
 +++
-TITLE = "वसिष्ठधर्मसूत्रम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3614"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODAxMzExMDI0MDM5NjQz"
 title = "वसिष्ठधर्मसूत्रम्"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3614"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODAxMzExMDI0MDM5NjQz"
 
 +++
 [[वसिष्ठधर्मसूत्रम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODAxMzExMDI0MDM5NjQz)]]

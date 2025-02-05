@@ -1,12 +1,11 @@
 +++
-TITLE = "शैशिरीयशिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3960"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIxMTk5OTExNTQxMDgz&pageno=MjI0MjQyNjk5NTk="
 title = "शैशिरीयशिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3960"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIxMTk5OTExNTQxMDgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शैशिरीयशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDIxMTk5OTExNTQxMDgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -392,8 +391,5 @@ title = "शैशिरीयशिक्षा"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

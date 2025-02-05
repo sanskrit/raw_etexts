@@ -1,18 +1,17 @@
 +++
-TITLE = "विद्यामाधवीयम् (प्रथमसम्पुटम्)"
-AUTHOR = "विद्यामाधवः"
-"PUBLISH YEAR" = "1923"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "417"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शमाशास्त्री"
-"PRIMARY COMMENTATOR" = "विष्णुशर्मा"
-"COMMENTARY NAME" = "मुहूर्तदीपिका"
-PRINTER = "गनर्नमेण्ट्-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6210"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI2MDQ0NTY2NjMxNjk1&pageno=MjI0MjQyNjk5NTk="
 title = "विद्यामाधवीयम् (प्रथमसम्पुटम्)"
+author = "विद्यामाधवः"
+"publish year" = "1923"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "417"
+language = "संस्कृतम्"
+editor = "शमाशास्त्री"
+"primary commentator" = "विष्णुशर्मा"
+"commentary name" = "मुहूर्तदीपिका"
+printer = "गनर्नमेण्ट्-मुद्रणालयः"
+"serial no." = "Ebharati-6210"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI2MDQ0NTY2NjMxNjk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विद्यामाधवीयम् (प्रथमसम्पुटम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDI2MDQ0NTY2NjMxNjk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11172,8 +11171,5 @@ Curator
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

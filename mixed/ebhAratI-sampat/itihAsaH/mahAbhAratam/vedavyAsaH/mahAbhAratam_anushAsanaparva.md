@@ -1,17 +1,16 @@
 +++
-TITLE = "महाभारतम् (अनुशासनपर्व)"
-AUTHOR = "वेदव्यासः"
-PUBLISHER = "श्रीपाददामोदरसातवळेकरः"
-"PUBLISH YEAR" = "1931"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "महाभारतम्"
-PAGES = "626"
-LANGUAGE = "संस्कृतम् हिन्दी"
-EDITOR = "श्रीपाददामोदरसातवळेकरः"
-PRINTER = "भारत-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6093"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQyNzcwNTAxNTA5NDg1&pageno=MjI0MjQyNjk5NTk="
 title = "महाभारतम् (अनुशासनपर्व)"
+author = "वेदव्यासः"
+publisher = "श्रीपाददामोदरसातवळेकरः"
+"publish year" = "1931"
+domain = "इतिहासः"
+sub-domain = "महाभारतम्"
+pages = "626"
+language = "संस्कृतम् हिन्दी"
+editor = "श्रीपाददामोदरसातवळेकरः"
+printer = "भारत-मुद्रणालयः"
+"serial no." = "Ebharati-6093"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQyNzcwNTAxNTA5NDg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[महाभारतम् (अनुशासनपर्व)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQyNzcwNTAxNTA5NDg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -21287,8 +21286,5 @@ title = "महाभारतम् (अनुशासनपर्व)"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

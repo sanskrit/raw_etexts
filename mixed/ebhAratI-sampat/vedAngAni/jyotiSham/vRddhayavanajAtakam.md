@@ -1,11 +1,10 @@
 +++
-TITLE = "वृद्धयवनजातकम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2660"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAwMDUzNTUy"
 title = "वृद्धयवनजातकम्"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2660"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAwMDUzNTUy"
 
 +++
 [[वृद्धयवनजातकम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAwMDUzNTUy)]]

@@ -1,18 +1,17 @@
 +++
-TITLE = "काव्यप्रकाशः"
-AUTHOR = "मम्मटाचार्यः"
-PUBLISHER = "एन्.जि.सर्देसाई"
-"PUBLISH YEAR" = "1935"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "354"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "हरदत्तशर्मा"
-EDITOR = "हरदत्तशर्मा"
-PRINTER = "एस्.आर्.सर्देसाई"
-"SERIAL NO." = "Ebharati-7882"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAyMDc3MjgzMjQ2NjU3&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यप्रकाशः"
+author = "मम्मटाचार्यः"
+publisher = "एन्.जि.सर्देसाई"
+"publish year" = "1935"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "354"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "हरदत्तशर्मा"
+editor = "हरदत्तशर्मा"
+printer = "एस्.आर्.सर्देसाई"
+"serial no." = "Ebharati-7882"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAyMDc3MjgzMjQ2NjU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यप्रकाशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDAyMDc3MjgzMjQ2NjU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7404,8 +7403,5 @@ Vāg.— Vāg-bhaṭālaṅkāra.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

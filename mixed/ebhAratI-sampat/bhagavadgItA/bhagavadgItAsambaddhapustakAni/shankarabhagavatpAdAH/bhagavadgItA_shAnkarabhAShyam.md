@@ -1,12 +1,11 @@
 +++
-TITLE = "भगवद्गीता शाङ्करभाष्यम्"
-AUTHOR = "शङ्करभगवत्पादाः"
-DOMAIN = "भगवद्गीता"
-SUB-DOMAIN = "भगवद्गीतासम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2648"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjU0MzM5OTQwODkxNDUy"
 title = "भगवद्गीता शाङ्करभाष्यम्"
+author = "शङ्करभगवत्पादाः"
+domain = "भगवद्गीता"
+sub-domain = "भगवद्गीतासम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2648"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjU0MzM5OTQwODkxNDUy"
 
 +++
 [[भगवद्गीता शाङ्करभाष्यम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjU0MzM5OTQwODkxNDUy)]]

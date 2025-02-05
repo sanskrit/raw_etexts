@@ -1,16 +1,15 @@
 +++
-TITLE = "बालरामायणम्"
-AUTHOR = "राजशेखरः"
-"PUBLISH YEAR" = "1869"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "322"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गोविन्ददेवशास्त्री"
-PRINTER = "मेडिकल्-होल्-प्रेस्"
-"SERIAL NO." = "Ebharati-5391"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAwNzk4MjQ3NTE1NzE1&pageno=MjI0MjQyNjk5NTk="
 title = "बालरामायणम्"
+author = "राजशेखरः"
+"publish year" = "1869"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "322"
+language = "संस्कृतम्"
+editor = "गोविन्ददेवशास्त्री"
+printer = "मेडिकल्-होल्-प्रेस्"
+"serial no." = "Ebharati-5391"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAwNzk4MjQ3NTE1NzE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बालरामायणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjAwNzk4MjQ3NTE1NzE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9338,8 +9337,5 @@ _(\*)
 
                                 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

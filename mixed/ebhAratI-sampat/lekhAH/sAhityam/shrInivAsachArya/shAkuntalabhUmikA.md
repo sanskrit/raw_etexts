@@ -1,13 +1,12 @@
 +++
-TITLE = "शाकुन्तलभूमिका"
-AUTHOR = "श्रीनिवासचार्य:"
-DOMAIN = "लेखाः"
-SUB-DOMAIN = "साहित्यम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2780"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYxMzM5MzU1OTY4NjYy&pageno=MjI0MjQyNjk5NTk="
 title = "शाकुन्तलभूमिका"
+author = "श्रीनिवासचार्य:"
+domain = "लेखाः"
+sub-domain = "साहित्यम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2780"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYxMzM5MzU1OTY4NjYy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शाकुन्तलभूमिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDYxMzM5MzU1OTY4NjYy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -77,19 +76,6 @@ title = "शाकुन्तलभूमिका"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

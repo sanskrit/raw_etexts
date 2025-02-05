@@ -1,16 +1,15 @@
 +++
-TITLE = "अभिनवतालमंजरी"
-AUTHOR = "काशीनाथः"
-PUBLISHER = "विष्णुशर्मा"
-"PUBLISH YEAR" = "१९१४"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "18"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "निर्णयसागरयंत्रालयः"
-"SERIAL NO." = "Ebharati-4562"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYxOTI5NzU4NDM5NzM0&pageno=MjI0MjQyNjk5NTk="
 title = "अभिनवतालमंजरी"
+author = "काशीनाथः"
+publisher = "विष्णुशर्मा"
+"publish year" = "१९१४"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "18"
+language = "संस्कृतम्"
+printer = "निर्णयसागरयंत्रालयः"
+"serial no." = "Ebharati-4562"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYxOTI5NzU4NDM5NzM0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अभिनवतालमंजरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDYxOTI5NzU4NDM5NzM0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -812,8 +811,5 @@ Published by Vishnu Narayan Bhatkhande.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

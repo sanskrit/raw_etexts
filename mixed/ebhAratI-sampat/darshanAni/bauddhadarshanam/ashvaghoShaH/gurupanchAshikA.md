@@ -1,13 +1,12 @@
 +++
-TITLE = "गुरुपञ्चाशिका"
-AUTHOR = "अश्वघोषः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3714"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAzNTUzNDQwMDM1NjUz&pageno=MjI0MjQyNjk5NTk="
 title = "गुरुपञ्चाशिका"
+author = "अश्वघोषः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3714"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAzNTUzNDQwMDM1NjUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गुरुपञ्चाशिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODAzNTUzNDQwMDM1NjUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -190,19 +189,6 @@ title = "गुरुपञ्चाशिका"
 **-------------------------------------------------------**  
 \\Z
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

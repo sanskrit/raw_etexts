@@ -1,19 +1,18 @@
 +++
-TITLE = "तत्त्वप्रकाशः"
-AUTHOR = "भोजदेवः"
-PUBLISHER = "तिरुवनन्तपुरस्य महाराजः"
-"PUBLISH YEAR" = "1920"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-PAGES = "208"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "त.गणपतिशास्त्री"
-"PRIMARY COMMENTATOR" = "कुमारः"
-"COMMENTARY NAME" = "तात्पर्यदीपिका"
-PRINTER = "राजकीयमुद्रणयन्त्रालयम्"
-"SERIAL NO." = "Ebharati-7741"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA3ODg1MjE5NjAxMzQ3&pageno=MjI0MjQyNjk5NTk="
 title = "तत्त्वप्रकाशः"
+author = "भोजदेवः"
+publisher = "तिरुवनन्तपुरस्य महाराजः"
+"publish year" = "1920"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+pages = "208"
+language = "संस्कृतम्"
+editor = "त.गणपतिशास्त्री"
+"primary commentator" = "कुमारः"
+"commentary name" = "तात्पर्यदीपिका"
+printer = "राजकीयमुद्रणयन्त्रालयम्"
+"serial no." = "Ebharati-7741"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA3ODg1MjE5NjAxMzQ3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तत्त्वप्रकाशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjA3ODg1MjE5NjAxMzQ3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2496,19 +2495,6 @@ HIS HIGHNESS THE MAHARAJAH OF TRAVANCORE.**
 |        ७         |      ४०      |                         ४                          |     |
 |        १९        |    द्धया     |                        द्धय                        |     |
 |        ७         |      ५       |                         ४                          |     |
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीमल्लक्ष्यसंगीतम्"
-AUTHOR = "चतुराख्यपंडितः"
-PUBLISHER = "भालचन्द्र सीताराम सुकथनकर"
-"PUBLISH YEAR" = "१८५५"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "200"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "आर्यभूषणयंत्रालय"
-"SERIAL NO." = "Ebharati-4698"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU1ODk4NjQzMDk5MDU0&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमल्लक्ष्यसंगीतम्"
+author = "चतुराख्यपंडितः"
+publisher = "भालचन्द्र सीताराम सुकथनकर"
+"publish year" = "१८५५"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "200"
+language = "संस्कृतम्"
+printer = "आर्यभूषणयंत्रालय"
+"serial no." = "Ebharati-4698"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU1ODk4NjQzMDk5MDU0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमल्लक्ष्यसंगीतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjU1ODk4NjQzMDk5MDU0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2136,19 +2135,6 @@ ANA
 .............
 
 ----------
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

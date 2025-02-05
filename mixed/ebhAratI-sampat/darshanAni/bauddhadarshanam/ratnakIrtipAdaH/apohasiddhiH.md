@@ -1,13 +1,12 @@
 +++
-TITLE = "अपोहसिद्धिः"
-AUTHOR = "रत्नकीर्तिपादः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3643"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzMzQxMTEzNDE3OTQz&pageno=MjI0MjQyNjk5NTk="
 title = "अपोहसिद्धिः"
+author = "रत्नकीर्तिपादः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3643"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzMzQxMTEzNDE3OTQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अपोहसिद्धिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQzMzQxMTEzNDE3OTQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -119,8 +118,5 @@ title = "अपोहसिद्धिः"
 
 ------------------------------------------------------------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

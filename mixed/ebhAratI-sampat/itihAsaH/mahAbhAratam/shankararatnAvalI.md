@@ -1,15 +1,14 @@
 +++
-TITLE = "शङ्कररत्नावली"
-"PUBLISH YEAR" = "1866"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "महाभारतम्"
-PAGES = "93"
-LANGUAGE = "संस्कृतम्"
-"COMMENTARY NAME" = "महाभारतम्"
-PRINTER = "एज्युकेशनल्-सोसैटी-प्रेस्"
-"SERIAL NO." = "Ebharati-6079"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMzMzg2NzUxMTY1Mzg1&pageno=MjI0MjQyNjk5NTk="
 title = "शङ्कररत्नावली"
+"publish year" = "1866"
+domain = "इतिहासः"
+sub-domain = "महाभारतम्"
+pages = "93"
+language = "संस्कृतम्"
+"commentary name" = "महाभारतम्"
+printer = "एज्युकेशनल्-सोसैटी-प्रेस्"
+"serial no." = "Ebharati-6079"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMzMzg2NzUxMTY1Mzg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शङ्कररत्नावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODMzMzg2NzUxMTY1Mzg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3364,8 +3363,5 @@ Price 14 Annas.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

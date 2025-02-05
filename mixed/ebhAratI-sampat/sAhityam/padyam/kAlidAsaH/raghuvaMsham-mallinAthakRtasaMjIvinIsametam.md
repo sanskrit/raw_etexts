@@ -1,14 +1,13 @@
 +++
-TITLE = "रघुवंशम्-मल्लिनाथकृतसंजीविनीसमेतम्"
-AUTHOR = "कालिदासः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"PRIMARY COMMENTATOR" = "मल्लिनाथः"
-"COMMENTARY NAME" = "संजीविनी"
-"SERIAL NO." = "Ebharati-3022"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgyOTk1NDQ2MDAxMDky"
 title = "रघुवंशम्-मल्लिनाथकृतसंजीविनीसमेतम्"
+author = "कालिदासः"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"primary commentator" = "मल्लिनाथः"
+"commentary name" = "संजीविनी"
+"serial no." = "Ebharati-3022"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgyOTk1NDQ2MDAxMDky"
 
 +++
 [[रघुवंशम्-मल्लिनाथकृतसंजीविनीसमेतम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDgyOTk1NDQ2MDAxMDky)]]

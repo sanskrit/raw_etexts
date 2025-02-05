@@ -1,17 +1,16 @@
 +++
-TITLE = "कालतत्त्वविवेचनम् (प्रथमो भागः)"
-AUTHOR = "रघुनाथभट्टः"
-"PUBLISH YEAR" = "1932"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "291"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "नन्द-किशोरः-शर्मा"
-"BOOKS CONTRIBUTOR" = "गोपिनाथ-कविराजः"
-PRINTER = "B. C. BANERJEE Ramakrishna Printing Works Benares City."
-"SERIAL NO." = "Ebharati-5125"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU3MjE0MjQ3MDg5MTk0&pageno=MjI0MjQyNjk5NTk="
 title = "कालतत्त्वविवेचनम् (प्रथमो भागः)"
+author = "रघुनाथभट्टः"
+"publish year" = "1932"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "291"
+language = "संस्कृतम्"
+editor = "नन्द-किशोरः-शर्मा"
+"books contributor" = "गोपिनाथ-कविराजः"
+printer = "B. C. BANERJEE Ramakrishna Printing Works Benares City."
+"serial no." = "Ebharati-5125"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU3MjE0MjQ3MDg5MTk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कालतत्त्वविवेचनम् (प्रथमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU3MjE0MjQ3MDg5MTk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5930,8 +5929,5 @@ BENARES.
 
  इति श्रीपदवाक्यप्रमाणाभिज्ञश्रीमाधवविद्वद्वर्यात्मजसम्राट्स्थपतिरघुनाथवाजपेयबाजिकतौ पर्वनिर्णयः॥
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

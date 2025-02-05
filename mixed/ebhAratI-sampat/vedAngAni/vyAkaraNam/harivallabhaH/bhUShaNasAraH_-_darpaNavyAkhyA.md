@@ -1,14 +1,13 @@
 +++
-TITLE = "भूषणसारः - दर्पणव्याख्या"
-AUTHOR = "हरिवल्लभः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"COMMENTARY NAME" = "दर्पणव्याख्या"
-"SERIAL NO." = "Ebharati-2961"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ1MTE4Mzc4NDQyNDgy&pageno=MjI0MjQyNjk5NTk="
 title = "भूषणसारः - दर्पणव्याख्या"
+author = "हरिवल्लभः"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"commentary name" = "दर्पणव्याख्या"
+"serial no." = "Ebharati-2961"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ1MTE4Mzc4NDQyNDgy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भूषणसारः - दर्पणव्याख्या	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ1MTE4Mzc4NDQyNDgy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3347,19 +3346,6 @@ title = "भूषणसारः - दर्पणव्याख्या"
 
  इति श्रीमत्कूर्मचलाभिजनोत्प्रभातीयोपनामकश्रीवल्लभाऽऽत्मजहरिवल्लभविरचिते भूषणसारदर्प्पणे स्फोटवादः समाप्तः।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

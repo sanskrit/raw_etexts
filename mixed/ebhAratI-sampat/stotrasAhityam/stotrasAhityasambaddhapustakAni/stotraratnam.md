@@ -1,11 +1,10 @@
 +++
-TITLE = "स्तोत्ररत्नम्"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4193"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0NTc0NDQyMjE1MjA0&pageno=MjI0MjQyNjk5NTk="
 title = "स्तोत्ररत्नम्"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4193"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0NTc0NDQyMjE1MjA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्तोत्ररत्नम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0NTc0NDQyMjE1MjA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -225,8 +224,5 @@ title = "स्तोत्ररत्नम्"
 
 ------------------------------------------------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

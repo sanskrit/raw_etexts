@@ -1,16 +1,15 @@
 +++
-TITLE = "प्रत्यक्षशरीरम् (द्वितीयो भागः)"
-AUTHOR = "गणनाथसेन्"
-PUBLISHER = "सुशीलकुमारसेन्"
-"PUBLISH YEAR" = "1941"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "332"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "कल्पतरु-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7674"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0NjQzNDYxNTc2NjM3&pageno=MjI0MjQyNjk5NTk="
 title = "प्रत्यक्षशरीरम् (द्वितीयो भागः)"
+author = "गणनाथसेन्"
+publisher = "सुशीलकुमारसेन्"
+"publish year" = "1941"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "332"
+language = "संस्कृतम्"
+printer = "कल्पतरु-मुद्रणालयः"
+"serial no." = "Ebharati-7674"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0NjQzNDYxNTc2NjM3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रत्यक्षशरीरम् (द्वितीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODI0NjQzNDYxNTc2NjM3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5157,19 +5156,6 @@ title = "प्रत्यक्षशरीरम् (द्वितीयो
 **समाप्तः।  
 ।श्रीकृष्णचरणार्पणमस्तु।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीमद्विष्णुतत्त्वनिर्णयः प्रकरणविशेषः (मूलमात्रम्)"
-AUTHOR = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3203"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY2Nzc0NDY5NTc0NzAz"
 title = "श्रीमद्विष्णुतत्त्वनिर्णयः प्रकरणविशेषः (मूलमात्रम्)"
+author = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3203"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY2Nzc0NDY5NTc0NzAz"
 
 +++
 [[श्रीमद्विष्णुतत्त्वनिर्णयः प्रकरणविशेषः (मूलमात्रम्)	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjY2Nzc0NDY5NTc0NzAz)]]

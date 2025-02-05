@@ -1,12 +1,11 @@
 +++
-TITLE = "अर्थालंकारम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2744"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE0MzYy&pageno=MjI0MjQyNjk5NTk="
 title = "अर्थालंकारम्"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2744"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE0MzYy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अर्थालंकारम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE0MzYy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -36890,8 +36889,5 @@ title = "अर्थालंकारम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

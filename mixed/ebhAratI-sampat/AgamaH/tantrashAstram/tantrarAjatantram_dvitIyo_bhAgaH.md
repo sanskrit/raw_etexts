@@ -1,15 +1,14 @@
 +++
-TITLE = "तन्त्रराजतन्त्रम् (द्वितीयो भागः)"
-"PUBLISH YEAR" = "1926"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "472"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "सदाशिवमिश्रः"
-PRINTER = "महामाया-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8852"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ1OTE5NzM3ODU3OTQ4&pageno=MjI0MjQyNjk5NTk="
 title = "तन्त्रराजतन्त्रम् (द्वितीयो भागः)"
+"publish year" = "1926"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "472"
+language = "संस्कृतम्"
+editor = "सदाशिवमिश्रः"
+printer = "महामाया-यन्त्रालयः"
+"serial no." = "Ebharati-8852"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ1OTE5NzM3ODU3OTQ4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तन्त्रराजतन्त्रम् (द्वितीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQ1OTE5NzM3ODU3OTQ4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10296,8 +10295,5 @@ OXFORD,
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

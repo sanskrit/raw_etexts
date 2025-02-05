@@ -1,17 +1,16 @@
 +++
-TITLE = "काव्यादर्शः"
-AUTHOR = "दण्डी"
-"PUBLISH YEAR" = "1936"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "403"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "कृष्णमाचार्यः"
-"PRIMARY COMMENTATOR" = "वादिजङ्घालदेवः"
-PRINTER = "श्रीनिवास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5927"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkxNTM4ODI3OTY5ODY1&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यादर्शः"
+author = "दण्डी"
+"publish year" = "1936"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "403"
+language = "संस्कृतम्"
+editor = "कृष्णमाचार्यः"
+"primary commentator" = "वादिजङ्घालदेवः"
+printer = "श्रीनिवास-मुद्रणालयः"
+"serial no." = "Ebharati-5927"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkxNTM4ODI3OTY5ODY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यादर्शः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDkxNTM4ODI3OTY5ODY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7998,19 +7997,6 @@ And Dandin here again wants to improve upon this and says :
 
 ![](../books_images/U-IMG-1699521897387.jpg)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

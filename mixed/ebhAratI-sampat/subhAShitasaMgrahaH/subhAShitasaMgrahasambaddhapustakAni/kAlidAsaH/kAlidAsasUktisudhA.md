@@ -1,13 +1,12 @@
 +++
-TITLE = "कालिदाससूक्तिसुधा"
-AUTHOR = "कालिदासः"
-DOMAIN = "सुभाषितसंग्रहः"
-SUB-DOMAIN = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
-PAGES = "217"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"SERIAL NO." = "Ebharati-7169"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEzMzI5MTYwNzkxODg2&pageno=MjI0MjQyNjk5NTk="
 title = "कालिदाससूक्तिसुधा"
+author = "कालिदासः"
+domain = "सुभाषितसंग्रहः"
+sub-domain = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
+pages = "217"
+language = "संस्कृतम् हिन्दी"
+"serial no." = "Ebharati-7169"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEzMzI5MTYwNzkxODg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कालिदाससूक्तिसुधा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODEzMzI5MTYwNzkxODg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6899,19 +6898,6 @@ title = "कालिदाससूक्तिसुधा"
 
 कारण और कार्य का तो यही क्रम है कि पहले फूल खिलता है फिर फल लगता है। पहले बादल आते हैं फिर वर्षा होती हैं। किन्तु आप जैसे महर्षियों की कृपा से सुख-समृद्धि विना प्रयत्न तुरन्त प्राप्त हो जाती है।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

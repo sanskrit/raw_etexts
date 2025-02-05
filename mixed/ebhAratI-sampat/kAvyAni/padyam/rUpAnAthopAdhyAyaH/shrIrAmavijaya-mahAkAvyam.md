@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीरामविजय-महाकाव्यम्"
-AUTHOR = "रूपानाथोपाध्यायः"
-"PUBLISH YEAR" = "1932"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "140"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "श्रीगणपतिलाल-झा"
-PRINTER = "राजकीय-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7759"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyMjU5NDQ4NDM4NDQ3&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीरामविजय-महाकाव्यम्"
+author = "रूपानाथोपाध्यायः"
+"publish year" = "1932"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "140"
+language = "संस्कृतम्"
+editor = "श्रीगणपतिलाल-झा"
+printer = "राजकीय-यन्त्रालयः"
+"serial no." = "Ebharati-7759"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyMjU5NDQ4NDM4NDQ3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीरामविजय-महाकाव्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODkyMjU5NDQ4NDM4NDQ3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3347,19 +3346,6 @@ title = "श्रीरामविजय-महाकाव्यम्"
 |     १०२     |    र्देवतैः    |     र्दैवतैः     |
 
 **——०——**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

@@ -1,17 +1,16 @@
 +++
-TITLE = "पुरुषार्थचिन्तामणिः"
-AUTHOR = "विष्णुभट्टः"
-PUBLISHER = "हरिनारायण-आपटे"
-"PUBLISH YEAR" = "1907"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "609"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "भास्करशास्त्रीपाव्गी"
-PRINTER = "आनन्दाश्रम-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6323"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAzNDM4MDQyNDg5NjA2&pageno=MjI0MjQyNjk5NTk="
 title = "पुरुषार्थचिन्तामणिः"
+author = "विष्णुभट्टः"
+publisher = "हरिनारायण-आपटे"
+"publish year" = "1907"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "609"
+language = "संस्कृतम्"
+editor = "भास्करशास्त्रीपाव्गी"
+printer = "आनन्दाश्रम-मुद्रणालयः"
+"serial no." = "Ebharati-6323"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAzNDM4MDQyNDg5NjA2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पुरुषार्थचिन्तामणिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjAzNDM4MDQyNDg5NjA2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -20534,19 +20533,6 @@ title = "पुरुषार्थचिन्तामणिः"
 
 \_\_\_\_\_\_\_\_\_\_\_
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

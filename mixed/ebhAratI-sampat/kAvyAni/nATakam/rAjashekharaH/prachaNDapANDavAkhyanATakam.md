@@ -1,16 +1,15 @@
 +++
-TITLE = "प्रचण्डपाण्डवाख्यनाटकम्"
-AUTHOR = "राजशेखरः"
-PUBLISHER = "कार्ल-जे-ट्रुब्नर्"
-"PUBLISH YEAR" = "1885"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "60"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "कार्ल-केपेल्लर्"
-"SERIAL NO." = "Ebharati-5533"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI5MDIzOTAyNzQxMTM1&pageno=MjI0MjQyNjk5NTk="
 title = "प्रचण्डपाण्डवाख्यनाटकम्"
+author = "राजशेखरः"
+publisher = "कार्ल-जे-ट्रुब्नर्"
+"publish year" = "1885"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "60"
+language = "संस्कृतम्"
+editor = "कार्ल-केपेल्लर्"
+"serial no." = "Ebharati-5533"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI5MDIzOTAyNzQxMTM1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रचण्डपाण्डवाख्यनाटकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjI5MDIzOTAyNzQxMTM1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1434,19 +1433,6 @@ Gewicht¹.) Es ist nämlich Prac. Str. 3=Bál. I, 14; 5= B.I, 10; 9=Viddh.I, 8; 
 
 **इति द्वितीयोऽङ्कः।**  
 **\_\_\_\_\_**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

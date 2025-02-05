@@ -1,16 +1,15 @@
 +++
-TITLE = "शारदातिलकतन्त्रम् (प्रथमो भागः)"
-AUTHOR = "लक्ष्मणदेशिकेन्द्रः"
-PUBLISHER = "संस्कृतप्रेसडिपनिटरी"
-"PUBLISH YEAR" = "1933"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "518"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "एमारेल्ङ्-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8856"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMyOTg4MjI3MjQxMDU4&pageno=MjI0MjQyNjk5NTk="
 title = "शारदातिलकतन्त्रम् (प्रथमो भागः)"
+author = "लक्ष्मणदेशिकेन्द्रः"
+publisher = "संस्कृतप्रेसडिपनिटरी"
+"publish year" = "1933"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "518"
+language = "संस्कृतम्"
+printer = "एमारेल्ङ्-यन्त्रालयः"
+"serial no." = "Ebharati-8856"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMyOTg4MjI3MjQxMDU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शारदातिलकतन्त्रम् (प्रथमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjMyOTg4MjI3MjQxMDU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -18473,19 +18472,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 ![](../books_images/U-IMG-1727712770Screenshot2024-08-04235410.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

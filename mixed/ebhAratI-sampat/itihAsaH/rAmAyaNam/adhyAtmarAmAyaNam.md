@@ -1,17 +1,16 @@
 +++
-TITLE = "अध्यात्मरामायणम्"
-PUBLISHER = "मेट्रोपालिटन्-प्रिन्टिङ्ग्-अण्ड्-पब्लिशिङ्ग-हौस्"
-"PUBLISH YEAR" = "1935"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "650"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "नागेन्द्रनाथसिद्धान्तरत्नः"
-"PRIMARY COMMENTATOR" = "नरोत्तम-रामवर्म-गोपालचक्रवर्तिः"
-PRINTER = "शिवनाथगङ्गूलिः"
-"SERIAL NO." = "Ebharati-6121"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwNTY4OTk5Mjk1Nzg1&pageno=MjI0MjQyNjk5NTk="
 title = "अध्यात्मरामायणम्"
+publisher = "मेट्रोपालिटन्-प्रिन्टिङ्ग्-अण्ड्-पब्लिशिङ्ग-हौस्"
+"publish year" = "1935"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "650"
+language = "संस्कृतम्"
+editor = "नागेन्द्रनाथसिद्धान्तरत्नः"
+"primary commentator" = "नरोत्तम-रामवर्म-गोपालचक्रवर्तिः"
+printer = "शिवनाथगङ्गूलिः"
+"serial no." = "Ebharati-6121"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwNTY4OTk5Mjk1Nzg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अध्यात्मरामायणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjYwNTY4OTk5Mjk1Nzg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -22952,8 +22951,5 @@ I.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,13 +1,12 @@
 +++
-TITLE = "काव्यालंकारः"
-AUTHOR = "श्रीरुद्रटः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "184"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8253"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY3ODA3ODg5NjUyMjk3&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यालंकारः"
+author = "श्रीरुद्रटः"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "184"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8253"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY3ODA3ODg5NjUyMjk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यालंकारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjY3ODA3ODg5NjUyMjk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5612,8 +5611,5 @@ title = "काव्यालंकारः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

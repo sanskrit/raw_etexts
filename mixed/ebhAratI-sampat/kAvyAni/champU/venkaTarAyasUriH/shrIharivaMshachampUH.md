@@ -1,17 +1,16 @@
 +++
-TITLE = "श्रीहरिवंशचम्पूः"
-AUTHOR = "वेङ्कटरायसूरिः"
-PUBLISHER = "वि वेङ्कटराव्"
-"PUBLISH YEAR" = "1923"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "चम्पू"
-PAGES = "115"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "राघवेन्द्राचार्यः"
-PRINTER = "श्रीजयालय-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5275"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUwNjc3ODcxMDgzNjA1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीहरिवंशचम्पूः"
+author = "वेङ्कटरायसूरिः"
+publisher = "वि वेङ्कटराव्"
+"publish year" = "1923"
+domain = "काव्यानि"
+sub-domain = "चम्पू"
+pages = "115"
+language = "संस्कृतम्"
+editor = "राघवेन्द्राचार्यः"
+printer = "श्रीजयालय-यन्त्रालयः"
+"serial no." = "Ebharati-5275"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUwNjc3ODcxMDgzNjA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीहरिवंशचम्पूः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDUwNjc3ODcxMDgzNjA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2060,19 +2059,6 @@ title = "श्रीहरिवंशचम्पूः"
 अनेन भारतीरमणमुख्यप्राणान्तर्गत कृष्णवेदव्यासात्मकश्री श्रीनिवासः प्रियताम्.
 
 **---_(\*)श्री कृ ष्णा र्प ण म स्तु_(\*)---**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

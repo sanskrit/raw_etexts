@@ -1,18 +1,17 @@
 +++
-TITLE = "ईशकेनकठोपनिषदः"
-PUBLISHER = "हरि नारायण आपटे"
-"PUBLISH YEAR" = "1915"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-PAGES = "102"
-LANGUAGE = "संस्कॄतम्"
-EDITOR = "श्रीधरशास्त्री पाठकः"
-"PRIMARY COMMENTATOR" = "दिगम्बरानुचरः"
-"COMMENTARY NAME" = "प्रकाशा"
-PRINTER = "आनन्दाश्रममुद्रणालयम्"
-"SERIAL NO." = "Ebharati-8643"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzMzUyMzI1NTk2OTI4&pageno=MjI0MjQyNjk5NTk="
 title = "ईशकेनकठोपनिषदः"
+publisher = "हरि नारायण आपटे"
+"publish year" = "1915"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+pages = "102"
+language = "संस्कॄतम्"
+editor = "श्रीधरशास्त्री पाठकः"
+"primary commentator" = "दिगम्बरानुचरः"
+"commentary name" = "प्रकाशा"
+printer = "आनन्दाश्रममुद्रणालयम्"
+"serial no." = "Ebharati-8643"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzMzUyMzI1NTk2OTI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ईशकेनकठोपनिषदः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQzMzUyMzI1NTk2OTI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1781,8 +1780,5 @@ title = "ईशकेनकठोपनिषदः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

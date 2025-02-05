@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीतन्त्रसारः"
-AUTHOR = "अभिनवगुप्ताचार्यः"
-"PUBLISH YEAR" = "1918"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "242"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मुकुन्दरामशास्त्री"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6064"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAwNzQwNDEyMTIxMjg1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीतन्त्रसारः"
+author = "अभिनवगुप्ताचार्यः"
+"publish year" = "1918"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "242"
+language = "संस्कृतम्"
+editor = "मुकुन्दरामशास्त्री"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-6064"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAwNzQwNDEyMTIxMjg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीतन्त्रसारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODAwNzQwNDEyMTIxMjg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2826,8 +2825,5 @@ Jammu and Kashmir State.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

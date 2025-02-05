@@ -1,16 +1,15 @@
 +++
-TITLE = "परिष्कारदर्पणः"
-AUTHOR = "वेनिमाधवशुक्लः"
-PUBLISHER = "जय्कृष्णदासः हरिदासगुप्ता च"
-"PUBLISH YEAR" = "1955"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "नारायणशुक्लः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3534"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQzOTE3MDI3MDUyOTMz&pageno=MjI0MjQyNjk5NTk="
 title = "परिष्कारदर्पणः"
+author = "वेनिमाधवशुक्लः"
+publisher = "जय्कृष्णदासः हरिदासगुप्ता च"
+"publish year" = "1955"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+editor = "नारायणशुक्लः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3534"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQzOTE3MDI3MDUyOTMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[परिष्कारदर्पणः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQzOTE3MDI3MDUyOTMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -490,19 +489,6 @@ title = "परिष्कारदर्पणः"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

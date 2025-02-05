@@ -1,17 +1,16 @@
 +++
-TITLE = "शङ्करविजयः"
-AUTHOR = "आनन्दगिरिः"
-PUBLISHER = "एशियाटिक्-सोसैटी"
-"PUBLISH YEAR" = "1868"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "गद्यम्"
-PAGES = "322"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "जयनारायणतर्कपञ्चानः"
-PRINTER = "बाप्टिस्ट्-मिशन्-प्रेस्"
-"SERIAL NO." = "Ebharati-5354"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgzNzI5MTg4MzY5MzE1&pageno=MjI0MjQyNjk5NTk="
 title = "शङ्करविजयः"
+author = "आनन्दगिरिः"
+publisher = "एशियाटिक्-सोसैटी"
+"publish year" = "1868"
+domain = "काव्यानि"
+sub-domain = "गद्यम्"
+pages = "322"
+language = "संस्कृतम्"
+editor = "जयनारायणतर्कपञ्चानः"
+printer = "बाप्टिस्ट्-मिशन्-प्रेस्"
+"serial no." = "Ebharati-5354"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgzNzI5MTg4MzY5MzE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शङ्करविजयः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODgzNzI5MTg4MzY5MzE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3762,19 +3761,6 @@ The Sañkara Vijaya of Anantánanda Giri, edited by Pandita Nava-dwipachandra Go
 **॥\*॥समाप्तश्चायं ग्रन्थः॥\*॥**
 
 **——————**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

@@ -1,13 +1,12 @@
 +++
-TITLE = "राघवनैषधीयम् (प्रथमसर्गः)"
-AUTHOR = "श्रीहरिदत्तसूरिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "जैनदर्शनम्"
-PAGES = "72"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-1445"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk3OTkyMDc1NDE3ODMx&pageno=MjI0MjQyNjk5NTk="
 title = "राघवनैषधीयम् (प्रथमसर्गः)"
+author = "श्रीहरिदत्तसूरिः"
+domain = "दर्शनानि"
+sub-domain = "जैनदर्शनम्"
+pages = "72"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-1445"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk3OTkyMDc1NDE3ODMx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[राघवनैषधीयम् (प्रथमसर्गः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDk3OTkyMDc1NDE3ODMx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -550,19 +549,6 @@ Nirnaya-sagar Press, PRINTER:-Ramchandra Yesu Shedge, 526-28, Kolbhat Lane, Bomb
 
 ----------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

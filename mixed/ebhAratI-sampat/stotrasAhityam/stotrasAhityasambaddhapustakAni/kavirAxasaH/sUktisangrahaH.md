@@ -1,17 +1,16 @@
 +++
-TITLE = "सूक्तिसङ्ग्रहः"
-AUTHOR = "कविराक्षसः"
-PUBLISHER = "पाण्डुरङ्ग-जावजी"
-"PUBLISH YEAR" = "1930"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "12"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "काशीनाथ-पाण्डुरङ्ग-परबः"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7141"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA1NTMxNzYxOTA1NTg2&pageno=MjI0MjQyNjk5NTk="
 title = "सूक्तिसङ्ग्रहः"
+author = "कविराक्षसः"
+publisher = "पाण्डुरङ्ग-जावजी"
+"publish year" = "1930"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "12"
+language = "संस्कृतम्"
+editor = "काशीनाथ-पाण्डुरङ्ग-परबः"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-7141"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA1NTMxNzYxOTA1NTg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सूक्तिसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjA1NTMxNzYxOTA1NTg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -383,19 +382,6 @@ title = "सूक्तिसङ्ग्रहः"
 **समाप्तोऽयं ग्रन्थः॥**
 
 **![](../../../books_images/U-IMG-1723808789Screenshot2024-08-16114601.png)**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

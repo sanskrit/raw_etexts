@@ -1,12 +1,11 @@
 +++
-TITLE = "लघुकथासङ्ग्रहः-८"
-DOMAIN = "सरलसंस्कृतम्"
-SUB-DOMAIN = "लघुकथासङ्ग्रहः"
-PAGES = "88"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8298"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU3NzE2OTE4Njc1Njk3&pageno=MjI0MjQyNjk5NTk="
 title = "लघुकथासङ्ग्रहः-८"
+domain = "सरलसंस्कृतम्"
+sub-domain = "लघुकथासङ्ग्रहः"
+pages = "88"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8298"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU3NzE2OTE4Njc1Njk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लघुकथासङ्ग्रहः-८	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjU3NzE2OTE4Njc1Njk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -197,8 +196,5 @@ title = "लघुकथासङ्ग्रहः-८"
 
  वनदेवता क्रोधेन शापं दत्तवती।किन्तु सः शापः अपि अनुग्रहरूपः एव जातः इति सीतारामःमहान्तं सन्तोषं प्राप्तवान्।
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

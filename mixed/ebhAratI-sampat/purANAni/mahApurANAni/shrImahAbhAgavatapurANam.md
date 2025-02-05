@@ -1,13 +1,12 @@
 +++
-TITLE = "श्रीमहाभागवतपुराणम्"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "337"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पुष्पेन्द्र-कुमार्"
-"SERIAL NO." = "Ebharati-6788"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MDY1Mzk0MjI2MTU2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमहाभागवतपुराणम्"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "337"
+language = "संस्कृतम्"
+editor = "पुष्पेन्द्र-कुमार्"
+"serial no." = "Ebharati-6788"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MDY1Mzk0MjI2MTU2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमहाभागवतपुराणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MDY1Mzk0MjI2MTU2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -16062,8 +16061,5 @@ title = "श्रीमहाभागवतपुराणम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

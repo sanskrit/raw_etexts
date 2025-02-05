@@ -1,12 +1,11 @@
 +++
-TITLE = "न्यायामृतकण्टकोद्धारः"
-AUTHOR = "पाण्डुरङ्गी-आनन्दभट्टारकः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3089"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU1MTQ4MjkzMjM1Njky"
 title = "न्यायामृतकण्टकोद्धारः"
+author = "पाण्डुरङ्गी-आनन्दभट्टारकः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3089"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU1MTQ4MjkzMjM1Njky"
 
 +++
 [[न्यायामृतकण्टकोद्धारः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODU1MTQ4MjkzMjM1Njky)]]

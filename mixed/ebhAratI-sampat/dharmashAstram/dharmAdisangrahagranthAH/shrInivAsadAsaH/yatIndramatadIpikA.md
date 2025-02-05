@@ -1,17 +1,16 @@
 +++
-TITLE = "यतीन्द्रमतदीपिका"
-AUTHOR = "श्रीनिवासदासः"
-PUBLISHER = "श्रीरामकृष्णमठः"
-"PUBLISH YEAR" = "1949"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "धर्मादिसङ्ग्रहग्रन्थाः"
-PAGES = "249"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "आदिदेवानन्दः"
-PRINTER = "वसन्त-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-8921"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY2NjQ2ODc0MjgzNjU4&pageno=MjI0MjQyNjk5NTk="
 title = "यतीन्द्रमतदीपिका"
+author = "श्रीनिवासदासः"
+publisher = "श्रीरामकृष्णमठः"
+"publish year" = "1949"
+domain = "धर्मशास्त्रम्"
+sub-domain = "धर्मादिसङ्ग्रहग्रन्थाः"
+pages = "249"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "आदिदेवानन्दः"
+printer = "वसन्त-मुद्रणालयः"
+"serial no." = "Ebharati-8921"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY2NjQ2ODc0MjgzNjU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[यतीन्द्रमतदीपिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjY2NjQ2ODc0MjgzNjU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3596,19 +3595,6 @@ bhavanti tapatām śreṣṭha pāvakasya yathoṣṇatā** (VP., I, iii, 2).
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

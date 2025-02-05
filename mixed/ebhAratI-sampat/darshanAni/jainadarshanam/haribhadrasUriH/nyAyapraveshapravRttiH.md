@@ -1,13 +1,12 @@
 +++
-TITLE = "न्यायप्रवेशप्रवृत्तिः"
-AUTHOR = "हरिभद्रसूरिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "जैनदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3620"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2NzY1NzkzNjA1NzQz&pageno=MjI0MjQyNjk5NTk="
 title = "न्यायप्रवेशप्रवृत्तिः"
+author = "हरिभद्रसूरिः"
+domain = "दर्शनानि"
+sub-domain = "जैनदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3620"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2NzY1NzkzNjA1NzQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[न्यायप्रवेशप्रवृत्तिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2NzY1NzkzNjA1NzQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -196,19 +195,6 @@ title = "न्यायप्रवेशप्रवृत्तिः"
 समाप्ता चेयं शिष्यहिता नाम न्यायप्रवेशकटीका ॥  
 कृतिरियं हरिभद्रसूरेः ॥\\Z
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

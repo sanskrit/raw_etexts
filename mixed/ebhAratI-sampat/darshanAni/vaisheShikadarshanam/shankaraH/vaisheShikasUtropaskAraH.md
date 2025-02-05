@@ -1,13 +1,12 @@
 +++
-TITLE = "वैशेषिकसूत्रोपस्कारः"
-AUTHOR = "शङ्करः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "वैशेषिकदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3885"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc0OTA4MTA0NTQ5Mjcz"
 title = "वैशेषिकसूत्रोपस्कारः"
+author = "शङ्करः"
+domain = "दर्शनानि"
+sub-domain = "वैशेषिकदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3885"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc0OTA4MTA0NTQ5Mjcz"
 
 +++
 [[वैशेषिकसूत्रोपस्कारः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDc0OTA4MTA0NTQ5Mjcz)]]

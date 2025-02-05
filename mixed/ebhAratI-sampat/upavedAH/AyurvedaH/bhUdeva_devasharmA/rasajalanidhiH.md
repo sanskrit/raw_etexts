@@ -1,15 +1,14 @@
 +++
-TITLE = "रसजलनिधिः"
-AUTHOR = "भूदेव  देवशर्मा"
-"PUBLISH YEAR" = "1926"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "403"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "के.सि.नियोगि"
-"SERIAL NO." = "Ebharati-5875"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUyOTIyNDI5Nzc5MzY1&pageno=MjI0MjQyNjk5NTk="
 title = "रसजलनिधिः"
+author = "भूदेव  देवशर्मा"
+"publish year" = "1926"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "403"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "के.सि.नियोगि"
+"serial no." = "Ebharati-5875"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUyOTIyNDI5Nzc5MzY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रसजलनिधिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDUyOTIyNDI5Nzc5MzY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7574,19 +7573,6 @@ Principal, Bengal College of Ayurveda,
 (Formerly Lecturer, Post Graduate  
 Classes in Commerce, Calcutta University).
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

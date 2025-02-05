@@ -1,17 +1,16 @@
 +++
-TITLE = "हरिहरसुभाषितम्"
-AUTHOR = "हरिहरः"
-PUBLISHER = "तुकाराम-जावाजी"
-"PUBLISH YEAR" = "1910"
-DOMAIN = "सुभाषितसंग्रहः"
-SUB-DOMAIN = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
-PAGES = "71"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "केदारनाथः वासुदेव-लक्ष्मणशास्त्री"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7166"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwNjkxMzcwOTA5Nzg2&pageno=MjI0MjQyNjk5NTk="
 title = "हरिहरसुभाषितम्"
+author = "हरिहरः"
+publisher = "तुकाराम-जावाजी"
+"publish year" = "1910"
+domain = "सुभाषितसंग्रहः"
+sub-domain = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
+pages = "71"
+language = "संस्कृतम्"
+editor = "केदारनाथः वासुदेव-लक्ष्मणशास्त्री"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-7166"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwNjkxMzcwOTA5Nzg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हरिहरसुभाषितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjUwNjkxMzcwOTA5Nzg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2535,8 +2534,5 @@ title = "हरिहरसुभाषितम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

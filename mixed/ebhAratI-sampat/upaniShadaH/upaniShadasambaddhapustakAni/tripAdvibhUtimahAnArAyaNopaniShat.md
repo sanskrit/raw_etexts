@@ -1,12 +1,11 @@
 +++
-TITLE = "त्रिपाद्विभूतिमहानारायणोपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4342"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDIzNjk1NDg2NTE4NjE0"
 title = "त्रिपाद्विभूतिमहानारायणोपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4342"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDIzNjk1NDg2NTE4NjE0"
 
 +++
 [[त्रिपाद्विभूतिमहानारायणोपनिषत्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDIzNjk1NDg2NTE4NjE0)]]

@@ -1,12 +1,11 @@
 +++
-TITLE = "अजामिलमोक्षप्रबन्धः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "चम्पू"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3156"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM4MzgwMTQxNDY5MjAz&pageno=MjI0MjQyNjk5NTk="
 title = "अजामिलमोक्षप्रबन्धः"
+domain = "साहित्यम्"
+sub-domain = "चम्पू"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3156"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM4MzgwMTQxNDY5MjAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अजामिलमोक्षप्रबन्धः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjM4MzgwMTQxNDY5MjAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -243,8 +242,5 @@ title = "अजामिलमोक्षप्रबन्धः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

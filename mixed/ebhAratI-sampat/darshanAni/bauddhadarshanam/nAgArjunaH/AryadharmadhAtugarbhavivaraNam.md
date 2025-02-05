@@ -1,15 +1,14 @@
 +++
-TITLE = "आर्यधर्मधातुगर्भविवरणम्"
-AUTHOR = "नागार्जुनः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-TRANSLATOR = "ज्ञानभद्रः"
-EDITOR = "पलचेक्महाभागः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3655"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0MjUwNjYyNjY4MDUz&pageno=MjI0MjQyNjk5NTk="
 title = "आर्यधर्मधातुगर्भविवरणम्"
+author = "नागार्जुनः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+translator = "ज्ञानभद्रः"
+editor = "पलचेक्महाभागः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3655"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0MjUwNjYyNjY4MDUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आर्यधर्मधातुगर्भविवरणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE0MjUwNjYyNjY4MDUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -63,8 +62,5 @@ title = "आर्यधर्मधातुगर्भविवरणम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

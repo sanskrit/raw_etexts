@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रृङ्गारशेखरभाणः"
-AUTHOR = "सुन्दरेशशर्मा"
-PUBLISHER = "जेनरल्-स्टोर्स्-तञ्जावूरु"
-"PUBLISH YEAR" = "1938"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "52"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीविद्या-पवर्-हौस्"
-"SERIAL NO." = "Ebharati-5557"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUwOTMxOTExMTU0MzM1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रृङ्गारशेखरभाणः"
+author = "सुन्दरेशशर्मा"
+publisher = "जेनरल्-स्टोर्स्-तञ्जावूरु"
+"publish year" = "1938"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "52"
+language = "संस्कृतम्"
+printer = "श्रीविद्या-पवर्-हौस्"
+"serial no." = "Ebharati-5557"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUwOTMxOTExMTU0MzM1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रृङ्गारशेखरभाणः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDUwOTMxOTExMTU0MzM1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1239,19 +1238,6 @@ title = "श्रृङ्गारशेखरभाणः"
 समाप्तः**
 
 **![](#)![](#)![](../books_images/U-IMG-1721486544Screenshot2024-07-20201017.png)**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

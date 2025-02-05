@@ -1,16 +1,15 @@
 +++
-TITLE = "व्यवहारमाला Split-1"
-PUBLISHER = "विनायकः गणेशः आपटे"
-"PUBLISH YEAR" = "1943"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "35"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वेङ्कटरामः शर्मः"
-PRINTER = "आनन्दाश्रममुद्रणालयम्"
-"SERIAL NO." = "Ebharati-5069"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODExNzM4MjU5NDA2Njg0&pageno=MjI0MjQyNjk5NTk="
 title = "व्यवहारमाला Split-1"
+publisher = "विनायकः गणेशः आपटे"
+"publish year" = "1943"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "35"
+language = "संस्कृतम्"
+editor = "वेङ्कटरामः शर्मः"
+printer = "आनन्दाश्रममुद्रणालयम्"
+"serial no." = "Ebharati-5069"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODExNzM4MjU5NDA2Njg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[व्यवहारमाला Split-1	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODExNzM4MjU5NDA2Njg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6208,8 +6207,5 @@ i
 
 ----------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

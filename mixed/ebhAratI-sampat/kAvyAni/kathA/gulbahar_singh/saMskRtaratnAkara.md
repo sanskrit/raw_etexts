@@ -1,16 +1,15 @@
 +++
-TITLE = "संस्कृतरत्नाकर"
-AUTHOR = "गुल्बहर् सिङ्घ्"
-PUBLISHER = "राय् बहद्दूर् लाल ईश्वरदास"
-"PUBLISH YEAR" = "1940"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "203"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "धरम् चन्द् भार्गव"
-"SERIAL NO." = "Ebharati-5689"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU3ODMxMzI2MjIxNjQ1&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृतरत्नाकर"
+author = "गुल्बहर् सिङ्घ्"
+publisher = "राय् बहद्दूर् लाल ईश्वरदास"
+"publish year" = "1940"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "203"
+language = "संस्कृतम्"
+printer = "धरम् चन्द् भार्गव"
+"serial no." = "Ebharati-5689"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU3ODMxMzI2MjIxNjQ1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृतरत्नाकर	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODU3ODMxMzI2MjIxNjQ1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4524,19 +4523,6 @@ Railway Road, Lahore.
 
 ——————
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

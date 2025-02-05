@@ -1,14 +1,13 @@
 +++
-TITLE = "विधित्रयपरित्राणम्"
-AUTHOR = "वेङ्कटाचार्यदीक्षितः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-PRINTER = "श्रीतिरिमल-तिरुपतिदेवस्थानमुद्रणालयः"
-"SERIAL NO." = "Ebharati-2619"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODEyMzA5ODUxNDE0MTUy"
 title = "विधित्रयपरित्राणम्"
+author = "वेङ्कटाचार्यदीक्षितः"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+printer = "श्रीतिरिमल-तिरुपतिदेवस्थानमुद्रणालयः"
+"serial no." = "Ebharati-2619"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODEyMzA5ODUxNDE0MTUy"
 
 +++
 [[विधित्रयपरित्राणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODEyMzA5ODUxNDE0MTUy)]]

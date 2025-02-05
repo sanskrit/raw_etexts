@@ -1,15 +1,14 @@
 +++
-TITLE = "अनुष्ठानप्रकाशः (चतु्र्थो भागः)"
-PUBLISHER = "खेमराजः"
-"PUBLISH YEAR" = "1934"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "160"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "चतुर्थीलालशर्मा"
-"SERIAL NO." = "Ebharati-8573"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA4MzgyNjg3NTc5MjI4&pageno=MjI0MjQyNjk5NTk="
 title = "अनुष्ठानप्रकाशः (चतु्र्थो भागः)"
+publisher = "खेमराजः"
+"publish year" = "1934"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "160"
+language = "संस्कृतम्"
+editor = "चतुर्थीलालशर्मा"
+"serial no." = "Ebharati-8573"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA4MzgyNjg3NTc5MjI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अनुष्ठानप्रकाशः (चतु्र्थो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjA4MzgyNjg3NTc5MjI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -779,8 +778,5 @@ title = "अनुष्ठानप्रकाशः (चतु्र्थो
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

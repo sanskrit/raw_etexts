@@ -1,12 +1,11 @@
 +++
-TITLE = "निदानसंयुक्तः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3750"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA1MjgwOTA5NTg5OTUz&pageno=MjI0MjQyNjk5NTk="
 title = "निदानसंयुक्तः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3750"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA1MjgwOTA5NTg5OTUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[निदानसंयुक्तः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA1MjgwOTA5NTg5OTUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1117,8 +1116,5 @@ title = "निदानसंयुक्तः"
 
 ------------------------------------------------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

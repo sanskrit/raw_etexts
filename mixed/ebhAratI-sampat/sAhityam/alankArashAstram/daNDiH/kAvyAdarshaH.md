@@ -1,12 +1,11 @@
 +++
-TITLE = "काव्यादर्शः"
-AUTHOR = "दण्डिः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2672"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg1MTU3OTU5MTA1NjUy"
 title = "काव्यादर्शः"
+author = "दण्डिः"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2672"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg1MTU3OTU5MTA1NjUy"
 
 +++
 [[काव्यादर्शः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDg1MTU3OTU5MTA1NjUy)]]

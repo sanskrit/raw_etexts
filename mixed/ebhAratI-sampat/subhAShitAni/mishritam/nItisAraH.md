@@ -1,13 +1,12 @@
 +++
-TITLE = "नीतिसारः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "मिश्रितम्"
-PAGES = "41"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4115"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM1NjY1NzM1NDIwNTkz&pageno=MjI0MjQyNjk5NTk="
 title = "नीतिसारः"
+domain = "सुभाषितानि"
+sub-domain = "मिश्रितम्"
+pages = "41"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4115"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM1NjY1NzM1NDIwNTkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नीतिसारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDM1NjY1NzM1NDIwNTkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3216,8 +3215,5 @@ Wake from sleep the 7 persons mentioned below: student, servant, traveler, a hun
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

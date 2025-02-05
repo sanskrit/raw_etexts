@@ -1,10 +1,9 @@
 +++
-TITLE = "अनिरुद्धसंहिता"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "आगमसम्बद्धपुस्तकानि"
-"SERIAL NO." = "Ebharati-433"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5MjczNjY1MTQ="
 title = "अनिरुद्धसंहिता"
+domain = "आगमः"
+sub-domain = "आगमसम्बद्धपुस्तकानि"
+"serial no." = "Ebharati-433"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5MjczNjY1MTQ="
 
 +++
 [[अनिरुद्धसंहिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5MjczNjY1MTQ=)]]

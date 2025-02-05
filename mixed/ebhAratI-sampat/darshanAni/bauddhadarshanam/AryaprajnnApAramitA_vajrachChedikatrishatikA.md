@@ -1,12 +1,11 @@
 +++
-TITLE = "आर्यप्रज्ञ्नापारमिता वज्रच्छेदिकत्रिशतिका"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3836"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk3MDM5NTg1MTQyODYz&pageno=MjI0MjQyNjk5NTk="
 title = "आर्यप्रज्ञ्नापारमिता वज्रच्छेदिकत्रिशतिका"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3836"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk3MDM5NTg1MTQyODYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आर्यप्रज्ञ्नापारमिता वज्रच्छेदिकत्रिशतिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjk3MDM5NTg1MTQyODYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -358,8 +357,5 @@ idamavocadbhagavān āttamanāḥ\। sthavirasubhūtiste ca bhikṣubhikṣuṇ
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

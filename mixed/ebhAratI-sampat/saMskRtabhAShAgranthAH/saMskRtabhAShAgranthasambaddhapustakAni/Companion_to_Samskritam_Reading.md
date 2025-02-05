@@ -1,15 +1,14 @@
 +++
-TITLE = "Companion to Samskritam Reading"
-"PUBLISH YEAR" = "1878"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "88"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-"PRIMARY COMMENTATOR" = "अनुन्दोरम्-बोरूआः"
-PRINTER = "सरस्वती-प्रेस्-कलकत्ता"
-"SERIAL NO." = "Ebharati-6950"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA5MjM4NDg4MzcxNzY2&pageno=MjI0MjQyNjk5NTk="
 title = "Companion to Samskritam Reading"
+"publish year" = "1878"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "88"
+language = "संस्कृतम् आङ्ग्लम्"
+"primary commentator" = "अनुन्दोरम्-बोरूआः"
+printer = "सरस्वती-प्रेस्-कलकत्ता"
+"serial no." = "Ebharati-6950"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA5MjM4NDg4MzcxNzY2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[Companion to Samskritam Reading	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA5MjM4NDg4MzcxNzY2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1930,8 +1929,5 @@ B. V. 93.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

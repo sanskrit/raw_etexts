@@ -1,12 +1,11 @@
 +++
-TITLE = "रसरत्नसमुच्चयः"
-AUTHOR = "रसवाग्भटः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2570"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ1NDIwMzQzMDE3NjQy"
 title = "रसरत्नसमुच्चयः"
+author = "रसवाग्भटः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2570"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ1NDIwMzQzMDE3NjQy"
 
 +++
 [[रसरत्नसमुच्चयः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ1NDIwMzQzMDE3NjQy)]]

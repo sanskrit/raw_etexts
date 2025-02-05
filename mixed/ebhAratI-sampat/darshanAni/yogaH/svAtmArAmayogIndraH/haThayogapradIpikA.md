@@ -1,14 +1,13 @@
 +++
-TITLE = "हठयोगप्रदीपिका"
-AUTHOR = "स्वात्मारामयोगीन्द्रः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "186"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3856"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMyOTc3MDE1MTYxMDcz"
 title = "हठयोगप्रदीपिका"
+author = "स्वात्मारामयोगीन्द्रः"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "186"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3856"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMyOTc3MDE1MTYxMDcz"
 
 +++
 [[हठयोगप्रदीपिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjMyOTc3MDE1MTYxMDcz)]]

@@ -1,16 +1,15 @@
 +++
-TITLE = "कालमाधवकारिका"
-AUTHOR = "विनायक-गणेश-आपटे"
-PUBLISHER = "आनन्दाश्रममुद्रणालयः"
-"PUBLISH YEAR" = "1942"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "51"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "आनन्दाश्रममुद्रणालयः"
-"SERIAL NO." = "Ebharati-4848"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4MTYyMzg3OTgzNTY0&pageno=MjI0MjQyNjk5NTk="
 title = "कालमाधवकारिका"
+author = "विनायक-गणेश-आपटे"
+publisher = "आनन्दाश्रममुद्रणालयः"
+"publish year" = "1942"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "51"
+language = "संस्कृतम्"
+printer = "आनन्दाश्रममुद्रणालयः"
+"serial no." = "Ebharati-4848"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4MTYyMzg3OTgzNTY0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कालमाधवकारिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjU4MTYyMzg3OTgzNTY0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1243,19 +1242,6 @@ title = "कालमाधवकारिका"
 
 
 ----------
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

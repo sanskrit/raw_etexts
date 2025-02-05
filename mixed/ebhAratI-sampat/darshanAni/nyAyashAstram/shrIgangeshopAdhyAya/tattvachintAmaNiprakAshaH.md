@@ -1,13 +1,12 @@
 +++
-TITLE = "तत्त्वचिन्तामणिप्रकाशः"
-AUTHOR = "श्रीगङ्गेशोपाध्याय"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3629"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM0OTQ3MzYzMDczODQz"
 title = "तत्त्वचिन्तामणिप्रकाशः"
+author = "श्रीगङ्गेशोपाध्याय"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3629"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM0OTQ3MzYzMDczODQz"
 
 +++
 [[तत्त्वचिन्तामणिप्रकाशः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODM0OTQ3MzYzMDczODQz)]]

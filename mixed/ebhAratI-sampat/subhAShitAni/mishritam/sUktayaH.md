@@ -1,12 +1,11 @@
 +++
-TITLE = "सूक्तयः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "मिश्रितम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4126"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxMzMyNjk0MDgwNjkz&pageno=MjI0MjQyNjk5NTk="
 title = "सूक्तयः"
+domain = "सुभाषितानि"
+sub-domain = "मिश्रितम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4126"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxMzMyNjk0MDgwNjkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सूक्तयः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjcxMzMyNjk0MDgwNjkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -111,8 +110,5 @@ title = "सूक्तयः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

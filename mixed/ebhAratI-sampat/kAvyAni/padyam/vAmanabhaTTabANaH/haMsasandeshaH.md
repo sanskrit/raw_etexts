@@ -1,17 +1,16 @@
 +++
-TITLE = "हंससन्देशः"
-AUTHOR = "वामनभट्टबाणः"
-PUBLISHER = "वामनभट्टबाणः"
-"PUBLISH YEAR" = "1941"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "85"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-EDITOR = "जतीन्द्रविमलचौधरिः"
-"COMMENTARY NAME" = "ओरियेन्टल्-प्रेस् कल्कता"
-"SERIAL NO." = "Ebharati-5856"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMyMzI2NTk5MzUxMjY1&pageno=MjI0MjQyNjk5NTk="
 title = "हंससन्देशः"
+author = "वामनभट्टबाणः"
+publisher = "वामनभट्टबाणः"
+"publish year" = "1941"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "85"
+language = "संस्कृतम् आङ्ग्लम्"
+editor = "जतीन्द्रविमलचौधरिः"
+"commentary name" = "ओरियेन्टल्-प्रेस् कल्कता"
+"serial no." = "Ebharati-5856"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMyMzI2NTk5MzUxMjY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हंससन्देशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjMyMzI2NTk5MzUxMjY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1619,19 +1618,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 |  श्यामा तुङ्ग   |  श्यामा-तुङ्ग  |
 |     शेमुषी      |     शेमुषी     |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,15 +1,14 @@
 +++
-TITLE = "अनंगरंगम्"
-AUTHOR = "कल्याणमल्लः"
-"PUBLISH YEAR" = "१९२७"
-DOMAIN = "भारतीयविज्ञानम्"
-SUB-DOMAIN = "कामशास्त्रम्"
-PAGES = "112"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "Richard Schmidt"
-"SERIAL NO." = "Ebharati-4567"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcyMTQxOTM4NDE0ODM0&pageno=MjI0MjQyNjk5NTk="
 title = "अनंगरंगम्"
+author = "कल्याणमल्लः"
+"publish year" = "१९२७"
+domain = "भारतीयविज्ञानम्"
+sub-domain = "कामशास्त्रम्"
+pages = "112"
+language = "संस्कृतम्"
+editor = "Richard Schmidt"
+"serial no." = "Ebharati-4567"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcyMTQxOTM4NDE0ODM0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अनंगरंगम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDcyMTQxOTM4NDE0ODM0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3433,8 +3432,5 @@ L **तद्भुग्नकं**, B **तद्भुग्नकः** M **�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

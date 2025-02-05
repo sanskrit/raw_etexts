@@ -1,13 +1,12 @@
 +++
-TITLE = "अलङ्कारविमर्शिनी-(अलङ्कारसर्वस्वटीका)"
-AUTHOR = "जयरथः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2682"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA4NTcxMjI5MTY0NzUy&pageno=MjI0MjQyNjk5NTk="
 title = "अलङ्कारविमर्शिनी-(अलङ्कारसर्वस्वटीका)"
+author = "जयरथः"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2682"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA4NTcxMjI5MTY0NzUy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अलङ्कारविमर्शिनी-(अलङ्कारसर्वस्वटीका)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDA4NTcxMjI5MTY0NzUy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11938,8 +11937,5 @@ S
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

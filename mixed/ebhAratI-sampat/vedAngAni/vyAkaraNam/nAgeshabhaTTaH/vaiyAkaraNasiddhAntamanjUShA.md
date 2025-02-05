@@ -1,13 +1,12 @@
 +++
-TITLE = "वैयाकरणसिद्धान्तमञ्जूषा"
-AUTHOR = "नागेशभट्टः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3594"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODY2NDYyNTk0MDEwNTQz"
 title = "वैयाकरणसिद्धान्तमञ्जूषा"
+author = "नागेशभट्टः"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3594"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODY2NDYyNTk0MDEwNTQz"
 
 +++
 [[वैयाकरणसिद्धान्तमञ्जूषा	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODY2NDYyNTk0MDEwNTQz)]]

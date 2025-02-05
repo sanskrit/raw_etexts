@@ -1,16 +1,15 @@
 +++
-TITLE = "सुभाषितपुष्पमकरन्दः"
-PUBLISHER = "मुकुन्द-गणेश-मिरजकरः"
-"PUBLISH YEAR" = "1924"
-DOMAIN = "सुभाषितसंग्रहः"
-SUB-DOMAIN = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
-PAGES = "64"
-LANGUAGE = "संस्कृतम् मराठी"
-TRANSLATOR = "मुकुन्द-गणेश-मिरजकरः"
-PRINTER = "विजय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7193"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MTQ3MTc5MDA1MDk2&pageno=MjI0MjQyNjk5NTk="
 title = "सुभाषितपुष्पमकरन्दः"
+publisher = "मुकुन्द-गणेश-मिरजकरः"
+"publish year" = "1924"
+domain = "सुभाषितसंग्रहः"
+sub-domain = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
+pages = "64"
+language = "संस्कृतम् मराठी"
+translator = "मुकुन्द-गणेश-मिरजकरः"
+printer = "विजय-मुद्रणालयः"
+"serial no." = "Ebharati-7193"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MTQ3MTc5MDA1MDk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुभाषितपुष्पमकरन्दः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MTQ3MTc5MDA1MDk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1728,8 +1727,5 @@ title = "सुभाषितपुष्पमकरन्दः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

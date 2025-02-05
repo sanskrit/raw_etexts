@@ -1,16 +1,15 @@
 +++
-TITLE = "नारदीयमनुसंहिता"
-"PUBLISH YEAR" = "1929"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "244"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "साम्बशिवशास्त्री"
-"PRIMARY COMMENTATOR" = "भवस्वामी"
-PRINTER = "राजकीय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5192"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIwNTU2MDk0MjE0ODk0&pageno=MjI0MjQyNjk5NTk="
 title = "नारदीयमनुसंहिता"
+"publish year" = "1929"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "244"
+language = "संस्कृतम्"
+editor = "साम्बशिवशास्त्री"
+"primary commentator" = "भवस्वामी"
+printer = "राजकीय-मुद्रणालयः"
+"serial no." = "Ebharati-5192"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIwNTU2MDk0MjE0ODk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नारदीयमनुसंहिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDIwNTU2MDk0MjE0ODk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7208,8 +7207,5 @@ Trivandrum,
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

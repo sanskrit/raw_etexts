@@ -1,17 +1,16 @@
 +++
-TITLE = "मुकुन्दानन्दाभाणः"
-AUTHOR = "काशिपतिः"
-PUBLISHER = "तुकारामजावजी"
-"PUBLISH YEAR" = "1894"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "81"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "दुर्गाप्रसादः  काशीनाथः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5498"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUxNjM4MDQzNzg3NzI1&pageno=MjI0MjQyNjk5NTk="
 title = "मुकुन्दानन्दाभाणः"
+author = "काशिपतिः"
+publisher = "तुकारामजावजी"
+"publish year" = "1894"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "81"
+language = "संस्कृतम्"
+editor = "दुर्गाप्रसादः  काशीनाथः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-5498"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUxNjM4MDQzNzg3NzI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मुकुन्दानन्दाभाणः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjUxNjM4MDQzNzg3NzI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1894,19 +1893,6 @@ title = "मुकुन्दानन्दाभाणः"
 
 **इति श्रीमत्काशीपतिकविराड्विरचितो मुकुन्दानन्दनामा भाणः संपूर्णः।  
 ––––––––––**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

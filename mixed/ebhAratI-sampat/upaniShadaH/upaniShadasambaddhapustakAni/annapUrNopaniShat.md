@@ -1,11 +1,10 @@
 +++
-TITLE = "अन्नपूर्णोपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4251"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjI5NTM1NjIwMDgwODA0"
 title = "अन्नपूर्णोपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4251"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjI5NTM1NjIwMDgwODA0"
 
 +++
 [[अन्नपूर्णोपनिषत्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjI5NTM1NjIwMDgwODA0)]]

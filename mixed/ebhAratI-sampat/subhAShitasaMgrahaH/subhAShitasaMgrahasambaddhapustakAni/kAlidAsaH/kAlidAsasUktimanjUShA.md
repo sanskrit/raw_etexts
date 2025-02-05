@@ -1,15 +1,14 @@
 +++
-TITLE = "कालिदाससूक्तिमञ्जूषा"
-AUTHOR = "कालिदासः"
-"PUBLISH YEAR" = "1927"
-DOMAIN = "सुभाषितसंग्रहः"
-SUB-DOMAIN = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
-PAGES = "490"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "केशवः"
-"SERIAL NO." = "Ebharati-7168"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk4MDg2NTYwMTAxODg2&pageno=MjI0MjQyNjk5NTk="
 title = "कालिदाससूक्तिमञ्जूषा"
+author = "कालिदासः"
+"publish year" = "1927"
+domain = "सुभाषितसंग्रहः"
+sub-domain = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
+pages = "490"
+language = "संस्कृतम्"
+editor = "केशवः"
+"serial no." = "Ebharati-7168"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk4MDg2NTYwMTAxODg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कालिदाससूक्तिमञ्जूषा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk4MDg2NTYwMTAxODg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -15600,8 +15599,5 @@ Lovers of Sanskrit Literature and particularly of Kalidasa will thinkful to you 
 **        P. V. KANE,** M. A LL. M.,  
            Vakil, High Court.
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

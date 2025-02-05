@@ -1,15 +1,14 @@
 +++
-TITLE = "हितोपदेशः"
-AUTHOR = "नारायणपण्डितः"
-PUBLISHER = "चौखम्बा-संस्कृत-प्रतिष्ठान"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "302"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "नारायणरामाचार्यः"
-"SERIAL NO." = "Ebharati-8612"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyODM3OTM2OTE3NjI4&pageno=MjI0MjQyNjk5NTk="
 title = "हितोपदेशः"
+author = "नारायणपण्डितः"
+publisher = "चौखम्बा-संस्कृत-प्रतिष्ठान"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "302"
+language = "संस्कृतम्"
+editor = "नारायणरामाचार्यः"
+"serial no." = "Ebharati-8612"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyODM3OTM2OTE3NjI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हितोपदेशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDYyODM3OTM2OTE3NjI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8183,19 +8182,6 @@ Bengal Sanskrit Association
 |    स्थान एव नियोज्यन्ते     | ७१  |      हीनसेवा न कर्तव्या      | ११  |
 |   स्थानमुत्सृज्य गच्छन्ति   | १७४ |      हीयते हि मतिस्तात       | ४२  |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

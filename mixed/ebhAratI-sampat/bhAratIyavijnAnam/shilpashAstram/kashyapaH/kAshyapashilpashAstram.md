@@ -1,13 +1,12 @@
 +++
-TITLE = "काश्यपशिल्पशास्त्रम्"
-AUTHOR = "कश्यपः"
-DOMAIN = "भारतीयविज्ञानम्"
-SUB-DOMAIN = "शिल्पशास्त्रम्"
-PAGES = "309"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4997"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM3MjgzMzIyMzk2OTc0&pageno=MjI0MjQyNjk5NTk="
 title = "काश्यपशिल्पशास्त्रम्"
+author = "कश्यपः"
+domain = "भारतीयविज्ञानम्"
+sub-domain = "शिल्पशास्त्रम्"
+pages = "309"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4997"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM3MjgzMzIyMzk2OTc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काश्यपशिल्पशास्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDM3MjgzMzIyMzk2OTc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -30758,19 +30757,6 @@ K. S. Subrahmaṇya Śāstri, Śrīmat Kāśyapaśilpaśāstram, Pūrva Bhāga�
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,13 +1,12 @@
 +++
-TITLE = "युक्तिषष्टिकारिका"
-AUTHOR = "नागार्जुनपादः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3849"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcyMjgwNzM1OTg0OTYz&pageno=MjI0MjQyNjk5NTk="
 title = "युक्तिषष्टिकारिका"
+author = "नागार्जुनपादः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3849"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcyMjgwNzM1OTg0OTYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[युक्तिषष्टिकारिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODcyMjgwNzM1OTg0OTYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -171,19 +170,6 @@ title = "युक्तिषष्टिकारिका"
 **-----------------------------------------------**  
 \\Z
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

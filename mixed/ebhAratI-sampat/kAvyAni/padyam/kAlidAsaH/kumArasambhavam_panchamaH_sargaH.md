@@ -1,16 +1,15 @@
 +++
-TITLE = "कुमारसम्भवम् (पञ्चमः सर्गः)"
-AUTHOR = "कालिदासः"
-PUBLISHER = "राम-नारौण-लालः"
-"PUBLISH YEAR" = "1945"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "247"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "रामजान-आलि-शाहः"
-"SERIAL NO." = "Ebharati-8205"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE1MjcwOTYxOTQ2Nzg3&pageno=MjI0MjQyNjk5NTk="
 title = "कुमारसम्भवम् (पञ्चमः सर्गः)"
+author = "कालिदासः"
+publisher = "राम-नारौण-लालः"
+"publish year" = "1945"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "247"
+language = "संस्कृतम्"
+printer = "रामजान-आलि-शाहः"
+"serial no." = "Ebharati-8205"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE1MjcwOTYxOTQ2Nzg3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कुमारसम्भवम् (पञ्चमः सर्गः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE1MjcwOTYxOTQ2Nzg3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3466,8 +3465,5 @@ or
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

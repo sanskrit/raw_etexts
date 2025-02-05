@@ -1,17 +1,16 @@
 +++
-TITLE = "शाङ्कर-योगभाष्यविवरणम् (प्रथमः भागः)"
-AUTHOR = "शन्करभगवत्पादाः"
-PUBLISHER = "मुन्शीराम-मनोहरलाल-प्रकाशनम्"
-"PUBLISH YEAR" = "२०१०"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "425"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "टि एस् रुक्मिणी"
-EDITOR = "टि एस् रुक्मिणी"
-"SERIAL NO." = "Ebharati-1660"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1MDI0MjY3MzUzOTUx&pageno=MjI0MjQyNjk5NTk="
 title = "शाङ्कर-योगभाष्यविवरणम् (प्रथमः भागः)"
+author = "शन्करभगवत्पादाः"
+publisher = "मुन्शीराम-मनोहरलाल-प्रकाशनम्"
+"publish year" = "२०१०"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "425"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "टि एस् रुक्मिणी"
+editor = "टि एस् रुक्मिणी"
+"serial no." = "Ebharati-1660"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1MDI0MjY3MzUzOTUx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शाङ्कर-योगभाष्यविवरणम् (प्रथमः भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDI1MDI0MjY3MzUzOTUx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10650,8 +10649,5 @@ Rs 1600 (for the set)
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

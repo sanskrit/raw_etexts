@@ -1,16 +1,15 @@
 +++
-TITLE = "भाषापरिच्छेदः (कारिकावली)"
-AUTHOR = "विश्वनाथपञ्चाननः"
-PUBLISHER = "गङ्गाविष्णु-खेमराजः"
-"PUBLISH YEAR" = "1886"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायदर्शनम्"
-PAGES = "107"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "वेङ्कटेश्वर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8454"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg1NTM0MzMyMjU1MTE4&pageno=MjI0MjQyNjk5NTk="
 title = "भाषापरिच्छेदः (कारिकावली)"
+author = "विश्वनाथपञ्चाननः"
+publisher = "गङ्गाविष्णु-खेमराजः"
+"publish year" = "1886"
+domain = "दर्शनानि"
+sub-domain = "न्यायदर्शनम्"
+pages = "107"
+language = "संस्कृतम्"
+printer = "वेङ्कटेश्वर-यन्त्रालयः"
+"serial no." = "Ebharati-8454"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg1NTM0MzMyMjU1MTE4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भाषापरिच्छेदः (कारिकावली)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODg1NTM0MzMyMjU1MTE4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1416,19 +1415,6 @@ title = "भाषापरिच्छेदः (कारिकावली)"
 
 ** इति श्रीमहामहोपाध्यायविद्यानिवासभट्टाचार्यसुतश्रीविश्वनाथपञ्चाननभट्टाचार्यविरचितः सिद्धान्तमुक्तावलीसमेतो भाषापरिच्छेदः समाप्तः।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

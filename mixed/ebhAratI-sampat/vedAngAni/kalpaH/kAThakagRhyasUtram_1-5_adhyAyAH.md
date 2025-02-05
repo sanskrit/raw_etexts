@@ -1,12 +1,11 @@
 +++
-TITLE = "काठकगृह्यसूत्रम् १-५ अध्यायाः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3214"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAzNDQxMzI5MTM1ODAz&pageno=MjI0MjQyNjk5NTk="
 title = "काठकगृह्यसूत्रम् १-५ अध्यायाः"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3214"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAzNDQxMzI5MTM1ODAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काठकगृह्यसूत्रम् १-५ अध्यायाः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODAzNDQxMzI5MTM1ODAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -136,8 +135,5 @@ title = "काठकगृह्यसूत्रम् १-५ अध्य�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

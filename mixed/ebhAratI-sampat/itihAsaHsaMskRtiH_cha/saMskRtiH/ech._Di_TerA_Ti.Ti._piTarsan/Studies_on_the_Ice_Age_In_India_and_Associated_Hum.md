@@ -1,15 +1,14 @@
 +++
-TITLE = "Studies on the Ice Age In India and Associated Human Culture"
-AUTHOR = "एच्. डि टेरा टि.टि. पिटर्सन्"
-PUBLISHER = "Carnegie Institution of Washington"
-"PUBLISH YEAR" = "1939"
-DOMAIN = "इतिहासःसंस्कृतिः च"
-SUB-DOMAIN = "संस्कृतिः"
-PAGES = "440"
-LANGUAGE = "आङ्ग्लम्"
-"SERIAL NO." = "Ebharati-7701"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI4MTk4MjYwNzYyOTM3&pageno=MjI0MjQyNjk5NTk="
 title = "Studies on the Ice Age In India and Associated Human Culture"
+author = "एच्. डि टेरा टि.टि. पिटर्सन्"
+publisher = "Carnegie Institution of Washington"
+"publish year" = "1939"
+domain = "इतिहासःसंस्कृतिः च"
+sub-domain = "संस्कृतिः"
+pages = "440"
+language = "आङ्ग्लम्"
+"serial no." = "Ebharati-7701"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI4MTk4MjYwNzYyOTM3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[Studies on the Ice Age In India and Associated Human Culture	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjI4MTk4MjYwNzYyOTM3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4899,19 +4898,6 @@ FOSSIL PLANTS FROM INTERGLACIAL KAREWA CLAYS, KASHMIR
 
 (For explanation see opposite page.)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

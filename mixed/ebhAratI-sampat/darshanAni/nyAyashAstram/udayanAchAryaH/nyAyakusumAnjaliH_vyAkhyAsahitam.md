@@ -1,17 +1,16 @@
 +++
-TITLE = "न्यायकुसुमाञ्जलिः व्याख्यासहितम्"
-AUTHOR = "उदयनाचार्यः"
-"PUBLISH YEAR" = "१९४१"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"PRIMARY COMMENTATOR" = "उत्तमूर्\u200c ति. वीरराघवाचार्यः"
-"COMMENTARY NAME" = "कुसुमाञ्जलिविस्तरः विशेषविषयटिप्पणी"
-PRINTER = "उदयमुद्रणालयः"
-"SERIAL NO." = "Ebharati-4068"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk2MjcxNDE3MjE1MDkz&pageno=MjI0MjQyNjk5NTk="
 title = "न्यायकुसुमाञ्जलिः व्याख्यासहितम्"
+author = "उदयनाचार्यः"
+"publish year" = "१९४१"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"primary commentator" = "उत्तमूर्\u200c ति. वीरराघवाचार्यः"
+"commentary name" = "कुसुमाञ्जलिविस्तरः विशेषविषयटिप्पणी"
+printer = "उदयमुद्रणालयः"
+"serial no." = "Ebharati-4068"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk2MjcxNDE3MjE1MDkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[न्यायकुसुमाञ्जलिः व्याख्यासहितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk2MjcxNDE3MjE1MDkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -15891,8 +15890,5 @@ o\.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

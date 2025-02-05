@@ -1,13 +1,12 @@
 +++
-TITLE = "तिथिनिर्णयः"
-AUTHOR = "आनन्दतीर्थः"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2976"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc4NzQ0NzE4NDg2NTgy&pageno=MjI0MjQyNjk5NTk="
 title = "तिथिनिर्णयः"
+author = "आनन्दतीर्थः"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2976"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc4NzQ0NzE4NDg2NTgy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तिथिनिर्णयः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc4NzQ0NzE4NDg2NTgy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -242,19 +241,6 @@ F.N.
  -इति श्रीसत्यविजयतीर्थश्रीचरणशिष्यमधुसूदनभिक्षुविरचिते तिथिनिर्णयव्याख्याने
 
  
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

@@ -1,12 +1,11 @@
 +++
-TITLE = "आप्तसंहिता"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "धर्मशास्त्रसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2541"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAzNDk5MTU0NjI5MzQy&pageno=MjI0MjQyNjk5NTk="
 title = "आप्तसंहिता"
+domain = "धर्मशास्त्रम्"
+sub-domain = "धर्मशास्त्रसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2541"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAzNDk5MTU0NjI5MzQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आप्तसंहिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjAzNDk5MTU0NjI5MzQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -783,8 +782,5 @@ www.सुब्.उनि-गोएत्तिन्गेन्.देबे�
 \\\\Z  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

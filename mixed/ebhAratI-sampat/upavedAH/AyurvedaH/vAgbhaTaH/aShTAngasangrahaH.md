@@ -1,14 +1,13 @@
 +++
-TITLE = "अष्टाङ्गसङ्ग्रहः"
-AUTHOR = "वाग्भटः"
-"PUBLISH YEAR" = "१९१०"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "761"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4674"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0MDgwNzM0Njg2ODQ0&pageno=MjI0MjQyNjk5NTk="
 title = "अष्टाङ्गसङ्ग्रहः"
+author = "वाग्भटः"
+"publish year" = "१९१०"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "761"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4674"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0MDgwNzM0Njg2ODQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अष्टाङ्गसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODI0MDgwNzM0Njg2ODQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2006,8 +2005,5 @@ title = "अष्टाङ्गसङ्ग्रहः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

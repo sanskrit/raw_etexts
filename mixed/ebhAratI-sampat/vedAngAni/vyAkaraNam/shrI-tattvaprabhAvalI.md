@@ -1,12 +1,11 @@
 +++
-TITLE = "श्री-तत्त्वप्रभावली"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3536"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxNDAyMzE3MjQ0OTMz&pageno=MjI0MjQyNjk5NTk="
 title = "श्री-तत्त्वप्रभावली"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3536"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxNDAyMzE3MjQ0OTMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्री-तत्त्वप्रभावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjkxNDAyMzE3MjQ0OTMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1825,8 +1824,5 @@ title = "श्री-तत्त्वप्रभावली"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

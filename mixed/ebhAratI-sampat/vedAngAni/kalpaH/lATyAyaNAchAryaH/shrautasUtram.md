@@ -1,18 +1,17 @@
 +++
-TITLE = "श्रौतसूत्रम्"
-AUTHOR = "लाट्यायणाचार्यः"
-PUBLISHER = "एशियाटिक-सोसैटि-आफ्-बेङ्गाल्"
-"PUBLISH YEAR" = "1872"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "914"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "आनन्दचन्द्रवेदान्तवागीशः"
-"PRIMARY COMMENTATOR" = "अग्निस्वामी"
-PRINTER = "श्रीकालीकिङ्करचक्रवर्त्ति-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7461"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ1MDE3NDY5NzIyNjE3&pageno=MjI0MjQyNjk5NTk="
 title = "श्रौतसूत्रम्"
+author = "लाट्यायणाचार्यः"
+publisher = "एशियाटिक-सोसैटि-आफ्-बेङ्गाल्"
+"publish year" = "1872"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "914"
+language = "संस्कृतम्"
+editor = "आनन्दचन्द्रवेदान्तवागीशः"
+"primary commentator" = "अग्निस्वामी"
+printer = "श्रीकालीकिङ्करचक्रवर्त्ति-यन्त्रालयः"
+"serial no." = "Ebharati-7461"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ1MDE3NDY5NzIyNjE3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रौतसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ1MDE3NDY5NzIyNjE3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -15731,8 +15730,5 @@ _(![](../books_images/U-IMG-170965116317.02.2024_19.55.55_REC3.png))
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

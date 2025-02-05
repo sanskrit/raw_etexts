@@ -1,13 +1,12 @@
 +++
-TITLE = "पञ्चस्कन्धप्रकरणम्"
-AUTHOR = "वसुबन्धुः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3754"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgxMjUwNDk4OTYzMDYz"
 title = "पञ्चस्कन्धप्रकरणम्"
+author = "वसुबन्धुः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3754"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgxMjUwNDk4OTYzMDYz"
 
 +++
 [[पञ्चस्कन्धप्रकरणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODgxMjUwNDk4OTYzMDYz)]]

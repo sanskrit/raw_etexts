@@ -1,16 +1,15 @@
 +++
-TITLE = "तृतीयापाठावली"
-AUTHOR = "टी.गणपतिशास्त्री"
-PUBLISHER = "के.नारायणअयेनगरः"
-"PUBLISH YEAR" = "1907"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "89"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "भास्कर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7012"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTIxMzc2&pageno=MjI0MjQyNjk5NTk="
 title = "तृतीयापाठावली"
+author = "टी.गणपतिशास्त्री"
+publisher = "के.नारायणअयेनगरः"
+"publish year" = "1907"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "89"
+language = "संस्कृतम्"
+printer = "भास्कर-यन्त्रालयः"
+"serial no." = "Ebharati-7012"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTIxMzc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तृतीयापाठावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTIxMzc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1001,19 +1000,6 @@ title = "तृतीयापाठावली"
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

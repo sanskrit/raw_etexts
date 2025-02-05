@@ -1,16 +1,15 @@
 +++
-TITLE = "अभिनवा पाठावलिः"
-AUTHOR = "लक्ष्मीकान्तशर्मा"
-PUBLISHER = "F.E Francis"
-"PUBLISH YEAR" = "1937"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "209"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "कर्णाटक-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6952"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ3NzEzNzc4NTYzNzY2&pageno=MjI0MjQyNjk5NTk="
 title = "अभिनवा पाठावलिः"
+author = "लक्ष्मीकान्तशर्मा"
+publisher = "F.E Francis"
+"publish year" = "1937"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "209"
+language = "संस्कृतम्"
+printer = "कर्णाटक-यन्त्रालयः"
+"serial no." = "Ebharati-6952"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ3NzEzNzc4NTYzNzY2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अभिनवा पाठावलिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQ3NzEzNzc4NTYzNzY2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5384,8 +5383,5 @@ syllabic instantsin each pada)     (regulated by the number
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,13 +1,12 @@
 +++
-TITLE = "सात्त्वसम्हिता"
-AUTHOR = "अलशिङ्गभट्टः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "आगमसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4164"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODAyNTQ0MzUzODI3OTkz"
 title = "सात्त्वसम्हिता"
+author = "अलशिङ्गभट्टः"
+domain = "आगमः"
+sub-domain = "आगमसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4164"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODAyNTQ0MzUzODI3OTkz"
 
 +++
 [[सात्त्वसम्हिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODAyNTQ0MzUzODI3OTkz)]]

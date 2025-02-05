@@ -1,12 +1,11 @@
 +++
-TITLE = "कीलकस्तोत्रम्"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3005"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDExODc0ODA3ODY0ODgy&pageno=MjI0MjQyNjk5NTk="
 title = "कीलकस्तोत्रम्"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3005"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDExODc0ODA3ODY0ODgy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कीलकस्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDExODc0ODA3ODY0ODgy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -91,8 +90,5 @@ title = "कीलकस्तोत्रम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

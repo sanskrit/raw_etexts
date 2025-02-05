@@ -1,12 +1,11 @@
 +++
-TITLE = "सर्वसाक्षात्काराख्यटीका-सङ्कल्पसूर्योदयः"
-AUTHOR = "राघवाचार्यः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2873"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjA0ODc0NDAyNzk3NTcy"
 title = "सर्वसाक्षात्काराख्यटीका-सङ्कल्पसूर्योदयः"
+author = "राघवाचार्यः"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2873"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjA0ODc0NDAyNzk3NTcy"
 
 +++
 [[सर्वसाक्षात्काराख्यटीका-सङ्कल्पसूर्योदयः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjA0ODc0NDAyNzk3NTcy)]]

@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीगुह्यसमाजतन्त्रम्"
-PUBLISHER = "बिनयतोष-भट्टाचार्यः"
-"PUBLISH YEAR" = "1931"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "264"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "बिनयतोष-भट्टाचार्यः"
-PRINTER = "बैप्टिस्टमिशन-प्रेस्"
-"SERIAL NO." = "Ebharati-8586"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkyNTM0NzM3MzIyNDI4&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीगुह्यसमाजतन्त्रम्"
+publisher = "बिनयतोष-भट्टाचार्यः"
+"publish year" = "1931"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "264"
+language = "संस्कृतम्"
+editor = "बिनयतोष-भट्टाचार्यः"
+printer = "बैप्टिस्टमिशन-प्रेस्"
+"serial no." = "Ebharati-8586"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkyNTM0NzM3MzIyNDI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीगुह्यसमाजतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjkyNTM0NzM3MzIyNDI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5390,8 +5389,5 @@ with—
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

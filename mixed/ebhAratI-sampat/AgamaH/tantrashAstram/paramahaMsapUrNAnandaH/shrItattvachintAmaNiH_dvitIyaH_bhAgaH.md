@@ -1,17 +1,16 @@
 +++
-TITLE = "श्रीतत्त्वचिन्तामणिः (द्वितीयः भागः)"
-AUTHOR = "परमहंसपूर्णानन्दः"
-PUBLISHER = "मेट्रोपालिटन्-प्रिन्टिङ्ग्-अन्ड्-पब्लिशिन्ग्-हौस्-कलिकाता"
-"PUBLISH YEAR" = "1937"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "121"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "चिन्तामणिभट्टाचार्यः"
-PRINTER = "मेट्रोपालिटन्-प्रिन्टिङ्ग्-अन्ड्-पब्लिशिन्ग्-हौस्-कलिकाता"
-"SERIAL NO." = "Ebharati-6061"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3OTEzNTIyMzM4MTg1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीतत्त्वचिन्तामणिः (द्वितीयः भागः)"
+author = "परमहंसपूर्णानन्दः"
+publisher = "मेट्रोपालिटन्-प्रिन्टिङ्ग्-अन्ड्-पब्लिशिन्ग्-हौस्-कलिकाता"
+"publish year" = "1937"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "121"
+language = "संस्कृतम्"
+editor = "चिन्तामणिभट्टाचार्यः"
+printer = "मेट्रोपालिटन्-प्रिन्टिङ्ग्-अन्ड्-पब्लिशिन्ग्-हौस्-कलिकाता"
+"serial no." = "Ebharati-6061"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3OTEzNTIyMzM4MTg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीतत्त्वचिन्तामणिः (द्वितीयः भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3OTEzNTIyMzM4MTg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3871,19 +3870,6 @@ PUBLISHING HOUSE, LIMITED
 श्री तत्वचिन्तामणिः  
 **समाप्तः॥**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

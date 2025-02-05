@@ -1,18 +1,17 @@
 +++
-TITLE = "कुवलयानन्द-करिकाः"
-AUTHOR = "अप्पय्यदीक्षितः"
-PUBLISHER = "जे.एन्.बेनर्जी"
-"PUBLISH YEAR" = "1903"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "200"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "सुब्रह्मण्यशर्मा"
-EDITOR = "सुब्रह्मण्यशर्मा"
-PRINTER = "बेनर्जी- मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5992"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI2Mjk1NDg0OTAyNTc1&pageno=MjI0MjQyNjk5NTk="
 title = "कुवलयानन्द-करिकाः"
+author = "अप्पय्यदीक्षितः"
+publisher = "जे.एन्.बेनर्जी"
+"publish year" = "1903"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "200"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "सुब्रह्मण्यशर्मा"
+editor = "सुब्रह्मण्यशर्मा"
+printer = "बेनर्जी- मुद्रणालयः"
+"serial no." = "Ebharati-5992"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI2Mjk1NDg0OTAyNTc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कुवलयानन्द-करिकाः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDI2Mjk1NDg0OTAyNTc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5578,8 +5577,5 @@ THE END.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

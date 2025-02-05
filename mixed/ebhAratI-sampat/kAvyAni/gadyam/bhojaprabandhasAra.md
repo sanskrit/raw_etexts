@@ -1,14 +1,13 @@
 +++
-TITLE = "भोजप्रबन्धसार"
-"PUBLISH YEAR" = "1882"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "गद्यम्"
-PAGES = "68"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "मुन्शिनवलकिशोर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5329"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM4NjY4NTc5MzY1MTE1&pageno=MjI0MjQyNjk5NTk="
 title = "भोजप्रबन्धसार"
+"publish year" = "1882"
+domain = "काव्यानि"
+sub-domain = "गद्यम्"
+pages = "68"
+language = "संस्कृतम् हिन्दी"
+printer = "मुन्शिनवलकिशोर-यन्त्रालयः"
+"serial no." = "Ebharati-5329"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM4NjY4NTc5MzY1MTE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भोजप्रबन्धसार	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODM4NjY4NTc5MzY1MTE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1066,8 +1065,5 @@ title = "भोजप्रबन्धसार"
 
 \_\_\_\_\_\_\_\_\_₀\_\_\_\_\_\_\_\_\_\_\_
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

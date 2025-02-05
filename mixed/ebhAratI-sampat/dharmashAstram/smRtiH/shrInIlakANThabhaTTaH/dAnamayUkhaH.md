@@ -1,13 +1,12 @@
 +++
-TITLE = "दानमयूखः"
-AUTHOR = "श्रीनीलकाण्ठभट्टः"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "278"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-6473"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA2NzkxNzc2MzgzMTI2&pageno=MjI0MjQyNjk5NTk="
 title = "दानमयूखः"
+author = "श्रीनीलकाण्ठभट्टः"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "278"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-6473"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA2NzkxNzc2MzgzMTI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दानमयूखः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjA2NzkxNzc2MzgzMTI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1826,19 +1825,6 @@ title = "दानमयूखः"
 
 शुभमस्तु ॥
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

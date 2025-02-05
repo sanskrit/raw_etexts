@@ -1,14 +1,13 @@
 +++
-TITLE = "प्रकरणानि"
-AUTHOR = "श्रीसदाशिवसरस्वती"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतदर्शनम्"
-PAGES = "73"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "वाणिविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7631"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMjI5NTIzNzQ1MjM3&pageno=MjI0MjQyNjk5NTk="
 title = "प्रकरणानि"
+author = "श्रीसदाशिवसरस्वती"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतदर्शनम्"
+pages = "73"
+language = "संस्कृतम्"
+printer = "वाणिविलास-मुद्रणालयः"
+"serial no." = "Ebharati-7631"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMjI5NTIzNzQ1MjM3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रकरणानि	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMjI5NTIzNzQ1MjM3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1438,19 +1437,6 @@ SRIRANGAM.**
 
 ![](../books_images/U-IMG-1734974670Screenshot2024-12-23225407.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

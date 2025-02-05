@@ -1,13 +1,12 @@
 +++
-TITLE = "हयग्रीवसम्पदास्तोत्रम्"
-AUTHOR = "श्रीमद्वादिराजयतिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-PAGES = "1"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2208"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc3NzYyMzA3OTU5MTEy&pageno=MjI0MjQyNjk5NTk="
 title = "हयग्रीवसम्पदास्तोत्रम्"
+author = "श्रीमद्वादिराजयतिः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+pages = "1"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2208"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc3NzYyMzA3OTU5MTEy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हयग्रीवसम्पदास्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njc3NzYyMzA3OTU5MTEy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -59,19 +58,6 @@ title = "हयग्रीवसम्पदास्तोत्रम्"
 
 ----------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

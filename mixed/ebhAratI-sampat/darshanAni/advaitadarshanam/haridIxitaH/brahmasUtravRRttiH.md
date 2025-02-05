@@ -1,17 +1,16 @@
 +++
-TITLE = "ब्रह्मसूत्रवॄत्तिः"
-AUTHOR = "हरिदीक्षितः"
-PUBLISHER = "हरि नारायण आपटे"
-"PUBLISH YEAR" = "1917"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतदर्शनम्"
-PAGES = "252"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रङ्गनाथशास्त्री वैद्या"
-PRINTER = "आनन्दाश्रममुद्रणालयम्"
-"SERIAL NO." = "Ebharati-8652"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQxNTM0OTg0OTU1MDM4&pageno=MjI0MjQyNjk5NTk="
 title = "ब्रह्मसूत्रवॄत्तिः"
+author = "हरिदीक्षितः"
+publisher = "हरि नारायण आपटे"
+"publish year" = "1917"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतदर्शनम्"
+pages = "252"
+language = "संस्कृतम्"
+editor = "रङ्गनाथशास्त्री वैद्या"
+printer = "आनन्दाश्रममुद्रणालयम्"
+"serial no." = "Ebharati-8652"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQxNTM0OTg0OTU1MDM4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ब्रह्मसूत्रवॄत्तिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQxNTM0OTg0OTU1MDM4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4178,19 +4177,6 @@ title = "ब्रह्मसूत्रवॄत्तिः"
 **गजेषुरसभूसंख्ये (१६५८) शकेऽब्दे चानलाह्वये।  
 जेष्ठशुक्लत्रयोदश्यां ग्रन्थः सिद्धिमगादयम्॥**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

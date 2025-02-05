@@ -1,12 +1,11 @@
 +++
-TITLE = "अद्भुतधर्मपर्यायः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3632"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3Njc0MjUzODU2ODQz&pageno=MjI0MjQyNjk5NTk="
 title = "अद्भुतधर्मपर्यायः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3632"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3Njc0MjUzODU2ODQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अद्भुतधर्मपर्यायः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDA3Njc0MjUzODU2ODQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -47,8 +46,5 @@ title = "अद्भुतधर्मपर्यायः"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

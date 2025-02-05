@@ -1,11 +1,10 @@
 +++
-TITLE = "सावित्री"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2859"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODk0NDgwNzUyMzU0NDcy"
 title = "सावित्री"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2859"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODk0NDgwNzUyMzU0NDcy"
 
 +++
 [[सावित्री	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODk0NDgwNzUyMzU0NDcy)]]

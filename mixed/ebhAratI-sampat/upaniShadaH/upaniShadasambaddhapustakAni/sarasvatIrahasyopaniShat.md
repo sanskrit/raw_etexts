@@ -1,12 +1,11 @@
 +++
-TITLE = "सरस्वतीरहस्योपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4325"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUxNTc0ODQ3MzgxNTE0&pageno=MjI0MjQyNjk5NTk="
 title = "सरस्वतीरहस्योपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4325"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUxNTc0ODQ3MzgxNTE0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सरस्वतीरहस्योपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDUxNTc0ODQ3MzgxNTE0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -415,8 +414,5 @@ c
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,12 +1,11 @@
 +++
-TITLE = "लोमशिशिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3558"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc0NzM1MDM2NDU1MTQz&pageno=MjI0MjQyNjk5NTk="
 title = "लोमशिशिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3558"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc0NzM1MDM2NDU1MTQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लोमशिशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njc0NzM1MDM2NDU1MTQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -186,8 +185,5 @@ lomasiya_shiksha
       युगलप्राक्किशोरेण पाठकेन दयालुना  
       सामगानां हितार्थाय वेदविद्यालयेऽङ्किता २
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

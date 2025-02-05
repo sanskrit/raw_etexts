@@ -1,17 +1,16 @@
 +++
-TITLE = "कादम्बरीकल्याणं-नाटकम्"
-AUTHOR = "नरसिंहः"
-PUBLISHER = "मुद्रापुरी-एज्युकेशनल्-समितिः"
-"PUBLISH YEAR" = "1936"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "262"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "कृष्णमाचार्यः"
-PRINTER = "हिन्दी-प्रचार-प्रेस्"
-"SERIAL NO." = "Ebharati-5427"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkxNDI2NzA2MTc5MDI1&pageno=MjI0MjQyNjk5NTk="
 title = "कादम्बरीकल्याणं-नाटकम्"
+author = "नरसिंहः"
+publisher = "मुद्रापुरी-एज्युकेशनल्-समितिः"
+"publish year" = "1936"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "262"
+language = "संस्कृतम्"
+editor = "कृष्णमाचार्यः"
+printer = "हिन्दी-प्रचार-प्रेस्"
+"serial no." = "Ebharati-5427"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkxNDI2NzA2MTc5MDI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कादम्बरीकल्याणं-नाटकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDkxNDI2NzA2MTc5MDI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6518,19 +6517,6 @@ MADRAS,
 | मनसः          | मनसे         |
 | राजपुत्रः     | राजपुत्रैः   |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

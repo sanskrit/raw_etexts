@@ -1,12 +1,11 @@
 +++
-TITLE = "साङ्ख्यतत्त्वसमाससूत्रवृत्तिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "साङ्ख्यदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3906"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMzMDA5MjIzMTY5NDcz&pageno=MjI0MjQyNjk5NTk="
 title = "साङ्ख्यतत्त्वसमाससूत्रवृत्तिः"
+domain = "दर्शनानि"
+sub-domain = "साङ्ख्यदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3906"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMzMDA5MjIzMTY5NDcz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[साङ्ख्यतत्त्वसमाससूत्रवृत्तिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjMzMDA5MjIzMTY5NDcz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -156,8 +155,5 @@ page 134-135 missing
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

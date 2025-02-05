@@ -1,13 +1,12 @@
 +++
-TITLE = "भर्तृहरिशतकत्रययम्"
-AUTHOR = "भर्तृहरिः"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4110"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI0NDUzNjU1NDQ1NDkz"
 title = "भर्तृहरिशतकत्रययम्"
+author = "भर्तृहरिः"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4110"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI0NDUzNjU1NDQ1NDkz"
 
 +++
 [[भर्तृहरिशतकत्रययम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDI0NDUzNjU1NDQ1NDkz)]]

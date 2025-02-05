@@ -1,12 +1,11 @@
 +++
-TITLE = "मत्तविलासप्रहसनम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2904"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg0Mzk5NzgwMzc3ODcy&pageno=MjI0MjQyNjk5NTk="
 title = "मत्तविलासप्रहसनम्"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2904"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg0Mzk5NzgwMzc3ODcy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मत्तविलासप्रहसनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODg0Mzk5NzgwMzc3ODcy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1334,8 +1333,5 @@ title = "मत्तविलासप्रहसनम्"
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

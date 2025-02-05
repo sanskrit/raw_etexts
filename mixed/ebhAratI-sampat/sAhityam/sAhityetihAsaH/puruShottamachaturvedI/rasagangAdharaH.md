@@ -1,17 +1,16 @@
 +++
-TITLE = "रसगङ्गाधरः"
-AUTHOR = "पुरुषोत्तमचतुर्वेदी"
-PUBLISHER = "नागरीप्रचारिणीसभा काशी"
-"PUBLISH YEAR" = "1928"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "साहित्येतिहासः"
-PAGES = "615"
-LANGUAGE = "संस्कृतम् हिन्दी"
-EDITOR = "महादेवशास्त्री"
-PRINTER = "नागरिमुद्रणालयः"
-"SERIAL NO." = "Ebharati-5962"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY5OTEzNzk1OTIzMjc1&pageno=MjI0MjQyNjk5NTk="
 title = "रसगङ्गाधरः"
+author = "पुरुषोत्तमचतुर्वेदी"
+publisher = "नागरीप्रचारिणीसभा काशी"
+"publish year" = "1928"
+domain = "साहित्यम्"
+sub-domain = "साहित्येतिहासः"
+pages = "615"
+language = "संस्कृतम् हिन्दी"
+editor = "महादेवशास्त्री"
+printer = "नागरिमुद्रणालयः"
+"serial no." = "Ebharati-5962"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY5OTEzNzk1OTIzMjc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रसगङ्गाधरः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDY5OTEzNzk1OTIzMjc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9200,19 +9199,6 @@ x                x                  x
 
 **\_\_\_\_\_\_\_\_\_\_**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

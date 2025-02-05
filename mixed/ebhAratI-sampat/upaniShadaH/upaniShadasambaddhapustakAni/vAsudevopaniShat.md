@@ -1,12 +1,11 @@
 +++
-TITLE = "वासुदेवोपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4352"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ1MDIwNzQ2NTc3NzE0&pageno=MjI0MjQyNjk5NTk="
 title = "वासुदेवोपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4352"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ1MDIwNzQ2NTc3NzE0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वासुदेवोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQ1MDIwNzQ2NTc3NzE0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -185,8 +184,5 @@ title = "वासुदेवोपनिषत्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

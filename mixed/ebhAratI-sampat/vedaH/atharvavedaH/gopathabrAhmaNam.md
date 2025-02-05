@@ -1,12 +1,11 @@
 +++
-TITLE = "गोपथब्राह्मणम्"
-DOMAIN = "वेदः"
-SUB-DOMAIN = "अथर्ववेदः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4370"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQxNDgzOTc1MzA1OTE0"
 title = "गोपथब्राह्मणम्"
+domain = "वेदः"
+sub-domain = "अथर्ववेदः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4370"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQxNDgzOTc1MzA1OTE0"
 
 +++
 [[गोपथब्राह्मणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDQxNDgzOTc1MzA1OTE0)]]

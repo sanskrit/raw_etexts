@@ -1,19 +1,18 @@
 +++
-TITLE = "गोलाध्यायः"
-AUTHOR = "भास्कराचार्यः"
-PUBLISHER = "श्रीजीवानन्दविद्यासगरभट्टाचार्यः"
-"PUBLISH YEAR" = "1899"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "164"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "श्रीजीवानन्दविद्यासागरभट्टाचार्यः"
-"BOOKS CONTRIBUTOR" = "कर्णाटकसंस्कृतविश्ववविद्यालयः बेङ्गलूरु"
-"COMMENTARY NAME" = "वासनाभाष्यम्"
-PRINTER = "नारायण-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-1130"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY4NjM5MzU3NTc0ODAx&pageno=MjI0MjQyNjk5NTk="
 title = "गोलाध्यायः"
+author = "भास्कराचार्यः"
+publisher = "श्रीजीवानन्दविद्यासगरभट्टाचार्यः"
+"publish year" = "1899"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "164"
+language = "संस्कृतम्"
+editor = "श्रीजीवानन्दविद्यासागरभट्टाचार्यः"
+"books contributor" = "कर्णाटकसंस्कृतविश्ववविद्यालयः बेङ्गलूरु"
+"commentary name" = "वासनाभाष्यम्"
+printer = "नारायण-मुद्रणालयः"
+"serial no." = "Ebharati-1130"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY4NjM5MzU3NTc0ODAx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गोलाध्यायः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDY4NjM5MzU3NTc0ODAx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3521,19 +3520,6 @@ title = "गोलाध्यायः"
 *********समाप्तोऽयं सिद्धान्तशिरोमणिर्वासनाभाष्यसहितः ।*********
 
 ********\_\_\_\_\_\_\_\_\_\_********
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

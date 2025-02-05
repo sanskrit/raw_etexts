@@ -1,14 +1,13 @@
 +++
-TITLE = "शेषसंहिता"
-"PUBLISH YEAR" = "1935"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "धर्मसूत्राणि"
-PAGES = "244"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "राजकीय-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7785"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDMzNzQ3&pageno=MjI0MjQyNjk5NTk="
 title = "शेषसंहिता"
+"publish year" = "1935"
+domain = "धर्मशास्त्रम्"
+sub-domain = "धर्मसूत्राणि"
+pages = "244"
+language = "संस्कृतम्"
+printer = "राजकीय-यन्त्रालयः"
+"serial no." = "Ebharati-7785"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDMzNzQ3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शेषसंहिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDMzNzQ3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7980,8 +7979,5 @@ title = "शेषसंहिता"
 श्रीवासुदेवार्पणमस्तु.  
 *         *
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,12 +1,11 @@
 +++
-TITLE = "अग्निपुराणम्"
-AUTHOR = "वेदव्यासमहर्षिः"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "पुराणसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2718"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njk5MjA5Njg3NzE5MDYy"
 title = "अग्निपुराणम्"
+author = "वेदव्यासमहर्षिः"
+domain = "पुराणानि"
+sub-domain = "पुराणसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2718"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njk5MjA5Njg3NzE5MDYy"
 
 +++
 [[अग्निपुराणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=Njk5MjA5Njg3NzE5MDYy)]]

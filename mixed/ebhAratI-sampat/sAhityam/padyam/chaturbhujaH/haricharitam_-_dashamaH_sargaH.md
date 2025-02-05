@@ -1,13 +1,12 @@
 +++
-TITLE = "हरिचरितम् - दशमः सर्गः"
-AUTHOR = "चतुर्भुजः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3224"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI1ODY1NTg4MTk0OTAz&pageno=MjI0MjQyNjk5NTk="
 title = "हरिचरितम् - दशमः सर्गः"
+author = "चतुर्भुजः"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3224"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI1ODY1NTg4MTk0OTAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हरिचरितम् - दशमः सर्गः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODI1ODY1NTg4MTk0OTAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1586,19 +1585,6 @@ title = "हरिचरितम् - दशमः सर्गः"
 
 दितिजवृषभो दैत्यप्रधानोऽरिष्टासुरः । अरिष्टो वृषभासुरः इति भागवतवर्णनात। वृषाकृतिरसाविति पौराणिकाः । अरमलम् । अरमिति हेलयैवेत्यन्तर्भूतवधक्रियाया विशेषणम् ॥११८॥
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

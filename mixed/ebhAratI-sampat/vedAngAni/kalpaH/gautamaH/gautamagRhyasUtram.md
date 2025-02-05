@@ -1,13 +1,12 @@
 +++
-TITLE = "गौतमगृह्यसूत्रम्"
-AUTHOR = "गौतमः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3151"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI3MTc4OTUxNDg0MjAz&pageno=MjI0MjQyNjk5NTk="
 title = "गौतमगृह्यसूत्रम्"
+author = "गौतमः"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3151"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI3MTc4OTUxNDg0MjAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गौतमगृह्यसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjI3MTc4OTUxNDg0MjAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2767,19 +2766,6 @@ title = "गौतमगृह्यसूत्रम्"
 
 
 \\Z  
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

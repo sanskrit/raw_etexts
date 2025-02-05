@@ -1,17 +1,16 @@
 +++
-TITLE = "शिल्परत्नम् द्वितीयः भागः"
-AUTHOR = "श्रीकुमारः"
-PUBLISHER = "ओथोरिटि-आफ्-गवर्नमेण्ट्"
-"PUBLISH YEAR" = "1929"
-DOMAIN = "भारतीयविज्ञानम्"
-SUB-DOMAIN = "शिल्पशास्त्रम्"
-PAGES = "277"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "साम्बशिवशास्त्री"
-PRINTER = "राजकीयमुद्रणयन्त्रालयः"
-"SERIAL NO." = "Ebharati-7595"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkwNTkxMTY0MTkwOTI3&pageno=MjI0MjQyNjk5NTk="
 title = "शिल्परत्नम् द्वितीयः भागः"
+author = "श्रीकुमारः"
+publisher = "ओथोरिटि-आफ्-गवर्नमेण्ट्"
+"publish year" = "1929"
+domain = "भारतीयविज्ञानम्"
+sub-domain = "शिल्पशास्त्रम्"
+pages = "277"
+language = "संस्कृतम्"
+editor = "साम्बशिवशास्त्री"
+printer = "राजकीयमुद्रणयन्त्रालयः"
+"serial no." = "Ebharati-7595"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkwNTkxMTY0MTkwOTI3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शिल्परत्नम् द्वितीयः भागः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDkwNTkxMTY0MTkwOTI3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7842,19 +7841,6 @@ K SĀMBAŚIVA ŚĀSTRI.
 
 **शुभं भूयात्।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

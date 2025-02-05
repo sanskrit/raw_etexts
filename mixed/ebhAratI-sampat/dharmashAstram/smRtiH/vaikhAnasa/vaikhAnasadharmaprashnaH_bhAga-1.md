@@ -1,17 +1,16 @@
 +++
-TITLE = "वैखानसधर्मप्रश्नः भाग-1"
-AUTHOR = "वैखानस"
-PUBLISHER = "द गव्हर्नमेन्ट आफ् त्रावणकोर"
-"PUBLISH YEAR" = "1913"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "30"
-LANGUAGE = "संस्कृतम् English"
-EDITOR = "टि. गणपतिशास्त्री"
-PRINTER = "द त्रावणकोर गव्हर्नमेन्ट प्रेस"
-"SERIAL NO." = "Ebharati-5053"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzODU5MjEwOTYwNTg0&pageno=MjI0MjQyNjk5NTk="
 title = "वैखानसधर्मप्रश्नः भाग-1"
+author = "वैखानस"
+publisher = "द गव्हर्नमेन्ट आफ् त्रावणकोर"
+"publish year" = "1913"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "30"
+language = "संस्कृतम् English"
+editor = "टि. गणपतिशास्त्री"
+printer = "द त्रावणकोर गव्हर्नमेन्ट प्रेस"
+"serial no." = "Ebharati-5053"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzODU5MjEwOTYwNTg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वैखानसधर्मप्रश्नः भाग-1	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjYzODU5MjEwOTYwNTg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -318,19 +317,6 @@ he
 'उद्वयं तमस' इत्यादित्यमुपतिष्ठेत ॥ ५ ॥
 
 ----------
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

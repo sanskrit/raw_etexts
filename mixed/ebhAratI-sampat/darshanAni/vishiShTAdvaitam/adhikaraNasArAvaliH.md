@@ -1,11 +1,10 @@
 +++
-TITLE = "अधिकरणसारावलिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "विशिष्टाद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4198"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjU1Nzg2NTIyMjk5MjA0"
 title = "अधिकरणसारावलिः"
+domain = "दर्शनानि"
+sub-domain = "विशिष्टाद्वैतम्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4198"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjU1Nzg2NTIyMjk5MjA0"
 
 +++
 [[अधिकरणसारावलिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjU1Nzg2NTIyMjk5MjA0)]]

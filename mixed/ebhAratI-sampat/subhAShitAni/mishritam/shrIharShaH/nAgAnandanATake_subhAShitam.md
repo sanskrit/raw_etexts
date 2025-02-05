@@ -1,13 +1,12 @@
 +++
-TITLE = "नागानन्दनाटके सुभाषितम्"
-AUTHOR = "श्रीहर्षः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "मिश्रितम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4128"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwODE3ODg0MjcyNjkz&pageno=MjI0MjQyNjk5NTk="
 title = "नागानन्दनाटके सुभाषितम्"
+author = "श्रीहर्षः"
+domain = "सुभाषितानि"
+sub-domain = "मिश्रितम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4128"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwODE3ODg0MjcyNjkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नागानन्दनाटके सुभाषितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjEwODE3ODg0MjcyNjkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -136,19 +135,6 @@ title = "नागानन्दनाटके सुभाषितम्"
 ** ------------------------------------------------
 --------------------------------------------**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

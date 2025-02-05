@@ -1,16 +1,15 @@
 +++
-TITLE = "समयोचितपद्यमालिका"
-PUBLISHER = "तुकाराम-जावाजी"
-"PUBLISH YEAR" = "1914"
-DOMAIN = "सुभाषितसंग्रहः"
-SUB-DOMAIN = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
-PAGES = "69"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गङ्गाधर-कृष्ण-द्राविडः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7176"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyMDI2NTMwOTY4ODg2&pageno=MjI0MjQyNjk5NTk="
 title = "समयोचितपद्यमालिका"
+publisher = "तुकाराम-जावाजी"
+"publish year" = "1914"
+domain = "सुभाषितसंग्रहः"
+sub-domain = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
+pages = "69"
+language = "संस्कृतम्"
+editor = "गङ्गाधर-कृष्ण-द्राविडः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-7176"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyMDI2NTMwOTY4ODg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[समयोचितपद्यमालिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjcyMDI2NTMwOTY4ODg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2856,8 +2855,5 @@ Sagar Press” 23 Kolbhat Lane, Bombay.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

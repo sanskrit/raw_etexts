@@ -1,12 +1,11 @@
 +++
-TITLE = "संस्कृतचन्द्रिका"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "साहित्यम्सम्बद्धपुस्तकानि"
-PAGES = "585"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8909"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk1NzM3MzI1MDMyNTU4&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृतचन्द्रिका"
+domain = "साहित्यम्"
+sub-domain = "साहित्यम्सम्बद्धपुस्तकानि"
+pages = "585"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8909"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk1NzM3MzI1MDMyNTU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृतचन्द्रिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODk1NzM3MzI1MDMyNTU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -14463,19 +14462,6 @@ reached at last the stage of "enlightenment"—the **निष्काम** sta
 
 **\_\_\_\_\_\_\_\_\_**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

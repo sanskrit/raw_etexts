@@ -1,17 +1,16 @@
 +++
-TITLE = "अवच्छेदकतानिरुक्तिः"
-AUTHOR = "गदाधरभट्टाचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-PAGES = "34"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "कर्णाटकसंस्कृतविश्वविद्यालयः, बेङ्गलूरु"
-"PRIMARY COMMENTATOR" = "श्रीरघुनाथशिरोमणिः"
-"COMMENTARY NAME" = "दीधितिः"
-PRINTER = "श्रीसुदर्शनमुद्राक्षरशालाश्रीकांची"
-"SERIAL NO." = "Ebharati-687"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5MzQ1ODE0OTQ5NTY=&pageno=MjI0MjQyNjk5NTk="
 title = "अवच्छेदकतानिरुक्तिः"
+author = "गदाधरभट्टाचार्यः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+pages = "34"
+language = "संस्कृतम्"
+"books contributor" = "कर्णाटकसंस्कृतविश्वविद्यालयः, बेङ्गलूरु"
+"primary commentator" = "श्रीरघुनाथशिरोमणिः"
+"commentary name" = "दीधितिः"
+printer = "श्रीसुदर्शनमुद्राक्षरशालाश्रीकांची"
+"serial no." = "Ebharati-687"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5MzQ1ODE0OTQ5NTY=&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अवच्छेदकतानिरुक्तिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDE5MzQ1ODE0OTQ5NTY=&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2882,8 +2881,5 @@ This book was loaned on the last date mentioned below and it is returnable withi
 
 ----------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

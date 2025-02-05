@@ -1,13 +1,12 @@
 +++
-TITLE = "श्रीमद्भागवततात्पर्यनिर्णयः"
-AUTHOR = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3149"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODc4NjgzNzYxMjkyMjAz"
 title = "श्रीमद्भागवततात्पर्यनिर्णयः"
+author = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3149"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODc4NjgzNzYxMjkyMjAz"
 
 +++
 [[श्रीमद्भागवततात्पर्यनिर्णयः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODc4NjgzNzYxMjkyMjAz)]]

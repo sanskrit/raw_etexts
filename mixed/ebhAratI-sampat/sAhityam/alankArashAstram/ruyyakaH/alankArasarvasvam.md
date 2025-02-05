@@ -1,13 +1,12 @@
 +++
-TITLE = "अलङ्कारसर्वस्वम्"
-AUTHOR = "रुय्यकः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2677"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MzY5MDQ5MTg5NjUy&pageno=MjI0MjQyNjk5NTk="
 title = "अलङ्कारसर्वस्वम्"
+author = "रुय्यकः"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2677"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MzY5MDQ5MTg5NjUy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अलङ्कारसर्वस्वम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MzY5MDQ5MTg5NjUy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2823,8 +2822,5 @@ title = "अलङ्कारसर्वस्वम्"
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

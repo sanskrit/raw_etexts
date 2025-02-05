@@ -1,11 +1,10 @@
 +++
-TITLE = "मालिनीविजयोत्तरतन्त्रम्"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शाक्तम्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4170"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ3OTk4MDMzNDAzMDA0"
 title = "मालिनीविजयोत्तरतन्त्रम्"
+domain = "आगमः"
+sub-domain = "शाक्तम्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4170"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ3OTk4MDMzNDAzMDA0"
 
 +++
 [[मालिनीविजयोत्तरतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ3OTk4MDMzNDAzMDA0)]]

@@ -1,17 +1,16 @@
 +++
-TITLE = "लटकमेलकम्"
-AUTHOR = "शङ्खधरः"
-PUBLISHER = "तुकारामजावजी"
-"PUBLISH YEAR" = "1900"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "36"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "दुर्गाप्रसादः  काशीनाथः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5440"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg2NTc3ODU1OTEyMjI1&pageno=MjI0MjQyNjk5NTk="
 title = "लटकमेलकम्"
+author = "शङ्खधरः"
+publisher = "तुकारामजावजी"
+"publish year" = "1900"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "36"
+language = "संस्कृतम्"
+editor = "दुर्गाप्रसादः  काशीनाथः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-5440"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg2NTc3ODU1OTEyMjI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लटकमेलकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDg2NTc3ODU1OTEyMjI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1386,8 +1385,5 @@ Price 4 Ånna**
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

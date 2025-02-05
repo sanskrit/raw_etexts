@@ -1,12 +1,11 @@
 +++
-TITLE = "जटावल्ली"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3934"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQxODg2NzEyOTQ2Nzcz&pageno=MjI0MjQyNjk5NTk="
 title = "जटावल्ली"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3934"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQxODg2NzEyOTQ2Nzcz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जटावल्ली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQxODg2NzEyOTQ2Nzcz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -141,8 +140,5 @@ title = "जटावल्ली"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

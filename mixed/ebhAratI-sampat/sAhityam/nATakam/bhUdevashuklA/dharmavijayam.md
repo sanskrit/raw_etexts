@@ -1,12 +1,11 @@
 +++
-TITLE = "धर्मविजयम्"
-AUTHOR = "भूदेवशुक्ला"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2809"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODkzMzY5NDQ0MzU2OTYy"
 title = "धर्मविजयम्"
+author = "भूदेवशुक्ला"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2809"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODkzMzY5NDQ0MzU2OTYy"
 
 +++
 [[धर्मविजयम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODkzMzY5NDQ0MzU2OTYy)]]

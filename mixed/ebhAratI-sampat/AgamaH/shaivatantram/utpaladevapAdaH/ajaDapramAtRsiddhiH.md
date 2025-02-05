@@ -1,13 +1,12 @@
 +++
-TITLE = "अजडप्रमातृसिद्धिः"
-AUTHOR = "उत्पलदेवपादः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3948"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMjgwNTYxMzk5ODcz&pageno=MjI0MjQyNjk5NTk="
 title = "अजडप्रमातृसिद्धिः"
+author = "उत्पलदेवपादः"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3948"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMjgwNTYxMzk5ODcz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अजडप्रमातृसिद्धिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMjgwNTYxMzk5ODcz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -160,8 +159,5 @@ title = "अजडप्रमातृसिद्धिः"
 मधुसूदनकौलेन संपाद्येयं प्रकाशिता॥\]  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

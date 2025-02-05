@@ -1,17 +1,16 @@
 +++
-TITLE = "साख्यायनगृह्यसङ्ग्रहः"
-AUTHOR = "वासुदेवः"
-PUBLISHER = "ब्रिड्ज्-बी-दास-एण्ड-को"
-"PUBLISH YEAR" = "1908"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "112"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रात्नगोपालभट्टेः"
-PRINTER = "हरिकृष्णदासः"
-"SERIAL NO." = "Ebharati-7434"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQxNTYxNjYwNjM2MzE3&pageno=MjI0MjQyNjk5NTk="
 title = "साख्यायनगृह्यसङ्ग्रहः"
+author = "वासुदेवः"
+publisher = "ब्रिड्ज्-बी-दास-एण्ड-को"
+"publish year" = "1908"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "112"
+language = "संस्कृतम्"
+editor = "रात्नगोपालभट्टेः"
+printer = "हरिकृष्णदासः"
+"serial no." = "Ebharati-7434"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQxNTYxNjYwNjM2MzE3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[साख्यायनगृह्यसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQxNTYxNjYwNjM2MzE3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -661,19 +660,6 @@ title = "साख्यायनगृह्यसङ्ग्रहः"
 **बनारससस्कृत सीरीजकार्यलय**
 
  **बनरस सिटी।**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

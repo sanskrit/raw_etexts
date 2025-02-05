@@ -1,12 +1,11 @@
 +++
-TITLE = "लघुकथासङ्ग्रहः-१"
-DOMAIN = "सरलसंस्कृतम्"
-SUB-DOMAIN = "लघुकथासङ्ग्रहः"
-PAGES = "77"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8291"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA4MDI5NTQ4NDA5NTk3&pageno=MjI0MjQyNjk5NTk="
 title = "लघुकथासङ्ग्रहः-१"
+domain = "सरलसंस्कृतम्"
+sub-domain = "लघुकथासङ्ग्रहः"
+pages = "77"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8291"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA4MDI5NTQ4NDA5NTk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लघुकथासङ्ग्रहः-१	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjA4MDI5NTQ4NDA5NTk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1140,8 +1139,5 @@ title = "लघुकथासङ्ग्रहः-१"
 
   लोहकः शिरः अवनमय्य मौनं स्थितवान्। एतदनन्तरं सः भाषणकार्ये कदापि इच्छां न प्रकटितवान्। धर्मशास्त्रग्रन्थानां व्याख्यानानि लिखन् सः कालान्तरे प्रसिद्धः जातः।
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

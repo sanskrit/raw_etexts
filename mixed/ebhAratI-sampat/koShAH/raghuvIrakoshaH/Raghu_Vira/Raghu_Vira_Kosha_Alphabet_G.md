@@ -1,17 +1,16 @@
 +++
-TITLE = "Raghu Vira Kosha Alphabet G"
-AUTHOR = "Raghu Vira"
-PUBLISHER = "International academy of indian culture New delhi"
-"PUBLISH YEAR" = "1976"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "रघुवीरकोशः"
-PAGES = "46"
-LANGUAGE = "English-Hindi"
-"BOOKS CONTRIBUTOR" = "डा. शशिबाला"
-PRINTER = "Jayyed Press Delhi6"
-"SERIAL NO." = "Ebharati-5248"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU2MDMyMDgyODg3MzA1&pageno=MjI0MjQyNjk5NTk="
 title = "Raghu Vira Kosha Alphabet G"
+author = "Raghu Vira"
+publisher = "International academy of indian culture New delhi"
+"publish year" = "1976"
+domain = "कोषाः"
+sub-domain = "रघुवीरकोशः"
+pages = "46"
+language = "English-Hindi"
+"books contributor" = "डा. शशिबाला"
+printer = "Jayyed Press Delhi6"
+"serial no." = "Ebharati-5248"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU2MDMyMDgyODg3MzA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[Raghu Vira Kosha Alphabet G	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjU2MDMyMDgyODg3MzA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5604,8 +5603,5 @@ gyro-meter** (a rotary speed indicator) **भ्रामि-वेगमान*
 **gyrostatic top संवलयेक्षीय लट्टू  
 gyrus** *Anat.* (convoluted ridge between grooves) **संवेल्लक** *n.*
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

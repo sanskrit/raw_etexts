@@ -1,18 +1,17 @@
 +++
-TITLE = "भोजप्रबन्ध"
-AUTHOR = "बल्लालपण्डित"
-PUBLISHER = "गङ्गाविष्णु श्रीकृष्णदास"
-"PUBLISH YEAR" = "1919"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "208"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "श्यामसुन्दरलाल तिपाठी"
-"COMMENTARY NAME" = "भाषाटीका"
-PRINTER = "गङ्गाविष्णु श्रीकृष्णदास"
-"SERIAL NO." = "Ebharati-5323"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAzMjE0ODk5Nzg5MDE1&pageno=MjI0MjQyNjk5NTk="
 title = "भोजप्रबन्ध"
+author = "बल्लालपण्डित"
+publisher = "गङ्गाविष्णु श्रीकृष्णदास"
+"publish year" = "1919"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "208"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "श्यामसुन्दरलाल तिपाठी"
+"commentary name" = "भाषाटीका"
+printer = "गङ्गाविष्णु श्रीकृष्णदास"
+"serial no." = "Ebharati-5323"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAzMjE0ODk5Nzg5MDE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भोजप्रबन्ध	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjAzMjE0ODk5Nzg5MDE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3852,19 +3851,6 @@ title = "भोजप्रबन्ध"
 **पुस्तक मिलनेका ठिकाना— गंगाविष्णु श्रीकृष्णदास,  
 ‘लक्ष्मीवेङ्कटेश्वर’ स्टीम्प्रेस, कल्याण— मुंबई.**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

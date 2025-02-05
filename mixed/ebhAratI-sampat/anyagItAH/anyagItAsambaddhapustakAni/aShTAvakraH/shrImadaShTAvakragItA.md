@@ -1,13 +1,12 @@
 +++
-TITLE = "श्रीमदष्टावक्रगीता"
-AUTHOR = "अष्टावक्रः"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3584"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODQ0MDQ4MjM1MDUwNDQz"
 title = "श्रीमदष्टावक्रगीता"
+author = "अष्टावक्रः"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3584"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODQ0MDQ4MjM1MDUwNDQz"
 
 +++
 [[श्रीमदष्टावक्रगीता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODQ0MDQ4MjM1MDUwNDQz)]]

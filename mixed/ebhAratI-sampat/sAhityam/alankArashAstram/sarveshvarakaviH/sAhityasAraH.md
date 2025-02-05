@@ -1,12 +1,11 @@
 +++
-TITLE = "साहित्यसारः"
-AUTHOR = "सर्वेश्वरकविः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2713"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg4MDk2NTA4NzM0MDYy"
 title = "साहित्यसारः"
+author = "सर्वेश्वरकविः"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2713"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg4MDk2NTA4NzM0MDYy"
 
 +++
 [[साहित्यसारः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=Njg4MDk2NTA4NzM0MDYy)]]

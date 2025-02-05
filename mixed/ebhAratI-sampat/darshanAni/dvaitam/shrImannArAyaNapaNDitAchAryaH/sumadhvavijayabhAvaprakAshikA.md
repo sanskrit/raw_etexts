@@ -1,13 +1,12 @@
 +++
-TITLE = "सुमध्वविजयभावप्रकाशिका"
-AUTHOR = "श्रीमन्नारायणपण्डिताचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-PAGES = "19"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2258"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc4ODgzNTE1OTU3NjEy&pageno=MjI0MjQyNjk5NTk="
 title = "सुमध्वविजयभावप्रकाशिका"
+author = "श्रीमन्नारायणपण्डिताचार्यः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+pages = "19"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2258"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc4ODgzNTE1OTU3NjEy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुमध्वविजयभावप्रकाशिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njc4ODgzNTE1OTU3NjEy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1310,19 +1309,6 @@ title = "सुमध्वविजयभावप्रकाशिका"
 
 ----------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

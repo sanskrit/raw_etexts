@@ -1,13 +1,12 @@
 +++
-TITLE = "शून्यतासप्ततिः"
-AUTHOR = "नागार्जुनपादः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3802"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ0ODg2MzE3Nzc5NDYz&pageno=MjI0MjQyNjk5NTk="
 title = "शून्यतासप्ततिः"
+author = "नागार्जुनपादः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3802"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ0ODg2MzE3Nzc5NDYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शून्यतासप्ततिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQ0ODg2MzE3Nzc5NDYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -179,8 +178,5 @@ title = "शून्यतासप्ततिः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

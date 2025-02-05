@@ -1,16 +1,15 @@
 +++
-TITLE = "अवधूतगीता"
-AUTHOR = "दत्तात्रेयः"
-PUBLISHER = "खेमराजश्रीकृष्णदासः"
-"PUBLISH YEAR" = "1917"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-PAGES = "277"
-LANGUAGE = "संस्कृतम्  हिन्दी"
-PRINTER = "श्रीवेङ्कटेश्वर-स्टीम्-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6665"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM2MjQ3NTU5NDE4OTM2&pageno=MjI0MjQyNjk5NTk="
 title = "अवधूतगीता"
+author = "दत्तात्रेयः"
+publisher = "खेमराजश्रीकृष्णदासः"
+"publish year" = "1917"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+pages = "277"
+language = "संस्कृतम्  हिन्दी"
+printer = "श्रीवेङ्कटेश्वर-स्टीम्-मुद्रणालयः"
+"serial no." = "Ebharati-6665"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM2MjQ3NTU5NDE4OTM2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अवधूतगीता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDM2MjQ3NTU5NDE4OTM2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6907,19 +6906,6 @@ title = "अवधूतगीता"
 पुस्तक मिलनेका ठिकाना—  
 खेमराज श्रीकृष्णदास, "श्रीवेङ्कटेश्वर" स्टीम् - प्रेस - मुंबई
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,16 +1,15 @@
 +++
-TITLE = "अहिर्बुध्न्यसंहिता (द्वितायो भागः)"
-PUBLISHER = "अडैयार्"
-"PUBLISH YEAR" = "1916"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "आगमसम्बद्धपुस्तकानि"
-PAGES = "396"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रामानुजाचार्यः"
-PRINTER = "वसन्त-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8413"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgyNjk0NzgzNjE2NzA4&pageno=MjI0MjQyNjk5NTk="
 title = "अहिर्बुध्न्यसंहिता (द्वितायो भागः)"
+publisher = "अडैयार्"
+"publish year" = "1916"
+domain = "आगमः"
+sub-domain = "आगमसम्बद्धपुस्तकानि"
+pages = "396"
+language = "संस्कृतम्"
+editor = "रामानुजाचार्यः"
+printer = "वसन्त-यन्त्रालयः"
+"serial no." = "Ebharati-8413"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgyNjk0NzgzNjE2NzA4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अहिर्बुध्न्यसंहिता (द्वितायो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjgyNjk0NzgzNjE2NzA4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11624,8 +11623,5 @@ title = "अहिर्बुध्न्यसंहिता (द्वित
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

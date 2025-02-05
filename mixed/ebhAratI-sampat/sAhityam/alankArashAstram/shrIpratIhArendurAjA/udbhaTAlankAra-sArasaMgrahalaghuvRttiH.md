@@ -1,12 +1,11 @@
 +++
-TITLE = "उद्भटालङ्कार-सारसंग्रहलघुवृत्तिः"
-AUTHOR = "श्रीप्रतीहारेन्दुराजा"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2641"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjA1NjMyNjcwNjI1MzUy"
 title = "उद्भटालङ्कार-सारसंग्रहलघुवृत्तिः"
+author = "श्रीप्रतीहारेन्दुराजा"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2641"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjA1NjMyNjcwNjI1MzUy"
 
 +++
 [[उद्भटालङ्कार-सारसंग्रहलघुवृत्तिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjA1NjMyNjcwNjI1MzUy)]]

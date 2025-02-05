@@ -1,15 +1,14 @@
 +++
-TITLE = "भारतीयविंशतिमुख्यकाव्यकारोपहारः"
-AUTHOR = "राजश्रीशौरीन्द्रमोदन-ठाकुरः"
-"PUBLISH YEAR" = "१८८३"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "56"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीईश्वरचन्द्र-वसु-एण्ड-कोम्पानिना"
-"SERIAL NO." = "Ebharati-4566"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4ODk4MjQ4ODEzODM0&pageno=MjI0MjQyNjk5NTk="
 title = "भारतीयविंशतिमुख्यकाव्यकारोपहारः"
+author = "राजश्रीशौरीन्द्रमोदन-ठाकुरः"
+"publish year" = "१८८३"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "56"
+language = "संस्कृतम्"
+printer = "श्रीईश्वरचन्द्र-वसु-एण्ड-कोम्पानिना"
+"serial no." = "Ebharati-4566"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4ODk4MjQ4ODEzODM0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भारतीयविंशतिमुख्यकाव्यकारोपहारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjU4ODk4MjQ4ODEzODM0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1409,19 +1408,6 @@ Kavirája, Sùdraka, Bhatta, Dandi, Jayadeva, Chiranjíva, Mayùrabhatta, Bhavab
 **\_\_\_\_\_\_\_\_\_**
 
 *Printed by I.C. Bose & Co., Stanhope Press, 249, Bow-Bazar Street, Calcutta.*
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

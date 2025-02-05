@@ -1,12 +1,11 @@
 +++
-TITLE = "हयग्रीवीशिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3523"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA3MjUwMjY3NDkxODMz&pageno=MjI0MjQyNjk5NTk="
 title = "हयग्रीवीशिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3523"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA3MjUwMjY3NDkxODMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हयग्रीवीशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjA3MjUwMjY3NDkxODMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -65,8 +64,5 @@ hayagrivi_shiksha
 इति द्वितीयो वर्गः  
 मूलशिक्षा समाप्ता
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

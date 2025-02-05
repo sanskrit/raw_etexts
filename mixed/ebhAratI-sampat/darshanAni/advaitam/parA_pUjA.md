@@ -1,12 +1,11 @@
 +++
-TITLE = "परा पूजा"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "2"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2156"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM4MTY2ODk4NzY5NjAy&pageno=MjI0MjQyNjk5NTk="
 title = "परा पूजा"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "2"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2156"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM4MTY2ODk4NzY5NjAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[परा पूजा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjM4MTY2ODk4NzY5NjAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -107,8 +106,5 @@ saJNcaaraHpadayoH pradakSiNavidhiH stotraaNi sarvaa giro
 
 yadyatkarma karomi tattadakhilaM shambho tavaaraadhanam..10
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

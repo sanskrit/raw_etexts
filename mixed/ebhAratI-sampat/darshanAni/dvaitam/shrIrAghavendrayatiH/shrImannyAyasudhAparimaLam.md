@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीमन्न्यायसुधापरिमळम्"
-AUTHOR = "श्रीराघवेन्द्रयतिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3092"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDI4ODY1MTgzMDI4Njky"
 title = "श्रीमन्न्यायसुधापरिमळम्"
+author = "श्रीराघवेन्द्रयतिः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3092"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDI4ODY1MTgzMDI4Njky"
 
 +++
 [[श्रीमन्न्यायसुधापरिमळम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDI4ODY1MTgzMDI4Njky)]]

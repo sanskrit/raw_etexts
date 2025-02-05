@@ -1,15 +1,14 @@
 +++
-TITLE = "अन्त्यकर्मदीपिकः"
-PUBLISHER = "जयकृष्णदास-हरिदासगुप्तः"
-"PUBLISH YEAR" = "1952"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "166"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "विद्याविलास-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7946"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEyNTgyMjQxNjg3MjY3&pageno=MjI0MjQyNjk5NTk="
 title = "अन्त्यकर्मदीपिकः"
+publisher = "जयकृष्णदास-हरिदासगुप्तः"
+"publish year" = "1952"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "166"
+language = "संस्कृतम्"
+printer = "विद्याविलास-यन्त्रालयः"
+"serial no." = "Ebharati-7946"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEyNTgyMjQxNjg3MjY3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अन्त्यकर्मदीपिकः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjEyNTgyMjQxNjg3MjY3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4304,8 +4303,5 @@ P.0. Box 8, Banaras •
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

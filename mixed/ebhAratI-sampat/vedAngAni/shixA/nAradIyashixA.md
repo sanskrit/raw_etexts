@@ -1,13 +1,12 @@
 +++
-TITLE = "नारदीयशिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-PAGES = "24"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3562"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYxNzA1NTE2ODM5MTQz&pageno=MjI0MjQyNjk5NTk="
 title = "नारदीयशिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+pages = "24"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3562"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYxNzA1NTE2ODM5MTQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नारदीयशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDYxNzA1NTE2ODM5MTQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -981,8 +980,5 @@ NĀRADĪYĀ SIKSHĀ
 
 **इति नारदीया शिक्षा समाप्ता**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

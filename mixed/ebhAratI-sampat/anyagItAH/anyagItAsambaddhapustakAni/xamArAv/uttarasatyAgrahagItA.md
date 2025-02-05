@@ -1,16 +1,15 @@
 +++
-TITLE = "उत्तरसत्याग्रहगीता"
-AUTHOR = "क्षमाराव्"
-PUBLISHER = "वि. कुल्कर्निः"
-"PUBLISH YEAR" = "1941"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-PAGES = "387"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6698"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU1MjQ3MTM4Mjg5MjQ2&pageno=MjI0MjQyNjk5NTk="
 title = "उत्तरसत्याग्रहगीता"
+author = "क्षमाराव्"
+publisher = "वि. कुल्कर्निः"
+"publish year" = "1941"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+pages = "387"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-6698"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU1MjQ3MTM4Mjg5MjQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[उत्तरसत्याग्रहगीता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjU1MjQ3MTM4Mjg5MjQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8027,19 +8026,6 @@ BOMBAY,![](../books_images/U-IMG-1722506774Screenshot2024-08-01153405.png)![](#)
 |     २१      | पूर्णः                                  |
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

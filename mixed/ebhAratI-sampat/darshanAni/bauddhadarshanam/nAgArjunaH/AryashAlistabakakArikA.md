@@ -1,15 +1,14 @@
 +++
-TITLE = "आर्यशालिस्तबककारिका"
-AUTHOR = "नागार्जुनः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-TRANSLATOR = "धर्मश्रीभद्रः ज्ञानकुमारः"
-EDITOR = "श्रीकुटीरः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3651"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI3MjgwMTgyMjg0MDUz&pageno=MjI0MjQyNjk5NTk="
 title = "आर्यशालिस्तबककारिका"
+author = "नागार्जुनः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+translator = "धर्मश्रीभद्रः ज्ञानकुमारः"
+editor = "श्रीकुटीरः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3651"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI3MjgwMTgyMjg0MDUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आर्यशालिस्तबककारिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjI3MjgwMTgyMjg0MDUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -182,8 +181,5 @@ title = "आर्यशालिस्तबककारिका"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

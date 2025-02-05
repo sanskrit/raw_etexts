@@ -1,15 +1,14 @@
 +++
-TITLE = "पञ्चदशी तृप्तिदीपप्रकरणम्"
-AUTHOR = "विद्यारण्यमुनिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "98"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "रामकृष्णः"
-"COMMENTARY NAME" = "तृप्तिदीपव्याख्या"
-"SERIAL NO." = "Ebharati-2155"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0OTE0MjA5MTc4NjAy&pageno=MjI0MjQyNjk5NTk="
 title = "पञ्चदशी तृप्तिदीपप्रकरणम्"
+author = "विद्यारण्यमुनिः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "98"
+language = "संस्कृतम्"
+"primary commentator" = "रामकृष्णः"
+"commentary name" = "तृप्तिदीपव्याख्या"
+"serial no." = "Ebharati-2155"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0OTE0MjA5MTc4NjAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पञ्चदशी तृप्तिदीपप्रकरणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE0OTE0MjA5MTc4NjAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1672,19 +1671,6 @@ title = "पञ्चदशी तृप्तिदीपप्रकरणम�
 
              ----------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

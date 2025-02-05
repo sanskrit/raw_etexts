@@ -1,13 +1,12 @@
 +++
-TITLE = "विधिरसायनदूषणम्"
-AUTHOR = "भट्टशङ्करः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2618"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk3MDY2MjYxODEzMTUy&pageno=MjI0MjQyNjk5NTk="
 title = "विधिरसायनदूषणम्"
+author = "भट्टशङ्करः"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2618"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk3MDY2MjYxODEzMTUy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विधिरसायनदूषणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk3MDY2MjYxODEzMTUy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -283,19 +282,6 @@ F.N.
   
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

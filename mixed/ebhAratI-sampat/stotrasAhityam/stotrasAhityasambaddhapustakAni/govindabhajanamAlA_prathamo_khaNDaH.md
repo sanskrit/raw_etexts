@@ -1,13 +1,12 @@
 +++
-TITLE = "गोविन्दभजनमाला (प्रथमो खण्डः)"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "307"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "हिन्दुप्रचार-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7827"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk5NjM0OTg1MjYzMTU3&pageno=MjI0MjQyNjk5NTk="
 title = "गोविन्दभजनमाला (प्रथमो खण्डः)"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "307"
+language = "संस्कृतम्"
+printer = "हिन्दुप्रचार-यन्त्रालयः"
+"serial no." = "Ebharati-7827"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk5NjM0OTg1MjYzMTU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गोविन्दभजनमाला (प्रथमो खण्डः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk5NjM0OTg1MjYzMTU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5875,8 +5874,5 @@ and cultured mind with its sub divisions known as Manas, Buddhi, Chitta, Ahankar
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

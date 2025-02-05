@@ -1,14 +1,13 @@
 +++
-TITLE = "ब्रह्मसूत्राणि"
-AUTHOR = "श्रीमत्कृष्नद्वैपायन-बादरायण-वेदव्यासमहर्षिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "20"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "२०१०"
-"SERIAL NO." = "Ebharati-2131"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMTA2Mjk5NzY1NDAy&pageno=MjI0MjQyNjk5NTk="
 title = "ब्रह्मसूत्राणि"
+author = "श्रीमत्कृष्नद्वैपायन-बादरायण-वेदव्यासमहर्षिः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "20"
+language = "संस्कृतम्"
+printer = "२०१०"
+"serial no." = "Ebharati-2131"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMTA2Mjk5NzY1NDAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ब्रह्मसूत्राणि	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMTA2Mjk5NzY1NDAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -815,19 +814,6 @@ Please send corrections to sanskrit Last updated October 3, 2010 http://sanskrit
 
 ----------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

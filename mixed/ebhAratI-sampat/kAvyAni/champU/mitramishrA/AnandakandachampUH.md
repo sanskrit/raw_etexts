@@ -1,16 +1,15 @@
 +++
-TITLE = "आनन्दकन्दचम्पूः"
-AUTHOR = "मित्रमिश्रा"
-"PUBLISH YEAR" = "1931"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "चम्पू"
-PAGES = "274"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गोपीनाथकविराजः"
-PRINTER = "विद्याविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5258"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc4NDU2MjQyODQ3NDA1&pageno=MjI0MjQyNjk5NTk="
 title = "आनन्दकन्दचम्पूः"
+author = "मित्रमिश्रा"
+"publish year" = "1931"
+domain = "काव्यानि"
+sub-domain = "चम्पू"
+pages = "274"
+language = "संस्कृतम्"
+editor = "गोपीनाथकविराजः"
+printer = "विद्याविलास-मुद्रणालयः"
+"serial no." = "Ebharati-5258"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc4NDU2MjQyODQ3NDA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आनन्दकन्दचम्पूः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njc4NDU2MjQyODQ3NDA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7254,8 +7253,5 @@ Vol. II—
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

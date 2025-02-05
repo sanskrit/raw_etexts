@@ -1,13 +1,12 @@
 +++
-TITLE = "सुभाषितरत्नभण्डारकम्"
-AUTHOR = "आचारशूरः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "मिश्रितम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4124"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIzODQ3MzA1ODg4NTkz&pageno=MjI0MjQyNjk5NTk="
 title = "सुभाषितरत्नभण्डारकम्"
+author = "आचारशूरः"
+domain = "सुभाषितानि"
+sub-domain = "मिश्रितम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4124"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIzODQ3MzA1ODg4NTkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुभाषितरत्नभण्डारकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODIzODQ3MzA1ODg4NTkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1263,19 +1262,6 @@ XXवीई. प्रज्ञाकथा
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,12 +1,11 @@
 +++
-TITLE = "यास्कनिरुक्तम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "निरुक्तम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3505"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDExOTg2OTI4NjY0NjMz&pageno=MjI0MjQyNjk5NTk="
 title = "यास्कनिरुक्तम्"
+domain = "वेदाङ्गानि"
+sub-domain = "निरुक्तम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3505"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDExOTg2OTI4NjY0NjMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[यास्कनिरुक्तम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDExOTg2OTI4NjY0NjMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7155,19 +7154,6 @@ Vऋकश्.चन्द्रमा.भवति.विवृत.ज्यो
 १४,३७    नमो.यास्काय्  
 १४,३७    ब्रह्म.शुक्लमसीय्  
 १४,३७    ब्रह्म.शुक्लमसीय्  
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

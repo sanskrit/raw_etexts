@@ -1,18 +1,17 @@
 +++
-TITLE = "विद्यामाधवीयम् (द्वितीयसम्पुटम्)"
-AUTHOR = "विद्यामाधवः"
-"PUBLISH YEAR" = "1925"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "378"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शमाशास्त्री"
-"PRIMARY COMMENTATOR" = "विष्णुशर्मा"
-"COMMENTARY NAME" = "मुहूर्तदीपिका"
-PRINTER = "गवर्नमेण्ट्-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6211"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQwMzg2MTY2MjMyNjk1&pageno=MjI0MjQyNjk5NTk="
 title = "विद्यामाधवीयम् (द्वितीयसम्पुटम्)"
+author = "विद्यामाधवः"
+"publish year" = "1925"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "378"
+language = "संस्कृतम्"
+editor = "शमाशास्त्री"
+"primary commentator" = "विष्णुशर्मा"
+"commentary name" = "मुहूर्तदीपिका"
+printer = "गवर्नमेण्ट्-मुद्रणालयः"
+"serial no." = "Ebharati-6211"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQwMzg2MTY2MjMyNjk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विद्यामाधवीयम् (द्वितीयसम्पुटम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQwMzg2MTY2MjMyNjk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11850,8 +11849,5 @@ title = "विद्यामाधवीयम् (द्वितीयसम
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

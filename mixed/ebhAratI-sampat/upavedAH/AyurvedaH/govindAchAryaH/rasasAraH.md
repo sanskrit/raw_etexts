@@ -1,17 +1,16 @@
 +++
-TITLE = "रससारः"
-AUTHOR = "गोविन्दाचार्यः"
-PUBLISHER = "Jadavji Trichumji Acharya"
-"PUBLISH YEAR" = "1912"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "131"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "यादवशर्मा"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-3472"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgxOTg2MzU5ODkyMzMz&pageno=MjI0MjQyNjk5NTk="
 title = "रससारः"
+author = "गोविन्दाचार्यः"
+publisher = "Jadavji Trichumji Acharya"
+"publish year" = "1912"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "131"
+language = "संस्कृतम्"
+editor = "यादवशर्मा"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-3472"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgxOTg2MzU5ODkyMzMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रससारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDgxOTg2MzU5ODkyMzMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5643,19 +5642,6 @@ Street, Fort, Bombay.
 
 ----------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,16 +1,15 @@
 +++
-TITLE = "नीलकण्ठविजयः"
-AUTHOR = "नीलकण्ठदीक्षितः"
-"PUBLISH YEAR" = "1941"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "चम्पू"
-PAGES = "140"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "सी. शङ्कररामशास्त्रिः"
-PRINTER = "श्रीबालमनोरमा-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5241"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA3MzM1NjAzNjExMzA1&pageno=MjI0MjQyNjk5NTk="
 title = "नीलकण्ठविजयः"
+author = "नीलकण्ठदीक्षितः"
+"publish year" = "1941"
+domain = "काव्यानि"
+sub-domain = "चम्पू"
+pages = "140"
+language = "संस्कृतम्"
+editor = "सी. शङ्कररामशास्त्रिः"
+printer = "श्रीबालमनोरमा-मुद्रणालयः"
+"serial no." = "Ebharati-5241"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA3MzM1NjAzNjExMzA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नीलकण्ठविजयः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjA3MzM1NjAzNjExMzA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3263,19 +3262,6 @@ title = "नीलकण्ठविजयः"
 
 ![](../books_images/U-IMG-172414860052412.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

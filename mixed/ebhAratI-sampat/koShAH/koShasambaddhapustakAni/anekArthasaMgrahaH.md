@@ -1,12 +1,11 @@
 +++
-TITLE = "अनेकार्थसंग्रहः"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "कोषसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3104"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg4Nzc0NjMzMjc5Nzky&pageno=MjI0MjQyNjk5NTk="
 title = "अनेकार्थसंग्रहः"
+domain = "कोषाः"
+sub-domain = "कोषसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3104"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg4Nzc0NjMzMjc5Nzky&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अनेकार्थसंग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODg4Nzc0NjMzMjc5Nzky&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4141,8 +4140,5 @@ title = "अनेकार्थसंग्रहः"
 क़्द्ध.घ् .च्द्धत्दत्ध्ठ्ठद्म , ख्र्ड्ढड़द्यद्वद्धड्ढद्ध त्द ज्न्र्ठ्ठत्त्ठ्ठद्धठ्ठदठ्ठ , च्.ज्.ज्.ज्.च्.क्दृथ्थ्ड्ढढ़ड्ढ , एदृध्र्ड्ढदद्रठ्ठथ्थ्न्र्, च्ड्ढड़द्वदड्डड्ढद्धठ्ठडठ्ठड्ड, ॠ.घ्.500011  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

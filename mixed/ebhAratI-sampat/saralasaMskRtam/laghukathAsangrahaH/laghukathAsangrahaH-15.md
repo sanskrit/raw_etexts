@@ -1,12 +1,11 @@
 +++
-TITLE = "लघुकथासङ्ग्रहः-१५"
-DOMAIN = "सरलसंस्कृतम्"
-SUB-DOMAIN = "लघुकथासङ्ग्रहः"
-PAGES = "60"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8313"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgwNDUyMzY3NjEwODk3&pageno=MjI0MjQyNjk5NTk="
 title = "लघुकथासङ्ग्रहः-१५"
+domain = "सरलसंस्कृतम्"
+sub-domain = "लघुकथासङ्ग्रहः"
+pages = "60"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8313"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgwNDUyMzY3NjEwODk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लघुकथासङ्ग्रहः-१५	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjgwNDUyMzY3NjEwODk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -891,8 +890,5 @@ title = "लघुकथासङ्ग्रहः-१५"
 
   अनन्तः अपि रोगिणां मनोवृत्तिं ज्ञातुं प्रयत्नं कुर्वन् लोकज्ञानं प्राप्य क्रमशः प्रसिद्धः जातः। एषा वार्ता विश्वपतिना अपि जनानां मुखात् श्रुता। 'इतः परम् अनन्तः अपि नीलकण्ठः इव प्रसिद्धः भूत्वा कीर्तिं प्राप्स्यति' इति आलोच्य विश्वपतिः तृप्तिम् अनुभूतवान्।
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

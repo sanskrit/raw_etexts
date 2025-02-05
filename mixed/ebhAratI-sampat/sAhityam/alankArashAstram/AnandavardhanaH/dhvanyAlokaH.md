@@ -1,19 +1,18 @@
 +++
-TITLE = "ध्वन्यालोकः"
-AUTHOR = "आनन्दवर्धनः"
-PUBLISHER = "जयकृष्णदास - हरिदास गुप्तः"
-"PUBLISH YEAR" = "1940"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "606"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पट्टाभिरशास्त्री"
-"PRIMARY COMMENTATOR" = "आभिनवगुप्तः महादेवशात्री"
-"COMMENTARY NAME" = "लोचनः बालप्रियः दिव्यञ्जनः"
-PRINTER = "विद्याविलास प्रेस् बनारस्"
-"SERIAL NO." = "Ebharati-5955"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEwMzI2MzI2NzU2MTc1&pageno=MjI0MjQyNjk5NTk="
 title = "ध्वन्यालोकः"
+author = "आनन्दवर्धनः"
+publisher = "जयकृष्णदास - हरिदास गुप्तः"
+"publish year" = "1940"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "606"
+language = "संस्कृतम्"
+editor = "पट्टाभिरशास्त्री"
+"primary commentator" = "आभिनवगुप्तः महादेवशात्री"
+"commentary name" = "लोचनः बालप्रियः दिव्यञ्जनः"
+printer = "विद्याविलास प्रेस् बनारस्"
+"serial no." = "Ebharati-5955"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEwMzI2MzI2NzU2MTc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ध्वन्यालोकः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDEwMzI2MzI2NzU2MTc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -12681,19 +12680,6 @@ title = "ध्वन्यालोकः"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

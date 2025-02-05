@@ -1,13 +1,12 @@
 +++
-TITLE = "पातञ्जलयोगसूत्राणि (मूलम्)"
-AUTHOR = "पतञ्जलिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "14"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-1600"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyNTc4Nzg5Mzk1MzUx&pageno=MjI0MjQyNjk5NTk="
 title = "पातञ्जलयोगसूत्राणि (मूलम्)"
+author = "पतञ्जलिः"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "14"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-1600"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyNTc4Nzg5Mzk1MzUx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पातञ्जलयोगसूत्राणि (मूलम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDAyNTc4Nzg5Mzk1MzUx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -509,8 +508,5 @@ title = "पातञ्जलयोगसूत्राणि (मूलम्
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

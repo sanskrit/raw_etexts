@@ -1,16 +1,15 @@
 +++
-TITLE = "पूजासमुच्चयः"
-PUBLISHER = "पाण्डुरङ्ग-जावजी"
-"PUBLISH YEAR" = "1923"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "282"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वासुदेव-लक्ष्मण-शास्त्री-पणशीकरः"
-PRINTER = "रामचन्द्र-येसु-शाड्गे-निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7105"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEzODA0MjAzMzUwMjg2&pageno=MjI0MjQyNjk5NTk="
 title = "पूजासमुच्चयः"
+publisher = "पाण्डुरङ्ग-जावजी"
+"publish year" = "1923"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "282"
+language = "संस्कृतम्"
+editor = "वासुदेव-लक्ष्मण-शास्त्री-पणशीकरः"
+printer = "रामचन्द्र-येसु-शाड्गे-निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-7105"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEzODA0MjAzMzUwMjg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पूजासमुच्चयः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDEzODA0MjAzMzUwMjg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2094,8 +2093,5 @@ Printed by Ramchandra Yesu Shedge, Nirnaya-Sagar Press, 23, Kolbhat Lane, Bombay
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

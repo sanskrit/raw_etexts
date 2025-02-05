@@ -1,17 +1,16 @@
 +++
-TITLE = "मृच्छकटिकम्"
-AUTHOR = "शूद्रकः"
-PUBLISHER = "पाण्डुरङ्गजावजी"
-"PUBLISH YEAR" = "1936"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "275"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "काशीनाथः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5477"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkyNTQ3OTE0MTc3NTI1&pageno=MjI0MjQyNjk5NTk="
 title = "मृच्छकटिकम्"
+author = "शूद्रकः"
+publisher = "पाण्डुरङ्गजावजी"
+"publish year" = "1936"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "275"
+language = "संस्कृतम्"
+editor = "काशीनाथः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-5477"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkyNTQ3OTE0MTc3NTI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मृच्छकटिकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDkyNTQ3OTE0MTc3NTI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9062,19 +9061,6 @@ title = "मृच्छकटिकम्"
 
 ![](../books_images/U-IMG-1731686920Screenshot2024-11-15213803.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

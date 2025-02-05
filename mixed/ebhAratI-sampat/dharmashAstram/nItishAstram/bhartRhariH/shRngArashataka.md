@@ -1,17 +1,16 @@
 +++
-TITLE = "शृङ्गारशतक"
-AUTHOR = "भर्तृहरिः"
-PUBLISHER = "हरिदास-एण्ड-कम्पनी"
-"PUBLISH YEAR" = "1925"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "495"
-LANGUAGE = "संस्कृतम् हिन्दी मराठी"
-TRANSLATOR = "हरिदासवैद्यः"
-PRINTER = "सूर्यकुमार-मन्ना"
-"SERIAL NO." = "Ebharati-6462"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY5MDM1ODE3NzIzMDI2&pageno=MjI0MjQyNjk5NTk="
 title = "शृङ्गारशतक"
+author = "भर्तृहरिः"
+publisher = "हरिदास-एण्ड-कम्पनी"
+"publish year" = "1925"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "495"
+language = "संस्कृतम् हिन्दी मराठी"
+translator = "हरिदासवैद्यः"
+printer = "सूर्यकुमार-मन्ना"
+"serial no." = "Ebharati-6462"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY5MDM1ODE3NzIzMDI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शृङ्गारशतक	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDY5MDM1ODE3NzIzMDI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6991,8 +6990,5 @@ own disease of pthisis and in order to cure phimself of that disease, the moon h
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

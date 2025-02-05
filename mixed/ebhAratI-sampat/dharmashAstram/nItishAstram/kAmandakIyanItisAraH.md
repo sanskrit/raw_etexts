@@ -1,15 +1,14 @@
 +++
-TITLE = "कामन्दकीयनीतिसारः"
-PUBLISHER = "खेमराजश्रीकृष्णदासः"
-"PUBLISH YEAR" = "1874"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "227"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीवेग्ङ्कटेश्वर-प्रेस्"
-"SERIAL NO." = "Ebharati-8262"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDIxMzk3&pageno=MjI0MjQyNjk5NTk="
 title = "कामन्दकीयनीतिसारः"
+publisher = "खेमराजश्रीकृष्णदासः"
+"publish year" = "1874"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "227"
+language = "संस्कृतम्"
+printer = "श्रीवेग्ङ्कटेश्वर-प्रेस्"
+"serial no." = "Ebharati-8262"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDIxMzk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कामन्दकीयनीतिसारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDIxMzk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6363,8 +6362,5 @@ title = "कामन्दकीयनीतिसारः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,16 +1,15 @@
 +++
-TITLE = "सुभाषितसङ्ग्रहः"
-PUBLISHER = "जिनदत्तसूरि-ज्ञानभण्डारम्"
-"PUBLISH YEAR" = "1933"
-DOMAIN = "सुभाषितसंग्रहः"
-SUB-DOMAIN = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
-PAGES = "229"
-LANGUAGE = "संस्कृतम् हिन्दी"
-EDITOR = "सुखसागरः"
-PRINTER = "आनन्द-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7200"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA0ODM0NTQ5MjcxMTk2&pageno=MjI0MjQyNjk5NTk="
 title = "सुभाषितसङ्ग्रहः"
+publisher = "जिनदत्तसूरि-ज्ञानभण्डारम्"
+"publish year" = "1933"
+domain = "सुभाषितसंग्रहः"
+sub-domain = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
+pages = "229"
+language = "संस्कृतम् हिन्दी"
+editor = "सुखसागरः"
+printer = "आनन्द-मुद्रणालयः"
+"serial no." = "Ebharati-7200"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA0ODM0NTQ5MjcxMTk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुभाषितसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA0ODM0NTQ5MjcxMTk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6307,8 +6306,5 @@ title = "सुभाषितसङ्ग्रहः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

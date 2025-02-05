@@ -1,11 +1,10 @@
 +++
-TITLE = "राधाविनोदः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-3128"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjcyMDAz&pageno=MjI0MjQyNjk5NTk="
 title = "राधाविनोदः"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-3128"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjcyMDAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[राधाविनोदः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjcyMDAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5370,8 +5369,5 @@ title = "राधाविनोदः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

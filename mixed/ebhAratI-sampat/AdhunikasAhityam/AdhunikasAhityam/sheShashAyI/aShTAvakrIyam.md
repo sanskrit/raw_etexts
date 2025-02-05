@@ -1,16 +1,15 @@
 +++
-TITLE = "अष्टावक्रीयम्"
-AUTHOR = "शेषशायी"
-PUBLISHER = "गुरुराजाचार्यः"
-"PUBLISH YEAR" = "1914"
-DOMAIN = "आधुनिकसाहित्यम्"
-SUB-DOMAIN = "आधुनिकसाहित्यम्"
-PAGES = "48"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "गोपालविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6176"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyODkxMzk3Mjc4Mjk1&pageno=MjI0MjQyNjk5NTk="
 title = "अष्टावक्रीयम्"
+author = "शेषशायी"
+publisher = "गुरुराजाचार्यः"
+"publish year" = "1914"
+domain = "आधुनिकसाहित्यम्"
+sub-domain = "आधुनिकसाहित्यम्"
+pages = "48"
+language = "संस्कृतम्"
+printer = "गोपालविलास-मुद्रणालयः"
+"serial no." = "Ebharati-6176"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyODkxMzk3Mjc4Mjk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अष्टावक्रीयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjcyODkxMzk3Mjc4Mjk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -195,19 +194,6 @@ title = "अष्टावक्रीयम्"
 
 
 ![](../../../../../books_images/U-IMG-1695791878Untitled.png)
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

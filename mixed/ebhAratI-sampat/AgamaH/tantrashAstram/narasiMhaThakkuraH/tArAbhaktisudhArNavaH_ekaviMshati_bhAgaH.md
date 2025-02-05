@@ -1,16 +1,15 @@
 +++
-TITLE = "ताराभक्तिसुधार्णवः (एकविंशति भागः)"
-AUTHOR = "नरसिंहठक्कुरः"
-"PUBLISH YEAR" = "1940"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "471"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पञ्चाननभट्टाचार्यः"
-PRINTER = "महाराष्ट्र-मुद्रण-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8718"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk5NDM0MTQyNTk4NjM4&pageno=MjI0MjQyNjk5NTk="
 title = "ताराभक्तिसुधार्णवः (एकविंशति भागः)"
+author = "नरसिंहठक्कुरः"
+"publish year" = "1940"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "471"
+language = "संस्कृतम्"
+editor = "पञ्चाननभट्टाचार्यः"
+printer = "महाराष्ट्र-मुद्रण-यन्त्रालयः"
+"serial no." = "Ebharati-8718"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk5NDM0MTQyNTk4NjM4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ताराभक्तिसुधार्णवः (एकविंशति भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk5NDM0MTQyNTk4NjM4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -22651,19 +22650,6 @@ CHAPTER XI
 
 **—————**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

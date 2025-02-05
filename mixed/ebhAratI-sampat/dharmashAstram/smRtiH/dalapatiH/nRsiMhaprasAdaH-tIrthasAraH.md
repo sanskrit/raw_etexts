@@ -1,15 +1,14 @@
 +++
-TITLE = "नृसिंहप्रसादः-तीर्थसारः"
-AUTHOR = "दलपतिः"
-"PUBLISH YEAR" = "1936"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "125"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "सूर्यनारायणशुक्ला"
-"SERIAL NO." = "Ebharati-5193"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0Nzk4Njg0ODA1ODk0&pageno=MjI0MjQyNjk5NTk="
 title = "नृसिंहप्रसादः-तीर्थसारः"
+author = "दलपतिः"
+"publish year" = "1936"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "125"
+language = "संस्कृतम्"
+editor = "सूर्यनारायणशुक्ला"
+"serial no." = "Ebharati-5193"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0Nzk4Njg0ODA1ODk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नृसिंहप्रसादः-तीर्थसारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0Nzk4Njg0ODA1ODk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4731,19 +4730,6 @@ Assistant Professor, Govt. Sanskrit College, Benares.
 
 ![](../books_images/U-IMG-1687178227Screenshot2023-06-19180638.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

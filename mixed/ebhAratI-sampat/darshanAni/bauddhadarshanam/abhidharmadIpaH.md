@@ -1,12 +1,11 @@
 +++
-TITLE = "अभिधर्मदीपः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3626"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcxMjIwNTczMjgwODQz"
 title = "अभिधर्मदीपः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3626"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcxMjIwNTczMjgwODQz"
 
 +++
 [[अभिधर्मदीपः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjcxMjIwNTczMjgwODQz)]]

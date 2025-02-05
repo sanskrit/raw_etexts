@@ -1,15 +1,14 @@
 +++
-TITLE = "भारतीस्तवः"
-AUTHOR = "ति.वि.कपालिशास्त्री"
-PUBLISHER = "मा.पु.पण्डितः"
-"PUBLISH YEAR" = "1948"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "40"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"SERIAL NO." = "Ebharati-7058"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc0NDEwOTc0MTQ1Nzc2&pageno=MjI0MjQyNjk5NTk="
 title = "भारतीस्तवः"
+author = "ति.वि.कपालिशास्त्री"
+publisher = "मा.पु.पण्डितः"
+"publish year" = "1948"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "40"
+language = "संस्कृतम् हिन्दी"
+"serial no." = "Ebharati-7058"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc0NDEwOTc0MTQ1Nzc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भारतीस्तवः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njc0NDEwOTc0MTQ1Nzc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -833,19 +832,6 @@ land that has been fashioned as the focal point of the Earth'sAspiration towards
 **भारतीस्तवः**  
 समाप्तः।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

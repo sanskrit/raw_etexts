@@ -1,15 +1,14 @@
 +++
-TITLE = "आदित्यहृदयम्"
-PUBLISHER = "सत्यभामबाई-पाण्डुरङ्गः"
-"PUBLISH YEAR" = "1945"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "32"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7048"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMDk1NjE1MTg1Njc2&pageno=MjI0MjQyNjk5NTk="
 title = "आदित्यहृदयम्"
+publisher = "सत्यभामबाई-पाण्डुरङ्गः"
+"publish year" = "1945"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "32"
+language = "संस्कृतम्"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-7048"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMDk1NjE1MTg1Njc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आदित्यहृदयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMDk1NjE1MTg1Njc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -761,8 +760,5 @@ title = "आदित्यहृदयम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,18 +1,17 @@
 +++
-TITLE = "श्रीशिवमहिम्नस्तोत्रम्"
-AUTHOR = "पुष्पदन्तः"
-PUBLISHER = "जयकृष्णदासगुप्तः"
-"PUBLISH YEAR" = "1924"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "236"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "नारायणपतिशर्मा-त्रिपाठी"
-"COMMENTARY NAME" = "संस्कृतटीका संस्कृतपदानुवादः भाषाटीका भाषापद्यानुवादः भाषाबिम्बः"
-PRINTER = "विद्याविलास-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7118"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk3OTU1MzUyMTAzMzg2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीशिवमहिम्नस्तोत्रम्"
+author = "पुष्पदन्तः"
+publisher = "जयकृष्णदासगुप्तः"
+"publish year" = "1924"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "236"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "नारायणपतिशर्मा-त्रिपाठी"
+"commentary name" = "संस्कृतटीका संस्कृतपदानुवादः भाषाटीका भाषापद्यानुवादः भाषाबिम्बः"
+printer = "विद्याविलास-यन्त्रालयः"
+"serial no." = "Ebharati-7118"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk3OTU1MzUyMTAzMzg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीशिवमहिम्नस्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk3OTU1MzUyMTAzMzg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4566,19 +4565,6 @@ title = "श्रीशिवमहिम्नस्तोत्रम्"
 **![](../books_images/U-IMG-1724735065j.png)**  
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

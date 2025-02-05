@@ -1,12 +1,11 @@
 +++
-TITLE = "घेरण्डसंहिता"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3860"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI5ODQ3NTk0NTQ1MDcz"
 title = "घेरण्डसंहिता"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3860"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI5ODQ3NTk0NTQ1MDcz"
 
 +++
 [[घेरण्डसंहिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDI5ODQ3NTk0NTQ1MDcz)]]

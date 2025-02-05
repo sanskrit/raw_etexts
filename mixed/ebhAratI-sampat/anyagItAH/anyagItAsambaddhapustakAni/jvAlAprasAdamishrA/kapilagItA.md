@@ -1,16 +1,15 @@
 +++
-TITLE = "कपिलगीता"
-AUTHOR = "ज्वालाप्रसादमिश्रा"
-PUBLISHER = "क्षेमराजश्रीकृष्णदासः"
-"PUBLISH YEAR" = "1912"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-PAGES = "116"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "श्रीवेङ्कटेश्वर-स्टीम्-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6675"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU4NjYxODE5NDc3MDQ2&pageno=MjI0MjQyNjk5NTk="
 title = "कपिलगीता"
+author = "ज्वालाप्रसादमिश्रा"
+publisher = "क्षेमराजश्रीकृष्णदासः"
+"publish year" = "1912"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+pages = "116"
+language = "संस्कृतम् हिन्दी"
+printer = "श्रीवेङ्कटेश्वर-स्टीम्-मुद्रणालयः"
+"serial no." = "Ebharati-6675"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU4NjYxODE5NDc3MDQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कपिलगीता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU4NjYxODE5NDc3MDQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -127,19 +126,6 @@ title = "कपिलगीता"
 धियाऽभिनंद्यात्मवतां सतां गतिर्बभाषईषत्स्मितशोभिताननः॥१२॥**
 
  मैत्रेयजी बोले कि इसप्रकार अनिंद्य चाह, अपनी माताकी सुनी जो मनुष्योंको मोक्ष देनेवाली बुद्धिसे सराहनाकर
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

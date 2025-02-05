@@ -1,12 +1,11 @@
 +++
-TITLE = "आर्यपञ्चविंशतिसाहस्रिका"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3755"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2NDkyMDk4NTY0MDYz&pageno=MjI0MjQyNjk5NTk="
 title = "आर्यपञ्चविंशतिसाहस्रिका"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3755"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2NDkyMDk4NTY0MDYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आर्यपञ्चविंशतिसाहस्रिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE2NDkyMDk4NTY0MDYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5874,8 +5873,5 @@ title = "आर्यपञ्चविंशतिसाहस्रिका"
 
 ------------------------------------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

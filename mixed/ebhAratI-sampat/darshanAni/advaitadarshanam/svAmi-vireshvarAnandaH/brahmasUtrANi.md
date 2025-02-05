@@ -1,16 +1,15 @@
 +++
-TITLE = "ब्रह्मसूत्राणि"
-AUTHOR = "स्वामि-विरेश्वरानन्दः"
-PUBLISHER = "स्वामि-वीरेस्वरानन्द"
-"PUBLISH YEAR" = "1936"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतदर्शनम्"
-PAGES = "618"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "एन्.मुखेर्जी आर्ट्-प्रेस्"
-"SERIAL NO." = "Ebharati-8795"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk0MTAxMjU5NjgyNDQ4&pageno=MjI0MjQyNjk5NTk="
 title = "ब्रह्मसूत्राणि"
+author = "स्वामि-विरेश्वरानन्दः"
+publisher = "स्वामि-वीरेस्वरानन्द"
+"publish year" = "1936"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतदर्शनम्"
+pages = "618"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "एन्.मुखेर्जी आर्ट्-प्रेस्"
+"serial no." = "Ebharati-8795"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk0MTAxMjU5NjgyNDQ4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ब्रह्मसूत्राणि	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDk0MTAxMjU5NjgyNDQ4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8178,19 +8177,6 @@ If the powers of the released souls are limited, then like all limited things th
 
 [TABLE]
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

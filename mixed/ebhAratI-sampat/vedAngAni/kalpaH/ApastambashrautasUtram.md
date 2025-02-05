@@ -1,16 +1,15 @@
 +++
-TITLE = "आपस्तम्बश्रौतसूत्रम्"
-"PUBLISH YEAR" = "१८८३"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "740"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "Dr. Richard Garbe"
-"PRIMARY COMMENTATOR" = "रुद्रदत्तः"
-PRINTER = "J.W.Thomas"
-"SERIAL NO." = "Ebharati-2124"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIzNDA5ODEwNjk4MzAy&pageno=MjI0MjQyNjk5NTk="
 title = "आपस्तम्बश्रौतसूत्रम्"
+"publish year" = "१८८३"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "740"
+language = "संस्कृतम्"
+editor = "Dr. Richard Garbe"
+"primary commentator" = "रुद्रदत्तः"
+printer = "J.W.Thomas"
+"serial no." = "Ebharati-2124"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIzNDA5ODEwNjk4MzAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आपस्तम्बश्रौतसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODIzNDA5ODEwNjk4MzAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -13114,8 +13113,5 @@ Vol. I.**
 
 \~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,15 +1,14 @@
 +++
-TITLE = "दयाशतकम्"
-AUTHOR = "श्रीधरवेङ्कटेशार्यः"
-"PUBLISH YEAR" = "1911"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "31"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "वाणीविलास-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7854"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgzMjg5Nzg0NDU5MzU3&pageno=MjI0MjQyNjk5NTk="
 title = "दयाशतकम्"
+author = "श्रीधरवेङ्कटेशार्यः"
+"publish year" = "1911"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "31"
+language = "संस्कृतम्"
+printer = "वाणीविलास-यन्त्रालयः"
+"serial no." = "Ebharati-7854"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgzMjg5Nzg0NDU5MzU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दयाशतकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODgzMjg5Nzg0NDU5MzU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -568,19 +567,6 @@ title = "दयाशतकम्"
 
 **इति दयाशतकम् संपूर्णम् ॥**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,17 +1,16 @@
 +++
-TITLE = "अष्टाङ्गहृदयकोशः हृदयप्रकाशव्याख्यासहितः"
-AUTHOR = "माणिक्यभिषक्"
-"PUBLISH YEAR" = "१९३६"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "668"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-EDITOR = "K M वैद्यः"
-"COMMENTARY NAME" = "हृदयप्रकाश-व्याख्या"
-PRINTER = "मङ्गलोदयम्-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-3390"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg1MDE4MTYyNzI0NTIz&pageno=MjI0MjQyNjk5NTk="
 title = "अष्टाङ्गहृदयकोशः हृदयप्रकाशव्याख्यासहितः"
+author = "माणिक्यभिषक्"
+"publish year" = "१९३६"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "668"
+language = "संस्कृतम् आङ्ग्लम्"
+editor = "K M वैद्यः"
+"commentary name" = "हृदयप्रकाश-व्याख्या"
+printer = "मङ्गलोदयम्-मुद्रणालयः"
+"serial no." = "Ebharati-3390"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg1MDE4MTYyNzI0NTIz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अष्टाङ्गहृदयकोशः हृदयप्रकाशव्याख्यासहितः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDg1MDE4MTYyNzI0NTIz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9578,19 +9577,6 @@ a country along the Indus, whence it derives its name. The article supplied unde
 
 ----------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

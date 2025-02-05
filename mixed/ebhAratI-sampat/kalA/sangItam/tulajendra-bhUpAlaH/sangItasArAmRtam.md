@@ -1,16 +1,15 @@
 +++
-TITLE = "सङ्गीतसारामृतम्"
-AUTHOR = "तुलजेन्द्र-भूपालः"
-PUBLISHER = "मद्रपुरीसंगीतविद्वत्सभा"
-"PUBLISH YEAR" = "१९४२"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "289"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "सुब्रह्मण्य-शास्त्री"
-"SERIAL NO." = "Ebharati-4592"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4MTAyNTQ3NDE4MDQ0&pageno=MjI0MjQyNjk5NTk="
 title = "सङ्गीतसारामृतम्"
+author = "तुलजेन्द्र-भूपालः"
+publisher = "मद्रपुरीसंगीतविद्वत्सभा"
+"publish year" = "१९४२"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "289"
+language = "संस्कृतम्"
+editor = "सुब्रह्मण्य-शास्त्री"
+"serial no." = "Ebharati-4592"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4MTAyNTQ3NDE4MDQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सङ्गीतसारामृतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDI4MTAyNTQ3NDE4MDQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -12989,19 +12988,6 @@ suited only in the Library.**
 way shall have to be replaced or its doubleprice shall be paid by the**
 
 **----------**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

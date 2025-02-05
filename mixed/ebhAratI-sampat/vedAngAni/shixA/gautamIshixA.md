@@ -1,12 +1,11 @@
 +++
-TITLE = "गौतमीशिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3522"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgyMDE4NTY3ODkwODMz&pageno=MjI0MjQyNjk5NTk="
 title = "गौतमीशिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3522"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgyMDE4NTY3ODkwODMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गौतमीशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDgyMDE4NTY3ODkwODMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -139,8 +138,5 @@ gautamiya_shiksha
          इति द्वितीयप्रपाठकः  
       इति सामवेदीयगौतमीशिक्षा समाप्ता
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

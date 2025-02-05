@@ -1,16 +1,15 @@
 +++
-TITLE = "काव्यमाला (चतुर्थो भागः)"
-PUBLISHER = "पाण्डुरङ्ग-जावजी"
-"PUBLISH YEAR" = "1937"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "203"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "दुर्गाप्रसादः  काशीनाथ-पाण्डुरङ्ग-परब्"
-PRINTER = "निर्णयसागर-प्रेस् बोम्बे"
-"SERIAL NO." = "Ebharati-5819"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE2MzU2NDMxMjA2ODU1&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यमाला (चतुर्थो भागः)"
+publisher = "पाण्डुरङ्ग-जावजी"
+"publish year" = "1937"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "203"
+language = "संस्कृतम्"
+editor = "दुर्गाप्रसादः  काशीनाथ-पाण्डुरङ्ग-परब्"
+printer = "निर्णयसागर-प्रेस् बोम्बे"
+"serial no." = "Ebharati-5819"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE2MzU2NDMxMjA2ODU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यमाला (चतुर्थो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODE2MzU2NDMxMjA2ODU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5714,8 +5713,5 @@ Printer:-Ramchandra Yesu Shedge,26-28, Kolbhat Street, Bombay
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

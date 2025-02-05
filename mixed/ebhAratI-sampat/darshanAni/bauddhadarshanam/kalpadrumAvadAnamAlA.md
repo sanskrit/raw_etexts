@@ -1,12 +1,11 @@
 +++
-TITLE = "कल्पद्रुमावदानमाला"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3720"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ4OTA4MTIwNjAxNzUz&pageno=MjI0MjQyNjk5NTk="
 title = "कल्पद्रुमावदानमाला"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3720"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ4OTA4MTIwNjAxNzUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कल्पद्रुमावदानमाला	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ4OTA4MTIwNjAxNzUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1132,8 +1131,5 @@ title = "कल्पद्रुमावदानमाला"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

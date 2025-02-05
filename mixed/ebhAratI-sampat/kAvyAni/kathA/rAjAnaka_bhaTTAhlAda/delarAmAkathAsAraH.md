@@ -1,17 +1,16 @@
 +++
-TITLE = "देलरामाकथासारः"
-AUTHOR = "राजानक भट्टाह्लाद"
-PUBLISHER = "तुकाराम जावजी"
-"PUBLISH YEAR" = "1902"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "55"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शिवदत्त काशीनाथ पाण्डुरङ्ग परब"
-PRINTER = "तुकाराम जावजी"
-"SERIAL NO." = "Ebharati-5626"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxNjY4OTU4NDcwMDQ1&pageno=MjI0MjQyNjk5NTk="
 title = "देलरामाकथासारः"
+author = "राजानक भट्टाह्लाद"
+publisher = "तुकाराम जावजी"
+"publish year" = "1902"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "55"
+language = "संस्कृतम्"
+editor = "शिवदत्त काशीनाथ पाण्डुरङ्ग परब"
+printer = "तुकाराम जावजी"
+"serial no." = "Ebharati-5626"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxNjY4OTU4NDcwMDQ1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[देलरामाकथासारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjcxNjY4OTU4NDcwMDQ1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1994,19 +1993,6 @@ title = "देलरामाकथासारः"
 समाप्तोऽयं ग्रन्थः।  
 ![](../books_images/U-IMG-1720925174delarama55.JPG)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

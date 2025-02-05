@@ -1,13 +1,12 @@
 +++
-TITLE = "तत्त्वरत्नावलोकः"
-AUTHOR = "वागीश्वरकीर्तिपादाः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3824"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI3MTIwMTM2OTgwNzYz&pageno=MjI0MjQyNjk5NTk="
 title = "तत्त्वरत्नावलोकः"
+author = "वागीश्वरकीर्तिपादाः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3824"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI3MTIwMTM2OTgwNzYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तत्त्वरत्नावलोकः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODI3MTIwMTM2OTgwNzYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -85,19 +84,6 @@ title = "तत्त्वरत्नावलोकः"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

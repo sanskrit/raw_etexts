@@ -1,15 +1,14 @@
 +++
-TITLE = "पञ्चतन्त्रम् २ ३"
-"PUBLISH YEAR" = "1868"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "113"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "जि. बूह्लर्"
-PRINTER = "इन्दुप्रकाश प्रेस् बाम्बे"
-"SERIAL NO." = "Ebharati-5649"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc4MTQ0Mzc3MjgyMjQ1&pageno=MjI0MjQyNjk5NTk="
 title = "पञ्चतन्त्रम् २ ३"
+"publish year" = "1868"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "113"
+language = "संस्कृतम्"
+editor = "जि. बूह्लर्"
+printer = "इन्दुप्रकाश प्रेस् बाम्बे"
+"serial no." = "Ebharati-5649"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc4MTQ0Mzc3MjgyMjQ1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पञ्चतन्त्रम् २ ३	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODc4MTQ0Mzc3MjgyMjQ1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2386,8 +2385,5 @@ END.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

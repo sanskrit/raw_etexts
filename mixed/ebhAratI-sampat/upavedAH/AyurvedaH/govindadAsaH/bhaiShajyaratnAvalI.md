@@ -1,12 +1,11 @@
 +++
-TITLE = "भैषज्यरत्नावली"
-AUTHOR = "गोविन्ददासः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2505"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDExNzYyNzg1MDc0MDQy"
 title = "भैषज्यरत्नावली"
+author = "गोविन्ददासः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2505"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDExNzYyNzg1MDc0MDQy"
 
 +++
 [[भैषज्यरत्नावली	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDExNzYyNzg1MDc0MDQy)]]

@@ -1,16 +1,15 @@
 +++
-TITLE = "नवरात्रप्रदीपः"
-AUTHOR = "विनायकपण्डितः"
-"PUBLISH YEAR" = "1928"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "171"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वैद्यनाथ-शास्त्री-वरकले"
-PRINTER = "जयकृष्णदासगुप्त-विद्याविलास-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7102"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQwMTg2MzEzNTY3MTg2&pageno=MjI0MjQyNjk5NTk="
 title = "नवरात्रप्रदीपः"
+author = "विनायकपण्डितः"
+"publish year" = "1928"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "171"
+language = "संस्कृतम्"
+editor = "वैद्यनाथ-शास्त्री-वरकले"
+printer = "जयकृष्णदासगुप्त-विद्याविलास-यन्त्रालयः"
+"serial no." = "Ebharati-7102"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQwMTg2MzEzNTY3MTg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नवरात्रप्रदीपः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQwMTg2MzEzNTY3MTg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3122,19 +3121,6 @@ stra learning and that it has been a Vaiṣṇava family with Rāmachandra as it
 | ”           |      ”      |
 | दानर्चा     |  दानार्चा   |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

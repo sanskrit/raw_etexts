@@ -1,12 +1,11 @@
 +++
-TITLE = "पाण्डुलोहितकवस्तु"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3756"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMwNzM1Njg4MTY1MDYz&pageno=MjI0MjQyNjk5NTk="
 title = "पाण्डुलोहितकवस्तु"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3756"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMwNzM1Njg4MTY1MDYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पाण्डुलोहितकवस्तु	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjMwNzM1Njg4MTY1MDYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -261,8 +260,5 @@ title = "पाण्डुलोहितकवस्तु"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

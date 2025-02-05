@@ -1,16 +1,15 @@
 +++
-TITLE = "सन्ध्याभाष्यसमुच्चयः"
-PUBLISHER = "विनायक-गणेश-आपटे"
-"PUBLISH YEAR" = "1919"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "189"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "काशीनाथ-शास्त्री-अगशे"
-PRINTER = "आनन्दाश्रम-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7109"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk5NzczNzgyNzM0Mjg2&pageno=MjI0MjQyNjk5NTk="
 title = "सन्ध्याभाष्यसमुच्चयः"
+publisher = "विनायक-गणेश-आपटे"
+"publish year" = "1919"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "189"
+language = "संस्कृतम्"
+editor = "काशीनाथ-शास्त्री-अगशे"
+printer = "आनन्दाश्रम-यन्त्रालयः"
+"serial no." = "Ebharati-7109"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk5NzczNzgyNzM0Mjg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सन्ध्याभाष्यसमुच्चयः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODk5NzczNzgyNzM0Mjg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4973,8 +4972,5 @@ title = "सन्ध्याभाष्यसमुच्चयः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

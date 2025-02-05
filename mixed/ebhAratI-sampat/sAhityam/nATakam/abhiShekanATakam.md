@@ -1,11 +1,10 @@
 +++
-TITLE = "अभिषेकनाटकम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2789"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU5NDExMDI1MzM3NzYy"
 title = "अभिषेकनाटकम्"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2789"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU5NDExMDI1MzM3NzYy"
 
 +++
 [[अभिषेकनाटकम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODU5NDExMDI1MzM3NzYy)]]

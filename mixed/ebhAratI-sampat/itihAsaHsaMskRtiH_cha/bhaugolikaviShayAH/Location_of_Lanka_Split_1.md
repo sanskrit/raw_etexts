@@ -1,14 +1,13 @@
 +++
-TITLE = "Location of Lanka Split 1"
-PUBLISHER = "मनोहर महादेव केळकर"
-"PUBLISH YEAR" = "1947"
-DOMAIN = "इतिहासःसंस्कृतिः च"
-SUB-DOMAIN = "भौगोलिकविषयाः"
-PAGES = "35"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-"SERIAL NO." = "Ebharati-4974"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIwNzA4OTAzNTg0Nzc0&pageno=MjI0MjQyNjk5NTk="
 title = "Location of Lanka Split 1"
+publisher = "मनोहर महादेव केळकर"
+"publish year" = "1947"
+domain = "इतिहासःसंस्कृतिः च"
+sub-domain = "भौगोलिकविषयाः"
+pages = "35"
+language = "संस्कृतम् आङ्ग्लम्"
+"serial no." = "Ebharati-4974"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIwNzA4OTAzNTg0Nzc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[Location of Lanka Split 1	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODIwNzA4OTAzNTg0Nzc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1185,8 +1184,5 @@ This also shows that their home were not so far away as is popularly believed.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

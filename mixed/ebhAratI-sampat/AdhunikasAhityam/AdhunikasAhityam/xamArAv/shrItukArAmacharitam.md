@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीतुकारामचरितम्"
-AUTHOR = "क्षमाराव्"
-PUBLISHER = "वि. कुलकर्णी"
-"PUBLISH YEAR" = "1950"
-DOMAIN = "आधुनिकसाहित्यम्"
-SUB-DOMAIN = "आधुनिकसाहित्यम्"
-PAGES = "117"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6202"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQyMTA1NTk2ODYzNTk1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीतुकारामचरितम्"
+author = "क्षमाराव्"
+publisher = "वि. कुलकर्णी"
+"publish year" = "1950"
+domain = "आधुनिकसाहित्यम्"
+sub-domain = "आधुनिकसाहित्यम्"
+pages = "117"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-6202"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQyMTA1NTk2ODYzNTk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीतुकारामचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQyMTA1NTk2ODYzNTk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2589,19 +2588,6 @@ floating in theatmosphere at a great distance. It was a darkobject
 coming down slowly towards the earth. 43. 55. It fell down. It wasTukarama's blanket.Wrapped in it was a
 pair of cymbals! And therethey stood, with their hearts overwhelmed
 withemotions of joy, sorrow, fear, devotion, amazement.
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

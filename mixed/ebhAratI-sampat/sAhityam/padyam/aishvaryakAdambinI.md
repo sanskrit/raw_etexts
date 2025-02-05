@@ -1,11 +1,10 @@
 +++
-TITLE = "ऐश्वर्यकादम्बिनी"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3154"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg5ODk1ODQxMjc3MjAz"
 title = "ऐश्वर्यकादम्बिनी"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3154"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg5ODk1ODQxMjc3MjAz"
 
 +++
 [[ऐश्वर्यकादम्बिनी	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODg5ODk1ODQxMjc3MjAz)]]

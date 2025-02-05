@@ -1,10 +1,9 @@
 +++
-TITLE = "बिल्हणीयम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"SERIAL NO." = "Ebharati-2814"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA1NTcxNjI0MzMxMDcy"
 title = "बिल्हणीयम्"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"serial no." = "Ebharati-2814"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA1NTcxNjI0MzMxMDcy"
 
 +++
 [[बिल्हणीयम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODA1NTcxNjI0MzMxMDcy)]]

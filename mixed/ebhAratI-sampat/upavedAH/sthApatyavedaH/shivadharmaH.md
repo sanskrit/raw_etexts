@@ -1,12 +1,11 @@
 +++
-TITLE = "शिवधर्मः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "स्थापत्यवेदः"
-PAGES = "248"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4640"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgwODM4NDY1MjI0NTQ0&pageno=MjI0MjQyNjk5NTk="
 title = "शिवधर्मः"
+domain = "उपवेदाः"
+sub-domain = "स्थापत्यवेदः"
+pages = "248"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4640"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgwODM4NDY1MjI0NTQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शिवधर्मः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDgwODM4NDY1MjI0NTQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7379,19 +7378,6 @@ title = "शिवधर्मः"
 **शिवधर्मस्समाप्तः॥  
 ओं शिवायगुरवे नमः। शिवमस्तु । श्रीशिवाय नमः॥**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

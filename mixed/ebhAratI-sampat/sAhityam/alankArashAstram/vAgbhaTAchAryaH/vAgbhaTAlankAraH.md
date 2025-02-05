@@ -1,16 +1,15 @@
 +++
-TITLE = "वाग्भटालङ्कारः"
-AUTHOR = "वाग्भटाचार्यः"
-PUBLISHER = "खेमराजश्रीकृष्णदासः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "243"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "मुरलीधरशर्मा"
-PRINTER = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5968"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NDc3NDc1NTA5Mjc1&pageno=MjI0MjQyNjk5NTk="
 title = "वाग्भटालङ्कारः"
+author = "वाग्भटाचार्यः"
+publisher = "खेमराजश्रीकृष्णदासः"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "243"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "मुरलीधरशर्मा"
+printer = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-5968"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NDc3NDc1NTA5Mjc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वाग्भटालङ्कारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NDc3NDc1NTA5Mjc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2975,19 +2974,6 @@ title = "वाग्भटालङ्कारः"
 खेमराज श्रीकृष्णदास, "श्रीवेंकटेश्वर” स्टीम् जैस-बंबई.  
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

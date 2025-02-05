@@ -1,16 +1,15 @@
 +++
-TITLE = "संस्कृतमञ्जरी"
-AUTHOR = "नीलकमलभट्टार्चायः"
-PUBLISHER = "नन्दकिशोरः"
-"PUBLISH YEAR" = "1929"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "216"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "विद्याविलास-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6971"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY3MzI5NTA4OTgxOTY2&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृतमञ्जरी"
+author = "नीलकमलभट्टार्चायः"
+publisher = "नन्दकिशोरः"
+"publish year" = "1929"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "216"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "विद्याविलास-यन्त्रालयः"
+"serial no." = "Ebharati-6971"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY3MzI5NTA4OTgxOTY2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृतमञ्जरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjY3MzI5NTA4OTgxOTY2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4374,19 +4373,6 @@ of good government. **तल्प**—A turret. Differently used from the one a
 
 [TABLE]
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

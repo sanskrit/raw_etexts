@@ -1,16 +1,15 @@
 +++
-TITLE = "चमत्कारचिन्तामणि"
-AUTHOR = "नारायण-भट्टः"
-PUBLISHER = "वागेश्वरी-मुद्रालयः"
-"PUBLISH YEAR" = "1924"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "64"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "वागेश्वरी-मुद्रालयः"
-"SERIAL NO." = "Ebharati-4847"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0OTEwNzg3MzkyNTY0&pageno=MjI0MjQyNjk5NTk="
 title = "चमत्कारचिन्तामणि"
+author = "नारायण-भट्टः"
+publisher = "वागेश्वरी-मुद्रालयः"
+"publish year" = "1924"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "64"
+language = "संस्कृतम्"
+printer = "वागेश्वरी-मुद्रालयः"
+"serial no." = "Ebharati-4847"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0OTEwNzg3MzkyNTY0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चमत्कारचिन्तामणि	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDM0OTEwNzg3MzkyNTY0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -983,19 +982,6 @@ title = "चमत्कारचिन्तामणि"
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 **रामदेव प्रसाद जी द्वारा बागेश्वरी प्रेस,**   
 **दारानगर बनारस में मुद्रित ।**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

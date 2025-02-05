@@ -1,14 +1,13 @@
 +++
-TITLE = "स्तोत्राणि (द्वितीयो भागः)"
-AUTHOR = "शङ्कराचार्यः"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "319"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीवाणिविलासमुद्रणालयम् श्रीरङ्गम्"
-"SERIAL NO." = "Ebharati-8598"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTczNTI4&pageno=MjI0MjQyNjk5NTk="
 title = "स्तोत्राणि (द्वितीयो भागः)"
+author = "शङ्कराचार्यः"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "319"
+language = "संस्कृतम्"
+printer = "श्रीवाणिविलासमुद्रणालयम् श्रीरङ्गम्"
+"serial no." = "Ebharati-8598"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTczNTI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्तोत्राणि (द्वितीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTczNTI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4029,19 +4028,6 @@ title = "स्तोत्राणि (द्वितीयो भागः)"
 **इति श्रीललितात्रिशतीस्तोत्र सपूर्णम्॥**
 
 **![](../books_images/U-IMG-1722960052Screenshot2024-08-06212947.png)**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

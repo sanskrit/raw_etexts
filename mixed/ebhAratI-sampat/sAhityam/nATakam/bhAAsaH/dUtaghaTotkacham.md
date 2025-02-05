@@ -1,12 +1,11 @@
 +++
-TITLE = "दूतघटोत्कचम्"
-AUTHOR = "भाासः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2799"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcxOTM1Mjg0Mzk2ODYy&pageno=MjI0MjQyNjk5NTk="
 title = "दूतघटोत्कचम्"
+author = "भाासः"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2799"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcxOTM1Mjg0Mzk2ODYy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दूतघटोत्कचम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODcxOTM1Mjg0Mzk2ODYy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -627,19 +626,6 @@ title = "दूतघटोत्कचम्"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

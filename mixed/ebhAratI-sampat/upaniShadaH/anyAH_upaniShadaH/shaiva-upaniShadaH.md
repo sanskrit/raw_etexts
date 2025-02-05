@@ -1,17 +1,16 @@
 +++
-TITLE = "शैव-उपनिषदः"
-PUBLISHER = "अडयार्-पुस्तकालयः"
-"PUBLISH YEAR" = "1950"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "अन्याः उपनिषदः"
-PAGES = "263"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "अ.महादेव-शास्त्री"
-"PRIMARY COMMENTATOR" = "उपनिषद्ब्रह्मयोगि"
-PRINTER = "सि.सुब्बरायुडु"
-"SERIAL NO." = "Ebharati-7232"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA5NTkxNTI4NDQyNDk2&pageno=MjI0MjQyNjk5NTk="
 title = "शैव-उपनिषदः"
+publisher = "अडयार्-पुस्तकालयः"
+"publish year" = "1950"
+domain = "उपनिषदः"
+sub-domain = "अन्याः उपनिषदः"
+pages = "263"
+language = "संस्कृतम्"
+editor = "अ.महादेव-शास्त्री"
+"primary commentator" = "उपनिषद्ब्रह्मयोगि"
+printer = "सि.सुब्बरायुडु"
+"serial no." = "Ebharati-7232"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA5NTkxNTI4NDQyNDk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शैव-उपनिषदः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDA5NTkxNTI4NDQyNDk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4990,8 +4989,5 @@ August, 1925
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

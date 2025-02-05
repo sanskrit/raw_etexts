@@ -1,12 +1,11 @@
 +++
-TITLE = "रुक्मिणीपाणिग्रहणम्-काव्यम्\u200c"
-AUTHOR = "गोविन्दान्तर्वाणिः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3065"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDM0MzIwMzg0ODIyNDky"
 title = "रुक्मिणीपाणिग्रहणम्-काव्यम्\u200c"
+author = "गोविन्दान्तर्वाणिः"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3065"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDM0MzIwMzg0ODIyNDky"
 
 +++
 [[रुक्मिणीपाणिग्रहणम्-काव्यम्‌	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDM0MzIwMzg0ODIyNDky)]]

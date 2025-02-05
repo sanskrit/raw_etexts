@@ -1,14 +1,13 @@
 +++
-TITLE = "गोवर्धनेशविलासः"
-AUTHOR = "भूवैकुण्ठः"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "243"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "ओरीएन्टल-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7973"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA2MDM4MDQwODczNTY3&pageno=MjI0MjQyNjk5NTk="
 title = "गोवर्धनेशविलासः"
+author = "भूवैकुण्ठः"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "243"
+language = "संस्कृतम्"
+printer = "ओरीएन्टल-यन्त्रालयः"
+"serial no." = "Ebharati-7973"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA2MDM4MDQwODczNTY3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गोवर्धनेशविलासः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjA2MDM4MDQwODczNTY3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4899,19 +4898,6 @@ is my refuge for ever. O Lord of perfect undiluted intelligence and bliss, may t
 |   5    |              सौधमध्वजनेस्सि यं              |            सौधमध्वजनेस्सीयं             |
 |   6    |        वीक्षापात्री सौजन्य सद्धियां         |       वीक्षापात्री सौजन्यसद्धियां       |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

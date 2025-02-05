@@ -1,17 +1,16 @@
 +++
-TITLE = "चतुर्दण्डीप्रकाशिका"
-AUTHOR = "वेङ्कटमखिः"
-PUBLISHER = "मद्रपुरीसंगीतविद्वत्सभा"
-"PUBLISH YEAR" = "१९३४"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "137"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "एम्.सुब्रह्मण्यः टी.वी.सुब्बराचार्य:"
-"SECOND EDITOR" = "टी.एल्.वेङ्कटरामः"
-"SERIAL NO." = "Ebharati-4572"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgzMzUzMDI4NDk4ODM0&pageno=MjI0MjQyNjk5NTk="
 title = "चतुर्दण्डीप्रकाशिका"
+author = "वेङ्कटमखिः"
+publisher = "मद्रपुरीसंगीतविद्वत्सभा"
+"publish year" = "१९३४"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "137"
+language = "संस्कृतम्"
+editor = "एम्.सुब्रह्मण्यः टी.वी.सुब्बराचार्य:"
+"second editor" = "टी.एल्.वेङ्कटरामः"
+"serial no." = "Ebharati-4572"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgzMzUzMDI4NDk4ODM0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चतुर्दण्डीप्रकाशिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDgzMzUzMDI4NDk4ODM0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3911,19 +3910,6 @@ title = "चतुर्दण्डीप्रकाशिका"
 
 **\_\_\_\_\_\_\_\_\_\_**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

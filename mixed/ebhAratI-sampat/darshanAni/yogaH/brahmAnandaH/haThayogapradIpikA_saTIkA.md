@@ -1,13 +1,12 @@
 +++
-TITLE = "हठयोगप्रदीपिका सटीका"
-AUTHOR = "ब्रह्मानन्दः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3857"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2MTIwNzA1NzUyMDcz"
 title = "हठयोगप्रदीपिका सटीका"
+author = "ब्रह्मानन्दः"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3857"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2MTIwNzA1NzUyMDcz"
 
 +++
 [[हठयोगप्रदीपिका सटीका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2MTIwNzA1NzUyMDcz)]]

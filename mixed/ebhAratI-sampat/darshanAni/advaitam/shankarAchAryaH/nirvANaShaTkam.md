@@ -1,13 +1,12 @@
 +++
-TITLE = "निर्वाणषट्कम्"
-AUTHOR = "शङ्कराचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2539"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU0OTA1OTU0NDM3MzQy&pageno=MjI0MjQyNjk5NTk="
 title = "निर्वाणषट्कम्"
+author = "शङ्कराचार्यः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2539"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU0OTA1OTU0NDM3MzQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[निर्वाणषट्कम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODU0OTA1OTU0NDM3MzQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -78,8 +77,5 @@ title = "निर्वाणषट्कम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

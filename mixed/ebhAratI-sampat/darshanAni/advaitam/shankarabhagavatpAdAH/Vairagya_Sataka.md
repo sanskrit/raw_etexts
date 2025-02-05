@@ -1,13 +1,12 @@
 +++
-TITLE = "Vairagya Sataka"
-AUTHOR = "शङ्करभगवत्पादाः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "21"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2172"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg1MDQ1ODM4MzA1ODAy&pageno=MjI0MjQyNjk5NTk="
 title = "Vairagya Sataka"
+author = "शङ्करभगवत्पादाः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "21"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2172"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg1MDQ1ODM4MzA1ODAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[Vairagya Sataka	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDg1MDQ1ODM4MzA1ODAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -832,19 +831,6 @@ title = "Vairagya Sataka"
 
 ज्ञानापास्तसमस्तमोहमहिमा लीये परब्रह्मणि ॥ १०० ॥
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

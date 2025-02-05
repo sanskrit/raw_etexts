@@ -1,12 +1,11 @@
 +++
-TITLE = "आर्यराष्ट्रपालपरिपृच्छा"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3773"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAyODU2MjI4MzkxMjYz"
 title = "आर्यराष्ट्रपालपरिपृच्छा"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3773"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAyODU2MjI4MzkxMjYz"
 
 +++
 [[आर्यराष्ट्रपालपरिपृच्छा	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjAyODU2MjI4MzkxMjYz)]]

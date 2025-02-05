@@ -1,16 +1,15 @@
 +++
-TITLE = "कुसुममाला (प्रथमावलिः)"
-AUTHOR = "वामनशिवरामआपटे"
-PUBLISHER = "एच्. पि. शिराल्कर्"
-"PUBLISH YEAR" = "1923"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "गद्यम्"
-PAGES = "307"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "चित्रशाला-प्रिन्टिंग्-हौस्"
-"SERIAL NO." = "Ebharati-5341"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA5NTc3MDM5NTE3MjE1&pageno=MjI0MjQyNjk5NTk="
 title = "कुसुममाला (प्रथमावलिः)"
+author = "वामनशिवरामआपटे"
+publisher = "एच्. पि. शिराल्कर्"
+"publish year" = "1923"
+domain = "काव्यानि"
+sub-domain = "गद्यम्"
+pages = "307"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "चित्रशाला-प्रिन्टिंग्-हौस्"
+"serial no." = "Ebharati-5341"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA5NTc3MDM5NTE3MjE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कुसुममाला (प्रथमावलिः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjA5NTc3MDM5NTE3MjE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9064,8 +9063,5 @@ along with Lakshmi, the moon, deadly poison &c.); चांचल्यमुच
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

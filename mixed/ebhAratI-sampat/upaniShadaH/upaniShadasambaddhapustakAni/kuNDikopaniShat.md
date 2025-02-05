@@ -1,12 +1,11 @@
 +++
-TITLE = "कुण्डिकोपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4292"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIyNTc0Mjc4NTEwMjE0&pageno=MjI0MjQyNjk5NTk="
 title = "कुण्डिकोपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4292"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIyNTc0Mjc4NTEwMjE0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कुण्डिकोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDIyNTc0Mjc4NTEwMjE0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -199,8 +198,5 @@ title = "कुण्डिकोपनिषत्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

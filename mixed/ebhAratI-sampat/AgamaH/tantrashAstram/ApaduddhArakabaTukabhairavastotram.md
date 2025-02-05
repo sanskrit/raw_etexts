@@ -1,13 +1,12 @@
 +++
-TITLE = "आपदुद्धारकबटुकभैरवस्तोत्रम्"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "16"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "क्लतबमहल-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8581"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ3MzI4&pageno=MjI0MjQyNjk5NTk="
 title = "आपदुद्धारकबटुकभैरवस्तोत्रम्"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "16"
+language = "संस्कृतम्"
+printer = "क्लतबमहल-यन्त्रालयः"
+"serial no." = "Ebharati-8581"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ3MzI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आपदुद्धारकबटुकभैरवस्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ3MzI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -467,8 +466,5 @@ Printed by :- Kitab Mahal, (W. D.) Pvt. Ltd., Allahabad.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

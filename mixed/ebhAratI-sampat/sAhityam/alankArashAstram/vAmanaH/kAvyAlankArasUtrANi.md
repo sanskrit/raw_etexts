@@ -1,18 +1,17 @@
 +++
-TITLE = "काव्यालङ्कारसूत्राणि"
-AUTHOR = "वामनः"
-PUBLISHER = "पाण्डुरङ्ग जावजी"
-"PUBLISH YEAR" = "1926"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "86"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "दुर्गाप्रसाद काशिनाथ पाण्डुरङ्ग परब"
-"SECOND EDITOR" = "वासुदेव लक्ष्मण शास्त्रि पन्शिकर"
-PRINTER = "रामचन्द्र येसु  शेड्गे"
-"SERIAL NO." = "Ebharati-5990"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg3NzAxMjk0NzEwNTc1&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यालङ्कारसूत्राणि"
+author = "वामनः"
+publisher = "पाण्डुरङ्ग जावजी"
+"publish year" = "1926"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "86"
+language = "संस्कृतम्"
+editor = "दुर्गाप्रसाद काशिनाथ पाण्डुरङ्ग परब"
+"second editor" = "वासुदेव लक्ष्मण शास्त्रि पन्शिकर"
+printer = "रामचन्द्र येसु  शेड्गे"
+"serial no." = "Ebharati-5990"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg3NzAxMjk0NzEwNTc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यालङ्कारसूत्राणि	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDg3NzAxMjk0NzEwNTc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2745,8 +2744,5 @@ Price 12 Annas.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

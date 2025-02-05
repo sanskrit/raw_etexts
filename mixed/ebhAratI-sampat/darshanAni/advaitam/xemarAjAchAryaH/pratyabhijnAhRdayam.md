@@ -1,13 +1,12 @@
 +++
-TITLE = "प्रत्यभिज्ञाहृदयम्"
-AUTHOR = "क्षेमराजाचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3855"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE4NjM1NDE1NTYwMDcz&pageno=MjI0MjQyNjk5NTk="
 title = "प्रत्यभिज्ञाहृदयम्"
+author = "क्षेमराजाचार्यः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3855"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE4NjM1NDE1NTYwMDcz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रत्यभिज्ञाहृदयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE4NjM1NDE1NTYwMDcz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -977,19 +976,6 @@ title = "प्रत्यभिज्ञाहृदयम्"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,12 +1,11 @@
 +++
-TITLE = "पञ्चतन्त्रम्-काकोलूकीयम्"
-AUTHOR = "पिष्णु शर्मा"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "कथा"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2771"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYzMTU3Nzg1NTAwNjYy&pageno=MjI0MjQyNjk5NTk="
 title = "पञ्चतन्त्रम्-काकोलूकीयम्"
+author = "पिष्णु शर्मा"
+domain = "साहित्यम्"
+sub-domain = "कथा"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2771"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYzMTU3Nzg1NTAwNjYy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पञ्चतन्त्रम्-काकोलूकीयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjYzMTU3Nzg1NTAwNjYy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1001,8 +1000,5 @@ title = "पञ्चतन्त्रम्-काकोलूकीयम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

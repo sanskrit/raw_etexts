@@ -1,11 +1,10 @@
 +++
-TITLE = "मेघदूतम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3020"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ0NDExMjU2ODA5OTgy"
 title = "मेघदूतम्"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3020"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ0NDExMjU2ODA5OTgy"
 
 +++
 [[मेघदूतम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ0NDExMjU2ODA5OTgy)]]

@@ -1,12 +1,11 @@
 +++
-TITLE = "कात्यायनीशिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3936"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk5MjcxMDEyMTQ4Nzcz&pageno=MjI0MjQyNjk5NTk="
 title = "कात्यायनीशिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3936"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk5MjcxMDEyMTQ4Nzcz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कात्यायनीशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjk5MjcxMDEyMTQ4Nzcz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -47,8 +46,5 @@ katyayani_shiksha
 
 **---------------------------------------------**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

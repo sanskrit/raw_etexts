@@ -1,17 +1,16 @@
 +++
-TITLE = "अशौचाष्टकम्"
-AUTHOR = "वररुचिः"
-PUBLISHER = "श्री मूलकरामवर्म-कुलशेखर-महाराज-शासन"
-"PUBLISH YEAR" = "1914"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "42"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "त. गणपतिशास्त्री"
-PRINTER = "श्री मूलकरामवर्म-कुलशेखर-महाराज-शासन"
-"SERIAL NO." = "Ebharati-5080"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MzA1MTE5MDY2Nzg0&pageno=MjI0MjQyNjk5NTk="
 title = "अशौचाष्टकम्"
+author = "वररुचिः"
+publisher = "श्री मूलकरामवर्म-कुलशेखर-महाराज-शासन"
+"publish year" = "1914"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "42"
+language = "संस्कृतम्"
+editor = "त. गणपतिशास्त्री"
+printer = "श्री मूलकरामवर्म-कुलशेखर-महाराज-शासन"
+"serial no." = "Ebharati-5080"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MzA1MTE5MDY2Nzg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अशौचाष्टकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MzA1MTE5MDY2Nzg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -809,19 +808,6 @@ T. GANAPATI SÁSTRÍ
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

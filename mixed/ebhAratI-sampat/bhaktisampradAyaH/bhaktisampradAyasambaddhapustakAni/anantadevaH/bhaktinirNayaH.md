@@ -1,14 +1,13 @@
 +++
-TITLE = "भक्तिनिर्णयः"
-AUTHOR = "अनन्तदेवः"
-"PUBLISH YEAR" = "1937"
-DOMAIN = "भक्तिसम्प्रदायः"
-SUB-DOMAIN = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
-PAGES = "95"
-LANGUAGE = "अनन्तशास्त्रिः"
-"SERIAL NO." = "Ebharati-6162"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYzNDA4NTQ4ODI1MTk1&pageno=MjI0MjQyNjk5NTk="
 title = "भक्तिनिर्णयः"
+author = "अनन्तदेवः"
+"publish year" = "1937"
+domain = "भक्तिसम्प्रदायः"
+sub-domain = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
+pages = "95"
+language = "अनन्तशास्त्रिः"
+"serial no." = "Ebharati-6162"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYzNDA4NTQ4ODI1MTk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भक्तिनिर्णयः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDYzNDA4NTQ4ODI1MTk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1748,19 +1747,6 @@ Professor, Sanskrit College, Benares.**
 **इति ग्रन्थादिनामस्थानप्रदर्शनम्।**
 
 ![](../books_images/U-IMG-1731685000ad4.png)
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

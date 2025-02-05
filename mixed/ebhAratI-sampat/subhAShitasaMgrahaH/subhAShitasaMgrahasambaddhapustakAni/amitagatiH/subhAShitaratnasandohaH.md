@@ -1,17 +1,16 @@
 +++
-TITLE = "सुभाषितरत्नसन्दोहः"
-AUTHOR = "अमितगतिः"
-PUBLISHER = "तुकाराम-जावाजी"
-"PUBLISH YEAR" = "1903"
-DOMAIN = "सुभाषितसंग्रहः"
-SUB-DOMAIN = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
-PAGES = "127"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "भावदत्तशास्त्री काशीनाथशास्त्री"
-PRINTER = "तुकाराम-जावाजी"
-"SERIAL NO." = "Ebharati-7171"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYxODA0NDUwOTgzODg2&pageno=MjI0MjQyNjk5NTk="
 title = "सुभाषितरत्नसन्दोहः"
+author = "अमितगतिः"
+publisher = "तुकाराम-जावाजी"
+"publish year" = "1903"
+domain = "सुभाषितसंग्रहः"
+sub-domain = "सुभाषितसंग्रहसम्बद्धपुस्तकानि"
+pages = "127"
+language = "संस्कृतम्"
+editor = "भावदत्तशास्त्री काशीनाथशास्त्री"
+printer = "तुकाराम-जावाजी"
+"serial no." = "Ebharati-7171"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYxODA0NDUwOTgzODg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुभाषितरत्नसन्दोहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjYxODA0NDUwOTgzODg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4508,19 +4507,6 @@ title = "सुभाषितरत्नसन्दोहः"
 
 **![](../books_images/U-IMG-1724182763Screenshot2024-08-21010914.png)**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

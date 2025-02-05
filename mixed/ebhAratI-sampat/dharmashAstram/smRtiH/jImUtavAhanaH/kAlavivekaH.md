@@ -1,17 +1,16 @@
 +++
-TITLE = "कालविवेकः"
-AUTHOR = "जीमूतवाहनः"
-PUBLISHER = "वङ्गीयाशियाटिक-सोसाइटी"
-"PUBLISH YEAR" = "1905"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "644"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "प्रमथनाथ-तर्कभूषणः"
-PRINTER = "शशिभूषण-कृतरत्न-भट्टाचार्यः"
-"SERIAL NO." = "Ebharati-6470"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQzMDc0ODg2NTkwMTI2&pageno=MjI0MjQyNjk5NTk="
 title = "कालविवेकः"
+author = "जीमूतवाहनः"
+publisher = "वङ्गीयाशियाटिक-सोसाइटी"
+"publish year" = "1905"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "644"
+language = "संस्कृतम्"
+editor = "प्रमथनाथ-तर्कभूषणः"
+printer = "शशिभूषण-कृतरत्न-भट्टाचार्यः"
+"serial no." = "Ebharati-6470"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQzMDc0ODg2NTkwMTI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कालविवेकः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQzMDc0ODg2NTkwMTI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -12381,19 +12380,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 ![](../books_images/U-IMG-1708755786Untitled24फेव्रुयारी-removebg-preview.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

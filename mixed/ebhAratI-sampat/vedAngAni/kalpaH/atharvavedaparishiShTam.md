@@ -1,12 +1,11 @@
 +++
-TITLE = "अथर्ववेदपरिशिष्टम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3499"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc1NDMyMjU4MDk4NTMz&pageno=MjI0MjQyNjk5NTk="
 title = "अथर्ववेदपरिशिष्टम्"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3499"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc1NDMyMjU4MDk4NTMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अथर्ववेदपरिशिष्टम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODc1NDMyMjU4MDk4NTMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3896,8 +3895,5 @@ title = "अथर्ववेदपरिशिष्टम्"
 \\Z  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

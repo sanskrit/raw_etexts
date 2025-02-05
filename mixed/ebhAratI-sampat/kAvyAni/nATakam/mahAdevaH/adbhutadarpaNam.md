@@ -1,17 +1,16 @@
 +++
-TITLE = "अद्भुतदर्पणम्"
-AUTHOR = "महादेवः"
-PUBLISHER = "तुकारामजावजी"
-"PUBLISH YEAR" = "1896"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "133"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शिवदत्तः  काशीनाथः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5381"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg3Mjc0MDg3NTU1NjE1&pageno=MjI0MjQyNjk5NTk="
 title = "अद्भुतदर्पणम्"
+author = "महादेवः"
+publisher = "तुकारामजावजी"
+"publish year" = "1896"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "133"
+language = "संस्कृतम्"
+editor = "शिवदत्तः  काशीनाथः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-5381"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg3Mjc0MDg3NTU1NjE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अद्भुतदर्पणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjg3Mjc0MDg3NTU1NjE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5113,8 +5112,5 @@ title = "अद्भुतदर्पणम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

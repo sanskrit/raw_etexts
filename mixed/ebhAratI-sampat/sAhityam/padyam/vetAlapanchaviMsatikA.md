@@ -1,11 +1,10 @@
 +++
-TITLE = "वेतालपञ्चविंसतिका"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-3011"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ2MjM5NTg2NDQwOTgy&pageno=MjI0MjQyNjk5NTk="
 title = "वेतालपञ्चविंसतिका"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-3011"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ2MjM5NTg2NDQwOTgy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वेतालपञ्चविंसतिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ2MjM5NTg2NDQwOTgy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -13345,19 +13344,6 @@ Kअन्या चानन्यसामान्यलावण्यन्
 
 संप्राप्याथ हराज्ञया सुमहतीं विद्याधराधीशतां भुक्त्वा तां सुचिरं जगाम भगवत्सायुज्यं अन्ते कृती । । १२,३२.४१ वेताल पञ्चविंशतिक२५) । ।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

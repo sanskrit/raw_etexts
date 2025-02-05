@@ -1,18 +1,17 @@
 +++
-TITLE = "कुवलयानन्दकारिकाः"
-PUBLISHER = "पाण्डुरङ्गजावजी"
-"PUBLISH YEAR" = "1927"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "118"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वासुदेवशर्मा"
-"PRIMARY COMMENTATOR" = "आशाधरभट्टः"
-"COMMENTARY NAME" = "अलङ्कारदीपिका"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5998"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUxNzQwMjY0NTg3NTc1&pageno=MjI0MjQyNjk5NTk="
 title = "कुवलयानन्दकारिकाः"
+publisher = "पाण्डुरङ्गजावजी"
+"publish year" = "1927"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "118"
+language = "संस्कृतम्"
+editor = "वासुदेवशर्मा"
+"primary commentator" = "आशाधरभट्टः"
+"commentary name" = "अलङ्कारदीपिका"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-5998"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUxNzQwMjY0NTg3NTc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कुवलयानन्दकारिकाः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjUxNzQwMjY0NTg3NTc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2685,8 +2684,5 @@ PUBLISHER:— Pandurang Jawaji,           ‘Nirnaya-Sagar’ Press,
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

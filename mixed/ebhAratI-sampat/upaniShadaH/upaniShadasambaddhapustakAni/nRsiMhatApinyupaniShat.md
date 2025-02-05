@@ -1,12 +1,11 @@
 +++
-TITLE = "नृसिंहतापिन्युपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4307"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU1MTExNjE4NTU0MzE0"
 title = "नृसिंहतापिन्युपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4307"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU1MTExNjE4NTU0MzE0"
 
 +++
 [[नृसिंहतापिन्युपनिषत्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDU1MTExNjE4NTU0MzE0)]]

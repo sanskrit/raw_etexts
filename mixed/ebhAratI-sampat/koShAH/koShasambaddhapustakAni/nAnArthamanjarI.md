@@ -1,12 +1,11 @@
 +++
-TITLE = "नानार्थमञ्जरी"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "कोषसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3082"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2NDQxOTE0MDY4NTky&pageno=MjI0MjQyNjk5NTk="
 title = "नानार्थमञ्जरी"
+domain = "कोषाः"
+sub-domain = "कोषसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3082"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2NDQxOTE0MDY4NTky&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नानार्थमञ्जरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDA2NDQxOTE0MDY4NTky&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2812,8 +2811,5 @@ title = "नानार्थमञ्जरी"
 ----------------  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

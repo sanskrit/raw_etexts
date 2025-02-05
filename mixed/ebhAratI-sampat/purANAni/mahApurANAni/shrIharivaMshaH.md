@@ -1,15 +1,14 @@
 +++
-TITLE = "श्रीहरिवंशः"
-PUBLISHER = "गङ्गाविष्णुः"
-"PUBLISH YEAR" = "1896"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "311"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "लक्ष्मी-वेंकटेश्वर-प्रेस्"
-"SERIAL NO." = "Ebharati-6807"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU1NjYxMjI0NjQ0MzU2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीहरिवंशः"
+publisher = "गङ्गाविष्णुः"
+"publish year" = "1896"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "311"
+language = "संस्कृतम्"
+printer = "लक्ष्मी-वेंकटेश्वर-प्रेस्"
+"serial no." = "Ebharati-6807"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU1NjYxMjI0NjQ0MzU2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीहरिवंशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDU1NjYxMjI0NjQ0MzU2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2673,8 +2672,5 @@ title = "श्रीहरिवंशः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

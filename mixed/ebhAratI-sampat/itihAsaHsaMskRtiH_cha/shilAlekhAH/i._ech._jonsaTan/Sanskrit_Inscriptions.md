@@ -1,13 +1,12 @@
 +++
-TITLE = "Sanskrit Inscriptions"
-AUTHOR = "इ. एच्. जोन्सटन्"
-DOMAIN = "इतिहासःसंस्कृतिः च"
-SUB-DOMAIN = "शिलालेखाः"
-PAGES = "35"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-"SERIAL NO." = "Ebharati-7589"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1MDQ3Mzg0NTE1ODI3&pageno=MjI0MjQyNjk5NTk="
 title = "Sanskrit Inscriptions"
+author = "इ. एच्. जोन्सटन्"
+domain = "इतिहासःसंस्कृतिः च"
+sub-domain = "शिलालेखाः"
+pages = "35"
+language = "संस्कृतम् आङ्ग्लम्"
+"serial no." = "Ebharati-7589"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1MDQ3Mzg0NTE1ODI3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[Sanskrit Inscriptions	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODU1MDQ3Mzg0NTE1ODI3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -431,19 +430,6 @@ No. 5. Deva. Earliest coin with the bull on obverse.
   \[No. 22. Nīti Candra. See ab[ove.\]](# "[This coin was presented to the Phayre Museum by Maung Kyaw.]") 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

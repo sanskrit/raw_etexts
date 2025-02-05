@@ -1,19 +1,18 @@
 +++
-TITLE = "गीतगोविन्दकाव्यम्"
-AUTHOR = "जयदेवः"
-PUBLISHER = "सत्यभामबाई-पाण्डुरङ्गः"
-"PUBLISH YEAR" = "1949"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "237"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "नारायणराम-आचार्यः"
-"PRIMARY COMMENTATOR" = "कुम्भः शङ्करामिश्रः"
-"COMMENTARY NAME" = "दीपिका-रसमञ्जरी-रसिकाप्रिया-पदद्योतनिका-बालबोधिनी-सञ्जीविनी"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7155"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0OTI1NDExMzU4Njg2&pageno=MjI0MjQyNjk5NTk="
 title = "गीतगोविन्दकाव्यम्"
+author = "जयदेवः"
+publisher = "सत्यभामबाई-पाण्डुरङ्गः"
+"publish year" = "1949"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "237"
+language = "संस्कृतम्"
+editor = "नारायणराम-आचार्यः"
+"primary commentator" = "कुम्भः शङ्करामिश्रः"
+"commentary name" = "दीपिका-रसमञ्जरी-रसिकाप्रिया-पदद्योतनिका-बालबोधिनी-सञ्जीविनी"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-7155"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0OTI1NDExMzU4Njg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गीतगोविन्दकाव्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE0OTI1NDExMzU4Njg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4704,19 +4703,6 @@ Bonnensis P. E. BONNAE AD RHENUM 1836
 | १२     | २३       | विभास           | आदि      | विभास         | आदि      | विभास         | आदि      |
 |       | २४       | रामकरी          | यति      | रामकरी        | यति      | रामकरी        | यति      |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

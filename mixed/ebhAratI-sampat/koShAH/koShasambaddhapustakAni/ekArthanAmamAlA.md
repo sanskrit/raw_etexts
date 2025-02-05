@@ -1,12 +1,11 @@
 +++
-TITLE = "एकार्थनाममाला"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "कोषसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3121"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwOTk1MjcyNDA2OTky&pageno=MjI0MjQyNjk5NTk="
 title = "एकार्थनाममाला"
+domain = "कोषाः"
+sub-domain = "कोषसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3121"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwOTk1MjcyNDA2OTky&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[एकार्थनाममाला	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjYwOTk1MjcyNDA2OTky&pageno=MjI0MjQyNjk5NTk=)]]
@@ -926,8 +925,5 @@ This is prepared an d compiled by
 
 Dr.P .Srinivas , Lecturer in Vyakarana , S.V.V.V.S.College , Bowenpally, Secunderabad, A.P.500011
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

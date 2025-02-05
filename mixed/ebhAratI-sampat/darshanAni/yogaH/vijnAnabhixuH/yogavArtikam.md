@@ -1,17 +1,16 @@
 +++
-TITLE = "योगवार्तिकम्"
-AUTHOR = "विज्ञानभिक्षुः"
-PUBLISHER = "श्रीलाजरसः"
-"PUBLISH YEAR" = "१८८४"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-PAGES = "322"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रामकृष्णतात्यापटवर्धनशास्त्री"
-PRINTER = "Medical Hall"
-"SERIAL NO." = "Ebharati-1673"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwMjc1MzE3MTA2MDYx&pageno=MjI0MjQyNjk5NTk="
 title = "योगवार्तिकम्"
+author = "विज्ञानभिक्षुः"
+publisher = "श्रीलाजरसः"
+"publish year" = "१८८४"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+pages = "322"
+language = "संस्कृतम्"
+editor = "रामकृष्णतात्यापटवर्धनशास्त्री"
+printer = "Medical Hall"
+"serial no." = "Ebharati-1673"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwMjc1MzE3MTA2MDYx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[योगवार्तिकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjAwMjc1MzE3MTA2MDYx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3975,8 +3974,5 @@ title = "योगवार्तिकम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीवासिष्ठधर्मशास्त्रम्"
-AUTHOR = "वसिष्ठः"
-PUBLISHER = "B. O. R. I.  institute poona"
-"PUBLISH YEAR" = "१९३०"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "धर्मसूत्राणि"
-PAGES = "99"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "Alois Anton Führer poona"
-"SERIAL NO." = "Ebharati-4629"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM0MTcxNjA2NjYzNDQ0&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीवासिष्ठधर्मशास्त्रम्"
+author = "वसिष्ठः"
+publisher = "B. O. R. I.  institute poona"
+"publish year" = "१९३०"
+domain = "धर्मशास्त्रम्"
+sub-domain = "धर्मसूत्राणि"
+pages = "99"
+language = "संस्कृतम्"
+editor = "Alois Anton Führer poona"
+"serial no." = "Ebharati-4629"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM0MTcxNjA2NjYzNDQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीवासिष्ठधर्मशास्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODM0MTcxNjA2NjYzNDQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4227,19 +4226,6 @@ B. Quotations which go by the name of Vasishtha, bu' are not found in our MSS
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,12 +1,11 @@
 +++
-TITLE = "वज्रविदारणा"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3838"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM2NTE0ODc1MzM0ODYz&pageno=MjI0MjQyNjk5NTk="
 title = "वज्रविदारणा"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3838"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM2NTE0ODc1MzM0ODYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वज्रविदारणा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM2NTE0ODc1MzM0ODYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -78,8 +77,5 @@ title = "वज्रविदारणा"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

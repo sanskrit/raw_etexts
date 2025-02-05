@@ -1,12 +1,11 @@
 +++
-TITLE = "प्रज्ञापारमिताहृदयसूत्रम् विस्तरमातृका"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3876"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2NzI2NTM0MTgwMjcz&pageno=MjI0MjQyNjk5NTk="
 title = "प्रज्ञापारमिताहृदयसूत्रम् विस्तरमातृका"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3876"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2NzI2NTM0MTgwMjcz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रज्ञापारमिताहृदयसूत्रम् विस्तरमातृका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2NzI2NTM0MTgwMjcz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -70,8 +69,5 @@ idamavocadbhagavān\। ānandamanā āyuṣmān śāriputraḥ āryāvalokiteś
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,13 +1,12 @@
 +++
-TITLE = "काठकोपनिषत् मूलम् भाष्यम् च"
-AUTHOR = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3248"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjU2NjgzNTk3NTk3MTEz"
 title = "काठकोपनिषत् मूलम् भाष्यम् च"
+author = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3248"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjU2NjgzNTk3NTk3MTEz"
 
 +++
 [[काठकोपनिषत् मूलम् भाष्यम् च	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjU2NjgzNTk3NTk3MTEz)]]

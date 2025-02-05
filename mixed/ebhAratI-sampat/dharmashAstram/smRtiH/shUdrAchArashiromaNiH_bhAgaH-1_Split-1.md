@@ -1,17 +1,16 @@
 +++
-TITLE = "शूद्राचारशिरोमणिः भागः-1 Split-1"
-PUBLISHER = "विद्या-विलास-प्रेस बनारस."
-"PUBLISH YEAR" = "1933"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "45"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गोपिनाथः कविराजः"
-"SECOND EDITOR" = "नारायणः खिष्टे"
-PRINTER = "जयकृष्णदासः गुप्तः"
-"SERIAL NO." = "Ebharati-5121"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwMzQ0NzU3Njk1MTk0&pageno=MjI0MjQyNjk5NTk="
 title = "शूद्राचारशिरोमणिः भागः-1 Split-1"
+publisher = "विद्या-विलास-प्रेस बनारस."
+"publish year" = "1933"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "45"
+language = "संस्कृतम्"
+editor = "गोपिनाथः कविराजः"
+"second editor" = "नारायणः खिष्टे"
+printer = "जयकृष्णदासः गुप्तः"
+"serial no." = "Ebharati-5121"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwMzQ0NzU3Njk1MTk0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शूद्राचारशिरोमणिः भागः-1 Split-1	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjYwMzQ0NzU3Njk1MTk0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5565,8 +5564,5 @@ Saraswati Bhawana Library, Benares
 
 ----------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,12 +1,11 @@
 +++
-TITLE = "प्रमेयरत्नावली"
-AUTHOR = "श्रीमद्बलदेवविद्याभूषणः"
-DOMAIN = "भक्तिसम्प्रदायः"
-SUB-DOMAIN = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2680"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY5MDk2OTI5OTYyNzUy"
 title = "प्रमेयरत्नावली"
+author = "श्रीमद्बलदेवविद्याभूषणः"
+domain = "भक्तिसम्प्रदायः"
+sub-domain = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2680"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY5MDk2OTI5OTYyNzUy"
 
 +++
 [[प्रमेयरत्नावली	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDY5MDk2OTI5OTYyNzUy)]]

@@ -1,13 +1,12 @@
 +++
-TITLE = "वृत्तरत्नाकरः"
-AUTHOR = "नारायणभट्टः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "छन्दांसि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3910"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDIwMDc4NzAzNTQzNTcz"
 title = "वृत्तरत्नाकरः"
+author = "नारायणभट्टः"
+domain = "वेदाङ्गानि"
+sub-domain = "छन्दांसि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3910"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDIwMDc4NzAzNTQzNTcz"
 
 +++
 [[वृत्तरत्नाकरः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDIwMDc4NzAzNTQzNTcz)]]

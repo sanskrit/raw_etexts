@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीश्रीराधाकृष्णाष्टकालीयलीलास्मरणक्रमपद्धतिः"
-AUTHOR = "श्रीध्यानचन्द्रगोस्वामी"
-DOMAIN = "भक्तिसम्प्रदायः"
-SUB-DOMAIN = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2684"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODQ2MDY2NDE5MzU2NzUy"
 title = "श्रीश्रीराधाकृष्णाष्टकालीयलीलास्मरणक्रमपद्धतिः"
+author = "श्रीध्यानचन्द्रगोस्वामी"
+domain = "भक्तिसम्प्रदायः"
+sub-domain = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2684"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODQ2MDY2NDE5MzU2NzUy"
 
 +++
 [[श्रीश्रीराधाकृष्णाष्टकालीयलीलास्मरणक्रमपद्धतिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODQ2MDY2NDE5MzU2NzUy)]]

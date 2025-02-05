@@ -1,16 +1,15 @@
 +++
-TITLE = "अप्रकाशिता-उपनिषदः"
-PUBLISHER = "अडयार्-पुस्तकालयः"
-"PUBLISH YEAR" = "1933"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "अन्याः उपनिषदः"
-PAGES = "538"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "सी.कुन्हनराजः"
-PRINTER = "अ.के.सीताराम-शास्त्री"
-"SERIAL NO." = "Ebharati-7242"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIxMDI2Nzg3NDAyNTk2&pageno=MjI0MjQyNjk5NTk="
 title = "अप्रकाशिता-उपनिषदः"
+publisher = "अडयार्-पुस्तकालयः"
+"publish year" = "1933"
+domain = "उपनिषदः"
+sub-domain = "अन्याः उपनिषदः"
+pages = "538"
+language = "संस्कृतम्"
+editor = "सी.कुन्हनराजः"
+printer = "अ.के.सीताराम-शास्त्री"
+"serial no." = "Ebharati-7242"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIxMDI2Nzg3NDAyNTk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अप्रकाशिता-उपनिषदः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDIxMDI2Nzg3NDAyNTk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10057,8 +10056,5 @@ are included in this edition are so very corrupt in the form in which it is pres
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

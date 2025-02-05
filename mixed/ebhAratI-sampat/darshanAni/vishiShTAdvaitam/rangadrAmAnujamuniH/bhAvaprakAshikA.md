@@ -1,13 +1,12 @@
 +++
-TITLE = "भावप्रकाशिका"
-AUTHOR = "रङ्गद्रामानुजमुनिH"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "विशिष्टाद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4201"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjI4NDE0NDEyMDgyMzA0"
 title = "भावप्रकाशिका"
+author = "रङ्गद्रामानुजमुनिH"
+domain = "दर्शनानि"
+sub-domain = "विशिष्टाद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4201"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjI4NDE0NDEyMDgyMzA0"
 
 +++
 [[भावप्रकाशिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjI4NDE0NDEyMDgyMzA0)]]

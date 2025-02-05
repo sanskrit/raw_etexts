@@ -1,18 +1,17 @@
 +++
-TITLE = "पञ्चतन्त्रकम्"
-AUTHOR = "विष्णुशर्मा"
-PUBLISHER = "जयकृष्णदासहरिदासगुप्तः"
-"PUBLISH YEAR" = "1952"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "228"
-LANGUAGE = "संस्कॄतम्"
-"PRIMARY COMMENTATOR" = "भानुदत्तशास्त्री"
-"COMMENTARY NAME" = "बोधिनी"
-PRINTER = "."
-"SERIAL NO." = "Ebharati-7955"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEwNzY0ODAxMDU2MzY3&pageno=MjI0MjQyNjk5NTk="
 title = "पञ्चतन्त्रकम्"
+author = "विष्णुशर्मा"
+publisher = "जयकृष्णदासहरिदासगुप्तः"
+"publish year" = "1952"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "228"
+language = "संस्कॄतम्"
+"primary commentator" = "भानुदत्तशास्त्री"
+"commentary name" = "बोधिनी"
+printer = "."
+"serial no." = "Ebharati-7955"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEwNzY0ODAxMDU2MzY3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पञ्चतन्त्रकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDEwNzY0ODAxMDU2MzY3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5262,19 +5261,6 @@ title = "पञ्चतन्त्रकम्"
 
  प्राप्तिस्थानम्—चौखम्बा संस्कृत पुस्तकालय, बनारस–१
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

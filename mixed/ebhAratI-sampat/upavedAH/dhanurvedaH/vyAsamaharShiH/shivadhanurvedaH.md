@@ -1,14 +1,13 @@
 +++
-TITLE = "शिवधनुर्वेदः"
-AUTHOR = "व्यासमहर्षिः"
-PUBLISHER = "महर्षि-विश्वविद्यालयः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "धनुर्वेदः"
-PAGES = "19"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4705"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE1NTk1MDIzMjY2MTU0&pageno=MjI0MjQyNjk5NTk="
 title = "शिवधनुर्वेदः"
+author = "व्यासमहर्षिः"
+publisher = "महर्षि-विश्वविद्यालयः"
+domain = "उपवेदाः"
+sub-domain = "धनुर्वेदः"
+pages = "19"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4705"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE1NTk1MDIzMjY2MTU0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शिवधनुर्वेदः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE1NTk1MDIzMjY2MTU0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -988,19 +987,6 @@ title = "शिवधनुर्वेदः"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

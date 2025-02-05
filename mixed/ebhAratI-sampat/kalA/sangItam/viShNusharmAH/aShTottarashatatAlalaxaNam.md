@@ -1,14 +1,13 @@
 +++
-TITLE = "अष्टोत्तरशतताललक्षणम्"
-AUTHOR = "विष्णुशर्माः"
-"PUBLISH YEAR" = "१९११"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "18"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4565"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM0NjU2NjQ4MjIyODM0&pageno=MjI0MjQyNjk5NTk="
 title = "अष्टोत्तरशतताललक्षणम्"
+author = "विष्णुशर्माः"
+"publish year" = "१९११"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "18"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4565"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM0NjU2NjQ4MjIyODM0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अष्टोत्तरशतताललक्षणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDM0NjU2NjQ4MjIyODM0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -504,19 +503,6 @@ title = "अष्टोत्तरशतताललक्षणम्"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,12 +1,11 @@
 +++
-TITLE = "दैवज्ञवल्लभा"
-AUTHOR = "वराहमिहिरा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2715"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDM3NTcxODk3OTI2MDYy"
 title = "दैवज्ञवल्लभा"
+author = "वराहमिहिरा"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2715"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDM3NTcxODk3OTI2MDYy"
 
 +++
 [[दैवज्ञवल्लभा	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDM3NTcxODk3OTI2MDYy)]]

@@ -1,17 +1,16 @@
 +++
-TITLE = "कृत्यकल्पतरु-दानकाण्डम् (पञ्चमो भागः)"
-AUTHOR = "श्रीलक्ष्मीधरभट्टः"
-PUBLISHER = "बेनोयतोष-भट्टाचार्यः"
-"PUBLISH YEAR" = "1942"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "576"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रङ्गस्वामि-अय्यङ्गारः"
-PRINTER = "सी. सुब्बरायुडु-जयकृष्णदासगुप्तः"
-"SERIAL NO." = "Ebharati-6437"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE0MDc0MjE4NzI5NzE2&pageno=MjI0MjQyNjk5NTk="
 title = "कृत्यकल्पतरु-दानकाण्डम् (पञ्चमो भागः)"
+author = "श्रीलक्ष्मीधरभट्टः"
+publisher = "बेनोयतोष-भट्टाचार्यः"
+"publish year" = "1942"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "576"
+language = "संस्कृतम्"
+editor = "रङ्गस्वामि-अय्यङ्गारः"
+printer = "सी. सुब्बरायुडु-जयकृष्णदासगुप्तः"
+"serial no." = "Ebharati-6437"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE0MDc0MjE4NzI5NzE2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कृत्यकल्पतरु-दानकाण्डम् (पञ्चमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDE0MDc0MjE4NzI5NzE2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -16310,8 +16309,5 @@ These studies are a valuable addition to Western learning and reflect great cred
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

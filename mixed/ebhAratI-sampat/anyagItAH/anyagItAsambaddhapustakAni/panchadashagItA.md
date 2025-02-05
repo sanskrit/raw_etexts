@@ -1,15 +1,14 @@
 +++
-TITLE = "पञ्चदशगीता"
-PUBLISHER = "खेमराजश्रीकृष्णदासः"
-"PUBLISH YEAR" = "1896"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-PAGES = "143"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "श्रीवेङ्कटेश्वर-स्टीम्-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6676"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyOTA0NDE5MDc4MDQ2&pageno=MjI0MjQyNjk5NTk="
 title = "पञ्चदशगीता"
+publisher = "खेमराजश्रीकृष्णदासः"
+"publish year" = "1896"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+pages = "143"
+language = "संस्कृतम् हिन्दी"
+printer = "श्रीवेङ्कटेश्वर-स्टीम्-मुद्रणालयः"
+"serial no." = "Ebharati-6676"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyOTA0NDE5MDc4MDQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पञ्चदशगीता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjcyOTA0NDE5MDc4MDQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3255,8 +3254,5 @@ title = "पञ्चदशगीता"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

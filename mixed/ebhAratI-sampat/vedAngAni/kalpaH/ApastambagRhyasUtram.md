@@ -1,11 +1,10 @@
 +++
-TITLE = "आपस्तम्बगृह्यसूत्रम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3042"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDI3NzQ0OTY1MDIwMjky"
 title = "आपस्तम्बगृह्यसूत्रम्"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3042"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDI3NzQ0OTY1MDIwMjky"
 
 +++
 [[आपस्तम्बगृह्यसूत्रम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDI3NzQ0OTY1MDIwMjky)]]

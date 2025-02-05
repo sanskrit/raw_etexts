@@ -1,12 +1,11 @@
 +++
-TITLE = "काशीपञ्जकम्"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2547"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM4ODQ0OTI0MjA1NDQy&pageno=MjI0MjQyNjk5NTk="
 title = "काशीपञ्जकम्"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2547"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM4ODQ0OTI0MjA1NDQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काशीपञ्जकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDM4ODQ0OTI0MjA1NDQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -85,8 +84,5 @@ title = "काशीपञ्जकम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

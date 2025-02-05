@@ -1,12 +1,11 @@
 +++
-TITLE = "भावप्रकाशसंहिता"
-AUTHOR = "भावमिश्रः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2530"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY2NzIzMzk0MDc4MjQy"
 title = "भावप्रकाशसंहिता"
+author = "भावमिश्रः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2530"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY2NzIzMzk0MDc4MjQy"
 
 +++
 [[भावप्रकाशसंहिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDY2NzIzMzk0MDc4MjQy)]]

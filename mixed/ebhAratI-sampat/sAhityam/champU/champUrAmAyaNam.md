@@ -1,11 +1,10 @@
 +++
-TITLE = "चम्पूरामायणम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "चम्पू"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2755"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE2Mjc4NzQ2OTY0NDYy"
 title = "चम्पूरामायणम्"
+domain = "साहित्यम्"
+sub-domain = "चम्पू"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2755"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE2Mjc4NzQ2OTY0NDYy"
 
 +++
 [[चम्पूरामायणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDE2Mjc4NzQ2OTY0NDYy)]]

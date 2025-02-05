@@ -1,19 +1,18 @@
 +++
-TITLE = "विश्वगुणादर्शचम्पूः"
-AUTHOR = "वेङ्कटाध्वरिः"
-PUBLISHER = "तुकारामजावजी"
-"PUBLISH YEAR" = "1906"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "चम्पू"
-PAGES = "340"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "महादेवशर्मा"
-"PRIMARY COMMENTATOR" = "बालकृष्णशास्त्रियोगी"
-"COMMENTARY NAME" = "पदार्थचन्द्रिका"
-PRINTER = "निर्णयसागरमुद्रणालयम्"
-"SERIAL NO." = "Ebharati-5290"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgzMjE0MjIxMDI4NzA1&pageno=MjI0MjQyNjk5NTk="
 title = "विश्वगुणादर्शचम्पूः"
+author = "वेङ्कटाध्वरिः"
+publisher = "तुकारामजावजी"
+"publish year" = "1906"
+domain = "काव्यानि"
+sub-domain = "चम्पू"
+pages = "340"
+language = "संस्कृतम्"
+editor = "महादेवशर्मा"
+"primary commentator" = "बालकृष्णशास्त्रियोगी"
+"commentary name" = "पदार्थचन्द्रिका"
+printer = "निर्णयसागरमुद्रणालयम्"
+"serial no." = "Ebharati-5290"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgzMjE0MjIxMDI4NzA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विश्वगुणादर्शचम्पूः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDgzMjE0MjIxMDI4NzA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8316,19 +8315,6 @@ title = "विश्वगुणादर्शचम्पूः"
 | सोय यद्यपि हृद्य एव             | हेतुः किंच विशिष्टधी           |
 | सोय हेयप्रत्यनीकोपि             |                               |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

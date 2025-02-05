@@ -1,12 +1,11 @@
 +++
-TITLE = "सारसमुच्चयः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "मिश्रितम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4117"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDczMTUwMDM1NjEyNTkz&pageno=MjI0MjQyNjk5NTk="
 title = "सारसमुच्चयः"
+domain = "सुभाषितानि"
+sub-domain = "मिश्रितम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4117"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDczMTUwMDM1NjEyNTkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सारसमुच्चयः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDczMTUwMDM1NjEyNTkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2689,8 +2688,5 @@ V
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

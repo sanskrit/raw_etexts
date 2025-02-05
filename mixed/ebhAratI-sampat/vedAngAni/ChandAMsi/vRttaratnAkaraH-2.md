@@ -1,12 +1,11 @@
 +++
-TITLE = "वृत्तरत्नाकरः-२"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "छन्दांसि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3504"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg2NjQ0MzM4MDczNjMz&pageno=MjI0MjQyNjk5NTk="
 title = "वृत्तरत्नाकरः-२"
+domain = "वेदाङ्गानि"
+sub-domain = "छन्दांसि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3504"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg2NjQ0MzM4MDczNjMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वृत्तरत्नाकरः-२	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODg2NjQ0MzM4MDczNjMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -469,19 +468,6 @@ title = "वृत्तरत्नाकरः-२"
 
 ----------------------------------------------  
 \\Z  
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

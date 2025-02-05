@@ -1,13 +1,12 @@
 +++
-TITLE = "सन्तानान्तरसिद्धिः"
-AUTHOR = "धर्मकीर्तिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3788"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1NDkyNjY3MzM2MzYz&pageno=MjI0MjQyNjk5NTk="
 title = "सन्तानान्तरसिद्धिः"
+author = "धर्मकीर्तिः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3788"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1NDkyNjY3MzM2MzYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सन्तानान्तरसिद्धिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM1NDkyNjY3MzM2MzYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -71,8 +70,5 @@ title = "सन्तानान्तरसिद्धिः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

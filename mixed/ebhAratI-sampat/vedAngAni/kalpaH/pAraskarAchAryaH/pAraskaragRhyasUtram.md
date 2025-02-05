@@ -1,17 +1,16 @@
 +++
-TITLE = "पारस्करगृह्यसूत्रम्"
-AUTHOR = "पारस्कराचार्यः"
-PUBLISHER = "जयकृष्णदासहरिदासः"
-"PUBLISH YEAR" = "1920"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "82"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मुकुन्द-पन्तः"
-PRINTER = "जयकृष्णदास-हरिदासगुप्तः"
-"SERIAL NO." = "Ebharati-7431"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg4NzM0NzcwODQzMzE3&pageno=MjI0MjQyNjk5NTk="
 title = "पारस्करगृह्यसूत्रम्"
+author = "पारस्कराचार्यः"
+publisher = "जयकृष्णदासहरिदासः"
+"publish year" = "1920"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "82"
+language = "संस्कृतम्"
+editor = "मुकुन्द-पन्तः"
+printer = "जयकृष्णदास-हरिदासगुप्तः"
+"serial no." = "Ebharati-7431"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg4NzM0NzcwODQzMzE3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पारस्करगृह्यसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjg4NzM0NzcwODQzMzE3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -342,19 +341,6 @@ title = "पारस्करगृह्यसूत्रम्"
 **इति श्रीकात्यायनोक्तभोजनसूत्रं समाप्तम्।**
 
 **![](../books_images/U-IMG-1702705262321-removebg-preview.png)**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

@@ -1,13 +1,12 @@
 +++
-TITLE = "स्मृति-सन्दर्भः (प्रथमो भागः)"
-"PUBLISH YEAR" = "1952"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "713"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8865"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMwMTcwOTg2NjAwMTU4&pageno=MjI0MjQyNjk5NTk="
 title = "स्मृति-सन्दर्भः (प्रथमो भागः)"
+"publish year" = "1952"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "713"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8865"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMwMTcwOTg2NjAwMTU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्मृति-सन्दर्भः (प्रथमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDMwMTcwOTg2NjAwMTU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -21403,8 +21402,5 @@ LADURAM TRIVEDI,
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,14 +1,13 @@
 +++
-TITLE = "शाब्दबोधप्रक्रिया"
-AUTHOR = "डा. एन् आर् कुमारः"
-"PUBLISH YEAR" = "१९८७"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2616"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU5NTcxMDcxNjIxMTUy&pageno=MjI0MjQyNjk5NTk="
 title = "शाब्दबोधप्रक्रिया"
+author = "डा. एन् आर् कुमारः"
+"publish year" = "१९८७"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2616"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU5NTcxMDcxNjIxMTUy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शाब्दबोधप्रक्रिया	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjU5NTcxMDcxNjIxMTUy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -197,19 +196,6 @@ title = "शाब्दबोधप्रक्रिया"
  (12) नेयायिकमते अनुभवानुसारेण तस्यतस्य पदार्थस्नय योग्येन स्वसमोपवर्तिपदार्थे साक्षात्संबन्धेन तत्रतत्रान्वयेबाधकं प्रदर्श्य, भावनामुख्यविशेष्यकत्वस्यापि स्थापितत्वात, सर्वत्रैव भावनामुख्यविशेष्यकशाब्दबोधः संप्रतिपन्नः। इत्यं च उपदर्शितयुक्तिभि भावनामुख्यविशेष्यको बोधो निराबाध इति सर्वमनवद्यम्।  
   
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

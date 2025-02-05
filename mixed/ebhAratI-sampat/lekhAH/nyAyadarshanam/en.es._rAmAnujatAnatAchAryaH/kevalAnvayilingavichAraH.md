@@ -1,12 +1,11 @@
 +++
-TITLE = "केवलान्वयिलिङ्गविचारः"
-AUTHOR = "एन्.एस्. रामानुजतानताचार्यः"
-DOMAIN = "लेखाः"
-SUB-DOMAIN = "न्यायदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-3686"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0NzY1OTQxMjQ4MzUz&pageno=MjI0MjQyNjk5NTk="
 title = "केवलान्वयिलिङ्गविचारः"
+author = "एन्.एस्. रामानुजतानताचार्यः"
+domain = "लेखाः"
+sub-domain = "न्यायदर्शनम्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-3686"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0NzY1OTQxMjQ4MzUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[केवलान्वयिलिङ्गविचारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0NzY1OTQxMjQ4MzUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -86,8 +85,5 @@ title = "केवलान्वयिलिङ्गविचारः"
  अवच्छेदकभेदेऽप्याधेयतायाः अभेदे तु हेतुतावच्छेदकनिष्ठं यत् साध्यवन्निरूपितवृत्तितावच्छेदकत्वं तदन्या या वृत्तितावच्छेदकता तच्छन्यहेतुतावच्छेदकवच्छं व्याप्तिः। घटत्वनिष्ठात् वृत्तितावच्छेदकत्वात् प्रमेयत्वनिष्ठं वृत्तितावच्छेदकत्वमन्यदेवेति नोक्तस्थलेऽव्यमाप्तिरिति गदाधरभट्टाचार्यप्रदर्शिति पूर्वपक्षव्याप्तेर्निर्दोषत्वसमर्भिका नूतना सरणिः।  
   -------------\*\*\*\*\*\*\*\*-------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

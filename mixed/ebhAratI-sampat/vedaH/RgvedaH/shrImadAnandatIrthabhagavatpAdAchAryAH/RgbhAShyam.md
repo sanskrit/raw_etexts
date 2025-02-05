@@ -1,13 +1,12 @@
 +++
-TITLE = "ऋग्भाष्यम्"
-AUTHOR = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
-DOMAIN = "वेदः"
-SUB-DOMAIN = "ऋग्वेदः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3577"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk0MzQxOTU1ODczMzQz"
 title = "ऋग्भाष्यम्"
+author = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
+domain = "वेदः"
+sub-domain = "ऋग्वेदः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3577"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk0MzQxOTU1ODczMzQz"
 
 +++
 [[ऋग्भाष्यम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDk0MzQxOTU1ODczMzQz)]]

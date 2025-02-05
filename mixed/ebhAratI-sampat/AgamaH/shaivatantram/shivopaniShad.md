@@ -1,12 +1,11 @@
 +++
-TITLE = "शिवोपनिषद्"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4002"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ4MjcxMjY5NjcxNDgz&pageno=MjI0MjQyNjk5NTk="
 title = "शिवोपनिषद्"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4002"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ4MjcxMjY5NjcxNDgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शिवोपनिषद्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQ4MjcxMjY5NjcxNDgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1314,8 +1313,5 @@ title = "शिवोपनिषद्"
 ॥ इति शिवोपनिषत्समाप्ता ॥  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

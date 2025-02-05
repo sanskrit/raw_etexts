@@ -1,15 +1,14 @@
 +++
-TITLE = "धात्वर्थविज्ञानम्"
-AUTHOR = "डा. भागीरथप्रसादत्रिपाठी ‘वागीशः शास्त्री’"
-PUBLISHER = "सम्पूर्णानन्दसंस्कृतविश्वविद्यालयः"
-"PUBLISH YEAR" = "१९८०"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "तारा-प्रिन्टिन्ग्-वर्क्स्"
-"SERIAL NO." = "Ebharati-640"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgwMDUxNTk1NzM0MTY=&pageno=MjI0MjQyNjk5NTk="
 title = "धात्वर्थविज्ञानम्"
+author = "डा. भागीरथप्रसादत्रिपाठी ‘वागीशः शास्त्री’"
+publisher = "सम्पूर्णानन्दसंस्कृतविश्वविद्यालयः"
+"publish year" = "१९८०"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+printer = "तारा-प्रिन्टिन्ग्-वर्क्स्"
+"serial no." = "Ebharati-640"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgwMDUxNTk1NzM0MTY=&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[धात्वर्थविज्ञानम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDgwMDUxNTk1NzM0MTY=&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7401,19 +7400,6 @@ V (डुकुन्) ८/९ करणे (७०)          शास्त्
 
 प्रकाशक-निदेशकः, अनुसन्धान संस्थानम् , सम्पूर्णानन्दसस्कृतविश्वविद्यालयः, वाराणसी-२२१००२
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

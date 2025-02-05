@@ -1,15 +1,14 @@
 +++
-TITLE = "अलङ्कारसूत्रम्"
-AUTHOR = "चन्द्रकान्त तर्कालङ्कार भट्टाचार्यः"
-"PUBLISH YEAR" = "1899"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "293"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "उपेन्द्रनाथ चक्रवर्ती"
-"SERIAL NO." = "Ebharati-5905"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE5MTA1MTE4NzU4NjY1&pageno=MjI0MjQyNjk5NTk="
 title = "अलङ्कारसूत्रम्"
+author = "चन्द्रकान्त तर्कालङ्कार भट्टाचार्यः"
+"publish year" = "1899"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "293"
+language = "संस्कृतम्"
+printer = "उपेन्द्रनाथ चक्रवर्ती"
+"serial no." = "Ebharati-5905"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE5MTA1MTE4NzU4NjY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अलङ्कारसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE5MTA1MTE4NzU4NjY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7896,8 +7895,5 @@ CALCUTTA
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

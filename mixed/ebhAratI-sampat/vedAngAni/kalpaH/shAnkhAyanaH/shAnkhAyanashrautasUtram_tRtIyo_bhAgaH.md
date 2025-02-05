@@ -1,18 +1,17 @@
 +++
-TITLE = "शाङ्खायनश्रौतसूत्रम् (तृतीयो भागः)"
-AUTHOR = "शाङ्खायनः"
-PUBLISHER = "एशियाटिक-सोसैटि-आफ्-बेङ्गाल्"
-"PUBLISH YEAR" = "1893"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "104"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "अल्फ्रेड-हिलेब्राण्ड्ट्"
-"PRIMARY COMMENTATOR" = "वरदत्तसुता-अनार्तिया"
-PRINTER = "बैप्टिस्टमिशन-प्रेस्"
-"SERIAL NO." = "Ebharati-7464"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA4NzM0MzU5NTE1NjE3&pageno=MjI0MjQyNjk5NTk="
 title = "शाङ्खायनश्रौतसूत्रम् (तृतीयो भागः)"
+author = "शाङ्खायनः"
+publisher = "एशियाटिक-सोसैटि-आफ्-बेङ्गाल्"
+"publish year" = "1893"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "104"
+language = "संस्कृतम्"
+editor = "अल्फ्रेड-हिलेब्राण्ड्ट्"
+"primary commentator" = "वरदत्तसुता-अनार्तिया"
+printer = "बैप्टिस्टमिशन-प्रेस्"
+"serial no." = "Ebharati-7464"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA4NzM0MzU5NTE1NjE3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शाङ्खायनश्रौतसूत्रम् (तृतीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODA4NzM0MzU5NTE1NjE3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1869,19 +1868,6 @@ title = "शाङ्खायनश्रौतसूत्रम् (तृत
 **इति शाङ्खायनश्रौतसूत्रभाष्ये दशमोऽध्यायः समाप्तः।**
 
 **————**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

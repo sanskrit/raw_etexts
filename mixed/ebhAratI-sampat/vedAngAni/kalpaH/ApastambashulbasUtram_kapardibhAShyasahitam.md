@@ -1,12 +1,11 @@
 +++
-TITLE = "आपस्तम्बशुल्बसूत्रम् (कपर्दिभाष्यसहितम्)"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "159"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-1964"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA4NjExMDI2NjM1ODgx&pageno=MjI0MjQyNjk5NTk="
 title = "आपस्तम्बशुल्बसूत्रम् (कपर्दिभाष्यसहितम्)"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "159"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-1964"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA4NjExMDI2NjM1ODgx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आपस्तम्बशुल्बसूत्रम् (कपर्दिभाष्यसहितम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODA4NjExMDI2NjM1ODgx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9342,8 +9341,5 @@ title = "आपस्तम्बशुल्बसूत्रम् (कपर
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

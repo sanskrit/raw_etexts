@@ -1,13 +1,12 @@
 +++
-TITLE = "श्रीबृहदारण्यकोपनिषद् भाष्यटीका-परब्रह्मप्रकाशिका"
-AUTHOR = "श्रीमद् रघूत्तमवर्यतीर्थाः"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3236"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk1Nzc0MDQ4MzQ2MDEz"
 title = "श्रीबृहदारण्यकोपनिषद् भाष्यटीका-परब्रह्मप्रकाशिका"
+author = "श्रीमद् रघूत्तमवर्यतीर्थाः"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3236"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk1Nzc0MDQ4MzQ2MDEz"
 
 +++
 [[श्रीबृहदारण्यकोपनिषद् भाष्यटीका-परब्रह्मप्रकाशिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk1Nzc0MDQ4MzQ2MDEz)]]

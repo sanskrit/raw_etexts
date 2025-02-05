@@ -1,17 +1,16 @@
 +++
-TITLE = "कौटिलीयम् अर्थशास्त्रम् (प्रथमो भागः)"
-AUTHOR = "कौटिल्यः"
-PUBLISHER = "मोतिलाल-बनार्सिदासः"
-"PUBLISH YEAR" = "१९२३"
-DOMAIN = "अन्यानि शास्त्राणि"
-SUB-DOMAIN = "अर्थशास्त्रम्"
-PAGES = "343"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "जे.जोली"
-PRINTER = "सर्दारि-लाल-जैनः"
-"SERIAL NO." = "Ebharati-3360"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI5NzM1NDczNzQ1MjIz&pageno=MjI0MjQyNjk5NTk="
 title = "कौटिलीयम् अर्थशास्त्रम् (प्रथमो भागः)"
+author = "कौटिल्यः"
+publisher = "मोतिलाल-बनार्सिदासः"
+"publish year" = "१९२३"
+domain = "अन्यानि शास्त्राणि"
+sub-domain = "अर्थशास्त्रम्"
+pages = "343"
+language = "संस्कृतम्"
+editor = "जे.जोली"
+printer = "सर्दारि-लाल-जैनः"
+"serial no." = "Ebharati-3360"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI5NzM1NDczNzQ1MjIz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कौटिलीयम् अर्थशास्त्रम् (प्रथमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDI5NzM1NDczNzQ1MjIz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4406,8 +4405,5 @@ SAIDMITHA STREET,
  इनके अतिरिक्त सब प्रकार की पुस्तकें मिलने का पता —  
 ** मोतीलाल बनारसीदास अध्यक्ष—पञ्जाव संस्कृत पुस्तकालय सैदमिठ्ठा, साहौर ।**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,15 +1,14 @@
 +++
-TITLE = "दक्षिणमूर्तिसंहिता"
-"PUBLISH YEAR" = "1937"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-PAGES = "222"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-EDITOR = "एम्.डि.शास्त्री नारायणशास्त्रीखिस्ते"
-PRINTER = "जयकृष्णदास-गुप्तः"
-"SERIAL NO." = "Ebharati-6037"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE2MTA1NTEzOTI1OTc1&pageno=MjI0MjQyNjk5NTk="
 title = "दक्षिणमूर्तिसंहिता"
+"publish year" = "1937"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+pages = "222"
+language = "संस्कृतम् आङ्ग्लम्"
+editor = "एम्.डि.शास्त्री नारायणशास्त्रीखिस्ते"
+printer = "जयकृष्णदास-गुप्तः"
+"serial no." = "Ebharati-6037"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE2MTA1NTEzOTI1OTc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दक्षिणमूर्तिसंहिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDE2MTA1NTEzOTI1OTc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7624,8 +7623,5 @@ PRINCIPAL,
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

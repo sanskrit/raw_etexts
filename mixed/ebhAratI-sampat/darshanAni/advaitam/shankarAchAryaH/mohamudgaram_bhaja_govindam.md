@@ -1,13 +1,12 @@
 +++
-TITLE = "मोहमुद्गरम् भज गोविन्दम्"
-AUTHOR = "शङ्कराचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "4"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2129"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM0NjExMDAwNjczNDAy&pageno=MjI0MjQyNjk5NTk="
 title = "मोहमुद्गरम् भज गोविन्दम्"
+author = "शङ्कराचार्यः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "4"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2129"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM0NjExMDAwNjczNDAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मोहमुद्गरम् भज गोविन्दम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODM0NjExMDAwNjczNDAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -142,8 +141,5 @@ title = "मोहमुद्गरम् भज गोविन्दम्"
 
 सेन्द्रियमानसनियमाद् एवम् द्रक्ष्यसि निजहृदयस्थं देवम् ॥ ३१॥
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

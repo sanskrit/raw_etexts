@@ -1,15 +1,14 @@
 +++
-TITLE = "The Ancient Geography of India"
-AUTHOR = "Alexander Cunningham"
-PUBLISHER = "Taylor and Co."
-"PUBLISH YEAR" = "1871"
-DOMAIN = "इतिहासःसंस्कृतिः च"
-SUB-DOMAIN = "भारतीय-इतिहासः"
-PAGES = "652"
-LANGUAGE = "आङ्ग्लम्"
-"SERIAL NO." = "Ebharati-7668"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk4MTk4NjgxOTkwNjM3&pageno=MjI0MjQyNjk5NTk="
 title = "The Ancient Geography of India"
+author = "Alexander Cunningham"
+publisher = "Taylor and Co."
+"publish year" = "1871"
+domain = "इतिहासःसंस्कृतिः च"
+sub-domain = "भारतीय-इतिहासः"
+pages = "652"
+language = "आङ्ग्लम्"
+"serial no." = "Ebharati-7668"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk4MTk4NjgxOTkwNjM3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[The Ancient Geography of India	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk4MTk4NjgxOTkwNjM3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4794,19 +4793,6 @@ Persian parasang of 3¾ Roman miles, whereas Sir Henrybelieves the *schenus* to 
 
  To show the accuracy of the correction here proposed, Ineed only refer to the difference of longitude between Taxilaand Palibothra, which has been given at p. 9 of this work.
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

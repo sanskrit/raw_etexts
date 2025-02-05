@@ -1,13 +1,12 @@
 +++
-TITLE = "श्रीमद्भगवद्गीता तात्पर्यनिर्णयटीका-न्यायदीपिका"
-AUTHOR = "श्रीजयतीर्थयतिः"
-DOMAIN = "भगवद्गीता"
-SUB-DOMAIN = "भगवद्गीतासम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3219"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODE0NjUzNDA5MTEwOTAz"
 title = "श्रीमद्भगवद्गीता तात्पर्यनिर्णयटीका-न्यायदीपिका"
+author = "श्रीजयतीर्थयतिः"
+domain = "भगवद्गीता"
+sub-domain = "भगवद्गीतासम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3219"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODE0NjUzNDA5MTEwOTAz"
 
 +++
 [[श्रीमद्भगवद्गीता तात्पर्यनिर्णयटीका-न्यायदीपिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODE0NjUzNDA5MTEwOTAz)]]

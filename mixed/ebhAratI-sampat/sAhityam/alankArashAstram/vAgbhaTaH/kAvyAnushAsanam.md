@@ -1,17 +1,16 @@
 +++
-TITLE = "काव्यानुशासनम्"
-AUTHOR = "वाग्भटः"
-PUBLISHER = "तुकाराम जावजी"
-"PUBLISH YEAR" = "1915"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "84"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शिवदत्त वासुदेव लक्ष्मण शास्त्रि पन्शिकर"
-PRINTER = "रामचन्द्र येसु  शेड्गे"
-"SERIAL NO." = "Ebharati-6002"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ4NjEwNzQ0OTYxNjc1&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यानुशासनम्"
+author = "वाग्भटः"
+publisher = "तुकाराम जावजी"
+"publish year" = "1915"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "84"
+language = "संस्कृतम्"
+editor = "शिवदत्त वासुदेव लक्ष्मण शास्त्रि पन्शिकर"
+printer = "रामचन्द्र येसु  शेड्गे"
+"serial no." = "Ebharati-6002"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ4NjEwNzQ0OTYxNjc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यानुशासनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQ4NjEwNzQ0OTYxNjc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1554,8 +1553,5 @@ title = "काव्यानुशासनम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

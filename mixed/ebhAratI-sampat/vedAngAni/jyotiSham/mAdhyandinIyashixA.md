@@ -1,12 +1,11 @@
 +++
-TITLE = "माध्यन्दिनीयशिक्षा"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3559"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk4OTc3NjI2MDU2MTQz&pageno=MjI0MjQyNjk5NTk="
 title = "माध्यन्दिनीयशिक्षा"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3559"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk4OTc3NjI2MDU2MTQz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[माध्यन्दिनीयशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODk4OTc3NjI2MDU2MTQz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -89,8 +88,5 @@ madhyandina_shiksha
        माध्यन्दिनीयशिक्षा समाप्ता  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

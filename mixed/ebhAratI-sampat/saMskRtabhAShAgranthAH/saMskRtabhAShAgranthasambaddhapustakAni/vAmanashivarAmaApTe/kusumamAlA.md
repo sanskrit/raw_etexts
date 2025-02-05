@@ -1,16 +1,15 @@
 +++
-TITLE = "कुसुममाला"
-AUTHOR = "वामनशिवरामआप्टे"
-PUBLISHER = "एच.पी.शीरलकरः"
-"PUBLISH YEAR" = "1923"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "308"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "चित्रशाला-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7043"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxODczNTM1MTAxNjc2&pageno=MjI0MjQyNjk5NTk="
 title = "कुसुममाला"
+author = "वामनशिवरामआप्टे"
+publisher = "एच.पी.शीरलकरः"
+"publish year" = "1923"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "308"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "चित्रशाला-यन्त्रालयः"
+"serial no." = "Ebharati-7043"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxODczNTM1MTAxNjc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कुसुममाला	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQxODczNTM1MTAxNjc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10334,8 +10333,5 @@ along with Lakshmi, the moon, deadly poison &c.); चांचल्यमुच
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

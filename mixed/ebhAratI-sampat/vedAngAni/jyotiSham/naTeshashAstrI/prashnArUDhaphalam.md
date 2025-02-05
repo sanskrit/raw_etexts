@@ -1,14 +1,13 @@
 +++
-TITLE = "प्रश्नारूढफलम्"
-AUTHOR = "नटेशशास्त्री"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "181"
-LANGUAGE = "संस्कृतम्"
-TRANSLATOR = "के.एन्.सरस्वती"
-"SERIAL NO." = "Ebharati-4940"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg2NDY1NzM0MTIyNDc0&pageno=MjI0MjQyNjk5NTk="
 title = "प्रश्नारूढफलम्"
+author = "नटेशशास्त्री"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "181"
+language = "संस्कृतम्"
+translator = "के.एन्.सरस्वती"
+"serial no." = "Ebharati-4940"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg2NDY1NzM0MTIyNDc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रश्नारूढफलम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDg2NDY1NzM0MTIyNDc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -12194,19 +12193,6 @@ ASTROLOGY ENDS**
 
 ![](../books_images/1681983233.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

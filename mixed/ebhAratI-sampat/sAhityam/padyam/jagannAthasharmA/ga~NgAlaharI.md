@@ -1,12 +1,11 @@
 +++
-TITLE = "गङ्\u200cगालहरी"
-AUTHOR = "जगन्नाथशर्मा"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3100"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyODA1MTUzODg1Nzky&pageno=MjI0MjQyNjk5NTk="
 title = "गङ्\u200cगालहरी"
+author = "जगन्नाथशर्मा"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3100"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyODA1MTUzODg1Nzky&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गङ्‌गालहरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDAyODA1MTUzODg1Nzky&pageno=MjI0MjQyNjk5NTk=)]]
@@ -287,8 +286,5 @@ title = "गङ्\u200cगालहरी"
 
  \*\*\*\*\*\*\*\*\*\*\*\*
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

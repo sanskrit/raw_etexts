@@ -1,17 +1,16 @@
 +++
-TITLE = "सरस्वतीविलासः"
-AUTHOR = "प्रतापरुद्रमहादेवः"
-PUBLISHER = "गवर्मेण्ट-अफ्-त्रावणकोर्"
-"PUBLISH YEAR" = "1927"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "539"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "आर्.शमाशास्त्री"
-PRINTER = "गवर्मेण्ट-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6336"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk3NTg5MTkxMjMyODA2&pageno=MjI0MjQyNjk5NTk="
 title = "सरस्वतीविलासः"
+author = "प्रतापरुद्रमहादेवः"
+publisher = "गवर्मेण्ट-अफ्-त्रावणकोर्"
+"publish year" = "1927"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "539"
+language = "संस्कृतम्"
+editor = "आर्.शमाशास्त्री"
+printer = "गवर्मेण्ट-यन्त्रालयः"
+"serial no." = "Ebharati-6336"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk3NTg5MTkxMjMyODA2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सरस्वतीविलासः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjk3NTg5MTkxMjMyODA2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -14281,19 +14280,6 @@ B१५४४     "            "
 
 **——**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

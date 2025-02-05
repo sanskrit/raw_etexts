@@ -1,15 +1,14 @@
 +++
-TITLE = "पञ्चलक्षणीसर्वस्वम्"
-AUTHOR = "कुरुगण्टिरामशास्त्री"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"PRIMARY COMMENTATOR" = "शिरोमणिः"
-"COMMENTARY NAME" = "व्याप्तिपञ्चकव्याख्या-विवृतिः चिन्तामणिः दीधितिः गदाधरी"
-"SERIAL NO." = "Ebharati-4078"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE5Njk1Njc2Mjc0MTkz&pageno=MjI0MjQyNjk5NTk="
 title = "पञ्चलक्षणीसर्वस्वम्"
+author = "कुरुगण्टिरामशास्त्री"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"primary commentator" = "शिरोमणिः"
+"commentary name" = "व्याप्तिपञ्चकव्याख्या-विवृतिः चिन्तामणिः दीधितिः गदाधरी"
+"serial no." = "Ebharati-4078"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE5Njk1Njc2Mjc0MTkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पञ्चलक्षणीसर्वस्वम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjE5Njk1Njc2Mjc0MTkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2854,8 +2853,5 @@ title = "पञ्चलक्षणीसर्वस्वम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

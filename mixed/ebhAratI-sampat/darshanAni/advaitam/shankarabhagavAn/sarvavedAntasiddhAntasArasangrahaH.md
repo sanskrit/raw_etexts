@@ -1,13 +1,12 @@
 +++
-TITLE = "सर्ववेदान्तसिद्धान्तसारसङ्ग्रहः"
-AUTHOR = "शङ्करभगवान्"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "184"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2159"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwOTgzNzg4NTUyNzAy&pageno=MjI0MjQyNjk5NTk="
 title = "सर्ववेदान्तसिद्धान्तसारसङ्ग्रहः"
+author = "शङ्करभगवान्"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "184"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2159"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwOTgzNzg4NTUyNzAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सर्ववेदान्तसिद्धान्तसारसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODkwOTgzNzg4NTUyNzAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3564,8 +3563,5 @@ verses 978-1006 Videhamukti, incorporeal liberation
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

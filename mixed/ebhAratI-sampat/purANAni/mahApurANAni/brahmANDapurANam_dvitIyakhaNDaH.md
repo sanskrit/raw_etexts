@@ -1,12 +1,11 @@
 +++
-TITLE = "ब्रह्माण्डपुराणम् (द्वितीयखण्डः)"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "477"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"SERIAL NO." = "Ebharati-6812"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY2ODczMzA0NjI5MzU2&pageno=MjI0MjQyNjk5NTk="
 title = "ब्रह्माण्डपुराणम् (द्वितीयखण्डः)"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "477"
+language = "संस्कृतम् हिन्दी"
+"serial no." = "Ebharati-6812"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY2ODczMzA0NjI5MzU2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ब्रह्माण्डपुराणम् (द्वितीयखण्डः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDY2ODczMzA0NjI5MzU2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11446,8 +11445,5 @@ title = "ब्रह्माण्डपुराणम् (द्विती
 **समाप्त।  
 ————**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,17 +1,16 @@
 +++
-TITLE = "कर्मकाण्डचन्द्रिका"
-AUTHOR = "पण्डित-देवदत्त-शर्मा"
-PUBLISHER = "पण्डित-देवदत्त-शर्मा"
-"PUBLISH YEAR" = "१९२५"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "88"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"BOOKS CONTRIBUTOR" = "सेठ जयनारायण रामचन्द्र पोद्दार"
-PRINTER = "बी. एल्. पावगा रामघाट काशी."
-"SERIAL NO." = "Ebharati-5084"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ0Mzc0Njk4NDQwODg0&pageno=MjI0MjQyNjk5NTk="
 title = "कर्मकाण्डचन्द्रिका"
+author = "पण्डित-देवदत्त-शर्मा"
+publisher = "पण्डित-देवदत्त-शर्मा"
+"publish year" = "१९२५"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "88"
+language = "संस्कृतम् हिन्दी"
+"books contributor" = "सेठ जयनारायण रामचन्द्र पोद्दार"
+printer = "बी. एल्. पावगा रामघाट काशी."
+"serial no." = "Ebharati-5084"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ0Mzc0Njk4NDQwODg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कर्मकाण्डचन्द्रिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ0Mzc0Njk4NDQwODg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1674,19 +1673,6 @@ title = "कर्मकाण्डचन्द्रिका"
 
 **![](../../../books_images/1687938626.png)**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

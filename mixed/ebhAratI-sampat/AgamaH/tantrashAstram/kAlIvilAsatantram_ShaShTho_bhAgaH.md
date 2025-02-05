@@ -1,14 +1,13 @@
 +++
-TITLE = "कालीविलासतन्त्रम् (षष्ठो भागः)"
-"PUBLISH YEAR" = "1917"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "112"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पार्वतीचरणतर्कतीर्थः"
-"SERIAL NO." = "Ebharati-8833"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI1MzEzOTA4NDM5NzQ4&pageno=MjI0MjQyNjk5NTk="
 title = "कालीविलासतन्त्रम् (षष्ठो भागः)"
+"publish year" = "1917"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "112"
+language = "संस्कृतम्"
+editor = "पार्वतीचरणतर्कतीर्थः"
+"serial no." = "Ebharati-8833"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI1MzEzOTA4NDM5NzQ4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कालीविलासतन्त्रम् (षष्ठो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjI1MzEzOTA4NDM5NzQ4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3750,8 +3749,5 @@ ARTHUR AVALON.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

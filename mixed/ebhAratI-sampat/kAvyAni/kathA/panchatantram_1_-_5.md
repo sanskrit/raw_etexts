@@ -1,16 +1,15 @@
 +++
-TITLE = "पञ्चतन्त्रम् १ - ५"
-PUBLISHER = "एन्.जि.सर्देसाय्"
-"PUBLISH YEAR" = "1930"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "136"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "फ़्रान्क्लिन् एड्गर्टन्"
-PRINTER = "एल्. वि. सप्तर्षि"
-"SERIAL NO." = "Ebharati-5660"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1ODAxMjM3ODMzMzQ1&pageno=MjI0MjQyNjk5NTk="
 title = "पञ्चतन्त्रम् १ - ५"
+publisher = "एन्.जि.सर्देसाय्"
+"publish year" = "1930"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "136"
+language = "संस्कृतम्"
+editor = "फ़्रान्क्लिन् एड्गर्टन्"
+printer = "एल्. वि. सप्तर्षि"
+"serial no." = "Ebharati-5660"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1ODAxMjM3ODMzMzQ1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पञ्चतन्त्रम् १ - ५	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDI1ODAxMjM3ODMzMzQ1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2683,8 +2682,5 @@ by high authorities, that the original Pañcatantra was a Buddhistic work. There
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

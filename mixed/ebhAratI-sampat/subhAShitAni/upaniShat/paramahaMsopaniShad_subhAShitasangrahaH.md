@@ -1,11 +1,10 @@
 +++
-TITLE = "परमहंसोपनिषद् सुभाषितसङ्ग्रहः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "उपनिषत्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4154"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg5MDIwMTkzODY3ODkz&pageno=MjI0MjQyNjk5NTk="
 title = "परमहंसोपनिषद् सुभाषितसङ्ग्रहः"
+domain = "सुभाषितानि"
+sub-domain = "उपनिषत्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4154"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg5MDIwMTkzODY3ODkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[परमहंसोपनिषद् सुभाषितसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODg5MDIwMTkzODY3ODkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -32,8 +31,5 @@ title = "परमहंसोपनिषद् सुभाषितसङ्�
 ------------------------------------- -------------------------------
 ------------------------------- ----------------------------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,17 +1,16 @@
 +++
-TITLE = "प्रमाणपद्धतिः"
-AUTHOR = "श्रीजयतीर्थाचार्यः"
-PUBLISHER = "द्वैतवेदान्ताध्ययन-शोधसंस्था"
-"PUBLISH YEAR" = "१९९१"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-PAGES = "70"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "के टि पाण्डुरङ्गी"
-PRINTER = "प्रभा-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-2234"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ3MDc1NTA2NTU0NDEy&pageno=MjI0MjQyNjk5NTk="
 title = "प्रमाणपद्धतिः"
+author = "श्रीजयतीर्थाचार्यः"
+publisher = "द्वैतवेदान्ताध्ययन-शोधसंस्था"
+"publish year" = "१९९१"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+pages = "70"
+language = "संस्कृतम्"
+editor = "के टि पाण्डुरङ्गी"
+printer = "प्रभा-मुद्रणालयः"
+"serial no." = "Ebharati-2234"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ3MDc1NTA2NTU0NDEy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रमाणपद्धतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ3MDc1NTA2NTU0NDEy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -917,19 +916,6 @@ by Dr. B. N. K. Sharma
           **Rs. 10  
 ವಿವಿಧ ವಿದ್ವಾಂಸರುಗಳಿಂದ, ಸಂಪಾದಕರು : ಎನ್. ನಾರಾಯಣರಾಯರು
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,17 +1,16 @@
 +++
-TITLE = "रसजलनिधिः द्वितीयखण्डः"
-AUTHOR = "भूदेव-शुर्मा"
-PUBLISHER = "भूदेव-शुर्मा"
-"PUBLISH YEAR" = "1927"
-DOMAIN = "भारतीयविज्ञानम्"
-SUB-DOMAIN = "धातुशास्त्रम्"
-PAGES = "356"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "भूदेव-शुर्मा"
-PRINTER = "नबबिभाकर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6158"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2NDM4MDY4NDQxMTk1&pageno=MjI0MjQyNjk5NTk="
 title = "रसजलनिधिः द्वितीयखण्डः"
+author = "भूदेव-शुर्मा"
+publisher = "भूदेव-शुर्मा"
+"publish year" = "1927"
+domain = "भारतीयविज्ञानम्"
+sub-domain = "धातुशास्त्रम्"
+pages = "356"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "भूदेव-शुर्मा"
+printer = "नबबिभाकर-मुद्रणालयः"
+"serial no." = "Ebharati-6158"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2NDM4MDY4NDQxMTk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रसजलनिधिः द्वितीयखण्डः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njc2NDM4MDY4NDQxMTk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8318,19 +8317,6 @@ Alchemical Literature.
 
  The work, when completed, will no doubt prove to be the greatest and the most comprehensive treatise on Hindu Chemistry and alchemy...... The author is an eminent and successful physician, and most probably he has been able to earn a high reputation by prescribing the medicines described in the book under review. Physicians in general, we are sure, will be profited by a study of the book.
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

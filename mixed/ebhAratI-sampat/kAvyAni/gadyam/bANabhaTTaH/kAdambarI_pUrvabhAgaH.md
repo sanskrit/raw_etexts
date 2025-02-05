@@ -1,16 +1,15 @@
 +++
-TITLE = "कादम्बरी (पूर्वभागः)"
-AUTHOR = "बाणभट्टः"
-PUBLISHER = "संस्कृतसाहित्यसदनः"
-"PUBLISH YEAR" = "1950"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "गद्यम्"
-PAGES = "92"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "रघुवीर-यन्त्रालयः मैसूर्"
-"SERIAL NO." = "Ebharati-7935"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc1ODE2MzgxMDM3MTY3&pageno=MjI0MjQyNjk5NTk="
 title = "कादम्बरी (पूर्वभागः)"
+author = "बाणभट्टः"
+publisher = "संस्कृतसाहित्यसदनः"
+"publish year" = "1950"
+domain = "काव्यानि"
+sub-domain = "गद्यम्"
+pages = "92"
+language = "संस्कृतम्"
+printer = "रघुवीर-यन्त्रालयः मैसूर्"
+"serial no." = "Ebharati-7935"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc1ODE2MzgxMDM3MTY3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कादम्बरी (पूर्वभागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc1ODE2MzgxMDM3MTY3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1003,8 +1002,5 @@ UDARSANA weapon). Although he wandered as he pleased, still his sole refuge was 
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

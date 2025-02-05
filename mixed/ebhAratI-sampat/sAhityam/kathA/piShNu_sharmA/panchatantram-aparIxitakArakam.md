@@ -1,13 +1,12 @@
 +++
-TITLE = "पञ्चतन्त्रम्-अपरीक्षितकारकम्"
-AUTHOR = "पिष्णु शर्मा"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "कथा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2773"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAyNjMyMDg1NzkxNjYy&pageno=MjI0MjQyNjk5NTk="
 title = "पञ्चतन्त्रम्-अपरीक्षितकारकम्"
+author = "पिष्णु शर्मा"
+domain = "साहित्यम्"
+sub-domain = "कथा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2773"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAyNjMyMDg1NzkxNjYy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पञ्चतन्त्रम्-अपरीक्षितकारकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjAyNjMyMDg1NzkxNjYy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -585,8 +584,5 @@ title = "पञ्चतन्त्रम्-अपरीक्षितका�
 -  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

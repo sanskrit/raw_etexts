@@ -1,14 +1,13 @@
 +++
-TITLE = "न्यायभाष्यम् (प्रथमाध्यायः प्रथमाह्निकम्)"
-AUTHOR = "वात्स्यायनः"
-"PUBLISH YEAR" = "२०१०"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-PAGES = "21"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-1784"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ4MDg0NjkyNzUyMTcx&pageno=MjI0MjQyNjk5NTk="
 title = "न्यायभाष्यम् (प्रथमाध्यायः प्रथमाह्निकम्)"
+author = "वात्स्यायनः"
+"publish year" = "२०१०"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+pages = "21"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-1784"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ4MDg0NjkyNzUyMTcx&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[न्यायभाष्यम् (प्रथमाध्यायः प्रथमाह्निकम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ4MDg0NjkyNzUyMTcx&pageno=MjI0MjQyNjk5NTk=)]]
@@ -568,8 +567,5 @@ title = "न्यायभाष्यम् (प्रथमाध्याय
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

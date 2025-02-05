@@ -1,12 +1,11 @@
 +++
-TITLE = "वाग्भटसंहिता"
-AUTHOR = "वाग्भटः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2520"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ0MzA5MDM1MDE5MTQy"
 title = "वाग्भटसंहिता"
+author = "वाग्भटः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2520"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ0MzA5MDM1MDE5MTQy"
 
 +++
 [[वाग्भटसंहिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDQ0MzA5MDM1MDE5MTQy)]]

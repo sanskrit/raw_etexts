@@ -1,16 +1,15 @@
 +++
-TITLE = "कुलचुड़ामणितन्त्रम् (चतुर्थो भागः)"
-PUBLISHER = "उपेन्द्रनाथचक्रवर्त्ती"
-"PUBLISH YEAR" = "1915"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "98"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गिरीशचन्द्रवेदान्ततीर्थः"
-PRINTER = "संस्कृत-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8837"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMzgyNDk3ODEzODQ4&pageno=MjI0MjQyNjk5NTk="
 title = "कुलचुड़ामणितन्त्रम् (चतुर्थो भागः)"
+publisher = "उपेन्द्रनाथचक्रवर्त्ती"
+"publish year" = "1915"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "98"
+language = "संस्कृतम्"
+editor = "गिरीशचन्द्रवेदान्ततीर्थः"
+printer = "संस्कृत-यन्त्रालयः"
+"serial no." = "Ebharati-8837"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMzgyNDk3ODEzODQ4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कुलचुड़ामणितन्त्रम् (चतुर्थो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMzgyNDk3ODEzODQ4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2132,8 +2131,5 @@ A. K. MAITRA.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

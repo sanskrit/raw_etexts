@@ -1,12 +1,11 @@
 +++
-TITLE = "न्यायपरिशिष्टपञ्चिका"
-AUTHOR = "वामेश्वरध्वजः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2639"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU2MTU3MzgwNDMzMzUy"
 title = "न्यायपरिशिष्टपञ्चिका"
+author = "वामेश्वरध्वजः"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2639"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU2MTU3MzgwNDMzMzUy"
 
 +++
 [[न्यायपरिशिष्टपञ्चिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODU2MTU3MzgwNDMzMzUy)]]

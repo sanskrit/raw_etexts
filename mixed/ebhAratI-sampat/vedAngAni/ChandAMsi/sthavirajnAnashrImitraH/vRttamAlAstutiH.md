@@ -1,13 +1,12 @@
 +++
-TITLE = "वृत्तमालास्तुतिः"
-AUTHOR = "स्थविरज्ञानश्रीमित्रः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "छन्दांसि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2964"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA4ODM1MjY4MjM1NDgy&pageno=MjI0MjQyNjk5NTk="
 title = "वृत्तमालास्तुतिः"
+author = "स्थविरज्ञानश्रीमित्रः"
+domain = "वेदाङ्गानि"
+sub-domain = "छन्दांसि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2964"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA4ODM1MjY4MjM1NDgy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वृत्तमालास्तुतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODA4ODM1MjY4MjM1NDgy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -513,19 +512,6 @@ title = "वृत्तमालास्तुतिः"
 ॥ पादविषमम् ॥  
 ॥ आर्यमञ्जुघोषस्य दुष्करप्रभेदा वृत्तमालास्तुतिः समाप्त ॥  
 ॥ कृतिरियं महापण्डितस्थविरज्ञानश्रीमित्रस्य ॥  
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

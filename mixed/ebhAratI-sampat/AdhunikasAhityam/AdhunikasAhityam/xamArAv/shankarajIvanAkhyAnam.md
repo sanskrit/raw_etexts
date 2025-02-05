@@ -1,16 +1,15 @@
 +++
-TITLE = "शङ्करजीवनाख्यानम्"
-AUTHOR = "क्षमाराव्"
-PUBLISHER = "क्षमाराव्"
-"PUBLISH YEAR" = "1939"
-DOMAIN = "आधुनिकसाहित्यम्"
-SUB-DOMAIN = "आधुनिकसाहित्यम्"
-PAGES = "169"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6187"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5NDY4MTU3ODI5Mzk1&pageno=MjI0MjQyNjk5NTk="
 title = "शङ्करजीवनाख्यानम्"
+author = "क्षमाराव्"
+publisher = "क्षमाराव्"
+"publish year" = "1939"
+domain = "आधुनिकसाहित्यम्"
+sub-domain = "आधुनिकसाहित्यम्"
+pages = "169"
+language = "संस्कृतम्"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-6187"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5NDY4MTU3ODI5Mzk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शङ्करजीवनाख्यानम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDE5NDY4MTU3ODI5Mzk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2944,8 +2943,5 @@ title = "शङ्करजीवनाख्यानम्"
  शङ्करजीवनाख्यानम् — स्वपितुर्जीवनचरितोल्लेखनात्मकं रमणीयं सप्तदशोल्लाससमुपेतं छन्दोमयं काव्यम्॥  
  ग्रामज्योतिः — कथात्रयात्मको ग्रन्थः। त्रयाणां भारतीयग्रामस्त्रीरत्नानां प्रबुद्धचरितोपवर्णनेन सुप्तराष्ट्रप्रबोधं साम्प्रतिकंप्रख्यापयति। अयमद्यापि न प्रकाशितः। संस्कृतनाम्नि मासिकपत्रे तु खण्डशः प्राकट्यं नीतः॥
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,15 +1,14 @@
 +++
-TITLE = "चण्डकौशिकम्"
-AUTHOR = "आर्य्यक्षेमीश्वरः"
-"PUBLISH YEAR" = "1884"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "142"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "रामायण-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8241"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA3OTk3MzMwNTAxMTk3&pageno=MjI0MjQyNjk5NTk="
 title = "चण्डकौशिकम्"
+author = "आर्य्यक्षेमीश्वरः"
+"publish year" = "1884"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "142"
+language = "संस्कृतम्"
+printer = "रामायण-यन्त्रालयः"
+"serial no." = "Ebharati-8241"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA3OTk3MzMwNTAxMTk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चण्डकौशिकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjA3OTk3MzMwNTAxMTk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3123,19 +3122,6 @@ title = "चण्डकौशिकम्"
 
 **![](../books_images/U-IMG-1724520546Screenshot2024-08-22123800.png)**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,18 +1,17 @@
 +++
-TITLE = "छान्दोग्योपनिषत्"
-PUBLISHER = "हरिनारायणआपटे"
-"PUBLISH YEAR" = "1910"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "छान्दोग्योपनिषद्"
-PAGES = "378"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गोखले गणेशशास्त्री"
-"PRIMARY COMMENTATOR" = "रामानुजमुनिः"
-"COMMENTARY NAME" = "प्रकाशिका"
-PRINTER = "आनन्दाश्रम-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-8554"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg3Nzc2NzU4MTUxMTI4&pageno=MjI0MjQyNjk5NTk="
 title = "छान्दोग्योपनिषत्"
+publisher = "हरिनारायणआपटे"
+"publish year" = "1910"
+domain = "उपनिषदः"
+sub-domain = "छान्दोग्योपनिषद्"
+pages = "378"
+language = "संस्कृतम्"
+editor = "गोखले गणेशशास्त्री"
+"primary commentator" = "रामानुजमुनिः"
+"commentary name" = "प्रकाशिका"
+printer = "आनन्दाश्रम-मुद्रणालयः"
+"serial no." = "Ebharati-8554"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg3Nzc2NzU4MTUxMTI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[छान्दोग्योपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODg3Nzc2NzU4MTUxMTI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9281,19 +9280,6 @@ title = "छान्दोग्योपनिषत्"
 
 ![](../books_images/U-IMG-1735300962Screenshotfrom2024-12-2717-32-22.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

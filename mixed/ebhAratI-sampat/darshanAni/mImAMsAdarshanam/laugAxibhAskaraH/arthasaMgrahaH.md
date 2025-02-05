@@ -1,18 +1,17 @@
 +++
-TITLE = "अर्थसंग्रहः"
-AUTHOR = "लौगाक्षिभास्करः"
-"PUBLISH YEAR" = "1930"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसादर्शनम्"
-PAGES = "108"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "श्रिशैल-तातचार्यशिरोमणिः"
-"SECONDARY COMMENTATOR" = "प्राच्यविद्येश्वरः श्रीमत्पञ्चनदः"
-"COMMENTARY NAME" = "तन्त्रप्रकाशिकया सहितः"
-PRINTER = "श्रीनिवास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-8878"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE1MjIyMDQ2NDUyMjU4&pageno=MjI0MjQyNjk5NTk="
 title = "अर्थसंग्रहः"
+author = "लौगाक्षिभास्करः"
+"publish year" = "1930"
+domain = "दर्शनानि"
+sub-domain = "मीमांसादर्शनम्"
+pages = "108"
+language = "संस्कृतम्"
+"primary commentator" = "श्रिशैल-तातचार्यशिरोमणिः"
+"secondary commentator" = "प्राच्यविद्येश्वरः श्रीमत्पञ्चनदः"
+"commentary name" = "तन्त्रप्रकाशिकया सहितः"
+printer = "श्रीनिवास-मुद्रणालयः"
+"serial no." = "Ebharati-8878"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE1MjIyMDQ2NDUyMjU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अर्थसंग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjE1MjIyMDQ2NDUyMjU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -638,19 +637,6 @@ title = "अर्थसंग्रहः"
 
 ![](../books_images/U-IMG-1726120886Screenshot2024-09-11170303.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

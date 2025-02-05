@@ -1,16 +1,15 @@
 +++
-TITLE = "THE STUDY OF SANSKRIT"
-AUTHOR = "मथुरानाथमण्डलः"
-PUBLISHER = "मथुरानाथमण्डलः"
-"PUBLISH YEAR" = "1906"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "88"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "वेलिंग्टन-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7010"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIyODczOTU2MzM5Mjc2&pageno=MjI0MjQyNjk5NTk="
 title = "THE STUDY OF SANSKRIT"
+author = "मथुरानाथमण्डलः"
+publisher = "मथुरानाथमण्डलः"
+"publish year" = "1906"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "88"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "वेलिंग्टन-मुद्रणालयः"
+"serial no." = "Ebharati-7010"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIyODczOTU2MzM5Mjc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[THE STUDY OF SANSKRIT	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDIyODczOTU2MzM5Mjc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -77,19 +76,6 @@ fresh note-book to take down what his teacher may dictate in the class-room. The
 
 
 [TABLE]
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

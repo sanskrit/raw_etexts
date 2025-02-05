@@ -1,12 +1,11 @@
 +++
-TITLE = "लघुकथासङ्ग्रहः-२"
-DOMAIN = "सरलसंस्कृतम्"
-SUB-DOMAIN = "लघुकथासङ्ग्रहः"
-PAGES = "75"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8292"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIyMzYxMjQ4MDAwNjk3&pageno=MjI0MjQyNjk5NTk="
 title = "लघुकथासङ्ग्रहः-२"
+domain = "सरलसंस्कृतम्"
+sub-domain = "लघुकथासङ्ग्रहः"
+pages = "75"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8292"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIyMzYxMjQ4MDAwNjk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लघुकथासङ्ग्रहः-२	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDIyMzYxMjQ4MDAwNjk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -755,8 +754,5 @@ title = "लघुकथासङ्ग्रहः-२"
 
   अल्पवयस्कायाः अपि पुत्र्याः उदारमनस्कतां दृष्ट्वा मातापितरौ अतीव सन्तुष्टौ।
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,17 +1,16 @@
 +++
-TITLE = "सौगन्धिकाहरणम्"
-AUTHOR = "विश्वनाथः"
-PUBLISHER = "तुकारामजावजी"
-"PUBLISH YEAR" = "1902"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "41"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शिवदत्तः  काशीनाथः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5562"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYxMTUzMDAxMTM5MzM1&pageno=MjI0MjQyNjk5NTk="
 title = "सौगन्धिकाहरणम्"
+author = "विश्वनाथः"
+publisher = "तुकारामजावजी"
+"publish year" = "1902"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "41"
+language = "संस्कृतम्"
+editor = "शिवदत्तः  काशीनाथः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-5562"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYxMTUzMDAxMTM5MzM1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सौगन्धिकाहरणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDYxMTUzMDAxMTM5MzM1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1640,19 +1639,6 @@ title = "सौगन्धिकाहरणम्"
 
 **समाप्तमिदं सौगन्धिकाहरणं नाम प्रेक्षणकम् \।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

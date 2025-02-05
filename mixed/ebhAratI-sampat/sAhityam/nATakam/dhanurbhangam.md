@@ -1,11 +1,10 @@
 +++
-TITLE = "धनुर्भङ्गम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2818"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkxNTQxMTE0NzE1MDcy"
 title = "धनुर्भङ्गम्"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2818"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkxNTQxMTE0NzE1MDcy"
 
 +++
 [[धनुर्भङ्गम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjkxNTQxMTE0NzE1MDcy)]]

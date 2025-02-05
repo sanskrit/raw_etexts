@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीमद्भागवतम् (दशमस्कन्धः)"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "466"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-6798"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU3NDg5NTU0Mjg1MjU2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमद्भागवतम् (दशमस्कन्धः)"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "466"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-6798"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU3NDg5NTU0Mjg1MjU2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमद्भागवतम् (दशमस्कन्धः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjU3NDg5NTU0Mjg1MjU2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5905,8 +5904,5 @@ XXXबन्धस्यानर्थनिवर्तकत्वसंच�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,18 +1,17 @@
 +++
-TITLE = "रसगङ्गाधरः"
-AUTHOR = "जगन्नाथपण्डितः"
-PUBLISHER = "सत्यभामाबाईपाण्डुरङ्ग"
-"PUBLISH YEAR" = "1947"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "776"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मथुरानाथशास्त्री"
-"PRIMARY COMMENTATOR" = "नागेशभट्टः"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-5916"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU1ODYxMDc3MzE5NzY1&pageno=MjI0MjQyNjk5NTk="
 title = "रसगङ्गाधरः"
+author = "जगन्नाथपण्डितः"
+publisher = "सत्यभामाबाईपाण्डुरङ्ग"
+"publish year" = "1947"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "776"
+language = "संस्कृतम्"
+editor = "मथुरानाथशास्त्री"
+"primary commentator" = "नागेशभट्टः"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-5916"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU1ODYxMDc3MzE5NzY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रसगङ्गाधरः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjU1ODYxMDc3MzE5NzY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -15457,19 +15456,6 @@ title = "रसगङ्गाधरः"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

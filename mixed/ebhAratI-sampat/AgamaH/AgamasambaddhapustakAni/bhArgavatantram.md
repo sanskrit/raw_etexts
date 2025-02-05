@@ -1,12 +1,11 @@
 +++
-TITLE = "भार्गवतन्त्रम्"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "आगमसम्बद्धपुस्तकानि"
-EDITOR = "जि.सि.त्रिपाठी"
-"SECOND EDITOR" = "राघवप्रसादचौधरी"
-"SERIAL NO." = "Ebharati-434"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODQxMTEyOTYzMjY2MTQ="
 title = "भार्गवतन्त्रम्"
+domain = "आगमः"
+sub-domain = "आगमसम्बद्धपुस्तकानि"
+editor = "जि.सि.त्रिपाठी"
+"second editor" = "राघवप्रसादचौधरी"
+"serial no." = "Ebharati-434"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODQxMTEyOTYzMjY2MTQ="
 
 +++
 [[भार्गवतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODQxMTEyOTYzMjY2MTQ=)]]

@@ -1,13 +1,12 @@
 +++
-TITLE = "श्रीकण्वोपनिषदर्थसङ्ग्ग्रहः"
-AUTHOR = "श्रीराघवेन्द्रयतिः"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3239"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU4NDAyOTI4MTM5MDEz"
 title = "श्रीकण्वोपनिषदर्थसङ्ग्ग्रहः"
+author = "श्रीराघवेन्द्रयतिः"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3239"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU4NDAyOTI4MTM5MDEz"
 
 +++
 [[श्रीकण्वोपनिषदर्थसङ्ग्ग्रहः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODU4NDAyOTI4MTM5MDEz)]]

@@ -1,12 +1,11 @@
 +++
-TITLE = "ज्ञापकसंग्रहः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3454"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg1NTIzMTIwMTc1MTMz"
 title = "ज्ञापकसंग्रहः"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3454"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg1NTIzMTIwMTc1MTMz"
 
 +++
 [[ज्ञापकसंग्रहः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODg1NTIzMTIwMTc1MTMz)]]

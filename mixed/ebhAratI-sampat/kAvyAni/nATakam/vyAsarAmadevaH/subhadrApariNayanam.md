@@ -1,17 +1,16 @@
 +++
-TITLE = "सुभद्रापरिणयनम्"
-AUTHOR = "व्यासरामदेवः"
-PUBLISHER = "जयकृष्णहरिदासः"
-"PUBLISH YEAR" = "1938"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "70"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "नारायणशास्त्री"
-PRINTER = "विद्याविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5578"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE5OTIyMDQwNzY0NTM1&pageno=MjI0MjQyNjk5NTk="
 title = "सुभद्रापरिणयनम्"
+author = "व्यासरामदेवः"
+publisher = "जयकृष्णहरिदासः"
+"publish year" = "1938"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "70"
+language = "संस्कृतम्"
+editor = "नारायणशास्त्री"
+printer = "विद्याविलास-मुद्रणालयः"
+"serial no." = "Ebharati-5578"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE5OTIyMDQwNzY0NTM1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुभद्रापरिणयनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjE5OTIyMDQwNzY0NTM1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1683,19 +1682,6 @@ To be had of
 The Superintendent, Government Press,  
 ALLAHABAD, U, P.
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

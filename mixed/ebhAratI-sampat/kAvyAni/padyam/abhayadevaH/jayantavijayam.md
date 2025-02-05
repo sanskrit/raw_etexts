@@ -1,17 +1,16 @@
 +++
-TITLE = "जयन्तविजयम्"
-AUTHOR = "अभयदेवः"
-PUBLISHER = "तुकाराम-जावजी"
-"PUBLISH YEAR" = "1902"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "149"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पण्डितभावदत्तः पण्डितशिवदत्तः काशिनाथपाण्डुरङ्गपरबः"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7778"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEzODU1Mzc3ODU2NjQ3&pageno=MjI0MjQyNjk5NTk="
 title = "जयन्तविजयम्"
+author = "अभयदेवः"
+publisher = "तुकाराम-जावजी"
+"publish year" = "1902"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "149"
+language = "संस्कृतम्"
+editor = "पण्डितभावदत्तः पण्डितशिवदत्तः काशिनाथपाण्डुरङ्गपरबः"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-7778"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEzODU1Mzc3ODU2NjQ3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जयन्तविजयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjEzODU1Mzc3ODU2NjQ3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4209,19 +4208,6 @@ Price 1 Rupee.**
 द्वाविंशतिशतमानं शास्त्रमिदं निर्मितं जयतु ॥ १० ॥
 
 **  जयन्तविजयकाव्यं परिपूर्णमिति भद्रम् \।**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

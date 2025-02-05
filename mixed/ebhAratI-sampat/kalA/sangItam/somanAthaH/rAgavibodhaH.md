@@ -1,17 +1,16 @@
 +++
-TITLE = "रागविबोधः"
-AUTHOR = "सोमनाथः"
-PUBLISHER = "गणेश-शास्त्री"
-"PUBLISH YEAR" = "१८९५"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "250"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गणेश-शास्त्री"
-PRINTER = "जगद्धि-मुद्राणालय"
-"SERIAL NO." = "Ebharati-4587"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE3OTg5MzY3NDMzMDQ0&pageno=MjI0MjQyNjk5NTk="
 title = "रागविबोधः"
+author = "सोमनाथः"
+publisher = "गणेश-शास्त्री"
+"publish year" = "१८९५"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "250"
+language = "संस्कृतम्"
+editor = "गणेश-शास्त्री"
+printer = "जगद्धि-मुद्राणालय"
+"serial no." = "Ebharati-4587"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE3OTg5MzY3NDMzMDQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रागविबोधः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDE3OTg5MzY3NDMzMDQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3763,19 +3762,6 @@ title = "रागविबोधः"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

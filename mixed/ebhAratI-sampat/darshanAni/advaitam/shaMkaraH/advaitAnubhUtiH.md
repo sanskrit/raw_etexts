@@ -1,12 +1,11 @@
 +++
-TITLE = "अद्वैतानुभूतिः"
-AUTHOR = "शंकरः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2535"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc3OTM1NDc0MDUzMzQy&pageno=MjI0MjQyNjk5NTk="
 title = "अद्वैतानुभूतिः"
+author = "शंकरः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2535"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc3OTM1NDc0MDUzMzQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अद्वैतानुभूतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc3OTM1NDc0MDUzMzQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -877,8 +876,5 @@ title = "अद्वैतानुभूतिः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

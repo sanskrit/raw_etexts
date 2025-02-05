@@ -1,16 +1,15 @@
 +++
-TITLE = "श्वेताश्वतरोपनिषद्"
-PUBLISHER = "बम्बई-मिशन्-प्रस्"
-"PUBLISH YEAR" = "1924"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "अन्याः उपनिषदः"
-PAGES = "63"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "राजरामः"
-PRINTER = "शरतचन्द्र-लखनपालः"
-"SERIAL NO." = "Ebharati-7238"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM0MDU2MjA4MDI4NDk2&pageno=MjI0MjQyNjk5NTk="
 title = "श्वेताश्वतरोपनिषद्"
+publisher = "बम्बई-मिशन्-प्रस्"
+"publish year" = "1924"
+domain = "उपनिषदः"
+sub-domain = "अन्याः उपनिषदः"
+pages = "63"
+language = "संस्कृतम् हिन्दी"
+translator = "राजरामः"
+printer = "शरतचन्द्र-लखनपालः"
+"serial no." = "Ebharati-7238"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM0MDU2MjA4MDI4NDk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्वेताश्वतरोपनिषद्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM0MDU2MjA4MDI4NDk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -770,8 +769,5 @@ title = "श्वेताश्वतरोपनिषद्"
 
  यह, वेदान्त में परम रहस्य, जो पहले समय में उपदेश किया गया है, यह किसी ऐसे पुरुष को नहीं देना चाहिए, जो पूरा शान्त नहीं है, और नं पुत्र है, न शिष्य है॥ २२॥ यह विषय जो यहां बतलाए हैं, उस महापुरुष को प्रकाशित होते हैं, जिस की देव \[ परमात्मा \] में परमभक्ति है। और जैसी देव में है, वैसी गुरु में है॥२३॥
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

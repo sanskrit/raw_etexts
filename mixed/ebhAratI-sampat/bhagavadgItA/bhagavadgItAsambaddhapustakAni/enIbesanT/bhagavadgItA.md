@@ -1,15 +1,14 @@
 +++
-TITLE = "भगवद्गीता"
-AUTHOR = "एनीबेसन्ट्"
-PUBLISHER = "जी.ए.नतेशन एण्ड को"
-"PUBLISH YEAR" = "1922"
-DOMAIN = "भगवद्गीता"
-SUB-DOMAIN = "भगवद्गीतासम्बद्धपुस्तकानि"
-PAGES = "288"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-"SERIAL NO." = "Ebharati-6228"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEyNDA4Nzk1NDY4Nzk1&pageno=MjI0MjQyNjk5NTk="
 title = "भगवद्गीता"
+author = "एनीबेसन्ट्"
+publisher = "जी.ए.नतेशन एण्ड को"
+"publish year" = "1922"
+domain = "भगवद्गीता"
+sub-domain = "भगवद्गीतासम्बद्धपुस्तकानि"
+pages = "288"
+language = "संस्कृतम् आङ्ग्लम्"
+"serial no." = "Ebharati-6228"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEyNDA4Nzk1NDY4Nzk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भगवद्गीता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjEyNDA4Nzk1NDY4Nzk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4950,19 +4949,6 @@ is Pârtha, the archer, assured are there prosperity, victory and happiness. So 
 
 Fourth Edition. 5000 Copies. November 1922. G. A. Natesan & Co, Madras.
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

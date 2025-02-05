@@ -1,13 +1,12 @@
 +++
-TITLE = "तत्त्वमीमांसा"
-AUTHOR = "कृष्णमित्राचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "साङ्ख्यदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3907"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU3MjQxOTEzNzUwNTcz&pageno=MjI0MjQyNjk5NTk="
 title = "तत्त्वमीमांसा"
+author = "कृष्णमित्राचार्यः"
+domain = "दर्शनानि"
+sub-domain = "साङ्ख्यदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3907"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU3MjQxOTEzNzUwNTcz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तत्त्वमीमांसा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDU3MjQxOTEzNzUwNTcz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -65,19 +64,6 @@ title = "तत्त्वमीमांसा"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

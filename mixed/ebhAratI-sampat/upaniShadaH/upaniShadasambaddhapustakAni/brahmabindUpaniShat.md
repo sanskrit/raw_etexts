@@ -1,12 +1,11 @@
 +++
-TITLE = "ब्रह्मबिन्दूपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4264"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA0Nzg2Nzc5NzIzOTA0&pageno=MjI0MjQyNjk5NTk="
 title = "ब्रह्मबिन्दूपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4264"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA0Nzg2Nzc5NzIzOTA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ब्रह्मबिन्दूपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODA0Nzg2Nzc5NzIzOTA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -143,8 +142,5 @@ c
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

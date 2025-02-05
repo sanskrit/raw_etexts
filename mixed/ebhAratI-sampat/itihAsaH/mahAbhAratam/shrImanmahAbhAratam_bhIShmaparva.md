@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीमन्महाभारतम् (भीष्मपर्व)"
-PUBLISHER = "वि. रामस्वामि शास्त्रुलु एण्ड् सन्स्"
-"PUBLISH YEAR" = "1934"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "महाभारतम्"
-PAGES = "823"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पि.पि.सुब्रह्मण्यशास्त्री"
-PRINTER = "वाविळ्ळ मुद्रणालयम् चेन्नपुरी"
-"SERIAL NO." = "Ebharati-6088"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxNTY4MzIxNTI0NDg1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमन्महाभारतम् (भीष्मपर्व)"
+publisher = "वि. रामस्वामि शास्त्रुलु एण्ड् सन्स्"
+"publish year" = "1934"
+domain = "इतिहासः"
+sub-domain = "महाभारतम्"
+pages = "823"
+language = "संस्कृतम्"
+editor = "पि.पि.सुब्रह्मण्यशास्त्री"
+printer = "वाविळ्ळ मुद्रणालयम् चेन्नपुरी"
+"serial no." = "Ebharati-6088"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxNTY4MzIxNTI0NDg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमन्महाभारतम् (भीष्मपर्व)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjMxNTY4MzIxNTI0NDg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -24286,8 +24285,5 @@ V. Ramaswamy Sastrulu & Sons, at the 'Vavilla' Press, Madras.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,13 +1,12 @@
 +++
-TITLE = "वसिष्ठशिक्षा"
-AUTHOR = "वसिष्ठः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3985"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc2MTUwNjIwNTQ1Mjgz&pageno=MjI0MjQyNjk5NTk="
 title = "वसिष्ठशिक्षा"
+author = "वसिष्ठः"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3985"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc2MTUwNjIwNTQ1Mjgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वसिष्ठशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc2MTUwNjIwNTQ1Mjgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -52,8 +51,5 @@ title = "वसिष्ठशिक्षा"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

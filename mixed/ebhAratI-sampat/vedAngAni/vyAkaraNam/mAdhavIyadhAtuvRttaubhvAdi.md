@@ -1,12 +1,11 @@
 +++
-TITLE = "माधवीयधातुवृत्तौभ्वादि:"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3468"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0OTE3ODY5NDE5MjMz&pageno=MjI0MjQyNjk5NTk="
 title = "माधवीयधातुवृत्तौभ्वादि:"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3468"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0OTE3ODY5NDE5MjMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[माधवीयधातुवृत्तौभ्वादि:	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk0OTE3ODY5NDE5MjMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -98418,8 +98417,5 @@ title = "माधवीयधातुवृत्तौभ्वादि:"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

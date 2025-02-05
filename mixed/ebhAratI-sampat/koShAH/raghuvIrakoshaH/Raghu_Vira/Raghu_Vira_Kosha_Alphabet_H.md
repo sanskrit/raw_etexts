@@ -1,17 +1,16 @@
 +++
-TITLE = "Raghu Vira Kosha Alphabet H"
-AUTHOR = "Raghu Vira"
-PUBLISHER = "International academy of indian culture New delhi"
-"PUBLISH YEAR" = "1976"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "रघुवीरकोशः"
-PAGES = "52"
-LANGUAGE = "English-Hindi"
-"BOOKS CONTRIBUTOR" = "डा. शशिबाला"
-PRINTER = "Jayyed Press Delhi6"
-"SERIAL NO." = "Ebharati-5249"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcwMzc0NjcyNDg4MzA1&pageno=MjI0MjQyNjk5NTk="
 title = "Raghu Vira Kosha Alphabet H"
+author = "Raghu Vira"
+publisher = "International academy of indian culture New delhi"
+"publish year" = "1976"
+domain = "कोषाः"
+sub-domain = "रघुवीरकोशः"
+pages = "52"
+language = "English-Hindi"
+"books contributor" = "डा. शशिबाला"
+printer = "Jayyed Press Delhi6"
+"serial no." = "Ebharati-5249"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcwMzc0NjcyNDg4MzA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[Raghu Vira Kosha Alphabet H	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODcwMzc0NjcyNDg4MzA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7188,8 +7187,5 @@ hystrix** *Bot. Tax.* **शल्यकी
 hy-vac** *Phys.* (high vacuum) **अतिशून्यक** *n.*  
 **hyven** (*Hedera helix*) **मारवल्ली** *f.*
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

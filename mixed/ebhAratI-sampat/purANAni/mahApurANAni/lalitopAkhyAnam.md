@@ -1,16 +1,15 @@
 +++
-TITLE = "ललितोपाख्यानम्"
-PUBLISHER = "पाण्डुरङ्गजावजी"
-"PUBLISH YEAR" = "1918"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "480"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "टी.एन.के. तिरुमु्लपड्"
-PRINTER = "निर्णसागरप्रेस्-बम्बई"
-"SERIAL NO." = "Ebharati-6814"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA1MzY4NTkzODExNDU2&pageno=MjI0MjQyNjk5NTk="
 title = "ललितोपाख्यानम्"
+publisher = "पाण्डुरङ्गजावजी"
+"publish year" = "1918"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "480"
+language = "संस्कृतम्"
+editor = "टी.एन.के. तिरुमु्लपड्"
+printer = "निर्णसागरप्रेस्-बम्बई"
+"serial no." = "Ebharati-6814"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA1MzY4NTkzODExNDU2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ललितोपाख्यानम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODA1MzY4NTkzODExNDU2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -12552,8 +12551,5 @@ Bombay.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

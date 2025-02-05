@@ -1,12 +1,11 @@
 +++
-TITLE = "वैतानश्रौतसूत्रम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3255"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY0MjEz&pageno=MjI0MjQyNjk5NTk="
 title = "वैतानश्रौतसूत्रम्"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3255"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY0MjEz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वैतानश्रौतसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY0MjEz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -14779,8 +14778,5 @@ title = "वैतानश्रौतसूत्रम्"
 
 समाप्तः
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

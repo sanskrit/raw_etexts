@@ -1,17 +1,16 @@
 +++
-TITLE = "वेदान्तसिद्धान्तमुक्तावली"
-AUTHOR = "प्रकाशानन्दः"
-PUBLISHER = "जीवानन्दविद्यासागरः"
-"PUBLISH YEAR" = "1897"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतदर्शनम्"
-PAGES = "348"
-LANGUAGE = "संस्कॄतम्"
-"PRIMARY COMMENTATOR" = "जीवानन्दविद्यासागरः"
-PRINTER = "सिद्धेश्वरयन्त्रम् कलिकातानगरी"
-"SERIAL NO." = "Ebharati-8402"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ2OTI4ODI0MDY1NjA4&pageno=MjI0MjQyNjk5NTk="
 title = "वेदान्तसिद्धान्तमुक्तावली"
+author = "प्रकाशानन्दः"
+publisher = "जीवानन्दविद्यासागरः"
+"publish year" = "1897"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतदर्शनम्"
+pages = "348"
+language = "संस्कॄतम्"
+"primary commentator" = "जीवानन्दविद्यासागरः"
+printer = "सिद्धेश्वरयन्त्रम् कलिकातानगरी"
+"serial no." = "Ebharati-8402"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ2OTI4ODI0MDY1NjA4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वेदान्तसिद्धान्तमुक्तावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQ2OTI4ODI0MDY1NjA4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4058,19 +4057,6 @@ Superintendent, Free Sanskrit College, Calcutta.
 
 # Please dont Edit this page (Blank Page)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

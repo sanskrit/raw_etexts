@@ -1,12 +1,11 @@
 +++
-TITLE = "लघुकथासङ्ग्रहः-३"
-DOMAIN = "सरलसंस्कृतम्"
-SUB-DOMAIN = "लघुकथासङ्ग्रहः"
-PAGES = "85"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8293"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ2NTA0ODM4NjkwNjk3&pageno=MjI0MjQyNjk5NTk="
 title = "लघुकथासङ्ग्रहः-३"
+domain = "सरलसंस्कृतम्"
+sub-domain = "लघुकथासङ्ग्रहः"
+pages = "85"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8293"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ2NTA0ODM4NjkwNjk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लघुकथासङ्ग्रहः-३	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQ2NTA0ODM4NjkwNjk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1376,8 +1375,5 @@ title = "लघुकथासङ्ग्रहः-३"
 
 ** "भवतः साहाय्येन चोरितं धनं पुनः प्राप्तम्। निर्दोषी कोऽपि पीडितः न अभवत्। अपराधी अपि इतः परं सन्मार्गे गच्छेत् इति मम विश्वासः। भवतः साहाय्यं सर्वदास्मरिष्यामि इति उक्तवान् च।**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

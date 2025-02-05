@@ -1,13 +1,12 @@
 +++
-TITLE = "वेदपरिभाषासूत्रशिक्षा"
-AUTHOR = "रामचन्द्रः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3989"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUzMTIwMTEwOTI5Mjgz&pageno=MjI0MjQyNjk5NTk="
 title = "वेदपरिभाषासूत्रशिक्षा"
+author = "रामचन्द्रः"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3989"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUzMTIwMTEwOTI5Mjgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वेदपरिभाषासूत्रशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODUzMTIwMTEwOTI5Mjgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -80,19 +79,6 @@ title = "वेदपरिभाषासूत्रशिक्षा"
 
 **---------------------------------------------------------------------------------------------**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

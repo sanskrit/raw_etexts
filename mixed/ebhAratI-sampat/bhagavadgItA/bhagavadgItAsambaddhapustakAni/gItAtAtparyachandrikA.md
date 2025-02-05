@@ -1,12 +1,11 @@
 +++
-TITLE = "गीतातात्पर्यचन्द्रिका"
-DOMAIN = "भगवद्गीता"
-SUB-DOMAIN = "भगवद्गीतासम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4203"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2OTk4NjAyMjc0MzA0&pageno=MjI0MjQyNjk5NTk="
 title = "गीतातात्पर्यचन्द्रिका"
+domain = "भगवद्गीता"
+sub-domain = "भगवद्गीतासम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4203"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2OTk4NjAyMjc0MzA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गीतातात्पर्यचन्द्रिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjY2OTk4NjAyMjc0MzA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -58678,8 +58677,5 @@ title = "गीतातात्पर्यचन्द्रिका"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

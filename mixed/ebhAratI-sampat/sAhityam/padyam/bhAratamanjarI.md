@@ -1,11 +1,10 @@
 +++
-TITLE = "भारतमञ्जरी"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2960"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDIxOTY1Nzc4ODQxNDgy"
 title = "भारतमञ्जरी"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2960"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDIxOTY1Nzc4ODQxNDgy"
 
 +++
 [[भारतमञ्जरी	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDIxOTY1Nzc4ODQxNDgy)]]

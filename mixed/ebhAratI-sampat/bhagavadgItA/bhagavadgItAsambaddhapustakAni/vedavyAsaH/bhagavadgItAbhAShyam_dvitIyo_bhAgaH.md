@@ -1,15 +1,14 @@
 +++
-TITLE = "भगवद्गीताभाष्यम् (द्वितीयो भागः)"
-AUTHOR = "वेदव्यासः"
-DOMAIN = "भगवद्गीता"
-SUB-DOMAIN = "भगवद्गीतासम्बद्धपुस्तकानि"
-PAGES = "313"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "शङ्कराचार्यः"
-PRINTER = "श्रीवाणिविलासमुद्रणालयम् श्रीरङ्गम्"
-"SERIAL NO." = "Ebharati-8592"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4OTg4NDE3OTk3NDI4&pageno=MjI0MjQyNjk5NTk="
 title = "भगवद्गीताभाष्यम् (द्वितीयो भागः)"
+author = "वेदव्यासः"
+domain = "भगवद्गीता"
+sub-domain = "भगवद्गीतासम्बद्धपुस्तकानि"
+pages = "313"
+language = "संस्कृतम्"
+"primary commentator" = "शङ्कराचार्यः"
+printer = "श्रीवाणिविलासमुद्रणालयम् श्रीरङ्गम्"
+"serial no." = "Ebharati-8592"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4OTg4NDE3OTk3NDI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भगवद्गीताभाष्यम् (द्वितीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDI4OTg4NDE3OTk3NDI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4108,19 +4107,6 @@ title = "भगवद्गीताभाष्यम् (द्वितीय
 | यद्यद्विभूतिमत्सत्त्वं  | युञ्जन्नेव सदात्मानं     |
 | यद्यप्येते न पश्यन्ति   |                         |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,16 +1,15 @@
 +++
-TITLE = "स्मृतिचन्द्रिका (द्वितीयो भागः)"
-AUTHOR = "याज्ञिकदेवणभट्टः"
-"PUBLISH YEAR" = "1914"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "416"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "एल्.श्रीनिवासाचार्यः"
-PRINTER = "गवर्मेण्ट-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6478"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE3OTA0ODU2MzY4MTI2&pageno=MjI0MjQyNjk5NTk="
 title = "स्मृतिचन्द्रिका (द्वितीयो भागः)"
+author = "याज्ञिकदेवणभट्टः"
+"publish year" = "1914"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "416"
+language = "संस्कृतम्"
+editor = "एल्.श्रीनिवासाचार्यः"
+printer = "गवर्मेण्ट-यन्त्रालयः"
+"serial no." = "Ebharati-6478"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE3OTA0ODU2MzY4MTI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्मृतिचन्द्रिका (द्वितीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjE3OTA0ODU2MzY4MTI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11653,8 +11652,5 @@ PRINTED AT THE GOVERNMENT BRANCH PRESS
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

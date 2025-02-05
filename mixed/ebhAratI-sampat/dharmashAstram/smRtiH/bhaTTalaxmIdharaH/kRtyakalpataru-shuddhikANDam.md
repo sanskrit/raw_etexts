@@ -1,17 +1,16 @@
 +++
-TITLE = "कृत्यकल्पतरु-शुद्धिकाण्डम्"
-AUTHOR = "भट्टलक्ष्मीधरः"
-PUBLISHER = "बिनय्तोश-भट्टाचार्यः"
-"PUBLISH YEAR" = "1950"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "255"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रङ्गस्वामि-अय्यङ्गारः"
-PRINTER = "विद्याविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6442"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI1Mjg2Mzk3NzA0ODE2&pageno=MjI0MjQyNjk5NTk="
 title = "कृत्यकल्पतरु-शुद्धिकाण्डम्"
+author = "भट्टलक्ष्मीधरः"
+publisher = "बिनय्तोश-भट्टाचार्यः"
+"publish year" = "1950"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "255"
+language = "संस्कृतम्"
+editor = "रङ्गस्वामि-अय्यङ्गारः"
+printer = "विद्याविलास-मुद्रणालयः"
+"serial no." = "Ebharati-6442"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI1Mjg2Mzk3NzA0ODE2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कृत्यकल्पतरु-शुद्धिकाण्डम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDI1Mjg2Mzk3NzA0ODE2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5456,8 +5455,5 @@ Index of Half-verses
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

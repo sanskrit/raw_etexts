@@ -1,17 +1,16 @@
 +++
-TITLE = "मध्यमव्यायेगः"
-AUTHOR = "भासः"
-PUBLISHER = "ओथोरिटि-आफ्-गवर्नमेण्ट्"
-"PUBLISH YEAR" = "1912"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "124"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "टि. गणपतिशास्त्री"
-PRINTER = "गवर्नमेण्ट्-प्रेस्-ट्रवण्कोर्"
-"SERIAL NO." = "Ebharati-5633"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMzY1MzM4NjQ3MDQ1&pageno=MjI0MjQyNjk5NTk="
 title = "मध्यमव्यायेगः"
+author = "भासः"
+publisher = "ओथोरिटि-आफ्-गवर्नमेण्ट्"
+"publish year" = "1912"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "124"
+language = "संस्कृतम्"
+editor = "टि. गणपतिशास्त्री"
+printer = "गवर्नमेण्ट्-प्रेस्-ट्रवण्कोर्"
+"serial no." = "Ebharati-5633"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMzY1MzM4NjQ3MDQ1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मध्यमव्यायेगः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMzY1MzM4NjQ3MDQ1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3163,8 +3162,5 @@ TRIVANDRUM.                           T. GANAPATI SÂSTRÎ
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,17 +1,16 @@
 +++
-TITLE = "नाड़ीविज्ञानम्"
-AUTHOR = "कणादः"
-PUBLISHER = "आशुबोध-विद्याभुषणः नित्यबोधविद्यारत्नः"
-"PUBLISH YEAR" = "1921"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "84"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "जीवानन्दविद्यासागरभट्टाचार्यः"
-PRINTER = "सिद्धेश्वर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8356"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMyODc2MTA2NDQxMjA4&pageno=MjI0MjQyNjk5NTk="
 title = "नाड़ीविज्ञानम्"
+author = "कणादः"
+publisher = "आशुबोध-विद्याभुषणः नित्यबोधविद्यारत्नः"
+"publish year" = "1921"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "84"
+language = "संस्कृतम्"
+editor = "जीवानन्दविद्यासागरभट्टाचार्यः"
+printer = "सिद्धेश्वर-यन्त्रालयः"
+"serial no." = "Ebharati-8356"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMyODc2MTA2NDQxMjA4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नाड़ीविज्ञानम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjMyODc2MTA2NDQxMjA4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1320,19 +1319,6 @@ title = "नाड़ीविज्ञानम्"
 
 **————**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

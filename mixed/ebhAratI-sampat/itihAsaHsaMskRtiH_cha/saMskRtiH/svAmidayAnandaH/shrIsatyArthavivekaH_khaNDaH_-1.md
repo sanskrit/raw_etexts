@@ -1,15 +1,14 @@
 +++
-TITLE = "श्रीसत्यार्थविवेकः खण्डः -१"
-AUTHOR = "स्वामिदयानन्दः"
-"PUBLISH YEAR" = "1915"
-DOMAIN = "इतिहासःसंस्कृतिः च"
-SUB-DOMAIN = "संस्कृतिः"
-PAGES = "776"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "एम् एल्  भार्गवः"
-"SERIAL NO." = "Ebharati-6216"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUxNTk4MjQ2MjE3Njk1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीसत्यार्थविवेकः खण्डः -१"
+author = "स्वामिदयानन्दः"
+"publish year" = "1915"
+domain = "इतिहासःसंस्कृतिः च"
+sub-domain = "संस्कृतिः"
+pages = "776"
+language = "संस्कृतम् हिन्दी"
+printer = "एम् एल्  भार्गवः"
+"serial no." = "Ebharati-6216"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUxNTk4MjQ2MjE3Njk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीसत्यार्थविवेकः खण्डः -१	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjUxNTk4MjQ2MjE3Njk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7993,19 +7992,6 @@ Sri Bharat Dharma Mahamandal, BENARES.**
 
 ![](../../../books_images/U-IMG-169850360622.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

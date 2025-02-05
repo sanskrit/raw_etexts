@@ -1,18 +1,17 @@
 +++
-TITLE = "गोभिलगृह्यसूत्रम् (द्वितीयो भागः)"
-AUTHOR = "गोभिलाचार्यः"
-PUBLISHER = "एशियाटिक-सोसायटी-आफ् बेङ्गाल्"
-"PUBLISH YEAR" = "1908"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "374"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "चन्द्रकान्त-तर्कालङ्कारः"
-"PRIMARY COMMENTATOR" = "चन्द्रकान्त-तर्कालङ्कारः"
-PRINTER = "हितव्रत-चट्टोपाध्यायः"
-"SERIAL NO." = "Ebharati-7420"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyMTc3ODExMjkyMjE3&pageno=MjI0MjQyNjk5NTk="
 title = "गोभिलगृह्यसूत्रम् (द्वितीयो भागः)"
+author = "गोभिलाचार्यः"
+publisher = "एशियाटिक-सोसायटी-आफ् बेङ्गाल्"
+"publish year" = "1908"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "374"
+language = "संस्कृतम्"
+editor = "चन्द्रकान्त-तर्कालङ्कारः"
+"primary commentator" = "चन्द्रकान्त-तर्कालङ्कारः"
+printer = "हितव्रत-चट्टोपाध्यायः"
+"serial no." = "Ebharati-7420"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyMTc3ODExMjkyMjE3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गोभिलगृह्यसूत्रम् (द्वितीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQyMTc3ODExMjkyMjE3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5405,19 +5404,6 @@ title = "गोभिलगृह्यसूत्रम् (द्विती
 
 
 \_\_\_\_\_\_\_\_\_\_
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

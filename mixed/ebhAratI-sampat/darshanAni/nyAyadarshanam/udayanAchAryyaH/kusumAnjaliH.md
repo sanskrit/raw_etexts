@@ -1,18 +1,17 @@
 +++
-TITLE = "कुसुमाञ्जलिः"
-AUTHOR = "उदयनाचार्य्यः"
-PUBLISHER = "जीवानन्दविद्यासागरभट्टाचार्यः"
-"PUBLISH YEAR" = "1909"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायदर्शनम्"
-PAGES = "54"
-LANGUAGE = "संस्कॄतम्"
-EDITOR = "जीवानन्दविद्यासागरभट्टाचार्यः"
-"PRIMARY COMMENTATOR" = "हरिदासभट्टाचार्यः"
-PRINTER = "घोषयन्त्रम् कलिकातानगरम्"
-"SERIAL NO." = "Ebharati-8617"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDczMDU5MDI2OTkxNzI4&pageno=MjI0MjQyNjk5NTk="
 title = "कुसुमाञ्जलिः"
+author = "उदयनाचार्य्यः"
+publisher = "जीवानन्दविद्यासागरभट्टाचार्यः"
+"publish year" = "1909"
+domain = "दर्शनानि"
+sub-domain = "न्यायदर्शनम्"
+pages = "54"
+language = "संस्कॄतम्"
+editor = "जीवानन्दविद्यासागरभट्टाचार्यः"
+"primary commentator" = "हरिदासभट्टाचार्यः"
+printer = "घोषयन्त्रम् कलिकातानगरम्"
+"serial no." = "Ebharati-8617"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDczMDU5MDI2OTkxNzI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कुसुमाञ्जलिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDczMDU5MDI2OTkxNzI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -801,8 +800,5 @@ title = "कुसुमाञ्जलिः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

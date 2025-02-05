@@ -1,17 +1,16 @@
 +++
-TITLE = "अलंकारकौस्तुभम्"
-AUTHOR = "विश्वेश्वरपण्डितः"
-PUBLISHER = "तुकाराम-जावजी"
-"PUBLISH YEAR" = "1898"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "456"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "पण्डितशिवदत्तः काशिनाथपाण्डुरङ्गपरबः"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7777"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4NTEzNzc3MjY1NjQ3&pageno=MjI0MjQyNjk5NTk="
 title = "अलंकारकौस्तुभम्"
+author = "विश्वेश्वरपण्डितः"
+publisher = "तुकाराम-जावजी"
+"publish year" = "1898"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "456"
+language = "संस्कृतम्"
+editor = "पण्डितशिवदत्तः काशिनाथपाण्डुरङ्गपरबः"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-7777"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4NTEzNzc3MjY1NjQ3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अलंकारकौस्तुभम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk4NTEzNzc3MjY1NjQ3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9918,8 +9917,5 @@ title = "अलंकारकौस्तुभम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

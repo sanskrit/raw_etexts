@@ -1,12 +1,11 @@
 +++
-TITLE = "प्रभाकरविजयः"
-AUTHOR = "नन्दीश्वरः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2640"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDgwNDk5OTcwMDM0MzUy"
 title = "प्रभाकरविजयः"
+author = "नन्दीश्वरः"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2640"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDgwNDk5OTcwMDM0MzUy"
 
 +++
 [[प्रभाकरविजयः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDgwNDk5OTcwMDM0MzUy)]]

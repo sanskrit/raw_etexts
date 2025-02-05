@@ -1,12 +1,11 @@
 +++
-TITLE = "कल्याणवृष्टिस्तवः"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3026"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5ODY1OTI2NDg0MDky&pageno=MjI0MjQyNjk5NTk="
 title = "कल्याणवृष्टिस्तवः"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3026"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5ODY1OTI2NDg0MDky&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कल्याणवृष्टिस्तवः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5ODY1OTI2NDg0MDky&pageno=MjI0MjQyNjk5NTk=)]]
@@ -150,8 +149,5 @@ title = "कल्याणवृष्टिस्तवः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

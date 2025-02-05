@@ -1,12 +1,11 @@
 +++
-TITLE = "मैत्रायणीयमनवगृह्यसूत्रम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3204"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwMDI3MDY5MTc1NzAz&pageno=MjI0MjQyNjk5NTk="
 title = "मैत्रायणीयमनवगृह्यसूत्रम्"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3204"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwMDI3MDY5MTc1NzAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मैत्रायणीयमनवगृह्यसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODgwMDI3MDY5MTc1NzAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6684,8 +6683,5 @@ title = "मैत्रायणीयमनवगृह्यसूत्र�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

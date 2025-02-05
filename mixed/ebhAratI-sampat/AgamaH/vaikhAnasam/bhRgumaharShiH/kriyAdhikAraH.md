@@ -1,13 +1,12 @@
 +++
-TITLE = "क्रियाधिकारः"
-AUTHOR = "भृगुमहर्षिः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "वैखानसम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4177"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAzNjc5MDA0"
 title = "क्रियाधिकारः"
+author = "भृगुमहर्षिः"
+domain = "आगमः"
+sub-domain = "वैखानसम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4177"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAzNjc5MDA0"
 
 +++
 [[क्रियाधिकारः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAzNjc5MDA0)]]

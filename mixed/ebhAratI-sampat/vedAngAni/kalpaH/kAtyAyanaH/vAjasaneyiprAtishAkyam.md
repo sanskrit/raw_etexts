@@ -1,17 +1,16 @@
 +++
-TITLE = "वाजसनेयिप्रातिशाक्यम्"
-AUTHOR = "कात्यायनः"
-PUBLISHER = "मैसूरस्य-महाराजः"
-"PUBLISH YEAR" = "1934"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-PAGES = "354"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "उव्वटः अनन्तभट्टः"
-PRINTER = "हिन्दीप्रचार-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7441"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAxMjY4OTMwODAzNDE3&pageno=MjI0MjQyNjk5NTk="
 title = "वाजसनेयिप्रातिशाक्यम्"
+author = "कात्यायनः"
+publisher = "मैसूरस्य-महाराजः"
+"publish year" = "1934"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+pages = "354"
+language = "संस्कृतम्"
+"primary commentator" = "उव्वटः अनन्तभट्टः"
+printer = "हिन्दीप्रचार-यन्त्रालयः"
+"serial no." = "Ebharati-7441"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAxMjY4OTMwODAzNDE3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वाजसनेयिप्रातिशाक्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjAxMjY4OTMwODAzNDE3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5062,19 +5061,6 @@ University of Madras.
 **———**
 
 [TABLE]
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

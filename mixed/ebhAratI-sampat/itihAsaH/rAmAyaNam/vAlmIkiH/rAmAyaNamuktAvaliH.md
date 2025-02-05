@@ -1,16 +1,15 @@
 +++
-TITLE = "रामायणमुक्तावलिः"
-AUTHOR = "वाल्मीकिः"
-"PUBLISH YEAR" = "1949"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "111"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-EDITOR = "श्रीनिवासराघवाचार्यः"
-PRINTER = "श्रीवेदव्यास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6133"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxNDc3NDU5NDQ3ODg1&pageno=MjI0MjQyNjk5NTk="
 title = "रामायणमुक्तावलिः"
+author = "वाल्मीकिः"
+"publish year" = "1949"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "111"
+language = "संस्कृतम् आङ्ग्लम्"
+editor = "श्रीनिवासराघवाचार्यः"
+printer = "श्रीवेदव्यास-मुद्रणालयः"
+"serial no." = "Ebharati-6133"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxNDc3NDU5NDQ3ODg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[रामायणमुक्तावलिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjIxNDc3NDU5NDQ3ODg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3454,8 +3453,5 @@ The author of this little book is well known to numerous audiences at Madras and
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

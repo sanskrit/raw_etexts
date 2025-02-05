@@ -1,17 +1,16 @@
 +++
-TITLE = "वामकेश्वरतन्त्रान्तर्गतनित्यषोडशिकार्णवः"
-PUBLISHER = "हरिनारायणआपटे"
-"PUBLISH YEAR" = "1908"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "357"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "काशिनाथशास्त्री"
-"PRIMARY COMMENTATOR" = "भास्कररायः"
-PRINTER = "आनन्दाश्रम-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6022"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgyNTY4MTczOTgwODc1&pageno=MjI0MjQyNjk5NTk="
 title = "वामकेश्वरतन्त्रान्तर्गतनित्यषोडशिकार्णवः"
+publisher = "हरिनारायणआपटे"
+"publish year" = "1908"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "357"
+language = "संस्कृतम्"
+editor = "काशिनाथशास्त्री"
+"primary commentator" = "भास्कररायः"
+printer = "आनन्दाश्रम-मुद्रणालयः"
+"serial no." = "Ebharati-6022"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgyNTY4MTczOTgwODc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वामकेश्वरतन्त्रान्तर्गतनित्यषोडशिकार्णवः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDgyNTY4MTczOTgwODc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6371,8 +6370,5 @@ _(*                                                                             
 
 ————————
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

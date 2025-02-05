@@ -1,11 +1,10 @@
 +++
-TITLE = "दक्षसंहिता"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "धर्मशास्त्रसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2542"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDI3NjMyODQ0MjIwNDQy"
 title = "दक्षसंहिता"
+domain = "धर्मशास्त्रम्"
+sub-domain = "धर्मशास्त्रसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2542"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDI3NjMyODQ0MjIwNDQy"
 
 +++
 [[दक्षसंहिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDI3NjMyODQ0MjIwNDQy)]]

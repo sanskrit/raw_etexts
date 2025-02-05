@@ -1,12 +1,11 @@
 +++
-TITLE = "क्शुरिकोपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4291"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA4MjMyNjc4OTE5MTE0&pageno=MjI0MjQyNjk5NTk="
 title = "क्शुरिकोपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4291"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA4MjMyNjc4OTE5MTE0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[क्शुरिकोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjA4MjMyNjc4OTE5MTE0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -139,8 +138,5 @@ title = "क्शुरिकोपनिषत्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

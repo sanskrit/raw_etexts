@@ -1,12 +1,11 @@
 +++
-TITLE = "विश्वामित्रसंहिता"
-AUTHOR = "विश्वामित्रः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "वैखानसम्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4179"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM1MTgwNzkyODYxMTA0"
 title = "विश्वामित्रसंहिता"
+author = "विश्वामित्रः"
+domain = "आगमः"
+sub-domain = "वैखानसम्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4179"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM1MTgwNzkyODYxMTA0"
 
 +++
 [[विश्वामित्रसंहिता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODM1MTgwNzkyODYxMTA0)]]

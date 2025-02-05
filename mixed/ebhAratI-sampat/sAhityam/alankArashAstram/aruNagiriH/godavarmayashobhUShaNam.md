@@ -1,16 +1,15 @@
 +++
-TITLE = "गोदवर्मयशोभूषणम्"
-AUTHOR = "अरुणगिरिः"
-PUBLISHER = "युनिवर्सिटि मानुस्क्रिप्ट्स् लैब्ररि त्रिवाण्ड्रम्"
-"PUBLISH YEAR" = "1810"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "40"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "गवर्नमेन्ट् प्रेस् त्रवन्कोर्"
-"SERIAL NO." = "Ebharati-5961"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ1NzcwMTA2MzMyMjc1&pageno=MjI0MjQyNjk5NTk="
 title = "गोदवर्मयशोभूषणम्"
+author = "अरुणगिरिः"
+publisher = "युनिवर्सिटि मानुस्क्रिप्ट्स् लैब्ररि त्रिवाण्ड्रम्"
+"publish year" = "1810"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "40"
+language = "संस्कृतम्"
+printer = "गवर्नमेन्ट् प्रेस् त्रवन्कोर्"
+"serial no." = "Ebharati-5961"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ1NzcwMTA2MzMyMjc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गोदवर्मयशोभूषणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ1NzcwMTA2MzMyMjc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1064,19 +1063,6 @@ son of one [Rāmadatta](# "Cf. Raghuvamsa, Trichur Edn., p 87.  इति रा
 **अत्र श्लेषो भवेत्साम्ये विशेषणविशेष्ययोः।**  
 **विशेष्ययोश्च वाच्यत्वे तुल्ययोरेव स द्विधा॥२८॥**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

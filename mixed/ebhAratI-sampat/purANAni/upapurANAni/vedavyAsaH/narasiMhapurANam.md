@@ -1,16 +1,15 @@
 +++
-TITLE = "नरसिंहपुराणम्"
-AUTHOR = "वेदव्यासः"
-PUBLISHER = "गोपालनारायण-एण्ड-कम्पनी"
-"PUBLISH YEAR" = "1889"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "उपपुराणानि"
-PAGES = "302"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "उद्धवाचार्यः"
-"SERIAL NO." = "Ebharati-6943"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA1NjY2&pageno=MjI0MjQyNjk5NTk="
 title = "नरसिंहपुराणम्"
+author = "वेदव्यासः"
+publisher = "गोपालनारायण-एण्ड-कम्पनी"
+"publish year" = "1889"
+domain = "पुराणानि"
+sub-domain = "उपपुराणानि"
+pages = "302"
+language = "संस्कृतम्"
+editor = "उद्धवाचार्यः"
+"serial no." = "Ebharati-6943"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA1NjY2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नरसिंहपुराणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA1NjY2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11663,19 +11662,6 @@ title = "नरसिंहपुराणम्"
 **इति श्रीनरसिंहपुराणे सूतभारद्वाजादिसंवादे सर्वदुःखोपहरं श्रीनरसिंहपुराणं समाप्तम्॥ शुभम्भवतु॥ **
 
 **संपूर्णम् ।**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

@@ -1,12 +1,11 @@
 +++
-TITLE = "अथर्ववेदप्रायश्चित्तम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "कल्पः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3500"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAwNzc0ODQ4Njg5NTMz&pageno=MjI0MjQyNjk5NTk="
 title = "अथर्ववेदप्रायश्चित्तम्"
+domain = "वेदाङ्गानि"
+sub-domain = "कल्पः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3500"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAwNzc0ODQ4Njg5NTMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अथर्ववेदप्रायश्चित्तम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDAwNzc0ODQ4Njg5NTMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1826,8 +1825,5 @@ Fओर् fउर्थेर् इन्fओर्मतिओन् से�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

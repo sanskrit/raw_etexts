@@ -1,16 +1,15 @@
 +++
-TITLE = "कृष्णभूपालीयम्"
-AUTHOR = "सोसलेगरलपुरीशशास्त्री"
-PUBLISHER = "सोसलेअय्यशास्त्री"
-"PUBLISH YEAR" = "1931"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "110"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "राजकीयमुद्रणयन्त्रालयः"
-"SERIAL NO." = "Ebharati-6003"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYyOTUyMzQ0NTYyNjc1&pageno=MjI0MjQyNjk5NTk="
 title = "कृष्णभूपालीयम्"
+author = "सोसलेगरलपुरीशशास्त्री"
+publisher = "सोसलेअय्यशास्त्री"
+"publish year" = "1931"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "110"
+language = "संस्कृतम्"
+printer = "राजकीयमुद्रणयन्त्रालयः"
+"serial no." = "Ebharati-6003"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYyOTUyMzQ0NTYyNjc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कृष्णभूपालीयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjYyOTUyMzQ0NTYyNjc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2103,8 +2102,5 @@ title = "कृष्णभूपालीयम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

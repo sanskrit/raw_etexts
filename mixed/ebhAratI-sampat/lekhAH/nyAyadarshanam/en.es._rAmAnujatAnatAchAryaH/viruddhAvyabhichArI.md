@@ -1,13 +1,12 @@
 +++
-TITLE = "विरुद्धाव्यभिचारी"
-AUTHOR = "एन्.एस्. रामानुजतानताचार्यः"
-DOMAIN = "लेखाः"
-SUB-DOMAIN = "न्यायदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3681"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzNTUzODYxMjYzMzUz&pageno=MjI0MjQyNjk5NTk="
 title = "विरुद्धाव्यभिचारी"
+author = "एन्.एस्. रामानुजतानताचार्यः"
+domain = "लेखाः"
+sub-domain = "न्यायदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3681"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzNTUzODYxMjYzMzUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विरुद्धाव्यभिचारी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjgzNTUzODYxMjYzMzUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -141,8 +140,5 @@ title = "विरुद्धाव्यभिचारी"
  निर्वचनान्तरमपि प्रदर्शितमिति सर्वमवदातम्॥  
   -------\*\*\*\*------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

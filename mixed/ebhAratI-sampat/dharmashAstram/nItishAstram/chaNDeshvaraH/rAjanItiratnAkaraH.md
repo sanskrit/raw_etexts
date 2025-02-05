@@ -1,14 +1,13 @@
 +++
-TITLE = "राजनीतिरत्नाकरः"
-AUTHOR = "चण्डेश्वरः"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "117"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "एलाहावाद-लॅा-जर्नल-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-4860"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI5MDcxODM3MTQ1NjY0&pageno=MjI0MjQyNjk5NTk="
 title = "राजनीतिरत्नाकरः"
+author = "चण्डेश्वरः"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "117"
+language = "संस्कृतम्"
+printer = "एलाहावाद-लॅा-जर्नल-यन्त्रालयः"
+"serial no." = "Ebharati-4860"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI5MDcxODM3MTQ1NjY0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[राजनीतिरत्नाकरः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDI5MDcxODM3MTQ1NjY0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3182,19 +3181,6 @@ RAJANITI-RATNAKARA
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

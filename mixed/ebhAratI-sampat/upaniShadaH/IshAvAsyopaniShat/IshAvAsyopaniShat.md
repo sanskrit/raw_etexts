@@ -1,18 +1,17 @@
 +++
-TITLE = "ईशावास्योपनिषत्"
-PUBLISHER = "हरिनारायण-आपटे"
-"PUBLISH YEAR" = "1905"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "ईशावास्योपनिषत्"
-PAGES = "81"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "आनन्दाश्रमपण्डिताः"
-"PRIMARY COMMENTATOR" = "ब्रह्मानन्दः शंकररानन्दः रामचन्द्रः"
-"COMMENTARY NAME" = "ईशावास्यरहस्यम् ईशावास्यदीपिका ईशावास्यरहस्यविवृतिः"
-PRINTER = "आनन्दाश्रम-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7657"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUyNTIyODIyMzQwNTM3&pageno=MjI0MjQyNjk5NTk="
 title = "ईशावास्योपनिषत्"
+publisher = "हरिनारायण-आपटे"
+"publish year" = "1905"
+domain = "उपनिषदः"
+sub-domain = "ईशावास्योपनिषत्"
+pages = "81"
+language = "संस्कृतम्"
+editor = "आनन्दाश्रमपण्डिताः"
+"primary commentator" = "ब्रह्मानन्दः शंकररानन्दः रामचन्द्रः"
+"commentary name" = "ईशावास्यरहस्यम् ईशावास्यदीपिका ईशावास्यरहस्यविवृतिः"
+printer = "आनन्दाश्रम-मुद्रणालयः"
+"serial no." = "Ebharati-7657"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUyNTIyODIyMzQwNTM3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ईशावास्योपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDUyNTIyODIyMzQwNTM3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1495,19 +1494,6 @@ title = "ईशावास्योपनिषत्"
 **॥ ॐ तत्सत् ॥**  
 **—————**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

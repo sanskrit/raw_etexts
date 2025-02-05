@@ -1,18 +1,17 @@
 +++
-TITLE = "काव्यालङ्कारः"
-AUTHOR = "भामहाचार्यः"
-PUBLISHER = "दि श्रीनिवास प्रेस् तिरुवाडि"
-"PUBLISH YEAR" = "1934"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "356"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "श्रीशैलताताचर्यः"
-"COMMENTARY NAME" = "उद्यानवॄत्तिः"
-PRINTER = "दि श्रीनिवास प्रेस् तिरुवाडि"
-"SERIAL NO." = "Ebharati-5967"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcwMjM1ODc1OTA4Mjc1&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यालङ्कारः"
+author = "भामहाचार्यः"
+publisher = "दि श्रीनिवास प्रेस् तिरुवाडि"
+"publish year" = "1934"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "356"
+language = "संस्कृतम्"
+"primary commentator" = "श्रीशैलताताचर्यः"
+"commentary name" = "उद्यानवॄत्तिः"
+printer = "दि श्रीनिवास प्रेस् तिरुवाडि"
+"serial no." = "Ebharati-5967"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcwMjM1ODc1OTA4Mjc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यालङ्कारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDcwMjM1ODc1OTA4Mjc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6634,8 +6633,5 @@ Apply to:—
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,12 +1,11 @@
 +++
-TITLE = "वेदापौरुषेयत्त्ववादः"
-AUTHOR = "श्रीराघवेन्द्रः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3144"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODY3NDcxNjgxMjE4MTAz"
 title = "वेदापौरुषेयत्त्ववादः"
+author = "श्रीराघवेन्द्रः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3144"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODY3NDcxNjgxMjE4MTAz"
 
 +++
 [[वेदापौरुषेयत्त्ववादः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODY3NDcxNjgxMjE4MTAz)]]

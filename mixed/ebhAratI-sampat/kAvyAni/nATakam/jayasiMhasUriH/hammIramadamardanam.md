@@ -1,16 +1,15 @@
 +++
-TITLE = "हम्मीरमदमर्दनम्"
-AUTHOR = "जयसिंहसूरिः"
-PUBLISHER = "जनार्धनसखारामकूदल्करः"
-"PUBLISH YEAR" = "1920"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "114"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "गुजराती-प्रिन्टिंग-प्रेस्"
-"SERIAL NO." = "Ebharati-5417"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc5OTkxNTQ2MTEwMDI1&pageno=MjI0MjQyNjk5NTk="
 title = "हम्मीरमदमर्दनम्"
+author = "जयसिंहसूरिः"
+publisher = "जनार्धनसखारामकूदल्करः"
+"publish year" = "1920"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "114"
+language = "संस्कृतम्"
+printer = "गुजराती-प्रिन्टिंग-प्रेस्"
+"serial no." = "Ebharati-5417"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc5OTkxNTQ2MTEwMDI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[हम्मीरमदमर्दनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDc5OTkxNTQ2MTEwMDI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3419,19 +3418,6 @@ Mt. Abu Prasasti 64.
 
 प्रबन्धचिन्तामणि —265
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

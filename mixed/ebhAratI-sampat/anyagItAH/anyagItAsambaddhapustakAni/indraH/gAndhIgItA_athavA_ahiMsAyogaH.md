@@ -1,17 +1,16 @@
 +++
-TITLE = "गान्धीगीता अथवा अहिंसायोगः"
-AUTHOR = "इन्द्रः"
-PUBLISHER = "राजहंस-प्रकाशनम्"
-"PUBLISH YEAR" = "1949"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-PAGES = "155"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "कमलावती"
-PRINTER = "राजहंस-प्रेस-दिल्ली"
-"SERIAL NO." = "Ebharati-6669"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEzMjE3MDQ5ODkxMDQ2&pageno=MjI0MjQyNjk5NTk="
 title = "गान्धीगीता अथवा अहिंसायोगः"
+author = "इन्द्रः"
+publisher = "राजहंस-प्रकाशनम्"
+"publish year" = "1949"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+pages = "155"
+language = "संस्कृतम् हिन्दी"
+translator = "कमलावती"
+printer = "राजहंस-प्रेस-दिल्ली"
+"serial no." = "Ebharati-6669"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEzMjE3MDQ5ODkxMDQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गान्धीगीता अथवा अहिंसायोगः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODEzMjE3MDQ5ODkxMDQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4000,19 +3999,6 @@ the text in any language reserved by the author.
 
 श्रीमन्मोहनगीता अथवा अहिंसायोग में रामराज्य-समाज-निर्माण  
 नाम, अष्टादश-अध्याय समाप्त।
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

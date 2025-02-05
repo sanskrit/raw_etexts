@@ -1,12 +1,11 @@
 +++
-TITLE = "गरुडोपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "उपनिषदसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4276"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc0Njk1MjM5OTc0MDE0&pageno=MjI0MjQyNjk5NTk="
 title = "गरुडोपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4276"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc0Njk1MjM5OTc0MDE0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[गरुडोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc0Njk1MjM5OTc0MDE0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -301,8 +300,5 @@ title = "गरुडोपनिषत्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

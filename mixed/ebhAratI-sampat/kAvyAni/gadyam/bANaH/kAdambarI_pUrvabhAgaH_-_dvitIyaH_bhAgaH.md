@@ -1,15 +1,14 @@
 +++
-TITLE = "कादम्बरी पूर्वभागः - द्वितीयः भागः"
-AUTHOR = "बाणः"
-PUBLISHER = "एर् श्रीनिवासचारः"
-"PUBLISH YEAR" = "1952"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "गद्यम्"
-PAGES = "120"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8060"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIzMTI5MzE3OTI3Mzc3&pageno=MjI0MjQyNjk5NTk="
 title = "कादम्बरी पूर्वभागः - द्वितीयः भागः"
+author = "बाणः"
+publisher = "एर् श्रीनिवासचारः"
+"publish year" = "1952"
+domain = "काव्यानि"
+sub-domain = "गद्यम्"
+pages = "120"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8060"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIzMTI5MzE3OTI3Mzc3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कादम्बरी पूर्वभागः - द्वितीयः भागः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDIzMTI5MzE3OTI3Mzc3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -560,19 +559,6 @@ and at an auspicious moment, while the *Lagna* (birth sign in the zodiac) was be
 
 ***          ***
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,16 +1,15 @@
 +++
-TITLE = "मैथिली-कल्याणम्"
-AUTHOR = "हस्तिमल्लः"
-PUBLISHER = "जैनग्रन्थासमितिः"
-"PUBLISH YEAR" = "1916"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "101"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मनोहरलालशास्त्री"
-"SERIAL NO." = "Ebharati-5421"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY2OTYxMDM2NTkzMDI1&pageno=MjI0MjQyNjk5NTk="
 title = "मैथिली-कल्याणम्"
+author = "हस्तिमल्लः"
+publisher = "जैनग्रन्थासमितिः"
+"publish year" = "1916"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "101"
+language = "संस्कृतम्"
+editor = "मनोहरलालशास्त्री"
+"serial no." = "Ebharati-5421"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY2OTYxMDM2NTkzMDI1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मैथिली-कल्याणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjY2OTYxMDM2NTkzMDI1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2898,19 +2897,6 @@ XXXXXXX पुरुषप्रकांडः॥ ३२ ॥**
 |:----------------------:|
 | **समाप्तमिदं नाटकम्|** |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

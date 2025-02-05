@@ -1,14 +1,13 @@
 +++
-TITLE = "अग्निपुराणम् (विषयानुक्रमणी)"
-PUBLISHER = "भारतीय-विद्याप्रकाशनम्"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "225"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रामशङ्कर-भट्टाचार्यः"
-"SERIAL NO." = "Ebharati-6765"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM4NDg5OTc1NDE0OTQ2&pageno=MjI0MjQyNjk5NTk="
 title = "अग्निपुराणम् (विषयानुक्रमणी)"
+publisher = "भारतीय-विद्याप्रकाशनम्"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "225"
+language = "संस्कृतम्"
+editor = "रामशङ्कर-भट्टाचार्यः"
+"serial no." = "Ebharati-6765"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM4NDg5OTc1NDE0OTQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अग्निपुराणम् (विषयानुक्रमणी)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDM4NDg5OTc1NDE0OTQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5164,8 +5163,5 @@ in Yajnyavalkyasmriti occurs in chapters 253-258 of the Agnipurana and many vers
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

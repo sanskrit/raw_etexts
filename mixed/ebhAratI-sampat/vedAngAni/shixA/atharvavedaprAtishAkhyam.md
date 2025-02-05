@@ -1,12 +1,11 @@
 +++
-TITLE = "अथर्ववेदप्रातिशाख्यम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3913"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjgyNzk1NjkyMzM2NTcz"
 title = "अथर्ववेदप्रातिशाख्यम्"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम् आङ्ग्लम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3913"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjgyNzk1NjkyMzM2NTcz"
 
 +++
 [[अथर्ववेदप्रातिशाख्यम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjgyNzk1NjkyMzM2NTcz)]]

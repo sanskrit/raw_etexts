@@ -1,14 +1,13 @@
 +++
-TITLE = "पारिभाषिकपदार्थसङ्ग्रहः"
-AUTHOR = "कुरुगण्टिरामशास्त्री"
-"PUBLISH YEAR" = "1940"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4079"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMzOTM4Mjc2ODY1MTkz&pageno=MjI0MjQyNjk5NTk="
 title = "पारिभाषिकपदार्थसङ्ग्रहः"
+author = "कुरुगण्टिरामशास्त्री"
+"publish year" = "1940"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4079"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMzOTM4Mjc2ODY1MTkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पारिभाषिकपदार्थसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODMzOTM4Mjc2ODY1MTkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1759,19 +1758,6 @@ title = "पारिभाषिकपदार्थसङ्ग्रहः"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

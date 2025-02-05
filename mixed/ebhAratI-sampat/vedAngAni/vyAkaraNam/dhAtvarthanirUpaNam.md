@@ -1,12 +1,11 @@
 +++
-TITLE = "धात्वर्थनिरूपणम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3291"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA4MDE4MzM2MzI5NTEz&pageno=MjI0MjQyNjk5NTk="
 title = "धात्वर्थनिरूपणम्"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3291"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA4MDE4MzM2MzI5NTEz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[धात्वर्थनिरूपणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjA4MDE4MzM2MzI5NTEz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -54548,8 +54547,5 @@ end
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

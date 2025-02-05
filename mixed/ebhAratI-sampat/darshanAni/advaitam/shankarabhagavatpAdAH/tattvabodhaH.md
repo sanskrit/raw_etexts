@@ -1,13 +1,12 @@
 +++
-TITLE = "तत्त्वबोधः"
-AUTHOR = "शङ्करभगवत्पादाः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "12"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2165"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM2MzQ4NDY4MTM4NzAy&pageno=MjI0MjQyNjk5NTk="
 title = "तत्त्वबोधः"
+author = "शङ्करभगवत्पादाः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "12"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2165"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM2MzQ4NDY4MTM4NzAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तत्त्वबोधः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDM2MzQ4NDY4MTM4NzAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -266,8 +265,5 @@ title = "तत्त्वबोधः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

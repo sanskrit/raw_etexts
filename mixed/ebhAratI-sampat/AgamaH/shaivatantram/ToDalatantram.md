@@ -1,12 +1,11 @@
 +++
-TITLE = "टोडलतन्त्रम्"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4009"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3OTY4NTM5ODQ4NDgz&pageno=MjI0MjQyNjk5NTk="
 title = "टोडलतन्त्रम्"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4009"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3OTY4NTM5ODQ4NDgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[टोडलतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODk3OTY4NTM5ODQ4NDgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -895,8 +894,5 @@ title = "टोडलतन्त्रम्"
 आसां ध्यानादिकं सर्वं कथितं मे पुरा तव ॥ १०.१२ ॥  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

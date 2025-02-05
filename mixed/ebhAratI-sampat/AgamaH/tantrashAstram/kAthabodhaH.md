@@ -1,17 +1,16 @@
 +++
-TITLE = "काथबोधः"
-PUBLISHER = "चौखम्भा-संस्कृत-संस्थानम्"
-"PUBLISH YEAR" = "वि. 2044"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "140"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मुकुन्दलालशर्मा"
-"PRIMARY COMMENTATOR" = "महाप्रभुलालगोस्वामी"
-PRINTER = "श्रीगोकुल-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-320"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQwNTc1Nzk3ODE3MDM=&pageno=MjI0MjQyNjk5NTk="
 title = "काथबोधः"
+publisher = "चौखम्भा-संस्कृत-संस्थानम्"
+"publish year" = "वि. 2044"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "140"
+language = "संस्कृतम्"
+editor = "मुकुन्दलालशर्मा"
+"primary commentator" = "महाप्रभुलालगोस्वामी"
+printer = "श्रीगोकुल-मुद्रणालयः"
+"serial no." = "Ebharati-320"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQwNTc1Nzk3ODE3MDM=&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काथबोधः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQwNTc1Nzk3ODE3MDM=&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1559,8 +1558,5 @@ title = "काथबोधः"
 
 ![](../books_images/U-IMG-1721484398Screenshot2024-07-20193548.png)
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

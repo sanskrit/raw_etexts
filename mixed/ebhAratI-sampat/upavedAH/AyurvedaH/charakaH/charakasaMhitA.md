@@ -1,17 +1,16 @@
 +++
-TITLE = "चरकसंहिता"
-AUTHOR = "चरकः"
-PUBLISHER = "खेमराजश्रीकृष्णदासः"
-"PUBLISH YEAR" = "1911"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "932"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "रामप्रसादवैद्यः"
-PRINTER = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5883"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ3NDY1&pageno=MjI0MjQyNjk5NTk="
 title = "चरकसंहिता"
+author = "चरकः"
+publisher = "खेमराजश्रीकृष्णदासः"
+"publish year" = "1911"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "932"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "रामप्रसादवैद्यः"
+printer = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-5883"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ3NDY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चरकसंहिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ3NDY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -18837,19 +18836,6 @@ title = "चरकसंहिता"
 ****॥**इतीन्द्रियस्थानं पञ्चमम्॥  
 ![](../../../../../../../books_images/U-IMG-17074005331a.jpg)**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

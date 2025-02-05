@@ -1,17 +1,16 @@
 +++
-TITLE = "श्रीमृगेन्द्रतन्त्रम्"
-PUBLISHER = "मधुसूधन-कौल्-शास्त्री"
-"PUBLISH YEAR" = "1930"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "439"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मधुसूधन-कौल्-शास्त्री"
-"PRIMARY COMMENTATOR" = "नारायणकान्तः"
-PRINTER = "रामचन्द्र-येसु-शेड्गे"
-"SERIAL NO." = "Ebharati-6054"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg3MjI2MTUyMTYxMTg1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमृगेन्द्रतन्त्रम्"
+publisher = "मधुसूधन-कौल्-शास्त्री"
+"publish year" = "1930"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "439"
+language = "संस्कृतम्"
+editor = "मधुसूधन-कौल्-शास्त्री"
+"primary commentator" = "नारायणकान्तः"
+printer = "रामचन्द्र-येसु-शेड्गे"
+"serial no." = "Ebharati-6054"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg3MjI2MTUyMTYxMTg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमृगेन्द्रतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODg3MjI2MTUyMTYxMTg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6861,8 +6860,5 @@ Research Series) of Utpaladeva who was known a renowned writer and philosopher i
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

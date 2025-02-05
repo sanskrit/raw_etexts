@@ -1,13 +1,12 @@
 +++
-TITLE = "योगकेशः"
-AUTHOR = "केदारमिश्रत्रिपाठी"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "योगः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3866"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU0MzAyMzc0MTIxMTcz&pageno=MjI0MjQyNjk5NTk="
 title = "योगकेशः"
+author = "केदारमिश्रत्रिपाठी"
+domain = "दर्शनानि"
+sub-domain = "योगः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3866"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU0MzAyMzc0MTIxMTcz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[योगकेशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjU0MzAyMzc0MTIxMTcz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -681,19 +680,6 @@ title = "योगकेशः"
 
 **  ----------------------------------------------------**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

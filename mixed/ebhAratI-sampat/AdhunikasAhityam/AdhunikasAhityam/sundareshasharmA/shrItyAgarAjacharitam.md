@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीत्यागराजचरितम्"
-AUTHOR = "सुन्दरेशशर्मा"
-PUBLISHER = "जनरल्-स्टोर्स् तञ्जावूर्"
-"PUBLISH YEAR" = "1937"
-DOMAIN = "आधुनिकसाहित्यम्"
-SUB-DOMAIN = "आधुनिकसाहित्यम्"
-PAGES = "152"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "विद्या-पवर्-प्रेस्"
-"SERIAL NO." = "Ebharati-6190"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgxMjk1MDQ3NjEyNDk1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीत्यागराजचरितम्"
+author = "सुन्दरेशशर्मा"
+publisher = "जनरल्-स्टोर्स् तञ्जावूर्"
+"publish year" = "1937"
+domain = "आधुनिकसाहित्यम्"
+sub-domain = "आधुनिकसाहित्यम्"
+pages = "152"
+language = "संस्कृतम्"
+printer = "विद्या-पवर्-प्रेस्"
+"serial no." = "Ebharati-6190"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgxMjk1MDQ3NjEyNDk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीत्यागराजचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDgxMjk1MDQ3NjEyNDk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5591,19 +5590,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

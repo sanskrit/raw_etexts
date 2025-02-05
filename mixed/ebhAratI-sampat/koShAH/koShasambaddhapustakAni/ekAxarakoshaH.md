@@ -1,12 +1,11 @@
 +++
-TITLE = "एकाक्षरकोशः"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "कोषसम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3132"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3NTYyMTMyMDY2MDAz&pageno=MjI0MjQyNjk5NTk="
 title = "एकाक्षरकोशः"
+domain = "कोषाः"
+sub-domain = "कोषसम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3132"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3NTYyMTMyMDY2MDAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[एकाक्षरकोशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDA3NTYyMTMyMDY2MDAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -73,8 +72,5 @@ title = "एकाक्षरकोशः"
 \\Z  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

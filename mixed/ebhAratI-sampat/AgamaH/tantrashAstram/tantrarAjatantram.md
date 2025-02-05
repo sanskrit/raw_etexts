@@ -1,15 +1,14 @@
 +++
-TITLE = "तन्त्रराजतन्त्रम्"
-"PUBLISH YEAR" = "1919"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "392"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "लक्ष्मणशास्त्री"
-PRINTER = "महामाया-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8848"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4OTQ5MjU3NDczOTQ4&pageno=MjI0MjQyNjk5NTk="
 title = "तन्त्रराजतन्त्रम्"
+"publish year" = "1919"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "392"
+language = "संस्कृतम्"
+editor = "लक्ष्मणशास्त्री"
+printer = "महामाया-यन्त्रालयः"
+"serial no." = "Ebharati-8848"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4OTQ5MjU3NDczOTQ4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तन्त्रराजतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjU4OTQ5MjU3NDczOTQ4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9589,8 +9588,5 @@ VALON**.**
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,15 +1,14 @@
 +++
-TITLE = "वयोनिर्णयः"
-AUTHOR = "टी.गणपतिशास्त्री"
-"PUBLISH YEAR" = "1910"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "132"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीविद्याक्षरशाला"
-"SERIAL NO." = "Ebharati-6361"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQzNjQwODkwMjM2MDE2&pageno=MjI0MjQyNjk5NTk="
 title = "वयोनिर्णयः"
+author = "टी.गणपतिशास्त्री"
+"publish year" = "1910"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "132"
+language = "संस्कृतम्"
+printer = "श्रीविद्याक्षरशाला"
+"serial no." = "Ebharati-6361"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQzNjQwODkwMjM2MDE2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वयोनिर्णयः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQzNjQwODkwMjM2MDE2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1128,19 +1127,6 @@ title = "वयोनिर्णयः"
 
 **PRINTED AT THE SRI VIDYA PRESS, "KUMBAKONAM.**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

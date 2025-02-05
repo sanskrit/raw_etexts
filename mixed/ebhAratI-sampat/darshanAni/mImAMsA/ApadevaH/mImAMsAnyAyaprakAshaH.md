@@ -1,12 +1,11 @@
 +++
-TITLE = "मीमांसान्यायप्रकाशः"
-AUTHOR = "आपदेवः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2485"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc2ODE0MjY2MDU1ODMy"
 title = "मीमांसान्यायप्रकाशः"
+author = "आपदेवः"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2485"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc2ODE0MjY2MDU1ODMy"
 
 +++
 [[मीमांसान्यायप्रकाशः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDc2ODE0MjY2MDU1ODMy)]]

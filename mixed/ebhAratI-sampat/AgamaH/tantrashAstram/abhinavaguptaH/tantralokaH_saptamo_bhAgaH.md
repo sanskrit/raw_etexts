@@ -1,19 +1,18 @@
 +++
-TITLE = "तन्त्रलोकः सप्तमो भागः"
-AUTHOR = "अभिनवगुप्तः"
-PUBLISHER = "मधुसूदनकौलशास्त्री"
-"PUBLISH YEAR" = "1924"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "336"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मधुसूदनकौलशास्त्री"
-"PRIMARY COMMENTATOR" = "राजानक-जयरथः"
-"COMMENTARY NAME" = "विवेकः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6067"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcyNDc3MjAyOTA0Mjg1&pageno=MjI0MjQyNjk5NTk="
 title = "तन्त्रलोकः सप्तमो भागः"
+author = "अभिनवगुप्तः"
+publisher = "मधुसूदनकौलशास्त्री"
+"publish year" = "1924"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "336"
+language = "संस्कृतम्"
+editor = "मधुसूदनकौलशास्त्री"
+"primary commentator" = "राजानक-जयरथः"
+"commentary name" = "विवेकः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-6067"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcyNDc3MjAyOTA0Mjg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तन्त्रलोकः सप्तमो भागः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDcyNDc3MjAyOTA0Mjg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6223,8 +6222,5 @@ Jammu and Kashmir State, SRINAGAR.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

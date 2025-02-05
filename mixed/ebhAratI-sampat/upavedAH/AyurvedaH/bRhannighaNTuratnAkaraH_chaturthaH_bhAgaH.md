@@ -1,17 +1,16 @@
 +++
-TITLE = "बृहन्निघण्टुरत्नाकरः चतुर्थः भागः"
-PUBLISHER = "खेमराज-श्रीकृष्णदासः"
-"PUBLISH YEAR" = "सं. १९५५"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "380"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "माथुरदत्तरामः"
-EDITOR = "माथुरदत्तरामः"
-PRINTER = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-3426"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc3NzM1NjIxMzg4ODIz&pageno=MjI0MjQyNjk5NTk="
 title = "बृहन्निघण्टुरत्नाकरः चतुर्थः भागः"
+publisher = "खेमराज-श्रीकृष्णदासः"
+"publish year" = "सं. १९५५"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "380"
+language = "संस्कृतम् हिन्दी"
+translator = "माथुरदत्तरामः"
+editor = "माथुरदत्तरामः"
+printer = "श्रीवेङ्कटेश्वर-मुद्रणालयः"
+"serial no." = "Ebharati-3426"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc3NzM1NjIxMzg4ODIz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बृहन्निघण्टुरत्नाकरः चतुर्थः भागः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc3NzM1NjIxMzg4ODIz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9222,8 +9221,5 @@ Publication Year - 1952
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

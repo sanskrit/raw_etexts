@@ -1,11 +1,10 @@
 +++
-TITLE = "काव्यावतरणम्"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "नाटकम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2826"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjc1NDgwMTgzNTgyMTcy"
 title = "काव्यावतरणम्"
+domain = "साहित्यम्"
+sub-domain = "नाटकम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2826"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjc1NDgwMTgzNTgyMTcy"
 
 +++
 [[काव्यावतरणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=Mjc1NDgwMTgzNTgyMTcy)]]

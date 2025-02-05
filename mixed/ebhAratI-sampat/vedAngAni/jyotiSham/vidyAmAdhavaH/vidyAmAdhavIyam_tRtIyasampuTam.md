@@ -1,18 +1,17 @@
 +++
-TITLE = "विद्यामाधवीयम् (तृतीयसम्पुटम्)"
-AUTHOR = "विद्यामाधवः"
-"PUBLISH YEAR" = "1926"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "315"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शमाशास्त्री"
-"PRIMARY COMMENTATOR" = "विष्णुशर्मा"
-"COMMENTARY NAME" = "मुहूर्तदीपिका"
-PRINTER = "गवर्नमेण्ट्-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6212"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY0NTI5NzU2ODIzNjk1&pageno=MjI0MjQyNjk5NTk="
 title = "विद्यामाधवीयम् (तृतीयसम्पुटम्)"
+author = "विद्यामाधवः"
+"publish year" = "1926"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "315"
+language = "संस्कृतम्"
+editor = "शमाशास्त्री"
+"primary commentator" = "विष्णुशर्मा"
+"commentary name" = "मुहूर्तदीपिका"
+printer = "गवर्नमेण्ट्-मुद्रणालयः"
+"serial no." = "Ebharati-6212"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY0NTI5NzU2ODIzNjk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विद्यामाधवीयम् (तृतीयसम्पुटम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDY0NTI5NzU2ODIzNjk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8718,19 +8717,6 @@ _(**  वित्तेश्वरं दिनकरं सुरसूत्
 **![](../books_images/U-IMG-1691213181Screenshot2023-08-05105554.png)**  
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,17 +1,16 @@
 +++
-TITLE = "Raghu Vira Kosha Alphabet IJK"
-AUTHOR = "Raghu Vira"
-PUBLISHER = "International academy of indian culture New delhi"
-"PUBLISH YEAR" = "1976"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "रघुवीरकोशः"
-PAGES = "84"
-LANGUAGE = "English-Hindi"
-"BOOKS CONTRIBUTOR" = "डा. शशिबाला"
-PRINTER = "Jayyed Press Delhi6"
-"SERIAL NO." = "Ebharati-5250"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA1NTE3MjcyMDg5MzA1&pageno=MjI0MjQyNjk5NTk="
 title = "Raghu Vira Kosha Alphabet IJK"
+author = "Raghu Vira"
+publisher = "International academy of indian culture New delhi"
+"publish year" = "1976"
+domain = "कोषाः"
+sub-domain = "रघुवीरकोशः"
+pages = "84"
+language = "English-Hindi"
+"books contributor" = "डा. शशिबाला"
+printer = "Jayyed Press Delhi6"
+"serial no." = "Ebharati-5250"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA1NTE3MjcyMDg5MzA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[Raghu Vira Kosha Alphabet IJK	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA1NTE3MjcyMDg5MzA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9793,8 +9792,5 @@ Kyllinga** *Bot.* **विविषा-प्रजाति
 Kydia monocephala** (the root is a good refrigerant) **शीतमूल-विविषा  
 Kydia triceps सामान्य-विविषा** (Basu विविषा, Hin. Ben. निर्बिषी)
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,15 +1,14 @@
 +++
-TITLE = "वैदेहीविवासनम्"
-AUTHOR = "टि.एस्. नारायणशास्त्री"
-"PUBLISH YEAR" = "1915"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "76"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "ब्रह्मवादीन-प्रेस्"
-"SERIAL NO." = "Ebharati-5600"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyMzY1NzU5ODc1NzM1&pageno=MjI0MjQyNjk5NTk="
 title = "वैदेहीविवासनम्"
+author = "टि.एस्. नारायणशास्त्री"
+"publish year" = "1915"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "76"
+language = "संस्कृतम्"
+printer = "ब्रह्मवादीन-प्रेस्"
+"serial no." = "Ebharati-5600"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyMzY1NzU5ODc1NzM1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वैदेहीविवासनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDAyMzY1NzU5ODc1NzM1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1451,19 +1450,6 @@ T. S. NARAYANASASTRI,
 
 ![](../books_images/U-IMG-1727666821वैदेहि76.JPG)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

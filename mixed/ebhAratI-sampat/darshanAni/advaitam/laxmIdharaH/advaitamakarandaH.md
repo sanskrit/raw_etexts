@@ -1,18 +1,17 @@
 +++
-TITLE = "अद्वैतमकरन्दः"
-AUTHOR = "लक्ष्मीधरः"
-PUBLISHER = "हरिप्रसाददासः"
-"PUBLISH YEAR" = "२०१४"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "56"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "स्वयंप्रकाशयतिः"
-"COMMENTARY NAME" = "टीका"
-PRINTER = "हरिप्रसाददासः"
-"SERIAL NO." = "Ebharati-2116"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU5NDY5ODQwODIxMzAy&pageno=MjI0MjQyNjk5NTk="
 title = "अद्वैतमकरन्दः"
+author = "लक्ष्मीधरः"
+publisher = "हरिप्रसाददासः"
+"publish year" = "२०१४"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "56"
+language = "संस्कृतम्"
+"primary commentator" = "स्वयंप्रकाशयतिः"
+"commentary name" = "टीका"
+printer = "हरिप्रसाददासः"
+"serial no." = "Ebharati-2116"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU5NDY5ODQwODIxMzAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अद्वैतमकरन्दः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjU5NDY5ODQwODIxMzAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2288,8 +2287,5 @@ Sज्ञानं कथं स्पृशेदावृणुयात् ?
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,13 +1,12 @@
 +++
-TITLE = "नामान्थविवेचनम्"
-AUTHOR = "एन् एस् रामानुजताताचार्यः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4103"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY0NzU2Mjg1Mjc4Mzkz&pageno=MjI0MjQyNjk5NTk="
 title = "नामान्थविवेचनम्"
+author = "एन् एस् रामानुजताताचार्यः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4103"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY0NzU2Mjg1Mjc4Mzkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नामान्थविवेचनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjY0NzU2Mjg1Mjc4Mzkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -101,8 +100,5 @@ title = "नामान्थविवेचनम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

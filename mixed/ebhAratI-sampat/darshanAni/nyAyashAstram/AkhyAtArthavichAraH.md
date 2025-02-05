@@ -1,13 +1,12 @@
 +++
-TITLE = "आख्यातार्थविचारः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"COMMENTARY NAME" = "भाट्टमतम् मणिग्रन्थमतम्"
-"SERIAL NO." = "Ebharati-4046"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE0OTM4Njk3MDA0ODgz&pageno=MjI0MjQyNjk5NTk="
 title = "आख्यातार्थविचारः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"commentary name" = "भाट्टमतम् मणिग्रन्थमतम्"
+"serial no." = "Ebharati-4046"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE0OTM4Njk3MDA0ODgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आख्यातार्थविचारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE0OTM4Njk3MDA0ODgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2011,8 +2010,5 @@ title = "आख्यातार्थविचारः"
 **     
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

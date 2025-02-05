@@ -1,12 +1,11 @@
 +++
-TITLE = "सन्यासोपनिषद् सुभाषितसङ्ग्रहः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "उपनिषत्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4155"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0MzYyNzgzNDY4ODkz&pageno=MjI0MjQyNjk5NTk="
 title = "सन्यासोपनिषद् सुभाषितसङ्ग्रहः"
+domain = "सुभाषितानि"
+sub-domain = "उपनिषत्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4155"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0MzYyNzgzNDY4ODkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सन्यासोपनिषद् सुभाषितसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE0MzYyNzgzNDY4ODkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -29,8 +28,5 @@ title = "सन्यासोपनिषद् सुभाषितसङ्�
 
 ** -------------------**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

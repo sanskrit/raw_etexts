@@ -1,11 +1,10 @@
 +++
-TITLE = "मेघप्रतिसन्देशः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2984"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODQyNzgzNzg3MjU0Njgy"
 title = "मेघप्रतिसन्देशः"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2984"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODQyNzgzNzg3MjU0Njgy"
 
 +++
 [[मेघप्रतिसन्देशः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODQyNzgzNzg3MjU0Njgy)]]

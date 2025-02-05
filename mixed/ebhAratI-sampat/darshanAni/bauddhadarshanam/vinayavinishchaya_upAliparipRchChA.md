@@ -1,12 +1,11 @@
 +++
-TITLE = "विनयविनिश्चय उपालिपरिपृच्छा"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3845"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk1MjExMjU1NTAxOTYz&pageno=MjI0MjQyNjk5NTk="
 title = "विनयविनिश्चय उपालिपरिपृच्छा"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3845"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk1MjExMjU1NTAxOTYz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विनयविनिश्चय उपालिपरिपृच्छा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDk1MjExMjU1NTAxOTYz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -50,8 +49,5 @@ title = "विनयविनिश्चय उपालिपरिपृच�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

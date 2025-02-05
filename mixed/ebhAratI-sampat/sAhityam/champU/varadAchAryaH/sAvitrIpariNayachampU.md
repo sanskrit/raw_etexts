@@ -1,12 +1,11 @@
 +++
-TITLE = "सावित्रीपरिणयचम्पू"
-AUTHOR = "वरदाचार्यः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "चम्पू"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2756"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMwNTExNDQ2NTY1NDYy"
 title = "सावित्रीपरिणयचम्पू"
+author = "वरदाचार्यः"
+domain = "साहित्यम्"
+sub-domain = "चम्पू"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2756"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMwNTExNDQ2NTY1NDYy"
 
 +++
 [[सावित्रीपरिणयचम्पू	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjMwNTExNDQ2NTY1NDYy)]]

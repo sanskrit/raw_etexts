@@ -1,18 +1,17 @@
 +++
-TITLE = "काव्यप्रकाशः"
-AUTHOR = "मम्मटभट्टः"
-"PUBLISH YEAR" = "1922"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "544"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शमाशास्त्री"
-"PRIMARY COMMENTATOR" = "माणिक्यचन्द्रः"
-"COMMENTARY NAME" = "सङ्केतः"
-PRINTER = "राजकीयमुद्रणयन्त्रालयः"
-"SERIAL NO." = "Ebharati-6015"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMzODYxODkzNzE0Nzc1&pageno=MjI0MjQyNjk5NTk="
 title = "काव्यप्रकाशः"
+author = "मम्मटभट्टः"
+"publish year" = "1922"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "544"
+language = "संस्कृतम्"
+editor = "शमाशास्त्री"
+"primary commentator" = "माणिक्यचन्द्रः"
+"commentary name" = "सङ्केतः"
+printer = "राजकीयमुद्रणयन्त्रालयः"
+"serial no." = "Ebharati-6015"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMzODYxODkzNzE0Nzc1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[काव्यप्रकाशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDMzODYxODkzNzE0Nzc1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -11652,19 +11651,6 @@ the Kavyaprakasa it may be inferred that Mammata himself succeeded in getting ri
 
 ![](../books_images/U-IMG-1723401891Capture3.JPG)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,12 +1,11 @@
 +++
-TITLE = "लघुकथासङ्ग्रहः-४"
-DOMAIN = "सरलसंस्कृतम्"
-SUB-DOMAIN = "लघुकथासङ्ग्रहः"
-PAGES = "76"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8294"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODYwODQ2NDM4MjkxNjk3&pageno=MjI0MjQyNjk5NTk="
 title = "लघुकथासङ्ग्रहः-४"
+domain = "सरलसंस्कृतम्"
+sub-domain = "लघुकथासङ्ग्रहः"
+pages = "76"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8294"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODYwODQ2NDM4MjkxNjk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लघुकथासङ्ग्रहः-४	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODYwODQ2NDM4MjkxNjk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1139,8 +1138,5 @@ title = "लघुकथासङ्ग्रहः-४"
 
 ** तद्दिनात् आरभ्यगणेशःरमा च परिश्रमेण कार्यं कुर्वन्तौ सुखेन जीवनं यापितवन्तौ।**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

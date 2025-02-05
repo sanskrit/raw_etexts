@@ -1,12 +1,11 @@
 +++
-TITLE = "कल्पराजधारणी"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3733"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIzMTY5Mjc5MzUzODUz&pageno=MjI0MjQyNjk5NTk="
 title = "कल्पराजधारणी"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3733"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIzMTY5Mjc5MzUzODUz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कल्पराजधारणी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjIzMTY5Mjc5MzUzODUz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -94,8 +93,5 @@ title = "कल्पराजधारणी"
 
 ------------------------------------------------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

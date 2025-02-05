@@ -1,13 +1,12 @@
 +++
-TITLE = "न्यायबिन्दुः विस्तरटीकायुतः"
-AUTHOR = "धर्मकीर्तिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3881"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjg3OTM4NjE0MTY1Mjcz"
 title = "न्यायबिन्दुः विस्तरटीकायुतः"
+author = "धर्मकीर्तिः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3881"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjg3OTM4NjE0MTY1Mjcz"
 
 +++
 [[न्यायबिन्दुः विस्तरटीकायुतः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=Mjg3OTM4NjE0MTY1Mjcz)]]

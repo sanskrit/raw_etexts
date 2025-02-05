@@ -1,17 +1,16 @@
 +++
-TITLE = "मयमतम्"
-AUTHOR = "मयमुनिः"
-PUBLISHER = "ओथोरिटि-आफ्-गवर्नमेण्ट्"
-"PUBLISH YEAR" = "1919"
-DOMAIN = "भारतीयविज्ञानम्"
-SUB-DOMAIN = "शिल्पशास्त्रम्"
-PAGES = "343"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "त. गणपति-शास्त्री"
-PRINTER = "राजकीयमुद्रणयन्त्रालयः"
-"SERIAL NO." = "Ebharati-7593"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQyMDE3ODY0OTk4ODI3&pageno=MjI0MjQyNjk5NTk="
 title = "मयमतम्"
+author = "मयमुनिः"
+publisher = "ओथोरिटि-आफ्-गवर्नमेण्ट्"
+"publish year" = "1919"
+domain = "भारतीयविज्ञानम्"
+sub-domain = "शिल्पशास्त्रम्"
+pages = "343"
+language = "संस्कृतम्"
+editor = "त. गणपति-शास्त्री"
+printer = "राजकीयमुद्रणयन्त्रालयः"
+"serial no." = "Ebharati-7593"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQyMDE3ODY0OTk4ODI3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[मयमतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQyMDE3ODY0OTk4ODI3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7714,19 +7713,6 @@ with the kind help of the Curator.
 
 
 **—****—****—**  
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

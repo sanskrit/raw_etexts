@@ -1,18 +1,17 @@
 +++
-TITLE = "चोलचम्पूः"
-AUTHOR = "विरूपाक्षः"
-PUBLISHER = "गोपालन् एस्."
-"PUBLISH YEAR" = "1951"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "चम्पू"
-PAGES = "83"
-LANGUAGE = "संस्कॄतम्"
-EDITOR = "चन्द्रशेखरन् टि."
-"PRIMARY COMMENTATOR" = "राघवन् वि."
-PRINTER = "दि मड्रास् ला जर्नल् प्रेस् मैलापुरः मड्रास्"
-"SERIAL NO." = "Ebharati-8809"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkzNTk0OTk4MDM2NTQ4&pageno=MjI0MjQyNjk5NTk="
 title = "चोलचम्पूः"
+author = "विरूपाक्षः"
+publisher = "गोपालन् एस्."
+"publish year" = "1951"
+domain = "काव्यानि"
+sub-domain = "चम्पू"
+pages = "83"
+language = "संस्कॄतम्"
+editor = "चन्द्रशेखरन् टि."
+"primary commentator" = "राघवन् वि."
+printer = "दि मड्रास् ला जर्नल् प्रेस् मैलापुरः मड्रास्"
+"serial no." = "Ebharati-8809"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkzNTk0OTk4MDM2NTQ4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[चोलचम्पूः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODkzNTk0OTk4MDM2NTQ4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1395,19 +1394,6 @@ Madras.
 **इति श्रीभविष्योत्तरे महापुराणे देवचोल-शशिशेखरचोलचरिते ( तं नाम)  
 अष्टमोऽध्यायः ।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

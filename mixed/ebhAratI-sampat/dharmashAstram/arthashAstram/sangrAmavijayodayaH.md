@@ -1,16 +1,15 @@
 +++
-TITLE = "सङ्ग्रामविजयोदयः"
-PUBLISHER = "महाराजः"
-"PUBLISH YEAR" = "1936"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "अर्थशास्त्रम्"
-PAGES = "253"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "के. साम्बशिवशास्त्री"
-PRINTER = "राजकीय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5217"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc1NTE3NjkzMjE4MDA1&pageno=MjI0MjQyNjk5NTk="
 title = "सङ्ग्रामविजयोदयः"
+publisher = "महाराजः"
+"publish year" = "1936"
+domain = "धर्मशास्त्रम्"
+sub-domain = "अर्थशास्त्रम्"
+pages = "253"
+language = "संस्कृतम्"
+editor = "के. साम्बशिवशास्त्री"
+printer = "राजकीय-मुद्रणालयः"
+"serial no." = "Ebharati-5217"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc1NTE3NjkzMjE4MDA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सङ्ग्रामविजयोदयः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDc1NTE3NjkzMjE4MDA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7654,19 +7653,6 @@ K. SĀMBAŚIVA ŚĀSTRĪ.**
 
 
 **शुभं भूयात्॥**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

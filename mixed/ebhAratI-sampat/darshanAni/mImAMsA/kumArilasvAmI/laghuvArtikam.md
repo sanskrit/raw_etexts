@@ -1,12 +1,11 @@
 +++
-TITLE = "लघुवार्तिकम्"
-AUTHOR = "कुमारिलस्वामी"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2483"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI4MzM5OTY2ODUzODMy"
 title = "लघुवार्तिकम्"
+author = "कुमारिलस्वामी"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2483"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI4MzM5OTY2ODUzODMy"
 
 +++
 [[लघुवार्तिकम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjI4MzM5OTY2ODUzODMy)]]

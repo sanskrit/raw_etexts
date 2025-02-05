@@ -1,15 +1,14 @@
 +++
-TITLE = "श्रीविक्टोरियाचरितसंग्रहः"
-AUTHOR = "केरलवर्मवलियकोयिल्तम्पुरन्"
-"PUBLISH YEAR" = "1887"
-DOMAIN = "आधुनिकसाहित्यम्"
-SUB-DOMAIN = "आधुनिकसाहित्यम्"
-PAGES = "61"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6204"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwNjg5Nzg2MDY1NTk1&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीविक्टोरियाचरितसंग्रहः"
+author = "केरलवर्मवलियकोयिल्तम्पुरन्"
+"publish year" = "1887"
+domain = "आधुनिकसाहित्यम्"
+sub-domain = "आधुनिकसाहित्यम्"
+pages = "61"
+language = "संस्कृतम्"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-6204"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwNjg5Nzg2MDY1NTk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीविक्टोरियाचरितसंग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODgwNjg5Nzg2MDY1NTk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1501,19 +1500,6 @@ TRIVANDRUM,
 |     २२      |        न्स        |     त्स     |
 
 **सर्वत्र 'व्हिक्टोरिया' इत्यस्य स्थाने 'विक्तोरिया' इति.**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

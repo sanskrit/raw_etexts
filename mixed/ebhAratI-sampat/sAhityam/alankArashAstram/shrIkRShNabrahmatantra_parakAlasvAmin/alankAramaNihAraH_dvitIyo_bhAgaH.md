@@ -1,16 +1,15 @@
 +++
-TITLE = "अलङ्कारमणिहारः द्वितीयो भागः"
-AUTHOR = "श्रीकृष्णब्रह्मतन्त्र परकालस्वामिन्"
-"PUBLISH YEAR" = "1921"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "521"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "आर्.शामाशास्त्रिः"
-PRINTER = "गवर्नमेन्ट् ब्राञ्च् प्रेस् मैसूरु"
-"SERIAL NO." = "Ebharati-5885"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc0MzU2Njg4NzM5NDY1&pageno=MjI0MjQyNjk5NTk="
 title = "अलङ्कारमणिहारः द्वितीयो भागः"
+author = "श्रीकृष्णब्रह्मतन्त्र परकालस्वामिन्"
+"publish year" = "1921"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "521"
+language = "संस्कृतम्"
+editor = "आर्.शामाशास्त्रिः"
+printer = "गवर्नमेन्ट् ब्राञ्च् प्रेस् मैसूरु"
+"serial no." = "Ebharati-5885"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc0MzU2Njg4NzM5NDY1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अलङ्कारमणिहारः द्वितीयो भागः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc0MzU2Njg4NzM5NDY1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8229,8 +8228,5 @@ PRINTED AT THE GOVERNMENT BRANCH PRESS
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

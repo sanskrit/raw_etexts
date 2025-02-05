@@ -1,17 +1,16 @@
 +++
-TITLE = "Raghu Vira Kosha Alphabet L"
-AUTHOR = "Raghu Vira"
-PUBLISHER = "International academy of indian culture New delhi"
-"PUBLISH YEAR" = "1976"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "रघुवीरकोशः"
-PAGES = "60"
-LANGUAGE = "English-Hindi"
-"BOOKS CONTRIBUTOR" = "डा. शशिबाला"
-PRINTER = "Jayyed Press Delhi6"
-"SERIAL NO." = "Ebharati-5251"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI5NzU5ODYyNjcwNDA1&pageno=MjI0MjQyNjk5NTk="
 title = "Raghu Vira Kosha Alphabet L"
+author = "Raghu Vira"
+publisher = "International academy of indian culture New delhi"
+"publish year" = "1976"
+domain = "कोषाः"
+sub-domain = "रघुवीरकोशः"
+pages = "60"
+language = "English-Hindi"
+"books contributor" = "डा. शशिबाला"
+printer = "Jayyed Press Delhi6"
+"serial no." = "Ebharati-5251"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI5NzU5ODYyNjcwNDA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[Raghu Vira Kosha Alphabet L	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjI5NzU5ODYyNjcwNDA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7763,8 +7762,5 @@ lyxose** (anagram of *xylose*; closely related to xylose काष्ठधु) 
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,16 +1,15 @@
 +++
-TITLE = "सुनीति कुसुम माला सटीका"
-PUBLISHER = "सुब्रह्मण्य-शास्त्रीरः"
-"PUBLISH YEAR" = "1927"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "79"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "अप्पा-वाजपेयः"
-PRINTER = "जनार्दन-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6464"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA4NTEwMTE3OTE1MDI2&pageno=MjI0MjQyNjk5NTk="
 title = "सुनीति कुसुम माला सटीका"
+publisher = "सुब्रह्मण्य-शास्त्रीरः"
+"publish year" = "1927"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "79"
+language = "संस्कृतम्"
+"primary commentator" = "अप्पा-वाजपेयः"
+printer = "जनार्दन-मुद्रणालयः"
+"serial no." = "Ebharati-6464"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA4NTEwMTE3OTE1MDI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुनीति कुसुम माला सटीका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODA4NTEwMTE3OTE1MDI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1777,8 +1776,5 @@ Cகன்போ டியைந்த தொடர்பு.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

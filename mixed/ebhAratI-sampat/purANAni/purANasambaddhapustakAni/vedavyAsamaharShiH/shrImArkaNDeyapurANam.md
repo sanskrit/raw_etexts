@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीमार्कण्डेयपुराणम्"
-AUTHOR = "वेदव्यासमहर्षिः"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "पुराणसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2739"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU4Mzk5NzA3MzM5MjYy"
 title = "श्रीमार्कण्डेयपुराणम्"
+author = "वेदव्यासमहर्षिः"
+domain = "पुराणानि"
+sub-domain = "पुराणसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2739"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU4Mzk5NzA3MzM5MjYy"
 
 +++
 [[श्रीमार्कण्डेयपुराणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODU4Mzk5NzA3MzM5MjYy)]]

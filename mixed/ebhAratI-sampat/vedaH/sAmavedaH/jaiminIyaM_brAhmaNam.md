@@ -1,12 +1,11 @@
 +++
-TITLE = "जैमिनीयं ब्राह्मणम्"
-DOMAIN = "वेदः"
-SUB-DOMAIN = "सामवेदः"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4368"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyOTk4Njg1MTEzOTE0"
 title = "जैमिनीयं ब्राह्मणम्"
+domain = "वेदः"
+sub-domain = "सामवेदः"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4368"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyOTk4Njg1MTEzOTE0"
 
 +++
 [[जैमिनीयं ब्राह्मणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyOTk4Njg1MTEzOTE0)]]

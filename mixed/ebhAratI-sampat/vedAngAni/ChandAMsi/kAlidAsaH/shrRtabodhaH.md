@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रृतबोधः"
-AUTHOR = "कालिदासः"
-"PUBLISH YEAR" = "1882"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "छन्दांसि"
-PAGES = "24"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "हरिप्रसादशर्मा"
-"PRIMARY COMMENTATOR" = "कालिदासः"
-"SERIAL NO." = "Ebharati-7277"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4NDAxNjU2NDY1ODk2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रृतबोधः"
+author = "कालिदासः"
+"publish year" = "1882"
+domain = "वेदाङ्गानि"
+sub-domain = "छन्दांसि"
+pages = "24"
+language = "संस्कृतम्"
+editor = "हरिप्रसादशर्मा"
+"primary commentator" = "कालिदासः"
+"serial no." = "Ebharati-7277"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4NDAxNjU2NDY1ODk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रृतबोधः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk4NDAxNjU2NDY1ODk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -669,8 +668,5 @@ title = "श्रृतबोधः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

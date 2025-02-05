@@ -1,12 +1,11 @@
 +++
-TITLE = "शिवसूत्रवार्तिकम्"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4014"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA5MTgwNzE5ODIzNTgz&pageno=MjI0MjQyNjk5NTk="
 title = "शिवसूत्रवार्तिकम्"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4014"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA5MTgwNzE5ODIzNTgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शिवसूत्रवार्तिकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODA5MTgwNzE5ODIzNTgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1001,8 +1000,5 @@ title = "शिवसूत्रवार्तिकम्"
 
 ---------------------------------------------------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

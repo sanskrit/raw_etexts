@@ -1,12 +1,11 @@
 +++
-TITLE = "पञ्चपादिकाविवरणम्"
-AUTHOR = "प्रकाशात्मन्"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2440"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDg2OTA1MTM4MDMyNDMy"
 title = "पञ्चपादिकाविवरणम्"
+author = "प्रकाशात्मन्"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2440"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDg2OTA1MTM4MDMyNDMy"
 
 +++
 [[पञ्चपादिकाविवरणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDg2OTA1MTM4MDMyNDMy)]]

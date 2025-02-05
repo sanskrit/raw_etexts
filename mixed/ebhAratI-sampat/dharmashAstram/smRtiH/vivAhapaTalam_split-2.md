@@ -1,14 +1,13 @@
 +++
-TITLE = "विवाहपटलम् split-2"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "41"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "कृष्णशंकरः केशवरामः रैक्वः"
-PRINTER = "पाण्डुरङ्गः जावजी"
-"SERIAL NO." = "Ebharati-5085"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NTE3Mjk4MDQxODg0&pageno=MjI0MjQyNjk5NTk="
 title = "विवाहपटलम् split-2"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "41"
+language = "संस्कृतम्"
+editor = "कृष्णशंकरः केशवरामः रैक्वः"
+printer = "पाण्डुरङ्गः जावजी"
+"serial no." = "Ebharati-5085"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NTE3Mjk4MDQxODg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विवाहपटलम् split-2	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NTE3Mjk4MDQxODg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3918,8 +3917,5 @@ Printer :-Ramchandra Yesu Shedge,
 
 **॥ इति श्रीमद्गौडज्ञातीयपंडितरामात्मजेन पीतांबरेण विरचितं नाडीमानविवाहपटलं संपूर्णम् ॥**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

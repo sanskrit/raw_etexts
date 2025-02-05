@@ -1,12 +1,11 @@
 +++
-TITLE = "रसार्णवसुधाकरम्"
-AUTHOR = "सिंहभूपालः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2689"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU3Mjc4NTk4MzMxODUy"
 title = "रसार्णवसुधाकरम्"
+author = "सिंहभूपालः"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2689"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU3Mjc4NTk4MzMxODUy"
 
 +++
 [[रसार्णवसुधाकरम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODU3Mjc4NTk4MzMxODUy)]]

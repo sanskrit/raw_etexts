@@ -1,17 +1,16 @@
 +++
-TITLE = "वीरमित्रोदय-राजनीतिप्रकाशः (चतुर्थो भागः)"
-AUTHOR = "मित्रमिश्रः"
-PUBLISHER = "ज्येष्ठराम-मुकुन्दजी"
-"PUBLISH YEAR" = "1916"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "495"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "विष्णुप्रसादः"
-PRINTER = "जयकृष्णदासगुप्त-विद्यविलास-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6450"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA5MTI2MzY3NTcxOTE2&pageno=MjI0MjQyNjk5NTk="
 title = "वीरमित्रोदय-राजनीतिप्रकाशः (चतुर्थो भागः)"
+author = "मित्रमिश्रः"
+publisher = "ज्येष्ठराम-मुकुन्दजी"
+"publish year" = "1916"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "495"
+language = "संस्कृतम्"
+editor = "विष्णुप्रसादः"
+printer = "जयकृष्णदासगुप्त-विद्यविलास-यन्त्रालयः"
+"serial no." = "Ebharati-6450"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA5MTI2MzY3NTcxOTE2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वीरमित्रोदय-राजनीतिप्रकाशः (चतुर्थो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA5MTI2MzY3NTcxOTE2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -17770,8 +17769,5 @@ at the Vidya Vilas Press.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

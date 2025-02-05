@@ -1,18 +1,17 @@
 +++
-TITLE = "माधवनिदानम्"
-AUTHOR = "माधवकरः"
-PUBLISHER = "रामकुमार-बुक्डिपो"
-"PUBLISH YEAR" = "1951"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "596"
-LANGUAGE = "संस्कृतम् हिन्दी"
-TRANSLATOR = "चण्डिकाप्रसादअवस्थी"
-EDITOR = "गोपालप्रसादकौशिकः"
-PRINTER = "नवलकिशोरमुद्रणालयम् लखनऊ"
-"SERIAL NO." = "Ebharati-8844"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODYxMDg5NzY3MDk5ODQ4&pageno=MjI0MjQyNjk5NTk="
 title = "माधवनिदानम्"
+author = "माधवकरः"
+publisher = "रामकुमार-बुक्डिपो"
+"publish year" = "1951"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "596"
+language = "संस्कृतम् हिन्दी"
+translator = "चण्डिकाप्रसादअवस्थी"
+editor = "गोपालप्रसादकौशिकः"
+printer = "नवलकिशोरमुद्रणालयम् लखनऊ"
+"serial no." = "Ebharati-8844"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODYxMDg5NzY3MDk5ODQ4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[माधवनिदानम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODYxMDg5NzY3MDk5ODQ4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -15273,8 +15272,5 @@ title = "माधवनिदानम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

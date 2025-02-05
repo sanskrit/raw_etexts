@@ -1,12 +1,11 @@
 +++
-TITLE = "श्रीहरिनामचिन्तामणिः"
-AUTHOR = "श्रीभक्तिविनोदठाकुरः"
-DOMAIN = "भक्तिसम्प्रदायः"
-SUB-DOMAIN = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2673"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5Nzk1NjUy"
 title = "श्रीहरिनामचिन्तामणिः"
+author = "श्रीभक्तिविनोदठाकुरः"
+domain = "भक्तिसम्प्रदायः"
+sub-domain = "भक्तिसम्प्रदायसम्बद्धपुस्तकानि"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2673"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5Nzk1NjUy"
 
 +++
 [[श्रीहरिनामचिन्तामणिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5Nzk1NjUy)]]

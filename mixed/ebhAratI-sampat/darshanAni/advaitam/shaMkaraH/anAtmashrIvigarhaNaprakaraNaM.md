@@ -1,12 +1,11 @@
 +++
-TITLE = "अनात्मश्रीविगर्हणप्रकरणं"
-AUTHOR = "शंकरः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2536"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxMjg3MDc0NjQ0MzQy&pageno=MjI0MjQyNjk5NTk="
 title = "अनात्मश्रीविगर्हणप्रकरणं"
+author = "शंकरः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2536"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxMjg3MDc0NjQ0MzQy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अनात्मश्रीविगर्हणप्रकरणं	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjkxMjg3MDc0NjQ0MzQy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -283,8 +282,5 @@ title = "अनात्मश्रीविगर्हणप्रकरण�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

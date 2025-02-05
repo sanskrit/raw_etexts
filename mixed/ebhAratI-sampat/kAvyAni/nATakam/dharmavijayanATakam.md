@@ -1,15 +1,14 @@
 +++
-TITLE = "धर्मविजयनाटकम्"
-"PUBLISH YEAR" = "1930"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "131"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गोपीनाथकविराजः"
-PRINTER = "विद्याविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5410"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIwMzA1MTc2OTMzOTE1&pageno=MjI0MjQyNjk5NTk="
 title = "धर्मविजयनाटकम्"
+"publish year" = "1930"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "131"
+language = "संस्कृतम्"
+editor = "गोपीनाथकविराजः"
+printer = "विद्याविलास-मुद्रणालयः"
+"serial no." = "Ebharati-5410"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIwMzA1MTc2OTMzOTE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[धर्मविजयनाटकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDIwMzA1MTc2OTMzOTE1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4305,8 +4304,5 @@ M.A. (MADRAS), M.R.A.S.,
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

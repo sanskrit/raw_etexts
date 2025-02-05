@@ -1,15 +1,14 @@
 +++
-TITLE = "अभिनवसंस्कृतपाठमाला"
-PUBLISHER = "लक्ष्मणनारायणः"
-"PUBLISH YEAR" = "1937"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "373"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "आर्यभूषण-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6966"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU2MTE3NDI4OTA3ODY2&pageno=MjI0MjQyNjk5NTk="
 title = "अभिनवसंस्कृतपाठमाला"
+publisher = "लक्ष्मणनारायणः"
+"publish year" = "1937"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "373"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "आर्यभूषण-यन्त्रालयः"
+"serial no." = "Ebharati-6966"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU2MTE3NDI4OTA3ODY2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अभिनवसंस्कृतपाठमाला	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjU2MTE3NDI4OTA3ODY2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8440,8 +8439,5 @@ his life. अश्वमेधतुरगानुसारी who followed th
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

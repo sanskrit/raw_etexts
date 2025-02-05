@@ -1,15 +1,14 @@
 +++
-TITLE = "माथुरीव्याप्तिपञ्चकशतकोटिः लक्ष्मीविवृतियुता"
-AUTHOR = "गुम्मलूरिसंगमेश्वरशास्त्री"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"PRIMARY COMMENTATOR" = "पाण्डुरङ्गीवीरनारायणाचार्य"
-"COMMENTARY NAME" = "लक्ष्मीविवृतिः"
-"SERIAL NO." = "Ebharati-4061"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjQ3NTc0MDQ3MDQ4OTgz"
 title = "माथुरीव्याप्तिपञ्चकशतकोटिः लक्ष्मीविवृतियुता"
+author = "गुम्मलूरिसंगमेश्वरशास्त्री"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"primary commentator" = "पाण्डुरङ्गीवीरनारायणाचार्य"
+"commentary name" = "लक्ष्मीविवृतिः"
+"serial no." = "Ebharati-4061"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjQ3NTc0MDQ3MDQ4OTgz"
 
 +++
 [[माथुरीव्याप्तिपञ्चकशतकोटिः लक्ष्मीविवृतियुता	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjQ3NTc0MDQ3MDQ4OTgz)]]

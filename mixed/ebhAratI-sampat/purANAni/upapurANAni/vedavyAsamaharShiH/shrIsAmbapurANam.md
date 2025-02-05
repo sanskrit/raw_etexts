@@ -1,13 +1,12 @@
 +++
-TITLE = "श्रीसाम्बपुराणम्"
-AUTHOR = "वेदव्यासमहर्षिः"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "उपपुराणानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2868"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIyNzEzNTcy"
 title = "श्रीसाम्बपुराणम्"
+author = "वेदव्यासमहर्षिः"
+domain = "पुराणानि"
+sub-domain = "उपपुराणानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2868"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIyNzEzNTcy"
 
 +++
 [[श्रीसाम्बपुराणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIyNzEzNTcy)]]

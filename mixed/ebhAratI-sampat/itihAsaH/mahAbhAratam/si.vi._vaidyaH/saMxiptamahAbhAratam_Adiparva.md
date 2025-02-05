@@ -1,16 +1,15 @@
 +++
-TITLE = "संक्षिप्तमहाभारतम् (आदिपर्व)"
-AUTHOR = "सि.वि. वैद्यः"
-PUBLISHER = "रामचन्दगोविन्द-एण्ड-सन्स्"
-"PUBLISH YEAR" = "1921"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "महाभारतम्"
-PAGES = "513"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "बोम्बेवैभव-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6072"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgzNjg5MzgxOTg4Mjg1&pageno=MjI0MjQyNjk5NTk="
 title = "संक्षिप्तमहाभारतम् (आदिपर्व)"
+author = "सि.वि. वैद्यः"
+publisher = "रामचन्दगोविन्द-एण्ड-सन्स्"
+"publish year" = "1921"
+domain = "इतिहासः"
+sub-domain = "महाभारतम्"
+pages = "513"
+language = "संस्कृतम्"
+printer = "बोम्बेवैभव-मुद्रणालयः"
+"serial no." = "Ebharati-6072"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgzNjg5MzgxOTg4Mjg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संक्षिप्तमहाभारतम् (आदिपर्व)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDgzNjg5MzgxOTg4Mjg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -23637,19 +23636,6 @@ May 1909.
 
 ![](../books_images/U-IMG-1727166679Screenshot2024-09-24135938.png)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

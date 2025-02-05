@@ -1,17 +1,16 @@
 +++
-TITLE = "अच्युतरायाभ्युदयम्"
-AUTHOR = "राजनाथकविः"
-"PUBLISH YEAR" = "1907"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "169"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "कृष्णसूरिः"
-"COMMENTARY NAME" = "अभिनवभट्टबाणः"
-PRINTER = "विद्याविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5753"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY3MzU2MjgzNjYyMjU1&pageno=MjI0MjQyNjk5NTk="
 title = "अच्युतरायाभ्युदयम्"
+author = "राजनाथकविः"
+"publish year" = "1907"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "169"
+language = "संस्कृतम्"
+"primary commentator" = "कृष्णसूरिः"
+"commentary name" = "अभिनवभट्टबाणः"
+printer = "विद्याविलास-मुद्रणालयः"
+"serial no." = "Ebharati-5753"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY3MzU2MjgzNjYyMjU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अच्युतरायाभ्युदयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjY3MzU2MjgzNjYyMjU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2733,8 +2732,5 @@ perienced some difficulty in choosing the best readings from the different manus
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

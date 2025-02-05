@@ -1,12 +1,11 @@
 +++
-TITLE = "न्यायमुक्तावलिः"
-AUTHOR = "श्रीराघवेन्द्रयति"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3180"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY5MTA5MDUwODYyNTAz"
 title = "न्यायमुक्तावलिः"
+author = "श्रीराघवेन्द्रयति"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3180"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY5MTA5MDUwODYyNTAz"
 
 +++
 [[न्यायमुक्तावलिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDY5MTA5MDUwODYyNTAz)]]

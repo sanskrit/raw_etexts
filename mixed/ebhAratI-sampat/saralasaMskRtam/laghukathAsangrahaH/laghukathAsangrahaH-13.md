@@ -1,12 +1,11 @@
 +++
-TITLE = "लघुकथासङ्ग्रहः-१३"
-DOMAIN = "सरलसंस्कृतम्"
-SUB-DOMAIN = "लघुकथासङ्ग्रहः"
-PAGES = "84"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-8311"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQyOTY3MDc3NDI4Nzk3&pageno=MjI0MjQyNjk5NTk="
 title = "लघुकथासङ्ग्रहः-१३"
+domain = "सरलसंस्कृतम्"
+sub-domain = "लघुकथासङ्ग्रहः"
+pages = "84"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-8311"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQyOTY3MDc3NDI4Nzk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[लघुकथासङ्ग्रहः-१३	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQyOTY3MDc3NDI4Nzk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1471,8 +1470,5 @@ title = "लघुकथासङ्ग्रहः-१३"
 
  समीरः स्वकीयया युक्तिशक्त्या अपूर्वं कार्यं साधितवान् आसीत्। सर्वे देशहितार्थं तेन कृतस्य कार्यस्य प्रशंसां कृतवन्तः। महाराजः अवन्तिवर्मा अमूल्येन पारितोषिकेण तं सम्मानितवान्।
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

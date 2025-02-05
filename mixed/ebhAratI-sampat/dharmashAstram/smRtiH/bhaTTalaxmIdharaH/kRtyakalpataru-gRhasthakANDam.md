@@ -1,17 +1,16 @@
 +++
-TITLE = "कृत्यकल्पतरु-गृहस्थकाण्डम्"
-AUTHOR = "भट्टलक्ष्मीधरः"
-PUBLISHER = "बिनय्तोश-भट्टाचार्यः"
-"PUBLISH YEAR" = "1944"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "660"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रङ्गस्वामि-अय्यङ्गारः"
-PRINTER = "विद्याविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6438"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM4MjE3ODA4MzIwODE2&pageno=MjI0MjQyNjk5NTk="
 title = "कृत्यकल्पतरु-गृहस्थकाण्डम्"
+author = "भट्टलक्ष्मीधरः"
+publisher = "बिनय्तोश-भट्टाचार्यः"
+"publish year" = "1944"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "660"
+language = "संस्कृतम्"
+editor = "रङ्गस्वामि-अय्यङ्गारः"
+printer = "विद्याविलास-मुद्रणालयः"
+"serial no." = "Ebharati-6438"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM4MjE3ODA4MzIwODE2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कृत्यकल्पतरु-गृहस्थकाण्डम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM4MjE3ODA4MzIwODE2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1559,8 +1558,5 @@ EPILOGUE
 
  So ends Lakṣmīdhara's exposition of the life and duties of the bulk of the population in the most active period of life. His description relates chiefly to the life of the Brāhmaṇa householder, but the application of the rules, as far as may be possible, to the lives of the other **varṇas**, within the bounds prescribed for their activities, is expected. Entry into the last two **āśramas** is purely optional. One may remain in the world and be still out of it. It is expected that one should ordinarily do so. The dvija who has not fully discharged the triple debt vainly seeks final liberation, says [Manu](# "अनधीत्य द्विजो वेदाननुत्पाद्य तथा सुतान् । अनिष्ट्वाचैव यज्ञैश्चमोक्षमिच्छन्व्रजत्यधः॥ (मनु, ६, ३७),")." This is why one is expected to proceed to the last two āśrama only after a full life as a Gṛhastha. The Brahmacārin, who immediately after the completion of his studies takes up the last **āśramas**, is an exceptional person. He is not flying away from the temptations of married life, or fleeing the world in in fear of the wrath to come," like monastics of other religions. He feels he is unfit for married life, or has an aversion for it. To force him to become a Gṛhastha will be wrong. He is therefore allowed to become a **sanyasta**. The spiritual mastery, which he may attain in the last **āśramas**, must balance his by-passing the duty to discharge the triple debt in the married life. Regulated life in the family is by itself sufficient to ensure **mokṣa**. Human duty extends both vertically and laterally in time and in space. Man is a living link between
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

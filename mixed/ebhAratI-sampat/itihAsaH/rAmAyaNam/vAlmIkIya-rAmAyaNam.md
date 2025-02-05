@@ -1,16 +1,15 @@
 +++
-TITLE = "वाल्मीकीय-रामायणम्"
-PUBLISHER = "इण्डियन्-प्रेस्"
-"PUBLISH YEAR" = "1926"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "260"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रवीन्द्रनाथठाकुरः"
-PRINTER = "इण्डियन्-प्रेस्"
-"SERIAL NO." = "Ebharati-6144"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY3MDQ0MzE5MDA4OTg1&pageno=MjI0MjQyNjk5NTk="
 title = "वाल्मीकीय-रामायणम्"
+publisher = "इण्डियन्-प्रेस्"
+"publish year" = "1926"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "260"
+language = "संस्कृतम्"
+editor = "रवीन्द्रनाथठाकुरः"
+printer = "इण्डियन्-प्रेस्"
+"serial no." = "Ebharati-6144"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY3MDQ0MzE5MDA4OTg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वाल्मीकीय-रामायणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY3MDQ0MzE5MDA4OTg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8838,19 +8837,6 @@ Benares Branch.
 
 **             इति।**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

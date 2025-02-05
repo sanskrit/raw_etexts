@@ -1,16 +1,15 @@
 +++
-TITLE = "भागवतचम्पू (प्रथमो भागः)"
-AUTHOR = "बालराज्ञ्या"
-"PUBLISH YEAR" = "1925"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "चम्पू"
-PAGES = "49"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "नारायणसूरिः"
-PRINTER = "नोर्मन्-प्रिन्टिङ्ग-ब्युरो"
-"SERIAL NO." = "Ebharati-5260"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3OTMxNTMyMDQ5NDA1&pageno=MjI0MjQyNjk5NTk="
 title = "भागवतचम्पू (प्रथमो भागः)"
+author = "बालराज्ञ्या"
+"publish year" = "1925"
+domain = "काव्यानि"
+sub-domain = "चम्पू"
+pages = "49"
+language = "संस्कृतम्"
+editor = "नारायणसूरिः"
+printer = "नोर्मन्-प्रिन्टिङ्ग-ब्युरो"
+"serial no." = "Ebharati-5260"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3OTMxNTMyMDQ5NDA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भागवतचम्पू (प्रथमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDI3OTMxNTMyMDQ5NDA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1217,19 +1216,6 @@ title = "भागवतचम्पू (प्रथमो भागः)"
 
 **![](../books_images/U-IMG-1720346325Screenshot2024-07-07152659.png)**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

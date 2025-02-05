@@ -1,12 +1,11 @@
 +++
-TITLE = "स्वरपञ्चाशत्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3974"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIwNTgzNzYwOTg0MTgz&pageno=MjI0MjQyNjk5NTk="
 title = "स्वरपञ्चाशत्"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3974"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIwNTgzNzYwOTg0MTgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्वरपञ्चाशत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODIwNTgzNzYwOTg0MTgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -140,8 +139,5 @@ title = "स्वरपञ्चाशत्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

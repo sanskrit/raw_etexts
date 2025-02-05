@@ -1,15 +1,14 @@
 +++
-TITLE = "सुबोधरामचरितम्"
-AUTHOR = "वि. बालाम्बिका"
-"PUBLISH YEAR" = "1916"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "67"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "लाप्रिण्टिंग-प्रेस्"
-"SERIAL NO." = "Ebharati-6149"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc4MjU2NDk4MDgyMDk1&pageno=MjI0MjQyNjk5NTk="
 title = "सुबोधरामचरितम्"
+author = "वि. बालाम्बिका"
+"publish year" = "1916"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "67"
+language = "संस्कृतम्"
+printer = "लाप्रिण्टिंग-प्रेस्"
+"serial no." = "Ebharati-6149"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc4MjU2NDk4MDgyMDk1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सुबोधरामचरितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODc4MjU2NDk4MDgyMDk1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1045,19 +1044,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **• PRINTED AT THE LAW PRINTING HOUSE, MADRAS-1916.**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

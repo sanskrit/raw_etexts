@@ -1,18 +1,17 @@
 +++
-TITLE = "स्तवचिन्तामणिः"
-AUTHOR = "भट्टनारायणः"
-PUBLISHER = "प्रतापसिंहः"
-"PUBLISH YEAR" = "1918"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "161"
-LANGUAGE = "आङ्ग्लम्"
-EDITOR = "मुकुन्दरामशास्त्री"
-"PRIMARY COMMENTATOR" = "क्षेमराजः"
-PRINTER = "काश्मीरप्रताप-स्टीम्-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7129"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM0NjIyMjEyNzUzNDg2&pageno=MjI0MjQyNjk5NTk="
 title = "स्तवचिन्तामणिः"
+author = "भट्टनारायणः"
+publisher = "प्रतापसिंहः"
+"publish year" = "1918"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "161"
+language = "आङ्ग्लम्"
+editor = "मुकुन्दरामशास्त्री"
+"primary commentator" = "क्षेमराजः"
+printer = "काश्मीरप्रताप-स्टीम्-मुद्रणालयः"
+"serial no." = "Ebharati-7129"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM0NjIyMjEyNzUzNDg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्तवचिन्तामणिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODM0NjIyMjEyNzUzNDg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2408,19 +2407,6 @@ title = "स्तवचिन्तामणिः"
 
 द्वितीयपरिशिष्टभागश्च समाप्तः॥
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

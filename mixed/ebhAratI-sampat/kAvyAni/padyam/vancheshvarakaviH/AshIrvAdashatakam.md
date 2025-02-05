@@ -1,14 +1,13 @@
 +++
-TITLE = "आशीर्वादशतकम्"
-AUTHOR = "वन्चेश्वरकविः"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "पद्यम्"
-PAGES = "26"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "श्रीविद्याविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5772"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg3OTUyMTEzMDkwNDU1&pageno=MjI0MjQyNjk5NTk="
 title = "आशीर्वादशतकम्"
+author = "वन्चेश्वरकविः"
+domain = "काव्यानि"
+sub-domain = "पद्यम्"
+pages = "26"
+language = "संस्कृतम्"
+printer = "श्रीविद्याविलास-मुद्रणालयः"
+"serial no." = "Ebharati-5772"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg3OTUyMTEzMDkwNDU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आशीर्वादशतकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDg3OTUyMTEzMDkwNDU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -557,19 +556,6 @@ title = "आशीर्वादशतकम्"
 केशाम्भोराशिमज्जन्निखिलतनुभृतामुद्धृतौ बज्रबुद्धिः।  
 प्रत्यक्षीभूय साक्षात्प्रथयति भुवि यो देवलीलाविलासा–  
 सोऽयं संत्रायतां वः परिहृतविनमत्संकटो वेङ्कटेशः॥१०२॥**
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

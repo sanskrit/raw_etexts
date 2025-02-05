@@ -1,18 +1,17 @@
 +++
-TITLE = "वाक्यवृत्तिः"
-AUTHOR = "शङ्कराचार्यः"
-PUBLISHER = "हरि नारायण आपटे"
-"PUBLISH YEAR" = "1915"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतदर्शनम्"
-PAGES = "47"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रङ्गनाथशास्त्री वैद्या"
-"PRIMARY COMMENTATOR" = "विश्वेश्वरः"
-PRINTER = "आनन्दाश्रममुद्रणालयम्"
-"SERIAL NO." = "Ebharati-8650"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAzMDU5Njk0NzYzMDM4&pageno=MjI0MjQyNjk5NTk="
 title = "वाक्यवृत्तिः"
+author = "शङ्कराचार्यः"
+publisher = "हरि नारायण आपटे"
+"publish year" = "1915"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतदर्शनम्"
+pages = "47"
+language = "संस्कृतम्"
+editor = "रङ्गनाथशास्त्री वैद्या"
+"primary commentator" = "विश्वेश्वरः"
+printer = "आनन्दाश्रममुद्रणालयम्"
+"serial no." = "Ebharati-8650"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAzMDU5Njk0NzYzMDM4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वाक्यवृत्तिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDAzMDU5Njk0NzYzMDM4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -698,19 +697,6 @@ title = "वाक्यवृत्तिः"
 
 —————————
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

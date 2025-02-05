@@ -1,18 +1,17 @@
 +++
-TITLE = "खण्डखाद्यकं-करणम्"
-AUTHOR = "ब्रह्मगुप्तः"
-PUBLISHER = "कलिकाता-विश्वविद्यालयः"
-"PUBLISH YEAR" = "1941"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "185"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "श्रीप्रबोधचन्द्र-सेनगुप्तः"
-"PRIMARY COMMENTATOR" = "पृथूदक-स्वामिन्"
-"COMMENTARY NAME" = "खण्डखाद्यकविवरणम्"
-"SERIAL NO." = "Ebharati-5007"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU5NjA4NTgxMzU2MDg0&pageno=MjI0MjQyNjk5NTk="
 title = "खण्डखाद्यकं-करणम्"
+author = "ब्रह्मगुप्तः"
+publisher = "कलिकाता-विश्वविद्यालयः"
+"publish year" = "1941"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "185"
+language = "संस्कृतम्"
+editor = "श्रीप्रबोधचन्द्र-सेनगुप्तः"
+"primary commentator" = "पृथूदक-स्वामिन्"
+"commentary name" = "खण्डखाद्यकविवरणम्"
+"serial no." = "Ebharati-5007"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU5NjA4NTgxMzU2MDg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[खण्डखाद्यकं-करणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDU5NjA4NTgxMzU2MDg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2040,8 +2039,5 @@ P. C. SENGUPTA.
 
 **
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

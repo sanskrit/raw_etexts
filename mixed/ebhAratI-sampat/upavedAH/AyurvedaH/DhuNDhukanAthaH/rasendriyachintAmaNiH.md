@@ -1,12 +1,11 @@
 +++
-TITLE = "रसेन्द्रियचिन्तामणिः"
-AUTHOR = "ढुण्ढुकनाथः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2573"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjA4MTU3MTMzODk5NjQy"
 title = "रसेन्द्रियचिन्तामणिः"
+author = "ढुण्ढुकनाथः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2573"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjA4MTU3MTMzODk5NjQy"
 
 +++
 [[रसेन्द्रियचिन्तामणिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjA4MTU3MTMzODk5NjQy)]]

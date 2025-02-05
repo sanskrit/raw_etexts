@@ -1,16 +1,15 @@
 +++
-TITLE = "प्रेमगीता"
-AUTHOR = "बुद्धिसागरसूरिः"
-PUBLISHER = "मोहनलालहिमचन्दः"
-"PUBLISH YEAR" = "1927"
-DOMAIN = "अन्यगीताः"
-SUB-DOMAIN = "अन्यगीतासम्बद्धपुस्तकानि"
-PAGES = "82"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "आनन्द-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-6679"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NjMxMzA5ODUxMTQ2&pageno=MjI0MjQyNjk5NTk="
 title = "प्रेमगीता"
+author = "बुद्धिसागरसूरिः"
+publisher = "मोहनलालहिमचन्दः"
+"publish year" = "1927"
+domain = "अन्यगीताः"
+sub-domain = "अन्यगीतासम्बद्धपुस्तकानि"
+pages = "82"
+language = "संस्कृतम्"
+printer = "आनन्द-मुद्रणालयः"
+"serial no." = "Ebharati-6679"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NjMxMzA5ODUxMTQ2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रेमगीता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NjMxMzA5ODUxMTQ2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2806,19 +2805,6 @@ title = "प्रेमगीता"
 |:--------------------------------------------------------------:|
 | ![](../books_images/U-IMG-17242349926679-removebg-preview.png) |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

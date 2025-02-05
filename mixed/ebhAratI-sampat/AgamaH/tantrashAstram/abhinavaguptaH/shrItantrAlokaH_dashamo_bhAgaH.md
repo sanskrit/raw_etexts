@@ -1,18 +1,17 @@
 +++
-TITLE = "श्रीतन्त्रालोकः (दशमो भागः)"
-AUTHOR = "अभिनवगुप्तः"
-PUBLISHER = "निर्णयसागर-मुद्रणालयः"
-"PUBLISH YEAR" = "1933"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "384"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मधुसूदनकौलशास्त्री"
-"PRIMARY COMMENTATOR" = "राजानक-जयरथः"
-PRINTER = "निर्णयसागर-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7900"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA4MzMxNTEzMDczODU3&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीतन्त्रालोकः (दशमो भागः)"
+author = "अभिनवगुप्तः"
+publisher = "निर्णयसागर-मुद्रणालयः"
+"publish year" = "1933"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "384"
+language = "संस्कृतम्"
+editor = "मधुसूदनकौलशास्त्री"
+"primary commentator" = "राजानक-जयरथः"
+printer = "निर्णयसागर-मुद्रणालयः"
+"serial no." = "Ebharati-7900"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA4MzMxNTEzMDczODU3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीतन्त्रालोकः (दशमो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA4MzMxNTEzMDczODU3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8380,8 +8379,5 @@ Jammu and Kashmir Government, SRINAGAR.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,14 +1,13 @@
 +++
-TITLE = "जातकालङ्कारः"
-AUTHOR = "गणेशकविः"
-PUBLISHER = "चौखम्बा-सुरभारती"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "116"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-4934"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQxMDExMDY0NTQ2Mzc0&pageno=MjI0MjQyNjk5NTk="
 title = "जातकालङ्कारः"
+author = "गणेशकविः"
+publisher = "चौखम्बा-सुरभारती"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "116"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-4934"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQxMDExMDY0NTQ2Mzc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जातकालङ्कारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQxMDExMDY0NTQ2Mzc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2350,19 +2349,6 @@ title = "जातकालङ्कारः"
 ॥ समाप्तोऽयं ग्रन्थः ॥
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

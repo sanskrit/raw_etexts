@@ -1,12 +1,11 @@
 +++
-TITLE = "कठोपनिषत्"
-DOMAIN = "उपनिषदः"
-SUB-DOMAIN = "काठकोपनिषत्"
-PAGES = "140"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-"SERIAL NO." = "Ebharati-7218"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk5MTA4Nzc4MDA5Mjk2&pageno=MjI0MjQyNjk5NTk="
 title = "कठोपनिषत्"
+domain = "उपनिषदः"
+sub-domain = "काठकोपनिषत्"
+pages = "140"
+language = "संस्कृतम् आङ्ग्लम्"
+"serial no." = "Ebharati-7218"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk5MTA4Nzc4MDA5Mjk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कठोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk5MTA4Nzc4MDA5Mjk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1814,19 +1813,6 @@ the body; to be *śukram amṛtam*, pure and immortal—to be the Brahman previo
 
 *Avatu*, may He protect; *saha nau*, both of us together— by revealing the real nature of knowled-ge. Who? That supreme God Himself who is revealed in the Upanisads. Besides, *bhunaktu,* may He protect; *saha nau,* both of us together—by revealing the result of that knowledge. *Karavāvahai,* may we both accomplish; *saha,* together— jointly indeed; *vīryam,* the power— originating from knowledge. Moreover, let *adhītam*, the lesson; *tejasvinau* (is to be construed as *tejasvinoh*), of us two who are of sharp intellect (be befitting for us)— let what has been studied by us be well studi-ed. Or the meaning is: Let *nau adhitam*, what has been studied by us two; be very *tejasvi,* potent, invigorating *Mā vidviṣāvahai*, may we two not cavil at each other— i. e. may we not entertain that antagonism; subsisting between a disciple and his teacher owing to defects in study and teachingthat originate from unwitting lapses. Sānitiḥ, sāntiḥ, śāntiḥ, peace, peace, peace— this repetition for three times is to avert all [evils](# "On the three planes— physical, natural, and supernatural.").Om.
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

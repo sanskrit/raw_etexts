@@ -1,16 +1,15 @@
 +++
-TITLE = "निरुक्तलोचनम्"
-AUTHOR = "सत्यव्रतसमाश्रमि"
-PUBLISHER = "पि-हितव्रतसमाकान्तः"
-"PUBLISH YEAR" = "1907"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "निरुक्तम्"
-PAGES = "300"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "सत्य-प्रेस्-कलकत्ता"
-"SERIAL NO." = "Ebharati-7288"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MTc3NDE2MDI2OTk2&pageno=MjI0MjQyNjk5NTk="
 title = "निरुक्तलोचनम्"
+author = "सत्यव्रतसमाश्रमि"
+publisher = "पि-हितव्रतसमाकान्तः"
+"publish year" = "1907"
+domain = "वेदाङ्गानि"
+sub-domain = "निरुक्तम्"
+pages = "300"
+language = "संस्कृतम्"
+printer = "सत्य-प्रेस्-कलकत्ता"
+"serial no." = "Ebharati-7288"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MTc3NDE2MDI2OTk2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[निरुक्तलोचनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MTc3NDE2MDI2OTk2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3025,19 +3024,6 @@ title = "निरुक्तलोचनम्"
 
 ![](../books_images/U-IMG-1736440610symbol1.jpg)
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

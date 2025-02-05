@@ -1,17 +1,16 @@
 +++
-TITLE = "Raghu Vira Kosha Alphabet M"
-AUTHOR = "Raghu Vira"
-PUBLISHER = "International academy of indian culture New delhi"
-"PUBLISH YEAR" = "1976"
-DOMAIN = "कोषाः"
-SUB-DOMAIN = "रघुवीरकोशः"
-PAGES = "84"
-LANGUAGE = "English-Hindi"
-"BOOKS CONTRIBUTOR" = "डा. शशिबाला"
-PRINTER = "Jayyed Press Delhi6"
-"SERIAL NO." = "Ebharati-5252"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQzMDAyNTYyMjcxNDA1&pageno=MjI0MjQyNjk5NTk="
 title = "Raghu Vira Kosha Alphabet M"
+author = "Raghu Vira"
+publisher = "International academy of indian culture New delhi"
+"publish year" = "1976"
+domain = "कोषाः"
+sub-domain = "रघुवीरकोशः"
+pages = "84"
+language = "English-Hindi"
+"books contributor" = "डा. शशिबाला"
+printer = "Jayyed Press Delhi6"
+"serial no." = "Ebharati-5252"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQzMDAyNTYyMjcxNDA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[Raghu Vira Kosha Alphabet M	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQzMDAyNTYyMjcxNDA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10549,8 +10548,5 @@ Myzostomata** *Zool.* **अष्टचूषाः** *m.pl.*
 
 **पारसीक-आलुचूष**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

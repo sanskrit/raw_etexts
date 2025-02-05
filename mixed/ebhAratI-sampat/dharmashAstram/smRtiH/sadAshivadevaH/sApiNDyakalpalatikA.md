@@ -1,17 +1,16 @@
 +++
-TITLE = "सापिण्ड्यकल्पलतिका"
-AUTHOR = "सदाशिवदेवः"
-"PUBLISH YEAR" = "1927"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "94"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गोपीनाथ-कविराजः"
-"PRIMARY COMMENTATOR" = "नारायणदेवः"
-PRINTER = "जयकृष्णदासगुप्तः"
-"SERIAL NO." = "Ebharati-6335"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDczMzQ3NTkxNjMxODA2&pageno=MjI0MjQyNjk5NTk="
 title = "सापिण्ड्यकल्पलतिका"
+author = "सदाशिवदेवः"
+"publish year" = "1927"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "94"
+language = "संस्कृतम्"
+editor = "गोपीनाथ-कविराजः"
+"primary commentator" = "नारायणदेवः"
+printer = "जयकृष्णदासगुप्तः"
+"serial no." = "Ebharati-6335"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDczMzQ3NTkxNjMxODA2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[सापिण्ड्यकल्पलतिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDczMzQ3NTkxNjMxODA2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1258,19 +1257,6 @@ d) History and Bibliography of Nyaya Vaišeşika Literature. Rs. 5
 To be had of  
 The Superintendent, Government Pr  
 ALLAHABAD, U. P. (INDIA).
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

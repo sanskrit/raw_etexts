@@ -1,13 +1,12 @@
 +++
-TITLE = "श्रीमद्भगवद्गीता गीताविवृतिः"
-AUTHOR = "श्रीराघवेन्द्रयतिः"
-DOMAIN = "भगवद्गीता"
-SUB-DOMAIN = "भगवद्गीतासम्बद्धपुस्तकानि"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3231"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjg0NTYyOTU4MzYxMDEz"
 title = "श्रीमद्भगवद्गीता गीताविवृतिः"
+author = "श्रीराघवेन्द्रयतिः"
+domain = "भगवद्गीता"
+sub-domain = "भगवद्गीतासम्बद्धपुस्तकानि"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3231"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjg0NTYyOTU4MzYxMDEz"
 
 +++
 [[श्रीमद्भगवद्गीता गीताविवृतिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=Mjg0NTYyOTU4MzYxMDEz)]]

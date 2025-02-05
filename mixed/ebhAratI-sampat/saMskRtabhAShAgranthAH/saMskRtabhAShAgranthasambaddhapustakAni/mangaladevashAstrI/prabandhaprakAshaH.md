@@ -1,16 +1,15 @@
 +++
-TITLE = "प्रबन्धप्रकाशः"
-AUTHOR = "मङ्गलदेवशास्त्री"
-PUBLISHER = "के.मित्रः"
-"PUBLISH YEAR" = "1950"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "363"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "इंडियन-प्रेस"
-"SERIAL NO." = "Ebharati-6968"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NjkxNzE4MTA5ODY2&pageno=MjI0MjQyNjk5NTk="
 title = "प्रबन्धप्रकाशः"
+author = "मङ्गलदेवशास्त्री"
+publisher = "के.मित्रः"
+"publish year" = "1950"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "363"
+language = "संस्कृतम्"
+printer = "इंडियन-प्रेस"
+"serial no." = "Ebharati-6968"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NjkxNzE4MTA5ODY2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रबन्धप्रकाशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NjkxNzE4MTA5ODY2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -6881,19 +6880,6 @@ title = "प्रबन्धप्रकाशः"
 
 ** मैनेजर बुकडिपो, इंडियन प्रेस, लिमिटेड, प्रयाग**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

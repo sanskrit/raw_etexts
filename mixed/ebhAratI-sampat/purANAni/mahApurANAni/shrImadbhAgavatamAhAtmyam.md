@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीमद्भागवतमाहात्म्यम्"
-PUBLISHER = "पाण्डुरङ्गजावजी"
-"PUBLISH YEAR" = "1929"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "755"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "वासुदेव-शर्माः"
-PRINTER = "निर्णय-सागर-प्रेस्-बम्बई"
-"SERIAL NO." = "Ebharati-6800"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2OTY0ODQ0NDc3MjU2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमद्भागवतमाहात्म्यम्"
+publisher = "पाण्डुरङ्गजावजी"
+"publish year" = "1929"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "755"
+language = "संस्कृतम्"
+editor = "वासुदेव-शर्माः"
+printer = "निर्णय-सागर-प्रेस्-बम्बई"
+"serial no." = "Ebharati-6800"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2OTY0ODQ0NDc3MjU2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमद्भागवतमाहात्म्यम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA2OTY0ODQ0NDc3MjU2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -50782,8 +50781,5 @@ Published by Pandurang Jawaji,   at the "Nirnaya-Sagar" Press, 26-28, Kolbhat La
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

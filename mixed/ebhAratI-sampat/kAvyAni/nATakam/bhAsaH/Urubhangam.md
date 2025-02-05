@@ -1,16 +1,15 @@
 +++
-TITLE = "ऊरुभङ्गम्"
-AUTHOR = "भासः"
-PUBLISHER = "मोतीलाल्-बनारसी-दासः"
-"PUBLISH YEAR" = "1937"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "185"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "बोम्बाई-संस्कृत-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8012"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwNTgyNDk4MTIxOTY3&pageno=MjI0MjQyNjk5NTk="
 title = "ऊरुभङ्गम्"
+author = "भासः"
+publisher = "मोतीलाल्-बनारसी-दासः"
+"publish year" = "1937"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "185"
+language = "संस्कृतम्"
+printer = "बोम्बाई-संस्कृत-यन्त्रालयः"
+"serial no." = "Ebharati-8012"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwNTgyNDk4MTIxOTY3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ऊरुभङ्गम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDYwNTgyNDk4MTIxOTY3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3695,19 +3694,6 @@ Dramaturgical Terms
 
  आर्यमिश्र, दुर्योधन, जनार्दन, धृतराष्ट्र, युधिष्ठिर, पाण्डव, समन्तपञ्चक,चित्रपट, वृकोदर, सुयोधन, प्राक्कथन, अपसरस, स्वयंवरसभा, पश्चिमकाल,अतिरथ, यूप, विहङ्ग, मुण्डमाल, रथिन्, सूत, कबन्धक, पिङ्गलाच, तालवृन्त, क्षत्रिय, षट्पद, भ्रूभेद, केसर, खाण्डवधूम, संशप्तक, निवातकवच, पार्थ, वज्र, अनिल, मन्दर, सागर, द्वैपायन, हलायुध, कूट, मेदिनी, अतिहेमकूट, मारुति, समय, हलिन्, हलधर, हलायुध, पारिवेषिन्, कल्प, सन्धि, सौभ, कालिन्दी, केदारमार्ग, महासुर, तपस्त्री, अमृतमन्थन, असुर, सुर, वासुकि, निवापमेघ, विग्रह, वैश्रवणालय, हिडिम्बा, त्रिदिव, कृतान्त, निवाप, अक्षौहिणी, उत्सव, वसुधा, आतपत्र, सन्नाह, अध्वर्यु, अश्वमेध, इन्द्रचाप, अष्टाधभीमभुजा, काकपक्षधर, उर्वशी, विमान।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

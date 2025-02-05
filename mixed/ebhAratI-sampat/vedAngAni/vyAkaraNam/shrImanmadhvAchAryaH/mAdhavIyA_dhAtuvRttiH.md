@@ -1,17 +1,16 @@
 +++
-TITLE = "माधवीया धातुवृत्तिः"
-AUTHOR = "श्रीमन्मध्वाचार्यः"
-PUBLISHER = "मैसूरुमहाराजसर्वकारः"
-"PUBLISH YEAR" = "१८९४"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-PAGES = "356"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "श्री ए. महादेवशास्त्री"
-PRINTER = "सर्वकारशाखामुद्रणालयः"
-"SERIAL NO." = "Ebharati-634"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1NTk2NzE2MTY4MDY=&pageno=MjI0MjQyNjk5NTk="
 title = "माधवीया धातुवृत्तिः"
+author = "श्रीमन्मध्वाचार्यः"
+publisher = "मैसूरुमहाराजसर्वकारः"
+"publish year" = "१८९४"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+pages = "356"
+language = "संस्कृतम्"
+editor = "श्री ए. महादेवशास्त्री"
+printer = "सर्वकारशाखामुद्रणालयः"
+"serial no." = "Ebharati-634"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1NTk2NzE2MTY4MDY=&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[माधवीया धातुवृत्तिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1NTk2NzE2MTY4MDY=&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5166,19 +5165,6 @@ August 1894**
 ३२१        १५         इत्यस्नि          
 इत्यम्नि\।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

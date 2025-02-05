@@ -1,13 +1,12 @@
 +++
-TITLE = "आलम्बनपरीक्षावृत्तिः"
-AUTHOR = "आचार्यः दिङ्नागः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3873"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA0MDA5NjQ0Mzk3MTcz&pageno=MjI0MjQyNjk5NTk="
 title = "आलम्बनपरीक्षावृत्तिः"
+author = "आचार्यः दिङ्नागः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3873"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA0MDA5NjQ0Mzk3MTcz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आलम्बनपरीक्षावृत्तिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjA0MDA5NjQ0Mzk3MTcz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -119,8 +118,5 @@ title = "आलम्बनपरीक्षावृत्तिः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

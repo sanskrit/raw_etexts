@@ -1,13 +1,12 @@
 +++
-TITLE = "सामप्रातिशाख्यम्"
-AUTHOR = "पुष्पर्षिः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3917"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDc5NjY1MTgyNzEwNjcz"
 title = "सामप्रातिशाख्यम्"
+author = "पुष्पर्षिः"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3917"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDc5NjY1MTgyNzEwNjcz"
 
 +++
 [[सामप्रातिशाख्यम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDc5NjY1MTgyNzEwNjcz)]]

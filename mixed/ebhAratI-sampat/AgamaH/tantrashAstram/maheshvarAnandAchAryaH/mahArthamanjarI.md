@@ -1,17 +1,16 @@
 +++
-TITLE = "महार्थमञ्जरी"
-AUTHOR = "महेश्वरानन्दाचार्यः"
-PUBLISHER = "जम्मुकाश्मीरस्य महाराजः"
-"PUBLISH YEAR" = "1918"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "152"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "मुकुन्दरामशास्त्री"
-PRINTER = "तत्वविवेचक-प्रेस्"
-"SERIAL NO." = "Ebharati-7687"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5Nzk0NTExMzI5NzM3&pageno=MjI0MjQyNjk5NTk="
 title = "महार्थमञ्जरी"
+author = "महेश्वरानन्दाचार्यः"
+publisher = "जम्मुकाश्मीरस्य महाराजः"
+"publish year" = "1918"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "152"
+language = "संस्कृतम्"
+editor = "मुकुन्दरामशास्त्री"
+printer = "तत्वविवेचक-प्रेस्"
+"serial no." = "Ebharati-7687"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5Nzk0NTExMzI5NzM3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[महार्थमञ्जरी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDE5Nzk0NTExMzI5NzM3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2449,19 +2448,6 @@ the Research Department, Srinagar, Kashmir.
 
 ***         ***
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

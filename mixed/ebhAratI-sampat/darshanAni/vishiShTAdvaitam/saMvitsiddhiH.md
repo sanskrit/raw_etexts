@@ -1,12 +1,11 @@
 +++
-TITLE = "संवित्सिद्धिः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "विशिष्टाद्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4210"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI2Njk1MDgxNDQxNDA0&pageno=MjI0MjQyNjk5NTk="
 title = "संवित्सिद्धिः"
+domain = "दर्शनानि"
+sub-domain = "विशिष्टाद्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4210"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI2Njk1MDgxNDQxNDA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संवित्सिद्धिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDI2Njk1MDgxNDQxNDA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8034,8 +8033,5 @@ title = "संवित्सिद्धिः"
 
 -------- -------------- ------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

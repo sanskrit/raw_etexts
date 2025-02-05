@@ -1,17 +1,16 @@
 +++
-TITLE = "श्रीनिवासविलासचम्पू"
-AUTHOR = "वेङ्कटेशकविः"
-PUBLISHER = "पाण्डुरङ्गजवाजिः"
-"PUBLISH YEAR" = "1933"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "चम्पू"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "दुर्गाप्रसादः"
-"SECOND EDITOR" = "काशिनाथ पाण्डुरङ्ग प्रभा"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2757"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU0NzUzMDQ2MTY2NDYy"
 title = "श्रीनिवासविलासचम्पू"
+author = "वेङ्कटेशकविः"
+publisher = "पाण्डुरङ्गजवाजिः"
+"publish year" = "1933"
+domain = "साहित्यम्"
+sub-domain = "चम्पू"
+language = "संस्कृतम्"
+editor = "दुर्गाप्रसादः"
+"second editor" = "काशिनाथ पाण्डुरङ्ग प्रभा"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2757"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU0NzUzMDQ2MTY2NDYy"
 
 +++
 [[श्रीनिवासविलासचम्पू	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDU0NzUzMDQ2MTY2NDYy)]]

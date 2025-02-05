@@ -1,17 +1,16 @@
 +++
-TITLE = "विरूपाक्षपञ्चाशिका"
-AUTHOR = "विरूपाक्षनाथः"
-PUBLISHER = "गवर्नमेण्ट-आफ्-ट्रवण्कोर्"
-"PUBLISH YEAR" = "1910"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "43"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "त.गणपति-शास्त्री"
-PRINTER = "राजकीय-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-7645"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxNjEzMzcyMTk4MzM3&pageno=MjI0MjQyNjk5NTk="
 title = "विरूपाक्षपञ्चाशिका"
+author = "विरूपाक्षनाथः"
+publisher = "गवर्नमेण्ट-आफ्-ट्रवण्कोर्"
+"publish year" = "1910"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "43"
+language = "संस्कृतम्"
+editor = "त.गणपति-शास्त्री"
+printer = "राजकीय-मुद्रणालयः"
+"serial no." = "Ebharati-7645"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxNjEzMzcyMTk4MzM3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विरूपाक्षपञ्चाशिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDkxNjEzMzcyMTk4MzM3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -612,19 +611,6 @@ No. 10— **मातङ्गलीला**(Gajalakshana) by Nîlakantha.
 — **परमार्थसारम्** (Vedânta) by Bhagavad Âdisesha with Râghavanandâ's commentary.  
 — **नीतिसारः** (Nîti) by Kâmandaka with the commentary, ‘Jayamangala' of Sankârarya.
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

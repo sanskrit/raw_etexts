@@ -1,17 +1,16 @@
 +++
-TITLE = "संगीतरत्नाकरः"
-AUTHOR = "निःशङ्कशार्ङ्गदेवः"
-PUBLISHER = "दी-आडियर्-लैब्रेरी"
-"PUBLISH YEAR" = "१९४३"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "443"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "एस्-सुब्रह्मण्य-शास्त्री"
-PRINTER = "दी-वसन्त-प्रेस्"
-"SERIAL NO." = "Ebharati-4594"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2Njg2NzM3NjAwMTQ0&pageno=MjI0MjQyNjk5NTk="
 title = "संगीतरत्नाकरः"
+author = "निःशङ्कशार्ङ्गदेवः"
+publisher = "दी-आडियर्-लैब्रेरी"
+"publish year" = "१९४३"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "443"
+language = "संस्कृतम्"
+editor = "एस्-सुब्रह्मण्य-शास्त्री"
+printer = "दी-वसन्त-प्रेस्"
+"serial no." = "Ebharati-4594"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2Njg2NzM3NjAwMTQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संगीतरत्नाकरः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY2Njg2NzM3NjAwMTQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7024,19 +7023,6 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 | सीमभूताश्च धातूना          | स्नायु स्रोतासि रोहन्ति         |
 | सीवन्य पञ्च शिरसि          | स्पर्शन शब्दबोधश्च              |
 | सुख दुःख च विषयौ           | स्मरन्पूर्वानुभूता स            |
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

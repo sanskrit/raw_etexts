@@ -1,12 +1,11 @@
 +++
-TITLE = "अनुव्याख्यानम् (ब्रह्मसूत्रव्याख्यानम्)"
-AUTHOR = "श्रीमदानन्दतीर्थभगवत्पादाः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3145"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDkxNzE0MjgxODA5MTAz"
 title = "अनुव्याख्यानम् (ब्रह्मसूत्रव्याख्यानम्)"
+author = "श्रीमदानन्दतीर्थभगवत्पादाः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3145"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDkxNzE0MjgxODA5MTAz"
 
 +++
 [[अनुव्याख्यानम् (ब्रह्मसूत्रव्याख्यानम्)	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDkxNzE0MjgxODA5MTAz)]]

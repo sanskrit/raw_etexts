@@ -1,12 +1,11 @@
 +++
-TITLE = "पर्यन्तपञ्चाशिका"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4019"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEwNDkyODk4ODA4NTgz&pageno=MjI0MjQyNjk5NTk="
 title = "पर्यन्तपञ्चाशिका"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4019"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEwNDkyODk4ODA4NTgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पर्यन्तपञ्चाशिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODEwNDkyODk4ODA4NTgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -191,8 +190,5 @@ title = "पर्यन्तपञ्चाशिका"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

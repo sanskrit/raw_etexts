@@ -1,12 +1,11 @@
 +++
-TITLE = "मूलमध्यमकारिका"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3745"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDkzMDc4NzI5NTA1OTUz"
 title = "मूलमध्यमकारिका"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3745"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDkzMDc4NzI5NTA1OTUz"
 
 +++
 [[मूलमध्यमकारिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDkzMDc4NzI5NTA1OTUz)]]

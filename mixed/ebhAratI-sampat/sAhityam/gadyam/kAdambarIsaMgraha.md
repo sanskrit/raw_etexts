@@ -1,11 +1,10 @@
 +++
-TITLE = "कादम्बरीसंग्रह:"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "गद्यम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3034"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODQzODA1OTk1MjUyMTky"
 title = "कादम्बरीसंग्रह:"
+domain = "साहित्यम्"
+sub-domain = "गद्यम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3034"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODQzODA1OTk1MjUyMTky"
 
 +++
 [[कादम्बरीसंग्रह:	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODQzODA1OTk1MjUyMTky)]]

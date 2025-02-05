@@ -1,13 +1,12 @@
 +++
-TITLE = "ऋग्भाष्यम्  श्रीमन्मध्वाचार्यविरचितम्"
-AUTHOR = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3185"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNDExMjMwODQ3NTAz&pageno=MjI0MjQyNjk5NTk="
 title = "ऋग्भाष्यम्  श्रीमन्मध्वाचार्यविरचितम्"
+author = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3185"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNDExMjMwODQ3NTAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[ऋग्भाष्यम्  श्रीमन्मध्वाचार्यविरचितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNDExMjMwODQ3NTAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4817,8 +4816,5 @@ title = "ऋग्भाष्यम्  श्रीमन्मध्वाच
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

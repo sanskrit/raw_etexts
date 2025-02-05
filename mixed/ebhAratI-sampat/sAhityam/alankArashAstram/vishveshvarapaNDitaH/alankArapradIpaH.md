@@ -1,18 +1,17 @@
 +++
-TITLE = "अलङ्कारप्रदीपः"
-AUTHOR = "विश्वेश्वरपण्डितः"
-PUBLISHER = "चौखम्भासंस्कृतसंस्थानम्"
-"PUBLISH YEAR" = "1923"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "अलङ्कारशास्त्रम्"
-PAGES = "81"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "विष्णुप्रसादभण्डारी"
-"BOOKS CONTRIBUTOR" = ""
-PRINTER = "विद्याविलासयन्त्रालयः"
-"SERIAL NO." = "Ebharati-626"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxNjU3NzQ2MzkwMDY=&pageno=MjI0MjQyNjk5NTk="
 title = "अलङ्कारप्रदीपः"
+author = "विश्वेश्वरपण्डितः"
+publisher = "चौखम्भासंस्कृतसंस्थानम्"
+"publish year" = "1923"
+domain = "साहित्यम्"
+sub-domain = "अलङ्कारशास्त्रम्"
+pages = "81"
+language = "संस्कृतम्"
+editor = "विष्णुप्रसादभण्डारी"
+"books contributor" = ""
+printer = "विद्याविलासयन्त्रालयः"
+"serial no." = "Ebharati-626"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxNjU3NzQ2MzkwMDY=&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[अलङ्कारप्रदीपः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjcxNjU3NzQ2MzkwMDY=&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3064,8 +3063,5 @@ title = "अलङ्कारप्रदीपः"
 
 **बनारससिटी।**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

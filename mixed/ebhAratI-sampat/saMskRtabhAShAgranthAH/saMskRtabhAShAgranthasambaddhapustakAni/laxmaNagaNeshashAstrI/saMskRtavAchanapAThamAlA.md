@@ -1,16 +1,15 @@
 +++
-TITLE = "संस्कृतवाचनपाठमाला"
-AUTHOR = "लक्ष्मणगणेशशास्त्री"
-PUBLISHER = "वि.ह.दामले"
-"PUBLISH YEAR" = "1937"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "184"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "प्रतिभा-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6997"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM3NjIyODA3NTg2MTc2&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृतवाचनपाठमाला"
+author = "लक्ष्मणगणेशशास्त्री"
+publisher = "वि.ह.दामले"
+"publish year" = "1937"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "184"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "प्रतिभा-यन्त्रालयः"
+"serial no." = "Ebharati-6997"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM3NjIyODA3NTg2MTc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृतवाचनपाठमाला	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDM3NjIyODA3NTg2MTc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2903,19 +2902,6 @@ master. \[80\] पथः अनपेतम्–पथ्यम्— Not far f
 
 **————**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

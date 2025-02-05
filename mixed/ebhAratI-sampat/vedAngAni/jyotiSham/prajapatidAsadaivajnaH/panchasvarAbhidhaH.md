@@ -1,17 +1,16 @@
 +++
-TITLE = "पञ्चस्वराभिधः"
-AUTHOR = "प्रजपतिदासदैवज्ञः"
-PUBLISHER = "श्रीराम-प्रेस्-काशी"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "168"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "श्रीगोविन्द-शर्म-पाण्डेयः"
-"COMMENTARY NAME" = "सरला सुबोधिनी"
-PRINTER = "श्रीरामदासः"
-"SERIAL NO." = "Ebharati-4987"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE1ODU5MDYyMzM3ODc0&pageno=MjI0MjQyNjk5NTk="
 title = "पञ्चस्वराभिधः"
+author = "प्रजपतिदासदैवज्ञः"
+publisher = "श्रीराम-प्रेस्-काशी"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "168"
+language = "संस्कृतम्"
+"primary commentator" = "श्रीगोविन्द-शर्म-पाण्डेयः"
+"commentary name" = "सरला सुबोधिनी"
+printer = "श्रीरामदासः"
+"serial no." = "Ebharati-4987"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE1ODU5MDYyMzM3ODc0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[पञ्चस्वराभिधः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDE1ODU5MDYyMzM3ODc0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3066,19 +3065,6 @@ title = "पञ्चस्वराभिधः"
 **श्रीराम प्रेस, बुलानाला, काशी।**
 
 ![](../../../books_images/1683184159.png)
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
-
 
 
 

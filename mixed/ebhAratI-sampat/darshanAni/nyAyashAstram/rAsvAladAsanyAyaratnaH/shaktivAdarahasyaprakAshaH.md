@@ -1,14 +1,13 @@
 +++
-TITLE = "शक्तिवादरहस्यप्रकाशः"
-AUTHOR = "रास्वालदासन्यायरत्नः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "न्यायशास्त्रम्"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "रास्वालदासन्यायरत्नः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4083"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIwOTA4NzU2MjU5MTkz&pageno=MjI0MjQyNjk5NTk="
 title = "शक्तिवादरहस्यप्रकाशः"
+author = "रास्वालदासन्यायरत्नः"
+domain = "दर्शनानि"
+sub-domain = "न्यायशास्त्रम्"
+language = "संस्कृतम्"
+editor = "रास्वालदासन्यायरत्नः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4083"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIwOTA4NzU2MjU5MTkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[शक्तिवादरहस्यप्रकाशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjIwOTA4NzU2MjU5MTkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -70,19 +69,6 @@ title = "शक्तिवादरहस्यप्रकाशः"
 
 
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,16 +1,15 @@
 +++
-TITLE = "आसेचनकरामायणम्"
-AUTHOR = "सुब्रह्मण्यसूरिः"
-PUBLISHER = "शङ्करनारायणः"
-"PUBLISH YEAR" = "1932"
-DOMAIN = "इतिहासः"
-SUB-DOMAIN = "रामायणम्"
-PAGES = "76"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "मद्रास-लाँजर्नल-प्रेस्"
-"SERIAL NO." = "Ebharati-6122"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg0NzAxNjk5ODg2Nzg1&pageno=MjI0MjQyNjk5NTk="
 title = "आसेचनकरामायणम्"
+author = "सुब्रह्मण्यसूरिः"
+publisher = "शङ्करनारायणः"
+"publish year" = "1932"
+domain = "इतिहासः"
+sub-domain = "रामायणम्"
+pages = "76"
+language = "संस्कृतम्"
+printer = "मद्रास-लाँजर्नल-प्रेस्"
+"serial no." = "Ebharati-6122"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg0NzAxNjk5ODg2Nzg1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आसेचनकरामायणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDg0NzAxNjk5ODg2Nzg1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1660,8 +1659,5 @@ Madras.*
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,13 +1,12 @@
 +++
-TITLE = "आत्मबोधः"
-AUTHOR = "शङ्करभगवत्पादाः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "अद्वैतम्"
-PAGES = "7"
-LANGUAGE = "संस्कृतम्"
-"SERIAL NO." = "Ebharati-2126"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxOTgzMTEwODgwNDAy&pageno=MjI0MjQyNjk5NTk="
 title = "आत्मबोधः"
+author = "शङ्करभगवत्पादाः"
+domain = "दर्शनानि"
+sub-domain = "अद्वैतम्"
+pages = "7"
+language = "संस्कृतम्"
+"serial no." = "Ebharati-2126"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxOTgzMTEwODgwNDAy&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आत्मबोधः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjcxOTgzMTEwODgwNDAy&pageno=MjI0MjQyNjk5NTk=)]]
@@ -312,8 +311,5 @@ title = "आत्मबोधः"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

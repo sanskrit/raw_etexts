@@ -1,12 +1,11 @@
 +++
-TITLE = "दानकेलिचिन्तामणिः"
-DOMAIN = "साहित्यम्"
-SUB-DOMAIN = "पद्यम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3175"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU4OTg2OTYwODg3NDAz&pageno=MjI0MjQyNjk5NTk="
 title = "दानकेलिचिन्तामणिः"
+domain = "साहित्यम्"
+sub-domain = "पद्यम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3175"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU4OTg2OTYwODg3NDAz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[दानकेलिचिन्तामणिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU4OTg2OTYwODg3NDAz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2151,8 +2150,5 @@ title = "दानकेलिचिन्तामणिः"
 
 इति दानकेलिचिन्तामणिः समाप्तः
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

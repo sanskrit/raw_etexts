@@ -1,15 +1,14 @@
 +++
-TITLE = "स्मृतिचन्द्रिका (चतुर्थो भागः)"
-AUTHOR = "याज्ञिकदेवणभट्टः"
-"PUBLISH YEAR" = "1918"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "स्मृतिः"
-PAGES = "484"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "गवर्मेण्ट-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6481"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg5NjMxNzQ2MTUxMjI2&pageno=MjI0MjQyNjk5NTk="
 title = "स्मृतिचन्द्रिका (चतुर्थो भागः)"
+author = "याज्ञिकदेवणभट्टः"
+"publish year" = "1918"
+domain = "धर्मशास्त्रम्"
+sub-domain = "स्मृतिः"
+pages = "484"
+language = "संस्कृतम्"
+printer = "गवर्मेण्ट-यन्त्रालयः"
+"serial no." = "Ebharati-6481"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg5NjMxNzQ2MTUxMjI2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[स्मृतिचन्द्रिका (चतुर्थो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjg5NjMxNzQ2MTUxMjI2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10151,8 +10150,5 @@ R.S.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

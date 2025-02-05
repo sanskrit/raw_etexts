@@ -1,13 +1,12 @@
 +++
-TITLE = "षोडशश्लोकी शिक्षा"
-AUTHOR = "रामकृष्णः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3970"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQzNTE0MjgwNTAxMTgz&pageno=MjI0MjQyNjk5NTk="
 title = "षोडशश्लोकी शिक्षा"
+author = "रामकृष्णः"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3970"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQzNTE0MjgwNTAxMTgz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[षोडशश्लोकी शिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQzNTE0MjgwNTAxMTgz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -71,19 +70,6 @@ title = "षोडशश्लोकी शिक्षा"
 
 **-----------------------------------------------**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

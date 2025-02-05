@@ -1,12 +1,11 @@
 +++
-TITLE = "अष्टाध्यायी - मूलमात्रम्"
-AUTHOR = "पाणिनिः"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "व्याकरणम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2930"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY0NjkyMDk5ODYyMTgy"
 title = "अष्टाध्यायी - मूलमात्रम्"
+author = "पाणिनिः"
+domain = "वेदाङ्गानि"
+sub-domain = "व्याकरणम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2930"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY0NjkyMDk5ODYyMTgy"
 
 +++
 [[अष्टाध्यायी - मूलमात्रम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDY0NjkyMDk5ODYyMTgy)]]

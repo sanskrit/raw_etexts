@@ -1,16 +1,15 @@
 +++
-TITLE = "महानिर्वाणतन्त्रम् (त्रयोदशो भागः)"
-PUBLISHER = "नरेन्द्रप्रकाशजैन्"
-"PUBLISH YEAR" = "1929"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "501"
-LANGUAGE = "संस्कृतम्"
-"PRIMARY COMMENTATOR" = "हरिहरानन्दभारती"
-PRINTER = "जैनेन्द्र-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8853"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY5MTYxNDM3NDU4OTQ4&pageno=MjI0MjQyNjk5NTk="
 title = "महानिर्वाणतन्त्रम् (त्रयोदशो भागः)"
+publisher = "नरेन्द्रप्रकाशजैन्"
+"publish year" = "1929"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "501"
+language = "संस्कृतम्"
+"primary commentator" = "हरिहरानन्दभारती"
+printer = "जैनेन्द्र-यन्त्रालयः"
+"serial no." = "Ebharati-8853"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY5MTYxNDM3NDU4OTQ4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[महानिर्वाणतन्त्रम् (त्रयोदशो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjY5MTYxNDM3NDU4OTQ4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -12713,8 +12712,5 @@ Oxford, 21st September, 1928.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

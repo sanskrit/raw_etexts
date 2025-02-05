@@ -1,16 +1,15 @@
 +++
-TITLE = "प्रपञ्चसारतन्त्रम् (द्वितीयो भागः)"
-AUTHOR = "शङ्कराचार्यः"
-PUBLISHER = "संस्कृतप्रेसडिपनिटरी"
-"PUBLISH YEAR" = "1935"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "391"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "अटलाननन्दसरस्वती"
-"SERIAL NO." = "Ebharati-8858"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcwNDczNTE3NDMzMDU4&pageno=MjI0MjQyNjk5NTk="
 title = "प्रपञ्चसारतन्त्रम् (द्वितीयो भागः)"
+author = "शङ्कराचार्यः"
+publisher = "संस्कृतप्रेसडिपनिटरी"
+"publish year" = "1935"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "391"
+language = "संस्कृतम्"
+editor = "अटलाननन्दसरस्वती"
+"serial no." = "Ebharati-8858"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcwNDczNTE3NDMzMDU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रपञ्चसारतन्त्रम् (द्वितीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjcwNDczNTE3NDMzMDU4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7775,19 +7774,6 @@ these works, because of the eminence of their authors and the intrinsic valueoft
 
 ----------------
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

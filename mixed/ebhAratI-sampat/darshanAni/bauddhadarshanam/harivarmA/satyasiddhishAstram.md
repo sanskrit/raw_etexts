@@ -1,13 +1,12 @@
 +++
-TITLE = "सत्यसिद्धिशास्त्रम्"
-AUTHOR = "हरिवर्मा"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3798"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjU3ODE3ODI3Mzk1NDYz"
 title = "सत्यसिद्धिशास्त्रम्"
+author = "हरिवर्मा"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3798"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjU3ODE3ODI3Mzk1NDYz"
 
 +++
 [[सत्यसिद्धिशास्त्रम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjU3ODE3ODI3Mzk1NDYz)]]

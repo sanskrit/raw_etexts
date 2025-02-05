@@ -1,12 +1,11 @@
 +++
-TITLE = "स्वरावधानलक्षणम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3978"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjE3NDUzMjUwMzc4MTgz"
 title = "स्वरावधानलक्षणम्"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3978"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjE3NDUzMjUwMzc4MTgz"
 
 +++
 [[स्वरावधानलक्षणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjE3NDUzMjUwMzc4MTgz)]]

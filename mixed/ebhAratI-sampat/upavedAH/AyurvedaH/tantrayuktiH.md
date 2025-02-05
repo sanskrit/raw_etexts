@@ -1,15 +1,14 @@
 +++
-TITLE = "तन्त्रयुक्तिः"
-"PUBLISH YEAR" = "१९४९"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "39"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "शङ्करशर्मा"
-PRINTER = "वैद्यसारथि-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-4695"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkyMTcxODUzMjA3MDU0&pageno=MjI0MjQyNjk5NTk="
 title = "तन्त्रयुक्तिः"
+"publish year" = "१९४९"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "39"
+language = "संस्कृतम्"
+editor = "शङ्करशर्मा"
+printer = "वैद्यसारथि-मुद्रणालयः"
+"serial no." = "Ebharati-4695"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkyMTcxODUzMjA3MDU0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[तन्त्रयुक्तिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDkyMTcxODUzMjA3MDU0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -896,8 +895,5 @@ title = "तन्त्रयुक्तिः"
 
 ![](../books_images/U-IMG-1700063803image_6-removebg-preview.png)
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

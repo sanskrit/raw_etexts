@@ -1,16 +1,15 @@
 +++
-TITLE = "प्रत्यक्षशारीरम् (तृतीयो भागः)"
-AUTHOR = "गणनाथसेनः"
-PUBLISHER = "श्रीसुनीशकुमारसेनशर्मा"
-"PUBLISH YEAR" = "सं..१९९२"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-PAGES = "274"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-PRINTER = "कल्पतरु-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-3465"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMyMjk5OTc5NjI2MjMz&pageno=MjI0MjQyNjk5NTk="
 title = "प्रत्यक्षशारीरम् (तृतीयो भागः)"
+author = "गणनाथसेनः"
+publisher = "श्रीसुनीशकुमारसेनशर्मा"
+"publish year" = "सं..१९९२"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+pages = "274"
+language = "संस्कृतम् आङ्ग्लम्"
+printer = "कल्पतरु-मुद्रणालयः"
+"serial no." = "Ebharati-3465"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMyMjk5OTc5NjI2MjMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रत्यक्षशारीरम् (तृतीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDMyMjk5OTc5NjI2MjMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5279,19 +5278,6 @@ Replete with valuable Historic and Scientific material.
      KALPATARU PALACE.  
 *Chittaranjan Avenue (North), Calcutta,***
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

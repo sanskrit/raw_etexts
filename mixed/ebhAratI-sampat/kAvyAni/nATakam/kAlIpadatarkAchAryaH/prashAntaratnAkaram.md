@@ -1,16 +1,15 @@
 +++
-TITLE = "प्रशान्तरत्नाकरम्"
-AUTHOR = "कालीपदतर्काचार्यः"
-PUBLISHER = "संस्कृत-साहित्य-परिषत्"
-"PUBLISH YEAR" = "1939"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "193"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "जे.सि. सर्खेल्"
-"SERIAL NO." = "Ebharati-5536"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxODQwODkxNTM0MTM1&pageno=MjI0MjQyNjk5NTk="
 title = "प्रशान्तरत्नाकरम्"
+author = "कालीपदतर्काचार्यः"
+publisher = "संस्कृत-साहित्य-परिषत्"
+"publish year" = "1939"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "193"
+language = "संस्कृतम्"
+printer = "जे.सि. सर्खेल्"
+"serial no." = "Ebharati-5536"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxODQwODkxNTM0MTM1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रशान्तरत्नाकरम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjkxODQwODkxNTM0MTM1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -5691,19 +5690,6 @@ Lecturer, Calcutta University**
 न्याये वैशेषिके काव्ये शास्त्रे, चान्यत्र निर्मिता -  
 येन टीकादयो ग्रन्था सद्भि सोऽत्रानुगृह्यताम्।
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

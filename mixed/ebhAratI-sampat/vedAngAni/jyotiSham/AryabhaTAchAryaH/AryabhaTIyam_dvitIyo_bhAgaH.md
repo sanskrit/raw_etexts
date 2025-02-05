@@ -1,18 +1,17 @@
 +++
-TITLE = "आर्यभटीयम् (द्वितीयो भागः)"
-AUTHOR = "आर्यभटाचार्यः"
-PUBLISHER = "The Superintendedent Government Press Trivandrum."
-"PUBLISH YEAR" = "1931"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "ज्योतिषम्"
-PAGES = "97"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "साम्बशिव शास्त्री"
-"BOOKS CONTRIBUTOR" = "श्री सेतुमहालक्ष्मी महाराज्ञी"
-"PRIMARY COMMENTATOR" = "नीलकण्ठ सोमसुत्व"
-"SERIAL NO." = "Ebharati-5009"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3MTkyODcxNTQ4MDg0&pageno=MjI0MjQyNjk5NTk="
 title = "आर्यभटीयम् (द्वितीयो भागः)"
+author = "आर्यभटाचार्यः"
+publisher = "The Superintendedent Government Press Trivandrum."
+"publish year" = "1931"
+domain = "वेदाङ्गानि"
+sub-domain = "ज्योतिषम्"
+pages = "97"
+language = "संस्कृतम्"
+editor = "साम्बशिव शास्त्री"
+"books contributor" = "श्री सेतुमहालक्ष्मी महाराज्ञी"
+"primary commentator" = "नीलकण्ठ सोमसुत्व"
+"serial no." = "Ebharati-5009"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3MTkyODcxNTQ4MDg0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[आर्यभटीयम् (द्वितीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODk3MTkyODcxNTQ4MDg0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1344,8 +1343,5 @@ Trivandrum.
 
 **————♦————**
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

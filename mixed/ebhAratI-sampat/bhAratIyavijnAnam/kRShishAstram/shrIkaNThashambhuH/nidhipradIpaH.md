@@ -1,17 +1,16 @@
 +++
-TITLE = "निधिप्रदीपः"
-AUTHOR = "श्रीकण्ठशम्भुः"
-PUBLISHER = "राजकीयमुद्रणयन्त्रालयः"
-"PUBLISH YEAR" = "१९३०"
-DOMAIN = "भारतीयविज्ञानम्"
-SUB-DOMAIN = "कृषिशास्त्रम्"
-PAGES = "66"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "के.साम्बशिवशास्त्री"
-PRINTER = "राजकीयमुद्रणयन्त्रालयः"
-"SERIAL NO." = "Ebharati-4561"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3Njg2MTY4ODM4NzM0&pageno=MjI0MjQyNjk5NTk="
 title = "निधिप्रदीपः"
+author = "श्रीकण्ठशम्भुः"
+publisher = "राजकीयमुद्रणयन्त्रालयः"
+"publish year" = "१९३०"
+domain = "भारतीयविज्ञानम्"
+sub-domain = "कृषिशास्त्रम्"
+pages = "66"
+language = "संस्कृतम्"
+editor = "के.साम्बशिवशास्त्री"
+printer = "राजकीयमुद्रणयन्त्रालयः"
+"serial no." = "Ebharati-4561"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3Njg2MTY4ODM4NzM0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[निधिप्रदीपः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3Njg2MTY4ODM4NzM0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2090,19 +2089,6 @@ FOR SALE**
                                    
 Trivandrum.*
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

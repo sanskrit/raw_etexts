@@ -1,12 +1,11 @@
 +++
-TITLE = "द्वित्वलक्षणम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3520"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0NTIzMzc3NjA5NzMz&pageno=MjI0MjQyNjk5NTk="
 title = "द्वित्वलक्षणम्"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3520"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0NTIzMzc3NjA5NzMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[द्वित्वलक्षणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0NTIzMzc3NjA5NzMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -43,8 +42,5 @@ Dvitvalakshanam
                  इति द्वित्वलक्षणं समाप्तम्  
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

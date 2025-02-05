@@ -1,12 +1,11 @@
 +++
-TITLE = "बीजनिघण्टुः"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शैवतन्त्रम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3925"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUzNjA1MTUyNTg3Njcz&pageno=MjI0MjQyNjk5NTk="
 title = "बीजनिघण्टुः"
+domain = "आगमः"
+sub-domain = "शैवतन्त्रम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3925"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUzNjA1MTUyNTg3Njcz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बीजनिघण्टुः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDUzNjA1MTUyNTg3Njcz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -166,8 +165,5 @@ title = "बीजनिघण्टुः"
 
 -------------------------------------------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

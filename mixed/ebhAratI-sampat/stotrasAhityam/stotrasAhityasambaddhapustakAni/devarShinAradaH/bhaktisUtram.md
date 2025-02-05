@@ -1,17 +1,16 @@
 +++
-TITLE = "भक्तिसूत्रम्"
-AUTHOR = "देवर्षिनारदः"
-PUBLISHER = "रामस्वरूपशर्मा"
-"PUBLISH YEAR" = "1911"
-DOMAIN = "स्तोत्रसाहित्यम्"
-SUB-DOMAIN = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
-PAGES = "120"
-LANGUAGE = "संस्कृतम् हिन्दी"
-"PRIMARY COMMENTATOR" = "रामस्वरूपशर्मा"
-PRINTER = "सनातनधर्म-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-7097"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM5ODY0MjMzNTgyMTg2&pageno=MjI0MjQyNjk5NTk="
 title = "भक्तिसूत्रम्"
+author = "देवर्षिनारदः"
+publisher = "रामस्वरूपशर्मा"
+"publish year" = "1911"
+domain = "स्तोत्रसाहित्यम्"
+sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
+pages = "120"
+language = "संस्कृतम् हिन्दी"
+"primary commentator" = "रामस्वरूपशर्मा"
+printer = "सनातनधर्म-यन्त्रालयः"
+"serial no." = "Ebharati-7097"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM5ODY0MjMzNTgyMTg2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[भक्तिसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDM5ODY0MjMzNTgyMTg2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1215,8 +1214,5 @@ title = "भक्तिसूत्रम्"
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

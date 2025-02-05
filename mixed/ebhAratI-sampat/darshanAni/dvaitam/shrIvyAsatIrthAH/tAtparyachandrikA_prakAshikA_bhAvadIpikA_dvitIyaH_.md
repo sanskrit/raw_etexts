@@ -1,13 +1,12 @@
 +++
-TITLE = "तात्पर्यचन्द्रिका (प्रकाशिका भावदीपिका) द्वितीयः भागः"
-AUTHOR = "श्रीव्यासतीर्थाः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "द्वैतम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3264"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA0NTYyNTM3MTMzMzEz"
 title = "तात्पर्यचन्द्रिका (प्रकाशिका भावदीपिका) द्वितीयः भागः"
+author = "श्रीव्यासतीर्थाः"
+domain = "दर्शनानि"
+sub-domain = "द्वैतम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3264"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA0NTYyNTM3MTMzMzEz"
 
 +++
 [[तात्पर्यचन्द्रिका (प्रकाशिका भावदीपिका) द्वितीयः भागः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODA0NTYyNTM3MTMzMzEz)]]

@@ -1,16 +1,15 @@
 +++
-TITLE = "संस्कृत-पाठ-माला (अष्टादशो भागः)"
-AUTHOR = "श्रीपाददामोदरसातवळेकरः"
-PUBLISHER = "श्रीपाददामोदरसातवळेकरः"
-"PUBLISH YEAR" = "1952"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "52"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "भारत-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-8270"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ5OTI4NDI5ODg4Mzk3&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृत-पाठ-माला (अष्टादशो भागः)"
+author = "श्रीपाददामोदरसातवळेकरः"
+publisher = "श्रीपाददामोदरसातवळेकरः"
+"publish year" = "1952"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "52"
+language = "संस्कृतम्"
+printer = "भारत-मुद्रणालयः"
+"serial no." = "Ebharati-8270"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ5OTI4NDI5ODg4Mzk3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृत-पाठ-माला (अष्टादशो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ5OTI4NDI5ODg4Mzk3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -1206,8 +1205,5 @@ title = "संस्कृत-पाठ-माला (अष्टादशो 
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

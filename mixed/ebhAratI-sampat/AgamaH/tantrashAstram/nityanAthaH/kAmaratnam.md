@@ -1,17 +1,16 @@
 +++
-TITLE = "कामरत्नम्"
-AUTHOR = "नित्यनाथः"
-PUBLISHER = "खेमराजश्रीकृष्णदासः"
-"PUBLISH YEAR" = "1899"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "तन्त्रशास्त्रम्"
-PAGES = "368"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "न"
-PRINTER = "श्रीवेङ्कटेश्वर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8582"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2NTY0MjU3OTM4MzI4&pageno=MjI0MjQyNjk5NTk="
 title = "कामरत्नम्"
+author = "नित्यनाथः"
+publisher = "खेमराजश्रीकृष्णदासः"
+"publish year" = "1899"
+domain = "आगमः"
+sub-domain = "तन्त्रशास्त्रम्"
+pages = "368"
+language = "संस्कृतम्"
+editor = "न"
+printer = "श्रीवेङ्कटेश्वर-यन्त्रालयः"
+"serial no." = "Ebharati-8582"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2NTY0MjU3OTM4MzI4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कामरत्नम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDA2NTY0MjU3OTM4MzI4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -9841,19 +9840,6 @@ title = "कामरत्नम्"
 
 **इति कामरत्नपरिशिष्टम्**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

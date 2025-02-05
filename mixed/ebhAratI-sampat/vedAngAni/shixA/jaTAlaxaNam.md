@@ -1,12 +1,11 @@
 +++
-TITLE = "जटालक्षणम्"
-DOMAIN = "वेदाङ्गानि"
-SUB-DOMAIN = "शिक्षा"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3525"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU1NzM1NDU3NjgzODMz&pageno=MjI0MjQyNjk5NTk="
 title = "जटालक्षणम्"
+domain = "वेदाङ्गानि"
+sub-domain = "शिक्षा"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3525"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU1NzM1NDU3NjgzODMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[जटालक्षणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU1NzM1NDU3NjgzODMz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -97,8 +96,5 @@ jata_lakshanam
 कार्यभाजः पदस्यैव तुरीयत्वं विधीयते ब्राह्मणेषु द्वितीयत्वं पुनरुक्तः स्थलेन तु ३५  
 इति जटालक्षणं संपूर्णम्
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

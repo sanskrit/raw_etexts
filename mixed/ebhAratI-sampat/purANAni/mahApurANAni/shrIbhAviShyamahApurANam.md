@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीभाविष्यमहापुराणम्"
-PUBLISHER = "खेमराजश्रीकृष्णदासः"
-"PUBLISH YEAR" = "1896"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "महापुराणानि"
-PAGES = "567"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "गोविन्द-शास्त्री"
-PRINTER = "श्री-वेंकटेश्वर-प्रेस्"
-"SERIAL NO." = "Ebharati-6804"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgyOTM0MzM0ODUxMzU2&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीभाविष्यमहापुराणम्"
+publisher = "खेमराजश्रीकृष्णदासः"
+"publish year" = "1896"
+domain = "पुराणानि"
+sub-domain = "महापुराणानि"
+pages = "567"
+language = "संस्कृतम्"
+editor = "गोविन्द-शास्त्री"
+printer = "श्री-वेंकटेश्वर-प्रेस्"
+"serial no." = "Ebharati-6804"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgyOTM0MzM0ODUxMzU2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीभाविष्यमहापुराणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODgyOTM0MzM0ODUxMzU2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -42896,8 +42895,5 @@ XXक्षणास्तु पश्यंति मंत्रौषधि 
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

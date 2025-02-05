@@ -1,15 +1,14 @@
 +++
-TITLE = "संस्कृतविहारः"
-PUBLISHER = "जी.डी.खानोलकरः"
-"PUBLISH YEAR" = "1939"
-DOMAIN = "संस्कृतभाषाग्रन्थाः"
-SUB-DOMAIN = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
-PAGES = "103"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "भारत-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-6993"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQwNzUyMzI3MTAzMTc2&pageno=MjI0MjQyNjk5NTk="
 title = "संस्कृतविहारः"
+publisher = "जी.डी.खानोलकरः"
+"publish year" = "1939"
+domain = "संस्कृतभाषाग्रन्थाः"
+sub-domain = "संस्कृतभाषाग्रन्थसम्बद्धपुस्तकानि"
+pages = "103"
+language = "संस्कृतम्"
+printer = "भारत-यन्त्रालयः"
+"serial no." = "Ebharati-6993"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQwNzUyMzI3MTAzMTc2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[संस्कृतविहारः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQwNzUyMzI3MTAzMTc2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3324,8 +3323,5 @@ R. M. M.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

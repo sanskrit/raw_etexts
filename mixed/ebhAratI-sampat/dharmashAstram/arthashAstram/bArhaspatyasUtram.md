@@ -1,17 +1,16 @@
 +++
-TITLE = "बार्हस्पत्यसूत्रम्"
-PUBLISHER = "मोतिलालबनारसीदासः"
-"PUBLISH YEAR" = "1921"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "अर्थशास्त्रम्"
-PAGES = "100"
-LANGUAGE = "संस्कृतम् आङ्ग्लम्"
-TRANSLATOR = "एफ्.डेब्लु. थोमस्"
-EDITOR = "एफ्.डेब्लु. थोमस्"
-PRINTER = "विद्याविलास-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5218"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk5NzU5MjkzODA5MDA1&pageno=MjI0MjQyNjk5NTk="
 title = "बार्हस्पत्यसूत्रम्"
+publisher = "मोतिलालबनारसीदासः"
+"publish year" = "1921"
+domain = "धर्मशास्त्रम्"
+sub-domain = "अर्थशास्त्रम्"
+pages = "100"
+language = "संस्कृतम् आङ्ग्लम्"
+translator = "एफ्.डेब्लु. थोमस्"
+editor = "एफ्.डेब्लु. थोमस्"
+printer = "विद्याविलास-मुद्रणालयः"
+"serial no." = "Ebharati-5218"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk5NzU5MjkzODA5MDA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[बार्हस्पत्यसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk5NzU5MjkzODA5MDA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2678,8 +2677,5 @@ So in the *Brihaspati Sûtra* the Sixth Chapter.
 
                        F. W. THOMAS.
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

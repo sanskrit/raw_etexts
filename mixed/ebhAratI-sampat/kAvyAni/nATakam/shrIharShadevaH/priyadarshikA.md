@@ -1,17 +1,16 @@
 +++
-TITLE = "प्रियदर्शिका"
-AUTHOR = "श्रीहर्षदेवः"
-PUBLISHER = "गोपालनारायणः"
-"PUBLISH YEAR" = "1928"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "नाटकम्"
-PAGES = "210"
-LANGUAGE = "संस्कृतम्"
-EDITOR = "एम्.आर्.कळे"
-PRINTER = "वैभव-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8202"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQyNTQzMDgxMTYzNzg3&pageno=MjI0MjQyNjk5NTk="
 title = "प्रियदर्शिका"
+author = "श्रीहर्षदेवः"
+publisher = "गोपालनारायणः"
+"publish year" = "1928"
+domain = "काव्यानि"
+sub-domain = "नाटकम्"
+pages = "210"
+language = "संस्कृतम्"
+editor = "एम्.आर्.कळे"
+printer = "वैभव-यन्त्रालयः"
+"serial no." = "Ebharati-8202"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQyNTQzMDgxMTYzNzg3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रियदर्शिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQyNTQzMDgxMTYzNzg3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3768,19 +3767,6 @@ I. 1, 3, 6, 7, 11, II 1, 3, 6, 7, 10; III 4, 5, 7, 10, 13, 14, 15; IV 1, 3, 9, 1
 
  I. 2, 9, 12; II. 2, 4; III. 11; IV. 5, 12.
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

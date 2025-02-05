@@ -1,15 +1,14 @@
 +++
-TITLE = "श्रीपारानन्दसूत्रम्"
-PUBLISHER = "बेनोयतोष-भट्टाचार्यः"
-"PUBLISH YEAR" = "1931"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "धर्मादिसङ्ग्रहग्रन्थाः"
-PAGES = "142"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "निर्णयसागर-यन्त्रालयः"
-"SERIAL NO." = "Ebharati-8845"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk1MjIyNDY3NjgwOTQ4&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीपारानन्दसूत्रम्"
+publisher = "बेनोयतोष-भट्टाचार्यः"
+"publish year" = "1931"
+domain = "धर्मशास्त्रम्"
+sub-domain = "धर्मादिसङ्ग्रहग्रन्थाः"
+pages = "142"
+language = "संस्कृतम्"
+printer = "निर्णयसागर-यन्त्रालयः"
+"serial no." = "Ebharati-8845"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk1MjIyNDY3NjgwOTQ4&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीपारानन्दसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDk1MjIyNDY3NjgwOTQ4&pageno=MjI0MjQyNjk5NTk=)]]
@@ -4335,8 +4334,5 @@ Baroda,
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

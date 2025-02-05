@@ -1,12 +1,11 @@
 +++
-TITLE = "न्यायकल्पलतिका"
-AUTHOR = "विद्यासागर-आनन्दपूर्णमुनीन्द्रः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "मीमांसा"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2486"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkwMTY2ODU2NjQ2ODMy"
 title = "न्यायकल्पलतिका"
+author = "विद्यासागर-आनन्दपूर्णमुनीन्द्रः"
+domain = "दर्शनानि"
+sub-domain = "मीमांसा"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2486"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkwMTY2ODU2NjQ2ODMy"
 
 +++
 [[न्यायकल्पलतिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjkwMTY2ODU2NjQ2ODMy)]]

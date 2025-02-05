@@ -1,16 +1,15 @@
 +++
-TITLE = "श्रीमल्लक्ष्यसंगीतम्"
-AUTHOR = "विष्णु-नारायण-भातखंडे"
-PUBLISHER = "भालचन्द्र-सिताराम-सुकथनकर-शर्मा"
-"PUBLISH YEAR" = "1933"
-DOMAIN = "कला"
-SUB-DOMAIN = "सङ्गीतम्"
-PAGES = "200"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "आर्यभूषणयन्त्रालयः"
-"SERIAL NO." = "Ebharati-4598"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNjU2MjI3MDkzMTQ0&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीमल्लक्ष्यसंगीतम्"
+author = "विष्णु-नारायण-भातखंडे"
+publisher = "भालचन्द्र-सिताराम-सुकथनकर-शर्मा"
+"publish year" = "1933"
+domain = "कला"
+sub-domain = "सङ्गीतम्"
+pages = "200"
+language = "संस्कृतम्"
+printer = "आर्यभूषणयन्त्रालयः"
+"serial no." = "Ebharati-4598"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNjU2MjI3MDkzMTQ0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[श्रीमल्लक्ष्यसंगीतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNjU2MjI3MDkzMTQ0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -8917,19 +8916,6 @@ Pablished by Mr Bhalachandra Sitaram Sulathankar MA, LL B
 | १७४ | २१  | शुद्वनदः      | शुद्वनट्टः    |
 | १७४ | २१  | शुद्धनदः      | शुद्धनट्टः    |
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

@@ -1,13 +1,12 @@
 +++
-TITLE = "युक्तिदीपिका"
-AUTHOR = "वाचस्पतिमिश्रः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "साङ्ख्यदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3908"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjcxNTgzNTEzMzUxNTcz"
 title = "युक्तिदीपिका"
+author = "वाचस्पतिमिश्रः"
+domain = "दर्शनानि"
+sub-domain = "साङ्ख्यदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3908"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjcxNTgzNTEzMzUxNTcz"
 
 +++
 [[युक्तिदीपिका	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjcxNTgzNTEzMzUxNTcz)]]

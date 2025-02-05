@@ -1,12 +1,11 @@
 +++
-TITLE = "वीणाशिखतन्त्रम्"
-DOMAIN = "आगमः"
-SUB-DOMAIN = "शाक्तम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4175"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU4MTExMjEzNDg3MDA0&pageno=MjI0MjQyNjk5NTk="
 title = "वीणाशिखतन्त्रम्"
+domain = "आगमः"
+sub-domain = "शाक्तम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4175"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU4MTExMjEzNDg3MDA0&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[वीणाशिखतन्त्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU4MTExMjEzNDg3MDA0&pageno=MjI0MjQyNjk5NTk=)]]
@@ -900,8 +899,5 @@ Cओलोफोन् :
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

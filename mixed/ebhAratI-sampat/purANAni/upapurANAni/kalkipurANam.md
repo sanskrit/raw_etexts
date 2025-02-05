@@ -1,14 +1,13 @@
 +++
-TITLE = "कल्किपुराणम्"
-PUBLISHER = "नागशरणसिङ्ग्"
-DOMAIN = "पुराणानि"
-SUB-DOMAIN = "उपपुराणानि"
-PAGES = "358"
-LANGUAGE = "संस्कृतम् हिन्दी"
-PRINTER = "न्यु-जान्-ओफ्सेट्-प्रेस्"
-"SERIAL NO." = "Ebharati-6940"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg2ODA0MjI5MzEyNjY2&pageno=MjI0MjQyNjk5NTk="
 title = "कल्किपुराणम्"
+publisher = "नागशरणसिङ्ग्"
+domain = "पुराणानि"
+sub-domain = "उपपुराणानि"
+pages = "358"
+language = "संस्कृतम् हिन्दी"
+printer = "न्यु-जान्-ओफ्सेट्-प्रेस्"
+"serial no." = "Ebharati-6940"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg2ODA0MjI5MzEyNjY2&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कल्किपुराणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDg2ODA0MjI5MzEyNjY2&pageno=MjI0MjQyNjk5NTk=)]]
@@ -10591,8 +10590,5 @@ CUNN INGIIMA'S ANCIENT GEOGRAPHY OF INDIA.
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

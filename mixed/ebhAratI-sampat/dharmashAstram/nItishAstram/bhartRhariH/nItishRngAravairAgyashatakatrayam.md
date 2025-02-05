@@ -1,16 +1,15 @@
 +++
-TITLE = "नीतिशृङ्गारवैराग्यशतकत्रयम्"
-AUTHOR = "भर्तृहरिः"
-PUBLISHER = "विष्णुदत्तः"
-"PUBLISH YEAR" = "1888"
-DOMAIN = "धर्मशास्त्रम्"
-SUB-DOMAIN = "नीतिशास्त्रम्"
-PAGES = "220"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "विक्टोरिया-मुद्रणालयः"
-"SERIAL NO." = "Ebharati-5234"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ3NjM4MjMzNDQ0MjA1&pageno=MjI0MjQyNjk5NTk="
 title = "नीतिशृङ्गारवैराग्यशतकत्रयम्"
+author = "भर्तृहरिः"
+publisher = "विष्णुदत्तः"
+"publish year" = "1888"
+domain = "धर्मशास्त्रम्"
+sub-domain = "नीतिशास्त्रम्"
+pages = "220"
+language = "संस्कृतम्"
+printer = "विक्टोरिया-मुद्रणालयः"
+"serial no." = "Ebharati-5234"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ3NjM4MjMzNDQ0MjA1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[नीतिशृङ्गारवैराग्यशतकत्रयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ3NjM4MjMzNDQ0MjA1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -3563,8 +3562,5 @@ title = "नीतिशृङ्गारवैराग्यशतकत्�
 
 
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

@@ -1,15 +1,14 @@
 +++
-TITLE = "विक्रमार्कचरित्रम्"
-PUBLISHER = "वाविळ्ळ रामस्वामिशास्त्रुलु अण्ड् सन्स्"
-"PUBLISH YEAR" = "1944"
-DOMAIN = "काव्यानि"
-SUB-DOMAIN = "कथा"
-PAGES = "146"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "वि.वेङ्कटेश्वरशास्त्रुलु"
-"SERIAL NO." = "Ebharati-5747"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMyOTkxNTA0MDk2MTU1&pageno=MjI0MjQyNjk5NTk="
 title = "विक्रमार्कचरित्रम्"
+publisher = "वाविळ्ळ रामस्वामिशास्त्रुलु अण्ड् सन्स्"
+"publish year" = "1944"
+domain = "काव्यानि"
+sub-domain = "कथा"
+pages = "146"
+language = "संस्कृतम्"
+printer = "वि.वेङ्कटेश्वरशास्त्रुलु"
+"serial no." = "Ebharati-5747"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMyOTkxNTA0MDk2MTU1&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[विक्रमार्कचरित्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDMyOTkxNTA0MDk2MTU1&pageno=MjI0MjQyNjk5NTk=)]]
@@ -2352,19 +2351,6 @@ AT THE 'VAVILLA' PRESS, MADRAS-1944.**
 **इति विक्रमार्कचरित्रं समाप्तम्**  
 **————**
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 

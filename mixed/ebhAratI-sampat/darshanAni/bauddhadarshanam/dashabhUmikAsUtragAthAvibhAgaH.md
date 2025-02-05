@@ -1,12 +1,11 @@
 +++
-TITLE = "दशभूमिकासूत्रगाथाविभागः"
-DOMAIN = "दर्शनानि"
-SUB-DOMAIN = "बौद्धदर्शनम्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-3700"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA0MTY5NjkwNjgxNTUz"
 title = "दशभूमिकासूत्रगाथाविभागः"
+domain = "दर्शनानि"
+sub-domain = "बौद्धदर्शनम्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-3700"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA0MTY5NjkwNjgxNTUz"
 
 +++
 [[दशभूमिकासूत्रगाथाविभागः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDA0MTY5NjkwNjgxNTUz)]]

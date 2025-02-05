@@ -1,12 +1,11 @@
 +++
-TITLE = "कुण्डिकोपनिषत्  सुभाषितसङ्ग्रहः"
-DOMAIN = "सुभाषितानि"
-SUB-DOMAIN = "उपनिषत्"
-LANGUAGE = "संस्कृतम्"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-4150"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAzMTUwNjA0NDgzODkz&pageno=MjI0MjQyNjk5NTk="
 title = "कुण्डिकोपनिषत्  सुभाषितसङ्ग्रहः"
+domain = "सुभाषितानि"
+sub-domain = "उपनिषत्"
+language = "संस्कृतम्"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-4150"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAzMTUwNjA0NDgzODkz&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[कुण्डिकोपनिषत्  सुभाषितसङ्ग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDAzMTUwNjA0NDgzODkz&pageno=MjI0MjQyNjk5NTk=)]]
@@ -41,8 +40,5 @@ title = "कुण्डिकोपनिषत्  सुभाषितसङ
 
 ------------------- -------------- --------------- ----------------
 
-![](include/loader.gif) **Please Wait....**
-
-**End Of Book**
 
 \]

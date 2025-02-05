@@ -1,12 +1,11 @@
 +++
-TITLE = "रसेन्द्रचूडामणिः"
-AUTHOR = "सोमदेवः"
-DOMAIN = "उपवेदाः"
-SUB-DOMAIN = "आयुर्वेदः"
-"BOOKS CONTRIBUTOR" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
-"SERIAL NO." = "Ebharati-2574"
-url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODIyNDk5NzIzNDkwNzQy"
 title = "रसेन्द्रचूडामणिः"
+author = "सोमदेवः"
+domain = "उपवेदाः"
+sub-domain = "आयुर्वेदः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"serial no." = "Ebharati-2574"
+source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODIyNDk5NzIzNDkwNzQy"
 
 +++
 [[रसेन्द्रचूडामणिः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODIyNDk5NzIzNDkwNzQy)]]

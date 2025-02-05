@@ -1,16 +1,15 @@
 +++
-TITLE = "प्रबन्धप्रकाशः"
-AUTHOR = "मङ्गलदेवशास्त्री"
-PUBLISHER = "के. मित्रा"
-"PUBLISH YEAR" = "1952"
-DOMAIN = "प्रबन्धाः"
-SUB-DOMAIN = "प्रबन्धसम्बद्धपुस्तकानि"
-PAGES = "398"
-LANGUAGE = "संस्कृतम्"
-PRINTER = "अमलकुमारबोसः"
-"SERIAL NO." = "Ebharati-7957"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU4MTU5MDAxMjQ4MzY3&pageno=MjI0MjQyNjk5NTk="
 title = "प्रबन्धप्रकाशः"
+author = "मङ्गलदेवशास्त्री"
+publisher = "के. मित्रा"
+"publish year" = "1952"
+domain = "प्रबन्धाः"
+sub-domain = "प्रबन्धसम्बद्धपुस्तकानि"
+pages = "398"
+language = "संस्कृतम्"
+printer = "अमलकुमारबोसः"
+"serial no." = "Ebharati-7957"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU4MTU5MDAxMjQ4MzY3&pageno=MjI0MjQyNjk5NTk="
 
 +++
 [[प्रबन्धप्रकाशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDU4MTU5MDAxMjQ4MzY3&pageno=MjI0MjQyNjk5NTk=)]]
@@ -7126,19 +7125,6 @@ The Manager of Government Publications Delhi.
 
 \_\_\_\_\_
 
-
-
-
-
-
-
-![](include/loader.gif) **Please Wait....**
-
-
-
-
-
-**End Of Book**
 
 
 
