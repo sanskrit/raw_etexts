@@ -162,7 +162,9 @@ Another and, A Brâhman-slaying even man to be honoured, of whom is ample wealth
 
 **शशिनस्तु़ल्यवंशो ऽपि निर्धनः परिभूयते॥३॥**
 
-with the [moon](# "One of the great royal families of India derived its origin from the moon.") of equal-lineage although the wealth-less is despised. (3)
+with the moon[^1] of equal-lineage although the wealth-less is despised. (3)
+
+[^1]: "One of the great royal families of India derived its origin from the moon."
 
 **अन्यच्च़। अव्यवसायिनम़लसं दैवपरं साहसाच्च़ परिहीणं।**
 
@@ -222,7 +224,9 @@ disappearance. Also and, Not-increasing and wealth in time with very-small-expen
 
 **ऽप्य़ंजनवत्क्ष़यमे़ति। अनुपभुज्यमानश्च़ निष्प्रयोजन एव सः।**
 
-even [collyrium-like](# "A little collyrium is used every day to darken the eyelashes.")to waste goes, not-enjoyed being and, useless indeed it,
+even collyrium-like[^2]to waste goes, not-enjoyed being and, useless indeed it,
+
+[^2]: "A little collyrium is used every day to darken the eyelashes."
 
 **तथा चो़क्तं।**
 
@@ -510,11 +514,15 @@ quickly indeed who satisfied fulfil the heart's desires? (28)
 
 **अन्यच्च़ पश्य। कुतः सेवाविहीनानां चामरोद्धूतसंपदः।**
 
-Another and behold: Whence of the service-deprived the by the [Châmara](# "Châmara, a fly-flap commonly made of the tail of the bos grunniens, and conferred as an emblem of royal favour.")-exalted-for-tunes,
+Another and behold: Whence of the service-deprived the by the Châmara[^3]-exalted-for-tunes,
+
+[^3]: "Châmara, a fly-flap commonly made of the tail of the bos grunniens, and conferred as an emblem of royal favour."
 
 **उद्दंडधवलच्छत्त्रंवाजिवारणवाहिनी॥२९॥**
 
-the on a pole [raised-white-umbrella](# "The white canopy, an emblem of royalty."), of horses-and elephants-a troop? (29)
+the on a pole raised-white-umbrella[^4], of horses-and elephants-a troop? (29)
+
+[^4]: "The white canopy, an emblem of royalty."
 
 **करटको ब्रूते। तथा़पि किम़नेना़स्माकं व्यापारेण। यतो**
 
@@ -540,7 +548,9 @@ Damanaka asks: How that? Karataka relates: There is in the Magadha-country
 
 **धर्मारण्यसंनिहितवसुधायां शुभदत्तनाम्नाकायस्थेन विहारः**
 
-in one the Dharmawood-adjoining-ground by a Subhadatta-named [Kâyastha](# "Member of a mixed caste, chiefly employed as writers.")a sanctuary
+in one the Dharmawood-adjoining-ground by a Subhadatta-named Kâyastha[^5]a sanctuary
+
+[^5]: "Member of a mixed caste, chiefly employed as writers."
 
 **कर्तुमा़रब्धः। तत्र करपत्रदार्यमाणैकस्तंभस्य कियद्दूरस्फाटितस्य**
 
@@ -746,11 +756,15 @@ the crow also (what?) not does he make with the beak of his-belly-filling? (37)
 
 **पश्य। पंचभिर्य़ाति दासत्वं पुराणैः कोऽपि मानवः।**
 
-Behold, For five goes to servitude [Purâṇas](# "Old coins, coins of small value.") some man;
+Behold, For five goes to servitude Purâṇas[^6] some man;
+
+[^6]: "Old coins, coins of small value."
 
 **कोऽपि लक्षैः कृती कोऽपि लक्षैऱपि न लभ्यते॥३८॥**
 
-some man (is) through [Lacs](# "Lac, one hundred thousand.")satisfied, some man through Lacs even not is taken. (38)
+some man (is) through Lacs[^7]satisfied, some man through Lacs even not is taken. (38)
+
+[^7]: "Lac, one hundred thousand."
 
 **अन्यच्च़। मनुष्यजातौ तुल्यायां भृत्यत्वम़तिगर्हितं।**
 
@@ -1618,7 +1632,9 @@ I go. Karataka says: Listen, 0 bull! Enough with this apprehension.
 
 **यतः। प्रतिवाचम़दत्त केशवः शपमानाय न चेदिभूभुजे।**
 
-For, A reply gave Keśava to the cursing not [Chedi-king](# "Siśupâla, king of the Chedis, was slain by Keśava i. e. Vishṇu."),
+For, A reply gave Keśava to the cursing not Chedi-king[^8],
+
+[^8]: "Siśupâla, king of the Chedis, was slain by Keśava i. e. Vishṇu."
 
 **अनुहुंकुरुते घनध्वनिं न हि गोमायुरुतानि केशरी॥८७॥**
 
@@ -1846,7 +1862,9 @@ For, Speedily, his income not-considering, squandering according to his-inclinat
 
 **परिक्षीयत एवा़सौ धनी वैश्रवणोपमः॥९५॥**
 
-is ruined certainly that rich man (at first) [Vaiśravaṇa](# "Vaiśravaṇa, the god of riches.") like. (95)
+is ruined certainly that rich man (at first) Vaiśravaṇa[^9] like. (95)
+
+[^9]: "Vaiśravaṇa, the god of riches."
 
 **स्तब्धकर्णो ब्रूते। शृणु भ्रातः। चिराश्रितावे़तौ दमनककरटकौ।**
 
@@ -1908,7 +1926,11 @@ One inwardly-corrupt with patience-endowed (is) every-evil-perpetrating in truth
 
 **शकुनिः शकटारश्च़ दृष्टांताव़त्र भूपते॥१०१॥**
 
-[Śakuni](# "Śakuni, lit, bird, the minister of Duryodhana, who deceived the Pâṇḍava princes.")[Śakatâra](# "Śakatâra or Śakaṭâla, the minister of king Nanda, who conspired with Châṇakya against his sovereign.")and (are) two examples here, O earth-lord. (101)
+Śakuni[^10]Śakatâra[^11]and (are) two examples here, O earth-lord. (101)
+
+[^10]: "Śakuni, lit, bird, the minister of Duryodhana, who deceived the Pâṇḍava princes."
+
+[^11]: "Śakatâra or Śakaṭâla, the minister of king Nanda, who conspired with Châṇakya against his sovereign."
 
 **सदा़मात्यो न साध्यः स्यात्स़मृद्धः सर्व एव हि।**
 
@@ -3720,9 +3742,11 @@ The king's sons said : How that? Vishnuśarman relates: There is in Karpûradvip
 
 **पद्मकेलिनामधेयं सरः। तत्र हिरण्यगर्भो नाम राजहंसः**
 
-Padmakeli-named a lake. There Hiraṇyagarbha by name a [flamingo](# "Literally, Royal goose, a white goose with red legs and bill, supposed to be a kind of flamingo.")
+Padmakeli-named a lake. There Hiraṇyagarbha by name a flamingo[^12]
 
 **प्रतिवसति। स च सर्वैर्ज़लचरपक्षिभिर्मिलित्वा पक्षिराज्ये**
+
+[^12]: "Literally, Royal goose, a white goose with red legs and bill, supposed to be a kind of flamingo."
 
 resides. He and by all aquatic-birds, having met, in the bird-sovereignty
 
@@ -4022,7 +4046,9 @@ Another and, Great even to smallness goes in a virtue-less virtue-extent,
 
 **आधाराधेयभावेन गजेंद्र इव दर्पणे॥१२॥**
 
-by the recipient's-and the received object's-relation, a royal elephant as in a [mirror](# "The mirror being small it can only, as recipient, reflect the elephant as a small object. To the small everything is small."). (12)
+by the recipient's-and the received object's-relation, a royal elephant as in a mirror[^13]. (12)
+
+[^13]: "The mirror being small it can only, as recipient, reflect the elephant as a small object. To the small everything is small."
 
 **विशेषतश्च़। व्यपदेशेऽपि सिद्धिः स्याद़तिशक्ते नराधिपे।**
 
@@ -4126,7 +4152,9 @@ the hares, by thee expelled, that improper done. Those hares long of us
 
 **रक्षिताः। अत एव मे शशांक इति प्रसिद्धिः। एवमु़क्तवति**
 
-protected. Thence verily of me [Śaśâṅka'](# "* Śasâṅka, i. e. hare mark, a name of the moon, the spots in the moon, or tho man in the moon, being likened by the Hindus to a hare.") thus the title. Thus having spoken
+protected. Thence verily of me Śaśâṅka'[^14] thus the title. Thus having spoken
+
+[^14]: "* Śasâṅka, i. e. hare mark, a name of the moon, the spots in the moon, or tho man in the moon, being likened by the Hindus to a hare."
 
 **दूते यूथपतिर्भ़याद़िदम़ाह। प्रणिधेहि। इदम़ज्ञानतः**
 
@@ -5010,7 +5038,9 @@ he to a wood having gone his self blue-coloured seeing thought :
 
 **अहम़िदानीमु़त्तमवर्णस्त़दाहं स्वकीयोत्कर्षं किं न साधयामि। इत्य़ा-**
 
-I now of the [finest-colour](# "This means at the same time, 'of the highest caste."), then I my-exaltation why not accomplish? Thus
+I now of the finest-colour[^15], then I my-exaltation why not accomplish? Thus
+
+[^15]: "This means at the same time, 'of the highest caste."
 
 **लोच्य शृगालाऩाहूय तेनो़क्तं। अहं भगवत्या वनदेवतया**
 
@@ -5563,7 +5593,9 @@ king Chitravarna at present on the Malaya-mountain’s-table land having pitched
 
 **ऽनुवर्तते । दुर्गशोधनं प्रतिक्षणम़नुसंधातव्यं यतो ऽसौगृध्रो**
 
-remains. [Fortress-clearance](# "Removal of all suspicious characters.")at-the moment (is) to be instituted, for that vulture
+remains. Fortress-clearance[^16]at-the moment (is) to be instituted, for that vulture
+
+[^16]: "Removal of all suspicious characters."
 
 **महामंत्री। किंच केनचित्स़ह तस्य विश्वासकथा-**
 
@@ -5745,7 +5777,9 @@ of you? Fortune said: ‘If thou ofthyself the son Saktidhara, with thirty-two-
 
 **क्षणोपेतं भगवत्याः सर्वमंगलायाउपहारीकरोषि**
 
-(auspicious) marks-endowed, of the venerable all-auspicious [one](# "Name of a deity.")an offering-markset,
+(auspicious) marks-endowed, of the venerable all-auspicious one[^17]an offering-markset,
+
+[^17]: "Name of a deity."
 
 **तदा़हं पुनऱत्रसुचिरं निवसामी़त्यु़क्त्वा़दृश्या़भवत्‌।ततो**
 
@@ -6241,7 +6275,9 @@ The minister smiling says: Sire, not beafraid! Console thyself! Listen, Sire,
 
 **मंत्रिणां भिन्नसंधाने भिषजां सांनिपातके।**
 
-Of ministers of the disunited-in the conciliation, of physicians in a [complicated](# "The name of a dangerous disease supposed to be caused by a derangement in the three humors collectively.")-
+Of ministers of the disunited-in the conciliation, of physicians in a complicated[^18]-
+
+[^18]: "The name of a dangerous disease supposed to be caused by a derangement in the three humors collectively."
 
 **कर्मणि प्रेक्ष्यते प्रज्ञा सुस्थे को वा न पंडितः॥१२१॥**
 
@@ -9279,3 +9315,21 @@ Thus in the Hitopadeśa Reconciliation by name the fourth-story-collection finis
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

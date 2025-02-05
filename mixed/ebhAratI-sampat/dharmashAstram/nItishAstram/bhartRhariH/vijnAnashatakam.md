@@ -134,11 +134,15 @@ Page 1, line 12 of Notes for Ramarshi read Ramashrami.
 
 पद्यमेतदस्पष्टमपि भर्तृहरेर्विज्ञानशतककर्तृकत्वं स्पष्टतरं बोधयति। विज्ञानशतकमेतद्वैराग्यशतकनिर्मात्रैव केनचित्कविवरेण निर्मितमित्यत्र निराकरोति संशयं पद्यमेतत्। अन्यच्च समानकर्तृकाणांकाव्यानां यन्नैसर्गिकं विचारकल्पनासाम्यं पद्यरचनारुचिसादृश्यं वर्तते तदत्रापि शतकचतुष्टये विनायासं प्राप्यते सूक्ष्मदर्शिना वाचकेन। दर्श्यते च दृष्टमस्माभिर्दिङ्मात्रम्।
 
-सहनीयतेजः श्लो० ५५- शान्तायतेजसे, वै० श० १; ' अन्नाशाय सदा रटन्ति' इत्यादिः श्लो० ९५- दीनां दीनमुखैरित्यादिः वै० श० ८; क्षुत्क्षामकंठाः श्लो० १८ - क्षुत्क्षामोऽपि वेदो निर्वेदमागादित्यादिः श्लो० ६७ - पुरा विद्वत्तासीत् वै० श० २८; 'अजरममरं चिन्तय मनः परब्रह्म श्लो १५– 'तस्मादनन्तमजरं परमं विकासि तद्ब्रह्मचिन्तय' वै० श० ७६; 'तां कांशींनोभजन्ते किमिति सुमतयो दुःखभारं वहन्ते श्लो० ३८- 'तांकांशीं परिहृत्य हन्त विबुधैरन्यत्र किं स्थीयते' वै० श० ९६; ‘नाभ्यस्तो धातुवादो' श्लो० ४७ – ' नाभ्यस्ता भुवि वादिवृन्ददमनी विद्या' वै० श० ८९; सर्वोपायविनाशनैकचतुरः कालाय तस्मै नमः ' श्लो० ९९- 'सर्व यस्य वशादगात्स्मृतिपथं कालाय तस्मै नमः' वै० श० ३७; 'जरया जीर्णीकृतायां तनौ' श्लो० ९४ - 'जराजीर्णैरंगैः ' वै० श० ११२; आढ्यः कश्चिदपण्डितोऽपि '....इ. २ गम्यास्ति वित्तं स नरः कलीनः नी० श० ४१ :ध्यानस्यचोच्छित्तये ' श्लो० \[० १०२ - 'संसारविच्छित्तये वै० श० ११. ' यद्येता मदनेषवोमृगदृशः ' इत्यादिः श्लो०५६ - कः कुर्वीत शिरः प्रणाममलिनं म्लानं मनस्वीजनो यद्वित्रस्तकुरंगशावनयना न स्युः स्मरास्त्रंस्त्रियः ' शृ० श० ११; 'प्रथयति प्रीतिञ्च कष्टञ्च नः ' श्लो० ९३-- मुदञ्च ग्लानिञ्च प्रथयति' शृ० श० ४०; ब्रह्मज्ञानसुधाकरः' श्लो० ५३- 'ज्ञानताराधिपस्य' शृ० श० ५०; 'कन्दाम्बुपर्णाशिनाम्' श्लो० ५१- 'वाताम्बुपर्णाशनाः शृ० श० ९५'दृष्टप्रायं.... कालसर्पेण' श्लो० ३५ - ' दष्टो न तच्चक्षुषा ' शृ० श० ८५ ' अर्थार्थिततया' श्लो० २१- 'आत्मबोधः ' शृ० श०५२ एतदुभयत्र व्यधिकरणबहुव्रीहिरपि सप्तमीतरविभक्तिक इति सादृश्यं द्रष्टव्यमिति दिक्। किञ्च लिखितपुस्तकान्ते ' इति श्री भर्तृहरिविरचितं विज्ञानशतकं चतुर्थ' मिति स्पष्टमुपलभ्यते। अन्यच्चहरिहरोपाध्यायविरचिते ( काव्यमालायां प्रसिद्धे ) भर्तृहरि निर्वेदनाटक इवात्रापि भर्तृहरिर्भार्यां प्रति बालाशब्देन व्यवहरति। अपि च तत्रैव नाटके पञ्चमाङ्केनिर्वेदमापन्नो भर्तृहरिः काशींगन्तुकामो राज्यादिकं सन्यस्य भार्यादीन्निवर्तयिष्यमाणो यद्वदन्निर्दिष्टस्तत्रभवता कविवरेण हरिहरेण तदेवात्राप्याह भर्तृहरिः " हेपुत्राः" इत्यादिनैकाधिकशततमे पद्ये। पुनश्च तत्तैव'विज्ञानेन विकृष्य निष्ठुरतरं नीये परब्रह्मणि' इत्यपि दृश्यते। तत्किमुक्तेन बहुना भवति खल्वेतस्मात्प्रमाणकलापाद्विज्ञानशतकस्य भर्तृहरिनिर्मातृकत्वे निरवकाशः संशयः।
+सहनीयतेजः श्लो० ५५- शान्तायतेजसे, वै० श० १; ' अन्नाशाय सदा रटन्ति' इत्यादिः श्लो० ९५- दीनां दीनमुखैरित्यादिः वै० श० ८; क्षुत्क्षामकंठाः श्लो० १८ - क्षुत्क्षामोऽपि वेदो निर्वेदमागादित्यादिः श्लो० ६७ - पुरा विद्वत्तासीत् वै० श० २८; 'अजरममरं चिन्तय मनः परब्रह्म श्लो १५– 'तस्मादनन्तमजरं परमं विकासि तद्ब्रह्मचिन्तय' वै० श० ७६; 'तां कांशींनोभजन्ते किमिति सुमतयो दुःखभारं वहन्ते श्लो० ३८- 'तांकांशीं परिहृत्य हन्त विबुधैरन्यत्र किं स्थीयते' वै० श० ९६; ‘नाभ्यस्तो धातुवादो' श्लो० ४७ – ' नाभ्यस्ता भुवि वादिवृन्ददमनी विद्या' वै० श० ८९; सर्वोपायविनाशनैकचतुरः कालाय तस्मै नमः ' श्लो० ९९- 'सर्व यस्य वशादगात्स्मृतिपथं कालाय तस्मै नमः' वै० श० ३७; 'जरया जीर्णीकृतायां तनौ' श्लो० ९४ - 'जराजीर्णैरंगैः ' वै० श० ११२; आढ्यः कश्चिदपण्डितोऽपि '....इ. २ गम्यास्ति वित्तं स नरः कलीनः नी० श० ४१ :ध्यानस्यचोच्छित्तये ' श्लो० \० १०२ - 'संसारविच्छित्तये वै० श० ११. ' यद्येता मदनेषवोमृगदृशः ' इत्यादिः श्लो०५६ - कः कुर्वीत शिरः प्रणाममलिनं म्लानं मनस्वीजनो यद्वित्रस्तकुरंगशावनयना न स्युः स्मरास्त्रंस्त्रियः ' शृ० श० ११; 'प्रथयति प्रीतिञ्च कष्टञ्च नः ' श्लो० ९३-- मुदञ्च ग्लानिञ्च प्रथयति' शृ० श० ४०; ब्रह्मज्ञानसुधाकरः' श्लो० ५३- 'ज्ञानताराधिपस्य' शृ० श० ५०; 'कन्दाम्बुपर्णाशिनाम्' श्लो० ५१- 'वाताम्बुपर्णाशनाः शृ० श० ९५'दृष्टप्रायं.... कालसर्पेण' श्लो० ३५ - ' दष्टो न तच्चक्षुषा ' शृ० श० ८५ ' अर्थार्थिततया' श्लो० २१- 'आत्मबोधः ' शृ० श०५२ एतदुभयत्र व्यधिकरणबहुव्रीहिरपि सप्तमीतरविभक्तिक इति सादृश्यं द्रष्टव्यमिति दिक्। किञ्च लिखितपुस्तकान्ते ' इति श्री भर्तृहरिविरचितं विज्ञानशतकं चतुर्थ' मिति स्पष्टमुपलभ्यते। अन्यच्चहरिहरोपाध्यायविरचिते ( काव्यमालायां प्रसिद्धे ) भर्तृहरि निर्वेदनाटक इवात्रापि भर्तृहरिर्भार्यां प्रति बालाशब्देन व्यवहरति। अपि च तत्रैव नाटके पञ्चमाङ्केनिर्वेदमापन्नो भर्तृहरिः काशींगन्तुकामो राज्यादिकं सन्यस्य भार्यादीन्निवर्तयिष्यमाणो यद्वदन्निर्दिष्टस्तत्रभवता कविवरेण हरिहरेण तदेवात्राप्याह भर्तृहरिः " हेपुत्राः" इत्यादिनैकाधिकशततमे पद्ये। पुनश्च तत्तैव'विज्ञानेन विकृष्य निष्ठुरतरं नीये परब्रह्मणि' इत्यपि दृश्यते। तत्किमुक्तेन बहुना भवति खल्वेतस्मात्प्रमाणकलापाद्विज्ञानशतकस्य भर्तृहरिनिर्मातृकत्वे निरवकाशः संशयः।
 
 अथैवमस्य विज्ञानशतकस्य भर्तृहरिनिर्मातृकत्वं प्रतिष्ठाप्य शतकचतुष्टयनिर्मातुस्तस्येदानीं जीवनसमयनिर्णयार्थंप्रयतामहे। शककर्तुर्विक्रमादित्यस्य शतककर्तुर्भर्तृहरेश्चसहोदरत्वं जोघुष्यमाणामपि किंवदन्तीं प्रमाणमाश्रित्य पण्डितवरेण काशीनाथसूरिणा निर्णीतं तत्समयं प्रामाणिकप्रमाणान्तराभावादुहृद्यं मन्महे। यदपि वाक्यपदीयशतकचतुष्टययोः समानकर्तृकत्वमङ्गीकृत्य तैर्निर्णीतं तदपि तत एव न रोचते नः। न हि कोल्ब्रुक्बोहलेनौप्रमाणम्। नापि केवलं शतशोऽप्यांग्लपण्डिताः प्रमाणं भवितुमर्हन्ति पौरस्त्या वा। प्रमाणन्त्वत्र शाद्वमपि युक्त्यनुपानादिपुष्टमेव। तदेवाश्रित्येदानीमस्माभिर्जिज्ञासा समारभ्यते। अस्मिन्विज्ञानशतके दृश्यमानाद्वेदान्तमतात्ज्ञायते नहि भर्तृहरिः शंकराचार्यात्पूर्वकालिकः किन्त्वाचार्यादर्वाचीन एवेति। यद्यपि वेदान्तवादिन औपनिषदाः प्रागाचार्यात्प्रादुरासन्निति सत्यं तथापि तदानीं " ब्रह्म सत्यं जगन्मिथ्या जीवो ब्रह्मैव नापरः " इतिशुद्धाद्वैतमतं प्रतिपादयतां सत्वे प्रमाणं नाधिगम्यते। एतन्मतखण्डने प्रवृत्तैःकाशीनाथसूरिभिरपि प्रामाणिकं प्रमाणं नोपन्यस्तं कुत्रापि। यत्तूक्तं तैः " कान्यकुब्जपतेर्हर्षवर्धनस्य समय औपनिषदाः केचनासन्नि " तितद्दुर्बलमिति नैतन्मतं खण्डयितुमलम्। एवञ्च न केवलमेतन्मतखण्डनसमर्थं सुदृढं प्रमाणं किञ्चिन्नलभ्यते प्रत्युतैतदुपोद्बलकानि बहूनि प्रमाणान्यत्रैव शतके दृश्यन्ते। नहि केवलं प्राचीनमतैकोपन्यासकार : शंकरः किन्त्वन्यमतनिरपेक्षं स्वबुद्धिप्रस्थापितं स्वतन्त्रमपि किञ्चिन्मतं स उपन्यास्थादिति निर्विवादम्। तदेवात्र चतुर्थशतके संगृहीतं भर्तृहरिणेति प्रदर्श्यते। "यत्सत्तया शुचि विभाति " इति द्वितीयपद्ये ' यदध्यस्तं सर्वंस्रजि भुजगवद्भाति पुरतो महामायोद्गीर्णंगगनपवनाद्यं तनुभृताम्। भवेत्तस्याभ्रान्तेर्मुररिपुरधिष्ठानमुदये यतो न स्याद्भ्रान्तिर्निरधिकरणा क्वापि जगति। " इति चतुर्विंशतितमे ' गगननगराकारसदृशे ' इति द्वादशे पद्येऽन्यत्र च ग्रथितार्थस्य श्रीशंकराचार्यैकप्रतिपादकत्वे कः संदेहः।
 
-किञ्चोपनिषदो मृद्वटदृष्टान्तेन जीवात्मपरत्मात्मनोरैक्यं प्रतिपादयन्ति। आचार्यस्तु पुना रज्जुसर्पदृष्टान्तेन गंधर्वनगरदृष्टान्तेन वा जगन्मिथ्यात्वं प्रतिपादयन्ति। तथा च शांकरमतं प्रतिपादयद्भिर्भाण्डारकरोपनामकैः डाक्टररामकृष्णसूरिभिरप्युक्तमिन्दूरनगरव्याख्यानसमये ब्राह्ममंदिरे[\*](# "* ज्ञानप्रकाशाद्वृत्तपत्रादुद्धृत्य गीर्वाणभाषायामनूदितम्। (ज्ञानप्रकाश, मे २०, १८९७ )")"शांकरमद्वैतं श्रुत्यद्वैतञ्चनाभिन्नम्। ब्रह्म सत्यं जगदिदं भ्रान्त्यात्मकं मृगजलं गंधर्वनगरञ्च यथेति शंकराचार्यः। श्रुत्यद्वैतं भिन्नम्। (तत्र) जीवात्मपरमात्मनोरैक्यं मृद्घटदृष्टान्तेन विशदीकृतम्। शंकराचार्य्या रज्जुसर्पदृष्टान्तमुपन्यस्यन्ति। श्रुतिषु तु जगद्ब्रह्मणोरैक्यं मृद्घटदृष्टान्तेन प्रदर्शितम्।.. श्रुतिषु यद्यप्यद्वैतं लभ्यते तथापि तच्छांकराद्वैताद्भिन्नमिति निष्कर्षः।” भट्टमोक्षमुल्लरस्तु तमेवार्थंस्फुटीकुर्वन्नाह - " यो हीदानीमुत्क्रान्तिः परिणामो विकासश्चोच्यते सोप्युपनिषत्सु नेति न। ( तत्र ) दधिपयसोर्दृष्टान्तो दत्तः। दधि तु वस्तुतः पय एव। रूपमात्राद्भिन्नम्। तथापि न केवलमेकमेवाद्वितीयं ब्रह्म किन्तु तत्स्वयंपूर्णं विकाररहितञ्चेति हेतोर्दधिदृष्टान्तस्यानुपयुक्तत्वमवलोक्य शंकरोऽन्यन्मतं स्वीचकार। ........शंकरो विवर्तवादमंगीकृतवान्। तत्स्वरूपं यथा .......................... यतः रज्जौसर्पभ्रान्तिर्भवति तद्वदिति दृष्टान्तो दत्तः ।..................... यतः शुक्त्यभावे रजतमेव न स्यात् । ....................ब्रह्म विना जगन्मिथ्यात्वं नैव संभवति । सोपाधिकं विना निरुपाधिकं न स्यात्[\*''](# "* शंकर बालकृष्ण दीक्षित इत्यनेन कृतस्याध्यात्मि २६०, २६१, २७४................... पत्रेभ्य एतदुद्धृत्य गीर्वाणभाषायामनूक्तम् । ।")। सर्वमेतद्भर्तृहरिणा चतुर्विंशतितमे पद्ये निबद्धं दृष्टमेव । तस्माद्भर्तृहरिः शांकरमतमेव पद्यरूपेण ग्रथितवानिति न शक्यं शंकितुम् । किञ्चास्मिन् शतके चतुःषष्ठितमे पद्ये प्रत्यगात्मेति पदं दृश्यते । तच्च सर्वासामुपनिषदामेकतमस्यामेव कठवल्ल्यां तदप्येकस्मिन्नेव स्थले 'प्रत्यगात्मानमैक्षादि' त्येकवारमेव प्रयुक्तं दृश्यते । तच्च तत्रैव भाष्यकारैः सुविशदं व्याख्यातं सर्वत्र स्वभाष्येऽसकृत्प्रयुक्तञ्चास्ति । ततश्चान्यैरपि व्याख्याकारैरन्यत्र तत्संगृहीतम् । भर्तृहरिणापि तदेवानुसृतमिति भाति । नहीदं पदं भाष्यकाराच्छंकराचार्यात्प्राक्कालिकग्रन्थान्तरे संप्राप्यते । प्राप्यमाणं वा न जानीमहे । एतावता शतकचतुष्टयनिर्माता भर्तृहरिः शंकराचार्य्यनन्तरमेवाभूदिति विज्ञानशतकान्निसंशयं सिध्यति । अयमेव कस्यचन रेग्नाडाख्यस्य पाश्चातत्यपण्डितस्य सिद्धान्तः । सोऽपि खोक्तस्य साधुत्वे संशयो नास्तीत्येवप्रतिपादयाम्बभूव ।
+किञ्चोपनिषदो मृद्वटदृष्टान्तेन जीवात्मपरत्मात्मनोरैक्यं प्रतिपादयन्ति। आचार्यस्तु पुना रज्जुसर्पदृष्टान्तेन गंधर्वनगरदृष्टान्तेन वा जगन्मिथ्यात्वं प्रतिपादयन्ति। तथा च शांकरमतं प्रतिपादयद्भिर्भाण्डारकरोपनामकैः डाक्टररामकृष्णसूरिभिरप्युक्तमिन्दूरनगरव्याख्यानसमये ब्राह्ममंदिरे[\*[^1]")"शांकरमद्वैतं श्रुत्यद्वैतञ्चनाभिन्नम्। ब्रह्म सत्यं जगदिदं भ्रान्त्यात्मकं मृगजलं गंधर्वनगरञ्च यथेति शंकराचार्यः। श्रुत्यद्वैतं भिन्नम्। (तत्र) जीवात्मपरमात्मनोरैक्यं मृद्घटदृष्टान्तेन विशदीकृतम्। शंकराचार्य्या रज्जुसर्पदृष्टान्तमुपन्यस्यन्ति। श्रुतिषु तु जगद्ब्रह्मणोरैक्यं मृद्घटदृष्टान्तेन प्रदर्शितम्।.. श्रुतिषु यद्यप्यद्वैतं लभ्यते तथापि तच्छांकराद्वैताद्भिन्नमिति निष्कर्षः।” भट्टमोक्षमुल्लरस्तु तमेवार्थंस्फुटीकुर्वन्नाह - " यो हीदानीमुत्क्रान्तिः परिणामो विकासश्चोच्यते सोप्युपनिषत्सु नेति न। ( तत्र ) दधिपयसोर्दृष्टान्तो दत्तः। दधि तु वस्तुतः पय एव। रूपमात्राद्भिन्नम्। तथापि न केवलमेकमेवाद्वितीयं ब्रह्म किन्तु तत्स्वयंपूर्णं विकाररहितञ्चेति हेतोर्दधिदृष्टान्तस्यानुपयुक्तत्वमवलोक्य शंकरोऽन्यन्मतं स्वीचकार। ........शंकरो विवर्तवादमंगीकृतवान्। तत्स्वरूपं यथा .......................... यतः रज्जौसर्पभ्रान्तिर्भवति तद्वदिति दृष्टान्तो दत्तः ।..................... यतः शुक्त्यभावे रजतमेव न स्यात् । ....................ब्रह्म विना जगन्मिथ्यात्वं नैव संभवति । सोपाधिकं विना निरुपाधिकं न स्यात्\*''[^2]। सर्वमेतद्भर्तृहरिणा चतुर्विंशतितमे पद्ये निबद्धं दृष्टमेव । तस्माद्भर्तृहरिः शांकरमतमेव पद्यरूपेण ग्रथितवानिति न शक्यं शंकितुम् । किञ्चास्मिन् शतके चतुःषष्ठितमे पद्ये प्रत्यगात्मेति पदं दृश्यते । तच्च सर्वासामुपनिषदामेकतमस्यामेव कठवल्ल्यां तदप्येकस्मिन्नेव स्थले 'प्रत्यगात्मानमैक्षादि' त्येकवारमेव प्रयुक्तं दृश्यते । तच्च तत्रैव भाष्यकारैः सुविशदं व्याख्यातं सर्वत्र स्वभाष्येऽसकृत्प्रयुक्तञ्चास्ति । ततश्चान्यैरपि व्याख्याकारैरन्यत्र तत्संगृहीतम् । भर्तृहरिणापि तदेवानुसृतमिति भाति । नहीदं पदं भाष्यकाराच्छंकराचार्यात्प्राक्कालिकग्रन्थान्तरे संप्राप्यते । प्राप्यमाणं वा न जानीमहे । एतावता शतकचतुष्टयनिर्माता भर्तृहरिः शंकराचार्य्यनन्तरमेवाभूदिति विज्ञानशतकान्निसंशयं सिध्यति । अयमेव कस्यचन रेग्नाडाख्यस्य पाश्चातत्यपण्डितस्य सिद्धान्तः । सोऽपि खोक्तस्य साधुत्वे संशयो नास्तीत्येवप्रतिपादयाम्बभूव ।
+
+[^1]: "* ज्ञानप्रकाशाद्वृत्तपत्रादुद्धृत्य गीर्वाणभाषायामनूदितम्। (ज्ञानप्रकाश, मे २०, १८९७
+
+[^2]: "* शंकर बालकृष्ण दीक्षित इत्यनेन कृतस्याध्यात्मि २६०, २६१, २७४................... पत्रेभ्य एतदुद्धृत्य गीर्वाणभाषायामनूक्तम् । ।"
 
 एवञ्चास्मत्कविर्भर्तृहरिः शंकराचार्य्यादर्वाचीन इति सिद्धान्तमधिगम्य तदाश्रयेणेदानीं तत्समयं निर्णेतुमुत्सहामहे । भगवतः शंकरस्य ख्रिस्ताब्दीयाष्टमशतकसामयिकत्वं सर्वेषां पाश्चात्यपण्डितानामविवादम् । परञ्चैतन्न वयं विश्वसिमः । अत्र विषये काशीनाथसूरिभी रामकृष्णसूरिभिश्चसूक्ष्मतमं निरूप्य निर्णयो निष्कृष्टः । स च काशीनाथसूरिभिः स्वसंकलितमुद्राराक्षसनाटकादावुपोद्धातेसप्रपञ्चं प्रदर्शितः । ततो ज्ञायते ख्रिस्ताब्दीयषष्ठशतकोत्तरार्धकालिको भगवान् शंकर इति । सप्रमाणमिति तन्मतमेवावलम्ब्य नहि भर्तृहरिः ख्रिस्ताब्दीयषष्ठशतकोत्तरार्धात्प्राक्कालिक इति सिद्धान्तयामः । सिद्धान्तितार्थोपोद्बलकं प्रमाणान्तरञ्चापि ब्रूमः । अस्मिन्नेवशतके पद्यत्रयं वर्तते । तद्यथा-.
 
@@ -211,9 +215,13 @@ The prevailing moral tendency of his ideas, and the lucidity and simplicity of h
 
 This mode of expression created for him a host of admirers and imitators. Many a Ŝataka that is still extant in the Sanskrit literature owes its origin to Bhartrihari. The modern votary prizes it as a treasure which he deposits in his memory, and many a flashes of poetic expression of his can be traced to an idea from the atakas. The undiminished popularity of his works has led Sanskrit scholars to investigate into his works and dispel the mists of antiquity and folk-lore that surrounded and still surround his personality. The present work which is attributed to him will probably serve them as a help and guide.
 
-Thomas Colebrooke, speaking about Bhartrihari in the 2nd volume of his Miscellaneous Essays says, "A beautiful poem has been composed in his name, containing moral reflections which the poet supposes him to make on the discovery of his wife's infidelity. It consists of either three or four Ŝatakas or centuries of [couplets\*](# "*Madras reprint Vol. ii. P. 6.")
+Thomas Colebrooke, speaking about Bhartrihari in the 2nd volume of his Miscellaneous Essays says, "A beautiful poem has been composed in his name, containing moral reflections which the poet supposes him to make on the discovery of his wife's infidelity. It consists of either three or four Ŝatakas or centuries of couplets\*[^3]
 
-This and the last stanza of the present [†](# "Vide St. CIII.")work in which the author (Bhartrihari) hopes that his Vairagya Ŝataka alone would invoke thoughts about the disgust ofthe world in the hearts of the worldly men (**गृहस्थ**);and that his lucid Ŝataka-traya would gratify the purified Hearts', have led us to believe the present work to be Bhartrihari's. The Manuscript ends in **“इति श्रीभर्तृहरिविरचितं** **विज्ञानशतकं चतुर्थम्. "**
+This and the last stanza of the present †[^4]work in which the author (Bhartrihari) hopes that his Vairagya Ŝataka alone would invoke thoughts about the disgust ofthe world in the hearts of the worldly men (**गृहस्थ**);and that his lucid Ŝataka-traya would gratify the purified Hearts', have led us to believe the present work to be Bhartrihari's. The Manuscript ends in **“इति श्रीभर्तृहरिविरचितं** **विज्ञानशतकं चतुर्थम्. "**
+
+[^3]: "*Madras reprint Vol. ii. P. 6."
+
+[^4]: "Vide St. CIII."
 
 This is the outward aspect of the work. In order to prove the present work to be his, we shall have to consider the internal as well as the external evidences relating to it, which may be brought before our notice. As the book is undoubtedly old, traditional stories would lose the greater bulk in sifting them as reliable evidences. Let us now turn towards any internal evidence that may be found out.
 
@@ -237,16 +245,30 @@ And here are some of the anologies in thoughts-:
 
 These and such other pointsof semblance will strike any careful reader. Such points of similarity in tone and style cannot be found in works of any two authors unless one designedly imitates the style, diction, and thoughts of another in all its minute details and colours. If **विज्ञानशतके** be the production of such an imitator which, we at least, cannot reconcile ourselves to believe-, if he has copied all the microscopic details-details in style, ideas, and taste, if he has copied all these, it would be an unparalleled and most singular example in the literary history of the world- an example of thorough imitation-unprecedented in the wide range of Sanskrit Book-Lore.
 
-In stanza LVII of the text, our author refers to a certain **बाला** whom we take to be his wife, who tries to persuade him to return home, him whose mind was irresistably attracted towards the mystic deeds of Shri Krishna. Here our poet most probably refers to his [wife](# "भगंगसंना; but हरिहरोपाध्याय has it भानुमती.") who tried to dissuade him from abdicating the throne and renouncing the wordly pleasures for **गंगातीरवास.** Similarly in Stanza CI he bids farewell to his son, directing him to return home with his mother, and lastly wishes them a happy journey. These Stanzas shade a faint light on the annecdote that Bhartrihari discarded the regal robes for residence in Benares in spite of the repeated entreaties of his wife and son who had sped there to bring him back. This patheticscene of the voluntery renunciation of the kingly dignity and the determined attitude of defiance to any temptations is depicted by **हरिहरोपाध्य** in his dram called ['](# "Kavya Mala Series. No. XXIX")[भर्तृहरिनिर्वेद'](# "Kavya Mala Series. No. XXIX")where, Bhartrihari is made to tell his son that it was impossible for him to return, as he was as it were pitilessly dragged by **विज्ञान** towards [परव्रह्म](# "+  विज्ञानेन विकृष्य निष्ठुरतरं नीये परब्रह्मणि  भर्तृहरिनिर्वेदः v. 25.") This shows that **हरिहरोपाध्य** was sufficiently acquaihtedwith this story of **भर्तृहरि** to insert it in his drama.
+In stanza LVII of the text, our author refers to a certain **बाला** whom we take to be his wife, who tries to persuade him to return home, him whose mind was irresistably attracted towards the mystic deeds of Shri Krishna. Here our poet most probably refers to his wife[^5] who tried to dissuade him from abdicating the throne and renouncing the wordly pleasures for **गंगातीरवास.** Similarly in Stanza CI he bids farewell to his son, directing him to return home with his mother, and lastly wishes them a happy journey. These Stanzas shade a faint light on the annecdote that Bhartrihari discarded the regal robes for residence in Benares in spite of the repeated entreaties of his wife and son who had sped there to bring him back. This patheticscene of the voluntery renunciation of the kingly dignity and the determined attitude of defiance to any temptations is depicted by **हरिहरोपाध्य** in his dram called '[^6]भर्तृहरिनिर्वेद'[^6]where, Bhartrihari is made to tell his son that it was impossible for him to return, as he was as it were pitilessly dragged by **विज्ञान** towards परव्रह्म[^8] This shows that **हरिहरोपाध्य** was sufficiently acquaihtedwith this story of **भर्तृहरि** to insert it in his drama.
+
+[^5]: "भगंगसंना; but हरिहरोपाध्याय has it भानुमती."
+
+[^6]: "Kavya Mala Series. No. XXIX"
+
+[^8]: "+  विज्ञानेन विकृष्य निष्ठुरतरं नीये परब्रह्मणि  भर्तृहरिनिर्वेदः v. 25."
 
 His disregard for the softer sex which has been conspicuously marked in the first three Ŝatakas occurs in this Ŝataka also. Similarly his great love for residence at Benares, his great reverence for Siva, Ganges, Bramha and Âtmadnyan has been marked in the present Ŝataka also. These, and similar other identities have led us to consider this work as a production of the famous **शतककार** Bhartrihari.
 
 Now rises the next question- "When did Bhartrihari live?"  
-In stanza LXV of this work our author says that there was no secure place left for a man of contemplative nature, as both the banks of Ganges were infected by .म्लेच्छ In the next stanza (St. 66) he says that the country was tainted by the trampof **म्लेच्छ**armies consisting of chariots, elephants, and the foot. Similarly in stanza **LXVII** he bemoans the degraded state of Society where Vedas were not respected, grammer and logic neglected and the country ruled despotically by a Mlechha King. Now the question that naturally strikes one after the perusal of these stanzas is, to whom does Bhartrihari refer by the epithet Mlechhas? We hazard to offer a conjecture: can it not refer to the reign of Saka? Albiruni writes thus of Prince Saka-:" Saka is the name of a prince who reigned over the countries situated between theIndus and the [Sea](# "Vide Bhan Dajee, J. R. A. S. B. R. Vol. viii, P. 242, 1864; Reinaud, Mémoire sur l Inde, 1849, P. 79."). His residence was in the centre of the Empire in the country named Arya Varta. ............The people had much to suffer from his despotism until they received aid from the East. Vikra maditya marched against him, put his army to flight, and killed him in the territory of Korur, situated between Multan and the Castle of [Luni."](# "† Max Muller: India, what can it teach us. P. 282.") The battle of Korur is said to have been fought in A. D. 544. This reference of Bhartrihari to the religious laxity of his time, and to the despotic rule of foreigners does not occur in this book only, but in **वैराग्यशतक**[also.](# "Vide वैराग्य.श St. XXVIII.") No doubt the Mlechhas were crushed by Vikramaditya, but not the whole lot of them, only the powerful majority. Moreover Bhartrihari does, not profess to be writing up to date, but gives an ideal Sketch of the then prevail ant state of society and country in general, and chooses for the purposes of delineation to throw himself back to an eventful period anterior to the one at which he was writing the present ŝataka. And moreover Sâka, the most powerful of the Hun tribes was crushed; the minor powers might have submited to Vikramaditya. These referances place our auther about the time of Vikramaditya Harsha of Ujjayin.
+In stanza LXV of this work our author says that there was no secure place left for a man of contemplative nature, as both the banks of Ganges were infected by .म्लेच्छ In the next stanza (St. 66) he says that the country was tainted by the trampof **म्लेच्छ**armies consisting of chariots, elephants, and the foot. Similarly in stanza **LXVII** he bemoans the degraded state of Society where Vedas were not respected, grammer and logic neglected and the country ruled despotically by a Mlechha King. Now the question that naturally strikes one after the perusal of these stanzas is, to whom does Bhartrihari refer by the epithet Mlechhas? We hazard to offer a conjecture: can it not refer to the reign of Saka? Albiruni writes thus of Prince Saka-:" Saka is the name of a prince who reigned over the countries situated between theIndus and the Sea[^9]. His residence was in the centre of the Empire in the country named Arya Varta. ............The people had much to suffer from his despotism until they received aid from the East. Vikra maditya marched against him, put his army to flight, and killed him in the territory of Korur, situated between Multan and the Castle of Luni."[^10] The battle of Korur is said to have been fought in A. D. 544. This reference of Bhartrihari to the religious laxity of his time, and to the despotic rule of foreigners does not occur in this book only, but in **वैराग्यशतक**also.[^11] No doubt the Mlechhas were crushed by Vikramaditya, but not the whole lot of them, only the powerful majority. Moreover Bhartrihari does, not profess to be writing up to date, but gives an ideal Sketch of the then prevail ant state of society and country in general, and chooses for the purposes of delineation to throw himself back to an eventful period anterior to the one at which he was writing the present ŝataka. And moreover Sâka, the most powerful of the Hun tribes was crushed; the minor powers might have submited to Vikramaditya. These referances place our auther about the time of Vikramaditya Harsha of Ujjayin.
+
+[^9]: "Vide Bhan Dajee, J. R. A. S. B. R. Vol. viii, P. 242, 1864; Reinaud, Mémoire sur l Inde, 1849, P. 79."
+
+[^10]: "† Max Muller: India, what can it teach us. P. 282."
+
+[^11]: "Vide वैराग्य.श St. XXVIII."
 
 Mr. Telang, in his introduction to No. XI of the Bombay Sanskrit Series remarks that Bhartrihari savours of Vedântism; and as Ŝanker was the best, and not the first expositor of. Vedânta, and as there was the Aupanishadin sect existant even prior to Ŝanker, the learned Editor prefers to place Bhartrihari as one of the Aupanishadins for convenience sake. Here, however, we beg to differ from Mr. Telang. If this Ŝataka be Bhartrihari's - and we implicitly believe it to be his, there occur in this work some peculiar terms of the Vedântic Philosophy, -terms which belong to the Ŝánkar Philosophy specially and not to any prior sectarian phraseology.
 
-In Stanza LXIV our poet uses the word **प्रत्यगात्मन्**Now this word occurs nowhere to our knowledge in any other ancient work than **काठोपनिषद्**and therein too, but once. This word is fully explained by Ŝanker in his Bhâshya[काठोपनिषद्](# " Video काठो. 4. 1.")\* and he uses this term frequently in almost all other Bhâshyas. The use of this particular word by Bhartrihari shows his thorough acquaintance with Ŝânkerâchâryan Philosophy, and we venture to say that the philosophy preached by the Ŝataka-kâr Bhartrihari is not the anticipation but the exposition of the Ŝankerácháryan doctrines.
+In Stanza LXIV our poet uses the word **प्रत्यगात्मन्**Now this word occurs nowhere to our knowledge in any other ancient work than **काठोपनिषद्**and therein too, but once. This word is fully explained by Ŝanker in his Bhâshyaकाठोपनिषद्[^12]\* and he uses this term frequently in almost all other Bhâshyas. The use of this particular word by Bhartrihari shows his thorough acquaintance with Ŝânkerâchâryan Philosophy, and we venture to say that the philosophy preached by the Ŝataka-kâr Bhartrihari is not the anticipation but the exposition of the Ŝankerácháryan doctrines.
+
+[^12]: " Video काठो. 4. 1."
 
 Similarly Stanza XXIV preaches the doctrine of Ŝanker that the अधिष्ठान of भ्रान्ति rests in परब्रह्म and the knowledge of the अधिष्ठान i.e परब्रह्मis acquired as soon as the illusion is dispelled. That there were no intermediate steps between the dispelling of भ्रान्ति and the knowledge of Brahma was a point of discussion at Ŝanker's time, brought about by the Vârtikakârs. They held out that there were some intermediate steps, but Ŝanker convinced them that it was otherwise.
 
@@ -260,11 +282,19 @@ The Advaita of Ŝânker differs from that of Ŝrutee. Ŝânker Advaita states th
 
 This abstract will be an aid to our readers in understanding the philosophical doctrines inculcated in the following pages.
 
-Historical allusions about Mlechha kings have led us to believe that Bhartrihari flourished in the reign of Siladitya II (A. D. 610-650), which opinion is supported by the remark of [Itsang](# "⚫ Vide: Max Muller; India, what can it teach us. P. 348.") that Bhartrihari died in A. D. 650. Again Ŝankerâchârya is said to have flourished in the latter half of the Sixth [century](# "Mudra-Rakshasa, Bombay Sanskrit Series, XXVII, Introduction-P. 52."). But we believe him even prior to this. Had it been otherwise, Bhartrihari would certainly have mentioned him in his works. But as we have not got any proofs to support our opinion,we may well accept Telang's opinion as it would not hinder our present purpose.
+Historical allusions about Mlechha kings have led us to believe that Bhartrihari flourished in the reign of Siladitya II (A. D. 610-650), which opinion is supported by the remark of Itsang[^13] that Bhartrihari died in A. D. 650. Again Ŝankerâchârya is said to have flourished in the latter half of the Sixth century[^14]. But we believe him even prior to this. Had it been otherwise, Bhartrihari would certainly have mentioned him in his works. But as we have not got any proofs to support our opinion,we may well accept Telang's opinion as it would not hinder our present purpose.
+
+[^13]: "⚫ Vide: Max Muller; India, what can it teach us. P. 348."
+
+[^14]: "Mudra-Rakshasa, Bombay Sanskrit Series, XXVII, Introduction-P. 52."
 
 The question whether it was Bhartrihari himself who wrote the Ŝataka, or some poet at his court composed the poem and dedicated it to the public in his master's name, -a question raised by Colebrooke is discussed at length by Mr. Telang, and hence it need not be discussed here. However we may be allowed to hint that it was not rare of yore for **श्री** and **सरस्वती** to co-operate; and as conspicuous examples we may mention the names of Rajshekhar, Bhoja, Ŝudraka and James the First of Scotland whose 'King's Quair,' is still held a standard work of great repute.
 
-We cannot similarly believe the Bhartrihari of **वाक्यपदीय** and **भट्टीकाव्य** the same as the auther of the Ŝatakas. credit be given to the story that Bhartrihari was the brother of Vikramâditya, it is quite clear that he should have flourished contemporaneously with Kâlidâs. And at the time of Kâlidâs the grammatical appliances (प्रयोग) were long settled to require a कैयट to fix them. Hence instead of supposing the reference of कैयट to [हर](# " He thus refers to हरि in his भाष्यप्रदीपः - ")िas belonging to Bhartrihari we think the Ŝataka-kâr Bhartrihari quite distinct a personage from the Grammarian [हरि](# " Vide.निबंधमाला; No. XXVIII."). Even taking as granted for a while that both the personages were one, it is impossible for such eminent a Grammarian as वाक्यपदीयकार to make such gross mistakes of grammar as would not be pardoned for a school-boy even."**\* **
+We cannot similarly believe the Bhartrihari of **वाक्यपदीय** and **भट्टीकाव्य** the same as the auther of the Ŝatakas. credit be given to the story that Bhartrihari was the brother of Vikramâditya, it is quite clear that he should have flourished contemporaneously with Kâlidâs. And at the time of Kâlidâs the grammatical appliances (प्रयोग) were long settled to require a कैयट to fix them. Hence instead of supposing the reference of कैयट to हर[^15]िas belonging to Bhartrihari we think the Ŝataka-kâr Bhartrihari quite distinct a personage from the Grammarian हरि[^16]. Even taking as granted for a while that both the personages were one, it is impossible for such eminent a Grammarian as वाक्यपदीयकार to make such gross mistakes of grammar as would not be pardoned for a school-boy even."**\* **
+
+[^15]: " He thus refers to हरि in his भाष्यप्रदीपः - "
+
+[^16]: " Vide.निबंधमाला; No. XXVIII."
 
 ---------------------------------------------  
 ***\*even."**----• We give reference to the following fow:-*
@@ -770,7 +800,9 @@ See also Sanskrit Introduction,-P. 13.*
 
 एकं तु प्रालेयाद्रेर्हिमालयस्य प्रदेशे गंगाया निवेशे तीर इति यावत्। रुचिरतरमतिमनोहरमुमायाः पार्वत्या नाट्यलीलावनी नृत्यक्रीडास्थानंयत्र तत्अतितरां प्रथितं सुप्रसिद्धं केदारस्थानं 'बद्रिकेदार' इति भाषायां प्रसिद्धमस्ति। तत्रैव सिद्धानां योगिनामाश्रमस्याश्रयभूतस्यानादिमूर्तेर्मुनिजनमनसामानन्दमूर्तेर्मूर्तिमदानन्दस्य नारायणस्य त्रिजगति ख्यातं बदरीनाम बदरी इति नाम्ना प्रसिद्धमन्यत्स्थानमस्तीति शेषः ॥ ५० ॥
 
-**सन्त्यन्ये त्रि[दशापगादिपतनादेव](# "Here the MS reads त्रिदशापगापततदेव प्रयागादयः ।") प्रयागादयः**
+**सन्त्यन्ये त्रिदशापगादिपतनादेव[^17] प्रयागादयः**
+
+[^17]: "Here the MS reads त्रिदशापगापततदेव प्रयागादयः ।"
 
 **प्रालेयाचलसंभवा बहुफलाः सिद्धाश्रमाः सिद्धयः ।**
 
@@ -970,9 +1002,11 @@ See also Sanskrit Introduction,-P. 13.*
 
 **तीर्थेति–** भूवलये पुररिपोः शंकरस्य ध्यानमेवामृतमास्वादन्ते तच्छीलास्तेषां सुमनसां शोभनमानसानांसतांसाधूनां मानसं मनः तीर्थानामवलोकने तावदुत्कण्ठते अभिलषति, यावत्ते हरस्य जटाजूटं केशकलाप एवाटवी अरण्यं तस्मिन् विभ्रमो विलासो यस्यास्तां सरितां नदीनां रोचिष्णुमुक्तावलीं भास्वन्मौक्तिकमालांश्रीमन्नाकतरंगिणींश्रीभागीरथीं, श्रीमच्छन्दोऽत्र मंगलादराद्यर्थः। न विलोकयन्ति। शार्दूलविक्रीडितं वृत्तम्॥ ७० ॥
 
-[**'संसारो विविधाधिबाधबधिरः सारायते मानसे**](# "The MS.reads संसारे विविधाधिबाधबाधिरः सारायते तामसे निःसारेऽपि &c,")
+**'संसारो विविधाधिबाधबधिरः सारायते मानसे**[^18]
 
 **निःसारोऽपि वपुष्मतां कलिवृकग्रासीकृतानां चिरम् ।**
+
+[^18]: "The MS.reads संसारे विविधाधिबाधबाधिरः सारायते तामसे निःसारेऽपि &c,"
 
 **दृष्टायां घनसारपाथसि महापुण्येन यस्यां सतां**
 
@@ -1246,7 +1280,9 @@ See also Sanskrit Introduction,-P. 13.*
 
 **आयुर्वेदविदां रसाशनवतांपथ्याशिनां यत्नतो**
 
-**वैद्यानामपि रोगजन्म [वपुषोह्यन्तर्यतो दृश्यते](# "The MS. has वपुष्यत्पुर्य &c.") ।**
+**वैद्यानामपि रोगजन्म वपुषोह्यन्तर्यतो दृश्यते[^19] ।**
+
+[^19]: "The MS. has वपुष्यत्पुर्य &c."
 
 **दुश्चक्षोत्कवलीकृतत्निभुवनो लीलाविहारस्थितः**
 
@@ -1260,16 +1296,22 @@ See also Sanskrit Introduction,-P. 13.*
 
 **येषां नाकतरंगिणीतटशिलाबद्धासनानां सतां**
 
-**प्राणा यान्ति लयं [सुखेन मनसा श्रीरंगचिन्ताभृताम्](# "Here the MS. reads सुखेन श्रीरंगवितातभ्रतां") ॥१००॥**  
+**प्राणा यान्ति लयं सुखेन मनसा श्रीरंगचिन्ताभृताम्[^20] ॥१००॥**  
+
+[^20]: "Here the MS. reads सुखेन श्रीरंगवितातभ्रतां"
 
 
 **तइति -**भुवने जगतियेषां प्राणाः नाकतरंगिण्या भागीरथ्यास्तटे तीरे शिलायांबद्धासनानामुपविष्टानामित्यर्थःमनसा श्रीरंगचिन्ताभृतां श्रीकृष्णचिन्तनपराणां सतां सुखेन लयंयान्ति ते सुशिक्षिता चिरमभ्यस्ता परब्रह्मविद्या आत्मविद्या च यैस्तथाविधा लोकानामनुरंजकाः हरिकथैव पीयूषममृतं तस्य पानप्रिया जना पुरुषा धन्या सफलीकृतजन्मान इत्यर्थः । शार्दूलविक्रीडितं वृत्तम्॥ १०० ॥
 
-**हे पुत्राः व्रजताभयं यत[इतो गेहंजनन्या समं](# " The Ms. roads इतः जनन्या &o..... शिवो मायया,")**
+**हे पुत्राः व्रजताभयं यतइतो गेहंजनन्या समं[^21]**
 
-[**रागद्वेषमदादयो भवतु वः पन्थाःशिवोऽमायया** ](# " The Ms. roads इतः जनन्या &o..... शिवो मायया,")
+[^21]: " The Ms. roads इतः जनन्या &o..... शिवो मायया,"
+
+**रागद्वेषमदादयो भवतु वः पन्थाःशिवोऽमायया** [^21]
 
 **काशींसाम्प्रतमागतोऽहमहहक्लेशेन हातुं वपुः**
+
+[^21]: " The Ms. roads इतः जनन्या &o..... शिवो मायया,"
 
 **सर्वानर्थगृहं सुपर्वतटिनीवीचिश्रियामण्डिताम् ॥ १०१ ॥**
 
@@ -1394,21 +1436,31 @@ Now इष्टं करणीयं, (do what is desirable) in the next line,
 
 **STANZA LVII.—**This seems to have been said by the poet of his wife. The reference here is to a story told about him which runs thus: When Bhartrihari, disgusted with the worldly concerns refused all pleasures to himself, and set out for Benares to devote his remaining days to religious austerities his wife tried her utmost to persuade him to return home. But in spite of all her entreaties, heretired to Banâras and there devoted himself to the worship of *Shiva*. See *Bhartrihari Nirveda Nataka* acts IV and V. also see text St. 101.
 
-**STANZA LIX.—**विरतिविरसा भुक्ता यस्मात् here both the words विरति and विरसा are synonyms. [Telang](# "See Vairagya Sataka 79. and Notes P. 55 Bomb. Sans. series.") renders विराति which is a noun there, as indifference to worldly pleasures. [B](# "See Trubuer s edition of Bhartrihari P. 50, st. 80.") *Wortham* interprets विरसा to mean devoid of pleasure. The whole expression is therefore epuivalent to because a woman, if enjoyed, becomes devoid of the capability of giving pleasure विषयविरसैः=Indifferent to worldly pleasure.
+**STANZA LIX.—**विरतिविरसा भुक्ता यस्मात् here both the words विरति and विरसा are synonyms. Telang[^23] renders विराति which is a noun there, as indifference to worldly pleasures. B[^24] *Wortham* interprets विरसा to mean devoid of pleasure. The whole expression is therefore epuivalent to because a woman, if enjoyed, becomes devoid of the capability of giving pleasure विषयविरसैः=Indifferent to worldly pleasure.
 
-**STANZA LXII.—**The pronoun एतद् is used only to point out things at hand. एते must therefore refer to some ideal personstanding before the mind's eye of the poet, while writing the stanza. It may perhaps refer to Ŝankar who, it seems, was very much admired by *Bhartrihari*. भ्रान्तवत् = like an insane man. The root त्यज् though exclusively *Parasmaipadi* is here used in the *Atmanēpada* by the rule कर्तरिकर्मव्यतिहारे (Sidh. Kau.1.3.14) which means, ‘when an exchange of functions or actions is to be expressed, a root takes Atmanêpada terminations, in the active sense. 'यत्र अन्यसंबंधिनीं क्रियामन्यः करोति इतरसंबंधिनीञ्चेतरः स कर्मव्यतिहारः’ — *Wâmana.* जानन्तोऽपि भ्रान्तवत् अभिमानं नं त्यजन्ते is the present instance. Here the कर्म of not giving up pride (अभिमान) belonging to the fools (भ्रान्त), is performed by the wise (जानन्तः) *i. e.* those who are not fools. Hence त्यज् takes *Atmanêpada*. The prefix व्यति as in व्यतिलुनीते &c.is not necessary. Comp. ' द्रक्ष्येऽहं परमेश्वरि त्रिपथगे भागीरथिस्वं वपुः ' *Valmiki* also 'एकार्णवेहिशयनात्ततः स तदृशे च तौ'– *Saptasati* I. 72. ' [\*](# "See दुर्गादंशोद्धार (Benares)")दहशेंकर्मव्यतिहारे तङ् ' *Rajaram Bhatta Ghulê.* ' संप्रहरन्ते राजानः '*Bhattoji Dikshita.*
+[^23]: "See Vairagya Sataka 79. and Notes P. 55 Bomb. Sans. series."
+
+[^24]: "See Trubuer s edition of Bhartrihari P. 50, st. 80."
+
+**STANZA LXII.—**The pronoun एतद् is used only to point out things at hand. एते must therefore refer to some ideal personstanding before the mind's eye of the poet, while writing the stanza. It may perhaps refer to Ŝankar who, it seems, was very much admired by *Bhartrihari*. भ्रान्तवत् = like an insane man. The root त्यज् though exclusively *Parasmaipadi* is here used in the *Atmanēpada* by the rule कर्तरिकर्मव्यतिहारे (Sidh. Kau.1.3.14) which means, ‘when an exchange of functions or actions is to be expressed, a root takes Atmanêpada terminations, in the active sense. 'यत्र अन्यसंबंधिनीं क्रियामन्यः करोति इतरसंबंधिनीञ्चेतरः स कर्मव्यतिहारः’ — *Wâmana.* जानन्तोऽपि भ्रान्तवत् अभिमानं नं त्यजन्ते is the present instance. Here the कर्म of not giving up pride (अभिमान) belonging to the fools (भ्रान्त), is performed by the wise (जानन्तः) *i. e.* those who are not fools. Hence त्यज् takes *Atmanêpada*. The prefix व्यति as in व्यतिलुनीते &c.is not necessary. Comp. ' द्रक्ष्येऽहं परमेश्वरि त्रिपथगे भागीरथिस्वं वपुः ' *Valmiki* also 'एकार्णवेहिशयनात्ततः स तदृशे च तौ'– *Saptasati* I. 72. ' \*[^25]")दहशेंकर्मव्यतिहारे तङ् ' *Rajaram Bhatta Ghulê.* ' संप्रहरन्ते राजानः '*Bhattoji Dikshita.*
+
+[^25]: "See दुर्गादंशोद्धार (Benares
 
 **STANZA LXIII.—**The root यत् thorgh Atmanepadi is here used in the Parasmaipada. Comp. यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम्। यतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः— *Bhagarat Gità* XV. II. and see *Madhusûdana's* commentary on it. See also Tika P. 25 तत्र cannot be properly rendered. It is here equivalent to तेषाम् or their; but तत्र never means तेषाम्। The nominative of विधत्ते is कृत्यम्। For a similar idea compare *Bhûminicilas* उपनिषदः परिपीता गीता च हन्त मतिपथं नीता। तदपि न हा विधुवदना मानससदनाद्बहिर्याति'।
 
-**STANZA LXIV.—** श्रुतिसमधिगतः = who has acquired the knowledge of Bramha प्रत्यगात्मा means individual soul प्रत्यक् lit, means that which pervades every thing. प्रत्येकम् अञ्चति अश्नुतेवासर्वज्ञे– Târânâtha. Ŝankar has explained the word प्रत्यगारमा thus: — "[प्रत्यक्](# "See Kathakopanisad 1. 1. Sankar Bhasya.") चासावारमा चेति प्रत्यगात्मा प्रतीच्येवात्मशब्दो रूढो लोके नान्यस्मिन्। व्युत्पत्तिपक्षेऽपि तत्रैवात्मशब्दो वर्तते। 'यञ्चाप्नोति यदादत्ते यच्चात्ति विषयानिह। यच्चास्य सन्ततो भावस्तस्मादात्मेति कीर्त्यते' इत्यात्मशब्दव्युत्पत्तिश्रवणात्। तं प्रत्यगात्मानं स्वस्वभावमैक्षत् पश्यतीत्यर्थः। (See introduction.) The poet here argues, if the Atma or soul which has acquired the knowledge of *Bramha*, is free from merit or sin why should men practice penance. For the idea that the soul which has acquired the knowledge of *Bramha* is free from merit and sin compare 'न वर्धते कर्मणा नो कनीयान्'। 'नैनं पाप्मा (पाप्मा पुण्यपापलक्षणः। शां. भा.) तरति सर्वं पाप्मानं तरति नैनं पाप्मा तपति सर्वं पाप्मनं तपति। 'नैनं कृताकृते तपतः ' *Brihadaranyakopanisad* 4. 4. 23, 22. compare too Gita बुद्धियुक्तो जहातीह उभे सुकृत दुष्कृते । II. 50.
+**STANZA LXIV.—** श्रुतिसमधिगतः = who has acquired the knowledge of Bramha प्रत्यगात्मा means individual soul प्रत्यक् lit, means that which pervades every thing. प्रत्येकम् अञ्चति अश्नुतेवासर्वज्ञे– Târânâtha. Ŝankar has explained the word प्रत्यगारमा thus: — "प्रत्यक्[^26] चासावारमा चेति प्रत्यगात्मा प्रतीच्येवात्मशब्दो रूढो लोके नान्यस्मिन्। व्युत्पत्तिपक्षेऽपि तत्रैवात्मशब्दो वर्तते। 'यञ्चाप्नोति यदादत्ते यच्चात्ति विषयानिह। यच्चास्य सन्ततो भावस्तस्मादात्मेति कीर्त्यते' इत्यात्मशब्दव्युत्पत्तिश्रवणात्। तं प्रत्यगात्मानं स्वस्वभावमैक्षत् पश्यतीत्यर्थः। (See introduction.) The poet here argues, if the Atma or soul which has acquired the knowledge of *Bramha*, is free from merit or sin why should men practice penance. For the idea that the soul which has acquired the knowledge of *Bramha* is free from merit and sin compare 'न वर्धते कर्मणा नो कनीयान्'। 'नैनं पाप्मा (पाप्मा पुण्यपापलक्षणः। शां. भा.) तरति सर्वं पाप्मानं तरति नैनं पाप्मा तपति सर्वं पाप्मनं तपति। 'नैनं कृताकृते तपतः ' *Brihadaranyakopanisad* 4. 4. 23, 22. compare too Gita बुद्धियुक्तो जहातीह उभे सुकृत दुष्कृते । II. 50.
+
+[^26]: "See Kathakopanisad 1. 1. Sankar Bhasya."
 
 **STANZA LXV.— कृतपरिजनः प्राकृतजनः** meaus the vulgar classes or Südras have employed servants to serve them. This was at that time supposed to be one of *the greatest ciolation against religion*, the duties of the Südras being to serve and not be served. No better interpretation of the expression seems possible.
 
 **STANZA LXVII—**The Yarana king in this stanza and the Micchus in the preceeding one refer perhaps to the king Sike defeated by *Vikramaditya*, in the battle of Korur, in A. D. 544.
 
-The description of the Saka given by Albiruni in his account. of the battle of Korur, coincides with that given by Bhartrihari in these lines. "Saka", says he, "is the name of a prince who reigned over the countries situated between the Indus and the sea. His residence was in the centre of the empire, in the country named Aryâicarta. The Indians represent him as born. in another class than that of the sákyus; some pretend that he wasa súdra and a native of the town of Mansura...........................The People had much to suffer from his despotism untill they received aid from the east. *Vikramaditya* marched against him put his army to flight and killed him in the territory of *Korur* situated between Multan and the castle of Lany." [(See introduction.)](# "See India: What can it teach as? P. 282, note.")
+The description of the Saka given by Albiruni in his account. of the battle of Korur, coincides with that given by Bhartrihari in these lines. "Saka", says he, "is the name of a prince who reigned over the countries situated between the Indus and the sea. His residence was in the centre of the empire, in the country named Aryâicarta. The Indians represent him as born. in another class than that of the sákyus; some pretend that he wasa súdra and a native of the town of Mansura...........................The People had much to suffer from his despotism untill they received aid from the east. *Vikramaditya* marched against him put his army to flight and killed him in the territory of *Korur* situated between Multan and the castle of Lany." (See introduction.)[^27]
 
 **STANZA LXXII**—Here the word मनोज is superfluous, as it gives no suitable meaning. The word may perhaps be taken to mean that the bank was so pleasant that the God of love had made it his residence or park. By the rule अदसस्तुसंनिकृष्टे the pronoun अदस् is used only when proximity or vicinity isimplied.Hence from the epithet अमीषांin this stanza, we may safely infer that the poet was in Benares when he composed this Ŝataka. See text st. 101.
+
+[^27]: "See India: What can it teach as? P. 282, note."
 
 **STANZA LXXVII—** महि = Greatness. 'महिमहिमानम् ' –*Shridhar*. Comp. 'नेशे महित्ववसितुं मनसान्तरेण'।–*Bhagvatam* X. 14. The MS. is here very incorrect; it reads—‘केनापि प्रतिवक्तु शक्तिमहिपा देवेन' &c.
 
@@ -1423,7 +1475,11 @@ The description of the Saka given by Albiruni in his account. of the battle of K
 
 **St. LXXXIX—** The stanza as read in the MS. is thus — "मूर्ते स्वकाये श्रुतिरुदित कृपाणेति नेती नेत्यविद्यां। तन्मूलवानभीष्टमपनुदतियतो लोकसिद्धाविदंते॥ तस्मादाविद्यमेके जगति नरमते दृष्टनष्टस्वभावे द्विद्वांनपि देहपातं क्षणमपि मनसा ब्रह्मभूपं पिपासुः॥ ८९॥"I have not been able to correct this stanza. Intelligent readers are requested to correct it and let me know the corrections.
 
-**St, XC—** The word धान्यासु is unintelligible. कूटस्था= "unmoved by aught"–Telang. "कूटस्थोऽप्रकंप्यो भवतीत्यर्थः " –Ŝankar. Telang has rondered कूटस्थ also by 'indifferent or passively looking [on](# "See Bhagvat Giti P. 79, foot note (Bom Saus. Series 1875)")" Ŝankar has also explained it thus–"दृश्यमानगुणमन्तर्दोषं वस्तु कूटं कूटरूपं कूटसास्यमित्यादौ कूटशब्दः प्रसिद्धोलोके। तथा चाविद्याधनेक संसारबीजमन्तर्दोषवन्मार्याव्याकृतादिशब्दषाष्पतया मायांतु प्रकृर्ति विद्यान्मायिनं तु महेश्वरम्' 'मम माया दुरत्पया इत्यादौ प्रसिद्धं यत्कूटं तस्मिन्कूटे स्थितं कूटस्थं तदध्यक्षतयाऽथवा राशिरिवं स्थितंकूटस्थम्[\*](# " See Sankar Bhasya, Gita, x11. 3.") " जीवन्मुक्तः= Liberated while living. Comp. " Disengaged from metempsychosis, 'and. still in the body, the perfected sage is said to be untouched bymerit and demerit, unsoiled by sin, 'uninjured by any thing he dees or leaves undone."–Gough.
+**St, XC—** The word धान्यासु is unintelligible. कूटस्था= "unmoved by aught"–Telang. "कूटस्थोऽप्रकंप्यो भवतीत्यर्थः " –Ŝankar. Telang has rondered कूटस्थ also by 'indifferent or passively looking on[^28]")" Ŝankar has also explained it thus–"दृश्यमानगुणमन्तर्दोषं वस्तु कूटं कूटरूपं कूटसास्यमित्यादौ कूटशब्दः प्रसिद्धोलोके। तथा चाविद्याधनेक संसारबीजमन्तर्दोषवन्मार्याव्याकृतादिशब्दषाष्पतया मायांतु प्रकृर्ति विद्यान्मायिनं तु महेश्वरम्' 'मम माया दुरत्पया इत्यादौ प्रसिद्धं यत्कूटं तस्मिन्कूटे स्थितं कूटस्थं तदध्यक्षतयाऽथवा राशिरिवं स्थितंकूटस्थम्\*[^29] " जीवन्मुक्तः= Liberated while living. Comp. " Disengaged from metempsychosis, 'and. still in the body, the perfected sage is said to be untouched bymerit and demerit, unsoiled by sin, 'uninjured by any thing he dees or leaves undone."–Gough.
+
+[^28]: "See Bhagvat Giti P. 79, foot note (Bom Saus. Series 1875
+
+[^29]: " See Sankar Bhasya, Gita, x11. 3."
 
 **St. XCI**— विद्या = ब्रह्मविद्या=Knowledge of *Bramha*. दर्शयन्ती literally means pointing to; here it means leading to. For कूटस्थं ' see Stanza XC. अर्थ = meaning, sense, signification, its import.-*Apte*'. Here I render it by 'words.' The translation of the stanza is this.– There is a great difference between *Vidya* and *Máya* or illusion. The former, which is naturally good destroys the illusion and loads to the highest happiness, unmixed by sorrow, stable and self oxistant; while the latter, which is itself pride and which is a great hindrance to the attainment of the higher happiness, writes the words of evils upon the board of mind, with the red chalk of desire produoed in the mountain of sensual objects; comp 'ब्रह्मवेद ब्रह्मैव भवति। *Munda,* 3, 2 9 compare too "तदानीं काविद्या भृशमसहमानौपनिषदं विचारम्" St. 92.
 
@@ -1456,3 +1512,41 @@ The description of the Saka given by Albiruni in his account. of the battle of K
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^22]: " The Ms. roads इतः जनन्या &o..... शिवो मायया,"
+
+
+[^7]: "Kavya Mala Series. No. XXIX"

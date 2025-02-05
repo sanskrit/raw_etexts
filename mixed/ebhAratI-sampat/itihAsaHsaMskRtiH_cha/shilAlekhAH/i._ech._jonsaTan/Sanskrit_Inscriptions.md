@@ -80,11 +80,17 @@ It is said to be now at Akyab in the charge of the Honorary Archæological Offic
 
 I have made use of two excellent rubbings belonging to the University of Rangoon; in a number of cases, where one is not clear, the other gives the doubtful character more legibly. I have also had at my disposal photographs taken many years back by the Archæological Survey, but these appear to have been taken after the marks on the surface had been filled in with some white substance for greater legibility, and this process was not carried out with sufficient accuracy for the photographs to be usable with safety, except in a few instances, where their indications have corroborated readings of which I might otherwise have been in doubt. In a few lines the last few characters have been cut away at some later date, perhaps when the pillar was removed from its original site and had to be fitted into a new position (Plate III).
 
- Beneath this inscription are two short lines in a later hand (about tenth century ?), whose purpose is not clear to me. On the north face the early inscription is followed by several later inscriptions, in an untidy hand of the tenth century, which have been considerably damaged, and though I have read a number of words, these are not enough to enable me to attempt a reading of them; as in the case of the east face, much more could probably be done by expert examination of the actual stone. The total number of lines in these is sixty-nine. Finally there is an inscription, almost entirely illegible, on the top of the pillar, but the very few readable letters on it do not justify any positive conclusions about its date, except that it is probably not distant in time from those just mentioned on the north f[ace](# "Prof. Johnston succeeded in deciphering many letters of the inscription on the north face, but his results were too fragmentary to be published.").
+ Beneath this inscription are two short lines in a later hand (about tenth century ?), whose purpose is not clear to me. On the north face the early inscription is followed by several later inscriptions, in an untidy hand of the tenth century, which have been considerably damaged, and though I have read a number of words, these are not enough to enable me to attempt a reading of them; as in the case of the east face, much more could probably be done by expert examination of the actual stone. The total number of lines in these is sixty-nine. Finally there is an inscription, almost entirely illegible, on the top of the pillar, but the very few readable letters on it do not justify any positive conclusions about its date, except that it is probably not distant in time from those just mentioned on the north face[^1].
+
+[^1]: "Prof. Johnston succeeded in deciphering many letters of the inscription on the north face, but his results were too fragmentary to be published."
 
   The palæography of these inscriptions is of considerable interest, and allows certain inferences to be drawn as to the nature of Indian influence in Arakan. When these inscriptions are compared with the few which have been published from Burma proper, the curious point arises that the scripts used in Arakan, unlike those in Burma, all find close analogies with those current in North-Eastern India, and I propose dates accordingly in this paper in consonance with the principles which would be applied to inscriptions from that part of India. The justification for this procedure lies in the results, namely, a logical development of the alphabets and a coherent scheme of dates, covering a number of centuries ; the parallelism is so exact that we need hardly assume any substantial "time-lag" for the introduction of changes; that assumption would in the circumstances make it necessary to postulate a time-lag of similar length in all cases throughout a period of five centuries.
 
- The first three inscriptions, which are of a purely religious character, belong to a tradition other than that which characterizes the remainder; the traces of this tradition in Eastern India have not hitherto been fully r[ecognized](# "For these three the plates in the excellent paper by Dr. S. N. Chakravarti, JASB., iv, 1938, pp. 352-391, on the development of the Bengali character should be consulted. But his view that inscriptions can be dated by consideration of one or two crucial characters is only valid when datable records are available in such numbers that development can be traced fromdecade to decade; this condition is not satisfied for the period in question, and in general it is desirable to take account of as many letters as possible."). The bell-inscription, which I take first, is shown by its forms for the letters ka and śa and its tripartite *ya* to be probably not later than A.D. 650. Other indications, particularly the forms of *sa* and *ma*, suggest the unlikelihood of its being much earlier, but the script has some unusual features, partly archaic. *Da* has the curve rounded, without the point on the left of the curve or the later short cross-stroke at the end of it, and *dha* is a small complete circle. The vowel *u* is added to *t* by bringing the end of the consonant round in a curve and up to the top line, a development of a form hitherto best known from earlier inscriptions in Central and Southern [India,](# "Būhler, Ind. Palaeogr., pl. iii, cols. 17 and 19, and pl. vii, cols. 1 and 11; see also D. C. Sircar, Successors of the Satavahanas (University of Calcutta, 1939), pp. 328 ff., a second century inscription from Ellura in H.H. the Nizam s Dominions.")but, as will be shown, characteristic of this epoch in Bengal. For *ma* the left-hand down-stroke turns to the right almost at once, and the short stroke at the bottom left-hand corner, which is usually horizontal, slopes upward so as to form a sharp re-entrant angle with the down-stroke. The letter *sa* has at the left a triangle, much larger than in Būhler, Pl. IV, cols. 11 and 12, so that the top of it reaches the cross-line at the top of the letter. Initial iconsists of two dots or small nicks, one vertically above the other, which are clearly visible in the photograph but hardly to be distinguished in the rubbing, followed by a member closely resembling *da*. Unfortunately there are no examples of *la* and *ha*, which have marked peculiarities on the Sandoway stone, but the one occurrence of *jñā*suggests the possibility that ja was beginning to undergo the change of shape which occurred in the second half of the seventh century.
+ The first three inscriptions, which are of a purely religious character, belong to a tradition other than that which characterizes the remainder; the traces of this tradition in Eastern India have not hitherto been fully recognized[^2]. The bell-inscription, which I take first, is shown by its forms for the letters ka and śa and its tripartite *ya* to be probably not later than A.D. 650. Other indications, particularly the forms of *sa* and *ma*, suggest the unlikelihood of its being much earlier, but the script has some unusual features, partly archaic. *Da* has the curve rounded, without the point on the left of the curve or the later short cross-stroke at the end of it, and *dha* is a small complete circle. The vowel *u* is added to *t* by bringing the end of the consonant round in a curve and up to the top line, a development of a form hitherto best known from earlier inscriptions in Central and Southern India,[^3], pp. 328 ff., a second century inscription from Ellura in H.H. the Nizam s Dominions.")but, as will be shown, characteristic of this epoch in Bengal. For *ma* the left-hand down-stroke turns to the right almost at once, and the short stroke at the bottom left-hand corner, which is usually horizontal, slopes upward so as to form a sharp re-entrant angle with the down-stroke. The letter *sa* has at the left a triangle, much larger than in Būhler, Pl. IV, cols. 11 and 12, so that the top of it reaches the cross-line at the top of the letter. Initial iconsists of two dots or small nicks, one vertically above the other, which are clearly visible in the photograph but hardly to be distinguished in the rubbing, followed by a member closely resembling *da*. Unfortunately there are no examples of *la* and *ha*, which have marked peculiarities on the Sandoway stone, but the one occurrence of *jñā*suggests the possibility that ja was beginning to undergo the change of shape which occurred in the second half of the seventh century.
+
+[^2]: "For these three the plates in the excellent paper by Dr. S. N. Chakravarti, JASB., iv, 1938, pp. 352-391, on the development of the Bengali character should be consulted. But his view that inscriptions can be dated by consideration of one or two crucial characters is only valid when datable records are available in such numbers that development can be traced fromdecade to decade; this condition is not satisfied for the period in question, and in general it is desirable to take account of as many letters as possible."
+
+[^3]: "Būhler, Ind. Palaeogr., pl. iii, cols. 17 and 19, and pl. vii, cols. 1 and 11; see also D. C. Sircar, Successors of the Satavahanas (University of Calcutta, 1939
 
   This script is closely akin, both in general character and in respect of these peculiarities, to two of the Faridpur copperplates, Nos. 1722 and 1724 of Bhandarkar's list. The authenticity of the two latter, as well as of a third, No. 1723 of the same list, which was doubted at one time, appears now to be generally accepted; I confess, however, to feeling doubts about No. 1723. No. 1722, issued by Dharmāditya in the year 3, and No. 1724, issued by Gopacandra in the year 19, should be genuine in view of their peculiar relation- ship to the bell-inscription, and Gopacandra's may perhaps be the earlier ; but No. 1723, issued by Dharmāditya without any mention of the year, differs considerably in script, and I do not take it into consideration here, though I would not venture without a personal examination of the plate definitely to stigmatize it as a later forgery. 1722 has *tu* in the form mentioned above, the two places where it should occur in 1724 being illegible in the reproduction, and the same form of *u* is found in 1722 for du and *śu*. In 1724 *dha* (ll. 19 and 22) is circular, but larger in proportion to the other letters than on the bell; but in 1722 it is usually slightly elliptical, e.g. 1. 21, but less often it is a semi-oval (both forms in l. 2). *Sa* has the triangle on the left in both plates; but while it is normal in Gopacandra's, there are two instances, ll. 14 and 19, in 1722, where the triangle is enlarged and the apex reaches right up to the top line, as in the bell. *Ma* is nearly normal in 1724, but shows the beginning of theprocess whereby the bell form was reached;1722, on the other hand, has it in a form even more exaggerated than the bell, and in l. 20 for instance the point of the angle is only just below the main line, being thereby related to the occurrences on the Sandoway stone which will be discussed later. In both plates *va* is more or less triangular in shape; while, however, in 1722 the apex never reaches the top line, in 1724 occasionally, e.g. l. 3, it not merely reaches the top line, but shows a tendency for the two sides not to meet on or before reaching the top line, thus resembling *rvvā* of the bell, but in no case so pronounced as in the va of *avāptaye*. There are also certain differences: in 1724 *śa* has a normal form with rounded top (Bühler, Pl. IV, cols. 5 to 10), but in 1722 the central bar is curved upwards at each end, so as to give the top half of the character the shape of a horizontal oval. Initial i occurs in the archaic form of Bühler, Pl. IV, col. 5, consisting of two small circles followed by a downstroke with a short crosspiece at the top. The interesting forms of la and ha are discussed below in connection with the Sandoway stone.
 
@@ -104,15 +110,21 @@ I have made use of two excellent rubbings belonging to the University of Rangoon
 
  The inferences to be drawn from the somewhat complicated palæography of these inscriptions are best considered at a later stage, after their language and contents have been treated. The bell-inscription follows a common Mahāyāna formula, which can be traced from the sixth century onwards for as long as Buddhism prevailed in India. It is unfortunate that the bell has been badly damaged just where the donor's name is written, but if I am right in reading the first syllable as *Mya,* it would seem unlikely that the name was Sanskritic in form. The stūpa-inscription has the well known *ye dharmā* verse, and is not well enough preserved to show any peculiarities there might be in it. On the Sandoway stone the *ye dharmā* verse is in Sanskrit, but so incorrectly written as to imply that Sanskrit was little known in South Arakan. The dedicatory lines are unfortunately difficult to read; the donors' names are uncertain, but clearly not Sanskritic in form, and it is impossible even to conjecture what the object dedicated was. The language of this part is presumably meant to be Pali, to judge from the verb *akārayi*; but even the form of this word is uncertain, as the two short parallel horizontal lines after the last letter might indicate *m*, and if so, it should be conjectured that a *su* has been omitted. *Kusala* for *kuśala* should also be noted. If the language is Pali, we can only conclude that South Arakan, unlike north, had derived its Buddhism from Burma proper.
 
- Nothing to the point can be said about the other inscriptions earlier than Ānandacandra's, except that the few words I have read show them to be in Sanskrit; these do not indicate their substance, and I have been unable to detect any certain proper names. In the separate inscription, 1. 11, there may be a proper name before the words *bhūpa\[tiḥ\] pṛ\[thivī*\], which are legible, but I cannot make anything out of it that will hold water. *Ānandacandra's praśasti*consists of sixty-five verses, in a rather doggerel style marred by several solecisms; a prose sentence is interpolated between verses 45 and 46. Not enough of the first verse is legible to be worth recording; the second appears to be in ordinary anuṣṭubh śloka, as are all the rest, except verses 40, 61, 63, 64, and 65 in upajāti, 52 and 59 in mixed indravaṁśa and vamśastha, and 32, 42, 44, and 62 in vasantatilaka. By a licence which Aśvaghoṣa also allowed himself (*Saundarananda*, vii, 48 c), pāda 2 of verse 44 in vasantatilaka metre ends in a short syllable instead of a long one. A short vowel remains short before *sv* in verse 24, before *tr* in verse 32 as emended by me in the notes, and before *śr* in verse 51. The first pāda of verse 20 is hypermetric. In verse 21 nagara is treated as masculine, and in verse 30 *upabhoga* as neuter. In verse 18 the *ṝ*in °*kartṛṇām* has been shortened for metrical reasons. There are some cases of double saṁdhi, in one of which a long syllable has also been shortened, again to suit the metre, namely verse 46, *vihārāneka* for *vihārā anekāḥ,* verse 49, *paśadārumayānekā* for *mayā anekāḥ;* and in verse 51 the compound *ᵒrājatānekān* is presumably meant for *ᵒrājatān [anekān](# "In v. 49a the poet may possibly have meant to write mayā naikāḥ, and in v. 51a rājatān naikān. But in v. 46b, even if we correct to naika, we cannot save him from the reproach of barbarism.").*In two cases, again because of the metre, the nominative ending -o has been shortened to -a, verse 44 Ananda- candra for candro, and verse 62, *Śrītāmrapaṭtananarādhipa* for °-*po*; in 42, therefore, one should probably understand *Vajraśaktisuto vīra* for *ᵒsutavīraᵒ*, and I am not sure that the following line should not be divided *Śrīdharmacandra* (i.e. for ºcandro) *mahimāprathitaprabhāvaḥ*, except that there is no authority for prath with a later than the [Ṛigveda.](# "See notes in loco and translation.")
+ Nothing to the point can be said about the other inscriptions earlier than Ānandacandra's, except that the few words I have read show them to be in Sanskrit; these do not indicate their substance, and I have been unable to detect any certain proper names. In the separate inscription, 1. 11, there may be a proper name before the words *bhūpa\[tiḥ\] pṛ\[thivī*\], which are legible, but I cannot make anything out of it that will hold water. *Ānandacandra's praśasti*consists of sixty-five verses, in a rather doggerel style marred by several solecisms; a prose sentence is interpolated between verses 45 and 46. Not enough of the first verse is legible to be worth recording; the second appears to be in ordinary anuṣṭubh śloka, as are all the rest, except verses 40, 61, 63, 64, and 65 in upajāti, 52 and 59 in mixed indravaṁśa and vamśastha, and 32, 42, 44, and 62 in vasantatilaka. By a licence which Aśvaghoṣa also allowed himself (*Saundarananda*, vii, 48 c), pāda 2 of verse 44 in vasantatilaka metre ends in a short syllable instead of a long one. A short vowel remains short before *sv* in verse 24, before *tr* in verse 32 as emended by me in the notes, and before *śr* in verse 51. The first pāda of verse 20 is hypermetric. In verse 21 nagara is treated as masculine, and in verse 30 *upabhoga* as neuter. In verse 18 the *ṝ*in °*kartṛṇām* has been shortened for metrical reasons. There are some cases of double saṁdhi, in one of which a long syllable has also been shortened, again to suit the metre, namely verse 46, *vihārāneka* for *vihārā anekāḥ,* verse 49, *paśadārumayānekā* for *mayā anekāḥ;* and in verse 51 the compound *ᵒrājatānekān* is presumably meant for *ᵒrājatān anekān[^4].*In two cases, again because of the metre, the nominative ending -o has been shortened to -a, verse 44 Ananda- candra for candro, and verse 62, *Śrītāmrapaṭtananarādhipa* for °-*po*; in 42, therefore, one should probably understand *Vajraśaktisuto vīra* for *ᵒsutavīraᵒ*, and I am not sure that the following line should not be divided *Śrīdharmacandra* (i.e. for ºcandro) *mahimāprathitaprabhāvaḥ*, except that there is no authority for prath with a later than the Ṛigveda.[^5]
+
+[^4]: "In v. 49a the poet may possibly have meant to write mayā naikāḥ, and in v. 51a rājatān naikān. But in v. 46b, even if we correct to naika, we cannot save him from the reproach of barbarism."
 
  For convenience of reference I have numbered the verses and assumed that the double daṇḍa after the eighth character in line 3 marks the end of the second verse; if there were only one verse it is difficult to find a long metre ending —o—o—, and we should have to presume an introductory sentence in prose, followed by one invocatory verse. From the remains it seems that if I am right in counting two verses, the inscription started with two invocatory stanzas, one perhaps to the Buddha, and one to Hindu deities, as *trilocana* should refer to Śiva. The indications in the first line are consistent with reading *Bodhisatva* near the beginning of the first line, but only the letter sa is certain. The next forty-three verses give a list of the kings of Arakan, divided into three periods, early (partly at least mythical) in sixteen verses, the thirteen kings of the Candra dynasty in fourteen verses, and the later kings in thirteen verses. The length of the early period is given as 1,060 years, taking *ṣaḍdaśādhikam* to mean plus 60"; if "plus 16" had been meant the reading would have been *ṣoḍaśādhikam*, and we are authorized to take *daśa* in the sense of " decade" by *Manu*, vii, 116. In either case, however, it is impossible from what can be read to say how this total was arrived at. Much of the earlier part is illegible, including verse 3 dealing with the first reign. Then followfive reigns of 120 years each; the only certain names of kings are the fourth and fifth, Bahubalin and Raghupati. The next king appears also to have reigned 120 years. We then probably leave the region of myth with Candrodaya, who is said to have reigned twenty-seven years, and it is tempting to equate him with Candrasurya of the Arakan Chronicles, which give his accession date as A.D. 146; if the length of reigns in the inscription is to be trusted—and it should be in my view, at least from the Candra dynasty onwards— the date of his accession ought on the chronology accepted here to fall in the last quarter of the second century. The Chronicles may have preserved some recollection of fact at this point, but the names of Candrasūrya's successors, all beginning with Sūrya and reigning till 788, are clearly mythical. After Candrodaya the Aṇṇaveta kings reigned for five years; the name suggests indigenous rulers. The name of the next king is lost, and he is said to have reigned for the improbable period of seventy-seven years. Of the following names some are doubtful readings, and several are un-Indian, the list running :—
+
+[^5]: "See notes in loco and translation."
 
 Riṁbhyappa (?), 23 years.  
 Kūverāmi or Kūverā, a queen, 7 years.  
 Umavīrya (?), husband of the preceding, 20 years.  
 Jugna (?), 7 years.  
-Lāńkī, 2 [years](# "¹ [See notes below.]").
+Lāńkī, 2 years[^6].
+
+[^6]: "¹ [See notes below.]"
 
   If we have at present no means of checking the historicity of this list, the case is quite different with the Candra dynasty, the coins of six of them having been found as described in the Appendix, and it is to be hoped that when excavation is regularly undertaken in Arakan, the series will be completed. The founder of the dynasty had the curious name of Dveň Candra, which perhaps survives in the word Taing, prefixed in the Chroniclesaccount to the name Candra for the first nine kings of the line, as its Sanskrit equivalent would apparently be *Tuiṅ*. The Sanskritic names of all the kings, except the first, and the scripts used on their coins suggest that they maintained close contact with India. On the other hand the type of the coinage has no parallel among Indian coins, and the only changes that it shows are of minute details. The first king is recorded in the inscription as embellishing and fortifying the capital; but no name is given to it. If we are to follow the Chronicles, its Indian name was Vaiśālī, which is perhaps suggestive of the part of India from which the ruling family came. The probable date for the beginning of the dynasty is between A.D. 330 and 360; it may be therefore that we are dealing with a family of adventurers who left North Bihar when the Guptas had finally established their dominion there. The list of the kings is as follows:—
 
@@ -135,21 +147,45 @@ Coin Cabinet of a coin bearing this name (*Ann. Rep.* *A.S.I*., 1910–11, p. 92
 
  The dynasty of thirteen kings thus lasted for 230 years, and though the only kings who can be tentatively identified in the account given by the Chronicles are DveṇCandra and Kālacandra, yet we find there the same length given to the dynasty, 230 years, from 788-1018; twelve kings are named, but the title Candra is not given to the last three, in whom is possibly preserved a muddled recollection of later kings. It would seem that the Chronicles derived ultimately from an authentic list, which has survived in a form corrupted beyond hope of restoration.
 
- The inscription suggests that after the fall of the Candra dynasty conditions were confused in Arakan, with the rule reverting partly to indigenous kings. First comes Mahāvīra, king of Pureppura, who ruled for twelve years. The name of the town is of great interest, as it appears to give us the correct form of a place mentioned in the Pali *Niddesa*. The passages in question were discussed by S. Lévi in an article in *Études Asiatiques*, vol. ii, pp. 1–55. *Mahāniddesa,* pp. 154 and 415, has a list of places, part of which Lévi successfully identified by comparison with Ptolemy on the coast of Burma. One of these places, which he could not identify (p. 25), is given in the edition according to the Sinhalese MSS. as [Naranapūra](# "Neither this name nor its variants are recorded in Malalasekhara, Pali Proper Names Dictionary."), but the Burmese MSS. read Purapura and Parapūra, and the Siamese have Parammukha and Parapura. It can hardly be doubted that this place is that called Pureppura in this inscription, and the retention by the Burmese MSS. of a form so close to the later name reinforces the view that insufficient value is often given by editors of Pali texts to the readings of Burmese [MSS](# "For another case, also a proper name, see JRAS., 1939, p. 225, n. 2."). The best authenticated form of the variants is Parapura, and that this was the real form of the name in earliedays is suggested by a comparison with Ptolemy. Lévi (p. 22) took the view that the name of Ptolemy's river Katabeda survives in the name of the island of Kutabdia. Immediately below this on the coast Ptolemy places a centre of commerce called Barakura, which may reasonably be equated with Parapura ; an exact identification of the town is a matter for the excavator, who should look for a site between Akyab and Kutabdia (what about Pruma ?) with remains going back to the beginning of the Christian era.
+ The inscription suggests that after the fall of the Candra dynasty conditions were confused in Arakan, with the rule reverting partly to indigenous kings. First comes Mahāvīra, king of Pureppura, who ruled for twelve years. The name of the town is of great interest, as it appears to give us the correct form of a place mentioned in the Pali *Niddesa*. The passages in question were discussed by S. Lévi in an article in *Études Asiatiques*, vol. ii, pp. 1–55. *Mahāniddesa,* pp. 154 and 415, has a list of places, part of which Lévi successfully identified by comparison with Ptolemy on the coast of Burma. One of these places, which he could not identify (p. 25), is given in the edition according to the Sinhalese MSS. as Naranapūra[^7], but the Burmese MSS. read Purapura and Parapūra, and the Siamese have Parammukha and Parapura. It can hardly be doubted that this place is that called Pureppura in this inscription, and the retention by the Burmese MSS. of a form so close to the later name reinforces the view that insufficient value is often given by editors of Pali texts to the readings of Burmese MSS[^8]. The best authenticated form of the variants is Parapura, and that this was the real form of the name in earliedays is suggested by a comparison with Ptolemy. Lévi (p. 22) took the view that the name of Ptolemy's river Katabeda survives in the name of the island of Kutabdia. Immediately below this on the coast Ptolemy places a centre of commerce called Barakura, which may reasonably be equated with Parapura ; an exact identification of the town is a matter for the excavator, who should look for a site between Akyab and Kutabdia (what about Pruma ?) with remains going back to the beginning of the Christian era.
+
+[^7]: "Neither this name nor its variants are recorded in Malalasekhara, Pali Proper Names Dictionary."
+
+[^8]: "For another case, also a proper name, see JRAS., 1939, p. 225, n. 2."
 
  Mahāvīra was succeeded by two kings whose names indicate a non-Indian origin, Vrayajap (or Brayajap), twelve years, and Sevinreṅ (?), twelve years. The latter is accorded the curious epithet of Mavukaghātin, for which a conclusive explanation is not forthcoming. I would suggest that Māvuka is a term of kinship and indicates the previous king, Vrayajap. The next king is called Dharmaśūra; he reigned for thirteen years. There is no trace of any of these four kings or of their successors down to Ānandacandra in the Chronicles, unless they have some connection with the last three kings of Vaiśālī, who do not bear the name of Candra. Or it may be that Vaiśālī ceased to be the capital of a large kingdom after the collapse of the Candra dynasty and that the later kings were merely petty local lords, the stronger of whom asserted their right to issue coinage. In any case the Chronicles had allotted so much space to a fictitious dynasty of Dhānyavatī that they had to place the Candra kings more than four centuries too late and left themselves no room for the later rulers.
 
- The next king, Vajraśakti, sixteen years, is the first of the family to which Anandacandra belonged. He is described as originating in the *deva* family, which is more fully described with reference to Ānandacandra in verse 62 as the *devāṇḍaja* family, and in verse 63 as the *Srīdharmarājāṇḍaja* family. The exact meaning of these terms is far from clear, but it is natural to refer the last-mentioned one to the egg of Brahmā, and to deduce an origin for the family from Brahmā and Manu, the latter being the traditional progenitor of the ten lines of kings. The epithets then would do no more than claim, a pure Kṣatriya origin for the [dynasty.](# "This is an error. Aṇḍaja = Khacara = ")The word *danaśīlādisaṃyukta* recalls the six Pāramitās and suggests that Vajraśakti was à follower of the Mahāyāna. Vajraśakti was succeeded by [Śrīdharmavijay](# "Śrī is only a prefix: the real name is Dharmavijaya.")a,who ruled for thirty-six years; the coins with the mutilated inscription *rmmavijaya* should evidently be ascribed to him. He also is shown to have been a Buddhist by the allusion to his reverence for the Three Jewels in verse 40. The last line of this verse records that after death he went to the Tuşita heaven, and possibly we ought to see here a suggestion that the king was a Bodhisattva incarnate; this idea recurs frequently in the Buddhist countries to the east of [India](# "Cf. La Vallée Poussin, Mélanges ch. et b., i, p. 378."). The next king was Narendravijaya, son of the last, who ruled only two years and nine months and was succeeded by a son of Vajraśakti. Verse 42 leaves his name uncertain ; 
+ The next king, Vajraśakti, sixteen years, is the first of the family to which Anandacandra belonged. He is described as originating in the *deva* family, which is more fully described with reference to Ānandacandra in verse 62 as the *devāṇḍaja* family, and in verse 63 as the *Srīdharmarājāṇḍaja* family. The exact meaning of these terms is far from clear, but it is natural to refer the last-mentioned one to the egg of Brahmā, and to deduce an origin for the family from Brahmā and Manu, the latter being the traditional progenitor of the ten lines of kings. The epithets then would do no more than claim, a pure Kṣatriya origin for the dynasty.[^9]The word *danaśīlādisaṃyukta* recalls the six Pāramitās and suggests that Vajraśakti was à follower of the Mahāyāna. Vajraśakti was succeeded by Śrīdharmavijay[^10]a,who ruled for thirty-six years; the coins with the mutilated inscription *rmmavijaya* should evidently be ascribed to him. He also is shown to have been a Buddhist by the allusion to his reverence for the Three Jewels in verse 40. The last line of this verse records that after death he went to the Tuşita heaven, and possibly we ought to see here a suggestion that the king was a Bodhisattva incarnate; this idea recurs frequently in the Buddhist countries to the east of India[^11]. The next king was Narendravijaya, son of the last, who ruled only two years and nine months and was succeeded by a son of Vajraśakti. Verse 42 leaves his name uncertain ; 
+
+[^9]: "This is an error. Aṇḍaja = Khacara = "
+
+[^10]: "Śrī is only a prefix: the real name is Dharmavijaya."
+
+[^11]: "Cf. La Vallée Poussin, Mélanges ch. et b., i, p. 378."
 
 1 \[This is an error. *Aṇḍaja Khacara* = "bird", and Aṇḍaja-vaṁsa is synonymous with Khacara-vaṁśa or Jimütavāhanānvaya, a race on whom see E.I., xix, pp. 179 ff.\]
 
-it might be either Vīranarendracandra or [Śrīdharmacandra](# "Or rather, Dharmacandra.").The latter, however, is indicated by the coins labelled Dhammacandra. The Prakritic form *Dhamma* is odd; no sign of a superscript r is traceable, but *Candra* appearing in Sanskritic form does not correspond to *Dhamma*. He reigned sixteen years and died after nominating his son Ānandacandra as his successor.   
-  The rest of the inscription recounts the virtues and good deeds of this king up to the ninth year of his reign, and presents a number of interesting points. He was evidently a Buddhist by personal religion and calls himself an *upāsaka* in verse 54, but following the Indian tradition of religious impartiality he did not neglect the Brahmans in his display of liberality. Moreover the references to Bodhisattvas in verse 47 and to *dānapāramitā* in verse 54 show that he was a follower of the Mahāyāna, as was clearly the case also with his grandfather Vajraśakti and with Śrī Dharmavijaya. This confirms the evidence of the bell-inscription that the Mahāyāna prevailed in North Arakan; incidentally it should be noted that no information on this point is to be obtained from the Chinese pilgrims Hsüan-tsang and I-tsing. The orthography of the purely religious inscriptions suggests that this form of religion had been introduced from Eastern Bengal, and possibly the reference to the Tuşita heaven, where Maitreya resides, in verse 40 should be held to show the influence in this area of the Vijñānavāda school, who were especially devoted to him. The mention of Cunda and the rest in verse 47 probably refers to the chief *śrāvakas*; while Cunda is, significantly enough, omitted from the list in *Aṅguttara Nikāya*, i, pp. 23–6, he appears in Aśvaghoșa's list in *Saundarananda*, xvi, 91. Of the schools which know three or four chief Sthaviras, only the Sarvāstivāda includes Cunda in this [group](# "Przyluski, Le Concile de Rajagrha, p. 302."),thus assigning him a place which justifies the expression of our text. It seems then that the Mahāyāna in Arakan was represented either by Mahāyānist [Sarvāstivādins
-](# "Cf. Przyluski s discussion of this point, op. cit., pp. 362-5.")or by a Mahāyānist school which derived ultimately from that sect, such as the Vijñānavādins, who took from it much of their dogmatics. Ānandacandra also followed a practice, which is well known from further east, in giving his own name to new foundations: thus the Anandodaya *vihāras* of verse 46, and the Ānandamadhava and Ānandeśvara *maṭhas* of verse 56. The inscription recounts at length all the different materials of which he had Buddha images made; among these is a reference to countless images of clay, presumably of the same type as the votive plaques which have been found in such numbers in Burma. Verse 52 is not clear because the essential word, *tṇḍdaka*, is not known to have any meaning suitable to the context; the reference is clearly to something, in the course of which or after which there was religious teaching, and this suggests either some form of theatrical representation or religious dance, or else feasts given to the religious [community](# "See, however, note in loco and translation."). The names of several places at which religious buildings were erected or tanks dug are mentionedin verses 56-9, which are mostly non-Sanskritic in form and presumably unidentifiable nowadays.
+it might be either Vīranarendracandra or Śrīdharmacandra[^12].The latter, however, is indicated by the coins labelled Dhammacandra. The Prakritic form *Dhamma* is odd; no sign of a superscript r is traceable, but *Candra* appearing in Sanskritic form does not correspond to *Dhamma*. He reigned sixteen years and died after nominating his son Ānandacandra as his successor.   
+  The rest of the inscription recounts the virtues and good deeds of this king up to the ninth year of his reign, and presents a number of interesting points. He was evidently a Buddhist by personal religion and calls himself an *upāsaka* in verse 54, but following the Indian tradition of religious impartiality he did not neglect the Brahmans in his display of liberality. Moreover the references to Bodhisattvas in verse 47 and to *dānapāramitā* in verse 54 show that he was a follower of the Mahāyāna, as was clearly the case also with his grandfather Vajraśakti and with Śrī Dharmavijaya. This confirms the evidence of the bell-inscription that the Mahāyāna prevailed in North Arakan; incidentally it should be noted that no information on this point is to be obtained from the Chinese pilgrims Hsüan-tsang and I-tsing. The orthography of the purely religious inscriptions suggests that this form of religion had been introduced from Eastern Bengal, and possibly the reference to the Tuşita heaven, where Maitreya resides, in verse 40 should be held to show the influence in this area of the Vijñānavāda school, who were especially devoted to him. The mention of Cunda and the rest in verse 47 probably refers to the chief *śrāvakas*; while Cunda is, significantly enough, omitted from the list in *Aṅguttara Nikāya*, i, pp. 23–6, he appears in Aśvaghoșa's list in *Saundarananda*, xvi, 91. Of the schools which know three or four chief Sthaviras, only the Sarvāstivāda includes Cunda in this group[^13],thus assigning him a place which justifies the expression of our text. It seems then that the Mahāyāna in Arakan was represented either by Mahāyānist Sarvāstivādins
+[^14]or by a Mahāyānist school which derived ultimately from that sect, such as the Vijñānavādins, who took from it much of their dogmatics. Ānandacandra also followed a practice, which is well known from further east, in giving his own name to new foundations: thus the Anandodaya *vihāras* of verse 46, and the Ānandamadhava and Ānandeśvara *maṭhas* of verse 56. The inscription recounts at length all the different materials of which he had Buddha images made; among these is a reference to countless images of clay, presumably of the same type as the votive plaques which have been found in such numbers in Burma. Verse 52 is not clear because the essential word, *tṇḍdaka*, is not known to have any meaning suitable to the context; the reference is clearly to something, in the course of which or after which there was religious teaching, and this suggests either some form of theatrical representation or religious dance, or else feasts given to the religious community[^15]. The names of several places at which religious buildings were erected or tanks dug are mentionedin verses 56-9, which are mostly non-Sanskritic in form and presumably unidentifiable nowadays.
 
- Two kingdoms are mentioned with which Ānandacandra had relations. Verse 61 records gifts to the *bhikṣus* in the country of king Śilāmegha, who is otherwise [unknown](# "This name seems to point to Ceylon, where Silämeghavaṇṇa (in Sinhalese Salamevan) was a title borne by several kings."),and verses 62 to 65 describe twice his marriage to Dhendā, daughter of a ruler who is said to be king of Śrītāmrapattana in 62, but of the land of Śrīpattana in 65; his family is named as Śaivāndhra, possibly suggestive of an origin in the [Deccan](# "See the translation below. The śrī prefixed to the name of the city is unessential: the name is Tamrapattana, which conceivably may be Tamralipti. Srīkşetra seems to be out of the question.").The manner in which this marriage is mentioned shows that it was a matter of exceptional importance, and makes it therefore possible that the king of Śrīkṣetra is meant; but a definite identification cannot be put forward at present. Alternatively, is Ptolemy's Sambra a mistake for Tambra, and if so, does it indicate Śrītāmrapattana ?
+[^12]: "Or rather, Dharmacandra."
 
-  Immediately below the inscription are two lines in a later hand, more or less contemporary with that on the north face of the pillar. Whether they are intended to have any connection with Ānandacandra's *praśasti* is not clear. The form *ekādaśama* is odd; but similar forms are found in the other late inscriptions, and it possibly shows Prakrit [influence](# "Cf. Pischel, § 449, who says these forms are only authenticated so far in Jaina Prakrit works. For other instances note the apparatus criticus of the colophons to Saundarananda, xi and xviii, and Varāngacarita (ed. A. N. Upadhye, Bombay, 1938), colophons toxi, xii, and xiii.").
+[^13]: "Przyluski, Le Concile de Rajagrha, p. 302."
+
+[^14]: "Cf. Przyluski s discussion of this point, op. cit., pp. 362-5."
+
+[^15]: "See, however, note in loco and translation."
+
+ Two kingdoms are mentioned with which Ānandacandra had relations. Verse 61 records gifts to the *bhikṣus* in the country of king Śilāmegha, who is otherwise unknown[^16] was a title borne by several kings."),and verses 62 to 65 describe twice his marriage to Dhendā, daughter of a ruler who is said to be king of Śrītāmrapattana in 62, but of the land of Śrīpattana in 65; his family is named as Śaivāndhra, possibly suggestive of an origin in the Deccan[^17].The manner in which this marriage is mentioned shows that it was a matter of exceptional importance, and makes it therefore possible that the king of Śrīkṣetra is meant; but a definite identification cannot be put forward at present. Alternatively, is Ptolemy's Sambra a mistake for Tambra, and if so, does it indicate Śrītāmrapattana ?
+
+[^16]: "This name seems to point to Ceylon, where Silämeghavaṇṇa (in Sinhalese Salamevan
+
+[^17]: "See the translation below. The śrī prefixed to the name of the city is unessential: the name is Tamrapattana, which conceivably may be Tamralipti. Srīkşetra seems to be out of the question."
+
+  Immediately below the inscription are two lines in a later hand, more or less contemporary with that on the north face of the pillar. Whether they are intended to have any connection with Ānandacandra's *praśasti* is not clear. The form *ekādaśama* is odd; but similar forms are found in the other late inscriptions, and it possibly shows Prakrit influence[^18], colophons toxi, xii, and xiii.").
+
+[^18]: "Cf. Pischel, § 449, who says these forms are only authenticated so far in Jaina Prakrit works. For other instances note the apparatus criticus of the colophons to Saundarananda, xi and xviii, and Varāngacarita (ed. A. N. Upadhye, Bombay, 1938
 
  After Ānandacandra there is a gap of at least two centuries before the inscriptions on the north face of the pillar, and the only material that falls within this period consists of the four coins already mentioned, formerly in Mr. P. N. Tagore's cabinet, which may follow fairly close on Ānandacandra, and of the coin, No. 22 of Plate V, which shows a different type of script. Unfortunately it cannot be read with certainty : Phayre (Coins of Arakan, Pl. II, No. 10) suggested Yārikriya, and V. Smith (*Catalogue of Coins in the Indian Museum*, Pl. XXX, 11) *Yarikriya*; but the first letter cannot possibly be *Yă*. The next two letters may well be *rikri* and the last may be *ya*, as in my plate, or *ma*, as in V. Smith's reproduction. Till a better specimen is found it is best to leave the reading as an unsolved problem, and not to suggest any date for it. From the evidence, however, it does look as if there were a gap in the kings of Arakan at some time in this period, which may have been due to Nan-chao domination; but this is not a point on which I am competent to express a definite opinion.
 
@@ -161,136 +197,246 @@ it might be either Vīranarendracandra or [Śrīdharmacandra](# "Or rather, Dhar
 
   \[Verses 1-3 are not transcribed.\]
 
-4. . . . . (4) tato ri\[ṣya?\]d... jagata . [. . \।](# "The name looks like Narappagmāśva.")  
+4. . . . . (4) tato ri\[ṣya?\]d... jagata . . . \।[^19]  
  ....bhūpālo varṣa\[ṁ\] viṁśādhikaṁ śatam \।\।  
 5.
-\[.arvarya[vi?\]](# "Possibly the true reading may be Purvartho  pi.") mahīpālo (5) lokānugrahatatparaḥ \।  
+\[.arvarya[vi?\]][^20] mahīpālo (5) lokānugrahatatparaḥ \।  
  Rājyaṁtena kṛtaṁ\[tasm\]ād varṣaviṁśottaram śatam \।\।  
-6. . . . nāmā tato rājā lok . . jani . . . (6) [vat \।](# "For vat Professor Johnston gives an alternative kam.")  
+6. . . . nāmā tato rājā lok . . jani . . . (6) vat \।[^21]  
 
-Ca[kāra](# "A possible reading here is cakārārīmtapo. There is no clear trace of a long vowel after the first r, and ri would be a mistake for ri.")rājyaṁvarṣa\[ṁ\] viṁśādhikaṁ śatam \।\।  
+[^19]: "The name looks like Narappagmāśva."
+
+[^20]: "Possibly the true reading may be Purvartho  pi."
+
+[^21]: "For vat Professor Johnston gives an alternative kam."
+
+Cakāra[^22]rājyaṁvarṣa\[ṁ\] viṁśādhikaṁ śatam \।\।  
 7. Tasmād Bahubalī bhūbhṛt \[pu\]nar dhairyyaviśāradaḥ \।  
- Kṛtaṁca kṛti- (7) nā tena rājyaṁ viṁśā\[bd\][ikaṁ](# "Alternatively the reading in d is vimśādhikam, in which case there is no word for ") śatam\।\।  
-8. Tato Raghupa[tī \[r\]](# "Traces of the eight letters of the first pada survive. The second is ta, the third perhaps sya, the fourth vi, the last two apparently devaḥ.") bhūpaḥ surūpo nītivi\[kramaḥ\]\।  
+ Kṛtaṁca kṛti- (7) nā tena rājyaṁ viṁśā\[bd\]ikaṁ[^23] śatam\।\।  
+8. Tato Raghupa[tī \[r\]][^24] bhūpaḥ surūpo nītivi\[kramaḥ\]\।  
   \[Cakāra\]... \[tam\] rājyam va\[rṣa\]- (8) vimśottaraṁ śatam \।\।  
-9. Ta\[sya\] [vi .](# "The first syllable of this pāda is possibly vam, the second perhaps ka.")..amra\[tya\]po 8 mahābalaḥ \।  
+9. Ta\[sya\] vi .[^25]..amra\[tya\]po 8 mahābalaḥ \।  
   Vimśābdā\[ny\] ..\[rājyam\].. kṛ\[tam\] \।\।  
 10. (9) Tataś Candrodayo nāma bhūpālaḥ sādhusammataḥ \।  
-  Saptavimśati varṣāṇi rājyam ātmasā[tkṛtam](# "As the rubbing shows, the true reading is definitely tenātmasātkṛtaṁ.") \।\।  
+  Saptavimśati varṣāṇi rājyam ātmasātkṛtam[^26] \।\।  
 11. Aṇṇaveta- (10) mahīpālā dānaṁ datvā tv anekadhā \।  
-   Bhuvi lokasukhaṁ jñātvā \[[paṁcābdāni](# "There seems to be no trace of a vowel i on the rubbing.")\]
+   Bhuvi lokasukhaṁ jñātvā \[paṁcābdāni[^27]\]
 divaṁ gatāḥ \।\।  
 12. Tatpaścān nṛpavara . . . . (11) caryāsu viśāradaḥ \। "  
   Cakāra mati\[mām\] rājyam abdāni saptasaptatiḥ \।\।  
 13. Riṁbhyappo bhūpatis tasmāc caran dāna. (12) tiḥ \।  
   Tryadhikaṁvimśad abdāni rājyaṁ puṇyena nītavān \।\।  
-14. [Kūverāmi](# "Possibly Kūverāpi.")tato devī dānaśīla . . . . \।  
-   (13) Saptābdāni tato rājyaṁ cakārāriviv[arjitām](# "Read vivarjitam in d.") \।\।  
-15. U\[mavīrya\][patis](# "The first two letters of this pāda look more like Oppa-. Possibly, too, the stone-cutter has omitted a visarga before patis.")tasyās tato bhūpo 'tinīti\<mān\।\>  
-  \<R-\>(14) jyaṁ viṁśati varṣāṇi cakāra mahi[mākṛt](# "Mahimākṛti is an odd compound. [Comparison with verse 42d (see note on latter) suggests that the poet wrongly took mahimā as a fem. vowel-stem.")ī\।\।  
-16. J\[u\]gnah\[[vayas](# "If the pillar has been correctly read in a, it should read Jugnähvayas. [It has Jugnahvayas tato bhubhrt.]") . bhū\]bhṛt sarvasatvahitārthakṛt \।  
+14. Kūverāmi[^28]tato devī dānaśīla . . . . \।  
+   (13) Saptābdāni tato rājyaṁ cakārārivivarjitām[^29] \।\।  
+15. U\[mavīrya\]patis[^30]tasyās tato bhūpo 'tinīti\<mān\।\>  
+  \<R-\>(14) jyaṁ viṁśati varṣāṇi cakāra mahimākṛt[^31] suggests that the poet wrongly took mahimā as a fem. vowel-stem.")ī\।\।  
+16. J\[u\]gnah\[vayas[^32] . bhū\]bhṛt sarvasatvahitārthakṛt \।  
  Sa\[pta\] (15) tsarāṇy evaṁ tadā rājye pratiṣṭhitaḥ \।\।
 
-17. [Lāṁkīnāmā](# "[The rubbing seems to give Linki. The first vowel is a short curve above the I to the right, somewhat like the i in sphīta in the inscription of Yasovarman, line 12 (E.I., xx, p. 43.)]") 16 tato rājā kṛtvā varṣadvayaṁ kṛtī \।  
-   Rajyam v\[[ipu](# "[The stone seems to have prapa-.]")\].. (16) vīraḥ krameṇa tridiv\[ah\][itaḥ](# "In d possibly tridivan gitaḥ; ")\।\।  
+[^22]: "A possible reading here is cakārārīmtapo. There is no clear trace of a long vowel after the first r, and ri would be a mistake for ri."
+
+[^23]: "Alternatively the reading in d is vimśādhikam, in which case there is no word for "
+
+[^24]: "Traces of the eight letters of the first pada survive. The second is ta, the third perhaps sya, the fourth vi, the last two apparently devaḥ."
+
+[^25]: "The first syllable of this pāda is possibly vam, the second perhaps ka."
+
+[^26]: "As the rubbing shows, the true reading is definitely tenātmasātkṛtaṁ."
+
+[^27]: "There seems to be no trace of a vowel i on the rubbing."
+
+[^28]: "Possibly Kūverāpi."
+
+[^29]: "Read vivarjitam in d."
+
+[^30]: "The first two letters of this pāda look more like Oppa-. Possibly, too, the stone-cutter has omitted a visarga before patis."
+
+[^31]: "Mahimākṛti is an odd compound. [Comparison with verse 42d (see note on latter
+
+[^32]: "If the pillar has been correctly read in a, it should read Jugnähvayas. [It has Jugnahvayas tato bhubhrt.]"
+
+17. Lāṁkīnāmā[^33]]") 16 tato rājā kṛtvā varṣadvayaṁ kṛtī \।  
+   Rajyam v\[ipu[^34]\].. (16) vīraḥ krameṇa tridiv\[ah\]itaḥ[^35]\।\।  
 18. Kathyate varṣasamkhyātra devānāṁ kulakartṛṇāṁ\।  
    Eteṣām bhūbhṛtāṁ n\[ū\]n\[aṁ\] (17)sahasram ṣaḍdaśādhikam \।\।  
 19.Tatpaścād apare kāle puṇyalakṣmīyuto balī \।  
-   DveṅCandranāmako dhīmāṁ (18) yo 'bhūt bhūbhṛtām [patiḥ](# "The reading in b looks like yo bhūt bhū°, and it is not certain what the correct reading is. [The stone certainly has yo bhūt bhū°, but a syllable is lacking to make up the metre.]") \।\।  
+   DveṅCandranāmako dhīmāṁ (18) yo 'bhūt bhūbhṛtām patiḥ[^36] \।\।  
 20.Nṛpaikottaraśataṁ jitvā puṇyato bāhuśālinā \।  
-   Prākārakhātasaṁyuktaṁ (19) nagarā\[bhūṣa\]ṇaṁ [kṛtam](# "Pāda a is hypermetric. In d the consonant fourth letter is either bh or s, and the next syllable should contain either r or s because of the following na, but looks more like sva than anything else. The reading adopted seems the only possible one, though ābhūṣaṇa in this sense is unrecorded. [The rubbing is in favour of reading nagarāsūtraṇam, which may be an error for nagarasutraṇa.] ")\।\।  
+   Prākārakhātasaṁyuktaṁ (19) nagarā\[bhūṣa\]ṇaṁ kṛtam[^37]\।\।  
 21.Tena niṣpādya nagaraṁ svarggasaundaryahāsinam\।  
-   Paṁcapaṁcāśad abdā- (20) ni kṛtaṁ rājyaṁ [yasasvinā](# " Read yasasvina in d.")\।\।  
+   Paṁcapaṁcāśad abdā- (20) ni kṛtaṁ rājyaṁ yasasvinā[^38]\।\।  
 22.Rājacandras tataḥ śrīmāṁ viṁśavarṣāṇi rājyakṛt\।  
   Evaṁsvargasukhaṁ (21) jñātvā divaṁ yāto mahīpatiḥ\।\।  
-23.Tasmān navābdiko rājā \[K\][ālacandro](# "The k in Kālacandro is badly formed, but the reading is definitely not Balacandro ; Rālacandro is just possible.")mahardhikaḥ\।  
+23.Tasmān navābdiko rājā \[K\]ālacandro[^39]mahardhikaḥ\।  
    Kṛtvā kīrttimayī\<ṁ\> (22) mā\[l\]āṁ svargaṁ yāto tinītimān\।\।  
-24.Devendreva [Sa\[kr\]o](# "Read Devendra iva Sakro.") bhūd Devacandro mahīpatiḥ\।  
+24.Devendreva [Sa\[kr\]o][^40] bhūd Devacandro mahīpatiḥ\।  
   Tato dvaviṁśavarṣāṇi (23) rājyaṁ kṛtvā tu svargabhāk\।\।  
-25.Saptavārṣikas [tasmād](# "[A syllable is lacking in this pāda.]") Yajñacandraḥ prakīrttitaḥ\।  
+25.Saptavārṣikas tasmād[^41] Yajñacandraḥ prakīrttitaḥ\।  
    Candrabandhus tato loke ṣaṭsa-(24)mvatsararājyabhāk\।\।  
-26.Pṛthivyām uditaś candro [Bhūmicandrās](# "Read Bhmicandras.") 26 tato 'paraḥ\।  
-  Sapta samvatsarāṇy eva rājyam puṇyena (25) ta [nītavān](# "Line 26 begins tanītavān, but ta is marked above for erasure. [Line 26 begins nanītavām.]")\।\।  
+26.Pṛthivyām uditaś candro Bhūmicandrās[^42] 26 tato 'paraḥ\।  
+  Sapta samvatsarāṇy eva rājyam puṇyena (25) ta nītavān[^43]\।\।  
 27. Caturviṁśati varṣāṇi rājyaṁ saṁbhujya nītimān\।  
   Bhūticandras tato yāto divyaṁ sukham avāptaye\।\।  
 28.(26)Nīticandras tataḥ khyāto nītyutsāritavigrahaḥ\।  
   Paṁcapaṁcāśad abdāni so 'bhūd rājā Mahendravat\।\।  
-29. Abdatra-(27)yikas [tasmād
-](# "[This pāda is a syllable short.]")Vīryacandro nareśvaraḥ\।  
+29. Abdatra-(27)yikas tasmād
+[^44]Vīryacandro nareśvaraḥ\।  
   \[Ta\]to dvādaśa varṣāṇi Prīticandro mahīpatiḥ\।\।  
 30. Saptaṁvatsarāṇy a-(28)smāt Pṛthvīcandreṇa bhūbhujā\।  
  Rajyopabhogasaṁbhuktaṁ nityaṁ dharmānuvarttinā\।\।
 
+[^33]: "[The rubbing seems to give Linki. The first vowel is a short curve above the I to the right, somewhat like the i in sphīta in the inscription of Yasovarman, line 12 (E.I., xx, p. 43.
+
+[^34]: "[The stone seems to have prapa-.]"
+
+[^35]: "In d possibly tridivan gitaḥ; "
+
+[^36]: "The reading in b looks like yo bhūt bhū°, and it is not certain what the correct reading is. [The stone certainly has yo bhūt bhū°, but a syllable is lacking to make up the metre.]"
+
+[^37]: "Pāda a is hypermetric. In d the consonant fourth letter is either bh or s, and the next syllable should contain either r or s because of the following na, but looks more like sva than anything else. The reading adopted seems the only possible one, though ābhūṣaṇa in this sense is unrecorded. [The rubbing is in favour of reading nagarāsūtraṇam, which may be an error for nagarasutraṇa.] "
+
+[^38]: " Read yasasvina in d."
+
+[^39]: "The k in Kālacandro is badly formed, but the reading is definitely not Balacandro ; Rālacandro is just possible."
+
+[^40]: "Read Devendra iva Sakro."
+
+[^41]: "[A syllable is lacking in this pāda.]"
+
+[^42]: "Read Bhmicandras."
+
+[^43]: "Line 26 begins tanītavān, but ta is marked above for erasure. [Line 26 begins nanītavām.]"
+
+[^44]: "[This pāda is a syllable short.]"
+
 31.Jagaddhṛtim karoty a\[smā\] Dhṛ-(29)ticandro narādhipaḥ \।  
-  Prajām apālayat tasmāt [tṛbhir](# "Read tribkir.")varşair divam gataḥ \।\।  
+  Prajām apālayat tasmāt tṛbhir[^45]varşair divam gataḥ \।\।  
 32. İśānvayaprabhavaṁ șoḍașa (30) bhūpatīnāṁ  
  
-Candrabhiramaya[sasām](# "A character has been erased after iśānvaya. In a read Īśānvaya prabhavatrayodaśabhūpatīnām, and note a short before tr. In b read ᵒyaśasām. [We should read soḍaśa. The emendation -trayodaśa- would gratuitously introduce a short syllable before tr- and make the pāda a syllable too long. The better course is to read soḍaśa and risk the possibility that the author s reckoning was wrong; moreover, he may have intentionally omitted the names of some kings who were too insig cant for mention.]")iha Candranāmnām \।  
-  Trimsa\[dh\]ikam pragaṇitāni [satadvayam](# "[Read śatadvayam.]")syād  
+Candrabhiramayasasām[^46]iha Candranāmnām \।  
+  Trimsa\[dh\]ikam pragaṇitāni satadvayam[^47]syād  
   Varṣāṇi rājyaśubha-(31)bhogakṛtāni nūnam \।\।  
-33. Tataḥ paścān Mahāvīraḥ Pureppuranare[śvaraḥ](# "Just possibly one should read Purempura-, instead of Pureppura-. [The rubbing definitely gives Purempura-.]") \।  
+33. Tataḥ paścān Mahāvīraḥ Pureppuranareśvaraḥ[^48] \।  
  Tena dvādaśavarṣāṇi dharmarājyaṁ (32) kṛtaṁ tadā \।\।  
-34. Vrayajapnāmāpi \[[so](# "The inscription in a has Vrayajapnāmāpi so, with marks above pi to cut it out. It should probably read Vrayajapnāmako. [So would be ungrammatical. Read ᵒnāmāpi yo rājā. The pāda is hypermetric.]")\]rājā dvādaśābdāni [bhūvibhuḥ](# "[The rubbing gives bhovibhuḥ.]") \।  
+34. Vrayajapnāmāpi \[so[^49]\]rājā dvādaśābdāni bhūvibhuḥ[^50] \।  
   Bhuktvā rājyasukham vīras tata svargopa-(33)bhogabhāk \।\।  
-35. \[Sevinren\] bhūpatis tasmāt [smṛto](# "[In a the name may be read as Dovinren. In b the letters on the stone may be read as either smrto or smṛtā; they should be smrto.]")dvādaśakar[ṣikaḥ](# "Read vārşikaḥ.")\।  
-  Rjyasampatsukhaṁ tena bhuktam Māvukagh[ātinā](# "Māvuka may be a proper name or a word indicating kinship.")\।\।  
+35. \[Sevinren\] bhūpatis tasmāt smṛto[^51]dvādaśakarṣikaḥ[^52]\।  
+  Rjyasampatsukhaṁ tena bhuktam Māvukaghātinā[^53]\।\।  
 36.(34) Kṣitim rarakṣa dharmeṇa Dharmaśūras tato nṛpaḥ\।  
   Trayodaśabdasampūrṇṇe svargaṁ yā\[t\]o maharddhikaḥ \।\।  
-37. Bhaktimān iva bhaktyā (35) [vai](# "Possibly yo, not vai.")yo vajrīva mahībhṛtāṁ \।  
-  Vajraśaktis [tata](# "Read tataḥ.")\[kh\]yāto rājā devānvayodbhavaḥ \।\।  
-38. Pratipālya jagat sarvaṁ rājyaṁ șo-(36)[ḍașa](# "Read şodasa.")vatsaram \।  
+37. Bhaktimān iva bhaktyā (35) vai[^54]yo vajrīva mahībhṛtāṁ \।  
+  Vajraśaktis tata[^55]\[kh\]yāto rājā devānvayodbhavaḥ \।\।  
+38. Pratipālya jagat sarvaṁ rājyaṁ șo-(36)ḍașa[^56]vatsaram \।  
   Dānaśīlādisamyukto devalokaṁ sa yātavān \।\।  
 39. Śrīdharmajayasaṁyukto lokānugrahatatparaḥ \।  
   (37) Tatpaścād abhavad dhīraḥ Śrīdharmavijayo nṛpaḥ \।\।  
 40.   Saṭtrimsad abdny upabhujya rājyaṁ  
       Dharmeņa nītyā ca jayena caiva \।  
       Ratna-(38)trayānusmaraṇābhiyogāt  
-     Sa devalokam Tuṣitam [prayātaḥ](# "[The stone has prayāt, with a final t.]") \।\।   
-41. Narendravijayenāpi tatputreṇa mahīpat\<[eh](# "Mahimat. is also possible, and there may be a r or u below p or m. One would expect mahibhṛtā. [The rubbing gives mahīpat-, with possibly faint traces of -eh.]")\> \।  
+     Sa devalokam Tuṣitam prayātaḥ[^57] \।\।   
+41. Narendravijayenāpi tatputreṇa mahīpat\<eh[^58]\> \।  
 (39) Navamāsādhikaṁ rājyaṁ bhuktam varṣadvayaṁ satā \।\।
+
+[^45]: "Read tribkir."
+
+[^46]: "A character has been erased after iśānvaya. In a read Īśānvaya prabhavatrayodaśabhūpatīnām, and note a short before tr. In b read ᵒyaśasām. [We should read soḍaśa. The emendation -trayodaśa- would gratuitously introduce a short syllable before tr- and make the pāda a syllable too long. The better course is to read soḍaśa and risk the possibility that the author s reckoning was wrong; moreover, he may have intentionally omitted the names of some kings who were too insig cant for mention.]"
+
+[^47]: "[Read śatadvayam.]"
+
+[^48]: "Just possibly one should read Purempura-, instead of Pureppura-. [The rubbing definitely gives Purempura-.]"
+
+[^49]: "The inscription in a has Vrayajapnāmāpi so, with marks above pi to cut it out. It should probably read Vrayajapnāmako. [So would be ungrammatical. Read ᵒnāmāpi yo rājā. The pāda is hypermetric.]"
+
+[^50]: "[The rubbing gives bhovibhuḥ.]"
+
+[^51]: "[In a the name may be read as Dovinren. In b the letters on the stone may be read as either smrto or smṛtā; they should be smrto.]"
+
+[^52]: "Read vārşikaḥ."
+
+[^53]: "Māvuka may be a proper name or a word indicating kinship."
+
+[^54]: "Possibly yo, not vai."
+
+[^55]: "Read tataḥ."
+
+[^56]: "Read şodasa."
+
+[^57]: "[The stone has prayāt, with a final t.]"
+
+[^58]: "Mahimat. is also possible, and there may be a r or u below p or m. One would expect mahibhṛtā. [The rubbing gives mahīpat-, with possibly faint traces of -eh.]"
 
 42. Īśānvayaḥ samabhavad vijitārivargaḥ
 
   
-Śaktitrayapra\<[ṇa](# " [At the end of line 39 there seems to be a faint trace of na.]")\>-(40)yalabdhamahāpratāpaḥ\।  
+Śaktitrayapra\<ṇa[^59]\>-(40)yalabdhamahāpratāpaḥ\।  
    Yo Vajraśaktisutavīranarendracandraḥ  
   
-Śrīdharmacandramahimāprathitapra[bhāvaḥ](# " [See note on v. 15d above, p. 374. Apparently our poet treated Sridharmacandra as a nominative. Cf. notes on v. 62c, p. 379, and on v. 64c, ib.")\।\।
+Śrīdharmacandramahimāprathitaprabhāvaḥ[^60]\।\।
 
-43. Śrīmā-(41)n [ṣoḍaṣa](# " Read ṣoḍaśa.") varṣāṇi bhuktvā rājyaśriyaṁ nṛpaḥ\।  
+[^59]: " [At the end of line 39 there seems to be a faint trace of na.]"
+
+[^60]: " See note on v. 15d above, p. 374. Apparently our poet treated Sridharmacandra as a nominative. Cf. notes on v. 62c, p. 379, and on v. 64c, ib."
+
+43. Śrīmā-(41)n [ṣoḍaṣa[^61] varṣāṇi bhuktvā rājyaśriyaṁ nṛpaḥ\।  
    Datvā sutavare rājyaṁ paścāt svargaṁ prayātavān\।\।  
-44. Yas tatsu-(42)[taṁ](# " It should presumably be tatsutaḥ.") praṇatabhūpatimaulimālā-  
+44. Yas tatsu-(42)taṁ[^62] praṇatabhūpatimaulimālā-  
    Ratnadyutiprasararaṁjitapādapadmaḥ\।  
   Anandacandra bhuvanaikayaśo-(43)'tituṇga  
-   Anandayam jayati vairitamovi[bhūma](# " [Apparently to be corrected to -vibhūmā.]")\।\।  
+   Anandayam jayati vairitamovibhūma[^63]\।\।  
 45. Dāne Karṇṇasamo rājā satyenāpi Yudhiṣṭhiraḥ \।  
-   Pradyum[naiva](# " Read Pradyumna iva.") rūpeṇa tejasā bhānuvad bhuvi\।\।  
+   Pradyumnaiva[^64] rūpeṇa tejasā bhānuvad bhuvi\।\।  
 Tena mahārājādhirājena parahitotsukadhiyā svarā-(45)jyaprathamasaṁvatsarataḥ prabhṛti yāvad ā navamābdāt svakṛtakāritānumoditāni sucaritāni sa-(46)tvānāṁ darśanaprabodhānumodanapuṇyavistaram icchatā pravakṣyaṁte\।\।  
 46. Ānandodayanāmāno vihārā-(47)neka kāritāḥ\।  
    Dāsadāsībhiḥ sampannāḥ kṣetragomahiṣaiḥ saha\।\।  
 47. Sugatabodhisatvānāṁ (48) Cundādīnāṁ ca śaktitaḥ \।  
    Pratimādhātumaccaityāḥ kāritā raukmarājatāḥ\।\।  
-48. Rītīmayāni bi-(49)mbāni kāṁsatāmra[mayāni](# " Read Kamsyaᵒ.") ca\।  
+48. Rītīmayāni bi-(49)mbāni kāṁsatāmramayāni[^65] ca\।  
    Kāritāni munīndrasya bhārasaṁkhyāpramāṇataḥ\।\।  
-49. \[Paśa\]dāru-(50) [mayānekā](# " Pasadāru may be the name of a particular kind of wood, or it may be a compound implying images made of leather (?) and wood. [Read in a mayānekāḥ or mayā naikāḥ (see above, p. 367 n. 1).]")pusta\[ś\]a[ilās](# "Pusta is presumably ")tathaiva ca\।  
-   Sugatapratimāḥ saumyāḥ kāritās\[sā\]dhu[citritāḥ](# " [The stone has kāritāsādhuᵒ. Read kāritāḥ.]")\।\।  
-50. \[[Mṛtpa](# "The rubbing shows mṛtpahã with the hā marked for omission; the following character is only faintly indicated on the rubbings. Perhaps Mṛtpakvā. [The reading of the rubbing seems to be mṛtsamhā°.]")\].(51) kṛtasaṁkhyāni bimbāni caityakarmaṇaḥ\।  
+49. \[Paśa\]dāru-(50) mayānekā[^66] and wood. [Read in a mayānekāḥ or mayā naikāḥ (see above, p. 367 n. 1).]")pusta\[ś\]ailās[^67]tathaiva ca\।  
+   Sugatapratimāḥ saumyāḥ kāritās\[sā\]dhucitritāḥ[^68]\।\।  
+50. \[Mṛtpa[^69]\].(51) kṛtasaṁkhyāni bimbāni caityakarmaṇaḥ\।  
    Saddharmapustakāś cāpi lekhitā bahuśaḥ satā\।\।  
 51. Sau-(52)varṇṇarājatānekān padmān sadratnakarṇnikān\।  
    Nityam śrīdhātupūjārtham adād bhūpo 'tiśraddhayā\।\।  
-52. (53) Dadau prahṛṣṭaḥ suviśuddhac[etasā](# " [The rubbing seems to give suvisuddha° by error.]")
+52. (53) Dadau prahṛṣṭaḥ suviśuddhacetasā[^70]
 
-Saddharmapūjām prati [taṇḍakān](# "None of the recorded meanings of tandaka fits here; possibly for tandavän. [The actual reading of the rubbing seems rather to be vantakan, though the letter below is not clear. Vantaka, share (found in Sanskrit and Kanarese lexx.; from yeast, whence Hindi bän) occurs in the sense of a holding or portion of land forming part of an estate in the Yadava Ramacandra s Thana grant of Saka 1194 (E.I. xiii, p. 199).]") bahūn\।  
+[^61]: " Read ṣoḍaśa."
+
+[^62]: " It should presumably be tatsutaḥ."
+
+[^63]: " [Apparently to be corrected to -vibhūmā.]"
+
+[^64]: " Read Pradyumna iva."
+
+[^65]: " Read Kamsyaᵒ."
+
+[^66]: " Pasadāru may be the name of a particular kind of wood, or it may be a compound implying images made of leather (?
+
+[^67]: "Pusta is presumably "
+
+[^68]: " [The stone has kāritāsādhuᵒ. Read kāritāḥ.]"
+
+[^69]: "The rubbing shows mṛtpahã with the hā marked for omission; the following character is only faintly indicated on the rubbings. Perhaps Mṛtpakvā. [The reading of the rubbing seems to be mṛtsamhā°.]"
+
+Saddharmapūjām prati taṇḍakān[^71] occurs in the sense of a holding or portion of land forming part of an estate in the Yadava Ramacandra s Thana grant of Saka 1194 (E.I. xiii, p. 199).]") bahūn\।  
 Dine dine sarvajanā-(54)numoditān  
 Narādhipo dharmakathānurāgataḥ \।\।
 
-53. Lauhapātrāṇy anekāni sannetrac[īvarāṇi](# "The first certain instance of netra in the sense of silk; cf. Raghuvamsa, vii, 36.") ca\।
+[^70]: " [The rubbing seems to give suvisuddha° by error.]"
+
+[^71]: "None of the recorded meanings of tandaka fits here; possibly for tandavän. The actual reading of the rubbing seems rather to be vantakan, though the letter below is not clear. Vantaka, share (found in Sanskrit and Kanarese lexx.; from yeast, whence Hindi bän
+
+53. Lauhapātrāṇy anekāni sannetrac[īvarāṇi[^72] ca\।
+
+[^72]: "The first certain instance of netra in the sense of silk; cf. Raghuvamsa, vii, 36."
 
 Nā-(55)nādeśāgatānāṁ ca bhikṣūṇāṁ gauravād dadau\।\।
 
 54. Dānapāramitā hīnā mā me bhavatu jantuṣu \।
 
-Tasmād upāsa-(56)kenāpi sarvasatvahit[eṣiṇā](# " Read hitaiṣiṇā.")\।\।
+Tasmād upāsa-(56)kenāpi sarvasatvahiteṣiṇā[^73]\।\।
+
+[^73]: " Read hitaiṣiṇā."
 
 55. Paṁcāśadbrāhmaṇāvāsaṁ kṣetrabhṛtyasamanvitam\।
 
@@ -298,15 +444,29 @@ Vadyavādakasaṁyuktaṁ kā-(57)ritaṁmaṭhacatuṣṭayam \।\।
 
 56. Somatīrthadvijāvāse maṭhaś cānandamādhavaḥ\।
 
-Ānandeśvara[nāmāpi](# " [The p has been almost entirely cut out.]") (58) Naulakk\[e\] ca maṭha [smṛtaḥ](# " [Read maṭhaḥ.] Apparently these two mathas are in addition to the four of the previous verse.")\।\।
+Ānandeśvaranāmāpi[^74] (58) Naulakk\[e\] ca maṭha smṛtaḥ[^75]\।\।
 
-57. Pīlakkavanak\[u\]hve 'pi Domaghe pūrvanā[makau](# " In a presumably read ᵒvanakāhve, and in b read ᵒnāmake. [The reading of the rubbing is possibly vadakuḥve and Daumaghe.]")\।
+[^74]: " [The p has been almost entirely cut out.]"
 
- Vīthikā vividhārām\<[āḥ](# " [The -a of the last syllable is fairly certain; and the stone-cutter probably did not add -ḥ to it.]") \>(59) kāritā setusaṁ[kramā](# "Saṁkrama, feminine, is odd; or should it be ᵒsamkramāḥ ? [The latter alternative is preferable.]")\।\।
+[^75]: " [Read maṭhaḥ.] Apparently these two mathas are in addition to the four of the previous verse."
+
+57. Pīlakkavanak\[u\]hve 'pi Domaghe pūrvanāmakau[^76]\।
+
+[^76]: " In a presumably read ᵒvanakāhve, and in b read ᵒnāmake. [The reading of the rubbing is possibly vadakuḥve and Daumaghe.]"
+
+ Vīthikā vividhārām\<āḥ[^77] \>(59) kāritā setusaṁkramā[^78]\।\।
+
+[^77]: " [The -a of the last syllable is fairly certain; and the stone-cutter probably did not add -ḥ to it.]"
+
+[^78]: "Saṁkrama, feminine, is odd; or should it be ᵒsamkramāḥ ? [The latter alternative is preferable.]"
 
 58. Pratyahaṁbhaktaśālāyāṁ sadā satraṁ pravarttitaṁ\।
 
-Ativadhyāś ca [kāruṇyā](# " -A- is missing through breakage of stone.")-(60)t prāṇino mocitā[sadāḥ](# "Read sadā, as mocitāsadāḥ as a compound is hardly possible. [Also read mocitāḥ.]")\।\।
+Ativadhyāś ca kāruṇyā[^79]-(60)t prāṇino mocitāsadāḥ[^80]\।\।
+
+[^79]: " -A- is missing through breakage of stone."
+
+[^80]: "Read sadā, as mocitāsadāḥ as a compound is hardly possible. [Also read mocitāḥ.]"
 
 59. Ḍa\[ṁ\]kaṅga margaṅga ḍ\[u\]vārasaṁjñite
 
@@ -314,9 +474,15 @@ Bhūrokanaulakkalavārakāhvaye\।
 
 Puṇḍi-(61)ṅgasomāhvayasaṁghasaṁjñikau
 
-[Manāpavāpy](# " [The rubbing gives -väpyo.]")\[au\] nijakhāna [bhūpatiḥ](# "Read nicakhāna.")\।\।
+Manāpavāpy[^81]\[au\] nijakhāna bhūpatiḥ[^82]\।\।
 
-60. Pūrvarājakṛtā ye'pi devaprā-(62)sādatīrthikā [\<ḥ\>](# "Read tīrthikāḥ in b. [Tīrthikāḥ can only mean ")\।
+[^81]: " [The rubbing gives -väpyo.]"
+
+[^82]: "Read nicakhāna."
+
+60. Pūrvarājakṛtā ye'pi devaprā-(62)sādatīrthikā \<ḥ\>[^83]\।
+
+[^83]: "Read tīrthikāḥ in b. [Tīrthikāḥ can only mean "
 
 Naṣṭā niṣpāditās tena sarvathā dhīmatā punaḥ\।\।
 
@@ -324,9 +490,11 @@ Naṣṭā niṣpāditās tena sarvathā dhīmatā punaḥ\।\।
 
 Bhūpena netrojvalacīvarāṇi\।
 
-Bhikṣvāryasaṁghasya hi nā\[y\][itāni](# " I do not know if hastinikāis to be taken literally. In b read netrojjvala. Näyitäni in c is odd, and däpitäni would be better.")
+Bhikṣvāryasaṁghasya hi nā\[y\]itāni[^84]
 
 Deśe Sila-(64)meghanarādhipasya\।\।
+
+[^84]: " I do not know if hastinikāis to be taken literally. In b read netrojjvala. Näyitäni in c is odd, and däpitäni would be better."
 
 
 
@@ -334,7 +502,7 @@ Deśe Sila-(64)meghanarādhipasya\।\।
 
 62. Vikhyātaśauryaguṇadharmayaśonurāgād  
    Devāṇḍajā-(65)nvayasamudbhavapārthivasya \।  
-   Śrītāmrapattananarādhipa [bhaktinamro](# "One must understand that ᵒnaradhipo bhaktinamro, which is impossible metrically, is indicated.")  
+   Śrītāmrapattananarādhipa bhaktinamro[^85]  
    Dhendā \[ṁ\] dadau sva-(66)tanayām paramādareṇa\।\।  
    Aparaṃca\।  
 63.       Ānandacandrakṣitipārthivasya  
@@ -343,13 +511,19 @@ Deśe Sila-(64)meghanarādhipasya\।\।
           Śauryanvayatyāgaguṇā\[dh\]i-(68)kaṁ ca\।\।  
 64.       Bhaktipraṇāmena prakurvatājñāṁ  
           Śaivāndhravamśodbhavapārthivena\।  
-          Śrī[ma . .](# "No doubt Srimanmano. [Apparently Manodhira is the king s name (see translation, below). This name is rare; but it was borne by, e.g. the composer of the Vēlūrpāļaiyam plates.]") (69)nodhīramaharddhikena  
+          Śrīma . .[^86]. This name is rare; but it was borne by, e.g. the composer of the Vēlūrpāļaiyam plates.]") (69)nodhīramaharddhikena  
           Kalyāṇamitratvam upāgatena\।\।  
 65.       Vāpīvihārau tvaritena (70) kṛtvā  
           Śrīpattanātmīyamahīpradeśe\।  
           Strīratnadhendā svasutātibhaktyā  
         
-Saṁpreṣite-(71)hāsamabhūtiyuktā\।\।-[iti](# "The letter before iti is not clear, but is similar to the character found in the same position in the bell inscription. [How and where Professor Johnston found the word iti is not clear, for it is not on the rubbing. Ānanda candra s inscription ends with the word bhūtiyuktā followed by three double daṇḍas, between the first pair of which there is a Garuḍa-symbol (see Plate I), which is appropriate in the edict of a king claiming to belong to the ")
+Saṁpreṣite-(71)hāsamabhūtiyuktā\।\।-iti[^87], which is appropriate in the edict of a king claiming to belong to the ")
+
+[^85]: "One must understand that ᵒnaradhipo bhaktinamro, which is impossible metrically, is indicated."
+
+[^86]: "No doubt Srimanmano. [Apparently Manodhira is the king s name (see translation, below
+
+[^87]: "The letter before iti is not clear, but is similar to the character found in the same position in the bell inscription. [How and where Professor Johnston found the word iti is not clear, for it is not on the rubbing. Ānanda candra s inscription ends with the word bhūtiyuktā followed by three double daṇḍas, between the first pair of which there is a Garuḍa-symbol (see Plate I
 
 śrī \[ki\]rttisampū\[rṇa\] vijaya  
     ekādaśame 'bde
@@ -358,7 +532,11 @@ Saṁpreṣite-(71)hāsamabhūtiyuktā\।\।-[iti](# "The letter before iti is
 
   (Verse 4)... the king \[reigned\] 120 years. (V. 5) \[There was\] a king. zealous in doing kindness to the world; he reigned afterwards for 120 years. (V. 6) Then . . . a king named . . . reigned for 120 years. (V. 7) After him again \[was\] King Bahubalī, eminent for stoutheartedness; that able man ruled for 120 years. (V. 8) The king Raghupati, fair of form, heroic in policy, reigned... 120 years. (V. 9) His... puissant ... reigned \[1\]20 \[years\]. (V. 10) After him \[was\] a king, Candrodaya by name, approved by the good; he held the kingship for 27 years. (V. 11) The Annaveta kings, bestowing bounty in manifold wise, after experiencing worldly pleasure on earth for 5 years went to heaven. (V. 12) After that an excellent king eminent in religious practices, possessing wisdom, reigned for 77 years. (V. 13) After him, King Rimbhyappa, practising bounty. . . reigned in righteousness for 23 years.
 
-hen Queen Kūverāmi (? Kūverā), \[practising?\] bounty and good deeds, for 7 years after him made the kingdom free from foes. (V. 15) Then Umavīrya (?), her husband (?), a very politic king skilful in his majesty (?), ruled for 20 years. (V. 16) After him a king named Jugna, who benefited all beings, was then so established on the throne for 7 years. (V. 17) Then the able king named Lānkī(? Līnkī) after reigning 2 years, . . . . a valiant man, in course of time went to heaven. (V. 18) Here is stated the number of years 1 the ancestral monarchs: \[the number of years\] of these kings verily is 1,016 (? 1,060). (V. 19) After them \[there was\] in later time one who possessed righteousness and fortune, puissant, sage, DveṇCandra by name, who was a lord of kings. (V. 20) He, strong of arm because of righteousness, conquered 101 kings, and built a [compact](# "See above, note on text.") (?) city furnished with walls and moat. (V. 21) He, possessing glory, having constructed the city, which laughed at the beauty of Paradise, reigned for 55 years. (V. 22) Then the fortunate Rājacandra reigned 20 years; having thus known the pleasure of Paradise, the king went to heaven. (V. 23) After him, Kālacandra (?), a very prosperous and exceedingly politic king, who reigned 9 years, went to heaven after making \[for himself\] a garland of glory. (V. 24) Like Śakra the Lord of the Gods was King Devacandra, who then after reigning 22 years enjoyed heaven. (V. 25) After him Yajñacandra was renowned, reigning 7 years. Then Candrabandhu enjoyed a reign of 6 years in the world. (V. 26) Then arose Bhūmicandra, a second moon, on earth; he reigned with righteousness for 7 years. (V. 27) The politic Bhūticandra, after enjoying kingship for 24 years, then departed to gain celestial happiness. (V. 28) Then there was the renowned Nīticandra, who removed strife by policy; he reigned like Mahendra for 55 years. (V. 29) After him King Vīryacandra reigned for 3 years; then King Prīticandra \[ruled\] for 12 years. (V. 30) After him King Pṛthvīcandra, constantly following religion, enjoyed the pleasures of kingship for 7 years. (V.31) King Dhṛticandra after him supported the world; he protected \[his\] people, and then after 3 years went to heaven. (V.32) The years spent in happy enjoyment of kingship by the 16 monarchs sprung from the lineage of the Lord (Īśa = Śiva), who bore the name Candra and had glory delightful as the moon, when counted will up verily be 230. (V. 33) Afterwards Mahāvīra \[was\] king of Purempura (?); he then had a godly reign for 12 years. (V. 34) Also the king named Vrayajap, a valiant lord of the earth, after tasting the happiness of kingship for 12 years, thereupon enjoyed the pleasures of Paradise. (V.35) After him King Sevinren (?) is remembered as having reigned 12 years; slaying Māvuka (?), he enjoyed the happiness of prosperity in kingship. (V. 36) Then King Dharmaśūra protected the earth in accordance with religion; highly prosperous, on the completion of 13 years he went to Paradise. (V. 37) Then \[was\] the indeed devout famous king sprung from the gods' lineage, Vajraśakti, who because of his devotion was like a Vajrin (Indra) among monarchs. (V.38) Possessing bounty, virtue, and other \[qualities\], he went to the world of the gods after protecting the whole universe in a reign of 16 years. (V. 39) After him there was a brave king, the fortunate Dharmavijaya, attended by fortune, religion, and victory, zealous in doing kindness to the world. (V.40) After enjoying kingship for 36 years because of religion, policy, and victory, through practising remembrance of the Three Jewels he passed away to the Tuṣita heaven. (V. 41) That king's good son Narendravijaya enjoyed the kingship for 2 years and 9 months. (V.42) There arose one belonging to the lineage of the Lord (Îśa = Śiva), a conqueror of troops of foemen, gaining great majesty by manifestation of the three [powers](# "Viz. lordship, counsel, and enterprise."),a moon of valiant kings, son of Vajraśakti, the fortunate Dharmacandra, having majestically illustrious puissance. (V.43) The fortunate king, after enjoying a prosperous reign for 16 years, made over the kingdom to \[his\] excellent son, and afterwards passed away to Paradise. (V. 44) His son Ānandacandra is victorious, having the lotus-flowers of his feet ruddied by the outpouring of gleams from gems in the garlands of diadems of reverently bowing monarchs, exceedingly lofty in glory unique on earth, causing gladness, potent over (?) the darkness of foemen. (V.45) \[He is\] a king equal to Karṇa in bounty, likewise a Yudhisṣṭhira in truthfulness, like Pradyumna in beauty, in splendour like the Sun on earth.
+hen Queen Kūverāmi (? Kūverā), \[practising?\] bounty and good deeds, for 7 years after him made the kingdom free from foes. (V. 15) Then Umavīrya (?), her husband (?), a very politic king skilful in his majesty (?), ruled for 20 years. (V. 16) After him a king named Jugna, who benefited all beings, was then so established on the throne for 7 years. (V. 17) Then the able king named Lānkī(? Līnkī) after reigning 2 years, . . . . a valiant man, in course of time went to heaven. (V. 18) Here is stated the number of years 1 the ancestral monarchs: \[the number of years\] of these kings verily is 1,016 (? 1,060). (V. 19) After them \[there was\] in later time one who possessed righteousness and fortune, puissant, sage, DveṇCandra by name, who was a lord of kings. (V. 20) He, strong of arm because of righteousness, conquered 101 kings, and built a compact[^88] (?) city furnished with walls and moat. (V. 21) He, possessing glory, having constructed the city, which laughed at the beauty of Paradise, reigned for 55 years. (V. 22) Then the fortunate Rājacandra reigned 20 years; having thus known the pleasure of Paradise, the king went to heaven. (V. 23) After him, Kālacandra (?), a very prosperous and exceedingly politic king, who reigned 9 years, went to heaven after making \[for himself\] a garland of glory. (V. 24) Like Śakra the Lord of the Gods was King Devacandra, who then after reigning 22 years enjoyed heaven. (V. 25) After him Yajñacandra was renowned, reigning 7 years. Then Candrabandhu enjoyed a reign of 6 years in the world. (V. 26) Then arose Bhūmicandra, a second moon, on earth; he reigned with righteousness for 7 years. (V. 27) The politic Bhūticandra, after enjoying kingship for 24 years, then departed to gain celestial happiness. (V. 28) Then there was the renowned Nīticandra, who removed strife by policy; he reigned like Mahendra for 55 years. (V. 29) After him King Vīryacandra reigned for 3 years; then King Prīticandra \[ruled\] for 12 years. (V. 30) After him King Pṛthvīcandra, constantly following religion, enjoyed the pleasures of kingship for 7 years. (V.31) King Dhṛticandra after him supported the world; he protected \[his\] people, and then after 3 years went to heaven. (V.32) The years spent in happy enjoyment of kingship by the 16 monarchs sprung from the lineage of the Lord (Īśa = Śiva), who bore the name Candra and had glory delightful as the moon, when counted will up verily be 230. (V. 33) Afterwards Mahāvīra \[was\] king of Purempura (?); he then had a godly reign for 12 years. (V. 34) Also the king named Vrayajap, a valiant lord of the earth, after tasting the happiness of kingship for 12 years, thereupon enjoyed the pleasures of Paradise. (V.35) After him King Sevinren (?) is remembered as having reigned 12 years; slaying Māvuka (?), he enjoyed the happiness of prosperity in kingship. (V. 36) Then King Dharmaśūra protected the earth in accordance with religion; highly prosperous, on the completion of 13 years he went to Paradise. (V. 37) Then \[was\] the indeed devout famous king sprung from the gods' lineage, Vajraśakti, who because of his devotion was like a Vajrin (Indra) among monarchs. (V.38) Possessing bounty, virtue, and other \[qualities\], he went to the world of the gods after protecting the whole universe in a reign of 16 years. (V. 39) After him there was a brave king, the fortunate Dharmavijaya, attended by fortune, religion, and victory, zealous in doing kindness to the world. (V.40) After enjoying kingship for 36 years because of religion, policy, and victory, through practising remembrance of the Three Jewels he passed away to the Tuṣita heaven. (V. 41) That king's good son Narendravijaya enjoyed the kingship for 2 years and 9 months. (V.42) There arose one belonging to the lineage of the Lord (Îśa = Śiva), a conqueror of troops of foemen, gaining great majesty by manifestation of the three powers[^89],a moon of valiant kings, son of Vajraśakti, the fortunate Dharmacandra, having majestically illustrious puissance. (V.43) The fortunate king, after enjoying a prosperous reign for 16 years, made over the kingdom to \[his\] excellent son, and afterwards passed away to Paradise. (V. 44) His son Ānandacandra is victorious, having the lotus-flowers of his feet ruddied by the outpouring of gleams from gems in the garlands of diadems of reverently bowing monarchs, exceedingly lofty in glory unique on earth, causing gladness, potent over (?) the darkness of foemen. (V.45) \[He is\] a king equal to Karṇa in bounty, likewise a Yudhisṣṭhira in truthfulness, like Pradyumna in beauty, in splendour like the Sun on earth.
+
+[^88]: "See above, note on text."
+
+[^89]: "Viz. lordship, counsel, and enterprise."
 
  The good deeds done by that Emperor, whose thought yearned for the welfare of others, from the first year his reign until the ninth year, whether done by himself or caused to be done and approved \[by him\], because he desired for living beings an abundance of merit through enlightenment of vision and acceptance, will be declared.
 
@@ -366,36 +544,52 @@ hen Queen Kūverāmi (? Kūverā), \[practising?\] bounty and good deeds, for 7 
 
  Moreover :—
 
- (Vv. 63-4) On hearing the speech of Ānandacandra monarch of the earth, scion of the Bird-lineage of fortunate righteous kings—\[speech\] fraught with meaning helpful to religion and abundantly marked by the qualities of valour, \[high\] descent, and bounty—the king sprung from the Śaiva-Andhra lineage, the fortunate highly prosperous [Manodhīra](# "It seems necessary to take manodhira thus as a proper name, regarding maharddhikena as qualifying it (cf. narādhipa bhaktinamro, above, verse 62)."), fulfilling his command with devout obeisance, entered into happy friendship \[with him\]. (V.65) Having promptly made a well and a monastery in the district belonging to his fortunate city, he sent here with extreme devotion his daughter Dhendā, a gem among women, provided with peerless ornaments.\]
+ (Vv. 63-4) On hearing the speech of Ānandacandra monarch of the earth, scion of the Bird-lineage of fortunate righteous kings—\[speech\] fraught with meaning helpful to religion and abundantly marked by the qualities of valour, \[high\] descent, and bounty—the king sprung from the Śaiva-Andhra lineage, the fortunate highly prosperous Manodhīra[^90]."), fulfilling his command with devout obeisance, entered into happy friendship \[with him\]. (V.65) Having promptly made a well and a monastery in the district belonging to his fortunate city, he sent here with extreme devotion his daughter Dhendā, a gem among women, provided with peerless ornaments.\]
+
+[^90]: "It seems necessary to take manodhira thus as a proper name, regarding maharddhikena as qualifying it (cf. narādhipa bhaktinamro, above, verse 62
 
 ***B. Inscription on Bell from Vesali***
 
  This is a votive inscription on a small bell found at Vesālī, near Mrohaung, Akyab district, Arakan, and now preserved at Akyab, in the keeping of U San Shwe Bu, Hon. Archæological Officer for Arakan.
 
- 1. deyadharmmo 'yaṁŚākyabhikṣo...yac [atra](# "[Read yac cãtra.]") puṇyaṁ tad bhavatu mātāpitṛpūrvvaṅgamaṁkṛtvā-
+ 1. deyadharmmo 'yaṁŚākyabhikṣo...yac atra[^91] puṇyaṁ tad bhavatu mātāpitṛpūrvvaṅgamaṁkṛtvā-
 
-  2. cāryyopādhyāyānāṁ sarvvasatvānāñ ca anuttarajñānāvāptaye [ti](# "[The letter before ti is certainly i, though of an unusual type, resembling a u. A similar letter occurs in Inscr. C below, line 4.]")
+[^91]: "[Read yac cãtra.]"
+
+  2. cāryyopādhyāyānāṁ sarvvasatvānāñ ca anuttarajñānāvāptaye ti[^92]
 
 * \[Translation*.— This is a pious offering of the Buddhist friar...May the merit that is therein be for the gaining of supreme knowledge by teachers, tutors, and all beings, in company with \[his\] mother and father."\]
+
+[^92]: "[The letter before ti is certainly i, though of an unusual type, resembling a u. A similar letter occurs in Inscr. C below, line 4.]"
 
 *C. Inscription on Stone from Sandoway *
 
   This is a votive inscription on a stone obtained by Colonel G. E. Fryer in January, 1872, in the cavity of a hill near Ngalunmaw, Kwelu circle, Sandoway district, Arakan (*vide Proc. As. Soc. Bengal,* 1879, p. 201), and now on loan from the Royal Asiatic Society at the Museum of the Indian Institute, Oxford.
 
-1. . . [ye](# "This formula should read thus: Ye dharmma hetuprabhavā hetum teşām Tathāgato hy avocat teşañ  ca yo nirodhaḥ evamvādi mahāśramaṇaḥ.]")
+1. . . ye[^93]
 dharmma hetuprabhava hetu  
-2. teṣāṁ Tathāgata hy [avocat](# "[The stone has only avoca.]") teṣāñ ca yo  
+2. teṣāṁ Tathāgata hy avocat[^94] teṣāñ ca yo  
 3. nirotha evaṁvādi mahāśraṇa॥  
-4. upā[sak\[ā\]](# "[The stone reads upāsaka.]") Ma\[i\]gā upāsa-  
+4. upā[sak\[ā\]][^95] Ma\[i\]gā upāsa-  
 5. k. \[Sā\]koma\[vamma\]m akāra-  
 6.yi mātapitāku-  
 7.    sala॥
+
+[^93]: "This formula should read thus: Ye dharmma hetuprabhavā hetum teşām Tathāgato hy avocat teşañ  ca yo nirodhaḥ evamvādi mahāśramaṇaḥ.]"
+
+[^94]: "[The stone has only avoca.]"
+
+[^95]: "[The stone reads upāsaka.]"
 
   \[*Translation.—*" The Buddha has declared how the consciousness-moments arising from causes are caused, and how they are to be suppressed: thus spake the Great Ascetic. The lay-worshipper Maīgā(?) \[and\] the lay-worshipper Sākomavamma (?) caused to be made \[this object\] for the welfare of \[their\] mother and father."\]
 
 **PART II. EARLY COINS OF THE KINGS OF ARAK. **
 
- Only small numbers of early Arakanese coins *in situ* have been discovered hitherto, and the best collection is in the British Museum, a representative selection of whose coins is reproduced in Plate V by permission of the Department of Coins and Medals. The majority of them, figs. 5-21, are of the same general type : obverse a humped bull lying down with the name of the king above, placed in a circle with a row of beads outside; reverse a pattern, of which more later, with the sun and moon above, again in a circle with a row of beads outside. The bull, except in figs. 5 and 20, has a row of beads round its neck, the number varying for each king. Similarly there is a line of a varying number of beads below the pattern on the reverse. The shape of the pattern on the reverse shows a continuous development which, even without the dynastic list in *Ānandacandra's praśasti*, would enable them to be placed in chronological order. This list, palæographic considerations and the details alike prove Deva's coin (fig. 5) to be the oldest of the series. In this case, and in this alone, the bull has been placed in the centre of the obverse, and leaves insufficient place for the inscription, which accordingly has the appearance of having been added as an afterthought. Further, there is no chain of beads round the bull's neck, but the symbols of the sun and moon appear, though now much worn and indistinct, on the reverse. There remain to be placed figs. 1-4. At the top of the obverse, squeezed in between the beading andthe central figure on the last of these, there is an inscription of four characters, hitherto unnoticed, which is not as clear in the plate as on the coin itself, but is far more obvious in Phayre's reproduction (*Coins of Arakan,* Plate II, fig. II). The first two letters give *Deva*, in exactly the same script as in fig. 5; the last two are not clear, but are probably *candra*. The reverse has the sun and moon symbol of the Candra dynasty. The manner in which the inscription is inserted on figs. 4 and 5 makes it probable that Devacandra was the first king of Arakan to place his name on the coinage. This reason alone is enough to justify the conclusion that Taw Sein Ko was wrong in reading *Kālacandra* on the coin mentioned above (p. 368 f.). Fig. 3 is closely related to fig. 4 in general pattern, but has no inscription on the obverse; the symbols of the sun and moon appear to be discernible on the reverse. This coin must therefore be very close in date to No. 4, and may belong to Kāla or Deva Candra. Discussion of Nos. 1 and 2, very similar coins and in particularly good condition, is more speculative. The obverse has a conch-shell in a circle of beads; in No. 1 the turn-in of the shell has teeth-like markings, absent in No. 2, and there are two loops of what is apparently a ribbon at the top of the shell, this feature being almost obliterated in No. 2. The reverse has a pattern, which is familiar to us on many of the more ancient Indian monuments, such as Sanchi, and which I have tried to show [elsewhere](# "JRAS., 1931, 588 ff.; 1932, 393 ff.; and 1933, 690.")to be a *vardhamāna*. In the centre is an ankusa (?) with a disproportionately long hook, and No. 2 has also a small crescent on the right of it, resembling the moon in the other coins. For the *vardhamāna* in this form I may particularly compare the specimen in the right hand quarter of the *āyāgapaṭṭa* figured on Pl. IX of V. Smith's The Jaina Stupa and other *Antiquities of [Muttra](# " Also Vogel, La Sculpture de Mathura, Pl. LIV b."),* which shows in the interior something like a bud on a stalk in place of the *aṅkuśa*. It may be more than a coincidence that a good relief of a conch-shell was found also at Muttra, illustrated ibid., Pl. LXXI, fig. 7. If we compare the reverses of Nos. 1 and 2 with that of No. 3, is it not clear that the latter has developed out of the former? The relationship is obvious, and the close connection between the reverses of No. 3 and Nos. 5 ff. do not allow room for Nos. 1 and 2 to have developed out of the remaining coins, as can be seen from the latest stage of the evolution, as known to us at present, in Nos. 20 and 21. With this result assured, we can then realize that the obverse of Nos. 3 and 4 is merely the shell of Nos. 1 and 2, turned the other way up and stylized with much extra embellishment. Accordingly coins Nos. 1 and 2 must be the earliest of the series. This con- clusion is corroborated by a coin which is intermediate in type between Nos. 1 and 3; there is no specimen of it in the British Museum, and I only know it from the indistinct illustration in Phayre, ibid., Pl. II, fig. 9, and cannot therefore discuss it in detail.
+ Only small numbers of early Arakanese coins *in situ* have been discovered hitherto, and the best collection is in the British Museum, a representative selection of whose coins is reproduced in Plate V by permission of the Department of Coins and Medals. The majority of them, figs. 5-21, are of the same general type : obverse a humped bull lying down with the name of the king above, placed in a circle with a row of beads outside; reverse a pattern, of which more later, with the sun and moon above, again in a circle with a row of beads outside. The bull, except in figs. 5 and 20, has a row of beads round its neck, the number varying for each king. Similarly there is a line of a varying number of beads below the pattern on the reverse. The shape of the pattern on the reverse shows a continuous development which, even without the dynastic list in *Ānandacandra's praśasti*, would enable them to be placed in chronological order. This list, palæographic considerations and the details alike prove Deva's coin (fig. 5) to be the oldest of the series. In this case, and in this alone, the bull has been placed in the centre of the obverse, and leaves insufficient place for the inscription, which accordingly has the appearance of having been added as an afterthought. Further, there is no chain of beads round the bull's neck, but the symbols of the sun and moon appear, though now much worn and indistinct, on the reverse. There remain to be placed figs. 1-4. At the top of the obverse, squeezed in between the beading andthe central figure on the last of these, there is an inscription of four characters, hitherto unnoticed, which is not as clear in the plate as on the coin itself, but is far more obvious in Phayre's reproduction (*Coins of Arakan,* Plate II, fig. II). The first two letters give *Deva*, in exactly the same script as in fig. 5; the last two are not clear, but are probably *candra*. The reverse has the sun and moon symbol of the Candra dynasty. The manner in which the inscription is inserted on figs. 4 and 5 makes it probable that Devacandra was the first king of Arakan to place his name on the coinage. This reason alone is enough to justify the conclusion that Taw Sein Ko was wrong in reading *Kālacandra* on the coin mentioned above (p. 368 f.). Fig. 3 is closely related to fig. 4 in general pattern, but has no inscription on the obverse; the symbols of the sun and moon appear to be discernible on the reverse. This coin must therefore be very close in date to No. 4, and may belong to Kāla or Deva Candra. Discussion of Nos. 1 and 2, very similar coins and in particularly good condition, is more speculative. The obverse has a conch-shell in a circle of beads; in No. 1 the turn-in of the shell has teeth-like markings, absent in No. 2, and there are two loops of what is apparently a ribbon at the top of the shell, this feature being almost obliterated in No. 2. The reverse has a pattern, which is familiar to us on many of the more ancient Indian monuments, such as Sanchi, and which I have tried to show elsewhere[^96]to be a *vardhamāna*. In the centre is an ankusa (?) with a disproportionately long hook, and No. 2 has also a small crescent on the right of it, resembling the moon in the other coins. For the *vardhamāna* in this form I may particularly compare the specimen in the right hand quarter of the *āyāgapaṭṭa* figured on Pl. IX of V. Smith's The Jaina Stupa and other *Antiquities of Muttra[^97],* which shows in the interior something like a bud on a stalk in place of the *aṅkuśa*. It may be more than a coincidence that a good relief of a conch-shell was found also at Muttra, illustrated ibid., Pl. LXXI, fig. 7. If we compare the reverses of Nos. 1 and 2 with that of No. 3, is it not clear that the latter has developed out of the former? The relationship is obvious, and the close connection between the reverses of No. 3 and Nos. 5 ff. do not allow room for Nos. 1 and 2 to have developed out of the remaining coins, as can be seen from the latest stage of the evolution, as known to us at present, in Nos. 20 and 21. With this result assured, we can then realize that the obverse of Nos. 3 and 4 is merely the shell of Nos. 1 and 2, turned the other way up and stylized with much extra embellishment. Accordingly coins Nos. 1 and 2 must be the earliest of the series. This con- clusion is corroborated by a coin which is intermediate in type between Nos. 1 and 3; there is no specimen of it in the British Museum, and I only know it from the indistinct illustration in Phayre, ibid., Pl. II, fig. 9, and cannot therefore discuss it in detail.
+
+[^96]: "JRAS., 1931, 588 ff.; 1932, 393 ff.; and 1933, 690."
+
+[^97]: " Also Vogel, La Sculpture de Mathura, Pl. LIV b."
 
   As regards the origin of this coins present any analogy with it. coinage, it is remarkable how few Indian One might compare the reverse of No. 5
 
@@ -427,7 +621,9 @@ No. 5. Deva. Earliest coin with the bull on obverse.
 
   No. 20. Dhamma Candra. Note the increased stylization, the absence of the bead necklet on the bull, and the curious shape of the hump. Moon to the left.  
   No. 21. Reading of inscription uncertain. Note the curious shape of the bull's hump, only paralleled in No. 20; this is also the only coin showing the bull's tail turning back at the end, instead of under the rump as in all other cases. Moon to the right.  
-  \[No. 22. Nīti Candra. See ab[ove.\]](# "[This coin was presented to the Phayre Museum by Maung Kyaw.]") 
+  \[No. 22. Nīti Candra. See ab[ove.\]][^98] 
+
+[^98]: "[This coin was presented to the Phayre Museum by Maung Kyaw.]"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -441,3 +637,101 @@ No. 5. Deva. Earliest coin with the bull on obverse.
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

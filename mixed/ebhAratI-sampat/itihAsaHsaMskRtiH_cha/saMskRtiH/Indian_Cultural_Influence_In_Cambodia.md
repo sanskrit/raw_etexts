@@ -135,17 +135,23 @@ APPENDIX
 
 INTRODUCTION
 
- We do not find any reference to Kambuja (the Sanscrit name for Cambodia in the Indo-Chinese inscriptions) in Sanscrit literature. It may have been included in that vague term Suvarṇa-bhûmi (the Chryse of the Greek and Roman writers) which seems to mean generally the countries situated to the east of the Bay of Bengal. The coast of Farther India was the El Dorado of Indian adventurers from the times of the Jâtakas (some of which are at least as old as the 3rd century B.C.). The Mahâjanaka Jâtaka (Cambridge ed., VI, No. 539) and the SaṃkhaJâtaka (IV, No. 442) mention merchants taking ship from Benares and from Champa (Bhagalpur), sailing down the Ganges into the open sea, and then steering their course towards Suvarṇabhûmi. Kautilya in his Artha-Çâstra refers to Suvarṇa-Kudyaka as a country of rare and precious products. As Prof. Sylvain Lévi has pointed [out](# "Prof, Sylvain Lévi, Ptolomé, Le Niddesa et La Brihat Kathâ, Etudes Asiatiques, 1925."), this place is also mentioned in the Niddesa (a portion of the Pali canon probably of the first century A.D.) together with Suvarṇabhûmi, Java, and Vanka (an island near Sumatra) and was probably somewhere near Java. The allusions in the Râmâyaṇa to the Kirâtas,
+ We do not find any reference to Kambuja (the Sanscrit name for Cambodia in the Indo-Chinese inscriptions) in Sanscrit literature. It may have been included in that vague term Suvarṇa-bhûmi (the Chryse of the Greek and Roman writers) which seems to mean generally the countries situated to the east of the Bay of Bengal. The coast of Farther India was the El Dorado of Indian adventurers from the times of the Jâtakas (some of which are at least as old as the 3rd century B.C.). The Mahâjanaka Jâtaka (Cambridge ed., VI, No. 539) and the SaṃkhaJâtaka (IV, No. 442) mention merchants taking ship from Benares and from Champa (Bhagalpur), sailing down the Ganges into the open sea, and then steering their course towards Suvarṇabhûmi. Kautilya in his Artha-Çâstra refers to Suvarṇa-Kudyaka as a country of rare and precious products. As Prof. Sylvain Lévi has pointed out[^1], this place is also mentioned in the Niddesa (a portion of the Pali canon probably of the first century A.D.) together with Suvarṇabhûmi, Java, and Vanka (an island near Sumatra) and was probably somewhere near Java. The allusions in the Râmâyaṇa to the Kirâtas,
+
+[^1]: "Prof, Sylvain Lévi, Ptolomé, Le Niddesa et La Brihat Kathâ, Etudes Asiatiques, 1925."
 
 
 
 who lived on the Arakan coast on the heights of Mount Mandara (the region of Kirrhadia and Mont Maiandros of Ptolemy according to Prof. Lévi), and to Java are well-known. I need not mention the references to Sumatra, Suvarṇabhûmi, etc., in later works like Kathâ-sarit-sâgara. It is strange therefore that the history of the Hindu culture in Kambuja should be known to us only through the discoveries made in Cambodia itself in the latter half of the 19th century.
 
- In 1570 a Dominican friar Gabriel Cuiroga of San Antonio discovered Angkor and described it as a deserted city in the midst of a forest known only to hunters. In 1672 a French priest of the name of Chevreuil describes Angkor Vat as a shrine where worship had been resumed by Buddhist [monks](# " M. Goloubieff, Introduction a la connaissance d'Angkor, 1992."). But it was the rediscovery of Angkor by the French naturalist Henri Mouhot in 1861 which led to its being known by the Western world. Mouhot died. shortly afterwards, and it is to the explorer Doudart de Lagrée that the credit is due of making the first discoveries (1866) of the Sanscrit inscriptions on which our knowledge of ancient Kambuja (Cambodia) is based. After his premature death, the work of collecting facsimiles of the inscriptions was continued by Dr. Harmand. The attention of Prof. Kern,
+ In 1570 a Dominican friar Gabriel Cuiroga of San Antonio discovered Angkor and described it as a deserted city in the midst of a forest known only to hunters. In 1672 a French priest of the name of Chevreuil describes Angkor Vat as a shrine where worship had been resumed by Buddhist monks[^2]. But it was the rediscovery of Angkor by the French naturalist Henri Mouhot in 1861 which led to its being known by the Western world. Mouhot died. shortly afterwards, and it is to the explorer Doudart de Lagrée that the credit is due of making the first discoveries (1866) of the Sanscrit inscriptions on which our knowledge of ancient Kambuja (Cambodia) is based. After his premature death, the work of collecting facsimiles of the inscriptions was continued by Dr. Harmand. The attention of Prof. Kern,
+
+[^2]: " M. Goloubieff, Introduction a la connaissance d'Angkor, 1992."
 
 
 
-the great authority on ancient Java, was drawn to these facsimiles and in 1879 were deciphered for the first time a few of these Sanscrit inscriptions by this learned [Orientalist](# "M. Finot, L'Epigraphie Indo-chinoise, B.E.F.E.O., t. xv, p. 113 and seq"). The next year appeared the first work of M. Aymonier on Kambuja epigraphy, and by 1881 he had succeeded in deciphering the dates of accession of some of the important Khmer (the vernacular name for Cambodia) sovereigns. When he returned to France at the end of that year—the materials collected by him were carefully examined by MM. Barth, Senart, and Bergaigne. The report on this joint work read by M. Bergaigne in 1882, before the Societé Asiatique, was an important landmark in the work of reconstruction of Kambuja history. It gave a tentative chronology, dated the most ancient inscriptions fairly successfully, and emphasized the relations between Hinduism and Buddhism in ancient Kambuja. In 1883 appeared M. Aymonier's important work on Khmer (the old vernacular of Cambodia) inscriptions-"Quelques notions sur les inscriptions en vieux Khmer"—which was a valuable supplement to the information available from the Sanscrit inscriptions. Moreover he continued to send to Paris facsimiles which were examined by MM. Barth and Bergaigne. In 1885 appeared the first
+the great authority on ancient Java, was drawn to these facsimiles and in 1879 were deciphered for the first time a few of these Sanscrit inscriptions by this learned Orientalist[^3]. The next year appeared the first work of M. Aymonier on Kambuja epigraphy, and by 1881 he had succeeded in deciphering the dates of accession of some of the important Khmer (the vernacular name for Cambodia) sovereigns. When he returned to France at the end of that year—the materials collected by him were carefully examined by MM. Barth, Senart, and Bergaigne. The report on this joint work read by M. Bergaigne in 1882, before the Societé Asiatique, was an important landmark in the work of reconstruction of Kambuja history. It gave a tentative chronology, dated the most ancient inscriptions fairly successfully, and emphasized the relations between Hinduism and Buddhism in ancient Kambuja. In 1883 appeared M. Aymonier's important work on Khmer (the old vernacular of Cambodia) inscriptions-"Quelques notions sur les inscriptions en vieux Khmer"—which was a valuable supplement to the information available from the Sanscrit inscriptions. Moreover he continued to send to Paris facsimiles which were examined by MM. Barth and Bergaigne. In 1885 appeared the first
+
+[^3]: "M. Finot, L'Epigraphie Indo-chinoise, B.E.F.E.O., t. xv, p. 113 and seq"
 
 
 
@@ -191,7 +197,9 @@ century, mentions the following local tradition of Funan as regards the origin o
 
 *Kaundinya—the founder of Funan.*
 
- "Of old this country had for sovereign a woman of the name of Lieou-ye. Then there was a man of the country of Ki, Houen-t'ien, who dreamt that a god gave him a bow and bade him embark on a junk and go out on the sea. In the morning Houen-t'ien went to the temple of the god and found a bow. Then he embarked on a junk and sailed towards Funan. Lieou-ye saw the junk and led her troops to resist him. But Houen-t'ien raised his bow and shot an arrow which, passing through the side of a boat, struck somebody within. Lieou-ye was frightened and submitted. Houen-t'ien married her. He wrapped her in a piece of cloth as she had no [clothing."](# "Pelliot, Le Fonnan, p. 275 (B.B.F.E.0., t. iii).")
+ "Of old this country had for sovereign a woman of the name of Lieou-ye. Then there was a man of the country of Ki, Houen-t'ien, who dreamt that a god gave him a bow and bade him embark on a junk and go out on the sea. In the morning Houen-t'ien went to the temple of the god and found a bow. Then he embarked on a junk and sailed towards Funan. Lieou-ye saw the junk and led her troops to resist him. But Houen-t'ien raised his bow and shot an arrow which, passing through the side of a boat, struck somebody within. Lieou-ye was frightened and submitted. Houen-t'ien married her. He wrapped her in a piece of cloth as she had no clothing."[^4].")
+
+[^4]: "Pelliot, Le Fonnan, p. 275 (B.B.F.E.0., t. iii
 
  Now Houen-t'ien is an exact transcription of Kaundinya. The country Ki is not known. Another chronicle mentions Kiso which might mean the kingdoms which were far off.
 
@@ -199,11 +207,15 @@ century, mentions the following local tradition of Funan as regards the origin o
 
 
 
-658 A. D., relating to the foundation of Bhavapura—the capital of Kambuja. "It was there that Kaundinya, the greatest of the Brahmans, planted the javelin which he hadreceived from Açvatthâman, the son of Drona. There was a daughter of the Nâga king of the name of Somâ who founded a royal race on this earth. The great Brahman Kaundinya married her for the accomplishment of the [rites."](# "Inscr, of Mi So'n, No. III, B E,F.E.O., IV, 919,")
+658 A. D., relating to the foundation of Bhavapura—the capital of Kambuja. "It was there that Kaundinya, the greatest of the Brahmans, planted the javelin which he hadreceived from Açvatthâman, the son of Drona. There was a daughter of the Nâga king of the name of Somâ who founded a royal race on this earth. The great Brahman Kaundinya married her for the accomplishment of the rites."[^5]
 
- It may be suggested that this legend passed from Kambuja to Champa after the marriage of the princess of Kambuja, Çri Çarvâni, daughter of King Içânavarman, to the prince of Champa Çri Jagaddharma (afterwards king of Champa with the title of Vikrântavarman). The legend reproduces therefore the genealogical tradition.officially accepted at the Kambuja court in the 7th [century."](# "Finot, Sur quelques Traditions Indo-Chinoises, Bul, de C. Arch.. de l'Indochine, 1910, p. 32.")
+ It may be suggested that this legend passed from Kambuja to Champa after the marriage of the princess of Kambuja, Çri Çarvâni, daughter of King Içânavarman, to the prince of Champa Çri Jagaddharma (afterwards king of Champa with the title of Vikrântavarman). The legend reproduces therefore the genealogical tradition.officially accepted at the Kambuja court in the 7th century."[^6]
+
+[^5]: "Inscr, of Mi So'n, No. III, B E,F.E.O., IV, 919,"
 
 *A Prince from Indraprastha.*
+
+[^6]: "Finot, Sur quelques Traditions Indo-Chinoises, Bul, de C. Arch.. de l'Indochine, 1910, p. 32."
 
  In the Kambuja Annals, which disappeared during the wars of the 18th century and were rewritten towards the end of it and which partly embodies old traditions, the following account appears of the origin of the kingdom:—"Adityâvaṃça, king of Indraprastha (Delhi), being displeased with one of his sons, Prah
 
@@ -211,7 +223,9 @@ century, mentions the following local tradition of Funan as regards the origin o
 
 Thong, drove him out of his kingdom. The prince arrived in the country of Kok Thlok (the Khmer name of Kambuja meaning the land of the Thlok tree) where ruled a Cham prince who was soon dispossessed of his throne. by the newcomer. One evening, caught unawares by the tide on the sea-shore, he was obliged to spend the night there. A Nâgi of marvellous beauty came to play on the beach. The prince fell in love with her and was married to her. The Nâga-râja, father of the Nâgi, expanded the kingdom of his son-in-law by drinking offthe water which covered the country, built for him a capital and changed the name of the country into Kambuja."
 
- It may be mentioned here that the capital of Kambuja, Angkor (Sanscrit Nagar), was also known as [Indraprasthapura.](# "Aymonier, Une notice sur le Cambodge (the introduction to his Dictionnaire Fracais-Cambodgien, 1874).")In Ptolemy's map of Trans-Gangetic India, a tribe known as Indraprathai is located in the north of Central Indo-China.
+ It may be mentioned here that the capital of Kambuja, Angkor (Sanscrit Nagar), was also known as Indraprasthapura.[^7].")In Ptolemy's map of Trans-Gangetic India, a tribe known as Indraprathai is located in the north of Central Indo-China.
+
+[^7]: "Aymonier, Une notice sur le Cambodge (the introduction to his Dictionnaire Fracais-Cambodgien, 1874
 
 ***Nāga Ancestors.***
 
@@ -219,23 +233,37 @@ Thong, drove him out of his kingdom. The prince arrived in the country of Kok Th
 
 
 
-of Chao Jou-Koua, a work on Chinese trade in the 12th century, it is stated:—"They (the people of San-fo-tsi or Çrivijaya) gave the title of long-tsing' to their king." Now the word "long-tsing" according to Pelliot means "the seed of the [Nâga."](# "G. Ferrand, L'Empire Sumatranais de Çrivijaya, p. 11.")
+of Chao Jou-Koua, a work on Chinese trade in the 12th century, it is stated:—"They (the people of San-fo-tsi or Çrivijaya) gave the title of long-tsing' to their king." Now the word "long-tsing" according to Pelliot means "the seed of the Nâga."[^8]
 
- The old Tamil poem Manimegalai mentions a town Nâgapuram in Çavaka-nâdu which is the Tamil name for Java. Two kings of Nâgapuram are mentioned—Bhumi Chandra and Punyarâja—who claimed descent from [Indra."](# "Dr. Vogel, The Yupa Inscriptions of King Mulavarman from Kutei (E. Borneo).")This Nâgi legend is found, on the other hand, among the Pallavas of Kanchi. There are two inscriptions dating from the 9th century giving the genealogy of the Pallava kings. According to the first, Açvatthaman, the son of Drona, married a Nâgi and their offspring was Skandaçiṣya, the legendary ancestor of the Pallava kings. The second inscription, found in North Arcot, says that Virukarcha married a Nâgi and obtained from her the insignia of royalty and that after him came [Skandaçiṣya."](# "Etudes Cambodgiennes, B. E. F. E. O., t. xi, p. 398.")In Kambuja the Nâgi is the founder of a new race of kings. At Kânchi the Nâgi gives the insignia of royalty to Virukarcha. We must also remember that there must have been a close
+ The old Tamil poem Manimegalai mentions a town Nâgapuram in Çavaka-nâdu which is the Tamil name for Java. Two kings of Nâgapuram are mentioned—Bhumi Chandra and Punyarâja—who claimed descent from Indra."[^9].")This Nâgi legend is found, on the other hand, among the Pallavas of Kanchi. There are two inscriptions dating from the 9th century giving the genealogy of the Pallava kings. According to the first, Açvatthaman, the son of Drona, married a Nâgi and their offspring was Skandaçiṣya, the legendary ancestor of the Pallava kings. The second inscription, found in North Arcot, says that Virukarcha married a Nâgi and obtained from her the insignia of royalty and that after him came Skandaçiṣya."[^10]In Kambuja the Nâgi is the founder of a new race of kings. At Kânchi the Nâgi gives the insignia of royalty to Virukarcha. We must also remember that there must have been a close
+
+[^8]: "G. Ferrand, L'Empire Sumatranais de Çrivijaya, p. 11."
+
+[^9]: "Dr. Vogel, The Yupa Inscriptions of King Mulavarman from Kutei (E. Borneo
+
+[^10]: "Etudes Cambodgiennes, B. E. F. E. O., t. xi, p. 398."
 
 
 
-connection between the kingdoms of Indo-China, the Archipelago and Pallava kingdom of Kâncipuram as is evidenced by the same script found in the inscriptions of all these countries and by the title of Varman borne by the rulers of these kingdoms. As Prof. Coedes points [out,](# "Ibid.")"The Cambodian legend of the Nâgi brings us back to the Pallava court." And we have seen that the legend extends to the Archipelago as well.
+connection between the kingdoms of Indo-China, the Archipelago and Pallava kingdom of Kâncipuram as is evidenced by the same script found in the inscriptions of all these countries and by the title of Varman borne by the rulers of these kingdoms. As Prof. Coedes points out,[^11]"The Cambodian legend of the Nâgi brings us back to the Pallava court." And we have seen that the legend extends to the Archipelago as well.
 
- The tradition of the Nâgi ancestress of the kings of Kambuja survived up to the 13th century as we see from the accounts of Cheou Ta-Kouan, who accompanied the ambassador of Kublai Khan, the Emperor of China, to Angkor—the capital of [Kambuja.](# "B.E.F.E.O., t ii., p. 145—Memoires de Tcheou Ta-Kouan.")"In the palace there is a golden tower at the top of which is the bed-chamber of the king. The natives say that there exists in the tower the spirit of a serpent with nine hoods which owns the soil of the whole kingdom. Every night it appears in the form of a woman...If it fails to appear it means that the death of the king is imminent."
+[^11]: "Ibid."
+
+ The tradition of the Nâgi ancestress of the kings of Kambuja survived up to the 13th century as we see from the accounts of Cheou Ta-Kouan, who accompanied the ambassador of Kublai Khan, the Emperor of China, to Angkor—the capital of Kambuja.[^12]"In the palace there is a golden tower at the top of which is the bed-chamber of the king. The natives say that there exists in the tower the spirit of a serpent with nine hoods which owns the soil of the whole kingdom. Every night it appears in the form of a woman...If it fails to appear it means that the death of the king is imminent."
+
+[^12]: "B.E.F.E.O., t ii., p. 145—Memoires de Tcheou Ta-Kouan."
 
  Sculptured representations of Nâgas with many hoods are to be found every where-in Indo-China to this day. Perhaps they commemorate. the memory of the Nâgi ancestress. As we shall see later on there were kings both of the
 
 
 
-lunar and the solar race in Kambuja. The kings of Funan belonged to the lunar race and traced their origin to the Nâgi Somâ and Kaundinya. Perhaps the name Somâ (Soma in Sanscrit meaning the moon) suggested the idea of linking up the dynasty with the lunar race of the Mahâbhârata. The kings of Kambuja (as distinguished from Fanan) had a separate genealogical tradition. Their ancestors were represented to be the great sage (maharsi) Kambu and the apsarâ Merâ. This couple founded the solar dynasty. The name of the country Kambuja was also said to be derived from the name of the riṣi. But as Finot points [out](# "Sur Quelques Traditions Indo-Chinoises, Bul. de Com. Arch, de I'Indo-Chine, 1911, p. 34.")this tradition did not last long. It appears in one or two inseriptions (especially in the inscription of Baksei Camkron, dated 947 A.D.) and then it dies out leaving the field to the older legend of the Nâgi. Perhaps the kings of Kambuja wanted to be remembered by posterity as the lineal descendants of the sovereigns of Funan. Even now in wedding ceremonies the names of the Nâgi Somâ and the Brahman Kaundinya are mentioned as part of the [ritual.](# "Aymonier, Hist, de l'Ancien Cambodge, p. 11.")
+lunar and the solar race in Kambuja. The kings of Funan belonged to the lunar race and traced their origin to the Nâgi Somâ and Kaundinya. Perhaps the name Somâ (Soma in Sanscrit meaning the moon) suggested the idea of linking up the dynasty with the lunar race of the Mahâbhârata. The kings of Kambuja (as distinguished from Fanan) had a separate genealogical tradition. Their ancestors were represented to be the great sage (maharsi) Kambu and the apsarâ Merâ. This couple founded the solar dynasty. The name of the country Kambuja was also said to be derived from the name of the riṣi. But as Finot points out[^13]this tradition did not last long. It appears in one or two inseriptions (especially in the inscription of Baksei Camkron, dated 947 A.D.) and then it dies out leaving the field to the older legend of the Nâgi. Perhaps the kings of Kambuja wanted to be remembered by posterity as the lineal descendants of the sovereigns of Funan. Even now in wedding ceremonies the names of the Nâgi Somâ and the Brahman Kaundinya are mentioned as part of the ritual.[^14]
+
+[^13]: "Sur Quelques Traditions Indo-Chinoises, Bul. de Com. Arch, de I'Indo-Chine, 1911, p. 34."
 
 *Kaundinyas in Funan and Poli.*
+
+[^14]: "Aymonier, Hist, de l'Ancien Cambodge, p. 11."
 
  By the by the Liang annals (502-556) of China say that the family name of the king of
 
@@ -255,33 +283,47 @@ Poli (a state in the Archipelago) was Kaundinya. They mention also a native trad
 
 
 
-to great [riṣis.](# "Sur Quelques Traditions Indo-chinoises, B.C.A.I., 1911, p. 36.")In Siam the ancestors of the people were said to be two Brahmans who, after having peopled ten villages with their offspring, selected a king, Pathamarâja, and then retired from the cares of the world for tapasyâ. One finds also two Râjarṣis associated with the origin. of the kingdom of Thaton (Sudharmanagara). The elder finds on the sea-shore two eggs (of a Nâgi?) and from one of the eggs is hatched a child who later on founds the state of Thaton. Then again a king of Thaton marries the daughter of a magician (a Brahman?) and of a Nâgi, who had been abandoned in a forest while yet an infant and who had been brought up by a hermit, and the offspring of this marriage founded the kingdom of Hamsâvati (Pegu).
+to great riṣis.[^15]In Siam the ancestors of the people were said to be two Brahmans who, after having peopled ten villages with their offspring, selected a king, Pathamarâja, and then retired from the cares of the world for tapasyâ. One finds also two Râjarṣis associated with the origin. of the kingdom of Thaton (Sudharmanagara). The elder finds on the sea-shore two eggs (of a Nâgi?) and from one of the eggs is hatched a child who later on founds the state of Thaton. Then again a king of Thaton marries the daughter of a magician (a Brahman?) and of a Nâgi, who had been abandoned in a forest while yet an infant and who had been brought up by a hermit, and the offspring of this marriage founded the kingdom of Hamsâvati (Pegu).
+
+[^15]: "Sur Quelques Traditions Indo-chinoises, B.C.A.I., 1911, p. 36."
 
  As regards Champa, a Sanskrit inscription. discovered at Dong Duong (in the ancient province of Amarâvati), dated 875 A.D., gives the following legend. A certain Bhṛgu had been. sent down from heaven to the earth by Iça (Çiva) to consecrate the linga of Çambhubhadreçvara. Afterwards Çambhu, with a smile, sends Uroja (another riṣi residing in heaven) in his turn to look after the sacred linga. "Thou art fortunate, Uroja," says Çiva, "go down on the earth and take the kingdom." The inscription goes on:—"It is from Uroja descended
 
 
 
-from Çiva himself, that all the rulers trace their descent who since then have occupied the throne of [Campâpura."](# "G. Maspero, Le Royaume de Champa, p. 58.")
+from Çiva himself, that all the rulers trace their descent who since then have occupied the throne of Campâpura."[^16]
 
 *Java and Kambuja.*
 
- Finally it may be conjectured that Kambuja and perhaps Champa too received Indian immigrants and Indian culture not directly from India but from Indian colonies in Java. In the Râmâyana Java is mentioned last in the list of the countries situated in the Far East. An embassy from Java (Yatiao=Yapdiv according to Pelliot) arrived at the Chinese Court in 132 [A.D.](# "Bulletin Critique, Toung-pao, 1912, a criticism of Hirth and Rockhill's Chau Ju-Kua.")The name of the Javanese king who sent this embassy was Tiao Pien which is quite possibly the Chinese transcription of Deva [Varman.](# "G. Ferrand, Journ. Asiatique, 1916, pp. 521-530.")This would then be the earliest embassy from the Hindu or Hinduised states of Indo-China and the Archipelago to the Imperial Court of China. And lastly, an old Khmer legend, quoted by [Lagree,](# "Explorations et misalone de Doudard de Lagree, p. 10,")speaks of the Chveapre'ahm, or Java Brahmans, coming from that island to the Khmer country and founding a kingdom there (which however was ruled by a succession of six Cham kings). The Brahmans,
+[^16]: "G. Maspero, Le Royaume de Champa, p. 58."
+
+ Finally it may be conjectured that Kambuja and perhaps Champa too received Indian immigrants and Indian culture not directly from India but from Indian colonies in Java. In the Râmâyana Java is mentioned last in the list of the countries situated in the Far East. An embassy from Java (Yatiao=Yapdiv according to Pelliot) arrived at the Chinese Court in 132 A.D.[^17]The name of the Javanese king who sent this embassy was Tiao Pien which is quite possibly the Chinese transcription of Deva Varman.[^18]This would then be the earliest embassy from the Hindu or Hinduised states of Indo-China and the Archipelago to the Imperial Court of China. And lastly, an old Khmer legend, quoted by Lagree,[^19]speaks of the Chveapre'ahm, or Java Brahmans, coming from that island to the Khmer country and founding a kingdom there (which however was ruled by a succession of six Cham kings). The Brahmans,
+
+[^17]: "Bulletin Critique, Toung-pao, 1912, a criticism of Hirth and Rockhill's Chau Ju-Kua."
+
+[^18]: "G. Ferrand, Journ. Asiatique, 1916, pp. 521-530."
+
+[^19]: "Explorations et misalone de Doudard de Lagree, p. 10,"
 
 
 
 says the legend, had long hair and a dark complexion and they claimed to belong to Pareanosey (Vârânasi or Benares). The Cham kings (whose names also end in Varman) were driven out by the fugitive prince from Indraprastha who married the daughter of the Nâga-râja.
 
- Finally it may be mentioned that M. Pelliot, in his latest researches on the Chinese texts containing references to the book written by the Chinese ambassador K'ang Tai (who visited Funan in the 3rd century A. D.), seems to come to the conclusion that Kaundinya did not come. directly from India but from some place in the Malay Archipelago known to the Chinese as Heng-tie or Mo-fou. This was to the south-east of Yeou-po (Java?) where, according to the Chinese text, "the walled cities, jewels and customs were the same as in [India."](# "Pelliot. Quelques Textes Chinoises concernant l'Indo-chine Hindanisée, Etudes Asiatiques, 1925, t. ii, pp. 247-248.")
+ Finally it may be mentioned that M. Pelliot, in his latest researches on the Chinese texts containing references to the book written by the Chinese ambassador K'ang Tai (who visited Funan in the 3rd century A. D.), seems to come to the conclusion that Kaundinya did not come. directly from India but from some place in the Malay Archipelago known to the Chinese as Heng-tie or Mo-fou. This was to the south-east of Yeou-po (Java?) where, according to the Chinese text, "the walled cities, jewels and customs were the same as in India."[^20]
 
+
+[^20]: "Pelliot. Quelques Textes Chinoises concernant l'Indo-chine Hindanisée, Etudes Asiatiques, 1925, t. ii, pp. 247-248."
 
 
 CHAPTER II
 
 FUNAN
 
- Though the accounts of the Chinese chronicles about the origin of Funan are of a semilegendary character, they show clearly the impact of a superior civilisation on a primitive. people. We have heard of Queen Lieou-ye (the Chinese translate her name as the Willow-leaf) sharing the realm with the stranger Houen-t'ien (Kaundinya) who worshipped the spirits or the "genii" by which name the Chinese designate the gods of the Brahmanic cult. The time of his coming cannot be later than the first century A.D., as far as we can calculate from the dates of the reigns of his successors to the throne of Funan. This is the period of the first contact with [India.](# "Pelliot's Le Faunan is the main authority for this chapter. See B.E.F.E.O., t. iii, p. 248 et seq.")
+ Though the accounts of the Chinese chronicles about the origin of Funan are of a semilegendary character, they show clearly the impact of a superior civilisation on a primitive. people. We have heard of Queen Lieou-ye (the Chinese translate her name as the Willow-leaf) sharing the realm with the stranger Houen-t'ien (Kaundinya) who worshipped the spirits or the "genii" by which name the Chinese designate the gods of the Brahmanic cult. The time of his coming cannot be later than the first century A.D., as far as we can calculate from the dates of the reigns of his successors to the throne of Funan. This is the period of the first contact with India.[^21]
 
  The son of Lieou-ye and Houen-t'ien (Kaundinya) claimed allegiance from seven towns. But the control of the central power over the vassals seems to have been rather weak, for one of the successors of Houen-t'ien, Houen p'an-houang (the first part of his name shows his
+
+[^21]: "Pelliot's Le Faunan is the main authority for this chapter. See B.E.F.E.O., t. iii, p. 248 et seq."
 
 
 
@@ -303,27 +345,39 @@ descent from Houen-t'ien), succeeded only in reducing the seven towns to submiss
 
 
 
-and give them their daughters in marriage. They read their sacred books day and [night."](# "Pelliot, Le Founan, p. 279.")
+and give them their daughters in marriage. They read their sacred books day and night."[^22]
 
  Then another country is mentioned-Pi-kien beyond Touen-sien and 8,000 li from Fanan. Pelliot thinks it was in the Irawaddy region. It is represented as producing gold, and golden vessels of enormous size were sent frequently as presents to the king of Funan by the king of Pi-kien. This King (of Pi-kien) is supposed to be a supernatural being, holy and omniscient. "He knew how to write (books like) Indian texts. The (text written by the king) had 3,000 words and resembled the sutras of the Buddha. His subjects however were cannibals."
 
+[^22]: "Pelliot, Le Founan, p. 279."
+
 *Embassy from Funan to India.*
 
- After the death of the Great King Fan-che-man, which occurred probably about 225 A.D., another general, Fan Chan, usurped the throne. Fan Chan entered into direct official relations with the kings of India. A certain Kia-siang-li is mentioned by a Chinese book of the 5th [century](# "Pelliot, Le Founan, pp. 277-278 (B.E.F.E.O., t. iii).")as having come through India to Funan from a country to the west of India. This stranger told Fan Chan about the great wealth of India, the progress the Law had made there and the esteem in which it was held by other
+ After the death of the Great King Fan-che-man, which occurred probably about 225 A.D., another general, Fan Chan, usurped the throne. Fan Chan entered into direct official relations with the kings of India. A certain Kia-siang-li is mentioned by a Chinese book of the 5th century[^23].")as having come through India to Funan from a country to the west of India. This stranger told Fan Chan about the great wealth of India, the progress the Law had made there and the esteem in which it was held by other
+
+[^23]: "Pelliot, Le Founan, pp. 277-278 (B.E.F.E.O., t. iii
 
 
 
-countries. He replied to the king's questions that it was 30,000 li from Funan and that it would take four years to go there and return to Funan. The king's curiosity was roused and he sent as ambassador to India one of his relations Su [Wu.](# " Ibid, p. 292.")
+countries. He replied to the king's questions that it was 30,000 li from Funan and that it would take four years to go there and return to Funan. The king's curiosity was roused and he sent as ambassador to India one of his relations Su Wu.[^24]
 
- In the history of the Leang we find:—"From Funan Su Wu started from the port of Teou-Kiu-li (probably Takkola, which, according to Dr. Blagdon and other scholars, was on the western coast of the Malay Peninsula to the north of the isthmus of [Kra](# "Prof. Sylvain Levi, Ptolemée, Le Niddesa et La Brhantkatha, Etudes Asiatiques (1925), t. ii, p. 4."); this shows how. far south in the Malay Peninsula the influence of Funan extended). He followed the great curve of the shore towards the north-west, entered a great bay on the borders of which there were several kingdoms. At the end of more than one year he reached the mouth of the river of India. He went up the stream for 7,000 li and reached his destination. The king of India was surprised and exclaimed, "What! there exist such men on the shores of the furthest seas!" He gave an order to show them. the interior of the kingdom. Afterwards he sent two persons, one of whom was Chen-song, to offer in return to Fan Chan a present of four horses of the country of the Yue-che; and he
+ In the history of the Leang we find:—"From Funan Su Wu started from the port of Teou-Kiu-li (probably Takkola, which, according to Dr. Blagdon and other scholars, was on the western coast of the Malay Peninsula to the north of the isthmus of Kra[^25], t. ii, p. 4."); this shows how. far south in the Malay Peninsula the influence of Funan extended). He followed the great curve of the shore towards the north-west, entered a great bay on the borders of which there were several kingdoms. At the end of more than one year he reached the mouth of the river of India. He went up the stream for 7,000 li and reached his destination. The king of India was surprised and exclaimed, "What! there exist such men on the shores of the furthest seas!" He gave an order to show them. the interior of the kingdom. Afterwards he sent two persons, one of whom was Chen-song, to offer in return to Fan Chan a present of four horses of the country of the Yue-che; and he
+
+[^24]: " Ibid, p. 292."
+
+[^25]: "Prof. Sylvain Levi, Ptolemée, Le Niddesa et La Brhantkatha, Etudes Asiatiques (1925
 
 
 
-sent, back Su Wu and the others. After an absence of four years they came [back."](# "Palliot, Le Founan, p. 271.")This mission from Funan to India took place in the period 240-245 A.D.
+sent, back Su Wu and the others. After an absence of four years they came back."[^26]This mission from Funan to India took place in the period 240-245 A.D.
+
+[^26]: "Palliot, Le Founan, p. 271."
 
 *The Chinese and Indian Ambassadors in Funan.*
 
- At this time when the Emperor of the Wou dynasty, Souen K'iuan (222-251), was reigning, K'ang Tai and Chou Ying were sent on an embassy to Funan. This was in the period [245-50.](# "Ibid, p 303.")They met the Indian Chen-song and asked him about the customs of India.³He replied:—
+ At this time when the Emperor of the Wou dynasty, Souen K'iuan (222-251), was reigning, K'ang Tai and Chou Ying were sent on an embassy to Funan. This was in the period 245-50.[^27]They met the Indian Chen-song and asked him about the customs of India.³He replied:—
+
+[^27]: "Ibid, p 303."
 
  "That is a country where the law of Buddha prospers. The people there are straightforward and the land is very fertile. The title of the king is Meou-loun. The capital has a double enclosure of ramparts. Streams and sources ofwater supply are divided into a large number of winding canals which flow into the ditches under the walls (of the city) and thence into a great stream. The palaces and temples are adorned with sculptured and engraved decorations. In
 
@@ -333,9 +387,11 @@ sent, back Su Wu and the others. After an absence of four years they came [back.
 
 
 
-the streets, the markets, the villages, the houses, the inns and in towns one sees bells and tambours of joyous sound, rich dresses and fragrant flowers. The merchants come there by land and sea and assemble in great numbers and offer for sale jewels and all the objects of luxury which the heart can desire. To the right and left there are six great kingdoms, those of Kia-wei (Kapilavastu), Che-wei (Çravasti), etc. Several kingdoms, even though situated at a distance of 2,000 or 3,000 li from India, obey the king, as they consider this kingdom to be situated in the centre of the [universe."](# "Prof. Sylvain Levi on Les Murundas in Melanges, Charles de Harlez, pp. 176-185. ")
+the streets, the markets, the villages, the houses, the inns and in towns one sees bells and tambours of joyous sound, rich dresses and fragrant flowers. The merchants come there by land and sea and assemble in great numbers and offer for sale jewels and all the objects of luxury which the heart can desire. To the right and left there are six great kingdoms, those of Kia-wei (Kapilavastu), Che-wei (Çravasti), etc. Several kingdoms, even though situated at a distance of 2,000 or 3,000 li from India, obey the king, as they consider this kingdom to be situated in the centre of the universe."[^28]
 
  The description of the kingdom or the title. of the king does not give anything which can be exactly identified. The only word which phonetically corresponds closely to Meou-loun, according to Prof. Sylvain Levi, is the name of a race in ancient India the Murundas. Ptolemy places the Maroundai on the left bank of the Ganges to the north of the river Sarabos or Sarayu. Prof. Levi quotes a Jaina work which names Pataliputra as the residence of the Murunda-râja. This agrees with Ptolemy's description. The name of the Murunda dynasty is found in the dynastic lists in the Puranas. There were 13 princes belonging to this dynasty and the Vayu Purana states that they ruled 350.
+
+[^28]: "Prof. Sylvain Levi on Les Murundas in Melanges, Charles de Harlez, pp. 176-185. "
 
 
 
@@ -343,7 +399,9 @@ years. A Jaina saint cured a Murunda king in the first century A.D., and the Mur
 
  Such was the single official relation between India and Indo-China.
 
- When the Chinese ambassadors K'ang Tai and Chou Ying reached Funan, King Fan Chan was already dead. This was about 245 A.D. In 243 A.D. the king had sent an embassy to China with a present of musicians, [etc.](# "Le Founan, p. 303.")After a bloody civil war following on Fan Chan's death, the general Fan Siun had ascended the throne. The Chinese ambassadors remarked to him:— "The kingdom indeed is beautiful but it is strange that the men are so indecent." They had found that the men had no clothing though the women wrapped themselves in something like a sheet. Fan Siun then issued an order that the men should not go about naked. K'ang Tai, the head of this mission, wrote a book about what he had seen or heard of more than a hundred kingdoms. On his account is based the information transmitted from historian to historian as regards the early history of Funan. It is from the date of this embassy (245-250 A.D.)
+ When the Chinese ambassadors K'ang Tai and Chou Ying reached Funan, King Fan Chan was already dead. This was about 245 A.D. In 243 A.D. the king had sent an embassy to China with a present of musicians, etc.[^29]After a bloody civil war following on Fan Chan's death, the general Fan Siun had ascended the throne. The Chinese ambassadors remarked to him:— "The kingdom indeed is beautiful but it is strange that the men are so indecent." They had found that the men had no clothing though the women wrapped themselves in something like a sheet. Fan Siun then issued an order that the men should not go about naked. K'ang Tai, the head of this mission, wrote a book about what he had seen or heard of more than a hundred kingdoms. On his account is based the information transmitted from historian to historian as regards the early history of Funan. It is from the date of this embassy (245-250 A.D.)
+
+[^29]: "Le Founan, p. 303."
 
 —————————————————————————————————————
 
@@ -353,9 +411,11 @@ years. A Jaina saint cured a Murunda king in the first century A.D., and the Mur
 
 that we get an approximate chronology of the early kings of Funan. Unhappily this book of K'ang Tai has disappeared.
 
- There is a description of the country of Funan in the history of the Tsin dynasty (265-419 A.D.) which is certainly based on K'ang Tai's Book:—The territory is 3,000 li in width. There are walled cities, palaces and houses. The men are ugly and black and their hair is curly. They go about naked and bare-footed. They are simple and do not steal. They resort to agriculture. Besides they are fond of engraving ornaments and of chiselling. Many of the utensils, which they use for taking their meals, are of silver. Taxes are paid in gold, silver, pearls and perfumes. They have books, archives, etc. Their alphabet resembles that of the Hou (a Central Asiatic tribe which had the Indian alphabet). Their marriage and funeral ceremonies are on the whole the same as in Linyi [(Champa).](# "Le Founan, p. 254.")
+ There is a description of the country of Funan in the history of the Tsin dynasty (265-419 A.D.) which is certainly based on K'ang Tai's Book:—The territory is 3,000 li in width. There are walled cities, palaces and houses. The men are ugly and black and their hair is curly. They go about naked and bare-footed. They are simple and do not steal. They resort to agriculture. Besides they are fond of engraving ornaments and of chiselling. Many of the utensils, which they use for taking their meals, are of silver. Taxes are paid in gold, silver, pearls and perfumes. They have books, archives, etc. Their alphabet resembles that of the Hou (a Central Asiatic tribe which had the Indian alphabet). Their marriage and funeral ceremonies are on the whole the same as in Linyi (Champa).[^30]
 
  Fan Siun's reign was a long one. He sent an embassy in 287 A. D. He made an alliance with Champa. For when the Emperor wanted to reduce the military expenditure on the southern frontier, the Governor of Tonkin sent a memorial (in 280) protesting that Linyi (Champa) and Funan were neighbouring
+
+[^30]: "Le Founan, p. 254."
 
 
 
@@ -381,7 +441,9 @@ a predecessor of the king who sent the next embassy in 434, he probably came fro
 
 
 
-Buddhism, in whose empire the Law flourished more and more. It stated that a subject of the King of Funan had fled to Champa, had conquered the country and was in open revolt against his former sovereign. The memorial goes on "shall a rat occupy the lion's throne? I request that troops may be sent to overthrow the wicked [rebel."](# "The chronicles which refer to Linyi Champs) describe this usurper as a son of the King of Funan.")
+Buddhism, in whose empire the Law flourished more and more. It stated that a subject of the King of Funan had fled to Champa, had conquered the country and was in open revolt against his former sovereign. The memorial goes on "shall a rat occupy the lion's throne? I request that troops may be sent to overthrow the wicked rebel."[^31] describe this usurper as a son of the King of Funan.")
+
+[^31]: "The chronicles which refer to Linyi Champs
 
  Presents were sent to the Imperial Court among which was a gold model of the throne of the serpent-king (Nâga-râja).
 
@@ -411,7 +473,9 @@ embassy from Jayavarman, an imperial order was issued:—"The king of Funan, Kau
 
 
 
-[Tripitaka.](# "Nanjo, Catalogue, Appendix II. Nos. 101 and 102, quoted in Le Founan, pp. 284, 285.")One of them was of the name of Sanghapâla or Sanghavarman. He came to China in a junk. As he knew several languages the Emperor Wou of the Leang dynasty ordered him to translate sacred books, from 506 to 512 A.D., in five different places, one of which bore the name of the office of Funan. He died in 524. The other monk from Funan was Mandra or Mandrasena. He arrived at the Chinese capital in 503 and afterwards was commanded by the Emperor Wou to collaborate with Sanghapâla in the work of translating the scriptures. But he could never acquire a good knowledge of the Chinese language.
+Tripitaka.[^32]One of them was of the name of Sanghapâla or Sanghavarman. He came to China in a junk. As he knew several languages the Emperor Wou of the Leang dynasty ordered him to translate sacred books, from 506 to 512 A.D., in five different places, one of which bore the name of the office of Funan. He died in 524. The other monk from Funan was Mandra or Mandrasena. He arrived at the Chinese capital in 503 and afterwards was commanded by the Emperor Wou to collaborate with Sanghapâla in the work of translating the scriptures. But he could never acquire a good knowledge of the Chinese language.
+
+[^32]: "Nanjo, Catalogue, Appendix II. Nos. 101 and 102, quoted in Le Founan, pp. 284, 285."
 
  "Jayavarman died in 514 A.D.," says the History of Leang, "Rudravarman, the son of a concubine, after slaying his younger brother (the son of a real queen), usurped the throne. He sent several embassies... In 539 A.D. he sent information to the Imperial Court that in his country there was a long hair of Buddha. By an Imperial order a mork was sent in search of it."
 
@@ -421,15 +485,21 @@ embassy from Jayavarman, an imperial order was issued:—"The king of Funan, Kau
 
 
 
-of Chenla (the Chinese name for Kambuja,:—"Chen-la is south-west of Linyi (Champa,. It was originally a vassal state of Funan. The family name of the king is Kshatriya, his personal name is Chitrasena. Under his ancestors this kingdom became more and more powerful. Chitrasena reduced Funan to submission. His son Içânasena succeeded him. He lived in [Içânapura."](# "Le Funan, p. 272.")
+of Chenla (the Chinese name for Kambuja,:—"Chen-la is south-west of Linyi (Champa,. It was originally a vassal state of Funan. The family name of the king is Kshatriya, his personal name is Chitrasena. Under his ancestors this kingdom became more and more powerful. Chitrasena reduced Funan to submission. His son Içânasena succeeded him. He lived in Içânapura."[^33]
 
- The New History of the T'ang (618-906) is the last official chronicle which mentions Funan. It says that the capital of Funan, Tomu, was suddenly seized by Chen-la and that the king of Funan had to withdraw farther south to the town of Na-fou-na (Navanagar?). The last embassy from Funan came to the court of a T'ang Emperor during the first half of the 7th century. It brought a present of two white men who belonged to a country west of [Funan.](# "Ibid, p. 274.") After this Funan seems to have been merged in the new Khmer kingdom.
+ The New History of the T'ang (618-906) is the last official chronicle which mentions Funan. It says that the capital of Funan, Tomu, was suddenly seized by Chen-la and that the king of Funan had to withdraw farther south to the town of Na-fou-na (Navanagar?). The last embassy from Funan came to the court of a T'ang Emperor during the first half of the 7th century. It brought a present of two white men who belonged to a country west of Funan.[^34] After this Funan seems to have been merged in the new Khmer kingdom.
+
+[^33]: "Le Funan, p. 272."
+
+[^34]: "Ibid, p. 274."
 
  I-tsing, who travelled in these regions during 671-695 A. D., writes:—"Leaving Champa and going towards the south-west the country of Pa-nan is reached. Formerly this was called Funan. In ancient times it was the country of the naked men. The people worshipped many Devas. Then the law of Buddha prospered
 
 
 
-and expanded. But at the present time a wicked king has completely destroyed it and there are no more [monks](# "I-tsing, ed. by Takakssu, p. 10.")."
+and expanded. But at the present time a wicked king has completely destroyed it and there are no more monks[^35]."
+
+[^35]: "I-tsing, ed. by Takakssu, p. 10."
 
  This is all that we know of Funan. The name Funan itself may have been derived from the Khmer word Phnom or Bhnam which means a hill. We shall see later on the importance attached to sacred hills in Kambuja. And the country was often called by the name of its capital, as Kambuja was in its early days known as Içânapura or Bhavapura. It is quite likely that the capital of Funan with its sacred hill (Nâgasena does mention a hill Motan sacred to Maheçvra) lent its name to the country.
 
@@ -445,9 +515,13 @@ THE EARLY KINGS OF KAMBUJA
 
 
 
-the yoke of Funan. The next two stanzas continue the panegyric of the descendants of Çrutavarman. In the 16th stanza we find that to this first dynasty succeeds another series of kings having Rudravarman as the chief of their branch. They are described as deriving their origin from Kaundinya and Somâ(the daughter of [Soma).](# "Ed. by Coedes, J. A., May-June, 1909.")
+the yoke of Funan. The next two stanzas continue the panegyric of the descendants of Çrutavarman. In the 16th stanza we find that to this first dynasty succeeds another series of kings having Rudravarman as the chief of their branch. They are described as deriving their origin from Kaundinya and Somâ(the daughter of Soma).[^36]
 
- The inscription of [Ta-Prohm](# "Ed by Coedes, B.E.F.E.O. (Jan-June), 1906.")dated 1108 ç.e. (1186 A.D.), also mentions Çrutavarman as the father of Çreshṭhavarman, the sovereign (adhirâja) of Çreshṭhapura. In the 6th stanza we find:—"He was a king whom the lords of the earth, bearers of the unbreakable sceptres of Manu, should honour, excelling among the learned, the son of Çrutavarman: Çreshṭhavarman (by name), excelling in pure glory, the source of a brilliant line of kings." The next stanza gives:—"The sun of the heaven which is the family of Kambu, born on the mountain Jayâdityapura, as the sun rises from Udayagiri, he (Creshṭhavarman) caused the hearts of all living creatures to wake up as (the sun awakens) the lotus, he who is full of spirit and energy, the supreme king of Çreshṭhapura."3In the
+ The inscription of Ta-Prohm[^37], 1906.")dated 1108 ç.e. (1186 A.D.), also mentions Çrutavarman as the father of Çreshṭhavarman, the sovereign (adhirâja) of Çreshṭhapura. In the 6th stanza we find:—"He was a king whom the lords of the earth, bearers of the unbreakable sceptres of Manu, should honour, excelling among the learned, the son of Çrutavarman: Çreshṭhavarman (by name), excelling in pure glory, the source of a brilliant line of kings." The next stanza gives:—"The sun of the heaven which is the family of Kambu, born on the mountain Jayâdityapura, as the sun rises from Udayagiri, he (Creshṭhavarman) caused the hearts of all living creatures to wake up as (the sun awakens) the lotus, he who is full of spirit and energy, the supreme king of Çreshṭhapura."3In the
+
+[^36]: "Ed. by Coedes, J. A., May-June, 1909."
+
+[^37]: "Ed by Coedes, B.E.F.E.O. (Jan-June
 
 ———————————————————————————————————
 
@@ -469,13 +543,23 @@ eighth stanza is the account of the Princess Kambuja-râja-lakṣmi, "born in th
 
 Brahmadatta and Brahmasiṃha were court physicians of King Rudravarman. The sons of their sister, Dharmadeva and Siṃhadeva, were ministers of Bhavavarman and Mahendravarman. Siṃhavira, the son of Dharmadeva, was the minister of Içânavarman. Siṃhadatta, the son of Siṃhavira, was the physician of Jayavarman and was the Governor of Adhyapura (the old name of Ang Chumnik) It was the last who dedicated a temple to Çiva Vijayeçvara at this place and who was the author of this inscription.
 
- Now from Chinese sources we know that Rudravarman wasone of the last kings of Funan, that Citrasena of Chenla reduced Funan to submission and that Içânasena was his successor. The inscription of Phou [Lokhon](# "B.E.F.E.O., t. III p. 445.")(Laos) tells us that Citrasena was the earlier name of Mahendravarman before he ascended the throne. An earlier [inscription](# "Ibid, p. 212.")(without date) gives us the name of Citrasena as having dedicated a Çivalinga on the bank of the Makong. We know from an inscription of Vat [Vat Chakret](# "I.S.C.C., p. 40.")that Içânavarman was reigning in 626 A.D.
+ Now from Chinese sources we know that Rudravarman wasone of the last kings of Funan, that Citrasena of Chenla reduced Funan to submission and that Içânasena was his successor. The inscription of Phou Lokhon[^38](Laos) tells us that Citrasena was the earlier name of Mahendravarman before he ascended the throne. An earlier inscription[^39](without date) gives us the name of Citrasena as having dedicated a Çivalinga on the bank of the Makong. We know from an inscription of Vat Vat Chakret[^40]that Içânavarman was reigning in 626 A.D.
+
+[^38]: "B.E.F.E.O., t. III p. 445."
+
+[^39]: "Ibid, p. 212."
+
+[^40]: "I.S.C.C., p. 40."
 
  So far the Chinese accounts and the information we can derive from the inscriptions of Kamhuja tally. There is no mention however of Bhavavarman, the predecessor and elder
 
 
 
-brother of Citrasena (Mahendravarman), in the Chinese annals. This probably can be accounted for by the fact that the Chinese only came into direct contact with Chenla during the reign of Içânavarman the son of Citrasena. Citrasenawas perhaps the commander-in-chief of the army of his elder brother Bhavavarman in the war which led to the subjugation of Funan by Chenla and this might have led the Chinese historians to think of him as the conqueror of Funan. We know from an [inscription](# "I.S.C.C., XI, p. 67, stanza 5.")that Bhavavarman came to power by force of arms and from another that he was not the descendant of his immediate predecessor Rudravarman but was the son of Viravarman who does not seem to have [reigned.](# "Ibid, IV, p. 30,")As the inscriptions of Bhavavarman have been found scattered over a wide area and as some of them manifest a warlike tone we may conclude that it was Bhavavarman, a prince of Chenla, who became the paramount sovereign after striking a death-blow to the supremacy of Funan.
+brother of Citrasena (Mahendravarman), in the Chinese annals. This probably can be accounted for by the fact that the Chinese only came into direct contact with Chenla during the reign of Içânavarman the son of Citrasena. Citrasenawas perhaps the commander-in-chief of the army of his elder brother Bhavavarman in the war which led to the subjugation of Funan by Chenla and this might have led the Chinese historians to think of him as the conqueror of Funan. We know from an inscription[^41]that Bhavavarman came to power by force of arms and from another that he was not the descendant of his immediate predecessor Rudravarman but was the son of Viravarman who does not seem to have reigned.[^42]As the inscriptions of Bhavavarman have been found scattered over a wide area and as some of them manifest a warlike tone we may conclude that it was Bhavavarman, a prince of Chenla, who became the paramount sovereign after striking a death-blow to the supremacy of Funan.
+
+[^41]: "I.S.C.C., XI, p. 67, stanza 5."
+
+[^42]: "Ibid, IV, p. 30,"
 
  The inscription of Ta Prohm (12th century A.D.), we have already seen, mentions Bhavavarman as the founder of a line of kings. In the much earlier inscription of Ang Chumnik (7th century) Bhavavarman is mentioned as the successor of Rudravarman. In the inscription
 
@@ -489,19 +573,29 @@ of Baksei Chamkron (10th century A.D.), which we have also cited, Rudravarman is
 
 
 
-no dates. On paleographical grounds they belong to the 6th century, as they are remarkablysimilar to the inscription of Mangaliça at[Badâmi](# "Barth's article inscriptions Sanscrites du Cambodge, J.A. (1882)") (578 A.D) and the oldest inscriptionsof the temple of Pâpanâtha at [Pattadakal](# "Kern, quoted by Barth, p. 12, I.S.C.C.") (bothBadâmi and Pattadakal are in the presentBijâpur region of Western Deccan) which alsobelong to the 6th century. As also Içânavarman, the nephew of Bhavavarman, is known tohave been reigning in 616 A.D., and as he is thethird prince of the dynasty founded by Bhavavarman, we may safely suppose that the latterreigned in the latter half of the 6th century.
+no dates. On paleographical grounds they belong to the 6th century, as they are remarkablysimilar to the inscription of Mangaliça atBadâmi[^43]") (578 A.D) and the oldest inscriptionsof the temple of Pâpanâtha at Pattadakal[^44] (bothBadâmi and Pattadakal are in the presentBijâpur region of Western Deccan) which alsobelong to the 6th century. As also Içânavarman, the nephew of Bhavavarman, is known tohave been reigning in 616 A.D., and as he is thethird prince of the dynasty founded by Bhavavarman, we may safely suppose that the latterreigned in the latter half of the 6th century.
 
- There is a very close similarity between theinscriptions of Bhavavarman and the oldestJavanese inscriptions of Purnavarman (of Western Java) and the Kutei inscriptions of KingMulavarman of Borneo. All these have nodates but Bhavavarman's inscriptions seem tobe later than those of W. Java and [Borneo](# "Vogel, Inscr. of Malavarman (Bijdragen tot de taal land..vanNederlandsch Indie, 1918).")." A few common characteristics may be notedhere. Frequently the "b" and "v" are notdistinguished from one another. In the laterinscriptions "b" disappears altogether. After"r" a consonant is often repeated, but whenetymologically there should be a repetition of
+[^43]: "Barth's article inscriptions Sanscrites du Cambodge, J.A. (1882
+
+[^44]: "Kern, quoted by Barth, p. 12, I.S.C.C."
+
+ There is a very close similarity between theinscriptions of Bhavavarman and the oldestJavanese inscriptions of Purnavarman (of Western Java) and the Kutei inscriptions of KingMulavarman of Borneo. All these have nodates but Bhavavarman's inscriptions seem tobe later than those of W. Java and Borneo[^45].")." A few common characteristics may be notedhere. Frequently the "b" and "v" are notdistinguished from one another. In the laterinscriptions "b" disappears altogether. After"r" a consonant is often repeated, but whenetymologically there should be a repetition of
+
+[^45]: "Vogel, Inscr. of Malavarman (Bijdragen tot de taal land..vanNederlandsch Indie, 1918
 
 
 
-the consonant we generally find a single consonant (e.g., patra, chatra, etc.). The guttural"n" is frequently substituted for the anusvara,especially before s and ç. Ṭh and ḍare not distinguished from th and d. The jihvâmuliyaand the upadhmâniya are used only in theearliest inscriptions. With these exceptionsorthographical mistakes are [rare](# "I.S.C.C., pp. 3-5.").
+the consonant we generally find a single consonant (e.g., patra, chatra, etc.). The guttural"n" is frequently substituted for the anusvara,especially before s and ç. Ṭh and ḍare not distinguished from th and d. The jihvâmuliyaand the upadhmâniya are used only in theearliest inscriptions. With these exceptionsorthographical mistakes are rare[^46].
+
+[^46]: "I.S.C.C., pp. 3-5."
 
  The language of the Kambuja inscriptionsis generally quite correct classical Sanskrit.There are also Khmer inscriptions which areof less importance as generally they only givedetails for the information of the common people.
 
  As regards technique the Kambuja inscriptions excel in symmetry, artistic taste and clearness the inscriptions of India. They have madea regular fine art of it especially under Yaçovarman of the 9th century. The inscriptionsof Champa and Java also cannot compare withthem in this respect.
 
- To return to Bhavavarman, the inscriptionof Phnom Bantea Neang (in Battembang whichwas till quite recently an eastern province ofSiam), found on a stone pedestal of a Çivalinga, which has now disappeared, may havebeen engraved by the order of the king himself. It is one of the shortest of the inscriptionsand breathes a martial [spirit](# "I.S.C.C., p. 28."):—"With the
+ To return to Bhavavarman, the inscriptionof Phnom Bantea Neang (in Battembang whichwas till quite recently an eastern province ofSiam), found on a stone pedestal of a Çivalinga, which has now disappeared, may havebeen engraved by the order of the king himself. It is one of the shortest of the inscriptionsand breathes a martial spirit[^47]:—"With the
+
+[^47]: "I.S.C.C., p. 28."
 
 
 
@@ -509,13 +603,19 @@ offering of treasures, won by the might of thebow, this linga of Tryambaka has b
 
 ***DailyRecitation of SanscritEpics.***
 
- The inscription of Veal [Kantel](# "I.S.C.C., p. 30.") (found inTonle Ropon—another province possessed bySiam up to our own times) is another contemporary record. Only the last three lines now areintelligible and as it is important from a historical and literary point of view we shall translate here the seven couplets which have survived:— "There was the daughter of Çri-Viravarman, the sister of Çri-Bhavavarman, who,devoted to her husband and to the religion, waslike a second Arundhati (the wife of Vaçiṣṭha).He, who took for his wife this (lady)-the motherof Hiranyavarman, the moon among Brahmans,an Âkriti svâmi (ie., master of some Çaivaritualistic system).... the foremost of those who
+ The inscription of Veal Kantel[^48] (found inTonle Ropon—another province possessed bySiam up to our own times) is another contemporary record. Only the last three lines now areintelligible and as it is important from a historical and literary point of view we shall translate here the seven couplets which have survived:— "There was the daughter of Çri-Viravarman, the sister of Çri-Bhavavarman, who,devoted to her husband and to the religion, waslike a second Arundhati (the wife of Vaçiṣṭha).He, who took for his wife this (lady)-the motherof Hiranyavarman, the moon among Brahmans,an Âkriti svâmi (ie., master of some Çaivaritualistic system).... the foremost of those who
+
+[^48]: "I.S.C.C., p. 30."
 
 
 
-are versed in the Sâmaveda—he, Çri-Somaçarman, consecrated (this) Tribhuvaneçvara (Lordof the three worlds—Çiva), together with (animage of) the sun, with acts of worship andofferings on a grand scale. With the Râmâyanaand the Purâna he gave the complete (Mahâ)Bhârata and arranged for a daily recitation.without interruption. As long as the glory ofTribhuvaneçvara survives, [whoever](# "This portion is illegible.")(participates in this reading)—may a portion (of thefruit) of this great and virtuous deed go to (thecredit of) every doer of such a pious act. Butthe mischievous wretch who takes away fromhere even a single [book...."](# "The rest is missing.")
+are versed in the Sâmaveda—he, Çri-Somaçarman, consecrated (this) Tribhuvaneçvara (Lordof the three worlds—Çiva), together with (animage of) the sun, with acts of worship andofferings on a grand scale. With the Râmâyanaand the Purâna he gave the complete (Mahâ)Bhârata and arranged for a daily recitation.without interruption. As long as the glory ofTribhuvaneçvara survives, whoever[^49](participates in this reading)—may a portion (of thefruit) of this great and virtuous deed go to (thecredit of) every doer of such a pious act. Butthe mischievous wretch who takes away fromhere even a single book...."[^50]
+
+[^49]: "This portion is illegible."
 
  Here a Kṣatriya princess, the sister of KingBhavavarman, is found married to a Brahmanand the offspring is a Kṣatriya. In India suchintermarriages, though theoretically possible,were very rare in practice.³Then the mentionof the daily recitation of the Râmâyana and
+
+[^50]: "The rest is missing."
 
 ***\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_***
 
@@ -525,13 +625,17 @@ are versed in the Sâmaveda—he, Çri-Somaçarman, consecrated (this) Tribhuvan
 
 the Mahâbhârata (the Purâna unfortunately isnot named) in an Indo-Chinese inscription ofthe 6th century is very interesting. Lastly itmay be noted that no ruler of the name of Viravarman, Bhavavarman's father, has yet beenfound in any chronology, so probably Viravarman never reigned.
 
- The badly damaged inscription of Ponhear[Hor](# "I.S.C.C., p. 24.") (in Treang—the southernmost part ofCambodia) was composed by a local magnate whohad served two princes, the names of both of whomhave been effaced, but one of whom certainly wasBhavavarman as this king's name is mentionedtowards the end. As many different divinitiesof the Hindu pantheon are mentioned in it,it is quoted here as far as possible (a large partof the inscription being illegible) :—"Theservant of these two (kings), and, by their grace,the sea into which (the rivers) of their favoursentered—by the grace of the former (hereceived) a gold-tipped umbrella. ...this denseforest infested by tigers...... The lord of Pasenga(i.e., this courtier) consecrated a Çiva-linga.... By the favour of the second (king) (he received)a golden jar and vase.....He consecrated animage of Durgâand of Çambhu-Vishnu.....alinga having the lustre of gold....... Ten yearshaving passed (he consecrated) an image of
+ The badly damaged inscription of PonhearHor[^51] (in Treang—the southernmost part ofCambodia) was composed by a local magnate whohad served two princes, the names of both of whomhave been effaced, but one of whom certainly wasBhavavarman as this king's name is mentionedtowards the end. As many different divinitiesof the Hindu pantheon are mentioned in it,it is quoted here as far as possible (a large partof the inscription being illegible) :—"Theservant of these two (kings), and, by their grace,the sea into which (the rivers) of their favoursentered—by the grace of the former (hereceived) a gold-tipped umbrella. ...this denseforest infested by tigers...... The lord of Pasenga(i.e., this courtier) consecrated a Çiva-linga.... By the favour of the second (king) (he received)a golden jar and vase.....He consecrated animage of Durgâand of Çambhu-Vishnu.....alinga having the lustre of gold....... Ten yearshaving passed (he consecrated) an image of
+
+[^51]: "I.S.C.C., p. 24."
 
 
 
 Trailokyasâra (the Essence of the three worlds—Vishnu). Thus were given by this person,through the favour of his masters, he whopossessed knowledge and the peace whichknowledge brings....... May he (who robs) whathas been given be thrown into hell up to theday of destruction of all things animate andinanimate (pralaya).......(On the) 13th thespouse (Lakṣmi?) of Vimalasaba (Vishnu?).......was established here an image of Vishnu.......(was consecrated) to the Lord (Çiva) of Dhanvipura by the king Çri Bhavavarman." Thelast line mentions again Vishnu Çri-Trailokya-sâra.
 
- Now we come to one of the most archaic(on paleographical grounds as showing theclosest resemblance to Indian prototypes) andat the same time one of the most interestinginscriptions—that of Han Chey discovered near a vast group of ruins called Phnom[Bachey](# "I.S.C.C., pp. 13-14."). It does not show the perfect symmetryand elegant finish which generally characterisesKambuja epigraphy. The composer is thelord of Ugrapura in the service of Bhavavarmanand the occasion is the consecration of a Çiva-linga with the name of Bhadresçvara. Thestyle is strongly reminiscent of that of Kâlidâsa.It shows literary skill well above the average
+ Now we come to one of the most archaic(on paleographical grounds as showing theclosest resemblance to Indian prototypes) andat the same time one of the most interestinginscriptions—that of Han Chey discovered near a vast group of ruins called PhnomBachey[^52]. It does not show the perfect symmetryand elegant finish which generally characterisesKambuja epigraphy. The composer is thelord of Ugrapura in the service of Bhavavarmanand the occasion is the consecration of a Çiva-linga with the name of Bhadresçvara. Thestyle is strongly reminiscent of that of Kâlidâsa.It shows literary skill well above the average
+
+[^52]: "I.S.C.C., pp. 13-14."
 
 
 
@@ -541,13 +645,17 @@ found in the inscriptions. It begins with aninvocation to Çiva:—
 
  "Victory to the moon-crested (god), whoon his head receives the Ganges, the waves ofwhich, (their impetuosity) checked by thefrowns of Umâ, form a garland (of Çiva)."
 
- "The king Çri-Bhavavarman was the lordof the rulers of the earth, invincible and magnanimous, sublime like another Meru. Born inthe race of Soma (themoon), (effulgent) likethe moonlight (reflected) in the sea, his spiritalways shone like that on the battlefield. Whenthe six enemies (the six senses), which arewithin (us), unappeasable, without physicalform and therefore beyond human powers (ofcontrol), have been conquered by him—nothing need be said of external enemies.......When in autumn he set out on his campaignsin all his glory, his might, surpassing that ofthe sun, could not be resisted by his enemies.The dust (raised) by his army, settling down onthe cheeks of the women of the enemy, fromwhich all decorations had vanished (on accountof mourning), looked like sandal [powder](# "Cf., Raghuvamça, stanza 54, Canto IV.").......It would have been superfluous indeed to setfire to the walls of the city besieged by (him
+ "The king Çri-Bhavavarman was the lordof the rulers of the earth, invincible and magnanimous, sublime like another Meru. Born inthe race of Soma (themoon), (effulgent) likethe moonlight (reflected) in the sea, his spiritalways shone like that on the battlefield. Whenthe six enemies (the six senses), which arewithin (us), unappeasable, without physicalform and therefore beyond human powers (ofcontrol), have been conquered by him—nothing need be said of external enemies.......When in autumn he set out on his campaignsin all his glory, his might, surpassing that ofthe sun, could not be resisted by his enemies.The dust (raised) by his army, settling down onthe cheeks of the women of the enemy, fromwhich all decorations had vanished (on accountof mourning), looked like sandal powder[^53].......It would have been superfluous indeed to setfire to the walls of the city besieged by (him
+
+[^53]: "Cf., Raghuvamça, stanza 54, Canto IV."
 
 
 
 with) his flaming energy....... Having conqueredthe kings of the mountain, his glory spread overall the directions of the earth with (the aid of)bards (singing his praises) and the army of hisvirtues (or he made the world full of arts bymeans of bards equal in number to his virtues).In his person the royal race of Aiḍa (Aila orPururavas) surpassed itself, as with his exploitsit went beyond the limits of this earth. Havingfirst conquered the ocean-girdled earth byforce, in his administration he conquered it asecond time by his mild forbearance.......Therays of the jewels of the crowns of kings(prostrate before him) give lustre indeed to hisfeet but cannot give rise to any pride in hisstainless heart......"
 
- After this comes a brief reference to a sonof Bhavavarman who probably had a very briefreign, as Chinese chronicles, an inscription of[Champa](# "Inscr. of Mi-son, Finot, Notes d'epigraphie, p. 132(B.E.F.E.O., T.V., p. 920)."), and the inscription of Ang Chumnikof Kambuja ignore him altogether andmention Mahendravarman(the Citrasena of theChinese) as the next king. Then follows an account of the ascetic virtues of the lord of Ugrapurawho consecrated the Bhadreçvara: "Giving servants, cattle, land, gold, etc., without exception as the property of the god. The asceticservants of the gods may alone have authority
+ After this comes a brief reference to a sonof Bhavavarman who probably had a very briefreign, as Chinese chronicles, an inscription ofChampa[^54]."), and the inscription of Ang Chumnikof Kambuja ignore him altogether andmention Mahendravarman(the Citrasena of theChinese) as the next king. Then follows an account of the ascetic virtues of the lord of Ugrapurawho consecrated the Bhadreçvara: "Giving servants, cattle, land, gold, etc., without exception as the property of the god. The asceticservants of the gods may alone have authority
+
+[^54]: "Inscr. of Mi-son, Finot, Notes d'epigraphie, p. 132(B.E.F.E.O., T.V., p. 920
 
 
 
@@ -593,11 +701,17 @@ not the legal heir to Rudravarman and that heascended the throne by force of arm
 
 ***Mahendravarman.***
 
- His brother Citrasena adopted the name ofMahendravarman on assuming the royal power.The inscription of [Phou Lokhon](# "B. E. F. E. O., t. iii, p. 445."),found in Laos(further north than any other inscription whichwe have discussed up to this time), gives usthisinformation:—" (He) who ([is](# "The first part of the inscription is partially effaced.")) the son of Çri-Viravarman, and (who is) not inferior in powerthough the youngest brother of Cri-Bhavavarman, he, named Çri-Citrasena, who possessesall the marks of the great, has chosen the nameÇri-Mahendravarman at his coronation.Having conquered all the country, he has onthis mountain established the linga of Giriça(Çiva) to commemorate his victory." The Çiva-linga still exists on the peak.
+ His brother Citrasena adopted the name ofMahendravarman on assuming the royal power.The inscription of Phou Lokhon[^55],found in Laos(further north than any other inscription whichwe have discussed up to this time), gives usthisinformation:—" (He) who (is[^56]) the son of Çri-Viravarman, and (who is) not inferior in powerthough the youngest brother of Cri-Bhavavarman, he, named Çri-Citrasena, who possessesall the marks of the great, has chosen the nameÇri-Mahendravarman at his coronation.Having conquered all the country, he has onthis mountain established the linga of Giriça(Çiva) to commemorate his victory." The Çiva-linga still exists on the peak.
+
+[^55]: "B. E. F. E. O., t. iii, p. 445."
+
+[^56]: "The first part of the inscription is partially effaced."
 
  This inscription (which bears no date) isimportant as it enables us to identify the Citrasena (Che-to-sseu-na) of the Chinese chronicles,the conqueror of Funan, with Mahendravarman, brother and successor of Bhavavarman.
 
- The short inscription (which also is undated)of [Thma Kre](# "B. E. F. E.O., t. iii, p. 212."), found engraved on a greatrock in the bed of the river Mekong between
+ The short inscription (which also is undated)of Thma Kre[^57], found engraved on a greatrock in the bed of the river Mekong between
+
+[^57]: "B. E. F. E.O., t. iii, p. 212."
 
 
 
@@ -609,13 +723,17 @@ Sambak and Kratie, is probably earlier, as onlythe name Citrasena is mentioned h
 
 
 
-there he is stated to have despatched a BrahmanSiṃhadeva as ambassador to the king of Champaas a token of friendship between the two[princes](# "I. S. C. C., p. 67, stanza 8.")."
+there he is stated to have despatched a BrahmanSiṃhadeva as ambassador to the king of Champaas a token of friendship between the twoprinces[^58]."
+
+[^58]: "I. S. C. C., p. 67, stanza 8."
 
 The Earliest Dated Inscription.
 
  The inscription of Bayang, which bears twodates, 526 and 546 ç. e. (604 and 624 A.D.), mayhave been begun in his reign and finished inthe reign of his successor. This inscription,which is the earliest dated one we possess, isdistinctly Vedantic in tone though itcommemorates the donation of a Çivapada. Çivais here identified with the Paramâtman of theUpanishads. As to what is meant by a Çivapada (the foot of Çiva) we do not preciselyknow, as several parts of the inscription havesuffered damage, but probably it was somethingcorresponding to the Vishnupada of Gya. Thissymbol of Çiva's footprint is, as far as we know,unknown in India. The artistic skill withwhich this inscription has been engraved shows.a high standard of perfection compared withthe earlier undated inscriptions. It begins like.this:—
 
- "[He](# "I. S. C. C., pp. 34-36.") whom, by the constant practice ofcorrect meditation and a peaceful frame of
+ "He[^59] whom, by the constant practice ofcorrect meditation and a peaceful frame of
+
+[^59]: "I. S. C. C., pp. 34-36."
 
 
 
@@ -625,7 +743,9 @@ mind, the wise feel as being enthroned (intheir hearts)........ the inner light,
 
 foot of the Lord has been surrounded by a brickwall and in (the year 546 designated by) theseasons (6), the seas (4) and the senses (5) thesacred place (tank) was filled with water byhim........."
 
- The name or title Vidyâdivindvanta is alsounique. It may be translated as "who hasVidyâ(knowledge—the Vedas) in the beginningand Vindu (the Om—or the knowable) in theend." Barth explains it as "per transitoria adaeterna." It is a Vedantic name quite inharmony with the Vedantic [invocation](# "The name however may be simply Vidyabindu."). Themixture of Vedantism with Çaiva doctrines isnot very strange when we remember thatÇankarâchârya, the great Vedantist scholar,was also a devout Çaiva. Kâlidâsa, whose invocations are generally addressed to Çiva, has alsobegun some of his works (e.g., Vikramorvaçî)with stanzas addressed to the Supreme and theAbsolute. Such philosophical invocations arehowever rare in Kambuja inscriptions and fromthis point of view this inscription has an interestof its own. Barth also thinks that it is thefirst inscription, in Indian epigraphy, to expressdates by symbolic words. Prof. Bühler in hisIndian Paleography (p. 86) states that in Indiasuch word-numerals are used in inscriptions onlyfrom the 8th (rather from the 9th) century.
+ The name or title Vidyâdivindvanta is alsounique. It may be translated as "who hasVidyâ(knowledge—the Vedas) in the beginningand Vindu (the Om—or the knowable) in theend." Barth explains it as "per transitoria adaeterna." It is a Vedantic name quite inharmony with the Vedantic invocation[^60]. Themixture of Vedantism with Çaiva doctrines isnot very strange when we remember thatÇankarâchârya, the great Vedantist scholar,was also a devout Çaiva. Kâlidâsa, whose invocations are generally addressed to Çiva, has alsobegun some of his works (e.g., Vikramorvaçî)with stanzas addressed to the Supreme and theAbsolute. Such philosophical invocations arehowever rare in Kambuja inscriptions and fromthis point of view this inscription has an interestof its own. Barth also thinks that it is thefirst inscription, in Indian epigraphy, to expressdates by symbolic words. Prof. Bühler in hisIndian Paleography (p. 86) states that in Indiasuch word-numerals are used in inscriptions onlyfrom the 8th (rather from the 9th) century.
+
+[^60]: "The name however may be simply Vidyabindu."
 
 
 
@@ -647,14 +767,18 @@ Içânavarman.
 
 ***Hari-hara Cult.***
 
- [The inscription of Vat Chakret,](# "I.S.C.C., p. 40.") dated 541 ç.e. (626 A.D.), refers to him as the reigningking. There is a touch of Vedantic philosophyin the invocation:—"May the moon-crested
+ The inscription of Vat Chakret,[^40] dated 541 ç.e. (626 A.D.), refers to him as the reigningking. There is a touch of Vedantic philosophyin the invocation:—"May the moon-crested
+
+[^40]: "I.S.C.C., p. 40."
 
 
 
 god be victorious. He, who manifests himselfthrough the great development of the (three)qualities, Çiva, at the same time the origin(of all), himself being without origin and with.out end.¹ The deva Çrt Içânavarman was themaster of the earth, the equal of Indra in mightBy the grace of this king of kings...... the lordof Tâmrapura, who has for a long time made thethree cities Cakrânkapura, Amoghapura andBhîmapura the ornament of his feet.....by himhas been consecrated... the two gods, adored bysages, Hari and Çaṅkara... Slaves, cows,buffaloes, land, precious objects... (have beenbestowed)...In the Çaka year (548) designatedby the Vasus (8), the oceans (4) and the arrows (ofKâma-5)...having received the royal favour, forhaving thrown into shade the hostile arroganceof the vile lord of Tâmrapura, the (new lord)has consecrated here... Çiva united in body withViṣṇu." Apparently the donor had newlyacquired Tâmrapura from a hostile chief. Thecult of Hari-hara seems to have been popular inKambuja, as there are many images of thecombined deities still existing.
 
- The inscription of [Svai Chuo](# "I.S.C.C., p. 40.") (near PhnomPenh; also refers to Içanavarman. It is not  
+ The inscription of Svai Chuo[^40] (near PhnomPenh; also refers to Içanavarman. It is not  
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+[^40]: "I.S.C.C., p. 40."
 
  1 Compare this Vedanticinvocation with the invocation to Çiva inthe inscription at the Seven Pagodas (Burnell—South Indian Palaeography, p. 38). Burnell there says "The first four lines describe Çivain such a way that was only possible after Çaṅkara's development ofthe Vedānta."
 
@@ -662,7 +786,11 @@ god be victorious. He, who manifests himselfthrough the great development of the
 
 dated:—"Victory to the God crowned with thehalf moon, who is the ornament of the haughtydiadem of Âkhaṇḍala (Indra), who is escortedby Dhâtrî, Nârâyaṇa and millions of Rudras.Victorious also is the glorious sovereign of threekings, the mighty possessor of three cities ofextensive fame... Çri Içânavarman the master ofthe earth...." The rest of the inscription refersto the founding of an âçrama by the "venerable"Vidyâdeva for those who wish to retire temporarily or permanently.
 
- The inscription of [Ang Pou](# "Ibid, p. 49."), also undated,commemorates the consecration of a Hari-haraand a [Viṣṇu-Caṇḍeçvareçâna](# "Caṇdeçvara is also an ancient Çaiva saint of the Tamils") liṅga by a MuniIçânadatta during the reign of Içânavarman.The invocation is peculiar:—"Victorious areHara and Acyuta, who have become one for thegood of the world, though as the spouses ofPârvatîand Çrîthey are two distinct powers.Victorious also is Içânavarman, famed especiallyfor his heroism, who supports the earth likeÇeşa-Nâga......The Muni Içânadatta, celebrated.for his austerities, his life devoted to povertyand study, and the offspring of an illustriousfamily, has consecrated this image, in whichthe bodies of Çiva and Acyuta are joinedtogether half and half, for the welfare of hisparents. He has also consecrated a liṅga of
+ The inscription of Ang Pou[^63], also undated,commemorates the consecration of a Hari-haraand a Viṣṇu-Caṇḍeçvareçâna[^64] liṅga by a MuniIçânadatta during the reign of Içânavarman.The invocation is peculiar:—"Victorious areHara and Acyuta, who have become one for thegood of the world, though as the spouses ofPârvatîand Çrîthey are two distinct powers.Victorious also is Içânavarman, famed especiallyfor his heroism, who supports the earth likeÇeşa-Nâga......The Muni Içânadatta, celebrated.for his austerities, his life devoted to povertyand study, and the offspring of an illustriousfamily, has consecrated this image, in whichthe bodies of Çiva and Acyuta are joinedtogether half and half, for the welfare of hisparents. He has also consecrated a liṅga of
+
+[^63]: "Ibid, p. 49."
+
+[^64]: "Caṇdeçvara is also an ancient Çaiva saint of the Tamils"
 
 
 
@@ -674,43 +802,65 @@ Viṣṇu and of Içàna Caṇḍeçvara—his decisionbeing that their (of the 
 
 
 
- This [inscription](# "B.E.F.E.O., IV, 691."),which was found depositedin a store-house of the Public Works Office atPhnom Penh, is also noteworthy on account of itsuse of incorrect and barbarous Sanscrit. Onthis point it resembles certain inscriptions ofChampa during its period of decadence. In Kambuja we do not find anything like this, especiallyat such an early period. "There is a king,fist (muṣṭi) of the caste of rulers of the earthwho were the descendants of Manu, Çri Bhavavarman, who, as he has acquired self-control byausterities....In the Çaka year (561) designatedby the face (1), the seasons (6), and the arrows(5)......(here follows a conjunction of the starsat that time) has been consecrated an (image)of Devî Caturbhujà (the four-armed goddess).Through devotion to Lord Çambhu and for thedeliverance of his parents, with rites befitting (?)the Devî, (the king) has established (this image)on this earth." This is all that we know ofBhavavarman II.
+ This inscription[^65],which was found depositedin a store-house of the Public Works Office atPhnom Penh, is also noteworthy on account of itsuse of incorrect and barbarous Sanscrit. Onthis point it resembles certain inscriptions ofChampa during its period of decadence. In Kambuja we do not find anything like this, especiallyat such an early period. "There is a king,fist (muṣṭi) of the caste of rulers of the earthwho were the descendants of Manu, Çri Bhavavarman, who, as he has acquired self-control byausterities....In the Çaka year (561) designatedby the face (1), the seasons (6), and the arrows(5)......(here follows a conjunction of the starsat that time) has been consecrated an (image)of Devî Caturbhujà (the four-armed goddess).Through devotion to Lord Çambhu and for thedeliverance of his parents, with rites befitting (?)the Devî, (the king) has established (this image)on this earth." This is all that we know ofBhavavarman II.
+
+[^65]: "B.E.F.E.O., IV, 691."
 
 ***First Mention of Buddhism in an Inscription.***
 
- After this little-known king comes Jayavarman I (of [Chen-la](# "Aymonier, who thinks that Chen-la was simply a later namefor Funan, mentions this king as Jayavarman II.")) who is referred to inseveral inscriptions. The first dated inscription
+ After this little-known king comes Jayavarman I (of Chen-la[^66]) who is referred to inseveral inscriptions. The first dated inscription
+
+[^66]: "Aymonier, who thinks that Chen-la was simply a later namefor Funan, mentions this king as Jayavarman II."
 
 
 
-of this prince, that of Vat Prey Vier, is also thefirst Sanscrit [inscription](# "I.S.C.C., pp. 61-62.")which contains amention of Buddhism. It refers to two Bhikṣusand does not begin with an invocation to aHindu deity.
+of this prince, that of Vat Prey Vier, is also thefirst Sanscrit inscription[^67]which contains amention of Buddhism. It refers to two Bhikṣusand does not begin with an invocation to aHindu deity.
 
- "Victorious is the king Çri Jayavarman...to whom the fickle goddess of fortune, Lakṣmî,is firmly attached...skilful in the task of protecting the world, he is proclaimed by sagesto be the thousand-eyed god (Indra) in person.While he protected the [world](# "Probably this means that Mahendravarman was a peaceful monarch who preserved what his warlikepredecessors had won."),conquered withlarge strides (by his predecessors?), there livedin his kingdom two excellent bhikṣus, sonsof the same mother. Both were receptacles ofvirtue, knowledge, mildness, patience, compassion, self-control and prudence, and were namedRatna Bhānu and Ratna Siṃha. The son of thedaughter of the sister of these brothers of stainless reputation was the auspicious Çubhakīrttidevoted to pious actions. To him is bequeathed,according to the uninterrupted mode of succession in the family and also by the command ofthe king, all that his elders (had acquired) bytheir merits." Then follows the date in symbolicwords 586 ç.e. (664 A.D.).
+[^67]: "I.S.C.C., pp. 61-62."
+
+ "Victorious is the king Çri Jayavarman...to whom the fickle goddess of fortune, Lakṣmî,is firmly attached...skilful in the task of protecting the world, he is proclaimed by sagesto be the thousand-eyed god (Indra) in person.While he protected the world[^68],conquered withlarge strides (by his predecessors?), there livedin his kingdom two excellent bhikṣus, sonsof the same mother. Both were receptacles ofvirtue, knowledge, mildness, patience, compassion, self-control and prudence, and were namedRatna Bhānu and Ratna Siṃha. The son of thedaughter of the sister of these brothers of stainless reputation was the auspicious Çubhakīrttidevoted to pious actions. To him is bequeathed,according to the uninterrupted mode of succession in the family and also by the command ofthe king, all that his elders (had acquired) bytheir merits." Then follows the date in symbolicwords 586 ç.e. (664 A.D.).
+
+[^68]: "Probably this means that Mahendravarman was a peaceful monarch who preserved what his warlikepredecessors had won."
 
  In this connection may be mentioned aKhmer inscription described by Aymonier at
 
 
 
-[Vat Prasat](# "Aymonier, Le Cambodge, T. I., p. 442."). This is not dated but on epigraphical grounds Aymonier would ascribe it tothe 6th or (early) 7th century. It records thegift of slaves by a person named Pon PrajnâCandra to three Bodhisattvas, Sâsta, Maitreyaand Avalokiteçvara, who are given the sametitle, Vrah Kamratân an (lords, gods), as aregiven to Hindu divinities.
+Vat Prasat[^69]. This is not dated but on epigraphical grounds Aymonier would ascribe it tothe 6th or (early) 7th century. It records thegift of slaves by a person named Pon PrajnâCandra to three Bodhisattvas, Sâsta, Maitreyaand Avalokiteçvara, who are given the sametitle, Vrah Kamratân an (lords, gods), as aregiven to Hindu divinities.
+
+[^69]: "Aymonier, Le Cambodge, T. I., p. 442."
 
 ***Jayavarman I.***
 
- In the final stanza of an inscription at Ang[Chumnik](# "I.S.C.C.., p. 57.") (not the one we have already citedmore than once), Jayavarman is mentioned as"the full moon of the spotless heaven of thelunar race" and is represented as presentingto Girîça (Çiva) "a treasure gleaming likefire." Then one of his officials, the chief ofÂdhyapura inaugurates a fair, which the inhabitants of the town are invited to celebrate, inhonour of Çiva on the third day of the monthof Mâdhava.
+ In the final stanza of an inscription at AngChumnik[^70] (not the one we have already citedmore than once), Jayavarman is mentioned as"the full moon of the spotless heaven of thelunar race" and is represented as presentingto Girîça (Çiva) "a treasure gleaming likefire." Then one of his officials, the chief ofÂdhyapura inaugurates a fair, which the inhabitants of the town are invited to celebrate, inhonour of Çiva on the third day of the monthof Mâdhava.
+
+[^70]: "I.S.C.C.., p. 57."
 
  Now we come to the inscription of AngChumnik to which we have already referredseveral times (I.S.C.C., pp. 66-68). It gives us,as we have seen, the genealogy of a family severalmembers of which held the post of minister orcourt physician during the reigns of Rudravarman and his successors up to Jayavarman.
 
 
 
- "Invincible like Trivikrama (Viṣṇu) was theKing ÇrîRudravarman, whose happy reign isremembered up to this day as that of [Dilîpa](# "One of the heroes of the solar race who is also celebrated by Kâlidâsa in his Raghuvaṃça, Canto I."). In his service, as physician-in-chief, were twobrothers, like the Açvins (Heavenly Twins),Brahmadatta the elder and Brahmasiṃha theyounger. These two had two nephews (their sister's sons) of highly auspicious fortune,Dharma-deva the elder and Siṃhadeva the younger. KingBhavavarman having seized the kingdom withhis own prowess, he for whom Çri Gambîreçvara was the fruit of his kingdom, whichwas like the tree fulfillingall desires (i.e., thisimage of Çiva was to king the mostcherished object in his kingdom); these two(Dharmadeva and Siṃhadeva) were his ministers,both good advisers, experienced, well versed inthe codes of law and political science ([artha-çāstra](# "This allution to Artha-Çâstra in an early Kambuja inscription is Interesting.")), (as it were) spiritual and practicalknowledge personified.Afterwards of Mahendravarman, the prosperous ruler of theearth, these two were also the ministers—theinstruments (of the royal will) in every thing.The younger, Siṃhadeva, an expert, wasemployed as ambassador by the king and wassent to the King of Champa for (strengthening)
+ "Invincible like Trivikrama (Viṣṇu) was theKing ÇrîRudravarman, whose happy reign isremembered up to this day as that of Dilîpa[^71]. In his service, as physician-in-chief, were twobrothers, like the Açvins (Heavenly Twins),Brahmadatta the elder and Brahmasiṃha theyounger. These two had two nephews (their sister's sons) of highly auspicious fortune,Dharma-deva the elder and Siṃhadeva the younger. KingBhavavarman having seized the kingdom withhis own prowess, he for whom Çri Gambîreçvara was the fruit of his kingdom, whichwas like the tree fulfillingall desires (i.e., thisimage of Çiva was to king the mostcherished object in his kingdom); these two(Dharmadeva and Siṃhadeva) were his ministers,both good advisers, experienced, well versed inthe codes of law and political science (artha-çāstra[^72]), (as it were) spiritual and practicalknowledge personified.Afterwards of Mahendravarman, the prosperous ruler of theearth, these two were also the ministers—theinstruments (of the royal will) in every thing.The younger, Siṃhadeva, an expert, wasemployed as ambassador by the king and wassent to the King of Champa for (strengthening)
+
+[^71]: "One of the heroes of the solar race who is also celebrated by Kâlidâsa in his Raghuvaṃça, Canto I."
+
+[^72]: "This allution to Artha-Çâstra in an early Kambuja inscription is Interesting."
 
 
 
-the friendship (between the two princes). Therewas a son of Dharmadeva, a lion of his race,named Siṃhavīra. Learned, who to this daydrinks with the learned the juice of poetry, he wasthe chief minister of King [Çri Içânavarman](# "I.S.C.C., pp. 66-68.")."After this is mentioned the consecration of twoimages of Hara ÇrîNikâmeçvara and Hari bySiṃhavīra. Then follows an eulogy of thisson, in whom, "though living in this (impure)Yuga, attached steadfastly to good works,Dharma of the Kali Yuga does not stumble,though it has now only one [foot left](# "Dharma is represented as a bull which had four feet in theSatya Yuga but which in each succeeding Yuga lost a foot.")." "Thephysician of the lion of kings, of the victoriousJayavarman, he was without pride though heknew all that could be known." Afterwardsthe king transferred this physician to the serviceof the brother of his queen mother and, recognising his worth, made him the governor ofÂdhyapura (the ancient name of AngChumnik). It was this Siṃhadatta who consecrated Çri Vijayeçvara in 589 ç.e. (667 A.D.),at an auspicious moment which is described witha great wealth of astronomical detail, and thisconsecration was the occasion for composing thisinscription.
+the friendship (between the two princes). Therewas a son of Dharmadeva, a lion of his race,named Siṃhavīra. Learned, who to this daydrinks with the learned the juice of poetry, he wasthe chief minister of King Çri Içânavarman[^73]."After this is mentioned the consecration of twoimages of Hara ÇrîNikâmeçvara and Hari bySiṃhavīra. Then follows an eulogy of thisson, in whom, "though living in this (impure)Yuga, attached steadfastly to good works,Dharma of the Kali Yuga does not stumble,though it has now only one foot left[^74]." "Thephysician of the lion of kings, of the victoriousJayavarman, he was without pride though heknew all that could be known." Afterwardsthe king transferred this physician to the serviceof the brother of his queen mother and, recognising his worth, made him the governor ofÂdhyapura (the ancient name of AngChumnik). It was this Siṃhadatta who consecrated Çri Vijayeçvara in 589 ç.e. (667 A.D.),at an auspicious moment which is described witha great wealth of astronomical detail, and thisconsecration was the occasion for composing thisinscription.
+
+[^73]: "I.S.C.C., pp. 66-68."
+
+[^74]: "Dharma is represented as a bull which had four feet in theSatya Yuga but which in each succeeding Yuga lost a foot."
 
  It is probably to this reign that the badlydamaged but valuable inscription of Prâsat Prâ
 
 
 
-should be ascribed. Its date is about 577ç. e. (655 A.D.). It refers to the donation of aVyâsa-satra ([book of Vyâsa](# "M. Coedes, Etudes Cambodgiennes, B.E.F.E.O., T. XI, 1911.")). As in the preceding line Sambhava-pustakam is mentioned,this work of Vyâsa can only be the Mahâbhârata—Sambhava parva being one of the earlier cantosof the epic. The final imprecation, utteredagainst any future destroyer of the book, isremarkable:—"Let him be in hell as long asthere are the sun and the moon." Of courseimprecations like this are well known inKambuja and Java. But the particular wordsused here "Yâvat suryaçca candraçca" distinguish this inscription, according to Prof.Coedes, from Indian inscriptions. The expression "candrâditya" exists in the epigraphy ofSouthern India, but there it is exclusively appliedto donations or exemptions from tax—not tocurses. The Pallavas and Cholas use thisexpression often (but not in connection withimprecations). But such cases are to be seen frequently in the inscriptions of Champa and Java.If it is correct to assume that the employmentof such phrases imply a dynastic connection—their simultaneous presence in the three Indiankingdoms of the Far East is very significant.
+should be ascribed. Its date is about 577ç. e. (655 A.D.). It refers to the donation of aVyâsa-satra (book of Vyâsa[^75]). As in the preceding line Sambhava-pustakam is mentioned,this work of Vyâsa can only be the Mahâbhârata—Sambhava parva being one of the earlier cantosof the epic. The final imprecation, utteredagainst any future destroyer of the book, isremarkable:—"Let him be in hell as long asthere are the sun and the moon." Of courseimprecations like this are well known inKambuja and Java. But the particular wordsused here "Yâvat suryaçca candraçca" distinguish this inscription, according to Prof.Coedes, from Indian inscriptions. The expression "candrâditya" exists in the epigraphy ofSouthern India, but there it is exclusively appliedto donations or exemptions from tax—not tocurses. The Pallavas and Cholas use thisexpression often (but not in connection withimprecations). But such cases are to be seen frequently in the inscriptions of Champa and Java.If it is correct to assume that the employmentof such phrases imply a dynastic connection—their simultaneous presence in the three Indiankingdoms of the Far East is very significant.
+
+[^75]: "M. Coedes, Etudes Cambodgiennes, B.E.F.E.O., T. XI, 1911."
 
 
 
@@ -766,21 +916,31 @@ there are many others who follow the law ofTao (ie., the Brahmanic religion). In
 
 
 
-at the end of the 9th century A.D. Thesedigraphic inscriptions give us, in connectionwith the genealogy of Yaçovarman, the genealogies of two ruling families, who, during thesame period, reigned, one at Çambhupura tothe north, and the other at Vyâdhapura to thesouth. Çambhupura (Sambor) would then bethe capital of Chen-la of the land, and Vyâdhapura (Angkor-Baurey) the capital of Chen-la ofthe water. One of the early princes of Çambhupura was a certain Puṣkarâkṣa, who was lordof Aninditapurs, before he became ruler ofÇambhupura. He seems to have acquired agreat celebrity, as he figures in the genealogiesof several kings of Kambuja of the 9th century.One of his descendants married the heiress ofthe Adhirâjas of Vyâdhapura, and the issue ofthis marriage, Râjendravarman, seems to havere-established Khmer unity by inheritingÇambhupura from bis father and Vyâdhapurafrom his mother. Râjendravarman's son Mahapativarman married Râjendradevi, the great-grand-daughter of the Brahman Agastya, whofrom Āryadeça (North India) andmarried a princess of the royal blood. Indra-devi, their daughter, was the mother of[Yaçovarman](# "See I.S.C.C., pp. 356-364."), the founder of Angkor Thom(Nagara Dhâma), who ascended the throne ofKambuja in 889 A.D.
+at the end of the 9th century A.D. Thesedigraphic inscriptions give us, in connectionwith the genealogy of Yaçovarman, the genealogies of two ruling families, who, during thesame period, reigned, one at Çambhupura tothe north, and the other at Vyâdhapura to thesouth. Çambhupura (Sambor) would then bethe capital of Chen-la of the land, and Vyâdhapura (Angkor-Baurey) the capital of Chen-la ofthe water. One of the early princes of Çambhupura was a certain Puṣkarâkṣa, who was lordof Aninditapurs, before he became ruler ofÇambhupura. He seems to have acquired agreat celebrity, as he figures in the genealogiesof several kings of Kambuja of the 9th century.One of his descendants married the heiress ofthe Adhirâjas of Vyâdhapura, and the issue ofthis marriage, Râjendravarman, seems to havere-established Khmer unity by inheritingÇambhupura from bis father and Vyâdhapurafrom his mother. Râjendravarman's son Mahapativarman married Râjendradevi, the great-grand-daughter of the Brahman Agastya, whofrom Āryadeça (North India) andmarried a princess of the royal blood. Indra-devi, their daughter, was the mother ofYaçovarman[^76], the founder of Angkor Thom(Nagara Dhâma), who ascended the throne ofKambuja in 889 A.D.
+
+[^76]: "See I.S.C.C., pp. 356-364."
 
 
 
  This is all that we know of the princesof Çambhupura and Vyâdhapura, exceptwhat we learn from a much damaged inscription at Sambor (the ancient Çambhupura—Coedes, B. E.F.E.O., t. v, 419). The inscription.mentions a King Jayavarman "of a family ofBrâhmanas and Kṣatriyas" and gives the dateof 703ç.e. (781 A.D.). It was probably in connection with the consecration of aVaiṣṇavaimage (the name of the god has vanished). AsJayavarman I reigned in 58 ç.e., and JayavarmanII came from Java' in 724ç. e., this must be anew Jayavarman. Probably he was one of thelocal princes of Çambhupura where this inscription has been discovered. This is the onlyinscription of the 8th century which gives botha date and the name of a king.
 
- During the 8th century A.D. Eastern andCentral Indo-China were ravaged by incursions.of Malays and Javanese. The Champa inscription of Da Trang (or Yang Tikuh) states thatthe armies of Java (it is not spelt Yava), comingon board ships, burnt the temple of ÇriBhadrâdhipatîçvara in 709ç. e. ([787 A.D.](# "I.S.C.C., p. 208.")). Anearlier inscription of [Champa](# "I.S.C.C.,p. 245.") refers to thedestruction in 696 ç.e. (774 A.D.) of an ancientÇiva-linga in the province of Kauthâra by "menborn in other countries extremely black and
+ During the 8th century A.D. Eastern andCentral Indo-China were ravaged by incursions.of Malays and Javanese. The Champa inscription of Da Trang (or Yang Tikuh) states thatthe armies of Java (it is not spelt Yava), comingon board ships, burnt the temple of ÇriBhadrâdhipatîçvara in 709ç. e. (787 A.D.[^77]). Anearlier inscription of Champa[^78] refers to thedestruction in 696 ç.e. (774 A.D.) of an ancientÇiva-linga in the province of Kauthâra by "menborn in other countries extremely black and
+
+[^77]: "I.S.C.C., p. 208."
+
+[^78]: "I.S.C.C.,p. 245."
 
 
 
-thin, terrible as death, who came on board ships.There had been earlier raids in the Chineseprovince of Tonkin in 765 and [767 A.D](# "Maspero, Le Royanme du Champa, p 130.").
+thin, terrible as death, who came on board ships.There had been earlier raids in the Chineseprovince of Tonkin in 765 and 767 A.D[^79].
+
+[^79]: "Maspero, Le Royanme du Champa, p 130."
 
 ***Naval Raid by Çrivijaya.***
 
- Kambuja also did not escape from theseinroads. And it is from a new quarter, thenarrative of an Arab traveller of the 9thcentury, that we get a dramatic account of it.The Arab merchant Sulayman had travelledin India and China,his accounts, writtenin 851 A.D., were commented uppon by AbuZaid Hasan about 916 A.D. In his description ofthe kingdom of Zâbaj (which we can nowidentify with the Çrivijaya kingdom of Sumatra)occurs a passage as [follows](# "G. Ferrand. L'Empire Sumatranais de Crivijaya, pp. 59-61."):—"According tothe annals of Zâbaj there was once upon a timea king of Khmer. Khmer is the country fromwhich the aloe Khmer is exported. It is notan island...and there is nokingdom whichpossesses a larger population than Khmer Thepeople walk on foot. All fermented liquorsand (every kind of) debauchery are forbiddenthere; in the cities and throughout the empireone would not be able to find a single personaddicted to debauchery or to fermented drinks
+ Kambuja also did not escape from theseinroads. And it is from a new quarter, thenarrative of an Arab traveller of the 9thcentury, that we get a dramatic account of it.The Arab merchant Sulayman had travelledin India and China,his accounts, writtenin 851 A.D., were commented uppon by AbuZaid Hasan about 916 A.D. In his description ofthe kingdom of Zâbaj (which we can nowidentify with the Çrivijaya kingdom of Sumatra)occurs a passage as follows[^80]:—"According tothe annals of Zâbaj there was once upon a timea king of Khmer. Khmer is the country fromwhich the aloe Khmer is exported. It is notan island...and there is nokingdom whichpossesses a larger population than Khmer Thepeople walk on foot. All fermented liquorsand (every kind of) debauchery are forbiddenthere; in the cities and throughout the empireone would not be able to find a single personaddicted to debauchery or to fermented drinks
+
+[^80]: "G. Ferrand. L'Empire Sumatranais de Crivijaya, pp. 59-61."
 
 
 
@@ -802,13 +962,23 @@ the Maharaja said: 'You wished to see myhead on a plate. If you had similarly de
 
 that, on account of the feelings of hatred whichthe late king had expressed towards him, andthat this chastisement should serve as a lessonto any one who would imitate the deceasedprince. When the news reached the ears of thekings of India and China, the Maharaja ofZâbaj rose in estimation in their eyes."
 
- Now M. Finot thinks, on the evidence ofthe Champa inscription of [Po-sah](# "Notes d'Epigraphie, B.E.F.E.O., III, p. 641."),that Java andYavadvica (the Sanskrit name for Java) meantwo different countries, as in that inscription, thedaughter of the sovereign of Java is mentionedas the principal queen (of the king of Champa),and another princess, daughter of the king ofYava, is referred to as coming from Yavadvipa(the island of Java). Luang Prabang in Laos.was known as Muang Java, but we know fromthe Champa inscriptions that those who camefrom Java to ravage the coast of Champa camein ships. The Highlanders of Laos would notcome down to the Champa coast in [ships](# "Finot thought (before 1918) that this Java was probably someplace in the Malay Peninsula."). Theidentification of Zâbaj with Çrivijaya in Sumatra(made possible by M. Coedes' researches in1918), and this story narrated by the Arabtraveller Sulayman, point to Sumatra as theplace they came fromMoreover a Javanesechronicle states that King Sanjaya of Central
+ Now M. Finot thinks, on the evidence ofthe Champa inscription of Po-sah[^81],that Java andYavadvica (the Sanskrit name for Java) meantwo different countries, as in that inscription, thedaughter of the sovereign of Java is mentionedas the principal queen (of the king of Champa),and another princess, daughter of the king ofYava, is referred to as coming from Yavadvipa(the island of Java). Luang Prabang in Laos.was known as Muang Java, but we know fromthe Champa inscriptions that those who camefrom Java to ravage the coast of Champa camein ships. The Highlanders of Laos would notcome down to the Champa coast in ships[^82] that this Java was probably someplace in the Malay Peninsula."). Theidentification of Zâbaj with Çrivijaya in Sumatra(made possible by M. Coedes' researches in1918), and this story narrated by the Arabtraveller Sulayman, point to Sumatra as theplace they came fromMoreover a Javanesechronicle states that King Sanjaya of Central
+
+[^81]: "Notes d'Epigraphie, B.E.F.E.O., III, p. 641."
+
+[^82]: "Finot thought (before 1918
 
 
 
-Java, in a victorious campaign, overran Sumatra,the Malay Peninsula, and Khmer about the thirddecade of the 8th century [A.D](# "W. Fruin Mees, Geschiedanis van Java (Hindoetijdperk),pp. 21, 22."); and we knowfrom inscriptions of C. Java that the Çailendradynasty of Sumatra ruled in Javâ, and builtmagnificent Buddhist temples there in the latterhalf of the 8th and the first half of the 9thcentury. No wonder, therefore, that Java andSumatra should be confused by foreigners.
+Java, in a victorious campaign, overran Sumatra,the Malay Peninsula, and Khmer about the thirddecade of the 8th century A.D[^83],pp. 21, 22."); and we knowfrom inscriptions of C. Java that the Çailendradynasty of Sumatra ruled in Javâ, and builtmagnificent Buddhist temples there in the latterhalf of the 8th and the first half of the 9thcentury. No wonder, therefore, that Java andSumatra should be confused by foreigners.
 
- Among the very few inscriptions from the 8thcentury there is one from Prah That Kvan [Pir](# "B.E.F.E,O., t. iv, p. 675.") which is dated 638 ç. e. It states that Puṣkara hadthe god Puṣkarâkṣa consecrated by Munis andeminent Brahmans. Probably this Puṣkara is thesame as the Puṣkarâkṣa who, we have seen, wasthe prince of Aninditapura and later on the king ofÇambhupura. Another Khmer inscription, dated725 ç. e., engraved on a temple-gutter at Sambaur,commemorates thedonation to Çiva by a queenJyesthâryâ, among whose ancestors are mentionedJayendravarman, the queen Nripendradevi, andthe king Çri Indraloka. Probably these werelocal princes of Çambhupura. The name ÇriIndraloka is noteworthy, as it is the firstposthumous name we have of a [king](# "Aymonier, Le Cambodge, Vol. I, p. 305."). Theuse of these posthumous names for kings becomes quite common from the 9th century A.D.
+[^83]: "W. Fruin Mees, Geschiedanis van Java (Hindoetijdperk
+
+ Among the very few inscriptions from the 8thcentury there is one from Prah That Kvan Pir[^84] which is dated 638 ç. e. It states that Puṣkara hadthe god Puṣkarâkṣa consecrated by Munis andeminent Brahmans. Probably this Puṣkara is thesame as the Puṣkarâkṣa who, we have seen, wasthe prince of Aninditapura and later on the king ofÇambhupura. Another Khmer inscription, dated725 ç. e., engraved on a temple-gutter at Sambaur,commemorates thedonation to Çiva by a queenJyesthâryâ, among whose ancestors are mentionedJayendravarman, the queen Nripendradevi, andthe king Çri Indraloka. Probably these werelocal princes of Çambhupura. The name ÇriIndraloka is noteworthy, as it is the firstposthumous name we have of a king[^85]. Theuse of these posthumous names for kings becomes quite common from the 9th century A.D.
+
+[^84]: "B.E.F.E,O., t. iv, p. 675."
+
+[^85]: "Aymonier, Le Cambodge, Vol. I, p. 305."
 
 
 
@@ -818,14 +988,18 @@ Java, in a victorious campaign, overran Sumatra,the Malay Peninsula, and Khmer a
 
  M. Aymonier, who was one of the pioneersin the research on Indo-Chinese antiquities, isof the opinion that in Kambuja, wood, brick,limonite (ferruginous clay), and sand-stone wereused one after another, in the order given here,as building materials. The wooden temples andpalaces, probably those which the Chinese chronicles have referred to in their earliest notices,have disappeared long ago.
 
- The use of brick goes back, Aymonier thinks,certainly to the fifth century A D.— if not earlier.The oldest towers, which have been discovered,are brick structures. Bricks were used alsoin the golden period of Khmer architecture,which began with Jayavarman II in the 9thcentury, but only for buildings of minor importance. The use of sandstone was the characteristic feature of this [period](# "Aymonier, Histoire de l'Ancien Cambodge, 1920, p. 50.").
+ The use of brick goes back, Aymonier thinks,certainly to the fifth century A D.— if not earlier.The oldest towers, which have been discovered,are brick structures. Bricks were used alsoin the golden period of Khmer architecture,which began with Jayavarman II in the 9thcentury, but only for buildings of minor importance. The use of sandstone was the characteristic feature of this period[^86].
+
+[^86]: "Aymonier, Histoire de l'Ancien Cambodge, 1920, p. 50."
 
  M. Permentier, the head of the Archaeological Department of French Indo-China, is ofthe opinion that, before the 9th century, the formof art in Kambuja was wholly different from  
 
 
 
 
-that which followed later. The monumentsbefore the 9th century were isolated towers,built with bricks, of simple plan, rectangular,with walls relieved only by false [doors](# "B.E.F.E.O., 1923, p. 418."). Theornamental details, he thinks, were closelyconnected with the Pallava art of South India.
+that which followed later. The monumentsbefore the 9th century were isolated towers,built with bricks, of simple plan, rectangular,with walls relieved only by false doors[^87]. Theornamental details, he thinks, were closelyconnected with the Pallava art of South India.
+
+[^87]: "B.E.F.E.O., 1923, p. 418."
 
  M. George Groslier, the conservator of theMusée du Cambodge and the Directeur desArts Cambodgiens, has got stronger views onthis subject. He believes that, for the historyof Kambuja art and architecture, the countryshould be divided into two parts—the hilly andbackward region of the north, and the southernand more refined portion bordering on the sea.The first was Chen-la, and the second the head-quarters of Fu-nan. The Chinese mention thehandicrafts, temples, etc., of Fu-nan, but theyare silent about similar things in Chen-la.Probably there was nothing worth mentioningthere. The monuments of the 7th century,which still survive, show a type which disappears from the 9th century. The sculptureof this early period, with its poses, costume, andtechnique, disappears also about the same time.This sculpture and architecture, Groslier thinks,was purely Indian. And this school of architecture and sculpture is found in the south, andtherefore belongs to the last phase of Funan.The isolated towers of brick, richly sculptured,
 
@@ -843,7 +1017,9 @@ are Indian, and this art, imported into a mari-time country, must have come from
 
 as it was the full-fledged art of India, and withthose others who believe in the continuance ofthe Indian influence in the later more developedperiod of Khmer art, because he thinks thatthis Indian influence disappeared in the eighthcentury. In the 9th century there grows up avigorous school of Indo-Chinese art practicallyfree from foreign influence—an indigenous product of the soil of Kambuja.
 
- But the majority of experts do not believethat there was such a hard-and-fast divisionbetween the art of Fu-nan and the Khmer art.As M. Golubew [points out](# "B.E.F.E.O..t. XXIV, p. 583."), the art of Khmer,from its origin to its fullest development, never-ceased to belong to the great family of Indianor Indianised Schools of Art. It moreoverfollowed a line of evolution similar to that inother countries influenced by Indian art.
+ But the majority of experts do not believethat there was such a hard-and-fast divisionbetween the art of Fu-nan and the Khmer art.As M. Golubew points out[^88], the art of Khmer,from its origin to its fullest development, never-ceased to belong to the great family of Indianor Indianised Schools of Art. It moreoverfollowed a line of evolution similar to that inother countries influenced by Indian art.
+
+[^88]: "B.E.F.E.O..t. XXIV, p. 583."
 
 
 
@@ -853,7 +1029,9 @@ JAYAVARMAN II AND HIS SUCCESSORS
 
  Jayavarman II, whose ascension in 724 ç.e.(802 A.D.) marks the close of a very obscureperiod of the history of Kambuja, is one of thegreatest sovereigns of Indo-China. For centuries his name held a conspicuous place in thegenealogies of later kings, and even now he isthe hero of well-known Cambodian legends.He is better known by his posthumous nameParameçvara (the Supreme Lord, i.e., Çiva).
 
- The important inscription of Sdok Kak[Thom](# "Finot, Notes d'Epigraphie, B.E.F.E.O., t. XV, pp. 70-71, Khmerportion."), partly in Sanscrit and partly in Khmer,which gives us the history of a family, the headsof which held the post of High Priest ofKambuja for several centuries, devotes a considerable number of stanzas (56-82: part C ofthe [inscr](# "Finot, Notes d'Epigraphie, B.E.F.E.O., t. XV, pp. 70-71, Khmerportion.").) to the memory of His MajestyParameçvara :—"This family (of the HighPriest) was dwelling in the village of Bhadrayogiin the district (vijaya) of Indrapura. Then HisMajesty (man vrah pâda) Parameçvara came from 'Javâ' to reign in the city of Indrapura.The Çivakaivalya, venerable and wise guru,became the royal *purohita* of H. M. Parameçvara.
+ The important inscription of Sdok KakThom[^89], partly in Sanscrit and partly in Khmer,which gives us the history of a family, the headsof which held the post of High Priest ofKambuja for several centuries, devotes a considerable number of stanzas (56-82: part C ofthe inscr[^89].) to the memory of His MajestyParameçvara :—"This family (of the HighPriest) was dwelling in the village of Bhadrayogiin the district (vijaya) of Indrapura. Then HisMajesty (man vrah pâda) Parameçvara came from 'Javâ' to reign in the city of Indrapura.The Çivakaivalya, venerable and wise guru,became the royal *purohita* of H. M. Parameçvara.
+
+[^89]: "Finot, Notes d'Epigraphie, B.E.F.E.O., t. XV, pp. 70-71, Khmerportion."
 
 
 
@@ -861,7 +1039,9 @@ Then H. M. Parameçvara left Indrapura, andÇivakaivalya came with Kandvârahoma
 
 
 
-(these are Tantrik texts apparently) frombeginning to end, so that they could be writtendown, and then he taught Çivakaivalya these([books](# "In another passage of this inscription (Stanza 28-A) it is statedthat these four sacred texts constituted the four faces of the")). And he taught Çivakaivalya how toCarry on the ritual of the Jagat ta râja. H. M.Parameçvara and the Brahman Hiranyadâmathen vowed to employ only the family ofÇivakaivalya and no other to celebrate the cultof Jagat ta râja. Çivakaivalya taught this cultto all his relations. Then H. M. Parameçvarareturned to Hariharâlaya to reign there and theJagat ta râja was also brought there. Çivakaivalya and his relatives officiated (as priests) asbefore Çivakaivalya died duringthis reign.H. M. Parameçvara died in the city of Hariharâlaya, the residence of Jagat ta râja, as the godresided in all the capitals, where the kings tookhim, in the capacity of protector (of the realm),during the reigns of successive sovereigns."
+(these are Tantrik texts apparently) frombeginning to end, so that they could be writtendown, and then he taught Çivakaivalya these(books[^91] it is statedthat these four sacred texts constituted the four faces of the")). And he taught Çivakaivalya how toCarry on the ritual of the Jagat ta râja. H. M.Parameçvara and the Brahman Hiranyadâmathen vowed to employ only the family ofÇivakaivalya and no other to celebrate the cultof Jagat ta râja. Çivakaivalya taught this cultto all his relations. Then H. M. Parameçvarareturned to Hariharâlaya to reign there and theJagat ta râja was also brought there. Çivakaivalya and his relatives officiated (as priests) asbefore Çivakaivalya died duringthis reign.H. M. Parameçvara died in the city of Hariharâlaya, the residence of Jagat ta râja, as the godresided in all the capitals, where the kings tookhim, in the capacity of protector (of the realm),during the reigns of successive sovereigns."
+
+[^91]: "In another passage of this inscription (Stanza 28-A
 
 ***Cult of Deva Râja.***
 
@@ -869,7 +1049,13 @@ Then H. M. Parameçvara left Indrapura, andÇivakaivalya came with Kandvârahoma
 
 
 
-Java. From the inscription of [Dong-duong](# "Finot, B.E.F.E.O., f. IV, p. 83.") (Champa) it appears that there was a mysteriousconnection between the god Bhadreçvara (Çiva)and the reigning dynasty. In the Canggala andDinaya inscriptions of Central Java somethinglike the same relation is hinted at. In Kambujathe Royal God was the eternal prototype of themortal kings—something like a deification ofthe royalty. Moreover in Kambuja, Champa, aswell as in Java, we find a Brahman sage playingan important part in this close connection.between a Çiva-linga and the ruling dynasty.In the case of Kambuja it is Hiranyadâma, inChampa the riṣi Bhṛgu, and in Central Java thegreat sage Agastya. Probably there may be acommon origin for [this](# "Tijdschrift Bat. Gen., Deel, Ixiv, 1924, article by Dr. Bosch."). Java may have beenthe centre from which this cult spread and weknow that Java got its Agastya cult fromKunjara-Kunja in South [India](# "Canggala inscription of Central Java of 654.ç.e.").
+Java. From the inscription of Dong-duong[^92] (Champa) it appears that there was a mysteriousconnection between the god Bhadreçvara (Çiva)and the reigning dynasty. In the Canggala andDinaya inscriptions of Central Java somethinglike the same relation is hinted at. In Kambujathe Royal God was the eternal prototype of themortal kings—something like a deification ofthe royalty. Moreover in Kambuja, Champa, aswell as in Java, we find a Brahman sage playingan important part in this close connection.between a Çiva-linga and the ruling dynasty.In the case of Kambuja it is Hiranyadâma, inChampa the riṣi Bhṛgu, and in Central Java thegreat sage Agastya. Probably there may be acommon origin for this[^93]. Java may have beenthe centre from which this cult spread and weknow that Java got its Agastya cult fromKunjara-Kunja in South India[^94].
+
+[^92]: "Finot, B.E.F.E.O., f. IV, p. 83."
+
+[^93]: "Tijdschrift Bat. Gen., Deel, Ixiv, 1924, article by Dr. Bosch."
+
+[^94]: "Canggala inscription of Central Java of 654.ç.e."
 
  In Kambuja the cult of the Deva-râja orRoyal God led to the Royal Chaplain enjoyinga pontifical position. And the Kambujahierarchy was established by Jayavarman II.We have seen how the priesthood of the RoyalGod became hereditary in the family of Çivakaivalya and we shall see the immense powerwielded by his descendants later on. The
 
@@ -883,19 +1069,29 @@ sacerdotal dynasty almost threw the royaldynasty into the shade.
 
 ***Kambuja and Çrivijaya.***
 
- As to how Jayavarman II came from Java,and what were his claims to the throne ofKambuja, we do not know anything. Was Kambuja a tributary of Java (or of the Sumatrankingdom of Çrivijaya which at this time hadextended its sway over Central Java) at theclose of the 8th century? Had Jayavarman, aprince of the Kambuja royal family, heen carriedaway as a prisoner to Java in his childhood?The Khmer portion of the inscription of SdokKok Thom does mention that Jayavarmaninvited Hiranyadâma to draw up a ritual sothat Kambuja-deça might no longer be dependent on Java. Probably Jayavarman II was notdirectly related to the Royal family of Kambuja,The inscription of Phnom Sandok says of [Jayavarman](# "I.S.C.C., p. 343, stanza 8."):—"For the prosperity of the subjects,in this perfectly pure royal race, the great lotus(stalk) which had no connection with the soil, he(Jayavarman II) rose like a fresh lotus."It might mean that the old royal familyhad become extinct before Jayavarman's accession. From the digraphic inscriptions of Yaço-varman, it [appears](# "I. S. C. C., p. 364, stanza 2") that Pashkarâkṣa, the lord
+ As to how Jayavarman II came from Java,and what were his claims to the throne ofKambuja, we do not know anything. Was Kambuja a tributary of Java (or of the Sumatrankingdom of Çrivijaya which at this time hadextended its sway over Central Java) at theclose of the 8th century? Had Jayavarman, aprince of the Kambuja royal family, heen carriedaway as a prisoner to Java in his childhood?The Khmer portion of the inscription of SdokKok Thom does mention that Jayavarmaninvited Hiranyadâma to draw up a ritual sothat Kambuja-deça might no longer be dependent on Java. Probably Jayavarman II was notdirectly related to the Royal family of Kambuja,The inscription of Phnom Sandok says of Jayavarman[^95]:—"For the prosperity of the subjects,in this perfectly pure royal race, the great lotus(stalk) which had no connection with the soil, he(Jayavarman II) rose like a fresh lotus."It might mean that the old royal familyhad become extinct before Jayavarman's accession. From the digraphic inscriptions of Yaço-varman, it appears[^96] that Pashkarâkṣa, the lord
+
+[^95]: "I.S.C.C., p. 343, stanza 8."
+
+[^96]: "I. S. C. C., p. 364, stanza 2"
 
 
 
-of Aninditapura, who had obtained the kingdomof Çambhupura, was the maternal uncle of thematernal uncle of the mother of Jayavarman II.Probably Jayavarman himself belonged to Çambhupura, where four relations of his, as welearn from the Khmer inscription of Thol KokPrasat ([Sambor](# "Aymonier, Le Cambodge, 1. p. 307.")), constructed the gates of thetemple of the Lord (Çiva) of Çambhupura. Theonly instance of a posthumous name of a kingbefore Jayavarman II is found in the case of aprince of Çambhupura of the 8th century.With Jayavarman II posthumous names of thekings of Kambuja became quite the fashion.
+of Aninditapura, who had obtained the kingdomof Çambhupura, was the maternal uncle of thematernal uncle of the mother of Jayavarman II.Probably Jayavarman himself belonged to Çambhupura, where four relations of his, as welearn from the Khmer inscription of Thol KokPrasat (Sambor[^97]), constructed the gates of thetemple of the Lord (Çiva) of Çambhupura. Theonly instance of a posthumous name of a kingbefore Jayavarman II is found in the case of aprince of Çambhupura of the 8th century.With Jayavarman II posthumous names of thekings of Kambuja became quite the fashion.
 
- The [inscription](# "I. S. C. C., pp. 533 and 534.") of Muni Çivaçakti (containing the date 815 ç.e.), which gives thegenealogy and the works of piety of anothermatriarchal family, related to the royal dynastythrough Kambuja-lakṣmi, the queen of Jayavarman II, refers thus to this sovereign :—"There was a king Jayavarman, whose commandwas placed on the head (as it were an ornament)by rulers prostrate before him, who was investedwith a radiant splendour by the goddess ofvictory. Bearing in his four arms the immovable earth (this sentence which has a doublemeaning can also be rendered: king in the yeardesignated by four,' the two arms, and themountains (7)—i.e., 724 ç. e.) like another Viṣṇu,
+[^97]: "Aymonier, Le Cambodge, 1. p. 307."
+
+ The inscription[^98] of Muni Çivaçakti (containing the date 815 ç.e.), which gives thegenealogy and the works of piety of anothermatriarchal family, related to the royal dynastythrough Kambuja-lakṣmi, the queen of Jayavarman II, refers thus to this sovereign :—"There was a king Jayavarman, whose commandwas placed on the head (as it were an ornament)by rulers prostrate before him, who was investedwith a radiant splendour by the goddess ofvictory. Bearing in his four arms the immovable earth (this sentence which has a doublemeaning can also be rendered: king in the yeardesignated by four,' the two arms, and themountains (7)—i.e., 724 ç. e.) like another Viṣṇu,
+
+[^98]: "I. S. C. C., pp. 533 and 534."
 
 
 
 the god with four arms, knowing the four Vedaslike a Brahmâ (the god with four faces) comedown on earth. His queen was Kambuja-lakṣmi(the goddess of the fortunes of Kambuja), whowas also known as Prâṇa (life), the youngersister of an ancestor (whose name has beeneffaced) of the Muni Çivaçakti, who was theauthor of this inscription.).." Then thebrother of the queen, Visṇu-vala, ismentionedas the keeper of the private purse of the king.A certain Hyancandra (a very strange name fora female) is mentioned as the wife of a nobleNadh (a Khmer name), who, when he became thehead of the army, received the title of Çri-Nripendra-vijaya. Another Prauava-çarva hadcharge of the cooking of the offerings in sacrifices. Çivâtmana looked after the royal bed-chamber. A host of other names are mentioned—apparently relations of the queen and ancestorsof Civaçakti—some of these being distinctlyindigenous, such as Pon, Pan, Av, An (femininenames), while others are Vaiṣṇavite—likeGovinda, Kriṣnapâla, Puruṣottama, etc.Sâmaveda occurs as the name of a person.
 
- The inscription of Phnom [Sandok](# "I. S. C. C., p. 343."), inscribedduring the reign of Yaçovarman in 817 ç. e., by adisciple of the sage Somaçiva at Çivapura, contains in the second part an eulogy of JayavarmanII. "There was a paramount sovereign of
+ The inscription of Phnom Sandok[^99], inscribedduring the reign of Yaçovarman in 817 ç. e., by adisciple of the sage Somaçiva at Çivapura, contains in the second part an eulogy of JayavarmanII. "There was a paramount sovereign of
+
+[^99]: "I. S. C. C., p. 343."
 
 
 
@@ -905,9 +1101,13 @@ kings, Çri Jayavarman, to whose toes the radiant jewels of the diadems of prost
 
 were a Muni with all his senses under control.”¹(2) “It was on account of the command over words which the king, devoted to duty, had, that the prepositions were joined to the verb and placed before the root, as if he had been the sage (Pâṇini the grammarian) himself.”
 
- The inscription of Prasat Pra Dak (near Angkor) gives us a long genealogy of the kings of Kambuja. It begins with an invocation to the three Buddhist *ratnus* (jewels—Buddha, Dharma, Sangha). Then commences the genealogy with Jayavarman II. Then comes another Jayavarman (III), the son of Jayavarman II, the next is Indravarman, a distant relation of the last, then Yaçovarman, the son of Indravarman, and so on till we come to Jayavarman V (968-1001 A.D.). Ten kings are mentioned in this [genealogy](# "Les Inscriptions du Cambodge, Rapport par M. Bergaigne, PP. 27-28.").
+ The inscription of Prasat Pra Dak (near Angkor) gives us a long genealogy of the kings of Kambuja. It begins with an invocation to the three Buddhist *ratnus* (jewels—Buddha, Dharma, Sangha). Then commences the genealogy with Jayavarman II. Then comes another Jayavarman (III), the son of Jayavarman II, the next is Indravarman, a distant relation of the last, then Yaçovarman, the son of Indravarman, and so on till we come to Jayavarman V (968-1001 A.D.). Ten kings are mentioned in this genealogy[^100].
 
- In the badly damaged inscription of Prasat [Khanat,](# "Aymonier, Le Cambodge, tome II, p. 394.") one can decipher the name of the god Lokanâtha (Buddha) together with that of Jayavarman II. As we shall see Jayavarman, though a Çaiva, paid his homage also to Buddha.
+[^100]: "Les Inscriptions du Cambodge, Rapport par M. Bergaigne, PP. 27-28."
+
+ In the badly damaged inscription of Prasat Khanat,[^101] one can decipher the name of the god Lokanâtha (Buddha) together with that of Jayavarman II. As we shall see Jayavarman, though a Çaiva, paid his homage also to Buddha.
+
+[^101]: "Aymonier, Le Cambodge, tome II, p. 394."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -919,16 +1119,22 @@ were a Muni with all his senses under control.”¹(2) “It was on account of t
 
 
 
- M. Finot, in the Indian Historical Quarterly Review (Dec. 1925), writes that Jayavarman II was probably a Buddhist at least in the beginning of his reign. Most of his pious foundations were dedicated to Lokeçvara. Jayavarman II reigned 67 years (724-791), for the Khmer inscription of Nea Ta Bak [Ka](# "Ibid, t. 1, p. 421.") states that his successor ascended the throne in 791 (869 A.D.).
+ M. Finot, in the Indian Historical Quarterly Review (Dec. 1925), writes that Jayavarman II was probably a Buddhist at least in the beginning of his reign. Most of his pious foundations were dedicated to Lokeçvara. Jayavarman II reigned 67 years (724-791), for the Khmer inscription of Nea Ta Bak Ka[^102] states that his successor ascended the throne in 791 (869 A.D.).
+
+[^102]: "Ibid, t. 1, p. 421."
 
 ***New Phase of Khmer Architecture.***
 
- During this long reign Jayavarman built three capitals one after another. With him begins the golden age of Kambuja architecture. Probably his stay in Java, where the Çailendra dynasty of Çrivijaya (Sumatra) had already begun their magnificent temples, gave him the inspiration for this building activity. Hariharâlaya, the abode of Hari-Hara (Çiva-Viṣṇu, a very popular combination in Indo-China), was his first capital, after leaving Indrapura which already existed (perhaps towards the east), when he came from Java. Hariharâlaya has been identified with [Prakhân](# "Aymonier, Le Cambodge, t. 1, p. 430 ei seq."), situated to the north, and in the immediate vicinity of the site of the future Angkor Thom. With Prakhân begins thus both the new type
+ During this long reign Jayavarman built three capitals one after another. With him begins the golden age of Kambuja architecture. Probably his stay in Java, where the Çailendra dynasty of Çrivijaya (Sumatra) had already begun their magnificent temples, gave him the inspiration for this building activity. Hariharâlaya, the abode of Hari-Hara (Çiva-Viṣṇu, a very popular combination in Indo-China), was his first capital, after leaving Indrapura which already existed (perhaps towards the east), when he came from Java. Hariharâlaya has been identified with Prakhân[^103], situated to the north, and in the immediate vicinity of the site of the future Angkor Thom. With Prakhân begins thus both the new type
+
+[^103]: "Aymonier, Le Cambodge, t. 1, p. 430 ei seq."
 
 
 
 of architecture and the superb group of monuments of the Angkor region. The position was indeed admirable for a capital. The great lake is very near and at the same time the ground is well above its level and quite dry. The temple of Prakhân is as usual oriented with a large artificial lake in front (which is about two miles in length and 1/3 of a mile in width). This lake is now called Pra Reach Dâk—the sacred Dâk—the word Dâk being derived from the Sanscrit Taṭâka (tank). In the centre of this vast sheet of water there is a small temple encircled by two Nâgas. It is on an islet in which also there are numerous small tanks symmetrically arranged. Out of the central small tank rises the little sanctuary—now completely demolished. From the representations of Nâgas in the sculptures and the numerous tanks it seems probable that the sanctuary was consecrated to an aquatic deity—probably the Nâgi ancestress of Kambuja. This cult however did not last long. Such
-temples, called Méboune now-a-days, became more and more humble in size and design in the later capitals of [Jayavarman II](# "Aymonior, L'Ancien Cambodge, 1920, pp. 63-75, for the capitals of Jayavarman II.").
+temples, called Méboune now-a-days, became more and more humble in size and design in the later capitals of Jayavarman II[^104].
+
+[^104]: "Aymonior, L'Ancien Cambodge, 1920, pp. 63-75, for the capitals of Jayavarman II."
 
  Close to the tank rises the Puri (royal residence) of Prakhân. The wide ditch round the Puri is crossed by broad stone bridges, with parapets of giants holding serpents in their hands
 
@@ -940,7 +1146,9 @@ temples, called Méboune now-a-days, became more and more humble in size and des
 
 
 
-ditch behind the ramparts, then a wall of limonite, and after that a rectangle of galleries with the sanctuary in the centre. The ditch is crossed by four stone bridges, the railings of which are composed by giants tugging at the Nâga. The bridges had four superb gates, decorated with gigantic garuḍas, and surmounted by towers with their four sides shaped as human faces. From the four gates four paved avenues, adorned with stone lions, lead to the interior where, besides the sanctuary, there are other edifices [also](# "See Aymonier, Le Cambodge, t. ii., p. 337. "). The rectangle of galleries, enclosing the sanctuary, have their walls covered with bas-reliefs such as can be seen only at the Bayon and Angkor Vat. These represent, besides Brahmanic deities, persons having a small figure. of Buddha engraved on their head-dress. Religious processions, the procession of the sacred tire, princesses in palanquins, troops marching, battle scenes, naval encounters, etc., are to be seen here.
+ditch behind the ramparts, then a wall of limonite, and after that a rectangle of galleries with the sanctuary in the centre. The ditch is crossed by four stone bridges, the railings of which are composed by giants tugging at the Nâga. The bridges had four superb gates, decorated with gigantic garuḍas, and surmounted by towers with their four sides shaped as human faces. From the four gates four paved avenues, adorned with stone lions, lead to the interior where, besides the sanctuary, there are other edifices also[^105]. The rectangle of galleries, enclosing the sanctuary, have their walls covered with bas-reliefs such as can be seen only at the Bayon and Angkor Vat. These represent, besides Brahmanic deities, persons having a small figure. of Buddha engraved on their head-dress. Religious processions, the procession of the sacred tire, princesses in palanquins, troops marching, battle scenes, naval encounters, etc., are to be seen here.
+
+[^105]: "See Aymonier, Le Cambodge, t. ii., p. 337. "
 
  This great temple was built with bluish sand-stone brought from a great distance. After Angkor Vat and the Bayon (the temple of AngkorThom) this temple of Bantei Chamar is certainly the next in importance. The shrine was probably Çaiva, but a Çivaism deeply impregnated with Mahâyânist Buddhism. The pediments are sculptured with representations of Buddhist legends, and statues of the Master are numerous. Moreover to this period belongs a royal grant to a
 
@@ -948,7 +1156,9 @@ ditch behind the ramparts, then a wall of limonite, and after that a rectangle o
 
 Buddhist foundation. We must remember that at this time in Central Java the Hindu temple of Prambanam rose near the Buddhist shrine of Borobodur.
 
- The third and last capital was Mahendra Parvata—the Phnom Kouen of to-day (several leagues to the north-west of Angkor Thom). It is not on the crest of the hill, as the name signifies, but at its foot, but, by a fiction well known both in Kambuja and Champâ, every important structure, especially Çaiva temples, actually at the foot of a hill, is supposed to be theoretically on the top of it. At the foot of Phnom (hill) Koulen are spread the magnificent ruins of Beng [Mealea](# "Aymonier, Le Cambodge, t. i, pp. 459-461."). Here too is the large artificial lake, a very small Meboune, and to the west of it the royal capital. Here also we find the wide ditch, the broad stone bridges, the magnificent gates, the rectangle of galleries, etc., which we have seen in the two former capitals. Here however are two large stone buildings besides the temple. They may have been the palaces in which the monarch actually lived. Another new feature here is the profusion of tanks in the interior. Aymonier calls it a Venice in miniature planted by the royal will in the midst of an arid desert. The ornamental work too, flowers, arabesques, etc., is exceptionally fine. Statues of gods and goddesses are however fewer here. It is to be noted that it was with
+ The third and last capital was Mahendra Parvata—the Phnom Kouen of to-day (several leagues to the north-west of Angkor Thom). It is not on the crest of the hill, as the name signifies, but at its foot, but, by a fiction well known both in Kambuja and Champâ, every important structure, especially Çaiva temples, actually at the foot of a hill, is supposed to be theoretically on the top of it. At the foot of Phnom (hill) Koulen are spread the magnificent ruins of Beng Mealea[^106]. Here too is the large artificial lake, a very small Meboune, and to the west of it the royal capital. Here also we find the wide ditch, the broad stone bridges, the magnificent gates, the rectangle of galleries, etc., which we have seen in the two former capitals. Here however are two large stone buildings besides the temple. They may have been the palaces in which the monarch actually lived. Another new feature here is the profusion of tanks in the interior. Aymonier calls it a Venice in miniature planted by the royal will in the midst of an arid desert. The ornamental work too, flowers, arabesques, etc., is exceptionally fine. Statues of gods and goddesses are however fewer here. It is to be noted that it was with
+
+[^106]: "Aymonier, Le Cambodge, t. i, pp. 459-461."
 
 
 
@@ -958,21 +1168,35 @@ Mount Mahendra or Beng Mealea that the memory of Jayavarman seems to be more ass
 
 
 
-And it was Popusnokar, acting under the orders of Ket Mealea, who built the superb monuments of Kambuja, till one day he had a quarrel with the king about a sword the king had ordered (which when ready the king found too small) and then he returned to [China](# "Legendes Cambodgiennes, Monad, p. 129 et seg., and Aymonier, Textes Khmers and Legendes Cambodgiennes. ").
+And it was Popusnokar, acting under the orders of Ket Mealea, who built the superb monuments of Kambuja, till one day he had a quarrel with the king about a sword the king had ordered (which when ready the king found too small) and then he returned to China[^107].
 
- It is also from [Jayavarman](# " G. Maspero, L'Empire Khmer, p. 31.") that the sacred. sword of Kambuja is supposed to have been handed down—the sword that is the palladium of Kambuja and which is guarded day and night, turn by turn, by the Bakus—the descendants of the old Brahmans. The slightest rust on the blade would forebode a national disaster.
+[^107]: "Legendes Cambodgiennes, Monad, p. 129 et seg., and Aymonier, Textes Khmers and Legendes Cambodgiennes. "
+
+ It is also from Jayavarman[^108] that the sacred. sword of Kambuja is supposed to have been handed down—the sword that is the palladium of Kambuja and which is guarded day and night, turn by turn, by the Bakus—the descendants of the old Brahmans. The slightest rust on the blade would forebode a national disaster.
+
+[^108]: " G. Maspero, L'Empire Khmer, p. 31."
 
 ***Jayavarman III*.**
 
- According to the digraphic inscriptions Jayavardhana, son of Jayavarman II, succeeded his father and assumed the title of Jayavarman III on ascending the throne. From the much damaged Khmer inscription of Neak Ta Bak [Ka](# "Aymonier, Le Cambodge, i, p. 421."), we learn that he ascended the throne in 791 ç. e. (869 A.D.) and that he reigned only for nine years, i.e., up to 799 ç.e. (877 A.D.). The Sdok Kak Thom inscription [states](# " B.E.F.E.O., t. xv, No. 2, p. 88. "):—“During the reign of H.M. Visnuloka (the posthumous
+ According to the digraphic inscriptions Jayavardhana, son of Jayavarman II, succeeded his father and assumed the title of Jayavarman III on ascending the throne. From the much damaged Khmer inscription of Neak Ta Bak Ka[^109], we learn that he ascended the throne in 791 ç. e. (869 A.D.) and that he reigned only for nine years, i.e., up to 799 ç.e. (877 A.D.). The Sdok Kak Thom inscription states[^110]:—“During the reign of H.M. Visnuloka (the posthumous
+
+[^109]: "Aymonier, Le Cambodge, i, p. 421."
+
+[^110]: " B.E.F.E.O., t. xv, No. 2, p. 88. "
 
 
 
-name of Jayavarman III) the Kamraten Jagat ta râja (the Royal God) resided at Hariharâlaya. A nephew of Çivakaivalya, Sukṣmavindu, was the chaplain of the Royal God and all his relations also served the divinity.” He had the reputation of being a great hunter of wild elephants. A Khmer inscription discovered among the ruins of Beng Mealea (Mahendra Parvata) relates the story of his capturing one of these animals. Another inscription found to the south of the great lake refers to his capturing three elephants. The ‘stéle’ of Palhal mentions the name of a person Brahmarâçika, of Vyâdhapura, who was the chief of the royal elephant-[hunters](# "Coedes, Etude Camb, No. XI. B.E.F.E.O., t. xiii., vi. "). This is all that we know of this prince who died a premature death.
+name of Jayavarman III) the Kamraten Jagat ta râja (the Royal God) resided at Hariharâlaya. A nephew of Çivakaivalya, Sukṣmavindu, was the chaplain of the Royal God and all his relations also served the divinity.” He had the reputation of being a great hunter of wild elephants. A Khmer inscription discovered among the ruins of Beng Mealea (Mahendra Parvata) relates the story of his capturing one of these animals. Another inscription found to the south of the great lake refers to his capturing three elephants. The ‘stéle’ of Palhal mentions the name of a person Brahmarâçika, of Vyâdhapura, who was the chief of the royal elephant-hunters[^111]. This is all that we know of this prince who died a premature death.
+
+[^111]: "Coedes, Etude Camb, No. XI. B.E.F.E.O., t. xiii., vi. "
 
 ***Indravarman I.***
 
- The direct line of Jayavarman II having become extinct, the throne was occupied by a distant relation—Indravarman I, whose maternal grandfather Rudravarman was the maternal uncle of the mother of the last king Jayavarman[JayavarmanIII](# " I.S.C.C., p. 365, Stanza II."). it is curious to note the matriarchal nature of these genealogies. The inscription of the temple of Baku tells [us](# "I.S.C.C., p. 306, Stanza III et seq. "):—“The queen (mother), born of a family where kings have
+ The direct line of Jayavarman II having become extinct, the throne was occupied by a distant relation—Indravarman I, whose maternal grandfather Rudravarman was the maternal uncle of the mother of the last king JayavarmanJayavarmanIII[^112]. it is curious to note the matriarchal nature of these genealogies. The inscription of the temple of Baku tells us[^113]:—“The queen (mother), born of a family where kings have
+
+[^112]: " I.S.C.C., p. 365, Stanza II."
+
+[^113]: "I.S.C.C., p. 306, Stanza III et seq. "
 
 
 
@@ -982,9 +1206,13 @@ succeeded one another, being the daughter of Çri Rudravarman and the maternal g
 
 
 
-towers of the temple to his deified ancestors—the three towers of the front row being consecrated to Prithivindeçvara, Parameçvara and Rudreçvara respectively. Now Prithivindeçvara is the deified name of the king’s father, Prithivindravarman, who is thus identified with Çiva. Parameçvara also, a title of Çiva, is the *nom d’ [apotheose](# "I.S,C.C., p. 302.")* of Jayavarman II, and Rudreçvara (another name of Çiva) of the king’s maternal grandfather Rudravarman. The two towers in the second row are dedicated to Prithivindra-devi and Dhavanindra-devi respectively. The inscription for the third tower in this row is missing. Now these feminine names signify both the goddess Durgâ and the wives of Prithivindravarman and Jayavarman. These towers were meant as the sanctuaries for the three images of Çiva and the three images of Durgâ mentioned in the Sanscrit inscription. So we have here Çiva adored in the three aspects of the king’s father, grandfather and Jayavarman II. We shall come back to this point later on.
+towers of the temple to his deified ancestors—the three towers of the front row being consecrated to Prithivindeçvara, Parameçvara and Rudreçvara respectively. Now Prithivindeçvara is the deified name of the king’s father, Prithivindravarman, who is thus identified with Çiva. Parameçvara also, a title of Çiva, is the *nom d’ apotheose[^114]* of Jayavarman II, and Rudreçvara (another name of Çiva) of the king’s maternal grandfather Rudravarman. The two towers in the second row are dedicated to Prithivindra-devi and Dhavanindra-devi respectively. The inscription for the third tower in this row is missing. Now these feminine names signify both the goddess Durgâ and the wives of Prithivindravarman and Jayavarman. These towers were meant as the sanctuaries for the three images of Çiva and the three images of Durgâ mentioned in the Sanscrit inscription. So we have here Çiva adored in the three aspects of the king’s father, grandfather and Jayavarman II. We shall come back to this point later on.
 
- At Bayang has been discovered another inscription of Indravarman [I.](# "I.S. C. C., p. 315. ") “The Lord of Kambuja, Çri Indravarman, distinguished by all the virtues, has become king in the Çaka year 799.” Then follow three stanzas, which are the same, word by word, as the stanzas III,
+[^114]: "I.S,C.C., p. 302."
+
+ At Bayang has been discovered another inscription of Indravarman I.[^115] “The Lord of Kambuja, Çri Indravarman, distinguished by all the virtues, has become king in the Çaka year 799.” Then follow three stanzas, which are the same, word by word, as the stanzas III,
+
+[^115]: "I.S. C. C., p. 315. "
 
 
 
@@ -994,17 +1222,27 @@ IV and VI of the Baku inscription containing an eulogy of the king. Then follows
 
 —which (monasteries) he has filled with slaves, etc., where guests and other people have their wants satisfied by the abundance of all the necessities of life stored up previously.”
 
- At another temple at Bakong we have five inscriptions of Indravarman I, under five of the eight towers, each of which reproduces word by word the first eight stanzas of the Baku inscription (containing an eulogy of the king) and then abruptly breaks [off](# "  I. S. C. C.. p. 311. "). Even the object of the inscription is not mentioned. Yet Bakong is a magnificent monument, the first of the great pyramidal structures which are characteristic of the fully developed (the “classic”) period of Khmer architecture. The incomplete inscription seems to imply that the temple was abandoned as soon as it was built. The edifice consists of five terraces of sandstone rising one above the other. Forty lions, which diminish in size the higher up we go, adorn the four staircases on the four sides. Twenty largemonolithic elephants, which also get smaller and smaller on the upper stages, are placed at the angles of the terraces. Eight fine brick towers crown this pyramid, which is in the midst of a vast enclosure, walled and surrounded by a ditch which is crossed by causeways ornamented with parapets of many-hooded [Nâgas](# "Aymonier, L'Ancien Cambodge, 1920, p. 81. ").
+ At another temple at Bakong we have five inscriptions of Indravarman I, under five of the eight towers, each of which reproduces word by word the first eight stanzas of the Baku inscription (containing an eulogy of the king) and then abruptly breaks off[^116]. Even the object of the inscription is not mentioned. Yet Bakong is a magnificent monument, the first of the great pyramidal structures which are characteristic of the fully developed (the “classic”) period of Khmer architecture. The incomplete inscription seems to imply that the temple was abandoned as soon as it was built. The edifice consists of five terraces of sandstone rising one above the other. Forty lions, which diminish in size the higher up we go, adorn the four staircases on the four sides. Twenty largemonolithic elephants, which also get smaller and smaller on the upper stages, are placed at the angles of the terraces. Eight fine brick towers crown this pyramid, which is in the midst of a vast enclosure, walled and surrounded by a ditch which is crossed by causeways ornamented with parapets of many-hooded Nâgas[^117].
+
+[^116]: "  I. S. C. C.. p. 311. "
+
+[^117]: "Aymonier, L'Ancien Cambodge, 1920, p. 81. "
 
 
 
- The Baku temple, to which we have already referred, has six brick towers smaller in size and humbler in design than those of Bakong. Bothof these ruins are at a distance of a about ten miles to the south-west of Angkor Thom, in the immediate vicinity of which was Hariharâlaya, the capital at this [period](# "Ibid.").
+ The Baku temple, to which we have already referred, has six brick towers smaller in size and humbler in design than those of Bakong. Bothof these ruins are at a distance of a about ten miles to the south-west of Angkor Thom, in the immediate vicinity of which was Hariharâlaya, the capital at this period[^11].
 
- The architecture of Indravarman’s reign has got some peculiar characteristics, which have led M. parmentier, the head of the Archaeological Department of French Indo-China, to call it a separate school of architecture—the “art of [Indravarman](# "Parmentier, L'Art d'Indravarman, B.E.F.E.O., t. xix, 1.2. ").” It is much more allied to the early Khmer art—the art of Funan—than to the architecture of Jayavarman II’s reign. Brick towers are common both to the period of Indravarman and that of early Funan. There are also at this period no galleries joining the different portions of a temple, which is so characteristic a feature of the later monuments of Angkor Thom and Angkor Vat. The structures also, as in the early Funan period, tower up high without spreading over a wide area. The part played by the decorative art, which leaves no surface untouched as in Bayon (the chief temple of Angkor Thom), has not become. so prevalent at this time; though the simple Funan style of bare unworked surfaces has also
+[^11]: "Ibid."
+
+ The architecture of Indravarman’s reign has got some peculiar characteristics, which have led M. parmentier, the head of the Archaeological Department of French Indo-China, to call it a separate school of architecture—the “art of Indravarman[^119].” It is much more allied to the early Khmer art—the art of Funan—than to the architecture of Jayavarman II’s reign. Brick towers are common both to the period of Indravarman and that of early Funan. There are also at this period no galleries joining the different portions of a temple, which is so characteristic a feature of the later monuments of Angkor Thom and Angkor Vat. The structures also, as in the early Funan period, tower up high without spreading over a wide area. The part played by the decorative art, which leaves no surface untouched as in Bayon (the chief temple of Angkor Thom), has not become. so prevalent at this time; though the simple Funan style of bare unworked surfaces has also
+
+[^119]: "Parmentier, L'Art d'Indravarman, B.E.F.E.O., t. xix, 1.2. "
 
 
 
-been discarded. The decorative art of Indravarman’s reign resembles wood-carving while the later style becomes as exuberant as painting. The distinctly Pallava features of ornamentation, the kudu (of the form of a horse-shoe with some figure inside the curve) and the [tiruachi](# "Kudu and tiruachi are South Indian terms. ") (a motif of two makaras at each end of a crescent-shaped design), have however both disappeared from the art of Indravarman, though they played a very conspicuous rôle in that of Funan.
+been discarded. The decorative art of Indravarman’s reign resembles wood-carving while the later style becomes as exuberant as painting. The distinctly Pallava features of ornamentation, the kudu (of the form of a horse-shoe with some figure inside the curve) and the tiruachi[^120] (a motif of two makaras at each end of a crescent-shaped design), have however both disappeared from the art of Indravarman, though they played a very conspicuous rôle in that of Funan.
+
+[^120]: "Kudu and tiruachi are South Indian terms. "
 
  It is a very curious fact indeed that, during the reign of Indravarman, there should have been evolved a special school of art different both from that of his predecessor Jayavarman and from that of his son and successor, Yaçovarman, the royal builder *‘par excellence*’ of Kambuja.
 
@@ -1024,7 +1262,9 @@ career in much later genealogies, etc. So that the inscriptions of Indravarman a
 
 **YAÇOVARMAN AND ANGKOR THOM.**
 
- Yaçovardhana¹, the son of Indravarman, sueceeded his father and on his accession assumed the title of Yaçovarman. He was one of the grand monarchs of Kambuja, and it was under him that Kambuja architecture reached its highest point. None of the Khmer kings has celebrated his name in so many inscriptions as he, yet he remains a mysterious figure. His preceptor or guru was Vâmaçiva—a Brahman who was the disciple of Çivasoma, the guru of his father. Vâmaçiva was the Upâdhyâya (professor) of Indravarman, and it was in the life-timeof Indravarman that he was entrusted with the education of Yaçovardhana, who was then quite [young](# "Inscr, Sdok Kak Thom, B.E.F.E.O., t. xv, No. 2, p. 89,").
+ Yaçovardhana¹, the son of Indravarman, sueceeded his father and on his accession assumed the title of Yaçovarman. He was one of the grand monarchs of Kambuja, and it was under him that Kambuja architecture reached its highest point. None of the Khmer kings has celebrated his name in so many inscriptions as he, yet he remains a mysterious figure. His preceptor or guru was Vâmaçiva—a Brahman who was the disciple of Çivasoma, the guru of his father. Vâmaçiva was the Upâdhyâya (professor) of Indravarman, and it was in the life-timeof Indravarman that he was entrusted with the education of Yaçovardhana, who was then quite young[^121].
+
+[^121]: "Inscr, Sdok Kak Thom, B.E.F.E.O., t. xv, No. 2, p. 89,"
 
  The inscriptions, engraved on the stone door. panels of the four towers of the temple of Loley, tell us:—“The king of kings, Çri Yaçovarman, who assumed the (royal) power in the year designated by the moon, the moon and eight (811 ç.e.), has given all this—servants, etc.,
 
@@ -1036,7 +1276,9 @@ career in much later genealogies, etc. So that the inscriptions of Indravarman a
 
 
 
-to the Supreme Lord erected by himself. He, the foremost of donors, asks again and again of all the future sovereigns of Kambuja, that this pious bridge (across the cares of this world) should be preserved. You, who are the incarnations of glory, you, who are ready to sacrifice your lives for the sake of duty, you, who are the first among those who hold high their heads, could you covet the wealth of the gods? Guard this (pious work) from persons, who, in the presence of custodians (of monuments), present an honest appearance, but who profit by a hole to rob the possession of the gods. Even in the age of truth, Râhu, assumed the guise of a god to steal the ambrosia. Jast as Visṇu, overpowering Râhu and his like, preserved the gods and the ambrosia, so you too, by killing the thieves, should protect the god and his property. I know well that begging is as death, especially for a king. However death in a pious cause is praiseworthy for the good. Therefore I ask you, you who would not refuse me. The royal children, ministers, and others should protect this (sacred monument) by (public) proclamations, etc. To you, who are loving as well as learned, the onerous task of upkeeping (this) is entrusted by the [king](# " I.S.C.C., p. 325.")”
+to the Supreme Lord erected by himself. He, the foremost of donors, asks again and again of all the future sovereigns of Kambuja, that this pious bridge (across the cares of this world) should be preserved. You, who are the incarnations of glory, you, who are ready to sacrifice your lives for the sake of duty, you, who are the first among those who hold high their heads, could you covet the wealth of the gods? Guard this (pious work) from persons, who, in the presence of custodians (of monuments), present an honest appearance, but who profit by a hole to rob the possession of the gods. Even in the age of truth, Râhu, assumed the guise of a god to steal the ambrosia. Jast as Visṇu, overpowering Râhu and his like, preserved the gods and the ambrosia, so you too, by killing the thieves, should protect the god and his property. I know well that begging is as death, especially for a king. However death in a pious cause is praiseworthy for the good. Therefore I ask you, you who would not refuse me. The royal children, ministers, and others should protect this (sacred monument) by (public) proclamations, etc. To you, who are loving as well as learned, the onerous task of upkeeping (this) is entrusted by the king[^122]”
+
+[^122]: " I.S.C.C., p. 325."
 
  “In the Çaka year 815...Çri Yaçovarman has erected at the same time these statues of
 
@@ -1048,11 +1290,15 @@ Gauri and the Lord (Çiva) which he has made himself.”
 
  From the Khmer inscriptions of this temple of Loley, we learn that the two images of Çiva, in the two towers of the front row, bore the names of Indravarmeçvara and Mahâpatîçvara respectively. So here too the king’s father and maternal grandfather, Indravarman and Mahâpatîvarman, are worshipped as Çiva. In the two towers of the second row, the two images of Bhavâni were named Indra devi and Râjendra devi—the names of the king’s mother and maternal grandmother respectively. So here also, as in the temple of Baku of the preceding reign, we have ancestor-worship and the worship of the gods combined together.
 
- In the Pratimânâtaka, one of the dramas. recently discovered in South India and attributed to Bhâsa, there is a reference to an image of the deceased king who might have been deified in this way. The statue of Daçaratha is added to the statues of his predecessors in the pratimâ(statue) [hall](# "Keith, Sanscrit Drama, p. 100. "). In Travancore there is something like this form of ancestor worship in families. Probably an indigenous cult of ancestor-worship existed in Indo-China and reinforced the Indian form of it.
+ In the Pratimânâtaka, one of the dramas. recently discovered in South India and attributed to Bhâsa, there is a reference to an image of the deceased king who might have been deified in this way. The statue of Daçaratha is added to the statues of his predecessors in the pratimâ(statue) hall[^123]. In Travancore there is something like this form of ancestor worship in families. Probably an indigenous cult of ancestor-worship existed in Indo-China and reinforced the Indian form of it.
+
+[^123]: "Keith, Sanscrit Drama, p. 100. "
 
 
 
- The Khmer inscription (undated) of Bantei [Chhmar](# "Aymonier, Le Cambodge, ii, pp. 344-345.") gives us very curious information:—“When Bharat Râhu Saṃvuddhi revolted against H. M. Yaçovarman, and assaulted the royal palace (vrah mandira), all the troops in the capital took to flight. The king came forth to fight in person. The Sanjak Arjuna and the Sanjak (a Khmer word which may mean “faithful” or “bound by an oath”) Çri Dharadevapura fought so as to cover the person of the king and fell before his eyes. After repressing the rebellion of Bharata Râhu, the king conferred the titles of Vrah Kamraten An Çri Nrpasiṃhavarman on Sanjak Devapura, son of Sanjak Çri Dharadevapura, conferred the posthumous dignity of Amten on the two deceased Sanjaks, caused their statues to be erected, and lavished wealth and favours on their families.”
+ The Khmer inscription (undated) of Bantei Chhmar[^124] gives us very curious information:—“When Bharat Râhu Saṃvuddhi revolted against H. M. Yaçovarman, and assaulted the royal palace (vrah mandira), all the troops in the capital took to flight. The king came forth to fight in person. The Sanjak Arjuna and the Sanjak (a Khmer word which may mean “faithful” or “bound by an oath”) Çri Dharadevapura fought so as to cover the person of the king and fell before his eyes. After repressing the rebellion of Bharata Râhu, the king conferred the titles of Vrah Kamraten An Çri Nrpasiṃhavarman on Sanjak Devapura, son of Sanjak Çri Dharadevapura, conferred the posthumous dignity of Amten on the two deceased Sanjaks, caused their statues to be erected, and lavished wealth and favours on their families.”
+
+[^124]: "Aymonier, Le Cambodge, ii, pp. 344-345."
 
  “The king invaded Campa Dvipa to the East. Then he seized the fort which the king of Campa, Çri Jaya Indravarman, had constructed on Mount Vek. In the place of the king he put on the throne a general (senâpati) of Campa. The Camps people lay in ambush and surrounded the king (of Kambuja), with twelve bodies of troops, which, though repulsed, continued to fight without respite. The king had to retreat with his army, still fighting, to Mount Trayâchar. The troops of Campa besieged him on this mountain,
 
@@ -1062,15 +1308,23 @@ and their turbaned warriors attacked him, but they were all killed or disabled e
 
  Another portion of this inscription tells us that to the south-east of the shrine was the god Arjuna-deva, to the north-east the god Çri Dhara-devapura, to the south-west the god Çri Deva-deva and to the north-west the god Vardhana-deva—all Mantris (ministers).” This passage must refer to the statues of the faithful nobles and it shows that they too were deified.
 
- The inscription of Phnom [Sandak](# "I. S. C. C., p. 336."), dated 817 ç.e., contains the most elaborate invocation to the Trimurti, i.e., Çiva, Visṇu and Brahmâ, and
+ The inscription of Phnom Sandak[^125], dated 817 ç.e., contains the most elaborate invocation to the Trimurti, i.e., Çiva, Visṇu and Brahmâ, and
+
+[^125]: "I. S. C. C., p. 336."
 
 
 
-the goddesses Gauri and Sarasvati:—“Om! Prosperity Success! Good auspices! Victory! Salutation to Çiva, whose toe-nail, moistened by the honey of the celestial mandâra-flower on Indra’s head, prostrate before him, gleams with lustre. Bow down to Rudra, from whose lotus feet the pollen falls off like the smoke of the flames of the myriads of jewels on the crest of gods (prostrate before him). Victory to Dhûrjati, in whose flaming red locks Gangâ hides. herself, fearing to be consumed by the wrath of Umâ. Victory to the Great Boar, whose tusks gleam like the sprouts of the glory of Him (Viṣṇu) who traversed the three worlds with (three) strides. I salute Viṣṇu in whose arms shines. the earth... May the (four) faces of Brahmâ, in the lotus of the cosmic ocean, protect you, faces which are themselves like lotuses issued from the (cosmic) lotus for the death of Madhu and Kaiṭava (or for the death of bees greedy of honey). I salute Gauri, whose lotus face shrinks with bashfulness during the first caresses of Hara, as if to escape from contact with the rays of the moon (which her lord bears on his [forehead](# "The lotus closes when the moon rises,")). Salutation to the goddess Sarasvati, divinity supreme of speech, which consists of sound, and who is invoked even in the invocations to other (deities).” Then follows an eulogy
+the goddesses Gauri and Sarasvati:—“Om! Prosperity Success! Good auspices! Victory! Salutation to Çiva, whose toe-nail, moistened by the honey of the celestial mandâra-flower on Indra’s head, prostrate before him, gleams with lustre. Bow down to Rudra, from whose lotus feet the pollen falls off like the smoke of the flames of the myriads of jewels on the crest of gods (prostrate before him). Victory to Dhûrjati, in whose flaming red locks Gangâ hides. herself, fearing to be consumed by the wrath of Umâ. Victory to the Great Boar, whose tusks gleam like the sprouts of the glory of Him (Viṣṇu) who traversed the three worlds with (three) strides. I salute Viṣṇu in whose arms shines. the earth... May the (four) faces of Brahmâ, in the lotus of the cosmic ocean, protect you, faces which are themselves like lotuses issued from the (cosmic) lotus for the death of Madhu and Kaiṭava (or for the death of bees greedy of honey). I salute Gauri, whose lotus face shrinks with bashfulness during the first caresses of Hara, as if to escape from contact with the rays of the moon (which her lord bears on his forehead[^126]). Salutation to the goddess Sarasvati, divinity supreme of speech, which consists of sound, and who is invoked even in the invocations to other (deities).” Then follows an eulogy
+
+[^126]: "The lotus closes when the moon rises,"
 
 
 
-of Yaçovarman till we come to the object of the inscription (stanza 18). “During his reign there was an eminent muni (seer), whose lotus-like feet were worshipped by munis, of the name of Somaçiva, an ocean of learning in the Çâstras. There was a disciple of the venerable Somaçiva, whom the lord of the earth (Yaçovarman) has appointed as professor in the domain of Çri Indravarmeçvara (i.e., in the estate of the god). He, after having churned with his [Mandâra-like](# "Mandara is the mountain with which the gods churned the ocean to extract the ambrosia. ") intelligence the sea of [Çivaçâstra](# "Probably the grammar of Pâṇini which is supposed to have boon revealed by Çiva."), and having drunk the nectar of knowledge, through compassion, gave it to others to drink. In whose lotus-like mouth, which won the minds (of men) by the honey of grammar trickling from it, Sarasvati like a bee was pleased to dwell. It is he who has consecrated here, with due honours, the linga Çri Bhadreçvara in the çaka year 817.”
+of Yaçovarman till we come to the object of the inscription (stanza 18). “During his reign there was an eminent muni (seer), whose lotus-like feet were worshipped by munis, of the name of Somaçiva, an ocean of learning in the Çâstras. There was a disciple of the venerable Somaçiva, whom the lord of the earth (Yaçovarman) has appointed as professor in the domain of Çri Indravarmeçvara (i.e., in the estate of the god). He, after having churned with his Mandâra-like[^127] intelligence the sea of Çivaçâstra[^128], and having drunk the nectar of knowledge, through compassion, gave it to others to drink. In whose lotus-like mouth, which won the minds (of men) by the honey of grammar trickling from it, Sarasvati like a bee was pleased to dwell. It is he who has consecrated here, with due honours, the linga Çri Bhadreçvara in the çaka year 817.”
+
+[^127]: "Mandara is the mountain with which the gods churned the ocean to extract the ambrosia. "
+
+[^128]: "Probably the grammar of Pâṇini which is supposed to have boon revealed by Çiva."
 
 ***Digraphic Inscriptions.***
 
@@ -1084,7 +1338,9 @@ inscriptions however gives the same text twice—once in the usual Kambuja chara
 
 
 
-and Kâncipura that we find examples of the other strange feature of these inscriptions of Yaçovarman—the “digraphism,” i.e., writing of the same text in two different [scripts](# "I.S.C.C., pp. 347-349.").
+and Kâncipura that we find examples of the other strange feature of these inscriptions of Yaçovarman—the “digraphism,” i.e., writing of the same text in two different scripts[^129].
+
+[^129]: "I.S.C.C., pp. 347-349."
 
  Burnell, in his “Elements of South Indian Paleography,” says about the Nâgari inscriptions, found side by side with inscriptions in the local script at Çaluvankappa, that they were intended for the convenience of pilgrims from the north. Barth however thinks that, as regards these long and learned Kambuja inscriptions, the idea is not so much of practical convenience as that of a pompous fashion. He says that the fact, that such digraphic inscriptions are to be found both in India and in Kambuja, shows with what facility fashions spread even to the extreme corners of the Hinduised Orient.
 
@@ -1094,13 +1350,21 @@ and Kâncipura that we find examples of the other strange feature of these inscr
 
 
 
-of North Indian alphabets. Now at a period, not much removed from the time of the Kambuja inscriptions (about the 7th or 8th century çaka), we find in India an alphabet used in inscriptions on monuments so far to the south as the region of the Seven Pagodas. And, as it was a case of abrupt transmission of a script from one region to another, the new system did not take root in the soil. This movement was not an isolated one. Barnell [writes](# "South Indian Paleography, p. 53.") that inscriptions in this (Nâgari) character, both Hindu and Buddhist, occur in considerable numbers in Java. “Grants, explanatory re-marks, inscriptions on rings, and Buddhist confessions of faith have all been found in this [character](# "Ibid.").” In the British Museum the writer has seen an image of a goddess from Java with the name inscribed in North Indian characters remarkably like Bengali. Now this script from North India is quite different from the old Javanese characters which came from the Pallava region of Southern India. Burnell says:—“It is thus plain that the examples which occur of this character in South India and Java must be due to emigrants from the North who saw fit to leave their own country in considerable numbers. It may not be impossible to discover the causes of this immigration, which, in later times,
+of North Indian alphabets. Now at a period, not much removed from the time of the Kambuja inscriptions (about the 7th or 8th century çaka), we find in India an alphabet used in inscriptions on monuments so far to the south as the region of the Seven Pagodas. And, as it was a case of abrupt transmission of a script from one region to another, the new system did not take root in the soil. This movement was not an isolated one. Barnell writes[^130] that inscriptions in this (Nâgari) character, both Hindu and Buddhist, occur in considerable numbers in Java. “Grants, explanatory re-marks, inscriptions on rings, and Buddhist confessions of faith have all been found in this character[^11].” In the British Museum the writer has seen an image of a goddess from Java with the name inscribed in North Indian characters remarkably like Bengali. Now this script from North India is quite different from the old Javanese characters which came from the Pallava region of Southern India. Burnell says:—“It is thus plain that the examples which occur of this character in South India and Java must be due to emigrants from the North who saw fit to leave their own country in considerable numbers. It may not be impossible to discover the causes of this immigration, which, in later times,
+
+[^11]: "Ibid."
+
+[^130]: "South Indian Paleography, p. 53."
 
 
 
-is probably to be attributed to the Muhammadan conquest. In earlier times religious disputes may have been the cause. There is little trace of development of this [character](# "Ibid., p. 54. ").”
+is probably to be attributed to the Muhammadan conquest. In earlier times religious disputes may have been the cause. There is little trace of development of this character[^132].”
 
- Since then, the discovery of the Mahayanist inscription of Kalasan in Central Java has proved that this North Indian alphabet and northern Buddhism existed in Java much earlier than Burnell thought when he wrote this passage. (Burnell was of opinion that a large emigration of Buddhists from North India to Java took place about the 11th [century](# "The Indian Antiquary, Vol. V. p. 316.")). This inscription of Kalasan is dated the year 700 ç.e., i.e., 778 A.D, and M. Coedes by his researches published in 1918 has shown that it is an inscription of the king of the Çailendra. dynasty of the Çrivijaya kingdom in Sumatra. This kingdom of Çrivijaya rose to great power about this time and ruled over considerable portions of Sumatra, the Malay Peninsula and Java.
+[^132]: "Ibid., p. 54. "
+
+ Since then, the discovery of the Mahayanist inscription of Kalasan in Central Java has proved that this North Indian alphabet and northern Buddhism existed in Java much earlier than Burnell thought when he wrote this passage. (Burnell was of opinion that a large emigration of Buddhists from North India to Java took place about the 11th century[^133]). This inscription of Kalasan is dated the year 700 ç.e., i.e., 778 A.D, and M. Coedes by his researches published in 1918 has shown that it is an inscription of the king of the Çailendra. dynasty of the Çrivijaya kingdom in Sumatra. This kingdom of Çrivijaya rose to great power about this time and ruled over considerable portions of Sumatra, the Malay Peninsula and Java.
+
+[^133]: "The Indian Antiquary, Vol. V. p. 316."
 
  Did the wave, which carried this alphabet to Kambuja, come directly from North India or from the Coromandel Coast or from Java? On one side, Kambuja inscriptions mention several times the arrival of Brahmans, and once at least a Brahman born on the banks of the Jumna in North India is mentioned as living in Kambuja.
 
@@ -1116,11 +1380,15 @@ of the consonant (just as in Bengali) and not on the top of the consonant as in 
 
  The text of the shorter inscription, which is reproduced in two scripts eleven times (at different places), contains first a praçasti (eulogy) of Yaçovarman, which includes also a long genealogy, and secondly a çâsana or ordinance of gifts which is, according to Barth, strikingly reminiscent of those Smriti treatises which follow most closely the style of the sutras.
 
- We have already referred to this genealogy on p. 65. The great emphasis laid on the high connections of the mother of Yaçovarman is to be noted. Through her father, Indradevi (Yaçovarman’s mother) was connected with “the lord of Aninditapura, Puṣkarâkṣa, who also acquired the principality of Çambhupura, and who was the maternal uncle of the maternal uncle of the mother of the king who established his residence on Mount Mahendra (Jayavarman II).” Through her mother, Indradevi traced her descent from “a Brahman of the name of Agastya, a scholar of the Vedas and Vedângas, whose place of origin. was Āryadeça (North India P). and his royal consort of illustrious descent—Yaçomati distinguished by her [renown](# "I. S. C. C., p. 364, stanza 5,").” Yaçovarman’s father, Indravarman I, was the grandson of a simple
+ We have already referred to this genealogy on p. 65. The great emphasis laid on the high connections of the mother of Yaçovarman is to be noted. Through her father, Indradevi (Yaçovarman’s mother) was connected with “the lord of Aninditapura, Puṣkarâkṣa, who also acquired the principality of Çambhupura, and who was the maternal uncle of the maternal uncle of the mother of the king who established his residence on Mount Mahendra (Jayavarman II).” Through her mother, Indradevi traced her descent from “a Brahman of the name of Agastya, a scholar of the Vedas and Vedângas, whose place of origin. was Āryadeça (North India P). and his royal consort of illustrious descent—Yaçomati distinguished by her renown[^134].” Yaçovarman’s father, Indravarman I, was the grandson of a simple
+
+[^134]: "I. S. C. C., p. 364, stanza 5,"
 
 
 
-Kṣatriya, but it is noteworthy that his (Yaçovarman’s) father married his cousin (maternal uncle’s daughter) which is contrary to the orthodox Hindu practice. The genealogy comes to a close with the 16th [stanza](# "I. S. C. C., p. 365."):—“It was from this lord of the earth (Indravarman), whose renown spread in all directions, and his queen Çri Indradevi, that was born, like Kârttikeya from the daughter of the mountain and Tripurâri (Pârvati and Çiva), the unique accumulation of energy, the king Çri Yaçovarman.”
+Kṣatriya, but it is noteworthy that his (Yaçovarman’s) father married his cousin (maternal uncle’s daughter) which is contrary to the orthodox Hindu practice. The genealogy comes to a close with the 16th stanza[^135]:—“It was from this lord of the earth (Indravarman), whose renown spread in all directions, and his queen Çri Indradevi, that was born, like Kârttikeya from the daughter of the mountain and Tripurâri (Pârvati and Çiva), the unique accumulation of energy, the king Çri Yaçovarman.”
+
+[^135]: "I. S. C. C., p. 365."
 
  Then follows the eulogy of Yaçovarman which is merely a pompous affair. In the 28th stanza (p. 366) we get:—“This king, well versed (in kingly duties), performed the Koti-homa and the Yajnas (Vedic sacrifices), for which he gave the priests magnificent presents of jewels, gold, etc.” This is one of the few references to Vedic sacrifices in Kambuja. The 32nd and the following stanzas (p. 367) give the object of the inscription:—“He had erected on the isle of the lake of Indra (the artificial tank excavated by his father Indravarman) four images of Çiva and his consort, purifying like the four Vedas, for the (spiritual) welfare of his ancestors. He cut into three pieces, with one stroke of his sword, a long, round, thick and hard (bar of) iron for having dared to rival his arm¹. Shooting
 
@@ -1154,7 +1422,9 @@ As long as the sun and the moon exist, may those go to hell, who break and trans
 
  These digraphic inscriptions are admirably engraved. Nothing could be more elegant or more painstaking. They are scattered all over the kingdom, but the style of engraving is so similar that they probably are the work of the same craftsman or the same group of craftsmen.
 
- The digraphic inscription at [Loley](# "I.S.C.C., pp. 393-402.") gives a much longer text, which up to this time has been found only Fifteen of its stanzas are common to the other digraphic inscriptions. It contains 93 stanzas, but, inspite of its great length it does not throw much additional light. on Yaçovarman. The invocation is to Çiva, who is worshipped at Loley as Indravarmeçvara (Indravarman was the king’s father):—“Adoration to Çiva, who at first was one, who, at the commencement of the world, for his own pleasure, divided himself into three—the (god) with four faces, the (god) with four arms, and Çambhu—and who at the end of the Yuga will again become only one.” The 34th and 40th stanzas refer to Vedic sacrifices of the king:—“Devoted to fire sacrifices. (homa) and yoga
+ The digraphic inscription at Loley[^136] gives a much longer text, which up to this time has been found only Fifteen of its stanzas are common to the other digraphic inscriptions. It contains 93 stanzas, but, inspite of its great length it does not throw much additional light. on Yaçovarman. The invocation is to Çiva, who is worshipped at Loley as Indravarmeçvara (Indravarman was the king’s father):—“Adoration to Çiva, who at first was one, who, at the commencement of the world, for his own pleasure, divided himself into three—the (god) with four faces, the (god) with four arms, and Çambhu—and who at the end of the Yuga will again become only one.” The 34th and 40th stanzas refer to Vedic sacrifices of the king:—“Devoted to fire sacrifices. (homa) and yoga
+
+[^136]: "I.S.C.C., pp. 393-402."
 
 
 
@@ -1166,11 +1436,15 @@ in all the scriptures, (skilled) in the use of all the weapons, (expert) in all 
 
 
 
-Honest men and women, desirous of worshipping the divinities, could enter with offerings proportionate to their means. Those who did not possess any other wealth except faith could enter only with a flower. Mutilated. [persons](# "Cf. Manu as regards the mutilated being considered as inauspicious."), ungrateful people, hunchbacks, dwarfs, great sinners, vagabonds and foreigners, lepers and condemned persons could not be allowed to enter the precincts of Çiva. Those only should serve the god—who were followers of (the cult of) Maheçvara, self-controlled, of good family and character, and who had attained peace of mind. As regards those who through presumption would break this decree, if they were Brahmans, as they could not be punished by blows or fines, they were to be ejected from the compound. The royal princes were to be fined 20 palas of gold, and half of that amount was to be the fine for the relations and the ministers of the king. Half of the (last) amount was the fine for those who were privileged to carry gold-handled umbrellas, and half of that for the principal merchants. Half of (the last) amount was for the worshippers of Çiva and Viṣṇu, and half of that for the common people. Those of the common people who could not pay the fine were to be caned on the back. If any offence was committed against
+Honest men and women, desirous of worshipping the divinities, could enter with offerings proportionate to their means. Those who did not possess any other wealth except faith could enter only with a flower. Mutilated. persons[^137], ungrateful people, hunchbacks, dwarfs, great sinners, vagabonds and foreigners, lepers and condemned persons could not be allowed to enter the precincts of Çiva. Those only should serve the god—who were followers of (the cult of) Maheçvara, self-controlled, of good family and character, and who had attained peace of mind. As regards those who through presumption would break this decree, if they were Brahmans, as they could not be punished by blows or fines, they were to be ejected from the compound. The royal princes were to be fined 20 palas of gold, and half of that amount was to be the fine for the relations and the ministers of the king. Half of the (last) amount was the fine for those who were privileged to carry gold-handled umbrellas, and half of that for the principal merchants. Half of (the last) amount was for the worshippers of Çiva and Viṣṇu, and half of that for the common people. Those of the common people who could not pay the fine were to be caned on the back. If any offence was committed against
+
+[^137]: "Cf. Manu as regards the mutilated being considered as inauspicious."
 
 
 
-the rites of worship, the temple vessels, the prescribed time and the purity (of worship), all the custodians (of the temple), beginning with the head (abbot), were to be fined, along with the culprits, varying amounts ranging from 20 palas of gold according to the grade laid down. In the last (93rd) stanza we have:—“He, who has the majesty of the lord of the ambujas [(lotuses)](# "The sun, the lord of the lotus."), the lord of the Kambujas, with eyes like the ambuja (lotus), is the writer of this script called the Kambuja script.”
+the rites of worship, the temple vessels, the prescribed time and the purity (of worship), all the custodians (of the temple), beginning with the head (abbot), were to be fined, along with the culprits, varying amounts ranging from 20 palas of gold according to the grade laid down. In the last (93rd) stanza we have:—“He, who has the majesty of the lord of the ambujas (lotuses)[^138], the lord of the Kambujas, with eyes like the ambuja (lotus), is the writer of this script called the Kambuja script.”
+
+[^138]: "The sun, the lord of the lotus."
 
  Besides the digraphic inscriptions there are seven inscriptions which are written only in the North Indian characters. Six of them are Hindu inscriptions. The seventh, that of Tep Pranam, is about a Saugatâçrama (a Buddhist monastery); and the third stanza of the invocation is addressed to the Buddha. Five of the Hindu inscriptions are engraved on stone slabs on or near the embankment of Thnâl Baray—the ancient lake of Yaçodhara, on the bank of which was situated the Âçrama of Yaçodhara. Four are at the four angles of the embankment and the 5th is to the south-east of it. Only the eulogy of the king and the description of the lake differ in the four inscriptions at the four angles—the rest being common to all of them. The fifth, which is not on the embankment,
 
@@ -1184,7 +1458,9 @@ contains in addition an ordinance (çâsana), like those which we have already s
 
 
 
-the defence of religion depends on him. Next to the Brâhmana are to be honoured a Çaiva Âcârya and a Pâçupata âcârya, if one of them is learned in [grammar](# "i.e., if he is a Sanscrit scholar.") he is to be honoured above the other. The âcârya, who is the most learned among the scholars of Çaiva and Pâçupata doctrines and of grammar, that professor is to receive the highest honours in this great âçrama. The house-holder, who has studied much, is to be honoured as much as the âcârya, for it is said by Manu that of the qualities. acquired the highest is knowledge.” Then follows (stanza 9, p. 423) a quotation from Manu (II, 136):—“Wealth, friends, age, pious acts and fifthly learning—these are the claims to respect in the ascending order of importance.” The following stanzas (10 and 11, p. 423) give:—“All common people, the young, the old, invalids, the paupers, and the orphans. should be provided carefully with food, medicine, etc. Every day the gold offering is to be done, as it is prescribed, and a brown cow is to be honoured with grass and other rites.” In stanzas 13, 14, and 15 (p. 423) a curious practice is alluded to:—“For those who, through devotion to duty, have fallen on the battlefield, for the faithful who are dead, for the departed, who are deprived of funeral offerings, having no relations ...for all these, at the end of every month, funeral
+the defence of religion depends on him. Next to the Brâhmana are to be honoured a Çaiva Âcârya and a Pâçupata âcârya, if one of them is learned in grammar[^139] he is to be honoured above the other. The âcârya, who is the most learned among the scholars of Çaiva and Pâçupata doctrines and of grammar, that professor is to receive the highest honours in this great âçrama. The house-holder, who has studied much, is to be honoured as much as the âcârya, for it is said by Manu that of the qualities. acquired the highest is knowledge.” Then follows (stanza 9, p. 423) a quotation from Manu (II, 136):—“Wealth, friends, age, pious acts and fifthly learning—these are the claims to respect in the ascending order of importance.” The following stanzas (10 and 11, p. 423) give:—“All common people, the young, the old, invalids, the paupers, and the orphans. should be provided carefully with food, medicine, etc. Every day the gold offering is to be done, as it is prescribed, and a brown cow is to be honoured with grass and other rites.” In stanzas 13, 14, and 15 (p. 423) a curious practice is alluded to:—“For those who, through devotion to duty, have fallen on the battlefield, for the faithful who are dead, for the departed, who are deprived of funeral offerings, having no relations ...for all these, at the end of every month, funeral
+
+[^139]: "i.e., if he is a Sanscrit scholar."
 
 
 
@@ -1202,15 +1478,27 @@ jth of the âdhaka,
 
 
 
-only was to be given. Three bowls (or ladlefulls) of rice and ten of curries were to be given according as they presented themselves. Ashes (with which Çaivas besmear their bodies), a special kind of ashes containing alkali (to be used as soap) for washing the long locks (which Çaivas keep), a receptacle for ashes, another for incense, another for fire, and a jar for water were to be given to âcâryas and deserving ascetics. Blank leaves (of palm or birch), ink, and chalk were to be given to students, and on special days, such as the five festivals, they were to be given special food. Once in their cells the ascetics would be free from the control of the supervisor. If innocent persons came to seek (in the âçrama) a refuge in their fright, they were not to be handed over to their persecutor, and he was not to seize them. Neither by word, thought, nor act was anyone to be killed there.... Inoffensive creatures (animals) were not to be killed in the vicinity of the Âçrama or the lake. A king’s daughter, a king’s grand-daughter, old ladies of the royal household, and chaste women were to be honoured there as the other guests. They should not however enter the cells. Women, known to be of bad conduct, were not to be allowed to enter even if they came (to seek [refuge](# "I.S. C. C., pp. 424 and 425 (D).")).
+only was to be given. Three bowls (or ladlefulls) of rice and ten of curries were to be given according as they presented themselves. Ashes (with which Çaivas besmear their bodies), a special kind of ashes containing alkali (to be used as soap) for washing the long locks (which Çaivas keep), a receptacle for ashes, another for incense, another for fire, and a jar for water were to be given to âcâryas and deserving ascetics. Blank leaves (of palm or birch), ink, and chalk were to be given to students, and on special days, such as the five festivals, they were to be given special food. Once in their cells the ascetics would be free from the control of the supervisor. If innocent persons came to seek (in the âçrama) a refuge in their fright, they were not to be handed over to their persecutor, and he was not to seize them. Neither by word, thought, nor act was anyone to be killed there.... Inoffensive creatures (animals) were not to be killed in the vicinity of the Âçrama or the lake. A king’s daughter, a king’s grand-daughter, old ladies of the royal household, and chaste women were to be honoured there as the other guests. They should not however enter the cells. Women, known to be of bad conduct, were not to be allowed to enter even if they came (to seek refuge[^140].")).
+
+[^140]: "I.S. C. C., pp. 424 and 425 (D
 
 
 
- In one of the inscriptions, at one of the corners of the [lake](# "I.S.C.C. ., p. 434, Stanza 7."), we have a reference to a king of Kashmir in a passage with a double meaning:—“The king (Yaçovarman), with his fine army (Pravarasena), having explained to all the established institution (bridge) of religion, has outdone the other Pravarasena (the king of Kashmir), who constructed only an ordinary bridge (who composed a Prakrit poem Setu-vandha).” Prof. [Keith](# "Keith, Classical Sanscrit Literature.") says that the Setuvandha was written indirectly to celebrate the building of a bridge across the Jhelum by king Pravarasena of Kashmir. From the introduction to the [Râjatarangini](# "Stein, Rajatarangini, p. 66 and III, 129 n. There is also a Pravarasena of the Vâkâṭaka dyansty of the Deccan.") we learn that this was probably Pravarasena II of the 6th century who founded Srinagara. The poem Setu-vandha has been sometimes attributed to Kalîdâsa himself. Stanzas 15 and 16 (p. 457, I.S.C.C.) contain very valuable literary references. The king here. is being compared to a Pârada (a Jaina saviour or Tirthankara?) whose Kalyâna (salutary influence) is never missing (on the other hand the Kalyâna is one of the lost books of the [Jains](# "P. 467, note 3, by Barth. As no author of the name of Parada is known, this passage may mean gold whose lustre is never dimmed.")),
+ In one of the inscriptions, at one of the corners of the lake[^141], we have a reference to a king of Kashmir in a passage with a double meaning:—“The king (Yaçovarman), with his fine army (Pravarasena), having explained to all the established institution (bridge) of religion, has outdone the other Pravarasena (the king of Kashmir), who constructed only an ordinary bridge (who composed a Prakrit poem Setu-vandha).” Prof. Keith[^142] says that the Setuvandha was written indirectly to celebrate the building of a bridge across the Jhelum by king Pravarasena of Kashmir. From the introduction to the Râjatarangini[^143] we learn that this was probably Pravarasena II of the 6th century who founded Srinagara. The poem Setu-vandha has been sometimes attributed to Kalîdâsa himself. Stanzas 15 and 16 (p. 457, I.S.C.C.) contain very valuable literary references. The king here. is being compared to a Pârada (a Jaina saviour or Tirthankara?) whose Kalyâna (salutary influence) is never missing (on the other hand the Kalyâna is one of the lost books of the Jains[^144]),
+
+[^141]: "I.S.C.C. ., p. 434, Stanza 7."
+
+[^142]: "Keith, Classical Sanscrit Literature."
+
+[^143]: "Stein, Rajatarangini, p. 66 and III, 129 n. There is also a Pravarasena of the Vâkâṭaka dyansty of the Deccan."
+
+[^144]: "P. 467, note 3, by Barth. As no author of the name of Parada is known, this passage may mean gold whose lustre is never dimmed."
 
 
 
-a Gunâdhya who does not like Prâkrit (which is a vulgar language compared to Sanscrit), a Viçâlâkṣa who is opposed to Nîti (the subtleties. of political craft), a Çura who has humiliated. Bhimaka (or a hero stronger than a Bhîma). Gunâdhya is the author of the Brihat-kathā(the ‘great story’) in l’râkrit. This work has been lost and survives only in the much later Sanscrit version of Somadeva of [Kashmir](# "Kathâ-sarit-sâgara."). Viçâlâkṣha is mentioned as a writer on Nîtiinhe Daçakumâracarita (c. 6th century A. D.) and as one who did not succeed in carrying out his own precepts. Çura is a Buddhist poet and is the author of the Jâtakamâls. Very little about him seems to be known, Bhimaka is now known only by some selections from his poetry in Sanscrit anthologies.
+a Gunâdhya who does not like Prâkrit (which is a vulgar language compared to Sanscrit), a Viçâlâkṣa who is opposed to Nîti (the subtleties. of political craft), a Çura who has humiliated. Bhimaka (or a hero stronger than a Bhîma). Gunâdhya is the author of the Brihat-kathā(the ‘great story’) in l’râkrit. This work has been lost and survives only in the much later Sanscrit version of Somadeva of Kashmir[^145]. Viçâlâkṣha is mentioned as a writer on Nîtiinhe Daçakumâracarita (c. 6th century A. D.) and as one who did not succeed in carrying out his own precepts. Çura is a Buddhist poet and is the author of the Jâtakamâls. Very little about him seems to be known, Bhimaka is now known only by some selections from his poetry in Sanscrit anthologies.
+
+[^145]: "Kathâ-sarit-sâgara."
 
  In the 16th stanza (p. 457) we have a reference to the poet Mayura:—“The sun has been satisfied with the eulogy in verse by Mayūra (a peacock or the poet of that name), but the king, to rival the sun, has his feet worshipped by a host of swans (or great princes) every day.” Mayūra was the father-in-law of Bâna, the court poet of Harṣa, and was the author of the Surya-Çataka (hundred stanzas in praise of the sun).
 
@@ -1222,13 +1510,17 @@ playing on words, forgets to mention Bâna who is a past master in this art. But
 
  In the 19th stanza (I. S. C. C., p. 478) we hear of a naval victory won by the king. “In a (maritime) expedition for victory, thousands of ships, stretching on all sides on the great sea, white with their sails (or white and black), have been dispersed by him, as in the days of yore, myriads of petals of the lotus of Brahmâ were scattered by Madhu and Kaitabha.”
 
- In stanza 26 on p. 479 there is another reference to Gunâdhya the author of Bribat-Kathâ:—“What to say of people who had only good qualities, he knew to put again in his proper place a [Gunâdhya](# "For the story of Gunâdhya and how he retired to the forest after having lost the wager, see Lacote's Essay on Gunâdhya and the Brihat-kathâ.") (the author of that name or a man of good qualities) whom he had blamed. before (in the case of the author for having used Prâkrit, and in the case of the person of good qualities for having some bad qualities too). Even poison can be a fine decoration when
+ In stanza 26 on p. 479 there is another reference to Gunâdhya the author of Bribat-Kathâ:—“What to say of people who had only good qualities, he knew to put again in his proper place a Gunâdhya[^146] (the author of that name or a man of good qualities) whom he had blamed. before (in the case of the author for having used Prâkrit, and in the case of the person of good qualities for having some bad qualities too). Even poison can be a fine decoration when
+
+[^146]: "For the story of Gunâdhya and how he retired to the forest after having lost the wager, see Lacote's Essay on Gunâdhya and the Brihat-kathâ."
 
 
 
 used by Hara—what to say of the moon (with her spots).”
 
- In stanza I, p. 488, Vātsyāyana, the author of the Kâmasutra, is mentioned:—“Simply by his (i. e., the king’s) graceful movements, rivalling with theirs, beautiful women have mastered the principles of the art of love as taught by Vātsyāyana and others.” In stanza 13, p. 485, the king is said to be the author of a commentary the Mahābhāshya of [Patanjali](# "This work is itself a commentary on Paṇini's grammar."):—“The Bhâshya, every word of which troubled the grammarians, as if it were poison from the mouth of the king of snakes (this is an allusion to the tradition that Pâtanjali was an incarnation of Çeṣa-Nâga), on account of his (the king’s)nectar-like commentary, issuing from his auspicious mouth, has again become usable for educational purposes.”
+ In stanza I, p. 488, Vātsyāyana, the author of the Kâmasutra, is mentioned:—“Simply by his (i. e., the king’s) graceful movements, rivalling with theirs, beautiful women have mastered the principles of the art of love as taught by Vātsyāyana and others.” In stanza 13, p. 485, the king is said to be the author of a commentary the Mahābhāshya of Patanjali[^147]:—“The Bhâshya, every word of which troubled the grammarians, as if it were poison from the mouth of the king of snakes (this is an allusion to the tradition that Pâtanjali was an incarnation of Çeṣa-Nâga), on account of his (the king’s)nectar-like commentary, issuing from his auspicious mouth, has again become usable for educational purposes.”
+
+[^147]: "This work is itself a commentary on Paṇini's grammar."
 
  In stanza 21, p. 505, we have a reference to the newly constructed capital:—“He, who defended Kambupuri (the capital of Kambuja), impregnable (Ayodhyâ), of terrifying aspect (Vibhishaṇa), with the aid of good counsellors (with Sumantra as his friend), and with prosperity (Sitâ) as its ornament, like the descendant of Raghu (i. e., like Râma who reigned over Ayodhyâ with Sumantra as his friend, Sitâ as ornament and Vibhishaâa as his guest).”
 
@@ -1236,15 +1528,21 @@ used by Hara—what to say of the moon (with her spots).”
 
  Allusions to Mahâbhârata and the Harivaṃça are frequent. The author of these inscriptions must have been very learned in classical Sanscrit literature, and it is a great pity that, instead of employing all the resources of his art for eulogising the king, he has not given us something more substantial.
 
- The 6th Hindu inscription engraved in North Indian [characters](# "I. S. C. C., p. 533.") is not a royal decree. It gives the genealogy and the pious works of Muni Çivaçakti who, as we have already seen (p. 83), belonged to a matriarchal family related to the queen of Jayavarman II.
+ The 6th Hindu inscription engraved in North Indian characters[^148] is not a royal decree. It gives the genealogy and the pious works of Muni Çivaçakti who, as we have already seen (p. 83), belonged to a matriarchal family related to the queen of Jayavarman II.
+
+[^148]: "I. S. C. C., p. 533."
 
 ***A Buddhist Inscription.***
 
- Now we come to the Buddhist inscription, discovered in the temple of Tep [Pranam](# "Ed. by M. Coedes, Journal Asiatique, March-April 1908,pp. 10-17."), quite close to the royal palace of Angkor Thom. It is also engraved in North Indian characters and is of the same series of royal inscriptions as those at the four corners of the lake Thnal Baray. But while the latter commemorate the foundation by Yaçovarman of a Hindu monastery, the Tep Pranam inscription deals with the foundation by the same monarch at the same time of a Buddhist monastery.
+ Now we come to the Buddhist inscription, discovered in the temple of Tep Pranam[^149], quite close to the royal palace of Angkor Thom. It is also engraved in North Indian characters and is of the same series of royal inscriptions as those at the four corners of the lake Thnal Baray. But while the latter commemorate the foundation by Yaçovarman of a Hindu monastery, the Tep Pranam inscription deals with the foundation by the same monarch at the same time of a Buddhist monastery.
+
+[^149]: "Ed. by M. Coedes, Journal Asiatique, March-April 1908,pp. 10-17."
 
 
 
- After the invocation to Çiva in the first two stanzas (which are the same as in the Thnal Baray series), here we have in the third stanza an invocation to Buddha. “He, who, after having himself comprehended, has made the three worlds understand the means of deliverance from the bonds of this life. Salutation to him, who has conferred the blessing of Nirvana, the Buddha of compassionate heart, whose feet are to be adored.” Then follow 15 stanzas containing the genealogy of the king exactly in the same words as in the digraphic inscriptions and in the Thnal Baray series. But the *praçasti* or eulogy which comes next (and consists of 28 stanzas) is quite original. In writing eulogies the pandits of Kambuja are inexhaustible. The 46th stanza would suffice as an example:—“What of the victory of Hari won over the enemy of [Aniruddha](# "Aniruddha is Kriṣṇa's grandson. Kriṣṇa liberated him while he was a prisoner in the handsof Bâṇa.") by revolving his cakra (disc)! He (the king) without revolving his dise has triumphed over a hundred indomitable (aniruddha) foes.” The next (47th) stanza states:—“King Yaçovarman, king of kings, the lord of the land of Kambu, has built this Saugatâçrama (Buddhist monastery) for the well-being of the Buddhists.” Then follows the çâsana laying down the regulations to be observed by the abbot, who has the same title
+ After the invocation to Çiva in the first two stanzas (which are the same as in the Thnal Baray series), here we have in the third stanza an invocation to Buddha. “He, who, after having himself comprehended, has made the three worlds understand the means of deliverance from the bonds of this life. Salutation to him, who has conferred the blessing of Nirvana, the Buddha of compassionate heart, whose feet are to be adored.” Then follow 15 stanzas containing the genealogy of the king exactly in the same words as in the digraphic inscriptions and in the Thnal Baray series. But the *praçasti* or eulogy which comes next (and consists of 28 stanzas) is quite original. In writing eulogies the pandits of Kambuja are inexhaustible. The 46th stanza would suffice as an example:—“What of the victory of Hari won over the enemy of Aniruddha[^150] by revolving his cakra (disc)! He (the king) without revolving his dise has triumphed over a hundred indomitable (aniruddha) foes.” The next (47th) stanza states:—“King Yaçovarman, king of kings, the lord of the land of Kambu, has built this Saugatâçrama (Buddhist monastery) for the well-being of the Buddhists.” Then follows the çâsana laying down the regulations to be observed by the abbot, who has the same title
+
+[^150]: "Aniruddha is Kriṣṇa's grandson. Kriṣṇa liberated him while he was a prisoner in the handsof Bâṇa."
 
 
 
@@ -1252,7 +1550,9 @@ of Kulâdhyakṣa here as in the Hindu inscription. The order of precedence here
 
 
 
-of good conduct, who are free from the duties of householders, having no other shelter in the rainy season, living on one meal per day, fulfilling the duties of their religion, should be lodged in the Saugatâçrama.” Then follows the account of the daily doles to be given to the bhikṣus and yatis who are devoted to studies:—“Four twig tooth-brushes, eight betelnuts, half an âdhaka of rice and sixty leaves of betel, one handful of dipikâ (digestive grain), and a faggot of wood—all this should be given to an âcârya,” To the aged Yatis, all these things, in a somewhat smaller quantity, are to be given, and to the younger yatis in still smaller quantities. Instead of the two kinds of ashes, the receptacle for ashes, etc., which are to be presented to âcâryas in the Çaiva âçrama, here in the Buddhist monastery the âcâryas and aged bhikṣus should have an incense vase, a jar, and a receptacle for fire per head to be carefully used for a period of four months. Among the sacred vessels here (stanza 94) we have the almsbowl in the place of the vase for ashes of the Çaiva âçrama (stanza 15, p. 431, I. S. C. C.). It is curious that the cakra is mentioned here among them. It may be the dharma-cakra, the wheel of life. Then the slaves, male and female, who are to serve turn by turn (stanzas 95-100), are [enumerated](# "The corresponding stanzas of the Thnal Baray series are missing. "):—“Two scribes, two
+of good conduct, who are free from the duties of householders, having no other shelter in the rainy season, living on one meal per day, fulfilling the duties of their religion, should be lodged in the Saugatâçrama.” Then follows the account of the daily doles to be given to the bhikṣus and yatis who are devoted to studies:—“Four twig tooth-brushes, eight betelnuts, half an âdhaka of rice and sixty leaves of betel, one handful of dipikâ (digestive grain), and a faggot of wood—all this should be given to an âcârya,” To the aged Yatis, all these things, in a somewhat smaller quantity, are to be given, and to the younger yatis in still smaller quantities. Instead of the two kinds of ashes, the receptacle for ashes, etc., which are to be presented to âcâryas in the Çaiva âçrama, here in the Buddhist monastery the âcâryas and aged bhikṣus should have an incense vase, a jar, and a receptacle for fire per head to be carefully used for a period of four months. Among the sacred vessels here (stanza 94) we have the almsbowl in the place of the vase for ashes of the Çaiva âçrama (stanza 15, p. 431, I. S. C. C.). It is curious that the cakra is mentioned here among them. It may be the dharma-cakra, the wheel of life. Then the slaves, male and female, who are to serve turn by turn (stanzas 95-100), are enumerated[^151]:—“Two scribes, two
+
+[^151]: "The corresponding stanzas of the Thnal Baray series are missing. "
 
 
 
@@ -1260,7 +1560,9 @@ custodians of the royal hut, two in chargeof books, two providers of the betel l
 
 *Angkor Thom or Yaçodharapura*.
 
- Let us now turn to the greatest achievement of Yaçovarman—the building of his capital Yaçodharapura (or Kambupuri). The Sdok Kak Thom [inscription](# "Finot, Notes d’Epigraphie, B.E.F.E.O., t. xv, II, p. 89.") states:—“Then His Majesty
+ Let us now turn to the greatest achievement of Yaçovarman—the building of his capital Yaçodharapura (or Kambupuri). The Sdok Kak Thom inscription[^152] states:—“Then His Majesty
+
+[^152]: "Finot, Notes d’Epigraphie, B.E.F.E.O., t. xv, II, p. 89."
 
 
 
@@ -1270,9 +1572,15 @@ Parama-Çivaloka (the posthumous name of Yaçovarman) founded the city of Yaçod
 
 
 
-of the Bayon exactly in the centre of the rectangular [city.](# "Aymonier, Histoire de l’Ancien Cambodge, 1920, p. 65.")
+of the Bayon exactly in the centre of the rectangular city.[^153]
 
- I shall try now to describe very briefly the magnificent ruins of the greatest city of Indo-China. A moat, 330 ft. broad, encircled the capital which had for its second line of defence a high wall of limonite. The city is a square each side of which is a little more than two miles. According to [Groslier](# "Grosliar, Angkor, pp. 35-36."), the habitations of the common people were for the greater partoutside the moat—the interior being reserved for the great temples and monasteries, the seat of the administration, and the mansions of the aristocracy. Very few cities in the whole world, in the 9th century A.D., could have rivalled Angkor in size and grandeur. Exactly in the centre of the great square rises the grand temple of the Bayon, the purest specimen of Khmer architecture. To the north of this edifice is a sort of vast forum round which are grouped other buildings. Three avenues lead from the city gates to the Bayon, and two others (there are 5 gates, two on the eastern side of the square, and one on each of the other sides) to the [forum](# "J. Commaille, Aux Ruines d’Angkor, p. 208."). The structures, which face the forum, are (from left to right) the Bayon, the Bapuon (built later), the Phimeanakas
+ I shall try now to describe very briefly the magnificent ruins of the greatest city of Indo-China. A moat, 330 ft. broad, encircled the capital which had for its second line of defence a high wall of limonite. The city is a square each side of which is a little more than two miles. According to Groslier[^154], the habitations of the common people were for the greater partoutside the moat—the interior being reserved for the great temples and monasteries, the seat of the administration, and the mansions of the aristocracy. Very few cities in the whole world, in the 9th century A.D., could have rivalled Angkor in size and grandeur. Exactly in the centre of the great square rises the grand temple of the Bayon, the purest specimen of Khmer architecture. To the north of this edifice is a sort of vast forum round which are grouped other buildings. Three avenues lead from the city gates to the Bayon, and two others (there are 5 gates, two on the eastern side of the square, and one on each of the other sides) to the forum[^155]. The structures, which face the forum, are (from left to right) the Bayon, the Bapuon (built later), the Phimeanakas
+
+[^153]: "Aymonier, Histoire de l’Ancien Cambodge, 1920, p. 65."
+
+[^154]: "Grosliar, Angkor, pp. 35-36."
+
+[^155]: "J. Commaille, Aux Ruines d’Angkor, p. 208."
 
 
 
@@ -1314,13 +1622,17 @@ central tower which is badly damaged but is still standing. From its height of 1
 
 the king is seated in a balcony, dressed only in a dhoti, with a necklace as the sole ornament. There are courtiers all round him, and, under the balcony, stags, bulls, a rhinoceros, a hare, etc., are led in procession by men. Funereal urns carried with great ceremony, princesses in palanquins, covered chariots drawn by oxen, fishing scenes, naval fights, elephants bringing on their backs chests full of booty from conquered countries or tribute from dependencies, Çiva burning with the fire of his eyes the god of love, etc., are represented in the reliefs.
 
- A very recent discovery at the Bayon has brought to light a series of pediments, on the porches of the second gallery, concealed (perhaps deliberately) by additions to the third stage, in which is represented Avalokiteçvara, standing on a lotus, with the figure of Amitâbha in his crest, holding in his hands the lotus, the book, the rosary and the glass, and surrounded by flying apsarâs. [M. Finot](# "Etudes Asiatiques, t. i, pp. 246-247.")is now of the opinion that the Bayon may originally have been a Mahayâna Buddhist temple dedicated to the Bodhisattva Avalokiteçvara, the incarnation of mercy.
+ A very recent discovery at the Bayon has brought to light a series of pediments, on the porches of the second gallery, concealed (perhaps deliberately) by additions to the third stage, in which is represented Avalokiteçvara, standing on a lotus, with the figure of Amitâbha in his crest, holding in his hands the lotus, the book, the rosary and the glass, and surrounded by flying apsarâs. M. Finot[^156]is now of the opinion that the Bayon may originally have been a Mahayâna Buddhist temple dedicated to the Bodhisattva Avalokiteçvara, the incarnation of mercy.
+
+[^156]: "Etudes Asiatiques, t. i, pp. 246-247."
 
  Leaving the Bayon, to the north-west of it is the Royal Terrace about 1,200 ft. in length and 13 ft. in height. It is probably the platform from which the aristocracy might have watched
 
 
 
-public spectacles in the amphitheatre [below](# "According to the inscriptions the king himself seems to have taken part in the feats of prowess in the public areas."). The reliefs on the front of the terrace are the most artistic in Kambuja. The elephants, nearly of life-size, are lifelike too.
+public spectacles in the amphitheatre below[^157]. The reliefs on the front of the terrace are the most artistic in Kambuja. The elephants, nearly of life-size, are lifelike too.
+
+[^157]: "According to the inscriptions the king himself seems to have taken part in the feats of prowess in the public areas."
 
  Behind the terrace is the site of the palacenow totally demolished. The only portion still standing is a pyramid-shaped temple Phimeanakas (Viman-akas—the sky-tower) in the courtyard of the palace. There was probably a wooden tower of magnificent design crowning the shrine which, according to an inscription, is a temple of Viṣṇu. Popular tradition however describes it as the royal bedchamber, where the Nâgi ancestress used to appear every night.
 
@@ -1340,7 +1652,9 @@ CHAPTER VII.
 
 **THE RISK OF BUDDHISM**.
 
- Harṣavarman, the elder son of Yaçovarman, and Içânavarman II, the younger son, ascended the throne at Yaçodharapura (Angkor Thom) one after the other on their father’s death. We do not know when the first ceased to rule and was succeeded by his second brother. Their posthumous names were Rudraloka and Paramarudraloka respectively, and their âcârya (the priest of the Royal God) was Kumârasvâmî, the nephew of Çivâçrama. The inscription of Phimeanakas (Vimânâkâça), dated 832 ç.e. (910 A.D.), should probably be put early in the reign of Harṣavarman. It is a Vaiṣṇava inscription. and in the second [stanza](# "I. S. C. C., p. 549.") we get:—“I saluteViṣṇu, who is to be meditated upon, on whose breast rests Lakṣmî, and in whose arms the earth, and on the lotus springing from whose navel dwells for ever Brahma....”Then we have :—“There was a king of kings, Çrî Yaçovarman, whose orders were borne on their heads by innumerable kings, and who was mighty as Indra or Upendra (Viṣṇu)... His glory, giving greater
+ Harṣavarman, the elder son of Yaçovarman, and Içânavarman II, the younger son, ascended the throne at Yaçodharapura (Angkor Thom) one after the other on their father’s death. We do not know when the first ceased to rule and was succeeded by his second brother. Their posthumous names were Rudraloka and Paramarudraloka respectively, and their âcârya (the priest of the Royal God) was Kumârasvâmî, the nephew of Çivâçrama. The inscription of Phimeanakas (Vimânâkâça), dated 832 ç.e. (910 A.D.), should probably be put early in the reign of Harṣavarman. It is a Vaiṣṇava inscription. and in the second stanza[^158] we get:—“I saluteViṣṇu, who is to be meditated upon, on whose breast rests Lakṣmî, and in whose arms the earth, and on the lotus springing from whose navel dwells for ever Brahma....”Then we have :—“There was a king of kings, Çrî Yaçovarman, whose orders were borne on their heads by innumerable kings, and who was mighty as Indra or Upendra (Viṣṇu)... His glory, giving greater
+
+[^158]: "I. S. C. C., p. 549."
 
 
 
@@ -1348,27 +1662,45 @@ delight than the rays of the autumn moon, is sung even now by people in their ga
 
 *Harṣavarman I and Içânavarman II.*
 
- The inscription of Vat Chacret, the Khmer portion of which gives the date 834 ç.e., gives the name of [Harṣavarman](# "I. S. C. C., p. 554."). “There was a king of kings named Çrî Harṣavarman, son of Çrî Yaçovarman; rendered happy by a new prosperity, he shone like Çrînivâsa (Kṛṣṇa). This sovereign of Kambuja, whose qualities were sung by the whole world, has given to the Lord (the god) of Adrîvyâdhapura (the town of the hunters of the mountain) six beautiful [female](# "Cf. the devadâsis of South Indian temples.")slavesfor (service in the temple) every fortnight.”
+ The inscription of Vat Chacret, the Khmer portion of which gives the date 834 ç.e., gives the name of Harṣavarman[^159]. “There was a king of kings named Çrî Harṣavarman, son of Çrî Yaçovarman; rendered happy by a new prosperity, he shone like Çrînivâsa (Kṛṣṇa). This sovereign of Kambuja, whose qualities were sung by the whole world, has given to the Lord (the god) of Adrîvyâdhapura (the town of the hunters of the mountain) six beautiful female[^160]slavesfor (service in the temple) every fortnight.”
+
+[^159]: "I. S. C. C., p. 554."
+
+[^160]: "Cf. the devadâsis of South Indian temples."
 
 
 
- The Sanscrit inscription of Vat [Thipdei](# "Aymonier, Le Cambodge, t. ii, p. 379.") (Adhipati) contains the eulogy of the kings Yaçovarman, Harṣavarman and Içânavarman (II), and then mentions the pious foundations of Çikhâçiva, the minister of Içânavarman.
+ The Sanscrit inscription of Vat Thipdei[^161] (Adhipati) contains the eulogy of the kings Yaçovarman, Harṣavarman and Içânavarman (II), and then mentions the pious foundations of Çikhâçiva, the minister of Içânavarman.
 
- The Khmer inscription of Phnom Preah [Vihar](# "Ibid, p. 209.") speaks of Çrî Vîralakṣmî, the queen of the king Sûryavarman I, as a princess of the royal line of Harṣavarman, who has gone to Rudraloka, and Içânavarman, who had gone to Paramarudraloka. The inscription speaks of families “who kept the annals of the descendants of Kambu, and who preserved the annals describing the glory of the rulers of the earth from Çrutavarman (the semi-legendary founder of the Solar dynasty of Kambuja) to Suryavarman I.”The copies ofthese annals were apparently kept in the temples of Çrî Çikharîçvara and Çrî Vriddheçvara.
+[^161]: "Aymonier, Le Cambodge, t. ii, p. 379."
 
- Another Khmer inscription of Tuol [Pei](# "Aymonier, Le Cambodge, t. i, p. 443."), dated 844 ç.e. (922 A.D.), gives the order of a king (whose name is not given but who must be Içânavarman II) addressed to a noble Mratân Çrî Marendrârimathana—asking him to procure from Vap Cina (a Chinese gentleman?) slaves, gold, silver, etc., apparently for a temple.
+ The Khmer inscription of Phnom Preah Vihar[^162] speaks of Çrî Vîralakṣmî, the queen of the king Sûryavarman I, as a princess of the royal line of Harṣavarman, who has gone to Rudraloka, and Içânavarman, who had gone to Paramarudraloka. The inscription speaks of families “who kept the annals of the descendants of Kambu, and who preserved the annals describing the glory of the rulers of the earth from Çrutavarman (the semi-legendary founder of the Solar dynasty of Kambuja) to Suryavarman I.”The copies ofthese annals were apparently kept in the temples of Çrî Çikharîçvara and Çrî Vriddheçvara.
+
+[^162]: "Ibid, p. 209."
+
+ Another Khmer inscription of Tuol Pei[^163], dated 844 ç.e. (922 A.D.), gives the order of a king (whose name is not given but who must be Içânavarman II) addressed to a noble Mratân Çrî Marendrârimathana—asking him to procure from Vap Cina (a Chinese gentleman?) slaves, gold, silver, etc., apparently for a temple.
+
+[^163]: "Aymonier, Le Cambodge, t. i, p. 443."
 
  Aymonier would assign to the sons of Yaçovarman the construction of the temple of Banteai
 
 
 
-Kedei, to the east of Angkor Thom, with a deep tank in front which has not yet dried up. The neighbouring temple of Ta Prom has also got the same features such as towers with the four sides shaped as human faces, concentric galleries, and a sanctuary of the form of a cross. Both seem to be Buddhist shrines and may be ascribed to the same [period](# "Aymonier, Histoire de l’Ancient Cambodge (1920), pp. 108-09.").
+Kedei, to the east of Angkor Thom, with a deep tank in front which has not yet dried up. The neighbouring temple of Ta Prom has also got the same features such as towers with the four sides shaped as human faces, concentric galleries, and a sanctuary of the form of a cross. Both seem to be Buddhist shrines and may be ascribed to the same period[^164], pp. 108-09.").
+
+[^164]: "Aymonier, Histoire de l’Ancient Cambodge (1920
 
 *Jayavarman IV.*
 
- The next king was Jayavarman IV, the husband of Yaçovarman’s sister. Perhaps he was an usurper as, during the reign of his nephew Içânavarman II, we find him as the adhipati (Viceroy) of Koh Ker, the place to which he (Jayavarman) removed the capital on ascending, the throne in 850 ç.e. The Koh Ker inscription, which is dated 843ç.e., is badly damaged, but the third [stanza](# "Barth’s note, p. 560, I. S. C. C.")seems to indicate that Jayavarman was associated in royal powers conjointly with his predecessor (his nephew Içânavarman II).
+ The next king was Jayavarman IV, the husband of Yaçovarman’s sister. Perhaps he was an usurper as, during the reign of his nephew Içânavarman II, we find him as the adhipati (Viceroy) of Koh Ker, the place to which he (Jayavarman) removed the capital on ascending, the throne in 850 ç.e. The Koh Ker inscription, which is dated 843ç.e., is badly damaged, but the third stanza[^165]seems to indicate that Jayavarman was associated in royal powers conjointly with his predecessor (his nephew Içânavarman II).
 
- The brief Sanscrit inscription of Prasat Neang [Khman](# "Aymonier, Le Cambodge, t. i, p. 183.") (the tower of the black lady) gives the date 850ç.e. (928 A.D.) for the accession of Jayavarman IV. The Sdok Kak Thom inscription [states](# "Finot, Notes d’ Epigraphile, B. E. F. E. O., t. xv, II, p. 90."):—“The king Paramaçivapada
+[^165]: "Barth’s note, p. 560, I. S. C. C."
+
+ The brief Sanscrit inscription of Prasat Neang Khman[^166] (the tower of the black lady) gives the date 850ç.e. (928 A.D.) for the accession of Jayavarman IV. The Sdok Kak Thom inscription states[^167]:—“The king Paramaçivapada
+
+[^166]: "Aymonier, Le Cambodge, t. i, p. 183."
+
+[^167]: "Finot, Notes d’ Epigraphile, B. E. F. E. O., t. xv, II, p. 90."
 
 
 
@@ -1380,7 +1712,9 @@ Kedei, to the east of Angkor Thom, with a deep tank in front which has not yet d
 
 
 
- On the lintel of the tower of the principal temple Viṣṇu is represented in his Nrisiṃha (man-lion) incarnation killing Hiranyakaçipu(the demon king). There is also the figure of Viṣṇu in relief on the pediment of the main gate of the temple. The fragments of a colossal statue (about 16 ft. in height), representing a king (perhaps Jayavarman IV), have also been found within the temple precincts. Traces of wooden statues of the Buddha have also been [discovered](# "Aymonier, Le Cambodge, t. i, p. 397 et seq.").
+ On the lintel of the tower of the principal temple Viṣṇu is represented in his Nrisiṃha (man-lion) incarnation killing Hiranyakaçipu(the demon king). There is also the figure of Viṣṇu in relief on the pediment of the main gate of the temple. The fragments of a colossal statue (about 16 ft. in height), representing a king (perhaps Jayavarman IV), have also been found within the temple precincts. Traces of wooden statues of the Buddha have also been discovered[^168].
+
+[^168]: "Aymonier, Le Cambodge, t. i, p. 397 et seq."
 
  Thirty-five Khmer inscriptions, badly damaged, have been found on a petty monument north-east of the great tank. These, as far as they can be deciphered, contain interminable lists of slaves dedicated to temples. “Tai (femaleservant), tai rat, tai pau, si (male servant), si rat, si pau”thus goes on the list (rat and paumean two classes of servants), and there are about 4,000 such entries.
 
@@ -1390,13 +1724,17 @@ Kedei, to the east of Angkor Thom, with a deep tank in front which has not yet d
 
 
 
-inscription of Kedei [Char](http://॑# "Ibid, p. 372."). The noble Kavindrârimathana, who, as we shall see, plays an important rôle in the next reign, is already mentioned in this inscription. The new ruler also resided at Koh Ker. He is mentioned by his posthumous name of Brahmaloka in the Khmer inscription of Rolom [Tim](# "Aymonier Le Cambodge, t. i, pp. 246-247.") in connection with a law-suit :—“In the time of the king, who has gone to Brahmaloka, a certain person, Vap Rau, had borrowed a buffalo from Sten (Brahman?) of Vnam Cren (a temple?). In order to be exempted from the royal corvée he gave the buffalo to Vap Nos—the head of the collectors of the paddy tax. In exchange for the buffalo, Vap Rau gave a slave, the tai Kan Hyan (the “shell”) to Sten of Vnam Çren, who dedicated her to service in the temple of Çivapattan. In a short time this woman took to flight. Then Sten asked Vap Rau to replace her. At first he consented and promised to give the tai Kampit (the ‘knife’) to replace Kan Hyan in the service of the temple, But afterwards he refused to hand her over to Sten. He was tried and found guilty. The tai Kampit was handed over to Sten, who employed her in the service of God—Judge—The Kamsten An Çri Bhupativarman; Assistants—the Lon Pitrânandana, the Lon I, the Lon Anandana, the Lon Panditâcârya; witnesses—the Mratan
+inscription of Kedei [Char](http://॑# "Ibid, p. 372."). The noble Kavindrârimathana, who, as we shall see, plays an important rôle in the next reign, is already mentioned in this inscription. The new ruler also resided at Koh Ker. He is mentioned by his posthumous name of Brahmaloka in the Khmer inscription of Rolom Tim[^169] in connection with a law-suit :—“In the time of the king, who has gone to Brahmaloka, a certain person, Vap Rau, had borrowed a buffalo from Sten (Brahman?) of Vnam Cren (a temple?). In order to be exempted from the royal corvée he gave the buffalo to Vap Nos—the head of the collectors of the paddy tax. In exchange for the buffalo, Vap Rau gave a slave, the tai Kan Hyan (the “shell”) to Sten of Vnam Çren, who dedicated her to service in the temple of Çivapattan. In a short time this woman took to flight. Then Sten asked Vap Rau to replace her. At first he consented and promised to give the tai Kampit (the ‘knife’) to replace Kan Hyan in the service of the temple, But afterwards he refused to hand her over to Sten. He was tried and found guilty. The tai Kampit was handed over to Sten, who employed her in the service of God—Judge—The Kamsten An Çri Bhupativarman; Assistants—the Lon Pitrânandana, the Lon I, the Lon Anandana, the Lon Panditâcârya; witnesses—the Mratan
+
+[^169]: "Aymonier Le Cambodge, t. i, pp. 246-247."
 
 
 
 Çri Dharaṇîndrapakalpa, the Sten An......the ‘usher’ of the sacred court of Justice.”
 
- Harṣavarman II reigned only two years and was succeeded by his elder brother Râjendravarman in 866 ç.e.(944 A. D.). The old Khmer story of Prince Baksei (Skt. pakṣi bird) Chan Krang (whom the bird covered) is supposed by [Aymonier](# " Le Cambodge, t. i, p. 219.") to refer to this prince. According to the story, he had to fly from the wrath of his brother, the king, whom, according to a prophecy, he was to replace. He had to hide himself in a rock behind the temple of Phnom Baset. It was probably after a bloody fratricidal struggle that Râjendravarman ascended the throne, and in order to get away from a place associated with his brother, he abandoned Koh Ker and returned to Yaçodharapura (Angkor Thom).
+ Harṣavarman II reigned only two years and was succeeded by his elder brother Râjendravarman in 866 ç.e.(944 A. D.). The old Khmer story of Prince Baksei (Skt. pakṣi bird) Chan Krang (whom the bird covered) is supposed by Aymonier[^170] to refer to this prince. According to the story, he had to fly from the wrath of his brother, the king, whom, according to a prophecy, he was to replace. He had to hide himself in a rock behind the temple of Phnom Baset. It was probably after a bloody fratricidal struggle that Râjendravarman ascended the throne, and in order to get away from a place associated with his brother, he abandoned Koh Ker and returned to Yaçodharapura (Angkor Thom).
+
+[^170]: " Le Cambodge, t. i, p. 219."
 
 *Râjendravarman returns to Angkor.*
 
@@ -1404,13 +1742,21 @@ inscription of Kedei [Char](http://॑# "Ibid, p. 372."). The noble Kavindrârim
 
 
 
- Before we proceed to the long Sanscrit inscriptions of this reign, we may as well examine some of the Khmer inscriptions, which, though of a humbler character, discuss rights of property, law suits, etc. Several inscriptions of Râjendravarman record royal decisions regarding the proper boundaries of estates belonging to temples or private individuals. The (Khmer) inscription of Neak Ta [Charek](# "Le Cambodge, t. i, pp. 384-5.") is a copy of a judgment of a law court:—“In884 ç.e. (962 A. D.) a royal order from His Majesty commanded (the court), to go and try the case of the Mratan (a title of nobility) Kurun Virabhaktigarjita, lord of the territory of Virapura, who had sent (some of his followers) to destroy the field boundaries, and to reap the rice harvest of the plot of land belonging to Vâp (father) Nâc. Now the Mratan Çri Virendravarman and the Mratan Nripendrârimathana had previously purchased the land from Vâp Nâc, and had respectfully asked from His Majesty a royal order of donation, together with the fixing of boundaries, in favour of Vâp Cû and his family—(sole proprietors) in the future. It was of this plot of land, givenby royal sanction that the Mratan Kurun hast destroyed the boundaries and reaped the rice harvest. The case being tried, the Mratan
+ Before we proceed to the long Sanscrit inscriptions of this reign, we may as well examine some of the Khmer inscriptions, which, though of a humbler character, discuss rights of property, law suits, etc. Several inscriptions of Râjendravarman record royal decisions regarding the proper boundaries of estates belonging to temples or private individuals. The (Khmer) inscription of Neak Ta Charek[^171] is a copy of a judgment of a law court:—“In884 ç.e. (962 A. D.) a royal order from His Majesty commanded (the court), to go and try the case of the Mratan (a title of nobility) Kurun Virabhaktigarjita, lord of the territory of Virapura, who had sent (some of his followers) to destroy the field boundaries, and to reap the rice harvest of the plot of land belonging to Vâp (father) Nâc. Now the Mratan Çri Virendravarman and the Mratan Nripendrârimathana had previously purchased the land from Vâp Nâc, and had respectfully asked from His Majesty a royal order of donation, together with the fixing of boundaries, in favour of Vâp Cû and his family—(sole proprietors) in the future. It was of this plot of land, givenby royal sanction that the Mratan Kurun hast destroyed the boundaries and reaped the rice harvest. The case being tried, the Mratan
+
+[^171]: "Le Cambodge, t. i, pp. 384-5."
 
 
 
-Kurun was found guilty, and it was discovered that he had done this at the instigation of Vâp Amrita. Therefore the tribunal has sentenced the Mratan Kurun to a fine of [10](# "The word is missing here.")...of gold. Vâp Çri, his younger brother, who ordered the reaping of the rice harvest, has been condemned to be flogged 102 times on the back. Vâp Amrita is also to be flogged the same number of times. The land is to be restored to Vâp Cu and his family. The boundaries are fixed to the east, west, north and south.”Anotherinscription (Trepeang [Sambot](# "Aymonier, Le Cambodge, t. i, pp. 165-6.")) tells us of a petition of some Brahmans to Râjendravarman, in the year of his accession, reminding His Majesty that the slaves, elephants, cows, etc. (attached to a certain temple) constituted an old royal gift in the past. The royal answer to the petition was a royal order to two Kamsten (princes or ministers) that they should maintain the inviolability of the sacred property, setting aside all claims, judicial or otherwise, and preventing alienation.
+Kurun was found guilty, and it was discovered that he had done this at the instigation of Vâp Amrita. Therefore the tribunal has sentenced the Mratan Kurun to a fine of 10[^172]...of gold. Vâp Çri, his younger brother, who ordered the reaping of the rice harvest, has been condemned to be flogged 102 times on the back. Vâp Amrita is also to be flogged the same number of times. The land is to be restored to Vâp Cu and his family. The boundaries are fixed to the east, west, north and south.”Anotherinscription (Trepeang Sambot[^173]) tells us of a petition of some Brahmans to Râjendravarman, in the year of his accession, reminding His Majesty that the slaves, elephants, cows, etc. (attached to a certain temple) constituted an old royal gift in the past. The royal answer to the petition was a royal order to two Kamsten (princes or ministers) that they should maintain the inviolability of the sacred property, setting aside all claims, judicial or otherwise, and preventing alienation.
 
- The Sanscrit inscription of Baksei [Chamkron](# "Ed. by M. Coedes, Journ. Asiatique, May-June, 1909."), as we have already seen in Chapter II, gives a long genealogy going back several centuries. It is dated 869 ç.e., and commemorates the consecration of a golden Parameçvara. After the
+[^172]: "The word is missing here."
+
+[^173]: "Aymonier, Le Cambodge, t. i, pp. 165-6."
+
+ The Sanscrit inscription of Baksei Chamkron[^174], as we have already seen in Chapter II, gives a long genealogy going back several centuries. It is dated 869 ç.e., and commemorates the consecration of a golden Parameçvara. After the
+
+[^174]: "Ed. by M. Coedes, Journ. Asiatique, May-June, 1909."
 
 
 
@@ -1420,23 +1766,31 @@ invocation to Çiva, Viṣṇu, Brahmâ, Çiva-Viṣṇu (Hari-Hara), Çiva-Dev�
 
 ***The King’s Buddhist Minister.***
 
- The inscription of Bat [Cum](# "Ed. by M, Coedes, Journ. Asiatique, September-October, 1908."), which belongs also to this reign, is not half-heartedly Buddhist as the Tap Prenam inscription of Yaçovarman. It does not begin with an invocation to Çiva, as
+ The inscription of Bat Cum[^175], which belongs also to this reign, is not half-heartedly Buddhist as the Tap Prenam inscription of Yaçovarman. It does not begin with an invocation to Çiva, as
+
+[^175]: "Ed. by M, Coedes, Journ. Asiatique, September-October, 1908."
 
 
 
 the other, but, though quite orthodox in tone, it could not afford to ignore, as we shall see, the sister religion which was still dominant. It really consists of three different Sanscrit inscriptions, each written by a different poet, whose names have been recorded (which is quite an unusual feature). The theme however of the three inscriptions is the same. After the invocation to Buddha and other Buddhist divinities, there is an eulogy of the king and a mention of the buildings constructed by him. Then follows the eulogy of his Buddhist minister Kavîndrârimathana and an enumeration of his works of piety.
 
- The first inscription of Bat Cum is the composition of Indrapandita:—“May (the [Buddha](# "The first stanza is partially effaced,")) be triumphant, he who has devoted himself to the good of others and has acquired omniscience and the peace supreme and blissful. Victory to Lokeçvara (Avalokiteçvara), born for the good of the world, he who has shown the four noble truths and, establishing the Dharma on a very firm footing, has lent it the lustre of his four arms. The invincible Vajrapâni, who has vanquished the hostile demon, and wields the flaming thunderbolt, and is skilled in destroying the heap of obstacles raised by the stream of sins committed by the proud Dânavas and Kali.... There was a king of the lunar race, whose footstool
+ The first inscription of Bat Cum is the composition of Indrapandita:—“May (the Buddha[^176]) be triumphant, he who has devoted himself to the good of others and has acquired omniscience and the peace supreme and blissful. Victory to Lokeçvara (Avalokiteçvara), born for the good of the world, he who has shown the four noble truths and, establishing the Dharma on a very firm footing, has lent it the lustre of his four arms. The invincible Vajrapâni, who has vanquished the hostile demon, and wields the flaming thunderbolt, and is skilled in destroying the heap of obstacles raised by the stream of sins committed by the proud Dânavas and Kali.... There was a king of the lunar race, whose footstool
+
+[^176]: "The first stanza is partially effaced,"
 
 
 
-shone with star-like gems culled from all the mines of the world, the king Çri Râjendravarman (crowned) in 866 ç.e., from whose body gleamed [radiance......](# "Stanza xiii, p. 227.") He restored the city of Yaçodharapura, which had remained empty for a long time, and made it, as Kuça did for Ayodhyâ, superb like Indra’s abode on this earth with houses decked with gold and towers adorned with gems. On the mount erected by him, like the peak of Meru, in the middle of the Yaçodhara lake covered with palaces and houses adorned with gems, he consecrated a Virinca (Brahmâ), a Devi, an Iça (Çiva), a Çârngî (Viṣṇu), and a Çivalinga. This king had a servant, wise, pious, and a great favourite of his, who bore the significant name of Kavîndrârimathana (he who crushes the enemies of the king of the wise). This (servant), who showed no pride on account of the success of his policy, prided himself onthe distinctions which he had obtained from the king, such as a belt, a palanquin, a vessel of cocoanut shell, ear-rings, etc. He was the foremost of those distinguished for piety, on account of his own piety, the best of artists, on account of skill in art, the richest among the rich, on account of his wealth, the wisest among the intelligent, on account of his knowledge of human (mind)....... In 875 ç.e. this wise and eminent Buddhist set up here with devotion a great image of Buddha, a
+shone with star-like gems culled from all the mines of the world, the king Çri Râjendravarman (crowned) in 866 ç.e., from whose body gleamed radiance......[^177] He restored the city of Yaçodharapura, which had remained empty for a long time, and made it, as Kuça did for Ayodhyâ, superb like Indra’s abode on this earth with houses decked with gold and towers adorned with gems. On the mount erected by him, like the peak of Meru, in the middle of the Yaçodhara lake covered with palaces and houses adorned with gems, he consecrated a Virinca (Brahmâ), a Devi, an Iça (Çiva), a Çârngî (Viṣṇu), and a Çivalinga. This king had a servant, wise, pious, and a great favourite of his, who bore the significant name of Kavîndrârimathana (he who crushes the enemies of the king of the wise). This (servant), who showed no pride on account of the success of his policy, prided himself onthe distinctions which he had obtained from the king, such as a belt, a palanquin, a vessel of cocoanut shell, ear-rings, etc. He was the foremost of those distinguished for piety, on account of his own piety, the best of artists, on account of skill in art, the richest among the rich, on account of his wealth, the wisest among the intelligent, on account of his knowledge of human (mind)....... In 875 ç.e. this wise and eminent Buddhist set up here with devotion a great image of Buddha, a
+
+[^177]: "Stanza xiii, p. 227."
 
 
 
 Divyadevi (Prajñâpâramitâ), together with a Vajrapâni, in the midst of a great many palaces and houses—as if in his own excellent heart. In 868 ç.e. he erected at Jayantadeça a statue of Jina (the Buddha), in 872 ç.e. at Kutiçvara a Lokanâtha and two Devis. With the exception of the excellent Brahman, the hotar, no one else should bathe here, in the pure transparent water coming down from the sacred peak of Mount Mahendra (which is collected) in the auspicious trench here, which though small in size confers great merit.”Then follows an injunction thatelephants should not be allowed even to approach this holy place lest should crush the embankment. In the last couplet we have:—“The meritorious work of others should be preserved as well as the meritorious work of one’s own.”Then follows a Khmer sentencethat the Mratan Çri Indrapandita has written these lines.
 
- The first stanza of the second [inscription](# "Journ. Asiat., Sept.-Octob., 1908, p. 230.")is specially interesting as the poet Râmabhâgavata gives here a definition of Buddhism which he knows is something new and orthodox :—“Letthe Buddha give you the Bodhi, by Whom has been taught well the philosophy denying the existence of the individual soul and teaching the cult of the universal soul though (the two teachings seem to be) contradictory.”The third stanza
+ The first stanza of the second inscription[^178]is specially interesting as the poet Râmabhâgavata gives here a definition of Buddhism which he knows is something new and orthodox :—“Letthe Buddha give you the Bodhi, by Whom has been taught well the philosophy denying the existence of the individual soul and teaching the cult of the universal soul though (the two teachings seem to be) contradictory.”The third stanza
+
+[^178]: "Journ. Asiat., Sept.-Octob., 1908, p. 230."
 
 
 
@@ -1450,11 +1804,15 @@ is addressed to Prajñâpâramitâ:—“May Prajñâpâramitâ preserve you fro
 
 Etudes Cambodgiennes, B.E.F.E.O., XI), which corroborates the tradition which still names as libraries the small buildings generally located to the east of a shrine. Found in such a place this inscription states that this library (pustakâçrama) was built by Hiranyaruci.
 
- M. Georges Maspero, in his ‘Le Geographie Politique de L’Indo-Chine aux environs de 960 A.D.,’states, on the authority of the chronicle of Yonaka, that the principalities of Sukhodaya, Haribhunjaya, Suvarṇagrâma (all the three were in North Siam), and Alâvirâṣṭra (which laybetween Siam and Yunnan) were vassal states of Kambuja at this period. This expansion towards the north-west is stated to have begun in the 9th [century](# "Etudes Asiatiques, 1925, t. ii, p. 79 and seq.").
+ M. Georges Maspero, in his ‘Le Geographie Politique de L’Indo-Chine aux environs de 960 A.D.,’states, on the authority of the chronicle of Yonaka, that the principalities of Sukhodaya, Haribhunjaya, Suvarṇagrâma (all the three were in North Siam), and Alâvirâṣṭra (which laybetween Siam and Yunnan) were vassal states of Kambuja at this period. This expansion towards the north-west is stated to have begun in the 9th century[^179].
+
+[^179]: "Etudes Asiatiques, 1925, t. ii, p. 79 and seq."
 
 ***Jayavarman V.***
 
- Râjendravarman was succeeded by his son Jayavarman V in 890 ç.e. (968 A.D.). The inscription of Prea [Eynkosey](# "I.S.C.C., p. 84et seq."), dated 890 ç.e., mentions both him and his father. The invocation is striking:—“The One (God) spreading Himself in fire, wind, and the sun, and united (again) in the sweet sound of the letters of the Udgitha (OM) (may He protect you).”Then there is a reference to a prince of Aninditapura, of the
+ Râjendravarman was succeeded by his son Jayavarman V in 890 ç.e. (968 A.D.). The inscription of Prea Eynkosey[^180], dated 890 ç.e., mentions both him and his father. The invocation is striking:—“The One (God) spreading Himself in fire, wind, and the sun, and united (again) in the sweet sound of the letters of the Udgitha (OM) (may He protect you).”Then there is a reference to a prince of Aninditapura, of the
+
+[^180]: "I.S.C.C., p. 84et seq."
 
 
 
@@ -1462,7 +1820,9 @@ race of Kaundinya (the lunar race), who was a predecessor of Râjendravarman. �
 
 
 
-following stanzas we have:—“The youngersister of this (king), of far-spread renown, the daughter of King Râjendravarman, Indralakṣmi, the wife of the illustrious Brahman, has erected lovingly the image of her own mother in the year 890 ç.e. The son-in-law of the ruler of the earth, named Râjendravarman,... the brother-in-law of king Çri Jayavarman—the deva Bhatta Divâkara, having set up in the Madhuvana three divinities, consecrated them to Bhadreçvara. Being provided with a carriage of gold and other precious objects, glittering with wonderful ornaments and jewels, presented with abundant land, silver, copper, gold, cattle, slaves, female slaves, buffaloes, horses and elephants,—and having made Bhadreçvara the sole (possessor) of all those sources of enjoyment, the deva (Divâkara) himself ordered six khârikâs of rice to be given yearly for food to those who came to this place.”In the 28th stanza is given thebirthplace of the Brahman Divâkara:—“There, where the lovely [Kâliṅdi](# "The Yamuna (Jumna).") (flows), where the (land) echoes with the mantras of Ric, Yajus, and Sâm repeated at each savana (tri-sandhyâ) by 36,000 Brahmans, there—where Kriṣṇa, who trampled on the black snake, the destroyer of the Daityas, played in his childhood—there was born this deva, the Bhatta called Divâkara.”So the son-in-law of the king of Kambuja was a
+following stanzas we have:—“The youngersister of this (king), of far-spread renown, the daughter of King Râjendravarman, Indralakṣmi, the wife of the illustrious Brahman, has erected lovingly the image of her own mother in the year 890 ç.e. The son-in-law of the ruler of the earth, named Râjendravarman,... the brother-in-law of king Çri Jayavarman—the deva Bhatta Divâkara, having set up in the Madhuvana three divinities, consecrated them to Bhadreçvara. Being provided with a carriage of gold and other precious objects, glittering with wonderful ornaments and jewels, presented with abundant land, silver, copper, gold, cattle, slaves, female slaves, buffaloes, horses and elephants,—and having made Bhadreçvara the sole (possessor) of all those sources of enjoyment, the deva (Divâkara) himself ordered six khârikâs of rice to be given yearly for food to those who came to this place.”In the 28th stanza is given thebirthplace of the Brahman Divâkara:—“There, where the lovely Kâliṅdi[^181].") (flows), where the (land) echoes with the mantras of Ric, Yajus, and Sâm repeated at each savana (tri-sandhyâ) by 36,000 Brahmans, there—where Kriṣṇa, who trampled on the black snake, the destroyer of the Daityas, played in his childhood—there was born this deva, the Bhatta called Divâkara.”So the son-in-law of the king of Kambuja was a
+
+[^181]: "The Yamuna (Jumna
 
 
 
@@ -1470,7 +1830,9 @@ Brahman from Brindâvan in North India, and thus the name Madhuvana, which he ga
 
 ***Another Buddhist Minister.***
 
- The inscription of Srey (Çri) [Santhor](# "Revue Archeologique, 1883, pp. 182-192. “Une inscription Buddhique du Cambodge”by Senart."), belonging to this reign, is Buddhist, and reveals the rapidly rising importance of Buddhism in the state at this period. Kirtîpandita, the minister of Jayavarman V, had caused it to be engraved. Stanzas 51 to 100 contain the instructions of the king, promulgated by the minister, in support of the moral teaching and the doctrines of Buddhism. The invocation is to the three Kâyas (Dharma Kâya, Sambhoga Kâya and Nirmâna Kâya) of Mahâyâna Buddhism:—“I salute the Dharma Kâya (the body of the law) which, disengaged from the material (world), like the moon freed from eclipse, shining in pure hearts as the moon glitters in clear waters, invests everything with its radiance like the moon. Bow down to the Sambhoga Kâya (the body of bliss), which is for the body of the law as is the sun’s orb for the sun, indispensable to the Buddhas for manifesting (to the world) truth in all its variety.
+ The inscription of Srey (Çri) Santhor[^182], belonging to this reign, is Buddhist, and reveals the rapidly rising importance of Buddhism in the state at this period. Kirtîpandita, the minister of Jayavarman V, had caused it to be engraved. Stanzas 51 to 100 contain the instructions of the king, promulgated by the minister, in support of the moral teaching and the doctrines of Buddhism. The invocation is to the three Kâyas (Dharma Kâya, Sambhoga Kâya and Nirmâna Kâya) of Mahâyâna Buddhism:—“I salute the Dharma Kâya (the body of the law) which, disengaged from the material (world), like the moon freed from eclipse, shining in pure hearts as the moon glitters in clear waters, invests everything with its radiance like the moon. Bow down to the Sambhoga Kâya (the body of bliss), which is for the body of the law as is the sun’s orb for the sun, indispensable to the Buddhas for manifesting (to the world) truth in all its variety.
+
+[^182]: "Revue Archeologique, 1883, pp. 182-192. “Une inscription Buddhique du Cambodge”by Senart."
 
 
 
@@ -1498,14 +1860,20 @@ the moon comes out again freed from the clouds of the rainy season. In his perso
 
  So here we find Jayavarman V in the rôle of Açoka attempting to propagate the moral teachings of Buddha by royal instructions intended for the public.
 
- The inscription of Phnom Banteai [Neang](# "Aymonier, Le Cambodge, t. ii, p. 306 et seq.") (partly Sanscrit, partly Khmer) is engraved round a small bas-relief representing the seated Buddha. It deals with the consecration of a statue of the “Mother of the Buddhas”(Prajñapâramitâ) by Tribhuvanavajra in 907 ç. e. (985 A.D.), and mentions also the erection of an image of Jagadîçvara by the same person, and an image of Lokeçvara by his brother-in-law Somavajra.
+ The inscription of Phnom Banteai Neang[^183] (partly Sanscrit, partly Khmer) is engraved round a small bas-relief representing the seated Buddha. It deals with the consecration of a statue of the “Mother of the Buddhas”(Prajñapâramitâ) by Tribhuvanavajra in 907 ç. e. (985 A.D.), and mentions also the erection of an image of Jagadîçvara by the same person, and an image of Lokeçvara by his brother-in-law Somavajra.
+
+[^183]: "Aymonier, Le Cambodge, t. ii, p. 306 et seq."
 
 
 
 
-[Kern](# "Verslagen en Mededeelingen de l’Academie d’Amsterdam, IV, III, 1899.") has translated this inscription and commented on it:—“Success! Welfare! Homageto the Supreme Truth! Which is like the void sky, which, for delivering the three worlds, has assumed the Dharma Kâya (the body of the law), the Sambhoga Kâya (the body of bliss), and the Nirmâna Kâya (the body of transformation by which the Buddhas can appear everywhere to proclaim the truth). Lokeçvara, he who bears on his crest Jina Amitâbha, shines (with a radiance without limit)—whereas the light of the sun and the moon are but limited. Homage to thee, Bhagavati, named Prajñâpâramitâ, in whom those who have become Buddhas have attained omniscience.”
+Kern[^184] has translated this inscription and commented on it:—“Success! Welfare! Homageto the Supreme Truth! Which is like the void sky, which, for delivering the three worlds, has assumed the Dharma Kâya (the body of the law), the Sambhoga Kâya (the body of bliss), and the Nirmâna Kâya (the body of transformation by which the Buddhas can appear everywhere to proclaim the truth). Lokeçvara, he who bears on his crest Jina Amitâbha, shines (with a radiance without limit)—whereas the light of the sun and the moon are but limited. Homage to thee, Bhagavati, named Prajñâpâramitâ, in whom those who have become Buddhas have attained omniscience.”
 
- The Sanscrit inscription of [Lovek](# " I.S.C.C., p. 129."), which deals with the pious foundations of a priestly matriarchal family with the curious name of Sapta-deva-kula, states in its 24th stanza that “Prâna (one of the wives of the King Râjendravarman and who belonged to this matriarchal family) distinguished by her lineage, her conduct and her talents, was made, on the death of Râjendravarman, the head of the writers (the chief secretary?) of the inner (palace) (or the head of the private secretaries) of Jayavarman.” Rémusat in his Nouveau Melanges Asiatiques
+[^184]: "Verslagen en Mededeelingen de l’Academie d’Amsterdam, IV, III, 1899."
+
+ The Sanscrit inscription of Lovek[^185], which deals with the pious foundations of a priestly matriarchal family with the curious name of Sapta-deva-kula, states in its 24th stanza that “Prâna (one of the wives of the King Râjendravarman and who belonged to this matriarchal family) distinguished by her lineage, her conduct and her talents, was made, on the death of Râjendravarman, the head of the writers (the chief secretary?) of the inner (palace) (or the head of the private secretaries) of Jayavarman.” Rémusat in his Nouveau Melanges Asiatiques
+
+[^185]: " I.S.C.C., p. 129."
 
 
 
@@ -1513,7 +1881,9 @@ quotes Chinese chronicles to the effect that ladies held important posts at the 
 
 ***Ba Puon (Hema-Çringa-Giri).***
 
- Among the buildings attributed to Jayavarman V the “Tower of the Golden Horn,”atpresent known as Ba Puon, is the most noteworthy. The Sanscrit inscription of Prea [Kev](# "I.S.C.C, p. 106.") gives the interesting information, in the stanzas 6 and 7, that the muni Çivâçraya, eloquent, faithful to his vows, was in this temple of the tower of the golden horn (Hema-çringa-giri) made by King Jayavarman the censor of good and bad qualities for the sound development of the worship of the gods. We have already seen Jayavarman V issuing instructions to the public on the moral teachings of the Buddha. Here the office of Censor is conferred on a Brahman priest. He seems to be following the example of Açoka.
+ Among the buildings attributed to Jayavarman V the “Tower of the Golden Horn,”atpresent known as Ba Puon, is the most noteworthy. The Sanscrit inscription of Prea Kev[^186] gives the interesting information, in the stanzas 6 and 7, that the muni Çivâçraya, eloquent, faithful to his vows, was in this temple of the tower of the golden horn (Hema-çringa-giri) made by King Jayavarman the censor of good and bad qualities for the sound development of the worship of the gods. We have already seen Jayavarman V issuing instructions to the public on the moral teachings of the Buddha. Here the office of Censor is conferred on a Brahman priest. He seems to be following the example of Açoka.
+
+[^186]: "I.S.C.C, p. 106."
 
  Ba Puon, to the north of the Bayon, is inferior in size only to the two largest pyramids
 
@@ -1531,17 +1901,23 @@ of Egypt. Each of its sides is about 400 feet in length and the structure rises 
 
 
 
-The credit of discovering this king belongs to M. Coedes, who edited the inscription of Prâsât [Khnâ](# "Etudes Cambodgianner B.E.F.E.O., t. xi, pp. 391-406."), in which is found a passage:—“Therewas in 923 (ç.e.) in the royal dynasty of Kambuja a king of kings, foremost in action, Udayâdityavarman, who with his arrows had vanquished a host of enemies up to the sea-coast.” We also learn that his maternal aunt was the queen of Jayavarman V and that his maternal uncle was a general of that king. The object of this inscription was the consecration of an image of Viṣṇu by an elder brother of the new king.
+The credit of discovering this king belongs to M. Coedes, who edited the inscription of Prâsât Khnâ[^187], in which is found a passage:—“Therewas in 923 (ç.e.) in the royal dynasty of Kambuja a king of kings, foremost in action, Udayâdityavarman, who with his arrows had vanquished a host of enemies up to the sea-coast.” We also learn that his maternal aunt was the queen of Jayavarman V and that his maternal uncle was a general of that king. The object of this inscription was the consecration of an image of Viṣṇu by an elder brother of the new king.
+
+[^187]: "Etudes Cambodgianner B.E.F.E.O., t. xi, pp. 391-406."
 
 ***Suryavarman I—A Buddhist King.***
 
- He however reigned only for a year, for in 924 ç. e. (1002 A. D.) we find Suryavarman on the Kambuja throne. The last king was deposed and probably lost his life in the struggle. The inscription of Prah Khan, which has been reedited by M. [Finot](# "B.E.F.E O., t. iv, p. 674."), states:—“Shaking theeight directions and the earth bent down under his dancing feet, causing Indra to wander about lamenting (his fate) by the (whirl-wind) created by his (revolving) arms which throws down the celestial palaces,...may the dance of the mooncrested god, the delight of the gods and of
+ He however reigned only for a year, for in 924 ç. e. (1002 A. D.) we find Suryavarman on the Kambuja throne. The last king was deposed and probably lost his life in the struggle. The inscription of Prah Khan, which has been reedited by M. Finot[^188], states:—“Shaking theeight directions and the earth bent down under his dancing feet, causing Indra to wander about lamenting (his fate) by the (whirl-wind) created by his (revolving) arms which throws down the celestial palaces,...may the dance of the mooncrested god, the delight of the gods and of
+
+[^188]: "B.E.F.E O., t. iv, p. 674."
 
 
 
 those dear to him, be propitious. Homage to Buddha, in whom alone the word omniscient has found its real meaning, and whose words alone are found logically true. I salute the feet of my guru, which are like two boats for (traversing) the tantras of the pâramis, and whose knowledge has sprung from the favour of the three-eyed god. There was (a king) Çri Suryavarman... born of the solar race whose reign (commenced) in 924 ç.e. His feet are the Bhâṣyas (of the grammarian Pâtanjali), his hands are the Kâvyas, his (six) organs of sense are the six systems of philosophy, the dharmaçâstras are his head....His valour is to be judged from this that this sage muni has won in battle the kingdom from a king who was surrounded by other princes.”The last line is evidently an allusionto his victory over Udayâdityavarman.
 
- During the first three years of his reign this monarch bore the name of Jayaviravarman. He claimed descent from Indravarman (the father of [Yaçovarman](# "I.S.C.C., p. 104, stanza 10,")) and his queen Viralakṣmi was also related to the sons of Yaçovarman.
+ During the first three years of his reign this monarch bore the name of Jayaviravarman. He claimed descent from Indravarman (the father of Yaçovarman[^189]) and his queen Viralakṣmi was also related to the sons of Yaçovarman.
+
+[^189]: "I.S.C.C., p. 104, stanza 10,"
 
  On the pillars of a portico near Phimeanakas, among the ruins of the palace, are engraved eight inscriptions containing the names of the administrators of the ‘sroks’(or districts of the kingdom) who swore the oath of allegiance to Suryavarman. The eight inscriptions begin
 
@@ -1549,7 +1925,9 @@ those dear to him, be propitious. Homage to Buddha, in whom alone the word omnis
 
 with the same text (in Khmer), which gives the oath, and then follows lists of names which in each inscription occupy about 30 lines. About 4,000 names can still be counted. Before each name there is generally the title Mrâtân (governor) and then the name of the srok is given—e.g., the Mrâtân Khlon Çri Ranakesari of Nâgapura.
 
- The oath of allegiance is as [follows](# "Coedes, Etudes Cambodgiennes, B.E.F.E.O., t. xiii."):—“In933 ç. e., the 9th of the waxing moon of Bhâdra (August-September), Sunday. Here is the oath which we, belonging to the body of tamvrâc (lictor) of the first, second, third, and fourth categories, swear all of us without exception, cutting our hands, and offering our lives and grateful and stainless devotion to H. M. Çri Suryavarmanadeva, who has been in complete enjoyment of the sovereignty since 924 ç. e., in the presence of the sacred fire, the holy jewel, the Brahmans, and the âcâryas. We shall not honour any other king, we shall never be hostile (to our king), we shall not be the accomplices of any enemy, and we shall not seek to injure him (our king) in any way. We pledge ourselves to perform all actions which are the fruit of our grateful devotion towards His Majesty. If there is war, we pledge ourselves to fight faithfully in his cause without valuing our lives.
+ The oath of allegiance is as follows[^190]:—“In933 ç. e., the 9th of the waxing moon of Bhâdra (August-September), Sunday. Here is the oath which we, belonging to the body of tamvrâc (lictor) of the first, second, third, and fourth categories, swear all of us without exception, cutting our hands, and offering our lives and grateful and stainless devotion to H. M. Çri Suryavarmanadeva, who has been in complete enjoyment of the sovereignty since 924 ç. e., in the presence of the sacred fire, the holy jewel, the Brahmans, and the âcâryas. We shall not honour any other king, we shall never be hostile (to our king), we shall not be the accomplices of any enemy, and we shall not seek to injure him (our king) in any way. We pledge ourselves to perform all actions which are the fruit of our grateful devotion towards His Majesty. If there is war, we pledge ourselves to fight faithfully in his cause without valuing our lives.
+
+[^190]: "Coedes, Etudes Cambodgiennes, B.E.F.E.O., t. xiii."
 
 
 
@@ -1561,21 +1939,31 @@ We shall not fly from the battlefield. If we die a sudden death, not in war, or 
 
 formulae differ only by the substitution of Buddhist terms for Brahmanical.
 
- King Suryavarman was himself a Buddhist as his posthumous name Nirvânapada clearly indicates. The inscription of [Lopburi](# "Aymonier, Le Cambodge, t. ii, p. 81.") (Lavapuri in Siam), dated 944 ç.e. (1022 A.D.), gives us the royal edict issued by the king for the regulation of the monasteries. In all holy places, temples, monasteries, and hermitages, the ascetics, the sthaviras (Hinayâna monks?), and the Mahâyâna bhikṣus should offer to the king the merits of their piety. People, who disturb the prayers or the sacred duties of the pious, should be handed over to tribunals which will try and punish them. But though a Buddhist he did not fail in constructing numerous temples consecrated to Çiva and Viṣṇu. He is also credited with having established the division of castes, for it was through him that the Brahman Çivâcârya “on account of his excellent faith received the great honour of being placed at the head of his [caste](# "Inscr. of Pres Kev, I.S.C.C., p. 106, st. 8.").”
+ King Suryavarman was himself a Buddhist as his posthumous name Nirvânapada clearly indicates. The inscription of Lopburi[^191] (Lavapuri in Siam), dated 944 ç.e. (1022 A.D.), gives us the royal edict issued by the king for the regulation of the monasteries. In all holy places, temples, monasteries, and hermitages, the ascetics, the sthaviras (Hinayâna monks?), and the Mahâyâna bhikṣus should offer to the king the merits of their piety. People, who disturb the prayers or the sacred duties of the pious, should be handed over to tribunals which will try and punish them. But though a Buddhist he did not fail in constructing numerous temples consecrated to Çiva and Viṣṇu. He is also credited with having established the division of castes, for it was through him that the Brahman Çivâcârya “on account of his excellent faith received the great honour of being placed at the head of his caste[^192].”
 
- The inscription of Tuol [Prâsât](# "Aymonier, op. cit., t. i, p. 379.") (Sanscrit and Khmer) records a legal judgment. “In 925 ç.e. H. M. Jayaviravarman (Suryavarman I) being in (the palace of) the four gates of Jayendranagarî, the lord Çri Prithivîndra-pandita, whose office was to punish and to reward (i. e., the Chief
+[^191]: "Aymonier, Le Cambodge, t. ii, p. 81."
+
+[^192]: "Inscr. of Pres Kev, I.S.C.C., p. 106, st. 8."
+
+ The inscription of Tuol Prâsât[^193] (Sanscrit and Khmer) records a legal judgment. “In 925 ç.e. H. M. Jayaviravarman (Suryavarman I) being in (the palace of) the four gates of Jayendranagarî, the lord Çri Prithivîndra-pandita, whose office was to punish and to reward (i. e., the Chief
+
+[^193]: "Aymonier, op. cit., t. i, p. 379."
 
 
 
 Justice), and the judges of the royal court of justice, prostrating themselves before the king, respectfully read to him the Sanscrit stanzas relating to the origin and the situation of (the property consisting of) the fields and the forests of Vâp Sah—the keeper of the sacred registers. Other persons had claimed the land. But the affair was closed by an order of donation of H. M. Jayaviravarman which His Majesty ordered to be engraved on this stone—the royal pleasure having, after a favourable judgment, attributed to Vâp Sah all the land in dispute.”Then follow the names of thosewhoassisted at this royal court of justice—among whom we find the Chief Justice (whose name we have already seen), the head of the army and of the royal magazines, whose name was Parâkramavira, etc.
 
- The inscription of Prea [Kev](# "I.S.C.C, p. 104.") tells us about the guru of Suryavarman (Stanza 6, p. 104) Yogîçvarapandita, who constructed the pancaçula (five spires) on the Hemagiri shrine. In stanza 10 is stated that Suryavarman ascended the throne in 924 ç.e. and shone like the sun in the firmament of the family of Indravarman. Stanzas 12 and 13 tell us:—“In the city of Yaçodharapura, in the brilliant palace of the four gates, glittering with gems, gold and silver, Yogîçvarapandita (the royal guru) was constantly honoured by the
+ The inscription of Prea Kev[^194] tells us about the guru of Suryavarman (Stanza 6, p. 104) Yogîçvarapandita, who constructed the pancaçula (five spires) on the Hemagiri shrine. In stanza 10 is stated that Suryavarman ascended the throne in 924 ç.e. and shone like the sun in the firmament of the family of Indravarman. Stanzas 12 and 13 tell us:—“In the city of Yaçodharapura, in the brilliant palace of the four gates, glittering with gems, gold and silver, Yogîçvarapandita (the royal guru) was constantly honoured by the
+
+[^194]: "I.S.C.C, p. 104."
 
 
 
 king. There by the guru of the king, the chief ministers, by the principal persons of the court, by the Brahmans, with folded hands, with hymns of praise, and with the holy fire was Iça honoured.”This refers to the consecrationceremony of the image of Yogîçvara. What is more interesting is (stanzas 2 and 3, p. 103) that Yogîçvarapandita was descended from Bhâs-svaminî, the daughter of a Brahman, who became the queen of Parameçvara (Jayavarman II). So in Kambuja not only a Brahman could marry a Kṣatriya princess, but a Brahman maiden could also be married to a Kṣatriya prince. Again, in stanzas 16 to 19 (p. 107), we find Çivavindu, the grandson of Çivâcârya, the censor of morals during the reign of Jayavarman V, obtaining from King Suryavarman the present of a palanquin adorned with a winged dragon (which probably shows Chinese influence) and the charge of the inspection of good and bad qualities in the tower of the golden horn. As his grandfather had received the same post, at the same place, probably in this tower the high officials received their investiture.
 
- In the inscription of [Lovek](# "I.S.C.C., p. 128."),which commemorates the pious works of the matriarchal family with the curious name of Saptadevakula, there is an eulogy (stanzas 6 to 9, p. 130) of
+ In the inscription of Lovek[^195],which commemorates the pious works of the matriarchal family with the curious name of Saptadevakula, there is an eulogy (stanzas 6 to 9, p. 130) of
+
+[^195]: "I.S.C.C., p. 128."
 
 
 
@@ -1587,7 +1975,9 @@ Suryavarman:—“Oh! how, well versed in the Atharva (veda), his soul devoted t
 
 Royal God) being the head of the family. H. M. Nirvânapada made him come out of his ascetic life in order to give him as wife the sister of his principal queen Viralakṣmi. He (the king) conferred on him the titles of Kamsten Çri Jayendrapandita, the royal priest, the chief of the works (Khlon Karmmânta) of the first class.”Some passages of this inscription refer to the holy shrines being desecrated by rebels which were restored by the high priest. It appears as if the Brahmans were getting rather unpopular, perhaps on account of the forced labour demanded for them from the neighbouring areas.
 
- The inscription of Prah Khan (a splendid ruined temple, thirty leagues to the east of Angkor, and probably Buddhist) tells us (Kern’s [translation](# "Aymanier, Le Cambodge, t. I, p. 439.")) that Suryavarman, the protector of learning, had founded a college, the interior of which was devoted to the cult of truth and goodness, and the exterior to the cult of beauty.
+ The inscription of Prah Khan (a splendid ruined temple, thirty leagues to the east of Angkor, and probably Buddhist) tells us (Kern’s translation[^196]) that Suryavarman, the protector of learning, had founded a college, the interior of which was devoted to the cult of truth and goodness, and the exterior to the cult of beauty.
+
+[^196]: "Aymanier, Le Cambodge, t. I, p. 439."
 
  Suryavarman, the first Buddhist king on the Kambuja throne, lived in the memory of the people, for by a strange anachronism his name heads the list of the kings in the first chapters (which are of very doubtful authenticity) of the modern chronicle of Cambodia which begins with the period 1340 A.D.
 
@@ -1595,9 +1985,15 @@ Royal God) being the head of the family. H. M. Nirvânapada made him come out of
 
 *Udayâdityavarman II.*
 
- He was succeeded by Udayâdityavarman II, probably his son, in [971 ç.e](# "Inscr, of Preah Vihear, Aymonier, t. ii, p. 214.").(1049 A.D.). In the inscription of Lovek [(stanzas 20 to 25)](# "I.S.C.C., p. 131.") there is a praçasti of this king:—“Afterwards Udayâdityavarman, the lord of the earth, with his radiant glory, was born in this race of kings like the moon in the sea of milk. He excelled in captivating ladies by his personal charms, warriors by his valour, the wise by his virtues, thepeople by his prowess, and the Brahmans by his gifts. Endowed with an unique collection of good qualities, (this prince), on Suryavarman’s departure for heaven, was crowned the lord of the universe by his ministers. Seeing that in the middle of Jambudvîpa there was a golden mountain—to rival it he had a mount of gold in his capital. On the top of this golden mount, in a resplendent golden shrine, he consecrated a Çivalinga which was bathed regularly. By this king the wise Çankarapandita... was appointed as guru.”
+ He was succeeded by Udayâdityavarman II, probably his son, in 971 ç.e[^197].(1049 A.D.). In the inscription of Lovek (stanzas 20 to 25)[^198] there is a praçasti of this king:—“Afterwards Udayâdityavarman, the lord of the earth, with his radiant glory, was born in this race of kings like the moon in the sea of milk. He excelled in captivating ladies by his personal charms, warriors by his valour, the wise by his virtues, thepeople by his prowess, and the Brahmans by his gifts. Endowed with an unique collection of good qualities, (this prince), on Suryavarman’s departure for heaven, was crowned the lord of the universe by his ministers. Seeing that in the middle of Jambudvîpa there was a golden mountain—to rival it he had a mount of gold in his capital. On the top of this golden mount, in a resplendent golden shrine, he consecrated a Çivalinga which was bathed regularly. By this king the wise Çankarapandita... was appointed as guru.”
 
- The king had also another guru. The record of the High Priests, the inscription of Sdok Kak Thom, [thus](# "Notes d'Epigraphie, B.E.F.E.O., t. xv, No. 2, p. 93.") refers to this reign (the last reign mentioned in this inscription which covers the
+[^197]: "Inscr, of Preah Vihear, Aymonier, t. ii, p. 214."
+
+[^198]: "I.S.C.C., p. 131."
+
+ The king had also another guru. The record of the High Priests, the inscription of Sdok Kak Thom, thus[^199] refers to this reign (the last reign mentioned in this inscription which covers the
+
+[^199]: "Notes d'Epigraphie, B.E.F.E.O., t. xv, No. 2, p. 93."
 
 
 
@@ -1605,35 +2001,51 @@ period 724 ç.e. to 974 ç.e. (802 to 1052 A.D.):—“During the reign of H. M.
 
 ***General Sangrâma.***
 
- The reign of this king seems to have been a troubled one. Three serious revolts were quelled by the general Sangrâma (War). The inscription of Prea [Ngouk](# "I.S.C.C., p. 145 et seq") gives us a stirring account of these military operations in the epic
+ The reign of this king seems to have been a troubled one. Three serious revolts were quelled by the general Sangrâma (War). The inscription of Prea Ngouk[^200] gives us a stirring account of these military operations in the epic
+
+[^200]: "I.S.C.C., p. 145 et seq"
 
 
 
-style. The first 55 lines have been badly damaged. This portion dealt with the genealogy of the general which, as far as can be made out, seems to be matriarchal. It is also connected with the royal dynasty. Jayavarman II, Indravarman, Yaçovarman, Harṣavarman I, Jayavarman IV, and Suryavarman are mentioned in this portion of the inscription, but we cannot make out what was their connection to the family. A Brahman lady of the name of Ambujanetrâ (the lotus-eyed) seems to have been the ancestress of the family. At last in the 5th stanza (B., p. 149) we are introduced to the hero of the poem:—“Proud hero, expertin the use of arms, well-known for a long time Sangrâma.”“Unmatched in combat, reckoned as the foremost (warrior) by the enemies themselves, called a (second) Arjuna, no hero on earth was his equal... This great hero was appointed to the head of the army by the king, for the defence of the royal Lakṣmi (ie., the prosperity of the realm), in the interests of his subjects, and of (the king) himself. There was, in the year 973 ç.e., a hostile chief, difficult to overcome in battle, of the name of Aravindahrada (the lake of the lotus), who had made himself feared in the [south](# "Stanzas 7, 9, 10, p. 149."). [Knowing](# "Stanza 11 et seq.") the meaning of the Çastras, able, master of himself,
+style. The first 55 lines have been badly damaged. This portion dealt with the genealogy of the general which, as far as can be made out, seems to be matriarchal. It is also connected with the royal dynasty. Jayavarman II, Indravarman, Yaçovarman, Harṣavarman I, Jayavarman IV, and Suryavarman are mentioned in this portion of the inscription, but we cannot make out what was their connection to the family. A Brahman lady of the name of Ambujanetrâ (the lotus-eyed) seems to have been the ancestress of the family. At last in the 5th stanza (B., p. 149) we are introduced to the hero of the poem:—“Proud hero, expertin the use of arms, well-known for a long time Sangrâma.”“Unmatched in combat, reckoned as the foremost (warrior) by the enemies themselves, called a (second) Arjuna, no hero on earth was his equal... This great hero was appointed to the head of the army by the king, for the defence of the royal Lakṣmi (ie., the prosperity of the realm), in the interests of his subjects, and of (the king) himself. There was, in the year 973 ç.e., a hostile chief, difficult to overcome in battle, of the name of Aravindahrada (the lake of the lotus), who had made himself feared in the south[^201]. Knowing[^202] the meaning of the Çastras, able, master of himself,
+
+[^201]: "Stanzas 7, 9, 10, p. 149."
+
+[^202]: "Stanza 11 et seq."
 
 
 
 with a brave army, this strong haughty (person) bore (the burden) of half the earth in the south with vigour. Devathpalkhphas, Gnânlam, Poh, Spot, Khmonn, the chief of Avadhyapura, and other indomitable generals, sent by the king against him, fought with this enemy. All these, however, though excelling in valour, physical strength and arms, with their troops, impetuous as the sea-waves, could not overcome in battle the enemy and his forces. This powerful enemy having crushed many great generals, Sangrâma, the head of the army, saluted the sovereign and said to him:—“Grant mea favour, O king of kings. This enemy, unconquerable by others, I shall overcome in battle by thy grace. Appoint me (as your general).”The kingof kings, thus addressed, replied joyfully:—“Excellent! Excellent! Oh hero! I want to do as you desire.”On hearing this, the generalof the name of Sangrâma, saluting the king, went promptly with his army to meet the hostile chief so difficult to conquer.”
 
- Having come up to the hostile army, the commander-in-chief (Sangrâma) rebuked his foe for his presumption in daring to resist the might of the [king](# "Stanza 20, p. 150."). “The earth is to be ruled by a heroicking. Who art thou, oh miserable (wretch), who art incapable of protecting (the earth). In thy delusion thou thinkest lightly of us.”Thus
+ Having come up to the hostile army, the commander-in-chief (Sangrâma) rebuked his foe for his presumption in daring to resist the might of the king[^203]. “The earth is to be ruled by a heroicking. Who art thou, oh miserable (wretch), who art incapable of protecting (the earth). In thy delusion thou thinkest lightly of us.”Thus
+
+[^203]: "Stanza 20, p. 150."
 
 
 
-addressed, the arrogant chief of the enemy, steadfast in battle, angrily replied to the commander-in-[chief](# "Stanza 23."):—“You need not try to frighten me. You should know that (often) in the past the issue of a battle has been uncertain, and the earth has changed its master. Therefore you should not insult me.”Sangrâma then unchained the fiery flow of his arrows, and Aravinda-hrada fled as fast as he could to Champa. Sangrâma, after the rout of the enemy, went to the Içvara (Çiva) of Râjatirtha.
+addressed, the arrogant chief of the enemy, steadfast in battle, angrily replied to the commander-in-chief[^204]:—“You need not try to frighten me. You should know that (often) in the past the issue of a battle has been uncertain, and the earth has changed its master. Therefore you should not insult me.”Sangrâma then unchained the fiery flow of his arrows, and Aravinda-hrada fled as fast as he could to Champa. Sangrâma, after the rout of the enemy, went to the Içvara (Çiva) of Râjatirtha.
 
- Then begins the account of the second [campaign](# "Stanza 17 et seq.p. 152."):—“There was a famous spy, clever, afavourite ofthe king, a valiant hero of the name of Kamvau, who was made a general of the army by the king... Harbouring in his heart the idea of ruining him, to whom he owed his greatness, he came out of his town one day with his troops. With his stream of troops, wellarmed, aspiring to conquer all the gods like Râvana though (he was but) a mortal, he overran the country up to the place where the hero (Sangrâma) lived. Devasrau, Vlon, Vnur, Gam, Censrau, Caṃnatt, Râññ, Khmonn, these great chiefs of the army, and many other great generals of the king, were commissioned by the king to conquer this enemy. The enemy, having defeated them, pursued them (flushed) with
+[^204]: "Stanza 23."
+
+ Then begins the account of the second campaign[^205]:—“There was a famous spy, clever, afavourite ofthe king, a valiant hero of the name of Kamvau, who was made a general of the army by the king... Harbouring in his heart the idea of ruining him, to whom he owed his greatness, he came out of his town one day with his troops. With his stream of troops, wellarmed, aspiring to conquer all the gods like Râvana though (he was but) a mortal, he overran the country up to the place where the hero (Sangrâma) lived. Devasrau, Vlon, Vnur, Gam, Censrau, Caṃnatt, Râññ, Khmonn, these great chiefs of the army, and many other great generals of the king, were commissioned by the king to conquer this enemy. The enemy, having defeated them, pursued them (flushed) with
+
+[^205]: "Stanza 17 et seq.p. 152."
 
 
 
 victory.”They (the king’s officers) being killed, the king of kings said to his generals:—“Theheroes, who die faithful to their master, are served by Lakṣmi in heaven. Hasten then at once with your well-armed troops, oh captains!” Thus addressed, Sangrâma, the head of the army, made this reply:—“The gods themselves, headed by Indra, of marvellous prowess in war, cannot withstand thy spell, what to say of mortals. Remain undisturbed, oh great king, (aided) by thy magic spell, this swallower of Indra, whom others have found so difficult to overcome, I shall destroy.”
 
- Then on the [battlefield](# "Stanza 34 et seq."), rejoicing on having seen each other, impatient to snatch away the victory (from each other), these two heroes (Sangrâma and Kamvau) hastened to meet each other like Râma and Râvana. Seeing the two leaders ardent to fight a duel, their chief captains, prostrating themselves before them, spoke thus:—“Ah lord! Oh great hero! Give up the duel! leave us, who are fit for it, the task of repulsing the hero.”So saying, all, with their weapons in their hands, they placed themselves before their (respective) leaders—each fighting with a foe of proved valour. The sky shone with the bright flashes of khaṛga, çataghnî, iça, çula, çakti, and other weapons which were brandished...in one part or another (of the battle-field)...
+ Then on the battlefield[^206], rejoicing on having seen each other, impatient to snatch away the victory (from each other), these two heroes (Sangrâma and Kamvau) hastened to meet each other like Râma and Râvana. Seeing the two leaders ardent to fight a duel, their chief captains, prostrating themselves before them, spoke thus:—“Ah lord! Oh great hero! Give up the duel! leave us, who are fit for it, the task of repulsing the hero.”So saying, all, with their weapons in their hands, they placed themselves before their (respective) leaders—each fighting with a foe of proved valour. The sky shone with the bright flashes of khaṛga, çataghnî, iça, çula, çakti, and other weapons which were brandished...in one part or another (of the battle-field)...
+
+[^206]: "Stanza 34 et seq."
 
 
 
 Seeing the arch-rebel before him, bow in hand, Sangrâma, an orator, thus addressed him in words haughty and of deep meaning:—“Stop! Stop! great hero! Show thy valour to me. As soon as I have tested thy courage, I shall send thee to the abode of Yama.”Kamvau, havingadjusted an arrow to his bow, bright and curved, aimed at the jaw of the general. The general, struck by the arrow as by a rain of flowers, was no more shaken than a mountain by a rainfall. Promptly with three arrows well feathered, hissing like the darts of Agni, he hit the enemy, at the same time, in the head, the neck, and in the chest. Wounded by the sharp arrows, the hostile chief, falling on the ground, uttered a loud cry, thus announcing, as it were, the sad news to his followers. The enemy having gone to Yama’s abode with all his captains...the general reached on his way back Çiva’s shrine erected on Prithuçaila, and, prostrating himself before (it), made an offering of all that he possessed.”
 
- The inscription goes on to describe a third campaign. Attacked at Prithuçaila by one Swat, Sangrâma is again victorious... After his victories, when he was presented by the king with all that he had won, he thus addresses his [sovereign](# "Stanza 27, p. 157 (I.S.C.C)."):—“If, Oh merciful one, thou art merciful to me,order me to reap the fruit of my fidelity by consecrating this booty to thy subtle inner spirit
+ The inscription goes on to describe a third campaign. Attacked at Prithuçaila by one Swat, Sangrâma is again victorious... After his victories, when he was presented by the king with all that he had won, he thus addresses his sovereign[^207]."):—“If, Oh merciful one, thou art merciful to me,order me to reap the fruit of my fidelity by consecrating this booty to thy subtle inner spirit
+
+[^207]: "Stanza 27, p. 157 (I.S.C.C
 
 
 
@@ -1641,7 +2053,9 @@ which is embodied in a linga of gold." This passage is striking as it shows the 
 
  This is one of the last of our long inscriptions. The narrative portion is dealt with in an epic style which distinguishes it from all others. There is a touch of genuine poetry in it. The style is polished and at the same time vigorous. It suits the stirring scenes which it describes. There is nothing in it to show that it was written in a country so far removed from India.
 
- The inscription of Prasat Prah [Khset](# "I.S.C.C., p. 173.")dated 988 ç.e. (1066 A.D.) also belongs to this reign. It refers to the restoration of a linga (which was broken by the enemy Kambau) by Saṃkarsha—the son of the sister of King Udayârkavarman (same as Udayâdityavarman). In the year 989 ç.e. the same person consecrated on the samespot a curious combination of images composedof Brahmâ, Viṣṇu and Buddha,Buddha heretakes the place of Çiva in the Trimurti. But the whole group, consisting of the linga and the three images of Brahmâ, Viṣṇu and Buddha, was dedicated to Çiva invoked under the name of "broken Çiva" (as it was formerly broken by the rebel Kambau).
+ The inscription of Prasat Prah Khset[^208]dated 988 ç.e. (1066 A.D.) also belongs to this reign. It refers to the restoration of a linga (which was broken by the enemy Kambau) by Saṃkarsha—the son of the sister of King Udayârkavarman (same as Udayâdityavarman). In the year 989 ç.e. the same person consecrated on the samespot a curious combination of images composedof Brahmâ, Viṣṇu and Buddha,Buddha heretakes the place of Çiva in the Trimurti. But the whole group, consisting of the linga and the three images of Brahmâ, Viṣṇu and Buddha, was dedicated to Çiva invoked under the name of "broken Çiva" (as it was formerly broken by the rebel Kambau).
+
+[^208]: "I.S.C.C., p. 173."
 
 
 
@@ -1649,13 +2063,17 @@ which is embodied in a linga of gold." This passage is striking as it shows the 
 
  Udayâdityavarman II was succeeded by his younger brother Harṣavarman III. We do not know the exact date either of his accession or of his death. We can only say that he was reigning during the period 1068-1090 A.D.
 
- The inscription of Lovek, which is the record of the matriarchal Brahman family named Saptadevakula, mentions this monarch in stanzas [27 to 31;—](# "I,S.C.C., pp. 131-132")"Afterwards Harṣavarman, a younger brother born of the same mother, was king for the joy (harṣa) of his people after Udayâdityavarman had gone to Heaven.Çankarapandita, as his guru, consecrated him and established him on the throne with the aid of the ministers, just as Vaçiṣṭha (consecrated Râma). The son of Gâdhin (Viçvâmitra) did not succeed by his royal power to seize the cow Nandini (which belonged to Vaçiṣṭha), but Harṣavarman knew how to win her by combining force and mildness......This monarch secured peace for his subjects by causing the duties of the four castes (jâti) to be strictly observed. This ruler... having acquired Çankara as purohita, obtained in him, as Yudhiṣṭhira in Dhaumya (the priest of the Pândavas), the highest achievement one could desire in this world and in the next." In the 32nd stanza is.
+ The inscription of Lovek, which is the record of the matriarchal Brahman family named Saptadevakula, mentions this monarch in stanzas 27 to 31;—[^209]"Afterwards Harṣavarman, a younger brother born of the same mother, was king for the joy (harṣa) of his people after Udayâdityavarman had gone to Heaven.Çankarapandita, as his guru, consecrated him and established him on the throne with the aid of the ministers, just as Vaçiṣṭha (consecrated Râma). The son of Gâdhin (Viçvâmitra) did not succeed by his royal power to seize the cow Nandini (which belonged to Vaçiṣṭha), but Harṣavarman knew how to win her by combining force and mildness......This monarch secured peace for his subjects by causing the duties of the four castes (jâti) to be strictly observed. This ruler... having acquired Çankara as purohita, obtained in him, as Yudhiṣṭhira in Dhaumya (the priest of the Pândavas), the highest achievement one could desire in this world and in the next." In the 32nd stanza is.
+
+[^209]: "I,S.C.C., pp. 131-132"
 
 
 
 stated the object of this inscription of the Saptadevakula family:—"Born, through his mother, of the Saptadevakula, and purohita (priest) of three sovereigns (Suryavarman, Udayâdityavarman II and Harṣavarman III), the ascetic Çankara consecrated this image as well as a palanquin to the Çankara (Çiva) of Dviradadeça (the country of elephants)."
 
- It seems that, through the influence of this Brahman Çankarapandita, there was a reaction in favour of Brahmanism during this and the preceding reign. There were apparently no internal troubles during the rule of Harṣavarman, but we learn from Champa [inscriptions](# "B. E. F. E. O., t. iv, pp. 938-945.")that a Khmer army under a prince of Kambuja of the name of Nandavarmadeva, which invaded Champa, was repulsed, and that prince Pan, the Brother of Champa king, pursued the Kambuja troops into their own territory, and captured a large number of prisoners and won a large booty at Çambhupura (the present Sambaur).
+ It seems that, through the influence of this Brahman Çankarapandita, there was a reaction in favour of Brahmanism during this and the preceding reign. There were apparently no internal troubles during the rule of Harṣavarman, but we learn from Champa inscriptions[^210]that a Khmer army under a prince of Kambuja of the name of Nandavarmadeva, which invaded Champa, was repulsed, and that prince Pan, the Brother of Champa king, pursued the Kambuja troops into their own territory, and captured a large number of prisoners and won a large booty at Çambhupura (the present Sambaur).
+
+[^210]: "B. E. F. E. O., t. iv, pp. 938-945."
 
 
 
@@ -1663,13 +2081,19 @@ stated the object of this inscription of the Saptadevakula family:—"Born, thro
 
 **SURYAVARMAN II AND ANGKOR VAT.**
 
- The next king Jayavarman VI seems to have been a founder of a new dynasty, as his successors on the throne trace their descent from him and do not go beyond. The Sanscrit inscription of Ban [That](# "Finot, Notes d'Epigraphie, B.E.F.E.O., t. xii, no. 2.") and the Khmer-Sanscrit inscriptions of Phnom Sandak and Preah [Vihear](# "Aymonier, Le Cambodge, t. i, pp. 395-6 (Phnom Sandak); and ,t.iip. 213 et seq. (Preah Vihear).") are our sole authorities for this and the next two reigns. The last two inscriptions, which have a good deal in common, tell us that Jayavarman VI's abhiṣeka (coronation ceremony) wasperformed about 1012 ç.e. (1090 A.D.) by the Brahman Divâkarapandita—who remains the outstanding figure as the royal guru during several consecutive reigns. Jayavarman conferred on him the title of Bhagvat Pâda Kamraten An. During his reign and that of his predecessor and successor the Vrah Guru (Divâkara) performed numerous sacrifices, excavated tanks, and offered slaves, elephants, etc., to gods and pandits and places of pilgrimage (sapta devatâ kşetra).
+ The next king Jayavarman VI seems to have been a founder of a new dynasty, as his successors on the throne trace their descent from him and do not go beyond. The Sanscrit inscription of Ban That[^211] and the Khmer-Sanscrit inscriptions of Phnom Sandak and Preah Vihear[^212]; and ,t.iip. 213 et seq. (Preah Vihear).") are our sole authorities for this and the next two reigns. The last two inscriptions, which have a good deal in common, tell us that Jayavarman VI's abhiṣeka (coronation ceremony) wasperformed about 1012 ç.e. (1090 A.D.) by the Brahman Divâkarapandita—who remains the outstanding figure as the royal guru during several consecutive reigns. Jayavarman conferred on him the title of Bhagvat Pâda Kamraten An. During his reign and that of his predecessor and successor the Vrah Guru (Divâkara) performed numerous sacrifices, excavated tanks, and offered slaves, elephants, etc., to gods and pandits and places of pilgrimage (sapta devatâ kşetra).
+
+[^211]: "Finot, Notes d'Epigraphie, B.E.F.E.O., t. xii, no. 2."
+
+[^212]: "Aymonier, Le Cambodge, t. i, pp. 395-6 (Phnom Sandak
 
  The first part of the Sanscrit inscription of Ban That (in Laos) is illegible. In the 16th and the
 
 
 
-17th stanzas we find the invocation still continued:— "By His own power (creating) Matter, the One, having in him the essence of the three gunas, is (become) Hiraṇyagarbha—Hari;....by His power also he is Unchangeable. I adore Him. For producing duality—by His own power He evolves primeval matter. Having fulfilled this desire he reabsorbs Matter into Himself. I adore the Master...." Then the narrative begins and we are told how the Lord, propitiated by the hymn, appears smiling before the Muni (whose name has disappeared) and gives him and his family the hereditary post of priest of the linga on Mount Bhadreçvara. Then we hear (in stanzas 30-33) that the king of Kambuja (whose name is also missing) was in search of a hotâ of pure life, great learning; and illustrious descent for the consecration of his son (as Yuvarâja). For bringing this Muni, knowing him to be trustworthy and experienced in decorum, he sent a fleet of barges, well equipped for the voyage, as of old Lomapâda had sent for [Riṣyaçriṇga](# "Râmâyaṇa, Canto I."). Kings (came) from other islands, ...and on the royal road there were festive celebrations, on a scale unheard of before, adorned with an art characteristic of each country.
+17th stanzas we find the invocation still continued:— "By His own power (creating) Matter, the One, having in him the essence of the three gunas, is (become) Hiraṇyagarbha—Hari;....by His power also he is Unchangeable. I adore Him. For producing duality—by His own power He evolves primeval matter. Having fulfilled this desire he reabsorbs Matter into Himself. I adore the Master...." Then the narrative begins and we are told how the Lord, propitiated by the hymn, appears smiling before the Muni (whose name has disappeared) and gives him and his family the hereditary post of priest of the linga on Mount Bhadreçvara. Then we hear (in stanzas 30-33) that the king of Kambuja (whose name is also missing) was in search of a hotâ of pure life, great learning; and illustrious descent for the consecration of his son (as Yuvarâja). For bringing this Muni, knowing him to be trustworthy and experienced in decorum, he sent a fleet of barges, well equipped for the voyage, as of old Lomapâda had sent for Riṣyaçriṇga[^213]. Kings (came) from other islands, ...and on the royal road there were festive celebrations, on a scale unheard of before, adorned with an art characteristic of each country.
+
+[^213]: "Râmâyaṇa, Canto I."
 
  In the second part of this inscription, we are told of the visit of Indra to compliment the
 
@@ -1697,11 +2121,15 @@ Subhadra. But he cut their arguments (pakṣa) in two by the thunderbolt of his 
 
 ***Dharanîndravarman.***
 
- From the Khmer-Sanscrit inscription of Prea Vihear we learn that the Vrah guruDivâkara pandit performed the abhiṣeka ceremony of Dharanîndravarman I. "This monarch was well advanced in years and by his qualities considerably developed the seven prakritis of the State (the king, the ministers, the forts, the subjects, the treasure, [the army and the allies)](# "Ibid, stanza 28.").
+ From the Khmer-Sanscrit inscription of Prea Vihear we learn that the Vrah guruDivâkara pandit performed the abhiṣeka ceremony of Dharanîndravarman I. "This monarch was well advanced in years and by his qualities considerably developed the seven prakritis of the State (the king, the ministers, the forts, the subjects, the treasure, the army and the allies)[^214].
+
+[^214]: "Ibid, stanza 28."
 
 
 
- In stanzas [30-35](# "Inscr. Ban That (Pt. III).") we have an eulogy of Suryavarman II :— "After (Dharanîndravarman) there reigned a king, son of Çri NarendralakṣmÎ—the daughter of the sister of the two preceding kings—as Kârttikeya was the son of Bhavânî, as formidable to his enemies as the lion to elephants. The radiance of his feet placed on the heads of kings was like that of the sun. Though of the name of Suryavarman (the sun), yet, for the joy of the people he was (mild) like the moon. In his early youth, at the end of his studies, the desire for the royal dignity of his house was roused in him, (the royal dignity which) at that time (i.e., after the death of Dharanîndravarman) was shared by two masters as the nectar was shared (by the gods) and Râhu. Pouring his army like the sea-waves on the battlefield he fought a terrific fight. Tearing down the rival king from the head of his elephant, he slew him as Garuda slays a serpent on the peak of a mountain. The earth was plunged in the sea of ruin wrought by the enemy; like the Boar (Viṣṇu) with its tusks — he with his arms raised her scatheless (from this condition) and restored her to her normal state. The kings of other islands whom he wanted to subdue—he saw them coming with offers of tribute. He himself marched into the
+ In stanzas 30-35[^215].") we have an eulogy of Suryavarman II :— "After (Dharanîndravarman) there reigned a king, son of Çri NarendralakṣmÎ—the daughter of the sister of the two preceding kings—as Kârttikeya was the son of Bhavânî, as formidable to his enemies as the lion to elephants. The radiance of his feet placed on the heads of kings was like that of the sun. Though of the name of Suryavarman (the sun), yet, for the joy of the people he was (mild) like the moon. In his early youth, at the end of his studies, the desire for the royal dignity of his house was roused in him, (the royal dignity which) at that time (i.e., after the death of Dharanîndravarman) was shared by two masters as the nectar was shared (by the gods) and Râhu. Pouring his army like the sea-waves on the battlefield he fought a terrific fight. Tearing down the rival king from the head of his elephant, he slew him as Garuda slays a serpent on the peak of a mountain. The earth was plunged in the sea of ruin wrought by the enemy; like the Boar (Viṣṇu) with its tusks — he with his arms raised her scatheless (from this condition) and restored her to her normal state. The kings of other islands whom he wanted to subdue—he saw them coming with offers of tribute. He himself marched into the
+
+[^215]: "Inscr. Ban That (Pt. III
 
 
 
@@ -1717,7 +2145,11 @@ countries of the enemies, and he eclipsed the glory of the victorious Raghu."¹
 
 
 
-with Angkor Vat rather than with the far humbler shrine of Ban That. Ban That has also no bas-reliefs. It is very strange that, with the exception of the explanatory notes in Khmer on the bas-reliefs of the court scenes at Angkor Vat, no reference has been found up to this time to the greatest and most well-known temple of Kambuja. The inscriptions of Phnom [Sandak](# "Aymonier, Le Cambodge, t. i, pp. 395-6.")and Preah [Vihear](# "Ibid, t, ii, p. 213 et seq."), recording the pious worksof the royal guruDivâkarapaṇdita, allude to a great building activity which may be in connection with Angkor Vat.
+with Angkor Vat rather than with the far humbler shrine of Ban That. Ban That has also no bas-reliefs. It is very strange that, with the exception of the explanatory notes in Khmer on the bas-reliefs of the court scenes at Angkor Vat, no reference has been found up to this time to the greatest and most well-known temple of Kambuja. The inscriptions of Phnom Sandak[^216]and Preah Vihear[^217], recording the pious worksof the royal guruDivâkarapaṇdita, allude to a great building activity which may be in connection with Angkor Vat.
+
+[^216]: "Aymonier, Le Cambodge, t. i, pp. 395-6."
+
+[^217]: "Ibid, t, ii, p. 213 et seq."
 
 ***Suryavarman II.***
 
@@ -1737,7 +2169,9 @@ cannot be made out as the line has been badly damaged. In 1043 ç.e., Divâkara 
 
 ***Divâkara, the Royal Guru.***
 
- The information we get from the Khmer inscription of [Vat Phou](# "Aymonier, Le Cambodge, t. ii, p. 163.") makes this problem more enigmatic. In the introductory Sanscrit stanzas we get the name of Suryavarman II and of the god Bhadreçvara to whom the temple of Vat Phou was consecrated. Then we hear of a petition to the saintly guru for the construction of.... (the rest of the sentence is missing). In 1044 ç.e. (1122 A. D.) a Çankara-Nârâyaṇa is erected in the Vrâh Prân. Now Prân in Khmer means a pyramidal temple and Vat Phou is not a shrine of this type. Is this a reference to Angkor Vat? Then the erection of an image of the Vrah Guru (Divâkara) is mentioned. So he received divine honours in his life-time. In 1049 ç.e., a Vrah Viṣṇu was consecrated. In 1081 ç.e. (1139 A. D.) more images and a temple were consecrated with magnificent donations.
+ The information we get from the Khmer inscription of Vat Phou[^218] makes this problem more enigmatic. In the introductory Sanscrit stanzas we get the name of Suryavarman II and of the god Bhadreçvara to whom the temple of Vat Phou was consecrated. Then we hear of a petition to the saintly guru for the construction of.... (the rest of the sentence is missing). In 1044 ç.e. (1122 A. D.) a Çankara-Nârâyaṇa is erected in the Vrâh Prân. Now Prân in Khmer means a pyramidal temple and Vat Phou is not a shrine of this type. Is this a reference to Angkor Vat? Then the erection of an image of the Vrah Guru (Divâkara) is mentioned. So he received divine honours in his life-time. In 1049 ç.e., a Vrah Viṣṇu was consecrated. In 1081 ç.e. (1139 A. D.) more images and a temple were consecrated with magnificent donations.
+
+[^218]: "Aymonier, Le Cambodge, t. ii, p. 163."
 
  During the reign of Suryavarman II, the letters of the inscriptions, which had been
 
@@ -1747,7 +2181,9 @@ round in shape since the days of Indravarman I (9th century), became square. Man
 
 ***Diplomatic Relations with China.***
 
-  This reign is also remarkable for the renewal of diplomatic relations with China which had been broken off in the 9th century with Jayavarman II's accession. In 1117 A. D., we learn from Chinese [chronicles](# "Ma-touan-lin's Meridionaux, translated by Hervey de Saint Denys, p. 485."), that two Kambuja officials sent by Suryavarman II reached the Chinese court. One of these two was named Kieou Mo-seng-ko (...Siṃha?). The Emperor presented them court dress, listened to their compliments, and ordered an account of their reception to be included in the official annals. Four years later another embassy came from Kambuja to the Imperial Court. The king of Kambuja was invested with the
+  This reign is also remarkable for the renewal of diplomatic relations with China which had been broken off in the 9th century with Jayavarman II's accession. In 1117 A. D., we learn from Chinese chronicles[^219], that two Kambuja officials sent by Suryavarman II reached the Chinese court. One of these two was named Kieou Mo-seng-ko (...Siṃha?). The Emperor presented them court dress, listened to their compliments, and ordered an account of their reception to be included in the official annals. Four years later another embassy came from Kambuja to the Imperial Court. The king of Kambuja was invested with the
+
+[^219]: "Ma-touan-lin's Meridionaux, translated by Hervey de Saint Denys, p. 485."
 
 
 
@@ -1785,7 +2221,9 @@ identified with those given in the other inscriptions of Suryavarman II. Jayavar
 
 great Brahmans of Kambuja, Divâkarapaṇḍita, who was the royal guru of three consecutive kings—Jayavarman VI, Dharanîndravarman I, and Suryavarman II. The inscriptions tell us of his ceaseless building activity during three reigns, of his quasi-royal status, and of his leaning towards Vaiṣṇavism.
 
- Angkor Vat or Nokor Vat, the "temple of the city," is not oriented as usual. It faces the west, towards the road leading to the eastern gate of the capital Angkor Thom (Nagara Dhâma), and is at a distance of about a mile from the city. Not being cramped within a town, here everything is on a grand scale. on a grand scale. The moat, which surrounds it on all sides, may well be called a lake, being nearly 700 ft. in width. The causeway ballustraded with seven-hooded Nâgas, which crosses the moat, is 36 feet broad. Then we reach the great rectangular stone wall, enclosing the temple, about 2/3rds of a mile. east to west and half a mile [north to south.](# "Aymonier, Histoire de l'Ancien Cambodge, 1920, p. 147.")The principal entrance on the western side has a façade somewhat more than a furlong in length and consists of three gates dominated by three imposing towers. The pediments are richly sculptured. From the threshold of the gate there is a superb perspective of the great shrine rising in three terraces. The causeway crossing the moat continues from the gate of the
+ Angkor Vat or Nokor Vat, the "temple of the city," is not oriented as usual. It faces the west, towards the road leading to the eastern gate of the capital Angkor Thom (Nagara Dhâma), and is at a distance of about a mile from the city. Not being cramped within a town, here everything is on a grand scale. on a grand scale. The moat, which surrounds it on all sides, may well be called a lake, being nearly 700 ft. in width. The causeway ballustraded with seven-hooded Nâgas, which crosses the moat, is 36 feet broad. Then we reach the great rectangular stone wall, enclosing the temple, about 2/3rds of a mile. east to west and half a mile north to south.[^220]The principal entrance on the western side has a façade somewhat more than a furlong in length and consists of three gates dominated by three imposing towers. The pediments are richly sculptured. From the threshold of the gate there is a superb perspective of the great shrine rising in three terraces. The causeway crossing the moat continues from the gate of the
+
+[^220]: "Aymonier, Histoire de l'Ancien Cambodge, 1920, p. 147."
 
 
 
@@ -1821,7 +2259,9 @@ the phgâk. The former has for ensign a statuette of Garuḍa fixed on a long ha
 
 This means probably that it was a sacred procession in which earrings could be worn only by the Brahmans and the king. After some Brahmans, who are ringing bells, the sacred fire (Vrah Vlen) is carried in an ark by men with close-cropped hair. Trumpets and conches are blown. An enormous cymbal is struck with two mallets. Two buffoons dance in a grotesque fashion. The ensign-bearers seem to play with their ensigns. (7) Then the scene seems to change. After some Sañjaks we see Jaya Siṃha Varma, in the forests, leading the troops of Lvo (Lopburi in Siam). (8) The next figure is designated Neh Syâm Kuk, probably some Siamese chief, of strange and uncouth appearance with his followers. Their hair is arranged in several tiers and is decked with chaplets. From the waist-band of the chief are suspended ornaments which fall over a heavy skirt. His followers have their cheeks tattooed and look like savages. (9) The last of this series is "the representative of the king—Paman Jen Jhala leading Syâm (Siam) Kuk (troops ?)." Perhaps the last four scenes represent the foreign levies returning home after the review, which was probably held in connection with the sacred festival.
 
- A new [series](# "M. Coedès, Les Bas-reliefs d'Angkor Vat (1911), p. 43.") begins of the Last Judgment held by Yama, assisted by Citragupta, followed
+ A new series[^221], p. 43.") begins of the Last Judgment held by Yama, assisted by Citragupta, followed
+
+[^221]: "M. Coedès, Les Bas-reliefs d'Angkor Vat (1911
 
 
 
@@ -1833,7 +2273,15 @@ by scenes of heaven and hell, carefully annotated by short Khmer inscriptions. A
 
 
 
-to an end, and we pass on to the reliefs representing scenes from the Râniâyaṇa, Mahâbhârata, and Harivaṃça. One point to be carefully noted is the predominant part given to Viṣṇu (and his Râma and Kriṣṇa incarnations) in these [reliefs.](# "M. Coedès, Les Bas-reliefs d'Angkor Vat, p. 49.")Thus we have in the beginning the battlefield of Kurukṣetra (a Mahâbhârata scene) with Kriṣṇa and Arjuna in the front rank of the fighting warriors. Then follow eleven episodes of the Râmâyaṇa. Five exploits of [Kriṣṇa](# "The breaking of the twin trees, the raising of Mount Govardhana, the fight with Bâṇa, the Maniparvata and Naraka episodes.") appear next. Then we have four scenes in which Viṣṇu is the central [figure.](# "Viṣṇu sleeping on Çesanâga, the churning of the ocean, etc.")Four other scenes followwhich cannot be be identified but where we can make out Viṣṇu. Finally we have three scenes. devoted to [Çiva legends,](# "Kâma burnt by Çiva, Râvaṇa shoking Çiva's abode, etc.") one of which is taken from the Râmâyaṇa. This preponderance of Vaiṣṇava scenes, coupled with the *nom d'apotheose* Parama-Viṣṇuloka of the king who is the central figure in the "historic gallery," leads to the conclusion that Angkor Vat was originally a Viṣṇu temple.
+to an end, and we pass on to the reliefs representing scenes from the Râniâyaṇa, Mahâbhârata, and Harivaṃça. One point to be carefully noted is the predominant part given to Viṣṇu (and his Râma and Kriṣṇa incarnations) in these reliefs.[^222]Thus we have in the beginning the battlefield of Kurukṣetra (a Mahâbhârata scene) with Kriṣṇa and Arjuna in the front rank of the fighting warriors. Then follow eleven episodes of the Râmâyaṇa. Five exploits of Kriṣṇa[^223] appear next. Then we have four scenes in which Viṣṇu is the central figure.[^224]Four other scenes followwhich cannot be be identified but where we can make out Viṣṇu. Finally we have three scenes. devoted to Çiva legends,[^225] one of which is taken from the Râmâyaṇa. This preponderance of Vaiṣṇava scenes, coupled with the *nom d'apotheose* Parama-Viṣṇuloka of the king who is the central figure in the "historic gallery," leads to the conclusion that Angkor Vat was originally a Viṣṇu temple.
+
+[^222]: "M. Coedès, Les Bas-reliefs d'Angkor Vat, p. 49."
+
+[^223]: "The breaking of the twin trees, the raising of Mount Govardhana, the fight with Bâṇa, the Maniparvata and Naraka episodes."
+
+[^224]: "Viṣṇu sleeping on Çesanâga, the churning of the ocean, etc."
+
+[^225]: "Kâma burnt by Çiva, Râvaṇa shoking Çiva's abode, etc."
 
  Among the Râma reliefs may be noticed the death of the Râkṣasa Virâdha, Râma pursuing Mârica, the death of the Râkṣasa Kabandha, the alliance of Râma with Sugrîva, the duel between
 
@@ -1855,13 +2303,17 @@ by a strange irony of fate, though a wealth of material brought to light since t
 
 **THE LAST MONARCHS OF KAMBUJA.**
 
- Our sole authority for the immediate successors of Suryavarman II is the inscription of [Ta Prohm](# "Ed. by M. Coedès, B.E.F.E, O., t. vi, p. 45 at seq."), which contains a genealogy of Jayavarman VII, the last of the great monarchs of Kambuja. Here the king's maternal grandfather Harṣavarman is mentioned as a king of Kambuja "who spread the canopy of bis glory beyond the points of the compass." This is all that we know of Harṣavarman, who is supposed to be descended from the sister of Çrutavarman, the first king of Kambuja.
+ Our sole authority for the immediate successors of Suryavarman II is the inscription of Ta Prohm[^226], which contains a genealogy of Jayavarman VII, the last of the great monarchs of Kambuja. Here the king's maternal grandfather Harṣavarman is mentioned as a king of Kambuja "who spread the canopy of bis glory beyond the points of the compass." This is all that we know of Harṣavarman, who is supposed to be descended from the sister of Çrutavarman, the first king of Kambuja.
+
+[^226]: "Ed. by M. Coedès, B.E.F.E, O., t. vi, p. 45 at seq."
 
  The inscription of Non Van (in Laos), the last Khmer inscription we possess, seems to indicate the existence of a Jayavarman who reigned about 1090 ç.e. (1163 A. D.)—this being the date of the inscription. It is a royal order addressed to several high officials and priests, asking them to look after the upkeep of the monasteries (devâçramas) in the region of Ratnapura. The names and the titles of the officials (who are styled Kamratan An) and the priests and their posts are interesting. They are as follows:— "Râjendravarman, general of the army of the
 
 
 
-centre (it is noteworthy that one of the generals in the bas-reliefs of Angkor Vat bears this name); Travan Tannot ('pond of palms'), the president of the court; Kavîndrâlaya, the professor (adhyâpaka); Yogiçvara Paṇḍita Bhagavân, the priest in charge during the second fortnights of the month, Nirvâṇa Bhagavan in charge of the mid'day service of the [second fortnight.](# "Aymonier, Le Cambodge, t. II, p. III.")" The order is also addressed to other generals, astrologers, keepers of the sacred registers, treasurers, and officials in charge of the royal magazines for both the fortnights. The inscription is Çaiva. It is likely that the date of this inscription is wrongly given and in that case the King Jayavarman mentioned here would be Jayavarman VII himself. For in the Ta Prohm inscription only Jayavarman VI, the grand-unele of Sûryavarman II, is mentioned.
+centre (it is noteworthy that one of the generals in the bas-reliefs of Angkor Vat bears this name); Travan Tannot ('pond of palms'), the president of the court; Kavîndrâlaya, the professor (adhyâpaka); Yogiçvara Paṇḍita Bhagavân, the priest in charge during the second fortnights of the month, Nirvâṇa Bhagavan in charge of the mid'day service of the second fortnight.[^227]" The order is also addressed to other generals, astrologers, keepers of the sacred registers, treasurers, and officials in charge of the royal magazines for both the fortnights. The inscription is Çaiva. It is likely that the date of this inscription is wrongly given and in that case the King Jayavarman mentioned here would be Jayavarman VII himself. For in the Ta Prohm inscription only Jayavarman VI, the grand-unele of Sûryavarman II, is mentioned.
+
+[^227]: "Aymonier, Le Cambodge, t. II, p. III."
 
 ***Dharanîndravarman II.***
 
@@ -1869,35 +2321,55 @@ centre (it is noteworthy that one of the generals in the bas-reliefs of Angkor V
 
 
 
-"Having obtained satisfaction in the nectar-like teachings of the moon of the Çâkya race (Buddha), having devoted his life to the service of Bhikṣus, Brahmans, and others who asked for his help, desiring to extract the essence (of life) with the aid of this impure and unsubstantial body, he adored ceaselessly the feet of the [Jina.](# "Stanza 17 (Ta Prohm inscr.) B.E.F.E.O, & t. vi, p. 52.")
+"Having obtained satisfaction in the nectar-like teachings of the moon of the Çâkya race (Buddha), having devoted his life to the service of Bhikṣus, Brahmans, and others who asked for his help, desiring to extract the essence (of life) with the aid of this impure and unsubstantial body, he adored ceaselessly the feet of the Jina.[^228] B.E.F.E.O, & t. vi, p. 52.")
 
- His reign however witnessed a calamity unprecedented in the history of Kambuja. Ma-tou- an-lin, the famous Chinese historian and encyclopedist, writes in his notice of Chen-ching [(Champa)](# "Wen hien tong kao translated by Marquis Hervey de Saint Denys"):— In 1171 A.D. there was a (Chinese) Mandarin whose ship was driven by a storm to Chen-ching. This kingdom was then at war with Chen-la (Kambuja). On both sides elephants were used in the fighting. The Mandarin advised the king of Chen-ching to have horsemen with bows and cross-bows trained to shoot volleys of arrows while charging the enemy. The success of this scheme was immediate."
+[^228]: "Stanza 17 (Ta Prohm inscr.
 
- The Champa fleet, guided by a shipwrecked Chinese, according to the Chinese historian, reached the mouth of the great river (Mekong), sailed up to the Khmer capital, which it took by surprise and sacked, and then retired with an immense [booty.](# "Song Che.") A damaged Champa inscription refers to the victorious campaign of Jaya.
+ His reign however witnessed a calamity unprecedented in the history of Kambuja. Ma-tou- an-lin, the famous Chinese historian and encyclopedist, writes in his notice of Chen-ching (Champa)[^229]:— In 1171 A.D. there was a (Chinese) Mandarin whose ship was driven by a storm to Chen-ching. This kingdom was then at war with Chen-la (Kambuja). On both sides elephants were used in the fighting. The Mandarin advised the king of Chen-ching to have horsemen with bows and cross-bows trained to shoot volleys of arrows while charging the enemy. The success of this scheme was immediate."
+
+[^229]: "Wen hien tong kao translated by Marquis Hervey de Saint Denys"
+
+ The Champa fleet, guided by a shipwrecked Chinese, according to the Chinese historian, reached the mouth of the great river (Mekong), sailed up to the Khmer capital, which it took by surprise and sacked, and then retired with an immense booty.[^230] A damaged Champa inscription refers to the victorious campaign of Jaya.
+
+[^230]: "Song Che."
 
 
 
-[Indravarman IV](# "Bergaigne, L'Ancien Royaume du Cambodge, p. 87."). Dharaṇîndravarman II left to his son and successor Jayavarman VII the task of exacting vengeance.
+Indravarman IV[^231]. Dharaṇîndravarman II left to his son and successor Jayavarman VII the task of exacting vengeance.
 
- During this reign there existed friendly relations between Kambuja and distant Ceylon. In the [Mahâvaṃça](# "Transl. by Wijeaṃha, Ch. 76, pp. 229, 230 (Ed. 1889).") we find that "the king of Râmâṇya arrested and imprisoned the Ceylonese envoys pretending that they were sent to Kambuja and also seized a princess of the royal blood whom the lord of Laṅkâ (King Parâkrama Bâhu of Ceylon who reigned from 1164 to 1197 A.D.) had sent to the country of Kambuja." The Ceylonese ruler punished the Burmese king Arimaddana for this insult by a successful raid on the port Kusumi in Râmânṇya. And it may have been for this very reason that Jayavarman VII, as mentioned in the Chinese chronicles, conquered Pegu towards the end of the 12th century. Probably the Ceylonese princess was sent as a bride for him when he was the crown prince.
+[^231]: "Bergaigne, L'Ancien Royaume du Cambodge, p. 87."
+
+ During this reign there existed friendly relations between Kambuja and distant Ceylon. In the Mahâvaṃça[^232].") we find that "the king of Râmâṇya arrested and imprisoned the Ceylonese envoys pretending that they were sent to Kambuja and also seized a princess of the royal blood whom the lord of Laṅkâ (King Parâkrama Bâhu of Ceylon who reigned from 1164 to 1197 A.D.) had sent to the country of Kambuja." The Ceylonese ruler punished the Burmese king Arimaddana for this insult by a successful raid on the port Kusumi in Râmânṇya. And it may have been for this very reason that Jayavarman VII, as mentioned in the Chinese chronicles, conquered Pegu towards the end of the 12th century. Probably the Ceylonese princess was sent as a bride for him when he was the crown prince.
+
+[^232]: "Transl. by Wijeaṃha, Ch. 76, pp. 229, 230 (Ed. 1889
 
 *Jayavarman VII—a Great Buddhist Sovereign.*
 
- Jayavarman VII succeeded his father in 1104 ç.e. [(1182 A.D.).](# "This date is given in the inscription of the hospital of Kuk Roka (Finot, Notes d'Epigraphie, B.E.F.E.O., t. xv, no. 2, p. 108).") Though he ascended the throne shortly after the disastrous defeat suffered
+ Jayavarman VII succeeded his father in 1104 ç.e. (1182 A.D.).[^233].") Though he ascended the throne shortly after the disastrous defeat suffered
+
+[^233]: "This date is given in the inscription of the hospital of Kuk Roka (Finot, Notes d'Epigraphie, B.E.F.E.O., t. xv, no. 2, p. 108
 
 
 
 by Kambuja at the hands of Champa, yet by his warlike prowess he succeeded in winning a position for his country, which perhaps even Fu-nan had not attained in her palmiest days.
 
- The Ta Prohm [inscription](# "B.E.F.E.O., t. vi, p. 44.")traces the descent of Jayavarman's mother ÇrîJayarâjacûḍamaṇi from Çrutavarman, the first Kambuja king, and Bhavavarman who conquered Funan. After that the king's father Dharaṇîndravarman is mentioned and his kinship with Jayavarman VI and Sûryavarman II is described. The invocation is Buddhist and quite orthodox in tone. The Buddha, who is the refuge for all creation, is adored; then the path of Bodhi, by which an unobstructed view of the meaning of the created world can be attained, is honoured; after that the Sangha, which though free from all attachment (attachment being an obstacle to salvation), is always attached to the task of seeking the welfare of others, is mentioned; and finally Lokeçvara (Avalokiteçvara), the living incarnation of the celestial tree, the fruits of which satisfy all the desires of the three worlds, is invoked. Stanzas 19 to 28 give the praçasti (eulogy) of the king of which only the last (28) contains historical information. Here we aretold:— "The other kings, having heard of his glorious career that he (Jayavarman) had gone
+ The Ta Prohm inscription[^234]traces the descent of Jayavarman's mother ÇrîJayarâjacûḍamaṇi from Çrutavarman, the first Kambuja king, and Bhavavarman who conquered Funan. After that the king's father Dharaṇîndravarman is mentioned and his kinship with Jayavarman VI and Sûryavarman II is described. The invocation is Buddhist and quite orthodox in tone. The Buddha, who is the refuge for all creation, is adored; then the path of Bodhi, by which an unobstructed view of the meaning of the created world can be attained, is honoured; after that the Sangha, which though free from all attachment (attachment being an obstacle to salvation), is always attached to the task of seeking the welfare of others, is mentioned; and finally Lokeçvara (Avalokiteçvara), the living incarnation of the celestial tree, the fruits of which satisfy all the desires of the three worlds, is invoked. Stanzas 19 to 28 give the praçasti (eulogy) of the king of which only the last (28) contains historical information. Here we aretold:— "The other kings, having heard of his glorious career that he (Jayavarman) had gone
+
+[^234]: "B.E.F.E.O., t. vi, p. 44."
 
 
 
-to Champa and had captured in battle the king of the country and had then released him, accepted with folded hands (the like clemency)..." We know from Champa inscriptions and from Chinese sources that Jayavarman VII reduced Champa to submission and made it a dependency of Kambuja for about thirty years. The inscription goes on to enumerate the favours conferred by the king on his guru and the guru's family whom he raised to a royal status. "To their descendants the title of Senâpati was given as if they had been the descendants of [kings.](# "Stanza 33.")" In stanza 35 Jayavarman VII is stated to have founded the town of Râjavibhâra and to have dedicated it to the maintenance of the 'Mother of the Lord of the Munis.' Then we are told that he erected a statue of his mother adorned with gems, and that this was the image of the Mother of Jina (i.e., Prajñâpâramitâ). So the king's mother was identified with Prajñâpâramitâ—the mother of the Buddhas. He also erected the statue of his guru surrounded by 260 divine images. Then follows a list (in stanzas 38-44) of the daily offering to these images consisting of rice, sesame, mudga (a kind of lentil—"moog" in Bengali), kanku (millet), ghi, dahi (curds), milk, honey, molasses (guḍa), oil of sesame, oil of taruphala (taraminga in Bengali?)
+to Champa and had captured in battle the king of the country and had then released him, accepted with folded hands (the like clemency)..." We know from Champa inscriptions and from Chinese sources that Jayavarman VII reduced Champa to submission and made it a dependency of Kambuja for about thirty years. The inscription goes on to enumerate the favours conferred by the king on his guru and the guru's family whom he raised to a royal status. "To their descendants the title of Senâpati was given as if they had been the descendants of kings.[^235]" In stanza 35 Jayavarman VII is stated to have founded the town of Râjavibhâra and to have dedicated it to the maintenance of the 'Mother of the Lord of the Munis.' Then we are told that he erected a statue of his mother adorned with gems, and that this was the image of the Mother of Jina (i.e., Prajñâpâramitâ). So the king's mother was identified with Prajñâpâramitâ—the mother of the Buddhas. He also erected the statue of his guru surrounded by 260 divine images. Then follows a list (in stanzas 38-44) of the daily offering to these images consisting of rice, sesame, mudga (a kind of lentil—"moog" in Bengali), kanku (millet), ghi, dahi (curds), milk, honey, molasses (guḍa), oil of sesame, oil of taruphala (taraminga in Bengali?)
+
+[^235]: "Stanza 33."
 
 
 
-clothing, and Chinese silk for mosquito curtains for the images of the deities. In stanza 45 is given the amount of rice for the consumption of those who lived with the professor and lecturer (in the temple precincts). In the next stanza is given the amounts of provisions for the 18 festivals held every year and for the 8th, 14th and 15th day of the two fortnights (the uposatha). In the stanzas 53-58 are given the contributions (of provisions) to be demanded. from the villages, and in the following three stanzas the supplies of cloth, wax, lead, etc., to be taken fromthe weavers, markets, etc. In the stanzas 62-80 are enumerated the donationsof the king himself and the landlords which consist of 3,140 [villages](# "Stanza 65-67."). There are here 12,640 persons in all who have the right to live(in the precincts of the temple). 66,625 men and women serve the gods. The total comes up to 79,365 persons including the Burmese and the Champa (prisoners)." This confirms the statement, made by several Chinese chroniclers, that about 1295 A.D. Pukan [(Pagan)](# "Probably it means Pegu here as Pegu was a dependency of Pagan at this perica and also touched the western frontier of Kambuja.") was annexed by Jayavarman VII to his kingdom which already included Champa.
+clothing, and Chinese silk for mosquito curtains for the images of the deities. In stanza 45 is given the amount of rice for the consumption of those who lived with the professor and lecturer (in the temple precincts). In the next stanza is given the amounts of provisions for the 18 festivals held every year and for the 8th, 14th and 15th day of the two fortnights (the uposatha). In the stanzas 53-58 are given the contributions (of provisions) to be demanded. from the villages, and in the following three stanzas the supplies of cloth, wax, lead, etc., to be taken fromthe weavers, markets, etc. In the stanzas 62-80 are enumerated the donationsof the king himself and the landlords which consist of 3,140 villages[^236]. There are here 12,640 persons in all who have the right to live(in the precincts of the temple). 66,625 men and women serve the gods. The total comes up to 79,365 persons including the Burmese and the Champa (prisoners)." This confirms the statement, made by several Chinese chroniclers, that about 1295 A.D. Pukan (Pagan)[^237] was annexed by Jayavarman VII to his kingdom which already included Champa.
+
+[^236]: "Stanza 65-67."
+
+[^237]: "Probably it means Pegu here as Pegu was a dependency of Pagan at this perica and also touched the western frontier of Kambuja."
 
  In stanzas 68-75 are mentioned the presents of enormous quantities of gold (used for
 
@@ -1915,7 +2387,9 @@ Chinese beds of grass, mosquito curtains, scents known as taruṣka (or turuṣk
 
 ***Hospitals in Different Provinces.***
 
- In the 117th stanza we find: "There are 102 hospitals (ârogyaçâlâ) in the different provinces, and 798 shrines are established there (i.e., in the kingdom). For the use of the invalids and for those dwelling in these shrines 117,200 [khârikâs](# "One Khûrîkâ—128 seers.") of rice are to be given annually.
+ In the 117th stanza we find: "There are 102 hospitals (ârogyaçâlâ) in the different provinces, and 798 shrines are established there (i.e., in the kingdom). For the use of the invalids and for those dwelling in these shrines 117,200 khârikâs[^238] of rice are to be given annually.
+
+[^238]: "One Khûrîkâ—128 seers."
 
  We get some other interesting statistics, *e.g.,* the villages, contributing to the upkeep of the hospitals and shrines, number 838. The men and women in service there number 81,640. Then in the stanzas 120-140 are enumerated the articles to be taken every year from the royal magazines (for the use of the invalids and for those dwelling in the shrines). These include besides provisions, wax, honey, long pepper. (pippali), ajowan, nutmegs, acids (kṣâra), two kinds of camphor, dandansa (a fish?), çatapuṣpa (aniseed), cardamoms, coreander, cloves, deodar, a paste of ten roots, dried ginger, asafoetida, 1,960 little boxes of medicine for piles, garlic, etc.
 
@@ -1927,9 +2401,13 @@ delivered from the ocean of (future) existences, attain the state of Buddha."
 
  In the last (145) stanza it is stated that Çri Sûryakumâra, the son of the king Çri Jayavarman, had made this praçasti in honour of the Great Goddess (Prajñâpâramitâ with whom the mother of Jayavarman was supposed to be identified).
 
- An inscription recently discovered at [Phimeanakas](# "Inscriptions d'Angkore-par L. Finot, B.E.F.E.O.., t. xxv, Nos. 3-4, p. 372.") gives us interesting details about the queens of Jayavarman VII. His first queen, Jayarâjadevî, was the daughter of a Brahman. She had been educated by her elder sister Indradevî, a fervent Buddhist and a very learned lady, who taught the scriptures in three convents. The king appreciated her talents and on the death of her sister made her his principal queen. It was she who composed this Sanscrit inscription of Phimeanakas.
+ An inscription recently discovered at Phimeanakas[^239] gives us interesting details about the queens of Jayavarman VII. His first queen, Jayarâjadevî, was the daughter of a Brahman. She had been educated by her elder sister Indradevî, a fervent Buddhist and a very learned lady, who taught the scriptures in three convents. The king appreciated her talents and on the death of her sister made her his principal queen. It was she who composed this Sanscrit inscription of Phimeanakas.
 
- About ten of the hospital inscriptions of Jayavarman VII have been discovered. The [same text](# "Inscription of Say-Fongi (Finot, Notes d'Epigraphie, B.E.F.E.O., t. iii, No. I)."), with a few variations, have been used in all these. The invocation is addressed to Buddha in the three aspects of nirmâṇa, dharma and sambhoga kâyas, who is beyond existence and non-existence, and who is impersonal.
+[^239]: "Inscriptions d'Angkore-par L. Finot, B.E.F.E.O.., t. xxv, Nos. 3-4, p. 372."
+
+ About ten of the hospital inscriptions of Jayavarman VII have been discovered. The same text[^240]."), with a few variations, have been used in all these. The invocation is addressed to Buddha in the three aspects of nirmâṇa, dharma and sambhoga kâyas, who is beyond existence and non-existence, and who is impersonal.
+
+[^240]: "Inscription of Say-Fongi (Finot, Notes d'Epigraphie, B.E.F.E.O., t. iii, No. I
 
 
 
@@ -1939,19 +2417,31 @@ Then follows an invocation to Buddha Bhaiṣajyaguru (the Master Physician) and 
 
 articles, mostly medicines, to be given from the royal magazines to each patient. Finally the inhabitants of the locality (near the hospital) were granted some privileges. They were exempted from paying taxes and from the corvée. They were to be punished only in case of cruelty to living creatures.
 
- There is a bilingual inscription in Sanscrit and Khmer found at Phimeanakas which, on account of its square letters, should also be attributed to this reign. It is addressed to a sacred açvattha tree and is a curious combination of Buddhism and Brahmanism:— "Oh sacred mahâbodhi (the tree under which Buddha attained salvation), whose root is Brahmâ, whose trunk is Çiva, and whose branches are Viṣṇu...... May thunder never strike thee, may the axe never [touch thee."](# "M. Coedès, Etudes Cambodgiennes, B.E.F.E.O., &. xviii, p. ii.")
+ There is a bilingual inscription in Sanscrit and Khmer found at Phimeanakas which, on account of its square letters, should also be attributed to this reign. It is addressed to a sacred açvattha tree and is a curious combination of Buddhism and Brahmanism:— "Oh sacred mahâbodhi (the tree under which Buddha attained salvation), whose root is Brahmâ, whose trunk is Çiva, and whose branches are Viṣṇu...... May thunder never strike thee, may the axe never touch thee."[^241]
 
 ***Conquest of Champa and Pagan.***
 
- Champa [inscriptions](# "Inscr. of Po Nagar, 409 B. 4") tells us that Jayavarman VII conquered the whole country, seized the capital of Champa in 1112 ç.e. (1190 A.D.) and placed there a military governor.
+[^241]: "M. Coedès, Etudes Cambodgiennes, B.E.F.E.O., &. xviii, p. ii."
 
- Ma-touan-lin in his chapter on [Chin-la](# "Ethnographie des peuples etrangers a la Chine, par Ma-touan- lin, traduit par M. D'Herrey de Saint Denys,")says that the king of that realm took an awful revenge for the sack of his capital by Chen-
+ Champa inscriptions[^242] tells us that Jayavarman VII conquered the whole country, seized the capital of Champa in 1112 ç.e. (1190 A.D.) and placed there a military governor.
+
+[^242]: "Inscr. of Po Nagar, 409 B. 4"
+
+ Ma-touan-lin in his chapter on Chin-la[^243]says that the king of that realm took an awful revenge for the sack of his capital by Chen-
+
+[^243]: "Ethnographie des peuples etrangers a la Chine, par Ma-touan- lin, traduit par M. D'Herrey de Saint Denys,"
 
 
 
 ching (Champa) by invading that country, dethroning its prince, and putting in his place oneof his own subjects. Since then Chen-ching has remained a feudatory state of Chin-la
 
- Chou Ju-kua in his Chu-fan-chi mentions. Champa and Pukam (Pagan) definitely among the 12 dependencies of Chen-la (Kambuja). Aymonier quotes other Chinese historians as stating that towards the end of the 12th century Pukam (Pagan) was annexed to [Chen-la](# " Aymonier, Le Cambodge, t, iii, p. 528."). Probably by Pukam is meant here Pegu which was a dependency of Pagan. Pegu being so near the western frontier of Kambuja (which included Siam) would be easier to be overrun than [Pagan](# "An Annemite chronicle mentions at this period an inroad of Cambodian troops (on the Annam frontier) which included Siamese and Burmese contingents. (Maspero, Champa, p. 227.)"). Two other states Chen-li and Teng-lieou-ma (in the Malay Peninsula) were also annexed to Kambuja. Thus under Jayavarman VII, the Kambuja frontiers extended on the east to the China Sea, and on the west to the Bay of Bengal, and on the south far down into the [Malay Peninsula.](# "For in the reign of Suryavarman II it already included Grâhinear the Bay of Bandon,") This very expansion must have been a heavy strain on the resources of the State and probably was one of the causes of the rapid decline and fall of the Khmer kingdom which we now have to witness.
+ Chou Ju-kua in his Chu-fan-chi mentions. Champa and Pukam (Pagan) definitely among the 12 dependencies of Chen-la (Kambuja). Aymonier quotes other Chinese historians as stating that towards the end of the 12th century Pukam (Pagan) was annexed to Chen-la[^244]. Probably by Pukam is meant here Pegu which was a dependency of Pagan. Pegu being so near the western frontier of Kambuja (which included Siam) would be easier to be overrun than Pagan[^245] which included Siamese and Burmese contingents. (Maspero, Champa, p. 227.)"). Two other states Chen-li and Teng-lieou-ma (in the Malay Peninsula) were also annexed to Kambuja. Thus under Jayavarman VII, the Kambuja frontiers extended on the east to the China Sea, and on the west to the Bay of Bengal, and on the south far down into the Malay Peninsula.[^246] This very expansion must have been a heavy strain on the resources of the State and probably was one of the causes of the rapid decline and fall of the Khmer kingdom which we now have to witness.
+
+[^244]: " Aymonier, Le Cambodge, t, iii, p. 528."
+
+[^245]: "An Annemite chronicle mentions at this period an inroad of Cambodian troops (on the Annam frontier
+
+[^246]: "For in the reign of Suryavarman II it already included Grâhinear the Bay of Bandon,"
 
 
 
@@ -1973,7 +2463,9 @@ Maṅgalârtha. Their son Mahanâtha was a learned grammarian and was also a "pr
 
 
 
-century, the Mongol Emperor Kublai Khan was aspiring to the sovereignty of the whole Eastern world. When in 1283 Champa was invaded by the Chinese, two eṇvoys were sent to Kambuja to demand allegiance to the Emperor. As this mission failed, an ambassador was despatchedto Kambuja in 1296 A. D. Cheou Ta-kouan, the author of the memoirs on Kambuja [customs,](# "The Chen la fong t'ou ki. Memoires sur les contumes du Cambodge, translated by M. Pelliot, B. E. F. E. O., t. ii, p. 1.")accompanied the Chinese ambassador. Though Cheou Ta-kouan says that the embassy succeeded in achieving its purpose, a Chinese historian writes in 1520 that neither Java nor Kambuja paid homage to the Imperial Court even once during the Yuan (Mongol) period.
+century, the Mongol Emperor Kublai Khan was aspiring to the sovereignty of the whole Eastern world. When in 1283 Champa was invaded by the Chinese, two eṇvoys were sent to Kambuja to demand allegiance to the Emperor. As this mission failed, an ambassador was despatchedto Kambuja in 1296 A. D. Cheou Ta-kouan, the author of the memoirs on Kambuja customs,[^247]accompanied the Chinese ambassador. Though Cheou Ta-kouan says that the embassy succeeded in achieving its purpose, a Chinese historian writes in 1520 that neither Java nor Kambuja paid homage to the Imperial Court even once during the Yuan (Mongol) period.
+
+[^247]: "The Chen la fong t'ou ki. Memoires sur les contumes du Cambodge, translated by M. Pelliot, B. E. F. E. O., t. ii, p. 1."
 
  Cheou Ta-kouan, who by the by was not an official, calls the country, which he visited, Chen-la, though he says that the native name was Kan-po-che (Kambuja). The capital he calls "the City." Was it already called Nagara which later on became Nokor or Angkor? His description of the moat, the city wall, the five gates, the Naga parapets on the bridges, etc., closely corresponds with what is still to be seen at Angkor Thom. He however says that the gates were crowned with five representations of human heads, four on each side and one in the middle, the middle one being gilded. The towers now only show four heads—yet, as they are the representations
 
@@ -2063,19 +2555,29 @@ from China such as silk stuffs, tin, porcelain, vermillion, paper, saltpetre, et
 
 
 
-were still flourishing at the beginning of the 14th century. Nevertheless the kingdom was already in great danger of Siamese [invasions.](# "M. Finot, Hinda Kingdoms in Indo-China, in the ''Indian Historical Quarterly,'' December,1925.")"
+were still flourishing at the beginning of the 14th century. Nevertheless the kingdom was already in great danger of Siamese invasions.[^248]"
 It is interesting that the inscription of Bantei Srei confirms the statement of Cheou Ta-kouan in a passage—where the Earth is congratulated on having been delivered by a young king "from the thorns and brambles which had grown up" during the reign of an old king. It is expressly stated that the old king ceded his throne to his son-in-law Çrîndravarman.
+
+[^248]: "M. Finot, Hinda Kingdoms in Indo-China, in the ''Indian Historical Quarterly,'' December,1925."
 
 The Last Inscriptions.
 
-  ÇrÎndravarman was s succeeded in 1307 A.D. by [ÇrÎndravarman](# "Inscripcions d'Angkor, B.E.F.E.O., t. xxv, p. 395"). The inscription of Angkor Vat, which is badly damaged and bears no date, throws a dubious light on the last rulers of Kambuja. It is the last of our Sanscrit inscriptions and probably belongs to the middle of the [14th century A.D](# " I.S.C.C 1.8.0.0., p. 560."). The script shows distinct deterioration, but the language is fairly correct though not so polished as in the inscriptions of Yaçovarman. It is fervently Çaiva in tone. It commemorates a donation by Jayavarmaparameçvara (who probably succeeded Çrîndrajayavarman about the middle of the 14th century
+  ÇrÎndravarman was s succeeded in 1307 A.D. by ÇrÎndravarman[^249]. The inscription of Angkor Vat, which is badly damaged and bears no date, throws a dubious light on the last rulers of Kambuja. It is the last of our Sanscrit inscriptions and probably belongs to the middle of the 14th century A.D[^250]. The script shows distinct deterioration, but the language is fairly correct though not so polished as in the inscriptions of Yaçovarman. It is fervently Çaiva in tone. It commemorates a donation by Jayavarmaparameçvara (who probably succeeded Çrîndrajayavarman about the middle of the 14th century
+
+[^249]: "Inscripcions d'Angkor, B.E.F.E.O., t. xxv, p. 395"
+
+[^250]: " I.S.C.C 1.8.0.0., p. 560."
 
 
 
-A.D) to an âçrama founded by his hotâ Vidyeçadhimat, the priest of Bhadreçvara. We are told that Sarvajñamuni, one of the predecessors of this priest, came from Âryadeça (North India?). Another predecessor of this priest, Vidyeçavid, was the hotâ of Jayavarman VIII and performed the abhiṣeka ceremony of his successor Çrîndravarman. On the death of Vidyeçavid, another Brahman, whose name has disappeared, became the hotâ of the king (Çrîndravarman) and erected a statue of the Ganges on the banks of the Yaçodhara [lake](# "I.S.C.C, p. 572 (stanza 49) and p. 574 (stanzas 62, 63, 66).").
+A.D) to an âçrama founded by his hotâ Vidyeçadhimat, the priest of Bhadreçvara. We are told that Sarvajñamuni, one of the predecessors of this priest, came from Âryadeça (North India?). Another predecessor of this priest, Vidyeçavid, was the hotâ of Jayavarman VIII and performed the abhiṣeka ceremony of his successor Çrîndravarman. On the death of Vidyeçavid, another Brahman, whose name has disappeared, became the hotâ of the king (Çrîndravarman) and erected a statue of the Ganges on the banks of the Yaçodhara lake[^251] and p. 574 (stanzas 62, 63, 66).").
 
- Quite recently has been discovered at Angkor Vat a few lines in incorrect Sanscrit on a pillar on which are sculptured images of the Buddha. Its interest lies in the fact that it shows that at this period (which from the incorrect Sanscrit and the uncouth appearance of the sculptures must be late 14th century or early 15th century A.D.), the cult of Avalokiteçvars (and therefore Mahâyâna Buddhism) still survived the triumphant progress of Hînayâna Buddhism which came in from Siam. For on this pillar occursthe name of Âryâvalokeçvara which is a corrupt form of Ârya Avalokiteçvara. There is also a mention of Âryadevi (Prajñâ-pâramitâ) and her image too can be traced on the [pillar.](# "B.E.F.E.O., t. xxv, p. 406.")
+[^251]: "I.S.C.C, p. 572 (stanza 49
 
+ Quite recently has been discovered at Angkor Vat a few lines in incorrect Sanscrit on a pillar on which are sculptured images of the Buddha. Its interest lies in the fact that it shows that at this period (which from the incorrect Sanscrit and the uncouth appearance of the sculptures must be late 14th century or early 15th century A.D.), the cult of Avalokiteçvars (and therefore Mahâyâna Buddhism) still survived the triumphant progress of Hînayâna Buddhism which came in from Siam. For on this pillar occursthe name of Âryâvalokeçvara which is a corrupt form of Ârya Avalokiteçvara. There is also a mention of Âryadevi (Prajñâ-pâramitâ) and her image too can be traced on the pillar.[^252]
+
+
+[^252]: "B.E.F.E.O., t. xxv, p. 406."
 
 
  Probably during the 15th century the Khmer kings, unable to resist the Siamese advance, left Angkor and withdrew further into the interior. On the south-east an even more terrible enemy, the Annamites, who had overthrown Champa, were working havoc in the realm of Kambuja. The age of inscriptions, the most glorious period of Khmer history, now comes to a close. The age of chronicles, which shows the once mighty kingdom of Kambuja a prey to the merciless inroads of Annamites on the one hand and the Siamese on the other, is a dry and depressing account of pompous titles of princes and internal dissensions which were exploited by the foreign enemies. These chronicles are comparatively modern, being rewritten from Siamese sources at the end of the 18th century-the old histories having been destroyed in the perpetual wars which afflicted the country.
@@ -2108,7 +2610,9 @@ Brahmans in Kambuja.
 
 the middle of the fourteenth century, tells us of Sarvajñamuni, a priest of Bhadreçvara, who came from Âryadeça (North India?).
 
-  We do not get much substantial evidence of the other castes however. Sometimes we come across references to a royal princess marrying a Kṣatriya. We hear much, of course, of the solar dynasty (founded by the Riṣi Kambu and the nymph Merâ) and the lunar dynasty (which has been traced from Kaundinya and Somâ). In these cases too, the founders of the two dynasties were Brahmans, though the later rulers assume the Kṣatriya title of 'varman', In India too there are cases of a dynasty, Brahman in its origin, being recognised later on as Kṣatriya. It is curious that the tradition of to-day sees in the Bâkus, who are the descendants of the ancient Brahmans, the future sovereigns of the country in case the present royal family of Cambodia becomes [extinct](# "Aymonier, Histoire de l'ancien Cambodge, 1920, p. 178.").
+  We do not get much substantial evidence of the other castes however. Sometimes we come across references to a royal princess marrying a Kṣatriya. We hear much, of course, of the solar dynasty (founded by the Riṣi Kambu and the nymph Merâ) and the lunar dynasty (which has been traced from Kaundinya and Somâ). In these cases too, the founders of the two dynasties were Brahmans, though the later rulers assume the Kṣatriya title of 'varman', In India too there are cases of a dynasty, Brahman in its origin, being recognised later on as Kṣatriya. It is curious that the tradition of to-day sees in the Bâkus, who are the descendants of the ancient Brahmans, the future sovereigns of the country in case the present royal family of Cambodia becomes extinct[^253].
+
+[^253]: "Aymonier, Histoire de l'ancien Cambodge, 1920, p. 178."
 
  Caste regulations, however, were much more elastic in Kambuja than in India. Not only did Brahmans wed Kṣatriya princesses (which was after all a valid practice, though not usual in India), but the kings married sometimes Brahman maidens—something quite unorthodox according to the Çâstras. Jayavarman II had
 
@@ -2124,7 +2628,9 @@ Indian Religions in Kambuja.
 
 
 
-two deities were combined in a liṅga emblem—which is unusual in India. Viṣṇu was worshipped separately too. Sûryavarman II was a Vaiṣṇava and the great temple of Angkor Vat, which was built during his reign, is very probably a shrine of Viṣṇu. Images of Umâ, Lakṣmî, Sarasvatî and of Gangâ (the Ganges) are also mentioned in the inscriptions. A shrine was raised to Kṛṣṇa in a place called Madhuvana by the Brahman Divâkara who came from the banks of the Jumna. At least once an image of Brahmâ is referred to. In the digraphic inscriptions of Yaçovarman, we hear of shrines consecrated to Ganeça, Nidrâ, Kârttikeya, Nârâyana, Brahmarâkṣasa, Rudrâṇi, [etc.](# " I.S. C. C., pp. 376, 382, 385, 387, 388 and 390.") The goddess Nidrâ (sleep) is identified by Barth with Yoganidrâ or Mahâmâyâ (a form of Durgâ). The mention of a shrine of Brahmarâkṣasa is peculiarly interesting. He is not a god at all but a malignant spirit. When a wicked Brahman commits suicide or meets with a violent death, according to popular tradition, his troubled soul assumes the form of a Brahmarâkṣasa. No shrine dedicated to such an evil spirit probably exists in India, but the Brahmarâkṣasa plays an important role in numerous folk-tales of Bengal. Aymonier states that the defiles of the hills of Bantea Meas, where this shrine is situated, are supposed
+two deities were combined in a liṅga emblem—which is unusual in India. Viṣṇu was worshipped separately too. Sûryavarman II was a Vaiṣṇava and the great temple of Angkor Vat, which was built during his reign, is very probably a shrine of Viṣṇu. Images of Umâ, Lakṣmî, Sarasvatî and of Gangâ (the Ganges) are also mentioned in the inscriptions. A shrine was raised to Kṛṣṇa in a place called Madhuvana by the Brahman Divâkara who came from the banks of the Jumna. At least once an image of Brahmâ is referred to. In the digraphic inscriptions of Yaçovarman, we hear of shrines consecrated to Ganeça, Nidrâ, Kârttikeya, Nârâyana, Brahmarâkṣasa, Rudrâṇi, etc.[^254] The goddess Nidrâ (sleep) is identified by Barth with Yoganidrâ or Mahâmâyâ (a form of Durgâ). The mention of a shrine of Brahmarâkṣasa is peculiarly interesting. He is not a god at all but a malignant spirit. When a wicked Brahman commits suicide or meets with a violent death, according to popular tradition, his troubled soul assumes the form of a Brahmarâkṣasa. No shrine dedicated to such an evil spirit probably exists in India, but the Brahmarâkṣasa plays an important role in numerous folk-tales of Bengal. Aymonier states that the defiles of the hills of Bantea Meas, where this shrine is situated, are supposed
+
+[^254]: " I.S. C. C., pp. 376, 382, 385, 387, 388 and 390."
 
 
 
@@ -2140,11 +2646,17 @@ to be haunted up to this time and still strike terror into the hearts of the sup
 
 
 
-is stated in the accompanying inscription to be the effigy of a [lady](# "Coedès, Sar l'apotheose au Cambodge,' B. C. A. 1, 1911, p. 42")
+is stated in the accompanying inscription to be the effigy of a lady[^255]
 
   Identifications of distinguished men and women with Viṣṇu and the Buddhist goddess Prajñâpâramità are also referred to. In short, from the ninth to the end of the twelfth century, allusions to this practice of apotheosis of persons, held in high esteem, are quite common in our inscriptions.
 
- Moreover, similar deification of living people too was not unknown. Thus Punnâgavarman consecrates an image of Çiva "which is made after his own [likeness.](# ". Journal Asintique, t. xx (1882), p. 145")" King Udayâdityavarman II consecrates the liṅga Jayendravarmeçvara when his guru Jayendravarman, in whose honour the emblem was so named, was still [alive](# "Inc. of Sdok kak Thom, B. E. F. E. O., t. xv, p. 86."). The victorious general Saṅgrâma offers to the king the spoils of war requesting him to present them "to your subtle ego who is Īçvara dwelling in a golden liṅga."
+[^255]: "Coedès, Sar l'apotheose au Cambodge,' B. C. A. 1, 1911, p. 42"
+
+ Moreover, similar deification of living people too was not unknown. Thus Punnâgavarman consecrates an image of Çiva "which is made after his own likeness.[^256], p. 145")" King Udayâdityavarman II consecrates the liṅga Jayendravarmeçvara when his guru Jayendravarman, in whose honour the emblem was so named, was still alive[^257]. The victorious general Saṅgrâma offers to the king the spoils of war requesting him to present them "to your subtle ego who is Īçvara dwelling in a golden liṅga."
+
+[^256]: ". Journal Asintique, t. xx (1882
+
+[^257]: "Inc. of Sdok kak Thom, B. E. F. E. O., t. xv, p. 86."
 
  Then again we have posthumous titles of the kings indicating that they had gone to the heavens of their favourite deities such as Çivaloka, Viṣṇuloka, Nirvâṇapada, etc. A few of the kings of Champa have similar posthumous titles.
 
@@ -2160,9 +2672,13 @@ Finally we have the cult of the Kamraten Jagat ta râjya (the god who is the kin
 
 
 
-well-known. "At Pattadakal (which regionoffers so many points of resemblance to Kambuja)," says Sir Charles Eliot, "King Vijayâditya founded a temple of Vijayeçvara, and two queens, Lokamahâdevî and Trailokyamahâdevî, founded temples of Lokeçvara and [Trailo- keçvara.](# "Sir Charles Eliot, 'Hinduism and Buddhism,")"
+well-known. "At Pattadakal (which regionoffers so many points of resemblance to Kambuja)," says Sir Charles Eliot, "King Vijayâditya founded a temple of Vijayeçvara, and two queens, Lokamahâdevî and Trailokyamahâdevî, founded temples of Lokeçvara and Trailo- keçvara.[^258]"
 
-  An inscription from Kurgod in the Bellary district (Madras Presidency), dated 1181 A.D., states that in the course of his pious reign, Râcamalla (the Sînda ruler of Kurgod) was favoured with an epiphany of Çiva and his attendant spirits. After death Râcamalla was translated to Sâlokya in Çiva's heaven, subsequently appearing on earth as a manifestation of Çiva in form of a svayambhuva (self-created) liṅga in Kurgod, where a sanctuary was raised and worship paid to him under the name of [UdbhavaRàcamalleçvara](# "Epigraphia Indica, Vol. XIV, No. 19, pp. 279-281,"). The ancestor of the Sînda princes was supposed to have sprung from the union of a Nâga king with the radiance (personified) of Çiva's sword.
+[^258]: "Sir Charles Eliot, 'Hinduism and Buddhism,"
+
+  An inscription from Kurgod in the Bellary district (Madras Presidency), dated 1181 A.D., states that in the course of his pious reign, Râcamalla (the Sînda ruler of Kurgod) was favoured with an epiphany of Çiva and his attendant spirits. After death Râcamalla was translated to Sâlokya in Çiva's heaven, subsequently appearing on earth as a manifestation of Çiva in form of a svayambhuva (self-created) liṅga in Kurgod, where a sanctuary was raised and worship paid to him under the name of UdbhavaRàcamalleçvara[^259]. The ancestor of the Sînda princes was supposed to have sprung from the union of a Nâga king with the radiance (personified) of Çiva's sword.
+
+[^259]: "Epigraphia Indica, Vol. XIV, No. 19, pp. 279-281,"
 
   Among the Bengalis up to this time, when speaking of a departed relation, we say Îçvara so-and-so. The idea is that after death the person has become merged in God.
 
@@ -2174,7 +2690,9 @@ deceased King Daçaratha being added to the statues of his predecessors in the p
 
   Possibly there might have been some Chinese influence too in this Kambuja practice of the apotheosis of ancestors. In the Far East ancestor-worship is the fundamental form of religion, and in China we find fully developed the notion that ancestral spirits could reside in tablets.
 
-  As regards the apotheosis of kings, we must remember that in the Çâstras (and in the Bhagavad Gîtâ too) the king is, as it were, the image of God. Moreover, as Sir Charles Eliot says:—"A simpler cause tended to unite Church and State in all these Hindu colonies. In mediaeval India the Brahmans became so powerful that they could claim to represent religion and civilization apart from the State. But in Kambuja and Champa, Brahmanic religion and civilization were bound up with the State. Both were attacked by and ultimately succumbed to the same [enemies](# "Hinduism and Buddhism, Vol. III, p. 117.")."
+  As regards the apotheosis of kings, we must remember that in the Çâstras (and in the Bhagavad Gîtâ too) the king is, as it were, the image of God. Moreover, as Sir Charles Eliot says:—"A simpler cause tended to unite Church and State in all these Hindu colonies. In mediaeval India the Brahmans became so powerful that they could claim to represent religion and civilization apart from the State. But in Kambuja and Champa, Brahmanic religion and civilization were bound up with the State. Both were attacked by and ultimately succumbed to the same enemies[^260]."
+
+[^260]: "Hinduism and Buddhism, Vol. III, p. 117."
 
 
 
@@ -2194,19 +2712,25 @@ constructed by the Çrîvijaya kings in Java, the Nalanda plate of Devapâla of 
 
 Possibly, towards the end of the eighth century (which century is a blank in Kambuja history),Çrîvijaya claimed some sort of suzerainty over Kambuja, and Jayavarman, a prince of the latter country, might have resided for some time at the court of his sovereign.
 
-  The important inscription of Sdok Kak Thom, the record of the High Priests of the Royal God, states that on coming back from Java Jayavarman II built three capitals in succession—Hariharâlaya, Amarendrapura and Mahendraparvata, and that in his last days the great king went back to his first capital Hariharâlaya. Apparently Jayavarman had been infected with the spirit of the great building activity which the Çrîvijaya kings were at this time showing in Central Java. Now Amarendrapura, the first of the great monuments of Khmer art, has been successfully identified with Banteai Ohmar—a city which recent researches have discovered to be wholly Mahâyânist and of which Avalokiteçvarawas the presiding [deity](# "B. E. F. E. O., t. xxv (1825), Nos. 3-4, p. 294."). This is strong evidence for inferring that Mahâyâna Buddhism came with Jayavarman II from Çrîvijaya.
+  The important inscription of Sdok Kak Thom, the record of the High Priests of the Royal God, states that on coming back from Java Jayavarman II built three capitals in succession—Hariharâlaya, Amarendrapura and Mahendraparvata, and that in his last days the great king went back to his first capital Hariharâlaya. Apparently Jayavarman had been infected with the spirit of the great building activity which the Çrîvijaya kings were at this time showing in Central Java. Now Amarendrapura, the first of the great monuments of Khmer art, has been successfully identified with Banteai Ohmar—a city which recent researches have discovered to be wholly Mahâyânist and of which Avalokiteçvarawas the presiding deity[^261], Nos. 3-4, p. 294."). This is strong evidence for inferring that Mahâyâna Buddhism came with Jayavarman II from Çrîvijaya.
+
+[^261]: "B. E. F. E. O., t. xxv (1825
 
   Hariharâlaya, the first and last capital of Jayavarman II, is generally supposed to be in the immediate vicinity of Angkor Thom. The third capital Mahendraparvata (the present
 
 
 
-Phnom Koulen) is a few leagues to the N.W. of Angkor, and this hill was the quarry from which were supplied the stones for constructing Angkor Thom. The Brahmanical inscription of Sdok Kak Thom ascribes the founding of Angkor Thom to Yaçovarman—a fervent Çaiva. This famous capital has been up to this time supposed to be pre-eminently Çaiva, and the Bayon has been considered, on the authority of the inscription of Sdok Kak Thom of the Brahman High Priests, to be the shrine of the Royal God. But quite recent discoveries have shown traces of representations of Lokeçvara on the gates of this city, and a Lokeçvara (Avalokiteçvara) image has been found in a central place in the temple of the Bayon itself. What makes these recent findings more interesting is the fact that these emblems of Mahâyânism at Angkor Thom have been deliberately mutilated or carefully concealed by Çaiva iconoclasts. M. Finot has been ledto the conclusion that Angkor Thom began as a Buddhist city, which was placed under the special protection of the Bodhisattva Lokeçvara, and that the Bayon itself was in the beginning a Lokeçvara shrine, which was afterwards converted into a Çaiva [temple](# "Btudes Asiatiques, 1925, Vol. I, pp. 227-256"). Between Angkor Thom and Banteai Chmar (the second capital of Jayavarman II) many vestiges of the Lokeçvara cult have been found in the intervening country
+Phnom Koulen) is a few leagues to the N.W. of Angkor, and this hill was the quarry from which were supplied the stones for constructing Angkor Thom. The Brahmanical inscription of Sdok Kak Thom ascribes the founding of Angkor Thom to Yaçovarman—a fervent Çaiva. This famous capital has been up to this time supposed to be pre-eminently Çaiva, and the Bayon has been considered, on the authority of the inscription of Sdok Kak Thom of the Brahman High Priests, to be the shrine of the Royal God. But quite recent discoveries have shown traces of representations of Lokeçvara on the gates of this city, and a Lokeçvara (Avalokiteçvara) image has been found in a central place in the temple of the Bayon itself. What makes these recent findings more interesting is the fact that these emblems of Mahâyânism at Angkor Thom have been deliberately mutilated or carefully concealed by Çaiva iconoclasts. M. Finot has been ledto the conclusion that Angkor Thom began as a Buddhist city, which was placed under the special protection of the Bodhisattva Lokeçvara, and that the Bayon itself was in the beginning a Lokeçvara shrine, which was afterwards converted into a Çaiva temple[^262]. Between Angkor Thom and Banteai Chmar (the second capital of Jayavarman II) many vestiges of the Lokeçvara cult have been found in the intervening country
+
+[^262]: "Btudes Asiatiques, 1925, Vol. I, pp. 227-256"
 
 
 
 and these have also suffered from iconoclastic zeal.
 
-  M. Finot's conclusion is that Angkor Thom was founded by Jayavarman II—a Mahâyâna Buddhist. It seems that Hariharâlaya (the first and last capital of Jayavarman II) was simply the older name of Angkor. Yaçovarman, M. Finot thinks, converted it into a Çaiva city, and, as in the Brahmanical inscription of Sdok Kak Thom, he is represented as the founder of this capital, the acts of vandalism committed against Mahâyânist images may perhaps be attributed to him. It is also strange that the exceptionally long reign of Jayavarman II should have left no contemporary inscription, especially when this period was considered to be so brilliant in subsequent times. Probably the inscriptions of this Buddhist sovereign were deliberately [destroyed.](# "In the badly damaged inscription of Prasat Khnst (see p. 85) one can decipher the name of Lokanâtha (Buddha) and Jayavarman II.")
+  M. Finot's conclusion is that Angkor Thom was founded by Jayavarman II—a Mahâyâna Buddhist. It seems that Hariharâlaya (the first and last capital of Jayavarman II) was simply the older name of Angkor. Yaçovarman, M. Finot thinks, converted it into a Çaiva city, and, as in the Brahmanical inscription of Sdok Kak Thom, he is represented as the founder of this capital, the acts of vandalism committed against Mahâyânist images may perhaps be attributed to him. It is also strange that the exceptionally long reign of Jayavarman II should have left no contemporary inscription, especially when this period was considered to be so brilliant in subsequent times. Probably the inscriptions of this Buddhist sovereign were deliberately destroyed.[^263] one can decipher the name of Lokanâtha (Buddha) and Jayavarman II.")
+
+[^263]: "In the badly damaged inscription of Prasat Khnst (see p. 85
 
   This very inscription of the High Priests of the Royal God suggests some relation between the religion followed at first by Jayavarman II and Java or Çrîvijaya. We have already seen the passage in which Jayavarman asks the Brahman, Hiraṇyadâma, who came from Janapada and who had supernatural powers, to draw up a ritual so that Kambuja-deça might no longer be dependent on Java and that there might be in the
 
@@ -2220,7 +2744,15 @@ kingdom a Cakravartti sovereign (i.e., a ruler not owing allegiance to any sover
 
 
 
-Mahâyâna faith in the Malay peninsula ([Inser. of Vien Sa 775 A. D.](# "G. Ferrand, L'Empire Sumatranais de Çrivijaya, p. 38")) and in Java ([Inscr. of Kalasan 779A.D.](# "Ibid")), to have reached the shores of Sumatra from Southern India. Moreover, we can bring more direct evidence to bear upon this point. Kern, in his Geschiedenis van het Buddhisme in Indie (Part II, p. 415), states that Dharmapala, the famous professor of Nalanda, after teaching there for 30 years, left for Suvarṇadvîpa ([Sumatra](# "See Târânûtha, History of Buddhism in India, transl. by Schiefner, p. 161")). Again the inscription of Kalasan in Central Java, which commemorates the construction of a temple of Târâ by order of the Mâhâraja of the Çailendra dynasty, is written in North Indian characters. Sir R. G. Bhandarkar wrote in [1889](# "Bombay Brunch of the Royal Asiatic Society -A Sanscrit Inscription from Central Java, 1888.") after seeing a photo of this inscription, "The characters resemble those of the North Indian inscriptions of the period between the eighth and eleventh centuries; while the style of execution is almost exactly like that of an inscription (of the middle of the ninth century) found at Ghosravan near the old city of Nalanda in Magadha." At this time Magadha was part of the dominions of the fervently Mahâyânist Palas of Bengal.
+Mahâyâna faith in the Malay peninsula (Inser. of Vien Sa 775 A. D.[^264]) and in Java (Inscr. of Kalasan 779A.D.[^265]), to have reached the shores of Sumatra from Southern India. Moreover, we can bring more direct evidence to bear upon this point. Kern, in his Geschiedenis van het Buddhisme in Indie (Part II, p. 415), states that Dharmapala, the famous professor of Nalanda, after teaching there for 30 years, left for Suvarṇadvîpa (Sumatra[^266]). Again the inscription of Kalasan in Central Java, which commemorates the construction of a temple of Târâ by order of the Mâhâraja of the Çailendra dynasty, is written in North Indian characters. Sir R. G. Bhandarkar wrote in 1889[^267] after seeing a photo of this inscription, "The characters resemble those of the North Indian inscriptions of the period between the eighth and eleventh centuries; while the style of execution is almost exactly like that of an inscription (of the middle of the ninth century) found at Ghosravan near the old city of Nalanda in Magadha." At this time Magadha was part of the dominions of the fervently Mahâyânist Palas of Bengal.
+
+[^264]: "G. Ferrand, L'Empire Sumatranais de Çrivijaya, p. 38"
+
+[^265]: "Ibid"
+
+[^266]: "See Târânûtha, History of Buddhism in India, transl. by Schiefner, p. 161"
+
+[^267]: "Bombay Brunch of the Royal Asiatic Society -A Sanscrit Inscription from Central Java, 1888."
 
 
 
@@ -2228,7 +2760,9 @@ Mahâyâna faith in the Malay peninsula ([Inser. of Vien Sa 775 A. D.](# "G. Fer
 
   In the digraphic inscriptions of Yaçovarman (ninth century A.D.) the North Indian characters appear in Kambuja also. Barth is of the opinion (see p. 112) that this North Indian alphabet arrived in Kambuja only after making a long halt in Java, as the Javanese and Kambuja in Jav (Nâgarî) scripts resemble each other more closely than any of the North Indian scripts. I suggest that this script and Mahâyâna Buddhism probably came both together with Jayavarman II into Kambuja from Çrîvijaya. We must remember that we possess no contemporary inscription of Jayavarman II. I have already quoted Barth's remark (p. 112) that as regards general aspect this new script in Java and Kambuja is more akin to Bengali than to any other Northern alphabet.
 
-  Burnell believed that Buddhist emigrants from North India came in large numbers to Java about the eleventh century—perhaps on account of religious disputes in [India](# "Indian Antiquary, V, p. 316."). Since
+  Burnell believed that Buddhist emigrants from North India came in large numbers to Java about the eleventh century—perhaps on account of religious disputes in India[^268]. Since
+
+[^268]: "Indian Antiquary, V, p. 316."
 
 
 
@@ -2242,7 +2776,9 @@ then the Kalasan inscription of Central Java (779 A.D.) and the digraphic inscri
 
 
 
-attempt to extirpate Buddhism, it held its ground in Karṇa-suvarna itself. For Hiuen Tsang, when he visited this region, mentions a "magnificent and famous" Buddhist monastery of the name of Rakta-mrittikâ' (Red Earth)—" the resort of illustrious Brethren" (Watter's translation, Vol. II, p. 191) and ten other Buddhist shrines in the capital. It is curious that the present name of this locality is Rângâmâti (Bengali for red earth). mrittikâ," referred to in an early Sanscrit inscription in the Malay Peninsula, as the place to which belonged the pious Buddhist sea-trader who was the author of this inscription may well have been this Bengal monastery, on the bank of the Bhâgîrathî (or Hughli), the name of which has still survived. However that may be, when Hiuen Tsang came to Samataṭa (the delta of the Ganges)—he heard of Çrî-Kṣetra (Prome), Dvârâvati (in Siam), Içâna-pura (Kambuja) and Mahâ-Champâ as countries lying toward the east and of Yamandvipa (Yava-dvîpa) to the south-east. He says that these countries beyond Samataṭa were not visited by him, but he gained information about them at [Samataṭa](# "Watters' Yuan Chwang, Vol. II, p. 187."). People in Samataṭa (the Gangetic delta) must then have been acquainted with these distant regions. It is noteworthy that Kambuja is mentioned by
+attempt to extirpate Buddhism, it held its ground in Karṇa-suvarna itself. For Hiuen Tsang, when he visited this region, mentions a "magnificent and famous" Buddhist monastery of the name of Rakta-mrittikâ' (Red Earth)—" the resort of illustrious Brethren" (Watter's translation, Vol. II, p. 191) and ten other Buddhist shrines in the capital. It is curious that the present name of this locality is Rângâmâti (Bengali for red earth). mrittikâ," referred to in an early Sanscrit inscription in the Malay Peninsula, as the place to which belonged the pious Buddhist sea-trader who was the author of this inscription may well have been this Bengal monastery, on the bank of the Bhâgîrathî (or Hughli), the name of which has still survived. However that may be, when Hiuen Tsang came to Samataṭa (the delta of the Ganges)—he heard of Çrî-Kṣetra (Prome), Dvârâvati (in Siam), Içâna-pura (Kambuja) and Mahâ-Champâ as countries lying toward the east and of Yamandvipa (Yava-dvîpa) to the south-east. He says that these countries beyond Samataṭa were not visited by him, but he gained information about them at Samataṭa[^269]. People in Samataṭa (the Gangetic delta) must then have been acquainted with these distant regions. It is noteworthy that Kambuja is mentioned by
+
+[^269]: "Watters' Yuan Chwang, Vol. II, p. 187."
 
 
 
@@ -2261,21 +2797,31 @@ la period Mahây
 
 *â*
 
-na doctrines became tinged with Tântrism. ThePâla dynastylasted until the Muhammadanconquest of Bihar in 1199, and throughout this long period the Pâla monarchs remained steadfast supporters of Buddhism, though unfortunately Tântrism worked havoc with it—especially in the eleventh and twelfth centuries. And Tântrism was also at the same time modifying Çaivism in Bengal. Tântric Buddhism (or Tantra-yâna) was in this period slowly losing itself in the Tântric Çaiva oult. Lokeçvara and Târâ were becoming mere shadows of Çiva and Durgâ. The Brahmans, who monopolised the office of prime-minister of the Pâla Kings, must have helped to bring about this curious [medley](# "R. D. Banerji, Mom. A.S.B., Vol. V, pp. 43-118, 1915.").The later Pâla kings installed images of Çiva side by side with images of Lokeçvara. Indeed the form of this Lokeçvara was like that of Çiva and was adorned
+na doctrines became tinged with Tântrism. ThePâla dynastylasted until the Muhammadanconquest of Bihar in 1199, and throughout this long period the Pâla monarchs remained steadfast supporters of Buddhism, though unfortunately Tântrism worked havoc with it—especially in the eleventh and twelfth centuries. And Tântrism was also at the same time modifying Çaivism in Bengal. Tântric Buddhism (or Tantra-yâna) was in this period slowly losing itself in the Tântric Çaiva oult. Lokeçvara and Târâ were becoming mere shadows of Çiva and Durgâ. The Brahmans, who monopolised the office of prime-minister of the Pâla Kings, must have helped to bring about this curious medley[^270].The later Pâla kings installed images of Çiva side by side with images of Lokeçvara. Indeed the form of this Lokeçvara was like that of Çiva and was adorned
+
+[^270]: "R. D. Banerji, Mom. A.S.B., Vol. V, pp. 43-118, 1915."
 
 
 
-in the same manner with snakes as ornaments. A curious scripture, the Çunya Purâna, written by one Ramâi Paṇḍit in the eleventh century, combined the doctrine of void' of Mahâyânism with Tântric practices into which the whole of the Hindu pantheon was also [introduced](# "D. C. Sen, Bengali Language and Literature, p. 30."). Other teachers taught darker secret teachings, and Buddhism fell into evil days indeed.  
+in the same manner with snakes as ornaments. A curious scripture, the Çunya Purâna, written by one Ramâi Paṇḍit in the eleventh century, combined the doctrine of void' of Mahâyânism with Tântric practices into which the whole of the Hindu pantheon was also introduced[^271]. Other teachers taught darker secret teachings, and Buddhism fell into evil days indeed.  
  But all this is interesting because Mahâyânism and Çaivism in Sumatra, Java, and Kambuja showed during this same period exactly the same characteristics. As M. Finot has pointed out the images of Lokeçvara at Angkor Thom bore such a strong resemblance to those of Çiva, that the iconoclasts (probably during Yaçovarman's reign) spared some of them by mistake. After this outbreak of fanaticism, Mahâyânism and Çaivism became more and more fused together—as we have seen in the inscriptions. In one case we have seen the identification became so complete that a Trinity was composed of Brahma, Viṣṇu and Buddha, and this combination was dedicated to Çiva. Buddhist sovereigns like Jayavarman VII had Brahmans versed in the Vedas as royal chaplains and paid their homage to Brahmanic deities. We have also noticed in the inscriptions that Tântric doctrines had crept into the
 
+[^271]: "D. C. Sen, Bengali Language and Literature, p. 30."
 
 
-Çaiva cult of Kambuja. Hiraṇyadâma, who introduced the worship of the Royal God, taught four Tântric texts to the first high priest of this deity. Several kings were initiated into the Vrah Guhya (the Great Secret) by their Brahman gurus. Udayâdityavarman II, after celebrating the Dikṣâs (mystic consecrations), performed the mahotsavapûjà according to the [Vrah Guhya](# "B.E.F.E.O., t. xv, No. 2, p. 93.") with the aid of the high priest of the Royal God—Jayendra-Paṇḍita. Buddhism in Kambuja was apparently not so much tinged with Tântrism as far as we can learn from the inscriptions. There are however references in an inscription to the "tantras of the Pâramis" (see p. 168). See also the references to Çakti in a Buddhist inser. (p. 188). Also images of He-vajra have been quite recently discoveredat Angkor Thom (as the writer heard recently from M. Finot). This is a Tântric Buddhist divinity (which is Çaiva in its attributes) introduced into Tibet and Nepal from Bengal during the Pâla period.  
+
+Çaiva cult of Kambuja. Hiraṇyadâma, who introduced the worship of the Royal God, taught four Tântric texts to the first high priest of this deity. Several kings were initiated into the Vrah Guhya (the Great Secret) by their Brahman gurus. Udayâdityavarman II, after celebrating the Dikṣâs (mystic consecrations), performed the mahotsavapûjà according to the Vrah Guhya[^272] with the aid of the high priest of the Royal God—Jayendra-Paṇḍita. Buddhism in Kambuja was apparently not so much tinged with Tântrism as far as we can learn from the inscriptions. There are however references in an inscription to the "tantras of the Pâramis" (see p. 168). See also the references to Çakti in a Buddhist inser. (p. 188). Also images of He-vajra have been quite recently discoveredat Angkor Thom (as the writer heard recently from M. Finot). This is a Tântric Buddhist divinity (which is Çaiva in its attributes) introduced into Tibet and Nepal from Bengal during the Pâla period.  
   In Java and Sumatra, Mahâyâna Buddhismand the cult of Çiva, both deeply imbued with Tantric influence, are to be seen often blending with one another during this period. The Kamahâyânikan, consisting of Sanskrit verses explained by a Kavi (Old Javanese) commentary, professes to teach the Mahayana and
 
+[^272]: "B.E.F.E.O., t. xv, No. 2, p. 93."
 
 
-Mantrayâna. Sir Charles Eliot thinks that it offers many parallels to Nepalese Tantric literature, which, as we know, consists of the teachings of the Buddhist monks of Magadha and Bengal during the Pâla period. According to this treatise, Brahmâ, Viṣṇu, and Çiva are emanations of the Dhyânî Buddha Vairocana. The "pañca makâras" are also referred to in this strange [work](# "Sanghyang Kamahâyânikan, ad. by J. Kais, p. 24.").Another Kavi text, which gives the story of Kuñjarakaraṇa, extols Vairocana as being Çiva and Baddha in one. The Javanese version of the Sutasoma Jâtaka, composed by one Tantular who lived at Majapahit in the reign of Rajasanagara (1350-1389 A. D.), states, "The Lord Buddha is not different from [Çiva](# "Sir Charles Eliot, Hinduism and Buddhism, Vol. III, pp. 176.")." But most important of all from this point of view are the references to the Tântric practices in Java and Sumatra in I. J L Moens' article in the Tijdschrift voor Indische Taal...Land en Volkenkunde... (Deel. LXIV, 1924). There we find extracts from Prapañca's Nagarkritagama (a Kavi work composed during the reign of Hyam Wuruk—fourteenth century) showing Kritanagara, the ruler of Singasari, as receiving worship as a Çiva-Buddha. But Çiva is here Bhairava and Buddha has the terrible demoniac aspect which
+
+Mantrayâna. Sir Charles Eliot thinks that it offers many parallels to Nepalese Tantric literature, which, as we know, consists of the teachings of the Buddhist monks of Magadha and Bengal during the Pâla period. According to this treatise, Brahmâ, Viṣṇu, and Çiva are emanations of the Dhyânî Buddha Vairocana. The "pañca makâras" are also referred to in this strange work[^273].Another Kavi text, which gives the story of Kuñjarakaraṇa, extols Vairocana as being Çiva and Baddha in one. The Javanese version of the Sutasoma Jâtaka, composed by one Tantular who lived at Majapahit in the reign of Rajasanagara (1350-1389 A. D.), states, "The Lord Buddha is not different from Çiva[^274]." But most important of all from this point of view are the references to the Tântric practices in Java and Sumatra in I. J L Moens' article in the Tijdschrift voor Indische Taal...Land en Volkenkunde... (Deel. LXIV, 1924). There we find extracts from Prapañca's Nagarkritagama (a Kavi work composed during the reign of Hyam Wuruk—fourteenth century) showing Kritanagara, the ruler of Singasari, as receiving worship as a Çiva-Buddha. But Çiva is here Bhairava and Buddha has the terrible demoniac aspect which
+
+[^273]: "Sanghyang Kamahâyânikan, ad. by J. Kais, p. 24."
+
+[^274]: "Sir Charles Eliot, Hinduism and Buddhism, Vol. III, pp. 176."
 
 
 
@@ -2285,15 +2831,21 @@ we come across in the Vajrayâna. We find a statue of this king in a cremation g
 
 
 
-to the one is Mahâkâla to the [other.](# "Sir Charlas Eliot, Hinduism and Buddhism, Vol. II, p. 116")" Sir Charles Eliot rightly says that this singular fusion of Buddhism with Hinduism, which Nepal now presents, helps us to understand what must have been the last phase in Pâla Bengal. And we should compare with this the blend of the Çiva worship and Mahâyâna Buddhism in Sumatra, Java and Kambuja.
+to the one is Mahâkâla to the other.[^275]" Sir Charles Eliot rightly says that this singular fusion of Buddhism with Hinduism, which Nepal now presents, helps us to understand what must have been the last phase in Pâla Bengal. And we should compare with this the blend of the Çiva worship and Mahâyâna Buddhism in Sumatra, Java and Kambuja.
 
- B. Bhattacharya, in his "Indian Buddhist Iconography" (1924), states that the Çaktielement in the Tântric doctrine, which brought in the Çaktis or the female energies of the Dhyânî Buddhas, was first associated with the Mahâyânist cult by Indra-bhuti, the King of [Udyana](# "Târânâtha writes Uddiyâna. Is this the same as Udyâna (Chitral)? Some have supposed Uddiyâna to be Orissa (Uddra), which is more probable, as no trace has been found, in the numerous") (Chitral) about 700 A.D. He quotes the Tibetan historian Târânâtha to that effect. But Târânâtha himself is our main authority for asserting that it was in the Vikramaçila and the Jagaddala Universities, founded by the Pâla kings of Bengal, that this Tantrayâna Buddhism was fully developed, and that it was from these centres that famous missionaries went to preach in Tibet and Nepal. We learn that Sanscrit books were translated into Tibetan at Vikramaçilâ itself, which was the resort of many Tibetan students.
+[^275]: "Sir Charlas Eliot, Hinduism and Buddhism, Vol. II, p. 116"
+
+ B. Bhattacharya, in his "Indian Buddhist Iconography" (1924), states that the Çaktielement in the Tântric doctrine, which brought in the Çaktis or the female energies of the Dhyânî Buddhas, was first associated with the Mahâyânist cult by Indra-bhuti, the King of Udyana[^276]? Some have supposed Uddiyâna to be Orissa (Uddra), which is more probable, as no trace has been found, in the numerous") (Chitral) about 700 A.D. He quotes the Tibetan historian Târânâtha to that effect. But Târânâtha himself is our main authority for asserting that it was in the Vikramaçila and the Jagaddala Universities, founded by the Pâla kings of Bengal, that this Tantrayâna Buddhism was fully developed, and that it was from these centres that famous missionaries went to preach in Tibet and Nepal. We learn that Sanscrit books were translated into Tibetan at Vikramaçilâ itself, which was the resort of many Tibetan students.
+
+[^276]: "Târânâtha writes Uddiyâna. Is this the same as Udyâna (Chitral
 
 
 
 **Intercourse between Bengal and the Archipelago.**
 
- We also know that there was direct intercourse between Bengal and the Malay Archipelago. We have the copperplate grant of Devapâla (about the end of the ninth century), granting five villages for the upkeep of a monastery—which is described quite fully. There we find that the illustrious Mahârâja Bâlaputra, the overlord of Suvarṇadvîpa (Sumatra), whose mother was Târâ,—the daughter of a King Dharmasetu of the Lunar race and the queen of a king who was the son of the renowned ruler of Yava-bhûmi (Java), "with his mind attracted by the manifold excellences of Nalanda, built there a monastery, which was the abode of the assembly of monks of various good qualities, and was white with the series of stuccoed and lofty buildings.—(This monarch) having requested King Devapâladeva through. envoys...issuing a charter (Devapâla) granted these five [villages](# "Epigraphis Indica, July, 1924, p. 810.")."
+ We also know that there was direct intercourse between Bengal and the Malay Archipelago. We have the copperplate grant of Devapâla (about the end of the ninth century), granting five villages for the upkeep of a monastery—which is described quite fully. There we find that the illustrious Mahârâja Bâlaputra, the overlord of Suvarṇadvîpa (Sumatra), whose mother was Târâ,—the daughter of a King Dharmasetu of the Lunar race and the queen of a king who was the son of the renowned ruler of Yava-bhûmi (Java), "with his mind attracted by the manifold excellences of Nalanda, built there a monastery, which was the abode of the assembly of monks of various good qualities, and was white with the series of stuccoed and lofty buildings.—(This monarch) having requested King Devapâladeva through. envoys...issuing a charter (Devapâla) granted these five villages[^277]."
+
+[^277]: "Epigraphis Indica, July, 1924, p. 810."
 
   Then we have the memoirs of Atīça, a monk "born in the royal family of Gauda at Vikrampur in Bengal" (in 980 A.D.), who established Buddhism on a sound footing in Tibet and was the guru of Bromton—the founder of the first
 
@@ -2305,15 +2857,21 @@ images discovered in Chitral, of Thotrio Buddhism. Mr. Bhattacharys himself seem
 
 
 
-grand hierarchy of Tibet. These memoirs were written by Kalyâṇa Mitra Phyagsorpa—the personal friend of a devoted companion of Atīça and were printed in a Tibetan monastery in 1250 A.D. [In this work](# "Referred to in Sarat Chandra Das' Indian Pundits in Tibet") we find that Dipaúkara (whose earlier name was Atīça), after bring ordained in the highest order of Bhikṣus, resolved to go to Āchârya Dharmakîrti—the High Priest of Suvarṇadvîpa. "There is a country filled with precious minerals and stones called Suvarṇadvîpa. Dharmakîrti was born in the royal family of that country. With a view to acquire a thorough knowledge of the Dharma he obtained leave from his father to go to Jambudvîpa (India) for a pilgrimage to Vajrâsana (Bodh- Gaya). The great Ācârya Çri Ratna at Vajrâsana consented to instruct the Sumatran prince in Dharma only if he vowed to become a monk." After finishing his education at Vajrâsana (Gaya), Dharmakîrti went back to Suvarṇadvîpa, and such was the fame of his learning that he made Suvarṇadvîpa the headquarters of Buddhism in the East. So, in the company of some merchants, Dipaṅkara (or Atīça) embarked for Sumatra in a large vessel.The voyage was long and tedious extending over several months. Dipaṅkara resided in Suvarṅadvîpa for twelve years in order completely to master the teachings of Dharmakîrti.
+grand hierarchy of Tibet. These memoirs were written by Kalyâṇa Mitra Phyagsorpa—the personal friend of a devoted companion of Atīça and were printed in a Tibetan monastery in 1250 A.D. In this work[^278] we find that Dipaúkara (whose earlier name was Atīça), after bring ordained in the highest order of Bhikṣus, resolved to go to Āchârya Dharmakîrti—the High Priest of Suvarṇadvîpa. "There is a country filled with precious minerals and stones called Suvarṇadvîpa. Dharmakîrti was born in the royal family of that country. With a view to acquire a thorough knowledge of the Dharma he obtained leave from his father to go to Jambudvîpa (India) for a pilgrimage to Vajrâsana (Bodh- Gaya). The great Ācârya Çri Ratna at Vajrâsana consented to instruct the Sumatran prince in Dharma only if he vowed to become a monk." After finishing his education at Vajrâsana (Gaya), Dharmakîrti went back to Suvarṇadvîpa, and such was the fame of his learning that he made Suvarṇadvîpa the headquarters of Buddhism in the East. So, in the company of some merchants, Dipaṅkara (or Atīça) embarked for Sumatra in a large vessel.The voyage was long and tedious extending over several months. Dipaṅkara resided in Suvarṅadvîpa for twelve years in order completely to master the teachings of Dharmakîrti.
+
+[^278]: "Referred to in Sarat Chandra Das' Indian Pundits in Tibet"
 
 
 
 Then he returned to India, accompanied by somemerchants in a sailing vessel, visiting Ceylon and the 'island of forests' on his way. It was after this that he went on his highly successful mission to Tibet.
 
-  In a Nepalese manuscript with [miniatures](# "Foucher, Etude sur l'iconographie Bouddhique, pp. 79-81"), dating from about the eleventh century, the first miniature has the explanatory note "Dipaṅkara in Yavadvîpa." Yavadvîpa often meant Sumatra as well as Java.
+  In a Nepalese manuscript with miniatures[^279], dating from about the eleventh century, the first miniature has the explanatory note "Dipaṅkara in Yavadvîpa." Yavadvîpa often meant Sumatra as well as Java.
 
-  In the British Museum may be seen a Javanese image of the Singasari period(thirteenth century) with the inscription Bhavânî and Mâmaki in a North Indian script which is much more akin to Bengali than to Nâgarî. Mâmaki was the Çakti of Ratnasambhaya—one of the Dhyânî Buddhas—and here she has been identified with Bhavânî or Durgâ. Dr. Vogel also mentions that several of the imges of Eastern Java (of the Singasari and Majapahit period—i.e., of the thirteenth and fourteenth centuries) bear inscriptions in a North Indian [script.](# "Influences of Indian Art, p.76") It seems to me that there is some resemblance between the Pâla school of sculpture (which achieved considerable success under the artists Dhimân and Vitapâla) and the later school of Javanese sculpture as seen in the images enshrined within the temples (i.e., not the reliefs
+[^279]: "Foucher, Etude sur l'iconographie Bouddhique, pp. 79-81"
+
+  In the British Museum may be seen a Javanese image of the Singasari period(thirteenth century) with the inscription Bhavânî and Mâmaki in a North Indian script which is much more akin to Bengali than to Nâgarî. Mâmaki was the Çakti of Ratnasambhaya—one of the Dhyânî Buddhas—and here she has been identified with Bhavânî or Durgâ. Dr. Vogel also mentions that several of the imges of Eastern Java (of the Singasari and Majapahit period—i.e., of the thirteenth and fourteenth centuries) bear inscriptions in a North Indian script.[^280] It seems to me that there is some resemblance between the Pâla school of sculpture (which achieved considerable success under the artists Dhimân and Vitapâla) and the later school of Javanese sculpture as seen in the images enshrined within the temples (i.e., not the reliefs
+
+[^280]: "Influences of Indian Art, p.76"
 
 
 
@@ -2347,7 +2905,11 @@ the scenes painted on the walls, and is taken to his royal brother. Shortly afte
 
 
 
- There are several versions of this story in Bengali, some of which are given by Dr. D. C. Sen in his Folk Literature of Bengal (p. 166 et seq.). The Muhammadan version (which preserves, however, all the Hindu names) approaches nearest to the Cambodian. A Tibetan 'Mystery' drama is supposed by M. Bacot to be based also upon this Bengali story. Dr. Sen states that this is one of a group of old Buddhist tales (handed down from the Pâla period). They have been transmitted to the Muhammadan converts (who were mostly Buddhists in Bengal) from a period anterior to the Muhammadan [conquest](# "D. C. Sen, Folk Literature of Bengal, p. 156,"). Now we have found it in Cambodia, and it was probably brought over there by merchants from [Bengal](# "Cheon Tu-kouan (e.p. p. 229) mentions that the best cloth of the finest texture came (to Kambaja) from across the Western seas. Ramusio writes in the middle of the 16th century that there was a great demand in Kambuja for Bengal muslin,"). There are several other Cambodian stories which resemble (though not so much as this) Bengali fairy tales. Çri Haraprasâd Çâstri writes in his introduction to N. N. Vasu's "Modern Buddhism and its Followers in Orissa" (p. 21) that the flourishing merchants of Bengal were Buddhists. In the reign of Ballâla Sena they were severely persecuted, as their leader Vallabha, who possessed two forts and was enormously rich, refused to advance a loan to a
+ There are several versions of this story in Bengali, some of which are given by Dr. D. C. Sen in his Folk Literature of Bengal (p. 166 et seq.). The Muhammadan version (which preserves, however, all the Hindu names) approaches nearest to the Cambodian. A Tibetan 'Mystery' drama is supposed by M. Bacot to be based also upon this Bengali story. Dr. Sen states that this is one of a group of old Buddhist tales (handed down from the Pâla period). They have been transmitted to the Muhammadan converts (who were mostly Buddhists in Bengal) from a period anterior to the Muhammadan conquest[^281]. Now we have found it in Cambodia, and it was probably brought over there by merchants from Bengal[^282] mentions that the best cloth of the finest texture came (to Kambaja) from across the Western seas. Ramusio writes in the middle of the 16th century that there was a great demand in Kambuja for Bengal muslin,"). There are several other Cambodian stories which resemble (though not so much as this) Bengali fairy tales. Çri Haraprasâd Çâstri writes in his introduction to N. N. Vasu's "Modern Buddhism and its Followers in Orissa" (p. 21) that the flourishing merchants of Bengal were Buddhists. In the reign of Ballâla Sena they were severely persecuted, as their leader Vallabha, who possessed two forts and was enormously rich, refused to advance a loan to a
+
+[^281]: "D. C. Sen, Folk Literature of Bengal, p. 156,"
+
+[^282]: "Cheon Tu-kouan (e.p. p. 229
 
 
 
@@ -2357,15 +2919,19 @@ non-Buddhist monarch. So these merchants were driven away from the kingdom, and 
 
 
 
-is the name of a Gandharva and there is a Gandharva Tantra in the Viṣṇukrântâ group. Again according to the Mahâsiddhasâra Tantra, a second group of Tantras (the Açvakrântâ group) is allocated to the region extending from the Karatoyâ river (in the Dinajpur district of Bengal) to Java. Several Cina Tantras are mentioned in this [group.](# "A. Avalon, Principles of Tantra, Introd., p. lxiii et seq.")
+is the name of a Gandharva and there is a Gandharva Tantra in the Viṣṇukrântâ group. Again according to the Mahâsiddhasâra Tantra, a second group of Tantras (the Açvakrântâ group) is allocated to the region extending from the Karatoyâ river (in the Dinajpur district of Bengal) to Java. Several Cina Tantras are mentioned in this group.[^283]
 
  Now we shall attempt to reinforce our argument with architectural evidence. French savants agree that though the architecture of Fu-nan resembles (especially in ornamental details) the contemporary Pallava architecture, the new type introduced by Jayavarman II has very little in common with any South Indian school. One of the characteristic features of Dravidian structures is that the outermost courts and 'gopurams' (gates) are the most magnificent, and that as we approach the main sanctuary in the interior, everything is on a much smaller scale. In Kambuja it is just the opposite. The Khmers had an eye for the perspective, and the main shrine, situated on the highest (and innermost) of a series of terraces (each rising above the last), dominates the whole structure with its lofty towers.
+
+[^283]: "A. Avalon, Principles of Tantra, Introd., p. lxiii et seq."
 
  M. Parmentier thinks that the common element in all the architecture of the Hinduised
 
 
 
-Indo-China and the Archipelago is the ancient Indian architecture in light materials (e.g., wood or wood and bricks) transported to these distant countries in its early [Indian form](# " Etudes Asiatiques, t. li, pp. 195-241."). This type, imported at different stages of its evolution, has developed in each different country under different conditions. According to him, a type of Indian architecture in durable materials (like stone) may have existed in India in early timesand may also have influenced to some extent the architecture of the Hinduised Far East, but the lighter type could be more easily imported and had therefore the greater influence on these distant regions. The lighter type of Indian architecture, being of a perishable nature, has disappeared long ago, and thus is not available for comparison with the old monuments of Farther India.  
+Indo-China and the Archipelago is the ancient Indian architecture in light materials (e.g., wood or wood and bricks) transported to these distant countries in its early Indian form[^284]. This type, imported at different stages of its evolution, has developed in each different country under different conditions. According to him, a type of Indian architecture in durable materials (like stone) may have existed in India in early timesand may also have influenced to some extent the architecture of the Hinduised Far East, but the lighter type could be more easily imported and had therefore the greater influence on these distant regions. The lighter type of Indian architecture, being of a perishable nature, has disappeared long ago, and thus is not available for comparison with the old monuments of Farther India.  
+
+[^284]: " Etudes Asiatiques, t. li, pp. 195-241."
 
 
 *Influence of North Indian Architecture.*
@@ -2376,7 +2942,9 @@ Indo-China and the Archipelago is the ancient Indian architecture in light mater
 
 discuss monuments which have ceased to exist, we may consider the case of Budh-Gaya, which, notwithstanding comparatively recent restorations, is still perhaps the oldest surviving temple in Magadha. Groslier in his "Recherches sur les Cambodgiens" (p. 359) draws our attention to the striking similarity in essential features between the imposing tower of Budh-Gaya and a brick tower, on a far humbler scale, at Hanchei (Cambodia) of probably the seventh century. This Hanchei tower, though anterior to the period of Jayavarman II, does not show any South Indian influence, but is almost a copy on a modest scale of the tower of Budh-Gaya. Groslier is of the opinion that, from the seventh to the tenth centuries, the Kambuja architect is strongly influenced by this great Magadha shrine. Even when brick towers of such a type had gone out of fashion, we find reliefs of such towers on the walls of later shrines like the Bayon. Çaiva architecture of South India thus has to make room in Kambuja for the Buddhist architecture of Magadha.
 
- Now let us see I-tsing's description of Nalanda towards the close of the seventh [century](# "Les Religieux Eminents......par 1-teing, traduit par Chavannes, pp. 85-87"). The gate, which was part of the building, was very high and was ornamented
+ Now let us see I-tsing's description of Nalanda towards the close of the seventh century[^285]. The gate, which was part of the building, was very high and was ornamented
+
+[^285]: "Les Religieux Eminents......par 1-teing, traduit par Chavannes, pp. 85-87"
 
 
 
@@ -2392,11 +2960,15 @@ of Nalanda (in his life by Beal, p. 111) we read of the college, with its towers
 
 
 
-(Kambojânvaya) whose ability......are sung by the Vidyâdharas in heaven with [delight.](# "Journal of the Asiatic Society of Bengal, 1911, p. 619")" The name Kamboja was applied by the Ceylonese chronicles to Kambuja itself. It is generally considered that these Kambojas of Bengal were Tibetans. The close relations, which I have tried to show between Bengal and Farther India, may have led some adventurer of the Kambuja royal family to try his fortunes in a region so remote from his own country. He need not have come with a large army. I do not want to press the point further, but the word Kambojânvaya seems to be curiously reminiscent of Kambuja epigraphy. It should be noted, however, that there is no known example of an attempt like this made from Indo-China in a region so distant from the sea-coast. If the foreign adventurers did really come from Kambuja, they came by the land-route.
+(Kambojânvaya) whose ability......are sung by the Vidyâdharas in heaven with delight.[^286]" The name Kamboja was applied by the Ceylonese chronicles to Kambuja itself. It is generally considered that these Kambojas of Bengal were Tibetans. The close relations, which I have tried to show between Bengal and Farther India, may have led some adventurer of the Kambuja royal family to try his fortunes in a region so remote from his own country. He need not have come with a large army. I do not want to press the point further, but the word Kambojânvaya seems to be curiously reminiscent of Kambuja epigraphy. It should be noted, however, that there is no known example of an attempt like this made from Indo-China in a region so distant from the sea-coast. If the foreign adventurers did really come from Kambuja, they came by the land-route.
+
+[^286]: "Journal of the Asiatic Society of Bengal, 1911, p. 619"
 
 *The Khmer language.*
 
- Before we conclude, something might be said about the Khmer [language](# "This section is based on G. Masporo, Grammaire de la langua Khmere."). This languageforms with the Mon (the Telaing of Pegu) a group which has been called Mon-Khmer group, and a kinship has been recognised between
+ Before we conclude, something might be said about the Khmer language[^287]. This languageforms with the Mon (the Telaing of Pegu) a group which has been called Mon-Khmer group, and a kinship has been recognised between
+
+[^287]: "This section is based on G. Masporo, Grammaire de la langua Khmere."
 
 
 
@@ -2406,13 +2978,17 @@ the Mon-Khmer group on one side and the Khasi (Assam), Kolarian or Munda (Chota 
 
 
 
-puruşa=baros=pros; çâsana=sâsnâ=sas; svarga=suorkea=suor; vāk=veacâ=peak; vimâna=phimean (in popular Khmer) and [so on](# "G. Maspero—Grammaire de la langue khmère, p. 181.").
+puruşa=baros=pros; çâsana=sâsnâ=sas; svarga=suorkea=suor; vāk=veacâ=peak; vimâna=phimean (in popular Khmer) and so on[^288].
+
+[^288]: "G. Maspero—Grammaire de la langue khmère, p. 181."
 
   There is a tendency in the Khmer language to be brief and monosyllabic. E.g., liṅga=lin; viṣa (poison)=pis; doṣa=tus; vela(time)=pel; hasta=hat (this is the abbreviation in North India too); pati=pti, çunya=sûn, vara=vrah; etc. Sometimes the abbreviation is made by eliminating the vowel between two consonants, as e.g., garuḍa=krut; pati=pdei; saras (tank)=sra. Sometimes the first letter of the word is eliminated, and, if this is 'n,' then the consonant of the second syllable is nasalised, as e.g., nagara=aṅkor.
 
 *Cambodian Law.*
 
- Another sphere in which Indian influence has left its stamp is that of the existing Cambodian law. The eighth and the ninth books of the Mânava Dharma Çastra, which deal with civil and criminal law, still form, according to [Leclère](# " A. Leclère—Recherches sur les origines Brahmaniques des lois Cambodgiennes."), the basis of modern Cambodian legislation. But the Brahmanic code has been considerably modified by Buddhist influence. Especially the status of the woman, in the eye
+ Another sphere in which Indian influence has left its stamp is that of the existing Cambodian law. The eighth and the ninth books of the Mânava Dharma Çastra, which deal with civil and criminal law, still form, according to Leclère[^289], the basis of modern Cambodian legislation. But the Brahmanic code has been considerably modified by Buddhist influence. Especially the status of the woman, in the eye
+
+[^289]: " A. Leclère—Recherches sur les origines Brahmaniques des lois Cambodgiennes."
 
 
 
@@ -2422,7 +2998,9 @@ of the law, is considerably higher than in Hindu Law. The wife is not so much de
 
 
 
-is bounded by the country of Jâwaga (Çrivijaya) which is the kingdom of the Maharaja. Jâwaga, which separates China from India, belongs to the latter [country](# "Gabriel Ferrand, Relations des voyages at textes geographiquee Arabs., Vol. I, pp. 65, 68 and 92.").
+is bounded by the country of Jâwaga (Çrivijaya) which is the kingdom of the Maharaja. Jâwaga, which separates China from India, belongs to the latter country[^290].
+
+[^290]: "Gabriel Ferrand, Relations des voyages at textes geographiquee Arabs., Vol. I, pp. 65, 68 and 92."
 
 
 
@@ -3155,3 +3733,311 @@ is bounded by the country of Jâwaga (Çrivijaya) which is the kingdom of the Ma
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^131]: "Ibid."
+
+
+[^118]: "Ibid."
+
+
+[^90]: "Finot, Notes d'Epigraphie, B.E.F.E.O., t. XV, pp. 70-71, Khmerportion."
+
+
+[^62]: "I.S.C.C., p. 40."
+
+
+[^61]: "I.S.C.C., p. 40."

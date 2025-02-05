@@ -457,7 +457,9 @@ towards Sādhakas various forms.’ We may meditate on Mahādevī as either fema
 
 
 the highest place to, Kālikāthe first Mahāvidyāfor the others are but different forms of Brahmarūpinī Kālikā. The Nigama-Kalpataru says ‘Of all castes the Brāhmaṇa is the highest. Amongst all Sādhakas the Śākta is the highest. Of Śāktas he is the chief who does Japa of the Kālīmantra.’ Picchilā-Tantra also says ‘of all the Mantras of the Devas that of Kālikāis the best. Even the vilest can become Jīvanmukta simply through this Mantra.’ In Yoginī-Tantra, Śiva says ‘This Vidyā Kālikāis Mahā-Mahā-Brahma Vidyā, through whom even the worst may attain Nirvāṇa. Even Brahmā, Viṣṇu, and Mahes’vara are her worshippers. She who is Kālī the supreme Vidyā, is Tārāalso. The notion of a difference between them has given rise to various Mantras.’ Again the Kāmākhyā-Tantra says Oh Parames’vari, seven lakhs of Mahāvidyās remain hidden. Of them all Ṣodasī is said to be the most sublime. But Oh Devī, the Mother of the world, Kālikāis the mother even of Her.’ Niruttara-Tantra says ‘Without knowledge of Śakti, Oh Devi, there is no nirvana. That Śakti is Daksiṇa
-Kālī who is the own form of all Vidyās (Sarvavidyārūpinī).’ The Yamala again says ‘As is Kālī so is Tārāand so are Chinnāand Kullukā. Oh Devī, thou, who art the supreme Kālikā, art also the Mūrti which is compused of these four. In the Vaidik system Sāgnika (fire-maintaining) Brāhmaṇas achieved their ends by the offering of oblations to the seven lolling tongues‘of fire named Kālī, Karālī, Manojavā, Sulohitā, Sūdhūmravarṇā, Sphuliṅginī and Devī Vis’varuci’ ([1st Saptaka, 2nd Khaṇda, 4th Sūtra](# "See Muṇḍakoþaniṣad, 1-2-4. 7 .")).
+Kālī who is the own form of all Vidyās (Sarvavidyārūpinī).’ The Yamala again says ‘As is Kālī so is Tārāand so are Chinnāand Kullukā. Oh Devī, thou, who art the supreme Kālikā, art also the Mūrti which is compused of these four. In the Vaidik system Sāgnika (fire-maintaining) Brāhmaṇas achieved their ends by the offering of oblations to the seven lolling tongues‘of fire named Kālī, Karālī, Manojavā, Sulohitā, Sūdhūmravarṇā, Sphuliṅginī and Devī Vis’varuci’ (1st Saptaka, 2nd Khaṇda, 4th Sūtra[^1]).
+
+[^1]: "See Muṇḍakoþaniṣad, 1-2-4. 7 ."
 
    Another important characteristic of the Tantra-S’āstra remains to be mentioned. Although this Scripture is very liberal in matters of practice and worship and does not recognize distinctions of caste and so forth, it has yet repeat: edly, enjoined Sādhakas to keep this Acāra hidden from.
 
@@ -2760,7 +2762,9 @@ literature of which occupies a front rank in the religious life of Modern India 
 
 स्वरूपव्याख्या
 
-** गृह इति।** हे कालि! कालभयनिवारिणि! यो जनः दिव्याचाररतः साधकः। गृहे; सहस्रदलकमलरूपब्रह्मसदने। संमार्ज्जन्या परिगलितवीर्यं; परमशिवेन कुलकुण्डलिन्यारमणोद्भूतंवीर्यामृतम्‌। समूलंचिकूरं; चाञ्चल्यादिवृत्तिसहितं मनः। कुजदिने; मङ्गलवासरे। मध्यान्हे; द्विप्रहरे रात्रौ दिवसे वा। प्रेम्णा; परया भक्त्या। तव मनुंमन्त्रं समुश्चार्य। सकृदपि; एकवारमपि। चितायां; चिद्रूपायां त्वयि, वितरति विलीनं करोति, [निर्बीजसमाधिं](# "सर्ववृत्तिनिरोधात्‌ निर्बीजसमाधिः। पातञ्जलसूत्रम्।")करोतीति यावत्‌। स भुक्तिं मुक्तिंलभत इत्यर्थः॥१६॥
+** गृह इति।** हे कालि! कालभयनिवारिणि! यो जनः दिव्याचाररतः साधकः। गृहे; सहस्रदलकमलरूपब्रह्मसदने। संमार्ज्जन्या परिगलितवीर्यं; परमशिवेन कुलकुण्डलिन्यारमणोद्भूतंवीर्यामृतम्‌। समूलंचिकूरं; चाञ्चल्यादिवृत्तिसहितं मनः। कुजदिने; मङ्गलवासरे। मध्यान्हे; द्विप्रहरे रात्रौ दिवसे वा। प्रेम्णा; परया भक्त्या। तव मनुंमन्त्रं समुश्चार्य। सकृदपि; एकवारमपि। चितायां; चिद्रूपायां त्वयि, वितरति विलीनं करोति, निर्बीजसमाधिं[^2]करोतीति यावत्‌। स भुक्तिं मुक्तिंलभत इत्यर्थः॥१६॥
+
+[^2]: "सर्ववृत्तिनिरोधात्‌ निर्बीजसमाधिः। पातञ्जलसूत्रम्।"
 
 स्वपुष्पैराकीर्णं कुसुमधनुषो मन्दिरमहो  
 पुरो ध्यायन्ध्यायन्‌ यदि जपति भक्तस्तव मनुम्‌।  
@@ -3156,7 +3160,9 @@ APPENDIX।
 
 
 
-बालिशा वयय्‌ अतितरं ते रूपंप्रति किं [वादमः](# "नालंवक्तुंजटधिषणात्वादितिभावः।")।हेकालिके! तथापि वक्तुमयोग्यान्‌ अस्मान्‌ त्वदीया भक्तिरेव वाचालंकरोतीत्येतत्प्रवर्तनं सोढव्यम्‌। पशुरोष इति;
+बालिशा वयय्‌ अतितरं ते रूपंप्रति किं वादमः[^3]।हेकालिके! तथापि वक्तुमयोग्यान्‌ अस्मान्‌ त्वदीया भक्तिरेव वाचालंकरोतीत्येतत्प्रवर्तनं सोढव्यम्‌। पशुरोष इति;
+
+[^3]: "नालंवक्तुंजटधिषणात्वादितिभावः।"
 
 **“घृणा लज्जांभयं शङ्का जुगुप्सा चेति पञ्चमी।  
 कुलंशीलं तथा जातिरष्टौ पाशाइमे स्मृता॥  
@@ -3515,3 +3521,6 @@ APPENDIX।
 
 
 \]
+
+
+

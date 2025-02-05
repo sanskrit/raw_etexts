@@ -52,17 +52,27 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMyMjY1NTQzMTY
 
 ![](../books_images/U-IMG-1720431750Screenshot2024-07-08151137.png)
 
- The present booklet entitled the Janma Maraṇa Vichāra, which appears in public for the first time, is based on a single MS., which, along with many [others,](# "For a brief history of these MSS,, see my Preface to the Tantrasāra, forming Vol. XVII of this Series.") was obtained by me in Agra in 1912 A. D. It is on very old Kashmiri paper, written by one Krishṇa Swāmi of Kashmir, in Shāradā characters, about the year 4603 of the Laukika era (1527 A. D.).
+ The present booklet entitled the Janma Maraṇa Vichāra, which appears in public for the first time, is based on a single MS., which, along with many others,[^1] was obtained by me in Agra in 1912 A. D. It is on very old Kashmiri paper, written by one Krishṇa Swāmi of Kashmir, in Shāradā characters, about the year 4603 of the Laukika era (1527 A. D.).
 
- The Janma Maraṇa Vichāra is a treatise on what is known as the Advaita Shaiva Philosophy of Kashmir, composed by one Bhaṭṭa Vāmadeva who, as he himself says at the end of this book, was a disciple of Yogi-shvarāchārya: the latter being a great preceptor and pro-bably the same personage as Yogarāja, the famous commentator on Abhinava Gupta's Paramārthasāra, and a pupil of both Abhinava Gupta and Kshemarāja. From this relation of Vāmadeva with Yogarāja, it can be inferred that the former lived about the end of the eleventh century A. D., or in other words, some two generations after Abhinava Gupta. This inference is also supported by a legend which proclaims Vāmadeva as a contemporary of Mahārāja Anantadeva, who ruled over Kashmir from 1038 to 1091 [A. D.](# "See History of Kashmir (in Persian), by Hassan Shah.") Vāmadeva does not seem to have been an author of great eminence, as besides this little book there is not a single work of his which has been found or whose name has even been heard of.
+[^1]: "For a brief history of these MSS,, see my Preface to the Tantrasāra, forming Vol. XVII of this Series."
 
- The book in hand is a handy compendium of the various truths established in almost all the works bearing on the Advaita Shaiva Philosophy of Kashmir. The author begins with showing how Parama Shiva (the highest Reality), Who is beyond all Time and Space, remains unaffected in His five-fold power and glory-namely, of Chit,Ãnand, Ichchhā, Jñāna and [Kriyā](# " See my introduction on the Para-Trimshika, forming Vol. XVIII of this Series.")-despite the fact that it is He Who constitutes this Universe.
+ The Janma Maraṇa Vichāra is a treatise on what is known as the Advaita Shaiva Philosophy of Kashmir, composed by one Bhaṭṭa Vāmadeva who, as he himself says at the end of this book, was a disciple of Yogi-shvarāchārya: the latter being a great preceptor and pro-bably the same personage as Yogarāja, the famous commentator on Abhinava Gupta's Paramārthasāra, and a pupil of both Abhinava Gupta and Kshemarāja. From this relation of Vāmadeva with Yogarāja, it can be inferred that the former lived about the end of the eleventh century A. D., or in other words, some two generations after Abhinava Gupta. This inference is also supported by a legend which proclaims Vāmadeva as a contemporary of Mahārāja Anantadeva, who ruled over Kashmir from 1038 to 1091 A. D.[^2], by Hassan Shah.") Vāmadeva does not seem to have been an author of great eminence, as besides this little book there is not a single work of his which has been found or whose name has even been heard of.
+
+[^2]: "See History of Kashmir (in Persian
+
+ The book in hand is a handy compendium of the various truths established in almost all the works bearing on the Advaita Shaiva Philosophy of Kashmir. The author begins with showing how Parama Shiva (the highest Reality), Who is beyond all Time and Space, remains unaffected in His five-fold power and glory-namely, of Chit,Ãnand, Ichchhā, Jñāna and Kriyā[^3]-despite the fact that it is He Who constitutes this Universe.
+
+[^3]: " See my introduction on the Para-Trimshika, forming Vol. XVIII of this Series."
 
  As pointed out elsewhere, the great preceptors of the Kashmir Shaiva School of Philosophy maintain that the individual self cannot realise his identity with the Supreme Self because of the three kinds of Mala (impurity), which 'are brought into action by Nāda, the female element constituting a primeval power (Shakti) of Shiva, from which rises speech.' The three kinds of Mala, referred to above, are technically called as Ãṇava (when the self is subjected to limitations), Māyīya (that effected by Māyā), and Karma (that resulting from . actions, good or ill). The ignorance resulting from this Mala creates a gulf between the individual self and the Supreme Self, never to be bridged over unless the Mala vanishes.
 
  On the bases of the three kinds of Mala alluded to above, the teachers of this School of Philosophy hold that there are three kinds of Creation technically called Sakal, Pralayākal and Vijñānākal, which respectively signify those wherein the Jiva is enwrapped with Ãṇava, Māyīya, and Kārma; Māyīya and Kārma ; and Ãṇava. Sakal being the mundane state of existence which we belong to, the last two, viz. Pralayākal and Vijñānākal, may well be termed as the two stages of evolution of the individual self before he can recognise his identity with Parama Shiva.
 
- The reader will also find herein a brief explanation of the significance of the six '[Kañchukās](# "These are none other than soe of the 'forms of perception and conception', as discovered by Kant.") or sheaths of the Purusha (the principles of subjective limitation), and of the five-fold power and glory of Parama Shiva, as also of their relation with the six ways ([Adhvãns](# "See my Abstract of the Tantrasāra")) leading to recognition.
+ The reader will also find herein a brief explanation of the significance of the six 'Kañchukās[^4] or sheaths of the Purusha (the principles of subjective limitation), and of the five-fold power and glory of Parama Shiva, as also of their relation with the six ways (Adhvãns[^5]) leading to recognition.
+
+[^4]: "These are none other than soe of the 'forms of perception and conception', as discovered by Kant."
+
+[^5]: "See my Abstract of the Tantrasāra"
 
  The author concludes his thesis with a description of the four classes of animate objects, viz. those born. of the womb, the egg, the earth (by cross multiplication), and sweats. He also discusses the development of semen into flesh, blood, arteries, bones etc. He further proceeds to determine the manner in which the young are developed in the womb till they are born. One more interesting point for the reader to know consists in the fact that while delineating the four stages of life-infancy, childhood, youth and old age-the author dwells, briefly, on the doctrines of Karma and Transmigration of the Soul.
 
@@ -736,3 +746,8 @@ PAṆḌDIT MUKUND RĀM SHÂSTRI.**
 
 
 \]
+
+
+
+
+

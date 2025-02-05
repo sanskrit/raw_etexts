@@ -157,18 +157,28 @@ Camp Pahalgam,
 
 on, unaware of the ways of the attainmentof the high Yogic wonders, seem to have resorted to the mean and low practices of magic tinging them with the colour of religion and designating them as practices enjoined by the Tantras. The gradual deterioration, invisibly creeping in the body of the Tantras, has been responsible for the degradation in the sublimity of the higher Tantric practices. They were more or less replaced by the magical feats of the jugglers of the present day. The mediaeval Tantrists compiled them in Sanskrit handbooks and passed them off for the Tantras.
 
- The Uddamareshvara Tantram falls into the category of such compilations as mentioned above. It is not of metaphysical or subtle character. Nothing of the transcendental philosophy or devotion as means of Brahmic realization is to be found herein. Foundamental principles pertaining to the Tantric knowledge are not discussed in the whole text.It deals in the main in the preparation of drugs and Tantric practices of lower life. Though cast in the form of a dialogue between Ishwara and Devi (or goddess Gauri), the present Tantra is far from being an original work. The statements, made in the body of text, [(vide, chapter 2, verse 22 and chapter 5, verse 1)](# "'शृणु पुत्र' II 22; 'शृणु पुत्र प्रवक्ष्यामि' V. I.")tend to make us believe that the compiler has gathered verses and prose passages indiscriminately from all kinds of previous Tantras to serve his purpose. Such a conclusion is also substantiated by other evidences.
+ The Uddamareshvara Tantram falls into the category of such compilations as mentioned above. It is not of metaphysical or subtle character. Nothing of the transcendental philosophy or devotion as means of Brahmic realization is to be found herein. Foundamental principles pertaining to the Tantric knowledge are not discussed in the whole text.It deals in the main in the preparation of drugs and Tantric practices of lower life. Though cast in the form of a dialogue between Ishwara and Devi (or goddess Gauri), the present Tantra is far from being an original work. The statements, made in the body of text, (vide, chapter 2, verse 22 and chapter 5, verse 1)[^1]tend to make us believe that the compiler has gathered verses and prose passages indiscriminately from all kinds of previous Tantras to serve his purpose. Such a conclusion is also substantiated by other evidences.
+
+[^1]: "'शृणु पुत्र' II 22; 'शृणु पुत्र प्रवक्ष्यामि' V. I."
 
 
 
 There is no clear cut arrangement of the subject matter which is dealt with in the whole text. For instance, the Tantric practice of VASHIKARANA by means of Mantras and particular herbs and drugs finds repetition not only in one chapter where it was first dealt with but also in the subsequent chapters where its mention seems to be an unhappy intrusion.
 
-** Sources of the Present Tantra..** The Uddamareshvara Tantra is an extract from the VIRABHADRESHVARA Tantra which is identical with the VIRABHADRA Tantra mentioned as one among the eighteen Shiva Shastras in the UTTARA SUTRA portion of the NIVASA [TATTVA](# " विजयं प्रथमं ह्येषां निवासं तदनन्तरम्। स्वायम्भुवमतश्चैव वाथुलं तदनन्तरम्॥वीरभद्रमिति ख्यातम्................................।")Samhita and[BRAHMAYAMALA](# "विजयं चैव निवासं स्वायम्भुवमतः परम्। वाथुलं (वीरभद्रं च......) ॥")Tantra. It is also difficult for us to trace fully some of the portions of the Tantra borrowed by the compiler of the present work in absence of the material of the TantricLiterature, the major portions of whichare yet lying in an unpublished state. A mere superficial study of the text under edition furnishes us with the knowledge that the compiler has not refrained from borrowing from the mass of Tantric Literature which he could lay his hands on and from the
+** Sources of the Present Tantra..** The Uddamareshvara Tantra is an extract from the VIRABHADRESHVARA Tantra which is identical with the VIRABHADRA Tantra mentioned as one among the eighteen Shiva Shastras in the UTTARA SUTRA portion of the NIVASA TATTVA[^2]Samhita andBRAHMAYAMALA[^3] ॥")Tantra. It is also difficult for us to trace fully some of the portions of the Tantra borrowed by the compiler of the present work in absence of the material of the TantricLiterature, the major portions of whichare yet lying in an unpublished state. A mere superficial study of the text under edition furnishes us with the knowledge that the compiler has not refrained from borrowing from the mass of Tantric Literature which he could lay his hands on and from the
+
+[^2]: " विजयं प्रथमं ह्येषां निवासं तदनन्तरम्। स्वायम्भुवमतश्चैव वाथुलं तदनन्तरम्॥वीरभद्रमिति ख्यातम्................................।"
+
+[^3]: "विजयं चैव निवासं स्वायम्भुवमतः परम्। वाथुलं (वीरभद्रं च......
 
 
 
-[KARANKINI](# "करङ्किणीमते तन्त्रे महादेवेन विस्तरात्।( IX 5. ), Page 37.")Tantra and [VATSYAYANA](# "वात्स्यायनेन मुनिना प्रोक्तं योगमनुत्तमम्॥(IX 5.), Page 29."),the old handbooks on sexology. But the author seems  
+KARANKINI[^4], Page 37.")Tantra and VATSYAYANA[^5], Page 29."),the old handbooks on sexology. But the author seems  
 mainly to have drawn upon the Uddisha-Tantra to which a specific reference is made just at the very beginning of the paesent work. Below are given a few passages which are common in both the works. They go to prove that the author has extensively borrowed lines verbatim and sometimes with slight variations from the Uddisha-Tantra:—
+
+[^4]: "करङ्किणीमते तन्त्रे महादेवेन विस्तरात्।( IX 5.
+
+[^5]: "वात्स्यायनेन मुनिना प्रोक्तं योगमनुत्तमम्॥(IX 5.
 
 [TABLE]
 
@@ -593,14 +603,20 @@ Dated Pahlgam
 विनाशं मत्तकरणं गजवाजिप्रकोपनम् ॥ १५ ॥  
 आकर्षणं भुजङ्गानां मानवानां तथा ध्रुवम्।  
 वह्नेर्विनाशनं कुर्यात् पर्णानां हि विनाशनम् ॥ १६ ॥  
-[गर्दभस्यात्मकरणं](# "'गर्भस्य स्तम्भीकरणं' ख. पाठः। ") परकायप्रवेशनम्।  
+गर्दभस्यात्मकरणं[^6] परकायप्रवेशनम्।  
 वेतालपादुकासिद्धिमुल्वकाज्ज्वलनं तथा ॥ १७ ॥  
-अन्यान् बहुप्रयोगांश्च रौद्रान् [रामप्रहर्षणान्](# "'हर्षणम्' क. पाठः।")।  
+अन्यान् बहुप्रयोगांश्च रौद्रान् रामप्रहर्षणान्[^7]।  
 विद्यामन्त्रप्रयोगादीन् औषधांश्चाभिचारिकान् ॥ १८ ॥  
-गुप्तागुप्ततराः कार्या [रक्षितव्याः](# "'वीक्षि' क. पाठः।") प्रयत्नतः।  
+गुप्तागुप्ततराः कार्या रक्षितव्याः[^8] प्रयत्नतः।  
 उड्डीशं यो न जानाति स रुष्टः किं करिष्यति ॥ १९॥  
 सुमेरुं चालयेत् स्थानात् सागरैः प्लावयेन्महीम्।  
 सूर्यं च पातयेद्भूमौ नेदं मिथ्या भविष्यति ॥ २० ॥**
+
+[^6]: "'गर्भस्य स्तम्भीकरणं' ख. पाठः। "
+
+[^7]: "'हर्षणम्' क. पाठः।"
+
+[^8]: "'वीक्षि' क. पाठः।"
 
 
 
@@ -623,9 +639,11 @@ Dated Pahlgam
 ब्रह्मदण्डी चिताभस्म गोमयस्य तथैव च ॥ ३६ ॥  
 क्षारञ्चापि समादाय काकजङ्गासमन्वितम्।  
 क्षिपेच्छिरसि शत्रूणां तूर्णमुच्चाटयेद्रिपुम् ॥ ३७ ॥  
-[ततः](# "प्रत्यानयने इत्यर्थः ।") संस्नापयेदेनं गोक्षीरेण समन्वितम्।  
+ततः[^9] संस्नापयेदेनं गोक्षीरेण समन्वितम्।  
 मुण्डनं चाथ केशानां ततः स्वस्थो भवेद् ध्रुवम् ॥ ३८॥  
 अथान्यत् संप्रवक्ष्यामि शत्रोरुच्चाटनं वरम्।**
+
+[^9]: "प्रत्यानयने इत्यर्थः ।"
 
 
 
@@ -1745,7 +1763,7 @@ Dated Pahlgam
 यथैवेन्द्रस्य वज्रं च पाशं हि वरुणस्य च।  
 यमस्य च यथा दण्डं कुबेरस्य गदा यथा॥ २१ ॥  
 वह्नेः शक्तिर्यथा प्रोक्ता खड्गस्तु निर्ऋतेर्यथा।  
-यथा वायोश्चाङ्कुशं हि [त्रिशूलं](# "'शूलपाणेस्त्रिशूलकम्' क. पाठः।") शूलपाणिनः॥ २२ ॥  
+यथा वायोश्चाङ्कुशं हि त्रिशूलं[^10] शूलपाणिनः॥ २२ ॥  
 स्कन्दस्य च यथा शक्तिर्विष्णोश्चक्रं सुदर्शनम्।  
 तथैते च महायोगाः प्रयुक्ताः शत्रुकारणे॥ २३ ॥  
 अनिवृत्ते निवर्तन्ते अमोघा नात्र संशयः।  
@@ -1758,6 +1776,8 @@ Dated Pahlgam
 चितान्तः संस्थितो भूत्वा यस्य गात्रमृदाहरेत्॥ २७ ॥  
 कृष्णाष्टम्यां चतुर्दश्यामष्टोत्तरशतं जपेत्।  
 भूतो गृह्णाति तं शीघ्रं मन्त्रेणानेन मन्त्रितः॥ २८ ॥
+
+[^10]: "'शूलपाणेस्त्रिशूलकम्' क. पाठः।"
 
  उों नमो भगवते सर्वभूताधिपतये विरूपाक्षाय नित्यं क्रूराय दंष्ट्रिणे विकरालिने ग्रहयक्षभूतवेतालेन सह शङ्कर मनुष्यं दहदह पचपच गृह्णगृह्ण गृह्णापयगृह्णापय हुं फट् स्वाहा।
 
@@ -2468,3 +2488,13 @@ Dated Pahlgam
 
 
 \]
+
+
+
+
+
+
+
+
+
+

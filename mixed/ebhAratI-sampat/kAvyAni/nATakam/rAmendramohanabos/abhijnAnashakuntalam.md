@@ -254,11 +254,15 @@ the dictum enunciated by my late uncle **Prof. Kunjalal Nag, M. A.** who command
 
  The topics which it has not been possible to touch in the commentary itself without sacrificing its integral character have been discussed in detail in the *Notes*. There a considerable body of historical, mythological, legal and other references have been placed, and these, it is hoped, will go a great way in clarifying the intention of many an involved passage in the text. In fact, they will be found to form a particular feature of this book. I should here specifically refer to my indebtedness to the work of Sir Monier-Williams for suggestive criticism, although I have had to differ from him in several places. The other suggestions and opinions that I have discussed, accepted or regretfully rejected have been duly credited to their authors in their proper places. And while I have not regarded it necessary to attach a separate bibliographical list to the book, let me express here my sincerest obligation to the authors whom I have laid under contribution in one way or another. Endeavour has been made to lend this work a through-going character; yet I am painfully conscious of the possibility of many short-comings that must still remain.
 
- My erstwhile colleague Prof. Giridhar Chakravarty, M. A., B. L. deserves my first thanks for encouraging me at the very beginning to undertake the labour of this compilation. [Sri B. B. Dutta](# "Inspector of Colleges, Cal. University."), M. A., B. L., P. R. S., Ph. D., another of my former colleagues, and Prof. C. Mitra M. A., of my college have seen through the Mss. and
+ My erstwhile colleague Prof. Giridhar Chakravarty, M. A., B. L. deserves my first thanks for encouraging me at the very beginning to undertake the labour of this compilation. Sri B. B. Dutta[^1], M. A., B. L., P. R. S., Ph. D., another of my former colleagues, and Prof. C. Mitra M. A., of my college have seen through the Mss. and
+
+[^1]: "Inspector of Colleges, Cal. University."
 
 
 
-my pupil Srimān [Anil Chandra Banerji B.A](# "Now Dr. Anil Chandra Banerjee M. A., Ph. D., Lecturer, Calcutta University."). has copied out a goodly portion of them for the Press. Prof. Mitra has also given me an indispensable aid in correcting the proof-sheets. I have also been able to secure valuable help from my colleague Prof. Gopal Halder M.A., B L. in writing the Introduction, while a brother of mine, who is an officer in the Forest Department, has furnished me with many botanical names for use in the book. I have also derived help from my colleagues Profs. S. Sen. M. A. and N. Ganguli M, A., and Paṇḍita Kurunāth Nyaya-Vyākaraṇatīrtha of the local Tol in various ways. To all these friends, who have been so kind to me, profuse and unstinted in their help, I owe an acknowledgment of my deepest gratitude.
+my pupil Srimān Anil Chandra Banerji B.A[^2]. has copied out a goodly portion of them for the Press. Prof. Mitra has also given me an indispensable aid in correcting the proof-sheets. I have also been able to secure valuable help from my colleague Prof. Gopal Halder M.A., B L. in writing the Introduction, while a brother of mine, who is an officer in the Forest Department, has furnished me with many botanical names for use in the book. I have also derived help from my colleagues Profs. S. Sen. M. A. and N. Ganguli M, A., and Paṇḍita Kurunāth Nyaya-Vyākaraṇatīrtha of the local Tol in various ways. To all these friends, who have been so kind to me, profuse and unstinted in their help, I owe an acknowledgment of my deepest gratitude.
+
+[^2]: "Now Dr. Anil Chandra Banerjee M. A., Ph. D., Lecturer, Calcutta University."
 
  Finally, there is an apology to make. Owing to protracted illness it has not been possible for me to get even with the printer's devil, and the result has been that the book is interspersed with typographical errors, which even the *Errata* given at the close may not have been able to cover. I can only hope, the very unwelcome legion will not be there to taint a future reprint, should it ever come. As it stands, however, they may easily be detected and rectified by the students themselves with the slightest help from the teachers. A very cursory glance will show that the work of transliteration, undoubtedly a matter of paramount importance in annotated editions of Sanskrit books, has not been satisfactory in the present volume, owing to utter lack of facility for it in the press I have had to work with. Suggestions for improvement in both form and matter of this edition will be gratefully received.
 
@@ -288,7 +292,9 @@ Feni College,
 
 
 
-business, he, to the utter amazement of his consort, to whom the word was conveyed, replied in correct Sanskrit,**“अस्ति कश्चित् वाग्विशेषः।”** The princess however would not admit him until he could satisfy her with incontrovertible evidence of learning, and this he did later on by writing books beginning with each of the words uttered in that speech. Thus were born the four immortal works, **कुमारसम्भव, मेघदूत, रघुवंश** and **ऋतुसंहार**।¹ In his later life the tradition connects him with the great literary figures—the "gems"—of the court of Vikramāditya². "Though it has not proved possible", says Prof. Ryder, "to identify this monarch with any of the known rulers, there can be no doubt that he existed and had the character attributed to him. The name 'Vikramāditya'—Sun of Valour—is probably not a proper name, but a title like Pharaoh or Tsar. No doubt Kālidāsa intended to pay a tribute to his patron, the Sun of Valour, in the very title of his play *Urvas'ī Won by Valour* **[(विक्रमोर्व्वशीयम्)](# "अनुत्सेकः खलु विक्रमालंकारः")”**
+business, he, to the utter amazement of his consort, to whom the word was conveyed, replied in correct Sanskrit,**“अस्ति कश्चित् वाग्विशेषः।”** The princess however would not admit him until he could satisfy her with incontrovertible evidence of learning, and this he did later on by writing books beginning with each of the words uttered in that speech. Thus were born the four immortal works, **कुमारसम्भव, मेघदूत, रघुवंश** and **ऋतुसंहार**।¹ In his later life the tradition connects him with the great literary figures—the "gems"—of the court of Vikramāditya². "Though it has not proved possible", says Prof. Ryder, "to identify this monarch with any of the known rulers, there can be no doubt that he existed and had the character attributed to him. The name 'Vikramāditya'—Sun of Valour—is probably not a proper name, but a title like Pharaoh or Tsar. No doubt Kālidāsa intended to pay a tribute to his patron, the Sun of Valour, in the very title of his play *Urvas'ī Won by Valour* **(विक्रमोर्व्वशीयम्)[^3]”**
+
+[^3]: "अनुत्सेकः खलु विक्रमालंकारः"
 
 **Birth-place.**
 
@@ -312,7 +318,11 @@ of the great poet an attempt to prove that Kālidāsa was a Bengalee by birth.
 
 **Kālidāsa—a Bengalee ?**
 
- It has been advanced in support of this contention that *Ka'lida'sa* is a *common* Bengali name, and that his birth-place is somewhere in *Navadvīpa*. But the validity of such an argument is to be questioned when the name *Ka'lida'sa* is often met with amongst the Guzeratis^(**1**). One fact, however, strikes us much,—though any deduction from it must be hazardous,—that, in all the vast range of his works Kālidāsa mentions the name of [Bengal only once](# "“वङ्गानुत्खाय तरसा नेता”—Ra. IV. 36."). Not even the brilliant bridal assemblage in the sixth canto of *Raghuvaṁśa* is adorned by any. Bengali prince, although the potentates of the neighbouring kingdoms, such as Anga, Kalinga, Avantī, Magadha are described with gusto and to the [minutest details](# "Vide Ra. VI. 20-79.").
+ It has been advanced in support of this contention that *Ka'lida'sa* is a *common* Bengali name, and that his birth-place is somewhere in *Navadvīpa*. But the validity of such an argument is to be questioned when the name *Ka'lida'sa* is often met with amongst the Guzeratis^(**1**). One fact, however, strikes us much,—though any deduction from it must be hazardous,—that, in all the vast range of his works Kālidāsa mentions the name of Bengal only once[^4]. Not even the brilliant bridal assemblage in the sixth canto of *Raghuvaṁśa* is adorned by any. Bengali prince, although the potentates of the neighbouring kingdoms, such as Anga, Kalinga, Avantī, Magadha are described with gusto and to the minutest details[^5].
+
+[^4]: "“वङ्गानुत्खाय तरसा नेता”—Ra. IV. 36."
+
+[^5]: "Vide Ra. VI. 20-79."
 
 **Or, a Kashmiree?**
 
@@ -339,12 +349,24 @@ caste and was a *Gauḍa Sārasvata*, but he has not adduced sufficient reason i
 
 Religious Views.
 
- The consensus of scholarly opinion regarding the poet's religious pursuasion appears definitely in favour of the contention that he was a S'aivaite, though by no means a sectarian. In the opening stanzas of each one of his plays he has invoked S'iva^(**1**). The last stanza of *S'akuntalā* has a [direct reference to S'iva](# " “ममापि च क्षपयतु नीललोहितः”—Ibid. VII. 38."). In *Kumāra-sambhava*, S'iva himself is the hero of the play and in **M*egha-dūta* we have a powerful description of a shrine dedicated to S'iva. But that he was not a dogmatic sectarian is plain enough from his ardent and devout references to Viṣṇu in [*Raghu*](# "Ra. X, 14—37."), and also from his catholic views on the trinity—Brahmā, Viṣṇu, S'iva—pointedly expressed in [*Kumāra-sambhava*](# "Ku. II 4; VII, 44; 1. n. Infra."). Hence it may be safely concluded that Kālidāsa was, in matters of religion, what William James would call *"healthy-minded"*, and emphatically not a *"sick soul"*.
+ The consensus of scholarly opinion regarding the poet's religious pursuasion appears definitely in favour of the contention that he was a S'aivaite, though by no means a sectarian. In the opening stanzas of each one of his plays he has invoked S'iva^(**1**). The last stanza of *S'akuntalā* has a direct reference to S'iva[^6]. In *Kumāra-sambhava*, S'iva himself is the hero of the play and in **M*egha-dūta* we have a powerful description of a shrine dedicated to S'iva. But that he was not a dogmatic sectarian is plain enough from his ardent and devout references to Viṣṇu in *Raghu*[^7], and also from his catholic views on the trinity—Brahmā, Viṣṇu, S'iva—pointedly expressed in *Kumāra-sambhava*[^8]. Hence it may be safely concluded that Kālidāsa was, in matters of religion, what William James would call *"healthy-minded"*, and emphatically not a *"sick soul"*.
+
+[^6]: " “ममापि च क्षपयतु नीललोहितः”—Ibid. VII. 38."
+
+[^7]: "Ra. X, 14—37."
+
+[^8]: "Ku. II 4; VII, 44; 1. n. Infra."
 
 An extensive traveller.
 
- Kālidāsa seems to have made a 'grand tour', at least in the northern part of India, from the Vindhyās to the Himālayan Plateaus. His accurate description of the kingdoms of Bengal, Behar, Orissa with their sea-coasts and many others, as well as the striking delineation of the operations in burning the ground before [sowing](# "Ra. IX-89."), a custom prevalent in Konkan, unmistakably point to the conclusion that he had personally seen those [places and scenes](# "Ra. IV. 36—80; XIII. 2—63; MD. 12-64."). "It is the mountains that impress him most deeply. His works are full of the Himālayas. Apart from his earliest drama and the slight poem called, *"The Seasons,"* there is not one of them which is not [fairly redolent of mountains."](# "Prof. Ryder's Kālidāsa. P. XI.") This also would seem to corroborate the idea of poet's wide travels.  
+ Kālidāsa seems to have made a 'grand tour', at least in the northern part of India, from the Vindhyās to the Himālayan Plateaus. His accurate description of the kingdoms of Bengal, Behar, Orissa with their sea-coasts and many others, as well as the striking delineation of the operations in burning the ground before sowing[^9], a custom prevalent in Konkan, unmistakably point to the conclusion that he had personally seen those places and scenes[^10]. "It is the mountains that impress him most deeply. His works are full of the Himālayas. Apart from his earliest drama and the slight poem called, *"The Seasons,"* there is not one of them which is not fairly redolent of mountains."[^11] This also would seem to corroborate the idea of poet's wide travels.  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+[^9]: "Ra. IX-89."
+
+[^10]: "Ra. IV. 36—80; XIII. 2—63; MD. 12-64."
+
+[^11]: "Prof. Ryder's Kālidāsa. P. XI."
 
 ****
 
@@ -421,13 +443,15 @@ and keeps fed ?
 together ?
 
  I name, sakuntalā, thee, and so is everything said.  
- \[*Translated by Roby Dutta M. A. (Cantab).*
+ \*Translated by Roby Dutta M. A. (Cantab).*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
 
-work as may only be appraised by a great poet. Dr. Macdonell has drawn pointed attention to the influence it had on Goethe. "It is a fact worth noting" says he, "that the beginning of one of the most famous European Dramas has been modelled on that of a celebrated Sanskrit play. The prelude of *S'akuntalá* suggested to Goethe the plan of the Prologue on the stage in *Faust*, where the stage-manager, the merryandrew and the poet converse regarding the [play to be performed](# "History of Sanskrit Literature, P. 416.")," Later on, when Prof. Che'zy sent a copy of his edition of *S'akuntalá*, Goethe, then an old man of eighty, in acknowledging with thanks the receipt of the book wrote to him, on Oct. 1, 1830, *inter alia*, as follows: *"The very first time that I became aware of this unfathomable work, it excited in me such an enthusiasm and attracted me in such a manner that I could not cease studying it again and again. Yes, indeed, I felt myself called upon to undertake the impossible task of adapting it to the German stage. even if only imperfectly. ![](../books_images/U-IMG-1736597645Capture2.PNG)![](../books_images/U-IMG-1736597645Capture2.PNG)*
+work as may only be appraised by a great poet. Dr. Macdonell has drawn pointed attention to the influence it had on Goethe. "It is a fact worth noting" says he, "that the beginning of one of the most famous European Dramas has been modelled on that of a celebrated Sanskrit play. The prelude of *S'akuntalá* suggested to Goethe the plan of the Prologue on the stage in *Faust*, where the stage-manager, the merryandrew and the poet converse regarding the [play to be performed[^12]," Later on, when Prof. Che'zy sent a copy of his edition of *S'akuntalá*, Goethe, then an old man of eighty, in acknowledging with thanks the receipt of the book wrote to him, on Oct. 1, 1830, *inter alia*, as follows: *"The very first time that I became aware of this unfathomable work, it excited in me such an enthusiasm and attracted me in such a manner that I could not cease studying it again and again. Yes, indeed, I felt myself called upon to undertake the impossible task of adapting it to the German stage. even if only imperfectly. ![](../books_images/U-IMG-1736597645Capture2.PNG)![](../books_images/U-IMG-1736597645Capture2.PNG)*
+
+[^12]: "History of Sanskrit Literature, P. 416."
 
  I realise only now the profound impression that this work had made upon me at that time. Here appears to us the poet in his highest role as the exponent of the most natural condition, of the finest habits. of the purest moral endeavours, of the worthiest majesty, and of the most earnest contemplation of God: but at the same time he remains to such an extent the lord and master  
 
@@ -452,9 +476,13 @@ work as may only be appraised by a great poet. Dr. Macdonell has drawn pointed a
 
 
 
-of his creation,t hat he even ventures to risk vulgar and ridiculous contrasts which, however, must be regarded as the necessary connecting links in the [whole scheme of things"](# "Winternitz, Geschichte der indischen Literatur. Band III, P. 214.").
+of his creation,t hat he even ventures to risk vulgar and ridiculous contrasts which, however, must be regarded as the necessary connecting links in the whole scheme of things"[^13].
 
- Speaking of *S'akuntalā* Dr. Monier Williams of international fame remarks, "No composition of Kālidāsa displays more the richness and fertility of his poetical genius, the exuberance of his imagination, the warmth and play of his fancy, his profound knowledge of the human heart, his delicate appreciation of its most refined and tender emotions, his familiarity with the workings and counter-workings of its confiicting feelings—in short, more entitles him to rank as the "Shakespeare of India". Schiller in a letter to Humboldt writes, "in the whole range of Grecian antiquity there is no poetical representation of beautiful womanhood or of beautiful love that could even remotely [compare with *S'akuntalā*](# "Winternitz, Geschichte der indischen Literatur, Band III. S. 215 Anm.")."
+[^13]: "Winternitz, Geschichte der indischen Literatur. Band III, P. 214."
+
+ Speaking of *S'akuntalā* Dr. Monier Williams of international fame remarks, "No composition of Kālidāsa displays more the richness and fertility of his poetical genius, the exuberance of his imagination, the warmth and play of his fancy, his profound knowledge of the human heart, his delicate appreciation of its most refined and tender emotions, his familiarity with the workings and counter-workings of its confiicting feelings—in short, more entitles him to rank as the "Shakespeare of India". Schiller in a letter to Humboldt writes, "in the whole range of Grecian antiquity there is no poetical representation of beautiful womanhood or of beautiful love that could even remotely compare with *S'akuntalā*[^14]."
+
+[^14]: "Winternitz, Geschichte der indischen Literatur, Band III. S. 215 Anm."
 
  Again, as has been pointed out by late Harināth De, Bengal's most distinguished linguist, 'the idea of the cloud being employed as a messenger has been imitated in German poetry by Schiller, who, in his drama *Maria Stuart* puts the following appeal in the mouth of the captive Scotish queen:
 
@@ -474,7 +502,9 @@ Greet kindly on my behalf the land of my youth.\]**¹**
 
 
 
-next three topics we propose to base our remarks on those of [Prof. Ryder](# "'Kālidāsa' Introduction III, Pp. XVIII-XIX.") maintaining generally the very language of the learned critic.
+next three topics we propose to base our remarks on those of Prof. Ryder[^15] maintaining generally the very language of the learned critic.
+
+[^15]: "'Kālidāsa' Introduction III, Pp. XVIII-XIX."
 
 **Kālidāsa—the singer of happy love.**
 
@@ -512,7 +542,9 @@ knowledge of Nature. In his works nature is too stolidly real to be so sublimate
 
 
 
-and [Kaviputra](# "प्रथितयशसां भास-सौमिल्लक-कविपुत्रादीनां &c.—Mála I.").
+and Kaviputra[^16].
+
+[^16]: "प्रथितयशसां भास-सौमिल्लक-कविपुत्रादीनां &c.—Mála I."
 
 **Ka'lida'sa and Bha'sa.**
 
@@ -543,19 +575,27 @@ place, discredited altogether as spurious. A class of scholars have definitely s
 
 
 
-entirely novel and original. The difference between the two great artists, however, comes out most prominently in their manner of depicting natural sights and sounds and the play of passions and sentiments as well as in the nature of imagery used by each. In Kālidāsa, the descriptions are characterised by a terseness and power of suggestion that adds to the charm of his poetry, while Bhavabhūti is painfully elaborate and prolix in his descriptions. With the true insight of an artist Kālidāsa finishes his picture with just a few significant touches, leaving the details to be supplied by the imagination of the reader. Bhavabhūti, on the other hand, spares no pains to make his picture complete even to the minutest detail, so that the reader has hardly to exercise his imagination to understand and appreciate it. "The former *suggests* or *indicates* the sentiment, while the *latter expresses* in forcible language. The characters of the latter overcome by force of passion often weep bitterly, while those of the former simply shed a few tears, if they do so at all. In the language of Sanskrit critics Kālidāsa's *rasa* is conveyed or *abhibyakta* by the *lakṣya* or the *vyangya* sense of words, while Bhavabhūti's is conveyed by ["*Vācya*" sense.](# "R. G. Bhandarkar, Mālati. (Preface).")
+entirely novel and original. The difference between the two great artists, however, comes out most prominently in their manner of depicting natural sights and sounds and the play of passions and sentiments as well as in the nature of imagery used by each. In Kālidāsa, the descriptions are characterised by a terseness and power of suggestion that adds to the charm of his poetry, while Bhavabhūti is painfully elaborate and prolix in his descriptions. With the true insight of an artist Kālidāsa finishes his picture with just a few significant touches, leaving the details to be supplied by the imagination of the reader. Bhavabhūti, on the other hand, spares no pains to make his picture complete even to the minutest detail, so that the reader has hardly to exercise his imagination to understand and appreciate it. "The former *suggests* or *indicates* the sentiment, while the *latter expresses* in forcible language. The characters of the latter overcome by force of passion often weep bitterly, while those of the former simply shed a few tears, if they do so at all. In the language of Sanskrit critics Kālidāsa's *rasa* is conveyed or *abhibyakta* by the *lakṣya* or the *vyangya* sense of words, while Bhavabhūti's is conveyed by "*Vācya*" sense.[^17].")
 
- The other distinguishing feature of Kālidāsa's poetry is the aptness and the beauty of his similes and it is here that he stands without a rival. Kālidāsa compares the familiar and the concrete to other familiar and concrete object, and that why his similes have a direct appeal to the mind of the reader. Bhavabhūti, on the other hand, delights in comparing the familiar and the concrete to the remote and the abstract, with the result that his similes appear to be rather farfetched and obscure and can not readily fascinate the reader. "There is more passion in the thought of Bhavabhūti than in those of Kālidāsa, but less fancy. There are few of the elegant similitudes in which the latter is so rich and there is more that is common-place and much that is strained and obscure. In none of his dramas does Bhavabhūti make any attempt at wit and we have no character in either of his three dramas approaching the Vidūṣaka. On the other hand he expatiates more largely in the description of human emotions and is perhaps entitled to even a higher place than [his rival as a poet](# "Dr. H. H. Wilson.")."
+[^17]: "R. G. Bhandarkar, Mālati. (Preface
+
+ The other distinguishing feature of Kālidāsa's poetry is the aptness and the beauty of his similes and it is here that he stands without a rival. Kālidāsa compares the familiar and the concrete to other familiar and concrete object, and that why his similes have a direct appeal to the mind of the reader. Bhavabhūti, on the other hand, delights in comparing the familiar and the concrete to the remote and the abstract, with the result that his similes appear to be rather farfetched and obscure and can not readily fascinate the reader. "There is more passion in the thought of Bhavabhūti than in those of Kālidāsa, but less fancy. There are few of the elegant similitudes in which the latter is so rich and there is more that is common-place and much that is strained and obscure. In none of his dramas does Bhavabhūti make any attempt at wit and we have no character in either of his three dramas approaching the Vidūṣaka. On the other hand he expatiates more largely in the description of human emotions and is perhaps entitled to even a higher place than his rival as a poet[^18]."
+
+[^18]: "Dr. H. H. Wilson."
 
 
 
 **The Date of Kālidāsa**
 
- There are conflicting opinions regarding the actual date of Kālidāsa. He has been dragged by the scholars from century to century, from 800 B. C. to 1200 A. D^(**1**). *M. Hippolyte Fauche*, who published a French translation of the complete works of Kālidāsa [*supposes*](# "Saturday Review, January, 1860.") that Kālidāsa lived at the time of the posthumous child of the king Agnivarṇa mentioned in the 19th canto of the *Raghu-vaṁs'am*. This places the poet, at the latest in the 8th century B. C. But the style of Kālidāsa is certainly not so old as to belong to a period earlier than Paṇini (750 B. C.), the great grammarian. Besides, M. Fauche's conjecture is not supported by any historical evidences, so it is dismissed without serious consideration.
+ There are conflicting opinions regarding the actual date of Kālidāsa. He has been dragged by the scholars from century to century, from 800 B. C. to 1200 A. D^(**1**). *M. Hippolyte Fauche*, who published a French translation of the complete works of Kālidāsa *supposes*[^19] that Kālidāsa lived at the time of the posthumous child of the king Agnivarṇa mentioned in the 19th canto of the *Raghu-vaṁs'am*. This places the poet, at the latest in the 8th century B. C. But the style of Kālidāsa is certainly not so old as to belong to a period earlier than Paṇini (750 B. C.), the great grammarian. Besides, M. Fauche's conjecture is not supported by any historical evidences, so it is dismissed without serious consideration.
+
+[^19]: "Saturday Review, January, 1860."
 
 **Earliest mention of Ka'lida'sa.**
 
- *Kṣīrasvāvmī*, the oldest commentator of *Amarakoṣa* (8th century A. D.), and *Kumārila Bhaṭṭa* (8th century A. D.) the great Mimānsaka philosopher^(**2**) quote from Kālidāsa. The author of *Gauḍa-badha* (8th century (A. D.) calls our poet as "*Raghu-ka'ra.*" *Ba'ṇa-bhaṭṭa* the court-poet of Śilāditya II (650 A. D.) eulogises Kālidāsa in his [*Harṣa-Carita*](# "निर्गतासु न वा कस्य कालिदासस्य सूक्तिषु। प्रीतिर्मधुरसार्द्रासु मञ्जरीष्विव जायते॥—HC."). All these facts may be adduced to explode the 10th and 12th century theories, while the *earliest mention* of our poet in *"Aihole Inscription"* of Pulakeśi II, dated Saka. 556.
+ *Kṣīrasvāvmī*, the oldest commentator of *Amarakoṣa* (8th century A. D.), and *Kumārila Bhaṭṭa* (8th century A. D.) the great Mimānsaka philosopher^(**2**) quote from Kālidāsa. The author of *Gauḍa-badha* (8th century (A. D.) calls our poet as "*Raghu-ka'ra.*" *Ba'ṇa-bhaṭṭa* the court-poet of Śilāditya II (650 A. D.) eulogises Kālidāsa in his *Harṣa-Carita*[^20]. All these facts may be adduced to explode the 10th and 12th century theories, while the *earliest mention* of our poet in *"Aihole Inscription"* of Pulakeśi II, dated Saka. 556.
+
+[^20]: "निर्गतासु न वा कस्य कालिदासस्य सूक्तिषु। प्रीतिर्मधुरसार्द्रासु मञ्जरीष्विव जायते॥—HC."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -571,7 +611,11 @@ i\. e. A. D. 634—5, furnishes the *7th Century A. D. as the downward limit of 
 
 **Renaissance Theory.**
 
- [Dr. Max Muller opines](# "India what can it teach us.") that in consequence of the incessant incursions of the Hunas, Scythians and other foreigners, there was a *literary interregnum* during the first two centuries A. D. He believes that Sanskrit went to sleep, for nearly six centuries from the rise of Buddhism in the fifth century B. C. to the establishment of the Gupta Empire in the fourth century A. D. Dr. Muller's view is that in the middle of the sixth century, the reign of the king Vikramāditya of Ujjain, whose court is said to have been adorned by nine gems, of whom Kālidāsa was the chief, was the Augustan age of Sanskrit Literature. But this theory has been totally exploded by the *Girna'ra* and *Na'sika* inscriptions, and by the epigraphical evidences which not only prove conclusively that Sanskrit Literature flourished before the Christian era but show incontrovertibly that it was not dormant but that it continued in culture during [the succeeding centuries](# "Dr. Macdonell's History of Sanskrit Literature.").
+ Dr. Max Muller opines[^21] that in consequence of the incessant incursions of the Hunas, Scythians and other foreigners, there was a *literary interregnum* during the first two centuries A. D. He believes that Sanskrit went to sleep, for nearly six centuries from the rise of Buddhism in the fifth century B. C. to the establishment of the Gupta Empire in the fourth century A. D. Dr. Muller's view is that in the middle of the sixth century, the reign of the king Vikramāditya of Ujjain, whose court is said to have been adorned by nine gems, of whom Kālidāsa was the chief, was the Augustan age of Sanskrit Literature. But this theory has been totally exploded by the *Girna'ra* and *Na'sika* inscriptions, and by the epigraphical evidences which not only prove conclusively that Sanskrit Literature flourished before the Christian era but show incontrovertibly that it was not dormant but that it continued in culture during the succeeding centuries[^22].
+
+[^21]: "India what can it teach us."
+
+[^22]: "Dr. Macdonell's History of Sanskrit Literature."
 
 **Korur Theory.**
 
@@ -589,7 +633,11 @@ first half of the Sixth Century, they were driven out not by Vikramāditya but b
 
 **Dignāga Theory.**
 
- Hiouen Thsang, the Chinese traveller mentions two individuals *Āryasānga* and *Vasubandhu* who lived about 541 A. D. A certain Dignāga was Vasubandhu's pupil. Dr. Muller and some others are of opinion that Dignāga, a hatred rival of our poet, has been mentioned by Kālidāsa in the 14th stanza of [*Megha-dūtam* in terms of banter](# "“दिङ्नागानां पथि परिहरन् स्थूलहस्तावलेपान्”—MD. 14."). Hence, "we shall probably", says Dr. Muller, "now feel confident in placing Kālidāsa in the middle of the Sixth Century". But against this Dr. Macdonell remarks—The explanation to begin with, is extremely dubious in itself. Then it is uncertain whether Mallinâtha (following Dakṣiṇāvarta)^(**1**) means the Buddhist teacher Dignāga. Thirdly, little weight can be attached to the Buddhistic tradition that Dignāga was a pupil of Vasubandhu, for this statement is not found till the sixteenth century. Then the assertion that Vasubandhu belongs to the sixth century depends chiefly on the Vikramāditya theory and is opposed to the Chinese evidence which indicates that works of Vasubandhu were translated in A. D. 404. Thus every link in the chain of argument is very weak. Again if Dignāga be naturally a hatred rival of Kālidāsa and be ridiculed in a contemptuous way in that śloka as Mallinâtha observes, the plural number in the way seems to be quite unjustifiable and [a serious incongruity](# "दिङ्नागानां गौरवे बहुवचनम्—MN."). Moreover, one has to explain why Ballabha Deva, one of the oldest commentators, does not touch the question at all.
+ Hiouen Thsang, the Chinese traveller mentions two individuals *Āryasānga* and *Vasubandhu* who lived about 541 A. D. A certain Dignāga was Vasubandhu's pupil. Dr. Muller and some others are of opinion that Dignāga, a hatred rival of our poet, has been mentioned by Kālidāsa in the 14th stanza of *Megha-dūtam* in terms of banter[^23]. Hence, "we shall probably", says Dr. Muller, "now feel confident in placing Kālidāsa in the middle of the Sixth Century". But against this Dr. Macdonell remarks—The explanation to begin with, is extremely dubious in itself. Then it is uncertain whether Mallinâtha (following Dakṣiṇāvarta)^(**1**) means the Buddhist teacher Dignāga. Thirdly, little weight can be attached to the Buddhistic tradition that Dignāga was a pupil of Vasubandhu, for this statement is not found till the sixteenth century. Then the assertion that Vasubandhu belongs to the sixth century depends chiefly on the Vikramāditya theory and is opposed to the Chinese evidence which indicates that works of Vasubandhu were translated in A. D. 404. Thus every link in the chain of argument is very weak. Again if Dignāga be naturally a hatred rival of Kālidāsa and be ridiculed in a contemptuous way in that śloka as Mallinâtha observes, the plural number in the way seems to be quite unjustifiable and a serious incongruity[^24]. Moreover, one has to explain why Ballabha Deva, one of the oldest commentators, does not touch the question at all.
+
+[^23]: "“दिङ्नागानां पथि परिहरन् स्थूलहस्तावलेपान्”—MD. 14."
+
+[^24]: "दिङ्नागानां गौरवे बहुवचनम्—MN."
 
  Dr. Bhau Daji indentifies Kālidāsa with Mātrigupta (as
 
@@ -607,11 +655,15 @@ mentioned by Kalhana, the author of Rājataraṅgiṇī) who was placed for a sh
 
 **Mātrigupta alias Kālidāsa.**
 
- Dr. Bhau himself, however, does not appear to be certain of his doctrine of the identity. His language meekly presses the suggestion forward and leaves it to take its own chances at the hands of the critics. One very striking thing is this that Kalhana mentions Mātrigupta but he does not name a single of the renowned works of our poets. Again, it has also been said that *Setubandham* is a work actually written by Mātrigupta on the occasion of building a pontoon bridge across the Vitastā (Hydaspes) by Pravarasena. But no reliable evidence has been forthcoming to identify Pravarasena and his work of building the bridge. All that there is in this connection is loose tradition. Bāṇabhaṭṭa's assumption of this Pravarasena with the book [*Setubandham*](# "कीर्तिः प्रवरसेनस्य प्रयाता कुमुदोज्ज्वला। सागरस्य परं पारं कपिसेनेव सेतुना॥") leads us nowhere. For neither, the author of *Ka'vya'dars'a* (Daṇḍī) nor that of *Sa'hityadarpaṇa* (Vis'vanātha Kavirāja) makes mention of Kālidāsa as being the author of this book. Rāma Sarmā has, it is known, found an allusion to the disputed authorship somewhere in *Va'ra'ṇasī- darpaṇa* of Sundara, but then the Kālidāsa he refers to may be any of the three Kālidāsas known to Rājas'ekhara, the probability being definitely against our poet. Kālidāsa and Mātrigupta are certainly two different persons as they are differently quoted by Kṣemendra, other writers and commentators.
+ Dr. Bhau himself, however, does not appear to be certain of his doctrine of the identity. His language meekly presses the suggestion forward and leaves it to take its own chances at the hands of the critics. One very striking thing is this that Kalhana mentions Mātrigupta but he does not name a single of the renowned works of our poets. Again, it has also been said that *Setubandham* is a work actually written by Mātrigupta on the occasion of building a pontoon bridge across the Vitastā (Hydaspes) by Pravarasena. But no reliable evidence has been forthcoming to identify Pravarasena and his work of building the bridge. All that there is in this connection is loose tradition. Bāṇabhaṭṭa's assumption of this Pravarasena with the book *Setubandham*[^25] leads us nowhere. For neither, the author of *Ka'vya'dars'a* (Daṇḍī) nor that of *Sa'hityadarpaṇa* (Vis'vanātha Kavirāja) makes mention of Kālidāsa as being the author of this book. Rāma Sarmā has, it is known, found an allusion to the disputed authorship somewhere in *Va'ra'ṇasī- darpaṇa* of Sundara, but then the Kālidāsa he refers to may be any of the three Kālidāsas known to Rājas'ekhara, the probability being definitely against our poet. Kālidāsa and Mātrigupta are certainly two different persons as they are differently quoted by Kṣemendra, other writers and commentators.
+
+[^25]: "कीर्तिः प्रवरसेनस्य प्रयाता कुमुदोज्ज्वला। सागरस्य परं पारं कपिसेनेव सेतुना॥"
 
 **Sixth Century Theory.**
 
- Mr. K. B. Pāthaka and others in vain lay stress upon some internal evidences in the book for placing the poet in the sixth century. For the mention of [Hunas](# "—Ra. IV. 68.") in the *Raghu-vaṁs'am* does not prove anything. The names of Huna and various other Mleccha tribes we find even in the Mahābhārata and the
+ Mr. K. B. Pāthaka and others in vain lay stress upon some internal evidences in the book for placing the poet in the sixth century. For the mention of Hunas[^26] in the *Raghu-vaṁs'am* does not prove anything. The names of Huna and various other Mleccha tribes we find even in the Mahābhārata and the
+
+[^26]: "—Ra. IV. 68."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -625,9 +677,11 @@ Rāmāyaṇa^(**1**). Prof. R. N. Āpte has shown that just beyond the threshold
 
 **Sk. Jāmitra and Gk. Diametron.**
 
- It has also been argued that the word *Ja'mitra (Ku. VII.I.)* is taken from the Greek "*Diametron*" which was borrowed by Āryabhaṭṭa *(499 A. D.)* in his astronomical works. This places Kālidāsa after Āryabhaṭṭa. Principal S. Roy has clearly proved that *Jámitra* (a pure sanskrit word) does not suit the context in the sense of [Gr. Diametron.](# "For detailed discussion vide S. Roy's Introduction to Sa'kuntala' P. 46.")
+ It has also been argued that the word *Ja'mitra (Ku. VII.I.)* is taken from the Greek "*Diametron*" which was borrowed by Āryabhaṭṭa *(499 A. D.)* in his astronomical works. This places Kālidāsa after Āryabhaṭṭa. Principal S. Roy has clearly proved that *Jámitra* (a pure sanskrit word) does not suit the context in the sense of Gr. Diametron.[^27]
 
  Mr. Harināth De, the renowned linguist and Mr. B. C. Mazumdar (J. R. A. S. 1909, Page 731) find covert references to the Gupta Kings in the works of our poet. Hence the poet must have flourished during the reign of Candra Gupta (II) Vikramāditya and that of his son Kumāra Gupta. The following references according to them are sufficient to corroborate the above statement;—
+
+[^27]: "For detailed discussion vide S. Roy's Introduction to Sa'kuntala' P. 46."
 
  'आ-समुद्र-क्षितीशानाम्—&c.'—Ra. I. 5, *(Kings beginning with समुद्रगुप्त)* 'गोप्त्रे गुप्त-तमेन्द्रियाः'—I. 55 ; 'गोप्ता गृहिणीसहायः'—II. 24 ; 'गोप्तुर्गुणोदयम्'—IV. 20 ; 'गुप्तमूलप्रयत्नः'—IV. 26 ; *(reference to Gupta Dynasty)*.'इन्द्रः क्षीरनिधाविव'—I. 12; 'प्रभातकल्पा शशिनेव'—III. 2 ; *(Ref. to चन्द्रगुप्त)*; 'बालचन्द्रमाः'—III. 22 ; कुमारोऽपि 'कुमारविक्रमः'—III. 55 ; 'कुमारकल्पं सुषुवे कुमारम्'—V. 36 ; 'विभिदे कुमारः'—V. 37 ; 'आ-कुमार-कथोद्धातं'—*(Ref. to कुमारगुप्त)*; 'श्रियं महेन्द्रनाथस्य'—IV. 43 *(Ref. to title महेन्द्रादित्य of कुमारगुप्त)*। ‘स्कन्दस्य मातुः’—II.36. ‘स्कन्देन साक्षादिव’—VII. 6 ; 'तत्र स्कन्दं नियतवसतिं'—*MD*. I. 43 *(Ref. to स्कन्दगुप्त)*. 'सगुप्त-मूल-प्रत्यन्तः शुद्धपार्ष्णिरयान्वितः। षड्विधं बल-मादाय प्रतस्थे दिग्-जिगीषया'—*Ibid* IV. 26.  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -660,13 +714,17 @@ Rāmāyaṇa^(**1**). Prof. R. N. Āpte has shown that just beyond the threshold
 
 
 
-मासे ज्योतिर्विदाभरण-ग्रन्थः कृतः। इदानीन्तु (१९२३ खृष्टाब्दे) कलेर्गताब्दाः ५०२४, ततश्च ३०६८ संख्यासु हृतासु १९५६ वर्षसंख्या अवशिष्यन्ते। ततोऽपि च १९२३ खृष्टाब्द-संख्यासु हृतासु ३३ वत्सरास्तिष्ठन्ति। एवञ्च सति खृष्ट-जन्मनस्त्रयस्त्रिंशत् वत्सरपूर्वे ज्योतिर्विदाभरणरचनारम्भ [इति सिद्धम्”\]](# "Pandita Haridāsa Sidhāntavāgis'a's Edition.")
+मासे ज्योतिर्विदाभरण-ग्रन्थः कृतः। इदानीन्तु (१९२३ खृष्टाब्दे) कलेर्गताब्दाः ५०२४, ततश्च ३०६८ संख्यासु हृतासु १९५६ वर्षसंख्या अवशिष्यन्ते। ततोऽपि च १९२३ खृष्टाब्द-संख्यासु हृतासु ३३ वत्सरास्तिष्ठन्ति। एवञ्च सति खृष्ट-जन्मनस्त्रयस्त्रिंशत् वत्सरपूर्वे ज्योतिर्विदाभरणरचनारम्भ [इति सिद्धम्”\]][^28]
 
  A careful study of the language, and astronomical references will clearly show that **ज्योतिर्विदाभरण** is a book of much later date and written by some pseudo-Kālidāsa. Besides, there is considerable difference in language and style between this book and *Raghu-vaṁs'am or Kuma'ra-sambhavam.* But then, a pertinent question would suggest itself as to why this deception should have been played by the author of this book. What made the *early era* with which he would like himself to be associated so dangerously attractive? The only plausible explanation is that there was a Kālidāsa who wrote *Raghu-vaṁs'am, Kuma'ra,* and *Megha-dūtam* and that he lived before the birth of Christ, and that the author of **ज्योतिर्विदाभरण** assumes the name of Kālidāsa and identifies himself with the author of *Raghu-vaṁs'am*, with the hope that his book might pass for one of that famous Kālidāsa's.
 
+[^28]: "Pandita Haridāsa Sidhāntavāgis'a's Edition."
+
 **Bhita Medallion of the Suṅga Dynasty.**
 
- The terra-cotta medallion found by Dr. Marshall in a village named Bhita, [near Allahabad](# "Report of the Archæological Survey of India 1909-10.") pictures a scene which looks exactly like the opening scene of *S'akuntala'*, where the king Duṣyanta was entreated by two hermits not to kill the stag and *S'akuntalā* was watering the plants at a distance. The medallion has been assigned to the Sunga period (185 B. C.—73. B. C.). This fact corroborates the orthodox theory¹.
+ The terra-cotta medallion found by Dr. Marshall in a village named Bhita, near Allahabad[^29] pictures a scene which looks exactly like the opening scene of *S'akuntala'*, where the king Duṣyanta was entreated by two hermits not to kill the stag and *S'akuntalā* was watering the plants at a distance. The medallion has been assigned to the Sunga period (185 B. C.—73. B. C.). This fact corroborates the orthodox theory¹.
+
+[^29]: "Report of the Archæological Survey of India 1909-10."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -678,15 +736,25 @@ Rāmāyaṇa^(**1**). Prof. R. N. Āpte has shown that just beyond the threshold
 
 **Peculiar Law of Inheritance.**
 
- Internal evidence from the works of Kálidása will also point to the same conclusion. In the Sixth Act of *S'akuntala'* the king Duṣyanta is informed by his minister that the property of a certain merchant Dhanamitra by name, who died childless, will revert to the state and not to his widow. [This](# "218 n. 4.") sort of peculiar law of inheritance is of very antique date and the prevalence of such custom at the time of the poet places him before the birth of Christ.
+ Internal evidence from the works of Kálidása will also point to the same conclusion. In the Sixth Act of *S'akuntala'* the king Duṣyanta is informed by his minister that the property of a certain merchant Dhanamitra by name, who died childless, will revert to the state and not to his widow. This[^30] sort of peculiar law of inheritance is of very antique date and the prevalence of such custom at the time of the poet places him before the birth of Christ.
+
+[^30]: "218 n. 4."
 
 **Penalty for Theft.**
 
- The infliction of capital punishment on prigs [stealing gems](# " 'आत्मनो वधमर्हता क्वासौ विहगतस्करः'—Vik. V. I. 187 n. 8.") also tends to the same conclusion. The frequent deviation from Páṇini's Grammar, the preponderancy of [Vedic forms](# "68 n. I, 83 n. I, 114 n. I; 153 n. 7; 159 n. I; 186 n. 4; 193 n. 3; 210 n. 3; 244 n. 3.") and the absence of pun and long compounds which are the peculiar traits of the later poets such as Bhavabhüti, Bāṇavaṭṭa and others, places him also in a very early date.
+ The infliction of capital punishment on prigs stealing gems[^31] also tends to the same conclusion. The frequent deviation from Páṇini's Grammar, the preponderancy of Vedic forms[^32] and the absence of pun and long compounds which are the peculiar traits of the later poets such as Bhavabhüti, Bāṇavaṭṭa and others, places him also in a very early date.
+
+[^31]: " 'आत्मनो वधमर्हता क्वासौ विहगतस्करः'—Vik. V. I. 187 n. 8."
+
+[^32]: "68 n. I, 83 n. I, 114 n. I; 153 n. 7; 159 n. I; 186 n. 4; 193 n. 3; 210 n. 3; 244 n. 3."
 
 **As'vaghoṣa and Kālidāsa.**
 
- As'vaghoṣa, the author of *Buddha-carita. Saurindana-ka'vya*, and *Sutra'lanka'ra &c*. must have lived some time in the beginning of the Christian era, for a Chinese translation of Buddha-carita had appeared in the 5th century A.D. as is known from the writings of Hiouen Theang and I-Tsing. A careful perusal of his works will show his skill of adapting others' thoughts. He has not only borrowed ideas from Bhása¹ but has also numerous passages similar to those in Kālidāsa's works. This led the occidental scholars such as [Cowell](# "BC Preface.") [Keith](# "Classical Sanskrit Literature P. 23. tt Kālidāsa P. 160."), and Hillebrandt to think that Kālidāsa borrowed from As'vaghoṣa, But Principal Roy's research has totally demolished this theory and has conclusively proved the indebtedness of As'vaghoṣa
+ As'vaghoṣa, the author of *Buddha-carita. Saurindana-ka'vya*, and *Sutra'lanka'ra &c*. must have lived some time in the beginning of the Christian era, for a Chinese translation of Buddha-carita had appeared in the 5th century A.D. as is known from the writings of Hiouen Theang and I-Tsing. A careful perusal of his works will show his skill of adapting others' thoughts. He has not only borrowed ideas from Bhása¹ but has also numerous passages similar to those in Kālidāsa's works. This led the occidental scholars such as Cowell[^33] Keith[^34], and Hillebrandt to think that Kālidāsa borrowed from As'vaghoṣa, But Principal Roy's research has totally demolished this theory and has conclusively proved the indebtedness of As'vaghoṣa
+
+[^33]: "BC Preface."
+
+[^34]: "Classical Sanskrit Literature P. 23. tt Kālidāsa P. 160."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -696,11 +764,17 @@ Rāmāyaṇa^(**1**). Prof. R. N. Āpte has shown that just beyond the threshold
 
 
 
-to Kālidāsa and the priority of the latter to the former. We need only add the evidence of style to demarcate between the two authors. As'vaghoṣa is doubtless simple and practically shorn of artificiality in style. But while he would freely employ like Bhaṭṭi alliteration and verbs in **लुङ्, लिट्** and desiderative, [Kálidása](# "Vide Cantos I, II, IV and V.") is sparse in his use of these little tricks and gives no evidence of deflecting the spontaneous flow of his style in such forced channels.
+to Kālidāsa and the priority of the latter to the former. We need only add the evidence of style to demarcate between the two authors. As'vaghoṣa is doubtless simple and practically shorn of artificiality in style. But while he would freely employ like Bhaṭṭi alliteration and verbs in **लुङ्, लिट्** and desiderative, Kálidása[^35] is sparse in his use of these little tricks and gives no evidence of deflecting the spontaneous flow of his style in such forced channels.
+
+[^35]: "Vide Cantos I, II, IV and V."
 
 **Puṣply)amitra, Agnimitra and Vasumitra.**
 
- In *Ma'la'*, mention is made of historical persons such as Puṣpamitra, Agnimitra, and Vasumitra. In 185, B. C. Puṣpamitra, the General of the [Maurya Kings](# "Cf. 'मोर्यसचिवं विमुञ्चति' &c.—Málá. 1.7.") slew his master Brihadratha, usurped his throne and founded what is known as the Sunga dynasty which lasted till 73. B. C. He was a great ruler, conquered several countries and had a tough struggle with the Greeks under Menander. His son Angnimitra was made the Governor of Vidis'ā, [capital of **दशार्ण**](# "The modern Bhilsa in Scindhia's territory; MD. 24, 25.") Puṣpamitra performed the famous horse-sacrifice (**अश्वमेध**) and the duty of guarding the horse was entrusted to Agnimitra's son, who discharged it successfully and well by vanquishing certain Yavana troops who had ventured to challenge him. "The performance of the solemn rite probably was witnessed", says Dr. Smith, "by the celebrated grammarian Patañjali, who alludes to the event in terms which imply that it occurred in his time." From the mention of these persons and the close resemblance of the above facts with the horse-sacrifice of Dilīpa and the conquests of Raghu, one would like to believe that Kālidāsa was contemporary of those persons. From the peculiar form of the *Bharata-va'kya* of the *Ma'la'*¹, the learned Commentator Kiṭayavema opines that the play was written and staged during the reign of the King Agnimitra or, in other words
+ In *Ma'la'*, mention is made of historical persons such as Puṣpamitra, Agnimitra, and Vasumitra. In 185, B. C. Puṣpamitra, the General of the Maurya Kings[^36] slew his master Brihadratha, usurped his throne and founded what is known as the Sunga dynasty which lasted till 73. B. C. He was a great ruler, conquered several countries and had a tough struggle with the Greeks under Menander. His son Angnimitra was made the Governor of Vidis'ā, capital of **दशार्ण**[^37] Puṣpamitra performed the famous horse-sacrifice (**अश्वमेध**) and the duty of guarding the horse was entrusted to Agnimitra's son, who discharged it successfully and well by vanquishing certain Yavana troops who had ventured to challenge him. "The performance of the solemn rite probably was witnessed", says Dr. Smith, "by the celebrated grammarian Patañjali, who alludes to the event in terms which imply that it occurred in his time." From the mention of these persons and the close resemblance of the above facts with the horse-sacrifice of Dilīpa and the conquests of Raghu, one would like to believe that Kālidāsa was contemporary of those persons. From the peculiar form of the *Bharata-va'kya* of the *Ma'la'*¹, the learned Commentator Kiṭayavema opines that the play was written and staged during the reign of the King Agnimitra or, in other words
+
+[^36]: "Cf. 'मोर्यसचिवं विमुञ्चति' &c.—Málá. 1.7."
+
+[^37]: "The modern Bhilsa in Scindhia's territory; MD. 24, 25."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -714,7 +788,13 @@ Kalidasa was his court poet¹. Again, the concluding phrase, of the **भरत�
 
 **The Play**
 
- Like the two other greatest Indian poets, viz., [S'rī Harṣa](# "Ratnāvalī, Nāgānanda, Priyadarśikā") and [Bhavabhūti](# "Mahāvira-carita, Uttar-caritā, Mālatī-mādhava."), Kālidāsa wrote only [three dramas](# "Mālavikāgnimitra, Vikramorvaśīyam, and S'ākuntalam.") of which *Abhijña'na-S'akuntalam* is a love drama and belongs to that class of 'Rūpaka' which is known as **नाटक**।
+ Like the two other greatest Indian poets, viz., S'rī Harṣa[^38] and Bhavabhūti[^39], Kālidāsa wrote only three dramas[^40] of which *Abhijña'na-S'akuntalam* is a love drama and belongs to that class of 'Rūpaka' which is known as **नाटक**।
+
+[^38]: "Ratnāvalī, Nāgānanda, Priyadarśikā"
+
+[^39]: "Mahāvira-carita, Uttar-caritā, Mālatī-mādhava."
+
+[^40]: "Mālavikāgnimitra, Vikramorvaśīyam, and S'ākuntalam."
 
 **Source of the play.**
 
@@ -737,9 +817,19 @@ Kalidasa was his court poet¹. Again, the concluding phrase, of the **भरत�
 
 
 
-love and asked her about her parentage, whereupon she herself made a clean breast of all about her birth-story. Knowing her to be a king's daughter, the king without any further ceremony asked for her hand in marriage. The king promising to appoint her son his successor, she gave consent and was consequently wedded according to the Gāndharva form of marriage. The king apprehending [the sage's anger](# "Ādi. 73.23."), as permission had not been sought from him, very soon left the hermitage.
+love and asked her about her parentage, whereupon she herself made a clean breast of all about her birth-story. Knowing her to be a king's daughter, the king without any further ceremony asked for her hand in marriage. The king promising to appoint her son his successor, she gave consent and was consequently wedded according to the Gāndharva form of marriage. The king apprehending the sage's anger[^41], as permission had not been sought from him, very soon left the hermitage.
 
- A little after, the sage returned to the cottage and divining what had transpired in his absence gratulated [S'akuntalā on her choice](# "73.24-25."). The king when he returned to his capital dared not send for S'akuntalā, being afraid of [the sage's anger](# "74,5."). In the meantime S'akuntalā who was enceinte gave birth, at the end of *three years*, to a son, who even at the age of six years became very turbulent and harassed the wild beasts and consequently he was named [*"Sarvadamana."*](# "74.6-9.") At this time the sage thought it high time for him to go to his father's place and be duly installed as [Yuvarāja (heir-apparent)](# "9-10."). Consequently Śakuntalā with Sarvadamana being escorted by some disciples went to the king's place. The king remembering every thing, yet perhaps, through fear of public calumny denied having any connexion with her¹. At that critical juncture an aerial voice corroborated the statement made by S'akuntalâ and enjoined the king to welcome her as his legal wife. Then the king received S'akuntalā, made her the chief queen and Sarvadamana became the Yuvarāja. Such a simple and unromantic story is certainly suited to that oldest time when the Mahābhārata was written, for its author merely intended to relate a bit of past history and he did it in a dry and unostentatious way. But our poet like Shakespeare who rarely originated the main plot of his dramas, handled this prosaic story of the Mahābhārata so ingeniously and with such innovations that the dry skeletons of the Mahā-
+[^41]: "Ādi. 73.23."
+
+ A little after, the sage returned to the cottage and divining what had transpired in his absence gratulated S'akuntalā on her choice[^42]. The king when he returned to his capital dared not send for S'akuntalā, being afraid of the sage's anger[^43]. In the meantime S'akuntalā who was enceinte gave birth, at the end of *three years*, to a son, who even at the age of six years became very turbulent and harassed the wild beasts and consequently he was named *"Sarvadamana."*[^44] At this time the sage thought it high time for him to go to his father's place and be duly installed as Yuvarāja (heir-apparent)[^45]. Consequently Śakuntalā with Sarvadamana being escorted by some disciples went to the king's place. The king remembering every thing, yet perhaps, through fear of public calumny denied having any connexion with her¹. At that critical juncture an aerial voice corroborated the statement made by S'akuntalâ and enjoined the king to welcome her as his legal wife. Then the king received S'akuntalā, made her the chief queen and Sarvadamana became the Yuvarāja. Such a simple and unromantic story is certainly suited to that oldest time when the Mahābhārata was written, for its author merely intended to relate a bit of past history and he did it in a dry and unostentatious way. But our poet like Shakespeare who rarely originated the main plot of his dramas, handled this prosaic story of the Mahābhārata so ingeniously and with such innovations that the dry skeletons of the Mahā-
+
+[^42]: "73.24-25."
+
+[^43]: "74,5."
+
+[^44]: "74.6-9."
+
+[^45]: "9-10."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -753,23 +843,39 @@ bhārata story have been, as it were, filled with flesh and breath and vitalised
 
 **Deviation from the Original.**
 
- Even at the outset we have ample instance of his foresightedness. In the original, the king in course of his hunting excursions, accompanied by his big army, minister and [hierophant](# "73.35.") came to the hermitage of Kaṇva and he at once entered it and kept the whole party waiting outside all the while he talked with S'akuntalā and married her,—as their presence might hamper the further progress of the plot. In *Sa'kuntala'*, however, the entrance of the king is perfectly natural. The king while keenly pursuing a deer outstripped his retinues and came to the said hermitage. This straying away of the king from his army has been utilised by our poet in depicting a dramatic finis of the first act, for the retinues not finding the king, rummaged the whole forest, entered the hermitage of Kaṇva and made a great row while the king was deeply absorbed in conversing with S'akuntalā and her friends. The king perhaps liked to prolong his conversation *ad infinitum*, but there was a call from his higher duty of succouring the distressed and though unwilling he at once left them only to remove the chaotic condition of the hermitage and thus to pacify the denizens of the [penancewood](# "Before 52n.").
+ Even at the outset we have ample instance of his foresightedness. In the original, the king in course of his hunting excursions, accompanied by his big army, minister and hierophant[^46] came to the hermitage of Kaṇva and he at once entered it and kept the whole party waiting outside all the while he talked with S'akuntalā and married her,—as their presence might hamper the further progress of the plot. In *Sa'kuntala'*, however, the entrance of the king is perfectly natural. The king while keenly pursuing a deer outstripped his retinues and came to the said hermitage. This straying away of the king from his army has been utilised by our poet in depicting a dramatic finis of the first act, for the retinues not finding the king, rummaged the whole forest, entered the hermitage of Kaṇva and made a great row while the king was deeply absorbed in conversing with S'akuntalā and her friends. The king perhaps liked to prolong his conversation *ad infinitum*, but there was a call from his higher duty of succouring the distressed and though unwilling he at once left them only to remove the chaotic condition of the hermitage and thus to pacify the denizens of the penancewood[^47].
 
- Again in the original S'akuntalā received her guest, exchanged words with the king and herself gave a detailed account of [her parentage](# "उवाच हसन्ती वाक्यं ... ॥ यथायमागमो मह्यं ... । शृणु राजन् यथातत्त्वं यथास्मि दुहिता मुनेः॥"). Her nature thus depicted smells a bit coquettish. But our poet, who certainly possessed the faculty of imagination in a higher degree. felt the necessity of some companions for dramatic action and thus created the two sweet innocent disinterested friends in the form of Anasūyā and Priyamvadā, the conversation with the king being carried on through these friends. Even a superficial reader cannot but be amazed with the dramatic ingenuity which is manifested in the
+[^46]: "73.35."
+
+[^47]: "Before 52n."
+
+ Again in the original S'akuntalā received her guest, exchanged words with the king and herself gave a detailed account of her parentage[^48]. Her nature thus depicted smells a bit coquettish. But our poet, who certainly possessed the faculty of imagination in a higher degree. felt the necessity of some companions for dramatic action and thus created the two sweet innocent disinterested friends in the form of Anasūyā and Priyamvadā, the conversation with the king being carried on through these friends. Even a superficial reader cannot but be amazed with the dramatic ingenuity which is manifested in the
+
+[^48]: "उवाच हसन्ती वाक्यं ... ॥ यथायमागमो मह्यं ... । शृणु राजन् यथातत्त्वं यथास्मि दुहिता मुनेः॥"
 
 
 
 method in which the said conversation with occasional jokes was carried on. Again, S'akuntalā's love for the king at the first sight, her surprise at the change of her feeling antagonistic to penance-life and her bashfulness have also been delightfully depicted. The king's amazement at the beauty of S'akuntalā, the gradual disclosure of his passion for the girl, his dramatic approach near the two, when S'akuntalā was attacked by a bee, have also been so been artistically delineated.
 
- In the original as soon as the king became aware of S'akuntalā's parentage, he proposed to [marry her](# "72.1."). She however requested the king to wait a few minutes till her father who had gone out to gather fruits, [would come back](# "72.5."). Our poet however considering a few hours to be too small a space of time to persuade a girl, quite ignorant of love affairs, to consent to marry *a novus homo*, deliberately made Kaṇva absent from the field of play for several months on a pilgrimage to Soma-tīrtha. This transmutation of Kaṇva's absence for a few minutes into several months is also a clear sign of our poet's foresight, for it prolongs the king's stay in the hermitage to protect the sacrifices of the ascetics disturbed by the malignants and thus enables the king to progress with his love affairs. Before solemnizing the Gāndharva marriage of the two haphazardly as is found in the original, our poet created the second and third acts with a view to depicting the gradual love-lorn conditions of our hero. With a view to breaking the dull monotony of the scene by some comic element and also to stopping the hunting excursion and devising some means for king's progressing with the amorous affair with S'akuntalā, Vidūṣaka. the jester-confidant of the king is introduced, though he has been wisely kept within his bounds and made to play a much smaller part in this drama than in the earlier works of Kālidāsa.
+ In the original as soon as the king became aware of S'akuntalā's parentage, he proposed to marry her[^49]. She however requested the king to wait a few minutes till her father who had gone out to gather fruits, would come back[^50]. Our poet however considering a few hours to be too small a space of time to persuade a girl, quite ignorant of love affairs, to consent to marry *a novus homo*, deliberately made Kaṇva absent from the field of play for several months on a pilgrimage to Soma-tīrtha. This transmutation of Kaṇva's absence for a few minutes into several months is also a clear sign of our poet's foresight, for it prolongs the king's stay in the hermitage to protect the sacrifices of the ascetics disturbed by the malignants and thus enables the king to progress with his love affairs. Before solemnizing the Gāndharva marriage of the two haphazardly as is found in the original, our poet created the second and third acts with a view to depicting the gradual love-lorn conditions of our hero. With a view to breaking the dull monotony of the scene by some comic element and also to stopping the hunting excursion and devising some means for king's progressing with the amorous affair with S'akuntalā, Vidūṣaka. the jester-confidant of the king is introduced, though he has been wisely kept within his bounds and made to play a much smaller part in this drama than in the earlier works of Kālidāsa.
+
+[^49]: "72.1."
+
+[^50]: "72.5."
 
  In the third act and its prologue, we have a vivid picture of the love-sick king, and S'akuntalā afflicted with love-malady. Even in such a stage her innate bashfulness, the conflict of emotions in her heart when confronted with two opposing duties and her modesty please us extremely. Unlike the original where the wedlock of the two were settled by this condition
 
 
 
-that the son of S'akuntalā would be the possessor of the throne, our poet has dispensed with this sort of [selfish bargain](# "72. 15-17").
+that the son of S'akuntalā would be the possessor of the throne, our poet has dispensed with this sort of selfish bargain[^51].
 
- In the original Kaṇva though aware of the Gāndharva marriage and the pregnancy of S'akuntalá, kept her in his hermitage for *nine years* and then made preparations for sending her to her husband's place. S'akuntalā who seemed not to have any eagerness to meet her husband—nay—who was rather unwilling to leave the hermitage, thought that her *hasty* removal was due to the turbulent nature of his son who was disturbing the peace of the [penance-grove](# "25.96"). Besides, a great incongruity prevails in the speech and action of the sage Kaṇva, for there is no justification for what made him—an avower of the principle that a married woman should not stay for a long time in her [relative's house](# "35.96")—keep S'akuntalā in the hermitage for such a long period. Kālidāsa, however, noticing all these incongruities, sent S'akuntalā the very day he was aware of the marriage¹ and also before her son was born. Obviously the king's character is thus made to appear in a better light and a greater probability is given to the whole story. The parting scene of *S'akuntala'* from the hermitage where she had resided so long and where every creeper and plant was bound by the tie of love and affection is poet's all own.
+[^51]: "72. 15-17"
+
+ In the original Kaṇva though aware of the Gāndharva marriage and the pregnancy of S'akuntalá, kept her in his hermitage for *nine years* and then made preparations for sending her to her husband's place. S'akuntalā who seemed not to have any eagerness to meet her husband—nay—who was rather unwilling to leave the hermitage, thought that her *hasty* removal was due to the turbulent nature of his son who was disturbing the peace of the penance-grove[^52]. Besides, a great incongruity prevails in the speech and action of the sage Kaṇva, for there is no justification for what made him—an avower of the principle that a married woman should not stay for a long time in her relative's house[^53]—keep S'akuntalā in the hermitage for such a long period. Kālidāsa, however, noticing all these incongruities, sent S'akuntalā the very day he was aware of the marriage¹ and also before her son was born. Obviously the king's character is thus made to appear in a better light and a greater probability is given to the whole story. The parting scene of *S'akuntala'* from the hermitage where she had resided so long and where every creeper and plant was bound by the tie of love and affection is poet's all own.
+
+[^52]: "25.96"
+
+[^53]: "35.96"
 
  In the fifth act or the public repudiation of S'akuntalā there is a greater deviation from the original. In the *Maha'bha'rata* the king deliberately feigns ignorance of the Gândharva mariage and repudiates his forest-bride with abuses². Kālidāsa, however, with a view to absolve him from the moral responsibility in his rejection of S'akuntalā, ingeniously introduced the episode of Durbāsā's imprecation clouding the king's memory. Certainly this is the greatest of all his innovations. "That there may be an ultimate recovery of memory, the curse is so modified as to
 
@@ -783,11 +889,15 @@ that the son of S'akuntalā would be the possessor of the throne, our poet has d
 
 
 
-last only until the king shall see again the ring which he has given to his bride. To the Hindu, curse and modifications are matters of frequent occurrence; and Kālidāsa has so delicately managed the matter as not to shock even a modern and western reader with a feeling of strong improbability. Even to us it seems a natural part of the divine cloud that envelops the drama, in no way obscuring human passion, but rather giving to human passion an unwonted [largeness and universality".](# "A. W. Ryder, Kālidāsa, P, 101.")
+last only until the king shall see again the ring which he has given to his bride. To the Hindu, curse and modifications are matters of frequent occurrence; and Kālidāsa has so delicately managed the matter as not to shock even a modern and western reader with a feeling of strong improbability. Even to us it seems a natural part of the divine cloud that envelops the drama, in no way obscuring human passion, but rather giving to human passion an unwonted largeness and universality".[^54]
 
 Durbasa's cursedevelops love for flesh into commingling of souls.
 
- We shall presently deal at length with the deeper meaning of this curse,—how it rectifies S'akuntalâ by purifying her of the gross materialism of her love and how it ennobles the character of Duṣyanta and develops an earthly love into divine love. Almost every line of Acts VI and VII save the idea of the turbulent nature of Sarva-damana, is original and is depicted in a [masterly way](# "116n. Remark."). Such is the charm and mastery of this concluding part of the play that even Bhavabhūti in his masterpiece has found it worth his while to somewhat closely follow the model. In *Uttara-ra'ma-carita* Sitā's banishment and the pathetic wailing of her royal husband, the supernatural element, the scenic description, the surge of affection and yearning towards the unknown child of one's own loins must have derived much of their pathos and splendour from the inspiration awakened by this portion of *S'akuntala'*.
+[^54]: "A. W. Ryder, Kālidāsa, P, 101."
+
+ We shall presently deal at length with the deeper meaning of this curse,—how it rectifies S'akuntalâ by purifying her of the gross materialism of her love and how it ennobles the character of Duṣyanta and develops an earthly love into divine love. Almost every line of Acts VI and VII save the idea of the turbulent nature of Sarva-damana, is original and is depicted in a masterly way[^55]. Such is the charm and mastery of this concluding part of the play that even Bhavabhūti in his masterpiece has found it worth his while to somewhat closely follow the model. In *Uttara-ra'ma-carita* Sitā's banishment and the pathetic wailing of her royal husband, the supernatural element, the scenic description, the surge of affection and yearning towards the unknown child of one's own loins must have derived much of their pathos and splendour from the inspiration awakened by this portion of *S'akuntala'*.
+
+[^55]: "116n. Remark."
 
 **The story of Padma-purāṇa materially thesame.**
 
@@ -817,7 +927,9 @@ before him. This will be evident even from the language and idiom of the story o
 
 
 
-incident if he compares all these with the steps taken by the king Raghu to find out an *amulet* which by chance had slipped into the [waters of Sarayū](# "Ra, XVI, 72-84."). Besides the author of the Purāṇa in describing the story of Rāma followed not the Rāmāyaṇa but the *Raghu-vaṁs'am* in its outlines. Sometimes he even paraphrases the wordings of Kālidāsa. This, we think, is sufficient to show that the story of S'akuntalā has been interpolated into the *Pura'ṇa* by a lesser writer of later date.
+incident if he compares all these with the steps taken by the king Raghu to find out an *amulet* which by chance had slipped into the waters of Sarayū[^56]. Besides the author of the Purāṇa in describing the story of Rāma followed not the Rāmāyaṇa but the *Raghu-vaṁs'am* in its outlines. Sometimes he even paraphrases the wordings of Kālidāsa. This, we think, is sufficient to show that the story of S'akuntalā has been interpolated into the *Pura'ṇa* by a lesser writer of later date.
+
+[^56]: "Ra, XVI, 72-84."
 
 **The Central Significance Of The Play**
 
@@ -828,9 +940,11 @@ And all by which the soul is charmed,
 Wouldst thou the earth and heaven itself  
  in one sole name combine ?  
 I name thee, O S'akuntalā ! and a॥  
- [at once is said".](# "Translated from the German by E. B. Eastwick.")
+ at once is said".[^57]
 
  —So says Woolfäng Von Goethe of *Sa'kuntala'.* The insight of Goethe told him what *Sa'kuntala'* was—not merely patches of oriental romance, colourful, delicate, and gorgeous, strung round the central figure of a heroine, coy and delicate, beautiful and charming, but above all sweet and firm. Such undoubtedly S'akuntalā is—and indeed much more—a lily of our valley in all its bloom and beauty and freshness. Had she been merely "a creeper of the forest"—she might have peers but she is more. She is not Miranda, the simple maiden nursed on a sea-girt isle in the company of enslaved nature-spirits like Ariel. She is an embodiment of love that purges itself of the wanton abandon of youth and ripens into the mature steadfastness and dignified bliss of love spiritual. Her life starts as all earthly lives in raptures and pangs, in forgetfulness of the beyond and immersion in the immediate and in a surrender to the senses. It is so far of the earth, earthy. But a little insight should warn you that she is not to stop here,—her birth and life
+
+[^57]: "Translated from the German by E. B. Eastwick."
 
 
 
@@ -862,49 +976,97 @@ and her heroine has a different history and different character. She does not dr
 
 
 
- Young and handsome, the king is gifted with a physique which commands the admiration of all who come in contact with him. His charioteer finds in him a second Pinākin, his general compares him to a mountain-roaming elephant unaffected by the stress and strain [of the chase](# "Act II. 4.") and Aditī is full of admiration for his [well-built body](# "After VII, 26."). Overflowing with youthful vigour he takes a keen interest in all pastimes which involve severe physical strain and hardship. With all his manly qualities, he is not lacking in those finer accomplishments which make a man charming and agreeable. Of sweet address and graceful bearing, Priyaṁvadā finds in him a delightful companion and a [pleasant talker](# "Act I."). He has a culture and refinement worthy of his position and takes a lively interest in such fine arts as music and painting. Natural sights and sounds have always a great fascination for him, and so keen are his powers of observation that even the minutest details cannot escape [his notice](# "Act I, 14; VII 8.").
+ Young and handsome, the king is gifted with a physique which commands the admiration of all who come in contact with him. His charioteer finds in him a second Pinākin, his general compares him to a mountain-roaming elephant unaffected by the stress and strain of the chase[^58] and Aditī is full of admiration for his well-built body[^59]. Overflowing with youthful vigour he takes a keen interest in all pastimes which involve severe physical strain and hardship. With all his manly qualities, he is not lacking in those finer accomplishments which make a man charming and agreeable. Of sweet address and graceful bearing, Priyaṁvadā finds in him a delightful companion and a pleasant talker[^60]. He has a culture and refinement worthy of his position and takes a lively interest in such fine arts as music and painting. Natural sights and sounds have always a great fascination for him, and so keen are his powers of observation that even the minutest details cannot escape his notice[^61].
 
- As a man he is an embodiment of all that is noble and divine in human nature. The pre-eminent traits of his character are his nobility of mind, his sense of honour and his wonderful self-control. And these come out prominently in his conduct towards S'akuntalā during their first meeting in the hermitage. Though fascinated by her youthful charms, he struggles hard to keep the unholy desire under control until he has ascertained her parentage and other facts relating to her. He is a dutiful and obedient son, and his tender regard for the feelings of his mother expresses itself in his solicitude when he receives a command from her to return to the capital, just after he has given his word to the hermits to protect them against the oppressions [of the demons](# "Act II. "). He is an ideal husband and a passionate lover. According to the custom of the times he had a large harem, and though his love towards S'akuntalā was essentially distinct from that shown towards his other wives, he was not unkind and never failed in his duties [towards them](# "87 n, 7."). He had great consideration for their feelings and did his best not to hurt them in any way either by deed or word. An incident in the sixth act admirably brings out this trait of the king's character. Writhing in the agonies of remorse after the
+[^58]: "Act II. 4."
+
+[^59]: "After VII, 26."
+
+[^60]: "Act I."
+
+[^61]: "Act I, 14; VII 8."
+
+ As a man he is an embodiment of all that is noble and divine in human nature. The pre-eminent traits of his character are his nobility of mind, his sense of honour and his wonderful self-control. And these come out prominently in his conduct towards S'akuntalā during their first meeting in the hermitage. Though fascinated by her youthful charms, he struggles hard to keep the unholy desire under control until he has ascertained her parentage and other facts relating to her. He is a dutiful and obedient son, and his tender regard for the feelings of his mother expresses itself in his solicitude when he receives a command from her to return to the capital, just after he has given his word to the hermits to protect them against the oppressions of the demons[^62]. He is an ideal husband and a passionate lover. According to the custom of the times he had a large harem, and though his love towards S'akuntalā was essentially distinct from that shown towards his other wives, he was not unkind and never failed in his duties towards them[^63]. He had great consideration for their feelings and did his best not to hurt them in any way either by deed or word. An incident in the sixth act admirably brings out this trait of the king's character. Writhing in the agonies of remorse after the
+
+[^62]: "Act II. "
+
+[^63]: "87 n, 7."
 
 
 
-cessation of Durvasā's curse, the king tries to beguile himself a little by portraying his beloved on the canvas when he is informed of the approach of Queen Vasumatī and he removes the picture in great haste lest the same might [offend her.](# " Act VI.")
+cessation of Durvasā's curse, the king tries to beguile himself a little by portraying his beloved on the canvas when he is informed of the approach of Queen Vasumatī and he removes the picture in great haste lest the same might offend her.[^64]
 
- As a king, he has a lofty sense of the duties and responsibilities of that exalted position. The paramount ruler of a vast country, he considers his kingdom as his household and looks after the welfare of his subjects with a fatherly tenderness and care. He is always ready to relieve the distressed and to protect the good against the oppressions of the wicked.He is a mighty monarch who holds the entire earth under his sway by his prowess, and the fact that even Indra, the king of gods, occasionally seeks his help bears testimony to his uncommon military genius. Though commanding respect and obedience from all classes of his subjects. he has the greatest reverence for Brahmins and ascetics. Hs is always anxious to see that their rites and practices are performed without let or hindrance and whenever any interruption or obstruction is apprehended, he is ready to protect them at all costs. So great is his regard for the hermits that at the very mention of the name he withdraws the arrow he was going to put to the bowstring and enters the hermitage in an humble attire and leaves his retinue outside lest he should disturb the tranquillity of the place and cause inconvenience to the inmates [of the hermitage](# "After 19 n. ").He is a just and upright ruler personally supervising the affairs of the state with a view to ensure the proper administration of justice. His decision with regard to the disposal of the deceased merchant's property testifies to [his strong sense of justice](# "Act VI before 218n."). But nowhere are the strength of his character and his unflinching devotion to virtue brought out into such prominent relief as in his conduct towards S'akuntalā when, accompanied by Gautamī and the disciples of Kaṇva, she appears at the king's court as his wedded wife. Under the influence of Durvāsā's curse the king does not remember his marriage with her and conseqnently refuses to accept her inspite of the assurance given him by S'akuntalā herself and the disciples of Kaṇva. Nothing can make him swerve even an inch from the path of virtue.
+ As a king, he has a lofty sense of the duties and responsibilities of that exalted position. The paramount ruler of a vast country, he considers his kingdom as his household and looks after the welfare of his subjects with a fatherly tenderness and care. He is always ready to relieve the distressed and to protect the good against the oppressions of the wicked.He is a mighty monarch who holds the entire earth under his sway by his prowess, and the fact that even Indra, the king of gods, occasionally seeks his help bears testimony to his uncommon military genius. Though commanding respect and obedience from all classes of his subjects. he has the greatest reverence for Brahmins and ascetics. Hs is always anxious to see that their rites and practices are performed without let or hindrance and whenever any interruption or obstruction is apprehended, he is ready to protect them at all costs. So great is his regard for the hermits that at the very mention of the name he withdraws the arrow he was going to put to the bowstring and enters the hermitage in an humble attire and leaves his retinue outside lest he should disturb the tranquillity of the place and cause inconvenience to the inmates of the hermitage[^65].He is a just and upright ruler personally supervising the affairs of the state with a view to ensure the proper administration of justice. His decision with regard to the disposal of the deceased merchant's property testifies to his strong sense of justice[^66]. But nowhere are the strength of his character and his unflinching devotion to virtue brought out into such prominent relief as in his conduct towards S'akuntalā when, accompanied by Gautamī and the disciples of Kaṇva, she appears at the king's court as his wedded wife. Under the influence of Durvāsā's curse the king does not remember his marriage with her and conseqnently refuses to accept her inspite of the assurance given him by S'akuntalā herself and the disciples of Kaṇva. Nothing can make him swerve even an inch from the path of virtue.
+
+[^64]: " Act VI."
+
+[^65]: "After 19 n. "
+
+[^66]: "Act VI before 218n."
 
 
 
  **S'akuntalā.—**In S'akuntalā, the heroine, we have a picture of an ideal woman. And the exquisiteness of the picture is to be found in the fact that S'akuntalā combines in herself physical charm with the beauty of the soul, passion with goodness, and virtue—in short, (in the words of Goethe) she *"combines the young blossoms of the Spring with the ripe fruits of Autumn."* How admirably this combination of Heaven and Earth has been effected will become apparent if we compare the two contrasted pictures of the heroine presented by the poet at the beginning and at the end of the drama.S'akuntalā of the first act is a hermit's daughter, full of youth, beauty and vivacity, "subtle and evasive, throbbing with love, veiled with reserve," with "her two companions running over with playfulness, the newly flowering forest-creeper, the bee intoxicated with perfume and the fascinated king peeping from behind the trees." At the end of the drama she appears as the image of patience and goodness; penitent and sober, invested with the dignity of a mother, clad in a dusty robe, her face pale with austerities and her soul purified by her long penance.
 
- Born of a nymph-mother and a hermit father, S'akuntalā is possessed of a beauty that is not to be found [among mortals](# "Act I, 23."), a beauty that is quite natural and has nothing artificial about it. She looks exquisitely charming even in her simple garments. Like "a violet by a mossy stone half-hidden from the eye", she dwells among hermits far away from the artificialities of town-life. Sweet and lovely as a flower, she is quite ignorant of the wiles of the world. Simplicity and purity are deep seated in her nature, and these were the direct outcome of her trustfulness—a virtue which was the cause at once of her downfall and her redemption. It was her trustfulness which allowed her to be carried away by the passion of love without the least suspicion, resulting in her humiliation and disgrace. It was again this trustfulness which sustained her through the most trying period of her life and kept her "constant to patience, forgiveness and loving kindness" and ultimately leads to her reunion with her lover. A daughter of Nature brought up in an atmosphere of freedom, she still presents a picture of feminine modesty and timidity. So great is her modesty that, though consumed by her passionate love for the king, she keeps
+ Born of a nymph-mother and a hermit father, S'akuntalā is possessed of a beauty that is not to be found among mortals[^67], a beauty that is quite natural and has nothing artificial about it. She looks exquisitely charming even in her simple garments. Like "a violet by a mossy stone half-hidden from the eye", she dwells among hermits far away from the artificialities of town-life. Sweet and lovely as a flower, she is quite ignorant of the wiles of the world. Simplicity and purity are deep seated in her nature, and these were the direct outcome of her trustfulness—a virtue which was the cause at once of her downfall and her redemption. It was her trustfulness which allowed her to be carried away by the passion of love without the least suspicion, resulting in her humiliation and disgrace. It was again this trustfulness which sustained her through the most trying period of her life and kept her "constant to patience, forgiveness and loving kindness" and ultimately leads to her reunion with her lover. A daughter of Nature brought up in an atmosphere of freedom, she still presents a picture of feminine modesty and timidity. So great is her modesty that, though consumed by her passionate love for the king, she keeps
+
+[^67]: "Act I, 23."
 
 
 
-it concealed from her dearest friends. Her timidity and shyness are revealed in her conduct towards the king when left alone in [his company](# "After 106n;"). The sweetest side of her character is her kind and affectionate nature. Brought up in the hermitage where peace and love reigned supreme, she had learnt to love the entire creation. Her heart is overflowing with the milk of human kindness which extends not merely to the animals in the hermitage, but also to the trees and [creepers therein](# "After 22n;"). She regards them as her kith and kin and is interested in their joys and sorrows. She can not drink water without watering the trees and creepers; she never plucks a tender leaf even to decorate herself, and her joy knows no bounds when the trees first put forth [their blossoms](# "Act IV, 9,"). It is at the time of her departure for her husband's place that her innate affection for every creature in the hermitage fully reveals itself. Though eager to meet her lover, she finds it difficult to tear herself away from [the hermitage](# "After 135n;"). With a heavy heart she bids farewell to the trees and creepers of the hermitage and entrusts them to the care of her friends. She is anxious for the doe that has her confinement near at hand and asks her father to send her information of her safe delivery. When she starts from the hermitage, the motherless fawn whom she brought up with motherly tenderness does not leave her, and with tearful eyes she gently caresses it and persuades it to remain in [the hermitage.](# "Act IV. 14.")
+it concealed from her dearest friends. Her timidity and shyness are revealed in her conduct towards the king when left alone in his company[^68]. The sweetest side of her character is her kind and affectionate nature. Brought up in the hermitage where peace and love reigned supreme, she had learnt to love the entire creation. Her heart is overflowing with the milk of human kindness which extends not merely to the animals in the hermitage, but also to the trees and creepers therein[^69]. She regards them as her kith and kin and is interested in their joys and sorrows. She can not drink water without watering the trees and creepers; she never plucks a tender leaf even to decorate herself, and her joy knows no bounds when the trees first put forth their blossoms[^70]. It is at the time of her departure for her husband's place that her innate affection for every creature in the hermitage fully reveals itself. Though eager to meet her lover, she finds it difficult to tear herself away from the hermitage[^71]. With a heavy heart she bids farewell to the trees and creepers of the hermitage and entrusts them to the care of her friends. She is anxious for the doe that has her confinement near at hand and asks her father to send her information of her safe delivery. When she starts from the hermitage, the motherless fawn whom she brought up with motherly tenderness does not leave her, and with tearful eyes she gently caresses it and persuades it to remain in the hermitage.[^72]
+
+[^68]: "After 106n;"
+
+[^69]: "After 22n;"
+
+[^70]: "Act IV, 9,"
+
+[^71]: "After 135n;"
 
  A child of Nature, she is "obedient to Nature's impulses like plants and flowers." At the first outburst of passion on the occasion of the king's visit, she could not restrain herself and allows herself to be carried away by it. Her love for the king is so absorbing that her lover became all the world to her and she forgets every thing except the loved one. With all the impetuosity of her passion, her sense of righteousness and femine dignity is remarkable. When Duṣyanta repudiates his marriage with her and accuses her of falsehood, modesty and shyness give place to rage and indignation. She is an embodiment of the Hindu ideal of a woman. Despite her righteous indignation at the king for his disavowal of the marriage and her consequent humiliation, her affection for him
+
+[^72]: "Act IV. 14."
 
 
 
 is not in the least diminished, and with a resignation characteristic of a Hindu wife, she blames her destiny, and not the king, for her miseries. The parting advice of her foster-father with regard to the duties of an ideal Hindu wife is firmly rooted in her mind and she tries to realise that ideal in her own life. Abandoned by her husband she leads a life of penance and rigid self-discipline and finally comes out of the trial in all her glory and purity.
 
- **Kaṇva—**Kaṇva, the foster-father of S'akuntalā presents a perfect picture of a typical ascetic who combines divine vision wlth practical wisdom, rigid self-discipline with a susceptibility to the softer sentiments of the human nature. Underneath the calm and unruffled surface we find a strong under-current of human passion which reveals itself in the parental affection for his adopted daughter. It was an accident that he found S'akuntalā deserted by her parents and it was out of pity that he carried the helpless infant to his hermitage. Though he is thus only the foster father of S'akuntalā, his affection for her is genuine and real. He brings her up like his own daughter and is anxious to give her away in marriage to a husband worthy of her. It was out of his solicitude for her welfare that he was away from the hermitage on a pilgrimage to the sacred waters to pacify her evil stars at the time when the king visited the hermitage. On his return he learns with satisfaction the fact of S'akuntalā's marriage with the king and like a true father immediately arranges to send her to her husband's place. But nowhere is the intensity of his affection better revealed than at the time of S'akuntalā's departure from the hermitage. With all his asceticism and self-control he finds it very difficult to part with S'akuntalā. The very thought of separation perturbs his mind, his heart is smitten with anguish. But his asceticism and self-control soon restore the equilibrium and throughout the rest of the pathetic scene we find him calm and collected and not overwhelmed with grief like any ordinary parent. Though leading the life of an ascetic far away from the turmoil of the world, he is not ignorant of the affairs of the world and has a clear grasp of the duties and responsibilities of a [non-ascetic life](# "After 144n."). His parting advice to S'akuntalā and his message to the king are wonderful specimens of worldly wisdom
+ **Kaṇva—**Kaṇva, the foster-father of S'akuntalā presents a perfect picture of a typical ascetic who combines divine vision wlth practical wisdom, rigid self-discipline with a susceptibility to the softer sentiments of the human nature. Underneath the calm and unruffled surface we find a strong under-current of human passion which reveals itself in the parental affection for his adopted daughter. It was an accident that he found S'akuntalā deserted by her parents and it was out of pity that he carried the helpless infant to his hermitage. Though he is thus only the foster father of S'akuntalā, his affection for her is genuine and real. He brings her up like his own daughter and is anxious to give her away in marriage to a husband worthy of her. It was out of his solicitude for her welfare that he was away from the hermitage on a pilgrimage to the sacred waters to pacify her evil stars at the time when the king visited the hermitage. On his return he learns with satisfaction the fact of S'akuntalā's marriage with the king and like a true father immediately arranges to send her to her husband's place. But nowhere is the intensity of his affection better revealed than at the time of S'akuntalā's departure from the hermitage. With all his asceticism and self-control he finds it very difficult to part with S'akuntalā. The very thought of separation perturbs his mind, his heart is smitten with anguish. But his asceticism and self-control soon restore the equilibrium and throughout the rest of the pathetic scene we find him calm and collected and not overwhelmed with grief like any ordinary parent. Though leading the life of an ascetic far away from the turmoil of the world, he is not ignorant of the affairs of the world and has a clear grasp of the duties and responsibilities of a non-ascetic life[^73]. His parting advice to S'akuntalā and his message to the king are wonderful specimens of worldly wisdom
+
+[^73]: "After 144n."
 
 
 
-and perfect knowledge of menand things. His advice to S'akuntalā is really *"an excellent compendium of every wife's duties"* and portrays in an elegant and forceful language the Hindu ideal of womanhood. The message he delivers to the king through his disciples is another instance of his remarkable power. The whole message is couched in a language which is remarkable for its restrained and dignified tonewith due deference to the king as the lord of the earth.We have a last glimpse of the sage after the departure of S'akuntalā when consoling the weeping companions of S'akuntalā he enters the hermitage with a heavy heart, though not without an inward feeling of relief at the thought of having sent S'akuntalā to [her husband](# "IV, 22.").
+and perfect knowledge of menand things. His advice to S'akuntalā is really *"an excellent compendium of every wife's duties"* and portrays in an elegant and forceful language the Hindu ideal of womanhood. The message he delivers to the king through his disciples is another instance of his remarkable power. The whole message is couched in a language which is remarkable for its restrained and dignified tonewith due deference to the king as the lord of the earth.We have a last glimpse of the sage after the departure of S'akuntalā when consoling the weeping companions of S'akuntalā he enters the hermitage with a heavy heart, though not without an inward feeling of relief at the thought of having sent S'akuntalā to her husband[^74].
+
+[^74]: "IV, 22."
 
 **S'ārṇgarava and S'āradvata**
 
- S'ārṅgarava and S'āradvata are two of Kaṇva's disciples, and the fact that they are selected for the momentous task of escorting S'akuntalá to her husband's place shows that they occupied a position of pre eminence among [the disciples](# "VI, 9."). Of the two again, S'árṅgarava seems to be the older and maturer in wisdom, because it is he who is placed at the head of the party and it is to him that Kaṇva delivers the message for the king. The two disciples, however, differ widely in their disposition and temperament. S'ārṅgarava is haughty, conceited easily excitable and impatient of contradiction, while S'āradvata is sober, considerate and self-possessed. The former regards the ascetic life as the best and looks down upon other orders of life, while the latter, though realising the supremacy of the ascetic life, is full of consideration and sympathy for the life of the ordinary people. The sight of the king's court creates different impressions in the minds of the two. S'ārṅgarava compares the place to a house which is in flames and should immediately be shunned, while S'āradvata pities the condition of the people there whom he regards as asleep and [in fetters](# " V, II.").When the king fails to remember his marriage with S'akuntalá and is in a state of hesitation, S'árṅgarava grows impatient and considers the king's silence as an indication of the perversity [born of power](# "V, 18."). Again, when the king disbelieves the story of his marriage even
+ S'ārṅgarava and S'āradvata are two of Kaṇva's disciples, and the fact that they are selected for the momentous task of escorting S'akuntalá to her husband's place shows that they occupied a position of pre eminence among the disciples[^75]. Of the two again, S'árṅgarava seems to be the older and maturer in wisdom, because it is he who is placed at the head of the party and it is to him that Kaṇva delivers the message for the king. The two disciples, however, differ widely in their disposition and temperament. S'ārṅgarava is haughty, conceited easily excitable and impatient of contradiction, while S'āradvata is sober, considerate and self-possessed. The former regards the ascetic life as the best and looks down upon other orders of life, while the latter, though realising the supremacy of the ascetic life, is full of consideration and sympathy for the life of the ordinary people. The sight of the king's court creates different impressions in the minds of the two. S'ārṅgarava compares the place to a house which is in flames and should immediately be shunned, while S'āradvata pities the condition of the people there whom he regards as asleep and in fetters[^76].When the king fails to remember his marriage with S'akuntalá and is in a state of hesitation, S'árṅgarava grows impatient and considers the king's silence as an indication of the perversity born of power[^77]. Again, when the king disbelieves the story of his marriage even
+
+[^75]: "VI, 9."
+
+[^76]: " V, II."
+
+[^77]: "V, 18."
 
 
 
-after the assurance given by the ascetics and S'akuntalā herself and expresses his inability to accept her as his wedded wife, his self-control gives way to indignation and wrath and he charges the king with [meanness and insincerity](# "V, 20,"). S'áradvata's self-possession and practical wisdom save the situation all throughout. It is S'āradvata who suggests that S'akuntalā should speak for herself in order to convince [the king of the marriage](# " After V, 20,"). After the king's repudiation of the marriage, when S'ārṅgarava indulges in a vehement expression of his wrath by uttering imprecation on the king for his meanness and insincerity and by rebuking S'akuntalā for her thoughtlessness, S'āradvata with his characteristic coolness, asks S'ārṅgarava to put a stop to that altercation and asks the party to depart leaving S'akuntalā whom the king as her husband and lord could [accept or reject just as he liked.](# " V, 26; ")
+after the assurance given by the ascetics and S'akuntalā herself and expresses his inability to accept her as his wedded wife, his self-control gives way to indignation and wrath and he charges the king with meanness and insincerity[^78]. S'áradvata's self-possession and practical wisdom save the situation all throughout. It is S'āradvata who suggests that S'akuntalā should speak for herself in order to convince the king of the marriage[^79]. After the king's repudiation of the marriage, when S'ārṅgarava indulges in a vehement expression of his wrath by uttering imprecation on the king for his meanness and insincerity and by rebuking S'akuntalā for her thoughtlessness, S'āradvata with his characteristic coolness, asks S'ārṅgarava to put a stop to that altercation and asks the party to depart leaving S'akuntalā whom the king as her husband and lord could accept or reject just as he liked.[^80]
+
+[^78]: "V, 20,"
+
+[^79]: " After V, 20,"
 
 **Anasūyā and Priyaṁvadā**
 
- Anasūyā and Priyaṁvadā, the two companions of S'akuntalā are *"the best types of sincere sisterly affection."* They are of the same age as S'akuntalā, and their beauty [is not much inferior to hers](# "After 34n; 207n 3."). What endears them most to us is their disinterested and sincere attachment to S'akuntalā who is to them all in all, the centre of all their thoughts and anxieties. The sole aim of their existence seems to be nothing other than ministering to the happiness of their friend in every possible way. They help her in watering the plants and in looking after the trees and creepers of the hermitage entrusted to her care by her foster-father. Their anxiety at the state of her health when she is smitten with love which, out of modesty, she conceals from her friends, their importunate entreaties to her to reveal to them the cause of her affliction, their ingenious contrivance of the secret interview between their friend and her lover, themselves keeping guard over the meeting while the two lovers are engaged in delightful conversation—all these go to show their genuine affection for S'akuntalā. When they overhear the curse of Durvasā upon their friend who was oblivious of everything else in her overpowering passion for the king, their anxiety knows no
+[^80]: " V, 26; "
+
+ Anasūyā and Priyaṁvadā, the two companions of S'akuntalā are *"the best types of sincere sisterly affection."* They are of the same age as S'akuntalā, and their beauty is not much inferior to hers[^81]. What endears them most to us is their disinterested and sincere attachment to S'akuntalā who is to them all in all, the centre of all their thoughts and anxieties. The sole aim of their existence seems to be nothing other than ministering to the happiness of their friend in every possible way. They help her in watering the plants and in looking after the trees and creepers of the hermitage entrusted to her care by her foster-father. Their anxiety at the state of her health when she is smitten with love which, out of modesty, she conceals from her friends, their importunate entreaties to her to reveal to them the cause of her affliction, their ingenious contrivance of the secret interview between their friend and her lover, themselves keeping guard over the meeting while the two lovers are engaged in delightful conversation—all these go to show their genuine affection for S'akuntalā. When they overhear the curse of Durvasā upon their friend who was oblivious of everything else in her overpowering passion for the king, their anxiety knows no
+
+[^81]: "After 34n; 207n 3."
 
 
 
@@ -11109,7 +11271,9 @@ corresponding to प (p) in Sanskrit.**
 
 
 
-preposterous it is to throw the present Prakrit anomaly to the account of a bleared vision or an imperfect understanding of the learned editor, with finished equipment, in.respect of a sūtra^(**1**)of simple and universal nature, prescribing the change of intervocalic Sanskrit प to ब in Prakrit. Another sūtra बो बः(Hem. 1. 237 ; Tr. 1. 3. 61), a twin, as it were, in point of operation and application, that can justly be regarded as a double check to guard against the confusion or error apprehended, sets at nought the idea or apprehension of ignorance. Even if we assume or admit here the grammatical defence, not of the usual norm, devised or advised by a staunch votary of grammar, seeking to explain the labial ब in Prakrit for intervocalic Sanskrit प as a loan from Apabhramśa, wherein labial ब generally replaces Sanskrit intervocalic प^(**2**), in deference to the dictum of [व्यत्यय](# "व्यत्ययश्च Hem 4. 447.")intended or formulated to cover the irregularities admitting of admixture of variety of dialects, it is not to be doubted here that under such circumstances, Monier-Williams has been inclined, as one should be, to value more the outlook of the historical background, as it is more likely to vanish in the treatment of matter in the mould of a mere grammarian.
+preposterous it is to throw the present Prakrit anomaly to the account of a bleared vision or an imperfect understanding of the learned editor, with finished equipment, in.respect of a sūtra^(**1**)of simple and universal nature, prescribing the change of intervocalic Sanskrit प to ब in Prakrit. Another sūtra बो बः(Hem. 1. 237 ; Tr. 1. 3. 61), a twin, as it were, in point of operation and application, that can justly be regarded as a double check to guard against the confusion or error apprehended, sets at nought the idea or apprehension of ignorance. Even if we assume or admit here the grammatical defence, not of the usual norm, devised or advised by a staunch votary of grammar, seeking to explain the labial ब in Prakrit for intervocalic Sanskrit प as a loan from Apabhramśa, wherein labial ब generally replaces Sanskrit intervocalic प^(**2**), in deference to the dictum of व्यत्यय[^82]intended or formulated to cover the irregularities admitting of admixture of variety of dialects, it is not to be doubted here that under such circumstances, Monier-Williams has been inclined, as one should be, to value more the outlook of the historical background, as it is more likely to vanish in the treatment of matter in the mould of a mere grammarian.
+
+[^82]: "व्यत्ययश्च Hem 4. 447."
 
  In fact the change of पto labial ब seems to be an earlier phase of development than its mutation into the fricative liquid ब(v).
 
@@ -11165,3 +11329,85 @@ Prepared by Miss JharṇāBose
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -40,13 +40,35 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA3ODYxODEwODc
 
 * Godavarmayasobhūṣaṇa* of Arunagirikavi is a short work dealing with the arthālankāras, modelled on the *arthālaṇkāraprakaraṇa* of Vidyānātha's *Pratāparudrayaśobhūṣaṇa,* the illustrative verses being composed in praise of King Godavarma of Bimbali.
 
- The author Aruṇagiri, we understand from the colophon to the work, was a Brahmin hailing from Col̥adeśa, and was the son of one Śesādri and disciple of Veṇkaṭadri, and belonged to the Kauṇḍinyagotra. There are three Aruṇagiris known to students of the Sanskrit literature of South India. Two of them were the protéges of Vijayanagar kings; Dinḍimakavisārvabhauma Aruṇagirinatha I, the protégé of Devarāya II (A. D. 1422-1448) and the author of [*Somavallīyogānanda-prahasana*;](# " M. Krishnamachariar, History of Classical SanskritLiterature, p. 222.") and Kumāradindima Arunagirinatha II, the protége of Krsnadevaraya (A. D.1509-1530) and the author of [*Virabhadravijaya*](# "Ibid p.223."). The third Arunagiri is *Arunagirinātha alias Aruņācalanātha*, the author of the commentaries *Prakasika* on Kalidasa's *Raghuvamśa* and [*Kumārasambhava*](# "The commentary on the first six cantos of Raghuram sa has been published by the Mangalodayam Press, Trichur, and that on Kumarasambhava in the Trivandrum Sanskrit Series, Nos. 27, 32 and 36."). But none of these Arunagiris can be identified with the author of this *Yasobhüşaṇa,* for the details supplied by the author regarding himself do not apply to any of these. The Dinḍima Arunagiris belonged to the [Gautamagotra](# " M. Krishnamachariar, op. cit., p. 221"), and also lived before our [author](# "Vide infra, p. iv."); and the commentator Arunagiri was the
+ The author Aruṇagiri, we understand from the colophon to the work, was a Brahmin hailing from Col̥adeśa, and was the son of one Śesādri and disciple of Veṇkaṭadri, and belonged to the Kauṇḍinyagotra. There are three Aruṇagiris known to students of the Sanskrit literature of South India. Two of them were the protéges of Vijayanagar kings; Dinḍimakavisārvabhauma Aruṇagirinatha I, the protégé of Devarāya II (A. D. 1422-1448) and the author of *Somavallīyogānanda-prahasana*;[^1] and Kumāradindima Arunagirinatha II, the protége of Krsnadevaraya (A. D.1509-1530) and the author of *Virabhadravijaya*[^2]. The third Arunagiri is *Arunagirinātha alias Aruņācalanātha*, the author of the commentaries *Prakasika* on Kalidasa's *Raghuvamśa* and *Kumārasambhava*[^3]. But none of these Arunagiris can be identified with the author of this *Yasobhüşaṇa,* for the details supplied by the author regarding himself do not apply to any of these. The Dinḍima Arunagiris belonged to the Gautamagotra[^4], and also lived before our author[^5]; and the commentator Arunagiri was the
+
+[^1]: " M. Krishnamachariar, History of Classical SanskritLiterature, p. 222."
+
+[^2]: "Ibid p.223."
+
+[^3]: "The commentary on the first six cantos of Raghuram sa has been published by the Mangalodayam Press, Trichur, and that on Kumarasambhava in the Trivandrum Sanskrit Series, Nos. 27, 32 and 36."
+
+[^4]: " M. Krishnamachariar, op. cit., p. 221"
+
+[^5]: "Vide infra, p. iv."
 
 
 
-son of one [Rāmadatta](# "Cf. Raghuvamsa, Trichur Edn., p. 87: इति रामदत्तसूनुना अरुणगिरिनाथेन विरचितायां रघुवंशप्रकाशिकायां प्रथमस्सर्गः ।"), and was probably a [non-Brahmin.](# "Cf. अरुणाचलनाथेन द्विजपादाब्जसेविना । शिवदासापराख्येन मया टीका वितन्यते ॥") So Arunagirikavi is different from these. Nothing more is known about him except that he is also the author of a stotra *Gaurisataka*, from which he quotes a śhloka in this [work](# " Vide infra, p. 18."), but no manuscript of this work seems to have been known.
+son of one Rāmadatta[^6], and was probably a non-Brahmin.[^7] So Arunagirikavi is different from these. Nothing more is known about him except that he is also the author of a stotra *Gaurisataka*, from which he quotes a śhloka in this work[^8], but no manuscript of this work seems to have been known.
 
- Godavarma eulogised in this work was a king of [Uttarabimbali](# "Vide infra:उत्तरबिम्बलधरणीवलशासन etc., (p. 42),राजग्नुत्तरबिम्बलेश etc., (p 45), प्रख्यातकीर्त्यत्त र बिम्बलेश etc., (p. 46), etc. (ibid, p. 3.)"), that is Vațakkumkur, a small principality in medieval Kerala, annexed to Travancore by Martāṇḍavarma Mahārāja in A. D. 1754. Though small, Vaṭakkumkur was a powerful and prosperous country during the days of the Portuguese and the Dutch in Malabar, and was one of the four subordinate kingdoms under Cochin, the other three being Porakad, Parur and [Alangad](# "Vide Patappattu, edited by Mahakavi Rao Sahib Ulloor S. Parameswara Aiyar, Sri Mulam Malayalam Series, Trivandrum, No. 5: p. iv. Bimbali is the Sanskritised form of Vempoli, by which name the country was known before it was bifurcated into North-Vempoli (Vațakkumkur) and SouthVempoli (Tekkumkur). Vide Travancore Archaeological Series, Vol. II,"). In Dutch records, it is mentioned as Berkenkoor, and was well-known among the foreigners for its abundance of pepper. A large portion of the modern Kottayam Division in Travancore seems to have been under the sway of Vatakkumkur in those days. As for the identity of the king Godavarma, we find a Godavarma of Bimbali eulogised by Vasudeva in his *Bhr̥ṇgaśandeśa* in the [verse](# " Bhrigasandesa, Trivandrum Sanskrit Series, No. 128, p. 8."):
+[^6]: "Cf. Raghuvamsa, Trichur Edn., p. 87: इति रामदत्तसूनुना अरुणगिरिनाथेन विरचितायां रघुवंशप्रकाशिकायां प्रथमस्सर्गः ।"
+
+[^7]: "Cf. अरुणाचलनाथेन द्विजपादाब्जसेविना । शिवदासापराख्येन मया टीका वितन्यते ॥"
+
+[^8]: " Vide infra, p. 18."
+
+ Godavarma eulogised in this work was a king of Uttarabimbali[^9],राजग्नुत्तरबिम्बलेश etc., (p 45), प्रख्यातकीर्त्यत्त र बिम्बलेश etc., (p. 46), etc. (ibid, p. 3.)"), that is Vațakkumkur, a small principality in medieval Kerala, annexed to Travancore by Martāṇḍavarma Mahārāja in A. D. 1754. Though small, Vaṭakkumkur was a powerful and prosperous country during the days of the Portuguese and the Dutch in Malabar, and was one of the four subordinate kingdoms under Cochin, the other three being Porakad, Parur and Alangad[^10] and SouthVempoli (Tekkumkur). Vide Travancore Archaeological Series, Vol. II,"). In Dutch records, it is mentioned as Berkenkoor, and was well-known among the foreigners for its abundance of pepper. A large portion of the modern Kottayam Division in Travancore seems to have been under the sway of Vatakkumkur in those days. As for the identity of the king Godavarma, we find a Godavarma of Bimbali eulogised by Vasudeva in his *Bhr̥ṇgaśandeśa* in the verse[^11]:
+
+[^9]: "Vide infra:उत्तरबिम्बलधरणीवलशासन etc., (p. 42
+
+[^10]: "Vide Patappattu, edited by Mahakavi Rao Sahib Ulloor S. Parameswara Aiyar, Sri Mulam Malayalam Series, Trivandrum, No. 5: p. iv. Bimbali is the Sanskritised form of Vempoli, by which name the country was known before it was bifurcated into North-Vempoli (Vațakkumkur
+
+[^11]: " Bhrigasandesa, Trivandrum Sanskrit Series, No. 128, p. 8."
 
 **इत्थं नत्वा गिरिवरसुतां गोदवर्मक्षितीन्दो-  
 रग्रेसम्भावचपुरवरं प्रस्फुरद्धेमसालम्।**
@@ -56,7 +78,9 @@ son of one [Rāmadatta](# "Cf. Raghuvamsa, Trichur Edn., p. 87: इति रा
 **यद्युद्धेषु त्रुटितविमतस्तोमकण्ठान्त्रदाम-  
 प्रच्छन्नाशेष्वसिलतिकया दिद्युते विद्युतेव॥**
 
- and by Melputtūr Nārāyaṇa Bhaṭṭatiri in the following [verses](# "Palace Library, Trivandrum, Ms. No. 1658 N,"):
+ and by Melputtūr Nārāyaṇa Bhaṭṭatiri in the following verses[^12]:
+
+[^12]: "Palace Library, Trivandrum, Ms. No. 1658 N,"
 
 **त्वत्कीर्तिप्रसरे नितान्तधवले प्रौढां त्रिलोकीवधूं  
 द्रागालिङ्गति बिम्बलीश ! किमिव ब्रूमस्तदीयां दशाम्।  
@@ -111,7 +135,11 @@ son of one [Rāmadatta](# "Cf. Raghuvamsa, Trichur Edn., p. 87: इति रा
 
 
 
-*parikarâṅkura* is seen in Appayya Dīksita's *Kuvalayânanda*, but the other two are not regarded as independent alaṅkāras in any of the common works on the subject. *Tatkara* is the same as what Vidyânâtha illustrates as another variety of *samuccaya*, and it is noteworthy that Arunagiri himself calls it only as a variety of *[samuccaya](# "Vide infra p. 45: स समुच्चयभेद एव ।")¹*, though he gives it a separate name.*Prašnottara* is usually included in *uttara*. Jayadeva in his *Candrāloka,* however, speaks of a *[prasnottara](# "Candraloka, V. 108.")*, but it is the same as Arunagiri's *uttara.*
+*parikarâṅkura* is seen in Appayya Dīksita's *Kuvalayânanda*, but the other two are not regarded as independent alaṅkāras in any of the common works on the subject. *Tatkara* is the same as what Vidyânâtha illustrates as another variety of *samuccaya*, and it is noteworthy that Arunagiri himself calls it only as a variety of *samuccaya[^13]¹*, though he gives it a separate name.*Prašnottara* is usually included in *uttara*. Jayadeva in his *Candrāloka,* however, speaks of a *prasnottara[^14]*, but it is the same as Arunagiri's *uttara.*
+
+[^13]: "Vide infra p. 45: स समुच्चयभेद एव ।"
+
+[^14]: "Candraloka, V. 108."
 
  Secondly, the order in which the alaṅkaras are dealt with in the two works is slightly different. There is a logical sequence in the order adopted in *Pratāparudriya*, but not so much in *Godavarmayaśobhūṣaṇa.*
 
@@ -121,8 +149,22 @@ son of one [Rāmadatta](# "Cf. Raghuvamsa, Trichur Edn., p. 87: इति रा
 
 
 
- Among the works on alaṅkâra quoted from in this *Yaśobhūṣaṇa* are [*Kavyaprakasa*](# "Vide infra, p. 29.") (of Mammaṭa) and *Bindvalaṇkāra(2)* (of Harihara), which are quoted in it by name, and *Kâvyâdarśa* of [Daṇḍin](# "Vide infra, p. 17.मन्ये शङ्केetc. (Kavyadarsa, II. 234).")and *Kāvyālaṇkārasārasangraha* of [Udbhata](# "Ibid, लोकातिक्रान्तविषया (Kavyalankarasarasangraha, III. 5)."), which are quoted [anonymously](# "Another verse यथारुचि यथाश्चित्त्वंetc. but it has not been possible to trace its source."). The other quotations in the work are the verse **कुटिलालीकलसन्तीं**[etc](# "Vide infra, p. 18."). from the author's own *Gauriśataka*, and the verses **तद्वल्गुना** [etc](# "Vide infra, p. 10 (Raghuvamsa, V. 68)."). and **अत्रानुगोदं**
-[etc](# "Ibid, (Raghuvamsa, XIII. 35.)"). from Kālidāsa's *Raghuvaṁśa*
+ Among the works on alaṅkâra quoted from in this *Yaśobhūṣaṇa* are *Kavyaprakasa*[^15] (of Mammaṭa) and *Bindvalaṇkāra(2)* (of Harihara), which are quoted in it by name, and *Kâvyâdarśa* of Daṇḍin[^16].")and *Kāvyālaṇkārasārasangraha* of Udbhata[^17]."), which are quoted anonymously[^18]. The other quotations in the work are the verse **कुटिलालीकलसन्तीं**etc[^19]. from the author's own *Gauriśataka*, and the verses **तद्वल्गुना** etc[^20]."). and **अत्रानुगोदं**
+etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
+
+[^15]: "Vide infra, p. 29."
+
+[^16]: "Vide infra, p. 17.मन्ये शङ्केetc. (Kavyadarsa, II. 234
+
+[^17]: "Ibid, लोकातिक्रान्तविषया (Kavyalankarasarasangraha, III. 5
+
+[^18]: "Another verse यथारुचि यथाश्चित्त्वंetc. but it has not been possible to trace its source."
+
+[^19]: "Vide infra, p. 18."
+
+[^20]: "Vide infra, p. 10 (Raghuvamsa, V. 68
+
+[^21]: "Ibid, (Raghuvamsa, XIII. 35.
 
  The present edition is based on a single palmleaf munuscript of the work in the Curator's Office collection in this Library, No. 164. It was procured from Sri Subrahmanyan Moothatu, Puttiyil, Haripad, and is written in Malayalam script.
 
@@ -803,7 +845,9 @@ son of one [Rāmadatta](# "Cf. Raghuvamsa, Trichur Edn., p. 87: इति रा
 **"लोकातिक्रान्तविषया भावाभावाभिमानतः।  
 सम्भावनेयमुत्प्रेक्षा वाच्येवादिभिरिष्यते॥”**
 
-इति। उक्तस्य अष्टविधस्य सम्भावनस्य गुणनिमित्तकत्वेन क्रियानिमित्तकत्वेन द्वैविध्ये षोडशविधा। अत्र चैतेषां स्वरूपहेतुफलोत्प्रेक्षाभिरपरं त्रैविध्यम्। निमित्तस्य उपादानानुपादानाभ्यां द्वैविध्ये जात्युत्प्रेक्षा [चतुर्दशविधा](# "चतुर्दशविधत्वं तु जातिभावस्वरूपोत्प्रेक्षायाः जात्यभावस्वरूपोत्प्रेक्षायाश्च गुणनिमित्तकत्वक्रियानिमित्तकत्वाभ्यां द्वैविध्यस्य अनङ्गीकारात्। अन्यथा षोडशविथत्वापत्तेः।")। ननु चतुर्विंशतिविधत्वेन कथं चतुर्दशविधत्वमिति चेन्न; जातिहेतुफलोत्प्रेक्षयोः हेतूपादानानुपादानद्वैविध्याभावाच्चतुर्दशविधैव। एवं क्रियागुणद्रव्याणामपीति वाच्योत्प्रेक्षा षट्पञ्चाशद्विधा, गम्योत्प्रेक्षा अष्टचत्वारिंशद्भेदा। गम्योत्प्रेक्षायां निमित्तस्य गुणत्वेन क्रियात्वेन वा चारुत्वविशेषाभावाद् एक एव भेद इति द्रष्टव्यम्। केचित्तु वाच्योत्प्रेक्षैव षण्णवतिविधेति वदन्ति। तत्र यथासम्भवमुदाहरणानि।
+इति। उक्तस्य अष्टविधस्य सम्भावनस्य गुणनिमित्तकत्वेन क्रियानिमित्तकत्वेन द्वैविध्ये षोडशविधा। अत्र चैतेषां स्वरूपहेतुफलोत्प्रेक्षाभिरपरं त्रैविध्यम्। निमित्तस्य उपादानानुपादानाभ्यां द्वैविध्ये जात्युत्प्रेक्षा चतुर्दशविधा[^22]। ननु चतुर्विंशतिविधत्वेन कथं चतुर्दशविधत्वमिति चेन्न; जातिहेतुफलोत्प्रेक्षयोः हेतूपादानानुपादानद्वैविध्याभावाच्चतुर्दशविधैव। एवं क्रियागुणद्रव्याणामपीति वाच्योत्प्रेक्षा षट्पञ्चाशद्विधा, गम्योत्प्रेक्षा अष्टचत्वारिंशद्भेदा। गम्योत्प्रेक्षायां निमित्तस्य गुणत्वेन क्रियात्वेन वा चारुत्वविशेषाभावाद् एक एव भेद इति द्रष्टव्यम्। केचित्तु वाच्योत्प्रेक्षैव षण्णवतिविधेति वदन्ति। तत्र यथासम्भवमुदाहरणानि।
+
+[^22]: "चतुर्दशविधत्वं तु जातिभावस्वरूपोत्प्रेक्षायाः जात्यभावस्वरूपोत्प्रेक्षायाश्च गुणनिमित्तकत्वक्रियानिमित्तकत्वाभ्यां द्वैविध्यस्य अनङ्गीकारात्। अन्यथा षोडशविथत्वापत्तेः।"
 
  उपात्तगुणनिमित्तजातिभावस्वरूपोत्प्रेक्षा यथा—
 
@@ -1189,12 +1233,16 @@ son of one [Rāmadatta](# "Cf. Raghuvamsa, Trichur Edn., p. 87: इति रा
  यत्र विशेषणविशेष्ययोः श्लेषः विशेष्ययोश्च तुल्यतया वाच्यत्त्वं तत्र श्लेषालङ्कारः। नाप्ययं तुल्ययोगिता। तस्यां विशेष्यांशे श्लेषाभावात्। अत्र तु द्वयोरिति वचनात् प्राकरणिकयोरप्राकरणिकयोरेव वा अभिधेयत्वेन श्लेषो द्विविधः। नात्र ध्वनिशङ्का। यत्र प्रकरणादिना प्रकृतार्थ एव शृङ्खलितायामभिधायां शब्दस्य अप्रकृताभिधानसामर्थ्याभावेऽपि अप्रकृतार्थप्रतीतिः तत्र ध्वनिः। अयं तु प्रयत्नादिभेदात् प्रातीतिक एव। अयं च शब्दान्यत्वे जतुकाष्ठन्यायेन स्वयमेव शब्दयोः श्लिष्टत्वात् शब्दश्लेषः। अत एव सभङ्गत्वम्। यत्र पुनः प्रयत्नादिभेदाभावात्शब्दैक्ये सति एकनालावलम्बिफलद्वयन्यायेन अर्थयोः श्लिष्टत्वं तत्रार्थश्लेषः। अत एवात्राभङ्गत्वमपि। शब्दपरिवर्त(न ? ना)सहत्वमर्थश्लेषस्य विषय इति काव्यप्रकाशकारस्य सिद्धान्तः। तदुक्तंकाव्यप्रकाशे।
 
 **“अनेकार्थस्य शब्दस्य वाचकत्वे नियन्त्रिते।  
-संयोगाद्यैरवाच्यार्थधीकृ[द्वाग्वृत्तिरञ्जनम्](# "‘व्यापृतिरञ्जनम्’ इति मुद्रितपाठः।")॥” इति॥**
+संयोगाद्यैरवाच्यार्थधीकृद्वाग्वृत्तिरञ्जनम्[^23]॥” इति॥**
+
+[^23]: "‘व्यापृतिरञ्जनम्’ इति मुद्रितपाठः।"
 
  प्रकृतश्लेषो यथा—
 
 **कान्तारागसमाकृष्टैर्भुक्ताहारविभूषणैः।  
-बिम्बलाधिप ! [ते मित्रैः](# "‘तेऽमित्रैः पराभूतिः प्रकाश्यते’ इत्यन्वयः अमित्रपक्षे।") परा भूतिः प्रकाश्यते॥**
+बिम्बलाधिप ! ते मित्रैः[^24] परा भूतिः प्रकाश्यते॥**
+
+[^24]: "‘तेऽमित्रैः पराभूतिः प्रकाश्यते’ इत्यन्वयः अमित्रपक्षे।"
 
  अत्र राज्ञो वितरणपराक्रमवर्णनाद् उभयोर्मित्रामित्रयोः प्रकृतत्वम्।
 
@@ -2202,3 +2250,27 @@ son of one [Rāmadatta](# "Cf. Raghuvamsa, Trichur Edn., p. 87: इति रा
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -72,7 +72,9 @@ Lahore. January, 37           Kailash Nath Bhatnager
 
 **Introduction**
 
- Bhāsa is a play-wright of the front rank. His name,till two decades or so back, was known to us through Kalidasa's prologue in the Malavikāgnimitra and a few stanzas quoted in various anthologies. It was in the year 1909-10 that M. M. Pt. Gaṇapati Śāstri discovered13 [plays](# "1.Pañcarātra, 2. Dūtavākya, 3. Madhyama-vyāyoga, 4. Dūtaghaṭotkaca, 5. Karṇabhāra, 6. Ūrubhaṅga, 7. Bālacarita, 8. Pratimā, 9. Abhiṣeka,10. Svapnavāsavadatta, 11. Pratijñā Yaugandharāyaṇa 12. Avimārika,13. Cārudatta.")which were published in the Trivandrum Series.The learned editor of these 13 plays attributed them all to Bhasa. The appearance of these plays took the Sanskrit scholars by storm. Different theories were put forward by various scholars. Some objected to attribute these plays to the same author. Some did not believe them to be the works of Bhasa at all. Now, the position has cleared much. "Priority to Kālidāsa seems established, says Prof. Keith, "by evidence of use by that poet, and a greater antiquity in technique, style, diction.... Unity of authorship is proved by style. *(Hist. of Skt. Lit. Intro. pp. xii, xiii.)* Out of these 13 plays the first 7 deal with the stories from Mahābhārata, 8th and 9th from the Rāmāyaṇa, and the last four probably from Bṛhat-Kathā.
+ Bhāsa is a play-wright of the front rank. His name,till two decades or so back, was known to us through Kalidasa's prologue in the Malavikāgnimitra and a few stanzas quoted in various anthologies. It was in the year 1909-10 that M. M. Pt. Gaṇapati Śāstri discovered13 plays[^1]which were published in the Trivandrum Series.The learned editor of these 13 plays attributed them all to Bhasa. The appearance of these plays took the Sanskrit scholars by storm. Different theories were put forward by various scholars. Some objected to attribute these plays to the same author. Some did not believe them to be the works of Bhasa at all. Now, the position has cleared much. "Priority to Kālidāsa seems established, says Prof. Keith, "by evidence of use by that poet, and a greater antiquity in technique, style, diction.... Unity of authorship is proved by style. *(Hist. of Skt. Lit. Intro. pp. xii, xiii.)* Out of these 13 plays the first 7 deal with the stories from Mahābhārata, 8th and 9th from the Rāmāyaṇa, and the last four probably from Bṛhat-Kathā.
+
+[^1]: "1.Pañcarātra, 2. Dūtavākya, 3. Madhyama-vyāyoga, 4. Dūtaghaṭotkaca, 5. Karṇabhāra, 6. Ūrubhaṅga, 7. Bālacarita, 8. Pratimā, 9. Abhiṣeka,10. Svapnavāsavadatta, 11. Pratijñā Yaugandharāyaṇa 12. Avimārika,13. Cārudatta."
 
 **His Date**
 
@@ -921,8 +923,22 @@ will justificably be avoided. पर्याकुल—परि+श्रा+
  **Glossary**.**द्विप** = नागः, हस्तिन् — an elephant **सङ्क्रम=**जलादुद्गतो मार्गः—a causeway or **सञ्चारः**-movement, i. e., floating. **सरित्=** नदी**-** a river. **निः** + / **तृ-**to cross. **हय =** अश्वः — a horse. **स्रस्त** – fallen, ie, dead. **सूत=सारथी** — a charioteer. **कबन्धक** = अनुकम्पितः कबन्धः रुण्डो वा — a pitiable beheaded trunk. **अभ्यास =**संस्कारः—habit, practice. **√द्रु** — to go, move. **मत्त=**सानन्दः —joyful or **मदोन्मत्तः**-inflamed with passion or furious with rut. **यतस्ततः**—here and there.  
  **Notes**. **हतद्विपसङ्क्रमाः–**हताश्च ते द्विपा इति हतद्विपाः (कर्म०) ते एव संङ्क्रमो यासां ताः (बहु०). It qualifies सरितः द्विपः — द्वाभ्यां (करमुखाभ्यां) पिबतीति; द्वि / पा+क (सुपिस्थः Pan. 3. 2. 4); सङ्क्रमः - see p. 14. **रुधिरसरितः–**रुधिरस्य सरितः (तत्पु०) or रुधिरेण पूर्णाश्च ताः सरितः (मध्यमपदलोपी कर्म०). सरित् - सरतीति ; सृ+ इत् (हृ सरित्—सरतीति / (हृसृरुहियुषिभ्य इतिः Uņă.). **निस्तीर्यन्ते–**निस् /तृ (pass.) III. pl. In active form, the construction would be as ' अवशिष्टाः योधाः हतद्विपसङ्क्रमाः सरितः निस्तरन्ति '' or taking_Acc. sing. अवशिष्टाःयोधाः हतद्विपसङ्क्रमां सरितं निस्तरन्ति.' **नृपतिरहितैः**— नृपतिभ्यो रहितैः (तत्पु०), it qualifies स्रस्त. **स्रस्त** – / संस्+क्त'fallen.' **सूत-**√सू+क्ल, here it signifies 'a charioteer'. Various meanings of the word are quoted below:
 
-**सूतस्तु [सारथौ](# "a charioteer") [तक्ष्णि](# "a carpenter") [क्षत्रियाद्](# "the son of a Kşatriya by a woman of the Brahmana caste,") ब्राह्मणीसुते।  
-[वन्दि](# " a bard")[पारदयोः](# "mercury") पुंसि [प्रसूते](# "born")[प्रेरिते](# "excited, impelled or a messenger") त्रिषु ॥ मेदिनी**
+**सूतस्तु सारथौ[^2] तक्ष्णि[^3] क्षत्रियाद्[^4] ब्राह्मणीसुते।  
+वन्दि[^5]पारदयोः[^6] पुंसि प्रसूते[^7]प्रेरिते[^8] त्रिषु ॥ मेदिनी**
+
+[^2]: "a charioteer"
+
+[^3]: "a carpenter"
+
+[^4]: "the son of a Kşatriya by a woman of the Brahmana caste,"
+
+[^5]: " a bard"
+
+[^6]: "mercury"
+
+[^7]: "born"
+
+[^8]: "excited, impelled or a messenger"
 
 ** पतितशिरसः** - पतितानि शिरांसि येभ्यो येषां वा ते (बहु०) ' decapitated', it qualifies **कबन्धकाः.** Here the adjective **'पतितशिरसः'**, which qualifies **कबन्धकाः**:, is seemingly superfluous, for it can be interpreted as पतितशिरसः सन्तः, denoting thereby the fall of the heads in near past. Thus the expression becomes forceful and excites a sense of wonder in the readers. Besides,
 
@@ -2805,9 +2821,11 @@ signifies 'one whose eyes have vanished. अस्तमिते can equally we
 ** राजा—मालवि! त्वमपि शृणु।**
 
 **भिन्ना मे भ्रुकुटी गदानिपतितैर्व्यायुद्धकालोत्थितै-  
-[वृ](# "तैर्या..")क्षस्युत्पतितैः प्रहाररुधिरैर्हारावकाशो हृतः।  
+वृ[^9]क्षस्युत्पतितैः प्रहाररुधिरैर्हारावकाशो हृतः।  
 पश्येमैौ व्रणकाञ्चनाङ्गदधरौ पर्याप्तशोभौ भुजौ  
 भर्ता त न पराङ्मुखो युधि हतः किं क्षत्रिये! रोदिषि॥५१॥**
+
+[^9]: "तैर्या.."
 
 **——————————————————————————————————————————–––––––––––––—–––––––––––––**  
 त्योः Pän.8.3.40) and क्त्वा into ल्यप् (समासेऽनञ्पूर्वे कल्वो ल्यप् Pan.f.Loc.sing. 7.1.37). **अन्यस्याम्—**अन्यत्, **जात्याम्—**√जन् ‘to be born'+क्तिन्, Loc. sing. The term जाति is used here to denote 'birth or life' and not its familiar meanings, viz., race, family, caste, etc.
@@ -2862,9 +2880,11 @@ compassion. Duryodhana, in the first instance, depicts himself as a warrior with
 
 
 **वेदोक्लैर्विविधैर्मखैरभिमतैरिष्टं धृता बान्धवाः  
-शत्रूणामुपरि स्थितं प्रिय[शतान्न](# "शतं न.") व्यंसिताः संश्रिताः।  
+शत्रूणामुपरि स्थितं प्रियशतान्न[^10] व्यंसिताः संश्रिताः।  
 युद्धेऽष्टादश वाहिनी नृपतयः सन्तापिता निग्रहे  
 मानं मानिनि! वीक्ष्य मे नहि रुदन्त्येवंविधानां स्त्रियः॥५२॥**
+
+[^10]: "शतं न."
 
 **——————————————————————————————————————————–––––––––––––––**  
  अन्वयः—(मया) वेदोक्तैः श्रभिमतैः खैः इष्टम्, बान्धवाः धृताः, शत्रूणाम् उपरि स्थितम्, संश्रिताः प्रियशतात् न व्यंसिताः। (ये) युद्धे भ्रष्टादशवाहिनीनृपतयः (श्रासन् ते) निग्रहे सन्तापिताः। मानिनि! एवंविधानां मानं वीक्ष्य मे स्त्रियः न हि रुदन्ति।
@@ -3706,3 +3726,13 @@ Dramaturgical Terms
 
 
 \]
+
+
+
+
+
+
+
+
+
+

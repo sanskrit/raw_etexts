@@ -247,7 +247,13 @@ His life and date
 
 **LIFE AND DATE OF VĀMANA**
 
-[dīpikā](# "MS., Madras Oriental MSS., Library; see Seṣagiri Sāstrin's Reports, vol. II, pp. 193-194"), the Saptaśatī-[sāra](# "Descriptive Catalogue of Sanskrit MSS., Madras, XXII, 8708")[](# "Descriptive Catalogue of Sanskrit MSS., Madras, XXII, 8708")and the Sāhitya-cintā-[mani](# "Travancore, 80.")a rhetorical work. Vema succeeded Komāragiri of Kondabidu about 1403 A.D. He presented several villages to Brāhmaṇas on different occasions.⁵
+dīpikā[^1], the Saptaśatī-sāra[^2][][^2]and the Sāhitya-cintā-mani[^4]a rhetorical work. Vema succeeded Komāragiri of Kondabidu about 1403 A.D. He presented several villages to Brāhmaṇas on different occasions.⁵
+
+[^1]: "MS., Madras Oriental MSS., Library; see Seṣagiri Sāstrin's Reports, vol. II, pp. 193-194"
+
+[^2]: "Descriptive Catalogue of Sanskrit MSS., Madras, XXII, 8708"
+
+[^4]: "Travancore, 80."
 
 ₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋
 
@@ -275,9 +281,13 @@ His life and date
 
 
 
- In his Sabda-candrikā, Vemabhūpāla pays homage to Vidyāraṇya and great poets like Sārvabhauma.⁶ Vidyaranya or Madhava Acārya, founder of the Vijayanagara empire, [flourished](# "See my edition of the Kāla-Mādhava-Lakṣmi, pp. XXXV-Xxxviii, Contribution of Women to Sanskrit Literature, vol. vii.")towards the end of the fourteenth century and the beginning of the fifteenth century A.D. From the above evidence we may safely come to the conclusion that Vāmana Bhaṭṭa Bāṇa, court-poet of Vemabhūpāla and disciple of Madhava Ācārya, flourished in the first half of the fifteenth century, as the poet must have been a junior contemporary of his preceptor.
+ In his Sabda-candrikā, Vemabhūpāla pays homage to Vidyāraṇya and great poets like Sārvabhauma.⁶ Vidyaranya or Madhava Acārya, founder of the Vijayanagara empire, flourished[^5]towards the end of the fourteenth century and the beginning of the fifteenth century A.D. From the above evidence we may safely come to the conclusion that Vāmana Bhaṭṭa Bāṇa, court-poet of Vemabhūpāla and disciple of Madhava Ācārya, flourished in the first half of the fifteenth century, as the poet must have been a junior contemporary of his preceptor.
 
- Vāmana Bhaṭṭa belonged to the Vatsagotra, his father's name being [Komatiyajvan](# "Sabda-ratnākara, MS. No. 5059 of vol. IX, Tanjore Catalogue").⁸ The excellent picture, of civic life given by him the Sṛṅgārabhūṣaṇa
+[^5]: "See my edition of the Kāla-Mādhava-Lakṣmi, pp. XXXV-Xxxviii, Contribution of Women to Sanskrit Literature, vol. vii."
+
+ Vāmana Bhaṭṭa belonged to the Vatsagotra, his father's name being Komatiyajvan[^6].⁸ The excellent picture, of civic life given by him the Sṛṅgārabhūṣaṇa
+
+[^6]: "Sabda-ratnākara, MS. No. 5059 of vol. IX, Tanjore Catalogue"
 
 ₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋
 
@@ -331,9 +341,11 @@ In this work, the author speaks of himself:-
 **अस्ति कविसार्वभौमो वत्सान्वय-जलधि-कौस्तुभो वाणः।  
 नृत्यति यद्रसनायां वेधोमुख रङ्ग-लासिका वाणी॥**
 
- 5. 2 KANAKALEKHĀ. It describes in four Acts the marriage of Kanakalekhā with Vyāsavarman. They were Vidyādharas but cursed to be born on earth as human beings. It is still not available in [print](# "or MSS., see Triennial Catalogue, Madras, VI. 7100 (कनकरेखाकल्याण); see Kuppuswami's Reports (1919), 41-42.").  
+ 5. 2 KANAKALEKHĀ. It describes in four Acts the marriage of Kanakalekhā with Vyāsavarman. They were Vidyādharas but cursed to be born on earth as human beings. It is still not available in print[^7]; see Kuppuswami's Reports (1919), 41-42.").  
  6. 3 ŚṚNGARA-BHŪṢAṆA-BHĀṆA.  
  This work is a slavish immitation of an ideal Bhāṇa and closely follows the characteristic features as propounded by rhetoricians. Thus Vilāsaśekhara, the hero, is a typically cunning fellow and the work, too, is complete in one act. He addresses and replies to a person whom he only hears and sees, but none of the audience. There is no second dramatical person.
+
+[^7]: "or MSS., see Triennial Catalogue, Madras, VI. 7100 (कनकरेखाकल्याण
 
 
 
@@ -726,7 +738,15 @@ The author Veṅkaṭanātha who flourished in the 14th century belonged to the 
 
 
 
-poet points out that the West coast of the said Presidency suffers from a great disadvantage, viz., rain; therefore, the Swan should follow the eastern route though the western one is decidedly shorter. On its way to Ceylon, it should pass through Karṇāța and the Āndhra country. Then it is destined to reach [Añjanādri](# "This range is to be distinguished from Suleiman range of the Punjab which also is known as Añjanādri (Varāhapurāṇa, chap. 80).")," also called also called [Veṅkaṭācala](# "The Tirumalai mountain near Tirupati (Tripati) in North Arcot. Here Rāmānuja replaced the worship of Siva by that of Visnu called Venkatasvamin.").The river Kanakamukharī (also known as Suvarṇamukharī) flows just by the side of the Añjanādri. Then come [Tuṇḍīra](# " i.e. Toṇḍamaṇḍala")[](# " i.e. Toṇḍamaṇḍala")and Satyavati-kṣetra. Then it will reach the Hastiśaila at Conjeeveram which is situated on the northern bank of the river [Vegavatī](# "River Baiga or Bygi.").It will then pass through the Cola country that is full of betelnut tree, the Svetaśaila, the Candrapuskariṇī on the bank of which is situated the Rangadhāma, the Vrkṣācala, the Paṇḍya-deśa, the Tamraparṇī, the mount Subela on the sea and finally Ceylon where it will see Sītā under a Siṃśapā tree.
+poet points out that the West coast of the said Presidency suffers from a great disadvantage, viz., rain; therefore, the Swan should follow the eastern route though the western one is decidedly shorter. On its way to Ceylon, it should pass through Karṇāța and the Āndhra country. Then it is destined to reach Añjanādri[^8].")," also called also called Veṅkaṭācala[^9] in North Arcot. Here Rāmānuja replaced the worship of Siva by that of Visnu called Venkatasvamin.").The river Kanakamukharī (also known as Suvarṇamukharī) flows just by the side of the Añjanādri. Then come Tuṇḍīra[^10][][^10]and Satyavati-kṣetra. Then it will reach the Hastiśaila at Conjeeveram which is situated on the northern bank of the river Vegavatī[^12].It will then pass through the Cola country that is full of betelnut tree, the Svetaśaila, the Candrapuskariṇī on the bank of which is situated the Rangadhāma, the Vrkṣācala, the Paṇḍya-deśa, the Tamraparṇī, the mount Subela on the sea and finally Ceylon where it will see Sītā under a Siṃśapā tree.
+
+[^8]: "This range is to be distinguished from Suleiman range of the Punjab which also is known as Añjanādri (Varāhapurāṇa, chap. 80
+
+[^9]: "The Tirumalai mountain near Tirupati (Tripati
+
+[^10]: " i.e. Toṇḍamaṇḍala"
+
+[^12]: "River Baiga or Bygi."
 
  Many places mentioned here coincide with those dealt with in the Haṃsa-sandeśa of Vamana Bhaṭṭa Bāṇa.
 
@@ -1630,3 +1650,24 @@ Further details about this work will be recorded in Vol. VI of this series.
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^11]: " i.e. Toṇḍamaṇḍala"
+
+
+[^3]: "Descriptive Catalogue of Sanskrit MSS., Madras, XXII, 8708"

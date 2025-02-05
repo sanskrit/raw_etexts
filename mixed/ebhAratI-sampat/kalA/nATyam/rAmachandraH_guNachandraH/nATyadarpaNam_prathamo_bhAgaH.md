@@ -124,7 +124,11 @@ Again, Raṅganātha in his commentary on the Vikramorvaśīya has quoted a pass
 
 It may be noticed here that the passage deals with a variety of Nāndī which was known as Patrāvalī showing apparently that there were several varieties of Nāndī. But this passage also does not appear in the present work. In the present Nāṭyadarpaṇa owing to a limited number of Kārikās, the treatment of the subject has been very simple, in fact, so simple that it cannot warrant a minute description of the different kinds of Nāndī. As the passage in question is not found in the present Nāṭyadarpaṇa it seems probable that there was some other work of the same name which treated of the Rūpakas and incidentally the different kinds of Nāndī too.
 
-After Peterson the late Mr. C. D. Dalal referred to the present work and actually quoted a number of Kārikās while defining the [Vyayoga](# "Vide Introduction page iii Gaekwad's Oriental Series No 4.")and the six [Rūpakas](# "Vide Introduction page i Gaekwad's Oriental Series No. 8.").
+After Peterson the late Mr. C. D. Dalal referred to the present work and actually quoted a number of Kārikās while defining the Vyayoga[^1]and the six Rūpakas[^2].
+
+[^1]: "Vide Introduction page iii Gaekwad's Oriental Series No 4."
+
+[^2]: "Vide Introduction page i Gaekwad's Oriental Series No. 8."
 
 It was professor Sylvain Levi who for the first time brought the Kārikās and their commentary to the notice of the public in an article in the Journal Asiatique in 1923 A. D. where he gave copious extracts from the commentary³.
 
@@ -148,7 +152,13 @@ The Daśarūpaka begins by saying that the Rūpaka is of ten kinds like the ten 
 
 Nāṭyadarpaṇa is divided into four chapters called Vivekas; the first Nāṭaka-nirṇayaviveka gives acomplete description of the Nāṭaka, the second Prakaraṇādyekādaśa-rūpanirṇaya – viveka-describes the remaining eleven kinds of dramas; the third Vṛttirasabhāvābhinayavicāra-describes the Vṛtti, Rasa, Bhāva and Abhinaya; the fourth Sarva-rūpakasādhāraṇalakṣaṇa-nirṇaya – states the particulars common to all the Rūpakas. The division is quite simple, the treatment of the subject is praiseworthy and its examples are more profuse than in the Dasarūpaka.
 
-The authors themselves at the end of the commentary [say](# "रूपस्वरूपं विज्ञातुं यदीच्छत यथास्थितम् । सन्तस्तदानीं गृह्णीत निर्मलं नाट्यदर्पणम् ॥ नाटचदर्पण p. 216")“If the good wish to have a correct idea of the dramas let them read the faultless Nāṭyadarpaṇa. The Daśarūpaka, as the title indicates, treats of the ten Rūpakas though it refers to the Nāṭikā also in addition. Rāmacandra does not limit himself to ten, he can have as many kinds as possible. But he has selected only twelve, as they give pleasure to all, the [varieties](# "रसप्राधान्यादखिललोकरजकतया । नाट्यदर्पण p. 26 1. 2.")of aesthetic pleasure having been considered as of supreme importance. The other kinds of Rūpakas he considers insignificant because there is no special importance given to Rasas in them, and declares rather bluntly that the definer will define only as many as he has got reverence [for](# "लक्षणीयबाहुल्येऽपि यावत्येव लक्षयितुः श्रद्धा तावानेव लक्ष्य्ते । नाट्यदर्पण प्. 26 1. 1-2"). At the end in the commentary however he gives the names of and defines the following Uparūpakas (minor Rūpakas) namely, Saṭṭaka. rigaditā, Durmīlitā, Prasthāna, Goṣṭhi, Hallisaka, Nartanaka, Prekṣaṇaka, Rāsaka, Nātyarāsaka, kāvya, Bhāṇa and Bhānikā.
+The authors themselves at the end of the commentary say[^3]“If the good wish to have a correct idea of the dramas let them read the faultless Nāṭyadarpaṇa. The Daśarūpaka, as the title indicates, treats of the ten Rūpakas though it refers to the Nāṭikā also in addition. Rāmacandra does not limit himself to ten, he can have as many kinds as possible. But he has selected only twelve, as they give pleasure to all, the varieties[^4]of aesthetic pleasure having been considered as of supreme importance. The other kinds of Rūpakas he considers insignificant because there is no special importance given to Rasas in them, and declares rather bluntly that the definer will define only as many as he has got reverence for[^5]. At the end in the commentary however he gives the names of and defines the following Uparūpakas (minor Rūpakas) namely, Saṭṭaka. rigaditā, Durmīlitā, Prasthāna, Goṣṭhi, Hallisaka, Nartanaka, Prekṣaṇaka, Rāsaka, Nātyarāsaka, kāvya, Bhāṇa and Bhānikā.
+
+[^3]: "रूपस्वरूपं विज्ञातुं यदीच्छत यथास्थितम् । सन्तस्तदानीं गृह्णीत निर्मलं नाट्यदर्पणम् ॥ नाटचदर्पण p. 216"
+
+[^4]: "रसप्राधान्यादखिललोकरजकतया । नाट्यदर्पण p. 26 1. 2."
+
+[^5]: "लक्षणीयबाहुल्येऽपि यावत्येव लक्षयितुः श्रद्धा तावानेव लक्ष्य्ते । नाट्यदर्पण प्. 26 1. 1-2"
 
 The Nāṭyadarpaṇa follows the Daśarūpaka in many instances but nowhere in this book are to be found any references by name to either the Daśarūpaka or its author Dhanañjaya or its commentator Dhanika. They are referred to as Anye, Apare, Kecit etc. It is not likely that a standard work on dramaturgy like the Daśarūpaka should be unknown to the authors of the present work. That they knew Daśarūpaka well is borne out by the fact that while stating the points where both Dhanañjaya and our authors held identical views, the latter in some places give the exact wording of the Daśarūpaka as quotations.
 
@@ -160,25 +170,85 @@ There are at least 21 instances¹in the Nāṭyadarpaṇa where the authors agre
 
 
 
-In one place the authors refer to an opinion of Bharata on the question of the Dhirodatta Dhīrodātta hero. Here Rāmacandra and Guṇacandra attack Dhanañjaya becausethe latter takes Dhirodātta only as the hero of a Nāṭaka, and opine that in this Dhanañjaya committed a blunder as he did not understand [Bharata](# "ये तु नाटकस्य नेतारं धीरोदात्तमेव प्रतिजानते न ते मुनिसमयाध्यवसायिनः । नाट्यदर्पण p. 29."). But it may be remembered that Bharata too takes Dhīrodātta as the hero of a [Nātaka](# "प्रख्यातं वस्तुविषये प्रख्यातोदात्तनायकं चैव । राजर्षिवंशचरितं तथैव दिव्याश्रयोपेतम् ॥ नानाविभूति संयूतमृद्धि विलासादिभिर्गुणैश्चैव । अङ्कप्रवेशकाख्यं भवति हि तनाटकं नाम । नाव्यशास्त्र अ० 18-10-11")as it appears from the text of the Nāṭyasástra as published in the Kāvyamālā edition. But as there are certain discrepancies between the readings in the printed edition and those referred to by our authors, it appears probable that the copy of our authors presented readings somewhat different from those in the printed edition.
+In one place the authors refer to an opinion of Bharata on the question of the Dhirodatta Dhīrodātta hero. Here Rāmacandra and Guṇacandra attack Dhanañjaya becausethe latter takes Dhirodātta only as the hero of a Nāṭaka, and opine that in this Dhanañjaya committed a blunder as he did not understand Bharata[^6]. But it may be remembered that Bharata too takes Dhīrodātta as the hero of a Nātaka[^7]as it appears from the text of the Nāṭyasástra as published in the Kāvyamālā edition. But as there are certain discrepancies between the readings in the printed edition and those referred to by our authors, it appears probable that the copy of our authors presented readings somewhat different from those in the printed edition.
 
-Bharata is sometimes referred to in the present work as [Muni](# "Supra 1"), [Kecit](# "अत्रान्तरे च केचित् । नाट्यदर्पण p. 116.") and as a [Vrddha](# "तन वृद्धाभिप्रायमनुरुणद्धि । नाट्यदर्पण p. 120.").
+[^6]: "ये तु नाटकस्य नेतारं धीरोदात्तमेव प्रतिजानते न ते मुनिसमयाध्यवसायिनः । नाट्यदर्पण p. 29."
+
+[^7]: "प्रख्यातं वस्तुविषये प्रख्यातोदात्तनायकं चैव । राजर्षिवंशचरितं तथैव दिव्याश्रयोपेतम् ॥ नानाविभूति संयूतमृद्धि विलासादिभिर्गुणैश्चैव । अङ्कप्रवेशकाख्यं भवति हि तनाटकं नाम । नाव्यशास्त्र अ० 18-10-11"
+
+Bharata is sometimes referred to in the present work as Muni[^8], Kecit[^9] and as a Vrddha[^10].
+
+[^8]: "Supra 1"
+
+[^9]: "अत्रान्तरे च केचित् । नाट्यदर्पण p. 116."
+
+[^10]: "तन वृद्धाभिप्रायमनुरुणद्धि । नाट्यदर्पण p. 120."
 
 In another place in this work Bharata is referred to in connection with the definition and application of the Bhāratī Vṛtti.
 
-Bharata says that the Bhāratī Vṛtti should be used in Bibhatsa and [Karuņa](# "रौद्रे भयानके चैव विशेयारभटी बुधैः । बीभत्से करुणे चैव भारती सम्प्रकीर्तिता ॥ नाव्यशास्त्र अ० 20-64. - 14"). Bharata in another place while describing Bhāratī, has allowed it in Prarocanā, Āmukha, Vīthī, Prahasana, (and indirectly in Bhāna which has got many points in common with Vīthī and Prahasana) all of which are the divisions of [Bhāratī.](# "भेदास्तस्यास्तु विज्ञेयाश्रत्त्वारोगत्वमागताः । प्ररोचना मुखं चैव वीथिप्रहसनं तथा ॥ नाव्यशास्त्र अ० 20-47")Our authors know both these places and find fault with Bharata for his self contradiction. What Bharata means is that Bhāratīis chiefly used in Bībhatsa and Karuņa, it is certainly to be used in all Rūpakas because Bhāratī is nothing but speech which is required on the stage. The Daśarūpaku, which follows Bharata closely also mentions वृत्तिः सर्वत्र भारती, i.e Bhāratī is allowed in all the Rasas.
+Bharata says that the Bhāratī Vṛtti should be used in Bibhatsa and Karuņa[^11]. Bharata in another place while describing Bhāratī, has allowed it in Prarocanā, Āmukha, Vīthī, Prahasana, (and indirectly in Bhāna which has got many points in common with Vīthī and Prahasana) all of which are the divisions of Bhāratī.[^12]Our authors know both these places and find fault with Bharata for his self contradiction. What Bharata means is that Bhāratīis chiefly used in Bībhatsa and Karuņa, it is certainly to be used in all Rūpakas because Bhāratī is nothing but speech which is required on the stage. The Daśarūpaku, which follows Bharata closely also mentions वृत्तिः सर्वत्र भारती, i.e Bhāratī is allowed in all the Rasas.
 
-In connection with Pūrvaraṅga it may be noticed that Bharat ः is mentioned as the Pūrvācārya. Our authors are not in favour of the nine Antarjavanika Bhedas, and ten Bahirjavanika Bhedas as they think them to be quite [useless](# "Vide page 155"). Bharata is mentioned again on two other [occasions](# "Vide p. 192 तथा च ... ...and p. 194 वृद्धसम्प्रदाय... ...the latter is not clear from . It seems to be the old custom, see भरत 32-318-382"). The number of Angas of the five sandhis in the Nāṭyadarpaṇa is the same as in the Bharata Nāṭyaśāstra.
+[^11]: "रौद्रे भयानके चैव विशेयारभटी बुधैः । बीभत्से करुणे चैव भारती सम्प्रकीर्तिता ॥ नाव्यशास्त्र अ० 20-64. - 14"
 
-Bharata describes the nature of the [Rasas](# "यथा बहुद्रव्ययुतर्व्यञ्जनैर्बहुभिर्युतम् । आखादयन्ति भुञ्जाना भक्तं भक्तविदो जनाः ॥ भावाभिनयसम्बद्वान् भावयन्ति रसानिमान् । आस्वादयन्ति मनसा तस्मानाव्यरसाः स्मृताः ॥ नाट्यशास्त्र अ० 6-33-34") in the sixth chapter and states that there are eight Rasas in a [drama](# "शृङ्गार हास्यकरुयारौद्रवीरभयानकाः । बीभत्सद्भुतसंज्ञाश्वेत्यष्टी नाट्ये रसाः स्मृताः । एते यष्टौ रसाः प्रोक्ता दुहिणेन महात्मना । नाट्यशास्त्र अ. 6-15-16"),which are duly enumerated there. Again, in the last stanza of the same chapter Bharata says that he has fully described the eight Rasas. The G. O. S. edition also agrees with K. M. edition in giving the number of Nāṭya-rasas in the same words. While mentioning the Varṇas and Adhidaivatas of these Rasas only eight Rasas are given in both the editions. given in both the editions. But in G. O. S. edition in the last line on page [336](# "एवं नव रसा दृष्टा नाट्यज्ञैर्लक्षणान्विताः ।")and in the first line on page [342](# "एवमेते रसा ज्ञेया नव लक्षणलक्षिताः ॥ G. O. S. edition.")nine Rasas are referred to. The variant of the first line on page 342, however, gives Jñeyāstvaṣṭau which means that eight instead of nine Rasas are described. Thus the variant gives. the same reading as in the K. M. [edition](# "एवमेते रसा ज्ञेयास्त्वष्टौ लक्षणलक्षिताः ॥ नाट्यशास्त्र 6-83 K. M edition").
+[^12]: "भेदास्तस्यास्तु विज्ञेयाश्रत्त्वारोगत्वमागताः । प्ररोचना मुखं चैव वीथिप्रहसनं तथा ॥ नाव्यशास्त्र अ० 20-47"
 
-Thus it is probable that the passage from page 333 (begining with the Sāuta Rasa) to the end of the chapter excepting the last stanza is a clear interpolation made perhaps by the commentator Abhinavagupta who comments on this [portion](# "Abhinavagupta begins his commentary with the words ये पुनर्नव इति पठन्ति तन्मते शान्तस्वरूपमभिधीयते").
+In connection with Pūrvaraṅga it may be noticed that Bharat ः is mentioned as the Pūrvācārya. Our authors are not in favour of the nine Antarjavanika Bhedas, and ten Bahirjavanika Bhedas as they think them to be quite useless[^13]. Bharata is mentioned again on two other occasions[^14]. The number of Angas of the five sandhis in the Nāṭyadarpaṇa is the same as in the Bharata Nāṭyaśāstra.
 
-Bhāmaha does not even touch the subject of drama and consequently the Rasas, saying, that they are treated at great length by [others](# "नाटकं द्विपदीशम्यारासकस्कन्धकादि यत् । उक्तं तदभिनेयार्थमुक्तोन्यैस्तस्य विस्तरः ॥ भामह 1-24"). Udbhata says that there are nine Rasas in a drama and he quotes the exact verse of Bharata with the number eight changed to [nine](# "शृङ्गारहास्य करूणरौद्रवीरभयानकाः । बीभत्साद्भुतशान्ताश्च नव नाट्ये रसाः स्मृताः ॥ उद्भट 4-4").
+[^13]: "Vide page 155"
 
-Rudraṭa inone Āryā enumerates ten and adds that all these are [Rasas](# "शृङ्गारवीरकरूणा बीभत्सभयानकाद्भुता हास्यः । रौद्रः शान्तः प्रेयानिति मन्तव्या रसाः सर्वे ॥ रुद्रट 12-3").The commentator Namisādhu explains the passage in question by saying that the Sthāyibhāvas, Vyabhicāribhāvas and the Sāttvikabhāvas can also be classed as [Rasas](# "Com: – शृङ्गारेति । गतार्थं न वरम् । शृङ्गारस्य प्राधान्यख्यापनार्थः प्रागुपन्यासः । इति शब्द एवंप्रकारार्थः । एवंप्रकारा अन्येऽपि भावा रतिनिर्वेदस्तम्भादयः सर्वेऽपि रसा बोद्धव्याः । तत्र रत्यदयोस्थायिनः । निर्वेदादयो व्यभिचारिणः । स्तम्भादयः सात्त्विकाः ।"). Rudrata further on gives the etymology of the word Rasa and says that all these i. e. Nirveda, etc. can be included amongst the [Rasas](# "रसनाद्रसत्वमेषां मधुरादीनामिवोक्तमाचार्यैः ।निर्वेदादिष्वपि तन्निकाममस्तीति तेऽपि रसाः ॥ रुद्रट 12-4"). The commentator while commenting on this verse gives in a nut-shell the intention of Rudrața in whose opinion there cannot be a single Cittavṛtti which cannot become a Rasa when further [developed](# "Com: - अयमाशयो ग्रन्थकारस्य यदुत नास्ति सा काऽपिचित्तवृत्तिर्या परिपोषं गता न रसीभवति ।"). Other writers like Dhanañjaya and Mammaṭa hold that there are only eight Rasas in a [drama](# "अष्टौ नाट्ये रसा स्मृताः ॥मम्मट 4-29.") because the ninth or the Śānta cannot be well developed on the [stage,](# "पुष्टिर्नाट्येषु नैतस्य ॥द.रू. 4-36.") but Mammaṭa admitted all the nine Rasas for the purpose of a [Kavya](# "शान्तोऽपि नवमो रसः ॥मम्मट 4-35"). There are others like Udbhaṭa who disbelieved in the theory and declared that the ninth Śānta can also be developed in a drama. Our authors belong to this class. The Saṅgītaratnākara believed in nine Rasas in a drama and attacked others vehemently for admitting only [eight](# " Vide संगीतरत्नाकर 1310 to 1312 Stanzas.").
+[^14]: "Vide p. 192 तथा च ... ...and p. 194 वृद्धसम्प्रदाय... ...the latter is not clear from . It seems to be the old custom, see भरत 32-318-382"
 
-Authors like [Abhinavagupta](# "Vide नाट्यशास्त्र Vol. I. Text and commentaryfrom pp. 333 onwardso G. O. S. edition")and [Dhanañjaya](# "शममपि केचित्प्राहुः ।द. रू. 4-35")take Śama as the Sthāyibhāva of Śānta, while [Mamma](# "निर्वेदः स्थायिभावोऽस्तिका. प्र. 4-35.")ṭ[a](# "निर्वेदः स्थायिभावोऽस्तिका. प्र. 4-35."), the author of [Saṅg](# "Vide stanza 1313 Anandashram Edition.")ī[taratnākara](# "Vide stanza 1313 Anandashram Edition."), etc, acknowledge Nirveda as the Sthāyibhāva of Śānta because while giving a list of Vyabhicāribhāvas,Bharata mentions Nirveda (which is inauspicious) first. They seem to think that the intention of Bharata in doing so was to show that it can be the Sthāyibhāva of the ninth Rasa i. e. Śānta, which though not applicable in a drama, may apply to a [Kāvya](#) Rāmacandra and Guṇacandrà are not in favour of taking Nirveda as the[Sthāyibhāva](# "अयं च ( निर्वेदः ) रसेष्वनियतत्वात् कादाचित्कत्वाच्च व्यभिचारी न स्थायी । नाट्यदर्पण pp 177") but hold that it cannot be anything morethan a Vyabhicāribhāva only. Interesting discussion is found in the Saṅgītaratnākara and its commentary by Siḿhabhūpāla on the question of taking Nirveda as the Sthāyibhāva of Ś[āntas](#) (सं. र. pp. 816).
+Bharata describes the nature of the Rasas[^15] in the sixth chapter and states that there are eight Rasas in a drama[^16],which are duly enumerated there. Again, in the last stanza of the same chapter Bharata says that he has fully described the eight Rasas. The G. O. S. edition also agrees with K. M. edition in giving the number of Nāṭya-rasas in the same words. While mentioning the Varṇas and Adhidaivatas of these Rasas only eight Rasas are given in both the editions. given in both the editions. But in G. O. S. edition in the last line on page 336[^17]and in the first line on page 342[^18]nine Rasas are referred to. The variant of the first line on page 342, however, gives Jñeyāstvaṣṭau which means that eight instead of nine Rasas are described. Thus the variant gives. the same reading as in the K. M. edition[^19].
+
+[^15]: "यथा बहुद्रव्ययुतर्व्यञ्जनैर्बहुभिर्युतम् । आखादयन्ति भुञ्जाना भक्तं भक्तविदो जनाः ॥ भावाभिनयसम्बद्वान् भावयन्ति रसानिमान् । आस्वादयन्ति मनसा तस्मानाव्यरसाः स्मृताः ॥ नाट्यशास्त्र अ० 6-33-34"
+
+[^16]: "शृङ्गार हास्यकरुयारौद्रवीरभयानकाः । बीभत्सद्भुतसंज्ञाश्वेत्यष्टी नाट्ये रसाः स्मृताः । एते यष्टौ रसाः प्रोक्ता दुहिणेन महात्मना । नाट्यशास्त्र अ. 6-15-16"
+
+[^17]: "एवं नव रसा दृष्टा नाट्यज्ञैर्लक्षणान्विताः ।"
+
+[^18]: "एवमेते रसा ज्ञेया नव लक्षणलक्षिताः ॥ G. O. S. edition."
+
+[^19]: "एवमेते रसा ज्ञेयास्त्वष्टौ लक्षणलक्षिताः ॥ नाट्यशास्त्र 6-83 K. M edition"
+
+Thus it is probable that the passage from page 333 (begining with the Sāuta Rasa) to the end of the chapter excepting the last stanza is a clear interpolation made perhaps by the commentator Abhinavagupta who comments on this portion[^20].
+
+[^20]: "Abhinavagupta begins his commentary with the words ये पुनर्नव इति पठन्ति तन्मते शान्तस्वरूपमभिधीयते"
+
+Bhāmaha does not even touch the subject of drama and consequently the Rasas, saying, that they are treated at great length by others[^21]. Udbhata says that there are nine Rasas in a drama and he quotes the exact verse of Bharata with the number eight changed to nine[^22].
+
+[^21]: "नाटकं द्विपदीशम्यारासकस्कन्धकादि यत् । उक्तं तदभिनेयार्थमुक्तोन्यैस्तस्य विस्तरः ॥ भामह 1-24"
+
+[^22]: "शृङ्गारहास्य करूणरौद्रवीरभयानकाः । बीभत्साद्भुतशान्ताश्च नव नाट्ये रसाः स्मृताः ॥ उद्भट 4-4"
+
+Rudraṭa inone Āryā enumerates ten and adds that all these are Rasas[^23].The commentator Namisādhu explains the passage in question by saying that the Sthāyibhāvas, Vyabhicāribhāvas and the Sāttvikabhāvas can also be classed as Rasas[^24]. Rudrata further on gives the etymology of the word Rasa and says that all these i. e. Nirveda, etc. can be included amongst the Rasas[^25]. The commentator while commenting on this verse gives in a nut-shell the intention of Rudrața in whose opinion there cannot be a single Cittavṛtti which cannot become a Rasa when further developed[^26]. Other writers like Dhanañjaya and Mammaṭa hold that there are only eight Rasas in a drama[^27] because the ninth or the Śānta cannot be well developed on the stage,[^28] but Mammaṭa admitted all the nine Rasas for the purpose of a Kavya[^29]. There are others like Udbhaṭa who disbelieved in the theory and declared that the ninth Śānta can also be developed in a drama. Our authors belong to this class. The Saṅgītaratnākara believed in nine Rasas in a drama and attacked others vehemently for admitting only eight[^30].
+
+[^23]: "शृङ्गारवीरकरूणा बीभत्सभयानकाद्भुता हास्यः । रौद्रः शान्तः प्रेयानिति मन्तव्या रसाः सर्वे ॥ रुद्रट 12-3"
+
+[^24]: "Com: – शृङ्गारेति । गतार्थं न वरम् । शृङ्गारस्य प्राधान्यख्यापनार्थः प्रागुपन्यासः । इति शब्द एवंप्रकारार्थः । एवंप्रकारा अन्येऽपि भावा रतिनिर्वेदस्तम्भादयः सर्वेऽपि रसा बोद्धव्याः । तत्र रत्यदयोस्थायिनः । निर्वेदादयो व्यभिचारिणः । स्तम्भादयः सात्त्विकाः ।"
+
+[^25]: "रसनाद्रसत्वमेषां मधुरादीनामिवोक्तमाचार्यैः ।निर्वेदादिष्वपि तन्निकाममस्तीति तेऽपि रसाः ॥ रुद्रट 12-4"
+
+[^26]: "Com: - अयमाशयो ग्रन्थकारस्य यदुत नास्ति सा काऽपिचित्तवृत्तिर्या परिपोषं गता न रसीभवति ।"
+
+[^27]: "अष्टौ नाट्ये रसा स्मृताः ॥मम्मट 4-29."
+
+[^28]: "पुष्टिर्नाट्येषु नैतस्य ॥द.रू. 4-36."
+
+[^29]: "शान्तोऽपि नवमो रसः ॥मम्मट 4-35"
+
+[^30]: " Vide संगीतरत्नाकर 1310 to 1312 Stanzas."
+
+Authors like Abhinavagupta[^31]and Dhanañjaya[^32]take Śama as the Sthāyibhāva of Śānta, while Mamma[^33]ṭa[^33], the author of Saṅg[^35]ītaratnākara[^35], etc, acknowledge Nirveda as the Sthāyibhāva of Śānta because while giving a list of Vyabhicāribhāvas,Bharata mentions Nirveda (which is inauspicious) first. They seem to think that the intention of Bharata in doing so was to show that it can be the Sthāyibhāva of the ninth Rasa i. e. Śānta, which though not applicable in a drama, may apply to a [Kāvya](#) Rāmacandra and Guṇacandrà are not in favour of taking Nirveda as theSthāyibhāva[^37] रसेष्वनियतत्वात् कादाचित्कत्वाच्च व्यभिचारी न स्थायी । नाट्यदर्पण pp 177") but hold that it cannot be anything morethan a Vyabhicāribhāva only. Interesting discussion is found in the Saṅgītaratnākara and its commentary by Siḿhabhūpāla on the question of taking Nirveda as the Sthāyibhāva of Ś[āntas](#) (सं. र. pp. 816).
+
+[^31]: "Vide नाट्यशास्त्र Vol. I. Text and commentaryfrom pp. 333 onwardso G. O. S. edition"
+
+[^32]: "शममपि केचित्प्राहुः ।द. रू. 4-35"
+
+[^33]: "निर्वेदः स्थायिभावोऽस्तिका. प्र. 4-35."
+
+[^35]: "Vide stanza 1313 Anandashram Edition."
+
+[^37]: "अयं च ( निर्वेदः
 
 The commentator Siḿhabhūpāla of the Saṅgītaratnākara explains certain terms of the text and remarks at the end that all these together form the Sthāyibhāva of Śānta. Mammaṭa, although he takes Nirveda both as a Sthāyibhāva and a Vyabhicāribhāva, does not give two separate definitions. Bhānudatta in his Rasatarangiṇī raises the question as to how Nirveda can be both Sthāyī and Vyabhicārī, and answers that Nirveda can both be Sthāyī and Vyabhicārī by the two different Upādhis(distinguishing properties) namely रसपर्यन्तस्थायित्वम्(of remaining
 
@@ -208,7 +278,13 @@ Jagannātha in his Rasagaṅgadhara gives the distinction between a Sthāyīand 
 
 Our authors too say that वासनात्मतया स्थितं स्थायिनम्, etc. (page 162–20) i. e. Sthāyīlives in the mind in the form of Vāsanās, etc.
 
-Mammaṭa while treating of the Rasadoṣas gives an example and remarks that"here transitoriness, the Vibhāva of Śānta Rasa which is opposed to the sentiment of Śṛngāra and the Vyabhicārī of the former, namely, the Nirveda as suggested by the Vibhāva are [indicated.](# "अत्र शृङ्गारे प्रतिकूलस्य शान्तस्यानित्यताप्रकाशनरूपोविभावस्तत्प्रकाशितो निर्वेदश्च ब्यभिचायुपात्तः ।का. प्र. 7.")''Our authors [remark](# "Vide नाट्यदर्पण pp. 177-14-16.") that Mammaṭa contradicts himself by saying in one place that Nirveda is the Sthāyīof Śānta [Rasa](# "निर्वेदः स्थायिभावोऽस्ति शान्तोऽपि नवमो रसः । का, प्र. 4 35,")and in another place that Nirveda is the Vyabhicārī to the
+Mammaṭa while treating of the Rasadoṣas gives an example and remarks that"here transitoriness, the Vibhāva of Śānta Rasa which is opposed to the sentiment of Śṛngāra and the Vyabhicārī of the former, namely, the Nirveda as suggested by the Vibhāva are indicated.[^38]''Our authors remark[^39] that Mammaṭa contradicts himself by saying in one place that Nirveda is the Sthāyīof Śānta Rasa[^40]and in another place that Nirveda is the Vyabhicārī to the
+
+[^38]: "अत्र शृङ्गारे प्रतिकूलस्य शान्तस्यानित्यताप्रकाशनरूपोविभावस्तत्प्रकाशितो निर्वेदश्च ब्यभिचायुपात्तः ।का. प्र. 7."
+
+[^39]: "Vide नाट्यदर्पण pp. 177-14-16."
+
+[^40]: "निर्वेदः स्थायिभावोऽस्ति शान्तोऽपि नवमो रसः । का, प्र. 4 35,"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 1 शमं लक्षयति । शम इति । अत्रादिशब्देनेश्वरानुप्रहसत्सङ्गमादिकं गृह्यते । विकारा विषयाभिलाषादयः। तद्रहितचित्तत्वं वैराग्यादिजन्यतृष्णाक्षयाद्यपरपर्यायो निर्वेदाख्यो मनोविकार शम इत्यर्थः। प्रतापरुद्रयशोभूषण. pp. 236.
@@ -217,9 +293,15 @@ Mammaṭa while treating of the Rasadoṣas gives an example and remarks that"he
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-same Śānta [Rasa](# "Vide foot-note 3 pp. 12."). How far they are correct in attacking Mammaṭa can be seen from the two different functions these two kinds of Nirvedas have to discharge. Mammaṭa could have changed the name of the Sthāyīof Śānta Rasa but he did not do so out of respect for Bharata who mentioned Nirveda first in the list of the VyabhicārīBhāvas, and for this reason he took Nirveda as the Sthāyī. Nirveda or remorse is inauspicious and as such it should not have been placed first in the [list](# "निर्वेदस्यामङ्गलप्रायस्य प्रथममनुपादेयत्वेऽप्युपादानं व्यभिचारित्वेऽपि स्थायिताभिधानार्थम् । का. प्र. 4."). This leads Mammaṭa to suppose that it can be taken as the Sthāyibhāva of Śānta which, however, Bharata did not mention.
+same Śānta Rasa[^41]. How far they are correct in attacking Mammaṭa can be seen from the two different functions these two kinds of Nirvedas have to discharge. Mammaṭa could have changed the name of the Sthāyīof Śānta Rasa but he did not do so out of respect for Bharata who mentioned Nirveda first in the list of the VyabhicārīBhāvas, and for this reason he took Nirveda as the Sthāyī. Nirveda or remorse is inauspicious and as such it should not have been placed first in the list[^42]. This leads Mammaṭa to suppose that it can be taken as the Sthāyibhāva of Śānta which, however, Bharata did not mention.
 
-Rati, the Sthāyī of Śṛngāra, becomes Vyabhicārī in other Rasas; in the same way every Sthāyī becomes Vyabhicārīin different Rasas. These are named as Sthāyī or Vyabhicārīaccording as they are produced by many or a few [Vibhāvas](# "रत्यादयः स्थायिभावाः स्युर्भूयिष्टविभावजाः । स्तोकैर्विभावैरूत्पन्नास्त एवं व्यभिचारिणः । रसान्तरेष्वपि तदा यथायोगं भवन्ति ते ॥ सं. र. pp. 840."). In the Saṅgītaratnākara it is stated that there is a danger of the Śama becoming permanent; it may not become momentary when required in developing other [Rasas](#). Hence the Saṅgītaratnākara takes Nirveda as the sthāyi of Śānta.
+[^41]: "Vide foot-note 3 pp. 12."
+
+[^42]: "निर्वेदस्यामङ्गलप्रायस्य प्रथममनुपादेयत्वेऽप्युपादानं व्यभिचारित्वेऽपि स्थायिताभिधानार्थम् । का. प्र. 4."
+
+Rati, the Sthāyī of Śṛngāra, becomes Vyabhicārī in other Rasas; in the same way every Sthāyī becomes Vyabhicārīin different Rasas. These are named as Sthāyī or Vyabhicārīaccording as they are produced by many or a few Vibhāvas[^43]. In the Saṅgītaratnākara it is stated that there is a danger of the Śama becoming permanent; it may not become momentary when required in developing other [Rasas](#). Hence the Saṅgītaratnākara takes Nirveda as the sthāyi of Śānta.
+
+[^43]: "रत्यादयः स्थायिभावाः स्युर्भूयिष्टविभावजाः । स्तोकैर्विभावैरूत्पन्नास्त एवं व्यभिचारिणः । रसान्तरेष्वपि तदा यथायोगं भवन्ति ते ॥ सं. र. pp. 840."
 
 While treating of Rasadoṣas our authors sometimes agree with Mammaṭa and differ from him on other occasions. The
 
@@ -230,7 +312,9 @@ Comः – असौ शमस्तु स्वतो विषयवैमु
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Rasadoṣas with examples as given in the Kāvyaprakāsa and the Nāṭyadarpaṇa are given below with a view to show more clearly the points of agreement and difference existing in the two works on the same questionः The lengthy description of Hayagrīva in the Hayagrīvavadha.Kāvya is pointed out as an example of the [fourth](# "Supra 4.") Rasadosa by Mammaṭa. Our authors say that the Vīra is the chief Rasa in that poem and Hayagrīva the Pratināyaka should be described at full length with every possible detail. It is really a Guṇa, for there is greater skill in the hero if he kills such formidable enemies. Our authors are likely to be right in the case of Vīra but they would certainly mar the Šṛngāra Rasa if they allow the Pratināyaka to be described so highly.
+Rasadoṣas with examples as given in the Kāvyaprakāsa and the Nāṭyadarpaṇa are given below with a view to show more clearly the points of agreement and difference existing in the two works on the same questionः The lengthy description of Hayagrīva in the Hayagrīvavadha.Kāvya is pointed out as an example of the fourth[^44] Rasadosa by Mammaṭa. Our authors say that the Vīra is the chief Rasa in that poem and Hayagrīva the Pratināyaka should be described at full length with every possible detail. It is really a Guṇa, for there is greater skill in the hero if he kills such formidable enemies. Our authors are likely to be right in the case of Vīra but they would certainly mar the Šṛngāra Rasa if they allow the Pratināyaka to be described so highly.
+
+[^44]: "Supra 4."
 
 The first among the Rasadoṣas given in Kāvyaprakāśa is that the Vyabhicārī, the Rasa and the Sthāyibhāva should not be expressed in words. This is a rule. But our authors differ from mammaṭa and cite the example दूरादुत्सुकमागतेetc. (Nāṭyadaypaṇa pp. 175) in support of their statement, and say that the Rasa is not marred in any way although the word Utsuku (which is the same as औत्सुक्य a Vyabhicārī) is used.
 
@@ -255,11 +339,17 @@ The first among the Rasadoṣas given in Kāvyaprakāśa is that the Vyabhicār�
    का.प्र. 7  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Now Mammaṭa gives two [examples](# "येषां व्यभिचारिणां नासाधारणानुभावादिसम्भवस्त एव स्वशब्देनोपादेया न खल्वन्येऽपीति भावः ॥") as an exception to this rule, and declares that there is no Doṣa if at times the Sañcāribhāva (i. e. Vyabhicāri-bhāva) is expressed.The commentatorexplains that when the Anubhāvas of a Vyabhicārī are uncommon the Vyabhicārī should not be expressed in words as Anubhāvas suggest the particular Vyabhicārī , but when these Anubhāvas are common to many other Vyabhicārīs then only the particular Vyabhicārī should be expressed in [words](# "सुखदुःखात्मको रसः ।     नाट्यदर्पण pp. 158-159.").
+Now Mammaṭa gives two examples[^45] as an exception to this rule, and declares that there is no Doṣa if at times the Sañcāribhāva (i. e. Vyabhicāri-bhāva) is expressed.The commentatorexplains that when the Anubhāvas of a Vyabhicārī are uncommon the Vyabhicārī should not be expressed in words as Anubhāvas suggest the particular Vyabhicārī , but when these Anubhāvas are common to many other Vyabhicārīs then only the particular Vyabhicārī should be expressed in words[^46].
 
-Another point on which Rāmacandra differs not only from Mammaṭa but also from his preceptor Hemacandra, is that the Rasa has the power to produce the feelings ofboth pleasure and [pain.](# "ब्रह्मानन्दाखादमिवानुभावयन् का. प्र. 4. परब्रह्मास्वादसोदरः काव्यानुशासन अ. 2 ब्रह्मास्वादसहोदरः सा. दर्पण. 3.")
+[^45]: "येषां व्यभिचारिणां नासाधारणानुभावादिसम्भवस्त एव स्वशब्देनोपादेया न खल्वन्येऽपीति भावः ॥"
+
+[^46]: "सुखदुःखात्मको रसः ।     नाट्यदर्पण pp. 158-159."
+
+Another point on which Rāmacandra differs not only from Mammaṭa but also from his preceptor Hemacandra, is that the Rasa has the power to produce the feelings ofboth pleasure and pain.[^47]
 
 He divides Rasas into two classes, namely, Sukhātmaka and Duḥkhātmaka. Other scholars including his preceptor Hema – candra hold that all Rasas are capable of evoking pleasure only, and they describe the aesthetic pleasure derived from the Kāvya as equal to the pleasure originating from the realization of self or [Brahmāsvāda.](#)
+
+[^47]: "ब्रह्मानन्दाखादमिवानुभावयन् का. प्र. 4. परब्रह्मास्वादसोदरः काव्यानुशासन अ. 2 ब्रह्मास्वादसहोदरः सा. दर्पण. 3."
 
 To the question why do people go to witness the Duḥkhātma ka
 
@@ -281,7 +371,9 @@ To the question why do people go to witness the Duḥkhātma ka
 
 dramas they reply that it is owing to the skill of the poet or the actor.
 
-They do not believe in the theory that the actor cannot get the feeling of the different Rasas in his own mind while acting on the stage. They are of opinion that the actor also may feel the same pleasure in his own mind which he attempts to evoke in the mind of his audience, like a prostitute or a singer who while trying to please others may at time themselves get a great [pleasure](# "पण्यजियो हि धनलोभेन पररस्यर्थं रतादि विपञ्चयन्त्यः कदाचित् स्वयमपि परां रतिमनुभवन्ति । गायनाश्च   परं रञ्जयन्तः कदाचित्स्वयमपि रञ्यन्ते ॥ नाट्यदर्पण pp. 160.").
+They do not believe in the theory that the actor cannot get the feeling of the different Rasas in his own mind while acting on the stage. They are of opinion that the actor also may feel the same pleasure in his own mind which he attempts to evoke in the mind of his audience, like a prostitute or a singer who while trying to please others may at time themselves get a great pleasure[^48].
+
+[^48]: "पण्यजियो हि धनलोभेन पररस्यर्थं रतादि विपञ्चयन्त्यः कदाचित् स्वयमपि परां रतिमनुभवन्ति । गायनाश्च   परं रञ्जयन्तः कदाचित्स्वयमपि रञ्यन्ते ॥ नाट्यदर्पण pp. 160."
 
 While describing the Vilāsa (page 70) our authors say that Duryodhana's Vilāsa with Bhānumatī is a Doṣa, but that is certainly no place for talking of Doșas. It is a blemish which is called the Akāṇḍe Prathana (want of propriety) and as such it is again described along with other Doṣas on page 174 which is its proper place.
 
@@ -1407,7 +1499,9 @@ G. K. Shrigondekar.
 
 **![](../books_images/U-IMG-168944322711.png)**
 
-**[च](# "ॐ नमो वीतरागाय । अर्हं च० ॥७॥")तुर्वर्गफलां नित्यं जैनीं वाचमुपास्महे ।**
+**च[^49]तुर्वर्गफलां नित्यं जैनीं वाचमुपास्महे ।**
+
+[^49]: "ॐ नमो वीतरागाय । अर्हं च० ॥७॥"
 
 **रूपैर्द्वादशभिर्विश्वं यया न्याय्ये धृतंपथि ॥१॥**
 
@@ -1676,7 +1770,9 @@ G. K. Shrigondekar.
 
 **एतौ प्रभूतकार्यत्वान्नाटकादिचतुष्टये ॥ २५ ॥ **
 
-एवमिति 'अङ्कानर्हस्य' इत्यादि सर्वं विष्कम्भकलक्षणमत्रातिदिश्यते । केव\[ल\]मसौ नीचैरेव पात्रैः परार्थैर्मुख्यनायकादिकार्यनिष्ठैर्न पुनः स्वकृत्यैकतत्परैः। यथा ' [आणत्त](# "आज्ञप्ताऽस्मि भर्तृदारिकया ।") म्हि भट्ट(ट्टि) दारियाए ' इत्यादि । नीचप्रयुक्तत्वादेव च ग्राम्यार्थप्रायेण प्राकृतेन, आदिशब्दात् शू(शौ)रसेन्यादिना प्रवेशको भवति । अप्रत्यक्षान् अर्थान् सामाजिकहृदये \[प्रवेश \]यतीति प्रवेशकः। केचित् प्रवेशकं प्रथमाङ्कस्यादौ नेच्छन्ति । एताविति विष्कम्भक-प्रवेशकौ । नाटकादिचतुष्टयं नाटक-प्रकरण – नाटिका-प्रकरण्यः। नाटकादौ हि परिमितेनोपायेन बहुषु मुख्यावान्तरकार्येषु नृपादीनां तत्सहायानां चामात्यादीनां व्युत्पत्तिः क्रियते इत्यत्रैव प्रभूतावान्तरकार्यव्युत्पादकौ विष्कम्भक-प्रवेशकौ, न व्यायोगादिषुएकाङ्केषु तावदल्पवृत्तत्वेनाल्पकार्यत्वात् । बह्वङ्केष्वपि समवकारस्य परस्परासम्बद्धाङ्कत्वादपरेषां तु कतिपयदिनवृत्तत्वादिति ।अङ्कास्यादीनि तु स्वल्पसूच्यत्वेन यथासम्भवं रूपकान्तरेष्वपि भवन्ति ॥२५॥
+एवमिति 'अङ्कानर्हस्य' इत्यादि सर्वं विष्कम्भकलक्षणमत्रातिदिश्यते । केव\[ल\]मसौ नीचैरेव पात्रैः परार्थैर्मुख्यनायकादिकार्यनिष्ठैर्न पुनः स्वकृत्यैकतत्परैः। यथा ' आणत्त[^50] म्हि भट्ट(ट्टि) दारियाए ' इत्यादि । नीचप्रयुक्तत्वादेव च ग्राम्यार्थप्रायेण प्राकृतेन, आदिशब्दात् शू(शौ)रसेन्यादिना प्रवेशको भवति । अप्रत्यक्षान् अर्थान् सामाजिकहृदये \[प्रवेश \]यतीति प्रवेशकः। केचित् प्रवेशकं प्रथमाङ्कस्यादौ नेच्छन्ति । एताविति विष्कम्भक-प्रवेशकौ । नाटकादिचतुष्टयं नाटक-प्रकरण – नाटिका-प्रकरण्यः। नाटकादौ हि परिमितेनोपायेन बहुषु मुख्यावान्तरकार्येषु नृपादीनां तत्सहायानां चामात्यादीनां व्युत्पत्तिः क्रियते इत्यत्रैव प्रभूतावान्तरकार्यव्युत्पादकौ विष्कम्भक-प्रवेशकौ, न व्यायोगादिषुएकाङ्केषु तावदल्पवृत्तत्वेनाल्पकार्यत्वात् । बह्वङ्केष्वपि समवकारस्य परस्परासम्बद्धाङ्कत्वादपरेषां तु कतिपयदिनवृत्तत्वादिति ।अङ्कास्यादीनि तु स्वल्पसूच्यत्वेन यथासम्भवं रूपकान्तरेष्वपि भवन्ति ॥२५॥
+
+[^50]: "आज्ञप्ताऽस्मि भर्तृदारिकया ।"
 
 अथ अङ्कास्य-चूलिके लक्षयति-
 
@@ -1731,7 +1827,9 @@ G. K. Shrigondekar.
 इत्युपक्रमे मृदङ्गशब्दश्रवणादनन्तरं तान्येव सर्वाणि पात्राणि द्वितीयाङ्कमारभन्त इति ।
 
 अन्ये तु यत्राङ्केअन्याङ्कानां बीजलक्षणोऽर्थोऽवतार्यते तमङ्कावतारमामनन्ति । यथा रत्नावल्यां द्वितीयोऽङ्कः। तत्र हि –
--“[ईदिसस्स](# "१ ईदृशस्य कन्यकारत्नस्येदृश एव वरेऽभिलाषेण भवितव्यम् ।") कन्नगारयणस्स ईदिसे य्येव वरे अहिलासेण भोदव्वं“इत्यादिकोऽनुरागलक्षणः सर्वाङ्कानामर्थ इति । अयं च गर्भाङ्कोऽप्युच्यते । यदाहुः-
+-“ईदिसस्स[^51] कन्नगारयणस्स ईदिसे य्येव वरे अहिलासेण भोदव्वं“इत्यादिकोऽनुरागलक्षणः सर्वाङ्कानामर्थ इति । अयं च गर्भाङ्कोऽप्युच्यते । यदाहुः-
+
+[^51]: "१ ईदृशस्य कन्यकारत्नस्येदृश एव वरेऽभिलाषेण भवितव्यम् ।"
 
 **अङ्कान्तरेव चाङ्को निपतति यस्मिन् प्रयोगमासाद्य ।**
 
@@ -1861,7 +1959,9 @@ G. K. Shrigondekar.
 **द्व्यर्था च**
 
 वागिर्ताहात्तरत्र च सम्बध्यते । द्व्यर्था श्लेषादिवशात् प्रस्तुतोपयोग्यर्थान्तरोपक्षेपिणी । यथा--"प्रीत्युत्कर्षकृतो दशामुदयनस्येन्दोवि(रि)वोदीक्षते” ।अत्र हि सन्ध्यावर्णनप्रयोजनेन काव्यं प्रयुक्तं सागरिकां प्रत्युदयनाभिव्यक्तिलक्षणं प्रयोजनान्तरं सम्पादयति । तथा च“सागरिका –   
-[अयं](# "१ अयं स राजोदयनो यस्मा अहं तातेन दत्ता ।") सो राया उदयणो जस्स अहं तादेण दिन्ना“इति ॥
+अयं[^52] सो राया उदयणो जस्स अहं तादेण दिन्ना“इति ॥
+
+[^52]: "१ अयं स राजोदयनो यस्मा अहं तातेन दत्ता ।"
 
 अथ चतुर्थमाह –
 
@@ -1877,8 +1977,10 @@ G. K. Shrigondekar.
 
 “चाणक्यः-अपि नाम दुरात्मा राक्षसो गृह्येत ।”
 
-एवमस्फुटेऽर्थे उपक्षिप्ते“(प्रविश्य) सिद्धार्थकः – [अय्य](# "१ आर्य ! गृहीतः ।")! गहिदो"इति प्रत्युत्तरं प्रस्तुतार्थसम्बद्धं विशेषनिश्चयकारि च । अत एव पुनः“चाणक्यः – (सहर्षमात्मगतम्) हन्त ! गृहीतो दुरात्मा राक्षसः इति । इदं प्रत्युत्तरं सन्देशग्रहण-ज्ञापनप्रयोजनेन प्रयुक्तं चाणक्यस्य राक्षसग्रहं
+एवमस्फुटेऽर्थे उपक्षिप्ते“(प्रविश्य) सिद्धार्थकः – अय्य[^53]! गहिदो"इति प्रत्युत्तरं प्रस्तुतार्थसम्बद्धं विशेषनिश्चयकारि च । अत एव पुनः“चाणक्यः – (सहर्षमात्मगतम्) हन्त ! गृहीतो दुरात्मा राक्षसः इति । इदं प्रत्युत्तरं सन्देशग्रहण-ज्ञापनप्रयोजनेन प्रयुक्तं चाणक्यस्य राक्षसग्रहं
 निश्चाययतीति सामान्यलक्षणमिति ।
+
+[^53]: "१ आर्य ! गृहीतः ।"
 
 **प्रत्येकं चकारश्चतुर्णामपि नाटकं प्रति प्राधान्यख्यापनार्थ इति ॥ ३१॥**
 
@@ -2002,13 +2104,17 @@ G. K. Shrigondekar.
 
 
 
-“[तहा](# "१ तथापि नास्त्यन्यो दर्शनोपाय इति यथा तथाऽऽलिख्य यथासमीहितं करिष्ये ।") वि नत्थि अन्नो दंसणोवाउ त्ति जहा तहा आलिहिय जधासमीहिदं करइस्सं । इत्यादि ।
+“तहा[^54] वि नत्थि अन्नो दंसणोवाउ त्ति जहा तहा आलिहिय जधासमीहिदं करइस्सं । इत्यादि ।
+
+[^54]: "१ तथापि नास्त्यन्यो दर्शनोपाय इति यथा तथाऽऽलिख्य यथासमीहितं करिष्ये ।"
 
 यथा वा नलविलासे तृतीयेऽङ्के-
 
 "**राजा** – (सत्वरम्) मकरिके ! प्रभवसि राजपुत्रीमिह समानेतुम् ?
 
-**मकरिका** – [अहं](# "२ अहंतावत् प्रयतिष्ये, आगमनं पुनर्दैवस्यायत्तम् ।") दाव पयतिस्सं । आगमणं उण दिव्वस्स आयत्तं ।
+**मकरिका** – अहं[^55] दाव पयतिस्सं । आगमणं उण दिव्वस्स आयत्तं ।
+
+[^55]: "२ अहंतावत् प्रयतिष्ये, आगमनं पुनर्दैवस्यायत्तम् ।"
 
 **राजा** – तर्हि यतस्व ।”इत्यादीति ॥
 
@@ -2138,7 +2244,11 @@ G. K. Shrigondekar.
 
 **बीजस्यौन्मुख्यवान् गर्भो लाभालाभगवेषणैः।**
 
-उत्पत्त्युद्घाटनदशाद्वयाविष्टस्य बीजस्योन्मुख्यं फलजननाभिमुख्यं तद्वान् । प्राप्त्याशया तृतीयावस्थया परिच्छिन्नो लाभालाभगवेषणैः पुनः पुनर्भवद्भिर्युक्तः प्रधानवृत्तांशो गर्भसन्धिः। यथा वेणीसंहारे तृतीय-चतुर्थ-पञ्चमेष्वङ्केषु । नेपथ्ये फलसाधकानां पाण्डवानां वृत्ते भीमसेनेन कृष्टा येन शिरोरुहेषु पशुना' इत्यादिना प्रतिज्ञानिर्वहणोपक्रमात् विजयानुगुण्यलाभेन बीजस्यौन्मुख्यं दर्शितम् । तथा ‘[भगदत्तलुहिलकुम्भके’](# "१ भगदत्तरुधिरकुम्भकः ।")इत्यादिना राक्षसीमुखसूचितेन प्रधानयोधवधेन ' '[एशे](# "२ एष खलु धृष्टद्युम्नेन केशेषु गृहीत्वा द्रोणो व्यापाद्यते ।") षु (खु) धिट्ठज्जुण्णेणं केशेषु गिण्हियदोणे वावायीइदि' इत्यादिना राक्षस मुखसूचितेन च सेनापतिवधेन स्वबलक्षोभकारिणा कर्णाश्वत्थाम्नोः कलहेन च दुर्योधनस्य विजयालाभलक्षणं पाण्डववृत्ते फलानुगुणं बीजस्यौन्मुखं(ख्यम्)तथा – 'आः शक्तिरस्ति वृकोदरस्य
+उत्पत्त्युद्घाटनदशाद्वयाविष्टस्य बीजस्योन्मुख्यं फलजननाभिमुख्यं तद्वान् । प्राप्त्याशया तृतीयावस्थया परिच्छिन्नो लाभालाभगवेषणैः पुनः पुनर्भवद्भिर्युक्तः प्रधानवृत्तांशो गर्भसन्धिः। यथा वेणीसंहारे तृतीय-चतुर्थ-पञ्चमेष्वङ्केषु । नेपथ्ये फलसाधकानां पाण्डवानां वृत्ते भीमसेनेन कृष्टा येन शिरोरुहेषु पशुना' इत्यादिना प्रतिज्ञानिर्वहणोपक्रमात् विजयानुगुण्यलाभेन बीजस्यौन्मुख्यं दर्शितम् । तथा ‘भगदत्तलुहिलकुम्भके’[^56]इत्यादिना राक्षसीमुखसूचितेन प्रधानयोधवधेन ' 'एशे[^57] षु (खु) धिट्ठज्जुण्णेणं केशेषु गिण्हियदोणे वावायीइदि' इत्यादिना राक्षस मुखसूचितेन च सेनापतिवधेन स्वबलक्षोभकारिणा कर्णाश्वत्थाम्नोः कलहेन च दुर्योधनस्य विजयालाभलक्षणं पाण्डववृत्ते फलानुगुणं बीजस्यौन्मुखं(ख्यम्)तथा – 'आः शक्तिरस्ति वृकोदरस्य
+
+[^56]: "१ भगदत्तरुधिरकुम्भकः ।"
+
+[^57]: "२ एष खलु धृष्टद्युम्नेन केशेषु गृहीत्वा द्रोणो व्यापाद्यते ।"
 
 
 
@@ -2332,7 +2442,9 @@ G. K. Shrigondekar.
 
 आमुखानन्तरमुप्तस्य बीजस्य स्वल्पप्ररोहः। किञ्चित्फलानुष्ठानानुकूल्यप्रदर्शनं धान्यस्योच्छूनतेवोद्भेदः। बीजस्योद्घाटनमङ्कुरकल्पम्, उद्भेदः पुनरङ्कुरकल्पादुद्घाटनाद् भूमिन्यस्तधान्योच्छूनतेव प्राचीनावस्था इत्ययं मुखसन्धेरेवाङ्गम्, न पुनरुद्घाटरूपत्वात् प्रतिमुखसन्धेः। यथा वेणीसंहारे-
 
-**"[नाध](# "१ नाथ ! पुनरपि त्वयाऽऽगत्याहं समाश्वसितव्या ।")पुणो वि तए आगच्छिय अहं समासासइदव्वा ।"**
+**"नाध[^58]पुणो वि तए आगच्छिय अहं समासासइदव्वा ।"**
+
+[^58]: "१ नाथ ! पुनरपि त्वयाऽऽगत्याहं समाश्वसितव्या ।"
 
 इति द्रौपद्याऽभिहितो भीमः प्रत्याह-
 
@@ -2354,7 +2466,9 @@ G. K. Shrigondekar.
 
 “**सीता** – (समन्तादवलोक्य रामं च सविशेषं निर्वर्ण्य स्वगतम्) कथमयमनङ्गोऽप्यङ्गमास्थाय चापारोपणं द्रष्टुमायातः ! प्रसीद भगवन्ननङ्ग ! प्रसीद तथा कुर्या यथा राम एव चापारोपणाय प्रभवति ।
 
-**लवङ्गिका** – (अङ्गुल्या रामं दर्शयन्ती) [जं](# "१ यं भर्तृदारिका इयन्तं कालं मनोरथगोचरं कृतवती, तं साम्प्रतं दृष्टिगोचरं करोतु ।") भट्टिदारिया इत्तियं कालं मणोरहगोयरं कयवदी तं संपयं दिट्ठिगोयरं करेदु ।
+**लवङ्गिका** – (अङ्गुल्या रामं दर्शयन्ती) जं[^59] भट्टिदारिया इत्तियं कालं मणोरहगोयरं कयवदी तं संपयं दिट्ठिगोयरं करेदु ।
+
+[^59]: "१ यं भर्तृदारिका इयन्तं कालं मनोरथगोचरं कृतवती, तं साम्प्रतं दृष्टिगोचरं करोतु ।"
 
 **सीता** – (ससम्भ्रमं स्वगतम्) कथमहं राममेव अनङ्गमज्ञासिषम् ?“इत्यनङ्गभ्रान्त्या निगूढस्य रामस्य लवङ्गिकावचसा उद्भेदः॥
 
@@ -2380,7 +2494,9 @@ G. K. Shrigondekar.
 
 
 
-"[जं](# " यदसुरसमराभिमुखस्य हरेर्मङ्गलं तद् युष्माकं भवतु ।") असुरसमराभिमुहस्स हरिणो मङ्गलं तं तुम्हाणं भोदु ।“इति ।
+"जं[^60] असुरसमराभिमुहस्स हरिणो मङ्गलं तं तुम्हाणं भोदु ।“इति ।
+
+[^60]: " यदसुरसमराभिमुखस्य हरेर्मङ्गलं तद् युष्माकं भवतु ।"
 
 **अथ विलोभनम् – -**
 
@@ -2388,7 +2504,9 @@ G. K. Shrigondekar.
 
 स्तुतेर्गुणवदेतदिति श्लाघातः प्रस्तुते कृत्ये गार्ध्यमभिलाषस्थिरीकरणं विलोभनम् । यथा वेणीसंहारे 'चञ्चद्भुज – ' इत्यादि श्लोकानन्तरं द्रौपदी-
 
-[नाध](# "२ नाथ ! किं दुष्करं त्वया परिकुपितेव ? तदनुगृह्णन्तु एतं व्यवसितं देवताः ।") ! किं दुक्करं तए परिकुविएण ? ता अणुगिण्हंतु एदं ववसिदं देवदाउ ।”
+नाध[^61] ! किं दुक्करं तए परिकुविएण ? ता अणुगिण्हंतु एदं ववसिदं देवदाउ ।”
+
+[^61]: "२ नाथ ! किं दुष्करं त्वया परिकुपितेव ? तदनुगृह्णन्तु एतं व्यवसितं देवताः ।"
 
 इत्यनेन सुयोधनवधस्य गुणवत्त्वख्यापनाद् भीमस्य गार्ध्यापदं विलोभनम् । इदं च परिन्यासानन्तरमेव निबध्यते । सन्ध्यन्तरसाधारण्याय चोक्तक्रमेणोद्देशः।
 
@@ -2412,7 +2530,9 @@ G. K. Shrigondekar.
 
 
 
-“\[ **द्रौपदी** – \] [नाध](# " नाथ ! मा खलु याज्ञसेनीपरिभवोद्दीप्तकोपा अनपेक्षितशरीराः परिक्रमिष्यथ, यतोऽप्रमत्तसंचरणीयानि रिपुबलानि श्रूयन्ते ।")! मा खु जण्णसेणीपरिभवुद्दीविदकोवा अणवेक्खिदसरीरा परिक्कमिस्सध यदो अपमत्तसंचरणीयाइंरिउबलाइं सुणीयंति ।
+“\[ **द्रौपदी** – \] नाध[^62]! मा खु जण्णसेणीपरिभवुद्दीविदकोवा अणवेक्खिदसरीरा परिक्कमिस्सध यदो अपमत्तसंचरणीयाइंरिउबलाइं सुणीयंति ।
+
+[^62]: " नाथ ! मा खलु याज्ञसेनीपरिभवोद्दीप्तकोपा अनपेक्षितशरीराः परिक्रमिष्यथ, यतोऽप्रमत्तसंचरणीयानि रिपुबलानि श्रूयन्ते ।"
 
 **भीमः** – अयि सुक्षत्रिये ! अन्योन्यास्फालभिन्न-"
 
@@ -2430,9 +2550,13 @@ G. K. Shrigondekar.
 
 अयं ह्यर्थो भीमसेनस्य कुरुभिः सह सन्धिभेदमापादयंश्चान्तः सुखयतीति । तथा भणितिवैचित्र्यार्थमङ्गानि कवय एकस्मिन्नपि सन्धावावर्तयन्ति ।यथा वेणीसंहारे इदमेवाङ्गंपुनर्निबद्धम् । तथाहि-
 
-“**चेटी** – (द्रौपदीमुद्दिश्य सानन्दम्) [भट्टिणि](# " भर्त्रि ! परिकुपित इव कुमारो लक्ष्यते ।") ! परिकुविदो विअ कुमारो लक्खीयदि ।
+“**चेटी** – (द्रौपदीमुद्दिश्य सानन्दम्) भट्टिणि[^63] ! परिकुविदो विअ कुमारो लक्खीयदि ।
 
-**द्रौपदी** – [एवं](# " एवं तावदवधीरणाऽपि मामेषा समाश्वासयति। तदत्रैवोपविश्य शृणुमस्तावद नाथस्य व्यवसितम् ।") ता अवधीरणा वि मंएसा समासासेदि । ता इध य्येव उववसिअ सुणामो दाव नाधस्स ववसिदं ।
+[^63]: " भर्त्रि ! परिकुपित इव कुमारो लक्ष्यते ।"
+
+**द्रौपदी** – एवं[^64] ता अवधीरणा वि मंएसा समासासेदि । ता इध य्येव उववसिअ सुणामो दाव नाधस्स ववसिदं ।
+
+[^64]: " एवं तावदवधीरणाऽपि मामेषा समाश्वासयति। तदत्रैवोपविश्य शृणुमस्तावद नाथस्य व्यवसितम् ।"
 
 
 
@@ -2446,7 +2570,9 @@ G. K. Shrigondekar.
 
 **सन्धिं करोतु भवतां नृपतिः पणेन ॥**
 
-**द्रौपदी** – (सहर्षम्) [असुदपुरवं](# " अश्रुतपूर्वमीयां वचनम् ,तत्पुनरपि भण ।") ईदिसं वयणं ता पुणो वि भण ।“इति द्रौपद्या अभिप्रेतार्थप्राप्तिरिति ॥
+**द्रौपदी** – (सहर्षम्) असुदपुरवं[^65] ईदिसं वयणं ता पुणो वि भण ।“इति द्रौपद्या अभिप्रेतार्थप्राप्तिरिति ॥
+
+[^65]: " अश्रुतपूर्वमीयां वचनम् ,तत्पुनरपि भण ।"
 
 अथ युक्तिः-
 
@@ -2498,7 +2624,9 @@ G. K. Shrigondekar.
 
 एकस्य सुखस्य प्राप्तिर्यथा रत्नावल्याम्-
 
-"[कंचणमाले](# " कञ्चनमाले ! प्रतिष्ठापयाशोकमूलेभगवन्तं प्रद्युम्नम् ।") ! पइठ्ठावेहि असोयमूले भयवंतं पज्जुनं ।”(इत्युपक्रमे)
+"कंचणमाले[^66] ! पइठ्ठावेहि असोयमूले भयवंतं पज्जुनं ।”(इत्युपक्रमे)
+
+[^66]: " कञ्चनमाले ! प्रतिष्ठापयाशोकमूलेभगवन्तं प्रद्युम्नम् ।"
 
 **राजा** –
 
@@ -2588,7 +2716,9 @@ G. K. Shrigondekar.
 
 यथा वा नलविलासे तृतीयाङ्के--
 
-“**दमयन्ती** – (राजानमवलोक्य स्वगतम्) [कहमेस](# " कथमेष स्वयं भगवान् पञ्चबाणः ! अथवा वराकस्याङ्गस्य कुत ईदृशोऽङ्गसौभाग्यप्राग्भारः ? तत् कृतार्था दमयन्त्या अङ्गचङ्गता।") सयं भयवं पंचबाणो ! अहवा वरायस्स अणंगस्स कुदो ईदिसो अंगसोहग्गप्पब्भारो ? ता कदत्थो दमयन्तीयाए अंगचंगिमा ।“इति ।
+“**दमयन्ती** – (राजानमवलोक्य स्वगतम्) कहमेस[^67] सयं भयवं पंचबाणो ! अहवा वरायस्स अणंगस्स कुदो ईदिसो अंगसोहग्गप्पब्भारो ? ता कदत्थो दमयन्तीयाए अंगचंगिमा ।“इति ।
+
+[^67]: " कथमेष स्वयं भगवान् पञ्चबाणः ! अथवा वराकस्याङ्गस्य कुत ईदृशोऽङ्गसौभाग्यप्राग्भारः ? तत् कृतार्था दमयन्त्या अङ्गचङ्गता।"
 
 
 
@@ -2640,16 +2770,22 @@ G. K. Shrigondekar.
 
 **ध्रुवदेवी** – (सूत्रधारीमाह)
 
-[हंजे](# "हज्जे! इयं सा ईदृशी आर्यपुत्रस्य करुणापराधीनता") ! इयं सा ईदिसी अज्जउत्तस्स करुणापराहीणदा ।
+हंजे[^68] ! इयं सा ईदिसी अज्जउत्तस्स करुणापराहीणदा ।
 
-**सूत्रधारी** – [देवि](# "देवि ! पतन्ति चन्द्रमण्डलादप्युल्काः, किमत्र कुर्मः ?") ! पडंति चंदमंडलाउ वि चुडुलीउ किं एतु(त्थ) करिम्ह ?
+[^68]: "हज्जे! इयं सा ईदृशी आर्यपुत्रस्य करुणापराधीनता"
+
+**सूत्रधारी** – देवि[^69] ! पडंति चंदमंडलाउ वि चुडुलीउ किं एतु(त्थ) करिम्ह ?
+
+[^69]: "देवि ! पतन्ति चन्द्रमण्डलादप्युल्काः, किमत्र कुर्मः ?"
 
 राजा – **त्वय्युपारोपितप्रेम्णा त्वदर्थे यशसा सह ।**
 
 **परित्यक्ता मया देवी जनोऽयं जन एव मे ॥**
 
 **ध्रुवदेवी** – 
-[अहं](# "अहमपि जीवितं परित्यजन्ती प्रथमतरमेव त्वां परित्यक्ष्यामि ।") पि जीविदं परिच्चयंती पढमयरं य्येव तुमं परिचइस्सं ।”
+अहं[^70] पि जीविदं परिच्चयंती पढमयरं य्येव तुमं परिचइस्सं ।”
+
+[^70]: "अहमपि जीवितं परित्यजन्ती प्रथमतरमेव त्वां परित्यक्ष्यामि ।"
 
 अत्र स्त्रीवेशनिह्नुते चन्द्रगुप्ते प्रियवचनैः स्त्रीप्रत्ययात् ध्रुवदेव्या गुरुमन्युसन्तापरूपस्य व्यसनस्य सम्प्राप्तिः।
 
@@ -2657,7 +2793,9 @@ G. K. Shrigondekar.
 
 **राजा** – देवि ! अवलम्बस्व मद्वचनम् । अत्रैव तिष्ठ । अशिक्षितपादचारा न शक्ष्यति भवती क्रमितुं दर्भाङ्कुरविधुरासु वनविधु(वसुन्ध)रासु ।
 
-**सुतारा** – [जं](# "यद् भवति तद् भवतु । अहं गमिष्यामि ।") भोदि तं भोदु । अहं गमिस्सं ।
+**सुतारा** – जं[^71] भोदि तं भोदु । अहं गमिस्सं ।
+
+[^71]: "यद् भवति तद् भवतु । अहं गमिष्यामि ।"
 
 
 
@@ -2747,13 +2885,17 @@ G. K. Shrigondekar.
 
 **यथा रत्नावल्याम्-**
 
-"**विदूषकः** – (कर्णं दत्त्वा ससम्भ्रमं राजानं हस्ते गृहीत्वा) [भो](# "भो वयस्य ! पलायामहे । एतस्मिन् लकुचपादपे किमपि महाभूतं परिवसति । यदि मां न प्रत्येषि, तदाऽग्रतो भूत्वा स्वयमेवाकर्णय ।") वयस्स ! पलायम्ह । एदस्सिं लकुचपायवे किं पि महाभूदं परिवसदि । यदि मे न पत्तियसि, ता अग्गदो भविय सयं य्येव आयन्नेहि ।
+"**विदूषकः** – (कर्णं दत्त्वा ससम्भ्रमं राजानं हस्ते गृहीत्वा) भो[^72] वयस्स ! पलायम्ह । एदस्सिं लकुचपायवे किं पि महाभूदं परिवसदि । यदि मे न पत्तियसि, ता अग्गदो भविय सयं य्येव आयन्नेहि ।
+
+[^72]: "भो वयस्य ! पलायामहे । एतस्मिन् लकुचपादपे किमपि महाभूतं परिवसति । यदि मां न प्रत्येषि, तदाऽग्रतो भूत्वा स्वयमेवाकर्णय ।"
 
 **राजा** – (आकर्ण्य) वयस्य ! सारिकेयम् । ” इति ।
 
 तथा-
 
-\[**विदूषकः**-\]"[भो](# "भो ! मा पाण्डित्यगर्वमुद्वह । इदं देवाय व्याख्यास्यामि या एषाऽऽलिखिता सा कन्यका दर्शनीया च ।") ! मा पंडिच्चगव्वमुव्वहह।इदं देअह वक्खाणइस्सं जा ऐसा आलिहिदा सा कण्णगा दंसणीया य।
+\[**विदूषकः**-\]"भो[^73] ! मा पंडिच्चगव्वमुव्वहह।इदं देअह वक्खाणइस्सं जा ऐसा आलिहिदा सा कण्णगा दंसणीया य।
+
+[^73]: "भो ! मा पाण्डित्यगर्वमुद्वह । इदं देवाय व्याख्यास्यामि या एषाऽऽलिखिता सा कन्यका दर्शनीया च ।"
 
 **राजा** – वयस्य ! यद्येवम् अवहितैः श्रोतव्यमस्त्यवकासो (शो) नः कुतूहलस्य।”
 
@@ -2761,9 +2903,13 @@ G. K. Shrigondekar.
 
 **सुसङ्गता** – [स](http://सखि%20!%20यस्य%20कृते%20त्वमागता,%20सोऽयं%20पुरतस्तिष्ठति%20। "सखि यस्य कृतं त्वमागता, सोऽयं पुरतस्तिष्ठति ।")हि ! जस्स कए तुवं आगदा, सो अयं पुरदो चिट्ठदि ।
 
-**सागरिका** – (सासूयम्) [सु](# "सुसङ्गते ! कस्य कृतेऽहमागता ?")संगदे ! कस्स कए अहं आगदा ?
+**सागरिका** – (सासूयम्) सु[^74]संगदे ! कस्स कए अहं आगदा ?
 
-**सुसङ्गता** – [अ](# "अयि ! आत्मशङ्किते ! ननु चित्रफलकस्य, तद् गृहाणैनम् ।")यि अप्पसंकिदे ! णं चित्तफलहयस्स, ता गिण्ह एदं ।”इति ।
+[^74]: "सुसङ्गते ! कस्य कृतेऽहमागता ?"
+
+**सुसङ्गता** – अ[^75]यि अप्पसंकिदे ! णं चित्तफलहयस्स, ता गिण्ह एदं ।”इति ।
+
+[^75]: "अयि ! आत्मशङ्किते ! ननु चित्रफलकस्य, तद् गृहाणैनम् ।"
 
 एता विदूषक – सुसङ्गतयो राज-सागरिकाक्रीडार्थं हासोक्तयः। अतेल(नेक) शोऽप्येकमेवाङ्गं निबध्यत इति त्रिधोदाहृतम् ।
 
@@ -2773,26 +2919,38 @@ G. K. Shrigondekar.
 
 यथा वा नलविलासे –
 
-“**विदूषकः** – (लम्बस्तनीं विलोक्य सभयकम्पम्) [भो](# "भो राजन् ! अहमेतस्मात् स्थानादुत्थास्यामि ।") रायं ! अहं ! एदाउ ट्टाणा उट्ठिस्सं ।
+“**विदूषकः** – (लम्बस्तनीं विलोक्य सभयकम्पम्) भो[^76] रायं ! अहं ! एदाउ ट्टाणा उट्ठिस्सं ।
+
+[^76]: "भो राजन् ! अहमेतस्मात् स्थानादुत्थास्यामि ।"
 
 **राजा** – किमिति ?
 
-**विदूषकः** – – [ज](# "यद्येषा स्थूलमहिषी कटितटं नर्तयन्ती ममोपरि पतेत्, तदा ध्रुवं मां मारयेत् ।")इ एसा थूलमहिसी कडिअडं नच्चार्वेती ममोवरि पडेदि ता धुवं मं मारेदि ।“
+**विदूषकः** – – ज[^77]इ एसा थूलमहिसी कडिअडं नच्चार्वेती ममोवरि पडेदि ता धुवं मं मारेदि ।“
+
+[^77]: "यद्येषा स्थूलमहिषी कटितटं नर्तयन्ती ममोपरि पतेत्, तदा ध्रुवं मां मारयेत् ।"
 
 तथा-
 
 “**राजा** – लम्बस्तनि ! इदमासनमास्यताम् ।
 
 **विदूषकः** –
--[भो](# "भवति ! लम्बस्तन्यै दुर्बलं खल्वेतदासनम्, तत् त्वया सावधानयोपवेष्टव्यम् ।")दी ! लंबत्थणीए दुब्बलं खु एदं आसणं । ता तुमए सावहाणाए उवविसिदव्वं ।“
+-भो[^78]दी ! लंबत्थणीए दुब्बलं खु एदं आसणं । ता तुमए सावहाणाए उवविसिदव्वं ।“
+
+[^78]: "भवति ! लम्बस्तन्यै दुर्बलं खल्वेतदासनम्, तत् त्वया सावधानयोपवेष्टव्यम् ।"
 
 तथा –
 
-“**विदूषकः**— [भो](# "भवति ! किमतिदुर्बलाऽसि ? ।")दी ! किं अइदुब्बला सि ?
+“**विदूषकः**— भो[^79]दी ! किं अइदुब्बला सि ?
 
-**लम्बस्तनी** – [मं](# "मार्गपरिश्रमेण ।")ग्गपरिस्समेण ।
+[^79]: "भवति ! किमतिदुर्बलाऽसि ? ।"
 
-**विदूषकः** – [भो](# "भो कलहंस ! कियद्भिर्गोभिर्मृतैरेषाऽत्र सम्प्राप्ता ? ।") कलहंसा ! कित्तिएहिं गोणेहिं मुदेहिं एसा इध संपत्ता ?
+**लम्बस्तनी** – मं[^80]ग्गपरिस्समेण ।
+
+[^80]: "मार्गपरिश्रमेण ।"
+
+**विदूषकः** – भो[^81] कलहंसा ! कित्तिएहिं गोणेहिं मुदेहिं एसा इध संपत्ता ?
+
+[^81]: "भो कलहंस ! कियद्भिर्गोभिर्मृतैरेषाऽत्र सम्प्राप्ता ? ।"
 
 (कलहंसो विहस्याधोमुखस्तिष्ठति) इति ॥
 
@@ -2802,13 +2960,17 @@ G. K. Shrigondekar.
 
 दोषावृत्यै दोषाच्छादनाय यत् पुनर्हसनं हास्यहेतुर्वाक्यं सा तस्य नर्मणो द्योतनं नर्मद्युतिः। यथा रत्नावल्याम्-
 
-“**विदूषकः** – [भो](# "भोः ! अद्याप्येषा चतुर्वेदीव ब्राह्मण ऋचः पठितुं प्रवृत्ता ।") ! अज्ज वि एसा चउव्वेउ (ई) विय बंभणो रियाउ पढिउं पयत्ता ।
+“**विदूषकः** – भो[^82] ! अज्ज वि एसा चउव्वेउ (ई) विय बंभणो रियाउ पढिउं पयत्ता ।
+
+[^82]: "भोः ! अद्याप्येषा चतुर्वेदीव ब्राह्मण ऋचः पठितुं प्रवृत्ता ।"
 
 
 
 **राजा** – वयस्य ! किमप्यन्यचेतसा मया नावधारितम्, तत् किमनयोक्तम्?
 
-**विदूषकः** – [भो](# "भो ! एतदेतया पठितम्-  दुर्लभजनानुरागो लज्जा गुर्वी परवश आत्मा । प्रियसखि ! विषमं प्रेम मरणं शरणं केवलमेकम् ॥") एदं एदाए पढिदं –
+**विदूषकः** – भो[^83] एदं एदाए पढिदं –
+
+[^83]: "भो ! एतदेतया पठितम्-  दुर्लभजनानुरागो लज्जा गुर्वी परवश आत्मा । प्रियसखि ! विषमं प्रेम मरणं शरणं केवलमेकम् ॥"
 
 **दुल्लहजणाणुराओ लज्जा गरुई परव्वसो अप्पा ।**
 
@@ -2818,9 +2980,13 @@ G. K. Shrigondekar.
 
 अन्ये तु नर्मजां धृतिं नर्मद्युतिमाहुः। यथा रत्नावल्याम्-
 
-"**सुसङ्गता** – [स](# "सखि ! अदाक्षिण्येदानीमसि त्वम्, यदेवं भर्तुर्हस्तावलम्बित्ताऽपि कोपं न मुञ्चसि ।")हि ! अदि (द) क्खिन्ना दाणि सि तुवं जा एवं भट्टिणो हत्थावलंबिया वि कोवं न मुंचसि ।
+"**सुसङ्गता** – स[^84]हि ! अदि (द) क्खिन्ना दाणि सि तुवं जा एवं भट्टिणो हत्थावलंबिया वि कोवं न मुंचसि ।
 
-**सागरिका** – (सभ्रूभङ्गमीषद् विहस्य) [सु](# "सुसङ्गते ! इदानीमपि न विरमसि !।")संगदे ! इयाणिं पि न विरमसि !“इति ।
+[^84]: "सखि ! अदाक्षिण्येदानीमसि त्वम्, यदेवं भर्तुर्हस्तावलम्बित्ताऽपि कोपं न मुञ्चसि ।"
+
+**सागरिका** – (सभ्रूभङ्गमीषद् विहस्य) सु[^85]संगदे ! इयाणिं पि न विरमसि !“इति ।
+
+[^85]: "सुसङ्गते ! इदानीमपि न विरमसि !।"
 
 एते च नर्म-नर्मद्युती अङ्गे कामप्रधानेष्वेव रूपकेषु निबन्धमर्हतः। कैशिकीप्राधान्येन तेषां हास्योचितत्वादिति ॥
 
@@ -2852,11 +3018,15 @@ G. K. Shrigondekar.
 
 अरतिनिग्रहो यथा वेणीसंहारे-
 
-“**सखी** – [ज](# "यदि एवं तदा कथय येन वयं प्रतिष्ठापयन्त्यः प्रशंसया देवतानां सङ्कीर्तनेन, दूर्वाऽऽदिपरिग्रहेण प्रतिहनिष्यामः ।")इ एवं ता कहेहि जेण म्हे पडिट्ठावयंतीउ पसंसाए देवदाणं संकित्तणेण दुत्ता (व्वा) दिपरिग्गहेण पडिहणिस्सामो ।”
+“**सखी** – ज[^86]इ एवं ता कहेहि जेण म्हे पडिट्ठावयंतीउ पसंसाए देवदाणं संकित्तणेण दुत्ता (व्वा) दिपरिग्गहेण पडिहणिस्सामो ।”
+
+[^86]: "यदि एवं तदा कथय येन वयं प्रतिष्ठापयन्त्यः प्रशंसया देवतानां सङ्कीर्तनेन, दूर्वाऽऽदिपरिग्रहेण प्रतिहनिष्यामः ।"
 
 पुनः स्वावसरे--
 
-"**भानुमती** – (अर्घपात्रं गृहीत्वा सूर्याभिमुखं स्थित्वा) [भ](# "भगवन् ! अम्बरमहासरएकसहस्रपत्र ! दिग्वधूमुखमण्डनकुङ्कुमविशेषक ! सकलभुवनरत्नप्रदीप !अद्येह स्वप्नदर्शने यत् किञ्चिदत्याहितं तद् भगवतः प्रणामेन सभ्रातुरार्यपुत्रस्य कुशलपरिणामं भवतु इति ।")यवं !अंबरमहासरेक्कसहस्सवत्त ! दिसावहूमुखमंडणकुंकुमविसेसय ! सयलभुवणरयणप्पईव ज्ज इह सिविणयदंसणे जं किंचि अच्चाहिदं तं भयवदो पणामेण सभादुणो अय्यउत्तस्स कुसलपरिणामं भोदु त्ति ।”
+"**भानुमती** – (अर्घपात्रं गृहीत्वा सूर्याभिमुखं स्थित्वा) भ[^87]यवं !अंबरमहासरेक्कसहस्सवत्त ! दिसावहूमुखमंडणकुंकुमविसेसय ! सयलभुवणरयणप्पईव ज्ज इह सिविणयदंसणे जं किंचि अच्चाहिदं तं भयवदो पणामेण सभादुणो अय्यउत्तस्स कुसलपरिणामं भोदु त्ति ।”
+
+[^87]: "भगवन् ! अम्बरमहासरएकसहस्रपत्र ! दिग्वधूमुखमण्डनकुङ्कुमविशेषक ! सकलभुवनरत्नप्रदीप !अद्येह स्वप्नदर्शने यत् किञ्चिदत्याहितं तद् भगवतः प्रणामेन सभ्रातुरार्यपुत्रस्य कुशलपरिणामं भवतु इति ।"
 
 अत्र दुःस्वप्नदर्शनोद्भूताया अरतेर्निग्रह इति ॥
 
@@ -2902,7 +3072,9 @@ G. K. Shrigondekar.
 
 प्रश्नप्रतिपन्थिनी वाक् प्रतिवाक् तस्याः श्रेणिः। अपकर्षतो द्वे प्रतिवचने, उत्कर्षतो बहून्यपि । यथा वेणीसंहारे-
 
-“**भानुमती** – – [अ](# "आर्यपुत्र ! अतिमात्रं मे शङ्का बाधते, तदनुमन्यतां मामार्यपुत्रः ।")य्यउत्त ! अदिमित्तं मे संका बाधदि । ता अणुमन्नेदु मं अज्जउत्तो ।
+“**भानुमती** – – अ[^88]य्यउत्त ! अदिमित्तं मे संका बाधदि । ता अणुमन्नेदु मं अज्जउत्तो ।
+
+[^88]: "आर्यपुत्र ! अतिमात्रं मे शङ्का बाधते, तदनुमन्यतां मामार्यपुत्रः ।"
 
 
 
@@ -2916,19 +3088,27 @@ G. K. Shrigondekar.
 
 **त्वं दुर्योधनकेश(स)रीन्द्रगृहिणी शङ्कास्पदं किं तव ? ॥**
 
-**भानुमती** – [अ](# "आर्यपुत्र ! न हि मे किञ्चित् शङ्का युष्मासु सन्निहितेषु ।")य्यउत्त ! न हु मे किंचि संका तुम्हेसु सन्निहिदेसु ।“इति ।
+**भानुमती** – अ[^89]य्यउत्त ! न हु मे किंचि संका तुम्हेसु सन्निहिदेसु ।“इति ।
+
+[^89]: "आर्यपुत्र ! न हि मे किञ्चित् शङ्का युष्मासु सन्निहितेषु ।"
 
 यथा वा नलविलासे तृतीयेऽङ्के--
 
-**दमयन्ती** – (भुजमवलम्बिते राजनि क्रमादाह)“ज[इ](# "यदि एवं मुञ्च मे पाणिम् ।")एवं मुंच मे पाणिं ।
+**दमयन्ती** – (भुजमवलम्बिते राजनि क्रमादाह)“जइ[^90]एवं मुंच मे पाणिं ।
+
+[^90]: "यदि एवं मुञ्च मे पाणिम् ।"
 
 **राजा** – कथमपराधकारी मुच्यते ?
 
-**दमयन्ती** – [किं](# "किमेतेनापराद्धम् ?") एदिणा अवरद्धं ?
+**दमयन्ती** – किं[^91] एदिणा अवरद्धं ?
+
+[^91]: "किमेतेनापराद्धम् ?"
 
 **राजा** – एतेन त्वत्प्रतिकृतिमालिख्याहमियति विरहानले पातितः।
 
-**दमयन्ती** – – (स्मित्वा) [ज](# "यदि एवं तदाऽहमपि ते पाणिं ग्रहीष्ये । तव पाणिलिखितेन पटेनाहमप्येतदवस्थशरीरा लब्धा।")इ एवं ता अहं पि \[ते\] पाणिं गहिस्सं । तव पाणिलिहिदेण पडेण अहं पि एदावत्थसरीरा जादा ।”इति ॥
+**दमयन्ती** – – (स्मित्वा) ज[^92]इ एवं ता अहं पि \[ते\] पाणिं गहिस्सं । तव पाणिलिहिदेण पडेण अहं पि एदावत्थसरीरा जादा ।”इति ॥
+
+[^92]: "यदि एवं तदाऽहमपि ते पाणिं ग्रहीष्ये । तव पाणिलिखितेन पटेनाहमप्येतदवस्थशरीरा लब्धा।"
 
 अथ वज्रम्-
 
@@ -2958,7 +3138,9 @@ G. K. Shrigondekar.
 
 **सब्रह्मचारिणमतो भजमानं भजस्व माम् ॥**
 
-**सीता** – [ह](# "हताश ! आत्मा तावत् त्वया न निर्जितः, का गणना लोकेषु ?")दास ! अप्पा दाव तए न निज्जिदो, का गणणा लोएसु ?”
+**सीता** – ह[^93]दास ! अप्पा दाव तए न निज्जिदो, का गणणा लोएसु ?”
+
+[^93]: "हताश ! आत्मा तावत् त्वया न निर्जितः, का गणना लोकेषु ?"
 
 अनेन प्रत्यक्षकर्कशेन वाक्येन रावणवचनं प्रध्वस्तम् ।
 
@@ -2992,11 +3174,15 @@ G. K. Shrigondekar.
 
 **रावणः** – – सीते ! आरुह्यतां पुष्पकम् ।
 
-**सीता** – – [हतास](# "हताश ! अपि मरिष्यामि, न पुनरारोक्ष्यामि ।") ! अवि मरिस्सं न पुण आरुहिस्सं ।
+**सीता** – – हतास[^94] ! अवि मरिस्सं न पुण आरुहिस्सं ।
+
+[^94]: "हताश ! अपि मरिष्यामि, न पुनरारोक्ष्यामि ।"
 
 **रावणः** – आः ! किं बहुना ? यावत् करेण दृढपीडितमुष्टियन्त्रमुत्खाय चन्द्रकिरणद्युतिचन्द्रहासेन त्वत्पुरो बटुशिरःकमलोपहार आरभ्यते, समधिरोह शिवाय तावत् ।
 
-**सीता** – [व](# "वरमात्मनः शरीरस्यात्याहितम्, न पुनस्तपोधनानाम् । इयमधिरोहामि मन्दभागिनी । हा आर्यपुत्र !")रं अत्तणो सरीरस्स अच्चाहिदं, न उण तवोधणाणं । इयं अधिरुहामि मंदभाइणी । हा अज्जपुत्त ! (इति रुदती आरोहं नाटयति)“इति ।
+**सीता** – व[^95]रं अत्तणो सरीरस्स अच्चाहिदं, न उण तवोधणाणं । इयं अधिरुहामि मंदभाइणी । हा अज्जपुत्त ! (इति रुदती आरोहं नाटयति)“इति ।
+
+[^95]: "वरमात्मनः शरीरस्यात्याहितम्, न पुनस्तपोधनानाम् । इयमधिरोहामि मन्दभागिनी । हा आर्यपुत्र !"
 
 यथा वा रघुविलासे-
 
@@ -3057,7 +3243,9 @@ G. K. Shrigondekar.
 
 
 
-**सीता** – [को](# "कोऽपि (वा) यायावरः कोऽपि (वा) स्थावर इति विवेकं लक्ष्मणनाराचपद्धतिराविष्करिष्यति ।") वि (वा) जाजावरो को वि (वा) थावरु त्ति विवेगं लक्खणनारायपद्धई वावि\[करि\]स्सइ ।
+**सीता** – को[^96] यायावरः कोऽपि (वा) स्थावर इति विवेकं लक्ष्मणनाराचपद्धतिराविष्करिष्यति ।") वि (वा) जाजावरो को वि (वा) थावरु त्ति विवेगं लक्खणनारायपद्धई वावि\[करि\]स्सइ ।
+
+[^96]: "कोऽपि (वा
 
 **रावणः** – (सरोषं चन्द्रहासं परामृश्य)
 
@@ -3217,7 +3405,9 @@ G. K. Shrigondekar.
 
 
 
-"[गिण्](# "गृह्णीत रे गृह्णीत वेष्टध्वं रे वेष्टध्वम् ।")[हेध ले](# "गृह्णीत रे गृह्णीत वेष्टध्वं रे वेष्टध्वम् ।") ! गिण्हेध । वेढेध ले ! वेढेध । (सर्वे सभयमवलोकयन्ति) स्थविरः — हा ! धिक् कष्टं दस्यवः सम्पतन्ति । किमत्र शरणं प्रपद्येमहि ?“
+"गिण्[^97]हेध ले[^97] ! गिण्हेध । वेढेध ले ! वेढेध । (सर्वे सभयमवलोकयन्ति) स्थविरः — हा ! धिक् कष्टं दस्यवः सम्पतन्ति । किमत्र शरणं प्रपद्येमहि ?“
+
+[^97]: "गृह्णीत रे गृह्णीत वेष्टध्वं रे वेष्टध्वम् ।"
 
 अत्र नायिका-सखी-स्थविरादीनां राजगृहभङ्गेन विद्रुतानां दस्युभ्यो भयम् ।
 
@@ -3235,7 +3425,9 @@ G. K. Shrigondekar.
 
 **सञ्जयः** – स कर्णारिः स च क्रूरो वृककर्मा वृकोदरः ॥
 
-**गान्धारी** – [जाद](# "जात ! किं साम्प्रतमवलम्बनम् ? ।") ! किं संपदं अवलंबणं ?“इति ।
+**गान्धारी** – जाद[^99] ! किं संपदं अवलंबणं ?“इति ।
+
+[^99]: "जात ! किं साम्प्रतमवलम्बनम् ? ।"
 
 एतदरिभयम् ।
 
@@ -3259,9 +3451,13 @@ G. K. Shrigondekar.
 
 भय – त्रासकारिणो वस्तुनो या शङ्काऽपायकारकत्वसम्भावना सा द्रवति श्लथीभवति हृदयमनयेति द्रवः। उपनतं भयमुद्वेगः, तत्सम्भावना तु विद्रवः। यथा कृत्यारावणे षष्ठेऽङ्के शान्तिगृहस्थे रावणे नेपथ्ये –
 
-“[हा](# "हा ! आर्यपुत्र ! परित्रायस्व परित्रायस्व ।") अज्जउत्त ! परित्तायाहि परित्तायाहि ।
+“हा[^100] अज्जउत्त ! परित्तायाहि परित्तायाहि ।
 
-**प्रतीहारी** – (श्रुत्वा ससम्भ्रममात्मगतम्) [अ](# "अहो ! भर्त्री एवाक्रन्दति । भर्तः ! अन्तःपुरे महान् कलकलः श्रुयते ।")म्मो ! भट्टिणी वि(चि)अक्कंददि । (प्रकाशम्) भट्टा ! अंतेउरे महंतो कलयलो सुणीयदि ।
+[^100]: "हा ! आर्यपुत्र ! परित्रायस्व परित्रायस्व ।"
+
+**प्रतीहारी** – (श्रुत्वा ससम्भ्रममात्मगतम्) अ[^101]म्मो ! भट्टिणी वि(चि)अक्कंददि । (प्रकाशम्) भट्टा ! अंतेउरे महंतो कलयलो सुणीयदि ।
+
+[^101]: "अहो ! भर्त्री एवाक्रन्दति । भर्तः ! अन्तःपुरे महान् कलकलः श्रुयते ।"
 
 **रावणः** – ज्ञायतां किमेतद् ?“इति ।
 
@@ -3385,17 +3581,23 @@ G. K. Shrigondekar.
 
 असत्याहरणं छद्म
 
-यथा मालति(वि)काग्निमित्रे यज्ञोपवीतबद्धाङ्गुष्ठो विदूषकः-(प्रविश्य ससम्भ्रममाह) [परित्तायदु](# "परित्रायतां परित्रायतां भवान् ।") परित्तायदु भवं ।
+यथा मालति(वि)काग्निमित्रे यज्ञोपवीतबद्धाङ्गुष्ठो विदूषकः-(प्रविश्य ससम्भ्रममाह) परित्तायदु[^102] परित्तायदु भवं ।
+
+[^102]: "परित्रायतां परित्रायतां भवान् ।"
 
 **राजा** – किमेतत् ?
 
-**विदूषकः** – [भो ! सप्पेण म्हि दट्ठो ।](# "भोः : सर्पेणास्मि दष्टः ।")
+**विदूषकः** – भो ! सप्पेण म्हि दट्ठो ।[^103]
 
 (सर्वे विदूषकं दृष्ट्वा विषण्णाः)
 
+[^103]: "भोः : सर्पेणास्मि दष्टः ।"
+
 **राजा** – कष्टं क्व भवान् परिभ्रान्तः ?
 
-**विदूषकः** – [देवं](# "देवं प्रेक्षिष्ये इत्याचारपुष्पस्य कारणात् प्रमदवनं गतोऽस्मि । तत्र चाशोकस्तबकस्य प्रसारिते हस्ताग्रेकोटरविनिर्गतेन सर्परूपेण कालेनास्मि लब्धः । इमौ द्वौ दंष्ट्राव्रणौ ।") पेक्खिस्सं ति आचारपुप्फस्स कारणा पमदवणं गदुम्हि । तहिं च असोयत्थवगस्स पसारिदे अग्गहत्थे कोडरविणिग्गदेण सप्परूपेण कालेण म्हि लंभिदो । इमाणि दुवे दाढावणाणि । ”
+**विदूषकः** – देवं[^104] पेक्खिस्सं ति आचारपुप्फस्स कारणा पमदवणं गदुम्हि । तहिं च असोयत्थवगस्स पसारिदे अग्गहत्थे कोडरविणिग्गदेण सप्परूपेण कालेण म्हि लंभिदो । इमाणि दुवे दाढावणाणि । ”
+
+[^104]: "देवं प्रेक्षिष्ये इत्याचारपुष्पस्य कारणात् प्रमदवनं गतोऽस्मि । तत्र चाशोकस्तबकस्य प्रसारिते हस्ताग्रेकोटरविनिर्गतेन सर्परूपेण कालेनास्मि लब्धः । इमौ द्वौ दंष्ट्राव्रणौ ।"
 
 अत्र राजप्रसादपरीक्षार्थं विदूषकेण केतकीकण्टकक्षतस्यासत्या सर्पदंशता प्रकाशितेति ॥
 
@@ -3545,7 +3747,9 @@ G. K. Shrigondekar.
 
 मन्युरपमानो येन मार्ज्यते तत् छादनम् । यथा रत्नावल्याम्-
 
-“सागरिका – [दिट्ठिया](# "दिष्ट्या प्रज्वलितो भगवान् हुताशनोऽद्य करिष्यति मे सकलदुःखावसानमिति") पज्जलिदो भयवं हु\[या\]सणो अज्ज करिस्सदि मे सयलदुक्खावसाणं ति ।
+“सागरिका – दिट्ठिया[^105] पज्जलिदो भयवं हु\[या\]सणो अज्ज करिस्सदि मे सयलदुक्खावसाणं ति ।
+
+[^105]: "दिष्ट्या प्रज्वलितो भगवान् हुताशनोऽद्य करिष्यति मे सकलदुःखावसानमिति"
 
 अन्ये तु कार्यार्थमसह्यस्याप्यर्थस्य सहनं छादनमामनन्ति ।यथा श्रीशुक्तिवासकुमारविरचितेऽनङ्गसेनाहरिनन्दिनि प्रकरणे नवमेऽङ्के राजपुत्रचन्द्रकेतुना दत्तं कर्णालङ्कारयुगलं नायिकया माधव्या नायकस्य प्रेषितम् । नायकेन हरिनन्दिना पुष्पलकनामानं ब्राह्मणं राजबन्धनान्मोचयितुं तन्मात्रेऽतिसृष्टम् । तत् प्रत्यभिज्ञाय च स ब्राह्मणः पौरेषु प्रकाशितचौर्यो राज \[।\]ज्ञया वध्यस्थानं नेतुमारब्धः। तन्मात्रा चागत्य हरिनन्दिने निवेदितम् । हरिनन्दिना च ब्राह्मणरक्षार्थं चौर्यमात्मनोऽङ्गीकृत्यायशो विसोढमिति ।
 
@@ -3563,7 +3767,9 @@ G. K. Shrigondekar.
 
 तस्मिन् कौरव–पार्थयोर्गुरुगदाघोरध्वनौ संयुगे ।
 
-**द्रौपदी** – (लब्धसंज्ञा) [अयि](# "अयि ! ततः किम् ?") ! तदो किम् ?
+**द्रौपदी** – (लब्धसंज्ञा) अयि[^106] ! तदो किम् ?
+
+[^106]: "अयि ! ततः किम् ?"
 
 
 
@@ -3671,7 +3877,9 @@ G. K. Shrigondekar.
 
 वधाध्यवसायस्तु मृच्छकटिकायां चारुदत्तविषयः।
 
-तथा रत्नावल्याम् – “पुनर्वासवदत्ता – [अज्जउत्त](# "आर्यपुत्र ! ननु खल्वात्मनः कारणाद् भणाम्येषा मम निर्घृणहृदयायाः सम्पत् सागरिका विपद्यते ।") ! णं खु अत्तणो कारणा भणामि एसा मए निग्घिणहिअयाए संपदा सागरिया विवज्जदि ।” इति ।
+तथा रत्नावल्याम् – “पुनर्वासवदत्ता – अज्जउत्त[^107] ! णं खु अत्तणो कारणा भणामि एसा मए निग्घिणहिअयाए संपदा सागरिया विवज्जदि ।” इति ।
+
+[^107]: "आर्यपुत्र ! ननु खल्वात्मनः कारणाद् भणाम्येषा मम निर्घृणहृदयायाः सम्पत् सागरिका विपद्यते ।"
 
 अत्र सागरिकाया बन्ध-वधाग्निभिर्विद्रवः।
 
@@ -3771,18 +3979,28 @@ G. K. Shrigondekar.
 
 
 
-यदाज्ञापनं साऽऽज्ञा । यथा कृत्यारावणे त्रिजटया दारुणिकाऽभिधाना राक्षसी पृष्टा — “[दारुणिए](# "दारुणिके ! किं त्वं भणसि ?") ! किं तुमं भणासि?
+यदाज्ञापनं साऽऽज्ञा । यथा कृत्यारावणे त्रिजटया दारुणिकाऽभिधाना राक्षसी पृष्टा — “दारुणिए[^108] ! किं तुमं भणासि?
 
-**दारुणिका** – [अय्ये](# "आर्ये त्रिजटे ! अपि नामाप्रतिहताऽऽज्ञा मम शरीरे निपतिष्यति, न पुनरीदृशमकार्य करिष्ये ।") तियडे ! अवि नाम अप्पडिहदा आणा मम सरीरे निवडिस्सइ । न उण ईदिसं अकज्जंकरइस्सं ।
+[^108]: "दारुणिके ! किं त्वं भणसि ?"
 
-**त्रिजटा** – [तहा](# "तथापि त्वं दारुणिकेत्युच्यसे !") वि तुमं दारुणिअ त्ति वुञ्चसि !"
+**दारुणिका** – अय्ये[^109] तियडे ! अवि नाम अप्पडिहदा आणा मम सरीरे निवडिस्सइ । न उण ईदिसं अकज्जंकरइस्सं ।
+
+[^109]: "आर्ये त्रिजटे ! अपि नामाप्रतिहताऽऽज्ञा मम शरीरे निपतिष्यति, न पुनरीदृशमकार्य करिष्ये ।"
+
+**त्रिजटा** – तहा[^110] वि तुमं दारुणिअ त्ति वुञ्चसि !"
+
+[^110]: "तथापि त्वं दारुणिकेत्युच्यसे !"
 
 पुनः क्रमान्नेपथ्ये-
 
-“[हा](# " हा ! त्रिजटे ! एषां ते प्रियसखी सीता भर्तुर्मायाशिरोदर्शनोत्पत्तिमरणनिश्चयाऽग्निं प्रवेष्टुकामा ।") तियडे ! एसा दे पियसही सीदा भत्तुणो मायासिरदंसणुप्पत्तीमरणनिच्छया अग्गिं पविसिउकामा ।
+“हा[^111] तियडे ! एसा दे पियसही सीदा भत्तुणो मायासिरदंसणुप्पत्तीमरणनिच्छया अग्गिं पविसिउकामा ।
 
-**त्रिजटा** — [हा](# "हा ! इताऽस्मि मन्दमागिनी मा इदानीं दैवेन भर्तुराज्ञा संवा (पा ) द्यते ") हदम्हि मंदभाइणी मा दाणि दिव्वेण भत्तुणो आणा संवा (पा) दीयदि । ”  
+[^111]: " हा ! त्रिजटे ! एषां ते प्रियसखी सीता भर्तुर्मायाशिरोदर्शनोत्पत्तिमरणनिश्चयाऽग्निं प्रवेष्टुकामा ।"
+
+**त्रिजटा** — हा[^112] द्यते ") हदम्हि मंदभाइणी मा दाणि दिव्वेण भत्तुणो आणा संवा (पा) दीयदि । ”  
 एतस्मादवसीयते सीताव्यापादनाय क्रोधाद् रावणेन दारुणिकाया आज्ञा दत्तेति ।
+
+[^112]: "हा ! इताऽस्मि मन्दमागिनी मा इदानीं दैवेन भर्तुराज्ञा संवा (पा
 
 सर्वसन्धिष्वपि मतान्तराणि वृद्धोक्तत्वाद् भणितिभंदो दै(भेदाद्वै) चित्र्यस्य रञ्जकत्वाच्च प्रमाणान्येव । अत एव सर्वसन्धिष्वप्यङ्गसङ्ख्याकरणमुदाहरणपरं द्रष्टव्यमिति ॥
 
@@ -3847,7 +4065,9 @@ G. K. Shrigondekar.
 
 **व्यवसायोऽर्थ्यहेतुयुक् ॥ ६० ॥**
 
-‘ युगिति ' योजनं युक् । अर्थनीयफलस्य हेतुस्तद्योगो व्यवसायः। यथा रत्नावल्याम् – ऐन्द्रजालिकप्रवेशादारभ्य ‘[एको](# "एकः पुनः खेलस्त्वयाऽवश्यं प्रेक्षितव्यः ।") उण खेडओ तए अवस्सं पेखिदव्वो ' इति यावत् । अत्र हि यौगन्धरायणेन यदङ्गीकृतं तन्निष्पादकहेतुसमागमः।
+‘ युगिति ' योजनं युक् । अर्थनीयफलस्य हेतुस्तद्योगो व्यवसायः। यथा रत्नावल्याम् – ऐन्द्रजालिकप्रवेशादारभ्य ‘एको[^113] उण खेडओ तए अवस्सं पेखिदव्वो ' इति यावत् । अत्र हि यौगन्धरायणेन यदङ्गीकृतं तन्निष्पादकहेतुसमागमः।
+
+[^113]: "एकः पुनः खेलस्त्वयाऽवश्यं प्रेक्षितव्यः ।"
 
 अन्ये तु–' व्यवसायः स्वशक्त्युक्तिः ' इति पठन्ति । यथा वेणीसंहारे-
 
@@ -4009,7 +4229,9 @@ G. K. Shrigondekar.
 
 लब्धस्य परिपालनं क्षेमः। यथा रत्नावल्याम्-
 
-"**वासवदत्ता** – [अय्यउत्त](# "आर्यपुत्र । दूरेऽस्या ज्ञातिकुलम्, तत् तथा कुर्या यथा बन्धुजनं न स्मरति") ! दूरे से णादिउलं । ता तधा करेसि जधा बंधुअणं न सुमरेदि।”
+"**वासवदत्ता** – अय्यउत्त[^114] ! दूरे से णादिउलं । ता तधा करेसि जधा बंधुअणं न सुमरेदि।”
+
+[^114]: "आर्यपुत्र । दूरेऽस्या ज्ञातिकुलम्, तत् तथा कुर्या यथा बन्धुजनं न स्मरति"
 
 अनेन लब्धाया रत्नावल्याः स्थिरीकरणम् ।
 
@@ -4057,11 +4279,15 @@ G. K. Shrigondekar.
 
 प्रकारशतैर्वाञ्छितस्यार्थितस्य सामस्त्येन आगमः प्राप्तिरानन्दहेतुत्वादानन्दः। यथा रत्नावल्याम्-
 
-"**वासवदत्ता** – (राजानमुपेत्य) [अज्जउ](# "आर्यपुत्र ! प्रतीच्छेताम्")त्त! पडिच्छ एदं ।
+"**वासवदत्ता** – (राजानमुपेत्य) अज्जउ[^115]त्त! पडिच्छ एदं ।
+
+[^115]: "आर्यपुत्र ! प्रतीच्छेताम्"
 
 **राजा** – (हस्तौ प्रसार्य) को देव्याः प्रसादं न बहु मन्यते ?
 
-**विदूषकः** – [ही](# "ही ही भोः ! जयतु भवान् । ननु पृथ्वीदानीं हस्ते भूतैव प्रियवयस्यस्य।") ही ! भो ! जयदु भवं । णं पुहवी इदाणिं हत्थे भूद य्येव पियवयस्सस्स । ”इति ॥
+**विदूषकः** – ही[^116] ही ! भो ! जयदु भवं । णं पुहवी इदाणिं हत्थे भूद य्येव पियवयस्सस्स । ”इति ॥
+
+[^116]: "ही ही भोः ! जयतु भवान् । ननु पृथ्वीदानीं हस्ते भूतैव प्रियवयस्यस्य।"
 
 अथ समयः-
 
@@ -4153,13 +4379,17 @@ G. K. Shrigondekar.
 
 **शार्वलिकः** – सत्यम् । सिंहासनाधिरोहे अनुष्ठितमात्रे च तेन तव सुहृदा राज्ञा आर्यकेणोज्जयिन्यां च वेलातटे तुभ्यं राज्यमतिसृष्टम् । तत् प्रतिमान्यतां प्रथमः सुहृत्प्रणयः। (पुनर्वसन्तसेनामाह-) आर्ये वसन्तसेने ! राजातवोपरि तुष्टो भवतीं वधूशब्देनानुगृह्णाति ।
 
-**वसन्तसेना** – [अज्ज](# "आर्य शार्वलिक ! कृतार्थाऽस्मि") सव्वलिय ! कयत्थ म्हि ।
+**वसन्तसेना** – अज्ज[^117] सव्वलिय ! कयत्थ म्हि ।
+
+[^117]: "आर्य शार्वलिक ! कृतार्थाऽस्मि"
 
 (पुनश्चारुदत्तमाह – ) आर्य ! किमस्य भिक्षोः क्रियताम्?
 
 **चारुदतः** – – भिक्षो ! किं तव बहु मतम् ?
 
-**भिक्षुः** – [अणिच्चत्तणं](# "अनित्यत्वं प्रेक्ष्य प्रव्रज्याबहुमानः संवृतः ।") पेक्खिय पव्वजा (ज्जा) बहुमाणे संवुत्ते ।
+**भिक्षुः** – अणिच्चत्तणं[^118] पेक्खिय पव्वजा (ज्जा) बहुमाणे संवुत्ते ।
+
+[^118]: "अनित्यत्वं प्रेक्ष्य प्रव्रज्याबहुमानः संवृतः ।"
 
 **चारुदत्तः** – सखे ! दृढोऽस्य निश्चयः। तत् पृथिव्यां सर्वविहारेषु कुलपतिः क्रियताम् ।
 
@@ -4169,7 +4399,9 @@ G. K. Shrigondekar.
 
 **चारुदत्तः** – प्रियं नः।
 
-**वसन्तसेना** --[संपदं](# "साम्प्रतं जीविताऽस्मि") जीविद म्हि ।
+**वसन्तसेना** --संपदं[^119] जीविद म्हि ।
+
+[^119]: "साम्प्रतं जीविताऽस्मि"
 
 **शार्वलिकः** – स्थावरकस्य किं क्रियताम् ?
 
@@ -4187,7 +4419,9 @@ G. K. Shrigondekar.
 
 “**यौगन्धरायणः** – – एवं विज्ञाय भगिन्याःसम्प्रतिकरणीये देवी प्रमाणम् ।
 
-**वासवदत्ता** – [फुडं](# " स्फुटमेव किं न भणसि प्रतिपादयास्मै रत्नमाला (त्नावली) मिति ।") य्येव किन्न भणासि पडिवाहेदि (एहि) से रयणमालं ति ।”
+**वासवदत्ता** – फुडं[^120] मिति ।") य्येव किन्न भणासि पडिवाहेदि (एहि) से रयणमालं ति ।”
+
+[^120]: " स्फुटमेव किं न भणसि प्रतिपादयास्मै रत्नमाला (त्नावली
 
 अत्र ‘ वत्सराजाय रत्नावली दीयताम् ' इति कार्यस्य यौगन्धरायणाभिप्रायानुप्रविष्टस्य वासवदत्तया दर्शनम्।
 
@@ -4242,13 +4476,21 @@ G. K. Shrigondekar.
 
 अनयोरप्रतिगृहीते वरे काव्यसंहारः।
 
-तथा इन्दुलेखायां नाटिकायां राज्ञी नायिकामिन्दुलेखामाह-""[ईदिसीए](# "ईदृश्या तवानया कुलानुसदृश्या शीलसम्पत्त्या सम्मुखीकृतस्य मे हृदयस्योपपन्न एव समुचितया प्रतिपत्त्याऽयमवसरस्तत् ममैव प्रियं कुर्वन्ती वृणुष्व यत् ते समीहितम् ।") तुह इमाए कुलाणुसरिसीए सीलसंपत्तीए संमुहीकदस्स मे हिदयस्स उववन्नो य्येव समुचिदाए पडिवत्तीए अयं अवसरो ता मम य्येव पियं करिंती वरेसु जं ते समीहिदं।
+तथा इन्दुलेखायां नाटिकायां राज्ञी नायिकामिन्दुलेखामाह-""ईदिसीए[^121] तुह इमाए कुलाणुसरिसीए सीलसंपत्तीए संमुहीकदस्स मे हिदयस्स उववन्नो य्येव समुचिदाए पडिवत्तीए अयं अवसरो ता मम य्येव पियं करिंती वरेसु जं ते समीहिदं।
 
-**नायिका** – ['ईदिसस्स](# "ईदृशस्य देवीप्रसादस्य न तावदधिकं सदृशं किमपि भविष्यति यद् वरिष्यामि । तथापि को देव्याः प्रसादानां पर्याप्तकामः ?, तत् प्रियदर्शनां मे प्रसादीकरोतु देवी") देवीपसायस्स न दाव अधियं सरिसं किं पि भविस्सदि जं वरइस्सं । तधा वि को देवीए पसादाणं पज्जत्तकामो ? ता पियदंसणं मे पसादीकरेदु देवी ।
+[^121]: "ईदृश्या तवानया कुलानुसदृश्या शीलसम्पत्त्या सम्मुखीकृतस्य मे हृदयस्योपपन्न एव समुचितया प्रतिपत्त्याऽयमवसरस्तत् ममैव प्रियं कुर्वन्ती वृणुष्व यत् ते समीहितम् ।"
 
-**राज्ञी** – [बाढं](# "बाढं प्रतिपादिता ") पडिवादिदा ।
+**नायिका** – 'ईदिसस्स[^122] देवीपसायस्स न दाव अधियं सरिसं किं पि भविस्सदि जं वरइस्सं । तधा वि को देवीए पसादाणं पज्जत्तकामो ? ता पियदंसणं मे पसादीकरेदु देवी ।
 
-**नायिका** – [महंतो](# "महान् प्रसादः । साम्प्रतं प्रमार्ज्य भुजिष्यभावं प्रियदर्शनाया इच्छा- गौरव-स्नेहस्यनुसदृशं व्यवहरिष्ये ।") पसादो (स्वगतम्) संपदं पमज्जिय भुजिस्सभावं पियदंसणाए इच्छा – गुरूव – नेहस्स अणुसरिसं ववहरिस्सं ।”
+[^122]: "ईदृशस्य देवीप्रसादस्य न तावदधिकं सदृशं किमपि भविष्यति यद् वरिष्यामि । तथापि को देव्याः प्रसादानां पर्याप्तकामः ?, तत् प्रियदर्शनां मे प्रसादीकरोतु देवी"
+
+**राज्ञी** – बाढं[^123] पडिवादिदा ।
+
+[^123]: "बाढं प्रतिपादिता "
+
+**नायिका** – महंतो[^124] पसादो (स्वगतम्) संपदं पमज्जिय भुजिस्सभावं पियदंसणाए इच्छा – गुरूव – नेहस्स अणुसरिसं ववहरिस्सं ।”
+
+[^124]: "महान् प्रसादः । साम्प्रतं प्रमार्ज्य भुजिष्यभावं प्रियदर्शनाया इच्छा- गौरव-स्नेहस्यनुसदृशं व्यवहरिष्ये ।"
 
 अत्र वरस्य प्रतिग्रह इति ।
 
@@ -4614,7 +4856,9 @@ G. K. Shrigondekar.
 
 अन्यार्था भाविदृष्टिर्वा व्याहारो हास्यलेशगीः।
 
-अन्योऽर्थः प्रयोजनं यस्या भाविनी वा भविष्यन्ती दृष्टिर्दर्शितविषयोऽर्थो यस्याः सा हास्ये लेशप्रधाना गीर्वाणी । विविधोऽर्थ आह्रियतेऽनयेति व्याहारः। तत्रान्यार्थो यथा मालति(वि)काग्निमित्रे लास्यप्रयोगावसाने मालती(विका) निर्गन्तुमिच्छति । विदूषकः – "[भो](# "भवति ! तिष्ठ तावत् विस्मृतं खलु वः किञ्चित् तत् तावत् प्रक्ष्यामि ।")दी ! चिट्ठ दाव, विसुमरिदं खु वो किंचि तं ताव पुच्छिस्सं ।
+अन्योऽर्थः प्रयोजनं यस्या भाविनी वा भविष्यन्ती दृष्टिर्दर्शितविषयोऽर्थो यस्याः सा हास्ये लेशप्रधाना गीर्वाणी । विविधोऽर्थ आह्रियतेऽनयेति व्याहारः। तत्रान्यार्थो यथा मालति(वि)काग्निमित्रे लास्यप्रयोगावसाने मालती(विका) निर्गन्तुमिच्छति । विदूषकः – "भो[^125]दी ! चिट्ठ दाव, विसुमरिदं खु वो किंचि तं ताव पुच्छिस्सं ।
+
+[^125]: "भवति ! तिष्ठ तावत् विस्मृतं खलु वः किञ्चित् तत् तावत् प्रक्ष्यामि ।"
 
 
 
@@ -4622,7 +4866,9 @@ G. K. Shrigondekar.
 
 (मालति (वि) का स्थिता)
 
-धारणी-[गो](# "गौतमवचनमपि आर्यो हृदये प्रमाणीकरोति !")दमवयणं पि अज्जो हियए पमाणीकरेदि !
+धारणी-गो[^126]दमवयणं पि अज्जो हियए पमाणीकरेदि !
+
+[^126]: "गौतमवचनमपि आर्यो हृदये प्रमाणीकरोति !"
 
 **गणदासः** – देवि ! मा मैवम् । देवप्रत्ययात् सम्भाव्यते । सूक्ष्मदर्शी गौतमः। पश्य –
 
@@ -4632,7 +4878,9 @@ G. K. Shrigondekar.
 
 (विदूषकं विलोक्य) किं विवक्षितमार्यस्य ?
 
-**विदूषकः**—[प](# "२ प्रथमं तावत् प्रेक्षकान् पृच्छ, पश्चाद् यो मया (क्रम) कर्मभेदो लक्षितस्तं भणिष्यामि ।")ढमं दाव पेक्खगे पुच्छ । पच्छा जो मए कम (म्म) भेदो लक्खिदो, तं भणिस्सं ।
+**विदूषकः**—प[^127] कर्मभेदो लक्षितस्तं भणिष्यामि ।")ढमं दाव पेक्खगे पुच्छ । पच्छा जो मए कम (म्म) भेदो लक्खिदो, तं भणिस्सं ।
+
+[^127]: "२ प्रथमं तावत् प्रेक्षकान् पृच्छ, पश्चाद् यो मया (क्रम
 
 **गणदासः** – भगवति ! गुणो वा दोषो वा यथादृष्टमभिधीयताम् ।
 
@@ -4644,11 +4892,15 @@ G. K. Shrigondekar.
 
 **गणदासः** – देव ! अद्य नर्तयिताऽस्मि ।
 
-**धारणी** – [दि](# "दिष्ट्या प्रेक्षकाराधनेन । आर्यों वर्धते ।")ट्ठिया पेक्खगाराधणेण । (गणदासमवलोक्य) अज्जोवट्ट (ड्ढ) दि ।
+**धारणी** – दि[^128]ट्ठिया पेक्खगाराधणेण । (गणदासमवलोक्य) अज्जोवट्ट (ड्ढ) दि ।
+
+[^128]: "दिष्ट्या प्रेक्षकाराधनेन । आर्यों वर्धते ।"
 
 **गणदासः** – देवीपरिग्रहो मे वृद्धिहेतुः। (विदूषकं विलोक्य) वदेदानीं यत् ते मनः कर्षति ।
 
-**विदूषकः** – [पढ](# " प्रथमोपदेशदर्शने प्रथमं ब्राह्मणस्य पूजैष्टव्या, सा त्वया लङ्घिता ।")मोवदेसदंसणे पढमंबंभणस्स पूया इच्छिदव्वा, सा तएलंघिदा ।
+**विदूषकः** – पढ[^129]मोवदेसदंसणे पढमंबंभणस्स पूया इच्छिदव्वा, सा तएलंघिदा ।
+
+[^129]: " प्रथमोपदेशदर्शने प्रथमं ब्राह्मणस्य पूजैष्टव्या, सा त्वया लङ्घिता ।"
 
 
 
@@ -4671,19 +4923,31 @@ G. K. Shrigondekar.
 
 अत्र राज्ञा वासवदत्तां प्रति भाव्यर्थदर्शनं हास्येनोक्तमिति ।
 
-अन्ये तु वर्तमानप्रत्यक्षार्थवाचकं हास्यलेशकरं वचो व्याहारमिच्छन्ति । यथा मृच्छकट्यां विदूषको गणिकाया वसन्तसेनाया गृहं प्रविशन् वसन्तसेनाया मातरं दृष्ट्वा पृच्छति – “[का](# "का एषा बन्धुला ( रा ) ?") एसा बंधुला ?
+अन्ये तु वर्तमानप्रत्यक्षार्थवाचकं हास्यलेशकरं वचो व्याहारमिच्छन्ति । यथा मृच्छकट्यां विदूषको गणिकाया वसन्तसेनाया गृहं प्रविशन् वसन्तसेनाया मातरं दृष्ट्वा पृच्छति – “का[^130] ?") एसा बंधुला ?
 
-\[ चेटी-\] [एसा](# "एषाऽज्जुकाया जननी अत्तिका") अज्जुआए जणणी अत्तिया ।
+[^130]: "का एषा बन्धुला ( रा
 
-**विदूषकः**—[ज](# "यदि म्रियेत, तदा शृगालसहस्रस्य पर्याप्ता । अथ किम् एतां प्रवेश्य द्वारशोभा निर्मापिता ? अथवाऽवस्कदेन प्रवेशिता ?")दि मरे ता सीयालसहस्सस्स पज्जत्तिका । अथ किं एदं पवि (वे) सिय दुवारसोहा निम्मविदा ? आदु उक्खंदाव(दवे) ण पवेसिदा ?
+\[ चेटी-\] एसा[^131] अज्जुआए जणणी अत्तिया ।
 
-चेटी-[अ](# "आर्य ! मैतावदन्वीक्षस्व । अत्तिका चातुर्थिकेन बाध्यते ।")य्य ! मा एत्तियं अन्नेक्खसु । अत्तिका चाउत्थएण वा (बा) धीयदि ।
+[^131]: "एषाऽज्जुकाया जननी अत्तिका"
 
-**विदूषकः** – [भ](# "भगवन् चातुर्थिक । मामपि ब्राह्मणमनुकम्पस्व ।")यवं चाउत्थय ! मं पि बंभणं अणुकंपेहि । ” इति।
+**विदूषकः**—ज[^132]दि मरे ता सीयालसहस्सस्स पज्जत्तिका । अथ किं एदं पवि (वे) सिय दुवारसोहा निम्मविदा ? आदु उक्खंदाव(दवे) ण पवेसिदा ?
+
+[^132]: "यदि म्रियेत, तदा शृगालसहस्रस्य पर्याप्ता । अथ किम् एतां प्रवेश्य द्वारशोभा निर्मापिता ? अथवाऽवस्कदेन प्रवेशिता ?"
+
+चेटी-अ[^133]य्य ! मा एत्तियं अन्नेक्खसु । अत्तिका चाउत्थएण वा (बा) धीयदि ।
+
+[^133]: "आर्य ! मैतावदन्वीक्षस्व । अत्तिका चातुर्थिकेन बाध्यते ।"
+
+**विदूषकः** – भ[^134]यवं चाउत्थय ! मं पि बंभणं अणुकंपेहि । ” इति।
+
+[^134]: "भगवन् चातुर्थिक । मामपि ब्राह्मणमनुकम्पस्व ।"
 
 यथा नलविलासे लम्बस्तनीकापालिकीं प्रति विदूषकः-
 
-“[ए](# "एकं तावन्मे संशयं भङ्क्ष्व।मम ब्राह्मण्या माता स्थूलक्ठट्टिनी या पाटलिपुत्रे वसति, सा किं त्वमुतान्या काऽपि ?")कं दाव मे संसयं भंजेहि । मह बंभणीए माया मू (थू) लकुट्टणी जा पाडलिपुत्ते वसदि, सा किं तुमं ? आदु अन्नाका वि ?" इत्यादीति ।
+“ए[^135]कं दाव मे संसयं भंजेहि । मह बंभणीए माया मू (थू) लकुट्टणी जा पाडलिपुत्ते वसदि, सा किं तुमं ? आदु अन्नाका वि ?" इत्यादीति ।
+
+[^135]: "एकं तावन्मे संशयं भङ्क्ष्व।मम ब्राह्मण्या माता स्थूलक्ठट्टिनी या पाटलिपुत्रे वसति, सा किं त्वमुतान्या काऽपि ?"
 
 
 
@@ -4701,11 +4965,15 @@ G. K. Shrigondekar.
 
 तस्यां च मूढायां लक्ष्मणः – आर्ये ! समाश्वसिहि समाश्वसिहि ।
 
-सू(शू)र्पणखा – (अक्षिणी उन्मील्य सक्रोधं सक (ह) सा च) [आ](# "आः ! अनार्य ! अद्यापि त्वं तिष्ठस्येव ! अहो ! इदानीमसि त्वं नृशंसो निर्घृणश्च ! तिष्ठतु तावद् भ्रातृस्नेहः, कथं नामेक्ष्वाकुकुलसम्भवेन महाक्षत्रियेण भूत्वैवं त्वया व्यवसितम् ? ननु भणामि एवमाक्रन्दन् शत्रुरपि नोपेक्ष्यते, किं पुनरार्यपुत्रः ?")ः अणज्ज ! अज्ज वि तुमं चिट्ठसि य्येव । अहो ! दाणि सि तुमं निस्संसो निग्घिणो य ! चिट्ठदु दाव भादुयसिणेहो, कध णाम इक्खाउकुलसंभवेण महाखत्तिएण भविय एवं तए ववसियं ? णं भणामि, एवमक्कंदंतो सत्तू वि न उव(वे)क्खीयदि, किं पुण अज्जउत्तो ?
+सू(शू)र्पणखा – (अक्षिणी उन्मील्य सक्रोधं सक (ह) सा च) आ[^136]ः अणज्ज ! अज्ज वि तुमं चिट्ठसि य्येव । अहो ! दाणि सि तुमं निस्संसो निग्घिणो य ! चिट्ठदु दाव भादुयसिणेहो, कध णाम इक्खाउकुलसंभवेण महाखत्तिएण भविय एवं तए ववसियं ? णं भणामि, एवमक्कंदंतो सत्तू वि न उव(वे)क्खीयदि, किं पुण अज्जउत्तो ?
+
+[^136]: "आः ! अनार्य ! अद्यापि त्वं तिष्ठस्येव ! अहो ! इदानीमसि त्वं नृशंसो निर्घृणश्च ! तिष्ठतु तावद् भ्रातृस्नेहः, कथं नामेक्ष्वाकुकुलसम्भवेन महाक्षत्रियेण भूत्वैवं त्वया व्यवसितम् ? ननु भणामि एवमाक्रन्दन् शत्रुरपि नोपेक्ष्यते, किं पुनरार्यपुत्रः ?"
 
 **लक्ष्मणः** —आर्ये ! ननु त्वदर्थ एवार्येण स्थापितोऽस्मि ।
 
-सू(शू)र्पणखा – [कु](# "कुमार ! एवं ममार्थः कृतो भवति । एवं चाहं परिरक्षिता भवामि । तत् सर्वथाऽन्यमेव खेऽनिष्टम्भिप्रायं लक्षयामि ।")मार ! एवं मन(म) अत्थो कदो होदि । एवं च अहं परिरक्खिदा होमि । ता सव्वधा अन्नं य्येव दे अणिट्ठं अभिप्पायं लक्खेमि ।” इत्यादि ।
+सू(शू)र्पणखा – कु[^137]मार ! एवं मन(म) अत्थो कदो होदि । एवं च अहं परिरक्खिदा होमि । ता सव्वधा अन्नं य्येव दे अणिट्ठं अभिप्पायं लक्खेमि ।” इत्यादि ।
+
+[^137]: "कुमार ! एवं ममार्थः कृतो भवति । एवं चाहं परिरक्षिता भवामि । तत् सर्वथाऽन्यमेव खेऽनिष्टम्भिप्रायं लक्षयामि ।"
 
 **यथा वा रघुविलासे-**
 
@@ -4769,11 +5037,15 @@ G. K. Shrigondekar.
 
 **किमस्या न प्रेयो यदि परमसह्यस्तु विरहः॥**
 
-(प्रविश्य) प्रतीहारी– '[दे](# "देव ! उपस्थितः ")व ! उवत्थिदो ।
+(प्रविश्य) प्रतीहारी– 'दे[^138]व ! उवत्थिदो ।
+
+[^138]: "देव ! उपस्थितः "
 
 **रामः** – अयि ! कः ?
 
-प्रतीहारी– [दे](# "देवस्यासन्नपरिचारको दुर्मुखः")वस्स आसन्नपरिचारओ दुम्मुहो।“इति।
+प्रतीहारी– दे[^139]वस्स आसन्नपरिचारओ दुम्मुहो।“इति।
+
+[^139]: "देवस्यासन्नपरिचारको दुर्मुखः"
 
 अत्राकस्मात् प्रतीहारीवचनमन्याभिप्रायप्रयुक्तं प्रस्तुतरामवचसा संयुज्यमानत्वात् गण्डः।
 
@@ -4789,7 +5061,9 @@ G. K. Shrigondekar.
 
 (नेपथ्ये)
 
-[जो](# "योऽन्यतः प्रसूतोऽन्येन चवर्धितो मधुप्रभवः । कृष्णः स परपुष्टो मारयति न कोऽपि धारयति ॥") अन्नओ पसूओ अन्नेण य वड्ढिओ महुप्पहवो ।
+जो[^140] अन्नओ पसूओ अन्नेण य वड्ढिओ महुप्पहवो ।
+
+[^140]: "योऽन्यतः प्रसूतोऽन्येन चवर्धितो मधुप्रभवः । कृष्णः स परपुष्टो मारयति न कोऽपि धारयति ॥"
 
 कण्हो सो परउट्ठोमारेइ न कोइ धारेइ ॥”
 
@@ -4827,9 +5101,13 @@ G. K. Shrigondekar.
 
 यथा रत्नावल्यां राजा कदलीगृहे चित्रगतां सागरिकां पश्यन् सुसङ्गताया दर्शने फलहकं प्रच्छाद्य तामाह – “सुसङ्गते ! कथमिहस्थो भवत्या ज्ञातः ?
 
-**सुसङ्गता** – '[भ](# "भर्तः ! न केवलं त्वम्, समं चित्रफलकेन सर्वो वृत्तान्तो मया ज्ञातः, तद् गत्वा देव्यै निवेदयिष्यामि")ट्टा ! न केवलं तुवं, समं चित्तफलएण सव्वो वुत्तंतो मए जाणिदो, ता गडुय देवीए निवेदइस्सं ।
+**सुसङ्गता** – 'भ[^141]ट्टा ! न केवलं तुवं, समं चित्तफलएण सव्वो वुत्तंतो मए जाणिदो, ता गडुय देवीए निवेदइस्सं ।
 
-**वसन्तकः** – (अपवार्य) '[भो](# "भोः ! सर्वं सम्भाव्यते । मुखरा खल्वेषा गर्भदासी, तत् किञ्चिद्  दत्वा परितोषयैनाम् ।") ! सव्वं संभवीयदि।मुहरा खु एसा गब्भदासी । ता किंचि दइय परिदोसेहि णं ।
+[^141]: "भर्तः ! न केवलं त्वम्, समं चित्रफलकेन सर्वो वृत्तान्तो मया ज्ञातः, तद् गत्वा देव्यै निवेदयिष्यामि"
+
+**वसन्तकः** – (अपवार्य) 'भो[^142] ! सव्वं संभवीयदि।मुहरा खु एसा गब्भदासी । ता किंचि दइय परिदोसेहि णं ।
+
+[^142]: "भोः ! सर्वं सम्भाव्यते । मुखरा खल्वेषा गर्भदासी, तत् किञ्चिद्  दत्वा परितोषयैनाम् ।"
 
 **राजा** – (सुसङ्गताया अलकान् प्रमार्जयन्) सुसङ्गते ! क्रीडामात्रक-
 
@@ -4837,7 +5115,9 @@ G. K. Shrigondekar.
 
 मेवैतत्, तथापि नाकारणे त्वया देवी खेदयितव्या । इदं च ते पारितोषिकम् ।“(इति कर्णाभरणं ददाति)
 
-**सुसङ्गता** – (प्रणम्य सस्मितम्) [भट्टा](# "भर्तः ! प्रसादो मे कर्णाभरणेन ।") ! प्र (प) सादो मे कष्णाभरणेण । ”इत्यादि ।
+**सुसङ्गता** – (प्रणम्य सस्मितम्) भट्टा[^143] ! प्र (प) सादो मे कष्णाभरणेण । ”इत्यादि ।
+
+[^143]: "भर्तः ! प्रसादो मे कर्णाभरणेन ।"
 
 अत्र राज सुसङ्गतयोर्मिथो देव्यै निवेदयिष्यामि इति हास्यम् ।
 
@@ -4845,33 +5125,55 @@ G. K. Shrigondekar.
 
 हास्यहेतुस्तं प्रपञ्चमाहुः। यथा –
 
-"[रंडा](# "रण्डाश्चण्डा दीक्षिता धर्मदारा मध्यं मांसं खाद्यते पीयते वा । भिक्षा भोज्यं चर्मखण्डं च शय्या कौलो धर्मः कस्य नो भाति रम्यः ? ॥") चंडा दिक्खिदा धम्मदारा मज्जं मंसं खज्ज‌ए  पिज्जए वा ।
+"रंडा[^144] चंडा दिक्खिदा धम्मदारा मज्जं मंसं खज्ज‌ए  पिज्जए वा ।
+
+[^144]: "रण्डाश्चण्डा दीक्षिता धर्मदारा मध्यं मांसं खाद्यते पीयते वा । भिक्षा भोज्यं चर्मखण्डं च शय्या कौलो धर्मः कस्य नो भाति रम्यः ? ॥"
 
 भिक्खा भोज्जं चम्मखंडं च सेज्जा कोलो धम्मो कस्स नो भादि रम्मो ?॥”
 
 अन्ये तु द्वयोर्लाभं विना मिथ्यारूपं हास्यं संस्तवयुक्तं प्रपञ्चत्वेनमन्यन्ते । यथा प्रयोगाभ्युदये-
 
-“**तरङ्गदत्तकचेटी** – [अम्मो](# "अहो ! अयं खल्वेष सञ्चरिष्णूपहासपत्तनमार्यभण्डीरव इत एवागच्छति ।") ! अयं खु एसो संचारिमं उवहासपट्टणं अय्यभंडीरवो इदो य्येवागच्छदि।
+“**तरङ्गदत्तकचेटी** – अम्मो[^145] ! अयं खु एसो संचारिमं उवहासपट्टणं अय्यभंडीरवो इदो य्येवागच्छदि।
 
-**विदूषकः** – [(उपसृत्य)](# "भवति ! स्वागतं ते ।")भोदी ! सागदं ते ।
+[^145]: "अहो ! अयं खल्वेष सञ्चरिष्णूपहासपत्तनमार्यभण्डीरव इत एवागच्छति ।"
 
-**चेटी** – [(स्वगतम्)](# "परिहासयिष्यामि तावदेनम् । क इदानीमेषोऽस्माकं प्रेषणकारकश्चेटक इति ।")परिहासइस्सं दाव णं । \[ प्रकाशम् \] को दाणि एसो अम्हाणं पेसणयारओ चेडउ त्ति ।
+**विदूषकः** – (उपसृत्य)[^146]भोदी ! सागदं ते ।
 
-**विदूषकः** – [अहं](# "अहं घटदासीनां स्वामी ।") घडदासीणं सामिगो ।
+[^146]: "भवति ! स्वागतं ते ।"
+
+**चेटी** – (स्वगतम्)[^147]परिहासइस्सं दाव णं । \[ प्रकाशम् \] को दाणि एसो अम्हाणं पेसणयारओ चेडउ त्ति ।
+
+[^147]: "परिहासयिष्यामि तावदेनम् । क इदानीमेषोऽस्माकं प्रेषणकारकश्चेटक इति ।"
+
+**विदूषकः** – अहं[^148] घडदासीणं सामिगो ।
+
+[^148]: "अहं घटदासीनां स्वामी ।"
 
 
 
-**चेटी** – [किं](# "किं चेटक इति भणिते कुपितस्त्वम् ?") चेडउ त्ति भणिदे कुविदो तुमं ?
+**चेटी** – किं[^149] चेडउ त्ति भणिदे कुविदो तुमं ?
 
-**विदूषकः** – [को](# "क इदानीं विशेषो घटदासीनां कुम्भदासीनां च ?") दाणि विसेसो घडदासीणं कुंभदासीणं च ?
+[^149]: "किं चेटक इति भणिते कुपितस्त्वम् ?"
 
-**चेटी** – [मा](# "मा कुप्य, ' भट्टपुत्रः ' इति भणिष्यामि ।") कुप्प, भट्टउत्तो त्तिभणिस्सं ।
+**विदूषकः** – को[^150] दाणि विसेसो घडदासीणं कुंभदासीणं च ?
 
-**विदूषकः** – भो[दी](# "भवति ! त्वमपि मा कुप्य, 'आर्या' इति भणिष्यामि ।") ! तुवं पि मा कुप्प, अज्जा इति भणिस्सं ।
+[^150]: "क इदानीं विशेषो घटदासीनां कुम्भदासीनां च ?"
 
-**चेटी** – [अहो](# "अहो ! भट्टपुत्रस्य मतिः ।") ! भट्टउत्तस्स ग(म)दी ।
+**चेटी** – मा[^151] कुप्प, भट्टउत्तो त्तिभणिस्सं ।
 
-**विदूषकः** – [अहो](# "अहो ! अतिरूपाऽऽर्या ।") ! अदिरूआ अज्जया ।“इति ॥ ९७ ॥
+[^151]: "मा कुप्य, ' भट्टपुत्रः ' इति भणिष्यामि ।"
+
+**विदूषकः** – भोदी[^152] ! तुवं पि मा कुप्प, अज्जा इति भणिस्सं ।
+
+[^152]: "भवति ! त्वमपि मा कुप्य, 'आर्या' इति भणिष्यामि ।"
+
+**चेटी** – अहो[^153] ! भट्टउत्तस्स ग(म)दी ।
+
+[^153]: "अहो ! भट्टपुत्रस्य मतिः ।"
+
+**विदूषकः** – अहो[^154] ! अदिरूआ अज्जया ।“इति ॥ ९७ ॥
+
+[^154]: "अहो ! अतिरूपाऽऽर्या ।"
 
 **अथ त्रिगतम् – – **
 
@@ -4889,25 +5191,35 @@ G. K. Shrigondekar.
 
 **देवीं त्यजामि बलवांस्त्वयि मेऽनुरागः॥** 
 
-अन्यस्त्रीशङ्कया ध्रुवदेवी – – [यदि](# "यदि(तो) भक्तिमपेक्षसे, ततो मां मन्दभागिनीं परित्यजसि ") भत्तिंअवेक्खसि तदो मं मंदभाइणिं परिच्चयसि !
+अन्यस्त्रीशङ्कया ध्रुवदेवी – – यदि[^155] भक्तिमपेक्षसे, ततो मां मन्दभागिनीं परित्यजसि ") भत्तिंअवेक्खसि तदो मं मंदभाइणिं परिच्चयसि !
+
+[^155]: "यदि(तो
 
 **राजा** – अपि च, त्यजामि देवीं तृणवत् त्वदन्तरे ।
 
 
 
-**ध्रुव०** – [अहं](# "अहमपि जीवितं परित्यजन्ती आर्यपुत्रं प्रथमतरमेव परित्यक्ष्यामि ।") पि जीविदं परिच्चयंती अज्जउत्तं पढमयरं य्येव परिच्चइस्सं ।
+**ध्रुव०** – अहं[^156] पि जीविदं परिच्चयंती अज्जउत्तं पढमयरं य्येव परिच्चइस्सं ।
+
+[^156]: "अहमपि जीवितं परित्यजन्ती आर्यपुत्रं प्रथमतरमेव परित्यक्ष्यामि ।"
 
 **राजा –** -त्वया विना राज्यमिदं हि निष्फलम् ।
 
-**ध्रुवदेवी** – [ममावि](# "ममापि साम्प्रतं निष्फलो जीवलोकः सुखपरित्यजनीयो भविष्यति ।") संपदं निप्फलो जीवलोओ सुहपरिच्चयणीओ भविस्सदि ।
+**ध्रुवदेवी** – ममावि[^157] संपदं निप्फलो जीवलोओ सुहपरिच्चयणीओ भविस्सदि ।
+
+[^157]: "ममापि साम्प्रतं निष्फलो जीवलोकः सुखपरित्यजनीयो भविष्यति ।"
 
 **राजा** – ऊढेति देवीं प्रति मे दयालुता ।
 
-**ध्रुवदेवी** – [इयं](# "इयमार्यपुत्र ! ईदृशी दयालुता । यदनपरद्धो जनोऽनुगत एवं परित्यज्यते ।") अज्जउत्त ! ईदिसी दयालुदा ! जं अणवरद्धो जणो अणुगदो एवं परिच्चईयदि ।
+**ध्रुवदेवी** – इयं[^158] अज्जउत्त ! ईदिसी दयालुदा ! जं अणवरद्धो जणो अणुगदो एवं परिच्चईयदि ।
+
+[^158]: "इयमार्यपुत्र ! ईदृशी दयालुता । यदनपरद्धो जनोऽनुगत एवं परित्यज्यते ।"
 
 **राजा** – -त्वयि स्थितं स्नेहनिबन्धनं मनः।
 
-**ध्रुवदेवी** – [अदो](# "अत एव मन्दभागा परित्यज्ये ।") य्येव मंदभागा परिच्चइयामि ।
+**ध्रुवदेवी** – अदो[^159] य्येव मंदभागा परिच्चइयामि ।
+
+[^159]: "अत एव मन्दभागा परित्यज्ये ।"
 
 **राजा** –
 
@@ -4915,13 +5227,19 @@ G. K. Shrigondekar.
 
 **परित्यक्ता मया देवी जनोऽयं जन एव मे ॥**
 
-**ध्रुवदेवी** – [हंजे](# "इंजे ! इयं साऽऽयंपुत्रस्य करुणता !") ! इयं सा अय्यउत्तस्स करुणदा !
+**ध्रुवदेवी** – हंजे[^160] ! इयं सा अय्यउत्तस्स करुणदा !
 
-**सूत्रधारी** – [देवि](# "देवि ! पतन्ति चन्द्रमण्डलादप्युल्काः, किमत्र क्रियते ?") ! पडंति चंदमंडलाउ \[वि\] चुडुलीओ, किं एत्थ करीयदि ?
+[^160]: "इंजे ! इयं साऽऽयंपुत्रस्य करुणता !"
+
+**सूत्रधारी** – देवि[^161] ! पडंति चंदमंडलाउ \[वि\] चुडुलीओ, किं एत्थ करीयदि ?
+
+[^161]: "देवि ! पतन्ति चन्द्रमण्डलादप्युल्काः, किमत्र क्रियते ?"
 
 **राजा** – देवीवियोगदुःखार्तांस्त्वमस्मान् रमयिष्यसि ।
 
-**ध्रुवदेवी** – [वियोगदुक्खं](# "वियोगदुःखमपि तेऽकरुणस्यास्त्येव !") पि दे अकरुणस्स अत्थि थ्येव!
+**ध्रुवदेवी** – वियोगदुक्खं[^162] पि दे अकरुणस्स अत्थि थ्येव!
+
+[^162]: "वियोगदुःखमपि तेऽकरुणस्यास्त्येव !"
 
 **राजा** – त्वद्दुःखस्यापनेतुं सा शतांशेनापि न क्षमा ।“इति ।
 
@@ -4953,7 +5271,9 @@ G. K. Shrigondekar.
 
 प्रयोजनान्तरेण प्रयुक्तं यद् वचनमन्यस्यान्यस्य हास्य वञ्चनारोषकारणम्, तद् वञ्चनाहेतुत्वाच्छलम् । यथा – -
 
-**“[कस्स](# "कस्य वा न भवति रोषो दृष्ट्वा प्रियायाः सव्रणमधरम् ।  सवामल(भ्रमर)पद्माघ्रायिणि वारितवामे ! सहस्वेदानीम् ॥") व न होइ रोसो दट्ठूणपियाए सव्वणं अहरं ?।**
+**“कस्स[^163]पद्माघ्रायिणि वारितवामे ! सहस्वेदानीम् ॥") व न होइ रोसो दट्ठूणपियाए सव्वणं अहरं ?।**
+
+[^163]: "कस्य वा न भवति रोषो दृष्ट्वा प्रियायाः सव्रणमधरम् ।  सवामल(भ्रमर
 
 **सवामल(भमर)पउमग्घाइरि वारियवामे ! सहसु इण्हिं ॥”**
 
@@ -5065,11 +5385,17 @@ G. K. Shrigondekar.
 
 परविप्रतारणकारि यदुत्तरं हास्याय हास्यनिमित्तं निगूढार्थत्वाद् भवति सा नाली व्याजरूपा प्रणालिका । यथा रत्नावल्यां सागरिका चित्रफलहकार्थमागता कदलीगृहे वत्सराजं दृष्ट्वा बहिः स्थिता सुसङ्गतयोच्यते-
 
-“[सहि](# "सखि ! यस्य कृते त्वमत्रागता सोऽत्रैम तिष्ठति । ") ! जस्स कए तुवं एत्थ आगदा सो एत्थ य्येव चिट्ठदि ।
+“सहि[^164] ! जस्स कए तुवं एत्थ आगदा सो एत्थ य्येव चिट्ठदि ।
 
-**सागरिका** —(सकोपमिव) [सहि](# " सखि ! कस्य ?") ! कस्स ?
+[^164]: "सखि ! यस्य कृते त्वमत्रागता सोऽत्रैम तिष्ठति । "
 
-**सुसङ्गता** – (सहासम्) [अयि](# "अयि आत्मशङ्किते ! ननु प्रवृत्तमधू(हो)त्सवे चित्रफलकस्य ।") अप्पसंकिदे ! णं पउत्तमहूसवे चित्तफलहयस्स ।”
+**सागरिका** —(सकोपमिव) सहि[^165] ! कस्स ?
+
+[^165]: " सखि ! कस्य ?"
+
+**सुसङ्गता** – (सहासम्) अयि[^166]त्सवे चित्रफलकस्य ।") अप्पसंकिदे ! णं पउत्तमहूसवे चित्तफलहयस्स ।”
+
+[^166]: "अयि आत्मशङ्किते ! ननु प्रवृत्तमधू(हो
 
 केचित् तु हास्यहेतुनोपेवां(तां) निगूढार्थरूपां प्रहेलिकां नालीं मन्यन्ते । यथा बालिकावञ्चितके पारिपार्श्वकः-
 
@@ -5087,7 +5413,9 @@ G. K. Shrigondekar.
 
 गुणानां दोषत्वं दोषाणां च गुणत्वं येनोत्तरेण व्यत्ययो विपर्यासः क्रियते तन्मृदा परपक्षमर्दनेन स्वपक्षमवति रक्षतीति मृदवम् । गुणस्य दोषीकरणं यथा वेणीसंहारे द्वितीयेऽङ्के-
 
-"जयद्रथमाता – [जाद](# " जात ! ते खलु बन्धुवधामर्षोद्दीप्तकोपाः समरेऽनपेक्षितशरीराः परिक्रमिष्यन्ति ।") ! ते खु बंधुवधामरिसुद्दीविदकोवा समरे अणवेक्खियसरीरा परिकमिस्संति ।
+"जयद्रथमाता – जाद[^167] ! ते खु बंधुवधामरिसुद्दीविदकोवा समरे अणवेक्खियसरीरा परिकमिस्संति ।
+
+[^167]: " जात ! ते खलु बन्धुवधामर्षोद्दीप्तकोपाः समरेऽनपेक्षितशरीराः परिक्रमिष्यन्ति ।"
 
 **राजा** – (सोपहासम्) एवमेतत् । सर्वजनप्रसिद्धमेवामर्षित्वं पाण्डवानाम् । पश्य ।
 
@@ -5105,7 +5433,9 @@ G. K. Shrigondekar.
 
 “**राजा** – देवि ! उपालभ्यसेऽभ्यन्तरपरिजनापराधेन ।
 
-**दमयन्ती** – [क](# "कथमिव ?")हंविय ?
+**दमयन्ती** – क[^168]हंविय ?
+
+[^168]: "कथमिव ?"
 
 **राजा** –
 
@@ -5123,7 +5453,9 @@ G. K. Shrigondekar.
 
 
 
-**“[लच्छी](# "लक्ष्मीर्गृहिणां भूषाऽप्राप्तविद्यानां सा पुनर्गुर्वी ।  ततः पठेद् विद्यामाजन्मदुःखकरां सकर्णः ॥") गिहीण भूसा अपत्तविज्जाण सा पुणो गरुई । **
+**“लच्छी[^169] गिहीण भूसा अपत्तविज्जाण सा पुणो गरुई । **
+
+[^169]: "लक्ष्मीर्गृहिणां भूषाऽप्राप्तविद्यानां सा पुनर्गुर्वी ।  ततः पठेद् विद्यामाजन्मदुःखकरां सकर्णः ॥"
 
 **तत्तो पढेज्ज विज्जं आजम्मदुहंकरं सकन्नो ॥”**
 
@@ -5155,7 +5487,9 @@ G. K. Shrigondekar.
 
 अपि च । यथा सुधाकलशे –
 
-**“[ताण](# "तेभ्यो नमो निर्गुणशेखरेभ्यो गुणिश्लाघ्यमानजन्मभ्यः ।  निजगुणविफलत्वभवाः स्वप्नेऽपि न येषामरतयः ॥") नमो निग्गुणसेहराण गुणिसलहिज्जजम्माणं । **
+**“ताण[^170] नमो निग्गुणसेहराण गुणिसलहिज्जजम्माणं । **
+
+[^170]: "तेभ्यो नमो निर्गुणशेखरेभ्यो गुणिश्लाघ्यमानजन्मभ्यः ।  निजगुणविफलत्वभवाः स्वप्नेऽपि न येषामरतयः ॥"
 
 **निअगुणविहलत्तभवा सिविणे वि न जाण अरईउ ॥ **
 
@@ -5241,15 +5575,21 @@ G. K. Shrigondekar.
 
 
 
-"सीता-[जाद](# "जात ! प्रभाते युवाभ्यामयोध्यायां गन्तव्यम् । स च राजा विनयेन प्रणन्तव्यः ।")! पब्भाए तुब्भेहिं अउज्झाए गंतव्वं । सो अ राया विणएण पणमिदव्वो ।
+"सीता-जाद[^171]! पब्भाए तुब्भेहिं अउज्झाए गंतव्वं । सो अ राया विणएण पणमिदव्वो ।
+
+[^171]: "जात ! प्रभाते युवाभ्यामयोध्यायां गन्तव्यम् । स च राजा विनयेन प्रणन्तव्यः ।"
 
 **लवः** – अम्ब ! किमावाभ्यां राजोपजीवकाभ्यां भाव्यम् ?
 
-**सीता** – [सो](# "स खलु युवयोः पिता ।") खु तुम्हाणं पिदा ।
+**सीता** – सो[^172] खु तुम्हाणं पिदा ।
+
+[^172]: "स खलु युवयोः पिता ।"
 
 **लवः** – किमावयो रघुपतिः पिता ?
 
-**सीता** - (साशङ्कम्) [न](# "न खलु युवयोः, सकलाया एव पृथ्व्याः ।") खु तुम्हाणं, सयलाइ य्येव पुहवीए ।“इति ।
+**सीता** - (साशङ्कम्) न[^173] खु तुम्हाणं, सयलाइ य्येव पुहवीए ।“इति ।
+
+[^173]: "न खलु युवयोः, सकलाया एव पृथ्व्याः ।"
 
 एतानि च त्रयोदश वीथ्यङ्गानि सर्वरूपकाणां सर्वसन्धिषु निबन्धनीयानि । सर्वसन्धिसाधारण्यादामुखेऽपि भावाच्च सन्ध्यङ्गेभ्यः पृथगुक्तानीति ॥ १०१ ॥
 
@@ -5504,13 +5844,17 @@ G. K. Shrigondekar.
 
 
 
-**"[उद्ध](# "ऊर्ध्वस्थः पिबति जलं. यथा यथा विरलाङ्गुलिश्चिरं पथिकः । प्रपापालिकाऽपि तथा तथा धारां तनुकामपि तनयति ॥")त्योपियइ जलं जह जह विरलंगुली चिरं पहिओ ।**
+**"उद्ध[^174]त्योपियइ जलं जह जह विरलंगुली चिरं पहिओ ।**
+
+[^174]: "ऊर्ध्वस्थः पिबति जलं. यथा यथा विरलाङ्गुलिश्चिरं पथिकः । प्रपापालिकाऽपि तथा तथा धारां तनुकामपि तनयति ॥"
 
 **पावालिया वि तह तह धारं तणुअं पि तणुएइ ॥”**
 
 यथा वाऽस्माकं सुधाकलशे-
 
-**“[रत्थाइ](# "रथ्यायां सञ्चरन्तं दृष्ट्वा प्रातिवेश्मिकयुवानम् । कर्मकरीकर्मापि खलु धनपतिदुहिता स्वयं कुरुते ॥") संचरंतं नियच्छिउं पाडिवेसियजुयाणं ।**
+**“रत्थाइ[^175] संचरंतं नियच्छिउं पाडिवेसियजुयाणं ।**
+
+[^175]: "रथ्यायां सञ्चरन्तं दृष्ट्वा प्रातिवेश्मिकयुवानम् । कर्मकरीकर्मापि खलु धनपतिदुहिता स्वयं कुरुते ॥"
 
 **कम्मयरीकम्मं पि हु धणवइधूआ सयं कुणइ ॥”**
 
@@ -6221,7 +6565,9 @@ G. K. Shrigondekar.
 
 यथा अनर्ध्यराघवे-
 
-**“[दिणयरकिरणुक्केरो](# "दिनकरकिरणोत्करः प्रियाकरः कोऽपि जीवलोकस्य ।  कमलमुकुलाङ्कपालीकृतमधुकरकर्षणविदग्धः ॥") पियायरो को वि जीवलोयस्स ।**
+**“दिणयरकिरणुक्केरो[^176] पियायरो को वि जीवलोयस्स ।**
+
+[^176]: "दिनकरकिरणोत्करः प्रियाकरः कोऽपि जीवलोकस्य ।  कमलमुकुलाङ्कपालीकृतमधुकरकर्षणविदग्धः ॥"
 
 **कमलमउलंकवालीकयमहुअरकड्ढणवियड्ढो।”**
 
@@ -6232,7 +6578,9 @@ G. K. Shrigondekar.
 
 
 
-**“[एसो](# "१ एष सितकरविस्तरप्रणाशिताशेषवैरितिमिरौघः ।  निजविभावरेण (?विधिवशेन) चन्द्रो गगनग्रहं लङ्घितुं विशति ॥") सियकरवित्थरपणासियासेसवेरितिमिरोहो ।**
+**“एसो[^177] चन्द्रो गगनग्रहं लङ्घितुं विशति ॥") सियकरवित्थरपणासियासेसवेरितिमिरोहो ।**
+
+[^177]: "१ एष सितकरविस्तरप्रणाशिताशेषवैरितिमिरौघः ।  निजविभावरेण (?विधिवशेन
 
 **नियविह(हि) वरे (से) ण चंदो गयणं गह लंघिउं विसइ ॥”**
 
@@ -7358,3 +7706,192 @@ x संवत् १७०२ वर्षे अश्व (आश्वि) �
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^98]: "गृह्णीत रे गृह्णीत वेष्टध्वं रे वेष्टध्वम् ।"
+
+
+[^36]: "Vide stanza 1313 Anandashram Edition."
+
+
+[^34]: "निर्वेदः स्थायिभावोऽस्तिका. प्र. 4-35."

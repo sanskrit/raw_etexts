@@ -862,7 +862,9 @@ R. IX. 24.
 
  114. Colebrooke thus translates this verse: “*in thy extreme age thou shall reach thy fated time with grief like mine for a beloved son. while he spoke, as it were a serpent assailing first and then discharging fatal venom, Kaushalya’s lord, conscious of the first offence, addressed him thus*.”
 
- 115. **दिष्ट**is derived from **दिश्**and means ‘*enjoined, fateď* and **अन्त**means ‘*end*’. I have [elsewhere](# "Preface to my Dictionary vol. I. p. VI.")commented on Amara’s making it a synonym of **मरण**. It is fortunate that Mallinatha does not follow Amara in this instance.
+ 115. **दिष्ट**is derived from **दिश्**and means ‘*enjoined, fateď* and **अन्त**means ‘*end*’. I have elsewhere[^1]commented on Amara’s making it a synonym of **मरण**. It is fortunate that Mallinatha does not follow Amara in this instance.
+
+[^1]: "Preface to my Dictionary vol. I. p. VI."
 
  116. Colebrooke does not translate the whole of the first two lines literally. It should be “*like me, you will also meetyour fated end from filial grief.*.....”. In translating the last two lines, Colebrooke commits several mistakes. **कोशलपति**means “*chief of Koshala* (*the country*)” not “*husband of Kaushalya* (*the queen*.)” **प्रथमपराद्धः** does not mean “*conscious of thefirst offence*.” **प्रथम** in this compound being an adverb and not an adjective. **प्रथमं अपराद्धः प्रथमापराद्धःआक्रान्त** is & passive participle and can not possibly have the active sense given by Colebrooke.
 
@@ -1931,3 +1933,4 @@ B. V. 93.
 
 
 \]
+

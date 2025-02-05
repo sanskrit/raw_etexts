@@ -818,7 +818,11 @@ caste *Dharma* as *upanayana*, (placing under a preceptor) O King.
 
  Arjuna :— This (world) is the place of action, O King, here livelihood is extolled (i.e.) agriculture trade. rearing of cattle, and various other arts, wealth is the natural result of all these. The Ṣruti says that without wealth neither *dharma* nor fulfilment of desires can be had.
 
- A wealthy man is best able to serve *Dharma* and is also able to fulfil his desire, which, a man without means cannot attain. It is said that [*Dharma*](# "Dharma (virtue, piety)")and [desire](# "Kâma (desire for pleasure or enjoyment)")are simply the limbs of wealth; without wealth neither is possible.
+ A wealthy man is best able to serve *Dharma* and is also able to fulfil his desire, which, a man without means cannot attain. It is said that *Dharma*[^1]")and desire[^2]")are simply the limbs of wealth; without wealth neither is possible.
+
+[^1]: "Dharma (virtue, piety
+
+[^2]: "Kâma (desire for pleasure or enjoyment
 
 **नकुलसहदेवौ—**
 
@@ -1843,7 +1847,9 @@ THE TIME FOR EVENING SANDHYĀ.
 **नाधर्मश्चरितो लोके सद्यः फलति गौरिव।  
 शनैरावर्तमानस्तु कर्तुर्मूलानि कृन्तति॥—४-१७२**
 
- Unrighteousness practised in this world does not bear fruit at once, as does a [cow](# "Giving milk soon after feeding it."), but working slowly the roots of the doer (of evil) are cut off. **—Manu IV. 172**
+ Unrighteousness practised in this world does not bear fruit at once, as does a cow[^3], but working slowly the roots of the doer (of evil) are cut off. **—Manu IV. 172**
+
+[^3]: "Giving milk soon after feeding it."
 
 **यदि नात्मनि पुत्रेषु न चेत्पुत्रेषुनप्तृषु।  
 नत्वेव तु कृतोऽधर्मः कर्तुर्भवति निष्फलः॥—४-१७३**
@@ -4099,9 +4105,13 @@ NINE FORMS OF BHAKTI.**
  Greater is their trouble whose minds are set on the unmanifested; for the goal of the unmanifested is very hard for the embodied to reach. **Gità XII-5.**
 
 **राजविद्या राजगुह्यं पवित्रमिदमुत्तमम्।  
-प्रत्यक्षावगमं धर्म्यं [सुसुखं](# "This is interpreted as referring to Bhakti Yoga.") कर्तुमव्ययम्॥ गीता ९. २**
+प्रत्यक्षावगमं धर्म्यं सुसुखं[^4] कर्तुमव्ययम्॥ गीता ९. २**
 
- Of sciences the highest, of mysteries the deepest; of purifiers the supereme is this; realizable by direct perception endowed with merit, very easy to [practise](# "This is interpreted as referring to Bhakti Yoga.")and of an imperishable nature. **Gita IX.2**
+[^4]: "This is interpreted as referring to Bhakti Yoga."
+
+ Of sciences the highest, of mysteries the deepest; of purifiers the supereme is this; realizable by direct perception endowed with merit, very easy to practise[^4]and of an imperishable nature. **Gita IX.2**
+
+[^4]: "This is interpreted as referring to Bhakti Yoga."
 
 **भक्त्या मामभिजानाति यावान् यश्चास्मि तत्वतः।  
 ततो मां तत्वतो ज्ञात्वा विशते तदनन्तरम्॥गीता १८-५५॥**
@@ -4147,7 +4157,9 @@ Me, by My grace he attains to the eternal immustable state. **Gita XVIII. 56**
 **सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।  
 अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥गीता १८-६६ **
 
- Relinquishing all Dharmas, [take](# "This means all other paths of reaching God and attaining liberation.") refuge in Me alone; I will liberate thee from all sins; grieve not. **Gita XVIII. 66**
+ Relinquishing all Dharmas, take[^6] refuge in Me alone; I will liberate thee from all sins; grieve not. **Gita XVIII. 66**
+
+[^6]: "This means all other paths of reaching God and attaining liberation."
 
 **ईश्वरजीवजगद्विषयः**  
 **ON GOD, INDIVIDUAL SOUL AND THE WORLD.**
@@ -4519,7 +4531,9 @@ worshippers.
 **शक्तिसेनाकल्पनाच ब्रह्मण्येवहि पञ्चधा।  
 कल्पितस्य शरीरस्य तस्य सेनादि कल्पना॥१०॥ श्रीरामपूर्वतापनीयोपनिषत्**
 
- Similar is the attributing to the Brahman's assumed [five](# "i.e. form, sex, colour, vehicle, army.") —fold body of an army and other things, likewise is the attributing to gods (the fact of) having forms male and female, wielding weapons, possessing two or four or six or eight, or ten or twelve. or sixteen, or eighteen hands with conch and other things (in those hands), so also attributing colours or vehicles of a thousand kinds. **Ṣ****rí Rámapúrvatápiníyopanishad**.
+ Similar is the attributing to the Brahman's assumed five[^7] —fold body of an army and other things, likewise is the attributing to gods (the fact of) having forms male and female, wielding weapons, possessing two or four or six or eight, or ten or twelve. or sixteen, or eighteen hands with conch and other things (in those hands), so also attributing colours or vehicles of a thousand kinds. **Ṣ****rí Rámapúrvatápiníyopanishad**.
+
+[^7]: "i.e. form, sex, colour, vehicle, army."
 
 **सात्विकी राजसी चैव तामसी व स्वयम्भुवः।  
 तिस्नस्तु मूर्तयः प्रोक्ताः सृष्टिस्थित्यन्तहेतवः॥२६॥**
@@ -4956,7 +4970,9 @@ Synonyms of Mahat:—
  In the Srimad Bhagwadgítá too there is in many passages mention of the Purusha, Prakriti, Mahattattva but the Prakriti (Máyá) there is dependent on the Supreme Lord and not independent of Him. as:—
 
 **अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपिसन्।  
-प्रकृतिं [स्वामधिष्ठाय](# "अधिष्ठाय–Adhishtháya is variously translated")सम्भवाम्यात्म मायया॥ गीता ४.६**
+प्रकृतिं स्वामधिष्ठाय[^8]सम्भवाम्यात्म मायया॥ गीता ४.६**
+
+[^8]: "अधिष्ठाय–Adhishtháya is variously translated"
 
  Though I am unborn, of changeless nature, and Lord of beings, yet subjugating(or resting on) my Prakriti, I come into being by my own Máyá. **Gita IV. 6.**
 
@@ -6049,3 +6065,17 @@ not drag himself down. For the Self alone is the friend of the self. And the sel
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^5]: "This is interpreted as referring to Bhakti Yoga."

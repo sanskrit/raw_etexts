@@ -150,7 +150,7 @@ TRIPLICANE,                   *****
 
 **===========**
 
-*  Svaramêlakalânidhi* is one of the standard works, in Sanskrit,on the *Carnatic* Music. Râmâmâtya, its author, was a native of Ândhradêsa and lived in or about [Kôndavit](# "Cf. स एव सर्वाधिककोण्डवीटप्रधानदुर्गप्रतिपादनेन ।Svaramêlakalânidhi."), which was not faraway from Bezwada, in the principality of which he had a fort ofhis own and in the vicinity of which he enjoyed the [overlordship](# "Cf. पूर्वार्णवेनैव परीतमूर्तेर्विभुत्वमुर्व्या विततार मह्यम् - Ibid.") of a large estate of land washed by the eastern sea. He belongedto the Tôdarmal family; his father was [Thimmâmâtya;](http://॑# " श्रीमदभिनवभरताचार्यवाग्गेयकारतोडर-     मल्लतिम्मामात्यनन्दनरामामात्येन निर्मितः स्वरमेलकला निधिः - Ibid.")and hehimself was such an efficient musician-composer that he won thetitle of ‘[Abhinava Bharatâchârya](http://This%20means%20Modern%20Bharatâchârya. "This means Modern Bharatâchârya.")'.  
+*  Svaramêlakalânidhi* is one of the standard works, in Sanskrit,on the *Carnatic* Music. Râmâmâtya, its author, was a native of Ândhradêsa and lived in or about Kôndavit[^1], which was not faraway from Bezwada, in the principality of which he had a fort ofhis own and in the vicinity of which he enjoyed the overlordship[^2] of a large estate of land washed by the eastern sea. He belongedto the Tôdarmal family; his father was [Thimmâmâtya;](http://॑# " श्रीमदभिनवभरताचार्यवाग्गेयकारतोडर-     मल्लतिम्मामात्यनन्दनरामामात्येन निर्मितः स्वरमेलकला निधिः - Ibid.")and hehimself was such an efficient musician-composer that he won thetitle of ‘[Abhinava Bharatâchârya](http://This%20means%20Modern%20Bharatâchârya. "This means Modern Bharatâchârya.")'.  
   He was associated with Râma Râja of Vijayanagar, perhapsas his minister, as the word *amâtya* indicates. His father too hadthe same title of 'amâtya' appended to his name. But whetherthe father and the son were ever real ministers, who moulded the destinies of Vijayanagar, or were so called only by way of courtesy— a glance at the History of Vijayanagar seems to throw a doubt on.  
   Nothing else is known to us of the father than his fatherhood. As for the son, Râmâmâtya, he exhibited his person, in his work,more as a prolific *Vâggêyakâra* than a serious-minded politician.All that he could record of himself was :--- (1) He had studied the secret of [music](http://अधीतसंगीतकलारहस्यम्%20-%20Svaramelakalanidhi. "अधीतसंगीतकलारहस्यम् - Svaramelakalanidhi.").
 (2) He alone, of all others, knew both the theory and art of [music](http://सलक्ष्यलक्ष्मोभयसारवेदी%20संदृश्यते%20नैव%20भवानिवान्यः%20-%20Ibid. "सलक्ष्यलक्ष्मोभयसारवेदी संदृश्यते नैव भवानिवान्यः - Ibid.").
@@ -158,6 +158,10 @@ TRIPLICANE,                   *****
   This, surely, is not the language of a veritable *minister*, whowielded the mighty empire of Vijayanagar and who, in theintervals of his State-business, managed to write a musical work also, just as Mr. Gladstone wrote his *Homer* or Vidyâranya, his*Panchadasî*.  
   Further, a reference to Robert Sewell's *Forgotten Empire*shows that Achyutha succeeded Krishna Râya Dêva in 1530, that Sadâsiva succeeded Achyutha in 1542, and that the latter(Sadâsiva) was virtually a prisoner in the hands of Râma Râja who was, at first, his minister but became afterwards [independent](http://Vide%20Sewell%20s%20Forgotten%20Empire,%20page%20109. "Vide Sewell s Forgotten Empire, page 109."). By ‘independent', Sewell should have meant that Râma Râja was *de facto* the ruler of Vijayanagar. So he might  
 have been. But *de jure* the ruler was, undoubtedly, Sadâsiva ; for, a very large number of inscriptions, ranging from 1542 to 1568, recognize Sadâsiva as the *real* [sovereign](http://Ibid-page%20179. "Ibid-page 179.").Why, Râmâmâtya himself admits that Râma Râja helped Sadâsiva to regain his throne.⁶ Hence, it is submitted, Râma Râja should have
+
+[^1]: "Cf. स एव सर्वाधिककोण्डवीटप्रधानदुर्गप्रतिपादनेन ।Svaramêlakalânidhi."
+
+[^2]: "Cf. पूर्वार्णवेनैव परीतमूर्तेर्विभुत्वमुर्व्या विततार मह्यम् - Ibid."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -488,12 +492,20 @@ No doubt, the time-honored verse, transmitted to us from author to author, namel
 **चतुश्चतुश्चतुश्चैव षड्जमध्यमपञ्चमाः।  
 द्वे द्वे निषादगान्धारौत्रिस्त्रीरिषभधैवतौ॥**
 
-sums up ‘the Rule of the ancient *Sudha*-Svaras,' according to which the seven *Sudha*-Svaras were *Sa, Ri, Ga, Ma, Pa, Dha, Ni*, made up—as they were—of 4, 3, 2,4, 4, 3, 2srutis respectively. *Or*, as Râmâmâtya would have it, out of the 22 srutis, numbers 4, 7, 9, 13, 17, 20, 22 were alone spoken of as *Sudha*-svaras ; and they were technically called *Sa, Ri, Ga, Ma, Pa, Dha, Ni,* [respectively.](# "1 Vide Fig. 3, page xxi.")All other numbers were called *Vikritha*-Svaras, of which Râmâmâtya chose seven.  
+sums up ‘the Rule of the ancient *Sudha*-Svaras,' according to which the seven *Sudha*-Svaras were *Sa, Ri, Ga, Ma, Pa, Dha, Ni*, made up—as they were—of 4, 3, 2,4, 4, 3, 2srutis respectively. *Or*, as Râmâmâtya would have it, out of the 22 srutis, numbers 4, 7, 9, 13, 17, 20, 22 were alone spoken of as *Sudha*-svaras ; and they were technically called *Sa, Ri, Ga, Ma, Pa, Dha, Ni,* respectively.[^3]All other numbers were called *Vikritha*-Svaras, of which Râmâmâtya chose seven.  
   But the question is : How did the Sudha-svaras, mentioned above, come to be called *Sudha*-svaras ?  
   One explanation is that those seven svaras—which formed, as they even now form, the scale of Sâmagânam—were called *Sudha*-svaras, because they were used in singing the *pure* music of Sâma-Vêda.  
   There seems, here, to be a confusion of ideas. What did the 'pure' music of Sâma-Vêda indicate—the purity of the *music* or of the *sentiment* expressed thereby ? If the former, what was the standard ? But, if the latter, what connection was there between musical notes and Vedic sentiments ?  
-  Another explanation Mr. E. Clements attempted to give. The ancient text-books on music took the Vina-point of [view](# "सुव्यक्तमेव वीणायामस्यार्थस्य निदर्शनम्   Svaramélakalänidhi.") ;and almost all the ancient terms of music were derived from stringed instruments with frets, which gave a series of semitonesup to a certain point and, then, a scale of tones and semitones.This latter scale (of tones and semitones)was, in the normalposition of the frets, known as the *Sudha*-Scale and the notes itcomprised were called [*Sudha*-Svaras](# "Cf. Ragas of Tanjore, page 15.").  
-  The following tabular [statement](# "Vide Hindu Music, page 15.")of Mr. Bulwant Trimbuckseems to strengthen the position of Mr. Clements :—
+  Another explanation Mr. E. Clements attempted to give. The ancient text-books on music took the Vina-point of view[^4] ;and almost all the ancient terms of music were derived from stringed instruments with frets, which gave a series of semitonesup to a certain point and, then, a scale of tones and semitones.This latter scale (of tones and semitones)was, in the normalposition of the frets, known as the *Sudha*-Scale and the notes itcomprised were called *Sudha*-Svaras[^5].  
+  The following tabular statement[^6]of Mr. Bulwant Trimbuckseems to strengthen the position of Mr. Clements :—
+
+[^3]: "1 Vide Fig. 3, page xxi."
+
+[^4]: "सुव्यक्तमेव वीणायामस्यार्थस्य निदर्शनम्   Svaramélakalänidhi."
+
+[^5]: "Cf. Ragas of Tanjore, page 15."
+
+[^6]: "Vide Hindu Music, page 15."
 
 |        |           |        |
 |:------:|:---------:|:------:|
@@ -561,16 +573,22 @@ differed in their weight—Bombay *seer* weighing 28 Tolas and Poona *seer* 76 T
 
 
 
-free from this defect. Further, to adopt the Mâyâmâlavagowla-scale as the *Sudha*-Scale does no violence to the feelings of the[musicians](# "Vide Mr. Clements s Ragas of Tanjore, p. 15.").Here came Mr. A. H. Fox Strangways, as it were,to help Mr. Clements and observed : *'Mâyâmâlavagowla* onlydeveloped from *Mukhâri* by way of modal shift of tonic, as in thecase of the modern Greek [Scale](# "Vide Mr. Fox Strangways s Music of Hindostan, p. 120.").And here, again, Mr.H. A. Popley amplified that the modal shift of tonic was made byone semitone higher and, having illustrated his point by thefollowing diagram
+free from this defect. Further, to adopt the Mâyâmâlavagowla-scale as the *Sudha*-Scale does no violence to the feelings of themusicians[^7].Here came Mr. A. H. Fox Strangways, as it were,to help Mr. Clements and observed : *'Mâyâmâlavagowla* onlydeveloped from *Mukhâri* by way of modal shift of tonic, as in thecase of the modern Greek Scale[^8].And here, again, Mr.H. A. Popley amplified that the modal shift of tonic was made byone semitone higher and, having illustrated his point by thefollowing diagram
+
+[^7]: "Vide Mr. Clements s Ragas of Tanjore, p. 15."
+
+[^8]: "Vide Mr. Fox Strangways s Music of Hindostan, p. 120."
 
 
 ![](../../../../../books_images/U-IMG-1691399698Swara.jpg)  
 (FIG. 6)
 
-wrote, by way of explanation,—'B to B form *Mukhari* and C to Cis [*Mâyâmâlavagowla*](# "Vide Mr. Popley s Music of India, p. 43.") ¹.  
+wrote, by way of explanation,—'B to B form *Mukhari* and C to Cis *Mâyâmâlavagowla*[^9] ¹.  
   All the three, I fear, overshot the mark, inasmuch as the*Mukhâri* of the above Fig. 6 points only to *Kharaharapriya*wherein alone *Ga* (D) and *Ni* (A) are *Kômal* or flat and surelynot to *Kanakângi*, wherein *Ga* and *Ni* are really conspicuous bytheir absence, though *Ri* Thivra and *Dha* Thivra are made tofalsely personate them.  
   The trend of the modern view is that, while *Bilâvâl* is the*Sudha*-Scale of North India, *Mâyâmâlavagowla* is that of SouthIndia. But, be it noted, that neither of them is the *Sudha*-Scalein the sense in which our ancient writers held, viz, that its sevensvaras had their respective sruti numbers 4, 7, 9, 13, 17, 20 and22, but that the elementary songs have been traditionally taughtto the children in those *Râgâs*. Such *traditional* teaching began,at first, as a matter of convenience or, better, inclination ; but,then, it took root by force of habit.  
   Now, though the old seven *Sudha*-Svaras and the *Sudha*-Scale formed thereby have, doubtless, become obsolete ; yet, we have
+
+[^9]: "Vide Mr. Popley s Music of India, p. 43."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -578,7 +596,11 @@ wrote, by way of explanation,—'B to B form *Mukhari* and C to Cis [*Mâyâmâl
 
 
 
-now *Sa* and *Pa* as *Sudha* (or better, *Prakrithi*) Svaras, inasmuchas they are fixed or admit of no varieties at all ; while *Ri, Ga, Ma,Dha, Ni* are *Vikritha*-Svaras, inasmuch as each of them admits of[two](# "A third variety is added by Venkatamakhi.")clear varieties, viz, *Kômal* and *Thîvra*, that is, flat and sharp.These modern '*Sudha-Vikritha* Svaras, [twelve](# " Cf. आहत्य शुद्धविकृताः स्वरा द्वादश कीर्तिताः।                             Chathurdandi Prakâsikâ.")in number, maybe tabulated thus :—
+now *Sa* and *Pa* as *Sudha* (or better, *Prakrithi*) Svaras, inasmuchas they are fixed or admit of no varieties at all ; while *Ri, Ga, Ma,Dha, Ni* are *Vikritha*-Svaras, inasmuch as each of them admits oftwo[^10]clear varieties, viz, *Kômal* and *Thîvra*, that is, flat and sharp.These modern '*Sudha-Vikritha* Svaras, twelve[^11]in number, maybe tabulated thus :—
+
+[^10]: "A third variety is added by Venkatamakhi."
+
+[^11]: " Cf. आहत्य शुद्धविकृताः स्वरा द्वादश कीर्तिताः।                             Chathurdandi Prakâsikâ."
 
 ![](../../../../../books_images/U-IMG-1691407721svar.jpg)  
 (FIG. 7)
@@ -853,7 +875,9 @@ as (the last mentioned) *Gowli* may (rightly) be derived from *Mâlavagowla*,how
  Surely, then, Venkatamakhi threw stones at Râmâmâtya, while himself was living in a glass-house;¹and his strictures on *Svaramêlakalânidhi* are unjust, uncalled-for, and even offensive to a degree.  
  Still, a Venkata may persist in reminding us as to why Râmâmâtya, having merged, into one, *Sâranganâta* and *Kêdâragowla*, ventured to count twenty *Mêlas*? This, as I said, is no doubt a vulnerable point. But be it, at the same time, noted that, during the long period of a full century, after which Venkatamakhi criticised it, Heaven alone knows what changes or modifications the manuscripts of *Svaramêlakalânidhi* underwent in the hands of different indifferent copyists and what sort of a copy finally fell into our critic's hands. Even assuming that Râmâmâtya committed the blunder attributed to him, I am disposed to think that it is a matter only of a slip of the pen and that he had no time to revise what he wrote. For, does not Fig. **II** show that the *Graha, Amsa*, and *Nyâsa*, as well as the time of singing, of both *Sâranganâta* and *Kêdâragowla* are quite different from each other?  
  I said that Râmâmâtya did not care to deduce his *Mêlas* from any kind of *principles* but perhaps recorded such of the *Mêlas* as were in vogue during his time.  
- My view seems to be confirmed, when we note, that, at the end of his fourth chapter on *Mêla*, Râmâmâtya felt that, in actual [practice,](# "That is, according to the Principle of Lakshya.")Anthara *Ga* and Kâkali *Ni* were not only of very small or occasional use but also were represented³by Chyutha
+ My view seems to be confirmed, when we note, that, at the end of his fourth chapter on *Mêla*, Râmâmâtya felt that, in actual practice,[^12]Anthara *Ga* and Kâkali *Ni* were not only of very small or occasional use but also were represented³by Chyutha
+
+[^12]: "That is, according to the Principle of Lakshya."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1011,10 +1035,12 @@ and by the *fourth (Mandra Ma-) wire,* the following svaras :—
 
   Even for other registers, such as, *Madhyathâra* and *Anuthâra*, the same method was pursued and suitable frets were fixed. But, be it remembered, in those higher registers, the only wire that could possibly produce sweet or agreeable svaras was the *fourth* and not any of the other three upper-wires.  
  Be it also remembered that Sudha *Sa* and Sudha *Ri* of the second-wire occurred again on the third and were therefore of no use on the second and that, similarly, Sudha *Ma* and Chyuthapanchama *Ma* of the third wire occurred again on the fourth and were therefore of no use on the third.  
- Finally, Râmâmâtya made reference to what were called *Svayambhus*, which were self-produced svaras or which, in the language of Râmâmâtya himself, ‘emanated of their own [accord](# "स्वयंभुवः स्वराः ह्येते न खबुद्ध्या प्रकल्पिताः ।  Svaramêlakalânidhi.").'Could Râmâmâtya's ‘Svayambhus' be the same as what, in Physics, is known as the Harmonics,' inasmuch as even the latter emanate of their own accord? It is said that, while there are more ways than one to hear the *Harmonics* on a string, only one of them is implied by the term *Svayambhus*. How far this statement is true can be judged only by studying the Harmonics, at first, and by seeing whether and, if so, how far they tally with the Svayambhus.  
+ Finally, Râmâmâtya made reference to what were called *Svayambhus*, which were self-produced svaras or which, in the language of Râmâmâtya himself, ‘emanated of their own accord[^13].'Could Râmâmâtya's ‘Svayambhus' be the same as what, in Physics, is known as the Harmonics,' inasmuch as even the latter emanate of their own accord? It is said that, while there are more ways than one to hear the *Harmonics* on a string, only one of them is implied by the term *Svayambhus*. How far this statement is true can be judged only by studying the Harmonics, at first, and by seeing whether and, if so, how far they tally with the Svayambhus.  
  What are the *Harmonics?* If you strike a string of any instrument—provided it is in a proper state of tension—you will observe that it vibrates not only in its entire length but also in segments. All these motions are simultaneous and the soundsproceeding therefrom are blended into one note. The fundamental *Sa*, that is struck, is the loudest and is called the *prime* or the *prime* *partial tone*, while others are called the *upper partial tones* or the *overtones;* and the whole series of the upper partial tones form the *Harmonics*.  
  The first upper partial tone is the higher octave of the fundamental *Sa* and makes twice as many vibrations as the prime in the same time; and it is *Så.* The second upper partial tone is the fifth of the octave *Sa* and makes thrice as many vibrations as the prime in the same time; and it is *På.* The third upper partial tone is the second higher octave and makes four times as many vibrations as the prime in the same time; and it is *Sä*. The fourth upper partial tone is the major third of the second octave and makes five times as many vibrations as the prime in the same time; and it is *Gä.* The fifth upper partial tone is the fifth of the second octave and makes six times as many vibrations as the prime in the same time; and it is *Pä*. And so on and on. Thus, the relative numbers of the vibrations which make the *Harmonic Series* of sounds, are as 1: 2: 3: 4: 5: 6 and so on. You can hear this series in the wire of any instrument—say, of the sonometre—if you vibrate it after it has been successively shortened, , $\\frac{1}{2}$,$\\frac{1}{3}$,$\\frac{1}{4}$,$\\frac{1}{5}$,$\\frac{1}{6}$etc., of its whole length.  
  But the point to be remembered is what we, in this connection, began with. If a wire is struck, it vibrates not only in its whole length but also in its aliquot parts.. In other words, if you, by striking a wire, produce the fundamental *Sa*; all the upper partial tones, mentioned above, namely,
+
+[^13]: "स्वयंभुवः स्वराः ह्येते न खबुद्ध्या प्रकल्पिताः ।  Svaramêlakalânidhi."
 
 * Sȧ—Pȧ—Sä—Gä—Pä*, etc., etc.  
 are simultaneously produced on the same wire by a *natural* process. A trained ear will surely detect the upper partial tones, sounding of their own accord and blending with the prime or fundamental *Sa—*at least the first few partials which are loud enough to be heard, if not the other ones which become fainter and fainter as they rise higher and higher in pitch.  
@@ -1140,8 +1166,10 @@ Chyuthamadhyama *Ga* and Chyuthashadja *Ni* were deemed to practically represent
 
 and if you refresh your memory of the special instructions given in connection with Fig. 13; you will not find it difficult to interpret almost all the Râgas of Râmâmâtya in terms of the modern Râgas. Suffice it, therefore, for me to repeat once again and emphasise the importance of what I said a little while ago,viz., *we should not allow ourselves to be \[mis-\] led by the mere 'names' of Râmâmâtya's Râgas but should delve deep and study thecharacteristics' of each of them and find out its modern prototype and its modern name, as well.*  
 *  *It now remains for us to estimate the nature of the services rendered by Râmâmâtya to the music world.  
-  Râmâmâtya, Sômanâth, and Venkatamakhi, the respective authors of *Svaramêlakalânidhi,* *Râgavibôdha,* and *Chathurdandiprakâsika,* were all South Indian musicians and wrote for South India. They might, therefore, be grouped together and called by a generic name-*the Carnatic Trio.* All these three authors were, alike, shrewd enough to realise the futility of writing a v-o-l-u-m-i-n-o-u-s treatise, as Shârngadev had done, on the ever-progressive, and therefore ever-changing, art of music; and they prudently chose to be agreeably brief in their works and confined their attention to the most fundamental portion of the Carnatic Music, viz., the *Râga-system.* Hence the 'Râgaprakarana' of each of their works formed, as it were, a pivot round which all other *prakaranas* or chapters revolved. Râmâmâtya, no doubt, led the way, by comprising his book into five short chapters dealing with (1) Preface, (2) Svara, (3) Vîna, (4) Mêla, and (5) Râga, by not allowing the number of his verses to rise over 328, and by making each successive chapter lead ultimately to the last. Sômanâth went one step further and made the very name of his book indicate the object of his [writing](# "Cf. ननु रागविबोधायारब्धे ग्रन्थे भवतु नामैव वस्तुसंग्रहः ।—                                Râgavibodha.").  
+  Râmâmâtya, Sômanâth, and Venkatamakhi, the respective authors of *Svaramêlakalânidhi,* *Râgavibôdha,* and *Chathurdandiprakâsika,* were all South Indian musicians and wrote for South India. They might, therefore, be grouped together and called by a generic name-*the Carnatic Trio.* All these three authors were, alike, shrewd enough to realise the futility of writing a v-o-l-u-m-i-n-o-u-s treatise, as Shârngadev had done, on the ever-progressive, and therefore ever-changing, art of music; and they prudently chose to be agreeably brief in their works and confined their attention to the most fundamental portion of the Carnatic Music, viz., the *Râga-system.* Hence the 'Râgaprakarana' of each of their works formed, as it were, a pivot round which all other *prakaranas* or chapters revolved. Râmâmâtya, no doubt, led the way, by comprising his book into five short chapters dealing with (1) Preface, (2) Svara, (3) Vîna, (4) Mêla, and (5) Râga, by not allowing the number of his verses to rise over 328, and by making each successive chapter lead ultimately to the last. Sômanâth went one step further and made the very name of his book indicate the object of his writing[^14].  
   Again, Râmâmâtya was the first to break loose from Shârngdêv's theory of twelve *Vikritha-*svaras and reduce those twelve into seven, which Sômanâth chose to retain, but which, in the hands of Venkatamakhi, came further down to (the modern) five. In so breaking loose, he justified his position by invoking the help of a principle, learnt from Shârngadêv himself, viz., the principle of*Lakshya.*
+
+[^14]: "Cf. ननु रागविबोधायारब्धे ग्रन्थे भवतु नामैव वस्तुसंग्रहः ।—                                Râgavibodha."
 
   Calculating at least from Shârngadêv's time, this 'Principle of *Lakshya'* is, to-day, about seven centuries old. But long, long ago, Kâlidâs had given us, in his *Mâlavikâgnimitra,* a popular version of the same *principle* in the following inspiring verse :-
 
@@ -1186,9 +1214,11 @@ fairness, be deemed to have written Madhya Sa for the fourth upper-wire and not 
 ***Svaramêlakalânidhi,***
 
 *Genus-Species system*.¹ Indeed he was the first to open, in his book, a separate chapter on *Mêla,* called 'Mêlaprakarana.' Sômanath and Venkatamakhi but followed him in this respect, though the latter formulated the Mêlas into, and thereby raised them to the dignity of, a regular code. So far, however, as Râmâmâtya was concerned, he merely hinted the *principle* he had discovered; did not care to work it out; but recorded, in his book, only such of the Mêlas as were in vogue during his time. We are thankful for the *hint* that he threw; for, it enabled Venkatamakhi to work it out to its logical consequence.  
-  As for the *Râgas,* Râmâmâtya avoided getting into the labyrinth of their ancient classifications or of their ancient characteristics, but straightaway went to mention the prevailing characteristics of his Râgas as well as the time in which they were usually sung. Though, perhaps to err on the safe side, he recited the traditional story of *Mukhâri*being the Sudha-Scale; his whole mind leaned on *Mâlavagowla* which he described as the best of all [Râgas](# "Cf. रागो मालवगौलश्च रागाणामुत्तमोत्तमः।                    Svaramêlakalânidhi.")'. Could this 'leaning' of Râmâmâtya have caused Purandra Dâs to heighten the importance of \[Mâya-\] *Mâlavagowla* and enable it, later on, to brush aside Venkatamakhi's *Kanakângi.*  
+  As for the *Râgas,* Râmâmâtya avoided getting into the labyrinth of their ancient classifications or of their ancient characteristics, but straightaway went to mention the prevailing characteristics of his Râgas as well as the time in which they were usually sung. Though, perhaps to err on the safe side, he recited the traditional story of *Mukhâri*being the Sudha-Scale; his whole mind leaned on *Mâlavagowla* which he described as the best of all Râgas[^15]'. Could this 'leaning' of Râmâmâtya have caused Purandra Dâs to heighten the importance of \[Mâya-\] *Mâlavagowla* and enable it, later on, to brush aside Venkatamakhi's *Kanakângi.*  
   Commit mistakes Râmâmâtya did. His slipping, for instance, into the out-of-the-way *Mukhâri,* as his Suddha scale, is said to have created a lot of confusion and involved Pundarika Vittala, Sômanath, and even Venkatamakhi into the same mistake, Ahôbala alone escaping. Again, in a vain attempt to follow Shârngadêv, he labelled the two-srutied Sudha *Ri*—'Trisruti *Ri'* and was therefore forced to call Sudha *Ga*—Panchasruti *Ri*' instead of 'Chathusruti *Ri*'—and thereby misled Govinda Dikshitar and his son Venkatamakhi into the same pitfall.  
   Venkatamakhi's ten charges against Râmâmâtya regarding ten Râgas have been already shown to be unjust, uncalled-for, and even offensive to a degree. Even his eleventh charge, which he
+
+[^15]: "Cf. रागो मालवगौलश्च रागाणामुत्तमोत्तमः।                    Svaramêlakalânidhi."
 
 --------------------------------------------------------------------------------  
   1 Doubtless, the germ of the idea of the Genus-Species system may be found to have existed long before Râmâmâtya. But it was covered by some such rubbish as the Râga Râgini-Putra system. Hence I state what was allowed to be latent for a long time was made patent by Râmâmâtya and was, later on, codified by Venkatamakhi.
@@ -1249,11 +1279,15 @@ And learning wiser grow without the books "
                    ***Sangithamakaranda.***
 
   However much the sages and the high-minded souls might have been charmed and helped on to meditation by the *Anâhatha* or nature-made music, a question arises as to whether that music was ever relished by mankind as a whole, whether it was ever entitled to be called 'music' from the modern point of view, and whether, in short, it was pleasing to our ears.  
-  The answer is by no means simple. For, to an ordinary man, the waves of the sea may produce nothing but unpleasant noise; but a poet will find in them an agreeable harmony. Infact, all those that love to hold communion with nature, as indeed the ancient sages did, will ever find the *Anâhatha*-music pleasant; while the major portion of the work-a-day world will ever find it [unpleasant](# "सोऽपि (i.e. अनाहतोऽपि) रक्तिविहीनत्वान्नमनोरञ्जको नृणाम् -                                  Sangitharatnâkara.").Hence Shârngadev branded it as unpleasant;' and Kâsinath followed [suit](# "सः (i.e. अनाहतः) नरञ्जकः-                       Sangithasudhakara.").  
+  The answer is by no means simple. For, to an ordinary man, the waves of the sea may produce nothing but unpleasant noise; but a poet will find in them an agreeable harmony. Infact, all those that love to hold communion with nature, as indeed the ancient sages did, will ever find the *Anâhatha*-music pleasant; while the major portion of the work-a-day world will ever find it unpleasant[^16] रक्तिविहीनत्वान्नमनोरञ्जको नृणाम् -                                  Sangitharatnâkara.").Hence Shârngadev branded it as unpleasant;' and Kâsinath followed suit[^17] नरञ्जकः-                       Sangithasudhakara.").  
   Further, the bent of man's mind has been, in all ages, to imitate the voice of nature; and hence he did not—could not—allow nature to have all the monopoly of music to itself, contributed his own share to its development and thus brought into existence another kind of music, called *Âhatha* or man-made music, the development of which I shall now trace.  
   The primitive man must have hummed like a bee and sung, at the outset, only on a single note. Witness, for instance, the courtiers' *Panegyric* which remains in vogue, even to-day, in almost all the Native States of India and which those courtiers invariably sing, as they had all along been singing, on all ceremonious occasions, such as for instance, their Sovereign's entry into the Durbar Hall. The whole 'Panegyric' will, on analysis, be found to be sung on one single note and rarely on more.  
   It was in due course of time that the other notes were tacked on, as amply evidenced by our ancient text-books which trace the music of India from *Ârchika* of single note to *Gâthika* of double note, *Sâmika* of triple note, *Svarânthara* of quadruple note,*Oudava* of quintuple note, *Shâdava* of sextuple note, and finally*Sampurna* of all the seven notes.¹  
   All these seven stages, music did pass through. But, in the first four stages, it pleased only the producers; while, in the last three, it pleased the hearers as well. 'Animal Music', if I may so call it, marked the earlier stages; and such *animal music* could please only the animals that produced it. The braying of an ass is very harsh to man but very sweet to the ass itself; for, is not such braying an expression of its elation, frolic, and joy? That was why Shakespeare wrote :—
+
+[^16]: "सोऽपि (i.e. अनाहतोऽपि
+
+[^17]: "सः (i.e. अनाहतः
 
 'The crow doth sing as sweetly as the lark  
 *When neither is attended.'*
@@ -1310,7 +1344,9 @@ In his commentary, Kallinâth interprets 'Gândharva' only as *Mârga*-
   Here, Kallināth interprets **एतानि शास्त्राणि** to be **देशीविषयाणीत्यर्थः।**
 
 wonder, therefore, that the *Mârga*-music, the rules of which were inflexibly stiff and did not adjust themselves to the practice in vogue, became, in the course of time, less and less pleasant, less and less popular, and finally extinct.¹  
-The latter three stages of music, viz., *Oudava, Shâdava, Sampurna*, have been, however, preserved even to-day as being *human*² music which pleases, alike, the producers as well as the hearers. To the music of these 'latter three stages', our ancients gave the name of *Dêsi.* In the first place, the style of '*Dêsi*' varied from province to province; and it was therefore defined inSanskrit text-books, such as for instance, *Sangithadarpana* —**That kind of music is called *Dêsi,* which adjusts itself from country to country (Dêsa to Dêsa), so as to please the fancy of the people there'.³ In the second place, the fact that Shârngadêv and Râmâmâtya employed *Hridayaranjaka*⁴ and [*Janaranjana*](# "देशीरागादिभिः प्रोक्तं तद्गानं जनरञ्जनम्। -Svaramêlakalânidhi")as their respective epithets to *Dêsi*-music-shows that they regarded it as a fascinating style of music, as opposed to the dry, monotonous, and sing-song style of the *Mârga*-music. If any proof is wanted for the fact that the first four stages of music, covered by the generic name of *Mârga*, belonged-purely from the modern musical point of view-to the lower rung of the ladder and that the second three stages, covered by the generic name of*Dêsi*, belonged to the higher rung; a reference may be made to what Hridayanarayana wrote-'*Sampurnas* are Brahmins ;
+The latter three stages of music, viz., *Oudava, Shâdava, Sampurna*, have been, however, preserved even to-day as being *human*² music which pleases, alike, the producers as well as the hearers. To the music of these 'latter three stages', our ancients gave the name of *Dêsi.* In the first place, the style of '*Dêsi*' varied from province to province; and it was therefore defined inSanskrit text-books, such as for instance, *Sangithadarpana* —**That kind of music is called *Dêsi,* which adjusts itself from country to country (Dêsa to Dêsa), so as to please the fancy of the people there'.³ In the second place, the fact that Shârngadêv and Râmâmâtya employed *Hridayaranjaka*⁴ and *Janaranjana*[^18]as their respective epithets to *Dêsi*-music-shows that they regarded it as a fascinating style of music, as opposed to the dry, monotonous, and sing-song style of the *Mârga*-music. If any proof is wanted for the fact that the first four stages of music, covered by the generic name of *Mârga*, belonged-purely from the modern musical point of view-to the lower rung of the ladder and that the second three stages, covered by the generic name of*Dêsi*, belonged to the higher rung; a reference may be made to what Hridayanarayana wrote-'*Sampurnas* are Brahmins ;
+
+[^18]: "देशीरागादिभिः प्रोक्तं तद्गानं जनरञ्जनम्। -Svaramêlakalânidhi"
 
 ------------------------------------------------------------------------  
   1 cf. (1) **मार्गगीतं पुरैवासीत् —  
@@ -2872,7 +2908,9 @@ of Vina, namely, *Sudha Mêla, Madhya Mêla, and Achyutharajêndra Mêla.*
 
 *Sudha-Vikritha Svaras*
 
-  32-33- These seven [Svaras](# "As indicated in verses 27 to 30."), beginning with Shadja, are called *Sudha* Svaras. While, the *Vikritha* Svaras are also seven. In all, there are fourteen Svaras—Sudha and Vikritha.
+  32-33- These seven Svaras[^19], beginning with Shadja, are called *Sudha* Svaras. While, the *Vikritha* Svaras are also seven. In all, there are fourteen Svaras—Sudha and Vikritha.
+
+[^19]: "As indicated in verses 27 to 30."
 
 *A Second Objection*
 
@@ -3234,3 +3272,22 @@ anymixture,ofthefifteen*middling*ones,as well as of the *inferior* ones.
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

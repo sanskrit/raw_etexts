@@ -14,7 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4MTAyNTQ3NDE
 +++
 [[सङ्गीतसारामृतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDI4MTAyNTQ3NDE4MDQ0&pageno=MjI0MjQyNjk5NTk=)]]
 
-\[
+\
 
 
 
@@ -205,7 +205,15 @@ THE AUTHOR**
 
 
 
-** The Sangitasārāmṛta purports to be a work written by Tulaja I alias Tukkoji of the Mahratta dynasty of rulers of Tanjore, the third son of Ekoji, and the youngest brother of Sahaji and Sarabhoji, who ruled between the years 1729-1735 A.D. During the period when his elder brothers were ruling, Tulaja seems to have been staying, somewhat like a viceroy, at Mahādevapaṭṭana, a fort-town near Mannargudi, on the southwest. [It was when residing at Mahādevapaṭṭana that Tulaja wrote the medical work Dhanvantarisāranidhi](# "1. Tanjore Library New Descriptive Catalogue No. 11069. Tulaja describes Mahadevapattana in three verses here.")and the Telugu Nātaka [Śivakāmasundaripariṇaya](# "2. Tanjore Library Telugu Descriptive Catalogue Nos. 633-5. The play was produced during the festival of Adi Varahasvāmi at Mahadeva pattana.")In three of his [works](# "3. Dhanvantarivilāsa Tanjore Library Catalogue No. 11006; Inakularājatejonidhi No. 11323; and Vākyāmrta No. 11324."), Tulaja refers to his son Ekoji (Il), in one of which, the Vākyāmṛta, he refers to Ekoji (Il) as [Yuvarāja](# "4. This Ekoji (ll), son of our author Tulaja, figures as the composer of the following musical plays found in Mss. in the Tanjore Library :  No. 695. Marathi .. Kamalāmbā-Tyagesa pariņaya.   606.     "). It is thus clear that Tulaja's literary activity extended over his whole life.**
+** The Sangitasārāmṛta purports to be a work written by Tulaja I alias Tukkoji of the Mahratta dynasty of rulers of Tanjore, the third son of Ekoji, and the youngest brother of Sahaji and Sarabhoji, who ruled between the years 1729-1735 A.D. During the period when his elder brothers were ruling, Tulaja seems to have been staying, somewhat like a viceroy, at Mahādevapaṭṭana, a fort-town near Mannargudi, on the southwest. [It was when residing at Mahādevapaṭṭana that Tulaja wrote the medical work Dhanvantarisāranidhi[^1]and the Telugu Nātaka Śivakāmasundaripariṇaya[^2]In three of his works[^3], Tulaja refers to his son Ekoji (Il), in one of which, the Vākyāmṛta, he refers to Ekoji (Il) as Yuvarāja[^4], son of our author Tulaja, figures as the composer of the following musical plays found in Mss. in the Tanjore Library :  No. 695. Marathi .. Kamalāmbā-Tyagesa pariņaya.   606.     "). It is thus clear that Tulaja's literary activity extended over his whole life.**
+
+[^1]: "1. Tanjore Library New Descriptive Catalogue No. 11069. Tulaja describes Mahadevapattana in three verses here."
+
+[^2]: "2. Tanjore Library Telugu Descriptive Catalogue Nos. 633-5. The play was produced during the festival of Adi Varahasvāmi at Mahadeva pattana."
+
+[^3]: "3. Dhanvantarivilāsa Tanjore Library Catalogue No. 11006; Inakularājatejonidhi No. 11323; and Vākyāmrta No. 11324."
+
+[^4]: "4. This Ekoji (ll
 
 
 
@@ -502,7 +510,9 @@ Page 140, line 10:
 सा च रुद्रप्रियत्वेन रुद्रवीणेति गीयते ॥**
 
 **इति वीणाप्रशंसा।  
-स्वरवीणैव [लोकेऽस्मिन्](# "1. From here up to the line तत्सर्वरागमेलाख्य etc. not found in  Ms. No. 10789 (Devanāgari).") द्विविधा परिकीर्तिता।**
+स्वरवीणैव लोकेऽस्मिन्[^5].") द्विविधा परिकीर्तिता।**
+
+[^5]: "1. From here up to the line तत्सर्वरागमेलाख्य etc. not found in  Ms. No. 10789 (Devanāgari
 
 **मध्यमेला शुद्धमेलेत्येतल्लक्षणमीरितम् ॥ (Compare text, p. 121),**
 
@@ -626,9 +636,11 @@ ses: 26-28,33; p.4. verses
 
 **यस्तुर्यतन्त्र्या संभूतवरालीमध्यमाग्रतः ॥ (?)**
 
-[**सप्तमी सारिका स्थाप्या शुद्धपश्चमसिद्धये ।** ](# "1. The following 18 lines are scattered elsewhere in the Telugu ms.; they are found to follow at this place in the Devanagari ms.")
+**सप्तमी सारिका स्थाप्या शुद्धपश्चमसिद्धये ।** [^6]
 
 **अष्टमी सारिका स्थाप्या शुद्धधैवतसंयुता ॥**
+
+[^6]: "1. The following 18 lines are scattered elsewhere in the Telugu ms.; they are found to follow at this place in the Devanagari ms."
 
 **नवमीॆ सारिकां शुद्धनिषादार्थं निवेशयेत् ।**
 
@@ -706,7 +718,9 @@ ses: 26-28,33; p.4. verses
 
 **इत्येवं कीर्तिताः पञ्च विकृता लक्ष्यसंगताः ।**
 
-**[(इतरासां च कासांचित् सामगानोपयोगिता) ॥](# " This is written in the margin in both mss.")**
+**(इतरासां च कासांचित् सामगानोपयोगिता) ॥[^7]**
+
+[^7]: " This is written in the margin in both mss."
 
 **द्वादशानामेव सम्यक् श्रुतीनामुपयोगिता ।**
 
@@ -793,16 +807,22 @@ ses: 26-28,33; p.4. verses
 
 **तर्जनीमध्यमाभ्यां यदङ्गुलीभ्यां क्रमात् पुनः ।**
 
-**अन्तर्बहिर्वादनं यदुक्तं [जमनि](# "1. जवनि in the Devanagari ms.") कर्तरी ॥  
+**अन्तर्बहिर्वादनं यदुक्तं जमनि[^8] कर्तरी ॥  
 ॥ इत्यङ्गुलीद्वयव्यापारः ॥**
 
-**अन्तयोर्मध्यमाघातो लोकेऽसौ [सोतडाभिधः](# "2. सोऽसौ तडाभिधः in the Devanagari ms.") ।  
+[^8]: "1. जवनि in the Devanagari ms."
+
+**अन्तयोर्मध्यमाघातो लोकेऽसौ सोतडाभिधः[^9] ।  
 ॥ इति मध्यमाङ्गुलिव्यापारः ॥**
+
+[^9]: "2. सोऽसौ तडाभिधः in the Devanagari ms."
 
 **वादनं पार्श्वतन्त्रीणामङ्गुल्या च कनिष्ठया ।**
 
 **यत्तत्तालानुसारेण लोकेऽसौ श्रुतिसंज्ञकम् ॥  
-॥ इति [दक्षिणाङ्गुलि](# "3. दक्षिणकराङ्गुलि in the Devanagari ms.")(दक्षिणहस्त)व्यापाराश्चत्वारः ॥**
+॥ इति दक्षिणाङ्गुलि[^10](दक्षिणहस्त)व्यापाराश्चत्वारः ॥**
+
+[^10]: "3. दक्षिणकराङ्गुलि in the Devanagari ms."
 
 **अथ वामकरस्यापि व्यापारान् संप्रचक्ष्महे ।**
 
@@ -812,13 +832,17 @@ ses: 26-28,33; p.4. verses
 
 **संस्थाप्योपरि तन्त्रीणां तर्जनीमध्यमे पुनः ॥**
 
-**संस्तभ्य तन्त्रीं तर्जन्या [वादनं](# "4. ताडनं in the Devanagari ms.") मध्यमेन यत् ।**  
+**संस्तभ्य तन्त्रीं तर्जन्या वादनं[^11] मध्यमेन यत् ।**  
+
+[^11]: "4. ताडनं in the Devanagari ms."
 
 **यथा वामकरस्य स्यादाहतस्स स्मृतस्तदा ॥ **
 
 **तर्जनीस्थानगा मध्यमाङ्गुली स्याद् यदा तदा । **
 
-**प्रत्याहत इति ख्यातः [प्रसिद्धो लक्ष्यवेदिषु](# "1.लक्ष्यलक्षणवेदिभिः in the Devanagari ms.")॥ **
+**प्रत्याहत इति ख्यातः प्रसिद्धो लक्ष्यवेदिषु[^12]॥ **
+
+[^12]: "1.लक्ष्यलक्षणवेदिभिः in the Devanagari ms."
 
 ** कम्पितः कम्पनाद् ज्ञेयः स्वरस्येति विचक्षणैः । **
 
@@ -837,14 +861,18 @@ ses: 26-28,33; p.4. verses
 
 **अस्योदाहरणम् -  
 सरिगमपधनिस-सनिधपमगरिस ।  
-[तारस्थानस्वरयुता तद्भेदा बहवो मताः](# "2. This line is missing in the Devanagari ms.") ॥ **
+तारस्थानस्वरयुता तद्भेदा बहवो मताः[^13] ॥ **
+
+[^13]: "2. This line is missing in the Devanagari ms."
 
 **बहुत्वोदाहरणम् -**
 
 **धनिसरिसनिधप-सनिधपमगरिस इत्यादि ।  
 ॥ अलङ्काराः ॥ **
 
-**[अथ स्वरपरिष्कारानलङ्कारान् प्रचक्ष्महे](# "3. See Caturdandi,p.29,slokas 81ff.C") ।**
+**अथ स्वरपरिष्कारानलङ्कारान् प्रचक्ष्महे[^14] ।**
+
+[^14]: "3. See Caturdandi,p.29,slokas 81ff.C"
 
 **ध्रुवो मठ्ठो रूपकश्च झंपा त्रिपुट एव च ॥ **
 
@@ -887,9 +915,13 @@ ses: 26-28,33; p.4. verses
 **प्रबन्धस्योदाहरणम्  
 पपसससस-रिरिरि सरिरिमरिसनिसा **
 
-**इदि प्रदः (?) [सकलसुरअ सुरकिरि इटमणि किरंण](# "1.This Sahitya is given in the Devanagari ms.for the Gita and not for the Prabandha.") **
+**इदि प्रदः (?) सकलसुरअ सुरकिरि इटमणि किरंण[^15] **
 
-**[चरअणयुगअलु-कड वणु-रे-रे](# "1.This Sahitya is given in the Devanagari ms.for the Gita and not for the Prabandha.") ॥**
+[^15]: "1.This Sahitya is given in the Devanagari ms.for the Gita and not for the Prabandha."
+
+**चरअणयुगअलु-कड वणु-रे-रे[^15] ॥**
+
+[^15]: "1.This Sahitya is given in the Devanagari ms.for the Gita and not for the Prabandha."
 
 **गौल \। झंपातालम्(ः)। क्त क्त तोंगिण-त्तोंगिण त्तोंगिणं-गिणां सम्यग्गीतप्रबन्धानां वादने सुदृढीकृते । **
 
@@ -916,7 +948,9 @@ ses: 26-28,33; p.4. verses
 पक्व(पार्श्व)सारणिमार्गेण ततस्तानान् समभ्यसेत् ॥**
 
 **अस्योदाहरणं नाटरागे  
-[सासानिप सासानिप सासानिपममप ममप सनिपसनिपसासानिपममपनीपनीपममपा इत्यादि।](# "1.This illustration is not found in the Telugu ms.")**  
+सासानिप सासानिप सासानिपममप ममप सनिपसनिपसासानिपममपनीपनीपममपा इत्यादि।[^17]**  
+
+[^17]: "1.This illustration is not found in the Telugu ms."
 
 
 **गुरूपदेशतः सम्यगन्यद्ज्ञेयं सविस्तरम् ।**
@@ -929,15 +963,19 @@ ses: 26-28,33; p.4. verses
 
 **रक्तिरागान् स्वयं वीणां गृहीत्वा वादयेत् सुधीः ॥**
 
-**पदचालिं ततो मीड' [जातिभेदांश्च वादयेत्](# "2. ’जायि’ is in the telugu ms.") ।**
+**पदचालिं ततो मीड' जातिभेदांश्च वादयेत्[^18] ।**
+
+[^18]: "2. ’जायि’ is in the telugu ms."
 
 **एवं सम्यग्दृढीकृत्य प्रविशेद्राजमन्दिरम् ॥  
 ॥ इति शिक्षाविधिः ॥**
 
 **रञ्जयित्वा प्रभुं सम्यग्वैणिकोऽभीष्टभाग्भवेत् ।**   
-[**एवमेवेतरां वीणामभ्यसेद्गुर्वनुग्रहात् ॥ **](# "3.These two lines are not found in the Devanagari ms.")
+**एवमेवेतरां वीणामभ्यसेद्गुर्वनुग्रहात् ॥ **[^19]
 
-[**स्वरमण्डलवीणां तु भूमौ संस्थाप्य वादयेत् ।**](# "3.These two lines are not found in the Devanagari ms.")
+**स्वरमण्डलवीणां तु भूमौ संस्थाप्य वादयेत् ।**[^19]
+
+[^19]: "3.These two lines are not found in the Devanagari ms."
 
 **पिनाकी धनुराकारा वीणेति विबुधा जगुः ॥  
 (तुलजेन्द्रवीणाप्रशंसा)**
@@ -964,17 +1002,21 @@ ses: 26-28,33; p.4. verses
 
 **अतस्तदतिरिक्तानां वीणानां लक्ष्म कथ्यते ॥ **
 
-**[एकविंशतितन्त्रीका वीणा स्यान्मत्तकोकिला'](# "1.See Saramrta text, p.122") । **
+**एकविंशतितन्त्रीका वीणा स्यान्मत्तकोकिला'[^21] । **
+
+[^21]: "1.See Saramrta text, p.122"
 
 **इयमेव जनैर्लोके स्वरमण्डलमुच्यते ॥**
 
 **भुवि विन्यस्य तां वीणां वादयेद् वाद्यभेदवित् ॥  
 ॥ इति स्वरमण्डलवीणा ॥ **
 
-[**किन्नरी द्विविधा लघ्वी बृहती चेति कीर्तिता। **](# "2.See Saramrta text, pp.123-4; where the Kinnari and the varieties, first two and then three Desi varieties, are elaborately described.")
+**किन्नरी द्विविधा लघ्वी बृहती चेति कीर्तिता। **[^22]
 
-**[तन्मेलादिप्रकारस्तु ज्ञेया लोकानुसारतः ॥](# "2.See Saramrta text, pp.123-4; where the Kinnari and the varieties, first two and then three Desi varieties, are elaborately described.")  
+**तन्मेलादिप्रकारस्तु ज्ञेया लोकानुसारतः ॥[^22]  
 ॥ इति किन्नरी ॥**
+
+[^22]: "2.See Saramrta text, pp.123-4; where the Kinnari and the varieties, first two and then three Desi varieties, are elaborately described."
 
 **काचित् तुम्बुरुवीणेति तुम्बेनैकेन राजिता ।**
 
@@ -983,9 +1025,11 @@ ses: 26-28,33; p.4. verses
 **सप्ततन्त्रीयुता सेयं स्वरवीणेव वाद्यते ॥  
 ॥ इति तुम्बुरुवीणा ॥**
 
-**[पिनाकी धनुराकारा \* \*\*\*\*\*\*\*\*\*\*\*\*\*  
-तज्ज्ञो दक्षिणहस्तस्थधनुषा वादयेत् सुधीः ॥](# "3.See Saramrta, p.124, end,for these 6 lines describing the Pinaki.")  
+**पिनाकी धनुराकारा \* \*\*\*\*\*\*\*\*\*\*\*\*\*  
+तज्ज्ञो दक्षिणहस्तस्थधनुषा वादयेत् सुधीः ॥[^24]  
 \_\_(तुलजेन्द्रवीणालक्षणम्) **
+
+[^24]: "3.See Saramrta, p.124, end,for these 6 lines describing the Pinaki."
 
 **अथात्र लक्ष्यते वीणा तुलजेन्द्रेण निर्मिता । **
 
@@ -1058,7 +1102,7 @@ Now follows a presentation of the available portion of the text of the dance-cha
 **॥ सङ्गीतसारामृते नृत्तप्रकरणम् ॥  
 ॥ वस्तुसंग्रहः॥**
 
-**\[नाट्यवेदागमोऽत्रादौ ततोऽभ्यासविधिक्रमः । अङ्गप्रत्यङ्गकोपाङ्गाभिनयाभ्यासनिर्णयः ॥**
+**\नाट्यवेदागमोऽत्रादौ ततोऽभ्यासविधिक्रमः । अङ्गप्रत्यङ्गकोपाङ्गाभिनयाभ्यासनिर्णयः ॥**
 
 **ततः सभासन्निवेशः सभानायकलक्षणम् ।**
 
@@ -1068,7 +1112,9 @@ Now follows a presentation of the available portion of the text of the dance-cha
 
 **पृथग्दरुपदादीनां नृत्तं पेरणिलक्षणम् ॥**
 
-**[इति नृत्तप्रकरणे एतावान् वस्तुसंग्रहः](# "1. This line has another reading इति श्रीतुलजेन्द्रेण वस्तुसंग्रह ईरितः. This synopsis seemsto be an addition, for another follows immediately as part of the text itself; the first synopsis that has been added refers to such portions of the text as have been revised and brought into line with the Nautch tradition and describe the technique and terms (Tamil and Telugu) pertaining to it.") ।\]**
+**[इति नृत्तप्रकरणे एतावान् वस्तुसंग्रहः[^25] pertaining to it.") ।\]**
+
+[^25]: "1. This line has another reading इति श्रीतुलजेन्द्रेण वस्तुसंग्रह ईरितः. This synopsis seemsto be an addition, for another follows immediately as part of the text itself; the first synopsis that has been added refers to such portions of the text as have been revised and brought into line with the Nautch tradition and describe the technique and terms (Tamil and Telugu
 
 **नत्वा शम्भुं महादेवं जगन्नर्तनदक्षिणम् ॥**
 
@@ -1078,7 +1124,9 @@ Now follows a presentation of the available portion of the text of the dance-cha
 
 **ततः सभासन्निवेशः सभानायकलक्षणम् ॥**
 
-**[सभासदस्तथाचार्यनट................।](# "2. After Nata and before Pätra, Nartaka, Vaitālika, Carana and Kolhätika are described in the text.")**
+**सभासदस्तथाचार्यनट................।[^26]**
+
+[^26]: "2. After Nata and before Pätra, Nartaka, Vaitālika, Carana and Kolhätika are described in the text."
 
 **पात्रं तन्मण्डनं तस्य गुणदोषास्ततः परम् ॥**
 
@@ -1469,17 +1517,23 @@ ch. VII,verses 21-27.**
 
 **समप्राधान्यसमये समकालप्रयोगता ॥**
 
-[**पादानुगो यदा हस्तजयो हस्तानुगर्हता । (?)**](# "2. Compare Ratnākara VII, 976-977 where the corresponding line runs: यतः पादस्ततो हस्तो यतो हस्तस्ततस्त्रिकः । Compare also Bharata, Natya sastra, ch. 10, verses 44-45.")
+**पादानुगो यदा हस्तजयो हस्तानुगर्हता । (?)**[^27]
 
 **अङ्गोपाङ्गानि च परं तथैवानुसरन्ति च ॥**
 
+[^27]: "2. Compare Ratnākara VII, 976-977 where the corresponding line runs: यतः पादस्ततो हस्तो यतो हस्तस्ततस्त्रिकः । Compare also Bharata, Natya sastra, ch. 10, verses 44-45."
+
 **हस्तप्राधान्यतोऽङ्गानि हस्तं चानुसरन्ति च ।**
 
-**[चारं चारं च चरणैर्यथा भूमिं समाश्रयेत्](# "3. Ratnākara, VII, 979. Bharata, X, 46-7.") ॥**
+**चारं चारं च चरणैर्यथा भूमिं समाश्रयेत्[^28] ॥**
+
+[^28]: "3. Ratnākara, VII, 979. Bharata, X, 46-7."
 
 **कारं कारं करश्चापि विश्राम्यति कटीतटे ।**
 
-**[अर्धचन्द्रः करो नाट्ये पक्षवञ्चितकोऽपि वा](# "4. Ratnakara, VII. 980.") ॥  
+**अर्धचन्द्रः करो नाट्ये पक्षवञ्चितकोऽपि वा[^29] ॥  
+
+[^29]: "4. Ratnakara, VII. 980."
 
 
 
@@ -1518,7 +1572,9 @@ ch. VII,verses 21-27.**
 
 **एवं निरूपितः सम्यङ्मयाभिनयनिर्णयः ।**
 
-**[ततः सभासन्निवेशः सारतोऽत्र निरूप्यते](# "2. In the 'inflated' ms., No. 10671, the text from here to is found in the last three leaves, where it is taken up for a further 'inflation'.") ॥**
+**ततः सभासन्निवेशः सारतोऽत्र निरूप्यते[^30] ॥**
+
+[^30]: "2. In the 'inflated' ms., No. 10671, the text from here to is found in the last three leaves, where it is taken up for a further 'inflation'."
 
 **सर्वलक्षणसंपन्नः सर्वालङ्कारशोभितः ।**
 
@@ -1652,8 +1708,10 @@ kara, VII, 1343-4.**
 **बालं मनोविहीनत्वान्न पात्रं तज्ज्ञरञ्जकम् ॥ 5 1/2verses, Ratnakara  
 VII. 1236-40.**
 
-**[ग्रन्थान्तरे](# "1. This is Abhinayadarpana.")  
+**ग्रन्थान्तरे[^31]  
 तन्वी रूपवती श्यामा पीनोन्नतपयोधरा ।**
+
+[^31]: "1. This is Abhinayadarpana."
 
 **प्रगल्भा सरसा चित्रा (or कान्ता) कुशला ग्रहमोक्षयोः ॥**
 
@@ -1667,7 +1725,9 @@ VII. 1236-40.**
 \।\। इति पात्रलक्षणम् ॥**
 
 **अथ पात्रमण्डनम्  
-[सुनीलस्निग्धविस्तीर्णकेशपाशनिवेशितः](# "2. A gap occurs here in the original ms.. but cxactly where text breaks here, i.e. in the 8th line. दन्तपक्तिः प्रभा-जालप्रोज्ज्वलीकृतरङ्गभूः the text starts in the inflated ms.; it is thus pretty clear again that the few leaves of the socalled ms. ") ॥**
+सुनीलस्निग्धविस्तीर्णकेशपाशनिवेशितः[^32] ॥**
+
+[^32]: "2. A gap occurs here in the original ms.. but cxactly where text breaks here, i.e. in the 8th line. दन्तपक्तिः प्रभा-जालप्रोज्ज्वलीकृतरङ्गभूः the text starts in the inflated ms.; it is thus pretty clear again that the few leaves of the socalled ms. "
 
 **etc. up to**
 
@@ -2058,7 +2118,9 @@ Noir up. TLIM(असंपादितः भागः)**
 **गीतवाद्यानुगमनं लास्याङ्गाचरणं तथा ॥**
 
 **एवमन्यानि सर्वाणि नित्यमभ्यासतो नयेत्।  
-एवं सुशिक्षिता कन्या नर्तने [पात्रमीरिता](# "1. Here occurs the break in the inflated ms, no. 10671, and the text is continued in the original ms.") ॥**
+एवं सुशिक्षिता कन्या नर्तने पात्रमीरिता[^33] ॥**
+
+[^33]: "1. Here occurs the break in the inflated ms, no. 10671, and the text is continued in the original ms."
 
 **एवमेव रत्नाकरादिषु**
 
@@ -2087,10 +2149,14 @@ VII. 1263-68.**
 
 **द्वौ च मार्दङ्गिको कार्यौगायन्तौद्वौ च वांशिकौ।**
 
-**[एकः काहलिकोऽपि स्यात्तथैवाम्बुजिको भवेन्त् (?) ॥](# "1. Original Ms.")  
+**एकः काहलिकोऽपि स्यात्तथैवाम्बुजिको भवेन्त् (?) ॥[^34]  
 ॥ अथवा ॥**
 
-**[एकस्तु श्रुतिकारः स्यात्तथैवाञ्जिनिको भवेत् ।](# "2. In the inflated ms. No. 10671 also, a few lines of this portion are found")।**
+[^34]: "1. Original Ms."
+
+**एकस्तु श्रुतिकारः स्यात्तथैवाञ्जिनिको भवेत् ।[^35]।**
+
+[^35]: "2. In the inflated ms. No. 10671 also, a few lines of this portion are found"
 
 **तथातालधरोऽप्येको गायकोऽपि तथाविधः ॥**
 
@@ -2359,7 +2425,9 @@ VII, 1313-1327. **
 **कविचारांस्तथा भावाश्रयान् पेरणिपद्धतौ ॥ 9 verses, Ratnakara, VII  
 1328-1336. **
 
-**॥ [इति पेरणीपद्धतिः](# "1. Beyond this, the topics to be dealt with are the angas, pratyangas and upangas, hastas, hastaprachara , karanas , utplutis, Angahāras, Caris, Sthanakas, nyāyas. Pravicāras, Mandalas, Lāsyängas and Rasas, as set forth in the synopsis given at the beginning. If Tulaja had completed the compilation of his Natya chapter, the ms. of the further portion is missing. The treatment of these must have followed that in the Ratnakara and the Muktāvali. At the end of ms. No. 10671 there are three leaves in which the Ratnākara, ch. VII, up to p. 718. verse 559 (Anandasrama edn.) is found reproduced in the same hand as wrote the previous leaves of the ms. Probably this was intended to be used in the compilation of the Nātya chapter of Tulaja's work.") ॥**  
+**॥ इति पेरणीपद्धतिः[^36] is found reproduced in the same hand as wrote the previous leaves of the ms. Probably this was intended to be used in the compilation of the Nātya chapter of Tulaja's work.") ॥**  
+
+[^36]: "1. Beyond this, the topics to be dealt with are the angas, pratyangas and upangas, hastas, hastaprachara , karanas , utplutis, Angahāras, Caris, Sthanakas, nyāyas. Pravicāras, Mandalas, Lāsyängas and Rasas, as set forth in the synopsis given at the beginning. If Tulaja had completed the compilation of his Natya chapter, the ms. of the further portion is missing. The treatment of these must have followed that in the Ratnakara and the Muktāvali. At the end of ms. No. 10671 there are three leaves in which the Ratnākara, ch. VII, up to p. 718. verse 559 (Anandasrama edn.
 
 
 
@@ -2388,7 +2456,9 @@ The Tāla-chapter, pp. 160-171, is a more regular reproduction of the Ratnākara
 सन्दर्भोऽत्रसंगच्छते,  अयं सन्दर्भो न संगच्छत इत्येतन्निश्चयार्थं प्राचीनगीतप्रबन्धठायालापरूपचतुर्दण्डीसूलादिप्रभृत्युदाहरणेन स्फुटं यथा भवति तथा लिख्यते।  
   **
 
-**   Venkatamakhin says in his Prabandha chapter (śls. 4-6) that though the words Gīta and Prabandha as such may appear to mean the same thing, viz., a musical composition, the two, in fact, differ in technical use as meaning two different kinds of composition, and that if such a distiction is not maintained the expression Caturdandi and probably the heritage left byGopālan****ā****yaka would become meaningless, for two of his four Da****ṇ****das' are Gita and Prabandha. [This passage in the Caturdandi is reproduced by Tulaja on p. 153 of the Sārāmrta.](# "1. On Gopālanāyaka and this and other references in the work of Venkatamakhin to him and to the expression Caturdandī, see the Journal of the Music Academy, Vol. IV. pp. 20-1, 64, my article on Later Sangita Literature. The lines in the Cat. Dand. Pra. कुतस्सिद्ध्येच्चतुर्दण्डी कुतो गोपालनायकः। प्रयुक्तं च चतुर्दण्डीति॥(amended) are really corrupt both in the ms. of C. D. Pra, and of the Säramrta.")**
+**   Venkatamakhin says in his Prabandha chapter (śls. 4-6) that though the words Gīta and Prabandha as such may appear to mean the same thing, viz., a musical composition, the two, in fact, differ in technical use as meaning two different kinds of composition, and that if such a distiction is not maintained the expression Caturdandi and probably the heritage left byGopālan****ā****yaka would become meaningless, for two of his four Da****ṇ****das' are Gita and Prabandha. This passage in the Caturdandi is reproduced by Tulaja on p. 153 of the Sārāmrta.[^37] are really corrupt both in the ms. of C. D. Pra, and of the Säramrta.")**
+
+[^37]: "1. On Gopālanāyaka and this and other references in the work of Venkatamakhin to him and to the expression Caturdandī, see the Journal of the Music Academy, Vol. IV. pp. 20-1, 64, my article on Later Sangita Literature. The lines in the Cat. Dand. Pra. कुतस्सिद्ध्येच्चतुर्दण्डी कुतो गोपालनायकः। प्रयुक्तं च चतुर्दण्डीति॥(amended
 
 
 **  In the chapter on Mel****ā****, Tulaja makes more than one reference to the Cat. Dand. Pra. On p. 66, Tulaja quotes the Cat. Dand. Pra., Svara ch., p. 27-8 sls. 68-72. on Grāma being only one viz., the Sadjagrāna. Again, many of the lines on p. 69 defining the ten essential and characterising factors of Rāgas are taken from the Cat. Dand. Pra, p. 56. The explanation of how mel****ā****is formed on pp. 66-7 of the Sār****ā****m****ṛ****ta is based on the same in the Cat. Dand. Pra., p. 36 ff. But it must be noted that Tulajadoes not adopt the Sanketas or Samjñās used by Venkatamakhin, viz., Ra, Ri, Ru; Ga, Gi, Gu and so on. Also, Tulaja says that what the author of the Svaramelakalānidhi calls Cyutapancamamadhyamaand the author of the Caturda****ṇ****d****ī****prak****ā****sika Varālimadhyama, he himself would call Vik****ṛ****tapancamamadhyama.  
@@ -2413,11 +2483,13 @@ The Tāla-chapter, pp. 160-171, is a more regular reproduction of the Ratnākara
 
 ****
 
-**Thus according to Tulaja, it is clear, that even in the time of Ve****ṅ****katamakhin, all the72 Melas were not known by their names. They were not so known even in Tulaja's days.Further Tulaja does notfeel it necessary to enumerate or describe his Melas in their number-order according to the scheme of Ve****ṅ****katamakhin; Tulaja does not start with Mukhār****ī****, but with Sri R****ā****ga, which he considers, following Someśvara's view, as the first of all Ragas, from the point of view again not of schematic classification, but of musical mythology. There are also other differences on the Melas between Ve****ṅ****katamakhin and Tulaja. Thus: Bhūpāla, a Mela for the former is a Janya for the latter under Bhinna Sadja. For the former's Gaula, the latter has M****ā****lavagaula. The former's Āhiri, a Mela, becomes a Janyaunder Bhairavi mela for the latter. Samanta, a Mela in the former, is a Janya under Sa****ṅ****karā-bharaṇa in the latter. Pantuvarali is a Mela for the former and it is a Janya under Sindhurāmakriya for the [latter](# "1. See also the Journal of the Music Academy, Vol. XII, pp. 74-77 of my article on Venkatamakhin and the 72 Melas,").  
+**Thus according to Tulaja, it is clear, that even in the time of Ve****ṅ****katamakhin, all the72 Melas were not known by their names. They were not so known even in Tulaja's days.Further Tulaja does notfeel it necessary to enumerate or describe his Melas in their number-order according to the scheme of Ve****ṅ****katamakhin; Tulaja does not start with Mukhār****ī****, but with Sri R****ā****ga, which he considers, following Someśvara's view, as the first of all Ragas, from the point of view again not of schematic classification, but of musical mythology. There are also other differences on the Melas between Ve****ṅ****katamakhin and Tulaja. Thus: Bhūpāla, a Mela for the former is a Janya for the latter under Bhinna Sadja. For the former's Gaula, the latter has M****ā****lavagaula. The former's Āhiri, a Mela, becomes a Janyaunder Bhairavi mela for the latter. Samanta, a Mela in the former, is a Janya under Sa****ṅ****karā-bharaṇa in the latter. Pantuvarali is a Mela for the former and it is a Janya under Sindhurāmakriya for the latter[^38].  
 For a comparison of the two works, the Caturdaṇd****ī****and the S****ā****rām****ṛ****ta, on the R****ā****gas, see the table given below.  
       In the V****ī****ṇā-section of the V****ā****dya-chapter, Tulaja makes a long quotation from the first chapter of the Cat. Dand. Pra. (See pp. 121-122 A to 122-I), on the Suddhamela Vīnā etc. In two Mss., one in Telugu and another in Devanāgarī, referred to above, this quotation is found as part of the Svara-chapter and is made there with alterations as can be seen from the reproduction of the same given above in this Introduction. Even in the V****ā****dya-chapter, where it is printed in this edition, this description of the Suddha and Madhya Mela Viṇās taken from the Cat. Dand. pra, is not found to follow smoothly and naturally in the text; it cuts into a regular block of matter taken from the Ratnākara, appearing to have been inserted on second thoughts as a result of a feeling that the work should not simply rest content with reproducing obsolete matter from**  
 **an old book, but should try to take into account materials of nearer and contemporary stages.  
 For other writers and authorities used or quoted by Tulaja, see separate Index.**
+
+[^38]: "1. See also the Journal of the Music Academy, Vol. XII, pp. 74-77 of my article on Venkatamakhin and the 72 Melas,"
 
 **                           VIII**
 
@@ -12999,3 +13071,53 @@ way shall have to be replaced or its doubleprice shall be paid by the**
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^23]: "2.See Saramrta text, pp.123-4; where the Kinnari and the varieties, first two and then three Desi varieties, are elaborately described."
+
+
+[^20]: "3.These two lines are not found in the Devanagari ms."
+
+
+[^16]: "1.This Sahitya is given in the Devanagari ms.for the Gita and not for the Prabandha."

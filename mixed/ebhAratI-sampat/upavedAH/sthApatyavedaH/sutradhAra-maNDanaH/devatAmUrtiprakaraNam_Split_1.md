@@ -15,7 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkzNzA4OTI5NTQ
 +++
 [[देवतामूर्तिप्रकरणम् Split 1	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODkzNzA4OTI5NTQ2MTY0&pageno=MjI0MjQyNjk5NTk=)]]
 
-\[
+\
 
 
 
@@ -203,16 +203,28 @@ Narendra Chandra Bhattacharya
 
     The Devatāmūrtiprakaraṇam i. e., 'the section on the images of deities' forms a part of the Vāstu-śāstra (of Sūtradharā or Sūtravṛta-maṇḍana, the son of Śriksetra) and is a work on sculp- ture. As his title implies, Maṇḍana was an architect-Sūtradhara (literally, one who holds, plies or wields the 'plumb'-line).
 
-    Both Mandana and his father, Śriksetra were under the patronage of Mahārāņa Kumbha, the celebrated king of Mewar- Kumbhakarna Mahendra of [Medāpaṭa.](# "“श्रमेदपाटे नृपकुम्भकर्णस्तदङ्घ्रिराजीवपरागसेवौ । महाख्यो भुवि सुधारनोदृष्टतो भूपतिबज्ञभोऽयम् ॥ ४३ ॥” अध्यायः १४ ॥वास्तुराजवल्लभः । श्रीमनस्वधारविरचितः। काशी स्वहिन्दु विश्वविद्यालयाध्यापकज्योतिषाचार्ट- पतिश्रीराम श्रीझा विरचितभाषाटी कोपेतः । विक्रम संवत् १९८१ ।") A distinguished hero, a man of letters and a noted builder of monuments, Kumbha was an outstanding personality in the history of late Mediaval India (15th C.). Mahārānā Kumbha's consort was probably Mirabai, well-known for her renunciation and deeply religious life. Kumbha (Karṇa Mahendra) wrote a commentary on the Gita- govinda of Jayadeva and it is entitled [Rasikapriyā](# "Published in the Kavyamala series. Nirnayasigar Press, Bombay.") (Gita- govindațika). Two other works (on music) are also due to him:
+    Both Mandana and his father, Śriksetra were under the patronage of Mahārāņa Kumbha, the celebrated king of Mewar- Kumbhakarna Mahendra of [Medāpaṭa.[^1] A distinguished hero, a man of letters and a noted builder of monuments, Kumbha was an outstanding personality in the history of late Mediaval India (15th C.). Mahārānā Kumbha's consort was probably Mirabai, well-known for her renunciation and deeply religious life. Kumbha (Karṇa Mahendra) wrote a commentary on the Gita- govinda of Jayadeva and it is entitled Rasikapriyā[^2] (Gita- govindațika). Two other works (on music) are also due to him:
+
+[^1]: "“श्रमेदपाटे नृपकुम्भकर्णस्तदङ्घ्रिराजीवपरागसेवौ । महाख्यो भुवि सुधारनोदृष्टतो भूपतिबज्ञभोऽयम् ॥ ४३ ॥” अध्यायः १४ ॥वास्तुराजवल्लभः । श्रीमनस्वधारविरचितः। काशी स्वहिन्दु विश्वविद्यालयाध्यापकज्योतिषाचार्ट- पतिश्रीराम श्रीझा विरचितभाषाटी कोपेतः । विक्रम संवत् १९८१ ।"
+
+[^2]: "Published in the Kavyamala series. Nirnayasigar Press, Bombay."
 
 
 
 
 
 
-the Saṅgīta-mīmāṃsā and the Saṅgīta rāja. He also wrote the [Pathyaratnakosa.](# "3. See T. Aufrecht: Catalogus Catalogorum Vol. I, p. 111 ff. (a). K-(F. Kielhorn: A Catalogue of Sanskrit Mss. existing in the Central Provinces.) 96. (b). P-(F. Kielhorn: Lists of the Sanskrit manuscripts purchased for government during the years 1877-78 & 1869-78, and a list of the manus- cripts purchased from May to November 1881) 15.") Mahārāna Kumbha is said to have constructed the celebrated Tower of Victory at [Chitore.](# "Some scholars have doubts regarding the original purpose of the structure, namely, if it was really a tower raised to commemorate a victory at all. See D. R. Bhandarkar: The Kirttistambha of Maharana Kumbha. Journal of the Indian Soc. of Oriental Art. Cal., Vol. I, 1. Regarding this magnificent structure, Fergusson says:- ")
+the Saṅgīta-mīmāṃsā and the Saṅgīta rāja. He also wrote the Pathyaratnakosa.[^3]. K-(F. Kielhorn: A Catalogue of Sanskrit Mss. existing in the Central Provinces.) 96. (b). P-(F. Kielhorn: Lists of the Sanskrit manuscripts purchased for government during the years 1877-78 & 1869-78, and a list of the manus- cripts purchased from May to November 1881) 15.") Mahārāna Kumbha is said to have constructed the celebrated Tower of Victory at Chitore.[^4]
 
-     It, therefore, stands to reason that Mahārānā Kumbhakarṇa should be a patron of architects and sculptors, just like King Bhoja of Dhārā धारानगरीपति- महाराजाधिराज श्रीभोजदेव (11th C.) who compiled the [Samaraṅganasūtradhāra](# "Samaranganastradhara, edited by Mahamahopadhyaya T. Ganapati Sastri. GOS. XXV & XXXII, 2 Vols. (1924, 25), Baroda."), a work on architecture and 'to whom are ascribed many other important works, such as, the śrīṅgāraprakāśa (Alaṅkāra) and the Sarasavatī-kānthābharaṇa; or like Someśavaradeva, the Cālukya King (12th C.), the author (or the patron of the scholar) who compiled the encyclopaedic work-the Mānosollāsa or the [Abhilaṣitārtha-cintāmaṇi.](# "Münasollasa, edited by G. K. Shrigondekar. GOS. XXVIII ff, 2 Vols (1925 ff); Abhilasitarthacintamani, edited by Dr. R. Shama Sastry. MSS. 60. (1926), Mysore,")
+[^3]: "3. See T. Aufrecht: Catalogus Catalogorum Vol. I, p. 111 ff. (a
+
+     It, therefore, stands to reason that Mahārānā Kumbhakarṇa should be a patron of architects and sculptors, just like King Bhoja of Dhārā धारानगरीपति- महाराजाधिराज श्रीभोजदेव (11th C.) who compiled the Samaraṅganasūtradhāra[^5], Baroda."), a work on architecture and 'to whom are ascribed many other important works, such as, the śrīṅgāraprakāśa (Alaṅkāra) and the Sarasavatī-kānthābharaṇa; or like Someśavaradeva, the Cālukya King (12th C.), the author (or the patron of the scholar) who compiled the encyclopaedic work-the Mānosollāsa or the Abhilaṣitārtha-cintāmaṇi.[^6]; Abhilasitarthacintamani, edited by Dr. R. Shama Sastry. MSS. 60. (1926), Mysore,")
+
+[^4]: "Some scholars have doubts regarding the original purpose of the structure, namely, if it was really a tower raised to commemorate a victory at all. See D. R. Bhandarkar: The Kirttistambha of Maharana Kumbha. Journal of the Indian Soc. of Oriental Art. Cal., Vol. I, 1. Regarding this magnificent structure, Fergusson says:- "
+
+[^5]: "Samaranganastradhara, edited by Mahamahopadhyaya T. Ganapati Sastri. GOS. XXV & XXXII, 2 Vols. (1924, 25
+
+[^6]: "Münasollasa, edited by G. K. Shrigondekar. GOS. XXVIII ff, 2 Vols (1925 ff
 
       Sūtradhara-Maṇḍana or simply Mandana seems to have been a prolific writer of treatises on architecture and sculpture. The
 
@@ -221,24 +233,36 @@ the Saṅgīta-mīmāṃsā and the Saṅgīta rāja. He also wrote the [Pathyar
 
 
   
-following is a list of [works](# "See T. Aufrecht: Catalogus Catalogorum Vol. I, pp. 730-31. Also, Prasanna Kumar Acharya: Indian Architecture according to Manasara-Silpasastra. Oxford Univ. Pr., 1927. pp. 103-5.") ascribed to him, and some of them are styled differently in Mss.
+following is a list of works[^7] ascribed to him, and some of them are styled differently in Mss.
 
-           [
-Devatāmurti-prakaraņa.](# " First noticed by G. Bühler: Two Lists of Sanskrit Mss. in 2. D. M. G. Vol. 42, 538.")
+[^7]: "See T. Aufrecht: Catalogus Catalogorum Vol. I, pp. 730-31. Also, Prasanna Kumar Acharya: Indian Architecture according to Manasara-Silpasastra. Oxford Univ. Pr., 1927. pp. 103-5."
+
+           
+Devatāmurti-prakaraņa.[^8]
           Vāstuśāstra.  
             Prāsādamaṇḍana.               
 Vāstusāra.  
-            [RāJavallabha Vāstuśāstra.](# "See Note 1 Supra. Edited by Pandit Ramayatna Ojha, Hindu Univ.")
+            RāJavallabha Vāstuśāstra.[^9]
         Västu-mañjari.  
             Rūpamaṇḍana                  
 Āpa-tattva.  
             Vāstumaṇḍaṇa.
 
+[^8]: " First noticed by G. Bühler: Two Lists of Sanskrit Mss. in 2. D. M. G. Vol. 42, 538."
+
+[^9]: "See Note 1 Supra. Edited by Pandit Ramayatna Ojha, Hindu Univ."
+
       Maṇḍaṇa's treatise on architecture bears the titles-
 
-     'Śilpa-Śāstra, 'Västu-sastra', and also 'Prāsāda-maṇḍana-[Vāstu-śāstra.](# "J. Eggeling and E. Windisch: Catalogue of Sanskrit mss. in the Library of the India Office. 3142, 1291; 3147, 2253.")According to some scholars, it is possibly further called the 'Rajavallabha-maṇḍana' (or simply 'Rājavallabha') or the ['Sūtradhara-maṇḍana](# "II. P. K. Acharya: Op. cit., p. 102")
+     'Śilpa-Śāstra, 'Västu-sastra', and also 'Prāsāda-maṇḍana-Vāstu-śāstra.[^10]According to some scholars, it is possibly further called the 'Rajavallabha-maṇḍana' (or simply 'Rājavallabha') or the 'Sūtradhara-maṇḍana[^11]
 
-    In the unique [library](# "कवीन्द्राचार्यसूचीपत्रम् Kavindracharya list. Edited with Introduction by R. Anantakrishna Sastry with a Foreword by Dr. Ganganatha Jha. GOS. No. XVII, 1921. (सूची) सर्वविद्यानिधान कवीन्द्राचार्य सरखतीनाम् (ग्रन्थसंग्रहस्य) वेदान्तोको वाग - वरुपीतट-बनारस") of the Sarvavidyanidhana Kavindracārya (17th C.) were stored some Mss. on art (architecture and sculpture), among which the following are worth noting- शिल्पशास्त्रप्रकरण – 2146 राजवल्लभ, 2849 वास्तुमण्डन, 2150 प्रासादमण्डन, 2151 रूपमण्डन, 2152 राजवल्लभशिल्प, 2153 वास्तुशास्त्रशिल्प. This book- lover Kavindräcärya was a Deccan Brahmin and a very learned man, the head of the Pandit community of Benares, of his time,
+[^10]: "J. Eggeling and E. Windisch: Catalogue of Sanskrit mss. in the Library of the India Office. 3142, 1291; 3147, 2253."
+
+    In the unique library[^12] सर्वविद्यानिधान कवीन्द्राचार्य सरखतीनाम् (ग्रन्थसंग्रहस्य) वेदान्तोको वाग - वरुपीतट-बनारस") of the Sarvavidyanidhana Kavindracārya (17th C.) were stored some Mss. on art (architecture and sculpture), among which the following are worth noting- शिल्पशास्त्रप्रकरण – 2146 राजवल्लभ, 2849 वास्तुमण्डन, 2150 प्रासादमण्डन, 2151 रूपमण्डन, 2152 राजवल्लभशिल्प, 2153 वास्तुशास्त्रशिल्प. This book- lover Kavindräcärya was a Deccan Brahmin and a very learned man, the head of the Pandit community of Benares, of his time,
+
+[^11]: "II. P. K. Acharya: Op. cit., p. 102"
+
+[^12]: "कवीन्द्राचार्यसूचीपत्रम् Kavindracharya list. Edited with Introduction by R. Anantakrishna Sastry with a Foreword by Dr. Ganganatha Jha. GOS. No. XVII, 1921. (सूची
 
 
 
@@ -251,7 +275,13 @@ and possessed knowledge in all departments of Sanskrit. He was rich, healthy and
 
     The Rājāvallabha-maṇḍana and some other texts by Maṇḍana, seem to have been very popular. Within two centuries, after compilation, we find copies of his texts deposited in the invaluable library of Kavīndrācārya From Mewar, the works of Mandana found their way to Benares, the great nerve-centre (Marma-sthāna) of Indian culture.
 
-    From Benares, Mandana's works probably spread to other places [westwards](# "Apparently one of Mandana's works as published with diagrams by Bharati at Baroda, 1891, see P. K. Acharya: Op. cit., p. 103.")as well as [eastwards.](# "The Rajavallabha-mandana was published by Raja Rādhākānta Deva in his Encyclopaedic Dictionary, शब्दकल्पद्रुमSabda-kalpa-druma. See under Silpa-sastram शिल्पशास्त्रम्") Mss. of his works are also met with in the [South,](# "Copious extracts from the Rupa-mandana have been made in TAGoninatha Rao: Elements of Hindu Iconography. Madras.") where they might have been easily carried from the Central India. Thus it is evident that Mandana's handbooks on architecture and sculpture, enjoyed considerable popularity with artists and craftsmen.
+    From Benares, Mandana's works probably spread to other places westwards[^13]as well as eastwards.[^14] Mss. of his works are also met with in the South,[^15] where they might have been easily carried from the Central India. Thus it is evident that Mandana's handbooks on architecture and sculpture, enjoyed considerable popularity with artists and craftsmen.
+
+[^13]: "Apparently one of Mandana's works as published with diagrams by Bharati at Baroda, 1891, see P. K. Acharya: Op. cit., p. 103."
+
+[^14]: "The Rajavallabha-mandana was published by Raja Rādhākānta Deva in his Encyclopaedic Dictionary, शब्दकल्पद्रुमSabda-kalpa-druma. See under Silpa-sastram शिल्पशास्त्रम्"
+
+[^15]: "Copious extracts from the Rupa-mandana have been made in TAGoninatha Rao: Elements of Hindu Iconography. Madras."
 
 
 
@@ -268,7 +298,11 @@ DEVATĀMŪRTI-PRAKARAṆAM.
 
         Indeed his DmP. is more S. Indian than N. Indian in character. This would at once show that, most probably, the art of temple-architecture was already slowly dying in the North India, while in the South it lived with virility.
 
-       Naturally, for preparing his DmP. Maaṇḍana turned chiefly to South Indian sources. Another striking peculiarity is that he never utilised, as far as is evident, the Tamil Śaiva or Vaiṣṇava Agamas. But he made copious use of the [Śilparatnam](# "Silparatnam of Śrikumāra. Part I. Edited by Mm. T. Ganapati Sastri, 1922; Ditto. Part II. Edited by K. Sambasiva Sastrī, 1929.")and the [Mayamatam](# " Mayamatam of Mayamuni. Edited by Mm. T. Ganapati Sastri, 1919.") both probably from original Malayalam sources.
+       Naturally, for preparing his DmP. Maaṇḍana turned chiefly to South Indian sources. Another striking peculiarity is that he never utilised, as far as is evident, the Tamil Śaiva or Vaiṣṇava Agamas. But he made copious use of the Śilparatnam[^16]and the Mayamatam[^17] both probably from original Malayalam sources.
+
+[^16]: "Silparatnam of Śrikumāra. Part I. Edited by Mm. T. Ganapati Sastri, 1922; Ditto. Part II. Edited by K. Sambasiva Sastrī, 1929."
+
+[^17]: " Mayamatam of Mayamuni. Edited by Mm. T. Ganapati Sastri, 1919."
 
       For some reasons, not evident, the S. Indian Agamas were not accessible to Maṇḍana. Either Skt. texts in the Tamil script, often with copious glosses in vernacular, we re not intelligible to Mandana; or the lines of communication between Rajputana and the Tamil lands were beset with obstacles. The latter eventuality is all the more plausible, when we take into account, the unsettled political conditions of the times.
 
@@ -282,7 +316,13 @@ DEVATĀMŪRTI-PRAKARAṆAM.
 
     
 
- Among the Northern Texts, Mandana seems certainly to have utilised the [Viiṣṇudharmattaram](# "M. Winternitz: A History of Indian Literature. Vol I. (Cal. univ., 1927) p. 580. Śrivisnudharmottaram, or, Visnudharmottara-mahāpuruṇam was edited by Panditas Madhusudana and Madhavaprasada Sarmans from a ms., obtained by Mm. Sudhakara Dvivedin and published (from brivenkatesvara Press, Bombay) in Sumvat 1969, 1834 Saka (A. C. 1911-12). See for Transl. of chapters 2, 27, 35-43, Dr. Stella Kramrisch: The Visnudharmottaram (Part III), A Treatise on Indian Painting. Journal of Letters, Vol. XI. (Univ. Cal, 1924), and The Calculla Review, Feb., 1924, P. 331 ff. A. K. Coomaraswamy: Visnudharmottara (III), 41. JAOS., LII., 1932; Ditto. Transl. Visnudharmottara. Chapt. 43, in Asutosh Commemoration Vol. (Patna Univ.) Ed. by J. N. Camaddar. See, also, Haridas Mitra: Sadasiva Worship in Early Bengal, J. & P., A. S. B., (N. S.) Vol. XXIX. 1933, No. 1. Appendix II, Note 2."), in the first instance. This is, traditionally, said to be a part of the Garuḍa- Puraṇa- more properly the uttara-bhāga of the [Garuḍa- Puraṇam](# "M. Winternitz: Geschichte der indischen Literatur, Band I, (German Ed.) 480. 188a. See Burnell: Classified Index of Skt. Mss. in the palace at Tanjore."). According to another [opinion](# "See Introduction in Skt. to the Ed. of Text, Srivenkatesvara Pr."), VP. belongs to the second part of the Viṣṇu-puraṇam.
+ Among the Northern Texts, Mandana seems certainly to have utilised the Viiṣṇudharmattaram[^18] p. 580. Śrivisnudharmottaram, or, Visnudharmottara-mahāpuruṇam was edited by Panditas Madhusudana and Madhavaprasada Sarmans from a ms., obtained by Mm. Sudhakara Dvivedin and published (from brivenkatesvara Press, Bombay) in Sumvat 1969, 1834 Saka (A. C. 1911-12). See for Transl. of chapters 2, 27, 35-43, Dr. Stella Kramrisch: The Visnudharmottaram (Part III), A Treatise on Indian Painting. Journal of Letters, Vol. XI. (Univ. Cal, 1924), and The Calculla Review, Feb., 1924, P. 331 ff. A. K. Coomaraswamy: Visnudharmottara (III), 41. JAOS., LII., 1932; Ditto. Transl. Visnudharmottara. Chapt. 43, in Asutosh Commemoration Vol. (Patna Univ.) Ed. by J. N. Camaddar. See, also, Haridas Mitra: Sadasiva Worship in Early Bengal, J. & P., A. S. B., (N. S.) Vol. XXIX. 1933, No. 1. Appendix II, Note 2."), in the first instance. This is, traditionally, said to be a part of the Garuḍa- Puraṇa- more properly the uttara-bhāga of the Garuḍa- Puraṇam[^19] 480. 188a. See Burnell: Classified Index of Skt. Mss. in the palace at Tanjore."). According to another opinion[^20], VP. belongs to the second part of the Viṣṇu-puraṇam.
+
+[^18]: "M. Winternitz: A History of Indian Literature. Vol I. (Cal. univ., 1927
+
+[^19]: "M. Winternitz: Geschichte der indischen Literatur, Band I, (German Ed.
+
+[^20]: "See Introduction in Skt. to the Ed. of Text, Srivenkatesvara Pr."
 
       "The Viṣṇudharmottara is occasionally given out as a part of a Purana, namely the Garuḍa- Puraṇa, but generally it is counted an independent Upa-Puraṇa. It is repeatedly quoted by Alberuni as the 'Viiṣṇudharma'. It is a Kashmiri Vaiṣṇava book of ency- clopoædic character in three sections. Section I deals with the usual themes of the PuraṇasSection II deals with law and politics, as well as with medicine, the science of war, astronomy and astrology. There is in it a prose section... Paitāmaha-Siddhānta' as this is an extract from the Brahamā-sphuṭa-siddhānta written by
 
@@ -295,9 +335,13 @@ Brahmagupta in 628 A. D., the Viṣṇudharmottara must have been compiled betwe
 
       The Matsya-Puraṇa, the Padma-Puraṇa, the Skanda- Puraṇa and the Brahma-Puraṇa were also used for the (Śiva) Linga and (Viṣṇu) Śālagrāma sections; and passages from the Bṛhat-Saṃhitā, have been quoted verbatim, in the Adbhuta section.
 
-       Another text, more sparingly consulted, is the Viśvakarma-śāstra. This is certainly a Silpa work of the Northern [School](# "Haridas Mitra: Buddhapratimulakṣaṇam. The Sarasvati Bhavana Skt. Series, Benares; No. 48. Introduction p. 3. Also, see Note 27. Supra").
+       Another text, more sparingly consulted, is the Viśvakarma-śāstra. This is certainly a Silpa work of the Northern School[^21].
 
-       But the work most profusely drawn upon, often verbatim, is certainly the[Rūpa maṇḍana](http://# "T. A. Gopinatha Rao: Elements of Hindu Iconography. Vol. I. Part II."). This may be identical with the text of the same [name](# " See Section 1. Supra."), the authorship of which is ascribed to Maṇḍana himself.
+[^21]: "Haridas Mitra: Buddhapratimulakṣaṇam. The Sarasvati Bhavana Skt. Series, Benares; No. 48. Introduction p. 3. Also, see Note 27. Supra"
+
+       But the work most profusely drawn upon, often verbatim, is certainly the[Rūpa maṇḍana](http://# "T. A. Gopinatha Rao: Elements of Hindu Iconography. Vol. I. Part II."). This may be identical with the text of the same name[^22], the authorship of which is ascribed to Maṇḍana himself.
+
+[^22]: " See Section 1. Supra."
 
 
 
@@ -308,7 +352,11 @@ Brahmagupta in 628 A. D., the Viṣṇudharmottara must have been compiled betwe
 **2**  
 ON THE CANONS OF INDIAN ART.
 
-The [Matsya-Puraṇa](# "Matsya-Purina. Anandāsran Ed., 1907. Chapter 252.") enumerates the names of eighteen (वास्तुशास्त्रोपदेशक) Vāstuśāstropadeśakas or [Masters](# "See Haridas Mitra: Op. cit.") of the Sciences of Architecture, Sculpture and Painting, as follows :-
+The Matsya-Puraṇa[^23] enumerates the names of eighteen (वास्तुशास्त्रोपदेशक) Vāstuśāstropadeśakas or Masters[^24] of the Sciences of Architecture, Sculpture and Painting, as follows :-
+
+[^23]: "Matsya-Purina. Anandāsran Ed., 1907. Chapter 252."
+
+[^24]: "See Haridas Mitra: Op. cit."
 
 भृगुर्विशिष्ठश्च विश्वकर्मा मयस्तथा ।
 
@@ -322,7 +370,9 @@ The [Matsya-Puraṇa](# "Matsya-Purina. Anandāsran Ed., 1907. Chapter 252.") en
 
 संक्षेपेणोपदिष्टं यन्मनवे मत्स्यरूपिणा ॥
 
-The [Agni-Puraṇa](# "Agni-Purana. Edited by Rajendralal Mitra.(Bibliotheca Indica ). Chap. 39, v. 1-5. There are some different readings, noted in this edition :-  १ श्रीके चैश्वरं तथेति ग, घ, ङ - चिह्नितपुस्तकवयपाठः । प्रक्रादगार्ग्य गालवं । ४ ") gives another list of 25 authoritative texts, as follows:-
+The Agni-Puraṇa[^25]. Chap. 39, v. 1-5. There are some different readings, noted in this edition :-  १ श्रीके चैश्वरं तथेति ग, घ, ङ - चिह्नितपुस्तकवयपाठः । प्रक्रादगार्ग्य गालवं । ४ ") gives another list of 25 authoritative texts, as follows:-
+
+[^25]: "Agni-Purana. Edited by Rajendralal Mitra.(Bibliotheca Indica
 
 हयग्रीव उवाच -
 
@@ -353,8 +403,10 @@ The [Agni-Puraṇa](# "Agni-Purana. Edited by Rajendralal Mitra.(Bibliotheca Ind
 
 बौधायनं तथार्षे तु विश्वोक्तं तस्य सारतः ॥ ५ ॥
 
-Another account given in the [Viśvakarma-prakāśa](# "Sri-Vivakarmaprakasa, with Bharalika-printed from the tri-ve.kate vara Press, Bombay; also lithographed from Siddha-Vinayaka Yantra, Eenares. See, also Notes 41, 42 post.."), and preserved in many versions is evidently a compilation of a later date :-  
+Another account given in the Viśvakarma-prakāśa[^26], and preserved in many versions is evidently a compilation of a later date :-  
 इति प्रोक्तं वास्तुशास्त्रं पूर्वे गर्गाय धीमते ।
+
+[^26]: "Sri-Vivakarmaprakasa, with Bharalika-printed from the tri-ve.kate vara Press, Bombay; also lithographed from Siddha-Vinayaka Yantra, Eenares. See, also Notes 41, 42 post.."
 
 गर्गात्पराशरः प्राप्तस्तस्मात्प्राप्सो बृहद्रथः ॥
 
@@ -366,9 +418,13 @@ Another account given in the [Viśvakarma-prakāśa](# "Sri-Vivakarmaprakasa, wi
 
 Among the Brahmanic masters of Vastu and śilpa-śāstras, the names of Viśvakarman and Maya are mentioned very often.
 
-    The [Viṣṇu dharmattaram](# "Sri-Vis udharmottaram. Part III, chap. 35.") gives the traditional mythical origin of the art of painting, and its canons, (i. e., Citrasutram):-how the sage Nārāyaṇa first painted on earth with the juice of mango leaf the figure of a superbly beautiful damsel, and for humiliating the heavenly apsarasas he invested her with life. Brought into being, on arvi, (earth) she was called urvaśī (earth-born). The great sage having thus created the art of painting (Citra), taught Viśvakarman its canons.
+    The Viṣṇu dharmattaram[^27] gives the traditional mythical origin of the art of painting, and its canons, (i. e., Citrasutram):-how the sage Nārāyaṇa first painted on earth with the juice of mango leaf the figure of a superbly beautiful damsel, and for humiliating the heavenly apsarasas he invested her with life. Brought into being, on arvi, (earth) she was called urvaśī (earth-born). The great sage having thus created the art of painting (Citra), taught Viśvakarman its canons.
 
-    The [Citralakṣaṇam](# "Berthold Laufer: Dokumente der indischen Kunst. Erstes Heft. Maleri: Das Citralaksana'. Leipzig, 1913.") of Nagnajit mentions Viśvakarman, Prahlāda and Nagnajit, among the masters of painting, after the adoration of gods and goddesses (namaskāra), and the benediction
+[^27]: "Sri-Vis udharmottaram. Part III, chap. 35."
+
+    The Citralakṣaṇam[^28] of Nagnajit mentions Viśvakarman, Prahlāda and Nagnajit, among the masters of painting, after the adoration of gods and goddesses (namaskāra), and the benediction
+
+[^28]: "Berthold Laufer: Dokumente der indischen Kunst. Erstes Heft. Maleri: Das Citralaksana'. Leipzig, 1913."
 
 
 
@@ -377,10 +433,12 @@ Among the Brahmanic masters of Vastu and śilpa-śāstras, the names of Viśvaka
 
 (āśīrvacanam), the definition of the subject-matter (vastu-nirdeśa) etc., in the regular Kārya style.
 
-   An attempt may be made to render these important passages back into rhythmic Sanskrit, from the German translations in Dr. B. Laufer's admirable edition of the text-the original version of which is probably lost, though a Tibetan translation of it has fortunately been [preserved.](# "These conjectural reconstructions unsatisfactory though, they might be of interest to those to whom the German and Tibetan editions are inaccessible or not sufficiently intelligible.")
+   An attempt may be made to render these important passages back into rhythmic Sanskrit, from the German translations in Dr. B. Laufer's admirable edition of the text-the original version of which is probably lost, though a Tibetan translation of it has fortunately been preserved.[^29]
 
   
 आदौ चन्द्रमसं वन्दे महादेवं ततः परं चूडायामिन्दुशकलं मूर्ध्नि यः संविभर्ति वै।
+
+[^29]: "These conjectural reconstructions unsatisfactory though, they might be of interest to those to whom the German and Tibetan editions are inaccessible or not sufficiently intelligible."
 
 विष्णुमथेन्द्रं सूर्ये जलाधिपाग्नीतथा वायुं ततोऽभिवन्देऽहमेव प्रजापति- विश्वकर्माणौ॥
 
@@ -397,8 +455,10 @@ Among the Brahmanic masters of Vastu and śilpa-śāstras, the names of Viśvaka
 The Matsya-puranam, the Agni-puraṇam, the Viśvakarmā-prakāśa and the Bṛhat-saṃhitā, probably have handed down the northern tradition of their times.
 
 The
-[Mānasāra](# "P. K. Acharya: Minasira. Chapters lxviii, Ixx. i, ii; also, Ibid: Indian Architecture according to Manasara-kilpa-bastra, pp. 164ff. ")
+Mānasāra[^30]
 Is the most complete architectural treatise
+
+[^30]: "P. K. Acharya: Minasira. Chapters lxviii, Ixx. i, ii; also, Ibid: Indian Architecture according to Manasara-kilpa-bastra, pp. 164ff. "
 
 
 
@@ -441,7 +501,11 @@ extant and of this work, we have a critical ed. It gives a list of thirty-two 32
 
 तस्मात्समुद्धृत्य हि मानसारं शास्त्रं लोकहितार्थमेतत् ॥ ५८ ॥ अध्यायः ७० ॥
 
-The list in the Agni-puraṇam as well as in the Manasara is confusing and apparently corrupt. There are linguistic and other difficulties in the readings of the [Agni-puraṇam list](# "The reading in the Agni-puranam, chapter 39, v. 4, should be If but the metre does not allow it. But in v. 5, we must read-ra नारसिंहायमानन्दाख्यं तथाऽऽरूपम्। Or वारुडकम् । and not o तयारुणकम् । See Note 26. Supra. The list there does not seem to contain ( 25 ) twenty- five names, after all.") of 25 authorities; on the other hand, all these are said to be Pancaratra and Saptaratra works-probably both classes were Vaiṣṇava, if the latter school at all existed. The [Mānasara list](# "See Note 30 Supra and text.") is equally
+The list in the Agni-puraṇam as well as in the Manasara is confusing and apparently corrupt. There are linguistic and other difficulties in the readings of the Agni-puraṇam list[^31] twenty- five names, after all.") of 25 authorities; on the other hand, all these are said to be Pancaratra and Saptaratra works-probably both classes were Vaiṣṇava, if the latter school at all existed. The Mānasara list[^32] is equally
+
+[^31]: "The reading in the Agni-puranam, chapter 39, v. 4, should be If but the metre does not allow it. But in v. 5, we must read-ra नारसिंहायमानन्दाख्यं तथाऽऽरूपम्। Or वारुडकम् । and not o तयारुणकम् । See Note 26. Supra. The list there does not seem to contain ( 25
+
+[^32]: "See Note 30 Supra and text."
 
 
 
@@ -452,25 +516,25 @@ The list in the Agni-puraṇam as well as in the Manasara is confusing and appar
 
 dubious similar or same names occurring repeatedly. Of some names we are not sure if they are personal names or the titles of works.
 
-     The Tibetan text, dpag bsam ljon [bzans](# "Pag bsam ljon bzait. Ed., Saratchandra Das. Calcutta, 1908. p. 136ff.") of Lama Sum-pa mk'an-po ye-śes dpal-abyor (1702-1775), traces the origin of the art of painting to Nagnajit :-how he painted the figure of a dead Brahmin child and how the god, Brahman invested it with life. Later on the art of painting was propagated through Viśvakarman, and Ṛṣī Ātreya who discovered calligraphy. The latter is known from Tibetan sources, as the author of an iconographic work, which is preserved in translation, in the [Tanjur.](# "Pratimanalaksana-nama, classed under Tanjur. Section Mdo -hgrel (Sütra-vitti), Silpa-vidya-sastras.")
+     The Tibetan text, dpag bsam ljon bzans[^33] of Lama Sum-pa mk'an-po ye-śes dpal-abyor (1702-1775), traces the origin of the art of painting to Nagnajit :-how he painted the figure of a dead Brahmin child and how the god, Brahman invested it with life. Later on the art of painting was propagated through Viśvakarman, and Ṛṣī Ātreya who discovered calligraphy. The latter is known from Tibetan sources, as the author of an iconographic work, which is preserved in translation, in the Tanjur.[^34], Silpa-vidya-sastras.")
+
+[^33]: "Pag bsam ljon bzait. Ed., Saratchandra Das. Calcutta, 1908. p. 136ff."
+
+[^34]: "Pratimanalaksana-nama, classed under Tanjur. Section Mdo -hgrel (Sütra-vitti
 
      Names of a few more authorities or masters are also known from (stray mentions in) other sources. Their works are existent mostly in Mss.
 
-     There is a śilpaśāstra ascribed to Kaśyapa, the [Kaśyapa](# "For Mss. of Kasyapiya, see Catalogue Vol. XXII. Oriental Mss. Library, Madras., pp. 8755ff. Nos. 13032, 13033. Also, Oppert: List of Sanskrit Mss. in Private Libraries of South India, Vol. II, p. 395, No. 6336."), also called the Aṃsumad-bheda. It has been [edited](# "Kasyapiya, quoted by Varahamihira. Edited in Anandasram Skt. Series, from Poona."). Kaśyapa is said to have learnt this science from Śiva.
+     There is a śilpaśāstra ascribed to Kaśyapa, the Kaśyapa[^35], also called the Aṃsumad-bheda. It has been edited[^36]. Kaśyapa is said to have learnt this science from Śiva.
 
-     The Agastya Sakaladhikara is ascribed to [Agastya](# "See P. K. Acharya: Indian Architecture according to Manasura- kilbakastra. D. 100. For Mss. of the work, see Orient. Mss. Libr.,")
+[^35]: "For Mss. of Kasyapiya, see Catalogue Vol. XXII. Oriental Mss. Library, Madras., pp. 8755ff. Nos. 13032, 13033. Also, Oppert: List of Sanskrit Mss. in Private Libraries of South India, Vol. II, p. 395, No. 6336."
+
+[^36]: "Kasyapiya, quoted by Varahamihira. Edited in Anandasram Skt. Series, from Poona."
+
+     The Agastya Sakaladhikara is ascribed to Agastya[^37]
 
   . "The work entitled Sakalādhīrā, an excellent but rather volumi- nous performance, is attributed to Agastya, a sage whose history occupies a conspicuous place in the Puraṇas. Some few sections only of this work are to be now met with; and the portion which
 
-
-
-
-
-
-
-has as yet come under my subject of sculpture as own observation, is exclusively on the connected with the function of statues ; but it is so diffuse, that if we suppose the whole work to be written in a similar style, it must considerably exceed the volume of Mānāsārā, the largest at present of my [collection.](# "Ram Raz; Essay on the Architecture of the Hindus, (London, M. DCCC. xxxiv.) p. 8.  ")"
-
-There is also, the [Sanatkumāra-vāstuśāstra](# " P. K. Acharya: Op. cit., p. 102. For Mss., see Eggeling, III. 3151, 2680; Oppert, Vol. I, No. 8239. In Orient. Mss. Libr., Madras, Cat. Vol. XXII, Nos., 13060-13068, there are nine Mss., mostly fragments."), of Sanat-kumāra, who acknowledges his debt to other Ācārya, among whom are Candra and Yama, Bhārgava, Aṅgīrasa, Manu, Vyāsa, Bhṛgu.
+[^37]: "See P. K. Acharya: Indian Architecture according to Manasura- kilbakastra. D. 100. For Mss. of the work, see Orient. Mss. Libr.,"
 
 
 
@@ -478,26 +542,64 @@ There is also, the [Sanatkumāra-vāstuśāstra](# " P. K. Acharya: Op. cit., p.
 
 
 
-There is also a [Sārasvatīya-śilpa-śāstra](# " Aufrecht Op. cit., Vol. I, p. 714.")ascribed to Sārasavatī.
+has as yet come under my subject of sculpture as own observation, is exclusively on the connected with the function of statues ; but it is so diffuse, that if we suppose the whole work to be written in a similar style, it must considerably exceed the volume of Mānāsārā, the largest at present of my collection.[^38] p. 8.  ")"
 
-       The Paulastya, Sārasvata, Manohalya, Brahma, Kaumudīka, Nārāyaṇīga (śilpa-śāstra?) are also known through [quotations](# "See Orient. Mss. Libr., Madras, Cat. Vol. XXII, No. 13058, Silpasangraha. It expressly mentions the sources it has been compiled from.");similarly, are Vaśiṣṭha, Nārada, Varāha, [Māṇḍavya](# "See P. K. Acharya: A Dictionary of Hindu Architecture, Appendix I. p. 803. Quoted in Samgraha-siromani by Sarayu Prasad.").
+[^38]: "Ram Raz; Essay on the Architecture of the Hindus, (London, M. DCCC. xxxiv.
 
-       Indra, Bhārgava, Aṅgīrasa, Dhruva, Gautama, Gārgeya, Manu, Vyāsa and Bḥrgu are also [mentioned](# " See Oriental Mss. Libr., Cat. Vol. XXII, No. 13057.").
+There is also, the Sanatkumāra-vāstuśāstra[^39], of Sanat-kumāra, who acknowledges his debt to other Ācārya, among whom are Candra and Yama, Bhārgava, Aṅgīrasa, Manu, Vyāsa, Bhṛgu.
 
-      The [Aparājītā pṛcchā](# " An edition of the Aparajita-prcchi was announced long ago in the GOS. But the work has not yet come out. Dr. Bhandarkar Report (1883-84), p. 276, sub voce. Compare also Silpa-grantha in Eggeling: Op. cit., Mss. 3152, 1603b.") is said to be revealed by God at the request of Aparājītā; it was quoted by [Hemādrī](#) while, the [Aparajita-Vāstu-sāstra](# " Dr. Bühler: Catalogue of Sanskrit Mss. contained in private Libraries-, 1872, p. 276.") is ascribed to [Viśva-karman](# "Varahamihira's Brikit-simsiti. (Ed., Bibliotheca Indica). Introduction by Kern, p. p. 33 ff.")  
-       A [Gārgī-saṃhitā](# "P. K. Acharya: A Dictionary of Hindu Architecture. Appen- dix I. sub. voce. ") was known long ago and a Gargya- samhitab also exists. Both have been preserved in modern copies.
-
+[^39]: " P. K. Acharya: Op. cit., p. 102. For Mss., see Eggeling, III. 3151, 2680; Oppert, Vol. I, No. 8239. In Orient. Mss. Libr., Madras, Cat. Vol. XXII, Nos., 13060-13068, there are nine Mss., mostly fragments."
 
 
 
 
 
-     "According to the Mahabharata 9. 37, 14f. there is a sacred place Garga-srotas, "Garga's stream", on the Sarasvati, named after the venerable ascetic Garga, who was famous on account of his knowledge of time", "and the movements of the celestial bodies". "To the same (later) period (of Indian astronomy) belongs also the Gargi-samhita of Garga who was always regarded as a highly distinguished authority on Astronomy; the Vrddha-Garga-samhita, which exists, dealt, it is true, chiefly with astrology but it also contained (discussions on) [Astronomy](# "M. Winternitz: Geschichte III. pp. 556-57. Bracketed portions in the above translation are ours.") "  
-    The [Bṛhat-saṃhitā](# "Brihat samhita. Edited by Kern. Bibliotheca Indica, Asiatic Soc. Bengal; also, edited by Mm. Sudhakara Dvivedin with Bhattot pala's com- mentary, Vizianagram Skt. Series, Benares.")of Varāhamihira mentions Garga, Maya, Viśvakarman, Vaiśiṣṭha and Nagnajit, as also, Bhāṣkara and Manu.
 
-    Works of Bhāṣkara and Gaṇapatī are also quoted from, in the [Vaāstu sāraṇī](# "P. K. Acharya: Op. cit. Appendix I. sub-voce. Vastu-sarani by Matṛprasida Pände. Benares, 1901. Bhaskara is quoted early, in Varahamihira's Brhat-samhita. (Ed. Kern) Ch. 58, 52."), a modern compilation; these may be authentic Śilpaśāstrakāras whose names are known from other sources, and whose works might be preserved.
 
-    Bhagavān Gaṇapatī is mentioned, among later writers only by Madhūsudana Sārasavatī in his [Prasthāna bhedā](# "These surprisingly informative and new texts are not to be found in the ordinary edition of the Prasthanabheda by Eri Madhusudana Sarasvati e. g. from Sri Viņivilis Press, Srirangam, 1912. Nor are they to be found in the closely analogous passage in Sri Madhusudana's learned commentary to the SIVA-MAHIMNA-STAVA, edited by Pansikar Laksana Vasudeva, Nirnayasagar Press, Bombay under the most famous and oft-quoted verse ;-"), as a master of dramaturgy, Bhārata śāsastram:-
+There is also a Sārasvatīya-śilpa-śāstra[^40]ascribed to Sārasavatī.
+
+[^40]: " Aufrecht Op. cit., Vol. I, p. 714."
+
+       The Paulastya, Sārasvata, Manohalya, Brahma, Kaumudīka, Nārāyaṇīga (śilpa-śāstra?) are also known through quotations[^41];similarly, are Vaśiṣṭha, Nārada, Varāha, Māṇḍavya[^42].
+
+[^41]: "See Orient. Mss. Libr., Madras, Cat. Vol. XXII, No. 13058, Silpasangraha. It expressly mentions the sources it has been compiled from."
+
+[^42]: "See P. K. Acharya: A Dictionary of Hindu Architecture, Appendix I. p. 803. Quoted in Samgraha-siromani by Sarayu Prasad."
+
+       Indra, Bhārgava, Aṅgīrasa, Dhruva, Gautama, Gārgeya, Manu, Vyāsa and Bḥrgu are also mentioned[^43].
+
+[^43]: " See Oriental Mss. Libr., Cat. Vol. XXII, No. 13057."
+
+      The Aparājītā pṛcchā[^44], p. 276, sub voce. Compare also Silpa-grantha in Eggeling: Op. cit., Mss. 3152, 1603b.") is said to be revealed by God at the request of Aparājītā; it was quoted by [Hemādrī](#) while, the Aparajita-Vāstu-sāstra[^45] is ascribed to Viśva-karman[^46]. Introduction by Kern, p. p. 33 ff.")  
+       A Gārgī-saṃhitā[^47] was known long ago and a Gargya- samhitab also exists. Both have been preserved in modern copies.
+
+[^44]: " An edition of the Aparajita-prcchi was announced long ago in the GOS. But the work has not yet come out. Dr. Bhandarkar Report (1883-84
+
+[^45]: " Dr. Bühler: Catalogue of Sanskrit Mss. contained in private Libraries-, 1872, p. 276."
+
+[^46]: "Varahamihira's Brikit-simsiti. (Ed., Bibliotheca Indica
+
+[^47]: "P. K. Acharya: A Dictionary of Hindu Architecture. Appen- dix I. sub. voce. "
+
+
+
+
+
+
+     "According to the Mahabharata 9. 37, 14f. there is a sacred place Garga-srotas, "Garga's stream", on the Sarasvati, named after the venerable ascetic Garga, who was famous on account of his knowledge of time", "and the movements of the celestial bodies". "To the same (later) period (of Indian astronomy) belongs also the Gargi-samhita of Garga who was always regarded as a highly distinguished authority on Astronomy; the Vrddha-Garga-samhita, which exists, dealt, it is true, chiefly with astrology but it also contained (discussions on) Astronomy[^48] "  
+    The Bṛhat-saṃhitā[^49]of Varāhamihira mentions Garga, Maya, Viśvakarman, Vaiśiṣṭha and Nagnajit, as also, Bhāṣkara and Manu.
+
+[^48]: "M. Winternitz: Geschichte III. pp. 556-57. Bracketed portions in the above translation are ours."
+
+[^49]: "Brihat samhita. Edited by Kern. Bibliotheca Indica, Asiatic Soc. Bengal; also, edited by Mm. Sudhakara Dvivedin with Bhattot pala's com- mentary, Vizianagram Skt. Series, Benares."
+
+    Works of Bhāṣkara and Gaṇapatī are also quoted from, in the Vaāstu sāraṇī[^50] Ch. 58, 52."), a modern compilation; these may be authentic Śilpaśāstrakāras whose names are known from other sources, and whose works might be preserved.
+
+[^50]: "P. K. Acharya: Op. cit. Appendix I. sub-voce. Vastu-sarani by Matṛprasida Pände. Benares, 1901. Bhaskara is quoted early, in Varahamihira's Brhat-samhita. (Ed. Kern
+
+    Bhagavān Gaṇapatī is mentioned, among later writers only by Madhūsudana Sārasavatī in his Prasthāna bhedā[^51], as a master of dramaturgy, Bhārata śāsastram:-
+
+[^51]: "These surprisingly informative and new texts are not to be found in the ordinary edition of the Prasthanabheda by Eri Madhusudana Sarasvati e. g. from Sri Viņivilis Press, Srirangam, 1912. Nor are they to be found in the closely analogous passage in Sri Madhusudana's learned commentary to the SIVA-MAHIMNA-STAVA, edited by Pansikar Laksana Vasudeva, Nirnayasagar Press, Bombay under the most famous and oft-quoted verse ;-"
 
 
 
@@ -544,7 +646,9 @@ The same Prasthāna bhedā further informs that Kaśyapa was the author of a vol
 
 
 
-Regarding the Śilpa Sastras, Rám Ráz [says](# "Rám Ráz: Essay on the Architecture of the Hindus, London, M. DCCC. XXXIV.") :-
+Regarding the Śilpa Sastras, Rám Ráz says[^52] :-
+
+[^52]: "Rám Ráz: Essay on the Architecture of the Hindus, London, M. DCCC. XXXIV."
 
     " It is true that the Hindus were in possession of numerous treatises on architecture, sculpture, & c., which collectively are called the śilpa śāstra, but unfortunately few traces of them remain. There appears to have been, according to some, thirty-two, and according to others sixty-four, standard treatises on the above- mentioned arts.........
 
@@ -594,13 +698,23 @@ P. K. Acharya: Ind. Architecture according to the Manasara, ++++++ The agamas.
 
 
 
-detail. The oldest Śaivāgama extant the (Uttara) Kamikagama is probably not older than the 5th or 6th century [A. C.](# "T. A. Gopinatha Rao: Elements of Hindu Iconography. Vol. I, Part I, p. 55.")
+detail. The oldest Śaivāgama extant the (Uttara) Kamikagama is probably not older than the 5th or 6th century A. C.[^53]
 
-      We owe it entirely to (the religious zeal of) the Buddhists, the conservation, for posterity, of some Silpa Texts-both Buddhistic and Brahmanical, and perhaps, even Jaina-a few of which are entirely lost in Sanskrit. Wonderfully accurate translations of the Sanskrit versions, for example, of the Works of Atreya and of Nagnajit, are preserved in the encyclopaedic Tibetan compilation [Bstan-hgyur.](# "Cordier Catalogue du Fonds Tibétain de la Bibliothéque Nationale. Bstan hgyur, Section. Mdo-hgrel Sutra-vṛtti, Commentary on the slitras, classed under the general name Silpa-vidya-sastras, P. 474.") Dr. Berthold Laufer had brought out a critical edition of the Tibetan version of [Citralakṣaṇam](# "See Note 29, Supra.")ascribed to Nagnajit.
+      We owe it entirely to (the religious zeal of) the Buddhists, the conservation, for posterity, of some Silpa Texts-both Buddhistic and Brahmanical, and perhaps, even Jaina-a few of which are entirely lost in Sanskrit. Wonderfully accurate translations of the Sanskrit versions, for example, of the Works of Atreya and of Nagnajit, are preserved in the encyclopaedic Tibetan compilation Bstan-hgyur.[^54] Dr. Berthold Laufer had brought out a critical edition of the Tibetan version of Citralakṣaṇam[^55]ascribed to Nagnajit.
 
-      Of special importance are some of the original Sanskrit texts, procured from Nepal, mainly through the initiative of the present writer. And by him some of these have been published for the first time. Further information regarding Śilpa works, preserved in Tibetan translation and procured in their original, have also been given, elsewhere, fully, by the present [writer.](# "Haridas Mitra: The Buddhapratima-laksanam with the Com- mentary Vivarani. The Prince of Wales Sarasvati-bhavana Sanskrit Texts. No. 48. (Benares, 1933). See the Introduction.")
+[^53]: "T. A. Gopinatha Rao: Elements of Hindu Iconography. Vol. I, Part I, p. 55."
 
-    Besides these, a few Śilpa Texts of purely Buddhistic nature, are preserved, in Ceylon. They are in corrupt Sanskrit surely probably Post-Buddhistic. The most important among them, is the [Sāriputra](# "Through the kind help of Bhadanta Mañjuri, very obliging Buddhist Monk who is well grounded in Pali and Sanskrit, I was ableto prepare for my personal use a Nagari transcription of this important Text and its Ceylonese Commentary. This learned monk has also undertaken to transcribe in Nagari, for my use, the two remaining chapters of the Sariputra, as also the Rupivali. I am preparing to publish critical editions of these important Texts of Buddhistic Art in near future.") ascribed to Sāriputra, a direct disciple of the Blessed One.
+[^54]: "Cordier Catalogue du Fonds Tibétain de la Bibliothéque Nationale. Bstan hgyur, Section. Mdo-hgrel Sutra-vṛtti, Commentary on the slitras, classed under the general name Silpa-vidya-sastras, P. 474."
+
+[^55]: "See Note 29, Supra."
+
+      Of special importance are some of the original Sanskrit texts, procured from Nepal, mainly through the initiative of the present writer. And by him some of these have been published for the first time. Further information regarding Śilpa works, preserved in Tibetan translation and procured in their original, have also been given, elsewhere, fully, by the present writer.[^56]. See the Introduction.")
+
+[^56]: "Haridas Mitra: The Buddhapratima-laksanam with the Com- mentary Vivarani. The Prince of Wales Sarasvati-bhavana Sanskrit Texts. No. 48. (Benares, 1933
+
+    Besides these, a few Śilpa Texts of purely Buddhistic nature, are preserved, in Ceylon. They are in corrupt Sanskrit surely probably Post-Buddhistic. The most important among them, is the Sāriputra[^57] ascribed to Sāriputra, a direct disciple of the Blessed One.
+
+[^57]: "Through the kind help of Bhadanta Mañjuri, very obliging Buddhist Monk who is well grounded in Pali and Sanskrit, I was ableto prepare for my personal use a Nagari transcription of this important Text and its Ceylonese Commentary. This learned monk has also undertaken to transcribe in Nagari, for my use, the two remaining chapters of the Sariputra, as also the Rupivali. I am preparing to publish critical editions of these important Texts of Buddhistic Art in near future."
 
 
 
@@ -609,12 +723,20 @@ detail. The oldest Śaivāgama extant the (Uttara) Kamikagama is probably not ol
 
 
 
-     The Buddha-pratima-laksanam is preserved also in a Chinese [version.](# "See Haridas Mitra: Op. cit., Appendix: Tsao-siang-tou-leang- king.") We thus have three versions of this Śilpa text- the original Sanskrit, the Tibetan and the Chinese Translations, for comparison.
+     The Buddha-pratima-laksanam is preserved also in a Chinese version.[^58] We thus have three versions of this Śilpa text- the original Sanskrit, the Tibetan and the Chinese Translations, for comparison.
 
-     But the Jainas preceded the Buddhists in the adoption of an iconolatrous cult. Very probably, the artistic study, for representation, of the undraped human body, originated with the Nirgrantha and the Ājirika ascetics, who went about naked and had daily chances for observing the natural bodily forms, in course of their ascetic [practices](# " See Berthold Laufer: Op. cit., Einleitung. Seit 8 und Seit 17. The present writer, owes it to the kindness of the learned Muni Jina-vijayaji, the information regarding the existence of a single Jaina Silpa Canon. It is in a fragmentary state of preservation and in MS. The Authorship of the Work is ascribed to Thakkar Ph F)eru.")Indeed, the Jainas contributed, from early times, very considerably to the develop- ment of the plastic and the graphic arts of [India](# " Full discussions of these questions have been given in my Contributions to (the study of) Indian Iconometry, in course of publication.").  
+[^58]: "See Haridas Mitra: Op. cit., Appendix: Tsao-siang-tou-leang- king."
+
+     But the Jainas preceded the Buddhists in the adoption of an iconolatrous cult. Very probably, the artistic study, for representation, of the undraped human body, originated with the Nirgrantha and the Ājirika ascetics, who went about naked and had daily chances for observing the natural bodily forms, in course of their ascetic practices[^59]eru.")Indeed, the Jainas contributed, from early times, very considerably to the develop- ment of the plastic and the graphic arts of India[^60] Indian Iconometry, in course of publication.").  
       Though the Buddhists as well as the Jainas have made important contributions to art the Brahmanic art traditions-as contained in the Śilpaśāstras, are perhaps much earlier.
 
-      The Vāstu-śāstras and its subsidiary branch the Śilpaśāstras have been generally included into one of the Uparedas- the Artha-śāstra, by Madhusudana [Sarasvati](# "Madhusfidana Sarasvati: Prasthana-bheda. (Ed., T. Subraya Sastri, Mangalore)")" :-
+[^59]: " See Berthold Laufer: Op. cit., Einleitung. Seit 8 und Seit 17. The present writer, owes it to the kindness of the learned Muni Jina-vijayaji, the information regarding the existence of a single Jaina Silpa Canon. It is in a fragmentary state of preservation and in MS. The Authorship of the Work is ascribed to Thakkar Ph F
+
+[^60]: " Full discussions of these questions have been given in my Contributions to (the study of
+
+      The Vāstu-śāstras and its subsidiary branch the Śilpaśāstras have been generally included into one of the Uparedas- the Artha-śāstra, by Madhusudana Sarasvati[^61]")" :-
+
+[^61]: "Madhusfidana Sarasvati: Prasthana-bheda. (Ed., T. Subraya Sastri, Mangalore
 
 
 
@@ -634,7 +756,9 @@ detail. The oldest Śaivāgama extant the (Uttara) Kamikagama is probably not ol
    The
 [Śulva-sūtra](http://# "Dr. G. Thibaut: Sulva Sutras. J. A. S. B. Part I. 1875; Also, the Pandit. Old Series (1874, 1876) Vols. IX & X; and New Series (1876, 1882) Vols. I & IV.")form supplementary parts of the Kalpa- sūtras and prescribe rules for the construction of sacrificial Altars- Sulva having the sense of Rajju, cords for measurement of distances.
 
-   The two most important treatises of Sulvasutras are those of Baudhayana and Āpastamba. Two smaller treatises of later dates, are the Mānava and the Māitrayaṅiya Śulva-sūtras. There is also a Kātyāyana Śulva Pariśiṣṭa, belonging to the[Śukla-Yajuṣa](# " Prof. M. Winternitz: A History of Indian Literature. Vol. I, (Cal. Univ. 1927). P. 277.").
+   The two most important treatises of Sulvasutras are those of Baudhayana and Āpastamba. Two smaller treatises of later dates, are the Mānava and the Māitrayaṅiya Śulva-sūtras. There is also a Kātyāyana Śulva Pariśiṣṭa, belonging to theŚukla-Yajuṣa[^62]. P. 277.").
+
+[^62]: " Prof. M. Winternitz: A History of Indian Literature. Vol. I, (Cal. Univ. 1927
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -675,13 +799,23 @@ P. 271. "Ritual (Kalpa), which constitutes the chief contents of the Brahmanas, 
 
 
 
-     Indeed, the beginnings of the Vāstu-sāstras and the Śilpa-śāstras are to be traceable to the Vedangie Jyantisa, (Kalpa)[Śulva-sūtra](# "See Note 62. Supra.") on the one hand, and to the Tantrika ritualistic Yantras and [Maṇḍalas](# "For examples, see श्रीश्रीशरदादिलकतन्त्रम्। Sharadätilakatantram, with commentary पदार्थादर्भ। Padarthadarsha. Edited by Atalananda Sarasvati. Tantrik Texts Vols, XVI. and XVII. Patala 3.") etc., on the other.
+     Indeed, the beginnings of the Vāstu-sāstras and the Śilpa-śāstras are to be traceable to the Vedangie Jyantisa, (Kalpa)Śulva-sūtra[^63] on the one hand, and to the Tantrika ritualistic Yantras and Maṇḍalas[^64] etc., on the other.
+
+[^63]: "See Note 62. Supra."
+
+[^64]: "For examples, see श्रीश्रीशरदादिलकतन्त्रम्। Sharadätilakatantram, with commentary पदार्थादर्भ। Padarthadarsha. Edited by Atalananda Sarasvati. Tantrik Texts Vols, XVI. and XVII. Patala 3."
 
    Among the treatises on Nīti and its sub-class Vārtā and on Jyotisa, the Arthasāstra of Kautilya, the Sukraniti and the Brhatsamhita of Varahamihira call for special notice.
 
-    The Indian Artha and the Niti Sastras have been called poly-technical [treatises](# "P. K. Acharya: Ind. Arch, p. 132."); and the Vārtāappertains to [Economics.](# "Narendranath Law: Varta-The ancient Hindu Economics, Ind. Antiq., Vol. XLVII, p. 256.")
+    The Indian Artha and the Niti Sastras have been called poly-technical treatises[^65]; and the Vārtāappertains to Economics.[^66]
 
-    The Arthasāstra of Kautilya devotes some six or seven chapters to town-planning, the construction of residential buildings and fort, and specially military architecture. The Artha- sastra of Kautilya is an old work but in its present form not older than the 3rd century [A.C.](# "M. Winternitz: Geschichte der indischen Litteratur, III Band, (Leipzig. 1922), p. 523,")
+[^65]: "P. K. Acharya: Ind. Arch, p. 132."
+
+    The Arthasāstra of Kautilya devotes some six or seven chapters to town-planning, the construction of residential buildings and fort, and specially military architecture. The Artha- sastra of Kautilya is an old work but in its present form not older than the 3rd century A.C.[^67], p. 523,")
+
+[^66]: "Narendranath Law: Varta-The ancient Hindu Economics, Ind. Antiq., Vol. XLVII, p. 256."
+
+[^67]: "M. Winternitz: Geschichte der indischen Litteratur, III Band, (Leipzig. 1922
 
     In 'Kautiliya Arthasāstra, Visālākṣa, Bāhudantiputra, Brhaspati and Uśanas have been cited as teachers of Artha. Compare also Kāmasūtra, p. 3f., where it is narrated, that from the great work by the creator Brahman on the Trivarga, Manu separated the part dealing with Dharma, Bṛhaspati-that on Artha and Nandin, Siva's servant-the one on Kama. Maha- bhārata, XII, 59, 28ff., 76ff.'
 
@@ -694,24 +828,40 @@ contain exact rules for the measurement (Sulva means "measuring- string") and th
 
 
 
-     Viśālākṣa-the great-eyed one, is one name of Śiva. And Bāhudantin is another name of [Indra.](# "See Dr. M. Winternitz: Geschichte der indischen Litteratur, III Band. (Leipzig. 1922), pp. 507-8 and p. 508 Note 1. Free translation of this Note is given above.")
-In the Matsya Purana, Visalakṣa, Nandin, Indra, Śukra and Bṛhaspati are, all of them, cited as teachers of [Śilpa](# "See Text and Note 25. Supra.").
+     Viśālākṣa-the great-eyed one, is one name of Śiva. And Bāhudantin is another name of Indra.[^68], pp. 507-8 and p. 508 Note 1. Free translation of this Note is given above.")
+In the Matsya Purana, Visalakṣa, Nandin, Indra, Śukra and Bṛhaspati are, all of them, cited as teachers of Śilpa[^69].
 
-  Among them Nandikeśvara or Nandiśvara was also an ancient teacher of Kāmāsastra. Besides, this there is one Nandi-kesvara who was the author of an work on Abhinaya-Abhinaya- darpaṇam, 'the Mirror of [Gestures',](# " Nandikeśvara's Abhinaya-darpanam. Edited by Manomohan Ghosh. Calcutta Sanskrit Series. No. 5. (Metropolitan Printing and Publishing House, Ltd. Calcutta, 1934). For further information regarding Nandi- kesvara, see the present writer (Haridas Mitra's): Sadasiva Worship. J.P.A.S.B. (New Series). Vol. XXIX, 1933. App. III, see under Nandi. kesvara.")
+[^68]: "See Dr. M. Winternitz: Geschichte der indischen Litteratur, III Band. (Leipzig. 1922
 
-  'Bṛhaspati is at the same time a teacher of the Lokāyata system, and there is close relationship, between Lokayata and Arthāsāstra. From the Mahābhārata, it is learnt, that the Indian Tradition regarded Bṛhaspati as the Founder of the Arthāsāstra. This old Arthāsāstra of Bṛhaspati, alas, is preserved to us only in a version strongly altered and mixed-up with modern [elements."](# " M. Winternitz: Geschichte der indischen Litteratur, Band III, p. 508. (The above passage has been rendered freely into English, from this book, by the present writer.")
+[^69]: "See Text and Note 25. Supra."
+
+  Among them Nandikeśvara or Nandiśvara was also an ancient teacher of Kāmāsastra. Besides, this there is one Nandi-kesvara who was the author of an work on Abhinaya-Abhinaya- darpaṇam, 'the Mirror of Gestures',[^70]. For further information regarding Nandi- kesvara, see the present writer (Haridas Mitra's): Sadasiva Worship. J.P.A.S.B. (New Series). Vol. XXIX, 1933. App. III, see under Nandi. kesvara.")
+
+[^70]: " Nandikeśvara's Abhinaya-darpanam. Edited by Manomohan Ghosh. Calcutta Sanskrit Series. No. 5. (Metropolitan Printing and Publishing House, Ltd. Calcutta, 1934
+
+  'Bṛhaspati is at the same time a teacher of the Lokāyata system, and there is close relationship, between Lokayata and Arthāsāstra. From the Mahābhārata, it is learnt, that the Indian Tradition regarded Bṛhaspati as the Founder of the Arthāsāstra. This old Arthāsāstra of Bṛhaspati, alas, is preserved to us only in a version strongly altered and mixed-up with modern elements."[^71]
 
 The
-[Śukranīti](# " M. Winternitz: Op. cit., p. 532 (Free Translation). Besides the edition of sukranti of G. Oppert (Madras, 1882) there is also on of jivananda Vidyasagara (calcutta, 1882) and several indian prints Ed.by B.K. Sarkar (New York, 1915); Eng. Transl., by the same (Allahabad) onthe Sukraniti, B. K. Sarkar based The Positive Background of Hindu Sociology I, II (The Sacred Books of the Hindus, Allahabad)") i. e., the Textbook on Politics written by Śukra or Uśanas is a work of quite recent times, if we do not call
+Śukranīti[^72]. Besides the edition of sukranti of G. Oppert (Madras, 1882) there is also on of jivananda Vidyasagara (calcutta, 1882) and several indian prints Ed.by B.K. Sarkar (New York, 1915); Eng. Transl., by the same (Allahabad) onthe Sukraniti, B. K. Sarkar based The Positive Background of Hindu Sociology I, II (The Sacred Books of the Hindus, Allahabad)") i. e., the Textbook on Politics written by Śukra or Uśanas is a work of quite recent times, if we do not call
+
+[^71]: " M. Winternitz: Geschichte der indischen Litteratur, Band III, p. 508. (The above passage has been rendered freely into English, from this book, by the present writer."
+
+[^72]: " M. Winternitz: Op. cit., p. 532 (Free Translation
 
 
 
 
 
 
-it, a forgery. Whether the remnants of an old Arthaśāstra have been preserved in the Śukraniti or not must be investigated first.' The Śukranīti in an older form may be anterior to the Matsya-P., which mentions Śukracārya, as one of the eighteen authorities of architecture-[Vāstuśāstropadeśakas](# " Matsya-Puranam, (Anandüśram Ed., 1907), chap. 252. See Note 25. supra."), The Śukranīti deals with architecture and sculpture in chapter IV, sections 4 and 6. There are frequent and casual references to both these subjects in other portions of the treatise as [well.](# " P. K. Acharya: A Dictionary of Hindu Arch., p. 799; also see Sukraniti Text; and the Engl. Transl. by B. K. Sarkar.")
+it, a forgery. Whether the remnants of an old Arthaśāstra have been preserved in the Śukraniti or not must be investigated first.' The Śukranīti in an older form may be anterior to the Matsya-P., which mentions Śukracārya, as one of the eighteen authorities of architecture-Vāstuśāstropadeśakas[^73], chap. 252. See Note 25. supra."), The Śukranīti deals with architecture and sculpture in chapter IV, sections 4 and 6. There are frequent and casual references to both these subjects in other portions of the treatise as well.[^74]
 
-      'Varāhamihira's Bṛhatsaṃhitā is one of the most important works of the Indian literature. It is a principal work on natural Astrology. As this subject is of importance in all departments of life, all the varied branches of the public and the private. life have been treated in the work. Hence it partakes to some extent of an encyclopaedic character and is concerned with numerous other arts and [sciences'.](# "M. Winternitz: Geschichte III, p. 567. Brhatsamhita :-Ed. by H. Kern (Bibliotheca Indica); Ed. by Mm. Sudhakara Dvivedin with the Commentary of Bhattotpala (Vizianagram Sanskrit Series); Transl. for the greater part by H. Kern. JRAS. (1870-75). Complete Translation by Chidambaram Iyer (Madura, 1884).")
+[^73]: " Matsya-Puranam, (Anandüśram Ed., 1907
+
+      'Varāhamihira's Bṛhatsaṃhitā is one of the most important works of the Indian literature. It is a principal work on natural Astrology. As this subject is of importance in all departments of life, all the varied branches of the public and the private. life have been treated in the work. Hence it partakes to some extent of an encyclopaedic character and is concerned with numerous other arts and sciences'.[^75]; Ed. by Mm. Sudhakara Dvivedin with the Commentary of Bhattotpala (Vizianagram Sanskrit Series); Transl. for the greater part by H. Kern. JRAS. (1870-75). Complete Translation by Chidambaram Iyer (Madura, 1884).")
+
+[^74]: " P. K. Acharya: A Dictionary of Hindu Arch., p. 799; also see Sukraniti Text; and the Engl. Transl. by B. K. Sarkar."
+
+[^75]: "M. Winternitz: Geschichte III, p. 567. Brhatsamhita :-Ed. by H. Kern (Bibliotheca Indica
 
         Thus the Bṛhatsaṃhita, usually classed under the astro- nomical and astrological treatises, is but a semi-Purāṇa, dealing, as it does, with heterogeneous subjects like the Purāṇas themselves. ...In this treatise there are but five chapters devoted to both architecture and sculpture. But the subjects have been treated with a master hand....Quite consistently with his sense of proportion Varāhamihira devotes only one chapter to sculpture, in which details of images are described in a scientific manner which is-
 
@@ -721,13 +871,20 @@ it, a forgery. Whether the remnants of an old Arthaśāstra have been preserved 
 
 
 
-distinctly missing in other ancient literatures in his treatise seven architectural authorities are mentioned [distinctly."](# "P. K. Acharya: Ind. Arch., p. 22.")  
-    The authorities of architecture and sculpture, specially mentioned are Maya and Viśvakarman, Garga and Manu, Nagnajit, Vaśiṣtha and [Bhāskara.](# "भूमिकाङ्गुलमानेन मयस्याष्टोत्तरं शतम् ।  सार्धं हस्तत्रयं चैव कथितं विश्वकमणा॥ २८ ॥  प्रासादलचयमिदं कथितं समासाद्  गर्गेणयद्विरचितं तदिहास्ति सर्वम् ।  मन्वादिभिर्विरचितानि पृथूनि यानि  तत्संस्मृतिं प्रति मयात्र कृतोऽधिकारः ॥ २१ ॥ षट्पञ्चाशोऽध्यायः ॥  अष्टौ सीसकभागाः कांसस्य हौतु रीतिकाभागः ।  कथितो योगोऽयं विशेयो वज्रसंघातः ॥ ८ ॥ सप्तपञ्चाशोऽध्यायः॥  स्वैरङ्गुलप्रमाणैर्दाशच मुखम्।  नग्रजिता तु चतुर्दश दैर्घ्येणद्राविडं कथितम् ॥ ४ ॥  चतुरङ्गुलं वसिष्ठः कथयति नेवान्तकर्णयोर्विवरम् ।  अधरोऽङ्गुल प्रमाणस्तस्थार्धेनोत्तरोष्ठश्च ॥ ८ ॥  अन्धत्वमूर्ध्व दृष्ट्याकरोति चिन्तामधोमुखी दृष्टिः ।  सर्वप्रतिमाखेवंशुभाशुभं भास्करोक्तसमम् ॥ ५२॥ अष्टपञ्चाशोऽध्यायः ॥  The Bṛhatsamhita of Varahamihira. Ed. H. Kern, (Bibliotheca Indica).")
+distinctly missing in other ancient literatures in his treatise seven architectural authorities are mentioned distinctly."[^76]  
+    The authorities of architecture and sculpture, specially mentioned are Maya and Viśvakarman, Garga and Manu, Nagnajit, Vaśiṣtha and Bhāskara.[^77].")
+
+[^76]: "P. K. Acharya: Ind. Arch., p. 22."
+
+[^77]: "भूमिकाङ्गुलमानेन मयस्याष्टोत्तरं शतम् ।  सार्धं हस्तत्रयं चैव कथितं विश्वकमणा॥ २८ ॥  प्रासादलचयमिदं कथितं समासाद्  गर्गेणयद्विरचितं तदिहास्ति सर्वम् ।  मन्वादिभिर्विरचितानि पृथूनि यानि  तत्संस्मृतिं प्रति मयात्र कृतोऽधिकारः ॥ २१ ॥ षट्पञ्चाशोऽध्यायः ॥  अष्टौ सीसकभागाः कांसस्य हौतु रीतिकाभागः ।  कथितो योगोऽयं विशेयो वज्रसंघातः ॥ ८ ॥ सप्तपञ्चाशोऽध्यायः॥  स्वैरङ्गुलप्रमाणैर्दाशच मुखम्।  नग्रजिता तु चतुर्दश दैर्घ्येणद्राविडं कथितम् ॥ ४ ॥  चतुरङ्गुलं वसिष्ठः कथयति नेवान्तकर्णयोर्विवरम् ।  अधरोऽङ्गुल प्रमाणस्तस्थार्धेनोत्तरोष्ठश्च ॥ ८ ॥  अन्धत्वमूर्ध्व दृष्ट्याकरोति चिन्तामधोमुखी दृष्टिः ।  सर्वप्रतिमाखेवंशुभाशुभं भास्करोक्तसमम् ॥ ५२॥ अष्टपञ्चाशोऽध्यायः ॥  The Bṛhatsamhita of Varahamihira. Ed. H. Kern, (Bibliotheca Indica
 
 CHAPTER III  
 THE CANONS OF INDIAN ART (Contd.)
 
-   While, it is not necessary to make anything more than only passing reference to the Vedic, the Epic (Itihāsa) and the Classical Sanskrit and the Buddhist literatures etc., on subjects like architecture, art etc., these being dealt with, at great lengths by more competent scholars, elsewhere, the Paranas in this connexion call for special [notice.](# "For General information in full, regarding the Puranas, see :-M. Winternitz: A. History of Ind. Lit. Vol. I. Section II; especially, PP. 517-586. About the Silpa sections of the Puranas, see:- P. K. Acharya Ind. Arch. I. General Survey. III. The Epics. V. The Age of Manasura; and also A Dictionary of Hindu Archit. Appendix II.; N. Law: Varta-the Hindu Economics, Ind. Antiq., Vol. XLVII.")
+   While, it is not necessary to make anything more than only passing reference to the Vedic, the Epic (Itihāsa) and the Classical Sanskrit and the Buddhist literatures etc., on subjects like architecture, art etc., these being dealt with, at great lengths by more competent scholars, elsewhere, the Paranas in this connexion call for special notice.[^78]
+
+
+[^78]: "For General information in full, regarding the Puranas, see :-M. Winternitz: A. History of Ind. Lit. Vol. I. Section II; especially, PP. 517-586. About the Silpa sections of the Puranas, see:- P. K. Acharya Ind. Arch. I. General Survey. III. The Epics. V. The Age of Manasura; and also A Dictionary of Hindu Archit. Appendix II.; N. Law: Varta-the Hindu Economics, Ind. Antiq., Vol. XLVII."
 
 
 
@@ -735,14 +892,15 @@ THE CANONS OF INDIAN ART (Contd.)
 
 
 
-
-     Of the eighteen or nineteen Mahā-purāṇas, besides the other [Upa-purāṇas](# "For full lists of the Puranas and the Upa-Puranas: see M. Monier- Williams Indian Wisdom (1893, Lond), chapt. XV.-ff. Puranas; and see, especially about eighteen Puranas, pp. 513-14 and about eighteen Upa- Puranas, p. 521. Also, M. Winternitz: Op. cit., p. 532-33- "), some nine have special reference to architecture and sculpture etc. Most of the Purāṇas are Vaiṣṇava and as many as fourteen of them are devoted to the worship of Viṣṇu; but they deal with the images of all the three deities, Trimūrti, forming the Triad.  
+     Of the eighteen or nineteen Mahā-purāṇas, besides the other Upa-purāṇas[^79], chapt. XV.-ff. Puranas; and see, especially about eighteen Puranas, pp. 513-14 and about eighteen Upa- Puranas, p. 521. Also, M. Winternitz: Op. cit., p. 532-33- "), some nine have special reference to architecture and sculpture etc. Most of the Purāṇas are Vaiṣṇava and as many as fourteen of them are devoted to the worship of Viṣṇu; but they deal with the images of all the three deities, Trimūrti, forming the Triad.  
     1. The Agni-purāṇa has sixteen chapters on Vāstu and śilpa -one of them on town-planning, two on residential buildings and thirteen on sculpture.  
     2. The Garuḍa-purāṇa has two chapters on architecture and two on sculpture.  
     3. The Nāradiya-purāṇa treats only the construction of temples, reservoirs, wells and tanks in its one chapter.  
     4.The Brahmāṇḍa-purana, likewise, treats the construc- tion of temples and other buildings in its one chapter.  
     5. The Bhaviṣya-purāṇa has four chapters, three being devoted to sculpture and one on the architecture of temples.  
   6. The Matsya-purāṇa has eight comprehensive chapters dealing in great detail with architecture and sculpture, constituting
+
+[^79]: "For full lists of the Puranas and the Upa-Puranas: see M. Monier- Williams Indian Wisdom (1893, Lond
 
 
 
@@ -756,7 +914,9 @@ the Vāstu-prakaraṇa i. e., the section on Architecture. In one of these chapt
   9.The Skanda-purāṇa has three chapters on Vāstu and śilpa. One chapter describes how for his daughter's marriage Himālaya had a pavillion constructed by Viśvakarman under the instruction of his Purohita Gārgacārya and how clever portraits or life-like representations of all gods were made there in, and they struck even the gods themselves with awe and wonder. Another chapter describes the laying out by Viśvakarman himself, of a large city Mahīnagara. From another chapter, we come to know how a golden hall was made by Padmanidhi, at the command of Indradyumna, how Viśvakarman made three chariots at the command of Narada and how their installation ceremony was performed by this ṛṣi.
 
    For informations regarding Vāstu, śilpa and Citra- the most important Paurāṇiksources are the Agni, the Matsya and the Viṣṇudharmottaram.  
-   "The Matsya or [Matsya-Purāṇa](# "The Matsya-Purana is published in Anandäśram Sanskrit Series No. 54 and transl. into Engl., in SBH. (Panini office, Allahabad) Vol. 17. See M. Winternitz: A Hist. of Ind. Lit. Vol. I, pp. 575-76.")... is one of the older works of the Purāņa literature, or at least one of those which have preserved most of the ancient text, and do fair justice to the definition of a purāṇa.' It commences with the story of the great flood out of which Viṣṇu, in the form of a fish (Matsya) saves only Manu. While the ship in which Manu is sailing
+   "The Matsya or Matsya-Purāṇa[^80] Vol. 17. See M. Winternitz: A Hist. of Ind. Lit. Vol. I, pp. 575-76.")... is one of the older works of the Purāņa literature, or at least one of those which have preserved most of the ancient text, and do fair justice to the definition of a purāṇa.' It commences with the story of the great flood out of which Viṣṇu, in the form of a fish (Matsya) saves only Manu. While the ship in which Manu is sailing
+
+[^80]: "The Matsya-Purana is published in Anandäśram Sanskrit Series No. 54 and transl. into Engl., in SBH. (Panini office, Allahabad
 
 
 
@@ -774,12 +934,16 @@ along is being drawn through the flood by the fish, there takes place between hi
 
 
 
-    "The Āgneya or [Agni-purāṇa](# "M. Winternitz: Op. cit., p. 566. Agni-P. ed, in Bibliotheca Indica (1873-79) and Anandāśram Skt. Series, No. 41; Transl. by M. N. Dutt (Cal., 1901)."),is so called because it is supposed to have been communicated to Vaiśiṣṭha by Agni, It describes the incarnations (Avatāras) of Viṣṇu, among them also those as Rāma and Kṛṣṇā, where it confessedly follows the Rāmāyaṇa, Māhabhārata and Harivaṃśa. Although it commences with Viṣṇu,it is yet essentially a śivaite work and deals in detail with the mystic cult of the Liṇga and of Durgā. It also mentions Tāntric rites, gives instructions for the production of images of gods and their consecration and refers to the cult of Gaṇeśa (chapt.71) and the sun-cult (chapt. 73). But the cosmo- logical, geneological and geographical sections peculiar to the Puranas are not missing. The especially distinctive feature of this Purāṇa is, however, its encyclopedic characters. It actually deals with anything and everything. We find sections on Geography, Astronomy and Astrology, on omina and potenta, house building and other occupations of daily life....To which age this remarkable encyclopædia or its separate parts belong, it is impossible to say."
+    "The Āgneya or Agni-purāṇa[^81] and Anandāśram Skt. Series, No. 41; Transl. by M. N. Dutt (Cal., 1901)."),is so called because it is supposed to have been communicated to Vaiśiṣṭha by Agni, It describes the incarnations (Avatāras) of Viṣṇu, among them also those as Rāma and Kṛṣṇā, where it confessedly follows the Rāmāyaṇa, Māhabhārata and Harivaṃśa. Although it commences with Viṣṇu,it is yet essentially a śivaite work and deals in detail with the mystic cult of the Liṇga and of Durgā. It also mentions Tāntric rites, gives instructions for the production of images of gods and their consecration and refers to the cult of Gaṇeśa (chapt.71) and the sun-cult (chapt. 73). But the cosmo- logical, geneological and geographical sections peculiar to the Puranas are not missing. The especially distinctive feature of this Purāṇa is, however, its encyclopedic characters. It actually deals with anything and everything. We find sections on Geography, Astronomy and Astrology, on omina and potenta, house building and other occupations of daily life....To which age this remarkable encyclopædia or its separate parts belong, it is impossible to say."
 
-     The Matsya-Purāṇa enumerates the names of eighteen ancient teachers of architecture, as quoted before. The passages have been interpreted as [below.](# "The Matsya-puranam. Transl. by A Taluqdar of Oudh. (The Sacred Books of the Hindus. Ed. by Major B. D. Basu. I. M. S. Vol. XVII.) Appendix X, by Sris Chandra Vidyarnava, p. cvi.")  
+[^81]: "M. Winternitz: Op. cit., p. 566. Agni-P. ed, in Bibliotheca Indica (1873-79
+
+     The Matsya-Purāṇa enumerates the names of eighteen ancient teachers of architecture, as quoted before. The passages have been interpreted as below.[^82] Appendix X, by Sris Chandra Vidyarnava, p. cvi.")  
          "The Ṛṣis asked:-  
      'Sūta ! be gracious enough to tell us how royal palaces and other houses are constructed. Also explain to us what is Vāstu- Deva-1.'  
        Sūta replied:-(1) Bhṛgu, (2) Atri, (3) Vaiśiṣṭha , (4) Viśva- karmā, (5) Maya, (6) Nārada, (7) Nagnajit, (8) Viśālākṣa, (9) Indra, (10) Brahmā, (11) Svāmikārtika, (12) Nandiśvara, (13) śaunaka, (14) Garga, (15) śri Kṛṣṇa, (16) Aniruddha,
+
+[^82]: "The Matsya-puranam. Transl. by A Taluqdar of Oudh. (The Sacred Books of the Hindus. Ed. by Major B. D. Basu. I. M. S. Vol. XVII.
 
 
 
@@ -794,7 +958,9 @@ along is being drawn through the flood by the fish, there takes place between hi
 
       Which I will now relate to you."
 
-      The [Agni-Purāṇa](# " Agni-Puranam, Engl. prose transl, by Manmathanath Dutt. Cal., 1903. Chapter XXXIX. In the Introduction Mr. Datta writes:- ") list of twenty-five authoritative texts, quoted before is interpreted thus:-
+      The Agni-Purāṇa[^83] list of twenty-five authoritative texts, quoted before is interpreted thus:-
+
+[^83]: " Agni-Puranam, Engl. prose transl, by Manmathanath Dutt. Cal., 1903. Chapter XXXIX. In the Introduction Mr. Datta writes:- "
 
       "Hayagriva said:-O, Brahman, hear me speak about the consecration of the images of Vishnu and other gods-(1).
 
@@ -842,7 +1008,7 @@ from loss of traditions in North India, the Āgneya list of the Pāncaratra Āga
 
 
 
-dealing, with a number of topics, if not the whole, of the [Pañca- rātra system.](# "Otto Schrader, Op. cit. pp, 2-3 ff.")  
+dealing, with a number of topics, if not the whole, of the Pañca- rātra system.[^84]  
      "of the principal subjects treated in the Pañcarātra, the scientific student will probably find it best to distinguish the following ten :-  
      (1) Philosophy;  
      (2) Linguistic occultism (mantra-śāstra);  
@@ -853,8 +1019,12 @@ dealing, with a number of topics, if not the whole, of the [Pañca- rātra syste
     (7) Image-making (pratiṣṭha-ridhi);  
      (8) Domestic observances (saṃskāra, āhnika);  
     (9) Social rules (varṇāśrama-dharma);  
-     (10) Public festivals [(itsava)"](# "Ibid. p. 26.")  
+     (10) Public festivals (itsava)"[^85]  
    An examination of the principal subjects, treated in the Pañca- ratras, will easily show the close relationship of many of these, with the Vastu and the śilpa-śāstras.
+
+[^84]: "Otto Schrader, Op. cit. pp, 2-3 ff."
+
+[^85]: "Ibid. p. 26."
 
    In the evolution and the development of the Building, the Plastic and the Graphic Arts of India, the Velānga Jyotiṣa and the Kalpa (Śulva) Sūtras, the Saica Agamas and the Sākta Tantrās, the Purāṇas and the Pancaratras, etc., have, among the Brāhmanic Texts, made similar contributions.
 
@@ -872,7 +1042,9 @@ THE PRESENT EDITION
 
     The preparation of critical Editions of the Sanskrit Texts on śilpa (or, Tantra) is beset with many difficulties some of which are of a very serious character.
 
-      The language is, on the one hand, obscure and full of techni- calities; extraneous aids-in the shapes of explanatory comments and notes which are fortunately so abundant in the cases of other branches of Indian Literature are sadly wanting in the cases of the Silpa (and the Tāntrik) Texts. On the other hand, the Manuscripts of these branches of Sanskrit, are mostly corrupt or in mutilated state, due, not only to the loss of art traditions but also among other reasons, to the indifference of the hereditary [craftsmen](# "Compare Brahma-vaivarta Puranam, Brahma Khanda. Adh. 10, Jatimāla. (From a MS., collected by the late Prof. Satishchandra Mitra), for the Daulatpur Hindu Academy, জাতিমালা। (?) অর্থাত্ পদ্মপুরাণ ও বহুবিধ পুরাণ শাস্ত্র হইতে সংগৃহীত। শ্রী মহেশচন্দ্র (sic!) বিদ্য়ারত্ন কর্ত্তৃক অনুবাদিত। হরিহর যন্ত্র । চিত্পুর রোড। বটতলা। সন ১২৭৪ সাল, ৩২ আষাঢ। Reprinted. বেঙ্গল রায় প্রেস। সন ১৩৩০ সাল। জাতিকৌমুদি ও জাতিসঙ্কর। শ্রীবেণীমাধব ন্য়ায়রত্ন কত্তৃক সঙ্কলিত। কৃমুদ্বন্ধ যন্ত্র। সন ১৯২৩ সাল, ফাল্গুন।") and artists themselves to the literary works on the subject.
+      The language is, on the one hand, obscure and full of techni- calities; extraneous aids-in the shapes of explanatory comments and notes which are fortunately so abundant in the cases of other branches of Indian Literature are sadly wanting in the cases of the Silpa (and the Tāntrik) Texts. On the other hand, the Manuscripts of these branches of Sanskrit, are mostly corrupt or in mutilated state, due, not only to the loss of art traditions but also among other reasons, to the indifference of the hereditary craftsmen[^86], for the Daulatpur Hindu Academy, জাতিমালা। (?) অর্থাত্ পদ্মপুরাণ ও বহুবিধ পুরাণ শাস্ত্র হইতে সংগৃহীত। শ্রী মহেশচন্দ্র (sic!) বিদ্য়ারত্ন কর্ত্তৃক অনুবাদিত। হরিহর যন্ত্র । চিত্পুর রোড। বটতলা। সন ১২৭৪ সাল, ৩২ আষাঢ। Reprinted. বেঙ্গল রায় প্রেস। সন ১৩৩০ সাল। জাতিকৌমুদি ও জাতিসঙ্কর। শ্রীবেণীমাধব ন্য়ায়রত্ন কত্তৃক সঙ্কলিত। কৃমুদ্বন্ধ যন্ত্র। সন ১৯২৩ সাল, ফাল্গুন।") and artists themselves to the literary works on the subject.
+
+[^86]: "Compare Brahma-vaivarta Puranam, Brahma Khanda. Adh. 10, Jatimāla. (From a MS., collected by the late Prof. Satishchandra Mitra
 
       There, however, prevails an unfortunate and regrettable attitude of mind which looks down upon these hereditary craftsmen and artists who have carried on with love and veneration even when there were no encouragements, the sacred duty of keeping up for generations, the flames of Indian artistic tradition alive. The Brahmanic theologians have cast down the artists and the craftsmens. The Nītiśāstra-kāras have enumerated
 
@@ -886,20 +1058,28 @@ THE PRESENT EDITION
 
 
 
-the musicians along with the cut-throats, charlatans [rascals.](# "For example, see the rare old Niti-sastra, Caksusīyaman, fragments of which have been traced and published for the first time-A. S. Ramanath Ayyar Chaksusiyam-an Arthasastra. JBORS Vol. XI, pp. 81-84.")
+the musicians along with the cut-throats, charlatans rascals.[^87]
 
     And yet the Śilpa, the Saṅgīta and the Nātya etc., which have all reputed Ṛṣis of hoary antiquity, as their founders, owed their birth to divine inspiration. We have, therefore, here, another set of apparent paradoxes of Indian culture, which should provoke serious enquiry.
 
-  Very elaborate descriptions are given of the merits (Phala- śruti and Artha-vāda) for raising pious foundations, or erecting sacred structures such as the dedication of an image that would accrue on the part of the donor, [(danapati).](# "तथा हि- श्रीगोपालभट्टकृते 'श्रीहरिभक्तिविजा से - १८ विलास - श्रीमूयविर्भावमाहात्म 'विष्णुधर्मोत्तरे। देवस्य प्रतिमायान्तु यावन्तः परमाणवः; सावर्षसहस्राणि विश्वलोके महीयते । ' तथा - 'श्री हरि०- १८ विलास --- श्रीमूर्ति प्रतिष्ठामाहाको 'मामा' । प्रतिष्ठायाः सुराणां च देवतार्यानुकीर्त्तनात् । देवयज्ञोवार्खापि बन्धनेन विमुच्यते ॥ तथा- संङ्घाभाषित प्रतिमा लक्षण-विवरण्याम्' यावन्तः परमाणवो भगवतस्तूयेषु विम्वेषु वा। तत्कर्त्तुर्दिवि भूतले च नियतं तावन्ति॥ --संपदोऽखिला भुक्ता च सर्वं सुखम्। प्रान्ते जन्मजराविपत्तिरहितं प्राप्नोति वौद्धं पदम्॥") Arts of music and
+[^87]: "For example, see the rare old Niti-sastra, Caksusīyaman, fragments of which have been traced and published for the first time-A. S. Ramanath Ayyar Chaksusiyam-an Arthasastra. JBORS Vol. XI, pp. 81-84."
+
+  Very elaborate descriptions are given of the merits (Phala- śruti and Artha-vāda) for raising pious foundations, or erecting sacred structures such as the dedication of an image that would accrue on the part of the donor, (danapati).[^88] Arts of music and
+
+[^88]: "तथा हि- श्रीगोपालभट्टकृते 'श्रीहरिभक्तिविजा से - १८ विलास - श्रीमूयविर्भावमाहात्म 'विष्णुधर्मोत्तरे। देवस्य प्रतिमायान्तु यावन्तः परमाणवः; सावर्षसहस्राणि विश्वलोके महीयते । ' तथा - 'श्री हरि०- १८ विलास --- श्रीमूर्ति प्रतिष्ठामाहाको 'मामा' । प्रतिष्ठायाः सुराणां च देवतार्यानुकीर्त्तनात् । देवयज्ञोवार्खापि बन्धनेन विमुच्यते ॥ तथा- संङ्घाभाषित प्रतिमा लक्षण-विवरण्याम्' यावन्तः परमाणवो भगवतस्तूयेषु विम्वेषु वा। तत्कर्त्तुर्दिवि भूतले च नियतं तावन्ति॥ --संपदोऽखिला भुक्ता च सर्वं सुखम्। प्रान्ते जन्मजराविपत्तिरहितं प्राप्नोति वौद्धं पदम्॥"
 
 
 
 
 
 
-dancing have similarly been [glorified](# "Compare Nandikeśvara's Abhinayadarpanam (Critical Ed. of the Text with Introd., Transl., Notes and Illustrations. By Manomohan Ghosh., Cal. Skt. Series, No. V.), [Natyaprasamsa], l. 7b-11a (and Engl. Transl.). For the Sangita-sastra etc., also, it is possible to give numerous examples, of such eulogy.") although the artists and craftsmen themselves, curiously enough, occupy only degraded positions in society.
+dancing have similarly been glorified[^89], [Natyaprasamsa], l. 7b-11a (and Engl. Transl.). For the Sangita-sastra etc., also, it is possible to give numerous examples, of such eulogy.") although the artists and craftsmen themselves, curiously enough, occupy only degraded positions in society.
 
-      Thus the preservation of Śilpa Texts in the hands of the hereditary artists and craftsmen who were looked down upon, was beset with some difficulty. But mistakes and lapses in the Mss. are fortunately seldom, errors of commission, and not a few, may be due to inexpert scribes. Unless and until better readings, supported by substantial grounds, can be suggested, it is not allowable to reject altogether the only available texts which bear the stamp of tradition through a long succession of generations. It is, therefore, very necessary to sift very thoroughly the apparently corrupt and contradictory readings with the entire critical apparatus at our [disposal.](# "It would not be, out of place, to compare here, for example, the immense help, which the present writer derived, by subjecting the apparently confusing readings to Epigraphic and Palaeographic Tests, elsewhere, while preparing his edition of the important Silpa Text: The Buddhapratima-lakṣaṇam. The Sarasvati Bhavana Sanskrit Texts, No. 48. (Benares, 1933). Out of a hopeless medley and confused jumble of data, careful scrutiny and repeated efforts enabled the present writer, to deduce a number of most important principles.")
+[^89]: "Compare Nandikeśvara's Abhinayadarpanam (Critical Ed. of the Text with Introd., Transl., Notes and Illustrations. By Manomohan Ghosh., Cal. Skt. Series, No. V.
+
+      Thus the preservation of Śilpa Texts in the hands of the hereditary artists and craftsmen who were looked down upon, was beset with some difficulty. But mistakes and lapses in the Mss. are fortunately seldom, errors of commission, and not a few, may be due to inexpert scribes. Unless and until better readings, supported by substantial grounds, can be suggested, it is not allowable to reject altogether the only available texts which bear the stamp of tradition through a long succession of generations. It is, therefore, very necessary to sift very thoroughly the apparently corrupt and contradictory readings with the entire critical apparatus at our disposal.[^90]. Out of a hopeless medley and confused jumble of data, careful scrutiny and repeated efforts enabled the present writer, to deduce a number of most important principles.")
+
+[^90]: "It would not be, out of place, to compare here, for example, the immense help, which the present writer derived, by subjecting the apparently confusing readings to Epigraphic and Palaeographic Tests, elsewhere, while preparing his edition of the important Silpa Text: The Buddhapratima-lakṣaṇam. The Sarasvati Bhavana Sanskrit Texts, No. 48. (Benares, 1933
 
      And when there is a great paucity of materials in the form of Mss., as is the case with the present text Devatā-mūrti-prakaraṇam, it is necessary to formulate some general laws, or, to deduce some principles for future guidance, in preparing a critical edition. Secondly, it is also very urgent to devise ways and means, for interpreting the texts of Silpa, when all extraneous aids are so inaccessible.
 
@@ -948,7 +1128,9 @@ very few. Yet these subjects are of so great importance, that some methods must 
 
 **      I**. The first method is to compare Texts kindred, or, parallel and to compare, them again and again.
 
-    By kinship, must be understood similarity as regards essence and spirit, and proximity in point of time and place. For there can be no real comparisons between subjects which have no points of similarity e. g., between a donkey and a mush-room. Sadraya, similarity, in the most rigorous technical sense, is defined as [follows:--](# " See Annambhatta's Tarkasamgraha: See Mm. Bhimācārya Jhalakikar: Nyayakosa (Bombay Skt. Series) S. V. सादृश्यम.")
+    By kinship, must be understood similarity as regards essence and spirit, and proximity in point of time and place. For there can be no real comparisons between subjects which have no points of similarity e. g., between a donkey and a mush-room. Sadraya, similarity, in the most rigorous technical sense, is defined as follows:--[^91] S. V. सादृश्यम.")
+
+[^91]: " See Annambhatta's Tarkasamgraha: See Mm. Bhimācārya Jhalakikar: Nyayakosa (Bombay Skt. Series
 
 तद्भिन्नत्वे सति तद्गतभूयोधर्मवत्त्वं सादृश्यम् ।
 
@@ -1039,19 +1221,23 @@ Devatāmurtiprakaraṇa (DM.)
 
 "वावेदकरान् यावचतुष्पद्ये पूज्येत् सुधीः ॥ १९ ॥"
 
-'महाप्रतिमा' प्रमाणं च शिल्पग्रन्थान्तरे, नेपालदेशादस्मदुपलब्धे '[आत्रेयतिलके
--](# "For detailed information regarding the Atreya-tilakam see the present writer's Buddha-pratimu-laksanam. The Sarasvati Bhavana texts Series No. 48. Benares, 1933. Introduction, pp. 5-8.")  
+'महाप्रतिमा' प्रमाणं च शिल्पग्रन्थान्तरे, नेपालदेशादस्मदुपलब्धे 'आत्रेयतिलके
+-[^92]  
 एवमुपदिष्टम्ः-
+
+[^92]: "For detailed information regarding the Atreya-tilakam see the present writer's Buddha-pratimu-laksanam. The Sarasvati Bhavana texts Series No. 48. Benares, 1933. Introduction, pp. 5-8."
 
 "महाप्रतिमाविन्यासं प्रवक्ष्याम्यधुना शृणु ॥  
 दशपञ्चाधिकैस्तैः प्रतिमा कन्यसी स्मृता ॥  
 द्विगुणा मध्यमा ज्ञेया ज्येष्ठा तु त्रि\[गु\]णा स्मृता ॥  
 अतः परन्न कुर्वीत यदि (दी) च्छेत् श्रेयआत्मनः ॥"
 
-तथा 'शुक्रनीतौ', "क्रुर-ासुरी- पैशाची मूर्त्तिव्यवस्थाऽपि [द्रष्टव्या](# "Unfortunately, this text is not accessible for the present, so quota- tion cannot be given, Sukraniti, Ch. IV, Section 4.") ॥  
+तथा 'शुक्रनीतौ', "क्रुर-ासुरी- पैशाची मूर्त्तिव्यवस्थाऽपि द्रष्टव्या[^93] ॥  
    Śl. 26-31. 'मत्स्यपुराणी' याः, अ० २५९ श्लो० १८-२०, एते ।  
    Śl. 36-43. एते, सर्वेऽपि श्लोकाः 'बृहत्संहिता' तो यथा-यथम् उद्धृताः । बृ० सं०  
 BS. (Bibliotheca Indica) अ० ४६ (लिङ्गवैकृते) श्लो० १-८. Also, herewith compare VD. (Viṣṇudharmottaram) II, Adh. 134, Śl.5-9, 13,4-5.
+
+[^93]: "Unfortunately, this text is not accessible for the present, so quota- tion cannot be given, Sukraniti, Ch. IV, Section 4."
 
 
 
@@ -1097,14 +1283,20 @@ BS. (Bibliotheca Indica) अ० ४६ (लिङ्गवैकृते) श�
 
        Śl. 2 corresponds to ŚR. II, Adh. 4.Śl. 51  
      Śl. 4. "कीर्त्तिमुखं त(ता) लमुखम्" इत्यपि पाठो भवितुमर्हति।
-कीर्त्तिमुखं तावत् "नरसिंहमिवापरम्", व्यात्तमुखोऽलङ्करणविशेषः । तस्योत्पत्तिः प्रयोगश्चशिल्पशास्त्रेष्वनु- [सन्धेयः ।](# "O. C. Ganguly: The Kirtimukham in the Rirpan (now defunct ), No. 1. The Ind. Soc. of Oriental Art, Calcutta.")  
+कीर्त्तिमुखं तावत् "नरसिंहमिवापरम्", व्यात्तमुखोऽलङ्करणविशेषः । तस्योत्पत्तिः प्रयोगश्चशिल्पशास्त्रेष्वनु- सन्धेयः ।[^94], No. 1. The Ind. Soc. of Oriental Art, Calcutta.")  
      Sl. 4-13 a. Compare ŚR., Part II, Adh. 4, Śl. 37-50.  
     Śl.7b. "नीला" इति भवितव्यम्, 'लीले 'ति नाम्नयाः देव्याः कुत्रापि अनुपलम्भात्।  
-    तथा "[पाञ्चरात्रागमे](# "See F. Otto Schrader : Introduction to the Pancaratra and the Ahirbudhnya-Samhita. Adyar, 1916, pp. 53 55-") नीला, श्रीः, भुमिश्व" पर विष्णोः शक्तिरूपेण निर्दिष्टाः। नामैकदेशग्रहणेन यदि च 'नीला' शब्देन 'नीलसरस्वतीति नाम्न्याः तारायाः ' ग्रहणं भवेत् तथापि तान्त्रिक देवतानां नास्ति अन्न प्रसङ्गः ।
+    तथा "पाञ्चरात्रागमे[^95] नीला, श्रीः, भुमिश्व" पर विष्णोः शक्तिरूपेण निर्दिष्टाः। नामैकदेशग्रहणेन यदि च 'नीला' शब्देन 'नीलसरस्वतीति नाम्न्याः तारायाः ' ग्रहणं भवेत् तथापि तान्त्रिक देवतानां नास्ति अन्न प्रसङ्गः ।
 
-      सस्यं 'बृह्मसंहितायां य-पादे ४थैध्याये १४४ - १११ श्लोकेषु 'लीला' देव्याः (१) प्रसङ्गोऽस्ति । तत्राऽपि 'लोला' पदस्य 'नीला' इति पाठान्तरं [दृश्यते](# "बृहद्ब्रह्मसंहिता। नारदपञ्चरात्नान्तर्गता । Anandasram Skt. Series, No. 68 1912. PP. 68-69. तत्रैव १७३- श्लोक :-  ") ।  
+[^94]: "O. C. Ganguly: The Kirtimukham in the Rirpan (now defunct
+
+[^95]: "See F. Otto Schrader : Introduction to the Pancaratra and the Ahirbudhnya-Samhita. Adyar, 1916, pp. 53 55-"
+
+      सस्यं 'बृह्मसंहितायां य-पादे ४थैध्याये १४४ - १११ श्लोकेषु 'लीला' देव्याः (१) प्रसङ्गोऽस्ति । तत्राऽपि 'लोला' पदस्य 'नीला' इति पाठान्तरं दृश्यते[^96] ।  
 ,  
       Śl 9a."जिनेन्द्राश्च" इति पाठः स्यात् 'तकार' 'नकार ' योर्भ्रमसम्भवात् ; अवैध ग्रन्थे जिनप्रतिमानां च स्थापनविधानात् । ४र्थाध्याये २५ लोके द्रष्टव्यम् ।
+
+[^96]: "बृहद्ब्रह्मसंहिता। नारदपञ्चरात्नान्तर्गता । Anandasram Skt. Series, No. 68 1912. PP. 68-69. तत्रैव १७३- श्लोक :-  "
 
 तृतीयोऽध्यायः। ( Chapter III.)
 
@@ -1145,8 +1337,10 @@ Compare Manasāra, IX, 387 ff. ; also, Vāsturājavallabha, IV, 13.
 
         Śl.1. दृष्टंशिवस्यैव चन्द्रशेखरत्वम् । तथा मन्ये, ग्रन्थमध्ये कुत्रकुत्रचित् 'द'-कार- ' र 'कार- योर्भ्रान्तिदर्शनात्, "स्तोकमान्ना संशुद्धि” रिति न्यायात्, "चारुशेखरः" इति पाठः साघुतरः ।
 
-      Śl.2. सत्यं ['रूपमण्डने](# "The Ripamaydanam has been quoted at length by T. A. Gopi- natha Rao Elements of Hindu Iconography. We have depended chiefly on these quotations, they being authentic and providing another version.")'प्रभेदेने 'ति पाठोऽस्ति। तथापि ग्रन्थकारः यथेच्छं परिवर्तनं कृतवानिति मत्वा 'प्रभेदोक्तया' इति पाठोऽस्माभिरङ्गीक्रियते।  
+      Śl.2. सत्यं 'रूपमण्डने[^97]'प्रभेदेने 'ति पाठोऽस्ति। तथापि ग्रन्थकारः यथेच्छं परिवर्तनं कृतवानिति मत्वा 'प्रभेदोक्तया' इति पाठोऽस्माभिरङ्गीक्रियते।  
         Śl. 3-4 correspond to 'रूपमण्डनम्'-
+
+[^97]: "The Ripamaydanam has been quoted at length by T. A. Gopi- natha Rao Elements of Hindu Iconography. We have depended chiefly on these quotations, they being authentic and providing another version."
 
 "दक्षिणाधः करात् स्रष्टा जपमाली तथा स्रुचम् ।  
 पुस्तं कमण्डलुं धत्ते सकूर्चः कमलासनः ॥"  
@@ -1188,7 +1382,9 @@ Compare Manasāra, IX, 387 ff. ; also, Vāsturājavallabha, IV, 13.
 
         —स्रुबाफलैः यज्ञश्च ; (१९) भरेत् (२०) - अङ्कुशदण्डान् भूयश्च ( -ाङ्कुशान् दण्डं), -ाङ्कुशे त्पले विभवः।
 
-    Śl. 21-34 \[अथ द्वादश सूर्यमूर्त्तयः\] taken from [Viścakarma-śāstrā](# "he Visvakarma-sustra has been quoted by T. A. Gopinatha Rao Op. cit.; the work has been published many times-see Note 27, Supra.")verbatim तत्र प्रधानाः पाठभेदाः - (२१) जगत्प्रकाशकस्सूर्यो जायते -र्यथा ॥ (२२) सा धात्री - ॥ (२३) चास्या॥ (२४) – सपद्मैःपाणिपल्लवैः॥ (२५) - सव्ये - -- ।(२७) भवेत्सम्मता - ॥ (२८) यस्या दक्षिणतश्शूलं सुदर्शनः । भगमूर्त्तिः - - शुभा जय ! ॥ (२९) विवस्वन्मूर्त्तिरेषा स्यात् ॥ (३०) -स्थ
+    Śl. 21-34 \[अथ द्वादश सूर्यमूर्त्तयः\] taken from Viścakarma-śāstrā[^98]verbatim तत्र प्रधानाः पाठभेदाः - (२१) जगत्प्रकाशकस्सूर्यो जायते -र्यथा ॥ (२२) सा धात्री - ॥ (२३) चास्या॥ (२४) – सपद्मैःपाणिपल्लवैः॥ (२५) - सव्ये - -- ।(२७) भवेत्सम्मता - ॥ (२८) यस्या दक्षिणतश्शूलं सुदर्शनः । भगमूर्त्तिः - - शुभा जय ! ॥ (२९) विवस्वन्मूर्त्तिरेषा स्यात् ॥ (३०) -स्थ
+
+[^98]: "he Visvakarma-sustra has been quoted by T. A. Gopinatha Rao Op. cit.; the work has been published many times-see Note 27, Supra."
 
 
 
@@ -1246,20 +1442,26 @@ Sl. 47 - 57. 'शिल्परत्ने' उत्तरभागे २५
 
 पञ्चमोऽध्यायः । (Chapter V. )
 
-Śl. 8-13. Compare Padma-parānam, Pātālakhaṇḍa, Adhy. 10, Uttarakhaṇḍa, Adhy. 127; Brahmaraivarta-P., Prakṛti-khaṇḍa, Adhy. 19; Garuda-P., Adhy. 45; for descriptions of the Caturrimsati-martis of [viṣṇu.](# " See Rädhäkäntadeva's Sabdakalpadruma, under Sulagruma.")
+Śl. 8-13. Compare Padma-parānam, Pātālakhaṇḍa, Adhy. 10, Uttarakhaṇḍa, Adhy. 127; Brahmaraivarta-P., Prakṛti-khaṇḍa, Adhy. 19; Garuda-P., Adhy. 45; for descriptions of the Caturrimsati-martis of viṣṇu.[^99]
 
-     Śl.. 18-20. Quoted from [Skanda-purāṇam](# "See Prunatoṣaṇī (PT.), a modern but authoritative Tantrika Nibandha, by Ramatosana Vidyalankara under the patronage of Pranakṛṣṇa Viśvās of Khaddaha, on the Ganges (Bhagirathi). Ramatoṣaṇa was the great-grandson (vrddha prapautra) of the celebrated Agamavägisa Krsnananda, the author of Tantrasura, one of the best existent Tuntrika Nibandhas, compendiums on Worship and Rituals. See FT., Pañcama- kunda, Caturtha Pariccheda, Sulagrimaprakarana, (Vasumati Ed.), pp. 348-57."), with minor changes.  
-     Śl.. 21. Quoted from [Brahma-purāṇam,](# "See Prunatoṣaṇī (PT.), a modern but authoritative Tantrika Nibandha, by Ramatosana Vidyalankara under the patronage of Pranakṛṣṇa Viśvās of Khaddaha, on the Ganges (Bhagirathi). Ramatoṣaṇa was the great-grandson (vrddha prapautra) of the celebrated Agamavägisa Krsnananda, the author of Tantrasura, one of the best existent Tuntrika Nibandhas, compendiums on Worship and Rituals. See FT., Pañcama- kunda, Caturtha Pariccheda, Sulagrimaprakarana, (Vasumati Ed.), pp. 348-57.") changes. with minor change.  
-     Śl. 22. Quoted from [Skanda-purāṇam,](# "See Prunatoṣaṇī (PT.), a modern but authoritative Tantrika Nibandha, by Ramatosana Vidyalankara under the patronage of Pranakṛṣṇa Viśvās of Khaddaha, on the Ganges (Bhagirathi). Ramatoṣaṇa was the great-grandson (vrddha prapautra) of the celebrated Agamavägisa Krsnananda, the author of Tantrasura, one of the best existent Tuntrika Nibandhas, compendiums on Worship and Rituals. See FT., Pañcama- kunda, Caturtha Pariccheda, Sulagrimaprakarana, (Vasumati Ed.), pp. 348-57.")with minor changes.  
-     Śl. 26. From the Vaiśvanaraḥ saṃhitā, Purāṇasaṃgraha, Nrsimhua-purana, [Brahmānandā purāṇa](# "See Prunatoṣaṇī (PT.), a modern but authoritative Tantrika Nibandha, by Ramatosana Vidyalankara under the patronage of Pranakṛṣṇa Viśvās of Khaddaha, on the Ganges (Bhagirathi). Ramatoṣaṇa was the great-grandson (vrddha prapautra) of the celebrated Agamavägisa Krsnananda, the author of Tantrasura, one of the best existent Tuntrika Nibandhas, compendiums on Worship and Rituals. See FT., Pañcama- kunda, Caturtha Pariccheda, Sulagrimaprakarana, (Vasumati Ed.), pp. 348-57.")  
+     Śl.. 18-20. Quoted from Skanda-purāṇam[^100], a modern but authoritative Tantrika Nibandha, by Ramatosana Vidyalankara under the patronage of Pranakṛṣṇa Viśvās of Khaddaha, on the Ganges (Bhagirathi). Ramatoṣaṇa was the great-grandson (vrddha prapautra) of the celebrated Agamavägisa Krsnananda, the author of Tantrasura, one of the best existent Tuntrika Nibandhas, compendiums on Worship and Rituals. See FT., Pañcama- kunda, Caturtha Pariccheda, Sulagrimaprakarana, (Vasumati Ed.), pp. 348-57."), with minor changes.  
+     Śl.. 21. Quoted from Brahma-purāṇam,[^100], a modern but authoritative Tantrika Nibandha, by Ramatosana Vidyalankara under the patronage of Pranakṛṣṇa Viśvās of Khaddaha, on the Ganges (Bhagirathi). Ramatoṣaṇa was the great-grandson (vrddha prapautra) of the celebrated Agamavägisa Krsnananda, the author of Tantrasura, one of the best existent Tuntrika Nibandhas, compendiums on Worship and Rituals. See FT., Pañcama- kunda, Caturtha Pariccheda, Sulagrimaprakarana, (Vasumati Ed.), pp. 348-57.") changes. with minor change.  
+     Śl. 22. Quoted from Skanda-purāṇam,[^100], a modern but authoritative Tantrika Nibandha, by Ramatosana Vidyalankara under the patronage of Pranakṛṣṇa Viśvās of Khaddaha, on the Ganges (Bhagirathi). Ramatoṣaṇa was the great-grandson (vrddha prapautra) of the celebrated Agamavägisa Krsnananda, the author of Tantrasura, one of the best existent Tuntrika Nibandhas, compendiums on Worship and Rituals. See FT., Pañcama- kunda, Caturtha Pariccheda, Sulagrimaprakarana, (Vasumati Ed.), pp. 348-57.")with minor changes.  
+     Śl. 26. From the Vaiśvanaraḥ saṃhitā, Purāṇasaṃgraha, Nrsimhua-purana, Brahmānandā purāṇa[^100], a modern but authoritative Tantrika Nibandha, by Ramatosana Vidyalankara under the patronage of Pranakṛṣṇa Viśvās of Khaddaha, on the Ganges (Bhagirathi). Ramatoṣaṇa was the great-grandson (vrddha prapautra) of the celebrated Agamavägisa Krsnananda, the author of Tantrasura, one of the best existent Tuntrika Nibandhas, compendiums on Worship and Rituals. See FT., Pañcama- kunda, Caturtha Pariccheda, Sulagrimaprakarana, (Vasumati Ed.), pp. 348-57.")  
      **"शुक्लाभश्चातिशोणभ इति कचित् पाठः । नान्तरीयके संलग्ने।"**  
-     Śl. 27. Quoted from [Brahmānandā purāṇa](# "See Prunatoṣaṇī (PT.), a modern but authoritative Tantrika Nibandha, by Ramatosana Vidyalankara under the patronage of Pranakṛṣṇa Viśvās of Khaddaha, on the Ganges (Bhagirathi). Ramatoṣaṇa was the great-grandson (vrddha prapautra) of the celebrated Agamavägisa Krsnananda, the author of Tantrasura, one of the best existent Tuntrika Nibandhas, compendiums on Worship and Rituals. See FT., Pañcama- kunda, Caturtha Pariccheda, Sulagrimaprakarana, (Vasumati Ed.), pp. 348-57.")  
-    Śl 28. Quoted from [Padma-purāṇam,](# "See Prunatoṣaṇī (PT.), a modern but authoritative Tantrika Nibandha, by Ramatosana Vidyalankara under the patronage of Pranakṛṣṇa Viśvās of Khaddaha, on the Ganges (Bhagirathi). Ramatoṣaṇa was the great-grandson (vrddha prapautra) of the celebrated Agamavägisa Krsnananda, the author of Tantrasura, one of the best existent Tuntrika Nibandhas, compendiums on Worship and Rituals. See FT., Pañcama- kunda, Caturtha Pariccheda, Sulagrimaprakarana, (Vasumati Ed.), pp. 348-57.")  
-     Śl. 29. Quoted from Brahma-purana; [Brahmanḍa-P](# "See Prunatoṣaṇī (PT.), a modern but authoritative Tantrika Nibandha, by Ramatosana Vidyalankara under the patronage of Pranakṛṣṇa Viśvās of Khaddaha, on the Ganges (Bhagirathi). Ramatoṣaṇa was the great-grandson (vrddha prapautra) of the celebrated Agamavägisa Krsnananda, the author of Tantrasura, one of the best existent Tuntrika Nibandhas, compendiums on Worship and Rituals. See FT., Pañcama- kunda, Caturtha Pariccheda, Sulagrimaprakarana, (Vasumati Ed.), pp. 348-57.")
+     Śl. 27. Quoted from Brahmānandā purāṇa[^100], a modern but authoritative Tantrika Nibandha, by Ramatosana Vidyalankara under the patronage of Pranakṛṣṇa Viśvās of Khaddaha, on the Ganges (Bhagirathi). Ramatoṣaṇa was the great-grandson (vrddha prapautra) of the celebrated Agamavägisa Krsnananda, the author of Tantrasura, one of the best existent Tuntrika Nibandhas, compendiums on Worship and Rituals. See FT., Pañcama- kunda, Caturtha Pariccheda, Sulagrimaprakarana, (Vasumati Ed.), pp. 348-57.")  
+    Śl 28. Quoted from Padma-purāṇam,[^100], a modern but authoritative Tantrika Nibandha, by Ramatosana Vidyalankara under the patronage of Pranakṛṣṇa Viśvās of Khaddaha, on the Ganges (Bhagirathi). Ramatoṣaṇa was the great-grandson (vrddha prapautra) of the celebrated Agamavägisa Krsnananda, the author of Tantrasura, one of the best existent Tuntrika Nibandhas, compendiums on Worship and Rituals. See FT., Pañcama- kunda, Caturtha Pariccheda, Sulagrimaprakarana, (Vasumati Ed.), pp. 348-57.")  
+     Śl. 29. Quoted from Brahma-purana; Brahmanḍa-P[^100], a modern but authoritative Tantrika Nibandha, by Ramatosana Vidyalankara under the patronage of Pranakṛṣṇa Viśvās of Khaddaha, on the Ganges (Bhagirathi). Ramatoṣaṇa was the great-grandson (vrddha prapautra) of the celebrated Agamavägisa Krsnananda, the author of Tantrasura, one of the best existent Tuntrika Nibandhas, compendiums on Worship and Rituals. See FT., Pañcama- kunda, Caturtha Pariccheda, Sulagrimaprakarana, (Vasumati Ed.), pp. 348-57.")
+
+[^99]: " See Rädhäkäntadeva's Sabdakalpadruma, under Sulagruma."
+
+[^100]: "See Prunatoṣaṇī (PT.
 
     ** "रेखात्रयपरिवृतो देवः पद्मेन लान्छितः ।" इति पाठाः ।  
-    **Śl. 30-31. "[हेमाद्रौ विष्णुप्रोक्तो"](# "See PT. P. 357. ")  
+    **Śl. 30-31. "हेमाद्रौ विष्णुप्रोक्तो"[^107]  
   इति स्तोकमात्रंग्रन्थान्तरेभ्यो दर्शितम्। मन्ये, आकरग्रन्थानुसन्धानकोविदैः सर्वेऽपि श्लोकाः प्राप्स्यन्ते । समयाभावात, बाहुल्यभिया च, अलमधिकेन।
+
+[^107]: "See PT. P. 357. "
 
 
 
@@ -1267,7 +1469,9 @@ Sl. 47 - 57. 'शिल्परत्ने' उत्तरभागे २५
 
 
    तथा, 'मत्स्य' संबन्धीय- ५१ श्लोकस्थले 'जनार्दन' संबन्धीय- ५२श्लोकपाठे क्रमभङ्गदोषस्य परिहारो भवेत् ।  
-**   **Śl.64, 65, 67, 68. Taken from the VD. III, Ch. 54. Also, compare Hemadri, [Dānakhaṇḍam,](#........... "Hemidri: Caturvargacinti-mani (Bibliotheca Indica), A. S, B,")
+**   **Śl.64, 65, 67, 68. Taken from the VD. III, Ch. 54. Also, compare Hemadri, Dānakhaṇḍam,[^108], A. S, B,")
+
+[^108]: ........... "Hemidri: Caturvargacinti-mani (Bibliotheca Indica
 
           तथा 'विष्णुधर्मोत्तरे' पाठभेदाः (वि० घ० । ३यत्र० । अ० ५४।)  
           " --- -- --- मारकत०- ---  ---- ---- ।
@@ -1298,26 +1502,38 @@ Sl. 47 - 57. 'शिल्परत्ने' उत्तरभागे २५
 
 मेतत् यदा गरुडो विष्णुमुद्वहेत् तदा चास्य पादौ ध्रियेतेति। द्विहस्तस्य गरुडस्य युगपत् छत्रकुम्भधारणं विष्णोर्भारवहनं चहस्तसाहाय्यं विनाऽसम्भवात् तेनैवमन्वयो भवितुमर्हति-  
        'यदास्य पृष्ठे भगवान् भवति, तदा गरुडस्य करौ छन्नकुम्भधरौन कर्तव्यौ' इति।  
-       Śl. 71. Taken probably from [ŚR.,](# "Sri Kumīra : Silparatnam, Trivandrum Skt. Series, No. XCVIII. Part II.")Part II, Ch. 25, Śl. 111, 112a.
+       Śl. 71. Taken probably from ŚR.,[^109]Part II, Ch. 25, Śl. 111, 112a.
+
+[^109]: "Sri Kumīra : Silparatnam, Trivandrum Skt. Series, No. XCVIII. Part II."
 
        तत्रपाठभेदाः".. जिन्युपवीती कृतकमण्डलुः ।
 
       -- ---
-[महोदरः](# "These quotations are also given in T. A. Gopinatha Rao: op. cit, presumably from another version of ŚR.") ॥ ७१ ॥  
+महोदरः[^110] ॥ ७१ ॥  
       पुरुषो वामनाकारस्तथा (ब्राह्मण - ) वटुः महोदरः एव भवति।
 
-      Śl.72. '[रूपमण्डने'](# "See T. A. G. Rao: Op. cit.")
+[^110]: "These quotations are also given in T. A. Gopinatha Rao: op. cit, presumably from another version of ŚR."
+
+      Śl.72. 'रूपमण्डने'[^111]
 रामस्य दाशरथेस्तथा बलरामस्य एवं वर्णनं प्राप्यते- 'रामशरेपुष्टक्छ्यामः ससीरमुसलो बलः। तेनाऽस्माकं मते 'रामस्य श्लोकार्धादनन्तरं (७५ श्लोके) बलरामस्य अनन्तबलरामस्य वा वर्णनमासीत्। तस्य च श्लोकार्धं भ्रमात् परित्यक्तं मन्ये। बलरामस्यैव आयुधौसीरमुषलौ।  
 
-     Śl. 72-74. 'शिल्परत्ना' [दुधृतं](# "Quoted, also, by T. A. G. Rao: Op. cit., apparently from. another version of ŚR., which sometimes gives better readings. लोचनां should really refer to the Devi, who is astonished, with her Lord's Prowess. Also, in &R.") मन्ये । ŚR. II, Abihg. 25, Śl. 112-115. तत्र पाठभेदाः-  
+[^111]: "See T. A. G. Rao: Op. cit."
+
+     Śl. 72-74. 'शिल्परत्ना' दुधृतं[^112] मन्ये । ŚR. II, Abihg. 25, Śl. 112-115. तत्र पाठभेदाः-  
     (७२) — शोभितम्। (७३) - ० फुल्लोचनां।  
-     Śl. 76. '[शिल्परत्ने](# "Both, in T. A. G. Rao: 101. Quoted in T. A. G. Rao Op. cit., and SR. Op. cil.")'
+     Śl. 76. 'शिल्परत्ने[^113]'
 ७४ श्लोकस्यानन्तरं श्लोकोऽयं विन्यस्तः । तेन प्रमाणा- तरमिदम् अस्माकं मते स्थानव्यत्यासस्य ।ŚR. II, 25, Śl. 116.  
     Śl.. 77-80, 82. 'शिल्परत्ना' दुद्धृताः । ŚR. II, 25, Śl.. 117-121a.
 
-    Śl. 83-85. "शिल्परत्नसंयोजिते कस्मिंश्चिद [ग्रन्थे](# "Quoted T.A. G.Rao:op cit.")” तत्र पाठभेदाः-  
+[^112]: "Quoted, also, by T. A. G. Rao: Op. cit., apparently from. another version of ŚR., which sometimes gives better readings. लोचनां should really refer to the Devi, who is astonished, with her Lord's Prowess. Also, in &R."
+
+[^113]: "Both, in T. A. G. Rao: 101. Quoted in T. A. G. Rao Op. cit., and SR. Op. cil."
+
+    Śl. 83-85. "शिल्परत्नसंयोजिते कस्मिंश्चिद ग्रन्थे[^114]” तत्र पाठभेदाः-  
    (८३) प्रमत्तवदने० - ।(८४)-- (८४) - लम्बिनौ - । - वामे शंखं॥
 (गदां रम्यां ) लिखेचित्रविशारदः ॥
+
+[^114]: "Quoted T.A. G.Rao:op cit."
 
 
 
@@ -1326,24 +1542,28 @@ Sl. 47 - 57. 'शिल्परत्ने' उत्तरभागे २५
 
 Śl.86-90. विष्णुधर्मोत्तरे ३य खण्डे ८१ अध्यायादेते ( श्लोकाः, २---७) गृहीताः ।तत्र पाठभेदाः-  
 
-(८६) - [शेषपन्नगतल्पगः](# "Readings quoted, from the printed Ed. of the VD. (Sri Ve.ikajesvara Pr.).") ।फणापुञ्ज0 – [दुर्निरीक्ष्यशिरोधरः](# "Readings quoted, from the printed Ed. of the VD. (Sri Ve.ikajesvara Pr.).") ॥  
+(८६) - शेषपन्नगतल्पगः[^115].") ।फणापुञ्ज0 – दुर्निरीक्ष्यशिरोधरः[^115].") ॥  
 (८७ ख) विष्णुधर्मोत्तरे ३य-ख० ८१- अ. (३-४) श्लोकयोः पादैकैकं परित्यक्तम् ।  
 (८७) स्वस्वलक्ष्म्युत्सङ्गगतः प्रभो ।  
-तथापरश्चकर्तव्यः [स्वस्वप्रभो :](# "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit.")।  
-(८८ क) एको भुजोऽस्य कर्तव्यस्तत्र जानी [प्रसारितः](# "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit.") ।  
+तथापरश्चकर्तव्यः स्वस्वप्रभो :[^117]।  
+(८८ क) एको भुजोऽस्य कर्तव्यस्तत्र जानी प्रसारितः[^117] ।  
 तथापरश्च --- --- ----
-प्र[साधितः](# "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit.")।  
+प्रसाधितः[^117]।  
 (८९क) तथा चान्यः करः कार्यो देवस्य तु शिरोधरे  
 तथैवान्यः ---- ----
-[०धरः](# "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit.")।  
+०धरः[^117]।  
 (८९ख) ---
-[तथैवास्यापरो](# "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit.")
+तथैवास्यापरो[^117]
 --- ।  
-(९०क) --- सर्वपृथ्वीमये देव्याः प्राग्वत् [कार्यः](# "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit.")
+(९०क) --- सर्वपृथ्वीमये देव्याः प्राग्वत् कार्यः[^117]
 -- -- ।  
---- ------ -----[पृथ्वीमयो देवः।](# "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit.")  
-(९०ख) [नाल्लग्ननौ](# "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit.")
+--- ------ -----पृथ्वीमयो देवः।[^117]  
+(९०ख) नाल्लग्ननौ[^117]
 ---- ---- ---- 
+
+[^115]: "Readings quoted, from the printed Ed. of the VD. (Sri Ve.ikajesvara Pr.
+
+[^117]: "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit."
 
    Śl. 91.93. 'रूपमण्डन 'द्विशेषो नास्ति । केवलं कुत्र कुत्र कारकव्यत्ययः कृतः ।  
 संख्या - क्रमयोर्वा व्यत्ययः दृश्यते।  
@@ -1353,7 +1573,9 @@ Sl. 47 - 57. 'शिल्परत्ने' उत्तरभागे २५
 
 षष्ठोऽध्यायः । (Chapter VI.)
 
-Śl.1, 2a, 2c. 'रूपमण्डन' [गृहीताः](# " These quotations are all from T. A. Gopinatha Rao: Op. cit., which represents the Ripamayana, in another and somewhat different version, apparently."), कुन कुन विशेषोऽप्यस्ति । '२ख' इत्थंशो नास्ति तत्पुस्तके तत्र पाठभेदाः - ( १ ) - ०युतं कुर्याद्वाल०॥
+Śl.1, 2a, 2c. 'रूपमण्डन' गृहीताः[^125], कुन कुन विशेषोऽप्यस्ति । '२ख' इत्थंशो नास्ति तत्पुस्तके तत्र पाठभेदाः - ( १ ) - ०युतं कुर्याद्वाल०॥
+
+[^125]: " These quotations are all from T. A. Gopinatha Rao: Op. cit., which represents the Ripamayana, in another and somewhat different version, apparently."
 
 
 
@@ -1363,7 +1585,7 @@ Sl. 47 - 57. 'शिल्परत्ने' उत्तरभागे २५
 
 (२ क) - - कुण्डलाभ्यामल०-'रूपमण्डने' (२ख) नास्ति ।  
 (२ग) सद्योजातं -- --- ०पाणिकम् ॥ २॥  
-Śl. 3-5 ['रूपमण्डने'](# " These quotations are all from T. A. Gopinatha Rao: Op. cit., which represents the Ripamayana, in another and somewhat different version, apparently.")
+Śl. 3-5 'रूपमण्डने'[^125]
 कुत्रकुत्रविशेषः । तद्यथा--  
 (४) जटाचन्द्रधरं कुर्यात् - - । वामदेवं ॥ ( ५ ) सर्वाल०- रक्त०॥ 'रूपमण्डने' प्रथमचतुर्थपादौ न स्तः ।  
 Sl. 6-12. 'रूपमण्डने' कुत्रकुत्रभेदः । तद्यथा-  
@@ -1371,16 +1593,22 @@ Sl. 6-12. 'रूपमण्डने' कुत्रकुत्रभेद�
 (८ख) पिङ्गाक्षं- ॥ (९) ०कः ---०कश्चैव पादस्तस्य नूपुरौ । --रूपकं कुर्यात्काल०-॥  
 (१०) रिपोस्सङ्घ-- ॥(११) -च कपालञ्च पाश एव च । - ०व्यमिदंशस्त्र० ॥  
 (१२) - परशुः खढ्गोदण्डश्चवारिमर्दनः । शस्त्राण्येतानि चत्वारि दक्षिणेषु करेषु च ॥ अस्माकं मते, (७म लोके) 'योऽनिशं तथा (१२) 'दण्डं' इत्युचितौ पाठभेदौ । ( ६- श्लोकस्य प्रथमपादे ) छन्दसश्च पातः परिहर्त्तव्यः ।  
-Śl.13, 14. ['रूपमण्डनाद्भेदो](# "These quotations are all from T. A. Gopinatha Rao: Op. cit., which represents the Ripamayana, in another and somewhat different version, apparently.") नास्ति। द्वितीया-स्थलेषु तत्र प्रथमान्तपाठ इति विशेषः।  
-Śl. 15, 16. ['रूपमण्डन'-ात्](# "These quotations are all from T. A. Gopinatha Rao: Op. cit., which represents the Ripamayana, in another and somewhat different version, apparently.")कुत्रकुत्रभेदोऽस्ति।  
+Śl.13, 14. 'रूपमण्डनाद्भेदो[^127] नास्ति। द्वितीया-स्थलेषु तत्र प्रथमान्तपाठ इति विशेषः।  
+Śl. 15, 16. 'रूपमण्डन'-ात्[^127]कुत्रकुत्रभेदोऽस्ति।  
 (१५ख ) -- मृत्युञ्जयं - ०न्द्रभूषितम्॥ (१६) मक्षमाला च दक्षयोः करयोस्स्मृतः ।०कां वामे - मुद्राकरद्वयः ॥  
 Śl.19. 'रूपमण्डनात् ॥ किंचिन्मानं भिन्नः । तद्यथा-  
 (१९) – ०र्भुजो- -०बाहुः ०पादाक्षपाणिकः । ०हस्तोऽसौ किरणाक्षखिलोचनः ॥  
 Śl. 20.(भक्ष्यन्तं ) महद्भयम् ॥ २० ॥ इति मतेऽस्माकं पाठः कार्यः ।  
-Śl.21, 22.'[रूपमण्डन-ात्](# "These quotations are all from T. A. Gopinatha Rao: Op. cit., which represents the Ripamayana, in another and somewhat different version, apparently.")
+Śl.21, 22.'रूपमण्डन-ात्[^127]
 कुत्र कुत्र विशेषः ।  
 (२१) - ०वस्त्र० कुर्याचित्र०।(२२) खड्गं धनुः शरं खेटं श्रीकण्ठं बिभ्रतं भुजैः ॥  
-Śl. 25, 26-अस्माभिरनेकानि 'सदाशिव'ध्यानानि [समासादितानि](# "See the present writer's Monograph, Sadasiva worship in early Bengal : A Study in History, Art and Religion. J. P. 4. S. B. (New Series), Vol. XXIX, 1933, No. 1.Especially, sce, Appendix II. feqf, Descriptions of Siva, pp. 225242; and Appendix VI. 1. Description of Sadikiva (Translation); B. (Detailed Rituals for Worship and ) Description of Sadasiva. पुराणोक्त सदाशिवपूजापद्धतिः । ( Translation), pp. 253, 54.")किन्तु ध्यानमेतत् न दृष्टपूर्वमासीत्। अपरध्यानान्यनुसृत्य संशोधनं क्रियते।
+Śl. 25, 26-अस्माभिरनेकानि 'सदाशिव'ध्यानानि समासादितानि[^130], Vol. XXIX, 1933, No. 1.Especially, sce, Appendix II. feqf, Descriptions of Siva, pp. 225242; and Appendix VI. 1. Description of Sadikiva (Translation); B. (Detailed Rituals for Worship and ) Description of Sadasiva. पुराणोक्त सदाशिवपूजापद्धतिः । ( Translation), pp. 253, 54.")किन्तु ध्यानमेतत् न दृष्टपूर्वमासीत्। अपरध्यानान्यनुसृत्य संशोधनं क्रियते।
+
+[^125]: " These quotations are all from T. A. Gopinatha Rao: Op. cit., which represents the Ripamayana, in another and somewhat different version, apparently."
+
+[^127]: "These quotations are all from T. A. Gopinatha Rao: Op. cit., which represents the Ripamayana, in another and somewhat different version, apparently."
+
+[^130]: "See the present writer's Monograph, Sadasiva worship in early Bengal : A Study in History, Art and Religion. J. P. 4. S. B. (New Series
 
 
 
@@ -1393,56 +1621,76 @@ Sl. 6-12. 'रूपमण्डने' कुत्रकुत्रभेद�
 
 सदाशिवस्तावत्a " गिरिजाऽभिन्नदेहः," "bइच्छाज्ञानक्रियाशक्ति-त्रयसंक्लृप्तलोचनः, " ध्यानान्तरेषु प्राप्यते । तथा 'cज्ञानन्तु शङ्करादिच्छेत् मोक्षमिच्छेत् जनार्दनात्' इति स्मर्यते, तेन सदाशिवोऽपि 'ज्ञानार्णवः' भवितुमर्हति ॥
 
-Śl. 30a.'(विष्णुधर्मोत्तरे॥) इति [गोपीनाथपादैरुक्तम्](# "T. A. G. Rao: Op. cit.")।किन्तु दुर्भाग्य- वशात् भूयशोऽनुसन्धानं कृतवद्भिरस्माभिरेतद् ध्यानं तन अन्यत्र वा सर्वं न समुपलब्धम् । कुन कुत्रचित् (२७ - ३०) श्लोकानाम् आभासमानं वर्त्तते । तथापि गोपीनाथपादानां वाक्यं प्रामाण्यम् ।  
-Śl. 31, 32. ['रूपमण्डने'](# "Ditto.") अपि । कुत्र कुत्र भेदो दृश्यते-  
+Śl. 30a.'(विष्णुधर्मोत्तरे॥) इति गोपीनाथपादैरुक्तम्[^131]।किन्तु दुर्भाग्य- वशात् भूयशोऽनुसन्धानं कृतवद्भिरस्माभिरेतद् ध्यानं तन अन्यत्र वा सर्वं न समुपलब्धम् । कुन कुत्रचित् (२७ - ३०) श्लोकानाम् आभासमानं वर्त्तते । तथापि गोपीनाथपादानां वाक्यं प्रामाण्यम् ।  
+Śl. 31, 32. 'रूपमण्डने'[^132] अपि । कुत्र कुत्र भेदो दृश्यते-  
 (३१) - वक्ष्ये उमया। मातुलिङ्गं-धत्ते॥' एतदनन्तरं 'रूपमण्डने' श्लोकान्तरं हृदयते सोऽन परित्यक्तो यथा-
+
+[^131]: "T. A. G. Rao: Op. cit."
+
+[^132]: "Ditto."
 
           'आलिङ्गन्वामहस्तेन नागेन्द्र द्वितीये करे।  
           हरस्कन्धे उमाहस्तो दर्पण द्वितीये करे ॥'  
   (३२ख)   'भृङ्गिरिटिं - ०न्निर्मांसं नृत्यसंस्थितम्॥'
 
 Śl. 33, 34; 35a. 'कृष्णशङ्कर'ध्याने तथा 'कृष्णकात्तिकेय' ध्याने तु ग्रन्थ- स्यैतस्य महद्वैशिष्ट्यम्। नेदम् अन्यत्र कुत्रापि अस्माभिर्दृष्टपूर्वम्।  
-Śl. 36 - 11. ['मत्स्यपुराणाद्](# "Matsyapuranam (Vangavasi Ed., Cal.), Adh. 260, 57. 21 – 27a ; 27b is omitted.")विशेषोऽल्प एव । तद्यथा-  
+Śl. 36 - 11. 'मत्स्यपुराणाद्[^133], Adh. 260, 57. 21 – 27a ; 27b is omitted.")विशेषोऽल्प एव । तद्यथा-  
 (३८) - - दद्याद्गदाभृतः। शङ्खचैवेतरे - ॥ ( ३९ ) - - मणिभूषणम्। दक्षिणार्धे- ० मर्द्धेन्दुकृतभूषणम् ॥ (४१) - कट्यर्धंकृत्तिवाससम् ।  
 Śl. 42, 48; 44-46 ;47-48. ध्यानत्रयेष्वेतेषु च ग्रन्थस्य वैशिष्ठ्य वर्त्तते। कुत्र कुत्रापि पाठानां संशोधनानि कार्याणि । तद्यथा-
 
+[^133]: "Matsyapuranam (Vangavasi Ed., Cal.
 
 
 
 
 
 
- (४२ श्लोके ) 'तनुत्र्येक नि०---'(४४) 'ऋ (ज्वा) [मुखगतः](# "The ऋतु /jn and आमुख Imukha are the names of स्थान ses and स्थानक postures for images. Cf. Silparataan Bk. 1, Adh. 46, 57, 61. 'स्यात्संमुखं स्थानम्'.") '।  
+
+ (४२ श्लोके ) 'तनुत्र्येक नि०---'(४४) 'ऋ (ज्वा) मुखगतः[^134] '।  
  (४६) एवंविधोऽयं कर्त्तव्यः-० प्रदः ॥ (४८) ' (मृ) णालोर्द्ध्वे' इत्युचिताः पाठाः स्युः । कारकाणां क्रमभङ्गश्च परिहर्तव्यः।  
-    Śl. 52, 53;54, 55. ['रूपमण्डनेऽपि](# "T. A. Gopinatha Rao: Op. cit. 122. Ib.: Op. cit.")प्रायशः एवंरूपाः सन्ति । टीकाकृद्भिरपपाठाः शोधिताः ।  
-    Śl.56, 57. ['विष्णुधर्मोत्तरे।](# " Ib. Op. citt.") ध्यानमेतत् यथायथं प्राप्यते।  
+    Śl. 52, 53;54, 55. 'रूपमण्डनेऽपि[^135]प्रायशः एवंरूपाः सन्ति । टीकाकृद्भिरपपाठाः शोधिताः ।  
+    Śl.56, 57. 'विष्णुधर्मोत्तरे।[^136] ध्यानमेतत् यथायथं प्राप्यते।  
    Śl. 58. अत्रापि ग्रन्थस्य वैशिष्ट्य वर्त्तते। कृष्णशङ्करयोः संयोगमूर्तीनामन्य- त्राऽदर्शनात्। मन्ये, १८ख-श्लोका 'ज्ञेया द्विजन्मनो बुधैः ॥ इति पाठो भवेत् । तत्र 'द्विज' इत्यक्षरद्वयं तु निश्चितमेव ।  
     Śl 59,60. 'शिल्परत्ने' उत्तरभागे, अः १ श्लो० २० आरभ्य, अनन्तरं, तथा अ० २ श्लो० १३, १४ इत्येते द्रष्टव्याः ।  
-   Śl. 65, 66. 'शि० र० उ० अ० १ श्लो० ४२ आरभ्य अनन्तरं च द्रष्टव्याः । तत्र 'वीर्यक' इतिनामा कोऽपि वृक्षो नास्ति । 'चीरिः, चीरः, चिरश्च' बिल्वान्तरम् आयुर्वेदीय- (वैद्यक [निघण्टुषु](# "See राजनिघण्टसहितो धन्वन्तरीयनिघण्टः । मानन्दाश्रम संस्कृतग्रन्थावलि.ग्रन्थाङ ३३ । शक १८१८ । Aiso see, वनौषधिदर्पण । अभिनवनिघण्टु । राजदेद्य श्रीविरजा चरण गुप्त काव्यतीर्थ कविभूषयात वितीय संस्करण बङ्गाब्द १३२४ ।") प्राप्यते । तेनास्माभिः 'वीर्यक' पाठः प्रामादिको न वा निश्रेतुं नैव शक्यते । अन्यः 'वीरा'- तामलकी - तमालोऽप्यस्ति निघण्टुषु । क्षुपविशेषोऽयं तक्षणकर्मणि अनुपयोगी।  
+   Śl. 65, 66. 'शि० र० उ० अ० १ श्लो० ४२ आरभ्य अनन्तरं च द्रष्टव्याः । तत्र 'वीर्यक' इतिनामा कोऽपि वृक्षो नास्ति । 'चीरिः, चीरः, चिरश्च' बिल्वान्तरम् आयुर्वेदीय- (वैद्यक निघण्टुषु[^137] प्राप्यते । तेनास्माभिः 'वीर्यक' पाठः प्रामादिको न वा निश्रेतुं नैव शक्यते । अन्यः 'वीरा'- तामलकी - तमालोऽप्यस्ति निघण्टुषु । क्षुपविशेषोऽयं तक्षणकर्मणि अनुपयोगी।  
     Śl. 73a. 'मृत्युञ्जय-विजय \[-ौ\] क्रमात् । इति पाठः स्यात् ।  
    Śl.84-86 8789 'मयमते' अ० ३३श्लो० ४०-४२, तथा ४३- ४५ श्लोकाः तुलनीयाः । मन्ये, तस्मादेव ग्रन्थात् एते गृहीताः । तत्र पाठभेदाः-  
    (८४ ) - शिवायतम् । - मानानि ॥ ( ८६) भूतगङ्गाग्नि०।सार्वकामिकं ॥  
-  Śl.98.99. ['शि० र० उ०](# "Also quoted in T. A. Gopinatha Rao Op. cit., (bul) from (a different version of ) Silparatna, Adh. 29."), अ० २ श्लो- ११३ - ११७क-श्लोकाः; तथा 'मयमते' अ० ३३-२लो० ६२-६३ श्लोकाः तुलनीयाः । मन्ये, पुस्तकयोरेतयोः श्लोका एते गृहीताः । 'शिल्परत्ने एकोनत्रिंशाध्याये' ( ११३ – ११७क ) श्लोकानां च उल्लेख दृश्यते ।
+  Śl.98.99. 'शि० र० उ०[^138] from (a different version of ) Silparatna, Adh. 29."), अ० २ श्लो- ११३ - ११७क-श्लोकाः; तथा 'मयमते' अ० ३३-२लो० ६२-६३ श्लोकाः तुलनीयाः । मन्ये, पुस्तकयोरेतयोः श्लोका एते गृहीताः । 'शिल्परत्ने एकोनत्रिंशाध्याये' ( ११३ – ११७क ) श्लोकानां च उल्लेख दृश्यते ।
+
+[^134]: "The ऋतु /jn and आमुख Imukha are the names of स्थान ses and स्थानक postures for images. Cf. Silparataan Bk. 1, Adh. 46, 57, 61. 'स्यात्संमुखं स्थानम्'."
+
+[^135]: "T. A. Gopinatha Rao: Op. cit. 122. Ib.: Op. cit."
+
+[^136]: " Ib. Op. citt."
+
+[^137]: "See राजनिघण्टसहितो धन्वन्तरीयनिघण्टः । मानन्दाश्रम संस्कृतग्रन्थावलि.ग्रन्थाङ ३३ । शक १८१८ । Aiso see, वनौषधिदर्पण । अभिनवनिघण्टु । राजदेद्य श्रीविरजा चरण गुप्त काव्यतीर्थ कविभूषयात वितीय संस्करण बङ्गाब्द १३२४ ।"
+
+[^138]: "Also quoted in T. A. Gopinatha Rao Op. cit., (bul
 
 
 
 
 
-      Śl. 132-133. ['मत्स्यपुराणे'"](# "Matsya purāyam (Valigavasi Ed., Cal ). Adlh. 262, Śl. 13-16a")अ० २६२, श्लो० १३-१६क, द्रष्टव्याः ।  
+      Śl. 132-133. 'मत्स्यपुराणे'"[^139]. Adlh. 262, Śl. 13-16a")अ० २६२, श्लो० १३-१६क, द्रष्टव्याः ।  
      Śl 134-138. आदर्शपुस्तकं विना यथाशक्ति श्लोकानां पाठशुद्धिः क्रियते, केवलं लिपिशास्त्रं वास्तुशास्त्रं च विचार्य । तद्यथा-  
     (११६ श्लो०) कण \[ ´ \] कं सार्धद्वयंभागै\[भार्गै\] कञ्चि (कं भि) भित्तिका मता।
+
+[^139]: "Matsya purāyam (Valigavasi Ed., Cal
 
             द्विभागं चान्तरपट्टंकपोता विद्वि (द्धि) सार्धकाः ॥ (१३६)  
              अर्धपंचम (चं) ग्रास (साग्र) पट्टि- ---॥ (१३७)  
            -०पट्टि कार्या कर्णके तु भार्ग (ग) \[-ार्ध\] कम् ।  
             -- --- - ? त \[ त् \] म (स) शङ्किते (संज्ञितम्) \। (१३८)
 
-[कपोत](# "For Kapota, कपोत a kind of pigeon-shaped ornament or moulding used in Architecture, see P. K. Acharya: 4 Dictionary of Hindu Archi tecture. s. v.") 'स्तावत् तत्पक्षिविशेषाकारोऽलङ्करणभेदः बन्धविशेषो वा। तस्य वर्णन- व्यवहारादयः वास्तुशास्त्रेषु अनुसन्धेयाः। ग्रन्थमध्ये भूयशः 'त' - कार - 'न' कार 'र' कारणां परस्परभ्रान्तिरेव अस्माकं पाठोद्वारे मानम् ।  
+कपोत[^140] 'स्तावत् तत्पक्षिविशेषाकारोऽलङ्करणभेदः बन्धविशेषो वा। तस्य वर्णन- व्यवहारादयः वास्तुशास्त्रेषु अनुसन्धेयाः। ग्रन्थमध्ये भूयशः 'त' - कार - 'न' कार 'र' कारणां परस्परभ्रान्तिरेव अस्माकं पाठोद्वारे मानम् ।  
      Śl.144-46. 'मत्स्यपुराणे' अ० २६२, ६-१२ लोकेभ्यः उद्धृताः एते। विशेषस्तु अल्प एव।तद्ग्रन्थमवलम्ब्य संशोधनानि क्रियन्ते । तद्यथा-  
      (१४१श्लोके) ‘बैरी’पाठः प्रामादिक एव, स्वतो वैरस्यजनकत्वात्। तथा 'मत्स्यपुराणे' बेदी - पाठदर्शनात् 'वेदी 'पाठोऽस्माभिरङ्गीक्रियते । ' (१४४) रुद्राणीसंतोष प्रिया। '  
      Śl. 147, 148. 'मत्स्यपुराणे' अ० २६२, १६-१८ श्लोका एते। १९क-श्लोकाध- स्तावत् त्यक्तः तद्यथा - 'देवस्य यजनार्थन्तु पीठिका दश कीर्त्तिताः ।  
     Śl. 149, 150 तत्रैव ग्रन्थे, १९-२० तथा १३-१६ श्लोका एते। 'मयमत 'स्य, च, अ० ३४ स्थर, ३श्लोकौ अत्रस्थित - १४९- लोकस्य छायामावहतः ।  
       Śl.151, 152. 'रूपमण्डनादुद्धृताः किन्तु तस्मात् प्रथमश्लोकार्थः परित्यक्तः । तद्यथा---
+
+[^140]: "For Kapota, कपोत a kind of pigeon-shaped ornament or moulding used in Architecture, see P. K. Acharya: 4 Dictionary of Hindu Archi tecture. s. v."
 
         'मुख लिङ्गं विक्तू' स्यादेकवक्तू' चतुर्मुखम्' ।  
         “सन्मुखं चैकवक्क्त्रंस्यात् त्रिवक्त्रेपृष्टकेन हि ।  
@@ -1462,27 +1710,35 @@ Sl. 6-12. 'रूपमण्डने' कुत्रकुत्रभेद�
 
 **सप्तमोऽध्यायः। (Chapter VII.)**
 
-     अध्यायऽयमेतस्य ग्रन्थस्य महान् विशेषः। 'जैनहरिवंशा 'दौ शासनदेवीप्रभृतीनां वर्णनानि प्राप्यन्ते। तथा ['जेमस् बार्जेस्'](# "For the important Article of James Burgess: Digambara Jaina Iconography, see Ind. Antiq. XXXII, 459, and Illustrations of Digambara Jaina Yakshas and Yakshinis, Ind. Antiq. XXXII, 464.")प्रमुखानां 'युरोपीय 'पण्डितानां ग्रन्थ-प्रबन्धेषु जैनमूर्तीनां वर्णनान्युपलभ्यन्ते। तेनालं पिष्टपेषणेन। बाहुल्यभिया च विरम्यते।
+     अध्यायऽयमेतस्य ग्रन्थस्य महान् विशेषः। 'जैनहरिवंशा 'दौ शासनदेवीप्रभृतीनां वर्णनानि प्राप्यन्ते। तथा 'जेमस् बार्जेस्'[^141]प्रमुखानां 'युरोपीय 'पण्डितानां ग्रन्थ-प्रबन्धेषु जैनमूर्तीनां वर्णनान्युपलभ्यन्ते। तेनालं पिष्टपेषणेन। बाहुल्यभिया च विरम्यते।
+
+[^141]: "For the important Article of James Burgess: Digambara Jaina Iconography, see Ind. Antiq. XXXII, 459, and Illustrations of Digambara Jaina Yakshas and Yakshinis, Ind. Antiq. XXXII, 464."
 
 **अष्टमोऽध्यायः। (Chapter VIII.)**
 
-  ['रूपमण्डने](# " Quoted in T. A. Gopinatha Rao: Op. cit.")' किञ्चिद्भिन्नमेतद्रूपं ध्यानमस्ति। पादमेकं तस्मात् परित्यक्तं च । तद्यथा-  
+  'रूपमण्डने[^142]' किञ्चिद्भिन्नमेतद्रूपं ध्यानमस्ति। पादमेकं तस्मात् परित्यक्तं च । तद्यथा-  
              ---- गौर्याः --- ---- ---- --- ०निर्णयम्।  
              ------- ------ ------ -------- ----- ---॥ '  
             '\[ अक्षसूत्रं तथा पद्ममभयं च वरं तथा। \]  
              ०नाश्रिता मूर्त्तिर्गृहे पूज्या श्रिये सदा ॥'  
 
- Śl. 3, 4, 5, 7, 10. ' [रूपमण्डनात्](# "Quoted in T. A. Gopinatha Rao: Op. cit.")कुत्र कुत्रापि भिन्नानि ध्यानानि। मन्ये, तत्र (१०ख श्लोकार्धे) एवंरूपः पाठो भवितुमर्हति —
+[^142]: " Quoted in T. A. Gopinatha Rao: Op. cit."
+
+ Śl. 3, 4, 5, 7, 10. ' रूपमण्डनात्[^143]कुत्र कुत्रापि भिन्नानि ध्यानानि। मन्ये, तत्र (१०ख श्लोकार्धे) एवंरूपः पाठो भवितुमर्हति —
+
+[^143]: "Quoted in T. A. Gopinatha Rao: Op. cit."
 
 'अप्रतीतोभवारूपा (अप्रतिमोद्भवरूपा) - - ॥ १० ॥
 
-  Śl.13, 14. '[रूपमण्डने](# "Quoted in T. A. Gopinatha Rao: Op. cit.")
+  Śl.13, 14. 'रूपमण्डने[^143]
 किञ्चिदुभिन्ने ध्याने।  
-  Śl.15b, 16, 17b. ' [रूपमण्डन'
--ात्](# "Quoted in T. A. Gopinatha Rao: Op. cit.") किञ्चिदभिन्नानि।  
-  Śl. 18-20 '[रूपमण्डनात्](# "Quoted in T. A. Gopinatha Rao: Op. cit.")कियन्मात्रोविशेषः ।  
- Śl. 21 22 23 25. ['रूपमण्डनेऽपि](# "Quoted in T. A. Gopinatha Rao: Op. cit.")सन्ति। तत्र तु २१ श्लोकस्य विषयस्त्तावद्विनायकः। कारकन्प्रत्ययश्च कृतः । हेरम्बध्यानन्तु किञ्चिदभिन्नम् । वक्रतुण्डस्य तावद्ध्याने विशेषो नास्ति ।  
-  Śl. 29, 30-34; 35. ' [रूपमण्डने](# "Quoted in T. A. Gopinatha Rao: Op. cit.")' ऽपि सन्ति। विशेषेण भेदो नास्ति।
+  Śl.15b, 16, 17b. ' रूपमण्डन'
+-ात्[^143] किञ्चिदभिन्नानि।  
+  Śl. 18-20 'रूपमण्डनात्[^143]कियन्मात्रोविशेषः ।  
+ Śl. 21 22 23 25. 'रूपमण्डनेऽपि[^143]सन्ति। तत्र तु २१ श्लोकस्य विषयस्त्तावद्विनायकः। कारकन्प्रत्ययश्च कृतः । हेरम्बध्यानन्तु किञ्चिदभिन्नम् । वक्रतुण्डस्य तावद्ध्याने विशेषो नास्ति ।  
+  Śl. 29, 30-34; 35. ' रूपमण्डने[^143]' ऽपि सन्ति। विशेषेण भेदो नास्ति।
+
+[^143]: "Quoted in T. A. Gopinatha Rao: Op. cit."
 
 
 
@@ -1490,17 +1746,27 @@ Sl. 6-12. 'रूपमण्डने' कुत्रकुत्रभेद�
 
  
 
-   Śl. 36-42a. सर्वेऽपि श्लोकाः 'मत्स्यपुराणाद् [गृहीताः](# " Matsya puranyam, Adh. 260 ( Vaigavāsi Ed., Calcutta). ")अ० २६० श्लोकाः ४५ ख - ५१ तथा '[शिल्परत्ने](# "Silparatnam, TSS. II, Adh. 25.")' उत्तरभागे अ० २५, १२ ८ख - १३० श्लोकानां कुत्र कुत्रचित् ३६-३८क लोकाः छाया अपि आदधते । 'मत्स्यपुराणात् कुत्रकुत्रपाठभेदाः सन्ति ।तद्यथा-
+   Śl. 36-42a. सर्वेऽपि श्लोकाः 'मत्स्यपुराणाद् गृहीताः[^149]. ")अ० २६० श्लोकाः ४५ ख - ५१ तथा 'शिल्परत्ने[^150]' उत्तरभागे अ० २५, १२ ८ख - १३० श्लोकानां कुत्र कुत्रचित् ३६-३८क लोकाः छाया अपि आदधते । 'मत्स्यपुराणात् कुत्रकुत्रपाठभेदाः सन्ति ।तद्यथा-
+
+[^149]: " Matsya puranyam, Adh. 260 ( Vaigavāsi Ed., Calcutta
+
+[^150]: "Silparatnam, TSS. II, Adh. 25."
 
      (३६) कमलोदवर्णाभं - ॥ (३७) - दण्डकैचीरकैर्युक्तं।  
      स्थापयेत् स्वेष्टनगरे भुजान् द्वादश कारयेत्॥ (३८) - खर्वटे ।शक्तिःपाशस्तथा खड्गः ॥  
      (३९) - स्यादथचाभयदो - । - केयूर-कटकोज्ज्वलाः ॥ (४० ) - प्रसारिता  
      ( ४१ ) - वामे स्यात् । — -- -- ।-० पाशौ - त्वसिः ॥ (४२क) - वापि दक्षिणः स्यात् --।'  
-     Śl. 43-47b. पञ्चलीलया (जा?) न अस्माभिर्दृष्टपूर्वाः । अत्र ग्रन्थस्य चान्यद् वैशिष्ट्यम् । ['वृहद्ब्रह्मसंहितायां](# "नारदपाञ्चरावान्तर्गता बृहद्ब्रह्मसंहिता । पादः २, ० ४ । तद्यथा-")
+     Śl. 43-47b. पञ्चलीलया (जा?) न अस्माभिर्दृष्टपूर्वाः । अत्र ग्रन्थस्य चान्यद् वैशिष्ट्यम् । 'वृहद्ब्रह्मसंहितायां[^151]
        कानिचिद्वचनानि सन्ति । तत्र 'ललिता' दिदेवीनाम् उल्लेखः प्राप्यते, न तु तासां नामानि ।  
-     Śl..50 52-58. ' [रूपमण्डने](# "See T. A. Gopinatha Rao: Op. cit.") ' ऽपि सन्ति ।  
-     Śl. 61-75a. ['विष्णुधर्मोत्तरे'
-](# "Quoted in lb Op. cit. (१)कमलमिति कां। (२) वर्णि- पान- ।' इति 'श्रीतत्त्वनिधि' पाठः। 'विष्णुधर्मोत्तर' पाठः।")यथायथमेव सन्ति । तन्न भेदा अकिञ्चित्करा एव तद्यथा-
+     Śl..50 52-58. ' रूपमण्डने[^152] ' ऽपि सन्ति ।  
+     Śl. 61-75a. 'विष्णुधर्मोत्तरे'
+[^153]कमलमिति कां। (२) वर्णि- पान- ।' इति 'श्रीतत्त्वनिधि' पाठः। 'विष्णुधर्मोत्तर' पाठः।")यथायथमेव सन्ति । तन्न भेदा अकिञ्चित्करा एव तद्यथा-
+
+[^151]: "नारदपाञ्चरावान्तर्गता बृहद्ब्रह्मसंहिता । पादः २, ० ४ । तद्यथा-"
+
+[^152]: "See T. A. Gopinatha Rao: Op. cit."
+
+[^153]: "Quoted in lb Op. cit. (१
 
     (६१ख) -षड्भुजा - ॥ (६२) पिङ्गला भूषणोपेता-। --- - स्रुवं--- ॥  
     (६३क) — कुण्ड विभ्रती - । (६४) शुक्लेन्दु० - जूटा शुक्ला – ० सुखप्रदा । --- वरदा-- ।  
@@ -1518,18 +1784,24 @@ Sl. 6-12. 'रूपमण्डने' कुत्रकुत्रभेद�
   (७४) - सा शिवरूपा च सिंहगा वर्तुलत्र्यक्षा--- ॥ (७५क) ---- ----० न्विता।एतेषां मध्ये (६८ श्लोके) चिह्नितपाठायेव समीचीनौ। तथा ( ७२, ७३ ) योः चिह्नितपाठाः एवोचिताः । (७३ख) '\[दक्षे\] चाप्यथ' इत्यपि साधुः पाठोद्वारः ।
 
    Śl. 76.'विकारणम्' इति पाठ न साधु मन्ये। (विकरालम्) इति भवितुमुचित एव।  
-    Śl. 77b, 78.['रूपमण्डने](# "See T. A. Gopinatha Rao: Op. cit.") एवं पाठोऽस्ति।तद्यथा--  
+    Śl. 77b, 78.'रूपमण्डने[^152] एवं पाठोऽस्ति।तद्यथा--  
              "वीरेश्वर- --  -- - धनुर्धरः।  
     वीणाहस्त त्रिशूला (वीणा त्रिशूलहस्तश्च) (78^(a₂))  
                                (78^(b₂)) मातृृणामग्रतो भवेत् ॥  
 मध्ये च मातरः कार्या अन्ते तेषां विनायकः॥ (॥78)"  
-['मत्स्यपुराणे](# "Matsya puranam (Vangavisi Ed. Cal.).")'अ० २६१, श्लो० ३८ख--- एवं रूपाः श्लोकाः सन्ति। यथा-  
+'मत्स्यपुराणे[^155].")'अ० २६१, श्लो० ३८ख--- एवं रूपाः श्लोकाः सन्ति। यथा-  
                "विनायकाञ्च कुर्वीत मातृृणामन्तिके सदा ।  
                 ---- ---- ---- --- - - - - -----जटाधरः ॥ (77b)  
                 वीणाहस्त स्त्रिशूली च (78^(a ₂))  
                               
 (78^(b₂))मातॄणां --- ---- -- -॥''  
-['अभिलषितार्थचिन्तामणौ"](# "Abhilasitārthacinthimani. MSS. No. 69 (Mysore, 1926 ). Parti.") \[38\] ३य प्रकरणे, अ० १, श्लो० ८३७ एवं पाठाः सन्ति। यथा-
+'अभिलषितार्थचिन्तामणौ"[^156]. Parti.") \[38\] ३य प्रकरणे, अ० १, श्लो० ८३७ एवं पाठाः सन्ति। यथा-
+
+[^152]: "See T. A. Gopinatha Rao: Op. cit."
+
+[^155]: "Matsya puranam (Vangavisi Ed. Cal.
+
+[^156]: "Abhilasitārthacinthimani. MSS. No. 69 (Mysore, 1926
 
                "वीरेश्वरो विधातव्यो मातॄणामग्रतस्सदा।  
                 वीणात्रिशूलहस्तश्चवृषारूढोजटाधरः ॥”
@@ -1541,24 +1813,30 @@ Sl. 6-12. 'रूपमण्डने' कुत्रकुत्रभेद�
 
 
 
-     Śl. 79; 80a; 81b. ['रूपमण्डने'](# "See T. A. Gopinatha Rao: Op. cit.") वर्तन्ते । तत्र ( ८०क- श्लोके ) 'अक्षाब्जवीणापुस्तकं' इति छन्दोऽनुरोधात् समीचीनः पाठः ।  
+     Śl. 79; 80a; 81b. 'रूपमण्डने'[^152] वर्तन्ते । तत्र ( ८०क- श्लोके ) 'अक्षाब्जवीणापुस्तकं' इति छन्दोऽनुरोधात् समीचीनः पाठः ।  
      Śl. 84b; 85. अक्षपद्मपुस्तकाऽभयाः हि विन्यासभेदैः महालक्ष्मी महाकाली- महासरस्वतीनामायुधानि। तेन पद्मोत्पलयोरुभयोरेव एकत्र अनुपयोगात् (८४ख-श्लोकार्धे) 'अभयाक्षे' इति पाठो भवितुमुचितः। 'देवीमाहात्म्ये मार्कण्डेयपुराणीये' च देवीत्रयाणां लक्षणानि अनुसन्धेयानि।
 
-     Śl. 86 89. ['विष्णुधर्मोत्तरे'](# "Ibid: Op. cit. (t) Both, quoted in the same. The VD. is apparently a different version.")
+[^152]: "See T. A. Gopinatha Rao: Op. cit."
+
+     Śl. 86 89. 'विष्णुधर्मोत्तरे'[^158] Both, quoted in the same. The VD. is apparently a different version.")
 ३य खण्डे अ० ७१ श्लोकाः ८-११ प्रायशो यथायथम् उद्धृताः । तत्र पाठभेदाः यथा-  
     " (८६ -श्लोके ) आलीढस्थानसंस्थाना\* १ चतुः सिंहे रथे स्थिता ॥ - (८७) १ खड्गं धर्म च यादव\* \। बाणचापे च कर्तव्ये \* -- ॥  
      (८८) स्रुकस्रुचौ\* च तथा कार्यौ ---बेदी० -०लु ।०-शक्ती च कर्तव्ये ॥  
 (८६क) हस्तानां--- ----०च्छान्तिकरः करः १ । --- महाभाग\*-- ॥"
+
+[^158]: "Ibid: Op. cit. (t
 
 'विष्णुधर्मोत्तरे'\* पाठभेदाः यथा - ' ( ८६ ख )० स्वासनस्था च चतुस्सिंहे-- ॥(८७) - खड्गचन्द्रश्व यादव ! । --शङ्खपद्मे - (८८क) स्रुकस्रुचौ-- तथोदककमण्डल् (८९ ख)--- महाभाग।-- ॥"
 
     'नृसिंहप्रासाद १' पाठभेदाः यथा - ( ( ८६ख) ---०स्थान संस्थाना॥ (८७क) खड्गं धर्मं व सर्वदा । (८८क) तथा दिव्यकमण्डलुः । ( ८६क) भजेच्छान्तिकरोऽवरः । तेन अस्माकमते, पाठभेदान् सम्यक् विचार्य, एते समीचीनाः पाठोद्वारा यथा-  
 (८७) – खड्गं चर्म - । बाणचापे च कर्तव्ये - ॥ (८८ क) स्रुकस्रुवौश्वोदकमण्डलुः ।  
 (८६ ) हस्तानां--- करस्तु--। -- महाभाग ! --- ॥ '  
-Śl. 90-94.['विष्णुधर्मोत्तर' -ाद्गृहीताः ।](# "Quoted by T. A. Gopinatha Rao: Op. cit.") किन्त्वन्तराऽन्तरा श्लोकाश्च केचन परित्यक्ताः ।यथा-  
+Śl. 90-94.'विष्णुधर्मोत्तर' -ाद्गृहीताः ।[^159] किन्त्वन्तराऽन्तरा श्लोकाश्च केचन परित्यक्ताः ।यथा-  
           (९०) ---चण्डी हेमाभा सा -।  
               त्रिनेत्रा यौवनस्था च————  
              चारुपीनपयोधरा ॥— — ——
+
+[^159]: "Quoted by T. A. Gopinatha Rao: Op. cit."
 
 
 
@@ -1575,7 +1853,7 @@ Sl. 6-12. 'रूपमण्डने' कुत्रकुत्रभेद�
             (९४) याम्याङ्घ्र्याक्तान्त० —  
 —०-ाङ्घ्र्यालीढगासुरे।  
             —  — ०शस्त्रेयं चाशेषरिपुनाशिनी ॥  
-Śl. 95—100.' [रूपमण्डन' गृहीताः](# "Quoted by T. A. Gopinatha Rao: Op. cit")किन्त्वन्तरान्तरा त्यक्ताः । कुत्रचिद् भेदोऽप्यस्ति। तद्यथा-  
+Śl. 95—100.' रूपमण्डन' गृहीताः[^160]किन्त्वन्तरान्तरा त्यक्ताः । कुत्रचिद् भेदोऽप्यस्ति। तद्यथा-  
           (९५) - ०याः प्रतीहारान्कथ० - ० क्रमात् ।  
           बेतालःकरटश्वव —  —   — ॥  
           (९६)  —    कङ्कदुश्रव  —   —  
@@ -1592,12 +1870,14 @@ Sl. 6-12. 'रूपमण्डने' कुत्रकुत्रभेद�
            \[—   —  —   —  —   —\]  
 'गोपीनाथ' पादोद्धृतानां 'रूपमण्डनीय' - पाठानां निर्भरयोग्यतथा वयं ताननुसरामः । तेनास्मन्मते एवंरूपाः नामभेदाः चण्डीप्रतीहाराणाम्—
 
+[^160]: "Quoted by T. A. Gopinatha Rao: Op. cit"
+
 
 
 
            ( ९५ख) बेतालः करटश्चैव पिङ्गाक्षो भृकुटिस्तथा ॥  
            (९६ क) धूम्रकः कङ्कदश्वैव रक्ताक्षश्च सुलोचनः ।  
-Śl.101-106. '[हेमाद्रिवतखण्डे '](# "Hemādri: Caturvargacintāmani (Ed. Bibliotheca Indica).") " 'विष्णुधर्मोत्तरा' दुद्धृताः । कुत्र कुत्रापि पाठभेदाः सन्ति । केचन श्लोकास्त्यक्ताश्च। तत्र पाठभेदाः-  
+Śl.101-106. 'हेमाद्रिवतखण्डे '[^161].") " 'विष्णुधर्मोत्तरा' दुद्धृताः । कुत्र कुत्रापि पाठभेदाः सन्ति । केचन श्लोकास्त्यक्ताश्च। तत्र पाठभेदाः-  
      (१०१क - अर्धश्लोके) दिव्यरूपाम्बरधरा -। (१०२) पृथक्चतु० — — सिंहासना—। सिंहासनस्थं कर्तव्यं ॥  
      (१०३क ) - महाभाग ! - सा स्थिता । (१०४) तस्याधः । ०श्रेष्ठ !
 — स्थितम् ॥  
@@ -1606,16 +1886,26 @@ Sl. 6-12. 'रूपमण्डने' कुत्रकुत्रभेद�
     Śl. 107 108. 'विश्वकर्मशास्त्रा'त् समुद्धृत इति प्रतीयते। तत्र भेदोऽप्यस्ति। श्लोकार्धंपरित्यक्तं च। तद्यथा—  
     (१०७क) कोल्लापुरं विनाप्यत्र - ०ोच्यते । (१०८) - ०की ततः । वामोर्ध्वे——\[ बिभ्रती मस्तके लिङ्गं पूजनीया विभूतये। \]
 
-    Śl 109-117. ध्यानमेतत् प्रायेण ['मत्स्यपुराणीय](# "Matsya puriiyam Adh. 262. ( Vaingavasi Ed., Cal.).")अ० २६२' 'कात्यायनी' - ध्यानमनुवर्त्तते । सदृशध्यानानि अन्यत्रच दृश्यन्ते, तद्यथा '[अभिलषितार्थचिन्तामणौ](# "Abhilasitürthacintāmani. MSS. No. 69 (Mysore, 1926). Prakara- nam 3, Adh. 1, 87. 803-810.")
-'[मयदीपिकायामपि](# "T. A. Gopinatha Rao: Op. cit") । तेन मूलध्यानस्यास्य सार्वभौमिकता ज्ञायते । पाठभेद- प्रदर्शनं पिष्टपेषणमात्रमिति मत्वा तस्मात् विरमामः । केवलं ( १०९ख श्लोकार्थोक्तस्य ) 'त्रयाणामपि देवानामनुकारानुकारिणी' इति विशेषणं, 'अभिलषितार्थ चिन्तामणौ' घृतं 'शिवनारायणात्मिका' विशेषणं च मनसि आकारयतीति प्रदर्शयामः ।  
+[^161]: "Hemādri: Caturvargacintāmani (Ed. Bibliotheca Indica
+
+    Śl 109-117. ध्यानमेतत् प्रायेण 'मत्स्यपुराणीय[^162].")अ० २६२' 'कात्यायनी' - ध्यानमनुवर्त्तते । सदृशध्यानानि अन्यत्रच दृश्यन्ते, तद्यथा 'अभिलषितार्थचिन्तामणौ[^163]. Prakara- nam 3, Adh. 1, 87. 803-810.")
+'मयदीपिकायामपि[^164] । तेन मूलध्यानस्यास्य सार्वभौमिकता ज्ञायते । पाठभेद- प्रदर्शनं पिष्टपेषणमात्रमिति मत्वा तस्मात् विरमामः । केवलं ( १०९ख श्लोकार्थोक्तस्य ) 'त्रयाणामपि देवानामनुकारानुकारिणी' इति विशेषणं, 'अभिलषितार्थ चिन्तामणौ' घृतं 'शिवनारायणात्मिका' विशेषणं च मनसि आकारयतीति प्रदर्शयामः ।  
   Śl 118. 'हस्तक' - शब्दस्यार्थस्तावत् पारिभाषिकः । 'करणं' 'मुद्रा' वाऽस्यसमानार्थक शब्दौ। विनियोगश्च 'हस्तका' नामभिनये। तेन 'मस्तके 'ति पाठो न कदापि अनुमोदनीयः।
 
+[^162]: "Matsya puriiyam Adh. 262. ( Vaingavasi Ed., Cal.
+
+[^163]: "Abhilasitürthacintāmani. MSS. No. 69 (Mysore, 1926
+
+[^164]: "T. A. Gopinatha Rao: Op. cit"
 
 
 
-   Śl.119, 120. ['अभिनयदर्पणे](# "Nandikeśvara's Abhinayadarpanam (Ed., Manomohan Ghosh) CSS. No. 5, 1. 37 and 247; 36.") नन्दिकेश्वरविरचिते' प्रथमश्लोको द्विरावृत्तोवर्त्तते । तथा द्वितीयार्धपरिवृत्त्या श्लोकान्तरं वारेकमस्ति । श्लोकद्वयस्यैतस्य उद्धारेण अस्मन्मते दाक्षिणात्य मूलकत्वं 'देवतामूर्त्तिप्रकरण 'स्य प्रमाणीभवति, प्रकारान्तरेण ।  
+
+   Śl.119, 120. 'अभिनयदर्पणे[^165] CSS. No. 5, 1. 37 and 247; 36.") नन्दिकेश्वरविरचिते' प्रथमश्लोको द्विरावृत्तोवर्त्तते । तथा द्वितीयार्धपरिवृत्त्या श्लोकान्तरं वारेकमस्ति । श्लोकद्वयस्यैतस्य उद्धारेण अस्मन्मते दाक्षिणात्य मूलकत्वं 'देवतामूर्त्तिप्रकरण 'स्य प्रमाणीभवति, प्रकारान्तरेण ।  
    यथाशक्ति सर्वेषामपि अनेकेषां वा, पाठानां विचारं कृत्वा, ग्रन्थकृतो लिखनरीतिमधि- कृत्य किञ्चित् वक्तव्यमस्ति। 'देवतामूर्त्तिप्रकरणं' सङ्कलनमात्रमेव। यथेच्छं हि ग्रन्थकृता पुस्तकान्तरस्थानां ध्यानानां परिवर्त्तनं परिवर्धनं च कृतम्। तन्न तन्त्रोपासना- शास्त्रादिभिरनु- मोद्यते समर्थ्यते वा। तेनास्मन्मते शिल्पिनां कृते वर्णनमात्राण्येतानि, न तु ध्यानरूपाणि । तेन च सर्वथा नैतानि प्रत्यक्षरं ग्रहणयोग्यानि ।  
    अन्यदपि वक्तव्यमस्ति - आदर्शपुस्तकं प्रतीको वा भूयशः प्रमादबहुलोपपाठपूर्णश्च दृश्यते। मन्ये, द्वितीयस्य आदर्शस्याभावात् पाठोद्धारो न सम्यक्तया सिध्यति ।
+
+[^165]: "Nandikeśvara's Abhinayadarpanam (Ed., Manomohan Ghosh
 
 
 
@@ -3412,9 +3702,11 @@ SANTINIKETAN
 
 \[श्री उमामहेश्वरार्पणमस्तु। शके १७५६ जयनामसंवत्सरे ( ज्ये ? ज्ये) ष्ठे मासे कृष्णपक्षे त्रयोदश्यां भृगुवासरे समापितम्। सखोपन्तदादालिमये अष्टेकरयां वा पुस्तकावरूस नकल तयार केली आसें॥ शके ॥ १७६८ ॥ क्षयनामसंवत्सरे माघकृष्ण ११ एकादम्यां मन्दवारे तारी २ माहे मार्च सन १८६७ इसवी रोजी नारायणकल लिहिणार व्यंकाजी नारायण भरसा शीराहणार श्रीकन्हाटकत्ते त्रस्थेन लिखि (त) म् ॥ स्वार्थ परोपकारार्थम्। श्रीकृष्णार्पणमस्तु॥ श्री शुभं भवतु॥
 
-[श्रीमहालक्ष्मी प्रसम् ग्रन्थसं० ॥ ६०० ॥ \]](# "आदर्शे लिपिकृतः खकौयोऽयं लेख उपलभ्यते।")
+[श्रीमहालक्ष्मी प्रसम् ग्रन्थसं० ॥ ६०० ॥ \]][^166]
 
 १२२। अस्याध्यायस्य देवीमूर्त्तिलक्षणाधिकारत्वेन देवीनाञ्च गौरीप्रकृतिकत्वेन ग्रन्थ- समाप्तौ गौरीं स्तौति- यस्या नो इति। सा 'यस्मात् न कलयन्ती' त्यादि 'तस्माद' खिल- जगदवन्धेति हेतुहेतुमद्भावः ।
+
+[^166]: "आदर्शे लिपिकृतः खकौयोऽयं लेख उपलभ्यते।"
 
       वैषम्याद् विषयस्य वा विरमणात्तत्सम्प्रदायस्य वा
 
@@ -3450,9 +3742,11 @@ SANTINIKETAN
 
 देवतामूर्त्तिप्रकरणस्थ पाठेषु
 
-[**रूपावतारे भेदाः**](# "एतदुग्रन्थविवरणं भूमिकायां द्रष्टव्यम्।")
+**रूपावतारे भेदाः**[^167]
 
 प्रथमाध्याये
+
+[^167]: "एतदुग्रन्थविवरणं भूमिकायां द्रष्टव्यम्।"
 
 \+ १३। (१) 'हस्तादेर्वेद-' इत्यत्र'हस्तादिवेद-'।  
  १५। (४) 'द्विभागा' इत्यत्र 'द्विभागे'।  
@@ -3914,8 +4208,10 @@ SANTINIKETAN
     (४)  'भव -' इत्यत्र 'नव - ' ।
 
 ७८ । अस्य लोकस्य परार्धे-  
-['प्रासादा कन्यासे ज्याष्ठा सिमामानमिदं स्मृतम्' इति पाठः । _(**\***)](# "* व्यपनीतलेख कप्रमादमिदमर्धं प्रकृतपाठमनुकरोत्येवेति द्रष्टव्यम्।")  
+'प्रासादा कन्यासे ज्याष्ठा सिमामानमिदं स्मृतम्' इति पाठः । _(**\***)[^168]  
 ७६ । (१) 'गर्भे पञ्चांशके' इत्यत्र 'गर्भपञ्चांशके ।
+
+[^168]: "* व्यपनीतलेख कप्रमादमिदमर्धं प्रकृतपाठमनुकरोत्येवेति द्रष्टव्यम्।"
 
 ८० । (२) 'दारुणे' इत्यत्र 'दारुजे' ।
 
@@ -4236,9 +4532,11 @@ SANTINIKETAN
 २७ । अस्य श्लोकस्य स्थाने-
 
 
-      [\* 'सिन्दूराभ(त्रिण ?) त्रिनेत्रञ्चप्रोक्तबीजगणाधिप ( : ) ।](# "* 'सिन्दूराभस्त्रिनेत्रश्च प्रोक्तोबीजगणाधिपः' इति स्यात् ।")
+      \* 'सिन्दूराभ(त्रिण ?) त्रिनेत्रञ्चप्रोक्तबीजगणाधिप ( : ) ।[^169]
 
        दण्डपाशाङ्कुशौ बीजपूरं विभ्रत् करेषु च ॥
+
+[^169]: "* 'सिन्दूराभस्त्रिनेत्रश्च प्रोक्तोबीजगणाधिपः' इति स्यात् ।"
 
                                 इति बीजगणपतिः ।
 
@@ -10125,3 +10423,247 @@ ans: शान्तिनाथस्य श्यामः शूकरवा�
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^157]: "See T. A. Gopinatha Rao: Op. cit."
+
+
+[^154]: "See T. A. Gopinatha Rao: Op. cit."
+
+
+[^148]: "Quoted in T. A. Gopinatha Rao: Op. cit."
+
+
+[^147]: "Quoted in T. A. Gopinatha Rao: Op. cit."
+
+
+[^146]: "Quoted in T. A. Gopinatha Rao: Op. cit."
+
+
+[^145]: "Quoted in T. A. Gopinatha Rao: Op. cit."
+
+
+[^144]: "Quoted in T. A. Gopinatha Rao: Op. cit."
+
+
+[^129]: "These quotations are all from T. A. Gopinatha Rao: Op. cit., which represents the Ripamayana, in another and somewhat different version, apparently."
+
+
+[^128]: "These quotations are all from T. A. Gopinatha Rao: Op. cit., which represents the Ripamayana, in another and somewhat different version, apparently."
+
+
+[^126]: " These quotations are all from T. A. Gopinatha Rao: Op. cit., which represents the Ripamayana, in another and somewhat different version, apparently."
+
+
+[^124]: "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit."
+
+
+[^123]: "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit."
+
+
+[^122]: "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit."
+
+
+[^121]: "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit."
+
+
+[^120]: "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit."
+
+
+[^119]: "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit."
+
+
+[^118]: "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit."
+
+
+[^116]: "Readings quoted, from the printed Ed. of the VD. (Sri Ve.ikajesvara Pr.
+
+
+[^106]: "See Prunatoṣaṇī (PT.
+
+
+[^105]: "See Prunatoṣaṇī (PT.
+
+
+[^104]: "See Prunatoṣaṇī (PT.
+
+
+[^103]: "See Prunatoṣaṇī (PT.
+
+
+[^102]: "See Prunatoṣaṇī (PT.
+
+
+[^101]: "See Prunatoṣaṇī (PT.

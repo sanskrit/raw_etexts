@@ -77,8 +77,10 @@ and Ed. 1952 \]    \[ Price Rs. 12-8
 
 **![](../books_images/U-IMG-1725505683Screenshot2024-09-05083646.png)**
 
- This volume comprises the Minor Works of Shri Shankaracharya. Many of these minor works are from the pen of the great teacher, but no one can say definitely that all are. The excellent edition published by the Vanivilas Press of Shrirangam contains a few works more *e. g.*नृसिंहतापनीभाष्य, प्रपंचसार, ललितात्रिशती &c. These Ihave omitted thinking them to be not genuine. That edition contains numerous devotional Stotras also and many of these I thought it proper to omit, because, in my humble opinion, the language used and the purport conveyed do not show them to be Shri [Shankara's](# "The date of Shri Shankara i. e. Shankaracharya the author of the three Bhashyas and the establisher of the four Shankaracharya-Mathas, is, according to the late Lokamanya B. G. Tilak, 690-722 A. D.")
+ This volume comprises the Minor Works of Shri Shankaracharya. Many of these minor works are from the pen of the great teacher, but no one can say definitely that all are. The excellent edition published by the Vanivilas Press of Shrirangam contains a few works more *e. g.*नृसिंहतापनीभाष्य, प्रपंचसार, ललितात्रिशती &c. These Ihave omitted thinking them to be not genuine. That edition contains numerous devotional Stotras also and many of these I thought it proper to omit, because, in my humble opinion, the language used and the purport conveyed do not show them to be Shri Shankara's[^1]
 composition. This does not mean that the devotional stotras included by me in this volume are certainly all composed by Shri Shankara. I am unable to say any thing definite about the devotional stotras. As regards the Vedanta Stotras, I for one, have no doubt and consider all of them to be Shri Shankara's sublime utterances.
+
+[^1]: "The date of Shri Shankara i. e. Shankaracharya the author of the three Bhashyas and the establisher of the four Shankaracharya-Mathas, is, according to the late Lokamanya B. G. Tilak, 690-722 A. D."
 
  With regard to other works, I think प्रबोधसुधाकर, सनत्सुजातीयभाष्य and विष्णुसहस्रनामभाष्य form matter for con.
 
@@ -18399,3 +18401,4 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 
 
 \]
+

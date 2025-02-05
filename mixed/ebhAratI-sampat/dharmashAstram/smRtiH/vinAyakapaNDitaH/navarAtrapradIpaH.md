@@ -70,7 +70,9 @@ fant son Mahīpati. The author of the present work isthe great grand-son of this
   The author flourished at a time when Benareswas the home of Sanskrit Learning. During his lifetime (1550-1630A.D.)Benares was the seat of literary  
 activities of some of the greatest figures in the history of Sanskrit Literature. Nārāya**ṇ**a Bhaṭṭa & his sonSaṅkara Bhaṭṭa I,Vidyānivāsa Bhaṭṭāchārya—the father of Viśvanātha Nyāyasiddhāntapañchānana, Nṛsiṃhāśrama, the author of Bhedadhikkāra, Advaitadīpikā andVedāntatattvaviveka,MadhusūdanaSarasvatī, NīlakaṇṭhaDaivajña, the author of Nīlakṇṭhī Tājika, Muhūrtachintāmaṇi & the court astronomer of the Emperor Akbar,were some of the most illustrious contemporaries ofNanda Pandit.
 
-  Nanda Pandit lived in the end of the 16th and inthe beginning of the 17th century, the date of his commentary on Viṣṇu Smṛti being 1622 A.D.A manuscriptof the Dharmādhikārī Vaṃśacharita, written by oneVeṇīrāma Pandit, is available. It is a descriptive accountof the family beginning with Pandit Lakṣmīdhara of Bidar,the 5th ancestor of Nanda Pandit Dharmādhikārī. Fromthis it appears that the family has been famous fromthe days of Lakṣmīdhara for proficiency in Dharmaśāstra learning and that it has been a Vaiṣṇava familywith Rāmachandra as its family deity. A list of NandaPandit's works has been supplied in the Sanskrit Introduction, to which may be added the name ofMāṃsamīmāṇsā,[\*](# "This work should be distinguished from works on the samesubject by Viśvanātha Nyāyapañchānana and others.")a work mentioned in his ownS'rāddhakalpalatā.
+  Nanda Pandit lived in the end of the 16th and inthe beginning of the 17th century, the date of his commentary on Viṣṇu Smṛti being 1622 A.D.A manuscriptof the Dharmādhikārī Vaṃśacharita, written by oneVeṇīrāma Pandit, is available. It is a descriptive accountof the family beginning with Pandit Lakṣmīdhara of Bidar,the 5th ancestor of Nanda Pandit Dharmādhikārī. Fromthis it appears that the family has been famous fromthe days of Lakṣmīdhara for proficiency in Dharmaśāstra learning and that it has been a Vaiṣṇava familywith Rāmachandra as its family deity. A list of NandaPandit's works has been supplied in the Sanskrit Introduction, to which may be added the name ofMāṃsamīmāṇsā,\*[^1]a work mentioned in his ownS'rāddhakalpalatā.
+
+[^1]: "This work should be distinguished from works on the samesubject by Viśvanātha Nyāyapañchānana and others."
 
 
 
@@ -3442,3 +3444,4 @@ GOVT. SANSKRIT COLLEGE }   GOPINATHKAVIRAJ.
 
 
 \]
+

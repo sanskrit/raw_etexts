@@ -12,7 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEwNzc3MDk3Nzk
 +++
 [[गौतमधर्मसूत्रम् परिशिष्टम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjEwNzc3MDk3NzkxNTY0&pageno=MjI0MjQyNjk5NTk=)]]
 
-\[
+\
 
 
 
@@ -265,11 +265,19 @@ INTRODUCTION
 
 
 
-THE word Dharma is one of the most comprehensive and important term in Sanskrit literature According to commentators it is explained as denoting an act which produces a result (to the soul) called *apūrvā*, the cause of heavenly bliss and final liberation. It has, however, been understood in ordinary usage to have a far wider meaning. The term has been used in various contexts to signify a prescribed course of conduct, duty, ordinance, statute, law, usage, practice, custom, customary observances of castes, religion, piety, justice, equity, virtue, morality, nature, character, a characteristic quality or peculiarity etc. Pūrvamımāmsā professes to teach *Dharma* exclusively.The work of Manu which is the standard treatise on Dharmaśāstra is the most familiar example specially devoted to the exposition of *[Dharma](# "Encyclopaedia of Religion and Ethics, Vol IV. p 702 .")^([1](# "Encyclopaedia of Religion and Ethics, Vol IV. p 702 .")).*
+THE word Dharma is one of the most comprehensive and important term in Sanskrit literature According to commentators it is explained as denoting an act which produces a result (to the soul) called *apūrvā*, the cause of heavenly bliss and final liberation. It has, however, been understood in ordinary usage to have a far wider meaning. The term has been used in various contexts to signify a prescribed course of conduct, duty, ordinance, statute, law, usage, practice, custom, customary observances of castes, religion, piety, justice, equity, virtue, morality, nature, character, a characteristic quality or peculiarity etc. Pūrvamımāmsā professes to teach *Dharma* exclusively.The work of Manu which is the standard treatise on Dharmaśāstra is the most familiar example specially devoted to the exposition of *[Dharma[^1]^(1[^1]).*
+
+[^1]: "Encyclopaedia of Religion and Ethics, Vol IV. p 702 ."
 
 
 
-The vedic meaning of the term--which is held to be derived from the root dhr(to uphold, to support, to nourish)-as sustainer included ordinances, and gradually extended its significance to include the meaning of fixed principles of conduct, and the whole body of *dharma* literature later [on.²](# "Kane, History of Dharmaśāstra, Vol I, PP 1-3") All dharmasūtras and the code of Manu describe the *dharma* of all the varnas and every dharma work is intended to explain the duties and obligations of the varnas.The fivefold classification of *dharma* adopted by Medhātithi is followed by Vijñāneśvara inhis Mitāksarā, by Haradatta on Gautama and by Govindarāja on [Manu¹](# "Kullūka on Manu, II, 25").This fivefold classification under varna-dharma, āśrama-dharma, varnāśrama-dharma, naimittika-dharma and guna-dharma is occasioned by the very first verse in the [Yājñavalkyasmrti.²](# "I,1 वर्णाश्रमेतराणांनो ब्रूहि धर्मानशेषत ।")It is in this sense that the word *dharma* is understood in *Dharmaśāstra*.
+The vedic meaning of the term--which is held to be derived from the root dhr(to uphold, to support, to nourish)-as sustainer included ordinances, and gradually extended its significance to include the meaning of fixed principles of conduct, and the whole body of *dharma* literature later on.²[^3] All dharmasūtras and the code of Manu describe the *dharma* of all the varnas and every dharma work is intended to explain the duties and obligations of the varnas.The fivefold classification of *dharma* adopted by Medhātithi is followed by Vijñāneśvara inhis Mitāksarā, by Haradatta on Gautama and by Govindarāja on Manu¹[^4].This fivefold classification under varna-dharma, āśrama-dharma, varnāśrama-dharma, naimittika-dharma and guna-dharma is occasioned by the very first verse in the Yājñavalkyasmrti.²[^5]It is in this sense that the word *dharma* is understood in *Dharmaśāstra*.
+
+[^3]: "Kane, History of Dharmaśāstra, Vol I, PP 1-3"
+
+[^4]: "Kullūka on Manu, II, 25"
+
+[^5]: "I,1 वर्णाश्रमेतराणांनो ब्रूहि धर्मानशेषत ।"
 
 
 
@@ -279,9 +287,17 @@ BACKGROUND OF DHARMAŚĀSTRA
 
 
 
-The first and ultimate source of Dharma is the Veda or *[śruti](# "3 Manu, II, 6")^([3](# "3 Manu, II, 6"))*. To the Hindu the Veda is the source of all knowledge and religion. It enjoins actions to be performed and enumerates actions which are inhibited. The rules for the conduct of daily life are laid down according to the Veda. The entire Veda is the source of *Dharma* and no part of it can be rejected on the ground of being inconsistent in teaching. If there is issuch a difference in the Veda itself, it is explained as giving permission to both the practices as in the case of *udita* and *anudita* [homas⁴](# "Ibid, II, 15"). Dharmaśāstra comes next and derives both its inspiration and matter from the *śruti*or Veda. Those whose knowledge of the Veda was unquestioned could expound it without in any way conflicting with the vedic practices. As such, their exposition was authoritative. Excepting the code of Manu which is attributed to the father of the race all other works have been composed by sages of approved merit and knowledge of the *śruti*. But a preeminence has been assigned to the code of Manu and any *smṛti*which contradicts Manu is not considered as good for being followed in actual
+The first and ultimate source of Dharma is the Veda or *śruti[^6]^(3[^6])*. To the Hindu the Veda is the source of all knowledge and religion. It enjoins actions to be performed and enumerates actions which are inhibited. The rules for the conduct of daily life are laid down according to the Veda. The entire Veda is the source of *Dharma* and no part of it can be rejected on the ground of being inconsistent in teaching. If there is issuch a difference in the Veda itself, it is explained as giving permission to both the practices as in the case of *udita* and *anudita* homas⁴[^8]. Dharmaśāstra comes next and derives both its inspiration and matter from the *śruti*or Veda. Those whose knowledge of the Veda was unquestioned could expound it without in any way conflicting with the vedic practices. As such, their exposition was authoritative. Excepting the code of Manu which is attributed to the father of the race all other works have been composed by sages of approved merit and knowledge of the *śruti*. But a preeminence has been assigned to the code of Manu and any *smṛti*which contradicts Manu is not considered as good for being followed in actual
 
-[life¹](# "1 Brhaspatismrti, G O S LXXXV. P २३३ः    वेदार्थप्रतिबद्धत्वात् प्रामाण्य तु मनोः स्मृतम् ।  मन्वर्थविपरीता तु या स्मृतिः सा न शस्यते ॥"). Thus dharma literature dealing with the life of the people of the land, laying down the rules for the daily life and occupations of the people in the minutest details entered into all the aspects and spheres of human action such as economic, social or religious, Its all-pervasive character has made it coextensive with the Veda in authority and [spirit](# "It is only during the days of the British administration that Dharmas āstra has come to be looked down upon by the secular state and set aside Islands of territory have continued to exist administering dharma rules in various spheres of life in the states until very recent times. Such a living s āstra, in spite of the vicissitudes during foreign rule, furnished the standard code when the administration of the East India Company started on its adminstrative career.")^([2](# "It is only during the days of the British administration that Dharmas āstra has come to be looked down upon by the secular state and set aside Islands of territory have continued to exist administering dharma rules in various spheres of life in the states until very recent times. Such a living s āstra, in spite of the vicissitudes during foreign rule, furnished the standard code when the administration of the East India Company started on its adminstrative career.")).
+[^6]: "3 Manu, II, 6"
+
+[^8]: "Ibid, II, 15"
+
+life¹[^9]. Thus dharma literature dealing with the life of the people of the land, laying down the rules for the daily life and occupations of the people in the minutest details entered into all the aspects and spheres of human action such as economic, social or religious, Its all-pervasive character has made it coextensive with the Veda in authority and spirit[^10]^(2[^10]).
+
+[^9]: "1 Brhaspatismrti, G O S LXXXV. P २३३ः    वेदार्थप्रतिबद्धत्वात् प्रामाण्य तु मनोः स्मृतम् ।  मन्वर्थविपरीता तु या स्मृतिः सा न शस्यते ॥"
+
+[^10]: "It is only during the days of the British administration that Dharmas āstra has come to be looked down upon by the secular state and set aside Islands of territory have continued to exist administering dharma rules in various spheres of life in the states until very recent times. Such a living s āstra, in spite of the vicissitudes during foreign rule, furnished the standard code when the administration of the East India Company started on its adminstrative career."
 
  The *smṛtis* therefore set forth the ideal of life both in this world and in the world above---as obtained from a knowledge of the Veda. Any lapses could not be condoned and had to be expiated Such expiation was through vedic rites in which vedic mantras were utilized for the purpose.
 
@@ -303,12 +319,18 @@ ny in the present life. These go by the term *pūrvajanmavāsanā* recognized by
 
 
 
-down in the ladder according to the good or bad actions that he performs in his lives. One has to work out his karma and the moral law is so inexorable that there is no escaping it [*Moksa¹*](# "Introduction to the Moksakāṇda of the Kṛtyakalpataru of Laksmidhara (Gaekwad s Oriental Series, No cu)")is the release from the cycle of births and deaths which result in rebirth. Any one incarnation is only a hyphen in the long history of its existence, a short interval in the awesome prospect of viewing the past incarnations or the future ones that stretch forward and backward to eternity. To be born is to court pain *(dukkha)*. To be released from the cycle of births is therefore the object of a proper lıfe lived by following the precepts of Dharmaśāstra which embody the vedic teachings. Man is the only rational being among God's creations. He alone has the capacity to lift himself to the position of the gods by his own effort. But this goal is defective in as much as when the *punya* or merit which he has acquired through good actions is exhausted like oil in a lamp, he is sent back to the earth, to begin a new cycle of births and deaths. The highest bliss is not derived from residence in the Heaven of Indra. For, the span of the life of an Indra is only one-fourteenth of the day of Brahmā.The aim is to attain a position for the soul, after the weary march through several births, from which there is no return, which is commonly called *Parama Padam* Reincarnations can be accepted as good if they help in such an ascent. The ascent to the *Pitṛloka* is known by the name of *Dhūma-yāna* and the path of the soul which does not return to the earth, [*Deva-yāna²*](# "2 infra, pp-३-४, sūtras 10-13.").
+down in the ladder according to the good or bad actions that he performs in his lives. One has to work out his karma and the moral law is so inexorable that there is no escaping it *Moksa¹*[^12]")is the release from the cycle of births and deaths which result in rebirth. Any one incarnation is only a hyphen in the long history of its existence, a short interval in the awesome prospect of viewing the past incarnations or the future ones that stretch forward and backward to eternity. To be born is to court pain *(dukkha)*. To be released from the cycle of births is therefore the object of a proper lıfe lived by following the precepts of Dharmaśāstra which embody the vedic teachings. Man is the only rational being among God's creations. He alone has the capacity to lift himself to the position of the gods by his own effort. But this goal is defective in as much as when the *punya* or merit which he has acquired through good actions is exhausted like oil in a lamp, he is sent back to the earth, to begin a new cycle of births and deaths. The highest bliss is not derived from residence in the Heaven of Indra. For, the span of the life of an Indra is only one-fourteenth of the day of Brahmā.The aim is to attain a position for the soul, after the weary march through several births, from which there is no return, which is commonly called *Parama Padam* Reincarnations can be accepted as good if they help in such an ascent. The ascent to the *Pitṛloka* is known by the name of *Dhūma-yāna* and the path of the soul which does not return to the earth, *Deva-yāna²*[^13].
+
+[^12]: "Introduction to the Moksakāṇda of the Kṛtyakalpataru of Laksmidhara (Gaekwad s Oriental Series, No cu
+
+[^13]: "2 infra, pp-३-४, sūtras 10-13."
 
 In the attempt to attain the object of liberation one has to prepare himself by living through a full life in this world according to the precepts taught by the Dharmaśāstras
 
 This brings us to a consideration of the varnāśrama scheme which is the special contribution of our literature to the world. The first three varnas--the Brāhmana, the Ksatriya and the Vais'ya form the bulk of the society. The first varna (representing the intellect of the community) is devoted to a dedicated life of studying the vedas and mastering the entire literature and to act as the teachers of the community. The second (representing the strength of the community in its physical aspect) is entrusted with the duty of protecting the country and the people. The third--the Vais'ya-was economically the most affluent as it thrived on trade and agriculture and was the main stay of the social structure. The fourth varna the S'ūdra was to assist the first three in the discharge of their duties. No special teaching or schooling was essential for his uplift. He had no daily routine to attend to, the negligence of which entailed sin. This aspect is figuratively explained in the *Purusasūkta hymn* where the origin of the castes is stated as emanating from the mouth, the arms, the thighs and the feetof the *Purusa*. No one can stand or walk without the feet and the thighs, and to the community, the Vaiśya and the Śūdra are as important as the thighs and feet are to the human body. A regulated life within the varnāśrama scheme, according to the principles laid down in the *dharma* works, gradually lifted itself up to the highest bliss by its own merits.  
-The scheme of the *āśramas* was no less important or significant. To the first two varnas the first three *āśramas* were [open¹](# "1 Yogi-Yājñvalkya-cited in Parāśara Mādhavīya, Vol 1, Part I, p 153.  चत्वारो ब्राह्मणस्योक्ता आश्रमा श्रुतिचोदिता ।  क्षत्रियस्य त्रय प्रोताद्वावेको वैश्यशूद्रयो ।"). The fourth *āśrama*was open only to the Brāhmana. To the Ksatriya the fourth, and to the Vais'ya the third and fourth *āśramas* were barred as they would be diverted
+The scheme of the *āśramas* was no less important or significant. To the first two varnas the first three *āśramas* were open¹[^14]. The fourth *āśrama*was open only to the Brāhmana. To the Ksatriya the fourth, and to the Vais'ya the third and fourth *āśramas* were barred as they would be diverted
+
+[^14]: "1 Yogi-Yājñvalkya-cited in Parāśara Mādhavīya, Vol 1, Part I, p 153.  चत्वारो ब्राह्मणस्योक्ता आश्रमा श्रुतिचोदिता ।  क्षत्रियस्य त्रय प्रोताद्वावेको वैश्यशूद्रयो ।"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -320,8 +342,12 @@ The scheme of the *āśramas* was no less important or significant. To the first
 
 
 
-from the most useful occupations of protection of the people (*Prajāpālana yajña*) and increasing the economic prosperity of the community, through trade and agriculture. The rise of the new schools of thought opened the fourth *āśrama* to all the people by the spread of Buddhism and Jainism. Consequently, the social equlibrium must have suffered from an unequal distribution of the population in the various economic spheres of activity. The importance attached to the duty of protection can be seen in the exemption given to war materials and Elephants which are made unpunishable for acts of trespass and are called [prajāpālas¹](# "अदण्ड्या हस्तिनोऽस्वाश्च प्रजापाल हि ते मता । Nāradasmrti, p 170").  
-The most important *āśrama* common to all the varnas was the *grhasthāśrama.* According to Manu the *grhasthā*is the *śrestha* and he alone supports the whole society. The *Brahmacarya āśrama* is the period of preparation for lite in the world. The *vānaprastha* and the *sanyāsin*get out of the life of the *grhastha* and live in the forests or the outskirts. The householder lives in villages and towns, and as neither the Brahamacārin nor the sanyāsın has the right to cook food for himself the *grhastha* has to supply their food as well besides his own requirements. He performs the sacrifices and śrāddhas for the satisfaction of the gods. He is competent to procreate children and it is part of his duty to continue the race. Thus the *grhasthāśrama* is the only *āśrama* which is capable of discharging the three natal debts with which a person is born. The doctrine of the purusārthas-*Dharma, Artha, Kāma* and *Moksa* apply to him with equal ease. To the Brahmacārı, Dharma alone applies and to the last two āśramas the last *purusrātha* alone applies. It is to the *grhastha* that all the four pususārthas can apply without infringing dharma rules. The whole community depended on the *grhastha* (householder)Liberation entails the observance of varnśārama rules scrupulously, and a householder who has led a disciplined life with special merit is assured liberation. The path to liberation is provided by the varnāśrama scheme in easy stages for an upward march .This is the reason for the praise bestowed on the second [*āśrama¹*](# "1Compare Manu, III, 77, 78  यथा वायु समाश्रित्य वर्तन्ते सर्वजन्तवः ।  तथा गृहस्थमाश्रित्य वर्तन्ते सर्व आश्रमा ॥  यस्मात् त्रयोऽप्याश्रमिणज्ञानेनान्नेन चान्वहम् ।  गृहस्थेनैव धार्यन्ते तस्माज्ज्येष्ठाश्रमो गृही॥  ब्रह्मचारी गृहस्थश्च वानप्रस्थो यतिस्तथा ।  एते गृहस्थप्रभवाश्चत्वार पृथगाश्रमाः ॥  सर्वेऽपि क्रमशस्त्वेते यथाशास्त्रं निषेविता ।  यथोक्तकारिण विप्रं नयन्ति परमा गतिम् ॥  सर्वेषामपि चैतेषा वेदस्मृतिविधानत ।  गृहस्थ उच्यते श्रेष्ठः स त्रीनेतान् बिभर्ति हि ॥  यथा नदीनदासर्वे सागरे यान्ति सस्थितिम् ।  तथैवाश्रमिणः सर्वे गृहस्थे यान्ति संस्थितिम् ॥").
+from the most useful occupations of protection of the people (*Prajāpālana yajña*) and increasing the economic prosperity of the community, through trade and agriculture. The rise of the new schools of thought opened the fourth *āśrama* to all the people by the spread of Buddhism and Jainism. Consequently, the social equlibrium must have suffered from an unequal distribution of the population in the various economic spheres of activity. The importance attached to the duty of protection can be seen in the exemption given to war materials and Elephants which are made unpunishable for acts of trespass and are called prajāpālas¹[^15].  
+The most important *āśrama* common to all the varnas was the *grhasthāśrama.* According to Manu the *grhasthā*is the *śrestha* and he alone supports the whole society. The *Brahmacarya āśrama* is the period of preparation for lite in the world. The *vānaprastha* and the *sanyāsin*get out of the life of the *grhastha* and live in the forests or the outskirts. The householder lives in villages and towns, and as neither the Brahamacārin nor the sanyāsın has the right to cook food for himself the *grhastha* has to supply their food as well besides his own requirements. He performs the sacrifices and śrāddhas for the satisfaction of the gods. He is competent to procreate children and it is part of his duty to continue the race. Thus the *grhasthāśrama* is the only *āśrama* which is capable of discharging the three natal debts with which a person is born. The doctrine of the purusārthas-*Dharma, Artha, Kāma* and *Moksa* apply to him with equal ease. To the Brahmacārı, Dharma alone applies and to the last two āśramas the last *purusrātha* alone applies. It is to the *grhastha* that all the four pususārthas can apply without infringing dharma rules. The whole community depended on the *grhastha* (householder)Liberation entails the observance of varnśārama rules scrupulously, and a householder who has led a disciplined life with special merit is assured liberation. The path to liberation is provided by the varnāśrama scheme in easy stages for an upward march .This is the reason for the praise bestowed on the second *āśrama¹*[^16].
+
+[^15]: "अदण्ड्या हस्तिनोऽस्वाश्च प्रजापाल हि ते मता । Nāradasmrti, p 170"
+
+[^16]: "1Compare Manu, III, 77, 78  यथा वायु समाश्रित्य वर्तन्ते सर्वजन्तवः ।  तथा गृहस्थमाश्रित्य वर्तन्ते सर्व आश्रमा ॥  यस्मात् त्रयोऽप्याश्रमिणज्ञानेनान्नेन चान्वहम् ।  गृहस्थेनैव धार्यन्ते तस्माज्ज्येष्ठाश्रमो गृही॥  ब्रह्मचारी गृहस्थश्च वानप्रस्थो यतिस्तथा ।  एते गृहस्थप्रभवाश्चत्वार पृथगाश्रमाः ॥  सर्वेऽपि क्रमशस्त्वेते यथाशास्त्रं निषेविता ।  यथोक्तकारिण विप्रं नयन्ति परमा गतिम् ॥  सर्वेषामपि चैतेषा वेदस्मृतिविधानत ।  गृहस्थ उच्यते श्रेष्ठः स त्रीनेतान् बिभर्ति हि ॥  यथा नदीनदासर्वे सागरे यान्ति सस्थितिम् ।  तथैवाश्रमिणः सर्वे गृहस्थे यान्ति संस्थितिम् ॥"
 
 
 
@@ -341,7 +367,9 @@ L
 
 ITERATURE
 
-Every dharma samhita is divided into three sections for convenience into ācāra, vyavahāra and prāyaścitta sections. The Dharmasūtras and the metrical law books follow the scheme more or less though not exclusively. But the digests of dharma have made the division a recognized one. In some cases, works are attributed to the same author *e g*, Āpastamba where a group of six chapters forming an independent work deals with daily rites and śrāddha and another group of ten chapters deal with expiations or [prāyas'citta²](# "2The six patalas of Āpastamba on ācāra are being edited by me through the Adyar Library Bulletin and half of it is already published. The tenchapters on Prāyas citta by Āpastamba, have been printed in the collections of Dharma-Sāstra. Texts by Jivananda Vidya-sagara (Vol I, pp 567-584) and M N Dutt (Vol I, pp 405-423), and in the Anandasrama Collection (No. 48) with the title Smrtināmsamuccayah, (pp 35-45).")The *Smrti* of Yājñavalkya is the standardfor this three-fold division. In later metrical smitis this division has been consciously adopted.
+Every dharma samhita is divided into three sections for convenience into ācāra, vyavahāra and prāyaścitta sections. The Dharmasūtras and the metrical law books follow the scheme more or less though not exclusively. But the digests of dharma have made the division a recognized one. In some cases, works are attributed to the same author *e g*, Āpastamba where a group of six chapters forming an independent work deals with daily rites and śrāddha and another group of ten chapters deal with expiations or prāyas'citta²[^17] and M N Dutt (Vol I, pp 405-423), and in the Anandasrama Collection (No. 48) with the title Smrtināmsamuccayah, (pp 35-45).")The *Smrti* of Yājñavalkya is the standardfor this three-fold division. In later metrical smitis this division has been consciously adopted.
+
+[^17]: "2The six patalas of Āpastamba on ācāra are being edited by me through the Adyar Library Bulletin and half of it is already published. The tenchapters on Prāyas citta by Āpastamba, have been printed in the collections of Dharma-Sāstra. Texts by Jivananda Vidya-sagara (Vol I, pp 567-584
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -377,7 +405,11 @@ Every dharma samhita is divided into three sections for convenience into ācāra
 
 
 
-In the well ordered scheme of life through the āśramas which take their roots in the Vedas, any dereliction of duty enjoined was a sin, as each one was a violation of Dharma either of omission or of commission. The law of Karma being inexorable, such omissions had to be expiated either by other births or by penances in this very birth. These sins may offend only Dharma or may be against other individuals. In the latter case it offended both God and man. Civil as well as criminal offences have thus, apart from the cognizance which the courts take note of, a spiritual significance which could not be escaped. One may hoodwink a human judge, but the ever-vigilant. Dharma with his never failing witnesses can not be given the [slip¹](# "1Mitāksakarācommenting an Yājñavalkya II, 102, cites the ever-present witnesses in the following verse                 आदित्यचन्द्रावनिलोऽनलश्च द्यौर्भूमिरापो हृदय यमश्च ।                अहश्च रात्रिश्च उभे च सन्ध्ये धर्मश्च जानाति नरस्य वृत्तम् ॥").The gravity of the offence will have to be taken into consideration and the more grave the offence the larger the number of births that one had to undergo. Genuine repentence was recognized but any insincerity in the expiatory ceremony or pretence was not [tolerated](# "2Manu, XI, 228, 229, 230              यथा यथा नोऽधर्म स्वयं कृत्वानुभाषते ।  तथा तथा त्वचेवाहिस्तेनाधर्मेण मुच्यते ॥   यथा यथा मनस्तस्य दुष्कृतं कर्म गर्हति ।")^([2](# "2Manu, XI, 228, 229, 230              यथा यथा नोऽधर्म स्वयं कृत्वानुभाषते ।  तथा तथा त्वचेवाहिस्तेनाधर्मेण मुच्यते ॥   यथा यथा मनस्तस्य दुष्कृतं कर्म गर्हति ।")). Confession was one of the methods by which expiation was permitted. The Christians have been practising it for long.
+In the well ordered scheme of life through the āśramas which take their roots in the Vedas, any dereliction of duty enjoined was a sin, as each one was a violation of Dharma either of omission or of commission. The law of Karma being inexorable, such omissions had to be expiated either by other births or by penances in this very birth. These sins may offend only Dharma or may be against other individuals. In the latter case it offended both God and man. Civil as well as criminal offences have thus, apart from the cognizance which the courts take note of, a spiritual significance which could not be escaped. One may hoodwink a human judge, but the ever-vigilant. Dharma with his never failing witnesses can not be given the slip¹[^18].The gravity of the offence will have to be taken into consideration and the more grave the offence the larger the number of births that one had to undergo. Genuine repentence was recognized but any insincerity in the expiatory ceremony or pretence was not tolerated[^19]^(2[^19]). Confession was one of the methods by which expiation was permitted. The Christians have been practising it for long.
+
+[^18]: "1Mitāksakarācommenting an Yājñavalkya II, 102, cites the ever-present witnesses in the following verse                 आदित्यचन्द्रावनिलोऽनलश्च द्यौर्भूमिरापो हृदय यमश्च ।                अहश्च रात्रिश्च उभे च सन्ध्ये धर्मश्च जानाति नरस्य वृत्तम् ॥"
+
+[^19]: "2Manu, XI, 228, 229, 230              यथा यथा नोऽधर्म स्वयं कृत्वानुभाषते ।  तथा तथा त्वचेवाहिस्तेनाधर्मेण मुच्यते ॥   यथा यथा मनस्तस्य दुष्कृतं कर्म गर्हति ।"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
@@ -403,8 +435,12 @@ INTRODUCTION
 
 
 
-Of the several methods of expiation or *prāyaścitta* Manu has enumerated five as important such as confession, repentence, tapas (austerity) adhyayana (recitation of the veda), and dāna [(charity)¹](# "Manu, XI, 227."). These ultimately resolved themselves into the existing functions of the castes and hence *prāyaścitta* only meant a more zealous pursuit of the duty of each person in his own varna and āśrama. Heavier penalties and prāyaścittas are proposed for very serious sins and smaller penalties and prāyaścitta for the smaller offences. Non-performance of *prāyāścitta* entailed in certain cases loss of caste and [reinitiation2](# "infra, pp३९,३७-३८,३८").  
+Of the several methods of expiation or *prāyaścitta* Manu has enumerated five as important such as confession, repentence, tapas (austerity) adhyayana (recitation of the veda), and dāna (charity)¹[^21]. These ultimately resolved themselves into the existing functions of the castes and hence *prāyaścitta* only meant a more zealous pursuit of the duty of each person in his own varna and āśrama. Heavier penalties and prāyaścittas are proposed for very serious sins and smaller penalties and prāyaścitta for the smaller offences. Non-performance of *prāyāścitta* entailed in certain cases loss of caste and reinitiation2[^22].  
 The function of the classification into ācāra, vyavahāta and *prāyaścitta* is not for the sake of convenience only . There is a *rationale* behind it. Many mistakes are committed in the course of our lives and some of them are very small or very big . The law of Karma being inexorable, the bad effects of bad actions cling to the soul. In an age when the belief in future lives was prominent and attempts were made to correct mistakes by undertaking penances for expiating sins, the attitude was one of faith in the efficacy of these expiatory rites. The belief was that there were two sides to every sin. One was the punishment which had to be undergone for committing the sin. This was physical. In the case of theft the king's jurisdiction over the thief was physical and punishment purified the offender. In cases where moral lapses of a serious nature were concerned or crimes which required both physical punishment and spiritual penance, to deprive the offender of the
+
+[^21]: "Manu, XI, 227."
+
+[^22]: "infra, pp३९,३७-३८,३८"
 
 
 
@@ -416,7 +452,9 @@ The function of the classification into ācāra, vyavahāta and *prāyaścitta* 
 
 
 opportunity of correcting himself by denying him the right to perform expiatory ceremonies was a more serious punishment than the physical one. For, it deprived him of the possibility at any stage of reclamation to society. The outcaste was one who suffered from this disability. *Prāyaścitta* had therefore an important part to play in the regulation of the life of the people.  
-*Prāyaścitta* enabled the moral offender who realized his mistake and was repentent to retrace his steps back to his original position and start afresh. A denial of the opportunity would mean eternal damnation, and Hinduism was( in principle) against any person being shut out from legitimate opportunities of spiritual uplift, which alone mattered Every other thing was transient and *Dharma* alone remained to accompany the soul in its weary [march¹](# "1See, Introduction to Krtyakalpataru, Moksakānda"). The *Gautama-dharma-sūtra pariśistā*which is now presented as edited from two manuscripts available in the Adyar Library Nos 8 D 55 and 24. G 18 presents the prāyaścitta part of Gautama.
+*Prāyaścitta* enabled the moral offender who realized his mistake and was repentent to retrace his steps back to his original position and start afresh. A denial of the opportunity would mean eternal damnation, and Hinduism was( in principle) against any person being shut out from legitimate opportunities of spiritual uplift, which alone mattered Every other thing was transient and *Dharma* alone remained to accompany the soul in its weary march¹[^23]. The *Gautama-dharma-sūtra pariśistā*which is now presented as edited from two manuscripts available in the Adyar Library Nos 8 D 55 and 24. G 18 presents the prāyaścitta part of Gautama.
+
+[^23]: "1See, Introduction to Krtyakalpataru, Moksakānda"
 
 
 
@@ -424,7 +462,11 @@ GAUTAMA-DHARMA-SŪTRA
 
 
 
-The *dharma-sūtra* of Gautama is the earliest work known Unlike the *dharma-sūtra* of Baudhāyana and Āpastamba it iswholly written in prose, Baudhāyana and Āpastamba have verses interspersed in their works. Gautama is referred to in the works of Baudhāyana, Āpastamba, Manu and [Yājñavalkya²](# "2S B E II, xlv and pp xlviii-liii Dr Jayaswal places the work of Gautama between 350 and 200 B C See, Manu and Yājñavalkya, P 4") . The antiquity of the work as the first *dharma-sūtra* has not been in dispute though there has been differences of opinion as to the later revisions of the work. The view of Dr Batakrishna Ghose has been examined by MM Kane and as the arguments advanced by Dr Ghose are met by Prof. Kane, the antiquity of Gautama's work as the first *dharma-sūtra* must pass [muster1](# "1Kane, History of Dharmaśāstra, Vol I,P v") .
+The *dharma-sūtra* of Gautama is the earliest work known Unlike the *dharma-sūtra* of Baudhāyana and Āpastamba it iswholly written in prose, Baudhāyana and Āpastamba have verses interspersed in their works. Gautama is referred to in the works of Baudhāyana, Āpastamba, Manu and Yājñavalkya²[^24] . The antiquity of the work as the first *dharma-sūtra* has not been in dispute though there has been differences of opinion as to the later revisions of the work. The view of Dr Batakrishna Ghose has been examined by MM Kane and as the arguments advanced by Dr Ghose are met by Prof. Kane, the antiquity of Gautama's work as the first *dharma-sūtra* must pass muster1[^25] .
+
+[^24]: "2S B E II, xlv and pp xlviii-liii Dr Jayaswal places the work of Gautama between 350 and 200 B C See, Manu and Yājñavalkya, P 4"
+
+[^25]: "1Kane, History of Dharmaśāstra, Vol I,P v"
 
 
 
@@ -440,9 +482,13 @@ The next stage is to be seen in the compilation of versified *smrtis* which ampl
 
 er
 
-and avoiding any conflict of opinion in consonance with the rules of interpretation. The fourth and the fitth saw the emergence of the *commentaries* and the *nibandhas* and the*bhāsyas* which by themselves can be regarded as digests *eg Mitaksarā of [Vijñāneśvara](# "1Krtyakalpataru, Brahmacārıkāṇda, Introduction, pp 6-8 (Edited by Prof K v Rangaswami Aiyangar)")¹.*
+and avoiding any conflict of opinion in consonance with the rules of interpretation. The fourth and the fitth saw the emergence of the *commentaries* and the *nibandhas* and the*bhāsyas* which by themselves can be regarded as digests *eg Mitaksarā of Vijñāneśvara[^26]")¹.*
 
-In the process of such an evolution, each dharma-sūtra must have sought the help of others to fill up the gaps in its own literature. The general principle of accepting rules as workable and applicable to all in cases where specific directions have not been laid down in their own dharma literature--*anuktam anyato grākyam*--a piinciple which is accepted in other branches of literature, should have [operated²](# "2This principle is accepted in the case of Āgama literature for purposes of worship in the temples of South India."). It is all the more important in cases where the dharma literature did not have other parts like the *śrauta*, *grhya* or *śulba* parts as in the case of *Gautama-dharma-sūtra*
+[^26]: "1Krtyakalpataru, Brahmacārıkāṇda, Introduction, pp 6-8 (Edited by Prof K v Rangaswami Aiyangar
+
+In the process of such an evolution, each dharma-sūtra must have sought the help of others to fill up the gaps in its own literature. The general principle of accepting rules as workable and applicable to all in cases where specific directions have not been laid down in their own dharma literature--*anuktam anyato grākyam*--a piinciple which is accepted in other branches of literature, should have operated²[^27]. It is all the more important in cases where the dharma literature did not have other parts like the *śrauta*, *grhya* or *śulba* parts as in the case of *Gautama-dharma-sūtra*
+
+[^27]: "2This principle is accepted in the case of Āgama literature for purposes of worship in the temples of South India."
 
 
 
@@ -460,7 +506,9 @@ We have three editions of *Gautama-dharma-sūtra* (1) No 61 of the Anandasrama S
 
 
 
-Of these, the Mysore edition contains, besides the text and commentary, a section--*Kriyākānda*--in eighteen [chapters³](# "3Gautama-dharma-sūtra, Edited by L Srinivasacharya, 1917 (Mysore), PP 457-475 Telugu edition, Madras, 1927, PP 489-514").The content of the *Kriyāknāda* is to treat about the *ācāra* part as to the daily routine from getting up in the early morning, *danta-dhāvana,* *snāna, japa, homa, pūjā* etc. This is also found in the Telugu edition (1927) . The *Kriyāknāda* is contained in the two manuscripts of the Adyar Library as the 1st *praśna* of the *pariśista.* The *second* *praśna* is the unprinted portion and is now published.
+Of these, the Mysore edition contains, besides the text and commentary, a section--*Kriyākānda*--in eighteen chapters³[^28], PP 457-475 Telugu edition, Madras, 1927, PP 489-514").The content of the *Kriyāknāda* is to treat about the *ācāra* part as to the daily routine from getting up in the early morning, *danta-dhāvana,* *snāna, japa, homa, pūjā* etc. This is also found in the Telugu edition (1927) . The *Kriyāknāda* is contained in the two manuscripts of the Adyar Library as the 1st *praśna* of the *pariśista.* The *second* *praśna* is the unprinted portion and is now published.
+
+[^28]: "3Gautama-dharma-sūtra, Edited by L Srinivasacharya, 1917 (Mysore
 
 
 
@@ -512,9 +560,15 @@ Total 500
 
 The *dharma-sūtra* of Gautama contains sūtras which are relevant to the portion covered in the *pariśista* but which are brief. The explanation has to be sought here in the second *praśna* for a
 
-fuller treatment. The sūtras do not mention any names of writers. On examination it is possible to find parallel passages in both *Manu* and *Yājñavalkya*, as also Vasistha and Visnu. Such passages have been furnished as footnotes under the relevant sūtras in the text. The work is quoted with approval by Vijñāneśvara commenting on *Yājñavalkyasmrti* in his *Mitāksarā* [(III, 216)¹](# "1Yājñavalkyasmrti, Nirnayasagar edition, pp 370-371")and half of a section of the*parisiśta* is quoted with slight changes in the order of citation *verbatun* Mādhava commenting on Parāśara, quotes the same sūtras under Gautama (*Parāśara-Mādhavīya,* Vol II. pp 514-8). Vaidvanātha in his *Smrti-muktāphala* (Prāya*ś*cittakānda) quotes the same sūtras under *Vrddha-Gautama* ([Ed by Gharpure, p 861](# "1Smrtimuktāphala, Edited by J R Gharpure, p 861"))¹though th
+fuller treatment. The sūtras do not mention any names of writers. On examination it is possible to find parallel passages in both *Manu* and *Yājñavalkya*, as also Vasistha and Visnu. Such passages have been furnished as footnotes under the relevant sūtras in the text. The work is quoted with approval by Vijñāneśvara commenting on *Yājñavalkyasmrti* in his *Mitāksarā* (III, 216)¹[^29]and half of a section of the*parisiśta* is quoted with slight changes in the order of citation *verbatun* Mādhava commenting on Parāśara, quotes the same sūtras under Gautama (*Parāśara-Mādhavīya,* Vol II. pp 514-8). Vaidvanātha in his *Smrti-muktāphala* (Prāya*ś*cittakānda) quotes the same sūtras under *Vrddha-Gautama* (Ed by Gharpure, p 861[^30])¹though th
 
-e two earlier writers quote them under Gautama and not Vrddha-Gautama.But Mādhava quotes under *Vṛddha-Gautama* certain sūtras which are not found in the present manuscript ([**Parāśara-Mādhavīya**](# "2 The sūtras referred to are cited hereunder   वृद्धगौतम देवद्रव्योपजीवी हृद्रोगी । प्रतिज्ञाय ब्राह्मणस्यादानादल्पायुः । पत्नीबहुत्वे मत्येकाराम क्लीब । स्वामिना धर्मे नियुक्तस्तदनुष्ठानाशक्तो जलोदरी। दुर्बलबाधे    बलवतामुपेक्षायामगहीन     ।   व्यवहारपक्षपाते जिह्वारोगी।स्वयं प्रवर्तितधर्मानुष्ठानछेदने प्रतिपन्नेष्टवियोग। स्वयमग्रभुक् शूलरोगी। परिक्षीणमित्रबन्धुस्वामिखजनावमन्ता परिभूतवृत्ति । अतिथि पश्यन्नश्नत कपालपट्टिका । सूर्यास्तकाले प्रतिश्रयादानादिष्टवियोग । छद्मना गुरुस्वामिमित्रमुपचरत   प्राप्तार्थपरिभ्रशः।  विश्रम्भापहारी सर्वदुःखाश्रयः । गोदुखकारी गोनामहा। गोनिर्दयश्चिपिटनासः। यथानाशको निस्तेजस्क । सभायां गलग्रन्थी पुण्याक्षेपी वक्रणास । शिष्टचीर्णधर्मदूषकःकेकराक्षः । साधुजनतपस्विदेवद्विजगुरुज्ञानयोगद्वेष्टा वक्रास्य । तटाकारामभेत्ता नेत्रागहीन । कृतघ्न सर्वारम्भविकलः । परस्वाभिलाषी क्षयरोगी स्यात् । चौररक्षक ,   "), II, pp 504-5)^([2](# "2 The sūtras referred to are cited hereunder   वृद्धगौतम देवद्रव्योपजीवी हृद्रोगी । प्रतिज्ञाय ब्राह्मणस्यादानादल्पायुः । पत्नीबहुत्वे मत्येकाराम क्लीब । स्वामिना धर्मे नियुक्तस्तदनुष्ठानाशक्तो जलोदरी। दुर्बलबाधे    बलवतामुपेक्षायामगहीन     ।   व्यवहारपक्षपाते जिह्वारोगी।स्वयं प्रवर्तितधर्मानुष्ठानछेदने प्रतिपन्नेष्टवियोग। स्वयमग्रभुक् शूलरोगी। परिक्षीणमित्रबन्धुस्वामिखजनावमन्ता परिभूतवृत्ति । अतिथि पश्यन्नश्नत कपालपट्टिका । सूर्यास्तकाले प्रतिश्रयादानादिष्टवियोग । छद्मना गुरुस्वामिमित्रमुपचरत   प्राप्तार्थपरिभ्रशः।  विश्रम्भापहारी सर्वदुःखाश्रयः । गोदुखकारी गोनामहा। गोनिर्दयश्चिपिटनासः। यथानाशको निस्तेजस्क । सभायां गलग्रन्थी पुण्याक्षेपी वक्रणास । शिष्टचीर्णधर्मदूषकःकेकराक्षः । साधुजनतपस्विदेवद्विजगुरुज्ञानयोगद्वेष्टा वक्रास्य । तटाकारामभेत्ता नेत्रागहीन । कृतघ्न सर्वारम्भविकलः । परस्वाभिलाषी क्षयरोगी स्यात् । चौररक्षक ,   ")).And none of the *sūtras* or verses quoted under *Vrddha-Gautama* by the different writers of digests are traceable in the present work of *Gautama-pariśista*
+[^29]: "1Yājñavalkyasmrti, Nirnayasagar edition, pp 370-371"
+
+[^30]: "1Smrtimuktāphala, Edited by J R Gharpure, p 861"
+
+e two earlier writers quote them under Gautama and not Vrddha-Gautama.But Mādhava quotes under *Vṛddha-Gautama* certain sūtras which are not found in the present manuscript (**Parāśara-Mādhavīya**[^31], II, pp 504-5)^(2[^31]).And none of the *sūtras* or verses quoted under *Vrddha-Gautama* by the different writers of digests are traceable in the present work of *Gautama-pariśista*
+
+[^31]: "2 The sūtras referred to are cited hereunder   वृद्धगौतम देवद्रव्योपजीवी हृद्रोगी । प्रतिज्ञाय ब्राह्मणस्यादानादल्पायुः । पत्नीबहुत्वे मत्येकाराम क्लीब । स्वामिना धर्मे नियुक्तस्तदनुष्ठानाशक्तो जलोदरी। दुर्बलबाधे    बलवतामुपेक्षायामगहीन     ।   व्यवहारपक्षपाते जिह्वारोगी।स्वयं प्रवर्तितधर्मानुष्ठानछेदने प्रतिपन्नेष्टवियोग। स्वयमग्रभुक् शूलरोगी। परिक्षीणमित्रबन्धुस्वामिखजनावमन्ता परिभूतवृत्ति । अतिथि पश्यन्नश्नत कपालपट्टिका । सूर्यास्तकाले प्रतिश्रयादानादिष्टवियोग । छद्मना गुरुस्वामिमित्रमुपचरत   प्राप्तार्थपरिभ्रशः।  विश्रम्भापहारी सर्वदुःखाश्रयः । गोदुखकारी गोनामहा। गोनिर्दयश्चिपिटनासः। यथानाशको निस्तेजस्क । सभायां गलग्रन्थी पुण्याक्षेपी वक्रणास । शिष्टचीर्णधर्मदूषकःकेकराक्षः । साधुजनतपस्विदेवद्विजगुरुज्ञानयोगद्वेष्टा वक्रास्य । तटाकारामभेत्ता नेत्रागहीन । कृतघ्न सर्वारम्भविकलः । परस्वाभिलाषी क्षयरोगी स्यात् । चौररक्षक ,   "
 
 
 
@@ -554,10 +608,14 @@ The first *praśna* of the *Parisiśta* has been printed in the Mysore edition o
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
-[*bhāsya* of Maskari](# "PP 457 to 475")^([1](# "PP 457 to 475")).It contains eighteen chapters. It opens with the *pratijñā*  
+*bhāsya* of Maskari[^33]^(1[^33]).It contains eighteen chapters. It opens with the *pratijñā*  
 **       athācārān pravksyāmi** I
 
-and true to the prornise, describes the *āhmka* part. Conduct is the key to the four purusārthas is the [slogan²](# "आचाराल्लभते धर्ममाचाराल्लभते धनमाचाराल्लभते सुखमाचारादेव मोक्षमाप्नुयात् । Ibid, P 457"). In the last sūtra of the first praśna occurs the passage
+[^33]: "PP 457 to 475"
+
+and true to the prornise, describes the *āhmka* part. Conduct is the key to the four purusārthas is the slogan²[^35]. In the last sūtra of the first praśna occurs the passage
+
+[^35]: "आचाराल्लभते धर्ममाचाराल्लभते धनमाचाराल्लभते सुखमाचारादेव मोक्षमाप्नुयात् । Ibid, P 457"
 
 
 
@@ -573,9 +631,11 @@ The repetition of the last words is to denote the end of a section. The word *Kr
 
 and rightly regards the portion as part of the *Pariśista*.  
 The second *praśna* which is now presented for the first time, attempts to describe whatever has been left out in the *dharmasūtra* to which it is attached. It limits itself to the *prāyaścitta* portion which has not been elaborated in the *Gautama-dharma- sūtra.*  
-In the composition of the work, the *Pariśista* has borrowed a great deal from the works of Manu and Yājñavalkya, Other works on Dharmaśāstra have also been utilized such as Visnu, Vasistha, Paithīnası, Hārīta, Śankha, Baudhāyana etc. An entire section on 'Dreams' has been bodily taken from the *Matsyapurāna*. The verses of the *Matsyapurāna* have been rendered into prose in sūtra style in the order in which the topics are cited in the [verses³.](# "See chapter 16, infra, PP७४-७८")
+In the composition of the work, the *Pariśista* has borrowed a great deal from the works of Manu and Yājñavalkya, Other works on Dharmaśāstra have also been utilized such as Visnu, Vasistha, Paithīnası, Hārīta, Śankha, Baudhāyana etc. An entire section on 'Dreams' has been bodily taken from the *Matsyapurāna*. The verses of the *Matsyapurāna* have been rendered into prose in sūtra style in the order in which the topics are cited in the verses³.[^36]
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+[^36]: "See chapter 16, infra, PP७४-७८"
 
 1 PP 457 to 475
 
@@ -590,8 +650,10 @@ In the composition of the work, the *Pariśista* has borrowed a great deal from 
 
 
 The *Pariśista* follows Yājñavalkya in the main, both as to the matter taken and the arrangment. Beginning from verse 131 of the third chapter of Yājñavalkya the *Pariśista* unfolds itself as it proceeds to deal with the various topics. In many places in the first five chapters, and in other places, verbal identity of the *sūtras* to the verses of Yājñavalkya is clear. In fact the many textual difficulties which the two manuscripts presented were overcome by a close study of the Pan *Pariśista* with the *Mitāksarā*of Vijñaneśvara, which had utilized the *Pariśista* to the fullest extent.  
-The extent of borrowing from Manu is also considerable. Manu has been accepted wherever Yājñavalkya has not touched the topic and laid down the rule (chap 2, *sūtras* 9-12). A similar instance can be seen in chapter 6, *sūtras* 3 to 6 where sins entailing loss of caste are enumerated. Where there is a difference of opinion between Yājñavalkya and Manu, the *Pariśista*follows the [former¹](# "See footnote No 10 of p१९ infra")
+The extent of borrowing from Manu is also considerable. Manu has been accepted wherever Yājñavalkya has not touched the topic and laid down the rule (chap 2, *sūtras* 9-12). A similar instance can be seen in chapter 6, *sūtras* 3 to 6 where sins entailing loss of caste are enumerated. Where there is a difference of opinion between Yājñavalkya and Manu, the *Pariśista*follows the former¹[^37]
 
+
+[^37]: "See footnote No 10 of p१९ infra"
 
 
 OTHER WORKS
@@ -919,10 +981,14 @@ There is no definite indication as to the date of the work Nor does the internal
 
 ¹अथातो धर्मशेषान् व्याख्यास्यामः² ॥ १ ॥
 
-[अन्त्यपक्षिस्थावरता](# "अदक्षिणस्थावरता---अ, अत्यन्तपक्षे स्थावरता-----क.") दोषैर्मनोवाक्कायकर्मभिर्जीवोऽयं भवयोनिशतेषु प्रयाति⁴ ॥ २ ॥
+अन्त्यपक्षिस्थावरता[^38] दोषैर्मनोवाक्कायकर्मभिर्जीवोऽयं भवयोनिशतेषु प्रयाति⁴ ॥ २ ॥
+
+[^38]: "अदक्षिणस्थावरता---अ, अत्यन्तपक्षे स्थावरता-----क."
 
 परद्रव्याणि मनसा ध्यायंस्तथानिष्टानि चिन्तयन् वितथाभिनिवेशी
-[जायतेऽन्त्यासु योनिषु](# "जायते आसुरयोनिषु-अ.")॥ ३ ॥
+जायतेऽन्त्यासु योनिषु[^39]॥ ३ ॥
+
+[^39]: "जायते आसुरयोनिषु-अ."
 
 ----------------------------------------------------  
 
@@ -937,13 +1003,25 @@ There is no definite indication as to the date of the work Nor does the internal
 
 
 
-पिशुनोऽनृतवादी[परुषो](# "पुरुषो–क.")ऽनिबद्धप्रलापी मृगपक्षिषु जायते² ॥ ४ ॥
+पिशुनोऽनृतवादीपरुषो[^40]ऽनिबद्धप्रलापी मृगपक्षिषु जायते² ॥ ४ ॥
 
-अदत्तादाननिरतः [परदारगो हिंसकश्चाविधानेन](# "परदारणहिंसकश्चाविधानेन–क.") [स्थावरेष्वभिजायते](# "स्थावरेऽभिजायते---क.")॥ ५॥
+[^40]: "पुरुषो–क."
 
-शौचवानात्मज्ञस्तपस्वी विजितेन्द्रियो दान्त [कर्मकृद्वेदविद्यावित् सात्विको](# "कर्मकृद्वेदविद्यासात्विको----अ, कर्मकृत् सात्विको---क") देवयोनिता याति⁷ ॥ ६ ॥
+अदत्तादाननिरतः परदारगो हिंसकश्चाविधानेन[^41] स्थावरेष्वभिजायते[^42]॥ ५॥
 
-[विषयेष्वारम्भी व्यग्रो](# "विषयेष्वारम्भव्यग्रो----क.")ऽसत्कार्यनिरतो राजसो मनुष्येषु [मृतो](# "मृगतो-अ.") जन्माधिगच्छति¹⁰ ॥ ७ ॥
+[^41]: "परदारणहिंसकश्चाविधानेन–क."
+
+[^42]: "स्थावरेऽभिजायते---क."
+
+शौचवानात्मज्ञस्तपस्वी विजितेन्द्रियो दान्त कर्मकृद्वेदविद्यावित् सात्विको[^43] देवयोनिता याति⁷ ॥ ६ ॥
+
+[^43]: "कर्मकृद्वेदविद्यासात्विको----अ, कर्मकृत् सात्विको---क"
+
+विषयेष्वारम्भी व्यग्रो[^44]ऽसत्कार्यनिरतो राजसो मनुष्येषु मृतो[^45] जन्माधिगच्छति¹⁰ ॥ ७ ॥
+
+[^44]: "विषयेष्वारम्भव्यग्रो----क."
+
+[^45]: "मृगतो-अ."
 
 --------------------------------------------------------
 
@@ -986,11 +1064,21 @@ There is no definite indication as to the date of the work Nor does the internal
 
 रजसा तमसा चाविष्टश्चक्रवद्भ्राम्यतेऽसौ² ॥९॥
 
-[इहाग्निहोत्रिणः](# " भ्राम्यते चातिहाग्निहोत्रिणः-अ.") स्वर्गेगच्छन्ति⁴॥ १० ॥
+इहाग्निहोत्रिणः[^46] स्वर्गेगच्छन्ति⁴॥ १० ॥
 
-ये च दानपरा सत्यव्रतपरायणा दम्भरहिताः सम्यक् [स्मार्तकर्मानुष्ठानपरा दयाक्षान्त्यनसूयाशौचानायास](# "स्मार्तानुष्ठानपरा दयाकाक्षानसूयाश्शौचानायास०----अ.")मङ्गलाकार्पण्यास्पृहैर्युक्तास्तथा [सगत्यागिनोऽर्चिरह शुक्ल](# "सगत्यागिनोस्पृहाः शुक्ल०-----अ, सगत्यार्च्यहः शुक्ल०----क.")पक्षोत्तरायण[सुरसद्मसूर्यवैद्युतेषु](# "ऋतुमासपक्षसूर्यवैद्युतेषु for सुरसद्मसूर्यवैद्युतेषु-----क") [मुक्तिमार्गेषु विश्राम्यतैः प्रस्थापिताः](# "विविक्तमार्गेषु विश्रमिताः प्रस्थापिताः-अ.")
+[^46]: " भ्राम्यते चातिहाग्निहोत्रिणः-अ."
+
+ये च दानपरा सत्यव्रतपरायणा दम्भरहिताः सम्यक् स्मार्तकर्मानुष्ठानपरा दयाक्षान्त्यनसूयाशौचानायास[^47]मङ्गलाकार्पण्यास्पृहैर्युक्तास्तथा सगत्यागिनोऽर्चिरह शुक्ल[^48]पक्षोत्तरायणसुरसद्मसूर्यवैद्युतेषु[^49] मुक्तिमार्गेषु विश्राम्यतैः प्रस्थापिताः[^50]
+
+[^47]: "स्मार्तानुष्ठानपरा दयाकाक्षानसूयाश्शौचानायास०----अ."
+
+[^48]: "सगत्यागिनोस्पृहाः शुक्ल०-----अ, सगत्यार्च्यहः शुक्ल०----क."
+
+[^49]: "ऋतुमासपक्षसूर्यवैद्युतेषु for सुरसद्मसूर्यवैद्युतेषु-----क"
 
 -------------------------------------------------------
+
+[^50]: "विविक्तमार्गेषु विश्रमिताः प्रस्थापिताः-अ."
 
 ***^(1.)**cf , निद्रालुः क्रूरकृल्लुब्धो नास्तिको याचकस्तथा ।  
     प्रमादवान् भिन्नवृत्तो भवेत्तिर्यक्षु तामसः ॥ **याज्ञवल्क्यः , ३, १३९***
@@ -1029,11 +1117,21 @@ There is no definite indication as to the date of the work Nor does the internal
 
 **परमपदं प्राप्नुवन्ति¹ ॥ ११ ॥**
 
-[पुनरावृत्तिस्तेषामिह न विद्यते](# "cf , करोति पुनरावृत्तिस्तेषामिह न विद्यते ॥ याज्ञवल्क्य , ३, १९४.")॥ १२ ॥
+पुनरावृत्तिस्तेषामिह न विद्यते[^51]॥ १२ ॥
 
-[धूमनिशाकृष्ण](# "धूमनिका कृष्णº----अ.")पक्षदक्षिणायनपितृलोकचन्द्रमोऽभिमानिनीर्देवताः प्राप्य पुनरेव [वायुवृष्टिजलभूमीः](# " वायुवृष्टिजलभूमि-अ.")प्राप्य [व्रीह्याद्यन्नरूपेण शुक्रत्वमवाप्य](# " व्रीह्याद्यन्नरूपशुक्लत्वमवाप्य-----अ.")यज्ञदानतपोयुक्ताः संसारिणो योनि व्रजन्ति⁶ ॥ १३ ॥
+[^51]: "cf , करोति पुनरावृत्तिस्तेषामिह न विद्यते ॥ याज्ञवल्क्य , ३, १९४."
 
-अर्चिरादिधूमादिमार्गद्वयं यः प्रमत्तो न विजानात्यसौ [भुजङ्गः शलभः](# "भुजङ्गशलभः-----क.") कृमिः कीटो वा भवेत्⁸ ॥ १४ ॥
+धूमनिशाकृष्ण[^52]पक्षदक्षिणायनपितृलोकचन्द्रमोऽभिमानिनीर्देवताः प्राप्य पुनरेव वायुवृष्टिजलभूमीः[^53]प्राप्य व्रीह्याद्यन्नरूपेण शुक्रत्वमवाप्य[^54]यज्ञदानतपोयुक्ताः संसारिणो योनि व्रजन्ति⁶ ॥ १३ ॥
+
+[^52]: "धूमनिका कृष्णº----अ."
+
+[^53]: " वायुवृष्टिजलभूमि-अ."
+
+[^54]: " व्रीह्याद्यन्नरूपशुक्लत्वमवाप्य-----अ."
+
+अर्चिरादिधूमादिमार्गद्वयं यः प्रमत्तो न विजानात्यसौ भुजङ्गः शलभः[^55] कृमिः कीटो वा भवेत्⁸ ॥ १४ ॥
+
+[^55]: "भुजङ्गशलभः-----क."
 
 
 
@@ -1110,15 +1208,31 @@ There is no definite indication as to the date of the work Nor does the internal
 
 
 
-[अथवा वेदमभ्यसन्](# "अथपङ्क्तौ वेदमभ्यसन्----अ , अथवा वेदमभ्यस्यन्-----क.")
-न्यस्तकर्मा वने वसन् [मितभुगयाचिताशी च परा](# "मितभुगयाचितां परा-अ.") सिद्धिमवाप्नुयात्³ ॥ १ ॥
+अथवा वेदमभ्यसन्[^56]
+न्यस्तकर्मा वने वसन् मितभुगयाचिताशी च परा[^57] सिद्धिमवाप्नुयात्³ ॥ १ ॥
 
-[अप्रतिग्रहेणो](# "प्रतिग्रहेण for अप्रतिग्रहेण----क.")पार्जितधन सत्यवादी [श्राद्धानुष्ठान](# " श्रद्धानुष्ठानº -अ.")निरत आत्मतत्त्वज्ञाननिष्ठो[ऽतिथिप्रियो](# "विधिप्रियो for अतिथिप्रियो-अ.")
+[^56]: "अथपङ्क्तौ वेदमभ्यसन्----अ , अथवा वेदमभ्यस्यन्-----क."
+
+[^57]: "मितभुगयाचितां परा-अ."
+
+अप्रतिग्रहेणो[^58]पार्जितधन सत्यवादी श्राद्धानुष्ठान[^59]निरत आत्मतत्त्वज्ञाननिष्ठोऽतिथिप्रियो[^60]
 गृहस्थो मुक्ति प्राप्नुयात्⁷ ॥ २ ॥
 
-[महापातकिनो दारुणान् तामिस्रादिनरकान्](# "महापातकिनोऽन्धतामिस्रादिनरकान् -अ") प्राप्य तत्र प्रचुरदुःखमनुभूय पापशेषात् पुनरिह[संसारे दुःखबहुलश्वसृगालादि](# "संसारे श्वसृगालादि०-क.")तिर्यग्योनिषु भूयो भूयो जायन्ते¹⁰ ॥ ३ ॥
+[^58]: "प्रतिग्रहेण for अप्रतिग्रहेण----क."
 
-ब्रह्महा [मृगश्वसूकरोष्ट्रयोनिं](# "मृगश्वसूकरयोनि-क.")प्राप्नुयात्¹²॥ ४ ॥
+[^59]: " श्रद्धानुष्ठानº -अ."
+
+[^60]: "विधिप्रियो for अतिथिप्रियो-अ."
+
+महापातकिनो दारुणान् तामिस्रादिनरकान्[^61] प्राप्य तत्र प्रचुरदुःखमनुभूय पापशेषात् पुनरिहसंसारे दुःखबहुलश्वसृगालादि[^62]तिर्यग्योनिषु भूयो भूयो जायन्ते¹⁰ ॥ ३ ॥
+
+[^61]: "महापातकिनोऽन्धतामिस्रादिनरकान् -अ"
+
+[^62]: "संसारे श्वसृगालादि०-क."
+
+ब्रह्महा मृगश्वसूकरोष्ट्रयोनिं[^63]प्राप्नुयात्¹²॥ ४ ॥
+
+[^63]: "मृगश्वसूकरयोनि-क."
 
 --------------------------------------------
 
@@ -1148,21 +1262,35 @@ There is no definite indication as to the date of the work Nor does the internal
 
 
 
-सुरापः [खरपुल्कसवेनयोनिम्](# "खरपुल्कसवेनयोनिग ---अ ; खलपुल्कसयवनयोनिम्----क. ")²॥ ५॥
+सुरापः खरपुल्कसवेनयोनिम्[^64]²॥ ५॥
 
-स्वर्णहारी [कृमिकीटपतङ्गयोनिम्](# "कृमिकीटकपतङ्गयोनिम्-अ.  ")⁴॥ ६ ॥
+[^64]: "खरपुल्कसवेनयोनिग ---अ ; खलपुल्कसयवनयोनिम्----क. "
 
-[गुरुतल्पगस्तृणगुल्मलतात्वं चाकामतः](# "cf , तृणगुल्मलतात्व च बहुशो गुरुतल्पग । याज्ञवल्क्यः , ३, २०८")॥ ७ ॥
+स्वर्णहारी कृमिकीटपतङ्गयोनिम्[^65]⁴॥ ६ ॥
+
+[^65]: "कृमिकीटकपतङ्गयोनिम्-अ.  "
+
+गुरुतल्पगस्तृणगुल्मलतात्वं चाकामतः[^66]॥ ७ ॥
+
+[^66]: "cf , तृणगुल्मलतात्व च बहुशो गुरुतल्पग । याज्ञवल्क्यः , ३, २०८"
 
 कामतो दुःखबहुलयोनिषु⁶ ॥ ८ ॥
 
-ब्रह्महा श्वसूकरखरोष्ट्रगोजाविमृगपक्षि[चण्डाल](# "चाण्डाल for चण्डाल-अ.") 
+ब्रह्महा श्वसूकरखरोष्ट्रगोजाविमृगपक्षिचण्डाल[^67] 
 पुल्कसानाम्⁸ ॥९॥
 
-सुरापो [विड्भुककृमिकीटपतङ्गपक्षिणां](# "विट्शूद्रक्रिमिकीटपतङ्गपक्षिणां-अ.") हिंस्राणा च सत्त्वानाम्¹⁰ ॥ १० ॥
+[^67]: "चाण्डाल for चण्डाल-अ."
 
-स्तेनस्तु विप्रो [लूताहिसरटानां सरीसृपाणां](# "लूताहिसरीसृपाणा-अ, लूतसरटाना सरीसृपाणा-क.")
-[तिरश्चामम्बुचारिणां](# "तिरश्चाम्बुचारिणा-अ.") हिंस्राणा च पिशाचानाम्¹³ ॥ ११ ॥
+सुरापो विड्भुककृमिकीटपतङ्गपक्षिणां[^68] हिंस्राणा च सत्त्वानाम्¹⁰ ॥ १० ॥
+
+[^68]: "विट्शूद्रक्रिमिकीटपतङ्गपक्षिणां-अ."
+
+स्तेनस्तु विप्रो लूताहिसरटानां सरीसृपाणां[^69]
+तिरश्चामम्बुचारिणां[^70] हिंस्राणा च पिशाचानाम्¹³ ॥ ११ ॥
+
+[^69]: "लूताहिसरीसृपाणा-अ, लूतसरटाना सरीसृपाणा-क."
+
+[^70]: "तिरश्चाम्बुचारिणा-अ."
 
 -------------------------------------------
 
@@ -1187,7 +1315,11 @@ There is no definite indication as to the date of the work Nor does the internal
 
 
 
-गुरुतल्पगस्तु गुल्मलतानां क्रव्यादानां च [दंष्ट्रिणा](# "द्रष्ट्राणा----अ.")क्रूरकर्मकृता[चैव संसरन्ति](# "चैव संगतिः-----अ.")³ ॥ १२ ॥
+गुरुतल्पगस्तु गुल्मलतानां क्रव्यादानां च दंष्ट्रिणा[^71]क्रूरकर्मकृताचैव संसरन्ति[^72]³ ॥ १२ ॥
+
+[^71]: "द्रष्ट्राणा----अ."
+
+[^72]: "चैव संगतिः-----अ."
 
 इति द्वितीयप्रश्ने द्वितीयोऽध्यायः।
 
@@ -1239,7 +1371,9 @@ There is no definite indication as to the date of the work Nor does the internal
 
 
 
-ब्रह्महा क्षयरोगी [स्यात्](# "स्यात्---- omitted by अ.")॥ १ ॥
+ब्रह्महा क्षयरोगी स्यात्[^73]॥ १ ॥
+
+[^73]: "स्यात्---- omitted by अ."
 
 श्यावदन्तकः सुरापः ॥ २ ॥
 
@@ -1274,17 +1408,31 @@ There is no definite indication as to the date of the work Nor does the internal
 
 
 
-[दुःखप्रचुरेषु मानुषशरीरेषु](# "दुःखप्रचुरमानुषशरीरेषु-अ.") संसरन्ति² ॥ ६ ॥
+दुःखप्रचुरेषु मानुषशरीरेषु[^74] संसरन्ति² ॥ ६ ॥
 
-[अन्नहर्ताऽजीर्णान्नः](# "अन्नहर्ताजीर्णनदी----अ.")॥ ७ ॥
+[^74]: "दुःखप्रचुरमानुषशरीरेषु-अ."
 
-[पुस्तकहार्यननुज्ञाताध्यायी मूको](# " पुस्तकादिमहार्यननुज्ञातात्याशी मूको-अ.") भवति ॥ ८ ॥
+अन्नहर्ताऽजीर्णान्नः[^75]॥ ७ ॥
 
-[धान्यमिश्र](# "धान्यहर्ता-----क.") षडड्गुल स्यात् ॥ ९॥
+[^75]: "अन्नहर्ताजीर्णनदी----अ."
 
-पिशुनो [दुर्गन्धनासिकः](# "दुर्गन्ध नास्तिक ----क.") ॥ १० ॥
+पुस्तकहार्यननुज्ञाताध्यायी मूको[^76] भवति ॥ ८ ॥
 
-[तैलहर्ता](# "तिलहर्ता-----क.") तैलपायी[कीटविशेषः](# "कफविशेषः-अ.")॥ ११ ॥
+[^76]: " पुस्तकादिमहार्यननुज्ञातात्याशी मूको-अ."
+
+धान्यमिश्र[^77] षडड्गुल स्यात् ॥ ९॥
+
+[^77]: "धान्यहर्ता-----क."
+
+पिशुनो दुर्गन्धनासिकः[^78] ॥ १० ॥
+
+[^78]: "दुर्गन्ध नास्तिक ----क."
+
+तैलहर्ता[^79] तैलपायीकीटविशेषः[^80]॥ ११ ॥
+
+[^79]: "तिलहर्ता-----क."
+
+[^80]: "कफविशेषः-अ."
 
 असद्दोषसंकीर्तनो दुर्गन्धवदनः⁹ ॥ १२ ॥
 
@@ -1320,11 +1468,17 @@ There is no definite indication as to the date of the work Nor does the internal
 
 
 
-[एतच्च तिर्यक्त्वप्राप्त्यनन्तरं](# "प्रेतश्च तिर्यक्त्वं प्राप्यानन्तरं-----अ.") मानुषशरीरप्राप्तौ द्रष्टव्यम्² ॥ १३ ॥
+एतच्च तिर्यक्त्वप्राप्त्यनन्तरं[^81] मानुषशरीरप्राप्तौ द्रष्टव्यम्² ॥ १३ ॥
 
-यद्वा तद्वा परद्रव्यमपहृत्याहुतं[च](# "3च--omitted by अ.") हविर्जग्ध्वा तिर्यक्त्वं याति⁴ ॥१४॥
+[^81]: "प्रेतश्च तिर्यक्त्वं प्राप्यानन्तरं-----अ."
 
-परस्य योषितं हृत्वा [ब्रह्मस्वं सुवर्णव्यतिरिक्तं](# "ब्रह्मस्वसुवर्णव्यतिरिक्त-----अ.") हृत्वा बहु हिरण्यं प्रतिगृह्य चारण्ये निर्जले देशे
+यद्वा तद्वा परद्रव्यमपहृत्याहुतंच[^82] हविर्जग्ध्वा तिर्यक्त्वं याति⁴ ॥१४॥
+
+[^82]: "3च--omitted by अ."
+
+परस्य योषितं हृत्वा ब्रह्मस्वं सुवर्णव्यतिरिक्तं[^83] हृत्वा बहु हिरण्यं प्रतिगृह्य चारण्ये निर्जले देशे
+
+[^83]: "ब्रह्मस्वसुवर्णव्यतिरिक्त-----अ."
 
 ब्रह्मराक्षसः स्यात्⁶ ॥ १५ ॥
 
@@ -1332,13 +1486,17 @@ There is no definite indication as to the date of the work Nor does the internal
 
 शुभान् गन्धान् छुच्छुन्दरी नाम मूषिका जायते ॥ १७ ॥
 
-धान्यहारी मूषको [भवति](# "भवति----omitted by अ.") ॥ १८ ॥
+धान्यहारी मूषको भवति[^84] ॥ १८ ॥
+
+[^84]: "भवति----omitted by अ."
 
 यानमुष्ट्रः॥ १९ ॥
 
 फलं वानरः ॥ २० ॥
 
-जलं [प्लवः](# "प्लवंगः----अ.") ॥ २१ ॥
+जलं प्लवः[^85] ॥ २१ ॥
+
+[^85]: "प्लवंगः----अ."
 
 ---------------------------------------------------------------
 
@@ -1365,17 +1523,25 @@ There is no definite indication as to the date of the work Nor does the internal
 
 
 
-[क्षीरं काकः ॥ २२ ॥](# "क्षीरकारो गृहोपस्करº ----क.")
+क्षीरं काकः ॥ २२ ॥[^86]
 
-[गृहोपस्कर](# "क्षीरकारो गृहोपस्करº ----क.")मुसलादि हृत्वा सरटाख्यः कीटविशेषो भवेत्² ॥२३॥
+गृहोपस्कर[^86]मुसलादि हृत्वा सरटाख्यः कीटविशेषो भवेत्² ॥२३॥
 
-मधु हृत्वा [दंशः](# "दयालो-क.") ॥ २४ ॥
+[^86]: "क्षीरकारो गृहोपस्करº ----क."
+
+मधु हृत्वा दंशः[^88] ॥ २४ ॥
+
+[^88]: "दयालो-क."
 
 मासं हृत्वा गृध्रः ॥ २५ ॥
 
-गा हृत्वा [गोधाख्यः](# "गोदाख्यः-अ.") प्राणिविशेषः ॥ २६ ॥
+गा हृत्वा गोधाख्यः[^89] प्राणिविशेषः ॥ २६ ॥
 
-[अग्नि](# "अन्नं पिकः-अ.") पिकः⁶ ॥ २७॥
+[^89]: "गोदाख्यः-अ."
+
+अग्नि[^90] पिकः⁶ ॥ २७॥
+
+[^90]: "अन्नं पिकः-अ."
 
 ------------------------------
 
@@ -1406,11 +1572,17 @@ There is no definite indication as to the date of the work Nor does the internal
 
 
 
-इक्ष्वादिरसं [सारमेयः](# "सारमेयी-क.") ॥ २८ ॥
+इक्ष्वादिरसं सारमेयः[^91] ॥ २८ ॥
 
-लवणहारी [चीर्याख्य](# "चिल्याख्य-क.") उच्चैःस्वर कीटविशेषः॥ २९ ॥
+[^91]: "सारमेयी-क."
 
-कास्यहारी [हंसः](# "हंसश्च पङ्गुभवेत्-अ.")॥ ३०॥
+लवणहारी चीर्याख्य[^92] उच्चैःस्वर कीटविशेषः॥ २९ ॥
+
+[^92]: "चिल्याख्य-क."
+
+कास्यहारी हंसः[^93]॥ ३०॥
+
+[^93]: "हंसश्च पङ्गुभवेत्-अ."
 
 अश्वं पङ्गुर्भवेत्⁴ ॥ ३१ ॥
 
@@ -1470,15 +1642,25 @@ There is no definite indication as to the date of the work Nor does the internal
 
 ¹व्रह्महाकुष्ठी स्यात्² ॥ १ ॥
 
-[तैजसापहारी](# "तेजसोऽपहारी-अ.")[मण्डली](# "मण्डल.-क.") ॥ २॥
+तैजसापहारी[^94]मण्डली[^95] ॥ २॥
+
+[^94]: "तेजसोऽपहारी-अ."
+
+[^95]: "मण्डल.-क."
 
 देवब्राह्मणाक्रोशकःखलतिः⁵ ॥ ३ ॥
 
-[गरदाग्निदावुन्मत्तौ](# "cf , उन्मत्तोऽग्निदः । लोलजिह्वो गरद ॥ विष्णु., ४५, १७, १६.")॥ ४ ॥
+गरदाग्निदावुन्मत्तौ[^96]॥ ४ ॥
 
-[गुरुं](# "गुरु स्वंकर्तापस्मारी---क, गुरुप्रतिहन्तापस्मारी-वैद्यनाथः, स्मृ मु., पृ. ८६१.") प्रतिहन्तापस्मारी⁸ ॥ ५ ॥
+[^96]: "cf , उन्मत्तोऽग्निदः । लोलजिह्वो गरद ॥ विष्णु., ४५, १७, १६."
 
-[गोघ्नश्चान्धः](# "गोघ्नचाण्डालः-क.  10ct., गोघ्नस्त्वन्धः । विष्णुः, ४५, १९.")॥ ६॥
+गुरुं[^97] प्रतिहन्तापस्मारी⁸ ॥ ५ ॥
+
+[^97]: "गुरु स्वंकर्तापस्मारी---क, गुरुप्रतिहन्तापस्मारी-वैद्यनाथः, स्मृ मु., पृ. ८६१."
+
+गोघ्नश्चान्धः[^98]॥ ६॥
+
+[^98]: "गोघ्नचाण्डालः-क.  10ct., गोघ्नस्त्वन्धः । विष्णुः, ४५, १९."
 
 धर्मपत्नी मुक्त्वान्यत्र प्रवृत्तः ¹¹शब्दभेदी प्राणिविशेषः ॥ ७ ॥
 
@@ -1522,13 +1704,23 @@ There is no definite indication as to the date of the work Nor does the internal
 
 ²स्वापहारी काणः ॥ १० ॥
 
-[स्त्रीपण्योपजीवी](# "खैण्योपजीवी---अ; स्त्रीमण्युपजीवी----क. स्त्रीवश्योपजीवः-----वैद्यनाथः ।") षण्ढः ॥ ११ ॥
+स्त्रीपण्योपजीवी[^99] षण्ढः ॥ ११ ॥
 
-[कौमारदारत्यागी](# "कौमारीदारत्यागी-अ.") दुर्भगः⁵ ॥ १२ ॥
+[^99]: "खैण्योपजीवी---अ; स्त्रीमण्युपजीवी----क. स्त्रीवश्योपजीवः-----वैद्यनाथः ।"
 
-[मृष्टैकाशी](# "अमृष्टाशी गुल्मी--- क; मिष्टैकाशी---विज्ञानेश्वरः") वातगुल्मी⁷ ॥ १३ ॥  
-[अभक्ष्यभक्षको](# "अभक्ष्यभक्षी-----अ.")
-[गण्डमाली](# "cf., ‘ अभक्ष्यभक्षी गण्डमाली   शिवधर्मोत्तरे, परा. मा. प्रा.,पृ. ५११,")॥ १४ ॥
+कौमारदारत्यागी[^100] दुर्भगः⁵ ॥ १२ ॥
+
+[^100]: "कौमारीदारत्यागी-अ."
+
+मृष्टैकाशी[^101] वातगुल्मी⁷ ॥ १३ ॥  
+अभक्ष्यभक्षको[^102]
+गण्डमाली[^103]॥ १४ ॥
+
+[^101]: "अमृष्टाशी गुल्मी--- क; मिष्टैकाशी---विज्ञानेश्वरः"
+
+[^102]: "अभक्ष्यभक्षी-----अ."
+
+[^103]: "cf., ‘ अभक्ष्यभक्षी गण्डमाली   शिवधर्मोत्तरे, परा. मा. प्रा.,पृ. ५११,"
 
 -----------------------------------------  
 
@@ -1549,21 +1741,33 @@ another sūtra 'न्यासापहार्यनपत्यः ' ३७,
 
 
 
-ब्राह्मणीगामी [निर्बीजी](# "दुर्बीजी----अ") ॥ १५ ॥.
+ब्राह्मणीगामी निर्बीजी[^104] ॥ १५ ॥.
+
+[^104]: "दुर्बीजी----अ"
 
 क्रूरकर्मा वामनः ॥ १६ ॥
 
 वस्त्रापहारी पतङ्गः
-[श्वित्री](# "श्वस्री----अ, श्वित्री च-omitted by वैद्यनाथ and मदनपारिजात.")
+श्वित्री[^105]
 च³ ॥ १७ ॥
 
-शय्यापहारी [क्षपणकः](# "रुणक ---अ.") ॥ १८ ॥
+[^105]: "श्वस्री----अ, श्वित्री च-omitted by वैद्यनाथ and मदनपारिजात."
 
-[शङ्खशुक्त्यपहारी](# "शङ्खशुक्त्योरपहारी-अ.")[कपाली](# "कपाली----omitted by क.") ॥ १९ ॥
+शय्यापहारी क्षपणकः[^106] ॥ १८ ॥
+
+[^106]: "रुणक ---अ."
+
+शङ्खशुक्त्यपहारी[^107]कपाली[^108] ॥ १९ ॥
+
+[^107]: "शङ्खशुक्त्योरपहारी-अ."
+
+[^108]: "कपाली----omitted by क."
 
 दीपापहारी कौशिकः⁷॥ २० ॥
 
-[मित्रध्रुक् क्षयी](# "पत्रहृत् क्षयी----क") ॥ २१ ॥
+मित्रध्रुक् क्षयी[^109] ॥ २१ ॥
+
+[^109]: "पत्रहृत् क्षयी----क"
 
 मातापित्रोराक्रोशकः ⁹करभोदरः ॥ २२ ॥
 
@@ -1588,11 +1792,15 @@ another sūtra 'न्यासापहार्यनपत्यः ' ३७,
 
 
 
-[जलोदरो दारत्यागी](# "अबलो दारत्यागी----क, दारत्यागी जलोदरी----विज्ञानेश्वरः.") ॥ २४ ॥
+जलोदरो दारत्यागी[^110] ॥ २४ ॥
+
+[^110]: "अबलो दारत्यागी----क, दारत्यागी जलोदरी----विज्ञानेश्वरः."
 
 ²कूटसाक्षी श्लिष्टपदुच्छ्रितजङ्घाचरणः ॥ २५ ॥
 
-विवाहविघ्नकर्ता [छिन्नोष्ठः](# "भिन्नोष्ठः----क.") ॥ २६ ॥ '
+विवाहविघ्नकर्ता छिन्नोष्ठः[^111] ॥ २६ ॥ '
+
+[^111]: "भिन्नोष्ठः----क."
 
 ⁴अवगोरणी छिन्नहस्तः ॥ २७ ॥
 
@@ -1600,11 +1808,15 @@ another sūtra 'न्यासापहार्यनपत्यः ' ३७,
 
 अनिमन्त्रितभोजी वायसः ॥ २९ ॥
 
-[मृष्टैकभोजी](# "इष्टैरभोजी---क; मिष्टैकभोजी----मदनपारिजातः")वानरः ॥ ३० ॥
+मृष्टैकभोजी[^112]वानरः ॥ ३० ॥
+
+[^112]: "इष्टैरभोजी---क; मिष्टैकभोजी----मदनपारिजातः"
 
 मातृघ्नोऽन्धः ॥ ३१ ॥
 
-[स्नुषागामी](# "स्नुषाहा वृषः ----क.") वातवृषणः ॥ ३२ ॥
+स्नुषागामी[^113] वातवृषणः ॥ ३२ ॥
+
+[^113]: "स्नुषाहा वृषः ----क."
 
 चतुष्पथे विण्मूत्रविसर्जनेन⁸ मूत्रकृछ्री ॥ ३३ ॥  
 कन्यादूषकः षण्ढ⁹॥ ३४ ॥
@@ -1634,27 +1846,45 @@ Sūtra42 by विज्ञानेश्वर, माधव, वैद्य�
 
 
 
-[ईष्यालुर्मशकः](# "हीर्ष्यालुर्मशक ---अ, माधव cites Sūtra 46 before this.") ॥ ३५ ॥
+ईष्यालुर्मशकः[^114] ॥ ३५ ॥
 
-[पित्रा](# "पित्रोः --- माधव .")विवदमानोऽपस्मारी ॥ ३६ ॥
+[^114]: "हीर्ष्यालुर्मशक ---अ, माधव cites Sūtra 46 before this."
+
+पित्रा[^115]विवदमानोऽपस्मारी ॥ ३६ ॥
+
+[^115]: "पित्रोः --- माधव ."
 
 न्यासापहार्यनपत्यः ॥ ३७॥
 
-बालघाती [मृतापत्यः](# "Sūtra 38 is omitted by विज्ञानेश्वर, माधव, वेद्यनाथ and मदनपारिजात.")॥ ३८ ॥
+बालघाती मृतापत्यः[^116]॥ ३८ ॥
+
+[^116]: "Sūtra 38 is omitted by विज्ञानेश्वर, माधव, वेद्यनाथ and मदनपारिजात."
 
 ⁴रत्नापहार्यतिदरिद्रः ॥ ३९ ॥
 
-[विद्याविक्रयी](# "विद्याक्रयी-अ, वेदविक्रयी-माधवः")[पुरुषमृगः](# "पुरुषः मृगः ----मदनपारिजात") ॥ ४० ॥
+विद्याविक्रयी[^117]पुरुषमृगः[^118] ॥ ४० ॥
 
-[वेदविक्रयी](# " Sūtra41 is omitted by माधवः") द्वीपी ॥ ४१ ॥
+[^117]: "विद्याक्रयी-अ, वेदविक्रयी-माधवः"
 
-[बहुयाजको](# " बहुवाचको-वैद्यनाथ .")जलप्लवः⁹ ॥ ४२ ॥
+[^118]: "पुरुषः मृगः ----मदनपारिजात"
 
-[यतस्ततोऽश्नन्](# "यस्ततोऽश्नन्-अ ; यत्र तत्राश्नन्---मदनपारिजातः ।")
+वेदविक्रयी[^119] द्वीपी ॥ ४१ ॥
+
+[^119]: " Sūtra41 is omitted by माधवः"
+
+बहुयाजको[^120]जलप्लवः⁹ ॥ ४२ ॥
+
+[^120]: " बहुवाचको-वैद्यनाथ ."
+
+यतस्ततोऽश्नन्[^121]
 मार्जारः ॥ ४३ ॥
 
-[कक्षवनदाही](# "कक्षवनदहनात्----विज्ञानेश्वरः, कक्षवनदाहकः –वैद्यनाथः ।")
+[^121]: "यस्ततोऽश्नन्-अ ; यत्र तत्राश्नन्---मदनपारिजातः ।"
+
+कक्षवनदाही[^122]
  खद्योत ॥ ४४ ॥
+
+[^122]: "कक्षवनदहनात्----विज्ञानेश्वरः, कक्षवनदाहकः –वैद्यनाथः ।"
 
 ¹²वामाचारो मुखविगन्धि ॥ ४५ ॥
 
@@ -1670,16 +1900,22 @@ Sūtra42 by विज्ञानेश्वर, माधव, वैद्य�
 
 
 
-पर्युषितभोजी [कृमिः](# "Sūtra 46 is omitted here and cited after Sūtra 34 by माधव.")॥ ४६॥
+पर्युषितभोजी कृमिः[^123]॥ ४६॥
+
+[^123]: "Sūtra 46 is omitted here and cited after Sūtra 34 by माधव."
 
 अदत्तादायी बलीवर्दः ॥ ४७ ॥
 
 मत्सरी भ्रमरः ॥ ४८ ॥
 
 अग्न्युत्सादी
-[मण्डलकुष्ठी](# "मन्दकुष्ठिः----अ, मण्डलकुक्षी-----वैद्यनाथ") ॥ ४९ ॥
+मण्डलकुष्ठी[^124] ॥ ४९ ॥
 
-[शूद्राचार्यः](# "शूद्राचार -अ")श्वपाकः ॥ ५० ॥
+[^124]: "मन्दकुष्ठिः----अ, मण्डलकुक्षी-----वैद्यनाथ"
+
+शूद्राचार्यः[^125]श्वपाकः ॥ ५० ॥
+
+[^125]: "शूद्राचार -अ"
 
 गोहर्ता सर्पः ॥ ५१ ॥
 
@@ -1687,12 +1923,22 @@ Sūtra42 by विज्ञानेश्वर, माधव, वैद्य�
 
 ⁵चण्डालीपुल्कसीगाम्यजगरः⁶॥ ५३ ॥
 
-[प्रव्रजितागामी](# "प्रव्रजितागमने---विज्ञानेश्वरमाधववैद्यनाथमदनपारिजाता")मरुपिशाचः
+प्रव्रजितागामी[^126]मरुपिशाचः
 ॥५४ ॥
 
-[शूद्रीगामी](# "शूद्रीगमने----विज्ञानेश्वर , शूद्रागमने----माधववैद्यनाथमदनपारिजाता")[दीर्घकीटः](# "दीपधटः-वैद्यनाथ .") ॥ ५५ ॥
+[^126]: "प्रव्रजितागमने---विज्ञानेश्वरमाधववैद्यनाथमदनपारिजाता"
 
-[सवर्णागामी](# "सवर्णाभिगामी-----विज्ञानेश्वरमाधववैद्यनाथमदनपारिजाताः") [दरिद्र](# "माधव cites Sūtra63 after Sūtra56. See परा. मा. प्रा., पृ. ५१८")॥ ५६ ॥
+शूद्रीगामी[^127]दीर्घकीटः[^128] ॥ ५५ ॥
+
+[^127]: "शूद्रीगमने----विज्ञानेश्वर , शूद्रागमने----माधववैद्यनाथमदनपारिजाता"
+
+[^128]: "दीपधटः-वैद्यनाथ ."
+
+सवर्णागामी[^129] दरिद्र[^130]॥ ५६ ॥
+
+[^129]: "सवर्णाभिगामी-----विज्ञानेश्वरमाधववैद्यनाथमदनपारिजाताः"
+
+[^130]: "माधव cites Sūtra63 after Sūtra56. See परा. मा. प्रा., पृ. ५१८"
 
 ----------------------------------------  
 
@@ -1703,22 +1949,42 @@ The order of citation by माधव is differentSūtras 53 to 56 and 63 are om
 
 
 
-[जलहारी](# "जलापहारी---माधवः --- ibid , p 515")[मत्स्यः](# "वैद्यनाथ cites one additional Sūtraafter this--- ‘ पञ्चमहापातकानि मिथ्यः’")॥ ५७ ॥
+जलहारी[^131]मत्स्यः[^132]॥ ५७ ॥
 
-[क्षीरहारी](# "क्षारहारी---- वैद्यनाथः.")
-[बकः](# "भषक ---- क, बलाकः ---विज्ञानेश्वरमाधववैद्यनाथमदनपारिजाता..") ॥ ५८ ॥
+[^131]: "जलापहारी---माधवः --- ibid , p 515"
 
-[वार्धुषिकोऽङ्गहीनः](# "Sūtras59 to64 are omitted by माधव.  6cf , वार्धुषिको भ्रामरी । विष्णु , ४५, २६.")॥ ५९ ॥
+[^132]: "वैद्यनाथ cites one additional Sūtraafter this--- ‘ पञ्चमहापातकानि मिथ्यः’"
 
-[अविक्रेयविक्रयी](# "विक्रेयक्रिया-अ.")गृध्रः॥६० ॥
+क्षीरहारी[^133]
+बकः[^134] ॥ ५८ ॥
+
+[^133]: "क्षारहारी---- वैद्यनाथः."
+
+[^134]: "भषक ---- क, बलाकः ---विज्ञानेश्वरमाधववैद्यनाथमदनपारिजाता.."
+
+वार्धुषिकोऽङ्गहीनः[^135]॥ ५९ ॥
+
+[^135]: "Sūtras59 to64 are omitted by माधव.  6cf , वार्धुषिको भ्रामरी । विष्णु , ४५, २६."
+
+अविक्रेयविक्रयी[^136]गृध्रः॥६० ॥
+
+[^136]: "विक्रेयक्रिया-अ."
 
 राजमहिषीगामी नंपुसकः⁸ ॥ ६१ ॥
 
-[राजाक्रोशको](# "दुराक्रोशी----वैद्यनाथः ।")गर्दभः॥ ६२ ॥
+राजाक्रोशको[^137]गर्दभः॥ ६२ ॥
 
-[गो](# "गो-omitted by अ.")गामी मण्डूकः ॥ ६३ ॥
+[^137]: "दुराक्रोशी----वैद्यनाथः ।"
 
-[अनध्यायेऽध्ययने](# "अनध्यायाध्ययने----विज्ञानेश्वर , अनध्यायाध्यायी----वैद्यनाथ .")[सृगालः](# "शृगाल ---- मदनपारिजात .") ॥ ६४ ॥
+गो[^138]गामी मण्डूकः ॥ ६३ ॥
+
+[^138]: "गो-omitted by अ."
+
+अनध्यायेऽध्ययने[^139]सृगालः[^140] ॥ ६४ ॥
+
+[^139]: "अनध्यायाध्ययने----विज्ञानेश्वर , अनध्यायाध्यायी----वैद्यनाथ ."
+
+[^140]: "शृगाल ---- मदनपारिजात ."
 
 परद्रव्यापहारी परप्रेष्यो ¹³भवति¹⁴ ॥ ६५ ॥
 
@@ -1735,7 +2001,9 @@ The order of citation by माधव is differentSūtras 53 to 56 and 63 are om
 
 
 
-¹एतादृशै[पापैः](# "प्राप्ते-अ.") स्त्रियोऽप्येतेषामेव जन्तूनां भार्यात्वमुपगच्छन्ति³॥ ६६ ॥
+¹एतादृशैपापैः[^141] स्त्रियोऽप्येतेषामेव जन्तूनां भार्यात्वमुपगच्छन्ति³॥ ६६ ॥
+
+[^141]: "प्राप्ते-अ."
 
 
 
@@ -1779,9 +2047,17 @@ The order of citation by माधव is differentSūtras 53 to 56 and 63 are om
 
 
 
-अथ ब्रह्महत्यासमं [पातकं गुरूणा](# "पातक वक्ष्यामो गुरुणाº ---क")मप्यधिक्षेपो वेदनिन्दा सुहृद्वधोऽधीतस्य [च](# "च--- omitted by क.") नाशनम्⁶ ॥ १॥
+अथ ब्रह्महत्यासमं पातकं गुरूणा[^142]मप्यधिक्षेपो वेदनिन्दा सुहृद्वधोऽधीतस्य च[^143] नाशनम्⁶ ॥ १॥
 
-अथ सुरापानसमं [मत्या लशुन](# "मत्स्यलशुनº ---क")छत्राक[विड्वराहग्रामकुक्कुट](# "ºविड्वाहकुक्कुट०-अ.")पलाण्डुगृञ्जनभक्षणं कौटिल्यं रजस्वलामुखास्वाद⁹श्चतुर्वेदविदहमित्यनृतभाषणं च¹⁰ ॥२॥
+[^142]: "पातक वक्ष्यामो गुरुणाº ---क"
+
+[^143]: "च--- omitted by क."
+
+अथ सुरापानसमं मत्या लशुन[^144]छत्राकविड्वराहग्रामकुक्कुट[^145]पलाण्डुगृञ्जनभक्षणं कौटिल्यं रजस्वलामुखास्वाद⁹श्चतुर्वेदविदहमित्यनृतभाषणं च¹⁰ ॥२॥
+
+[^144]: "मत्स्यलशुनº ---क"
+
+[^145]: "ºविड्वाहकुक्कुट०-अ."
 
 -----------------------------------------------------------  
 
@@ -1805,8 +2081,12 @@ The order of citation by माधव is differentSūtras 53 to 56 and 63 are om
 
 अथ सुवर्णस्तेयसमं मनुष्यस्त्रीभूधेनुनिक्षेपाश्वरत्नापहरणं सर्वम्¹ ॥३॥
 
-अथ [गुरुतल्पसमं](# "गुरुतल्पगतिसमं-क.")
-[मित्रभार्याकुमारीभगिनीचण्डालीसमान](# "मित्रभार्याकुमारीचाण्डालीभागिनीसमानº----अ.")गोत्रास्नुषागमनं प्रत्येकम्⁴ ॥ ४ ॥
+अथ गुरुतल्पसमं[^146]
+मित्रभार्याकुमारीभगिनीचण्डालीसमान[^147]गोत्रास्नुषागमनं प्रत्येकम्⁴ ॥ ४ ॥
+
+[^146]: "गुरुतल्पगतिसमं-क."
+
+[^147]: "मित्रभार्याकुमारीचाण्डालीभागिनीसमानº----अ."
 
 छत्राकं विड्वाराहं च लशुन ग्रामकुक्कुटम् ।  
 पलाण्डु गृञ्जन चैव मत्या जग्ध्वा पतेन्नरः॥ मनु , ५, १९
@@ -2845,17 +3125,33 @@ etc*— *विष्णुः ,३६,७–८.*
 
 नवमोऽध्यायः।
 
-कामतैः[स्वैरिशूद्रागमने](# "स्वैरिशूद्य्रनुगमने—अ") सचैलस्नात उदकुम्भं दद्यात् ॥१
+कामतैःस्वैरिशूद्रागमने[^148] सचैलस्नात उदकुम्भं दद्यात् ॥१
 
-[वैश्यागमने](# " वेश्यागमने—क.")[चतुर्थकालाहारो](# "चतुर्थकालहारो—अ ; चतुर्थकालापहारो—क.")ब्राह्मणान् भोजयेत् ॥२॥
+[^148]: "स्वैरिशूद्य्रनुगमने—अ"
 
-[क्षत्रियागमने](# "क्षत्रियानुगमने—अ, क्षत्र्यागमने—क.") [त्रिदिनमुपोष्य](# "यवादिक—अ") यवाढक दद्यात्^(६)॥ ३ ॥
+वैश्यागमने[^149]चतुर्थकालाहारो[^150]ब्राह्मणान् भोजयेत् ॥२॥
 
-तत्र गर्भोत्पत्तौ द्विगुणं [चरेत्](# "cf., गमने तु व्रत यत्स्याद्गर्भे तद्द्विगुण भवेत् ॥ उशना, याज्ञ. मिता., ३, २६५; पृ. ४२८; परा. मा. प्रा., पृ. २७०; स्मृ.मु., पृ. ८८८.") ॥ ४ ॥
+[^149]: " वेश्यागमने—क."
 
-[शूद्रश्चेद्ब्राह्मणीमधिगच्छेद्वीरणपत्रैर्वेष्टयित्वा](# "शूद्रश्चेद्ब्राह्मणीगमने वीरणपत्रैर्वेष्टयित्वा—अ. ") शूदमग्नौपातयेत् ॥५॥
+[^150]: "चतुर्थकालहारो—अ ; चतुर्थकालापहारो—क."
 
-ब्राह्मण्याः शिरसि वपनं [कारयित्वा](# "कृत्वा सर्वेषामधिगच्छेदभ्यज्य नग्नाम्बरीमारोप्य महारथमनुव्राजयेत् पूतो—अ ") सर्पिषाभ्यज्य नग्ना खरमारोप्य महापथमनुव्राजयेत् पूता भवतीति विज्ञायते^(१०) ॥ ६ ॥
+क्षत्रियागमने[^151] त्रिदिनमुपोष्य[^152] यवाढक दद्यात्^(६)॥ ३ ॥
+
+[^151]: "क्षत्रियानुगमने—अ, क्षत्र्यागमने—क."
+
+[^152]: "यवादिक—अ"
+
+तत्र गर्भोत्पत्तौ द्विगुणं चरेत्[^153] ॥ ४ ॥
+
+[^153]: "cf., गमने तु व्रत यत्स्याद्गर्भे तद्द्विगुण भवेत् ॥ उशना, याज्ञ. मिता., ३, २६५; पृ. ४२८; परा. मा. प्रा., पृ. २७०; स्मृ.मु., पृ. ८८८."
+
+शूद्रश्चेद्ब्राह्मणीमधिगच्छेद्वीरणपत्रैर्वेष्टयित्वा[^154] शूदमग्नौपातयेत् ॥५॥
+
+[^154]: "शूद्रश्चेद्ब्राह्मणीगमने वीरणपत्रैर्वेष्टयित्वा—अ. "
+
+ब्राह्मण्याः शिरसि वपनं कारयित्वा[^155] सर्पिषाभ्यज्य नग्ना खरमारोप्य महापथमनुव्राजयेत् पूता भवतीति विज्ञायते^(१०) ॥ ६ ॥
+
+[^155]: "कृत्वा सर्वेषामधिगच्छेदभ्यज्य नग्नाम्बरीमारोप्य महारथमनुव्राजयेत् पूतो—अ "
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -2871,19 +3167,39 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-[वैश्यश्चे](# " वैश्यश्च for वैश्यश्चेत्—अ.")द्ब्राह्मणीमधिगच्छेद्रोहितदर्भैर्वेष्टयित्वा वैश्यमग्नौ [प्रास्येत्](# " प्रास्य for प्रास्येत्—अ") ॥ ७॥
+वैश्यश्चे[^156]द्ब्राह्मणीमधिगच्छेद्रोहितदर्भैर्वेष्टयित्वा वैश्यमग्नौ प्रास्येत्[^157] ॥ ७॥
 
-ब्राह्मण्या [गौरखरारोहणम्](# "गौरखरमारोहणम्—अ.") ॥ ८ ॥
+[^156]: " वैश्यश्च for वैश्यश्चेत्—अ."
 
-[क्षत्रियश्चेद्ब्रा](# "क्षत्रियश्च for क्षत्रियश्चेत्—अ")ह्मणीमधिगच्छेच्छरपत्रैर्वेष्टयित्वा क्षत्रियमग्नौ [प्रास्येत्](# "प्रास्य for प्रास्येत्—अ.") ॥ ९॥
+[^157]: " प्रास्य for प्रास्येत्—अ"
 
-ब्राह्मण्याः [खरारोहणं](# "खरारोपणं—क") पूर्ववत्⁷॥ १० ॥
+ब्राह्मण्या गौरखरारोहणम्[^158] ॥ ८ ॥
 
-[पाणिधृतभार्याया](# "पाणिगृहीताया भार्याया-क ") मुखे मैथुनं यश्चरेत् तस्येह निष्कृतिर्नास्तीत्येवं प्रजापतिराह⁹॥ ११॥
+[^158]: "गौरखरमारोहणम्—अ."
 
-रजस्वलायाः कामतः सकृद्गमने [सप्तरात्रव्रतम्](# "cf., अमानुषीषु पुरुष उदक्यायामयोनिषु । रेत, सिक्त्वा जले चैव कृच्छं सांतपनं चरेत् ॥ मनुः, ११, १७३. ") ॥ १२ ॥
+क्षत्रियश्चेद्ब्रा[^159]ह्मणीमधिगच्छेच्छरपत्रैर्वेष्टयित्वा क्षत्रियमग्नौ प्रास्येत्[^160] ॥ ९॥
 
-[अभ्यासे त्वतिकृच्](# "अभ्यसेत्प्रतिकृच्छ्र —अ ; अभ्यसेत्त्वतिकृच्छ्रं—क")छ्रंतत्र धेनुद्वय [च](# "cf., रजस्वला तु यो गच्छेद्गर्भिणीं पतितां तथा । तस्य पापविशुध्यर्थमतिकृच्छ्रो विशोधकः ॥ सवर्तः, श्लो. १६५")॥ १३ ॥
+[^159]: "क्षत्रियश्च for क्षत्रियश्चेत्—अ"
+
+[^160]: "प्रास्य for प्रास्येत्—अ."
+
+ब्राह्मण्याः खरारोहणं[^161] पूर्ववत्⁷॥ १० ॥
+
+[^161]: "खरारोपणं—क"
+
+पाणिधृतभार्याया[^162] मुखे मैथुनं यश्चरेत् तस्येह निष्कृतिर्नास्तीत्येवं प्रजापतिराह⁹॥ ११॥
+
+[^162]: "पाणिगृहीताया भार्याया-क "
+
+रजस्वलायाः कामतः सकृद्गमने सप्तरात्रव्रतम्[^163] ॥ १२ ॥
+
+[^163]: "cf., अमानुषीषु पुरुष उदक्यायामयोनिषु । रेत, सिक्त्वा जले चैव कृच्छं सांतपनं चरेत् ॥ मनुः, ११, १७३. "
+
+अभ्यासे त्वतिकृच्[^164]छ्रंतत्र धेनुद्वय च[^165]॥ १३ ॥
+
+[^164]: "अभ्यसेत्प्रतिकृच्छ्र —अ ; अभ्यसेत्त्वतिकृच्छ्रं—क"
+
+[^165]: "cf., रजस्वला तु यो गच्छेद्गर्भिणीं पतितां तथा । तस्य पापविशुध्यर्थमतिकृच्छ्रो विशोधकः ॥ सवर्तः, श्लो. १६५"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -2899,9 +3215,19 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
- श्व[मार्जार](# "मार्जाल for मार्जार—क") गोधामण्डूक [नकुल](# "नकुल cited twice by क")सर्पछुच्छुन्दरी[मूषकान्](# "मूषक्यो for मूषकान्—अ") हत्वा [कृच्छ्रं द्वादशरात्रं](# "कृच्छ्रद्वादशरात्रं—क.") चरेत् किचिद्दद्यात्कामतः⁵ ॥ १४ ॥
+ श्वमार्जार[^166] गोधामण्डूक नकुल[^167]सर्पछुच्छुन्दरीमूषकान्[^168] हत्वा कृच्छ्रं द्वादशरात्रं[^169] चरेत् किचिद्दद्यात्कामतः⁵ ॥ १४ ॥
 
-अनुक्तनिष्कृतीनामस्थिमता कृकलासादीना सहस्रं हत्वानम्थिमता जलूकादीना शकटपूर्णपरिमितं हत्वा [तप्तकृच्छ्रार्ध](# "तप्तकृच्छ्रार्थ-क.")ंधेनुद्वयं दद्यात्⁷ ॥१५॥
+[^166]: "मार्जाल for मार्जार—क"
+
+[^167]: "नकुल cited twice by क"
+
+[^168]: "मूषक्यो for मूषकान्—अ"
+
+[^169]: "कृच्छ्रद्वादशरात्रं—क."
+
+अनुक्तनिष्कृतीनामस्थिमता कृकलासादीना सहस्रं हत्वानम्थिमता जलूकादीना शकटपूर्णपरिमितं हत्वा तप्तकृच्छ्रार्ध[^170]ंधेनुद्वयं दद्यात्⁷ ॥१५॥
+
+[^170]: "तप्तकृच्छ्रार्थ-क."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -2939,11 +3265,19 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-वैदिककर्मार्थव्यतिरेकेण [वृक्षगुल्मलतादीना](# "वृक्षगुल्मलताना—अ.") छेदने गायत्रीशतंजपेत्² ॥ १६ ॥
+वैदिककर्मार्थव्यतिरेकेण वृक्षगुल्मलतादीना[^171] छेदने गायत्रीशतंजपेत्² ॥ १६ ॥
 
-कृष्यर्थे[लाङ्गलार्थ](# "लाङ्गलार्थछेदने दोष —अ") छेदने न [दोषः](# "cf, फलपुष्पोपगान् पादपान्न हिस्यात् । कर्षणकरणार्थ चोपहन्यात् ॥ वसिष्ठ., १९, ११—१२.") ॥ १७ ॥
+[^171]: "वृक्षगुल्मलताना—अ."
 
-काकगृध्रादिपक्षिभिर्दष्ट [पुरुषो](# " काकगृध्रादिपक्षिभिर्दष्टपुरुषो—क.")ऽन्तर्जले प्राणायामत्रयं कृत्वा घृतं प्राश्य विशुध्यति नाभेरधोदेशे⁶ ॥ १८ ॥
+कृष्यर्थेलाङ्गलार्थ[^172] छेदने न दोषः[^173] ॥ १७ ॥
+
+[^172]: "लाङ्गलार्थछेदने दोष —अ"
+
+[^173]: "cf, फलपुष्पोपगान् पादपान्न हिस्यात् । कर्षणकरणार्थ चोपहन्यात् ॥ वसिष्ठ., १९, ११—१२."
+
+काकगृध्रादिपक्षिभिर्दष्ट पुरुषो[^174]ऽन्तर्जले प्राणायामत्रयं कृत्वा घृतं प्राश्य विशुध्यति नाभेरधोदेशे⁶ ॥ १८ ॥
+
+[^174]: " काकगृध्रादिपक्षिभिर्दष्टपुरुषो—क."
 
 ऊर्ध्वदेशे तु द्विगुणं भवेत् ॥ १९ ॥
 
@@ -2975,7 +3309,9 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-मस्तके [तु](# "तु-omitted by क.") चतुर्गुणम्² ॥ २० ॥
+मस्तके तु[^175] चतुर्गुणम्² ॥ २० ॥
+
+[^175]: "तु-omitted by क."
 
 इति द्वितीयप्रश्ने नवमोऽध्यायः
 
@@ -3015,11 +3351,17 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-श्वजम्बूकरासभैर्दष्टा रजस्वला [पञ्चरात्रं](# "पञ्चरात्रनिराहारा-अ")निराहारा पञ्चगव्येन [शुध्यति](# "cf, रजस्वला यदा दष्टा शुना जम्बुकरासभः । पञ्चरात्र निराहारा पञ्चगव्येन शुध्यति । पुलस्त्यः, याज्ञ. मिता , ३, २७७ ; पृ. ४३८; परा. मा. प्रा., पृ. ५५, व्यास., परा. मा. प्रा., पृ. १२६].") ॥१॥
+श्वजम्बूकरासभैर्दष्टा रजस्वला पञ्चरात्रं[^176]निराहारा पञ्चगव्येन शुध्यति[^177] ॥१॥
+
+[^176]: "पञ्चरात्रनिराहारा-अ"
+
+[^177]: "cf, रजस्वला यदा दष्टा शुना जम्बुकरासभः । पञ्चरात्र निराहारा पञ्चगव्येन शुध्यति । पुलस्त्यः, याज्ञ. मिता , ३, २७७ ; पृ. ४३८; परा. मा. प्रा., पृ. ५५, व्यास., परा. मा. प्रा., पृ. १२६]."
 
 द्विगुणादि पूर्ववत्⁵ ॥२॥
 
-श्वादिभिर्गलितमवलीढं प्रदेशमद्धि [प्रक्षाल्याग्नौ](# "श्वादिभिर्विगलितमपविद्ध प्रदेशमद्भिः सम्यक् प्रक्षाल्याग्नौ—अ") निष्टपनं कुर्यात्तेन शुद्धिर्भवति⁷ ॥ ३ ॥
+श्वादिभिर्गलितमवलीढं प्रदेशमद्धि प्रक्षाल्याग्नौ[^178] निष्टपनं कुर्यात्तेन शुद्धिर्भवति⁷ ॥ ३ ॥
+
+[^178]: "श्वादिभिर्विगलितमपविद्ध प्रदेशमद्भिः सम्यक् प्रक्षाल्याग्नौ—अ"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3049,11 +3391,17 @@ etc*— *विष्णुः ,३६,७–८.*
 
 आत्मनोऽर्थे क्रियारम्भ मद्यपस्त्रीनिषेवणं तदेव²॥ ७ ॥
 
-नारीणा विक्रयं कृत्वा [चरेच्चान्द्रायणव्रतम्](# "चरेचन्द्रव्रतम्—क")⁴[](# "चरेचन्द्रव्रतम्—क")॥ ८ ॥
+नारीणा विक्रयं कृत्वा चरेच्चान्द्रायणव्रतम्[^179]⁴[][^179]॥ ८ ॥
 
-ब्रह्मसूत्रं विना भुड्क्ते विण्मूत्रं कुरुत गायत्र्यष्टसहस्रं प्राणायामेन [शुध्यति](# "cf , ब्रह्मसूत्रं विना भुङ्क्ते विण्मूत्र कुरुतेऽथवा । गायव्यष्टमहस्रेण प्राणायामेन शुध्यति ॥ मरीचि , याज्ञ. मिता., ३, २८१.") ॥ ९
+[^179]: "चरेचन्द्रव्रतम्—क"
 
-ब्राह्मणीशूद्र्यो रजस्वलयोरन्योन्यस्पर्शे क्रमेण कृच्छ्रेण दानेन [शुद्धि](# "cf., स्रष्टा रजस्वलान्योन्यं ब्राह्मणी शुद्रजा तथा । कृच्छ्रेण शुध्यते पूर्वा शूद्रा दानेन शुध्यति ॥ पराशरः, ७, १४-१५.") ॥ १० ॥
+ब्रह्मसूत्रं विना भुड्क्ते विण्मूत्रं कुरुत गायत्र्यष्टसहस्रं प्राणायामेन शुध्यति[^181] ॥ ९
+
+[^181]: "cf , ब्रह्मसूत्रं विना भुङ्क्ते विण्मूत्र कुरुतेऽथवा । गायव्यष्टमहस्रेण प्राणायामेन शुध्यति ॥ मरीचि , याज्ञ. मिता., ३, २८१."
+
+ब्राह्मणीशूद्र्यो रजस्वलयोरन्योन्यस्पर्शे क्रमेण कृच्छ्रेण दानेन शुद्धि[^182] ॥ १० ॥
+
+[^182]: "cf., स्रष्टा रजस्वलान्योन्यं ब्राह्मणी शुद्रजा तथा । कृच्छ्रेण शुध्यते पूर्वा शूद्रा दानेन शुध्यति ॥ पराशरः, ७, १४-१५."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3089,15 +3437,27 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-तस्करराजभृत्यवृक्षारोहणवृत्तिकगरदाग्निदाश्व[गजारोहणवृत्तिकरङ्गोपजीविगणान्नोपजीवि-शूद्रोपाध्याय](# "गजारोहणवृत्तिकरकोपजीविशूद्रोपाध्याय —अ.")नक्षत्रोपजीविब्रह्मोपजीविनाम् ॥ ११ ॥
+तस्करराजभृत्यवृक्षारोहणवृत्तिकगरदाग्निदाश्वगजारोहणवृत्तिकरङ्गोपजीविगणान्नोपजीवि-शूद्रोपाध्याय[^183]नक्षत्रोपजीविब्रह्मोपजीविनाम् ॥ ११ ॥
 
-द्विजाना कार्येषु मूल्येन परिचारक स [ब्रह्मोपजीवीत्युच्यते](# "cf., ब्रह्मजीवी ब्राह्मणकार्येषु (द्विजकार्येषु) मूल्येन परिचारक । याज्ञ. मिता., ३, २८८; पृ ४४९.") ॥१२॥
+[^183]: "गजारोहणवृत्तिकरकोपजीविशूद्रोपाध्याय —अ."
 
-देवलकपुरोहितधूर्त[कितव](# " कैतव for कितव—अ.")कूटकारापत्यमनुष्यपशु[विक्रयिणा](# "विक्रयणं for विक्रयिणां —अ.")सर्वस्वत्यागानन्तरं वार्षिकं कृत्वा पितृतर्पणं कृत्वा धेनूर्दद्यात्⁵ ॥ १३ ॥
+द्विजाना कार्येषु मूल्येन परिचारक स ब्रह्मोपजीवीत्युच्यते[^184] मूल्येन परिचारक । याज्ञ. मिता., ३, २८८; पृ ४४९.") ॥१२॥
 
-ब्राह्मणस्य [समुद्रयाने](# "समुद्रयोनौ—अ") त्रैवार्षिकम्⁷॥ १४॥
+[^184]: "cf., ब्रह्मजीवी ब्राह्मणकार्येषु (द्विजकार्येषु
 
-हिरण्यदानं च सहस्रसंख्याकं [म्लेच्छादिभ्यो](# "म्लेच्छादिभोजन—अ.") न गृह्णीयात् ॥१५॥
+देवलकपुरोहितधूर्तकितव[^185]कूटकारापत्यमनुष्यपशुविक्रयिणा[^186]सर्वस्वत्यागानन्तरं वार्षिकं कृत्वा पितृतर्पणं कृत्वा धेनूर्दद्यात्⁵ ॥ १३ ॥
+
+[^185]: " कैतव for कितव—अ."
+
+[^186]: "विक्रयणं for विक्रयिणां —अ."
+
+ब्राह्मणस्य समुद्रयाने[^187] त्रैवार्षिकम्⁷॥ १४॥
+
+[^187]: "समुद्रयोनौ—अ"
+
+हिरण्यदानं च सहस्रसंख्याकं म्लेच्छादिभ्यो[^188] न गृह्णीयात् ॥१५॥
+
+[^188]: "म्लेच्छादिभोजन—अ."
 
 गृह्णीयाच्चेबाह्मणेभ्यो दद्यात्⁹॥ १६ ॥  
 
@@ -3116,11 +3476,21 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-[सत्परिग्रहपरित्यागी](# "सपरिग्रहपरित्यागी—अ") [मर्कटः](# "कर्मठ—क") ॥ १७ ॥
+सत्परिग्रहपरित्यागी[^189] मर्कटः[^190] ॥ १७ ॥
 
-[अदत्तादाने](# " श्मशाने—क.")जम्बूकः गृध्रो द्वादश जन्मानि दश जन्मानि सूकरः श्वानयोनिशतं गत्वा जायते चण्डालेषु ॥ १८ ॥
+[^189]: "सपरिग्रहपरित्यागी—अ"
 
-शाल्मलं [शणपुष्पं](# "शणपुष्ट—क")[करनिर्मथितं](# "करनिर्मथितदधि—अ.") दधि बहिर्वेदि पुरोडाशं जग्ध्वानाश्नीयादहर्निशम्⁶ ॥ १९
+[^190]: "कर्मठ—क"
+
+अदत्तादाने[^191]जम्बूकः गृध्रो द्वादश जन्मानि दश जन्मानि सूकरः श्वानयोनिशतं गत्वा जायते चण्डालेषु ॥ १८ ॥
+
+[^191]: " श्मशाने—क."
+
+शाल्मलं शणपुष्पं[^192]करनिर्मथितं[^193] दधि बहिर्वेदि पुरोडाशं जग्ध्वानाश्नीयादहर्निशम्⁶ ॥ १९
+
+[^192]: "शणपुष्ट—क"
+
+[^193]: "करनिर्मथितदधि—अ."
 
 इति द्वितीयप्रश्नो दशमोऽध्यायः
 
@@ -3162,9 +3532,13 @@ etc*— *विष्णुः ,३६,७–८.*
 
 एकादशोऽध्यायः।
 
-अनिर्दशाहगोमहिषीक्षीर[पाने](# "प्राशने for पाने — अ.")षड्रात्रमभोजनम्⁸ ॥ १ ॥
+अनिर्दशाहगोमहिषीक्षीरपाने[^194]षड्रात्रमभोजनम्⁸ ॥ १ ॥
 
-सर्वासा [द्विस्तनीनामजावमेतदेव](# "द्विस्तनीनामेव वर्जयेत्तदेव-अ")¹⁰ ॥ २ ॥
+[^194]: "प्राशने for पाने — अ."
+
+सर्वासा द्विस्तनीनामजावमेतदेव[^195]¹⁰ ॥ २ ॥
+
+[^195]: "द्विस्तनीनामेव वर्जयेत्तदेव-अ"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3186,11 +3560,23 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-[यदा भाजनस्थमन्नं](# "यथाभोजनस्थमन्न—अ") [केशमक्षिकादिना](# "केशमक्षिकादूषितं—क") दुषितं त[द्व्युदस्याप उपस्पृशेत्](# "व्युदक्योप उपस्पृशेत्—अ") ॥ ३ ॥
+यदा भाजनस्थमन्नं[^196] केशमक्षिकादिना[^197] दुषितं तद्व्युदस्याप उपस्पृशेत्[^198] ॥ ३ ॥
 
-[तच्चान्नं](# "This sūtra is omitted by क.") भस्मना स्पृशेत्⁵ ॥ ४ ॥
+[^196]: "यथाभोजनस्थमन्न—अ"
 
-शुनामुच्छिष्टं भुक्त्वा मासमेकं गवाघ्रातं काकोच्छिष्टं [भुक्त्वा](# "भुक्त्वा —omitted by क") [पक्षं](# "पक्षव्रती भवेत्—अ; पक्षव्रत भवेत्—क") व्रती भवेत्⁸ ॥ ५ ॥
+[^197]: "केशमक्षिकादूषितं—क"
+
+[^198]: "व्युदक्योप उपस्पृशेत्—अ"
+
+तच्चान्नं[^199] भस्मना स्पृशेत्⁵ ॥ ४ ॥
+
+[^199]: "This sūtra is omitted by क."
+
+शुनामुच्छिष्टं भुक्त्वा मासमेकं गवाघ्रातं काकोच्छिष्टं भुक्त्वा[^200] पक्षं[^201] व्रती भवेत्⁸ ॥ ५ ॥
+
+[^200]: "भुक्त्वा —omitted by क"
+
+[^201]: "पक्षव्रती भवेत्—अ; पक्षव्रत भवेत्—क"
 
 ब्राह्मणः शुदोच्छिष्टाशने सप्तरात्रं पञ्चगव्यं पिबेत् ॥ ६॥
 
@@ -3200,7 +3586,9 @@ etc*— *विष्णुः ,३६,७–८.*
 
 ब्राह्मणोच्छिष्टाशने त्वेकाहम्⁹ ॥ ९ ॥
 
-सर्वत्र सुवर्णपञ्चकं पञ्च [धेनूर्दद्यात](# "cf. हिरण्यं ब्राह्मणाय दद्याद्गा वाचार्याय ॥ गौतम., २०, १३") ॥ १० ॥
+सर्वत्र सुवर्णपञ्चकं पञ्च धेनूर्दद्यात[^202] ॥ १० ॥
+
+[^202]: "cf. हिरण्यं ब्राह्मणाय दद्याद्गा वाचार्याय ॥ गौतम., २०, १३"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3228,17 +3616,31 @@ etc*— *विष्णुः ,३६,७–८.*
 
 पितुज्येष्ठस्य च भ्रातुरुच्छिष्टं भोक्तव्यम्¹॥ ११ ॥
 
-चण्डालपतितादीनामुच्छिष्टान्न[भक्षणे](# "भोजने for भक्षणे — क.") चान्द्रायणं विप्रः ॥ १२ ॥
+चण्डालपतितादीनामुच्छिष्टान्नभक्षणे[^203] चान्द्रायणं विप्रः ॥ १२ ॥
 
-[क्षत्रियस्तु](# "क्षत्रियस्य — अ") सातपनम्⁴ ॥ १३ ॥
+[^203]: "भोजने for भक्षणे — क."
+
+क्षत्रियस्तु[^204] सातपनम्⁴ ॥ १३ ॥
+
+[^204]: "क्षत्रियस्य — अ"
 
 द्विगुणसुवर्णादि पूर्ववत् ॥ १४ ॥
 
-[दीपोच्छिष्टं](# "द्विजोच्छिष्टं —अ ; विप्रोच्छिष्टं —क ") रात्रौ [रथ्याहृत](# "दध्याहृत० —अ")मभ्यङ्गशिष्टं [च](# "च —omitted by अ.") तैलं भुक्त्वा नक्तेन शुध्यति⁸ ॥ १५॥
+दीपोच्छिष्टं[^205] रात्रौ रथ्याहृत[^206]मभ्यङ्गशिष्टं च[^207] तैलं भुक्त्वा नक्तेन शुध्यति⁸ ॥ १५॥
 
-[यत्किंचिद्भाजने पीतशेषं](# "यत्किंचिद्भोजने पितृशेषं — अ") मुखनि सृतं तदभोज्यम् ॥ १६ ॥
+[^205]: "द्विजोच्छिष्टं —अ ; विप्रोच्छिष्टं —क "
 
-भोजने [चान्द्रायणमभ्यासे](# "चान्द्रायणमभ्यसेत् - अ")¹¹ ॥ १७ ॥
+[^206]: "दध्याहृत० —अ"
+
+[^207]: "च —omitted by अ."
+
+यत्किंचिद्भाजने पीतशेषं[^208] मुखनि सृतं तदभोज्यम् ॥ १६ ॥
+
+[^208]: "यत्किंचिद्भोजने पितृशेषं — अ"
+
+भोजने चान्द्रायणमभ्यासे[^209]¹¹ ॥ १७ ॥
+
+[^209]: "चान्द्रायणमभ्यसेत् - अ"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3278,17 +3680,35 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-अमेध्यपतित [चण्डाल](# "चण्डाल for चण्डाल - अ")पुल्कसरजस्वलावधूतकुष्ठिकुनखिसंस्पृष्टानि [भुक्त्वा कृच्छ्रं चरेत्](# "भुक्त्वा कृच्छ्रं चरेत्-omitted by अ.") ॥ १८ ॥
+अमेध्यपतित चण्डाल[^210]पुल्कसरजस्वलावधूतकुष्ठिकुनखिसंस्पृष्टानि भुक्त्वा कृच्छ्रं चरेत्[^211] ॥ १८ ॥
 
-[अ](# " This sūtra is omitted byअ")कामतोऽर्धम्⁴ ॥ १९ ॥
+[^210]: "चण्डाल for चण्डाल - अ"
 
-[रण्डापुत्र भोजनं कुर्विति यत्रान्नं](# "रात्र्यादौ पुत्रभोजनं वुक्तभोजनं कुर्वीत यत्तन्न-अ") [दाद्युस्तत्राहोरात्रोपवास](# "cf , कुत्सित्वा वा यत्रानं दास्तत्र प्रायश्चित्तमहोरात्रम् ॥ हारीतः, याज्ञ. मिता., ३, २८९; पृ ४५६") ॥२०॥
+[^211]: "भुक्त्वा कृच्छ्रं चरेत्-omitted by अ."
 
-[उत्थितस्तु यो](# "उत्थितस्तूभयो-अ.")भुङ्क्ते [वामकरनिर्मुक्तभाजने](# "वाक्करनिर्मुक्तभोजने-अ, वामकरभाजने-क") यो भुड़क्ते तस्य सांतपनम्⁹ ॥ २१॥
+अ[^212]कामतोऽर्धम्⁴ ॥ १९ ॥
 
-एकपडक्त्युपविष्टाना [ब्राह्मणाना](# "विप्राणां —क.") सह भोजने यद्येकोऽपि त्यजेत्पात्रं शेषमन्नं न भोजयेत् ॥ २२ ॥
+[^212]: " This sūtra is omitted byअ"
 
-[मोहाद्भुक्त्वा](# "मोहाच्चेद्भुक्त्वा - अ.") कृच्छ्रं सान्तपनं चरेत्¹² ॥ २३ ॥
+रण्डापुत्र भोजनं कुर्विति यत्रान्नं[^213] दाद्युस्तत्राहोरात्रोपवास[^214] ॥२०॥
+
+[^213]: "रात्र्यादौ पुत्रभोजनं वुक्तभोजनं कुर्वीत यत्तन्न-अ"
+
+[^214]: "cf , कुत्सित्वा वा यत्रानं दास्तत्र प्रायश्चित्तमहोरात्रम् ॥ हारीतः, याज्ञ. मिता., ३, २८९; पृ ४५६"
+
+उत्थितस्तु यो[^215]भुङ्क्ते वामकरनिर्मुक्तभाजने[^216] यो भुड़क्ते तस्य सांतपनम्⁹ ॥ २१॥
+
+[^215]: "उत्थितस्तूभयो-अ."
+
+[^216]: "वाक्करनिर्मुक्तभोजने-अ, वामकरभाजने-क"
+
+एकपडक्त्युपविष्टाना ब्राह्मणाना[^217] सह भोजने यद्येकोऽपि त्यजेत्पात्रं शेषमन्नं न भोजयेत् ॥ २२ ॥
+
+[^217]: "विप्राणां —क."
+
+मोहाद्भुक्त्वा[^218] कृच्छ्रं सान्तपनं चरेत्¹² ॥ २३ ॥
+
+[^218]: "मोहाच्चेद्भुक्त्वा - अ."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3330,9 +3750,15 @@ etc*— *विष्णुः ,३६,७–८.*
 
 शूद्रः पादम्² ॥ २९ ॥
 
-अज्ञानात्तु [त्र्यहेण](# "प्राजापत्येन-क") शुध्येत्⁴॥ ३० ॥
+अज्ञानात्तु त्र्यहेण[^219] शुध्येत्⁴॥ ३० ॥
 
-[अन्त्यजसंबन्धादल्पजलाशये](# " अन्यजं सम वाल्पजलाशये-क.")[कूपवत्](# " cf , जलाशयेष्वथाल्पेषु स्थावरेषु वसुधरे। कूपवत्कथिता शुद्धिर्महत्सु न च दूषणम् ॥ विष्णु., २३, ४६. ।") ॥ ३१ ॥
+[^219]: "प्राजापत्येन-क"
+
+अन्त्यजसंबन्धादल्पजलाशये[^220]कूपवत्[^221] ॥ ३१ ॥
+
+[^220]: " अन्यजं सम वाल्पजलाशये-क."
+
+[^221]: " cf , जलाशयेष्वथाल्पेषु स्थावरेषु वसुधरे। कूपवत्कथिता शुद्धिर्महत्सु न च दूषणम् ॥ विष्णु., २३, ४६. ।"
 
 इति द्वितीयप्रश्ने एकादशोऽध्यायः।
 
@@ -3402,8 +3828,12 @@ etc*— *विष्णुः ,३६,७–८.*
 
 द्वादशोऽध्यायः।
 
-म्लेच्छादीना पुष्करिण्यां [ह्रदे चैकदेशजलं पीत्वा जानुदघ्नं](# "ह्रादे च जल पीत्वा जानुदघ्नं-क, ह्रदैकदेशजल पीत्वा जानुदाघ्न-अ")
-[चेच्छुचिः](# "चेच्छुद्धि-अ") ॥ १ ॥
+म्लेच्छादीना पुष्करिण्यां ह्रदे चैकदेशजलं पीत्वा जानुदघ्नं[^222]
+चेच्छुचिः[^223] ॥ १ ॥
+
+[^222]: "ह्रादे च जल पीत्वा जानुदघ्नं-क, ह्रदैकदेशजल पीत्वा जानुदाघ्न-अ"
+
+[^223]: "चेच्छुद्धि-अ"
 
 अधस्तादशुचिः ॥ २ ॥
 
@@ -3411,7 +3841,9 @@ etc*— *विष्णुः ,३६,७–८.*
 
 अकामान्नक्तभोजी⁵ ॥४॥
 
-[रजकादिभाण्डस्थं जलं](# "रजकादिभाण्डस्थजलं-क") दधि पयः पिबेद्द्विजातीनां ब्रह्मकूर्चोपवासेन निष्कृतिः ॥ ५ ॥
+रजकादिभाण्डस्थं जलं[^224] दधि पयः पिबेद्द्विजातीनां ब्रह्मकूर्चोपवासेन निष्कृतिः ॥ ५ ॥
+
+[^224]: "रजकादिभाण्डस्थजलं-क"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3429,15 +3861,27 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-[शूद्रस्य](# " शूद्रस्योपवासेन-क.") दानेनोपवासेन² ॥ ६॥
+शूद्रस्य[^225] दानेनोपवासेन² ॥ ६॥
 
-अन्त्यजैः [खानितेषु](# "खनितेषु-अ") तटाककूपादिषु स्नात्वाचम्य [पीत्वा](# "स्नात्वा च पीत्वा-क")चाभ्यासे [प्राजापत्यम्](# "cf , अन्त्यजैः खानिताः कूपास्तडागा वाप्य एव वा। एषु स्नात्वा च पीत्वा च प्राजापत्येन शुध्यति ॥ (आपस्तम्ब) इति आपस्तम्बोक्तमभ्यासविषयं वेदितव्यम् ॥ याज्ञ मिता , ३, २८९, पृ. ४५७ .") ॥ ७
+[^225]: " शूद्रस्योपवासेन-क."
+
+अन्त्यजैः खानितेषु[^226] तटाककूपादिषु स्नात्वाचम्य पीत्वा[^227]चाभ्यासे प्राजापत्यम्[^228] इति आपस्तम्बोक्तमभ्यासविषयं वेदितव्यम् ॥ याज्ञ मिता , ३, २८९, पृ. ४५७ .") ॥ ७
+
+[^226]: "खनितेषु-अ"
+
+[^227]: "स्नात्वा च पीत्वा-क"
+
+[^228]: "cf , अन्त्यजैः खानिताः कूपास्तडागा वाप्य एव वा। एषु स्नात्वा च पीत्वा च प्राजापत्येन शुध्यति ॥ (आपस्तम्ब
 
 अनभ्यासे पञ्चगव्यम्⁶ ॥ ८ ॥
 
-कामतः केवलं पर्युषितं भुक्त्वा [त्रिरात्रं व्रतं](# "त्रिरात्रव्रतं-अ.") चरेत्⁸ ॥९॥
+कामतः केवलं पर्युषितं भुक्त्वा त्रिरात्रं व्रतं[^229] चरेत्⁸ ॥९॥
 
-स्नेहाक्तं चेन्न [दोषः](# "cf , अन्नं पर्युषितं भोज्यं स्नेहाक्तं चिरसंस्थितम् । याज्ञवल्क्यः , १, १६९ गुडशुक्त तु भक्ष्यं स्यात्ससर्पिष्कमिति स्थितिः । शङ्खः, १७, ३३")॥ १० ॥
+[^229]: "त्रिरात्रव्रतं-अ."
+
+स्नेहाक्तं चेन्न दोषः[^230]॥ १० ॥
+
+[^230]: "cf , अन्नं पर्युषितं भोज्यं स्नेहाक्तं चिरसंस्थितम् । याज्ञवल्क्यः , १, १६९ गुडशुक्त तु भक्ष्यं स्यात्ससर्पिष्कमिति स्थितिः । शङ्खः, १७, ३३"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3471,13 +3915,27 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-[सक्तुधानादधितिलसंबद्धं](# "सक्तुधानादधितिलसबन्धं-अ, सक्तून् धाना दधितिलसबन्धं-क") भोजनं स्नानं च निशि वर्जयेत्² ॥ यदि [स्यात्](# " यदि न स्यात्-अ. ") प्राणायामशतं [कार्यम्](# " प्राणायामशतं कार्य सर्वपापापनुत्तये । उपपातकजातानामनादिष्टस्य चैव हि ॥ याज्ञवल्क्यः , ३, ३०५") ॥ १२ ॥
+सक्तुधानादधितिलसंबद्धं[^231] भोजनं स्नानं च निशि वर्जयेत्² ॥ यदि स्यात्[^232] प्राणायामशतं कार्यम्[^233] ॥ १२ ॥
 
-यस्याग्नौ न क्रियते [यस्य](# "यस्य चान दीयते न तद्भोज्यम्-क; यस्य चाप्र-अ") चान्नं न दीयते [तदभोज्यम्](# "cf., नादत्वा । नाहुत्वा ॥ विष्णु, ६८, ३२-३३") ॥ १३ ॥
+[^231]: "सक्तुधानादधितिलसबन्धं-अ, सक्तून् धाना दधितिलसबन्धं-क"
 
-भुक्त्वा [तूपवसेदहः](# " Compare sutras 13 and 14 with the following यस्य चामौ न क्रियते यस्य चान्नं न दीयते । न तद्भोज्य द्विजातीनां भुक्त्वा चोपवसेदह ॥ लिखितः, याज्ञ मिता., ३, २८९, ४५८.") ॥ १४ ॥
+[^232]: " यदि न स्यात्-अ. "
 
-अनिवेद्य देवपितृब्राह्मणेभ्यो [वृथाकृसरपायसापूप](# "शष्कुल्यान् for शष्कुलीः-अ.") शष्कुलीर्भुक्त्वोपवासः⁹ ॥ १५ ॥
+[^233]: " प्राणायामशतं कार्य सर्वपापापनुत्तये । उपपातकजातानामनादिष्टस्य चैव हि ॥ याज्ञवल्क्यः , ३, ३०५"
+
+यस्याग्नौ न क्रियते यस्य[^234] चान्नं न दीयते तदभोज्यम्[^235] ॥ १३ ॥
+
+[^234]: "यस्य चान दीयते न तद्भोज्यम्-क; यस्य चाप्र-अ"
+
+[^235]: "cf., नादत्वा । नाहुत्वा ॥ विष्णु, ६८, ३२-३३"
+
+भुक्त्वा तूपवसेदहः[^236] ॥ १४ ॥
+
+[^236]: " Compare sutras 13 and 14 with the following यस्य चामौ न क्रियते यस्य चान्नं न दीयते । न तद्भोज्य द्विजातीनां भुक्त्वा चोपवसेदह ॥ लिखितः, याज्ञ मिता., ३, २८९, ४५८."
+
+अनिवेद्य देवपितृब्राह्मणेभ्यो वृथाकृसरपायसापूप[^237] शष्कुलीर्भुक्त्वोपवासः⁹ ॥ १५ ॥
+
+[^237]: "शष्कुल्यान् for शष्कुलीः-अ."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3501,13 +3959,31 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-शूद्राणा [भाजने](# "भोजने-अ and क ")भिन्नभाजने [च](# " च-omitted by अ.") [भुक्त्वा](# "भुक्त्वा सर्वत्रोपवासः-क")होरात्रोपवासः पञ्चगव्येन शुध्यति⁴॥ १६॥
+शूद्राणा भाजने[^238]भिन्नभाजने च[^239] भुक्त्वा[^240]होरात्रोपवासः पञ्चगव्येन शुध्यति⁴॥ १६॥
 
-[वटार्काश्वत्थपना](# "वटाश्वित्थकुम्भीतकोदुम्बरको विदारकदम्बपद्मपलाशपत्रेषु-क.") कुम्भीतिन्दुकपर्णयोकोविदारकदम्ब [पद्म](# "पद्म-omitted by अ")पलागपत्रेषु भुक्त्वैन्दवं चरेत्⁷ ॥ १७
+[^238]: "भोजने-अ and क "
 
-माक्षिकं [फाणितं](# "पाचितं-अ, फाणितं= इक्षुरसविकारः। ") शाकं गोरसं लवणं घृतं हस्तदत्तं भुक्त्वा [दिनमेकमभोजनम्](# "cf , माक्षिक फाणितं शाक गोरस लवण घृतम् । हस्तदत्तानि भुक्त्वा तु दिनमेकमभोजनम् ॥ पराशरः, याज्ञ. मिता., ३, २८९, पृ. ४५८") ॥ १८ ॥
+[^239]: " च-omitted by अ."
 
-[अभ्यक्तमूत्रपुरीषकरणे श्राद्धान्न भोजने](# "अभ्यक्तमूत्रपुरीषौ विसृजतः शूद्वान्नभोजने-क") मृतसूतकशूद्रान्नभोजने शुद्रैः सह[स्वप्ने](# "स्पर्शने-अ.") त्रिरात्रमभोजनम्¹¹॥ १९॥
+[^240]: "भुक्त्वा सर्वत्रोपवासः-क"
+
+वटार्काश्वत्थपना[^241] कुम्भीतिन्दुकपर्णयोकोविदारकदम्ब पद्म[^242]पलागपत्रेषु भुक्त्वैन्दवं चरेत्⁷ ॥ १७
+
+[^241]: "वटाश्वित्थकुम्भीतकोदुम्बरको विदारकदम्बपद्मपलाशपत्रेषु-क."
+
+[^242]: "पद्म-omitted by अ"
+
+माक्षिकं फाणितं[^243] शाकं गोरसं लवणं घृतं हस्तदत्तं भुक्त्वा दिनमेकमभोजनम्[^244] ॥ १८ ॥
+
+[^243]: "पाचितं-अ, फाणितं= इक्षुरसविकारः। "
+
+[^244]: "cf , माक्षिक फाणितं शाक गोरस लवण घृतम् । हस्तदत्तानि भुक्त्वा तु दिनमेकमभोजनम् ॥ पराशरः, याज्ञ. मिता., ३, २८९, पृ. ४५८"
+
+अभ्यक्तमूत्रपुरीषकरणे श्राद्धान्न भोजने[^245] मृतसूतकशूद्रान्नभोजने शुद्रैः सहस्वप्ने[^246] त्रिरात्रमभोजनम्¹¹॥ १९॥
+
+[^245]: "अभ्यक्तमूत्रपुरीषौ विसृजतः शूद्वान्नभोजने-क"
+
+[^246]: "स्पर्शने-अ."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3537,10 +4013,28 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-[क्षीरे लवणमुच्छिष्टे](# "क्षारलवणमुच्छिष्टे-अ") [घृतं](# "च घृतं-क") रजकतीर्थेषु स्नानं ताने गव्यं [सुरापानसमम्](# "सुरासमम्-क ")⁶ ॥ २० ॥
+क्षीरे लवणमुच्छिष्टे[^247] घृतं[^248] रजकतीर्थेषु स्नानं ताने गव्यं सुरापानसमम्[^249]⁶ ॥ २० ॥
 
-गणान्नं [गणिकान्नं](# "गणिकान गणानं--क") [विप्रप्रत्याख्यातान्नं](# "विप्र-omitted by क")
-[स्तेन](# "वेन for स्तेन-क.")गायकवार्धुषि[कान्न](# "वाधुष्यान्न for वाधुषिकान-अ.")ं [च](# "11 च-omitted by अ")[व](#)[र्जयेत्](# "cf., गणानं गणिकानं च विदुषा च जुगुप्सितम् । स्तेनगायनयोश्वान तक्ष्णो वाधुंषिकस्य च ॥ मनु, ४, २०९-२१०") ॥ २१ ॥
+[^247]: "क्षारलवणमुच्छिष्टे-अ"
+
+[^248]: "च घृतं-क"
+
+[^249]: "सुरासमम्-क "
+
+गणान्नं गणिकान्नं[^250] विप्रप्रत्याख्यातान्नं[^251]
+स्तेन[^252]गायकवार्धुषिकान्न[^253]ं च[^254][व](#)र्जयेत्[^255] ॥ २१ ॥
+
+[^250]: "गणिकान गणानं--क"
+
+[^251]: "विप्र-omitted by क"
+
+[^252]: "वेन for स्तेन-क."
+
+[^253]: "वाधुष्यान्न for वाधुषिकान-अ."
+
+[^254]: "11 च-omitted by अ"
+
+[^255]: "cf., गणानं गणिकानं च विदुषा च जुगुप्सितम् । स्तेनगायनयोश्वान तक्ष्णो वाधुंषिकस्य च ॥ मनु, ४, २०९-२१०"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3572,13 +4066,21 @@ etc*— *विष्णुः ,३६,७–८.*
 
 मृतभर्ता च या नारी रहस्यं कुरुते पतिम् ।
 
-[पश्चात्प्रापयते](# "पश्चात्प्रजायते-अ ") गर्भान् सा नारी गणिका [स्मृता](# "cf , अभिगच्छति या नारी बहुभि पुरुषेर्मिथ । व्यभिचारीति सा ज्ञेया प्रत्यक्षगणिकेति च ॥ परा मा. प्रा, पृ. २९०.") ॥ २३ ॥
+पश्चात्प्रापयते[^256] गर्भान् सा नारी गणिका स्मृता[^257] ॥ २३ ॥
 
-तस्या अन्नं न भोक्तव्यं भुक्त्वा चान्द्रायणं [चरेत्](# " cf, कदर्यस्य नृशंसस्य वेश्याया• कितवस्य च । गणान्नां भूमिपालान्नमन्न चैव श्वजीविनाम् ॥ मौञ्जिकान्नं सूतिकान्न भुक्त्वा मासं व्रत चरेत् ॥ शङ्खः, १७, ३९-४० *") ॥ २४ ॥
+[^256]: "पश्चात्प्रजायते-अ "
+
+[^257]: "cf , अभिगच्छति या नारी बहुभि पुरुषेर्मिथ । व्यभिचारीति सा ज्ञेया प्रत्यक्षगणिकेति च ॥ परा मा. प्रा, पृ. २९०."
+
+तस्या अन्नं न भोक्तव्यं भुक्त्वा चान्द्रायणं चरेत्[^258] ॥ २४ ॥
+
+[^258]: " cf, कदर्यस्य नृशंसस्य वेश्याया• कितवस्य च । गणान्नां भूमिपालान्नमन्न चैव श्वजीविनाम् ॥ मौञ्जिकान्नं सूतिकान्न भुक्त्वा मासं व्रत चरेत् ॥ शङ्खः, १७, ३९-४० *"
 
 यस्तु जीवति चौर्येण गोसुवर्णापहारकः ।
 
-परस्वं हरते नित्यं स विप्रो गण, [उच्यत](# "गणः= शठब्राह्मणसङ्घः-कुल्लूकः, मनु, ४, २०९ ")इति ॥ २५ ॥
+परस्वं हरते नित्यं स विप्रो गण, उच्यत[^259]इति ॥ २५ ॥
+
+[^259]: "गणः= शठब्राह्मणसङ्घः-कुल्लूकः, मनु, ४, २०९ "
 
 इति द्वितीयप्रश्ने द्वादशोऽध्यायः॥
 
@@ -3616,7 +4118,9 @@ etc*— *विष्णुः ,३६,७–८.*
 
 त्रयोदशोऽध्यायः।
 
-निगलेन बद्धस्य कदर्यस्य षण्डडाम्भिकचिकित्सकक्रूरमृगयुद्विषत्पतितपिशुनक्रतुविक्रयिशस्त्रविक्रय्यपविद्ध [मार्जारकुक्कुटादीनाम्](# "मारकुक्कुटानाम्--अ. ")⁶॥ १ ॥
+निगलेन बद्धस्य कदर्यस्य षण्डडाम्भिकचिकित्सकक्रूरमृगयुद्विषत्पतितपिशुनक्रतुविक्रयिशस्त्रविक्रय्यपविद्ध मार्जारकुक्कुटादीनाम्[^260]⁶॥ १ ॥
+
+[^260]: "मारकुक्कुटानाम्--अ. "
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3658,17 +4162,41 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-यो लोभात् [पितरौ](# "पथिकान्-अ") भृत्यान् [पुत्रदारानात्मान](# "पुत्रदारानात्मान च-अ")धर्मकृत्यं च पीडयति स कदर्य [इति](# "cf., आत्मान धर्मकृत्यं च पुत्रदाराश्च पीडयेत् । लोभाद्यः पितरौ भृत्यान् स कदर्य इति स्मृतः ॥ याज्ञ. मिता., १, १६१") ॥ २ ॥
+यो लोभात् पितरौ[^261] भृत्यान् पुत्रदारानात्मान[^262]धर्मकृत्यं च पीडयति स कदर्य इति[^263] ॥ २ ॥
 
-यश्च न जुहोत्युचिते काले न स्नाति न ददाति [पितृदेवतार्चनादि](# "पितृदेवतार्चनार्थिनः स षण्ड-क.") न करोति स षण्ड इति ॥ ३ ॥
+[^261]: "पथिकान्-अ"
 
-यस्तु [दम्भार्थ](# "डम्भार्थ-क")ं स्नाति जपति च स मार्जार [इति](# "cf, धर्मध्वजी सदा लुब्धश्छाद्मिको लोकदम्भकः । बैडालव्रतिको ज्ञेयो हिस्रः सर्वाभिसधकः ॥ मनु, ४, १९५") ॥ ४ ॥.
+[^262]: "पुत्रदारानात्मान च-अ"
 
-यः [सभागताना](# "यस्य मृत्यस्य भागवताना-अ")पक्षपातं समाश्रये[त्तमाहुः कुक्कुटं देवाः](# "तमाहु कुक्कुटं देवा-omitted by अ") ॥ ५॥
+[^263]: "cf., आत्मान धर्मकृत्यं च पुत्रदाराश्च पीडयेत् । लोभाद्यः पितरौ भृत्यान् स कदर्य इति स्मृतः ॥ याज्ञ. मिता., १, १६१"
 
-यो [वा](# "य for यो वा-क.")स्वकर्म परित्यज्य परकर्म [समाश्रयेदनापदि](# "यो बा स्वकर्म परित्यज्य परकर्म समाश्रयेत्-omitted by अ, अनापदि omitted byक") पतितः [सः प्रकीर्तितः](# "सप्रकीर्तित --. क ")⁶॥ ६ ॥
+यश्च न जुहोत्युचिते काले न स्नाति न ददाति पितृदेवतार्चनादि[^264] न करोति स षण्ड इति ॥ ३ ॥
 
-पितृत्यागी देवत्यागी गुरूणामप्यपूजको गोब्राह्मणस्त्रीवध[कृदपविद्ध](# "कृदपविद्ध-omitted by क ")इति कीर्तितः ॥ ७ ॥
+[^264]: "पितृदेवतार्चनार्थिनः स षण्ड-क."
+
+यस्तु दम्भार्थ[^265]ं स्नाति जपति च स मार्जार इति[^266] ॥ ४ ॥.
+
+[^265]: "डम्भार्थ-क"
+
+[^266]: "cf, धर्मध्वजी सदा लुब्धश्छाद्मिको लोकदम्भकः । बैडालव्रतिको ज्ञेयो हिस्रः सर्वाभिसधकः ॥ मनु, ४, १९५"
+
+यः सभागताना[^267]पक्षपातं समाश्रयेत्तमाहुः कुक्कुटं देवाः[^268] ॥ ५॥
+
+[^267]: "यस्य मृत्यस्य भागवताना-अ"
+
+[^268]: "तमाहु कुक्कुटं देवा-omitted by अ"
+
+यो वा[^269]स्वकर्म परित्यज्य परकर्म समाश्रयेदनापदि[^270] पतितः सः प्रकीर्तितः[^271]⁶॥ ६ ॥
+
+[^269]: "य for यो वा-क."
+
+[^270]: "यो बा स्वकर्म परित्यज्य परकर्म समाश्रयेत्-omitted by अ, अनापदि omitted byक"
+
+[^271]: "सप्रकीर्तित --. क "
+
+पितृत्यागी देवत्यागी गुरूणामप्यपूजको गोब्राह्मणस्त्रीवधकृदपविद्ध[^272]इति कीर्तितः ॥ ७ ॥
+
+[^272]: "कृदपविद्ध-omitted by क "
 
 आशाकरस्त्वदाता दातुश्च प्रतिषेधक. \[शरणागतं यस्त्यजति स चण्डालः प्रकीर्तित.\]⁹ ॥ ८ ॥
 
@@ -3708,13 +4236,19 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-[एतेषा](# "तेषां for एतेषा-क.")मन्नमभोज्यम् ॥ ९॥
+एतेषा[^273]मन्नमभोज्यम् ॥ ९॥
+
+[^273]: "तेषां for एतेषा-क."
 
 भुक्त्वा चान्द्रायणं चरेत्²॥ १० ॥
 
 अवलिप्तस्य मूर्खस्य दुष्टवृत्तस्याश्रद्धधानम्यान्न यो भुङ्क्तेस भ्रूणहा भवति³ ॥ ११ ॥
 
-[यति](# "यदि for यति-अ")वानप्रस्थ[पाशुपताना](# "पतिताना for पाशुपताना-क.")मन्नमभोज्यम्⁶ ॥ १२ ॥
+यति[^274]वानप्रस्थपाशुपताना[^275]मन्नमभोज्यम्⁶ ॥ १२ ॥
+
+[^274]: "यदि for यति-अ"
+
+[^275]: "पतिताना for पाशुपताना-क."
 
 --------------------------
 
@@ -3760,7 +4294,21 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-[ये बलाद्वन्दीकृता](# " यत्तु बलोद्वन्दीकृत-क.")[म्लेच्छचण्डालदस्युभिरशुभं](# "म्लेच्छचण्डालदस्युभिः सह-अ.")गवादिप्राणिहिंसनरूपं कर्म [कारिता](# "चारिता. for कारिताः-क ")स्तदुच्छिष्टभोजनं खरोष्ट्रविड्वराहामिषभक्षणं तत्स्त्रीणां[तथा](# "तदा-अ") [संग](# "संगतः for संग -अ ")स्तत्स्त्रीभिश्चसह भोजनं तत्र मासोषिते [द्विजातौ](# "द्विजातौ-omitted by क.")[प्राजापत्यं विशोधनम्](# "प्राजापत्यविशोधनम्-अ")⁸ ॥ १३ ॥
+ये बलाद्वन्दीकृता[^276]म्लेच्छचण्डालदस्युभिरशुभं[^277]गवादिप्राणिहिंसनरूपं कर्म कारिता[^278]स्तदुच्छिष्टभोजनं खरोष्ट्रविड्वराहामिषभक्षणं तत्स्त्रीणांतथा[^279] संग[^280]स्तत्स्त्रीभिश्चसह भोजनं तत्र मासोषिते द्विजातौ[^281]प्राजापत्यं विशोधनम्[^282]⁸ ॥ १३ ॥
+
+[^276]: " यत्तु बलोद्वन्दीकृत-क."
+
+[^277]: "म्लेच्छचण्डालदस्युभिः सह-अ."
+
+[^278]: "चारिता. for कारिताः-क "
+
+[^279]: "तदा-अ"
+
+[^280]: "संगतः for संग -अ "
+
+[^281]: "द्विजातौ-omitted by क."
+
+[^282]: "प्राजापत्यविशोधनम्-अ"
 
 
 
@@ -3804,7 +4352,9 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-[अव्रतस्यान्न](# "तस्यान्न for अव्रतस्यान्न-क.")मपुत्रस्यान्नं भुक्त्वा त्रिरात्रमभोजनम्¹⁰ ॥ १ ॥
+अव्रतस्यान्न[^283]मपुत्रस्यान्नं भुक्त्वा त्रिरात्रमभोजनम्¹⁰ ॥ १ ॥
+
+[^283]: "तस्यान्न for अव्रतस्यान्न-क."
 
 -----------------------
 
@@ -3836,7 +4386,11 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-अलाबुकुम्भीफलरक्तशिग्रुरक्तमूलक[श्वेतवृन्ताकवन्यवृन्ताकोषरलवणं](# ".श्वेतवृन्ताकाद्यन्यवृन्ताककोषलवर्ण-अ")हिङ्गुकर्पूरवर्जितनिर्यासान्न[भक्षयेत्](# "भक्षणात्-अ") ³॥ २ ॥
+अलाबुकुम्भीफलरक्तशिग्रुरक्तमूलकश्वेतवृन्ताकवन्यवृन्ताकोषरलवणं[^284]हिङ्गुकर्पूरवर्जितनिर्यासान्नभक्षयेत्[^285] ³॥ २ ॥
+
+[^284]: ".श्वेतवृन्ताकाद्यन्यवृन्ताककोषलवर्ण-अ"
+
+[^285]: "भक्षणात्-अ"
 
 मतिपूर्वभक्षणाभ्यासेप्राजापत्यम्⁴ ॥ ३ ॥
 
@@ -3844,7 +4398,15 @@ etc*— *विष्णुः ,३६,७–८.*
 
 पशुपुरोडाशादेर्भक्षणेऽनार्त्विज्य एकोपवासः ⁶ ॥ ५ ॥
 
-घृतं[वा](# "चा for वा- क") यदि^( [](# "8 वा-omitted by अ.")) [वा](# " वा-omitted by अ.") तैलं विप्रो [नाद्यान्न](# "Adds न before नाद्यात्-अ")खच्युतम् ॥ ६ ॥
+घृतंवा[^286] यदि^( [][^287]) वा[^288] तैलं विप्रो नाद्यान्न[^289]खच्युतम् ॥ ६ ॥
+
+[^286]: "चा for वा- क"
+
+[^287]: "8 वा-omitted by अ."
+
+[^288]: " वा-omitted by अ."
+
+[^289]: "Adds न before नाद्यात्-अ"
 
 ------------------------------
 
@@ -3888,19 +4450,33 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-अद्याच्चेत्तुल्यं [गोमांसभक्षणैः](# "Compare sūtras 6 and 7 with the following  घृतं वा यदि वा तैलं विप्रो नाद्यान्नखच्युतम् ।  यस्मादशुचि तत्प्राह तुल्य गोमांसभक्षणै॥ बसिष्ठः, अपरार्क, पृ २४२.")॥ ७ ॥
+अद्याच्चेत्तुल्यं गोमांसभक्षणैः[^290]॥ ७ ॥
 
-पूर्ववत् [प्रायश्चित्तम्](# "“शेषेषूपवसेदह   मनु , ५, २०")॥ ८॥
+[^290]: "Compare sūtras 6 and 7 with the following  घृतं वा यदि वा तैलं विप्रो नाद्यान्नखच्युतम् ।  यस्मादशुचि तत्प्राह तुल्य गोमांसभक्षणै॥ बसिष्ठः, अपरार्क, पृ २४२."
+
+पूर्ववत् प्रायश्चित्तम्[^291]॥ ८॥
+
+[^291]: "“शेषेषूपवसेदह   मनु , ५, २०"
 
 एकेन पाणिना दत्तं घृतं तैलं लवणं पानीयं पायसं च नाश्नीयात्³॥ ९॥
 
-पीतशेषं पानीयं पीत्वा [ब्राह्मणस्त्रिरात्रं व्रतं](# " ब्राह्मणस्त्रिदिनव्रत-क.") कुर्यात् ॥ १० ॥
+पीतशेषं पानीयं पीत्वा ब्राह्मणस्त्रिरात्रं व्रतं[^292] कुर्यात् ॥ १० ॥
 
-वामहस्ते[न](# "न-omitted by अ.")[तथा](# "Compare sūtras 10 and 11 with the following पीतावशेष पानीयं पीत्वा तु ब्राह्मण क्वचित् । त्रिरात्र तु व्रतं कुर्याद्वामहस्तेन वा पुन ॥ शड्खः , १७,५६") ॥ ११ ॥
+[^292]: " ब्राह्मणस्त्रिदिनव्रत-क."
 
-पादशेषं पीतशेषं शौचशेषं जलं[सुरासमं](# "सुरापानसम-अ.") पर्यग्निकरणं विना ⁸॥१२॥
+वामहस्तेन[^293]तथा[^294] ॥ ११ ॥
 
-वस्त्राणामेकपुरुषोद्वाह्य[भाराधिकाना](# "भाराणा for भाराधिकाना-अ.")स्थूलानामन्येषां च बहूना
+[^293]: "न-omitted by अ."
+
+[^294]: "Compare sūtras 10 and 11 with the following पीतावशेष पानीयं पीत्वा तु ब्राह्मण क्वचित् । त्रिरात्र तु व्रतं कुर्याद्वामहस्तेन वा पुन ॥ शड्खः , १७,५६"
+
+पादशेषं पीतशेषं शौचशेषं जलंसुरासमं[^295] पर्यग्निकरणं विना ⁸॥१२॥
+
+[^295]: "सुरापानसम-अ."
+
+वस्त्राणामेकपुरुषोद्वाह्यभाराधिकाना[^296]स्थूलानामन्येषां च बहूना
+
+[^296]: "भाराणा for भाराधिकाना-अ."
 
 ------------------------
 
@@ -3920,22 +4496,38 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-[चण्डलादिस्पृष्टाना](# "चण्डालादिस्पृष्टयादीनां-अ")ं [वल्ककृता](# "वल्क कृतां च-क")च [प्रोक्षणाच्छुद्धि](# "शोषणाच्छुद्धिः-अ.") ⁴॥ १३ ॥
+चण्डलादिस्पृष्टाना[^297]ं वल्ककृता[^298]च प्रोक्षणाच्छुद्धि[^299] ⁴॥ १३ ॥
 
-श्वेतसूक्ष्मवस्त्रेषु [पण्येष्वनूतनेषु](# "पुण्येषु नूतनेषु-अ.") विशता बहुत्वम् ॥ १४ ॥
+[^297]: "चण्डालादिस्पृष्टयादीनां-अ"
 
-[चित्रवस्त्रेष्वेकादशसु बहुत्वम्](# "This sūtra is omitted byक.") ॥ १५ ॥
+[^298]: "वल्क कृतां च-क"
 
-[पुण्येषु](# "पुण्येषु-अ.") नूतनेषु ततो न्यूनत्वादपि बहुत्वम् ॥ १६ ॥
+[^299]: "शोषणाच्छुद्धिः-अ."
 
-[सौवर्णरजतयोश्चण्डालोदकीरजम्बलोच्छिष्टस्पर्शे](# "सौवर्णरजतयोश्च चण्डालशब्दरजस्वलाशब्दस्पर्शे-अ.")
+श्वेतसूक्ष्मवस्त्रेषु पण्येष्वनूतनेषु[^300] विशता बहुत्वम् ॥ १४ ॥
+
+[^300]: "पुण्येषु नूतनेषु-अ."
+
+चित्रवस्त्रेष्वेकादशसु बहुत्वम्[^301] ॥ १५ ॥
+
+[^301]: "This sūtra is omitted byक."
+
+पुण्येषु[^302] नूतनेषु ततो न्यूनत्वादपि बहुत्वम् ॥ १६ ॥
+
+[^302]: "पुण्येषु-अ."
+
+सौवर्णरजतयोश्चण्डालोदकीरजम्बलोच्छिष्टस्पर्शे[^303]
 त्रिसप्तभस्मभिरुदकेन च शुद्धि.⁹ ॥ १७ ॥
+
+[^303]: "सौवर्णरजतयोश्च चण्डालशब्दरजस्वलाशब्दस्पर्शे-अ."
 
 कास्यादेरावर्तनम् ॥ १८ ॥
 
 [ताम्रस्याम्लोदकाच्छुद्धि.](http://्र "ताम्रंस्यादाम्लोदकाच्छुद्धिः-अ.") ॥ १९ ॥
 
-पित्तलस्यापि [सौवर्णवत्](# "सौवर्णवग-क.") ॥ २० ॥
+पित्तलस्यापि सौवर्णवत्[^304] ॥ २० ॥
+
+[^304]: "सौवर्णवग-क."
 
 -----------------------------
 
@@ -3957,11 +4549,19 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-[त्रपुसीसायसाना](# " त्रपुसीसायसादौ-क.")भस्मजलाभ्याम्² ॥ २१ ॥
+त्रपुसीसायसाना[^305]भस्मजलाभ्याम्² ॥ २१ ॥
 
-[धान्यमेकपुरुषोद्धरणभाराधिकं](# "धान्यमेकपुरुषाद्भरणभाराधिक-अ.") चण्डालादिस्पृष्टं [प्रोक्षणाच्छुध्येत्](# " प्रोक्षणाच्छुद्धि-अ and क.") ॥ २२ ॥
+[^305]: " त्रपुसीसायसादौ-क."
 
-एक[पुरुषभारं](# "पुरुषभारं-क.")प्रक्षालनाच्छुध्येत⁶ ॥ २३ ॥
+धान्यमेकपुरुषोद्धरणभाराधिकं[^306] चण्डालादिस्पृष्टं प्रोक्षणाच्छुध्येत्[^307] ॥ २२ ॥
+
+[^306]: "धान्यमेकपुरुषाद्भरणभाराधिक-अ."
+
+[^307]: " प्रोक्षणाच्छुद्धि-अ and क."
+
+एकपुरुषभारं[^308]प्रक्षालनाच्छुध्येत⁶ ॥ २३ ॥
+
+[^308]: "पुरुषभारं-क."
 
 इति द्वितीयप्रश्ने चतुर्दशोऽध्यायः।
 
@@ -4035,11 +4635,21 @@ etc*— *विष्णुः ,३६,७–८.*
 
 पञ्चदशोऽध्यायः।
 
-धान्ये गृहस्थिते गृहदाहे [सति](# "सति-omitted by अ.")[दग्धे तत्र](# "दग्धस्तत्र-अ.") नरपशुमरणे तद्धान्यं त्याज्यम् ॥ १ ॥
+धान्ये गृहस्थिते गृहदाहे सति[^309]दग्धे तत्र[^310] नरपशुमरणे तद्धान्यं त्याज्यम् ॥ १ ॥
+
+[^309]: "सति-omitted by अ."
+
+[^310]: "दग्धस्तत्र-अ."
 
 कुसूलगर्भस्थं भूमिगर्भस्थमभ्युक्षणाच्छुध्यति³॥ २ ॥
 
-[शाणं](# "पाणि-अ.")[पाणितलं](# "पाणितलं राजत प्रस्थं-अ;पाणितल मानं राजतं-क.") \[पलमष्ट\] मानं [प्रस्थ](# "प्रस्थं-omitted by क")माढकं द्रोणं \[द्रोणी\] खारी चेति पूर्वपूर्वचतुर्गुणम्⁷॥ ३ ॥
+शाणं[^311]पाणितलं[^312] \[पलमष्ट\] मानं प्रस्थ[^313]माढकं द्रोणं \[द्रोणी\] खारी चेति पूर्वपूर्वचतुर्गुणम्⁷॥ ३ ॥
+
+[^311]: "पाणि-अ."
+
+[^312]: "पाणितलं राजत प्रस्थं-अ;पाणितल मानं राजतं-क."
+
+[^313]: "प्रस्थं-omitted by क"
 
 ---------------------------
 
@@ -4081,11 +4691,19 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-द्रोणप्रमाणनिर्मिते चान्ने[श्वगोखर](# " श्वगोचर for श्वगोखर-अ")विड्वराहग्रामकुक्कुट[काकादिस्पृष्टे](# "काकादीना स्पृष्टे for काकादिस्पृष्टे-क.")स्पृष्टमात्र- मुद्धृत्य शेषमन्नं [पर्यग्निकृत्वा](# "पर्यग्नीकरणं कृत्वा-क.")
+द्रोणप्रमाणनिर्मिते चान्नेश्वगोखर[^314]विड्वराहग्रामकुक्कुटकाकादिस्पृष्टे[^315]स्पृष्टमात्र- मुद्धृत्य शेषमन्नं पर्यग्निकृत्वा[^316]
 
-[सहस्रगायत्र्याभिमन्त्रितजलैः](# "सहस्रगायत्र्या प्रोक्षितजलैः-क")
+[^314]: " श्वगोचर for श्वगोखर-अ"
+
+[^315]: "काकादीना स्पृष्टे for काकादिस्पृष्टे-क."
+
+सहस्रगायत्र्याभिमन्त्रितजलैः[^317]
+
+[^316]: "पर्यग्नीकरणं कृत्वा-क."
 
 पलाभ्यां प्रसृतिर्ज्ञेया प्रसृतं च निगद्यते।
+
+[^317]: "सहस्रगायत्र्या प्रोक्षितजलैः-क"
 
 प्रसृतिभ्यामञ्जलिः स्यात्कुडवोऽर्धशरावकः ॥
 
@@ -4133,13 +4751,19 @@ etc*— *विष्णुः ,३६,७–८.*
 
 ------------------------------
 
-पवमानः सुवर्जन इत्यनुवाकेन सकृदभिमन्त्रितैर्वा [जलैरभ्युक्ष्यैतदन्नं](# "जलैरभ्युक्षेत्तदन्नं-क") शुद्धमस्त्विति विप्रवचनं लब्ध्वा शुध्येत् ॥ ४ ॥
+पवमानः सुवर्जन इत्यनुवाकेन सकृदभिमन्त्रितैर्वा जलैरभ्युक्ष्यैतदन्नं[^318] शुद्धमस्त्विति विप्रवचनं लब्ध्वा शुध्येत् ॥ ४ ॥
 
-[एवमधिकान्नस्यापि](# "एवं यतिकान्नस्यापि- अ; एवमधिकान्नस्यापि न दूष ... -क.")³ ॥ ५ ॥
+[^318]: "जलैरभ्युक्षेत्तदन्नं-क"
+
+एवमधिकान्नस्यापि[^319]³ ॥ ५ ॥
+
+[^319]: "एवं यतिकान्नस्यापि- अ; एवमधिकान्नस्यापि न दूष ... -क."
 
 घृतदधिक्षीराणि शूद्रभाण्डस्थितानि द्विजभाण्डप्रक्षेपणाच्छुध्यन्ति⁴ ॥
 
-गुडलवणादीना [पर्यग्निकरणम्](# "cf., गुडादीनामिक्षुविकाराणा प्रभूतानां गृहनिहितानावार्यग्निदानेन । सर्वलवणाना च ॥ विष्णुः, २३, ३१-३२.")॥ ७ ॥
+गुडलवणादीना पर्यग्निकरणम्[^320]॥ ७ ॥
+
+[^320]: "cf., गुडादीनामिक्षुविकाराणा प्रभूतानां गृहनिहितानावार्यग्निदानेन । सर्वलवणाना च ॥ विष्णुः, २३, ३१-३२."
 
 -----------------------------------
 
@@ -4183,13 +4807,17 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-[बाला उपनयनादर्वाक् शुद्धाः](# " बालस्योपनयनादर्वाक् शुद्धिः-अ.")² ॥ ८ ॥
+बाला उपनयनादर्वाक् शुद्धाः[^321]² ॥ ८ ॥
+
+[^321]: " बालस्योपनयनादर्वाक् शुद्धिः-अ."
 
 शूर्पवस्त्रवायुस्पर्शनमनायुष्यमपुण्यं च ॥९॥
 
 एवं वस्त्रकेशनखादिकम्³ ॥ १० ॥
 
-दिवा स्वस्त्रियं गत्वा [मत्या सवस्त्रोऽपोऽवगाह्य](# "मद्यपस्त्र्यपोवगाह्य-अ.") प्राणायामेन शुध्येत्⁵ ॥ ११ ॥
+दिवा स्वस्त्रियं गत्वा मत्या सवस्त्रोऽपोऽवगाह्य[^322] प्राणायामेन शुध्येत्⁵ ॥ ११ ॥
+
+[^322]: "मद्यपस्त्र्यपोवगाह्य-अ."
 
 अमत्या चेत् स्नानमात्रम्⁶ ॥ १२ ॥
 
@@ -4241,11 +4869,17 @@ etc*— *विष्णुः ,३६,७–८.*
 
 ताडने त्वतिकृच्छम् ॥ १५ ॥
 
-[असृपाते](# "अकृते-अ.")कृच्छ्रातिकृच्छ्रे² ॥ १६ ॥
+असृपाते[^323]कृच्छ्रातिकृच्छ्रे² ॥ १६ ॥
 
-[प्रमादेन ब्राह्मणप्रहारे](# "प्रमादादेकब्राह्मप्रहरे-क, प्रमादेन ब्राह्मणं प्रहरे-अ")तूपोष्य स्नात्वा प्रसादयेत्⁴॥ १७ ॥
+[^323]: "अकृते-अ."
 
-[असंनिहित](# "अतिसनिहितं-अ.")जलदेशेऽप्स्वग्नौविण्मूत्रमवशः करोति सचेलं स्नात्वा गा स्पृष्ट्वा शुध्यति⁶ ॥ १८ ॥
+प्रमादेन ब्राह्मणप्रहारे[^324]तूपोष्य स्नात्वा प्रसादयेत्⁴॥ १७ ॥
+
+[^324]: "प्रमादादेकब्राह्मप्रहरे-क, प्रमादेन ब्राह्मणं प्रहरे-अ"
+
+असंनिहित[^325]जलदेशेऽप्स्वग्नौविण्मूत्रमवशः करोति सचेलं स्नात्वा गा स्पृष्ट्वा शुध्यति⁶ ॥ १८ ॥
+
+[^325]: "अतिसनिहितं-अ."
 
 मत्योपवसेत्⁷ ॥ १९ ॥
 
@@ -4299,13 +4933,19 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-मत्या सूर्योदये स्वप्ने तिष्ठन् [सावित्रीं](# " सावित्रं-अ")जपन्नुपवसेत्² ॥२०॥
+मत्या सूर्योदये स्वप्ने तिष्ठन् सावित्रीं[^326]जपन्नुपवसेत्² ॥२०॥
+
+[^326]: " सावित्रं-अ"
 
 स्नानादिकर्मलोप उपवासः³ ॥ २१ ॥
 
-अष्टशतजपो वा [जीर्णमलवद्वाससो धारणे](# "जीर्णमलवद्वासोधारणे-क.") ⁵ ॥ २२ ॥
+अष्टशतजपो वा जीर्णमलवद्वाससो धारणे[^327] ⁵ ॥ २२ ॥
 
-[ऋतौ भार्याया अगमनेऽर्धकृच्छ्रम्](# "cf , ऋतौ न गच्छेद्यो भार्यों सोऽपि कृच्छ्रार्धमाचरेत् ॥  बृहस्पतिः, याज्ञ मिता., ३, २९२.")॥ २३ ॥
+[^327]: "जीर्णमलवद्वासोधारणे-क."
+
+ऋतौ भार्याया अगमनेऽर्धकृच्छ्रम्[^328]॥ २३ ॥
+
+[^328]: "cf , ऋतौ न गच्छेद्यो भार्यों सोऽपि कृच्छ्रार्धमाचरेत् ॥  बृहस्पतिः, याज्ञ मिता., ३, २९२."
 
 दीपप्रशमनं पुंस, कूष्माण्डछेदनं स्त्रियःकुलक्षयकरं भवेद्ध्रुवम् ⁷॥ २४ ॥
 
@@ -4391,13 +5031,29 @@ etc*— *विष्णुः ,३६,७–८.*
 
 षोडशोऽध्यायः।
 
-अस्नात्वा भोजने [रिक्तकमण्डलुबहने](# "रिक्तकमण्डलुदाने-अ.")चोपवासः² ॥ १ ॥
+अस्नात्वा भोजने रिक्तकमण्डलुबहने[^329]चोपवासः² ॥ १ ॥
 
-[एकपङ्क्तौ](# "एकपङ्क्त्या -क.")[विषमेणान्नप्रदाने](# "विषमेणान्नदाने-क")[नदीपवाहबन्धनादौ](# "नदीप्रवाहबन्धनात्तथा-क")विवाहविघ्नकरणे समेषु विषमपूजाकरणे च [भैक्ष्यान्नेन](# "भिक्षान्नेन-अ.")प्राजापत्यं चरेत्⁷॥२॥
+[^329]: "रिक्तकमण्डलुदाने-अ."
+
+एकपङ्क्तौ[^330]विषमेणान्नप्रदाने[^331]नदीपवाहबन्धनादौ[^332]विवाहविघ्नकरणे समेषु विषमपूजाकरणे च भैक्ष्यान्नेन[^333]प्राजापत्यं चरेत्⁷॥२॥
+
+[^330]: "एकपङ्क्त्या -क."
+
+[^331]: "विषमेणान्नदाने-क"
+
+[^332]: "नदीप्रवाहबन्धनात्तथा-क"
+
+[^333]: "भिक्षान्नेन-अ."
 
 अमेध्यगन्धाघ्राणे प्राणायामम्⁸ ॥ ३ ॥
 
-कुनखी [श्यावदन्तकश्च](# "श्यावदन्तश्च---क")कृच्छ्रंचरित्वा [नखान्ता](# " अ MS is corrupt It reads नखान्ततांश्चान्धस्तेन पतिता अपि चेद्धस्तेन पतिनापि पङ्क्तिभोजने etc.")[श्चोद्धरेत्](# " cf., कुनखी श्यावदन्तश्च कृच्छ्रंद्वादशरात्रं चरित्वोद्धरेयाताम् ॥ वसिष्ठ., २०, ५")॥४॥
+कुनखी श्यावदन्तकश्च[^334]कृच्छ्रंचरित्वा नखान्ता[^335]श्चोद्धरेत्[^336]॥४॥
+
+[^334]: "श्यावदन्तश्च---क"
+
+[^335]: " अ MS is corrupt It reads नखान्ततांश्चान्धस्तेन पतिता अपि चेद्धस्तेन पतिनापि पङ्क्तिभोजने etc."
+
+[^336]: " cf., कुनखी श्यावदन्तश्च कृच्छ्रंद्वादशरात्रं चरित्वोद्धरेयाताम् ॥ वसिष्ठ., २०, ५"
 
 ----------------------------------
 
@@ -4433,15 +5089,29 @@ etc*— *विष्णुः ,३६,७–८.*
 
 पतितादिपङ्क्तिभोजन उपोष्यपञ्चगव्यम्¹ ॥ ५॥
 
-नीलवस्त्रधारणे [चैवम्](# "cf, नीलीरक्तं यदा वस्त्रं ब्राह्मणोऽङ्गेषु धारयेत् ॥  अहोरात्रोषितो भूत्वा पञ्चगव्येन शुध्यति ॥ आपस्तम्बस्मृति., ६, ४.")॥ ६ ॥
+नीलवस्त्रधारणे चैवम्[^337]॥ ६ ॥
 
-कम्बले पट्टवस्त्रे [च](# "च-omitted by क") [नैल्यं](# " नित्य-क")न दोषः⁵ ॥ ७ ॥
+[^337]: "cf, नीलीरक्तं यदा वस्त्रं ब्राह्मणोऽङ्गेषु धारयेत् ॥  अहोरात्रोषितो भूत्वा पञ्चगव्येन शुध्यति ॥ आपस्तम्बस्मृति., ६, ४."
 
-[पालाश](# "पलाश for पालाश-क")काष्ठकृतपादुका[पीठाध्युपयोगे](# " पित्राद्युपयोगे-अ")त्रिरात्रम् ⁸ ॥ ८ ॥
+कम्बले पट्टवस्त्रे च[^338] नैल्यं[^339]न दोषः⁵ ॥ ७ ॥
 
-गुरुशिष्ययोःस्वाध्याये सानाय्यदोहनकाले [विवाहे वर](# " विवाहवरं-अ.")कन्ययोरन्तरागमनेऽभ्यासे चान्द्रायणम्¹⁰ ॥ ९ ॥
+[^338]: "च-omitted by क"
 
-अनभ्यासे [तूपवासः](# "11 cf ,  शेषेषूपवसेदहः  मनुः, ५, २०.")॥ १० ॥
+[^339]: " नित्य-क"
+
+पालाश[^340]काष्ठकृतपादुकापीठाध्युपयोगे[^341]त्रिरात्रम् ⁸ ॥ ८ ॥
+
+[^340]: "पलाश for पालाश-क"
+
+[^341]: " पित्राद्युपयोगे-अ"
+
+गुरुशिष्ययोःस्वाध्याये सानाय्यदोहनकाले विवाहे वर[^342]कन्ययोरन्तरागमनेऽभ्यासे चान्द्रायणम्¹⁰ ॥ ९ ॥
+
+[^342]: " विवाहवरं-अ."
+
+अनभ्यासे तूपवासः[^343]॥ १० ॥
+
+[^343]: "11 cf ,  शेषेषूपवसेदहः  मनुः, ५, २०."
 
 दुःस्वप्नारिष्टदर्शनादौ घृतं हिरण्यं च दद्यात् ¹² ॥ ११ ॥
 
@@ -4477,9 +5147,15 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-[नाभिं विनान्यगात्रेषु तृण](# "नगाग्रेषु वा तृणं-अ, नाभौ वा गात्रेषु वा तृण-क.")वृक्षसमुद्भवः ॥ १२ ॥
+नाभिं विनान्यगात्रेषु तृण[^344]वृक्षसमुद्भवः ॥ १२ ॥
 
-मूर्घ्नि[कास्याना](# " कास्यादीनां-क.") [चूर्णनम्](# " चूर्णम्-अ.") ॥ १३ ॥
+[^344]: "नगाग्रेषु वा तृणं-अ, नाभौ वा गात्रेषु वा तृण-क."
+
+मूर्घ्निकास्याना[^345] चूर्णनम्[^346] ॥ १३ ॥
+
+[^345]: " कास्यादीनां-क."
+
+[^346]: " चूर्णम्-अ."
 
 मुण्डनम् ॥ १४ ॥
 
@@ -4487,31 +5163,51 @@ etc*— *विष्णुः ,३६,७–८.*
 
 मलिनाम्बरधारित्वम् ॥ १६ ॥
 
-[अभ्यङ्गः](# " अभ्यञ्जनम्-क.") ॥ १७ ॥
+अभ्यङ्गः[^347] ॥ १७ ॥
 
-[उच्चात्प्रपतनम्](# "दिव्यात्प्रपतनम्-अ.") ॥ १८ ॥
+[^347]: " अभ्यञ्जनम्-क."
 
-[दोलारोहणम्](# " आन्दोलनारोहण-क.") ॥१९॥
+उच्चात्प्रपतनम्[^348] ॥ १८ ॥
 
-[अर्जनं ](# " वर्जनं-क; मज्जनं-अ.")पद्मलोहानाम् ॥ २० ॥
+[^348]: "दिव्यात्प्रपतनम्-अ."
 
-हयानां च [मारणम्](# "हरणम्-अ..") ॥ २१ ॥
+दोलारोहणम्[^349] ॥१९॥
 
-[रक्तपुष्पद्रुमचण्डाल](# " रक्तपुष्पधृतं चण्डालं-अ.")वराहभल्लूकखरोष्ट्राणा[मारोहणम्](# "चारोहणम् for आरोहणम्-क.")॥ २२ ॥
+[^349]: " आन्दोलनारोहण-क."
+
+अर्जनं [^350]पद्मलोहानाम् ॥ २० ॥
+
+[^350]: " वर्जनं-क; मज्जनं-अ."
+
+हयानां च मारणम्[^351] ॥ २१ ॥
+
+[^351]: "हरणम्-अ.."
+
+रक्तपुष्पद्रुमचण्डाल[^352]वराहभल्लूकखरोष्ट्राणामारोहणम्[^353]॥ २२ ॥
+
+[^352]: " रक्तपुष्पधृतं चण्डालं-अ."
+
+[^353]: "चारोहणम् for आरोहणम्-क."
 
 पक्वमांसतैलकृसराणां भक्षणम् ॥ २३ ॥
 
-[नर्तनहसनविवाहगीतगानानि](# " नर्तनहासनविवाहगतगानानि-अ.")॥ २४ ॥
+नर्तनहसनविवाहगीतगानानि[^354]॥ २४ ॥
+
+[^354]: " नर्तनहासनविवाहगतगानानि-अ."
 
 तन्त्रीवाद्यव्यतिरिक्तवाद्यवादनम् ॥ २५ ॥
 
-[स्रोतोऽवगाहनम्](# "प्रेतोपगूहगमनम्-अ.") ॥ २६ ॥
+स्रोतोऽवगाहनम्[^355] ॥ २६ ॥
+
+[^355]: "प्रेतोपगूहगमनम्-अ."
 
 गोमयवारिस्नानम् ॥ २७ ॥
 
 पङ्कोदकमज्जनम् ॥ २८ ॥
 
-[महीतोयस्नानम्](# " महिषीतोयस्नानम्-क.") ॥ २९ ॥
+महीतोयस्नानम्[^356] ॥ २९ ॥
+
+[^356]: " महिषीतोयस्नानम्-क."
 
 मातुर्जठरप्रवेशः ॥ ३० ॥
 
@@ -4521,17 +5217,23 @@ etc*— *विष्णुः ,३६,७–८.*
 
 देवब्राह्मणभूपालप्रजानां प्रकोपनम् ॥ ३३ ॥
 
-[कुमार्यालिङ्गनम्](# "कुमार्या लिङ्गदर्शनम्-अ.") ॥ ३४ ॥
+कुमार्यालिङ्गनम्[^357] ॥ ३४ ॥
+
+[^357]: "कुमार्या लिङ्गदर्शनम्-अ."
 
 पुरुषमैथुनम् ॥ ३५ ॥
 
-[स्वगात्राणां ](# "स्वगोत्राणा-अ.")हानिः ॥ ३६ ॥
+स्वगात्राणां [^358]हानिः ॥ ३६ ॥
+
+[^358]: "स्वगोत्राणा-अ."
 
 दक्षिणदिग्गमनम् ॥ ३७ ॥
 
 व्याधिपीडनम् ॥ ३८॥
 
-[फलापहरणम्](# "पलाशहरणम्-क.") ॥ ३९ ॥
+फलापहरणम्[^359] ॥ ३९ ॥
+
+[^359]: "पलाशहरणम्-क."
 
 शाड्वलशोषणम् ⁴॥ ४० ॥
 
@@ -4565,7 +5267,9 @@ etc*— *विष्णुः ,३६,७–८.*
 
 काषायद्रव्यक्रीडनम् ॥ ४६ ॥
 
-[स्नेहावगाहनम्](# "स्नानम् for स्नेहावगाहनम्-क.")² ॥ ४७ ॥
+स्नेहावगाहनम्[^360]² ॥ ४७ ॥
+
+[^360]: "स्नानम् for स्नेहावगाहनम्-क."
 
 -----------------------
 
@@ -4629,7 +5333,9 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-एवमादिषु दुःस्वप्नेषु सहिरण्याज्यपात्रे यन्मे मन इति [मुखमवलोक्य ](# "मुखमवेक्ष्य-क.") ब्राह्मणाय दद्यात्² ॥ ४८ ॥
+एवमादिषु दुःस्वप्नेषु सहिरण्याज्यपात्रे यन्मे मन इति मुखमवलोक्य [^361] ब्राह्मणाय दद्यात्² ॥ ४८ ॥
+
+[^361]: "मुखमवेक्ष्य-क."
 
 अनुहवं परिहवमिति सहस्रकृत्वो वा जपेत् ³॥ ४९ ॥
 
@@ -4723,7 +5429,9 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-आत्मनः [शकृद्वीक्षेत चेत्](# " सकृद्वीक्षेत चेत्-अ शकृद्विक्षेपश्चेत्-क") सूर्य ब्राह्मणं गां वा पश्येत²॥ २ ॥
+आत्मनः शकृद्वीक्षेत चेत्[^362] सूर्य ब्राह्मणं गां वा पश्येत²॥ २ ॥
+
+[^362]: " सकृद्वीक्षेत चेत्-अ शकृद्विक्षेपश्चेत्-क"
 
 अग्नि³ खट्वादेरधः कृत्वा दर्भैश्च पादौ संमृज्योपवसेत्⁴ ॥ ३ ॥
 
@@ -4761,9 +5469,17 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-शय्यारूढपादुकोपानहारोपितपादोच्छिष्टान्धकारस्थ[श्राद्धकृज्जप](# "श्राद्ध-omitted by अ , श्राद्धकृतो जपं -क")होमदेवता[पूजानिरताज्यसमित्पुष्प](# "पूजाम्समित्पुष्पं-अ ")कुशाग्न्यम्बुमृदन्नपाणिक [विप्रसमूहस्थ](# " विप्रं समूहस्थं-क") चाभिवाद्य त्रिरात्रम्⁴ ॥ ६॥
+शय्यारूढपादुकोपानहारोपितपादोच्छिष्टान्धकारस्थश्राद्धकृज्जप[^363]होमदेवतापूजानिरताज्यसमित्पुष्प[^364]कुशाग्न्यम्बुमृदन्नपाणिक विप्रसमूहस्थ[^365] चाभिवाद्य त्रिरात्रम्⁴ ॥ ६॥
 
-एतत्प्रायश्चित्तमभिवा[द्याभिवादकयोरपि](# "अभिवादयोरपि for अभिवादकयोरपि-क")समानम् ॥ ७ ॥
+[^363]: "श्राद्ध-omitted by अ , श्राद्धकृतो जपं -क"
+
+[^364]: "पूजाम्समित्पुष्पं-अ "
+
+[^365]: " विप्रं समूहस्थं-क"
+
+एतत्प्रायश्चित्तमभिवाद्याभिवादकयोरपि[^366]समानम् ॥ ७ ॥
+
+[^366]: "अभिवादयोरपि for अभिवादकयोरपि-क"
 
 अशुचिर्नाभिवादयेत ॥ ८ ॥
 
@@ -4839,17 +5555,29 @@ etc*— *विष्णुः ,३६,७–८.*
 
 संक्रान्त्यादिनिषिद्धकालेऽभ्यङ्गभोजनमैथुनादौ सावित्रीसहस्रमप्सु जपेत्¹ ॥ ११ ॥
 
-[चण्डालरजकादिस्पृष्टस्पर्शे](# "चण्डालरजकादिस्पर्शे—अ") 
-[तूपवासः](# "चण्डालरजकादिस्पृष्ठस्पर्शनिमित्ते त्वस्नात्वा भोजने तूपवासः॥  प्रायश्चित्तेन्दुशेखरः, पृ. २३")
+चण्डालरजकादिस्पृष्टस्पर्शे[^367] 
+तूपवासः[^368]
 ॥ १२ ॥
+
+[^367]: "चण्डालरजकादिस्पर्शे—अ"
+
+[^368]: "चण्डालरजकादिस्पृष्ठस्पर्शनिमित्ते त्वस्नात्वा भोजने तूपवासः॥  प्रायश्चित्तेन्दुशेखरः, पृ. २३"
 
 अभ्यासेत्रिरात्रम्⁴ ॥ १३ ॥
 
-यूपं [चण्डालंदेवलकं](# "चण्डालोदेवलकं—अ") वित्तार्थंदेवपूजकं ब्राह्मणं च स्पृष्ट्वा [सचेलस्नानम्](# "सचेल स्नानम्— क")⁷॥ १४ ॥
+यूपं चण्डालंदेवलकं[^369] वित्तार्थंदेवपूजकं ब्राह्मणं च स्पृष्ट्वा सचेलस्नानम्[^370]⁷॥ १४ ॥
 
-[एतद्विष्ण्वर्चकविषयम्](# "एतद्विष्ण्वर्चनविषयम्—अ.") ॥ १५ ॥
+[^369]: "चण्डालोदेवलकं—अ"
 
-[सूर्यचन्द्राद्यर्चकानां](# "सूर्यचन्द्राद्यर्चने — अ.") सद्यःपतनम् ॥ १६ ॥
+[^370]: "सचेल स्नानम्— क"
+
+एतद्विष्ण्वर्चकविषयम्[^371] ॥ १५ ॥
+
+[^371]: "एतद्विष्ण्वर्चनविषयम्—अ."
+
+सूर्यचन्द्राद्यर्चकानां[^372] सद्यःपतनम् ॥ १६ ॥
+
+[^372]: "सूर्यचन्द्राद्यर्चने — अ."
 
 --------------------------------
 
@@ -4883,7 +5611,11 @@ etc*— *विष्णुः ,३६,७–८.*
 
 तीर्थयात्रां विना शतयोजनादधिकदूरदेशगो महापथिकः¹ ॥१७॥
 
-[प्रहसनेऽनृतभाषणे](# "प्रहसनेऽकृतभाषणे—क")[ऽधोवायुसमुत्सर्गे](# "अधोवायुविसर्जने — क") मार्जारस्पर्शे कर्म कुर्वन्नप उपस्पृशेत्⁴ ॥ १८ ॥
+प्रहसनेऽनृतभाषणे[^373]ऽधोवायुसमुत्सर्गे[^374] मार्जारस्पर्शे कर्म कुर्वन्नप उपस्पृशेत्⁴ ॥ १८ ॥
+
+[^373]: "प्रहसनेऽकृतभाषणे—क"
+
+[^374]: "अधोवायुविसर्जने — क"
 
 इति द्वितीय प्रश्ने सप्तदशोऽध्यायः।
 
@@ -4958,11 +5690,19 @@ etc*— *विष्णुः ,३६,७–८.*
 
 गोत्रस्पर्शे तु भोजनाद्विरम्य शुद्धिः¹ ॥ ३ ॥
 
-[भुञ्जानस्योच्छिष्टस्पर्शने स्नानं जपं च](# "भुजानस्योच्छिष्टस्पर्शनं जपं च —अ ") कृत्वा दिनान्ते[घृतप्राशनम्](# "cf., भुञ्जानस्योच्चिष्टेन सवर्णेन स्पर्शे स्नानं जपो वा ॥ प्रायश्चित्तेन्दुशेखरः, पृ.२५")॥ ४ ॥
+भुञ्जानस्योच्छिष्टस्पर्शने स्नानं जपं च[^375] कृत्वा दिनान्तेघृतप्राशनम्[^376]॥ ४ ॥
 
-चण्डालादिस्पर्शे [त्वस्नात्वा भोजने](# "त्वस्नानभोजने—अ, अस्नात्वा भोजने —क.")
-[चान्द्रायणम्](# " चण्डालादिस्पर्शनिमित्तेष्वस्नात्वा भुक्तौ त्रिरात्र काय वा । मत्या चान्द्रं सकृत् ॥प्रायश्चित्तेन्दुशेखर.. पृ.२३")
+[^375]: "भुजानस्योच्छिष्टस्पर्शनं जपं च —अ "
+
+[^376]: "cf., भुञ्जानस्योच्चिष्टेन सवर्णेन स्पर्शे स्नानं जपो वा ॥ प्रायश्चित्तेन्दुशेखरः, पृ.२५"
+
+चण्डालादिस्पर्शे त्वस्नात्वा भोजने[^377]
+चान्द्रायणम्[^378]
  ॥ ५ ॥
+
+[^377]: "त्वस्नानभोजने—अ, अस्नात्वा भोजने —क."
+
+[^378]: " चण्डालादिस्पर्शनिमित्तेष्वस्नात्वा भुक्तौ त्रिरात्र काय वा । मत्या चान्द्रं सकृत् ॥प्रायश्चित्तेन्दुशेखर.. पृ.२३"
 
 असंभाष्यैः संभाषणे पुण्यकृतो मनसा ध्यायेत् ॥ ६॥
 
@@ -4972,7 +5712,9 @@ etc*— *विष्णुः ,३६,७–८.*
 
 भोजने नक्तम्⁷ ॥ ९॥
 
-भुक्त्वानाचम्योत्थाने [सद्यःस्नानम्](# " वा सद्यः स्नानम्—अ ")⁹॥ १० ॥
+भुक्त्वानाचम्योत्थाने सद्यःस्नानम्[^379]⁹॥ १० ॥
+
+[^379]: " वा सद्यः स्नानम्—अ "
 
 
 
@@ -5004,15 +5746,27 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-इन्द्रचापं [पलशाग्नि](# "पालाशाग्नि—अ.")परस्मै दर्शयित्वोपोष्यधनुर्दण्डं दक्षिणां च दद्यात्**²** ॥ ११॥
+इन्द्रचापं पलशाग्नि[^380]परस्मै दर्शयित्वोपोष्यधनुर्दण्डं दक्षिणां च दद्यात्**²** ॥ ११॥
 
-अप्सु स्वप्रतिबिम्बं दृष्ट्वामयि तेज इति [जपेत्](# "जप्त्वा—अ")**⁴** ॥ १२ ॥
+[^380]: "पालाशाग्नि—अ."
 
-क्षुत्वा भुक्त्वा [*सुप्त्वानृतेऽपि*](# "सुप्त्वा चानृतेऽपि—क.")
-[चाचामेत्](# "वाचामेत्—अ.")**⁷** ॥ १३ ॥
+अप्सु स्वप्रतिबिम्बं दृष्ट्वामयि तेज इति जपेत्[^381]**⁴** ॥ १२ ॥
 
-[इति](# "इति— Omitted by क.") 
-[प्रकीर्णकप्रायश्चित्तम्](# "विप्रकीर्णकप्रायश्चित्तम्—अ.") ॥ १४ ॥
+[^381]: "जप्त्वा—अ"
+
+क्षुत्वा भुक्त्वा *सुप्त्वानृतेऽपि*[^382]
+चाचामेत्[^383]**⁷** ॥ १३ ॥
+
+[^382]: "सुप्त्वा चानृतेऽपि—क."
+
+[^383]: "वाचामेत्—अ."
+
+इति[^384] 
+प्रकीर्णकप्रायश्चित्तम्[^385] ॥ १४ ॥
+
+[^384]: "इति— Omitted by क."
+
+[^385]: "विप्रकीर्णकप्रायश्चित्तम्—अ."
 
 
 
@@ -5056,9 +5810,15 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-[अनृतं मद्यगन्धं](# "अनृतममेश्यगन्धं —अ.") [दिवास्वापं](# "दिवा स्वापनं—अ.") दिवा मैथुनं [नग्नस्त्रीदर्शनं](# "नग्नस्त्रीदर्शनं पश्चादिसंगं दृष्ट्वा—omitted by क.")
+अनृतं मद्यगन्धं[^386] दिवास्वापं[^387] दिवा मैथुनं नग्नस्त्रीदर्शनं[^388]
+
+[^386]: "अनृतममेश्यगन्धं —अ."
+
+[^387]: "दिवा स्वापनं—अ."
 
 ------------------------
+
+[^388]: "नग्नस्त्रीदर्शनं पश्चादिसंगं दृष्ट्वा—omitted by क."
 
 *²cf , इन्द्रचाप पलाशाग्नि यदन्यस्य प्रदर्शयेत् ।*
 
@@ -5074,21 +5834,35 @@ etc*— *विष्णुः ,३६,७–८.*
 
 
 
-नं च [*पु*](# "भुनाति--क")[नाति](# "भुनाति—क")  [बहिः  संध्या ह्युपासिता](# " बहिः सध्यामुपासीत—अ")**³**॥ १ ॥
+नं च *पु*[^389]नाति[^390]  बहिः  संध्या ह्युपासिता[^391]**³**॥ १ ॥
+
+[^389]: "भुनाति--क"
+
+[^390]: "भुनाति—क"
+
+[^391]: " बहिः सध्यामुपासीत—अ"
 
 अग्नेर्मन्वेति सूक्तं जलमध्ये स्थितः सन् जपेत् ॥ २ ॥
 
-[वितन्तुगमनदोषान्मुच्यते](# "वितन्तुगमने दोषान्मुच्यते—अ.")**⁵** ॥ ३ ॥
+वितन्तुगमनदोषान्मुच्यते[^392]**⁵** ॥ ३ ॥
 
-[अथ](# "अथ—Omitted by क.") सर्वपापक्षयकरा मन्त्राः॥ ४ ॥
+[^392]: "वितन्तुगमने दोषान्मुच्यते—अ."
+
+अथ[^393] सर्वपापक्षयकरा मन्त्राः॥ ४ ॥
+
+[^393]: "अथ—Omitted by क."
 
 विश्वानि देव सवितरिति ॥ ५ ॥
 
 आकृष्णेनेति ॥ ६॥
 
-ऋचं वाचं प्रपद्ये मनो यजुः प्रपद्य ऋतं [ऋतं प्रपद्य](# "ऋतं प्रपद्ये— omitted by क.") इति ॥ ७ ॥
+ऋचं वाचं प्रपद्ये मनो यजुः प्रपद्य ऋतं ऋतं प्रपद्य[^394] इति ॥ ७ ॥
 
-[*तथा*](# "तदा—क.") गायत्रीसहस्रं महापातकेषु**⁹** ॥ ८ ॥
+[^394]: "ऋतं प्रपद्ये— omitted by क."
+
+*तथा*[^395] गायत्रीसहस्रं महापातकेषु**⁹** ॥ ८ ॥
+
+[^395]: "तदा—क."
 
 ---------------------------
 
@@ -5135,9 +5909,13 @@ etc*— *विष्णुः ,३६,७–८.*
 
 सुवर्णस्तेयकृद्विप्रो ब्रह्महा गुरुतल्पगः।
 
-सुरापश्च विशुध्यन्ति लक्षं [*जप्त्वा*](# "जप्तुर्न—अ.") न संशय इति**⁴** ॥१३ ॥
+सुरापश्च विशुध्यन्ति लक्षं *जप्त्वा*[^396] न संशय इति**⁴** ॥१३ ॥
 
-[एकादशाना रुद्रानुवाकाना](# "एकादशरुद्रानुवाकानां—क.") समूहो रुद्रैकादशिनी ॥ १४ ॥
+[^396]: "जप्तुर्न—अ."
+
+एकादशाना रुद्रानुवाकाना[^397] समूहो रुद्रैकादशिनी ॥ १४ ॥
+
+[^397]: "एकादशरुद्रानुवाकानां—क."
 
 ----------------------------
 
@@ -5176,10 +5954,16 @@ XVII, 3, p. 79*
 
 एकादशगुणान्वापि रुद्रानावृत्य धर्मवित्।
 
-महद्भ्यः [*स*](# "च for स—अ") तु पापेभ्यो मुच्यते नात्र संशयः²॥ १६ ॥
+महद्भ्यः *स*[^398] तु पापेभ्यो मुच्यते नात्र संशयः²॥ १६ ॥
 
-[महापातकेष्वेकादशावृत्तिकथना](# "महापातकेष्वेकादशकथानां—क")दतिपातकादिषु
-[चतुर्थाशो ह्रास](# "चतुर्थांशह्रासकः—क") कल्प्यः**⁵** ॥
+[^398]: "च for स—अ"
+
+महापातकेष्वेकादशावृत्तिकथना[^399]दतिपातकादिषु
+चतुर्थाशो ह्रास[^400] कल्प्यः**⁵** ॥
+
+[^399]: "महापातकेष्वेकादशकथानां—क"
+
+[^400]: "चतुर्थांशह्रासकः—क"
 
 इति द्वितीयप्रश्न एकोनविंशोऽध्यायः
 
@@ -5253,15 +6037,23 @@ XVII, 3, p. 79*
 
 सर्वेषा यज्ञानामुत्तमो जपयज्ञ**¹**॥ २ ॥
 
-[यक्षराक्षसपिशाचा अतिभीषणाग्रहाश्च](# "यक्षरक्षः पिशाचा अतिभीषणग्रहाश्च—क")जपिन नोपसर्पन्ति ॥ ३ ॥
+यक्षराक्षसपिशाचा अतिभीषणाग्रहाश्च[^401]जपिन नोपसर्पन्ति ॥ ३ ॥
+
+[^401]: "यक्षरक्षः पिशाचा अतिभीषणग्रहाश्च—क"
 
 दूरादेव च प्रयान्ति**³** ॥ ४ ॥
 
-[ससागरकाञ्चनसंपूर्णपृथिवीदानादधिक](# "ससागरसंपूर्णकाञ्चनपृथिवीदानादधिकं—क, ससागरकाञ्चनसपूर्णवृद्धिविधानादधिकं—अ ")** पुण्यं सकृद्रुद्रजपात्॥ ५॥
+ससागरकाञ्चनसंपूर्णपृथिवीदानादधिक[^402]** पुण्यं सकृद्रुद्रजपात्॥ ५॥
 
-[*सहस्राब्द*](# "सहस्रादि for सहस्राब्द—क")तपश्चर्यादधिकं पुण्यं सकृद्रुद्रजपाद्भवति ॥ ६॥
+[^402]: "ससागरसंपूर्णकाञ्चनपृथिवीदानादधिकं—क, ससागरकाञ्चनसपूर्णवृद्धिविधानादधिकं—अ "
 
-*[कोटिगोदानादधिकं](# "कोटिदानादधिक—अ")* पुण्यं सकृदुद्रजपात ॥ ७ ॥
+*सहस्राब्द*[^403]तपश्चर्यादधिकं पुण्यं सकृद्रुद्रजपाद्भवति ॥ ६॥
+
+[^403]: "सहस्रादि for सहस्राब्द—क"
+
+*कोटिगोदानादधिकं[^404]* पुण्यं सकृदुद्रजपात ॥ ७ ॥
+
+[^404]: "कोटिदानादधिक—अ"
 
 सर्वयज्ञतपोदानतीर्थानि रुद्रजपस्यषोडशी कला नार्हन्ति^(**7**) ॥८॥
 
@@ -5304,12 +6096,16 @@ XVII, 3, p. 79*
 
 
 कृष्णाजिने
-[सर्पिर्मधुहिरण्यतिलान्निक्षिप्य](# " सर्पिर्मधु हिरण्य तिलान्निक्षिप्य—अ")
+सर्पिर्मधुहिरण्यतिलान्निक्षिप्य[^405]
 यस्तु विप्राय ददाति स सर्व दुष्कृतं तरति**²** ॥९॥
+
+[^405]: " सर्पिर्मधु हिरण्य तिलान्निक्षिप्य—अ"
 
 आदौ वेदस्वीकरणं विचारोऽभ्यसनं जपो दानं विप्रेभ्य इति वेदाभ्यासः पञ्चधा**³**॥ १० ॥
 
-ब्रह्माहमस्मीति लक्षणं यः कुर्यादात्मचिन्तनं सर्वपातकं [*हरति*](# "हन्ति for हरति—अ.") यथा तमःसूर्योदये सूर्योदये**⁵** ॥ ११ ॥
+ब्रह्माहमस्मीति लक्षणं यः कुर्यादात्मचिन्तनं सर्वपातकं *हरति*[^406] यथा तमःसूर्योदये सूर्योदये**⁵** ॥ ११ ॥
+
+[^406]: "हन्ति for हरति—अ."
 
 **इति द्वितीयप्रश्ने विंशोऽध्यायः॥**
 
@@ -5373,7 +6169,33 @@ XVII, 3, p. 79*
 
 **अनुक्रमणिका**
 
-पाकयज्ञा विधियज्ञाः। [अनृतं](# "अनृतममेध्यगन्धम्—अ.") मद्यगन्धम्। भुञ्जानम्य मस्तकेऽमेध्यपतने। अङ्गवङ्गकलिङ्गदेशान् गत्वा। अस्नात्वा भोजने। धान्य गृहस्थिने [गृहदाहे](# "गृहदाहे सति—क")। अव्रतस्यान्नम्। [निगलेन बद्धस्य](# "निगले निबद्धस्य—क.") [कदर्यस्य](# "कदर्यस्य— Omitted by क")। म्लेच्छादीनां पुष्करिण्या [*ह्रदे*](# "ह्रादे—क")। अनिर्दशाहगोमहिषी[क्षीरपाने](# "क्षीरपाने— Omitted by अ")। श्वजम्बूकरासभैर्[दष्टा](# "दष्टा— omitted by अ.")। कामतः [स्वैरिशूद्रगमने](# "स्वैरिशूद्र्या गमने—क, स्वैरिशूद्र्यानुगमने—अ")। कामतो गुरुतल्पगामी। सुरापः सुराम्बुघृत[*गोमूत्रपयसाम्*](# "गोमूत्रपयसाम्—omitted by क")। [*मातृगमनदुहितृगमन*](# "मातृगमनदुहितृगमने । अथ—अ.")स्नुषागमनानि। अथ [*ब्रह्महत्यासमम्*](# "ब्रह्महत्यासमं पातक वक्ष्यामः—क")। ब्रह्महा कुष्ठी स्यात्। ब्रह्महा [*क्षयरोगी*](# "क्षयरोगी स्यात्—क.")। [*अथवा*](# "अथ पङ्क्तौ वेदमभ्यसन्—अ.") वेदमभ्यसन्। अथातो धर्मशेषान् व्याख्यास्यामः**¹³** ॥
+पाकयज्ञा विधियज्ञाः। अनृतं[^407] मद्यगन्धम्। भुञ्जानम्य मस्तकेऽमेध्यपतने। अङ्गवङ्गकलिङ्गदेशान् गत्वा। अस्नात्वा भोजने। धान्य गृहस्थिने गृहदाहे[^408]। अव्रतस्यान्नम्। निगलेन बद्धस्य[^409] कदर्यस्य[^410]। म्लेच्छादीनां पुष्करिण्या *ह्रदे*[^411]। अनिर्दशाहगोमहिषीक्षीरपाने[^412]। श्वजम्बूकरासभैर्दष्टा[^413]। कामतः स्वैरिशूद्रगमने[^414]। कामतो गुरुतल्पगामी। सुरापः सुराम्बुघृत*गोमूत्रपयसाम्*[^415]। *मातृगमनदुहितृगमन*[^416]स्नुषागमनानि। अथ *ब्रह्महत्यासमम्*[^417]। ब्रह्महा कुष्ठी स्यात्। ब्रह्महा *क्षयरोगी*[^418]। *अथवा*[^419] वेदमभ्यसन्। अथातो धर्मशेषान् व्याख्यास्यामः**¹³** ॥
+
+[^407]: "अनृतममेध्यगन्धम्—अ."
+
+[^408]: "गृहदाहे सति—क"
+
+[^409]: "निगले निबद्धस्य—क."
+
+[^410]: "कदर्यस्य— Omitted by क"
+
+[^411]: "ह्रादे—क"
+
+[^412]: "क्षीरपाने— Omitted by अ"
+
+[^413]: "दष्टा— omitted by अ."
+
+[^414]: "स्वैरिशूद्र्या गमने—क, स्वैरिशूद्र्यानुगमने—अ"
+
+[^415]: "गोमूत्रपयसाम्—omitted by क"
+
+[^416]: "मातृगमनदुहितृगमने । अथ—अ."
+
+[^417]: "ब्रह्महत्यासमं पातक वक्ष्यामः—क"
+
+[^418]: "क्षयरोगी स्यात्—क."
+
+[^419]: "अथ पङ्क्तौ वेदमभ्यसन्—अ."
 
 
 
@@ -5457,3 +6279,449 @@ XVII, 3, p. 79*
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^180]: "चरेचन्द्रव्रतम्—क"
+
+
+[^87]: "क्षीरकारो गृहोपस्करº ----क."
+
+
+[^34]: "PP 457 to 475"
+
+
+[^32]: "2 The sūtras referred to are cited hereunder   वृद्धगौतम देवद्रव्योपजीवी हृद्रोगी । प्रतिज्ञाय ब्राह्मणस्यादानादल्पायुः । पत्नीबहुत्वे मत्येकाराम क्लीब । स्वामिना धर्मे नियुक्तस्तदनुष्ठानाशक्तो जलोदरी। दुर्बलबाधे    बलवतामुपेक्षायामगहीन     ।   व्यवहारपक्षपाते जिह्वारोगी।स्वयं प्रवर्तितधर्मानुष्ठानछेदने प्रतिपन्नेष्टवियोग। स्वयमग्रभुक् शूलरोगी। परिक्षीणमित्रबन्धुस्वामिखजनावमन्ता परिभूतवृत्ति । अतिथि पश्यन्नश्नत कपालपट्टिका । सूर्यास्तकाले प्रतिश्रयादानादिष्टवियोग । छद्मना गुरुस्वामिमित्रमुपचरत   प्राप्तार्थपरिभ्रशः।  विश्रम्भापहारी सर्वदुःखाश्रयः । गोदुखकारी गोनामहा। गोनिर्दयश्चिपिटनासः। यथानाशको निस्तेजस्क । सभायां गलग्रन्थी पुण्याक्षेपी वक्रणास । शिष्टचीर्णधर्मदूषकःकेकराक्षः । साधुजनतपस्विदेवद्विजगुरुज्ञानयोगद्वेष्टा वक्रास्य । तटाकारामभेत्ता नेत्रागहीन । कृतघ्न सर्वारम्भविकलः । परस्वाभिलाषी क्षयरोगी स्यात् । चौररक्षक ,   "
+
+
+[^20]: "2Manu, XI, 228, 229, 230              यथा यथा नोऽधर्म स्वयं कृत्वानुभाषते ।  तथा तथा त्वचेवाहिस्तेनाधर्मेण मुच्यते ॥   यथा यथा मनस्तस्य दुष्कृतं कर्म गर्हति ।"
+
+
+[^11]: "It is only during the days of the British administration that Dharmas āstra has come to be looked down upon by the secular state and set aside Islands of territory have continued to exist administering dharma rules in various spheres of life in the states until very recent times. Such a living s āstra, in spite of the vicissitudes during foreign rule, furnished the standard code when the administration of the East India Company started on its adminstrative career."
+
+
+[^7]: "3 Manu, II, 6"
+
+
+[^2]: "Encyclopaedia of Religion and Ethics, Vol IV. p 702 ."

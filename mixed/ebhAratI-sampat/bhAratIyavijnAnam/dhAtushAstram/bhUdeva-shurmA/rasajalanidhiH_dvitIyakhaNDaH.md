@@ -722,7 +722,9 @@ They are called uparasas, simply because they possess some of the qualities of R
 
 **तस्य गुणाः।**
 
-**गौरीतेजः परमममृतं[वातपित्तक्षयघ्न](# "देव्यारजो भवेद्गन्धो धातुशुक्रं तथाभ्रकम् ।")ं**
+**गौरीतेजः परमममृतंवातपित्तक्षयघ्न[^1]ं**
+
+[^1]: "देव्यारजो भवेद्गन्धो धातुशुक्रं तथाभ्रकम् ।"
 
 **प्रज्ञाबोधि प्रशमितरुजं वृष्यमायुष्यमग्यम्। **
 
@@ -1256,7 +1258,9 @@ Dhanya abhram is to be rubbed, first of all, with the juice of changeri, and the
 
 **कृतं चक्राकारं शुष्कं सम्यग् गजपुटे पंचेत्॥**
 
-**ततो [धत्तूरपत्तूरकुमारीशशिवाटिका](# "पत्तूरम् जलपिप्पली। शशिवाटिकोत्पलम्।")ः।**
+**ततो धत्तूरपत्तूरकुमारीशशिवाटिका[^2]ः।**
+
+[^2]: "पत्तूरम् जलपिप्पली। शशिवाटिकोत्पलम्।"
 
 **प्रत्येकस्वरसेनैव पुटादाशुर्मृतिर्भवेत्॥**
 
@@ -1442,7 +1446,9 @@ Mica is to be rubbed with each of the following:—nagabala, bhadramusta, milk o
 
 Dhany abhram is to be rubbed with the juice of matsyakshi, made into a cake, dried, and then heated in a Gaja putam. It is thus to be rubbed with the juice of punarnava and heated by Gaja putam for six times. It is next to be rubbed with one sixteenth its weight of tankanam, made into a cake, and heated by fire being applied on the upperside of the samputam (containing the cake ) which is to be in a pit made in the earth. This process of rubbing withtankanam and heating is to be performed for seven times. It is next to be rubbed with each of the following for seven times each, and heated in the aforesaid way after its being rubbed each time :— juice of basa, and juice of tarnduliyaka. Mica, thus incinerated, may be used in all sorts of diseases.
 
-*[**त्रिंशो विधिः**](# "धान्याभ्रकस्यापि विधानमत्र लिख्यते ।")।*
+***त्रिंशो विधिः**[^3]।*
+
+[^3]: "धान्याभ्रकस्यापि विधानमत्र लिख्यते ।"
 
 **वज्राभ्रकं कुट्टयितुं सुखल्वे तप्तेन दुग्धेन च सेचनीयम्।**
 
@@ -1760,7 +1766,9 @@ One is freed from the evil effects of taking impure mica, if one takes for three
 
 **पिण्डीकृतं तु बहुधा महिषीमलेन**
 
-**संशोष्य कोष्ठगतमाशु धमेद् [वटाग्नौ](# " महाग्नौइति पाठान्तरम् । ")।**
+**संशोष्य कोष्ठगतमाशु धमेद् वटाग्नौ[^4]।**
+
+[^4]: " महाग्नौइति पाठान्तरम् । "
 
 **सत्त्वंपतत्यतिरसायनजारणार्थं**
 
@@ -2124,7 +2132,9 @@ Dhanya abhram with one fourth its quantity of cow's flesh and saindhava are to b
 
 ***Fifth process.***
 
-Mica is to be powdered very fine and subjected to bhavana with human oil [(fat)](# "See glossary.").It is then to be subjected to heat by being put into a crucible, previously coated all over its inner surface, with a worm called indra gopa or gopendra. The result will be a liquefaction of the mica,
+Mica is to be powdered very fine and subjected to bhavana with human oil (fat)[^5].It is then to be subjected to heat by being put into a crucible, previously coated all over its inner surface, with a worm called indra gopa or gopendra. The result will be a liquefaction of the mica,
+
+[^5]: "See glossary."
 
 **षष्ठो विधिः।**
 
@@ -2230,7 +2240,9 @@ White mica, sulphur, mercury, and a red flower—these four, rubbed with the mil
 
 **बृहद्वर्ण इति ख्यातो माक्षिकः श्रेष्ठ उच्यते॥**
 
-**माक्षिको द्विविधो हेममाक्षिक[स्तारमाक्षिकः](# "कांस्यमाक्षिकमिति तारमाक्षिकस्य नामान्तरम्।")।**
+**माक्षिको द्विविधो हेममाक्षिकस्तारमाक्षिकः[^6]।**
+
+[^6]: "कांस्यमाक्षिकमिति तारमाक्षिकस्य नामान्तरम्।"
 
 **तत्राद्यंमाक्षिकंकान्यकुब्जोत्थं स्वर्णसन्निभम्॥**
 
@@ -2265,9 +2277,13 @@ The makshika, which, on being broken to pieces, presents a surface bright with g
 
 **तथांगुरीयकाकारं भस्मकतुरिकासमम्॥**
 
-**पीतं सुवर्णमाक्षिकंरक्ताभं [विमलाख्यकम्](# "अग्नेविमलस्य स्वतन्त्रः प्रसङ्गो द्रष्टव्यः।")।**
+**पीतं सुवर्णमाक्षिकंरक्ताभं विमलाख्यकम्[^7]।**
 
-**सुवर्णमाक्षिकंतेषु प्रवरं [सप्तवर्णकम्](# "सप्तवर्णकम्—सप्तवर्णसुवर्णाभम्।")॥**
+[^7]: "अग्नेविमलस्य स्वतन्त्रः प्रसङ्गो द्रष्टव्यः।"
+
+**सुवर्णमाक्षिकंतेषु प्रवरं सप्तवर्णकम्[^8]॥**
+
+[^8]: "सप्तवर्णकम्—सप्तवर्णसुवर्णाभम्।"
 
 **विमलस्य गुणाः किञ्चिन् न्यूनाः कनकमाक्षिकात्।**
 
@@ -2279,7 +2295,9 @@ The makshika, which, on being broken to pieces, presents a surface bright with g
 
 Makshikas are of three different kinds, vlz, yellow, white, and red. They are also sub-divided into four classes according to their shape, due to the difference in the location of the soils in which they are to be found, viz, (1) round like a kadamba flower, (2) having the shape of an oyster shell (3) having the shape of a finger ring, and (4) resembling burnt tubari in colour.
 
-Of these varieties, the one which is yellowish is called swarna makshika, and that which is reddish is called [bimala](# "Bimala is separately treated later on."), Swarna makshika is the best of all these varieties. It has the colour of gold ^(7/₁₆)parts fine.Bimala is a bit inferior in quality to swarna makshika. Similarly, the makshika which has the shape of an oyster shell and some other varieties having the colour of silver are the worst of all, As regards merit of these different varieties, it depends upon the quantity of gold contained in each.
+Of these varieties, the one which is yellowish is called swarna makshika, and that which is reddish is called bimala[^9], Swarna makshika is the best of all these varieties. It has the colour of gold ^(7/₁₆)parts fine.Bimala is a bit inferior in quality to swarna makshika. Similarly, the makshika which has the shape of an oyster shell and some other varieties having the colour of silver are the worst of all, As regards merit of these different varieties, it depends upon the quantity of gold contained in each.
+
+[^9]: "Bimala is separately treated later on."
 
 **किञ्चित् सुवर्णसाहित्यात् स्वर्णमाक्षिकमीरितम्।**
 
@@ -2485,13 +2503,17 @@ Makshika is purified if it is heated and immersed in each of the following :— 
 
 **मातुलुङ्गाम्बुगन्धाभ्यां पिष्टं मूषोदरे स्थितम्।**
 
-**पञ्च[क्रोड़पुटै](# "क्रोड़पुटं लावकपुटमित्यर्थः प्रथम खण्डे २९८ पृष्टं द्रष्टव्यम्।")र्दग्धं म्रियते माक्षिकं खलु॥**
+**पञ्चक्रोड़पुटै[^10]र्दग्धं म्रियते माक्षिकं खलु॥**
+
+[^10]: "क्रोड़पुटं लावकपुटमित्यर्थः प्रथम खण्डे २९८ पृष्टं द्रष्टव्यम्।"
 
  **Incineration of Makshika.**
 
 ***First process.***
 
-Makshika is incinerated, if it is rubbed with the juice of matulunga and sulphur, confined in a crucible, and then subjected to [croda putam](# "Croda putam is another name for labaka putam (see page 298, vol I).") for five times.
+Makshika is incinerated, if it is rubbed with the juice of matulunga and sulphur, confined in a crucible, and then subjected to croda putam[^11].") for five times.
+
+[^11]: "Croda putam is another name for labaka putam (see page 298, vol I
 
 ** द्वितीयो विधिः।**
 
@@ -2767,7 +2789,9 @@ The inner surface of a crucible is to be coated all over with bimala, previously
 **विमलं शिग्रूतोयेन कांक्षीकासीसटंकणैः ।**  
 **वज्रकन्दसमायुक्तं भावितं कदलीरसैः ॥**  
 **मोक्षकक्षारसंयुक्तं ध्मापितं मूकमूषगम् ।**  
-**सत्त्वं [चन्द्रार्कसंकाशं](# "भागाः षोड़श तारस्य तथा द्वादश भास्वतः । एकत्रावर्त्तितास्तेन चन्द्रार्कमपि कथ्यते ॥") मुञ्चति नात्र संशयः ॥ \***
+**सत्त्वं चन्द्रार्कसंकाशं[^12] मुञ्चति नात्र संशयः ॥ \***
+
+[^12]: "भागाः षोड़श तारस्य तथा द्वादश भास्वतः । एकत्रावर्त्तितास्तेन चन्द्रार्कमपि कथ्यते ॥"
 
 ***Second process.***
 
@@ -2999,7 +3023,9 @@ Shilajatu is to be cut into pieces and washed off with water for the removal of 
 
 **तुल्यं गिरिजेन जले वसुगुणिते भावनौषधं क्वाथ्यम् ।**
 
-**तत्व्कथे पादांशे [पूतोष्णे](# "पूतं वस्त्रपूतं उष्णञ्च तस्मिन् पूतोष्णे ।")प्रक्षिपेद्गिरिजम् ।**
+**तत्व्कथे पादांशे पूतोष्णे[^13]प्रक्षिपेद्गिरिजम् ।**
+
+[^13]: "पूतं वस्त्रपूतं उष्णञ्च तस्मिन् पूतोष्णे ।"
 
 **तत् समरसतां यातं संशुष्कं प्रक्षिपेद् रसे भूयः॥**
 
@@ -3021,7 +3047,9 @@ Shilajatu is first of all to be washed off with water, and dried. It is then to 
 
 **लोहस्थितं निम्बगुड़ूचीसर्पिर्यवैर्यथावत् परिभावयेत् तत् ।**
 
-**[सन्तानिका](# "सन्तानिका तद्बहिःसंलग्नमृत्तिकादिमलः ।")कीटपतंगदंशदुष्टौषधिदोषनिवारणाय ॥ तत्प्रकारः कथ्यते ।**
+**सन्तानिका[^14]कीटपतंगदंशदुष्टौषधिदोषनिवारणाय ॥ तत्प्रकारः कथ्यते ।**
+
+[^14]: "सन्तानिका तद्बहिःसंलग्नमृत्तिकादिमलः ।"
 
 **उष्णेच काले रवितापयुक्तोव्यभ्रेनिवाते समभूमिभागे ।**  
 **चत्वारि पात्राण्यसितायसानि न्यस्यातपे तत्र कृतावधानः ॥**
@@ -3140,7 +3168,9 @@ Shilajatu, properly purified, will burn without emitting any smoke. When suffici
 वलीपलितनिर्मुक्तो जीवेद्वर्षशतं सुखी ॥  
 मात्रा पलं त्वर्द्ध पलं स्यात् कर्षस्तु कनीयसी ॥  
 शिलाजतुप्रयोगेषु विदाहीनि गुरुणि च ।  
-वर्जयेत्सर्वकालञ्च [कुलत्थान्](# "पाषाणस्यापि भेदकं कुलत्थं शिलाधातोः का कथा । अतएव शिजाजतुसेविना कुलत्थं परिहार्य्यमामरणम् ।") परिवर्जयेत् ॥**
+वर्जयेत्सर्वकालञ्च कुलत्थान्[^15] परिवर्जयेत् ॥**
+
+[^15]: "पाषाणस्यापि भेदकं कुलत्थं शिलाधातोः का कथा । अतएव शिजाजतुसेविना कुलत्थं परिहार्य्यमामरणम् ।"
 
 **व्यायामातपमारुतचेतः संतापि गुरु विदाहीनि ।**  
 **उपयोगादपि परितो द्विगुणं परिवर्जयेत कालम् ॥**
@@ -3151,7 +3181,9 @@ Shilajatu, properly purified, will burn without emitting any smoke. When suffici
 
 ***Use of purified shilajatu.***
 
-Purified shilajatu, taken with milk and a suitable quantity of incinerated iron (doseof iron-1/16 tola a day) has the effect of increasing vitality, curing and preventing senility, strengthening the system, and increasing memory and retentive faculties in one who takes a sufficient quantity of [milk](# "Milk proves injurious to the system, if it is taken with such things as meat, fish, sours, beans, etc. (See Charaka and other books on Indian Hygiene).") (and of course a salutary and congenial vegetable diet \*). Shilajatu produces an appreciable effect, if it is taken for one week; it produces better result if it is taken for three weeks; and if taken for seven weeks, it produces much better results. One who takes shilajatu for six weeks, observing all the regulations to be followed with regard to the use of medicines meant for the cure and prevention of senility, lives a happy and healthy life for 100 years. Dose of shila-jatu- one tola a day is the ordinery dose ; two tolas a day produces a better effect; and four tolas a day produces an excellent effect.
+Purified shilajatu, taken with milk and a suitable quantity of incinerated iron (doseof iron-1/16 tola a day) has the effect of increasing vitality, curing and preventing senility, strengthening the system, and increasing memory and retentive faculties in one who takes a sufficient quantity of milk[^16].") (and of course a salutary and congenial vegetable diet \*). Shilajatu produces an appreciable effect, if it is taken for one week; it produces better result if it is taken for three weeks; and if taken for seven weeks, it produces much better results. One who takes shilajatu for six weeks, observing all the regulations to be followed with regard to the use of medicines meant for the cure and prevention of senility, lives a happy and healthy life for 100 years. Dose of shila-jatu- one tola a day is the ordinery dose ; two tolas a day produces a better effect; and four tolas a day produces an excellent effect.
+
+[^16]: "Milk proves injurious to the system, if it is taken with such things as meat, fish, sours, beans, etc. (See Charaka and other books on Indian Hygiene
 
 While taking shilajatu, one should avoid foods which are fried, roasted (with or without oil), sour, fermented, and heavy. The man who takes shilajatushould abstain from taking, once for all, kulattha gram, in as much as the latter can corrode even stone, and has therefore a property which destroys the effect which shilajatu produces uponthe human system.
 
@@ -3222,7 +3254,9 @@ Shila-jatu, not properly purified, gives rise to inflammation, hysteric fits, gi
 
 The diseases due to an improper use of shila-jatu may be cured by taking, for seven days, maricham (in doses of 1/4of a tola a day ), mixed with ghee,
 
-**ऊषराख्यं [शिलाजतु।](# "भाषायामेतत् सोरा इति कथ्यते ।")**
+**ऊषराख्यं शिलाजतु।[^17]**
+
+[^17]: "भाषायामेतत् सोरा इति कथ्यते ।"
 
 **शिलाजतु द्विधा ज्ञोयं तत्राद्यं गिरिसंभवम् ।**  
 **द्वितीयं स्यादूपरायां मृत्तिकाजलयोगतः ॥**
@@ -3240,7 +3274,9 @@ Shila-jatu is of two kinds, viz, the one which is procured from hills, and the o
 **तुत्थं ताम्रोपधातुर्हि गन्धताम्रोण तद्भवेत् ॥**
 
 **किञ्चित्ताम्रगुणं तद्धि वक्ष्यमाणगुणञ्च तत् ।**  
-**तुत्थकं कटुकं क्षारं कषायं [वामकं](# "वामकं इत्येतस्य स्थले विशद इति पाठान्तरं दृश्यते ।") लघु ॥**
+**तुत्थकं कटुकं क्षारं कषायं वामकं[^18] लघु ॥**
+
+[^18]: "वामकं इत्येतस्य स्थले विशद इति पाठान्तरं दृश्यते ।"
 
 **लेखनं भेदनं शीतं चक्षुष्यं कफपित्तहृत् ।**  
 **विषाश्मकुष्ठकण्डूघ्नंक्रिमिघ्नञ्चापि तत् परम् ॥**
@@ -3356,7 +3392,9 @@ Essence is extracted from tuttham without any application of heat, if powdered t
 
 Peacock's feather is to be burnt with ghee and honey. The ashes, thus prepared, are to be mixed with oil cakes, guggulu, small fishes, tankanam, swarji, honey, gunja, lac growing on aswattha tree, andghee. All these are to be mixed together and made into a lump which is to be heated in a blind crucible, resulting in the extraction of a kind of copper, called "Nagatamram."
 
-**अथ शूलघ्नी [मुद्रिका](# "अन्यविधा शूलघ्नी मुद्रिका द्रष्टव्या ११३ पृष्ठे ।") ।**
+**अथ शूलघ्नी मुद्रिका[^19] ।**
+
+[^19]: "अन्यविधा शूलघ्नी मुद्रिका द्रष्टव्या ११३ पृष्ठे ।"
 
 **तुत्थसत्वं नागताम्रं हेम चैव समांशकम् ।**  
 **मुद्रिकेयं कृतस्पर्शा शूलघ्नीतत्क्षणाद् भवेत् ॥**
@@ -3483,7 +3521,9 @@ Powdered sasyaka, with one fourth its quantity of tankanam, is to be kept immers
 
 Sasyakam discharges its essence in the form of copper, if rubbed with lime juice and a little of tankanam, confined in a crucible, and then heated
 
-**अथ द्वितीया शूलघ्नी [मुद्रिका](# "( अवशिष्टांशं प्रथमा शूलघ्नीमुद्रिकावत् )") ।**
+**अथ द्वितीया शूलघ्नी मुद्रिका[^20]") ।**
+
+[^20]: "( अवशिष्टांशं प्रथमा शूलघ्नीमुद्रिकावत्
 
 **सस्यसत्त्वं समादाय खरभूनागसत्त्वयुक् ।**  
 **तन्मुद्रिका कृतस्पर्शा शूलघ्नी तत्क्षणाद् भवेत् ॥**
@@ -3529,7 +3569,9 @@ One part of the essence, two parts of mercury, and four parts of sulphur are to 
 
 The evil effects followed by an improper use of tutthaka and sasyaka can be counteracted by the taking of lime juice for three days. The same result is obtained by the drinking of water in which fried paddy ( not rice ) is kept immersed for some time.
 
-**अथ [चपलः](# "चपलस्तु दुर्लभोऽधुना । नागवङ्गयोरुपधातुरेवायं प्रतीयते । ग्रन्थकारस्य प्रवला चेष्टापि तं लब्धुंन शक्तवती ।") ।**
+**अथ चपलः[^21] ।**
+
+[^21]: "चपलस्तु दुर्लभोऽधुना । नागवङ्गयोरुपधातुरेवायं प्रतीयते । ग्रन्थकारस्य प्रवला चेष्टापि तं लब्धुंन शक्तवती ।"
 
 **यत्र जातौ नागवंगौ चपलस्तत्र जायते ।**  
 **गौरः श्वेतोऽरुणः कृष्णश्चपलस्तु चतुर्विधः****॥**
@@ -3547,9 +3589,11 @@ The evil effects followed by an improper use of tutthaka and sasyaka can be coun
 **गुल्मामशूलशोषेषु प्रमेहेषु ज्वरेषु च ।**  
 **प्रदरेषु प्रयोक्तव्यश्चपलस्त्वमृतोपमः ॥**
 
-[***Chapala.***](# "It appears to be an ore containing lead or tin. It is now-a-days very rare; and the author has not yet been able to procure it.")
+***Chapala.***[^22]
 
 Chapala is obtained in mines from which lead and tin are procured. It is of four different kinds, viz., gold coloured, white, red, and black. The first two are especially suitable for solidification of mercury. The third and the fourth melt quickly like lac and are useless. Chapala (meaning subtle ) is so called because it melts over fire as quickly as tin. Chapala has the appearance of quartz. It has six faces faces ; it is soothing and heavy.
+
+[^22]: "It appears to be an ore containing lead or tin. It is now-a-days very rare; and the author has not yet been able to procure it."
 
 Chapala is a curer of obesity; it is soothing and has the property of making the body as hard as steel. It is a helper of mercury ; it is bitter, strong, and sweet in taste. It is a remover of an abnormal excess of the three doshas; is a great nutritive, and has theproperty of solidifying mercury. This nectar-like substance may be used in gulma, mucus, colic, consumption, gonorrhoea, fever, leucorrhoea, and menorrhagia.
 
@@ -3591,9 +3635,11 @@ One hundred and twenty tolas of lead are to be rubbed with the milk of arka, and
 **रसकः खर्परो ज्ञोयः खर्परतुत्थकञ्च सः ।**  
 **यशोदस्योपधातुर्हि यशोदसदृशो गुणैः ॥**
 
-**रसको द्विविधः प्रोक्तो [दुर्दरः](# "ददुरः इति पाठान्तरम् ।")
+**रसको द्विविधः प्रोक्तो दुर्दरः[^23]
 कारवेल्लकः ।**  
 **सदलो दुर्दरः प्रोक्तो निर्दलः कारवेल्लकः ॥**
+
+[^23]: "ददुरः इति पाठान्तरम् ।"
 
 **सत्त्वपाते शुभः पूर्व्वोद्वितीयश्चौषधादिषु ।**  
 **मृत्पाषाणगुड़ैस्तुल्यस्त्रिविधो रसको मतः ।**
@@ -3781,7 +3827,9 @@ Kharpara is to be rubbed with one fourth its quantity of haridra, triphala, rala
 
 ***Second process.***
 
-Rasaka discharges its essence, if rubbed with haritaki, laksha, earth worm, haridra, soot, and tankanam, and heated by means of a muka [musha](# "Muka musha (dumb crucible) and andha musha ( blind crucible) refer to the same kind of crucible-a crucible not provided with any passage for the entrance of air into it."),
+Rasaka discharges its essence, if rubbed with haritaki, laksha, earth worm, haridra, soot, and tankanam, and heated by means of a muka musha[^24] and andha musha ( blind crucible) refer to the same kind of crucible-a crucible not provided with any passage for the entrance of air into it."),
+
+[^24]: "Muka musha (dumb crucible
 
 **तृतोयो विधिः ।**
 
@@ -3796,7 +3844,9 @@ Rasaka discharges its essence, if rubbed with haritaki, laksha, earth worm, hari
 **सच्छिद्रं तन्मुखे मल्लंतन्मुखेऽधमुखीं क्षिपेत् ॥**
 
 **मूषोपरि शिखित्रांश्च प्रक्षिप्य प्रधमेद् दृढम्****।**  
-**पतितं स्थालिकानीरे सत्त्वमादाय योजयेत् ॥ [+](# "+ एतद्धि पातालाख्यं यन्त्रम् । प्रथम खण्डे २७६ पृष्ठे प्रदत्तास्य वर्णना संशोध्यतेऽधुना ")**
+**पतितं स्थालिकानीरे सत्त्वमादाय योजयेत् ॥ +[^25]**
+
+[^25]: "+ एतद्धि पातालाख्यं यन्त्रम् । प्रथम खण्डे २७६ पृष्ठे प्रदत्तास्य वर्णना संशोध्यतेऽधुना "
 
 ***Third process.***
 
@@ -3828,7 +3878,9 @@ Essence from the ball may also be extracted in the following manner :- Place an 
 
 In apit in the ground, one cubit deep, place avessel. Another vessel containing prescribed materials and having its mouth lightly
 
-**सतालकरसकसत्त्व[भस्म ।](# "अम्रे यशोदस्य भस्मीकरणबिधिर्द्राष्टव्यः ।")**
+**सतालकरसकसत्त्वभस्म ।[^26]**
+
+[^26]: "अम्रे यशोदस्य भस्मीकरणबिधिर्द्राष्टव्यः ।"
 
 **तत् सत्त्वं तालकोपेतं प्रक्षिप्य खलु खर्परे ।**   
 **मर्दयेल्लोहदण्डेन भस्मीभवति निश्चितम् ॥**
@@ -4389,7 +4441,9 @@ Kasisam, incinerated with sulphur, and an equal quantity of kanta iron, killed w
 
 **सौराष्ट्राश्मनि संभूता मृत्स्नासा तुवरी मता।**
 
-**वस्त्रेषु लिप्यते याऽसौ मञ्जिष्ठा[रागरञ्जिनी](# "रागरञ्जिणी इत्येतस्य स्थले रागवर्द्धिनीति पाठान्तरम्।")॥**
+**वस्त्रेषु लिप्यते याऽसौ मञ्जिष्ठारागरञ्जिनी[^27]॥**
+
+[^27]: "रागरञ्जिणी इत्येतस्य स्थले रागवर्द्धिनीति पाठान्तरम्।"
 
 **पीतिका फुल्लिका चेति द्विविधा परिकीर्त्तिता।**
 
@@ -4403,7 +4457,9 @@ Kasisam, incinerated with sulphur, and an equal quantity of kanta iron, killed w
 
 **सौराष्ट्री चामृता कांक्षी स्फटिकामृत्तिका मता।**
 
-**आढ़की [तुवरी](# "कलायशस्यजातीया स्थूलाढ़क्यपि तुवरीति कथ्यते।") धन्या मृत्स्ना मृत् सुरमृत्तिका॥**
+**आढ़की तुवरी[^28] धन्या मृत्स्ना मृत् सुरमृत्तिका॥**
+
+[^28]: "कलायशस्यजातीया स्थूलाढ़क्यपि तुवरीति कथ्यते।"
 
 **गोपीचन्दननाम्ना सा ज्ञायते जनमण्डले॥**
 
@@ -5371,7 +5427,9 @@ Haritalam, roasted with linseed oil, and contained in a glass bottle, is to be k
 
 **नवमो विधिः।**
 
-**[क्षारिकालवणं](# "क्षारिकालवणं सौवर्च्चलमेतद्धि ऊषरकाख्यं क्षारम् । भाषायामेतत् सोरेति कथ्यते ।") प्रस्थद्वयं तदर्धतालकम्।**
+**क्षारिकालवणं[^29] प्रस्थद्वयं तदर्धतालकम्।**
+
+[^29]: "क्षारिकालवणं सौवर्च्चलमेतद्धि ऊषरकाख्यं क्षारम् । भाषायामेतत् सोरेति कथ्यते ।"
 
 **गोमूत्रे मर्दयेद् गाढ़ं दिनानि त्रीणि यत्नतः॥**
 
@@ -5617,7 +5675,9 @@ Manas-shila is only a variety of haritalam; haritalam is very yellow, whereas ma
 
 **चूर्णीभूताऽतिरक्ताङ्गी सभारा खण्डपूर्विका**
 
-**[उत्तरोक्तागुणैः श्रेष्ठा भूरिसत्त्वा प्रकीर्त्तिता॥](# "त्रिविधासु गुणैः श्रेष्ठा कणवीरा मनःशिला इति पाठान्तरम् ।")**
+**उत्तरोक्तागुणैः श्रेष्ठा भूरिसत्त्वा प्रकीर्त्तिता॥[^30]**
+
+[^30]: "त्रिविधासु गुणैः श्रेष्ठा कणवीरा मनःशिला इति पाठान्तरम् ।"
 
 
 ***Different kinds of manas-shila.***
@@ -5947,7 +6007,9 @@ Srotonjana, subjected to bhavana for several times with the juice of cowdung, co
 
 **श्यामपीतं लघु त्यक्तसत्त्वंनेष्टं हि रेणुकम्**
 
-**कंकुष्ठं [कालकुष्ठञ्च विरङ्गं](# "कालकुष्ठमित्यस्य स्थले काककुष्ठमिति पाठान्तरम् । तथैव विरंगमित्यस्य स्थले वरांगमिति पाठान्तरम् ।") रङ्गदायकम्।**
+**कंकुष्ठं कालकुष्ठञ्च विरङ्गं[^31] रङ्गदायकम्।**
+
+[^31]: "कालकुष्ठमित्यस्य स्थले काककुष्ठमिति पाठान्तरम् । तथैव विरंगमित्यस्य स्थले वरांगमिति पाठान्तरम् ।"
 
 **रेचकं पुलकं चैव शोधकं कालपालकम्॥**
 
@@ -6243,7 +6305,9 @@ Kapardi is undoubtedly reduced to ashes, if subjected to putam by means of a str
 
 **तृतीयो विधिः।**
 
-**भूगर्त्तेच समे शुद्धे[पत्तनं](# "पत्तनं वङ्गभाषायां  पात्ना  इति कथ्यते ।") स्थापयेत् सुधीः।**
+**भूगर्त्तेच समे शुद्धेपत्तनं[^32] स्थापयेत् सुधीः।**
+
+[^32]: "पत्तनं वङ्गभाषायां  पात्ना  इति कथ्यते ।"
 
 **तुषेण पुरयेत् तस्याः किञ्चिन् मध्यं भिषग्वरः॥**
 
@@ -6349,8 +6413,10 @@ It is a pacifier of the three doshas, laxative, good solidifier of mercury, and 
 
 **(२)**
 
-**[सिन्दूर](# "सिन्दूरं द्विबिधं यथा- गिरिसिन्दूरं नागसिन्दूरञ्च । अनयोर्मध्ये प्रथमं स्वभावजं द्वितीयं नागसम्भूतं कृत्रिमञ्च । अग्र सीसकप्रकरणे नागसिन्दूरस्य निर्माणविधिर्द्रष्टव्यः ।")युग्मवीसर्पकुष्ठकण्डूविषापहम् ।**  
+**सिन्दूर[^33]युग्मवीसर्पकुष्ठकण्डूविषापहम् ।**  
 **भग्नसन्धानकारकं व्रणशोधनरोपणम् ॥**
+
+[^33]: "सिन्दूरं द्विबिधं यथा- गिरिसिन्दूरं नागसिन्दूरञ्च । अनयोर्मध्ये प्रथमं स्वभावजं द्वितीयं नागसम्भूतं कृत्रिमञ्च । अग्र सीसकप्रकरणे नागसिन्दूरस्य निर्माणविधिर्द्रष्टव्यः ।"
 
 **( 2 )**
 
@@ -6470,7 +6536,9 @@ Hingula is purified, if it is boiled for three days in a Dola Jantram with the j
 **पाच्यतुल्यं द्रवद्रव्यं ततश्च वह्निभावना ॥**
 
 **मेषक्षीरेण दशधा दशधा क्षीरिकार्कजैः।**  
-**दीप्तवर्गेण दशधा विरेकार्कैश्च पञ्चधा ॥[\*](# "* दीप्तवर्गः पिप्पल्यादिगणः - यधा, पिप्पलीपिप्पलीमूलचव्यचित्रकश्टुङ्गवेरमरिचहस्तिपिप्पलीहरेणुकैलाजमोदेन्द्रयवपाठाजीरकसर्षपमहानिम्वफलहिङ्गुभार्गीमधुरसातिविषावचाविड़ङ्गानिकटुरोहिणीचेति, पिप्पल्यादिः कफहरः प्रतिश्यायानिलारुचीः । निहन्याट्टीपनो गुल्म शूलनध्नञ्चमपाचनः ॥")**
+**दीप्तवर्गेण दशधा विरेकार्कैश्च पञ्चधा ॥\*[^34]**
+
+[^34]: "* दीप्तवर्गः पिप्पल्यादिगणः - यधा, पिप्पलीपिप्पलीमूलचव्यचित्रकश्टुङ्गवेरमरिचहस्तिपिप्पलीहरेणुकैलाजमोदेन्द्रयवपाठाजीरकसर्षपमहानिम्वफलहिङ्गुभार्गीमधुरसातिविषावचाविड़ङ्गानिकटुरोहिणीचेति, पिप्पल्यादिः कफहरः प्रतिश्यायानिलारुचीः । निहन्याट्टीपनो गुल्म शूलनध्नञ्चमपाचनः ॥"
 
 **पञ्चधा दुग्धवर्गेण ततश्च रौद्रभावनाः ।**  
 **यन्ते पूर्व्ववत् सम्यक् पूर्व्वप्रोक्तक्रमेण च ॥**
@@ -6575,10 +6643,12 @@ The evil effects of taking hingula, not properly purified, may be remedied in th
 
 Hingula discharges its essence in the shape of mercury, if subjected to sublimation, the sublimated mercury being allowed to be condensed in a water trough forming a part of the Tirjak Patana Jantram.
 
-**अथ मृद्दारशृङ्गकम् ।** [**\***](# " मुद्राशङ्खमित्यस्य प्रचलितनाम ।")
+**अथ मृद्दारशृङ्गकम् ।** **\***[^35]
 
 **सदलं पीतवर्णं च भवेद् गुर्जरमण्डले ।**  
 **अर्वुदस्य गिरेः पार्श्वे जातं मृद्दारशृङ्गकम् ॥**
+
+[^35]: " मुद्राशङ्खमित्यस्य प्रचलितनाम ।"
 
 **सीससत्त्वं गुरु श्लेष्मशमनं पुंगदापहम् ।**  
 **रसवन्धनमुत्कृष्टं केशरञ्जनमुत्तमम् ॥**
@@ -6779,8 +6849,10 @@ Gold, not properly purified and incinerated, destroys, if taken internally, heal
 **\* पटुधातुःपांशुजलवणम् ।**  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-***Purification of gold.*** [***\****](# "The term ")  
+***Purification of gold.*** ***\****[^36]  
 ***irst process.***
+
+[^36]: "The term "
 
 Pure mineral gold which has got only 14 colours, becomes absolutely pure and assumes 16 colours, if it is mixed with pansu lavana (or salt prepared from ashes of plantain, etc.), and heated over charcoal fire for one and half hour.
 
@@ -6817,8 +6889,10 @@ matulunga.
 
 **पञ्चमो विधिः ।**
 
-**वल्मीकमृत्तिका भस्म गैरिकं चेष्टका पटु । [\*](# " प्रथमखण्डे ३०२ पृष्ठं द्रष्टव्यम् । भस्मेत्येतस्य स्थले धूममिति पाठान्तरं द्रष्टव्यम् । अत्र धूममिति धूममृत्तिका कृष्णमृत्तिकेति शेया ।")**  
+**वल्मीकमृत्तिका भस्म गैरिकं चेष्टका पटु । \*[^37]**  
 **इत्येता मृत्तिकाः पञ्च जम्बीरैरारनालकैः॥**
+
+[^37]: " प्रथमखण्डे ३०२ पृष्ठं द्रष्टव्यम् । भस्मेत्येतस्य स्थले धूममिति पाठान्तरं द्रष्टव्यम् । अत्र धूममिति धूममृत्तिका कृष्णमृत्तिकेति शेया ।"
 
 **पिष्ट्वाताभिः स्वर्णपत्रं लेप्यं पुटेन शुध्यति ॥**  
 **धारयेत् स्वर्णपत्रं तु त्रिदिनं पञ्चमृत्तिकाम् ॥**
@@ -6873,13 +6947,17 @@ Worms grow in the abdomen of the man who takes metals killed without the help of
 **( ३ )**
 
 **सिद्धलक्ष्मीश्वरप्रोक्तप्रक्रियाकुशलो भिषक् ।**  
-**लोहानां सरसं भस्म सर्व्वोत्कृष्टं प्रकल्पयेत् ॥** **[\*](# "चतुर्थो विधिर्द्रष्टव्यः ।")**
+**लोहानां सरसं भस्म सर्व्वोत्कृष्टं प्रकल्पयेत् ॥** **\*[^38]**
+
+[^38]: "चतुर्थो विधिर्द्रष्टव्यः ।"
 
 **(3)**
 
-The physicians who are experts in the performance of processes explained by Siddha Lakshmiswara have no doubt that the ashes of metals containing mercury are the best that can be prepared, [†](# " See the fourth process.")
+The physicians who are experts in the performance of processes explained by Siddha Lakshmiswara have no doubt that the ashes of metals containing mercury are the best that can be prepared, †[^39]
 
 **प्रथमो विधिः ।**
+
+[^39]: " See the fourth process."
 
 **कन्टकवेध्यपत्राणि सुवर्णस्य विलेपयेत् ।**  
 **लुङ्गाम्वुभस्मसूतेन मारयेद् दशभिः पुटैः ॥**
@@ -7492,11 +7570,15 @@ Silver, duly purified and incinerated, cures inflammation, etc, if taken with su
 **रौप्य द्रुतिः ।**
 
 **शतधा नरमूत्रेणाभावयेद् देवदालिकाम् ।**  
-**तच्चूर्णावापमात्रेणाद्रुतिः स्यात् स्वर्णतारयोः ॥** [**\***](# "सप्तधा इत्येत्त पाठान्तरमू।")
+**तच्चूर्णावापमात्रेणाद्रुतिः स्यात् स्वर्णतारयोः ॥** **\***[^40]
 
 ***Liquefaction of silver.***
 
-   Gold and silver turn into liquid (without the application of heat), as soon as a little of devadali fruit, powdered finely, and subjected to bhavana for one hundred times [\*](# "Seven times, according to another version."), is thrown upon the metal.
+[^40]: "सप्तधा इत्येत्त पाठान्तरमू।"
+
+   Gold and silver turn into liquid (without the application of heat), as soon as a little of devadali fruit, powdered finely, and subjected to bhavana for one hundred times \*[^41], is thrown upon the metal.
+
+[^41]: "Seven times, according to another version."
 
 **अथ ताम्रम् ।**
 
@@ -7736,7 +7818,9 @@ Copper and haritalam rubbed with lime juice and subjected to putam will cause th
 
 ***Sixth process.***
 
-Twenty tolasof purified copper and half its quantity of mercury are to be rubbed together for three days with lime juice. Purified sulphur, equal in quantity to the copper leaves, is then to be rubbed for two hours, with the copper and mercury. The whole thing is then to be put into a glass bottle and heated (by means of a Baluka Jantram [**\***](# "See page 259, Vol. I.") ) for twenty four hours. When cooled of itself, the contents of the bottle are to be powdered. This powder is the king of copper ashes. It cures leprosy, sutika, and all sorts of diseases. It increases the dhatus.
+Twenty tolasof purified copper and half its quantity of mercury are to be rubbed together for three days with lime juice. Purified sulphur, equal in quantity to the copper leaves, is then to be rubbed for two hours, with the copper and mercury. The whole thing is then to be put into a glass bottle and heated (by means of a Baluka Jantram **\***[^42] ) for twenty four hours. When cooled of itself, the contents of the bottle are to be powdered. This powder is the king of copper ashes. It cures leprosy, sutika, and all sorts of diseases. It increases the dhatus.
+
+[^42]: "See page 259, Vol. I."
 
 **सप्तमो विधिः ।**
 
@@ -8329,3 +8413,45 @@ Alchemical Literature.
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

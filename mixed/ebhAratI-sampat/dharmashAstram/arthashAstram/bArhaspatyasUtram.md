@@ -15,7 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk5NzU5MjkzODA
 +++
 [[बार्हस्पत्यसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk5NzU5MjkzODA5MDA1&pageno=MjI0MjQyNjk5NTk=)]]
 
-\[
+\
 
 
 
@@ -179,7 +179,9 @@ II\. BRIHASPATI AND HIS ARTHASHASTRA.
 
 **सुकृत्यंविष्णुगुप्तस्य मित्राप्तिर्भार्गवस्य च ।**
 
-**बृहस्पतेरविश्वासो [\*](# "Compare with this the teaching of Mahabharata :-  विश्वासयेत्परांश्चैव विश्वसेच्च न कस्यचित् । पुत्रेष्वपि हि राजेन्द्र विश्वासो न प्रशस्यते ॥ अविश्वासो नरेन्द्रणांगुह्यं परममुच्यते ॥ महा० शा० ८५ । ३३।३४॥") नीतिसन्धिस्त्रिधा स्थितः ॥२॥४१॥**
+**बृहस्पतेरविश्वासो [\*[^1] नीतिसन्धिस्त्रिधा स्थितः ॥२॥४१॥**
+
+[^1]: "Compare with this the teaching of Mahabharata :-  विश्वासयेत्परांश्चैव विश्वसेच्च न कस्यचित् । पुत्रेष्वपि हि राजेन्द्र विश्वासो न प्रशस्यते ॥ अविश्वासो नरेन्द्रणांगुह्यं परममुच्यते ॥ महा० शा० ८५ । ३३।३४॥"
 
   Bhoja in his *Yuktikalpataru* (I1th century A. D.) while refering to the niti literature says :—
 
@@ -258,7 +260,9 @@ Kautiliya Arthashástra also as referred to on pages 101-03 and 190 of his "Lect
 ** संवत्सरेणपतति पतितेन सहाचरन् ।  
 याजनाध्यापनाद्यौनान्न तुयानासनाशनात् ॥११।१८०**
 
-**[\*](# "Vasishtha 1. 22; Baudhayana II. 1. 35 and Vishnu. ")**
+**\*[^2]**
+
+[^2]: "Vasishtha 1. 22; Baudhayana II. 1. 35 and Vishnu. "
 
 **॥**
 
@@ -284,15 +288,19 @@ Kautiliya Arthashástra also as referred to on pages 101-03 and 190 of his "Lect
 राजा त्वशासन्पास्य तदवाप्नोति किल्विषम् \।\। ३३ ॥**
 
  The verse 32nd is Manusmriti VIII, 38, andverse 33rd is Manu VIII.316.  
- It may, therefore, after this beief discussion be safely concluded that the original Smriti of Manu was like the present one composed in [verse](# " I hope to discuss this subject in detail at some later date.").
+ It may, therefore, after this beief discussion be safely concluded that the original Smriti of Manu was like the present one composed in verse[^3].
+
+[^3]: " I hope to discuss this subject in detail at some later date."
 
 V. THE SMRITI OF BRIHASPATI.
 
  Like its original, the Manusmriti, the Smriti of Brihaspati was also in verse. That work is however lost now (if it may not be unearthed by some future researches). The small collection of some shlokas which is generally called the Brihaspati Smriti is but a child's play as compared with the Bárhaspatya Shástra referred to in the Mahábhárata. Professor Julius Jolly collected fragments of Brihaspatismriti from different law books and and their commentaries, for translating them in the
 
-S. B. E. Vol. XXXIIIBut these fragments are also incomplete. An exhaustive collection of all the sayings of Brihaspati will not be a fruitless task for some future [scholar.](# "After the above lines were written I read in the Vedic Magazine that Pandit Jaideva Vidyalankar of the Gurukul Kangri is busy with this work and will shortly bring out this useful collection.")
+S. B. E. Vol. XXXIIIBut these fragments are also incomplete. An exhaustive collection of all the sayings of Brihaspati will not be a fruitless task for some future scholar.[^4]
 
 VI KAUTILYAAND BRIHASPATI.
+
+[^4]: "After the above lines were written I read in the Vedic Magazine that Pandit Jaideva Vidyalankar of the Gurukul Kangri is busy with this work and will shortly bring out this useful collection."
 
  Just as the views attributed to the school of Manu by Kautilya and his follower Kâmandaka are not to be met with in the present law-book of Manu, so also the views ascribed to the school of Brihaspati by Kautilya are not found in the collected fragments of Brihaspati. Brihaspati is referred to on six different occasions by Kautilya. See pages. 6, 29, 63, 177, 192,and 375. *(Text, second edition)*
 
@@ -374,9 +382,11 @@ December, 1920.
 **A BRIHASPATI SUTRA.**
 
  The text here edited with a translation was brought to notice in the course of a search for a celebrated treatise, also ascribed to a Brihaspati, namely the exponent of the Lokâyata or Cârvâka doctrine,the crude corporealism of India. The discovery of this work, to judge from the quotations in the Sarra-darshana-samgraha and elsewhere, would contribute notably to the entertainment of students of Sanskrit literature.  
- The present treatise is not devoid of interest, but the interest is of a different character. The work is in one respect unique, being an exposition of the Science of Royal Policy in Sûtra style. This Indian science may claim no ordinary place in the history of culture,since two of its suceedanea, the policy in fable and the game of chess, still styled the Royal Game, bave made the conquest of the world. In its pure form as a science of monarchical government it does not seem to have passed beyond the Indian sphere, that is the sphere dominated by Indian culture, including Further India, the Malay countries, Central Asia, and Tibet : for,though the Muhammadans have a science of government, which may go back to pre-Islamic Persia, it does not seem to betray an Indian inspiration. And Macchiavelli's Prince, if influenced at all, as is à priori quite conceivable,by oriental models,would derive rather from the Muhammadan than the Indian. The propagation of the policy in fable (the Fables of Pilpay) was first adumbrated by Sir William Jones, in a [sentence\*](# "From the Third Annual Discourse prefixed to his translaton of the Hitopadesha")
+ The present treatise is not devoid of interest, but the interest is of a different character. The work is in one respect unique, being an exposition of the Science of Royal Policy in Sûtra style. This Indian science may claim no ordinary place in the history of culture,since two of its suceedanea, the policy in fable and the game of chess, still styled the Royal Game, bave made the conquest of the world. In its pure form as a science of monarchical government it does not seem to have passed beyond the Indian sphere, that is the sphere dominated by Indian culture, including Further India, the Malay countries, Central Asia, and Tibet : for,though the Muhammadans have a science of government, which may go back to pre-Islamic Persia, it does not seem to betray an Indian inspiration. And Macchiavelli's Prince, if influenced at all, as is à priori quite conceivable,by oriental models,would derive rather from the Muhammadan than the Indian. The propagation of the policy in fable (the Fables of Pilpay) was first adumbrated by Sir William Jones, in a sentence\*[^5]
 
 which has been expanded by Benfey, with remarkable learning, into an important treatise; just as another sentence from the same eminent scholar developed in the hands of Bopp into the science of Comparative Philology.
+
+[^5]: "From the Third Annual Discourse prefixed to his translaton of the Hitopadesha"
 
   In its technical form the Indian science of polity first became known by the publication of the Kâmand- a'ci-Nitisâra with selections from the commentary (e lited by Râjendralâl Mitra and others in Bibliotheca Indica, 1861-1884). The next stage is represented by two valuable publications of Professor Formichi, a translation of the work of Kâmandaki and a treatise entitled Gli Indiani e la loro Scienza politica (Bologna,1890). In 1908 a notable paper by Professor Hillebrandt drew attention to a number of quotations from a prose work ascribed to Cânakya, also known as Vishnugupta and Kautilya, which was plainly the original authority upon which the later scholastic expositions by Kâmandaki and others were based. Prof. Hillebrandt was unaware at the time that this original treatise had already been discovered in South India, and that the discoverer, Pandit Shania Shastri of Mysore, had published an article dealing with it in the Indian Antiquary (1905, pp. 5 sqq.) and had commenced to issue a translation in the Mysore Review (1906-9, completed in the Indian Antiquary for 1909-10), of which publications notice was taken in Mr Vincent Smith's Early History of India (Oxford, 1907, pp. 134 sqq.)
 
@@ -384,7 +394,9 @@ which has been expanded by Benfey, with remarkable learning, into an important t
 
 been favoured with a perusal of proof-sheets I was able to draw attention (J. R. A. S. pp. 446-71) to the extreme importance of the work. In 1911-12 Professor Jacobi in two very valuable papers (Kultur-Sprach-und Literaturhistorisches aus dem Kautilya and Uber die Echtheit des Kautiliya in the Berlin Academy Sitzungsberichte, 1911, pp. 954-973, 1912, pp. 832-849) discussed the bearings of the work upon the Indian literary and linguistic history and argued forcibly for its authenticity. We have also to take note of interesting discussions of the work by Prof. Jolly, Lexikalisches aus dem Arthashastra (Indogermanische Forschungen, XXXr., pp. 204-10), Kollektaneen ZUM Kautilya Arthashástra (Z. D. M. G., 1914, pp.345-359), Dr Johannes Hertel, Literarisches aus dem Kautilyashsâtra (Vienna Oriental Journal, xxiv, pp.416-422), and Dr Jarl van Charpentier, En Indisk handbok i statslara fran 300 f. kr. (Nordisktidskrift, 1913, pp. 353-369), Narendra Nath Law, Studies in Ancient Hindu Polity (Based on the Arthashâstra of Kautilya) (vol. I., London, etc., 1914) and a partial commentary compiled by Dr I. Sorabji, as a pupil of Prof. Jolly, and published at Allahabad in 1914. A revised translation by Pandit Shama Shastri is now passing through the press. The information contained in the Arthashâstra is still far from exhausted,and the interest in it may be expected continually to increase.
 
- As Prof, Jacobi has mentioned, Cânakya frequently quotes his predecessors, both schools and individuals, the style often assuming almost the form of a discussion; and it is clear that in (say) the fifth and fourth centuries B. C. the subject of royal policy was a recognized topic. The schools are the Mânavas, Bârhaspatyas, Aushanasas, AmbhÎyas (no doubt, of Taxila ) and Parâsharas,and the individuals Bhâradvâja, Vishâlâksha, Pishuna, Kaunpadanta, Vatavyâdhi and Bāhudantî-putra. It is, therefore, of interest to find that in the accountof the science occurrig in the Mahâbhârata [(cited by Prof. Jacobi, 1911, p.973)](# "Also cited by Dr G. Oppert in his Weapons, Army Organisation And Political Maxims of the Ancient Hindus, 1880, p 3. B.Datta.") \* some of these names occur. There we are told that the founder of the science wasBrahmâ himself, whose work was abridged by Shiva in a treatise entitled Vaishâlâksha, and then further abridged. in succession by Indra, who compiled the Bâhudantaka, Brihaspati the Barhaspatya, and Kavi ( Ushanas ), the(Aushanasa) treatise-of which the last-mentioned is named alorg with those of Manu, Indra, Bháradvāja, and Gaurashiras in another passage of the same book. (c. 58, 2-3), also in 1. 98, 36 and elsewhere in the literature(e.g.sáma aushanasa in the Janakī harana,x.26).
+ As Prof, Jacobi has mentioned, Cânakya frequently quotes his predecessors, both schools and individuals, the style often assuming almost the form of a discussion; and it is clear that in (say) the fifth and fourth centuries B. C. the subject of royal policy was a recognized topic. The schools are the Mânavas, Bârhaspatyas, Aushanasas, AmbhÎyas (no doubt, of Taxila ) and Parâsharas,and the individuals Bhâradvâja, Vishâlâksha, Pishuna, Kaunpadanta, Vatavyâdhi and Bāhudantî-putra. It is, therefore, of interest to find that in the accountof the science occurrig in the Mahâbhârata (cited by Prof. Jacobi, 1911, p.973)[^6] \* some of these names occur. There we are told that the founder of the science wasBrahmâ himself, whose work was abridged by Shiva in a treatise entitled Vaishâlâksha, and then further abridged. in succession by Indra, who compiled the Bâhudantaka, Brihaspati the Barhaspatya, and Kavi ( Ushanas ), the(Aushanasa) treatise-of which the last-mentioned is named alorg with those of Manu, Indra, Bháradvāja, and Gaurashiras in another passage of the same book. (c. 58, 2-3), also in 1. 98, 36 and elsewhere in the literature(e.g.sáma aushanasa in the Janakī harana,x.26).
+
+[^6]: "Also cited by Dr G. Oppert in his Weapons, Army Organisation And Political Maxims of the Ancient Hindus, 1880, p 3. B.Datta."
 
 **[एतत्ते](http://॑# "I have introduced here the original shloks for the benefit of the reader. B. Datta.") राजधर्माणां नवनीतं युधिष्ठिर \।**
 
@@ -444,15 +456,21 @@ been favoured with a perusal of proof-sheets I was able to draw attention (J. R.
 
 or with the *Atharvareda Parishishtas,* which contain undoubtedly ancient matter along with strange lexicographical and grammatical features (e.g. *homayet* and even *namaskaret;* see the edition by Negelein and Bolling, Leipzig 1909-10, index). They belong to the backwaters of priestly studies preserved in Southern India, when the general interest was transferred to such subjects as Nyâya, Vedânta, law, and grammar.
 
-   A Ms. of the work seems to be recorded as in private possession in South India (sec Oppert's 'List,' vol. 1. No.4642).[❋](# "There is another Ms. of the work with Shri Pandit T. Ganapati Shastri of Travancore. He writes to me in his letter dated 22nd Dec. 1920 thus--As desired in your letter, I shall arrange on receipt of your printed forms of Bárhaspatya to note down the variants.' These I have not yet received.B.Datta,") This Ms. has not been procurable; but by the kindness of Prof. Rangàcharya, late Curator of the Government Oriental MSS. Library in Madras, I have been favoured with a Devanâgarî copy of another MS.,which is under his charge. Upon this (M) I have based the text, recording the slight variants of the Royal Asiatic Society's Whish Ms. (W—noted in Winternitz's catalogue under No. 160 (3), p. 219). Both originals are in Grantha character, and they derive not remotely from a common source.[¹](# " Whether. this common source was the actual Madras MS,") The punctuation follows almost invariably the Madras copy : the numbering of the *Sûtras* has been added,
+   A Ms. of the work seems to be recorded as in private possession in South India (sec Oppert's 'List,' vol. 1. No.4642).❋[^7] This Ms. has not been procurable; but by the kindness of Prof. Rangàcharya, late Curator of the Government Oriental MSS. Library in Madras, I have been favoured with a Devanâgarî copy of another MS.,which is under his charge. Upon this (M) I have based the text, recording the slight variants of the Royal Asiatic Society's Whish Ms. (W—noted in Winternitz's catalogue under No. 160 (3), p. 219). Both originals are in Grantha character, and they derive not remotely from a common source.¹[^8] The punctuation follows almost invariably the Madras copy : the numbering of the *Sûtras* has been added,
+
+[^7]: "There is another Ms. of the work with Shri Pandit T. Ganapati Shastri of Travancore. He writes to me in his letter dated 22nd Dec. 1920 thus--As desired in your letter, I shall arrange on receipt of your printed forms of Bárhaspatya to note down the variants.' These I have not yet received.B.Datta,"
+
+[^8]: " Whether. this common source was the actual Madras MS,"
 
   As the treatise is definitely a *Sûtra*, a commentary must have been designed. Does a copy exist, perhaps under Oppert's 1. No. 6061 *Bárhaspatya-sûtra-tíká* (no longer traceable)? It might contain something
 
 interesting, more especially as it is not quite clear that the text, in its six *adhyáyas* is complete2.
 
-I hope shortly to be in possession of a *Niti-sútra* ascribed to Cânakya, [❋](# "This has now been printed as an appendix to the second edition of Kautilya Arthashástra by Pt. Shama Shastri.")  
+I hope shortly to be in possession of a *Niti-sútra* ascribed to Cânakya, ❋[^9]  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 or not, I am unable to demonstrate. That it was in the Grantha character is proved by the confusions between *e* and *hi* (v. 15); *०au* and *n* (read as n: III. 118, IV. 38, v. 22); *m* and *h* 1.5,II.8,18, III. 76, 81, 92, v. 11); *k* and *t* (1. 54, 76. III. 81, 92, 131, v.13);*k* and *tt* (III. 122); *g* and *bh* (III. 67); *c* and *v* (III. 26-7) ; *c* and *p* (II. 39); *nc*and *sc* (II. 73,III . 23, 87, 102); *j*. and *bh*(II. 33); *nd* and *ndr* (III. 41); *nd* and *ndh* (II.43); *t* and *m* (v.26); *n* and *r* (I. 7) ; *nu* and *nri* (I.54); *p* and *v* (v. 27); *la* and *li* (II.9) *vra* and *vri* (v 26).
+
+[^9]: "This has now been printed as an appendix to the second edition of Kautilya Arthashástra by Pt. Shama Shastri."
 
   2. We may here enumerate the chief grammatical peculiarities above referred to. Some of them may be due to the elliptical *Sutra* style, while some masculine plurals in ani from nouns in a may be conjec'ured to be Ms. errors, final n (Grantha, etc.) having been read as ni. Also double gender in such nouns is common :
 
@@ -591,23 +609,33 @@ DEVANAGARI CHARACTERS
 
 धर्ममपि लोकविक्रुष्टं न कुर्यात् ॥४॥
 
-करोति [चेदाशास्यैनं](# " W अशस्येनः ।") बुद्धिमद्भिः ॥५॥
+करोति चेदाशास्यैनं[^10] बुद्धिमद्भिः ॥५॥
+
+[^10]: " W अशस्येनः ।"
 
 समानैः सेव्यः ॥६॥
 
-स्त्रीबालवृद्धैः सह [न](# " W र ।") वदेद्धर्मनीतिकृत्यानि ॥७॥
+स्त्रीबालवृद्धैः सह न[^11] वदेद्धर्मनीतिकृत्यानि ॥७॥
 
-[ऐन्द्रजालिकं](# "W ०जालकं ।") न कुर्यात् ॥८॥
+[^11]: " W र ।"
+
+ऐन्द्रजालिकं[^12] न कुर्यात् ॥८॥
+
+[^12]: "W ०जालकं ।"
 
 मन्त्रवादोत्सवौ च ॥९॥
 
 आमयविषध्वंसनानि च ॥१०॥
 
-न [भस्मधारणम्](# " M erases 11 and inserts it after 12.") ॥११॥
+न भस्मधारणम्[^13] ॥११॥
+
+[^13]: " M erases 11 and inserts it after 12."
 
 नाग्निहोत्रवेदपाठादीनि च ॥१२॥
 
-न [तीर्थयात्रा](# "W ०त्रां ।") ॥१३॥
+न तीर्थयात्रा[^14] ॥१३॥
+
+[^14]: "W ०त्रां ।"
 
 न राजसेवा च ॥१४॥
 
@@ -619,13 +647,17 @@ DEVANAGARI CHARACTERS
 
 स्तेयं न कुर्यात् ॥१८॥
 
-बहु न च [स्रगनुलेपौ](# "W ०लेपा ।") ॥१९॥
+बहु न च स्रगनुलेपौ[^15] ॥१९॥
+
+[^15]: "W ०लेपा ।"
 
 न विषीदेत् ॥२०॥
 
 न चातिकुप्येत् ॥२१॥
 
-अविषये [लोभमदानसंज्ञम्](# "Sic; perhaps a verb (वर्जयेत् ) is understood.") ॥२२॥
+अविषये लोभमदानसंज्ञम्[^16] is understood.") ॥२२॥
+
+[^16]: "Sic; perhaps a verb (वर्जयेत्
 
 केदारे बीजानि वापयेत् ॥२३॥
 
@@ -643,9 +675,15 @@ DEVANAGARI CHARACTERS
 
 बलादिषु च समं शत्रुं युद्धेन हन्यात् \।\।३०\।\।
 
-अन्याभि[योधी](# "Sic M; W [ व्योगी ]. Read व्योधिनः ?")साम[दान](# "W समदनानभेद ।")भेदमायोपेक्षादिभिः \।\।३१\।\।
+अन्याभियोधी[^17]सामदान[^18]भेदमायोपेक्षादिभिः \।\।३१\।\।
 
-[मलवेषं](# "W मलषं ।")न कुर्यात् \।\।३२॥
+[^17]: "Sic M; W [ व्योगी ]. Read व्योधिनः ?"
+
+[^18]: "W समदनानभेद ।"
+
+मलवेषं[^19]न कुर्यात् \।\।३२॥
+
+[^19]: "W मलषं ।"
 
 मृगयातिसङ्गं च नाचरेत् ॥३३॥
 
@@ -653,20 +691,38 @@ DEVANAGARI CHARACTERS
 
 आयुश्च क्षीयते \।\।३५\।\।
 
-**द्यूतपरतापपरापवादपातकि[समागमे](# "W ०गतेमस - the reading and sense are doubtful.")समन्त्रपदानि [पर](# "W परि०")च्छिद्राणि विद्याव्यसनपरिहास्येन \।\।३६\।\।**
+**द्यूतपरतापपरापवादपातकिसमागमे[^20]समन्त्रपदानि पर[^21]च्छिद्राणि विद्याव्यसनपरिहास्येन \।\।३६\।\।**
 
-[औषधोपयोग](# "W औषधोयोग ।")विण्मूत्रविसर्जनक[स्नान](# "W स्मान ।")दन्तधावनमैथुनोपभोगदैवतपूजापि
+[^20]: "W ०गतेमस - the reading and sense are doubtful."
+
+[^21]: "W परि०"
+
+औषधोपयोग[^22]विण्मूत्रविसर्जनकस्नान[^23]दन्तधावनमैथुनोपभोगदैवतपूजापि
 रहस्येन \।\।३७\।\।
 
-वृथा धर्मध्वजिनं न [विश्वसेत्](# "For accusative after वि - श्वस् see Lexica and comp. V, 19 infra.")॥३८॥
+[^22]: "W औषधोयोग ।"
+
+[^23]: "W स्मान ।"
+
+वृथा धर्मध्वजिनं न विश्वसेत्[^24]॥३८॥
+
+[^24]: "For accusative after वि - श्वस् see Lexica and comp. V, 19 infra."
 
 निन्देन्नच \।\।३९\।\।
 
-उन्मत्त[जडादीन्](# "Woजाछ्दीन् ।")दृष्ट्वा न हसेच्च ॥ ४० \।\।
+उन्मत्तजडादीन्[^25]दृष्ट्वा न हसेच्च ॥ ४० \।\।
 
-तुल्यशीलवयोभिः क्रीडितव्यं [रहस्ये](# "M includes रहस्ये in the next sutra.")\।\।११\।\।
+[^25]: "Woजाछ्दीन् ।"
 
-[गजाश्वक्रीडे](# "W ० अश्वरासक्रीडे")व्य[क्ते](# " Moक्रे ।")न द्विमूर्तम् ॥४२॥
+तुल्यशीलवयोभिः क्रीडितव्यं रहस्ये[^26]\।\।११\।\।
+
+[^26]: "M includes रहस्ये in the next sutra."
+
+गजाश्वक्रीडे[^27]व्यक्ते[^28]न द्विमूर्तम् ॥४२॥
+
+[^27]: "W ० अश्वरासक्रीडे"
+
+[^28]: " Moक्रे ।"
 
 दूषयेन्न च स्वजातिजीवत्सु \।\।४३\।\।
 
@@ -680,21 +736,41 @@ DEVANAGARI CHARACTERS
 
 सामभेददानानि मन्त्रिषु ॥४७॥
 
-साम[भेददाना](# "भेदनाना०")र्थमायपिण्डानि ज्ञातिषु ॥४८॥
+सामभेददाना[^29]र्थमायपिण्डानि ज्ञातिषु ॥४८॥
+
+[^29]: "भेदनाना०"
 
 अप्रियमपि वचनं शृणुयात् ॥४॥
 
-दुर्दिनग्रहवैषम्यत्रिजन्मनक्षत्रे गुरु[कार्यप्राप्तौ](# "०कार्ये प्र०")न च मङ्गलानि सेवेत ॥५०॥
+दुर्दिनग्रहवैषम्यत्रिजन्मनक्षत्रे गुरुकार्यप्राप्तौ[^30]न च मङ्गलानि सेवेत ॥५०॥
 
-[एकदेशै](# "W०शम्; M ०श ए० ।")करूपिणीमभिजातां स्त्रियं गमयेत् ॥५१ ॥
+[^30]: "०कार्ये प्र०"
 
-अतिभेदयेन्नातिसामं नातिदानं न च स्त्रीषु दण्डो न च [मायो](# "M चामयो०।")[पेक्षा](# "M W insert न ।")कर्तव्या ॥५२॥
+एकदेशै[^31]करूपिणीमभिजातां स्त्रियं गमयेत् ॥५१ ॥
+
+[^31]: "W०शम्; M ०श ए० ।"
+
+अतिभेदयेन्नातिसामं नातिदानं न च स्त्रीषु दण्डो न च मायो[^32]पेक्षा[^33]कर्तव्या ॥५२॥
+
+[^32]: "M चामयो०।"
+
+[^33]: "M W insert न ।"
 
 तासु न बहु वदेत् ॥५३॥
 
-ग्रामया\[३क\]चकस्तुतमागधवन्दिनट[नर्तक्यु](# "Read सूत for स्तुत ?W नर्तत्यु०।")पाध्यायासत्यवाद[बटु](# "M ०जतु W जछु० ।")विटवणिजगोपाल[वेश्या](# "w०वेश्य० ।")कुनृपेष्व[नृता](# "Mअनु० ।")डम्बरं वक्तव्यः॥ ५४॥
+ग्रामया\[३क\]चकस्तुतमागधवन्दिनटनर्तक्यु[^34]पाध्यायासत्यवादबटु[^35]विटवणिजगोपालवेश्या[^36]कुनृपेष्वनृता[^37]डम्बरं वक्तव्यः॥ ५४॥
 
-[सन्यासं](# "Mसन्यास।")नृपवेश्यामन्त्रवादोपजीविष चिरं न सेवेत ॥५५॥
+[^34]: "Read सूत for स्तुत ?W नर्तत्यु०।"
+
+[^35]: "M ०जतु W जछु० ।"
+
+[^36]: "w०वेश्य० ।"
+
+[^37]: "Mअनु० ।"
+
+सन्यासं[^38]नृपवेश्यामन्त्रवादोपजीविष चिरं न सेवेत ॥५५॥
+
+[^38]: "Mसन्यास।"
 
 आत्मप्रभुं सेवेत \।\।५६\।\।
 
@@ -702,7 +778,9 @@ DEVANAGARI CHARACTERS
 
 स्त्रीद्यूतपानसक्तान्न सेवयेत् ॥५८॥
 
-पञ्च नाडिका [इष्टदेवताजपादि](# "M here inserts नाडिकां ।") पञ्चनाडिकायामतीतायामास्थानम् ॥५९॥
+पञ्च नाडिका इष्टदेवताजपादि[^39] पञ्चनाडिकायामतीतायामास्थानम् ॥५९॥
+
+[^39]: "M here inserts नाडिकां ।"
 
 दश नाडिका विधिः पञ्च नाडिकाः स्नानम् ॥ ६०॥
 
@@ -710,7 +788,9 @@ DEVANAGARI CHARACTERS
 
 पञ्चनाडिका हास्यक्रीडा स्निग्धैः ॥६२\।\।
 
-द्विनाडिका [सन्ध्या](# " W सन्ध्य।") \।\।६३॥
+द्विनाडिका सन्ध्या[^40] \।\।६३॥
+
+[^40]: " W सन्ध्य।"
 
 सप्त नाडिका नृत्तादयः ॥६४॥
 
@@ -722,39 +802,71 @@ DEVANAGARI CHARACTERS
 
 अश्वनियामक इव \।\।६८॥
 
-शिरः कम्पनास्थानेन स्वागतेन [शिष्टताम्बूलदानेन](# "Sic ( not पि० ) ।") ब्राह्मणोत्तमान् ॥६६॥
+शिरः कम्पनास्थानेन स्वागतेन शिष्टताम्बूलदानेन[^41] ।") ब्राह्मणोत्तमान् ॥६६॥
 
-[दुर्ब्राह्मणं](# "W दुब्रा० ।") [शिरःकम्पेन](# "W ०म्पन; M ०म्पनेन with सोपायनमपि in the next sûtra ।") न सोपायनमपि ॥७०॥
+[^41]: "Sic ( not पि०
 
-समानप्रभुं [विश्र्वेश्र्वरं](# "W विद्ये०") वा स्वागतेनासनेन शिरः कम्पेन ताम्बूल-
+दुर्ब्राह्मणं[^42] शिरःकम्पेन[^43] न सोपायनमपि ॥७०॥
+
+[^42]: "W दुब्रा० ।"
+
+[^43]: "W ०म्पन; M ०म्पनेन with सोपायनमपि in the next sûtra ।"
+
+समानप्रभुं विश्र्वेश्र्वरं[^44] वा स्वागतेनासनेन शिरः कम्पेन ताम्बूल-
+
+[^44]: "W विद्ये०"
 
 दानेन हास्यकथया च ॥ ७१ ॥
 
-स्मितेन स्वागतेन 'स्या' [स्त्रैवर्णिकान्](# "Text corrupt, reading doubtful.") ॥७२॥
+स्मितेन स्वागतेन 'स्या' स्त्रैवर्णिकान्[^45] ॥७२॥
 
-ईक्षणस्मितेन स्वागतेन [शूद्रान्न](# " M नम् ।")
+[^45]: "Text corrupt, reading doubtful."
+
+ईक्षणस्मितेन स्वागतेन शूद्रान्न[^46]
 
 ॥७३॥
 
-अभीष्टद्रव्यदानेन [बालवृद्धादीन्](# "W ०वृद्धदीन् ।") ॥ ७४ ॥
+[^46]: " M नम् ।"
 
-अन्त्यपाषण्डादीन्[वाङ्मात्रेणापि न](# "Mincludes in the next sútra.")
+अभीष्टद्रव्यदानेन बालवृद्धादीन्[^47] ॥ ७४ ॥
+
+[^47]: "W ०वृद्धदीन् ।"
+
+अन्त्यपाषण्डादीन्वाङ्मात्रेणापि न[^48]
 
 ॥७५॥
 
-[कार्यगुरु](# "W कार्या० ।")\[४क\] [तयाऽनुगच्छेत्](# " M ०कया ।") ॥७६॥
+[^48]: "Mincludes in the next sútra."
 
-[अल्पं](# "W त्स्वल्पम् ।") वदेच्च योगं दद्यात् ॥ ७७॥
+कार्यगुरु[^49]\[४क\] तयाऽनुगच्छेत्[^50] ॥७६॥
 
-वर्णिकापरिग्रहं न [कुर्याद्रहस्ये](# "MW includes रहस्येin the next sútra.") ॥ ७८॥
+[^49]: "W कार्या० ।"
 
-कर्मकारान्प्रति [योगीनपि](# " Sic (for योगिन अपि ? )") कार्यमविचारयेत् ॥७३॥
+[^50]: " M ०कया ।"
 
-स्निग्धैः [सह](# "W सहं ।") समानं वर्येन्मन्त्रित्वे ॥८० ॥
+अल्पं[^51] वदेच्च योगं दद्यात् ॥ ७७॥
 
-[अन्त्यजं](# "W अत्य० l")
+[^51]: "W त्स्वल्पम् ।"
 
-[त्वनन्त्य](# " अना० ।")जातिनम्
+वर्णिकापरिग्रहं न कुर्याद्रहस्ये[^52] ॥ ७८॥
+
+[^52]: "MW includes रहस्येin the next sútra."
+
+कर्मकारान्प्रति योगीनपि[^53]") कार्यमविचारयेत् ॥७३॥
+
+[^53]: " Sic (for योगिन अपि ?
+
+स्निग्धैः सह[^54] समानं वर्येन्मन्त्रित्वे ॥८० ॥
+
+[^54]: "W सहं ।"
+
+अन्त्यजं[^55]
+
+त्वनन्त्य[^56]जातिनम्
+
+[^55]: "W अत्य० l"
+
+[^56]: " अना० ।"
 
 ॥ ८१ ॥
 
@@ -768,36 +880,60 @@ DEVANAGARI CHARACTERS
 
 धर्मगुप्तिः [गृहयात्रागुप्तिः](http://॑॑# " W•यात्रा० । ") कार्यगुप्तिः वैरगुप्तिः यशोभङ्गे सत्यमपि नेति वदेत् ॥८६॥
 
-[चिकित्सकज्योति](# "W चिकित्साज्यो ।")\[४ख\]षमन्त्रवादिनः संग्रहेत्
-[वृत्तशीलसम्पन्नान्](# " Sic (for संगृह्णीयात् ) ") \।\।८७॥
+चिकित्सकज्योति[^57]\[४ख\]षमन्त्रवादिनः संग्रहेत्
+वृत्तशीलसम्पन्नान्[^58] ") \।\।८७॥
 
-सत्यमपि[दुःखानर्थसाधनमपि](# " Sic ( omit अपि ?)") न वदेत् ॥८८॥
+[^57]: "W चिकित्साज्यो ।"
+
+[^58]: " Sic (for संगृह्णीयात्
+
+सत्यमपिदुःखानर्थसाधनमपि[^59]") न वदेत् ॥८८॥
+
+[^59]: " Sic ( omit अपि ?
 
 पञ्चविंशतिवर्षं यावत् क्रीडाविद्यां व्यसनात् कुर्यात् ॥८९॥
 
 अतउत्तरमर्थार्जनम् ॥ ९० ॥
 
-[आत्मानमनृणी](# "W आत्मानमात्मनृ० ।") कुर्यात् ॥९१॥
+आत्मानमनृणी[^60] कुर्यात् ॥९१॥
 
-[ऋणवाञ्जायते](# " M र्णे वा जा० । ") त्रिभिः [कामक्रोधलो](# " M W लोभे ")भैः\।\।९२\।\।
+[^60]: "W आत्मानमात्मनृ० ।"
+
+ऋणवाञ्जायते[^61] त्रिभिः कामक्रोधलो[^62]भैः\।\।९२\।\।
+
+[^61]: " M र्णे वा जा० । "
+
+[^62]: " M W लोभे "
 
 शरीरं सर्वदा रक्षेच्च॥९३॥
 
 नित्यकर्म न त्यजेत् ॥९४॥
 
-जनघोषे सति [क्षुद्रकर्म न](# " W omits न।") कुर्यात् ॥९५॥
+जनघोषे सति क्षुद्रकर्म न[^63] कुर्यात् ॥९५॥
+
+[^63]: " W omits न।"
 
 नष्टे नस्थातव्यम् \।\।९६\।
 
-दूरपरिहरणीयं गुरुतरमपि [तद्राज्य](# " W राज्या० ।") कार्यम् \।\।९७\।\।
+दूरपरिहरणीयं गुरुतरमपि तद्राज्य[^64] कार्यम् \।\।९७\।\।
+
+[^64]: " W राज्या० ।"
 
 कुसुमान्तान् दण्डनायकान्नवान्न सेवेत \।\।९८\।\।
 
 \[५क\] अल्पहानिः सोढव्या \।\।९९ \।\।
 
-यथा [मातङ्गचोरव्याल](http://॒# "W मातंगग्रहचोर०")सर्प[व्याघ्रकुलं](# " MW ०कुले ।") विपिने [श्मशाने](# "W श्मशानभूमौ ।") वसति तस्मात्परमनागसां ज्ञातिवैरं न कर्तव्यम् ॥१००॥
+यथा [मातङ्गचोरव्याल](http://॒# "W मातंगग्रहचोर०")सर्पव्याघ्रकुलं[^65] विपिने श्मशाने[^66] वसति तस्मात्परमनागसां ज्ञातिवैरं न कर्तव्यम् ॥१००॥
 
-[एकामिषश्वानवत्](# " Sic (see note to trans. )") राज्योपप्लवे [तद्राज्यक्षेत्रम्](# " M राज्यं क्ष० ।") \।\।१०१॥
+[^65]: " MW ०कुले ।"
+
+[^66]: "W श्मशानभूमौ ।"
+
+एकामिषश्वानवत्[^67]") राज्योपप्लवे तद्राज्यक्षेत्रम्[^68] \।\।१०१॥
+
+[^67]: " Sic (see note to trans.
+
+[^68]: " M राज्यं क्ष० ।"
 
 नीतिः किल नदीतीरतरुवत् ॥१०२॥
 
@@ -805,19 +941,29 @@ DEVANAGARI CHARACTERS
 
 भूतद्रोहिणः कुसुमान्तादयः ॥ १०४॥
 
-यशोवीर्यायुः [श्रीरतिकसामन्तसेवा](# " M श्रीरतिकसामन्त०, W श्रीरति कुसमान्त०, Read श्रियो हरति कुसुमान्त० ।") ॥१०५॥
+यशोवीर्यायुः श्रीरतिकसामन्तसेवा[^69] ॥१०५॥
+
+[^69]: " M श्रीरतिकसामन्त०, W श्रीरति कुसमान्त०, Read श्रियो हरति कुसुमान्त० ।"
 
 कामक्रोधमदमात्सर्यपैशुन्यादीन्न कार्येत् \।\।१०६ ॥
 
-[अरिः](# "M W हरिः।")[शुभशीलो](# "MW शुभं शीला") मित्रम् \।\।१०७ ॥
+अरिः[^70]शुभशीलो[^71] मित्रम् \।\।१०७ ॥
 
-सुहृत्सु [शुभशीलः](# " ०शील !") शत्रुः ॥१०८ ॥
+[^70]: "M W हरिः।"
+
+[^71]: "MW शुभं शीला"
+
+सुहृत्सु शुभशीलः[^72] शत्रुः ॥१०८ ॥
+
+[^72]: " ०शील !"
 
 चन्द्रादित्ययोरेकरुचित्वाच्\[५ख\]छत्रुत्वम् \।\।१०९॥
 
 यदि चेन्न स्थितिस्तयोः ॥११० ॥
 
-ज्ञातिषु यत्र वैरं [तत्कुलद्वयमामूलं](# "M omits द्वय ।") नश्यति ॥ १११ \।\।
+ज्ञातिषु यत्र वैरं तत्कुलद्वयमामूलं[^73] नश्यति ॥ १११ \।\।
+
+[^73]: "M omits द्वय ।"
 
 यः शास्त्रं दण्डनीतिं परित्यजत्यनर्थकः शलभा इव वह्निं प्रविशत्यज्ञानात्, इत्याह भगवानाचार्यः सुरेन्द्रगुरुः ॥ ११२ ॥
 
@@ -827,7 +973,9 @@ DEVANAGARI CHARACTERS
 
 गुणावतो राज्यम् ॥१॥
 
-विद्यागुणोऽर्धगुणः [सहायगुणाश्च](# " W सा० ।") ॥२॥
+विद्यागुणोऽर्धगुणः सहायगुणाश्च[^74] ॥२॥
+
+[^74]: " W सा० ।"
 
 स्वकुलरञ्जनं च चारित्ररक्षणम ॥३॥
 
@@ -839,87 +987,141 @@ DEVANAGARI CHARACTERS
 
 आर्हतं धर्मे ॥७॥
 
-\[६क \] [लौकायतिकमसेनार्थ](# "M Sic; W ०मसेनार्थःcorrect reading doubtful (अपेतार्थे ? ) ")क्षिप्तंनश्यति तत् ॥८॥
+\[६क \] लौकायतिकमसेनार्थ[^75] ")क्षिप्तंनश्यति तत् ॥८॥
 
-[कापालिकार्हतबौद्धाश्च](# ". W कापाल० ।") ॥९॥
+[^75]: "M Sic; W ०मसेनार्थःcorrect reading doubtful (अपेतार्थे ?
+
+कापालिकार्हतबौद्धाश्च[^76] ॥९॥
+
+[^76]: ". W कापाल० ।"
 
 एतेषु तिष्ठत् शलभवह्निवत् ॥१०॥
 
 फलानि श्रोत्रसलिलकल्पानि ॥ ११ ॥
 
-अविद्यायुक्तः पुरुषार्थ साधयितुं धर्मयुक्ते [यदिच्छति](# " W बद्. Read यदे ?") तदा
+अविद्यायुक्तः पुरुषार्थ साधयितुं धर्मयुक्ते यदिच्छति[^77] तदा
 
-[लौकायतिकाभिधानपाषण्](# "W आभिधन० ।")
+[^77]: " W बद्. Read यदे ?"
+
+लौकायतिकाभिधानपाषण्[^78]
 
 डी॥१२॥
+
+[^78]: "W आभिधन० ।"
 
 यदा चण्डाल उदारसुरामांसादिकामेच्छुस्तदा कापालिकाभिधानपाषण्डी ॥१३॥
 
 
 
-यदा [सन्ध्योपासनाद्यग्निहोत्रादि](# "M W ०सनाद्। ") परिसज्याहिंसाधर्मेच्छुः तदा क्षपणकपा \[ ६ख \]षण्डी ॥१४॥
+यदा सन्ध्योपासनाद्यग्निहोत्रादि[^79] परिसज्याहिंसाधर्मेच्छुः तदा क्षपणकपा \[ ६ख \]षण्डी ॥१४॥
 
-यदा वेदोक्तकर्म ज्ञानं च सर्वेश्वरं [शिवं](# "W शिवा; M W वदन्ति ।") विष्णुं श्रियमपि परित्यज्य सर्वे शून्यमिति वदति तदा बौद्धाभिधानपाषण्डी ॥१५॥
+[^79]: "M W ०सनाद्। "
 
-वृथा धर्मं वदत्यर्थसाधनं लौकायतिकः [पिण्डादयश्चो](# "M W Sic (read चौर्यम् ? )")र इति च ॥१६॥
+यदा वेदोक्तकर्म ज्ञानं च सर्वेश्वरं शिवं[^80] विष्णुं श्रियमपि परित्यज्य सर्वे शून्यमिति वदति तदा बौद्धाभिधानपाषण्डी ॥१५॥
+
+[^80]: "W शिवा; M W वदन्ति ।"
+
+वृथा धर्मं वदत्यर्थसाधनं लौकायतिकः पिण्डादयश्चो[^81]")र इति च ॥१६॥
+
+[^81]: "M W Sic (read चौर्यम् ?
 
 सर्वमर्थार्थं करोत्यग्निहोत्रसन्ध्याजपादीन्॥१७॥
 
-स्वदोषं गृहितुं [कामार्त्तं](# " M Sic (read ०र्तः०or र्थं ?)") वेदं पठति ॥१८॥
+स्वदोषं गृहितुं कामार्त्तं[^82]") वेदं पठति ॥१८॥
+
+[^82]: " M Sic (read ०र्तः०or र्थं ?
 
 अग्निहोत्रादीन्करोति ॥ १९॥
 
-सु[रापानार्थमहिलामेहनार्थं](# " M W ०मेनार्थम् ")करोति ॥२०॥
+सुरापानार्थमहिलामेहनार्थं[^83]करोति ॥२०॥
 
-विष्ण्वादयः [सुरापानिन](# "M सुरापिन") इति कापालिकाः ॥२१॥
+[^83]: " M W ०मेनार्थम् "
+
+विष्ण्वादयः सुरापानिन[^84] इति कापालिकाः ॥२१॥
+
+[^84]: "M सुरापिन"
 
 धर्मा \[७क\] र्थं मलपिण्डधारणार्द्धर्मंबदति क्षपणकः ॥२२॥
 
 शिवादय इति वदति क्षपणकः ॥२३॥
 
-परापवादार्थं [वेदशास्त्र](# " W omits वेद")धर्मादीन् पठति ॥२४॥
+परापवादार्थं वेदशास्त्र[^85]धर्मादीन् पठति ॥२४॥
+
+[^85]: " W omits वेद"
 
 सर्वान्निन्दति ॥२५॥
 
 महेश्वरविष्णवादीनपि ॥२६॥
 
-[सोऽप्यशनार्थं](# "W. ०र्थ।") धर्मं वदति ॥२७॥
+सोऽप्यशनार्थं[^86] धर्मं वदति ॥२७॥
+
+[^86]: "W. ०र्थ।"
 
 वदनार्थं परान् स्तौति स बौद्धः ॥२८॥
 
 लौकायतिकोमृतो भवत्यर्थकामधर्ममोक्ष विहीनो नारकी च ॥२९॥
 
-कुले च तत्कुलं [तत्पुत्रपौ](# "M W तं ।")त्रान्तरे विनश्यति ॥३०॥
+कुले च तत्कुलं तत्पुत्रपौ[^87]त्रान्तरे विनश्यति ॥३०॥
+
+[^87]: "M W तं ।"
 
 कापाली स्वग्रामगृहस्वजनैः परित्यक्तः सर्वलोकनिन्दितो नारकी भवति ॥३१॥
 
 तस्मिन्काल ए \[७ख\] व कुलं विनश्यति ॥३२॥
 
-क्षपणकः [स्वकुलग्राम](# "W स्वगृहग्राम ।")वासिभिनिन्दितो[भवति](# "W जीवति ।") [त्रिकुलं](# " W सतिकुलम् ।") विनश्यति ॥३३॥
+क्षपणकः स्वकुलग्राम[^88]वासिभिनिन्दितोभवति[^89] त्रिकुलं[^90] विनश्यति ॥३३॥
 
-[बौद्धसं](# "M W बौद्धः ।")चित कुलं पुत्रपौत्रकाले वा विनश्यति सुदुष्टो नारकी ॥३४॥
+[^88]: "W स्वगृहग्राम ।"
 
-एवंपाषण्डि[संपर्कं](# "W ०पर्क ।") मनसाऽपि न कुर्यात् ॥३५॥
+[^89]: "W जीवति ।"
 
-[सुव्यव](# " W सुव्यस्थि० ।")स्थितमन्त्रेण [परच्छिद्रज्ञानिना](# "M ज्ञातिना ।") धार्मिकेरण राज्यं परिपालयितुं न शक्यते ॥३६॥
+[^90]: " W सतिकुलम् ।"
 
-ऐश्वर्यमदमत्तेन सलो[भमानिना](# "W ०नां ") संचितं विनश्यति ॥३७॥
+बौद्धसं[^91]चित कुलं पुत्रपौत्रकाले वा विनश्यति सुदुष्टो नारकी ॥३४॥
+
+[^91]: "M W बौद्धः ।"
+
+एवंपाषण्डिसंपर्कं[^92] मनसाऽपि न कुर्यात् ॥३५॥
+
+[^92]: "W ०पर्क ।"
+
+सुव्यव[^93]स्थितमन्त्रेण परच्छिद्रज्ञानिना[^94] धार्मिकेरण राज्यं परिपालयितुं न शक्यते ॥३६॥
+
+[^93]: " W सुव्यस्थि० ।"
+
+[^94]: "M ज्ञातिना ।"
+
+ऐश्वर्यमदमत्तेन सलोभमानिना[^95] संचितं विनश्यति ॥३७॥
+
+[^95]: "W ०नां "
 
 कार्यं निश्चित्य विषयाननुभवति यः स उत्तममर्थं साधयति ॥३८॥
 
-चेष्टया कार्य \[८ क\] [ज्ञान्यर्थपर](# "W ०चर ।") इति धर्मवानिति लोकैर्यथा न ज्ञायते तथा कर्त्तव्यम् ॥ ३९॥
+चेष्टया कार्य \[८ क\] ज्ञान्यर्थपर[^96] इति धर्मवानिति लोकैर्यथा न ज्ञायते तथा कर्त्तव्यम् ॥ ३९॥
 
-ईश्वर [इव](# "M श्च for इव ।") चन्द्रादित्याविव॥४०॥
+[^96]: "W ०चर ।"
 
-[स्वामिचित्तानुवृत्तिभिर्मत्यै](# " W मत्येक०, M ०भिः मत्येक्य० ।")क्यकारकर्मैव मन्त्रम् ॥४१॥
+ईश्वर इव[^97] चन्द्रादित्याविव॥४०॥
+
+[^97]: "M श्च for इव ।"
+
+स्वामिचित्तानुवृत्तिभिर्मत्यै[^98]क्यकारकर्मैव मन्त्रम् ॥४१॥
+
+[^98]: " W मत्येक०, M ०भिः मत्येक्य० ।"
 
 मन्त्रिणा स्वामिनोऽभियतमुत्सृज्य कार्यंवक्तव्यम् ॥४२॥
 
-नीतेः फलं [धर्मार्थ](# "W फण्डर्मार्थ० ।")कामा[वाप्तिः](# "W ०माभिप्तिः ।") ॥४३॥
+नीतेः फलं धर्मार्थ[^99]कामावाप्तिः[^100] ॥४३॥
+
+[^99]: "W फण्डर्मार्थ० ।"
+
+[^100]: "W ०माभिप्तिः ।"
 
 धर्मेण कामार्थौपरीक्ष्यौ ॥४४॥
 
-धर्म [धर्मेण](# " Sc. परीक्षयेत् and so with the accusatives in sūtras 46-8") ॥४५॥
+धर्म धर्मेण[^101] ॥४५॥
+
+[^101]: " Sc. परीक्षयेत् and so with the accusatives in sūtras 46-8"
 
 अर्थमर्थेन ॥४६॥
 
@@ -931,7 +1133,9 @@ DEVANAGARI CHARACTERS
 
 नीतिवियुक्तः पुत्र इव शत्रुः ॥५०॥
 
-बालं दुष्टं साहसिकमज्ञात[शास्त्रमन्त्रे](# "Text corrupt; W ०शास्त्रमन्त्रेण Read ०शास्त्रं मन्त्रे न ?") प्रवेशयेत् ॥५१॥
+बालं दुष्टं साहसिकमज्ञातशास्त्रमन्त्रे[^102] प्रवेशयेत् ॥५१॥
+
+[^102]: "Text corrupt; W ०शास्त्रमन्त्रेण Read ०शास्त्रं मन्त्रे न ?"
 
 मूढा दुराचारास्तीक्ष्णा आत्मबुद्धयः क्षिप्रक्रुद्धा बाला मन्त्रयोग्या न ॥५२॥
 
@@ -939,32 +1143,48 @@ DEVANAGARI CHARACTERS
 
 मन्त्रकाले न कोपयेत् ॥५४॥
 
-धर्मप्रधानं [पुरुषा \[९क\] र्था](# "M W पुरुषार्थान् ।") न ॥५५॥
+धर्मप्रधानं [पुरुषा \[९क\] र्था][^103] न ॥५५॥
+
+[^103]: "M W पुरुषार्थान् ।"
 
 अधर्मेण भुज्यमानं सुखमसुहृत्॥५६॥
 
-[स्थितिर्वर्धनम्](# "M W स्थिति । ") ॥५७॥
+स्थितिर्वर्धनम्[^104] ॥५७॥
+
+[^104]: "M W स्थिति । "
 
 अपथ्यभोजनो मृत्युप्रीतिकर इस सत्यत्रतः शास्त्रेषु निष्ठितः पुरुषः सागरमपि शोषयेत् ॥५८॥
 
 क्रुद्धो यदि इतपौरुषास्त्रस्ता भवन्ति ॥५९॥
 
-एक एव बहून् [दुर्जनो](# " W दुर्जनान्ना०।") नाशयति ॥६०॥
+एक एव बहून् दुर्जनो[^105] नाशयति ॥६०॥
+
+[^105]: " W दुर्जनान्ना०।"
 
 पौरुषे निष्ठितो देवो ॥६१॥  
-[यस्य](# " M निष्टिते देवो यस्य, W देवो वयस्य. No interpuncuation in either case.") स्वदाररतिः यस्यात्मने शक्तिस्तेन सदृशो न ॥६२॥
+यस्य[^106] स्वदाररतिः यस्यात्मने शक्तिस्तेन सदृशो न ॥६२॥
 
-सज्जनो न भयाद् [व्यतिवर्तते](# "W ०तन्ते ।") ॥६३॥
+[^106]: " M निष्टिते देवो यस्य, W देवो वयस्य. No interpuncuation in either case."
+
+सज्जनो न भयाद् व्यतिवर्तते[^107] ॥६३॥
+
+[^107]: "W ०तन्ते ।"
 
 तस्मिन्काले हितमवक्तव्यमवाक्यज्ञैः सुहृद्भिः ॥६४॥
 
 उत्सिक्तहृदयं धर्मे चलि \[९ख\] तगौरवमजितात्मानं शासितुं नोत्सहेत ॥६५॥
 
-दारुणकर्मभिः [श्रान्तप्रज्ञा](# "M शान्तम् ।")ननिद्रया सुप्तं धर्मवाक्यानिलैः शीतैर्बालिशं प्रवोधयेत ॥६६॥
+दारुणकर्मभिः श्रान्तप्रज्ञा[^108]ननिद्रया सुप्तं धर्मवाक्यानिलैः शीतैर्बालिशं प्रवोधयेत ॥६६॥
 
-दुर्जनमध्ये सूर्यवत् प्रकाशते [सुजनः](# " W सुधर्मः।") ॥६७॥
+[^108]: "M शान्तम् ।"
 
-अधर्मव्यव[स्थितान्न्यायवृत्तेन](# " M ०स्थिता ।") वारयेत् ॥६८॥
+दुर्जनमध्ये सूर्यवत् प्रकाशते सुजनः[^109] ॥६७॥
+
+[^109]: " W सुधर्मः।"
+
+अधर्मव्यवस्थितान्न्यायवृत्तेन[^110] वारयेत् ॥६८॥
+
+[^110]: " M ०स्थिता ।"
 
 अधर्मंअनार्जयेत् ॥६९॥
 
@@ -972,9 +1192,13 @@ DEVANAGARI CHARACTERS
 
 न मारयेत् ॥७१॥
 
-वोला [निवार्यतां](# " M ०तामधर्०।") धर्मपाठाङ्कुशेन गज इव ॥७२॥
+वोला निवार्यतां[^111] धर्मपाठाङ्कुशेन गज इव ॥७२॥
 
-गुरुवचनमलङ्घनीयं [नयानुगत](# " W गतश्चे ।")ं चेत् ॥७३॥
+[^111]: " M ०तामधर्०।"
+
+गुरुवचनमलङ्घनीयं नयानुगत[^112]ं चेत् ॥७३॥
+
+[^112]: " W गतश्चे ।"
 
 गुरुमपि नीतिवियुक्तं निरासयेत् ॥७४॥
 
@@ -1002,17 +1226,27 @@ DEVANAGARI CHARACTERS
 
 बहुवादं मधुरमेव कुर्यात् ॥६॥
 
-[शमबुद्धीन्](# "W ०द्धिः; W read समबुद्धीन् ।") मणीन सर्वान् सदाराधयेत् ॥७॥
+शमबुद्धीन्[^113] मणीन सर्वान् सदाराधयेत् ॥७॥
+
+[^113]: "W ०द्धिः; W read समबुद्धीन् ।"
 
 नवानि मन्त्राणि विद्यात् ॥८॥
 
-त्रिविधानि शाक्ता [वैष्णवा](# " Sic M W") शैवानि तत् \[१० ख \] २ [प्रभिन्नानि](# " W here inserts च") ॥९॥
+त्रिविधानि शाक्ता वैष्णवा[^114] शैवानि तत् \[१० ख \] २ प्रभिन्नानि[^115] ॥९॥
 
-मोक्ष[पुर्या](# "M ०पूर्वान् ।") द्वारं त्रयम् ॥१०॥
+[^114]: " Sic M W"
+
+[^115]: " W here inserts च"
+
+मोक्षपुर्या[^116] द्वारं त्रयम् ॥१०॥
+
+[^116]: "M ०पूर्वान् ।"
 
 शाक्ता वैष्णवाःशैवाः ॥११॥
 
-पोतयानमार्गव[च्छाक्तम्](# " W om. शाक्तं and sûtras 13-15.") ॥१२॥
+पोतयानमार्गवच्छाक्तम्[^117] ॥१२॥
+
+[^117]: " W om. शाक्तं and sûtras 13-15."
 
 महापथवद्वैष्णवम् ॥१३॥
 
@@ -1022,7 +1256,9 @@ DEVANAGARI CHARACTERS
 
 लौकायतिकक्षपणकबौद्धादि बहुशारदृलदुष्टमृगाकीर्णशून्याटवीगुहामार्गवत् ॥१५॥
 
-एतत् निरूप्येक[माश्रयेत्](# "W ०आत्रयेतू ।") ॥१६॥
+एतत् निरूप्येकमाश्रयेत्[^118] ॥१६॥
+
+[^118]: "W ०आत्रयेतू ।"
 
 ज्योतिनाथस्थितं सदा निरूपयेत् ॥१७॥
 
@@ -1030,25 +1266,49 @@ DEVANAGARI CHARACTERS
 
 औषधानि सेवेत च ॥१९॥
 
-चलवर्णतेजोमदबुद्धिशौर्यदयावर्धनानि [दोषधातुशमानि](# " M W ०समानि ।") ॥२०॥
+चलवर्णतेजोमदबुद्धिशौर्यदयावर्धनानि दोषधातुशमानि[^119] ॥२०॥
+
+[^119]: " M W ०समानि ।"
 
 दानमानालङ्कारविद्याभिः सिद्धिं लभेत ॥२१॥
 
 अष्टादश तीर्थानि निरूपयेत् ॥२२॥
 
-षट् [प्रकृतयस्तीर्थं](# "W व्यस्ते तीर्थाः ।") शत्रुमित्रोदासीना \[११ क\] [श्च](# " M ०मित्रोदशनां च ।") ॥२३॥
+षट् प्रकृतयस्तीर्थं[^120] शत्रुमित्रोदासीना \[११ क\] श्च[^121] ॥२३॥
 
-अन्तः [शत्रुरन्तर्भित्रो](# "W तरु० ।")ऽन्तरुदासीन [इति](# "W here inserts च । ") तेऽप्यनुजीविसखिसुहृदश्व ॥२४॥
+[^120]: "W व्यस्ते तीर्थाः ।"
+
+[^121]: " M ०मित्रोदशनां च ।"
+
+अन्तः शत्रुरन्तर्भित्रो[^122]ऽन्तरुदासीन इति[^123] तेऽप्यनुजीविसखिसुहृदश्व ॥२४॥
+
+[^122]: "W तरु० ।"
+
+[^123]: "W here inserts च । "
 
 भार्यापुत्रवान्धवाश्च ॥२५॥
 
-अन्येऽपि देवालयनृत्तयागभूमिसन्ध्यावापीचतुष्पथपाषण्डा[ल](# " W ०ण्डयाल ।")यापणबालविद्यापाठ[देश](# ". W पांदेश ।")ख[लूरी](# "W omits लू ।")शाली[चन्द्र](# " M W चण्ड ।")दर्शनाद्युत्सववेश्यागृहसमुद्रतीरयतिसंनिधिराज्यसन्धिसुरावि[क्रयस्थानपा](# " W च ।")[न्थनिवासाश्च](# " W पन्था ।") ॥२६, २७॥
+अन्येऽपि देवालयनृत्तयागभूमिसन्ध्यावापीचतुष्पथपाषण्डाल[^124]यापणबालविद्यापाठदेश[^125]खलूरी[^126]शालीचन्द्र[^127]दर्शनाद्युत्सववेश्यागृहसमुद्रतीरयतिसंनिधिराज्यसन्धिसुराविक्रयस्थानपा[^128]न्थनिवासाश्च[^129] ॥२६, २७॥
+
+[^124]: " W ०ण्डयाल ।"
+
+[^125]: ". W पांदेश ।"
+
+[^126]: "W omits लू ।"
+
+[^127]: " M W चण्ड ।"
+
+[^128]: " W च ।"
+
+[^129]: " W पन्था ।"
 
 शृङ्गारवेषं कुर्यात् ॥२८॥
 
 पुरद्वारे सर्वनिरोधनं कार्य्यम् ॥२९॥
 
-[सर्वान्न](# ". W सर्वन् ।") निशेष \[११ ख\] येच्च ॥३०॥
+सर्वान्न[^130] निशेष \[११ ख\] येच्च ॥३०॥
+
+[^130]: ". W सर्वन् ।"
 
 इतिहासपुराणानि मानयेत् ॥३१॥
 
@@ -1056,7 +1316,9 @@ DEVANAGARI CHARACTERS
 
 शाक्ताममांश्च ॥३३॥
 
-[वैखानसागमांश्च](# "W omits न ।")॥३४॥
+वैखानसागमांश्च[^131]॥३४॥
+
+[^131]: "W omits न ।"
 
 सांख्यांश्च ॥३५॥
 
@@ -1066,13 +1328,19 @@ DEVANAGARI CHARACTERS
 
 ब्राह्मणं न हन्याद्दोषदुष्टमपि ॥३८॥
 
-[निर्दयस्य](# "W ०स्या ।") दया कर्तव्या ॥३९॥
+निर्दयस्य[^132] दया कर्तव्या ॥३९॥
+
+[^132]: "W ०स्या ।"
 
 ग्रामणीन् सम्भावयेत् ॥४०॥
 
-[नगरेन्द्राँश्च](# ". W नृं। (for न्द्रां ) ।") ॥४१॥
+नगरेन्द्राँश्च[^133] ।") ॥४१॥
 
-दुर्वलमपि साम [कुर्यात्](# "W अपि स कु।") ॥४२॥
+[^133]: ". W नृं। (for न्द्रां
+
+दुर्वलमपि साम कुर्यात्[^134] ॥४२॥
+
+[^134]: "W अपि स कु।"
 
 दानेन बहु ॥४३॥
 
@@ -1080,17 +1348,27 @@ DEVANAGARI CHARACTERS
 
 नोत्तमेषु गुणवाहुल्यक्रमेण ॥४५॥
 
-अक्षै[र्दीव्यात्](# "W डि० ।") ॥४६॥
+अक्षैर्दीव्यात्[^135] ॥४६॥
 
-नैव [दीव्याच्च](# "Sic M W.") ॥४७॥
+[^135]: "W डि० ।"
+
+नैव दीव्याच्च[^136] ॥४७॥
+
+[^136]: "Sic M W."
 
 सर्पादीन् हन्यात् ॥४८॥
 
-उत्तमान्नाना[मन्त्रसिद्धान्](# " W नमन्त्र० ।") \[१२क \] विद्याबहुलान् द्विजान मानयेत् ॥४९॥
+उत्तमान्नानामन्त्रसिद्धान्[^137] \[१२क \] विद्याबहुलान् द्विजान मानयेत् ॥४९॥
 
-अन्यराष्ट्रजान् द्विजान् क्षत्रबन्धून् कुमारसामन्तादीनात्मवत्[सम्भावयेद्भो](# "M ínterpuncuates here and not after ०नादिभिः ।")जनाच्छादनादिभिः ॥५०॥
+[^137]: " W नमन्त्र० ।"
 
-शरणागतं सर्वपातक[युक्तमपि](# " W सर्वपटत०") रक्षेत् ॥५१॥
+अन्यराष्ट्रजान् द्विजान् क्षत्रबन्धून् कुमारसामन्तादीनात्मवत्सम्भावयेद्भो[^138]जनाच्छादनादिभिः ॥५०॥
+
+[^138]: "M ínterpuncuates here and not after ०नादिभिः ।"
+
+शरणागतं सर्वपातकयुक्तमपि[^139] रक्षेत् ॥५१॥
+
+[^139]: " W सर्वपटत०"
 
 दुष्टनिग्रहं कुर्यात् ॥५२॥
 
@@ -1102,7 +1380,9 @@ DEVANAGARI CHARACTERS
 
 देवालयानि च ॥५६॥
 
-[आसवानि](# "Sic W M (for ०वान् ? )") सेवयेत् \।\।५७॥
+आसवानि[^140]") सेवयेत् \।\।५७॥
+
+[^140]: "Sic W M (for ०वान् ?
 
 अति न ॥५८॥
 
@@ -1122,17 +1402,23 @@ DEVANAGARI CHARACTERS
 
 सप्तसमुद्रावृता च ॥६६॥
 
-कर्मभो[गाति](# "W omits गा ।") \[१२ख\] भोगदिव्यशृङ्गारसिद्धकैवल्या इति द्वीपाभिधानाः ॥६७॥
+कर्मभोगाति[^141] \[१२ख\] भोगदिव्यशृङ्गारसिद्धकैवल्या इति द्वीपाभिधानाः ॥६७॥
+
+[^141]: "W omits गा ।"
 
 मध्यः कर्मभूमिः ॥६८॥
 
-तन्मध्ये [गेरोराजम्बूः](# "30 Corrupt, reading doubtful.") ॥६९॥
+तन्मध्ये गेरोराजम्बूः[^142] ॥६९॥
+
+[^142]: "30 Corrupt, reading doubtful."
 
 तत्रोत्तरे हिमवान् ॥७०॥
 
 तस्य दक्षिणे नवसाहस्री भूः ॥७१॥
 
-तत्र [दाक्षिणात्यो](# "W ०न्यो")भारतः खण्डः ॥७२॥
+तत्र दाक्षिणात्यो[^143]भारतः खण्डः ॥७२॥
+
+[^143]: "W ०न्यो"
 
 तत्र साक्षाद्धर्माधर्मफलाः सिध्यन्ति ॥७३॥
 
@@ -1140,17 +1426,27 @@ DEVANAGARI CHARACTERS
 
 पूर्वभारतीयैः पठितव्यः भविष्यैर्वर्तमानैश्च चातुर्वणिकैश्च ॥७५॥
 
-दण्डनीत्या भगवान् [भानुर्नृपतिः](# "W ०तिं ।") ॥ ७६॥
+दण्डनीत्या भगवान् भानुर्नृपतिः[^144] ॥ ७६॥
 
-वायुश्च [सर्वे](# " W सर्व ।") देवाश्च ॥७७॥
+[^144]: "W ०तिं ।"
+
+वायुश्च सर्वे[^145] देवाश्च ॥७७॥
+
+[^145]: " W सर्व ।"
 
 जन्तवश्च ॥७८॥
 
 सहस्रयोजना वदरिकासेत्वन्ता ॥७९॥
 
-द्वारकादिपुरुषोत्तम \[१३ क\] सालग्रामान्ता सप्तशत[योजना](# " W ०नां।") ॥८०॥
+द्वारकादिपुरुषोत्तम \[१३ क\] सालग्रामान्ता सप्तशतयोजना[^146] ॥८०॥
 
-तत्रापि [रैवतक](# " W omits क ।") विन्ध्यसह्यकुमारमलयश्रीपर्वतपारियात्राःसप्त[कुलाचलाः](# "W ०लां।") ॥८१॥
+[^146]: " W ०नां।"
+
+तत्रापि रैवतक[^147] विन्ध्यसह्यकुमारमलयश्रीपर्वतपारियात्राःसप्तकुलाचलाः[^148] ॥८१॥
+
+[^147]: " W omits क ।"
+
+[^148]: "W ०लां।"
 
 गङ्गासरस्वतीकालिन्दीगोदावरीकावेरीताम्रपर्णीघृतमाला \[**:**\] कुलनद्यश्च ॥८२॥
 
@@ -1160,9 +1456,13 @@ DEVANAGARI CHARACTERS
 
 अष्टादश पार्वतीयाः ॥८५॥
 
-रामसृष्टिश्चत्वारिंशच्छतं दक्षिणोत्तरे [आसह्यं](# " ०ह्या ।") द्वादश विश्वामित्रसृष्टिरेकादश ॥८६॥
+रामसृष्टिश्चत्वारिंशच्छतं दक्षिणोत्तरे आसह्यं[^149] द्वादश विश्वामित्रसृष्टिरेकादश ॥८६॥
 
-[नेपालं](# "M omits ल; W has ०लश्च ।") चतुःशतम् ॥८७॥
+[^149]: " ०ह्या ।"
+
+नेपालं[^150] चतुःशतम् ॥८७॥
+
+[^150]: "M omits ल; W has ०लश्च ।"
 
 पूर्वसमुद्रतीरे वरुणतः समुद्रान्तमष्टयोज\[ १३ख\] ना ॥८८॥
 
@@ -1170,17 +1470,27 @@ DEVANAGARI CHARACTERS
 
 काशीपाञ्चालद्वितयमशीतिः ॥९०॥
 
-केकय[सृञ्जयं](# " W ०य ।") षष्टिः ॥९१॥
+केकयसृञ्जयं[^151] षष्टिः ॥९१॥
 
-[मात्स्यमागधं](# " W माक्ष्य० ।") [शतम्](# "W ०तः।") ॥९२॥
+[^151]: " W ०य ।"
+
+मात्स्यमागधं[^152] शतम्[^153] ॥९२॥
+
+[^152]: " W माक्ष्य० ।"
+
+[^153]: "W ०तः।"
 
 मालवशकुन्तमशीतिः ॥९३॥
 
 कोसलावन्तिःषष्टिः ॥९४॥
 
-[सैह्य](# ". Sic.") वैदर्भद्वितयं शतद्वितयम् ॥९५॥
+सैह्य[^154] वैदर्भद्वितयं शतद्वितयम् ॥९५॥
 
-वैदेह[कौरवं](# ". W ०व।") शतम् ॥९६॥
+[^154]: ". Sic."
+
+वैदेहकौरवं[^155] शतम् ॥९६॥
+
+[^155]: ". W ०व।"
 
 काम्बोजदशार्णमशीतिः ॥९७॥
 
@@ -1188,29 +1498,55 @@ DEVANAGARI CHARACTERS
 
 एते खलु चतुरश्राः॥९९॥
 
-आरट्टबा[ह्लीकौ](# " W ०ह्लि० ।")दक्षि[णोत्तरतः](# "W ०त्तरः ।") शतमात्रौ पूर्व[पश्चाद्](# ". W ०पश्चा ।") द्वादशौ ॥१००॥
+आरट्टबाह्लीकौ[^156]दक्षिणोत्तरतः[^157] शतमात्रौ पूर्वपश्चाद्[^158] द्वादशौ ॥१००॥
+
+[^156]: " W ०ह्लि० ।"
+
+[^157]: "W ०त्तरः ।"
+
+[^158]: ". W ०पश्चा ।"
 
 शाकसौराष्ट्र चतुरश्रौ चत्वारिंशत् ॥१०१॥
 
-अङ्गवङ्गकलिङ्गा \[१४ क\]**:** [शटमात्रा](# " W ०त्रं । ")श्चतुरश्राश्च ॥१०२॥
+अङ्गवङ्गकलिङ्गा \[१४ क\]**:** शटमात्रा[^159]श्चतुरश्राश्च ॥१०२॥
 
-[काश्मीर](# " W काश्मीहूणाम्बषुसिन०")हूणाम्बष्टसिन्धवः शतमात्राश्चतुरश्राश्च ॥१०३॥
+[^159]: " W ०त्रं । "
 
-[किरात](# "W किरामत० ।")सौवीरचोलपाण्ड्या उत्तरे दक्षिणे स्थिताः शतात् परं [षष्टिमात्राः](# " W०त्रा ।") ॥१०४॥
+काश्मीर[^160]हूणाम्बष्टसिन्धवः शतमात्राश्चतुरश्राश्च ॥१०३॥
 
-[यादवका](# "W omits ञ्ची ।")ञ्ची[विषयं](# "W ०य ।") चत्वारिंशच्छतमात्रम् ॥१०५॥
+[^160]: " W काश्मीहूणाम्बषुसिन०"
+
+किरात[^161]सौवीरचोलपाण्ड्या उत्तरे दक्षिणे स्थिताः शतात् परं षष्टिमात्राः[^162] ॥१०४॥
+
+[^161]: "W किरामत० ।"
+
+[^162]: " W०त्रा ।"
+
+यादवका[^163]ञ्चीविषयं[^164] चत्वारिंशच्छतमात्रम् ॥१०५॥
+
+[^163]: "W omits ञ्ची ।"
+
+[^164]: "W ०य ।"
 
 एते उपविषयाः ॥१०६॥
 
-[सप्त](# "W स्त० ।")कोङ्कणाश्चतुः शतमात्रा द्वादश [षट्राष्ट्रौ](# " W च षटष्टौच। ") च ॥१०७॥
+सप्त[^165]कोङ्कणाश्चतुः शतमात्रा द्वादश षट्राष्ट्रौ[^166] च ॥१०७॥
 
-एते [अनूपाः](# "W आनु० ।") ॥१०८॥
+[^165]: "W स्त० ।"
+
+[^166]: " W च षटष्टौच। "
+
+एते अनूपाः[^167] ॥१०८॥
+
+[^167]: "W आनु० ।"
 
 सह्याद्रौ चत्वारो गिरिविषयाः ॥१०९॥
 
 श्रीपर्वते द्वयम् ॥११०॥
 
-रैवतक [एकः](# " W एकाःM एका ।") ॥१११॥
+रैवतक एकः[^168] ॥१११॥
+
+[^168]: " W एकाःM एका ।"
 
 विन्ध्ये पञ्च ॥११२॥
 
@@ -1220,37 +1556,59 @@ DEVANAGARI CHARACTERS
 
 पारियात्रे त्रयम् \।\।११५॥
 
-सर्वे दक्षि[णोत्तरतः](# "W पञ्चश्०।") पञ्चाशन्मात्राःपूर्वतः पश्चात् पञ्चयोजनाः समाः ॥११६॥
+सर्वे दक्षिणोत्तरतः[^169] पञ्चाशन्मात्राःपूर्वतः पश्चात् पञ्चयोजनाः समाः ॥११६॥
+
+[^169]: "W पञ्चश्०।"
 
 म्लेच्छे यवनविषयाः पार्वतीयाः ॥११७॥
 
-[ग्राम](# "W ग्रामौह रो० ।")नगरोद्यानादिभिरलंकृताः पुण्यक्षेत्रादिभिश्च ॥११८॥
+ग्राम[^170]नगरोद्यानादिभिरलंकृताः पुण्यक्षेत्रादिभिश्च ॥११८॥
 
-अष्ट वैष्ण[वक्षेत्राः](# " Sic (Masc.) here and in the sūtras 122, 125. ") ॥११९॥
+[^170]: "W ग्रामौह रो० ।"
 
-बदरिकासालग्रामपुरुषोत्तमद्वारकाविलवाचला[नन्तसिंह](# " W ०नन्तंसिं० ।") श्रीरङ्गाः ॥१२०॥
+अष्ट वैष्णवक्षेत्राः[^171] here and in the sūtras 122, 125. ") ॥११९॥
+
+[^171]: " Sic (Masc.
+
+बदरिकासालग्रामपुरुषोत्तमद्वारकाविलवाचलानन्तसिंह[^172] श्रीरङ्गाः ॥१२०॥
+
+[^172]: " W ०नन्तंसिं० ।"
 
 अष्टौ शैवाः ॥१२१॥
 
-[अविमुक्त](# ". W अविमुक्ततगङ्गा०") \[ क \] गङ्गाद्वारशिवक्षेत्ररामेयमुनाशिवसरस्वतीमव्यशार्दूल[गजक्षेत्राः](# "W ०त्रा (masc. as in 119)") ॥१२२॥
+अविमुक्त[^173] \[ क \] गङ्गाद्वारशिवक्षेत्ररामेयमुनाशिवसरस्वतीमव्यशार्दूलगजक्षेत्राः[^174]") ॥१२२॥
+
+[^173]: ". W अविमुक्ततगङ्गा०"
+
+[^174]: "W ०त्रा (masc. as in 119
 
 शाक्ता अ\[ १५ क \] ष्टौ च ॥१२३॥
 
-[ओघ्घीण](# " W दण्डी० ।") जालपूर्णकामकोल्लश्रीशैलकाञ्चीमहेन्द्राः ॥१२४॥
+ओघ्घीण[^175] जालपूर्णकामकोल्लश्रीशैलकाञ्चीमहेन्द्राः ॥१२४॥
 
-एते [महाक्षेत्राः](# "Sic (masc.) ") ॥१२५॥
+[^175]: " W दण्डी० ।"
+
+एते महाक्षेत्राः[^176] ") ॥१२५॥
+
+[^176]: "Sic (masc.
 
 सर्वसिद्धिकराश्च ॥१२६॥
 
-[वन्ध्याश्च](# "Sic (for बन्द्याश् ?)") ॥१२७॥
+वन्ध्याश्च[^177]") ॥१२७॥
+
+[^177]: "Sic (for बन्द्याश् ?
 
 विन्ध्ये नित्यंवसति दुर्गा भद्रकाली च ॥१२८॥
 
-कुमारे कुमारो [वसति](# " M वसतिर् ।") नित्यं॥१२९॥
+कुमारे कुमारो वसति[^178] नित्यं॥१२९॥
+
+[^178]: " M वसतिर् ।"
 
 सह्ये गणपतिः ॥१३०॥
 
-[रैवतके](# " W रैवते ।") शास्ता ॥१३१॥
+रैवतके[^179] शास्ता ॥१३१॥
+
+[^179]: " W रैवते ।"
 
 महेन्द्रे गरुडः ॥१३२॥
 
@@ -1266,25 +1624,37 @@ DEVANAGARI CHARACTERS
 
 मानवैः कृतपालनाश्च ॥१३८॥
 
-तस्मिन्नमृतमया [औषधाः](# "Sic ( masc. )") सन्ति ॥१३९॥
+तस्मिन्नमृतमया औषधाः[^180]") सन्ति ॥१३९॥
 
-अत्र युगसंख्या कृतत्रेताद्वा[परतिष्याश्च](# " W ०द्वापरि० ") ॥१४०॥
+[^180]: "Sic ( masc.
+
+अत्र युगसंख्या कृतत्रेताद्वापरतिष्याश्च[^181] ॥१४०॥
+
+[^181]: " W ०द्वापरि० "
 
 कृते ज्ञानिनः ॥१४१॥
 
-दण्डनीति[कोविदाः](# "W here inserts नराः") ॥१४२॥
+दण्डनीतिकोविदाः[^182] ॥१४२॥
+
+[^182]: "W here inserts नराः"
 
 त्रेतायां कर्मिणः नीतिविशारदाः ॥१४३॥
 
-द्वापरे तान्त्रिकानुसारा [घनारसाश्च](# "Sic (read ०न ? )")॥१४४॥
+द्वापरे तान्त्रिकानुसारा घनारसाश्च[^183]")॥१४४॥
+
+[^183]: "Sic (read ०न ?
 
 नीतिकोविदाश्च ॥१४५॥
 
-तिष्ये पादे [ज्ञानकर्मा](# " Sic ( read ०म ? )")घना दण्डनीतिकोविदा नराः ॥१४६॥
+तिष्ये पादे ज्ञानकर्मा[^184]")घना दण्डनीतिकोविदा नराः ॥१४६॥
+
+[^184]: " Sic ( read ०म ?
 
 तदुत्तरं विरुद्धधर्मवर्णवेषा दण्डनीतिबर्जिताः ॥१४७॥
 
-पश्यन्ति प्रजा अनृतवादतत्पराश्चेत्याह \[ १६ क \][आचार्यः](# "०र्याः") ॥१४८॥
+पश्यन्ति प्रजा अनृतवादतत्पराश्चेत्याह \[ १६ क \]आचार्यः[^185] ॥१४८॥
+
+[^185]: "०र्याः"
 
 इति बार्हस्पत्यसूत्रे तृतीयोऽध्यायः ॥
 
@@ -1300,7 +1670,9 @@ DEVANAGARI CHARACTERS
 
 धर्ममर्थञ्च चिन्तयेत् ॥२॥
 
-[कुक्कुटशब्दं](# " W कुक्कुटे शब्दम् (Sic neut.)") शुभम् ॥३॥
+कुक्कुटशब्दं[^186]") शुभम् ॥३॥
+
+[^186]: " W कुक्कुटे शब्दम् (Sic neut.
 
 गजादिदर्शनञ्च ॥४॥
 
@@ -1320,9 +1692,15 @@ DEVANAGARI CHARACTERS
 
 कर्पूरचन्दनागरुधूपञ्च ॥१२॥
 
-शाङ्खकाहल[विषाण](# " M ०निषारण ")च्छिन्नवेणु[वीणातन्त्री](# "M W ०तण्डी०") मृदङ्गपणवाः ॥१३॥
+शाङ्खकाहलविषाण[^187]च्छिन्नवेणुवीणातन्त्री[^188] मृदङ्गपणवाः ॥१३॥
 
-तूर्य[घोषाश्च](# " W ०षश्")॥\।१४॥
+[^187]: " M ०निषारण "
+
+[^188]: "M W ०तण्डी०"
+
+तूर्यघोषाश्च[^189]॥\।१४॥
+
+[^189]: " W ०षश्"
 
 दिव्यप्रमदादर्शनं च ॥१५॥
 
@@ -1334,7 +1712,9 @@ DEVANAGARI CHARACTERS
 
 मन्त्रतृप्तो वह्निः शताचिर्विष्णुलिङ्गधूमयुक्तो भवति ॥१९॥
 
-तदशुभं गवां [संदर्शनम्](# "W ०शनञ्च") ॥२०॥
+तदशुभं गवां संदर्शनम्[^190] ॥२०॥
+
+[^190]: "W ०शनञ्च"
 
 गृध्रसंदर्शनं च ॥२१॥
 
@@ -1344,59 +1724,95 @@ DEVANAGARI CHARACTERS
 
 क्रव्यादमृगाणां शब्दो ग्रामपुरद्वारे वा श्रूयते ॥२४॥
 
-देवताप्रतिमा[स्वेदश्च](# "W ०सेदश्") यस्मिन्दृश्यते तत्र प्रायश्चित्तमन्यत्र यानमेव प्रतिकारो [नास्ति](# "W ०स्ती") ॥२५॥
+देवताप्रतिमास्वेदश्च[^191] यस्मिन्दृश्यते तत्र प्रायश्चित्तमन्यत्र यानमेव प्रतिकारो नास्ति[^192] ॥२५॥
 
-[अवश्य](# " W अवश्यन्नि०")निरूपणीयान्येतानि कर्माणि ॥२६॥
+[^191]: "W ०सेदश्"
+
+[^192]: "W ०स्ती"
+
+अवश्य[^193]निरूपणीयान्येतानि कर्माणि ॥२६॥
+
+[^193]: " W अवश्यन्नि०"
 
 मन्त्रमू \[१७ क \] लो विजयः ॥२७॥
 
 त्रिविधाः पुरुषाः उत्तमाधममध्यमाः ॥२८॥
 
-[मन्त्रेऽपि](# "W मन्त्रो") ॥२९॥
+मन्त्रेऽपि[^194] ॥२९॥
+
+[^194]: "W मन्त्रो"
 
 बन्धुभिर्वान्धवैर्हितैर्बहुश्रुतैर्धीरैः सह यत् कर्मारभते तदुत्तमम् ॥३०॥
 
-[धर्मद्विविधे](# ". W here inserts देव") गुरौ भक्तिश्च ॥३१॥
+धर्मद्विविधे[^195] गुरौ भक्तिश्च ॥३१॥
 
-[अर्थपरैः](# " W अद्ध०") सह मन्त्रयित्वा य आरभते स उत्तमः ॥३२॥
+[^195]: ". W here inserts देव"
 
-गुणदोषागमं निश्चित्य मौर्ख्य[बाहुल्याद्](# "M मौर्ख्यात् बाहुलाद्या; W मौर्ख्याबाहुलाद्या।") य आरभते सोऽधमः ॥३३॥
+अर्थपरैः[^196] सह मन्त्रयित्वा य आरभते स उत्तमः ॥३२॥
+
+[^196]: " W अद्ध०"
+
+गुणदोषागमं निश्चित्य मौर्ख्यबाहुल्याद्[^197] य आरभते सोऽधमः ॥३३॥
+
+[^197]: "M मौर्ख्यात् बाहुलाद्या; W मौर्ख्याबाहुलाद्या।"
 
 ऐकमत्येन दण्डनीतिनेत्रेणधीरैमन्त्रिभिर्योमन्त्रः स उत्तमः ॥३४॥
 
 पूर्वं बहुबुद्धयः पश्चादेकमतयो भवन्ति यत्र स मध्यमः ॥३५॥
 
-\[ १७ ख \] यत्र [कलह](# " Sic (neut.)")म्भ[र्त्सनं](# "W भक्षनम्") च एकस्य धर्म एकस्यार्थे स्त्रीवाल बृद्धैः सह एकस्य रूढ़ितमेकस्यक्रोधो यस्मिन् सोऽधमः ॥३६॥
+\[ १७ ख \] यत्र कलह[^198]")म्भर्त्सनं[^199] च एकस्य धर्म एकस्यार्थे स्त्रीवाल बृद्धैः सह एकस्य रूढ़ितमेकस्यक्रोधो यस्मिन् सोऽधमः ॥३६॥
+
+[^198]: " Sic (neut.
+
+[^199]: "W भक्षनम्"
 
 पूर्वं स्वामिना कार्यनिवेदनम् ॥३७॥
 
-पुनर्वचसा कर्मणा मनसाञ्जलिना [दण्डप्रणामेन](# " M ०णमौ; see introduction, notes at the end.") यथागुरुत्वं स्वामिनमभिवन्दयेत् ॥३८॥
+पुनर्वचसा कर्मणा मनसाञ्जलिना दण्डप्रणामेन[^200] यथागुरुत्वं स्वामिनमभिवन्दयेत् ॥३८॥
 
-बृद्धो वैश्रवणो वाचस्पतिर्वा [यस्यान्नं](# " M यस्यां ना।") नाभुञ्जते तं बन्देत् ॥३९॥
+[^200]: " M ०णमौ; see introduction, notes at the end."
+
+बृद्धो वैश्रवणो वाचस्पतिर्वा यस्यान्नं[^201] नाभुञ्जते तं बन्देत् ॥३९॥
+
+[^201]: " M यस्यां ना।"
 
 यत्पुनर्यथाक्रममेकैकस्य मतं श्रोतव्यम् ॥४०॥
 
 स्वामिनं प्रसाद्य कार्यं कल्पयितव्यम् ॥४१॥
 
-पूर्वं स्वामि \[१८ क \] गुणं संकीर्त्य स्वामिदोषं परदोषं च [मध्यस्थदोषं](# "17. W omits.")च मन्त्रयित्वा पुनः स्वामिगुणसंस्थापनं
+पूर्वं स्वामि \[१८ क \] गुणं संकीर्त्य स्वामिदोषं परदोषं च मध्यस्थदोषं[^202]च मन्त्रयित्वा पुनः स्वामिगुणसंस्थापनं
+
+[^202]: "17. W omits."
 
 कुर्यात् ॥४२॥
 
-पुनः [कार्याण्युपायानि](# " Sic (neut.) M W. ") निरूप्य स्वामिनं प्रसाद्य कार्यंकल्पयितव्यम् ॥४३॥
+पुनः कार्याण्युपायानि[^198] M W. ") निरूप्य स्वामिनं प्रसाद्य कार्यंकल्पयितव्यम् ॥४३॥
+
+[^198]: " Sic (neut.
 
 प्रमत्तेष्वभियुक्तेषु दैवोपहतेषु च न सिध्यन्ति विक्रमाः ॥४४॥
 
-अप्रमत्तं [धर्मज्ञं](# ". W ०ज्ञ") जितेन्द्रियं विजिगीषु वलिषु जातकोपंदुराधर्षं प्रति विक्रमो न [कार्यः](# "W ०र्याः") ॥४५॥
+अप्रमत्तं धर्मज्ञं[^204] जितेन्द्रियं विजिगीषु वलिषु जातकोपंदुराधर्षं प्रति विक्रमो न कार्यः[^205] ॥४५॥
 
-शास्त्रवित् कथं कार्यं न प्रजानातीति न [वदेत्](# "Minterpuncuates not here, but after शत्रुन्") ॥४६॥
+[^204]: ". W ०ज्ञ"
+
+[^205]: "W ०र्याः"
+
+शास्त्रवित् कथं कार्यं न प्रजानातीति न वदेत्[^206] ॥४६॥
+
+[^206]: "Minterpuncuates not here, but after शत्रुन्"
 
 बलिष्ठान् शत्रून् कामादीन्ये जयन्ति ते सर्वानरीञ्जयन्ति ॥४७॥
 
 \[१८ ख \] पूर्वमुपकारं न कार्येत् ॥४८॥
 
-उपकारं [नियतं](# " W omits त्") कुर्याच्च ॥४९॥
+उपकारं नियतं[^207] कुर्याच्च ॥४९॥
 
-नाभाविव्यसनं पूर्वं ज्ञात्वा व्यसन[प्रतीकारं](# "Sic (neut.)") कार्यमिति गुरुराह ॥५०॥
+[^207]: " W omits त्"
+
+नाभाविव्यसनं पूर्वं ज्ञात्वा व्यसनप्रतीकारं[^208]") कार्यमिति गुरुराह ॥५०॥
+
+[^208]: "Sic (neut.
 
 इति बार्हस्पत्यसूत्रे चतुर्थोऽध्यायः ।
 
@@ -1412,9 +1828,13 @@ DEVANAGARI CHARACTERS
 
 त्रयश्च ॥२॥
 
-मायोपेक्षा [वधश्च](# "1. W०शश् ") ॥३॥
+मायोपेक्षा वधश्च[^209] ॥३॥
 
-सूरीषु [साम](# "W ०मः । ") ॥४॥
+[^209]: "1. W०शश् "
+
+सूरीषु साम[^210] ॥४॥
+
+[^210]: "W ०मः । "
 
 शङ्कितेषु सामभेदौ ॥५॥
 
@@ -1424,45 +1844,81 @@ DEVANAGARI CHARACTERS
 
 साम पूर्वंप्रयोक्तव्यम् ॥८॥
 
-\[१९क\] मनसो[ऽभिप्रायं](# "Sic (neut. )") वाचः प्रीतिकर्म च ॥९॥
+\[१९क\] मनसोऽभिप्रायं[^211]") वाचः प्रीतिकर्म च ॥९॥
+
+[^211]: "Sic (neut.
 
 ज्ञातीनां ज्ञातयो व्यसने हृष्यन्ति ॥१०॥
 
-ज्ञातिं ज्ञातयः [प्रच्छन्नहृदयाः](# " W ०अयां । ") क्रूरा उपद्रवन्ति ॥११॥
+ज्ञातिं ज्ञातयः प्रच्छन्नहृदयाः[^212] क्रूरा उपद्रवन्ति ॥११॥
 
-[सर्वभयेषु](# "W स्स्।") ज्ञातिभयं घोरम्॥ १२ ॥
+[^212]: " W ०अयां । "
 
-गोषु पयः ब्राह्मणे [कोपश्च](# "W तपश् ।") ॥ १३ ॥
+सर्वभयेषु[^213] ज्ञातिभयं घोरम्॥ १२ ॥
 
-स्त्रीषु चापलं दूरत्वं ज्ञातिषुसौहृदं [पत्रजलबिन्दुवत्](# "W पद्मपत्र० ।") [](# "W पद्मपत्र0 ।") ॥१४॥
+[^213]: "W स्स्।"
 
-[हितं](# "M एकं") गुरुजनवाक्यं शास्त्रचोदितं च ये न शृण्वन्ति काल चोदिताः तस्मात् तान् सुपरिहृत्यान्यत्र वसेत् ॥ १५॥
+गोषु पयः ब्राह्मणे कोपश्च[^214] ॥ १३ ॥
+
+[^214]: "W तपश् ।"
+
+स्त्रीषु चापलं दूरत्वं ज्ञातिषुसौहृदं पत्रजलबिन्दुवत्[^215] [][^216] ॥१४॥
+
+[^215]: "W पद्मपत्र० ।"
+
+[^216]: "W पद्मपत्र0 ।"
+
+हितं[^217] गुरुजनवाक्यं शास्त्रचोदितं च ये न शृण्वन्ति काल चोदिताः तस्मात् तान् सुपरिहृत्यान्यत्र वसेत् ॥ १५॥
+
+[^217]: "M एकं"
 
 लोकविरुद्धं नाचरेत् ॥ १६॥
 
-[मन्त्र](# "W मन्त्रमवि० ।")\[१९ख\] विद्यागुह्यपदमेषु ग्रहान् वान्धवान् कुशलादन्यत्र न कार्यंव्यसनानि [च](# "Text corrupt in this Sûtra ?") ॥ १७ ॥
+मन्त्र[^218]\[१९ख\] विद्यागुह्यपदमेषु ग्रहान् वान्धवान् कुशलादन्यत्र न कार्यंव्यसनानि च[^219] ॥ १७ ॥
 
-दुर्जनं परिहृत्य वक्तव्यं विद्यायुक्तोऽपि [गृहाहिरिव](# "गृहानिर् ।") ॥१८॥
+[^218]: "W मन्त्रमवि० ।"
+
+[^219]: "Text corrupt in this Sûtra ?"
+
+दुर्जनं परिहृत्य वक्तव्यं विद्यायुक्तोऽपि गृहाहिरिव[^220] ॥१८॥
+
+[^220]: "गृहानिर् ।"
 
 शत्रुपक्षादागतं न विश्वसेत् ॥१६॥
 
-गुणतः [संगृह्णीयात्](# " W here inserts दोषो न निरूप्य संगृह्णीयात् ।") ॥ २० ॥
+गुणतः संगृह्णीयात्[^221] ॥ २० ॥
+
+[^221]: " W here inserts दोषो न निरूप्य संगृह्णीयात् ।"
 
 भावैः परीक्षयेत् ॥२१॥
 
-[वरिणसारैः](# "W वीरान्न । सारैस्सहसा मा Read वीरोऽसारैः सहसा न ? Form and औ(ओ) see introduction's end.") सह [साम](# "W वीरान्न । सारैस्सहसा मा Read वीरोऽसारैः सहसा न ? Form and औ(ओ) see introduction's end.") ज्ञायते बुद्धिमविज्ञाते सहसा परीक्ष \[२० क\] येत् ॥२२॥
+वरिणसारैः[^222] see introduction's end.") सह साम[^222] see introduction's end.") ज्ञायते बुद्धिमविज्ञाते सहसा परीक्ष \[२० क\] येत् ॥२२॥
 
-[इङ्गितैर्ज्ञातुं](# "०तै ।") शक्यते ॥२३॥
+[^222]: "W वीरान्न । सारैस्सहसा मा Read वीरोऽसारैः सहसा न ? Form and औ(ओ
+
+इङ्गितैर्ज्ञातुं[^224] शक्यते ॥२३॥
+
+[^224]: "०तै ।"
 
 प्रसन्नो न ॥२४॥
 
 अशङ्कितमति\[:\]स्वस्थः ॥२५॥
 
-अकोपनश्च बालादयोऽपि [विवृण्वन्ति](# "W विवृ०।") हि [तम्](# "M तत् ।") ॥२६॥
+अकोपनश्च बालादयोऽपि विवृण्वन्ति[^225] हि तम्[^226] ॥२६॥
 
-स्वकुलस्य [विनाशं](# "०लस्यापि न० । ") ज्ञात्वा बुद्धिमाँस्तत्र शत्रुपक्षमपि न [युक्तमाश्रयेत्](# "Read नययुक्तम् ? ") ॥२७॥
+[^225]: "W विवृ०।"
 
-हृदये यथावच्छुभाशुभं पूर्वं [उदेति](# "w उदयति ।") न दुष्टाचारः सर्वत्र कारयेत् ॥२८॥
+[^226]: "M तत् ।"
+
+स्वकुलस्य विनाशं[^227] ज्ञात्वा बुद्धिमाँस्तत्र शत्रुपक्षमपि न युक्तमाश्रयेत्[^228] ॥२७॥
+
+[^227]: "०लस्यापि न० । "
+
+[^228]: "Read नययुक्तम् ? "
+
+हृदये यथावच्छुभाशुभं पूर्वं उदेति[^229] न दुष्टाचारः सर्वत्र कारयेत् ॥२८॥
+
+[^229]: "w उदयति ।"
 
 चपला न बहुमान्याः ॥२६॥
 
@@ -1484,15 +1940,21 @@ DEVANAGARI CHARACTERS
 
 नमो मन्त्रिभिर्निरूप्य कार्यते ॥४॥
 
-बुद्धिजीवनैरमात्यैः सह [कार्यमकार्यं](# "W कार्यक्र० । ")च निरूपयेत् ॥५॥
+बुद्धिजीवनैरमात्यैः सह कार्यमकार्यं[^230]च निरूपयेत् ॥५॥
 
-अहितं[विकारं](# "Read अहितमपि कार्यम् ।") यस्य प्रतिभाति स मन्त्रयोग्यः ॥६॥
+[^230]: "W कार्यक्र० । "
+
+अहितंविकारं[^231] यस्य प्रतिभाति स मन्त्रयोग्यः ॥६॥
+
+[^231]: "Read अहितमपि कार्यम् ।"
 
 अर्थमार्जयेत् ॥७॥
 
 यस्यार्थराशिरस्ति तस्य मित्राणि धर्मश्च विद्या च गुणविक्रमॊच बुद्धिश्च ॥८॥
 
-अधनेना \[२१क\] र्थमार्जयितुं न शक्यते [गजोऽगजेनेव](# "M गजं ग०, W ब्जंग") ॥९॥
+अधनेना \[२१क\] र्थमार्जयितुं न शक्यते गजोऽगजेनेव[^232] ॥९॥
+
+[^232]: "M गजं ग०, W ब्जंग"
 
 धनमूलं जगत् ॥१०॥
 
@@ -2679,3 +3141,244 @@ So in the *Brihaspati Sûtra* the Sixth Chapter.
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^223]: "W वीरान्न । सारैस्सहसा मा Read वीरोऽसारैः सहसा न ? Form and औ(ओ
+
+
+[^203]: " Sic (neut.

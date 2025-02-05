@@ -66,19 +66,27 @@ INTRODUCTION.
 
 
 
- which is only applied to the author of the Shārīrakabhāshya who is believed to have been an incarnation of Shiva Himself. It is not stated, however, whether that colophon appears in the manuscript from which the Madras edition was prepared In the three manuscripts on which this edition is based there is no such colophon Whether, however, the work is rightly accredited is another question It is common knowledge that in the history of all religions, works are attributed to great names to gain for them an authority which their real author could not perhaps have achieved Doubtless some writings which pass under the great name of Shaṁkara are not really his I have pointed this out in connection with one of the hymns attributed to him and which I have [published](# "Hymns to the Goddess, page 95") in collaboration with my wife Ellen Avalon So again we find the Tārāpajjhatikā Stotra (which is given in the Tantrik compendium the Tārārahasyavrittikā above mentioned) attributed to Shamkarāchārya though the same hymn is elsewhere in another manuscript ascribed to the [Atharvaniyo Upanishad](# "The name of the Upanishad is given as it appears in the manuscript")In support of the accredited authorship I have been referred, in addition to the general style, and authoritative tone of the work, to the 59th verse of the 20th Patala where in enumerating the different Avatāras the name of Buddha is omitted Now Buddha has been recognised as one of the ten Avatāras from the days of the Purānas to those of Jayadeva It has, therefore, been suggested that only an author of the authority of Shamkarāchārya who in particular strongly combated the Buddhist doctrines would have presumed thus to run counter to such a recognised tradition On the other hand, in one of the smaller hymns attributed to Shaṁkarācharya Buddha is recognised as one of the Avatāras. Further in support of the accredited authorship we have the fact that both Rāghave Bhatta in his commentary on the Shāradātilaka and Kālīcharana in his Shatchakranirupana refer to the author of the Prapanchasāra as Shrīmadāchārya by which term the great Shamkara alone is In meant. I leave however others, who may think that the contents of the work itself notwithstanding its authoritative tone and general style tell against the tradition as to its authorship, the developement of their thesis.
+ which is only applied to the author of the Shārīrakabhāshya who is believed to have been an incarnation of Shiva Himself. It is not stated, however, whether that colophon appears in the manuscript from which the Madras edition was prepared In the three manuscripts on which this edition is based there is no such colophon Whether, however, the work is rightly accredited is another question It is common knowledge that in the history of all religions, works are attributed to great names to gain for them an authority which their real author could not perhaps have achieved Doubtless some writings which pass under the great name of Shaṁkara are not really his I have pointed this out in connection with one of the hymns attributed to him and which I have published[^1] in collaboration with my wife Ellen Avalon So again we find the Tārāpajjhatikā Stotra (which is given in the Tantrik compendium the Tārārahasyavrittikā above mentioned) attributed to Shamkarāchārya though the same hymn is elsewhere in another manuscript ascribed to the Atharvaniyo Upanishad[^2]In support of the accredited authorship I have been referred, in addition to the general style, and authoritative tone of the work, to the 59th verse of the 20th Patala where in enumerating the different Avatāras the name of Buddha is omitted Now Buddha has been recognised as one of the ten Avatāras from the days of the Purānas to those of Jayadeva It has, therefore, been suggested that only an author of the authority of Shamkarāchārya who in particular strongly combated the Buddhist doctrines would have presumed thus to run counter to such a recognised tradition On the other hand, in one of the smaller hymns attributed to Shaṁkarācharya Buddha is recognised as one of the Avatāras. Further in support of the accredited authorship we have the fact that both Rāghave Bhatta in his commentary on the Shāradātilaka and Kālīcharana in his Shatchakranirupana refer to the author of the Prapanchasāra as Shrīmadāchārya by which term the great Shamkara alone is In meant. I leave however others, who may think that the contents of the work itself notwithstanding its authoritative tone and general style tell against the tradition as to its authorship, the developement of their thesis.
+
+[^1]: "Hymns to the Goddess, page 95"
+
+[^2]: "The name of the Upanishad is given as it appears in the manuscript"
 
  Whoever the author may be the Tantrik character of the text admits of no doubt. It is constantly cited as an
 
 
 
-authority in other Tantrik works, notably by Rāghava Bhatta, one of the greatest of Tantrik commentators, the author of the Bhāshya on the celebrated Shāradātilaka of Lakshmanāchārya. It is also referred to by Kālīcharana in his notes on the Shatchakranirūpana and by Vishvanātha in the Shatchakravivriti and by many others. The work is not only frequently quoted, but it has been the subject of several commentaries, among others the Prapanchasārasambandhadīpikā, the Prapanchasāravivarana, and the Prapanchasārasārasaṁgraha; the last two dealing chiefly with ritual and Mantra. Further than this, the philosophical doctrine relating to soundcreation, the general terminology, Devatās of worship and the ritual character of its contents from the sixth chapter to the end of the work make any further elaboration of this point unnecessary which will be obvious to any one who is conversant with the Tantras and the present text. For others I need only for example draw particular attention to the reference to the Tantrik Bhūtashuddhi rite; the detailed account in the ninth chapter of the worship of Tripurāvidyā and to Japa, Bīja, Yantra, Mudrā and so forth which, as [H. H. Wilson](# " Essays II. 33.") long ago pointed out, are distinguishing marks of Tantrik ritual.
+authority in other Tantrik works, notably by Rāghava Bhatta, one of the greatest of Tantrik commentators, the author of the Bhāshya on the celebrated Shāradātilaka of Lakshmanāchārya. It is also referred to by Kālīcharana in his notes on the Shatchakranirūpana and by Vishvanātha in the Shatchakravivriti and by many others. The work is not only frequently quoted, but it has been the subject of several commentaries, among others the Prapanchasārasambandhadīpikā, the Prapanchasāravivarana, and the Prapanchasārasārasaṁgraha; the last two dealing chiefly with ritual and Mantra. Further than this, the philosophical doctrine relating to soundcreation, the general terminology, Devatās of worship and the ritual character of its contents from the sixth chapter to the end of the work make any further elaboration of this point unnecessary which will be obvious to any one who is conversant with the Tantras and the present text. For others I need only for example draw particular attention to the reference to the Tantrik Bhūtashuddhi rite; the detailed account in the ninth chapter of the worship of Tripurāvidyā and to Japa, Bīja, Yantra, Mudrā and so forth which, as H. H. Wilson[^3] long ago pointed out, are distinguishing marks of Tantrik ritual.
+
+[^3]: " Essays II. 33."
 
  Having, however, regard to the alleged authorship the question may be asked, whether the work should be described as a Tantra or Tantrik text, such as, for instance the Shāradātilaka, Shāktānandataraṁginī and like works. If it be not an original Tantra then the authoritative style and form of the work would render it more akin to the Shāradā than to the Shāktānandataraṁginī. Tantrasāra, and other similar works which do not profess to be anything but compendia. The Madras edition says—Bhagavat Shrī Shaṁkarāchāryavirachita; that is, "composed or compiled by Bhagavān Shaṁkarāchārya." If it be the fact that it is the original composition of Shaṁkarāchārya then unless we can regard the work as the teaching of Shiva in his Avatāra as the great philosopher it would not be a Tantra in the proper sense of the term. For such a view however there is the authority of the statement of the Prapanchasāravivarana to which I have referred. Still less would the text be such a Tantra if the author was some other Shaṁkara. On the other hand, the form in which the work appears is that of a discourse of the Mahāvishnu in answer to questionings by
 
 
 
-Brahmā. An old and learned Orissan Pandit to whom this question was referred stated to me his opinion to be that Shaṁkara was not the author of the work but its redactor or compiler, thus occupying the same position in regard to it as the Rishis did to the Vaidik Shruti The question has importance because, amongst other reasons, of the fact that the Mahāsiddhasāra Tantra includes a Tantra called the Prapanchasāra amongst the group of 64 assigned to the [Rathakrāntā](# "see Introduction to my edition of the first part of ") Whether the Tantra there referred to is the text before us I cannot say It may be another of the same name Thus we find in the group of Tantras mentioned by the Mahāsiddhasāra the Panchadashī All are aware that the Panchadashī is not a Tantra but a Vedāntik treatise It is possible, however, that a Tantra was also so-called just as there is one which is entitled Matsyasūkta. I have been informed, though I have not yet seen any such manuscript, that there was an ancient Tantra called Prapanchapanchaka, and it has been suggested that the text before us is a summary of that work The title is not inconsistent with such view For “sāra” may here refer either to the essence of the material world (prapancha) or to a summary of the Prapanchapanchaka though in that case the title would more properly be Prapanchapanchakasāra in the sense of the world “sāra" as used in the title of the well-known treatise of Krishnānanda, the Tantrasāra.
+Brahmā. An old and learned Orissan Pandit to whom this question was referred stated to me his opinion to be that Shaṁkara was not the author of the work but its redactor or compiler, thus occupying the same position in regard to it as the Rishis did to the Vaidik Shruti The question has importance because, amongst other reasons, of the fact that the Mahāsiddhasāra Tantra includes a Tantra called the Prapanchasāra amongst the group of 64 assigned to the Rathakrāntā[^4] Whether the Tantra there referred to is the text before us I cannot say It may be another of the same name Thus we find in the group of Tantras mentioned by the Mahāsiddhasāra the Panchadashī All are aware that the Panchadashī is not a Tantra but a Vedāntik treatise It is possible, however, that a Tantra was also so-called just as there is one which is entitled Matsyasūkta. I have been informed, though I have not yet seen any such manuscript, that there was an ancient Tantra called Prapanchapanchaka, and it has been suggested that the text before us is a summary of that work The title is not inconsistent with such view For “sāra” may here refer either to the essence of the material world (prapancha) or to a summary of the Prapanchapanchaka though in that case the title would more properly be Prapanchapanchakasāra in the sense of the world “sāra" as used in the title of the well-known treatise of Krishnānanda, the Tantrasāra.
+
+[^4]: "see Introduction to my edition of the first part of "
 
  Whatever be the authorship, the question last discussed seems to be concluded by the statement contained in the work itself. For at v. 62, Chapter 36, Mahāvishnu says, "Oh Lotus—born! in this Tantra (Tantre' smin) I have shown thee the Prapancha in its five-fold aspect"
 
@@ -107,8 +115,12 @@ CHAPTER I.
 
  Brahma then asked "What is the Eternal Imperishable; what is Its nature; whence has It come?"
 
- Nārāyana replies with a discourse on the creation of the world and teaches Brahmā, Vishnu, and Rudra the nature of [Purusha and Prakriti](# "See note at p. 29 post.") or [Pradhāna](# "See note at p. 29 post.") the two supreme Tattvas^(**4**). Of the twenty-five Tattvas, Purusha and Prakriti are stated by the Mahāvishnu to be eternal (Nitya) Prakriti extending over and enveloping the whole uni- verse "including Thee Oh Brahmā and Myself Nārāyana." Of Prakriti the latter says "She knows Herself. None know Her but I as Kāla only." "Kāla it is," He says, "who effects Vikriti or change in Prakriti with Her three gunas, Sattva, Rajas and Tamas^(**5**) which exist throughout the whole universe and permeate all the [Vikāras](# "Or effect or transformations of Prakriti.")". The Mahāvishnu continues His discourse of which the following is a summary.  
+ Nārāyana replies with a discourse on the creation of the world and teaches Brahmā, Vishnu, and Rudra the nature of Purusha and Prakriti[^5] or Pradhāna[^5] the two supreme Tattvas^(**4**). Of the twenty-five Tattvas, Purusha and Prakriti are stated by the Mahāvishnu to be eternal (Nitya) Prakriti extending over and enveloping the whole uni- verse "including Thee Oh Brahmā and Myself Nārāyana." Of Prakriti the latter says "She knows Herself. None know Her but I as Kāla only." "Kāla it is," He says, "who effects Vikriti or change in Prakriti with Her three gunas, Sattva, Rajas and Tamas^(**5**) which exist throughout the whole universe and permeate all the Vikāras[^7]". The Mahāvishnu continues His discourse of which the following is a summary.  
 ——————————————————————————————————————  
+
+[^5]: "See note at p. 29 post."
+
+[^7]: "Or effect or transformations of Prakriti."
 
 **1.** For they are the effect of the working of Prakriti and manifest Her gunas though in different proportions according to their specific activities.  
 **4.** Prakriti is the invisible ultimate source as noumenal matter of all manifestation through whose contact with Purusha the whole universe arises.  
@@ -118,7 +130,9 @@ CHAPTER I.
 
 
 
- Prakriti by contact with the light [(Jyotih)](# "Purusha.") is Chinmātrā^(**1**). In the desire to create She "solidifies" or "thickens" (Vichikīrshur ghanībhūtā) and appears as Bindu^(**2**). Through the instrumentality of Kāla the Bindu divides itself into three, viz, Sthūla (gross) Sūkshma (subtle) and Para (supreme) These are Bīja, Nāda^(**3**) and Bindu^(**4**) respectively On this self-division of the supreme Bindu there arises an inarticulate sound (Avyaktarava)^(**5**) which is the Shabda-Brahman or Sound Brahman^(**6**) The latter is beyond speech (Avāchya) and is understandable to Itself alone (Svasaṁvedyasvarūpa)^(**7**) The wise know "sound" to be the Shabda-Brahman. It permeates all substance and in the animal body exists as the five "elements" (Panchabhūtātmakadeha).
+ Prakriti by contact with the light (Jyotih)[^8] is Chinmātrā^(**1**). In the desire to create She "solidifies" or "thickens" (Vichikīrshur ghanībhūtā) and appears as Bindu^(**2**). Through the instrumentality of Kāla the Bindu divides itself into three, viz, Sthūla (gross) Sūkshma (subtle) and Para (supreme) These are Bīja, Nāda^(**3**) and Bindu^(**4**) respectively On this self-division of the supreme Bindu there arises an inarticulate sound (Avyaktarava)^(**5**) which is the Shabda-Brahman or Sound Brahman^(**6**) The latter is beyond speech (Avāchya) and is understandable to Itself alone (Svasaṁvedyasvarūpa)^(**7**) The wise know "sound" to be the Shabda-Brahman. It permeates all substance and in the animal body exists as the five "elements" (Panchabhūtātmakadeha).
+
+[^8]: "Purusha."
 
  From this sound originates Mahat^(**8**) or Buddhi and from the latter Ahaṁkāra which is threefold Vaikārika,
 
@@ -157,7 +171,11 @@ Ch 1 II, 12
 
 
 
-Taijasika, and Bhautika^(**1**). From Ahaṁkāra issue five Tanmātras^(**2**); from which were developed the five gross elements [(Mahābhūtas)](# "Perceivable by the senses in those products which are made up of them.") viz., "ether," "air," "fire," "water," "earth”^(**3**). From Ahaṁkāra through Shakti with [Guna and Dosha](# "See post, p. 11 et seq.") urged by Kāla, sound is produced and from sound, ether (Ākāsha) ; from ether, air (Vāyu); from air, fire (Agni); from fire, water (Jala); and from water, earth (Prithivī). The Mandala of ether is circular and of air hexagonal^(**4**); of fire triangular; that of water resembles a crescent moon and that of earth is square. Ether contains air, and air, fire; fire contains water, and water, earth; and in earth is all that is moving and motionless in the universe^(**5**). From Ahaṁkāra also issue the five organs of action (Karmendriya), namely the anus, feet, genitals, mouth and hands the functions of which are excretion, walking, procreation, speech and the power to hold; the five organs of knowledge (Jnānendriya), viz., eye, ear, nose, tongue and skin; and the internal sense (Manas).
+Taijasika, and Bhautika^(**1**). From Ahaṁkāra issue five Tanmātras^(**2**); from which were developed the five gross elements (Mahābhūtas)[^9] viz., "ether," "air," "fire," "water," "earth”^(**3**). From Ahaṁkāra through Shakti with Guna and Dosha[^10] urged by Kāla, sound is produced and from sound, ether (Ākāsha) ; from ether, air (Vāyu); from air, fire (Agni); from fire, water (Jala); and from water, earth (Prithivī). The Mandala of ether is circular and of air hexagonal^(**4**); of fire triangular; that of water resembles a crescent moon and that of earth is square. Ether contains air, and air, fire; fire contains water, and water, earth; and in earth is all that is moving and motionless in the universe^(**5**). From Ahaṁkāra also issue the five organs of action (Karmendriya), namely the anus, feet, genitals, mouth and hands the functions of which are excretion, walking, procreation, speech and the power to hold; the five organs of knowledge (Jnānendriya), viz., eye, ear, nose, tongue and skin; and the internal sense (Manas).
+
+[^9]: "Perceivable by the senses in those products which are made up of them."
+
+[^10]: "See post, p. 11 et seq."
 
  (From the combination of these elements the whole material world or Prapancha is produced)^(**6**). Mūlaprakriti is Prakriti only; but Mahat, Ahaṁkāra and the five Tanmātras, these seven are both Prakriti and Vikriti^(**7**). The remaining sixteen Tattvas, viz., the ten Indriyas, Manas, and
 
@@ -208,7 +226,11 @@ uterus. Motionless things (such as trees, etc.), are called Audbhidas as they pi
 
 
 
- Besides the central Nādī Sushumnā there are various other Nādīs with branches and sub-branches and altogether they are 350,000 in number. Vāyu (v. post p II) passes through the body by means of these Shirās (Nādīs). Vāyu is spread all over the body from the Mūlādhāra upwards proceeding along Idā and Pimgalā towards the nostrils and thereafter stops at a distance of twelve fingers breadth therefrom. There is a constant upward and downward movement of Vāyu along the paths of [the sun and the moon](# "That is, Ida and Pimgalā."). Vāyu goes to the north by the left, to the south by the right. Different views are held about this consciousness (Chetanā) Some speak of it as the effect of Shukra and Shonita; others as produced by the food taken by the mother. Others again say that it is the product of the Rasa (essence, juice) of the food or lymph chyle Some speak of it as the effect of Karma; others as a manifestation (Vyāptı) of the Param Dhāma (Supreme Light). Some again say that the body and the Ātmā of the father repeatedly act and re-act the one upon the other with the result that the lustrous Supreme Light is communicated by Māruta (Vāyu) to the Shukra as it were the light from one lamp to another. Others say that when the material body of elements (Bhautika) is born the [Jīvātmā comes from somewhere and enters it](# "These views are rejected by Nārāyana.").
+ Besides the central Nādī Sushumnā there are various other Nādīs with branches and sub-branches and altogether they are 350,000 in number. Vāyu (v. post p II) passes through the body by means of these Shirās (Nādīs). Vāyu is spread all over the body from the Mūlādhāra upwards proceeding along Idā and Pimgalā towards the nostrils and thereafter stops at a distance of twelve fingers breadth therefrom. There is a constant upward and downward movement of Vāyu along the paths of the sun and the moon[^11]. Vāyu goes to the north by the left, to the south by the right. Different views are held about this consciousness (Chetanā) Some speak of it as the effect of Shukra and Shonita; others as produced by the food taken by the mother. Others again say that it is the product of the Rasa (essence, juice) of the food or lymph chyle Some speak of it as the effect of Karma; others as a manifestation (Vyāptı) of the Param Dhāma (Supreme Light). Some again say that the body and the Ātmā of the father repeatedly act and re-act the one upon the other with the result that the lustrous Supreme Light is communicated by Māruta (Vāyu) to the Shukra as it were the light from one lamp to another. Others say that when the material body of elements (Bhautika) is born the Jīvātmā comes from somewhere and enters it[^12].
+
+[^11]: "That is, Ida and Pimgalā."
+
+[^12]: "These views are rejected by Nārāyana."
 
  Nārāyana then says that the great (Mahīyasī) Prakriti is distinguished by the Gunas (Gunabhinnā) and is Tridoshā (v. post). She pervades and possesses the qualities (Guna) of the five elements. The seven substances or fundamental principles (v. post) are Her characteristics She is Saptadhātubhinnā. She is in the Indriyas: both in the five Karmendriyas, and in the five Jnānendriyas. She is Panchabuddhiprabhāvinī. She issues from the unmanifested state when quickened by Her proximity to the Supreme Light When She is well awakened by the Supreme Light then She is Manas and of great power and is in the state of certainty-uncertainty (Samkalpavıkalpakrityā). When in the act of determining with certainty (nishchinute) then She is called Buddhi or determination When She knows Herself as the knower She is Ahaṁkriti (Ahamkāra) When She withdraws into Herself (abhilīyate) She is Herself alone. When She the Great One moves to manifest Herself in Her different ways then the sound which issues upon the bursting of the Bindu becomes clearly perceptible.
 
@@ -282,7 +304,9 @@ principles which sustain the organism are transformed into the dynamics of disea
 
 
 
-Dosha is that which affects and the Doshas are Vāta, Pitta and Kapha^(**1**). The universal spirit (Vishvātmā) is Samavāyī^(**2**). Action shows whether it affects or is affected. Hunger and thirst, grief and ignorance, decay and death are known as the six Ūrmis and exist in Prāna, Buddhi, and as characteristics of the body (Dehadharma). From semen originate marrow (Majjā), bone (Asthi) and nerve (Snāyu); from female ovum come skin (Tvak), flesh (Māṁsa) and blood (Shonita). [These are the six](# "External.") Koshas of the body. In the Dhātus Rasa and so forth is matured (Pāka). With maturity Ojas is produced which is the eighth product (Dashā). \[ It is said in Part I of the Bhāvaprakāsha that "health and strength reside latent in the Ojak Dhātu as butter (Ghritam) lies latent in milk." What is, is not certain. According to some it is albumen or glycogen. But the medical Editor of the Sushruta already cited says (Vol I., p. LIII) that the term has been used to denote that vital principle in the organism which is essential to the maintenance of a healthy combustion in its tissues and to the due performance of their normal functions and activities, no matter whether that principle is patent in the form of protoplasm, protoplasmic albumen, glycogen, or mucosin in accordance with the difference of their functions, geneses, and conditions of protoplasmic metabolism\]. This Ojas according to the text seeks to attach consciousness (Kshetrajnatā) to itself as oil seeks union with the lamp or the firmament the splendour of the thunderbolt. When fire is covered by a pot which has holes in it, the lustre of its flame issues through these apertures and illumines the surrounding space. In the same way the lustrous consciousness (Kshetrajnatā) although covered by the body gathers knowledge through the different senses. Ether is in the ears, air in the skin, fire in the eye, water in the tongue and earth in the nostrils. This is how knowledge is acquired.
+Dosha is that which affects and the Doshas are Vāta, Pitta and Kapha^(**1**). The universal spirit (Vishvātmā) is Samavāyī^(**2**). Action shows whether it affects or is affected. Hunger and thirst, grief and ignorance, decay and death are known as the six Ūrmis and exist in Prāna, Buddhi, and as characteristics of the body (Dehadharma). From semen originate marrow (Majjā), bone (Asthi) and nerve (Snāyu); from female ovum come skin (Tvak), flesh (Māṁsa) and blood (Shonita). These are the six[^13] Koshas of the body. In the Dhātus Rasa and so forth is matured (Pāka). With maturity Ojas is produced which is the eighth product (Dashā). \[ It is said in Part I of the Bhāvaprakāsha that "health and strength reside latent in the Ojak Dhātu as butter (Ghritam) lies latent in milk." What is, is not certain. According to some it is albumen or glycogen. But the medical Editor of the Sushruta already cited says (Vol I., p. LIII) that the term has been used to denote that vital principle in the organism which is essential to the maintenance of a healthy combustion in its tissues and to the due performance of their normal functions and activities, no matter whether that principle is patent in the form of protoplasm, protoplasmic albumen, glycogen, or mucosin in accordance with the difference of their functions, geneses, and conditions of protoplasmic metabolism\]. This Ojas according to the text seeks to attach consciousness (Kshetrajnatā) to itself as oil seeks union with the lamp or the firmament the splendour of the thunderbolt. When fire is covered by a pot which has holes in it, the lustre of its flame issues through these apertures and illumines the surrounding space. In the same way the lustrous consciousness (Kshetrajnatā) although covered by the body gathers knowledge through the different senses. Ether is in the ears, air in the skin, fire in the eye, water in the tongue and earth in the nostrils. This is how knowledge is acquired.
+
+[^13]: "External."
 
  When Pitta moved by Vā
 
@@ -322,11 +346,21 @@ ritti) of men are various and wonderful". It is then born and shakes with fear. 
 
 
 
-Parā^(**1**). In its next state it is Pashyantī^(**2**). When it reaches the heart (Hridaya) and is united with Mā or Buddhi it is called Madhyamā^(**3**). Then in the mouth and with the desire for utterence it is known as Vaikharī^(**4**) or uttered speech. From this last arises by the action of air (Pavana). [all the letters](# "Which exist in a latent or unexpressed state in the Sushumna.").
+Parā^(**1**). In its next state it is Pashyantī^(**2**). When it reaches the heart (Hridaya) and is united with Mā or Buddhi it is called Madhyamā^(**3**). Then in the mouth and with the desire for utterence it is known as Vaikharī^(**4**) or uttered speech. From this last arises by the action of air (Pavana). all the letters[^14].
 
- The letters are not clearly manifested because the necessary apertures have not appeared such as the throat and the like. Until these come into existence and become the seats of pronunciation the letters remain in their place of origin (Varnavyaktisthānasaṁstha). When the embryo reaches the stage (Bhāva) in which the thought arises, "I am knower" or "It is I who know (Jnātā'smi)" it acquires Buddhi, Ahaṁkāra and Manas Consciousness thus increases by degrees and causes the child to become attached to its mother, father and kinsmen. Drinking abundantly of the mother's milk it cries out when it desires to suck the breasts again. The sight of father, brother and uncles makes the child happy. Through this arising attachment to the world (Saṁsāra) the child forgets its actions in previous births, the agony endured in the mother's womb, and the pain caused on its delivery therefrom. When troubled it calls to its mother in half-formed words. These words are indistinct like the confused [murmur of Kundalinī](# "Known as Pinda or She in whom all energies (Shakti) are stored (Pindita).") in the [Mūlādhāra](# "The basic plexus. See ib. and Author's ").
+[^14]: "Which exist in a latent or unexpressed state in the Sushumna."
 
- The aspects of Kundalinī are various. She, in Her threefold aspect, is the imperceptible omnipresent Shakti who is Kāma (**ई**), Agni (**र**), Nāda (**ह**). She is [Tāra](# "Another name for ") (8). Some call Her Shakti, others the [Paramātmā](# "For the two are the same.").
+ The letters are not clearly manifested because the necessary apertures have not appeared such as the throat and the like. Until these come into existence and become the seats of pronunciation the letters remain in their place of origin (Varnavyaktisthānasaṁstha). When the embryo reaches the stage (Bhāva) in which the thought arises, "I am knower" or "It is I who know (Jnātā'smi)" it acquires Buddhi, Ahaṁkāra and Manas Consciousness thus increases by degrees and causes the child to become attached to its mother, father and kinsmen. Drinking abundantly of the mother's milk it cries out when it desires to suck the breasts again. The sight of father, brother and uncles makes the child happy. Through this arising attachment to the world (Saṁsāra) the child forgets its actions in previous births, the agony endured in the mother's womb, and the pain caused on its delivery therefrom. When troubled it calls to its mother in half-formed words. These words are indistinct like the confused murmur of Kundalinī[^15] are stored (Pindita).") in the Mūlādhāra[^16].
+
+[^15]: "Known as Pinda or She in whom all energies (Shakti
+
+[^16]: "The basic plexus. See ib. and Author's "
+
+ The aspects of Kundalinī are various. She, in Her threefold aspect, is the imperceptible omnipresent Shakti who is Kāma (**ई**), Agni (**र**), Nāda (**ह**). She is Tāra[^17] (8). Some call Her Shakti, others the Paramātmā[^18].
+
+[^17]: "Another name for "
+
+[^18]: "For the two are the same."
 
 ———————————————————————————————————————  
 
@@ -344,15 +378,49 @@ Parā^(**1**). In its next state it is Pashyantī^(**2**). When it reaches the h
 
 
 
- Her threefold aspect is that of the three Gunas, the three [Doshas](# "V ante, p II"), three [colours](# "That is three colours of the three Gunas—white, red, black"); [Trayī](# "The three Vedas—Rik, Yajus and Saman"), the three [Lokas](# "Bhuh, Bhuvah, Svah, or the terrestial, upper and celestial worlds"), the three lines ([Trirekhā](# "The three lines of the Akatbādi triangle, viz Vahnı, Indu and Arka Sec Arthur Avalon's ")) She is Tāra because She saves (Tārana), and Shaktı because She is the support (Dhriti) of all
+ Her threefold aspect is that of the three Gunas, the three Doshas[^19], three colours[^20]; Trayī[^21], the three Lokas[^22], the three lines (Trirekhā[^23]) She is Tāra because She saves (Tārana), and Shaktı because She is the support (Dhriti) of all
 
- In Her fourfold aspect She manifests as the [Sūkshma Karanas](# "Buddhi, Ahamkära, Manas and Chitta."); [Jāgrat etc](# "Jägrat Svapna, Sushupti and Turiya").
+[^19]: "V ante, p II"
 
- In Her fivefold aspect She is represented by all things which are classified by five; such as the five groups (Vargas) of letters; the [five colours](# "The five elements are coloured, transparency (ether), black (air), red (fire), white (water), yellow (earth)") and the [five Vāyus](# "Prāna, Apāna, Samāna, Udāna, Vyāna.").
+[^20]: "That is three colours of the three Gunas—white, red, black"
 
- In Her sixfold aspect She is the [six Koshas](# "V ante, p II"), [six Urmis](# "V. ante, p 15"), and [six Rasas](# "Or tastes, V ante, p. 16.") She it is who forms the divisions of the six-chambered Yantra (Shadgunita Yantra).
+[^21]: "The three Vedas—Rik, Yajus and Saman"
 
- In Her sevenfold aspect She is the component parts of [Tāra](# "The Mantra Ong "), namely, A, U, M, Bindu, Nāda, Shakti and Shānta, and the component parts of [Hellekhā](# "A name for the Bīja ") or H, R, I, Bindu, Nāda, Shakti and Shanta In Her sevenfold aspect— She is the regions (Lokas), Mountains (Adris), Islands (Dvīpas), Pātālas (Nether Regions), Oceans ([Sindhus](# "V. post, notes to p 36")), Planets (Grahas)^(**1**), the Sages ([Munis](# "See post, p 36.")), the Tones (Svaras) and Substances ([Dhātus](# "Ib.")), and all things which have a sevenfold existence
+[^22]: "Bhuh, Bhuvah, Svah, or the terrestial, upper and celestial worlds"
+
+[^23]: "The three lines of the Akatbādi triangle, viz Vahnı, Indu and Arka Sec Arthur Avalon's "
+
+ In Her fourfold aspect She manifests as the Sūkshma Karanas[^24]; Jāgrat etc[^25].
+
+[^24]: "Buddhi, Ahamkära, Manas and Chitta."
+
+[^25]: "Jägrat Svapna, Sushupti and Turiya"
+
+ In Her fivefold aspect She is represented by all things which are classified by five; such as the five groups (Vargas) of letters; the five colours[^26], black (air), red (fire), white (water), yellow (earth)") and the five Vāyus[^27].
+
+[^26]: "The five elements are coloured, transparency (ether
+
+[^27]: "Prāna, Apāna, Samāna, Udāna, Vyāna."
+
+ In Her sixfold aspect She is the six Koshas[^19], six Urmis[^29], and six Rasas[^30] She it is who forms the divisions of the six-chambered Yantra (Shadgunita Yantra).
+
+[^19]: "V ante, p II"
+
+[^29]: "V. ante, p 15"
+
+[^30]: "Or tastes, V ante, p. 16."
+
+ In Her sevenfold aspect She is the component parts of Tāra[^31], namely, A, U, M, Bindu, Nāda, Shakti and Shānta, and the component parts of Hellekhā[^32] or H, R, I, Bindu, Nāda, Shakti and Shanta In Her sevenfold aspect— She is the regions (Lokas), Mountains (Adris), Islands (Dvīpas), Pātālas (Nether Regions), Oceans (Sindhus[^33]), Planets (Grahas)^(**1**), the Sages (Munis[^34]), the Tones (Svaras) and Substances (Dhātus[^35]), and all things which have a sevenfold existence
+
+[^31]: "The Mantra Ong "
+
+[^32]: "A name for the Bīja "
+
+[^33]: "V. post, notes to p 36"
+
+[^34]: "See post, p 36."
+
+[^35]: "Ib."
 
 ———————————————————————————————————————  
 
@@ -362,7 +430,17 @@ Parā^(**1**). In its next state it is Pashyantī^(**2**). When it reaches the h
 
 
 
- In Her eightfold aspect She is the [eight Prakritis](# "See ante, p. 8."), the [eight Vasus](# "Āditya, Marut, Ashvin, Indra, Ushas, Rudra, Vāyu and Kuvera."), the eight points of [the compass](# "N-S. E. & W., N-E. (Ishāna), N-W. (Vayu), S-W. (Nairrata), S-E. (Agni),") and the eight Mothers ([Ashtamātarah](# "See post, p. 35 ni and p. 27.")). The text then continues with the ten-fold aspect as manifested in the [ten directions](# "See note (3) adding above and below.") and so forth; the twelve-fold aspect as in the signs of Zodiac and the great twelve syllabled Mantra. Finally Shakti manifests in the fifty-fold form as the fifty letters of the Sanskrit alphabet.
+ In Her eightfold aspect She is the eight Prakritis[^36], the eight Vasus[^37], the eight points of the compass[^38], N-W. (Vayu), S-W. (Nairrata), S-E. (Agni),") and the eight Mothers (Ashtamātarah[^39]). The text then continues with the ten-fold aspect as manifested in the ten directions[^40] adding above and below.") and so forth; the twelve-fold aspect as in the signs of Zodiac and the great twelve syllabled Mantra. Finally Shakti manifests in the fifty-fold form as the fifty letters of the Sanskrit alphabet.
+
+[^36]: "See ante, p. 8."
+
+[^37]: "Āditya, Marut, Ashvin, Indra, Ushas, Rudra, Vāyu and Kuvera."
+
+[^38]: "N-S. E. & W., N-E. (Ishāna
+
+[^39]: "See post, p. 35 ni and p. 27."
+
+[^40]: "See note (3
 
 ————
 
@@ -382,11 +460,17 @@ Parā^(**1**). In its next state it is Pashyantī^(**2**). When it reaches the h
 
 
 
-These four exist in two states according as they are in the right or left nostril When Prāna is in the right nostril there is what is called Dakshināyana and outgoing breath, and when in the left nostril Uttarāyana and ingoing breath [The five short vowels manifest](# "In other words Prūna is in the south (right) with the utterance of the five short vowels") when Prāna is in the right, and the five long vowels when it is in the left nostril^(**1**) Bindu and Visarga whose manifestations are dealt with later are the Sun and Moon respectively.
+These four exist in two states according as they are in the right or left nostril When Prāna is in the right nostril there is what is called Dakshināyana and outgoing breath, and when in the left nostril Uttarāyana and ingoing breath The five short vowels manifest[^41] with the utterance of the five short vowels") when Prāna is in the right, and the five long vowels when it is in the left nostril^(**1**) Bindu and Visarga whose manifestations are dealt with later are the Sun and Moon respectively.
 
- The Sparsha Varnas the last letter of which vzz, Ma (H) is the Sun and the Ātmā^(**2**), are divided into five groups (Varga) of five letters each [The twenty-four letters](# "That is the Sparsha Varnas other than Ma ") are the twenty-four Tattvas The whole twenty-five letters are therefore both solar as governed by Ma the sun and elemental (Pānchabhautika)
+[^41]: "In other words Prūna is in the south (right
 
- The Vyāpakas are divided into [two groups of five letters each](# "That is Ya (य) Ra (र) La (ल) Va (व) and Sha (श), and Sha (ष) Sa (स) Ha (ह) Lla (ल) Ksha (क्ष)"), and are Fiery (Āgneya) and Pānchabhautika. They are so called because in union with the vowels (Svara) they emanate from "moon" (Shashī), "sun" (Ina) and "fire" (Agni).
+ The Sparsha Varnas the last letter of which vzz, Ma (H) is the Sun and the Ātmā^(**2**), are divided into five groups (Varga) of five letters each The twenty-four letters[^42] are the twenty-four Tattvas The whole twenty-five letters are therefore both solar as governed by Ma the sun and elemental (Pānchabhautika)
+
+[^42]: "That is the Sparsha Varnas other than Ma "
+
+ The Vyāpakas are divided into two groups of five letters each[^43] Ra (र) La (ल) Va (व) and Sha (श), and Sha (ष) Sa (स) Ha (ह) Lla (ल) Ksha (क्ष)"), and are Fiery (Āgneya) and Pānchabhautika. They are so called because in union with the vowels (Svara) they emanate from "moon" (Shashī), "sun" (Ina) and "fire" (Agni).
+
+[^43]: "That is Ya (य
 
  From the letters of the alphabet there arise thirty-eight Kalās^(**3**), Sixteen lunar (Saumya) Kalās come from the vowels; twelve solar (Saura) Kalās come from the twenty- four conjoined Sparshas; and ten fiery (Vahnija) Kalās from the Vyāpakas. From these Kalās the Sādhaka attains his
 
@@ -418,7 +502,9 @@ m sthitā hrasvā idāyām samgatāḥ pare Ib, Chapter 2.
 
 
 
-desired aim. From the letters of the Tāra^(**1**) originate the all pervading fifty Kalās which can be divided according to the five elements (Bhūtas). From these^(**2**) originate the Shaktis and Mātris^(**3**) and Mūrtis of Vishnu and Rudra respectively; as also the herbs and vegetable substances ([Oshadhi](# "V. post.")).
+desired aim. From the letters of the Tāra^(**1**) originate the all pervading fifty Kalās which can be divided according to the five elements (Bhūtas). From these^(**2**) originate the Shaktis and Mātris^(**3**) and Mūrtis of Vishnu and Rudra respectively; as also the herbs and vegetable substances (Oshadhi[^44]).
+
+[^44]: "V. post."
 
  The lunar Kalās arising from the vowels and which grant the fulfilment of desires (Kāmadāyinī) are Amritā, Mānadā, Pushā, Tushti, Pushti, Rati, Dhrzti, Shashinī, Chandrikā, Kānti, Jyotsnā, Shrī, Prīti, Aṁgadā, Pūrnā, Pūrnāmritā.
 
@@ -455,7 +541,9 @@ desired aim. From the letters of the Tāra^(**1**) originate the all pervading f
 
 5o in all.
 
- The text then proceeds to deal with the Vishna-mūrtis and Shaktis which have Vaishnava names and the Rudramūrtis and Mātris with Shaiva names The Vaishnava forms (Mūrtis) of the [Vyanjana Varnas](# "That is the letters other than the vowels the consonants both Sparsha and Vyāpaka") are thirty five in number, viz, Chakrī, Gadī, Shārmgī, Khadgī, Shamkhī, Halī, Mushalī, Shūlī, Pāshī, Amkushī, Mukunda, Nandaja, Nandī, Nara, Narakajit, Hari, Krishna, Satya, Sātvata, Shauri, Shūra, Janārdana, Bhūdhara, Vishvamūrti, Vaikuntha, Purushottama, Balī, Balānuja, Bāla, Vrishaghna, Vrisha, Hamsa, Varāha, Vimala and Nrisimha.
+ The text then proceeds to deal with the Vishna-mūrtis and Shaktis which have Vaishnava names and the Rudramūrtis and Mātris with Shaiva names The Vaishnava forms (Mūrtis) of the Vyanjana Varnas[^45] are thirty five in number, viz, Chakrī, Gadī, Shārmgī, Khadgī, Shamkhī, Halī, Mushalī, Shūlī, Pāshī, Amkushī, Mukunda, Nandaja, Nandī, Nara, Narakajit, Hari, Krishna, Satya, Sātvata, Shauri, Shūra, Janārdana, Bhūdhara, Vishvamūrti, Vaikuntha, Purushottama, Balī, Balānuja, Bāla, Vrishaghna, Vrisha, Hamsa, Varāha, Vimala and Nrisimha.
+
+[^45]: "That is the letters other than the vowels the consonants both Sparsha and Vyāpaka"
 
  The Vaishnava Shaktıs (2) of the consonants are Jayā, Durgā, Prabhā, Satyā, Chandā, Vānī, Vilāsınī, Virajā, Vijayā, Vishvā, Vinadā, Sūtadā, Smrti, Riddhi, Samriddhi. Shuddhi, Bhukti, Mukti, Mati, Kshamā, Ramā, Umā, Kledinī, Klinnā, Vasudā, Vasudhā, Parā, Parāparāyanā, Sūkshmā, Sandhyā, Prajnā, Prabhā, Nishā, Amogha and Vidyutā
 
@@ -535,7 +623,15 @@ The Rudra-mātris of the consonants are Mahākālī, Sarasvatī
 
  Hakāra Bīja is Prānātmaka because it con notes the Paramātmā in conjunction with Māyā which is implied by the word Prāna^(**1**)
 
- From Hakāra originate the vowels A (**अ**) toŪ (**ऊ**) and the [six Ūrmis](# "Hunger, thirst, sorrow, ignorance (moha) decay and death"). The Mahāvishnu adds "From Hakāra have you (that is, Brahmā, Hari or Vishnu, Īshvara or Shiva) originated and it exists in all animate beings enveloping and permeating the Brahmānda (universe) with all that is moving and motionless therein" From Repha or Rakāra (**र**) originate the letters Ri (**ऋ**), Rrī (**ऋ**), Lri (**लृ**), Llrī (**लृ**) and the [four Gunas](# "Touch (sparsha), Form or Sight (rūpa), Taste (rasa) and Smell (gandha)") From Īkāra (**ई**) come the remaining six vowels including Bindu and Visarga and its Gunas are the four [Karanas](# "Manas, Buddhi, Ahamkara and Chitta"), [Saṁghāta](# "This is according to the Dipika—Deha or body") and Chetanā^(**2**)
+ From Hakāra originate the vowels A (**अ**) toŪ (**ऊ**) and the six Ūrmis[^46] decay and death"). The Mahāvishnu adds "From Hakāra have you (that is, Brahmā, Hari or Vishnu, Īshvara or Shiva) originated and it exists in all animate beings enveloping and permeating the Brahmānda (universe) with all that is moving and motionless therein" From Repha or Rakāra (**र**) originate the letters Ri (**ऋ**), Rrī (**ऋ**), Lri (**लृ**), Llrī (**लृ**) and the four Gunas[^47], Form or Sight (rūpa), Taste (rasa) and Smell (gandha)") From Īkāra (**ई**) come the remaining six vowels including Bindu and Visarga and its Gunas are the four Karanas[^48], Saṁghāta[^49] and Chetanā^(**2**)
+
+[^46]: "Hunger, thirst, sorrow, ignorance (moha
+
+[^47]: "Touch (sparsha
+
+[^48]: "Manas, Buddhi, Ahamkara and Chitta"
+
+[^49]: "This is according to the Dipika—Deha or body"
 
  From the vowels the consonants from Ka to Ksha (**क** — **क्ष**)originated
 
@@ -581,9 +677,17 @@ rgalayantra Chapter in the Dakshinamūrtı Samhitā
 
 
 
-Creatrix of the world (Jagatprasavakāriṇī). She is Gāyatrī since it is She who saves (Trānana) the singer (Gāyaka). As the embodiment of the [seven groups of letters](# "The vowels and the vargas commencing with Ka-varga, v. post,"), She is the seven planets. The Sun is the Lord of the vowels and Mamgala, Shukra, Budha, Vrihaspati, [Shani](# "That is, Mars, Venus, Mercury, Jupiter, Saturn,") and the Moon are the Lords of the Ka-varga (**क**), Cha-varga (**च**), Ta-varga (**ट**), Ta-varga (**त**) Pa-varga (**प**) and Ya-varga (**य**), respectively.
+Creatrix of the world (Jagatprasavakāriṇī). She is Gāyatrī since it is She who saves (Trānana) the singer (Gāyaka). As the embodiment of the seven groups of letters[^50], She is the seven planets. The Sun is the Lord of the vowels and Mamgala, Shukra, Budha, Vrihaspati, Shani[^51] and the Moon are the Lords of the Ka-varga (**क**), Cha-varga (**च**), Ta-varga (**ट**), Ta-varga (**त**) Pa-varga (**प**) and Ya-varga (**य**), respectively.
 
- As all the other letters originate from the vowels so the six planets (Grahas) originate from the Sun (Savitri). As the six Vargas disappear in the vowels so the [six components of Hrīm](# "That is, Ha, Ra, Mäyä (I), Näda, Bindu and Shakti.") and the six chambered Yantra disappear in Bhu- vaneshvarī. She is the eternal, all-pervading Shakti who shines by [Her own effulgence in the Sun](# "The Dipika says that here Her identity with Bharga is pointed out.").
+[^50]: "The vowels and the vargas commencing with Ka-varga, v. post,"
+
+[^51]: "That is, Mars, Venus, Mercury, Jupiter, Saturn,"
+
+ As all the other letters originate from the vowels so the six planets (Grahas) originate from the Sun (Savitri). As the six Vargas disappear in the vowels so the six components of Hrīm[^52], Näda, Bindu and Shakti.") and the six chambered Yantra disappear in Bhu- vaneshvarī. She is the eternal, all-pervading Shakti who shines by Her own effulgence in the Sun[^53].
+
+[^52]: "That is, Ha, Ra, Mäyä (I
+
+[^53]: "The Dipika says that here Her identity with Bharga is pointed out."
 
  From Her have originated the signs of the Zodiac. The Mahāvishnu then proceeds to show how from the different letters the different signs of the Zodiac have originated. In the same way He deals with the 27 Nakshatras^(**1**) or Lunar Zodiac, Ashvinī and others.
 
@@ -603,21 +707,33 @@ Creatrix of the world (Jagatprasavakāriṇī). She is Gāyatrī since it is She
 
 
 
- Then follows detailed rules regarding the selection of proper time and place for initiation, worship of the [Vāstu Purusha](# "The Genius of the ground where the Diksha takes place"), sacrifice (Bali), offerings and so forth. The conclusion is that Guru, Devatā and Mantra should be realised as being one and the same (Aikyam).
+ Then follows detailed rules regarding the selection of proper time and place for initiation, worship of the Vāstu Purusha[^54], sacrifice (Bali), offerings and so forth. The conclusion is that Guru, Devatā and Mantra should be realised as being one and the same (Aikyam).
+
+[^54]: "The Genius of the ground where the Diksha takes place"
 
 ————  
 
 **CHAPTER VII.**
 
- This portion of the work deals with rules relating to the Sādhanā of the Devi of Speech and the [Japa of Her Mantra](# "See Introduction to my book "). Japa is preceded by [Mātrikānyāsa](# "See Introduction to my book ") The Rishi of this [Mātrikāmantra](# "That is, the letters A to Ksha with the Bindu superimposed.") is Brahmā The metre (Chhandah) is Gāyatrī. Sarasvati is the Devatā
+ This portion of the work deals with rules relating to the Sādhanā of the Devi of Speech and the Japa of Her Mantra[^55]. Japa is preceded by Mātrikānyāsa[^55] The Rishi of this Mātrikāmantra[^57] is Brahmā The metre (Chhandah) is Gāyatrī. Sarasvati is the Devatā
+
+[^55]: "See Introduction to my book "
+
+[^57]: "That is, the letters A to Ksha with the Bindu superimposed."
 
 and Her six limbs are the letters of the alphabet
 
- With the words, "I bow to Her the Bhāratī”^(**1**) follows a Dhyāna or description of the Goddess (Devī) as She, in her gross (sthūla) form, is to be meditated on. She is seated on a lotus, three-eyed and of a transparent brilliancy She is white as the moon and the jasmine flowers The fifty different letters make Her face, hands, feet, belly and breasts which with Her buttocks are very large On Her head are coils of hair and the crescent moon She holds in Her right upper hand a rosary of [Rudrāksha beads](# "Seeds of the Eleocarpus ganitrus with which Japa is done") and with Her lower right hand makes [Chintā-mudrā](# "A name for the jnäna-mudrā or munual gesture so called") In the left upper hand She holds a jar (of nectar) and in the lower left hand a book^(**2**).
+ With the words, "I bow to Her the Bhāratī”^(**1**) follows a Dhyāna or description of the Goddess (Devī) as She, in her gross (sthūla) form, is to be meditated on. She is seated on a lotus, three-eyed and of a transparent brilliancy She is white as the moon and the jasmine flowers The fifty different letters make Her face, hands, feet, belly and breasts which with Her buttocks are very large On Her head are coils of hair and the crescent moon She holds in Her right upper hand a rosary of Rudrāksha beads[^58] and with Her lower right hand makes Chintā-mudrā[^59] In the left upper hand She holds a jar (of nectar) and in the lower left hand a book^(**2**).
+
+[^58]: "Seeds of the Eleocarpus ganitrus with which Japa is done"
+
+[^59]: "A name for the jnäna-mudrā or munual gesture so called"
 
  The nine Shaktis of Bhārati are Medhā (understanding), Prajnā (wisdom), Prabhā (radiance), Vidyā (learning), Dhī (intelligence), Dhriti (constancy or steadiness), Smriti (memory), Buddhi (power of conception), Vidyeshvarī (sovereignty of all learning
 
- The Sādhaka with revernt devotion should worship Bhārati, Her [Shaktis and Āvarana Devatās](# "That is, attendant Devatās ") with fine perfume and flowers, incense and food
+ The Sādhaka with revernt devotion should worship Bhārati, Her Shaktis and Āvarana Devatās[^60] with fine perfume and flowers, incense and food
+
+[^60]: "That is, attendant Devatās "
 
 ———————————————————————————————————————  
 
@@ -635,7 +751,9 @@ and Her six limbs are the letters of the alphabet
 
 **CHAPTER VIII.**
 
- The first part deals with Prānāgni Homa. It commences by directing the Sādhaka as to his posture and then to meditate on the Mūlādhāra^(**1**) in the middle of which is the "essence of Shakti" (Shaktisattva) that is Kundalinī and is surrounded by [Māyā Bījas](# "That is "). Inside the Mūlādhāra is a triangle and five Kundas (fire pits) in which are the five fires Avasathaja, Sabhya, Āhavanīya, Anvāhārya and Gārhapatya. In these five Kundas the letters are mentally offered in Homa. The Vyanjanas are divided into 7 groups and the vowels into 2 groups of eight each. Each of these groups is called after one of the nine gems (Ratna) and directions are given as to which letters should be cast into which Kunda. By these offerings the Sādhaka realises his subtle body. Details are then given of the ritual of this Homa in which mental offerings of the senses (Indriyas) and so forth are made.
+ The first part deals with Prānāgni Homa. It commences by directing the Sādhaka as to his posture and then to meditate on the Mūlādhāra^(**1**) in the middle of which is the "essence of Shakti" (Shaktisattva) that is Kundalinī and is surrounded by Māyā Bījas[^61]. Inside the Mūlādhāra is a triangle and five Kundas (fire pits) in which are the five fires Avasathaja, Sabhya, Āhavanīya, Anvāhārya and Gārhapatya. In these five Kundas the letters are mentally offered in Homa. The Vyanjanas are divided into 7 groups and the vowels into 2 groups of eight each. Each of these groups is called after one of the nine gems (Ratna) and directions are given as to which letters should be cast into which Kunda. By these offerings the Sādhaka realises his subtle body. Details are then given of the ritual of this Homa in which mental offerings of the senses (Indriyas) and so forth are made.
+
+[^61]: "That is "
 
  The second portion after the 26th verse deals with the worship of Sarasvatī; Her Nyāsa, Pūjā, Japa, Homa and so forth. A Hymn to Sarasvatī is given in vv. 47-60.
 
@@ -643,7 +761,11 @@ and Her six limbs are the letters of the alphabet
 
 **CHAPTER IX.**
 
- Deals with the worship of the Devī Tripurā. She is called Tripurā, because, She is the Creatrix of the three Mūrtis^(**2**); and is in the three Vedas; She too on the dissolution of the three worlds fills all space; and [existed before the Three](# "That is, existed before the three Devas of the Trimurti.") were. Her Bījas are [Aiṁ and Klīm](# "The Vägbhava and Kāma Bijas. She has other Bijas also,").
+ Deals with the worship of the Devī Tripurā. She is called Tripurā, because, She is the Creatrix of the three Mūrtis^(**2**); and is in the three Vedas; She too on the dissolution of the three worlds fills all space; and existed before the Three[^62] were. Her Bījas are Aiṁ and Klīm[^63].
+
+[^62]: "That is, existed before the three Devas of the Trimurti."
+
+[^63]: "The Vägbhava and Kāma Bijas. She has other Bijas also,"
 
 ———————————————————————————————————————  
 
@@ -657,19 +779,33 @@ and Her six limbs are the letters of the alphabet
 
  The Dhyāna is given at v 8 The Sādhaka is directed to worship the Pītha, the Shaktis Vāmā and others and to draw the Navayoni-chakra and to then place a Kalasha (jar) on the Chakra and invoke the Devi therein. The Chakra is then described The Shaktis and Mātrikās and Bhairavas who are to be worshipped are named.
 
- In vv. 23, 24, a description is given of a worship which has the effect of producing such amorous passion in the celestial female Spirits and Genu, Suras, Asuras, Siddhas, Yakshas, Vidyādharas, Gandharvas, [Bhujaṁgas](# "That Nāgas or Serpent divinities") and [Chāranas](# "The Siddhas and names following are various classes of Devayoni") that they come to the Sādhaka "with gazellelike eyes, breathing heavily, their bodies quivering with, and moist with the pearly sweat of, passion, and throwing away their ornaments and letting their clothes fall from about them, bow themselves before him and offer to do his will".
+ In vv. 23, 24, a description is given of a worship which has the effect of producing such amorous passion in the celestial female Spirits and Genu, Suras, Asuras, Siddhas, Yakshas, Vidyādharas, Gandharvas, Bhujaṁgas[^64] and Chāranas[^65] that they come to the Sādhaka "with gazellelike eyes, breathing heavily, their bodies quivering with, and moist with the pearly sweat of, passion, and throwing away their ornaments and letting their clothes fall from about them, bow themselves before him and offer to do his will".
+
+[^64]: "That Nāgas or Serpent divinities"
+
+[^65]: "The Siddhas and names following are various classes of Devayoni"
 
 **————  
 CHAPTER X**
 
- Is concerned with the worship of Mūlaprakriti, Her [Mantra, Homa, Abhisheka, Japa and Archana](# "See these described in my ") For the purpose of worship She is materialised as Ambikā according to the directions of a Dhyāna which is given. She is there described as holding [Pāsha (noose), Aṁkusha (goad)](# "See Arthur and Ellen Avalon's "), Ishta (making the Varamudrā), Abhaya [(making the Mudrā of that name)](# "The gestures of granting boons and dispelling fear"). An explanation is given of these four.
+ Is concerned with the worship of Mūlaprakriti, Her Mantra, Homa, Abhisheka, Japa and Archana[^66] For the purpose of worship She is materialised as Ambikā according to the directions of a Dhyāna which is given. She is there described as holding Pāsha (noose), Aṁkusha (goad)[^67], Ishta (making the Varamudrā), Abhaya (making the Mudrā of that name)[^68]. An explanation is given of these four.
+
+[^66]: "See these described in my "
+
+[^67]: "See Arthur and Ellen Avalon's "
+
+[^68]: "The gestures of granting boons and dispelling fear"
 
  The rest of the Chapter is concerned with the ritual.
 
 **————  
 CHAPTER XI**
 
- Continues the same subject, and gives a description of Her [Yantra](# "Diagram used in worship"), Gāyatrī, [16 Shaktıs](# "Vv II, 12,"), 32 Shaktis^(**1**), and 64 Shaktis^(**2**) which are named.
+ Continues the same subject, and gives a description of Her Yantra[^69], Gāyatrī, 16 Shaktıs[^70], 32 Shaktis^(**1**), and 64 Shaktis^(**2**) which are named.
+
+[^69]: "Diagram used in worship"
+
+[^70]: "Vv II, 12,"
 
 ———————————————————————————————————————  
 
@@ -689,10 +825,12 @@ HYMN TO PRAKRITI
 
 Be gracious to me, Oh Pradhānā**¹**  
 Who art Prakriti^(**2**) in the form of the elemental world^(**3**)  
-[Life](# "Prana which manifests in the breath of breathing things (prānī).") of all that lives,  
+Life[^71].") of all that lives,  
 With folded hands I make obeisance to Thee Our Lady^(**4**)  
 Whose very nature and will it is to do^(**5**)  
 That which we cannot understand^(**6**).
+
+[^71]: "Prana which manifests in the breath of breathing things (prānī
 
 **2**
 
@@ -732,9 +870,11 @@ Therefore so must I pray to Thee^(**8**).
 
 4
 
-Salutation to Thee our Lady [supreme over all](# "Samasteshi."),  
+Salutation to Thee our Lady supreme over all[^72],  
 Who art Bindu^(**9**),  
 Obeisance to Thee the Paratattva^(**10**),
+
+[^72]: "Samasteshi."
 
 ———————————————————————————————————————  
 
@@ -774,8 +914,10 @@ da and from Nāda was born Bindu (Shāradātilaka, Ch 1) This Bindu again has tw
 
 
 
-[Who art Pradhānā](# "See v. I note 2, p. 29.") and Mahattva^(**1**),  
+Who art Pradhānā[^73] and Mahattva^(**1**),  
 Salutation to Thee Who art in the form of Ahaṁkāra^(**2**).
+
+[^73]: "See v. I note 2, p. 29."
 
 5
 
@@ -789,7 +931,9 @@ Obeisance to Thee in the form of earth with its quality of smell^(**3**).
 
 Salutation to Thee in the form of the ear, skin, eyes, tongue, and nose^(**4**),
 
- And in the form of mouth, speech, arms, legs, organs of [excretion and generation](# "See last note."),
+ And in the form of mouth, speech, arms, legs, organs of excretion and generation[^74],
+
+[^74]: "See last note."
 
  Salutation to Thee, Manas, Buddhi, Ahaṁkāra and Chitta^(**5**), Obeisance to Thee Who art in the form of the whole Universe:
 
@@ -828,19 +972,27 @@ Oh Mahādevī, verily do these three lights^(**5**) and fires issue from Thee.
 
 8
 
-Assuming the form of Brahmā with [active quality](# "That is the rajas guna")  
+Assuming the form of Brahmā with active quality[^75]  
 The four-headed one, seated on a shining white swan,  
 Thou dost create the world  
 Of which thou becomest the Mother  
-Who is there indeed, Oh [Supreme Ruler](# "Ishi."),  
-Who can imagine [Thy supreme state](# "Lit ")?
+Who is there indeed, Oh Supreme Ruler[^76],  
+Who can imagine Thy supreme state[^77]?
+
+[^75]: "That is the rajas guna"
+
+[^76]: "Ishi."
+
+[^77]: "Lit "
 
 9
 
 Adorned with crown,  
-Resplendent with [conch and discus](# "Chakra. Both conch and discus are white and shining.")
+Resplendent with conch and discus[^78]
 
 ———————————————————————————————————————  
+
+[^78]: "Chakra. Both conch and discus are white and shining."
 
 **1.** The forms of the Mother of the Universe are threefold. There is first the supreme (para) form of which, as the Vishnuyā
 
@@ -860,35 +1012,53 @@ dhaka who can only worship Her in such form See Author's "Shakti and Shūkta" an
 
 
 
-[As Nārāyana with quality of manifestation](# "Sattvaguna. Lit. "),  
+As Nārāyana with quality of manifestation[^79],  
 Thou dost maintain the world;  
 For He also is part of Thee.
+
+[^79]: "Sattvaguna. Lit. "
 
 10
 
 Again in the form of the three-eyed Rudra  
-[Carrying axe and a rosary](# "Made of rudrāksha seed or human skull or bones."),  
-On whose matted hair are moon, [serpent and Ganges](# "When Gamgā was called down from heaven by Bhagiratha, She first fell into the matted hair (jata) of Shiva."),  
-[He with the quality which veils](# "Tamo-guna. ")  
+Carrying axe and a rosary[^80],  
+On whose matted hair are moon, serpent and Ganges[^81] of Shiva."),  
+He with the quality which veils[^82]  
 Thou dost at the end of the Kalpa^(**1**) destroy the whole universe,  
 And then alone shinest^(**2**).
 
+[^80]: "Made of rudrāksha seed or human skull or bones."
+
+[^81]: "When Gamgā was called down from heaven by Bhagiratha, She first fell into the matted hair (jata
+
+[^82]: "Tamo-guna. "
+
 11
 
-Thou, Oh [Supreme Lady](# " Ishi. "), [art Sarasvatī](# "Goddess of speech, learning and wisdom."),  
+Thou, Oh Supreme Lady[^83], art Sarasvatī[^84],  
 The presiding Goddess of Speech,  
 Clad in white raiment^(**3**),  
 Holding a rosary of Rudrāksha beads, a pen, and a jar of nectar,  
-Thou maketh the [Chintā gesture](# "The Jnana-mudrā.")  
+Thou maketh the Chintā gesture[^85]  
 Thou art The Three-eyed  
-One Bearing upon [Thy matted hair](# "Kaparda as is worn by Shiva.")  
+One Bearing upon Thy matted hair[^86]  
 The shining crescent moon.
+
+[^83]: " Ishi. "
+
+[^84]: "Goddess of speech, learning and wisdom."
+
+[^85]: "The Jnana-mudrā."
+
+[^86]: "Kaparda as is worn by Shiva."
 
 12
 
 Thou art, Oh Queen, the uncreated changeless One,  
-[Thou art Durgā](# "One of the greatest names of the Devi; that is, Sã ya durgatim harati.")  
+Thou art Durgā[^87]  
 With shining conch and discus
+
+[^87]: "One of the greatest names of the Devi; that is, Sã ya durgatim harati."
 
 ———————————————————————————————————————  
 
@@ -904,32 +1074,56 @@ With shining conch and discus
 
 Formidable with whirling sword,  
 She who with high and glittering crown  
-Is [borne upon a roaring lion](# "The vehicle of Durgā,")  
-[The crowd of Daityas](# " Demonic spirits. [Esoterically the sense of duality in the sadhaka]") Thou dost destroy,  
-But [Siddhas](# "That is, here not the Devayoni of that name but the Perfect with all accomplishment, those who are possessed of Siddhi") worship Thee.
+Is borne upon a roaring lion[^88]  
+The crowd of Daityas[^89] Thou dost destroy,  
+But Siddhas[^90] worship Thee.
+
+[^88]: "The vehicle of Durgā,"
+
+[^89]: " Demonic spirits. [Esoterically the sense of duality in the sadhaka]"
+
+[^90]: "That is, here not the Devayoni of that name but the Perfect with all accomplishment, those who are possessed of Siddhi"
 
 13
 
-Truly, Oh [Supreme Ruler](# "Maheshi"), Thou art The (one) Mother,  
+Truly, Oh Supreme Ruler[^91], Thou art The (one) Mother,  
 Who art the half of the body of the enemy of Tripura^(**1**),  
-Shining forth as the [spouse of Bhava](# "Shiva in the watery form of the Ashtamurti"),  
-And again as [Daughter of the King of Mountains](# "Himalaya who was the father of Pārvati."),  
-[Oh good and](# "Sunāthā,") supreme Queen,  
+Shining forth as the spouse of Bhava[^92],  
+And again as Daughter of the King of Mountains[^93],  
+Oh good and[^94] supreme Queen,  
 Great Yogins salute Thee
+
+[^91]: "Maheshi"
+
+[^92]: "Shiva in the watery form of the Ashtamurti"
+
+[^93]: "Himalaya who was the father of Pārvati."
+
+[^94]: "Sunāthā,"
 
 14
 
-[Great Goddess](# "Mahadevi."), I know [Thee to be Shrī](# "Lakshmi.")  
+Great Goddess[^95], I know Thee to be Shrī[^96]  
 The only Mistress of all peoples,  
 Dear to the world,  
-She who lives in the [sky-blue](# "Vyomanile") breast of the enemy of Kaitabha^(**2**),  
+She who lives in the sky-blue[^97] breast of the enemy of Kaitabha^(**2**),  
 Beauteous with the glittering splendour of the Kaustubha gem^(**3**).
+
+[^95]: "Mahadevi."
+
+[^96]: "Lakshmi."
+
+[^97]: "Vyomanile"
 
 15
 
-Oh [great Goddess](# "Mahadevī.") and [all-pervading One](# "Vibhu."),  
+Oh great Goddess[^98] and all-pervading One[^99],  
 The seven shining Mothers  
 Are parts and forms of Thee,
+
+[^98]: "Mahadevī."
+
+[^99]: "Vibhu."
 
 ———————————————————————————————————————  
 
@@ -951,25 +1145,37 @@ Potrī, Indraka, and Mahābhairava^(**1**).
 
 Thy lustre is that of a thousand rising suns  
 In the endless spaces of the Universe.  
-Upon Thy head is [the crescent moon](# "The Devi as spouse of Shiva bears (as He does) the crescent moon.")  
+Upon Thy head is the crescent moon[^100] the crescent moon.")  
 Thou holdeth the noose and goad^(**2**)  
 And maketh the gestures of granting blessing and of dispelling fear^(**3**).
 
+[^100]: "The Devi as spouse of Shiva bears (as He does
+
 17
 
-Thou, [Oh Ruler](# "Ishi."), art light, fame and beauty,  
+Thou, Oh Ruler[^76], art light, fame and beauty,  
 Day, evening and night,  
 Action, hope, darkness and hunger,  
-[Intelligence](# "Buddhi, see page 41."), memory, patience,  
-Speech, [mind](# "Mati; here the acting manas.") and knowledge^(**4**)  
+Intelligence[^102], memory, patience,  
+Speech, mind[^103] and knowledge^(**4**)  
 Beauty and splendour  
-And [all other powers](# "Shaktiprabheda; that is, the various different manifestations of Her shakti.").
+And all other powers[^104].
+
+[^76]: "Ishi."
+
+[^102]: "Buddhi, see page 41."
+
+[^103]: "Mati; here the acting manas."
+
+[^104]: "Shaktiprabheda; that is, the various different manifestations of Her shakti."
 
 18
 
-Oh [Destructress of ills](# "Hare that is, remover of sin and pain."),  
+Oh Destructress of ills[^105],  
 Thou Who Art  
 Bindu and Nāda:
+
+[^105]: "Hare that is, remover of sin and pain."
 
 ———————————————————————————————————————  
 
@@ -987,15 +1193,25 @@ Bindu and Nāda:
 
 Shakti and Shānta^(**1**)  
 Thou art in the form of the seven  
-[Regions](# "Bhūh, Bhuvah, Svah, Mahah, Janah, Tapah, Satyam"), [nether worlds](# "Tala, Atala, Vitala, Sutala, Talātala, Mahātala, Rasātala"), mountains^(**2**) and oceans^(**3**),  
+Regions[^106], nether worlds[^107], mountains^(**2**) and oceans^(**3**),  
 Stars^(**4**), islands^(**5**), substances^(**6**) and tones^(**7**).
+
+[^106]: "Bhūh, Bhuvah, Svah, Mahah, Janah, Tapah, Satyam"
+
+[^107]: "Tala, Atala, Vitala, Sutala, Talātala, Mahātala, Rasātala"
 
 19
 
-Salutation to Thee Oh [great Queen](# "Maheshi")  
-Who [art all](# "Samaste")  
-And in the [form of all](# "Samastasvarūpe"),  
+Salutation to Thee Oh great Queen[^91]  
+Who art all[^109]  
+And in the form of all[^110],  
 Who art the power in all things^(**8**),
+
+[^91]: "Maheshi"
+
+[^109]: "Samaste"
+
+[^110]: "Samastasvarūpe"
 
 ———————————————————————————————————————  
 
@@ -1026,16 +1242,22 @@ And as the want thereof^(**1**).
 20
 
 Let all our thoughts be ever of Thee,  
-Oh our [Great Lady](# "Maheshi"),  
+Oh our Great Lady[^91],  
 May all our speech be of, and all our hymn to, Thee,  
 May all we do^(**2**) be homage to Thee.  
 Be ever gracious to and pardon me^(**3**).
+
+[^91]: "Maheshi"
 
 ————  
 
 **CHAPTER XII.**
 
- This Chapter gives an exposition of the worship of Shrī or Lakshmī and states Her [Bīja](# "Shrim.") and Dhyāna and the Japa and Homa in her Sādhana. Her [nine Shaktis](# "Verse 8.") are to be invoked round Her Pītha. Verse 29 gives a Dhyāna of Her as Ramā and 32 Shaktis of Ramā are enumerated who should also be worshipped. The worship of Shrī leads to purity; bodily perfection and beauty, intelligence and devotion to Vishnu; and not only the Sādhaka but his bed and all other things belonging to him are purified.
+ This Chapter gives an exposition of the worship of Shrī or Lakshmī and states Her Bīja[^112] and Dhyāna and the Japa and Homa in her Sādhana. Her nine Shaktis[^113] are to be invoked round Her Pītha. Verse 29 gives a Dhyāna of Her as Ramā and 32 Shaktis of Ramā are enumerated who should also be worshipped. The worship of Shrī leads to purity; bodily perfection and beauty, intelligence and devotion to Vishnu; and not only the Sādhaka but his bed and all other things belonging to him are purified.
+
+[^112]: "Shrim."
+
+[^113]: "Verse 8."
 
 ————  
 
@@ -1057,7 +1279,11 @@ Be ever gracious to and pardon me^(**3**).
 
 
 
-Sādhaka should meditate on the Devī as on a lotus seat in the [heart lotus](# "That is, not anahata but the small Ishtadevatā lotus below it.") After Pūjā to Her, Her Āvarana Devatāsshould be worshipped Her Japa is done 1,200,000 times(twelve lakhs) In vv 4 and 5 Her Dhyāna is given In v. 10, the Dharanī Bīja is indicatedThe Rishi is Varāha, the Chhandah is Nivi it, and the Devatā is Dharanī Then follows Tvaritā Vidya who is so called because She grants success to Her worshippers very speedily. The worshipper of this Tvaritā mantra is tempted by celestial damsels If the Sādhaka overcomes these temptations then Devī Tvaritā grants all his desues. Totalāvidhi is described in vv 64-66 Then Nityā Mantra is indicated and the mode of Her worship laid down. V. 84 says that (amongst other fruit secured by this Mantra) if he who is initiated therein thinks of a woman and makes Japa of this Mantra a thousand times, even when [lying on his bed](# "That is, the mantra is so powerful that it may be recited with success under the easiest conditions."), then that woman becomes so maddened by the arrows of Madana the God of love that she comes running to him
+Sādhaka should meditate on the Devī as on a lotus seat in the heart lotus[^114] After Pūjā to Her, Her Āvarana Devatāsshould be worshipped Her Japa is done 1,200,000 times(twelve lakhs) In vv 4 and 5 Her Dhyāna is given In v. 10, the Dharanī Bīja is indicatedThe Rishi is Varāha, the Chhandah is Nivi it, and the Devatā is Dharanī Then follows Tvaritā Vidya who is so called because She grants success to Her worshippers very speedily. The worshipper of this Tvaritā mantra is tempted by celestial damsels If the Sādhaka overcomes these temptations then Devī Tvaritā grants all his desues. Totalāvidhi is described in vv 64-66 Then Nityā Mantra is indicated and the mode of Her worship laid down. V. 84 says that (amongst other fruit secured by this Mantra) if he who is initiated therein thinks of a woman and makes Japa of this Mantra a thousand times, even when lying on his bed[^115], then that woman becomes so maddened by the arrows of Madana the God of love that she comes running to him
+
+[^114]: "That is, not anahata but the small Ishtadevatā lotus below it."
+
+[^115]: "That is, the mantra is so powerful that it may be recited with success under the easiest conditions."
 
 **————  
 CHAPTER XIV**
@@ -1089,7 +1315,11 @@ Treats of the worship of Mahāganesha.Vv. 5-17 give the Dhyāna. V. 22 gives His
 **————  
 CHAPTER XVIII**
 
- Contains the Manmatha^(**1**) Mantra. The Dhyāna is in v. 4. His nine Shaktis (v. 6) are Mohanī (She who charms). Kshobhanī (She who perturbs), Trāsī (She who causes anxiety), Stambhanī (She who paralyzes), Ākarshinī (She who attracts), Drāvinī (She who softens), Āhlādinī (She who causes joy), Klinnā (She who moves the heart), Kledinī (She who moistens)^(**2**). His Gāyatrī is given in v. 11, as follows:—Kāmadevāya vidmahe: Pushpavānāya dhīmahi: tānno' naṁgaḥ prachodayāt.^(**3**) The Mantra is at vv. 12-14 The 16 Avarana Shaktis are given at vv. 19-21. They are Yuvati (Youthfulness), Vipralambhā (Deception), Jyotsnā (Moonlight or Splendour), Subhrū (Beautiful eyebrows), Madadravā (Softening state of love), Suratā (Amorous play), Vārunī ([Shakti of Varuna](# "Quaere.")), Lolā ([Agitation](# "Or fickle, lustiul: it may also mean the male genitals, as yoni is given post.")), Kānti (Beauty) Saudāminī (Lightning), Kāmachhatrā^(**4**) (all which induce passion)
+ Contains the Manmatha^(**1**) Mantra. The Dhyāna is in v. 4. His nine Shaktis (v. 6) are Mohanī (She who charms). Kshobhanī (She who perturbs), Trāsī (She who causes anxiety), Stambhanī (She who paralyzes), Ākarshinī (She who attracts), Drāvinī (She who softens), Āhlādinī (She who causes joy), Klinnā (She who moves the heart), Kledinī (She who moistens)^(**2**). His Gāyatrī is given in v. 11, as follows:—Kāmadevāya vidmahe: Pushpavānāya dhīmahi: tānno' naṁgaḥ prachodayāt.^(**3**) The Mantra is at vv. 12-14 The 16 Avarana Shaktis are given at vv. 19-21. They are Yuvati (Youthfulness), Vipralambhā (Deception), Jyotsnā (Moonlight or Splendour), Subhrū (Beautiful eyebrows), Madadravā (Softening state of love), Suratā (Amorous play), Vārunī (Shakti of Varuna[^116]), Lolā (Agitation[^117]), Kānti (Beauty) Saudāminī (Lightning), Kāmachhatrā^(**4**) (all which induce passion)
+
+[^116]: "Quaere."
+
+[^117]: "Or fickle, lustiul: it may also mean the male genitals, as yoni is given post."
 
 ———————————————————————————————————————  
 
@@ -1105,9 +1335,29 @@ CHAPTER XVIII**
 
 
 
-Chandralekhā ([The Digits of the moon](# "Taken collectively as the source of light")), Shukī ([a female parrot](# "A lovesick person as described in the Alamkärashātra keeps a parrot to whom he or she tells his feelings")), Madanā (Passion of love), Yoni (The female genitals), Māyāvatī (She who deludes) At v. 21 His sixteen servants are given, namely, Shoka (Heat or anguish), Moha (Delusion), Vilāsa (Coquetry or play with women), Vibhrama (Perturbation or confusion or amorous gestures), Madanātura (Helpless state induced by passion), Apatrapa (Shamelessness), Yuvā ([Male youthfulness](# "As yuvati is a youthful woman")), Kāmī (Amorousness), Chyutapushpa (Mango blossom)^(**1**). Ratipriya (Pleasant coition), Grīshma (summer)^(**2**). Tapānta (Rainy season)^(**3**), Urja (Autumn), Hemanta ([Dewy season](# "Kārtika, Agrahāyana from middle of October to middle of December")), Shishira winter), Mada (Spring). The text at vv. 24 and 25 says that at the corners of the Yantra of Madana should be worshipped the play of the amorous [sidelong glances](# "Apaṁgabhrūviāsa."), the sensuous [movements of woman's body](# "Havabhāva, the movements a person makes which indicate desire."), [the Mādhavī creeper](# "Creeper with sweet smelling flowers, married to the Mango tree"), [Mālatī flower](# "A kind of jasmine."), the gazelle-like eye (Harinākshī) and [the entrance-ment of passion](# "Madotkarā.").
+Chandralekhā (The Digits of the moon[^118]), Shukī (a female parrot[^119]), Madanā (Passion of love), Yoni (The female genitals), Māyāvatī (She who deludes) At v. 21 His sixteen servants are given, namely, Shoka (Heat or anguish), Moha (Delusion), Vilāsa (Coquetry or play with women), Vibhrama (Perturbation or confusion or amorous gestures), Madanātura (Helpless state induced by passion), Apatrapa (Shamelessness), Yuvā (Male youthfulness[^120]), Kāmī (Amorousness), Chyutapushpa (Mango blossom)^(**1**). Ratipriya (Pleasant coition), Grīshma (summer)^(**2**). Tapānta (Rainy season)^(**3**), Urja (Autumn), Hemanta (Dewy season[^121]), Shishira winter), Mada (Spring). The text at vv. 24 and 25 says that at the corners of the Yantra of Madana should be worshipped the play of the amorous sidelong glances[^122], the sensuous movements of woman's body[^123], the Mādhavī creeper[^124], Mālatī flower[^125], the gazelle-like eye (Harinākshī) and the entrance-ment of passion[^126].
 
- The text then describes (vv. 27 et seq.) [the union of husband and wife](# "Nijāng vanitam ; the wife and not some other Shaktı."). The body of man is a manifestation of Ahaṁ-
+[^118]: "Taken collectively as the source of light"
+
+[^119]: "A lovesick person as described in the Alamkärashātra keeps a parrot to whom he or she tells his feelings"
+
+[^120]: "As yuvati is a youthful woman"
+
+[^121]: "Kārtika, Agrahāyana from middle of October to middle of December"
+
+[^122]: "Apaṁgabhrūviāsa."
+
+[^123]: "Havabhāva, the movements a person makes which indicate desire."
+
+[^124]: "Creeper with sweet smelling flowers, married to the Mango tree"
+
+[^125]: "A kind of jasmine."
+
+[^126]: "Madotkarā."
+
+ The text then describes (vv. 27 et seq.) the union of husband and wife[^127]. The body of man is a manifestation of Ahaṁ-
+
+[^127]: "Nijāng vanitam ; the wife and not some other Shaktı."
 
 ———————————————————————————————————————  
 
@@ -1123,22 +1373,60 @@ Chandralekhā ([The Digits of the moon](# "Taken collectively as the source of l
 
 
 
-[kāra](# "Vilasadahaṁkāratanu.") and is [the abode of error](# "Vibhramāspadībhūta, for it is tamoguna."). [Woman is Buddhi](# "Buddhisharīrā nārī."). These two are united in the [Chittayoni](# "Chittayonim adhigachchhet."), that is, in that mental function of the Antahkarana which is here figuratively regarded as the Yoni or womb of Buddhi. Ahaṁkāra is thus united with [Buddhi and husband with wife](# "As in the Jiva the Ahaṁkāra and Buddhi which are in it unite in its own Chitta, so restraining the body let the Mantrin unite with his own wife alone."). The husband is to [think of himself as Madana](# "He thinks of his vrittis as being the embodiment of Kama the God of Love.") in the form of fire and of his [Shiva](# "The limga.") as a flame of fire. Let him embrace her who is overspread by its flame and let him sip with his congue the nectar of her teeth and tongue. Let him think of [his beautiful wife](# "Lit. the ") as the embodiment of [nectar whose body](# "Lit. the Mandanāgāra.") is as it were [the butter](# "Navanīta. In Homa clarified butter is poured into the fire and sexual union is one of the fire fires.") which is melted in that fire. Let him touch her arms thinking them to be the flowery arrows of Kāma. The Mantrin should keep his self-control and take care not to [injure the Jīva](# "That is, he should not over-exert himself and thus injuriously affect his ajapāmantra, or vital breath. Padmapāda refers to Kāmashāstra."). In all the stages of passion (rati) he should be self-controlled. Thus should one's own beloved be worshipped (bhajet). If it be done thus then she who is struck by the arrows of Kāma follows her husband like a [shadow even in another world](# "Bhavāntare; or (may be) another birth.").
+kāra[^128] and is the abode of error[^129]. Woman is Buddhi[^130]. These two are united in the Chittayoni[^131], that is, in that mental function of the Antahkarana which is here figuratively regarded as the Yoni or womb of Buddhi. Ahaṁkāra is thus united with Buddhi and husband with wife[^132]. The husband is to think of himself as Madana[^133] in the form of fire and of his Shiva[^134] as a flame of fire. Let him embrace her who is overspread by its flame and let him sip with his congue the nectar of her teeth and tongue. Let him think of his beautiful wife[^135] as the embodiment of nectar whose body[^136] is as it were the butter[^137] which is melted in that fire. Let him touch her arms thinking them to be the flowery arrows of Kāma. The Mantrin should keep his self-control and take care not to injure the Jīva[^138]. In all the stages of passion (rati) he should be self-controlled. Thus should one's own beloved be worshipped (bhajet). If it be done thus then she who is struck by the arrows of Kāma follows her husband like a shadow even in another world[^139] another birth.").
 
- At v. 40 is given the Mantra of Krishna; the Rishi of which is Nārada, the metre (chhandah) [Gāyatrī](# "There is here the same divisions as in the ordinary Gāyatrī.") and the Devatā Krishna. At v. 43 is the general Dhyāna of Krishna and in v. 47 His Dhyāna as He should be meditated on in the morning is described. Then He is thought of as a child of the colour of a blue lotus with a girdle of little bells covering his waist, thighs and buttocks. His throat is adorned by large and shining tiger claws. His face smiles happily like a lotus. It is He who killed the [demons Shakata](# "A demon who attempted to fall on and crush the infant Krishna who with His foot killed him.") and [Pūtanā](# " Kamsa sent Pūtanā, the milk of whose breasts was poison, to Krishna; but He sucked her life away. See Devibhāgavata Purāna, IV. 24.").
+[^128]: "Vilasadahaṁkāratanu."
+
+[^129]: "Vibhramāspadībhūta, for it is tamoguna."
+
+[^130]: "Buddhisharīrā nārī."
+
+[^131]: "Chittayonim adhigachchhet."
+
+[^132]: "As in the Jiva the Ahaṁkāra and Buddhi which are in it unite in its own Chitta, so restraining the body let the Mantrin unite with his own wife alone."
+
+[^133]: "He thinks of his vrittis as being the embodiment of Kama the God of Love."
+
+[^134]: "The limga."
+
+[^135]: "Lit. the "
+
+[^136]: "Lit. the Mandanāgāra."
+
+[^137]: "Navanīta. In Homa clarified butter is poured into the fire and sexual union is one of the fire fires."
+
+[^138]: "That is, he should not over-exert himself and thus injuriously affect his ajapāmantra, or vital breath. Padmapāda refers to Kāmashāstra."
+
+[^139]: "Bhavāntare; or (may be
+
+ At v. 40 is given the Mantra of Krishna; the Rishi of which is Nārada, the metre (chhandah) Gāyatrī[^140] and the Devatā Krishna. At v. 43 is the general Dhyāna of Krishna and in v. 47 His Dhyāna as He should be meditated on in the morning is described. Then He is thought of as a child of the colour of a blue lotus with a girdle of little bells covering his waist, thighs and buttocks. His throat is adorned by large and shining tiger claws. His face smiles happily like a lotus. It is He who killed the demons Shakata[^141] and Pūtanā[^142].
+
+[^140]: "There is here the same divisions as in the ordinary Gāyatrī."
+
+[^141]: "A demon who attempted to fall on and crush the infant Krishna who with His foot killed him."
+
+[^142]: " Kamsa sent Pūtanā, the milk of whose breasts was poison, to Krishna; but He sucked her life away. See Devibhāgavata Purāna, IV. 24."
 
 
 
 He is the Govinda to whom Shamkara, Indra and others do obeisance.
 
- At v. 48 is the midday meditation (Dhyāna). Let the worshipper then think of Him as Mukunda lustrous as the full blown lotus, with eyes like blue lotuses, surrounded by cows and herdswomen (Gopis), as one Who has conquered all His enemies, Whose pure smile is like the white jasmine and the Mandāra flowers. His head is adorned with peacock feathers. He is the strong lustrous One habited in yellow raiment. Those who thus worship Him [gain wealth](# "This is the Rājasika form, as the morning form is Sättvika from which no material fruit is gained but the gifts of the spirit only.").
+ At v. 48 is the midday meditation (Dhyāna). Let the worshipper then think of Him as Mukunda lustrous as the full blown lotus, with eyes like blue lotuses, surrounded by cows and herdswomen (Gopis), as one Who has conquered all His enemies, Whose pure smile is like the white jasmine and the Mandāra flowers. His head is adorned with peacock feathers. He is the strong lustrous One habited in yellow raiment. Those who thus worship Him gain wealth[^143].
 
- At v. 49 is given the evening Dhyāna. He is then contemplated upon as the unconquerable One Who by His valour has laid in the dust all His enemies and ["has lightened the weight of this Earth"](# "By the removal of iniquity."). Who is ever surrounded by great Rishis such as Nārada and others who desire to learn from him the true meaning of Tattva. He is pure, incomparable, imperishable and luminously blue. He is the Vāsudeva "[Who steals](# "That is, He destroys the world. This is the Rudramurti.") the creation and maintenance of the universe" and Who grants Liberation
+[^143]: "This is the Rājasika form, as the morning form is Sättvika from which no material fruit is gained but the gifts of the spirit only."
+
+ At v. 49 is given the evening Dhyāna. He is then contemplated upon as the unconquerable One Who by His valour has laid in the dust all His enemies and "has lightened the weight of this Earth"[^144]. Who is ever surrounded by great Rishis such as Nārada and others who desire to learn from him the true meaning of Tattva. He is pure, incomparable, imperishable and luminously blue. He is the Vāsudeva "Who steals[^145] the creation and maintenance of the universe" and Who grants Liberation
+
+[^144]: "By the removal of iniquity."
+
+[^145]: "That is, He destroys the world. This is the Rudramurti."
 
 **————  
 CHAPTER XIX**
 
- Deals with Yoga. The Pranava (Oṁ) is the Kalpa tree of all desires and the grantor of Liberation The Dhyāna is given in v. 4 of Oṁkāra or the Pranava as representing Vishnu. Vv. 8-12 give the Āvarana devatās of Vishnu and their respective Shaktis. At verse 14 Yoga is spoken of. Yoga is defined as the constant uninterrupted vision in oneself of the Ātmā which is without hands, feet, mouth or [other limb or body](# "Kara-pada-mukhādivihinam anaratadrishyam ananyagam ātmapadam Yamihātmani pashyati tattvavida stamimam kıla yogamiti bruvate.").
+ Deals with Yoga. The Pranava (Oṁ) is the Kalpa tree of all desires and the grantor of Liberation The Dhyāna is given in v. 4 of Oṁkāra or the Pranava as representing Vishnu. Vv. 8-12 give the Āvarana devatās of Vishnu and their respective Shaktis. At verse 14 Yoga is spoken of. Yoga is defined as the constant uninterrupted vision in oneself of the Ātmā which is without hands, feet, mouth or other limb or body[^146].
+
+[^146]: "Kara-pada-mukhādivihinam anaratadrishyam ananyagam ātmapadam Yamihātmani pashyati tattvavida stamimam kıla yogamiti bruvate."
 
  The faults which are impediments (Dūshana) of Yoga are enumerated, viz.—Kāma (lust), Kopa (anger), Lobha (greed), Pramoha (ignorance), Mada (pride), Matsaratā (envy). In verse 16 the well known Aṁgas of Yoga such as Yama and so forth are given and then defined. The several names of Oṁkāra follow (v. 34).
 
@@ -1146,7 +1434,15 @@ CHAPTER XIX**
 
 V. 42 describes how the different parts of Oṁkāra are dissolved in Shānta. A is dissolved (Saṁharet) in U, U in M, M in Bindu, Bindu in Nāda, Nāda in Shakti and Shakti in Shānta.
 
- Five states (Avasthās) of consciousness are given (v. 46) and not four, viz.:—Jāgrat (waking), Svapna (dream sleep), Sushupti (dreamless slumber), Turīya (the fourth state) and Tadatīta (that which is above the fourth)^(**1**). They are then defined. Jāgrat is that enjoyment which the Ātmā enjoys by the aid of its [own senses (Indriyas)](# "Svair indriyair yadātmā bhumikte bhogan sa jāgaro bhavati. See Introduction to The Serpent Power. "). Svapna is that feeling or perception (Anubhava) which exists through these senses when devoid of consciousness (Saṁjnā)^(**2**); Sushupti is that condition of quietude which is caused by the [effortless state of the Ātmā](# "Ātmanirudyuktatayā nairākulyaṁ bhavet sushuptir api."). Turīya is the state when the Ātmā sees the Supreme with unclouded [vision (Chetas)](# "Pashyati paraṁ yadātmā nistamasā chetasā turīyaṁ tat."). The fifth state is that which immediately precedes Liberation (Mukti) and is defined as "that condition where the Yogi realises the inseparateness of Ātmā and Paramātmā. From this state Liberation is not far"^(**3**). When Pavana (Vāyu) is in the subtle [Pashyantī](# "The subtle states (bhāva) of sound so named.") and in [Madhyamā](# "The subtle states (bhāva) of sound so named.") and [Vaikhari](# "The subtle states (bhāva) of sound so named.") when at the end of Sushumnā^(**4**) then Jāgrat is the utterance of the Bija, Bindu is Svapna, Sushupti is Nāda, Shakti is Turīya and Shānta is Laya (absorption) which is beyond Turīya.
+ Five states (Avasthās) of consciousness are given (v. 46) and not four, viz.:—Jāgrat (waking), Svapna (dream sleep), Sushupti (dreamless slumber), Turīya (the fourth state) and Tadatīta (that which is above the fourth)^(**1**). They are then defined. Jāgrat is that enjoyment which the Ātmā enjoys by the aid of its own senses (Indriyas)[^147]. Svapna is that feeling or perception (Anubhava) which exists through these senses when devoid of consciousness (Saṁjnā)^(**2**); Sushupti is that condition of quietude which is caused by the effortless state of the Ātmā[^148]. Turīya is the state when the Ātmā sees the Supreme with unclouded vision (Chetas)[^149]. The fifth state is that which immediately precedes Liberation (Mukti) and is defined as "that condition where the Yogi realises the inseparateness of Ātmā and Paramātmā. From this state Liberation is not far"^(**3**). When Pavana (Vāyu) is in the subtle Pashyantī[^150] of sound so named.") and in Madhyamā[^150] of sound so named.") and Vaikhari[^150] of sound so named.") when at the end of Sushumnā^(**4**) then Jāgrat is the utterance of the Bija, Bindu is Svapna, Sushupti is Nāda, Shakti is Turīya and Shānta is Laya (absorption) which is beyond Turīya.
+
+[^147]: "Svair indriyair yadātmā bhumikte bhogan sa jāgaro bhavati. See Introduction to The Serpent Power. "
+
+[^148]: "Ātmanirudyuktatayā nairākulyaṁ bhavet sushuptir api."
+
+[^149]: "Pashyati paraṁ yadātmā nistamasā chetasā turīyaṁ tat."
+
+[^150]: "The subtle states (bhāva
 
 ———————————————————————————————————————  
 
@@ -1180,7 +1476,9 @@ Sasushumnagragayor api yunjyājjāgradādithih pavanam.
 
 ****
 
-Deals with the meaning of the eight-letter Mantra of Nārāyaṇa "Om namah Nārāyaṇāya. The meaning is that Tāra (Om) arises from Shakti and means So'ham ("I am He") Na and Mah are negatives. Nā is water, Rā is fire, Ya is air, Na is earth; and the last Ya is there as a caseending^(**3**) The Rishi of the Mantra is Sādhyanārāyana, the metre is Gayatri and the Devatā is Paramātmā. Verse 7 gives the [Dhyāna of Mukunda](# "A title of Vishnu as the Giver of Liberation.") In the Sādhana of this Mantra the body of the Sādhaka is the Pitha. V. 12 says that when Nyāsa is done with the letters of this Mantra then the Mantrin becomes the object of his own worship for he is personally composed of the letters of the Mantra.
+Deals with the meaning of the eight-letter Mantra of Nārāyaṇa "Om namah Nārāyaṇāya. The meaning is that Tāra (Om) arises from Shakti and means So'ham ("I am He") Na and Mah are negatives. Nā is water, Rā is fire, Ya is air, Na is earth; and the last Ya is there as a caseending^(**3**) The Rishi of the Mantra is Sādhyanārāyana, the metre is Gayatri and the Devatā is Paramātmā. Verse 7 gives the Dhyāna of Mukunda[^153] In the Sādhana of this Mantra the body of the Sādhaka is the Pitha. V. 12 says that when Nyāsa is done with the letters of this Mantra then the Mantrin becomes the object of his own worship for he is personally composed of the letters of the Mantra.
+
+[^153]: "A title of Vishnu as the Giver of Liberation."
 
  At v. 60 the Mahāvishnu enumerates the ten Avātaras of Vishnu omitting Buddha and substituting Balarāma^(**4**).
 
@@ -1198,7 +1496,9 @@ Deals with the meaning of the eight-letter Mantra of Nārāyaṇa "Om namah Nār
 
 
 
- Vv. 21-24 state the [Kirītādi Mantra](# "The Mantra used in the worship of the ornaments of Vishnu such as crown armlet, necklace, etc."). The Shaktis of the Pitha given in v. 29 are Vimalā and others. The rest of the Chapter deals with placing of the jar, Japa, Archana and other ritual details.
+ Vv. 21-24 state the Kirītādi Mantra[^154]. The Shaktis of the Pitha given in v. 29 are Vimalā and others. The rest of the Chapter deals with placing of the jar, Japa, Archana and other ritual details.
+
+[^154]: "The Mantra used in the worship of the ornaments of Vishnu such as crown armlet, necklace, etc."
 
 ————  
 
@@ -1210,22 +1510,28 @@ Treats of the twelve Yantras or diagrams of the twelve Rāshis (signs of the Zod
 
  At vv. 54-69 is given a fine Hymn to Vishnu here translated which is directed to be sung for the pleasure of the Deities who are to be worshipped in these Yantras.
 
-**[HYMN TO VISHNU](# "Ch. 21, v. 54.").**
+**HYMN TO VISHNU[^155].**
+
+[^155]: "Ch. 21, v. 54."
 
 1
 
-[Oh Bhagavan](# "The Brahman as the possessor of all powers (aishvarya) which belong to Ishvara. This is one of the Saguna aspects of the Brahman."), be gracious to me  
+Oh Bhagavan[^156] which belong to Ishvara. This is one of the Saguna aspects of the Brahman."), be gracious to me  
 Whose mind is dulled with ignorance;  
 Give me the gift of devotion  
 To the pollen of Thy lotus feet.
+
+[^156]: "The Brahman as the possessor of all powers (aishvarya
 
 2
 
 Oh Bhagavan, be gracious to me;  
 Thou cannot be imagined,  
 Abode as Thou art of immeasurable lustre,  
-Be gracious, [Oh best of Purushas](# "The individual spirit."),  
+Be gracious, Oh best of Purushas[^157],  
 Who allayeth all our pains.
+
+[^157]: "The individual spirit."
 
 ———————————————————————————————————————  
 
@@ -1237,11 +1543,21 @@ Who allayeth all our pains.
 
 3
 
-Oh [Isha](# "Lord."), Oh Stainless One, be gracious to me,  
-Who art the [self of the Universe](# "Vishvātman")  
-And [bliss itself](# "Ānandatman");  
-[Essence unimagined](# "Achintyasara."),  
-To Thyself art [Thou known only](# " Svasaṁvedyasvarūpātman").
+Oh Isha[^158], Oh Stainless One, be gracious to me,  
+Who art the self of the Universe[^159]  
+And bliss itself[^160];  
+Essence unimagined[^161],  
+To Thyself art Thou known only[^162].
+
+[^158]: "Lord."
+
+[^159]: "Vishvātman"
+
+[^160]: "Ānandatman"
+
+[^161]: "Achintyasara."
+
+[^162]: " Svasaṁvedyasvarūpātman"
 
 4
 
@@ -1253,19 +1569,27 @@ Great Light, be gracious to me
 
 5
 
-Be gracious, [Unmanifested One](# "Avyakta."),  
+Be gracious, Unmanifested One[^163],  
 Ever pervading in that which ever pervades:  
 Minutest of the minute, be gracious;  
 Most loving of the loving, be gracious;  
 Be gracious, Thou Who art the end of all ends.
 
+[^163]: "Avyakta."
+
 6
 
 Be gracious to me, Greatest of the Great,  
-Oh Lord of all, [Unending One](# "Ananta. If ‘ananya' be read for 'ananta' the meaning will be "), be gracious,  
-Who art eternal, [Māyā](# "Māyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His Shakti"), Holder of the conch^(**1**),  
+Oh Lord of all, Unending One[^164], be gracious,  
+Who art eternal, Māyā[^165], Holder of the conch^(**1**),  
 Be gracious to us mortals:  
-[Oh Mādhava](# "A title of Vishnu as husband of Mā or Lakshmi"), may You be ever victorious
+Oh Mādhava[^166], may You be ever victorious
+
+[^164]: "Ananta. If ‘ananya' be read for 'ananta' the meaning will be "
+
+[^165]: "Māyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His ShaktiMāyātman; Lit. one with or inseparate from Māyā His Shakti"
+
+[^166]: "A title of Vishnu as husband of Mā or Lakshmi"
 
 7
 
@@ -1281,25 +1605,37 @@ Victory be to Thee Who art gentleness itself!
 
 
 May You conquer, Oh Keshava^(**1**).  
-Holder of the bow, [Destroyer of Keshin](# "See last note."),  
-Oh Auspicious One, [delighter of Nanda](# "Foster father of Krishna."),  
+Holder of the bow, Destroyer of Keshin[^74],  
+Oh Auspicious One, delighter of Nanda[^168],  
 May Thou be ever victorious.
+
+[^74]: "See last note."
+
+[^168]: "Foster father of Krishna."
 
 8
 
 Victory to Thee  
-In [Whose hands are discus and mace](# "Chakra and Gadā which are His implements.");  
+In Whose hands are discus and mace[^169];  
 Unconquerable One, may You conquer!  
 Thy head is adorned with a crown set with varied gems,  
 Oh Janārdana^(**2**), be ever victorious.
 
+[^169]: "Chakra and Gadā which are His implements."
+
 9
 
 The shadow (of the great wings)  
-Of the King of Birds, [Thy carrier](# "Garuda who is the vehicle (vāhana) of Vishnu."), obscures the Sun;  
-Oh [Enemy of Hell](# "Narakārāte. Naraka, usally translated to mean 'hell', means 'rebirth'."), salutation to Thee!  
-Oh [Madhūsudana](# "Epithet of Vishnu as slayer of the Asura Madhu, i. e. Tamo guna"), obeisance to Thee!  
+Of the King of Birds, Thy carrier[^170] of Vishnu."), obscures the Sun;  
+Oh Enemy of Hell[^171], salutation to Thee!  
+Oh Madhūsudana[^172], obeisance to Thee!  
 May Thou be over victorious.
+
+[^170]: "Garuda who is the vehicle (vāhana
+
+[^171]: "Narakārāte. Naraka, usally translated to mean 'hell', means 'rebirth'."
+
+[^172]: "Epithet of Vishnu as slayer of the Asura Madhu, i. e. Tamo guna"
 
 10
 
@@ -1319,8 +1655,10 @@ Salutation to Thee, Destroyer of sin!
 
 
 
-Obeisance to Thee, [Our Lord](# "Ishāna")!  
+Obeisance to Thee, Our Lord[^173]!  
 Salutation to Thee, Dispeller of all fears!
+
+[^173]: "Ishāna"
 
 11
 
@@ -1328,18 +1666,22 @@ Reverence to Thee,
 Who dost absorb all things in Thyself,  
 Who hast secured the Kaustubha gem^(**1**).  
 Obeisance to Thee,  
-Who [art beyond all sight](# "Nayanātīta.")  
+Who art beyond all sight[^174]  
 And beyond all speech.
+
+[^174]: "Nayanātīta."
 
 12
 
 Salutation to Thee  
 Who art beyond all remembrance,  
 Obeisance to Thee  
-Oh Cause in [three-fold form](# "As Brahma, Vishnu and Rudra.")  
+Oh Cause in three-fold form[^175]  
 Of creation, maintenance and dissolution,  
 Knowable in Thy various partial appearances^(**2**),  
 Salutation to Thee.
+
+[^175]: "As Brahma, Vishnu and Rudra."
 
 13
 
@@ -1361,39 +1703,57 @@ Paramātmā and Sūrya^(**4**)
 
 
 
-Who [holdeth the discus](# "Chakra.") whereby  
+Who holdeth the discus[^176] whereby  
 The array of Thine enemies is destroyed.
+
+[^176]: "Chakra."
 
 14
 
 Thou art in the form of the whole Universe  
 And art worshipped by the whole Universe,  
-Thou art the self of all beings in the [Universe](# "Vishvabhūtātmane."),  
+Thou art the self of all beings in the Universe[^177],  
 Salutation to Thee!  
 Thou art meditated upon by Yogins.  
-To Thee Who [art the Inner Self](# " Adhyātmarupine."), obeisance.
+To Thee Who art the Inner Self[^178], obeisance.
+
+[^177]: "Vishvabhūtātmane."
+
+[^178]: " Adhyātmarupine."
 
 15
 
-Salutation to Thee Who art the [Giver of enjoyment](# "Bhakti.")  
+Salutation to Thee Who art the Giver of enjoyment[^179]  
 To Thy devotees!  
-Reverence to Thee Who art the [Giver of Liberation](# "Mukti.")  
+Reverence to Thee Who art the Giver of Liberation[^180]  
 The actions of my mind, word and body  
 Should be meditation on Thee, praise of Thee and obeisance to Thee^(**1**).
 
+[^179]: "Bhakti."
+
+[^180]: "Mukti."
+
 16
 
-Oh [Lord of Devas](# "Devesha.")!  
+Oh Lord of Devas[^181]!  
 All my actions should be worship of Thee^(**2**)  
 And my worldly longings oblation to Thee.  
 Phalashloka.  
 The Mantrin^(**3**) who in this manner  
 Is devotedly attached to the worship of Vishnu  
-By the doing of [Havana, Japa, and Archā](# "That is, Homa, "),  
+By the doing of Havana, Japa, and Archā[^182],  
 Such an one having certainly obtained all fruits of desire  
-And being [wholly satisfied](# "Lit. ")  
-Attains that [final Liberation](# "Uttamām muktim.")  
+And being wholly satisfied[^183]  
+Attains that final Liberation[^184]  
 Which is freedom from birth and death.
+
+[^181]: "Devesha."
+
+[^182]: "That is, Homa, "
+
+[^183]: "Lit. "
+
+[^184]: "Uttamām muktim."
 
 ———————————————————————————————————————  
 
@@ -1411,7 +1771,9 @@ Which is freedom from birth and death.
 
 ****
 
-Gives the [twelve-lettered Mantra](# "Oṁ Namah Bhagavate Vasudevāya.") of Vishnu; and three kinds of Nyāsa are prescribed with the letters of this Mantra: viz,—Saṁhāranyāsa in which Nyāsa begins from the feet and proceeds upwards to the knees, limga, navel, belly, heart, hands, throat, mouth, eyes, head and the crown lock (Shikhā)^(**1**), Srishtinyāsa in which the rite begins with the Shikhā in the reverse way; and lastly, Sthitinyāsa in which the Nyāsa commences in the middle with the heart, goes down to the feet and then from the hand goes to the Shikhā. The first is for the destruction of all Dosha (fault); Srishti is for the creation or production of good; and the object of Sthiti is to gain peace (Shānti).
+Gives the twelve-lettered Mantra[^185] of Vishnu; and three kinds of Nyāsa are prescribed with the letters of this Mantra: viz,—Saṁhāranyāsa in which Nyāsa begins from the feet and proceeds upwards to the knees, limga, navel, belly, heart, hands, throat, mouth, eyes, head and the crown lock (Shikhā)^(**1**), Srishtinyāsa in which the rite begins with the Shikhā in the reverse way; and lastly, Sthitinyāsa in which the Nyāsa commences in the middle with the heart, goes down to the feet and then from the hand goes to the Shikhā. The first is for the destruction of all Dosha (fault); Srishti is for the creation or production of good; and the object of Sthiti is to gain peace (Shānti).
+
+[^185]: "Oṁ Namah Bhagavate Vasudevāya."
 
  The Mantras of Sudarshana are given. The Chapter continues with ritual detail. The fruit gained varies with the offering made. Thus by the offering of bael leaf with appropriate Mantras freedom from disease is attained.
 
@@ -1425,7 +1787,13 @@ Gives several Mantras including that of Vishnu as "The Charmer of the whole Univ
 
 ****
 
-Think of a beautiful garden of Kalpa trees fragrant with the scent of flowers and musical with the humming of big bees. Therein meditate upon [Ramāpati](# "The husband of Rama or Shri or Lakshmi; that is, Vishnu"), seated on [Garuda](# "The bird-king who is His vehicle (vähana).") who is on a red lotus. The husband of [Shrī](# "Lakshmi.") is the colour of a full blown red hibiscus flower and shines with the radiance of ten million rising suns. He is in the full flush of beauteous youth shedding the nectar of His sweet scented presence and lovely form. Kind is He to all. He holds a conch shell, bow, club (Mushala), noose (Pāsha), discus (Chakra), sword, mace (Gadā), goad (Aṁkusha). His eyes
+Think of a beautiful garden of Kalpa trees fragrant with the scent of flowers and musical with the humming of big bees. Therein meditate upon Ramāpati[^186], seated on Garuda[^187].") who is on a red lotus. The husband of Shrī[^96] is the colour of a full blown red hibiscus flower and shines with the radiance of ten million rising suns. He is in the full flush of beauteous youth shedding the nectar of His sweet scented presence and lovely form. Kind is He to all. He holds a conch shell, bow, club (Mushala), noose (Pāsha), discus (Chakra), sword, mace (Gadā), goad (Aṁkusha). His eyes
+
+[^96]: "Lakshmi."
+
+[^186]: "The husband of Rama or Shri or Lakshmi; that is, Vishnu"
+
+[^187]: "The bird-king who is His vehicle (vähana
 
 ———————————————————————————————————————  
 
@@ -1435,7 +1803,25 @@ Think of a beautiful garden of Kalpa trees fragrant with the scent of flowers an
 
 
 
-are fixed in gaze upon the face of Shrī, His spouse who embraces him in the [fullness of Her love](# "Madotkara lit. She is in the extreme entrancement of passion."). Shrī is of peerless beauty and like molten gold, joyous and decked with all jewels. She holds a lotus. Her eyes are like lotuses thirsty to drink the honey from His lotus mouth. Such is the thrill (romāncha) of Her passion that it has covered Her body with pearly beads of sweat. In attendance upon them are all the Devas with their attendants, Daityas, [Rākshasas](# "Demonic beings."), Gandharvas, Yakshas, [Pannagas](# "Various kinds of lesser divinities (Devayoni). See The Great Liberation p. 2 & Notes.") and the foremost of sages (Muni). Encircling Vishnu and His spouse are their househld women with heavy thighs, [hips and breasts](# "Spashta-kaksha-jaghanastanana-bhārā"), sweetly smiling. They look with ardent longing upon Him making obeisance with their soft folded hands. Pierced by the [arrows of Anamga](#) they move [voluptuously](# "Hava-bhāva. See ante p. 40 n. 9."). Their lips part but scarcely utter a sound for they are tremulous with passion. Their hair and clothes are in disorder. They are [shameless with passion](# "Madanavigatalajjaih."). Their whole body shakes. They breathe heavily. All steadiness is stolen from them. They are about to fall, rent as they are by the terrible arrows of [Manmatha](# "A title of Kāma as he who agitates the mind, See ante, p. 39, n. 1. and Ward's Hindoos, II, 177, 178."). But yet they do not fall being strengthened and raised by the beauteous glance of Vishnu. Forming lotuses as it were with their [hands](# "The hands are put together,") they go towards Him and worship His two feet and with the murmur of hardly uttered words and with eyes wet with tears of joy say to Him "Supreme Lord and Husband, be our [Refuge”](# "Bhava parameshvara patih sharanaṁ bah.").
+are fixed in gaze upon the face of Shrī, His spouse who embraces him in the fullness of Her love[^189]. Shrī is of peerless beauty and like molten gold, joyous and decked with all jewels. She holds a lotus. Her eyes are like lotuses thirsty to drink the honey from His lotus mouth. Such is the thrill (romāncha) of Her passion that it has covered Her body with pearly beads of sweat. In attendance upon them are all the Devas with their attendants, Daityas, Rākshasas[^190], Gandharvas, Yakshas, Pannagas[^191]. See The Great Liberation p. 2 & Notes.") and the foremost of sages (Muni). Encircling Vishnu and His spouse are their househld women with heavy thighs, hips and breasts[^192], sweetly smiling. They look with ardent longing upon Him making obeisance with their soft folded hands. Pierced by the [arrows of Anamga](#) they move voluptuously[^193]. Their lips part but scarcely utter a sound for they are tremulous with passion. Their hair and clothes are in disorder. They are shameless with passion[^194]. Their whole body shakes. They breathe heavily. All steadiness is stolen from them. They are about to fall, rent as they are by the terrible arrows of Manmatha[^195]. But yet they do not fall being strengthened and raised by the beauteous glance of Vishnu. Forming lotuses as it were with their hands[^196] they go towards Him and worship His two feet and with the murmur of hardly uttered words and with eyes wet with tears of joy say to Him "Supreme Lord and Husband, be our Refuge”[^197].
+
+[^189]: "Madotkara lit. She is in the extreme entrancement of passion."
+
+[^190]: "Demonic beings."
+
+[^191]: "Various kinds of lesser divinities (Devayoni
+
+[^192]: "Spashta-kaksha-jaghanastanana-bhārā"
+
+[^193]: "Hava-bhāva. See ante p. 40 n. 9."
+
+[^194]: "Madanavigatalajjaih."
+
+[^195]: "A title of Kāma as he who agitates the mind, See ante, p. 39, n. 1. and Ward's Hindoos, II, 177, 178."
+
+[^196]: "The hands are put together,"
+
+[^197]: "Bhava parameshvara patih sharanaṁ bah."
 
  This meditation is of a typical Vaishnava quality. It is based on the idea which is expressed in the words said by the Vaishnava Gurus or Gossains to their disciples, "I am Shyāma (Krishna) you are Rādhā.”
 
@@ -1469,7 +1855,15 @@ touch upon those other principles which have been asserted according to which se
 
 ****
 
-Deals with the Varāha^(**1**), another Vaishnava Mantra. Verse 24 says Earth is in the tusks of Varāha; the Goddess of Speech is in the grunt of this Boar; Air in His breath and the Sun and Moon are in His right and left hands. In His belly are the [Vasus](# "The Devatās of those names."); in His ear the points of the compass; the two [Ashvins](# "The Devatās of those names.") are in His eyes; in His feet is the [Lotus-born](# "Brahmā."); in His heart [Hari](# "Vishnu."); and in His mouth [Shaṁkara](# "Shiva."). These should all be worshipped separately. The rest of the Chapter deals with the ritual, Nyāsa, Homa, Yantra and so forth connected with this particular Mantra.
+Deals with the Varāha^(**1**), another Vaishnava Mantra. Verse 24 says Earth is in the tusks of Varāha; the Goddess of Speech is in the grunt of this Boar; Air in His breath and the Sun and Moon are in His right and left hands. In His belly are the Vasus[^198]; in His ear the points of the compass; the two Ashvins[^198] are in His eyes; in His feet is the Lotus-born[^200]; in His heart Hari[^201]; and in His mouth Shaṁkara[^202]. These should all be worshipped separately. The rest of the Chapter deals with the ritual, Nyāsa, Homa, Yantra and so forth connected with this particular Mantra.
+
+[^198]: "The Devatās of those names."
+
+[^200]: "Brahmā."
+
+[^201]: "Vishnu."
+
+[^202]: "Shiva."
 
 ————  
 
@@ -1500,17 +1894,23 @@ CHAPTER XXVII**
 
 ****
 
-Gives the [Prāsāda Mantra](# "For the Parāprāsāda Mantra See Ch IV. of Kulārnava Tantra") which is so called because it purifies the mind V 4 gives the Dhyāna of Shiva. The five Devatās of this Mantra are the five faces of Shiva, viz.—Īshāna, Tatpurusha, Aghora, Vāmadeva, Sadyojāta The Dhyānas of these are given. The Pitha Shaktis are Vāmā, Jyeshthā, Raudrī, Kālī, Kalavikarinī, Balavikarinī, Balapramathinī, Sarvabhūtadamanī and Manonmanī
+Gives the Prāsāda Mantra[^203] which is so called because it purifies the mind V 4 gives the Dhyāna of Shiva. The five Devatās of this Mantra are the five faces of Shiva, viz.—Īshāna, Tatpurusha, Aghora, Vāmadeva, Sadyojāta The Dhyānas of these are given. The Pitha Shaktis are Vāmā, Jyeshthā, Raudrī, Kālī, Kalavikarinī, Balavikarinī, Balapramathinī, Sarvabhūtadamanī and Manonmanī
+
+[^203]: "For the Parāprāsāda Mantra See Ch IV. of Kulārnava Tantra"
 
  Dhyāna is given of the various aspects of Shiva (vv. 15, 16). As Sadyojāta He is white like the jasmine (Kunda) and Mandāra flowers He is four-armed holding in His two hands the Veda and a rosary of Rudrāksha beads and in the other two he makes the gestures (Mudrā) which grant boons (Vara) and dispel fear (Abhaya).
 
  The Vāma Shiva is red, makes the same two gestures and holds an axe and Rudrāksha rosary.
 
- Aghora Shiva who is the dread of the Bodiless One^(**1**) is black with fierce fangs He holds a Rudrāksha rosary, Veda, Noose, Goad, Drum (Damaru), a staff surmounted with a skull (Khatvāmga), [spear and skull](# "Another Dhyāna of Aghora is given at v 18 of Ch. 28").
+ Aghora Shiva who is the dread of the Bodiless One^(**1**) is black with fierce fangs He holds a Rudrāksha rosary, Veda, Noose, Goad, Drum (Damaru), a staff surmounted with a skull (Khatvāmga), spear and skull[^204].
+
+[^204]: "Another Dhyāna of Aghora is given at v 18 of Ch. 28"
 
  Tatpurusha is of the colour of lightning and making the Vara and Abhaya Mudrās holds the Veda and an axe. All the above forms have four faces and four arms.
 
- Īshāna or Īsha is of the colour of pearl but has five faces^(**2**). He makes the gestures abovenamed and has the weapons in the hands of Aghora These five are Brahmā, Vishnu, Rudra, Īshvara and Shiva All five forms have [three eyes](# "The central eye of wisdom (Jnānachakshuh) situated between the eyebrows.").
+ Īshāna or Īsha is of the colour of pearl but has five faces^(**2**). He makes the gestures abovenamed and has the weapons in the hands of Aghora These five are Brahmā, Vishnu, Rudra, Īshvara and Shiva All five forms have three eyes[^205] situated between the eyebrows.").
+
+[^205]: "The central eye of wisdom (Jnānachakshuh
 
 ———————————————————————————————————————  
 
@@ -1522,7 +1922,11 @@ Gives the [Prāsāda Mantra](# "For the Parāprāsāda Mantra See Ch IV. of Kul�
 
 
 
- There is a remarkable^(**1**) Dhyāna of Shiva in v. 41 where He is described as of gracious aspect; seated on a lotus; as it were “a mountain of pearl dust mingled in nectar." He is clad in tiger's skin and decked with [ornaments](# "Sarvālaṁkāradipta."); upon His hair high coiled above His head is a digit (Kalā) of the [moon](# "The crescent moon is here meant."). He makes the two Mudrās abovenamed and holds an axe and a deer^(**2**). He has five faces.
+ There is a remarkable^(**1**) Dhyāna of Shiva in v. 41 where He is described as of gracious aspect; seated on a lotus; as it were “a mountain of pearl dust mingled in nectar." He is clad in tiger's skin and decked with ornaments[^206]; upon His hair high coiled above His head is a digit (Kalā) of the moon[^207]. He makes the two Mudrās abovenamed and holds an axe and a deer^(**2**). He has five faces.
+
+[^206]: "Sarvālaṁkāradipta."
+
+[^207]: "The crescent moon is here meant."
 
  At vv. 55-64 the following Hymn to Shiva is given.
 
@@ -1530,8 +1934,12 @@ Gives the [Prāsāda Mantra](# "For the Parāprāsāda Mantra See Ch IV. of Kul�
 
 Obeisance  
 To Paramātmā  
-Manifest as Brahmā, Vishnu and [Īsha](# "Rudra.")  
-Whose power it is to create, [preserve and to destroy](# "They are the embodiments of these principles.").
+Manifest as Brahmā, Vishnu and Īsha[^208]  
+Whose power it is to create, preserve and to destroy[^209].
+
+[^208]: "Rudra."
+
+[^209]: "They are the embodiments of these principles."
 
 2
 
@@ -1545,7 +1953,9 @@ And yet removes the burden of their worldly pain.
 Obeisance to Thee  
 Who didst drink the shining deadly poison,  
 Nīlakantha, Whose throat is stained thereby^(**4**)  
-And Who dost [devour the Universe](# "At the dissolution of the world which He as Mahākāla effects.").
+And Who dost devour the Universe[^210].
+
+[^210]: "At the dissolution of the world which He as Mahākāla effects."
 
 ———————————————————————————————————————  
 
@@ -1563,27 +1973,45 @@ And Who dost [devour the Universe](# "At the dissolution of the world which He a
 
 4
 
-Obeisance to [Shambhu](# "A form and title of Shiva Meaning ")  
-Who didst [destroy Kāma](# "God of Desire. See A. & E. Avalon's Hymns to the Goddess, p 39 n (3).")  
+Obeisance to Shambhu[^211]  
+Who didst destroy Kāma[^212].")  
 Flashing from His central eye dark shining flame,  
 On Whom meditate Yogīs  
 Freed of all mental pain^(**1**).
 
+[^211]: "A form and title of Shiva Meaning "
+
+[^212]: "God of Desire. See A. & E. Avalon's Hymns to the Goddess, p 39 n (3
+
 5
 
 Obeisance  
-To Him [Whose body is one with that of His Spouse](# "Ardhanarsīhvara; the androgyne form in which half of the body is Shiva and the other half Shaktı."),  
-Who destroyed the [sacrifice of Daksha](# "See "),  
-Grantor of the [four-fold desires](# "Dharma, Artha, Kāma and Moksha."),  
-He [Who is subtle](# " Anu atom So in Nyaya, ātmā is said to be as fine as an atom. In the next verse His gross aspect is sung"), [the possessor of Māyā](# "Mayi. He is shaktiman, cf. the line ")
+To Him Whose body is one with that of His Spouse[^213],  
+Who destroyed the sacrifice of Daksha[^214],  
+Grantor of the four-fold desires[^215],  
+He Who is subtle[^216], the possessor of Māyā[^217]
+
+[^213]: "Ardhanarsīhvara; the androgyne form in which half of the body is Shiva and the other half Shaktı."
+
+[^214]: "See "
+
+[^215]: "Dharma, Artha, Kāma and Moksha."
+
+[^216]: " Anu atom So in Nyaya, ātmā is said to be as fine as an atom. In the next verse His gross aspect is sung"
 
 6
 
+[^217]: "Mayi. He is shaktiman, cf. the line "
+
 Obeisance to Him  
-In physical form^(**2**), [the Primal element](# "Mūlabhūta")  
+In physical form^(**2**), the Primal element[^218]  
 Rending His enemies with His trident,  
-[The Destroyer of Kāla](# "Death or time in which lies the seed of death")  
+The Destroyer of Kāla[^219]  
 Whose head the cresent moon adorns.
+
+[^218]: "Mūlabhūta"
+
+[^219]: "Death or time in which lies the seed of death"
 
 7
 
@@ -1609,28 +2037,38 @@ Whose feet are upon the heads of Devas, Daityas, and Lords of Asuras,
 8
 
 Obeisance, obeisance  
-To [Shaṁkara](# "Shiva. Shaṁkara= Beneficence.") besmeared with ashes,  
+To Shaṁkara[^220] besmeared with ashes,  
 Who is both the manifest and unmanifest^(**1**),  
-The [Grantor both of enjoyment and of Liberation](# "For the Tantra grants both.") to His devotees.
+The Grantor both of enjoyment and of Liberation[^221] to His devotees.
+
+[^220]: "Shiva. Shaṁkara= Beneficence."
+
+[^221]: "For the Tantra grants both."
 
 9
 
 Obeisance  
 To the Enemy of Death and Andhaka^(**2**),  
 Who is the Destroyer of the cities^(**3**);  
-Obeisance to Thee Who didst rend [the tusked Boar](# "The Vāraha Avatāra of Vishnu slain by Shiva in the form of the animal called Sharabha. Kālikā Purāna, Ch. 29."),  
+Obeisance to Thee Who didst rend the tusked Boar[^222],  
 Obeisance ever to Thee  
 Entwined with great poisonous serpents,  
 Who art borne upon a great bull^(**4**).
+
+[^222]: "The Vāraha Avatāra of Vishnu slain by Shiva in the form of the animal called Sharabha. Kālikā Purāna, Ch. 29."
 
 10
 
 Obeisance ever to the Omnipresent One,  
 Appearing as ether, air, fire, water, earth  
-Sun, sacrifier and moon with [nectar rays](# "The eight forms (Ashtamūrti) of Shiva.")!  
+Sun, sacrifier and moon with nectar rays[^223] of Shiva.")!  
 Dispeller of the dread of Hell,  
-[Mayest Thou both now and here](# "In this world. ")  
+Mayest Thou both now and here[^224]  
 Destroy our wordly fear^(**5**).
+
+[^223]: "The eight forms (Ashtamūrti
+
+[^224]: "In this world. "
 
 ———————————————————————————————————————  
 
@@ -1659,9 +2097,13 @@ CHAPTER XXVIII**
 
 ****
 
-Opens with the Mantra and description of Dakshināmūrti, an aspect of Shiva. He is seated under a fig tree (Vata) with one hand on His knee. He is white as milk Kshīra) A great serpent is coiled around His waist The crescent moon is on His matted hair. He holds an axe and deer and makes [the auspicious (Bhadra) gesture](# "That is, Jnānamudrā"). He is surrounded by Shuka and other Munis. "May Bhava grant ye purity of mind (Bhāvashuddhi).” Then follows some ritual in His worship.
+Opens with the Mantra and description of Dakshināmūrti, an aspect of Shiva. He is seated under a fig tree (Vata) with one hand on His knee. He is white as milk Kshīra) A great serpent is coiled around His waist The crescent moon is on His matted hair. He holds an axe and deer and makes the auspicious (Bhadra) gesture[^225]. He is surrounded by Shuka and other Munis. "May Bhava grant ye purity of mind (Bhāvashuddhi).” Then follows some ritual in His worship.
 
- Verses 12, 13 give the Mantra of Aghora Rudra and is followed in v. 18 by this invocation. "May Aghora destroy all that is evil to you He is of fierce mien with three eyes and terrific to behold; dark like the black clouds and clad in red raiment. Great serpents cover His body. He holds an axe, drum, sword, shield, bow, arrow, spear and skull. He it is Who devours [inimical Nāgas](# "Serpent Divinities.") and evil planets. He ever grants good (that is, to His worshipper)".
+[^225]: "That is, Jnānamudrā"
+
+ Verses 12, 13 give the Mantra of Aghora Rudra and is followed in v. 18 by this invocation. "May Aghora destroy all that is evil to you He is of fierce mien with three eyes and terrific to behold; dark like the black clouds and clad in red raiment. Great serpents cover His body. He holds an axe, drum, sword, shield, bow, arrow, spear and skull. He it is Who devours inimical Nāgas[^226] and evil planets. He ever grants good (that is, to His worshipper)".
+
+[^226]: "Serpent Divinities."
 
  The ritual is dealt with up to v. 30. The next verse gives the Mrityunjayamantra; and the Dhyāna of this aspect is at v. 33. The remainder of the Chapter deals with Yantra and other ritual details.
 
@@ -1669,13 +2111,35 @@ Opens with the Mantra and description of Dakshināmūrti, an aspect of Shiva. He
 
 **CHAPTER XXIX**
 
- Commences with the Mantra of Ardhanārīshvara^(**1**). The Dhyāna of Umesha is thus given at v. 3 after the invocation "May Īsha ever protect you." His Shakti forms the (left) half of His body. He is three-eyed. On the coils of His matted hair are a serpent, [moon and Ganges](# "See p. 56. n 12."). He holds serpent, axe, spear, sword, [fire](# "Vahni."), skull, arrow and bow. All the Devas lower their heads at His feet,
+ Commences with the Mantra of Ardhanārīshvara^(**1**). The Dhyāna of Umesha is thus given at v. 3 after the invocation "May Īsha ever protect you." His Shakti forms the (left) half of His body. He is three-eyed. On the coils of His matted hair are a serpent, moon and Ganges[^227]. He holds serpent, axe, spear, sword, fire[^228], skull, arrow and bow. All the Devas lower their heads at His feet,
 
- For the attainment of powers (Vibhūti) the Devatā should be meditated upon (v. 4.) as being in one half of His body, a man of ferocious aspect and in the other half as a [voluptuous woman](# "Hāva-bhāva-lalitärdhanarikamṁ. This is the Dhyāna of Ardhanārīshvara; Dhyāna in v. 5 is for Krūraprayoga."), holding in His and Her hands a noose, a red lotus a skull and spear; or (v. 5) She should be thought of as the three-eyed One Who is red of colour, clothed in red raiment, adorned with red ornaments holding a spear in each of Her sixteen uplifted hands.
+[^227]: "See p. 56. n 12."
+
+[^228]: "Vahni."
+
+ For the attainment of powers (Vibhūti) the Devatā should be meditated upon (v. 4.) as being in one half of His body, a man of ferocious aspect and in the other half as a voluptuous woman[^229], holding in His and Her hands a noose, a red lotus a skull and spear; or (v. 5) She should be thought of as the three-eyed One Who is red of colour, clothed in red raiment, adorned with red ornaments holding a spear in each of Her sixteen uplifted hands.
+
+[^229]: "Hāva-bhāva-lalitärdhanarikamṁ. This is the Dhyāna of Ardhanārīshvara; Dhyāna in v. 5 is for Krūraprayoga."
 
  Rules are then given for Japa, Homa and so forth.
 
- The colour of the Deva varies according to the object of worship (v. 13). When worshipped for [Pushtikarma](# "Ritual done to produce nourishment, growth, increase, advance, prosperity, etc.") and [Shāntikarma](# "Ritual done to gain peace of mind and body."), He is white; for [Ākarshana and Vashīkarana](# "Rites done to attract and control respectively. These and the following are magical rites; portions of the sharkarma, etc."), red; for Kshobha and [Saṁstobhana](# "That is, for causing perturbation of the mind and for restraining speech and power of expression."), He is the colour of gold; [in rites done to drive away](# "Uchchātana."), [torment of the body](# "Amgärdana."), the colour of smoke (Dhūmra); in rites [performed to paralyze](# "Stambhana."), yellow; and to gain Liberation, [crytalline white](# "It should be noted that in every case the Mantra also changes.").
+ The colour of the Deva varies according to the object of worship (v. 13). When worshipped for Pushtikarma[^230] and Shāntikarma[^231], He is white; for Ākarshana and Vashīkarana[^232], red; for Kshobha and Saṁstobhana[^233], He is the colour of gold; in rites done to drive away[^234], torment of the body[^235], the colour of smoke (Dhūmra); in rites performed to paralyze[^236], yellow; and to gain Liberation, crytalline white[^237].
+
+[^230]: "Ritual done to produce nourishment, growth, increase, advance, prosperity, etc."
+
+[^231]: "Ritual done to gain peace of mind and body."
+
+[^232]: "Rites done to attract and control respectively. These and the following are magical rites; portions of the sharkarma, etc."
+
+[^233]: "That is, for causing perturbation of the mind and for restraining speech and power of expression."
+
+[^234]: "Uchchātana."
+
+[^235]: "Amgärdana."
+
+[^236]: "Stambhana."
+
+[^237]: "It should be noted that in every case the Mantra also changes."
 
  The ritual in the worship of Ardhanārīshvara is dealt with up to v, 30. At v. 31 the Chanda Mantra and at vv. 36, 37 the Chanda Gāyatrī are given. The Chapter concludes with other details as to the worship of the fierce aspect of Shiva called Chanda.
 
@@ -1689,9 +2153,25 @@ Opens with the Mantra and description of Dakshināmūrti, an aspect of Shiva. He
 
 **CHAPTER XXX.**
 
- This is an important Chapter dealing with the Gāyatrī Mantra In v 5 it is explained how the Pranava^(**1**) produced by Prakriti-vikriti is like the humming of bees in the [Mūlādhāra](# "The lowest of the centres (Shatchakra) See A. Avalon's ") and goes upwards along the channel of the [Sushumnā](# "The nerve (Nadi) of that name v ib") in [seven stages](# "The six Chakras and the Sahasrara See ante p 43 for the seven parts of the Pranava, also below") to the head V 6 enumerates the [seven Vyāhritis](# "That is, the seven upper worlds—Bhūh, Bhuvah, Svah, Mahah, Janah, Tapah, Satyam.") In vv 7-10 Mahāvishnu teaches what these denote Bhūh is mere existence alone (Sanmātra) Bhuvah is elements (Bhūta) and Cause (Kārana). Svah is the Guide and [the Ātmā of all that is](# "Sarvasya sviranāt svātmatayā"); Mahah implies [Greatness and Light](# "Mahattvät cha mahastvät cha,"), Tat, (Brahman) is Janah because [It is all](# "Tadeva sarvajanatā tasmāt tad vyähretirjanah Janata=Janasamuhah") Tapah denotes Jnānatā (All knowledge) and Tāpatā^(**2**) Satyam implies Supremacy and Ātmatva or the natural state of Ātmā, that is, Ātma in itself, and eternal Wisdom (Anantajnāna) The exoteric "worlds" are thus described as stages of being. The letters of the Pranava are then identified with them. A is Bhuh, U is Bhuvah, M is Svah, Mahah is Bindu, Nāda is Janah, Shakti is Tapah, and Shānta is Satyam the highest of these states (vv II, 12).
+ This is an important Chapter dealing with the Gāyatrī Mantra In v 5 it is explained how the Pranava^(**1**) produced by Prakriti-vikriti is like the humming of bees in the Mūlādhāra[^238] See A. Avalon's ") and goes upwards along the channel of the Sushumnā[^239] of that name v ib") in seven stages[^240] to the head V 6 enumerates the seven Vyāhritis[^241] In vv 7-10 Mahāvishnu teaches what these denote Bhūh is mere existence alone (Sanmātra) Bhuvah is elements (Bhūta) and Cause (Kārana). Svah is the Guide and the Ātmā of all that is[^242]; Mahah implies Greatness and Light[^243], Tat, (Brahman) is Janah because It is all[^244] Tapah denotes Jnānatā (All knowledge) and Tāpatā^(**2**) Satyam implies Supremacy and Ātmatva or the natural state of Ātmā, that is, Ātma in itself, and eternal Wisdom (Anantajnāna) The exoteric "worlds" are thus described as stages of being. The letters of the Pranava are then identified with them. A is Bhuh, U is Bhuvah, M is Svah, Mahah is Bindu, Nāda is Janah, Shakti is Tapah, and Shānta is Satyam the highest of these states (vv II, 12).
 
- Having dealt with Om, Mahāvishnu deals with each of the words of the [Gāyatrī Mantra](# "Tat savitur varеnyam bhargo devasya dhimahi dhiyo yo nak prachodayāt.").
+[^238]: "The lowest of the centres (Shatchakra
+
+[^239]: "The nerve (Nadi
+
+[^240]: "The six Chakras and the Sahasrara See ante p 43 for the seven parts of the Pranava, also below"
+
+[^241]: "That is, the seven upper worlds—Bhūh, Bhuvah, Svah, Mahah, Janah, Tapah, Satyam."
+
+[^242]: "Sarvasya sviranāt svātmatayā"
+
+[^243]: "Mahattvät cha mahastvät cha,"
+
+[^244]: "Tadeva sarvajanatā tasmāt tad vyähretirjanah Janata=Janasamuhah"
+
+ Having dealt with Om, Mahāvishnu deals with each of the words of the Gāyatrī Mantra[^245].
+
+[^245]: "Tat savitur varеnyam bhargo devasya dhimahi dhiyo yo nak prachodayāt."
 
  Tat is in the accusative singular By it reference is made to the first Cause of all substance (Vastu). It exists in the form of fire and energy (Tejorūpa) in the disc of the Sun (Ādityamandala). It means the ever-blissful and Supreme Brahman Savituh is in the genitive singular and is derived from a root which means to bring forth By this word is implied the source of all animate beings It is called Vareny-
 
@@ -1707,9 +2187,15 @@ Opens with the Mantra and description of Dakshināmūrti, an aspect of Shiva. He
 
 am because it is the Excellent One to Whom service should be rendered, adoration offered, and prayer said. The text reads these three words as composed of eight letters (Akshara) and says that their Vyāhriti is Bhūh.
 
- Bharga is so called because It destroys sin and is propitious to the devotee. Devasya implies that It has the luminous quality of light and is possessed of the power of giving rain and the like. Dhīmahi is derived from the root dhyai which means to think. "Let us here remember that the Deva who can be seen by the celestial eyes of [Nigama](# "A term for the Veda, and in the special sense Tantra.") and knowledge (Vidyā) is golden (Hiranmaya) and ever in the Sun, His lustre knows no diminution. Ever should we think what is subtle that I am (yah sūkshmah so'ham)." Bhuvah is the Vyāhriti of these second three words composed of eight letters.
+ Bharga is so called because It destroys sin and is propitious to the devotee. Devasya implies that It has the luminous quality of light and is possessed of the power of giving rain and the like. Dhīmahi is derived from the root dhyai which means to think. "Let us here remember that the Deva who can be seen by the celestial eyes of Nigama[^246] and knowledge (Vidyā) is golden (Hiranmaya) and ever in the Sun, His lustre knows no diminution. Ever should we think what is subtle that I am (yah sūkshmah so'ham)." Bhuvah is the Vyāhriti of these second three words composed of eight letters.
 
- [Dhiyo](# "Dhiyah, changed by the rule of Sandhi.") means Buddhi in the accusative plural. Yo is Yah, the masculine gender being here used for [the neuter](# "Yat as corresponding with Tat.") for the sake of the metre. It therefore stands for Yat. This Yat is the incomparable Energy (Tejas) which pervades all the Vedas. It destroys the sin of the devotee. Nah (our) is the genitive plural of Asmad. Prachodayāt means "May it send us in the path of prayer” (Prārthanā)^(**1**). Svah is the Vyāhriti of the third set of eight letters (vv. 13-26).
+[^246]: "A term for the Veda, and in the special sense Tantra."
+
+ Dhiyo[^247] means Buddhi in the accusative plural. Yo is Yah, the masculine gender being here used for the neuter[^248] for the sake of the metre. It therefore stands for Yat. This Yat is the incomparable Energy (Tejas) which pervades all the Vedas. It destroys the sin of the devotee. Nah (our) is the genitive plural of Asmad. Prachodayāt means "May it send us in the path of prayer” (Prārthanā)^(**1**). Svah is the Vyāhriti of the third set of eight letters (vv. 13-26).
+
+[^247]: "Dhiyah, changed by the rule of Sandhi."
+
+[^248]: "Yat as corresponding with Tat."
 
  This Mantra of ten words is thus divided into three sections of eight letters each; but it can also be divided into four sections of six letters each. The Mahāvishnu concludes by saying "May the excellent and Supreme Spirit (Bharga) of the Creative Lord (Deva Savitā) on Whom we meditate ever guide and direct our minds."
 
@@ -1727,9 +2213,17 @@ am because it is the Excellent One to Whom service should be rendered, adoration
 
 
 
-Bhuvah, Svah, It has already been shown that "So'ham" "I am He" is Oṁ Thus this Mantra is [the Shirah of the Gāyatrī](# "The Mantra at p 61 n 5 always precedes the Gāyatri.") Thus concluding the exposition of the points (Lakshana) of the Mantra, Mahāvishnu says that the faithful Sādhaka who [worships with desire](# "That is Sakāma Sadhana or worship done to gain an object") obtains the fulfilment thereof and he who seeks Liberation gets it.
+Bhuvah, Svah, It has already been shown that "So'ham" "I am He" is Oṁ Thus this Mantra is the Shirah of the Gāyatrī[^249] Thus concluding the exposition of the points (Lakshana) of the Mantra, Mahāvishnu says that the faithful Sādhaka who worships with desire[^250] obtains the fulfilment thereof and he who seeks Liberation gets it.
 
- Then follow rules of ablutions in Gāyatrī Sādhana. Vv. 40-45 deal with the Rishis, Devatās and metre of Pranava, the Vyāhritis and the Gāyatrī. The mode of doing Nyāsa is also stated. Verses 46-50 describe the way Upāsanā, Japa, [Svādhyāya](# "Rite whereby oneness of the Mantra with the Devata thereof is realised"), Prāṇāyāma and Dhyāna in Her subtle form, of the Gāyatrī are to be done V 60 gives a Dhyāna of [Tārinī (Gāyatrī)](# "She who saves for that is what of the Gayatri mantra does to its singer."), in her gross form with four faces which are white, yellow, red and black, Her body being composed of the 24 letters of the Gāyatrī V. 61 speaks of the worship of the Sun and His Shaktis. Mahāvishnu concludes by saying "I have now spoken of the secret of the Vedas knowable only by very pure Yogīs He who in his Japa, Homa and Dhyāna worships Oṁkāra in this way is freed of all Karma and attains Liberation."
+[^249]: "The Mantra at p 61 n 5 always precedes the Gāyatri."
+
+[^250]: "That is Sakāma Sadhana or worship done to gain an object"
+
+ Then follow rules of ablutions in Gāyatrī Sādhana. Vv. 40-45 deal with the Rishis, Devatās and metre of Pranava, the Vyāhritis and the Gāyatrī. The mode of doing Nyāsa is also stated. Verses 46-50 describe the way Upāsanā, Japa, Svādhyāya[^251], Prāṇāyāma and Dhyāna in Her subtle form, of the Gāyatrī are to be done V 60 gives a Dhyāna of Tārinī (Gāyatrī)[^252], in her gross form with four faces which are white, yellow, red and black, Her body being composed of the 24 letters of the Gāyatrī V. 61 speaks of the worship of the Sun and His Shaktis. Mahāvishnu concludes by saying "I have now spoken of the secret of the Vedas knowable only by very pure Yogīs He who in his Japa, Homa and Dhyāna worships Oṁkāra in this way is freed of all Karma and attains Liberation."
+
+[^251]: "Rite whereby oneness of the Mantra with the Devata thereof is realised"
+
+[^252]: "She who saves for that is what of the Gayatri mantra does to its singer."
 
 ————  
 
@@ -1737,11 +2231,15 @@ Bhuvah, Svah, It has already been shown that "So'ham" "I am He" is Oṁ Thus thi
 
 ****
 
-Commences with the [Trishtubh Mantra](# "See Sharadātilaka, Ch xx1, vv, 32 et, seq. Raghava gives the Mantra and other details The Devata of the Mantra is Agni") which is Vedik; the Dhyāna of the Adhi-Devī of the Mantra who is Kātyāyanī is given in v. 9 and Her nine Shaktis in vv. 13, 14. In vv 18-23 are to be found the names of the Shaktis of the letters of the Mantra. It is noted that the number of Japa prescribed (v. 25) for this Mantra is twice that of the Gāyatrī The Mantra which is composed of 44 letters, if reversed, becomes the (v. 29) Astra (weapon) mantra and is divided into eight sections which are identified with various things, the senses of knowledge, the senses of action, the five elements and so forth (vv. 30-34). From these 44 letters issue 44 Vahni Devatās, each of whom is attended by 5 Shaktis, each of whom is attended by five handmaidens, each of whom is again attended by 16 handmaidens, each of whom again is attended by millions upon millions of handmaidens (40-43).
+Commences with the Trishtubh Mantra[^253] which is Vedik; the Dhyāna of the Adhi-Devī of the Mantra who is Kātyāyanī is given in v. 9 and Her nine Shaktis in vv. 13, 14. In vv 18-23 are to be found the names of the Shaktis of the letters of the Mantra. It is noted that the number of Japa prescribed (v. 25) for this Mantra is twice that of the Gāyatrī The Mantra which is composed of 44 letters, if reversed, becomes the (v. 29) Astra (weapon) mantra and is divided into eight sections which are identified with various things, the senses of knowledge, the senses of action, the five elements and so forth (vv. 30-34). From these 44 letters issue 44 Vahni Devatās, each of whom is attended by 5 Shaktis, each of whom is attended by five handmaidens, each of whom is again attended by 16 handmaidens, each of whom again is attended by millions upon millions of handmaidens (40-43).
+
+[^253]: "See Sharadātilaka, Ch xx1, vv, 32 et, seq. Raghava gives the Mantra and other details The Devata of the Mantra is Agni"
 
 
 
- In v. 48 the [Nakshatras](# "See p. 25, n, 5 ante.") are divided into three classes; human (Mānusha), demonic (Asura) and celestial (Daiva). Their place in magical rites is also shown.
+ In v. 48 the Nakshatras[^254] are divided into three classes; human (Mānusha), demonic (Asura) and celestial (Daiva). Their place in magical rites is also shown.
+
+[^254]: "See p. 25, n, 5 ante."
 
  From verse 55 to the end of the Chapter Mahāvishnu speaks of the magical rites relating to Stambhana, Vashīkarana, Ākarshana, Vidveshana, Vimohana, Mārana, Aṁgahānikarana^(**1**) and so forth; and the means to be taken to counteract these operations when done by others. It is noteworthy here and in many other places that the most diverse matters are placed together. This is also the case with many verses which seem hardly in their proper place, suggesting a doubt as to the accuracy of the order in which the copying has been done.
 
@@ -1750,14 +2248,18 @@ CHAPTER XXXII**
 
 ****
 
-Deals with the Lavana Mantra and Mārana, Vashīkarana and other magical rites. Verse 8 gives the Dhyāna of Katyāyanī a form of Durgā. Her body is like the ["friend of air"](# "Pavanasakha: Fire is so called."). She has three eyes and wears a bright crown. She holds discus (Chakra), conch, sword and spear and is the Destructress of many Daityas. Dhyānas are also given of Rātri (night), Agni and Bhadrakālī with prayers to these Deities. The fifth Mantra, it is said, is from the Atharva Veda.
+Deals with the Lavana Mantra and Mārana, Vashīkarana and other magical rites. Verse 8 gives the Dhyāna of Katyāyanī a form of Durgā. Her body is like the "friend of air"[^255]. She has three eyes and wears a bright crown. She holds discus (Chakra), conch, sword and spear and is the Destructress of many Daityas. Dhyānas are also given of Rātri (night), Agni and Bhadrakālī with prayers to these Deities. The fifth Mantra, it is said, is from the Atharva Veda.
+
+[^255]: "Pavanasakha: Fire is so called."
 
 **————  
 CHAPTER XXXIII**
 
 ****
 
-Deals with the [Anushtubh Mantra](# "The Shāradātilaka, Ch. xxiii, deals with this Mantra and Rāghaya cites it.") of 32 letters which is Vedik; the Dhyāna of the Deva of the Mantra who is Rudra is given in v. 8 and the 32 Shaktis in vv. 12-14. Then follow ritual details. At vv. 27, 28, a Mantra of a 100 letters (Shatākshara) is mentioned. It is formed by the junction of Gāyatrī, Trishtubh and Anushtubh Mantras. These three Mantras are respectively Sun, Fire and Moon. The Devatā of the combined Mantra is (v. 31) the supreme Mahah who grants Liberation and of whom Shruti speaks. Vv. 60 et seq give the Nyāsa and other rites in connection
+Deals with the Anushtubh Mantra[^256] of 32 letters which is Vedik; the Dhyāna of the Deva of the Mantra who is Rudra is given in v. 8 and the 32 Shaktis in vv. 12-14. Then follow ritual details. At vv. 27, 28, a Mantra of a 100 letters (Shatākshara) is mentioned. It is formed by the junction of Gāyatrī, Trishtubh and Anushtubh Mantras. These three Mantras are respectively Sun, Fire and Moon. The Devatā of the combined Mantra is (v. 31) the supreme Mahah who grants Liberation and of whom Shruti speaks. Vv. 60 et seq give the Nyāsa and other rites in connection
+
+[^256]: "The Shāradātilaka, Ch. xxiii, deals with this Mantra and Rāghaya cites it."
 
 ———————————————————————————————————————  
 
@@ -1783,7 +2285,13 @@ CHAPTER XXXV**
 
 Gives the Prānapratishthā Mantra used in the invocation of the Devatā into the Yantra or image to be worshipped.
 
- At v. 7, a Dhyāna of Prānashakti is given in which She is represented as of the colour of the rising sun with three eyes and large full [rounded breasts](# "Pīnavakshoruhādhyā") seated on a full blown lotus which is on a boat in an ocean of blood (Raktāmbhodhi); holding a noose, a bow of sugarcane, a goad, [five arrows](# "See A & E Avalon's ") and [Asrik-kapāla](# "Skull full of blood") Her Dūtīs or Shaktis are stated in Verse 12
+ At v. 7, a Dhyāna of Prānashakti is given in which She is represented as of the colour of the rising sun with three eyes and large full rounded breasts[^257] seated on a full blown lotus which is on a boat in an ocean of blood (Raktāmbhodhi); holding a noose, a bow of sugarcane, a goad, five arrows[^258] and Asrik-kapāla[^259] Her Dūtīs or Shaktis are stated in Verse 12
+
+[^257]: "Pīnavakshoruhādhyā"
+
+[^258]: "See A & E Avalon's "
+
+[^259]: "Skull full of blood"
 
 **————  
 CHAPTER XXXVI**
@@ -1798,7 +2306,11 @@ Begins with some verses as to the causes of childlessness which are put down to 
 
  Mahāvishnu then speaks of the devotion which a disciple should exhibit towards his Guru or spiritual director and which is to be like that which should be shown to mother and father, to Vishnu and Shiva (vv. 51-52). One should not cross anything belonging to, or connected with the Guru, not even his shadow; nor should there be association with his enemy. Great reverence and selfrestraint should be shown whilst in his house. Therein there should be no anger and quarelling, lust, loud talk, lies, sloth and idle disputation; nor any easing of nature, sexual intercourse, spitting, vomiting; or traffic by way of buying, selling, or lending (vv. 53-55). The Guru's command should not be disobeyed. What he orders, that the disciple should do at once and unhesitatingly and without attempting to discuss whether it is right or wrong^(**1**). In short the disciple should by action, mind and speech, worship his Guru with a guileless and faithful heart. At v. 59 it is said that one should never do anything which offends others, however much we may desire it even in so small a matter as dress.
 
- At v. 62 Mahāvishnu addressing Brahmā says "Oh Lotusborn One, [in this Tantra](# "Tantre'smin. See ante p 4") I have shown thee the [Prapancha](# "See ante p. I.") in its five-fold aspect."
+ At v. 62 Mahāvishnu addressing Brahmā says "Oh Lotusborn One, in this Tantra[^260] I have shown thee the Prapancha[^261] in its five-fold aspect."
+
+[^260]: "Tantre'smin. See ante p 4"
+
+[^261]: "See ante p. I."
 
  This Chapter and the work concludes with the following invocation.
 
@@ -1814,12 +2326,20 @@ Tvarayā parayā kuryād buddhyā samyag ajihmayā (V. 56).
 
 
 Obeisance to Him  
-Who is Energy and [Light](# "Tejas.") itself  
-In Whom are the products of [Prakrıtı](# "Lit. the Vikritis of Prakriti See ante p 7."),  
-[Sun, Moon and Fire](# "Not merely the luminaries and elements so named but that also for which they stand as symbols")  
-Which have sprung from the Tāra and [other Bījas](# " That is, from Oṁ and other ")  
+Who is Energy and Light[^262] itself  
+In Whom are the products of Prakrıtı[^263],  
+Sun, Moon and Fire[^264]  
+Which have sprung from the Tāra and other Bījas[^265]  
 And which have their motion and increase  
 In Him
+
+[^262]: "Tejas."
+
+[^263]: "Lit. the Vikritis of Prakriti See ante p 7."
+
+[^264]: "Not merely the luminaries and elements so named but that also for which they stand as symbols"
+
+[^265]: " That is, from Oṁ and other "
 
 
 
@@ -9889,3 +10409,304 @@ June 1935.
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^199]: "The Devatās of those names."
+
+
+[^188]: "Lakshmi."
+
+
+[^167]: "See last note."
+
+
+[^152]: "The subtle states (bhāva
+
+
+[^151]: "The subtle states (bhāva
+
+
+[^111]: "Maheshi"
+
+
+[^108]: "Maheshi"
+
+
+[^101]: "Ishi."
+
+
+[^56]: "See Introduction to my book "
+
+
+[^28]: "V ante, p II"
+
+
+[^6]: "See note at p. 29 post."

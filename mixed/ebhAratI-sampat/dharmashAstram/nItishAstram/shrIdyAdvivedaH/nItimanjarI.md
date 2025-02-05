@@ -156,7 +156,9 @@ Sept. 27, 33. **
 
  अथास्माकमयं महाहर्षस्य विषयः खलु यद्वयं श्रीमद्द्याद्विवेदाह्वयैः प्रणीतं नीतिमञ्जर्याख्यमनुपममपूर्वं वैदिकलौकिकग्रन्थं मुद्रयित्वा पाठकानां विदुषां सादरावलोकनार्थं प्रकाशीकुर्मः। ग्रन्थस्यास्यानुपमेयतेयमेव यद् विद्यमानानां बहूनां सुभाषितग्रन्थानामेकोऽपि नैतादृशो दरीदृश्यते यादृगयम् यो वैदिकाख्यानजातस्य सुपरिचयाद्विनाऽवगन्तुं कथमपि न शक्यः। अपूर्वत्वमप्यस्य तदेव यदस्माभिरीदृक्सुभाषितवचनद्वारा वेदार्थपरिचयं विदधानोऽन्यो ग्रन्थोऽद्यापि न दृष्टचरः। अतोऽस्माभिरस्य मुद्रणे परमादरो विहितः। सोऽयमस्मदुद्योगः स्वान्तं विदुषां सन्तोषयितुं सफलीभूयादित्याशास्महे।
 
- ग्रन्थकृद्द्याद्विवेदी द्विवेदी द्याह्वयो वा स्वचरित्रविषये नीतिमञ्जर्या आदावन्ते च किञ्चित्कारं वक्ति येन ज्ञायतेऽयं मुकुन्दद्विवेदस्य नप्ता श्रीमदत्रेः पौत्रो लक्ष्मीलक्ष्मीधरयोः पुत्र इति। अयं मुकुन्दद्विवेदो ग्रन्थकारस्य बहुमत आसीद् यत् स वेदवेदाङ्ग तत्त्वज्ञ इति स्मृतिसन्दीक्षित इति प्रभुरिति सम्बोधितो [दृश्यते](# "दिवाकरं प्रणम्यादौ मुकुन्दञ्च द्विवेदिनम्। वेदवेदाङ्गतत्त्वज्ञंस्मृतिसन्दीक्षितं प्रभुम्॥ इत्यादि पृ०९")। द्याद्विवेदोऽपि तादृगेव विपश्चिदासीत्। अयमृगवेदी शाङ्खायनशाखाध्यायी सूर्योपासकोऽत्रिगोत्रोत्पन्नो बभूवेति मङ्गलाचरणेन तथा ग्रन्थस्थवचनैरनुमीयते। यौवने एवानेनायं ग्रन्थो निर्मित इति स्वयमेव कथितम्। वेदवेदाङ्गशास्त्रेषु कृतभूरिपरिश्रमः एकादशप्रकारैः संहितापाठतत्परः। वेदार्थान् वेदभाष्येभ्यो वेदपरिशिष्टग्रन्थेभ्यो ब्राह्मणसूत्रग्रन्थेभ्यश्चावलोक्य विचार्य च स्मृतीतिहासग्रन्थांश्च परिशील्य नीतिधर्मोपदेशद्वारा वेदपरिचायकमिमं बहुमूल्यं सुभाषितग्रन्थं प्रणीतवान् ग्रन्थकारः। अनेनानया वेदार्थप्रकाशिन्या स्वकृत्या
+ ग्रन्थकृद्द्याद्विवेदी द्विवेदी द्याह्वयो वा स्वचरित्रविषये नीतिमञ्जर्या आदावन्ते च किञ्चित्कारं वक्ति येन ज्ञायतेऽयं मुकुन्दद्विवेदस्य नप्ता श्रीमदत्रेः पौत्रो लक्ष्मीलक्ष्मीधरयोः पुत्र इति। अयं मुकुन्दद्विवेदो ग्रन्थकारस्य बहुमत आसीद् यत् स वेदवेदाङ्ग तत्त्वज्ञ इति स्मृतिसन्दीक्षित इति प्रभुरिति सम्बोधितो दृश्यते[^1]। द्याद्विवेदोऽपि तादृगेव विपश्चिदासीत्। अयमृगवेदी शाङ्खायनशाखाध्यायी सूर्योपासकोऽत्रिगोत्रोत्पन्नो बभूवेति मङ्गलाचरणेन तथा ग्रन्थस्थवचनैरनुमीयते। यौवने एवानेनायं ग्रन्थो निर्मित इति स्वयमेव कथितम्। वेदवेदाङ्गशास्त्रेषु कृतभूरिपरिश्रमः एकादशप्रकारैः संहितापाठतत्परः। वेदार्थान् वेदभाष्येभ्यो वेदपरिशिष्टग्रन्थेभ्यो ब्राह्मणसूत्रग्रन्थेभ्यश्चावलोक्य विचार्य च स्मृतीतिहासग्रन्थांश्च परिशील्य नीतिधर्मोपदेशद्वारा वेदपरिचायकमिमं बहुमूल्यं सुभाषितग्रन्थं प्रणीतवान् ग्रन्थकारः। अनेनानया वेदार्थप्रकाशिन्या स्वकृत्या
+
+[^1]: "दिवाकरं प्रणम्यादौ मुकुन्दञ्च द्विवेदिनम्। वेदवेदाङ्गतत्त्वज्ञंस्मृतिसन्दीक्षितं प्रभुम्॥ इत्यादि पृ०९"
 
 स्थानुरयं भारहारः किलाभूदधीत्य वेदं न विजानाति योऽर्थम्।  
 अर्थज्ञ इत्सकलं भद्रमश्नुते नाकमेति ज्ञानावधूतपाप्मा॥
@@ -214,7 +216,11 @@ Sept. 27, 33. **
 
 of Vedic mythology. The reas are in themselves a very happy and helpful selection of Ṛgvedic mantras both from mythological as well as exegetical points of view. If they are properly studied with the help of the comments and notes supplied by the author they form surely a very good introduction to the study of Vedic literature in general and Ṛgveda in particular.
 
- It has been realised by scholars, [ancient](# "इतिहास पुराणाभ्यां वेदं समुपबृंहयेत् । बिभेत्यल्पश्रुताद्वेदो मामयं प्रहरेदिति ॥ म० भा० १।१।२६७ अविदित्वा ऋषिं छन्दो दैवतं योगमेव च । अध्यापयेद् जपेद्वापि पापीयाञ्जायते तु सः ॥ V. D. 1. 2. उपदेशाय ग्लायन्तोऽवरे बिल्मग्रहणायेमं ग्रन्थं समान्नासिषुः वेदं च Nir. I. 20.")and [modern](# " Cf. Whitney's remarks, on the need of systematic commentary on the Rigveda, in editorial preface p. XXXVII, to Whitney's Atharvaveda (H. O. S.Vol. 7.)"),that none can safely sail through the ocean of the Vedas without equipping oneself properly with an exact knowledge of a number of sciences and lores. Among these, the knowledge of legends connected with ṛsis, devatas etc. is imperatively essential. But such a specialised knowledge can be had only after years of patient labour and under proper guidance. Here in Nitimanjari, we find Dya Dviveda imparting that knowledge to us in an easy and attractive manner and thus preparing us for further studies of deep and diversified nature. Nitimanjari is thus intended for and is in fact useful to both a specialist as well as to a lay man. It is equally
+ It has been realised by scholars, ancient[^2]and modern[^3]"),that none can safely sail through the ocean of the Vedas without equipping oneself properly with an exact knowledge of a number of sciences and lores. Among these, the knowledge of legends connected with ṛsis, devatas etc. is imperatively essential. But such a specialised knowledge can be had only after years of patient labour and under proper guidance. Here in Nitimanjari, we find Dya Dviveda imparting that knowledge to us in an easy and attractive manner and thus preparing us for further studies of deep and diversified nature. Nitimanjari is thus intended for and is in fact useful to both a specialist as well as to a lay man. It is equally
+
+[^2]: "इतिहास पुराणाभ्यां वेदं समुपबृंहयेत् । बिभेत्यल्पश्रुताद्वेदो मामयं प्रहरेदिति ॥ म० भा० १।१।२६७ अविदित्वा ऋषिं छन्दो दैवतं योगमेव च । अध्यापयेद् जपेद्वापि पापीयाञ्जायते तु सः ॥ V. D. 1. 2. उपदेशाय ग्लायन्तोऽवरे बिल्मग्रहणायेमं ग्रन्थं समान्नासिषुः वेदं च Nir. I. 20."
+
+[^3]: " Cf. Whitney's remarks, on the need of systematic commentary on the Rigveda, in editorial preface p. XXXVII, to Whitney's Atharvaveda (H. O. S.Vol. 7.
 
 
 
@@ -288,7 +294,9 @@ All the original texts from which the passages are quoted, have also been useful
 
 10. The Samhita and Pada-texts of the Rgveda.
 
-11. [Nighantu](# "The other texts may be learnt from the Appendix 3 of the book,")with Yāska's Nirukta.
+11. Nighantu[^4]with Yāska's Nirukta.
+
+[^4]: "The other texts may be learnt from the Appendix 3 of the book,"
 
  All these MSS and the texts have been of very great service in correcting the MSS and determining the readings.
 
@@ -311,8 +319,10 @@ All the original texts from which the passages are quoted, have also been useful
 
 
 
-authority for the elucidation of his theme, nowhere makes particular references to them, though he has taken care to quote them with general references such as, **निगमान्तरब्राह्मण,** or some name of the Brāhmana such as, **कौषीतकीशतपथ** etc.,**यास्क, निरुक्त, बृहद्देवता, मनु, याज्ञवल्क्य, चारुचर्या**etc. I have thought it proper to make these general references as exact as possible by tracing them out in their particular texts. Although every ethical maxim versified, commented upon and elucidated by the explanation of the Vedic passages, is quite independent of another, the Vedic references embedded in them follow the order of the divisional system of the Ṛk Samhita which is noted on the margin of each page. This order, once or twice has been reversed in the texts of the MSS, which has been set aright here. On the top of each page both the divisional system of the Ṛk Samhita is maintained; thus on the right the division into Mandalas, hymns and Rcas are noted and on the left the division of Aṣṭakas, Adhyāyas and Vargas are marked. To maintain the symmetry of the work the remarks such as, **'ॠचोऽयमर्थः', 'तथा च बृहद्देवता'** etc. are inserted where they were wanting in the original, just in the manner in which the author himself has inserted them elsewhere. In many places it is found that the passages cited from the texts such as the Brhaddevatā, Vedārthadīpikā etc, are very corrupt, incorrect and sometimes insufficient too; these have been duly restored from their original texts, now available in print. Sometimes the readings of the**'ग’**MS. have proved superior to even those of the printed [texts.](# " The important texts of this kind have briefly been reffered to on pp. V-VI")
+authority for the elucidation of his theme, nowhere makes particular references to them, though he has taken care to quote them with general references such as, **निगमान्तरब्राह्मण,** or some name of the Brāhmana such as, **कौषीतकीशतपथ** etc.,**यास्क, निरुक्त, बृहद्देवता, मनु, याज्ञवल्क्य, चारुचर्या**etc. I have thought it proper to make these general references as exact as possible by tracing them out in their particular texts. Although every ethical maxim versified, commented upon and elucidated by the explanation of the Vedic passages, is quite independent of another, the Vedic references embedded in them follow the order of the divisional system of the Ṛk Samhita which is noted on the margin of each page. This order, once or twice has been reversed in the texts of the MSS, which has been set aright here. On the top of each page both the divisional system of the Ṛk Samhita is maintained; thus on the right the division into Mandalas, hymns and Rcas are noted and on the left the division of Aṣṭakas, Adhyāyas and Vargas are marked. To maintain the symmetry of the work the remarks such as, **'ॠचोऽयमर्थः', 'तथा च बृहद्देवता'** etc. are inserted where they were wanting in the original, just in the manner in which the author himself has inserted them elsewhere. In many places it is found that the passages cited from the texts such as the Brhaddevatā, Vedārthadīpikā etc, are very corrupt, incorrect and sometimes insufficient too; these have been duly restored from their original texts, now available in print. Sometimes the readings of the**'ग’**MS. have proved superior to even those of the printed texts.[^5]
 
+
+[^5]: " The important texts of this kind have briefly been reffered to on pp. V-VI"
 
 
  The author of the Nītimanjarī, out of Vedabhāṣya, has selected generally the only one, viz. the Aitihāsika interpretation of Sāyana wherever he gives two; many times in ascertaining the word-meaning Dyā Dviveda has had direct recourse to the Nighantu and Yāska's Nirukta, thus differing totally from Sāyana; Pānini's rules are briefly explained. But all this sometimes leads to slight indistinctness of the meaning or explanation. To remove this drawback, if it ever be such, I have taken care to supplement them with extracts from the Vedābhaāya of Sāyana in the form of copious foot-notes. Many a time small particles and the words left have been restored in the body of the work itself by enclosing them in the brackets.
@@ -323,7 +333,11 @@ authority for the elucidation of his theme, nowhere makes particular references 
 
 **The Summaryof the contentsof theNītimanjarī**
 
- The work is a collection of some 166 ethical maxims which are always quoted at the beginning in a few words such as **'सोमसुत् धन्य इत्याह'** or **पुंसां****दाता श्रेष्ठ इत्यर्थ आह'** etc. This maxim is then put in a verse the second half being intended or reserved for the elucidation of it by adducing some reference to the rca or its legend. Thus these verses also amount to the same number, viz. 166. Then follows the author's own commentary, where the words are always explained with due references to Panini's sutras, rules of Patañjali's Mahābhāsya, Nighantu, Nirukta etc. Sometimes the author in his own commentary even adduces passages from the axcillary texts of the Vedas such as the Brāhmanas, Āranyakas and the Upanisads with the Śrauta and Grhya Sutras and some times the parallel texts of the Samhita itself are quoted, which fact betrays profound knowledge of the Vedic texts on the part of the author. In each of these verses there is generally only one Vedic reference but sometimes there are two, the same verse being repeated twice in their respective places. Sometimes under the same maxim, a number of Vedic verses are [quoted,](# "Vide p. 230 where no less than seven consecutive rcas are quoted and explained; cf also p. 289.") thus leading to the increase of the total number of verses which go to amount to 188. It has been already told that these Vedic verses are quoted and arranged according to the order in the Ṛk Samhita, thus being divided into 8 Aṣtakas corresponding to those of the [samhita](# "This order has been slightly reversed in the MSS which has been marked on pp. 51 and 287 of this book.").The
+ The work is a collection of some 166 ethical maxims which are always quoted at the beginning in a few words such as **'सोमसुत् धन्य इत्याह'** or **पुंसां****दाता श्रेष्ठ इत्यर्थ आह'** etc. This maxim is then put in a verse the second half being intended or reserved for the elucidation of it by adducing some reference to the rca or its legend. Thus these verses also amount to the same number, viz. 166. Then follows the author's own commentary, where the words are always explained with due references to Panini's sutras, rules of Patañjali's Mahābhāsya, Nighantu, Nirukta etc. Sometimes the author in his own commentary even adduces passages from the axcillary texts of the Vedas such as the Brāhmanas, Āranyakas and the Upanisads with the Śrauta and Grhya Sutras and some times the parallel texts of the Samhita itself are quoted, which fact betrays profound knowledge of the Vedic texts on the part of the author. In each of these verses there is generally only one Vedic reference but sometimes there are two, the same verse being repeated twice in their respective places. Sometimes under the same maxim, a number of Vedic verses are quoted,[^6] thus leading to the increase of the total number of verses which go to amount to 188. It has been already told that these Vedic verses are quoted and arranged according to the order in the Ṛk Samhita, thus being divided into 8 Aṣtakas corresponding to those of the samhita[^7].The
+
+[^6]: "Vide p. 230 where no less than seven consecutive rcas are quoted and explained; cf also p. 289."
+
+[^7]: "This order has been slightly reversed in the MSS which has been marked on pp. 51 and 287 of this book."
 
 
 
@@ -335,15 +349,19 @@ only one explanation when there are two or more, and some. times rejecting Sāya
 legend either from the Vedābhasya itself or where there is no legend in the Vedabhāsya, it is sought for from the other texts such as the Brhaddevatā or Vedārthadīpika. Sometines the legends quoted in the Vedabhāsya at the head of some other rcas are sought for for this purpose elsewhere.
 
  The originality of the author lies in quoting or adducing the passages from the various ancillary texts of the Vedas for the support of his statement. These texts are quite different from those quoted by Sāyanācārya. For the application or viniyôga of the ṛcas,
-Śayanācārya always quotes Āśvalāyana Srauta[sutra](# "Asvalayana Srauta and Grhya sutras are quoted only once by our author where Sayana is silent. Cf. appendix 3.")whereas
+Śayanācārya always quotes Āśvalāyana Srautasutra[^8]whereas
 our author has invariably quoted
+
+[^8]: "Asvalayana Srauta and Grhya sutras are quoted only once by our author where Sayana is silent. Cf. appendix 3."
 
 
 
 Sāmkhāyana Śrauta Sūtra. Another such text, not at all quoted by Sāyana, is the Rk Prātisākhya which is used by our author in pointing out peculiarities of the Samhita and Pada texts. Our author has always adduced passages from the Kausītaki, Tāndya and Śatapatha Brāhmanas where Śayanācārya passes on silently, thus manifesting his acquaintance with these texts. Our author's perfect knowledge of the Nighanṭu and the Nirukta is also quite manifest from the copious adducement of the passages from these works. In the end the authorhas many a time shown his close familiarity with the Ṛk Samhita itself by adducing rcas parallel to those utilised in Nītimanjarī.
 
- Besides the citation of these principal and ancillary texts of the Vedas, our author has often had a recourse to the number of classical works bearing the same topic, the chief of them being, Manu Smriti, Yājnavalkya Smriti, Mahābhārata, Bhagawadgīta, Ksemendra's Cārucārya and Hitopadesa etc. The author thus has taken much pains in making his book as learned, interesting and useful as he could. After perusing the book, one cannot but be reminded of the words of Dr. Whitney on the need of the systematic commentary upon the [Ṛgveda](# "Vide Whitney Atharveda Vol. 7 (H. O. S. ), preface p. XXXVII").
+ Besides the citation of these principal and ancillary texts of the Vedas, our author has often had a recourse to the number of classical works bearing the same topic, the chief of them being, Manu Smriti, Yājnavalkya Smriti, Mahābhārata, Bhagawadgīta, Ksemendra's Cārucārya and Hitopadesa etc. The author thus has taken much pains in making his book as learned, interesting and useful as he could. After perusing the book, one cannot but be reminded of the words of Dr. Whitney on the need of the systematic commentary upon the Ṛgveda[^9], preface p. XXXVII").
 That scholar has remarked:-"That commentary should be as much better and as much wider in its scope as it can be made by the next generation of scholars; for it will certainly not be the work of any one man alone; it is a multifarious work for which many elaborate preparations
+
+[^9]: "Vide Whitney Atharveda Vol. 7 (H. O. S.
 
 
 
@@ -370,25 +388,53 @@ which bear upon them". This remark of Whitney appropriately applies itself to th
 **श्रीमुकुन्दाद्विजातोऽत्रिरत्रेर्लक्ष्मीधरो महान्।  
 तस्य लक्ष्मीर्महादेवी द्याद्विवेदमजीजनत्॥**
 
- From this it is quite clear that Dyā Dviveda's parents were Lakṣmi and Lakṣmīdhara, his grand-father was Atri, and his great-grand-father, Mukunda. In the introductory verse of the book itself Dyā Dviveda has told us the same thing. Mukunda Dviveda must have been a very learned man as Dyā Dviveda reveres him above his father and grand-father. His family deity seems to be the Sun-god who is mentioned as freed from Rahu by the Atris. This leads us to infer that Dyā Dviveda might have belonged to the Atri gotra. The verses at the beginning of the**'ग'**ms.tell us something more about our author. It is told there that this Mukunda Dviveda was the realiser of the essential truth of the Vedas with their [aṅgas](# "दिवाकरं प्रणम्यादौ मुकुन्दञ्च द्विवेदिनम्। वेदवेदाङ्गतत्वज्ञं स्मृतिसन्दीक्षितं प्रभुम्॥"). He was conse-
+ From this it is quite clear that Dyā Dviveda's parents were Lakṣmi and Lakṣmīdhara, his grand-father was Atri, and his great-grand-father, Mukunda. In the introductory verse of the book itself Dyā Dviveda has told us the same thing. Mukunda Dviveda must have been a very learned man as Dyā Dviveda reveres him above his father and grand-father. His family deity seems to be the Sun-god who is mentioned as freed from Rahu by the Atris. This leads us to infer that Dyā Dviveda might have belonged to the Atri gotra. The verses at the beginning of the**'ग'**ms.tell us something more about our author. It is told there that this Mukunda Dviveda was the realiser of the essential truth of the Vedas with their aṅgas[^10]. He was conse-
+
+[^10]: "दिवाकरं प्रणम्यादौ मुकुन्दञ्च द्विवेदिनम्। वेदवेदाङ्गतत्वज्ञं स्मृतिसन्दीक्षितं प्रभुम्॥"
 
 
 
-crated according to the rules of the Smrtis, and was authority on. In the next verse the author speaks of himself as young, consecrated in the sacrificial session, and owing to his young age, less-talented, and was always engaged in reciting the Samhitā-text in eleven[ ways.](# "तस्य नप्ता युवा यज्वा युत्रधर्मोऽल्पबुद्धिमान्। एकादशप्रकारैस्तु संहितापाठतत्परः॥")Further he speaks of his abode as the 'prosperous Ānanda' inhabited by the gods and the earthly gods, viz. the Brāhmans. This work being composed by a young person is named as [Yuvadīpikā.](# "वसंश्व श्रीमदानन्दे सुरभूसुरमण्डिते। तेनेयं रचिता यस्मात्तत्राम युवदीपिका॥")
+crated according to the rules of the Smrtis, and was authority on. In the next verse the author speaks of himself as young, consecrated in the sacrificial session, and owing to his young age, less-talented, and was always engaged in reciting the Samhitā-text in eleven ways.[^11]Further he speaks of his abode as the 'prosperous Ānanda' inhabited by the gods and the earthly gods, viz. the Brāhmans. This work being composed by a young person is named as Yuvadīpikā.[^12]
 
- We are at a loss to make out whether the **'ग'** ms. was written first by him without the commentary, which must have afterwards been elaborated by him in the form of **'क'** because he says in the next verse that this (Yuvadīpikā) is composed of Ślokas or verses full of dutiful instructions, making its readers intelligent, by having recourse to the ancient legends embedded in the Samhitā-text of the[ Ṛgveda.](# "विलोक्य संहितामध्ये इतिहासान् पुरातनान्। कृता वै धर्मसंयुक्ता श्लोकैर्बद्धासुबुद्धिदा॥")Then he calls himself meagre-talented and asks the more efficient to correct and improve upon [it](# "अल्पज्ञेन कृता यस्माच्छोधनीयोरुबुद्धिभिः॥"). He further apologises himself for not having given the commentary on the verses by saying that they are too easy for the[ purpose.](# " ऋज्वर्था इमे श्लोकाः॥")Moreover, this inference makes itself reasonable when we carefully mark the colophons at the end of each Aṣṭaka of the mss. **'क'** and **'ग'** both; in the former except at end of the sixth Aṣṭaka there are always a
+[^11]: "तस्य नप्ता युवा यज्वा युत्रधर्मोऽल्पबुद्धिमान्। एकादशप्रकारैस्तु संहितापाठतत्परः॥"
+
+ We are at a loss to make out whether the **'ग'** ms. was written first by him without the commentary, which must have afterwards been elaborated by him in the form of **'क'** because he says in the next verse that this (Yuvadīpikā) is composed of Ślokas or verses full of dutiful instructions, making its readers intelligent, by having recourse to the ancient legends embedded in the Samhitā-text of the Ṛgveda.[^13]Then he calls himself meagre-talented and asks the more efficient to correct and improve upon it[^14]. He further apologises himself for not having given the commentary on the verses by saying that they are too easy for the purpose.[^15]Moreover, this inference makes itself reasonable when we carefully mark the colophons at the end of each Aṣṭaka of the mss. **'क'** and **'ग'** both; in the former except at end of the sixth Aṣṭaka there are always a
+
+[^12]: "वसंश्व श्रीमदानन्दे सुरभूसुरमण्डिते। तेनेयं रचिता यस्मात्तत्राम युवदीपिका॥"
+
+[^13]: "विलोक्य संहितामध्ये इतिहासान् पुरातनान्। कृता वै धर्मसंयुक्ता श्लोकैर्बद्धासुबुद्धिदा॥"
+
+[^14]: "अल्पज्ञेन कृता यस्माच्छोधनीयोरुबुद्धिभिः॥"
+
+[^15]: " ऋज्वर्था इमे श्लोकाः॥"
 
 
 
 the end the words **'द्याद्विवेदविरचिते नीतिमञ्जरीभाष्ये'**whereas in the latter **'नीतिमञ्जर्याम्'** only.
 
- Unlike the **'क'** ms, the author here quotes nowhere either his name or the name of the work. But both of these we can gather from the colophons at the end of each Aṣṭaka of the **'ग'** ms. There he invariably quotes the name or title of the work as ‘[**नीतिमञ्जरी’**,](# " इति नीतिमञ्जर्यांप्रथमाष्टकः समाप्तः or तृतीयाष्टकः etc.") and at the end of the second Aṣṭaka he adds an adjunct and calls it the 'exposer of the meaning of the[ Ṛcas](# " इति ऋगर्थप्रकाशिन्यां नीतिमञ्जर्यांद्वितीयाष्टकः समाप्तः॥")(**ऋगर्थप्रकाशिनी**). At the beginning of the second and the third Aṣṭakas he quotes his own name as **'तत्वविद् [द्याह्वयः'](# "प्रथमे सेतिहासान् यो दर्शयित्वा सुभाषितान्। द्वितीयेऽष्टके आहाथ तत्वविद्याह्वय ऋचाम्॥")**or **'द्विवेदी [द्याह्वयः'](# "द्वितीये नीतिवाक्यानि ऋदृष्टान्तान् प्रदर्श्यं च। तृतीयेऽष्टके आहाथ द्विवेदी द्याह्नयो महान्॥")**So no doubt is left as to the name and identity of the author and the title of the book, The transcriber of the **'ग**' ms. on his own authority calls this work as **'वेदमञ्जरी'**but this must be due to the vedic subject-matter contained in it. More than once our author has quoted his father's name as[ **'लक्ष्मीधर'**](# " Cf. at the end of the first and seventh Astakas of this book.")but at the end of the fifth Aṣṭaka of the **'क'** and **'ख'** mss. the author describes himself as the son of [Puruṣottama](# "Cf. pp. 253 of this book.")(**पुरुषोत्तम**). Puruṣottama might be another name of Lakṣhmīdhara, as it may well be, the two being synonymous. If the Nītimañjarī itself is described in the **'ग'** ms, as**'ऋगर्थप्रकाशिनी'**, the **'नीतिमञ्जरीभाष्य'** at the end of the
+ Unlike the **'क'** ms, the author here quotes nowhere either his name or the name of the work. But both of these we can gather from the colophons at the end of each Aṣṭaka of the **'ग'** ms. There he invariably quotes the name or title of the work as ‘**नीतिमञ्जरी’**,[^16] and at the end of the second Aṣṭaka he adds an adjunct and calls it the 'exposer of the meaning of the Ṛcas[^17](**ऋगर्थप्रकाशिनी**). At the beginning of the second and the third Aṣṭakas he quotes his own name as **'तत्वविद् द्याह्वयः'[^18]**or **'द्विवेदी द्याह्वयः'[^19]**So no doubt is left as to the name and identity of the author and the title of the book, The transcriber of the **'ग**' ms. on his own authority calls this work as **'वेदमञ्जरी'**but this must be due to the vedic subject-matter contained in it. More than once our author has quoted his father's name as **'लक्ष्मीधर'**[^20]but at the end of the fifth Aṣṭaka of the **'क'** and **'ख'** mss. the author describes himself as the son of Puruṣottama[^21](**पुरुषोत्तम**). Puruṣottama might be another name of Lakṣhmīdhara, as it may well be, the two being synonymous. If the Nītimañjarī itself is described in the **'ग'** ms, as**'ऋगर्थप्रकाशिनी'**, the **'नीतिमञ्जरीभाष्य'** at the end of the
+
+[^16]: " इति नीतिमञ्जर्यांप्रथमाष्टकः समाप्तः or तृतीयाष्टकः etc."
+
+[^17]: " इति ऋगर्थप्रकाशिन्यां नीतिमञ्जर्यांद्वितीयाष्टकः समाप्तः॥"
+
+[^18]: "प्रथमे सेतिहासान् यो दर्शयित्वा सुभाषितान्। द्वितीयेऽष्टके आहाथ तत्वविद्याह्वय ऋचाम्॥"
+
+[^19]: "द्वितीये नीतिवाक्यानि ऋदृष्टान्तान् प्रदर्श्यं च। तृतीयेऽष्टके आहाथ द्विवेदी द्याह्नयो महान्॥"
+
+[^20]: " Cf. at the end of the first and seventh Astakas of this book."
+
+[^21]: "Cf. pp. 253 of this book."
 
 
 
-third and the fourth Astakas of the **'क'** ms, is called the[**'वेदार्थप्रकाश'.**](# " Cf. pp. 178 and 218 of this book.") It cannot be ascertained whether this title**'वेदार्थप्रकाश'**is a mere imitation of the name of Sāyaṇācārya's commentary. The name Dyā Dviveda is seen written as Dyā Dvivedī also; Mukunda Dviveda is also written as **'मुकुन्दं च द्विवेदिनम्'** in the first introductory verse of the**'ग'** ms. So we need not differentiate between the two and prefer Dyā Dviveda to the other, as Dr. Keith appears to suggest in his article on this work. At the beginning of the fourth Aṣṭaka he is once described as**मडोड कुलज** which might be the corrupt form of**मुकुन्दकुलज**.
+third and the fourth Astakas of the **'क'** ms, is called the**'वेदार्थप्रकाश'.**[^22] It cannot be ascertained whether this title**'वेदार्थप्रकाश'**is a mere imitation of the name of Sāyaṇācārya's commentary. The name Dyā Dviveda is seen written as Dyā Dvivedī also; Mukunda Dviveda is also written as **'मुकुन्दं च द्विवेदिनम्'** in the first introductory verse of the**'ग'** ms. So we need not differentiate between the two and prefer Dyā Dviveda to the other, as Dr. Keith appears to suggest in his article on this work. At the beginning of the fourth Aṣṭaka he is once described as**मडोड कुलज** which might be the corrupt form of**मुकुन्दकुलज**.
 
- Dyā Dviveda was no doubt a Ṛgvedin belonging to the Śāṁkhāyana Śākhā as is amply borne out by the texts of that Śakha which he is always fond of adducing for the evidence in course of his commentary on both the verses and the Vedic Ṛcas. If Sāyaṇacārya has always adduced the Āśvalāyana Śrauta Sūtra for the ritualistic application of the Vedic Rcas, our author invariably quotes Śāṁkhayana Śrauta Sutra without naming it. Similarly he has often quoted the Brāhmaṇa, Āranyaka, Upanisad and even the Grhya-Sūtra of this[Śākhā.](# " Cf. appendix 3.") In doing so he has nowhere imitated Sāyaṇācārya.
+[^22]: " Cf. pp. 178 and 218 of this book."
+
+ Dyā Dviveda was no doubt a Ṛgvedin belonging to the Śāṁkhāyana Śākhā as is amply borne out by the texts of that Śakha which he is always fond of adducing for the evidence in course of his commentary on both the verses and the Vedic Ṛcas. If Sāyaṇacārya has always adduced the Āśvalāyana Śrauta Sūtra for the ritualistic application of the Vedic Rcas, our author invariably quotes Śāṁkhayana Śrauta Sutra without naming it. Similarly he has often quoted the Brāhmaṇa, Āranyaka, Upanisad and even the Grhya-Sūtra of thisŚākhā.[^23] In doing so he has nowhere imitated Sāyaṇācārya.
+
+[^23]: " Cf. appendix 3."
 
 **His nativeplace**
 
@@ -396,7 +442,13 @@ third and the fourth Astakas of the **'क'** ms, is called the[**'वेदा�
 
 
 
-the Śāmkhāyana[ Śākhā.](# "'उत्तरे गुर्जरे देशे वेदो बह्वृच ईरितः । कौषीतकिब्राह्मणञ्च शाखा शाङ्खायनीस्थिता॥This holds true even now.") The Vedic commentator Uvvaṭa also in the introduction of his Bhāsya to the Ṛk Prātiśākhya names his native-place as[ Ānandapur. ](# "The name Uvvata suggests that he must have belonged to Kashmir and thus Anandapur might be some other place in that region and there must not necessarily be any connection between Uvvata and our author. But it should be observed here that the custom of adopting fashionable names of another province is not unknown at the present day. Vide the innumerable Bengali names adopted in Gujarat and other provinces. The same could be assumed even in the time of Uvvata.")From this an inference is drawn by scholars that Dyā Dviveda also might belong to the same family to which Uvvaţa belonged and that the other Veda which Dya Dviveda knew must have been the white Yajuh of the Vājasaneyī Śākhā. Dyā Dviveda often quotes passages from the Śatapatha Brāhmaṇa, and thus he was evidently familiar with that Veda. But that much evidence is not sufficient for making the definite conclusion of his belonging to that Śākhā. Dyā Dviveda shows more familiarity with the texts of the Sāmaveda than those of the Yajurveda. He has quoted the passages from the Tāndya Māhā-Brāhmaṇa, the Gṛhya texts of that Veda such as**'सामगृह्य'** or[ ](# "In Keith's opinion the reference to Samagrhya on p. 119 of this book belongs to Gobhila Grhya III. 5. 3.")**[गोभिलगृह्य'](# "In Keith's opinion the reference to Samagrhya on p. 119 of this book belongs to Gobhila Grhya III. 5. 3."), कर्मप्रदीप, शाट्यायनिन्** etc.
+the Śāmkhāyana Śākhā.[^24] The Vedic commentator Uvvaṭa also in the introduction of his Bhāsya to the Ṛk Prātiśākhya names his native-place as Ānandapur. [^25]From this an inference is drawn by scholars that Dyā Dviveda also might belong to the same family to which Uvvaţa belonged and that the other Veda which Dya Dviveda knew must have been the white Yajuh of the Vājasaneyī Śākhā. Dyā Dviveda often quotes passages from the Śatapatha Brāhmaṇa, and thus he was evidently familiar with that Veda. But that much evidence is not sufficient for making the definite conclusion of his belonging to that Śākhā. Dyā Dviveda shows more familiarity with the texts of the Sāmaveda than those of the Yajurveda. He has quoted the passages from the Tāndya Māhā-Brāhmaṇa, the Gṛhya texts of that Veda such as**'सामगृह्य'** or [^26]**गोभिलगृह्य'[^26], कर्मप्रदीप, शाट्यायनिन्** etc.
+
+[^24]: "'उत्तरे गुर्जरे देशे वेदो बह्वृच ईरितः । कौषीतकिब्राह्मणञ्च शाखा शाङ्खायनीस्थिता॥This holds true even now."
+
+[^25]: "The name Uvvata suggests that he must have belonged to Kashmir and thus Anandapur might be some other place in that region and there must not necessarily be any connection between Uvvata and our author. But it should be observed here that the custom of adopting fashionable names of another province is not unknown at the present day. Vide the innumerable Bengali names adopted in Gujarat and other provinces. The same could be assumed even in the time of Uvvata."
+
+[^26]: "In Keith's opinion the reference to Samagrhya on p. 119 of this book belongs to Gobhila Grhya III. 5. 3."
 
 
 
@@ -405,14 +457,18 @@ the Śāmkhāyana[ Śākhā.](# "'उत्तरे गुर्जरे द�
 
  **"बिन्दु पञ्च पञ्चैकाङ्कमिते संवति दुन्दुभौ वत्सरे माघशुक्लादाव करोद्द्या(१) तिथाविमाम्। अङ्कानां वामतो गतिरित्युक्तत्वात् संवत् १५५० दुन्दुभौ तिथौ प्रतिपदि द्याद्विवेद इमां नीतिमञ्जरीं सभाष्यामकरोत्। इति श्रीमद्द्याद्विवेदकृते नीतिमञ्जर्याख्ये भाष्ये ऽष्टमाष्टकः समाप्तः॥**
 
- Dyā Dviveda completed his Nītimañjarī on the first day of the waxing moon of the month of Māgha, in Samvat 1550, which corresponds to the year 1494 A. D. When Dr. Keith wrote his article in 1900, he was not aware of this fact and he had to discuss it from the internal facts occurring in the Nītimañjarī arriving at the conclusion that Dyā Dviveda must have flourished after Sāyanācarya and Saḍguruśisya, i. e. between 1460 and 1600 A. D. Dr. Keith has now accepted this date of 1494 A D in his history of Sanskrit Literature of the Oxford [Press](# "Cf. pp. 239, H. S. L. by A. B. Keith, 1928."). The author of the Nītimañjarī quotes ample excerpts from Sāyaṇācārya's Vedabhāṣya (14th century) and Sadguruśisya's Vedārthadipikā (1184 A. D.)
+ Dyā Dviveda completed his Nītimañjarī on the first day of the waxing moon of the month of Māgha, in Samvat 1550, which corresponds to the year 1494 A. D. When Dr. Keith wrote his article in 1900, he was not aware of this fact and he had to discuss it from the internal facts occurring in the Nītimañjarī arriving at the conclusion that Dyā Dviveda must have flourished after Sāyanācarya and Saḍguruśisya, i. e. between 1460 and 1600 A. D. Dr. Keith has now accepted this date of 1494 A D in his history of Sanskrit Literature of the Oxford Press[^28]. The author of the Nītimañjarī quotes ample excerpts from Sāyaṇācārya's Vedabhāṣya (14th century) and Sadguruśisya's Vedārthadipikā (1184 A. D.)
+
+[^28]: "Cf. pp. 239, H. S. L. by A. B. Keith, 1928."
 
 **His scholarship as evineed in theNītimanjarī**  
  In the days when our author flourished printing was unknown and there were no index volumes of the Vedic texts as we now have them. The scholars generally trusted their memory in inviting or adducing evidence from the various texts. This inference can be amply borne
 
 
 
-out by the manner adopted by Sāyaṇācārya in writing his learned commentaries on the main texts of the several Vedas. It is a well known and fully recognised fact that Sāyaṇa first of all wrote his commentaries on the texts of the Taittirīya Śākhā and the order followed there was firstly the Saṁhitā, then the Brāhmaṇa and the Āranyakas. Next when he undertook the task of commenting the Ṛgvedic texts, the order followed was quite the reverse. There he first commented upon the Brāhmaṇa i. e. the Aitareya Brāhmaṇa and its Āranyaka and then on the Samhitā. The reason of it was quite obvious, as himself tells us that the commentaries on the Brāhmanas and the āranyakas are useful for the elucidation of the Samhitatext and therefore they are taken up first; and excerpts from these are required in commenting upon the Samhitā[text.](# "मन्त्रब्राह्मणात्मके वेदे ब्राह्मणस्य मन्त्रव्याख्यानोपयोगित्वाद् आदौ ब्राह्मणमारण्यकाण्डसहितं व्याख्यातम् अथ तत्र तत्र ब्राह्मणोदाहरणेन मन्त्रात्मकः संहिताग्रन्थो व्याख्यातव्यः ।") Now the question arises: **"why did not Sayana feel the difficulty when he first commented upon the Taittiriya Samhita text?"** The answer is plain; he knew the Brāhmaṇa and the Āranyaka of that Śākhā by heart as he himself belonged to that Śākhā; but the case with the Ṛgveda was quite other-wise and therefore he has had recourse to the plan of the sort mentioned above. Throughout the great commentary of the Ṛgveda too we often find excerpts adduced as evidence from the Taittirīya texts which fact confirms the conclusion drawn by us. Our author always adduces the texts of the Kausītaki Śākha for the confirmation of his elucidation, which undoubtedly points to the conclusion that he knew those texts completely by
+out by the manner adopted by Sāyaṇācārya in writing his learned commentaries on the main texts of the several Vedas. It is a well known and fully recognised fact that Sāyaṇa first of all wrote his commentaries on the texts of the Taittirīya Śākhā and the order followed there was firstly the Saṁhitā, then the Brāhmaṇa and the Āranyakas. Next when he undertook the task of commenting the Ṛgvedic texts, the order followed was quite the reverse. There he first commented upon the Brāhmaṇa i. e. the Aitareya Brāhmaṇa and its Āranyaka and then on the Samhitā. The reason of it was quite obvious, as himself tells us that the commentaries on the Brāhmanas and the āranyakas are useful for the elucidation of the Samhitatext and therefore they are taken up first; and excerpts from these are required in commenting upon the Samhitātext.[^29] Now the question arises: **"why did not Sayana feel the difficulty when he first commented upon the Taittiriya Samhita text?"** The answer is plain; he knew the Brāhmaṇa and the Āranyaka of that Śākhā by heart as he himself belonged to that Śākhā; but the case with the Ṛgveda was quite other-wise and therefore he has had recourse to the plan of the sort mentioned above. Throughout the great commentary of the Ṛgveda too we often find excerpts adduced as evidence from the Taittirīya texts which fact confirms the conclusion drawn by us. Our author always adduces the texts of the Kausītaki Śākha for the confirmation of his elucidation, which undoubtedly points to the conclusion that he knew those texts completely by
+
+[^29]: "मन्त्रब्राह्मणात्मके वेदे ब्राह्मणस्य मन्त्रव्याख्यानोपयोगित्वाद् आदौ ब्राह्मणमारण्यकाण्डसहितं व्याख्यातम् अथ तत्र तत्र ब्राह्मणोदाहरणेन मन्त्रात्मकः संहिताग्रन्थो व्याख्यातव्यः ।"
 
 
 
@@ -422,15 +478,25 @@ heart and thus he belonged to that Śakhā. Moreover he has quoted a number of p
 
 
 
-chief of them being Paṇini and Yaska. His knowledge of Pānini's grammar is not all borrowed from Sāyana as the scholars in their respective articles have tried to infer; we are struck with his originality when we see that he has composed some Dvandva compounds of a new style such as **'रुपर्द्धिकुलविद्यर्त्तम्'** (p 90),['इन्द्राश्विगुरुणे'](# "These two being copulative compounds, naturally ought to have been as रूपर्द्धिकुलविद्यर्त्तानि, and इन्द्राश्विगुरुभ्यः in plural. The author quotes the authority of the Isti 'सर्वो द्वन्द्वो विभाषा 'एकवद्भवति' from Patanjali's Mahābhāsya for his forms used in singular number.")(p. 126) on the authority of the Iṣṭis or the rules particular to the Pātañjali's Māhābhāṣya. He was a sound grammarian as will be seen by the manner in which he proceeds to prove the formation of the word **'मनस्वान्**'(p. 138), which differs much from that of Sāyana's.
+chief of them being Paṇini and Yaska. His knowledge of Pānini's grammar is not all borrowed from Sāyana as the scholars in their respective articles have tried to infer; we are struck with his originality when we see that he has composed some Dvandva compounds of a new style such as **'रुपर्द्धिकुलविद्यर्त्तम्'** (p 90),'इन्द्राश्विगुरुणे'[^30](p. 126) on the authority of the Iṣṭis or the rules particular to the Pātañjali's Māhābhāṣya. He was a sound grammarian as will be seen by the manner in which he proceeds to prove the formation of the word **'मनस्वान्**'(p. 138), which differs much from that of Sāyana's.
+
+[^30]: "These two being copulative compounds, naturally ought to have been as रूपर्द्धिकुलविद्यर्त्तानि, and इन्द्राश्विगुरुभ्यः in plural. The author quotes the authority of the Isti 'सर्वो द्वन्द्वो विभाषा 'एकवद्भवति' from Patanjali's Mahābhāsya for his forms used in singular number."
 
  It should not be imagined that Dyā Dviveda quoted Nirukta from Sāyana's Bhāsya and made very few references to the Nighaṇṭu. This inference might be due to the ignorance that the Vedic scholars from the hoary times in the past until now, without exception commit the texts of the Aṣṭādhyāyī of Pāṇini and the Nighaṇțu with the Yāska's Nirukta on it, to memory, whether they understand them or not. Even now the ordinary Vaidikas of Benares can quote these texts by heart correct to a syllable, as is witnessed by me oftentimes; how could then a scholar like Dyā Dviveda, possessing deep knowledge of classical Sanskrit as is evident from his own composition, be lacking in first-hand knowledge of Yāska's Nirukta and should have borrowed wholesale from Sāyaṇa? One can find many a reference to Yāska's
 
 
 
-Nirukta in the body of this book where Sāyaṇācārya is silent. As to the Nighantu, our author unlike Sāyaṇa is very fond of quoting everywhere in both his own and the Vedic commentaries. No less than 25 references can be traced in the first Aṣṭaka only. We can very well see the author's mastery on the Nighaṇṭu if we turn ourselves to his composition of 4 Anuṣṭubh verses on the pages 249-250 of this book. These are woven out of obscure words from the Nighaṇṭu, such as have taxed the energy of some German[ Orientalists.](# "Cf. Oerel JAOS 16, ce. XI; Weber: Indische Studien 9. 38 et seq.")
+Nirukta in the body of this book where Sāyaṇācārya is silent. As to the Nighantu, our author unlike Sāyaṇa is very fond of quoting everywhere in both his own and the Vedic commentaries. No less than 25 references can be traced in the first Aṣṭaka only. We can very well see the author's mastery on the Nighaṇṭu if we turn ourselves to his composition of 4 Anuṣṭubh verses on the pages 249-250 of this book. These are woven out of obscure words from the Nighaṇṭu, such as have taxed the energy of some German Orientalists.[^31]
 
- Our author being a first-rate vedic scholar, it will be a folly to think that he did not know phonetics (**शिक्षा**), the first of the six[ Vedāṅgas. ](# "These six Vedangas are namely शिक्षा(Phonetics), कल्प (rituals ), व्याकरण (Grammar), निरुक्त ( etymological exegysis ), छन्दस् ( metre ), ज्यौतिष ( astronomy ).")This anga of the Veda is even now recited by every ordinary student of the Veda in India everywhere. Kalpa or rituals includes Śrauta and Grhya Sūtras of which we have spoken already. Grammar and Nirukta too have been discussed. As to metre, our author's study seems to be even more comprehensive. His proficiency in this subject is especially witnessed in the eighth mandala of this[ book.](# "Cf. pp. 256-58 et. seq. 1") His knowledge of vedicmetre is not only indebted to the Ṛk-Prātiśākhya, Kātyāyana's Sarvānukramaņī and Sadguruśisya's commentary on it, but also to the study of the Pingala Sūtra with Halāyudha's commentary on[ it.](# "He has quoted from Halayudha's commentary a gnomic and didactic verse as an example on p. 257 of this book.")As to Jyotisa or.
+ Our author being a first-rate vedic scholar, it will be a folly to think that he did not know phonetics (**शिक्षा**), the first of the six Vedāṅgas. [^32], कल्प (rituals ), व्याकरण (Grammar), निरुक्त ( etymological exegysis ), छन्दस् ( metre ), ज्यौतिष ( astronomy ).")This anga of the Veda is even now recited by every ordinary student of the Veda in India everywhere. Kalpa or rituals includes Śrauta and Grhya Sūtras of which we have spoken already. Grammar and Nirukta too have been discussed. As to metre, our author's study seems to be even more comprehensive. His proficiency in this subject is especially witnessed in the eighth mandala of this book.[^33] His knowledge of vedicmetre is not only indebted to the Ṛk-Prātiśākhya, Kātyāyana's Sarvānukramaņī and Sadguruśisya's commentary on it, but also to the study of the Pingala Sūtra with Halāyudha's commentary on it.[^34]As to Jyotisa or.
+
+[^31]: "Cf. Oerel JAOS 16, ce. XI; Weber: Indische Studien 9. 38 et seq."
+
+[^32]: "These six Vedangas are namely शिक्षा(Phonetics
+
+[^33]: "Cf. pp. 256-58 et. seq. 1"
+
+[^34]: "He has quoted from Halayudha's commentary a gnomic and didactic verse as an example on p. 257 of this book."
 
 
 
@@ -470,7 +536,11 @@ They can be acquired by means of both **धर्म** and **अधर्म,**i
 
 
 
-of his days. Our author has selected such illustrations from the stories related in the Vedic mythological texts such as Sāyaṇacārya's commentary, Brhaddevatā or Ṣaḍguruśisya's Vedārthadīpikā and once or twice, the author has quoted Ākhyānas which cannot be traced in these three main [works](# "Pp. 141, 267 and 306;"). In order to enable the readers to form an exact idea of the similarity between the verses of the Nītimañjarī on the one hand, and [Cārucaryā](# "Out of four extracts from this work in Nitimanjari only one on page 170 has been traced in the printed चारुचर्या ofकाव्यमाला group I., the others being left untraced.") or some similar work on the other, the following extracts are given. There are 25 ślokas in which the first line of the verse in both the works in practically identical. I shall quote here all these with reference to their number in their respective works. On the page 286 of this book without any reference to its source is found quoted a verse which is traced in printed Cārucaryā as No. 47
+of his days. Our author has selected such illustrations from the stories related in the Vedic mythological texts such as Sāyaṇacārya's commentary, Brhaddevatā or Ṣaḍguruśisya's Vedārthadīpikā and once or twice, the author has quoted Ākhyānas which cannot be traced in these three main works[^35]. In order to enable the readers to form an exact idea of the similarity between the verses of the Nītimañjarī on the one hand, and Cārucaryā[^36] or some similar work on the other, the following extracts are given. There are 25 ślokas in which the first line of the verse in both the works in practically identical. I shall quote here all these with reference to their number in their respective works. On the page 286 of this book without any reference to its source is found quoted a verse which is traced in printed Cārucaryā as No. 47
+
+[^35]: "Pp. 141, 267 and 306;"
+
+[^36]: "Out of four extracts from this work in Nitimanjari only one on page 170 has been traced in the printed चारुचर्या ofकाव्यमाला group I., the others being left untraced."
 
 
 
@@ -488,7 +558,9 @@ of his days. Our author has selected such illustrations from the stories related
 
 
 
-his heart of heart that they should realise what Yāska announced that **"the Vedic Ṛcas recited without making out their signification is as ineffective as a dry fuel put into the fireless [hearth"](# "यद्गृहीतमविज्ञातं निगदेनैव शव्यते । अनग्नाविव शुष्कैधो न तज्ज्वलति कर्हिचित् ॥ N. I. 19.").** Sāyaṇācārya's commentary is a very learned one; an ordinary student can hardly follow it; so our author's intention was to make important and useful mantras or reas more interesting by joining them with the moral stories and explaining them with as many accessory Vedic and classical texts as he could. In so doing he has utilised and taken help from such popular works as Cārucaryā, Hitopadeśa etc.
+his heart of heart that they should realise what Yāska announced that **"the Vedic Ṛcas recited without making out their signification is as ineffective as a dry fuel put into the fireless hearth"[^37].** Sāyaṇācārya's commentary is a very learned one; an ordinary student can hardly follow it; so our author's intention was to make important and useful mantras or reas more interesting by joining them with the moral stories and explaining them with as many accessory Vedic and classical texts as he could. In so doing he has utilised and taken help from such popular works as Cārucaryā, Hitopadeśa etc.
+
+[^37]: "यद्गृहीतमविज्ञातं निगदेनैव शव्यते । अनग्नाविव शुष्कैधो न तज्ज्वलति कर्हिचित् ॥ N. I. 19."
 
  Therefore it is needless to examine these verses in the light of poetic composition. Our author has never claimed himself to be a poet. His study of mythology of the classical literature through the Mahābhārata, the Bhāgavata, and the Viṣṇupurāṇa was a vast one and it must have been that kind of reading which has tempted the author to extract similar verses from Vedic mythology, particularly for the Vedic students and in general for others.
 
@@ -498,7 +570,11 @@ his heart of heart that they should realise what Yāska announced that **"the Ve
 
 
 
-Besides they are connected with some legend or other which fact has led the author to draw morals from them and illustrate them by referring to a few words inserted into the verses indicating the summary of the story itself, Such Ṛcas are 188 in number. This number exceeds the number of the verses in Nītimañjarī by 22; this is due to the fact that a few verses have been the subject of two stories—one described on the spot and the other after a few Ṛcas are over, in their proper place following the order of the division in the Ṛk-[Saṁhitā.](# " Cf. verses 33, 39, 64, 124, 149; etc.") Sometimes a number of Ṛcas are quoted consecutively under the same verse as is witnessed on pp. 230, 290, and 328; Every Ṛk bears a proper connection with the story and sheds much light on the connection of the preceding and following Ṛcas of the hymn to which it belongs. In the Sāyaṇacārya's bhāsya we see the story depicted generally at the beginning of the hymn, but our author is fond of selecting only one or two Ṛcas of that hymn in which the story is prominently hinted at. It is often found in the hymns that the Ṛcas contained in it stand independent of one another. But this is not the case everywhere and much less in the hymns from which the Ṛcas in the Nītimañjarī are taken. The author has not failed to select number of Ṛcas from the same hymn if they have served his purpose of giving out some moral bearing relation with some myth or other. He has quoted nearly the whole of the hymn of the[ Aśvins, ](# "R. V. I. 116.")(**नासत्यसूक्त ऋृ०१।११६**) every Ṛk in which refers to some peculiar feat of the Aśvins which is described by means of a legend in the Vedabhāsya or the Bṛhaddevatā.
+Besides they are connected with some legend or other which fact has led the author to draw morals from them and illustrate them by referring to a few words inserted into the verses indicating the summary of the story itself, Such Ṛcas are 188 in number. This number exceeds the number of the verses in Nītimañjarī by 22; this is due to the fact that a few verses have been the subject of two stories—one described on the spot and the other after a few Ṛcas are over, in their proper place following the order of the division in the Ṛk-Saṁhitā.[^38] Sometimes a number of Ṛcas are quoted consecutively under the same verse as is witnessed on pp. 230, 290, and 328; Every Ṛk bears a proper connection with the story and sheds much light on the connection of the preceding and following Ṛcas of the hymn to which it belongs. In the Sāyaṇacārya's bhāsya we see the story depicted generally at the beginning of the hymn, but our author is fond of selecting only one or two Ṛcas of that hymn in which the story is prominently hinted at. It is often found in the hymns that the Ṛcas contained in it stand independent of one another. But this is not the case everywhere and much less in the hymns from which the Ṛcas in the Nītimañjarī are taken. The author has not failed to select number of Ṛcas from the same hymn if they have served his purpose of giving out some moral bearing relation with some myth or other. He has quoted nearly the whole of the hymn of the Aśvins, [^39](**नासत्यसूक्त ऋृ०१।११६**) every Ṛk in which refers to some peculiar feat of the Aśvins which is described by means of a legend in the Vedabhāsya or the Bṛhaddevatā.
+
+[^38]: " Cf. verses 33, 39, 64, 124, 149; etc."
+
+[^39]: "R. V. I. 116."
 
 
 
@@ -506,12 +582,22 @@ Besides they are connected with some legend or other which fact has led the auth
 
 
 
-4th maṇḍala onwards, we see that he hardly refers to the so-called important peculiarities of grammar except in the tenth maṇḍala where he seems to have paid attention again to that subject. Had our anthor followed Sāyaṇācarya's commentary, the same thing would occur here too. If he has omitted all that is difficult in the begining, who was it that suggested points in explaining the Ṛcas of the family maṇḍalas where Sayaṇācārya is utterly [silent'?](# "Cf. Any Rk from the mandala II to VII.") Moreover Sayaṇācārya has never referred to the Ṛk -Prātiśākhya in order to explain the peculiarities of the Samhitā and Pada-texts; our author has done it throughout. Our author refers not only to Nirukta but many times to Nighaṇṭualso which latter is hardly referred to by Sāyaṇācārya. We have already made mention of the fact that our author was highly conversant with the text of Nighaṇṭu, so much so, that at one place (on page 249-50) he has composed verses woven out of the words from Nighaṇṭu which are unfamiliar to the classical Sanskrit. Besides the author's originality lies in quoting the texts of the Brāhmaṇas, Āraṇyakas, Upaniṣads, Śrauta and Gṛhya Sūtras which go to confirm the meaning implied in the Ṛcas. Here author's method is often quite independent of Sāyaṇa. Our author's passages referring to the Brahmāṇa in general term (**इति व्राह्मणे**) always belong to the Kauṣītaki; so also is the case with the Āranyaka and Upaniṣads. Sāyaṇācārya is fond of referring to the Taittirīya and Aitareya and hardly ever to Kauṣītaki. Thus our author has preferred to be as independent of Sāyaṇa as he could. Oftentimes our author prefers the words-meaning according to the Nirukta where Sāyaṇācārya tries to give his own meaning following
+4th maṇḍala onwards, we see that he hardly refers to the so-called important peculiarities of grammar except in the tenth maṇḍala where he seems to have paid attention again to that subject. Had our anthor followed Sāyaṇācarya's commentary, the same thing would occur here too. If he has omitted all that is difficult in the begining, who was it that suggested points in explaining the Ṛcas of the family maṇḍalas where Sayaṇācārya is utterly silent'?[^40] Moreover Sayaṇācārya has never referred to the Ṛk -Prātiśākhya in order to explain the peculiarities of the Samhitā and Pada-texts; our author has done it throughout. Our author refers not only to Nirukta but many times to Nighaṇṭualso which latter is hardly referred to by Sāyaṇācārya. We have already made mention of the fact that our author was highly conversant with the text of Nighaṇṭu, so much so, that at one place (on page 249-50) he has composed verses woven out of the words from Nighaṇṭu which are unfamiliar to the classical Sanskrit. Besides the author's originality lies in quoting the texts of the Brāhmaṇas, Āraṇyakas, Upaniṣads, Śrauta and Gṛhya Sūtras which go to confirm the meaning implied in the Ṛcas. Here author's method is often quite independent of Sāyaṇa. Our author's passages referring to the Brahmāṇa in general term (**इति व्राह्मणे**) always belong to the Kauṣītaki; so also is the case with the Āranyaka and Upaniṣads. Sāyaṇācārya is fond of referring to the Taittirīya and Aitareya and hardly ever to Kauṣītaki. Thus our author has preferred to be as independent of Sāyaṇa as he could. Oftentimes our author prefers the words-meaning according to the Nirukta where Sāyaṇācārya tries to give his own meaning following
+
+[^40]: "Cf. Any Rk from the mandala II to VII."
 
 
 
-Panini's [dhātupāṭha](# "Cf. pp. 183, 209, 222, 223, 225, 229, 245."). On page 202, it will be seen that the word **‘सम्राट्'** is explained by Sāyana as **राजसूययाजी**, but our author quoting the authority of the Śatapatha Brāhmana explains the word as **वाजपेयया॒जी**. On page 245, the word **वधेन** is explained by Sāyaṇa as **आयुधेन**; but our author on the authority of the Nighaṇṭu, which is quoted immediately after, explains it as**वज्रेण**’ These instances have been quoted here for the readers to have a glimpse at the minute differences that are marked in our author's commentary. Sometimes there are no legends in the Vedabhāsya at all; on such occasions our author's sources have been the Saṁhitā, the Bṛhaddevatā or Saḍguruśisya's [Vedārthadāpikā.](# "Cf. pp. 14, 15, 63, 73, 119 etc.") In adjusting legends too he has nowhere followed Sāyaṇācārya. Many legends are met with in Sāyaṇabhāṣya [elsewhere,](# "Cf. pp. 116, 120, 121, 180, 205, 220 etc. See Appendix 3 of this book.")which our author has adapted them for his purpose, where he has made Sāyaṇācārya his guide. Our author has shown also much originality in quoting oftentimes the parallel passages of the Ṛk-Saṁhitā itself, the indebtedness of which does not fall to the credit of Sāyaṇa. Thus our author, although following Sāyaṇa literally for commentary's sake, has struck a new path of explaining [Ṛcas.](# "Dr. W. D. Whitney's ideas about the systematic method of explaining Rcas are somewhat similar to the method followed by our author. Vide pp. XII, XIII above.")
+Panini's dhātupāṭha[^41]. On page 202, it will be seen that the word **‘सम्राट्'** is explained by Sāyana as **राजसूययाजी**, but our author quoting the authority of the Śatapatha Brāhmana explains the word as **वाजपेयया॒जी**. On page 245, the word **वधेन** is explained by Sāyaṇa as **आयुधेन**; but our author on the authority of the Nighaṇṭu, which is quoted immediately after, explains it as**वज्रेण**’ These instances have been quoted here for the readers to have a glimpse at the minute differences that are marked in our author's commentary. Sometimes there are no legends in the Vedabhāsya at all; on such occasions our author's sources have been the Saṁhitā, the Bṛhaddevatā or Saḍguruśisya's Vedārthadāpikā.[^42] In adjusting legends too he has nowhere followed Sāyaṇācārya. Many legends are met with in Sāyaṇabhāṣya elsewhere,[^43]which our author has adapted them for his purpose, where he has made Sāyaṇācārya his guide. Our author has shown also much originality in quoting oftentimes the parallel passages of the Ṛk-Saṁhitā itself, the indebtedness of which does not fall to the credit of Sāyaṇa. Thus our author, although following Sāyaṇa literally for commentary's sake, has struck a new path of explaining Ṛcas.[^44]
 
+[^41]: "Cf. pp. 183, 209, 222, 223, 225, 229, 245."
+
+[^42]: "Cf. pp. 14, 15, 63, 73, 119 etc."
+
+[^43]: "Cf. pp. 116, 120, 121, 180, 205, 220 etc. See Appendix 3 of this book."
+
+
+[^44]: "Dr. W. D. Whitney's ideas about the systematic method of explaining Rcas are somewhat similar to the method followed by our author. Vide pp. XII, XIII above."
 
 
 **(c) Works utilised, its indebtedness to them.**
@@ -530,11 +616,17 @@ Nighaṇṭu and Nirukta, our author thus being fully conversant with these two 
 
  Katyāyana's Sarvānukramaņī also is used by our anthor widely. We need not suppose that he has borrowed this from Sāyaṇncārya. Nay, he knew it by heart and he has taken care to quote out of it only that much portion which he thought relevant in explaining the Vedic passage under the topic.
 
- Another work our anthor independently made use of in explaining the Ṛcas is the Kauṣītaki Brāhmaṇa to which he always refers by the general term **'ब्राह्मणम्'** or **'ब्राह्मणे'**. Sometimes by this term he has implied the Āraṇyaka text of this [work.](# "Cf. pp. 125, 137, 159 etc.") If Aitareyopaniṣad is named, the general term Upaniṣad indicates **'कौषीतकि'** always.
+ Another work our anthor independently made use of in explaining the Ṛcas is the Kauṣītaki Brāhmaṇa to which he always refers by the general term **'ब्राह्मणम्'** or **'ब्राह्मणे'**. Sometimes by this term he has implied the Āraṇyaka text of this work.[^45] If Aitareyopaniṣad is named, the general term Upaniṣad indicates **'कौषीतकि'** always.
+
+[^45]: "Cf. pp. 125, 137, 159 etc."
 
 
 
-Though Ṣaḍguruśiṣya's Vedārthadipikā is sometimes quoted along with the Bṛhaddevatā, it often has served the purpose ot being a link in the chain of the stories related by our author. Thus Vedārthadīpikā is quoted independently on pp. 21, 63, 199, 226, 333, where no legend either in the Vedabhāṣya or in the Bṛhaddevatā. appears. Some of them have been met with in the Vedābhāsya too; but our author's source for this should be regarded as the Vedārthadīpīkā and not Sāyaṇācārya; because many times our author names it as [**अनुक्रमणीभाष्य**' ](# "Cf pp. 21.")or[ **षड्गुरुशिष्य **](# "Cf pp. 69, 120.")etc.
+Though Ṣaḍguruśiṣya's Vedārthadipikā is sometimes quoted along with the Bṛhaddevatā, it often has served the purpose ot being a link in the chain of the stories related by our author. Thus Vedārthadīpikā is quoted independently on pp. 21, 63, 199, 226, 333, where no legend either in the Vedabhāṣya or in the Bṛhaddevatā. appears. Some of them have been met with in the Vedābhāsya too; but our author's source for this should be regarded as the Vedārthadīpīkā and not Sāyaṇācārya; because many times our author names it as **अनुक्रमणीभाष्य**' [^46]or **षड्गुरुशिष्य **[^47]etc.
+
+[^46]: "Cf pp. 21."
+
+[^47]: "Cf pp. 69, 120."
 
  Next our author's originality is shown in quoting the text of the Ṛk.-prātiśākhya which is his own invention. He has largely utilised this text and we meet with its passages from generally all the patalas from the beginning to the end. The discussion on metre is very interesting and bears main relation to this text. Without the help of this work it is impossible to make out the variations occurring between the Saṁhita and the pada-texts of the Ṛgveda. From this work our author has quoted about 150 Sūtras in all.
 
@@ -556,7 +648,9 @@ than his own are especially Tāṇḍya Mahābrāhmaṇa of the Sāmaveda, the �
 
 
 
-interest students of Sanskrit Literature and mythology only in so far as it preserves ancient material which has otherwise not been handed down or affords assistance in finding the text of the extant works." I shall now ask the readers themselves to judge the remark made on our author. **"If the Vedic knowledge of the author was sufficiently small in quantity and quality, no better account can be given of the knowledge of classical[literature."](# " A. B. Keith in his article on the Nitimanjari in JRAS. 1900, PP 127.")**
+interest students of Sanskrit Literature and mythology only in so far as it preserves ancient material which has otherwise not been handed down or affords assistance in finding the text of the extant works." I shall now ask the readers themselves to judge the remark made on our author. **"If the Vedic knowledge of the author was sufficiently small in quantity and quality, no better account can be given of the knowledge of classicalliterature."[^48]**
+
+[^48]: " A. B. Keith in his article on the Nitimanjari in JRAS. 1900, PP 127."
 
  The works of classical culture utilised by our author in his Nītimañjarī, as have been already pointed out are those of the Mahābhārata, Viṣṇupurāṇa, Bhagvadgitā, Manu and Yājñavalkya Smrti, and verses, gnomic and didactic, as they appear in Cārucaryā, Hitopadeśa etc. Once Atmavṛtti is also quoted for the philosophical point. Many verses of gnomic and didactic character have been left untraced.
 
@@ -572,7 +666,9 @@ ing to 21 in a single hymn namely 116th of the first maṇḍala; one or two ind
 
 
 
-Indra. We are told that Agni always bestows upon us wealth but that depends upon our good deeds in the past; Indra was so fond of Soma [juice](# "Cf. the verse 3 in the beginning as well as the verses 162, 163 in the end."), that for that purpose he is not ashamed of begging, and going anywhere and even becoming a ram. He can show partiality to those who worship him by performing Soma sacrifices and punish those that hoard wealth for their own purpose. Similarly we are told of the Ṛbhus and Aśvins that they, even attaining to the divine status, do not give up their former profession of architects and physicians. Our author seems to have. paid particular attention to the description of Dānastutis i. e. eulogies of royal donations; this may perhaps be owing to the motive he entertained that the kings should learn lessons from these and be ready to promote ritualistic causes, in the same manner as the Ṛgvedic kings did. Many legends throw light practical wisdom which can be brought under the cate- gory of economics and the domestic science. The famous **यमयमीसंवाद**tells us about the close relation of brother and sister, pointing out at the same time the resoluteness as well as weakness in the nature of both. Similarly we are told how to draw morals from the dialogue of the Aila king Purūravāh and the celestial nymph, Urvasī.
+Indra. We are told that Agni always bestows upon us wealth but that depends upon our good deeds in the past; Indra was so fond of Soma juice[^49], that for that purpose he is not ashamed of begging, and going anywhere and even becoming a ram. He can show partiality to those who worship him by performing Soma sacrifices and punish those that hoard wealth for their own purpose. Similarly we are told of the Ṛbhus and Aśvins that they, even attaining to the divine status, do not give up their former profession of architects and physicians. Our author seems to have. paid particular attention to the description of Dānastutis i. e. eulogies of royal donations; this may perhaps be owing to the motive he entertained that the kings should learn lessons from these and be ready to promote ritualistic causes, in the same manner as the Ṛgvedic kings did. Many legends throw light practical wisdom which can be brought under the cate- gory of economics and the domestic science. The famous **यमयमीसंवाद**tells us about the close relation of brother and sister, pointing out at the same time the resoluteness as well as weakness in the nature of both. Similarly we are told how to draw morals from the dialogue of the Aila king Purūravāh and the celestial nymph, Urvasī.
+
+[^49]: "Cf. the verse 3 in the beginning as well as the verses 162, 163 in the end."
 
  Bṛhaddevatā or Sāyaṇācārya's bhāṣya or Saḍguruśisya's Vedārthadipikā relate stories in the form of legends and leave us to interpret them in any light we like. But the author of the Nītimañjarī has brought. home his own view-point by telling us in an interesting manner how these legends can throw a bright light on
 
@@ -695,9 +791,13 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 इत्यादिना क्यबन्तो [निपातः](#)। ननु इन्द्रादीन् सर्वान्देवांस्त्यक्त्वा सूर्य एव कुतो ग्रन्थकृता नमस्कृतः। उच्यते। सूर्ये नमस्कृते सर्वे देवा नमस्कृता भवन्तीति हेतोः। अनुक्रमण्यां हि (का० स० १४/१५ सूत्र) सूर्यस्य सर्वदेवतात्वमुक्तम्।
 
- एकैव वा महानात्मा देवता। स सूर्य [इत्याचक्षते](# "कात्यायनस्य सर्वानुक्रमणी ( MacDonell's Edition )")। इति तद्विभूतयोऽन्या देवता (का० स० १८) इति चैतदैतरेयोपनिषदि'स यश्चायमशरीरः प्रज्ञात्मा यश्चासखादित्य एकमेतदिति विद्यादिति'। कीदशं सूर्यं अत्रिमोचितम्। सूर्यः पूर्वं स्वर्भानुनाऽसुरेण यत्त्रस्त आसीत् तमन्ये ऋषयः मोचयितुं न शक्ताः। ततोऽत्रिभिर्मोचितः।
+ एकैव वा महानात्मा देवता। स सूर्य इत्याचक्षते[^50]")। इति तद्विभूतयोऽन्या देवता (का० स० १८) इति चैतदैतरेयोपनिषदि'स यश्चायमशरीरः प्रज्ञात्मा यश्चासखादित्य एकमेतदिति विद्यादिति'। कीदशं सूर्यं अत्रिमोचितम्। सूर्यः पूर्वं स्वर्भानुनाऽसुरेण यत्त्रस्त आसीत् तमन्ये ऋषयः मोचयितुं न शक्ताः। ततोऽत्रिभिर्मोचितः।
 
- तथा [ब्राह्मणे](# "हारिद्रवके (सायणवेदभाष्य ऋ० ५. ४०.५.)")—स्वर्भानुर्ह आसुर आदित्यं तमसाविध्यत् तस्यात्रयस्तमोऽजिघांसत इति।
+[^50]: "कात्यायनस्य सर्वानुक्रमणी ( MacDonell's Edition
+
+ तथा ब्राह्मणे[^51]")—स्वर्भानुर्ह आसुर आदित्यं तमसाविध्यत् तस्यात्रयस्तमोऽजिघांसत इति।
+
+[^51]: "हारिद्रवके (सायणवेदभाष्य ऋ० ५. ४०.५.
 
 **अस्मिन्नर्थे ऋक् (ऋ० ५. ४०.५.)**—
 
@@ -730,7 +830,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 **तेन स्तुता प्रसन्ना तमन्वेयाय सरस्वती।  
 माध्यमास्तं नमस्कृत्य विनिन्युः क्रोधमादरात्॥३॥**
 
- तथा [कौषीतकि](# "तथा चैतरेयब्राह्मणम्-अ० ८.१९। ऋषयो वै सरस्वत्यां सत्रमासत। ते कवषमैलुषं सोमादनयन् दास्याः पुत्रः कितवोऽब्राह्मणः कथं नो मध्येदीक्षिष्टेति। ते वद्दिर्धन्वोदवहन्नत्रैव पिपासा हन्तु। सरस्वत्या उदकं मा पादिति। सबहिर्धन्वोदूह्नः पिपासया वित्त एतदपोनप्त्रीयमपश्यत्प्रदेवत्रा (ऋ. १०.३०. १) इति। तेनापां प्रियं धामोपागछत्तमापोऽनूदायंस्त सरस्वती समन्तं पर्यधावत्॥")ब्राह्मणे माध्यमाः सरस्वत्यां सत्रमासतेत्यादि कवषस्य प्रसन्नत्वं सम्यगुक्तम्। हे शारदे त्वयि प्रसन्नायां सत्यां इयन्तमर्थं देहीत्याशास्ते। अहं हि द्विज क्रोधात्सदा विभयानि। भीतो भूयासम्। क इव। होतेव। यथा होता प्रातरनुवाकवक्ता। देवव्यथेः। देवक्रोधाद्भीतः सन् प्रतिपदं नैकदेवत्यामकृत। तदर्थमितिहासः—
+ तथा कौषीतकि[^52] इति। तेनापां प्रियं धामोपागछत्तमापोऽनूदायंस्त सरस्वती समन्तं पर्यधावत्॥")ब्राह्मणे माध्यमाः सरस्वत्यां सत्रमासतेत्यादि कवषस्य प्रसन्नत्वं सम्यगुक्तम्। हे शारदे त्वयि प्रसन्नायां सत्यां इयन्तमर्थं देहीत्याशास्ते। अहं हि द्विज क्रोधात्सदा विभयानि। भीतो भूयासम्। क इव। होतेव। यथा होता प्रातरनुवाकवक्ता। देवव्यथेः। देवक्रोधाद्भीतः सन् प्रतिपदं नैकदेवत्यामकृत। तदर्थमितिहासः—
+
+[^52]: "तथा चैतरेयब्राह्मणम्-अ० ८.१९। ऋषयो वै सरस्वत्यां सत्रमासत। ते कवषमैलुषं सोमादनयन् दास्याः पुत्रः कितवोऽब्राह्मणः कथं नो मध्येदीक्षिष्टेति। ते वद्दिर्धन्वोदवहन्नत्रैव पिपासा हन्तु। सरस्वत्या उदकं मा पादिति। सबहिर्धन्वोदूह्नः पिपासया वित्त एतदपोनप्त्रीयमपश्यत्प्रदेवत्रा (ऋ. १०.३०. १
 
  अनुवाकप्रयोक्तारं प्रातर्होतारमृत्विजम्।  
 ————————————————————————————————————————
@@ -916,8 +1018,10 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  याचकानां धैर्यं कुत इत्यर्थ आह—
 
-**याचकानां कुतो धैर्यं [यत्त](# " 'तत्याज मघवापि हि' इत्यपि पाठः। 'ग' पुस्तकेऽतऊर्ध्वमेव-मपि दृश्यते—  याचकानां कुतो धैर्यंदेवा धैर्यंहि तत्यजुः। उचतुश्चाधरं शक्रं मधुच्छन्दाश्च गौतमः॥२॥   कस्मिन्मन्त्रे मधुच्छन्दसा कस्मिंश्च वामदेवेन शक्रोऽधर उक्तस्तदाह—'यत्सानोरिति।")त्याज पुरन्दरः।  
+**याचकानां कुतो धैर्यं यत्त[^53]त्याज पुरन्दरः।  
 अभूत्सोममना सानौ दृष्ट्वर्षिमिध्ममानसम्॥६॥**
+
+[^53]: " 'तत्याज मघवापि हि' इत्यपि पाठः। 'ग' पुस्तकेऽतऊर्ध्वमेव-मपि दृश्यते—  याचकानां कुतो धैर्यंदेवा धैर्यंहि तत्यजुः। उचतुश्चाधरं शक्रं मधुच्छन्दाश्च गौतमः॥२॥   कस्मिन्मन्त्रे मधुच्छन्दसा कस्मिंश्च वामदेवेन शक्रोऽधर उक्तस्तदाह—'यत्सानोरिति।"
 
  याचकानां याचकवृत्तीनां धैर्यं साहस्यं कुतो भवति। यद्धैर्यं पुरन्दरः इन्द्रोपि याचकत्वमापन्नः सन् तत्याज त्यक्तवान्। तत्कुत इत्याह—सानौ पर्वतशिखरे कश्चिदृषिम् इध्मं मानसे यस्य तं दृष्ट्वा स एव सोममनाःसोमे अभिषवार्थवल्लीरूपे मनो यस्य सः एवंविधमना अभूत्।
 
@@ -931,10 +1035,16 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
  **यत्। सानोः॑। सानु॑म्। आ। अरु॑हत्। भूरि॑। अस्प॑ष्ट। कर्त्व॑म्। तत्। इन्द्रः॑। अर्थ॑म्। चे॒त॒ति॒। यू॒थेन॑।वृ॒ष्णिः। ए॒ज॒ति॒॥५॥**
 
 **इन्धनार्थमृषिः कश्चिन्निर्जगाम वनाद्वहिः।  
-[पर्वतभ्रमणं](# " 'चक्रे' इत्यपि पाठः।") कुर्वन् सानोर्वै सानुमरुहत्॥१॥**
+पर्वतभ्रमणं[^54] कुर्वन् सानोर्वै सानुमरुहत्॥१॥**
 
-**[अचेती](# "'अर्थे चेतति शक्रस्तम्' इत्यपि पाठः।")दर्थमिन्द्रस्तं सोमार्थं भ्रमति ह्ययम्।  
-इति सञ्चिन्त्य सुत्रामा [देवयूथेन](# "'एजति' इत्यपि पाठः।")चाचलत्****॥****२****॥**
+[^54]: " 'चक्रे' इत्यपि पाठः।"
+
+**अचेती[^55]दर्थमिन्द्रस्तं सोमार्थं भ्रमति ह्ययम्।  
+इति सञ्चिन्त्य सुत्रामा देवयूथेन[^56]चाचलत्****॥****२****॥**
+
+[^55]: "'अर्थे चेतति शक्रस्तम्' इत्यपि पाठः।"
+
+[^56]: "'एजति' इत्यपि पाठः।"
 
  **मधुच्छन्दा इन्द्रो गायत्री महदुक्थे तृचं विनियुक्तम्।**
 
@@ -1003,19 +1113,29 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
  **तथा च बृहद्देवता ( ४.२१-२५);**—
 
 **जीर्ण तु दीर्घतमसं खिन्ना स्तत्परिचारकाः  
-[दासा](# "'अग्नौ' इत्यपि पाठः।")बद्ध्वा नदीतोये दृष्टिहीनमवादधुः॥२१॥**
+दासा[^57]बद्ध्वा नदीतोये दृष्टिहीनमवादधुः॥२१॥**
 
-**[तत्रै](# "२२/२३द्वावेतौ श्लोकौ बृहद्देवताया उद्धृतौ नीतिमञ्जर्योनस्तः।") कस्त्रैतनो नाम शस्त्रेणैनमपाहनत्।  
+[^57]: "'अग्नौ' इत्यपि पाठः।"
+
+**तत्रै[^58] कस्त्रैतनो नाम शस्त्रेणैनमपाहनत्।  
 शिरश्चांसावुरश्चैव स्वयमेव न्यकृन्तत॥२२॥**
 
+[^58]: "२२/२३द्वावेतौ श्लोकौ बृहद्देवताया उद्धृतौ नीतिमञ्जर्योनस्तः।"
+
 **हत्वा दीर्घतमास्तन्तु पापेन महता वृतम्॥  
-[अङ्गराजसमीपे](# "'अङ्गदेशसमीपे, इत्यपि पाठः।") तु तं नद्यः समुदक्षिपन्॥२३॥**
+अङ्गराजसमीपे[^59] तु तं नद्यः समुदक्षिपन्॥२३॥**
+
+[^59]: "'अङ्गदेशसमीपे, इत्यपि पाठः।"
 
 **आत्माङ्गान्यनुदच्चैव तत्रोदोन्मोहितो भृशम्॥  
-[अङ्गराजगृहे](# "'युक्तामुशिजम् इत्यपि पाठः।") दासीमुशिजं पुत्रकाम्यया॥२४॥**
+अङ्गराजगृहे[^60] दासीमुशिजं पुत्रकाम्यया॥२४॥**
 
-**[राज्ञा](# "राज्ञा च प्रहितां दासीं भक्तां मत्त्वा महातपाः। जनयामास चोत्थाय कक्षीवत्प्रमुखानृषीन्॥२५॥ इति बृहद्देवतायाम्।") च प्रहितां ज्ञात्वा शुद्धां कृत्वारमन्मुनिः।  
+[^60]: "'युक्तामुशिजम् इत्यपि पाठः।"
+
+**राज्ञा[^61] च प्रहितां ज्ञात्वा शुद्धां कृत्वारमन्मुनिः।  
 सा च कक्षीवतं जज्ञे॥२५॥ इति कथा।**
+
+[^61]: "राज्ञा च प्रहितां दासीं भक्तां मत्त्वा महातपाः। जनयामास चोत्थाय कक्षीवत्प्रमुखानृषीन्॥२५॥ इति बृहद्देवतायाम्।"
 
 
 
@@ -1138,7 +1258,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
  पितरौ वन्द्यौ इत्याह—
 
 **पितरौ हि सदा वन्द्यौ न त्यजेदपराधिनौ।  
-[पित्रा](# "'यूपबद्धः शुनः शेपो बभूव पितृलालसः' इति पाठभेदः।")बद्धः शुनःशेपो ययाचे पितृदर्शनम्॥११॥**
+पित्रा[^62]बद्धः शुनःशेपो ययाचे पितृदर्शनम्॥११॥**
+
+[^62]: "'यूपबद्धः शुनः शेपो बभूव पितृलालसः' इति पाठभेदः।"
 
  पितरौ मातापितरौ। पितामात्रेत्येकशेषः (पा० १.२.७०)। अपराधिनौ कृतापराधावपि न त्यजेत्। हि यत्स्मात् सदा सर्वदा वन्द्यौ वन्दनीयौ। शुनःशेपदृष्टान्तेन दृढयति। यथा शुनःशेपः पित्रा अजीगर्त्तेन गवां शतं गृहीत्वा विक्रीतः, गवां शतं गृहीत्वा यूपे बद्धः, गवां शतं गृहीत्वा विशसनाय शासो गृहीतः, तथापि पितृदर्शनपूर्वकं देवान्मोक्षणं ययाचे कस्येत्यादिभिर्ऋग्भिः (ऋ० १. २४.)।
 
@@ -1168,11 +1290,15 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 **शतभार्यो हरिश्चन्द्र ऐक्ष्वाकः पुत्रकाम्यया।  
 नारदोक्ताद्धि पुत्रार्थे वरुणात् सुतमाप्तवान्॥२॥**
 
-**जाते पुत्रे [ह्यने](# "'त्वामनेन' इत्यपि पाठः।")न त्वां यक्ष्येऽहमिति चोक्तवान्।  
+**जाते पुत्रे ह्यने[^63]न त्वां यक्ष्येऽहमिति चोक्तवान्।  
 वरुणस्तनये जाते निर्दशे जातदन्तके॥३॥**
 
-**च्युतदन्ते पुनर्जातदन्ते [व](# "'वर्म्मभरे इत्यपि पाठः")र्म्मचरेतथा।  
+[^63]: "'त्वामनेन' इत्यपि पाठः।"
+
+**च्युतदन्ते पुनर्जातदन्ते व[^64]र्म्मचरेतथा।  
 मेध्यस्थे तदवस्थोऽसाविति राज्ञा प्रतारितः॥४॥**
+
+[^64]: "'वर्म्मभरे इत्यपि पाठः"
 
 **निर्बध्य स नृपं प्रोचे पुत्रेणाद्यैव मा यज।  
 इत्युक्तो वरुणेनोचे स्वपुत्रं रोहितं नृपः॥५॥**
@@ -1198,13 +1324,19 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 पुनर्विशसनं कर्त्तुं पिता जग्राह गोशतम्॥११॥**
 
 **यूपे बद्धः शुनः शेपो जिघांसुं पितरं ततः।  
-[दृष्ट्वा](# " 'ऊचे तिष्टाहमेवान्या इत्यपि पाठः।") चाहाहमेवान्या उपधावामि देवताः॥१२॥**
+दृष्ट्वा[^65] चाहाहमेवान्या उपधावामि देवताः॥१२॥**
 
-**अस्तौत्कर्मादावग्निंच सवितारं भगं [त](# " 'च सः' इत्यपि पाठः।")था।  
+[^65]: " 'ऊचे तिष्टाहमेवान्या इत्यपि पाठः।"
+
+**अस्तौत्कर्मादावग्निंच सवितारं भगं त[^66]था।  
 वरुणं पुनरग्निंविश्वान्देवानथो खलु॥१३॥**
 
-**[इन्द्रं](# "अतः परमेते श्लोकाः सर्वानुक्रमणीत उद्धृत्य लिखिता नीतिमञ्जर्यांन सन्ति।") च पूर्वव्यापारसम्प्राप्तस्तुतिसुप्रियम्।  
+[^66]: " 'च सः' इत्यपि पाठः।"
+
+**इन्द्रं[^67] च पूर्वव्यापारसम्प्राप्तस्तुतिसुप्रियम्।  
 हिरण्मयरथस्यापि स्वस्मै दातारमेव च॥१५॥**
+
+[^67]: "अतः परमेते श्लोकाः सर्वानुक्रमणीत उद्धृत्य लिखिता नीतिमञ्जर्यांन सन्ति।"
 
 **अश्विना उषसं चापि तृचाभ्यामन्ततस्तदा।  
 अतिप्रीतियुतै र्देवै स्तै र्यूपान्मोचितस्तदा॥१५॥**
@@ -1252,8 +1384,10 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  देवानामपि स्तुतिः प्रियेत्याह—
 
-**["ऐश्वर्यपरि](# "अत्र 'ग' पुस्तके पाठस्त्वेवम्- सर्वेषां स्तुतिरेव वल्लभा' इत्यवतरणिका। श्लोकस्तु—  स्तुतिर्नराणां देवानां प्रिया घर्ममृणञ्चयः। 'वभ्रुवे देवराताय शक्रोरौक्मं रथं ददौ॥१५॥   ऋणञ्चयो राजा बभ्रुवे ऋषये धर्मे सौवर्णे महावीरपात्रं ददौ। इन्द्रः शुनःशेपाय रथं ददौ इत्यर्थः।")पूर्णोपि दद्यात्स्तुत्यापि चेप्सितम्।  
+**"ऐश्वर्यपरि[^68]पूर्णोपि दद्यात्स्तुत्यापि चेप्सितम्।  
 शुनः शेपाय सौवर्णं रथमिन्द्रः स्तुतो ददौ॥१२॥**
+
+[^68]: "अत्र 'ग' पुस्तके पाठस्त्वेवम्- सर्वेषां स्तुतिरेव वल्लभा' इत्यवतरणिका। श्लोकस्तु—  स्तुतिर्नराणां देवानां प्रिया घर्ममृणञ्चयः। 'वभ्रुवे देवराताय शक्रोरौक्मं रथं ददौ॥१५॥   ऋणञ्चयो राजा बभ्रुवे ऋषये धर्मे सौवर्णे महावीरपात्रं ददौ। इन्द्रः शुनःशेपाय रथं ददौ इत्यर्थः।"
 
  यः ऐश्वर्येण परिपूर्णः सोपि स्तुत्यैव तुष्टः सन् दद्यात्-ईप्सितं इष्टं तस्यापि स्तुति रेव इन्द्रवत्प्रिया। देवेन्द्रः परमैश्वर्यसम्पूर्णोऽपि शुनः शेपेन यच्चिद्धि-सत्येचेति सूक्ताभ्यां (ऋ० १.२५, २८) यत्नेन स्तुतः स ईप्सितं सौवर्णं सुवर्णमयं रथं तस्मै शुनः शेपाय ददौ दत्तवान्। तथा सर्वोपि स्तुतिप्रियो भवतीत्यर्थः।
 
@@ -1348,7 +1482,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  स्थातः–**स्थातर्जरितरिति रेफः। (ऋ० प्रा० १.११५)**
 
- देवतापि कृतं कर्म [भुंक्त](# "'ग' पुस्तकेऽवतरणिका त्वेवं दृश्यते। भाग्यं विना किमपि नास्तीत्यर्थ आह—  देवत्वेऽपि सुखं नास्ति भाग्यं यदि न विद्यते। सविताऽभूदयः पाणिरजाश्वो गतदन्तकः॥१॥ इति।")इत्याह—
+ देवतापि कृतं कर्म भुंक्त[^69]इत्याह—
+
+[^69]: "'ग' पुस्तकेऽवतरणिका त्वेवं दृश्यते। भाग्यं विना किमपि नास्तीत्यर्थ आह—  देवत्वेऽपि सुखं नास्ति भाग्यं यदि न विद्यते। सविताऽभूदयः पाणिरजाश्वो गतदन्तकः॥१॥ इति।"
 
 **शुभाशुभं कृतं कर्म भुञ्जते देवता अपि।  
 सविता हेमहस्तोऽभूद्भगोऽन्धः पूषकोऽद्विजः॥१५॥**
@@ -1425,12 +1561,20 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 ** अ॒भि। त्यम्। मे॒षम्। पु॒रु॒हू॒तम्। ऋ॒ग्मिय॑म्। इन्द्र॑म्। गीः॒ऽभिः। म॒द॒त॒। वस्वः॑। अ॒र्ण॒वम्। यस्य॑। द्यावः॑। न। वि॒ऽचर॑न्ति। मानु॑षा। भु॒जे। मंहि॑ष्ठम्। अ॒भि। विप्र॑म्। अ॒र्च॒त॒॥१६॥**
 
- सव्यो जगत्या इन्द्रं [तुष्टाव](# "ऋचमेनामधिकृत्यावतरणिका 'ग' पुस्तके त्वेवं दृश्यते धनस्त्रीजीवितव्याहारेषु कस्यापि धैर्ये नास्तीत्यर्थे श्लोकानाह- धनस्त्रीजीवितव्येष्वाहारेषु ऋषिदेवताः। यद्यतृप्ता बभ्रुवुस्ते मनुष्याणां कुतो धृतिः॥१॥")। प्रथमे होतुः पर्याये विनियुक्तम्। अभित्यं मेषमिति (ऋ० १.५१ ) जागतमिति सूत्रम्।
+ सव्यो जगत्या इन्द्रं तुष्टाव[^70]। प्रथमे होतुः पर्याये विनियुक्तम्। अभित्यं मेषमिति (ऋ० १.५१ ) जागतमिति सूत्रम्।
+
+[^70]: "ऋचमेनामधिकृत्यावतरणिका 'ग' पुस्तके त्वेवं दृश्यते धनस्त्रीजीवितव्याहारेषु कस्यापि धैर्ये नास्तीत्यर्थे श्लोकानाह- धनस्त्रीजीवितव्येष्वाहारेषु ऋषिदेवताः। यद्यतृप्ता बभ्रुवुस्ते मनुष्याणां कुतो धृतिः॥१॥"
 
 
 
- ऋचोऽयमर्थः। त्यं तं प्रसिद्धं इन्द्रम्। त्यच्छब्दश्छन्दसि तदर्थः। उद्वहन्ति तमितिवत्। हे ऋत्विजः। गीर्भिः स्तुतिभिः मदत हर्षं प्रापयत। मदी हर्षे। कीदृशम्। [मेषं](# "मेषम्-शत्रुभिः स्पर्धमानम् इति वेदभाष्ये। मिष स्पर्धायां 'इगुपधलक्षणे के' प्राप्ते 'देवसेनमेषादयः पचादिषु द्रष्टव्या' इति वचनाद् अच्प्रत्ययः।")। मेधातिथेर्मेषम्। कण्वपुत्रं मेधातिथम् ऋषिंइन्द्र आगत्य एवमवोचत् मह्यं देहीति सोमं। त्वं मेषरूपं यदि करोषि तर्हि सोमं दद्यामिति। ततो मेषरूपमास्थाय इन्द्रस्तदीयं सोमं पपौ। स ऋषिस्तं मेष इत्यवोचत्। अत इदानीमपि मेष इन्द्रोऽभिधीयते। मेधातिथेर्मेष इति सुब्रह्मण्यायाम्। मेधातिथिं हि काण्वायनिं मेषो भूत्वा जहारेति मेषत्वं बहुभिः प्रतिपादितम्। पुनः कीदृशम्। पुरुहूतं बहुभिर्यजमानै राहूतम्। पुनः कीदृशम्। [ऋग्मियम्](# "ऋग्मियम्-ऋग्भिर्विक्रियमाणं स्तूयमानमित्यर्थः। स्तुत्याहि देवता विक्रियते। तस्य विकार इत्यर्थे एकाचो नित्यं मयटमिच्छन्तीति मयट् प्रत्ययः। अकारस्येकारश्छान्दसः। प्रत्ययस्वरः।")। [ऋग्भिर्मीयते](# "माङ माने शब्दे च। ऋग्भिर्मीयते इति ऋग्मीः। क्विपि वलिलोपात्पूर्वमेव परत्वात् घुमास्थेतीत्वम् अचिरनुधातीवत्यादिनेयङादेशः कृदुत्तरपदप्रकृतिस्वरत्वम्।")  
+ ऋचोऽयमर्थः। त्यं तं प्रसिद्धं इन्द्रम्। त्यच्छब्दश्छन्दसि तदर्थः। उद्वहन्ति तमितिवत्। हे ऋत्विजः। गीर्भिः स्तुतिभिः मदत हर्षं प्रापयत। मदी हर्षे। कीदृशम्। मेषं[^71]। मेधातिथेर्मेषम्। कण्वपुत्रं मेधातिथम् ऋषिंइन्द्र आगत्य एवमवोचत् मह्यं देहीति सोमं। त्वं मेषरूपं यदि करोषि तर्हि सोमं दद्यामिति। ततो मेषरूपमास्थाय इन्द्रस्तदीयं सोमं पपौ। स ऋषिस्तं मेष इत्यवोचत्। अत इदानीमपि मेष इन्द्रोऽभिधीयते। मेधातिथेर्मेष इति सुब्रह्मण्यायाम्। मेधातिथिं हि काण्वायनिं मेषो भूत्वा जहारेति मेषत्वं बहुभिः प्रतिपादितम्। पुनः कीदृशम्। पुरुहूतं बहुभिर्यजमानै राहूतम्। पुनः कीदृशम्। ऋग्मियम्[^72]। ऋग्भिर्मीयते[^73]  
 ————————————————————————————————
+
+[^71]: "मेषम्-शत्रुभिः स्पर्धमानम् इति वेदभाष्ये। मिष स्पर्धायां 'इगुपधलक्षणे के' प्राप्ते 'देवसेनमेषादयः पचादिषु द्रष्टव्या' इति वचनाद् अच्प्रत्ययः।"
+
+[^72]: "ऋग्मियम्-ऋग्भिर्विक्रियमाणं स्तूयमानमित्यर्थः। स्तुत्याहि देवता विक्रियते। तस्य विकार इत्यर्थे एकाचो नित्यं मयटमिच्छन्तीति मयट् प्रत्ययः। अकारस्येकारश्छान्दसः। प्रत्ययस्वरः।"
+
+[^73]: "माङ माने शब्दे च। ऋग्भिर्मीयते इति ऋग्मीः। क्विपि वलिलोपात्पूर्वमेव परत्वात् घुमास्थेतीत्वम् अचिरनुधातीवत्यादिनेयङादेशः कृदुत्तरपदप्रकृतिस्वरत्वम्।"
 
 **विश्वामित्रो धनं हृत्वा नदीस्तुष्टाव सादरम्।  
 कक्षीवान्वृचयां वत्रे दशभार्यो हि शक्रजाम्॥२॥  
@@ -1441,7 +1585,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 
 
-शब्द्यत इति ऋग्मीः। अचिश्नुधातुभ्रुवां० (पा० ६.४.७७. ) इतीयङ्। पुनः कीदृशम्। वस्वो अर्णवम्। वस्वो धनस्य अर्णवं वासभूतम्। यस्य इन्द्रस्य कर्माणि मानुषा मनुष्याणां हितानि भुजे भोगाय विचरन्ति विशेषेण प्रवर्तन्ते। तत्र दृष्टान्तः। द्यावो न। अयं न उपमार्थीयः। उपमार्थीय उपरिष्टादुपचारस्तस्येति यास्कः (नि० १.४.१०.), अश्व न त्वेतिवत्। यथा द्यावः सूर्यस्य रश्मयः सर्वेषां हितकरा भवन्ति। तं मंहिष्ठम् अतिशयेन मंहिता मंहिष्ठः तम्। तुश्छन्दसीति ( पा० ५.३, ५९.) इष्ठन् प्रत्ययः। विप्रं मेधाविनम्। विप्रः विग्रः (निघण्टु ३. १५) इति तन्नाम। अर्चत पूजयत हे [ऋत्विजः](# "'अनेनेन्द्रो ऽप्याहारेऽतृप्तो वभूवेत्युक्तम्' इति 'ग' पुस्तके।")। अर्च पूजायाम्।
+शब्द्यत इति ऋग्मीः। अचिश्नुधातुभ्रुवां० (पा० ६.४.७७. ) इतीयङ्। पुनः कीदृशम्। वस्वो अर्णवम्। वस्वो धनस्य अर्णवं वासभूतम्। यस्य इन्द्रस्य कर्माणि मानुषा मनुष्याणां हितानि भुजे भोगाय विचरन्ति विशेषेण प्रवर्तन्ते। तत्र दृष्टान्तः। द्यावो न। अयं न उपमार्थीयः। उपमार्थीय उपरिष्टादुपचारस्तस्येति यास्कः (नि० १.४.१०.), अश्व न त्वेतिवत्। यथा द्यावः सूर्यस्य रश्मयः सर्वेषां हितकरा भवन्ति। तं मंहिष्ठम् अतिशयेन मंहिता मंहिष्ठः तम्। तुश्छन्दसीति ( पा० ५.३, ५९.) इष्ठन् प्रत्ययः। विप्रं मेधाविनम्। विप्रः विग्रः (निघण्टु ३. १५) इति तन्नाम। अर्चत पूजयत हे ऋत्विजः[^74]। अर्च पूजायाम्।
+
+[^74]: "'अनेनेन्द्रो ऽप्याहारेऽतृप्तो वभूवेत्युक्तम्' इति 'ग' पुस्तके।"
 
  मदत-दधिममदत० \[ऋ० प्रा० ८.१५.\] इति दीर्घः।
 
@@ -1473,7 +1619,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 **  अद॑दाः। अर्भा॑म्। म॒ह॒ते। वच॒स्यवे॑। क॒क्षीव॑ते॒। वृ॒च॒याम्। इ॒न्द्र॒। सु॒न्व॒ते। मेना॑। अ॒भ॒वः॒।  
 वृ॒ष॒ण॒श्वस्य॑। सु॒क्र॒तो॒ इति॑ सु॒ऽक्रतो। विश्वा॑। इत्। ता। ते॒। सव॑नेषु। प्र॒ऽवाच्य॥१७॥**
 
- इन्द्रः वृचयां पुत्रीं आत्मजां सोमाकाङ्क्षया सुन्वते सोमाभिपवं [कुर्वते](# "महते वचस्यवे इति द्वे विशेषणे नीतिमञ्जर्यांव्याख्यातुं विस्मृते दृश्येते। तयो र्व्याख्यानं वेदभाष्ये त्वेवम्- महते प्रवृद्धाय वचस्यवे त्वदीयस्तोत्रलक्षणं वच आत्मनः इच्छते। सुप आत्मनः क्यच् (पा० ३।१।८) क्याच्छन्दास (पा० ३।२।१७०) इत्युप्रत्ययः।")कक्षीवते ऋषये वृचयाख्यामर्भाम् अल्पाम्। दभ्रमर्भकमित्यल्पस्येति यास्कः (निघण्टु ३.२) युवतिमित्यर्थः। एवंविधां पुत्रीमददाः अदाः। तथा। सुक्रतो सुकर्मन् सुप्रज्ञ वा। क्रतुः कर्मनामसु पठितः (निघण्टु २.१)। प्रज्ञानामसु वा (निघण्टु ३.९)। त्वं वृषणश्वस्य राज्ञो मेनाऽभवः। मेना नाम कन्याऽभूः।
+ इन्द्रः वृचयां पुत्रीं आत्मजां सोमाकाङ्क्षया सुन्वते सोमाभिपवं कुर्वते[^75] क्याच्छन्दास (पा० ३।२।१७०) इत्युप्रत्ययः।")कक्षीवते ऋषये वृचयाख्यामर्भाम् अल्पाम्। दभ्रमर्भकमित्यल्पस्येति यास्कः (निघण्टु ३.२) युवतिमित्यर्थः। एवंविधां पुत्रीमददाः अदाः। तथा। सुक्रतो सुकर्मन् सुप्रज्ञ वा। क्रतुः कर्मनामसु पठितः (निघण्टु २.१)। प्रज्ञानामसु वा (निघण्टु ३.९)। त्वं वृषणश्वस्य राज्ञो मेनाऽभवः। मेना नाम कन्याऽभूः।
+
+[^75]: "महते वचस्यवे इति द्वे विशेषणे नीतिमञ्जर्यांव्याख्यातुं विस्मृते दृश्येते। तयो र्व्याख्यानं वेदभाष्ये त्वेवम्- महते प्रवृद्धाय वचस्यवे त्वदीयस्तोत्रलक्षणं वच आत्मनः इच्छते। सुप आत्मनः क्यच् (पा० ३।१।८
 
  तथा शाट्यायनिभिः सुब्रह्मण्यायां मन्त्रैकदेशे ब्राह्मणमेवमाम्नायते 'वृषणश्वस्य मेन' इति। 'वृषणश्वस्य मेना भूत्वा मघवा कुलमुवासेति तां च प्राप्तयौवनां स्वयमेवेन्द्रश्चकम' इति।
 
@@ -1483,7 +1631,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 
 
- नृणां धनदो [धन्यो](# "अस्यावतरणिका 'ग' पुस्तके त्वेवम् सर्वेषां प्रियं ब्रूयादित्यर्थ आह—  सर्वेषामेव जन्तूनां प्रियं ब्रूयाद्विचक्षणः। धनदानां विशेषेण सव्यस्तुष्टाव वासवम्॥१॥   सब्यो जगत्या इन्द्रं स्तौति 'न्यू ३ षु' (ऋ० १.५३. १) इति।")महानित्याह—
+ नृणां धनदो धन्यो[^76] इति।")महानित्याह—
+
+[^76]: "अस्यावतरणिका 'ग' पुस्तके त्वेवम् सर्वेषां प्रियं ब्रूयादित्यर्थ आह—  सर्वेषामेव जन्तूनां प्रियं ब्रूयाद्विचक्षणः। धनदानां विशेषेण सव्यस्तुष्टाव वासवम्॥१॥   सब्यो जगत्या इन्द्रं स्तौति 'न्यू ३ षु' (ऋ० १.५३. १
 
 **"नृषु यो धनदो धन्य इन्द्रतुल्यैः प्रशस्यते।  
 सुष्टुत्या द्रविणोदःसु सव्यो नाहेति दुष्टुतिः॥१९॥**
@@ -1506,7 +1656,13 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  तथा चानुक्रमणी—**"अङ्गिरा इन्द्रतुल्यं पुत्रमिच्छन्नभ्यध्यायदि"**ति–
 
- **अयमर्थः**—महे महते इन्द्राय सुवाचं शोभनां स्तुतिं नि प्रभरामहेनितरां [प्रयुञ्ज्महे](# "उः पादपूरणः। 'मिताक्षेरठवनर्थकाः कमीमिद्विति यारकः (नि० १।९ )' इति 'ग' पुस्तके।")। यतः [विवस्वतः](# "विवासतिः परिचर्यायाम् ( निघण्टु ३।५ )। विवस्वतः परिचरणवतः।")परिचरतो यजमानस्य सदने यज्ञगृहे इन्द्राय गिरः स्तुतयः क्रियन्ते इति शेषः। हि यस्मात्स इन्द्रः नृचित् क्षिप्रमेव पुराण नवं च। रत्नं रमणीयं धनं असुराणामविदत्—विन्दति। तत्र दृष्टान्तः। [ससतामिव](# "'सुप्तानाम्' इति 'ग' पुस्तके। षस स्वप्ने। अस्माच्छत्रन्तादन्तोदात्तात्परस्याविभक्तेः शतुरनुमो० ( पा०६।१।१७३ ) इत्युदात्तत्वम् इवेन विभक्त्यलोपः। पूर्वपदप्रकृतिस्वरत्वं चेति समासः।")यथा स्वपतां पुरुषाणां चोरः धनं लभते तद्वत्। अतोऽस्मभ्यं धनं दातुं शक्त इति भावः। द्रविणोदेषु धनदातृषु पुरुषेषु दुष्टुतिरसमीचीना स्तुतिः न शस्यते नाभिधीयते। अतः सुवाचं प्रभरामहे।
+ **अयमर्थः**—महे महते इन्द्राय सुवाचं शोभनां स्तुतिं नि प्रभरामहेनितरां प्रयुञ्ज्महे[^77]' इति 'ग' पुस्तके।")। यतः विवस्वतः[^78]। विवस्वतः परिचरणवतः।")परिचरतो यजमानस्य सदने यज्ञगृहे इन्द्राय गिरः स्तुतयः क्रियन्ते इति शेषः। हि यस्मात्स इन्द्रः नृचित् क्षिप्रमेव पुराण नवं च। रत्नं रमणीयं धनं असुराणामविदत्—विन्दति। तत्र दृष्टान्तः। ससतामिव[^79] इत्युदात्तत्वम् इवेन विभक्त्यलोपः। पूर्वपदप्रकृतिस्वरत्वं चेति समासः।")यथा स्वपतां पुरुषाणां चोरः धनं लभते तद्वत्। अतोऽस्मभ्यं धनं दातुं शक्त इति भावः। द्रविणोदेषु धनदातृषु पुरुषेषु दुष्टुतिरसमीचीना स्तुतिः न शस्यते नाभिधीयते। अतः सुवाचं प्रभरामहे।
+
+[^77]: "उः पादपूरणः। 'मिताक्षेरठवनर्थकाः कमीमिद्विति यारकः (नि० १।९
+
+[^78]: "विवासतिः परिचर्यायाम् ( निघण्टु ३।५
+
+[^79]: "'सुप्तानाम्' इति 'ग' पुस्तके। षस स्वप्ने। अस्माच्छत्रन्तादन्तोदात्तात्परस्याविभक्तेः शतुरनुमो० ( पा०६।१।१७३
 
  न्यू३॒॑यु इति। इकारयोश्च प्रश्लेषे क्षैप्रातिक्षैप्रसन्धित्वात् (ऋ० प्रा० ३-१३) स्वरितं कृत्वा 'जात्योऽभिनिहतः (ऋ० प्रा० ३.३४) इति कम्पः। उकारो व्रजस्य सुधा इति उकारस्य दीघे स्वबह्वक्षरेणेति (ऋ० प्रा० ५.५) पत्वम्।
 
@@ -1572,13 +1728,21 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  अथोत्तरार्द्धर्चस्येतिहासः। स्वश्वो नाम कश्चिद्राजा। स च पुत्रकामः सूर्यमुपासाञ्चक्रे। तस्य स सूर्यः पुत्ररूपी स्वयमेव तत्रोत्पन्नः सन्न् एतशेन महर्षिणा सार्द्धं युद्ध चकार। तदानीं स ऋषिः युद्धे जयार्थमिन्द्रं तुष्टाव। स इन्द्रम् तेन स्तूयमानः शश्वत् पुत्रस्य सूर्यसम्बन्धिनः संग्राम एनम् एतशम् अपालयदिति।
 
- अयमर्थः। यःइन्द्रः एक एव सन् भूरे र्बहुविधस्य धनस्येशानः स्वामी एषां स्तोतॄणां सम्बन्धि यत् स्तोत्रं वव्ने ययाचे। वनु याचने। इत्येतत् प्रसिद्धं स्तोत्रमस्मै इन्द्राय अस्माभिरनुदायि अकारीत्यर्थः। बहुलं छन्दस्यमाङ्० (पा० ६।४/७५) इति अडभावः। अयमिन्द्रः सूर्ये [पस्पृधानं](# " पस्पृधानम्—स्पर्ध सङ्घर्षे। अस्माल्लिटः कानच् (पा० ३।२। १०६) द्विर्वचने (पा० ६।१।१७) शर्पूर्वाः खयः (पा० ७।४।६१) इति यकारः शिष्यते। धात्वकारस्य लोपे रेफस्य सम्प्रसारणम् पृषोदरादित्वात् (पा० ६।३।१०९)। चित्वादन्तोदात्तत्वम् (पा० ६।१।१६३)") स्पर्धायमानं [सुष्विं](# "सुष्विम्—षुञ् अभिषवे। उत्सर्गश्छन्दसि (पा०वा०३।२।१७१) इति किन्। लिड्वद्भावाद्विर्भावः। यणादेशः। उवङादेशाभावश्छान्दसः।")सोमानाभिषोतारम्। षुञ् अभिषवे। किकिनावुत्सर्गश्छन्दसि सदादिम्यो दर्शनाद् इति वार्त्तिकेन किन् (पा० ३-२-१७१ वा०)। एतशम् ऋषि प्रावत् प्रारक्षत्। कीदशे सूर्ये [सौवश्व्ये](# "सौवश्व्ये—स्वश्व इति जनपदशन्दः क्षत्रिये संज्ञात्वेन वर्त्तते। वा नामधेयस्य वृद्धसंज्ञा० (पा० वा० १।१।७५) वृद्धे त्कोशला० (पा० ४।१।१७१) इति अपत्यार्थे यङ्प्रत्ययः। नय्वाभ्यां पदा० (पा० ७।३।३) इति वृद्धिप्रतिषेधः ऐजागमश्च ञित्त्वाद् (पा०६।१।१९७) आद्युदात्तत्वम्।")स्वश्वपुत्रे॥
+ अयमर्थः। यःइन्द्रः एक एव सन् भूरे र्बहुविधस्य धनस्येशानः स्वामी एषां स्तोतॄणां सम्बन्धि यत् स्तोत्रं वव्ने ययाचे। वनु याचने। इत्येतत् प्रसिद्धं स्तोत्रमस्मै इन्द्राय अस्माभिरनुदायि अकारीत्यर्थः। बहुलं छन्दस्यमाङ्० (पा० ६।४/७५) इति अडभावः। अयमिन्द्रः सूर्ये पस्पृधानं[^80] द्विर्वचने (पा० ६।१।१७) शर्पूर्वाः खयः (पा० ७।४।६१) इति यकारः शिष्यते। धात्वकारस्य लोपे रेफस्य सम्प्रसारणम् पृषोदरादित्वात् (पा० ६।३।१०९)। चित्वादन्तोदात्तत्वम् (पा० ६।१।१६३)") स्पर्धायमानं सुष्विं[^81] इति किन्। लिड्वद्भावाद्विर्भावः। यणादेशः। उवङादेशाभावश्छान्दसः।")सोमानाभिषोतारम्। षुञ् अभिषवे। किकिनावुत्सर्गश्छन्दसि सदादिम्यो दर्शनाद् इति वार्त्तिकेन किन् (पा० ३-२-१७१ वा०)। एतशम् ऋषि प्रावत् प्रारक्षत्। कीदशे सूर्ये सौवश्व्ये[^82] वृद्धे त्कोशला० (पा० ४।१।१७१) इति अपत्यार्थे यङ्प्रत्ययः। नय्वाभ्यां पदा० (पा० ७।३।३) इति वृद्धिप्रतिषेधः ऐजागमश्च ञित्त्वाद् (पा०६।१।१९७) आद्युदात्तत्वम्।")स्वश्वपुत्रे॥
+
+[^80]: " पस्पृधानम्—स्पर्ध सङ्घर्षे। अस्माल्लिटः कानच् (पा० ३।२। १०६
+
+[^81]: "सुष्विम्—षुञ् अभिषवे। उत्सर्गश्छन्दसि (पा०वा०३।२।१७१
+
+[^82]: "सौवश्व्ये—स्वश्व इति जनपदशन्दः क्षत्रिये संज्ञात्वेन वर्त्तते। वा नामधेयस्य वृद्धसंज्ञा० (पा० वा० १।१।७५
 
  सुष्विम्—युग्मान्तस्था दन्तमूलीयपूर्वैरिति (ऋ०प्रा०५.२०) दन्तमूलीयपूर्वत्वात्षत्वम्।
 
 
 
-[तत्त्वविदपि](# "अवतरणिकेयमेवमपि 'ग' पुस्तके दृश्यते— संसारे मायया सर्वं पीड्यत इत्यर्थ आह—  ")संसारान्न मुच्यत इत्याह—
+तत्त्वविदपि[^83]संसारान्न मुच्यत इत्याह—
+
+[^83]: "अवतरणिकेयमेवमपि 'ग' पुस्तके दृश्यते— संसारे मायया सर्वं पीड्यत इत्यर्थ आह—  "
 
 **तत्त्वविदपि संसारे मूढो भवति लोभतः।  
 तत्त्वज्ञा सरमाऽयाचादिन्द्रमन्नं गवां ग्रहे॥२२॥**
@@ -1599,7 +1763,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 **इन्द्र॑स्य। अङ्गि॑रसाम्। च॒। इ॒ष्टौ। वि॒दत्। स॒रमा॑ तन॑याय। धा॒सिम्। बृह॒स्पतिः॑। भि॒नत्। अद्रि॑म्। वि॒दत्। गाः। सम्। उ॒स्रिया॑भिः। वा॒व॒श॒न्त॒। नरः॑॥२१॥ **
 
 
-[किमिच्छन्तीति](# "इतिहासोऽयं लिखितपुस्तकेषु नोद्धृतो दृश्यते। कथाभेद एव तत्र कारणं स्यात्।") सूक्ते (ऋ० १०.१०८.) प्रोक्तः सरमासम्बन्धीतिहासो बृहद्देवतायामेवं वर्णितोऽस्ति—
+किमिच्छन्तीति[^84] सूक्ते (ऋ० १०.१०८.) प्रोक्तः सरमासम्बन्धीतिहासो बृहद्देवतायामेवं वर्णितोऽस्ति—
+
+[^84]: "इतिहासोऽयं लिखितपुस्तकेषु नोद्धृतो दृश्यते। कथाभेद एव तत्र कारणं स्यात्।"
 
 (बृहद्देवता–अ० ८, श्लो० २४–३६)—
 
@@ -1633,13 +1799,21 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 गत्वा जघान च पणीन् गाश्च ताः पुनराहरद् ॥ इति।  
 नोधा इन्द्रं तुष्टाव। वाचस्तोमे विनियोगः।**
 
- ऋचोऽयमर्थः। इन्द्रस्याङ्गिरसाम् ऋषीणां च इष्टौ प्रेषणे सति सरभा देवशुनी तनयाय स्वपुत्राय। तोकं तनयः—(निघण्टु २।२) अपत्यनामसु पाठात्। धासिम् अन्नं—क्षुत् धा–सिः\[निघण्टु २।७\] अन्ननामसु पाठात्। विदत् अविन्दत्। विद्ऌ लाभे—ऌदित्वाल्लुङि अड् (पा० ३।१।५) बहुलं छन्दस्यमाङ् ० \[पा० ६। ४। ७\] इति अडभावः। बृहस्पतिः तया गासु निवेदितासु[अद्रिं](# "अद्रिम्—'अत्तारमसुरम्' इति 'ग' पुस्तके वेदभाष्ये च।") पर्वतं भिनत् अभिन्दत्– भित्त्वा गाः विदत् अविन्दत्। ततो नरो नेतारो देवाः [उस्रियाभिः](# "उस्त्रियाभिः—निवसत्यस्यां क्षीरादिकमिति उस्रा गौः। वस निवासे इत्यस्मात्। स्फायितञ्चि० (उ० सृ० १७८) इत्यादिनाऽधिकरणे रक्प्रत्ययः। वाचस्वपि० (पा० ६।१।१५) इत्यादिना सम्प्रसारणम्। उस्राशब्दात्स्वार्थे पृषोदरादित्वेन घप्रत्यय इति निघण्टुभाष्यम्। घस्येयादेशः (पा० ७।१।२) प्रत्ययस्वरः।")। उस्रियेति गोनामेति यास्कः \[निघण्टु २।११\]। आभिः समं सह वावशन्त भृशं हर्षशब्दमकुर्वन्। [वाश्रृशब्दे।](# "यद्वा गोभिः साधनभूताभिस्तदीयं क्षीरादिकमकामयन्त समगच्छन्त्तेत्यर्थः। वे० भा०")
+ ऋचोऽयमर्थः। इन्द्रस्याङ्गिरसाम् ऋषीणां च इष्टौ प्रेषणे सति सरभा देवशुनी तनयाय स्वपुत्राय। तोकं तनयः—(निघण्टु २।२) अपत्यनामसु पाठात्। धासिम् अन्नं—क्षुत् धा–सिः\[निघण्टु २।७\] अन्ननामसु पाठात्। विदत् अविन्दत्। विद्ऌ लाभे—ऌदित्वाल्लुङि अड् (पा० ३।१।५) बहुलं छन्दस्यमाङ् ० \[पा० ६। ४। ७\] इति अडभावः। बृहस्पतिः तया गासु निवेदितासुअद्रिं[^85] पर्वतं भिनत् अभिन्दत्– भित्त्वा गाः विदत् अविन्दत्। ततो नरो नेतारो देवाः उस्रियाभिः[^86] इत्यादिनाऽधिकरणे रक्प्रत्ययः। वाचस्वपि० (पा० ६।१।१५) इत्यादिना सम्प्रसारणम्। उस्राशब्दात्स्वार्थे पृषोदरादित्वेन घप्रत्यय इति निघण्टुभाष्यम्। घस्येयादेशः (पा० ७।१।२) प्रत्ययस्वरः।")। उस्रियेति गोनामेति यास्कः \[निघण्टु २।११\]। आभिः समं सह वावशन्त भृशं हर्षशब्दमकुर्वन्। वाश्रृशब्दे।[^87]
+
+[^85]: "अद्रिम्—'अत्तारमसुरम्' इति 'ग' पुस्तके वेदभाष्ये च।"
+
+[^86]: "उस्त्रियाभिः—निवसत्यस्यां क्षीरादिकमिति उस्रा गौः। वस निवासे इत्यस्मात्। स्फायितञ्चि० (उ० सृ० १७८
 
  बृहस्पतिः तद्बृहतोः ० (पा० वा० ६।१।१५७) इति सुट्। उभे वनस्पत्त्यादिषु युगपदिति (पा० ६।२।१४०) प्रकृतिस्वरत्वम्।
 
+[^87]: "यद्वा गोभिः साधनभूताभिस्तदीयं क्षीरादिकमकामयन्त समगच्छन्त्तेत्यर्थः। वे० भा०"
 
 
-[महान्मृतोप्युपकरोतीत्याह](# " 'ग' पुस्तकेऽवतरणिकेयन्त्वेवम्–  सर्वदा गुरुः पूजनीय इत्याह—  श्लोकश्च—  उपकुर्वन्ति गुरवे सच्छिष्या अपमानिताः। इन्द्रो जघान वृत्राणि दधीचिशिरसोऽस्थिभिः॥इति।")—
+
+महान्मृतोप्युपकरोतीत्याह[^88]—
+
+[^88]: " 'ग' पुस्तकेऽवतरणिकेयन्त्वेवम्–  सर्वदा गुरुः पूजनीय इत्याह—  श्लोकश्च—  उपकुर्वन्ति गुरवे सच्छिष्या अपमानिताः। इन्द्रो जघान वृत्राणि दधीचिशिरसोऽस्थिभिः॥इति।"
 
 **महान्पतितकायोऽपि करोति सुखिनं परम्।  
 दधीचोऽश्वशिरोऽस्थ्नेन्द्रो हत्त्वा वृत्राण्यभूत्सुखी॥२३॥**
@@ -1653,15 +1827,25 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 **इन्द्रः। दधी॒चः। अ॒स्थऽभिः। वृ॒त्राणि॑। अप्रतिऽस्कुतः। ज॒घान। न॒व॒तीः। नव॥२२॥**
 
 
-[तत्रेतिहासः](# "'अत्र शाट्यायनिन इतिहासमाचक्षते' इति वेदभाष्ये।")आथर्वणस्य दधीचो जीवतो दर्शनेन असुराः [परिबभृवुः](# " 'परा बभूवुः' इति वेदभाष्ये।")। अथ तस्मिन्स्वर्गते असुरैः [परिपूर्णा](# " 'असुरैः पूर्णा' इति वे० भा०।")पृथिव्यभवत्। अथेन्द्रः तैरसुरैः सह योद्धुमशक्नुवंस्तमृषिमन्विच्छन् स्वर्गं गत इति शुश्राव। अथ तत्रत्यान् पप्रच्छ नेह किमस्य किञ्चित्परिशिष्टमङ्गमस्तीति। तस्मै अवोचद् अस्त्येतदाश्वं शीर्षं—येन शिरसा अश्विभ्यां मधुविद्यां प्राब्रवीत्। तत्तु न विद्मो यत्राभवदिति। पुनरिन्द्रोऽब्रवीत् तदन्विच्छतेति। तद्धान्वैषिषुः तच्छर्यणावत्यनुवि-
+तत्रेतिहासः[^89]आथर्वणस्य दधीचो जीवतो दर्शनेन असुराः परिबभृवुः[^90]। अथ तस्मिन्स्वर्गते असुरैः परिपूर्णा[^91]पृथिव्यभवत्। अथेन्द्रः तैरसुरैः सह योद्धुमशक्नुवंस्तमृषिमन्विच्छन् स्वर्गं गत इति शुश्राव। अथ तत्रत्यान् पप्रच्छ नेह किमस्य किञ्चित्परिशिष्टमङ्गमस्तीति। तस्मै अवोचद् अस्त्येतदाश्वं शीर्षं—येन शिरसा अश्विभ्यां मधुविद्यां प्राब्रवीत्। तत्तु न विद्मो यत्राभवदिति। पुनरिन्द्रोऽब्रवीत् तदन्विच्छतेति। तद्धान्वैषिषुः तच्छर्यणावत्यनुवि-
+
+[^89]: "'अत्र शाट्यायनिन इतिहासमाचक्षते' इति वेदभाष्ये।"
+
+[^90]: " 'परा बभूवुः' इति वेदभाष्ये।"
+
+[^91]: " 'असुरैः पूर्णा' इति वे० भा०।"
 
 
 
-[द्याजहुः](# " 'जडुः' इति वे० भा०।")। शर्यणावद्ध वै नाम कुरुक्षेत्रस्य जधनार्थे सरः स्यन्दते तस्य शिरसोऽस्थिभिरिन्द्रोऽसुराञ्जधानेति इयमर्थमनयोत्तरया च ऋचाऽऽह—
+द्याजहुः[^92]। शर्यणावद्ध वै नाम कुरुक्षेत्रस्य जधनार्थे सरः स्यन्दते तस्य शिरसोऽस्थिभिरिन्द्रोऽसुराञ्जधानेति इयमर्थमनयोत्तरया च ऋचाऽऽह—
+
+[^92]: " 'जडुः' इति वे० भा०।"
 
  गोतमो गायत्र्येन्द्रं स्तौति। षोडश्यां विनियोगः। षोडशिन इति खण्डे 'इन्द्रो दधीच' इति सूत्रितम्। (सां० श्रौ०सू० ९।६।११)
 
- अस्या ऋचोऽयमर्थः। अस्थभिः। छन्दस्यपि दृश्यते—(पा० ७।१।७६) इति अनजादावप्यस्थिशब्दस्यानङादेशः। स चोदात्तः। दधीचो अश्वशिरसः। इन्द्रः। अप्रतिष्कुतः परैरप्रतिशब्दितः प्रतिकूलशब्दरहितः। [नवतीर्नव](# "अस्य पदस्य व्याख्यानं 'ग' पुस्तके तथा वेदभाष्येऽप्येवम्– तथाहि लोकत्रयवर्त्तिनो देवाञ्जेतुमादावासुरी माया त्रिधा सम्पद्यते। त्रिविधा अतीतानागतवर्त्तमानकालभेदेन तत्कालवर्त्तिनो देवाञ्जेतुं पुनरपि प्रत्येकं त्रिगुणिता भवति। एवं नव सम्पद्यते। पुनरपि उत्साहादिशक्तित्रयरूपेण त्रैगुण्ये सति सप्तविंशतिः सम्पद्यते। पुनः सात्त्विकादिगुणत्रयभेदेन त्रैगुण्ये सति एकोत्तरा अशीतिः सम्पद्यते। एवं चतुर्भिस्त्रिकै र्गुणिताया मायायाः दशसु दिक्षु प्रत्येकमवस्थाने सति नवनवतयः सम्पद्यन्ते। एवं विधानि मायारूपाणि। इति।")। नवसंख्याका नवतीः। दशोत्तराष्ट्रशतसंख्याकाः। वृत्राण्यावरकाणि असुरजातानि। जघान हतवान्।
+ अस्या ऋचोऽयमर्थः। अस्थभिः। छन्दस्यपि दृश्यते—(पा० ७।१।७६) इति अनजादावप्यस्थिशब्दस्यानङादेशः। स चोदात्तः। दधीचो अश्वशिरसः। इन्द्रः। अप्रतिष्कुतः परैरप्रतिशब्दितः प्रतिकूलशब्दरहितः। नवतीर्नव[^93]। नवसंख्याका नवतीः। दशोत्तराष्ट्रशतसंख्याकाः। वृत्राण्यावरकाणि असुरजातानि। जघान हतवान्।
+
+[^93]: "अस्य पदस्य व्याख्यानं 'ग' पुस्तके तथा वेदभाष्येऽप्येवम्– तथाहि लोकत्रयवर्त्तिनो देवाञ्जेतुमादावासुरी माया त्रिधा सम्पद्यते। त्रिविधा अतीतानागतवर्त्तमानकालभेदेन तत्कालवर्त्तिनो देवाञ्जेतुं पुनरपि प्रत्येकं त्रिगुणिता भवति। एवं नव सम्पद्यते। पुनरपि उत्साहादिशक्तित्रयरूपेण त्रैगुण्ये सति सप्तविंशतिः सम्पद्यते। पुनः सात्त्विकादिगुणत्रयभेदेन त्रैगुण्ये सति एकोत्तरा अशीतिः सम्पद्यते। एवं चतुर्भिस्त्रिकै र्गुणिताया मायायाः दशसु दिक्षु प्रत्येकमवस्थाने सति नवनवतयः सम्पद्यन्ते। एवं विधानि मायारूपाणि। इति।"
 
  अप्रतिष्कुत इति अन्यपूर्वैरिति (ऋ० प्रा० ५।२१) षत्वम्। एषाऽपरा—(ऋ० १. ८४. १४)
 
@@ -1673,14 +1857,18 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 
 
-वत्सु गिरिषु अपश्रितं अपगत्य स्थितम्। अश्वस्य अश्वसम्बन्धि यच्छिरः दधीचः इच्छन् इन्द्रः वर्तते। इष इच्छायां तुदादित्वाच्छः (पा० ३।१।७७ )। शर्यणावति एतत्संज्ञके सरसि तच्छिरोऽविदत् [अविन्दत्](# "अतऊर्ध्वं 'ग' पुस्तकें तथा भाष्ये त्वेवं दृश्यते—अविदत् अशासीत्। ज्ञात्वा च तदाहृत्य तदीयै रस्थिभिर्वृत्राणि जघानेति पूर्वणान्वयः। इति।")।
+वत्सु गिरिषु अपश्रितं अपगत्य स्थितम्। अश्वस्य अश्वसम्बन्धि यच्छिरः दधीचः इच्छन् इन्द्रः वर्तते। इष इच्छायां तुदादित्वाच्छः (पा० ३।१।७७ )। शर्यणावति एतत्संज्ञके सरसि तच्छिरोऽविदत् अविन्दत्[^94]।
+
+[^94]: "अतऊर्ध्वं 'ग' पुस्तकें तथा भाष्ये त्वेवं दृश्यते—अविदत् अशासीत्। ज्ञात्वा च तदाहृत्य तदीयै रस्थिभिर्वृत्राणि जघानेति पूर्वणान्वयः। इति।"
 
  इत्यमुना मृतेनापि दधीचा इन्द्रः सुखीकृत इत्यर्थः।
 
  शर्यणावति—शर्यणा नाम देशाः तेषामदूरभवं सरः शर्य णावत्। मध्वादिषु शर्यणाशब्दस्य पाठात्। मध्वादिभ्यश्च ( पा० ४।२।८६ ) इति चातुरर्थिको मतुप्। संज्ञायामिति (पा०८।२।११ ) मतुपो वत्वम्। मतौ बह्वचोनजरादीनाम् ( पा० ६।३। ११९ ) इति दीर्घः।
 
 
-[सतामुपकाराय](# "अस्यावतरणिका 'ग' पुस्तके त्वेवं दृश्यते–'जलदानात्परं नास्तीत्यर्थमाह—  श्लोकौ च।  यतः परतृषां हन्तुं यः श्रमस्तत्सुखं भवेत्। मरुतः कूपमुत्क्षिप्य गोतमायाम्बु सन्ददुः॥१॥  सर्वेषामेव दानानां जलदानं विशिष्यते। आश्विनौ मरुतः कूपाद्गोतमाय जलं ददुः॥२॥   अश्विभ्यां यद्दत्तं तत् 'परावतं नासत्या० (ऋ० १. ११६. ९) इत्यत्र कथ्यते। अत्र मरुतां जलदानमाख्यानपूर्वकं वदामः। 'ऊर्ध्वं नुनुद्रे० ' इत्यादि।")यः श्रमस्तत्सुखमित्याह—
+सतामुपकाराय[^95] इत्यत्र कथ्यते। अत्र मरुतां जलदानमाख्यानपूर्वकं वदामः। 'ऊर्ध्वं नुनुद्रे० ' इत्यादि।")यः श्रमस्तत्सुखमित्याह—
+
+[^95]: "अस्यावतरणिका 'ग' पुस्तके त्वेवं दृश्यते–'जलदानात्परं नास्तीत्यर्थमाह—  श्लोकौ च।  यतः परतृषां हन्तुं यः श्रमस्तत्सुखं भवेत्। मरुतः कूपमुत्क्षिप्य गोतमायाम्बु सन्ददुः॥१॥  सर्वेषामेव दानानां जलदानं विशिष्यते। आश्विनौ मरुतः कूपाद्गोतमाय जलं ददुः॥२॥   अश्विभ्यां यद्दत्तं तत् 'परावतं नासत्या० (ऋ० १. ११६. ९
 
 **सतां परतृषां हन्तुं यः श्रमस्तत्सुखं भवेत्।  
 मरुतः कूपमुत्क्षिप्य गोतमायाम्बु शं ददुः॥२३॥**
@@ -1703,11 +1891,17 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  तत्रेतिहासः—गोतम ऋषिः पिपासया पीडितः सन् मरुतः उदकं ययाचे। तदनन्तरं मरुतो दूरस्थं कूपमुद्धृत्य यत्र स गोतम ऋषिस्तिष्ठति तां दिशं नीत्वा ऋषिसमीप (समीपे कूप) मवस्थाप्य तत्पार्श्वे आहावं च कृत्वा तस्मिन्नाहावे कूपमुत्सिच्य तमृषिं तेनोदकेन तर्पयाञ्चक्रुः। अयमर्थोऽनया उत्तरया च प्रतिपाद्यते।
 
- अयमर्थः। हे मरुतः। अवतं कूपम्। [अवत](# "अवस्तात्ततो भवतीति अवतः कूपः। (वे०  भा० )") इति कूपनाम (निघण्टु० ३।२३)। ओजसा बलेन ऊर्ध्वम् उपरि नुनुद्रे प्रेरितवन्तः। णुद प्रेरणे। इरयो रे (पा० ६।४/७६) इति रे आदेशः। उत्खातवन्तः। एवं कूपमुत्खाय ऋषेराश्रमं प्रति नयन्तो मरुतः मार्गमध्ये ददृहाणं प्रवृद्धं प्रवृद्धगतिनिरोधकम्। दृह दृहि वृद्धौ-लिटः कानच्। (पा० ३।२।१०६)। [पर्वतं](# "पर्ववन्तम्।") शिलोच्चयं चिद् अपि विबिभिदुः। विशेषेण बभज्जुः। छन्दसि परेपीति (पा० १।४।८१) परप्रयोगः। तथा
+ अयमर्थः। हे मरुतः। अवतं कूपम्। अवत[^96]") इति कूपनाम (निघण्टु० ३।२३)। ओजसा बलेन ऊर्ध्वम् उपरि नुनुद्रे प्रेरितवन्तः। णुद प्रेरणे। इरयो रे (पा० ६।४/७६) इति रे आदेशः। उत्खातवन्तः। एवं कूपमुत्खाय ऋषेराश्रमं प्रति नयन्तो मरुतः मार्गमध्ये ददृहाणं प्रवृद्धं प्रवृद्धगतिनिरोधकम्। दृह दृहि वृद्धौ-लिटः कानच्। (पा० ३।२।१०६)। पर्वतं[^97] शिलोच्चयं चिद् अपि विबिभिदुः। विशेषेण बभज्जुः। छन्दसि परेपीति (पा० १।४।८१) परप्रयोगः। तथा
+
+[^96]: "अवस्तात्ततो भवतीति अवतः कूपः। (वे०  भा०
+
+[^97]: "पर्ववन्तम्।"
 
 
 
-सुदानवः शोभनदानास्ते मरुतः। वाणम्। वाणः पविः शब्दनाम (निघण्टु १।११) [शततन्त्रीभिर्युक्तं](# "'शतसङ्ख्याभिस्तन्त्रीभिर्युक्तम्' (वे० भा०)।") वीणाविशेषं धमन्तो वादयन्तः। सोमस्य मदे सोमपानेन हर्षे सति रण्यानि रमणीयानि स्तुत्यानि धनानि चक्रिरे स्तोतृभ्यः कुर्वन्ति।
+सुदानवः शोभनदानास्ते मरुतः। वाणम्। वाणः पविः शब्दनाम (निघण्टु १।११) शततन्त्रीभिर्युक्तं[^98]।") वीणाविशेषं धमन्तो वादयन्तः। सोमस्य मदे सोमपानेन हर्षे सति रण्यानि रमणीयानि स्तुत्यानि धनानि चक्रिरे स्तोतृभ्यः कुर्वन्ति।
+
+[^98]: "'शतसङ्ख्याभिस्तन्त्रीभिर्युक्तम्' (वे० भा०
 
  नुनुद्रेऽवतम्–यकाराद्यक्षरं परं वकाराद्यपि वा (ऋ० प्रा० २।३४) इत्यभिहितसन्धिः।
 
@@ -1719,13 +1913,19 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  **जि॒ह्यम्। नु॒नु॒द्रे॒। अ॒व॒तम्। तया॑। दि॒शा। असि॑ञ्चन्। उत्स॑म्। गोत॑माय। तृ॒ष्णऽजे॑। आ। ग॒च्छ॒न्ति॒ ईम्। अव॑सा। चि॒त्रऽभा॑नवः। काम॑म्। विप्र॑स्य। त॒र्प॒य॒न्त॒। धामऽभिः॥२५॥**
 
- ऋष्यादि पूर्ववत्। ऋचोऽयमर्थः। मरुतोऽवतमुद्धृत्य तं कूपं यस्यां दिशि ऋषिर्वसति तया दिशा जिह्यं वक्रं तिर्यञ्चं नुनुद्रे प्रेरितवन्तः। एवं कूपं नीत्वा ऋष्याश्रमेऽवस्थाप्य [तृष्णजे](# "तृष्णजे—ञितृषा पिपासायाम्। स्वपितृषोर्नजिङ् (पा.३।२।१७२) प्रत्ययाद्युदात्तत्वम्। पदकारस्य शाकल्यस्य त्वयमभिप्रायः। अन्येष्वपि दृश्यते (पा० ३।२।१०१) इति अपि ग्रहणात् केवलादपि जनेर्डप्रत्ययः। तृष्णा जाताऽस्य सः तथोक्तः ङयापोः संज्ञाछन्दसोर्बहुलम् (पा० ६।३।३६) इति हस्वत्वम्। बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम्।   तथा सति तृष्णजे इति सप्तम्यन्तं स्यात्। सायणोक्तमिदमत्र चिन्त्यम्।") तृषिताय गोतमाय ऋषये तदर्थम् उत्सं जलप्रवाहं कूपादुद्धृत्य असिञ्चन्
+ ऋष्यादि पूर्ववत्। ऋचोऽयमर्थः। मरुतोऽवतमुद्धृत्य तं कूपं यस्यां दिशि ऋषिर्वसति तया दिशा जिह्यं वक्रं तिर्यञ्चं नुनुद्रे प्रेरितवन्तः। एवं कूपं नीत्वा ऋष्याश्रमेऽवस्थाप्य तृष्णजे[^99] प्रत्ययाद्युदात्तत्वम्। पदकारस्य शाकल्यस्य त्वयमभिप्रायः। अन्येष्वपि दृश्यते (पा० ३।२।१०१) इति अपि ग्रहणात् केवलादपि जनेर्डप्रत्ययः। तृष्णा जाताऽस्य सः तथोक्तः ङयापोः संज्ञाछन्दसोर्बहुलम् (पा० ६।३।३६) इति हस्वत्वम्। बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम्।   तथा सति तृष्णजे इति सप्तम्यन्तं स्यात्। सायणोक्तमिदमत्र चिन्त्यम्।") तृषिताय गोतमाय ऋषये तदर्थम् उत्सं जलप्रवाहं कूपादुद्धृत्य असिञ्चन्
+
+[^99]: "तृष्णजे—ञितृषा पिपासायाम्। स्वपितृषोर्नजिङ् (पा.३।२।१७२
 
 
 
-आहावे [सेचनमकुर्वन्](# "'अवानयन्' इति वे० भा०।")। एवं कृत्वा ईमेनं स्तोतारम् ऋषिं–चित्रभानवः विचित्रदीप्तयः ते मरुतः अवसा ईदृशेन रक्षणेन सह आगच्छन्ति। तत्समीपं प्राप्नुवन्ति। प्राप्य च विप्रस्य मेधाविनो गोतमस्य काममभिलाषं धामभिरायुषो धारकैः उदकैस्तर्पयन्त अतर्पयन्।
+आहावे सेचनमकुर्वन्[^100]। एवं कृत्वा ईमेनं स्तोतारम् ऋषिं–चित्रभानवः विचित्रदीप्तयः ते मरुतः अवसा ईदृशेन रक्षणेन सह आगच्छन्ति। तत्समीपं प्राप्नुवन्ति। प्राप्य च विप्रस्य मेधाविनो गोतमस्य काममभिलाषं धामभिरायुषो धारकैः उदकैस्तर्पयन्त अतर्पयन्।
 
-साधव [उपकर्तुमकृत्यमपि](# "'ग' पुस्तकेऽवतरणिका त्वेवम्–साधूनां परकार्यं प्रधानमित्याह। श्लोकश्च—  अकृत्यमपि कुर्वन्ति परकार्येषु साधवः। कुत्सस्तुष्टाव शुच्यग्निं दीर्घजिह्व्या वधे कृते॥ इति।   ") कुर्वन्तीत्याह—
+[^100]: "'अवानयन्' इति वे० भा०।"
+
+साधव उपकर्तुमकृत्यमपि[^101] कुर्वन्तीत्याह—
+
+[^101]: "'ग' पुस्तकेऽवतरणिका त्वेवम्–साधूनां परकार्यं प्रधानमित्याह। श्लोकश्च—  अकृत्यमपि कुर्वन्ति परकार्येषु साधवः। कुत्सस्तुष्टाव शुच्यग्निं दीर्घजिह्व्या वधे कृते॥ इति।   "
 
 **अकृत्यमपि कुर्वन्ति परकार्याय साधवः।  
 दीर्घजिह्वींमनुष्येभ्यः कुत्सो हत्वा जयं ददौ॥२४॥**
@@ -1735,7 +1935,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
  **तत्रेतिहासः**— दीर्घजिह्वी नाम राक्षसी सर्वान् यज्ञान् बबाधे। एतां हन्तुमिन्द्रो शक्तः सन् सर्वस्य मित्रभूतं कुत्समब्रवीत्। एषा हन्तव्येति। स चावधीत्। तं वागभ्यवदद् अनुचितं त्वयाऽऽचरितम् यस्त्वं सर्वेषां मित्रभूतः सन् क्रूरमकार्षीरिति। स ऋषिः शोकं प्राप्नोत् स ऋषिः 'अप नः' (ऋ० १. ९७.) इत्यनेन सूक्तेनाग्निं स्तुत्वा शोकमपागमयत्।
 
  
-[सौमित्रं](# "तथा च ताण्डकम्–दीर्घजिह्वी नाम राक्षसी यज्ञानवलिहन्त्यचरत्। तामिन्द्रः कया च मायया हन्तुं नाशंसत्। अथ ह सुमित्रः कुत्सः कल्याण आस तमब्रवीदिति। तस्मादेतत्सूक्तं शुगपनयनाय विनियोज्यम्। अत एव हि सूत्रकारेण भारद्वाजेन दशमेऽहनि कर्तव्ये शान्तिकर्मणि यजुर्वेदे पठितमेतत्सूक्तं विनियुज्यते—'नव च स्रुवाहुतरिप नः शोशुचदघमिति'॥ वे० भा०। (ऋ० १।९७)") भवति दीर्घजिह्वी वा इदं रक्षो सर्वहा यज्ञभवलिहन्त्य-  
+सौमित्रं[^102]") भवति दीर्घजिह्वी वा इदं रक्षो सर्वहा यज्ञभवलिहन्त्य-  
+
+[^102]: "तथा च ताण्डकम्–दीर्घजिह्वी नाम राक्षसी यज्ञानवलिहन्त्यचरत्। तामिन्द्रः कया च मायया हन्तुं नाशंसत्। अथ ह सुमित्रः कुत्सः कल्याण आस तमब्रवीदिति। तस्मादेतत्सूक्तं शुगपनयनाय विनियोज्यम्। अत एव हि सूत्रकारेण भारद्वाजेन दशमेऽहनि कर्तव्ये शान्तिकर्मणि यजुर्वेदे पठितमेतत्सूक्तं विनियुज्यते—'नव च स्रुवाहुतरिप नः शोशुचदघमिति'॥ वे० भा०। (ऋ० १।९७
 
 
 
@@ -1746,7 +1948,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
  'तथा ऋग्विधानम्'—अनेन सूक्तेन मध्याह्ने स्नात्वा शुचिकामो घृतं प्रत्यृचं जुहुयात्। अथवा अष्टौ समिधः प्रत्यृचं जुहुयात्।
 
 **'अप नः शोशुचदिति' स्नात्वा मध्यन्दिने रवौ।  
-[शुद्धिकामो](# "'शुचिकामो जिताहारः' इत्यपि पाठः।")यताहारः प्रत्यृचं जुहुयादुद्धृतमिति॥ (श्लो० ११९) **
+शुद्धिकामो[^103]यताहारः प्रत्यृचं जुहुयादुद्धृतमिति॥ (श्लो० ११९) **
+
+[^103]: "'शुचिकामो जिताहारः' इत्यपि पाठः।"
 
  कुत्सो गायत्र्याऽग्निं तुष्टाव। आप्रायण्यां धूमशातने विनियुक्तं महाव्याहृतीः सावित्रीं चोदाहृत्याप नः शोशुचदधमिति, एतेन सूक्तेनेति गृह्ये।
 
@@ -1756,7 +1960,13 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 ** अपं नः॒।शोशु॑चत्। अ॒घम्। अग्ने॑। शु॒शु॒ग्धि। आ। र॒यिम्। अप॑। नः॒। शोशु॑चत्। अ॒घम् ॥ २६ ॥**
 
- हे अग्ने नोऽस्माकम् अघं पापं [अपशोशुचत्](# "शोशुचदिति-शुच शोके। अस्माद्यङ्लुगन्तात् लेट्यडागमः (पा० ३. ४. ९४) अदादिवच्चेति वचनाच्छपो लुक्। 'अभ्यस्तानामादिः, (पा० ६. १. १८९) इति आद्युदात्तत्वम्। 'अघं शोचुचच्च रयिं शुशुग्धि च' इति चार्थप्रतीतेः 'चादि लोपे विभाषा' (पा० ८.१.६३) इति निघातप्रतिषेधः।")शोकग्रस्तं सद्विनश्यतु। यद्वा अस्मदीयं शत्रुं शोचयतु। अपि चास्माकं [रयिमासमन्ताच्छुशुग्धि](# "शुशुग्धि-शुच दीप्तौ लोटि बहुलं छन्दसीति शपः श्लुः। हुझलभ्यो हेर्धिः (पा० ६.४.१०१) चोः कुः (पा० ८.२.३०) इति कुत्वम्।") प्रकाशितं [कुरु](# "उक्तार्थमपि वाक्यमादरातिशयद्योतनाय पुनः पठ्यते। अवश्यमस्माकमघं विनश्यत्विति। वे० भा०")। शुच दीप्तौ–द्विरुक्तिरादरातिशयद्योतनाय।
+ हे अग्ने नोऽस्माकम् अघं पापं अपशोशुचत्[^104] अदादिवच्चेति वचनाच्छपो लुक्। 'अभ्यस्तानामादिः, (पा० ६. १. १८९) इति आद्युदात्तत्वम्। 'अघं शोचुचच्च रयिं शुशुग्धि च' इति चार्थप्रतीतेः 'चादि लोपे विभाषा' (पा० ८.१.६३) इति निघातप्रतिषेधः।")शोकग्रस्तं सद्विनश्यतु। यद्वा अस्मदीयं शत्रुं शोचयतु। अपि चास्माकं रयिमासमन्ताच्छुशुग्धि[^105] चोः कुः (पा० ८.२.३०) इति कुत्वम्।") प्रकाशितं कुरु[^106]। शुच दीप्तौ–द्विरुक्तिरादरातिशयद्योतनाय।
+
+[^104]: "शोशुचदिति-शुच शोके। अस्माद्यङ्लुगन्तात् लेट्यडागमः (पा० ३. ४. ९४
+
+[^105]: "शुशुग्धि-शुच दीप्तौ लोटि बहुलं छन्दसीति शपः श्लुः। हुझलभ्यो हेर्धिः (पा० ६.४.१०१
+
+[^106]: "उक्तार्थमपि वाक्यमादरातिशयद्योतनाय पुनः पठ्यते। अवश्यमस्माकमघं विनश्यत्विति। वे० भा०"
 
 **इति कुत्सेन परार्थमकृत्यं कृतमिति दर्शितम्।**
 
@@ -1778,7 +1988,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  कुत्सस्त्रिष्टुभा इन्द्रं तुष्टाव। उत्तमे छन्दोमे मरुत्वनीये विनियुक्तम्। अष्टाचत्वारिंशत्खण्डे गायत्साम \[ऋ० १. १७३ \] प्रमन्दिन। \[ ऋ० १.१०१\] इति सूत्रितम् ( सां० श्रौ० सू० १०. ११. ६ )।
 
- ऋचोऽयमर्थः। हे मरुत्वः। मतुवसोरिति \[ पा० ८.३.१ \] सम्बुद्धौ नस्य रुत्वम्। मरुद्भिर्युक्तेन्द्र परमे उत्कृष्टे सधस्थे सहस्थाने गृहे–सधमादस्थयोरिति \[पा० ६.३.९६\] सहस्य सधादेशः। यद्वा यदि वा अवमे अर्वाचीने नीचीने वृजने—वृज्यते रिक्तीक्रियते धनमऽस्मिन्निति वृजनं गृहम्। तस्मिन्मादयासे[तृप्तो](# "मद तृप्तियोगे इति धातुपाठः।")वर्त्तसे। मद तृप्तौ—अतोऽस्मादुभय-
+ ऋचोऽयमर्थः। हे मरुत्वः। मतुवसोरिति \[ पा० ८.३.१ \] सम्बुद्धौ नस्य रुत्वम्। मरुद्भिर्युक्तेन्द्र परमे उत्कृष्टे सधस्थे सहस्थाने गृहे–सधमादस्थयोरिति \[पा० ६.३.९६\] सहस्य सधादेशः। यद्वा यदि वा अवमे अर्वाचीने नीचीने वृजने—वृज्यते रिक्तीक्रियते धनमऽस्मिन्निति वृजनं गृहम्। तस्मिन्मादयासेतृप्तो[^107]वर्त्तसे। मद तृप्तौ—अतोऽस्मादुभय-
+
+[^107]: "मद तृप्तियोगे इति धातुपाठः।"
 
 
 
@@ -1790,7 +2002,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  'अथ सर्वा ह वै देवताः पशुमालभ्यमानं समुपगच्छन्ते मम नामेति' (कौ० ब्रा० १०।६ )। 'अत्रैव पशवो हिंस्या' इत्यादि श्रुतिस्मृत्युदितं मारणमपि हिंसा नेति सिद्धम्।
 
- [द्वेषदुष्टं मनो न](# "यद्यपीयमवतरणिका 'क' 'ख' पुस्तकयोर् 'अनुक्तं सुखरूपम्' इत्यास्यानन्तरं दत्तास्ति तथाप्यस्या ऋचः संहिताक्रमानुसारेण पूर्ववर्त्तित्वादियमेवाऽत्र प्रथमतया निर्दिष्टा ज्ञातव्या। 'ग' पुस्तके त्वियमवतरणिका नास्त्येव।")कार्यमित्याह—
+ द्वेषदुष्टं मनो न[^108]कार्यमित्याह—
+
+[^108]: "यद्यपीयमवतरणिका 'क' 'ख' पुस्तकयोर् 'अनुक्तं सुखरूपम्' इत्यास्यानन्तरं दत्तास्ति तथाप्यस्या ऋचः संहिताक्रमानुसारेण पूर्ववर्त्तित्वादियमेवाऽत्र प्रथमतया निर्दिष्टा ज्ञातव्या। 'ग' पुस्तके त्वियमवतरणिका नास्त्येव।"
 
 **द्वेषदुष्टं मनः कार्यं पुंसा नात्महितैषिणा।  
 इन्द्रोऽवधीद्द्विषः पिप्रुकुयवशुष्णशम्बरान्॥२६॥**
@@ -1826,7 +2040,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  कुत्सस्त्रिष्टुभा इन्द्रं स्तौति। उत्तमे छन्दोमे विनियुक्तम्। तत्त इन्द्रियम् (ऋ० १.१०३) अहं भुवम् (ऋ० १०.४८) इति सूत्रम्। (सां० श्रौ० सू० १०.११.७ )
 
- ऋचोयमर्थः। हे इन्द्र त्वं शुष्णादीन् चतुरो द्विषः असुरान् यदा ऽवधीः हतवानसि। तदानीं शम्बरस्यासुरस्य पुरः नगराणि [विदारित](# " 'असुराणां मुख्येषु हतेषु अन्यान्यपि असुरपुराणि विदीर्णान्यासन्नित्यर्थः। इति वेदभाष्ये।")वानसि। यदनेन सूक्तेन उक्तं प्रार्थितं तन् नोऽस्माकं
+ ऋचोयमर्थः। हे इन्द्र त्वं शुष्णादीन् चतुरो द्विषः असुरान् यदा ऽवधीः हतवानसि। तदानीं शम्बरस्यासुरस्य पुरः नगराणि विदारित[^109]वानसि। यदनेन सूक्तेन उक्तं प्रार्थितं तन् नोऽस्माकं
+
+[^109]: " 'असुराणां मुख्येषु हतेषु अन्यान्यपि असुरपुराणि विदीर्णान्यासन्नित्यर्थः। इति वेदभाष्ये।"
 
 
 
@@ -1834,7 +2050,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  मामहन्ताम्–मह पूजायां। श्रावयादित्वाद्दीर्घः (ऋ० प्रा०९.३१)
 
- इति इन्द्रेण द्विषो हतास्तस्माद्द्वेषो न कर्तव्य इत्युक्तम् [अनुक्तं](# "'ग' पुस्तकेऽवतरणिका त्वेवम्–  परस्त्रीपरं पापं नास्तीत्याह–  अनुक्तं च न कर्त्तव्यं सुखरूपं भवेद्यदि। परस्त्रीणाञ्च सम्भोगात्कुत्सः प्राह स निष्षपी॥१॥ इति ।")सुखरूपमपि हिंसेत्याह—
+ इति इन्द्रेण द्विषो हतास्तस्माद्द्वेषो न कर्तव्य इत्युक्तम् अनुक्तं[^110]सुखरूपमपि हिंसेत्याह—
+
+[^110]: "'ग' पुस्तकेऽवतरणिका त्वेवम्–  परस्त्रीपरं पापं नास्तीत्याह–  अनुक्तं च न कर्त्तव्यं सुखरूपं भवेद्यदि। परस्त्रीणाञ्च सम्भोगात्कुत्सः प्राह स निष्षपी॥१॥ इति ।"
 
 **अनुक्तं च न कर्त्तव्यं सुखरूपं भवेद्यदि ।**  
 **परस्त्रीणां हि संभोगात्कुत्स आहेति निष्षपी॥२७॥ **
@@ -1855,15 +2073,27 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 
 
- हे मघवन् धनवन्निन्द्र। यत् यदा [नीथा](# "नीथा–णीञ प्रापणे। 'हनिकुषिनीरमिकाशिभ्यः (उणादि सू० १६७) इति करणे कथन् प्रत्ययः।")
+ हे मघवन् धनवन्निन्द्र। यत् यदा नीथा[^111] इति करणे कथन् प्रत्ययः।")
 नयनहेतुभृता स्या सा पदवी अस्माभिः प्रत्यदर्शि दृष्टाऽभूत्—सा च पदवी दस्योः उपक्षपयितुः कुयवस्य असुरस्य सदनं गृहं आभिमुख्येन
-[गात्](# " गात्—एते र्लुङि 'इणो गा र्लुङि' (पा० २।२४।४५) इति गादेशः। 'गातिस्थाघुपा० (पा० २।४।७७) इति सिचो लुक्। 'बहुलं छन्दस्यमाङ्योगेऽपि (पा० ६।४।७५) इत्यडभावः।")—गता—प्राप्ता। तत्र दृष्टान्तः। जानती स्वकीयं वत्समभिजानती गौः ओको न। ओकः निवासस्थानं स्वकीयं गोष्ठम्। [ओक](# "'अथ स ओकः पुनरेव तदेति यत आगतो भवति'। ओक इति निवासनामोच्यते। इति निरुक्तम् ॥") इति निवासनाम (नि० ३।३) इति यास्कः। यथा प्राप्नोति तद्वन्मार्गोऽप्यसुरस्य गृहं प्राप्तः। अथानन्तरमेव [चर्कृतात्](# "चर्कृतात् —करोते र्यङ्लुगन्तान् 'निष्ठा' (पा० ३।२।१२) इति 'क्त' प्रत्ययः।") पुनः पुनस्तेनासुरेण कृतात् उपद्रवात् नोऽस्मान् रक्षेति शेषः। इत् पूरणार्थः। मिताक्षरेष्वनर्थकाः कमीमिद्वितीति (नि १।९ )। रक्षयित्वा नोऽस्मभ्यं निष्षपी स्त्रीकामो भवति तस्य मघेव धनानि इव [परा](# " परा दाः परित्याक्षीः। अस्माभि र्ज्ञातेन मार्गेण गत्वा अस्मदुपद्रवकारिणमसुरं जहीति तात्पर्यार्थः। ")
+गात्[^112] इति गादेशः। 'गातिस्थाघुपा० (पा० २।४।७७) इति सिचो लुक्। 'बहुलं छन्दस्यमाङ्योगेऽपि (पा० ६।४।७५) इत्यडभावः।")—गता—प्राप्ता। तत्र दृष्टान्तः। जानती स्वकीयं वत्समभिजानती गौः ओको न। ओकः निवासस्थानं स्वकीयं गोष्ठम्। ओक[^113] इति निवासनाम (नि० ३।३) इति यास्कः। यथा प्राप्नोति तद्वन्मार्गोऽप्यसुरस्य गृहं प्राप्तः। अथानन्तरमेव चर्कृतात्[^114] इति 'क्त' प्रत्ययः।") पुनः पुनस्तेनासुरेण कृतात् उपद्रवात् नोऽस्मान् रक्षेति शेषः। इत् पूरणार्थः। मिताक्षरेष्वनर्थकाः कमीमिद्वितीति (नि १।९ )। रक्षयित्वा नोऽस्मभ्यं निष्षपी स्त्रीकामो भवति तस्य मघेव धनानि इव परा[^115]
 दाः स निष्षपी अस्पृश्यो जारो भूत्वा धनानि विनाशयति। यथा अस्थाने परित्यजति तद्वत्।
+
+[^111]: "नीथा–णीञ प्रापणे। 'हनिकुषिनीरमिकाशिभ्यः (उणादि सू० १६७
+
+[^112]: " गात्—एते र्लुङि 'इणो गा र्लुङि' (पा० २।२४।४५
+
+[^113]: "'अथ स ओकः पुनरेव तदेति यत आगतो भवति'। ओक इति निवासनामोच्यते। इति निरुक्तम् ॥"
+
+[^114]: "चर्कृतात् —करोते र्यङ्लुगन्तान् 'निष्ठा' (पा० ३।२।१२
+
+[^115]: " परा दाः परित्याक्षीः। अस्माभि र्ज्ञातेन मार्गेण गत्वा अस्मदुपद्रवकारिणमसुरं जहीति तात्पर्यार्थः। "
 
  मा परा दाः—डुदाञ् दाने–गातिस्थेति (पा०२।४) सिचो लुक्। बहुलं छन्दस्यमाङयोगेपि ( पा०६।४।७५) इत्यडभावः।
 
 
-[निष्षपी](# "निष्पपी-षप समवाये। सपति समवैति योन्या सङ्गच्छत इति सपः शेषः। पचाद्यच् (पा० ३।१।१३४)। निर्गतो नित्योदूधृतः सपः शेषो यस्य स स्त्रीव्यसनी निष्षपः। वर्णव्यापत्या ईकारः।") स्त्रीकामो भवति विनिर्गतसपः। सपः सपतेः
+निष्षपी[^116]। निर्गतो नित्योदूधृतः सपः शेषो यस्य स स्त्रीव्यसनी निष्षपः। वर्णव्यापत्या ईकारः।") स्त्रीकामो भवति विनिर्गतसपः। सपः सपतेः
+
+[^116]: "निष्पपी-षप समवाये। सपति समवैति योन्या सङ्गच्छत इति सपः शेषः। पचाद्यच् (पा० ३।१।१३४
 
 
 
@@ -1875,7 +2105,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
  अनुक्तं सुखरूपमपि न कार्यमिति निष्पपीदृष्टान्तेन दर्शितम्।
 
 
-[यदि](# " 'ग' पुस्तकेऽवतरणिका त्वेवम्— भ्रातुः परं शत्रु र्नास्तीत्याह—  श्लोकश्च—  अन्यः सुहृज्जनो भ्राता शत्रुर्भ्राता सहोदरः। अश्विभ्यां तारितस्तौप्रयस् त्रितः कूपे निपातितः॥१५॥   इति। तुग्र्यपुत्रो भुज्युस्तारितः समुद्रात् तन्नासत्याभ्यां (ऋ० १. ११६) सूक्ते दर्शयिष्यते। अत्र तु त्रित आप्त्यः सहोदराभ्यां भ्रातृभ्यां कूपे निपातित इत्युच्यते इति।")भ्राता द्विट् स शत्रुरित्याह—
+यदि[^117] सूक्ते दर्शयिष्यते। अत्र तु त्रित आप्त्यः सहोदराभ्यां भ्रातृभ्यां कूपे निपातित इत्युच्यते इति।")भ्राता द्विट् स शत्रुरित्याह—
+
+[^117]: " 'ग' पुस्तकेऽवतरणिका त्वेवम्— भ्रातुः परं शत्रु र्नास्तीत्याह—  श्लोकश्च—  अन्यः सुहृज्जनो भ्राता शत्रुर्भ्राता सहोदरः। अश्विभ्यां तारितस्तौप्रयस् त्रितः कूपे निपातितः॥१५॥   इति। तुग्र्यपुत्रो भुज्युस्तारितः समुद्रात् तन्नासत्याभ्यां (ऋ० १. ११६
 
 **अन्यः सुहृज्जनो भ्राता शत्रु र्भ्राता सहोदरः।  
 अश्विभ्यां तारितो भुज्युस्त्रितः कूपे निपातितः॥२८॥ **
@@ -1913,18 +2145,28 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 तृचेनान्त्येन सूक्तस्य जगादर्षिरसा (ऋ० १।१०५।१६–१८)विति॥१३७॥**
 
 
-[तत्रेतिहासः](# " 'अत्र शाट्यायनिनः इतिहासमाचक्षते, इति वेदभाष्ये।")–एकतो द्वितस्त्रित इति पुरा त्रय ऋषयो भ्रातरो बभूवुः। ते कदाचिन्मरुभूमावरण्ये वर्त्तमाना पिपासासन्तप्तगात्राः सन्त एकं कूपमविन्दन्। तत्र त्रिताख्य एको जलपानाय कूपं प्राविशत्। स्वयं पीत्वा इतरयोश्च पानाय कूपादु (दकमु) द्धृत्य प्रादात्। तौ तदुदकं पीत्वा त्रितं कूपे पातयित्त्वा तदीयं धनं सर्वमपहृत्य कूपकं (कूपञ्च) रथचक्रेण पिधाय प्रास्थिषाताम्। ततः
+तत्रेतिहासः[^118]–एकतो द्वितस्त्रित इति पुरा त्रय ऋषयो भ्रातरो बभूवुः। ते कदाचिन्मरुभूमावरण्ये वर्त्तमाना पिपासासन्तप्तगात्राः सन्त एकं कूपमविन्दन्। तत्र त्रिताख्य एको जलपानाय कूपं प्राविशत्। स्वयं पीत्वा इतरयोश्च पानाय कूपादु (दकमु) द्धृत्य प्रादात्। तौ तदुदकं पीत्वा त्रितं कूपे पातयित्त्वा तदीयं धनं सर्वमपहृत्य कूपकं (कूपञ्च) रथचक्रेण पिधाय प्रास्थिषाताम्। ततः
+
+[^118]: " 'अत्र शाट्यायनिनः इतिहासमाचक्षते, इति वेदभाष्ये।"
 
 
 
 कूपे पतितः सन् स त्रितः कूपादुत्तरीतुमशक्नुवन् सर्वे देवा मामुद्धरन्त्विति मनसा सस्मार तत स्तेषां स्तावकमिदं सूक्तं ददर्श। तत्र रात्रौ कूपस्यान्तश्चन्द्रमसो रश्मीन् पश्यन् परिदेवयते।
 
 
-[कुत्सः](# "चन्द्रमा (ऋ० १. १०५) इत्येकोनविंशत्यृचं सूक्तं द्वादशम् अपां पुत्रस्य त्रितस्य कूपे पतितस्य कुत्सस्य वाऽऽर्षम्। तथा चोभयोः कूपनिपात आम्नायते।   त्रितः कूपेऽवहितो ० (ऋ० १. १०५. १७) इति, काटे निवाह ऋषि- रहदूतये (ऋ० १.१०६.६) इति च।  त्रितस्यापां पुत्रत्वं तैत्तिरीयाः स्पष्टमामनन्ति (तै. ब्रा.३.२.८.) तत एकतोऽजायत। स द्वितीयमभ्यपातयत्। ततो द्वितोऽजायत। स तृतीयमभ्यपातयत्। ततस्त्रितोऽजायत। यदद्भ्योऽजायन्त तदाप्यानामाप्यत्वमिति। तमेतमाप्यं 'त्रितस्तद्वेदाऽऽप्त्य इति तकारोपजनेन वयमधीमहे इति। वेदभाष्यम्।")त्रितोवाऽनेन सूक्तेन विश्वान्देवान् स्तौति तथा चानुक्रमणी—"चन्द्रमा एकोनाप्त्यस्त्रितो वा वैश्वदेवं हि पाङ्क्तमन्त्या त्रिष्टुबष्टमी महाबृहती यवमध्या" इति।
+कुत्सः[^119] इत्येकोनविंशत्यृचं सूक्तं द्वादशम् अपां पुत्रस्य त्रितस्य कूपे पतितस्य कुत्सस्य वाऽऽर्षम्। तथा चोभयोः कूपनिपात आम्नायते।   त्रितः कूपेऽवहितो ० (ऋ० १. १०५. १७) इति, काटे निवाह ऋषि- रहदूतये (ऋ० १.१०६.६) इति च।  त्रितस्यापां पुत्रत्वं तैत्तिरीयाः स्पष्टमामनन्ति (तै. ब्रा.३.२.८.) तत एकतोऽजायत। स द्वितीयमभ्यपातयत्। ततो द्वितोऽजायत। स तृतीयमभ्यपातयत्। ततस्त्रितोऽजायत। यदद्भ्योऽजायन्त तदाप्यानामाप्यत्वमिति। तमेतमाप्यं 'त्रितस्तद्वेदाऽऽप्त्य इति तकारोपजनेन वयमधीमहे इति। वेदभाष्यम्।")त्रितोवाऽनेन सूक्तेन विश्वान्देवान् स्तौति तथा चानुक्रमणी—"चन्द्रमा एकोनाप्त्यस्त्रितो वा वैश्वदेवं हि पाङ्क्तमन्त्या त्रिष्टुबष्टमी महाबृहती यवमध्या" इति।
+
+[^119]: "चन्द्रमा (ऋ० १. १०५
 
  तत्र यास्कः (नि० ४।६) “त्रितं कूपेऽवहितमेतत् सूक्तं प्रतिबभौ। तत्र ब्रह्मेतिहासमिश्रमृमिश्रं गाथामिश्रं भवति। त्रितस्तीर्णतमो मेधया बभूव अपि वा सङ्ख्यानमैवाभिप्रेतं स्यादेकतो द्वितस्त्रित इति त्रयो बभूवुः" इति।
 
- ऋचोऽयमर्थः। कूपे अवहितः पातितः त्रित एतत्संज्ञ ऋषिः ऊतये रक्षणाय देवान् हवते स्तुतिभिराकारयति। [तदेतदा](# " 'तदेतत् त्रितस्याह्नानं बृहस्पति र्बृहतां महतां देवानां पतिः रक्षक एतत्संज्ञको देवः शुश्राव श्रुतवान्' इति भाष्ये।") (२)ह्वानं बृहस्पतिर्देवः शुश्राव श्रुतवान्। किं कर्तुं शुश्राव। अंहूरणात् पापरूपादस्मात् कूपात्।[अंहुरोंऽहस्वानंहरणमित्यप्येतस्य](# "अन्धकूपः अंहूरणः इति दुर्गाचार्यकृतनिरुक्तवृत्तौ।") भवति इति यास्कः (नि० ६।२७)। उन्नीय उरु विस्तीर्णं[शोभनं](# "विस्तीर्ण त्राणं कुर्वन् इति दुर्गः।") 
+ ऋचोऽयमर्थः। कूपे अवहितः पातितः त्रित एतत्संज्ञ ऋषिः ऊतये रक्षणाय देवान् हवते स्तुतिभिराकारयति। तदेतदा[^120] (२)ह्वानं बृहस्पतिर्देवः शुश्राव श्रुतवान्। किं कर्तुं शुश्राव। अंहूरणात् पापरूपादस्मात् कूपात्।अंहुरोंऽहस्वानंहरणमित्यप्येतस्य[^121] भवति इति यास्कः (नि० ६।२७)। उन्नीय उरु विस्तीर्णंशोभनं[^122] 
+
+[^120]: " 'तदेतत् त्रितस्याह्नानं बृहस्पति र्बृहतां महतां देवानां पतिः रक्षक एतत्संज्ञको देवः शुश्राव श्रुतवान्' इति भाष्ये।"
+
+[^121]: "अन्धकूपः अंहूरणः इति दुर्गाचार्यकृतनिरुक्तवृत्तौ।"
+
+[^122]: "विस्तीर्ण त्राणं कुर्वन् इति दुर्गः।"
 
 
 
@@ -1951,11 +2193,21 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
  कुत्सस्त्रिष्टुभा ऋभ्रंसतुष्टाव। आभिप्लविके पञ्चमेऽहनि विनियुक्तम्। आयुः पञ्चमिति खण्डे 'ततं मे अपस्तदु तायते पुन' ( ऋ० १.११०. १) रित्यार्भवम् (सां० श्रौ० सू० १।५।४)।
 
 
-ऋचोऽयमर्थः।[वाघतः](# "'वाघतः—ऋत्विङ् नामैतत्। अत्र च सामर्थ्यात्तद्वन्तो वक्ष्यन्ते। ऋत्विग्भिरुपेता ऋभवः।' इति वेदभाष्ये।")ऋत्विग्रूपास्ते ऋभवः। तरणि-
+ऋचोऽयमर्थः।वाघतः[^123]ऋत्विग्रूपास्ते ऋभवः। तरणि-
+
+[^123]: "'वाघतः—ऋत्विङ् नामैतत्। अत्र च सामर्थ्यात्तद्वन्तो वक्ष्यन्ते। ऋत्विग्भिरुपेता ऋभवः।' इति वेदभाष्ये।"
 
 
 
-[त्वेन](# " तरणित्वेन—तरणिरिति क्षिप्रनाम (निघण्टु २।१५)। क्षिप्रत्वेन शघ्र्येण। इति वेदभाष्यम्।") क्षिप्रत्वेन[विष्वी](# "विष्ट्वी–यद्यप्येतत्कर्मनाम। तथाप्यत्र क्रियापरम्। व्याप्य कृत्वेत्यर्थः। एवं कर्माणि कृत्वा। वे० भा०।")–[शमी](# "शमी–कमर्नामैतत्। यागदानादीनि कर्माणि। अन्यान्यपि ए॑कं चमसं च॒तु॑रं कृणोतन॒ (ऋ० १.१६१.२) इत्यादिना देवैरुक्तानि कर्माणि। वे० भा०।") (निघण्टु २।१) एते कर्मनामनी। विष्लृव्याप्तौ–स्नात्व्यादयश्च (पा० ७\।१\।४२) इति क्त्वा प्रत्ययस्य ईकारान्तादेशः। ते सर्वकर्माणि व्याप्य मर्त्तासः मनुष्याः सन्तः अमृतत्वं देवत्वम् आनशुः। कृतैः कर्मभिर्देवत्वमानशिरे। देवत्वं प्राप्य सौधन्वनाः सुधन्वन आङ्गिरसस्य त्रयः पुत्राः ऋभुर्विभ्वा वाज इति। एतेन ऋभवः सूरचक्षसः [सूर्यसमानप्रकाशाः](# " 'सूर्यसदृशज्ञाना वा' इति भाष्ये।") संवत्सरे–संवत्सरावयवभूते वसन्तादिकाले धीतिभिरनुष्ठेयैर्जोतिष्टोमादिभिः कर्मभिः समपृच्यन्त।संपृक्ता अभवन्। देवैः सह यज्ञभागार्हा बभूवुरित्यर्थः।
+त्वेन[^124]। क्षिप्रत्वेन शघ्र्येण। इति वेदभाष्यम्।") क्षिप्रत्वेनविष्वी[^125]–शमी[^126] इत्यादिना देवैरुक्तानि कर्माणि। वे० भा०।") (निघण्टु २।१) एते कर्मनामनी। विष्लृव्याप्तौ–स्नात्व्यादयश्च (पा० ७\।१\।४२) इति क्त्वा प्रत्ययस्य ईकारान्तादेशः। ते सर्वकर्माणि व्याप्य मर्त्तासः मनुष्याः सन्तः अमृतत्वं देवत्वम् आनशुः। कृतैः कर्मभिर्देवत्वमानशिरे। देवत्वं प्राप्य सौधन्वनाः सुधन्वन आङ्गिरसस्य त्रयः पुत्राः ऋभुर्विभ्वा वाज इति। एतेन ऋभवः सूरचक्षसः सूर्यसमानप्रकाशाः[^127] संवत्सरे–संवत्सरावयवभूते वसन्तादिकाले धीतिभिरनुष्ठेयैर्जोतिष्टोमादिभिः कर्मभिः समपृच्यन्त।संपृक्ता अभवन्। देवैः सह यज्ञभागार्हा बभूवुरित्यर्थः।
+
+[^124]: " तरणित्वेन—तरणिरिति क्षिप्रनाम (निघण्टु २।१५
+
+[^125]: "विष्ट्वी–यद्यप्येतत्कर्मनाम। तथाप्यत्र क्रियापरम्। व्याप्य कृत्वेत्यर्थः। एवं कर्माणि कृत्वा। वे० भा०।"
+
+[^126]: "शमी–कमर्नामैतत्। यागदानादीनि कर्माणि। अन्यान्यपि ए॑कं चमसं च॒तु॑रं कृणोतन॒ (ऋ० १.१६१.२
+
+[^127]: " 'सूर्यसदृशज्ञाना वा' इति भाष्ये।"
 
  अत्र निरुक्तम् (नि० ११।१६) "कृत्वा कर्माणि क्षिप्रत्वेन वोढारो मेधाविनो वा मर्त्तासः सन्तो अमृतत्वमानशिरे सौधन्वना ऋभवः सूरख्याना वा, सूरप्रज्ञा वा, संवत्सरे समपृच्यन्त धीतिभिः कर्मभिः" इति।
 
@@ -1970,12 +2222,16 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 **कर्मणा सुहस्ता निविशत्—इत्येवमादयः।  
 तस्मादुक्तं देवत्वे हेतुरिति॥ **
 
-सन्त [उपकारनिरता](# "'ग' पुस्तकेऽवतरणिका त्वेवम्–  सन्त उपकारं न त्यजन्तीत्याह—  श्लोकश्च—  सन्तः प्रभुत्वमापन्ना नोपकारं त्यजन्ति ये। वत्सेन गां समं चक्रु र्ऋभवः पितरौ नवौ॥   इति। अत्राख्यानम्–पुरा०–इत्यादि।)") इत्याह—
+सन्त उपकारनिरता[^128]") इत्याह—
+
+[^128]: "'ग' पुस्तकेऽवतरणिका त्वेवम्–  सन्त उपकारं न त्यजन्तीत्याह—  श्लोकश्च—  सन्तः प्रभुत्वमापन्ना नोपकारं त्यजन्ति ये। वत्सेन गां समं चक्रु र्ऋभवः पितरौ नवौ॥   इति। अत्राख्यानम्–पुरा०–इत्यादि।
 
 **सन्तः प्रभुत्वमापन्ना नोपकारं त्यजन्ति हि।  
 ऋभवः प्राप्य देवत्वमृषेर्वत्समजीवयन्॥३०॥**
 
- त एव सन्तो नान्ये ये प्रभुत्वमापन्नाः महत्त्वं प्राप्य उपकारं सत्कारं न त्यजन्ति। ऋभुवत्। यथा ऋभवो देवाः कर्मणा देवत्वं प्राप्य उपकारं न तत्यजुः। कुतः। कस्यचिदृषेर्वत्सं[मृतायाः](# "अत्र 'कस्यचिदृषेमृताया धेनोर्वत्सम्' इत्यनेन भवितव्यम्।") अजीवयन्।
+ त एव सन्तो नान्ये ये प्रभुत्वमापन्नाः महत्त्वं प्राप्य उपकारं सत्कारं न त्यजन्ति। ऋभुवत्। यथा ऋभवो देवाः कर्मणा देवत्वं प्राप्य उपकारं न तत्यजुः। कुतः। कस्यचिदृषेर्वत्संमृतायाः[^129] अजीवयन्।
+
+[^129]: "अत्र 'कस्यचिदृषेमृताया धेनोर्वत्सम्' इत्यनेन भवितव्यम्।"
 
  तदाह—(ऋ० १. ११०.८)
 
@@ -1983,11 +2239,25 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  **निः। चर्मणः॑। ऋ॒भ॒वः॒। गाम्। अ॒पिं॒श॒त॒। सम्। व॒त्सेना॑अ॒सृ॒ज॒त॒। मा॒तर॑म्। पुन॒रिति॑। सौध॑न्वतासः। सुऽअ॒प॒स्यया॑। न॒रः॒। जिव्री॒इति॑। युवा॑ना। पि॒तरा॑। अकृणोतन॥३२॥**
 
- तत्रेतिहासः। पुरा कस्यचिदृषे र्धेनुर्मृता। स ऋषिस्तस्या धेनोवत्सं दीनं दृष्ट्वा ऋभूंस्तुष्टाव। ऋभवस्तादृशीमन्यां धेनुं कृत्वा तदीयेन चर्मणा [संवार्य](# "'संघीय' इति 'ग' पुस्तके तथा वेदभाष्ये पाठः।") तेन वत्सेन समयोजयन्निति। ऋष्यादि पूर्ववत्।
+ तत्रेतिहासः। पुरा कस्यचिदृषे र्धेनुर्मृता। स ऋषिस्तस्या धेनोवत्सं दीनं दृष्ट्वा ऋभूंस्तुष्टाव। ऋभवस्तादृशीमन्यां धेनुं कृत्वा तदीयेन चर्मणा संवार्य[^130] तेन वत्सेन समयोजयन्निति। ऋष्यादि पूर्ववत्।
+
+[^130]: "'संघीय' इति 'ग' पुस्तके तथा वेदभाष्ये पाठः।"
 
 
 
-ऋचोऽयमर्थः हे ऋभवः यूयं चर्मणः। तृतीयार्थे षष्ठी। चर्मणा त्वचा गां धेनुं निरपिंशत।निःशेषेण [संयुक्तामकुरुत](# " निःशेषेणाश्लिष्टां संयुक्ताम्' इति वेदभाष्ये 'ग' पुस्तके च।") तदनन्तरं मातरं गां पुनर्वत्सेन [समसृजत](# " 'संसृष्टामकुरुत' इति 'ग' पुस्तके। समगमयतेति यावत्' इति 'ग' पुस्तके वेदभाष्ये च।")। संश्लिष्टामकुरुत। अपि च—हे सौधन्वनासः सुधन्वनः पुत्राः नरः नेतारः स्वपस्यया शोभनं अपः कर्म स्वपः तदिच्छा [स्वपस्या](# "स्वपस्या—सुप आत्मनः क्यच् (पा०३।१।१८)। 'अ प्रत्ययात्' (पा० ३।३।१०२) इति भावे अकारप्रत्ययः। वे० भा०")तया [शोभनकर्मेच्छया](# "'यागदानाद्याचरणेनेति यावत्' इति 'ग' पुस्तके भाष्ये च।")। [जिव्री](# "जिव्री-जॄष् वयोहानौ। जॄशृसऋजागृभ्यः क्वन् (उ० सू०५०३) ऋत इद्धातोः (पा० ७।१।१००) इति इत्वम्। रेफवकारयोः स्थानविपर्ययः। बहुलवचना'द्धलि च' (पा०८।२।७७) इति दीर्घाभावः। नित्वात् (पा० ६।१।१९७) आद्युदात्तत्वम्।")जीर्णौवृद्धौ पितरा मातापितरौ युवाना पुनः यौवनोपेतौ [अकृणोतन](# "अकृणोतन—कृवि हिंसाकरणयोश्च। इदित्वान् (पा०७।१।५८) नुम्। धिन्वि कृण्व्योर च (पा० ३।१।८०) इत्युप्रत्ययः। तत्सन्नियोगेन वकारस्य चाकारः। अतो लोपे (पा० ६।४।४८) सति स्थानिवद्भावाल्लधूपधगुणाभावः (पा० १।१।५६)। लङ्मध्यमबहुवचनस्य 'त' शब्दस्य तप्तनप्तनथनाश्च (पा०७।१।४५) इति तनबादेशः, तस्य पित्वेन ङित्वाभावाद्गुणः। वे० भा०।")। तप्तनप्तेति (पा० ७।१।४५) तनवादेशः। यूयमकृढ्वम्।
+ऋचोऽयमर्थः हे ऋभवः यूयं चर्मणः। तृतीयार्थे षष्ठी। चर्मणा त्वचा गां धेनुं निरपिंशत।निःशेषेण संयुक्तामकुरुत[^131] तदनन्तरं मातरं गां पुनर्वत्सेन समसृजत[^132]। संश्लिष्टामकुरुत। अपि च—हे सौधन्वनासः सुधन्वनः पुत्राः नरः नेतारः स्वपस्यया शोभनं अपः कर्म स्वपः तदिच्छा स्वपस्या[^133]। 'अ प्रत्ययात्' (पा० ३।३।१०२) इति भावे अकारप्रत्ययः। वे० भा०")तया शोभनकर्मेच्छया[^134]। जिव्री[^135] ऋत इद्धातोः (पा० ७।१।१००) इति इत्वम्। रेफवकारयोः स्थानविपर्ययः। बहुलवचना'द्धलि च' (पा०८।२।७७) इति दीर्घाभावः। नित्वात् (पा० ६।१।१९७) आद्युदात्तत्वम्।")जीर्णौवृद्धौ पितरा मातापितरौ युवाना पुनः यौवनोपेतौ अकृणोतन[^136] नुम्। धिन्वि कृण्व्योर च (पा० ३।१।८०) इत्युप्रत्ययः। तत्सन्नियोगेन वकारस्य चाकारः। अतो लोपे (पा० ६।४।४८) सति स्थानिवद्भावाल्लधूपधगुणाभावः (पा० १।१।५६)। लङ्मध्यमबहुवचनस्य 'त' शब्दस्य तप्तनप्तनथनाश्च (पा०७।१।४५) इति तनबादेशः, तस्य पित्वेन ङित्वाभावाद्गुणः। वे० भा०।")। तप्तनप्तेति (पा० ७।१।४५) तनवादेशः। यूयमकृढ्वम्।
+
+[^131]: " निःशेषेणाश्लिष्टां संयुक्ताम्' इति वेदभाष्ये 'ग' पुस्तके च।"
+
+[^132]: " 'संसृष्टामकुरुत' इति 'ग' पुस्तके। समगमयतेति यावत्' इति 'ग' पुस्तके वेदभाष्ये च।"
+
+[^133]: "स्वपस्या—सुप आत्मनः क्यच् (पा०३।१।१८
+
+[^134]: "'यागदानाद्याचरणेनेति यावत्' इति 'ग' पुस्तके भाष्ये च।"
+
+[^135]: "जिव्री-जॄष् वयोहानौ। जॄशृसऋजागृभ्यः क्वन् (उ० सू०५०३
+
+[^136]: "अकृणोतन—कृवि हिंसाकरणयोश्च। इदित्वान् (पा०७।१।५८
 
  तथा निगमाः।
 
@@ -2004,9 +2274,13 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 सन्तो लीलया उपकुर्वन्तीत्याह—
 
 **दृष्ट्वा परव्यथां सन्त उपकुर्वन्ति लीलया।  
-[दितेर्गर्भव्यथां](# "'दीनां दृष्ट्वा दितिं रुद्रो गौर्यै जा मरुतो ददौ ॥ जाः अपत्यानि। अत्राख्यानमाह—'पुरा कदाचित्० इत्यादि'। इति 'ग' पुस्तके।") हत्त्वा रुद्रोऽभून्मरुतां पिता॥३१॥**
+दितेर्गर्भव्यथां[^137] हत्त्वा रुद्रोऽभून्मरुतां पिता॥३१॥**
 
- सन्तः सत्पुरुषाः परव्यथां परपीडां दृष्ट्वा लीलया हेलया उपकुर्वन्ति। [रुद्रस्य](# "'रुद्रो यथा' इत्येव साधु।") यथा—रुद्रः ईश्वरः दितेर्मातुः गर्भव्यथां गर्मपीडां हत्त्वा तद्गर्भो मरुतः देवविशेषाः तेषां मरुतां पिता पालकोऽभूत्।
+[^137]: "'दीनां दृष्ट्वा दितिं रुद्रो गौर्यै जा मरुतो ददौ ॥ जाः अपत्यानि। अत्राख्यानमाह—'पुरा कदाचित्० इत्यादि'। इति 'ग' पुस्तके।"
+
+ सन्तः सत्पुरुषाः परव्यथां परपीडां दृष्ट्वा लीलया हेलया उपकुर्वन्ति। रुद्रस्य[^138] यथा—रुद्रः ईश्वरः दितेर्मातुः गर्भव्यथां गर्मपीडां हत्त्वा तद्गर्भो मरुतः देवविशेषाः तेषां मरुतां पिता पालकोऽभूत्।
+
+[^138]: "'रुद्रो यथा' इत्येव साधु।"
 
  तदर्थमियमृक्—( ऋ० १. ११४. ६)।
 
@@ -2024,9 +2298,11 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
  केचिच्(१) श्लोकैर्वर्णयन्ति—
 
 **कथं ह्यभृन्मरुतां वै पितृत्वं जगद्गुरोर्देवदेवस्य शम्भोः।  
-यथा रुद्रो मरुतां वै पिताऽऽसीत्तथेतिहासः [प्रदर्श्यतेऽधुना](# "'प्रतिदर्श्यतेऽत्र' इति वे० दीपिका।")॥१॥  
+यथा रुद्रो मरुतां वै पिताऽऽसीत्तथेतिहासः प्रदर्श्यतेऽधुना[^139]॥१॥  
 शतक्रतोरसुरारेर्वधार्थं दितिस्तु गर्भं लभते स्म भर्त्तुः।  
 श्रुश्रूषमाणः किल तामथेन्द्रो मायाविदामग्रणी रन्ध्रदर्शी॥२॥**
+
+[^139]: "'प्रतिदर्श्यतेऽत्र' इति वे० दीपिका।"
 
 
 
@@ -2047,26 +2323,48 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 
 
-**प्रकीर्णकेशीं च दितिं [प्रसुप्तामवेक्ष्य](# "'प्रसुप्तामालक्ष्य' वे० दी०।") वज्री ह्यणुमात्ररूपः।  
+**प्रकीर्णकेशीं च दितिं प्रसुप्तामवेक्ष्य[^140] वज्री ह्यणुमात्ररूपः।  
 प्रविश्य कुक्षिं प्रविभेद गर्भं मा रोद रोदेति वदंस्तु गर्भम्॥३॥  
-भित्वा गर्भ निर्गते वै महेन्द्रे [प्रबुद्धा](# "'प्रबुद्ध्य'।") सा रोदिति स्मार्त्तरूपा।  
-अत्रान्तरे त्वन्तरिक्षे तदासीज्जगज्जनित्री [त्वखिलेशपत्नी](# " 'ह्यखिलेशपत्नी'।")॥४॥  
+भित्वा गर्भ निर्गते वै महेन्द्रे प्रबुद्धा[^141] सा रोदिति स्मार्त्तरूपा।  
+अत्रान्तरे त्वन्तरिक्षे तदासीज्जगज्जनित्री त्वखिलेशपत्नी[^142]॥४॥  
 वृषेन्द्रमारुह्य गिरीन्द्रपुत्री सुरेन्द्रवृन्दैरभिवन्द्यमाना।  
 नद्याहृतैः पंकजकुण्डलाद्यैर्हारेण सम्भूषितसर्वदेहा॥५॥  
 संसारवृक्षस्य कुठारकेण शशाङ्कचूडामणिमण्डितेन।  
-देवेन सार्द्धं सुरसिद्धसङ्घैः [सस्त्रीगणैश्चाप्यभिपूज्यमाना](# "स्त्रीणां गणैश्चाभि०।")॥६॥  
+देवेन सार्द्धं सुरसिद्धसङ्घैः सस्त्रीगणैश्चाप्यभिपूज्यमाना[^143]॥६॥  
 गर्भस्य मातुश्च तदार्त्तनादं श्रुश्राव चाकाशगता यदृच्छया।  
 सुराङ्गनानामवलोक्य वृन्दं कृपापरा साथ हरं ययाचे॥७॥  
-वज्रेण [रुग्णानि](# "वज्रेण भिन्नानि तु यानि देवखण्डानि गर्भस्य तनूनि चापि इति वे० दी०।") रुषातिदेव खण्डानि गर्भस्य तनूनि चापि।  
-सप्तात्मके सप्तकभेदनेन बहूनि खण्डानि बहूनि [चापि](# " सन्ति।")॥८॥  
+वज्रेण रुग्णानि[^144] रुषातिदेव खण्डानि गर्भस्य तनूनि चापि।  
+सप्तात्मके सप्तकभेदनेन बहूनि खण्डानि बहूनि चापि[^145]॥८॥  
 एकैकमेषां लभतां शरीरं मदर्थमेतत् क्रियतां महेश \।  
-स्युश्चैव सर्वे तरुणाः सदैव [स्वलङ्कृतास्ते](# "'स्वलङ्कृतास्तव पुत्रा भवन्तु'।")मरुतस्तवैव॥९॥  
-मा रोद [दानान्मृतियोगतो](# "वादन्।") वा ख्यातास्तु लोके [मरुतस्तु](# " मरुतश्च।") नाम्ना \।  
-[सख्यं](# "'सख्यञ्च तैरस्तु सुरेश्वरस्य सुरैरतुल्यं नियतं महेश'।") च तैरस्तु महेश्वरस्य सुरैश्च तुल्यं मरुतां महेश॥१०॥  
+स्युश्चैव सर्वे तरुणाः सदैव स्वलङ्कृतास्ते[^146]मरुतस्तवैव॥९॥  
+मा रोद दानान्मृतियोगतो[^147] वा ख्यातास्तु लोके मरुतस्तु[^148] नाम्ना \।  
+सख्यं[^149] च तैरस्तु महेश्वरस्य सुरैश्च तुल्यं मरुतां महेश॥१०॥  
 न ज्येष्ठता नापि कनिष्ठेतैषां वेषो वयश्चैव समानमेषां।  
-([घृणाब्धित्वं](# " इयं पक्ति नीतिमञ्जर्यो न दृश्यते।") व्यक्तमेवं तव स्यान्मयि प्रीतिश्चातुला वै महेश)॥११॥  
+(घृणाब्धित्वं[^150] व्यक्तमेवं तव स्यान्मयि प्रीतिश्चातुला वै महेश)॥११॥  
 पादादिकेशान्तमलङ्कृताश्च भवन्त्वेते सर्वमेतन् ममास्तु।  
 तथेति देवः प्रतिपन्नवाक्यो देव्या यथोक्तं प्रचकार सर्वम्॥१२॥**
+
+[^140]: "'प्रसुप्तामालक्ष्य' वे० दी०।"
+
+[^141]: "'प्रबुद्ध्य'।"
+
+[^142]: " 'ह्यखिलेशपत्नी'।"
+
+[^143]: "स्त्रीणां गणैश्चाभि०।"
+
+[^144]: "वज्रेण भिन्नानि तु यानि देवखण्डानि गर्भस्य तनूनि चापि इति वे० दी०।"
+
+[^145]: " सन्ति।"
+
+[^146]: "'स्वलङ्कृतास्तव पुत्रा भवन्तु'।"
+
+[^147]: "वादन्।"
+
+[^148]: " मरुतश्च।"
+
+[^149]: "'सख्यञ्च तैरस्तु सुरेश्वरस्य सुरैरतुल्यं नियतं महेश'।"
+
+[^150]: " इयं पक्ति नीतिमञ्जर्यो न दृश्यते।"
 
 
 
@@ -2141,19 +2439,27 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 **उत्सर्गे सूर्योपस्थाने चित्रं देवानां नमो मित्रस्य \[ ऋ० १०- ३७- १ \] इति गृह्ये। **
 
-**तथा ऋग्विधानम्–चित्रमित्युपतिष्ठेत सूक्तेनानेन [भास्करमिति](# "अयं पूर्ण श्लोक ऋग्विधानस्थ एवम्-  ") (श्लो० १३४)। **
+**तथा ऋग्विधानम्–चित्रमित्युपतिष्ठेत सूक्तेनानेन भास्करमिति[^151] (श्लो० १३४)। **
 
- ऋचोऽयमर्थः। [देवानां](# " दीव्यन्तीति देवा रश्मयः तेषाम्। देवजनानामेव वा। इति वेदभाष्ये 'ग' पुस्तके च।") देवजनानां मध्ये अनीकं तेजः समूह-
+[^151]: "अयं पूर्ण श्लोक ऋग्विधानस्थ एवम्-  "
+
+ ऋचोऽयमर्थः। देवानां[^152] देवजनानां मध्ये अनीकं तेजः समूह-
+
+[^152]: " दीव्यन्तीति देवा रश्मयः तेषाम्। देवजनानामेव वा। इति वेदभाष्ये 'ग' पुस्तके च।"
 
 
 
-रूपं [चित्रं](# " आश्चर्यकरं चायनीयं वा इति 'ग' पुस्तके।")चायनीयं सूर्यमंडलम् उदगाद् उदयाचलं प्राप्तमासीत्। कीदृशम्। मित्रस्य वरुणस्याग्नेश्चोपलक्षणमेतत्। एतदुपलक्षितानां जगतां चक्षुः प्रकाशकम्। चक्षुरिन्द्रियस्थानीयं वा। उदयं प्राप्य द्यावापृथिवी। दिवं च पृथिवीं च अन्तरिक्षं च आप्राः। स्वकीयेन तेजसा आसमन्तादपूपुरत्। इदृग्भूतमण्डलवर्ती सूर्यः जगतो जङ्गमस्य तस्थुषोस्थावरस्य च आत्मा। इति सूर्यस्य जगदात्मत्वमुक्तम्।
+रूपं चित्रं[^153]चायनीयं सूर्यमंडलम् उदगाद् उदयाचलं प्राप्तमासीत्। कीदृशम्। मित्रस्य वरुणस्याग्नेश्चोपलक्षणमेतत्। एतदुपलक्षितानां जगतां चक्षुः प्रकाशकम्। चक्षुरिन्द्रियस्थानीयं वा। उदयं प्राप्य द्यावापृथिवी। दिवं च पृथिवीं च अन्तरिक्षं च आप्राः। स्वकीयेन तेजसा आसमन्तादपूपुरत्। इदृग्भूतमण्डलवर्ती सूर्यः जगतो जङ्गमस्य तस्थुषोस्थावरस्य च आत्मा। इति सूर्यस्य जगदात्मत्वमुक्तम्।
+
+[^153]: " आश्चर्यकरं चायनीयं वा इति 'ग' पुस्तके।"
 
  तत्र निरुक्तम्–\[नि० १२।१६\] "चायनीयं देवानामुदगमदनीकं ख्यानं मित्रस्य वरुणस्याग्नेश्चापूपुरद् द्यावापृथिव्यौ चान्तरिक्षं च महत्त्वेन तेन सूर्य आत्मा जङ्गमस्य च स्थावरस्य च"। इति।
 
  इति महतां विश्वप्रकाशकत्वं सूर्योपस्थानेनोक्तम्।
 
- उपकारात्समृद्धिं [सार्थकीकुर्यादित्याह](# "'सार्थकीं' 'सार्थिकीं, कुर्याद् इत्यपि पाठः।")—
+ उपकारात्समृद्धिं सार्थकीकुर्यादित्याह[^154]—
+
+[^154]: "'सार्थकीं' 'सार्थिकीं, कुर्याद् इत्यपि पाठः।"
 
 **समृद्धिं सार्थकीकुर्यात्सूपकारेण सत्यवान्।  
 वैमद्याज्जाहुषाज्जातं नासत्याऽनो हि सार्थकम्॥३३॥ **
@@ -2171,7 +2477,11 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  कक्षीवांस् त्रिष्टुभा अश्विनौ स्तौति। प्रातरनुवाके आश्विने क्रतौ नासत्याभ्यामिति त्रीणि ॥ (सां० श्रौ० सू० ६।६।६)।
 
- ऋचोऽयमर्थः। अहं नासत्याभ्यां सत्यरूपाभ्यां अश्विभ्यां स्तोमान् स्तुतीः प्रेयर्म्मिं सम्पादयामि। तत्र दृष्टान्तः। बर्हिरिव। यथा कश्चिद्यजमानो यागार्थं बर्हिः प्रवृञ्जे प्रकर्षेण यागार्थं [दर्भमन्यूनानतिरिक्तं](# " 'अन्यूनानतिरिक्तं यागाय पर्याप्तम्' इति वेदभाष्ये।") वृंक्तेछिनत्ति सम्पादयति तद्वत्। अभ्रियेव–यथा अभ्रियाणि अभ्रेषु मेघेषु अवस्थितान्युदकानि वातो वायुः बहुशः प्रेरणार्थं बहुशः प्रेरयति एवमहम् अश्विभ्यां स्तोत्राणि इयर्मि बहुशः प्रेरयामि। यौ अश्विनौ [अर्भगाय](# "अर्भगाय बालाय स्वयंवरलब्धभार्याय विमदाय एतत्संज्ञाय राजर्षये मध्येमार्ग स्वयंवरार्थमागतैस्तामलभमानै रन्यैर्नृपैः सह योद्धुमशक्रुवतेऽपि तस्मै सेनाजुवा शत्रुसेनायाः प्रेरकेण शत्रुभिर्दुप्रापेण रथेन यावश्विनौ जायां भार्या परैरनाक्रान्तां न्यूहतुः शत्रून्निहत्य तदीयं गृहं प्रापयामासतुः ताभ्यामित्यर्थः। (वे० भा०)") तरुणाय विमदाय ऋषये जायां स्वकीयेन रथेन न्यूहतुः तदीयं गृहं प्रापयामासतुः। कीदृशेन रथेन ।सेनाजुवा शत्रुसेनायाः प्रेरकेण—
+ ऋचोऽयमर्थः। अहं नासत्याभ्यां सत्यरूपाभ्यां अश्विभ्यां स्तोमान् स्तुतीः प्रेयर्म्मिं सम्पादयामि। तत्र दृष्टान्तः। बर्हिरिव। यथा कश्चिद्यजमानो यागार्थं बर्हिः प्रवृञ्जे प्रकर्षेण यागार्थं दर्भमन्यूनानतिरिक्तं[^155] वृंक्तेछिनत्ति सम्पादयति तद्वत्। अभ्रियेव–यथा अभ्रियाणि अभ्रेषु मेघेषु अवस्थितान्युदकानि वातो वायुः बहुशः प्रेरणार्थं बहुशः प्रेरयति एवमहम् अश्विभ्यां स्तोत्राणि इयर्मि बहुशः प्रेरयामि। यौ अश्विनौ अर्भगाय[^156]") तरुणाय विमदाय ऋषये जायां स्वकीयेन रथेन न्यूहतुः तदीयं गृहं प्रापयामासतुः। कीदृशेन रथेन ।सेनाजुवा शत्रुसेनायाः प्रेरकेण—
+
+[^155]: " 'अन्यूनानतिरिक्तं यागाय पर्याप्तम्' इति वेदभाष्ये।"
+
+[^156]: "अर्भगाय बालाय स्वयंवरलब्धभार्याय विमदाय एतत्संज्ञाय राजर्षये मध्येमार्ग स्वयंवरार्थमागतैस्तामलभमानै रन्यैर्नृपैः सह योद्धुमशक्रुवतेऽपि तस्मै सेनाजुवा शत्रुसेनायाः प्रेरकेण शत्रुभिर्दुप्रापेण रथेन यावश्विनौ जायां भार्या परैरनाक्रान्तां न्यूहतुः शत्रून्निहत्य तदीयं गृहं प्रापयामासतुः ताभ्यामित्यर्थः। (वे० भा०
 
  एवं वैमदीवहनेन नास(३)त्याभ्यां रथसमृद्धिः सार्थीकृतेत्याह।
 
@@ -2216,11 +2526,23 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  तुग्रो नाम कश्चिदश्विनोः प्रियो राजर्षिः। स च द्वीपान्तरवर्त्तिभिः शत्रुभिरत्यन्तमुपद्रुतः सन् तेषां जयाय स्वपुत्रं भुज्युं सेनया सह नावा प्राहैषीत्। सा च नौर्मध्येसमुद्रमतिदूरं गत्वा (–ता) वायुवशेन भिन्नाऽऽसीत्। तदानीं स भुज्युः शीघ्रमश्विनौ तुष्टाव। स्तुतौ च तौ सेनया सहितमात्मीयासु चतसृषु नौष्वारोप्य त्रिभी रथैः पलश्वैः शतपद्भिः सह पितुस्तुग्र्यस्य समीपं त्रिभिरहोरात्रैः प्रापयामासतुरिति।
 
- अयमर्थः इदमादिकेन तृचेन \[ऋ० १.११६.३–५\] प्रतिपाद्यते। 'ह' शब्दः प्रसिद्धौ। तुग्रः खलु पूर्वं शत्रुभिः पीडितः सन् तज्जपार्थं [उदमेघे](# "उदमेघे—मिह सेचने। कर्मणि घञ् [पा० ३।३।१९] न्यङ्क्वादीनाञ्च (पा० ७।३।५३) इति कुत्वम्। उदकस्योदः संज्ञायाम् (पा० ६।३।५७) इति उदकस्योदादेशः। थाथादिना (पा० ६।२।१४४) उत्तरपदान्तोदात्तत्वम्।") उदकैर्मिह्यते सिच्यत इति उदमेघः समुद्रः तस्मिन् समुद्रे भुज्युमेतत्संज्ञं प्रियं पुत्रं [अवाहाः](# "अवाहाः—अव–अहाः। ओहाक् त्यागे। लुङि तिपि च्लेः सिच्। आगमानुशासनस्यानित्यत्वात्सगिटौ न क्रियेते। बहुलं छन्दसीति (पा० २।४।३९) इति ईडभावः हल्ङ्याभ्यो०-इति तिलोपः। रुत्वविसर्गौ॥ यद्वा—मन्त्रे घसह्वरणश० (पा० २।४।८०) इते च्लेर्लुक्। च्लेर्लुप्तत्वादिण् न क्रियते।") नावा गन्तुं पर्यत्याक्षीत्। तत्र दृष्टान्तः।[ममृवान्](# "ममृवान्—मृङ प्राणत्यागे। लिटः क्वसुः (पा० ३।२।१०७) क्रादिनियमप्राप्तस्येटो वस्वेकाजाद्धसाम् (पा० ७।२।६७) इति नियमादभावः।") प्रियमाणः सन् धनलोभी कश्चिन्मनुष्यः रयिं न यथा धनं परित्यजति तद्वत्। हे अश्विनौ तं च भुज्युं मध्ये समुद्र निमग्नं [नौभिः](# " नौभिः—'सावेकाचस्तृतीयायाम् (पा० ६।१।१६८) इति विभक्तेरुदात्तत्वम्।") पितृसमीपं ऊहथुः युवां प्रापितवन्तौ
+ अयमर्थः इदमादिकेन तृचेन \[ऋ० १.११६.३–५\] प्रतिपाद्यते। 'ह' शब्दः प्रसिद्धौ। तुग्रः खलु पूर्वं शत्रुभिः पीडितः सन् तज्जपार्थं उदमेघे[^157] इति कुत्वम्। उदकस्योदः संज्ञायाम् (पा० ६।३।५७) इति उदकस्योदादेशः। थाथादिना (पा० ६।२।१४४) उत्तरपदान्तोदात्तत्वम्।") उदकैर्मिह्यते सिच्यत इति उदमेघः समुद्रः तस्मिन् समुद्रे भुज्युमेतत्संज्ञं प्रियं पुत्रं अवाहाः[^158] इति ईडभावः हल्ङ्याभ्यो०-इति तिलोपः। रुत्वविसर्गौ॥ यद्वा—मन्त्रे घसह्वरणश० (पा० २।४।८०) इते च्लेर्लुक्। च्लेर्लुप्तत्वादिण् न क्रियते।") नावा गन्तुं पर्यत्याक्षीत्। तत्र दृष्टान्तः।ममृवान्[^159] क्रादिनियमप्राप्तस्येटो वस्वेकाजाद्धसाम् (पा० ७।२।६७) इति नियमादभावः।") प्रियमाणः सन् धनलोभी कश्चिन्मनुष्यः रयिं न यथा धनं परित्यजति तद्वत्। हे अश्विनौ तं च भुज्युं मध्ये समुद्र निमग्नं नौभिः[^160] इति विभक्तेरुदात्तत्वम्।") पितृसमीपं ऊहथुः युवां प्रापितवन्तौ
+
+[^157]: "उदमेघे—मिह सेचने। कर्मणि घञ् [पा० ३।३।१९] न्यङ्क्वादीनाञ्च (पा० ७।३।५३
+
+[^158]: "अवाहाः—अव–अहाः। ओहाक् त्यागे। लुङि तिपि च्लेः सिच्। आगमानुशासनस्यानित्यत्वात्सगिटौ न क्रियेते। बहुलं छन्दसीति (पा० २।४।३९
+
+[^159]: "ममृवान्—मृङ प्राणत्यागे। लिटः क्वसुः (पा० ३।२।१०७
+
+[^160]: " नौभिः—'सावेकाचस्तृतीयायाम् (पा० ६।१।१६८
 
 
 
-कीदृशीभिः [आत्मन्वतीभिः](# "आत्मन्वतीभिः—आत्मनो मतुप्। मादुपधायाश्च मतोर० (पा० ८।२।२९) इति वत्वम्। अतो नुड् (पा० ८।२।१६) इति नुट्। नलोपः। (पा० ८।२।७)। हृस्वनुड्भ्यां मतुप् (पा० ६।१।१७६) इति मतुप उदात्तत्वम्।") आत्मीयाभिः युवयोः स्वभूताभिरित्यर्थः। यद्वा धृतिरात्मा धारणवतीभिरित्यर्थः। [अन्तरिक्षप्रुद्भिः](# "अन्तरिक्षप्रुद्भिः-प्रुङ गतौ क्विप् च (पा० ३।२।७६) इति क्विप्") अतिस्वच्छत्वादन्तरिक्षे जलस्योपरिष्टादेव गन्त्रीभिः अपोदकाभिः सुश्लिष्टत्वादपगतोदकाभिः अप्रविष्टोदकाभिरित्यर्थः।
+कीदृशीभिः आत्मन्वतीभिः[^161] इति वत्वम्। अतो नुड् (पा० ८।२।१६) इति नुट्। नलोपः। (पा० ८।२।७)। हृस्वनुड्भ्यां मतुप् (पा० ६।१।१७६) इति मतुप उदात्तत्वम्।") आत्मीयाभिः युवयोः स्वभूताभिरित्यर्थः। यद्वा धृतिरात्मा धारणवतीभिरित्यर्थः। अन्तरिक्षप्रुद्भिः[^162] इति क्विप्") अतिस्वच्छत्वादन्तरिक्षे जलस्योपरिष्टादेव गन्त्रीभिः अपोदकाभिः सुश्लिष्टत्वादपगतोदकाभिः अप्रविष्टोदकाभिरित्यर्थः।
+
+[^161]: "आत्मन्वतीभिः—आत्मनो मतुप्। मादुपधायाश्च मतोर० (पा० ८।२।२९
+
+[^162]: "अन्तरिक्षप्रुद्भिः-प्रुङ गतौ क्विप् च (पा० ३।२।७६
 
  ममृवान् — नकार आकारोपध० (ऋ० प्रा० ४।६४) इति न्लोपः।
 
@@ -2236,8 +2558,10 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  यादृशः पिता तादृशः पुत्र इत्याह—
 
-**[यादृशाज्जायते](# "'ग' पुस्तकेऽयं श्लोक एवं पठितः—  ") जन्तुर्नाम कर्म्मास्य तादृशम्।  
+**यादृशाज्जायते[^163] जन्तुर्नाम कर्म्मास्य तादृशम्।  
 अश्विनावश्वजावश्वं ददतुः पेदवे सितम्॥३४॥**
+
+[^163]: "'ग' पुस्तकेऽयं श्लोक एवं पठितः—  "
 
  यादृशात्पितुः प्राणी जन्तुः जायते अस्य जन्तोर्नामाभिधानं कर्म च तादृशं भवति। यथा अश्वजौ अश्वाज्जातौ तस्मादश्विनौ नामतः पेदवे राजर्षये श्वेतम् अश्वं ददतुः॥ कर्मापि तादृग् अश्वदानम्।
 
@@ -2256,20 +2580,28 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  अथाश्विनोरश्वादुत्पत्तिः। तत्र बृहद्देवता–अ० ६ श्लो० १६२।१६३, तथा अ० ७ श्लो० १-७।
 
-**अभवन्मिथुनं त्वष्टुः [सरण्यूस्त्रिशिराविह](# "'त्रिशिराः सह' इत्यपि पाठः। ")।  
+**अभवन्मिथुनं त्वष्टुः सरण्यूस्त्रिशिराविह[^164]।  
 स वै सरण्यं प्रायच्छत्स्वयमेव विवस्वते॥ (१६२)**  
 **ततः सरण्य्वां जज्ञाते यमयम्यौ विवस्वतः।  
 तौ चाप्युभौ यमावेव ज्यायांस्ताभ्यां तु वै यमः॥ (१६३)**  
-**[दृष्ट्वा](# " 'सृष्ट्वा' इत्यपि पाठः।") भर्त्तुः परोक्षं तु सरण्यूः सदशीं स्त्रियम्।  
+**दृष्ट्वा[^165] भर्त्तुः परोक्षं तु सरण्यूः सदशीं स्त्रियम्।  
 निक्षिप्य मिथुनौतस्यामश्वा भूत्त्वाऽपचक्रमे॥१॥  
-[अविज्ञानाद्विवस्वान्](# "विवस्वांस्तु' इत्यपि।") हितस्यामजनयन्मनुम्।  
-[राजर्षिरासीत्स](# "राजर्षिरभवत्सोऽपि विव० इत्यपि पाठः।") मनुर्विवस्वानिव तेजसा॥२॥  
+अविज्ञानाद्विवस्वान्[^166] हितस्यामजनयन्मनुम्।  
+राजर्षिरासीत्स[^167] मनुर्विवस्वानिव तेजसा॥२॥  
 स विज्ञाय त्वपक्रान्तां सरण्यूमश्वरूपिणीम्।  
 त्वाष्ट्रीं प्रतिजगामाशु वाजी भृत्वा सलक्षणः॥३॥**
 
+[^164]: "'त्रिशिराः सह' इत्यपि पाठः। "
+
+[^165]: " 'सृष्ट्वा' इत्यपि पाठः।"
+
+[^166]: "विवस्वांस्तु' इत्यपि।"
+
+[^167]: "राजर्षिरभवत्सोऽपि विव० इत्यपि पाठः।"
 
 
-**[सरण्यूस्तं](# " 'सरण्यूश्च विवस्वन्तं विदित्वा हयरूपिणम्' इत्यपि।") विवस्वन्तं विज्ञाय हयरूपिणम्।  
+
+**सरण्यूस्तं[^168] विवस्वन्तं विज्ञाय हयरूपिणम्।  
 मिथुनायोपचक्राम तां च तत्रारुरोह सः॥४॥  
 ततस्तयोस्तु वेगेन शुक्रं तदपतद् भुवि।  
 उपाजिघ्रच्च सा त्वश्वा तच्छुक्रं गर्भकाम्यया॥५॥  
@@ -2278,18 +2610,34 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 इतिहासमिदं यास्कः सरण्यूदेवते चे।  
 विवस्वतश्च त्वष्टुश्च त्वष्टेति सह मन्यते॥७॥**
 
+[^168]: " 'सरण्यूश्च विवस्वन्तं विदित्वा हयरूपिणम्' इत्यपि।"
+
  अथ यास्कः (नि० १२।१०)—
 
 
-"तत्रेतिहासमाचक्षते–[त्वाष्ट्री](# "हस्तलिखितपुस्तकेषु 'त्वाष्ट्री सरण्यूरित्यादि, इति प्रतीकेनैव कथेयं सूचिता।") सरण्यूर्विवस्वत आदित्याद्यमौ मिथुनौ जनयाञ्चकार। सा सवर्णामन्यां प्रतिनिधायाश्वंरूपं कृत्वा प्रदुद्राव, स विवस्वानादित्य आश्वमेव रूपं कृत्वा तामनुसृत्य सम्बभूव। ततोऽश्विनौ जज्ञाते सवर्णायां मनुः" ॥ इति।
+"तत्रेतिहासमाचक्षते–त्वाष्ट्री[^169] सरण्यूर्विवस्वत आदित्याद्यमौ मिथुनौ जनयाञ्चकार। सा सवर्णामन्यां प्रतिनिधायाश्वंरूपं कृत्वा प्रदुद्राव, स विवस्वानादित्य आश्वमेव रूपं कृत्वा तामनुसृत्य सम्बभूव। ततोऽश्विनौ जज्ञाते सवर्णायां मनुः" ॥ इति।
+
+[^169]: "हस्तलिखितपुस्तकेषु 'त्वाष्ट्री सरण्यूरित्यादि, इति प्रतीकेनैव कथेयं सूचिता।"
 
 **“अश्वैरश्विनावित्यौर्णवाभः" (नि० १२\।१) इति च। इत्यश्विनोरश्वादुत्पत्तिः।**
 
- ऋचोऽयमर्थः। हे (अश्विना) अश्विनौ युवाम् अघाश्वाय अहन्तव्याश्वाय पेदुनाम्ने राजर्षये यं श्वेतं श्वेतवर्णम् अश्वं ददथुः दत्तवन्तौ सोऽश्वस्तस्मै स्वस्तिजयलक्षणं मङ्गलं शश्वदित् नित्यमेव चकार। वां युवयो [स्तद्दात्रं](# "दात्रम्—ददातेर्भावे औणादिकस्त्रप्रत्ययः (उ० सू० दादिभ्यश्छन्दस्रि ६१९)") दानं [महि](# "महि—मह पूजायाम्। 'इन् सर्वधातुभ्यः' (उ० सू० ५६७) इति इन्।") महद् अतिगम्भीरम्
+ ऋचोऽयमर्थः। हे (अश्विना) अश्विनौ युवाम् अघाश्वाय अहन्तव्याश्वाय पेदुनाम्ने राजर्षये यं श्वेतं श्वेतवर्णम् अश्वं ददथुः दत्तवन्तौ सोऽश्वस्तस्मै स्वस्तिजयलक्षणं मङ्गलं शश्वदित् नित्यमेव चकार। वां युवयो स्तद्दात्रं[^170]") दानं महि[^171] इति इन्।") महद् अतिगम्भीरम्
+
+[^170]: "दात्रम्—ददातेर्भावे औणादिकस्त्रप्रत्ययः (उ० सू० दादिभ्यश्छन्दस्रि ६१९
+
+[^171]: "महि—मह पूजायाम्। 'इन् सर्वधातुभ्यः' (उ० सू० ५६७
 
 
 
-अतएव [कीर्तेन्यं](# " कीर्तेन्यम्—कृत संशब्दने। 'कृत्यार्थे तवैकेन्केन्यत्वनः (पा० ३।४।१४) इति केन्य प्रत्ययः। ऋत इद्धातोः (पा० ७।१।१००) इतीत्वम्।") सर्वैः कीर्तनीयं प्रशस्यं [भूत्](# "भूत्—बहुलं छन्दस्यमाङ्योगेऽपि (पा०६।४।७५) इत्यडभावः।") अभूत्। तस्मात् [पैद्वः](# "पैद्वः—तस्येदम् (पा० ४।३।१२०) इत्यण् प्रत्ययः। छान्दसोवर्णलोपः।") पेदोः सम्बन्धी पतनशीलः शीघ्रगामी वा। अर्यः शत्रूणां प्रेरयिता युद्धे प्रेरयितव्यो वा वाजी वेजनवान् सोऽश्वः सदमित् सदैव [हव्यः](# "हव्यः—ह्वयतेरचो यत् (पा० ३।१।९७) इति यत्। बहुलं छन्दसीति सम्प्रसारणम्। गुणः [पा० ७।३।८४] धातोस्तन्निमित्तस्यैव [६।१।८०] इत्यवादेशः।") अस्माभिराह्वातव्यः।
+अतएव कीर्तेन्यं[^172] इति केन्य प्रत्ययः। ऋत इद्धातोः (पा० ७।१।१००) इतीत्वम्।") सर्वैः कीर्तनीयं प्रशस्यं भूत्[^173] इत्यडभावः।") अभूत्। तस्मात् पैद्वः[^174] इत्यण् प्रत्ययः। छान्दसोवर्णलोपः।") पेदोः सम्बन्धी पतनशीलः शीघ्रगामी वा। अर्यः शत्रूणां प्रेरयिता युद्धे प्रेरयितव्यो वा वाजी वेजनवान् सोऽश्वः सदमित् सदैव हव्यः[^175] इति यत्। बहुलं छन्दसीति सम्प्रसारणम्। गुणः [पा० ७।३।८४] धातोस्तन्निमित्तस्यैव [६।१।८०] इत्यवादेशः।") अस्माभिराह्वातव्यः।
+
+[^172]: " कीर्तेन्यम्—कृत संशब्दने। 'कृत्यार्थे तवैकेन्केन्यत्वनः (पा० ३।४।१४
+
+[^173]: "भूत्—बहुलं छन्दस्यमाङ्योगेऽपि (पा०६।४।७५
+
+[^174]: "पैद्वः—तस्येदम् (पा० ४।३।१२०
+
+[^175]: "हव्यः—ह्वयतेरचो यत् (पा० ३।१।९७
 
  तथा निगमाः।
 
@@ -2305,8 +2653,10 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  विदुषां स्तुत्या वैदुष्यं भवतीत्याह—
 
-**वैदुष्यमिच्छता कार्यं विदुषां [गुणकीर्तनम्।](# "'गुणवर्णनम्' इत्यपि पाठः।")  
+**वैदुष्यमिच्छता कार्यं विदुषां गुणकीर्तनम्।[^176]  
 अश्विनोर्विदुषोः कीर्त्त्या कक्षीवानभवत्सुधीः॥३५॥**
+
+[^176]: "'गुणवर्णनम्' इत्यपि पाठः।"
 
  विद्वत्त्वमिच्छता पुंसा विद्वज्जनानां गुणकीर्तनं कक्षीवत्–कुर्यात्। यथा कक्षीवान् ऋषिः तिरोहितज्ञानः अश्विनोर्विदुषोः।
 
@@ -2329,11 +2679,21 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  **यु॒वम्। न॒रा॒। स्तु॒व॒ते। प॒ज्रि॒याय। कक्षी॒व॑ते। अ॒र॒द॒त॒म्। पुर॑म् ऽधिम्। का॒रो॒त॒रात्। श॒फात्। अश्व॑स्य। वृष्णः॑। श॒तम्। कु॒म्भान्। अ॒सि॒ञ्च॒त॒म्। सुरायाः॥३८॥**
 
- कक्षीवान् पुरा तमसा तिरोहितज्ञानः सन् ज्ञानार्थमश्विनाऽऽजुहाव तस्मै अश्विनौ प्रभूतां धियं दत्तवन्तौ। तदाह। हे नरा नेतारावश्विनौ युवं युवां [स्तुवते](# "स्तुवते–स्तौतेर्लटः शतृ। अदादित्वाच्छपो लुक् (पा० २।४।७२)। शतुरनुमो० (पा० ६।१।१७३) इति विभक्तेरुदात्तत्वम्।") युवयोः स्तुतिं कुर्वते [पज्रियाय](# "पज्रियाय पज्रशब्दात् शैषिको घच्।") पज्रा [इत्यङ्गिरसामाख्या](# " तथा च शाट्यायनिभिराम्नातम् 'पज्रा वा अङ्गिरसः पशुकामास्तपोऽतप्यन्त' इति वेदभाष्ये (ऋ० १. ५१.१४) ")। तेषां कुले जाताय [कक्षीवते](# " कक्षीवते–आसन्दीवदष्ठीवच्चक्रीवत्कक्षीवद् (पा० ८।२।१२) इति निपातनात् 'कक्ष्य' शब्दस्य सम्प्रसारणं वत्वं च।") कक्ष्या रज्जुरश्वस्य तद्वते एतत्संज्ञाय पुरंधिं प्रभूतां धियं बुद्धिम् पुरंधिर्बहुधीरिति यास्कः \[नि० ६।१३\]। अरदतं व्यलिखतम्। यथा सर्वार्थगोचरा भवति तथा कृतवन्तावित्यर्थः। अपि च कारोतरो नाम वैदलश्चर्मवेष्टितो भाजनविशेषः तस्मिन्सुरायाः स्रावणं
+ कक्षीवान् पुरा तमसा तिरोहितज्ञानः सन् ज्ञानार्थमश्विनाऽऽजुहाव तस्मै अश्विनौ प्रभूतां धियं दत्तवन्तौ। तदाह। हे नरा नेतारावश्विनौ युवं युवां स्तुवते[^177]। शतुरनुमो० (पा० ६।१।१७३) इति विभक्तेरुदात्तत्वम्।") युवयोः स्तुतिं कुर्वते पज्रियाय[^178] पज्रा इत्यङ्गिरसामाख्या[^179] ")। तेषां कुले जाताय कक्षीवते[^180] इति निपातनात् 'कक्ष्य' शब्दस्य सम्प्रसारणं वत्वं च।") कक्ष्या रज्जुरश्वस्य तद्वते एतत्संज्ञाय पुरंधिं प्रभूतां धियं बुद्धिम् पुरंधिर्बहुधीरिति यास्कः \[नि० ६।१३\]। अरदतं व्यलिखतम्। यथा सर्वार्थगोचरा भवति तथा कृतवन्तावित्यर्थः। अपि च कारोतरो नाम वैदलश्चर्मवेष्टितो भाजनविशेषः तस्मिन्सुरायाः स्रावणं
+
+[^177]: "स्तुवते–स्तौतेर्लटः शतृ। अदादित्वाच्छपो लुक् (पा० २।४।७२
+
+[^178]: "पज्रियाय पज्रशब्दात् शैषिको घच्।"
+
+[^179]: " तथा च शाट्यायनिभिराम्नातम् 'पज्रा वा अङ्गिरसः पशुकामास्तपोऽतप्यन्त' इति वेदभाष्ये (ऋ० १. ५१.१४
+
+[^180]: " कक्षीवते–आसन्दीवदष्ठीवच्चक्रीवत्कक्षीवद् (पा० ८।२।१२
 
 
 
-क्रियते लुप्तोपमानमेतत्। सुरायाः स्रावकाः कारोतरात् यथा सुरां स्रावयन्ति एवमेव युवां वृष्णः सेचनसमर्थस्य युष्मदीयस्याश्वस्य शफात् खुरात् सुरायाः शतकुम्भान् असंख्यातान् सुराघटान् असिञ्चतम् [अक्षारयतम्](# "यद्वा सिञ्चतिः पूरणार्थः कारोतरस्थानीयात् युष्मदीयाश्वखुराद्या सुरा प्रवहति तयाऽसंख्यातान् घटान् असिञ्चतम् अपूरयतम् ये जनाः सौत्रामण्यादिकर्मणि युष्मद्यागाय सुरां याचन्ते तेषामित्यर्थः-सायणभाष्यम्।")।
+क्रियते लुप्तोपमानमेतत्। सुरायाः स्रावकाः कारोतरात् यथा सुरां स्रावयन्ति एवमेव युवां वृष्णः सेचनसमर्थस्य युष्मदीयस्याश्वस्य शफात् खुरात् सुरायाः शतकुम्भान् असंख्यातान् सुराघटान् असिञ्चतम् अक्षारयतम्[^181]।
+
+[^181]: "यद्वा सिञ्चतिः पूरणार्थः कारोतरस्थानीयात् युष्मदीयाश्वखुराद्या सुरा प्रवहति तयाऽसंख्यातान् घटान् असिञ्चतम् अपूरयतम् ये जनाः सौत्रामण्यादिकर्मणि युष्मद्यागाय सुरां याचन्ते तेषामित्यर्थः-सायणभाष्यम्।"
 
 **तद्वां॑नरा॒ शंस्यं॑ पज्रि॒येण॑० \[ऋ० १-११७-६\]।**
 
@@ -2361,17 +2721,37 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 **अ॒श्वि॒ना॒। अव॑ऽनीतम्। उत्। नि॒न्य॒थुः॒। सर्वे॑ऽगणम्। स्व॒स्ति॥३१॥ **
 
- अत्राख्यानम्। अत्रिम् ऋषिम् असुराः[शतद्वारपीडायन्त्रगृहे](# "'शरद्वारे इति 'ग' पुस्तके पाठः।") प्रवेश्य तुषाग्निना [अबाधिषत](# "'अबाधन्त,")। तदानीं तेन ऋषिणा स्तुतावश्विनौ अग्निमुदकेनोपशमय्य तस्मात्पीडायन्त्रगृहाद् अविकलेन्द्रियवर्गं सन्तं निरगमयतामिति।
+ अत्राख्यानम्। अत्रिम् ऋषिम् असुराःशतद्वारपीडायन्त्रगृहे[^182] प्रवेश्य तुषाग्निना अबाधिषत[^183]। तदानीं तेन ऋषिणा स्तुतावश्विनौ अग्निमुदकेनोपशमय्य तस्मात्पीडायन्त्रगृहाद् अविकलेन्द्रियवर्गं सन्तं निरगमयतामिति।
 
- ऋचोऽयमर्थः–अश्विना हे अश्विनौ हिमेन हिमवच्छीतलेनोदकेन घ्रंसं दीप्यमानं [अत्रेर्बन्धनार्थमसुरैः](# " 'बाधनार्थम्'") प्रक्षिप्तं तुषाग्निमवारयेथां युवां निवारितवन्तौ। [शीतीकृतवन्तावित्यर्थः](# " शान्तं कृतवन्तावित्यर्थः। ")। अपिचास्मै \[असुरपीडाकार्श्यं प्राप्ताय\] अत्रये पितुमतीम्। पितुरित्यन्ननाम \[निघण्टु २।७\] [अन्नयुक्ताम्](# " 'अन्नयुताम्'।") ऊर्जं बलप्रदं रसात्मकं क्षीरादिकमधत्तं पुष्ट्यर्थं प्रायच्छतम्। ऋबीसे अपगतप्रकाशे पीडायन्त्रगृहे अवनीतं अवाङ्मुखतया असुरैः प्रापितम् अत्रं सर्वगणं (गणः समूहः सर्वेषां इन्द्रियाणां पुत्रादीनां वा गणेनोपेतं) पुत्रादिगणोपेतं स्वस्ति अविनाशो यथा भवति तथा उन्निन्यथुः तस्माद्गृहादुद्गमय्य युवां स्वगृहे प्रापितवन्तौ। :
+[^182]: "'शरद्वारे इति 'ग' पुस्तके पाठः।"
 
- यद्वा हिमेन शीतेन वृष्ट्युदकेन अग्निम् अग्निवत्तीक्ष्णम्। घ्रंसं अहर्नामैतत् \[निघण्टु १।९\] सामर्थ्यान्निदाघकालीनमहः अवारयेथां तस्याह्नस्तैक्ष्ण्यं निवारितवन्तौ। अपि चास्मै अग्नये पितुमतींचरुपुरोडाशादिलक्षणान्नोपेतम् ऊर्जे बलकरं रसात्मकम् उपस्तरणाभिधारणात्मकं घृतमधत्तम्। वृष्ट्युत्पादनेनाग्ने र्यागार्थं हवींषि निष्पादितवन्तावित्यर्थः।[ऋबीसे](# " ऋऽवीसे–ऋबीसमपगतभासम्, अपचितभासम्, अपहृतमासम् अन्तर्हितभासम्, गतभासं वा इति यास्कः (नि० ६।३५)") अपगततेजस्के पृथिवीद्रव्ये अवनी-
+[^183]: "'अबाधन्त,"
+
+ ऋचोऽयमर्थः–अश्विना हे अश्विनौ हिमेन हिमवच्छीतलेनोदकेन घ्रंसं दीप्यमानं अत्रेर्बन्धनार्थमसुरैः[^184] प्रक्षिप्तं तुषाग्निमवारयेथां युवां निवारितवन्तौ। शीतीकृतवन्तावित्यर्थः[^185]। अपिचास्मै \[असुरपीडाकार्श्यं प्राप्ताय\] अत्रये पितुमतीम्। पितुरित्यन्ननाम \[निघण्टु २।७\] अन्नयुक्ताम्[^186] ऊर्जं बलप्रदं रसात्मकं क्षीरादिकमधत्तं पुष्ट्यर्थं प्रायच्छतम्। ऋबीसे अपगतप्रकाशे पीडायन्त्रगृहे अवनीतं अवाङ्मुखतया असुरैः प्रापितम् अत्रं सर्वगणं (गणः समूहः सर्वेषां इन्द्रियाणां पुत्रादीनां वा गणेनोपेतं) पुत्रादिगणोपेतं स्वस्ति अविनाशो यथा भवति तथा उन्निन्यथुः तस्माद्गृहादुद्गमय्य युवां स्वगृहे प्रापितवन्तौ। :
+
+[^184]: " 'बाधनार्थम्'"
+
+[^185]: " शान्तं कृतवन्तावित्यर्थः। "
+
+[^186]: " 'अन्नयुताम्'।"
+
+ यद्वा हिमेन शीतेन वृष्ट्युदकेन अग्निम् अग्निवत्तीक्ष्णम्। घ्रंसं अहर्नामैतत् \[निघण्टु १।९\] सामर्थ्यान्निदाघकालीनमहः अवारयेथां तस्याह्नस्तैक्ष्ण्यं निवारितवन्तौ। अपि चास्मै अग्नये पितुमतींचरुपुरोडाशादिलक्षणान्नोपेतम् ऊर्जे बलकरं रसात्मकम् उपस्तरणाभिधारणात्मकं घृतमधत्तम्। वृष्ट्युत्पादनेनाग्ने र्यागार्थं हवींषि निष्पादितवन्तावित्यर्थः।ऋबीसे[^187]") अपगततेजस्के पृथिवीद्रव्ये अवनी-
+
+[^187]: " ऋऽवीसे–ऋबीसमपगतभासम्, अपचितभासम्, अपहृतमासम् अन्तर्हितभासम्, गतभासं वा इति यास्कः (नि० ६।३५
 
 
 
-[तम्](# " अवनतिम्- 'गतिरनन्तरः' (पा० ६।२।४९) इति गतेः प्रकृतिस्वरत्वम्।") ओषधीनामुत्पादनाय अवस्तान्नीतम्। पार्थिवाग्निना परिपक्वाउदकेन क्लिन्ना ह्योषधिवनस्पतयोविरोहन्ति।[अत्त्रिं](# "अत्त्रिम्–अद भक्षणे। अदेस्त्रिनिश्च (उ० सु० ५१७) इति चात्त्रिप्।")हविषामत्तारं ओषधिवनस्पत्यादीनां वा एवंविधम् अग्निं सर्वगणं व्रीह्यादिओषधिगणोपेतं हे अश्विनौ युवां [स्वस्ति](# "स्वस्ति-अस भुवि। भावे क्तिन्। 'छन्दस्युभयथा' (पा०६। ४।८६) इति सार्वधातुकत्वादस्तेर्भूभावाभावः।")अविनाशो यथा भवति तथा उन्निन्यथुः। व्रीह्यादिओषधिवनस्पतिरूपेण भूमेरुपरिष्टान्नीवन्तौ। कारणात्मना पार्थिवाग्नौवर्तमानं सर्वमोषधिवनस्पत्यादिकम् अश्विनौ प्रवर्षणेन व्यक्तीकृतवन्तावित्यर्थः।
+तम्[^188] इति गतेः प्रकृतिस्वरत्वम्।") ओषधीनामुत्पादनाय अवस्तान्नीतम्। पार्थिवाग्निना परिपक्वाउदकेन क्लिन्ना ह्योषधिवनस्पतयोविरोहन्ति।अत्त्रिं[^189] इति चात्त्रिप्।")हविषामत्तारं ओषधिवनस्पत्यादीनां वा एवंविधम् अग्निं सर्वगणं व्रीह्यादिओषधिगणोपेतं हे अश्विनौ युवां स्वस्ति[^190] इति सार्वधातुकत्वादस्तेर्भूभावाभावः।")अविनाशो यथा भवति तथा उन्निन्यथुः। व्रीह्यादिओषधिवनस्पतिरूपेण भूमेरुपरिष्टान्नीवन्तौ। कारणात्मना पार्थिवाग्नौवर्तमानं सर्वमोषधिवनस्पत्यादिकम् अश्विनौ प्रवर्षणेन व्यक्तीकृतवन्तावित्यर्थः।
 
- **अयं पक्षो यास्केन [हिमेनोदकेनेत्यादिनोक्तः](# "'हिमेनोदकेन ग्रीष्मान्तेऽग्नि घ्रंसमहरवारयेथाम् अन्नवतीं चास्मा ऊर्जमधत्तमग्नये योऽयमृबीसे पृथिव्यामग्निरन्तरौषधिवनस्पतिष्वप्सु तमुन्निन्यथुः सर्वगणं सर्वनामानम्। गणो गणनाद्गुणश्च। यद्दृष्ट ओषधय उद्यन्ति प्राणिनश्च पृथिव्यां तदश्विनो रूपं तेनैतौ स्तौति। स्तौति। इति यास्कः (नि० ६।३६)")(नि०६।३६)**
+[^188]: " अवनतिम्- 'गतिरनन्तरः' (पा० ६।२।४९
+
+[^189]: "अत्त्रिम्–अद भक्षणे। अदेस्त्रिनिश्च (उ० सु० ५१७
+
+[^190]: "स्वस्ति-अस भुवि। भावे क्तिन्। 'छन्दस्युभयथा' (पा०६। ४।८६
+
+ **अयं पक्षो यास्केन हिमेनोदकेनेत्यादिनोक्तः[^191]")(नि०६।३६)**
+
+[^191]: "'हिमेनोदकेन ग्रीष्मान्तेऽग्नि घ्रंसमहरवारयेथाम् अन्नवतीं चास्मा ऊर्जमधत्तमग्नये योऽयमृबीसे पृथिव्यामग्निरन्तरौषधिवनस्पतिष्वप्सु तमुन्निन्यथुः सर्वगणं सर्वनामानम्। गणो गणनाद्गुणश्च। यद्दृष्ट ओषधय उद्यन्ति प्राणिनश्च पृथिव्यां तदश्विनो रूपं तेनैतौ स्तौति। स्तौति। इति यास्कः (नि० ६।३६
 
 ** पितुमतीम्–हस्वनुड्द्भ्यां मतुबिति (घ० ६। १। १७६) मतुप उदात्तवम्।**
 
@@ -2407,13 +2787,29 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  इति गोतमस्योदकदानमश्विनोर्वदामः।
 
- कदा [चिन्मरुभूमौ](# "'अत्रेदमाख्यानम्' इति वेदभाष्ये।") वर्त्तमानस्य स्तोतुर्गोतमस्य ऋषेः समीपं देशान्तरे वर्त्तमानं कूपमुत्खाय अश्विनौ प्रापयेतां प्रापय्य च कूपं स्नानपानादिसौकर्य्याय उपरिमूलमधोबिलमवस्थापयताम्।
+ कदा चिन्मरुभूमौ[^192] वर्त्तमानस्य स्तोतुर्गोतमस्य ऋषेः समीपं देशान्तरे वर्त्तमानं कूपमुत्खाय अश्विनौ प्रापयेतां प्रापय्य च कूपं स्नानपानादिसौकर्य्याय उपरिमूलमधोबिलमवस्थापयताम्।
 
- ऋचोऽयमर्थः हे [नासत्यौ](# " 'हे नासत्या सत्यस्वभावौ वा एतत्संज्ञावश्विनौ' इति वे०भा०।")सत्यस्य नेतारौ अश्विनौ युवां [अवतं](# "'कूपनामैतत् (निघण्टु ३।२३) अवस्तात्ततम्' इति वे०भा०") कूपं गोतमस्य ऋषेः समीपं परानुदेथां प्रेरिषाथाम्। तदनन्तरं तं कूपम् उच्चाबुघ्नम् उच्चै रुपरिष्टात् बुध्नं मूलं यस्य तम्।
+[^192]: "'अत्रेदमाख्यानम्' इति वेदभाष्ये।"
+
+ ऋचोऽयमर्थः हे नासत्यौ[^193]सत्यस्य नेतारौ अश्विनौ युवां अवतं[^194] अवस्तात्ततम्' इति वे०भा०") कूपं गोतमस्य ऋषेः समीपं परानुदेथां प्रेरिषाथाम्। तदनन्तरं तं कूपम् उच्चाबुघ्नम् उच्चै रुपरिष्टात् बुध्नं मूलं यस्य तम्।
+
+[^193]: " 'हे नासत्या सत्यस्वभावौ वा एतत्संज्ञावश्विनौ' इति वे०भा०।"
+
+[^194]: "'कूपनामैतत् (निघण्टु ३।२३
 
 
 
-(तथा च) [जिह्मबारं](# " द्वारशब्दस्य पृषोदरादित्वाद् बारादेशः")जिह्ममधस्ताद्वर्तमानम् (तथा वक्रं) वारं द्वारं यस्य (तथोक्तः) तम्[एवंविधं](# " 'एवं गुणविशिष्टम्' इति वे० भा०। ")चक्रथुः युवामकृषाथाम्। तस्मात्कूपात् तृष्यते पिपासतो गोतमस्य [पायनाय](# "पायनाय-हेतुमति णिच् (पा० ३।१।२६) शाच्छासाह्वाव्यावे० (पा० ७।३।३७) इति युक्। भावे ल्युट् (पा० ३।३।१३५)")पानार्थम् आपो न [आपः](# "आपश्च। अयं 'न' शब्दश्चार्थे। इति वे० भा०।")सम्प्रति तदानीमेव [क्षरन](# " क्षरन-क्षर सञ्चलने। बहुलं छन्दस्यमाङ्योगेऽपि (पा० ६।४।७५) इत्यडभावः। शपः पित्वादनुदात्तत्वम् (पा० ३।१।४) तिङो लसार्वधातुकस्वरेण धातुस्वरः (पा० ६।१।१८८)")्(प्रवाहरूपेण निरगमन्)। अयं नकारः सम्प्रत्यर्थः अस्त्युपमानस्य सम्प्रत्यर्थे प्रयोग इति यास्कः। कीदृशस्य–राये षष्ठ्यर्थे चतुर्थी–हवींषि दत्तवतः। पुनः कीदृशस्य–सहस्राय सहनशीलाय। षह मर्षणे। रा दाने। ऊडिदमिति (पा० ६।१।१७१) विभक्तेरुदात्तत्वम्। यद्वा सहस्रसंख्याय राये धनाय एतत्संख्यधनलाभार्थं च क्षरन्।
+(तथा च) जिह्मबारं[^195]जिह्ममधस्ताद्वर्तमानम् (तथा वक्रं) वारं द्वारं यस्य (तथोक्तः) तम्एवंविधं[^196]चक्रथुः युवामकृषाथाम्। तस्मात्कूपात् तृष्यते पिपासतो गोतमस्य पायनाय[^197] शाच्छासाह्वाव्यावे० (पा० ७।३।३७) इति युक्। भावे ल्युट् (पा० ३।३।१३५)")पानार्थम् आपो न आपः[^198]सम्प्रति तदानीमेव क्षरन[^199] इत्यडभावः। शपः पित्वादनुदात्तत्वम् (पा० ३।१।४) तिङो लसार्वधातुकस्वरेण धातुस्वरः (पा० ६।१।१८८)")्(प्रवाहरूपेण निरगमन्)। अयं नकारः सम्प्रत्यर्थः अस्त्युपमानस्य सम्प्रत्यर्थे प्रयोग इति यास्कः। कीदृशस्य–राये षष्ठ्यर्थे चतुर्थी–हवींषि दत्तवतः। पुनः कीदृशस्य–सहस्राय सहनशीलाय। षह मर्षणे। रा दाने। ऊडिदमिति (पा० ६।१।१७१) विभक्तेरुदात्तत्वम्। यद्वा सहस्रसंख्याय राये धनाय एतत्संख्यधनलाभार्थं च क्षरन्।
+
+[^195]: " द्वारशब्दस्य पृषोदरादित्वाद् बारादेशः"
+
+[^196]: " 'एवं गुणविशिष्टम्' इति वे० भा०। "
+
+[^197]: "पायनाय-हेतुमति णिच् (पा० ३।१।२६
+
+[^198]: "आपश्च। अयं 'न' शब्दश्चार्थे। इति वे० भा०।"
+
+[^199]: " क्षरन-क्षर सञ्चलने। बहुलं छन्दस्यमाङ्योगेऽपि (पा० ६।४।७५
 
  एवं गोतमायाश्विभ्यां जलं दत्तमित्युक्तम्।
 
@@ -2434,15 +2830,25 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  अत्रेदमाख्यानम्-वलीपलितादिभिरुपेतो जीर्णाङ्गः पुत्रादिभिः परित्यक्तश्च्यवनाख्य ऋषिः अश्विनौ तुष्टाव (स्तु) तावश्विनौ तस्मै ऋषये जरामपगमय्य पुनर्यौवनमकुरुतामिति।
 
- तथा एतं [भवति](# "ताण्ड्यब्राह्मणे वचनमिदमेवं भवति (तां० ब्रा० १४।६।१०)  ")(तां० ब्रा० १४।६।११) —"च्यवनो ह वै दाधीचोऽश्विनोः प्रिय आसीत् सोऽजरत्तं पुनर्युवानमकुरुताम्"। इति
+ तथा एतं भवति[^200]  ")(तां० ब्रा० १४।६।११) —"च्यवनो ह वै दाधीचोऽश्विनोः प्रिय आसीत् सोऽजरत्तं पुनर्युवानमकुरुताम्"। इति
+
+[^200]: "ताण्ड्यब्राह्मणे वचनमिदमेवं भवति (तां० ब्रा० १४।६।१०
 
  ऋष्यादिपूर्ववत्। ऋचोऽयमर्थः।
 
-  नासत्यौ अश्विनौ [जुजुरुषः](# " जुजुरुषः–जॄष् वयोहानौ। लिटः क्वसुः (पा० ३।२।१०७)। बहुलं छन्दसीत्युत्वम्। द्विर्भावः (पा० ६।१।८)। पञ्चम्येकवचने वसोः सम्प्रसारणम् (पा० ८।४।१३१) इति सम्प्रसारणम्। शासिवसिघसीनाञ्च (पा० ८।३।६०) इति षत्वम्।")जीर्णात्–ज्या वयोहानौ च्यवानात् [च्यवनाख्यस्य](# " 'च्यवनाख्याद्रुषेः सकाशात्' इति वे० भा०।")ऋषेः सकाशाद् वव्रिं–वृञ्वरणे आदृगमहन० (पा० ३।२।१७१) इति किप्रत्ययः। वव्रिरिति रूपनाम वृणोतीति सतः इति यास्कः। (नि० २।९)–कृत्स्नं शरीर माश्रित्य (आवृत्य वा) स्थितां जरां प्रामुञ्चतम् प्रकर्षेण अमोचयतम्–तत्र दृष्टान्तः–द्रापिमिव। द्रापिरिति कवचस्याख्या यथा कश्चित् कवचं कृत्स्नशरीरव्यापकं धृत्वा पश्चात् शरीरात्पृथक्करोति तद्वत्। उत अपिच हे दस्रौ दर्शनीयौ। 'अन्नं दुहन्तौ मनुष्याय दर्श-
+  नासत्यौ अश्विनौ जुजुरुषः[^201]। बहुलं छन्दसीत्युत्वम्। द्विर्भावः (पा० ६।१।८)। पञ्चम्येकवचने वसोः सम्प्रसारणम् (पा० ८।४।१३१) इति सम्प्रसारणम्। शासिवसिघसीनाञ्च (पा० ८।३।६०) इति षत्वम्।")जीर्णात्–ज्या वयोहानौ च्यवानात् च्यवनाख्यस्य[^202]ऋषेः सकाशाद् वव्रिं–वृञ्वरणे आदृगमहन० (पा० ३।२।१७१) इति किप्रत्ययः। वव्रिरिति रूपनाम वृणोतीति सतः इति यास्कः। (नि० २।९)–कृत्स्नं शरीर माश्रित्य (आवृत्य वा) स्थितां जरां प्रामुञ्चतम् प्रकर्षेण अमोचयतम्–तत्र दृष्टान्तः–द्रापिमिव। द्रापिरिति कवचस्याख्या यथा कश्चित् कवचं कृत्स्नशरीरव्यापकं धृत्वा पश्चात् शरीरात्पृथक्करोति तद्वत्। उत अपिच हे दस्रौ दर्शनीयौ। 'अन्नं दुहन्तौ मनुष्याय दर्श-
+
+[^201]: " जुजुरुषः–जॄष् वयोहानौ। लिटः क्वसुः (पा० ३।२।१०७
+
+[^202]: " 'च्यवनाख्याद्रुषेः सकाशात्' इति वे० भा०।"
 
 
 
-नीया' विति यास्कः (नि० ६।२६)। [जहितस्य](# "जहतस्य–ओहाक् त्यागे। कर्मणि निष्ठा (पा० ३।४।७०) तस्य छन्दस्युभयथा (पा० ३।४।११७) इति सार्वधातुकत्वाद्यक्। तस्य बहुलं छन्दसि (पा० २।४।७६) इति श्लुः। जहातेश्च (पा० ४।६।११६) इतीत्वम्।")पुत्रादिभिः परित्यक्तस्य ऋषेः। ओहाक्त्यागे–आयुर्जीविनं प्रातिरतम् प्रावर्धयतम्। प्रपूर्वस्तिरति(२)र्वर्धनार्थः। प्रवर्धय च न आयुरिति (नि० १०।४०) यास्कदर्शनात्। आदिद् अनन्तरमेव युवानं सन्तं [कनीनां](# "कनीनाम्-रयेर्मतौ बहुलम् (पा० ६।१।३४) इति बहुलवचनात् कन्याशब्दस्यात्र सम्प्रसारणम्।")कन्यानां पतिं भर्त्तारम् अकृणुतम् अकुरुतम्। जारः कनीनां जारयिता कन्यानामिति यास्कदर्शनात (नि० १०।२१) कनीनशब्दः कन्यावाची \।
+नीया' विति यास्कः (नि० ६।२६)। जहितस्य[^203] तस्य छन्दस्युभयथा (पा० ३।४।११७) इति सार्वधातुकत्वाद्यक्। तस्य बहुलं छन्दसि (पा० २।४।७६) इति श्लुः। जहातेश्च (पा० ४।६।११६) इतीत्वम्।")पुत्रादिभिः परित्यक्तस्य ऋषेः। ओहाक्त्यागे–आयुर्जीविनं प्रातिरतम् प्रावर्धयतम्। प्रपूर्वस्तिरति(२)र्वर्धनार्थः। प्रवर्धय च न आयुरिति (नि० १०।४०) यास्कदर्शनात्। आदिद् अनन्तरमेव युवानं सन्तं कनीनां[^204] इति बहुलवचनात् कन्याशब्दस्यात्र सम्प्रसारणम्।")कन्यानां पतिं भर्त्तारम् अकृणुतम् अकुरुतम्। जारः कनीनां जारयिता कन्यानामिति यास्कदर्शनात (नि० १०।२१) कनीनशब्दः कन्यावाची \।
+
+[^203]: "जहतस्य–ओहाक् त्यागे। कर्मणि निष्ठा (पा० ३।४।७०
+
+[^204]: "कनीनाम्-रयेर्मतौ बहुलम् (पा० ६।१।३४
 
 तथा निगमाः—
 
@@ -2470,7 +2876,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  इत्येवमादयः।
 
- च्यवन ऋषिर्वेदे—"च्यवानमित्यप्यस्य निगमा भवन्ति” इति [यास्कः](# "'च्यवन ऋषिर्भवति च्यावयिता स्तोमानां च्यवानमित्यप्यस्य निगमा भवन्ति' (नि० ४।१९)")(नि० ४।१९)।
+ च्यवन ऋषिर्वेदे—"च्यवानमित्यप्यस्य निगमा भवन्ति” इति यास्कः[^205]")(नि० ४।१९)।
+
+[^205]: "'च्यवन ऋषिर्भवति च्यावयिता स्तोमानां च्यवानमित्यप्यस्य निगमा भवन्ति' (नि० ४।१९
 
  दोषयुक्तस्याश्रयो न कर्त्तव्य(२) इत्याह—
 
@@ -2501,11 +2909,25 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  ऋष्यादिकं पूर्ववत्–ऋचोऽयमर्थः।
 
- हे नरा–सुपां सुलुगित्यौकारस्यात्वम् (पा० ७।१।३९)–आरोग्यस्य नेतारौ हे नासत्या अश्विनौ वां युवयोः तत्कर्म [शंस्यमस्माभिः](# "शंस्यम्—शंसु स्तुतौ। अस्माण्ण्यन्ताद् 'अचो यत्' (पा० ३।१।९७) इति यत्। 'यतोऽनावः' (पा० ६।१।२१३) इत्याद्युदात्तत्वम्।")प्रशंसनीयम् राध्यम् आराधनीयं च [अभिष्टिमत्](# "अभिष्टिमत्—अभ्येषणयुक्तम्। 'अभि' पूर्वादिष गतावित्यस्माद्भावे क्तिन् (पा० ३।३।९४)। 'मन्त्रे वृषेषपचमन० (पा० ३।३।९६) इत्यादिना क्तिन उदात्तत्वम्। कृदुत्तरपदप्रकृतिस्वरत्वेन स एव शिष्यते। शकन्ध्वादित्वात् (पा० १।१।६४ वा०) पररूपम्। तादौ च निति० (पा० ६।२।५०) तु गतिस्वरस्य सर्वविधीनां छन्दसि विकल्पितत्वादप्रवृत्तिः। ततो मतुप् (पा० ५।२।९४) अन्तोदात्तादुत्तरस्य तस्य 'ह्रस्वनुड्भ्याम्' (पा० ६।१।१७६) इति मतुष उदात्तत्वम्।")आभिमुख्येन प्राप्तव्यम् [वरूथं](# "वरूथम्—जॄवृञ्भ्यामूथन् (उ० सू० १७१) 'ऊधन् ' इत्यपि पाठः।")वरणीयं कामयितव्यं [यत्कर्म](# "'किं पुनस्तत्कर्म ' इति वे० भा०")विद्वांसा जानन्तौ युवां निधिमिव [निक्षिप्तधनमिव](# " निक्षिप्तं धनमिव वे० भा०") [अपगूह्लम्](# "अपगूह्लम्-गुहू संवरणे। कर्मणि निष्ठा (पा० ३।४।७०) यस्य विभाषा (पा० ७।२।१५) इतीट् प्रतिषेधः। ढत्व (पा०८।२।३१) धत्व (पा० ८।२।४०) ष्टुत्व (पा० ८।४।४१) ढलोप (पा० ८।३।१३) ढ्रलोपदीर्घाः (पा० ६।३।१११)। गतिरनन्तरः (पा० ६।२।४९) इति गतेः प्रकृतिस्वरत्वम्।") अरण्ये निर्जनदेशे कूपस्य मध्ये अमुरैर्निगूढं वन्दनाय वन्दनमृषिम्
+ हे नरा–सुपां सुलुगित्यौकारस्यात्वम् (पा० ७।१।३९)–आरोग्यस्य नेतारौ हे नासत्या अश्विनौ वां युवयोः तत्कर्म शंस्यमस्माभिः[^206] इति यत्। 'यतोऽनावः' (पा० ६।१।२१३) इत्याद्युदात्तत्वम्।")प्रशंसनीयम् राध्यम् आराधनीयं च अभिष्टिमत्[^207]। 'मन्त्रे वृषेषपचमन० (पा० ३।३।९६) इत्यादिना क्तिन उदात्तत्वम्। कृदुत्तरपदप्रकृतिस्वरत्वेन स एव शिष्यते। शकन्ध्वादित्वात् (पा० १।१।६४ वा०) पररूपम्। तादौ च निति० (पा० ६।२।५०) तु गतिस्वरस्य सर्वविधीनां छन्दसि विकल्पितत्वादप्रवृत्तिः। ततो मतुप् (पा० ५।२।९४) अन्तोदात्तादुत्तरस्य तस्य 'ह्रस्वनुड्भ्याम्' (पा० ६।१।१७६) इति मतुष उदात्तत्वम्।")आभिमुख्येन प्राप्तव्यम् वरूथं[^208] 'ऊधन् ' इत्यपि पाठः।")वरणीयं कामयितव्यं यत्कर्म[^209]विद्वांसा जानन्तौ युवां निधिमिव निक्षिप्तधनमिव[^210] अपगूह्लम्[^211] यस्य विभाषा (पा० ७।२।१५) इतीट् प्रतिषेधः। ढत्व (पा०८।२।३१) धत्व (पा० ८।२।४०) ष्टुत्व (पा० ८।४।४१) ढलोप (पा० ८।३।१३) ढ्रलोपदीर्घाः (पा० ६।३।१११)। गतिरनन्तरः (पा० ६।२।४९) इति गतेः प्रकृतिस्वरत्वम्।") अरण्ये निर्जनदेशे कूपस्य मध्ये अमुरैर्निगूढं वन्दनाय वन्दनमृषिम्
+
+[^206]: "शंस्यम्—शंसु स्तुतौ। अस्माण्ण्यन्ताद् 'अचो यत्' (पा० ३।१।९७
+
+[^207]: "अभिष्टिमत्—अभ्येषणयुक्तम्। 'अभि' पूर्वादिष गतावित्यस्माद्भावे क्तिन् (पा० ३।३।९४
+
+[^208]: "वरूथम्—जॄवृञ्भ्यामूथन् (उ० सू० १७१
+
+[^209]: "'किं पुनस्तत्कर्म ' इति वे० भा०"
+
+[^210]: " निक्षिप्तं धनमिव वे० भा०"
+
+[^211]: "अपगूह्लम्-गुहू संवरणे। कर्मणि निष्ठा (पा० ३।४।७०
 
 
 
-कर्मणः सम्प्रदानत्वाच्चतुर्थी। [दर्शताद](# "दर्शतात् भृमृद्गशियजि० (उ० सू० ३९७) इत्यादिना अतच्।")्अध्वगैः पिपासुभिः द्रष्टव्यात्कूपात् उदूपथुः उदहार्ष्टम् (एवं यदेतत्कूपादुद्धरणं तदित्यर्थः)
+कर्मणः सम्प्रदानत्वाच्चतुर्थी। दर्शताद[^212] इत्यादिना अतच्।")्अध्वगैः पिपासुभिः द्रष्टव्यात्कूपात् उदूपथुः उदहार्ष्टम् (एवं यदेतत्कूपादुद्धरणं तदित्यर्थः)
+
+[^212]: "दर्शतात् भृमृद्गशियजि० (उ० सू० ३९७
 
 तथा निगमाः
 
@@ -2543,47 +2965,87 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 **मधु॑। आ॒थ॒र्व॒णः। वा॒म्। अश्व॑स्य। शी॒र्ष्णा। प्र। यत्। ई॒म्। उ॒वाच॑॥४३ ॥ **
 
- ऋष्यादि पूर्ववत् ([अत्राख्यानम्](# "'अत्रेयमाख्यायिका' इति वेदभाष्ये।"))—
+ ऋष्यादि पूर्ववत् (अत्राख्यानम्[^213])—
 
- "इन्द्रो दधीचे प्रवर्ग्यविद्यां मधुविद्यां चोपदिश्य यदीमामन्यस्मै वक्ष्यसि शिरस्ते छेत्स्यामीत्युवाच। ततोऽश्विनावश्वस्य शिरश्छित्त्वा दधीचः शिरः [प्रच्छिद्यान्यत्र](# "'प्राच्छिद्य' इति 'ग' पुस्तके।") निधाय तत्राख्यं शिरः प्रत्यधत्ताम्। तेन च दध्यङ् ऋचः सामानि यजूंषि च प्रवर्ग्यविषयाणि मधुविद्याप्रतिपादकं ब्राह्मणं चाश्विनावध्यापयामास। तदिन्द्रो ज्ञात्वा वज्रेण तच्छिरोऽच्छिनत्। अथाश्विनौ (तस्य) स्वकीयं मानुषं शिरः प्रत्यधत्ताम्[इति](# "'इति शाट्यायनवाजसनेययोः प्रपञ्चेनोक्तम्' इति वे० भा०।")।
+[^213]: "'अत्रेयमाख्यायिका' इति वेदभाष्ये।"
+
+ "इन्द्रो दधीचे प्रवर्ग्यविद्यां मधुविद्यां चोपदिश्य यदीमामन्यस्मै वक्ष्यसि शिरस्ते छेत्स्यामीत्युवाच। ततोऽश्विनावश्वस्य शिरश्छित्त्वा दधीचः शिरः प्रच्छिद्यान्यत्र[^214] निधाय तत्राख्यं शिरः प्रत्यधत्ताम्। तेन च दध्यङ् ऋचः सामानि यजूंषि च प्रवर्ग्यविषयाणि मधुविद्याप्रतिपादकं ब्राह्मणं चाश्विनावध्यापयामास। तदिन्द्रो ज्ञात्वा वज्रेण तच्छिरोऽच्छिनत्। अथाश्विनौ (तस्य) स्वकीयं मानुषं शिरः प्रत्यधत्ताम्इति[^215]।
+
+[^214]: "'प्राच्छिद्य' इति 'ग' पुस्तके।"
+
+[^215]: "'इति शाट्यायनवाजसनेययोः प्रपञ्चेनोक्तम्' इति वे० भा०।"
 
  तथा च बृहद्देवता (अ० ३–श्लो० १८-२४)
 
-**[प्रादादिन्द्रोऽपि](# "'ब्रह्मापि' इति मुग्धानल (Macdonell) सं० बृहदेवतायाम्।") सुप्रीतः सुताय [तदथर्वणः।](# "'सुधत्तायमथर्वणः' इत्यपि पाठः 'क' 'ख' पुस्तकयोः।")  
-\[सचाभवदृषिस्तेन ब्रह्मणा [दीप्तिमत्तर](# "इदं श्लोकार्धं नीतिमञ्जर्या हस्तलिखितपुस्तके नास्ति। अतोऽत्र बृहद्देवताया उद्घृतमस्ति।")ः\]॥१८॥  
-[तमृषिं](# "'सिषिधे चेन्द्रो' इति 'क' 'ख' पुस्तकयोः।")निषिषेधेन्द्रो [मेदं](# "'मैवम्' इति मु० बृ० पाठः।") वोचः क्वचिन्मधु \।  
+**प्रादादिन्द्रोऽपि[^216] सं० बृहदेवतायाम्।") सुप्रीतः सुताय तदथर्वणः।[^217]  
+\सचाभवदृषिस्तेन ब्रह्मणा [दीप्तिमत्तर[^218]ः\]॥१८॥  
+तमृषिं[^219]निषिषेधेन्द्रो मेदं[^220] वोचः क्वचिन्मधु \।  
 न हि प्रोक्ते मधुन्यस्मिञ् जीवन्तं त्वोत्सृजाम्यहम्॥१९॥  
-तमृषिं त्वश्विनौ देवौ [विविक्ते](# " 'भिषजौ' इत्यपि पाठः 'क' 'ख' पुस्तकयोः।")मध्वयाचताम्।  
-स च ताभ्यां [तन्नाचष्टे](# "'तदाचष्टे, इति मुग्धानलपाठस्तु न सम्यक्")यदुवाच शचीपतिः॥२०॥ **
+तमृषिं त्वश्विनौ देवौ विविक्ते[^221]मध्वयाचताम्।  
+स च ताभ्यां तन्नाचष्टे[^222]यदुवाच शचीपतिः॥२०॥ **
+
+[^216]: "'ब्रह्मापि' इति मुग्धानल (Macdonell
+
+[^217]: "'सुधत्तायमथर्वणः' इत्यपि पाठः 'क' 'ख' पुस्तकयोः।"
+
+[^218]: "इदं श्लोकार्धं नीतिमञ्जर्या हस्तलिखितपुस्तके नास्ति। अतोऽत्र बृहद्देवताया उद्घृतमस्ति।"
+
+[^219]: "'सिषिधे चेन्द्रो' इति 'क' 'ख' पुस्तकयोः।"
+
+[^220]: "'मैवम्' इति मु० बृ० पाठः।"
+
+[^221]: " 'भिषजौ' इत्यपि पाठः 'क' 'ख' पुस्तकयोः।"
+
+[^222]: "'तदाचष्टे, इति मुग्धानलपाठस्तु न सम्यक्"
 
 
 
 
 
 **तमब्रूतां तु नासत्यावाश्व्येन शिरसा भवान्॥  
-[मध्वाशु](# "'अस्मासु ग्राहय त्वञ्च दव्यङ् मध्वब्रवीत्ततः॥ इत्यपि पाठः 'क' पुस्तके।")
+मध्वाशु[^223]
 ग्राहयत्वावां मेन्द्रश्च त्वावधीत्ततः॥२१॥**
 
-**[आश्व्येन](# "'आश्वेन' इत्यपि पाठः 'क' पुस्तके।") शिरसा तौ तु दध्यङ्ङाह यदश्विनौ।  
-[तदस्येन्द्रो](# "अनेकेषु पाठेष्वयमेव मयागतः। तदस्येन्द्रोऽहरत्स्वन्तदधातामस्य यच्छिरः' इति हस्तलिखित 'क' 'ख' पुस्तकयोः।   'तदस्येन्द्रोऽहरत् स्वं तन् (?) न्यधत्तामस्य यच्छिरः' इति मुग्धानलविरचितबृहद्देवतायाम्।")हरद्धन्यन्न्यधत्तामस्य यच्छिरः॥२२॥**
+[^223]: "'अस्मासु ग्राहय त्वञ्च दव्यङ् मध्वब्रवीत्ततः॥ इत्यपि पाठः 'क' पुस्तके।"
 
-**[दधीचश्च](# " दधीचाऽश्वशिरश्चाश्वं छिन्नं वज्रेण वज्रिणा इति 'क' 'ख' पुस्तकयोः पाठः।")
+**आश्व्येन[^224] शिरसा तौ तु दध्यङ्ङाह यदश्विनौ।  
+तदस्येन्द्रो[^225] न्यधत्तामस्य यच्छिरः' इति मुग्धानलविरचितबृहद्देवतायाम्।")हरद्धन्यन्न्यधत्तामस्य यच्छिरः॥२२॥**
+
+[^224]: "'आश्वेन' इत्यपि पाठः 'क' पुस्तके।"
+
+[^225]: "अनेकेषु पाठेष्वयमेव मयागतः। तदस्येन्द्रोऽहरत्स्वन्तदधातामस्य यच्छिरः' इति हस्तलिखित 'क' 'ख' पुस्तकयोः।   'तदस्येन्द्रोऽहरत् स्वं तन् (?
+
+**दधीचश्च[^226]
 शिरश्वाश्व्यं कृत्तं वज्रेण वज्रिणा।  
 पपात सरसो मध्ये पर्वते शर्यणावति ॥२३॥**
 
-**([तदद्भस्तु](# " श्लोकश्चायं बृहद्देवताया अत्रोद्धृतोऽस्ति।")
+[^226]: " दधीचाऽश्वशिरश्चाश्वं छिन्नं वज्रेण वज्रिणा इति 'क' 'ख' पुस्तकयोः पाठः।"
+
+**(तदद्भस्तु[^227]
 समुत्थाय भूतेभ्यो विविधान्वरान्।  
 प्रादाय युगपर्यन्तं तास्वेवाप्सु निमज्जति)॥२४॥इति**
 
+[^227]: " श्लोकश्चायं बृहद्देवताया अत्रोद्धृतोऽस्ति।"
+
  तथा शतपथे (श० ब्रा० १४\।४\।५\।१३) “ इदं वै तन्मधु वै दध्यङ्ङ्काथर्वणोऽ श्विभ्यामुवाच। तदेतदृषिः पश्यन्नवोचत् "। इति।
 
- ऋचोऽयमर्थः। (नरा) हे नरौ अश्विनौ वां युवयोः सम्बन्धि—युष्मदस्मदोः षष्ठीचतुर्थी० (पा० ८\।१\।१\।२०) इति द्विवचनस्यानुदात्तो वामादेशः। उग्रम् उद्गूर्णं (अन्यैः दुःशकं) दंसः कर्म (कर्मनामैतत् निघण्टु २।१) युवाभ्यां पुरा कृतं (तत् कर्म) [सनये](# "सनये पणु दाने। खनिकष्यज्यसिवसिवनिसनिध्वनि० (उ० सू० ५८६) इत्यादिना इप्रत्ययः 'सनिर्भक्तिर्दानञ्च' इति सि० कौ०।")लाभाय (धनलाभार्थम्) आविष्कृणोमि प्रकटी-
+ ऋचोऽयमर्थः। (नरा) हे नरौ अश्विनौ वां युवयोः सम्बन्धि—युष्मदस्मदोः षष्ठीचतुर्थी० (पा० ८\।१\।१\।२०) इति द्विवचनस्यानुदात्तो वामादेशः। उग्रम् उद्गूर्णं (अन्यैः दुःशकं) दंसः कर्म (कर्मनामैतत् निघण्टु २।१) युवाभ्यां पुरा कृतं (तत् कर्म) सनये[^228] इत्यादिना इप्रत्ययः 'सनिर्भक्तिर्दानञ्च' इति सि० कौ०।")लाभाय (धनलाभार्थम्) आविष्कृणोमि प्रकटी-
+
+[^228]: "सनये पणु दाने। खनिकष्यज्यसिवसिवनिसनिध्वनि० (उ० सू० ५८६
 
 
 
-करोमि। तत्र दृष्टान्तः। [तन्यतु](# " तन्यतुः—तनु विस्तारे। ऋतन्यञ्जिवन्यज्यर्पि० (उ० सु० ४५०) इत्यादिना तनोते र्यतुच्। तन्यतुर्वायू रात्रिश्च। यद्वा स्तन शब्दे बाहुलकाद्यतुच्। छान्दसः सलोपः।")
-र्न यथा मेघस्थः शब्दो [वृष्टिं](# " वृष्टिम—वृप्यते सिच्यते ऽनेनेति वृष्टिः। 'मन्त्रे वृषेषपच (पा० ३ ३ ६) इत्यादिना तिन उदात्तत्वम्।") (मेघान्तर्वर्तमानमुदकं प्रवर्षणेन) सर्वत्र प्रकटयति तद्वत्। किं तत्कर्म [आथर्वणः](# "अथर्वणः—अपत्यार्थे अणि (पा० ४।१।२) 'अन्' (पा० ६।४। १६७) इति प्रकृतिभावात् टिलोपो न।")
-अथर्वणः पुत्रो दध्यङ्। एतत्संज्ञ ऋषिः। अश्वस्य [शीर्ष्णा](# "शीर्णा—'शीर्षश्छन्दसि (पा० ६।१।६०) इति शिरः शब्द पर्यायः शीर्षञ् शब्दोऽन्तोदात्तो निपात्यते। अल्लोपे सति (पा० ६।४।१३४) उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम्।")युष्पत्सामर्थ्येन प्रतिहितेन शिरसा वां युवाभ्यां ईं इमां मधुविद्यां यद्ध-यदा खलु प्रोवाच प्रोक्तवान् तदानीम् अश्वस्य शिरसः सन्धानलक्षणं पुनर्मानुषस्य शिरसः प्रतिसंघानलक्षणं च यद्भवदीयं कर्म तदाविष्कृणोमीत्यर्थः। एतेन दध्यङ् मधुविद्याप्रदानार्थं शिरसो द्वयं तत्याजेति सिद्धम्।
+करोमि। तत्र दृष्टान्तः। तन्यतु[^229] इत्यादिना तनोते र्यतुच्। तन्यतुर्वायू रात्रिश्च। यद्वा स्तन शब्दे बाहुलकाद्यतुच्। छान्दसः सलोपः।")
+र्न यथा मेघस्थः शब्दो वृष्टिं[^230] इत्यादिना तिन उदात्तत्वम्।") (मेघान्तर्वर्तमानमुदकं प्रवर्षणेन) सर्वत्र प्रकटयति तद्वत्। किं तत्कर्म आथर्वणः[^231] 'अन्' (पा० ६।४। १६७) इति प्रकृतिभावात् टिलोपो न।")
+अथर्वणः पुत्रो दध्यङ्। एतत्संज्ञ ऋषिः। अश्वस्य शीर्ष्णा[^232] इति शिरः शब्द पर्यायः शीर्षञ् शब्दोऽन्तोदात्तो निपात्यते। अल्लोपे सति (पा० ६।४।१३४) उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम्।")युष्पत्सामर्थ्येन प्रतिहितेन शिरसा वां युवाभ्यां ईं इमां मधुविद्यां यद्ध-यदा खलु प्रोवाच प्रोक्तवान् तदानीम् अश्वस्य शिरसः सन्धानलक्षणं पुनर्मानुषस्य शिरसः प्रतिसंघानलक्षणं च यद्भवदीयं कर्म तदाविष्कृणोमीत्यर्थः। एतेन दध्यङ् मधुविद्याप्रदानार्थं शिरसो द्वयं तत्याजेति सिद्धम्।
+
+[^229]: " तन्यतुः—तनु विस्तारे। ऋतन्यञ्जिवन्यज्यर्पि० (उ० सु० ४५०
+
+[^230]: " वृष्टिम—वृप्यते सिच्यते ऽनेनेति वृष्टिः। 'मन्त्रे वृषेषपच (पा० ३ ३ ६
+
+[^231]: "अथर्वणः—अपत्यार्थे अणि (पा० ४।१।२
+
+[^232]: "शीर्णा—'शीर्षश्छन्दसि (पा० ६।१।६०
 
  आविष्कृणोमि—आविर्हविर्ज्योतिरिति (ऋ० प्रा० ४।४३) षत्वम्।
 
@@ -2619,16 +3081,26 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 
 
-अभिमतकर्तारौ करोतेः पचाद्यच् (पा० ३।१। १३४) पुरुभुजा[बहुभुजौ](# " 'बहूनां पालको प्रभूतहस्तौ वा' इति वे० भा०।") महे महनीये पूजनीये यामन यामनि-याति गच्छतीति याम स्तोत्रं तस्मिन्सति। आतो मनिन्० (पा० ३।२।७४) इति मनिन्। सुपां सुलुगिति (पा० ७\।१\।३९) सप्तम्या लुक्। वां युवां पुरन्धिर्वहुधीः वध्रिमती (वध्रिः पुत्रोत्पादनाशक्तः पण्डकः तद्वती) एतत्संज्ञा राजपुत्री [अजो](# " अजोहवीत्—व्हयतेर्यङ्लुगन्ताल्लङ्। यङो वा (पा० ७३।६४) इति तिप ईडागमः।")हवीत् पुनः पुनः स्तुत्या पुत्रलाभार्थम् आहूतवती। युवां वध्रिमत्यास्तदाव्हानं [श्रुतम्](http://॑ "श्रुतम्— बहुलं छन्दसीति (पा० २।४।३६)विकरणस्य लुक्। बहुलं छन्दस्यमाङ्योगेऽपि(पा० ६।४।७५) इत्यडभावः।")आशृणुतम्। तत्र दृष्टान्तः [शासुरिव](# " शासुः—शास्तुः। शासु अनुशिष्टौ। शंसिशसिशासि० इत्यादिना संज्ञायां वुन्। इडभावश्छान्दसस्तलोपश्च।")यथा शासुराचार्यस्य वचनं शिष्योऽवहितः सन् ऐकाग्र्येण (एकाग्रमनाः)। शृणोति तद्वत् श्रुत्वा च हे अश्विनौ तस्यै हिरण्यहस्तं [सुवर्णमयपाणिं](http://॑ " 'हितरमणीयं पाणिं वा, एतत्संज्ञम्' इति वेदभाष्ये।")पुत्रम् अदत्तम् प्रायच्छतम्।
+अभिमतकर्तारौ करोतेः पचाद्यच् (पा० ३।१। १३४) पुरुभुजाबहुभुजौ[^233] महे महनीये पूजनीये यामन यामनि-याति गच्छतीति याम स्तोत्रं तस्मिन्सति। आतो मनिन्० (पा० ३।२।७४) इति मनिन्। सुपां सुलुगिति (पा० ७\।१\।३९) सप्तम्या लुक्। वां युवां पुरन्धिर्वहुधीः वध्रिमती (वध्रिः पुत्रोत्पादनाशक्तः पण्डकः तद्वती) एतत्संज्ञा राजपुत्री अजो[^234] इति तिप ईडागमः।")हवीत् पुनः पुनः स्तुत्या पुत्रलाभार्थम् आहूतवती। युवां वध्रिमत्यास्तदाव्हानं [श्रुतम्](http://॑ "श्रुतम्— बहुलं छन्दसीति (पा० २।४।३६)विकरणस्य लुक्। बहुलं छन्दस्यमाङ्योगेऽपि(पा० ६।४।७५) इत्यडभावः।")आशृणुतम्। तत्र दृष्टान्तः शासुरिव[^235]यथा शासुराचार्यस्य वचनं शिष्योऽवहितः सन् ऐकाग्र्येण (एकाग्रमनाः)। शृणोति तद्वत् श्रुत्वा च हे अश्विनौ तस्यै हिरण्यहस्तं [सुवर्णमयपाणिं](http://॑ " 'हितरमणीयं पाणिं वा, एतत्संज्ञम्' इति वेदभाष्ये।")पुत्रम् अदत्तम् प्रायच्छतम्।
+
+[^233]: " 'बहूनां पालको प्रभूतहस्तौ वा' इति वे० भा०।"
+
+[^234]: " अजोहवीत्—व्हयतेर्यङ्लुगन्ताल्लङ्। यङो वा (पा० ७३।६४
+
+[^235]: " शासुः—शास्तुः। शासु अनुशिष्टौ। शंसिशसिशासि० इत्यादिना संज्ञायां वुन्। इडभावश्छान्दसस्तलोपश्च।"
 
 **हिर॑ण्यहस्तमश्विना॒ ररा॑णा० (ऋ० १।११७।२४)।इति निगमान्तरम्। **
 
-**एवं वध्रिमत्यै पुत्रं दत्त्वाऽश्विभ्यां रूपादि [सार्थं](# " 'सार्थकम्' इति 'ग' पुस्तके।")कृतमित्यर्थः।**
+**एवं वध्रिमत्यै पुत्रं दत्त्वाऽश्विभ्यां रूपादि सार्थं[^236]कृतमित्यर्थः।**
+
+[^236]: " 'सार्थकम्' इति 'ग' पुस्तके।"
 
  साधवो निर्गुणेष्वपि दयां कुर्वन्तीत्याह—
 
 **निर्गुणेष्वपि सत्त्वेषु दयां कुर्वन्ति साधवः।  
-[अश्विभ्यां](# "'अश्विभ्यां मोचिता ग्रस्ता पक्षिस्त्री घर्तिका शुना' इति 'ग' पुस्तके ।")मोचिता ग्रस्ता पक्षिणी वर्त्तिका शुभा ॥४२॥**
+अश्विभ्यां[^237]मोचिता ग्रस्ता पक्षिणी वर्त्तिका शुभा ॥४२॥**
+
+[^237]: "'अश्विभ्यां मोचिता ग्रस्ता पक्षिस्त्री घर्तिका शुना' इति 'ग' पुस्तके ।"
 
 
 
@@ -2641,17 +3113,31 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  **आ॒स्नः। वृक॑स्य। वर्त्ति॑काम्। अ॒भीके॑। यु॒वम्। न॒रा॒। ना॒स॒त्या॒। अ॒मु॒मु॒क्त॒म्। उ॒तो इति॑। क॒विम्। पु॒रु॒ऽ भु॒जा॒। यु॒वम्। ह॒। कृ॒प॑माणम्। अ॒कृ॒णु॒त॒म्। वि॒ऽचक्षे ॥४५॥**
 
- तत्राख्यानम्—वर्त्तिका चटकसदृशस्य पक्षिणः स्त्री ताम अरण्ये वर्त्तमानेन शुना [ग्रस्ताम्](# "'ग्रस्तां पुरा किल अश्विनौ' इति वे० भा०।") अश्विनाव् अमोचयतम्। इति ॥
+ तत्राख्यानम्—वर्त्तिका चटकसदृशस्य पक्षिणः स्त्री ताम अरण्ये वर्त्तमानेन शुना ग्रस्ताम्[^238] अश्विनाव् अमोचयतम्। इति ॥
 
- ऋचोऽयमर्थः। हे नरा [नरौ](# "'नेतारौ' इति वे० भा०।") नासत्या अश्विनौ टकस्य विकर्त्तकस्य शुनः [आस्नः](# "आनः—पद्दन्नो० (पा० ६।१।६३) इत्यादिना आस्यस्यासन्नादेशः। अल्लोपोऽनः (पा० ६।४।१३४) इत्यकारलोपे उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम्।")
-आस्यात् युवं युवां अभीके अभिगते वृकवर्त्तिकयोः सङ्ग्रामे वर्त्तिकां चटकसदृशीं [अमुमुक्तम्](# "अमुमुक्तम्—मुचेरन्तर्भावितण्यर्थात् लङि बहुलं छन्दसि (पा० २२४७६) इति विकरणस्य श्लुः।")
-अमोचयतम् । [उतो](# "अतोऽनन्तरं वेदभाष्ये व्याख्यातम्—'यास्कस्त्वाह—(नि० ५।२१) पुनः पुनर्वर्तते प्रतिदिवसमावर्तते इति वर्तिका उषाः। तां वृकेणावरकेण सर्वजगत्प्रकाशेनाच्छादयित्रा सूर्येण प्रस्ताम्' इति। वस्तुतस्तु भावार्थ एवायं निरुक्तस्थवचनस्य। अक्षरशस्तु 'आदि-") अपि च कविमृषिं हे पुरुभुजा बहुपालकौ
+[^238]: "'ग्रस्तां पुरा किल अश्विनौ' इति वे० भा०।"
+
+ ऋचोऽयमर्थः। हे नरा नरौ[^239] नासत्या अश्विनौ टकस्य विकर्त्तकस्य शुनः आस्नः[^240] इत्यादिना आस्यस्यासन्नादेशः। अल्लोपोऽनः (पा० ६।४।१३४) इत्यकारलोपे उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम्।")
+आस्यात् युवं युवां अभीके अभिगते वृकवर्त्तिकयोः सङ्ग्रामे वर्त्तिकां चटकसदृशीं अमुमुक्तम्[^241] इति विकरणस्य श्लुः।")
+अमोचयतम् । उतो[^242] पुनः पुनर्वर्तते प्रतिदिवसमावर्तते इति वर्तिका उषाः। तां वृकेणावरकेण सर्वजगत्प्रकाशेनाच्छादयित्रा सूर्येण प्रस्ताम्' इति। वस्तुतस्तु भावार्थ एवायं निरुक्तस्थवचनस्य। अक्षरशस्तु 'आदि-") अपि च कविमृषिं हे पुरुभुजा बहुपालकौ
+
+[^239]: "'नेतारौ' इति वे० भा०।"
+
+[^240]: "आनः—पद्दन्नो० (पा० ६।१।६३
+
+[^241]: "अमुमुक्तम्—मुचेरन्तर्भावितण्यर्थात् लङि बहुलं छन्दसि (पा० २२४७६
+
+[^242]: "अतोऽनन्तरं वेदभाष्ये व्याख्यातम्—'यास्कस्त्वाह—(नि० ५।२१
 
 
 
-(युवं ह युवामेव) युवं युवां [कृपमाणं](# "कृपमाणम्—कृपिः स्तुतिकर्मा। तुदादिषु द्रष्टव्यः। विकरणस्वरे प्राप्ते 'वृषादीनाञ्च' (पा० ६।१।२०३) इत्याद्युदात्तत्वम्।")
-स्तुत्यं (कृपमाणं सन्तं) [विचक्षे](# "विचक्षे—तुमर्थे सेसेनसेऽसे० (पा० ३ । ४६) इति सेन्प्र-त्ययः। स्कोः संयोगाद्योरन्ते च (पा० मा २२) इति सलोपः।")
+(युवं ह युवामेव) युवं युवां कृपमाणं[^243] इत्याद्युदात्तत्वम्।")
+स्तुत्यं (कृपमाणं सन्तं) विचक्षे[^244] इति सेन्प्र-त्ययः। स्कोः संयोगाद्योरन्ते च (पा० मा २२) इति सलोपः।")
 विविधं द्रष्टुं अकृणुतम् अकुरुतम्। तुमर्थे० (पा०३।४।९) इति सेन।
+
+[^243]: "कृपमाणम्—कृपिः स्तुतिकर्मा। तुदादिषु द्रष्टव्यः। विकरणस्वरे प्राप्ते 'वृषादीनाञ्च' (पा० ६।१।२०३
+
+[^244]: "विचक्षे—तुमर्थे सेसेनसेऽसे० (पा० ३ । ४६
 
  (कृपपाणम्-कृपिः स्तुतिकर्मा तुदादिषु द्रष्टव्यः। कृपायति कृपण्यति अर्चतिकर्माणौ—निघण्टु ३।१४)।
 
@@ -2685,7 +3171,13 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  (अत्राख्यानम्) अगत्स्यपुरोहितः खेलो नाम राजा तस्य सम्बन्धिनी विश्पला नाम स्त्री सङ्ग्रामे शत्रुभिश्छिन्नपादाऽऽसीत्। पुरोहितेनागस्त्येन स्तुतावाश्विनौ रात्रावागत्य तस्या अयोमयं पादं समधत्ताम्। इति
 
- ऋष्यादि पूर्ववत् ऋचोऽयमर्थः। [आजा](# "आजा-सुपां सुलुगिति (पा० ७ ११३६) विभक्तेर्डादेशः।") आजौ सङ्ग्रामे [परितक्म्यायां](# "परितक्म्यायाम् परितक्म्या रात्रिः। परित एनां तकतीति यास्कः (नि० ११।२५)। एतामुभयतः सूर्योों गच्छतीति तस्यार्थः इति वेदभाष्ये।")रात्रौ अगस्त्य पुरोहितस्य खेलस्य राज्ञः सम्बन्धिन्याः विश्पलायाः चरित्रं चरणम्—अर्त्तिलूधूखनसहचर इत्रः (पा० ३।२।१८४) इति करणे इत्रः। वेः पक्षिणः पर्णंप (त) त्रमिव अच्छेदि हि पुरा छिन्नमभूत् (खलु)। हे अश्विनौ युवां (अगस्त्येन स्तुतौ सन्तौ) सद्यस्तदानीमेव हिते शत्रुषु निहिते धने जेतव्ये विषयभूते सति सर्तवे सर्त्तुं गन्तुं विश्पलायै [आयसीं](# "आयसीम्—अयः शब्दाद्विकारार्थे प्राणिरजतादिभ्योऽञ् (पा० ४३ १५४) टिड्ढाणञ् (पा० ४।१।१५) इति ङीप्।")अयोमयीं जङ्घां जङ्कोपलक्षितं पादं प्रत्यधत्तम् सन्धानमेकीकरणं कृतवन्तावित्यर्थः।
+ ऋष्यादि पूर्ववत् ऋचोऽयमर्थः। आजा[^245] विभक्तेर्डादेशः।") आजौ सङ्ग्रामे परितक्म्यायां[^246]। एतामुभयतः सूर्योों गच्छतीति तस्यार्थः इति वेदभाष्ये।")रात्रौ अगस्त्य पुरोहितस्य खेलस्य राज्ञः सम्बन्धिन्याः विश्पलायाः चरित्रं चरणम्—अर्त्तिलूधूखनसहचर इत्रः (पा० ३।२।१८४) इति करणे इत्रः। वेः पक्षिणः पर्णंप (त) त्रमिव अच्छेदि हि पुरा छिन्नमभूत् (खलु)। हे अश्विनौ युवां (अगस्त्येन स्तुतौ सन्तौ) सद्यस्तदानीमेव हिते शत्रुषु निहिते धने जेतव्ये विषयभूते सति सर्तवे सर्त्तुं गन्तुं विश्पलायै आयसीं[^247] टिड्ढाणञ् (पा० ४।१।१५) इति ङीप्।")अयोमयीं जङ्घां जङ्कोपलक्षितं पादं प्रत्यधत्तम् सन्धानमेकीकरणं कृतवन्तावित्यर्थः।
+
+[^245]: "आजा-सुपां सुलुगिति (पा० ७ ११३६
+
+[^246]: "परितक्म्यायाम् परितक्म्या रात्रिः। परित एनां तकतीति यास्कः (नि० ११।२५
+
+[^247]: "आयसीम्—अयः शब्दाद्विकारार्थे प्राणिरजतादिभ्योऽञ् (पा० ४३ १५४
 
  तथा निगमाः—
 
@@ -2717,15 +3209,29 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 **  श॒तम्। मे॒षान्। वृ॒क्ये॑। च॒क्ष॒दा॒नम्। ऋ॒ज्रऽअ॑श्वम्। तम्। पि॒ता। अ॒न्धम्। च॒का॒र॒। तस्मै॑। अ॒क्षी इति॑। ना॒स॒त्या॒। वि॒ऽ चक्षै। आ। अ॒ध॒त्त॒म्। दु॒स्रा॒। भि॒ष॒जौ॒। अ॒न॒र्वन् ॥४७॥**
 
- तत्राख्यानम्—वृषागिरः पुत्रो ऋज्राश्वो (नाम) राजर्षिः। तस्य समीपे अश्विनोर्वाहनभूतो रासभो वृकी भूत्वाऽवतस्थे। स च तस्या आहारार्थम् [एकोत्तरशतसंख्याकान्](# "'पौरजनानां स्वभूतान्मेषान्' इति वेदभाष्ये।")मेषान् शकलीकृत्य स्वभूतजनानां पौरजनानां प्रददौ।
+ तत्राख्यानम्—वृषागिरः पुत्रो ऋज्राश्वो (नाम) राजर्षिः। तस्य समीपे अश्विनोर्वाहनभूतो रासभो वृकी भूत्वाऽवतस्थे। स च तस्या आहारार्थम् एकोत्तरशतसंख्याकान्[^248]मेषान् शकलीकृत्य स्वभूतजनानां पौरजनानां प्रददौ।
+
+[^248]: "'पौरजनानां स्वभूतान्मेषान्' इति वेदभाष्ये।"
 
 
 
 **(ऋ॒ज्राश्वः॑ श॒तमेकं॑ च मे॒षान् (ऋ० १।११७।१८)। **
 
- इति मन्त्रान्तरे दर्शनात्) एवं [पौराहिते](# " 'पौरोहिते प्रवृत्तम्' इति 'क' 'ख' पुस्तकयोः पाठः।")(पौराणामहिते) प्रवृत्तं पिता शापेन नेत्रहीनमकरोत्। तेन स्तूयमानावश्विनौ अस्मद्वाइननिमित्तमस्यान्धता जातेति जानन्तौ तस्मै अक्षिणी प्रायच्छतामिति।
+ इति मन्त्रान्तरे दर्शनात्) एवं पौराहिते[^249](पौराणामहिते) प्रवृत्तं पिता शापेन नेत्रहीनमकरोत्। तेन स्तूयमानावश्विनौ अस्मद्वाइननिमित्तमस्यान्धता जातेति जानन्तौ तस्मै अक्षिणी प्रायच्छतामिति।
 
- ऋचोऽयमर्थः। यः ऋज्राश्वः [वृक्ये](# "वृक्ये—वृकोऽरण्यश्वा तस्य स्त्री वृकी—'जातेरस्त्रीविषयादयो०' (पा० ४।१।६३) इति ङीष्। 'जसादिषु छन्दसि वा वचनम्' (पा० ७३७ वा०) इति चतुर्थ्येकवचनस्याडभावे यणादेशे (पा० ६।१।७७) 'उदात्तस्वरितयोर्यणः ०१ (पा० ८ २४) इति परस्यानुदात्तस्य स्वरितत्वम्।")आत्मना पोषितायै वृकस्त्रियै शतं शतसंख्याकान् मेषान् शकलीकृत्य प्रादात् तं [चक्षदानं](http://॑ " चक्षदानम्—क्षदेर्लिट्। कानच् वित्स्वरः। (अन्तोदात्तः)")क्षदति (रत्तिकर्मा) रत्र शकलीकरणार्थः। शकलीकृत्य दत्तवन्तम् ऋज्राश्वंपिता शापेनान्धं दृष्टिहीनं चकार कृतवान्। हे [नासत्या](# "'सत्यस्वभावौ, सत्यस्य नेतारौ वा' इति वेदभाष्ये।")नासत्यौ दस्रौ भिषजौ [देववैद्यौ](# "'अश्विनौ देवानां भिषजाविति श्रुतेः। (तै० सं० २२३।१।१)")सुपां सुत्नुगिति (पा० ७।१।३९) सर्वत्राकारः आमन्त्रितत्वात्सर्वानुदात्तत्वम् (पा० ८।१।१९)। तस्मै ऋज्राश्वाय [अक्षी](# "आक्षी—'ई च द्विवचने (पा० ७ १।७७) इति परत्वादक्ष- शब्दस्य ईकारान्तादेशः। स चोदात्तः। तस्मिन्कृते 'सकृद्गतौ विप्रतिषेधः' इति परिभाषया पुनर्नुम् न भवति।")चक्षुषी [विचक्षे](# "विचक्षे—वेदभाष्ये विशेषणमिदमक्षीशब्दस्य। ततस्त- स्यार्थः 'विविधं द्रष्टुं समर्थे' इति कृतः। शब्दसाधुत्वश्च–चक्षेः सम्पदादिलक्षणो भावे किप्। वस्तुतस्तु चक्षेः 'तुमर्थे सेसेनसे० (पा० ३ । ४।६) इत्यादिना। सेन् प्रत्ययो विधातव्यः। तस्यार्थः यथाऽत्र 'विविधं द्रष्टु' मित्येव। नित्वादाद्युदात्तत्वञ्च॥")
+[^249]: " 'पौरोहिते प्रवृत्तम्' इति 'क' 'ख' पुस्तकयोः पाठः।"
+
+ ऋचोऽयमर्थः। यः ऋज्राश्वः वृक्ये[^250] इति ङीष्। 'जसादिषु छन्दसि वा वचनम्' (पा० ७३७ वा०) इति चतुर्थ्येकवचनस्याडभावे यणादेशे (पा० ६।१।७७) 'उदात्तस्वरितयोर्यणः ०१ (पा० ८ २४) इति परस्यानुदात्तस्य स्वरितत्वम्।")आत्मना पोषितायै वृकस्त्रियै शतं शतसंख्याकान् मेषान् शकलीकृत्य प्रादात् तं [चक्षदानं](http://॑ " चक्षदानम्—क्षदेर्लिट्। कानच् वित्स्वरः। (अन्तोदात्तः)")क्षदति (रत्तिकर्मा) रत्र शकलीकरणार्थः। शकलीकृत्य दत्तवन्तम् ऋज्राश्वंपिता शापेनान्धं दृष्टिहीनं चकार कृतवान्। हे नासत्या[^251]नासत्यौ दस्रौ भिषजौ देववैद्यौ[^252]")सुपां सुत्नुगिति (पा० ७।१।३९) सर्वत्राकारः आमन्त्रितत्वात्सर्वानुदात्तत्वम् (पा० ८।१।१९)। तस्मै ऋज्राश्वाय अक्षी[^253] इति परत्वादक्ष- शब्दस्य ईकारान्तादेशः। स चोदात्तः। तस्मिन्कृते 'सकृद्गतौ विप्रतिषेधः' इति परिभाषया पुनर्नुम् न भवति।")चक्षुषी विचक्षे[^254] इत्यादिना। सेन् प्रत्ययो विधातव्यः। तस्यार्थः यथाऽत्र 'विविधं द्रष्टु' मित्येव। नित्वादाद्युदात्तत्वञ्च॥")
+
+[^250]: "वृक्ये—वृकोऽरण्यश्वा तस्य स्त्री वृकी—'जातेरस्त्रीविषयादयो०' (पा० ४।१।६३
+
+[^251]: "'सत्यस्वभावौ, सत्यस्य नेतारौ वा' इति वेदभाष्ये।"
+
+[^252]: "'अश्विनौ देवानां भिषजाविति श्रुतेः। (तै० सं० २२३।१।१
+
+[^253]: "आक्षी—'ई च द्विवचने (पा० ७ १।७७
+
+[^254]: "विचक्षे—वेदभाष्ये विशेषणमिदमक्षीशब्दस्य। ततस्त- स्यार्थः 'विविधं द्रष्टुं समर्थे' इति कृतः। शब्दसाधुत्वश्च–चक्षेः सम्पदादिलक्षणो भावे किप्। वस्तुतस्तु चक्षेः 'तुमर्थे सेसेनसे० (पा० ३ । ४।६
 
 
 
@@ -2737,8 +3243,10 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  सत्येन जयतीत्याह—
 
-**प्राप्नुयाद्विजयं सत्यात्तस्मात्सत्यं [समाचरेत्](# "'समाश्रयेत्' इति 'ग' पुस्तके।")।  
+**प्राप्नुयाद्विजयं सत्यात्तस्मात्सत्यं समाचरेत्[^255]।  
 नासत्यावश्विनौ सूर्या देवेभ्यो जिग्यतुः पुरा॥४५॥**
+
+[^255]: "'समाश्रयेत्' इति 'ग' पुस्तके।"
 
  पुमान् सत्यादेव विजयं प्राप्नुयात्। तस्मात्सत्यं समाचरेत्। नासत्यवत्। यदि अश्विनौ देवौ नासत्यौ सत्यरूपौ असत्यमनृतभाषणं तद्रहितौ नासत्यौ। सत्यावेव नासत्यावित्यौर्णवाभः। सत्यस्य प्रणेतारावित्याग्रायणः (नि० ६।१३) तर्हि पुरा देवेभ्यः सर्वेभ्यः पुरा अग्रे सूर्यां सूर्यपुत्रींजिग्यतुः तस्मात्सत्यं समाचरेदित्युक्तम्।
 
@@ -2753,10 +3261,16 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 **अ॒म॒न्य॒न्त॒। हृ॒त् ऽभिः। सम्। ऊ॒म् इति॑। श्रि॒या। ना॒स॒त्या॒। स॒चे॒थे॒ इर्ति॑ ॥ ४८॥**
 
- सविता स्वदुहितरं सूर्याख्यां सोमाय राज्ञे प्रदातुमैच्छत्। तां सूर्यां सर्वे देवा वरयामासुः। तेऽन्योन्यमूचुः। आदित्यमवधिं कृत्वाऽऽजिं धावाम योऽस्माकं मध्ये उज्जेष्यति तस्येयं भविष्यतीति। तत्राश्विनावुदजयताम्। सा च सूर्या जितवतोस्तयो रथमारुरोह। “अथ यत्र ह तत्सविता सूर्या प्रायच्छत्सोमाय राज्ञे" इत्यादि [ब्राह्मणम](# "अथ प्रजापतिर्वै सोमाय राजे दुहितरं प्रायच्छदित्यादिकं ब्राह्मणमनुसन्धेयम् (पे० ब्रा० ४-७)। इहें चाख्यानं सूर्याविवाहस्य स्तावकेन सत्येनोत्तभिता भूमि (ऋ० १०-८५) रिति सूक्तेन स्पष्टयिप्यते इति वे० भा०।")
+ सविता स्वदुहितरं सूर्याख्यां सोमाय राज्ञे प्रदातुमैच्छत्। तां सूर्यां सर्वे देवा वरयामासुः। तेऽन्योन्यमूचुः। आदित्यमवधिं कृत्वाऽऽजिं धावाम योऽस्माकं मध्ये उज्जेष्यति तस्येयं भविष्यतीति। तत्राश्विनावुदजयताम्। सा च सूर्या जितवतोस्तयो रथमारुरोह। “अथ यत्र ह तत्सविता सूर्या प्रायच्छत्सोमाय राज्ञे" इत्यादि ब्राह्मणम[^256]। इहें चाख्यानं सूर्याविवाहस्य स्तावकेन सत्येनोत्तभिता भूमि (ऋ० १०-८५) रिति सूक्तेन स्पष्टयिप्यते इति वे० भा०।")
 (कौ० ब्रा० १८।१)
 
- ऋचोऽयमर्थः। हे अश्विनौ वां युवयोः रथं [अर्वता](# "शीघ्रमवधिं प्राप्नुवता। इति वे० भा०।")[युष्पदीयेनाश्वेन](http://॑ "करणभूतेन युवाभ्यां। इति वे० भा०।")जयन्ती जीयमाना सूर्यस्य सवितुः दुहिता अतिष्ठत् आरूढवती। तत्र दृष्टान्तः। कार्ष्मेव-कार्ष्म शब्दः काष्ठवाची यथा काष्ठपाजिवावनस्यावधितया निर्दिष्टं लक्ष्यं आशुगामी कश्चित् सर्वेभ्यो धावद्भयः पूर्व [तिष्ठति](# "प्राप्नोति एवमेव सर्वेभ्यो देवेभ्यः पूर्वम् इति वे० भा०।")पश्चाद्विश्वेदेवाः एतदारोहणस्थानं हृद्भिः हृदयैः। पद्दन्निति (पा० ६।१।६३) हृदयस्य हृद्भावः। अन्वमन्यन्त अन्वजानन्। तदानीं हे नासत्यावश्विनौ श्रिया ऋक्सहस्रलाभरूपया (सम्पदा) कान्त्या वा युवां संसचेथे सङ्गच्छेये। पच समवाये स्वरितेत्वादात्मनेपदम् (पा० १।३।७२) जयन्ती–व्यत्ययेन कर्मणि शतृप्रत्ययः।
+[^256]: "अथ प्रजापतिर्वै सोमाय राजे दुहितरं प्रायच्छदित्यादिकं ब्राह्मणमनुसन्धेयम् (पे० ब्रा० ४-७
+
+ ऋचोऽयमर्थः। हे अश्विनौ वां युवयोः रथं अर्वता[^257][युष्पदीयेनाश्वेन](http://॑ "करणभूतेन युवाभ्यां। इति वे० भा०।")जयन्ती जीयमाना सूर्यस्य सवितुः दुहिता अतिष्ठत् आरूढवती। तत्र दृष्टान्तः। कार्ष्मेव-कार्ष्म शब्दः काष्ठवाची यथा काष्ठपाजिवावनस्यावधितया निर्दिष्टं लक्ष्यं आशुगामी कश्चित् सर्वेभ्यो धावद्भयः पूर्व तिष्ठति[^258]पश्चाद्विश्वेदेवाः एतदारोहणस्थानं हृद्भिः हृदयैः। पद्दन्निति (पा० ६।१।६३) हृदयस्य हृद्भावः। अन्वमन्यन्त अन्वजानन्। तदानीं हे नासत्यावश्विनौ श्रिया ऋक्सहस्रलाभरूपया (सम्पदा) कान्त्या वा युवां संसचेथे सङ्गच्छेये। पच समवाये स्वरितेत्वादात्मनेपदम् (पा० १।३।७२) जयन्ती–व्यत्ययेन कर्मणि शतृप्रत्ययः।
+
+[^257]: "शीघ्रमवधिं प्राप्नुवता। इति वे० भा०।"
+
+[^258]: "प्राप्नोति एवमेव सर्वेभ्यो देवेभ्यः पूर्वम् इति वे० भा०।"
 
 **यु॒वो रथं॑ दुहिता॒ सूर्य॑स्य (ऋ० १।११७।१३)**
 
@@ -2764,7 +3278,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 
 
- पूर्वं(पृ० ६८) वैमद्याज्जाहुषादश्विनो रथः सार्थको जात इत्युक्तम् तत्परिविष्टमि यनया [जाहुषदृष्टान्तेनाह](# " (पूर्व वैमद्या रथदानेन सार्थत्वमुक्तम्। अधुना जाहुषस्य रथदानेन सार्थत्वमुच्यते) इति 'ग' पुस्तके ।") —
+ पूर्वं(पृ० ६८) वैमद्याज्जाहुषादश्विनो रथः सार्थको जात इत्युक्तम् तत्परिविष्टमि यनया जाहुषदृष्टान्तेनाह[^259] इति 'ग' पुस्तके ।") —
+
+[^259]: " (पूर्व वैमद्या रथदानेन सार्थत्वमुक्तम्। अधुना जाहुषस्य रथदानेन सार्थत्वमुच्यते
 
   तत्र ऋक् (ऋ० १. ११६.२०)
 
@@ -2773,9 +3289,17 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 ** परि॑ऽविष्टम्। जा॒हु॒षम्। वि॒श्वतः॑। सी॒म्। सु॒ ऽगेभिः॑। नक्त॑म्। ऊ॒ह॒थुः॒। रजः॑ ऽभिः। वि॒ ऽभि॒न्दुना॑। ना॒स॒त्या॒। रथे॑न। वि। पर्व॑तान्। अ॒ज॒र॒यू इति॑। अ॒या॒त॒म्॥४९॥**
 
- ऋचोऽयमर्थः। हे नामत्यावश्विनौ जाहुषो नाम कश्चिद (राजा) तं विश्वतः सर्वतः [परिविष्टं](# "परिविष्टम्—विश प्रवेशने। कर्मणि निष्ठा (पा० ३।४।७१) 'गतिरनन्तरः' (पा० ६।२।४६) इति गतेः प्रकृतिस्वरत्वम्।")शत्रुभिः परिवृतं राजानं नक्तं रात्रौ  
-[सुगेभिः](# "सुगेभिः–सुदुरोरधिकरणे (पा० ३।२।४८ वा०) इति गमेर्डः।")सुष्ठु गन्तुं शक्यैः रजोभिः रञ्जकै मार्गौः[विभिन्दुना](# " विभिन्दुना—भिदिर् विदारणे। औणादिक उप्रत्ययो नुमागमश्च।") विशेषेण सर्वस्य भेदकेन आत्मीयेन रथेन ऊहथुः। तस्माच्छत्रु समूहान्निरगमयतम्। सीमिति परिग्रहार्थीयो वा पदपूरणो वा (नि० १।७) इति पादपूरणाय। हे अजरयू— न जरा अजरा तां आत्मनः इच्छतः। सुप आत्मनः [क्यच्](# "न छन्दस्य पुत्रस्य (पा० ७।४।३५) इतीत्व दीर्घयोनिषेधः इति वे० भा०")
+ ऋचोऽयमर्थः। हे नामत्यावश्विनौ जाहुषो नाम कश्चिद (राजा) तं विश्वतः सर्वतः परिविष्टं[^260] 'गतिरनन्तरः' (पा० ६।२।४६) इति गतेः प्रकृतिस्वरत्वम्।")शत्रुभिः परिवृतं राजानं नक्तं रात्रौ  
+सुगेभिः[^261] इति गमेर्डः।")सुष्ठु गन्तुं शक्यैः रजोभिः रञ्जकै मार्गौःविभिन्दुना[^262] विशेषेण सर्वस्य भेदकेन आत्मीयेन रथेन ऊहथुः। तस्माच्छत्रु समूहान्निरगमयतम्। सीमिति परिग्रहार्थीयो वा पदपूरणो वा (नि० १।७) इति पादपूरणाय। हे अजरयू— न जरा अजरा तां आत्मनः इच्छतः। सुप आत्मनः क्यच्[^263] इतीत्व दीर्घयोनिषेधः इति वे० भा०")
 (पा०
+
+[^260]: "परिविष्टम्—विश प्रवेशने। कर्मणि निष्ठा (पा० ३।४।७१
+
+[^261]: "सुगेभिः–सुदुरोरधिकरणे (पा० ३।२।४८ वा०
+
+[^262]: " विभिन्दुना—भिदिर् विदारणे। औणादिक उप्रत्ययो नुमागमश्च।"
+
+[^263]: "न छन्दस्य पुत्रस्य (पा० ७।४।३५
 
 
 
@@ -2809,7 +3333,13 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 
 
- ऋचोऽयमर्थः। हे नासत्या नासत्यौ सत्यरूपौ नासिकाप्रभवौ। वां युवां आर्चत्कस्य ऋचत्कपुत्रस्य शरस्य चिद् एतव संज्ञस्यापि (स्तोतुः) पिपासितस्य पातवेपानाय—पा पाने—तुमर्थे० (पा० ३।४।९) इति तवेन। नीचाद् नीचीनाद् अवतात् कूपाद् उच्चा उच्चैः उपरिष्टाद् वाः उदकम् आचक्रथुः (आभिमुख्येन) कृतवन्तौ। तथा शचीभिः युष्पदीयैः कर्मभिः परिचरणैः जमुरये श्रान्ताय जसु [हिंसायां।](# "जसुसहोरुरिन् (उ० सू० २४०) इति वे० भा०।")शयवे चित् शयनाम्ने ऋषये। स्तर्यं निवृत्तप्रसवाम्स्तीर्यते आच्छाद्यते प्रसवसामर्थ्याभावेनेति [स्तरी](# "अवितृस्तृस्तृतन्त्रिभ्य ईः (उ० सू० ४४६) इतीकारप्रत्ययः। वा छन्दसि (पा० ३/४/८८) इत्यमिपूर्वस्य विकल्पितत्वादभावे यणादेशः। उदात्तस्वरितयोर्यणः० (पा० ८।२४) इति परस्यानुदात्तस्य स्वरितत्वम्।"): ताम् गां पिप्यथुः अग्निहोत्रार्थं पयसो दोग्ध्रीं पयसाऽऽपूरितवन्तौ। ओप्यायी वृद्धौ। [लिड्यङोश्च](# "लिटि व्यत्ययेन परस्मैपदम् इति वे० भा०।") (पा० ६।१।२९) इति पी भावः वाः—वारपुनर् (ऋ० प्रा० १।१०३) इति रेफः।
+ ऋचोऽयमर्थः। हे नासत्या नासत्यौ सत्यरूपौ नासिकाप्रभवौ। वां युवां आर्चत्कस्य ऋचत्कपुत्रस्य शरस्य चिद् एतव संज्ञस्यापि (स्तोतुः) पिपासितस्य पातवेपानाय—पा पाने—तुमर्थे० (पा० ३।४।९) इति तवेन। नीचाद् नीचीनाद् अवतात् कूपाद् उच्चा उच्चैः उपरिष्टाद् वाः उदकम् आचक्रथुः (आभिमुख्येन) कृतवन्तौ। तथा शचीभिः युष्पदीयैः कर्मभिः परिचरणैः जमुरये श्रान्ताय जसु हिंसायां।[^264] इति वे० भा०।")शयवे चित् शयनाम्ने ऋषये। स्तर्यं निवृत्तप्रसवाम्स्तीर्यते आच्छाद्यते प्रसवसामर्थ्याभावेनेति स्तरी[^265] इतीकारप्रत्ययः। वा छन्दसि (पा० ३/४/८८) इत्यमिपूर्वस्य विकल्पितत्वादभावे यणादेशः। उदात्तस्वरितयोर्यणः० (पा० ८।२४) इति परस्यानुदात्तस्य स्वरितत्वम्।"): ताम् गां पिप्यथुः अग्निहोत्रार्थं पयसो दोग्ध्रीं पयसाऽऽपूरितवन्तौ। ओप्यायी वृद्धौ। लिड्यङोश्च[^266] (पा० ६।१।२९) इति पी भावः वाः—वारपुनर् (ऋ० प्रा० १।१०३) इति रेफः।
+
+[^264]: "जसुसहोरुरिन् (उ० सू० २४०
+
+[^265]: "अवितृस्तृस्तृतन्त्रिभ्य ईः (उ० सू० ४४६
+
+[^266]: "लिटि व्यत्ययेन परस्मैपदम् इति वे० भा०।"
 
 **अधे॑नुं दस्रा स्त॒र्यं१॒॑विष॑क्ता॒म० (ऋ० १।११७।२०) **
 
@@ -2831,13 +3361,21 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 **  त्या॒। शची॑भिः। प॒शुम्। न। न॒ष्टम्ऽइ॑व। दर्श॑नाय। वि॒ष्णा॒प्व॑म्। ददथुः। विश्व॑काय॥५१॥ **
 
 
-[अवस्पते](# " अवसूशब्दात्सुप आत्मनः क्यच् (पा० ३।१८); शत्रुर. नुमो० (पा० ६।१।१७३) इति विभक्तेरुदात्तत्वम्।")अवनं रक्षणमात्मन इच्छते—सुप आत्मनः ० (पा० ३।१।८) इति क्यच्। स्तुवते स्तुतिं कुर्वते कृष्णियाय कृष्णपुत्राय छान्दसोऽपत्यार्थे घः। ऋजूयते आर्जवमिच्छते विश्वकाय एतत्संज्ञकाय ऋषये हे नामत्यौ युवां शचीभिः आत्मीयैः कर्मभिः विष्णाप्वं विष्णावनामानं [पुत्रं](# "विष्णाप्वं नाम विनष्टं पुत्रम् इति वे० भा०।") दर्शनाय दर्शनार्थं ददथुः दत्तवन्तौ। तत्र दृष्टान्तः—पशुं न [नष्टमिव](# "एक उपमार्थीयः अपरः पूरकः इति वे० भा०।") यथा कश्चिद्विनष्टं पशुं स्वामिनो दृष्टिपथं प्रापयति तद्वत्। ऋजूयते—पृशनाजिरर्ज्विति (ऋ० प्रा० ९।१६) दीर्घः।
+अवस्पते[^267]; शत्रुर. नुमो० (पा० ६।१।१७३) इति विभक्तेरुदात्तत्वम्।")अवनं रक्षणमात्मन इच्छते—सुप आत्मनः ० (पा० ३।१।८) इति क्यच्। स्तुवते स्तुतिं कुर्वते कृष्णियाय कृष्णपुत्राय छान्दसोऽपत्यार्थे घः। ऋजूयते आर्जवमिच्छते विश्वकाय एतत्संज्ञकाय ऋषये हे नामत्यौ युवां शचीभिः आत्मीयैः कर्मभिः विष्णाप्वं विष्णावनामानं पुत्रं[^268] दर्शनाय दर्शनार्थं ददथुः दत्तवन्तौ। तत्र दृष्टान्तः—पशुं न नष्टमिव[^269] यथा कश्चिद्विनष्टं पशुं स्वामिनो दृष्टिपथं प्रापयति तद्वत्। ऋजूयते—पृशनाजिरर्ज्विति (ऋ० प्रा० ९।१६) दीर्घः।
+
+[^267]: " अवसूशब्दात्सुप आत्मनः क्यच् (पा० ३।१८
+
+[^268]: "विष्णाप्वं नाम विनष्टं पुत्रम् इति वे० भा०।"
+
+[^269]: "एक उपमार्थीयः अपरः पूरकः इति वे० भा०।"
 
 **यु॒व॑न॑रा स्तुव॒ते कृ॑ष्णि॒याय॑विष्ण्वा॒प्वं॑ ददथु॒र्विश्व॑काय (ऋ० १।११७।७)**
 
  इति निगमः।
 
- रेभ [कूपोद्धरणमश्विनो](# "अश्विनोरुच्यते इति 'ग' पुस्तके")र्वदामः—
+ रेभ कूपोद्धरणमश्विनो[^270]र्वदामः—
+
+[^270]: "अश्विनोरुच्यते इति 'ग' पुस्तके"
 
  तत्रर्चमाह—(ऋ० १.११६.२४)
 
@@ -2850,7 +3388,13 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
   पुरा खलु रेभमृषिं पाशैर्वद्ध्वा असुराः कूपे कस्यचिद्दिवसस्य सायंकाले प्रचिक्षिपुः। स चाश्विनौ स्तुवन् दशरात्रीर्नवाहानि च कूपमध्ये तथैवावतस्थे। दशमेऽहनि प्रातरश्विनौ तं कूपादुदतारयताम्।
 
- ऋचोऽयमर्थः। दशरात्रीः दशसंख्याका निशाः। नव द्यून् नवसंख्याकान्यहानि अत्यन्तसंयोगे द्वितीया (पा० २।३।५)। एतावन्तं कालम् अशिवेन दुःखहेतुना दाम्ना अवनद्धं बद्धं–णह [बन्धने](# "कर्मणि निष्ठा (पा० ३।४।७१) नहो धः (पा० ८२/३४) पस्तथोर्धोऽधः (पा० ८ । २।४०) इति निष्ठा तकारस्य धत्वम्। गतिरनन्तरः (पा० ६।२।४६) इति गतेः प्रकृतिस्वरत्वम्।")श्नथितं [शत्रुभिस्ताडितम्](http://॑ "हिंसितम् इति वे० भा०।")श्नथ[](#)ताडने[श्नथतिर्वधकर्मा](# " श्रथ हिंसार्थः। निष्ठा (पा० २/२/३६)") (निघण्टु २।१९)। अप्सु (कूपान्तर्वर्तमानासु) अन्तर्मध्ये असुरैः पातितं अत एव उदनि उदके–पद्दन्नोमा० (पा० ६।१।६३) इत्युदकस्योदादेशः। विभुतं[विप्लुतं](# "प्रुङ गतौ। अवनद्धवत् प्रत्ययस्वरौ। कपिलकादित्वा-ल्लत्वविकल्पः।") व्याक्षिप्तसर्वाङ्गम प्रवृक्तं लुप्तोपमानमेतत्–वृञ्जनेन सन्तप्तं घर्ममित्र व्यथया सन्तप्यमानम् एवंभूतं रेमं हे अश्विनौ युवां उन्निन्यथुः। तस्मात्कूपाद उत्तीर्ण (उन्नीतं) कृतवन्तौ। तत्र दृष्टान्तः– यथा सोममिव यथा अग्निहोत्रहोमार्थम् अभिषुतं सोमरसं कूपसदृशे अग्निहोत्रस्थालीमध्ये वर्तमानं स्रुवेणाध्वर्युरुन्नयति तद्वत्। अशिवेनेति एकादशिद्वाद शिनोर्लघावष्टममक्षरमिति (ऋ० प्रा० ८.३६) दीर्घः।
+ ऋचोऽयमर्थः। दशरात्रीः दशसंख्याका निशाः। नव द्यून् नवसंख्याकान्यहानि अत्यन्तसंयोगे द्वितीया (पा० २।३।५)। एतावन्तं कालम् अशिवेन दुःखहेतुना दाम्ना अवनद्धं बद्धं–णह बन्धने[^271] नहो धः (पा० ८२/३४) पस्तथोर्धोऽधः (पा० ८ । २।४०) इति निष्ठा तकारस्य धत्वम्। गतिरनन्तरः (पा० ६।२।४६) इति गतेः प्रकृतिस्वरत्वम्।")श्नथितं [शत्रुभिस्ताडितम्](http://॑ "हिंसितम् इति वे० भा०।")श्नथ[](#)ताडनेश्नथतिर्वधकर्मा[^272]") (निघण्टु २।१९)। अप्सु (कूपान्तर्वर्तमानासु) अन्तर्मध्ये असुरैः पातितं अत एव उदनि उदके–पद्दन्नोमा० (पा० ६।१।६३) इत्युदकस्योदादेशः। विभुतंविप्लुतं[^273] व्याक्षिप्तसर्वाङ्गम प्रवृक्तं लुप्तोपमानमेतत्–वृञ्जनेन सन्तप्तं घर्ममित्र व्यथया सन्तप्यमानम् एवंभूतं रेमं हे अश्विनौ युवां उन्निन्यथुः। तस्मात्कूपाद उत्तीर्ण (उन्नीतं) कृतवन्तौ। तत्र दृष्टान्तः– यथा सोममिव यथा अग्निहोत्रहोमार्थम् अभिषुतं सोमरसं कूपसदृशे अग्निहोत्रस्थालीमध्ये वर्तमानं स्रुवेणाध्वर्युरुन्नयति तद्वत्। अशिवेनेति एकादशिद्वाद शिनोर्लघावष्टममक्षरमिति (ऋ० प्रा० ८.३६) दीर्घः।
+
+[^271]: "कर्मणि निष्ठा (पा० ३।४।७१
+
+[^272]: " श्रथ हिंसार्थः। निष्ठा (पा० २/२/३६
+
+[^273]: "प्रुङ गतौ। अवनद्धवत् प्रत्ययस्वरौ। कपिलकादित्वा-ल्लत्वविकल्पः।"
 
 **यु॒वं रे॒भं परिषू॑ते रुरुष्यथो० (ऋ१।११९**।**६)।**
 
@@ -2883,24 +3427,36 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 
 **आसीत्काक्षीवती घोषा पापरोगेण दुर्भगा।  
-उवांस [षष्टिवर्षाणि](# "षष्टिं वर्षाणि इति 'ग' मुग्धानलपुस्तकयोः।")पितुरेव गृहे पुरा ॥४२॥**
+उवांस षष्टिवर्षाणि[^274]पितुरेव गृहे पुरा ॥४२॥**
+
+[^274]: "षष्टिं वर्षाणि इति 'ग' मुग्धानलपुस्तकयोः।"
 
 **आतस्थे महतीं चिन्तां न पुत्रो न पतिर्मम।  
 जरां प्राप्ता मुधा तस्मात् प्रपद्येहं शुभस्पती॥४३॥**
 
 **यथैतौ मामकस्तात आराध्यावाप यौवनम्।  
-(आयुरारोग्यमैश्वर्यं सर्वभूतहने [विषम्](# " इयं पङ्क्तिर्हस्तलिखितपुस्तकेषु न दृश्यते।")॥४४॥**
+(आयुरारोग्यमैश्वर्यं सर्वभूतहने विषम्[^275]॥४४॥**
+
+[^275]: " इयं पङ्क्तिर्हस्तलिखितपुस्तकेषु न दृश्यते।"
 
 **रूपवत्तां च सौभाग्यमहं तस्य सुता यदि।  
-ममापि मन्त्राः [सिद्धाः](# "'प्रादुः' इति मुग्धानलपुस्तके।")स्युर्यैस्तोष्येते मयाश्विनौ ॥४५ ॥**
+ममापि मन्त्राः सिद्धाः[^276]स्युर्यैस्तोष्येते मयाश्विनौ ॥४५ ॥**
+
+[^276]: "'प्रादुः' इति मुग्धानलपुस्तके।"
 
 **चिन्तयन्तीति सूक्ते द्वे यो वां परि (ऋ० १०।३९-४०) ददर्श सा।  
 स्तुतौ तावश्विनौ देवौ प्रीतौ तस्या भगान्तरम्॥४६॥**
 
 **प्रविश्य विजरारोगां सुभगां चक्रतुश्च तौ।  
-भर्त्तारं ददतुस्तस्यै सुहस्त्यं च सुतं [मुनेः](# "'मनोः' इति 'ग' पुस्तके । 'मुनिम्' इति मुग्धानलपुस्तके ।")॥४७॥**
+भर्त्तारं ददतुस्तस्यै सुहस्त्यं च सुतं मुनेः[^277]॥४७॥**
 
- ऋचोऽयमर्थः। हे नरा नेतारावश्विनौ युवं युवां स्तुवते स्तोत्रं कुर्वते कृष्णियाय कृष्णाख्यस्य पुत्राय विश्वकाय विष्णाप्वं ददथुः। विष्णाप्वनामानं विनष्टं पुत्रं दत्तवन्तौ। हे अश्विनौ [पितृषदे](# "पितृपदे–पल विशरणगत्यवसादनेषु। क्विप् च (पा०३।२७६) इति क्विप्।")पित्रा सम्बद्धे दुरोणे स्वकीये जनकगृहे कुष्ठरोगेण भर्त्तारमप्राप्य पितृषदे पितृसमीपे निषण्णायै। [जूर्यन्त्यै](# "जूर्यन्त्यै–जृृष वयोहानौ। लटः शतृ० (पा० ३।२।१२४) दिवादित्वात् श्यन् (पा० ३।११६६) बहुलं छन्दसि (पा० ३।२८८) इत्युत्वम्। हलि च (पा० ८ २७७) इति दीर्घः। अदुपदेशाल्लसार्व—धातुकानुदात्तत्वे श्यनो नित्वाद् आद्युदात्तत्वम् (पा० ६।१।१६७)।")जरां
+[^277]: "'मनोः' इति 'ग' पुस्तके । 'मुनिम्' इति मुग्धानलपुस्तके ।"
+
+ ऋचोऽयमर्थः। हे नरा नेतारावश्विनौ युवं युवां स्तुवते स्तोत्रं कुर्वते कृष्णियाय कृष्णाख्यस्य पुत्राय विश्वकाय विष्णाप्वं ददथुः। विष्णाप्वनामानं विनष्टं पुत्रं दत्तवन्तौ। हे अश्विनौ पितृषदे[^278] इति क्विप्।")पित्रा सम्बद्धे दुरोणे स्वकीये जनकगृहे कुष्ठरोगेण भर्त्तारमप्राप्य पितृषदे पितृसमीपे निषण्णायै। जूर्यन्त्यै[^279] दिवादित्वात् श्यन् (पा० ३।११६६) बहुलं छन्दसि (पा० ३।२८८) इत्युत्वम्। हलि च (पा० ८ २७७) इति दीर्घः। अदुपदेशाल्लसार्व—धातुकानुदात्तत्वे श्यनो नित्वाद् आद्युदात्तत्वम् (पा० ६।१।१६७)।")जरां
+
+[^278]: "पितृपदे–पल विशरणगत्यवसादनेषु। क्विप् च (पा०३।२७६
+
+[^279]: "जूर्यन्त्यै–जृृष वयोहानौ। लटः शतृ० (पा० ३।२।१२४
 
 
 
@@ -2908,8 +3464,12 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  कुलधर्मो न त्याज्य इत्याह—
 
-**[कुलक्रमागतो](# "'कुलक्रमगतो०' इति 'क' 'ख' पुस्तकयोः।") धर्मो न त्याज्यः प्रभुभिः [सदा](# "'सह' इति च 'क' 'ख' पुस्तकयोः।")।  
+**कुलक्रमागतो[^280] धर्मो न त्याज्यः प्रभुभिः सदा[^281]।  
 कण्वोऽश्विभ्यां भिषग्भ्यां हि सुत्वक् सुश्रुत् कृतः सुदृक्॥४८॥**
+
+[^280]: "'कुलक्रमगतो०' इति 'क' 'ख' पुस्तकयोः।"
+
+[^281]: "'सह' इति च 'क' 'ख' पुस्तकयोः।"
 
  कुलक्रमेण आगतो यो धर्मः स विगुणो गुणी वा प्रभुभिर्महद्भिः अश्वित्रन्न त्याज्यः कदापि। श्रेयान्स्वधर्मो विगुणः परधर्मात् स्वनुष्ठितात्'। इति भगवतोक्तत्वात् (गी० ३।३५)। यथाश्विभ्यां भिषग्भ्यां भिषविद्या देवत्वेपि न त्यक्ता। कथम्। हि यस्मात् कण्व ऋषिः कुष्ठरोगात् सुत्वक् कृतः स बधिरः सुश्रुत कृतः। तस्माद्वैषज्यं न व्यक्तम्।
 
@@ -2920,18 +3480,26 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 ** यु॒वम्। श्यावा॑य। रुश॑तीम्। अ॒द॒त्त॒म्। म॒हः। क्षो॒णस्य॑। अ॒श्वि॒ना॒। कण्वा॑य। प्र॒ ऽ वाच्य॑म्। तत्। वृ॒ष॒णा॒। कृ॒तम्। वा॒म्। यत्। ना॒र्स॒दाय॑। श्रवः॑। अ॒धि॒ऽअध॑त्त॒म्॥५४॥**
 
- हे अश्विनौयुवं युवां कण्वाय श्यावाय कुष्ठरोगेण श्यामवर्णाय ऋषये रुशतीं दीप्तित्वम् \[ [दीप्तत्वचम्](# "'दीप्तत्वचं स्त्रियम्' इति वेदभाष्ये।")\] अदत्तं प्राय-
+ हे अश्विनौयुवं युवां कण्वाय श्यावाय कुष्ठरोगेण श्यामवर्णाय ऋषये रुशतीं दीप्तित्वम् \ [दीप्तत्वचम्[^282]\] अदत्तं प्राय-
+
+[^282]: "'दीप्तत्वचं स्त्रियम्' इति वेदभाष्ये।"
 
 
 
-च्छनम्। अपि च तस्मै कण्वाय [क्षोणस्य](# " क्षोणस्य—क्षि निवासगत्योः। कृत्यल्युटो बहुलम् (पा०.३।३।११३) इति कर्तरि ल्युट्। पृषोदरादित्वात् (पा० ६।३।१०६) क्षोणभावः। तदुक्तं यास्केन—'क्षोणस्य क्षयणस्य' (नि० ६।६) इति। पक्षान्तरे तु (टुक्षु) शब्दे इत्यस्मादौणादिको नप्रत्ययः।")क्षोणाय—चतुर्थ्यर्थे षष्ठी। क्षि निवासे। पृषोदरादित्वात्क्षोणभावः। दृष्टिराहित्येन गन्तुमशक्तस्सन् एकस्मिन्नेव स्थाने निवसते निवासकाय इत्यर्थः। \[ऋषये\] [महः](# "महः—मह पूजायाम्। अस्मादौणादिकोऽसिप्रत्ययः। पक्षान्तरे तु महच्छब्दात् षष्ठय कवचने छान्दसो अल्लोपः। बृहन्महतोरुपसंख्यानम् इति विभक्तेरुदात्तत्वम्। यद्वा क्विवन्तात्षष्ट्य कवचनम्।")तेजः तैजसं चक्षुरिन्द्रियम् अदत्तमिति शेषः। \[तथा\] हे वृषणा कामानां वर्षितारौ वां युवयोः तत्कृतं कर्म अस्माभिः प्रवाच्यं \[प्रकर्षेण\] वाचनीयं शंसनीयम्। नार्षदाय नृपदपुत्राय कण्वाय ऋषये \[वधिराय\] ऋष्यन्धक० \[पा० ४।१।११४) इत्यण्—
+च्छनम्। अपि च तस्मै कण्वाय क्षोणस्य[^283] इति कर्तरि ल्युट्। पृषोदरादित्वात् (पा० ६।३।१०६) क्षोणभावः। तदुक्तं यास्केन—'क्षोणस्य क्षयणस्य' (नि० ६।६) इति। पक्षान्तरे तु (टुक्षु) शब्दे इत्यस्मादौणादिको नप्रत्ययः।")क्षोणाय—चतुर्थ्यर्थे षष्ठी। क्षि निवासे। पृषोदरादित्वात्क्षोणभावः। दृष्टिराहित्येन गन्तुमशक्तस्सन् एकस्मिन्नेव स्थाने निवसते निवासकाय इत्यर्थः। \[ऋषये\] महः[^284]तेजः तैजसं चक्षुरिन्द्रियम् अदत्तमिति शेषः। \[तथा\] हे वृषणा कामानां वर्षितारौ वां युवयोः तत्कृतं कर्म अस्माभिः प्रवाच्यं \[प्रकर्षेण\] वाचनीयं शंसनीयम्। नार्षदाय नृपदपुत्राय कण्वाय ऋषये \[वधिराय\] ऋष्यन्धक० \[पा० ४।१।११४) इत्यण्—
+
+[^283]: " क्षोणस्य—क्षि निवासगत्योः। कृत्यल्युटो बहुलम् (पा०.३।३।११३
+
+[^284]: "महः—मह पूजायाम्। अस्मादौणादिकोऽसिप्रत्ययः। पक्षान्तरे तु महच्छब्दात् षष्ठय कवचने छान्दसो अल्लोपः। बृहन्महतोरुपसंख्यानम् इति विभक्तेरुदात्तत्वम्। यद्वा क्विवन्तात्षष्ट्य कवचनम्।"
 
 **उ॒त कण्वं॑ नृ॒षदः॑पु॒त्रमा॑हु० \[ ऋ० १०.३१. ११\]**
 
  इति मन्त्रान्तरे उक्तम्। तस्मै श्रवः श्रवणेन्द्रियं यदध्यधत्तं दत्तवन्तौ स्थ (इति यत् तदित्यर्थः)।
 
 
-[अपर](# "अत्र वेदभाष्ये आख्यानमिदं दृश्यते 'अपर आह' इति।")आह—ब्राह्मणस्य परीक्षार्थम् असुराः कण्वमृषिं गूढे तपसि निदधुः अत्रैव स्थितः सन् व्युष्टामुषसं विजानीहि यदि त्वं ब्राह्मणोसीति। तमश्विनावागत्योचतुः व्युष्टायां हर्म्यस्योपरि वीणां वादयन्तावावामागमिष्यावः। तं शब्दं श्रुत्वा व्युष्टामुषसं ब्रूहि तदेतत्प्रतिपाद्यते। हे वृषणा कामानां वर्षितारौ अश्विनौ वां युवयोः तत्कृतं कर्म प्रवाच्यं प्रशंसनीयं यत् नार्षदाय नृषदपुत्राय कण्वाय क्षोणस्य क्षोणः शब्दकारी वीणाविशेषः महो महतः क्षोणस्य श्रवः शब्दम् अध्यधत्तम् उषसो विज्ञानार्थमधिकमकुरुतम्। इति।
+अपर[^285]आह—ब्राह्मणस्य परीक्षार्थम् असुराः कण्वमृषिं गूढे तपसि निदधुः अत्रैव स्थितः सन् व्युष्टामुषसं विजानीहि यदि त्वं ब्राह्मणोसीति। तमश्विनावागत्योचतुः व्युष्टायां हर्म्यस्योपरि वीणां वादयन्तावावामागमिष्यावः। तं शब्दं श्रुत्वा व्युष्टामुषसं ब्रूहि तदेतत्प्रतिपाद्यते। हे वृषणा कामानां वर्षितारौ अश्विनौ वां युवयोः तत्कृतं कर्म प्रवाच्यं प्रशंसनीयं यत् नार्षदाय नृषदपुत्राय कण्वाय क्षोणस्य क्षोणः शब्दकारी वीणाविशेषः महो महतः क्षोणस्य श्रवः शब्दम् अध्यधत्तम् उषसो विज्ञानार्थमधिकमकुरुतम्। इति।
+
+[^285]: "अत्र वेदभाष्ये आख्यानमिदं दृश्यते 'अपर आह' इति।"
 
 
 
@@ -2944,7 +3512,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 **ये दानेषु प्रसत्कारा उक्ताः कक्षीवताश्विनोः।  
 नासत्याभ्याञ्च सूक्तैस्तैर्भवेम सुखिनो वयम्॥४९॥ **
 
- अश्विनोर्ये प्रकृष्टाः सत्कारा [दानेषु](# "'दीनेषु' इत्यपि पाठः।")[विभदभुज्युपैद्वादीनां](http://॑ "'पैद्वादि' इत्येव।")नासत्याभ्यां(ऋ० १.११६– १२०) सूक्तैः पञ्चभिः उक्ताः कक्षीवता ऋषिणा सत्कारैः कृत्वा तयोः प्रसादाद् वयं सुखिनो भवेम भूयास्म।
+ अश्विनोर्ये प्रकृष्टाः सत्कारा दानेषु[^286][विभदभुज्युपैद्वादीनां](http://॑ "'पैद्वादि' इत्येव।")नासत्याभ्यां(ऋ० १.११६– १२०) सूक्तैः पञ्चभिः उक्ताः कक्षीवता ऋषिणा सत्कारैः कृत्वा तयोः प्रसादाद् वयं सुखिनो भवेम भूयास्म।
+
+[^286]: "'दीनेषु' इत्यपि पाठः।"
 
  कक्षीवानपि अश्विनोः कर्मान्ते आशिषमाशास्ते तथा वयमपि तत्र ऋक् (ऋ० १.११६.२५)
 
@@ -2955,7 +3525,19 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 
 
- ऋचोऽयमर्थः। हे अश्विनौ वां युवयोः दंसांसि पुरा कृतानि कर्माणि दंसः [वेशः](# "'वेषः' इति निरुक्ते।") (निघटु० २।१) इति तन्नामानि प्रावोचं कक्षीवानहमुक्तवानस्मि। सुगवः शोभनगोयुक्तः सुवीरः शोभनवीरो भूत्वा [अस्य](# " 'अस्य राष्ट्रस्य पतिरधिपतिः स्यां भवेयम्' इति वे० भा०।")धनादेः पतिः [स्याम्](# "स्याम्–अस्तेः प्रार्थनायां लिङ् (पा० ३ । ३।६१) यासुट् (पा० ३।४।१०३) श्नसोरल्लोपः (पा० ६।४।१११) इत्यकारलोपः।")। उतापि च पश्यन् अक्षिभ्यां पश्यन्। उपलक्षणमेतत्। सर्वैरिन्द्रियैः स्वस्वविषयदर्शनसमर्थैः दीर्घं वर्षशतरूपेणायतं [आयुर्जीवितञ्चाश्नुवन](# "अश्नुवन्–अशू व्याप्तौ। व्यत्ययेन शतृ।")प्राप्नुवन्नहम् अस्तमिवेत् यथा गृहं स्वामी निष्कण्टकं प्रविशति एवं निःशङ्केन [जरिमाणं](# " जरिमाणम्—जृृष् वयोहानौ। अस्मादौणादिक इमनिच् प्रत्ययः।")जरां [जगम्यां](# "जगम्याम्—गमेः प्रार्थनायां लिङि (पा० ३।३।६१) बहुलं छन्दसि (पा० २।४। ७६) इति विकरणस्य श्लुः।")(कण्टकराहित्येन प्राप्नुयाम्) वृद्धः सन् चिरकालं निवसेयमित्यर्थः। पतिः स्यामिति 'पदादयश्च स्थिति०' (ऋ० प्रा० ५।६) इति पत्वेप्राप्ते, पतिः स्यां दित्ससि० (ऋ० प्रा० ५।१९) इति निषेधान्न।
+ ऋचोऽयमर्थः। हे अश्विनौ वां युवयोः दंसांसि पुरा कृतानि कर्माणि दंसः वेशः[^287] (निघटु० २।१) इति तन्नामानि प्रावोचं कक्षीवानहमुक्तवानस्मि। सुगवः शोभनगोयुक्तः सुवीरः शोभनवीरो भूत्वा अस्य[^288]धनादेः पतिः स्याम्[^289] यासुट् (पा० ३।४।१०३) श्नसोरल्लोपः (पा० ६।४।१११) इत्यकारलोपः।")। उतापि च पश्यन् अक्षिभ्यां पश्यन्। उपलक्षणमेतत्। सर्वैरिन्द्रियैः स्वस्वविषयदर्शनसमर्थैः दीर्घं वर्षशतरूपेणायतं आयुर्जीवितञ्चाश्नुवन[^290]प्राप्नुवन्नहम् अस्तमिवेत् यथा गृहं स्वामी निष्कण्टकं प्रविशति एवं निःशङ्केन जरिमाणं[^291]जरां जगम्यां[^292] बहुलं छन्दसि (पा० २।४। ७६) इति विकरणस्य श्लुः।")(कण्टकराहित्येन प्राप्नुयाम्) वृद्धः सन् चिरकालं निवसेयमित्यर्थः। पतिः स्यामिति 'पदादयश्च स्थिति०' (ऋ० प्रा० ५।६) इति पत्वेप्राप्ते, पतिः स्यां दित्ससि० (ऋ० प्रा० ५।१९) इति निषेधान्न।
+
+[^287]: "'वेषः' इति निरुक्ते।"
+
+[^288]: " 'अस्य राष्ट्रस्य पतिरधिपतिः स्यां भवेयम्' इति वे० भा०।"
+
+[^289]: "स्याम्–अस्तेः प्रार्थनायां लिङ् (पा० ३ । ३।६१
+
+[^290]: "अश्नुवन्–अशू व्याप्तौ। व्यत्ययेन शतृ।"
+
+[^291]: " जरिमाणम्—जृृष् वयोहानौ। अस्मादौणादिक इमनिच् प्रत्ययः।"
+
+[^292]: "जगम्याम्—गमेः प्रार्थनायां लिङि (पा० ३।३।६१
 
  इति द्विवेदश्रीलक्ष्मीधरसूनुना सत्रयज्वना द्याद्विवेदेन विरचिते नीतिमञ्जरीभाष्ये प्रथमाष्टके नीतिवाक्यानि समाप्तानि। श्रीरस्तु।
 
@@ -2973,9 +3555,13 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 द्याद्विवेदस्य चाज्ञस्य मुखे स्थित्वा कृता यया॥१॥**
 
 **प्रथमे सेतिहासान्यो दर्शयित्वा सुभाषितान् ॥  
-द्वितीयेऽष्टक आहाथ तत्त्ववि [द्याह्वय](# " 'द्याह्वयम्' 'द्याह्नया' इत्यपि पाठभेदौ।") ऋचाम्॥**
+द्वितीयेऽष्टक आहाथ तत्त्ववि द्याह्वय[^293] ऋचाम्॥**
 
- स्त्रीषु [विश्वासो](# "'स्त्रीषु विश्वासं न कुर्यादित्याह-' इति 'ग' पुस्तके।")न कार्य इत्याह—
+[^293]: " 'द्याह्वयम्' 'द्याह्नया' इत्यपि पाठभेदौ।"
+
+ स्त्रीषु विश्वासो[^294]न कार्य इत्याह—
+
+[^294]: "'स्त्रीषु विश्वासं न कुर्यादित्याह-' इति 'ग' पुस्तके।"
 
 **विश्वासो नैव कर्तव्यो वल्लभाया अपि स्त्रियाः।  
 महिष्याः प्राप विश्वासाद्दासीपुत्रं कलिङ्गजः॥५०॥**
@@ -2995,7 +3581,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  कक्षीवानित्यन्वर्थसंज्ञा। कक्षीवान् कक्ष्यावानिति (नि० ६।१०)। कक्ष्या रज्जुरश्वस्येति यास्केनोक्ता (नि० २।२)
 
- अत्राक्षेपः। नन्वश्ववन्धनं राज्ञ एवोचितम्। कक्षीवानिति राज्ञो नाम। अतोऽस्य राजत्वात् प्रातारत्नीयोक्तः (ऋ० १२१२५) प्रतिग्रहो नोपपद्यते। कुतः। 'याजनाध्यापने चैव विशुद्धाच्च प्रतिग्रहः' इत्युक्तम्। (तत्र) ब्राह्मणस्यैवाधिकारो न क्षत्रियस्येति। नैष दोषोऽस्य। यद्यप्यसौ कलिङ्गाख्यस्य राज्ञः पुत्रस्तत्कथं कलिङ्गजेन स्वयं वृद्धत्वादपत्योत्पादनाय सामर्थ्यमलभमानेन तदुत्पादनाय याचितो दीर्घतमा ऋषिः अपत्योत्पादनाय प्रेषितया राजमहिष्याऽतिजरठेन महर्षिणा सह रन्तुं लज्जमानया स्ववस्त्राभरणैरलङ्कृत्य स्वप्रतिनिधित्वेन प्रेषितामुशिङ्नामिकां योषितं दासीमित्यवगत्य ऋषिणा स्त्रमन्त्रपूतेन जलेनाभिषिच्य ऋषिपुत्रीं कृत्वा तया सह रेमे। एतदुत्पन्नः कक्षीवान् राज्ञः पुत्रोऽभूत्। दासीपुत्रः औशिजः कक्षीवान् कलिङ्गस्य पुत्रोऽभूदिति [तात्पर्यार्थः](# " अतोऽस्य क्षत्रियसम्बन्धात् कक्षीवानिति नामोपपन्नम्। दीर्घतमसः परमर्षेरुत्पन्नत्वेन ब्राह्मणत्वात्प्रतिग्रहोऽप्युपपन्न एव। वे० भा०।")।
+ अत्राक्षेपः। नन्वश्ववन्धनं राज्ञ एवोचितम्। कक्षीवानिति राज्ञो नाम। अतोऽस्य राजत्वात् प्रातारत्नीयोक्तः (ऋ० १२१२५) प्रतिग्रहो नोपपद्यते। कुतः। 'याजनाध्यापने चैव विशुद्धाच्च प्रतिग्रहः' इत्युक्तम्। (तत्र) ब्राह्मणस्यैवाधिकारो न क्षत्रियस्येति। नैष दोषोऽस्य। यद्यप्यसौ कलिङ्गाख्यस्य राज्ञः पुत्रस्तत्कथं कलिङ्गजेन स्वयं वृद्धत्वादपत्योत्पादनाय सामर्थ्यमलभमानेन तदुत्पादनाय याचितो दीर्घतमा ऋषिः अपत्योत्पादनाय प्रेषितया राजमहिष्याऽतिजरठेन महर्षिणा सह रन्तुं लज्जमानया स्ववस्त्राभरणैरलङ्कृत्य स्वप्रतिनिधित्वेन प्रेषितामुशिङ्नामिकां योषितं दासीमित्यवगत्य ऋषिणा स्त्रमन्त्रपूतेन जलेनाभिषिच्य ऋषिपुत्रीं कृत्वा तया सह रेमे। एतदुत्पन्नः कक्षीवान् राज्ञः पुत्रोऽभूत्। दासीपुत्रः औशिजः कक्षीवान् कलिङ्गस्य पुत्रोऽभूदिति तात्पर्यार्थः[^295]।
+
+[^295]: " अतोऽस्य क्षत्रियसम्बन्धात् कक्षीवानिति नामोपपन्नम्। दीर्घतमसः परमर्षेरुत्पन्नत्वेन ब्राह्मणत्वात्प्रतिग्रहोऽप्युपपन्न एव। वे० भा०।"
 
 **तथा बृहद्देवता—(अ० ४ श्लो० २४।२५)**
 
@@ -3021,11 +3609,27 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  स्वनयस्य दानस्तुत्युत्पत्तये इतिहासः—
 
- दीर्घतमसः पुत्रः कक्षीवान्नाम ऋषिः ब्रह्मचर्यं[चरन्](# "'चरिष्यन्' इति 'ग' पुस्तके वेदभाष्ये च। ")वेदाभ्यासाय गुरुकुले बहुतरकालं स्थित्वा वेदान्सम्यगधीत्य व्रतानि (च) चरित्वा तेनानुज्ञातः स्वगृहं प्रति (प्र) यास्यन्[मध्येमार्गे](# "'मध्येमार्गम्' इति 'ग' पुस्तके।")रात्रौ विश्रान्तः (सुष्वाप)। प्रभाते भावयव्यस्य पुत्रः स्वनयो नाम राजा [सानुचरः](http://॑ " 'अनुचरैः सह क्रीडमानः' इति वे० भा०।")सङ्क्रीडमाणःअकस्मात्-
+ दीर्घतमसः पुत्रः कक्षीवान्नाम ऋषिः ब्रह्मचर्यंचरन्[^296]वेदाभ्यासाय गुरुकुले बहुतरकालं स्थित्वा वेदान्सम्यगधीत्य व्रतानि (च) चरित्वा तेनानुज्ञातः स्वगृहं प्रति (प्र) यास्यन्मध्येमार्गे[^297]रात्रौ विश्रान्तः (सुष्वाप)। प्रभाते भावयव्यस्य पुत्रः स्वनयो नाम राजा [सानुचरः](http://॑ " 'अनुचरैः सह क्रीडमानः' इति वे० भा०।")सङ्क्रीडमाणःअकस्मात्-
+
+[^296]: "'चरिष्यन्' इति 'ग' पुस्तके वेदभाष्ये च। "
+
+[^297]: "'मध्येमार्गम्' इति 'ग' पुस्तके।"
 
 
 
-कक्षीवतोऽन्तिकमागतः। स च [रभसात्](http://॑ "'रभसा प्रतिबुद्धः' इत्यपि 'ग' पुस्तके वेदभाष्ये च पाठः।")प्रतिवुद्धःसहसोत्तस्थौ। तं च राजा [पाणौ](# " 'पाणि गृहीत्वा' इति 'ग' पुस्तके वेदभाष्ये च पाठः।")गृहीत्वा [स्वकीयपासन](http://॑ " 'स्वकीये आसने' इति 'ग' पुस्तके।")मुपवेश्यास्यसौन्दर्यमवगत्य स्वकन्याप्रदानमनाः पप्रच्छ। भगवन् कस्य पुत्रः किन्नामा त्वमिति। स च पृष्टो मातरं पितरं स्ववृत्तान्तं च [आचष्टे](# " 'आचख्यौ ' इति 'ग' पुस्तके। 'आचचक्षे' इति वे० भा०।") स्म। (स च) राजा संभाव्य इति अवगत्य मुदितमनाः स्वगृहं [प्रापय्य](# " 'प्राप्य' इति (वे० भा०)")तस्मै [मधुपर्कमाचरिष्यन्](# " 'आरचय्य' इति 'ग' पुस्तके वे० भाष्ये च।")वस्त्रमाल्यादिभिः पूजयित्वा सरथा दश कन्या निष्कशतमश्वशतं पुंगवानां [शतं](# " 'शतं निष्कान्' इत्यपि 'ग' पुस्तके।")गवां षष्ट्युत्तरसहस्रं पुनरेकादश रथांश्च प्रादात्। स च सर्वमनुक्रमेण प्रतिगृह्य दीर्घतमसोऽन्तिकमागत्य तस्मै प्रादर्शयत्। [दर्शयित्वा](# "'दर्शयित्वा च कक्षीवांस्त्रिष्टुभा स्तौति स्म' इति 'ग' पुस्तके।")परोक्षं प्रातारत्नमिति (ऋ० १।१२५) अनेन प्रशंसति राजानं स्वनयम्।
+कक्षीवतोऽन्तिकमागतः। स च [रभसात्](http://॑ "'रभसा प्रतिबुद्धः' इत्यपि 'ग' पुस्तके वेदभाष्ये च पाठः।")प्रतिवुद्धःसहसोत्तस्थौ। तं च राजा पाणौ[^298]गृहीत्वा [स्वकीयपासन](http://॑ " 'स्वकीये आसने' इति 'ग' पुस्तके।")मुपवेश्यास्यसौन्दर्यमवगत्य स्वकन्याप्रदानमनाः पप्रच्छ। भगवन् कस्य पुत्रः किन्नामा त्वमिति। स च पृष्टो मातरं पितरं स्ववृत्तान्तं च आचष्टे[^299] स्म। (स च) राजा संभाव्य इति अवगत्य मुदितमनाः स्वगृहं प्रापय्य[^300]")तस्मै मधुपर्कमाचरिष्यन्[^301]वस्त्रमाल्यादिभिः पूजयित्वा सरथा दश कन्या निष्कशतमश्वशतं पुंगवानां शतं[^302]गवां षष्ट्युत्तरसहस्रं पुनरेकादश रथांश्च प्रादात्। स च सर्वमनुक्रमेण प्रतिगृह्य दीर्घतमसोऽन्तिकमागत्य तस्मै प्रादर्शयत्। दर्शयित्वा[^303]परोक्षं प्रातारत्नमिति (ऋ० १।१२५) अनेन प्रशंसति राजानं स्वनयम्।
+
+[^298]: " 'पाणि गृहीत्वा' इति 'ग' पुस्तके वेदभाष्ये च पाठः।"
+
+[^299]: " 'आचख्यौ ' इति 'ग' पुस्तके। 'आचचक्षे' इति वे० भा०।"
+
+[^300]: " 'प्राप्य' इति (वे० भा०
+
+[^301]: " 'आरचय्य' इति 'ग' पुस्तके वे० भाष्ये च।"
+
+[^302]: " 'शतं निष्कान्' इत्यपि 'ग' पुस्तके।"
+
+[^303]: "'दर्शयित्वा च कक्षीवांस्त्रिष्टुभा स्तौति स्म' इति 'ग' पुस्तके।"
 
 तथा बृहद्देवता (अ० ३ श्लोक ० १४०-१५०)—
 
@@ -3033,41 +3637,67 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 \[[काक्षीवतं](http://॑ "अयं श्लोकोऽत्राप्रकृत इति नोतिमञ्जर्या हस्तलिखितपुस्तकेषु नोद्धृतः सन्दर्भद्योतनायात्रास्माभिः क्रोडीकृत्यैव दत्तः।")कदित्त्थेति (ऋ० १।१२१) यदैन्द्रमुपदिश्यते।
 
-परोक्षं वैश्वदेवं तत् प्रदिष्टं [स्वरसामसु](# "(कौ० ब्रा० २४६)।")\]॥१४१॥
+परोक्षं वैश्वदेवं तत् प्रदिष्टं स्वरसामसु[^304]।")\]॥१४१॥
 
-**अधिगम्य गुरोर्विद्यां गच्छन् स्वं निलयं [प्रति](# "'स्वनिलयं किल'")।  
+[^304]: "(कौ० ब्रा० २४६
+
+**अधिगम्य गुरोर्विद्यां गच्छन् स्वं निलयं प्रति[^305]।  
 कक्षीवानध्वनि श्रान्तः सुष्वापारण्यगोचरः॥१४२॥ **
 
+[^305]: "'स्वनिलयं किल'"
 
 
-**तं राजा स्वनयो नाम [भावयव्यसुतो](# "'भावयव्यस्ततो वजन' इति क' 'ख' पुस्तकयोः।") (१) व्रजन्।  
+
+**तं राजा स्वनयो नाम भावयव्यसुतो[^306] (१) व्रजन्।  
 क्रीडार्थं सानुगोऽपश्यत् सभार्यः सपुरोहितः॥१४३॥**
 
-**[अथैनं](# "'आहैनं' इति 'क' पुस्तके।")रूपसम्पन्नं दृष्ट्वा देवसुतोपमम्।  
-कन्यादाने मतिं चक्रे [वर्णगोत्राविरोधतः](# "'गोत्रावरोधतः' इति 'क' 'ख' पुस्तकयोः।")॥१४४॥**
+[^306]: "'भावयव्यस्ततो वजन' इति क' 'ख' पुस्तकयोः।"
 
-**सम्बोध्यैनं स पप्रच्छ वर्णगोत्रादिकं [तथा](# " 'ततः'")।  
+**अथैनं[^307]रूपसम्पन्नं दृष्ट्वा देवसुतोपमम्।  
+कन्यादाने मतिं चक्रे वर्णगोत्राविरोधतः[^308]॥१४४॥**
+
+[^307]: "'आहैनं' इति 'क' पुस्तके।"
+
+[^308]: "'गोत्रावरोधतः' इति 'क' 'ख' पुस्तकयोः।"
+
+**सम्बोध्यैनं स पप्रच्छ वर्णगोत्रादिकं तथा[^309]।  
 राजन्नाङ्गिरसोऽस्मीति कुमारः प्रत्युवाच तम्॥१४५॥**
+
+[^309]: " 'ततः'"
 
 **पुत्रोऽहं दीर्घतमस औचथ्पस्य ऋषेर्नृप।  
 अथास्मै स ददौ कन्या [दशाभरणभूषिताः](http://॑ "दशभारविभूषिताः इति 'क' पुस्तके।")॥१४६॥**
 
-**[तावतश्च](# "'तावतश्च रथांश्चास्य द्वीपिनोऽश्वैश्चतुर्युजः' इत्यपि 'क' पुस्तके।")
+**तावतश्च[^310]
 रथान् श्यावान्वीड्वङ्गान्वै चतुर्युजः।  
-वधूनां [वाहनार्थाय](# " 'वहनार्थाय' इति 'क' पुस्तके।")[धनकुप्यमजाविकम्](# "'धनं कुप्यम्' इत्यपि 'क' पुस्तके।")॥१४७॥**
+वधूनां वाहनार्थाय[^311]धनकुप्यमजाविकम्[^312]॥१४७॥**
+
+[^310]: "'तावतश्च रथांश्चास्य द्वीपिनोऽश्वैश्चतुर्युजः' इत्यपि 'क' पुस्तके।"
+
+[^311]: " 'वहनार्थाय' इति 'क' पुस्तके।"
+
+[^312]: "'धनं कुप्यम्' इत्यपि 'क' पुस्तके।"
 
 **[निष्काणां](http://॑ " 'निष्काणां शतमश्वानां' इति 'क' पुस्तके।")वृषभाणां च शतं शतमदात्पुनः।  
-एतत्तदुत्तरे सूक्ते [शतमित्यादिषूच्यते](# "शतमित्यादिनोदितम्' इत्यपि") (ऋ०१।१२६।२)॥१४८॥**
+एतत्तदुत्तरे सूक्ते शतमित्यादिषूच्यते[^313] (ऋ०१।१२६।२)॥१४८॥**
+
+[^313]: "शतमित्यादिनोदितम्' इत्यपि"
 
 **शतमश्वाञ्छतं निष्कान् रथान् दश वधूमतः।  
-चतुर्युजो गवां चैव सहस्रं [षष्ट्यथाधिकम्](# "'षष्ट्युपाधिकम्' इति मुग्धानलपुस्तके।")॥१४९॥**
+चतुर्युजो गवां चैव सहस्रं षष्ट्यथाधिकम्[^314]॥१४९॥**
+
+[^314]: "'षष्ट्युपाधिकम्' इति मुग्धानलपुस्तके।"
 
 **स्वनयाद्भावयव्याद्यः कक्षीवान्प्रत्यपद्यत।  
-प्रतिगृह्य च तुष्टाव [ततः](# "'प्रातः' इति मुग्धानलः।")पित्रे शशंस च॥१५०॥ इति।**
+प्रतिगृह्य च तुष्टाव ततः[^315]पित्रे शशंस च॥१५०॥ इति।**
+
+[^315]: "'प्रातः' इति मुग्धानलः।"
 
 
 
- तथा [सूत्रम्](# "सूत्रग्रन्थोक्तसूत्राणि यथा—'काक्षीवतं द्वितीयम्॥४॥ 'यथा कक्षीवानौशिजः स्वनये भावयव्ये सनिं ससान'॥५॥ 'उत्तमे च सूक्ते निगदेत्॥६॥ S. S. S. by Hillebrandt P. 205")(सा० श्र० सू० १६।११।४-६)—
+ तथा सूत्रम्[^316](सा० श्र० सू० १६।११।४-६)—
+
+[^316]: "सूत्रग्रन्थोक्तसूत्राणि यथा—'काक्षीवतं द्वितीयम्॥४॥ 'यथा कक्षीवानौशिजः स्वनये भावयव्ये सनिं ससान'॥५॥ 'उत्तमे च सूक्ते निगदेत्॥६॥ S. S. S. by Hillebrandt P. 205"
 
  “कक्षीवन्तं द्वितीयंकक्षीवानौशिजः स्वनये भावयव्ये सनिं संसानोत्तमे सूक्ते नाराशंसे निगदेद् "।इति।
 
@@ -3080,16 +3710,30 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  **मा। पृ॒णन्तः॑। दुःऽइ॑तम्। एनः॑। आ। आ॒र॒न्। मा। जा॒र॒षुः॒। सू॒रयः॑। सु॒ऽव्र॒तासः॑। अ॒न्यः। तेषा॑म्। प॒रि॒ऽधिः। अ॒स्तु॒। कः। चि॒त्। अपृण॑न्तम्। अ॒भि। सम् \। य॒न्तु। शोकः॑॥५७॥**
 
- [पृणन्तः](# " देवादीन्हविरादिना प्रीणयन्तः सन्तः–वे० भा०।")(प्र) यच्छन्तः दातारो जनाः दुरितं दुःखम् एनः पापं (च) मारन् मा प्राप्नुवन्। ये सूरयः विद्वांसः [सुव्रतासः](# "शोभनकृच्छ्रचान्द्रायणादिनियमवन्तोऽपि —वे० भा०।")देवानां याजकाः मा जारिषुः जरया जीर्णा मा भवेयुः। तर्हि एनोभाजनः क उच्यते। तेषां दातॄणां सूरीणां चान्यः तेभ्यः अदाता असूरिः कश्चित्परिधिः पापानां परितो [धारकोऽस्तु](# "यद्वा अन्यः कश्चन पापदेवः तेषां परिधिः परिधिस्थानीयो व्यवधायकोऽस्तु। यथाऽग्नेः परिधिः स्वयं रक्षः प्रभृतिभिर्वाध्यमानः स्वान्तर्हितमग्निं रक्षति तद्वद् अथवा अन्यो धर्मविशेषस्तेषां परिधिः परिधानमस्तु कवचस्थानीयोऽस्तु —इति वे० भा०।")। अपृणन्त-
+ पृणन्तः[^317](प्र) यच्छन्तः दातारो जनाः दुरितं दुःखम् एनः पापं (च) मारन् मा प्राप्नुवन्। ये सूरयः विद्वांसः सुव्रतासः[^318]देवानां याजकाः मा जारिषुः जरया जीर्णा मा भवेयुः। तर्हि एनोभाजनः क उच्यते। तेषां दातॄणां सूरीणां चान्यः तेभ्यः अदाता असूरिः कश्चित्परिधिः पापानां परितो धारकोऽस्तु[^319]। अपृणन्त-
+
+[^317]: " देवादीन्हविरादिना प्रीणयन्तः सन्तः–वे० भा०।"
+
+[^318]: "शोभनकृच्छ्रचान्द्रायणादिनियमवन्तोऽपि —वे० भा०।"
+
+[^319]: "यद्वा अन्यः कश्चन पापदेवः तेषां परिधिः परिधिस्थानीयो व्यवधायकोऽस्तु। यथाऽग्नेः परिधिः स्वयं रक्षः प्रभृतिभिर्वाध्यमानः स्वान्तर्हितमग्निं रक्षति तद्वद् अथवा अन्यो धर्मविशेषस्तेषां परिधिः परिधानमस्तु कवचस्थानीयोऽस्तु —इति वे० भा०।"
 
 
 
-मदातारम्। पृणाक्षिपृणाति इति दानकर्मसु पाठात् (निघण्टु ३।२०) [देवादीनाम](# " 'देवादीनामप्रीणयन्तम्' इति वे०भा० । 'देवादीनप्रीणयन्तम्' इति 'ग' पुस्तकें।")अपृणन्तं शोकाः दुःखानि अभि आभिमुख्येन संयन्तु सम्यक् प्राप्नुवन्तु। इति दाता सुखी सूरिरजर इति सिद्धम्।
+मदातारम्। पृणाक्षिपृणाति इति दानकर्मसु पाठात् (निघण्टु ३।२०) देवादीनाम[^320]अपृणन्तं शोकाः दुःखानि अभि आभिमुख्येन संयन्तु सम्यक् प्राप्नुवन्तु। इति दाता सुखी सूरिरजर इति सिद्धम्।
 
- अप्राप्तयौवनया सह सङ्गो न [कार्य](# " 'न कर्तव्य इत्याह' इति 'ग' पुस्तके।") इत्याह—
+[^320]: " 'देवादीनामप्रीणयन्तम्' इति वे०भा० । 'देवादीनप्रीणयन्तम्' इति 'ग' पुस्तकें।"
 
-**[सहारोमिकया](# " 'अरोमकया' इति 'क' 'ख' पुस्तकयोः।")सङ्गो न कर्तव्यो नरैः स्त्रिया।  
-भावयव्योऽभजद् ज्ञात्वा रोमशां [प्राप्तरोमिकाम्](# "'प्राप्तरोमकाम्' इति 'क' पुस्तके।") ॥१५॥**
+ अप्राप्तयौवनया सह सङ्गो न कार्य[^321] इत्याह—
+
+[^321]: " 'न कर्तव्य इत्याह' इति 'ग' पुस्तके।"
+
+**सहारोमिकया[^322]सङ्गो न कर्तव्यो नरैः स्त्रिया।  
+भावयव्योऽभजद् ज्ञात्वा रोमशां प्राप्तरोमिकाम्[^323] ॥१५॥**
+
+[^322]: " 'अरोमकया' इति 'क' 'ख' पुस्तकयोः।"
+
+[^323]: "'प्राप्तरोमकाम्' इति 'क' पुस्तके।"
 
  अरोमिकया अप्राप्तलोम्या स्त्रिया सह सङ्गः नरैर्न कर्त्तव्यः। भावयव्यदृष्टान्तेन द्रढयति। यथा भावयव्यो राजा रोमशां स्त्रियं प्राप्तरोमिकां जातलोम्नींज्ञात्वाऽभजद् भेजे। आख्यानपूर्विके ऋचौ। आगधिता परिगधिता ० (ऋ० १. १२६. ६.) उपोप में परामृश० (ऋ. १. १२६. ७.)।
 
@@ -3098,24 +3742,42 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
  तथा बृहद्देवता—(अ० ३ श्लो० १५५-५६; अ० ४ श्लो० १-३)
 
 **पञ्चमन्दान्भावयव्यस्य गीता जायापत्योर्द्वे ऋचौ [सम्प्रवादः](http://॑ "'सम्प्रवादो द्वृचेन' इति मु० बृ०।")॥  
-\[ [सम्प्रवादं](# "द्वाविमौ पादौ वृहद्दवतायाः सन्दर्भद्योतकौ नीतिमञ्जरीहस्तलिखत पुस्तकेषु नोक्तौ।")रोमशयेन्द्रराज्ञेोरेते ऋचौ मन्यते शाकपूणिः॥१५५॥**
+\ [सम्प्रवादं[^324]रोमशयेन्द्रराज्ञेोरेते ऋचौ मन्यते शाकपूणिः॥१५५॥**
+
+[^324]: "द्वाविमौ पादौ वृहद्दवतायाः सन्दर्भद्योतकौ नीतिमञ्जरीहस्तलिखत पुस्तकेषु नोक्तौ।"
 
 **इन्द्रेण जायापत्योश्चेतिहासं द्वृचेऽस्मिन्मन्यते शाकटायनः \]॥  
-[प्रादाच्च](# "'प्रादात्सुतां रोमशां नाम नाम्ना' इति मु० पृ०।")तां रोमशां नाम साम्ना बृहस्पतिर्भावयव्याय राज्ञे॥१५६॥**
+प्रादाच्च[^325]तां रोमशां नाम साम्ना बृहस्पतिर्भावयव्याय राज्ञे॥१५६॥**
+
+[^325]: "'प्रादात्सुतां रोमशां नाम नाम्ना' इति मु० पृ०।"
 
 
 
-**[ततस्तमर्थं](# " 'तत्सर्व' इति 'क' पुस्तके।")हरिवान् विदित्वा प्रियं सुखायं स्वनयं दिदृक्षुः॥  
-[अभ्याजगामाशु](# "'अभ्याजगामाथ' इति 'क' 'ख' पुस्तकयोः।")
-[शचीसहायः](# "शचीसमेतः इति 'क' पुस्तके।")
-[प्रीत्याऽर्चयत्तं](# " 'प्रत्यर्चितस्तद्विधिनैव राज्ञा' इति 'क' 'ग' पुस्तकयोः।")
+**ततस्तमर्थं[^326]हरिवान् विदित्वा प्रियं सुखायं स्वनयं दिदृक्षुः॥  
+अभ्याजगामाशु[^327]
+शचीसहायः[^328]
+प्रीत्याऽर्चयत्तं[^329]
 विधिनैव राजा॥१॥**
 
-**अभ्याजगामाङ्गिरसी च तत्र [हृष्टा](# "'दृष्ट्वा' इति 'क' 'ख' पुस्तकयोः।") तयोः सा चरणौ ववन्दे ॥  
+[^326]: " 'तत्सर्व' इति 'क' पुस्तके।"
+
+[^327]: "'अभ्याजगामाथ' इति 'क' 'ख' पुस्तकयोः।"
+
+[^328]: "शचीसमेतः इति 'क' पुस्तके।"
+
+[^329]: " 'प्रत्यर्चितस्तद्विधिनैव राज्ञा' इति 'क' 'ग' पुस्तकयोः।"
+
+**अभ्याजगामाङ्गिरसी च तत्र हृष्टा[^330] तयोः सा चरणौ ववन्दे ॥  
 इन्द्रः सखित्वादथ तामुवाच रोमाणि ते सन्ति न सन्ति राज्ञि॥२॥**
 
-**सा बालभावादथ तं[जगाद](# " 'सञ्जगाद' इति 'क' पुस्तके।") उपोप मे शक्र परामृशेति ॥  
-(तां पूर्वथा सान्त्व्यनृपः प्रहृष्टो अन्वव्रजत्साथ [पतिं](# "अयं पादो हस्तलिखितपुस्तकेषु नास्ति।")पतिव्रता)॥३॥**
+[^330]: "'दृष्ट्वा' इति 'क' 'ख' पुस्तकयोः।"
+
+**सा बालभावादथ तंजगाद[^331] उपोप मे शक्र परामृशेति ॥  
+(तां पूर्वथा सान्त्व्यनृपः प्रहृष्टो अन्वव्रजत्साथ पतिं[^332]पतिव्रता)॥३॥**
+
+[^331]: " 'सञ्जगाद' इति 'क' पुस्तके।"
+
+[^332]: "अयं पादो हस्तलिखितपुस्तकेषु नास्ति।"
 
  संभोगाय प्रार्थितो भावयव्यः स्वभार्योरोमशाम् अप्रौढां मत्वा परिहसन्ननुष्टुभाह—(ऋ० १.१२६.६.)
 
@@ -3130,18 +3792,26 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 भेदः। कीदृशी सा या जङ्गहे अत्यर्थे गृह्णाति कदापि न मुञ्चति। अत्यागे दृष्टान्तः—कशीकेव कशीका नाम सूतवत्सा नकुली सा यथा पत्या सह चिरकालं क्रीडति न कदाचिदपि मुञ्चति तथा एषापि। किञ्चैषा भोग्या यादुरी यादुरित्युदकम्। रेतोलक्षणमुदकं राति (आ) ददाति यादुरी। बहुरेतोयुक्तेत्यर्थः। तादृशी सती याशूनां संभोगानां, याशु (वे० भा० यश) इति प्रजनननाम। तत्सम्बन्धीनि कर्माणि याशूनि भोगाः। तेषां शता शतानि असंख्यातानि मह्यं ददातीति॥
 
- रोमशा नाम [बृहस्पतेः](# " 'ब्रह्मवादिनी परिहसन्तं स्वपतिं प्रत्याह' इति 'ग' पुस्तके वे० भाष्ये च।")पुत्री परिहसन्तं स्वभर्तारं प्रत्याह—(ऋ० १.१२६.७)
+ रोमशा नाम बृहस्पतेः[^333]पुत्री परिहसन्तं स्वभर्तारं प्रत्याह—(ऋ० १.१२६.७)
+
+[^333]: " 'ब्रह्मवादिनी परिहसन्तं स्वपतिं प्रत्याह' इति 'ग' पुस्तके वे० भाष्ये च।"
 
 **उपो॑पमे॒ परा॑मृश॒ मा मे॑ द॒भ्राणि॑ मन्यथाः।  
 सर्वा॒हम॑स्मि रोम॒शा ग॒न्धारी॑णामिवावि॒का॥**
 
 ** उप॑ ऽ उप। मे॒। परा॑। मृ॒श॒। मा। मे॒। द॒भ्राणि॑। म॒न्य॒थाः॒। सर्वा॑। अ॒हम्। अ॒स्मि॒। रो॒म॒शा। ग॒न्धारी॑णाम् ऽ इव। अ॒वि॒का॥५९॥**
 
- भोः पते मे मां द्वितीयार्थे चतुर्थी। उपोप [उपेत्यो](# "'उपगम्योपलिप्य च' इति निरुक्तभाष्यवृत्तौ दुर्गाचार्याः 'द्वितीय उपशब्दः पादपूरणः' इति वे० भा०।")पेत्य परामृश सम्यक्[स्पृश](# "'अत्यन्तमान्तरं स्पृश। परामर्शाभावशङ्कां निवारय इति 'ग' पुस्तके, वेदभाष्ये च।") भोगयोग्यामवगच्छेत्यर्थः। मे ममाङ्गानि दभ्राणि अल्परोमाणि। दभ्रमर्भकमित्यल्पस्येति यास्कः (नि० ३।२०)। मा मन्यथाः मा बुध्यस्व। अदभ्रत्वं विशदयति— अहं सर्वा रोमशा बहुरोमयुक्ताऽस्मि। यतोऽहमीदृशी अतः सम्पूर्णावयवाऽस्मि। रोमशत्वे दृष्टान्तः। गन्धारीणामविकेव। गन्धारा (ये)
+ भोः पते मे मां द्वितीयार्थे चतुर्थी। उपोप उपेत्यो[^334]पेत्य परामृश सम्यक्स्पृश[^335] भोगयोग्यामवगच्छेत्यर्थः। मे ममाङ्गानि दभ्राणि अल्परोमाणि। दभ्रमर्भकमित्यल्पस्येति यास्कः (नि० ३।२०)। मा मन्यथाः मा बुध्यस्व। अदभ्रत्वं विशदयति— अहं सर्वा रोमशा बहुरोमयुक्ताऽस्मि। यतोऽहमीदृशी अतः सम्पूर्णावयवाऽस्मि। रोमशत्वे दृष्टान्तः। गन्धारीणामविकेव। गन्धारा (ये)
+
+[^334]: "'उपगम्योपलिप्य च' इति निरुक्तभाष्यवृत्तौ दुर्गाचार्याः 'द्वितीय उपशब्दः पादपूरणः' इति वे० भा०।"
+
+[^335]: "'अत्यन्तमान्तरं स्पृश। परामर्शाभावशङ्कां निवारय इति 'ग' पुस्तके, वेदभाष्ये च।"
 
 
 
-देशाः तेषां सम्बन्धिन्यविजातिरिव तद्देशस्था [अवयो](# "'विशेषतो रोमशाः' इति 'ग' पुस्तके।")मेषाः यथा रोमशाः तथाहमस्मि। यद्वा यथा गन्धारीणां गर्भवारिणीनां स्त्रीणाम् अविका अत्यर्थं तर्पयन्ती योनिरिव तासाम् आप्रसवं रोमादिविकर्त्तनस्य शास्त्रनिषिद्धत्वात्। योनिः रोमशा भवति। यतोऽहमीदृशी अतो माम् अप्रौढां मा बुध्यस्वेत्यर्थः।
+देशाः तेषां सम्बन्धिन्यविजातिरिव तद्देशस्था अवयो[^336]मेषाः यथा रोमशाः तथाहमस्मि। यद्वा यथा गन्धारीणां गर्भवारिणीनां स्त्रीणाम् अविका अत्यर्थं तर्पयन्ती योनिरिव तासाम् आप्रसवं रोमादिविकर्त्तनस्य शास्त्रनिषिद्धत्वात्। योनिः रोमशा भवति। यतोऽहमीदृशी अतो माम् अप्रौढां मा बुध्यस्वेत्यर्थः।
+
+[^336]: "'विशेषतो रोमशाः' इति 'ग' पुस्तके।"
 
  सामगृहो—'नाजातलोम्योपहासमिच्छेद्'। इति— तथा कर्मप्रदीपे—'अजातव्यञ्जनाऽलोम्नी न तया सह संविशेद्'। इति।
 
@@ -3152,29 +3822,47 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  धीमद्भिः बुद्धिमाद्भिःविप्रैः अग्निः आराध्यः यमग्निं विना विप्रो न सुखी भवेत्। ब्राह्मणस्याग्नेः सुखं भवतीत्यर्थः। हि यस्माद्दीर्घतमा ऋषिः बृहस्पतेः शापादग्निना मोचितः। अग्नेः सुखी बभूवेत्यर्थः।
 
- तद्दर्शनायेतिहासः। उचध्यबृहस्पतिनामानौ द्वावृषी आस्ताम्। तत्रोचथ्यस्य ममता नाम भार्या सा च गर्भिणी। तां बृहस्पतिर्गृहीत्वाऽरमयत् शुक्रनिर्गमनावसरे प्राप्ते गर्भस्थं रेतः प्रावादीत्। हे मुने रेतो मा त्याक्षीः। पूर्वमहं संवसामि रतेः[सङ्करं](# "'रेतःसेकं मा कार्षीः' इति 'ग' पुस्तके।")मा कार्षीरिति। एवमुक्तो बृहस्पतिः बलात् [प्रतिरुद्धरेतस्कः](http://॑ "‘प्रतिरुद्धरेतस्त्वात्त’ च श्शाप इति ‘ग’ पुस्तके।")सन् शशाप। हे गर्भ त्वं यतो [रेतोरोधमकरोः](# " 'रेतोनिराधमकरोः' इति वे० भा० 'रेतोरोधनमकरोः' इति 'ग' पुस्तके।")
-अतस्त्वं दीर्घ तमः प्राप्नुहि। जात्यन्धो भवेति। एवं शापतो (शप्तो) ममतायां दीर्घतमा अजायतेति। स [चोत्पन्नस्तमोव्ययाय](# " 'तमोव्यथया' इति वे० भा०।")अग्निमस्तौषीत्। स च स्तुत्या प्रीतः आन्ध्यं पर्यहरदिति।
+ तद्दर्शनायेतिहासः। उचध्यबृहस्पतिनामानौ द्वावृषी आस्ताम्। तत्रोचथ्यस्य ममता नाम भार्या सा च गर्भिणी। तां बृहस्पतिर्गृहीत्वाऽरमयत् शुक्रनिर्गमनावसरे प्राप्ते गर्भस्थं रेतः प्रावादीत्। हे मुने रेतो मा त्याक्षीः। पूर्वमहं संवसामि रतेःसङ्करं[^337]मा कार्षीरिति। एवमुक्तो बृहस्पतिः बलात् [प्रतिरुद्धरेतस्कः](http://॑ "‘प्रतिरुद्धरेतस्त्वात्त’ च श्शाप इति ‘ग’ पुस्तके।")सन् शशाप। हे गर्भ त्वं यतो रेतोरोधमकरोः[^338]
+अतस्त्वं दीर्घ तमः प्राप्नुहि। जात्यन्धो भवेति। एवं शापतो (शप्तो) ममतायां दीर्घतमा अजायतेति। स चोत्पन्नस्तमोव्ययाय[^339]अग्निमस्तौषीत्। स च स्तुत्या प्रीतः आन्ध्यं पर्यहरदिति।
+
+[^337]: "'रेतःसेकं मा कार्षीः' इति 'ग' पुस्तके।"
+
+[^338]: " 'रेतोनिराधमकरोः' इति वे० भा० 'रेतोरोधनमकरोः' इति 'ग' पुस्तके।"
+
+[^339]: " 'तमोव्यथया' इति वे० भा०।"
 
 
 
 ** **तथाऽनुक्रमणीवृत्तौ षड्गुरुशिष्यः(ऋ० ६, सूक्त ५२)—
 
-**[इति](http://॑ "अस्य पूर्वार्धन्तु॥‘सुहोत्रादिमहर्षीणां पौत्रत्वस्य विकल्पनात्’। इति") हासो हेतुभूतो [विस्प ष्टार्थें](# "'विस्पष्टाय' इत्यपि 'क' पुस्तके।")प्रवर्ण्यते॥१॥**
+**[इति](http://॑ "अस्य पूर्वार्धन्तु॥‘सुहोत्रादिमहर्षीणां पौत्रत्वस्य विकल्पनात्’। इति") हासो हेतुभूतो विस्प ष्टार्थें[^340]प्रवर्ण्यते॥१॥**
+
+[^340]: "'विस्पष्टाय' इत्यपि 'क' पुस्तके।"
 
 **प्रजापतेः पुत्र आसीदङ्गिरा नाम वै मुनिः।  
 तस्य पुत्रास्त्रयस्त्वासंस्त्रेताग्निसमतेजसः॥२॥**
 
 **उचध्यो ज्येष्ठ इत्येव मध्यमस्तु बृहस्पतिः।  
-संवर्तस्तु कनिष्ठोऽथ ज्येष्ठो [गुणगणैर्विभुः](# " 'र्भुवि' इत्यपि।")॥३॥**
+संवर्तस्तु कनिष्ठोऽथ ज्येष्ठो गुणगणैर्विभुः[^341]॥३॥**
 
-**(यः संवर्ती मत[इति](# "अयं पादोऽनुक्रमणीत उद्धृतः।") प्रथितो भारते भृशम्)।  
-उचध्यभार्या ममता नाम्नासीद्[वरवर्णिनी](# "'वंशवर्णिनी' इति 'क' पुस्तके।")॥४॥**
+[^341]: " 'र्भुवि' इत्यपि।"
+
+**(यः संवर्ती मतइति[^342] प्रथितो भारते भृशम्)।  
+उचध्यभार्या ममता नाम्नासीद्वरवर्णिनी[^343]॥४॥**
+
+[^342]: "अयं पादोऽनुक्रमणीत उद्धृतः।"
+
+[^343]: "'वंशवर्णिनी' इति 'क' पुस्तके।"
 
 **उचध्याहितगर्भां तां चकमेऽथ बृहस्पतिः।  
 उचध्यपुत्रो ममतागर्भस्थोऽवोचदुत्तरम्॥५॥**
 
-**ज्येष्ठपत्नीं [मातृकल्पां](# "'मातृतुल्यां' इति वे० दी०।") [मैनां](# "'नैनां' इति 'क' पुस्तके।") गन्तुं मनः कृथाः।  
+**ज्येष्ठपत्नीं मातृकल्पां[^344] मैनां[^345] गन्तुं मनः कृथाः।  
 (अहो [कामस्य](http://॑ "अयं तथाऽनन्तरतनोऽपि सर्वानुक्रमणीत एवोद्धृतौ।")दौरात्म्यं यदि मां त्वमिहागतः॥६॥**
+
+[^344]: "'मातृतुल्यां' इति वे० दी०।"
+
+[^345]: "'नैनां' इति 'क' पुस्तके।"
 
 **किंचाहमत्र प्रविष्टः क्व ते गर्भो निधीयताम्)।  
 अमोघरेतास्त्वं चासि न द्वयोरिह सम्भवः॥७॥**
@@ -3185,18 +3873,28 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 
 **दीर्घं तमस्त्वं प्रविश मद्वाक्यादन्ध एव च।  
-ततो दीर्घतमा नाम [हुचथ्यतनयो](# "'उचथ्यतनयो०' इति 'क' पुस्तके। पुराणेषु महाभारते चायं उचथ्यशब्द 'उतथ्य' इत्यपि पठ्यते।")ऽभवद्॥९॥ इति**
+ततो दीर्घतमा नाम हुचथ्यतनयो[^346]ऽभवद्॥९॥ इति**
+
+[^346]: "'उचथ्यतनयो०' इति 'क' पुस्तके। पुराणेषु महाभारते चायं उचथ्यशब्द 'उतथ्य' इत्यपि पठ्यते।"
 
  तथा बृहद्देवता (अ० ४, श्लो० ११-१५)—
 
 **द्वावुचथ्यबृहस्पती ऋषिपुत्रौ बभूवतुः।  
 आसीदुचथ्यभार्या तु ममता नाम भार्गवी॥११॥**
 
-**तां [कनीयान्](# " 'तामब्रवीद् इति 'क' पुस्तके।")बृहस्पतिर्मैथुनायोपचक्रमे।  
-शुक्रस्योत्सर्गकाले तु गर्भस्तं [प्रत्यभाषत](# "'प्रत्यषेधति' (प्रतिषेधति) इति 'क' पुस्तके।") ॥१२॥**
+**तां कनीयान्[^347]बृहस्पतिर्मैथुनायोपचक्रमे।  
+शुक्रस्योत्सर्गकाले तु गर्भस्तं प्रत्यभाषत[^348] इति 'क' पुस्तके।") ॥१२॥**
+
+[^347]: " 'तामब्रवीद् इति 'क' पुस्तके।"
+
+[^348]: "'प्रत्यषेधति' (प्रतिषेधति
 
 **इहास्मि पूर्वसम्भूतो न कार्यः शुक्रसङ्करः।  
-तं [शुक्रप्रतिषेधं](# " 'शुक्रप्रतिघातं' इति 'क' पुस्तके।")तु न ममर्ष [बृहस्पतिः](# "'बृहस्पतिरमर्षयत्' इति 'क' पुस्तके।")॥१३॥**
+तं शुक्रप्रतिषेधं[^349]तु न ममर्ष बृहस्पतिः[^350]॥१३॥**
+
+[^349]: " 'शुक्रप्रतिघातं' इति 'क' पुस्तके।"
+
+[^350]: "'बृहस्पतिरमर्षयत्' इति 'क' पुस्तके।"
 
 **स व्याजहार गर्भे तं तमस्ते दीर्घमस्त्विति।  
 स च दीर्घतमा नाम बभूवर्षिरुचध्यजः॥१४॥**
@@ -3215,7 +3913,13 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  दीर्घतमास् त्रिष्टुभाअग्निं तुष्टाव। अग्निष्टुति आग्निः अग्निमारुते याम्यतृचस्थाने "कथा ते अग्ने शुचयन्त आयोरिति तिस्रो यामीनाम्"। (सां०श्रौ० सू०-१४-५७-१२) इति सूत्रे विनियोगः।
 
- ऋचोऽयमर्थः। हे अग्ने ते तव सम्बन्धिनो ये पायवः प्रसिद्धाः पालयितारो रश्मयः मामतेयं ममतायाः पुत्रं दीर्घतमसम् अन्धं पश्यन्तः रक्षणीयोऽस्माभिरित्यवगच्छन्तः दुरिताद् [दुःखादन्धत्वादरक्षन्](# " 'रक्षन्ति स्म' इति 'ग' पुस्तके। ")। तान् रश्मीन् सुकृतः सुखकर्तृृन् विश्ववेदाः विश्वप्रज्ञोऽग्निः ररक्ष रक्षति। अस्मत्पालनायेति भावः। [तैरस्मान् रक्षतीत्यर्थः](# "'तैरस्मानपि रक्षिष्यतीत्यर्थः 'इति वे० भा०। ") । एवं रक्षितानस्मान् दिप्सन्तः दम्भितुमिच्छन्तः रिपवः कामादयो नाह देभुः (३)। [अहेति विनिग्रहार्थीयः](# "देभुः–दम्भु दम्भे। श्रन्थिग्रन्थिदम्भिस्वञ्जीनामिति (पा० ६।४।२ वा० व्याकरणान्तरम्) लिटः कित्वाद् अनिदिताम्० (पा० ६।४।२४) इति नलोपः। तस्यासिद्धत्वादेवाभ्यासलोपयोरप्राप्तौ दम्भेश्व (पा० ६।४।२४ वा०) इति वक्तव्यमिति तौ विधीयेते।") (नि० ११५) न खलु दम्भितुं शक्नुवन्ति। तान्त्सुकृतो—सकारोदययोः तकारमिति (ऋ० प्रा० ४.१७) नकारस्य पक्षे तकारागमः। एवं धीमद्भिरग्निराराध्य इति सिद्धम्।
+ ऋचोऽयमर्थः। हे अग्ने ते तव सम्बन्धिनो ये पायवः प्रसिद्धाः पालयितारो रश्मयः मामतेयं ममतायाः पुत्रं दीर्घतमसम् अन्धं पश्यन्तः रक्षणीयोऽस्माभिरित्यवगच्छन्तः दुरिताद् दुःखादन्धत्वादरक्षन्[^351]। तान् रश्मीन् सुकृतः सुखकर्तृृन् विश्ववेदाः विश्वप्रज्ञोऽग्निः ररक्ष रक्षति। अस्मत्पालनायेति भावः। तैरस्मान् रक्षतीत्यर्थः[^352] । एवं रक्षितानस्मान् दिप्सन्तः दम्भितुमिच्छन्तः रिपवः कामादयो नाह देभुः (३)। अहेति विनिग्रहार्थीयः[^353] लिटः कित्वाद् अनिदिताम्० (पा० ६।४।२४) इति नलोपः। तस्यासिद्धत्वादेवाभ्यासलोपयोरप्राप्तौ दम्भेश्व (पा० ६।४।२४ वा०) इति वक्तव्यमिति तौ विधीयेते।") (नि० ११५) न खलु दम्भितुं शक्नुवन्ति। तान्त्सुकृतो—सकारोदययोः तकारमिति (ऋ० प्रा० ४.१७) नकारस्य पक्षे तकारागमः। एवं धीमद्भिरग्निराराध्य इति सिद्धम्।
+
+[^351]: " 'रक्षन्ति स्म' इति 'ग' पुस्तके। "
+
+[^352]: "'तैरस्मानपि रक्षिष्यतीत्यर्थः 'इति वे० भा०। "
+
+[^353]: "देभुः–दम्भु दम्भे। श्रन्थिग्रन्थिदम्भिस्वञ्जीनामिति (पा० ६।४।२ वा० व्याकरणान्तरम्
 
  उक्तं च—
 
@@ -3231,7 +3935,15 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  यः कापुरुषोब्राह्मणान् द्वेष्टि ब्रह्मद्वेषं करोति सदा स दासकर्मकर्ता स्वयमेवात्मानं द्वेष्टि। तत्र त्रैतदृष्टान्तेन द्रढयति। यथा त्रैतनेन दासेन यदा दीर्घतमा हतः तदा स्वयमेवात्मा हतः। अस्मिन्नर्थे आख्यानपूर्विका ऋक्। न मा गरन्नद्यो मातृतमा० (ऋ० १. १५८. ५) इति।
 
- तत्राख्यानम्—[जराजर्जरीत](# " 'जराजर्जरित०' इति 'ग' पुस्तके।")गात्रं जात्यन्धं दीर्घतमसं मामतेयं [वरीवसितुम्](# " 'वरिवसितुम्' इति 'ग' पुस्तके।")अशक्नुवानाः [स्वगृह](http://॑ " 'स्वगर्भ०' इति 'ग' पुस्तके वे० भाष्ये च।")दासा अग्नौ दाहाय[प्रचिक्षिपुः](# "प्रदाहाय इति वे० भा०।")। स [प्रक्षिप्तोऽग्नौ](http://॑ " 'तत्र क्षिप्तोऽग्नौ' इति 'ग' पुस्तके।")अश्विनावस्तावीत्। तौ चैनमरक्षताम्। [ततोप्यम्रियमाणमुदकेषु](# " 'उदके' इति 'क' 'ग' पुस्तकयोः।")प्रापातयन्। तत्र निमग्नः पुनरश्विनौ तुष्टाव। तुष्टौ सन्तौ तौ जलादुदहार्ष्टाम्। एवमवध्यं तं त्रैतनो नाम कश्चिद्दासोऽस्य शिरोंसौ वक्षश्चाविध्यत्। [ततोप्यपालयताम्](http://॑ " ‘अपालयतम्' इति 'ग' पुस्तके। 'अपालयत' इति 'क' पुस्तके।")।
+ तत्राख्यानम्—जराजर्जरीत[^354]गात्रं जात्यन्धं दीर्घतमसं मामतेयं वरीवसितुम्[^355]अशक्नुवानाः [स्वगृह](http://॑ " 'स्वगर्भ०' इति 'ग' पुस्तके वे० भाष्ये च।")दासा अग्नौ दाहायप्रचिक्षिपुः[^356]। स [प्रक्षिप्तोऽग्नौ](http://॑ " 'तत्र क्षिप्तोऽग्नौ' इति 'ग' पुस्तके।")अश्विनावस्तावीत्। तौ चैनमरक्षताम्। ततोप्यम्रियमाणमुदकेषु[^357]प्रापातयन्। तत्र निमग्नः पुनरश्विनौ तुष्टाव। तुष्टौ सन्तौ तौ जलादुदहार्ष्टाम्। एवमवध्यं तं त्रैतनो नाम कश्चिद्दासोऽस्य शिरोंसौ वक्षश्चाविध्यत्। [ततोप्यपालयताम्](http://॑ " ‘अपालयतम्' इति 'ग' पुस्तके। 'अपालयत' इति 'क' पुस्तके।")।
+
+[^354]: " 'जराजर्जरित०' इति 'ग' पुस्तके।"
+
+[^355]: " 'वरिवसितुम्' इति 'ग' पुस्तके।"
+
+[^356]: "प्रदाहाय इति वे० भा०।"
+
+[^357]: " 'उदके' इति 'क' 'ग' पुस्तकयोः।"
 
  तथा बृहदेवता (अ० ४. लो० २१-२४)—
 
@@ -3253,8 +3965,10 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 **आततायिनमायान्तं दृष्ट्वा व्याघ्रमथो वृकम्।  
 न मा गरन्निति जपस्तेभ्य एव प्रमुच्यते॥१४१॥**
 
-**[त्रिरात्रोपोषितो](# "द्वाविमौ श्लोकौ ऋग्विधानस्थौ वेदभाष्येऽपि वर्तेते।") रात्रौ जपेदासूर्यदर्शनात्।  
+**त्रिरात्रोपोषितो[^358] रात्रौ जपेदासूर्यदर्शनात्।  
 आप्लुत्य प्रयतः सूर्यमुपतिष्ठेद्दिवाकरम्॥१४२॥**
+
+[^358]: "द्वाविमौ श्लोकौ ऋग्विधानस्थौ वेदभाष्येऽपि वर्तेते।"
 
 **पश्यन्ति तस्करा नैनं तथान्ये पापबुद्धयः।  
 एकः शतानि त्रायेत तस्करेभ्यश्चरन् पथि॥१४३॥ इति।**
@@ -3266,19 +3980,31 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  **न। मा॒। ग॒र॒न्। न॒द्यः॑। मा॒तृऽत॑माः। दा॒साः। यत्। ई॒म्। सुऽस॑मुब्धम्। अ॒व॒ऽअधुः॑। शिरः॑। यत्। अ॒स्य॒। त्रै॒त॒नः। वि॒ऽतक्ष॑त्। स्व॒यम्। दा॒सः। उरः॑। अंसौ॑। अपि॑। ग्धेति॑ग्ध॥६१॥**
 
- दीर्घतमा अश्विनौ त्रिष्टुमा तुष्टाव। नद्यो नदनशीलाः मातृतमाः मातृवज्जगतां हितकारिण्यः आपः मा मां दीर्घतमसं न गरन् न गिरेयुः। निमग्नं मा कुर्युः। गृृ निगरणे लेटि व्यत्यनेन शप्। गरणप्राप्तिं दर्शयति। यत् [यस्मात्](# "'यदा' इति 'ग' पुस्तके।") दासा अस्मदुपक्षपयितारो [मदीयगर्भदासा](# "'मदीयदासाः' इति 'क' पुस्तके।")ई इमं दीर्घतमसं मां सुसमुब्धं [सुष्ठु संकुचितसर्वाङ्गम्।](# " स्वती पूजायामिति प्रादिसमासे अव्ययपूर्वपदप्रकृतिस्वरत्वम् इति वे० भा०।") अवाधुः अवाङ्मुखमपातयन्। किञ्च अस्य मम
+ दीर्घतमा अश्विनौ त्रिष्टुमा तुष्टाव। नद्यो नदनशीलाः मातृतमाः मातृवज्जगतां हितकारिण्यः आपः मा मां दीर्घतमसं न गरन् न गिरेयुः। निमग्नं मा कुर्युः। गृृ निगरणे लेटि व्यत्यनेन शप्। गरणप्राप्तिं दर्शयति। यत् यस्मात्[^359] दासा अस्मदुपक्षपयितारो मदीयगर्भदासा[^360]ई इमं दीर्घतमसं मां सुसमुब्धं सुष्ठु संकुचितसर्वाङ्गम्।[^361] अवाधुः अवाङ्मुखमपातयन्। किञ्च अस्य मम
+
+[^359]: "'यदा' इति 'ग' पुस्तके।"
+
+[^360]: "'मदीयदासाः' इति 'क' पुस्तके।"
+
+[^361]: " स्वती पूजायामिति प्रादिसमासे अव्ययपूर्वपदप्रकृतिस्वरत्वम् इति वे० भा०।"
 
 
 
-शिरस्त्रैतनः एतन्नामको दासः अत्यन्तं निर्घृणः सन् यत् यदा [वितक्षत्](# " विविधं तष्टवान्। तस्मात् स दासः स्वयं स्वकीयमेव शिरः तक्षतु इति 'ग' पुस्तके वेदभाष्ये च।")। न केवलं शिर एव अपि तु मदीयम् उरः वक्षःस्थलम् अंसौ च ग्ध हतवान्। विदारितवानित्यर्थः। हन्तेर्लुङि छान्दसमेतद्रूपम्। ततः स्वकीयमुरः अंसावपि स्वशस्त्रेणैव तथा कृतवान्। तद्युवयोर्माहात्म्यमिति भावः। सुसमुब्धमिति अन्यपूर्वै० (ऋ. प्रा० ५.२१) इति पदादित्वेन षत्वे प्राप्ते संस्पृक् स्वृसर्० (ऋ० प्रा० ५.२४) इति निषेधान्न॥५॥
+शिरस्त्रैतनः एतन्नामको दासः अत्यन्तं निर्घृणः सन् यत् यदा वितक्षत्[^362]। न केवलं शिर एव अपि तु मदीयम् उरः वक्षःस्थलम् अंसौ च ग्ध हतवान्। विदारितवानित्यर्थः। हन्तेर्लुङि छान्दसमेतद्रूपम्। ततः स्वकीयमुरः अंसावपि स्वशस्त्रेणैव तथा कृतवान्। तद्युवयोर्माहात्म्यमिति भावः। सुसमुब्धमिति अन्यपूर्वै० (ऋ. प्रा० ५.२१) इति पदादित्वेन षत्वे प्राप्ते संस्पृक् स्वृसर्० (ऋ० प्रा० ५.२४) इति निषेधान्न॥५॥
+
+[^362]: " विविधं तष्टवान्। तस्मात् स दासः स्वयं स्वकीयमेव शिरः तक्षतु इति 'ग' पुस्तके वेदभाष्ये च।"
 
  धर्मपरस्यायुर्वर्धत इत्याह—
 
 **यो वै धर्मपरो नित्यं परं [पापान्निवर्तयेत्](http://॑ "‘निवारयेत्’ इति ‘ग’ पुस्तके।")।  
-तस्यायुर्वर्धते [नाऽऽपत्](# "'तावत्' इति 'क' पुस्तके। ")तद्द्वयं मामतेयवत्॥५५॥**
+तस्यायुर्वर्धते नाऽऽपत्[^363]तद्द्वयं मामतेयवत्॥५५॥**
 
- यो विप्रः नित्यं स्वयं धर्मपरो भवति यः परमिष्टं जनं पापान्निवारयेत्। तस्य पुंसः आयुर्वर्धते। न आपद् दुःखनाशनञ्च। तद् द्वयं मामतेयवत् ममतायाः पुत्रवत् दीर्घतमस इव भवति। यथा दीर्घतमसा [महात्रताहः](# " रात्राह्लाहः पुंसि (पा० २।४।२६) इति पुंस्त्वम्।")
+[^363]: "'तावत्' इति 'क' पुस्तके। "
+
+ यो विप्रः नित्यं स्वयं धर्मपरो भवति यः परमिष्टं जनं पापान्निवारयेत्। तस्य पुंसः आयुर्वर्धते। न आपद् दुःखनाशनञ्च। तद् द्वयं मामतेयवत् ममतायाः पुत्रवत् दीर्घतमस इव भवति। यथा दीर्घतमसा महात्रताहः[^364] इति पुंस्त्वम्।")
 कृतः। तस्माद् यज्ञधर्मपरो जातः। तथा ब्राह्मणे—'तद्वैतदहरिन्द्रोऽङ्गिरसे' प्रोवाचाङ्गिरा दीर्घतमसे (सां० आ० २।१७) इति। तेन बृहस्पतिः ज्येष्ठभ्रातृभार्यासंभोगजात् पापान्निवारितः। तस्मात्तस्य द्वयमभूत्। दीर्घायुष्ट्वं ब्राह्मणे उक्तम् (सां० आ० २।१७) 'तत उत दीर्घतमा दशपुरुषायुषाणि जिजीवेति'। न मा गरन्नित्याषन्मोक्षणं निगदितम् (ऋ० १.१५८.५) तस्माद्धर्मपरस्य परपापनिवारकस्यापन्नाशो भवति दीर्घायुष्ट्वञ्च भवतीति सिद्धम्।
+
+[^364]: " रात्राह्लाहः पुंसि (पा० २।४।२६
 
   अस्मिन्नर्थे ऋक् (ऋ० १.११८.६)
 
@@ -3291,8 +4017,16 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  दीर्घतमस्स्वात्मानमनुष्टुभा ऽश्विनोर्महानुभावत्वं ब्रवीति। तथा ब्राह्मणम्। “तद्येतदृषिराह दीर्घतमा मामतेयो जुजुर्वान् दशमे युगे इति तदेतदायुष्कामस्य शस्त्रमिति"। (सां० आ० २।१७)
 
- अयमर्थः। दीर्घतमा एतन्नामा [ऋषिः](# "'महर्षिः' इति 'ग' पुस्तके। ")स च मामतेयः ममतायाः पुत्रः। दशमे युगे [दश](# " 'दशम' इति 'ग' पुस्तके।")युगपर्यन्तं महानुभावयोरश्विनोः प्रसादात् पूर्वोक्ताद दुःखाद्विमुक्तः अत्यन्तं सुखी स्वपुत्रभार्यादिभिः सहितः जीवितवान्। दशमे युगेऽतीते सति जुजुर्वान जीर्णः वलीपलितगात्रो बभूव। एवंभूतः सन् अपाम् अपसां कर्मणाम् अर्थं प्रयोजनं यतीनां प्राप्नुवन्तीनां तासां [प्रजानां](# "'अर्थ पुरुषैरर्थ्यमानं कर्मफलं स्वर्गादिकं यतीनां प्राप्नुवन्तीनाम् अपाम् अकार्याणां प्रजानाम्' इति वे० भा०।")
-(ब्रह्मा ब्रह्मसदृशः [परिवृढो](# "'परिवृद्धः' इति 'क' पुस्तके।")भवति) किञ्च सारथिस्तन्निर्वाहको भवति देवो भवतीत्यर्थः।
+ अयमर्थः। दीर्घतमा एतन्नामा ऋषिः[^365]स च मामतेयः ममतायाः पुत्रः। दशमे युगे दश[^366]युगपर्यन्तं महानुभावयोरश्विनोः प्रसादात् पूर्वोक्ताद दुःखाद्विमुक्तः अत्यन्तं सुखी स्वपुत्रभार्यादिभिः सहितः जीवितवान्। दशमे युगेऽतीते सति जुजुर्वान जीर्णः वलीपलितगात्रो बभूव। एवंभूतः सन् अपाम् अपसां कर्मणाम् अर्थं प्रयोजनं यतीनां प्राप्नुवन्तीनां तासां प्रजानां[^367]
+(ब्रह्मा ब्रह्मसदृशः परिवृढो[^368]भवति) किञ्च सारथिस्तन्निर्वाहको भवति देवो भवतीत्यर्थः।
+
+[^365]: "'महर्षिः' इति 'ग' पुस्तके। "
+
+[^366]: " 'दशम' इति 'ग' पुस्तके।"
+
+[^367]: "'अर्थ पुरुषैरर्थ्यमानं कर्मफलं स्वर्गादिकं यतीनां प्राप्नुवन्तीनाम् अपाम् अकार्याणां प्रजानाम्' इति वे० भा०।"
+
+[^368]: "'परिवृद्धः' इति 'क' पुस्तके।"
 
  साधूनां सम्पदुपकारायेत्याह—
 
@@ -3314,7 +4048,11 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  दीर्घतमा जगत्या ऋभ्रंस्तुष्टाव। षष्ठेऽहन्यग्निमारुते विनियुक्तम्। अयं जायत इति खण्डे कतरा पूर्व्वा (ऋ० १।१८५) किमु श्रेष्ठ (ऋ० १।१६१) इति सूत्रितम (सां० श्र० सू० १०।८।१४)।
 
- ऋचोऽयमर्थः। इन्द्रो हरी एतन्नामकावश्वौ रथे युयुजे योजितवान्। हरी इन्द्रस्येति निघण्टुः (१।४)। तथाऽश्विना अश्विनौ रथं योजितवन्तौ। तथा [बृहस्पतिः](# "बृहतो मन्त्रस्य पालयिता। इति वे० भा०")एतन्नामको देवो विश्वरूपां नानारूपां गाम् उपाजत उपागमत्। स्वीकृतवानित्यर्थः। विश्वरूपा बृहस्पतेः इति (नि० १।४)। तत्र तस्मात् ऋभुर्विभ्वा वाजश्च [यूयं](# " 'त्रयो बन्धवः' इति 'ग' पुस्तके।") देवानिन्द्रादीनगच्छत। गत्वा च हे स्वपसः शोभनाश्वरथादिकर्मवन्तः यूयं यज्ञियं यज्ञार्हं भागं सोमरूपम् ऐतन प्राप्नुत। कर्मसामर्थ्येन हविर्भुजो भवतेत्यर्थः।
+ ऋचोऽयमर्थः। इन्द्रो हरी एतन्नामकावश्वौ रथे युयुजे योजितवान्। हरी इन्द्रस्येति निघण्टुः (१।४)। तथाऽश्विना अश्विनौ रथं योजितवन्तौ। तथा बृहस्पतिः[^369]एतन्नामको देवो विश्वरूपां नानारूपां गाम् उपाजत उपागमत्। स्वीकृतवानित्यर्थः। विश्वरूपा बृहस्पतेः इति (नि० १।४)। तत्र तस्मात् ऋभुर्विभ्वा वाजश्च यूयं[^370] देवानिन्द्रादीनगच्छत। गत्वा च हे स्वपसः शोभनाश्वरथादिकर्मवन्तः यूयं यज्ञियं यज्ञार्हं भागं सोमरूपम् ऐतन प्राप्नुत। कर्मसामर्थ्येन हविर्भुजो भवतेत्यर्थः।
+
+[^369]: "बृहतो मन्त्रस्य पालयिता। इति वे० भा०"
+
+[^370]: " 'त्रयो बन्धवः' इति 'ग' पुस्तके।"
 
 
 
@@ -3329,7 +4067,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
  पशुयागफलं ब्रुवन्नाह—
 
 **धन्यास्ते वैष्णवा देवान् यजन्ते पशुनाऽऽमिषम्।  
-शमितुर्नखहस्तस्थं देवेष्टं [मक्षिकाश्रितम्](# " 'मक्षिकाशितम्' इति 'ग' पुस्तके। अयमेव पाठो मन्त्रमनुसरति।")॥५७॥**
+शमितुर्नखहस्तस्थं देवेष्टं मक्षिकाश्रितम्[^371]॥५७॥**
+
+[^371]: " 'मक्षिकाशितम्' इति 'ग' पुस्तके। अयमेव पाठो मन्त्रमनुसरति।"
 
  त एव धन्या ये पशुना निरूढाग्नीषोमीयसवनीयशूलगवादिना देवान् द्योतमानान् इन्द्रादीन् यजन्ते तर्पयन्ति। कुतः। त्रिभिर्ऋणैऋणवान् जायते देवेज्यया देवानामनृणा भवन्तीति धन्यत्वम्। ब्राह्मणे तथोक्तम्। 'तद्यदुपवसथेऽग्नीषोमीयं पशुमालभते। आत्मनिष्कपणो हैवास्यैष ते वात्मानं निष्क्रीणीयानृणो भूत्वाऽथ यजते' इत्यनृणत्वमुक्तम् (कौ० ब्रा० १०।३)। त एव वैष्णवा विष्णुरूपेऽग्नौ जुह्वतीति वैष्णवाः। विष्णुरग्निरित्युक्तत्वात्। अत एव वैष्णवाः देवाः पशुना कथं हृष्टा भवन्तीत्याह—'अथ मनोतामन्वाह सर्वा ह वै देवताः पशुमालभमानमुपगच्छन्ते मम नाम ग्रहीष्यतीति ' ब्राह्मणमुक्तम् (कौ० ब्रा० १०।६)। एवं सति यदि शमितुः विशसनकर्तुः नखस्थं हस्तस्थञ्च मक्षिकाभिराश्रितं यदामिषञ्च तद्देवेष्टं भवति। तर्हि सुसंस्कृतामित्रस्य का कथा॥
 
@@ -3345,7 +4085,11 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 **वा॒। स्वरौ॑। स्वऽधि॑तौ। रि॒प्तम्। अस्ति॑। यत्। हस्त॑योः।  
 श॒मि॒तुः। यत्। न॒खेषु॑। सर्वा॑। ता। ते। अपि॑। दे॒वेषु॑। अ॒स्तु॥६४॥**
 
- अश्वमेधे अध्रिगो शमीध्वमिति परिशिष्य 'मा नो मित्र' इति (ऋ० १।१६२) विनियुक्तम् (सां० श्रौ० सू० १६।३।२२)। ऋचोऽयमर्थः। अश्वस्य तदवयवभूतस्य क्रविषः आपमांसस्य यदङ्गं मक्षिका आश अभक्षयत्। अश भोजने। यद्वा कर्मणि षष्ठी। अश्वस्य यन्मांसं भक्षयति वा। अथवा स्वरौ पश्वञ्जनकाले यद रिप्तं लिप्तं अस्ति। स्वरुणा पशुपनक्तीति श्रुतेः (तै० सं० ५।२।७।१) अथवा स्वधितौ [छेदन काले](# " छेदकालेऽवदानकाले च इति 'क' पुस्तके। ")अवदानकाले यलिप्तमस्ति शमितुर्हस्तयोः यच्च विशसनकाले तस्य नखेषु लिप्तमस्ति ता सर्वा तानि सर्वाणि हे अश्व तव सम्बन्धीनि देवेष्वस्तु देवसन्तोषणार्थाय भवन्तु। अश्व इत्युपलक्षणम्। सर्वेषु पशुष्वेव [सन्तोषाय](# "'सन्तोषार्थाय ' इत्यपि।") भवन्तु इत्यर्थः।
+ अश्वमेधे अध्रिगो शमीध्वमिति परिशिष्य 'मा नो मित्र' इति (ऋ० १।१६२) विनियुक्तम् (सां० श्रौ० सू० १६।३।२२)। ऋचोऽयमर्थः। अश्वस्य तदवयवभूतस्य क्रविषः आपमांसस्य यदङ्गं मक्षिका आश अभक्षयत्। अश भोजने। यद्वा कर्मणि षष्ठी। अश्वस्य यन्मांसं भक्षयति वा। अथवा स्वरौ पश्वञ्जनकाले यद रिप्तं लिप्तं अस्ति। स्वरुणा पशुपनक्तीति श्रुतेः (तै० सं० ५।२।७।१) अथवा स्वधितौ छेदन काले[^372]अवदानकाले यलिप्तमस्ति शमितुर्हस्तयोः यच्च विशसनकाले तस्य नखेषु लिप्तमस्ति ता सर्वा तानि सर्वाणि हे अश्व तव सम्बन्धीनि देवेष्वस्तु देवसन्तोषणार्थाय भवन्तु। अश्व इत्युपलक्षणम्। सर्वेषु पशुष्वेव सन्तोषाय[^373] भवन्तु इत्यर्थः।
+
+[^372]: " छेदकालेऽवदानकाले च इति 'क' पुस्तके। "
+
+[^373]: "'सन्तोषार्थाय ' इत्यपि।"
 
  धर्मे विलम्बो न कर्त्तव्य इत्याह—
 
@@ -3358,19 +4102,27 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  तथा बृहद्देवता (अ० ४- श्लो० ४९-५३)—
 
-**निरूप्य यद्धविश्चैन्द्रं मरुद्भयो [दातुमिच्छतः](# "निरुप्तं तद्धविश्चैन्द्रं मरुद्भयो दातुमिच्छति इति मु० बृ०")॥४९॥**
+**निरूप्य यद्धविश्चैन्द्रं मरुद्भयो दातुमिच्छतः[^374]॥४९॥**
 
-**विज्ञायावेक्ष्य तद्भावमिन्द्रो नेति [तमब्रवीत्](# "'ततोऽब्रवीत्' इति 'क' पुस्तके।") ।  
+[^374]: "निरुप्तं तद्धविश्चैन्द्रं मरुद्भयो दातुमिच्छति इति मु० बृ०"
+
+**विज्ञायावेक्ष्य तद्भावमिन्द्रो नेति तमब्रवीत्[^375] ।  
 न श्वो नाद्यतनं ह्यस्ति वेद कस्तद्यदद्भुतम्॥५०॥**
+
+[^375]: "'ततोऽब्रवीत्' इति 'क' पुस्तके।"
 
 **कस्यचित्त्वर्यसंचारे चित्तमेव विनश्यति।  
 किं न इत्यब्रवीदिन्द्रमगस्त्यो भ्रातरस्तव॥५१॥**
 
 **मरुद्भिः सम्प्रकल्पस्ववधीर्मा नः शतक्रतो।  
-किं नो [भ्रातरिति](# "किंनो भ्रातरित्येतस्यामिन्द्रोऽगस्त्यमुपालभत् इति 'क' पुस्तके। ")त्वस्यामिन्द्रो मान्यमुपालभत्॥५२॥**
+किं नो भ्रातरिति[^376]त्वस्यामिन्द्रो मान्यमुपालभत्॥५२॥**
 
-**अगस्त्यस्त्वरमित्यस्यां क्षुब्धमिन्द्रं [प्रशामयत्](# "अगस्त्यस्त्वरमत्प्रीत्या क्रुद्ध मिन्द्रं प्रसाधयन्। इति 'क' पुस्तके।")।  
+[^376]: "किंनो भ्रातरित्येतस्यामिन्द्रोऽगस्त्यमुपालभत् इति 'क' पुस्तके। "
+
+**अगस्त्यस्त्वरमित्यस्यां क्षुब्धमिन्द्रं प्रशामयत्[^377]।  
 प्रादात्संवननं कृत्वा तेभ्य एव च तद्धविः॥५३॥ इति**
+
+[^377]: "अगस्त्यस्त्वरमत्प्रीत्या क्रुद्ध मिन्द्रं प्रसाधयन्। इति 'क' पुस्तके।"
 
  बृहत्या इन्द्रोऽगस्त्यं तुष्टाव। तत्र ऋक् (ऋ० १.१७०.१)—
 
@@ -3379,7 +4131,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  **न। नू॒नम्। अस्ति॑। नो इतिं। श्वः। कः। तत्। वे॒द्॒। यत्। अद्भु॑तम्। अ॒न्यस्य॑। चि॒त्तम्। अ॒भि। स॒म्ऽ च॒रेण्य॑म्। उत॒। आऽधी॑तम्। वि। न॒श्य॒ति॒॥६५॥**
 
- परिदेवनाप्रकारः प्रतिपाद्यते। (इन्द्र आह) [अद्यतनं](# "अस्या ऋचो व्याख्यानं निरुक्ते (१/६) द्रष्टव्यम्।")यदस्ति तन्नूनमद्य नास्ति। नूनमिति विचिकित्सार्थीयः (नि० १।५।१२) विचिकित्सा नाम विवेकपूर्वोऽवधारणाभिप्रायः। अत्राद्येति यद्यपि नास्ति तथाप्युत्तरपदे श्वरिति निर्देशादद्येति गम्यते। तथा श्वोऽपि नूनं नो श्वस्तनमपि नैवास्ति। अद्य यथा अस्मभ्यं
+ परिदेवनाप्रकारः प्रतिपाद्यते। (इन्द्र आह) अद्यतनं[^378] द्रष्टव्यम्।")यदस्ति तन्नूनमद्य नास्ति। नूनमिति विचिकित्सार्थीयः (नि० १।५।१२) विचिकित्सा नाम विवेकपूर्वोऽवधारणाभिप्रायः। अत्राद्येति यद्यपि नास्ति तथाप्युत्तरपदे श्वरिति निर्देशादद्येति गम्यते। तथा श्वोऽपि नूनं नो श्वस्तनमपि नैवास्ति। अद्य यथा अस्मभ्यं
+
+[^378]: "अस्या ऋचो व्याख्यानं निरुक्ते (१/६
 
 
 
@@ -3419,27 +4173,41 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  तथा बृहद्देवता (अ० ४ श्लो० ५७-६०)—
 
-**अगस्त्यस्य ऋषेर्भार्या लोपामुद्रा [यशस्विनी।](# " 'ऋतौ स्नातामृषिर्भार्यां लोपामुद्रां यशस्विनीम्' इति मुग्धानलपुस्तके। 'अगस्त्यस्तामृषिर्भार्यां लोपामुद्रां पयस्विनीम्' इति 'क' पुस्तके।")  
+**अगस्त्यस्य ऋषेर्भार्या लोपामुद्रा यशस्विनी।[^379]  
 उपजल्पितुमारेभे रहः सम्भोगकाम्यया॥५७ ॥**
+
+[^379]: " 'ऋतौ स्नातामृषिर्भार्यां लोपामुद्रां यशस्विनीम्' इति मुग्धानलपुस्तके। 'अगस्त्यस्तामृषिर्भार्यां लोपामुद्रां पयस्विनीम्' इति 'क' पुस्तके।"
 
 **द्वाभ्यां सा त्वब्रवीदृग्भ्यां पूर्वीरिति चिकीर्षितम्।  
 रिरंसुस्तामथागस्त्य उत्तराभ्यामतोषयत्॥५८॥**
 
-**विदित्वा तपसा सर्वं तयोर्भावं [रिरंसतोः](# "'चिकीर्षतोः' इति 'ख' पुस्तके।")।  
-[न त्वेनः](# "'श्रुत्वैनः' इति मुग्धानलः। 'नत्वेतत्' इति 'क' 'ख' पुस्तकयोः।")कृतवानस्मि ब्रह्मचार्युत्तमे जगौ॥५९॥**
+**विदित्वा तपसा सर्वं तयोर्भावं रिरंसतोः[^380]।  
+न त्वेनः[^381]कृतवानस्मि ब्रह्मचार्युत्तमे जगौ॥५९॥**
 
-**[प्रशस्य तं](# " 'अशंसतां' इति 'क' 'ग' पुस्तकयोः।")परिष्वज्य गुरू [मूर्ध्न्यवजिघ्रतुः](# "'अभिजिघ्रतुः' इति 'क' 'ग' पुस्तकयोः।")।  
+[^380]: "'चिकीर्षतोः' इति 'ख' पुस्तके।"
+
+[^381]: "'श्रुत्वैनः' इति मुग्धानलः। 'नत्वेतत्' इति 'क' 'ख' पुस्तकयोः।"
+
+**प्रशस्य तं[^382]परिष्वज्य गुरू मूर्ध्न्यवजिघ्रतुः[^383]।  
 स्मित्वैनमाहतुश्चोभावनागा असि पुत्रक॥६०॥इति।**
+
+[^382]: " 'अशंसतां' इति 'क' 'ग' पुस्तकयोः।"
+
+[^383]: "'अभिजिघ्रतुः' इति 'क' 'ग' पुस्तकयोः।"
 
  द्वाभ्यां पूर्वं लोपामुद्रा ततो द्वाभ्यामगस्त्यः। ततो द्वाभ्यां ब्रह्मचार्यन्तेवासी। एवं त्रय ऋषयः। सर्वत्र रतिर्देवता। त्रैष्टुभम्। उपान्त्या बृहती।
 
 
 
- लोपामुद्राऽऽह—हे अगस्त्य अहं लोपामुद्रा पूर्वीः शरदः पुरातनान् असंख्यातान् संवत्सरान् दोषाः रात्रीः वस्तोः अहानि उपसः उषः कालांश्च तथा देहं जरयन्तीः। सर्वत्रात्यन्तसंयोगे द्वितीया। अद्यतनकालपर्यन्तं बहुसंवत्सरं कार्त्स्न्येन त्वच्छुश्रूषया शश्रमाणा श्रान्ताऽभूत्रम्। इदानीं तु जरिमा जरा तनूनामङ्गानां श्रियं सौन्दर्य मिनाति हिनस्ति। एवमपि नानुगृह्णासीत्यर्थः। अप्यूनु। अपीति संभावनायाम्। उ इत्यवधारणे। नुइति वितर्के। इदानीमपि किं सम्भावनीयम्। लोके हि पत्नीः स्वपत्नीः वृषणः सेक्तारः पुरुषाः जगम्युः गच्छेयुः सम्भोगं कुर्युः। अतो मां किमित्यवमन्यसे इदानीमपि वा संभावयेत्यर्थः। संरुद्धप्रजननस्य ब्रह्मचारिण इत्यृषिपुत्र्या विलपितं वेदयन्ते इति यास्कः (नि० ५।२)। अप्यनु—नु वा [प्लुतमिति दीर्घः](# "ऋक्प्रतिशाख्ये प्लुतविधायकं सूत्रमत्रैवं दृश्यते 'सुन्वित्यनर्यपरयोरुकारः पदम्ः' (ऋ० प्रा० ७ १७) इति।") । एवं निर्लज्जा भोगतो हीना भवेदित्युक्तम्।
+ लोपामुद्राऽऽह—हे अगस्त्य अहं लोपामुद्रा पूर्वीः शरदः पुरातनान् असंख्यातान् संवत्सरान् दोषाः रात्रीः वस्तोः अहानि उपसः उषः कालांश्च तथा देहं जरयन्तीः। सर्वत्रात्यन्तसंयोगे द्वितीया। अद्यतनकालपर्यन्तं बहुसंवत्सरं कार्त्स्न्येन त्वच्छुश्रूषया शश्रमाणा श्रान्ताऽभूत्रम्। इदानीं तु जरिमा जरा तनूनामङ्गानां श्रियं सौन्दर्य मिनाति हिनस्ति। एवमपि नानुगृह्णासीत्यर्थः। अप्यूनु। अपीति संभावनायाम्। उ इत्यवधारणे। नुइति वितर्के। इदानीमपि किं सम्भावनीयम्। लोके हि पत्नीः स्वपत्नीः वृषणः सेक्तारः पुरुषाः जगम्युः गच्छेयुः सम्भोगं कुर्युः। अतो मां किमित्यवमन्यसे इदानीमपि वा संभावयेत्यर्थः। संरुद्धप्रजननस्य ब्रह्मचारिण इत्यृषिपुत्र्या विलपितं वेदयन्ते इति यास्कः (नि० ५।२)। अप्यनु—नु वा प्लुतमिति दीर्घः[^384] इति।") । एवं निर्लज्जा भोगतो हीना भवेदित्युक्तम्।
+
+[^384]: "ऋक्प्रतिशाख्ये प्लुतविधायकं सूत्रमत्रैवं दृश्यते 'सुन्वित्यनर्यपरयोरुकारः पदम्ः' (ऋ० प्रा० ७ १७
 
 
-[पणिर्जीवन्मृत](# " 'ग' पुस्तकेऽवतरणिकेयं त्वेवम्—'केवलमात्मम्भरिर्जीवन्नपि मृत एवेत्यकार्यमपि कृत्वा देयमत्रार्थे आह' इति।")
+पणिर्जीवन्मृत[^385]
 इत्याह—
+
+[^385]: " 'ग' पुस्तकेऽवतरणिकेयं त्वेवम्—'केवलमात्मम्भरिर्जीवन्नपि मृत एवेत्यकार्यमपि कृत्वा देयमत्रार्थे आह' इति।"
 
 **मृत आत्मम्भरिर्जीवन् यः कश्चिदहविः पणिः।  
 अगस्त्योक्तादभैषज्याद्धरतोऽस्याश्विनावसून्॥६०॥**
@@ -3455,7 +4223,11 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
  **किम्। अत्र॑। द॒स्रा॒। कृ॒णु॒थः॒। किम्। आ॒सा॒थे॒ इति॑। जनः॑। यः। कः। चि॒त्। अह॑विः। म॒ही॒यते॑। अति॑। क्र॒मि॒ष्ट॒म्। जु॒रत॑म्। प॒णेः। असु॑म्। ज्योतिः॑। विप्रा॑य। कृ॒णुत॒म्। व॒च॒स्यवे॑॥६७॥**
 
- अस्या जगत्या अयमर्थः। हे दस्रा दर्शनीयावश्विनौ। अन्नं दुहन्तौ मनुष्याय दर्शनीयाविति यास्कः (नि० ६।२६) । युवां यः कश्चिज्जनः अहविः यज्ञार्थं हविर्यस्य नास्ति स। महीयते स्वात्मानं पूज्यते मह पूजायां (न युष्मान् पूजयति) स आत्मंभरिः। ततः तं जनम्अतिक्रमिष्टं [अतिक्रम्य](# "'पराभूय’ इति वे० भा०")तिष्ठतम्। अत्रास्मिन्न- हविष्के जने युवां किं कृणुथः। किं कुरुथः। हविषामभावात्तत्रैव किमासाथे किमुपविशथः। तमतिक्रम्य तिष्ठतमिति। न केवलमति- क्रमणमात्रं किन्तु पणेर्वणिग्भूतस्य लुब्धकस्य अयष्टुरस्यासुं प्राणं जुरतं अहिंसिष्टम्। अनीनशतम्। मिनोति जूर्वति धमतीति पाठात् (निघण्टु ३।१० तथा २।१४)। विप्राय मेधाविने। विप्रः विग्रः इति (निघण्टु ३।१६) तन्नामसु पाठात्। वचस्यवे यः युष्मत्- स्तुतिरूपं वचः आत्मनः इच्छति स वचस्युः तस्मै मह्यं ज्योतिर्महत्तेजः कृणुतं [कुरुतम्](# "'युष्मज्जनविषयज्ञानं कुरुतम्' इति वे० भा०") । महीयते निपातैर्यद्यदीति निषेधात् (पा० ८।१।३०) महच्छब्दादनिघातः। जुरतमिति तिङ्परत्वाच्च न। (पा० ८।१।२८) तथा भगवतोक्तम्—
+ अस्या जगत्या अयमर्थः। हे दस्रा दर्शनीयावश्विनौ। अन्नं दुहन्तौ मनुष्याय दर्शनीयाविति यास्कः (नि० ६।२६) । युवां यः कश्चिज्जनः अहविः यज्ञार्थं हविर्यस्य नास्ति स। महीयते स्वात्मानं पूज्यते मह पूजायां (न युष्मान् पूजयति) स आत्मंभरिः। ततः तं जनम्अतिक्रमिष्टं अतिक्रम्य[^386]तिष्ठतम्। अत्रास्मिन्न- हविष्के जने युवां किं कृणुथः। किं कुरुथः। हविषामभावात्तत्रैव किमासाथे किमुपविशथः। तमतिक्रम्य तिष्ठतमिति। न केवलमति- क्रमणमात्रं किन्तु पणेर्वणिग्भूतस्य लुब्धकस्य अयष्टुरस्यासुं प्राणं जुरतं अहिंसिष्टम्। अनीनशतम्। मिनोति जूर्वति धमतीति पाठात् (निघण्टु ३।१० तथा २।१४)। विप्राय मेधाविने। विप्रः विग्रः इति (निघण्टु ३।१६) तन्नामसु पाठात्। वचस्यवे यः युष्मत्- स्तुतिरूपं वचः आत्मनः इच्छति स वचस्युः तस्मै मह्यं ज्योतिर्महत्तेजः कृणुतं कुरुतम्[^387] । महीयते निपातैर्यद्यदीति निषेधात् (पा० ८।१।३०) महच्छब्दादनिघातः। जुरतमिति तिङ्परत्वाच्च न। (पा० ८।१।२८) तथा भगवतोक्तम्—
+
+[^386]: "'पराभूय’ इति वे० भा०"
+
+[^387]: "'युष्मज्जनविषयज्ञानं कुरुतम्' इति वे० भा०"
 
 
 
@@ -3475,19 +4247,29 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
   तत्र बृहद्देवता—(अ० ४ श्लो० ६६-६९)।
 
-**[संयुज्य](# " 'संयोज्य' इति 'ग' पुस्तके।")तपसात्मानमैन्द्रं बिभ्रन्महद्वपुः।  
+**संयुज्य[^388]तपसात्मानमैन्द्रं बिभ्रन्महद्वपुः।  
 अदृश्यत मुहूर्तेन दिवि च व्योम्नि चेह च॥६६॥**
 
-**तमिन्द्र इति मत्त्वा [द्वौ](# "तौ इति 'ग' पुस्तके, 'तु' इति")दैत्या भीमपराक्रमौ।  
+[^388]: " 'संयोज्य' इति 'ग' पुस्तके।"
+
+**तमिन्द्र इति मत्त्वा द्वौ[^389]दैत्या भीमपराक्रमौ।  
 धुनिश्च चुमुरिश्चोभौ सायुत्रावभिपेततुः॥६७॥**
 
-**विदित्वा स[तयोर्भावमृषिः](# " 'तु' इति 'ग' पुस्तके।") पापं चिकीर्षतोः।  
+[^389]: "तौ इति 'ग' पुस्तके, 'तु' इति"
+
+**विदित्वा सतयोर्भावमृषिः[^390] पापं चिकीर्षतोः।  
 यो जात (ऋ० २.१२) इति सूक्तेन कर्माण्यैन्द्राण्यकीर्त्तयत्॥६८॥**
 
+[^390]: " 'तु' इति 'ग' पुस्तके।"
 
 
-**उक्तेषु कर्मस्यैन्द्रेषु भीतौ [सुषुपतुस्तदा](# "भीस्तावाशु विवेश ह इति मु० बृ०")।  
-इदमन्तरमिति ज्ञात्वा ताविन्द्रोऽय [न्यबर्हयत्](# "इदमन्तरमित्युक्त्वा ताविन्द्रस्तु निवर्हयत् इति मु० पृ०। 'इतीदमन्तरमिति' इति 'ग' पुस्तके।'न्यवर्त्तयत्' इति 'क' पुस्तके।")॥६९॥ **
+
+**उक्तेषु कर्मस्यैन्द्रेषु भीतौ सुषुपतुस्तदा[^391]।  
+इदमन्तरमिति ज्ञात्वा ताविन्द्रोऽय न्यबर्हयत्[^392]॥६९॥ **
+
+[^391]: "भीस्तावाशु विवेश ह इति मु० बृ०"
+
+[^392]: "इदमन्तरमित्युक्त्वा ताविन्द्रस्तु निवर्हयत् इति मु० पृ०। 'इतीदमन्तरमिति' इति 'ग' पुस्तके।'न्यवर्त्तयत्' इति 'क' पुस्तके।"
 
  अत्रार्थे मन्त्राः।
 
@@ -3496,13 +4278,29 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 इन्द्रो॒ धुनि॑ञ्च॒ चुमु॑रिञ्च द॒म्भय॑ञ्० (ऋ०१०.११३.९)  
 स्वप्ने॑ना॒भ्युप्या॒ चुमु॑रिं॒ धुनिंञ्च० (ऋ० २.१५.९)**
 
- इत्येवमादयः। अपरे आहुः॒–पुरा किल इन्द्रादयो वैन्ययज्ञं समाजग्मुः। गृत्समदोऽपि तत्रागत्य सदस्य [आसीत्](# "सदस्यासीद्' इति वे० भा०")। दैत्याश्चेन्द्रजिघांसया तत्र समागमन्। तान् दृष्ट्वा निर्जगामेन्द्रो यज्ञाद् गृत्समदाकृतिः। स च गृत्समदो [वैन्येनपूजितो](# "वैन्यपूजितोऽथ इति 'क' पुस्तके।")यज्ञवाटान्निरगच्छत्। [निर्गच्छन्तं तं](# "'निर्गच्छन्तमृषिं दृष्ट्वा इति 'क' पुस्तके।")दृष्ट्वा अयमेवेन्द्र इति मन्यमानास्तमसुराः परिवव्रुः। नाहमिन्द्रस्तुच्छःकिन्त्वेवंगुणोपेतः स इत्यनेन सूक्तेन तान्प्रत्युवाच ॥
+ इत्येवमादयः। अपरे आहुः॒–पुरा किल इन्द्रादयो वैन्ययज्ञं समाजग्मुः। गृत्समदोऽपि तत्रागत्य सदस्य आसीत्[^393]। दैत्याश्चेन्द्रजिघांसया तत्र समागमन्। तान् दृष्ट्वा निर्जगामेन्द्रो यज्ञाद् गृत्समदाकृतिः। स च गृत्समदो वैन्येनपूजितो[^394]यज्ञवाटान्निरगच्छत्। निर्गच्छन्तं तं[^395]दृष्ट्वा अयमेवेन्द्र इति मन्यमानास्तमसुराः परिवव्रुः। नाहमिन्द्रस्तुच्छःकिन्त्वेवंगुणोपेतः स इत्यनेन सूक्तेन तान्प्रत्युवाच ॥
 
- अपरे त्वेवं कथयन्ति—[गृत्समदस्य](# " 'गृत्समदयज्ञे प्रविष्टम्'।")यज्ञे प्रविष्टमेकाकिनमिन्द्रं ज्ञात्वा असुराः परिवव्रुः। स इन्द्र गृत्समदरूपेण यज्ञवाटान्निर्गत्य स्वर्ग जगाम। ततः असुरा इन्द्रो विलम्बित इत्यन्तः प्रविश्य गृत्समदं दृष्ट्वा पूर्वमेव गृत्समदो गतः अयं त्विन्द्रोऽस्मद्भयाद् गृत्समदरूपेणास्त इति तं जगृहुः। स [तानाह](# " स तान्नाहमिन्द्रोऽ यमित्यनेन' इति वे० भा०")अयमिन्द्रोऽयमिन्द्र इति एतेन सूक्तेन तुष्टाव। अयमेवार्थो महाभारते प्रपञ्चितः (म० भा० अनु० पर्व ८।५९;४९।१९ ॥)
+[^393]: "सदस्यासीद्' इति वे० भा०"
+
+[^394]: "वैन्यपूजितोऽथ इति 'क' पुस्तके।"
+
+[^395]: "'निर्गच्छन्तमृषिं दृष्ट्वा इति 'क' पुस्तके।"
+
+ अपरे त्वेवं कथयन्ति—गृत्समदस्य[^396]यज्ञे प्रविष्टमेकाकिनमिन्द्रं ज्ञात्वा असुराः परिवव्रुः। स इन्द्र गृत्समदरूपेण यज्ञवाटान्निर्गत्य स्वर्ग जगाम। ततः असुरा इन्द्रो विलम्बित इत्यन्तः प्रविश्य गृत्समदं दृष्ट्वा पूर्वमेव गृत्समदो गतः अयं त्विन्द्रोऽस्मद्भयाद् गृत्समदरूपेणास्त इति तं जगृहुः। स तानाह[^397]अयमिन्द्रोऽयमिन्द्र इति एतेन सूक्तेन तुष्टाव। अयमेवार्थो महाभारते प्रपञ्चितः (म० भा० अनु० पर्व ८।५९;४९।१९ ॥)
+
+[^396]: " 'गृत्समदयज्ञे प्रविष्टम्'।"
+
+[^397]: " स तान्नाहमिन्द्रोऽ यमित्यनेन' इति वे० भा०"
 
 
 
- तस्मादेतत्सूक्तमिन्द्रशरीररूपं तृतीयेऽहनि ब्राह्मणे विनियुक्तम्। (कौ० व्रा० २२।४) “यो जात एव प्रथमो मनस्वानित्येतस्मिंस्त्रैष्टुभे निविदं दधाति तदेतदिन्द्रतनूः [सूक्तम्"](# "अग्रे च—" एतस्मिन् ह गृत्समदो वाभ्रवो निविदं दधदिन्द्रस्य प्रियं धामोपजगाम" इत्यादि")इति। 'अहं भुवं यो जात इति निष्केवल्यम्' (सां० श्रौ० सू० १०।४।११) ब्राह्मणसूत्रयोर्महाव्रते। 'या त ऊतीयं च सजनीयञ्च' इति (सां० आ० २।१६)[तथा](# "शाङ्खायनारण्यके त्वेवं प्रोक्तमिदम्—'या त ऊतीयं च बार्हतराथन्तरबृहद्रथन्तरे हि पुरस्तात्कृते भवतः सजनीयं च' इत्यादि (२।१६)") (सां० श्रौ० सू० १८/१९/३-४)। ऋग्विधाने—यो जात इति सूक्तं तु ऋषिं गृत्समदं [स्मरन्निति](# "यो जात इति सूक्तेन ऋषि गृत्समदं स्मरन्॥ शतकृत्वो जपेदिन्द्रमिन्द्र श्रेष्ठानि चान्ततः ॥१५६॥ प्रियो भवति चेन्द्रस्य प्रियं धाम स गच्छति॥ रिपुघ्नं दस्युशमनं रायस्पोषकरं परम्॥१६२॥")(लो० ११९)।
+ तस्मादेतत्सूक्तमिन्द्रशरीररूपं तृतीयेऽहनि ब्राह्मणे विनियुक्तम्। (कौ० व्रा० २२।४) “यो जात एव प्रथमो मनस्वानित्येतस्मिंस्त्रैष्टुभे निविदं दधाति तदेतदिन्द्रतनूः सूक्तम्"[^398]इति। 'अहं भुवं यो जात इति निष्केवल्यम्' (सां० श्रौ० सू० १०।४।११) ब्राह्मणसूत्रयोर्महाव्रते। 'या त ऊतीयं च सजनीयञ्च' इति (सां० आ० २।१६)तथा[^399]") (सां० श्रौ० सू० १८/१९/३-४)। ऋग्विधाने—यो जात इति सूक्तं तु ऋषिं गृत्समदं स्मरन्निति[^400](लो० ११९)।
+
+[^398]: "अग्रे च—" एतस्मिन् ह गृत्समदो वाभ्रवो निविदं दधदिन्द्रस्य प्रियं धामोपजगाम" इत्यादि"
+
+[^399]: "शाङ्खायनारण्यके त्वेवं प्रोक्तमिदम्—'या त ऊतीयं च बार्हतराथन्तरबृहद्रथन्तरे हि पुरस्तात्कृते भवतः सजनीयं च' इत्यादि (२।१६
+
+[^400]: "यो जात इति सूक्तेन ऋषि गृत्समदं स्मरन्॥ शतकृत्वो जपेदिन्द्रमिन्द्र श्रेष्ठानि चान्ततः ॥१५६॥ प्रियो भवति चेन्द्रस्य प्रियं धाम स गच्छति॥ रिपुघ्नं दस्युशमनं रायस्पोषकरं परम्॥१६२॥"
 
   गृत्समदस्त्रिष्टुभा असुरान्प्रति अस्तोदिन्द्रम्। तत्र ऋक् (ऋ०२.१२.१)—
 
@@ -4662,7 +5460,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 ऋषेः पुत्रः स्वयमृषिः पिताऽसि [भगवन्नृषेः](http://॑ "'भगवानृषेः' इति वे० भा०।")॥७८॥**
 
 **हन्त प्रतिगृहाणेमां [स्नुषामित्येवमब्रवीत्](http://॑ "'मित्येनमब्रवीत्' इति वे० भा०।")।  
-(१०) [पाद्यार्ध्यमधुपर्कैश्च](# "एतत् सन्दर्भमाश्रित्य अतः परमपि षट् श्लोका वेदार्थदीपिकायां दृश्यन्ते। तेषां त्रय एवात्रोपरिष्टादुद्धृताः। अपरे च सूक्तार्थं विशदीकुर्वन्तीति मूलत एव विद्वद्भिर्विलोकनीयाः।  वेदभाष्येतु—  'तस्मै ददावश्वशतं स राजा स्वलङ्कृतां चापि सुतां स्नुषार्थम्। विवाहकालेऽपि ददौ नरेन्द्रः शतं हयानां दुहितुः सहस्रम्॥ गवां सहस्रं वसु च प्रभूतं तप्तुं तपोऽन्तेऽथ वनं जगाम।  तथा चान्यत्र—  कन्यां दत्वा कृतार्थं तं श्यावाश्वोऽथ वनं गतम्। रथवीतिमपश्यन्तं सप्रेक्ष्यार्षेन चक्षुषा। इत्यादि।") पूजयित्वा स्वयं नृपः॥७९॥**
+(१०) पाद्यार्ध्यमधुपर्कैश्च[^401] पूजयित्वा स्वयं नृपः॥७९॥**
+
+[^401]: "एतत् सन्दर्भमाश्रित्य अतः परमपि षट् श्लोका वेदार्थदीपिकायां दृश्यन्ते। तेषां त्रय एवात्रोपरिष्टादुद्धृताः। अपरे च सूक्तार्थं विशदीकुर्वन्तीति मूलत एव विद्वद्भिर्विलोकनीयाः।  वेदभाष्येतु—  'तस्मै ददावश्वशतं स राजा स्वलङ्कृतां चापि सुतां स्नुषार्थम्। विवाहकालेऽपि ददौ नरेन्द्रः शतं हयानां दुहितुः सहस्रम्॥ गवां सहस्रं वसु च प्रभूतं तप्तुं तपोऽन्तेऽथ वनं जगाम।  तथा चान्यत्र—  कन्यां दत्वा कृतार्थं तं श्यावाश्वोऽथ वनं गतम्। रथवीतिमपश्यन्तं सप्रेक्ष्यार्षेन चक्षुषा। इत्यादि।"
 
 
 
@@ -5135,7 +5935,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 
 
- [अत्राख्यानम्](# " 'अत्रोक्तम्' इति वे० भा०।")—
+ अत्राख्यानम्[^402]—
+
+[^402]: " 'अत्रोक्तम्' इति वे० भा०।"
 
 **अरण्ये निर्जने गर्गो देवान् भूमिं बृहस्पतिम्।  
 इन्द्रं चास्तौत् स्वरक्षार्थमृचा मार्गच्युतोऽनया॥१॥**
@@ -5813,7 +6615,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 
 
-'[उर्वश्यप्सरा](# "'उर्वश्यप्सरा उर्वभ्यश्नुत उरुभ्यामश्नुत उरुर्वा वशोऽस्याः। अप्सरा अप्सारिण्यपि वाऽप्स इति रूपनामाप्सातेरप्सानीयं भवत्यादर्शनीयं व्यापनीयं वा स्पष्टं दर्शनायेति शाकपूणिः। यदप्स इत्यभक्षस्य। अप्सो नामेति व्यापिनः। तद्रा भवति रूपवती तदनयात्तमिति वा तदस्यै दत्तमिति वा इति सम्पूर्ण निरुक्तवचनम् (नि० ५।१३)।")० ' इत्यादि (नि० ५.१३) तस्या दर्शनान्मित्रावरुणयो रेतश्चस्कन्द (नि० ५।१४) इति यास्कः। 'मित्रावरुणयोर्दीक्षितयोरुर्वशीमप्सरसं [दृष्ट्वा’](http://॑ "'दृष्ट्वा वासतीवरे कुम्भे रेतोऽपतत्ततोऽगस्त्यवसिष्ठावजायेताम्' इत्यवशिष्टो भागः।")(का०स०ऋ० १.१६६) इत्यानुक्रमणी। एवं वसिष्ठस्य कुम्भयोनित्वम्।
+'उर्वश्यप्सरा[^403]।")० ' इत्यादि (नि० ५.१३) तस्या दर्शनान्मित्रावरुणयो रेतश्चस्कन्द (नि० ५।१४) इति यास्कः। 'मित्रावरुणयोर्दीक्षितयोरुर्वशीमप्सरसं [दृष्ट्वा’](http://॑ "'दृष्ट्वा वासतीवरे कुम्भे रेतोऽपतत्ततोऽगस्त्यवसिष्ठावजायेताम्' इत्यवशिष्टो भागः।")(का०स०ऋ० १.१६६) इत्यानुक्रमणी। एवं वसिष्ठस्य कुम्भयोनित्वम्।
+
+[^403]: "'उर्वश्यप्सरा उर्वभ्यश्नुत उरुभ्यामश्नुत उरुर्वा वशोऽस्याः। अप्सरा अप्सारिण्यपि वाऽप्स इति रूपनामाप्सातेरप्सानीयं भवत्यादर्शनीयं व्यापनीयं वा स्पष्टं दर्शनायेति शाकपूणिः। यदप्स इत्यभक्षस्य। अप्सो नामेति व्यापिनः। तद्रा भवति रूपवती तदनयात्तमिति वा तदस्यै दत्तमिति वा इति सम्पूर्ण निरुक्तवचनम् (नि० ५।१३
 
  वसिष्ठः पूर्वोक्तया त्रिष्टुभा यातुधानत्वं परिहरति। ऋचोऽयमर्थः। यो दुर्जनः मा माम् अयातुम् अयातुधानम् अराक्षसं सन्तंहे यातुधान हे राक्षस इत्याह ब्रूते। वा अथवा यो दुष्टो रक्षाः सन्अहं वसिष्ठः [शुचिरस्मि](http://॑ " 'शुद्धो भवामि न राक्षसोऽस्मि' इति वे० भा०।")इत्याह ब्रूते [तम](http://॑ "'तमुभयविधं राक्षसं' इति वे० भा०।")इन्द्रो देवः [महता](http://॑ " 'महता प्रौढेन वधेनायुधेन' इति वे० भा०।")वधेन वज्रेण। सृकः वृकः वधः इति तन्नाम (निघण्टु-२।२०)। हन्तु हिनस्तु स च विश्वस्य सर्वस्य जन्तोः जनस्य अधमो निकृष्टः सन् पदीष्ट पततु। अधमस्पदीष्ट इति 'दिवस्पृथिव्या अधमस्पदीष्ट०' (ऋ० प्रा० ४।५७) इति निपातनात् सत्वम्। तथा स्मृतिः—
 
@@ -7700,7 +8504,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 विश्व॑म्। भुव॑नम्। स्वं १॒ रिति॑ स्वः। च॒। ए॒तत्।  
 सर्व॑म्। दक्षि॑णा। ए॒भ्यः॒। द॒दा॒ति॒॥१७८॥**
 
- दिव्य ऋषिर्दातॄन भोजांस्त्रिष्टुभा [तुष्टाव](# "तत्रानुक्रमणी (का० स० ऋ० १०।१०७) आविर्दिव्यो दक्षिणा वा प्राजापत्या दक्षिणां तद्दातृृन्वाऽस्तौच्चतुर्थी जगती’इति।   अत्रानुक्रमणीवृत्तिः — 'दिव्यो नामाङ्गिरस ऋषिः। दक्षिणा नाम प्रजापतेः सुता वर्षिका। दक्षिणां यजमानैर्ऋत्विग्भ्यो दीयमानां तद्दातॄन् यजमानान् वाऽस्तौद्याजकादित्वात्। 'तृजकाभ्यां कर्तरि ' ( पा० २।२।१५ ) इति न षष्ठीसमासप्रतिषेधः' इति।   तत्र बृहद्देवता —(अ० ८ श्लो० २२-२३;)  सुक्तेन तु परेणात्र स्वयमाविरभूदिति। आत्मानमेव तुष्टाव प्राजापत्याऽथ दक्षिणा॥२२॥  दातॄनत्रस्तुतानेके दक्षिणानां वदन्ति तु। दातृत्वाद्दक्षिणानाञ्च भोजाश्चतसृभिः स्तुताः॥२३॥")।
+ दिव्य ऋषिर्दातॄन भोजांस्त्रिष्टुभा तुष्टाव[^404] आविर्दिव्यो दक्षिणा वा प्राजापत्या दक्षिणां तद्दातृृन्वाऽस्तौच्चतुर्थी जगती’इति।   अत्रानुक्रमणीवृत्तिः — 'दिव्यो नामाङ्गिरस ऋषिः। दक्षिणा नाम प्रजापतेः सुता वर्षिका। दक्षिणां यजमानैर्ऋत्विग्भ्यो दीयमानां तद्दातॄन् यजमानान् वाऽस्तौद्याजकादित्वात्। 'तृजकाभ्यां कर्तरि ' ( पा० २।२।१५ ) इति न षष्ठीसमासप्रतिषेधः' इति।   तत्र बृहद्देवता —(अ० ८ श्लो० २२-२३;)  सुक्तेन तु परेणात्र स्वयमाविरभूदिति। आत्मानमेव तुष्टाव प्राजापत्याऽथ दक्षिणा॥२२॥  दातॄनत्रस्तुतानेके दक्षिणानां वदन्ति तु। दातृत्वाद्दक्षिणानाञ्च भोजाश्चतसृभिः स्तुताः॥२३॥")।
+
+[^404]: "तत्रानुक्रमणी (का० स० ऋ० १०।१०७
 
   ऋचोऽयमर्थः। भोजा भोजयितारः (धनादिदानेन) दातारः। 'भो॒जं दा॒तारमब्रवम् (ऋ० ८।३।२४) इत्युक्तत्वात्। न मम्रुःमृता अपि कीर्त्यादिभिर्न [म्रियन्ते](http://॑ "'देवत्वं भजन्त इत्यर्थः' इति वे० भा०।")। अत एव [न्यर्थम्](http://॑ "ऋगस्तौ— उषिकुषिगार्तिभ्यः स्थन् ( उ० १६१ ) इति स्थन् प्रत्ययः। थाथघञ्क्ता० ( पा० ६।२।१४४ ) इत्यादिना समास थोथादिस्वरोऽन्तोदात्तः।")निकृष्टोऽर्थो न्यर्थः। निकृष्टां गतिं [नेयुः](http://॑ "इण् गतौ— लिटि 'दीर्घ इणः किति' ( पो० ७।४ ।६६ ) इति दीर्घः।")न प्राप्नुवन्ति। तथा
 
@@ -7849,7 +8655,9 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 **यस्याः शिरिम्बिठोऽलक्ष्म्या नाशं चकार यः पुरा।  
 तमानम्येति वोचेऽहं तस्या नाशोऽस्तु मे कुले॥१६१॥**
 
- तथा [ऋग्विधानम्](# "अत्र ऋग्विधानगतश्लोकानामाद्यान्त्यार्धावेवाह। पूर्णश्लोकास्त्वेवम्—  अलक्ष्मीनाशनार्थं तु जपेन्नित्यं शिरिम्बिठम्। अपामार्गमयीं शाखां सदर्भां सवीरुधैः॥ (६६७)॥ गृहीत्वाऽऽत्मानं पावयेदधश्चोर्ध्वञ्च नित्यशः। आज्यं वाऽनेन जुहुयात् सहस्रं दशतीर्दश। त्र्यहेण नुदते देहादलक्ष्मीं शतवार्षिकीम्॥ (६६८)॥ चान्द्रायणं चरन्नेतत् सूक्तं सिद्धिकरं जपेत्। अलक्ष्मीर्नुदते देहादपि वर्षसहस्रिकी॥ (६६९)॥") ( २ )—
+ तथा ऋग्विधानम्[^405]॥ गृहीत्वाऽऽत्मानं पावयेदधश्चोर्ध्वञ्च नित्यशः। आज्यं वाऽनेन जुहुयात् सहस्रं दशतीर्दश। त्र्यहेण नुदते देहादलक्ष्मीं शतवार्षिकीम्॥ (६६८)॥ चान्द्रायणं चरन्नेतत् सूक्तं सिद्धिकरं जपेत्। अलक्ष्मीर्नुदते देहादपि वर्षसहस्रिकी॥ (६६९)॥") ( २ )—
+
+[^405]: "अत्र ऋग्विधानगतश्लोकानामाद्यान्त्यार्धावेवाह। पूर्णश्लोकास्त्वेवम्—  अलक्ष्मीनाशनार्थं तु जपेन्नित्यं शिरिम्बिठम्। अपामार्गमयीं शाखां सदर्भां सवीरुधैः॥ (६६७
 
 **अलक्ष्मीनाशनार्थंतु जपेन्नित्यं शिरिम्बिठिम् (६६७)।  
 अलक्ष्मीं नुदते देहादपि वर्षसहस्रकीम् (६६९)॥**
@@ -8448,3 +9256,414 @@ Its division is based on the division of the Samhitā. text and the Ṛeas quote
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^27]: "In Keith's opinion the reference to Samagrhya on p. 119 of this book belongs to Gobhila Grhya III. 5. 3."

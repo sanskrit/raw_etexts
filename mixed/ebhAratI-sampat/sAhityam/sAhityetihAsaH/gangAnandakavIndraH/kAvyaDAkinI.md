@@ -53,10 +53,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI1MTc0Mjc2OTA
 
   Apart from the work, herewith published, the following works are also attributed to the same author:
 
-(1) [Karṇabhūsaṇa](# " This book was edited in the Kāvyamālā,no.79,by P. Bhavadatta and Mr. Parab in 1902. The work is said by the author to have been undertaken at the instance of his patron.")(on *Ram*),  
-(2) [Bhrngaduta](# "Cf Aufrecht, Cat. Cat., Vol. Ill, p. 30.") (a poem), and  
-(3) [Mandaraman^(v)jari](# "Beferred to in the Kavyadakini, p. 44. This work is to be distinguished from another work of the same name, attributed to Vis'ves'vara Sūri.")
+(1) Karṇabhūsaṇa[^1](on *Ram*),  
+(2) Bhrngaduta[^2] (a poem), and  
+(3) Mandaraman^(v)jari[^3]
 (a drama).
+
+[^1]: " This book was edited in the Kāvyamālā,no.79,by P. Bhavadatta and Mr. Parab in 1902. The work is said by the author to have been undertaken at the instance of his patron."
+
+[^2]: "Cf Aufrecht, Cat. Cat., Vol. Ill, p. 30."
+
+[^3]: "Beferred to in the Kavyadakini, p. 44. This work is to be distinguished from another work of the same name, attributed to Vis'ves'vara Sūri."
 
   The present edition of *Kavyadakinī* is based on a single Ms., belonging originally to P. Mukunda S'āstri and now obtained for the Government Sanskrit Library, Sarasvati Bhavana, Benares. Leaves, 1-29. Size, 9-6^(n) x 3.6" inches. Lines 10 in a page, and letters 40 in a line. Material, country-made paper. Script, Nāgari, Date, Saṃvat 1748 (=1691 A.D). Transcribed by Mahādeva (Puntamkar).Generally correct. The colophon at the end of the Ms runs thus: **वसु श्रीजनिद्वीपभूमिमितेब्दे१७४८ द्वितीया दिने पौष मासस्य कृष्णे।शुभे माथुरेमण्डले रम्यलोक महादेवनामाऽलिखद् ग्रन्थमेतम्। श्रीमहासिद्धेश्वर्य्यैनमः।**
 
@@ -643,8 +649,10 @@ Jagannath Sastri Hoshing
 
   समासे यथा—
 
-**[मोछाहेउत्तणमिह जुज्जइविलसोअरम्मि चंदम्मि।  
-सिरिहंडरण्णवन्धू त्तंसि कहं पवण! तावेसि॥](# "मूर्छाहेतुत्वमिह युज्यते विषसोदरे चन्द्रे। श्रीखण्डाऽरण्यबन्धुस्त्वमसि, कथं पवन! तापयसि॥ इतिच्छाया। (संशोधकः)")**
+**मोछाहेउत्तणमिह जुज्जइविलसोअरम्मि चंदम्मि।  
+सिरिहंडरण्णवन्धू त्तंसि कहं पवण! तावेसि॥[^4]")**
+
+[^4]: "मूर्छाहेतुत्वमिह युज्यते विषसोदरे चन्द्रे। श्रीखण्डाऽरण्यबन्धुस्त्वमसि, कथं पवन! तापयसि॥ इतिच्छाया। (संशोधकः
 
   अत्र सोदरे विषसम्बन्धो बन्धौश्रीखण्डारण्यसम्बन्धश्च मूर्छातापाभावौ प्रति हेतुतयाऽभिमतौ। तच्च तयोः समासे गुणीभावादनुपपन्नम्। यद्यपि पददोषोऽयं, तथाऽपि पदद्वये वर्तत इति वाक्पदोषप्रस्तावेप्रोक्तः। एवं समासान्तरेऽप्यूह्यम्।
 
@@ -820,8 +828,10 @@ Jagannath Sastri Hoshing
 
   अत्र 'अभवदिहाऽद्य त्वद्दृष्ट्यध्वनः' इति दुरुच्चारत्वादश्रव्यम्।
 
-**[उअह सरवरे रेहइ अरुणअरच्छित्तपोम्ममिह सव्वं।  
-मित्तविओउज्जाअसोणं णअणं व भिसिणीणं॥](# "पश्यथ सरोवरे राजते अरुणकरक्षिप्तपद्ममिह सर्वम्। मित्रवियोगोज्ज्वालशोणं नयनं व विसिनीनाम्॥? इतिच्छाया (संशोधकः)")**
+**उअह सरवरे रेहइ अरुणअरच्छित्तपोम्ममिह सव्वं।  
+मित्तविओउज्जाअसोणं णअणं व भिसिणीणं॥[^5]")**
+
+[^5]: "पश्यथ सरोवरे राजते अरुणकरक्षिप्तपद्ममिह सर्वम्। मित्रवियोगोज्ज्वालशोणं नयनं व विसिनीनाम्॥? इतिच्छाया (संशोधकः
 
   अत्र प्रथमार्धेद्वितीयतृतीयौ सगणभगणौनायकाद्यमङ्गलसूचकौ। पादान्ताऽप्राप्तगुरुत्वलघु द्विधा, विषमपादचतुर्थपादान्तभेदात्।
 
@@ -1720,8 +1730,10 @@ Jagannath Sastri Hoshing
 **फुल्लाइं ताइं रमणिज्जअराइं दाणिं  
 मल्लीतरुण (?)मह चित्तपिआइं होंति।**
 
-**[रुएहि दुद्धदहिभत्तमणोहरेहि  
-कुंजाइंजाइं सहसा धवलीकुणंति॥](# "पुष्पाणि तानि रमणीयतराणीदानीं मल्लीतरूणां मम चित्तप्रियाणि भवन्ति। रूपे र्दुग्धदधिभक्तमनोहरैः कुञ्जानि यानि सहसां धवलाकुर्वन्ति॥  इतिच्छाया [ संशोधकः ]")**
+**रुएहि दुद्धदहिभत्तमणोहरेहि  
+कुंजाइंजाइं सहसा धवलीकुणंति॥[^6]**
+
+[^6]: "पुष्पाणि तानि रमणीयतराणीदानीं मल्लीतरूणां मम चित्तप्रियाणि भवन्ति। रूपे र्दुग्धदधिभक्तमनोहरैः कुञ्जानि यानि सहसां धवलाकुर्वन्ति॥  इतिच्छाया [ संशोधकः ]"
 
 अत्र विदूषकस्योक्तौ दुग्धादिशब्दो ग्राम्यः।
 
@@ -1931,3 +1943,9 @@ Jagannath Sastri Hoshing
 
 
 \]
+
+
+
+
+
+

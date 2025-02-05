@@ -4950,7 +4950,9 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 
 
 
- Duryodhana caused camp-pavilions to be built for honouring him. At the time when the overjoyed Salya was desiring to give even his life, Duryodhana, who was hiding there, showed himself to his [uncle](# "Salya, king of the Madras, and brother of Madri, was the maternal uncle of the Pandavas and thus, indirectly, of Duryodhana also."); embracing him, Səlya, who was pleased, said: “Ask what you desire.”
+ Duryodhana caused camp-pavilions to be built for honouring him. At the time when the overjoyed Salya was desiring to give even his life, Duryodhana, who was hiding there, showed himself to his uncle[^1]; embracing him, Səlya, who was pleased, said: “Ask what you desire.”
+
+[^1]: "Salya, king of the Madras, and brother of Madri, was the maternal uncle of the Pandavas and thus, indirectly, of Duryodhana also."
 
 **दुर्योधनः—**
 
@@ -4971,7 +4973,9 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 **इतश्चेतच पाण्डूनां समाजग्मुर्महात्मनाम्।  
 अक्षौहिण्यस्तु सप्तैव विविधध्वजसकुलाः॥**
 
- There came to the great Pandavas from every quarter seven [Akshauhinis](# "An Aksisuhtnl 1s an unit of army consisting of 21,870 elephants, 21,870 charlots, 65,610 horse and 1,09,850 foot.")of armies, thick with manifold banners.
+ There came to the great Pandavas from every quarter seven Akshauhinis[^2]of armies, thick with manifold banners.
+
+[^2]: "An Aksisuhtnl 1s an unit of army consisting of 21,870 elephants, 21,870 charlots, 65,610 horse and 1,09,850 foot."
 
 **कृतवर्मा च हार्दिक्यो दर्योधनमुपागमत्॥**
 
@@ -6375,8 +6379,10 @@ apparent cause (of thedestruction of these warriors).
 
 **Arjuna said to Krishna—**
 
-  [I stand here with all my doubts cleared; I will do what you say.”](# "For the full discourse of Lord Sri Krishna, see THE BHAGAVAD GITA with the Text in Devanagari and English Translation by Dr. Besant.Pocket Edition. As. 4. G. A. Natesan & Co., Madras.")
+  I stand here with all my doubts cleared; I will do what you say.”[^3]
 
+
+[^3]: "For the full discourse of Lord Sri Krishna, see THE BHAGAVAD GITA with the Text in Devanagari and English Translation by Dr. Besant.Pocket Edition. As. 4. G. A. Natesan & Co., Madras."
 
 
 **ततो धनञ्जयं दृष्ट्वा बाणगाण्डीवधारिणम्।  
@@ -6460,8 +6466,10 @@ apparent cause (of thedestruction of these warriors).
 
  Then Yudhisthira said aloud in the midst of the army: “I seek for my aid him who chooses to join us.”
 
-**[ततो युयुत्सुः कौरव्यान् परित्यज्य सुतांस्तव](# "The account of the battle in the Epic is given as narrated by Sanjaya to the blind Dhritarashtra, who is addressed here and in the subsequent passages in the second person. These addresses are omitted in the Translation or given in the third person.")।  
+**ततो युयुत्सुः कौरव्यान् परित्यज्य सुतांस्तव[^4]।  
 जगाम पाण्डुपुत्राणां सेनां विश्राव्य दुन्दुभिम्॥**
+
+[^4]: "The account of the battle in the Epic is given as narrated by Sanjaya to the blind Dhritarashtra, who is addressed here and in the subsequent passages in the second person. These addresses are omitted in the Translation or given in the third person."
 
  Then, leaving the sons of Dhritarashtra, the Kauravas, Yuyutsu went over to the army of the Pandavas after sounding the drum.
 
@@ -8450,7 +8458,9 @@ sweet-speech, not hurting and freedom from envy—the sum-total of all these is 
 
 
 
-mercifulness, non-injury-theseare the[thirteen](# "Though 13 is the number expressly mentioned twice, there are 14 enumerated.") forms of Truthfulness.
+mercifulness, non-injury-theseare thethirteen[^5] forms of Truthfulness.
+
+[^5]: "Though 13 is the number expressly mentioned twice, there are 14 enumerated."
 
 **यच्च कामसुखं लोके यच्च दिव्यं महत्सुखम्।  
 तृष्णाक्षयसुखस्यैते नार्हतः षोडशीं कलाम्॥**
@@ -8892,7 +8902,9 @@ for all time, let this dead child born of Abhimanyu come to life.’ As soon as 
 **त्रियोजने व्यतीते तु परिष्वज्य च पाण्डवान्।  
 विसृज्य कृष्णस्तान्सर्वान्प्रणतान्द्वारकां ययौ॥**
 
- When they had crossed three [yojanas](# " A yojana is about nine miles."), Krishna embraced the Pandavas, gave leave to all of them who had bowed to Him, and went to Dvaraka.
+ When they had crossed three yojanas[^6], Krishna embraced the Pandavas, gave leave to all of them who had bowed to Him, and went to Dvaraka.
+
+[^6]: " A yojana is about nine miles."
 
 
 
@@ -10745,3 +10757,9 @@ Foreign Sah. Postage 9d.
 
 
 \]
+
+
+
+
+
+

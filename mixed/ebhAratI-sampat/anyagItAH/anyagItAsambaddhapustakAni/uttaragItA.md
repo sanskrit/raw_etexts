@@ -96,7 +96,9 @@ ARJUNA, after the successful issue of the battle of Kuru-Kṣetra, amidst the pl
 
 **ARJUNA ASKED:**
 
- 1, 2 & 3. O [Keśava](# "Keśava means the manifested Logos, the union of Viṣņu, Brahmā and Maheśvara, or the combined Sattva, Rajas, and Tamas Gunas. The word“Keśava"), tell me the knowledge of that Brahman that is One, and without its like and rival, without Upādhi (attributes), beyond the Ākāśa, source of all purity, that which cannot be approached by argument, or reached by conception, the unknowable and the unknown, and that which is absolutely free from births and deaths. O Keśava, impart to me the knowledge of that which is Absolute, the only abode of Eternal Peace and Purity, the Instrumental (Nimitta) and Material (Upādāna) cause of the Universe, though itself causeless and free from all connection. Tell me, O Keśava, the knowledge of that which dwells in every heart, and
+ 1, 2 & 3. O Keśava[^1], tell me the knowledge of that Brahman that is One, and without its like and rival, without Upādhi (attributes), beyond the Ākāśa, source of all purity, that which cannot be approached by argument, or reached by conception, the unknowable and the unknown, and that which is absolutely free from births and deaths. O Keśava, impart to me the knowledge of that which is Absolute, the only abode of Eternal Peace and Purity, the Instrumental (Nimitta) and Material (Upādāna) cause of the Universe, though itself causeless and free from all connection. Tell me, O Keśava, the knowledge of that which dwells in every heart, and
+
+[^1]: "Keśava means the manifested Logos, the union of Viṣņu, Brahmā and Maheśvara, or the combined Sattva, Rajas, and Tamas Gunas. The word“Keśava"
 
 
 
@@ -148,13 +150,17 @@ the vowel a at the end of the syllable *Ka* is the conscious manifestation of M�
 
 
 
-Ākāśa, think of nothing else— as moon, stars, etc.—in the [sky](# "This is the Nirvikalpa Samādhi-the subjective concentration of the mind, in which both the mind and life-breath become still like a flame without air.").
+Ākāśa, think of nothing else— as moon, stars, etc.—in the sky[^2].
+
+[^2]: "This is the Nirvikalpa Samādhi-the subjective concentration of the mind, in which both the mind and life-breath become still like a flame without air."
 
 **स्थिरबुद्धिरसंमूढो ब्रह्मविद्ब्रह्मणि स्थितः।  
 बहिर्व्योमस्थितं नित्यं नासाग्रे च व्यवस्थितम्।  
 निष्कलं तं विजानीयाच्छ्वासो यत्र लयं गतः॥१०॥**
 
-  10. Such a seeker of Brahman, after fixinghis mind as aforesaid, and shutting himself out of all objective knowledge (Ajñāna), should hold fast the support of unchangeable Jñāna, and think of the One Indivisible Brahman in the inner and outer Ākāśa, that exists at the end of the nose, and into which the life-breath [merges](# "There are two well-known processes of practising Yoga: viz., to concentrate the mind (a) at the point where the nose ends, and (b) where the root of the nose begins. The result in both cases is the same as are the further processes of practice, but in either case the instruction of a Guru is necessary, otherwise it is absolutely impossible to succeed.").
+  10. Such a seeker of Brahman, after fixinghis mind as aforesaid, and shutting himself out of all objective knowledge (Ajñāna), should hold fast the support of unchangeable Jñāna, and think of the One Indivisible Brahman in the inner and outer Ākāśa, that exists at the end of the nose, and into which the life-breath merges[^3] at the point where the nose ends, and (b) where the root of the nose begins. The result in both cases is the same as are the further processes of practice, but in either case the instruction of a Guru is necessary, otherwise it is absolutely impossible to succeed.").
+
+[^3]: "There are two well-known processes of practising Yoga: viz., to concentrate the mind (a
 
 **पुटद्वयविनिर्मुक्तो वायुर्यत्र विलीयते।  
 तत्र संस्थं मनः कृत्वा तं ध्यायेत्पार्थ ईश्वरम्॥११॥**
@@ -164,7 +170,9 @@ the vowel a at the end of the syllable *Ka* is the conscious manifestation of M�
 
 
 
-heart) fix thy mind, O [Pārtha](# "Another name of Arjuna."),and meditate upon the All-Supreme Īśvara.
+heart) fix thy mind, O Pārtha[^4],and meditate upon the All-Supreme Īśvara.
+
+[^4]: "Another name of Arjuna."
 
 **निर्मलं तं विजानीयात्षडूर्मिरहितं शिवम्।  
 प्रभाशून्यं मनःशून्यं बुद्धिशून्यं निरामयम्॥१२॥**
@@ -467,7 +475,9 @@ ARJUNA ASKED:
 
 ŚRĪ BHAGAVĀN SAID:
 
- 51. The Yogīs see the Ātman within (them this they do) when they shut out all their external senses (not by any physical action); for such a person when he leaves his body, his [Buddhi](# "Students must distinguish between the Vedantic use of this term and the significance assigned to it in the Esoteric Philosophy.") (i.e., material intelligence) dies away, and with the death of his Buddhi his ignorance also dies away (i.e., he becomes spiritual).
+ 51. The Yogīs see the Ātman within (them this they do) when they shut out all their external senses (not by any physical action); for such a person when he leaves his body, his Buddhi[^5] (i.e., material intelligence) dies away, and with the death of his Buddhi his ignorance also dies away (i.e., he becomes spiritual).
+
+[^5]: "Students must distinguish between the Vedantic use of this term and the significance assigned to it in the Esoteric Philosophy."
 
 **तावदेव निरोधः स्याद्यावत्तत्त्वं न विन्दति।  
 विदिते तु परे तत्त्वे एकमेवानुपश्यति॥५२॥**
@@ -572,7 +582,9 @@ ARJUNA ASKED:
 **मुहूर्तमपि यो गच्छेन्नासाग्रे मनसा सह।  
 सर्वंतरति पाप्मानं तस्य जन्म शतार्जितम्॥१०॥**
 
- 10. He who has been able to dwell with his mind for one moment on a single point (i.e., to perceive the Light of Caitanya) frees himself from the sins of his past hundred [births](# "This probably means that the ").
+ 10. He who has been able to dwell with his mind for one moment on a single point (i.e., to perceive the Light of Caitanya) frees himself from the sins of his past hundred births[^6].
+
+[^6]: "This probably means that the "
 
 **दक्षिणे पिङ्गला नाडी वह्निमण्डलगोचरा।  
 देवयानमिति ज्ञेया पुण्यकर्मानुसारिणी॥११॥**
@@ -581,7 +593,9 @@ ARJUNA ASKED:
 
 
 
-up to the top of the head where the [Sahasrāra](# "For clairvoyant description of the six centres in the human body please see ")exists), it is bright and shining like a great circle of Fire (or the Sun); this product of virtue (Piṅgalā) is called the vehicle of the Devas. (Meaning, that those who can fix their mind in this Nāḍi, can journey through the sky like Devas; therefore it is called the "Deva-Yāna" or the vehicle of the Devas.)
+up to the top of the head where the Sahasrāra[^7]exists), it is bright and shining like a great circle of Fire (or the Sun); this product of virtue (Piṅgalā) is called the vehicle of the Devas. (Meaning, that those who can fix their mind in this Nāḍi, can journey through the sky like Devas; therefore it is called the "Deva-Yāna" or the vehicle of the Devas.)
+
+[^7]: "For clairvoyant description of the six centres in the human body please see "
 
 **इला च वामनिश्वाससोममण्डलगोचरा।  
 पितृयानमिति ज्ञेयं वाममाश्रित्य तिष्ठति॥१२॥**
@@ -701,7 +715,9 @@ branching out and entering into both the eyes, this circle is called Agni-Loka. 
 
 blessing both above, below, in the middle, in and out (of the body).
 
-  \[When one dwelling in Suṣumnā, drinks the nectar of happiness, then whatever obstacles may appear to him both from above, below, or the middle of his body, they instantly disappear no sooner the meditator fixes his mind on the eternal dwelling at the sole of his [feet](# "Referring to the direction of certain magnetic currents.").\]
+  \When one dwelling in Suṣumnā, drinks the nectar of happiness, then whatever obstacles may appear to him both from above, below, or the middle of his body, they instantly disappear no sooner the meditator fixes his mind on the eternal dwelling at the sole of his [feet[^8].\]
+
+[^8]: "Referring to the direction of certain magnetic currents."
 
 **अधः पदोऽतलं विद्यात्पादं च वितलं विदुः।  
 नितलं पादसंधिश्च सुतलं जङ्घमुच्यते॥२६॥**
@@ -728,7 +744,9 @@ blessing both above, below, in the middle, in and out (of the body).
 **भूलोकं नाभिदेशं तु भुवर्लोकं तु कुक्षितः।  
 हृदयं स्वर्गलोकं तु सूर्यादिग्रहतारकाः॥२९॥**
 
-  29. Bhūr-Loka exists in the navel; in the [armpit](# "This localizes a great nervous and magnetic centre that directs every motion of the arms.") exists the Bhuvar, while the Svarga-Loka, with the sun, moon, and stars, dwells in the heart.
+  29. Bhūr-Loka exists in the navel; in the armpit[^9] exists the Bhuvar, while the Svarga-Loka, with the sun, moon, and stars, dwells in the heart.
+
+[^9]: "This localizes a great nervous and magnetic centre that directs every motion of the arms."
 
 
 
@@ -748,21 +766,27 @@ blessing both above, below, in the middle, in and out (of the body).
 आकाशं तु पिबेद्वायुं मनश्चाकाशमेव च।  
 बुद्ध्यहंकारचित्तं च क्षेत्रज्ञः परमात्मनि॥३३॥**
 
-  32 & 33. This Brahmāṇḍa shaped [Earth](# "That is, like the egg of Brahmā.")dissolves itself into Water, the Water is dried
+  32 & 33. This Brahmāṇḍa shaped Earth[^10]dissolves itself into Water, the Water is dried
+
+[^10]: "That is, like the egg of Brahmā."
 
 
 
 up by Fire, the Air swallows up the Fire, and the Ākāśa drinks the Air in turn; but the Ākāśa itself is assimilated in the Mind, the Mind in Buddhi, the Buddhi in Ahaṅkāra, the Ahaṅkāra in Citta, and the Citta in Kṣetrajña (i.e., Ātman or Spirit).
 
- \[Ahaṅkāra here means "self-consciousness," Mahat, or the Third Logos; it corresponds to the Mind in the human principles. Citta means the "abstract consciousness," the Second Logos, corresponding to Buddhi of the human principles. Kṣetra-jňa, or the knower of the planes, means the Spirit or the First Logos, corresponding to the Ātman of the human principles of the exoteric Theosophy. Mind here means the Kāma Mind, and Buddhi means the faculty of ascertaining truth.
+ \Ahaṅkāra here means "self-consciousness," Mahat, or the Third Logos; it corresponds to the Mind in the human principles. Citta means the "abstract consciousness," the Second Logos, corresponding to Buddhi of the human principles. Kṣetra-jňa, or the knower of the planes, means the Spirit or the First Logos, corresponding to the Ātman of the human principles of the exoteric Theosophy. Mind here means the Kāma Mind, and Buddhi means the faculty of ascertaining truth.
 
- According to the definition given by Śri Śaṅkarāchārya in his *Viveka-[Chūdāmani](# "Text in Devanagiri and Translation in English by Mohini Mohan Chatterji, F.T.S. Published by the Theosophical Publishing House, Adyar, Madras, India.")*,the Mind, Buddhi, Ahaṅkāra, and Citta are the four handmaids of Antaḥkaraṇa; the quality of Mind is to doubt, that of Buddhi is to ascertain, Citta retains or keeps, while
+ According to the definition given by Śri Śaṅkarāchārya in his *Viveka-[Chūdāmani[^11]*,the Mind, Buddhi, Ahaṅkāra, and Citta are the four handmaids of Antaḥkaraṇa; the quality of Mind is to doubt, that of Buddhi is to ascertain, Citta retains or keeps, while
+
+[^11]: "Text in Devanagiri and Translation in English by Mohini Mohan Chatterji, F.T.S. Published by the Theosophical Publishing House, Adyar, Madras, India."
 
 
 
 
 
-Ahaṅkāra expresses its self-consciousness or shows "I-am-ness". The place of the mind is the throat, that of Buddhi the mouth, Citta dwells in the navel, while Ahaṅkāra resides in the [heart](# " All the explanations in brackets are mere translations, except this portion, which I have simply explained from the teachings of ").\]
+Ahaṅkāra expresses its self-consciousness or shows "I-am-ness". The place of the mind is the throat, that of Buddhi the mouth, Citta dwells in the navel, while Ahaṅkāra resides in the heart[^12].\]
+
+[^12]: " All the explanations in brackets are mere translations, except this portion, which I have simply explained from the teachings of "
 
 **अहं ब्रह्मेति मां ध्यायेदेकाग्रमनसा सकृत्।  
 सर्वंतरति पाप्मानं कल्पकोटिशतैः कृतम्॥३४॥**
@@ -844,7 +868,9 @@ to understand the great subtle Ātman, even if he be conversant with the four Ve
 
 **अहं ब्रह्मेति नियतो मोक्षहेतुमर्हात्मनां॥४४॥**
 
- 43 & 44. That hundred millions of Jīvas and thousands of [Nāda-Bindus](# "See the Voice of the Silence, by Madame H. P. Blavat sky, published by the Theosophical Publishing House, Adyar, Madras, India, for the explanation of Nāda. Bindu is the point where the Nāda ends and is absorbed in the eternal; Bindu, therefore, is the mediatrix, the lady in the Bhāgavata who acted as a go-between between Krishna, the Ātmā, and Rādhā, the Manas.") are constantly destroyed and absorbed in that All-Purity, therefore the *firm conviction* that "I am Brahman" is known to be the only cause of Mokṣa for Great Souls (Mahātmas).
+ 43 & 44. That hundred millions of Jīvas and thousands of Nāda-Bindus[^13] are constantly destroyed and absorbed in that All-Purity, therefore the *firm conviction* that "I am Brahman" is known to be the only cause of Mokṣa for Great Souls (Mahātmas).
+
+[^13]: "See the Voice of the Silence, by Madame H. P. Blavat sky, published by the Theosophical Publishing House, Adyar, Madras, India, for the explanation of Nāda. Bindu is the point where the Nāda ends and is absorbed in the eternal; Bindu, therefore, is the mediatrix, the lady in the Bhāgavata who acted as a go-between between Krishna, the Ātmā, and Rādhā, the Manas."
 
 **द्वे पदे बन्धमोक्षाय न ममेति ममेति च।  
 ममेति बध्यते जन्तुर्न ममेति विमुच्यते॥४५॥**
@@ -1012,3 +1038,16 @@ names, and colours— alone can see the Eternal Paramātman actually.
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+

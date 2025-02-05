@@ -287,7 +287,9 @@ Abhinavagupta in his gloss on this states at fol. 16^(b) that this stanza is by 
 **भवानीशंकरादीनां पित्रोर्वा केलिवर्णनम्।  
 अत्युक्तिर्वा नभःसाम्यं स्तनादौ स्यादनौचिती॥**
 
-** इत्यनेनोक्तास्ति। यद्यपि कुमारसंभवे कालिदासेन वर्णितमस्ति तथार्वा[चीनेन](# "MS. चोने")) न कर्तव्यम्।**
+** इत्यनेनोक्तास्ति। यद्यपि कुमारसंभवे कालिदासेन वर्णितमस्ति तथार्वाचीनेन[^1]) न कर्तव्यम्।**
+
+[^1]: "MS. चोने"
 
  Stanza 2 of this book is quoted already by Nami in the Rudraṭakâvyâlaṁkâraṭippanaka fol. 175^(b) and by Dhanika p. 76. 183; st. 5. 6. 11. 63 in Hemacandra's Alaṁkâracûdâmani fol. 13^(a). 6^(a). 15^(b), st. 63 besides in the Alaṁkârasarvasva fol. 105^(b), Alaṁkâratilaka fol. 234, Alaṁkârodâharana (MS. Bühler, Det. Rep. No. 240) fol. 354, Sarasvatîk. p. 226. Other quotations have been verified by Prof. Weber, Ind. Streifen 2, 372. 3, 228 note 1 and by Prof. Zachariae in Jacobi's pamphlet on Kâlidâsa's epic poems: Verhandlungen des 5. Internationalen Orientalistencongresses 2, 2, 146. In this pamphlet Jacobi at all events has proved that the eighth sarga is older than the rest of the uttarakhaṇḍa and the testimonies adduced above show that in no case can it be regarded as modern. That it contains expressions which are hardly Kâlidâsa's , I have urged elsewhere³). It  
 ——————————  
@@ -2770,3 +2772,4 @@ Printed by CharlesGeorgi.**
 
 
 \]
+

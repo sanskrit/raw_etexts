@@ -135,13 +135,21 @@ I THE AUTHOR.
 
 \(i\) His place.
 
- Udbhata was evidently a born Kashmirian as hisname clearly shews.[¹](# " Compare G. Bühler's Report of a tour in Kashmir-J. B. B. R. A. S. Extra No. of 1877,PP. 64-65.")The name Udbhața is one of theclass of names of authors such as Jaiyața, Kaiyaṭa, Allața,Rudrața and Mammața who are acknowledged Kashmirians. He was also a resident of Kashmir as he was theSabhāpati of Jayāpīḍa, one of the kings of Kashmir.[²](# "cf.rājatarangiṇī,IV,495, quoted below.")
+ Udbhata was evidently a born Kashmirian as hisname clearly shews.¹[^1]The name Udbhața is one of theclass of names of authors such as Jaiyața, Kaiyaṭa, Allața,Rudrața and Mammața who are acknowledged Kashmirians. He was also a resident of Kashmir as he was theSabhāpati of Jayāpīḍa, one of the kings of Kashmir.²[^2]
+
+[^1]: " Compare G. Bühler's Report of a tour in Kashmir-J. B. B. R. A. S. Extra No. of 1877,PP. 64-65."
 
 **(ii) His date**.
 
+[^2]: "cf.rājatarangiṇī,IV,495, quoted below."
+
  In the first place we can ascertain with precision thatUdbhața came after Bhāmaha and preceded Ånandavardhana. Udbhața had written a
-commentary^([3](# "Udbhata's भामहविवरण."))on Bhāmahaand besides, the present work of his contains many distinctadaptations and verbal borrowings from Bhāmaha's
-Kāvyālaṅkāra.[⁴](# "Instances in point may be seen here and there throughout the commentary.")Ânandavardhana pointedly mentionsUdbhața in more than one place, and we may concludefrom his manner of referring that Udbhata was regarded
+commentary^(3[^3])on Bhāmahaand besides, the present work of his contains many distinctadaptations and verbal borrowings from Bhāmaha's
+Kāvyālaṅkāra.⁴[^4]Ânandavardhana pointedly mentionsUdbhața in more than one place, and we may concludefrom his manner of referring that Udbhata was regarded
+
+[^3]: "Udbhata's भामहविवरण."
+
+[^4]: "Instances in point may be seen here and there throughout the commentary."
 
 
 
@@ -227,17 +235,25 @@ tha's Rasagangādhara —p. 2.
 
 
 
-For this information we are indebted to Indurāja whosays in one place of his commentary, विशेषोक्तिलक्षणे च भामहविवरणे¹ भट्टोद्भटेन एकदेशशब्द एवं व्याख्यातो [यथेहास्माभिर्निरूपितः](# "See page 14, 1. 21 of the text.")and at anotherplace, अनेन ग्रन्थकृता स्वोपरचितकुमारसंभवैकदेशोत्र [उदाहरणत्वेनोपन्यस्तः](# "See page 16, 1. 22 of the text.")।
+For this information we are indebted to Indurāja whosays in one place of his commentary, विशेषोक्तिलक्षणे च भामहविवरणे¹ भट्टोद्भटेन एकदेशशब्द एवं व्याख्यातो यथेहास्माभिर्निरूपितः[^5]and at anotherplace, अनेन ग्रन्थकृता स्वोपरचितकुमारसंभवैकदेशोत्र उदाहरणत्वेनोपन्यस्तः[^6]।
+
+[^5]: "See page 14, 1. 21 of the text."
+
+[^6]: "See page 16, 1. 22 of the text."
 
  About Bhāmahavivaraṇa we do not know anything as far as our present knowledge goes. The numerousreferences to Udbhața occurring in various works on Alaṅkāra allude sometimes to such subjects as arenot at all included in Kāvyālaṅkārasārasangraha. Itis possible that they might be referring to the 'Glosson Bhāmaha or perhaps to some other great work on Alaṅkāra that Udbhaṭa might have composed. Sometimesvery curious thing can be seen in some modern works: passages discussing the opinions of **काव्यप्रकाशकार** and othersare at times seriously quoted and fathered upon Udbhața. For example, Rasagaṅgādhara says– अत्राहुरुद्भटाचार्याः। "येन नाप्राप्तेय आरभ्यते स तस्य बाधक इति न्यायेनालंकारान्तरविषय एवारभ्यमाणोलंकारान्तरं बाधते। न चास्य विविक्तः कश्चिदस्ति विषयो यत्र सावकाशो नान्यं बाधेत .......न च
 
 देव त्वमेव पातालमाशानां त्वं निबन्धनम्।  
 त्वं चामरमरुद्भूमिरेको लोकत्रयात्मकः॥
 
-इत्यादिकाव्यप्रकाशोक्तौ विविक्तो विषय इति वाच्यम्। रूपकस्यैवात्र स्फुटत्वात्। श्लेषोपस्थापितपातालाद्यर्थस्याभेदारोपमन्तरेण लोकत्रयात्मकस्य दुरुपपादत्वात्। ...... ......तस्मादुपमादिप्रतिभोत्पत्तिहेतुः श्लेष एव स्वविषये सर्वत्रालंकारः।"[इति।](# "Rasagangadhara, pp. 393-394.")Here Uabhaṭa is described as passing opinion on काव्यप्रकाशकार's (मम्मट's) views! Of course such quoted passages cannotbe seriously considered. But the references of Ānandavardhana, such as the one cited above in a foot note, or ofRuyyaka such as इह हि तावद्भामहोद्भटप्रभृतयश्चिरंतनालंकारकाराः प्रतीयमानमर्थं वाच्योपस्कारकतयालंकारपक्षनिक्षिप्तं [मन्यन्ते](# "Alankarasarvasva, p. 3")or उद्भटादिभिस्तु गुणालंकाराणां  
+इत्यादिकाव्यप्रकाशोक्तौ विविक्तो विषय इति वाच्यम्। रूपकस्यैवात्र स्फुटत्वात्। श्लेषोपस्थापितपातालाद्यर्थस्याभेदारोपमन्तरेण लोकत्रयात्मकस्य दुरुपपादत्वात्। ...... ......तस्मादुपमादिप्रतिभोत्पत्तिहेतुः श्लेष एव स्वविषये सर्वत्रालंकारः।"इति।[^7]Here Uabhaṭa is described as passing opinion on काव्यप्रकाशकार's (मम्मट's) views! Of course such quoted passages cannotbe seriously considered. But the references of Ānandavardhana, such as the one cited above in a foot note, or ofRuyyaka such as इह हि तावद्भामहोद्भटप्रभृतयश्चिरंतनालंकारकाराः प्रतीयमानमर्थं वाच्योपस्कारकतयालंकारपक्षनिक्षिप्तं मन्यन्ते[^8]or उद्भटादिभिस्तु गुणालंकाराणां  
 *                                   
                                    
         *  
+
+[^7]: "Rasagangadhara, pp. 393-394."
+
+[^8]: "Alankarasarvasva, p. 3"
 
 
 
@@ -247,10 +263,22 @@ For this information we are indebted to Indurāja whosays in one place of his co
 
 
 
-प्रायशः [साम्यमेव सूचितम्](# "Alankarasarvasva, p. 3")point to the fact that Udbhaṭa wasa standard author on Alaṅkāra and had written somealaṅkāra works besides the present one. For the subjectsreferred to in the above passages are foriegn to this treatise.
+प्रायशः साम्यमेव सूचितम्[^8]point to the fact that Udbhaṭa wasa standard author on Alaṅkāra and had written somealaṅkāra works besides the present one. For the subjectsreferred to in the above passages are foriegn to this treatise.
 
- The poem Kumārasambhava which was composedby Udbhața evidently contained the same theme thatmakes the story of the Kumārasambhava of Kālidāsa. Andprobably this was the reason why it was altogether lostto Sanskrit Literature except the fragment that exists inthe shape of the examples of Kāvyālaṁkārasārasangraha.Although it is no wonder that the Kumārasambhava ofUdbhața could not hold out for long against the established eminence of the poem of the Prince of poets, still hispoetry is not of a low order and if its subject were not thesame as that of Kālidāsa's Kumārasambhava it wouldsurely have held its own upto this time. The verses includedin the present work as examples are 94 and they are probab.ly one Sarga of the whole poem as the thread of the narrative goes on fairly unbroken from beginning to end. Butsometimes the natural order of verses seems to be changed. Thus the natural position of the [8th](# "See The text, p. 8.")verse seems to beafter the [5th.](# "Idem, p. 6.")It is standing without a verb in its present position. The [33rd](# "Idem, p. 33.")verse should have its natural placeafter the [31st](# "Idem, p. 30."),for the [32nd](# "Idem, p. 32.")verse contains the exclamationof the pt and not the thoughts of Śiva as is required bythe 33rdverse.⁷A little gap is also occasionally experiencedbetween the meanings of two verses. Butthat is quite natural in a narrative specially composed toillustrate all figures in a settled order. Notwithstandingthis, there is a great beauty in the description and the style which makes it a great pleasure to read the poem even  
+[^8]: "Alankarasarvasva, p. 3"
+
+ The poem Kumārasambhava which was composedby Udbhața evidently contained the same theme thatmakes the story of the Kumārasambhava of Kālidāsa. Andprobably this was the reason why it was altogether lostto Sanskrit Literature except the fragment that exists inthe shape of the examples of Kāvyālaṁkārasārasangraha.Although it is no wonder that the Kumārasambhava ofUdbhața could not hold out for long against the established eminence of the poem of the Prince of poets, still hispoetry is not of a low order and if its subject were not thesame as that of Kālidāsa's Kumārasambhava it wouldsurely have held its own upto this time. The verses includedin the present work as examples are 94 and they are probab.ly one Sarga of the whole poem as the thread of the narrative goes on fairly unbroken from beginning to end. Butsometimes the natural order of verses seems to be changed. Thus the natural position of the 8th[^10]verse seems to beafter the 5th.[^11]It is standing without a verb in its present position. The 33rd[^12]verse should have its natural placeafter the 31st[^13],for the 32nd[^14]verse contains the exclamationof the pt and not the thoughts of Śiva as is required bythe 33rdverse.⁷A little gap is also occasionally experiencedbetween the meanings of two verses. Butthat is quite natural in a narrative specially composed toillustrate all figures in a settled order. Notwithstandingthis, there is a great beauty in the description and the style which makes it a great pleasure to read the poem even  
 ————————————————————————————————————  
+
+[^10]: "See The text, p. 8."
+
+[^11]: "Idem, p. 6."
+
+[^12]: "Idem, p. 33."
+
+[^13]: "Idem, p. 30."
+
+[^14]: "Idem, p. 32."
 
  7. Idem, p. 33. See appendix II for the verses given in the order in which they exist in the text.
 
@@ -535,7 +563,9 @@ while still calling themselves Koṅkaṇasthas (i.e.कौङ्कणाः) h
 
 Thus Indurāja, although a Kashmirian to all intentsand purposes might very well call himself a Kauṅkaṇa.
 
- Indurāja has also prefixed the epithet प्रतीहारto hisname. It may mean 'the holder of a title of that name’or 'the recipient of a freehold such as अग्रहार'. It may even be connected with Pratihāra, the particular syllables inthe Sāma-hymns which the [Pratihartṛi](# "See Chhandogyopanishad, 2-9-6")has to sing. Indurāja was perhaps a follower of the Sāma-Veda.
+ Indurāja has also prefixed the epithet प्रतीहारto hisname. It may mean 'the holder of a title of that name’or 'the recipient of a freehold such as अग्रहार'. It may even be connected with Pratihāra, the particular syllables inthe Sāma-hymns which the Pratihartṛi[^15]has to sing. Indurāja was perhaps a follower of the Sāma-Veda.
+
+[^15]: "See Chhandogyopanishad, 2-9-6"
 
  The verses which Abhinavagupta has quoted as belonging to Indurāja and the two verses ascribedBhaṭṭendurāja in Kshemendra's Auchitya-vichāra-charchāand some other works are given in Appendix
 
@@ -6753,3 +6783,24 @@ Institute, Poona.
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^9]: "Alankarasarvasva, p. 3"

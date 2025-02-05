@@ -248,7 +248,9 @@ past tense, and the latter in the future, as a prophecy. Withregard to the forme
 
  Having thus disposed of the primary subjects the Puráṇa,in its twenty-first chapter, gives a summary of the mantrasfor the adoration of Vishņu in his different forms, and of certaingoddesses of the Śákta class. The mystic mantras of thesedivinities are of the Tántric type, and formed, in most cases, ofthe syllable Hriñ or Sriñ coupled with the name of the divinityput in the dative case. The first purification necessary for worship is bathing, and this accordingly forms the theme of thenext chapter (22nd). Then follow the rituals and the gesticulations as ordinarily given in the Tantras, and rules for the construction of altars (Kuṇḍas,) for the sacred fire (24th), but in mereoutline; and they are followed by chapters devoted successivelyto definitions of the mystic mantras of Váśudeva and other deities25th); mudrás or gesticulations (26th); initiation into religiousduty (28th); mystic diagrams (29th); circles (30th); prayers(31st); and the usual sacraments (32nd), of which the assumptionof the secred cord is especialised by the devotion of an entirechapter to it (33rd), and in course of it a great number ofmystic mantras are supplied. The first rite in connexion withthe assumption of the sacred thread is the performance of thehoma, or the offering of oblations to the fire in the altar, andthis is explained in the following chapter (34th); the preparation of the cord, the mode of putting it on, the measurementsof the cord for gods and men being treated in the three subsequent chapters (35th to 37th).
 
- Chapter 38th opens with a new subject, the erection oftemples for gods and goddesses, and the examination of theearth for the [purpose](# "Vide passim 'Antiquities of Orissa 1.' p. 37.").In course of it several of the Tantrasare referred to by name, and the enterlocutor changes to a sageof the name of Hayagriva, who lays considerable stress ona Tantra styled Hayaśirsha-pancharátra, which, still extant,
+ Chapter 38th opens with a new subject, the erection oftemples for gods and goddesses, and the examination of theearth for the purpose[^1].In course of it several of the Tantrasare referred to by name, and the enterlocutor changes to a sageof the name of Hayagriva, who lays considerable stress ona Tantra styled Hayaśirsha-pancharátra, which, still extant,
+
+[^1]: "Vide passim 'Antiquities of Orissa 1.' p. 37."
 
 
 
@@ -280,7 +282,9 @@ have never seen it observed. At Bhuvaneśvara it is celebratedon the 14th of the
 
 
 
-curious in such matters will find an extract on the subject in thefirst volume of my “Antiquities of Orissa”, p. 80. The transition from houses to villages, towns, and fortresses, is but natural;and thence a brief survey of the geography of the earth*(Bhuvana-kosha)* is a wide but by no means an inconsistentstride (107th 108th). Again, talking of the earth, the authornaturally casts his eyes on those spots on it which are the mostholy, and worthy of being visited (Tírthas). These are allcomprised within the boundary of India, and treated of in avery summary and perfunctory manner. He first gives achapter on what should be the duties which good men shouldobserve in going to Tirthas, and what they should do there.Fasting; gifts of gold, land and cattle; shaving off thehair of the head; bathing; offering of water *(tarpana)* andfuneral cakes *(śrádha)* to the manes; and feeding of Bráhmanas and beggars are the principals duties; and these arestrictly enjoined (109th). Then follow notices of some of theprincipal places of pilgrimage, such as the river Ganges, theconfluence of the Ganges and the Yamuná *(Prayága)*, Benares,the river Narmadá, and Gayá. The first four are disposed ofvery summarily, but the last is described in some detail, including the story of Gayásura in [full](# "See my 'Buddha Gayá', pp. 10f."),the mode of proceeding toGayá, and the various Śrádhas and rites to be performed there.The details are closely similar to what occur in the GayáMáhátmya section of the Váyu Purána; but not quite so elaborate. Some of the slokas are almost identical in the twoworks; but it is difficult to decide from the circumstance whichis the archetype, and which the copy.
+curious in such matters will find an extract on the subject in thefirst volume of my “Antiquities of Orissa”, p. 80. The transition from houses to villages, towns, and fortresses, is but natural;and thence a brief survey of the geography of the earth*(Bhuvana-kosha)* is a wide but by no means an inconsistentstride (107th 108th). Again, talking of the earth, the authornaturally casts his eyes on those spots on it which are the mostholy, and worthy of being visited (Tírthas). These are allcomprised within the boundary of India, and treated of in avery summary and perfunctory manner. He first gives achapter on what should be the duties which good men shouldobserve in going to Tirthas, and what they should do there.Fasting; gifts of gold, land and cattle; shaving off thehair of the head; bathing; offering of water *(tarpana)* andfuneral cakes *(śrádha)* to the manes; and feeding of Bráhmanas and beggars are the principals duties; and these arestrictly enjoined (109th). Then follow notices of some of theprincipal places of pilgrimage, such as the river Ganges, theconfluence of the Ganges and the Yamuná *(Prayága)*, Benares,the river Narmadá, and Gayá. The first four are disposed ofvery summarily, but the last is described in some detail, including the story of Gayásura in full[^2],the mode of proceeding toGayá, and the various Śrádhas and rites to be performed there.The details are closely similar to what occur in the GayáMáhátmya section of the Váyu Purána; but not quite so elaborate. Some of the slokas are almost identical in the twoworks; but it is difficult to decide from the circumstance whichis the archetype, and which the copy.
+
+[^2]: "See my 'Buddha Gayá', pp. 10f."
 
  A short account of India (Bháratavarsha) in 8 śtanzas(118th) forms the prelude to another geographical dissertationin two chapters (119th and 120th); and then follow twenty-
 
@@ -312,7 +316,9 @@ Himálaya mountain, and ultimately attained apotheosis. Theritual for the worshi
 
 
 
-as to control the sensuous desires of human nature. The abstinence includes the giving up for a fixed time of the use of flowers,incenses, aromatics, unguents, and particular articles of foodand convenience. Fleshmeat, fish, sweetmeats, milk, particularfruits, are the articles usually abjured; and not unoften plates at meal time, bedding, shaving, and rich apparel, come underthe ban. Abstinence from paring the nails, and from trimmingthe beard, or the hair of the head, is a common form of [penance](# "Vide passim my Buddha Gayá, p. 24.").
+as to control the sensuous desires of human nature. The abstinence includes the giving up for a fixed time of the use of flowers,incenses, aromatics, unguents, and particular articles of foodand convenience. Fleshmeat, fish, sweetmeats, milk, particularfruits, are the articles usually abjured; and not unoften plates at meal time, bedding, shaving, and rich apparel, come underthe ban. Abstinence from paring the nails, and from trimmingthe beard, or the hair of the head, is a common form of penance[^3].
+
+[^3]: "Vide passim my Buddha Gayá, p. 24."
 
  Fasts are of various kinds. Some fasts require abstentionfrom food in the day time, or the night time; some involve thegradual reduction in the allowance of food for a time, and thena similar gradual encrease ; others insist on living on a smallquantity of food of a particular kind; while not a few ordaintotal and absolute forsaking of all kinds of food and drink.Penance includes various kinds of tortures to which the body issubjected by exposure to the sun, rain, cold, and other influences, in addition to the abstentions and fasts above set forth.Some of the Vratas are anniversary memorials, such as thefast on the birthday of Krishna, or on the day of Bhíshma's death, or on the day on which a fowler obtained the blessingof Śiva by accidentally shedding his tears on a lingam, &c. &c.Others are undertaken in fullfilment of vows made for theattainment of particular objects, a common object being the cure of dangerous or protracted diseases. The observances ofeach lunar day have a chapter devoted to them, and theother seven heads have each a chapter; some of the Vratasare especialised by devoting to them a chapter each. Altogether33 chapters from 179th to 208th have the Vratas for theirsubjects.
 
@@ -346,7 +352,9 @@ and the control of the household, including the princes and theladies of the Zen
 
  The subject of the 258th chapter is called *Rig-vidhána* ; but it does not refer to the work of that name in which Śauṇaka describes the authors, the divinities, and the metres of the Rig Veda. Its object is to point out the merits derivable by the repetitions of particular verses of the Rig Veda, especially the Gayatri, a great number of times, and under certain condi- tions. The verses and the rites enjoined in the Yajus, the Sáma, and the Atharva Vedas are also treated of in the same way in successive chapters; and they are respectively named *Yajur vidhána, Sáma-vîdhána*, and *Atharva-vidhána*. Health, life, prosperity, wealth, descendants, destruction and dementation of enemies, seasonable rain, and other blessings are promised to those who follow the injunctions laid down in these chapters.
 
- A section occurs in one of the Brahmaṇas of the Sáma Veda in which the means of obviating the evil effects of supernatural occurrances are provided; a summary of this section, and the merits of the Śrí Śukta, a Litany to [Fortune](# "Translated by Mr. F. E. Hall.")form the subjects of the next chapter. An offering to the Viśvedevas and the mantras required for the purpose, the ceremony of bathing the images of the guardian divinities of the ten quarters, that of bathing the image of Vináyaka, (Gaṇeśa), that of Maheśvara, the adoration by kings of particular divinities on specified days of the month, mantras to be recited on the umbrella, the throne, the horse and other regal insignia, a charm bearing the name of Vishṇu and designed to protect the person of the wearer, the different Śákhás of the four Vedas, and the merit of alms, are then described in successive chapters. (269th to 271st.)
+ A section occurs in one of the Brahmaṇas of the Sáma Veda in which the means of obviating the evil effects of supernatural occurrances are provided; a summary of this section, and the merits of the Śrí Śukta, a Litany to Fortune[^4]form the subjects of the next chapter. An offering to the Viśvedevas and the mantras required for the purpose, the ceremony of bathing the images of the guardian divinities of the ten quarters, that of bathing the image of Vináyaka, (Gaṇeśa), that of Maheśvara, the adoration by kings of particular divinities on specified days of the month, mantras to be recited on the umbrella, the throne, the horse and other regal insignia, a charm bearing the name of Vishṇu and designed to protect the person of the wearer, the different Śákhás of the four Vedas, and the merit of alms, are then described in successive chapters. (269th to 271st.)
+
+[^4]: "Translated by Mr. F. E. Hall."
 
  The last of the five primary subjects of Puráṇas is genealogy, and to it the Agni Paráṇa devotes six chapters (272nd to 277th).The first of these treats of the solar race; the second, of the lunar
 
@@ -358,7 +366,9 @@ race; the third, of the Yádava race; the fifth, of the descendants of Turvasu; 
 
 
 
-of the body are next described, and a chapter is then devotedto the value of particular trees, planted round dwellings. Sometrees are good on the south side of the house, others on thenorth, and so on. The effect of particular fieldcrops on thesanitary condition of houses is also described. But the wholesubject is disposed of in 73 ślokas. Another set of the samenumber of slokas is devoted to the effect of mantras as meansof curing diseases and promoting longevity (283rd). Dhanvantari then quotes the words of Átreya with reference tocertain highly efficacious recipes, supplementing the same byothers of his own, and next enters upon the subject of elephants,their good points and defects, and the medicines most appropriatefor diseases to which they are subject. The subject is named*Gajayurveda*, and is explained by one called Pálakápya, whois elsewhere said to be a saint (muni) or an alias of Dhanvantarihimself; but inasmuch as the narrator of chapter 285th isDhanvantari, and he is made to say that the Gajáyurvedawould be explained by Pàlakápya, and the latter, instead ofaddressing Śuśruta, makes Ḷomapáda, king of Anga, the reciever of his instructions, and at the close of chapter 291st Agnidistinctly says that the instructions regarding horses hadbeen imparted by Śálihotra to Śuśruta, and those regardingelephants had been communicated by Pálakápya to the kingof [Anga](# "शालिहोत्रःसुश्रुताय हयायुर्वेदमुक्तवान् ।पालकाप्याङ्गराजाय गजायुर्वेदमब्रवीत् ।") the obvious inference is that the two names indicatenot the same but two different persons.
+of the body are next described, and a chapter is then devotedto the value of particular trees, planted round dwellings. Sometrees are good on the south side of the house, others on thenorth, and so on. The effect of particular fieldcrops on thesanitary condition of houses is also described. But the wholesubject is disposed of in 73 ślokas. Another set of the samenumber of slokas is devoted to the effect of mantras as meansof curing diseases and promoting longevity (283rd). Dhanvantari then quotes the words of Átreya with reference tocertain highly efficacious recipes, supplementing the same byothers of his own, and next enters upon the subject of elephants,their good points and defects, and the medicines most appropriatefor diseases to which they are subject. The subject is named*Gajayurveda*, and is explained by one called Pálakápya, whois elsewhere said to be a saint (muni) or an alias of Dhanvantarihimself; but inasmuch as the narrator of chapter 285th isDhanvantari, and he is made to say that the Gajáyurvedawould be explained by Pàlakápya, and the latter, instead ofaddressing Śuśruta, makes Ḷomapáda, king of Anga, the reciever of his instructions, and at the close of chapter 291st Agnidistinctly says that the instructions regarding horses hadbeen imparted by Śálihotra to Śuśruta, and those regardingelephants had been communicated by Pálakápya to the kingof Anga[^5] the obvious inference is that the two names indicatenot the same but two different persons.
+
+[^5]: "शालिहोत्रःसुश्रुताय हयायुर्वेदमुक्तवान् ।पालकाप्याङ्गराजाय गजायुर्वेदमब्रवीत् ।"
 
  In the next chapter Dhanvantari again takes up the threadof the discourse, and dwells at some length on the value of thehorse as a vehicle, and the proper times and modes of usingthat animal. He concludes by saying that he would quotethe words of Sálihotra on the good and bad points of horses and
 
@@ -424,8 +434,10 @@ and hyperbolical character; but they are by no means remarkable. Almost every Pu
 
 
 
-unlikely that many chapters were arbitrarily supplied about8 or 9 centuries ago, and a few perhaps even later; to fill upthe chasms which time and accident had made in the originalÁgneya [Puráṇa](# "Essays, Vol. I. p. 90.").”  
+unlikely that many chapters were arbitrarily supplied about8 or 9 centuries ago, and a few perhaps even later; to fill upthe chasms which time and accident had made in the originalÁgneya Puráṇa[^6].”  
  In the Preface attached to the first volume of this editionof the Agni Puráṇa, a descriptive list has been given of themanuscripts consulted in preparing the text for the press.Since its publication I obtained two codices, one from Benares,and the other from Mangalore. The former numbered X, andmarked comprises 412 folia each 16. by 5
+
+[^6]: "Essays, Vol. I. p. 90."
 
 +
 
@@ -561,7 +573,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सुमतिश्चाग्निर्च्चाश्चमित्रयुःशिंशपायनः॥११॥
 
 कृतव्रतोथ सावर्णिः षट्शिष्यास्तस्य चाभवन्।  
-[शांशपायनादयश्चक्रुः](# "शिंशपायनादयश्चक्रुरिति ख०।")पुराणानान्तु संहिताः॥१२॥
+शांशपायनादयश्चक्रुः[^7]पुराणानान्तु संहिताः॥१२॥
+
+[^7]: "शिंशपायनादयश्चक्रुरिति ख०।"
 
 ब्राह्मादीनि पुराणानि हरिविद्या दशाष्ट च।  
 महापुराणे ह्याग्नेये विद्यारूपो हरिः स्थितः॥१३॥
@@ -578,11 +592,15 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 आग्नेयाख्यपुराणस्य कर्त्ता श्रोता जनार्दनः।  
 तस्मात्पुराणमाग्नेयं सर्ववेदमयं महत्॥१७॥
 
-सर्वविद्यामयं पुण्यं सर्वज्ञानमयं [वरम्](# "परमिति ञ०।")।  
+सर्वविद्यामयं पुण्यं सर्वज्ञानमयं वरम्[^8]।  
 सर्वात्म हरिरूपं हि पठतां शृण्वतां नृणां॥१८॥
 
-विद्यार्थिनाञ्च विद्यादमर्थिनां [श्रीधनप्रदम्](# "श्रीबलप्रदमिति ञ०।")।  
+[^8]: "परमिति ञ०।"
+
+विद्यार्थिनाञ्च विद्यादमर्थिनां श्रीधनप्रदम्[^9]।  
 राज्यार्थिनां राज्यदञ्च धर्म्मदं धर्मकामिनाम्॥१९॥
+
+[^9]: "श्रीबलप्रदमिति ञ०।"
 
 स्वर्गार्थिनां स्वर्गदञ्चपुत्रदं पुत्रकामिनां।  
 गवादिकामिनाङ्गोदं ग्रामदं ग्रामकामिनां॥२०॥
@@ -643,7 +661,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 अग्निना यद्वशिष्ठाय प्रोक्तञ्चाग्नेयमेव तत्॥१०॥
 
 लिखित्वा पुस्तकं दद्यान्मार्गशीर्ष्यां स सर्वदः।  
-द्वादशैव सहस्राणि [सर्वविद्यावबोधनं](# "सर्व्वविद्यावधारणमिति ञ०।")॥११॥
+द्वादशैव सहस्राणि सर्वविद्यावबोधनं[^10]॥११॥
+
+[^10]: "सर्व्वविद्यावधारणमिति ञ०।"
 
 चतुर्दशसहस्राणि भविष्यंसूर्य्यसम्भवं।  
 भवस्तु मनवे प्राह दद्यात् पौष्यां गुड़ादिमत्॥१२॥
@@ -722,7 +742,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 हरेर्ब्रह्मा पद्मगोऽभून्मरीचिर्ब्रह्मणः सुतः॥१॥
 
 मरीचेः कश्यपस्तस्माद्विवस्वांस्तस्य पत्न्यपि।  
-संज्ञा [राज्ञी](# "अत्र छायेतिपाठो युक्तः।")प्रभा तिस्रोराज्ञीरैवतपुत्रिका॥२॥
+संज्ञा राज्ञी[^11]प्रभा तिस्रोराज्ञीरैवतपुत्रिका॥२॥
+
+[^11]: "अत्र छायेतिपाठो युक्तः।"
 
 रेवन्तंसुषुवे पुत्रं प्रभातञ्चप्रभा रवेः।  
 त्वाष्ट्री संज्ञा मनुं पुत्रं यमलौयमुनां यमम्॥३॥
@@ -807,8 +829,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 प्रभा षष्टिसहस्राणां सुतानां जननी ह्यऽभूत्।  
 तुष्टादौर्वान्नृपादेकंभानुमत्यसमञ्जसम्॥२८॥
 
-खनन्तः पृथिवीं दग्धा [विष्णुना](# "मुनिनेति ञ०।") बहुसागराः।  
+खनन्तः पृथिवीं दग्धा विष्णुना[^12] बहुसागराः।  
 असमञ्जसोऽश्रुमांश्चदिलीपोऽंशुमतोऽभवत्॥२९॥
+
+[^12]: "मुनिनेति ञ०।"
 
 भगीरथो दिलीपात्तु येन गङ्गावतारिता।
 
@@ -819,8 +843,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सिन्धुद्वीपोऽम्बरीषात्तुश्रुतायुस्तत्सुतः स्मृतः।  
 श्रुतायोर्ऋतपर्णोऽभूत्तस्य कल्माषपादकः॥३१॥
 
-कल्माषाङ्घ्रेः[सर्व्वकर्म्मा](# "सकर्म्माभूदिति ख०, छ० च।")ह्यनरण्यस्ततोऽभवत्।  
+कल्माषाङ्घ्रेःसर्व्वकर्म्मा[^13]ह्यनरण्यस्ततोऽभवत्।  
 अनरण्यात्तु निघ्नोऽथ अनमित्रस्ततो रघुः॥३२॥
+
+[^13]: "सकर्म्माभूदिति ख०, छ० च।"
 
 रघोरभूद्दिलीपस्तु दिलीपाञ्चाप्यजो नृपः।  
 दीर्घवाहुरजात् कालस्त्वजापालस्ततोऽभवत्॥३३॥
@@ -876,8 +902,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 स्वकीया इव सोमोऽपि कामयामास तास्तदा।  
 एवं कृतापचारस्य तासांभर्तृगणस्तदा॥६॥
 
-न [शशाकापचाराय](# "शशाकापकारायेतिञ०।")शापैः शस्त्रादिभिः पुनः।  
+न शशाकापचाराय[^14]शापैः शस्त्रादिभिः पुनः।  
 सप्तलोकैकनाथत्वमवाप्तस्तपसा ह्युत॥७॥
+
+[^14]: "शशाकापकारायेतिञ०।"
 
 विवभ्राम मतिस्तस्य विनयादनया हता।  
 बृहस्पतेः स वै भार्य्यांतारां नाम यशस्विनीम्॥८॥
@@ -906,7 +934,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 दिविजातः शतायुश्चसुषुवे चोर्व्वशीनृपान्॥१५॥
 
 आयुषो नहुषः पुत्रो वृद्धशर्म्मारजिस्तथा।  
-दर्भोविपाप्मा [पञ्चाग्न्यं](# "पञ्चाग्न्या इतिञ०। पञ्चाग्न्यामिति ञ०।")रजेः पुत्रशतं ह्यभूत्॥१६॥
+दर्भोविपाप्मा पञ्चाग्न्यं[^15]रजेः पुत्रशतं ह्यभूत्॥१६॥
+
+[^15]: "पञ्चाग्न्या इतिञ०। पञ्चाग्न्यामिति ञ०।"
 
 राजेया इति विख्याता विष्णुदत्तवरो रजिः।  
 देवासुरे रणे दैत्यानबधीत्सुरयाचितः॥१७॥
@@ -981,8 +1011,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 क्रोष्टोर्व्वंशं प्रवक्ष्यामि यत्र जातो हरिः स्वयम्।  
 क्रोष्टोस्तु वृजिनीवांश्च स्वाहाऽभूद्वृजिनीवतः॥१२॥
 
-स्वाहापुत्रो[रुषद्गुश्च](# "विषांशुश्चेति ज०।")तस्य चित्ररथः सुतः।  
+स्वाहापुत्रोरुषद्गुश्च[^16]तस्य चित्ररथः सुतः।  
 शशविन्दश्चित्ररथाच्चक्रवर्त्तीहरौरतः॥१३॥
+
+[^16]: "विषांशुश्चेति ज०।"
 
 शशविन्दोश्चपुत्त्राणां शतानामभवच्छतम्।  
 धीमतां चारुरूपाणां भूरिद्रविणतेजसाम्॥१४॥
@@ -998,8 +1030,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 हविर्ज्यामघः पापघ्नो ज्यामघः स्त्रीजितोऽभवत्।  
 सेव्यायां ज्यामघादासीद्विदर्भस्तस्य कौशिकः॥१७॥
 
-लोमपादः क्रथः श्रेष्ठात् [कृतिः](# "धृतिरिति ञ० ।")स्याल्लोमपादतः।  
+लोमपादः क्रथः श्रेष्ठात् कृतिः[^17]स्याल्लोमपादतः।  
 कौशिकस्य चिदिः पुत्रस्तस्माच्चैद्या नृपाः स्मृताः॥१८॥
+
+[^17]: "धृतिरिति ञ० ।"
 
 क्रथाद्विदर्भपुत्राश्च कुन्तिः कुन्तेस्तु धृष्टकः।  
 धृष्टस्य निधृतिस्तस्य उदर्काख्योविदूरथः॥१९॥
@@ -1010,14 +1044,18 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 भीमरथान्नवरथस्ततो दृढ़रथोऽभवत्।  
 शकुन्तिश्च दृढ़रथात् शकुन्तेश्चकरम्भकः॥२१॥
 
-[करम्भाद्देवलातोऽभूत्](# "देवरातोऽभूदिति ख०, ग०, घ०, ज०, ञ०, ट०, च।")देवक्षेत्रश्चतत्सुतः।  
+करम्भाद्देवलातोऽभूत्[^18]देवक्षेत्रश्चतत्सुतः।  
 देवक्षेत्रान्मधुर्नाम मधोर्द्रवरसोऽभवत्॥२२॥
+
+[^18]: "देवरातोऽभूदिति ख०, ग०, घ०, ज०, ञ०, ट०, च।"
 
 द्रवरसात् पुरुहूतोऽभूज्जन्तुरासीत्तु तत्सुतः।  
 गुणी तु यादवो राजा जन्तुपुत्रस्तु सात्वतः॥२३॥
 
 सात्त्वताद्भजमानस्तु वृष्णिरन्धक एव च।  
-देवावृधश्चचत्वारस्तेषां वंशास्तु [विश्रुताः](# "‍विस्तृताइति क०, छ० च।")॥२४॥
+देवावृधश्चचत्वारस्तेषां वंशास्तु विश्रुताः[^19]॥२४॥
+
+[^19]: "‍विस्तृताइति क०, छ० च।"
 
 भजमानस्य वाह्योऽभूद्वृष्टिःकृमिर्निमिस्तथा।  
 देवावृधाद्वभ्रुरासीत्तस्य श्लोकोऽत्र गीयते॥२५॥
@@ -1029,10 +1067,14 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 
 
-[कुहुरो भजमानस्तु](# "कुकुरो भजमानस्त्विति क०। सुन्दरी भजमानस्त्विति ज०।")शिनिः कम्बलवर्हिषः॥२७॥
+कुहुरो भजमानस्तु[^20]शिनिः कम्बलवर्हिषः॥२७॥
 
-[कुहुरस्य](# "कुकुरस्यति क०।")सुतो धृष्णुर्धृष्णोस्तु तनयो धृतिः।  
+[^20]: "कुकुरो भजमानस्त्विति क०। सुन्दरी भजमानस्त्विति ज०।"
+
+कुहुरस्य[^21]सुतो धृष्णुर्धृष्णोस्तु तनयो धृतिः।  
 धृतेः कपोतरोमाभूत्तस्य पुत्रस्तु तित्तिरिः॥२८॥
+
+[^21]: "कुकुरस्यति क०।"
 
 तित्तिरेस्तु नरः पुत्रस्तस्य चन्दनदुन्दुभिः।  
 पुनर्वसुस्तस्य पुत्र आहुकश्चाहुकीसुतः॥२९॥
@@ -1053,7 +1095,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 राजाधिदेवः शूरश्च विदरथसुतोऽभवत्॥३४॥
 
 राजाधिदेवपुत्रौद्वौशोणाश्वःश्वेतवाहनः।  
-शोणाश्वस्य सुताः पञ्च शमी [शत्रुजिदादयः](# "शत्रुजिदादय इति ख०।")॥३५॥
+शोणाश्वस्य सुताः पञ्च शमी शत्रुजिदादयः[^22]॥३५॥
+
+[^22]: "शत्रुजिदादय इति ख०।"
 
 शमीपुत्रः प्रतिक्षेत्रः प्रतिक्षेत्रस्य भोजकः।  
 भोजस्य हृदिकः पुत्री हृदिकस्य दशात्मजाः॥३६॥
@@ -1067,8 +1111,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सुदंष्ट्रश्चसुवासश्च धृष्टोऽभूदसमौजसः।  
 गान्धारी चैव माद्री च धृष्टभार्य्ये बभूवतुः॥३८॥
 
-सुमित्रोऽभूच्च गान्धार्य्यांमाद्री जज्ञे [युधाजितम्](# "सुधाजितमिति ख०, छ० च।")।  
+सुमित्रोऽभूच्च गान्धार्य्यांमाद्री जज्ञे युधाजितम्[^23]।  
 अनमित्रःशिनिर्धृष्टात्ततो वै देवमीढुषः॥३९॥
+
+[^23]: "सुधाजितमिति ख०, छ० च।"
 
 अनमित्रसुतो निघ्नो निघ्नस्यापि प्रसेनकः।  
 सत्राजितः प्रसेनोऽथ मणिं सूर्य्यात्स्यमन्तकम्॥४०॥
@@ -1088,8 +1134,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 अनमित्राच्छिनिर्ज्जज्ञेसत्यकस्तु शिनेः सुतः।  
 सत्यकात्सात्यकिर्ज्जज्ञेयुयुधानाद्धुनिर्ह्यभूत्॥४५॥
 
-धुनेर्युगन्धरः पुत्रः [स्वाह्योऽभूत्](# "स्वान्धोभूदिति ख०, छ० च। साक्षोऽभूदिति ज०।")स युधाजितः।  
+धुनेर्युगन्धरः पुत्रः स्वाह्योऽभूत्[^24]स युधाजितः।  
 ऋषभक्षेत्रकौतस्य ह्यृषभाच्च स्वफल्ककः॥४६॥
+
+[^24]: "स्वान्धोभूदिति ख०, छ० च। साक्षोऽभूदिति ज०।"
 
 स्वफल्कपुत्रो ह्यक्रूरो अक्रूराच्च सुधन्वकः।  
 शूरात्तु, वसुदेवाद्याः पृथा पाण्डोः प्रियाऽभवत्॥४७॥
@@ -1128,8 +1176,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 रुक्मिणी सत्यभामा च सत्या नग्नजिती प्रिया।  
 सत्यभामा हरेः सेव्या गान्धारी लक्ष्मणा तथा॥३॥
 
-[मित्रविन्दा](# "चित्रविन्देति ख०, छ० च।")च कालिन्दी देवी जाम्बवतीतथा।  
+मित्रविन्दा[^25]च कालिन्दी देवी जाम्बवतीतथा।  
 सुशीला च तथा माद्री कौशल्या विजया जया॥४॥
+
+[^25]: "चित्रविन्देति ख०, छ० च।"
 
 
 
@@ -1170,7 +1220,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 
 
-[सुरासुरैश्चमथितं](# "सुरासुरैरमन्वान्धिमिति क०, छ० च०।")देवेभ्यश्चामृतं ददौ॥१६॥
+सुरासुरैश्चमथितं[^26]देवेभ्यश्चामृतं ददौ॥१६॥
+
+[^26]: "सुरासुरैरमन्वान्धिमिति क०, छ० च०।"
 
 तारकामयसङ्ग्रामेतदा देवाश्च पालिताः।  
 निवार्य्येन्द्रं गुरून् देवान् दानवान्सोमवंशकृत्॥१७॥
@@ -1184,8 +1236,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 गौरींजिहीर्षुणा रुद्रमन्धकेनार्दितं हरिः।  
 अनुरक्तश्च रेवत्यां चक्रेचान्धासुरार्दनम्॥२०॥
 
-अपां फेनमयो भूत्वा [देवासुररणे हरन्](# "देवासुरहरोऽभवदिति क०, घ०, ञ०, ट०, च०।")।  
+अपां फेनमयो भूत्वा देवासुररणे हरन्[^27]।  
 वृत्रं देवहरं विष्णुर्देवधर्म्मानपातयत्॥२१॥
+
+[^27]: "देवासुरहरोऽभवदिति क०, घ०, ञ०, ट०, च०।"
 
 शाल्वादीन् दानवान् जित्वा हरिः परशुरामकः।  
 अपालयत् सुरादींश्चदुष्टक्षत्रंनिहत्य च॥२२॥
@@ -1213,14 +1267,20 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
  अग्निरुवाच।
 
-तुर्व्वसोश्चसुतो वर्गो[गोभानुस्तस्य चात्मजः](# "शोभानुस्तस्य चात्मज इति ख०।")।  
-[गोभानोरासीत्](# "शोभानोरासीदिति ख०।")त्रैशानिस्त्रैशानेस्तु करन्धमः॥१॥
+तुर्व्वसोश्चसुतो वर्गोगोभानुस्तस्य चात्मजः[^28]।  
+गोभानोरासीत्[^29]त्रैशानिस्त्रैशानेस्तु करन्धमः॥१॥
+
+[^28]: "शोभानुस्तस्य चात्मज इति ख०।"
+
+[^29]: "शोभानोरासीदिति ख०।"
 
 करन्धमान्मरुत्तोभूऽद्दुष्मन्तस्तस्य चात्मजः।  
 दुष्मन्तस्य वरूथोऽभूद्गाण्डीरस्तु वरूथतः॥२॥
 
 गाण्डीराच्चैव गान्धारः पञ्च जानपदास्ततः।  
-गान्धाराः केरलाश्चोलाः पाण्डयाः[कोला](# "‍कर्णा इति ज०, ट० च०।")महाबलाः॥३॥
+गान्धाराः केरलाश्चोलाः पाण्डयाःकोला[^30]महाबलाः॥३॥
+
+[^30]: "‍कर्णा इति ज०, ट० च०।"
 
 द्रुह्यस्तु वभ्रुसेतुश्च वभ्रुसेतोः पुरोवसुः।  
 ततो गान्धारा गान्धारैर्धर्म्मोधर्म्माद्घृतोऽभवत्॥४॥
@@ -1249,8 +1309,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 महायोगी बलिस्तस्मादङ्गीवङ्गश्चमुख्यकः।  
 पुण्ड्रःकलिङ्गो बालेयोबलिर्योगीबलान्वितः॥११॥
 
-[अङ्गाद्दधिवाहनोऽभूत्](# "दधिवामनोभूदिति ख०, छ०, ञ०, च०।") तस्माद्दिविरथो नृपः।  
+अङ्गाद्दधिवाहनोऽभूत्[^31] तस्माद्दिविरथो नृपः।  
 दिविरथाद्धर्म्मरथस्तस्य चित्ररथः सुतः॥१२॥
+
+[^31]: "दधिवामनोभूदिति ख०, छ०, ञ०, च०।"
 
 चित्ररथात्सत्यरथो लोमपादश्च तत्सुतः।  
 लोमपादाच्चतुरङ्गः पृथुलाक्षश्च तत्सुतः॥१३॥
@@ -1282,8 +1344,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पुरोर्जनमेजयोऽभूत्प्राचीन्नन्तस्तु तत्सुतः।  
 प्राचीन्नन्तान्मनस्युस्तु तस्माद्वीतमयो नृपः॥१॥
 
-[शुन्धुर्वीतमयाच्चाऽभूच्छुन्धोर्बहुविधः](# "शग्भुर्वीतमयाश्चाभूच्छम्भोर्बहुविध इति ख० ज० च०।")सुतः।  
+शुन्धुर्वीतमयाच्चाऽभूच्छुन्धोर्बहुविधः[^32]सुतः।  
 बहुविधाच्चसंयातिरहोवादी च तत्सुतः॥२॥
+
+[^32]: "शग्भुर्वीतमयाश्चाभूच्छम्भोर्बहुविध इति ख० ज० च०।"
 
 तस्य पुत्रोऽथ भद्राश्वोभद्राश्यस्य दशात्मजाः।  
 ऋचेयुश्चकृषेयुश्चसन्नतेयुस्तथात्मजः॥३॥
@@ -1312,14 +1376,18 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 कपिलश्च महात्मानं सुकेतुञ्चसुतद्वयम्।  
 कौशिकञ्च गृत्सपतिं तथा गृत्सपतेः सुताः॥१०॥
 
-ब्राह्मणाः क्षत्रिया वैश्याः [काशे दीर्घतमाः](# "काशदीर्घतमा इति ज०।")सुताः।  
+ब्राह्मणाः क्षत्रिया वैश्याः काशे दीर्घतमाः[^33]सुताः।  
 ततो धन्वन्तरिश्चासीत्तत्सुतोऽभूच्च केतुमान्॥११॥
+
+[^33]: "काशदीर्घतमा इति ज०।"
 
 केतुमतो हेमरथो दिवोदास इतिश्रुतः।  
 प्रतर्दनो दिवोदासाद्भर्गवत्सौप्रतर्दनात्॥१२॥
 
 वत्सादनर्क्क आसीच्च अनर्क्कात् क्षेमकोऽभवत्।  
-क्षेमकाद्वर्षकेतुश्च वर्षकेतोऽर्विभुः [स्मृतः](# "सुत इति ख०, छ०, ज० च।")॥१३॥
+क्षेमकाद्वर्षकेतुश्च वर्षकेतोऽर्विभुः स्मृतः[^34]॥१३॥
+
+[^34]: "सुत इति ख०, छ०, ज० च।"
 
 विभोरानर्त्तः पुत्रोऽभूद्विभोश्चसुकुमारकः।  
 सुकुमारात्सत्यकेतुर्बत्सभूमिस्तु वत्सकात्॥१४॥
@@ -1327,8 +1395,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सुहोत्रस्य बृहत्पुत्रो बृहतस्तनयास्त्रयः।  
 अजमीढोद्विमीढश्चपुरुमीढश्च वोर्य्यवान्॥१५॥
 
-अजमीढस्य केशिन्यां जज्ञेजह्नुः[प्रतापवान्](# "प्रभाववानिति ख०।")।  
+अजमीढस्य केशिन्यां जज्ञेजह्नुःप्रतापवान्[^35]।  
 जह्नोरभूदजकाश्वो बलाकाश्वस्तदात्मजः॥१६॥
+
+[^35]: "प्रभाववानिति ख०।"
 
 बलाकाश्वस्य कुशिकः कुशिकात् गाधिरिन्द्रकः।  
 गाधेः सत्यवती कन्या विश्वामित्रः सूतोत्तमः॥१७॥
@@ -1343,7 +1413,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पुरुजातेस्तु वाह्याश्वो वाह्याश्वात् पञ्च पार्थिवाः॥१९॥
 
 मुकुलःसृञ्जयश्चैव राजा वृहदिषुस्तथा।  
-[यवीनरश्च](# "यवीनवश्चेति ख०, छ०, ज०, च।") कृमिलःपाञ्चाला इति विश्रुताः॥२०॥
+यवीनरश्च[^36] कृमिलःपाञ्चाला इति विश्रुताः॥२०॥
+
+[^36]: "यवीनवश्चेति ख०, छ०, ज०, च।"
 
 मुकुलस्य तु मौकुल्याः क्षेत्रोपेता द्विजातयः।  
 चञ्चाश्वोमुकुलाज्जज्ञेचञ्चाश्वान्मिथुनं ह्यभूत्॥२१॥
@@ -1403,7 +1475,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 अर्जुनस्य च सौभद्रः परिक्षिदभिमन्युतः॥३८॥
 
 द्रौपदी पाण्डवानाञ्च प्रिया तस्यां युधिष्ठिरात्।  
-प्रतिविन्ध्यो भीमसेनाच्छ्रुतकीर्त्ति[र्द्धनञ्जयात्](# "अत्र पाठः पतितः धनञ्जयात् क उत्पन्नइति विशेषाप्राप्तेः।")॥३९॥
+प्रतिविन्ध्यो भीमसेनाच्छ्रुतकीर्त्तिर्द्धनञ्जयात्[^37]॥३९॥
+
+[^37]: "अत्र पाठः पतितः धनञ्जयात् क उत्पन्नइति विशेषाप्राप्तेः।"
 
 सहदेवाच्छ्रुतकर्म्माशतानीकस्तु नाकुलिः।  
 भीमसेनाद्धिडिम्बायामन्य आसीद् घटोत्कचः॥४०॥
@@ -1445,8 +1519,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 मुस्तपर्पटकोशीरचन्दनोदीच्यनागरैः।  
 षड़हे च व्यतिक्रान्ते तिक्तकं पाययेद्ध्रुवम्॥४॥
 
-[स्नेहयेत्तक्तदोषन्तु](# "पक्वदोषन्त्विति ञ०।")ततस्तञ्च विरेचयेत्।  
+स्नेहयेत्तक्तदोषन्तु[^38]ततस्तञ्च विरेचयेत्।  
 जीर्णाः षष्टिकनीवाररक्तशालिप्रमोदकाः॥५॥
+
+[^38]: "पक्वदोषन्त्विति ञ०।"
 
 तद्विधास्ते ज्वरेष्विष्टा यवानां विकृतिस्तथा।  
 मुद्गामसूराश्च णकाः कुलत्थाश्च सकुष्ठकाः॥६॥
@@ -1514,13 +1590,17 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 मुद्गामलकखर्जूरमृद्वीकावदराणि च॥२५॥
 
 मधु सर्पिः पयः शक्रंनिम्बपर्पटकौवृषम्।  
-[तक्रारिष्टाश्च](# "भद्राविष्टाश्चेति ख०।")शस्यन्ते सततं वातरोगिणाम्॥२६॥
+तक्रारिष्टाश्च[^39]शस्यन्ते सततं वातरोगिणाम्॥२६॥
+
+[^39]: "भद्राविष्टाश्चेति ख०।"
 
 हृद्रोगिणोविरेच्यास्तु पिप्पल्यो हिक्किनां हिताः।  
 तक्रावलालसिन्धूनि मुक्तानि शिशिराम्भसा॥२७॥
 
-मुक्ताः सौवर्चलाजादि मद्यं शस्तं [मदात्यये](# "सदामये इति ञ०। दमात्यये इति ट०।")।  
+मुक्ताः सौवर्चलाजादि मद्यं शस्तं मदात्यये[^40]।  
 सक्षौद्रपयसा लाक्षां पिबेच्चक्षतवान्नरः॥२८॥
+
+[^40]: "सदामये इति ञ०। दमात्यये इति ट०।"
 
 
 
@@ -1528,7 +1608,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 शालयो भोजने रक्ता नीवारकलमादयः॥२९॥
 
 यवान्नविकृतिर्म्मांसं शाकं सौवर्च्चलं शटी।  
-[पथ्या तथैवार्शसां यन्मण्डं तक्रञ्चवारिणा](# "पथ्या तथैव काशस्य मण्डंतक्रञ्चवारुणमिति ख०, ञ० च।")॥३०॥
+पथ्या तथैवार्शसां यन्मण्डं तक्रञ्चवारिणा[^41]॥३०॥
+
+[^41]: "पथ्या तथैव काशस्य मण्डंतक्रञ्चवारुणमिति ख०, ञ० च।"
 
 मुस्ताभ्यासस्तथा लेपश्चित्रकेण हरिद्रया।  
 यवान्नविकृतिः शालिर्व्वास्तूकं ससुवर्च्चलम्॥३१॥
@@ -1542,8 +1624,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 शाल्यन्नन्तोयपयसी केवलोष्णे शृतेऽपि वा।  
 तृष्णाघ्ने मुस्तगुड़योर्गुटिका वा मुखे धृता॥३४॥
 
-यवान्नविकृतिः [पूपं](# "यूषमिति ख०, ज० च।") शुष्कमूलकजन्तथा।  
+यवान्नविकृतिः पूपं[^42] शुष्कमूलकजन्तथा।  
 शाकं पटोलवेत्राग्रमुरुस्तम्भविनाशनम्॥३५॥
+
+[^42]: "यूषमिति ख०, ज० च।"
 
 मुद्गाढकमसूराणां सतिलैर्जाङ्गलैरसैः।  
 ससैन्धवघृतद्राक्षाशुण्ठामलककोलजैः॥३६॥
@@ -1573,7 +1657,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 शिरोरोगविनाशाय स्निग्धमुष्णञ्चभोजनम्॥४३॥
 
 तैलं वा वस्तमूत्रञ्चकर्णपूरणमुत्तमम्।  
-कर्णशूलविनाशाय [सर्वशुक्तानि](# "सर्व्वशुक्तानीति ख०।")वा द्विज॥४४॥
+कर्णशूलविनाशाय सर्वशुक्तानि[^43]वा द्विज॥४४॥
+
+[^43]: "सर्व्वशुक्तानीति ख०।"
 
 गिरिमृच्चन्दनं लाक्षामालती कलिका तथा।  
 संयोज्या या कृता वर्त्तिः क्षतशुक्रहरी तु सा॥४५॥
@@ -1599,8 +1685,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 मधुकादिरसोपेता बलीपलितनाशिनी।  
 वचासिद्धघृतं विप्र भूतदोषविनाशनम्॥५१॥
 
-[कव्यं बुद्धिप्रदञ्चैव](# "कण्ठ्यंवृद्धिप्रदञ्चैवेति ख०।") तथा सर्वार्थसाधनम्।  
+कव्यं बुद्धिप्रदञ्चैव[^44] तथा सर्वार्थसाधनम्।  
 बलाकल्ककषायेण सिद्धमभ्यञ्जेने हितम्॥५२॥
+
+[^44]: "कण्ठ्यंवृद्धिप्रदञ्चैवेति ख०।"
 
 रास्नासहचरैर्वापि तैलं वातविकारिणाम्।  
 अनभिष्यन्दि यच्चान्नं तद्व्रणेषु प्रशस्यते॥५३॥
@@ -1608,8 +1696,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 शक्तुपिण्डीतथैवाम्लापाचनाय प्रशस्यते।  
 पक्वस्य च तथा भेदे निम्बचूर्णञ्चरोपणे॥५४॥
 
-तथा [शुच्युपचारश्च](# "प्रत्युपचारश्चेति ख०।") बलिकर्म विशेषतः।  
+तथा शुच्युपचारश्च[^45] बलिकर्म विशेषतः।  
 सूतिका च तथा रक्षा प्राणिनान्तु सदा हिता॥५५॥
+
+[^45]: "प्रत्युपचारश्चेति ख०।"
 
 भक्षणं निम्बपत्राणां सर्पदष्टस्य भेषजम्।  
 तालनिम्बदलङ्कैश्यंजीर्णन्तैलं यवाघृतम्॥५६॥
@@ -1617,8 +1707,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 धूपो वृश्चिकदष्टस्यशिखिपत्रघृतेन वा।  
 अर्कक्षीरेणसंपिष्टंलोपा वीजं पलाशजं॥५७॥
 
-वृश्चिकार्त्तस्य कृष्णा वा शिवा च [फलसंयुता](# "कलसंयुतेति ज०।")।  
+वृश्चिकार्त्तस्य कृष्णा वा शिवा च फलसंयुता[^46]।  
 अर्कक्षीरं तिलं तैलं पललञ्च गुड़ं समम्॥५८॥
+
+[^46]: "कलसंयुतेति ज०।"
 
 पानाज्जयति दुर्वारं श्वविषं शीघ्रमेव तु।  
 पीत्वा मूलं त्रिवृत्तुल्यं तण्डुलीयस्य सर्पिषा॥५९॥
@@ -1783,7 +1875,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 रक्तपित्तं व्यवायाच्च गुरुकर्म्मप्रवर्त्तनैः॥४०॥
 
 कदन्नभोजनाद्वायुर्देहे शोकाच्च कुप्यति।  
-विदाहिनां [तथोल्कानामुष्णान्नाध्वनिसेविनां](# "तथोल्कानामामुष्मणामध्वसेविनामिति ख०।")॥४९॥
+विदाहिनां तथोल्कानामुष्णान्नाध्वनिसेविनां[^47]॥४९॥
+
+[^47]: "तथोल्कानामामुष्मणामध्वसेविनामिति ख०।"
 
 पित्तंप्रकोपमायाति भयेन च तथा द्विज।  
 अत्यम्बुपानगुर्व्वन्नभोजिनां भुक्तशायिनाम्॥४२॥
@@ -1842,7 +1936,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 भाम्लोष्णश्च तथा प्रोक्तः शेषाः कटुविपाकिनः॥७॥
 
 वीर्य्यपात्रे विपर्य्यस्ते प्रभावात्तत्र निश्चयः।  
-मधुरोऽपि कटुः पाके [यच्च क्षोद्रं](# "यवक्षौद्रमिति ख०।") प्रकीर्त्तितं॥८॥
+मधुरोऽपि कटुः पाके यच्च क्षोद्रं[^48] प्रकीर्त्तितं॥८॥
+
+[^48]: "यवक्षौद्रमिति ख०।"
 
 क्वाथयेत् षोड़शगुणं पिवेद्द्रव्याच्चतुर्गुणम्।
 
@@ -1850,14 +1946,18 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 कल्पनैषा कषायस्य यत्र नोक्तो विधिर्भवेत्॥९॥
 
-कषायन्तु भवेत्तोयं [स्नेहपाके चतुर्गुण](# "स्नेहपाके च तद्गुणमिति ख०।")ं।  
+कषायन्तु भवेत्तोयं स्नेहपाके चतुर्गुण[^49]ं।  
 द्रव्यतुल्यंसमुद्धृत्य द्रव्यं स्नेहं क्षिपेद्बुधः॥१०॥
+
+[^49]: "स्नेहपाके च तद्गुणमिति ख०।"
 
 तावत्प्रमाणं द्रव्यस्य स्नेहपादं ततः क्षिपेत्।  
 तोयवर्ज्जन्तु यद्द्रव्यं स्नेहद्रव्यं तथा भवेत्॥११॥
 
 संवर्त्तितौषधः पाकः स्नेहानां परिकीर्त्तितः।  
-[तत्तुल्यता तु लेह्यस्य तथा भवति सुश्रुत](# "तत्तुल्यताप्यस्यतथा यथा भवति सुश्रुत इति ख०।")॥१२॥
+तत्तुल्यता तु लेह्यस्य तथा भवति सुश्रुत[^50]॥१२॥
+
+[^50]: "तत्तुल्यताप्यस्यतथा यथा भवति सुश्रुत इति ख०।"
 
 स्वच्छमल्पौषधं क्वाथं कषायञ्चोक्तवद्भवेत्।  
 अक्षंचूर्णस्य निर्द्दिष्टं कषायस्य चतुष्पलं॥१३॥
@@ -1945,13 +2045,17 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 प्राग्वटो याम्यतस्त्वाम्रआप्येऽश्वत्थः क्रमेण तु॥१॥
 
 दक्षिणां दिशमुत्पन्नाः समीपे कण्टकद्रुमाः।  
-उद्यानं [गृहवासे](# "गृहवामे इति ञ०।") स्यात् तिलान् वाप्यथ पुष्पितान्॥२॥
+उद्यानं गृहवासे[^51] स्यात् तिलान् वाप्यथ पुष्पितान्॥२॥
+
+[^51]: "गृहवामे इति ञ०।"
 
 गृह्णीयाद्रोपयेद्वृक्षान् द्विजञ्चन्द्रंप्रपूज्य च।  
 ध्रुवाणि पञ्च वायव्यंहस्तं प्राजेशवैष्णवं॥३॥
 
 नक्षत्राणि तथा मूलं शस्यन्ते द्रुमरोपणे।  
-प्रवेशयेन्नदीवाहान् [पुष्करिण्यान्तु](# "पुष्करिण्यान्त्विति पाठो न सम्यक् प्रतिभाति।") कारयेत्॥४॥
+प्रवेशयेन्नदीवाहान् पुष्करिण्यान्तु[^52] कारयेत्॥४॥
+
+[^52]: "पुष्करिण्यान्त्विति पाठो न सम्यक् प्रतिभाति।"
 
 
 
@@ -1999,8 +2103,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
  धन्वन्तरिरुवाच।
 
-[सिंहीशटी](# "सिंहीषष्ठीति ख०।")निशायुग्मं वत्सकं क्वाथसेवनं।  
+सिंहीशटी[^53]निशायुग्मं वत्सकं क्वाथसेवनं।  
 शिशोः सर्व्वातिसारेषु स्तन्यदोषेषु शस्यते॥१॥
+
+[^53]: "सिंहीषष्ठीति ख०।"
 
 शृङ्गींसकृष्णातिविषां चूर्णितां मधुना लिहेत्।  
 एका चातिविशा काशच्छर्द्दिज्वरहरीशिशोः॥२॥
@@ -2021,7 +2127,11 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 नासारक्तहरो नस्याद्दुर्व्वारस इहोत्तमः॥७॥
 
 लशुनार्द्रकशिग्रूणां रसः कर्णस्य पूरणम्।  
-तैलमार्द्रकजात्यं वा [शूलहा](# "शूलहा इत्यत्र पुंस्त्वनिर्देश आर्षः।")[चौष्ठरोगनुत्](# "मूत्रहा शोषरोगनुदिति ञ०।")॥८॥
+तैलमार्द्रकजात्यं वा शूलहा[^54]चौष्ठरोगनुत्[^55]॥८॥
+
+[^54]: "शूलहा इत्यत्र पुंस्त्वनिर्देश आर्षः।"
+
+[^55]: "मूत्रहा शोषरोगनुदिति ञ०।"
 
 
 
@@ -2094,14 +2204,18 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 अङ्गारदग्धं सुगतं सिन्धुमुष्णाम्बुना पिवेत्।  
 शूलवानथ वा तद्धिसिन्धुहिंगुकणाभया॥३०॥
 
-[कटुरोहोत्कणातङ्कलाजचूर्णं](# "कटुरोहोत्पलातङ्कलाजचूर्णमिति ट०।")मधुप्लुतं।
+कटुरोहोत्कणातङ्कलाजचूर्णं[^56]मधुप्लुतं।
+
+[^56]: "कटुरोहोत्पलातङ्कलाजचूर्णमिति ट०।"
 
 
 
 वस्त्रच्छिद्रगतं वक्त्रेन्यस्तं तृष्णां विनाश्येत्॥३१॥
 
-पाठादार्व्वीजातिदलं [द्राक्षामूलफलत्रयैः](# "द्राक्षामृतफलत्रयैरिति ञ०,ट० च।")।  
+पाठादार्व्वीजातिदलं द्राक्षामूलफलत्रयैः[^57]।  
 साधितं समधु क्वाथं कवलं मुखपापहृत्॥३२॥
+
+[^57]: "द्राक्षामृतफलत्रयैरिति ञ०,ट० च।"
 
 कृष्णातिविषतिक्तेन्द्रदारूपाठापयोमुचां।  
 क्वाथोमूत्रे मृतः क्षौद्रीसर्वकण्ठगदापहः॥३३॥
@@ -2136,8 +2250,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 विड़ङ्गंलोहचूर्णञ्चदशभागसमन्वितम्॥४२॥
 
-शतावरीगुडुच्यग्निपलानां [शतविंशतिः](# "पञ्चविंशतिरिति ज०, ट० च।")।  
+शतावरीगुडुच्यग्निपलानां शतविंशतिः[^58]।  
 मध्वाज्यतिलजैर्लिह्याद्बलीपलितवर्जितः॥४३॥
+
+[^58]: "पञ्चविंशतिरिति ज०, ट० च।"
 
 शतमब्दं हि जीवेत सर्वरोगविवर्ज्जितः।  
 त्रिफला सर्वरोगघ्नी समधुः शर्क्वरान्विता॥४४॥
@@ -2152,7 +2268,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 धूपार्थं दृश्यते चित्रं वृषदंशजरायुना॥४७॥
 
 पुनर्माक्षिकधूपेन दृश्यते तद्यथा पुरा।  
-[कर्पूरजलकाभेकतैलं](# "कर्पूरजलकातैखमिति ख०। कर्पूरजानुकातैखमिति ञ०।")पाटलिमूलयुक्॥४८॥
+कर्पूरजलकाभेकतैलं[^59]पाटलिमूलयुक्॥४८॥
+
+[^59]: "कर्पूरजलकातैखमिति ख०। कर्पूरजानुकातैखमिति ञ०।"
 
 पिष्ट्वालिप्यपदे द्वेच चरेदङ्गारके नरः।  
 तृणौत्थानादिकं व्यूह्य दर्शयन्वैकुतूहलं॥४९॥
@@ -2217,7 +2335,11 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 नारायणञ्चदुःस्वप्ने दाहादौजलशायिनं।  
 हयग्रीवञ्चविद्यार्थी जगत्सूतिं सुताप्तये।  
-बलभद्रं [शौरकार्य्ये](# "वीरकार्य्ये इति ख०।")[एकं नामार्थसाधकम्](# "एकनामाथ सार्थकमिति ख०, ञ० च।")॥१३॥
+बलभद्रं शौरकार्य्ये[^60]एकं नामार्थसाधकम्[^61]॥१३॥
+
+[^60]: "वीरकार्य्ये इति ख०।"
+
+[^61]: "एकनामाथ सार्थकमिति ख०, ञ० च।"
 
 इत्याग्नेये महापुराणे मन्त्ररूपौषधकथनं नाम त्र्यशीत्यधिकद्विशततमोऽध्यायः।
 
@@ -2232,7 +2354,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
  धन्वन्तरिरुवाच।
 
 सिद्धयोगान् पुनर्वक्ष्ये मृतसञ्जीवनीकरान्।  
-आत्रेयभाषितान् दिव्यान् [सर्वव्याधिविमर्दनान्](# "सर्व्वव्याधिविनाशकानिति ख०।")॥१॥
+आत्रेयभाषितान् दिव्यान् सर्वव्याधिविमर्दनान्[^62]॥१॥
+
+[^62]: "सर्व्वव्याधिविनाशकानिति ख०।"
 
  आत्रेय उवाच।
 
@@ -2253,8 +2377,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 त्रिवृद्विशालकटुकात्रिफलारग्बधैः कृतः।  
 संस्कारी भेदनक्वाथः पेयः सर्वज्वरापहः॥६॥
 
-[देवदारुबलावासात्रिफलाव्योषपद्मकैः](# "देवदारुबलारास्नाचिफलाव्योषपद्मकैरिति ख० ।")।  
+देवदारुबलावासात्रिफलाव्योषपद्मकैः[^63]।  
 सविड़ङ्गैःसितातुल्यं तच्चूर्णंपञ्चकाशजित्॥७॥
+
+[^63]: "देवदारुबलारास्नाचिफलाव्योषपद्मकैरिति ख० ।"
 
 दशमूलीशटीरास्नापिप्पलीविल्वपौैष्करैः।  
 शृङ्गीतामलकीभार्गीगुडूचीनागवल्लिभिः॥८॥
@@ -2283,10 +2409,16 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 शिरीषपुष्यसुरसभावितंमरिचं हितं॥१५॥
 
 सर्व्वार्त्तिनुन्मसूरोऽथ पित्तमुक्तण्डुलीयकं।  
-निर्ग्गुण्डीशारिवा शेलु [रङ्गोलश्च](# "वङ्कोलश्चेति ख०, ञ० च ।")विषापहः॥१६॥
+निर्ग्गुण्डीशारिवा शेलु रङ्गोलश्च[^64]विषापहः॥१६॥
 
-महौषधं मृतां क्षुद्रां[पुष्करं](# "पुष्पकमिति ञ०।")[ग्रन्थिकोद्भवं](# "ग्रन्थिलोद्भवमिति ख०।")।  
+[^64]: "वङ्कोलश्चेति ख०, ञ० च ।"
+
+महौषधं मृतां क्षुद्रांपुष्करं[^65]ग्रन्थिकोद्भवं[^66]।  
 पिबेत्‌ कणायुतं क्वाथं मूर्च्छायातञ्चमदेषु च॥१७॥
+
+[^65]: "पुष्पकमिति ञ०।"
+
+[^66]: "ग्रन्थिलोद्भवमिति ख०।"
 
 हिङ्गुसौवर्च्चलव्योषैर्द्विपलांशैर्घृताढकं।  
 चतुर्गुणे गवां मूत्रेसिद्धमुन्मादनाशनं॥१८॥
@@ -2303,8 +2435,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 कुर्य्याद्दशपलान्‌ भागान्‌ एकैकस्य सकुड्डितान्‌।  
 जलद्रोणेविपक्तव्यं यावत्पादावशेषितं॥२२॥
 
-घृतप्रस्थम्पचेत्तेन [त्रिफलागर्भसंयुतं](# "त्रिफलाशर्करायुतमिति ख.,ञ.न।")।  
+घृतप्रस्थम्पचेत्तेन त्रिफलागर्भसंयुतं[^67]।  
 पञ्चतिक्तभिति ख्यातं सिर्पिःकुष्ठविनाशनं॥२३॥
+
+[^67]: "त्रिफलाशर्करायुतमिति ख.,ञ.न।"
 
 अशीतिंवातजान्रोगान् चत्वारिंशश्चपैत्तिकान्।
 
@@ -2319,8 +2453,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 व्रणप्रक्षालनङ्कुर्यादुपदंशप्रशान्तये।  
 पटोलदलचूर्णेनदाडिमत्वग्रजोऽथ वा॥२६॥
 
-गुण्डयेच्च[गजेनापि](# "गुण्डयेन्नगजेनापीति ख०, ञ० च।")त्रिफलाचूर्णकेन च।  
+गुण्डयेच्चगजेनापि[^68]त्रिफलाचूर्णकेन च।  
 त्रिफलायोरजोयष्ठिमार्कवोत्यलमारिचैः॥२७॥
+
+[^68]: "गुण्डयेन्नगजेनापीति ख०, ञ० च।"
 
 **ससैन्धवैःपचेत्तैलमभ्यङ्गाच्छर्द्दिकापहं।  
 सक्षीरान्‌ मार्कवरसान्‌ द्विप्रस्थमधुकोत्पलेः॥२८॥**
@@ -2352,10 +2488,14 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 नाडी दुष्टव्रणं शूलम्भगन्दरमुखं हरेत्॥३६॥
 
 हरितकीं मूत्रसिद्धां सतैललवणान्वितां।  
-प्रातः प्रातश्च सेवेत [कफवातामयापहां](# "कफवातविनाशिनीमिति ज० ।")॥३७॥
+प्रातः प्रातश्च सेवेत कफवातामयापहां[^69]॥३७॥
 
-त्रिकटु[त्रिफलाक्वाथं](# "त्रिकटुत्रिफलाकुष्ठमिति ञ० ।")सक्षारलवणं पिबेत्।  
+[^69]: "कफवातविनाशिनीमिति ज० ।"
+
+त्रिकटुत्रिफलाक्वाथं[^70]सक्षारलवणं पिबेत्।  
 कफवातात्मकेष्वेव विरेकः कफवृद्धिनुत्॥३८॥
+
+[^70]: "त्रिकटुत्रिफलाकुष्ठमिति ञ० ।"
 
 पिप्पलीपिप्पलीमूलवचाचित्रकनागरैः।  
 क्वाथितं वा पिबेत्पेयमामवातविनाशनं॥३९॥
@@ -2373,13 +2513,17 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 प्रभूतकालमासेव्य मुच्यते वातशोणितात्॥४३॥
 
 पिप्पली वर्द्धमानं वा सेव्यं पथ्या गुडेन वा।  
-[पटोलत्रिफलातीव्रकटुकामृतसाधितं](# "पटोलत्रिफलामीरुकटुकामृतसाधितमिति ख०, छ०, ञ० च।")॥४४॥
+पटोलत्रिफलातीव्रकटुकामृतसाधितं[^71]॥४४॥
+
+[^71]: "पटोलत्रिफलामीरुकटुकामृतसाधितमिति ख०, छ०, ञ० च।"
 
 पक्वंपीत्वा जयत्याशु सदाहं वातशोणितं।
 
 
 
-**गुग्गुलं [कोष्णशोते](# "क्रोष्टुशीतेऽथेति ख॰।")तु गुडुची त्रिफलाम्भसा॥४५॥**
+**गुग्गुलं कोष्णशोते[^72]तु गुडुची त्रिफलाम्भसा॥४५॥**
+
+[^72]: "क्रोष्टुशीतेऽथेति ख॰।"
 
 **बलापुनर्न्नर्वैरण्डबृहतीद्वयगोक्षुरैः।  
 सद्विङ्गु लवणैः पीतं सद्यो वातरुजापहं॥४६॥**
@@ -2417,8 +2561,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 मूत्रेण चूर्णगुटिका गुल्मप्लीहादिमर्द्दनी॥५६॥
 
-वासानिम्बपटोलानि त्रिफला [वातपित्तनुत्‌](# " त्रिफला चास्नपित्तनुदिति ख., ञ. च।")।  
+वासानिम्बपटोलानि त्रिफला वातपित्तनुत्‌[^73]।  
 लिह्यात्‌ क्षौद्रेण वि़ड़ङ्गं चूर्णंकृमिविनाशनम्‌॥५७॥
+
+[^73]: " त्रिफला चास्नपित्तनुदिति ख., ञ. च।"
 
 विड़ङ्गसैन्धवक्षारमूत्रेनापि हरीतकी।  
 शल्लकीवदरीजम्बपियालाम्रार्जुनत्वचः॥५८॥
@@ -2457,7 +2603,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पद्मोत्पलस्यमूलानि मधुकं शर्करातिलान्‌॥६८॥
 
 द्रवमाणेषु गर्भेषुगर्भस्थापनमुत्तमं।  
-देवदारुनभः [कुष्](# "कृष्णमिति ख० ।")ठंनलदं विश्वभेषजं॥६९॥
+देवदारुनभः कुष्[^74]ठंनलदं विश्वभेषजं॥६९॥
+
+[^74]: "कृष्णमिति ख० ।"
 
 लेपः काञ्जिकसम्पिष्टस्तैलयुक्तःशिरोर्त्तिनुत्।  
 वस्त्रपूतंक्षिपेत्‌ कोष्णंसिन्धूत्थं कर्णशूलनुत्‌॥७०॥
@@ -2468,8 +2616,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 त्रिफलासहितं सर्पिस्तिमिरघ्नमनुत्तमं।  
 त्रिफलाव्योषसिन्धूत्यैर्घृतं सिद्धंपिवेन्नरः॥७२॥
 
-चाक्षुष्यन्भेदनं [हृद्यंं](# "कुष्ठमिति ञ.")दीपनं क्रफरोगनुत्‌।  
+चाक्षुष्यन्भेदनं हृद्यंं[^75]दीपनं क्रफरोगनुत्‌।  
 नीलोत्पलस्य किञ्जल्कं गोशकृद्रससंयुतं॥७३॥
+
+[^75]: "कुष्ठमिति ञ."
 
 गुटिकाञ्चनमेतत्‌ स्यात्‌ दिनरात्र्यन्धयोर्हितं।  
 यष्टीमधुवचाकृष्णबीजानांकुटजस्य च॥७४॥
@@ -2478,7 +2628,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 स्निग्धस्विन्नयवस्तोयं प्रदातव्यं विरेचनम्‌॥७५॥
 
 अन्यथा योजितं कुर्य्यत्‌ मन्दाग्निंगौरवारुचिं।  
-[पथ्यासैन्धवकृष्णानां](# "पथ्यासैन्धवकुष्ठानामिति ख.।")चूर्णमुष्णाम्बुना पिवेत्‌॥७६॥
+पथ्यासैन्धवकृष्णानां[^76]चूर्णमुष्णाम्बुना पिवेत्‌॥७६॥
+
+[^76]: "पथ्यासैन्धवकुष्ठानामिति ख.।"
 
 विरेकः सर्व्वरोगघ्नः श्रेष्ठो नाराचसंज्ञकः।
 
@@ -2506,8 +2658,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पलं पलार्द्धंकर्षंवा त्रिफलां सकलां तथा।  
 विल्वतैलस्य नस्यञ्च मासं पञ्चशती कविः॥२॥
 
-रोगापमृल्युबलिजित्‌ [तिलं](# " तैnमिति ञ.।")भक्तातकं तथा।  
+रोगापमृल्युबलिजित्‌ तिलं[^77]भक्तातकं तथा।  
 पञ्चाङ्गं वाकूचीचूण षण्मासं खदिरोदकैः॥२॥
+
+[^77]: " तैnमिति ञ.।"
 
 कायैः कुष्ठञ्जयेत्‌ सेव्यं चूर्णं नीलकुरुण्टजम्‌।  
 क्षीरेण मधुना वापि शतायुः खण्डदुग्धभुक्‌॥४॥
@@ -2529,19 +2683,27 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 क्षौद्राज्यैःपयसा वापि निर्गुण्डीरोगमृत्युजित्‌।  
 पञ्चाङ्गं निम्बचूर्णस्य खदिरक्वाथभावितं॥९॥
 
-कर्षं भृङ्गरसेनापि [रोगजिच्चामरो](# "रोगनुच्चामरो भवेदिति ञ.।")भवेत्‌।  
+कर्षं भृङ्गरसेनापि रोगजिच्चामरो[^78]भवेत्‌।  
 रुदन्तिकाज्यमधुभुक्‌ दुग्धभोजी च मृत्युजित्‌॥१०॥
+
+[^78]: "रोगनुच्चामरो भवेदिति ञ.।"
 
 कर्षचूर्णंहरीतक्या भावितं भृङ्गरा़ड्रसैः।  
 
 घृतेन मधुना सेव्य त्रिशतायुश्चरोगजित्‌॥११॥
 
 वाराहिका भृङ्गरसं लोहचूर्णंशतावरी।  
-[साज्यं कर्षं](# "साज्यंसार्ध्वमिति ख०। ") पञ्चशतीकार्त्तचूण शतावरी॥१२॥
+साज्यं कर्षं[^79] पञ्चशतीकार्त्तचूण शतावरी॥१२॥
+
+[^79]: "साज्यंसार्ध्वमिति ख०। "
 
 भावितं भृङ्गराजेन मध्वाज्यन्तिशती भवेत्‌।  
-ताम्रं [मृतं](# "ताणामृतमिति ञ.।")
-[मृततुल्यं](# "सुरतुल्यमिति ज०, ञ० च।")गन्धकञ्चकुमारिका॥१३॥
+ताम्रं मृतं[^80]
+मृततुल्यं[^81]गन्धकञ्चकुमारिका॥१३॥
+
+[^80]: "ताणामृतमिति ञ.।"
+
+[^81]: "सुरतुल्यमिति ज०, ञ० च।"
 
 रसैर्विमृज्यद्वेगुञ्चेसाज्यं पञ्चशताब्दवान्‌।  
 
@@ -2594,7 +2756,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **गजचिकित्सा।**
 
-[पालकाप्य उवाच](# "धन्वन्तरिरुवाचेति ञ० ।")।
+पालकाप्य उवाच[^82]।
+
+[^82]: "धन्वन्तरिरुवाचेति ञ० ।"
 
 गजलक्ष्मचिकित्साञ्चलोमपाद वदामि ते।  
 
@@ -2604,7 +2768,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 दक्षिणञ्चोन्नतन्दन्तंवृंहितं जलदोपमं॥२॥
 
 कर्णौ च विपूलौयेषां सूक्ष्मविन्द्वन्वितत्वचौ।  
-ते धार्य्यान तथा धार्य्या वामना ये च [सङ्कुशाः](# "मर्द्दना इति ञ० ।")॥३॥
+ते धार्य्यान तथा धार्य्या वामना ये च सङ्कुशाः[^83]॥३॥
+
+[^83]: "मर्द्दना इति ञ० ।"
 
 हस्तिन्यःपार्श्वगर्भिण्योये च मूढा मतङ्गजाः।  
 वर्णंसत्वंबलं रूपं कान्तिःसंहननञ्जवः॥४॥
@@ -2665,8 +2831,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 भेदनद्रावणाभ्यङ्गस्नेहपानानुवासनैः।  
 सर्वानेव समुत्पन्नान्‌ विद्रवान्‌ समुपाहरेत्‌॥२१॥
 
-यष्टिकं [मुद्गसूपेन](# "मुदग्यूषेणेति ज०, ञ० च।")शारदेन तथा पिवेत्‌।  
+यष्टिकं मुद्गसूपेन[^84]शारदेन तथा पिवेत्‌।  
 बालविल्वैस्तथालेपःकटुरोगेषु शस्यते॥२२॥
+
+[^84]: "मुदग्यूषेणेति ज०, ञ० च।"
 
 विडङ्गेन्द्रयवौ हिङ्गु सरलं रजनीद्वयम्‌।  
 पूर्वाह्णेपाययेत्‌ पिण्डान्सर्वशूलोपशान्तये॥२३॥
@@ -2681,7 +2849,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 दीपनीयैस्तथा द्रव्यैःशृतो मांसरसःशुभः॥२६॥
 
 वायसःकुक्कुरश्चोभौ काकोलूककुलो हरिः।  
-भवेत्‌ क्षौद्रेण संयुक्तःपिण्डो युद्धे [महापदि](# "मदाय हीति ञ० ।")॥२७॥
+भवेत्‌ क्षौद्रेण संयुक्तःपिण्डो युद्धे महापदि[^85]॥२७॥
+
+[^85]: "मदाय हीति ञ० ।"
 
 कटुमत्स्यविड़ङ्गानि क्षारःकोषातकीपयः।  
 हरिद्रा चेति धूपोयं कुञ्जरस्य जयावहः॥२८॥
@@ -2691,7 +2861,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 पूरीषञ्चटकायाश्चतथा पारावतस्य च।  
 
-[क्षीरवृक्षकरीषाश्च](# "क्षीरवृक्षकरोराश्चेति ञ०।")प्रसन्नायेष्टमञ्जनं॥३०॥
+क्षीरवृक्षकरीषाश्च[^86]प्रसन्नायेष्टमञ्जनं॥३०॥
+
+[^86]: "क्षीरवृक्षकरोराश्चेति ञ०।"
 
 
 
@@ -2735,8 +2907,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 वालुकापङ्कसंच्छन्ने गर्त्तागर्त्तप्रदूषिते।  
 अचित्तज्ञो विनोपायैर्वाहनं कुरुतेतु यः॥५॥
 
-स वाह्यतेहयेनैव पृष्ठस्थःकटिकां [विना](# "कणिकां विनेति ज०, ञ० च ।")।  
+स वाह्यतेहयेनैव पृष्ठस्थःकटिकां विना[^87]।  
 छन्दं विज्ञापयेत्‌ कोपिसुकृतीधीमतांवरः॥६॥
+
+[^87]: "कणिकां विनेति ज०, ञ० च ।"
 
 अभ्यासादभियोगाच्च विनाशास्त्रंस्ववाहकः।  
 स्नातस्य प्राङ्मुखस्याथ देवान्‌ वपुषियोजयेत्‌॥७॥
@@ -2779,11 +2953,15 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 तव पृष्ठं समारुह्य हता दैत्याःसुरैःपुरा।  
 अधुना त्वां समारुह्यजेष्यामि रिपुवाहिनीं॥१९॥
 
-कर्णजापन्ततःकृत्वा विमुह्यच तथा [प्यरीन्‌](# "तथासुरानिति ज०, ञ०, ठ० च ।")।  
+कर्णजापन्ततःकृत्वा विमुह्यच तथा प्यरीन्‌[^88]।  
 पर्य्यानयेद्धयंमादीवाहयेद्युद्धतो जयः॥२०॥
 
-सञ्जाताः[स्वशरीरेण](# "सह जाताः शरीरेणेति ञ० ।")दोषाःप्रायेण वाजिनां।  
+[^88]: "तथासुरानिति ज०, ञ०, ठ० च ।"
+
+सञ्जाताःस्वशरीरेण[^89]दोषाःप्रायेण वाजिनां।  
 हन्यन्तेऽतिप्रयत्नेन गुणाःसादिवरैःपुनः॥२१॥
+
+[^89]: "सह जाताः शरीरेणेति ञ० ।"
 
 सहजा इव दृश्यन्ते गुणाः सादिवरोद्भवाः।  
 नाशयन्ति गुणानन्ये सादिनःसहजानपि॥२२॥
@@ -2847,10 +3025,14 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 रोकयित्वा मुखे पादं ग्राह्यतो लोकनं हितं॥३९॥
 
 गाढ़मापीड्यरागाभ्यां वल्‌गामाकृष्य गृह्यते।  
-तद्बन्धनाद् [युग्मपादं](# "भठकालाद्यनुत्‌पादमिति ज० ।")तद्वद्वक्वनमुच्यते॥४०॥
+तद्बन्धनाद् युग्मपादं[^90]तद्वद्वक्वनमुच्यते॥४०॥
+
+[^90]: "भठकालाद्यनुत्‌पादमिति ज० ।"
 
 संयोज्य वल्गया पादान्‌ वल्गामामोच्य वाञ्छितम्।  
-[वाह्यपार्ष्णिप्रयोगात्तु](# "बाह्यपार्श्वेप्रयोगात्त्विति ख० ।")यत्रतत्ताड़नं मतम्‌॥४१॥
+वाह्यपार्ष्णिप्रयोगात्तु[^91]यत्रतत्ताड़नं मतम्‌॥४१॥
+
+[^91]: "बाह्यपार्श्वेप्रयोगात्त्विति ख० ।"
 
 प्रलयाविप्लवे ज्ञात्त्वाक्रमेणानेन बुद्धिमान्‌।  
 मोटनेन चतुर्थेन विधिरेष बिधीयते॥४२॥
@@ -2858,11 +3040,15 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 नाधत्तेऽधश्च यःपादंयोऽश्वोलघुनि मण्डले।  
 मोटनोद्वक्कनाभ्यान्तुग्राहयेत्‌ पादमीशितं॥४३॥
 
-[वटयित्वासने](# "वण्टयित्वासने इति ख० ।")गाटं मन्दमादाय यो ब्रजेत्‌।  
+वटयित्वासने[^92]गाटं मन्दमादाय यो ब्रजेत्‌।  
 ग्राह्यतेसंग्रहाद्यत्रतत्संग्रहणमुच्यते॥४४॥
 
+[^92]: "वण्टयित्वासने इति ख० ।"
+
 हत्वा पार्श्वेप्रहारेण स्थानस्थो व्यग्रमानसम्‌।  
-वल्गामाकृष्य पादेन [ब्राह्यकण्ठकपायनम्](# "ग्राहकण्ठकपायनमितिख० ।")॥४५॥
+वल्गामाकृष्य पादेन ब्राह्यकण्ठकपायनम्[^93]॥४५॥
+
+[^93]: "ग्राहकण्ठकपायनमितिख० ।"
 
 उत्थितोयोऽङ्घ्रिणानेनपार्ष्णिपादात्तुरङ्गमः।  
 
@@ -2915,14 +3101,20 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **गोमूत्राकुटिला वेणीपद्ममण्डलमालिका॥६०॥**
 
-**पञ्चोलूखलिका कार्य्या [गर्वितास्तेऽतिकीर्त्तिताः](# "गर्जितास्तेऽतिकीर्त्तिता इति ख० ।")।  
-संक्षिप्तञ्चैवविक्षिप्तंकुञ्चितञ्च[यथाचितम्](# "यथाश्चितमिति ञ० ।")॥६१॥**
+**पञ्चोलूखलिका कार्य्या गर्वितास्तेऽतिकीर्त्तिताः[^94]।  
+संक्षिप्तञ्चैवविक्षिप्तंकुञ्चितञ्चयथाचितम्[^95]॥६१॥**
+
+[^94]: "गर्जितास्तेऽतिकीर्त्तिता इति ख० ।"
+
+[^95]: "यथाश्चितमिति ञ० ।"
 
 **वल्गितावल्गितौचैव षोटाचेत्थमुदाहृतम्‌।  
 वीथीधनुःशतं यावदशीतिर्न्नवतिस्तथा॥६२॥**
 
 **भद्रः सुसाध्यो वाजी स्यान्मन्दो दण्डैकमानसः।  
-[मृगजङ्घो](# "मृगञ्जय इति ख०, ञ० च ।")मृगो वाजीसङ्कीर्णस्तत्समन्वयात्‌॥६३॥**
+मृगजङ्घो[^96]मृगो वाजीसङ्कीर्णस्तत्समन्वयात्‌॥६३॥**
+
+[^96]: "मृगञ्जय इति ख०, ञ० च ।"
 
 **शर्क्करामधुलाजादः सुगन्धोऽश्वः शुचिर्द्विजः।  
 तेजस्वीक्षत्रियश्चाश्वो विनीतो बुद्धिमांश्चयः॥६४॥**
@@ -2948,7 +3140,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 शालिहोत्र उवाच।
 
-अश्वानां लक्षणं वक्ष्ये [चिकित्साञ्चैव](# "चिकित्सान्तवेति ञ० ।")सुश्रुत।  
+अश्वानां लक्षणं वक्ष्ये चिकित्साञ्चैव[^97]सुश्रुत।  
+
+[^97]: "चिकित्सान्तवेति ञ० ।"
 
 हीनदन्तो विदन्तश्चकरालीकृष्णतालुकः॥१॥
 
@@ -2978,7 +3172,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 
 
-[राज्ञान्तुरङ्गमायत्र](# "राजौ तुरङ्गमा यत्रेति ख० ।")विजयं वर्जयेत्ततः॥९॥
+राज्ञान्तुरङ्गमायत्र[^98]विजयं वर्जयेत्ततः॥९॥
+
+[^98]: "राजौ तुरङ्गमा यत्रेति ख० ।"
 
 पालितस्तु हयो दन्तीशुभदो दुःखदोऽन्यथा।  
 श्रियःपुत्रास्तु गन्धर्व्वावाजिनोरत्नमुत्तमम्॥१०॥
@@ -2993,7 +3189,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 नागरातिविषा मुस्ता सानन्ता विल्वमालिका॥१३॥
 
 क्वाथमेषां पिवेद्वाजी सर्व्वातीसारनाशनम्।  
-प्रियङ्गुसारिवाभ्याञ्चयुक्तमाजं [शृतं](# "घृतमिति ख० ।")पयः॥१४॥
+प्रियङ्गुसारिवाभ्याञ्चयुक्तमाजं शृतं[^99]पयः॥१४॥
+
+[^99]: "घृतमिति ख० ।"
 
 पर्य्याप्तशर्करंपीत्वा श्रमाद्वाजीविमुच्यते।  
 द्रोणिकायान्तु दातव्या तैलवस्तिस्तुरङ्गमे॥१५॥
@@ -3023,7 +3221,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पीत्वानीरशनो वाजीरक्तमेहात्‌ प्रमुच्यते॥२२॥
 
 मन्याहनुनिगालस्थशिराशोथो गलग्रहः।  
-अभ्यङ्गः[कटुतैलेन](# "तिक्ततैलनेति ख० ।")तत्रतेष्वेव शस्यते॥२३॥
+अभ्यङ्गःकटुतैलेन[^100]तत्रतेष्वेव शस्यते॥२३॥
+
+[^100]: "तिक्ततैलनेति ख० ।"
 
 गलग्रहगदो शोथःप्रायशो गलदेशके।  
 प्रत्यक्पुष्पी तथा वह्निःसैन्धवंसौरसो रसः॥२४॥
@@ -3059,8 +3259,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 गुडूच्या च कृतःकल्को हितो युक्तावलम्बिने।  
 उत्पाते च शिले श्राव्ये शुष्कशेफे तथैव च॥३४॥
 
-क्षिप्रकारिणि दोषे च सद्यो[विदलमिष्यते](# "वेधनमिष्यत इति ज०, ञ० च ।")।  
+क्षिप्रकारिणि दोषे च सद्योविदलमिष्यते[^101]।  
 गोशकृन्‌ मञ्जिकाकुष्ठरजनीतिलसर्षपैः॥३५॥
+
+[^101]: "वेधनमिष्यत इति ज०, ञ० च ।"
 
 गवां मूत्रेण पिष्टैश्च मर्द्दनंकण्डुनाशनम्‌।  
 शीतो मधुयुतःक्वाथोनाशिकायांसशर्करः॥३६॥
@@ -3209,8 +3411,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **शूलं पद्मम्बहिर्वृन्ते चक्रेसूर्य्यन्तथाश्विनौ।  
 वसूनष्टौ तथा साध्यान्‌ याम्येऽथ नेर्ऋते दले॥८॥**
 
-**देवानाङ्गिरसश्चाश्विभृगवो [मरुतोऽनिले](# "मरुतोऽनलं इति ञ०।")।  
+**देवानाङ्गिरसश्चाश्विभृगवो मरुतोऽनिले[^102]।  
 विश्वेदेवांस्तथा दक्षेरुद्रा रौद्रेऽथ मण्डले॥९॥**
+
+[^102]: "मरुतोऽनलं इति ञ०।"
 
 **ततो वृत्तया रेखया तु देवान्‌ वैवाह्यतो यजेत्‌।  
 सूत्रकारानृषीन्‌ वाणीं पूर्व्वादौ सरितो गिरीन्॥१०॥**
@@ -3218,8 +3422,12 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **महाभूतानि कोणेषु ऐशान्यादिषु संयजेत्‌।  
 पद्मंचक्रं गदां शङ्खंचतुरश्रन्तु मण्डलं॥११॥**
 
-**चतुर्द्वारं ततः [कुम्भाः](# "चतुःकुम्भाइति ञ०।")अग्न्यादौ च [पताकिकाः](# "पताकिनइति ञ० ।")।  
+**चतुर्द्वारं ततः कुम्भाः[^103]अग्न्यादौ च पताकिकाः[^104]।  
 चत्वारस्तोरणा द्वारि नागानैरवतादिकान्‌॥१२॥**
+
+[^103]: "चतुःकुम्भाइति ञ०।"
+
+[^104]: "पताकिनइति ञ० ।"
 
 **पूर्व्वादौचौषधीभिश्चदेवानां भाजनं पृथक्‌।  
 पृथक्शताहुतीश्चाज्यैर्गजानर्च्य प्रदक्षिणं॥१३॥**
@@ -3231,7 +3439,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 
 
-नागराजेऽमृतेशान्तिं [कृत्वाऽमुस्मिन्](# "कृत्वान्यस्मिन्निति ख०, ज०, ञ० च।")जपेन्मनुम्‌॥१५॥
+नागराजेऽमृतेशान्तिं कृत्वाऽमुस्मिन्[^105]जपेन्मनुम्‌॥१५॥
+
+[^105]: "कृत्वान्यस्मिन्निति ख०, ज०, ञ० च।"
 
 श्रीगजस्त्वं कृतो राज्ञा भवानस्य गजाग्रणीः।  
 प्रभूर्माल्याग्रभक्तैस्त्वां पूजयिष्यति पार्थिवः॥१६॥
@@ -3444,10 +3654,14 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 स्त्रीपुंनपुंसकत्वेन त्रिधाःस्युर्म्मन्त्रजातयः॥३॥**
 
 **स्त्रीमन्त्रा वह्निजायान्ता नमोन्ताश्च नपुंसकाः।  
-शेषाः पुमांसस्ते शस्ता [वश्योच्चाटविषेषु च](# "बन्धोच्चाटवशेषु चेतिज० ।")॥४॥**
+शेषाः पुमांसस्ते शस्ता वश्योच्चाटविषेषु च[^106]॥४॥**
 
-**क्षुद्रक्रियामयध्वंसे [स्त्रियोऽन्यत्र](# "स्त्रियो नात्रेतिख० ।")नपुंसकाः।  
+[^106]: "बन्धोच्चाटवशेषु चेतिज० ।"
+
+**क्षुद्रक्रियामयध्वंसे स्त्रियोऽन्यत्र[^107]नपुंसकाः।  
 मन्त्रावाग्नयसौम्याख्यौताराद्यन्तार्द्वयोर्जपेत्॥५॥**
+
+[^107]: "स्त्रियो नात्रेतिख० ।"
 
 **तारान्त्याग्निवियत्प्रायो मन्त्रआग्नेय इष्यते।  
 शिष्टः सौम्यः प्रशस्तौ तौ कर्मणोः क्रूरसौम्ययोः॥६॥**
@@ -3475,8 +3689,12 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **लिपौ चतुष्पथस्थायामाख्यवर्णपदान्तराः।  
 सिद्धाःसाध्या द्वितीयस्थाःसुसिद्धावैरिणःपरे॥१३॥**
 
-**सिद्धादीन्‌ कल्पयेदेवं [सिद्धात्यन्तगुणैरपि](# "सिद्धाद्यन्तदलैरपीतिज० ।")।  
-सिद्धेसिद्धोजपात्‌ साध्यो [जपपूजाहुतादिना](# "जपपूर्णाहुतादिनेति ख० ।")॥१४॥**
+**सिद्धादीन्‌ कल्पयेदेवं सिद्धात्यन्तगुणैरपि[^108]।  
+सिद्धेसिद्धोजपात्‌ साध्यो जपपूजाहुतादिना[^109]॥१४॥**
+
+[^108]: "सिद्धाद्यन्तदलैरपीतिज० ।"
+
+[^109]: "जपपूर्णाहुतादिनेति ख० ।"
 
 **सुसिद्धोध्यानमात्रेण साधकं नाशयेदरिः।  
 दुष्टार्णप्रचुरो यः स्यान्मन्त्रःसर्व्वविनिन्दितः॥१५॥**
@@ -3532,7 +3750,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 कुटीविविक्तादेशाःस्युर्देवालयनदीह्रदाः॥३०॥
 
 सिद्धौयवागूपूपैर्व्वा पयोभक्ष्यंहविष्यकम्‌।  
-मन्त्रस्यदेवता [तावत्‌](# "तारेति ख० ।")तिथिवारेषु वैजपेत्‌॥३१॥
+मन्त्रस्यदेवता तावत्‌[^110]तिथिवारेषु वैजपेत्‌॥३१॥
+
+[^110]: "तारेति ख० ।"
 
 कृष्णाष्टमीचतुर्द्दश्योर्ग्रहणादौ च साधकः।  
 दस्रोयमोऽनलो धाता शशीरुद्रो गुरुर्दितिः॥३२॥
@@ -3553,7 +3773,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 केशान्तेषु च वृत्तेषु चक्षुषोःश्रवणद्वये॥३७॥
 
 नासागण्डौष्ठदन्तानां द्वेद्वेमूर्द्धास्ययोःक्रमात्‌।  
-वर्णान्‌ [पञ्चसुवर्गानां](# "पञ्चस्वरवर्गाणामितिख० ।")बाहुचरणसन्धिषु॥३८॥
+वर्णान्‌ पञ्चसुवर्गानां[^111]बाहुचरणसन्धिषु॥३८॥
+
+[^111]: "पञ्चस्वरवर्गाणामितिख० ।"
 
 पार्श्वयोःपृष्ठतो नाभौ हदये च क्रमान्न्यसेत्‌।
 
@@ -3627,9 +3849,13 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 फणिमण्डलिराजीलवातपित्तकफात्मकाः॥४॥
 
 व्यन्तरा दोषमिश्रास्ते सर्पा दर्व्वीकराःस्मृताः।  
-[रथाङ्गलाङ्गलच्छत्रस्वस्तिकाङ्कुशधारिण](# "रथाङ्गलाङ्गलच्छत्रमुष्टिकाङ्कुशधारिण इति ख० ।")ः॥५॥
+रथाङ्गलाङ्गलच्छत्रस्वस्तिकाङ्कुशधारिण[^112]ः॥५॥
 
-गोनसा मन्दगा दीर्घा मण्डलैर्विविधै[श्चिता](# "स्थिता इति ख० ।")ः।
+[^112]: "रथाङ्गलाङ्गलच्छत्रमुष्टिकाङ्कुशधारिण इति ख० ।"
+
+गोनसा मन्दगा दीर्घा मण्डलैर्विविधैश्चिता[^113]ः।
+
+[^113]: "स्थिता इति ख० ।"
 
 
 
@@ -3659,8 +3885,12 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 स्वेषांषट्‌ प्रतिवारेषु कुलिकः सर्व्वसन्धिषु।  
 शङ्खेन वा महाब्जेन सह तस्योदयोऽथवा॥१४॥
 
-द्वयोर्व्वा [नाड़िकामन्त्रमन्त्रकं](# "नाडिकामाचमन्त्रकमिति ञ० ।")कुलिकोदयः।  
-दुष्टःस कालःसर्व्वत्र सर्पदंशे [विशेषतः](# "विनिर्द्दिशेदिति क०, ख०, ज०, ट० च ।")॥१५॥
+द्वयोर्व्वा नाड़िकामन्त्रमन्त्रकं[^114]कुलिकोदयः।  
+दुष्टःस कालःसर्व्वत्र सर्पदंशे विशेषतः[^115]॥१५॥
+
+[^114]: "नाडिकामाचमन्त्रकमिति ञ० ।"
+
+[^115]: "विनिर्द्दिशेदिति क०, ख०, ज०, ट० च ।"
 
 कृत्तिका भरणीस्वाती मूलं पूर्व्वत्रयाश्विनी।  
 विशाखार्द्रा मघाश्लेषा चित्रा श्रवणरोहिणी॥१६॥
@@ -3674,11 +3904,15 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सन्ध्याचतुष्टयं दुष्टं दग्धयोगाश्च राशयः।  
 एकद्विबहवोदंशादष्टविद्धञ्चखण्डितम्‌॥१८॥
 
-[अदंशमवगुप्तं](# "सदंशमवलुप्तमितिञ०।")स्याद्दंशमेवं चतुर्विधम्‌।  
+अदंशमवगुप्तं[^116]स्याद्दंशमेवं चतुर्विधम्‌।  
 त्रयो द्व्येकक्षता दंशा वेदना रुधिरोल्वणा॥१९॥
 
+[^116]: "सदंशमवलुप्तमितिञ०।"
+
 नक्तन्त्वेकाङ्घ्रिकूर्म्माभा दंशाश्चयमचोदिताः।  
-दीहीपिपीलिकास्पर्शी[कण्ठशोथरुजान्वितः](# "कण्ठशोषरुजान्वित इति ञ० ।")॥२०॥
+दीहीपिपीलिकास्पर्शीकण्ठशोथरुजान्वितः[^117]॥२०॥
+
+[^117]: "कण्ठशोषरुजान्वित इति ञ० ।"
 
 सतोदो ग्रन्थितो दंशःसविषो न्यस्तनिर्व्विषः।  
 देवालये शून्यगृहे वल्मीकोद्यानकोटरे॥२१॥
@@ -3774,10 +4008,14 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 साज्यं सकृद्रसं पेयं द्विविधं विषमुच्यते।  
 जङ्गमं सर्पमूषादि गृङ्ग्यादि स्थावरं विषं॥२॥
 
-शान्तस्वरान्वितो ब्रह्मा लोहितं [तारकं](# "तारकः इति ख० ।")शिवः।  
+शान्तस्वरान्वितो ब्रह्मा लोहितं तारकं[^118]शिवः।  
 वियतेर्नाममन्त्रोऽयं तार्क्षःशब्दमयःस्मृतः॥३॥
 
- ॐ ज्वल महामते हृदयाय [गरुडविरालशिरसे](# "गरुडविलासशिरसे इति ख० ।")गरुडशिखायैगरुड विषभञ्जन प्रभेदन प्रभेदन वित्रासय वित्रासय विभ-
+[^118]: "तारकः इति ख० ।"
+
+ ॐ ज्वल महामते हृदयाय गरुडविरालशिरसे[^119]गरुडशिखायैगरुड विषभञ्जन प्रभेदन प्रभेदन वित्रासय वित्रासय विभ-
+
+[^119]: "गरुडविलासशिरसे इति ख० ।"
 
 
 
@@ -3786,7 +4024,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
  सप्तवर्गान्तयुग्माष्टदिग्दलस्वर केशरादिवर्णरुद्धं वह्निुराभूतकर्णिकं मातृकाम्बुजं।
 
 कृत्वा हृदिस्थंतन्मन्त्रीवामहस्ततले स्मरेत्‌।  
-अङ्गुष्ठादौ न्यसेद्वर्णान्वियतेर्भेदिताः [कलाः](# "भेदिकास्तथेतिख० ।")॥४॥
+अङ्गुष्ठादौ न्यसेद्वर्णान्वियतेर्भेदिताः कलाः[^120]॥४॥
+
+[^120]: "भेदिकास्तथेतिख० ।"
 
 पीतं वज्रचतुष्कोणं पार्थिवं शक्रदैवतं।  
 वृत्तार्द्धमाप्यपद्मार्द्धंशुक्लंवरूणदैवतं॥५॥
@@ -3798,7 +4038,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सुवर्णनागवाहेन वेष्टितेषु न्यसेत्‌ क्रमात्‌॥७॥
 
 वियतेश्चतुरो वर्णान्‌ सुमण्डलसमत्विषः।  
-अरूपे [रवतन्मात्रे](# "वरतन्मात्रेइति ख० ।")आकाशेशिवदेवते॥८॥
+अरूपे रवतन्मात्रे[^121]आकाशेशिवदेवते॥८॥
+
+[^121]: "वरतन्मात्रेइति ख० ।"
 
 कनिष्ठामध्यपर्वस्थे न्यसेत्तस्याद्यमक्षरम्‌।  
 नागानामादिवर्णांश्चखमण्डलगतान्न्यसेत्‌॥९॥
@@ -3830,8 +4072,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 संस्तम्भयेतिविषतो भाषया स्तम्भयेद्विषम्‌।  
 व्यत्यस्तभूषया वीजो मन्त्रोऽयं साधुसाधितः॥१७॥
 
-संप्लवः प्लावय [यमः](# "यश इति ञ० ।")शब्दाद्यःसंहरेद्विषं।  
+संप्लवः प्लावय यमः[^122]शब्दाद्यःसंहरेद्विषं।  
 दण्डमुत्थापयेदेष सुजप्ताम्भोऽभिषेकतः॥१८॥
+
+[^122]: "यश इति ञ० ।"
 
 सुजप्तशङ्खभेर्य्यादिनिस्वनश्रवणेनवा।  
 संदहत्येव संयुक्तो भूतेजोव्यत्ययात्‌ स्थितः॥१९॥
@@ -3916,7 +4160,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 शिवःसहस्रशीर्षेतितस्य नारायणोऽप्यृषिः॥४॥
 
 देवता पुरुषोऽनुष्टुप्छन्दोज्ञेयञ्च त्रैष्टुभम्।  
-अभ्यश्रसम्भृतं [सूक्तमृषिरुत्तरगोनरः](# "उत्तरगोनस इति ज०, ट० च ।")॥५॥
+अभ्यश्रसम्भृतं सूक्तमृषिरुत्तरगोनरः[^123]॥५॥
+
+[^123]: "उत्तरगोनस इति ज०, ट० च ।"
 
 आद्यानान्तिसृणां त्रिष्टुप्‌छन्दोऽनुष्टुव्द्वयोरपि।
 
@@ -3930,8 +4176,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पृथक् पृथक्‌ देवताःस्युःपुरुविदङ्गदेवता।  
 अवशिष्टदैवतेषु छन्दोऽनुष्टुवुदाहृतं॥८॥
 
-असौ यमो भवित्रीन्द्रः[पुरुलिङ्गोक्तदेवताः](# "भवित्रीति त्रिष्टुब् लिङ्गोक्तदेवतेति ख० ।")।  
+असौ यमो भवित्रीन्द्रःपुरुलिङ्गोक्तदेवताः[^124]।  
 पङ्क्तिच्छन्दोऽथ मर्म्माणित्वपलिङ्गोक्तदेवताः॥९॥
+
+[^124]: "भवित्रीति त्रिष्टुब् लिङ्गोक्तदेवतेति ख० ।"
 
 रौद्राध्याये च सर्व्वस्मित्रार्षं स्यात्‌ परमेष्वपि।  
 प्रजापतिर्व्वा देवानां कुत्सस्यतिसृणां पुनः॥१०॥
@@ -3945,26 +4193,36 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 द्वयोश्चजगतीछन्दो रुद्राणामप्यशीतयः।  
 हिरण्यवाहवस्तिस्रोनमो वःकिरिकाय च॥१३॥
 
-पञ्चर्च्चोरुद्रदेवाः स्युर्मन्त्रे [रुद्रानुवाककः](# "रुद्रात्मवाचक इतिज०, ट० च ।")।  
+पञ्चर्च्चोरुद्रदेवाः स्युर्मन्त्रे रुद्रानुवाककः[^125]।  
 विंशके रुद्रदेवास्ताःप्रथमा वृहतीस्मृता॥१४॥
+
+[^125]: "रुद्रात्मवाचक इतिज०, ट० च ।"
 
 ऋग्द्वितीयात्रिजगतीतृतीया त्रिष्टुवेव च।  
 अनुष्टुभो यजुस्तिस्रआर्य्यादिज्ञःसुसिद्धिभाक्‌॥१५॥
 
-त्रैलोक्यमोहनेनापि [विषव्याध्यरिमर्द्दनं](# "विषव्याधिविमर्हनमिति ज० ।")।
+त्रैलोक्यमोहनेनापि विषव्याध्यरिमर्द्दनं[^126]।
+
+[^126]: "विषव्याधिविमर्हनमिति ज० ।"
 
 
 
-[इँ श्रीँ ह्रीँ ह्रौँ हूँ](# "ॐह्राँह्रीँह्रूमिति ञ०")त्रौलोक्यमोहनाय विष्णवे नमः।  
+इँ श्रीँ ह्रीँ ह्रौँ हूँ[^127]त्रौलोक्यमोहनाय विष्णवे नमः।  
 अनुष्टुभं नृसिंहेन विषव्याधिविनाशनं॥१६॥
 
-[ॐ इँ इँ](# "ॐ हीँ हँ इति ज०")उग्रवीरं महाविष्णुंज्वलन्तं सर्वतोमुखं।  
+[^127]: "ॐह्राँह्रीँह्रूमिति ञ०"
+
+ॐ इँ इँ[^128]उग्रवीरं महाविष्णुंज्वलन्तं सर्वतोमुखं।  
 नृसिंहं भीषणंभद्रं मृत्युमृत्युन्नमाम्यहं॥१७॥
+
+[^128]: "ॐ हीँ हँ इति ज०"
 
 अयमेव तु पञ्चाङ्गो मन्त्रःसर्वार्थसाधकः।  
 द्वादशाष्टाक्षरौ मन्त्रौ विषव्याधिविमर्द्दनौ॥१८॥
 
-कुञ्जिका त्रिपुरा गौरी[चन्द्रिका](# "चण्डिका इति ञ०")विषहारिणी।
+कुञ्जिका त्रिपुरा गौरीचन्द्रिका[^129]विषहारिणी।
+
+[^129]: "चण्डिका इति ञ०"
 
 प्रसादमन्त्रोविषहृदायुरारोग्यवर्द्धनः।  
 सौरो विनायकस्तद्वद्रुद्रमन्त्राः सदाखिलाः॥१९॥
@@ -3994,13 +4252,17 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 एकद्वित्रिचतुर्वीजःकृष्णचक्राङ्गपञ्चकः।  
 गोपीजनवल्लभाय स्वाहा सर्वार्थसाधकः॥२॥
 
- ॐ नमो भगवते रुद्राय प्रेताधिपतये [गुत्त्व२](# "गुलु २ इति ञ० ।")गर्ज्ज२ भ्रामय २ मुञ्च२ मुह्य२ कट २ आविश २ सुवर्णपतङ्गरुद्रो ज्ञापयति ठ २।
+ ॐ नमो भगवते रुद्राय प्रेताधिपतये गुत्त्व२[^130]गर्ज्ज२ भ्रामय २ मुञ्च२ मुह्य२ कट २ आविश २ सुवर्णपतङ्गरुद्रो ज्ञापयति ठ २।
+
+[^130]: "गुलु २ इति ञ० ।"
 
 पातालक्षोभमन्त्रोयंमन्त्रणाद्विषनाशनः।  
 दंशकाहिदंशे सद्योदष्टःकाष्ठशिलादिना॥३॥
 
-विषशान्त्यैदहेद्दंशं[ज्वालकोकनदादिना](# "ज्वालको कलदालिनेतिख०।")।  
+विषशान्त्यैदहेद्दंशंज्वालकोकनदादिना[^131]।  
 शिरीषवीजपुष्पार्कक्षीरवीजकटुत्रयं॥४॥
+
+[^131]: "ज्वालको कलदालिनेतिख०।"
 
 विषंविनाशयेत्‌ पानलेपनेनाञ्जनादिना।  
 शिरीषपुष्पस्य रसभावितं मरिचं सितं॥५॥
@@ -4057,13 +4319,17 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पद्मकं पाटली कुष्ठं नतमूशीरचन्दनं॥८॥  
 निर्गुण्डौ शारिवा शेलु लूतार्त्तं सेचयेज्जलैः।  
 गुञ्जानिर्गुण्डिकङ्कोलपर्णं शुण्ठी निशाद्वयं ॥८॥  
-करञ्जस्थि च [तत्पङ्](# "१ तत्पक्षैरिति ज०, ब०, ट० च ।")कैः(१) वृश्चिकार्त्तिहरं शृणु।  
+करञ्जस्थि च तत्पङ्[^132]कैः(१) वृश्चिकार्त्तिहरं शृणु।  
 मञ्चिष्ठा चन्दनं व्यो
+
+[^132]: "१ तत्पक्षैरिति ज०, ब०, ट० च ।"
 
 षपुष्पं शिरीषकौमुदं ॥१०॥  
 संयोज्याश्चतुरो योगा लेपादौ वृश्चिकापहाः।
 
- ॐ नमो भगवते रुद्राय [चिवि](# "२ चिरि २ इति ज० ।") २ (२) क्विन्द २ किरि २ भिन्द २ खङ्गेन केदय २ शूलेन भेदय २ चक्रेण दारय २ ॐ ह्रूँफट्।
+ ॐ नमो भगवते रुद्राय चिवि[^133] २ (२) क्विन्द २ किरि २ भिन्द २ खङ्गेन केदय २ शूलेन भेदय २ चक्रेण दारय २ ॐ ह्रूँफट्।
+
+[^133]: "२ चिरि २ इति ज० ।"
 
 मन्त्रेण मन्त्रितो देयो गर्द्धभादीन्निक्वन्तति॥११॥  
 त्रिफलोशौरमुस्ताम्बुमांसीपद्मकचन्दनं।  
@@ -4078,7 +4344,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 क्षारव्योषवचाडिङ्गु विडङ्गं सैन्धवन्नतं ॥१४॥  
 अम्बष्ठातिबलाकुष्ठं सर्वकीटविषं हरेत्।  
-[यष्टिव्योषगुडक्षीरयोगः](# "षष्टिव्योषगुड़क्षीरयोग इति क०, ज०, ञ०, ट० च ।")(१) शूनो विषापहः॥१५॥
+यष्टिव्योषगुडक्षीरयोगः[^134](१) शूनो विषापहः॥१५॥
+
+[^134]: "षष्टिव्योषगुड़क्षीरयोग इति क०, ज०, ञ०, ट० च ।"
 
   ॐ सुभद्रायै नमः ॐ सुप्रभायै नमः।
 
@@ -4159,8 +4427,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सादः प्ररोदनङ्कास्रो धूपो व्याघ्रनखैर्लिपेत् ॥१३॥  
 वचागोमयगोमूत्रैः श्रीदण्डी चाष्टमे ग्रही।  
 दिशो निरीक्षणं जिह्वाचालनङ्गासरोदनं ॥१४॥  
-बलिः पूर्वैव [मत्स्याद्यैर्धूपलेपे च](# "धूपदीपे चेति ट० ।") (१) हिङ्गुला।  
+बलिः पूर्वैव मत्स्याद्यैर्धूपलेपे च[^135] (१) हिङ्गुला।  
 वचासिद्धार्थलशनैश्चो
+
+[^135]: "धूपदीपे चेति ट० ।"
 
 र्ड्वग्राही महाग्रही॥१५॥  
 उद्वेजनोर्द्धनिःश्वासः स्वमुष्टिद्वयखादनं।  
@@ -4168,9 +4438,11 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 कपिरोमनखैर्धूपो दशमीरोदनीग्रही।  
 तच्चेष्टा रोदनं शश्वत् सुगन्धो नीलवर्णता॥१७॥  
 धूपो निम्बेन भूतोग्रराजीसर्ज्जरसैर्ल्लिपेत्।  
-बलिं [वहिर्हरेल्लाजकुल्माषकवकोदनम्](# "करकीदनमिति ख० ।") ( २ )॥१८॥  
+बलिं वहिर्हरेल्लाजकुल्माषकवकोदनम्[^136] ( २ )॥१८॥  
 यावत्त्रयोदशाहं स्यादेवं धूपादिका क्रिया।  
 गृ
+
+[^136]: "करकीदनमिति ख० ।"
 
 ह्णाति मासिकं वत्संपूतनासङ्कली ग्रही॥१८॥  
 काकवद्रोदनं श्वासो मूत्रगन्धोऽक्षिमीलनं।  
@@ -4235,10 +4507,14 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 मांसौदनाद्यैश्चबलिर्मेषशृङ्गेण धूपनम्॥३७॥
 
 पलाशोदुम्बराश्वत्थवटविल्वदलाम्बु धृक्।  
-षष्ठेऽब्दे धावनीशीषी[वैरस्यं](# "वैवर्ण्यमिति ठ० ।")गात्नसादनम्॥३८॥
+षष्ठेऽब्दे धावनीशीषीवैरस्यं[^137]गात्नसादनम्॥३८॥
 
-सप्ताहोभिर्बलिः पूर्वैर्धुपस्नानञ्च[भङ्गकैः](# "भागकैरिति च० ।")।  
+[^137]: "वैवर्ण्यमिति ठ० ।"
+
+सप्ताहोभिर्बलिः पूर्वैर्धुपस्नानञ्चभङ्गकैः[^138]।  
 सप्तमे यमुनाच्छर्दिरवचोहासरोदनम् ॥३९॥
+
+[^138]: "भागकैरिति च० ।"
 
 मांसपायसमद्याद्यैर्बलिः स्नानञ्च धूपनम्।  
 अष्टमे वा जातवेदा निराहारं प्ररोदनम् ॥४०॥
@@ -4316,7 +4592,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सरित्सरस्तड़ागादौ शैलोपवनसेतुषु॥३॥
 
 नदीसङ्गे शून्यगृहे विलद्वार्य्येकवृक्षके।  
-ग्रहा गृह्णन्ति पुंसश्च [श्रियः](# "स्त्रिय इति ञ०, ट० च ।")सुप्ताच्च गर्भिणीम्॥४॥
+ग्रहा गृह्णन्ति पुंसश्च श्रियः[^139]सुप्ताच्च गर्भिणीम्॥४॥
+
+[^139]: "स्त्रिय इति ञ०, ट० च ।"
 
 आसन्नपुष्पान्नग्नाञ्चऋतुस्नानं करोति या।  
 अवमानं नृणां वैरं विघ्नं भाग्यविपर्य्ययः॥५॥
@@ -4333,8 +4611,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 देहि दहीति याचेत बलिकामग्रही नरः।  
 स्त्रीमालाभोगस्नानेच्छूरतिकामग्रहीनरः॥८॥
 
-महासुदर्शनो व्योमव्यापी [विटपनासिकः](# "चिपिटनासिक इति ञ० ।")।  
+महासुदर्शनो व्योमव्यापी विटपनासिकः[^140]।  
 पातालनारसिंहाद्या चण्डीमन्त्रा ग्रहार्दनाः॥९॥
+
+[^140]: "चिपिटनासिक इति ञ० ।"
 
 पृश्नोहिङ्गु वचाचक्रशिरीषदयितम्परम्।  
 पाशाङ्कशधरं देवमक्षमालाकपालिनम्॥१०॥
@@ -4481,7 +4761,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 
 वेणुवीजयवाः शालिश्यामाकतिलराजिकाः।  
-जवापुष्पान्वितां दत्वा पात्रैः शिरसि [धार्य्यतत्](# "धार्य्यचेति ख० ।")॥१२॥
+जवापुष्पान्वितां दत्वा पात्रैः शिरसि धार्य्यतत्[^141]॥१२॥
+
+[^141]: "धार्य्यचेति ख० ।"
 
 जानुभ्यामवनीङ्गत्वा सूर्य्यायार्घ्यंनिवेदयेत्।  
 स्वविद्यामन्त्रितैःकुम्भैर्नवभिः प्रार्च्यंवै ग्रहान् ॥१३॥
@@ -4493,7 +4775,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 स्वाङ्गानि च यथान्यासमात्मानं भावयेद्रविं ॥१५॥
 
 ध्यानञ्चमारणस्तम्भे पीतमाप्यायने सितम्।  
-[रिपुघातविधौ](# "विद्युत्पातविधाविति ध०, ज०, ञ० ट० च ।")कृष्णं मोहयेछक्रचापवत् ॥१६॥
+रिपुघातविधौ[^142]कृष्णं मोहयेछक्रचापवत् ॥१६॥
+
+[^142]: "विद्युत्पातविधाविति ध०, ज०, ञ० ट० च ।"
 
 योऽभिषेकजपध्यानपूजाहोमपरः सदा।  
 तेजस्वी ह्यजयः श्रीमान् समुद्रादौ जयं लभेत्॥१७॥
@@ -4646,7 +4930,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 रक्तगौरधूम्रहरिज्जातरूपाः सितास्त्रयः॥६॥
 
 एवं रूपानिमान् वर्णान् भाववुद्धाभ्यसेत् क्रमात्।  
-[हृदास्यनेत्रमूर्द्धाङ्घ्रितालुगुह्यकरादिषु](# "हृदास्यनेत्रमूर्द्धाङ्घ्रि जानुगुह्यकरादिष्विति ख० ।")॥७॥
+हृदास्यनेत्रमूर्द्धाङ्घ्रितालुगुह्यकरादिषु[^143]॥७॥
+
+[^143]: "हृदास्यनेत्रमूर्द्धाङ्घ्रि जानुगुह्यकरादिष्विति ख० ।"
 
 अङ्गानि च न्यसेद्वीजाभ्यस्याथ करदेहयोः।  
 यथात्मनि तथा देवे न्यासः कार्य्यः करं विना॥८॥
@@ -4676,7 +4962,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अभ्यर्च्य च वहिस्तार्क्ष्यं देवस्य पुरतोऽर्च्चयेत्।
 
-विश्वक्सेनञ्चसोमेशं [*मध्ये* आवरणाद्वहि](# "मध्येषु तीरणाद्वद्धिरिति ख०, ज०, ञ० अ।")ः।  
+विश्वक्सेनञ्चसोमेशं *मध्ये* आवरणाद्वहि[^144]ः।  
+
+[^144]: "मध्येषु तीरणाद्वद्धिरिति ख०, ज०, ञ० अ।"
 
 इन्द्रादिपरिचारेण पूज्य सर्व्वमवाप्नुयात्॥१६॥
 
@@ -4719,7 +5007,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 संशोध्य दन्तान् संक्षिप्त्वाप्रक्षाल्यैतत् क्षिपेद्भुवि ॥८॥
 
 पूर्व्वेण सौम्यवारीशगतं शुभमतौशुभम् ।  
-पुनस्तं [शिष्यमायान्तं](# "शिष्यमाचान्तमिति ञ० ।")शिश्वाबन्धादिरक्षितं ॥९॥
+पुनस्तं शिष्यमायान्तं[^145]शिश्वाबन्धादिरक्षितं ॥९॥
+
+[^145]: "शिष्यमाचान्तमिति ञ० ।"
 
 कृत्वा वेद्यां सहानेन स्वपेद्दर्भास्तरे बुधः।  
 सुषुप्तं वीक्ष्य तं शिष्यः प्रभाते श्रावयेद्गुरुं ॥१०॥
@@ -4783,7 +5073,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 
 
-ऐशान्यादिविक्ष्वेते विद्येशाः[कमलासना](# "कमलानना इति ञ० ।")ः॥२८॥
+ऐशान्यादिविक्ष्वेते विद्येशाःकमलासना[^146]ः॥२८॥
+
+[^146]: "कमलानना इति ञ० ।"
 
 श्वेतः पीतः सितो रक्तो धूम्रो रक्तोऽरुणः शितः।  
 शूलाशनिशरेश्वासवाहवश्चतुराननाः ॥२९॥
@@ -4807,7 +5099,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पश्चिमद्वारमानीय क्षेपयेत् कुसुमाञ्जलिम् ॥३५॥
 
 यस्मिन् पतन्ति पुष्पाणि तन्नामाद्यं विनिर्द्दिशेत्।  
-पार्श्वे यागभुवः खाते कुण्डे [सन्नाभिमेखले](# "सन्धादिमेखले इति ख० ।")॥३६॥
+पार्श्वे यागभुवः खाते कुण्डे सन्नाभिमेखले[^147]॥३६॥
+
+[^147]: "सन्धादिमेखले इति ख० ।"
 
 शिवाग्निं जनयित्वेष्ट्वा पुनः शिष्येण चार्च्चयेत्।  
 ध्यानेनान्मनिभं शिष्यं संहृत्य प्रलयः क्रमात् ॥३७॥
@@ -4950,7 +5244,11 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पीतञ्चक्रं गदा रक्ताः स्वराः श्याममवान्तरं ॥९॥**
 
 **नेमिः श्वेता वहिः कृष्णवर्णरेखा च पार्थिवी।  
-मध्येतरेमरे [वर्णानेवं](# "वर्णद्वयमिति ख० ।") [चक्रद्वयं](# "१ वर्णद्वयमिति ख० ।")लिखेत् ॥१०॥**
+मध्येतरेमरे वर्णानेवं[^148] चक्रद्वयं[^149]लिखेत् ॥१०॥**
+
+[^148]: "वर्णद्वयमिति ख० ।"
+
+[^149]: "१ वर्णद्वयमिति ख० ।"
 
 **आदावानीय कुम्भोदं गोचरे सन्निधाय च।  
 दत्त्वा सुदर्शनं तत्र याम्ये चक्रे हुनेत् क्रमात्॥११॥**
@@ -5100,7 +5398,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 ब्रह्मा सशक्रश्रीदण्डीवीजं त्रैलोक्यमोहनम् ॥२४॥
 
 जप्त्वात्रिलक्षंहुत्वा च लक्षंविल्वैश्चसान्यकैः।  
-तण्डुलैः [फलगन्धाद्यैः](# "फलपुष्पाद्यैरिति ट० ।")दूर्वाभिस्त्वायुराप्नुयात्॥२५॥
+तण्डुलैः फलगन्धाद्यैः[^150]दूर्वाभिस्त्वायुराप्नुयात्॥२५॥
+
+[^150]: "फलपुष्पाद्यैरिति ट० ।"
 
 तयाभिषेकहोमादिक्रियातुष्टो ह्यभीष्टदः।
 
@@ -5297,7 +5597,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अग्निरुवाच। अपरां त्वरिताविद्यां वक्ष्येऽहं भुक्तिमुक्तिदां।
 
-पुरे [वज्राकुले](# "वज्रार्गले इति ञ० ।")देवीं रजोभिर्लिखिते यजेत्॥१॥
+पुरे वज्राकुले[^151]देवीं रजोभिर्लिखिते यजेत्॥१॥
+
+[^151]: "वज्रार्गले इति ञ० ।"
 
 पद्मगर्भेदिग्विदिक्षुचाष्टौ वज्राणि वीथिकां।  
 हारशोभोपशोभाञ्चलिखेच्छ्रोत्रं स्मरेन्नरः॥२॥
@@ -5335,7 +5637,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 तदेव च द्वितीयन्तु अधस्तादविनियोजयेत्॥१२॥
 
 एकादशस्वरैर्युक्तं प्रथमं तालुवर्गतः।  
-[ऊष्माणस्य](# "ऊष्माणस्येत्ययं पाठो न साधुः।")द्वितीयन्तु अधस्ताद् दृश्य योजयेत्॥१३॥
+ऊष्माणस्य[^152]द्वितीयन्तु अधस्ताद् दृश्य योजयेत्॥१३॥
+
+[^152]: "ऊष्माणस्येत्ययं पाठो न साधुः।"
 
 षोड़शस्वरसंयुक्तमूष्माणस्य द्वितीयकम्।  
 जिह्वादन्तसमायोगे प्रथमं योजयेदधः॥१४॥
@@ -5369,7 +5673,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 वर्च्चेशरविभीषणि खखेति च शवर्य्येपि॥२२॥
 
 छे छेदनि करालिनि खखेति च कराल्यपि।  
-[वक्षः श्रवद्रवप्लवनीख ख](# "वक्षः श्रवद्रवप्लवनीथथेति ख०, छ० च।")दूतीप्लवं ख्यपि॥२३॥
+वक्षः श्रवद्रवप्लवनीख ख[^153]दूतीप्लवं ख्यपि॥२३॥
+
+[^153]: "वक्षः श्रवद्रवप्लवनीथथेति ख०, छ० च।"
 
 स्त्रीबालकारे धुननि शास्त्री वसनवेगिका।  
 क्षेपक्षेकपिले हस हस कपिला नाम दूतिका॥२४॥
@@ -5416,7 +5722,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 वच्चतुण्डा समाख्याता वच्चदेशे तु बन्धयेत्।  
 उभाभ्याञ्चैव हस्ताभ्यां मणिबन्धन्तु बन्धयेत्॥३७॥
 
-त्रीणि त्रीणि [प्रसार्य्येति](# "प्रसार्य्या चेति ट० ।")वच्चमुद्रा प्रकीर्त्तिता।
+त्रीणि त्रीणि प्रसार्य्येति[^154]वच्चमुद्रा प्रकीर्त्तिता।
+
+[^154]: "प्रसार्य्या चेति ट० ।"
 
 
 
@@ -5478,7 +5786,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 प्रथमेन पुनश्चैव कर्णिकायां प्रपूजयेत्॥९॥
 
 एवं प्रदक्षिणं पूज्य एकैकं वीजमादितः।  
-दलमध्ये तु विद्याङ्गा आग्नेय्यां पञ्च[नैर्ऋतम्](# "आग्नेधावन्नैर्ऋतमिति ञ० ।")॥१०॥
+दलमध्ये तु विद्याङ्गा आग्नेय्यां पञ्चनैर्ऋतम्[^155]॥१०॥
+
+[^155]: "आग्नेधावन्नैर्ऋतमिति ञ० ।"
 
 मध्ये नेत्रंदिशास्त्रञ्च गुह्यकाङ्गेतु रक्षणम्।  
 हुतयःकेशरस्थास्तु वामदक्षिणपार्श्वतः॥११॥
@@ -5486,10 +5796,18 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पञ्च पञ्च प्रपूज्यास्तु स्वैः स्वैर्म्मन्त्रैःप्रपूजयेत्।  
 लोकपालान्न्यसेदष्टौ वाह्यतो गर्भमण्डले॥१२॥
 
-वर्णान्तमग्निमारूटं [षष्ठस्वरविभेदितं](# "ज्येष्ठस्वरविभूषितमिति ख०, छ० च ।")।  
-पञ्चदशेन चाक्रान्तं स्वैः[स्वैर्नामभि योजयेत्](# "नामभिर्द्योज्जयेदित्ययं पाठः समीचीनी भवितुमर्हति ।")॥१३॥
+वर्णान्तमग्निमारूटं षष्ठस्वरविभेदितं[^156]।  
+पञ्चदशेन चाक्रान्तं स्वैःस्वैर्नामभि योजयेत्[^157]॥१३॥
 
-[शीघ्र](# "नीत्वेति ञ०।")ंसिंहे कर्णिकायां यजेद गन्धादिभिः [श्रिये](# "श्रियमिति ञ०।")।
+[^156]: "ज्येष्ठस्वरविभूषितमिति ख०, छ० च ।"
+
+[^157]: "नामभिर्द्योज्जयेदित्ययं पाठः समीचीनी भवितुमर्हति ।"
+
+शीघ्र[^158]ंसिंहे कर्णिकायां यजेद गन्धादिभिः श्रिये[^159]।
+
+[^158]: "नीत्वेति ञ०।"
+
+[^159]: "श्रियमिति ञ०।"
 
 
 
@@ -5549,7 +5867,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 कुमारिब्राह्मणीपूज्यागुर्व्वादेर्दक्षिणां ददेत् ॥२६॥
 
 यजेत् सहस्रमेकन्तु पूजां कृत्वा दिने दिने।  
-[तिलाज्य पुरहोमेन](# "तिलाज्यप्लवहोमेनेति ख० छ० च ।")देवी श्रीः कामदा भवेत्॥२७॥
+तिलाज्य पुरहोमेन[^160]देवी श्रीः कामदा भवेत्॥२७॥
+
+[^160]: "तिलाज्यप्लवहोमेनेति ख० छ० च ।"
 
 ददाति विपुलान् भोगान् यदन्यच्च समीहते।  
 जप्त्वा
@@ -5572,7 +5892,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 एवं विधानतो
 
 जप्त्वालक्षमेकन्तु होमयेत्।  
-महिषाजमेषमांसेन [नरजेन पुरेण](# "प्लवेनेति ख० छ० च । ")वा॥३२॥
+महिषाजमेषमांसेन नरजेन पुरेण[^161]वा॥३२॥
+
+[^161]: "प्लवेनेति ख० छ० च । "
 
 तिलैर्यवैस्तथा
 
@@ -5641,8 +5963,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 वज्रसम्पुटगर्भे तु द्वादशारे तु लेखयेत्।  
 मध्ये गर्भगतं नाम सदाशिवविदर्भितम् ॥११॥
 
-[कुद्ध्ये](# "कुण्ड इति क० ।")फलकके वाथ शिलापट्टे हरिद्रया।  
+कुद्ध्ये[^162]फलकके वाथ शिलापट्टे हरिद्रया।  
 मुखस्तम्भं गतिस्तम्भं सैन्यस्तम्भन्तु जायते॥१२॥
+
+[^162]: "कुण्ड इति क० ।"
 
 विषरक्तेन संलिख्य श्मशाने कर्परे बुधः।  
 षट्कोणं दण्डमाक्रान्तं समन्ताच्छक्तियोजितम्॥१३॥
@@ -5660,7 +5984,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 तारकं नेत्रमुद्दिष्टं शान्तिपुष्टौ नियोजयेत्॥१७॥
 
 दहनादिप्रयोगोयं शाकिनीञ्चैव कर्षयेत्।  
-मध्या दिवारुणीं [यावद्वक्रतुण्डसमन्वित](# "वज्रतुण्डसमन्वित इति ड० ।")ः॥१८॥
+मध्या दिवारुणीं यावद्वक्रतुण्डसमन्वित[^163]ः॥१८॥
+
+[^163]: "वज्रतुण्डसमन्वित इति ड० ।"
 
 
 
@@ -5678,7 +6004,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 मस्थैर्म्मन्त्रवीर्जेस्तु रक्षां देहेषु कारयेत्॥२२॥
 
-[वेष्टिता भाव](# "ताराहेन्न चेति ख० ।")[हेम्ना](#)च रक्षेयं मृत्युनाशिनी।  
+वेष्टिता भाव[^164][हेम्ना](#)च रक्षेयं मृत्युनाशिनी।  
+
+[^164]: "ताराहेन्न चेति ख० ।"
 
 विघ्नपापारिदमनी सौभाग्यायुः प्रदा धृता॥२३॥
 
@@ -5716,7 +6044,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 केशरं त्रिगुणं पद्मंतीव्रञ्चज्वलिनींयजेत्।  
 
-नन्दाञ्चसुयशाञ्चोग्रां तेजोवतीं [विन्ध्यवासिनीं](# "विवासिनीमिति खः ।")॥२॥
+नन्दाञ्चसुयशाञ्चोग्रां तेजोवतीं विन्ध्यवासिनीं[^165]॥२॥
+
+[^165]: "विवासिनीमिति खः ।"
 
 गणमूर्त्तिं गणपतिं हृदयं स्याङ्गणं जयः।  
 
@@ -5734,7 +6064,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 धूम्रवर्णो महेन्द्राद्यो वाह्वेविघ्नेशपूजनम्॥६॥
 
-[त्रिपुरापूजनं](# "त्रिपुराय जनमिति ख०, छ०, ज०, ञ०, ट० च।")वक्ष्येअसिताङ्गोरुरुस्तथा।  
+त्रिपुरापूजनं[^166]वक्ष्येअसिताङ्गोरुरुस्तथा।  
+
+[^166]: "त्रिपुराय जनमिति ख०, छ०, ज०, ञ०, ट० च।"
 
 चण्डःक्रोधस्तथोन्मत्तःकपाली भीषणः क्रमात्॥७॥
 
@@ -5901,8 +6233,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 लिखेच्चानुग्रहञ्चक्रंशुक्लपत्रेऽथ भूर्ज्जके।  
 लाक्षया कुङ्कुमेनाथ स्फटिकाचन्दनेन वा॥१३॥
 
-भुवि भित्तौ [पूर्व्वदले](# "पूर्व्वपदे इति ञ०।") नाम मध्यमकोष्ठके।  
+भुवि भित्तौ पूर्व्वदले[^167] नाम मध्यमकोष्ठके।  
 खण्डेतु वारिमध्यस्थंओं हंसो वाऽपि पट्टिशम्॥१४॥
+
+[^167]: "पूर्व्वपदे इति ञ०।"
 
 लक्ष्मीश्लोकं शिवादौच राक्षसादिक्रमाल्लिखेत्।  
 श्रीः साममोमा सा श्रीः सानौयाज्ञेज्ञेया नौसा॥१५॥
@@ -6064,8 +6398,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 हूँकेक्षःप्रयोगोयं विषशत्रुप्रमर्द्दनः।  
 स्त्रीं हूँ फडितियोगोयं पापरोगादिकं जयेत्॥३॥
 
-खेछेति च प्रयोगोऽयं [विघ्नदुष्टादि वारयेत्](# "रिपुदुष्टादि वारयेदिति क०, ट० च।")।  
+खेछेति च प्रयोगोऽयं विघ्नदुष्टादि वारयेत्[^168]।  
 ह्रूँस्त्रीँ ओमितियोगोऽयं योषिदादिवशीकरः॥४॥
+
+[^168]: "रिपुदुष्टादि वारयेदिति क०, ट० च।"
 
 **खे स्त्रीँ खे च प्रयोगोऽयं वशाय विजयाय च।**
 
@@ -6088,7 +6424,11 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सकलं निष्कलं शून्यं कलाद्यंस्वमलङ्कृतम्।  
 क्षपणं क्षयमन्तस्थं कण्ठोष्ठं चाष्टमं शिवम्॥१॥
 
-**[प्रासादस्य](# "प्रसादस्येति ख०।")पराख्यस्य स्मृतं [रूपं](# "अतिरूपमिति ख०।")गुहाष्टधा।**
+**प्रासादस्य[^169]पराख्यस्य स्मृतं रूपं[^170]गुहाष्टधा।**
+
+[^169]: "प्रसादस्येति ख०।"
+
+[^170]: "अतिरूपमिति ख०।"
 
 
 
@@ -6100,8 +6440,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 अकारादेः क्षकारश्चककारादेः क्रमादिमे।  
 कामदेवः शिखण्डी च गणेशः कालशङ्करौ॥४॥
 
-एकनेत्रोद्विनेत्रश्च [त्रिशिखो दीर्घबाहुकः](# "त्रिशिखी चोर्द्धबाहुकइति ख०, छ० च।")।  
+एकनेत्रोद्विनेत्रश्च त्रिशिखो दीर्घबाहुकः[^171]।  
 एकपार्द्धचन्द्रश्च बलपो योगिनोप्रियः॥५॥
+
+[^171]: "त्रिशिखी चोर्द्धबाहुकइति ख०, छ० च।"
 
 शक्तीश्वरो महाग्रन्थिस्तर्पकः स्थाणुदन्तुरौ।  
 निधीशोनन्दीपद्मश्च तथान्यः शाकिनीप्रियः॥६
@@ -6133,8 +6475,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 अस्त्रं शशी समाख्यातं शिवसंज्ञं शिखिध्वजः।  
 नमः स्वाहा तथा वौषट हूंच फट्कक्रमेण तु॥१४॥
 
-जातिफट्कं हृदादीनां प्रासादं [मन्त्रमावदे](# "मन्त्रमादरेदिति अ०।")।  
+जातिफट्कं हृदादीनां प्रासादं मन्त्रमावदे[^172]।  
 ईशानाद्रुद्रसंख्यातं प्रोद्धरेच्चांशरञ्जितम्॥१५॥
+
+[^172]: "मन्त्रमादरेदिति अ०।"
 
 औषधाक्रान्तशिरसमूहकस्योपरिस्थितं।  
 अर्द्धचन्द्रोर्द्धनादश्च विन्दुद्वितयमध्यगं॥१६॥
@@ -6149,7 +6493,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 प्रासादः सकलः प्रोक्तो निष्कलः प्रोच्यतेऽधुना॥१९॥
 
 औषधं विश्वरूपन्तु रुद्राख्यं सूर्यमण्डलम्।  
-[चन्द्रार्द्धंनादसंयोगं](# "चन्द्रार्द्धनादयंयुक्तमिति ख०।") विसंज्ञंकुटिलन्ततः॥२०॥
+चन्द्रार्द्धंनादसंयोगं[^173] विसंज्ञंकुटिलन्ततः॥२०॥
+
+[^173]: "चन्द्रार्द्धनादयंयुक्तमिति ख०।"
 
 निष्कलो भुक्तिमुक्तौस्वात्पञ्चाङ्गोऽयं सदाशिवः।  
 अंशुमान् विश्वरूपञ्चआवृतं शून्यरञ्जितम्॥२१॥
@@ -6227,13 +6573,17 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 अंशुमान् विश्वमूर्त्तिस्थंकण्ठोष्ठप्रणवादिकम्॥२॥
 
 नमोऽन्तः स्याच्चतुर्वर्णो विश्वरूपञ्च कारणम्।  
-सूर्य्यमात्राहतं ब्रह्मण्यङ्गानीह तु [पूर्ववत्](# "सर्व्वतइति ख०।")॥३॥
+सूर्य्यमात्राहतं ब्रह्मण्यङ्गानीह तु पूर्ववत्[^174]॥३॥
+
+[^174]: "सर्व्वतइति ख०।"
 
 उद्धरेत् प्रणवं पूर्व्वं प्रस्फुरद्वयमुच्चरेत्।  
 घोरघोरतरं पश्चात् तत्र रूपमतः स्मरेत्॥४॥
 
 चटशब्दं द्विधा कृत्वा ततः प्रवरमुच्चरेत्।  
-दहेति च द्विधा कार्य्यं वमेति च [द्विधा गतम्](# "द्विधाकृतमिति ख०।")॥५॥
+दहेति च द्विधा कार्य्यं वमेति च द्विधा गतम्[^175]॥५॥
+
+[^175]: "द्विधाकृतमिति ख०।"
 
 घातयेति द्विधाकृत्य हूंफड़न्तं समुच्चरेत्।  
 अघोरास्त्रन्तु नेत्रं स्याद् गायत्री चोच्यतेऽधुना॥६॥
@@ -6306,7 +6656,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 ईश्वर उवाच।
 
 वागीश्वरीपूजनञ्च प्रवदामि समण्डलम्।  
-ऊहकं कालसंयुक्तं मनुं [वर्णसमायुतम्](# "चन्द्रमसायुतमिति अ०।")॥१॥
+ऊहकं कालसंयुक्तं मनुं वर्णसमायुतम्[^176]॥१॥
+
+[^176]: "चन्द्रमसायुतमिति अ०।"
 
 निषाद ईश्वरंकार्य्यंमनुना चन्द्रसूर्यवत्।  
 अक्षरन्न हि देयं स्यात् ध्यायेत् कुन्देन्दुसन्निभां॥२॥
@@ -6318,15 +6670,19 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 अकारादिक्षकारान्तां विशन्तींमानवत् स्मरेत्॥४॥
 
 कुर्य्याद् गुरुश्चदीक्षार्थं मन्त्रग्राहे तु मण्डलम्।  
-सूर्य्याग्रमिन्दुभक्तन्तु भागाभ्यां कमलं [हितं](# "कृतमिति ख०।")॥५॥
+सूर्य्याग्रमिन्दुभक्तन्तु भागाभ्यां कमलं हितं[^177]॥५॥
+
+[^177]: "कृतमिति ख०।"
 
 
 
 वीथिका पदिका कार्य्यापद्मान्यष्टौ चतुष्पदे।  
 वीथिका पदिका वाह्ये द्वाराणि द्विपदानि तु॥६॥
 
-उपद्वाराणि तद्वच्चकोणबान्धं [द्विपट्टिकम्](# "द्विपर्णकमिति ख०।")।  
+उपद्वाराणि तद्वच्चकोणबान्धं द्विपट्टिकम्[^178]।  
 सितानि नव पद्मानि कर्णिका कनकप्रभा॥७॥
+
+[^178]: "द्विपर्णकमिति ख०।"
 
 केशराणि विचित्राणि कोणान्रक्तेन पूरयेत्।  
 व्योमरेखान्तरं कृष्णं द्वाराणीन्द्रेभमानतः॥८॥
@@ -6409,8 +6765,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 मध्येऽब्जंपट्टिकावीजं द्वारेणाब्जस्यमानतः।  
 कण्ठोपकण्ठमुक्तानि तद्वाह्येवीथिका मता॥१८॥
 
-[पचभागान्विता](# "पञ्चभागभिमेति ख०, छ० च।")सा तु समन्ताद्दशभागिका।  
+पचभागान्विता[^179]सा तु समन्ताद्दशभागिका।  
 दिग्विदिक्ष्वष्टपद्मानि द्वारपद्मं सवीथिकम्॥१९॥
+
+[^179]: "पञ्चभागभिमेति ख०, छ० च।"
 
 तद्वाह्येपञ्च पदिका वीथिका यत्र भूषिता।  
 पद्मवद्द्वारकण्ठन्तु पदिकञ्चौष्ठकण्ठकं॥२०॥
@@ -6442,8 +6800,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 द्विपदानि तथा चाष्टौ कृतिभागकृतानि तु।  
 वर्त्तयेत् स्वस्तिकांस्तत्र वीथिका पूर्व्ववद्वहिः॥२८॥
 
-द्वाराणि कमलं [यद्वदुपकण्ठ्युतानि](# "तद्वदुपकण्ठयुनानीति ख० अ० च।")तु।  
+द्वाराणि कमलं यद्वदुपकण्ठ्युतानि[^180]तु।  
 रक्तं कोणं पीतवीथी नीलं पद्मञ्चमण्डले॥२९॥
+
+[^180]: "तद्वदुपकण्ठयुनानीति ख० अ० च।"
 
 स्वस्तिकादि विचित्रञ्च सर्व्वकामप्रदं गुह।  
 पञ्चाब्जंपञ्चहस्तंस्यात् समन्ताद्दशभाजितम्॥३०॥
@@ -6485,7 +6845,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 मण्डलानि हरेः शम्भोर्देव्याः सूर्य्यस्य सन्ति च॥४१॥
 
 दशसप्तविभक्ते तु लतालिङ्गोद्भवं शृणु।  
-दिक्षु पञ्चत्रयञ्चैकं त्रयं पञ्च च [लोमयेत्](# "लोपयेदिति ञ०। लेपयेदिति ट०।")॥४२॥
+दिक्षु पञ्चत्रयञ्चैकं त्रयं पञ्च च लोमयेत्[^181]॥४२॥
+
+[^181]: "लोपयेदिति ञ०। लेपयेदिति ट०।"
 
 उर्द्वगे द्विपदे लिङ्गमन्दिरं पार्श्वकोष्ठयोः।  
 मध्येन द्विपदं पद्ममथ चैकञ्च पङ्कजं॥४३॥
@@ -6547,7 +6909,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 विनायकार्त्तिशमनमयुतेन घृतस्य च॥८॥
 
 भूतवेतालशान्तिस्तु गुग्गुलोरयुतेन च।  
-महावृक्षस्य भङ्गेतु [व्यालकङ्के](# "व्यालकाके इति ख०।") गृहे स्थिते॥९॥
+महावृक्षस्य भङ्गेतु व्यालकङ्के[^182] गृहे स्थिते॥९॥
+
+[^182]: "व्यालकाके इति ख०।"
 
 आरण्यानां प्रवेशे च दूर्वाज्याक्षतहावनात्।  
 उल्कापाते भूमिकम्पे तिलाज्येनाहुताच्छिवम्॥१०॥
@@ -6596,8 +6960,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सकृदावर्त्तनादेव सर्वविघ्नान् विनाशयेत्।  
 शतावर्त्तेन चोत्पातान्रणादौ विजयो भवेत्॥२॥
 
-**घृतगुग्गुलुहोमाच्च [असाध्यानपि](# "असाध्यमपीति ख०।")साधयेत्।  
+**घृतगुग्गुलुहोमाच्च असाध्यानपि[^183]साधयेत्।  
 पठनात्सर्वशान्तिः स्याच्छस्त्रपाशुपतस्य च॥३॥**
+
+[^183]: "असाध्यमपीति ख०।"
 
 इत्याग्नेये महापुराणे पाशुपतशान्तिर्नामैकविंशत्यधिकत्रिशततमोऽध्यायः।
 
@@ -6651,8 +7017,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 क्षेत्रपालबलिं दत्वा ग्रहो न्यासाध्रदंव्रजेत्।  
 शत्रवो नाशमायान्ति रणे वैरगणक्षयः॥९॥
 
-हंसबीजन्तु विन्यस्य [विषन्तु](# "विघ्ननिवति ख०, छ० च।")त्रिविधं हरेत्।  
+हंसबीजन्तु विन्यस्य विषन्तु[^184]त्रिविधं हरेत्।  
 अगुरुञ्चन्दनं कुष्ठं कुङ्कुमं नागकेशरम्॥१०॥
+
+[^184]: "विघ्ननिवति ख०, छ० च।"
 
 नखंवै देवदारुञ्चसमं कृत्वाथ धूपकः।  
 माक्षिकेन समायुक्तोदेहवस्त्रादिधूपनात्॥११॥
@@ -6699,7 +7067,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 ॐ सद्योजातं प्रवक्ष्यामि सद्योजाताय वै नमः।  
 भवे भवेऽनादिभवे भजस्वमां भवोद्भव॥२०॥
 
-[पञ्चब्रह्माङ्गषट्कञ्च](# "पञ्चब्रह्माङ्गफट्कारमिति ञ०।")वक्ष्येऽहं भुक्तिमुक्तिदं।
+पञ्चब्रह्माङ्गषट्कञ्च[^185]वक्ष्येऽहं भुक्तिमुक्तिदं।
+
+[^185]: "पञ्चब्रह्माङ्गफट्कारमिति ञ०।"
 
  ॐ नमः परमात्मने पराय कामदाय परमेश्वराय योगाय योगसम्भवाय सर्व्वकराय कुरु‍ २ सत्य र भव २ भवोद्भव वामदेव सर्व्वकार्य्यकर पापप्रशमन सदाशिव प्रसन्न नमोऽस्तु ते स्वाहा॥
 
@@ -6726,7 +7096,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 ईश्वर उवाच।
 
 शिवशान्तिं प्रवक्ष्यामि कल्पाघोरप्रपूर्वकम्।  
-सप्तकोट्यधिपो घोरो [ब्रह्महत्याद्यवादनः](# "ब्रह्महत्यादिमर्द्दन इति ख०।")॥१॥
+सप्तकोट्यधिपो घोरो ब्रह्महत्याद्यवादनः[^186]॥१॥
+
+[^186]: "ब्रह्महत्यादिमर्द्दन इति ख०।"
 
 उत्तमाधमसिद्धीणामालयोऽखिलरोगनुत्।  
 दिव्यान्तरीक्षभौमानामुत्पातानां विमर्द्दनः॥२॥
@@ -6762,15 +7134,21 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पूजने तु नमस्कारः स्वाहान्तो हवने तथा॥११॥**
 
 आप्यायने वषट्कारं पुष्टौ वौषन्नियोजयेत्।  
-[चकारद्वितयस्थाने](# "दकारद्वितयस्थान इति ञ०। उकारद्वितयस्थान इति ८०।") जातियोगन्तु कारयेत्॥१२॥
+चकारद्वितयस्थाने[^187] जातियोगन्तु कारयेत्॥१२॥
+
+[^187]: "दकारद्वितयस्थान इति ञ०। उकारद्वितयस्थान इति ८०।"
 
  ॐ रुद्राय च ते ॐ वृषभाय नमः अविमुक्ताय असम्भवाय पुरुषाय च पूज्याय ईशानाय पौरुषाय पञ्च चोत्तरे विश्वरूपाय करालाय विकृतरूपाय अविकृतरूपाय।
 
-[निकृतौ](# "नियताविति ञ, ट० च।")चापरे काले अप्सु माया च नैर्ऋते।
+निकृतौ[^188]चापरे काले अप्सु माया च नैर्ऋते।
+
+[^188]: "नियताविति ञ, ट० च।"
 
 
 
- एकपिङ्गलाय श्वेतपिङ्गलाय कृष्णपिङ्गलाय नमः। मधुपिङ्गलाय नमः मधुपिङ्गलाय नियतौ अनन्ताय आद्रार्यशुष्काय पयोगणाय। कालतत्त्वे। करालाय विकरालाय। द्वौमायातत्त्वे। सहस्रशौर्षाय सहस्रवक्त्राय सहस्रकरचरणाय सहस्रलिङ्गाय। विद्यातत्त्वे। सहस्राक्षाद्विन्यसेद्दक्षिणे दले। एकजटाय द्विजटाय त्रिजटाय स्वाहा। काराय स्वधाकाराय वषट्काराय षड्रुद्राय।ईशतत्त्वे तु वह्निपत्रे स्थिता गुह। भूतपतये पशुपतये उमापतये कालाधिपतये। सदाशिवाध्यक्ष्यतत्त्वे षट् पूज्याः पूर्वदले स्थिताः। उमायैकुरूपधारिणि ॐ कुरु २ रुहिणि २ रुद्रोसि देवानां देवदेवविशाख हन२ दह २ पच २ मथ २ तुरु २ अरु २ [सुरु २](# "सुरु२इति ञ०।")रुद्रशान्तिमनुस्मर कृष्णपिङ्गल अकालपिशाचाधिपतिविश्वेश्वराय नमः। शिवतत्त्वे कर्णिकायां पूज्यौमामहेश्वरौ। ॐ व्योमव्यापिने व्योमरूपाय सर्वव्यापिने शिवाय अनन्ताय अनाथाय अनाश्रिताय शिवाय। शिवतत्त्वे नव पदानि व्योमव्याप्यभिधास्यहि। शाश्वताय योगपीठसंस्थिताय नित्यं योगिने ध्यानाहाराय नमः। ॐ नमःशिवाय सर्वप्रभवे शिवाय ईशानमूर्द्धाय तत्पुरुषादिपञ्चवक्त्राय नवपदं पूर्वदले सदाख्ये पूजयेद्गुह। अधोरहृदयाय वामदेवगुह्याय सद्योजातमूर्त्तये। ॐ नमो नमः। गुह्यातिगुह्याय गोप्त्रेअनिधनाय सर्व्वयोगाधिकृताय ज्योतीरूपाय अग्निपत्रे हीशतत्त्वे विद्यातत्त्वे द्वेयाम्यगे परमेश्वराय चेतनाचेतन व्योमन व्यापिन प्रथम तेजस्तेजः मायातत्त्वे नैर्ऋते कालतत्त्वे
+ एकपिङ्गलाय श्वेतपिङ्गलाय कृष्णपिङ्गलाय नमः। मधुपिङ्गलाय नमः मधुपिङ्गलाय नियतौ अनन्ताय आद्रार्यशुष्काय पयोगणाय। कालतत्त्वे। करालाय विकरालाय। द्वौमायातत्त्वे। सहस्रशौर्षाय सहस्रवक्त्राय सहस्रकरचरणाय सहस्रलिङ्गाय। विद्यातत्त्वे। सहस्राक्षाद्विन्यसेद्दक्षिणे दले। एकजटाय द्विजटाय त्रिजटाय स्वाहा। काराय स्वधाकाराय वषट्काराय षड्रुद्राय।ईशतत्त्वे तु वह्निपत्रे स्थिता गुह। भूतपतये पशुपतये उमापतये कालाधिपतये। सदाशिवाध्यक्ष्यतत्त्वे षट् पूज्याः पूर्वदले स्थिताः। उमायैकुरूपधारिणि ॐ कुरु २ रुहिणि २ रुद्रोसि देवानां देवदेवविशाख हन२ दह २ पच २ मथ २ तुरु २ अरु २ सुरु २[^189]रुद्रशान्तिमनुस्मर कृष्णपिङ्गल अकालपिशाचाधिपतिविश्वेश्वराय नमः। शिवतत्त्वे कर्णिकायां पूज्यौमामहेश्वरौ। ॐ व्योमव्यापिने व्योमरूपाय सर्वव्यापिने शिवाय अनन्ताय अनाथाय अनाश्रिताय शिवाय। शिवतत्त्वे नव पदानि व्योमव्याप्यभिधास्यहि। शाश्वताय योगपीठसंस्थिताय नित्यं योगिने ध्यानाहाराय नमः। ॐ नमःशिवाय सर्वप्रभवे शिवाय ईशानमूर्द्धाय तत्पुरुषादिपञ्चवक्त्राय नवपदं पूर्वदले सदाख्ये पूजयेद्गुह। अधोरहृदयाय वामदेवगुह्याय सद्योजातमूर्त्तये। ॐ नमो नमः। गुह्यातिगुह्याय गोप्त्रेअनिधनाय सर्व्वयोगाधिकृताय ज्योतीरूपाय अग्निपत्रे हीशतत्त्वे विद्यातत्त्वे द्वेयाम्यगे परमेश्वराय चेतनाचेतन व्योमन व्यापिन प्रथम तेजस्तेजः मायातत्त्वे नैर्ऋते कालतत्त्वे
+
+[^189]: "सुरु२इति ञ०।"
 
 
 
@@ -6798,7 +7176,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 दक्षवाहौशिखादौ च धारयेच्चतुराननं॥२॥
 
 अब्रह्मचारी ब्रह्मचारी अस्नातः स्नातको भवेत्।  
-हैमी वा मुद्रिका [धार्य्या](# "कार्य्येति ख०।")शिवमन्त्रेण चार्च्च्यतु॥३॥
+हैमी वा मुद्रिका धार्य्या[^190]शिवमन्त्रेण चार्च्च्यतु॥३॥
+
+[^190]: "कार्य्येति ख०।"
 
 
 
@@ -6833,7 +7213,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 मध्ये रिपुसहस्राणि न दोषाय भवन्ति हि॥१३॥
 
 मायाप्रसादप्रणवेनांशकः ख्यातमन्त्रके।  
-ब्रह्मांशको ब्रह्मविद्या [विष्ण्वङ्गो](# "विष्ण्वंश इति ञ०।")वैष्णवः स्मृतः॥१४॥
+ब्रह्मांशको ब्रह्मविद्या विष्ण्वङ्गो[^191]वैष्णवः स्मृतः॥१४॥
+
+[^191]: "विष्ण्वंश इति ञ०।"
 
 
 
@@ -6856,7 +7238,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 उदिते शान्तिकादीनि भ्रमिते वश्यकादिकम्॥२०॥
 
 भ्रामिते सन्धयो द्वेषोच्चाटने स्तम्भनेऽस्तकम्।  
-इहावाहे शान्तिकाद्यं पिङ्गले [कर्षणादिकम्](# "कर्षकादिकमिति ख०, छ० च।")॥२१॥
+इहावाहे शान्तिकाद्यं पिङ्गले कर्षणादिकम्[^192]॥२१॥
+
+[^192]: "कर्षकादिकमिति ख०, छ० च।"
 
 मारणोच्चाटनादीनि विषुवे पञ्चधा पृथक्।  
 अधरस्य गृहे पृथ्वीअर्द्धेतेजोऽन्तरा द्रवः॥२२॥
@@ -6901,7 +7285,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 शिवशक्तिमयं वीजं हृदयादिविवर्जितं॥७॥
 
 गौरों यजेद्धेमरूप्यां काष्ठजां शैलजादिकां।  
-पञ्चपिण्डां तथाऽव्यक्तां कोणे मध्ये तु [पञ्चमं](# "पञ्चमीइति ञ०।")॥८॥
+पञ्चपिण्डां तथाऽव्यक्तां कोणे मध्ये तु पञ्चमं[^193]॥८॥
+
+[^193]: "पञ्चमीइति ञ०।"
 
 ललिता सुभगा गौरी क्षोभणी चाग्नितः क्रमात्।
 
@@ -6913,7 +7299,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 व्यक्ता द्विनेत्रा त्र्यक्षरा शुद्धावा शङ्करान्विता॥१०॥
 
 पीठपद्मद्वयं तारा द्विभुजा वा चतुर्भजा।  
-[सिंहस्था वा वृकस्था](# "सिंहस्थावाह्यसिंहस्थेति ख०, छ०, ञ०, ट० च।")वा अष्टाष्टादशसत्करा॥११॥
+सिंहस्था वा वृकस्था[^194]वा अष्टाष्टादशसत्करा॥११॥
+
+[^194]: "सिंहस्थावाह्यसिंहस्थेति ख०, छ०, ञ०, ट० च।"
 
 स्रगक्षसूत्रकलिका गलकोत्पलपिण्डिका।  
 शरं धनुर्व्वा सव्येन पाणिनान्यतमं वहत्॥१२॥
@@ -6936,8 +7324,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 रक्तपुष्पाणि देयानि पूजयित्वा ह्युदङ्मुखः।  
 शतं हुत्वामृताज्यञ्चपूर्णादः सर्व्वसिद्धिभाक्॥१८॥
 
-**बलिन्दत्वा कुमारीश्च[तिस्रो वा चाष्ट भोजयेत्](# "स्त्रियो वाष्ट च भोजयेदिनि ख०, छ० च।")।  
+**बलिन्दत्वा कुमारीश्चतिस्रो वा चाष्ट भोजयेत्[^195]।  
 नैवेद्यं शिवभक्तेषु दद्यान्नस्वयमाचरेत्॥१९॥**
+
+[^195]: "स्त्रियो वाष्ट च भोजयेदिनि ख०, छ० च।"
 
 
 
@@ -6982,8 +7372,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 हेमरत्रमयं भूत्यै महाशङ्खञ्चमारणे।  
 आप्यायने शङ्खसूत्रं मौक्तिकं पुत्रवर्द्धनम्॥२॥
 
-स्फाटिकं भूतिदं कौशं[मुक्तिदं](# "भक्तिदमिति ख०।")रुद्रनेत्रजं।  
+स्फाटिकं भूतिदं कौशंमुक्तिदं[^196]रुद्रनेत्रजं।  
 धात्रीफलप्रमाणेन रुद्राक्षंचोत्तमन्ततः॥३॥
+
+[^196]: "भक्तिदमिति ख०।"
 
 समेरुंमेरुहीनं वा सूत्रंजप्यन्तु मानसम्।  
 अनामाङ्गुष्ठमाक्रम्य जपं भाष्यन्तु कारयेत्॥४॥
@@ -7027,7 +7419,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 अल्पे महति वा तुल्यफलमाढ्यदरिद्रयोः॥१६॥
 
 भागद्वयञ्चधर्मार्थं कल्पयेज्जीवनाय च।  
-[धनस्य भागमेकन्तु](# "धनस्यान्नार्थमेकनिवति ख०।")अनित्यं जीवितं यतः॥१७॥
+धनस्य भागमेकन्तु[^197]अनित्यं जीवितं यतः॥१७॥
+
+[^197]: "धनस्यान्नार्थमेकनिवति ख०।"
 
 त्रिसप्तकुलमुद्धृत्य देवागारकृदर्थभाक्।  
 मृत्काष्ठेष्टकशैलाद्यैः क्रमात् कोटिगुणं फलम्॥१८॥
@@ -7143,7 +7537,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 उपरिष्टाज्जोतिरन्त्यादेकस्मिन् पञ्चके तथा॥१५॥
 
 भवेच्छन्दः शङ्कुमती षट्के छन्दःककुद्मती।  
-त्रिपादशिशुमध्या स्यात् सा [पिपीलिकमध्यमा](# "सपिपीलिकमध्यगेति ख०।")॥१६॥
+त्रिपादशिशुमध्या स्यात् सा पिपीलिकमध्यमा[^198]॥१६॥
+
+[^198]: "सपिपीलिकमध्यगेति ख०।"
 
 विपरीता यवमध्या त्रिवृदेकेन वर्जिता।  
 भूमिजैकेनाधिकेन द्विहोना च चिराद्भवेत्॥१७॥
@@ -7180,8 +7576,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 चतुःशतमुत्कृतिः स्यादुकृतेश्चतुरस्त्यजेत्।  
 अभिसंव्या प्रत्यकृतिस्तानि छन्दांसि वै पृथक्॥१॥
 
-[कृतिश्चातिघृतिवृत्ती](# "कृतिश्चातिधृतिर्वृत्तीतिञ०, ट० च।")अत्यष्टिश्चाष्टिरित्यतः।  
+कृतिश्चातिघृतिवृत्ती[^199]अत्यष्टिश्चाष्टिरित्यतः।  
 अतिशर्क्करी शक्करोति अतिजगतीजगत्यपि॥२॥
+
+[^199]: "कृतिश्चातिधृतिर्वृत्तीतिञ०, ट० च।"
 
 छन्दोऽत्र लौकिकं स्याच्च आर्षमात्रैष्टुभात् स्मृतम्।  
 त्रिष्टुप्पङक्तिवृहतीअनुष्टुवुष्णिगीरितम्॥३॥
@@ -7215,8 +7613,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 वैतालीयंद्विस्वरा स्यादयुष्पादे समे नलः।  
 वसवोऽन्ते वनगाश्च गोपुच्छन्दशकं भवेत्॥१२॥
 
-भगणान्ता पाटलिका शेषे परे च [पूर्ववत्](# "पुच्छलमिति ख०।")।  
+भगणान्ता पाटलिका शेषे परे च पूर्ववत्[^200]।  
 साकं षड्वा मिश्रायुक् प्राच्यवृत्तिः प्रदर्श्यते॥१३॥
+
+[^200]: "पुच्छलमिति ख०।"
 
 पञ्चमेन पूर्वसाकं तृतीयेन सहस्रयुक्।  
 उदीच्यवृत्तिर्वाच्यां स्याद् युगपच्चप्रवर्त्तकं॥१४॥
@@ -7232,11 +7632,15 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 परयुक्तेनोपचित्रापादाकुलकमित्यतः॥१७॥
 
-गीतार्य्या लोपश्चेत् सौम्या लः[पूर्वः](# "नः पूर्व्व इति ख०।") ज्योतिरीरिता।  
+गीतार्य्या लोपश्चेत् सौम्या लःपूर्वः[^201] ज्योतिरीरिता।  
 स्याच्छिखा विपर्य्यास्तार्द्धातूलिका समुदाहृता॥१८॥
 
+[^201]: "नः पूर्व्व इति ख०।"
+
 एकोनत्रिंशदन्ते गः स्याज्ज्ञेजनसमावला।  
-[गु इत्येकगुरुं](# "गु इत्येकनुदमिति ञ०।")संख्यावर्णाद्दशविपर्य्ययात्॥१९॥
+गु इत्येकगुरुं[^202]संख्यावर्णाद्दशविपर्य्ययात्॥१९॥
+
+[^202]: "गु इत्येकनुदमिति ञ०।"
 
 इत्याग्नेये महापुराणे छन्दोजातिनिरूपणं नाम त्रिंशदधिकत्रिशततमोऽध्यायः
 
@@ -7294,8 +7698,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अग्निरुवाच।
 
-उपचित्रकं [ससमनामथभोजभगामथ](# "ससमनागथतोभयागथ इति ख०।")।  
+उपचित्रकं ससमनामथभोजभगामथ[^203]।  
 द्रूतमध्या ततभगागथोननजयाः स्मृताः॥१॥
+
+[^203]: "ससमनागथतोभयागथ इति ख०।"
 
 वेगवतीससमगा भभभगोगथो स्मृताI
 
@@ -7339,8 +7745,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 
 
-पणवो[मलयेामः](# "मलघागइतिख०।")स्याज्जौगौमयूरसारिणी।  
+पणवोमलयेामः[^204]स्याज्जौगौमयूरसारिणी।  
 सत्तामभसगा वृत्तं भजताद्युपरिस्थिता॥४॥
+
+[^204]: "मलघागइतिख०।"
 
 रुक्मवती भससगाविन्द्रावज्रातजौजगौ।  
 जतौजगौगुपपूर्व्वावाद्यन्ताद्युपजातयः॥५॥
@@ -7361,12 +7769,18 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 स्यौश्रीपुठो वसुवेदा जलोगतिजलौजमौ॥१०॥
 
 जसौवसर्व्ववश्चाथ ततं ननमराः स्मृतं।  
-कुसुमविचित्रा न्यौ द्यौनौनौरौ[स्याच्चलाम्बिका](# "चरणात्मिका इति ख०। चञ्चलाम्बिका इति८०।")॥११॥
+कुसुमविचित्रा न्यौ द्यौनौनौरौस्याच्चलाम्बिका[^205]॥११॥
+
+[^205]: "चरणात्मिका इति ख०। चञ्चलाम्बिका इति८०।"
 
 भुजङ्गप्रयातं थैःस्याच्चतुर्भिः स्रग्विनीभवैः।  
-प्रमिताक्षरा गजौसौकान्तोत्पीड़ा मतौ [समौ](# "ममाविति ख०।")॥१२॥
+प्रमिताक्षरा गजौसौकान्तोत्पीड़ा मतौ समौ[^206]॥१२॥
 
-[वैश्वदेवी](# "विश्वदेवीति ख०।")ममयायाः पञ्चाङ्गा नवमालिनी।
+[^206]: "ममाविति ख०।"
+
+वैश्वदेवी[^207]ममयायाः पञ्चाङ्गा नवमालिनी।
+
+[^207]: "विश्वदेवीति ख०।"
 
 
 
@@ -7381,14 +7795,18 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 गोग इन्द्रियनवकौननौ वसनगाः स्वराः।  
 स्वराश्चापराजिता स्यान्ननभाननगाः स्वराः॥१६॥
 
-[द्विःप्रहरणकलिता](# "द्विःप्रहरञ्चलितेति ख० ।") वसन्ततिलका नभौ।  
+द्विःप्रहरणकलिता[^208] वसन्ततिलका नभौ।  
 जौगौ सिंहोन्नता सा स्यान्मुनेरुद्धर्षणीच सा॥१७॥
+
+[^208]: "द्विःप्रहरञ्चलितेति ख० ।"
 
 चन्द्रावर्त्ता ननौसोमावर्त्तर्तुनवकः स्मृतः।  
 मणिगुणनिकरा सौ मालिनौ नौ मयौ ययः॥१८॥
 
-यतिर्वसुस्वरा भौवौ[नतलमित्रसग्रहाः](# "स्तननागात्रसग्रहा इति ञ० ।")।  
+यतिर्वसुस्वरा भौवौनतलमित्रसग्रहाः[^209]।  
 ऋषभगजविलासितं ज्ञेया शिखरिणीजगौ॥१९॥
+
+[^209]: "स्तननागात्रसग्रहा इति ञ० ।"
 
 रसभालभृगुरुद्राः पृथ्वीजसजसा जनौ।  
 गोवसुग्रहविच्छिन्नापिङ्गलेनेरिता पुरा॥२०॥
@@ -7419,8 +7837,12 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 भुजङ्गविजृम्भितं ममतना ननवासनौ।  
 गष्टेशमुनिभिश्छेदो ह्युपहाराख्यमीदृशम्॥२८॥
 
-मननानतानः सो गगौ[ग्रहरसो रसात्](# "ग्रहवसो वसादिति ग०।")।  
-नौ सप्तरोदण्डदः [स्याच्चण्डवृष्टिप्रघातकं](# "चण्डवृष्टिप्रधानक इति ट०।")॥२९॥
+मननानतानः सो गगौग्रहरसो रसात्[^210]।  
+नौ सप्तरोदण्डदः स्याच्चण्डवृष्टिप्रघातकं[^211]॥२९॥
+
+[^210]: "ग्रहवसो वसादिति ग०।"
+
+[^211]: "चण्डवृष्टिप्रधानक इति ट०।"
 
 रेफवृद्ध्याणणवा स्युर्व्यालजीमूतमुख्यकाः।  
 शेषे वै प्रचिता ज्ञेया गाथाप्रस्तार उच्यते॥३०॥
@@ -7471,7 +7893,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 अनुस्वारो विसर्गश्चपौख्यौचापि परान्वितौ॥२॥
 
 दुष्पृष्टश्चेति विज्ञेया लृकारः प्लुतएव च।  
-[रङ्गश्च खे अरं प्रोक्तं](# "वर्गमुखे अरं प्रोक्तमिति ख०।")हकारः पञ्चमैर्युतः॥३॥
+रङ्गश्च खे अरं प्रोक्तं[^212]हकारः पञ्चमैर्युतः॥३॥
+
+[^212]: "वर्गमुखे अरं प्रोक्तमिति ख०।"
 
 अन्तस्थाभिः समायुक्त औरस्यः कण्ठ्यएव सः।  
 आत्मबुद्ध्यासमस्यार्थं मनोयुक्ते विवक्षया॥४॥
@@ -7480,13 +7904,17 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 
 
-मारुतस्तूरसि चरन् [मन्त्रं](# "मात्रमिति ख०।")जनयति स्वरं॥५॥
+मारुतस्तूरसि चरन् मन्त्रं[^213]जनयति स्वरं॥५॥
+
+[^213]: "मात्रमिति ख०।"
 
 प्रातःसवनयोगस्तु छन्दो गायत्रमाश्रितम्।  
 कण्ठे माध्यन्दिनयुतं मध्यमन्त्रेषु भानुगम्॥६॥
 
-[तारन्तार्त्तीयसवनं](# "भावन्तार्तीयसवनमिति ख०।")शीर्षण्यंजागतानुगम्।  
+तारन्तार्त्तीयसवनं[^214]शीर्षण्यंजागतानुगम्।  
 सोदीर्णो मूर्ध्न्यभिहितो वक्रमापद्य मारुतः॥७॥
+
+[^214]: "भावन्तार्तीयसवनमिति ख०।"
 
 वर्णान् जनयते तेषां विभागः पञ्चधा स्मृतः।  
 स्वरतः कालतः स्थानात् प्रयत्नार्थप्रदानतः॥८॥
@@ -7500,8 +7928,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पद्यो भावप्रसन्धानमुकारादि परम्पदं।  
 स्वरान्तं तादृशं विद्याद्यदन्यद्व्यक्तमूष्मणः॥११॥
 
-[ऊतीर्थादागतं](# "कुतीर्थादागतमिति ८०। क्षतीर्थादागतमिति ख०।")दग्धमपवर्णञ्चभक्षितं।  
+ऊतीर्थादागतं[^215]दग्धमपवर्णञ्चभक्षितं।  
 एवमुच्चारणं पापमेवमुच्चारणं शुभम्॥१२॥
+
+[^215]: "कुतीर्थादागतमिति ८०। क्षतीर्थादागतमिति ख०।"
 
 अतीर्थादागतं द्रव्यं साम्नायं सुव्यवस्थितं।  
 सुस्वरेण सुवक्त्रेण प्रयुक्तं ब्रह्मराजनि॥१३॥
@@ -7519,7 +7949,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 ह्रस्वो दीर्घः प्लुतइति कालतो नियमावधि॥१६॥
 
 कण्ठ्यावहाविचुयशास्तालब्या ओष्ठजा वुपु।  
-स्युर्मूर्द्धन्या [ऋहुरसाः](# "खटवसा इति ख०।")दन्त्याः लृोलसाः स्मृताः॥१७॥
+स्युर्मूर्द्धन्या ऋहुरसाः[^216]दन्त्याः लृोलसाः स्मृताः॥१७॥
+
+[^216]: "खटवसा इति ख०।"
 
 जिह्वामूले तु ह्वः प्रोक्तो दन्त्योष्ठो वः स्मृतो बुधैः।  
 एदैतौकण्टतालव्यौ ओ औ कण्ठ्यौष्ठजौस्मृतौ॥१८॥
@@ -7617,8 +8049,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 
 
-**मात्राभिर्गणना यत्र सा जातिरिति [काश्यपः](# "कश्यप इति ज०, ञ०, ट० च।")।  
+**मात्राभिर्गणना यत्र सा जातिरिति काश्यपः[^217]।  
 सममर्धसमं वृत्तं विषमं पैंङ्गलं त्रिधा॥२२॥**
+
+[^217]: "कश्यप इति ज०, ञ०, ट० च।"
 
 **सा विद्या नौस्तितीषूर्णां गभीरं काव्यसागरं।  
 महाकाव्यं कलापश्च पर्य्याबन्धो विशेषकम्॥२३॥**
@@ -7626,14 +8060,20 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **कुलकं मुक्तकं कोष इति पद्यकुटुम्बकम्।  
 सर्गबन्धो महाकाव्यमारब्धं संस्कृतेन यत्॥२४॥**
 
-**[तादात्म्यमजहत्तत्र](# "तादर्थमजहत्तत्रेति ज०।")तत्समं नाति दुष्यति।**  
+**तादात्म्यमजहत्तत्र[^218]तत्समं नाति दुष्यति।**  
 **इतिहासकथोद्भूतमितरद्वा सदाश्रयं॥२५॥**
 
+[^218]: "तादर्थमजहत्तत्रेति ज०।"
+
 **मन्त्रदूतप्रयाणाजिनियतं नातिविस्तरम्।**  
-**शक्कर्य्यातिजगत्यातिशक्कर्य्या [त्रिष्टुभा](# "अनुष्टुभेति ञ०।") तथा॥२६॥**
+**शक्कर्य्यातिजगत्यातिशक्कर्य्या त्रिष्टुभा[^219] तथा॥२६॥**
+
+[^219]: "अनुष्टुभेति ञ०।"
 
 **पुष्पिताग्रादिभिर्व्वक्राभिजनैश्चारुभिः समैः।**  
-**[मुक्ता](# "बक्तेति ञ०।") तु भिन्नवृत्तान्ता नातिसंक्षिप्तसर्गकम्॥२७॥**
+**मुक्ता[^220] तु भिन्नवृत्तान्ता नातिसंक्षिप्तसर्गकम्॥२७॥**
+
+[^220]: "बक्तेति ञ०।"
 
 **अतिशर्क्वरिकाष्टिभ्यामेकसङ्कीर्णकैः परः।**  
 **मात्रयाप्यपरः सर्गः प्राशस्त्येषु च पश्चिमः॥२८॥**
@@ -7650,8 +8090,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **सर्व्ववृत्तिप्रवृत्तञ्च सर्व्वभावप्रभावितम्॥३१॥**
 
-**सर्व्वरीतिरसैः [पुष्टं](# "जुष्टमिति ज०, ट० च।")पुष्टङ्गुणविभूषणैः।**  
+**सर्व्वरीतिरसैः पुष्टं[^221]पुष्टङ्गुणविभूषणैः।**  
 **अत एव महाकाव्यं तत्कर्त्ता च महाकविः॥३२॥**
+
+[^221]: "जुष्टमिति ज०, ट० च।"
 
 **वाग्वैदग्ध्यप्रधानेपि रस एवात्र जीवितम्।**  
 **पृथक्प्रयत्ननिर्व्वर्त्यं वाग्वक्रिम्नि रसाद्वपुः॥३३॥**
@@ -7838,7 +8280,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **विस्मयोऽतिशयेनार्थदर्शनाच्चित्तविस्ततिः॥१५॥**
 
 **अष्टौ स्तम्भादयः सत्त्वाद्रजसस्तमसः परम्।**  
-**स्तम्भश्चेष्टाप्रतीघातो [भयरागाद्युपाहितः](# "भयरागाद्युपस्थित इति ख०।")॥१६॥**
+**स्तम्भश्चेष्टाप्रतीघातो भयरागाद्युपाहितः[^222]॥१६॥**
+
+[^222]: "भयरागाद्युपस्थित इति ख०।"
 
 **श्रमरागाद्युपेतान्तःक्षीभजन्म वपुर्जलं।**  
 **स्वेदो हर्षादिभिर्द्देहोच्छासोऽन्तःपुलकोद्गमः॥१७॥**
@@ -7950,7 +8394,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **भावो विलासी हावः स्याद्भावः किञ्चिच्च हर्षजः॥५०॥**
 
 **वाचोयुक्तिर्भवेद्वागारम्भो द्वादश एव सः।**  
-**तत्राभाषणमालापः प्रलापो वचनं [बहु](# "मुहुरिति ख०।")॥५१॥**
+**तत्राभाषणमालापः प्रलापो वचनं बहु[^223]॥५१॥**
+
+[^223]: "मुहुरिति ख०।"
 
 **विलापो दुःखवचनमनुलापोऽसकृद्वचः।**  
 **संलाप उक्तप्रत्युक्तमपलापोऽन्यथावचः॥५२॥**
@@ -7998,9 +8444,13 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 प्रस्तावना नाटकादेर्व्वोथ्यङ्गाश्च त्रयोदश॥७॥**
 
 **उद्घातकं तथैव स्याल्लपितं स्याद्द्वितीयकम्।  
-असत्प्रलापो [वाक्श्रेणी](# "वाग्वे णीति क०, ञ०, ८० च।")नालिका विपणन्तथा॥८॥**
+असत्प्रलापो वाक्श्रेणी[^224]नालिका विपणन्तथा॥८॥**
 
-**[व्याहारस्त्रिमतञ्चैव](# "व्याहारस्तिगतञ्चैवेति ख०।") छलावस्कन्दिते तथा।**
+[^224]: "वाग्वे णीति क०, ञ०, ८० च।"
+
+**व्याहारस्त्रिमतञ्चैव[^225] छलावस्कन्दिते तथा।**
+
+[^225]: "व्याहारस्तिगतञ्चैवेति ख०।"
 
 
 
@@ -8008,7 +8458,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **तापसादेः प्रहसनं परिहासपरं वचः।  
 मायेन्द्रजालयुद्धादिबहुलारभटी स्मृता।  
-[सङ्क्षिप्तकारपातौ च](# "सङ्क्षिप्तकरपातौ चेति ज०।")वस्तूत्थापनमेव च॥१०॥**
+सङ्क्षिप्तकारपातौ च[^226]वस्तूत्थापनमेव च॥१०॥**
+
+[^226]: "सङ्क्षिप्तकरपातौ चेति ज०।"
 
 इत्याग्नेये महापुराणे अलङ्कारे रीतिनिरूपणं नामोनचत्वारिंशदधिकत्रिशततमोऽध्यायः।
 
@@ -8046,7 +8498,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **अङ्गप्रत्यङ्गयोः कर्म्म प्रयत्नजनितं विना॥ ६॥**
 
 **न प्रयोगः क्वचिन्मुख्यन्तिरश्चीनञ्च तत् क्वचित्।  
-आकम्पितं [कम्पितञ्च](# "चाकल्पितं कल्पितञ्चेति ख०।")ध्रूतं विधूतमेव च॥ ७॥**
+आकम्पितं कम्पितञ्च[^227]ध्रूतं विधूतमेव च॥ ७॥**
+
+[^227]: "चाकल्पितं कल्पितञ्चेति ख०।"
 
 **परिवाहितमाधूतमवधूतमथाचितं।  
 निकुञ्चितं परावृत्तमुत्क्षिप्तञ्चाप्यधोगतम्॥ ८॥**
@@ -8070,7 +8524,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 मुष्टिश्च शिखरश्चैव कपित्थः खेटकामुखः॥ १४॥**
 
 **सूच्यास्यः पद्मकोषो हि शिराः समृगशीर्षकाः।  
-[कांमूलकालपद्मौ](# "काङ्गूलकालपद्माविति ञ०। कांमूलकालपद्मौ काङ्गूलकालपद्मौ एतत्पाठद्वयं न समीचीनं।")च चतुरभ्रमरौ तथा॥ १५॥**
+कांमूलकालपद्मौ[^228]च चतुरभ्रमरौ तथा॥ १५॥**
+
+[^228]: "काङ्गूलकालपद्माविति ञ०। कांमूलकालपद्मौ काङ्गूलकालपद्मौ एतत्पाठद्वयं न समीचीनं।"
 
 **हंसास्यहंसपक्षौ च सन्दंशमुकुलौ तथा।**
 
@@ -8233,14 +8689,20 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **एकवर्णगतावृत्तेर्ज्जायन्ते पञ्च वृत्तयः।  
 मधुरा ललिता प्रौटा भद्रा परुषया सह॥२॥**
 
-**मधुरायाश्च वर्गान्तादधो वर्ग्या रणौ [स्वनौ](# "रशौ घनाविति ञ०।")(१)।  
+**मधुरायाश्च वर्गान्तादधो वर्ग्या रणौ स्वनौ[^229](१)।  
 ह्रस्वस्वरेणान्तरितौ संयुक्तत्वं नकारयोः॥३॥**
 
-**न कार्य्या वर्ग्यवर्णानामावृत्तिः पञ्चमाधिका।  
-[महाप्राणोष्मसंयोगप्रविमुक्तलघूत्तरौ](# "महाप्राणीष्मसंयोगादवियुक्तलघूत्तराविति ट०।")॥४॥**
+[^229]: "रशौ घनाविति ञ०।"
 
-**[ललिता बलभूयिष्ठा](# "ललिता वनभूयिष्ठेति ख०। ललिता वत्सभूयिष्ठेति ट०।")प्रौटा या पणवर्गजा।  
+**न कार्य्या वर्ग्यवर्णानामावृत्तिः पञ्चमाधिका।  
+महाप्राणोष्मसंयोगप्रविमुक्तलघूत्तरौ[^230]॥४॥**
+
+[^230]: "महाप्राणीष्मसंयोगादवियुक्तलघूत्तराविति ट०।"
+
+**ललिता बलभूयिष्ठा[^231]प्रौटा या पणवर्गजा।  
 ऊर्ध्वं रेफेण युज्यन्ते नटवर्गोनपञ्चमाः॥५॥**
+
+[^231]: "ललिता वनभूयिष्ठेति ख०। ललिता वत्सभूयिष्ठेति ट०।"
 
 **भद्रायां परिशिष्टाः स्युः परुषा साऽभिधीयते।  
 भवन्ति यस्यामूष्माणः संयुक्तास्तत्तदक्षरैः॥६॥**
@@ -8258,7 +8720,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पारुष्यायादिमांस्तत्र पूजिता न तु पञ्चमो॥९॥**
 
 **क्षेपे शब्दानुकारे च परुषापि प्रयुज्यते।  
-कर्णाटी कौन्तली कौन्ती कौङ्क्णी [वामनासिका](# "बालवासिकेति ख०, ट० च। वनवासिकेति ञ०।")॥१०॥**
+कर्णाटी कौन्तली कौन्ती कौङ्क्णी वामनासिका[^232]॥१०॥**
+
+[^232]: "बालवासिकेति ख०, ट० च। वनवासिकेति ञ०।"
 
 **द्रावणी माधवी पञ्चवर्णान्तस्थोष्मभिः क्रमात्।  
 अनेकवर्णावृत्तिर्या भिन्नार्थप्रतिपादिका॥११॥**
@@ -8269,14 +8733,18 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **द्वैविध्येनानयोः स्थानपादभेदाच्चतुर्विधम्।  
 आदिपादादिमध्यान्तेष्वेकद्वित्रिनियोगतः॥१३॥**
 
-**सप्तधा [सप्तपूर्वेण](# "पूर्व्वपूर्व्वेणेति ञ०, ञ०, ट० च।") चेत् पादेनोत्तरोत्तरः।  
+**सप्तधा सप्तपूर्वेण[^233] चेत् पादेनोत्तरोत्तरः।  
 एकद्वित्रिपदारम्भस्तुल्यः षोढा तदापरं॥१४॥**
+
+[^233]: "पूर्व्वपूर्व्वेणेति ञ०, ञ०, ट० च।"
 
 **तृतीयं त्रिविधं पादस्यादिमध्यान्तगोचरम्।  
 पादान्तयमकञ्चैव काञ्चीयमकमेव च॥१५॥**
 
-**[संसर्गयमकञ्चैव](# "सम्बन्धयमकश्चैवेति ख०।") विक्रान्तयमकन्तथा।  
+**संसर्गयमकञ्चैव[^234] विक्रान्तयमकन्तथा।  
 पादादियमकञ्चैव तथाम्रेडितमेव च॥१६॥**
+
+[^234]: "सम्बन्धयमकश्चैवेति ख०।"
 
 **चतुर्व्यवसितञ्चैव मालायमकमेव च।  
 दशधा यमकं श्रेष्ठं तद्भेदा बहवोऽपरे॥१७॥**
@@ -8291,7 +8759,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 असमासात्तयोर्व्यस्ता पादे त्वेकत्र विग्रहात्॥१९॥**
 
 **वाक्यस्यावृत्तिरप्येवं यथासम्भवमिष्यते।  
-अलङ्काराद्यनुप्रासो [लघुमध्येवमर्हणात्](# "लघुमप्येवमर्हणादिति ट० । लघुमध्येववर्हणादिति ज०।")\*॥२०॥**
+अलङ्काराद्यनुप्रासो लघुमध्येवमर्हणात्[^235]\*॥२०॥**
+
+[^235]: "लघुमप्येवमर्हणादिति ट० । लघुमध्येववर्हणादिति ज०।"
 
 **यया कयाचिद्वृत्या यत् समानमनुभूयते।  
 तद्रुपादिपदासत्तिः सानुप्रासा रसावहा॥२१॥**
@@ -8354,7 +8824,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 प्रत्यर्धं प्रतिपादं स्यादेकान्तरसमाक्षरा॥३७॥**
 
 **दिधा गोमूत्रिकां पूर्व्वामाहुरश्वपदां परे।  
-अन्त्याङ्गोमूत्रिकां धेनुं [जालबन्धं](# "जानुबन्धमिति क॰, ख॰ च।")वदन्ति हि॥३८॥**
+अन्त्याङ्गोमूत्रिकां धेनुं जालबन्धं[^236]वदन्ति हि॥३८॥**
+
+[^236]: "जानुबन्धमिति क॰, ख॰ च।"
 
 **अर्द्धाभ्यामर्धपादैश्च कुर्य्याद्विन्यासमेतयोः।**
 
@@ -8460,8 +8932,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **अलङ्करणमर्थानामर्थालङ्कार इष्यते।  
 तं विना शब्दसौन्दर्य्यमपि नास्ति मनोहरम्॥१॥**
 
-**अर्थालङ्काररहिता [विधवेव](# " विधुरेवेति ख०, ट० च।") सरस्वती।  
+**अर्थालङ्काररहिता विधवेव[^237] सरस्वती।  
 स्वरूपमथ सादृश्यमुत्प्रेक्षातिशयावपि॥२॥**
+
+[^237]: " विधुरेवेति ख०, ट० च।"
 
 **विभावना विरोधश्च हेतुश्च सममष्टधा।  
 स्वभाव एव भावानां स्वरूपमभिधीयते॥३॥**
@@ -8520,7 +8994,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 आत्मनोपमानादुपमा साधारण्यतिशायिनी॥१९॥**
 
 **उपमेयं यदन्यस्य तदन्यस्योपमा मता।  
-यद्युत्तरोत्तरं याति तदाऽसौ [गगनोपमा](# "पथनोपमेति ख०। गमनोपमेति क०, ट० च।")॥२०॥**
+यद्युत्तरोत्तरं याति तदाऽसौ गगनोपमा[^238]॥२०॥**
+
+[^238]: "पथनोपमेति ख०। गमनोपमेति क०, ट० च।"
 
 **प्रशंसा चैव निन्दा च कल्पिता सदृशीतथा।  
 किञ्चिच्च सदृशी ज्ञेया उपमा पञ्चधा पुनः॥२१॥**
@@ -8762,7 +9238,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **अविष्पष्टार्थता भेदास्तत्र गूढ़ार्थतेति सा॥७॥**
 
 **यत्रार्थो दुःखसवेद्यो विपर्य्यस्तार्थता पुनः।  
-विवक्षितान्यशब्दार्थप्रतिपत्ति[र्मलीमसा](# "मनीषयेति ज०।")॥८॥**
+विवक्षितान्यशब्दार्थप्रतिपत्तिर्मलीमसा[^239]॥८॥**
+
+[^239]: "मनीषयेति ज०।"
 
 **अन्यार्थत्वासमर्थत्वे एतामेवोपसर्पतः।**
 
@@ -8783,19 +9261,25 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 अनेकभागुपालम्भः साधारण इति स्मृतः॥१३॥**
 
 **क्रियाकारकयोर्भ्रंशी विसन्धिः पुनरुक्तता।  
-व्यस्तसम्बन्धता चेति पञ्च साधारणा [मताः](# "मला इति क०, ज॰ च०।")॥१४॥**
+व्यस्तसम्बन्धता चेति पञ्च साधारणा मताः[^240]॥१४॥**
+
+[^240]: "मला इति क०, ज॰ च०।"
 
 **अक्रियत्वं क्रियाभ्रंशी भ्रष्टकारकता पुनः।  
 कर्त्र्यादिकारकाभावो विसन्धिः सन्धिदूषणम्॥१५॥**
 
 **विगतो वा विरुद्धो वा सन्धिः स भवति द्विधा।  
-सन्धेर्व्विरुद्धता[कष्टपादादर्थान्तरागमात्](# "कष्टपादादर्थान्तरक्रमादिति ट०।")॥९६॥**
+सन्धेर्व्विरुद्धताकष्टपादादर्थान्तरागमात्[^241]॥९६॥**
+
+[^241]: "कष्टपादादर्थान्तरक्रमादिति ट०।"
 
 **पुनरुक्तत्वमाभीक्ष्ण्यादभिधानं द्विधैव तत्।  
 अर्थावृत्तिः पदावृत्तिरर्थावृतिरपि द्विधा॥१७॥**
 
-**[प्रयुक्तवरशब्देन](# "प्रयुक्तचरशब्देनेति ज० ञ० च॰") तथा शब्दान्तरेण च।  
+**प्रयुक्तवरशब्देन[^242] तथा शब्दान्तरेण च।  
 नावर्त्तते पदावृत्तौ वाच्यमावर्त्तते पदम्॥१८॥**
+
+[^242]: "प्रयुक्तचरशब्देनेति ज० ञ० च॰"
 
 **व्यस्तसम्बन्धता सुष्ठुसम्बन्धोव्यवधानतः।  
 सम्बन्धान्तरनिर्भाषात् सम्बन्धान्तरजन्मनः॥१९॥**
@@ -8815,7 +9299,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पक्षे सपक्षेनास्तित्वं विपक्षेऽस्तित्वमेव तत्॥२३॥**
 
 **काव्येषु परिषद्यानां न भवेदप्यरुन्तुदम्।  
-[एकादशनिरर्थत्वं](# "एकादशनिरसत्वमिति ञ०।") दुष्करादौ नदुष्यति॥२४॥**
+एकादशनिरर्थत्वं[^243] दुष्करादौ नदुष्यति॥२४॥**
+
+[^243]: "एकादशनिरसत्वमिति ञ०।"
 
 **दुःखीकरोति दोषज्ञान्गूटार्थत्वं न दुष्करे।  
 न ग्राम्यतीद्वेगकारी प्रसिद्धेर्ल्लोकशास्त्रयोः॥२५॥**
@@ -8884,19 +9370,25 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 अ विष्णुः प्रतिषेधः स्यादा पितामहवाक्ययोः॥१॥**
 
 **सीमायामथाव्ययं आ भवेत्संक्रोधपीडयोः।  
-इः कामे रतिलक्ष्योरी उः शिवे [रक्षकाद्य ऊः](# "ब्रह्मकाद्य ऊरिति ख०।")॥२॥**
+इः कामे रतिलक्ष्योरी उः शिवे रक्षकाद्य ऊः[^244]॥२॥**
+
+[^244]: "ब्रह्मकाद्य ऊरिति ख०।"
 
 **ऋ शब्दे चादितौ ऋस्यात् लृ लॄते वै दितौ गुहे।  
 ए देवी ऐ योगिनी स्यादी ब्रह्मा औमहेश्वरः॥३॥**
 
-**अङ्कामःअः [प्रशस्तः स्यात्](# "प्रशान्तः स्यादिति ख०।")कोब्रह्मादौ कु कुत्सिते।  
+**अङ्कामःअः प्रशस्तः स्यात्[^245]कोब्रह्मादौ कु कुत्सिते।  
 खं शून्येन्द्रियं खङ्गो गन्धर्व्वे च विनायके॥४॥**
+
+[^245]: "प्रशान्तः स्यादिति ख०।"
 
 **गङ्गीते गो गायने स्याद् घोघण्टा किङ्किणीमुखे।  
 ताड़ने ङश्चविषये स्पृहायाञ्चैव भैरवे॥५॥**
 
 **चो दुर्जने निर्म्मले छश्छेदेजिर्ज्जयने तथा।  
-जं गीतेः झःप्रशस्ते [स्याद्बले](# "धने इति ञ०।")़ञो गायने च टः॥६॥**
+जं गीतेः झःप्रशस्ते स्याद्बले[^246]़ञो गायने च टः॥६॥**
+
+[^246]: "धने इति ञ०।"
 
 **ठश्चन्द्रमण्डले शून्ये शिवे चोद्बन्धने मतः।  
 डश्च रुद्रे ध्वनौ त्रासे ढक्वायां ढो ध्वनौ मतः॥७॥**
@@ -8950,8 +9442,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **ॐ गं स्वा‌हा मूलमन्त्रोऽयं गं वा गणपतये नमः।  
 षडङ्गो रक्तशुक्लश्चदन्ताक्षपरशूत्कटः॥ २१॥**
 
-**[समोदकोऽथ](# "समे देशेऽथेति ज०।") गन्धादिगन्धोल्कायेति च क्रमात्।  
+**समोदकोऽथ[^247] गन्धादिगन्धोल्कायेति च क्रमात्।  
 गजोमहागणपतिर्म्महोल्कः पूज्य एव च॥ २२॥**
+
+[^247]: "समे देशेऽथेति ज०।"
 
 **कुष्माण्डाय एकदन्तत्रिपुरान्तकाय श्यामदन्तविकटहरहासाय।**
 
@@ -8964,8 +9458,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **एतैर्म्मनुभिः स्वाहान्तैः पूज्य तिलहोमादिनार्थभाक्।  
 काद्यैर्वा वीजसंयुक्तैस्तैराद्यैश्च नमोऽन्तकैः॥ २३॥**
 
-**मन्त्राः पृथक् पृथग्वा [स्युर्द्विरेफद्विर्मुखाक्षिणः](# " द्वे द्वे रेखाथ दक्षिणा इति ज०।")\*।  
+**मन्त्राः पृथक् पृथग्वा स्युर्द्विरेफद्विर्मुखाक्षिणः[^248]\*।  
 कात्यायनं स्कन्द आह यत्तद्व्याकरणं वदे॥ २४॥**
+
+[^248]: " द्वे द्वे रेखाथ दक्षिणा इति ज०।"
 
 इत्याग्नेये महापुराणे एकाक्षराभिधानं नाम सप्तचत्वारिंशदधिकत्रिशततमोऽध्यायः।
 
@@ -9124,7 +9620,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **यैषा सा वेदवित्संवित् बह्नीराज्ञी त्वया मया।**  
 
-**सीमा पञ्चादयो राजी धूः पूश्चैव [दिशा](# "दिवेति ज०।")गिरा॥१८॥**
+**सीमा पञ्चादयो राजी धूः पूश्चैव दिशा[^249]गिरा॥१८॥**
+
+[^249]: "दिवेति ज०।"
 
 **चतस्रो विदुषी चैव केयं दिक् दृक्च तादृशी।  
 असौ स्त्रियां नायकाश्च नायकाश्च नपुंसके॥१९॥**
@@ -9489,9 +9987,11 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 नृणां साक्षीनृषु साक्षी गोषु नाथो गवाम्पतिः।  
 गोषु सूतो गवां सुतो राज्ञांदायादकोऽस्त्विह॥२४॥
 
-[अन्नस्य](# "१ अर्थस्येतिज०।")हेतोर्वसति षष्ठी स्मृत्यर्थकर्मणि।  
+अन्नस्य[^250]हेतोर्वसति षष्ठी स्मृत्यर्थकर्मणि।  
 मातुः स्मरति गोप्तारं नित्यं स्यात् कर्तृकर्मणोः।  
 अपां भेत्ता तव कृतिर्ननिष्ठादिषु षष्ठ्यपि॥२५॥
+
+[^250]: "१ अर्थस्येतिज०।"
 
 इत्याग्नेये महापुराणे व्याकरणे कारकं नाम त्रिपञ्चाशदधिकत्रिशततमोऽध्यायः।
 
@@ -9665,7 +10165,11 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 आहौदक्षिणाहि वसेद्द्विप्रकारं द्विधा च धा॥२६॥
 
 ध्यमुञिचैकध्यंकुरु त्वं द्वैधन्धमुञिचेदृशं।  
-द्वौ प्रकारौद्विधा [धाचि](# "पाठोऽयं पौनरुक्त्यदोषेण दुष्टः।")आसुसुरतरं [यथा](# "स्वयं सुष्टुं तरा यथेति ज०। आसुसुत्तरा यथेति ८०।")\*॥२७॥
+द्वौ प्रकारौद्विधा धाचि[^251]आसुसुरतरं यथा[^252]\*॥२७॥
+
+[^251]: "पाठोऽयं पौनरुक्त्यदोषेण दुष्टः।"
+
+[^252]: "स्वयं सुष्टुं तरा यथेति ज०। आसुसुत्तरा यथेति ८०।"
 
 निपातास्तद्धिताः प्रोक्ताः तद्धितो भाववाचकः।  
 पटोर्भावः पटुत्वन्त्वे पदुता तलिचेरितं॥२८॥
@@ -9715,7 +10219,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 कर्णःकामी च गृहभूर्वास्तुजवातृकः स्मृतः॥६॥
 
 अनड्वान् वहतेर्विनि स्याज्जातौजीवार्णवौषधं।  
-नौ वह्निरिननि हरिणः मृगः कामीच [भाजनम्](# "पाठोऽयं न साधु सङ्गच्छते।") (१)॥७॥
+नौ वह्निरिननि हरिणः मृगः कामीच भाजनम्[^253] (१)॥७॥
+
+[^253]: "पाठोऽयं न साधु सङ्गच्छते।"
 
 कम्बोजो भाजनम्भाण्डं सरण्डश्च चतुष्पदः।  
 तरुरेरण्डःसङ्घातो वरूड़ः साम निर्भरं॥८॥
@@ -10256,7 +10762,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 उपर्युरीचोररीच विस्तारेऽङ्गीकृते त्रयम्॥१५॥
 
 स्वर्गे परे च लोके स्वर्वार्त्तासम्भावयोः किल।  
-निषेधवाक्यालङ्कारे [जिज्ञासावसरे](# "१ जिज्ञासानुनय इतिं ज०।") खलु॥१५॥
+निषेधवाक्यालङ्कारे जिज्ञासावसरे[^254] खलु॥१५॥
+
+[^254]: "१ जिज्ञासानुनय इतिं ज०।"
 
 समीपोभयतः शीघ्रसाकल्याभिमुखेऽभितः।  
 नामप्रकाशयोः प्रादुर्मिथोऽन्योन्यं रहस्यपि॥१७॥
@@ -10689,8 +11197,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **दद्रुघ्नः स्यादेड़गजो वर्षाभूः शीथहारिणी॥६४॥**
 
-**कुनन्दती [निकुम्भस्त्रा](# "सकुलदन्ती निर्दंष्ट्रेति ख०।")यमानी वार्षिका तथा।  
+**कुनन्दती निकुम्भस्त्रा[^255]यमानी वार्षिका तथा।  
 लशुनङ्गृञ्जनारिष्टमहाकन्दरसोनकाः॥६५॥**
+
+[^255]: "सकुलदन्ती निर्दंष्ट्रेति ख०।"
 
 **वाराहीवदरा गृष्टिः काकमाची तु वायसी।  
 शतपुष्पा सितच्छत्राऽतिच्छत्रा मधुरा मिसिः॥६६॥**
@@ -11116,7 +11626,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 अपध्वस्तो धिक्कृतः स्याद्वद्धेकीलितसंयतौ॥१०॥
 
 वरणः शब्दनो नान्दीवादी नान्दोकरः समाः।  
-व्यसनार्तोपरक्तौ द्वौबद्धेको [कीलितसंयत](# "पाठोऽयं पुनरुक्तिदोषेण दुष्टः।")ौ॥११॥
+व्यसनार्तोपरक्तौ द्वौबद्धेको कीलितसंयत[^256]ौ॥११॥
+
+[^256]: "पाठोऽयं पुनरुक्तिदोषेण दुष्टः।"
 
 विहस्तव्याकुलौतुल्यौनृशंसक्रूरघातुकाः।  
 पापो धूर्तोवञ्चकः स्यान्मूर्खे वैदेहवालिशौ॥१२॥
@@ -11310,7 +11822,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 बान्धवानामशौचे तु देहे खल्वातिवाहिके॥९॥**
 
 **तिष्ठन्नयति धर्म्मज्ञ दत्तपिण्डाशनन्ततः।  
-तन्त्यक्ता प्रेतदेहन्तु प्राप्यान्यं [प्रेतलोकतः](# "प्रेतलौकिके इति ख०।")॥१०॥**
+तन्त्यक्ता प्रेतदेहन्तु प्राप्यान्यं प्रेतलोकतः[^257]॥१०॥**
+
+[^257]: "प्रेतलौकिके इति ख०।"
 
 **वसेत् क्षुधा तृषा युक्त आमश्राद्वान्नभुङ्नरः।  
 प्रतिवाहिकदेहात्तु प्रेतपिण्डैषिंना नरः॥११॥**
@@ -11338,8 +11852,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 कर्म्मण्यल्पावशेषे तु नरकादपि मुच्यते।  
 मुक्तस्तु नरकाद्याति तिर्य्यग्योनिं न संशयः॥१८॥
 
-जीवः प्रविष्टो गर्भन्तु कललेऽप्यत्र [तिष्ठति](# "गच्छतीति क०।")।  
+जीवः प्रविष्टो गर्भन्तु कललेऽप्यत्र तिष्ठति[^258]।  
 घनीभूतं द्वितीये तु तृतीयेऽवयवास्ततः॥१९॥
+
+[^258]: "गच्छतीति क०।"
 
 चतुर्थेऽस्थीनि त्वङ्मांसम्पञ्चमे रोमसम्भवः।  
 षष्ठे चेतोऽथ जीवस्य दुःखं विन्दति सप्तमे॥२०॥
@@ -11369,7 +11885,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पीड्यमानो मासमात्रं करस्पर्शेन दुःखितः॥२७॥
 
 खशब्दात् क्षुद्रश्रोतांसि देहे श्रोत्रं विविक्तता।  
-[श्वासोच्छासी गतिर्वायोर्वक्रसंस्पर्शनं तथा](# "श्वासोच्छासौ सनिर्वापी बाह्यसंस्पर्शनमिति ञ०।")॥२८॥
+श्वासोच्छासी गतिर्वायोर्वक्रसंस्पर्शनं तथा[^259]॥२८॥
+
+[^259]: "श्वासोच्छासौ सनिर्वापी बाह्यसंस्पर्शनमिति ञ०।"
 
 अग्नेरूपं दर्शनं स्यादूष्मा पङ्क्तिश्च पित्तकं।  
 मेधा वर्णं बलं छाया तेजः शौर्य्यं शरीरके॥२९॥
@@ -11380,8 +11898,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 भूमेर्घ्राणं केशनखं गौरवं स्थिरतोऽस्थितः।  
 मातृजानि मृदून्यत्र त्वङ्मांसहृदयानि च॥३१॥
 
-[नाभिर्मा](# "नाभिर्मेढमिति ख, ञ० च।")ज्जाशकृन्मेदःक्लेदान्यामाभयानि च।  
+नाभिर्मा[^260]ज्जाशकृन्मेदःक्लेदान्यामाभयानि च।  
 पितृजानि शिरास्नायुशक्रञ्चैवात्मजानि तु॥३२॥
+
+[^260]: "नाभिर्मेढमिति ख, ञ० च।"
 
 कामक्रोधौ भयं हर्षो धर्माधर्म्मत्मता तथा।  
 आकृतिः स्वरवर्णौ तु मेहनाद्यं तथा च यत्॥३३॥
@@ -11547,8 +12067,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 त्रिंशाधिके द्वे शते तु अन्तराधौ तु सप्ततिः।  
 ऊर्द्ध्वगाः षट्शतान्येव शाखास्तु कथितानि तु॥३५॥
 
-[पञ्चपेशीशतान्येव](# "पञ्चपेशीशतान्यत्रेति ख० अ०, च।")चत्वारिंशत्तथोर्द्ध्वगाः।  
+पञ्चपेशीशतान्येव[^261]चत्वारिंशत्तथोर्द्ध्वगाः।  
 चतुःशतन्तु शाखासु अन्तराधौ च षष्टिका॥३६॥
+
+[^261]: "पञ्चपेशीशतान्यत्रेति ख० अ०, च।"
 
 स्त्रीणां चैकाधिका वै स्याद्दिंशतिश्चतुरुत्तरा।  
 स्तनयोर्दश योनौ च त्रयोदश तथाशये॥३७॥
@@ -11572,7 +12094,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 अर्द्धाञ्जलिश्च शुक्रस्य तदर्धञ्च तथौजसः॥४२॥
 
 रजसस्तुतथा स्त्रीणाञ्चतस्रः कथिता बुधैः।  
-शरीरं मलदोषादि [पिण्डं ज्ञात्वामनि त्यजेत्](# "पिण्ठं कृत्वा तु विन्यसेदिति ञ॰।")॥४३॥
+शरीरं मलदोषादि पिण्डं ज्ञात्वामनि त्यजेत्[^262]॥४३॥
+
+[^262]: "पिण्ठं कृत्वा तु विन्यसेदिति ञ॰।"
 
 इत्याग्नेये महापुराणे शरीरावयवा नामी न सप्तत्यधिकत्रिंशततमोऽध्यायः।
 
@@ -11698,8 +12222,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 रत्नहारी हीनजातिर्गन्धान् छुछुन्दरी शुभान्।  
 पत्रं शाकं शिखी हृत्वा मुखरो धान्यहारकः॥३६॥
 
-अजः पशुं पयः काको [यानमुष्ट्रः](# "यानं वस्तइति ख०।")फलं कपिः।  
+अजः पशुं पयः काको यानमुष्ट्रः[^263]फलं कपिः।  
 मधु दंशः फलं गृध्रो गृहकाक उपस्करं॥३७॥
+
+[^263]: "यानं वस्तइति ख०।"
 
 श्वित्री वस्त्रं सारसञ्च झिल्ली लवणहारकः।  
 उक्त आध्यात्मिकस्तापः शस्त्राद्यैराधिभौतिकः॥३८॥
@@ -11725,8 +12251,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 अग्निरुवाच।
 
 संसारतापमुक्त्यर्थं वक्ष्याम्यऽष्टाङ्गयोगकं।  
-[ब्रह्मप्रकाशकं ज्ञानं](# "ब्रह्मप्रकाशनं ज्ञानमिति ञ०।")
+ब्रह्मप्रकाशकं ज्ञानं[^264]
 योगस्तत्रैकचित्तता॥१॥
+
+[^264]: "ब्रह्मप्रकाशनं ज्ञानमिति ञ०।"
 
 चित्तवृत्तिनिरोधश्चजीवब्रह्मात्मनोः परः।  
 अहिंसा सत्यमस्तेयं ब्रह्मचर्य्यापरिग्रहौ॥२॥
@@ -11735,7 +12263,11 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 शौचं सन्तोषतपसौ स्वाध्यायेश्वरपूजने॥३॥
 
 भूतापीड़ा ह्यहिंसा स्यादहिंसा धर्म उत्तमः।  
-यथा [गजपदे ऽन्यानि](# "यथा नागपदेऽन्यानीति क०।")पदानि [पथगामिनां](# "पद्गामिनामिति ख०, ज०, च।")॥४॥
+यथा गजपदे ऽन्यानि[^265]पदानि पथगामिनां[^266]॥४॥
+
+[^265]: "यथा नागपदेऽन्यानीति क०।"
+
+[^266]: "पद्गामिनामिति ख०, ज०, च।"
 
 एवं सर्वमहिंसायां धनार्थमभिधीयते।  
 उद्वेगजननं हिंसा सन्तापकरणन्तथा॥५॥
@@ -11885,8 +12417,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 
 
-**[कन्यकः](# "कन्यस इति ञ०।")सकृदुङ्घातः स वै द्वादशमात्रिकः।  
+**कन्यकः[^267]सकृदुङ्घातः स वै द्वादशमात्रिकः।  
 मध्यमश्च द्विरुद्घातश्चतुर्विंशतिमात्रिकः॥१०॥**
+
+[^267]: "कन्यस इति ञ०।"
 
 **उत्तमश्च त्रिरुद्घातः षटत्रिंशत्तालमात्रिकः।  
 स्वेदकम्पाभिधातानां जननश्चोत्तमोत्तमः॥११॥**
@@ -11907,8 +12441,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 निगृहीतविसृष्टानि स्वर्गाय नरकाय च॥१६॥**
 
 **शरीरं रथमित्याहुरिन्द्रियाण्यस्य वाजिनः।  
-मनश्च सारथिः प्रोक्तः [प्राणायामः कशः](# "प्राणायामोऽङ्कुश इति झा०।")
+मनश्च सारथिः प्रोक्तः प्राणायामः कशः[^268]
 स्मृतः॥१७॥**
+
+[^268]: "प्राणायामोऽङ्कुश इति झा०।"
 
 **ज्ञानवैराग्यरश्मिभ्यां सायया विधृतं मनः।  
 शनैर्निश्चलतामेति प्राणायामेकसंहितम्॥१८॥**
@@ -11923,7 +12459,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 आहृत्य यो निगृह्णाति प्रत्याहारः स उच्चते॥२०॥
 
 उद्धरेदात्मनामानं मज्जमानं यथाम्भसि।  
-[भोगनद्यतिवेगेन](# "भोगनद्यभिवेशेनेति ञ०।")ज्ञानवृक्षं समाश्रयेत्॥२१॥
+भोगनद्यतिवेगेन[^269]ज्ञानवृक्षं समाश्रयेत्॥२१॥
+
+[^269]: "भोगनद्यभिवेशेनेति ञ०।"
 
 इत्याग्नेये महापुराणे आसनप्राणायामप्रत्याहारा नाम  
 हिसप्तत्यधिकत्रिंशततमोऽध्यायः।
@@ -11976,8 +12514,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 शुचिर्वाप्यशुचिर्वापि ध्यायेत् शततमीश्वरम्।  
 स्वदेहायतनस्यान्ते मनसि स्थाप्य केशवम्॥१२॥
 
-हृत्पद्मपीठिकामध्ये [ध्यानयोगेन](# "ध्यानमार्गेणेति ख०, ज० च ।")पूजयेत्।  
+हृत्पद्मपीठिकामध्ये ध्यानयोगेन[^270]पूजयेत्।  
 ध्यानयज्ञः परः शुद्धः सर्वदोषविवर्जितः॥१३॥
+
+[^270]: "ध्यानमार्गेणेति ख०, ज० च ।"
 
 तेनेष्ट्वा मुक्तिमाप्नोति बाह्यशुद्धैश्च नाध्वरैः।  
 हिंसादोषविमुक्तित्वाद्विशुद्धिवित्तसाधनः॥१४॥
@@ -11994,7 +12534,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 
 **ध्यायेत्त्रिमण्डलं पूर्वं कृष्णंरक्तं सितं क्रमात्।  
-[सत्त्वोपाधिगुणातीतः पुरुषः पञ्चविंशकः](# "सन्लोपाधिसमायुक्तः सदा ध्येयश्चकेशव इति ख०।सन्लोपाधिसमायुक्तः सदा ध्येयश्चकेशव इति ख०।")॥१८॥**
+सत्त्वोपाधिगुणातीतः पुरुषः पञ्चविंशकः[^271]॥१८॥**
+
+[^271]: "सन्लोपाधिसमायुक्तः सदा ध्येयश्चकेशव इति ख०।सन्लोपाधिसमायुक्तः सदा ध्येयश्चकेशव इति ख०।"
 
 **ध्येयमेतदशुद्धञ्चत्यक्त्वाशुद्धं विचिन्तयेत्।  
 ऐश्वर्य्यंपङ्कजं दिव्यं पुरुषोपरि संस्थितं॥१९॥**
@@ -12009,7 +12551,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 तद्धर्मज्ञानवैराग्यंशिवैश्वर्य्यमयं परं॥२२॥**
 
 **ज्ञात्वा पद्मासनं सर्वं सर्वदुःखान्तमाप्नुयात्।  
-तत्पद्मकर्णिकामध्ये [शुद्धदीपशिखाकृतिं](# "लब्धदीपशिखाकृतिमिति ख०, ञ० च।")॥२३॥**
+तत्पद्मकर्णिकामध्ये शुद्धदीपशिखाकृतिं[^272]॥२३॥**
+
+[^272]: "लब्धदीपशिखाकृतिमिति ख०, ञ० च।"
 
 **अङ्गुष्ठमात्रममलं ध्यायेदोङ्कारमीश्वरं।  
 कदम्बगोलकाकारं तारं रूपमिव स्थितं॥२४॥**
@@ -12047,7 +12591,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 जपयज्ञस्य वै यज्ञाः कलां नार्हन्ति षोड़शीं।  
 जपिनं नोपसर्पन्ति व्याधयश्चाधयो ग्रहाः।
 
-भुक्तिर्मुक्तिर्मृत्युजयो जपेन [प्राप्नुयात् फलं](# "प्राप्नुयाद्धरिमिति ख०। प्राप्यते फलमिति ञ०।")॥३४॥
+भुक्तिर्मुक्तिर्मृत्युजयो जपेन प्राप्नुयात् फलं[^273]॥३४॥
+
+[^273]: "प्राप्नुयाद्धरिमिति ख०। प्राप्यते फलमिति ञ०।"
 
 इत्याग्नये महापुराणे ध्यानं नाम त्रिसप्तत्यधिक-  
 त्रिंशततमोऽध्यायः॥
@@ -12075,7 +12621,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 ध्यानं द्वादशकं यावत्समाधिरभिधीयते॥४॥**
 
 **धारणाभ्यासयुक्तात्मा यदि प्राणैर्विमुच्यते।  
-कुलैकविंशमुत्तार्य्य [स्वर्य्याति परमं पदं](# "स्वयं याति परं पदमिति ख०।")॥५॥**
+कुलैकविंशमुत्तार्य्य स्वर्य्याति परमं पदं[^274]॥५॥**
+
+[^274]: "स्वयं याति परं पदमिति ख०।"
 
 **यस्मिन् यस्मिन् भवेदङ्गे योगिनां व्याधिसम्भवः।  
 तत्तदङ्गं धिया व्याप्य धारयेत्तत्त्वधारणं॥६॥**
@@ -12088,14 +12636,18 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 
 
-[तिर्य्यक्चाधोर्द्ध्वभागेभ्यः प्रयान्त्योऽतीव तेजसा](# "पाठोऽयमादर्शदोषेण दुष्टः।")।  
+तिर्य्यक्चाधोर्द्ध्वभागेभ्यः प्रयान्त्योऽतीव तेजसा[^275]।  
 चिन्तयेत् साधकेन्द्रस्तं यावसर्वं महामुने॥८॥
+
+[^275]: "पाठोऽयमादर्शदोषेण दुष्टः।"
 
 भस्मीभूतं शरीरं स्वन्ततश्चैवोपसंहरेत्।  
 शीतश्लेष्मादयः पापं विनश्यन्ति द्विजातयः॥९॥
 
-[शिरो धीरञ्च](# "नीरञ्चेति ञ०।")कारञ्च कण्ठं चाधोमुखे स्मरेत्।  
+शिरो धीरञ्च[^276]कारञ्च कण्ठं चाधोमुखे स्मरेत्।  
 ध्यायेदच्छिन्नचित्तामा भूयो भूतेन चात्मना॥११॥
+
+[^276]: "नीरञ्चेति ञ०।"
 
 स्फुरच्छीकरसंस्पर्शप्रभूते हिमगामिभिः।  
 धाराभिरखिलं विश्वमापूर्व्य भुवि चिन्तयेत्॥१२॥
@@ -12629,8 +13181,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 शिविकायां स्थितञ्चेदंदेहं त्वदुपलक्षितं।  
 तत्र त्वमहमप्यत्र प्रोच्यते चेदमन्यथा॥१०॥
 
-अहं त्वञ्च तथाऽन्ये च [भूतैरुह्याम](# "पाठोऽयं न समीचीनः।") पार्थिव।  
+अहं त्वञ्च तथाऽन्ये च भूतैरुह्याम[^277] पार्थिव।  
 गुणप्रवाहपतितो गुणवर्गो हि यात्ययं॥११॥
+
+[^277]: "पाठोऽयं न समीचीनः।"
 
 कर्मवश्या गुणाश्चैते सत्त्वाद्याःपृथिवीपते।  
 अविद्यासञ्चितं कर्म तथाशेषेषु जन्तुषु॥१२॥
@@ -12753,8 +13307,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 जन्मवृद्ध्यादिरहित आत्मा सर्वगतोऽव्ययः।  
 परं ज्ञानमयोऽसङ्गी गुणजात्यादिभिर्विमुः॥४४॥
 
-[निदाघऋतुसंवादं वदामि द्विज तं शृणु](# "निदाघऋतुसंवादसद्वैतबुद्धये शृण्विति ख०, ञ० च।")।  
+निदाघऋतुसंवादं वदामि द्विज तं शृणु[^278]।  
 ऋतुर्ब्रह्मसुतो ज्ञानी तच्छिष्योऽभूत् पुलस्त्यजः॥४५॥
+
+[^278]: "निदाघऋतुसंवादसद्वैतबुद्धये शृण्विति ख०, ञ० च।"
 
 निदाघः प्राप्तविद्योऽस्मान्नगरे वै पुरे स्थितः।  
 देविकायास्तटे तञ्च तर्कयामास वै ऋतुः॥४६॥
@@ -12769,13 +13325,19 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 न मे क्षुदभवन्तृप्तिं कस्मात्त्वं परिपृच्छसि॥४८॥
 
 क्षुत्तृष्णे देहधर्म्माख्ये न ममैते यतो द्विज।  
-[पृष्टोहं यत्त्वया ब्रूयां](# "ततः क्षुत्सम्भवाभावादिति ख०, ञ० च।")तृप्तिरस्त्येव मे सदा॥४९॥
+पृष्टोहं यत्त्वया ब्रूयां[^279]तृप्तिरस्त्येव मे सदा॥४९॥
+
+[^279]: "ततः क्षुत्सम्भवाभावादिति ख०, ञ० च।"
 
 पुमान् सर्वगतो व्यापीआकाशवदयं यतः।  
-[अतोऽहं प्रत्यगात्मास्मीत्येतदर्थेभवेत् कथं](# "कुतः कुत्र क्व मन्तासीत्येतदयर्थवत् कथमिति ख०, ञ० च।")॥५०॥
+अतोऽहं प्रत्यगात्मास्मीत्येतदर्थेभवेत् कथं[^280]॥५०॥
 
-[सोऽहं गन्ता](# "भोक्तेति क०।")न चागन्ता नैकदेशनिकेतनः।  
+[^280]: "कुतः कुत्र क्व मन्तासीत्येतदयर्थवत् कथमिति ख०, ञ० च।"
+
+सोऽहं गन्ता[^281]न चागन्ता नैकदेशनिकेतनः।  
 त्वं चान्यो न भवेन्नापि नान्यस्त्वत्तोऽस्मि वा प्यहं॥५१॥
+
+[^281]: "भोक्तेति क०।"
 
 
 
@@ -12787,8 +13349,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **जन्मवृद्ध्यादिरहित आत्मा सर्वगतोऽव्ययः।  
 परं ज्ञानमयोऽसङ्गी गुणजात्यादिभिर्विमुः॥४४॥**
 
-**[निदाघऋतुसंवादं वदामि द्विज तं शृणु](# " निदाघश्चतुसंवादमद्वैतबुद्धये शृण्विति ख०, ञ० च।")।  
+**निदाघऋतुसंवादं वदामि द्विज तं शृणु[^282]।  
 ऋतुर्ब्रह्मसुतो ज्ञानी तच्छिष्योऽभूत् पुलस्त्यजः॥४५॥**
+
+[^282]: " निदाघश्चतुसंवादमद्वैतबुद्धये शृण्विति ख०, ञ० च।"
 
 **निदाघः प्राप्तविद्योऽस्मान्नगरे वै पुरे स्थितः।  
 देविकायास्तटे तञ्च तर्कयामास वै ऋतुः॥४६॥**
@@ -12803,13 +13367,19 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 न मे क्षुदभवन्तृप्ति कस्मात्त्वं परिपृच्छसि॥४८॥**
 
 **क्षुत्तृष्णे देहधर्माख्ये न ममैते यतो द्विज।  
-[पृष्टहं यत्त्वया ब्रूयां](# "ततः क्षुत्सम्भवाभावादिति ख०, ञ० च।")तृप्तिरस्त्येव मे सदा॥४९॥**
+पृष्टहं यत्त्वया ब्रूयां[^279]तृप्तिरस्त्येव मे सदा॥४९॥**
+
+[^279]: "ततः क्षुत्सम्भवाभावादिति ख०, ञ० च।"
 
 **पुमान् सर्वगतो व्यापीआकाशवदयं यतः।  
-[अतोऽहं प्रत्यगात्मास्मीत्येतदर्थं भवेत् कथं](# "कुतः कुत्र क्व मन्तासीत्येतदप्यर्थवत् कथमिति ख०, ञ० च।")॥५०॥**
+अतोऽहं प्रत्यगात्मास्मीत्येतदर्थं भवेत् कथं[^284]॥५०॥**
 
-**[सोऽहं गन्ता](# "भोक्तेति क०।")न चागन्ता नैकदेशनिकेतनः।  
+[^284]: "कुतः कुत्र क्व मन्तासीत्येतदप्यर्थवत् कथमिति ख०, ञ० च।"
+
+**सोऽहं गन्ता[^281]न चागन्ता नैकदेशनिकेतनः।  
 त्वं चान्यो न भवेन्नापि नान्यस्त्वत्तोऽस्मि वा प्यहं॥५१॥**
+
+[^281]: "भोक्तेति क०।"
 
 
 
@@ -12830,8 +13400,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अग्निरुवाच।
 
-मुक्ति ह्यवाप भवतो [ज्ञानसारेण भूपति](# "ज्ञानात् सौवीरभूपतिरिति ख०, ञ० च।")ः।  
+मुक्ति ह्यवाप भवतो ज्ञानसारेण भूपति[^286]ः।  
 संसाराज्ञानवृक्षारिज्ञानं ब्रह्मेति चिन्तय॥६६॥
+
+[^286]: "ज्ञानात् सौवीरभूपतिरिति ख०, ञ० च।"
 
 **इत्याग्नेये महापुराणे अद्वैत ब्रह्मविज्ञानं नामोनाशीत्यधिक-  
 त्रिंशततमोऽध्यायः॥**  
@@ -12846,7 +13418,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 अग्निरुवाच।
 
 गीतासारं प्रवक्ष्यामि सर्वगीतोत्तमोत्तमं।  
-कृष्णोऽर्जुनाय यमाह [पुरा वैभुक्तिमुक्तिदं](# "पठतां मुक्तिमुक्तिदमिति ख० ।")॥१॥
+कृष्णोऽर्जुनाय यमाह पुरा वैभुक्तिमुक्तिदं[^287]॥१॥
+
+[^287]: "पठतां मुक्तिमुक्तिदमिति ख० ।"
 
 श्रीभगवानुवाच।
 
@@ -12906,8 +13480,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 ओमित्येकाक्षरं ब्रह्मवदन् देहं त्यजन्तथा।  
 ब्रह्मादिस्तम्भपर्यन्ताः सर्वेमम विभूतयः॥१८॥
 
-श्रीमन्तश्चोर्जिताः सर्वे [ममांशा](# "ममाङ्गा इति ख० ।")ः प्राणिनः स्मृताः।  
+श्रीमन्तश्चोर्जिताः सर्वे ममांशा[^288]ः प्राणिनः स्मृताः।  
 अहमेको विश्वरूप इति ज्ञात्वा विमुच्यते॥१९॥
+
+[^288]: "ममाङ्गा इति ख० ।"
 
 क्षेत्रंशरीरं यो वेत्ति क्षेत्रज्ञः स प्रकीर्तितः।  
 क्षेत्रक्षेत्रज्ञयोर्ज्ञानं यत्तज्ज्ञानं मतं मम॥२०॥
@@ -13004,7 +13580,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 यज्ञदानादिकं कर्म्म भुक्तिमुक्तिप्रदं नृणां॥४८॥**
 
 **अनिष्टमिष्टं मिश्रञ्च त्रिविधं कर्मणः फलं।  
-[भवत्यत्यागिनां](# "भवत्ययोगिनामिति ख०।")प्रेत्य न तु सवासिनां क्वचित्॥४९॥**
+भवत्यत्यागिनां[^289]प्रेत्य न तु सवासिनां क्वचित्॥४९॥**
+
+[^289]: "भवत्ययोगिनामिति ख०।"
 
 **तामसः कर्मसंयोगात् मोहात्क्लेशभयादिकात्।  
 राजमः सात्विकऽकामात् पञ्चैते कर्महेतवः॥५०॥**
@@ -13440,7 +14018,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 तथा ते कथयिष्यामि भरद्वाज निबोध मे॥१॥**
 
 **नारायणाख्यो भगवान् ब्रह्मा लोकपितामहः।  
-उत्पन्नः प्रोह्यते [प्रियप्रियामरोपचारतः](# "पाठोऽयं आदर्शाक्षरविलोपेन शोधयितुमशक्यः।")॥२॥**
+उत्पन्नः प्रोह्यते प्रियप्रियामरोपचारतः[^290]॥२॥**
+
+[^290]: "पाठोऽयं आदर्शाक्षरविलोपेन शोधयितुमशक्यः।"
 
 
 
@@ -13490,7 +14070,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 चतुर्युगानां सङ्ख्याता साह्येकान्तेकसप्तती॥१६॥**
 
 **मन्वन्तरं मनोः कालः शक्रादीनामपि द्विज।  
-[अष्ठौ शतसहस्राणि दिव्यया सङ्ख्यया सूत](# "पाठोऽयं न साधुः।")॥१७॥**
+अष्ठौ शतसहस्राणि दिव्यया सङ्ख्यया सूत[^291]॥१७॥**
+
+[^291]: "पाठोऽयं न साधुः।"
 
 **एकपञ्चाशत्तथान्यानि सप्त चान्यानि वै मुने।  
 विंशतिञ्च सहस्राणि कालोयं साधिकः स्मृतः॥१८॥**
@@ -13572,8 +14154,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 नारायणः परेणार्च्यःपूर्व्वेषामपि पूर्वजः।  
 ब्रह्मस्वरूपो भगवान् अनादिः सर्वसम्भवः॥१२॥
 
-[इमञ्चे देहवन्तोहा](# "आदर्शाक्षरविलोपात् पाठोऽयं शोधयितुमशक्यः।")श्लोकं नारायणं प्रति।  
+इमञ्चे देहवन्तोहा[^292]श्लोकं नारायणं प्रति।  
 ब्रह्मस्वरूपिनं देवं जगतः प्रभवाव्ययं॥१३॥
+
+[^292]: "आदर्शाक्षरविलोपात् पाठोऽयं शोधयितुमशक्यः।"
 
 आपो नारा इति प्रोक्ता आपो वै नरसूनवः।  
 अयनं तस्य तत् पूर्वं तेन नारायणः स्मृतः॥१४॥
@@ -13581,8 +14165,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सृष्टिं चिन्तयतस्तस्य कल्पादिषु यथा पुरा।  
 अवृद्धिपूर्वकन्तस्य प्रादुर्भूतमहोमयः॥१५॥
 
-[तमो मोहो महामोहस्तामिखाद्यजसंज्ञकः](# "पाठोऽयं न साधुः । ")।  
+तमो मोहो महामोहस्तामिखाद्यजसंज्ञकः[^293]।  
 अविद्याः पञ्च पूर्वेषां प्रादुर्भूता महात्मनः॥१६॥
+
+[^293]: "पाठोऽयं न साधुः । "
 
 
 
@@ -13736,7 +14322,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पिशाचान् कश्मलांश्चैवसिंहोष्ट्रैकराननान्॥१२॥
 
 वेतालप्रमुखानन्यानन्यांश्चैव सहस्रशः।  
-[तेनसृष्टास्तु कैलासे ब्रह्मभूतास्थितनह](# "पाठोऽयं न साधुः ।")॥१४॥
+तेनसृष्टास्तु कैलासे ब्रह्मभूतास्थितनह[^294]॥१४॥
+
+[^294]: "पाठोऽयं न साधुः ।"
 
 विनायकानां रुद्राणां त्रिंशत्कोट्यर्द्धमेव च।  
 तारकाख्यविनाशाय सृष्टवान्स्कन्दमेव च॥१५॥
@@ -13814,7 +14402,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 जातास्तत्पुत्रपौत्राश्च शतशोऽथ सहस्रशः॥३७॥**
 
 **उर्ज्जायाञ्च वसिष्ठस्य सप्ताजायन्त वै सुताः।  
-[राजा चोर्द्धवाहुश्च सरनश्चानघन्तिमे](# " पाठोऽयं चादर्श दोषेणापरिशुद्ध।")॥३८॥**
+राजा चोर्द्धवाहुश्च सरनश्चानघन्तिमे[^295]॥३८॥**
+
+[^295]: " पाठोऽयं चादर्श दोषेणापरिशुद्ध।"
 
 **सुरूपाः शुक्र इत्येते सर्वे सप्तर्षयोऽभवन्।  
 भृगोःख्यात्यां समुत्पन्ना लक्ष्मीर्विष्णुपरिग्रहा॥३९॥**
@@ -14059,16 +14649,22 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 दृष्ट्वा तन्व्यास्तु तद्रूपं तौ देवौविषयं गतौ॥३१॥
 
 तस्था हास्येन खास्येन स्मितेन ललितेन च।  
-[मृदुना वामनाचैव](# "पाठोऽयं न साधुः।") शीतलेन सुगन्धिना॥३२॥
+मृदुना वामनाचैव[^291] शीतलेन सुगन्धिना॥३२॥
+
+[^291]: "पाठोऽयं न साधुः।"
 
 मत्तभ्रमरगीतेन पुंस्कोकिलस्तेन च।  
 सुस्वरेण हि गीतेन उर्वश्या मधुरेण च।  
-[ईक्षितौच कटाक्षेण स्कन्दतुस्तावुभावपि](# "पाठोऽयं न समोचोतः।")॥३३॥
+ईक्षितौच कटाक्षेण स्कन्दतुस्तावुभावपि[^297]॥३३॥
+
+[^297]: "पाठोऽयं न समोचोतः।"
 
 वसिष्ठ मित्रावरुणात्मजोऽसि  
 तत्रोचुरागत्य हि विश्वदेवाः।  
 रेतस्त्रिभागं कमलेच वन्तौ  
-[वसिष्ठ सेवन्तु पितामहोजं](# "श्लोकोऽयं आदर्शदोषेण शोधयितुमशक्यः।")॥३४॥
+वसिष्ठ सेवन्तु पितामहोजं[^298]॥३४॥
+
+[^298]: "श्लोकोऽयं आदर्शदोषेण शोधयितुमशक्यः।"
 
 तत्त्रिधा पतितं रेतः कमलेऽथ स्थले जले।  
 कमलेऽथ वसिष्ठस्तु जातो हि मुनिसत्तम।  
@@ -14167,8 +14763,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 धर्म्मज्ञाधर्म्मनिरता पतिशुश्रूषणे रता।  
 तस्यां तस्य सुतो जातो मार्कण्डेयो महामतिः॥११॥
 
-भृगोः पौत्रो महाभागो [वमोत्वच](# "पाठोऽयं न परिशुद्धः।")महामतिः।  
+भृगोः पौत्रो महाभागो वमोत्वच[^299]महामतिः।  
 बुबुधे वल्लभो वालः पिता तत्र कृतक्रियः॥१२॥
+
+[^299]: "पाठोऽयं न परिशुद्धः।"
 
 तस्मिन् वै जातमात्रे तु आदेशीकश्चिदब्रवीत्।  
 वर्षे द्वादशमे पुत्रोमृत्त्व्यार्त्तश्चभविष्यति॥१३॥
@@ -14179,8 +14777,10 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 तथापि तत् पिता धीमान् यत्नात् कालक्रियां ततः।  
 चकार सर्वांमेधावी प्रहितोऽसौ गुरोर्गृहं॥१५॥
 
-[वेवमेवाद्यस्त्रास्ते](# "पाठोऽयं न साधुः।")गुरुशुश्रुषणोद्यतः।  
+वेवमेवाद्यस्त्रास्ते[^291]गुरुशुश्रुषणोद्यतः।  
 स्वीकृत्य वेदशास्त्राणि स पुण्यगृहमागतः॥१६॥
+
+[^291]: "पाठोऽयं न साधुः।"
 
 मातापित्रोर्नमस्कृत्य पादयोर्विनयान्वितः।  
 तस्थौ तत्र गृहे धौमान् मार्कण्डेयो महाद्युतिः॥१७॥
@@ -14272,3 +14872,318 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^300]: "पाठोऽयं न साधुः।"
+
+
+[^296]: "पाठोऽयं न साधुः।"
+
+
+[^285]: "भोक्तेति क०।"
+
+
+[^283]: "ततः क्षुत्सम्भवाभावादिति ख०, ञ० च।"

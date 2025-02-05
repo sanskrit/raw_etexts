@@ -78,9 +78,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQyNTQzMDgxMTY
 
 **INTRODUCTION.**
 
-**I. **[**THE SANSKRIT DRAMA.**](# "The first Section is the same as that prefixed to my ed.of the Ratnávali.")
+**I. ****THE SANSKRIT DRAMA.**[^1]
 
- We shall begin with a brief outline of the general structure and arrangement of the Sanskrit Drama, without a knowledge of which the technical remarks on the construction of the present play here, as well as those made in the Notes, will not be intelligible to the general [reader](# "The information given here has been mainly called from the Dasarûpaka. The minor particulars not noticed here will be found in my Sahityasârasamgraha (Nir. Ed.).").Poetry in Sanskrit, from its inherent nature, as apart from its intrinsic merit, is divided into two kinds— दृश्य ‘what is capable of being seen or exhibited’ and श्रव्य ‘what can only be heard or chanted’ The drama falls under the first division. Rúpaka' is the general term in Sanskrit for all dramatic compositions, which also comprises a subordinate class called *Uparúpaka*. The [Rúpaka,](# "3 अवस्थानुकृतिर्नाट्यं रूपं दृश्यतयोच्यते। रूपकं तत्समावेशाद्दशधैवरसाश्रयम्॥ D.–R. रूप्यतेऽभिनयैर्यत्र वस्तु तद्रूपकं विदुः। नाटकाद्यैर्दशविधम्— Natya is another and perhaps a wider term for the drama or the dramatic art, and is so called because it represents the different situations in (the scenes presented by) life. The sage Bharata is the founder of the science of music and dramaturgy and his work is styled the Natya Sastra. Natya is also called Rápa inasmuch as it has dris'yata or the capability of being seen, and Rûpaka inasmuch as its subjec–matter is represented by actors assuming particular characters.")³which has Rasa or Sentiment for its substratum, is divided into ten classes, viz., नाटकं सप्रकरणं भाणः प्रहसनं डिमः। व्यायोगसमवकरौ वीथ्यङ्केहामृगा इति॥. Of the Uparúpakas or Minor Dramas there are eighteen species, the most important of which are *Natikâs*, such as the Ratnâvalî, Viddhaśálabhañjikâ &c., *Trotakas* such as the Vikramorvasiya, &c.
+ We shall begin with a brief outline of the general structure and arrangement of the Sanskrit Drama, without a knowledge of which the technical remarks on the construction of the present play here, as well as those made in the Notes, will not be intelligible to the general reader[^2].").Poetry in Sanskrit, from its inherent nature, as apart from its intrinsic merit, is divided into two kinds— दृश्य ‘what is capable of being seen or exhibited’ and श्रव्य ‘what can only be heard or chanted’ The drama falls under the first division. Rúpaka' is the general term in Sanskrit for all dramatic compositions, which also comprises a subordinate class called *Uparúpaka*. The Rúpaka,[^3] life. The sage Bharata is the founder of the science of music and dramaturgy and his work is styled the Natya Sastra. Natya is also called Rápa inasmuch as it has dris'yata or the capability of being seen, and Rûpaka inasmuch as its subjec–matter is represented by actors assuming particular characters.")³which has Rasa or Sentiment for its substratum, is divided into ten classes, viz., नाटकं सप्रकरणं भाणः प्रहसनं डिमः। व्यायोगसमवकरौ वीथ्यङ्केहामृगा इति॥. Of the Uparúpakas or Minor Dramas there are eighteen species, the most important of which are *Natikâs*, such as the Ratnâvalî, Viddhaśálabhañjikâ &c., *Trotakas* such as the Vikramorvasiya, &c.
+
+[^1]: "The first Section is the same as that prefixed to my ed.of the Ratnávali."
+
+[^2]: "The information given here has been mainly called from the Dasarûpaka. The minor particulars not noticed here will be found in my Sahityasârasamgraha (Nir. Ed.
+
+[^3]: "3 अवस्थानुकृतिर्नाट्यं रूपं दृश्यतयोच्यते। रूपकं तत्समावेशाद्दशधैवरसाश्रयम्॥ D.–R. रूप्यतेऽभिनयैर्यत्र वस्तु तद्रूपकं विदुः। नाटकाद्यैर्दशविधम्— Natya is another and perhaps a wider term for the drama or the dramatic art, and is so called because it represents the different situations in (the scenes presented by
 
  Having thus disposed of the divisions into which the whole of the scenic art is capable of falling, we turn to the principle of division among the Rûpakas themselves, which is
 
@@ -90,13 +96,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQyNTQzMDgxMTY
 
 
 
-[threefold](# "वस्तु नेता रसस्तेषां भेदकः।.")— (1) वस्तु or the Plot of the play; (2) नेता or the Hero; and (3) रस or the Sentiment. These three are the essential constituents, nay, the very life-blood, of every dramaticpiece. Each of these we shall succicly deal with in its order.
+threefold[^4]— (1) वस्तु or the Plot of the play; (2) नेता or the Hero; and (3) रस or the Sentiment. These three are the essential constituents, nay, the very life-blood, of every dramaticpiece. Each of these we shall succicly deal with in its order.
+
+[^4]: "वस्तु नेता रसस्तेषां भेदकः।."
 
 ————
 
 1 **VASTU** OR **THE PLOT.**
 
- *Vastu* is primarily of two kinds: अधिकारिकाor 'principal' and प्रासंगिक or accessary.' The Principal is that which relates to the chief characters or the persons concerned with the essential interest of the piece, and pervades the whole arrangement. The Accessary is that which appears in furtherance of the main topic, and is concerned with characters other than the Hero or the Heroine. This latter is of two kinds, viz., *Pataka* and *Prakari*, Pataka or banner' is an episode by which the progress of the plot is illustrated, furthered or hindered (so as to give additional interest to it). It is of considerablelength and sometimes extends to the very end of a play. The Prakari is also an episodical incident—of limited duration and minor importance—one in which the principal characters take no part. Besides these two, there are three other elements requisite for the development of the plot. These are बीज or the seed, बिन्दु or the drop, and कार्य or the final issue. *[Bija](# "स्वल्पोद्दिष्टस्तु तद्धेतुर्बीजं विस्तार्यनकेधा।.")*is the circumstance leading to the ultimate end briefly stated, which, as the plot develops, bears multifarious results and which is, as it were, the seed of the plot *[Bindu](# "अवान्तरार्थविच्छेदे बिन्दुरच्छेदकारणम्।.")*is what cements a break in the plot caused by the introduction of some other incident. *Karya* is the final object of the plot which being attained the whole is finished.These five are technically called Arthaprakritis (अर्थप्रकृतयः).
+ *Vastu* is primarily of two kinds: अधिकारिकाor 'principal' and प्रासंगिक or accessary.' The Principal is that which relates to the chief characters or the persons concerned with the essential interest of the piece, and pervades the whole arrangement. The Accessary is that which appears in furtherance of the main topic, and is concerned with characters other than the Hero or the Heroine. This latter is of two kinds, viz., *Pataka* and *Prakari*, Pataka or banner' is an episode by which the progress of the plot is illustrated, furthered or hindered (so as to give additional interest to it). It is of considerablelength and sometimes extends to the very end of a play. The Prakari is also an episodical incident—of limited duration and minor importance—one in which the principal characters take no part. Besides these two, there are three other elements requisite for the development of the plot. These are बीज or the seed, बिन्दु or the drop, and कार्य or the final issue. *Bija[^5]*is the circumstance leading to the ultimate end briefly stated, which, as the plot develops, bears multifarious results and which is, as it were, the seed of the plot *Bindu[^6]*is what cements a break in the plot caused by the introduction of some other incident. *Karya* is the final object of the plot which being attained the whole is finished.These five are technically called Arthaprakritis (अर्थप्रकृतयः).
+
+[^5]: "स्वल्पोद्दिष्टस्तु तद्धेतुर्बीजं विस्तार्यनकेधा।."
+
+[^6]: "अवान्तरार्थविच्छेदे बिन्दुरच्छेदकारणम्।."
 
  The *Vastu*, which is thus divided into five classes, may again be divided into three classes according to the source of its derivation. It may be borrowed from history or tradition, or it may be fictitious, or mixed, i.e., partly drawn from history and partly the creation of the poet's fancy. A *Nataka* belongs to the first class, & *Prakarana* to the second.
 
@@ -106,11 +118,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQyNTQzMDgxMTY
 
 or setting on foot of the enterprise,(2) यत्न effort, (3) प्राप्त्याशा prospect of success, (4) नियताप्ति certain attainment through the removal of obstacles, and (5) फलागमobtainment of the desired object. While these five stages are in progress there must be some links to connect them with the principal and subordinate parts of the main action (the episodes and incidents). These are called the Samdhis or junctures. They are five in number, answering to the five *Arthaprakritis*, each of which they join with its corresponding stage, viz., मुख (Protasis or the opening juncture) प्रतिमुख(Epitasis).गर्भ (catastasis), अवमर्श (Peripeteia), and निर्वहण (Catastrophe), also called उपसंहृति or उपसंहार ). Thus *Mukhasamdhi* is the combination of the Bija and Arambha, i.e., wherein the seed is sown, so to speak, with all its *Rasas*. In the *Pratimukha* there is the means (*yatna*) to the chief end, as originally implied by the Bija in the Mukha which herein sprouts up. In the *Garbha* there is attainment and non-attainment of the desired end, implying a further sprouting up of the original Bija.There are impediments, but the main plot gains ground under resistance. The *Avamarshasamdhi* is that in which the seed attains a more luxuriant growth than in the Garbha, being accompanied by *Niyatapti* of the end, but whose final result is postponed further off by fresh impediments of various sorts, as in the Sàkuntala the King's forgetting Sak,after marriage owing to Durvásas' curse. The *Nirvahana* or consummation is the harmonious combination of all the aforesaid parts in the final catastrophe.
 
- The subject-matter, whether historical, fictitious, or mixed, is from its inherent nature capable of a twofold division. It is divided into (1) सूच्य—deserving to be suggested or implied only, as being of a dry and otherwise unfit character; and (2)दृश्यश्रव्य—fit to be represented and heard as being highly sentimental and pleasing. The suggestions or implications are made in five ways—विष्कम्भचूलिकाङ्कास्याङ्कावतारप्रवेशकैः।. (1) For *Vishkambha* see Notes, Act I. (2) *Chúlika* is the suggestion of some incident from behind the scenes (नेपथ्ये). (3) An [अङ्कास्य](# "अङ्कान्तपात्रैरङ्कास्यं छिन्नाङ्कस्यार्थसूचनात्।.")is one wherein is suggested by the actors at the time of their departure the connexion between the Act finished and the one to be commenced, which otherwise would look disconnected, as the speech of Kámandakî and others at the
+ The subject-matter, whether historical, fictitious, or mixed, is from its inherent nature capable of a twofold division. It is divided into (1) सूच्य—deserving to be suggested or implied only, as being of a dry and otherwise unfit character; and (2)दृश्यश्रव्य—fit to be represented and heard as being highly sentimental and pleasing. The suggestions or implications are made in five ways—विष्कम्भचूलिकाङ्कास्याङ्कावतारप्रवेशकैः।. (1) For *Vishkambha* see Notes, Act I. (2) *Chúlika* is the suggestion of some incident from behind the scenes (नेपथ्ये). (3) An अङ्कास्य[^7]is one wherein is suggested by the actors at the time of their departure the connexion between the Act finished and the one to be commenced, which otherwise would look disconnected, as the speech of Kámandakî and others at the
+
+[^7]: "अङ्कान्तपात्रैरङ्कास्यं छिन्नाङ्कस्यार्थसूचनात्।."
 
 
 
-end of the 3rd Act of the Mal.-Madh. (4)[अङ्कावतार](# "अङ्कावतारस्त्वङ्कान्ते पातोङ्कस्याविभागतः। The distinction, however, between an Ankâsya and an Ankâvatâra, is considered by some as merely imaginary. Viśvanâtha actually supplants the latter by Ankamukha which he defines as that where in one Act the substance of all the other Acts is suggested.")consists in implanting the seed of the subject-matter of an Act in the previous Act before it has drawn to its close, so that the Act following is a continuation of the one preceding; e.g., the sixth Act of the Sâk., the germ of which is cast at the end of the fifth Act; Mâlav.II. and Mâl.Mâd.II, are other instances. (5) For प्रवेशकsee notes Act IV.
+end of the 3rd Act of the Mal.-Madh. (4)अङ्कावतार[^8]consists in implanting the seed of the subject-matter of an Act in the previous Act before it has drawn to its close, so that the Act following is a continuation of the one preceding; e.g., the sixth Act of the Sâk., the germ of which is cast at the end of the fifth Act; Mâlav.II. and Mâl.Mâd.II, are other instances. (5) For प्रवेशकsee notes Act IV.
+
+[^8]: "अङ्कावतारस्त्वङ्कान्ते पातोङ्कस्याविभागतः। The distinction, however, between an Ankâsya and an Ankâvatâra, is considered by some as merely imaginary. Viśvanâtha actually supplants the latter by Ankamukha which he defines as that where in one Act the substance of all the other Acts is suggested."
 
  The subject–matter is further divided into three kinds— सर्वश्राव्यं or प्रकाशं, अश्राव्यं or स्वगतं and नियतश्राव्यम्. The last is of two kinds, जनान्तिक and अपवारितक (अपवार्य which is explained in the Notes). Independent of these divisions there is one called आकाशभाषित (आकाशे) or Speech from the void.
 
@@ -120,7 +136,9 @@ end of the 3rd Act of the Mal.-Madh. (4)[अङ्कावतार](# "अङ�
 
 **2 NETA OR THE HERO.**
 
- The Here is required to be modest, decorous, comely, munificent, civil, of sweet address, eloquent, sprung from a noble family, [&c.](# "नेता विनीतो मधुरस्त्यागी दक्षः प्रियंवदः। रक्तलोकः शुचिर्वामी रूढवंशः स्थिरो युवा॥ बुद्धयुत्साहस्मृतिप्रज्ञाकलामान समन्वितः। शूरो दृढश्व तेजस्वी शास्त्रचक्षुश्च धार्मिकः॥ भेदैश्चतुर्धा ललितशान्तोदात्तोद्धतरैयम्॥.")Heroes are mentioned to be of four kinds, viz., धीरोदात्त, धीरललित, धीरशान्त and धीरोद्धत. 'Dhiralalita, or Hero who is graceful and firm, is defined as निश्चिन्तो मृदुरनिशं कलापरोधीरललितः स्यात् (Sáh. D.III.23) i.e., one who is free from cares ever gentle and always given to the arts, like Vatsaraja. We are not concerned with the other three classes of Heroes
+ The Here is required to be modest, decorous, comely, munificent, civil, of sweet address, eloquent, sprung from a noble family, &c.[^9]Heroes are mentioned to be of four kinds, viz., धीरोदात्त, धीरललित, धीरशान्त and धीरोद्धत. 'Dhiralalita, or Hero who is graceful and firm, is defined as निश्चिन्तो मृदुरनिशं कलापरोधीरललितः स्यात् (Sáh. D.III.23) i.e., one who is free from cares ever gentle and always given to the arts, like Vatsaraja. We are not concerned with the other three classes of Heroes
+
+[^9]: "नेता विनीतो मधुरस्त्यागी दक्षः प्रियंवदः। रक्तलोकः शुचिर्वामी रूढवंशः स्थिरो युवा॥ बुद्धयुत्साहस्मृतिप्रज्ञाकलामान समन्वितः। शूरो दृढश्व तेजस्वी शास्त्रचक्षुश्च धार्मिकः॥ भेदैश्चतुर्धा ललितशान्तोदात्तोद्धतरैयम्॥."
 
 
 
@@ -128,7 +146,11 @@ here. Each of these Heroes may be of one or other of four sorts. He may be. द�
 
  Among the assistants of the Hero the principal is पीठमर्द, the hero of the Patâkâ or episode, clever in discourse, devoted to his master, and a little inferior to him in qualities. Next comes the Vidûshaka, his constant companion, whose business consists in the repartees of wit, in helping his friend in his love-intrigues, and thus assisting in the general *dénouement* of the play. The third, and of equal rank with the Vidûshaka, is Vita, who knows one art only and is thereby useful to the Hero. The Hero thus equipped may still take into his service ministers of state and ministers of religion, ascetics, allies &c., as well as eunuchs, mutes, barbarians (Yavanas) &c. Sometimes there may be a Rival-Hero called a who is avaricious, bold, impetuous, criminal and of evil conduct.
 
- The [Nâyikâ](# "स्वान्या साधारणस्त्रीति तद्गुणा नायिका त्रिधा।.") or the Heroine who must be possessed of qualities similar to those of the Hero is of three kinds. She may be the wife of the hero (स्वीया), as Sîta in the Uttar; or one belonging to another (अन्या or परकीया), or a common woman. (सामान्या or साधारणस्त्री) as Vasantasena in the Mrich. The परकीया may be a maiden (so called because she is in the power of her guardian) or the wife of another. But the latter must not be introduced as the Heroine in a [play](# "2 अन्यस्त्री कन्यकोढा च नान्योढाङ्गिरसे क्वचित्. “We may observe however, to the honour of Hindu drama, that the Parakiya or she who is the wife of another person, is never to be made the object of dramatic intrigue; a prohibition that would have sadly cooled the imagination, and curbed the wit, of Dryden and Congreve"). The maiden's love, however, better helps the rasa and is, therefore, the most favourite theme with many Sanskrit poets. Further divisions and subdivisions of the *Nâyika* are not introduced here, as they have very little to do with the construction of the drama. For her assistants the Heroine
+ The Nâyikâ[^10] or the Heroine who must be possessed of qualities similar to those of the Hero is of three kinds. She may be the wife of the hero (स्वीया), as Sîta in the Uttar; or one belonging to another (अन्या or परकीया), or a common woman. (सामान्या or साधारणस्त्री) as Vasantasena in the Mrich. The परकीया may be a maiden (so called because she is in the power of her guardian) or the wife of another. But the latter must not be introduced as the Heroine in a play[^11]. The maiden's love, however, better helps the rasa and is, therefore, the most favourite theme with many Sanskrit poets. Further divisions and subdivisions of the *Nâyika* are not introduced here, as they have very little to do with the construction of the drama. For her assistants the Heroine
+
+[^10]: "स्वान्या साधारणस्त्रीति तद्गुणा नायिका त्रिधा।."
+
+[^11]: "2 अन्यस्त्री कन्यकोढा च नान्योढाङ्गिरसे क्वचित्. “We may observe however, to the honour of Hindu drama, that the Parakiya or she who is the wife of another person, is never to be made the object of dramatic intrigue; a prohibition that would have sadly cooled the imagination, and curbed the wit, of Dryden and Congreve"
 
 
 
@@ -138,7 +160,11 @@ may have a सखी, दासी, धात्रेयी, प्रतिव
 
 **3 RASA OR SENTIMENT.**
 
- Rasa is that lasting impression of feeling produced to his overwhelming delight in a man of poetic susceptibility by the proper action of the *Vibhavas*, and *Anubhavas*, as well as the Sattvika bhâvas and the *[Vyabhicharibhavas](# "विभावैरनुभावैश्च सात्त्विकैर्व्यभिचारिभिः। आनीयमानः स्वाद्यत्वं स्थायी भावो रसः स्मृतः॥ सुखदुःखादिकैर्भावैर्भावस्तद्भावभावनम्। ज्ञायमानतया तत्र विभावो भावपोषकृत्॥ आलम्बनोद्दीपनत्वप्रभेदेन स च द्विधा। अनुभावो विकारस्तु भावसंसूचनात्मकः॥")*. Bhava (भाव)or 'feeling' is the complete pervasion of the heart by any emotion, whether of pleasure or of pain, arising from the object under sight. Vibhâva (विभाव) or an Excitant is that which being perceived nourishes the main sentiment. It is divided into (1) *Alambana*, that which is, as it were, the support or substratum of the Rasa—the person or thing with reference to whom or which a sentiment arises—such as the Hero or the Heroine, and (2) *Uddipana* or what excites or enhances (adds to the development of) the sentiment, such as the moon, the beauties of the vernal season, &c.; beauty, decorations, &c. of the principal characters, in the case of शृङ्गार. *Anubhava* or an Ensuant is the outward manifestation of the internal feeling through the eyes, face &c. The Sâttvika or natural bhavas are a subdivision of *Anubhava*, and are mentioned as eight in number—स्तम्भप्रलयरोमाञ्चाः स्वेदो वैवर्ण्यवपथू। अश्रुवैस्वर्यमित्यष्टौ।. The *Vyabhicharis* or the Accessaries are those bhavas which are not strictly confined to any Rasa, but appearing and disappearing, like waves in the ocean, they serve as feeders to the prevailing sentiment and strengthen it in different ways. *Sthayibhava* (स्थायिभाव) or the Permanent [Sentiment](# "विरुद्धैरविरुद्धैर्वा भाबैर्विच्छिद्यते न यः। आत्मभावं नयत्यन्यान्स स्थायी लवणाकरः॥")of a composition 'is one—the ocean melting all salt into water—which not being interrupted by any sentiment contrary or akin to its nature occurring at intervals, converts all of them into its own nature. Now a *Rasa* would prove contrary to another if the आश्रय or substratum of both were the same. But as अङ्गी (principal) and अङ्ग (subordinate) a रस may be mixed with one or more of others.
+ Rasa is that lasting impression of feeling produced to his overwhelming delight in a man of poetic susceptibility by the proper action of the *Vibhavas*, and *Anubhavas*, as well as the Sattvika bhâvas and the *Vyabhicharibhavas[^12]*. Bhava (भाव)or 'feeling' is the complete pervasion of the heart by any emotion, whether of pleasure or of pain, arising from the object under sight. Vibhâva (विभाव) or an Excitant is that which being perceived nourishes the main sentiment. It is divided into (1) *Alambana*, that which is, as it were, the support or substratum of the Rasa—the person or thing with reference to whom or which a sentiment arises—such as the Hero or the Heroine, and (2) *Uddipana* or what excites or enhances (adds to the development of) the sentiment, such as the moon, the beauties of the vernal season, &c.; beauty, decorations, &c. of the principal characters, in the case of शृङ्गार. *Anubhava* or an Ensuant is the outward manifestation of the internal feeling through the eyes, face &c. The Sâttvika or natural bhavas are a subdivision of *Anubhava*, and are mentioned as eight in number—स्तम्भप्रलयरोमाञ्चाः स्वेदो वैवर्ण्यवपथू। अश्रुवैस्वर्यमित्यष्टौ।. The *Vyabhicharis* or the Accessaries are those bhavas which are not strictly confined to any Rasa, but appearing and disappearing, like waves in the ocean, they serve as feeders to the prevailing sentiment and strengthen it in different ways. *Sthayibhava* (स्थायिभाव) or the Permanent Sentiment[^13]of a composition 'is one—the ocean melting all salt into water—which not being interrupted by any sentiment contrary or akin to its nature occurring at intervals, converts all of them into its own nature. Now a *Rasa* would prove contrary to another if the आश्रय or substratum of both were the same. But as अङ्गी (principal) and अङ्ग (subordinate) a रस may be mixed with one or more of others.
+
+[^12]: "विभावैरनुभावैश्च सात्त्विकैर्व्यभिचारिभिः। आनीयमानः स्वाद्यत्वं स्थायी भावो रसः स्मृतः॥ सुखदुःखादिकैर्भावैर्भावस्तद्भावभावनम्। ज्ञायमानतया तत्र विभावो भावपोषकृत्॥ आलम्बनोद्दीपनत्वप्रभेदेन स च द्विधा। अनुभावो विकारस्तु भावसंसूचनात्मकः॥"
+
+[^13]: "विरुद्धैरविरुद्धैर्वा भाबैर्विच्छिद्यते न यः। आत्मभावं नयत्यन्यान्स स्थायी लवणाकरः॥"
 
 
 
@@ -170,11 +196,15 @@ prayer, called the Bharatavakya, which is repeated by the principal personage, n
 
  Of the Uparûpakas we are concerned here with the Natikâ alone. We, therefore, give below its special features.
 
-  The Nátikâ:—This is defined by the Sahitya–Darpana as:―नाटिका क्लृप्तवृत्ता स्यात्स्त्रीप्राया चतुरङ्किका। प्रख्यातो धीरललितस्तत्र स्यान्नायको नृपः॥ स्यादन्तःपुरसंबद्धा संगीतव्यापृताथ वा। नवानुरागा कन्यात्र नायिका नृपवंशजा॥संप्रवर्तेत नेतास्यां देव्यास्त्रासेन शङ्कितः। देवी भवेत्पुनर्ज्येष्ठा प्रगल्भा नृपवंशजा॥ पदे पदे मानवती तद्वशः संगमो द्वयोः। वृत्तिः स्यात्कैशिकी स्वल्पविमर्शाः संधयः पुनः॥ The Nâțikâ should be based on an invented story, should consist of four Acts, and abound in female characters. Its Hero should be an illustrious king and of the *Dhiralalita* class. The Heroine should be a maiden of royal family [(or a celestial one)](# "नायिका तादृशीमुग्धा दिव्या चाथ मनोहरा। अन्तःपुरादिसम्बन्धादासन्ना श्रुतिदर्शनैः॥")newly touched with Love, and should be either connected with the inner apartment (as an attendant of the Queen), or engaged in musical performance. The Hero should proceed in his love affair cautiously from fear of the Queen. The Queen should be a grown up lady, bold, and also of royal family. She should display her indignation at every step, and the union of the lovers should depend on her consent. The Kaisikî, with all its four parts, must be the *Vritti* employed, and of the *Sandhis* the Vimarsha should be partially introduced. The Das.R., however, does not sanction this. It says the Sandhis may be as in a Nataka (कैशिक्यङ्गैश्र्च-
+  The Nátikâ:—This is defined by the Sahitya–Darpana as:―नाटिका क्लृप्तवृत्ता स्यात्स्त्रीप्राया चतुरङ्किका। प्रख्यातो धीरललितस्तत्र स्यान्नायको नृपः॥ स्यादन्तःपुरसंबद्धा संगीतव्यापृताथ वा। नवानुरागा कन्यात्र नायिका नृपवंशजा॥संप्रवर्तेत नेतास्यां देव्यास्त्रासेन शङ्कितः। देवी भवेत्पुनर्ज्येष्ठा प्रगल्भा नृपवंशजा॥ पदे पदे मानवती तद्वशः संगमो द्वयोः। वृत्तिः स्यात्कैशिकी स्वल्पविमर्शाः संधयः पुनः॥ The Nâțikâ should be based on an invented story, should consist of four Acts, and abound in female characters. Its Hero should be an illustrious king and of the *Dhiralalita* class. The Heroine should be a maiden of royal family (or a celestial one)[^14]newly touched with Love, and should be either connected with the inner apartment (as an attendant of the Queen), or engaged in musical performance. The Hero should proceed in his love affair cautiously from fear of the Queen. The Queen should be a grown up lady, bold, and also of royal family. She should display her indignation at every step, and the union of the lovers should depend on her consent. The Kaisikî, with all its four parts, must be the *Vritti* employed, and of the *Sandhis* the Vimarsha should be partially introduced. The Das.R., however, does not sanction this. It says the Sandhis may be as in a Nataka (कैशिक्यङ्गैश्र्च-
+
+[^14]: "नायिका तादृशीमुग्धा दिव्या चाथ मनोहरा। अन्तःपुरादिसम्बन्धादासन्ना श्रुतिदर्शनैः॥"
 
 
 
-तुर्भिश्च युक्ताङ्कैरिव नाटिका।) The principal Rasa should be [Sringara.](# "2 शृङ्गारोऽङ्गी सलक्षणः।")It should be named after the Heroine according to the precept नाटिका सट्टकादीनां नायिकाभिर्विशेषणम्।
+तुर्भिश्च युक्ताङ्कैरिव नाटिका।) The principal Rasa should be Sringara.[^15]It should be named after the Heroine according to the precept नाटिका सट्टकादीनां नायिकाभिर्विशेषणम्।
+
+[^15]: "2 शृङ्गारोऽङ्गी सलक्षणः।"
 
  The points of difference between a Nataka and a Náțiká are:—(1) The plot of a nataka should be well–known, i. e. derived in its main features from history, while that of a Nâtikâ should be mainly invented. (2) In the former the Hero is Dhîrodâtta, while in the latter he is Dhiralalita. (3) While a Nátaka should have many males engaged in important affairs, the Nâtiká should have many females. (4) The former should have one principal sentiment, which may be either शृङ्कार or वीर, or करुण, while the latter should have शृङ्गार only. (5) A Nátaka may consist of five, seven, or even ten Acts; a Natîkâ of four only.
 
@@ -225,7 +255,9 @@ assumed the title of Mahārajādhirája. For the next thirtyfive years Harsha de
 
 
 
-Ratnávali, quotes the 24th verse of the 1st Act and praises it as a work of great [merit](# "आश्लिष्टसन्धिबधं सत्पात्रसुवर्णयोजितं सुतराम्। निपुणपरीक्षकदृष्टं राजति रत्नावलीरत्नम्॥").Now this Damodar Gupta lived under Jayapîda of Kashmir (A.D. 779-813). The play of Ratnávali seems to have been widely known at this time, that is, the eighth century. It is impossible, therefore, that a king who lived in the 10th century could have written a play which had become fairly old and attained celebrity in the 8th century. This argument can be advanced with equal strength against the authorship of Harsha-Deva, king of Kashmir.
+Ratnávali, quotes the 24th verse of the 1st Act and praises it as a work of great merit[^16].Now this Damodar Gupta lived under Jayapîda of Kashmir (A.D. 779-813). The play of Ratnávali seems to have been widely known at this time, that is, the eighth century. It is impossible, therefore, that a king who lived in the 10th century could have written a play which had become fairly old and attained celebrity in the 8th century. This argument can be advanced with equal strength against the authorship of Harsha-Deva, king of Kashmir.
+
+[^16]: "आश्लिष्टसन्धिबधं सत्पात्रसुवर्णयोजितं सुतराम्। निपुणपरीक्षकदृष्टं राजति रत्नावलीरत्नम्॥"
 
  (3) Vikramaditya Harsha of Ujjain cannot be the same as Shri-Harsha, the author of the three plays, because the latter is uniformly known as Harsha without the title Vikramaditya, If the author of the plays had possessed the title he would surely not have neglected to assume it. Besides Harsha Vikramaditya was an orthodox Brahmana, while the author of the three plays shows a strong Buddhistic leaning in the Nāgānanda,
 
@@ -329,7 +361,9 @@ the hermitage of the sage Ja'madagnya. There she gave birth to her son, Udayana,
 ददौ बन्धुमतीं राज्ञे पेशलं हि सतीमनः॥**
 
 **ततस्तं बन्धनाद्देवी सा मुमोच वसन्तकम्।  
-[स चागत्याग्रतो राज्ञीं हसन्निव जगाद ताम्](# "*The King in the passage is Udayana, the sovereign of the Vatsas,the Queen is his consort Vasavadatta, Gopalaka is her brother, and Vasantaka is the King's merry companion.")॥**
+स चागत्याग्रतो राज्ञीं हसन्निव जगाद ताम्[^17]॥**
+
+[^17]: "*The King in the passage is Udayana, the sovereign of the Vatsas,the Queen is his consort Vasavadatta, Gopalaka is her brother, and Vasantaka is the King's merry companion."
 
 **(Kathásaritságara II. 6. 67-73.)**
 
@@ -571,9 +605,15 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 ![](../books_images/U-IMG-1723919670SANSSKRIT.jpg)
 
 **धूमव्याकुलदृष्टिरिन्दुकिरणैराह्लादिताक्षी पुनः  
- [पश्यन्ती](# " पश्यन्तीव समु०.") वरमुत्सुका[नतमुखी](# " नतमुखी.") [भूयो](# " भूयोह्रिया.") ह्रिया ब्रह्मणः॥  
+ पश्यन्ती[^18] वरमुत्सुकानतमुखी[^19] भूयो[^20] ह्रिया ब्रह्मणः॥  
 सेर्ष्या पादनखेन्दुदर्पणगते गङ्गां दधाने हरे  
  स्पर्शादुत्पुलका करग्रहविधौ गौरी शिवायास्तु वः॥१॥**
+
+[^18]: " पश्यन्तीव समु०."
+
+[^19]: " नतमुखी."
+
+[^20]: " भूयोह्रिया."
 
  अपि च।
 
@@ -592,7 +632,9 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 
 **पादावष्टम्भसीदद्वपुषि दशमुखे याति पातालमूलं**  
-**क्रुद्धोऽप्याश्लिष्टमूर्तिर्भयघनमुमया पातु [तुष्टः](# " हृटः") शिवो नः॥२॥**
+**क्रुद्धोऽप्याश्लिष्टमूर्तिर्भयघनमुमया पातु तुष्टः[^21] शिवो नः॥२॥**
+
+[^21]: " हृटः"
 
 **( नान्द्यन्ते )**
 
@@ -606,14 +648,30 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 
 
-नाटिका कृतेत्यस्माभिः श्रोत्रपरंपरया [श्रुतम्](# "श्रुता.")। न तु [प्र](# "न प्रयो.")योगतो दृष्टा। तत्तस्यैव राज्ञः सर्वजनहृदयाह्लादिनो बहुमानादस्मासु चानुग्रहबुद्ध[या](# "बुद्धया वा.")यथावत्प्रयोगेण त्वया नाटयितव्येति। तद्यावन्नेपथ्यरचनां कृत्वा यथाभिलषितं संपादयामि। (परितोऽवलोक्य।) आवर्जितानि सामा[जिकम](# " सामाजिकान")नां सीति मे [निश्चयः](# "निश्चयः कृतः")। कुतः।
+नाटिका कृतेत्यस्माभिः श्रोत्रपरंपरया श्रुतम्[^22]। न तु प्र[^23]योगतो दृष्टा। तत्तस्यैव राज्ञः सर्वजनहृदयाह्लादिनो बहुमानादस्मासु चानुग्रहबुद्धया[^24]यथावत्प्रयोगेण त्वया नाटयितव्येति। तद्यावन्नेपथ्यरचनां कृत्वा यथाभिलषितं संपादयामि। (परितोऽवलोक्य।) आवर्जितानि सामाजिकम[^25]नां सीति मे निश्चयः[^26]। कुतः।
+
+[^22]: "श्रुता."
+
+[^23]: "न प्रयो."
+
+[^24]: "बुद्धया वा."
+
+[^25]: " सामाजिकान"
+
+[^26]: "निश्चयः कृतः"
 
 **श्रीहर्षो निपुणः कविः परिषदप्येषा गुणग्राहिणी  
 लोके हारि च वत्सराजचरितं नाट्ये च दक्षा वयम्।  
 वस्त्वेकैकमपीह वाञ्छितफलप्राप्तेः पदं किं पुन-  
 र्मद्भाग्योपचयादयं समुदितः सर्वो गुणानां गणः॥३॥**
 
-(नेपथ्याभिमुखमवलोक्य।) अये। कथं प्रस्तावनाभ्युद्यते मयि विदितास्मदभिप्रायोऽङ्गाधिपतेर्दृढवर्मणः [कञ्चुकिनो](# "आन्तः-पुरिककञ्चुकिभूमिकामादाय.") भूमिकां कृत्वा[स्मद्भातेत](# " आस्मत्तानः")एवाभिवर्तते। तद्यावदहम[प्यनन्त](# " अन्तरभू०, तदर्थभू..")रभूमिकां संपादयामि। (इति निष्क्रान्तः।)
+(नेपथ्याभिमुखमवलोक्य।) अये। कथं प्रस्तावनाभ्युद्यते मयि विदितास्मदभिप्रायोऽङ्गाधिपतेर्दृढवर्मणः कञ्चुकिनो[^27] भूमिकां कृत्वास्मद्भातेत[^28]एवाभिवर्तते। तद्यावदहमप्यनन्त[^29]रभूमिकां संपादयामि। (इति निष्क्रान्तः।)
+
+[^27]: "आन्तः-पुरिककञ्चुकिभूमिकामादाय."
+
+[^28]: " आस्मत्तानः"
+
+[^29]: " अन्तरभू०, तदर्थभू.."
 
 **इति प्रस्तावना।**
 
@@ -631,22 +689,52 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 ![](../books_images/U-IMG-1723612487Capture.JPG)  
 (ततः प्रविशति कञ्चुकी।)
 
- ******कञ्चुकी****—**([संशोकश्रमं](# "शोक०, सशोकं श्रमं.") नाटयन्। निःश्वस्य।) कष्टं भोः कष्टम्।
+ ******कञ्चुकी****—**(संशोकश्रमं[^30] नाटयन्। निःश्वस्य।) कष्टं भोः कष्टम्।
+
+[^30]: "शोक०, सशोकं श्रमं."
 
 **राज्ञो विपद्बन्धुवियोगदुःखं देशच्युतिर्दुर्गममार्गखेदः।**   
 **आस्वाद्यतेऽस्याः कटुनिष्फलायाः फलं मयैतच्चिरजीवितायाः॥४॥**
 
-([सशोकं](# "सशोकवि० ") सविस्मयं च।) तादृशस्यापि नामाप्रतिहतशक्तित्रयस्य रघुदिलीप[नलतु](# " नहुष")ल्यस्य देवस्य दृढवर्मणो [मत्प्र](# " मत्प्रार्थने")र्थ्यमानाप्यनेन स्वदुहिता वत्सरा[जाय](# "वत्सराजस्य")दत्तेति बद्धानुशयेन [वत्सराजो](# "राजोपि दृढबन्धने वर्तते") बन्धनान्न निवर्तत इति च लब्धरन्ध्रेण सहसागत्य कलिङ्गहतकेन विपत्तिरीदृशी क्रियत इति यत्सत्यमुपपन्नमपि न श्रद्दधे। कथमेकान्तनिष्ठुरमीदृशं च दैवमस्मासु। येन सापि राजपुत्री यथाकथंचिदेनां वत्सराजायोपनीय स्वामिनमनृणं करिष्यामीति मत्वा मया तादृशादपि प्रलयकालदारुणादवस्कन्दसंभ्रमादपवाह्य देवस्य दृढवर्मणो मित्रभा[वान्वि](# " न्विततया")तस्यैवाटविकस्य नृपतेर्विन्ध्यकेतोर्गृहे स्थापिता सती स्नानाय नातिदूरमित्यगस्त्यतीर्थं गते मयि क्षणात्कैरपि निपत्य हते विन्ध्यकेतौ रक्षोंभिरिव निर्मानुषीकृते दग्धे स्थाने [न](# " सापि न.") ज्ञायते कस्यामवस्थायां वर्तत इति। निपुणं च विचितमेतन्मया सर्वं स्थानम्। न च ज्ञातं किं तैरेव दस्युभिर्नी[ताथवा](# "अथवा किमिदेव")दग्धेति। तत्किं करोमि मन्दभाग्यः। (विचिन्त्य।) अये। [श्रुतं](# "एवं श्रुतं-") मया बन्धनात्परिभ्रष्टः प्रद्योततनयामपहृत्य वत्सराजः कौशाम्बीमागत इति।  
+(सशोकं[^31] सविस्मयं च।) तादृशस्यापि नामाप्रतिहतशक्तित्रयस्य रघुदिलीपनलतु[^32]ल्यस्य देवस्य दृढवर्मणो मत्प्र[^33]र्थ्यमानाप्यनेन स्वदुहिता वत्सराजाय[^34]दत्तेति बद्धानुशयेन वत्सराजो[^35] बन्धनान्न निवर्तत इति च लब्धरन्ध्रेण सहसागत्य कलिङ्गहतकेन विपत्तिरीदृशी क्रियत इति यत्सत्यमुपपन्नमपि न श्रद्दधे। कथमेकान्तनिष्ठुरमीदृशं च दैवमस्मासु। येन सापि राजपुत्री यथाकथंचिदेनां वत्सराजायोपनीय स्वामिनमनृणं करिष्यामीति मत्वा मया तादृशादपि प्रलयकालदारुणादवस्कन्दसंभ्रमादपवाह्य देवस्य दृढवर्मणो मित्रभावान्वि[^36]तस्यैवाटविकस्य नृपतेर्विन्ध्यकेतोर्गृहे स्थापिता सती स्नानाय नातिदूरमित्यगस्त्यतीर्थं गते मयि क्षणात्कैरपि निपत्य हते विन्ध्यकेतौ रक्षोंभिरिव निर्मानुषीकृते दग्धे स्थाने न[^37] ज्ञायते कस्यामवस्थायां वर्तत इति। निपुणं च विचितमेतन्मया सर्वं स्थानम्। न च ज्ञातं किं तैरेव दस्युभिर्नीताथवा[^38]दग्धेति। तत्किं करोमि मन्दभाग्यः। (विचिन्त्य।) अये। श्रुतं[^39] मया बन्धनात्परिभ्रष्टः प्रद्योततनयामपहृत्य वत्सराजः कौशाम्बीमागत इति।  
 ————————————————————————————————————
+
+[^31]: "सशोकवि० "
+
+[^32]: " नहुष"
+
+[^33]: " मत्प्रार्थने"
+
+[^34]: "वत्सराजस्य"
+
+[^35]: "राजोपि दृढबन्धने वर्तते"
+
+[^36]: " न्विततया"
+
+[^37]: " सापि न."
+
+[^38]: "अथवा किमिदेव"
+
+[^39]: "एवं श्रुतं-"
 
 तामन्तरेणापि कञ्चुकिप्रवेशसूचनात्। अतः प्ररोचनैवेयमिति बोध्यम्। **राज्ञ** इति। राज्ञः मत्स्वामिनो दृढवर्मणः विपत्। बन्धूनां वियोगस्तेन दुःखम्। देशात् च्युतिःप्रभ्रंशः। दुर्गमे दुस्संचरे मार्गे मार्गगमनेनेत्यर्थः। खेदः श्रमः। कटुः दुर्विपाका रूक्षा वा निष्कला च या चिरजीविता दीर्घायुस्त्वं तस्या एतत्फलं मया आस्वा द्यते॥ उपजातिर्वृत्तम्॥४॥ अप्रतिहतमकुण्ठितं शक्तित्रयं यस्य तस्य। प्रभुशक्तिः उत्साहशक्तिः मन्त्रशक्तिश्चेति शक्तित्रयम्। बद्धः अनुशयः दीर्घद्वेषो येन। अनृणमविद्यमानं ऋणं यस्य तथाविधम्। तदिच्छामनुवर्त्यत्यर्थः। अवस्कंदोभियोगस्तस्य संभ्रमात्संरम्भात्। अटव्यां भव आटविकस्तस्य। विचितमन्विष्टम्। दस्युभिश्चौरैः। प्रद्योतः उज्जयिनीनायकः महासेनः। मगधेश्वर इति कथासरित्सागरे। कौशाम्बीमात्मनो
 
 
 
-किं तत्रैव गच्छामि। (निःश्वस्यात्मनोऽवस्थां पश्यन्।) [किमिव](# " अहह राज ; किं कथ०. ")हि राजपुत्र्या विना तत्र गत्वा कथयिष्यामि। अये। कथितं चाद्य मम विन्ध्यकेतुना—"मा भैषीः। जीवति तत्रभवान्महाराजो दृढवर्मा [गाढ](# "परंतु गाढ0")प्रहारजर्जरीकृतो बद्धस्तिष्ठति। "इति। तदधुना स्वामिनमेव गत्वा [पाद](# "चर्यया")परिचर्यया जीवितशेषमात्मनः सफलयिष्यामि।(परिक्रम्योर्ध्वमवलोक्य।) अहो अतिदारुणता शरदातपस्य। यदेवमनेकदुःखसंतापितेनापि मया [तीक्ष्णो](# "एतत्तैक्ष्ण्यं")ऽवगम्यते।
+किं तत्रैव गच्छामि। (निःश्वस्यात्मनोऽवस्थां पश्यन्।) किमिव[^40]हि राजपुत्र्या विना तत्र गत्वा कथयिष्यामि। अये। कथितं चाद्य मम विन्ध्यकेतुना—"मा भैषीः। जीवति तत्रभवान्महाराजो दृढवर्मा गाढ[^41]प्रहारजर्जरीकृतो बद्धस्तिष्ठति। "इति। तदधुना स्वामिनमेव गत्वा पाद[^42]परिचर्यया जीवितशेषमात्मनः सफलयिष्यामि।(परिक्रम्योर्ध्वमवलोक्य।) अहो अतिदारुणता शरदातपस्य। यदेवमनेकदुःखसंतापितेनापि मया तीक्ष्णो[^43]ऽवगम्यते।
 
-**घनबन्धनमुक्तोऽयं कन्याग्रहणा[त्परं](# " परां") तुलां प्राप्य।  
+[^40]: " अहह राज ; किं कथ०. "
+
+[^41]: "परंतु गाढ0"
+
+[^42]: "चर्यया"
+
+[^43]: "एतत्तैक्ष्ण्यं"
+
+**घनबन्धनमुक्तोऽयं कन्याग्रहणात्परं[^44] तुलां प्राप्य।  
 रविरधिगतस्वधामा प्रतपति खलु वत्सराज इव॥५॥**
+
+[^44]: " परां"
 
 **(**इति निष्क्रान्तः**।)**  
 **इति विष्कम्भकः।**  
@@ -667,17 +755,33 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 
 
-**विदूषकः**—(सरोषम्।) भो वयस्य। कथं तमेव दास्याः [पुत्रं](# "सुतं ( सुदं ).") बंन्धनहतकं प्रशंससि। तदिदानीं [विस्मृतम्](# " ( तमिदानीं) विस्मर (विसुमेराह )")।यत्तथा नवग्रह इव [गजपतिः](# "यूथपतिः (जूहवई ).")खलखलायमानलोहशृङ्खलाबन्धप्रतिस्खलच्चरणः [शून्यमुख](# "शून्यदुष्करपिशुनयद्धृ० (सुण्णदुक्खर पिखणिज्जन्तहि०)")पुष्करपिशुनितद्धृदयसंतापो
-रोषवशोत्तम्भितदृष्टि[र्गुरु](# "ष्टिरधिगतधरणिपृष्ठः (अहिगदधरणिपिठो ).")ककरस्फोटितधरणिमार्गोरजनीष्वप्यनिद्रासुख[मनुभूतोसि](# " अनुवाचयसि ( अणुवाचेसि ); निद्रासुखं न प्राप्नोषि ( निद्दासुहं ण पावेसि ).")। (भो वअस्स। कहं तं एव्व दासीए उत्तं बन्धणहदअंपसंसेसि। तं दाणिं विसुमरिदं। जं तह णवग्गहो विअ गअवई खलखलाअमाणलोहसिङ्खलाबन्धपडिक्खलन्तचलणो सुण्णदुक्खरपिसुणिदहिअअसंदावो रोसवसुत्तम्भिददिठ्ठी गुरुअकरफोडिअधरणिमग्गो रअणीसु वि अणिद्दासुहं अणुहूदोसि।)
+**विदूषकः**—(सरोषम्।) भो वयस्य। कथं तमेव दास्याः पुत्रं[^45].") बंन्धनहतकं प्रशंससि। तदिदानीं विस्मृतम्[^46] विस्मर (विसुमेराह )")।यत्तथा नवग्रह इव गजपतिः[^47].")खलखलायमानलोहशृङ्खलाबन्धप्रतिस्खलच्चरणः शून्यमुख[^48]")पुष्करपिशुनितद्धृदयसंतापो
+रोषवशोत्तम्भितदृष्टिर्गुरु[^49].")ककरस्फोटितधरणिमार्गोरजनीष्वप्यनिद्रासुखमनुभूतोसि[^50]; निद्रासुखं न प्राप्नोषि ( निद्दासुहं ण पावेसि ).")। (भो वअस्स। कहं तं एव्व दासीए उत्तं बन्धणहदअंपसंसेसि। तं दाणिं विसुमरिदं। जं तह णवग्गहो विअ गअवई खलखलाअमाणलोहसिङ्खलाबन्धपडिक्खलन्तचलणो सुण्णदुक्खरपिसुणिदहिअअसंदावो रोसवसुत्तम्भिददिठ्ठी गुरुअकरफोडिअधरणिमग्गो रअणीसु वि अणिद्दासुहं अणुहूदोसि।)
+
+[^45]: "सुतं ( सुदं
+
+[^46]: " ( तमिदानीं
+
+[^47]: "यूथपतिः (जूहवई
+
+[^48]: "शून्यदुष्करपिशुनयद्धृ० (सुण्णदुक्खर पिखणिज्जन्तहि०
+
+[^49]: "ष्टिरधिगतधरणिपृष्ठः (अहिगदधरणिपिठो
+
+[^50]: " अनुवाचयसि ( अणुवाचेसि
 
 **राजा**—वसन्तक दुर्जनः खल्वसि। पश्य।
 
-**दृष्टं [चारक](# " छादकं. ")मन्धकारगहनं नो तन्मुखेन्दुयुतिः।  
+**दृष्टं चारक[^51]मन्धकारगहनं नो तन्मुखेन्दुयुतिः।  
 पीडा ते निगलस्वनेन मधुरास्तस्या गिरो न श्रुताः।  
 क्रूरा बन्धनरक्षिणोऽद्य मनसि स्निग्धाः कटाक्षा न ते  
 दोषान्पश्यसि बन्धनस्य न पुनः प्रद्योतपुत्र्या गुणान्॥७॥**
 
-**विदूषकः**—(सगर्वम्।) भोः। यदि [तावद्बन्धनं](# " निगडबन्धनं सुखबन्धनं (निअल० सुहब० )") सुखनिबन्धनं भवति।
+[^51]: " छादकं. "
+
+**विदूषकः**—(सगर्वम्।) भोः। यदि तावद्बन्धनं[^52]") सुखनिबन्धनं भवति।
+
+[^52]: " निगडबन्धनं सुखबन्धनं (निअल० सुहब०
 
 **—————————————————————————————————————————————**
 
@@ -685,9 +789,15 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 
 
-तत्कस्मात्त्वं दृढवमा बद्ध इति कलिङ्गराजस्योपरि रोषं [बध्नासि](# "उद्वहसि (उव्वहारी)")। (भो। जइ दाव बन्धणं सुहणिबन्धणं होइ ता कीस तुमं दिढवम्मा बद्धोत्ति कलिङ्गरण्णो उवरि रोसं बन्धेसि।)
+तत्कस्मात्त्वं दृढवमा बद्ध इति कलिङ्गराजस्योपरि रोषं बध्नासि[^53]")। (भो। जइ दाव बन्धणं सुहणिबन्धणं होइ ता कीस तुमं दिढवम्मा बद्धोत्ति कलिङ्गरण्णो उवरि रोसं बन्धेसि।)
 
-**राजा—**(विहस्य।) धिङ्मूर्ख। न खलु सर्वो वत्सराजो य एवं वासवदत्तामवाप्य बन्धनान्निर्यास्यति। तदास्तां तावदियं कथा। विन्ध्यकेतोरुपरि [बहून्यहानि](# " दिवसानि ") विजयसेनस्य प्रेषितस्य। न चाद्यापि तत्सकाशात्कश्चिदागतः। [तदाहूयतां](# " आह्वयताम०") तावदमात्यो रुमण्वान्। तेन सह किंचिदालपितुमिच्छामि।
+[^53]: "उद्वहसि (उव्वहारी
+
+**राजा—**(विहस्य।) धिङ्मूर्ख। न खलु सर्वो वत्सराजो य एवं वासवदत्तामवाप्य बन्धनान्निर्यास्यति। तदास्तां तावदियं कथा। विन्ध्यकेतोरुपरि बहून्यहानि[^54] विजयसेनस्य प्रेषितस्य। न चाद्यापि तत्सकाशात्कश्चिदागतः। तदाहूयतां[^55] तावदमात्यो रुमण्वान्। तेन सह किंचिदालपितुमिच्छामि।
+
+[^54]: " दिवसानि "
+
+[^55]: " आह्वयताम०"
 
 ( प्रविश्य।)
 
@@ -708,7 +818,9 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 **राजा**—(आसनं निर्दिश्य।) रुमण्वन्। इत आस्यताम्।
 
-**रुमण्वान्**—(सस्मितमुपविश्य।) एष खलु [जितविन्ध्यकेतुर्विजयसेनः](# "विन्ध्यकेतोर्विजेता,") प्रणमति।
+**रुमण्वान्**—(सस्मितमुपविश्य।) एष खलु जितविन्ध्यकेतुर्विजयसेनः[^56] प्रणमति।
+
+[^56]: "विन्ध्यकेतोर्विजेता,"
 
 (विजयसेनस्तथा करोति।)
 
@@ -716,7 +828,9 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 **विजयसेनः**—अद्य स्वामिनः प्रसादात्।
 
-**राजा**—विजयसेन [उपविश्यताम्](# "स्थीयताम्.")।
+**राजा**—विजयसेन उपविश्यताम्[^57]।
+
+[^57]: "स्थीयताम्."
 
 ————————————————————————————————————
 
@@ -736,18 +850,30 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 ** राजा****—** ततस्ततः।
 
-**विजयसेनः****—**ततः सोऽप्यस्मद्व[लतु](# " बलकलकला०. ")मुलकलकलाकर्णनेन प्रतिबुद्धः केसरीव विन्ध्यकन्दरान्निर्गत्य विन्ध्यकेतुरनपेक्षितबलवाहनो यथासंनिहितकतिपयसहायः सहसा[स्व](# " खमुद्धो०")नामोद्घोषयन्नस्मान[भि](# " अभियोक्तुं.")योद्धुं प्रवृत्तः।
+**विजयसेनः****—**ततः सोऽप्यस्मद्वलतु[^58]मुलकलकलाकर्णनेन प्रतिबुद्धः केसरीव विन्ध्यकन्दरान्निर्गत्य विन्ध्यकेतुरनपेक्षितबलवाहनो यथासंनिहितकतिपयसहायः सहसास्व[^59]नामोद्घोषयन्नस्मानभि[^60]योद्धुं प्रवृत्तः।
+
+[^58]: " बलकलकला०. "
+
+[^59]: " खमुद्धो०"
+
+[^60]: " अभियोक्तुं."
 
 **राजा—**(रुमण्वन्तमवलोक्य सस्मितम्।) शोभितं विन्ध्यकेतुना। ततस्ततः।
 
-**विजयसेनः—**ततोऽस्माभिरयमसाविति द्वि[गुण](# "द्विगुणबद्ध.")तरबद्धमत्सरोत्साहैर्महता विमर्देन निःशेषितसहाय एक एव विमर्दिताधिकवलक्रोधवेगो दारुणतरं संप्रहारमकरोत्।
+**विजयसेनः—**ततोऽस्माभिरयमसाविति द्विगुण[^61]तरबद्धमत्सरोत्साहैर्महता विमर्देन निःशेषितसहाय एक एव विमर्दिताधिकवलक्रोधवेगो दारुणतरं संप्रहारमकरोत्।
+
+[^61]: "द्विगुणबद्ध."
 
 **राजा****—**साधु विन्ध्यकेतो। साधु साधु।
 
 **विजयसेनः****—**किं वा वर्ण्यते देव। संक्षेपतो विज्ञापयामि।
 
-**पादातं पत्तिरेव प्रथमतरमुरःपे[षमा](# " क्षेप")त्रेण पिष्ट्वा**  
-**दू[रान्नी](# " दूर.")त्वा शरौघैर्हरिणकुलमिव त्रस्तमश्वीयमाशाः।**
+**पादातं पत्तिरेव प्रथमतरमुरःपेषमा[^62]त्रेण पिष्ट्वा**  
+**दूरान्नी[^63]त्वा शरौघैर्हरिणकुलमिव त्रस्तमश्वीयमाशाः।**
+
+[^62]: " क्षेप"
+
+[^63]: " दूर."
 
 **————————————————————————————————————**  
 यादृश इति अतिदारुण इत्यर्थः। पादाभ्यां शत्रोः पुरो युद्धार्थमतति यातीति पदातिः। तुमुलः रणसंकुलः। कन्दरात् गुहायाः। अनवेक्षितं बलं सेना वाहनानि करितुरगरथादीनि येन। यथा संनिहिताः कतिपये सहाया यस्य सः। शोभितं शोभनं कृतमित्यर्थः। भावे क्तः। अतिशयेन द्वौ गुणौ यस्मिन्स द्विगुणतरः। यस्मिन्कर्मणि तद्यथा तथा इति वा। तथा बद्धो मत्सर उत्साहश्च यैस्ते तथोक्ताः तैः। विमर्दः कदनं नाशो वा। विमर्दितेन स्वसहायानां विमर्दनेन अधिको वृद्धिं गतो बलस्य क्रोधस्य च वेगो यस्य स तथा। संप्रहारं युद्धम्। **पादातमिति**। स विन्ध्यकेतुः पत्तिः पदातिः एव सन् प्रथमतरमुरसा स्ववक्षसा यःपेषः मर्दनं तन्मात्रेण एव पादातं पदातिसमूहम्। 'भिक्षादिभ्योऽण्' इत्यण्। पिष्ट्वा संचूर्ण्य। शरौघैः शरसमूहैः त्रस्तं हरिणकुलमिव अश्वीयमस्मदश्वसमूहम्। 'केशाश्वाभ्यां यञ्छावन्यतरस्याम्' इति छः। दूराद्दूरमाशा दिशो नीत्वा। दूरं विद्राव्येत्यर्थः। सर्वत्र
@@ -758,24 +884,40 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 **पश्चात्कर्तुं प्रवृत्तः करिकरकदली काननच्छेदलीलाम्॥९॥**
 
 **एवं बलत्रितयमाकुलमेक एव**  
-**कुर्वन्कृपाणकि[रण](# " रुधिर.")च्छुरितांसकूटः।  
-शस्त्रप्रहारशत[जर्ज](# " झर्झरित.")रितोरुवक्षाः  
+**कुर्वन्कृपाणकिरण[^64]च्छुरितांसकूटः।  
+शस्त्रप्रहारशतजर्ज[^65]रितोरुवक्षाः  
 श्रान्तश्चिराद्विनिहतो युधि विन्ध्यकेतुः॥१०॥**
 
-** राजा**—रुमण्वन्। सत्पुरुषोचितं मार्गमनुगच्छतो यत्सत्यं व्रीडिता[एव](# "इव") वयं विन्ध्यकेतोर्मरणेन।
+[^64]: " रुधिर."
+
+[^65]: " झर्झरित."
+
+** राजा**—रुमण्वन्। सत्पुरुषोचितं मार्गमनुगच्छतो यत्सत्यं व्रीडिताएव[^66] वयं विन्ध्यकेतोर्मरणेन।
+
+[^66]: "इव"
 
 ** रुमण्वान्—**देव त्वद्विधानामेवं गुणैकपक्षपातिनां रिपोरपि गुणाः प्रीतिं जनयन्ति।
 
 ** राजा—**विजयसेन अप्यस्ति विन्ध्यकेतोरपत्यं यत्रास्य परितोषस्य फलं दर्शयामि।
 
-**विजयसेनः—**देव इदमपि विज्ञापयामि। एवं सबन्धुपरिवारे हते विन्ध्यकेतौ तमनुसृतासु सहधर्मचारिणीषु विन्ध्यशिखराश्रितेषु जनप[देषु](# " पदेषु विनष्टेषु") शून्यीभूते तत्स्थाने "हा तात हा [मातः](# "तात")" इति कृतकृपणप्रलापा विन्ध्यकेतोर्वेश्म[न्यभि](# " अभिजातरूपा.")जात्यानुरूपा कन्यका तद्दुहितेत्यस्माभिरानीता द्वारि तिष्ठति। तां प्रति देवः प्रमाणम्।  
+**विजयसेनः—**देव इदमपि विज्ञापयामि। एवं सबन्धुपरिवारे हते विन्ध्यकेतौ तमनुसृतासु सहधर्मचारिणीषु विन्ध्यशिखराश्रितेषु जनपदेषु[^67] शून्यीभूते तत्स्थाने "हा तात हा मातः[^68]" इति कृतकृपणप्रलापा विन्ध्यकेतोर्वेश्मन्यभि[^69]जात्यानुरूपा कन्यका तद्दुहितेत्यस्माभिरानीता द्वारि तिष्ठति। तां प्रति देवः प्रमाणम्।  
 ————————————————————————————————————  
 सर्वासु दिक्षु उत्सृष्टोः मुक्तः सर्वेषां प्रहरणानामायुधानां निवहः समूहो येन स तथोक्तः। तूर्णं शीघ्रं खड्गमुत्खाय कोशादाकृष्य। उत्पुर्वात्खनतेर्त्यप्। पश्चात्तदनन्तरं करिणां कराः शुण्डा एव कदल्यस्तासां काननं तस्य छेदस्य लीलां केलिम्। अनायासेन खण्डनमिति यावत्। कर्तुं प्रवृत्तः। स्रग्धरावृत्तम्। लक्षणमुक्तम्॥९॥  
 **** ******एवमिति**। एवमेक एव बलत्रितयं त्रिविधं करितुरगपदातिरूपं सैन्यमाकुलं व्याकुलं कुर्वन्। कृपाणस्य खड्गस्य किरणैः छुरितो रूषितः अंसकूटोंऽसशिखरदेशो यस्य स तथोक्तः। शस्त्राणां प्रहारशतेन जर्जरितं विभिन्नमुरु विशालं वक्षो यस्य स तादृशः। चिराच्छ्रान्तः विन्ध्यकेतुः युधि विनिहतः। उदात्तालंकारः। वसन्ततिलका छन्दः। उक्ता वसन्ततिलका तभजा जगौगः। इति तल्लक्षणम्॥१०॥ सत्पुरुषोचितांतदुक्तं**—**द्वाविमौ पुरुषौ लोके स्वर्गमण्डलभेदिनौ। परिव्राड् योगयुक्तश्च रणे चाभिमुखो हतः॥ इति। व्रीडिता लजां प्राप्ताः। एकस्य बहुभिर्घातादित्याशयः। बन्धवश्च परिवारश्च तैः सहितः सबन्धुपरिवारः तस्मिन्। सहधर्मचारिणीषु तत्पत्नीषु। कृतः कृपणः दीनः प्रलाप आर्तरवो यया सा। आभिजात्यं कुलीनता तस्यानुरूपा। देवः प्रमाणं
 
+[^67]: " पदेषु विनष्टेषु"
+
+[^68]: "तात"
+
+[^69]: " अभिजातरूपा."
 
 
-** राजा**—यशोधरे [गच्छ](# "गच्छ गच्छ")। त्वमेव वासवदत्तायाः समर्पय। वक्तव्या च देवी। भगिनीबुद्ध्या त्वयैव सर्वदा द्रष्टव्या। गीतनृत्तवाद्यादिषु विशिष्टकन्यकोचितं सर्वं शिक्षयितव्या। यदा वरयोग्या भविष्यति तदा [मां](# " अस्मान")स्मारयेति।
+
+** राजा**—यशोधरे गच्छ[^70]। त्वमेव वासवदत्तायाः समर्पय। वक्तव्या च देवी। भगिनीबुद्ध्या त्वयैव सर्वदा द्रष्टव्या। गीतनृत्तवाद्यादिषु विशिष्टकन्यकोचितं सर्वं शिक्षयितव्या। यदा वरयोग्या भविष्यति तदा मां[^71]स्मारयेति।
+
+[^70]: "गच्छ गच्छ"
+
+[^71]: " अस्मान"
 
 ** प्रतीहारी**—यद्देवआज्ञापयति। (जं देवो आणवेदि।) (इति निष्क्रान्ता।)
 
@@ -783,8 +925,10 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 **लीलामज्जनमङ्गलोपकरणस्नानीयसम्पादिनः  
 सर्वान्तःपुरवारविभ्रमवतीलोकस्य ते संप्रति।  
-आयासस्खलदंशु[काव्य](# "कव्यव०")वहितच्छायावदातैः स्तनै-  
+आयासस्खलदंशुकाव्य[^72]वहितच्छायावदातैः स्तनै-  
 रुत्क्षिप्तापरशातकुम्भकलशेवालंकृता स्नानभूः॥११॥**
+
+[^72]: "कव्यव०"
 
 ** राजा**—( ऊर्ध्वमवलोक्य।) अये कथं नभोमध्यमध्यास्ते भगवान्सहस्रदीधितिः। संप्रति हि।
 
@@ -801,7 +945,9 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 **छायाचक्रं तरूणां हरिणशिशुरूपैत्यालवालाम्बुलुब्धः  
 सद्यस्त्यक्त्वा कपोलं विशति मधुकरः कर्णपालीं गजस्य॥१२॥**
 
-रुमण्वन्। उत्तिष्ठोत्तिष्ठ। प्रविश्याभ्यन्तरमेव कृतयथोचितक्रियाः सत्कृत्य विजयसेनं [कलिङ्गो](# " ङ्गहतकोच्छि०")च्छित्तये प्रेषयामः।
+रुमण्वन्। उत्तिष्ठोत्तिष्ठ। प्रविश्याभ्यन्तरमेव कृतयथोचितक्रियाः सत्कृत्य विजयसेनं कलिङ्गो[^73]च्छित्तये प्रेषयामः।
+
+[^73]: " ङ्गहतकोच्छि०"
 
 ( इति निष्क्रान्ताः सर्वे । )
 
@@ -815,7 +961,11 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 ( ततः प्रविशति विदूषकः । )
 
- **विदूषकः**—ननु भणितोऽस्मीन्दीवरिकया यथा-आर्य उपवासनियमस्थिता देवी वासवदत्ता स्वस्तिवाचननिमित्तं [शब्दायेतेति](# "शब्दापयेत्")। तद्यावद्धारागृहोद्यानदीर्घिकायां स्नात्वा देवीपार्श्वं गत्वा कुक्कुटवादं करिष्यामि। अन्यथा कथमस्माभिः सदृशा ब्राह्मणा राजकुले प्रतिग्रहं कुर्वन्ति। (नेपथ्याभिमुखमवलोक्य) कथमेष प्रियवयस्योऽद्य देव्या विरहोत्कण्ठाविनोदननिमित्तं धारागृहोद्यानमेव प्रस्थितः। तद्यावद्वयस्येन सहैव गत्वा यथोदित[मनुष्ठास्यामि](# " यथोद्दिष्टं (जहोद्दिठ्ठं.)")। (णं भणिदोह्मिइन्दीवरिआए जह अज्ज उववासणिअमट्ठिआदेवी वासवदत्ता सोत्थिवाअणणिमित्तं सद्दावेदित्ति। ता जाव धाराघरुनाणदिग्धिआए ण्हाइअ देवीपासं गदुअ कुक्कुटवादं करिस्सं। अण्णहा कहं अह्माणं सरिसा ब्रह्मणा राअकुले पडिग्गहं करेन्ति। कहं एसो पिअवअस्सो अज्ज देवीए विरहुक्कण्ठविणोदणाणिमित्तं धाराघरुज्ञाणं एव्व पत्थिदो। ता जाव वअस्सेण सह एव्व गदुअ जहोदिदं अणुचिस्सिं।)
+ **विदूषकः**—ननु भणितोऽस्मीन्दीवरिकया यथा-आर्य उपवासनियमस्थिता देवी वासवदत्ता स्वस्तिवाचननिमित्तं शब्दायेतेति[^74]। तद्यावद्धारागृहोद्यानदीर्घिकायां स्नात्वा देवीपार्श्वं गत्वा कुक्कुटवादं करिष्यामि। अन्यथा कथमस्माभिः सदृशा ब्राह्मणा राजकुले प्रतिग्रहं कुर्वन्ति। (नेपथ्याभिमुखमवलोक्य) कथमेष प्रियवयस्योऽद्य देव्या विरहोत्कण्ठाविनोदननिमित्तं धारागृहोद्यानमेव प्रस्थितः। तद्यावद्वयस्येन सहैव गत्वा यथोदितमनुष्ठास्यामि[^75]")। (णं भणिदोह्मिइन्दीवरिआए जह अज्ज उववासणिअमट्ठिआदेवी वासवदत्ता सोत्थिवाअणणिमित्तं सद्दावेदित्ति। ता जाव धाराघरुनाणदिग्धिआए ण्हाइअ देवीपासं गदुअ कुक्कुटवादं करिस्सं। अण्णहा कहं अह्माणं सरिसा ब्रह्मणा राअकुले पडिग्गहं करेन्ति। कहं एसो पिअवअस्सो अज्ज देवीए विरहुक्कण्ठविणोदणाणिमित्तं धाराघरुज्ञाणं एव्व पत्थिदो। ता जाव वअस्सेण सह एव्व गदुअ जहोदिदं अणुचिस्सिं।)
+
+[^74]: "शब्दापयेत्"
+
+[^75]: " यथोद्दिष्टं (जहोद्दिठ्ठं.
 
 ————————————————————————————————————  
 छत्राभमातपत्रवत् तनोति विस्तारयति। हरिणशिशुः आ समन्तात् ल्वान् जलल्वान् आलातीत्यालवालम्। तस्मिन् यदम्बु तत्र लुब्धः सन् तरूणां छायाचक्रमुपैति। मधुकरश्च गजस्य कपोलं सद्यः त्यक्त्वा कर्णपाली श्रोत्रपुटं विशति। छायार्थमित्यर्थः स्वभावोक्तिः। खग्धरा वृत्तम्॥१२॥  
@@ -828,10 +978,14 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 ** राजा—**
 
-**क्षामां मङ्गलमात्रमण्डनभृतं [मन्दोद्यमा](# " मन्दोद्यता० ")लापिनी-  
+**क्षामां मङ्गलमात्रमण्डनभृतं मन्दोद्यमा[^76]लापिनी-  
 मापाण्डुच्छविना मुखेन विजितप्रातस्तनेन्दुद्युतिम्।  
 सोत्कण्ठां नियमोपवासविधिना चेतो ममोत्कण्ठते  
-तां द्रष्टुं [प्रथमा](# " प्रचया०. ")नुरागजनितावस्थामिवाद्य प्रियाम्॥१॥**
+तां द्रष्टुं प्रथमा[^77]नुरागजनितावस्थामिवाद्य प्रियाम्॥१॥**
+
+[^76]: " मन्दोद्यता० "
+
+[^77]: " प्रचया०. "
 
 ** विदूषकः—**(उपसृत्य।) स्वस्तिभवते। वर्धतां भगवान्। (सोत्थि हो। वडुदु भवं।)
 
@@ -841,9 +995,15 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 ** राजा** —यद्येवं ततः किम्।
 
-**विदूषकः**—(सगर्वम्।) भोः।ईदृशः खलु ब्राह्मणः। यश्वतुर्वेदपञ्चवेदपड्डेदब्राह्मणसहस्रपर्याकुले राजकुले [प्रथममहमेव](# "प्रथममेव लभते ") देवीसकाशा त्स्वस्ति[वायनं](# "वाचनं. ") लभे। (भो।ईरिसो क्खु बह्मणो। जो चउव्वेदपञ्चवेदछवेद बम्हणसहस्सपज्जाउले राअउले पुढमं अहं एव्त्र देवीसआसादो सोत्थिवाआणं लहेभि)
+**विदूषकः**—(सगर्वम्।) भोः।ईदृशः खलु ब्राह्मणः। यश्वतुर्वेदपञ्चवेदपड्डेदब्राह्मणसहस्रपर्याकुले राजकुले प्रथममहमेव[^78] देवीसकाशा त्स्वस्तिवायनं[^79] लभे। (भो।ईरिसो क्खु बह्मणो। जो चउव्वेदपञ्चवेदछवेद बम्हणसहस्सपज्जाउले राअउले पुढमं अहं एव्त्र देवीसआसादो सोत्थिवाआणं लहेभि)
 
-** राजा—**(विहस्य।)वेदसंख्ययैवावेदितं ब्राह्मण्यम्। तदागच्छंमहाब्राह्मण। [धारा](# "धाराधरो.")गृहोद्यानमेव गच्छाव।
+[^78]: "प्रथममेव लभते "
+
+[^79]: "वाचनं. "
+
+** राजा—**(विहस्य।)वेदसंख्ययैवावेदितं ब्राह्मण्यम्। तदागच्छंमहाब्राह्मण। धारा[^80]गृहोद्यानमेव गच्छाव।
+
+[^80]: "धाराधरो."
 
 ** विदूषकः**—यदेव आज्ञापयति। ( जं देवो आणवेदि । )
 
@@ -855,17 +1015,29 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 
 
-**विदूषकः**—भो एहि गच्छावः। (परिक्रम्यावलोक्य च।) भो वयस्य पश्य पश्य। अविरतपतद्विविधकुसुमसुकुमारशिलातलोत्सङ्गस्य परिमलनिलीनमधुकरभरभग्नवकुलमालतीलताजालकस्य कमलगन्ध[ग्रहणो](# " बहनो (वहणुद्दा० ). ")द्दाममारुत[पर्यव](# "प्रतिबुद्ध (पंडिबु० ). ")बुद्धबन्धूकबन्धनस्याविरलतमालतरुपिहितातपप्रकाशस्यास्य धारागृहोद्यानस्य सश्रीकताम्। (भो एहि गच्छा। भो वअस्स पेक्ख पेक्ख। अविरदपडन्तविविहकुसुमसुउमालसिलाअलुच्छङ्गस्स परिमलणिलीणमहुअरभरभग्गबउलमालदीलदाजालअस्स कमलगन्धगहणुद्दाममारुदपर्जवबुद्धबन्धूअबन्धणस्स अविरलतमालत रुपिहिदातपप्पआसस्स अस्स धाराघरुजाणस्स सस्सरीअअं।)
+**विदूषकः**—भो एहि गच्छावः। (परिक्रम्यावलोक्य च।) भो वयस्य पश्य पश्य। अविरतपतद्विविधकुसुमसुकुमारशिलातलोत्सङ्गस्य परिमलनिलीनमधुकरभरभग्नवकुलमालतीलताजालकस्य कमलगन्धग्रहणो[^81]. ")द्दाममारुतपर्यव[^82]. ")बुद्धबन्धूकबन्धनस्याविरलतमालतरुपिहितातपप्रकाशस्यास्य धारागृहोद्यानस्य सश्रीकताम्। (भो एहि गच्छा। भो वअस्स पेक्ख पेक्ख। अविरदपडन्तविविहकुसुमसुउमालसिलाअलुच्छङ्गस्स परिमलणिलीणमहुअरभरभग्गबउलमालदीलदाजालअस्स कमलगन्धगहणुद्दाममारुदपर्जवबुद्धबन्धूअबन्धणस्स अविरलतमालत रुपिहिदातपप्पआसस्स अस्स धाराघरुजाणस्स सस्सरीअअं।)
+
+[^81]: " बहनो (वहणुद्दा०
+
+[^82]: "प्रतिबुद्ध (पंडिबु०
 
 ** राजा—** वयस्य साध्वभिहितम्। अत्र हि।
 
 **वृन्तैः क्षुद्रप्रवालस्थगितमिव तलं भाति शेफालिकानां  
 गन्धः सप्तच्छदानां सपदि गजमदामोदमोहं करोति ।  
-एते चोन्निद्रपद्मच्युत[बहल](# "बहुल")रजः[पुञ्ज](# "काणपिङ्गा")पिङ्गाङ्गरागा  
+एते चोन्निद्रपद्मच्युतबहल[^83]रजःपुञ्ज[^84]पिङ्गाङ्गरागा  
 गायन्त्यव्यक्तवाचः किमपि मधुलिहो वारुणीपानमत्ताः॥२॥**  
 
+[^83]: "बहुल"
 
-**विदूषकः—**भो वयस्य एतदपि तावत्पश्य पश्य। य एषोऽविरलपतत्कुसुमनिक[रोऽद्यापि](# " रोग्रपत्रा(णिअरो अग्गप)") पत्रान्तरगलद्वर्षावसान[सलिल](# "वसानसमयसलि० ( वसाणसमअ० ).")बिन्दुरिव लक्ष्यते
+[^84]: "काणपिङ्गा"
+
+
+**विदूषकः—**भो वयस्य एतदपि तावत्पश्य पश्य। य एषोऽविरलपतत्कुसुमनिकरोऽद्यापि[^85]") पत्रान्तरगलद्वर्षावसानसलिल[^86].")बिन्दुरिव लक्ष्यते
+
+[^85]: " रोग्रपत्रा(णिअरो अग्गप
+
+[^86]: "वसानसमयसलि० ( वसाणसमअ०
 
 ————————————————————————————————————
 
@@ -875,7 +1047,9 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 **सप्तपर्णपादपः।**(भो वअस्स। एदं पि दाव पेक्ख पेक्ख। जो एसो अविरलपडन्तकुसुमणिअरो अज्ज वि पत्तन्तरगलन्तवरिसावसाणसलिलबिन्दू विअ लक्खअदि सत्तवण्णपाअवो।)
 
-** राजा—**[वयस्य](# "सम्यगुपलक्षितं वयस्येन। अत्र हि वह्णेव.") सम्यगुत्प्रेक्षितम्। बह्वेव सदृशं जलदसमयस्य। तथाहि।
+** राजा—**वयस्य[^87] सम्यगुत्प्रेक्षितम्। बह्वेव सदृशं जलदसमयस्य। तथाहि।
+
+[^87]: "सम्यगुपलक्षितं वयस्येन। अत्र हि वह्णेव."
 
 **बिभ्राणा मृदुतां शिरीषकुसुमश्रीहारिभिः शाद्वलैः  
 सद्यः कल्पितकुट्टिमा मरकतक्षोदैरिव क्षालितैः।  
@@ -884,7 +1058,17 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 ( ततः प्रविशति चेटी । )
 
-** चेटी—**आज्ञप्तास्मि देव्या वासवदत्तया। हञ्जेइन्दीवरिके अद्य मयागस्त्यमहर्षयेऽर्घो [दातव्यः](# "अर्ध्य दातव्यम्.")। तद्गच्छ त्वम्। शेफालिका[कुसुम](# "पुष्पाणि ल०")मालां लघु गृहीत्वागच्छेति। एषाप्यारण्यिका धारागृहोद्यानदीर्घिकाया [यावदेव](# "यावदेव अस्ता सूर्येण न मुकुल्यन्ते कमलानि (जाव एव्व अत्था० णमुउलाविज्जन्ति कमलाई) तावदेवावचित्य.") विकसितानि कमलानि नास्ताभिलाषिणा सूर्येण मुकुलाय्यन्ते तावदेव लघ्ववचित्यागच्छत्विति। एषा [तपस्विनी](# "तप आरण्यि. ") तां दीर्घिकां न जानाति। तद्गृहीत्वा तां गमिष्यामि। (नेपथ्याभिमुखमवलोक्य।) [इत](# " इत एहि आ.") इत आरण्यके एहि।(आणत्तह्मिदेवीए वासवदत्ताए। हञ्जेइन्दीवरिए। अज्ज मए अगत्थिमहेसिणो अग्घोदादव्वो। ता गच्छ तुमं। सेहालिआकुसुममालं लहु गेोव्हिअ आअच्छेत्ति। एसावि आरण्णिआ धाराघरुज्जाणदीहिआए जाव एव्व विअसिआई कमलाई ण अत्थाहिला-
+** चेटी—**आज्ञप्तास्मि देव्या वासवदत्तया। हञ्जेइन्दीवरिके अद्य मयागस्त्यमहर्षयेऽर्घो दातव्यः[^88]। तद्गच्छ त्वम्। शेफालिकाकुसुम[^89]मालां लघु गृहीत्वागच्छेति। एषाप्यारण्यिका धारागृहोद्यानदीर्घिकाया यावदेव[^90] तावदेवावचित्य.") विकसितानि कमलानि नास्ताभिलाषिणा सूर्येण मुकुलाय्यन्ते तावदेव लघ्ववचित्यागच्छत्विति। एषा तपस्विनी[^91] तां दीर्घिकां न जानाति। तद्गृहीत्वा तां गमिष्यामि। (नेपथ्याभिमुखमवलोक्य।) इत[^92] इत आरण्यके एहि।(आणत्तह्मिदेवीए वासवदत्ताए। हञ्जेइन्दीवरिए। अज्ज मए अगत्थिमहेसिणो अग्घोदादव्वो। ता गच्छ तुमं। सेहालिआकुसुममालं लहु गेोव्हिअ आअच्छेत्ति। एसावि आरण्णिआ धाराघरुज्जाणदीहिआए जाव एव्व विअसिआई कमलाई ण अत्थाहिला-
+
+[^88]: "अर्ध्य दातव्यम्."
+
+[^89]: "पुष्पाणि ल०"
+
+[^90]: "यावदेव अस्ता सूर्येण न मुकुल्यन्ते कमलानि (जाव एव्व अत्था० णमुउलाविज्जन्ति कमलाई
+
+[^91]: "तप आरण्यि. "
+
+[^92]: " इत एहि आ."
 
 —————————————————————————————————————————————
 
@@ -896,7 +1080,11 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 (ततः प्रविशत्या रण्यिका।)
 
-**** **आरण्यिका****—**([सबा](# "सबाष्पमात्म०")ध्पोद्वेगमात्मगतम्।) तथा नाम तादृशे वंश [उत्पन्न](# "उत्पन्ना दासजनमा० साम्प्रतं ( उप्पण्णा दासजणं आणाविअ संपदं).")यान्यजनमाज्ञाप्य स्थितया सांप्रतं परस्य मयाज्ञप्तिः कर्तव्येति नास्ति खलु दुष्करं दैवस्य। अथवा ममैवैष दोषो येन जानत्यापि न व्यापादित आत्मा। तत्किं सांप्रतं करिष्यामि। अथवा दुष्करमिदानीं मया चिन्तितम्। वरमेवैतदपि। न पुनरात्मनो महार्घं वंशं प्रकाशयन्त्या मया लघुकृत आत्मा। तत्का गतिः। यथाभणितमनुष्ठास्यामि। (तह णाम तारिसे वंसे उप्पण्णाए अण्णजणं आण्णाविअ ठ्ठिदाए संपदं परस्स मए आपत्ती कादव्वेत्ति णत्थि क्खु दुक्खरं देव्वस्। अहवा मह एव्व एसो दोसो जेण जाणन्तीए वि ण वावादिओ अप्पा। ता किं संपदं करिस्सं। अहवा दुक्खरं दाणिं मए चिन्तिदं। वरं एव्व एवंवि। ण उण अप्पणो महग्घं वंसं पआसअन्तीए मए लहूकिदो अप्पा। ता का गई। जहभणिदं अणुचिट्टिस्सं।)
+**** **आरण्यिका****—**(सबा[^93]ध्पोद्वेगमात्मगतम्।) तथा नाम तादृशे वंश उत्पन्न[^94].")यान्यजनमाज्ञाप्य स्थितया सांप्रतं परस्य मयाज्ञप्तिः कर्तव्येति नास्ति खलु दुष्करं दैवस्य। अथवा ममैवैष दोषो येन जानत्यापि न व्यापादित आत्मा। तत्किं सांप्रतं करिष्यामि। अथवा दुष्करमिदानीं मया चिन्तितम्। वरमेवैतदपि। न पुनरात्मनो महार्घं वंशं प्रकाशयन्त्या मया लघुकृत आत्मा। तत्का गतिः। यथाभणितमनुष्ठास्यामि। (तह णाम तारिसे वंसे उप्पण्णाए अण्णजणं आण्णाविअ ठ्ठिदाए संपदं परस्स मए आपत्ती कादव्वेत्ति णत्थि क्खु दुक्खरं देव्वस्। अहवा मह एव्व एसो दोसो जेण जाणन्तीए वि ण वावादिओ अप्पा। ता किं संपदं करिस्सं। अहवा दुक्खरं दाणिं मए चिन्तिदं। वरं एव्व एवंवि। ण उण अप्पणो महग्घं वंसं पआसअन्तीए मए लहूकिदो अप्पा। ता का गई। जहभणिदं अणुचिट्टिस्सं।)
+
+[^93]: "सबाष्पमात्म०"
+
+[^94]: "उत्पन्ना दासजनमा० साम्प्रतं ( उप्पण्णा दासजणं आणाविअ संपदं
 
 **चेटी—**इत एह्यारण्यिके। (इदो एहि आरण्णिए।)
 
@@ -904,9 +1092,13 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 **चेटी****—**एषा शेफालिकागुल्मान्तरिता। तदेहि अवतरावः।(अवतरणं नाटयतः।) (एसा सेद्दालिआगुम्मन्तरिआ। ता एहि ओदरह्म। )
 
-**राजा—******वयस्य किमन्यदिव [चिन्तयसि](# "यंस्तिष्ठास") । ननु ब्रवीमि बह्वेव सदृशं जल्दसमयस्येति। (विभ्राणा मृदुतामित्यादि पुनः पठति ।)
+**राजा—******वयस्य किमन्यदिव चिन्तयसि[^95] । ननु ब्रवीमि बह्वेव सदृशं जल्दसमयस्येति। (विभ्राणा मृदुतामित्यादि पुनः पठति ।)
 
-**विदूषकः—**(सक्रोधम्।) भोः त्वं तावदेतदन्यञ्चपश्यन्नुत्कण्ठानिर्भरं विनोदयस्यात्मानम्। मम पुनर्ब्राह्मणस्य स्वस्तिवाचनवेलातिक्रामति। तद्यावदहं त्वरितं दीर्घिकायां स्नात्वा [देव्याः](# "देवीसकाशं.")सकाशं गमिष्यामि। (भौ तुमं दाव एवं अण्णं अ पेक्खन्तो उक्कण्ठाणिन्भरं विणोदेसि अप्पाणं। मम उण बह्मणस्स सोत्थिवाअणवेला अदिक्कमदि। ता जाव अहं तुवरिअं दीहिआए व्हाइअ देवीएसआसं गमिस्सं।)
+[^95]: "यंस्तिष्ठास"
+
+**विदूषकः—**(सक्रोधम्।) भोः त्वं तावदेतदन्यञ्चपश्यन्नुत्कण्ठानिर्भरं विनोदयस्यात्मानम्। मम पुनर्ब्राह्मणस्य स्वस्तिवाचनवेलातिक्रामति। तद्यावदहं त्वरितं दीर्घिकायां स्नात्वा देव्याः[^96]सकाशं गमिष्यामि। (भौ तुमं दाव एवं अण्णं अ पेक्खन्तो उक्कण्ठाणिन्भरं विणोदेसि अप्पाणं। मम उण बह्मणस्स सोत्थिवाअणवेला अदिक्कमदि। ता जाव अहं तुवरिअं दीहिआए व्हाइअ देवीएसआसं गमिस्सं।)
+
+[^96]: "देवीसकाशं."
 
 ————————————————————————————————
 
@@ -914,17 +1106,31 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 
 
-**** **राजा****—**ननु मूर्ख पारंगता एव वयं दीर्घिकायाः। एवम केन्द्रिय[सुखा](# "सुखमनु०.")तिशयमनुभवन्नपि नोप[लक्ष](# " लभसे.")यसि। पश्य।
+**** **राजा****—**ननु मूर्ख पारंगता एव वयं दीर्घिकायाः। एवम केन्द्रियसुखा[^97]तिशयमनुभवन्नपि नोपलक्ष[^98]यसि। पश्य।
 
-**श्रोत्रं हंसस्वनोऽयं सुखयति दयितानू[पुर](# " राह्लाद.")ह्रदकारी  
+[^97]: "सुखमनु०."
+
+[^98]: " लभसे."
+
+**श्रोत्रं हंसस्वनोऽयं सुखयति दयितानूपुर[^99]ह्रदकारी  
 दृष्टिप्रीतिंविधत्ते तटतरुविवरालक्षिता सौधपाली।  
-गन्धेनाम्भोरुहाणां [परिमल](# "माला")पटुना जायते घ्राणसौख्यं  
-[गात्राणां](# " गात्रस्या. ") ह्लादमेते विदधति मरुतो वारिसं[पर्क](# " संस्पर्श.")शीताः॥४॥**
+गन्धेनाम्भोरुहाणां परिमल[^100]पटुना जायते घ्राणसौख्यं  
+गात्राणां[^101] ह्लादमेते विदधति मरुतो वारिसंपर्क[^102]शीताः॥४॥**
+
+[^99]: " राह्लाद."
+
+[^100]: "माला"
+
+[^101]: " गात्रस्या. "
+
+[^102]: " संस्पर्श."
 
 तदेहि दीर्घिकातटमुपसर्पावः। (परिक्रम्यावलोक्य च।) वयस्य पश्य पश्य
 
 **उद्यानदेवतायाः स्फुटपङ्कजकान्तिहारिणी स्वच्छा।  
-दृष्टिरिव दीर्घिकेयं रमयति मां [दर्श](# " का पुनरेषा ( का उण.)")नेनैव॥५॥**  
+दृष्टिरिव दीर्घिकेयं रमयति मां दर्श[^103]")नेनैव॥५॥**  
+
+[^103]: " का पुनरेषा ( का उण.
 
 
  विदूषकः—(सकौतुकम्।) भो वयस्य पश्य पश्य। कैषा कुसुम परिमलसुगन्धवेणिमधुकर।वलिर्विद्रुमलतारुणहस्तपल्लवा उज्ज्वलत्तनुकोमल बाहुलता सत्यं प्रत्यक्षचरीवोद्यानदेवता स्त्री दृश्यते। (भो वअस्स पेक्ख पेक्ख। का एसा कुसुमपरिमलसुअन्धवेणीमहुअरावली विद्दुमलआरुणहत्थपल्लवा उज्जलन्ततणुकोमलबाहुलदा सच्चं पञ्चक्खचरी विअ उज्जाणदेवदा इत्थिआ दीसइ।)
@@ -939,12 +1145,18 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 
 
-**पातालाडुवनावलोकन[पेरा](# "धिया") किं नागकन्योत्थिता  
-मिथ्या तत्खलु दृष्टमेव हि मया तस्मि[न्कुतो](# "कुतस्त्वी०")ऽस्तीदृशी।  
+**पातालाडुवनावलोकनपेरा[^104] किं नागकन्योत्थिता  
+मिथ्या तत्खलु दृष्टमेव हि मया तस्मिन्कुतो[^105]ऽस्तीदृशी।  
 मूर्ता स्यादिह कौमुदी न घटते तस्या दिवा दर्शनं  
 केयं हस्ततलस्थितेन कमलेनालोक्यते श्रीरिव॥६॥**
 
-**** **विदूषकः—**(निरूप्य।) एषा खलु देव्याः परिचारिकेन्दीव[रिका](# "रिका आगच्छति ( आअच्छदि ).")। तद्गुल्मान्तरितौ भूत्वा पश्यावः। (एसा क्खु देवीए परिआरिआ 'इन्दीवरिआ। ता गुम्मन्तरिआ भविअ पेक्खह्म।)
+[^104]: "धिया"
+
+[^105]: "कुतस्त्वी०"
+
+**** **विदूषकः—**(निरूप्य।) एषा खलु देव्याः परिचारिकेन्दीवरिका[^106].")। तद्गुल्मान्तरितौ भूत्वा पश्यावः। (एसा क्खु देवीए परिआरिआ 'इन्दीवरिआ। ता गुम्मन्तरिआ भविअ पेक्खह्म।)
+
+[^106]: "रिका आगच्छति ( आअच्छदि
 
 (उभौ तथा कुरुतः।)
 
@@ -954,9 +1166,13 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 (चेटी गमनं नाटयति।)
 
-** आर०—**हला इन्दीवरिके। न शक्नोमि त्वया विना [मुहूर्त](# "एतन्नास्ति बहुषु पुस्तकेषु")मप्यत्रासितुम्। (हला इन्दीवरिए ण सक्कुणोमि तुए विणा मुहुत्तंवि एत्थ आसिदुं।)
+** आर०—**हला इन्दीवरिके। न शक्नोमि त्वया विना मुहूर्त[^107]मप्यत्रासितुम्। (हला इन्दीवरिए ण सक्कुणोमि तुए विणा मुहुत्तंवि एत्थ आसिदुं।)
 
-** चेटी —**(विहस्य।) यादृशमद्य मया देव्या मन्त्रितं श्रुतं [तादृशेन](# " तादृशं ( तारिसं).") ग चिरमेव मया विना त्वयासितव्यम्। (जादिसं अज्ज मए देवीए मन्तिदं सुदं तारिसेण चिरं एव्त्र मए विणा तुए आसिदव्वं।)
+[^107]: "एतन्नास्ति बहुषु पुस्तकेषु"
+
+** चेटी —**(विहस्य।) यादृशमद्य मया देव्या मन्त्रितं श्रुतं तादृशेन[^108].") ग चिरमेव मया विना त्वयासितव्यम्। (जादिसं अज्ज मए देवीए मन्तिदं सुदं तारिसेण चिरं एव्त्र मए विणा तुए आसिदव्वं।)
+
+[^108]: " तादृशं ( तारिसं
 
 **—————————————————————————————————————————**
 
@@ -968,9 +1184,17 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 ** आर०—**(सविषादम्।) किं देव्या मन्त्रितम्। (देवीए मन्तिदं।)
 
-** चेटी—**[एतत्](# "तदाहं म० । यथा-यैषा वि० यदा")। तदैषाहं महाराजेन भणिता यथा**—**यदैषा विन्ध केतुदुहिता वरयोग्या भविष्यति तदाहं स्मारयितव्य इति। तत्सांप्र महाराजं स्मारयामि येनास्या वरचि[न्ता](# " न्तया प० (न्ताए प० )")पर्याकुलो भविष्यति। (एवं तदा एसा अहं महाराएण भणिदा जह जदा एसा विञ्झकेदुदुहिदा वरजोग्गा भवि स्सदि तदा अहं सुमराइदव्वोत्ति। ता संपदं महाराअं सुमरावेमि जेण से वरचिन्ता पज्जाउलो भविस्सदि।)
+** चेटी—**एतत्[^109]। तदैषाहं महाराजेन भणिता यथा**—**यदैषा विन्ध केतुदुहिता वरयोग्या भविष्यति तदाहं स्मारयितव्य इति। तत्सांप्र महाराजं स्मारयामि येनास्या वरचिन्ता[^110]")पर्याकुलो भविष्यति। (एवं तदा एसा अहं महाराएण भणिदा जह जदा एसा विञ्झकेदुदुहिदा वरजोग्गा भवि स्सदि तदा अहं सुमराइदव्वोत्ति। ता संपदं महाराअं सुमरावेमि जेण से वरचिन्ता पज्जाउलो भविस्सदि।)
 
-** राजा—**(सहर्षम्।) इयं सा विन्ध्यकेतोर्दुहिता। (सानुतापम्।) [चिरं](# "चिरमु०.") मुषिताः स्मो वयम्। वयस्य निर्दोषदर्शना कन्यका [खल्वि](# "एतनास्ति क्वचित् ")यम्। विश्रब्धमिदानीं पश्यामः।
+[^109]: "तदाहं म० । यथा-यैषा वि० यदा"
+
+[^110]: " न्तया प० (न्ताए प०
+
+** राजा—**(सहर्षम्।) इयं सा विन्ध्यकेतोर्दुहिता। (सानुतापम्।) चिरं[^111] मुषिताः स्मो वयम्। वयस्य निर्दोषदर्शना कन्यका खल्वि[^112]यम्। विश्रब्धमिदानीं पश्यामः।
+
+[^111]: "चिरमु०."
+
+[^112]: "एतनास्ति क्वचित् "
 
 ** आर०—**(सरोषं कर्णौ पिधाय।) तद्गच्छ त्वम्। न मम त्वयासंबद्धप्रलापिन्या प्रयोजनम्। (ता गच्छ तुमं। ण मह तुए असंबद्धप्पलाविणीए पभोअणं।)
 
@@ -980,9 +1204,15 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 (आरण्यिका कमलावचयं नाटयति।)
 
-**विदूषकः—**भो वयस्य पश्य पश्य। आश्चर्यमाश्चर्यम्। एषा सलिलचलत्करपल्लवप्रभाविस्तृते[नाप](# "विच्छुरितेन (विच्छुरिदेण ).")हसितशोभं करोति [कमल](# "कमलं. ")वनमवचिन्वती। (भो वअस्स पेक्ख पेक्ख। अच्चरिअं अच्चरिअं। एसा सलिलचलन्तकरपल्लवप्पहावित्थिदेण ओहसिअसोहं करेदि कमलवणं अवचिणन्ती।)
+**विदूषकः—**भो वयस्य पश्य पश्य। आश्चर्यमाश्चर्यम्। एषा सलिलचलत्करपल्लवप्रभाविस्तृतेनाप[^113].")हसितशोभं करोति कमल[^114]वनमवचिन्वती। (भो वअस्स पेक्ख पेक्ख। अच्चरिअं अच्चरिअं। एसा सलिलचलन्तकरपल्लवप्पहावित्थिदेण ओहसिअसोहं करेदि कमलवणं अवचिणन्ती।)
 
- **राजा—** वयस्य [सत्य](# "स्वल्पं.")मेवैतत्। पश्य।
+[^113]: "विच्छुरितेन (विच्छुरिदेण
+
+[^114]: "कमलं. "
+
+ **राजा—** वयस्य सत्य[^115]मेवैतत्। पश्य।
+
+[^115]: "स्वल्पं."
 
 **————————————————————————————————————**
 
@@ -990,14 +1220,30 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 
 
-**अच्छिन्नामृत[विन्दु](# "वृष्टिपात")वृष्टिसदृशीं प्रीतिं ददत्या [द्दशां](# " दृशा.")  
+**अच्छिन्नामृतविन्दु[^116]वृष्टिसदृशीं प्रीतिं ददत्या द्दशां[^117]  
 याताया विगलत्पयोधरपटाद्द्रष्टव्यतां कामपि  
 अस्याश्चन्द्रमसस्तनोरिव करस्पर्शास्पदत्वं गता  
 नैते यन्मुकुलीभवन्ति सहसा पद्मास्तदेवाद्भुतम्॥७॥**
 
-** ****आर०****—**(भ्रमर[बाधां](# "संबाधं, नाटयति.") नाटयन्ती।) हा धिक् हा धिक्। एते खल्वपरे [परित्यज्य](# " परिवर्ज्य कमलनालो पलवनं समापद्विगुणतरमाया० ( परिवज्जिअ कमलणीलुप्पलवणं समा० दिउणदरं आ० ).") कमलिनीं नीलोत्पलवनानि समापतन्तो निपुणतरं बाधमाना आयासयन्ति मां दुष्टमधुकराः। (उत्तरीयेण मुखं [पिधाय](# " पिदधाति.)") सभयम्।) हला इन्दीवरिके परित्रायस्व मां परित्रायस्व माम्। एते खलु दुष्टमधुकराः परिभविष्यन्ति। (हद्धि हद्धि। एदे क्खु अवरे परिचइअ कमलिणीं णीलुप्पलवणाईं समापडन्ता णिउणअरं बाधन्ता आआसअन्ति मं दुद्रुमहुअरा। इला इन्दीवरिए परित्ताएहि मं परित्ताएहि मं । एदे क्खु दुद्रमहुअरा परिभविस्सन्ति)
+[^116]: "वृष्टिपात"
 
-** विदूषकः—**भो वयस्य पूर्णास्ते मनोरथाः। यावदेव [ग](# "  एषा दासी (एसा दासी")र्भदास्याः सुता नागच्छति तावदेव त्वमपि तूष्णीको भूत्वोपसर्प। एषापि सलिलशब्द[सू](# " श्रुतेन (सुणिदेण).")चितेन पदसंचारेणेन्दीवरिकागच्छतीति ज्ञात्वा [त्वा](# "स्वयमेव त्वामव० (सअं एव्व तुमं ).")मेवावलम्विष्यते। (भो वअस्स पुण्णा दे मणोरहा। जाव एव्व गब्भदासीए सुदा ण आअच्छदि दाव एव्व तुमं वि तुण्हीको भविअ उवसप्प। एसा वि सलिलसद्दसूइदेण पअसंचारेण इन्दी- वरिआ आअच्छदित्ति जाणिअ तुमं एव्व ओलम्बिस्सदि।)
+[^117]: " दृशा."
+
+** ****आर०****—**(भ्रमरबाधां[^118] नाटयन्ती।) हा धिक् हा धिक्। एते खल्वपरे परित्यज्य[^119].") कमलिनीं नीलोत्पलवनानि समापतन्तो निपुणतरं बाधमाना आयासयन्ति मां दुष्टमधुकराः। (उत्तरीयेण मुखं पिधाय[^120]") सभयम्।) हला इन्दीवरिके परित्रायस्व मां परित्रायस्व माम्। एते खलु दुष्टमधुकराः परिभविष्यन्ति। (हद्धि हद्धि। एदे क्खु अवरे परिचइअ कमलिणीं णीलुप्पलवणाईं समापडन्ता णिउणअरं बाधन्ता आआसअन्ति मं दुद्रुमहुअरा। इला इन्दीवरिए परित्ताएहि मं परित्ताएहि मं । एदे क्खु दुद्रमहुअरा परिभविस्सन्ति)
+
+[^118]: "संबाधं, नाटयति."
+
+[^119]: " परिवर्ज्य कमलनालो पलवनं समापद्विगुणतरमाया० ( परिवज्जिअ कमलणीलुप्पलवणं समा० दिउणदरं आ०
+
+[^120]: " पिदधाति.
+
+** विदूषकः—**भो वयस्य पूर्णास्ते मनोरथाः। यावदेव ग[^121]र्भदास्याः सुता नागच्छति तावदेव त्वमपि तूष्णीको भूत्वोपसर्प। एषापि सलिलशब्दसू[^122].")चितेन पदसंचारेणेन्दीवरिकागच्छतीति ज्ञात्वा त्वा[^123].")मेवावलम्विष्यते। (भो वअस्स पुण्णा दे मणोरहा। जाव एव्व गब्भदासीए सुदा ण आअच्छदि दाव एव्व तुमं वि तुण्हीको भविअ उवसप्प। एसा वि सलिलसद्दसूइदेण पअसंचारेण इन्दी- वरिआ आअच्छदित्ति जाणिअ तुमं एव्व ओलम्बिस्सदि।)
+
+[^121]: "  एषा दासी (एसा दासी"
+
+[^122]: " श्रुतेन (सुणिदेण
+
+[^123]: "स्वयमेव त्वामव० (सअं एव्व तुमं
 
 ** राजा****—**साधु वयस्य साधु। कालानुरूपमुपदिष्टम्।(इत्यारण्यक समीपमुपसर्पति।)  
 ————————————————————————————————————
@@ -1006,7 +1252,9 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 
 
- **आर०—**(पदशब्दाकर्णनं नाटयन्ती।) इन्दीवरिके लघूपसर्प लघुपसर्प। आकुलीकृतास्मि दुष्टमधुकरैः। (इन्दीवरिए। लहु उवसप्प लहु उवसप्प। आउलीकिदमि दुद्रमहुअरेहिं।([राजा](# "इति रा०")नमवलम्बते।)
+ **आर०—**(पदशब्दाकर्णनं नाटयन्ती।) इन्दीवरिके लघूपसर्प लघुपसर्प। आकुलीकृतास्मि दुष्टमधुकरैः। (इन्दीवरिए। लहु उवसप्प लहु उवसप्प। आउलीकिदमि दुद्रमहुअरेहिं।(राजा[^124]नमवलम्बते।)
+
+[^124]: "इति रा०"
 
 (राजा कण्ठे गृह्णाति। आरण्यिकोत्तरीयं मुखादपनीय  
 राजानमपश्यन्ती भ्रमरावलोकनं नाटयति।)
@@ -1014,13 +1262,19 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 ** राजा—**(स्वोत्तरयेण भ्रमरान्निवारयन्।)
 
 **अयि विसृज विषादं भीरु भृङ्गास्तवैते  
-परिमलरसलुब्धा वक्रपझे [पत](# "वसन्ति")न्ति।  
+परिमलरसलुब्धा वक्रपझे पत[^125]न्ति।  
 विकिरसि यदि भूयस्त्रासलोलायताक्षी  
 कुवलयवनलक्ष्मीं तत्कुतस्त्वां त्यजन्ति॥८॥**
 
-** आर०—**(राजानं दृष्ट्वा साध्वसं नाटयन्ती।) कथं नैषेन्दीवरिका। (सभयं राजानं त्यक्त्वापसरन्ती।) इन्दीवरिके। लघ्वागच्छ [लघ्वागच्छ](# " लघ्वेवागच्छागच्छ. ")। परित्रायस्व माम्। (कहं ण एसा इन्दीवरिआ। इन्दीवरिए। लहु आअच्छ लहु आअच्छ। परित्ताएहि मं।)****
+[^125]: "वसन्ति"
 
-**विदूषकः—**भवति [सकलपृथ्वी](# "भुवन० माणापि किं चेटीमा ")परित्राणसमर्थेन वत्सराजेन परित्रायमाणा चेटीमिन्दीवरिकामाक्रन्दसि। (होदि सअलपुडवीपरित्ताणसमत्थेणवच्छराएण परित्ताअन्ती चेडिं इन्दीवरिअं अक्कन्दसि।
+** आर०—**(राजानं दृष्ट्वा साध्वसं नाटयन्ती।) कथं नैषेन्दीवरिका। (सभयं राजानं त्यक्त्वापसरन्ती।) इन्दीवरिके। लघ्वागच्छ लघ्वागच्छ[^126]। परित्रायस्व माम्। (कहं ण एसा इन्दीवरिआ। इन्दीवरिए। लहु आअच्छ लहु आअच्छ। परित्ताएहि मं।)****
+
+[^126]: " लघ्वेवागच्छागच्छ. "
+
+**विदूषकः—**भवति सकलपृथ्वी[^127]परित्राणसमर्थेन वत्सराजेन परित्रायमाणा चेटीमिन्दीवरिकामाक्रन्दसि। (होदि सअलपुडवीपरित्ताणसमत्थेणवच्छराएण परित्ताअन्ती चेडिं इन्दीवरिअं अक्कन्दसि।
+
+[^127]: "भुवन० माणापि किं चेटीमा "
 
 ( राजा "अयि विसृज—" इत्यादि पुनः पठति।)
 
@@ -1030,9 +1284,13 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 
 
-** चेटी—**आयासिता खल्वारण्यिका दुष्टमधुकरैः। तद्यावदुपसर्प्यः समाश्वासयामि। आरण्यके [मा](# "मा भैषीः मा भैषीः। एषागतास्मि (भा आहि एसा आअवह्नि). ")विभिहि। एषोपगतास्मि। (आआसिआ क्खु आरण्णिआ दुद्रमहुअरेहिं। ता जाव उवसप्पिअ समस्सा सेमि। आरणिए मा भआहि। एसा उवअदम्हि।)
+** चेटी—**आयासिता खल्वारण्यिका दुष्टमधुकरैः। तद्यावदुपसर्प्यः समाश्वासयामि। आरण्यके मा[^128]. ")विभिहि। एषोपगतास्मि। (आआसिआ क्खु आरण्णिआ दुद्रमहुअरेहिं। ता जाव उवसप्पिअ समस्सा सेमि। आरणिए मा भआहि। एसा उवअदम्हि।)
 
-** विदूषकः—**भोः अपसरापसर। एषा खल्विन्दीवरिकागता। [एत](# "तदेतं (ता एवं ).. ") वृत्तान्तं प्रेक्ष्य देव्यै निवेदयिष्यति। (अङ्गुल्या निर्दिश्य।) तदिदमेव ,कदलीगृहं प्रविश्य मुहूर्तं तिष्ठावः। (भो ओसर ओसर। एसा क्खु इन्दीवरिआ आअदा। एदं उत्तन्तं पेक्खिअ देवीए णिवेदइस्सदि। ता इमं एव्व कदलीघरं. पविसिअ मुहुत्तं चिठ्ठह्म।)
+[^128]: "मा भैषीः मा भैषीः। एषागतास्मि (भा आहि एसा आअवह्नि
+
+** विदूषकः—**भोः अपसरापसर। एषा खल्विन्दीवरिकागता। एत[^129].. ") वृत्तान्तं प्रेक्ष्य देव्यै निवेदयिष्यति। (अङ्गुल्या निर्दिश्य।) तदिदमेव ,कदलीगृहं प्रविश्य मुहूर्तं तिष्ठावः। (भो ओसर ओसर। एसा क्खु इन्दीवरिआ आअदा। एदं उत्तन्तं पेक्खिअ देवीए णिवेदइस्सदि। ता इमं एव्व कदलीघरं. पविसिअ मुहुत्तं चिठ्ठह्म।)
+
+[^129]: "तदेतं (ता एवं
 
 (उभौ तथा कुरुतः।)
 
@@ -1040,13 +1298,17 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 (गमनं नाटयतः।)
 
-** आर०—**(कदलीगृहाभिमुखमवलोक्य।) इन्दीवरिके अतिशिशिरतया सलिलस्योरु[स्तम्भ](# "कम्पः") इव समुत्पन्नः। तच्छनैः शनैर्गच्छावः। (हञ्जे इन्दीवरिए अदिसिसिरदाए सलिलस्स ऊरुत्थम्भो विअ समुप्पण्णो। ता सणिअं सणिअं गच्छा।)
+** आर०—**(कदलीगृहाभिमुखमवलोक्य।) इन्दीवरिके अतिशिशिरतया सलिलस्योरुस्तम्भ[^130] इव समुत्पन्नः। तच्छनैः शनैर्गच्छावः। (हञ्जे इन्दीवरिए अदिसिसिरदाए सलिलस्स ऊरुत्थम्भो विअ समुप्पण्णो। ता सणिअं सणिअं गच्छा।)
+
+[^130]: "कम्पः"
 
 ** चेटी—**तथा। (तह।)
 
 (इति निष्कान्ते।)
 
-** विदूषक—** भोः एहि निष्क्रामावः। तां गृहीत्वैषा दास्याः सुतेन्दीवरिका [गता](# "अस्मात्परं तथा कुरुतः  इत्यधिकं बहुषु पुस्तकेषु.")[।](#) (भो एहि णिक्कमम। तं गोण्हअ एसा दासीए सुदा इन्दीवरिआ गदा।)
+** विदूषक—** भोः एहि निष्क्रामावः। तां गृहीत्वैषा दास्याः सुतेन्दीवरिका गता[^131][।](#) (भो एहि णिक्कमम। तं गोण्हअ एसा दासीए सुदा इन्दीवरिआ गदा।)
+
+[^131]: "अस्मात्परं तथा कुरुतः  इत्यधिकं बहुषु पुस्तकेषु."
 
 **राजा—**(निःश्वस्य।) कथं गता। सखे वसन्तक। न खल्वविघ्नमभिलषितमधन्यैः प्राप्यते। (विलोक्य।) सखे पश्य पश्य।
 
@@ -1059,17 +1321,25 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 **आबद्धमुखमर्पादं कण्टकितं कमलकाननं तस्याः।  
 सुकुमारपाणिपल्लवसंस्पर्शसुखं कथयतीव॥९॥**
 
- (निःश्वस्य।) सखे। क इदानीमु[पायः](# "अभ्युपायः.") पुनस्तां द्रष्टुम्।
+ (निःश्वस्य।) सखे। क इदानीमुपायः[^132] पुनस्तां द्रष्टुम्।
 
-** विदूषकः—**भोः त्वमेव पुत्तलिकां भङ्क्त्वेदानीं रोदिषि। न [मम](# " मे मूर्खस्य ( मे मुक्रखस्स ).")खलु ब्राह्मणस्य वचनं करोषि। (भो तुमे एव्व पुत्तलिअं भजिअ दाणिंरोदिसि। ण मह क्खु बह्मणस्स वअणं करेसि। )
+[^132]: "अभ्युपायः."
+
+** विदूषकः—**भोः त्वमेव पुत्तलिकां भङ्क्त्वेदानीं रोदिषि। न मम[^133].")खलु ब्राह्मणस्य वचनं करोषि। (भो तुमे एव्व पुत्तलिअं भजिअ दाणिंरोदिसि। ण मह क्खु बह्मणस्स वअणं करेसि। )
+
+[^133]: " मे मूर्खस्य ( मे मुक्रखस्स
 
 ** राजा–**किं मया न कृतम्।
 
-** विदूषकः—**तदिदानीं विस्मृतम्। यथा तूष्णीको भूत्वोपसर्पैति मया [भणितम्](# " तदा भणितः.....विदग्धः 'अपि...कटुवचनैः भङ्त्वा साम्प्रतं")। अतिसंकटे यद्भवान्प्रविश्यालीकपाण्डित्यदुर्विदग्धतया “अयि विसृज विषादम्” इत्येतैरन्यैश्च कटुवचनैर्निर्भर्त्स्य सांप्रतं किं रोदिषि। पुनरप्युपायं पृच्छसि। (तं दाणिं विसुमरिदं। जह तुण्हीकोभविअउवसप्पत्ति मए भणिदं। अदिसंकडे जं भवं पविसिअ अलिअपंडिच्चदुव्विदद्धदाए अइविसिज विसादेत्ति एदेहिं अण्णेहिं अ कडुअवअणेहिं णिव्भञ्चिअसंपदं किं रोदिसि। पुणो वि उवाअं पुच्छसि।)
+** विदूषकः—**तदिदानीं विस्मृतम्। यथा तूष्णीको भूत्वोपसर्पैति मया भणितम्[^134]। अतिसंकटे यद्भवान्प्रविश्यालीकपाण्डित्यदुर्विदग्धतया “अयि विसृज विषादम्” इत्येतैरन्यैश्च कटुवचनैर्निर्भर्त्स्य सांप्रतं किं रोदिषि। पुनरप्युपायं पृच्छसि। (तं दाणिं विसुमरिदं। जह तुण्हीकोभविअउवसप्पत्ति मए भणिदं। अदिसंकडे जं भवं पविसिअ अलिअपंडिच्चदुव्विदद्धदाए अइविसिज विसादेत्ति एदेहिं अण्णेहिं अ कडुअवअणेहिं णिव्भञ्चिअसंपदं किं रोदिसि। पुणो वि उवाअं पुच्छसि।)
+
+[^134]: " तदा भणितः.....विदग्धः 'अपि...कटुवचनैः भङ्त्वा साम्प्रतं"
 
  **राजा**—कथं समाश्वासनमपि निर्भासितमिति भणितं मूर्खेण।
 
-** विदूषकः**—ज्ञातमेव कोऽत्र मूर्ख इति। तत्किमेतेन। अस्तमयाभिलाषी भगवान्स[हस्र](# " दिवसकरः ( दिवसअरो ).")रश्मिः। तदेह्यभ्यन्तरमेव प्रविशावः। (जाणिदं एव्व को एत्थ मुक्खोत्ति। ता किं एदेण। अत्थमआहिलासी भअवं सहस्सरस्सी। ता एहि अब्भन्तरं एव्वपविसह्म।)
+** विदूषकः**—ज्ञातमेव कोऽत्र मूर्ख इति। तत्किमेतेन। अस्तमयाभिलाषी भगवान्सहस्र[^135].")रश्मिः। तदेह्यभ्यन्तरमेव प्रविशावः। (जाणिदं एव्व को एत्थ मुक्खोत्ति। ता किं एदेण। अत्थमआहिलासी भअवं सहस्सरस्सी। ता एहि अब्भन्तरं एव्वपविसह्म।)
+
+[^135]: " दिवसकरः ( दिवसअरो
 
 ** राजा**—(विलोक्य।) अये परिणतप्रायो दिवसः। अहह। संप्रति हि—
 
@@ -1097,7 +1367,11 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 (ततः प्रविशति मनोरमा।)
 
- **मनोरमा—**आज्ञमास्मि देव्या वासवदत्तया हञ्जेमनोरमे [यः](# "यत्सा० च चरितं ( चरिदं ).") स कसाङ्कृत्यायन्यार्यपुत्रस्य मम च वृत्तान्तो नाटकोपनिबद्धस्तस्य नर्तितव्यशेषमद्य युष्माभिः कौमुदीमहोत्सवे नर्तितव्यमिति। ह्यः खल्वारण्यिकया प्रियसख्या शून्यहृदययान्यथैव नर्तितम्। अद्य पुन[र्वासवदत्ता](# " वासवदत्ताया वेषं कृत्वा तथा नर्तिते देव्याः कोपो भविष्यति ( ० दत्ताए वेसं कदुअ तह णच्चिदे देवीए कोवो हुविस्सदि ).")भूमिकयातया यदि तथा क्रियते ततोऽवश्यं देवी कुप्यति। तत्कुत्र तावत्तां "प्रेक्ष्योपालप्स्ये। (विलोक्य।) एषारण्यिकात्मनैव किमपि किमपि मन्त्रपायमाणा दीर्घिकातीरे कदलीगृहं प्रविशति। तद्गुल्मान्तरिता भूत्वा श्रोष्यामितावदस्या विश्रब्धजल्पितानि। (आणत्तह्मिदेवीए वासवदत्ताए हञ्जेमणोरमे जं तं संकिच्चायणीए अज्जउत्तस्स मम अ उत्तन्तं णाडओवाणबद्धं तस्स णचिदव्वसेसं
+ **मनोरमा—**आज्ञमास्मि देव्या वासवदत्तया हञ्जेमनोरमे यः[^136].") स कसाङ्कृत्यायन्यार्यपुत्रस्य मम च वृत्तान्तो नाटकोपनिबद्धस्तस्य नर्तितव्यशेषमद्य युष्माभिः कौमुदीमहोत्सवे नर्तितव्यमिति। ह्यः खल्वारण्यिकया प्रियसख्या शून्यहृदययान्यथैव नर्तितम्। अद्य पुनर्वासवदत्ता[^137].")भूमिकयातया यदि तथा क्रियते ततोऽवश्यं देवी कुप्यति। तत्कुत्र तावत्तां "प्रेक्ष्योपालप्स्ये। (विलोक्य।) एषारण्यिकात्मनैव किमपि किमपि मन्त्रपायमाणा दीर्घिकातीरे कदलीगृहं प्रविशति। तद्गुल्मान्तरिता भूत्वा श्रोष्यामितावदस्या विश्रब्धजल्पितानि। (आणत्तह्मिदेवीए वासवदत्ताए हञ्जेमणोरमे जं तं संकिच्चायणीए अज्जउत्तस्स मम अ उत्तन्तं णाडओवाणबद्धं तस्स णचिदव्वसेसं
+
+[^136]: "यत्सा० च चरितं ( चरिदं
+
+[^137]: " वासवदत्ताया वेषं कृत्वा तथा नर्तिते देव्याः कोपो भविष्यति ( ० दत्ताए वेसं कदुअ तह णच्चिदे देवीए कोवो हुविस्सदि
 
 ————————————————————————————————————  
 दृश्यते। चक्राह्नः चक्रवाकः अहमिव सहचरीं ध्यायन् नलिन्याः तटे स्थितः। दिशःमम इव भुवनस्यापि सहसा अन्धकाराः अन्धकारवत्यः। अनाह्लादकरा इत्यर्थः। जाताः।“अर्श आदिभ्योऽच्' इति मत्वर्थीयः अच्। उपमा। शार्दूलविक्रीडितं वृत्तम्॥१०॥
@@ -1108,17 +1382,25 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 अज्ज तुझेहिं कोमदीमहूसवे णञ्चदव्वंति। हिओ क्खु आरण्णिआए पिअसहीए सुण्ण,हिअआए अण्णहा एव्त्र णञ्चिदं। अज्ज उण वासवदत्ताभूमिआए ताए जइ तह करीअदि तदों अवस्सं देवी कुप्पदि। ता कहिं दाव तां पेक्खिअ उवालम्भस्सं। एसा आरण्णिआ अप्पणा एव्व किं वि किं वि मन्तअन्ती दिग्घिआतीले कदलीघरअ पविसदि। ता गुम्मन्तरिआ भविअ सुणिस्सं दाव से विसद्धजप्पिदाणिं।)
 
-(ततः प्रविश[त्यासन](# " त्यारण्यिका। (आ०— कामावस्थां नाटयन्ती निःश्वस्य। ).")स्था कामावस्थां नाटयन्त्यारण्यिका।)
+(ततः प्रविशत्यासन[^138].")स्था कामावस्थां नाटयन्त्यारण्यिका।)
+
+[^138]: " त्यारण्यिका। (आ०— कामावस्थां नाटयन्ती निःश्वस्य।
 
 ** आर०**—(निःश्वस्य।) हृदय दुर्लभजनं प्रार्थयमानं त्वं कस्मान्मां दुःखितां करोषि। (हिअअ दुल्लहजणं पत्थभन्तो तुमं कीस मं दुक्खिदं करेसि।)
 
 ** मनो०—**तदेतदस्याः शून्यहृदयत्वस्य कारणम्। किं पुनरेषा प्रार्थयते। अवहिता तावच्छ्रोष्यामि। (तं एवं एदस्य सुण्णहिअअत्तणस्स करणं। किं उण एसा पत्थेदि। अवहिदा दाव सुणिस्सं।)
 
-** आर०—**(सास्रम्।) कथं तथा नाम [सौम्य](# "शोभन ( शोहण०).")दर्शनो भूत्वा महाराज एवं संतापयति माम्। आश्चर्यमाश्चर्यम्। (निःश्वस्य।) अथवा ममैवैषाऽभागधेयता। न पुनर्महाराजस्य दोषः। (कहं तह णाम सोम्मदंसंणो भविअ महाराओ एव्वं संदावेदि मं। अच्चरिअं अच्चरिअं।अहवा मह एव्व एसा अभा अहे अदा। ण उण महाराअस्स दोसो।)
+** आर०—**(सास्रम्।) कथं तथा नाम सौम्य[^139].")दर्शनो भूत्वा महाराज एवं संतापयति माम्। आश्चर्यमाश्चर्यम्। (निःश्वस्य।) अथवा ममैवैषाऽभागधेयता। न पुनर्महाराजस्य दोषः। (कहं तह णाम सोम्मदंसंणो भविअ महाराओ एव्वं संदावेदि मं। अच्चरिअं अच्चरिअं।अहवा मह एव्व एसा अभा अहे अदा। ण उण महाराअस्स दोसो।)
 
-** मनो०—**(सबाष्पम्।) कथं महाराज एवास्याः प्रार्थनीयः। साधु प्रियसखि [साधु](# " साधु प्रियसखि ")। आभिजात्यसदृशस्तेऽभिलाषः। (कहं महाराओ एव्व से पत्थणिजो। साहु पिअसही साहु। अभिजाअसरिसो दे अहिलासो।)
+[^139]: "शोभन ( शोहण०
 
- **आर०—**कस्मै [ताव](# " इदानीं( दाणिं )")देतं वृत्तान्तं निवेद्य सह्यवेदनमिव दुःखं करिष्यामि। (विचिन्त्य।) अथवा अस्ति मे हृदयनिर्विशेषा प्रियसखी मनोरमा। तस्या अप्येतल्लज्जया न पारयामि कथयितुम्। सर्वथा मरणं वर्जयित्वा कुतो मे हृदयस्यान्या निर्वृतिः। (कस्स दाव एवं उत्तन्तं णिवेदिअ सज्झवेअणं विअ दुक्खं कारइस्सं। अहवा अत्थि मे हिअअणिव्विसेसा पिअसही मणोरमा। ताए वि एवं लज्जाए ण पारेमि कहिदुं। सव्वहा मरणं वज्जिअ कुदो मे हिअअस्स अण्णा णिव्वुदी।)
+** मनो०—**(सबाष्पम्।) कथं महाराज एवास्याः प्रार्थनीयः। साधु प्रियसखि साधु[^140]। आभिजात्यसदृशस्तेऽभिलाषः। (कहं महाराओ एव्व से पत्थणिजो। साहु पिअसही साहु। अभिजाअसरिसो दे अहिलासो।)
+
+[^140]: " साधु प्रियसखि "
+
+ **आर०—**कस्मै ताव[^141]")देतं वृत्तान्तं निवेद्य सह्यवेदनमिव दुःखं करिष्यामि। (विचिन्त्य।) अथवा अस्ति मे हृदयनिर्विशेषा प्रियसखी मनोरमा। तस्या अप्येतल्लज्जया न पारयामि कथयितुम्। सर्वथा मरणं वर्जयित्वा कुतो मे हृदयस्यान्या निर्वृतिः। (कस्स दाव एवं उत्तन्तं णिवेदिअ सज्झवेअणं विअ दुक्खं कारइस्सं। अहवा अत्थि मे हिअअणिव्विसेसा पिअसही मणोरमा। ताए वि एवं लज्जाए ण पारेमि कहिदुं। सव्वहा मरणं वज्जिअ कुदो मे हिअअस्स अण्णा णिव्वुदी।)
+
+[^141]: " इदानीं( दाणिं
 
 **—————————————————————————————————————————————**
 
@@ -1130,15 +1412,21 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 ** आर०—**(साभिलाषम्।) अयं स उद्देशो यस्मिन्मधुकरैरायास्यमानावलम्ब्य महाराजेन समाश्र्वासितास्मि भीरु मा विभीहीति। (अअंसो उद्देसो जस्सिं महुअरेहिं आआसिज्जन्ती ओलम्बिअ महाराएण समस्सासिदि भीरु मा भआहित्ति।)
 
- **मनोरमा—**(सहर्षम्।) कथमेषापि दृष्टा महाराजेन। सर्वथास्त्यस्या जीवितस्योपायः। यावदुपसृत्य समाश्र्वासयाम्येनाम्। (सहसोपसृत्य।) युक्तं [नाम](# "१ नाम किं, हृदयस्य - सरखीजनस्य ") हृदयस्यापि लज्जितुम्। (कहं एसा वि दिट्ठा महाराएण। सव्वहा अत्थिसे जीविदस्स उवाओ। जाव उवसप्पिअ समस्सासेमि णं । जुत्तं णाम हिअअस्स राजवि लज्जिदुं।)
+ **मनोरमा—**(सहर्षम्।) कथमेषापि दृष्टा महाराजेन। सर्वथास्त्यस्या जीवितस्योपायः। यावदुपसृत्य समाश्र्वासयाम्येनाम्। (सहसोपसृत्य।) युक्तं नाम[^142] हृदयस्यापि लज्जितुम्। (कहं एसा वि दिट्ठा महाराएण। सव्वहा अत्थिसे जीविदस्स उवाओ। जाव उवसप्पिअ समस्सासेमि णं । जुत्तं णाम हिअअस्स राजवि लज्जिदुं।)
 
-** आर०—**([सलज्ज](# " लज्जां नाटयन्ती आ०.")मात्मगतम्।) हा धिक् हा धिक्। सर्वं श्रुतमेतया। तदत्र युक्तमेव प्रकाशयितुम्। (प्रकाशं हस्ते गृहीत्वा।) प्रियसखि मा कुप्य मा कुप्य। लज्जैवात्रापराध्यति। (हद्धि हद्धि। सव्वं सुदं एदाए। ता एत्थ जुत्तं एव्व पआसइदुं। पिअसहि मा कुप्प मा कुप्प। लज्जाएव्व एत्थ अवरज्झदि।)
+[^142]: "१ नाम किं, हृदयस्य - सरखीजनस्य "
+
+** आर०—**(सलज्ज[^143]मात्मगतम्।) हा धिक् हा धिक्। सर्वं श्रुतमेतया। तदत्र युक्तमेव प्रकाशयितुम्। (प्रकाशं हस्ते गृहीत्वा।) प्रियसखि मा कुप्य मा कुप्य। लज्जैवात्रापराध्यति। (हद्धि हद्धि। सव्वं सुदं एदाए। ता एत्थ जुत्तं एव्व पआसइदुं। पिअसहि मा कुप्प मा कुप्प। लज्जाएव्व एत्थ अवरज्झदि।)
+
+[^143]: " लज्जां नाटयन्ती आ०."
 
 ** मनो०—** (सहर्षम्।) सखि अलं शङ्कया। एतन्म आचक्ष्व। सत्यमेव त्वं महाराजेन दृष्टा न वेति। (सहि अलं संकाए। एदं मे आअक्ख। सच्चं एव्व तुमं महाराएण दिट्टा ण वेत्ति)
 
 ** आर०—**(सलज्जमधोमुखी) श्रुतमेव प्रियसख्या सर्वम्। (सुदं एव्व पिअसहीए सव्वं।)
 
-** मनोरमा—**यदि दृष्टा महाराजेन त्वं तदलं संतापितेन। स एवेदानीं [दर्श](# "तब दर्श")नोपायपर्याकुलो भविष्यति। (जइ दिट्टा महाराएण तुमं ता अलं संतप्पिदेण। सो एव्व दाणिं दंसणोवाअपज्जाउलो भविस्सदि।)
+** मनोरमा—**यदि दृष्टा महाराजेन त्वं तदलं संतापितेन। स एवेदानीं दर्श[^144]नोपायपर्याकुलो भविष्यति। (जइ दिट्टा महाराएण तुमं ता अलं संतप्पिदेण। सो एव्व दाणिं दंसणोवाअपज्जाउलो भविस्सदि।)
+
+[^144]: "तब दर्श"
 
 ————————————————————————————————————
 
@@ -1146,17 +1434,25 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 
 
-** आर०—**[अयं](# "एतद्वाक्यं नास्ति पुस्तकान्तरे") सखीजनः पक्षपातेन [मन्त्र](# "एतद्वाक्यं नास्ति पुस्तकान्तरे")यते।[अयि](# " सखीजनपक्षपातेन मन्त्रयसे ( सखीअणपक्खवादेन मन्तेसि). ") सखि। पक्षपातिनि। देवीगुणनिगडनिबद्धे खलु तस्मिञ्जने कुत एतत्।(अथंसहीअणोपक्खवादे मन्तेदि। अइ सहिपक्खवादिणि। देवीगुणणिअलणिबद्धे तस्सिं जणे कुदो एदं।)
+** आर०—**अयं[^145] सखीजनः पक्षपातेन मन्त्र[^145]यते।अयि[^147]. ") सखि। पक्षपातिनि। देवीगुणनिगडनिबद्धे खलु तस्मिञ्जने कुत एतत्।(अथंसहीअणोपक्खवादे मन्तेदि। अइ सहिपक्खवादिणि। देवीगुणणिअलणिबद्धे तस्सिं जणे कुदो एदं।)
+
+[^145]: "एतद्वाक्यं नास्ति पुस्तकान्तरे"
+
+[^147]: " सखीजनपक्षपातेन मन्त्रयसे ( सखीअणपक्खवादेन मन्तेसि
 
 **मनोरमा—**(विहस्य!) हला अपण्डिते कमलिनीबद्धानुरागोऽपिमधुकरो मालतीं प्रेक्ष्याभिनवरसास्वादलम्पटः कुतस्तामनासाद्य स्थिति करोति। (हला अपण्डिदे कमलिणीबद्धाणुराओ वि महुअरो मालदा पेक्खिभ अहिणवरसास्सादलम्पडो कुदो तं अणासादिअ हिदिं करेदि।)
 
-** आर०—**किमेतेनासंभावितेन। [तदेहि](# " एतन्नास्ति क्वचित्.")। अधिकं खलु शरदातपेन संतप्तान्यद्यापि न मेऽङ्गानि संतापं मुञ्चन्ति। (किं एदिणा असंभाविदेण। ता एहि। अहिअं क्खु सरदादवेण संतप्पाइंअज्ज वि ण मे अङ्गाई संदावं मुञ्चन्दि।)
+** आर०—**किमेतेनासंभावितेन। तदेहि[^148]। अधिकं खलु शरदातपेन संतप्तान्यद्यापि न मेऽङ्गानि संतापं मुञ्चन्ति। (किं एदिणा असंभाविदेण। ता एहि। अहिअं क्खु सरदादवेण संतप्पाइंअज्ज वि ण मे अङ्गाई संदावं मुञ्चन्दि।)
+
+[^148]: " एतन्नास्ति क्वचित्."
 
  **मनोरमा—**अयि लज्जालुके न युक्तमेतदवस्थां गतयापि त आत्म प्रच्छादयितुम्। (अइ लज्जालुए ण जुत्तं एदावत्थं गदाए वि दे अप्पा पच्छादिदुं।)
 
 (आरण्यिका मुखमवनमयति।)
 
-**मनोरमा—**अयि अविश्रम्भशीले किमिदानीं प्रच्छादयसि। [निश्वा](# "अस्य स्थाने—श्वासनिभान्निर्गतो दिवस रात्रिमपि तवानुरागः।  अविरतपतन्मन्मथशरशतहुङ्कारशब्द इव ॥ (सासणिहा णिग्गमिओ दिअहं रत्तिंवि तुज्झ अणुराओ । अविरअपडंतमम्महसरसअहुंकार सदोव्व॥) इति पद्यं क्वचित्.")सनिभविनिर्गतो दिवसं रात्रिमपि तवानुरागोऽविरतपतत्कुसुमशरशरनिवहप्रवृत्तहुङ्कारशब्द इव न भणति। (आत्मगतम्।) अथवा न खल्वयं काल उपालम्भस्य।तद्यावन्नलिनीपत्राण्यस्या हृदये दास्यामि।(उत्थाय
+**मनोरमा—**अयि अविश्रम्भशीले किमिदानीं प्रच्छादयसि। निश्वा[^149] इति पद्यं क्वचित्.")सनिभविनिर्गतो दिवसं रात्रिमपि तवानुरागोऽविरतपतत्कुसुमशरशरनिवहप्रवृत्तहुङ्कारशब्द इव न भणति। (आत्मगतम्।) अथवा न खल्वयं काल उपालम्भस्य।तद्यावन्नलिनीपत्राण्यस्या हृदये दास्यामि।(उत्थाय
+
+[^149]: "अस्य स्थाने—श्वासनिभान्निर्गतो दिवस रात्रिमपि तवानुरागः।  अविरतपतन्मन्मथशरशतहुङ्कारशब्द इव ॥ (सासणिहा णिग्गमिओ दिअहं रत्तिंवि तुज्झ अणुराओ । अविरअपडंतमम्महसरसअहुंकार सदोव्व॥
 
 **—————————————————————————————————————————**
 
@@ -1164,11 +1460,17 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 
 
-दीर्घिकाया नलिनीपत्राणि गृहीत्वारण्यिकाया हृदये ददती।) [समा](# "सखि समाश्वसिहि समा०")श्वसितु सखी समाश्वसितु सखी।(अइ अविसम्भसीले किं दाणिं पच्छादेसि। णीसासणिहक्सु विणिग्गओ दिअहं रतिं वि तुज्झ अणुराओ अविरदपडन्तकुसुमसरसरणिवहपउत्तहुंकारसद्दो विअ ण भणइ।अहवा ण हु अअं कालो उवालम्भस्स। ता जाव णलिणीपत्ताईं से हिअए दाइस्सं। समस्तसदु सही समस्ससदु सही।)
+दीर्घिकाया नलिनीपत्राणि गृहीत्वारण्यिकाया हृदये ददती।) समा[^150]श्वसितु सखी समाश्वसितु सखी।(अइ अविसम्भसीले किं दाणिं पच्छादेसि। णीसासणिहक्सु विणिग्गओ दिअहं रतिं वि तुज्झ अणुराओ अविरदपडन्तकुसुमसरसरणिवहपउत्तहुंकारसद्दो विअ ण भणइ।अहवा ण हु अअं कालो उवालम्भस्स। ता जाव णलिणीपत्ताईं से हिअए दाइस्सं। समस्तसदु सही समस्ससदु सही।)
+
+[^150]: "सखि समाश्वसिहि समा०"
 
 (ततः प्रविशति विदूषकः।)
 
-** विदूषकः—**अतिमहान् खलु प्रियवयस्यस्यारण्यिकाया उपर्यनुरागः। येन परित्यक्तराजकार्यस्तस्या एव दर्शनोपायं चिन्तयन्नात्मानं विनोदयति।(विचिन्त्य।) [कुत्रे](# "तत्कु०. ")दानीं तां प्रेक्षे। अथवा तत्रैव तावद् दीर्घिकायामन्विष्यामि। ([परि](# " इति प०.")क्रामति।) (अदिमहन्तो क्खु पिअवअस्सस्स आरण्णिआए दावरि अणुराओ। जेण परिच्चत्तराअकजो ताए एव्व दंसणोवाअं चिन्तयन्तो अप्पाणं. विणोदेइ। कहिं दाणिं तं पेक्खे।अहवा तर्हि एव्व दाव दिग्विआए अण्णेसामि।)
+** विदूषकः—**अतिमहान् खलु प्रियवयस्यस्यारण्यिकाया उपर्यनुरागः। येन परित्यक्तराजकार्यस्तस्या एव दर्शनोपायं चिन्तयन्नात्मानं विनोदयति।(विचिन्त्य।) कुत्रे[^151]दानीं तां प्रेक्षे। अथवा तत्रैव तावद् दीर्घिकायामन्विष्यामि। (परि[^152]क्रामति।) (अदिमहन्तो क्खु पिअवअस्सस्स आरण्णिआए दावरि अणुराओ। जेण परिच्चत्तराअकजो ताए एव्व दंसणोवाअं चिन्तयन्तो अप्पाणं. विणोदेइ। कहिं दाणिं तं पेक्खे।अहवा तर्हि एव्व दाव दिग्विआए अण्णेसामि।)
+
+[^151]: "तत्कु०. "
+
+[^152]: " इति प०."
 
 ** मनोरमा—**(आकर्ण्य।) पदशब्द इव श्रूयते। तत्कदलीगुल्मान्तरिते भूत्वा प्रेक्षावहे तावत्क एष इति। (पदमद्दो विअ सुणीअदि। ता कदलीगुम्मन्तरिदा भविअ पेक्खह्मदाव को एसोत्ति।)
 
@@ -1176,16 +1478,22 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 ** आर०—**कथं स एव महाराजस्य पार्श्वपरिवर्ती ब्राह्मणः। (कहं सो एव्वमहाराअस्स पस्सपरिवट्ट बह्मणो।)
 
-** मनोरमा—**कथं वसन्तक एव। (सहर्ष[मात्म](# " स्वग०. ")गतम्।) अपि नाम तथा भवेत्। (कहं वसन्तओ एव्व। अवि णाम तह हवे।)
+** मनोरमा—**कथं वसन्तक एव। (सहर्षमात्म[^153]गतम्।) अपि नाम तथा भवेत्। (कहं वसन्तओ एव्व। अवि णाम तह हवे।)
 
-** विदूषकः—**(दिशोऽवलोक्य।) किमिदानीमारण्यिका सत्य[मेक](# " एवारण्यिका.") संवृत्ता। (किं दाणिं आरण्णिआ सच्चं एव्व संवृत्ता।)
+[^153]: " स्वग०. "
+
+** विदूषकः—**(दिशोऽवलोक्य।) किमिदानीमारण्यिका सत्यमेक[^154] संवृत्ता। (किं दाणिं आरण्णिआ सच्चं एव्व संवृत्ता।)
+
+[^154]: " एवारण्यिका."
 
 ** मनोरमा—**(सस्मितम्।) सखि राजवयस्यः खलु ब्राह्मणस्त्वामुद्दिश्य मन्त्रयते। तत्तावदवहिते शृणुवः। (सहि राअवअस्सो क्खु बह्मणोतुमं उद्दिस्सिअ मन्तेदि। ता दाव अवहिदा सुणहा।)
 
 (आरण्यिका सस्पृहं सलज्जं च शृणोति।)
 
 ** विदूषकः—**(सोद्वेगम्।)
-[यदा](# "यदा तावन्मया इति नास्तिपुस्तकान्तरे।") तावन्मया गुरुमदनसंतापनिस्सह–
+यदा[^155] तावन्मया गुरुमदनसंतापनिस्सह–
+
+[^155]: "यदा तावन्मया इति नास्तिपुस्तकान्तरे।"
 
 **—————————————————————————————————————————————**
 
@@ -1193,17 +1501,29 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 
 
-शरीरस्य प्रियवयस्यस्य [वचनेन](# "अस्वस्थव०.") दे[व्यो](# "देव्या वासवदत्तायाः प्रेमावस्याश्च")र्वासवदत्तापद्मावत्योरन्यासां च देवीनां भवनान्यन्विष्यता न सा दृष्टा [तदा](# "तदा यत्र दीर्घिकायां दृष्ट इति नास्ति क्व०.")यत्र दीर्घिकायां दृष्टेदमपि तावत्प्रेक्षिष्य इत्यागतोऽस्मि। तद्यावदिहापि नास्ति। किमिदानीं करिष्ये।' जदा दाब मए गुरुमअणसंदावर्णासहसरीरस्स पिअवअस्सस्स वअणेण देवीणं वासवदत्तापदुमावदीणं अण्णाणं अ देवीणं भवणाई अण्णेसन्तेण ण सा दिट्ठा तदा जहिं दिग्घिआए दिठ्ठाइदं सं वि दाव पेक्खिस्सं ति आअदोह्मि। ता जाव इह वि णत्थि। किं दाणिं करिस्सं।)
+शरीरस्य प्रियवयस्यस्य वचनेन[^156] देव्यो[^157]र्वासवदत्तापद्मावत्योरन्यासां च देवीनां भवनान्यन्विष्यता न सा दृष्टा तदा[^158]यत्र दीर्घिकायां दृष्टेदमपि तावत्प्रेक्षिष्य इत्यागतोऽस्मि। तद्यावदिहापि नास्ति। किमिदानीं करिष्ये।' जदा दाब मए गुरुमअणसंदावर्णासहसरीरस्स पिअवअस्सस्स वअणेण देवीणं वासवदत्तापदुमावदीणं अण्णाणं अ देवीणं भवणाई अण्णेसन्तेण ण सा दिट्ठा तदा जहिं दिग्घिआए दिठ्ठाइदं सं वि दाव पेक्खिस्सं ति आअदोह्मि। ता जाव इह वि णत्थि। किं दाणिं करिस्सं।)
+
+[^156]: "अस्वस्थव०."
+
+[^157]: "देव्या वासवदत्तायाः प्रेमावस्याश्च"
+
+[^158]: "तदा यत्र दीर्घिकायां दृष्ट इति नास्ति क्व०."
 
 ** मनोरमा—** श्रुतं प्रियसख्या। (सुदं पिअसहीए।)
 
-**विदूषकः—**(विचिन्त्य।) अथवा भणित एवाहं वयस्येन। यदि तामन्वि[ष्यन्न](# "अन्वेषयन्. ") प्रेक्षसे तत्ततोऽपि तावद्दीर्घिकातस्तस्याः करतल[स्पर्श](# "स्पर्शसुख")द्विगुणितसुखशीतलानि नलिनीपत्राणि गृहीत्वागच्छेति। तत्कथमेतानि ज्ञातव्यानि। (अहवा भणिदो एव्व अहं वअस्सेण। जइ तं अण्णेसन्तो ण पेक्खसि ता तदो वि दाव दिग्विआदो ताए करअलप्परिसदिउणिअसुहस्सीअलाइंणलिणीपत्ताइं गेण्हिअ आअच्छत्ति। ता कहं एदाइंजाणिदव्वाइं।)
+**विदूषकः—**(विचिन्त्य।) अथवा भणित एवाहं वयस्येन। यदि तामन्विष्यन्न[^159] प्रेक्षसे तत्ततोऽपि तावद्दीर्घिकातस्तस्याः करतलस्पर्श[^160]द्विगुणितसुखशीतलानि नलिनीपत्राणि गृहीत्वागच्छेति। तत्कथमेतानि ज्ञातव्यानि। (अहवा भणिदो एव्व अहं वअस्सेण। जइ तं अण्णेसन्तो ण पेक्खसि ता तदो वि दाव दिग्विआदो ताए करअलप्परिसदिउणिअसुहस्सीअलाइंणलिणीपत्ताइं गेण्हिअ आअच्छत्ति। ता कहं एदाइंजाणिदव्वाइं।)
+
+[^159]: "अन्वेषयन्. "
+
+[^160]: "स्पर्शसुख"
 
 ** मनोरमा—**अयं ममावसरः। (उपसृत्य विदूषकं हस्ते गृहीत्वा।) वसन्तक एहि। अहं ते ज्ञापयामि। (अअं में अवसरो। वसन्तअ एहि। अहं दे जाणावेमि।)
 
 ** विदूषकः—**(सभयम्।) कस्य त्वं ज्ञापयसि। किं देव्याः। नखलु मया किमपि मन्त्रितम्। (कस्स तुमं जाणावेसि। किं देवीए। ण हु मए किं वि मन्तिदं।)
 
-** मनोरमा—**वसन्तक अलं शङ्कया। यादृश्यारण्यिकायाः कृत आत्मनः प्रियवयस्यस्यावस्था त्वया वर्णिता ततो द्विगुणतरा भर्तुरपि कृते मम प्रियसख्या अवस्था। तत्पश्य पश्य। (उपसृत्यारण्यिकां दर्शयति।) (वसन्तअ अलं संकाए। जादिसी आरणिआए किदे अत्तणो पिअवअस्सस्स अवस्था तुए वण्णिदा तदो दिउण[दरा](# "० दरं उण ( ०तरं पुनः )") भट्टिणो वि किदे मम पिअसहीए अवत्था। ता पेख्ख पेख्ख।)
+** मनोरमा—**वसन्तक अलं शङ्कया। यादृश्यारण्यिकायाः कृत आत्मनः प्रियवयस्यस्यावस्था त्वया वर्णिता ततो द्विगुणतरा भर्तुरपि कृते मम प्रियसख्या अवस्था। तत्पश्य पश्य। (उपसृत्यारण्यिकां दर्शयति।) (वसन्तअ अलं संकाए। जादिसी आरणिआए किदे अत्तणो पिअवअस्सस्स अवस्था तुए वण्णिदा तदो दिउणदरा[^161]") भट्टिणो वि किदे मम पिअसहीए अवत्था। ता पेख्ख पेख्ख।)
+
+[^161]: "० दरं उण ( ०तरं पुनः
 
 **—————————————————————————————————————————**
 
@@ -1215,17 +1535,29 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 (आरण्यका सलज्जं कमलिनीपत्राप्यपनीयोत्तिष्ठति।)
 
-**मनोरमा—**आर्य वसन्तक। तव दर्शनेनैवापगतः प्रियसख्याः संतापो येन स्वयमेव नलिनीपत्राण्यपनयति। तदनुगृह्णात्वार्य इमानि। (अज्ज वसन्तअ तुह दंसणेण एव्व[अवगदो](# " ओगदो.") पिअसहीए संदावो जेण सअं एव्व गलिणीपत्ताई अवणेइ। ता अणुगण्हादु अज्जो इमाईं।)
+**मनोरमा—**आर्य वसन्तक। तव दर्शनेनैवापगतः प्रियसख्याः संतापो येन स्वयमेव नलिनीपत्राण्यपनयति। तदनुगृह्णात्वार्य इमानि। (अज्ज वसन्तअ तुह दंसणेण एव्वअवगदो[^162] पिअसहीए संदावो जेण सअं एव्व गलिणीपत्ताई अवणेइ। ता अणुगण्हादु अज्जो इमाईं।)
 
-** आरण्यका—**(सावेगम्।) अयि परिहासशीले। कस्मान्मां [लज्ज](# "लज्जापयसि.")यसि।(किंचित्पराङ्मुखी तिष्ठति।) (अइ परिहाससीले। कीस मं लज्जावेसि।)
+[^162]: " ओगदो."
+
+** आरण्यका—**(सावेगम्।) अयि परिहासशीले। कस्मान्मां लज्ज[^163]यसि।(किंचित्पराङ्मुखी तिष्ठति।) (अइ परिहाससीले। कीस मं लज्जावेसि।)
+
+[^163]: "लज्जापयसि."
 
 ** विदूषकः—**(सविषादम्।) तिष्ठन्तु तावन्नलिनीपत्राणि। अतिलज्जालुका तेप्रियसखी।तत्कथमेतयोः समागमो भविष्यति।(चिठ्ठदु दाव णलिणीपत्ताइं। अदिलज्जालुआ दे पिअसही। ता कहं एदाणं समाअमो भविस्सदि।
 
 ** मनोरमा—**(क्षणं विचिन्त्य सहर्म्।) वसन्तएवमिव। (कर्णे कथयति।) (वसन्तअ एव्वं विअ।)
 
-** विदूषकः—**साधु प्रियसखि साधु। (अपवार्य।) यावदेव युवांनेपथ्यग्रहणं कुरुथस्तावदेवाहमपि वयस्यं गृहीत्वागच्छामि। (इति निष्कान्तः।) साहु पिअसहि [साहु](# " साहु पिअसहि.")। जाव एव्व तुझे णेवच्छग्गहणं करेत्थ दाव एव्वअहं वि वअस्सं गेण्हिअ आअच्छामि।)
+** विदूषकः—**साधु प्रियसखि साधु। (अपवार्य।) यावदेव युवांनेपथ्यग्रहणं कुरुथस्तावदेवाहमपि वयस्यं गृहीत्वागच्छामि। (इति निष्कान्तः।) साहु पिअसहि साहु[^164]। जाव एव्व तुझे णेवच्छग्गहणं करेत्थ दाव एव्वअहं वि वअस्सं गेण्हिअ आअच्छामि।)
 
-**मनोरमा—**अतिकोपने उत्तिष्ठोत्तिष्ठ। नर्तितव्यमस्माभिस्तस्यैव नाटकस्य नर्तितशेषम्। तदेहि। प्रेक्षागृहमेव गच्छावः। (परिक्रम्यावलोक्य।) इदं प्रेक्षागारम्। यावदेहि प्रविशावः। (प्रविष्टकेनावलोक्य।) साधु साधु सर्वे सज्जीकृतम्। देव्यागन्तव्यम्। (अदिकोबणे। उट्ठेहि उट्ठेहि। [णचिदव्वं](# "णच्चिदव्व ( नर्तितव्य० ).") \`अह्मेहिं तस्स एव्व णाडअस्स णचिदसेसं। ता एहि। पेक्खाघरं एव्व गच्छह्म। इदं पेक्खा[गारं](# "०घरं. ")। जाव एहि पविसह्य। [साहु](# " साधु एदं सज्जी०.") साहु। सव्वं सज्जीकिदं। देवीए आअन्तव्वं।
+[^164]: " साहु पिअसहि."
+
+**मनोरमा—**अतिकोपने उत्तिष्ठोत्तिष्ठ। नर्तितव्यमस्माभिस्तस्यैव नाटकस्य नर्तितशेषम्। तदेहि। प्रेक्षागृहमेव गच्छावः। (परिक्रम्यावलोक्य।) इदं प्रेक्षागारम्। यावदेहि प्रविशावः। (प्रविष्टकेनावलोक्य।) साधु साधु सर्वे सज्जीकृतम्। देव्यागन्तव्यम्। (अदिकोबणे। उट्ठेहि उट्ठेहि। णचिदव्वं[^165].") \`अह्मेहिं तस्स एव्व णाडअस्स णचिदसेसं। ता एहि। पेक्खाघरं एव्व गच्छह्म। इदं पेक्खागारं[^166]। जाव एहि पविसह्य। साहु[^167] साहु। सव्वं सज्जीकिदं। देवीए आअन्तव्वं।
+
+[^165]: "णच्चिदव्व ( नर्तितव्य०
+
+[^166]: "०घरं. "
+
+[^167]: " साधु एदं सज्जी०."
 
 (ततः प्रविशति देवी साङ्कृत्यायनी विभवतश्च परिवारः। )
 
@@ -1237,12 +1569,18 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 **वासवदत्ता—**भगवति अहो ते कवित्वम्। येनैतद्द्भूढवृत्तान्तं नाटकोपनिबद्धं सानुभवमप्यस्माकमार्यपुत्रचरितमदृष्टपूर्वमिव दृश्यमानमधिकतरं कौतूहलं वर्धयति। (भवअदि अहो दे कवित्तणं। जेण एदं गूढउत्तन्तं णाडओवाणबद्धं साणुभवं वि अह्माणं अज्जउत्तचरिदं अदिठ्ठपुव्वं विअ दिसन्तं अहिअअरं कोदूहलं वढ्ढअदि।
 
-** साङ्कृत्यायनी—**आयुष्मति आश्रयगुण एवायमीदृशो यदसारमपि काव्यमवश्यमेव शृण्वतां श्रवणसुखमुत्पाद[यति](# "यतीति. ")। पश्य।
+** साङ्कृत्यायनी—**आयुष्मति आश्रयगुण एवायमीदृशो यदसारमपि काव्यमवश्यमेव शृण्वतां श्रवणसुखमुत्पादयति[^168]। पश्य।
+
+[^168]: "यतीति. "
 
 **प्रायो यत्किंचिदपि प्राप्नोत्युत्कर्षमाश्रयान्महतः।  
 मत्तेभकुम्भतटगतमेति हि शृङ्गारतां भस्म॥१॥**
 
-** वासवदत्ता—**(सस्मितम्) भगवति सर्वस्य वल्लभो जामाता भवतीति ज्ञायत एवै[तत्](# "एव.")। तत्किमेतेन कथानुबन्धेन। वरं तदेव नर्तितव्यं द्रष्टुम्। (भअवदि सव्वस्स वल्लहो जामादो होदित्ति जाणिअदि एव्व एदं। ता किं एदिणा कहाणुबन्धेण । वरं तं एव्व [णच्चि](# "णच्चिदं.")दव्वं दठ्ठुं।)
+** वासवदत्ता—**(सस्मितम्) भगवति सर्वस्य वल्लभो जामाता भवतीति ज्ञायत एवैतत्[^169]। तत्किमेतेन कथानुबन्धेन। वरं तदेव नर्तितव्यं द्रष्टुम्। (भअवदि सव्वस्स वल्लहो जामादो होदित्ति जाणिअदि एव्व एदं। ता किं एदिणा कहाणुबन्धेण । वरं तं एव्व णच्चि[^170]दव्वं दठ्ठुं।)
+
+[^169]: "एव."
+
+[^170]: "णच्चिदं."
 
 ** साङ्कृत्यायनी—**एवम्। इन्दीवरिके प्रेक्षागृहमादेशय।
 
@@ -1263,7 +1601,9 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 ** मनोरमारण्यिके—**(उपसृत्य।) जयतु जयतु भट्टिनी।(जेदु जेदुभट्टिणी।)
 
-** वासवदत्ता—**मनोरमे अतिक्रान्ता खलु संध्या। तद्गच्छतम्। लघु गृह्णीतं नेपथ्यम्। ([मणो](# "एतन्नास्ति पुस्तकान्तरे")रमे अदिक्कन्दा क्खु संज्झा ता गच्छह। लहु गण्हह णोवच्छं।)
+** वासवदत्ता—**मनोरमे अतिक्रान्ता खलु संध्या। तद्गच्छतम्। लघु गृह्णीतं नेपथ्यम्। (मणो[^171]रमे अदिक्कन्दा क्खु संज्झा ता गच्छह। लहु गण्हह णोवच्छं।)
+
+[^171]: "एतन्नास्ति पुस्तकान्तरे"
 
 ** उभे —** यद्देव्याज्ञापयति। (इति प्रस्थिते।) (जं देवी आणवेदि।)
 
@@ -1271,11 +1611,15 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 (मनोरमा इन्दीवरिकासकाशादाभरणानि गृहीत्वा सहारष्यिकया निष्क्रान्ता।)
 
-** इन्दीवरिका —** इदमासनम्। उपविशतु भट्टिनी। ([एदं](# " इदं. ") आसणं। उवविसदु भट्टिणी)
+** इन्दीवरिका —** इदमासनम्। उपविशतु भट्टिनी। (एदं[^172] आसणं। उवविसदु भट्टिणी)
+
+[^172]: " इदं. "
 
  **वासवदत्ता—**(आसनं निर्दिश्य।) उपविशतु भगवती। (उवविसदु भअवदी)
 
-(उभे उप[विशतः](# "आसनग्रहणं नाटयतः.")।)
+(उभे उपविशतः[^173]।)
+
+[^173]: "आसनग्रहणं नाटयतः."
 
 (ततः प्रविशति गृहीतनेपथ्यः कञ्चुकी।)
 
@@ -1297,14 +1641,20 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 ** साङ्कृत्यायनी—**(कञ्चुकिनं निर्दिश्य।) राजपुत्रि प्रवृत्ता प्रेक्षा दृश्यताम्।
 
-** कञ्चुकी—**त[देत](# "एतावदेव")दादेष्टव्यं परिजनेन सह गन्तव्यमिति। [न](# "गृहीत० नादेष्टव्यम् ; न वेषोज्वंलेनेति")गृहीतनेपथ्येनेति। कुतः।
+** कञ्चुकी—**तदेत[^174]दादेष्टव्यं परिजनेन सह गन्तव्यमिति। न[^175]गृहीतनेपथ्येनेति। कुतः।
+
+[^174]: "एतावदेव"
+
+[^175]: "गृहीत० नादेष्टव्यम् ; न वेषोज्वंलेनेति"
 
 **पादैर्नूपुरिभिर्नितम्बफलकैः शिञ्जानकाञ्चीगुणै-  
 र्हारापादितकान्तिभिः स्तनतटैः केयूरिभिर्बाहुभिः।  
 कर्णैः कुण्डलिभीः करैः सवलयैः सस्वस्तिकैर्मूर्धजै-  
 र्देवीनां परिचारिकापरिजनोऽप्येतेषु संदृश्यते॥४॥**
 
-न खलु किंचिदत्रापूर्वमनुष्ठेयम्। केवलं स्वाम्यादेश इति मत्वाहं [समा](# " समादिष्टं.")दिष्टस्तदाज्ञाशेषं राजपुत्र्यै निवेदयामि। (परिक्रम्यावलोक्य च।) इयं
+न खलु किंचिदत्रापूर्वमनुष्ठेयम्। केवलं स्वाम्यादेश इति मत्वाहं समा[^176]दिष्टस्तदाज्ञाशेषं राजपुत्र्यै निवेदयामि। (परिक्रम्यावलोक्य च।) इयं
+
+[^176]: " समादिष्टं."
 
 **————————————————————————————————————**
 
@@ -1317,13 +1667,21 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 (ततः प्रविशति गृहीतवासवदत्तानेपथ्यासनस्थारण्यिका  
 वीणाहस्ता काञ्चनमाला च।)
 
-** आर०—**हला काञ्चनमाले कस्मात्पुनश्चि[रय](# "चिरयतेद्य. ")त्यद्यापि वीणाचार्यः।(हला कञ्चणमाले कीस उण चिराअदि अज्ज वि वीणाआरिओ।)
+** आर०—**हला काञ्चनमाले कस्मात्पुनश्चिरय[^177]त्यद्यापि वीणाचार्यः।(हला कञ्चणमाले कीस उण चिराअदि अज्ज वि वीणाआरिओ।)
 
-** काञ्च०—**भर्तृदारिके दृष्टस्तेनैक उन्मत्तः। तस्य वचनं [श्रुत्वा](# "सुणिअ तेण भाविदत्थो हसन्तो (भावितार्थो हसन्). ") चित्रेण भावितोऽपहसंस्तिष्ठति। (भट्टिदारिए दिठ्ठोदेण एक्को उम्मत्तो।तस्स वअणं सुणिअ चित्तेण भाविदो ओहसन्तो चिठ्ठह्न।)
+[^177]: "चिरयतेद्य. "
 
-** आर०—**(सहस्ततालं विहस्य।) हञ्जे[सुष्ठे्व](# "सुष्वेतद्भण्यते (भणीअदि ) ... रज्जन्तीति. ")तं पृच्छति। सदृशाः सदृशे रजन्त इति द्वावत्रोन्मत्तौ। (हञ्जे सुठु एदं पुच्छदि। सरिसा सरिसें रञ्जन्तित्ति दुवे एत्थ उम्मत्ता।)
+** काञ्च०—**भर्तृदारिके दृष्टस्तेनैक उन्मत्तः। तस्य वचनं श्रुत्वा[^178]. ") चित्रेण भावितोऽपहसंस्तिष्ठति। (भट्टिदारिए दिठ्ठोदेण एक्को उम्मत्तो।तस्स वअणं सुणिअ चित्तेण भाविदो ओहसन्तो चिठ्ठह्न।)
 
-** साङ्कृत्यायनी—**[राजपुत्र्याः](# "राजपुत्रि यादृशमाका ०.:") सदृशमाकारं पश्याम्यस्यास्तादृशेनाकारेणावश्यं त्वदीयां भूमिकां संभावयिष्यति।
+[^178]: "सुणिअ तेण भाविदत्थो हसन्तो (भावितार्थो हसन्
+
+** आर०—**(सहस्ततालं विहस्य।) हञ्जेसुष्ठे्व[^179] ... रज्जन्तीति. ")तं पृच्छति। सदृशाः सदृशे रजन्त इति द्वावत्रोन्मत्तौ। (हञ्जे सुठु एदं पुच्छदि। सरिसा सरिसें रञ्जन्तित्ति दुवे एत्थ उम्मत्ता।)
+
+[^179]: "सुष्वेतद्भण्यते (भणीअदि
+
+** साङ्कृत्यायनी—**राजपुत्र्याः[^180] सदृशमाकारं पश्याम्यस्यास्तादृशेनाकारेणावश्यं त्वदीयां भूमिकां संभावयिष्यति।
+
+[^180]: "राजपुत्रि यादृशमाका ०.:"
 
 ** कञ्चुकी—**(उपसृत्य।) राजपुत्रि देवस्त्वामाज्ञापयति। श्वोऽवश्यमस्माभिर्वीणां वादयन्ती श्रोतव्या। तत्त्वत्या नवतन्त्रीसज्जयाः घोषवत्याः स्थेयमिति।
 
@@ -1373,7 +1731,9 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 
 
-** विदूषकः—**एते खलु राजानो दा[स्या](# "दासीव्व (दास्य इव)")पि एवं नर्त्यन्ते। अहोकार्यस्य गुरुता। (एदे क्खु राणाओ दासीए वि एव्वं णच्चाविआन्ति। अहो कज्जस्स गरुअदा।)
+** विदूषकः—**एते खलु राजानो दास्या[^181]")पि एवं नर्त्यन्ते। अहोकार्यस्य गुरुता। (एदे क्खु राणाओ दासीए वि एव्वं णच्चाविआन्ति। अहो कज्जस्स गरुअदा।)
+
+[^181]: "दासीव्व (दास्य इव
 
 ** राजा****—**(विहस्य।) मूर्ख नैष कालः परिहासस्य। निभृतेन चित्रशालां प्रविश्य मनोरमया सहास्मन्नृत्तं पश्यता स्थीयताम्।
 
@@ -1387,12 +1747,18 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 ** आर०—**सत्यमेव तातो मन्त्रयते एवं यथा–यदि वीणां वादयन्त्रपहरति मां वत्सराजोऽवश्यं बन्धनान्मुञ्चामीति। (सच्चं एव तादो मन्तेदि एव्वं जह जइ वीणं वादअन्तो अवहरेदि मं वच्छराओ अवस्सं बन्धणादो मुञ्चेमित्ति।)
 
-** राजा—**(प्रविश्य पटाक्षेपेण सहर्षे वस्त्रान्ते [ग्रथि](# " ग्रन्थि")तं बध्नाति।) एवमेतत्। कः संदेहः।
+** राजा—**(प्रविश्य पटाक्षेपेण सहर्षे वस्त्रान्ते ग्रथि[^182]तं बध्नाति।) एवमेतत्। कः संदेहः।
+
+[^182]: " ग्रन्थि"
 
 **सपरिजनं प्रद्योतं विस्मयमुपनीय वादयन्वीणाम्।  
-[वास](# "दत्तापहरणमपि दत्ताहरणं; पश्याम्यहं")वदत्तामपहरामि न चिरादेवेति पश्यामि॥६**॥
+वास[^183]वदत्तामपहरामि न चिरादेवेति पश्यामि॥६**॥
 
- यतः [सुसं](# " सुसंनिहितं.")विहितं सर्वं यौगन्धरायणेन।
+[^183]: "दत्तापहरणमपि दत्ताहरणं; पश्याम्यहं"
+
+ यतः सुसं[^184]विहितं सर्वं यौगन्धरायणेन।
+
+[^184]: " सुसंनिहितं."
 
  **वासवदत्ता—**(सहसोत्थाय।) जयतु जयत्वार्यपुत्रः। (जेदु जेदु अच्चउत्तो।)
 
@@ -1406,24 +1772,36 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 
 
-** राजा—**(आत्मगतं सहर्षम्) इदानीमु[च्छ्वा](# "उछ्वसि०")सितोऽस्मि ।
+** राजा—**(आत्मगतं सहर्षम्) इदानीमुच्छ्वा[^185]सितोऽस्मि ।
 
-** वासवदत्ता—**(सविलक्षस्मितमुपविश्य।) कथं मनोरमैषा। मया पुनर्ज्ञातमार्यपुत्र एष इति। साधु मनोरमे साधु। शोभनं नर्तितम्। (कहं मणो[रमा](# "रमा क्खु. ")एसा। मए उण जाणिदं अज्जउत्तो एसोत्ति। साहु मणोरमे साहु।-सोहणं णञ्चिदं।)
+[^185]: "उछ्वसि०"
 
-** साङ्कृत्या०—**राजपुत्रि स्थान एव [कृता](# " कारिता भ्रान्तिर्मनो०")भ्रान्तिस्ते मनोरमया। पश्य।
+** वासवदत्ता—**(सविलक्षस्मितमुपविश्य।) कथं मनोरमैषा। मया पुनर्ज्ञातमार्यपुत्र एष इति। साधु मनोरमे साधु। शोभनं नर्तितम्। (कहं मणोरमा[^186]एसा। मए उण जाणिदं अज्जउत्तो एसोत्ति। साहु मणोरमे साहु।-सोहणं णञ्चिदं।)
+
+[^186]: "रमा क्खु. "
+
+** साङ्कृत्या०—**राजपुत्रि स्थान एव कृता[^187]भ्रान्तिस्ते मनोरमया। पश्य।
+
+[^187]: " कारिता भ्रान्तिर्मनो०"
 
 **रूपं तन्नयनोत्सवास्पदमिदं वेषः स एवोज्ज्वलः  
 सा मत्तद्विरदोचिता गतिरियं तत्सत्त्वमत्यूर्जितम्।  
 लीला सैव स एव सान्द्रजलदह्रादानुकारी स्वरः  
 साक्षाद्दर्शित एष नः कुशलया वत्सेश एवानया॥७॥**
 
- **वासवदत्ता—**हञ्जेइन्दीवरिके बद्धेनार्यपुत्रेणाहं वीणां शिक्षिता। तदस्य कुरु नीलोत्पलदामकेन निगडनम्। (शिरसोऽपनीय नीलोत्पलदामार्पयति।) (हञ्जे इन्दीवरिए। बद्धेण अज्जउत्तेण अहं वीणं सिक्खाविदा। ता से (करेहि णीलुप्पलदामरण [णिअलणम्](# " णिअलं.")।)
+ **वासवदत्ता—**हञ्जेइन्दीवरिके बद्धेनार्यपुत्रेणाहं वीणां शिक्षिता। तदस्य कुरु नीलोत्पलदामकेन निगडनम्। (शिरसोऽपनीय नीलोत्पलदामार्पयति।) (हञ्जे इन्दीवरिए। बद्धेण अज्जउत्तेण अहं वीणं सिक्खाविदा। ता से (करेहि णीलुप्पलदामरण णिअलणम्[^188]।)
 
-(इन्दीवरिका तथा कृत्वा पुनस्तत्रैवो[पवि](# " तथैव.")शति।)
+[^188]: " णिअलं."
+
+(इन्दीवरिका तथा कृत्वा पुनस्तत्रैवोपवि[^189]शति।)
+
+[^189]: " तथैव."
 
 ** आरण्यिका—**काञ्चनमाले कथय कथय। ननु सत्यमेव मन्त्रयते तातो यदि वीणां वादयन्नपहरति मां वत्सराजस्ततोऽवश्यं बन्धनान्मुञ्चामीति। (कञ्जणमाले कहेहि कहेहि। णं सच्च एव्व मन्तेदि तादो जइ वीणं वादअन्तो अवहरोद मं वच्छराओ तदो अवस्सं बन्धणादो मुञ्चेमित्ति।)
 
-** काञ्चनमाला—**भर्तृदारिके [सत्यम्](# " सत्यमेव.")। तथा कुरु यथा वत्सराजस्यावश्यं बहुमता भवसि। (भट्टिदारिए सच्चं।तह करेहि जह वच्छराअस्स अवस्सं बहुमदा होसि। )
+** काञ्चनमाला—**भर्तृदारिके सत्यम्[^190]। तथा कुरु यथा वत्सराजस्यावश्यं बहुमता भवसि। (भट्टिदारिए सच्चं।तह करेहि जह वच्छराअस्स अवस्सं बहुमदा होसि। )
+
+[^190]: " सत्यमेव."
 
 **————————————————————————————————————**
 
@@ -1431,22 +1809,34 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 
 
-** राजा—**निष्पादितमेव काञ्चनमालया यत्तदास्माभिरभि[लषितम्](# "आलपितव्यम्. ")।
+** राजा—**निष्पादितमेव काञ्चनमालया यत्तदास्माभिरभिलषितम्[^191]।
+
+[^191]: "आलपितव्यम्. "
 
 ** आरण्यका—**यद्येवं तदादरेण वादयिष्यामि। (गायन्ती वादयति) (जइ एव्वं ता आदरेण वादइस्सं।)
 
-**घनबन्धनसंरुद्धं गगनं दृष्ट्रा मानसमे[तुम्](# "णेदुं ( नेतुं ). ")॥  
+**घनबन्धनसंरुद्धं गगनं दृष्ट्रा मानसमेतुम्[^192]. ")॥  
 अभिलषति राजहंसो दयितां गृहीत्वात्मनो वसतिम्॥८॥**
 
-घणबन्धणसंरुद्धं गअणं दद्रुण माणसं [एदुं](# "णेदुं ( नेतुं ). ")॥
+[^192]: "णेदुं ( नेतुं
 
-अहिलसइ राअहंसा दइअं घे[ऊण](# " घेत्तूण") अप्पणो वसइं॥
+घणबन्धणसंरुद्धं गअणं दद्रुण माणसं एदुं[^192]. ")॥
+
+[^192]: "णेदुं ( नेतुं
+
+अहिलसइ राअहंसा दइअं घेऊण[^194] अप्पणो वसइं॥
+
+[^194]: " घेत्तूण"
 
 (विदूषको निद्रां नाटयति।)
 
 ** मनोरमा—**(हस्तेन चालयन्ती।) वसन्तक पश्य पश्य। प्रियसखी मे नृत्यति (वसन्तअ पेक्ख पेक्ख पिअसही मे णच्चइ।)
 
-** विदूषकः—**(सरोषम्।) दास्याः सुते त्वमपि न ददासि स्वप्तुम्।यदाप्रभृति प्रियवयस्येनारण्यिका दृष्टा तदाप्रभृति तेन सह मया [रात्रं](# "दिवारत्तं ( दिवारात्रिं ). ")दिवं निद्रा न दृष्टा। तदन्यतो निष्क्रम्य स्वप्स्यामि। ([निष्क्रम्य](# "इति नि०") शेते) (दासीए सुदे तुमं वि ण देसि सुविदुं। जदप्पहुदि पिअवअस्सेण आरणिआ दिठ्ठातदप्पहुदि तेण सह मए रत्तंदिवं णिद्दा ण दिठ्ठा। ता अण्णदो णिक्कमिअ सुविस्सं।)
+** विदूषकः—**(सरोषम्।) दास्याः सुते त्वमपि न ददासि स्वप्तुम्।यदाप्रभृति प्रियवयस्येनारण्यिका दृष्टा तदाप्रभृति तेन सह मया रात्रं[^195]. ")दिवं निद्रा न दृष्टा। तदन्यतो निष्क्रम्य स्वप्स्यामि। (निष्क्रम्य[^196] शेते) (दासीए सुदे तुमं वि ण देसि सुविदुं। जदप्पहुदि पिअवअस्सेण आरणिआ दिठ्ठातदप्पहुदि तेण सह मए रत्तंदिवं णिद्दा ण दिठ्ठा। ता अण्णदो णिक्कमिअ सुविस्सं।)
+
+[^195]: "दिवारत्तं ( दिवारात्रिं
+
+[^196]: "इति नि०"
 
 (आरण्यका पुनर्गायति।)
 
@@ -1456,7 +1846,9 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 अहिणवराअक्खित्ता महुअरिआ वामएण कामेण।  
 उत्तम्मइ पत्थन्ती दठ्ठंपिअदंसणं दइअं॥
 
-** राजा—**([तत्क्षणं](# " एतन्नास्ति पुस्तकान्तरे.") श्रुत्वा सहसोपसृत्य।) साधु राजपुत्रि साधु। अहो गीतमहो वादित्रम्। तथाहि।
+** राजा—**(तत्क्षणं[^197] श्रुत्वा सहसोपसृत्य।) साधु राजपुत्रि साधु। अहो गीतमहो वादित्रम्। तथाहि।
+
+[^197]: " एतन्नास्ति पुस्तकान्तरे."
 
 **—————————————————————————————————————————————**
 
@@ -1465,12 +1857,18 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 
 
-**[व्यक्ति](# "वृत्तिः")र्व्यञ्जनधातुना दशविधेनाप्यत्र लब्धा[धु](# "अमुना.")ना  
+**व्यक्ति[^198]र्व्यञ्जनधातुना दशविधेनाप्यत्र लब्धाधु[^199]ना  
 विस्पष्टो द्रुतमध्यलम्बितपरिच्छिन्नस्त्रिधायं लयः।  
 गोपुच्छप्रमुखाः क्रमेण यतयस्तिस्रोऽपि संपादिता-  
 स्तत्वौघानुगताश्च वाद्यविधयः सम्यक्त्रयो दर्शिताः॥१०॥**
 
-** आरण्यिका–**(वीणां [परिष्व](# "परित्यज्य.")ज्यासनादुत्थाय राजानं साभिलाषं पश्यन्ती।) उपाध्याय प्रणमामि। (उवज्झाअ पणमामि)
+[^198]: "वृत्तिः"
+
+[^199]: "अमुना."
+
+** आरण्यिका–**(वीणां परिष्व[^200]ज्यासनादुत्थाय राजानं साभिलाषं पश्यन्ती।) उपाध्याय प्रणमामि। (उवज्झाअ पणमामि)
+
+[^200]: "परित्यज्य."
 
 ** राजा—**(सस्मितम्।) यदहमिच्छामि तत्ते भूयात्।
 
@@ -1485,7 +1883,9 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 ** राजा—** (उपविश्य।) राजपुत्री क्केदानीमुपविशतु।
 
- **काञ्चनमाला—**(सस्मितम्।) इदानीमेव भर्तृदारिका [विद्या](# "विद्यागुणपरि०-ध्यायपीठिकायै.")मानेन परितोषिता युष्माभिः। तदर्हत्येवैपोपाध्यायपीठिकायाः। (दाणिं एव्व भट्टिदारिआ विज्जामाणेन परितोसिदा तुह्मेहिं। ता अरुहृदि एव्व एसा उवज्झाअपीठिआए।)
+ **काञ्चनमाला—**(सस्मितम्।) इदानीमेव भर्तृदारिका विद्या[^201]मानेन परितोषिता युष्माभिः। तदर्हत्येवैपोपाध्यायपीठिकायाः। (दाणिं एव्व भट्टिदारिआ विज्जामाणेन परितोसिदा तुह्मेहिं। ता अरुहृदि एव्व एसा उवज्झाअपीठिआए।)
+
+[^201]: "विद्यागुणपरि०-ध्यायपीठिकायै."
 
 ** राजा—**उपविशत्वर्हेयमर्धासनस्य। राजपुत्रि स्थीयताम्।
 
@@ -1496,15 +1896,21 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 (आरण्यका सलज्जमुपविशति।)
 
 ** वासवदत्ता****—**(सलज्जम्।) भगवत्याधिकं कल्पितं काव्यम्। न खल्वहंतस्मिन्काल एकासने आर्यपुत्रेण सहोपविष्टा।(भअवदीये अहिअं कप्पिदं
-कव्वं। णहु अहं तस्सिं काले एक्कासणे अज्जउत्तेण सह उव[विठ्ठा](# "उवठ्ठिदा ( उपस्थिता)")।)
+कव्वं। णहु अहं तस्सिं काले एक्कासणे अज्जउत्तेण सह उवविठ्ठा[^202]")।)
+
+[^202]: "उवठ्ठिदा ( उपस्थिता
 
  **राजा—**राजपुत्रि पुनः श्रोतुमिच्छामि। वादय वीणाम्।
 
 **आरण्यिका—**(सस्मितम्।) काञ्चनमाले चिरं खलु मम वादयन्त्याः परिश्रमो जातः। इदानीं निःसहान्यङ्गानि। तन्न शक्नोमि वादयितुम्।(कञ्चणमाले चिरं खु मम वादअन्तीए परिस्समो जादो। दाणिं णिस्सहाई अङ्गाई। ता ण सक्कुणोमि वादइदुं।)
 
- **काञ्चनमाला—**उपाध्याय सुष्ठु परिश्रान्ता भर्तृदारिका। कपोलतलबद्धस्वे[दलवा](# "स्वेदकणजालका। ")याः पश्यास्या वेपेते अग्रहस्तौ। तत्समाश्वस्ता भवतु ति। मुहूर्तम्।(उवज्झाअ सुष्ठु परिस्सन्ता भट्टिदारिआ। कवोलतलबद्धसेअलवाए पेक्ख से वेवन्ति अग्गहत्था। ता समस्सत्ता होतु मुहुत्तअं। )
+ **काञ्चनमाला—**उपाध्याय सुष्ठु परिश्रान्ता भर्तृदारिका। कपोलतलबद्धस्वेदलवा[^203]याः पश्यास्या वेपेते अग्रहस्तौ। तत्समाश्वस्ता भवतु ति। मुहूर्तम्।(उवज्झाअ सुष्ठु परिस्सन्ता भट्टिदारिआ। कवोलतलबद्धसेअलवाए पेक्ख से वेवन्ति अग्गहत्था। ता समस्सत्ता होतु मुहुत्तअं। )
 
-** राजा—**काञ्चनमाले युक्तमभिहितम्। ([हस्ते](# "हस्ते")नग्रहीतुमिच्छति।)
+[^203]: "स्वेदकणजालका। "
+
+** राजा—**काञ्चनमाले युक्तमभिहितम्। (हस्ते[^204]नग्रहीतुमिच्छति।)
+
+[^204]: "हस्ते"
 
 (आरण्यिका हस्तमपसारयति।)
 
@@ -1520,16 +1926,20 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
  **आर०—**(सरोषमिव।) अपेहि काञ्चनमाले अपेहि। न मेबहुमतासि। (अवेहि कञ्चणमाले अवेहि। ण मे बहुमदासि ।)
 
-** काञ्चन०—**(सस्मितम्।) यद्यहं तिष्ठन्ती न बहुमता तदेषा गच्छामि। (इति निष्कान्ता।) ( जइ अहं चिठ्ठन्ती ण बहुमदा ता [एसा](# "अहं") गच्छाह्मि)
+** काञ्चन०—**(सस्मितम्।) यद्यहं तिष्ठन्ती न बहुमता तदेषा गच्छामि। (इति निष्कान्ता।) ( जइ अहं चिठ्ठन्ती ण बहुमदा ता एसा[^205] गच्छाह्मि)
+
+[^205]: "अहं"
 
 ** आर०—**(ससंभ्रमम्।) काञ्चनमाले तिष्ठ तिष्ठ। अयमस्याग्रहस्तः समर्पितः। (कञ्चणमाले चिठ्ठचिठ्ठ।अहं से अग्गहत्थो समप्पिदो।)
 
 ** राजा****—**(आरण्यिकाया हस्तं गृहीत्वा।)
 
 **सद्योऽवश्यायबिन्दुव्यतिकरशिशिरः किं भवेत्पद्मकोशो  
-ह्रादित्वं नास्य मन्ये सदृशमिदमुषस्येव वी[ततप](# "पीता०.")स्य।  
+ह्रादित्वं नास्य मन्ये सदृशमिदमुषस्येव वीततप[^206]स्य।  
 मुञ्चन्त्येते हिमौघं नखरजनिकराः पञ्च किं सोऽपि दाही  
 ज्ञातं स्वेदापदेशादविरतममृतं स्यन्दते व्यक्तमेतत्॥११॥**
+
+[^206]: "पीता०."
 
  अपि च।
 
@@ -1542,7 +1952,9 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 
 
-  **आर०—**(स्पर्शविशेषं नाटयन्ती।) हा धिक् हा धिक्। एतां मनोरमां स्पृशन्त्या अनर्थमेव मेऽङ्गानि कुर्वन्ति। (हद्धि हद्धि। एदं मणोरमं प[रिस](# "न्तीए अग्गहत्थेण एव्व विकेरन्ति (न्त्या अग्रहस्तेनैव विकुर्वते)")न्तीए अणत्थं एव्व मे अङ्गाई करेन्ति।)।
+  **आर०—**(स्पर्शविशेषं नाटयन्ती।) हा धिक् हा धिक्। एतां मनोरमां स्पृशन्त्या अनर्थमेव मेऽङ्गानि कुर्वन्ति। (हद्धि हद्धि। एदं मणोरमं परिस[^207]")न्तीए अणत्थं एव्व मे अङ्गाई करेन्ति।)।
+
+[^207]: "न्तीए अग्गहत्थेण एव्व विकेरन्ति (न्त्या अग्रहस्तेनैव विकुर्वते
 
  **वासवदत्ता**—(सहसोत्थाय।) भगवति पश्य त्वम्। अहं पुनरलीकं न पारयामि प्रेक्षितुम्। (भअवदि पेक्ख तुमं। अहं उण अलिअं ण पारेमि पेक्खिदुं।)
 
@@ -1570,17 +1982,25 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 ** वासवदत्ता—**(सरोषं हसन्ती।) साधु मनोरमे साधु। शोभनं त्वया नर्तितम्। (साहु मणोरमे साहु। सोहणं तुए णचिदं।)
 
-** मनो०—**(सभयं कम्पमाना पादयोर्निपत्य।) भट्टिनि न खल्वहमत्रापराध्यामि। एतेन खलु हताशेन बलादलंकरणानि गृहीत्वा द्वारस्थितेनेह निरुद्धा। न पुनर्ममाक्रन्दन्त्याः शब्दो मुरजनिर्घोषान्तरितः केनापि श्रुतः।(भट्टिणि ण हु अहं एत्थ अवरज्झामि। एदेण खु हदासेण बलादो अलंकरणाइं गेण्हिअ दुवारट्ठिदेण इह णिरुद्धा। ण उण मह अक्कन्दन्तीए सद्दो [मुरअणि](# "मुक्ख ( मूर्खनि० ); मए आक्वन्दिदेवि... दरिदो (षान्तरितो) न केण वि सद्दो")ग्धोसन्तरिओ केण वि सुदो।)
+** मनो०—**(सभयं कम्पमाना पादयोर्निपत्य।) भट्टिनि न खल्वहमत्रापराध्यामि। एतेन खलु हताशेन बलादलंकरणानि गृहीत्वा द्वारस्थितेनेह निरुद्धा। न पुनर्ममाक्रन्दन्त्याः शब्दो मुरजनिर्घोषान्तरितः केनापि श्रुतः।(भट्टिणि ण हु अहं एत्थ अवरज्झामि। एदेण खु हदासेण बलादो अलंकरणाइं गेण्हिअ दुवारट्ठिदेण इह णिरुद्धा। ण उण मह अक्कन्दन्तीए सद्दो मुरअणि[^208]; मए आक्वन्दिदेवि... दरिदो (षान्तरितो) न केण वि सद्दो")ग्धोसन्तरिओ केण वि सुदो।)
+
+[^208]: "मुक्ख ( मूर्खनि०
 
 ** वासवदत्ता—**हञ्जेउत्तिष्ठ। ज्ञातं सर्वम्। वसन्तकः खल्वारण्यिकावृत्तान्तनाटके सूत्रधारः। (हञ्जे उठ्ठेहि। जाणिदं सव्वं। वसन्तओ क्खुआरण्णिआउत्तन्तणाडए सुत्तधारो।)
 
 ** विदूषकः—**स्वयमेव चिन्तय। कुत्रारण्यिका कुत्र वसन्तक इति। (सअं एव्व चिन्तेहि। कहिं आरणिआ कहिं वसन्तओत्ति।)
 
-** वासवदत्ता**—मनोरमे सुगृहीतं कृत्वैनमागच्छ तावत्। प्रेक्षणीयमस्य पश्यामि। (मणोरमे सुग्गहीदं करिअ णं [आअच्छ](# "आअच्छ। पेक्ख से पेक्खह्म.") दाव।पेक्खणीअं से पेक्खह्मि।)
+** वासवदत्ता**—मनोरमे सुगृहीतं कृत्वैनमागच्छ तावत्। प्रेक्षणीयमस्य पश्यामि। (मणोरमे सुग्गहीदं करिअ णं आअच्छ[^209] दाव।पेक्खणीअं से पेक्खह्मि।)
+
+[^209]: "आअच्छ। पेक्ख से पेक्खह्म."
 
 ** मनो०—**(स्वगतम्।) इदानीं समाश्वसितास्मि (विदूषकं करे बध्नाति। प्रकाशम्॥) हताश इदानीमनुभवात्मनो दुर्नयस्य फलम्। (दाणिं समस्ससिदह्मि। हदास दाणिंअणुभव अत्तणो दुण्णअस्स फलं।)
 
-** वासवदत्ता—**(ससंभ्रममुपसृत्य।) आर्यपुत्र प्रतिहतमेतदमङ्गलम्। (इति पादयोर्नीलोत्पलदा[मापनयन्ती](# "अपनयति।") [सोत्प्रासम्](# "(सोत्प्रासं) मर्षयतु इत्यादि राजा वैलक्ष्यं नाटयति ' इत्येतस्य परस्तात्पठ्यते पुस्तकान्तरे। जं इत्यत्र तुमं इ. पा. च.")।) मर्षत्वार्यपुत्रो यन्मनोरमेति कृत्वा नीलोत्पलदामकेन बन्धितोऽसि। (अज्जउत्त पडिहदं एदं अमङ्गलं। मरिसदु अज्जउत्तो जं मणोरमेत्ति करिअ णीलुप्पलदामएण बन्घाविदोसि।)
+** वासवदत्ता—**(ससंभ्रममुपसृत्य।) आर्यपुत्र प्रतिहतमेतदमङ्गलम्। (इति पादयोर्नीलोत्पलदामापनयन्ती[^210] सोत्प्रासम्[^211] मर्षयतु इत्यादि राजा वैलक्ष्यं नाटयति ' इत्येतस्य परस्तात्पठ्यते पुस्तकान्तरे। जं इत्यत्र तुमं इ. पा. च.")।) मर्षत्वार्यपुत्रो यन्मनोरमेति कृत्वा नीलोत्पलदामकेन बन्धितोऽसि। (अज्जउत्त पडिहदं एदं अमङ्गलं। मरिसदु अज्जउत्तो जं मणोरमेत्ति करिअ णीलुप्पलदामएण बन्घाविदोसि।)
+
+[^210]: "अपनयति।"
+
+[^211]: "(सोत्प्रासं
 
 (आरण्यिका सभयमपसृत्य तिष्ठति।)
 
@@ -1590,7 +2010,9 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 
 
-**  राजा—**(सहसोत्थाय विदूषकं मनोरमां च दृष्ट्वात्मगतम्।) कथं विज्ञातोस्मि दे[व्या](# "एतन्नास्ति क्वचित.")। (वैलक्ष्यं नाटयति।)
+**  राजा—**(सहसोत्थाय विदूषकं मनोरमां च दृष्ट्वात्मगतम्।) कथं विज्ञातोस्मि देव्या[^212]। (वैलक्ष्यं नाटयति।)
+
+[^212]: "एतन्नास्ति क्वचित."
 
 ** साङ्कृत्यायनी—**(सर्वानवलोक्य सस्मितम्।) कथमन्यदेवेदं प्रेक्षणीयकं संवृत्तम्। अभूमिरियमस्मद्विधानाम्। (इति निष्क्रान्ता।)
 
@@ -1603,7 +2025,9 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 **स्निग्धं यद्यपि वीक्षितं नयनयोस्ताम्रा तथापि द्युति-  
 र्माधुर्येऽपि सति स्खलत्यनुपदं ते गद्गदा वागियम्।  
 निश्वासा नियता अपि स्तनभरोत्कम्पेन संलक्षिताः  
-कोपस्ते प्रकट[प्रयत्न](# " प्रसाद.")विधृतोऽप्येष स्फुटं लक्ष्यते॥१३॥**
+कोपस्ते प्रकटप्रयत्न[^213]विधृतोऽप्येष स्फुटं लक्ष्यते॥१३॥**
+
+[^213]: " प्रसाद."
 
  (पादयोर्निपत्य।) प्रसीद प्रिये प्रसीद।
 
@@ -1623,25 +2047,37 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 ** वासवदत्ता**—एतं युष्माकं दुर्नयं प्रेक्ष्य हासो मे जायते। (एदंतुह्माणं दुण्णअं पेक्खिअ हासो मे जाअदि।)
 
-** राजा**— देवि अलमन्यथा [विकल्पितेन](# "विकल्पनेन")। पश्य।
+** राजा**— देवि अलमन्यथा विकल्पितेन[^214]। पश्य।
 
-**भ्रभङ्गैः क्रियते ललाटशशिनः कस्मात्कलङ्को [मुधा](# " अधुना. ")  
+[^214]: "विकल्पनेन"
+
+**भ्रभङ्गैः क्रियते ललाटशशिनः कस्मात्कलङ्को मुधा[^215]  
 वाताकम्पितबन्धुजीवसमतां नीतोऽधरः किं स्फुरन्।  
 मध्यश्चाधिककम्पितस्तनभरेणायं पुनः खिद्यते  
-कोपं मुञ्च तवैव चित्तहरणायै[तन्मया](# "यैवं.") क्रीडितम्॥१४॥**
+कोपं मुञ्च तवैव चित्तहरणायैतन्मया[^216] क्रीडितम्॥१४॥**
 
-देवि प्रसीद प्रसीद। (इति [पादयोः](# "पुन. पा. ") पतति।)
+[^215]: " अधुना. "
 
-** वासवदत्ता**—हञ्जेनिवृत्तं प्रेक्षणकम्। तदेहि । अभ्यन्तरमेव प्रविशावः। (इति [निष्क्रान्ता](# "निष्क्रान्तः स्त्रीवर्गो विदूषकश्च ")।)(हञ्जे णिवुत्तं पेक्खणअं। ता एहि। अब्भन्तरं एव्व पविसह्म।)
+[^216]: "यैवं."
+
+देवि प्रसीद प्रसीद। (इति पादयोः[^217] पतति।)
+
+[^217]: "पुन. पा. "
+
+** वासवदत्ता**—हञ्जेनिवृत्तं प्रेक्षणकम्। तदेहि । अभ्यन्तरमेव प्रविशावः। (इति निष्क्रान्ता[^218]।)(हञ्जे णिवुत्तं पेक्खणअं। ता एहि। अब्भन्तरं एव्व पविसह्म।)
+
+[^218]: "निष्क्रान्तः स्त्रीवर्गो विदूषकश्च "
 
 **इति गर्भनाटकम्।**
 
 ** राजा**—(विलोक्य।) कथमकृत्वैव प्रसादं गता देवी।
 
 **स्वेदाम्भःकणभिन्नभीषणतरभ्रूभङ्गमेकं रुषा  
-त्रासेनापरमुत्प्लुतोत्प्लुत[मृग](# " मृगी")व्यालोलनेत्रोत्पलम्।  
+त्रासेनापरमुत्प्लुतोत्प्लुतमृग[^219]व्यालोलनेत्रोत्पलम्।  
 उत्पश्यन्नहमग्रतो मुखमिदं देव्याः प्रियायास्तथा  
 भीतश्चोत्सुकमानसश्च महति क्षिप्तोऽस्म्यहं संकटे॥१५॥**
+
+[^219]: " मृगी"
 
  तद्यावदिदानीं शयनीयं गत्वा देव्याः प्रसादनोपायं चिन्तयामि।
 
@@ -1664,15 +2100,21 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 (ततः प्रविशति मनोरमा)
 
  **मनोरमा**— (सोद्वेगम्।) अहो दीर्घरोषता देव्याः। एतावन्तं कालं बद्धाया अपि प्रियसख्या आरण्यिकाया उपर्यनुकम्पां न गृह्णाति। सा तपस्विन्यात्मनो बन्धनस्य क्लेशेन तथा न संतप्यते यथा भतुर्दर्शननिराशतया। ईदृशं चास्या दुःखं येनाद्यैवात्मानं व्यापादयन्ती मया कथमपि निवारिता। एतं वृत्तान्तं भर्त्रे निवेदयेति वसन्तकं भणित्वागतास्मि।  
-(अहो दिग्घरोसदा देवीए। [एत्तिअं](# "कहं एत्तिअं.") कालं वद्धाए पिअसहीए आरण्णिआए उवरि अणुकम्पं ण गेण्हइ। सा तवस्सिणी अत्तणो वन्धणस्स किलेसेण तह ण संतप्पदि जह भट्टिणो दंसणणिरासदाए। ईरिसं च से दुक्खं जेण अज्ज एव्व अत्ताणं वावादअन्ती मए कहं वि णिवारिदा। एदं उत्तन्तं भट्टिणो णिवेदेहित्ति वसन्तअं भणिअ आअदह्मि।)
+(अहो दिग्घरोसदा देवीए। एत्तिअं[^220] कालं वद्धाए पिअसहीए आरण्णिआए उवरि अणुकम्पं ण गेण्हइ। सा तवस्सिणी अत्तणो वन्धणस्स किलेसेण तह ण संतप्पदि जह भट्टिणो दंसणणिरासदाए। ईरिसं च से दुक्खं जेण अज्ज एव्व अत्ताणं वावादअन्ती मए कहं वि णिवारिदा। एदं उत्तन्तं भट्टिणो णिवेदेहित्ति वसन्तअं भणिअ आअदह्मि।)
+
+[^220]: "कहं एत्तिअं."
 
 (ततः प्रविशति काञ्चनमाला।)
 
  **काञ्चनमाला—**कथमन्विष्यन्त्यापि मया भगवती साङ्कृत्यायनी न दृष्टा। (विलोक्य।) तदेतामपि तावन्मनोरमां प्रक्ष्यामि। (उपसृत्य।) मनोरमे अपि जानासि कुत्र भगवती साङ्कृत्यायनीति। (कहंअण्णेसन्तीए वि मए भअवई सङ्किच्चाअणी ण दिठ्ठा। ता एदं वि दाव मणोरमं पुच्छिस्सं। मणोरमे अवि जाणासि कहिं भअवई सङ्किच्चाअणित्ति। )
 
- **मनोरमा—**(विलोक्याश्रूणि प्रमृज्य।) हला काञ्चनमाले दृष्टा। किं पुनस्तया प्रयोजनम्। (हला कञ्चणमाले दि[ट्ठा](# " दिट्ठाए ताए किं पओ ०")। किं उण ताए पओअणं। )
+ **मनोरमा—**(विलोक्याश्रूणि प्रमृज्य।) हला काञ्चनमाले दृष्टा। किं पुनस्तया प्रयोजनम्। (हला कञ्चणमाले दिट्ठा[^221]। किं उण ताए पओअणं। )
 
- **काञ्चनमाला—**मनोरमे अद्य देव्याङ्गारवत्या लेखः प्रेषितः। तस्मिन्वाचिते बाष्पपूर्णनयना दृढं संतप्तुमारब्धा देवी। तद्विनोद्ननिमित्तं तस्या भगवतीमन्विष्यामि। (मणोरमे अज्ज देवीए अङ्गारवदीए लेहो [पेसिदो](# "अणुप्पेसिदो.")। तस्सि वाचिदे बप्फपुण्णणअणा दिढं संतप्पिदुं आरद्धा देवी। ता विणोदणणिमित्तं ताए भअवदिं अण्णेसामि।)
+[^221]: " दिट्ठाए ताए किं पओ ०"
+
+ **काञ्चनमाला—**मनोरमे अद्य देव्याङ्गारवत्या लेखः प्रेषितः। तस्मिन्वाचिते बाष्पपूर्णनयना दृढं संतप्तुमारब्धा देवी। तद्विनोद्ननिमित्तं तस्या भगवतीमन्विष्यामि। (मणोरमे अज्ज देवीए अङ्गारवदीए लेहो पेसिदो[^222]। तस्सि वाचिदे बप्फपुण्णणअणा दिढं संतप्पिदुं आरद्धा देवी। ता विणोदणणिमित्तं ताए भअवदिं अण्णेसामि।)
+
+[^222]: "अणुप्पेसिदो."
 
 ————————————————————————————————————  
  अथ चतुर्थाङ्के अवशिष्टौ अवमर्शनिर्वहणसन्धी निर्वाह्येते। तत्र निष्क्रान्ता मनोरमा ततः प्रविशति मनोरमया धृता सविषवेगमात्मानं नाटयन्ती आरण्यिका एत्येतावत्पर्यन्तं वासवदत्ताप्रसत्या निरपायप्रियदर्शिकाप्राप्त्यवसायात्माऽवमर्शसन्धिः। अथ वासवदत्ताप्रसादमिच्छतो वत्सराजस्य प्रवेशं सूचयितुं प्रवेशकमारभते ततः प्रविशति मनोरमेति। तपस्विन्मनुकम्पार्हा। अङ्गारवती प्रद्योतस्य पत्नी वासवदत्ताया माता तद्विनोदननिमित्तं तस्या दुःखस्यापमार्जनार्थमित्यर्थः।
@@ -1681,15 +2123,25 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 ** मनोरमा—**हलाकिं पुनस्तस्मिंल्लेख आलिखितम्। (हला किं उण तस्सिं लेहे आलिहिदं।)
 
-** काञ्चनमाला—** या मम भगिनी सा तव जनन्येव। तस्या भर्ता दृढवर्मा तातस्ते। तत्तव किमेतदाख्यातव्यम्। तस्य समधिकं संवत्सरं कलिङ्गहतकेन बद्धस्य। तन्न युक्तमेतं वृत्तान्तमनिष्टं श्रुत्वा समीपस्थितस्य समर्थस्य भर्तुस्त एवमुदासीनत्वमवलम्बितुमिति। (जा मह [भइणी](# "भइणिआ. ") सा तव जणणी एव्व। ताए भत्ता दिढवम्मा तादो दे। ता तव किं एदं आअक्खिदव्वं। तस्स समहिअं संवच्छरं कलिङ्गहदएण बद्धस्स। ता ण जुत्तं एवं [उत्तन्तं](# " वुत्तन्तं अनाचक्खिअ समीव० ( वृत्तान्तमनाख्याय समी०),") अणिठ्ठं सुणिअ समीवाट्ठिदस्स समत्थस्स भत्तुणो दे एव्वंउदासीणत्तणं ओलम्बिदुंत्ति।)
+** काञ्चनमाला—** या मम भगिनी सा तव जनन्येव। तस्या भर्ता दृढवर्मा तातस्ते। तत्तव किमेतदाख्यातव्यम्। तस्य समधिकं संवत्सरं कलिङ्गहतकेन बद्धस्य। तन्न युक्तमेतं वृत्तान्तमनिष्टं श्रुत्वा समीपस्थितस्य समर्थस्य भर्तुस्त एवमुदासीनत्वमवलम्बितुमिति। (जा मह भइणी[^223] सा तव जणणी एव्व। ताए भत्ता दिढवम्मा तादो दे। ता तव किं एदं आअक्खिदव्वं। तस्स समहिअं संवच्छरं कलिङ्गहदएण बद्धस्स। ता ण जुत्तं एवं उत्तन्तं[^224],") अणिठ्ठं सुणिअ समीवाट्ठिदस्स समत्थस्स भत्तुणो दे एव्वंउदासीणत्तणं ओलम्बिदुंत्ति।)
 
-** मनोरमा—**हला काञ्चनमाले। यदा तावदयं वृत्तान्तो भट्टिन्यै न केनापि विज्ञापितव्य इति भर्त्राज्ञप्तं तत्केन पुनरिदानीं स लेखः श्रावितः। (हला कञ्चणमाले [जदा](# " जदो (यतः).") दाव अअं उत्तन्तो भट्टिणीए ण केण वि विण्ण[विइ](# "वाइदव्वो (वाचयितव्यः).")दिव्वोत्ति भट्टिणा आणत्तं ता केण उण दाणिं सो लेहो सुणाविदो।)
+[^223]: "भइणिआ. "
+
+[^224]: " वुत्तन्तं अनाचक्खिअ समीव० ( वृत्तान्तमनाख्याय समी०
+
+** मनोरमा—**हला काञ्चनमाले। यदा तावदयं वृत्तान्तो भट्टिन्यै न केनापि विज्ञापितव्य इति भर्त्राज्ञप्तं तत्केन पुनरिदानीं स लेखः श्रावितः। (हला कञ्चणमाले जदा[^225].") दाव अअं उत्तन्तो भट्टिणीए ण केण वि विण्णविइ[^226].")दिव्वोत्ति भट्टिणा आणत्तं ता केण उण दाणिं सो लेहो सुणाविदो।)
+
+[^225]: " जदो (यतः
+
+[^226]: "वाइदव्वो (वाचयितव्यः
 
 ** काञ्चनमाला—**अनुवाच्य तूष्णींभूताया मम हस्ताद्गृहीत्वा स्वयमेव भट्टिन्या वाचितः। (अणुवाइअ तुण्हीभूदाए मह हत्थादो गेण्हिअ सअं एव्व भट्टिणीए वाइदो।)
 
 ** मनोरमा—**तेन गच्छ त्वम्। एषा खलु देवी तयैव सह दन्तवलभ्यां तिष्ठति। (तेण गच्छ तुमं। एसा क्खु देवी ताए एव्व सह दन्तवलहीए चिट्ठइ। )
 
-** काञ्चनमाला—** तेन हि भट्टिनीसकाशं गमिष्यामि। (इति निष्क्रान्ता।) ([तेण](# " ता (ततः).")हि भट्टिणीसआसं गमिस्सं।)
+** काञ्चनमाला—** तेन हि भट्टिनीसकाशं गमिष्यामि। (इति निष्क्रान्ता।) (तेण[^227].")हि भट्टिणीसआसं गमिस्सं।)
+
+[^227]: " ता (ततः
 
 ** मनोरमा—**चिरं खलु म आरण्यिकासकाशादागतायाः। दृढं च निर्विण्णा सा तपस्विन्यात्मनो जीवितेन। कदाचिदत्याहितं भवेत्। तत्तत्रैव गच्छामि। (इति निष्क्रान्ता।) (चिरं खु मे आरण्णिआसआसादो आअदाए। दिढं च णिव्विण्णा सा तवस्सिणी अत्तणो जीविदेण। कदाइ अच्चाहिदं भवे। ता तर्हि एव्व गच्छह्मि।)
 
@@ -1705,13 +2157,19 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 ** साङ्कृत्यायनी—** राजपुत्र अलमुद्वेगेन। नेदृशो वत्सराजः। कथमित्थंगतमपि भवत्या मातृष्वसृपतिं विज्ञाय वत्सराजो निश्चिन्तं स्थास्यति।
 
-** वासवदत्ता—**(सास्रम्।) भगवति अतिऋजुकेदानीं त्वम्। यस्य मया न कार्यं तस्य मदीयेन किं कार्यम्। [मातु](# "अर्जुकायाः")र्युक्तं ममैतदालिखितुम्। सा [पुन](# "पुनर्जानाति...तादृशी एव (एव्व ) वास ०")र्न जानात्यद्यापि तादृशी न वासवदत्तेति। तव पुनरेष आरण्यिकावृत्तान्तः प्रत्यक्षः। तत्कथमेतद्भणासि। (भअवदि अदिउज्जुआ दाणिं तुमं। जस्स मए ण कज्जं तस्स ममकेरएण किं कज्जं। अज्जुआए जुत्तं मम एदं आलिहिदुं। सा उण ण आणादि अज्जवि तारिसी ण वासवदतेत्ति। तुह उण एदं आरण्णिआए उत्तन्तं पञ्चक्खं। ता कहं एदं भणासि।)
+** वासवदत्ता—**(सास्रम्।) भगवति अतिऋजुकेदानीं त्वम्। यस्य मया न कार्यं तस्य मदीयेन किं कार्यम्। मातु[^228]र्युक्तं ममैतदालिखितुम्। सा पुन[^229] वास ०")र्न जानात्यद्यापि तादृशी न वासवदत्तेति। तव पुनरेष आरण्यिकावृत्तान्तः प्रत्यक्षः। तत्कथमेतद्भणासि। (भअवदि अदिउज्जुआ दाणिं तुमं। जस्स मए ण कज्जं तस्स ममकेरएण किं कज्जं। अज्जुआए जुत्तं मम एदं आलिहिदुं। सा उण ण आणादि अज्जवि तारिसी ण वासवदतेत्ति। तुह उण एदं आरण्णिआए उत्तन्तं पञ्चक्खं। ता कहं एदं भणासि।)
+
+[^228]: "अर्जुकायाः"
+
+[^229]: "पुनर्जानाति...तादृशी एव (एव्व
 
 ** साङ्कृत्यायनी—**यत एव मे प्रत्यक्षं तत एव ब्रवीमि। तेन ननु कौमुदीमहोत्सवे त्वां हासयितुं तथा क्रीडितम्।
 
 ** वासवदत्ता—**भगवति एतदत्र सत्यम्। तथा हासितास्मि येन च भगवत्याः पुरतो लज्जया कथमपि तिष्ठामि। तत्किं तदीयया कथया। नन्वेतेनैव पक्षपातेनैतावतीं भूमिं नीतास्मि। (इति रोदिति।) (भअवदि एदं एत्थ सच्चं। तह हासिदह्मिजेण भअवदीए पुरदो लज्जाए कहं वि चिट्ठामि। ता किं तक्वेरकाए कहाए। णं एदेण एव्व पक्खवादेण एत्तिअं भूमिं णीदह्मि।)
 
-** साङ्कृत्यायनी—**अलं राजपुत्रि रुदितेन। नेदृशो वत्सराजः। (विलोक्य।) अथवा प्राप्त [एवायं](# "अयं वत्स") यस्ते मन्युप्रमार्जनं करोति।
+** साङ्कृत्यायनी—**अलं राजपुत्रि रुदितेन। नेदृशो वत्सराजः। (विलोक्य।) अथवा प्राप्त एवायं[^230] यस्ते मन्युप्रमार्जनं करोति।
+
+[^230]: "अयं वत्स"
 
 ** वासवदत्ता—** मनोरथा इदानीमेते भगवत्याः। (मणोरहा दाणिंएदे भअवदीए।)
 
@@ -1729,22 +2187,34 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 ** राजा—**(सहर्षम्।) वयस्य त्वरिततरमभिधीयताम्।
 
-** विदूषकः—**भो त्वं तावदनेकसमरसंघट्टप्रभाववाहुशाली। पुनरप्यनेकगजतुरगपदातिदुर्विषहबलप्रमुदितः। तत्सर्वबलसंदोहेनान्तःपुरं सुपीडितं कृत्वेदानीमेवारण्यिकां मोचय। (भो तुमं दाव अणेअसमरसंघट्टप्प[हावबाहु](# " प्पहारङ्किदबाहुसालः (प्रहाराङ्कितबाहुसालः). ")साली। पुणो वि अणेअगअतुरअपआइदुव्विसहबलसमुदिदो। ता सव्वबलसंदोहेण अन्तेउरं सुपीडिअं करिअ दाणिं एव्व आरण्णिअं मुच्चावेहि।)
+** विदूषकः—**भो त्वं तावदनेकसमरसंघट्टप्रभाववाहुशाली। पुनरप्यनेकगजतुरगपदातिदुर्विषहबलप्रमुदितः। तत्सर्वबलसंदोहेनान्तःपुरं सुपीडितं कृत्वेदानीमेवारण्यिकां मोचय। (भो तुमं दाव अणेअसमरसंघट्टप्पहावबाहु[^231]. ")साली। पुणो वि अणेअगअतुरअपआइदुव्विसहबलसमुदिदो। ता सव्वबलसंदोहेण अन्तेउरं सुपीडिअं करिअ दाणिं एव्व आरण्णिअं मुच्चावेहि।)
+
+[^231]: " प्पहारङ्किदबाहुसालः (प्रहाराङ्कितबाहुसालः
 
 ** राजा—**वयस्य अशक्यमुपदिष्टम्।
 
-** विदूषकः—** किमत्राशक्यम्। यतस्तावत्कुब्जवामनवृद्धकञ्चुकिवर्जितो मनुष्योऽपरो नास्ति तत्र। (किं एत्थ असक्कं। जो दाव कुज्जवामण[बुढ्ढ](# " मुद्धघेर (मुग्धगृह). ")कचुइवज्जिदो मणुस्सो अवरो णात्थि तहिं।)
+** विदूषकः—** किमत्राशक्यम्। यतस्तावत्कुब्जवामनवृद्धकञ्चुकिवर्जितो मनुष्योऽपरो नास्ति तत्र। (किं एत्थ असक्कं। जो दाव कुज्जवामणबुढ्ढ[^232]. ")कचुइवज्जिदो मणुस्सो अवरो णात्थि तहिं।)
 
-** राजा—**(सावज्ञम्) मूर्ख किमसंबद्धं प्रलपसि। देव्याः प्रसादं मुक्त्वा नान्यस्तस्या [मोक्ष](# " मोक्षाभ्यु०")णाभ्युपायः। तत्कथय कथं देवीं प्रसादयामि।
+[^232]: " मुद्धघेर (मुग्धगृह
 
-** विदूषकः—**भोः मासोपवासं कृत्वा जीवितं धारय। एवं देवी चण्डी प्रसत्स्यति। (भो आसोववासं करिअ जीविदं धारेहि। [एव्वं](# "जदि एव्वं") देवी चण्डी पसीदिस्सदि।)
+** राजा—**(सावज्ञम्) मूर्ख किमसंबद्धं प्रलपसि। देव्याः प्रसादं मुक्त्वा नान्यस्तस्या मोक्ष[^233]णाभ्युपायः। तत्कथय कथं देवीं प्रसादयामि।
 
-** राजा**:**—**(विहस्य।) अलं परिहासेन। कथय कथं देवीं [प्रसादयामि](# "प्रसादयिष्यामि")।
+[^233]: " मोक्षाभ्यु०"
+
+** विदूषकः—**भोः मासोपवासं कृत्वा जीवितं धारय। एवं देवी चण्डी प्रसत्स्यति। (भो आसोववासं करिअ जीविदं धारेहि। एव्वं[^234] देवी चण्डी पसीदिस्सदि।)
+
+[^234]: "जदि एव्वं"
+
+** राजा**:**—**(विहस्य।) अलं परिहासेन। कथय कथं देवीं प्रसादयामि[^235]।
+
+[^235]: "प्रसादयिष्यामि"
 
 **धृष्टः किं पुरतोऽवरुध्य विहसन्गृह्णामि कण्ठे प्रियां  
 किं वा चाटुशतप्रपञ्चरचनाप्रीतां करिष्यामि ताम्।  
-किं तिष्ठामि कृताञ्जलिर्निपतितो देव्याः [पुरः](# "पुनः.") पादयोः  
+किं तिष्ठामि कृताञ्जलिर्निपतितो देव्याः पुरः[^236] पादयोः  
 सत्यं सत्यमहो न वेद्म्यनुनयो देव्याः कथं स्यादिति॥१॥**
+
+[^236]: "पुनः."
 
 **—————————————————————————————————————————**
 
@@ -1754,9 +2224,13 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 तदेहि। देवीसकाशमेव गच्छावः।
 
-** विदूषकः—**भोः गच्छ त्वम्। अहं पुनरिदानीमेव बन्धनात्कथमपि परिभ्रश्यागतोऽस्मि। तन्न गमिष्यामि। (भो गच्छ तुमं। अहं दाणिं एव्व बन्धणादो कहं वि परिव्भंसिअ आअदोह्मि। [ता](# "ता गमि०.")ण गमिस्सं।)
+** विदूषकः—**भोः गच्छ त्वम्। अहं पुनरिदानीमेव बन्धनात्कथमपि परिभ्रश्यागतोऽस्मि। तन्न गमिष्यामि। (भो गच्छ तुमं। अहं दाणिं एव्व बन्धणादो कहं वि परिव्भंसिअ आअदोह्मि। ता[^237]ण गमिस्सं।)
 
-** राजा—**(विहस्य कण्ठे गृहीत्वा बलान्निवर्तयति।) मूर्ख आगम्यतामागम्यताम्। (परिक्रम्यावलोक्य च।) इयं देवी दन्तबल[भीमध्यमध्यास्ते](# "भीमध्यास्ते")। यावदुपसर्पामि। (सलज्जमुपसर्पति।)
+[^237]: "ता गमि०."
+
+** राजा—**(विहस्य कण्ठे गृहीत्वा बलान्निवर्तयति।) मूर्ख आगम्यतामागम्यताम्। (परिक्रम्यावलोक्य च।) इयं देवी दन्तबलभीमध्यमध्यास्ते[^238]। यावदुपसर्पामि। (सलज्जमुपसर्पति।)
+
+[^238]: "भीमध्यास्ते"
 
 (वासवदत्ता सखेदमासनादुत्तिष्ठति।)
 
@@ -1777,7 +2251,11 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 (वासवदत्ता भूमावुपविशति।)
 
-** राजा—**आः कथं भूमावुपविष्टा देवी। अहमप्यत्रैवोपविशामि। (इति भूमावुपविश्य [कृताञ्जलिः](# "एतन्नास्ति पुस्तकान्तरे.")।) प्रिये प्रसीद प्रसीद। किमेवं प्रणतेऽपि मयि [गम्भीरतरं](# " गभीर") कोपमुद्वहसि।
+** राजा—**आः कथं भूमावुपविष्टा देवी। अहमप्यत्रैवोपविशामि। (इति भूमावुपविश्य कृताञ्जलिः[^239]।) प्रिये प्रसीद प्रसीद। किमेवं प्रणतेऽपि मयि गम्भीरतरं[^240] कोपमुद्वहसि।
+
+[^239]: "एतन्नास्ति पुस्तकान्तरे."
+
+[^240]: " गभीर"
 
 —————————————————————————————————————————  
 किंवा देव्याः पुरः पादयोः निपतितः तिष्ठामि। देव्याः प्रसादने प्रतिपत्तिमूढः अहं सत्यं सत्यं देव्या अनुनयः कथं स्यादिति न वेद्मि। शार्दूलवि० वृत्तम्॥१॥ **किं मुक्तमिति।** किं किंकारणमासनं मुक्तम्। मयि सम्भ्रमेण उपचारत्वरया अलम्।सम्भ्रमो मास्तु।हे तान्तमध्ये तान्तः क्लेशकृशः मध्यो यस्यास्तादृशि। इत्थमुत्थातुं नोचितम्। दृष्टिः मयि दृष्टिपात एव प्रसादस्तस्य विधिना करणेनैव केवलेन हृतः आत्मसाकृतोयं जनः। अहमित्यर्थः। अत्यादरेणातिसम्मानदर्शनेनेत्यर्थः। किमितिविलक्षः सलज्जः क्रियते। वसन्ततिलकं वृत्तम्॥२॥ निरूप्य निपुणे दृष्ट्वा। गम्भीरतरमत्यारूढं सहसापनेतुमशक्यमित्यर्थः।
@@ -1787,11 +2265,15 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 **भ्रूभङ्गं न करोषि रोदिषि मुहुर्मुग्धेक्षणे केवलं  
 नातिप्रस्फुरिताधरानवरतं निःश्वासमेवोज्झसि।  
 वाचं नापि ददासि तिष्ठसि परं प्रध्याननम्रानना  
-कोपस्ते [स्तिमितो](# "तोतिपी०")निपीडयति मां गूढप्रहारोपमः॥३॥**
+कोपस्ते स्तिमितो[^241]निपीडयति मां गूढप्रहारोपमः॥३॥**
+
+[^241]: "तोतिपी०"
 
 प्रिये प्रसीद प्रसीद। (इति पादयोः पतति)
 
-** वासवदत्ता—**अतिसुखितो नन्वसि। किमिदानीं दुःखितं जनं विकारयसि। [उत्तिष्ठ](# " उत्तिष्ट उत्तिष्ठ")कोऽत्र कुपितः। (अदिसुहिदो णं सि। किं दाणिं दुक्खिदं जणं विआरेसि। उठ्ठेहि को एत्थ कुविदो।)
+** वासवदत्ता—**अतिसुखितो नन्वसि। किमिदानीं दुःखितं जनं विकारयसि। उत्तिष्ठ[^242]कोऽत्र कुपितः। (अदिसुहिदो णं सि। किं दाणिं दुक्खिदं जणं विआरेसि। उठ्ठेहि को एत्थ कुविदो।)
+
+[^242]: " उत्तिष्ट उत्तिष्ठ"
 
 ** साङ्कृत्यायनी—** उत्तिष्ठ महाराज। किमनेन। अन्यदेव तावदुद्वेगकारणमस्याः।
 
@@ -1799,12 +2281,16 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 (साङ्कृत्यायनी कर्णे कथयति।)
 
-** राजा—** (विहस्य।) यद्येवमलमुद्वेगेन। मयापि ज्ञातम्। सिद्ध एवास्मिन्प्रयोजनेदेवीं तु [दिष्ट्या](# "देवीं तुष्टया.") वर्धयिष्यामीति नोक्तम्। अन्यथा कथमहं दृढवर्मवृत्तान्ते विस्रब्धस्तिष्ठामि। तत्कतिपयान्यहानि तद्वार्तायाआगतायाः। इदं च तत्र वर्तते।
+** राजा—** (विहस्य।) यद्येवमलमुद्वेगेन। मयापि ज्ञातम्। सिद्ध एवास्मिन्प्रयोजनेदेवीं तु दिष्ट्या[^243] वर्धयिष्यामीति नोक्तम्। अन्यथा कथमहं दृढवर्मवृत्तान्ते विस्रब्धस्तिष्ठामि। तत्कतिपयान्यहानि तद्वार्तायाआगतायाः। इदं च तत्र वर्तते।
+
+[^243]: "देवीं तुष्टया."
 
 **अस्मद्वलैर्विजयसेनपुरःसरैस्तै-  
 राक्रान्तबाह्यविषयो विहतप्रतापः।  
 दुर्गं कलिङ्गहतकः सहसा प्रविश्य  
-प्राकारमात्र[शरणो](# "णः किल वर्ततेस्रौ.")ऽशरणः कृतोऽसौ॥४॥**
+प्राकारमात्रशरणो[^244]ऽशरणः कृतोऽसौ॥४॥**
+
+[^244]: "णः किल वर्ततेस्रौ."
 
 **—————————————————————————————————————————**
 
@@ -1814,10 +2300,16 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 तदवस्थं च तं
 
-**निर्दिष्टा[क्रान्त](# " टाक्रन्द")मन्दं प्रतिदिनविरमद्वीरदासेरवृत्तं  
-[शश्व](# "सध्वंसं.")त्संशीर्यमाणद्विपतुरगनरक्षीणनिःशेषसैन्यम्।  
-अद्य श्वो [वा](# "वापि.")विभग्ने झटिति मम बलैः सर्वतस्तत्र दुर्गे  
+**निर्दिष्टाक्रान्त[^245]मन्दं प्रतिदिनविरमद्वीरदासेरवृत्तं  
+शश्व[^246]त्संशीर्यमाणद्विपतुरगनरक्षीणनिःशेषसैन्यम्।  
+अद्य श्वो वा[^247]विभग्ने झटिति मम बलैः सर्वतस्तत्र दुर्गे  
 बद्धं युद्धे हतं वा भगवति न चिराच्छ्रोष्यसि त्वं कलिङ्गम्॥५॥**
+
+[^245]: " टाक्रन्द"
+
+[^246]: "सध्वंसं."
+
+[^247]: "वापि."
 
 ** साङ्कृत्यायनी—** राजपुत्रि प्रथमतरमेव भवत्याः कथितं मया
 कथमप्रतिविधाय वत्सराजः स्थास्यतीति।
@@ -1846,7 +2338,9 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 
 
-** कञ्चुकी**— [विजयसेन](# "एतन्नास्ति पुस्तकान्तरे.") अवितथमेतत्। पश्य।
+** कञ्चुकी**— विजयसेन[^239] अवितथमेतत्। पश्य।
+
+[^239]: "एतन्नास्ति पुस्तकान्तरे."
 
 **सुखनिर्भरोऽन्यथापि स्वामिनमवलोक्य भवति भृत्यजनः।  
 किं पुनररिबलविघटननिर्व्यूढप्रभुनियोगभरः॥६॥**
@@ -1857,20 +2351,30 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 ** कञ्चुकी**— देव दिष्ट्या वर्धसे।
 
-**हत्वा कलिङ्गहतकं ह्यस्म[त्स्वामी](# "सोस्मत्, अस्मत्स्वामिनि निवेशिते.") निवेशितो राज्ये।  
-देवस्य समा[देशो](# "देशोऽवस्थापितः,देशाद्रिपुजायना.") निर्व्यूढो विजयसेनेन॥७॥**
+**हत्वा कलिङ्गहतकं ह्यस्मत्स्वामी[^249] निवेशितो राज्ये।  
+देवस्य समादेशो[^250] निर्व्यूढो विजयसेनेन॥७॥**
+
+[^249]: "सोस्मत्, अस्मत्स्वामिनि निवेशिते."
+
+[^250]: "देशोऽवस्थापितः,देशाद्रिपुजायना."
 
 ** वासवदत्ता**— अयि भगवति अभिजानास्येतं कञ्चुकिनम्। (अइ भअवइ अहिजाणासि एदं कञ्चुइं।)
 
-** साङ्कृत्यायनी**— कथं नाभिजानामि। ननु स एष यस्य हस्तेमातृष्वसा ते [पत्रिका](# "काद्वयं—युगम्.")मनुप्रेषितवती।
+** साङ्कृत्यायनी**— कथं नाभिजानामि। ननु स एष यस्य हस्तेमातृष्वसा ते पत्रिका[^251]मनुप्रेषितवती।
 
-** राजा**— साधु विजयसेनेन [महा](# "महान.")व्यापारोऽनुष्ठितः।
+[^251]: "काद्वयं—युगम्."
+
+** राजा**— साधु विजयसेनेन महा[^252]व्यापारोऽनुष्ठितः।
+
+[^252]: "महान."
 
 (विजयसेनः पादयोः पतति।)
 
 ** राजा**— देवि दिष्ट्या वर्धसे। प्रतिष्ठितो राज्ये दृढवर्मा।
 
-** वासवदत्ता** — (सहर्षम्।) [अनुगृहीतास्मि](# "अस्मात्परं जयतु आर्यपुत्रः (जेदु अय्यवृत्तो) इत्यधिकं पुस्तकान्तरे.")। (अणुग्गहिदह्मि।)
+** वासवदत्ता** — (सहर्षम्।) अनुगृहीतास्मि[^253] इत्यधिकं पुस्तकान्तरे.")। (अणुग्गहिदह्मि।)
+
+[^253]: "अस्मात्परं जयतु आर्यपुत्रः (जेदु अय्यवृत्तो
 
 ** विदूषकः**— ईदृशेऽभ्युदयेऽस्मिन्राजकुल एतत्करणीयम्। (राजानंनिर्दिश्य वीणावादनं नाटयन्।) गुरुपूजा। (आत्मनो यज्ञोपवीतं दर्शयन्।)ब्राह्मणस्य सत्कारः। (आरण्यिकां सूचयन्।) सर्वबन्धनमोक्ष इति।(ईरिसे अब्भुदए अस्सिं राअउले एदं करणिज्जं। गुरुपूआ। बह्मणस्स सक्कारो।सव्वबन्धणमोक्खोत्ति।)
 
@@ -1890,13 +2394,17 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 ** वासवदत्ता**— यथा भगवत्यै रोचते। (जह भअवदीए रोअदि।)
 
-** साङ्कृत्यायनी**— यद्येवमह[मेव](# "मेव तावन्मोचयामि")गत्वा तांमोचयिष्यामि।(इति निष्कान्ता।)
+** साङ्कृत्यायनी**— यद्येवमहमेव[^254]गत्वा तांमोचयिष्यामि।(इति निष्कान्ता।)
+
+[^254]: "मेव तावन्मोचयामि"
 
 ** कञ्चुकी**— इदमपरं संदिष्टं महाराजेन दृढवर्मणा। त्वत्प्रसादात्सर्वमेव यथाभिलषितं संपन्नम्। तदेते प्राणास्त्वदीयाः। यथेष्टमिमान्विनियोक्तुं त्वमेव प्रमाणमिति।
 
 (राजा सलज्जमधोमुखस्तिष्ठति।)
 
-** विजयसेनः**— देव न [शक्यमेव](# "शक्यते ... प्रीतिविशेषः .") देवं प्रति प्रीतिविशेषं दृढवर्मणः कथयितुम्।
+** विजयसेनः**— देव न शक्यमेव[^255] देवं प्रति प्रीतिविशेषं दृढवर्मणः कथयितुम्।
+
+[^255]: "शक्यते ... प्रीतिविशेषः ."
 
 ** कञ्चुकी**— यद्यपि तुभ्यं प्रतिपादितायाः प्रियदर्शिकाया अस्मद्दुहितुः परिभ्रंशान्न मे संबन्धो जात इति दुःखमासीत्तथापि वासवदत्तायाःपरिणेत्रापि त्वया तदपनीतमेव।
 
@@ -1911,11 +2419,17 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 ** राजा**—(सस्मितम्।) विजयसेन किं कथयसि।
 
-** कञ्चुकी**—तत्र चान्विष्यता मया न प्राप्ता। [तदा](# "ततः.")प्रभृति नाद्यापिविज्ञायते व वर्तत इति।
+** कञ्चुकी**—तत्र चान्विष्यता मया न प्राप्ता। तदा[^256]प्रभृति नाद्यापिविज्ञायते व वर्तत इति।
 
-([प्रविश्य](# "ततः प्रविशति म०.") मनोरमा।)
+[^256]: "ततः."
 
-** मनोरमा**—भट्टिनि प्राणसंशये वर्तते सा तपस्विनी। (भट्टिणीपाणसंसए वट्ठइ[सा](# "एसा.")तवस्सिणी।)
+(प्रविश्य[^257] मनोरमा।)
+
+[^257]: "ततः प्रविशति म०."
+
+** मनोरमा**—भट्टिनि प्राणसंशये वर्तते सा तपस्विनी। (भट्टिणीपाणसंसए वट्ठइसा[^258]तवस्सिणी।)
+
+[^258]: "एसा."
 
 ** वासवदत्ता**—(सास्रम्।) किं पुनस्त्वं प्रियदर्शनावृत्तान्तं जानासि।(किं उण तुमं पिअदंसणाउत्तन्तं जाणासि।)
 
@@ -1928,7 +2442,11 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
  **आरण्यिका**—हला मनोरमे कस्मादिदानीं मामन्धकारं प्रवेशयसि।(हला मणोरमे कीस दाणिं मं अन्धआरं पवेसेसि।)
 
- **मनोरमा**—(सविषादम्।) [हा](# "एतन्नास्ति क्वचित्.") धिक् हा [धिक्](# "एतन्नास्ति क्वचित्.")। [दृष्टिरप्यस्याः](# "दृष्टिदेशे आक्रान्तं(दिडिदेसे अक्कन्तं .)")संक्रान्ता विषेणैव। (वासवदत्तां दृष्ट्वा।) भट्टिनि लघु परित्रायस्व लघु
+ **मनोरमा**—(सविषादम्।) हा[^259] धिक् हा धिक्[^259]। दृष्टिरप्यस्याः[^261]")संक्रान्ता विषेणैव। (वासवदत्तां दृष्ट्वा।) भट्टिनि लघु परित्रायस्व लघु
+
+[^259]: "एतन्नास्ति क्वचित्."
+
+[^261]: "दृष्टिदेशे आक्रान्तं(दिडिदेसे अक्कन्तं .
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1952,14 +2470,18 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 **संजातसान्द्रमकरन्दरसां क्रमेण  
 पातुं गतश्च कलिकां कमलस्य भृङ्गः।  
-दग्धा निपत्य सहसैव हिमेन [चासौ](# "चासौ")  
+दग्धा निपत्य सहसैव हिमेन चासौ[^262]  
 वामे विधौ न हि फलन्त्यभिवाञ्छितानि॥८॥**
+
+[^262]: "चासौ"
 
 मनोरमे पृच्छ्यतां तावत्किं ते बोध इति।
 
  **मनोरमा**—सखि किं ते बोधः। (सास्रं पुनश्चालयन्ती।) सखिननु भणामि किं ते बोध इति। (सहि किं दे बोधो। सहि णं भणामिकिं दे बोधोत्ति।)
 
- **प्रियदर्शिका**—(अविस्पष्टम्।) यदेतदवस्थायापि मया न महाराजो दृष्टः।(इत्यर्धोक्ते भूमौ पतति।) (जं [एदं](# "एदाए वि (एतयापि .) ण मए।") अवस्थानं गदाए वि मए ण महाराओ दिट्टो—
+ **प्रियदर्शिका**—(अविस्पष्टम्।) यदेतदवस्थायापि मया न महाराजो दृष्टः।(इत्यर्धोक्ते भूमौ पतति।) (जं एदं[^263] ण मए।") अवस्थानं गदाए वि मए ण महाराओ दिट्टो—
+
+[^263]: "एदाए वि (एतयापि .
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1971,10 +2493,20 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 **एषा मीलयतीदमीक्षणयुगं जाता ममान्धा दिशः  
 कण्ठोऽस्याः प्रतिरुध्यते मम गिरो निर्यान्ति कृच्छ्रादिमाः।  
-एतस्याः श्वसितं [हृतं](# "हतं.") मम तनुर्निश्चेष्टतामागता  
-मन्येऽस्या विषवेग एव हि परं सर्व तु दुःखं [मम](# "मयि.")॥९॥**
+एतस्याः श्वसितं हृतं[^264] मम तनुर्निश्चेष्टतामागता  
+मन्येऽस्या विषवेग एव हि परं सर्व तु दुःखं मम[^265]॥९॥**
 
- **वासवदत्ता**—(सास्रम्) प्रियदर्शने उत्तिष्ठोत्तिष्ठ। पश्यैषमहाराजस्तिष्ठति। कथं वेदनाप्यस्या नष्टा। किमिदानीं मयापराद्धमजानत्या येन कुपिता [नालपसि](# "मां (मं) नाल.")। तत्प्रसीद प्रसीद। उत्तिष्ठोत्तिष्ठ। नखलु पुन[रपरात्स्यामि](# "रप्यप०.")। (ऊर्ध्वमवलोक्य।) हा दैवहतक। किमिदानींमयापकृतं येनैतदवस्थां गता मे भगि[न्यादर्शिता](# "भगिनी प्रियदर्शना.")। (प्रियदर्शिकाया उपरिपतति।) पिअदंसणे उट्ठेहि उट्ठेहि। पेक्ख एसो महाराओ चिट्ठइ। कहं वेअणा विसे णठ्ठा। किं दाणिं मए अवरज्झं अआणन्तीए जेण कुविदा णालवसि। ता पसीदपसीद। उट्ठेहि उट्ठेहि। ण हु पुणो अवरज्झिस्सं। हा देव्वहदअ किं दाणिं मए अवकिदं जेण एदावत्थं गदा मे भइणी आदंसिदा।)
+[^264]: "हतं."
+
+[^265]: "मयि."
+
+ **वासवदत्ता**—(सास्रम्) प्रियदर्शने उत्तिष्ठोत्तिष्ठ। पश्यैषमहाराजस्तिष्ठति। कथं वेदनाप्यस्या नष्टा। किमिदानीं मयापराद्धमजानत्या येन कुपिता नालपसि[^266] नाल.")। तत्प्रसीद प्रसीद। उत्तिष्ठोत्तिष्ठ। नखलु पुनरपरात्स्यामि[^267]। (ऊर्ध्वमवलोक्य।) हा दैवहतक। किमिदानींमयापकृतं येनैतदवस्थां गता मे भगिन्यादर्शिता[^268]। (प्रियदर्शिकाया उपरिपतति।) पिअदंसणे उट्ठेहि उट्ठेहि। पेक्ख एसो महाराओ चिट्ठइ। कहं वेअणा विसे णठ्ठा। किं दाणिं मए अवरज्झं अआणन्तीए जेण कुविदा णालवसि। ता पसीदपसीद। उट्ठेहि उट्ठेहि। ण हु पुणो अवरज्झिस्सं। हा देव्वहदअ किं दाणिं मए अवकिदं जेण एदावत्थं गदा मे भइणी आदंसिदा।)
+
+[^266]: "मां (मं
+
+[^267]: "रप्यप०."
+
+[^268]: "भगिनी प्रियदर्शना."
 
  **विदूषकः**—भो वयस्य कथं त्वं मूढ इव तिष्ठसि। नैष विषादस्य कालः। विषमा खलु गतिर्विषस्य। तद्दर्शयात्मनो विद्याप्रभावम्।(भो वअस्स कहं तुमं मूढोविअ चिट्ठसि। ण एसो विसादस्स कालो। विसमा क्खु गईविसस्स। ता दंसेहि अप्पणो विज्जापहावं।)
 
@@ -1999,22 +2531,32 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
  **प्रियदर्शिका**—(शनैरुत्थायोपविश्य च जृम्भिकां नाटयन्ती सविषादमविस्पष्टम्।) मनोरमे चिरं खलु सुप्तास्मि। (मणोरमे चिरं खु सुत्तह्मि।)
 
- **विदूषकः**—भो वयस्य निर्व्यूढं ते वैद्यत्वम्। (भो वअस्स [णिव्वूढं दे वेदित्तणं।)](# "णिरूढं दे मन्तवादित्तणं (निरूढं ते मन्त्रवादित्वं). ")
+ **विदूषकः**—भो वयस्य निर्व्यूढं ते वैद्यत्वम्। (भो वअस्स णिव्वूढं दे वेदित्तणं।)[^269]. ")
+
+[^269]: "णिरूढं दे मन्तवादित्तणं (निरूढं ते मन्त्रवादित्वं
 
 (प्रियदर्शिका साभिलाषं राजानं निरूप्य सलज्जं किंचिदधोमुखी तिष्ठति।)
 
- **वासवदत्ता**—(सहर्षम्) आर्यपुत्र किमिदानीमप्येषान्यथैव करोति।(अज्जउत्त। किं दाणिं वि [एसा अण्णहेव्व करेदि।](# "विसं अवत्थं करेदि (विषमवस्थां करोति),"))
+ **वासवदत्ता**—(सहर्षम्) आर्यपुत्र किमिदानीमप्येषान्यथैव करोति।(अज्जउत्त। किं दाणिं वि एसा अण्णहेव्व करेदि।[^270],"))
+
+[^270]: "विसं अवत्थं करेदि (विषमवस्थां करोति
 
  **राजा**—(सस्मितम्।)
 
-**स्वभावस्था दृष्टिर्न भवति [गिरो नातिविशदा](# "गिरा नातिविशदा.")-  
+**स्वभावस्था दृष्टिर्न भवति गिरो नातिविशदा[^271]-  
 स्तनुः सीदत्येषा प्रकटपुलकस्वेदकणिका।  
 यथा चायं कम्पः स्तनभर परिक्लेशजनन-  
 स्तथा नाद्याप्यस्या नियतमखिलं शाम्यति विषम्॥१०॥**
 
- **कञ्चुकी**—(प्रियदर्शिकां निर्दिश्य।) राजपुत्रि एष ते पितुरा[ज्ञाकरः](# "करः प्रणमति. ")।(इति पादयोः पतति।)
+[^271]: "गिरा नातिविशदा."
 
- **प्रियदर्शिका**—(विलोक्य।) कथं कञ्चुक्यार्यविनयवसुः। (सास्रम्।)हा तात। हा [मातः](# "अर्जुके.")। (कहं कञ्चुई अज्जविणअवसू। हा ताद। हा अज्जूए।)
+ **कञ्चुकी**—(प्रियदर्शिकां निर्दिश्य।) राजपुत्रि एष ते पितुराज्ञाकरः[^272]।(इति पादयोः पतति।)
+
+[^272]: "करः प्रणमति. "
+
+ **प्रियदर्शिका**—(विलोक्य।) कथं कञ्चुक्यार्यविनयवसुः। (सास्रम्।)हा तात। हा मातः[^273]। (कहं कञ्चुई अज्जविणअवसू। हा ताद। हा अज्जूए।)
+
+[^273]: "अर्जुके."
 
  **कञ्चुकी**—राजपुत्रि अलं रुदितेन। कुशलिनौ ते पितरौ। वत्सराजप्रभावात्पुनस्तदवस्थमेव राज्यम्।
 
@@ -2025,7 +2567,9 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 
 
- **विदूषकः**—भवति त्वं भगिनीं गृहीत्वा कण्ठ एवं परितुष्टासि।वैद्यस्य पारितोषिकं विस्मृतम्। (होदि तुमं भइणिं गेह्णिअ कण्ठे एव्वं परितुठ्ठासि। [वोदिअस्स](# "वैज्जस्स.") पारिदोसिअं विसुमरिदं।)
+ **विदूषकः**—भवति त्वं भगिनीं गृहीत्वा कण्ठ एवं परितुष्टासि।वैद्यस्य पारितोषिकं विस्मृतम्। (होदि तुमं भइणिं गेह्णिअ कण्ठे एव्वं परितुठ्ठासि। वोदिअस्स[^274] पारिदोसिअं विसुमरिदं।)
+
+[^274]: "वैज्जस्स."
 
  **वासवदत्ता**—वसन्तक न विस्मृतम्। (वसन्तअ ण विसुमरिदं।)
 
@@ -2035,7 +2579,9 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 (वासवदत्ता प्रियदर्शिकाहस्तमर्पयति।)
 
- **राजा**—(हस्त[मुपसंहृत्य](# "परिहृत्य,")।) किमनया। संप्रत्येव कथमपि प्रसादितासि।
+ **राजा**—(हस्तमुपसंहृत्य[^275]।) किमनया। संप्रत्येव कथमपि प्रसादितासि।
+
+[^275]: "परिहृत्य,"
 
  **वासवदत्ता**—कस्त्वमग्रहीतुम्। प्रथममेव तातेनेयं दत्ता। (कोतुमं अगण्हिदुं। पुढमं एव्व तादेण इअं दिण्णा।)
 
@@ -2052,7 +2598,9 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 **निःशेषं दृढवर्मणा पुनरपि स्वं राज्यमध्यासितं  
 त्वं कोपेन सुदूरमप्यपहृता सद्यः प्रसन्ना मम।  
 जीवन्ती प्रियदर्शना च भगिनी भूयस्त्वया सङ्गता  
-[किं](# "नु स्यात्.") तत्स्यादपरं प्रियं प्रियतमे यत्सांप्रतं प्रार्थ्यते॥११॥**
+किं[^276] तत्स्यादपरं प्रियं प्रियतमे यत्सांप्रतं प्रार्थ्यते॥११॥**
+
+[^276]: "नु स्यात्."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -2066,12 +2614,18 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 **उर्वीमुद्दामसस्यां जनयतु विसृजन्वासवो वृष्टिमिष्टा-  
 मिष्टैस्त्रैविष्टपानां विदधतु विधिवत्प्रीणनं विप्रमुख्याः।  
-आकल्पान्तं च भूया[त्स्थिरसमुपचिता](# "स्थिरतरमुचिता.") संगतिः सज्जनानां  
-निःशेषं यान्तु शान्तिं पिशुनजनगिरो [दुःसहा](# "दुर्जयाः,") वज्रलेपाः॥१२॥**
+आकल्पान्तं च भूयात्स्थिरसमुपचिता[^277] संगतिः सज्जनानां  
+निःशेषं यान्तु शान्तिं पिशुनजनगिरो दुःसहा[^278] वज्रलेपाः॥१२॥**
+
+[^277]: "स्थिरतरमुचिता."
+
+[^278]: "दुर्जयाः,"
 
 (इति निष्क्रान्ताः सर्वे।)
 
-[इति](# "इति श्रीमहाकविश्वीहर्षविरचितायां प्रियदर्शिकानाटिकायां च०.") चतुर्थोऽङ्कः
+इति[^279] चतुर्थोऽङ्कः
+
+[^279]: "इति श्रीमहाकविश्वीहर्षविरचितायां प्रियदर्शिकानाटिकायां च०."
 
 समाप्तेयं प्रियदर्शिका नाम नाटिका।
 
@@ -2341,7 +2895,9 @@ END of **ACT I**
 
 (*Enter* ARANYIKA ).
 
- ARANYIKÁ.—(*With tears and dejection, to herself*). ThatI, who was born in that sort of (so high a) race in thatway and who lived commanding others, should nowdo the bidding of others! So it must be said thatthere is nothing difficult for fate to bring about. Or ratherit is my fault, since knowing this I did not destroy my-self. So what shall I do now! [Or](# "The passage may also be interpreted as-Or why?A HAI..thing I have thought of now (viz. committing suicide).........I willdo as I said (i..e. kill myself). But this does not appear to beintended. See notes.") it is now difficult for
+ ARANYIKÁ.—(*With tears and dejection, to herself*). ThatI, who was born in that sort of (so high a) race in thatway and who lived commanding others, should nowdo the bidding of others! So it must be said thatthere is nothing difficult for fate to bring about. Or ratherit is my fault, since knowing this I did not destroy my-self. So what shall I do now! Or[^280].........I willdo as I said (i..e. kill myself). But this does not appear to beintended. See notes.") it is now difficult for
+
+[^280]: "The passage may also be interpreted as-Or why?A HAI..thing I have thought of now (viz. committing suicide
 
 
 
@@ -3702,7 +4258,7 @@ P. 57. **नरेन्द्रता—**The word **नरेन्द्र*
 **The flowers and the trees mentioned in the play.**
 
 **अम्भोरुह्—**A lotus, or water-lily in general.  
-**उत्पल—**A lotus ( [Nymphaea](# "* The L. names are taken from the Col. U. Ed.")**\***) in general, refers to **कमल** ( seer Ragh. III 36 ), **कुमुद,** &c. 44.  
+**उत्पल—**A lotus ( Nymphaea[^281]**\***) in general, refers to **कमल** ( seer Ragh. III 36 ), **कुमुद,** &c. 44.  
 **कदली—**The plantain tree. 9, 21, 23, 27.  
 **कमल—**A lotus ( Nelumbium Speciosum ) in general; **कं जलं अलति** (beautifies); or **काम्यते इति** what is desired owing to its beauty; from **कम्** and Uná. aff. **अल** ). 13, 14, 17, 18, 22, 55.  
 **कुवलय—**A synonym of **उत्पल** as given in Amarak; generally means 'a blue lotus.' 20  
@@ -3713,6 +4269,8 @@ P. 57. **नरेन्द्रता—**The word **नरेन्द्र*
 **पद्म—**A lotus, generally one blooming at sunrise, 2, 13, 17, 19, 20,&c**.**  
 **बकुल—**Generally called Kesara, ( Mimusops Elengi ) 13  
 **बन्धुजीव—**Same as **बन्धूक.** 44.
+
+[^281]: "* The L. names are taken from the Col. U. Ed."
 
 
 
@@ -3736,10 +4294,14 @@ P. 57. **नरेन्द्रता—**The word **नरेन्द्र*
 
  1. Sanskrit verse is regulated by quantity, and not, as in English, by accent. A **पद्य**(stanza) consists usually of four **पाद**s(quarters). A **पाद**is regulated either by the number of syllables **(अक्षर**s**),** or of syllabic instants **(मात्रा**s**).** When the **पाद**s are all similar, it is called a **समवृत्त**to which type most of the metres conform. There are **अर्धसम****वृत्त**s, wherein the first quarter corresponds to the third, and the second to the fourth, called respectively the odd **(विषम)** and even **(सम)** quarters. A third class comprises **विषमवृत्त**s, but these are very seldom used.
 
- 2. The vowels **अ, इ, उ,ऋ** and **लृ** are short, and the rest long. The quantity of a syllable is determined by its vowel. A syllable with a short vowel is called **लघु**(‘light’), and a syllable with a long vowel is called **गुरु**(‘heavy’). But a **लघु** syllable is considered as **गुरु** if it is followed by an *anusvára*, or a *visarga,* or a conjunct consonant, or when it comes at the end of a **[पाद](# "सानुस्वारश्च दीर्घश्च विसर्गी च गुरुर्भवेत् । वर्णः संयोगपूर्वश्च तथा पादान्तगोऽपि वा ॥ ").**
+ 2. The vowels **अ, इ, उ,ऋ** and **लृ** are short, and the rest long. The quantity of a syllable is determined by its vowel. A syllable with a short vowel is called **लघु**(‘light’), and a syllable with a long vowel is called **गुरु**(‘heavy’). But a **लघु** syllable is considered as **गुरु** if it is followed by an *anusvára*, or a *visarga,* or a conjunct consonant, or when it comes at the end of a **पाद[^282].**
 
- 3. A set of three successive syllables is called a **गण**(foot). Marking a short syllable asand a long one as**—,**the different [**गण**s,](# "आदिमध्यावसानेषु यरना यान्ति लाघवम् । भजसा गौरवं यान्ति मनौ तु गुरुलाघवम् ॥") which are 8 in number, may be exhibited as follows:–य –– ; र– –; त– –
+[^282]: "सानुस्वारश्च दीर्घश्च विसर्गी च गुरुर्भवेत् । वर्णः संयोगपूर्वश्च तथा पादान्तगोऽपि वा ॥ "
+
+ 3. A set of three successive syllables is called a **गण**(foot). Marking a short syllable asand a long one as**—,**the different **गण**s,[^283] which are 8 in number, may be exhibited as follows:–य –– ; र– –; त– –
 ;भ– ; ज – ; स –; म– ––;and न...In the definitions which are given below, a short syllable is indicated by the letter **ल** and a long one by **ग.**
+
+[^283]: "आदिमध्यावसानेषु यरना यान्ति लाघवम् । भजसा गौरवं यान्ति मनौ तु गुरुलाघवम् ॥"
 
  4.The Priyadarśiká contains 49 slokas in all, of which two only are in Prákrit; and there are only seven different metres employed. So numerically and as regards the variety of metre, it is inferior to the other two plays. The Ratná. contains 7 Prákrit stanzas and 78 in Sans. in 13 defferent metres, while the Nágá has 123 stanzas in 12 different matres.
 
@@ -3779,3 +4341,301 @@ I. 1, 3, 6, 7, 11, II 1, 3, 6, 7, 10; III 4, 5, 7, 10, 13, 14, 15; IV 1, 3, 9, 1
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^260]: "एतन्नास्ति क्वचित्."
+
+
+[^248]: "एतन्नास्ति पुस्तकान्तरे."
+
+
+[^193]: "णेदुं ( नेतुं
+
+
+[^146]: "एतद्वाक्यं नास्ति पुस्तकान्तरे"

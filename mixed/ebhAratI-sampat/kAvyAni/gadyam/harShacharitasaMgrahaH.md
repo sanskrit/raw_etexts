@@ -83,7 +83,7 @@ ABHINAVA BHATTA BANA
 *        *
 
 मूल्यम्\]                  १९२८          
-   \[ एका रूपिका.
+   \ एका रूपिका.
 
 
 
@@ -118,7 +118,9 @@ KUMBAKONAM
 INTRODUCTION.  
 *          *
 
- Prose works in Classical Sanskrit are rare. Interesting, readable and easily understandable works have been rarer. This paucity has in the main been due to the rigid rules of composition laid down by [Alamkarika's](# "For a lucid and full discussion of the causes, Pandit R. V. Krishnamachariar's Infroduction to the  ") and the very high standard of efficiency attained by some of the foremost writers of prose, in observing these rules very closely indeed. Wealth of observation, fulness of imagery and a keen and delicate appreciation of nature in all her moods had always to go hand in hand with the use of long compounds, alliteration of letters and words, Sleshas or puns of bewildering perplexity and veiled allusions to the comparatively insignificant incidents in Hindu Puranas. These characteristics, when handled by expert writers like Bana, have always been the despair of the ordinary student.
+ Prose works in Classical Sanskrit are rare. Interesting, readable and easily understandable works have been rarer. This paucity has in the main been due to the rigid rules of composition laid down by [Alamkarika's[^1] and the very high standard of efficiency attained by some of the foremost writers of prose, in observing these rules very closely indeed. Wealth of observation, fulness of imagery and a keen and delicate appreciation of nature in all her moods had always to go hand in hand with the use of long compounds, alliteration of letters and words, Sleshas or puns of bewildering perplexity and veiled allusions to the comparatively insignificant incidents in Hindu Puranas. These characteristics, when handled by expert writers like Bana, have always been the despair of the ordinary student.
+
+[^1]: "For a lucid and full discussion of the causes, Pandit R. V. Krishnamachariar's Infroduction to the  "
 
  The idea of popularising our standard prose works by epitomising them in a convenient form, fully preserving the native vigour of the authors style and omitting unnecessarily long compounds,
 
@@ -1469,3 +1471,4 @@ This follows Text order.
 
 
 \]
+

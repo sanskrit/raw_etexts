@@ -98,7 +98,15 @@ Madras, August 16, 1949
 
 **INTRODUCTION**
 
- THE Viśiṣṭādvaita of Śrī Rāmānuja was not only a reaction against the dry ritualism of the Mīmāṁsakas and the mentalism of atheistic thought which followed the intellectual revolution caused by the Buddha, but also a revival of the theistic Mīmāṁsā advocated by the Vṛttikāra Bodhāyana known also as [Upavarṣa](# "See Mm. Lakṣmipuram Śrinivāsācārya's Darénodaya, p. 151.")Vedāntic theism did not emerge suddenly in the evolution of the philosophy of religion in India. Besides Bodhāyana, Śrī Rāmānuja in his Vedārthasaṅgraha refers to Ṭanka, Dramiḍa, Guhadeva, Kapardin and Bhāruci, who were great exponents of theistic Vedānta in the days of [yore.](# "भगवद्बोधायन-टङ्क-द्रमिड-गुहदेव-कपर्दि- भारुचिप्रमृत्यविगीतशिष्टपरिगृहीत- पुरातनवेदान्तव्याख्यानसुव्यक्तार्थश्रुतिनिकरनिदर्शितोऽयं पन्थाः।")) Śrī R. G. Bhandārkar traces the rudiments of theism to a period anterior to the birth of Buddhism and Jainism. The Ghasundi [inscription](# " Lüder's List of Brāhmi Inscriptions, No. 6.")referring to the shrine of Saṇkarṣaṇa and Vāsudeva (about 200 B.C.), the Besnagar inscription recording the erection of a Garuḍa column in honour of 'Vāsudeva the God of gods' (about 200 B.C.) and the [Nānāghāṭ](# "Ibid., No. 1112.")inscription referring to the worship of Saṇkarṣaṇa and Vāsudeva (100 B.C.) prove the existence of a theistic faith at a very early period. The great contribution of Śrī Rāmānuja is that he has given us for the first time a conception of monotheism in a
+ THE Viśiṣṭādvaita of Śrī Rāmānuja was not only a reaction against the dry ritualism of the Mīmāṁsakas and the mentalism of atheistic thought which followed the intellectual revolution caused by the Buddha, but also a revival of the theistic Mīmāṁsā advocated by the Vṛttikāra Bodhāyana known also as Upavarṣa[^1]Vedāntic theism did not emerge suddenly in the evolution of the philosophy of religion in India. Besides Bodhāyana, Śrī Rāmānuja in his Vedārthasaṅgraha refers to Ṭanka, Dramiḍa, Guhadeva, Kapardin and Bhāruci, who were great exponents of theistic Vedānta in the days of yore.[^2]) Śrī R. G. Bhandārkar traces the rudiments of theism to a period anterior to the birth of Buddhism and Jainism. The Ghasundi inscription[^3]referring to the shrine of Saṇkarṣaṇa and Vāsudeva (about 200 B.C.), the Besnagar inscription recording the erection of a Garuḍa column in honour of 'Vāsudeva the God of gods' (about 200 B.C.) and the Nānāghāṭ[^4]inscription referring to the worship of Saṇkarṣaṇa and Vāsudeva (100 B.C.) prove the existence of a theistic faith at a very early period. The great contribution of Śrī Rāmānuja is that he has given us for the first time a conception of monotheism in a
+
+[^1]: "See Mm. Lakṣmipuram Śrinivāsācārya's Darénodaya, p. 151."
+
+[^2]: "भगवद्बोधायन-टङ्क-द्रमिड-गुहदेव-कपर्दि- भारुचिप्रमृत्यविगीतशिष्टपरिगृहीत- पुरातनवेदान्तव्याख्यानसुव्यक्तार्थश्रुतिनिकरनिदर्शितोऽयं पन्थाः।"
+
+[^3]: " Lüder's List of Brāhmi Inscriptions, No. 6."
+
+[^4]: "Ibid., No. 1112."
 
 
 
@@ -114,7 +122,9 @@ being different from one another.Each element in the fruit has its own distincti
 
 **PRAMĀAND PRAMĀṆA**
 
- According to Viśiṣṭādvaita, pramā (valid knowledge) should satisfy two conditions. As regards the first condition, pramāshould reveal the existence of an object or agree with external reality; the second condition of pramā is that it should serve some practical need. Pramā, therefore, is defined as that whichfavours the practical interests of life as they really [are.](# "यथावस्थितव्यवहारानुगुणज्ञानं प्रमा।")The distinctive cause of a particular pramā is pramāņa. A cause is considered distinctive or best, since knowledge arises without delay through its agency.
+ According to Viśiṣṭādvaita, pramā (valid knowledge) should satisfy two conditions. As regards the first condition, pramāshould reveal the existence of an object or agree with external reality; the second condition of pramā is that it should serve some practical need. Pramā, therefore, is defined as that whichfavours the practical interests of life as they really are.[^5]The distinctive cause of a particular pramā is pramāņa. A cause is considered distinctive or best, since knowledge arises without delay through its agency.
+
+[^5]: "यथावस्थितव्यवहारानुगुणज्ञानं प्रमा।"
 
 
 
@@ -141,7 +151,9 @@ cannot be any absolute unity in which the individuality is lost.
 
 ever, it is obscured though it endures in all the three states of waking, dream and deep sleep.
 
- The epistemological conclusion of Viśiṣṭādvaita suggests the trustworthiness of our thoughts and experiences which are of the real. The subject of cognition is as real as cognition and cognitive act. Real objects independent of the mind and corresponding to their contents, are alone known. Therefore, reality of objects is reckoned as absolute. This view is known as satkhyāti, since what exists (sat) is [cognized.](# "अतः सर्वं विज्ञानजातं यथार्थमिति सिद्धम् (श्रीभाष्यम्, I. i. 1.).") If what exists (sat) alone is cognized, how can we explain illusions in which knowledge does not correspond to things? For instance, apprehension of silver in nacre-silver illusion, water in desert, dreams, illusion of white conch seen as yellow, etc. To understand the problem of error, each illusion has to be individually judged on its own merits. Broadly speaking, Viśiṣṭādvaita justifies the theory of satkhyāti on metaphysical and psychological grounds. According ing to the Vedānta doctrine of pañcīkaraṇa, each of the five elements constituting the universe is a compound of an eighth part of each of the other four pure elements and half of its own pure form. In the case of the mirage, though a desert contains all the five bhūtas in varying proportions, only water, which is very insignificant, is apprehended. In nacre-silver illusion, consciousness reveals only the silver element– due to memory, similarity and other causes—which is the insignificant portion of nacre. In the case of other illusions also there is revelation of reality, how-
+ The epistemological conclusion of Viśiṣṭādvaita suggests the trustworthiness of our thoughts and experiences which are of the real. The subject of cognition is as real as cognition and cognitive act. Real objects independent of the mind and corresponding to their contents, are alone known. Therefore, reality of objects is reckoned as absolute. This view is known as satkhyāti, since what exists (sat) is cognized.[^6].") If what exists (sat) alone is cognized, how can we explain illusions in which knowledge does not correspond to things? For instance, apprehension of silver in nacre-silver illusion, water in desert, dreams, illusion of white conch seen as yellow, etc. To understand the problem of error, each illusion has to be individually judged on its own merits. Broadly speaking, Viśiṣṭādvaita justifies the theory of satkhyāti on metaphysical and psychological grounds. According ing to the Vedānta doctrine of pañcīkaraṇa, each of the five elements constituting the universe is a compound of an eighth part of each of the other four pure elements and half of its own pure form. In the case of the mirage, though a desert contains all the five bhūtas in varying proportions, only water, which is very insignificant, is apprehended. In nacre-silver illusion, consciousness reveals only the silver element– due to memory, similarity and other causes—which is the insignificant portion of nacre. In the case of other illusions also there is revelation of reality, how-
+
+[^6]: "अतः सर्वं विज्ञानजातं यथार्थमिति सिद्धम् (श्रीभाष्यम्, I. i. 1.
 
 
 
@@ -246,16 +258,26 @@ of cit and acit, which as existents are real, are not identified with Īśvara w
 
  This compendium, entitled Yatīndramatadīpikā, is one of the most favourite works among, the students of Viśiṣṭādvaita. If the writings of Śrī Vedāntadeśika, the great exponent of Viśiṣṭādvaita, are grand and imposing in diction and presentation, this little work is simple, lucid and full of meaning. As a compendious presentation of the epistemology, psychology and cosmology of Visiṣṭādvaita, this manual may be said to have no parallel among the works of its class in the system.
 
- Śrīnivāsa, the author of this standard manual, seems to have been a resident of holy Tirupati, now a township in the Chittoor district of the Presidency of Madras. It is clear from the colophon of the work that he was a son of one Svāmi-puṣkariṇī Govindācārya, a devotee of Śrī Venkṭeśa, and a disciple of Mahācārya of Vādhūla-[gotra.](# "इति श्रीमद्वाधूलकुलतिलकश्रीमन्महाचार्यस्य प्रथमदासेन श्रीमद्वेङ्कटगिरिनाथपदकमलसेवापरायणस्वामिपुष्करिणीगोविन्दाचार्यसूनुना श्रीनिवासदासेन विरचिता यतीन्द्रमतदीपिकाख्या शारीरकपरिभाषा समाप्ता।")This Māhācārya orMahārāya is identified with Doḍḍayyācārya of the Kandāla [Vādhulagotra.](# "See the Introduction to 'The Light of the School of Rāmānuja' by Govindacārya Svāmin.")Māhācārya ranks with the great exponents of the Viśiṣṭādvaita philosophy. He wrote a famous commentary named Caṇḍāmāruta on Vedāntadeśika's Śatadūsaṇīwhich exhibits his genius and originality as a thinker. Apart from Caṇḍamāruta, he has to his credit more than seven works, most of which have not yet been printed. Some of these are Advaitavidyāvijaya, Brahmasūtrabhāṣya-upanyāsa, Parikaravijaya,
+ Śrīnivāsa, the author of this standard manual, seems to have been a resident of holy Tirupati, now a township in the Chittoor district of the Presidency of Madras. It is clear from the colophon of the work that he was a son of one Svāmi-puṣkariṇī Govindācārya, a devotee of Śrī Venkṭeśa, and a disciple of Mahācārya of Vādhūla-gotra.[^7]This Māhācārya orMahārāya is identified with Doḍḍayyācārya of the Kandāla Vādhulagotra.[^8]Māhācārya ranks with the great exponents of the Viśiṣṭādvaita philosophy. He wrote a famous commentary named Caṇḍāmāruta on Vedāntadeśika's Śatadūsaṇīwhich exhibits his genius and originality as a thinker. Apart from Caṇḍamāruta, he has to his credit more than seven works, most of which have not yet been printed. Some of these are Advaitavidyāvijaya, Brahmasūtrabhāṣya-upanyāsa, Parikaravijaya,
+
+[^7]: "इति श्रीमद्वाधूलकुलतिलकश्रीमन्महाचार्यस्य प्रथमदासेन श्रीमद्वेङ्कटगिरिनाथपदकमलसेवापरायणस्वामिपुष्करिणीगोविन्दाचार्यसूनुना श्रीनिवासदासेन विरचिता यतीन्द्रमतदीपिकाख्या शारीरकपरिभाषा समाप्ता।"
+
+[^8]: "See the Introduction to 'The Light of the School of Rāmānuja' by Govindacārya Svāmin."
 
 
 
 Pārāśaryavijaya, Brahmavidyāvijaya, Vedāntavijaya, and Sadvidyāvijaya. According to Govindācārya Svāmin, Mahācārya was a friend and contemporary of  
-Appayyadīkṣita, one of the greatest scholars of his time. Mr M. T. Narasimha Iyengar thinks that he had a controversy with Dīkṣita on the philological significance of the word [Nārāyaṇa.](# " Ibid.")Dīkṣita is generally placed between 1420-1593 A.D. So Mahācārya might have lived towards the end of the sixteenth or the beginning of the seventeenth century.
+Appayyadīkṣita, one of the greatest scholars of his time. Mr M. T. Narasimha Iyengar thinks that he had a controversy with Dīkṣita on the philological significance of the word Nārāyaṇa.[^9]Dīkṣita is generally placed between 1420-1593 A.D. So Mahācārya might have lived towards the end of the sixteenth or the beginning of the seventeenth century.
 
- In this connection it is worth noting that Dharmarāja Adhavarin, the celebrated author of the Vedāntaparibhāṣā, also lived in the seventeenth century. It appears that Śrīnivāsa was aware of his senior contemporary's work as he in some places quotes the very words of Dharmarāja while presenting the prima facie view of [Advaita.](# " चैतन्यं त्रिविधम्—अन्तकरणावच्छिन्नं चैतन्यम्, अन्तकरणवृत्त्यवच्छिन्नं चैतन्यं, विषयावच्छिन्नं चैतन्यं चेति।")While Dharmarāja calls his work Vedāntaparibhāṣā, Śrīnivāsa names his Śarīrakaparibhāṣā.
+[^9]: " Ibid."
 
- Śrīnivāsa was a direct descendant in the long line of Śrīvaiṣṇava apostles. His immediate preceptor Mahācārya and other Mahācāryas of the same line who were domiciled in Colasiṁhapuram trace their ancestry to Dāśarathi, a nephew of Śrī [Rāmānuja.](# "See the Introduction to 'The Light of the School of Rāmānuja'.")So our author had the benefit of the traditional teachings, so valued in the guruparampara of Śrīvaiṣṇavas. Śrīnivāsa has no pretensions to origniality, since he, at
+ In this connection it is worth noting that Dharmarāja Adhavarin, the celebrated author of the Vedāntaparibhāṣā, also lived in the seventeenth century. It appears that Śrīnivāsa was aware of his senior contemporary's work as he in some places quotes the very words of Dharmarāja while presenting the prima facie view of Advaita.[^10]While Dharmarāja calls his work Vedāntaparibhāṣā, Śrīnivāsa names his Śarīrakaparibhāṣā.
+
+[^10]: " चैतन्यं त्रिविधम्—अन्तकरणावच्छिन्नं चैतन्यम्, अन्तकरणवृत्त्यवच्छिन्नं चैतन्यं, विषयावच्छिन्नं चैतन्यं चेति।"
+
+ Śrīnivāsa was a direct descendant in the long line of Śrīvaiṣṇava apostles. His immediate preceptor Mahācārya and other Mahācāryas of the same line who were domiciled in Colasiṁhapuram trace their ancestry to Dāśarathi, a nephew of Śrī Rāmānuja.[^11]So our author had the benefit of the traditional teachings, so valued in the guruparampara of Śrīvaiṣṇavas. Śrīnivāsa has no pretensions to origniality, since he, at
+
+[^11]: "See the Introduction to 'The Light of the School of Rāmānuja'."
 
 
 
@@ -3607,3 +3629,14 @@ bhavanti tapatām śreṣṭha pāvakasya yathoṣṇatā** (VP., I, iii, 2).
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+

@@ -442,11 +442,17 @@ CALCUTTA.**
 
   I bow down to the Greatest of the great, at the movements of whose blissful eyes the universe comes into being, undergoes dissolution, and is frequently absorbed in Himself—I bow down to Him who has conquered death, has been maintaining the universe from all eternity, and is the source of all greatness and magnanimity.
 
-  This salutary book, entitled Rasajalanidhi (the ocean of Metallurgy), is compiled very carefully by me, Bhudeba, a Brahman by caste, and descendant of the great sage, Bharadwaja, who, actuated by the motive of doing good to the suffering humanity, brought down to Bharat (India), in the Treta age (about five hundred thousand years ago), the science of medicine from the country of Swarga (a country corresponding to modern Mongolia—a region from which the forefathers of the Aryan Indians migrated gradually into the plains of [India](# "Vide  Original Home of Mankind  written in Bengali by the late Pundit Umesh Chandra Vidyaratna:")\*).
+  This salutary book, entitled Rasajalanidhi (the ocean of Metallurgy), is compiled very carefully by me, Bhudeba, a Brahman by caste, and descendant of the great sage, Bharadwaja, who, actuated by the motive of doing good to the suffering humanity, brought down to Bharat (India), in the Treta age (about five hundred thousand years ago), the science of medicine from the country of Swarga (a country corresponding to modern Mongolia—a region from which the forefathers of the Aryan Indians migrated gradually into the plains of India[^1]\*).
+
+[^1]: "Vide  Original Home of Mankind  written in Bengali by the late Pundit Umesh Chandra Vidyaratna:"
 
   For the fulfilment of all desires, I bow down to my parents, who are the sources of all bliss, and appear to me to be the parents of the universe itself. My father's name is Harilala Deba, and that of my mother is Nistarini Debi. I come of the Mukhopadhyaya (meaning, great preceptor) family, and am favoured by the three-eyed Deity (*i.e*., God). My parents are endowed with all good qualities are descendants of the author of Naisadha Charitam (a well-known Sanskrit poem, composed bythe great poet Sreeharsa, a savant from whom have descended all the persons bearing the family name of Mukhopadhyaya, or Mookerji, as it is generally written in English for the sake of brevity), and residents of a village, named Hastisala, situated on the banks of the river Maurakshi, in the ancient region of Gangarastra (modern Rarh) in Bengal.
 
-  Metallurgy is a great science revealed to the world by God Himself at the commencement of the present Kalpa (a mundane period, followed and preceded by a dissolution of the universe—the present Kalpa commenced, according to Indian history, some 160,0000000 years [back](# "The theory of the creation of the universe out of nothing is untenable, in as much as it implies want and desire in God, and thus reduces Him to the level of a finite being. God is eternal, and so is the universe, which only undergoes periodical dissolution and change of form.").) It was introduced into India for the purpose of preventing desease and premature old age. This science, which is the giver of all wished-for objects, is now in a moribund condition, and is no longer given attention to by kings, whether Indian or foreign. Numerous were the books written on Metallurgy and Chemistry by ancient Indian sages. Most of these books have completely been lost; those which are extant are mostly very rare, and not very intelligible. The present book is based on many of those which are still extant, and have been collected carefully. It is written by the grace of the conqueror of death atthe great city of Kalikshetra (Calcutta) in the year 5026 of the perverted [Kalijuga](# "According to the Hindus, eternity is measured by the following terms-Kalpa, Manwantara and Juga. Kalpa is the period which is followed and preceded by the dissolution of the universe. A Kalpa is sub-divided into so many Manwantaras, each of which is again subdivided into so many Jugas.").
+  Metallurgy is a great science revealed to the world by God Himself at the commencement of the present Kalpa (a mundane period, followed and preceded by a dissolution of the universe—the present Kalpa commenced, according to Indian history, some 160,0000000 years back[^2].) It was introduced into India for the purpose of preventing desease and premature old age. This science, which is the giver of all wished-for objects, is now in a moribund condition, and is no longer given attention to by kings, whether Indian or foreign. Numerous were the books written on Metallurgy and Chemistry by ancient Indian sages. Most of these books have completely been lost; those which are extant are mostly very rare, and not very intelligible. The present book is based on many of those which are still extant, and have been collected carefully. It is written by the grace of the conqueror of death atthe great city of Kalikshetra (Calcutta) in the year 5026 of the perverted Kalijuga[^3].
+
+[^2]: "The theory of the creation of the universe out of nothing is untenable, in as much as it implies want and desire in God, and thus reduces Him to the level of a finite being. God is eternal, and so is the universe, which only undergoes periodical dissolution and change of form."
+
+[^3]: "According to the Hindus, eternity is measured by the following terms-Kalpa, Manwantara and Juga. Kalpa is the period which is followed and preceded by the dissolution of the universe. A Kalpa is sub-divided into so many Manwantaras, each of which is again subdivided into so many Jugas."
 
   Treatment of diseases by Rasa (mercury), gems, metals etc is divine, that by incantations and vegetable drugs human, and that by surgical instruments diabolical. Metallurgy is therefore to be learnt very carefully.
 
@@ -561,7 +567,11 @@ CALCUTTA.**
 
 ***(4) The Rasalingam, (Phallus made of Mercury).***
 
-  One [Kola\*](# " For explanation of difficult words see appendix.")and half of pure gold leaf, and three times its weight of mercury are to be rubbed for three hours with some vegetable sour juice and made into a Phallic image of the God, Siva. This image is to be put inside a lemon and boiled in Kanji (gruel); by means of a Dola Jantra. It is then to be properly installed with joy. The merit acquired by the worshipof a Rasalingam equals that acquired by theworship of innumerable ordinary Phallic images. Tohave a look at this image means to acquire some merit, to touch it is to multiply the same, and to worship it means to be entitled to emancipation. There is nothing more meritorious in this world than to worship a Rasalingam. Sree (literally, the beauty of the universe), the fiery Goddess is also to be worshipped with Aghora, the king of mantras ([hymns](# "The hymn is given in original in the foot note onpage 9 No translation is attempted.")\*).
+  One Kola\*[^4]and half of pure gold leaf, and three times its weight of mercury are to be rubbed for three hours with some vegetable sour juice and made into a Phallic image of the God, Siva. This image is to be put inside a lemon and boiled in Kanji (gruel); by means of a Dola Jantra. It is then to be properly installed with joy. The merit acquired by the worshipof a Rasalingam equals that acquired by theworship of innumerable ordinary Phallic images. Tohave a look at this image means to acquire some merit, to touch it is to multiply the same, and to worship it means to be entitled to emancipation. There is nothing more meritorious in this world than to worship a Rasalingam. Sree (literally, the beauty of the universe), the fiery Goddess is also to be worshipped with Aghora, the king of mantras (hymns[^5]\*).
+
+[^4]: " For explanation of difficult words see appendix."
+
+[^5]: "The hymn is given in original in the foot note onpage 9 No translation is attempted."
 
 ***The conception of the two Deities.***
 
@@ -569,7 +579,9 @@ CALCUTTA.**
 
   These are the conceptions of the parents of the universe, which are to be meditated upon by a devotee.
 
-  The Rasankusi Mantra or the hymn to be recited in connection with the worship of the Goddess is as [follows](# "For a detailed procedure to be followed in the worship of both the Deities, a disciple should depend upon the instructions given by his preceptor."):—
+  The Rasankusi Mantra or the hymn to be recited in connection with the worship of the Goddess is as follows[^6]:—
+
+[^6]: "For a detailed procedure to be followed in the worship of both the Deities, a disciple should depend upon the instructions given by his preceptor."
 
   The goddess of beauty is in the form of speech or word; is the root cause of the energy of the Greatest Object of desire(i. e., God Himself ),and is the sovereign force behind Rasa (mercury). She is equal to mercury. It is therefore worth while to learn how to control mercury.
 
@@ -628,8 +640,14 @@ CALCUTTA.**
 **मूषामृत्तुषकार्पासवनोपलकपिष्टकम्।  
 त्रिविधं भेषजं धातुजीवमूलमयं तथा॥**
 
-**[शिखित्रा](# "शिक्षित्रा पाबकोच्छिष्टा अङ्गाराः कोकिला मताः। कोकिलाश्चेति चाङ्गारा निर्व्वाणाः पयसा विना॥") [गोर्ब्वरं](# "पिष्टकं छगणं छाणमुपलं चोत्पलन्तथा। गिरिण्डोपलशठी च संशुष्कछगणाभिधा ॥") चैत्र शर्करा च सितोपला।  
-काचायोमृद्वराटानां [कूपिका](# "कूपिका कुपिका सिद्धा गोला चैव गिरिण्डिका। चषकश्च कटोरीं व वाटिका खारिका तथा। कञ्चोली ग्राहिका चेति नामान्येकार्थकानि हि ॥")चषकाणि च॥**
+**शिखित्रा[^7] गोर्ब्वरं[^8] चैत्र शर्करा च सितोपला।  
+काचायोमृद्वराटानां कूपिका[^9]चषकाणि च॥**
+
+[^7]: "शिक्षित्रा पाबकोच्छिष्टा अङ्गाराः कोकिला मताः। कोकिलाश्चेति चाङ्गारा निर्व्वाणाः पयसा विना॥"
+
+[^8]: "पिष्टकं छगणं छाणमुपलं चोत्पलन्तथा। गिरिण्डोपलशठी च संशुष्कछगणाभिधा ॥"
+
+[^9]: "कूपिका कुपिका सिद्धा गोला चैव गिरिण्डिका। चषकश्च कटोरीं व वाटिका खारिका तथा। कञ्चोली ग्राहिका चेति नामान्येकार्थकानि हि ॥"
 
 **शूर्पादि वेणुपात्राणि क्षुद्राः चिप्राश्चशङ्किकाः।  
 क्षुरप्राश्च तथा पाक्यो यच्चान्यत्तत्र युज्यते॥ **
@@ -695,8 +713,10 @@ CALCUTTA.**
 
 ***Initiation of Disciple.***
 
-  Metallurgy is a science which was taught by S'iva (God) himself. It is to be given to an earnest disciple by the preceptor in accordance with the usual procedure. In an auspicious moment, when the moon is in conjunction with a benefic star, and when both the moon and the star are [strong](# "For a proper understanding of these, the reader is referred to Indian Astrology."),
+  Metallurgy is a science which was taught by S'iva (God) himself. It is to be given to an earnest disciple by the preceptor in accordance with the usual procedure. In an auspicious moment, when the moon is in conjunction with a benefic star, and when both the moon and the star are strong[^10],
 an earthen vessel full of water, and containing gold, gems, and fruits, is to be placed in front of the Rasalingam,and covered with a piece of cloth. The image is then to be worshipped in the usual way with sandal paste, flowers, fried paddy, incense, and offerings of rice, fruits, sweets &c. After the worship is over, a sacrificial fire is to be made in a triangular hole, called Joni Kunda, characterised by good features, where offerings are to be duly given of oil, clarified butter, rice boiled in milk and mixed with sugar, flowers in general, and lotuses in particular, respectively, uttering all the while the Aghora and Rasankus'i mantras. This being done, the disciple is to be called to attend.
+
+[^10]: "For a proper understanding of these, the reader is referred to Indian Astrology."
 
 **अथ कालिनी स्त्री।**
 
@@ -718,7 +738,9 @@ an earthen vessel full of water, and containing gold, gems, and fruits, is to be
 
 ***A Kalini wife.***
 
-  That wife is called Kalini whose hair is curled; whose body is warm in winter, and comfortably coldin summer; who has a complexion as bright as heated gold; whose eyes are like lotus flowers; who is beautiful, young, and has a well-cut physique; whose thighs are wide; who is possessed of all good qualities; who has breasts so well-developed as to give her stature a slight stoop; whose kiss, embrace and touch are soft; whose voice is very mild; whose genital organ is so developed as to give it the configuration of an Aswatha leaf, and who commences her menstruation during the period when the moon is on the wane. Such a lady is powerful, and is capable of success in metallurgical operations. She is efficient in preparing mercurial compounds, in the application of mercury to patients, and in the preparation of medicines for the prevention of premature old age and diseases. In case, such a wife is not available, any beautiful lady may serve the purpose, if she is required for three weeks only, to take every morning one tola of purified sulphur, mixed with clarified [butter](# "This dose was prescribed more than 5000 years ago. The present day human beings can stand only one fourth to half of the dose prescribed in those days.").
+  That wife is called Kalini whose hair is curled; whose body is warm in winter, and comfortably coldin summer; who has a complexion as bright as heated gold; whose eyes are like lotus flowers; who is beautiful, young, and has a well-cut physique; whose thighs are wide; who is possessed of all good qualities; who has breasts so well-developed as to give her stature a slight stoop; whose kiss, embrace and touch are soft; whose voice is very mild; whose genital organ is so developed as to give it the configuration of an Aswatha leaf, and who commences her menstruation during the period when the moon is on the wane. Such a lady is powerful, and is capable of success in metallurgical operations. She is efficient in preparing mercurial compounds, in the application of mercury to patients, and in the preparation of medicines for the prevention of premature old age and diseases. In case, such a wife is not available, any beautiful lady may serve the purpose, if she is required for three weeks only, to take every morning one tola of purified sulphur, mixed with clarified butter[^11].
+
+[^11]: "This dose was prescribed more than 5000 years ago. The present day human beings can stand only one fourth to half of the dose prescribed in those days."
 
 **एवं शक्तियुतः शिष्यं दीक्षयेत् तं गुरूत्तमः।  
 सुस्नातमभिषिञ्चेत मन्त्रेण कलशोदकैः॥**
@@ -745,7 +767,9 @@ an earthen vessel full of water, and containing gold, gems, and fruits, is to be
 षट्कोणं मण्डलं कार्य्यं सिन्दूरेण द्विहस्तकम्॥ **
 
 **यत्नतः लिख्यते सम्यक् तद्बहिश्चाष्टपत्रकम्।  
-कमलं चतुरस्त्रञ्च चतुर्द्वारैः [सुशोभितम्](# "अधश्चित्र द्रष्टव्यम्।")॥**
+कमलं चतुरस्त्रञ्च चतुर्द्वारैः सुशोभितम्[^12]॥**
+
+[^12]: "अधश्चित्र द्रष्टव्यम्।"
 
   The next thing to be done is to draw, with red vermilion, a hexagonal diagram, two cubits long on
 
@@ -855,17 +879,25 @@ the Rasamandapam, by the side of which is to be drawn carefully a quadrangular a
 
   The following are the synonyms of Parada (mercury): Rasaràja, Rasendra, Maharasa, Jiba, Sivabirjam, Rasa, Suta, and all the names applicable to Siva (God) himself.
 
-  Parada has six different kinds of taste, (*viz.,* sweet, sour, saline, pungent, bitter and astringent). It has a soothing effect upon the human system, and is the destroyer of the three different kinds of doshas ([faults](# "Diseases are due to an abnormal excess of one or more of the three doshas, viz, वायुः,(vayu or air)पित्तम् , (pittam, i.e.,  theinternal heat of the body), and कफाः (kafa or phlegm.)")).\* It is efficacious in preventing disease and arrival of premature old age, and serves to heighten the medicinal properties of anything with which it is compounded. It nourishes all the vital parts of the body and always increases the strength of the eyes. It cures all sorts of diseases and especially [leprosy](# "All these refer to the properties of mercury, as purifiedaccording to the processes given here-in-after.").
+  Parada has six different kinds of taste, (*viz.,* sweet, sour, saline, pungent, bitter and astringent). It has a soothing effect upon the human system, and is the destroyer of the three different kinds of doshas (faults[^13]पित्तम् , (pittam, i.e.,  theinternal heat of the body), and कफाः (kafa or phlegm.)")).\* It is efficacious in preventing disease and arrival of premature old age, and serves to heighten the medicinal properties of anything with which it is compounded. It nourishes all the vital parts of the body and always increases the strength of the eyes. It cures all sorts of diseases and especially leprosy[^14].
+
+[^13]: "Diseases are due to an abnormal excess of one or more of the three doshas, viz, वायुः,(vayu or air
+
+[^14]: "All these refer to the properties of mercury, as purifiedaccording to the processes given here-in-after."
 
   Parada when itself killed (i.e., reduced to bhasma or ash), becomes a killer of diseases and death; it kills diseases, when itself in a state of swoon (i.e.,transformed by combination with purified sulphur etc.) It gives a human being the power of flying in the space (like a bird,) if itself tied down (*ie.,* solidified by conjunction with some special substances). Who else is so kind as mercury? Is there any one who does not serve that mecury which, when entangled or solidified, causes wonder in others; which resuscitates the dead, when dead itself, and which causes the dawn of consciousness in others, when itself in a state of swoon or unconsciousness? By the worship of mercury are to be obtained longevity, riches, health, power of digestion, power of retention, great strength, beauty, youth, and graceful appearance. Mercury is to be killed (reduced to ash), after being exhausted, to be brought to a state of unconsciousness. by being mixed with sulphur, and is to be tied down or solidified by being heated and combined with the essences of particular metals—these are the three different courses of mercury.
 
-  Mercury is compared to Brahma, when it is in a state of purification; to Bisnu, when it is in a state of swoon to Rudra, when it is dead; and to Maheswara, when it is in a state of [solidification](# "Mahes wara (or S iva) the universal Being, manifests Himself in three different aspects personified, viz., Brahma (the creator), Vishnu (the preserver), and Rudra (the destroyer of the universe).").Mercury gives vast wealth, firm physique pleasing to one's own people, and stable mind— things which are generally given in this world by one's mother. No one else is a better destroyer of diseases which affect our bodies. It is therefore necessary, first of all, tostrengthen our bodies in right earnest with mercury every day.
+  Mercury is compared to Brahma, when it is in a state of purification; to Bisnu, when it is in a state of swoon to Rudra, when it is dead; and to Maheswara, when it is in a state of solidification[^15] the universal Being, manifests Himself in three different aspects personified, viz., Brahma (the creator), Vishnu (the preserver), and Rudra (the destroyer of the universe).").Mercury gives vast wealth, firm physique pleasing to one's own people, and stable mind— things which are generally given in this world by one's mother. No one else is a better destroyer of diseases which affect our bodies. It is therefore necessary, first of all, tostrengthen our bodies in right earnest with mercury every day.
+
+[^15]: "Mahes wara (or S iva
 
 **भक्षणं स्पर्शनं दानं ध्यानञ्च परिपूजनम्।  
 पञ्चधा रसपूजोक्ता महापातकनाशिनी॥ **
 
-**अभ्रकं [तृटि](# "तृटिः स्यादवभिः षङ्भिः।")मात्रं यो रसेन परिजारयेत्।  
+**अभ्रकं तृटि[^16]मात्रं यो रसेन परिजारयेत्।  
 शतक्रतुफलं तस्य भवेदित्यब्रवीच्छिवः॥ **
+
+[^16]: "तृटिः स्यादवभिः षङ्भिः।"
 
 **यश्च निन्दति सूतेन्द्रं शम्भोस्तेजः परात्परम्।  
 स पतेन्नरके घोरे यावत् कल्पविकल्पना। **
@@ -904,7 +936,9 @@ the Rasamandapam, by the side of which is to be drawn carefully a quadrangular a
 
   Eating, touching, giving, meditating upon, and adoring of mercury are the five different ways of worshipping it—all of which tend to destroy great vices. The man who succeeds in subsuming in mercury even the minutest particle of mica, acquires the merits arising from performing one hundred sacrifices. This is what Siva himself said. The man who vilifies mercury, which is the strength of Siva himself, and is the greatest of all great things, rests in hell eternally. The man who gives to patients mercury, duly purified and duly prepared over the fire, attains for ever the merits derived from the performance of Tuladana (a ceremony in which the performer gives away to the poor his own weight in gold) and Aswamedha (a ceremony in which a horse is worshipped and sacrificed). The man who dies with mercury still in his stomach is freed from great sins, and attains emancipation.
 
-  There is nothing greater in this world than emancipation of the soul, which is obtainable by means of wisdom. The great Siva said that there are two ways of attaining wisdom, *viz*., stopping of respiration (as prctised by the Jogis), and extinction of the passions. Neither of these can be attained without a strong and healthy physique. Now, mercury and air are the two things which can sustain the body. Mercury, in a state of swoon removes diseases, and, when dead, sustains the body in a healthy condition. Both air and mercury, if bound and rendered incapable of movement, render the body light enough to move in the [atmosphere](# "The ability of expert Jogis to walk upon the surface or water and to ascend the atmosphere is traditional in this country. Such miracles are reported to have been worked even in our own time."). It cannot be otherwise. Enjoyment in this world of wealth and physical comforts is to be considered transient; emancipation of soul is therefore always to be aimed at. But emancipation depends upon knowledge which is the result of concentration of mind, this last depending upon a firm physique. Firmness of the body cannot be properly attained by any elixir made of vegetables and metals (except mercury). Being itself of an unstable nature, combustible, and liable to decomposition and shrinkage, a vegetable drug is subsumed in lead; Lead is similarly subsumed in tin, and so also tin in copper copper in siver, silver in gold, and gold in mercury. As the souls of Jogis are translated into the being of Siva and thereby attain itnmortality, so are the metalssubsumed in the mercury which has already swallowed some mica. As the extinction of every being always takes place in the universal Soul, so the extinction ofevery material substance takes place in mercury. Mercury alone is therefore competent to free the body from infirmity and disease.
+  There is nothing greater in this world than emancipation of the soul, which is obtainable by means of wisdom. The great Siva said that there are two ways of attaining wisdom, *viz*., stopping of respiration (as prctised by the Jogis), and extinction of the passions. Neither of these can be attained without a strong and healthy physique. Now, mercury and air are the two things which can sustain the body. Mercury, in a state of swoon removes diseases, and, when dead, sustains the body in a healthy condition. Both air and mercury, if bound and rendered incapable of movement, render the body light enough to move in the atmosphere[^17]. It cannot be otherwise. Enjoyment in this world of wealth and physical comforts is to be considered transient; emancipation of soul is therefore always to be aimed at. But emancipation depends upon knowledge which is the result of concentration of mind, this last depending upon a firm physique. Firmness of the body cannot be properly attained by any elixir made of vegetables and metals (except mercury). Being itself of an unstable nature, combustible, and liable to decomposition and shrinkage, a vegetable drug is subsumed in lead; Lead is similarly subsumed in tin, and so also tin in copper copper in siver, silver in gold, and gold in mercury. As the souls of Jogis are translated into the being of Siva and thereby attain itnmortality, so are the metalssubsumed in the mercury which has already swallowed some mica. As the extinction of every being always takes place in the universal Soul, so the extinction ofevery material substance takes place in mercury. Mercury alone is therefore competent to free the body from infirmity and disease.
+
+[^17]: "The ability of expert Jogis to walk upon the surface or water and to ascend the atmosphere is traditional in this country. Such miracles are reported to have been worked even in our own time."
 
 **अथ रसस्य प्रकारभेदः।**
 
@@ -1019,8 +1053,10 @@ These blemishes give rise to the following ailmentsin one who takes impure mercu
 
 **अथ रसस्याष्टादश संस्काराः।**
 
-**शोधनं स्वेदनञ्चैव मर्द्दनमुद्धृति[स्तथा](# "उत्थापनमित्यस्य नामान्तरम्।")।  
+**शोधनं स्वेदनञ्चैव मर्द्दनमुद्धृतिस्तथा[^18]।  
 पातनं रोधनञ्चैव नियामनमतः परम्॥**
+
+[^18]: "उत्थापनमित्यस्य नामान्तरम्।"
 
 **दीपनमनुवासनं ग्रासनमपि मूर्च्छणम्।  
 सञ्चारणन्तथा गर्भद्रुति र्जारणमारणे॥ **
@@ -1052,7 +1088,9 @@ These blemishes give rise to the following ailmentsin one who takes impure mercu
 
 ***( 1 ) Purification of Mercury. ***
 
-  At a time when the moon is in combination with an auspicious star, purification is to be commenced with mercury, weighing 100, 50, 12, or 1 [palam](# "One palam is equal to 4 rupees in weight. For measures of metallurgical weight, see page 310."). A lesser quantity than one palam is not suitable for proper purification. Every mercurial operation (including purification) and worship of mercury are to be performed with the Aghora mantram.
+  At a time when the moon is in combination with an auspicious star, purification is to be commenced with mercury, weighing 100, 50, 12, or 1 palam[^19]. A lesser quantity than one palam is not suitable for proper purification. Every mercurial operation (including purification) and worship of mercury are to be performed with the Aghora mantram.
+
+[^19]: "One palam is equal to 4 rupees in weight. For measures of metallurgical weight, see page 310."
 
 **अथात्र मर्द्दनस्य साधारणविधिः।**
 
@@ -1088,9 +1126,13 @@ These blemishes give rise to the following ailmentsin one who takes impure mercu
 **अजाशकृत् तुषाग्निञ्च भूगत्र्ते त्रितयं क्षिपेत्।  
 तस्योपरिस्थतं खल्बंतप्तखल्वमिति स्मृतम्॥**
 
-***The first process of purification of [Mercury](# "Any one of these eleven processes is sufficient for the purpose.").***
+***The first process of purification of Mercury[^20].***
 
-  Mercury renounces its lead blemish by being rubbed in a hot mortar for the whole day with ram's fur, powdered turmeric, powdered brick, soot, and lime juice. It renounces its tin blemish by being rubbed with powdered root of bisala and of [ankotha](# "For provincial and Latin names for all the plants etc., referred to in this book, see foot note in Appendix."). Blemish due to impure foreign matters is removed,if mercury is rubbed with the gum-like kernel of the fruit of aragbadha. Evil properties of fire are removed from mercury. by its being rubbed with the powdered root of chitraka. Rubbing with powdered black dhustura plant removes the subtleness of mercury. Its poisonous properties are removed by its being rubbed with the powdered Triphala. The stone blemish of mercury is removed by its being rubbed with the powdered Trikatu; whereas it is purged of its blemish due to inability to stand the heat of fire, by being rubbed with the Trikantaka.
+[^20]: "Any one of these eleven processes is sufficient for the purpose."
+
+  Mercury renounces its lead blemish by being rubbed in a hot mortar for the whole day with ram's fur, powdered turmeric, powdered brick, soot, and lime juice. It renounces its tin blemish by being rubbed with powdered root of bisala and of ankotha[^21]. Blemish due to impure foreign matters is removed,if mercury is rubbed with the gum-like kernel of the fruit of aragbadha. Evil properties of fire are removed from mercury. by its being rubbed with the powdered root of chitraka. Rubbing with powdered black dhustura plant removes the subtleness of mercury. Its poisonous properties are removed by its being rubbed with the powdered Triphala. The stone blemish of mercury is removed by its being rubbed with the powdered Trikatu; whereas it is purged of its blemish due to inability to stand the heat of fire, by being rubbed with the Trikantaka.
+
+[^21]: "For provincial and Latin names for all the plants etc., referred to in this book, see foot note in Appendix."
 
   For the removal of each of the blemishes, mercury is first of all to be sifted through a fine piece of cloth, and then rubbed with one sixteenth its weight of the powder of each of the things prescribed, including the juice of kanya. After the rubbing is over, the mercury is to be taken out of the hot mortar, and washed each time in an earthen pot, containing hot aranala.
 
@@ -1257,11 +1299,15 @@ The prescribed herb, fresh and well-dried, is to be cut into pieces and boiled i
 
   Mercury may also be extracted from Hingula (cinnabar) in one of the following ways:—
 
-  (a) Hingula is to be rubbed for one day with lime juice or lemon juice, and then subjected to the process of Urdhapatanam (upward sublimation by means of Vidyadhara [Jantram](# "See chapter on Jantram or apparata.")). Mercury, thus obtained, is pure and free from all the blemishes and coverings. It may be used in everything without being subjected to the eight indispensable operations of mercury.
+  (a) Hingula is to be rubbed for one day with lime juice or lemon juice, and then subjected to the process of Urdhapatanam (upward sublimation by means of Vidyadhara Jantram[^22]). Mercury, thus obtained, is pure and free from all the blemishes and coverings. It may be used in everything without being subjected to the eight indispensable operations of mercury.
+
+[^22]: "See chapter on Jantram or apparata."
 
 Or
 
-  (b) Hingula is to be broken into small pieces of the size of rice, kept in an earthen pot, saturated several times with the juice of lime or of changeri for three days, and dried everytime by being exposed to the sun in day time and to open air at night. Then, it is again to be saturated with the juice of lime fruit or of changeri, and kept in an earthen vessel, which is to be covered with an earthen basin, the convex side of which is to be rubbed with powdered chalk, (the joint being cemented with mud). Water is to be put into the basin, and heat applied underneath. The water is to be replaced as soon as it gets heated; and this is to be done at least for 30 times, before mercury begins to be deposited on the convex side of the water [basin](# " The apparatus described hereis called a Vidyadhara. Jantram."). The mercury so obtained is pure,
+  (b) Hingula is to be broken into small pieces of the size of rice, kept in an earthen pot, saturated several times with the juice of lime or of changeri for three days, and dried everytime by being exposed to the sun in day time and to open air at night. Then, it is again to be saturated with the juice of lime fruit or of changeri, and kept in an earthen vessel, which is to be covered with an earthen basin, the convex side of which is to be rubbed with powdered chalk, (the joint being cemented with mud). Water is to be put into the basin, and heat applied underneath. The water is to be replaced as soon as it gets heated; and this is to be done at least for 30 times, before mercury begins to be deposited on the convex side of the water basin[^23]. The mercury so obtained is pure,
+
+[^23]: " The apparatus described hereis called a Vidyadhara. Jantram."
 
 Or
 
@@ -1278,8 +1324,10 @@ Or
 **शरावे धारयेत्तस्मिन् हिङ्गुलं वस्त्रमण्डितम्।  
 चूर्णीकृतं विशोधितं शुष्कीकृतं प्रयत्नतः॥ **
 
-**तदुपरि न्यसेत् प्राज्ञः [शिखित्राग्निं](# "शिखित्राः पावकोच्छिष्टाः —टिकिया इति भाषा।")मृदुप्रभम्।  
+**तदुपरि न्यसेत् प्राज्ञः शिखित्राग्निं[^24]मृदुप्रभम्।  
 उत्तापाल्लगते चोर्द्ध रसो वायुविचालितः॥**
+
+[^24]: "शिखित्राः पावकोच्छिष्टाः —टिकिया इति भाषा।"
 
   Place an earthen vessel (about two feet in height) upside down on four props made of pieces of stone or brick (with sufficient space kept open for the entrance of air into the vessel). Within the space enclosed by the three props, place an earthen basin (in such a way as not to obstruct the entrance of air into the vessel). Spread the dried and powdered Hingula over a piece of cloth and wrap it in several folds. The cloth, thus folded and made into a bundle, is then to be put into the earthen basin. The bundle is now to be covered with mild tikia fire. When the fire will be extinguished and the apparatus cooled, mercury will be found to be deposited inside the vessel.
 
@@ -1293,7 +1341,9 @@ Or
 
 ***(2) Swedanam or boiling of mercury (ie., second mercurial operation).***
 
-***First [process](# "Any of the four processes may be observed.")***
+***First process[^25]***
+
+[^25]: "Any of the four processes may be observed."
 
   Mercury being bound in a piece of cloth fourfolded (*i.e.,* having four folds) is to be boiled for a day in kanji, mixed with pasted trikatu, triphala, chitraka roots, and kanya. This act of boiling is necessary for the removal of remnants of blemishes.
 
@@ -1368,15 +1418,19 @@ Saindhaba, trikatu, all the ksharas (alkalis), and mercury are to be rubbed toge
 **षोड़शांशं तु तद्द्रव्यं सूतमानान्नियोजयेत्।  
 सूतं क्षिप्त्वा समं तेन दिनानि त्रीणि मर्द्दयेत्॥**
 
-**जीर्णाभ्राकं तथा [वीजं](# "शुद्धं स्वर्णञ्च रूप्यञ्च वीजमित्यभिधीयते।") जीर्णसूतं तथैव च।  
+**जीर्णाभ्राकं तथा वीजं[^26] जीर्णसूतं तथैव च।  
 नैर्म्मल्यार्थं हि सूतस्य खल्वे धृत्वातु मर्द्दयेत्॥**
+
+[^26]: "शुद्धं स्वर्णञ्च रूप्यञ्च वीजमित्यभिधीयते।"
 
 **गृह्राति निम्मेलो रागान् ग्रासे ग्रासे विमर्द्दितः।  
 मर्द्दनाख्यं हि यत् कर्म्म तत् सूतगुणकृद् भवेत्।**
 
 ***Second process.***
 
-  Mercury is to be rubbed for 3 days with each of the following :—Soot, brick powder, curd, molasses, saindhava (rock salt), and rajika (rye). The quantity of each of the things is to be one-sixteenth the weight of the mercury. When this is done, for the purpose of removal of dirt, the mercury is again to be rubbed with each of the following; abhra bhasma (mica reduced to ash), bijam (purified gold or silver), and [exhausted](# "In the absence of a better term we make it to mean ओर्णसूतः Modern Chemistry has got nothing corresponding to जीर्णसूतः (exhausted mercury), मृतसूतः (dead mercury) andभस्मसूतः (mercury reduced to asli). Calomel and some other mercurial preparations may perhaps be considered to belong to the class of मूर्च्छितसूतः (swooned mercury).") mercury.
+  Mercury is to be rubbed for 3 days with each of the following :—Soot, brick powder, curd, molasses, saindhava (rock salt), and rajika (rye). The quantity of each of the things is to be one-sixteenth the weight of the mercury. When this is done, for the purpose of removal of dirt, the mercury is again to be rubbed with each of the following; abhra bhasma (mica reduced to ash), bijam (purified gold or silver), and exhausted[^27], मृतसूतः (dead mercury) andभस्मसूतः (mercury reduced to asli). Calomel and some other mercurial preparations may perhaps be considered to belong to the class of मूर्च्छितसूतः (swooned mercury).") mercury.
+
+[^27]: "In the absence of a better term we make it to mean ओर्णसूतः Modern Chemistry has got nothing corresponding to जीर्णसूतः (exhausted mercury
 
   In course of being rubbed in this way, mercury assumes a clearer appearance at every rubbing.
 
@@ -1411,7 +1465,9 @@ Saindhaba, trikatu, all the ksharas (alkalis), and mercury are to be rubbed toge
 
   Mercury is to be rubbed constantly for one day or three days with the powder of each of the following, mixed with lime juice: red brick, haridra, dhumasara (soot) and urna (wool) reduced to ashes. The mercury is then to be subjected to upward sublimation for several times, or to be sifted by means of a thick piece of cloth; or to be washed off in kanji.
 
-**(४) पारदस्य [उद्धृतिः](# "उद्धारणमुत्थापनमित्येते नामान्तरे अस्य।") (सूतस्यैषा चतुर्थः संस्कारः)।**
+**(४) पारदस्य उद्धृतिः[^28] (सूतस्यैषा चतुर्थः संस्कारः)।**
+
+[^28]: "उद्धारणमुत्थापनमित्येते नामान्तरे अस्य।"
 
 **प्रथमो विधिः।**
 
@@ -1454,7 +1510,9 @@ Saindhaba, trikatu, all the ksharas (alkalis), and mercury are to be rubbed toge
 
 **First process.**
 
-  Three parts of mercury and one part of copper are to be rubbed with lime juice till the whole thing turns into a lump. This lump is to be kept inside an earthen vessel on which is to be placed another earthen vessel containing water, forming what is called a Vidyadhara [Jantram](# "अग्रेयन्त्रनिरूपणाख्यः अध्यायो द्रष्टव्यः।"), by means of which the mercury is to be sublimated,
+  Three parts of mercury and one part of copper are to be rubbed with lime juice till the whole thing turns into a lump. This lump is to be kept inside an earthen vessel on which is to be placed another earthen vessel containing water, forming what is called a Vidyadhara Jantram[^29], by means of which the mercury is to be sublimated,
+
+[^29]: "अग्रेयन्त्रनिरूपणाख्यः अध्यायो द्रष्टव्यः।"
 
 —मतान्तरम्—
 
@@ -1584,7 +1642,9 @@ Then, upward sublimation.
 
   Mica, purified and finely powdered, is to be rubbed, with mercury and kanji in a motar, and made into a lump which is to be placed in a Tirjak Patana Jantram. Heat is to be increased gradually till the whole of the mercury is sublimated through the inclined passage.
 
-  **(६) अथ पारदस्य रोधनम् [(निरोधः)](# "कश्चिद् भ्रान्तिवशादेत् बोधनम् कथ्यते।")(एतदस्य षष्ठः संस्कारः)।**
+  **(६) अथ पारदस्य रोधनम् (निरोधः)[^30](एतदस्य षष्ठः संस्कारः)।**
+
+[^30]: "कश्चिद् भ्रान्तिवशादेत् बोधनम् कथ्यते।"
 
 **प्रथमो विधिः।**
 
@@ -1592,7 +1652,9 @@ Then, upward sublimation.
 तन्मुक्तयेऽस्य क्रियते रोधनम् कथ्यते हि तत्॥**
 
 **विश्वामित्रकपाले वा काचकूप्यामथापि वा।  
-[सृष्टाम्बुजं](# "सृष्टयंम्बुजमिति पाठान्तरम्। सृष्टाम्बुजं विनिक्षिप्य इत्यस्य खाने ") विनिक्षिप्य तत्र तन्मज्जनावधि॥**
+सृष्टाम्बुजं[^31] विनिक्षिप्य तत्र तन्मज्जनावधि॥**
+
+[^31]: "सृष्टयंम्बुजमिति पाठान्तरम्। सृष्टाम्बुजं विनिक्षिप्य इत्यस्य खाने "
 
 **पूरयेत् त्रिदिनं भूम्यां गजहस्तप्रमाणतः।  
 अनेन सूतराजोऽयं षण्डभावं विमुञ्चति।**
@@ -1873,7 +1935,9 @@ Fifthprocess.
 षड्गुणे गन्धके जीर्णे सर्व्वरोगहरो रसः॥**
 
 **अवश्यमित्युवाचेन्द्रं देवः श्रीभैरवः स्वयं।  
-गन्धपिष्टिकया तत्र गोलः स्याद् [गन्धजारणे॥](# "* जारणाख्ये यन्त्रे वह्निसंयोगाद् गन्धकजारणा प्रसस्ता। यन्त्राध्याये चान्यत्र सविस्तरं वर्णितैषा प्रक्रिया।")**
+गन्धपिष्टिकया तत्र गोलः स्याद् गन्धजारणे॥[^32]**
+
+[^32]: "* जारणाख्ये यन्त्रे वह्निसंयोगाद् गन्धकजारणा प्रसस्ता। यन्त्राध्याये चान्यत्र सविस्तरं वर्णितैषा प्रक्रिया।"
 
 **यथा स्याज्जारणा वह्रौतथा स्याद् गुणदो रसः।  
 तस्माच्छतगुणो व्योमसत्तु जीर्णे तु तत्समे॥**
@@ -1886,7 +1950,9 @@ Fifthprocess.
 
   Those physicians who expect good results from mercury without letting it swallow mica, gold, and sulphur, are as bad as farmers who expect crops from a field which has not been sown.
 
-  The potency of pure mercury increases hundred times, if it is made to consume an equal quantity of pure sulphur. Mercury can cure all sorts of leprosy,if it is made to consume double its quantity of sulphur; it cures all sorts of inertness, if it is made to consume three times its weight of sulphur; it cures premature falling of teeth and greyness of hair, if it\` consumes four times its weight of sulphur; it cures consumption, if it consumes five times its weight of sulphur; and it cures all sorts of diseases, if it is made to consume six times its weight of [sulphur](# "* For the best process of consuming of sulphur by mercury, see Jarana Jantiam under apparata.").
+  The potency of pure mercury increases hundred times, if it is made to consume an equal quantity of pure sulphur. Mercury can cure all sorts of leprosy,if it is made to consume double its quantity of sulphur; it cures all sorts of inertness, if it is made to consume three times its weight of sulphur; it cures premature falling of teeth and greyness of hair, if it\` consumes four times its weight of sulphur; it cures consumption, if it consumes five times its weight of sulphur; and it cures all sorts of diseases, if it is made to consume six times its weight of sulphur[^33].
+
+[^33]: "* For the best process of consuming of sulphur by mercury, see Jarana Jantiam under apparata."
 
   All this was said by Mahadeva himself to Indra, (the king of Svarga). If sulphur is to be consumed by mercury, it is first of all to be brought in contact with mercury. The potency of mercury increases according to the number and quantity of metals and semi-metals it consumes.
 
@@ -2006,8 +2072,10 @@ Another kind of *bida.*
 **सर्व्वाङ्गं खण्डशशिछन्नं नातिशुष्कं शिलातले।  
 दग्धं काण्डं तिलानाञ्च पञ्चाङ्गं मूलकस्य च॥**
 
-**प्लावयेत् [मूत्रवर्गेण](# " *गोजाविमहिषीणां तु स्त्रीणां मूत्रं प्रशस्यते।  खरोष्ट्रेभनराश्वाणां पुंसां मूत्रं हितं स्मृतम्॥")जलं तस्मात् परिस्रुतं।  
+**प्लावयेत् मूत्रवर्गेण[^34]जलं तस्मात् परिस्रुतं।  
 लौहपात्रे पचेद् यन्त्रे हंसपाकाग्निना सुधीः॥**
+
+[^34]: " *गोजाविमहिषीणां तु स्त्रीणां मूत्रं प्रशस्यते।  खरोष्ट्रेभनराश्वाणां पुंसां मूत्रं हितं स्मृतम्॥"
 
 **बाष्पाणां बुद्बुदानाञ्च वहनामुद्गमो यदा।  
 तदा काशीससौराष्ट्रीक्षारत्रयकटुत्रयम्॥**
@@ -2016,7 +2084,9 @@ Another kind of *bida.*
 एषां चूर्णं क्षिपेत् यत्नात् लोहकपुटमध्यतः॥**
 
 **सप्ताहं भूगतः पश्चात् धार्य्यस्तु प्रचुरो विड़ः।  
-(अत्र सकलक्षारैश्च साम्यं [तिलकाण्डानां](# "**खर्परं सिकतापूर्णं कृत्वा तस्योपरि क्षिपेत्।  तुल्यञ्च खर्परं तत्र शनैर्मृद्वग्निना पचेत्।  पञ्चक्षारं तथा मूत्रं लवणञ्च विड़ं ततः।  हंसपाकं समाख्यातं यन्त्रं तद् वार्त्तिकोत्तमैः॥"))।**
+(अत्र सकलक्षारैश्च साम्यं तिलकाण्डानां[^35])।**
+
+[^35]: "**खर्परं सिकतापूर्णं कृत्वा तस्योपरि क्षिपेत्।  तुल्यञ्च खर्परं तत्र शनैर्मृद्वग्निना पचेत्।  पञ्चक्षारं तथा मूत्रं लवणञ्च विड़ं ततः।  हंसपाकं समाख्यातं यन्त्रं तद् वार्त्तिकोत्तमैः॥"
 
 Another kind of *bida.*
 
@@ -2071,7 +2141,9 @@ Bidabati.
 
 *(e) Fifth process of swallowing of metals by mercury.*
 
-  Mercury is to be rubbed, for one day, in a hot mortar, with one sixty-fourth part of its weight of gold leaves besmeared with the bile of peacock, all these substances being immersed in lemon juice. The same procedure is to be repeated, if it is intended that the mercury would be required to swallow another morsel of gold (i.e. gold weighing another one sixty fourth part of the mercury). After the rubbing is over, the mercury is to be covered with bhurja leaves, kept inside a vessel containing kanji, mixed with salt, boiled for three days. It will then be found that mercury has swallowed the gold with which it was [rubbed](# "Gold leaves are sometimes used in the pr-paration of Swarnasinduram or Makaradhwajı, etc., but the process how the gold is to be swallowed by the mercury does not appear to be known to the modern chemists who are under a wrong impression that gold cannot be chemically combined with mercury. Instead of making the mercury swallow the gold by one of the processes described bere, the modern kavirajas and their followers rub the mercury and the gold leaves with sulphur and the prescribed juices; and thus prepare the compound by means of a Baluka Jantram, failing to have the mercury combined with the gold, which is found separated from the compound. For preparation of Makaradhwaj.s, etc., see the next mercurial operation.").If the weight of the mercury is greater thanwhat it was originally, it is again to be boiled until it reverts to its original weight. The quantity of gold to be swallowed by mercury may be increased to one thirty-second part, one sixteenth part, one eighth part, etc. Essences of silver and other metals may also similarly be swallowed by mercury. Chulika salt and gandhaka are to be used only in the absence of peacock's bile.
+  Mercury is to be rubbed, for one day, in a hot mortar, with one sixty-fourth part of its weight of gold leaves besmeared with the bile of peacock, all these substances being immersed in lemon juice. The same procedure is to be repeated, if it is intended that the mercury would be required to swallow another morsel of gold (i.e. gold weighing another one sixty fourth part of the mercury). After the rubbing is over, the mercury is to be covered with bhurja leaves, kept inside a vessel containing kanji, mixed with salt, boiled for three days. It will then be found that mercury has swallowed the gold with which it was rubbed[^36].If the weight of the mercury is greater thanwhat it was originally, it is again to be boiled until it reverts to its original weight. The quantity of gold to be swallowed by mercury may be increased to one thirty-second part, one sixteenth part, one eighth part, etc. Essences of silver and other metals may also similarly be swallowed by mercury. Chulika salt and gandhaka are to be used only in the absence of peacock's bile.
+
+[^36]: "Gold leaves are sometimes used in the pr-paration of Swarnasinduram or Makaradhwajı, etc., but the process how the gold is to be swallowed by the mercury does not appear to be known to the modern chemists who are under a wrong impression that gold cannot be chemically combined with mercury. Instead of making the mercury swallow the gold by one of the processes described bere, the modern kavirajas and their followers rub the mercury and the gold leaves with sulphur and the prescribed juices; and thus prepare the compound by means of a Baluka Jantram, failing to have the mercury combined with the gold, which is found separated from the compound. For preparation of Makaradhwaj.s, etc., see the next mercurial operation."
 
 **(च) रसस्य षष्ठो ग्रासविधिः।**
 
@@ -2271,8 +2343,10 @@ Bidabati.
 **कुर्य्याच्च घण्टिकायुक्तंद्वयमेकत्र योजयेत्।  
 चुल्लिकायां तदा दध्यात् सरसं तं समुन्नतम्॥**
 
-**संहतं मुद्रितं गाढ़ं [काचलिप्तं](# "* कचलिप्तमिति पाठान्तरम्।") महोत्तमम्।  
+**संहतं मुद्रितं गाढ़ं काचलिप्तं[^37] महोत्तमम्।  
 वह्निसहं वलिं दत्त्वापश्चाच्चाति सुभक्तितः॥**
+
+[^37]: "* कचलिप्तमिति पाठान्तरम्।"
 
 **गुरु पूजादिकं कुर्य्यात् तथा च रसपूजनम्।  
 अधो वह्निर्विधातव्यो मध्ये चोर्द्धेसमुद्गतः॥**
@@ -2285,7 +2359,9 @@ Bidabati.
 
 *Second process.*
 
-  Two pieces of sea salt are to be hollowed into two pots, each plastered, first of all, with pasted tila (sesamum ) and dried, and then with mud on the outside. Purified and powdered sulphur is to be scattered here and there over the inner surface of one of the salt pots, into which is to be kept mercury, the other pot being placed over the first, and the joint closed tightly with cowdung, mud etc. The whole thing is then to be plastered all over with the mixed substance out of which glass is [prepared.](# " According to another version, it is to be plastered all over with mud mixed with human hair.")It is then to be placed in such a mild fire as to let the glass substance turn into glass. Fire is then to be placed all over the spheroid, Thus heated, the mercury is enabled to swallow the sulphur in a short time. A fresh quantity of sulphur may similarly be swallowed by the very same mercury.
+  Two pieces of sea salt are to be hollowed into two pots, each plastered, first of all, with pasted tila (sesamum ) and dried, and then with mud on the outside. Purified and powdered sulphur is to be scattered here and there over the inner surface of one of the salt pots, into which is to be kept mercury, the other pot being placed over the first, and the joint closed tightly with cowdung, mud etc. The whole thing is then to be plastered all over with the mixed substance out of which glass is prepared.[^38]It is then to be placed in such a mild fire as to let the glass substance turn into glass. Fire is then to be placed all over the spheroid, Thus heated, the mercury is enabled to swallow the sulphur in a short time. A fresh quantity of sulphur may similarly be swallowed by the very same mercury.
+
+[^38]: " According to another version, it is to be plastered all over with mud mixed with human hair."
 
 **गन्धकजारणस्य तृतीयो विधिः।**
 
@@ -2380,11 +2456,15 @@ Bidabati.
 **कुपीकोटरमागतं रसगुणैर्गन्धं तुलायां विभुं  
 विज्ञाय ज्वलनं क्रमेण सिकतायन्त्रे शनैः पाचयेत्।  
 वारंवारमनेन वहिविधिना गन्धक्षयं साधयेत्  
-सिन्दुरद्यूतितोऽनुभूय भणितः कर्म्मक्रमोऽयं [शुभः](# "* रसमन्तरेण हिङ्गुलगन्धाभ्यामपि सिन्दूरं सम्पाद्यमत्र हिङ्गलपरिमाणं रसस्य द्विगुणम्। अत्र षड्गुणगन्धकेन सह रसस्य सिन्दूरपाकः कथ्यते। अनेनैव प्रकारेण षड्गुणबलिजारणा न सम्पद्यते॥")॥**
+सिन्दुरद्यूतितोऽनुभूय भणितः कर्म्मक्रमोऽयं शुभः[^39]॥**
+
+[^39]: "* रसमन्तरेण हिङ्गुलगन्धाभ्यामपि सिन्दूरं सम्पाद्यमत्र हिङ्गलपरिमाणं रसस्य द्विगुणम्। अत्र षड्गुणगन्धकेन सह रसस्य सिन्दूरपाकः कथ्यते। अनेनैव प्रकारेण षड्गुणबलिजारणा न सम्पद्यते॥"
 
 *(b) Second process.*
 
-  Mercury is not able to cure diseases promptly without consuming six times its weight of sulphur. Neither can it be effective in preventing disease and old age, if it is not combined chemically with mica and gold[(both reduced to bhasma or ashes)](# " **The general rule is not to use any metal for medicinal purposes without purifying and reducing it to asles. Mercury may, however, be made use of, after it passes through all the stages up to “swoon”. Sulphur may be used after purification.").
+  Mercury is not able to cure diseases promptly without consuming six times its weight of sulphur. Neither can it be effective in preventing disease and old age, if it is not combined chemically with mica and gold(both reduced to bhasma or ashes)[^40].
+
+[^40]: " **The general rule is not to use any metal for medicinal purposes without purifying and reducing it to asles. Mercury may, however, be made use of, after it passes through all the stages up to “swoon”. Sulphur may be used after purification."
 
   Mercury (properly purified) is to be rubbed with six times its weight of sulphur (purified), and put into a glass bottle or flask, which is to be placed in a Baluka Jantram, and properly heated. The heating is to be continued till the surplus sulphur is burnt out and the compound assumes the appearance of red vermilion (noticeable from outside the flask).
 
@@ -2553,7 +2633,9 @@ Bidabati.
 ऊर्द्धं रेचयति द्वियाममसकृत् पेयं जलं शीतलम्॥**
 
 **एतद्धन्ति च वत्सरावधि विषं पाण्मासिकंमासिक्रम्।  
-[शैलोत्थं](# "* एतदेव मलयाचलजं ब्रह्मपुत्राख्यं विषम्। तथाहि भावप्रकाशे ")गरलं भृगेन्द्रकुटिलोद्भूतञ्च तात्कालिकम्॥**
+शैलोत्थं[^41]गरलं भृगेन्द्रकुटिलोद्भूतञ्च तात्कालिकम्॥**
+
+[^41]: "* एतदेव मलयाचलजं ब्रह्मपुत्राख्यं विषम्। तथाहि भावप्रकाशे "
 
 *Another process—Sudhanidhi-rasa, stveta-rast, or rasa karpuram (white mercury).*
 
@@ -2600,7 +2682,11 @@ Bidabati.
 
 *Ninth process—Krishna.rasa. (black mercurry).*
 
-  Dhanya [abhra](# "* Finely powdered mica. For preparation, see Vol. II under mica. ")and an equal quantity of mercury are to be rubbed for one day with the juice of *maraka* drugs (i. c.[drugs](# "+These will be named later.")which help the killing of mercury). A piece of cloth is then to be soaked with the mixture. When dried, the rag is to be steeped again and again in castor oil, and made into a candle, which is to be kept in an earthen vessel soaked with clarified butter, and lighted. The black substance deposited in the vessel will have to be rubbed again with the juice of the *maraka* drugs referred to above, and subjected for one day to sublimation by means of a Kanduka Jantram. Thisblack mercury can be used in all sorts of diseases with suitable *anupanam.*
+  Dhanya abhra[^42]and an equal quantity of mercury are to be rubbed for one day with the juice of *maraka* drugs (i. c.drugs[^43]which help the killing of mercury). A piece of cloth is then to be soaked with the mixture. When dried, the rag is to be steeped again and again in castor oil, and made into a candle, which is to be kept in an earthen vessel soaked with clarified butter, and lighted. The black substance deposited in the vessel will have to be rubbed again with the juice of the *maraka* drugs referred to above, and subjected for one day to sublimation by means of a Kanduka Jantram. Thisblack mercury can be used in all sorts of diseases with suitable *anupanam.*
+
+[^42]: "* Finely powdered mica. For preparation, see Vol. II under mica. "
+
+[^43]: "+These will be named later."
 
 **—मतान्तरम्—**
 
@@ -2638,8 +2724,10 @@ Parpati-Rasa.
 
 **(ट) एकादशो विधिः। मकरध्वजः।**
 
-**[स्वर्णभस्म](# "स्वर्णदलमिति पाठो असाधुः रसरत्नसमुच्चये हि पारदस्य मूर्च्छाविधौ लिखितम् मृतैर्लोहैर्मर्द्दितं विपचेद् रसमित्यादि। तथाहि रसेन्द्रचिन्तामणौ न जलद्कलधौतपाकहीनः स्पृशति रसायनतामित्यादिः (१०१ पृष्ठम् द्रष्टव्यम्)।जलदमत्राभ्रभस्म तथैव कलधौतं स्वर्णभस्स। नास्त्यत्र सन्देहः। अत्रादौबुभुक्षितंपारदेन यथाविधि स्वर्णभस्म ग्रासयितव्यम् तदा स्वर्णगर्भोऽयं रसो गन्धकेन सह यथाविधि मर्द्दनीयः।")पलञ्चैव रसेन्द्रञ्च पलाष्टकम्।  
+**स्वर्णभस्म[^44]।जलदमत्राभ्रभस्म तथैव कलधौतं स्वर्णभस्स। नास्त्यत्र सन्देहः। अत्रादौबुभुक्षितंपारदेन यथाविधि स्वर्णभस्म ग्रासयितव्यम् तदा स्वर्णगर्भोऽयं रसो गन्धकेन सह यथाविधि मर्द्दनीयः।")पलञ्चैव रसेन्द्रञ्च पलाष्टकम्।  
 रसस्य द्विगुणं गन्धं तेनैव कज्ज्वलीकृतम्॥**
+
+[^44]: "स्वर्णदलमिति पाठो असाधुः रसरत्नसमुच्चये हि पारदस्य मूर्च्छाविधौ लिखितम् मृतैर्लोहैर्मर्द्दितं विपचेद् रसमित्यादि। तथाहि रसेन्द्रचिन्तामणौ न जलद्कलधौतपाकहीनः स्पृशति रसायनतामित्यादिः (१०१ पृष्ठम् द्रष्टव्यम्
 
 **कुमारिकारसैर्भाव्यं काचपात्रे निधापयेत्।  
 वालुयन्त्रे च संस्थाप्य क्रमाद् दिनत्रयं पचेत्॥**
@@ -2778,7 +2866,9 @@ Parpati-Rasa.
 
 *Eighteenth process.*
 
-  The stool of a newly born baby, seeds of palasa, juice of a chandali plant, and mercury, each equal inquantity, and tanganam, one fourth in weight of mercury-all of these are to be rubbed for one day with the juice of jayanti and made into a ball. A part of this ball is to be rubbed with sahadevi, with which is to be painted the whole surface of a copper [samputam](# "Samputam means a basin placed upon another, the joint being tightly closed with rags mixed with mud. This is used for the purpose of killing metals and semimetals which are placed inside the two basins. See the Chapter on putam.")inside which is to be put the ball. The samputam is then to be heated for six hours by means of a Baluka Jantram placed upon mild fire. The external surface of the samputam is then to be painted with a paste made of chitraka, sahadevi, and gandhaka, and wrapped up in a piece of cloth, which is to be covered with mud and dried. This is then to be put inside a blind crucible, which is to be sub-jected to heat. The samputam is then to be taken out and reduced to fine powder, which cures all sorts of diseases, and serves to increase the potency of the medicine with which it is mixed, Here the samputam has the same property as the mercury contained in it.
+  The stool of a newly born baby, seeds of palasa, juice of a chandali plant, and mercury, each equal inquantity, and tanganam, one fourth in weight of mercury-all of these are to be rubbed for one day with the juice of jayanti and made into a ball. A part of this ball is to be rubbed with sahadevi, with which is to be painted the whole surface of a copper samputam[^45]inside which is to be put the ball. The samputam is then to be heated for six hours by means of a Baluka Jantram placed upon mild fire. The external surface of the samputam is then to be painted with a paste made of chitraka, sahadevi, and gandhaka, and wrapped up in a piece of cloth, which is to be covered with mud and dried. This is then to be put inside a blind crucible, which is to be sub-jected to heat. The samputam is then to be taken out and reduced to fine powder, which cures all sorts of diseases, and serves to increase the potency of the medicine with which it is mixed, Here the samputam has the same property as the mercury contained in it.
+
+[^45]: "Samputam means a basin placed upon another, the joint being tightly closed with rags mixed with mud. This is used for the purpose of killing metals and semimetals which are placed inside the two basins. See the Chapter on putam."
 
 **उनविंशो विधिः।**
 
@@ -2908,13 +2998,17 @@ Parpati-Rasa.
 **(१२) अथ रसस्य सञ्चारणम् (एतदस्य द्वादशः संस्कारः)।**
 
 **तृटिशो दत्त्वामृदितं सोष्णेखल्वेऽभ्रहेमलोहादि।  
-चरति रसेन्द्रः क्षितिखगवत् [सजम्बीरबीजपुराम्लैः](# "सजम्बीरवीजपुराम्लस्थले पूर्व्वसाधितकाञ्जिकस्यापि व्यवहारो दृश्यते ।")॥**
+चरति रसेन्द्रः क्षितिखगवत् सजम्बीरबीजपुराम्लैः[^46]॥**
+
+[^46]: "सजम्बीरवीजपुराम्लस्थले पूर्व्वसाधितकाञ्जिकस्यापि व्यवहारो दृश्यते ।"
 
 *(12) Movement of Mercury.*
 
   Mercury (made capable of swallowing metals etc.), if rubbed in a hot mortar with mica, gold, iron etc., each one triti in weight, in sour juice made of juices of lime fruit and of bijapura, or in old kanji, moves like an earth worm.
 
-**(१३) अथ रसस्य गर्भद्रुतिः ([एतदस्य त्रयोदशः संस्कारः](# "* प्रसङ्गक्रमादत्र रसस्य बाह्यद्रुतिश्चोल्लिख्यते :—  बहिरेव द्रुतीकृत्य घनसत्त्वादिकं खलु। जारणाय रसेन्द्रस्य सा बाह्यद्रुतिरुच्यते॥"))।**
+**(१३) अथ रसस्य गर्भद्रुतिः (एतदस्य त्रयोदशः संस्कारः[^47])।**
+
+[^47]: "* प्रसङ्गक्रमादत्र रसस्य बाह्यद्रुतिश्चोल्लिख्यते :—  बहिरेव द्रुतीकृत्य घनसत्त्वादिकं खलु। जारणाय रसेन्द्रस्य सा बाह्यद्रुतिरुच्यते॥"
 
 **ग्रासस्य जारणम् गर्भद्रावणम् चारणं तथा।  
 त्रिरूपा रसजारणा निर्द्दिष्टा वरवार्त्तिकैः॥**
@@ -2941,7 +3035,9 @@ Parpati-Rasa.
 **एवं हेमाभ्रताराभ्रादयः स्वस्वरिपुणा।  
 निर्व्यूढ़ाप्रयोजनमवलोक्य प्रयोज्याः॥**
 
-  Thus, gold mica and silver [mica](# "See later, under Alchemy.") are to be freed from hostile elements and applied, as necessary.
+  Thus, gold mica and silver mica[^48] are to be freed from hostile elements and applied, as necessary.
+
+[^48]: "See later, under Alchemy."
 
 **बीजानां संस्कारः कर्त्तव्यः ताप्यसत्तसंयोगात्।  
 तेन द्रवन्ति गर्भाः रसराजस्याम्लवर्गयोगेन॥**
@@ -3002,11 +3098,15 @@ cxhaustion of mercury.*
 द्विगुणं योजयेदेवं सत्त्वमभ्रकसम्भवम्॥**
 
 **पूतिलोहं विषं मूत्रं रसकं गन्धकत्रयम्।  
-न युञ्ज्याज्जारणे सुतस्तैर्जीर्णः [स्फोटकुष्ठकृत्](# "रसे गन्धाभ्रहेमादीन्यथारीति ग्रसति विधिरेष निष्प्रयोजनीयः ।")॥\***
+न युञ्ज्याज्जारणे सुतस्तैर्जीर्णः स्फोटकुष्ठकृत्[^49]॥\***
+
+[^49]: "रसे गन्धाभ्रहेमादीन्यथारीति ग्रसति विधिरेष निष्प्रयोजनीयः ।"
 
 *(1) First process of exhaustion of mercury.*
 
-  Essence of mica, previously soaked with sour asava and dried; and kanta iron or steel, reduced to ashes; —each of these two things, one sixty fourth part of the mercury in weight, is to be mixed, very slowly and little by little, with the mercury mixed with kanji, and rubbed very fine in a hot mortar. The mercury is then to be put upon a bhurja leaf, previously painted with jabakshara, kanji, saindhava, milk of snuhi, and that of arka, and then wrapped up in apiece of cloth and tightly bound, the bundle being boiled in kanji, equal in quantity to the mercury, then washed off with hot kanji, and well dried. The mercury is now to be mixed with one eighth its quantity of bida, and subjected to heat by means of a Kacchapa Jantram. This is how mercury is exhausted, and is capable of standing fire. If iron, mica etc. with which mercury was rubbed—are properly swallowed, the mercury retains its original quantity, and can stand the heat of fire. In case these are not properly swallowed, the mercury will have to be subjected to a process of sublimation by means of sour asava, and then again to be rubbed and boiled, as before. Every such new act of exhaustion will require increased fire and increased morsel (z.e., mica, iron etc., meant to be swallowed by [mercury](# "In the event of mercury having previously swallowed sulphur, mica, gold etc. this process need not be gone into.")).Iron rust or oxidised iron, aconite, urine, rasaka, manas-sila, haritala, and gandhaka are not to be made use of in the exhaustion of mercury, since mercury exhausted with these things give rise to leprosy, boils etc.
+  Essence of mica, previously soaked with sour asava and dried; and kanta iron or steel, reduced to ashes; —each of these two things, one sixty fourth part of the mercury in weight, is to be mixed, very slowly and little by little, with the mercury mixed with kanji, and rubbed very fine in a hot mortar. The mercury is then to be put upon a bhurja leaf, previously painted with jabakshara, kanji, saindhava, milk of snuhi, and that of arka, and then wrapped up in apiece of cloth and tightly bound, the bundle being boiled in kanji, equal in quantity to the mercury, then washed off with hot kanji, and well dried. The mercury is now to be mixed with one eighth its quantity of bida, and subjected to heat by means of a Kacchapa Jantram. This is how mercury is exhausted, and is capable of standing fire. If iron, mica etc. with which mercury was rubbed—are properly swallowed, the mercury retains its original quantity, and can stand the heat of fire. In case these are not properly swallowed, the mercury will have to be subjected to a process of sublimation by means of sour asava, and then again to be rubbed and boiled, as before. Every such new act of exhaustion will require increased fire and increased morsel (z.e., mica, iron etc., meant to be swallowed by mercury[^50]).Iron rust or oxidised iron, aconite, urine, rasaka, manas-sila, haritala, and gandhaka are not to be made use of in the exhaustion of mercury, since mercury exhausted with these things give rise to leprosy, boils etc.
+
+[^50]: "In the event of mercury having previously swallowed sulphur, mica, gold etc. this process need not be gone into."
 
 **विड़ोऽत्र पुनरेकः कथ्यते।**
 
@@ -3032,20 +3132,26 @@ cxhaustion of mercury.*
 
   Mercury with an equal quantity of gold is to be smelted and mixed with swarna makshika, kanta pashana (load stone ), gandhaka, (each duly reduced to ashes or purified, as the case may be, and equal in quantity to gold). The whole thing is then to be rubbed with earth worms and made into pills, six ratis in weight. This pill is called bida bati, and is always used in the exhaustion of gold.
 
-**[मतान्तरेणाग्निस्थायीकरणम्](# "अनाचरिते रसजारणस्य प्रथमे विधौ प्रणाल्येषावलम्बनीया ।")।**
+**मतान्तरेणाग्निस्थायीकरणम्[^51]।**
+
+[^51]: "अनाचरिते रसजारणस्य प्रथमे विधौ प्रणाल्येषावलम्बनीया ।"
 
 **ताम्रेण वा समं पिष्टीं चतुर्भागां विधीयताम्।  
 पातयेड्डमरुयन्त्रे त्रिवारं निम्बुकद्रवैः॥**
 
-**ततो रक्तगणेनायं रसराजो यथा [दृढ़म्](# "* रक्तगणो यथा—  कुसुम्भं खदिरो लाक्षा मञ्जिष्ठा रक्तचन्दनम्। अक्षी चवन्धुजीवश्च तथा कर्पूरगन्धिनी। माक्षिकं चेति विज्ञेयो रक्तवर्गोऽतिरञ्जणः॥")।  
+**ततो रक्तगणेनायं रसराजो यथा दृढ़म्[^52]।  
 मर्दितो जायते वह्निस्थायी विघ्नविवर्ज्जितः॥**
+
+[^52]: "* रक्तगणो यथा—  कुसुम्भं खदिरो लाक्षा मञ्जिष्ठा रक्तचन्दनम्। अक्षी चवन्धुजीवश्च तथा कर्पूरगन्धिनी। माक्षिकं चेति विज्ञेयो रक्तवर्गोऽतिरञ्जणः॥"
 
 **अनेनैव विधानेन कर्त्तव्या जारणा रसे।  
 अन्यथा जायते सद्यः पलालस्य विधूननम्॥**
 
 *Another process of enabling mercury lo stand fire.*
 
-  Mercury is to be rubbed with one fourth its weight of copper, and made into a lump, which is to be subjected to sublimation by means of a Damaru Jantram, filled with lime juice. Mercury is then to be rubbed steadily with the raktagana (red [group](# "+ These are —kusumbha, khadira, laksha, manjistha, raktachan-dana, redshigru, bandhujiba, karpura-gandhini and makshika. These are used in preparing a deep red colour.") , and is thus enabled to stand fire, leaving no possibility of danger. Thus is mercury to be exhausted.
+  Mercury is to be rubbed with one fourth its weight of copper, and made into a lump, which is to be subjected to sublimation by means of a Damaru Jantram, filled with lime juice. Mercury is then to be rubbed steadily with the raktagana (red group[^53] , and is thus enabled to stand fire, leaving no possibility of danger. Thus is mercury to be exhausted.
+
+[^53]: "+ These are —kusumbha, khadira, laksha, manjistha, raktachan-dana, redshigru, bandhujiba, karpura-gandhini and makshika. These are used in preparing a deep red colour."
 
 **(२) रसजारणस्य द्वितीयो विधिः।**
 
@@ -3061,8 +3167,10 @@ cxhaustion of mercury.*
 **काकमाची द्रवं चाग्नौ दत्त्वा दत्त्वा च जारयेत्।  
 मूषाधो गोमयञ्चात्र दत्त्वा चोर्द्ध्वाञ्च पावकम्॥**
 
-**षड्गुणं गन्धकं जार्य्यं सूतस्यैवं मुखं [भवेत्](# "चतुःषष्ठ्यंशतो वीजप्रक्षेपो मुखमुच्यते ।")।  
+**षड्गुणं गन्धकं जार्य्यं सूतस्यैवं मुखं भवेत्[^54]।  
 तं सूतं मर्द्दयेन्नीरैः जम्बीरोत्थैः पुनः पुनः॥**
+
+[^54]: "चतुःषष्ठ्यंशतो वीजप्रक्षेपो मुखमुच्यते ।"
 
 **चतुःषष्ठ्यंशकं पूर्व्वं द्वात्रिंशांशं ततः पुनः।  
 षोड़शांशं ततो हेमपत्रं सूते विनिक्षिपेत्॥**
@@ -3079,8 +3187,12 @@ cxhaustion of mercury.*
 **पिष्टा जम्बीरनीरेण हेमपत्रं प्रलेपयेत्।**  
 **इत्येवं जारणा कार्य्या ततः सूतञ्च मारयेत्॥**
 
-**अथवा निर्मुखं सूतं विड़योगेन [मर्द्दयेत्](# "मर्द्दनमत्र तप्तखल्लके कर्त्तव्यम् ।")।  
-स्वर्णाभ्रसर्व्वलोहानि यथेष्टानि च [जारयेत्](# "धातुभोजनाध्याय-लिखित-विधिना गन्धाभ्रहेमादीन् ग्रसति रसे विधिरेषः न समाचरणीयः ।")॥**
+**अथवा निर्मुखं सूतं विड़योगेन मर्द्दयेत्[^55]।  
+स्वर्णाभ्रसर्व्वलोहानि यथेष्टानि च जारयेत्[^56]॥**
+
+[^55]: "मर्द्दनमत्र तप्तखल्लके कर्त्तव्यम् ।"
+
+[^56]: "धातुभोजनाध्याय-लिखित-विधिना गन्धाभ्रहेमादीन् ग्रसति रसे विधिरेषः न समाचरणीयः ।"
 
 *(2) Second process of the exhaustion of mercury.*
 
@@ -3124,7 +3236,9 @@ cxhaustion of mercury.*
 *Another version.*
 
   Mercury is first of all to swallow the following five morsels of essence of mica :— _(![](../../../books_images/U-IMG-1709234479Screenshot2024-03-01005103.png))and_(![](../../../books_images/U-IMG-1709234545Screenshot2024-03-01005210.png))
-of the mercury, which is then to swallow one fourth its weight of gold or silver, as the case may [be](# "If the mercury is meant to be used for medicinal purposes only, both gold and silver or any one of them may be used at this stage. But if the mercury is meant to be used in the transformation of base metals into gold or silver,. the use of these two metals at this stage, will depend upon whether it is meant to manufacture gold or silver.").
+of the mercury, which is then to swallow one fourth its weight of gold or silver, as the case may be[^57].
+
+[^57]: "If the mercury is meant to be used for medicinal purposes only, both gold and silver or any one of them may be used at this stage. But if the mercury is meant to be used in the transformation of base metals into gold or silver,. the use of these two metals at this stage, will depend upon whether it is meant to manufacture gold or silver."
 
 **(१५) अथ रसस्य मारणम् (एतदस्य पञ्चदशः संस्कारः)।**
 
@@ -3177,7 +3291,9 @@ mercurial operation.)*
 
 *Third process.*
 
-  Mercury is to be rubbed steadily for twelve hours by the controlling drugs. It is then to be mixed with double its quantity of sulphur [oil](# "Sulphur, purified and powdered, is to be strewn over a piece of cloth, which is to be soaked with mustard oil, and made into a wicker. If lighted, and held erect on a glass pot, the wicker will let oil fall, drop by drop, and collect itself in the pot. This oil is called sulpbur oil.")and heated steadily by means of mild fire, until it is solidified. It is then to be put inside an iron samputam, which itself is to be confined within a crucible, made of oxidised iron, rubbed with haritaki made into a paste. In a groove made at the top of the crucible, place some lead and heat the crucible steadily until the lead smelts. The heating is then to be discontinued until the lead gets solidified again. The process is to be repeated, and the crucible heated in this way for 12 hours, leading to the killing of the mercury. Lead is, in such a case, considered a controller of mercury.
+  Mercury is to be rubbed steadily for twelve hours by the controlling drugs. It is then to be mixed with double its quantity of sulphur oil[^58]and heated steadily by means of mild fire, until it is solidified. It is then to be put inside an iron samputam, which itself is to be confined within a crucible, made of oxidised iron, rubbed with haritaki made into a paste. In a groove made at the top of the crucible, place some lead and heat the crucible steadily until the lead smelts. The heating is then to be discontinued until the lead gets solidified again. The process is to be repeated, and the crucible heated in this way for 12 hours, leading to the killing of the mercury. Lead is, in such a case, considered a controller of mercury.
+
+[^58]: "Sulphur, purified and powdered, is to be strewn over a piece of cloth, which is to be soaked with mustard oil, and made into a wicker. If lighted, and held erect on a glass pot, the wicker will let oil fall, drop by drop, and collect itself in the pot. This oil is called sulpbur oil."
 
 **चतुर्थोविधिः।**
 
@@ -3196,8 +3312,10 @@ mercurial operation.)*
 
 **पञ्चमो विधिः।**
 
-**कटुतुम्व्युद्भवे [कन्दे](# "कल्के इति पाठान्तरम् ।")गर्भे नारीपयोयुतः।  
+**कटुतुम्व्युद्भवे कन्दे[^59]गर्भे नारीपयोयुतः।  
 स्वेदनाद् म्रियते सूतः सप्तधा गोमयाग्निना॥**
+
+[^59]: "कल्के इति पाठान्तरम् ।"
 
 *Fifth process.*
 
@@ -3250,7 +3368,9 @@ mercurial operation.)*
 **दशमो विधिः।**
 
 **व्यालस्य गरले सूतं मर्द्दयेत् सप्तवासरान्।  
-शम्भुनालंकृते यन्त्रे तन्मध्ये तद्रसं [क्षिपेत्](# "शम्भुनालंकृतं यन्त्रं जलयन्त्रं प्रकीर्त्तितम् ।")॥**
+शम्भुनालंकृते यन्त्रे तन्मध्ये तद्रसं क्षिपेत्[^60]॥**
+
+[^60]: "शम्भुनालंकृतं यन्त्रं जलयन्त्रं प्रकीर्त्तितम् ।"
 
 **वह्निंप्रज्वालयेद गाढ़ं दयादूर्द्ध्वंहिमं जलम्।  
 यामद्वादशकं चैव सुसिद्धो जायते रसः॥**
@@ -3646,8 +3766,10 @@ Sixth process.*
 **अङ्कोलमज्जास्वरसैरेरण्डकदलीजलैः।  
 मार्कवस्य द्रवैः सूतं काकमाचीरसैस्तथा॥**
 
-**धत्तूरपत्रस्वरसै[र्भेण्डापत्री](# "भेकपर्णीति पाठान्तरम् ।")रसैरपि।  
+**धत्तूरपत्रस्वरसैर्भेण्डापत्री[^61]रसैरपि।  
 तण्डूलीयकतोयेन कन्यकारसमर्द्दितः॥**
+
+[^61]: "भेकपर्णीति पाठान्तरम् ।"
 
 **इष्टिकाकांजिकेनाथ त्रिफलाक्वाथमर्द्दितः।  
 कंटालिकारसेनापि देवदाल्या रसेन तम्॥**
@@ -3706,7 +3828,9 @@ Sixth process.*
 
 *Fifteenth process.*
 
-  Mercury, six palas in weight, is to be rubbed for three hours with each of the following:— juices of the kernel of the ankola fruit, eranda, plantain tree, bhringraja, kakamachi, dhatura leaves, [bhendapatri](# "another reading—bhekaparni.") tanduliyaka, kanya leaves, powdered brick, kanji, decoction of the triphala ; juices of kantalika, devadali, chapalá, gokshura, chitraka, sehundu, chinchika, mushakarni, atarusha, kalihari, and gandadurba. The mercury is then to be rubbed, for several times, in a hot mortar with lime juice, with which the mercury is again to be subjected to bhabana for several times. Next, are to be procured two earthen basins, uniform in size, and strong. One of these is to be painted all over with a paste made of powdered leaves of the plants which can control mercury. Five different kinds of mud (viz, brick, gairika, salt, kshara, and mud created by white ants), are to be placed in thisbasin with a hole being made in the mud. Pour the juice of simbika leaves and dhatura leaves into the hole. Prepare a crucible and put it into the hole. Put mercury into the crucible with one seer in weight of the juice of simbi leaves. The crucible is to be covered with a basin containing small holes. By the side of the mercury are to be placed broken pieces of new earthen pots. The other basin is now to be got. This should be painted with the juice of kanya leaves and with powdered nabasara. The basins are now to be joined with each other, and to be placed on fire, which is to be kindled on all sides of the basins. The heating is to last for forty-eight hours continuously, leading to the incineration of the mercury. The ashes, so produced, resemble sometimes a diamond, sometimes a parpatica, sometimes camphor, sometimes smelted silver, and sometimes the moon. For the cure of fever, one rati of this ash is to be taken with powdered maricha and molasses. It should be used with pippali in aversion to food; with mocharasa in grahani, with powdered bilwa in Atisara (diarrhoea); with the decoction of the triphala in pandu (jaundice); with the juice of bhargi in kasa (cough) and swasa (asthma). This is a very good medicine, giving strength, long life, and beauty to the man who takes it regularly.
+  Mercury, six palas in weight, is to be rubbed for three hours with each of the following:— juices of the kernel of the ankola fruit, eranda, plantain tree, bhringraja, kakamachi, dhatura leaves, bhendapatri[^62] tanduliyaka, kanya leaves, powdered brick, kanji, decoction of the triphala ; juices of kantalika, devadali, chapalá, gokshura, chitraka, sehundu, chinchika, mushakarni, atarusha, kalihari, and gandadurba. The mercury is then to be rubbed, for several times, in a hot mortar with lime juice, with which the mercury is again to be subjected to bhabana for several times. Next, are to be procured two earthen basins, uniform in size, and strong. One of these is to be painted all over with a paste made of powdered leaves of the plants which can control mercury. Five different kinds of mud (viz, brick, gairika, salt, kshara, and mud created by white ants), are to be placed in thisbasin with a hole being made in the mud. Pour the juice of simbika leaves and dhatura leaves into the hole. Prepare a crucible and put it into the hole. Put mercury into the crucible with one seer in weight of the juice of simbi leaves. The crucible is to be covered with a basin containing small holes. By the side of the mercury are to be placed broken pieces of new earthen pots. The other basin is now to be got. This should be painted with the juice of kanya leaves and with powdered nabasara. The basins are now to be joined with each other, and to be placed on fire, which is to be kindled on all sides of the basins. The heating is to last for forty-eight hours continuously, leading to the incineration of the mercury. The ashes, so produced, resemble sometimes a diamond, sometimes a parpatica, sometimes camphor, sometimes smelted silver, and sometimes the moon. For the cure of fever, one rati of this ash is to be taken with powdered maricha and molasses. It should be used with pippali in aversion to food; with mocharasa in grahani, with powdered bilwa in Atisara (diarrhoea); with the decoction of the triphala in pandu (jaundice); with the juice of bhargi in kasa (cough) and swasa (asthma). This is a very good medicine, giving strength, long life, and beauty to the man who takes it regularly.
+
+[^62]: "another reading—bhekaparni."
 
 **षोड़शो विधिः।**
 
@@ -3922,7 +4046,9 @@ Sixth process.*
 **क्षुद्बोधजनकश्चैव सिद्धनागेश्वरोदितम्।  
 गुडूचीसत्वयोगेन सर्वपुष्टिकरः स्मृतः॥**
 
-  Incinerated mercury, if taken with pippali, maricha, shunthi, bhargi, and honey, cures cough, asthma, and colic. It purifies the blood, if taken with turmeric and sugar. It cures jaundice and anaemia, if taken with trikatu, triphala, and the juice of basaka. It is to be used in stricture with shilajatu, elachi, and sugar-candy. Labanga, jatipatri, hingula, akalankara, pippali, bhanga-all of these are to be taken in equal quantities, and in one eighth the quantity. of each of these is to be taken camphor, and nagakeshara is to be taken half of lavanga etc.-all of these are to be rubbed together and taken with incinerated mercury for the purpose of increasing the [dhatus](# " The dhatus are the seven essential substances composing the human system.").
+  Incinerated mercury, if taken with pippali, maricha, shunthi, bhargi, and honey, cures cough, asthma, and colic. It purifies the blood, if taken with turmeric and sugar. It cures jaundice and anaemia, if taken with trikatu, triphala, and the juice of basaka. It is to be used in stricture with shilajatu, elachi, and sugar-candy. Labanga, jatipatri, hingula, akalankara, pippali, bhanga-all of these are to be taken in equal quantities, and in one eighth the quantity. of each of these is to be taken camphor, and nagakeshara is to be taken half of lavanga etc.-all of these are to be rubbed together and taken with incinerated mercury for the purpose of increasing the dhatus[^63].
+
+[^63]: " The dhatus are the seven essential substances composing the human system."
 
   Incinerated mercury cures all sorts of fever, if taken with, saubarchala salt, labanga, bhunimba, and haritaki, It serves as a purgative, if taken with saubarchala salt, and triphala. It increases the dhatus, if taken with labanga, and betel leaf. It may also be taken with the powdered bidarikanda, for the same purpose. It cures vomiting, if taken with bhanga and jamani. It cures all sorts of diseases relating to the belly, stomach, and abdomen, if taken with saubarchala salt, haridra, bhanga, and jamani. It kills worms, if taken with chaturballi, palasha seeds, anddouble their quantity of molasses. It cures all sorts of diarrhoea, if taken with opium, labanga hingula, and bhanga. It cures loss of appetite, if taken with saubar-chala salt and jamani.
 
@@ -4080,8 +4206,10 @@ medicine, if taken in the morning with honey, cures twenty different kinds of go
 **तण्डूलीयकमूलेन वीरामूलेन वा युतः।  
 तण्डूलोदकसंमिश्रः पाननावनलेपने॥**
 
-  Dead mercury, mixed with oil and the juices of cotton leaves and anantamulam, cures Osteomyclitis, or discharge of a liquid substance through a particular part of a bone, and cures poisons of all sorts, organic and inorgonic. The same purpose is served if dead mercury is mixed withrice [water](# "Powdered rice immersed for some time in four times its weight of water gives rise to rice water."),
+  Dead mercury, mixed with oil and the juices of cotton leaves and anantamulam, cures Osteomyclitis, or discharge of a liquid substance through a particular part of a bone, and cures poisons of all sorts, organic and inorgonic. The same purpose is served if dead mercury is mixed withrice water[^64],
 juice of tanduliyaka, or satabari, and used either as a drink, or as a snuff, or as an unguent.
+
+[^64]: "Powdered rice immersed for some time in four times its weight of water gives rise to rice water."
 
 **सुरभिशकृद्रसभावितकर्पूरसमन्वितो मृतः सूतः।  
 स्थावरजङ्गमकृत्रिमविषजिद् गुञ्जामितो दध्ना॥**
@@ -4102,8 +4230,10 @@ juice of tanduliyaka, or satabari, and used either as a drink, or as a snuff, or
 
   Gold, killed with incinerated lead and incinerated mercury, destroys senility, if taken for six months with the juice of satabari. The same purpose is served by taking the triphala, already subjected to bhavana with the decoctions of khadira and asana, respectively, and mixed with incinerated gold and incinerated mercury. One can live an incrediblelong life, if one takes every day regularly, mercury, killed with sulphur, and kanta iron, killed with the juice of amalaki, mixed together with the triphala. Chitraka roots, the triphala, bhringaraja, haridra, anjana leaves, killed mercury, clarified butter, sugar, and honey-all these taken together, serve to remove senility and ugliness of appearance.
 
-**[रसौषधीनां](# "रसौषधीनां रसमूलिकानामित्यर्थः ।")रसभावितश्च सितायुतक्षीरमधूदकाज्यैः।  
+**रसौषधीनां[^65]रसभावितश्च सितायुतक्षीरमधूदकाज्यैः।  
 जरां रसो हन्ति च कान्तपात्रे क्षीरं श्रुतं काञ्चनपादपिष्ट्या॥**
+
+[^65]: "रसौषधीनां रसमूलिकानामित्यर्थः ।"
 
   Senility is destroyed by dead mercury, previously subjected to bhavana with the herbs having the power of controlling mercury, if taken with sugar, milk, honey, water, and clarified butter, all rubbed together with incineráted gold, one fourth in quantity of the mercury, taking of this medicine being followed by the patient drinking some milk, boiled in a kanta iron pot.
 
@@ -4129,7 +4259,9 @@ juice of tanduliyaka, or satabari, and used either as a drink, or as a snuff, or
 **पञ्चामृतः।**
 
 **हेममाक्षिककान्ताभ्रमुक्तावज्रं समं समं  
-रसे सहेम्नि सप्ताहं [मूलिका](# "मूलिकाः सर्पाक्षी प्रभृति रसमूलिकाः ।")रसमर्द्दितम्॥**
+रसे सहेम्नि सप्ताहं मूलिका[^66]रसमर्द्दितम्॥**
+
+[^66]: "मूलिकाः सर्पाक्षी प्रभृति रसमूलिकाः ।"
 
 **तां पिष्टीं यन्त्रयोगेन पचेत् पञ्चामृताह्वयः।  
 रसोऽयं मधुसर्पिभ्यां युक्तः पूर्व्वाधिको गुणैः॥**
@@ -4189,9 +4321,11 @@ juice of tanduliyaka, or satabari, and used either as a drink, or as a snuff, or
 **योऽग्निसहत्वं प्राप्तः स जातो हेमतारकर्त्ता।  
 शुद्धरसश्च भुक्तो विधिना सिद्धिप्रदो भवति॥**
 
-  The soil of a human system is rendered fit for receiving the seed of mercury, after it is soothed, soothingly purged, and freed from ailments. It can be soothed with clarified butter, taken with a little of saindhava, every third day. It can be purged by a purgative called the Ichhavedi bati. It can be made to vomit by the juice of bacha etc. It can be freed from worms by palasha seeds and bidanga, taken with molasses. It can be freed from minor ailments by such medicines as shringarabhra, lakshmibilasa, etc. which contain a good deal of the essence of micá. It can get strong, after purification, by taking Shali ricewith meat juice of a salutary character. An intelligent man should get himself thus purified and strengthened, before he commences taking mercury for the purpose of removing diseases and senility. The man who takes mercury, without preparing the soil of his physical system in the aforesaid manner, does not derive any benefit from the medicine which rather proves [harmful.](# "This refers to the taking of mercury alone, purified or incinerated, and does not apply to medicines containing mercur with other metals.")Only mercury of the following kinds is considered commendable for medicinal use:  
+  The soil of a human system is rendered fit for receiving the seed of mercury, after it is soothed, soothingly purged, and freed from ailments. It can be soothed with clarified butter, taken with a little of saindhava, every third day. It can be purged by a purgative called the Ichhavedi bati. It can be made to vomit by the juice of bacha etc. It can be freed from worms by palasha seeds and bidanga, taken with molasses. It can be freed from minor ailments by such medicines as shringarabhra, lakshmibilasa, etc. which contain a good deal of the essence of micá. It can get strong, after purification, by taking Shali ricewith meat juice of a salutary character. An intelligent man should get himself thus purified and strengthened, before he commences taking mercury for the purpose of removing diseases and senility. The man who takes mercury, without preparing the soil of his physical system in the aforesaid manner, does not derive any benefit from the medicine which rather proves harmful.[^67]Only mercury of the following kinds is considered commendable for medicinal use:  
    (a) Incinerated mercury exhausted with one fourth its quantity of the essence of mica. (b) incinerated mercury exhausted with half its quantity of kanta iron, and (c) incinerated iron exhausted wit an equal quantity of steel,  
   The mercury which does not undergo any change by the application of heat can create gold and silver. Even purified mercury (not incinerated) is competent to cure diseases, if taken in the preseribed manner.
+
+[^67]: "This refers to the taking of mercury alone, purified or incinerated, and does not apply to medicines containing mercur with other metals."
 
 **अथ रससेवनस्य मात्रा।**
 
@@ -4272,8 +4406,10 @@ Another view.
 अनुपानन्तु वै दद्याज् ज्ञात्वा रोगादिकं भिषक्॥**
 
 **कुष्माण्डं कर्कोटीञ्चैव कालिङ्गं कारवेल्लकम्।  
-कुसुम्भिका च कर्कोटी [कलम्बी](# "कदलीति पाठान्तरम् ।") काकमाचिका।  
+कुसुम्भिका च कर्कोटी कलम्बी[^68] काकमाचिका।  
 ककाराष्टकमेतद्धि वर्ज्जयेद् रसभक्षकः॥**
+
+[^68]: "कदलीति पाठान्तरम् ।"
 
 *Dietary regulations to be observed at the time of taking mercury. *
 
@@ -4401,7 +4537,9 @@ The following articles of food stuff, also beginning with 'K' are to be avoided 
 तृष्णायां नारिकेलाम्बुमुद्गयूषं सशर्करम्॥**
 
 **द्राक्षादाड़िमखर्जूरकदलीनां फलं त्यजेत्।  
-रसबीर्य्यविवृद्ध्यर्थं [दधिक्षीरेक्षुशर्कराम्](# "क्षीरं घनावर्त्तितदुग्धं परित्यज्यं न तु दुग्धं तदेव विशेषेण पातव्यम् ।")॥**
+रसबीर्य्यविवृद्ध्यर्थं दधिक्षीरेक्षुशर्कराम्[^69]॥**
+
+[^69]: "क्षीरं घनावर्त्तितदुग्धं परित्यज्यं न तु दुग्धं तदेव विशेषेण पातव्यम् ।"
 
 **शीतोपचारमन्यच्च रसत्यागविधौ पुनः।  
 भक्षयेद् बृहतीं विल्वंसकृत् साधारणो विधिः॥**
@@ -4473,7 +4611,9 @@ A man attains success in taking mercury, if, prior to his so doing, he prepares 
 
 (3)
 
-  Indigestion of mercury is followed by colic in the navel, drowsiness, lethargy, fever, aversion to food, dullness, constipation, and inflammation. This is remedied by taking for three days decoction of tuber of karkati; or cow's urine mixed with saubarchala salt, or root of; matulunga mixed with powdered shunthi and saindhava. To remedy the evil effects due to the taking of mercury mixed with lead, one should take the root of karabella mixed with saindhava. The same purpose is served, if a little of bandhya karkotaka flower and garudi root is taken with cow's urine. Mercury is purged out of the body by taking a good deal of sour, pungent, and bitter [things](# "The allopaths who have been using “makaradhwaja” should take note of this. Administration of Makaradhwaja and quinine at the same time, is found to be not only abortive but pernicious also.").Mercury looses its potency by an excess of sour and salty things being taken. One who takes mercury should avoid taking meal only once a day, in as much as abstinence from food destroyes appetite, with theresult that the mercury is not absorbed in the system, leading to the failure of mercury to cure disease. The potency of mercury is therefore to be increased by a splendid diet, Practices, forbidden before, should be avoided by all means at the time of taking mercury. Diets which have the effect of purging mercury out of the body should be avoided very carefully. Thos articles of food stuff which cause a loss of appetite should also be avoided.
+  Indigestion of mercury is followed by colic in the navel, drowsiness, lethargy, fever, aversion to food, dullness, constipation, and inflammation. This is remedied by taking for three days decoction of tuber of karkati; or cow's urine mixed with saubarchala salt, or root of; matulunga mixed with powdered shunthi and saindhava. To remedy the evil effects due to the taking of mercury mixed with lead, one should take the root of karabella mixed with saindhava. The same purpose is served, if a little of bandhya karkotaka flower and garudi root is taken with cow's urine. Mercury is purged out of the body by taking a good deal of sour, pungent, and bitter things[^70].Mercury looses its potency by an excess of sour and salty things being taken. One who takes mercury should avoid taking meal only once a day, in as much as abstinence from food destroyes appetite, with theresult that the mercury is not absorbed in the system, leading to the failure of mercury to cure disease. The potency of mercury is therefore to be increased by a splendid diet, Practices, forbidden before, should be avoided by all means at the time of taking mercury. Diets which have the effect of purging mercury out of the body should be avoided very carefully. Thos articles of food stuff which cause a loss of appetite should also be avoided.
+
+[^70]: "The allopaths who have been using “makaradhwaja” should take note of this. Administration of Makaradhwaja and quinine at the same time, is found to be not only abortive but pernicious also."
 
 **(४)**
 
@@ -4532,8 +4672,10 @@ A man attains success in taking mercury, if, prior to his so doing, he prepares 
 **यवचिञ्चापलाशाक्षराजिकार्पासतण्डुलैः।  
 आवर्त्तितान्तर्लिप्सायां मूषायां खदिराग्निना॥**
 
-**टङ्कणं [श्वेतकाचं](# "चुम्बकान्तमिति पाठान्तरम् ।")च दत्त्वा दत्त्वा विशोषिते।  
+**टङ्कणं श्वेतकाचं[^71]च दत्त्वा दत्त्वा विशोषिते।  
 मूषायां विड़योगेन समांशं हेम जारयेत्॥**
+
+[^71]: "चुम्बकान्तमिति पाठान्तरम् ।"
 
 **संवत्सरं मुखधृता मृतसञ्जीवनी मता।  
 गुटिका शस्त्रस्तम्भंच कुरुते हरते जराम्॥**
@@ -4621,10 +4763,14 @@ The following are the drugs which are to be used in the killing of mercury. Not 
 **घनवचाचित्रकगोक्षुरकटुतुम्बीदन्तिकाजातीः  
 सर्पाक्षी शरपुङ्खाकन्या चण्डालिनी कन्दम्।  
 विषमुष्टिवज्रवल्लयो लज्जा देवदाली लाक्षा  
-सहदेवा [नीपकणा](# "नीरकणा इति पाठान्तरम्")निर्गुण्डी चक्रं लाङ्गलिका॥**
+सहदेवा नीपकणा[^72]निर्गुण्डी चक्रं लाङ्गलिका॥**
 
-**माणार्कचन्द्ररेखा रविभक्ता [काकमाचिकाचार्कः](# "माणार्क स्थलेशालार्क इति पाठान्तरम्।")।  
+[^72]: "नीरकणा इति पाठान्तरम्"
+
+**माणार्कचन्द्ररेखा रविभक्ता काकमाचिकाचार्कः[^73]।  
 विष्णुक्रान्ता वायसतुण्डी वज्री वला शुण्ठी चैव॥**
+
+[^73]: "माणार्क स्थलेशालार्क इति पाठान्तरम्।"
 
 **कोषातकी जयन्ती वाराही हस्तिशुण्डिका रम्भा।  
 मत्स्याक्षीयमचिञ्चा हरिद्रेद्वेपुनर्नवाद्वितयम्॥**
@@ -4681,11 +4827,15 @@ The following are the drugs which are to be used in the killing of mercury. Not 
 
 **(तारकर्म्मणि अस्य न तथा प्रयोगो दृश्यते।)**
 
-**केवलं निर्म्मलं ताम्रं [वापितं दरदेन तु](# "वापितं पुटितं मिश्रितम्वा")।  
+**केवलं निर्म्मलं ताम्रं वापितं दरदेन तु[^74]।  
 कुरुते त्रिगुणं जीर्णंलाक्षारसनिभं रसम्॥**
 
-**गन्धकेन हृतं नागं जारयेत् [कमलोदरे](# "कमलोदरे ताम्रोदरे")।  
+[^74]: "वापितं पुटितं मिश्रितम्वा"
+
+**गन्धकेन हृतं नागं जारयेत् कमलोदरे[^75]।  
 एतस्य त्रिगुणे जीर्णो लाक्षाभो जायते रसः॥**
+
+[^75]: "कमलोदरे ताम्रोदरे"
 
 **(एतत्तु नागसन्धानं न रसायणकर्म्मणि।)**
 
@@ -4701,7 +4851,9 @@ The following are the drugs which are to be used in the killing of mercury. Not 
 
   Or, the substance which is produced by the commingling of one part of the dyeing substance mentioned above and three parts of copper, is competent to dye mercury which is exhausted by an equal quantity of this new dyeing substance.
 
-** कुनटीहतकरिणा रविणा वा ताप्यगन्धकहतेन दरदनिहतशिलया वा त्रिव्यूढ़ंहेम तद्वीजं वलिना ब्यूढ़ंकेवलमर्कमपि [रञ्जयति](# "कुनटी मनःशिला । करिणा नागेन (सीसकेन ) । रविणा ताम्रेण । ताप्यंमाक्षिकम्। वलिना गन्धकेन। अर्कम् ताम्रम्।")।**
+** कुनटीहतकरिणा रविणा वा ताप्यगन्धकहतेन दरदनिहतशिलया वा त्रिव्यूढ़ंहेम तद्वीजं वलिना ब्यूढ़ंकेवलमर्कमपि रञ्जयति[^76] । रविणा ताम्रेण । ताप्यंमाक्षिकम्। वलिना गन्धकेन। अर्कम् ताम्रम्।")।**
+
+[^76]: "कुनटी मनःशिला । करिणा नागेन (सीसकेन
 
   Gold mixed for three times (1) with lead killed with mauas-sila, or (2) with copper killed with swarna makshika and sulphur, or (3) with manas sila killed with hingula, can dye only copper mixed with sulphur.
 
@@ -4815,7 +4967,9 @@ lead slightly smelted.
 प्रवालं यावकं पिङ्गं सिन्दूरं सरसाञ्जनम्॥**
 
 **समुद्रफलं कर्पूरं पीतकाशीसवेतसम्।  
-खर्परं किंशुकं रक्तं [तुरटीं](# "तोरी तुबरी स्फटिकारि इत्येते तुरट्याः प्रतिशब्दाः।") नूतनां नयेत्॥**
+खर्परं किंशुकं रक्तं तुरटीं[^77] नूतनां नयेत्॥**
+
+[^77]: "तोरी तुबरी स्फटिकारि इत्येते तुरट्याः प्रतिशब्दाः।"
 
 **कृत्वा सूक्ष्मं विघृष्याथ स्त्रीरक्तेन च भावयेत्।  
 दाड़िमीकुसुमैर्भाव्यो जपायाः कुसुमैस्तथा॥**
@@ -4978,15 +5132,19 @@ The mercury is thus to be dyed twice or thrice by means of the red oil.
 हेम्नो योनिस्तीक्ष्णंरागान् गृह्णाति तीक्ष्णेन॥**
 
 **तदपि च दरदेन हतं कृत्वा वा माक्षिकेण रविसहितम्।  
-[वासित](# "वासितं संस्कृतम्। वासनया संस्कारेण पुटेन इति भावः।")मपि वासनया घनवच्चमार्य्यञ्च जार्य्यञ्च॥**
+वासित[^78]मपि वासनया घनवच्चमार्य्यञ्च जार्य्यञ्च॥**
+
+[^78]: "वासितं संस्कृतम्। वासनया संस्कारेण पुटेन इति भावः।"
 
 **सव्वैरेभिर्लौहैर्माक्षिकमृदितैर्द्रुतैस्तथागर्भे।  
 विड़योगेन च जीर्णो रसराजो बन्धमुपयाति॥**
 
-[**निवींजं समजीर्णे पादोनं षोड़शांशे तु।  
-अर्द्धेनपादकनकं पादनैकेन तुल्यकनककञ्च॥**](# "चिह्नितलोकस्य व्याख्या— निर्वीजं स्वर्णरौप्यादिव्यतीतं समजीर्णे समपरिमाणेन पूर्वोक्तेन धातुसमष्टिना सह जीर्णे रसराजे इति शेषः षोड़शांशे लोहे पादोनंत्रिपादंकनकं जायते। तथा अर्द्धेन धातुसमष्टिना सह जीर्णे पादमात्रं कणकं जायते। तथा पादेन पादमात्रेन धातुसमष्टिना जीर्णे रसे तुल्यकनकं कनकतुल्यां मिश्र धातुविशेषः न तु प्रकृतकनकं जायते।")
+**निवींजं समजीर्णे पादोनं षोड़शांशे तु।  
+अर्द्धेनपादकनकं पादनैकेन तुल्यकनककञ्च॥**[^79]
 
 *Importance of metals in Bedhanam or Alchemy.*
+
+[^79]: "चिह्नितलोकस्य व्याख्या— निर्वीजं स्वर्णरौप्यादिव्यतीतं समजीर्णे समपरिमाणेन पूर्वोक्तेन धातुसमष्टिना सह जीर्णे रसराजे इति शेषः षोड़शांशे लोहे पादोनंत्रिपादंकनकं जायते। तथा अर्द्धेन धातुसमष्टिना सह जीर्णे पादमात्रं कणकं जायते। तथा पादेन पादमात्रेन धातुसमष्टिना जीर्णे रसे तुल्यकनकं कनकतुल्यां मिश्र धातुविशेषः न तु प्रकृतकनकं जायते।"
 
   The essence of mica possesses strength, steel possesses the power of exhaustion and colour. Mercury, therefore, if bound with steel, causes the alchemical transformation of lead and tin. Mercury transforms base metals into gold by the help of steel. It is steel which makes mercury swallow other metals. Steel produces gold. Colour is imparted by steel. But steel, like mica, is to be exhausted and incinerated, by being killed with hingula or with swarna makshika, combined with copper. All these metals, previously rubbed with makshika, and thrown upon mercury, causes its internal liquefaction. This mercury, if now rubbed with *btda*, becomes exhausted, and allows itself to be bound (i.e., solidified).
 
@@ -5019,25 +5177,37 @@ The mercury is thus to be dyed twice or thrice by means of the red oil.
 
   Leaves of silver, copper etc. are to be purified very well, and rubbed well with a strongly sour vegetable solution. They are then to be coated with mercury, duly exhausted with the bijam, and then heated by samputam. The leaves are next to be mixed with half thelr quantity of absolutely pure gold and heated by putapaka. For the enhancement of the colour, they are then to be subjected to putapaka with the soil raised by earth worms, salt, and red earth.
 
-**रज्जुभिर्भेकरङ्गाभ्रैःस्तम्भयोः [सारलोहयोः](# "सारः वज्रक्षारम् ( हीरकभस्म ) । अभ्रम्-स्वर्णमिति मेदिनी ")।  
+**रज्जुभिर्भेकरङ्गाभ्रैःस्तम्भयोः सारलोहयोः[^80] । अभ्रम्-स्वर्णमिति मेदिनी ")।  
 वध्यते रसमातङ्गो युक्त्याश्रीगुरुदत्तया॥**
 
+[^80]: "सारः वज्रक्षारम् ( हीरकभस्म
+
 **शिलाचतुष्कं गन्धेशो काचकूप्यां सुवर्णकृत्।  
-[कीलालायः](# "कीलः शङ्कुःआलम् हरितालम् अयः लोहम्")कृतो योगः खटिकालवणाधिकः॥**
+कीलालायः[^81]कृतो योगः खटिकालवणाधिकः॥**
+
+[^81]: "कीलः शङ्कुःआलम् हरितालम् अयः लोहम्"
 
   In accordance with the instructions given by a preceptor, the elephant of mercury can be tied, in pillars made of incinerated diamond and iron, by ropes made of mica, tin, and gold.
 
   Four parts of manas-sila and one part of sulphur, If put in a glass bottle, with its mouth closed tightly with a stopper made of haritala, iron, khatika (chalk),and salt, give rise to a substance which (if properly utilised), can produce gold.
 
 **मण्डुकपारदशिलावलयः समानाः  
-संमर्द्दिताः क्षितिविलेशयकान्त्र[विद्धाः](# "विद्धः ताड़ितः मर्द्दितः।")।  
+संमर्द्दिताः क्षितिविलेशयकान्त्रविद्धाः[^82]।  
 यन्त्रोत्तमेन गुरुभिः प्रतिपादितेन  
-स्वल्पैर्दिनैरिह [पतन्ति](# "स्वर्णरूपेणेति शेषः।")न विस्मयध्वम्॥**
+स्वल्पैर्दिनैरिह पतन्ति[^83]न विस्मयध्वम्॥**
+
+[^82]: "विद्धः ताड़ितः मर्द्दितः।"
+
+[^83]: "स्वर्णरूपेणेति शेषः।"
 
 **लौहं गन्धं टङ्गणं भ्रामयित्वा  
-तेनोन्मिश्रं भेकमा[वर्त्तयेत्तत्](# "आवर्त्तयेद् वह्नियोगेन मूषायां द्रावयेत्।")।  
-[तालं](# "तालं गोलाकारम्।")कृत्वा ताप्यवङ्गान्तराले  
+तेनोन्मिश्रं भेकमावर्त्तयेत्तत्[^84]।  
+तालं[^85]कृत्वा ताप्यवङ्गान्तराले  
 रूप्यस्याद्यं तच्च सिद्धोक्तबीजम्॥**
+
+[^84]: "आवर्त्तयेद् वह्नियोगेन मूषायां द्रावयेत्।"
+
+[^85]: "तालं गोलाकारम्।"
 
   Black mica, mercury, manas-sila, and sulphur are to be taken in equal quantities, aud rubbed with the entrails of animals living in holes made into the earth. No wonder, if they turn into gold, if heated for a few days, by means of apparata devised by preceptors.
 
@@ -5045,15 +5215,21 @@ The mercury is thus to be dyed twice or thrice by means of the red oil.
 
 **वलिददूरपूतिलौहताप्यम्  
 कुरुते हिङ्गलखण्डपक्षखण्डं  
-ध्रुवमक्षीणधिया मतेन [लक्ष्म्याः](# "लक्ष्म्याः लक्ष्मीधरस्य सिद्धाचार्य्यस्य")॥**
+ध्रुवमक्षीणधिया मतेन लक्ष्म्याः[^86]॥**
+
+[^86]: "लक्ष्म्याः लक्ष्मीधरस्य सिद्धाचार्य्यस्य"
 
  ** शशिहेलिहिरण्यस्यापि बाह्यद्रुतयो वक्ष्यन्ते।**
 
-**  एतास्तु केवल[मारोटमेव](# "सुशोधितो रसः बद्ध आरोट इति कथ्यते") मिलित्वाहि बध्नन्ति। फलमस्य कल्पप्रमितमायुः। किं पूर्व्वोक्तग्रासक्रमजारिता पूर्व्वोक्तफलप्रदा भवन्ति। उच्यते च समजीर्णश्चायं शतवेधी द्विगुणजीर्णः सहस्रवेधी। एवं लक्षायुतकोटीवेधी अनुसर्त्तव्यः। चतुःषष्टिगुण जीर्णस्तु धूमस्पर्शावलोकशब्दतोऽपि विध्यति।**
+**  एतास्तु केवलमारोटमेव[^87] मिलित्वाहि बध्नन्ति। फलमस्य कल्पप्रमितमायुः। किं पूर्व्वोक्तग्रासक्रमजारिता पूर्व्वोक्तफलप्रदा भवन्ति। उच्यते च समजीर्णश्चायं शतवेधी द्विगुणजीर्णः सहस्रवेधी। एवं लक्षायुतकोटीवेधी अनुसर्त्तव्यः। चतुःषष्टिगुण जीर्णस्तु धूमस्पर्शावलोकशब्दतोऽपि विध्यति।**
+
+[^87]: "सुशोधितो रसः बद्ध आरोट इति कथ्यते"
 
   Sulphur, mica, munda iron, and swarna-makshika, combined, can cut off the wings of cinnabar ( which, even if heated, does not sublimate).
 
-  Silver, copper, and gold, combined, can cause the external liquefaction of purified mercury. Taking of this mercury increases longevity. Moreover, mercury, exhausted with an equal quantity of the above metals combined, becomes shatabedhi i.e., competent to transform hundred times its weight of base metals. Mercury, exhausted with double its quantity of the above metals, becomes sahasrabedhi i.e, competent to transform thousand times its weight of base metals. Mercury may thus be made to transform millions, andbillion times its weight of base metals. Mercury, exhausted with sixty four times its weight of the above-mentioned metals, is competent to transform base metals into gold by its smoke (see definition of dhumabedhi), [touch](# "This refers to what was popularly called the Sparshamani or Philosopher s stone."),sight, and sound.
+  Silver, copper, and gold, combined, can cause the external liquefaction of purified mercury. Taking of this mercury increases longevity. Moreover, mercury, exhausted with an equal quantity of the above metals combined, becomes shatabedhi i.e., competent to transform hundred times its weight of base metals. Mercury, exhausted with double its quantity of the above metals, becomes sahasrabedhi i.e, competent to transform thousand times its weight of base metals. Mercury may thus be made to transform millions, andbillion times its weight of base metals. Mercury, exhausted with sixty four times its weight of the above-mentioned metals, is competent to transform base metals into gold by its smoke (see definition of dhumabedhi), touch[^88],sight, and sound.
+
+[^88]: "This refers to what was popularly called the Sparshamani or Philosopher s stone."
 
 **शिलया निहतो नागो वङ्गं वा तालकेन शुद्धेन।  
 क्रमशः पीते शुक्ले क्रामणमेतत् समुद्दिष्टम्॥**
@@ -5063,16 +5239,22 @@ The mercury is thus to be dyed twice or thrice by means of the red oil.
 **दरदं माक्षिकं गन्धं राजावर्त्तंप्रवालकम्।  
 शिलातुत्थञ्च कष्कुष्टंसमचूर्णं प्रकल्पयेत्॥**
 
-**वर्गाभ्यां [पीतरक्ताभ्यां](# "अग्रे परिभाषा द्रष्टव्या ।") कङ्गुनीतैलकैः सह।  
+**वर्गाभ्यां पीतरक्ताभ्यां[^89] कङ्गुनीतैलकैः सह।  
 भावयेद् दिवसान् पञ्च सूर्य्यतापे पुनः पुनः॥**
 
-**जारितं [सूतखोटञ्च](# "पूर्व्वोक्तया विड़वट्यासूतोऽत्रजार्य्यः।") कल्केनानेन संयुतम्।  
+[^89]: "अग्रे परिभाषा द्रष्टव्या ।"
+
+**जारितं सूतखोटञ्च[^90] कल्केनानेन संयुतम्।  
 वालुकाहण्डिमध्यस्थं शरावपुटमध्यगम्॥**
+
+[^90]: "पूर्व्वोक्तया विड़वट्यासूतोऽत्रजार्य्यः।"
 
 **त्रिदिनं पाचयेच्चुल्यां कल्कं देयं पुनः पुनः।  
 रञ्जितो जायते सूतः शतवेधी न संशयः॥**
 
-  Hingula, swarna-makshika, gandhaka, prabala, manas-sila, tutthaka, kankustha— all powdered and taken in equal quantities, are to be rubbed together and subjected to bhabana with the yellow and the red bargas (see chapter on commentary), and with kanguni oil for five times. Mercury, combined with gold and other metals, and duly [exhausted](# "Mercury exhausted with what is called bidabati should be used in this case."), is to be mixed with the powder referred to above and confined within the samputam of two basins, tightly closed with mud etc. and dried. The samputam is then to be heated for three consecutive days by means of a Baluka Jantram, fresh powders being put inside the samputam, from time to time, Mercury, thus prepared, becomes tinged, and serves to transform into gold hundred times its weight of base metals.
+  Hingula, swarna-makshika, gandhaka, prabala, manas-sila, tutthaka, kankustha— all powdered and taken in equal quantities, are to be rubbed together and subjected to bhabana with the yellow and the red bargas (see chapter on commentary), and with kanguni oil for five times. Mercury, combined with gold and other metals, and duly exhausted[^91], is to be mixed with the powder referred to above and confined within the samputam of two basins, tightly closed with mud etc. and dried. The samputam is then to be heated for three consecutive days by means of a Baluka Jantram, fresh powders being put inside the samputam, from time to time, Mercury, thus prepared, becomes tinged, and serves to transform into gold hundred times its weight of base metals.
+
+[^91]: "Mercury exhausted with what is called bidabati should be used in this case."
 
 **लौहं गन्धं टङ्गणं ध्मातमेतत्  
 तुल्यं चूर्णं भानुभेकाहिरङ्गैः।  
@@ -5090,7 +5272,9 @@ The mercury is thus to be dyed twice or thrice by means of the red oil.
 सूतकेन च वेधः स्यात् शतांशवेधो हि स्मृतः॥**
 
 **चन्द्रस्यैकोनपञ्चाशत् तथा शुद्धस्य भास्वतः।  
-[अहिरेकः](# "वह्निरेकः इति पाठान्तरम्। अहिःसीसकः।") शम्भुरेकः शतांशवेधी हि स्मृतः॥**
+अहिरेकः[^92] शम्भुरेकः शतांशवेधी हि स्मृतः॥**
+
+[^92]: "वह्निरेकः इति पाठान्तरम्। अहिःसीसकः।"
 
 **द्वावेव रजतयोनि ताम्रयोनित्वेनोपचर्य्यते।  
 एवं सहस्रवेधादयो जारणबीजवशादनुसर्त्तव्याः॥**
@@ -5098,17 +5282,23 @@ The mercury is thus to be dyed twice or thrice by means of the red oil.
   Ninety eight parts of silver, one part of gold, and a sufficient quantity of mercury give rise to a compound which serves to transform hundred times its weight of base metal into silver. Forty nine parts of silyer, an equal quantity of pure copper, one part of lead, and one part of mercury produce a substancewhich can transform hundred times its weight of lead into copper. The potency of the above-mentioned metals can be increased ten times or moroe, according to the quantity of the mica, gold etc. with which the mercury used in the compound may be exhausted.
 
 **चत्वारः प्रतिवापाः सह लाक्षया मत्स्यपित्तभावितया।  
-तारे वा शुल्वे वा तारारिष्टेऽथवा [कृष्टौ](# "परिभाषा द्रष्टव्या")॥**
+तारे वा शुल्वे वा तारारिष्टेऽथवा कृष्टौ[^93]॥**
+
+[^93]: "परिभाषा द्रष्टव्या"
 
 **तदनुक्रमेण मृदितः सिक्थकपरिवेष्टितो देयः।  
 अतिविद्रुते तस्मिन् वेधोऽसौ दण्डवेधेन।  
 तदनुसिद्धतैलेनाप्लाव्य भस्माच्छादनपूर्व्वक-  
 मवतार्य्यं स्वाङ्गशैत्यपर्य्यन्तमपेक्षितव्यमिति॥**
 
-  The four kinds of substances meant to be thrown upon base metals may be rubbed with lac, previously subjected to bhabana with the bile of fish, and with silver, copper, silver solution or [Krist](# "See Chapter on Definitions")i( as the case may be). The amalgam is then to be covered with the coarse remains of the ingredients mixed together and smelted. This compound causes the transformation of base metals into gold, silver, or copper (as the case may be ), by mere contact. The transformed metal is to be anointed with the dyeing oil referred to above, then covered with ashes, gotdown from the oven, and cooled by the radiation of the heat.
+  The four kinds of substances meant to be thrown upon base metals may be rubbed with lac, previously subjected to bhabana with the bile of fish, and with silver, copper, silver solution or Krist[^94]i( as the case may be). The amalgam is then to be covered with the coarse remains of the ingredients mixed together and smelted. This compound causes the transformation of base metals into gold, silver, or copper (as the case may be ), by mere contact. The transformed metal is to be anointed with the dyeing oil referred to above, then covered with ashes, gotdown from the oven, and cooled by the radiation of the heat.
 
-**समांशगन्धजीर्णेन सूतेन [दुःखतारणः](# "The word दुःखतारण : means one who puts an end to human misery by transformation of base metals into gold. The word Doctor appears to be a contraction of Dukhtar or Dukhtaran.")।  
+[^94]: "See Chapter on Definitions"
+
+**समांशगन्धजीर्णेन सूतेन दुःखतारणः[^95]।  
 तारपत्रं प्रलेप्याथ वह्णौतन्निक्षिपेत् क्षणम्॥**
+
+[^95]: "The word दुःखतारण : means one who puts an end to human misery by transformation of base metals into gold. The word Doctor appears to be a contraction of Dukhtar or Dukhtaran."
 
 **तत्पत्रं जायते पीतं हरिद्रा जलसन्निभम्।  
 अभ्रसत्त्वकृतं पत्रं मार्य्यते माक्षिकेण च॥**
@@ -5188,7 +5378,9 @@ The mercury is thus to be dyed twice or thrice by means of the red oil.
 
   Things, meant to be boiled, are to be put upon a piece of cloth, with which is to be closed the mouth of an earthen vessel, filled with water. An earthen basin is to be placed upon the mouth of the vessel, so as to cover the materials completely, and heat is then applied underneath. The apparatus is called the swedani Jantram.
 
-**पातनायन्त्रम् ([विद्याधरयन्त्रम्](# "ऊर्द्धपातनयन्त्रमपि कथ्यते एतत् ।"))।**
+**पातनायन्त्रम् (विद्याधरयन्त्रम्[^96])।**
+
+[^96]: "ऊर्द्धपातनयन्त्रमपि कथ्यते एतत् ।"
 
 **अष्टाङ्गुलपरीणाहमानाहेन दशाङ्गलम्।  
 चतुरङ्गुलकोत्सेधं तोयाधारं गलादधः॥**
@@ -5537,9 +5729,13 @@ and falls into the water in the Samputam. The sublimation continues so long as t
 **पूर्व्वपात्रोपरिन्यस्तस्वल्पपात्रे परिक्षिपेत्।  
 रसं संमूर्च्छितंस्थूलपात्रमापूर्य्यकाञ्जिकैः॥**
 
-**द्वियामं स्वेदयेदेवं [रसप्रबोधनाय](# "रसप्रबोधनाय रसस्य मूर्च्छितरसस्य रससिन्दूरादेः प्रबोधनायपूर्व्वरूपं प्रापणायेत्यर्थः । मूर्च्छितरसस्याम्लयोगेन मईनं स्वेदनःनप्रबोधनाय कल्पते-तथाहि सव्वै अम्लाः प्रबोधकाः ।") च।  
-तत् स्यात् खलचरीयन्त्रं [रसषाड़ूगुण्यकारकम्](# "मूर्च्छनानन्तरं प्रबोधनेन रसस्य गुणाधिषय जायते ।")  
+**द्वियामं स्वेदयेदेवं रसप्रबोधनाय[^97] च।  
+तत् स्यात् खलचरीयन्त्रं रसषाड़ूगुण्यकारकम्[^98]  
 सूक्ष्मकान्तमये पात्रे रसः स्याद् गुणवत्तरः॥**
+
+[^97]: "रसप्रबोधनाय रसस्य मूर्च्छितरसस्य रससिन्दूरादेः प्रबोधनायपूर्व्वरूपं प्रापणायेत्यर्थः । मूर्च्छितरसस्याम्लयोगेन मईनं स्वेदनःनप्रबोधनाय कल्पते-तथाहि सव्वै अम्लाः प्रबोधकाः ।"
+
+[^98]: "मूर्च्छनानन्तरं प्रबोधनेन रसस्य गुणाधिषय जायते ।"
 
 
 
@@ -5577,7 +5773,9 @@ and falls into the water in the Samputam. The sublimation continues so long as t
 **पलिकायन्त्रम्।**
 
 **चषकं वर्त्तुलं लौहं विनताग्रोर्द्धदण्डक्रम्।  
-एतद्धि पलिकायन्त्रं [वह्निजारणहेतवे](# "रसरत्नसमुच्चये राजयक्ष्माधिकारे पञ्चामृतपर्पटी द्रष्टव्या ।")॥**
+एतद्धि पलिकायन्त्रं वह्निजारणहेतवे[^99]॥**
+
+[^99]: "रसरत्नसमुच्चये राजयक्ष्माधिकारे पञ्चामृतपर्पटी द्रष्टव्या ।"
 
 *Palika Jantram.*
 
@@ -5601,7 +5799,9 @@ and falls into the water in the Samputam. The sublimation continues so long as t
 सम्यक् तोयमृदा रुद्धा सम्यगत्रोच्यमानया॥**
 
 **लेइवत् कृतवव्वूलक्काथेन परिमर्द्दितम्।  
-[जीर्णकीट्टरजः](# "जीर्णेष्टिकारजः इति पाठान्तरम् ") सूक्ष्मं गुड़चूर्णसमन्वितम्॥**
+जीर्णकीट्टरजः[^100] सूक्ष्मं गुड़चूर्णसमन्वितम्॥**
+
+[^100]: "जीर्णेष्टिकारजः इति पाठान्तरम् "
 
 **इयं हि जलमृत् प्रोक्ता दुर्भेद्या सलिलैः खलु।  
 खटिकापटुकिट्टैश्चमहिषीदुग्धमर्द्दितैः।  
@@ -5616,7 +5816,9 @@ and falls into the water in the Samputam. The sublimation continues so long as t
 
 *Nabhi Jantram (Jala Jantram).*
 
-  At the centre of an earthen basin put mercuryand sulphur, surrounded by a circular earthen enclosure, one anguli in height. Cover the space bymeans of a crucible of the shape of a cow's teat,placed upside down, and plaster the joint by meansof the following paste, which serves as a good waterproof :–oxidised iron, finely [powdered,](# "Powder of overburnt brick, according to another version.") molasses,and lime, rubbed together with a highly condenseddecoction of the bark of babbula. This plaster iscalled "water mud", and water cannot pass through it.Similarly, chalk, salt, and oxidised iron, rubbedtogether with buffalo's milk, gives rise to a plaster,called, "fire mud". This plaster is a strong fire proof,The joint of the basin and the crucible is to be plastered with this fire mud, which will prevent the mercury from coming out, even when heated. Water isthen to be poured into the basin, and heat appliedunderneath. By this way mercury is exhausted, andbecomes incapable of sublimation, It is also purifiedby the exhaustion of sulphur.
+  At the centre of an earthen basin put mercuryand sulphur, surrounded by a circular earthen enclosure, one anguli in height. Cover the space bymeans of a crucible of the shape of a cow's teat,placed upside down, and plaster the joint by meansof the following paste, which serves as a good waterproof :–oxidised iron, finely powdered,[^101] molasses,and lime, rubbed together with a highly condenseddecoction of the bark of babbula. This plaster iscalled "water mud", and water cannot pass through it.Similarly, chalk, salt, and oxidised iron, rubbedtogether with buffalo's milk, gives rise to a plaster,called, "fire mud". This plaster is a strong fire proof,The joint of the basin and the crucible is to be plastered with this fire mud, which will prevent the mercury from coming out, even when heated. Water isthen to be poured into the basin, and heat appliedunderneath. By this way mercury is exhausted, andbecomes incapable of sublimation, It is also purifiedby the exhaustion of sulphur.
+
+[^101]: "Powder of overburnt brick, according to another version."
 
 **जलययन्त्रम् (प्रकारान्तरम्)।**
 
@@ -5687,8 +5889,10 @@ and falls into the water in the Samputam. The sublimation continues so long as t
 **मृदा विलिप्य सन्धिं च वह्निंप्रज्वालयेदधः।  
 तेन पत्राणि कृत्स्नानि हतान्युक्तविधानतः॥**
 
-**[रसे चरति](# "रसश्चरति वेगेन द्रुतं गर्भे द्रवत्यपि । इति पाठान्तरम्") वेगेन द्रुतं गर्भे द्रवन्ति च।  
+**रसे चरति[^102] वेगेन द्रुतं गर्भे द्रवन्ति च।  
 गन्धालकशिलानां हि कज्ज्वल्या वा मृताहिना॥**
+
+[^102]: "रसश्चरति वेगेन द्रुतं गर्भे द्रवत्यपि । इति पाठान्तरम्"
 
 **धूपनं स्वर्णपत्रानांप्रशस्तं परिकीर्त्तितम्।  
 तारार्थं तारपत्राणि मृतवङ्गेन धूपयेत्॥**
@@ -5833,7 +6037,9 @@ allowed to come out through the higher pipe,let the arkam (concentrated extract 
 
 *Tula Jantram.*
 
-  Two crucibles, egg-shaped, are to be joined atthe lower parts by means of a wooden pipe, onepradesha in [length](# "pradesha is the maximum distance measured from the tipof the thumb to that of the little finger"), the two joints being closelycemented by rag, soaked with mud. In one of thesetwo crucibles put mercury, and powdered sulphur inthe other. Having closed the mouths of these twocrucibles, put them into two different Baluka Jantrams,the wooden pipe referred to above passing through ahole in each of the two vessels. Fire is now to beapplied belowthevessel containing the sulphur crucible. This leads to the exhaustion of sulphur bythe mercury (which remains constant in weight, anddoes not contain any trace of the sulphur swallowedor exhausted). This apparatus is used for theexhaustion of haritala, gandhaka, manas sila, lauha(iron), etc. It is called an apparatus having, theshape of a tula ( libra or balance ).
+  Two crucibles, egg-shaped, are to be joined atthe lower parts by means of a wooden pipe, onepradesha in length[^103], the two joints being closelycemented by rag, soaked with mud. In one of thesetwo crucibles put mercury, and powdered sulphur inthe other. Having closed the mouths of these twocrucibles, put them into two different Baluka Jantrams,the wooden pipe referred to above passing through ahole in each of the two vessels. Fire is now to beapplied belowthevessel containing the sulphur crucible. This leads to the exhaustion of sulphur bythe mercury (which remains constant in weight, anddoes not contain any trace of the sulphur swallowedor exhausted). This apparatus is used for theexhaustion of haritala, gandhaka, manas sila, lauha(iron), etc. It is called an apparatus having, theshape of a tula ( libra or balance ).
+
+[^103]: "pradesha is the maximum distance measured from the tipof the thumb to that of the little finger"
 
 **गौरी यन्त्रम्।**
 
@@ -5961,8 +6167,10 @@ allowed to come out through the higher pipe,let the arkam (concentrated extract 
 
 **वज्रद्रावणिका मूषा।**
 
-**गारभूनागधौताभ्यां [शणैर्द्दग्धतुषैरपि](# "तुषमष्टगुणेन चेति पाठान्तरम् ।")।  
+**गारभूनागधौताभ्यां शणैर्द्दग्धतुषैरपि[^104]।  
 समैः समा च मूषामृण्महिषोदुग्धसंयुता॥**
+
+[^104]: "तुषमष्टगुणेन चेति पाठान्तरम् ।"
 
 **त्वया विरचिता मूषा लिप्ता मत्कुणशोणितैः।  
 वालाव्दध्वनिमूलेश्च वज्रद्रावणक्रौञ्चका।  
@@ -5970,7 +6178,9 @@ allowed to come out through the higher pipe,let the arkam (concentrated extract 
 
 *Bajradrabanika Musa.*
 
-  Mud, immersed in water for a long time, soil raisedby earth worms, jute fibers, and burnt [husk](# " according to another version eight parts of burnt husk is to beused, instead of jute fiber and burnt husk"), eachequal in quantity, and the mud suitable for the preparaation of crucibles, as described above, equal inquantity to the fore-going—all of these rubbedtogether with buffalo's milk and plastered with a paste,made of the blood of bugs, balaka, and the root oftanduliyaka, make a crucible strong enough for thepurpose of smelting diamonds. If filled with a liquidsubstance, and heated, it can stand the heat of firefortwelve hours.
+  Mud, immersed in water for a long time, soil raisedby earth worms, jute fibers, and burnt husk[^105], eachequal in quantity, and the mud suitable for the preparaation of crucibles, as described above, equal inquantity to the fore-going—all of these rubbedtogether with buffalo's milk and plastered with a paste,made of the blood of bugs, balaka, and the root oftanduliyaka, make a crucible strong enough for thepurpose of smelting diamonds. If filled with a liquidsubstance, and heated, it can stand the heat of firefortwelve hours.
+
+[^105]: " according to another version eight parts of burnt husk is to beused, instead of jute fiber and burnt husk"
 
 **गारमूषा।**
 
@@ -6101,9 +6311,11 @@ allowed to come out through the higher pipe,let the arkam (concentrated extract 
 **पुटाद् ग्राव्णोलघुत्वं च शीघ्रव्याप्तिश्च दीपनम्।  
 जारितादपि सूतेन्द्राल्लोहानामधिको गुणः॥**
 
-[*Putams.*](# "A putam or samputam is an act of burning a material beingkept inside two basins, joined with each other by means of mud,rag, mixed with mud etc. The apparatus, so constructed, is alsocalled a putam or samputam.")
+*Putams.*[^106]
 
 ** ** The excellence of the preparation of mercury andother things depend upon the prescribed number ofputam. A medicine must not be subjected to agreater or a less number of putam than are actuallynecessary for its efficaciousness.
+
+[^106]: "A putam or samputam is an act of burning a material beingkept inside two basins, joined with each other by means of mud,rag, mixed with mud etc. The apparatus, so constructed, is alsocalled a putam or samputam."
 
   By means of putam it is possible to reduce ametal to a state of incineration, from which it cannotbe restored to its former condition. It is putamwhich causes the excellence in the quality of metals,the ability of metals to float in water, the ability ofmetals to enter into the lines in the palms, lightnessof metals, rocks, and other hard substances, thepower of metals etc., to spread through the system ina short time, and the ability of the metals to increase the power of digestion. It is putam which investsmetals with even a greater amount of efficaciousnessthan what is possessed by exhausted mercury.
 
@@ -6294,11 +6506,15 @@ allowed to come out through the higher pipe,let the arkam (concentrated extract 
 **उपविषवर्गः।**
 
 **लाङ्गली पिषमुष्टिश्च करवीरो जया तथा।  
-नीलकः कनकोऽर्कश्च वर्गो [ह्युपविषात्मकः](# "९० पृष्ठं द्रष्टव्यम्")॥**
+नीलकः कनकोऽर्कश्च वर्गो ह्युपविषात्मकः[^107]॥**
 
-  The following are called the upabishas :– (semi-poisons) :– langali, bishamushti, karabira, jaya(bhanga), nila, dhatura, and [arka.](# "For some other kinds of poisons and semi-poisons, seepage 91.")
+[^107]: "९० पृष्ठं द्रष्टव्यम्"
+
+  The following are called the upabishas :– (semi-poisons) :– langali, bishamushti, karabira, jaya(bhanga), nila, dhatura, and arka.[^108]
 
 **दुग्धवर्गः।**
+
+[^108]: "For some other kinds of poisons and semi-poisons, seepage 91."
 
 **हस्त्यश्ववनिता धेनुर्गर्द्दभी छागिकाविका।  
 उष्ट्रिकोदुम्बराश्वत्थभानुन्यग्रोधतिल्वकम्॥**
@@ -6464,7 +6680,9 @@ The paste–like substance, prepared out of sulphur,milk, and mercury, rubbed to
 
 **शरावोऽष्टपलं नूनं ज्ञेयमत्र विचक्षणैः।  
 प्रस्थद्वयं शुभं ते द्वेपात्रकं तदेवाढ़कम्।  
-तैश्चतुर्भिघटोन्मा[नलल्वणार्म्मणकुम्भकाः](# "नल्वन इति पाठान्तरम् ")॥**
+तैश्चतुर्भिघटोन्मानलल्वणार्म्मणकुम्भकाः[^109]॥**
+
+[^109]: "नल्वन इति पाठान्तरम् "
 
 **द्रोणस्य शब्दाः पर्य्यायाः पलानां शतकं तुला।  
 पलानां द्विसहस्रञ्च भार एकः प्रकीर्त्तितः॥**
@@ -6684,13 +6902,17 @@ Mercury, exhausted with double its quantity of mica and then reduced to ashes, i
 **अतिरक्तप्रभा मूषा चूर्णिता सकला भृशम्।  
 द्विसप्तत्यंशके देया एको भागश्च सूतकात्॥**
 
-**[चन्द्रसूर्य्यौ](# "चन्द्रसूर्य्यं द्विभागञ्च इत्यपि पाठः कल्पनीयः। तथाहि रसरत्नसमुञ्चये,— भागा षोड़श तारस्य तथा द्वादश भास्वतः। एकत्रावर्त्तितास्तेन चन्द्रार्कमपि कथ्यते॥")द्विभागौ च काञ्चनं दशवर्णिकम्।  
+**चन्द्रसूर्य्यौ[^110]द्विभागौ च काञ्चनं दशवर्णिकम्।  
 अवश्यं जायते चन्द्रं निर्दोषं दुःखनाशनम्॥**
+
+[^110]: "चन्द्रसूर्य्यं द्विभागञ्च इत्यपि पाठः कल्पनीयः। तथाहि रसरत्नसमुञ्चये,— भागा षोड़श तारस्य तथा द्वादश भास्वतः। एकत्रावर्त्तितास्तेन चन्द्रार्कमपि कथ्यते॥"
 
 **CHAPTER VIII.**  
 ***Making of gold.***
 
-  Lead is to be incinerated with the wood of brahma tree, mixed with kharpara, and powdered together. This powder is then to be rubbed with themilk of banian and made into a crucible, dense and cylindrical. The quantity of the first two, viz, lead and Kharpara, is one palam each. One palam of mercury is to be put into the crucible, kept inside a baluka jantram. Sulphur, eleven times in weight of mercury,and very finely powdered, is to be swallowed by the mercury, by gradual mixture and rubbing. The crucible is then to be taken out of the jantram and cooled. This will be found very red. This is then to be finely powdered.Seventy two parts of this powder, one part of mercury ; and one part each of silver and copper, are to be [combined](# "According to another version, seventy two parts of the   powder, one part of mercury, two parts of a compound made of sixteen parts of silver and twelve parts of copper.").The combination may result in gold, ten sixteenth parts pure. Substitution of pure silver for copper, may have the effect of producing pure gold.
+  Lead is to be incinerated with the wood of brahma tree, mixed with kharpara, and powdered together. This powder is then to be rubbed with themilk of banian and made into a crucible, dense and cylindrical. The quantity of the first two, viz, lead and Kharpara, is one palam each. One palam of mercury is to be put into the crucible, kept inside a baluka jantram. Sulphur, eleven times in weight of mercury,and very finely powdered, is to be swallowed by the mercury, by gradual mixture and rubbing. The crucible is then to be taken out of the jantram and cooled. This will be found very red. This is then to be finely powdered.Seventy two parts of this powder, one part of mercury ; and one part each of silver and copper, are to be combined[^111].The combination may result in gold, ten sixteenth parts pure. Substitution of pure silver for copper, may have the effect of producing pure gold.
+
+[^111]: "According to another version, seventy two parts of the   powder, one part of mercury, two parts of a compound made of sixteen parts of silver and twelve parts of copper."
 
 **स्वर्णकरणम्।**
 
@@ -7015,7 +7237,9 @@ silver.
 
 **Making of gold.**
 
-  Manas-shila, makshika, sisaka (lead), karpura-mani (camphor gem ), rajabarta, rust of iron of a very long standing, cinnabar, kharpara, tuttham, and yellow kasisa— all of these are to be rubbed together and heated steadily in a crucible, with sulphur being put into it, six times in weight of each of the other ingredients. The crucible is to be put inside another crucible, and the superfluous sulphur burnt gradually. One rati of the compound, thus prepared, is to be smelted with one tola of copper, the result being 4/16 gold parts [fine](# "Preparation of gold is ordinarily prohibited. It is only for the bare subsistance of life that one may have recourse to it.").
+  Manas-shila, makshika, sisaka (lead), karpura-mani (camphor gem ), rajabarta, rust of iron of a very long standing, cinnabar, kharpara, tuttham, and yellow kasisa— all of these are to be rubbed together and heated steadily in a crucible, with sulphur being put into it, six times in weight of each of the other ingredients. The crucible is to be put inside another crucible, and the superfluous sulphur burnt gradually. One rati of the compound, thus prepared, is to be smelted with one tola of copper, the result being 4/16 gold parts fine[^112].
+
+[^112]: "Preparation of gold is ordinarily prohibited. It is only for the bare subsistance of life that one may have recourse to it."
 
 **रौप्यकरणम्।**
 
@@ -7283,7 +7507,9 @@ silver.
 
 **APPENDIX.**
 
-**[G](# "This does not contain Latin names for the vegetable drugs referred to in the book. A booklet dealing with English, Latin, Tamil, Telegu, Hindi, and Bengali synonyms of all these names is intended to be compiled by the author, in collaboration with his disciple, kaviraj N. Swarnamani Shastri, kaviratna, of Ramnad (Madras).")[LOSSARY](# "This does not contain Latin names for the vegetable drugs referred to in the book. A booklet dealing with English, Latin, Tamil, Telegu, Hindi, and Bengali synonyms of all these names is intended to be compiled by the author, in collaboration with his disciple, kaviraj N. Swarnamani Shastri, kaviratna, of Ramnad (Madras).").**
+**G[^113].")LOSSARY[^113].").**
+
+[^113]: "This does not contain Latin names for the vegetable drugs referred to in the book. A booklet dealing with English, Latin, Tamil, Telegu, Hindi, and Bengali synonyms of all these names is intended to be compiled by the author, in collaboration with his disciple, kaviraj N. Swarnamani Shastri, kaviratna, of Ramnad (Madras
 
 
 **A.**
@@ -7334,7 +7560,7 @@ Jasada—Zinc.
 **K.**
 
 Kanji—A liquid obtained by fermentation of _(![](../../../books_images/U-IMG-1709380770Screenshot2024-03-02172917.png))
-of boiled rice and 16 seers of water (oneseer being equal to 64 tolas or 64 x 126 grains(troy) in weight. The liquid is called aranala, if wheat is used in place of [rice](# "आरणालस्तु गोधूमै रामैः स्यान्निस्तुषोकृतैः।  पक्वैर्वासंहितैस्तत्तुसौवीरसदृशं गुणैः।  कुल्माषधान्यमण्डादिसंहित काञ्जिकंविःदु॥").  
+of boiled rice and 16 seers of water (oneseer being equal to 64 tolas or 64 x 126 grains(troy) in weight. The liquid is called aranala, if wheat is used in place of rice[^115].  
 Kanta iron—A variety of iron, see vol. II (in the Press),  
 Karpura moni—White marble. Some people take it for touch stone,  
 Kasisa—Sulphate of iron, It is of three different kinds, viz, dhatu kasisa or valukakasisa, puspa-kasisa or padma-kasisa, and kasisa proper. The first variety is of ash colour, the, second of yellowish colour, and the third of green colour,  
@@ -7342,6 +7568,8 @@ Kharpara—calamine.
 Kola—equal in weight to half a tola or a half rupee weight (i. e. 63 grains, troy),  
 Kshara—means two things, viz, ashes and alkali, see page 299.  
 Kshari salt—Salt prepared from ashes of banana plant, etc,
+
+[^115]: "आरणालस्तु गोधूमै रामैः स्यान्निस्तुषोकृतैः।  पक्वैर्वासंहितैस्तत्तुसौवीरसदृशं गुणैः।  कुल्माषधान्यमण्डादिसंहित काञ्जिकंविःदु॥"
 
 **L.**
 
@@ -7585,3 +7813,124 @@ Classes in Commerce, Calcutta University).
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^114]: "This does not contain Latin names for the vegetable drugs referred to in the book. A booklet dealing with English, Latin, Tamil, Telegu, Hindi, and Bengali synonyms of all these names is intended to be compiled by the author, in collaboration with his disciple, kaviraj N. Swarnamani Shastri, kaviratna, of Ramnad (Madras

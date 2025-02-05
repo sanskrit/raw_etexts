@@ -123,7 +123,11 @@ In spite of the combined efforts of the editor and the publishers a few mistakes
 
 **THE KAPIṢṬHALA-KAṬHA-SAMHITĀ**
 
- The Caraṇavyūha enumerates among the Carakas—Kaṭhāḥ, Prācya-Kaṭhāḥ, Kapisthala-Kaṭhāḥ. Of these the Kaṭhas are well-known by their Saṃhitā, Śrauta-Sūtra (extensively quoted specially by [Yājñikadeva](# "*See my article ")), Gṛhyasūtra and numerous other treatises. The Prācya-Kaṭhas have long been [extinct.](# "**The Katha-Sūtra (Śrauta and Gṛhya) is known as Laugākṣi-Sūtra. There is no evidence, however, that Gāṅgi-Laugākṣi (Gotrapravaranibandha- kadamba, p. 180) was similarly connected with the Prācya-Kathas,")No references or quotations have yet been traced. The Kapiṣṭhala-Kaṭhas are known by a fragmentary ms. of the Saṃhitā. At the present day there are no followers of this school.
+ The Caraṇavyūha enumerates among the Carakas—Kaṭhāḥ, Prācya-Kaṭhāḥ, Kapisthala-Kaṭhāḥ. Of these the Kaṭhas are well-known by their Saṃhitā, Śrauta-Sūtra (extensively quoted specially by Yājñikadeva[^1]), Gṛhyasūtra and numerous other treatises. The Prācya-Kaṭhas have long been extinct.[^2] is known as Laugākṣi-Sūtra. There is no evidence, however, that Gāṅgi-Laugākṣi (Gotrapravaranibandha- kadamba, p. 180) was similarly connected with the Prācya-Kathas,")No references or quotations have yet been traced. The Kapiṣṭhala-Kaṭhas are known by a fragmentary ms. of the Saṃhitā. At the present day there are no followers of this school.
+
+[^1]: "*See my article "
+
+[^2]: "**The Katha-Sūtra (Śrauta and Gṛhya
 
  Like many other śākhās, the Kap.-Kaṭha S. derives its specific designation from the ṛṣi, who founded the śākhā, Kapiṣthala, as the name of a ṛṣi is known to Pāṇini VIII,3,91 and the various Pravarasūtras, and there is little doubt that the
 
@@ -133,7 +137,11 @@ Kambistholoiof Megasthenes (Arrian, IV, 8) are our Kapiṣṭhalas. Durga, in hi
 
 
 
-[Kaithal](# "Cf. the local word kaith (from Skt. kapittha)."), a small town situated 29° 48' N. and 76° 24' E., a few miles to the east of the river Sarasvatīin the region ofKurukṣetra. Local tradition ascribes its foundation to Yudhiṣṭhira. Alberuni (11th cent. A.D., India I, p. 206) refers to this town as [Kavital](# "Kavital points to Kavithal, the aspiration having been omitted."). Two centuries later Tīmūr describes the inhabitants as fire-worshippers, which means that fire-rituals were still practised here. The antiquity of the place is further authenticated by Varāhamihira (Bṛhat-Saṃhitā XIV, 4). The author of Kāśikā also seems to have known the town, for on Pāṇini VIII, 3, 91 he comments: gotra iti kim. kapeḥ sthalam
+Kaithal[^3]."), a small town situated 29° 48' N. and 76° 24' E., a few miles to the east of the river Sarasvatīin the region ofKurukṣetra. Local tradition ascribes its foundation to Yudhiṣṭhira. Alberuni (11th cent. A.D., India I, p. 206) refers to this town as Kavital[^4]. Two centuries later Tīmūr describes the inhabitants as fire-worshippers, which means that fire-rituals were still practised here. The antiquity of the place is further authenticated by Varāhamihira (Bṛhat-Saṃhitā XIV, 4). The author of Kāśikā also seems to have known the town, for on Pāṇini VIII, 3, 91 he comments: gotra iti kim. kapeḥ sthalam
+
+[^3]: "Cf. the local word kaith (from Skt. kapittha
+
+[^4]: "Kavital points to Kavithal, the aspiration having been omitted."
 
 kapisthalam. The interpretationof this passage in St. Petersburg Dictionary **"Standort der Affen"** is wrong, for the singular kapeḥ can only mean the ṛṣi of that name (see Gotrapravaranibandhakadamba, pp. 57, 59, 60, 164, 172). For gotra names derived from the names of localities cf. Mādhyameyāḥ, Kauśāmbeyāḥ (ib. p. 32), Saindhavāyanāḥ (ib. p.93, etc.), Kaurukṣetriḥ (ib. pp. 59, 163).
 
@@ -167,7 +175,9 @@ CORRUPTIONS AND PECULIARITIES
 OF  
 THE KAPIṢṬHALA MS.
 
- The ms. is full of clerical mistakes and without the help of Kāṭhaka and other Vedic texts it is not always possible to see the original readings through them. Besides corruptions such as are common to all badly preserved works, there are some peculiarities which deserve special [mention](# "For working this and the following sections I used Prof. Caland's and Göttingen University copies."):
+ The ms. is full of clerical mistakes and without the help of Kāṭhaka and other Vedic texts it is not always possible to see the original readings through them. Besides corruptions such as are common to all badly preserved works, there are some peculiarities which deserve special mention[^5]:
+
+[^5]: "For working this and the following sections I used Prof. Caland's and Göttingen University copies."
 
 \(a\) Lengthening of the final syllable—  
  revatyām, haviṣyām, jagatyām 1, 8 for revatyaṃ, haviṣyaṃ, jagatyaṃ (cf. Pāṇini IV, 4, 122 revatī-jagatî-haviṣyābhyaḥ praśasye); tanvāṃ 1, 8. VIII, 9. XXX, 8. XLVII, 6. 7 for tanvaṃ; tanvāḥ VII, 5 for tanvaḥ; punās I, 16 for punas; vīryāṃ XXX, I for vīryaṃ; asuryāṃ XXX, 5 for asuryaṃ; sarvadevatyāṃ XXXVII, 7 for sar-
@@ -206,7 +216,9 @@ noun tad—āyums te, abruvuṃs tan, akurvuṃs tat, sama-bharuṃs tena XXXVII
 
 SANDHI
 
- The Kapiṣṭhala ms. presents the following variations from the Kāṭhaka [usage](# "See also MaitS. I, p. XXXIX,")—
+ The Kapiṣṭhala ms. presents the following variations from the Kāṭhaka usage[^6]—
+
+[^6]: "See also MaitS. I, p. XXXIX,"
 
  (a) Final a in hiatus is occasionally lengthened—tā ṛtavaḥ IV, 6; sāṛcchatu V, 2 (six times); imā eva V, 8 for ima eva; saṃvatsarā ṛcā VI, 5; lokā ṛdhyāVIII, 6; prayogā ṛṣiḥ XXX, 8; devalokā āhavanīyo XXXI, 4; upadhīyantā iti XXXI, 11; hitā ṛtūn, prajāyatā ṛtavyā XXXI, 12; avarundhā ṛbhūṇāṃ XXXI, 16; dakṣiņatā udañcaḥ XXXI, 17; cinutāṛdhnoti, cîyatā ṛtavā XXXI, 18; pitṛlokā ṛdhnuyām XXXI, 19; cinutā ṛdhnoti XXXI, 20; avarundhā ṛṣabheṇa XXXVII, 3; parājayāmahā iti, tā ṛtubhyo XXXVIII, 3; itāāhutiḥ XXXIX, 3; tā ādīyamānāḥ XXXIX, 4; digbhyā eva XXXIX, 5; vaiśvānarā upāvasṛjyate XL, 4; vidadhiṣyā (ms. ṣṭā) iti XLII, 3; unmucyamānā eti XLV, 43; lokā āpaḥ XLVII, 10; lokā āsan XLVIII, 8. As would be seen from these examples, the Maitrāyaṇīya rule that only the unaccented -e and -as followed by an accented initial vowel are changeable to ā, is not strictly observed in the few cases quotable from our ms.
 
@@ -271,9 +283,11 @@ ACCENTUATION
 
 
 
-Ṛgveda, in as much as the signs of the anudātta and svarita are respectively a horizontal line below and a perpendicular line above the syllable. The udātta is left unmarked. But it is only in adhyāyas I-III and XXV-XXIX, 7 that both the anudātta and svarita are fairly regularly marked. In adhy. IV-VIII the svarita is marked only here and there, while from adhy. XXIX, 8 onwards only the anudātta immediately preceding the accented syllable is marked. In adhy. XXVIII and XXIX a small circle underneath the syllable has sometimes been used to denote a secondary [svarita—](# "Cf, Schroeder's article on the accentuation of Kāṭh.mss. in Z.D.M.G. vol. 49, p. 157.")
+Ṛgveda, in as much as the signs of the anudātta and svarita are respectively a horizontal line below and a perpendicular line above the syllable. The udātta is left unmarked. But it is only in adhyāyas I-III and XXV-XXIX, 7 that both the anudātta and svarita are fairly regularly marked. In adhy. IV-VIII the svarita is marked only here and there, while from adhy. XXIX, 8 onwards only the anudātta immediately preceding the accented syllable is marked. In adhy. XXVIII and XXIX a small circle underneath the syllable has sometimes been used to denote a secondary svarita—[^7]
 
 [TABLE]
+
+[^7]: "Cf, Schroeder's article on the accentuation of Kāṭh.mss. in Z.D.M.G. vol. 49, p. 157."
 
 
 
@@ -783,14 +797,18 @@ staying with him for over eight months. It was in his study and with his friendl
  इषे त्वोर्जे त्वा। वायव स्थोपायव स्थ। देवो वः सविता प्रार्पयतु श्रेष्ठतमाय कर्मणे। आप्यायध्वमघ्न्या देवभागं प्रजावतीरनमीवा अयक्ष्माः। मा व स्तेन ईशत माघशँसः। परि वो रुद्रस्य हेतिर्वृणक्तु। ध्रुवा अस्मिन्गोपतौ स्यात बह्वीः। यजमानस्य पशून्पाहि। वसोः पवित्रमसि शतधारं वसूनां पवित्रमसि सहस्रधारम्॥१॥ Cf XLVI, 8; KS. I, 1; XXX, 10; MS. I, 1, 1; IV, 1, 1; TS. I, 1, 1; TB. III, 2, 1.
 
 
-[घोषदसि](http://॑ " Professor W. Caland refers me to Sir A. Stein's ṛcaka (at Oxford ) which reads घोषद्. Cf. Pāṇini V, 6, 62 गोषदक 'the anuvāka beginning with goṣad' (e. g. in MS.).")। निष्टप्तं रक्षः। प्रेयमगाद्धिषणा बर्हिरच्छ मनुना कृता स्वधया वितष्टा। [उर्वन्तरिक्षं](http://॑ "Here and further the ms. has उर्वा०. The lengthening is inexplicable.") वीहि। इन्द्रस्य परिषूतमसि। माधो मोपरि परुस्त ऋध्यासम्। आच्छेत्ता ते मा रिषत्। देव [बर्हिः](http://॑ "In TS. देवबर्हिः is a compound word.") [शतवल्शं](# "The ms. reads ०वलिशं and further ०वलिशा. For the insertion of a svarabhakti vowel after r or Iwhen they are followed by a fricative, see Tait. Prātiśākhya XXI, 15; Vāj. Prāt. IV, 17; Caturadhyāyikā I, 102, etc. According to the Māṇḍūkī Śikṣā (verse 101) the correct pronunciation of svarabhakti was like i, so that शतवल्शः was to be pronounced शतवलिशः. According to the Keśavī Śikṣā (Śikṣāsaṅgraha, p. 141) and Pratijñāsūtra (II, 3), however, शतवल्शः was to be pronounced शतवलेशः (Quoted in Dr. S. Varma's Critical Studies in the Phonetic Observations of Indian Grammarians, p. 136). Several of the MS and MānŚr. mss. read ०बलिशः, but I do not know of any which has ०वलेशः. Compare Pischel (Grammatikder Prakrit-Sprachen, pp. 103,104), who notes that in Prakrit i was the most common svarabhakti vowel besides a which appeared only in Ardhamāgadhī and Apabhraṃśa.")विरोह
+[घोषदसि](http://॑ " Professor W. Caland refers me to Sir A. Stein's ṛcaka (at Oxford ) which reads घोषद्. Cf. Pāṇini V, 6, 62 गोषदक 'the anuvāka beginning with goṣad' (e. g. in MS.).")। निष्टप्तं रक्षः। प्रेयमगाद्धिषणा बर्हिरच्छ मनुना कृता स्वधया वितष्टा। [उर्वन्तरिक्षं](http://॑ "Here and further the ms. has उर्वा०. The lengthening is inexplicable.") वीहि। इन्द्रस्य परिषूतमसि। माधो मोपरि परुस्त ऋध्यासम्। आच्छेत्ता ते मा रिषत्। देव [बर्हिः](http://॑ "In TS. देवबर्हिः is a compound word.") शतवल्शं[^8] the correct pronunciation of svarabhakti was like i, so that शतवल्शः was to be pronounced शतवलिशः. According to the Keśavī Śikṣā (Śikṣāsaṅgraha, p. 141) and Pratijñāsūtra (II, 3), however, शतवल्शः was to be pronounced शतवलेशः (Quoted in Dr. S. Varma's Critical Studies in the Phonetic Observations of Indian Grammarians, p. 136). Several of the MS and MānŚr. mss. read ०बलिशः, but I do not know of any which has ०वलेशः. Compare Pischel (Grammatikder Prakrit-Sprachen, pp. 103,104), who notes that in Prakrit i was the most common svarabhakti vowel besides a which appeared only in Ardhamāgadhī and Apabhraṃśa.")विरोह
+
+[^8]: "The ms. reads ०वलिशं and further ०वलिशा. For the insertion of a svarabhakti vowel after r or Iwhen they are followed by a fricative, see Tait. Prātiśākhya XXI, 15; Vāj. Prāt. IV, 17; Caturadhyāyikā I, 102, etc. According to the Māṇḍūkī Śikṣā (verse 101
 
 
 
 सहस्रवल्शा वि वयं रुहेम। अदित्या रास्नासीन्द्राण्याः संनहनम्। पूषा ते ग्रन्थिं ग्रथ्नातु। स ते मा स्थात्। इन्द्रस्य त्वा बाहुभ्यामुद्यच्छे बृहस्पतेस्त्वा मूर्ध्नाहरामि। देवङ्गममसि। तदाहरन्ति कवयः पुरस्ताद्देवेभ्यो जुष्टमिह बर्हिरासदे॥२॥Cf. XLVII, 1; KS. I, 2; XXXI, 1: MS. I, 1, 9; IV, 1, 2; TS. I, 1, 2; TB. III, 2, 2.
 
 
-[मातरिश्वनो](# " The brāhmaṇa (XLVII, 2 ) explains previous to this the following verse:  अयक्ष्मा वः प्रजयां संँसृजामि रायस्पोषण बहुला भवन्तीः। मधुमद् घृतवत्पिन्वमाना जीवा जीवन्तीरुप वः सदेम॥  It is very probable that its omission here is due to clerical oversight. Cf.KS.")घर्मोऽसि। द्यौरसि पृथिव्यसि। विश्वधायाः परेण धाम्ना। अह्रुतासि मा ह्वाः। सा विश्वायुः सा विश्वव्यचाः सा विश्वधायाः। हुत स्तोको हुतो द्रप्सः। अग्नये बृहते नाकाय स्वाहा द्यावापृथिवीभ्याम्॥
+मातरिश्वनो[^9] explains previous to this the following verse:  अयक्ष्मा वः प्रजयां संँसृजामि रायस्पोषण बहुला भवन्तीः। मधुमद् घृतवत्पिन्वमाना जीवा जीवन्तीरुप वः सदेम॥  It is very probable that its omission here is due to clerical oversight. Cf.KS.")घर्मोऽसि। द्यौरसि पृथिव्यसि। विश्वधायाः परेण धाम्ना। अह्रुतासि मा ह्वाः। सा विश्वायुः सा विश्वव्यचाः सा विश्वधायाः। हुत स्तोको हुतो द्रप्सः। अग्नये बृहते नाकाय स्वाहा द्यावापृथिवीभ्याम्॥
+
+[^9]: " The brāhmaṇa (XLVII, 2
 
 संपृच्यध्वमृतावरीरूर्मिला मधुमत्तमाः।  
 मन्द्रा धनस्य सातये॥
@@ -828,7 +846,9 @@ staying with him for over eight months. It was in his study and with his friendl
 
  Cf. XLVII, 8; KS. I, 9; XXXI, 8; MS. I, 1, 10, IV, 1, 10; TS. I, 1, 9; TB. III, 2, 9.
 
- पृश्न्याः पयो ऽसि। तस्य ते ऽक्षीयमाणस्य पिन्वमानस्य पिन्वमानं निर्वपामि। इषे त्वा। अदब्धेन त्वा चक्षुषावपश्यामि। ऊर्जे त्वा। अग्नेर्जिह्वासि [सुहूर्देवेभ्यः](http://॑ "VS. I, 30 (but ŚatB. I, 3, 1, 9 सुभूः); ŚŚr. IV, 8, 1 agree with Kap. Cf. Kāṇva S. I, 10, 3; TS. I, 1,10, 3 सुभूः. See Prof. Keith on TS. ib., n. 5. KS. reads सुपूः.")। धाम्नेधाम्ने त्वा यजुषेयजुषे। हविरसि वैश्वानरमुन्नीतशुष्मँसत्यौजाः। सहो नामासि सहस्वारातिँसहस्व पृतनायतः। सहस्रवीर्यमसि तन्मा [जिन्व](http://॑ "KS. मार्जित्वा is a mistake for मा जिन्व.")। तेजो ऽसि शुक्रमसि ज्योतिरसि। धामासि प्रियं देवानामनाधृष्टं देवयजनम्। देववीतये त्वा गृह्णामि। निष्टप्तं रक्षः। अनिशिता स्थ सपत्नक्षयणीः। प्राणं वाचं मा [निर्मृक्षम्](# "Here and further kap. readsनिर्मृक्षं KS. निर्दृक्षं is an inferior variant Cf TS. I, 1, 10, 1 निर्मृक्षं MS.निर्मार्जी")। वाजिनं त्वा [वाजिन्वाजजित्यायै](http://॑ "KS. वाजयस्यायै, but in XIV, 1 वाजजित्यै. VS. I, 29 वाजेध्यायै.") संमार्ज्मि। चक्षुः श्रोत्रं मा निर्मृक्षम्। वाजिनीं त्वा वाजिनि [वाजजित्यायै](http://॑ "KS. वाजयस्यायै, but in XIV, 1 वाजजित्यै. VS. I, 29 वाजेध्यायै.") [संमार्ज्मि](http://॑ "The ms. संमार्य्मि.")। प्रजां योनिं मा। वाजिनीं त्वा [वाजिनि](http://॑ "The omission of वाजिनिin KS. is due to oversight.") [वाजजित्यायै](http://॑ "KS. वाजयस्यायै, but in XIV, 1 वाजजित्यै. VS. I, 29 वाजेध्यायै.") [संमार्ज्मि](http://॑ " KS. adds : गोष्ठं यजमानस्य रायस्पोषं मा निर्दृक्षंवाजिनीं त्वा वाजिनि वाजयत्यायै संमार्ज्मि. It may have formed a part of Kap. as well.")॥१०॥ Cf. XLVII, 9; KS. I, 10; XXXI, 9; MS. I, 1, 11; IV, 1, 12; TS. I, 1,10.
+ पृश्न्याः पयो ऽसि। तस्य ते ऽक्षीयमाणस्य पिन्वमानस्य पिन्वमानं निर्वपामि। इषे त्वा। अदब्धेन त्वा चक्षुषावपश्यामि। ऊर्जे त्वा। अग्नेर्जिह्वासि [सुहूर्देवेभ्यः](http://॑ "VS. I, 30 (but ŚatB. I, 3, 1, 9 सुभूः); ŚŚr. IV, 8, 1 agree with Kap. Cf. Kāṇva S. I, 10, 3; TS. I, 1,10, 3 सुभूः. See Prof. Keith on TS. ib., n. 5. KS. reads सुपूः.")। धाम्नेधाम्ने त्वा यजुषेयजुषे। हविरसि वैश्वानरमुन्नीतशुष्मँसत्यौजाः। सहो नामासि सहस्वारातिँसहस्व पृतनायतः। सहस्रवीर्यमसि तन्मा [जिन्व](http://॑ "KS. मार्जित्वा is a mistake for मा जिन्व.")। तेजो ऽसि शुक्रमसि ज्योतिरसि। धामासि प्रियं देवानामनाधृष्टं देवयजनम्। देववीतये त्वा गृह्णामि। निष्टप्तं रक्षः। अनिशिता स्थ सपत्नक्षयणीः। प्राणं वाचं मा निर्मृक्षम्[^10]। वाजिनं त्वा [वाजिन्वाजजित्यायै](http://॑ "KS. वाजयस्यायै, but in XIV, 1 वाजजित्यै. VS. I, 29 वाजेध्यायै.") संमार्ज्मि। चक्षुः श्रोत्रं मा निर्मृक्षम्। वाजिनीं त्वा वाजिनि [वाजजित्यायै](http://॑ "KS. वाजयस्यायै, but in XIV, 1 वाजजित्यै. VS. I, 29 वाजेध्यायै.") [संमार्ज्मि](http://॑ "The ms. संमार्य्मि.")। प्रजां योनिं मा। वाजिनीं त्वा [वाजिनि](http://॑ "The omission of वाजिनिin KS. is due to oversight.") [वाजजित्यायै](http://॑ "KS. वाजयस्यायै, but in XIV, 1 वाजजित्यै. VS. I, 29 वाजेध्यायै.") [संमार्ज्मि](http://॑ " KS. adds : गोष्ठं यजमानस्य रायस्पोषं मा निर्दृक्षंवाजिनीं त्वा वाजिनि वाजयत्यायै संमार्ज्मि. It may have formed a part of Kap. as well.")॥१०॥ Cf. XLVII, 9; KS. I, 10; XXXI, 9; MS. I, 1, 11; IV, 1, 12; TS. I, 1,10.
+
+[^10]: "Here and further kap. readsनिर्मृक्षं KS. निर्दृक्षं is an inferior variant Cf TS. I, 1, 10, 1 निर्मृक्षं MS.निर्मार्जी"
 
  देवीरापो [अग्रेग्वः](http://॑ "KS. अग्रेगुवः,") प्रेमं यज्ञं नयत। प्र यज्ञपतिं तिरत। युष्मानिन्द्रो ऽवृणीत वृत्रतूर्ये। यूयमिन्द्रमवृणीध्वं वृत्रतूर्ये। [प्रोक्षितां](http://॑ " KS. मेक्षिता is to be corrected. Cf. K.S. XXXI, 10.") स्थ। कृष्णो ऽस्याखरेष्ठोऽग्नये त्वा जुष्टं प्रोक्षामि। वेदिरसि बर्हिषे त्वा जुष्टं प्रोक्षामि। बर्हिरसि
 
@@ -1787,7 +1807,11 @@ Cf. V, 2; KS. VII, 9.2; MS. I, 5, 11.4.
 
 
 
-इन्द्रो यजमानः। यदग्निमुपतिष्ठते सर्वा एव मृधः सर्वाणि रक्षाऀसि तरति। नास्य नक्तं रक्षाऀसीशते य एवं वेद। त्वष्टा वै भूत्वा प्रजापतिः प्रजा असृजत। त्वष्टा यजमानः। यद्वै वाचा वदति तद्भवति। [यद्यदेवैतदुद्द्रवति](# "Thus the ms. KS. त्वष्टा यजमानस्स यद्वाचावदत्तदभवद्यद्वै वाचा वदति तद्भवति यद्यदेव वाचा वदति suffers from meaningless repetition.") तत्तद्भवति [तत्तत्सृजते॥६॥](# "The ms. ॥६॥")Cf. KS, VII, 10; MS, I, 5, 12,
+इन्द्रो यजमानः। यदग्निमुपतिष्ठते सर्वा एव मृधः सर्वाणि रक्षाऀसि तरति। नास्य नक्तं रक्षाऀसीशते य एवं वेद। त्वष्टा वै भूत्वा प्रजापतिः प्रजा असृजत। त्वष्टा यजमानः। यद्वै वाचा वदति तद्भवति। यद्यदेवैतदुद्द्रवति[^11] तत्तद्भवति तत्तत्सृजते॥६॥[^12]Cf. KS, VII, 10; MS, I, 5, 12,
+
+[^11]: "Thus the ms. KS. त्वष्टा यजमानस्स यद्वाचावदत्तदभवद्यद्वै वाचा वदति तद्भवति यद्यदेव वाचा वदति suffers from meaningless repetition."
+
+[^12]: "The ms. ॥६॥"
 
 **इति कपिष्ठलकठसंहितायां पञ्चमो ऽध्यायः॥**
 
@@ -1803,7 +1827,11 @@ Cf. V, 2; KS. VII, 9.2; MS. I, 5, 11.4.
 
  
 
-धनं मे [शऀस्याजुगुप](# "The ms, पाहि for अजुगुपःSee note")इत्याहवनीयं पुनरेत्यापान्योपतिष्ठते। आहवनीयो वै शऀस्यः। तेनैव धनं गुप्तम्। तदपानेनात्मन्धत्ते। मम च नाम तव च जातवेद इति तन्वावेवैतेन [व्याकरोत्यात्मनश्चा](# "व्याकरोति in the sense of ‘the exchan-")ग्नेश्चयौ विप्रवसन्तौ विपरिदधाते। अग्ने
+धनं मे शऀस्याजुगुप[^13]इत्याहवनीयं पुनरेत्यापान्योपतिष्ठते। आहवनीयो वै शऀस्यः। तेनैव धनं गुप्तम्। तदपानेनात्मन्धत्ते। मम च नाम तव च जातवेद इति तन्वावेवैतेन व्याकरोत्यात्मनश्चा[^14]ग्नेश्चयौ विप्रवसन्तौ विपरिदधाते। अग्ने
+
+[^13]: "The ms, पाहि for अजुगुपःSee note"
+
+[^14]: "व्याकरोति in the sense of ‘the exchan-"
 
 
 
@@ -1967,9 +1995,11 @@ Cf. KS. VII, 13, 14; MS. I, 6, 1,2.
 
 यक्ष्यमा
 
-णः। [एतद्ध्यवर्धय](# "The ms. एतद्धेः वर्द्धन्यः. KS. omits")
+णः। एतद्ध्यवर्धय[^15]
 
-[द्यः](# "The ms. एतद्धेः वर्द्धन्यः. KS. omits")सोमेन यजते।
+द्यः[^15]सोमेन यजते।
+
+[^15]: "The ms. एतद्धेः वर्द्धन्यः. KS. omits"
 
 फल्गुनीपूर्ण
 
@@ -1987,7 +2017,9 @@ Cf. KS. VII, 13, 14; MS. I, 6, 1,2.
 
 र्णमासे वामावस्यायां वा यजेत। एष
 
-[वै](# "The ms, यजेतोषधी for यजेत। एष वै.") यज्ञः।
+वै[^17] यज्ञः।
+
+[^17]: "The ms, यजेतोषधी for यजेत। एष वै."
 
 यज्ञमे
 
@@ -1999,9 +2031,11 @@ Cf. KS. VII, 13, 14; MS. I, 6, 1,2.
 
 यं तदिमामभ्य
 
-सृज्यतोषाः। यदूषा भवन्त्यनयोरेवैनं यज्ञिय आधत्ते। प्राजापत्या वा [ए](# "KS, ऊषाः.")
+सृज्यतोषाः। यदूषा भवन्त्यनयोरेवैनं यज्ञिय आधत्ते। प्राजापत्या वा ए[^18]
 
-[ते](# "KS, ऊषाः.")। श्वःश्वो भूयांऀसो भवन्ति। प्रजननायैवैते। पशूनां वा एतत्प्रियं
+ते[^18]। श्वःश्वो भूयांऀसो भवन्ति। प्रजननायैवैते। पशूनां वा एतत्प्रियं
+
+[^18]: "KS, ऊषाः."
 
 धा
 
@@ -2021,7 +2055,9 @@ Cf. KS. VII, 13, 14; MS. I, 6, 1,2.
 
 वम्रि
 
-यस्त्वै तद्विदुर्यत्रास्या जीवं यज्ञियम्। यद्वल्मीकवपा [भवत्यस्या](# "KS. भवन्त्य० to be corrected.") एवैनं जीवे यज्ञिय आधत्ते। आपो वा इदमासन्। सलिलमेव स प्रजापतिर्वराहो भूत्वोपन्यमञ्जत्। तस्य यावन्मुखमासीत्तावतीं मृदमुदहरत्। सेयमभवत्। यद्वराहविहतं भवत्यस्यामेवैनं प्रत्यक्षमाधत्ते। वराहो वा अस्यामन्नं पश्यति। तस्मा इयं विजिहीते। यद्वराहविहतं भवति तदेवान्नमवरुन्द्धे। यत्तदादत्त तददितिर्यदप्रथत तत्पृथिवी यदभवत्तद्भूमिः। यद्वराहविहतं भवति प्रथत एव प्रजया
+यस्त्वै तद्विदुर्यत्रास्या जीवं यज्ञियम्। यद्वल्मीकवपा भवत्यस्या[^20] एवैनं जीवे यज्ञिय आधत्ते। आपो वा इदमासन्। सलिलमेव स प्रजापतिर्वराहो भूत्वोपन्यमञ्जत्। तस्य यावन्मुखमासीत्तावतीं मृदमुदहरत्। सेयमभवत्। यद्वराहविहतं भवत्यस्यामेवैनं प्रत्यक्षमाधत्ते। वराहो वा अस्यामन्नं पश्यति। तस्मा इयं विजिहीते। यद्वराहविहतं भवति तदेवान्नमवरुन्द्धे। यत्तदादत्त तददितिर्यदप्रथत तत्पृथिवी यदभवत्तद्भूमिः। यद्वराहविहतं भवति प्रथत एव प्रजया
+
+[^20]: "KS. भवन्त्य० to be corrected."
 
 पशु
 
@@ -2067,11 +2103,15 @@ Cf. KS. VII, 13, 14; MS. I, 6, 1,2.
 
 आध
 
-त्ते। यथा पिता पुत्रं [जिन्वत्येवमे](# "KS. •मेवैनं.")
+त्ते। यथा पिता पुत्रं जिन्वत्येवमे[^21]
 
-[नऀ](# "KS. •मेवैनं.")स्वं छन्दो जिन्वति। एकादशसु [प्रक्रामे](# "KS. प्रक्रमेषु.")
+नऀ[^21]स्वं छन्दो जिन्वति। एकादशसु प्रक्रामे[^23]
 
-[षु](# "KS. प्रक्रमेषु.") राजन्येनाधेयः। एकादशाक्षरा त्रिष्टुप्। त्रिष्टुप्छन्दा राजन्यः। स्वस्यैवैनं छन्दसः प्रात्येनस्य
+[^21]: "KS. •मेवैनं."
+
+षु[^23] राजन्येनाधेयः। एकादशाक्षरा त्रिष्टुप्। त्रिष्टुप्छन्दा राजन्यः। स्वस्यैवैनं छन्दसः प्रात्येनस्य
+
+[^23]: "KS. प्रक्रमेषु."
 
 आध
 
@@ -2081,9 +2121,11 @@ Cf. KS. VII, 13, 14; MS. I, 6, 1,2.
 
 षु वैश्येनाधेयः। द्वादशाक्षरा जगती। जगच्छन्दा वैश्यः। स्वस्यैवैनं छन्दसः प्रात्येनस्य आधत्ते। यथा पिता पुत्रं जिन्वत्येवमेनऀस्वं छन्दो जिन्व
 
-ति।\] अपरिमितमवरुणधा [इ](# "The ms. •मवरुणधायेति.")
+ति।\] अपरिमितमवरुणधा इ[^25]
 
-[ति](# "The ms. •मवरुणधायेति.") वा अग्निमाधते। अपरिमित आधेयो ऽपरिमितस्यावरुद्ध्यै। यावति चक्षुषा मन्येत तावत्यादधीत। सत्यं वै चक्षुः। सत्य एवैनमाधत्ते। पूर्वाह्णआधेयः। एतद्वै पुण्याहम्। पुण्याह एवैनमाधत्ते। व्युष्टायां पुरा सूर्यस्योदेतोराधेयः। एतस्मिन्वै लोके प्रजापतिः प्रजा असृजत। ताः प्राजायन्त। प्रजननायैवमाधेयः। आग्नेयीवै रात्र्यैन्द्रमहः। यदुदिते सूर्य आदधीताग्नेयाद्वर्णादियात्। यदनुदित ऐन्द्रात्। अनुदिते ऽपर आधेय उदिते पूर्वः। उभावेवेन्द्राग्न्योर्वर्णावाप्नोति। असुर्या वै रात्री वर्णेन शुक्रियमहः। शुक्रिय आधत्ते
+ति[^25] वा अग्निमाधते। अपरिमित आधेयो ऽपरिमितस्यावरुद्ध्यै। यावति चक्षुषा मन्येत तावत्यादधीत। सत्यं वै चक्षुः। सत्य एवैनमाधत्ते। पूर्वाह्णआधेयः। एतद्वै पुण्याहम्। पुण्याह एवैनमाधत्ते। व्युष्टायां पुरा सूर्यस्योदेतोराधेयः। एतस्मिन्वै लोके प्रजापतिः प्रजा असृजत। ताः प्राजायन्त। प्रजननायैवमाधेयः। आग्नेयीवै रात्र्यैन्द्रमहः। यदुदिते सूर्य आदधीताग्नेयाद्वर्णादियात्। यदनुदित ऐन्द्रात्। अनुदिते ऽपर आधेय उदिते पूर्वः। उभावेवेन्द्राग्न्योर्वर्णावाप्नोति। असुर्या वै रात्री वर्णेन शुक्रियमहः। शुक्रिय आधत्ते
+
+[^25]: "The ms. •मवरुणधायेति."
 
 य
 
@@ -2101,7 +2143,9 @@ Cf. KS. VII, 13, 14; MS. I, 6, 1,2.
 
 विदुरिवमनुष्या नक्षत्रम्। मीमाऀसन्त
 
-[इव](# "The ms. मीमांसतैव.")ह्युदितेन वाव पुण्याहम्। पुण्याह आधत्ते
+इव[^27]ह्युदितेन वाव पुण्याहम्। पुण्याह आधत्ते
+
+[^27]: "The ms. मीमांसतैव."
 
 यदुदिते सूर्य आधत्ते॥
 
@@ -2120,11 +2164,15 @@ Cf. KS. VII, 13, 14; MS. I, 6, 1,2.
 
  अङ्गिरसां त्वा देवानां व्रतेनादध इति ब्राह्मणेनाधेयः। ये वै देवानामङ्गिरसस्ते ब्राह्मणस्य प्रत्येनसो ऽग्निर्वायुर्वाग्वृहस्पतिः।
 
-[ततोबन्धुरस्य](# "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken.") [यज्ञस्ततायनः।](# "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken.") [यतोबन्धुरेवास्य](# "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken.") यज्ञो [यतआयनः](# "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken.")। तत एनं
+ततोबन्धुरस्य[^28] यज्ञस्ततायनः।[^28] यतोबन्धुरेवास्य[^28] यज्ञो यतआयनः[^28]। तत एनं
+
+[^28]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
 
 प्रतीच्छति। इंद्रस्य स्वा मरुत्वतो व्रतेनादध इति राजन्येनाधेयः। ये वै देवानां राजानस्ते राजन्यस्य प्रत्येनस इन्द्रो वरुणो धाता त्वष्टा।
 
-[ततोबन्धुरस्य](# "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken.") यज्ञ[स्ततआयनः](# "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken.")। [यतोबन्धुरेवास्य](# "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken.") यज्ञो [यतआयनः](# "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken.")। तत एनं प्रतीच्छति। मनोस्त्वा ग्रामण्यो व्रतेनादध इति वैश्येनाधेयः। मरुतो वै देवानां विशः। ते वैश्यस्य प्रत्येनसः। [ततोबन्धुरस्य](# "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken.") [यज्ञस्ततआयनः](# "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken.")। [यतोबन्धुरेवास्य](# "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken.") यज्ञो [यतआयनः](# "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken.")। तत एनं
+ततोबन्धुरस्य[^28] यज्ञस्ततआयनः[^28]। यतोबन्धुरेवास्य[^28] यज्ञो यतआयनः[^28]। तत एनं प्रतीच्छति। मनोस्त्वा ग्रामण्यो व्रतेनादध इति वैश्येनाधेयः। मरुतो वै देवानां विशः। ते वैश्यस्य प्रत्येनसः। ततोबन्धुरस्य[^28] यज्ञस्ततआयनः[^28]। यतोबन्धुरेवास्य[^28] यज्ञो यतआयनः[^28]। तत एनं
+
+[^28]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
 
 प्रतीच्छति॥
 
@@ -2218,7 +2266,11 @@ Cf. KS. VII, 13, 14; MS. I, 6, 1,2.
 
 ता
 
-[एवैतव्द्या](# "KS. एवास्यैत ०.")[कृत्य](# " The ms. व्याक्लृप्त्य.")यथायोनि प्रतिष्ठाप्याधत्ते वि पाप्मना वर्तते
+एवैतव्द्या[^40]कृत्य[^41]यथायोनि प्रतिष्ठाप्याधत्ते वि पाप्मना वर्तते
+
+[^40]: "KS. एवास्यैत ०."
+
+[^41]: " The ms. व्याक्लृप्त्य."
 
 ऽधातुको रुद्रः पशून्भवति। द्यौर्मह्नासीति
 
@@ -2226,9 +2278,13 @@ Cf. KS. VII, 13, 14; MS. I, 6, 1,2.
 
 महानग्निमाधाय भवति। भूमिर्भूम्नेति श्वः श्वो
 
-[भूयान्भवति](# "The ms. वसीयान् .")। तस्यास्ते देव्यदित उपस्थे ऽन्नादमन्नाद्यायान्नपत्यायादध
+भूयान्भवति[^42]। तस्यास्ते देव्यदित उपस्थे ऽन्नादमन्नाद्यायान्नपत्यायादध
 
-इत्यन्नादमेवैनमन्नाद्यायान्नपत्या[याधत्ते](# "KS. adds अन्नाद्यायाग्निमाधत्ते.")।अत्त्यन्नं य एवं विद्वानग्निमाधत्ते। आयं गौः पृश्निरक्रमीदित्येताः सर्पराज्ञ्या ऋचः। इयं वै सर्पराज्ञी। अन्नऀसार्पराज्ञम्। अन्नाद्यायाग्निमाधत्ते। अत्त्यन्नं य एवं विद्वानग्निमाधत्ते। वसन्तो वा इमाः प्रजा उपरुणद्धि ग्रीष्माय। ग्रीष्मो वर्षाभ्यः। वर्षाः शरदे। शरद्धेमन्ताय। हेमन्तः शिशिराय। शिशिरमग्नये।
+[^42]: "The ms. वसीयान् ."
+
+इत्यन्नादमेवैनमन्नाद्यायान्नपत्यायाधत्ते[^43]।अत्त्यन्नं य एवं विद्वानग्निमाधत्ते। आयं गौः पृश्निरक्रमीदित्येताः सर्पराज्ञ्या ऋचः। इयं वै सर्पराज्ञी। अन्नऀसार्पराज्ञम्। अन्नाद्यायाग्निमाधत्ते। अत्त्यन्नं य एवं विद्वानग्निमाधत्ते। वसन्तो वा इमाः प्रजा उपरुणद्धि ग्रीष्माय। ग्रीष्मो वर्षाभ्यः। वर्षाः शरदे। शरद्धेमन्ताय। हेमन्तः शिशिराय। शिशिरमग्नये।
+
+[^43]: "KS. adds अन्नाद्यायाग्निमाधत्ते."
 
 अग्निर्यजमानाय। अत्त्यन्नं य एवं विद्वानग्निमाधते॥
 
@@ -2297,7 +2353,11 @@ Cf. KS. VIII, 8.
 संक्रामः। श्रेयऀसऀश्रेयाऀसं लोकमभ्युत्क्रामति य एवं वेद। एतद्वै देवानाऀसत्यमनभिजितं यदामन्त्रणम्। तस्मात्सुप्रातरामन्त्रणं गच्छेत्।
 सत्यमेव गच्छति।
 
-[तस्मादा](# "The ms. यदा०..")[मन्त्रणं](# "For āmantrana see ApDh. II, 2, 5, तस्य पुरस्तादावसथस्तदामन्त्रणमित्याच- क्षते. See Prof. Caland's note in Wien. Zeit, K. M., vol. XXIII, pp. 59-60.") नाहूत
+तस्मादा[^44]मन्त्रणं[^45] नाहूत
+
+[^44]: "The ms. यदा०.."
+
+[^45]: "For āmantrana see ApDh. II, 2, 5, तस्य पुरस्तादावसथस्तदामन्त्रणमित्याच- क्षते. See Prof. Caland's note in Wien. Zeit, K. M., vol. XXIII, pp. 59-60."
 
 यायात्। तस्मादामन्त्रणे नानृतं वदेत्। वह्निर्वै नामौदनपचनः। आस्य वह्निर्जायते य एवं वेद। गृहा गार्हपत्यः। गृहवान्भवति य एवं वेद। धिष्ण्या आहवनीयः। उपैनं यज्ञो नमति य एवं वेद। सप्रथा मध्याधिदेवनम्। प्रथते प्रजया च पशुभिश्च य एवं वेद। अनाप्त आमन्त्रणम्। नैनमाप्नोति य ईप्सति य एवं वेद ॥४॥ Cf. KS. VIII, 7.
 
@@ -2337,11 +2397,17 @@ Cf. KS. VIII, 8.
 
 पुनरैमीत्येद्वृक्षस्याग्रेऽग्निं ज्वलन्तम्। सो ऽचिकेदयं
 
-वाव सो ऽग्निरिति। तस्यारणी आदायाग्निंमथित्वाधत्त। तेन प्राजायत। यदारोहस्यारणी भवतः प्रजननाय। अदित्यै घृते चरुं पशुकामो ऽनुनिर्वपेत्। इयं वा अदितिः। अस्यामधि पशवः प्रजायन्ते। यज्ञमुखमग्न्याधेयम्। यज्ञमुखमेवालभ्य पशूनवरुन्द्धे। चातुष्प्राश्यो भवति। आचतुरऀहीमे पशवो द्वन्द्वं मिथुनाः। ते वीर्यकृतः। अग्नीषोमीयमेकादशकपालं ऽनुनिर्वपेत्। आग्नेयो वै ब्राह्मणः। देवतया सोमराजा। यज्ञमुखमग्न्याधेयम्। यज्ञमुखमेवाक्रम्य स्वाराज्यमुपैति। देवान्वै यज्ञो नाभ्यनमत्। ते ऽश्राम्यन्यज्ञो नो नाभिनमतीति। [सो](# "KS. तेषाम्.")ऽग्नीषोमावेवाग्रे यज्ञो ऽभ्यनमत्। ते ऽविदुरग्नीषोमौ वै नो ऽग्रे यज्ञो ऽभ्यनाऀस्तयोर्यज्ञस्याभिनतिमिच्छामहा इति। ते ऽब्रुवन्युवां वै नो ऽग्रे यज्ञो
+वाव सो ऽग्निरिति। तस्यारणी आदायाग्निंमथित्वाधत्त। तेन प्राजायत। यदारोहस्यारणी भवतः प्रजननाय। अदित्यै घृते चरुं पशुकामो ऽनुनिर्वपेत्। इयं वा अदितिः। अस्यामधि पशवः प्रजायन्ते। यज्ञमुखमग्न्याधेयम्। यज्ञमुखमेवालभ्य पशूनवरुन्द्धे। चातुष्प्राश्यो भवति। आचतुरऀहीमे पशवो द्वन्द्वं मिथुनाः। ते वीर्यकृतः। अग्नीषोमीयमेकादशकपालं ऽनुनिर्वपेत्। आग्नेयो वै ब्राह्मणः। देवतया सोमराजा। यज्ञमुखमग्न्याधेयम्। यज्ञमुखमेवाक्रम्य स्वाराज्यमुपैति। देवान्वै यज्ञो नाभ्यनमत्। ते ऽश्राम्यन्यज्ञो नो नाभिनमतीति। सो[^46]ऽग्नीषोमावेवाग्रे यज्ञो ऽभ्यनमत्। ते ऽविदुरग्नीषोमौ वै नो ऽग्रे यज्ञो ऽभ्यनाऀस्तयोर्यज्ञस्याभिनतिमिच्छामहा इति। ते ऽब्रुवन्युवां वै नो ऽग्रे यज्ञो
 
-[ऽभ्यनान्युवयोर्नो](# "The ms. ऽभ्यन्नात्युभयोर्णो.") ऽधि यज्ञो ऽभिनमत्विति।
+[^46]: "KS. तेषाम्."
 
-[तावब्रूता](# " KS. ता अब्रुवतां.")ंवार्य वृणावहा आवामेवाग्र आज्यभागौ यजानिति। तस्मादग्नीषोमावेवाग्र आज्यभागौ यजन्ति। वार्यवृतऀह्यनयोः। यदग्नीषोमीयमनुनिर्वपति यज्ञस्याभिनत्यै। अतो हि देवानग्रे यज्ञो ऽभ्यनमत्। यदन्यदनुनिर्वपेद्देवतया यज्ञमन्तर्दध्यात्। मिथुनं वा अग्निश्चसोमश्च। सोमो रेतोधा अग्निः प्रजनयिता। अग्निर्वावेदऀसर्वम्।आप ओषधयो वनस्पतयः। तदेव सोमः। एतौ वै नो देवानां नेदिष्ठम्। एतौ हि पश्यामः। यथा वा इदं
+ऽभ्यनान्युवयोर्नो[^47] ऽधि यज्ञो ऽभिनमत्विति।
+
+[^47]: "The ms. ऽभ्यन्नात्युभयोर्णो."
+
+तावब्रूता[^48]ंवार्य वृणावहा आवामेवाग्र आज्यभागौ यजानिति। तस्मादग्नीषोमावेवाग्र आज्यभागौ यजन्ति। वार्यवृतऀह्यनयोः। यदग्नीषोमीयमनुनिर्वपति यज्ञस्याभिनत्यै। अतो हि देवानग्रे यज्ञो ऽभ्यनमत्। यदन्यदनुनिर्वपेद्देवतया यज्ञमन्तर्दध्यात्। मिथुनं वा अग्निश्चसोमश्च। सोमो रेतोधा अग्निः प्रजनयिता। अग्निर्वावेदऀसर्वम्।आप ओषधयो वनस्पतयः। तदेव सोमः। एतौ वै नो देवानां नेदिष्ठम्। एतौ हि पश्यामः। यथा वा इदं
+
+[^48]: " KS. ता अब्रुवतां."
 
 
 
@@ -2388,7 +2454,9 @@ Cf. KS. VIII, 8.
 
  अहुतादो वा एतस्य पुरा देवाः। अथैतद्धुताद उपावर्तते। ते ऽस्योर्जापक्रामन्ति। ऊर्जमेवावरुन्द्धे। तानेव भागिनः करोति। यजन्त्यमुष्मि
 
-ञ्जुह्वत्यस्मिन्पचन्त्यमुष्मिन्ननन्तरया[यैतस्य](# "The ms. • ननंतरतायैतस्य.")।
+ञ्जुह्वत्यस्मिन्पचन्त्यमुष्मिन्ननन्तरयायैतस्य[^49]।
+
+[^49]: "The ms. • ननंतरतायैतस्य."
 
 अथोवैश्वानरतायामेवैनमुपा-तिष्ठिपत्। ये वै यज्ञेनायजन्तार्ध्नुवऀस्ते। न वै सु विदुरिव मनुष्या यज्ञम्। तस्मान्न सर्व इवर्ध्नोति। यद्दक्षिणां ददाति
 
@@ -2410,8 +2478,10 @@ Cf. KS. VIII, 8.
 
 यत्ते मन्युपरोप्तस्य
 
-पृथिवीमनु[दध्वसे](# "The ms. • दध्मसे.")।  
+पृथिवीमनुदध्वसे[^50]।  
 आदित्या विश्वे तद्देवा वसवः पुनराभरन्॥
+
+[^50]: "The ms. • दध्मसे."
 
 यत्त्वाक्रुद्धः परोवप मन्युना यदवर्त्या।  
 सुकल्पमग्नेतत्तव पुनस्त्वोद्दीपयामसि॥
@@ -2458,7 +2528,7 @@ Cf. KS. VIII, 8.
 तइमे त्वाष्ट्राः पशवः। तेनर्द्धाः। मनुः पुष्टिकाम आधत्त। स इमान्पोषानपुष्यत्। तेनर्द्धाः। प्रजापतिः प्रजाकाम आधत्त। ता इमाः प्राजापत्याः प्रजाः प्राजायन्त। तेनर्द्धाः। यो वै तमाधत्त स तेन वसुना समभवत्। तस्मात्पुनर्वसुः। तस्मात्पुनर्वसावाधेयः। आर्ध्नोद्वैस यस्तमाधत्त। तस्मादनूराधाः। तस्मादनूराधास्वाधेयः॥३॥Cf. KS. VIII, 15; MS. I, 7, 2; TS. I, 5. 1. 2.  
 —————————————————————————————————————————————
 
-वि स्या ऋध्यता इत्युत्साद्य पुनरादधीत is inexplicable. This use of the pronoun त्मद्isvery common in the Jaiminīya Brāhmaṇa and very often the sentence expresses unfavourable circumstances. In KS, MS. and TS. quite a number of such instances can be noted: KS. XXIII, 2 (p. 75, 1, 1); XXIV, 9 (p. 100, 1.5 ); Ms. III, 6, 4 (p. 63, 1, 17); TS, II, 5, 2, 6; II, 6, 6, 1. An interesting inter- change of अस्मद् and त्यद्; similar to the one observable in Pañicavimsa and Jaiminiya Br. is met with in Mait. and Kath, Samhitās : अस्ति वा इदं त्यस्मिन्नन्तवार्यम् \[MS, II, 4, 3 (p. 40, 1. 19) as against वींर्य वा इदं मय्यस्ति KS. XII, 3 (p. 164, 1 16 ). For JaimBr. passages see Prof. Caland's paper **"Over en uit het JaimBr."** in Versl, en Med, 5, 1, 1. This use of त्यद् is restricted to the Brāhmapas.
+वि स्या ऋध्यता इत्युत्साद्य पुनरादधीत is inexplicable. This use of the pronoun त्मद्isvery common in the Jaiminīya Brāhmaṇa and very often the sentence expresses unfavourable circumstances. In KS, MS. and TS. quite a number of such instances can be noted: KS. XXIII, 2 (p. 75, 1, 1); XXIV, 9 (p. 100, 1.5 ); Ms. III, 6, 4 (p. 63, 1, 17); TS, II, 5, 2, 6; II, 6, 6, 1. An interesting inter- change of अस्मद् and त्यद्; similar to the one observable in Pañicavimsa and Jaiminiya Br. is met with in Mait. and Kath, Samhitās : अस्ति वा इदं त्यस्मिन्नन्तवार्यम् \MS, II, 4, 3 (p. 40, 1. 19) as against वींर्य वा इदं मय्यस्ति KS. XII, 3 (p. 164, 1 16 ). For JaimBr. passages see Prof. Caland's paper **"Over en uit het JaimBr."** in Versl, en Med, 5, 1, 1. This use of त्यद् is restricted to the Brāhmapas.
 
 
 
@@ -2505,7 +2575,9 @@ Cf. KS. VIII, 8.
 
  यज्ञेन वा एष वीर्येण
 
-[व्यृध्यते](# "The ms.विवृ०.") यो ऽग्निमुत्सादयते। पाङ्क्तोयज्ञः। यत्पश्चकपालो यज्ञमेवालभते। तदाहुरष्टाकपाल एव कार्यो न पञ्चकपाल इति। अष्टाक्षरा गायत्री।गायत्रो ऽग्निर्गायत्रच्छन्दाः। आग्नेयमेतत्क्रियते यत्पुनैराधेयम्। तस्मादष्टाकपालः। तत्तन्न सूर्क्ष्यम्। पञ्चकपाल एव कार्यः। अग्निर्वा उत्सीदन्संवत्सरमनूत्सीदति। पञ्च वा ऋतवः संवत्सरः।
+[व्यृध्यते[^51] यो ऽग्निमुत्सादयते। पाङ्क्तोयज्ञः। यत्पश्चकपालो यज्ञमेवालभते। तदाहुरष्टाकपाल एव कार्यो न पञ्चकपाल इति। अष्टाक्षरा गायत्री।गायत्रो ऽग्निर्गायत्रच्छन्दाः। आग्नेयमेतत्क्रियते यत्पुनैराधेयम्। तस्मादष्टाकपालः। तत्तन्न सूर्क्ष्यम्। पञ्चकपाल एव कार्यः। अग्निर्वा उत्सीदन्संवत्सरमनूत्सीदति। पञ्च वा ऋतवः संवत्सरः।
+
+[^51]: "The ms.विवृ०."
 
 पञ्चथाद्वा
 
@@ -2642,7 +2714,11 @@ Cf. KS. VIII, 8.
 
 श्रातास्तइन्द्र सोमा
 
-[वातापयो](# "KS,वातापे.")[हवनश्रुतः](# "The ms, ०श्रुच.") स्वाहा। अग्निर्होता। अश्विनाध्वर्यू। रुद्रो
+वातापयो[^52]हवनश्रुतः[^53] स्वाहा। अग्निर्होता। अश्विनाध्वर्यू। रुद्रो
+
+[^52]: "KS,वातापे."
+
+[^53]: "The ms, ०श्रुच."
 
 ऽग्नीत्। बृहस्पतिरुपवक्ता। वाचस्पते
 
@@ -2744,7 +2820,9 @@ II, 7, 10; III, 2, 2; TS. IV, 2, 3; V, 2, 2.
 सहस्रिणं वाजमत्यं न सप्तिऀससवान्सन्स्तूयसे जातवेदः॥
 
 अग्ने दिवो अर्णमच्छाजिगास्यच्छा देवाऀऊचिषे धिष्ण्या ये।  
-[याश्चावस्तादुपतिष्ठन्त](# "KS. यास्त्वा०.") आपो या वा परो रोचने सूर्यस्य॥
+याश्चावस्तादुपतिष्ठन्त[^54] आपो या वा परो रोचने सूर्यस्य॥
+
+[^54]: "KS. यास्त्वा०."
 
 अग्ने यत्ते दिवि वर्चः पृथिव्यां यत्पर्वतेष्वोषधीष्वप्सु।  
 येनान्तरिक्षमुर्वाततन्थ त्वेषः स भानुरर्णवो नृचक्षाः॥
@@ -3182,11 +3260,15 @@ Cf. XXXI, 11. 18; KS. XVI, 18. 19; XX, 9; XXI, 3; MS. II, 7, 18, 19, 8, 1; III, 
 
  सजूर्ऋृतुभिः सजूर्विधाभिः सजूर्देवैः सजूर्देवैर्वयोनाधैः। अग्नये त्वा वैश्वानराय।अश्विनाध्वर्यू सादयतामिह त्वा॥
 
- सजूर्ऋृतुभिः सजूर्विधाभिः सजुर्वसुभिः सजू रुद्रैः सजूरादित्यैः सजूर्विश्वैर्देवैः [सजूर्देवैर्वयोनाधैः](# "KS, omits सजूर्देवैः.")। अग्नये त्वा वैश्वानराय। अश्विनाध्वर्यु सादयतामिह त्वा॥
+ सजूर्ऋृतुभिः सजूर्विधाभिः सजुर्वसुभिः सजू रुद्रैः सजूरादित्यैः सजूर्विश्वैर्देवैः सजूर्देवैर्वयोनाधैः[^55]। अग्नये त्वा वैश्वानराय। अश्विनाध्वर्यु सादयतामिह त्वा॥
+
+[^55]: "KS, omits सजूर्देवैः."
 
  
 
-प्राणं मे पाहि व्यानं मे पाह्यपानं मे पाहि चक्षुर्म उर्विया विभाहि श्रोत्रं मे श्लोकय । अपः पिन्वौषधीर्जिन्व द्विपादव चतुष्पात्पाहि दिवो [वा](# "Kap. omits वा.")वृष्टिमेयर॥१०॥ Cf, XXXI, 12; KS, XVII, 1; XX, 10; MS. II, 8, 1. 2; TS. IV, 3, 4.
+प्राणं मे पाहि व्यानं मे पाह्यपानं मे पाहि चक्षुर्म उर्विया विभाहि श्रोत्रं मे श्लोकय । अपः पिन्वौषधीर्जिन्व द्विपादव चतुष्पात्पाहि दिवो वा[^56]वृष्टिमेयर॥१०॥ Cf, XXXI, 12; KS, XVII, 1; XX, 10; MS. II, 8, 1. 2; TS. IV, 3, 4.
+
+[^56]: "Kap. omits वा."
 
 **इति कपिष्ठलकठसंहितायां पञ्चविंशतितमोऽध्यायः॥**  
 **——————**
@@ -3240,7 +3322,9 @@ Cf. XXXI, 11. 18; KS. XVI, 18. 19; XX, 9; XXI, 3; MS. II, 7, 18, 19, 8, 1; III, 
 सहसा जातान्प्रणुदा नः सपत्नान्प्रत्यजाताञ्जातवेदो नुदस्व।  
 अधि नो ब्रूहि सुमनस्यमानो वयऀस्याम प्रणुदा नः सपत्नान्॥
 
-षोडश स्तोम ओजो द्रविणम्। चतुश्चत्वारिऀश स्तोमो वर्चो [द्रविणम्](# "KS. MS. TS. reverse the order of these two mantras, VS. XV, 3 agrees with Kap.")।
+षोडश स्तोम ओजो द्रविणम्। चतुश्चत्वारिऀश स्तोमो वर्चो द्रविणम्[^57]।
+
+[^57]: "KS. MS. TS. reverse the order of these two mantras, VS. XV, 3 agrees with Kap."
 
 
 
@@ -3263,8 +3347,10 @@ Cf. XXXI, 11. 18; KS. XVI, 18. 19; XX, 9; XXI, 3; MS. II, 7, 18, 19, 8, 1; III, 
 
 धर्म जिन्व। अन्वितिरसि दिवे त्वा दिवं जिन्व। संधिरस्यन्तरिक्षाय त्वान्तरिक्षं जिन्व। प्रतिधिरसि पृथिव्यै त्वा पृथिवीं जिन्व। विष्टम्भो ऽसि वृष्ट्यै त्वा वृष्टिं जिन्व \। प्रवास्यह्ने त्वाहर्जिन्व।अनुवासि रात्र्यै त्वा रात्रीं जिन्व। उशिगसि वसुभ्यस्त्वा वसूञ्जिन्व। प्रकेतो ऽसि रुद्रेभ्यस्त्वा रुद्राञ्जिन्व।
 
-[सुदिति](# "The ms. न्युदीचीर०.")रस्यादित्येभ्यस्त्वादित्याञ्जिन्व। ओजो ऽसि पितृभ्यस्त्वा पितृञ्जिन्व। तन्तुरसि प्रजाभ्यस्त्वा प्रजा जिन्व। पृतनाषाडसि पशुभ्यस्त्वा पशूञ्जिन्व। रेवदस्योषधीभ्यस्त्वौषधीर्जिन्व \।
+सुदिति[^58]रस्यादित्येभ्यस्त्वादित्याञ्जिन्व। ओजो ऽसि पितृभ्यस्त्वा पितृञ्जिन्व। तन्तुरसि प्रजाभ्यस्त्वा प्रजा जिन्व। पृतनाषाडसि पशुभ्यस्त्वा पशूञ्जिन्व। रेवदस्योषधीभ्यस्त्वौषधीर्जिन्व \।
 अभिजिदसि युक्तग्रावेन्द्राय त्वेन्द्रं जिन्व।अधिपतिरसि प्राणाय त्वा प्राणं जिन्व। धरुणो ऽस्यपानाय त्वापानं जिन्व। सऀसर्पो ऽसि चक्षुषे त्वा चक्षुर्जिन्व। वयोधा असि श्रोत्राय त्वा श्रोत्रं जिन्व। त्रिवृदसि त्रिवृते त्वा। सवृदसि सवृते त्वा।
+
+[^58]: "The ms. न्युदीचीर०."
 
 
 
@@ -3276,13 +3362,17 @@ Cf. XXXI, 11. 18; KS. XVI, 18. 19; XX, 9; XXI, 3; MS. II, 7, 18, 19, 8, 1; III, 
 
  राक्ष्यसि प्राची दिक्। वसवस्ते देवा अधिपतयः। अग्निर्हेतीनां प्रतिधर्ता। त्रिवृत्त्वा स्तोमः पृथिव्याऀश्रयतु।
 
-आज्यमुक्थ[मव्यथायै](# "KS. • मव्यथाय. MS,and VS XV, 10 agree with kap.") स्तभ्नातु। रथन्तरऀसाम प्रतिष्ठित्या अन्तरिक्षम्। ऋषयस्त्वा प्रथमजा देवेषु दिवो मात्रया वरिणा प्रथन्तु। विधर्ता चायमधिपतिः। ते त्वा सर्वे संविदाना नाकस्य पृष्ठे स्वर्गे लोके यजमानं च सादयन्तु॥
+आज्यमुक्थमव्यथायै[^59] स्तभ्नातु। रथन्तरऀसाम प्रतिष्ठित्या अन्तरिक्षम्। ऋषयस्त्वा प्रथमजा देवेषु दिवो मात्रया वरिणा प्रथन्तु। विधर्ता चायमधिपतिः। ते त्वा सर्वे संविदाना नाकस्य पृष्ठे स्वर्गे लोके यजमानं च सादयन्तु॥
+
+[^59]: "KS. • मव्यथाय. MS,and VS XV, 10 agree with kap."
 
  विराडसि दक्षिणा दिक्। रुद्रास्ते देवा अधिपतयः।
 
 सोमो हेतीनां प्रतिधर्ता। पञ्चदशस्त्वा स्तोमः पृथिव्याऀश्रयतु।
 
-प्रउगमुक्थ[मव्यथायै](# "KS. • मव्यथाय. See note 3.")स्तभ्नातु। बृहत्साम प्रतिष्ठित्या अन्तरिक्षम्। ऋषयस्त्वा प्रथमजाः
+प्रउगमुक्थमव्यथायै[^60]स्तभ्नातु। बृहत्साम प्रतिष्ठित्या अन्तरिक्षम्। ऋषयस्त्वा प्रथमजाः
+
+[^60]: "KS. • मव्यथाय. See note 3."
 
 ०॥
 
@@ -3308,13 +3398,17 @@ Cf. XXXI, 11. 18; KS. XVI, 18. 19; XX, 9; XXI, 3; MS. II, 7, 18, 19, 8, 1; III, 
 
  अयं पुरो हरिकेशः सूर्यरश्मिः। तस्य रथकृत्सश्च रथौजाश्च सेनानीग्रामण्यौ।
 
-पुञ्जि[कस्थला](# "KS. पुञ्जिग०") [](# "KS. पुञ्जिग०") च कृतस्थला चाप्सरसौ। यातुधाना हेतिः। रक्षाऀसि प्रहेतिः। ते नः पान्तु। ते नो ऽवन्तु। ते यं द्विष्मो यश्च नो द्वेष्टि तमेषां जम्भे दधामि॥
+पुञ्जिकस्थला[^61] [][^61] च कृतस्थला चाप्सरसौ। यातुधाना हेतिः। रक्षाऀसि प्रहेतिः। ते नः पान्तु। ते नो ऽवन्तु। ते यं द्विष्मो यश्च नो द्वेष्टि तमेषां जम्भे दधामि॥
+
+[^61]: "KS. पुञ्जिग०"
 
  अयं दक्षिणा विश्वकर्मा। तस्य रथस्वनश्च रथेचित्रश्च सेनानीग्रामण्यौ। मेनका च सहजन्या चाप्सरसौ। दङ्क्ष्णवः पशवो हेतिः। पौरुषेयो वधः प्रहेतिः। ते नः
 
 पान्तु॥
 
- अयं पश्चाद्विदद्वसुः। तस्य [रथप्रोथश्चा](# "Thus the ms.KS. रथप्रोत ०.")समरथश्चसेनानीग्रामण्यौ। प्रम्लोचन्ती
+ अयं पश्चाद्विदद्वसुः। तस्य रथप्रोथश्चा[^63]समरथश्चसेनानीग्रामण्यौ। प्रम्लोचन्ती
+
+[^63]: "Thus the ms.KS. रथप्रोत ०."
 
 चानुम्लोचन्ती चाप्सरसौ। व्याघ्रा हेतिः। सर्पाः प्रहेतिः। ते नः
 
@@ -3330,12 +3424,16 @@ Cf. XXXI, 11. 18; KS. XVI, 18. 19; XX, 9; XXI, 3; MS. II, 7, 18, 19, 8, 1; III, 
 
  आयोस्त्वा सदने सादयाम्यवतश्छायायाम्। नमः समुद्राय। नमः समुद्रस्य चक्षसे॥
 
-प्रोथदश्वो न यवसे ऽविष्यन्यदा महः [संवरणा](# " KS, संवरणे for संवरणाद्.")द्व्यस्थात्।  
+प्रोथदश्वो न यवसे ऽविष्यन्यदा महः संवरणा[^64]द्व्यस्थात्।  
 आदस्य वातो अनुवाति शोचिरध स्म ते व्रजनमस्तु कृष्णम्॥
 
+[^64]: " KS, संवरणे for संवरणाद्."
 
 
- [बृहस्पतिस्त्वा](# "KS. प्रजापति ०.") सादयतुपृथिव्याः पृष्ठे ज्योतिष्मतीं विश्वस्मै प्राणाय व्यानायापानाय। विश्वं ज्योतिर्यच्छ। अग्निष्टे ऽधिपतिः। विश्वकर्मा त्वा सादयत्वन्तरिक्षस्य पृष्ठे ज्योतिष्मतीं विश्वस्मै प्राणाय व्यानायापानाय। विश्वंज्योतिर्यच्छ। वायुष्टे ऽधिपतिः।
+
+ बृहस्पतिस्त्वा[^65] सादयतुपृथिव्याः पृष्ठे ज्योतिष्मतीं विश्वस्मै प्राणाय व्यानायापानाय। विश्वं ज्योतिर्यच्छ। अग्निष्टे ऽधिपतिः। विश्वकर्मा त्वा सादयत्वन्तरिक्षस्य पृष्ठे ज्योतिष्मतीं विश्वस्मै प्राणाय व्यानायापानाय। विश्वंज्योतिर्यच्छ। वायुष्टे ऽधिपतिः।
+
+[^65]: "KS. प्रजापति ०."
 
 प्रजापतिस्त्वासादयतु दिवः पृष्ठे ज्योतिष्मतीं विश्वस्मै प्राणाय व्यानायापानाय। विश्वं ज्योतिर्यच्छ।
 
@@ -3443,7 +3541,11 @@ Cf. XXXI, 11. 18; KS. XVI, 18. 19; XX, 9; XXI, 3; MS. II, 7, 18, 19, 8, 1; III, 
 विज्यं धनुः कपर्दिनो विशल्यो बाणवानुत।  
 अनेशन्नस्येषव
 
-[आभुरस्य](# "MS. padapātha ms. TS, Vs. XVI, 10 also आभुः; KS. MS. आभूः") [निषङ्गधिः](# "MS. var. lec. VS. ib. agree with Kap; KS. MS. TS. read निषङ्गथिः.")॥
+आभुरस्य[^66] निषङ्गधिः[^67]॥
+
+[^66]: "MS. padapātha ms. TS, Vs. XVI, 10 also आभुः; KS. MS. आभूः"
+
+[^67]: "MS. var. lec. VS. ib. agree with Kap; KS. MS. TS. read निषङ्गथिः."
 
 या ते
 
@@ -3452,8 +3554,10 @@ Cf. XXXI, 11. 18; KS. XVI, 18. 19; XX, 9; XXI, 3; MS. II, 7, 18, 19, 8, 1; III, 
 
 परि ते धन्वनो
 
-हेतिरस्मा[न्वृणक्तु](# "The ms. वृणोतु.") विश्वतः।  
+हेतिरस्मान्वृणक्तु[^68] विश्वतः।  
 अथो यइषुधिस्तवारे अस्मन्निधेहि तम्॥
+
+[^68]: "The ms. वृणोतु."
 
 नमाऀसि त
 
@@ -3926,7 +4030,7 @@ Cf. KS. XVIII, 3; XXI, 8; MS, II, 10, 4, 5; III, 3, 8; TS. IV, 6, 3; V, 4, 6.
 
 
 
- अस्माकं वीरा उत्तरे भवन्त्वस्माऀउ देवाअवता हवेषु॥५॥Cf. KS. XVIII, 5; MS. II. 10, 4; TS. IV, 6, 3. \[XXVIII, 5. 6. 7. 8.
+ अस्माकं वीरा उत्तरे भवन्त्वस्माऀउ देवाअवता हवेषु॥५॥Cf. KS. XVIII, 5; MS. II. 10, 4; TS. IV, 6, 3. \XXVIII, 5. 6. 7. 8.
 
  शुक्रज्योतिश्चचित्रज्योतिश्च। सत्यज्योतिश्च ज्योतिष्माऀश्च। सत्यश्चर्तपाश्चात्यऀहाः। ईदृङ् चान्यादृङ् च। सदृङ् च प्रतिसदृङ् च। मितश्च संमितश्च
 
@@ -4155,8 +4259,10 @@ TS. IV, 7, 12.
 
 दैव्या
 
-होतारोर्ध्वमिममध्वरमग्नेर्जिह्वयाभिगृणीत[मुक्तम्](# "उक्तं is an addition of Kap.")।  
+होतारोर्ध्वमिममध्वरमग्नेर्जिह्वयाभिगृणीत[मुक्तम्[^69]।  
 कृणुतं नः स्विष्टिम्॥
+
+[^69]: "उक्तं is an addition of Kap."
 
 तिस्रो देवीर्बर्हिरेदऀस्योनमिडा सरस्वती महीः।  
 भारती गृणाना॥
@@ -4243,7 +4349,9 @@ Cf. KS XVIII, 17; MS. II, 12, 6; TS. IV, 1, 8.
 
  अग्निर्वै देवेभ्यो ऽपाक्रामत्। स यत्रयत्रावसत्तं प्रजापतिरन्वपश्यत्। प्राजापत्यो ऽश्वः। यदश्वेन यन्त्यग्नेरेवानुख्यात्यै। एतेन वै देवा असुरानु
 
-त्तम[मभ्यभवन्](# "The ms. ०जयन्.")। यदश्वेन यन्ति भ्रातृव्यस्याभिभूत्यै। एतं वै रक्षाऀसि नातरन्। यदश्वेन यन्ति रक्षसामतीत्यै। अश्वंपूर्वं नयन्ति गर्दभमपरं पापवसीयसस्य व्यावृत्त्यै। तस्मात्पुण्यं पूर्वं यन्तं पापीयान्पश्चादन्वेति। गर्दभेन संभरति। तस्मादेष समावत्पशूनां रेतो दधानानां कनिष्ठः। अग्निर्ह्यस्य रेतो निरदहत्। यदेतेनास्यामूर्जमर्कऀसंभरति तस्मादेषो ऽस्यां
+त्तममभ्यभवन्[^70]। यदश्वेन यन्ति भ्रातृव्यस्याभिभूत्यै। एतं वै रक्षाऀसि नातरन्। यदश्वेन यन्ति रक्षसामतीत्यै। अश्वंपूर्वं नयन्ति गर्दभमपरं पापवसीयसस्य व्यावृत्त्यै। तस्मात्पुण्यं पूर्वं यन्तं पापीयान्पश्चादन्वेति। गर्दभेन संभरति। तस्मादेष समावत्पशूनां रेतो दधानानां कनिष्ठः। अग्निर्ह्यस्य रेतो निरदहत्। यदेतेनास्यामूर्जमर्कऀसंभरति तस्मादेषो ऽस्यां
+
+[^70]: "The ms. ०जयन्."
 
 जीवितृतमः।
 
@@ -4266,7 +4374,9 @@ Cf. KS XVIII, 17; MS. II, 12, 6; TS. IV, 1, 8.
 
 प्रोच्याग्निश्चेतव्यो राज्ञे प्रोच्य। स हि प्राजापत्यतमः। इयं वै प्रजापतिः। तस्या एष कर्णो यद्वल्मीकः।
 
-यद्वल्मीकवपामु[द्धत्या](# "The ms, ०द्धृ०.")भिमन्त्रयते प्रजापतय
+यद्वल्मीकवपामुद्धत्या[^71]भिमन्त्रयते प्रजापतय
+
+[^71]: "The ms, ०द्धृ०."
 
 एवप्रोच्याग्निं चिनुते। शृण्वन्त्येनमग्निंचिक्यानम्। असावग्निमचेष्टेति। कर्णो हि कर्णयाह॥८॥Cf, KS, XIX, 1. 2; XVI, 1; MS. III. 1, 2. 3; II, 7, 2; TS. V, 1, 1, 2; IV, 1, 2.
 
@@ -4551,7 +4661,9 @@ Cf. KS XVIII, 17; MS. II, 12, 6; TS. IV, 1, 8.
 
 
 
-प्रजनयति। अग्निरत्ति। सरेतसमग्निंचिनुते। प्रजायते ऽत्त्यन्नं य एवं [विद्वानेते](# "The ms. • नेता.")'उपधत्ते। खराडसीति दक्षिणत उपदधाति। तस्माद्दक्षिणतः पुमान्स्त्रियमुपशये। यदि पूर्ववयसे चिन्वीतोभे सह प्रथमायां चित्यामुपदध्यात्। समीची एवास्मै रेतः सिञ्चतः। अन्यतरामुपदध्याद्यं द्विष्यात्तस्य। रेतसैवैनं व्यर्धयति। यद्युत्तरवयसे चिन्वीत प्रथमायामन्यां चित्यामुपदध्यादुत्तमायामन्याम्।रेत एव सिक्तमाभ्यां परिगृह्णाति। ऋतव्ये उपदधात्यृतूनां विधृत्यै। द्वेद्वे उपदधाति। द्वौद्वौ ह्यृतवः। अथैषा त्र्यालिखिता। देवाश्च वा असुराश्च समावदेव यज्ञे ऽकुर्वत। यदेव देवा अकुर्वत तदसुरा अकुर्वत। ते देवा एतां त्र्यालिखितामपश्यन्। तामुत्तरलक्ष्माणमुपादधत। तदसुरा नान्ववायन्। ततो देवा अभवन् \[परासुरा अभवन्।\] य एवं विद्वानेतामुत्तरलक्ष्माणमुपधत्ते भ्रातृव्यस्यानन्ववायाय। भवत्यात्मना परास्य भ्रातृव्यो भवति। अधरलक्ष्माणमुपदध्याद्यं द्विष्यात्तस्य। असुरयोनिमेवैनमनुपराभावयति। इमे वे लोकास्त्र्यालिखिता। इमानेवैतया लोकानाप्नोति। यस्या मृद उखां कुर्वन्ति तस्या एतां कुर्यात्। तेनैवास्य सर्वा इष्टका ज्योतिष्मतीर्यजुष्मतीर्भवन्ति॥८॥ Cf, KS. XX, 6; XVI, 16; MS. III, 2, 6. 7; II, 7, 15; TS, V, 2, 8; IV, 2, 9.
+प्रजनयति। अग्निरत्ति। सरेतसमग्निंचिनुते। प्रजायते ऽत्त्यन्नं य एवं विद्वानेते[^72]'उपधत्ते। खराडसीति दक्षिणत उपदधाति। तस्माद्दक्षिणतः पुमान्स्त्रियमुपशये। यदि पूर्ववयसे चिन्वीतोभे सह प्रथमायां चित्यामुपदध्यात्। समीची एवास्मै रेतः सिञ्चतः। अन्यतरामुपदध्याद्यं द्विष्यात्तस्य। रेतसैवैनं व्यर्धयति। यद्युत्तरवयसे चिन्वीत प्रथमायामन्यां चित्यामुपदध्यादुत्तमायामन्याम्।रेत एव सिक्तमाभ्यां परिगृह्णाति। ऋतव्ये उपदधात्यृतूनां विधृत्यै। द्वेद्वे उपदधाति। द्वौद्वौ ह्यृतवः। अथैषा त्र्यालिखिता। देवाश्च वा असुराश्च समावदेव यज्ञे ऽकुर्वत। यदेव देवा अकुर्वत तदसुरा अकुर्वत। ते देवा एतां त्र्यालिखितामपश्यन्। तामुत्तरलक्ष्माणमुपादधत। तदसुरा नान्ववायन्। ततो देवा अभवन् \[परासुरा अभवन्।\] य एवं विद्वानेतामुत्तरलक्ष्माणमुपधत्ते भ्रातृव्यस्यानन्ववायाय। भवत्यात्मना परास्य भ्रातृव्यो भवति। अधरलक्ष्माणमुपदध्याद्यं द्विष्यात्तस्य। असुरयोनिमेवैनमनुपराभावयति। इमे वे लोकास्त्र्यालिखिता। इमानेवैतया लोकानाप्नोति। यस्या मृद उखां कुर्वन्ति तस्या एतां कुर्यात्। तेनैवास्य सर्वा इष्टका ज्योतिष्मतीर्यजुष्मतीर्भवन्ति॥८॥ Cf, KS. XX, 6; XVI, 16; MS. III, 2, 6. 7; II, 7, 15; TS, V, 2, 8; IV, 2, 9.
+
+[^72]: "The ms. • नेता."
 
  मेधो वा एष पशूनां यत्कूर्मः। यत्कूर्ममुपदधात्येतमेवैनं मेधमभिसंजानानाः पशव उपतिष्ठन्ते। जीवन्तमुपधाति। स हि मेध्यः। चतुष्पाद्भवति। चतस्रो दिशः। दिक्ष्वेव प्रतितिष्ठति। मही द्यौः पृथिवी च न इति। द्यावापृथिव्योरेवैतया रूपे दाधार। दध्ना च मधुना चाभ्यनक्ति। अपां वा एष ओषधीनां रसो यन्मधु। यन्मधुनाभ्यनक्त्यपामेवौषधीनां रसमवरुन्द्धे। मेधो वा एष पशूनामूर्द्धधि। यद्दध्नाभ्यनक्ति पशूनामेव मेघ ऊर्जं दधाति। इष्टकचिद्वा अन्योऽग्निः पशुचिदन्यः। यज्जीवन्तं कूर्ममुपदधाति तेनैवैनं पशुचितं करोति। एष वै स्वर्गस्य लोकस्योत्तमपदी। यथा प्रजानन्क्षेत्रविदञ्जसा
 
@@ -4777,7 +4889,11 @@ Cf. KS XVIII, 17; MS. II, 12, 6; TS. IV, 1, 8.
 
  व्यम्। त्रिवृद्यज्ञः। मुखत एव यज्ञमालभते। त्रिर्दक्षिणमाङ्क्तेद्विः सव्यम्। पाङ्क्तोयज्ञः। यज्ञमेवावरुन्द्धे। दक्षिणं पूर्वमाङ्क्ते। सव्यंहि पूर्व मनुष्या आञ्जते। व्यावृत्त्यै। यजुषाङ्क्ते। अयजुषा हि मनुष्या आञ्जते। व्यावृत्त्यै। पराचीनमानक्ति न निधावति। आचपराचं हि मनुष्या आञ्जते। व्यावृत्त्यै। इषीकयाङ्क्ते। शलल्याहि मनुष्याआञ्जते। व्यावृत्त्यै। सतूला भवति। मैत्री वै सतूला वारुणी परिशीर्णा। मैत्रो दीक्षितः। समृद्ध्यै। ऊनमिव वा एतच्छिद्रमिव यच्चक्षुः। यदाङ्क्तेतदेवापूरयति। अच्छिद्रत्वाय॥
 
- पावयति। इन्द्रो वै वृत्रमहन्। तमप्स्वेवाध्यहन्। तासां या [यज्ञिया](# "The ms, यज्ञीया.")मेध्या आसंस्ता उदक्रामन्। ता ओषधयो ऽभवन्। यत्तेजस्ते दर्भाः। तस्मात्ते पवित्रम्। तस्माद्दर्भैरपः पुनन्ति। यद्दर्भपिञ्जूलैः पावयत्यपामेवैनं तेजसा पावयति। द्वाभ्यां पावयति। द्वे सत्यं चानृतं च। सत्येनैवास्यानृतं पावयति। द्वौ प्राणश्चापानश्च। त्रिभिः पावयति। \[ त्रयो हि \] प्राणाः प्राणो व्यानो ऽपानः। तानेव यजमाने दधाति। पञ्चभिः पावयति। पाङ्क्तपुरुषः। यावानेवास्यात्मा तं पावयति। \[ सप्तभिः पावयति। सप्त वै छन्दांसि। छन्दोभिरेवैनं पावयति। नवभिः पावयति। \] नव हि प्राणाः। प्राणैरेवैनं पावयति। एकविंशत्या पावयति। एकविंशो वै पुरुषो दश हस्त्या अङ्गुलयो दश पाद्या आत्मैकविंशः। यावानेवास्यात्मा तं पावयति। चित्पतिस्त्वा पुनात्विति। ब्रह्म वै चित्पतिः। ब्रह्मणैवैनं पावयति। वाक्पतिस्त्वा पुनात्विति। स हि पावयिता। देवस्त्वा सविता पुनात्विति। सवितृप्रसूत एवैनं देवताभिः पावयति। अच्छिद्रेण पवित्रेणेति। [अच्छंवषट्कारमेवैतत्पुनीते](# "Thus the ms.KS.अच्छम्बट्कारमेवैनं पावयति.")। सूर्यस्य रश्मिभिरित्यादित्यस्यैवैनं तन्वा पावयति। तस्य ते पवित्रपते पवित्रेणेति। यज्ञो वै पवित्रपतिः। यज्ञायैवैतत्पुनीते।यस्मै कं पुने तच्छकेयमिति। यज्ञंशकेयमित्येवैतदाह। अन्वञ्चं पावय-
+ पावयति। इन्द्रो वै वृत्रमहन्। तमप्स्वेवाध्यहन्। तासां या यज्ञिया[^73]मेध्या आसंस्ता उदक्रामन्। ता ओषधयो ऽभवन्। यत्तेजस्ते दर्भाः। तस्मात्ते पवित्रम्। तस्माद्दर्भैरपः पुनन्ति। यद्दर्भपिञ्जूलैः पावयत्यपामेवैनं तेजसा पावयति। द्वाभ्यां पावयति। द्वे सत्यं चानृतं च। सत्येनैवास्यानृतं पावयति। द्वौ प्राणश्चापानश्च। त्रिभिः पावयति। \[ त्रयो हि \] प्राणाः प्राणो व्यानो ऽपानः। तानेव यजमाने दधाति। पञ्चभिः पावयति। पाङ्क्तपुरुषः। यावानेवास्यात्मा तं पावयति। \[ सप्तभिः पावयति। सप्त वै छन्दांसि। छन्दोभिरेवैनं पावयति। नवभिः पावयति। \] नव हि प्राणाः। प्राणैरेवैनं पावयति। एकविंशत्या पावयति। एकविंशो वै पुरुषो दश हस्त्या अङ्गुलयो दश पाद्या आत्मैकविंशः। यावानेवास्यात्मा तं पावयति। चित्पतिस्त्वा पुनात्विति। ब्रह्म वै चित्पतिः। ब्रह्मणैवैनं पावयति। वाक्पतिस्त्वा पुनात्विति। स हि पावयिता। देवस्त्वा सविता पुनात्विति। सवितृप्रसूत एवैनं देवताभिः पावयति। अच्छिद्रेण पवित्रेणेति। अच्छंवषट्कारमेवैतत्पुनीते[^74]। सूर्यस्य रश्मिभिरित्यादित्यस्यैवैनं तन्वा पावयति। तस्य ते पवित्रपते पवित्रेणेति। यज्ञो वै पवित्रपतिः। यज्ञायैवैतत्पुनीते।यस्मै कं पुने तच्छकेयमिति। यज्ञंशकेयमित्येवैतदाह। अन्वञ्चं पावय-
+
+[^73]: "The ms, यज्ञीया."
+
+[^74]: "Thus the ms.KS.अच्छम्बट्कारमेवैनं पावयति."
 
 
 
@@ -4897,7 +5013,9 @@ Cf. KS XVIII, 17; MS. II, 12, 6; TS. IV, 1, 8.
 
  या श्येताक्षी कृष्णवाला कृष्णशफा न तया क्रीणीयात्। [हतं](http://॑ "The ms.व्रतं.") वा अस्या एतत्परिपिष्टम्। पितृदेवत्या सा। प्रमायुकः स्यात्। या द्विरूपा न तया क्रीणीयात्। वार्त्रघ्नी सा। जिनाति वा जीयते वा। उत तयाराजन्यस्य क्रीणीयात्। न हि [तस्यान्तरास्ति](http://॑ "The ms. ०न्तरोस्ति.")। जिनाति वा हि स जीयते वा। [याधीलोधकर्णी](http://॑ "The ms. ०कर्णा.") तया षोडशिनं क्रीणीयात्। अतिरिक्तं वा एतद्रूपाणामतिरिक्तः षोडशी। अतिरिक्तेनैवातिरिक्तमाप्नोति। या बभ्रुरेकहायनी तया क्रीणीयात्। वाग्वै सोमक्रयणी पुरुषो वाक्। यदेकहायन्या क्रीणाति तस्मादेकहायनः पुरुषो वाचं वदति। यज्ज्यायस्या क्रीणाति तस्माज्ज्यायान्वदति॥
 
- छन्दांसि वा अमुष्माल्लोकात्सोममाहरन्गायत्री श्येनो भूत्वा। तं गन्धर्वा अन्तरा पर्यमुष्णन्विश्वावसुः। स तिस्रो रात्रीरुपहृतो ऽवसत्। तस्मात्तिस्रो रात्रीः सोमः क्रीतो वसति। तं देवाः पुनरयाचन्त। तमेभ्यो न पुनरददुः। ते ऽब्रुवन्गवा निष्क्रीणामेति। ते ऽमन्यन्त यज्ञेन विक्रेष्यामहे यद्गवा [निष्केष्यामहा](http://॑ "KS. ०क्रेष्याम.") इति। ते ऽब्रुवन्स्त्रीकामा वै गन्धर्वा वाचंस्त्रियं कृत्वा मायामुपावसृजामेति। [ते](# "Schroeder's text omits वाचंस्त्रियं कृत्वा मायामुपावसृजामेति । ते. Without these words the Kāṭh. remains unintelligible.")वाचं स्त्रियं कृत्वा मायामुपावासृजन्। ते ऽमन्यन्त प्रजया व्यक्रेष्महि ये वाचा व्यक्रेष्महीति। ते ऽन्वार्तीयन्तास्माकं सोमो ऽस्माकं सोमक्रयणीति। ते ब्रह्म गन्धर्वा अवदन्नगायन्देवाः। सा देवान्गायत उपावर्तत। तस्माद्गायन्तं स्त्री कामयते न ब्रह्म वदन्तम्। अद्रूह्यद्धिसा ब्रह्मणे। तस्मादाहुरक्रीतः सोमो [न](http://॑ "KS. अक्रीताः सोमेन to be corrected.")सोमक्रयण्यस्ति। देवान्हि सा पुनरुपावर्ततेति। ते ऽब्रुवन्स्त्रीकामा वै गन्धर्वा
+ छन्दांसि वा अमुष्माल्लोकात्सोममाहरन्गायत्री श्येनो भूत्वा। तं गन्धर्वा अन्तरा पर्यमुष्णन्विश्वावसुः। स तिस्रो रात्रीरुपहृतो ऽवसत्। तस्मात्तिस्रो रात्रीः सोमः क्रीतो वसति। तं देवाः पुनरयाचन्त। तमेभ्यो न पुनरददुः। ते ऽब्रुवन्गवा निष्क्रीणामेति। ते ऽमन्यन्त यज्ञेन विक्रेष्यामहे यद्गवा [निष्केष्यामहा](http://॑ "KS. ०क्रेष्याम.") इति। ते ऽब्रुवन्स्त्रीकामा वै गन्धर्वा वाचंस्त्रियं कृत्वा मायामुपावसृजामेति। ते[^75]वाचं स्त्रियं कृत्वा मायामुपावासृजन्। ते ऽमन्यन्त प्रजया व्यक्रेष्महि ये वाचा व्यक्रेष्महीति। ते ऽन्वार्तीयन्तास्माकं सोमो ऽस्माकं सोमक्रयणीति। ते ब्रह्म गन्धर्वा अवदन्नगायन्देवाः। सा देवान्गायत उपावर्तत। तस्माद्गायन्तं स्त्री कामयते न ब्रह्म वदन्तम्। अद्रूह्यद्धिसा ब्रह्मणे। तस्मादाहुरक्रीतः सोमो [न](http://॑ "KS. अक्रीताः सोमेन to be corrected.")सोमक्रयण्यस्ति। देवान्हि सा पुनरुपावर्ततेति। ते ऽब्रुवन्स्त्रीकामा वै गन्धर्वा
+
+[^75]: "Schroeder's text omits वाचंस्त्रियं कृत्वा मायामुपावसृजामेति । ते. Without these words the Kāṭh. remains unintelligible."
 
 
 
@@ -5425,7 +5543,9 @@ Cf. KS. XXIX, 1; MS. III, 10, 5. 6.
 
 यथायजुः। अग्नेरनीकमप आविवे \[शेत्याघारमाघारयति समिद्ध्याएवोद्दीप्त्यै। ......॥४॥\] Cf, III, 11; KS. XXIX, 3; IV, 13; MS. IV, 8, 4. 5; I, 3, 39; TS. VI, 6, 3; I, 4, 45.
 
- \[यज्ञस्य वै शिरो ऽच्छिद्यत। ततो यो रसो ऽस्रवत्सा वशाभवत्। यद्वशानूबन्ध्या भवति यज्ञस्य सरसत्वाय। मित्रो वै यज्ञस्य स्विष्टं\] [गृह्णाति](# "This long passage of twelve lines (beginning with गृह्णातिand ending with प्रतितिष्ठति in line 6, page 272) has been misplaced in the ms. It occurs there after यथा. p. 272, 1. 18.") वरुणो दुरिष्टम्। यन्मैत्रावरुणी वशानूबन्ध्या भवत्युभयत एव यज्ञं प्रमुच्य यजमानाय संप्रयच्छति मित्राच्च वरुणाच्च। यथा लाङ्गलेनोर्वरां प्रभिनेत्त्येवमृक्सामाभ्यां यज्ञः प्रभिद्यते। यथा मत्यमन्ववास्यत्येवं तत्। यद्वशानूबन्ध्या यज्ञस्य शान्त्या अनुबध्यते। यत्प्रथममस्रवत्तद्बृहस्पतिरुपायद्यद्द्वितीयं तन्मित्रावरुणौ यत्तृतीयं तद्विश्वे देवाः। यदि तिस्रो ऽनूबन्ध्याः स्युर्मैत्रावरुणीं प्रथमां कुर्यादथ वैश्वदेवीमथ बार्हस्पत्यां यज्ञस्य सर्वत्वाय सरसत्वाय। अत्रात्र हि
+ \[यज्ञस्य वै शिरो ऽच्छिद्यत। ततो यो रसो ऽस्रवत्सा वशाभवत्। यद्वशानूबन्ध्या भवति यज्ञस्य सरसत्वाय। मित्रो वै यज्ञस्य स्विष्टं\] गृह्णाति[^76] has been misplaced in the ms. It occurs there after यथा. p. 272, 1. 18.") वरुणो दुरिष्टम्। यन्मैत्रावरुणी वशानूबन्ध्या भवत्युभयत एव यज्ञं प्रमुच्य यजमानाय संप्रयच्छति मित्राच्च वरुणाच्च। यथा लाङ्गलेनोर्वरां प्रभिनेत्त्येवमृक्सामाभ्यां यज्ञः प्रभिद्यते। यथा मत्यमन्ववास्यत्येवं तत्। यद्वशानूबन्ध्या यज्ञस्य शान्त्या अनुबध्यते। यत्प्रथममस्रवत्तद्बृहस्पतिरुपायद्यद्द्वितीयं तन्मित्रावरुणौ यत्तृतीयं तद्विश्वे देवाः। यदि तिस्रो ऽनूबन्ध्याः स्युर्मैत्रावरुणीं प्रथमां कुर्यादथ वैश्वदेवीमथ बार्हस्पत्यां यज्ञस्य सर्वत्वाय सरसत्वाय। अत्रात्र हि
+
+[^76]: "This long passage of twelve lines (beginning with गृह्णातिand ending with प्रतितिष्ठति in line 6, page 272
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -5443,7 +5563,9 @@ Cf. KS. XXIX, 1; MS. III, 10, 5. 6.
 
 Cf. Ks. XXIX, 4; MS. IV, 8, 6; TS. VI, 6, 7.
 
- उपयामगृहीतोऽसि। प्रजापतये त्वा ज्योतिष्मते ज्योतिष्मन्तं गृह्णामि दक्षाय दक्षवृधम्। अग्निजिह्वेभ्यस्त्वर्तायुभ्यो वातापिभ्य पर्जन्यात्मभ्यः इन्द्रज्येष्ठेभ्यो वरुणराजभ्यः। पृथिव्यै त्वान्तरिक्षाय त्वा दिवे त्वा। सते त्वासते त्वा। भूताय त्वा भव्याय त्वा। यतः प्रजा अखिद्रा अजायन्त तस्मै त्वा प्रजापतये [विभुदाम्ने](# "KS. °ने.")जुहोमि स्वाहा
+ उपयामगृहीतोऽसि। प्रजापतये त्वा ज्योतिष्मते ज्योतिष्मन्तं गृह्णामि दक्षाय दक्षवृधम्। अग्निजिह्वेभ्यस्त्वर्तायुभ्यो वातापिभ्य पर्जन्यात्मभ्यः इन्द्रज्येष्ठेभ्यो वरुणराजभ्यः। पृथिव्यै त्वान्तरिक्षाय त्वा दिवे त्वा। सते त्वासते त्वा। भूताय त्वा भव्याय त्वा। यतः प्रजा अखिद्रा अजायन्त तस्मै त्वा प्रजापतये विभुदाम्ने[^77]जुहोमि स्वाहा
+
+[^77]: "KS. °ने."
 
  अभि सोमोऽपः कामयतेऽभि सोममापः। यथा गावः संजानानाः संगत्यान्यान्यां घ्नन्त्येवं वा एतौ संजानानौ संगत्यान्यो ऽन्यस्येन्द्रियं वीर्यं [निर्हतः](http://Thus%20emended.%20The%20ms.%20न्यस्ये%20प्रियं%20तिरहरत.%20KS.%20वीर्यान्निर्हतः%20is%20to%20be%20corrected.%20Cf.%20MS.%20p.%20103,%201,%204. "Thus emended. The ms. न्यस्ये प्रियं तिरहरत. KS. वीर्यान्निर्हतः is to be corrected. Cf. MS. p. 103, 1, 4.")। उभयमेतत्प्राजापत्यं यत्सोमश्चापश्च। अपामेष ओषधीनां रसो यद्दधि। यद्वै पुत्रौ युध्येते पिता ताभ्यां कल्पयति। स्व एवैनौ लोके स्वेन भागधेयेन पिता शमयति। सह त्वै यज्ञेन
 
@@ -5466,7 +5588,9 @@ Cf. KS. XXIX, 6; MS. IV, 7, 7; TS. VI, 6, 10.
 
  वृत्रे वा एते पुरासन्। स इन्द्रो वृत्रँहत्वा स एतमाग्नेयमविन्दत। तमग्नये प्रायच्छदेतं मे धारयेति। स सौर्यमविन्दत। तँसूर्याय प्रायच्छदेतं मे धारयेति। स ऐन्द्रं वित्त्वेतरौ पुनरयाचत। तावस्मै न पुनरदत्ताम्। त इमांल्लोकान्व्युपायन्नग्निरिममिन्द्रो ऽन्तरिक्षँसूर्यो ऽमुम्। एतैर्वै ते ग्रहैरेषु लोकेष्वार्ध्नुवन्नेतैरेषां लोकानामाधिपत्यं पर्यायन्। सर्वेष्वेवैषु लोकेष्वृध्नोत्येषां लोकानामाधिपत्यं पर्येति यस्यैते गृह्यन्ते॥
 
- यद्वै विराजस्तेजस्तदा \[ग्नेयो यच्छक्वर्यास्तदैन्द्रो यद्रेवत्यास्तत्सौर्यः।[......**^(२)**](# "The Kāṭhaka continues:   यत्रैतानि सामानि स्युस्तदेतान्गृह्णीयात्साम्नँसतेजस्त्वाय। अथैते होमाश्च भक्षणानि च। एतैर्वै बम्भाविश्ववयसा इमांल्लोकानर्वाचश्च पराचश्च प्राजानीताम्। यस्यैते गृह्यन्ते समस्मा इमे लोका अर्वाञ्चः पराञ्चश्च भान्ति। एतेषां वै वीर्येणाग्निरित ऊर्ध्वो भात्यर्वाङ् सूर्यस्तपति तिर्यङ् वायुः पवते। सुप्रज्ञानो वा इत इत्थमसौ लोकः। अमुतो ह त्वा अर्वाङ् दुष्प्रज्ञानम्। स ह त्वा इमं लोकममुतोऽर्वाङ् प्रजानाति यस्यैते गृह्यन्ते॥ ७॥ For references see above.")॥ ८॥ \] Cf, KS, XXIX, 7; MS, IV, 7, 3; TS, VI, 6, 8.
+ यद्वै विराजस्तेजस्तदा \ग्नेयो यच्छक्वर्यास्तदैन्द्रो यद्रेवत्यास्तत्सौर्यः।[......**^(२)**[^78]॥ ८॥ \] Cf, KS, XXIX, 7; MS, IV, 7, 3; TS, VI, 6, 8.
+
+[^78]: "The Kāṭhaka continues:   यत्रैतानि सामानि स्युस्तदेतान्गृह्णीयात्साम्नँसतेजस्त्वाय। अथैते होमाश्च भक्षणानि च। एतैर्वै बम्भाविश्ववयसा इमांल्लोकानर्वाचश्च पराचश्च प्राजानीताम्। यस्यैते गृह्यन्ते समस्मा इमे लोका अर्वाञ्चः पराञ्चश्च भान्ति। एतेषां वै वीर्येणाग्निरित ऊर्ध्वो भात्यर्वाङ् सूर्यस्तपति तिर्यङ् वायुः पवते। सुप्रज्ञानो वा इत इत्थमसौ लोकः। अमुतो ह त्वा अर्वाङ् दुष्प्रज्ञानम्। स ह त्वा इमं लोकममुतोऽर्वाङ् प्रजानाति यस्यैते गृह्यन्ते॥ ७॥ For references see above."
 
 **\[ इति कपिष्ठलकठसंहितायां पञ्चचत्वारिंशत्तमोऽध्यायः॥ \]**
 
@@ -5920,7 +6044,9 @@ Cf. KS. XXXIV, 19; MS. I, 7, 1.
 
 य [आविष्टः](http://This%20pratīka%20does%20not%20occur%20in%20KS. "This pratīka does not occur in KS.")॥
 
-अग्निनातपो ऽन्वाभवत्सूर्येण तेजो वायुना [प्राणाः](# "The Kāṭhaka continues:इन्द्रेण देवा यमेन पितरस्सरस्वत्या मनुष्यास्सप्तदशेन स्तोमा वामदेव्येन सामानि गायत्र्या छन्दाऀसि मण्या रूपाणि हिरण्येन वऀर्चासि तिरश्चिराजिना सर्पा अजगरेणाप्सव्याश्श्येनेन पतत्रिणो व्याघ्रेणारण्याः पशवस्सुपर्णेनवयाऀस्यश्वत्थेन वनस्पतय ओदनेनान्नानि यवेनौषधयो ऽश्ववृषेणैकशफाः पशवो वृषभेण गावो वृष्णिनावयो बस्तेनाजाश्चन्द्रमसा नक्षत्राणि ब्राह्मणेन वाचो वाचा देवतास्स्त्रिया विराड् ग्राव्णा पर्वतास्समुद्रेणापो ऽद्भिस्सत्यऀसत्येनर्तमृतेन तपस्तपसा परमेष्ठी परमेष्ठिना मृत्युर्मृत्युना प्रजाः प्रजाभिस्सगरस्तनूभिः प्रजापतिस्तैर्देवैरन्वाभूतिः। अनु च भूयासमति च भूयासं ब्राह्मणानाऀश्रेष्ठश्च भूयासम्॥")॥१३॥  
+अग्निनातपो ऽन्वाभवत्सूर्येण तेजो वायुना प्राणाः[^79]॥१३॥  
+
+[^79]: "The Kāṭhaka continues:इन्द्रेण देवा यमेन पितरस्सरस्वत्या मनुष्यास्सप्तदशेन स्तोमा वामदेव्येन सामानि गायत्र्या छन्दाऀसि मण्या रूपाणि हिरण्येन वऀर्चासि तिरश्चिराजिना सर्पा अजगरेणाप्सव्याश्श्येनेन पतत्रिणो व्याघ्रेणारण्याः पशवस्सुपर्णेनवयाऀस्यश्वत्थेन वनस्पतय ओदनेनान्नानि यवेनौषधयो ऽश्ववृषेणैकशफाः पशवो वृषभेण गावो वृष्णिनावयो बस्तेनाजाश्चन्द्रमसा नक्षत्राणि ब्राह्मणेन वाचो वाचा देवतास्स्त्रिया विराड् ग्राव्णा पर्वतास्समुद्रेणापो ऽद्भिस्सत्यऀसत्येनर्तमृतेन तपस्तपसा परमेष्ठी परमेष्ठिना मृत्युर्मृत्युना प्रजाः प्रजाभिस्सगरस्तनूभिः प्रजापतिस्तैर्देवैरन्वाभूतिः। अनु च भूयासमति च भूयासं ब्राह्मणानाऀश्रेष्ठश्च भूयासम्॥"
 
 Cf. KS. XXXV, 13. 14.
 
@@ -5981,7 +6107,11 @@ Cf. KS. XXXV, 13. 14.
 
 कपालः। [अथो](http://The%20ms.%20ज्योति. "The ms. ज्योति.") वैश्वदेवत्वायैव द्वादशकपालः। उपाऀशु यजति। अनिरुक्तो हि संवत्सरः। सरस्वत्येव[सृष्टासु](http://KS.%20सृष्टामु%20to%20be%20corrected. "KS. सृष्टामु to be corrected.") [वाचमदधात्](http://The%20ms.%20वाचमवदधात्. " The ms. वाचमवदधात्.")। पूषणं प्रतिष्ठामभ्यसृज्यन्त। वाग्वै सरस्वती पशवः पूषा। मिथुनं वाक् च पशवश्च। मध्यतो वै प्रजा विसृज्यन्ते। [अन्ततो](http://The%20ms.%C2%A0ऽथादौ%20ततो. "The ms.ऽथादौ ततो.") मिथुनाद्विषूचीः प्रजायन्ते। तदेतत्प्रजापतेरेवाधि मध्यतः प्रजा विसृज्यन्ते। अथादो ऽन्ततो मिथुनादुभयतो [विषूचीः](http://The%20ms.%20विष्टरीः "The ms. विष्टरीः") प्रजायन्ते। वार्त्रघ्नानि वा एतानि हवीऀषि। अग्निना वा अनीकेनेन्द्रो वृत्रमहन्। सोमेन राज्ञा सवित्रा प्रसूतः सरस्वत्या वाचा
 
-[यूपां](# "I Thus the ms KS.चैत्र्यां पूषा.")वीर्यै[रन्वतिष्ठत](# "The ms°रभ्य°")[।](# "The ms°रभ्य°") विजितिरेवैतानि हवीऀषि॥१८॥Cf, KS, XXXV, 20; MS. I, 10, 5.    
+यूपां[^80]वीर्यैरन्वतिष्ठत[^81]।[^81] विजितिरेवैतानि हवीऀषि॥१८॥Cf, KS, XXXV, 20; MS. I, 10, 5.    
+
+[^80]: "I Thus the ms KS.चैत्र्यां पूषा."
+
+[^81]: "The ms°रभ्य°"
 
 **इति कपिष्ठलकठसंहितायामष्टाचत्वारिंशत्तमोऽध्यायः॥**
 
@@ -6025,3 +6155,142 @@ Cf. KS. XXXV, 13. 14.
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^82]: "The ms°रभ्य°"
+
+
+[^62]: "KS. पुञ्जिग०"
+
+
+[^39]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
+
+
+[^38]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
+
+
+[^37]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
+
+
+[^36]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
+
+
+[^35]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
+
+
+[^34]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
+
+
+[^33]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
+
+
+[^32]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
+
+
+[^31]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
+
+
+[^30]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
+
+
+[^29]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
+
+
+[^26]: "The ms. •मवरुणधायेति."
+
+
+[^24]: "KS. प्रक्रमेषु."
+
+
+[^22]: "KS. •मेवैनं."
+
+
+[^19]: "KS, ऊषाः."
+
+
+[^16]: "The ms. एतद्धेः वर्द्धन्यः. KS. omits"

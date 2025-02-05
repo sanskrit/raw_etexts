@@ -14,7 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEyODk0MTE2MTU
 +++
 [[आङ्गल-हिन्दी शब्दकोषः उपोद्घातः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDEyODk0MTE2MTUyNTI3&pageno=MjI0MjQyNjk5NTk=)]]
 
-\[
+\
 
 
 
@@ -317,7 +317,9 @@ Shri G. S. Gupta. October 1949 (second edition : March 1950).
   11.**खनिज-अभिज्ञान,** in collaboration with Prof. N. L. Sharma, Indian School of Mines, Dhanbad; Dr. S. D. Limaye, Ph.D., Poona; and Dr. Lokesh Chandra, M.A., D.Litt. 1953.  
  12: *Indian Scientific Nomenclature of the Mammals of India, Burma and Ceylon,* in collaboration with Shri K, N. Dave and Dr. Lokesh Chandra, M.A., D.Litt. 1953.  
 Agricultural Statistics terms were prepared in response to the request of the Department, and were published in the Journal of the Indian Society of Agricultural Statistics, 1948, Vol.I, No.2. Mr. Ramgopal, M.A., had been deputed by the Department as my collaborator.  
-  Early in 1947 I was entrusted with the preparation of terms and text-books on chemistry, mathematics, physics, botany and zoology by the Government of Madhya Pradesh. With the operation of the professors, readers and lecturers of the Nagpur University complete terminology up to the B.Sc. and text-books for the Intermediate were produced under my generaleditorship. Each book was written in two languages, namely, Hindi and [Marathi.](# "Here is the complete list- 1. माध्यमिक बीजगणित (Intermediate Algebra), Hindi version : A. P. Shrivastava, M.Sc.")This is⠀the first set of scientific university books with a uniform and co-ordinated Indian terminology.
+  Early in 1947 I was entrusted with the preparation of terms and text-books on chemistry, mathematics, physics, botany and zoology by the Government of Madhya Pradesh. With the operation of the professors, readers and lecturers of the Nagpur University complete terminology up to the B.Sc. and text-books for the Intermediate were produced under my generaleditorship. Each book was written in two languages, namely, Hindi and [Marathi.[^1], Hindi version : A. P. Shrivastava, M.Sc.")This is⠀the first set of scientific university books with a uniform and co-ordinated Indian terminology.
+
+[^1]: "Here is the complete list- 1. माध्यमिक बीजगणित (Intermediate Algebra
 
 Over sixty B.Sc. textbooks are under preparation.
 
@@ -2904,7 +2906,9 @@ Y** (Young's modulus) **रे** (रेखीय प्रत्यास्थ
 
 80 *tolas;* one *tola*being exactly 180 grains (see also Webster's New International Dictionary of the English Language, 1934, s.v. *ser*).
 
- **माष** is in use already. Hence it is not used. धान्य, which is another name for [माष,](# "The goldsmith s माष of 15 यवऽ is slightly different, being 17 grains troy.") is 15 यवऽ, just as one gram is 15 grains (15.432356). Hence धान्यbecomes the basis of the metric system of weights.
+ **माष** is in use already. Hence it is not used. धान्य, which is another name for माष,[^2] is 15 यवऽ, just as one gram is 15 grains (15.432356). Hence धान्यbecomes the basis of the metric system of weights.
+
+[^2]: "The goldsmith s माष of 15 यवऽ is slightly different, being 17 grains troy."
 
  **प्रस्थ** is our unit of capacity measures since times immemorial. It is the counterpart of the modern liter. In Webster its value has been worked out to be 1.03 liters.
 
@@ -3146,9 +3150,11 @@ pound (lb. ap.; 12 ounces) प्रांजलिका (प्रांजि
 
 a x 0=0  
 a + 0=0  
-a - 0 = a[\*](# "To this is to be added=∞")
+a - 0 = a\*[^3]
 
 "Equipped with their simple and eloquent number symbols the Hindus broke away completely from the metaphorical way of dealing with fractions. Theywrote fractions as we write them and they had anarithmetic which lent itself to rapid calculation withoutmechanical aids, they experimented with them as withwhole numbers. Thus Mahāvīra (A, D, 850) gave ourrule for dividing one fraction by another in the samewords which a school teacher might use today 'make thedenominator the numerator and then multiply'.
+
+[^3]: "To this is to be added=∞"
 
 "All the algorithms for fractions now used wereinvented by the Hindus.
 
@@ -7066,3 +7072,6 @@ Zimmer—A Popular Dictionary of Botanical Names and Terms, by G. F. Zimmer,**
 
 
 \]
+
+
+

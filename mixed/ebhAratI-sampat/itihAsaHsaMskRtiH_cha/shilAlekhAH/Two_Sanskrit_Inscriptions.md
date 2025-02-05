@@ -12,7 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg5Mjg5OTc0MTE
 +++
 [[Two Sanskrit Inscriptions	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDg5Mjg5OTc0MTE2ODI3&pageno=MjI0MjQyNjk5NTk=)]]
 
-\[
+\
 
 
 
@@ -165,9 +165,13 @@ Govindámbá, were his daughters.
 
 **पूर्णतृष्णार्णवानर्थिसार्थानर्थितकीर्तिना ॥११॥**
 
-**पाण्यश्चण्डिमतां मुमोच मुरलस्तयाज गर्वस्पृहं[❋](# "The स्पृ is rather dim in my fac-similes. The word in which it occurs ends a line on the stone, which is here somewhat worn. There is no doubt about the हं ; स्पृहा is the only form given in the dictionaries; but स्पृह is equally grammatical.")**
+**पाण्यश्चण्डिमतां मुमोच मुरलस्तयाज गर्वस्पृहं[❋[^1]**
 
-**कङ्गः [†](# "I may as well remark, concerning this unusual name, that its appearance on the stone is such as to preclude all uncertainty. No person who is familiar with Indian inscriptions need be told that अङ्गःwas here to be expected. Had this, however, been the intended reading, the method observed, without exception, in this inscription, would have converted the nasal point, at the end of the foregoing verse, into a म.")सङ्गतिमाजगाम चकमे वङ्गः कलिङ्गैः सह।**
+[^1]: "The स्पृ is rather dim in my fac-similes. The word in which it occurs ends a line on the stone, which is here somewhat worn. There is no doubt about the हं ; स्पृहा is the only form given in the dictionaries; but स्पृह is equally grammatical."
+
+**कङ्गः †[^2]सङ्गतिमाजगाम चकमे वङ्गः कलिङ्गैः सह।**
+
+[^2]: "I may as well remark, concerning this unusual name, that its appearance on the stone is such as to preclude all uncertainty. No person who is familiar with Indian inscriptions need be told that अङ्गःwas here to be expected. Had this, however, been the intended reading, the method observed, without exception, in this inscription, would have converted the nasal point, at the end of the foregoing verse, into a म."
 
 **कीरःकोरवदास पञ्जरगृहे हूणः प्रहर्षंजहौ**
 
@@ -179,15 +183,21 @@ Govindámbá, were his daughters.
 
 **यत्प्रत्यर्थिमहीभुजां नयनजैर्बाष्पैः पयोधीन् व्यधुः**
 
-**स्फारान् रत्नमव्होर्मिभिः पुनरमी [‡](# "In these words, at the termination of a line, the stone is slightly broken. The का is unmistakable: but the conjunct श्च has no authority but indisputable necessity. The verb चक्रिरे is completed, in the next line, with perfect distinctness.")संवर्धकाश्चक्रिरे॥१३॥**
+**स्फारान् रत्नमव्होर्मिभिः पुनरमी ‡[^3]संवर्धकाश्चक्रिरे॥१३॥**
+
+[^3]: "In these words, at the termination of a line, the stone is slightly broken. The का is unmistakable: but the conjunct श्च has no authority but indisputable necessity. The verb चक्रिरे is completed, in the next line, with perfect distinctness."
 
 **चम्पारण्यविदारणोद्गतयशःशुभ्रांशुना भासयन्**
 
 **आशाचक्रमवक्रभावहृदयः क्ष्मापालचूडामणिः।**
 
-**तस्माज्जन्म समाससाद विशदं श्रीमान् यशःकर्ण इ-[^(§)](# "This division violates a law of prosody.")**
+**तस्माज्जन्म समाससाद विशदं श्रीमान् यशःकर्ण इ-^(§)[^4]**
 
-**त्यौदार्याद् ["](# "Some letters are here missing, on the stone, directly beneath the °ाश्च- spoken of in the last note but one. The ध is plainly legible; and the following line commences with °चकार. My suggestion of °निकी - will hardly be challenged.")धनिकीचकार विबुधान् यः प्रेक्ष्य सर्वानपि**
+[^4]: "This division violates a law of prosody."
+
+**त्यौदार्याद् "[^5]धनिकीचकार विबुधान् यः प्रेक्ष्य सर्वानपि**
+
+[^5]: "Some letters are here missing, on the stone, directly beneath the °ाश्च- spoken of in the last note but one. The ध is plainly legible; and the following line commences with °चकार. My suggestion of °निकी - will hardly be challenged."
 
 **तस्मादशेषगुणरत्ननिधेरगाधाद्**
 
@@ -297,7 +307,9 @@ Govindámbá, were his daughters.
 
 **प्रादाद् देवी जाउलीपत्तलायाम्।**
 
-**ग्रामं नाम्ना नाम उण्डीति सर्वा-[❋](# "Here is another prosodial defect, similar to that pointed out in the fourteenth stanza.")**
+**ग्रामं नाम्ना नाम उण्डीति सर्वा-❋[^6]**
+
+[^6]: "Here is another prosodial defect, similar to that pointed out in the fourteenth stanza."
 
 **दायैः सार्धं चारुचर्चाप्रसिद्ध्यै॥२३॥**
 
@@ -321,7 +333,9 @@ Govindámbá, were his daughters.
 
 **नाम्ना गरिम्णा यशसा श्रिया च॥ ३३ ॥**
 
-**कोमलकान्तिसटालेनोच्चैः स्नेहातिभारभरितेन।[❋](# "The first half of this line faultily ends with the middle of a word, the syllable ले ; in contrariety to a metrical canon.")**
+**कोमलकान्तिसटालेनोच्चैः स्नेहातिभारभरितेन।❋[^7]**
+
+[^7]: "The first half of this line faultily ends with the middle of a word, the syllable ले ; in contrariety to a metrical canon."
 
 **दीर्घमनोज्ञदशेन त्रिभुवनदीपायितं येन॥ ३३॥**
 
@@ -501,7 +515,17 @@ INSCRIPTIONS.**
          33.                         
       Áryá.
 
-  None of these metres call for special remark, except those of stanzas 6, 21, 24, 32, and 34. In these we have quatrains composed of the *Indravajrá* and *Upendravajrá* measures intermixed. The modes in which they are combined were long ago alluded to,[❋](# "Colebrooke s Miscell. Essays, ii. 100.") but have not yet been detailed; and the Ákhyának, which Colebrooke correctly limits,[†](# "Ibid., ii. 124, 164.")has erroneously been understood as embracing all these variations.[‡](# "Dr. Stenzler s Raghuvans a, p. 174; and Dr. Boehtlingk s S ákuntala, p. 290. Other editors have gone still further astray, in supposing the term Indravajrá to denote a tetrastich of any of the sixteen sorts named in the text, the Upendravajrá") The Ákhyánakí, as ordinarily described, is the same as the *Smṛiti*; some, on the other hand, holding it to be one with the *Maṇiprabhá*. The *Viparitákhyának*i, again, is equivalent to the Śivá; or, perhaps, on a different view, it corresponds with the Śubhá. Very likely the comprehensive nomenclature about to be brought forward is of somewhat late origin. It does not, however, furnish appellations for mere factitious or new-fangled refinements; as will be seen—to go no further[❋](# "The eleven stanzas, blended of Upendravajrás and Indravajrás, which occur in the S ákuntala, exemplify no less than nine of these species.")—by the annexed references to a few of the first fifty-nine stanzas of a single canto of the RaghuvanŚa.[†](# "My authorities for the following particulars are the Chhando-mártanda, as cited in the Vrittaratnákarádars a of Divákara Bhatta, son of Mahádeva Bhaṭṭa; and a treatise on Prákrit prosody, my copy of which is defective at the commencement and at the conclusion, and of which I know neither the title nor the author. If the Sanskrit names in the first column here given have Prákrit representatives, I have not met with them.")The pure *Upendravajrá* and the pure *Indravajrá* constitute, respectively, the beginning and the end of the series.
+  None of these metres call for special remark, except those of stanzas 6, 21, 24, 32, and 34. In these we have quatrains composed of the *Indravajrá* and *Upendravajrá* measures intermixed. The modes in which they are combined were long ago alluded to,❋[^8] but have not yet been detailed; and the Ákhyának, which Colebrooke correctly limits,†[^9]has erroneously been understood as embracing all these variations.‡[^10] The Ákhyánakí, as ordinarily described, is the same as the *Smṛiti*; some, on the other hand, holding it to be one with the *Maṇiprabhá*. The *Viparitákhyának*i, again, is equivalent to the Śivá; or, perhaps, on a different view, it corresponds with the Śubhá. Very likely the comprehensive nomenclature about to be brought forward is of somewhat late origin. It does not, however, furnish appellations for mere factitious or new-fangled refinements; as will be seen—to go no further❋[^11]—by the annexed references to a few of the first fifty-nine stanzas of a single canto of the RaghuvanŚa.†[^12]The pure *Upendravajrá* and the pure *Indravajrá* constitute, respectively, the beginning and the end of the series.
+
+[^8]: "Colebrooke s Miscell. Essays, ii. 100."
+
+[^9]: "Ibid., ii. 124, 164."
+
+[^10]: "Dr. Stenzler s Raghuvans a, p. 174; and Dr. Boehtlingk s S ákuntala, p. 290. Other editors have gone still further astray, in supposing the term Indravajrá to denote a tetrastich of any of the sixteen sorts named in the text, the Upendravajrá"
+
+[^11]: "The eleven stanzas, blended of Upendravajrás and Indravajrás, which occur in the S ákuntala, exemplify no less than nine of these species."
+
+[^12]: "My authorities for the following particulars are the Chhando-mártanda, as cited in the Vrittaratnákarádars a of Divákara Bhatta, son of Mahádeva Bhaṭṭa; and a treatise on Prákrit prosody, my copy of which is defective at the commencement and at the conclusion, and of which I know neither the title nor the author. If the Sanskrit names in the first column here given have Prákrit representatives, I have not met with them."
 
 |             |                                                                                  |                     |                     |                 |
 |:-----------:|:--------------------------------------------------------------------------------:|:-------------------:|:-------------------:|:---------------:|
@@ -776,9 +800,11 @@ assigned etymology.
 
 ** 8**. For सन्तमस (-सं), 'universal gloom,' Professor Wilson, in his Sanskrit Dictionary, erroneously gives सन्तमस् (-मः); wrongly citing the *Amara-kośa* as his authority, and also infringing *Páṇini*, v. 4. 79. The Manorama and the *Tattwa-bodhiní* do not even hint at any variety of opinion touching the form of this word.
 
-** 9**. Thus I translate रप, a substantive of very rare occurrence, I am told.[❋](# " See our additional note, at the end of this article. COMM. OF PUBL.")
+** 9**. Thus I translate रप, a substantive of very rare occurrence, I am told.❋[^13]
 
 ** **Saraswatí is the patroness of letters and of eloquence. The inscriptionist is celebrating the seductiveness of artful rhetoric.
+
+[^13]: " See our additional note, at the end of this article. COMM. OF PUBL."
 
 ** 10**. On the word गोत्र, which is used here, and elsewhere in the record before us, I have remarked at length, as also on प्रवर, in a foot-note to p. 232 of the Journal of the Asiatic Society of Bengal, for 1858.
 
@@ -998,7 +1024,9 @@ For my former decipherment of the third stanza I substitute, with confidence :
   After incising वेम्बुजाम्बु—which makes sense, but militates against the metre—the engraver half deleted the first म्ब. It could scarcely have been part of his original.
 
  
-Limbáryá,[❋](# "Or Lítswáryá, as it also admits of being read; the characters of this inscription are cut in such fashion that, where no aid is to be derived from the sense, some readings must remain uncertain.-COMM. OF PUBL.") not Liswáyá, is the name of the lady spoken of in the prose.
+Limbáryá,❋[^14] not Liswáyá, is the name of the lady spoken of in the prose.
+
+[^14]: "Or Lítswáryá, as it also admits of being read; the characters of this inscription are cut in such fashion that, where no aid is to be derived from the sense, some readings must remain uncertain.-COMM. OF PUBL."
 
   शिते, for सिते, in the fourth stanza, is an error of the press.
 
@@ -1023,3 +1051,17 @@ Troy, N. Y., April 3rd, 1860.
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+

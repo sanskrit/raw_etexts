@@ -2893,9 +2893,9 @@ THE first column notes the number of the ***Vākya***,and the last column notes 
 |  1  | गीर्नः श्रेयः | 1                                                                                             | 131 | सेना         | 135                                                         |
 | 11  | होम           | 11                                                                                            | 141 | अम्बु        | 145                                                         |
 | 21  | श्रुत्वा      | 21                                                                                            | 151 | धर्मो        | 155                                                         |
-| 31  | शशी           | [34](# "27, 29 and 31 are repeated, and so the difference of three between thetwo numbers.") | 161 | भोगो         | [166](# "163 is repeated and the difference becomes five.") |
+| 31  | शशी           | 34[^1] | 161 | भोगो         | 166[^2] |
 | 41  | कुश           | 44                                                                                            | 171 | नोग्रो       | 176                                                         |
-| 51  | रत्न          | [55](# "46 is repeated and the difference becomes four.")                                     | 181 | आज्ञा        | 186                                                         |
+| 51  | रत्न          | 55[^3]                                     | 181 | आज्ञा        | 186                                                         |
 | 61  | प्रमोद        | 65                                                                                            | 191 | तावत्        | 196                                                         |
 | 71  | काम           | 75                                                                                            | 201 | सलि          | 206                                                         |
 | 81  | जनोन्ध        | 85                                                                                            | 211 | गुरु         | 216                                                         |
@@ -2903,6 +2903,12 @@ THE first column notes the number of the ***Vākya***,and the last column notes 
 | 101 | जनोमान्       | 105                                                                                           | 231 | त्रिराज्ञाम् | 236                                                         |
 | 111 | कवि           | 115                                                                                           | 241 | योगो         | 246                                                         |
 | 121 | पाप           | 125                                                                                           | 248 | भवेत् सुखम्  | 253                                                         |
+
+[^1]: "27, 29 and 31 are repeated, and so the difference of three between thetwo numbers."
+
+[^2]: "163 is repeated and the difference becomes five."
+
+[^3]: "46 is repeated and the difference becomes four."
 
 
 
@@ -2938,3 +2944,6 @@ THE first column notes the number of the ***Vākya***,and the last column notes 
 
 
 \]
+
+
+

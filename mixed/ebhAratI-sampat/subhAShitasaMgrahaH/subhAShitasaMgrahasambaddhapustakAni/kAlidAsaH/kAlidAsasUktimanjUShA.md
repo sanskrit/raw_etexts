@@ -7007,9 +7007,11 @@ SARDAR G. N. MUJUMDAR, POONA.
 
 \(A\) VOCAL MUSIC.
 
- 1. Kālidāsa seems to have a good musical earWhile describing the sweetness of Pārvati's voice he records his own experience of the harsh and disagreeable sound of a discordant [Veenā.](# "स्वरेण तस्याममृतस्रुतेव प्रजल्पितायामभिजातवाचि।  अप्यन्यपुष्टा प्रतिकूलशब्दा श्रोतुर्वितन्त्रीरिव ताड्यमाना॥                            —कुमार० I.45.")
+ 1. Kālidāsa seems to have a good musical earWhile describing the sweetness of Pārvati's voice he records his own experience of the harsh and disagreeable sound of a discordant Veenā.[^1]
 
  2. Kālidāsa was a musician. He knew several Rāgas. In Kumārasambhava he says thatSiva was awakened by the Kinnaras, who sang to him the **कौशिक**Rāga by means of several
+
+[^1]: "स्वरेण तस्याममृतस्रुतेव प्रजल्पितायामभिजातवाचि।  अप्यन्यपुष्टा प्रतिकूलशब्दा श्रोतुर्वितन्त्रीरिव ताड्यमाना॥                            —कुमार० I.45."
 
 **मूर्च्छनाऽ²**. Names of three other Rāgas—**भिन्नक, वलन्तिका and ककुभ** Occur in Vikramorvasiya IV.**³**I the Sākuntala In and V he mentions Rāga as a general term.**⁴**
 
@@ -7050,9 +7052,13 @@ SARDAR G. N. MUJUMDAR, POONA.
 
 \(B\) In **वर्णपरिचयं करोति** be certainly tells ushow a musician has to practise the notes, such as:**—सा—रे,सासा—रेरे, सारेसा—रेगरे, सरेग,—रेगमा, सग—रेमा, सगरे—रेमाग, सरेगमा—रेगमाप.⁶**etc. etc.
 
-\(C\) **By उपगानं—उपोहनं—कृत्वा** Kalidāsa wants to show that a musician should first sing the notes of the mode (= rāga) to which the proposed song in [set.](# " मालविका—(उपगानं-उपोहनं कृत्वा .....)                                          —मालविका ० II.")
+\(C\) **By उपगानं—उपोहनं—कृत्वा** Kalidāsa wants to show that a musician should first sing the notes of the mode (= rāga) to which the proposed song in set.[^2]                                          —मालविका ० II.")
 
-\(D\) **वस्तु गायति** means that Mālavikā after singing the notes of its mode sings the piece or song "**दुल्लहो**...". The Vastu means what is now generally called **चीज** inMarathi. We find several such Prākṛta Vastus in Bharata's Naṭyasbāstra and three in Sangeeta Ratnākara. In the works of Kālidāsa there are such Prākṛta pieces (Vastus)—one in the Mālavikāgnimitra, three in the Sākuntala and thirty-one in the Vikramorvashiya. As ancient original songs these are really most valuable with regard to music. In appendix No. 2 are given all these 35 [Vastus.](# "मालविका— (.....…वस्तु गायति।)")
+[^2]: " मालविका—(उपगानं-उपोहनं कृत्वा .....
+
+\(D\) **वस्तु गायति** means that Mālavikā after singing the notes of its mode sings the piece or song "**दुल्लहो**...". The Vastu means what is now generally called **चीज** inMarathi. We find several such Prākṛta Vastus in Bharata's Naṭyasbāstra and three in Sangeeta Ratnākara. In the works of Kālidāsa there are such Prākṛta pieces (Vastus)—one in the Mālavikāgnimitra, three in the Sākuntala and thirty-one in the Vikramorvashiya. As ancient original songs these are really most valuable with regard to music. In appendix No. 2 are given all these 35 Vastus.[^3]")
+
+[^3]: "मालविका— (.....…वस्तु गायति।
 
 ———————————————————————————————————————————
 
@@ -14820,15 +14826,25 @@ SARDAR G. N. MUJUMDAR, POONA.
 
 \(A\) VOCAL MUSIC.
 
- 1. Kālidāsa seems to have a good musical ear. While describing the sweetness of Pārvati's voice he records his own experience of the harsh and disagreeable sound of a discordant [Veenā](# "स्वरेण तस्याममृतस्रुतेव प्रजल्पितायामभिजातवाचि। अप्यन्यपुष्टा प्रतिकूलशब्दा श्रोतुर्वितन्त्रीरिव ताड्यमाना॥ - कुमार० I.45.").
+ 1. Kālidāsa seems to have a good musical ear. While describing the sweetness of Pārvati's voice he records his own experience of the harsh and disagreeable sound of a discordant Veenā[^4].
+
+[^4]: "स्वरेण तस्याममृतस्रुतेव प्रजल्पितायामभिजातवाचि। अप्यन्यपुष्टा प्रतिकूलशब्दा श्रोतुर्वितन्त्रीरिव ताड्यमाना॥ - कुमार० I.45."
 
  2. Kālidāsa was a musician.Heknew several Rāgas.In Kumārasambhava he says thatSiva was awakened by the Kinnaras, who sang to him the **कौशिक**Rāga by means of several
 
-[मूर्च्छना](# "स व्यबुध्यत बुधस्तवोचितः शातकुम्भकमलाकरैः समम्। मूर्च्छनापरिगृहीतकैशिकैः किंनरैरूषसि गीतमङ्गलः॥  —कुमार० VIII. 85.")Names of three other Rāgas—**भिन्नक, वलन्तिका** and **ककुभ** Occur in Vikramorvasiya [IV.](# "पाटस्यान्ते भिन्नकः। — विक्रमो०। IV. एतदेव नर्तित्वा वलन्तिकयोपसृत्य जानुभ्यां स्थित्वा।  — विक्रमो० IV.  इति ककुभेन षडुपभङ्गाः।— विक्रमो० IV.")I the Sākuntala In and V he mentions Rāga as a general [term](# "सूत्रधारः— आर्ये, साधु गीतम्। अहो रागाववद्वचित्तवृत्तिरालिखित  इव सर्वतो रङ्गः। — शाकु० I.  सूत्रधारः— तवास्मि गीतरागेण हारिणा प्रपभं हृतः। —शाकु० I. राजा— अहो रागपरिवाहिणी गीतिः। - शाकु० V.").
+मूर्च्छना[^5]Names of three other Rāgas—**भिन्नक, वलन्तिका** and **ककुभ** Occur in Vikramorvasiya IV.[^6]I the Sākuntala In and V he mentions Rāga as a general term[^7].
+
+[^5]: "स व्यबुध्यत बुधस्तवोचितः शातकुम्भकमलाकरैः समम्। मूर्च्छनापरिगृहीतकैशिकैः किंनरैरूषसि गीतमङ्गलः॥  —कुमार० VIII. 85."
+
+[^6]: "पाटस्यान्ते भिन्नकः। — विक्रमो०। IV. एतदेव नर्तित्वा वलन्तिकयोपसृत्य जानुभ्यां स्थित्वा।  — विक्रमो० IV.  इति ककुभेन षडुपभङ्गाः।— विक्रमो० IV."
+
+[^7]: "सूत्रधारः— आर्ये, साधु गीतम्। अहो रागाववद्वचित्तवृत्तिरालिखित  इव सर्वतो रङ्गः। — शाकु० I.  सूत्रधारः— तवास्मि गीतरागेण हारिणा प्रपभं हृतः। —शाकु० I. राजा— अहो रागपरिवाहिणी गीतिः। - शाकु० V."
 
  3. Kālidāsa gives the idea of the serial stages of practising music, and of the formalities essential for a musician.
 
- (A) He implies that a drone (=tonic) is necessary for & singer to base his song upon. The accompaniment of the flute to the song is also [suggested](# "यः पूरयन् कीचकरन्ध्रभागान्दरीमुखात्थेन समीरणेन। उद्गास्यतामिच्छति किंनराणां तानप्रदायित्वमिवोपगन्तुम्॥  — कुमार० I. 8.  स कीचकैर्मारुतपूर्णरन्ध्रैः कूजद्भिराषादितवंशकृत्यम्। शुश्राव कुञ्जेषु यशः स्वमुच्चैरुद्गीयमानं वनदेवताभिः॥  — रघु० II. 12.").
+ (A) He implies that a drone (=tonic) is necessary for & singer to base his song upon. The accompaniment of the flute to the song is also suggested[^8].
+
+[^8]: "यः पूरयन् कीचकरन्ध्रभागान्दरीमुखात्थेन समीरणेन। उद्गास्यतामिच्छति किंनराणां तानप्रदायित्वमिवोपगन्तुम्॥  — कुमार० I. 8.  स कीचकैर्मारुतपूर्णरन्ध्रैः कूजद्भिराषादितवंशकृत्यम्। शुश्राव कुञ्जेषु यशः स्वमुच्चैरुद्गीयमानं वनदेवताभिः॥  — रघु० II. 12."
 
 \(B\) In **वर्णपरिचयं करोति** be certainly tells us musician has to practise the notes, such as:**—**
 
@@ -14846,29 +14862,45 @@ SARDAR G. N. MUJUMDAR, POONA.
 
 **रेमाग, सरेगमा—**
 
-**[रेगमाप](# "विदूषकः— भो वयस्य, संगीतशालाभ्यन्तरेऽवधानं देहि। कलविशुद्धाया गीतेः स्वरसंयोगः श्रूयते। जाने तत्रभवती हंसपदिका वर्णपरिचयं करोतीति।  -शाकु० V.")**. etc. etc.
+**रेगमाप[^9]**. etc. etc.
+
+[^9]: "विदूषकः— भो वयस्य, संगीतशालाभ्यन्तरेऽवधानं देहि। कलविशुद्धाया गीतेः स्वरसंयोगः श्रूयते। जाने तत्रभवती हंसपदिका वर्णपरिचयं करोतीति।  -शाकु० V."
 
 \(C\) By **उपगानं—**
 
 **उपोहनं—**
 
-**कृत्वा** Kālidāsa wants to show that a musician should first sing the notes of the mode (= rāga) to which the proposed song in [set](# "मालविका—( उपगानं-उपोहनं-कृत्वा .....)  —मालविका ० II.").
+**कृत्वा** Kālidāsa wants to show that a musician should first sing the notes of the mode (= rāga) to which the proposed song in set[^10]  —मालविका ० II.").
 
-\(D\) **वस्तु गायति** means that Mālavikā after singing the notes in of its mode sings the piece or song "**दुलहो**..". The Vastu means what is now generally called **चीज** in Marathi. We find several such Prākṛta Vastus in Bharata's Nāṭyasbāstra and three in Sangeeta Ratnākara. In the works of Kālidāsa there are such Prākṛta pieces (Vastus)- one in the Mālavikāgnimitra, three in the Sākuntala and thirty-one in the Vikramorvashiya. As ancient original songs these are really most valuable with regard to music. In appendix No. 2 are given all these 35 [Vastus](# "मालविका— (……वस्तु गायति।)").
+[^10]: "मालविका—( उपगानं-उपोहनं-कृत्वा .....
 
-\(E\) Kālidāsa indicates that a musician must have a Muraja or some other kind of drum for, keeping time and a stringed or wind instrument for accompaniment or [drone](# "शब्दायन्ते मधुरमनिलैः कीचकाः पूर्यमाणाः। संसक्ताभिस्त्रिपुरविजयो गीयते किंनरीभिः॥ निन्हादस्ते मुरज इव चेत्कन्दरेषु ध्वनिः स्यात्। संगीतार्थो ननु पशुपतेस्तत्र भावी समयः॥ —मेघ० I.59.").
+\(D\) **वस्तु गायति** means that Mālavikā after singing the notes in of its mode sings the piece or song "**दुलहो**..". The Vastu means what is now generally called **चीज** in Marathi. We find several such Prākṛta Vastus in Bharata's Nāṭyasbāstra and three in Sangeeta Ratnākara. In the works of Kālidāsa there are such Prākṛta pieces (Vastus)- one in the Mālavikāgnimitra, three in the Sākuntala and thirty-one in the Vikramorvashiya. As ancient original songs these are really most valuable with regard to music. In appendix No. 2 are given all these 35 Vastus[^11]").
+
+[^11]: "मालविका— (……वस्तु गायति।
+
+\(E\) Kālidāsa indicates that a musician must have a Muraja or some other kind of drum for, keeping time and a stringed or wind instrument for accompaniment or drone[^12].
+
+[^12]: "शब्दायन्ते मधुरमनिलैः कीचकाः पूर्यमाणाः। संसक्ताभिस्त्रिपुरविजयो गीयते किंनरीभिः॥ निन्हादस्ते मुरज इव चेत्कन्दरेषु ध्वनिः स्यात्। संगीतार्थो ननु पशुपतेस्तत्र भावी समयः॥ —मेघ० I.59."
 
  It will be seen from above that the present practice of our musicians to learn first the seven notes and then their several combinations in ascent and descent is reflected in Kālidāsa. Even now they sing first the notes of a mode (**नोम् थोम्**) and then sing the song set to that mode. They require, while singing, a **तबला** or **पखवाज** and a **तंबोरा, सारंगी** or flute played by their side.
 
 \(B\) INSTRUMENTAL MUSIC.
 
- 4. Kālidāsa appears to be well conversant with many drum-instruments. He gives the names of **मुरज, मृदङ्ग, अङ्क्यः,आलिङ्ग्य, ऊर्ध्वक, मर्दल** etc. in hls works; but he makes special mention of the Puskara instrument in the [Mālavikāgnimitra](# "ध्वनत्सु तूर्येषु सुमन्द्रमङ्क्यालिङ्ग्योर्ध्वकेऽवप्सरसो रसेन।  —कुमार० XI. 37.  शिखरासक्तमेघानां व्यजन्ते यत्र वेश्मनाम्। अनुगर्जितसंदिग्धाः करणैर्मुरजस्वनाः॥ —कुमार० VI. 40.बलाहकाश्चाशनिशब्दमर्दलाः। —ऋतुसंहार॥ .4 गीतानुगं वारिमृदङ्गवायम्। – रघु० XVI. 64. (नेपथ्ये मृदङ्गध्वनिः। सर्वे कर्णंददति।) परिव्राजिका—हन्त प्रवृत्तं संगीतम्। तथा ह्येषा जीमूतस्तनितविशङ्कभिर्मयूरै- रुद्रग्रीवैरनुरसितस्य पुष्करस्य। निन्हादिन्युपहितमध्यमस्वरोत्था मायूरी मदयति मार्जना मनांसि॥ —माल० I. 21. त्वद्गम्भीरध्वनिषु शनकैः पुष्करेष्वाहतेषु। – मेघ० II. 6..").
+ 4. Kālidāsa appears to be well conversant with many drum-instruments. He gives the names of **मुरज, मृदङ्ग, अङ्क्यः,आलिङ्ग्य, ऊर्ध्वक, मर्दल** etc. in hls works; but he makes special mention of the Puskara instrument in the Mālavikāgnimitra[^13] परिव्राजिका—हन्त प्रवृत्तं संगीतम्। तथा ह्येषा जीमूतस्तनितविशङ्कभिर्मयूरै- रुद्रग्रीवैरनुरसितस्य पुष्करस्य। निन्हादिन्युपहितमध्यमस्वरोत्था मायूरी मदयति मार्जना मनांसि॥ —माल० I. 21. त्वद्गम्भीरध्वनिषु शनकैः पुष्करेष्वाहतेषु। – मेघ० II. 6..").
 
- 5. Kālidāsa seems to have practised Tāla (keeping time. music). He describes how Agnivarna, by his skilful beats the Puskara, caused the dancing girls to commit mistakes their regular[gesticulations](# " स स्वयं प्रहतपुष्करः कृती लोलमाल्यवलयो हरन्मनः। नर्तकीरभिनयातिलङ्घिनीः पार्श्ववर्तिषु गुरुष्वलज्जयत्॥—रघु.XIX.14.  तालैःसिञ्जावलयसुभगैः कान्तया नर्तितो मे।— मेघ.II.19.").
+[^13]: "ध्वनत्सु तूर्येषु सुमन्द्रमङ्क्यालिङ्ग्योर्ध्वकेऽवप्सरसो रसेन।  —कुमार० XI. 37.  शिखरासक्तमेघानां व्यजन्ते यत्र वेश्मनाम्। अनुगर्जितसंदिग्धाः करणैर्मुरजस्वनाः॥ —कुमार० VI. 40.बलाहकाश्चाशनिशब्दमर्दलाः। —ऋतुसंहार॥ .4 गीतानुगं वारिमृदङ्गवायम्। – रघु० XVI. 64. (नेपथ्ये मृदङ्गध्वनिः। सर्वे कर्णंददति।
 
- 6. Kālidāsa seems to have been a Viṇā-player. In Raghu I, while describing the position of the dead body of Indu i taken on the lap by her husband, the Viṇā comes first ore his [eyes](# " प्रतियोजयितव्यवल्लकीसमवस्थामथ सत्त्वविप्लवात्। स निनाय नितान्तवत्सलः परिगृह्योचितमङ्कमङ्गनाम्॥ —रघु० VIII. 41."). Kālidāsa, an unrivalled master of similes, id have certainly put another substitute there for commison. But the similarity of the Viṇāat once strikes him y because it was so familiar to him. It must have been
+ 5. Kālidāsa seems to have practised Tāla (keeping time. music). He describes how Agnivarna, by his skilful beats the Puskara, caused the dancing girls to commit mistakes their regulargesticulations[^14].
 
-his own experience of often taking it in his lap for tuning. He shows the special care taken by the Yaksa's wife and the Siddhas in wiping off the wet string of their [lutes](# " उत्सङ्गे वा मलिनवसने सौम्य निक्षिप्य वीणाम् मद्गोत्राङ्कं विरचिदपदं गेयमुद्गातुकामा। तन्त्रीमार्द्रां नयनसलिलैः सारयित्वा कथंचित् भूयोभूयः स्वयमपि कृतां मूर्च्छनां विस्मरन्ती॥ — मेघ ०॥. 26. सिद्धद्वन्द्वैर्जलकणभयाद्वीणिभिर्मुक्तमार्गः। — मेघ०।. 48.").This is really a very minute yet most important point with regard to the stringed instruments. Only a practical instrumentalist or a musician is expected to show so much care of his instrument.
+[^14]: " स स्वयं प्रहतपुष्करः कृती लोलमाल्यवलयो हरन्मनः। नर्तकीरभिनयातिलङ्घिनीः पार्श्ववर्तिषु गुरुष्वलज्जयत्॥—रघु.XIX.14.  तालैःसिञ्जावलयसुभगैः कान्तया नर्तितो मे।— मेघ.II.19."
+
+ 6. Kālidāsa seems to have been a Viṇā-player. In Raghu I, while describing the position of the dead body of Indu i taken on the lap by her husband, the Viṇā comes first ore his eyes[^15]. Kālidāsa, an unrivalled master of similes, id have certainly put another substitute there for commison. But the similarity of the Viṇāat once strikes him y because it was so familiar to him. It must have been
+
+[^15]: " प्रतियोजयितव्यवल्लकीसमवस्थामथ सत्त्वविप्लवात्। स निनाय नितान्तवत्सलः परिगृह्योचितमङ्कमङ्गनाम्॥ —रघु० VIII. 41."
+
+his own experience of often taking it in his lap for tuning. He shows the special care taken by the Yaksa's wife and the Siddhas in wiping off the wet string of their lutes[^16].This is really a very minute yet most important point with regard to the stringed instruments. Only a practical instrumentalist or a musician is expected to show so much care of his instrument.
+
+[^16]: " उत्सङ्गे वा मलिनवसने सौम्य निक्षिप्य वीणाम् मद्गोत्राङ्कं विरचिदपदं गेयमुद्गातुकामा। तन्त्रीमार्द्रां नयनसलिलैः सारयित्वा कथंचित् भूयोभूयः स्वयमपि कृतां मूर्च्छनां विस्मरन्ती॥ — मेघ ०॥. 26. सिद्धद्वन्द्वैर्जलकणभयाद्वीणिभिर्मुक्तमार्गः। — मेघ०।. 48."
 
 \(C\) DANCING.
 
@@ -14945,9 +14977,13 @@ ine descriptions of dancing¹⁴ He makes mention of Bharat
 
 —कुमार० XI. 36.
 
-author of [Nāṭyasāstra](# "देवदूतः— मुनिना भरतेन यः प्रयोगे भवतीष्वष्टरसाश्रयो निबद्धः। ललिताभिनयं तमद्य भर्ता मरुतां द्रष्टु– मनाः सलोकपालः॥  —विक्रमोर्य० II. 17.")
+author of Nāṭyasāstra[^17]
 
- 8. Kalidāsa seems to have studied works on music. The cries of peacocks have been, for instance, mentioned as of the same pitch as the Saḍja, the first note of our musica [scale](# "मनोभिरामाः शृण्वन्तौ रथनेमिस्वनोन्मुखैः। षड्जसंवादिनीः केका द्विधा भिन्नाः शिखण्डिभिः ॥  —रघु० 1.39.").
+ 8. Kalidāsa seems to have studied works on music. The cries of peacocks have been, for instance, mentioned as of the same pitch as the Saḍja, the first note of our musica scale[^18].
+
+[^17]: "देवदूतः— मुनिना भरतेन यः प्रयोगे भवतीष्वष्टरसाश्रयो निबद्धः। ललिताभिनयं तमद्य भर्ता मरुतां द्रष्टु– मनाः सलोकपालः॥  —विक्रमोर्य० II. 17."
+
+[^18]: "मनोभिरामाः शृण्वन्तौ रथनेमिस्वनोन्मुखैः। षड्जसंवादिनीः केका द्विधा भिन्नाः शिखण्डिभिः ॥  —रघु० 1.39."
 
  I have tried to explain, as far as possible, the technical terms occurring in Kālidāsa's works, in appendix No. I.
 
@@ -15601,3 +15637,21 @@ Lovers of Sanskrit Literature and particularly of Kalidasa will thinkful to you 
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

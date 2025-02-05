@@ -56,7 +56,9 @@ SRI RAGHUVEER PRINTING PRESS, MYSORE.
 
 **Kalidasa : His date**
 
-— There are only a few tantalising legends which have to speak about the life and date of our poet, though none of the legends is reliable. If one legend makes him the contemporary of Bhavabhuti, another makes him the court poet of Bhojaraja of Dhara. But the tradition that he was one of the Nine [Jems](# "धन्वन्तरिक्षपणकामरसिंहशङ्कुवेतालभट्टघटकर्पर कालिदासाः। ख्यातो वराहमिहिरो नृपतेः सभायां रत्नानि वै वररुचिर्नव विक्रमस्य॥")of Vikramaditya's court seems to have some truth about it. No doubt some scholars have rejected even this as totally baseless; but many are inclined to believe that Kalidasa's patron must have been Vikramaditya. It is not unlikely that Kalidasa has paid his tribute to this patron of his, in the title of his play Vikramorvasiam. But as there have been several Vikramaditya's, this tradition by itself does not help to fix the date of Kalidasa. One king Vikramaditya founded the era known after him, which commences from 57 B. C. A good many scholars are inclined to think that it is very likely that this king was our poet's patron. In support of this view, among other arguments, Mr. Pandit points out that Agnimitra, son of Pushpamitra who founded the Maurya dynasty in 160 B. C. is the hero of the Malavikagnimitra, being a historic person and a contemporary of our poet. Internal evidences are not wanting to strengthen this. The law of inheritence as detailed in the Sakuntalam Act VI, that the property of a person who died childless would go to the king, was current in or about the first century B. C. Moreover the Bauddha poet Asvaghosha who is placed in 78 A. D. has in all likelihood borrowed his ideas from Kalidasa, as the latter has been recognised as an original poet borrowing his subjects only from ancient authors like Valmiki. These tend to show that Kalidasa lived in the first century B. C. The date is approximate, as it has not yet been finally accepted. That is why, if Dr. Peterson holds that Kalidasa stands near the beginning of the Christian era,
+— There are only a few tantalising legends which have to speak about the life and date of our poet, though none of the legends is reliable. If one legend makes him the contemporary of Bhavabhuti, another makes him the court poet of Bhojaraja of Dhara. But the tradition that he was one of the Nine Jems[^1]of Vikramaditya's court seems to have some truth about it. No doubt some scholars have rejected even this as totally baseless; but many are inclined to believe that Kalidasa's patron must have been Vikramaditya. It is not unlikely that Kalidasa has paid his tribute to this patron of his, in the title of his play Vikramorvasiam. But as there have been several Vikramaditya's, this tradition by itself does not help to fix the date of Kalidasa. One king Vikramaditya founded the era known after him, which commences from 57 B. C. A good many scholars are inclined to think that it is very likely that this king was our poet's patron. In support of this view, among other arguments, Mr. Pandit points out that Agnimitra, son of Pushpamitra who founded the Maurya dynasty in 160 B. C. is the hero of the Malavikagnimitra, being a historic person and a contemporary of our poet. Internal evidences are not wanting to strengthen this. The law of inheritence as detailed in the Sakuntalam Act VI, that the property of a person who died childless would go to the king, was current in or about the first century B. C. Moreover the Bauddha poet Asvaghosha who is placed in 78 A. D. has in all likelihood borrowed his ideas from Kalidasa, as the latter has been recognised as an original poet borrowing his subjects only from ancient authors like Valmiki. These tend to show that Kalidasa lived in the first century B. C. The date is approximate, as it has not yet been finally accepted. That is why, if Dr. Peterson holds that Kalidasa stands near the beginning of the Christian era,
+
+[^1]: "धन्वन्तरिक्षपणकामरसिंहशङ्कुवेतालभट्टघटकर्पर कालिदासाः। ख्यातो वराहमिहिरो नृपतेः सभायां रत्नानि वै वररुचिर्नव विक्रमस्य॥"
 
 
 
@@ -2968,8 +2970,10 @@ ACT IV
 
 ————
 
- May that Siva who, although established in sole supremacy which confers various favours on those that bow to him, yet himself wears the garment of (elephant) skin, who, although with his body closely united with that of his beloved, yet is higher than the sages whose minds are away from the objects of sense; in whom although supporting the enrire world with his [eight](# "The eight forms are Earth, Water. Fire, Wind, Sky Sun, Moon and the Yajamana (i.e. one who performs a sacrifice and meets all the expenses thereof). cf. the Nandi sloka of the Abhijana Sakuntalam.")forms, there is no egotism;— may He dispel your state of darkness for (your) beholding the right path.                       
+ May that Siva who, although established in sole supremacy which confers various favours on those that bow to him, yet himself wears the garment of (elephant) skin, who, although with his body closely united with that of his beloved, yet is higher than the sages whose minds are away from the objects of sense; in whom although supporting the enrire world with his eight[^2]. cf. the Nandi sloka of the Abhijana Sakuntalam.")forms, there is no egotism;— may He dispel your state of darkness for (your) beholding the right path.                       
          (**1**)
+
+[^2]: "The eight forms are Earth, Water. Fire, Wind, Sky Sun, Moon and the Yajamana (i.e. one who performs a sacrifice and meets all the expenses thereof
 
 *(At the end of the Nandi)*
 
@@ -5182,3 +5186,5 @@ Here Ends the Malavikagnimitra
 
 
 \]
+
+

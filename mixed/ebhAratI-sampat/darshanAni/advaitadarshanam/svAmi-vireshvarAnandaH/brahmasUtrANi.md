@@ -192,7 +192,9 @@ bhârata, and the author of the Sutras he refers to asBâdarâyana. Perhaps to h
 
 **INTRODUCTION**
 
- This combined work, he says, was commented uponby Upavarsha on whose work the commentaries ofSabara on the Purva Mimâmsâ and Sankara on theUttara Mimâmsâ rest. Sankara's commentary on3.3.53 gives support to this last view and it alsoexplains the popular idea that the two Mimâmsâsform one Sâstra. This combined work might wellhave been arranged by Vyâsa, the author of theMahabharata. Or it may be that he had writtenthem himself according to the views that were traditionally handed down as Bâdarâyana's. This latterview easily accounts for the reference to Bâdarâyanaby name in the Sutras. That such a thing was notuncommon in ancient India is established by Colebrook on the authority of Indian commentators ofManu and Yâjnavalkya.Max Müller also says thatBâdarâyana and other similar names are simplyeponymous heroes of different [philosophies.](# "1. The Six Systems of Indian Philosophy (1912 Impression), p. 120.")
+ This combined work, he says, was commented uponby Upavarsha on whose work the commentaries ofSabara on the Purva Mimâmsâ and Sankara on theUttara Mimâmsâ rest. Sankara's commentary on3.3.53 gives support to this last view and it alsoexplains the popular idea that the two Mimâmsâsform one Sâstra. This combined work might wellhave been arranged by Vyâsa, the author of theMahabharata. Or it may be that he had writtenthem himself according to the views that were traditionally handed down as Bâdarâyana's. This latterview easily accounts for the reference to Bâdarâyanaby name in the Sutras. That such a thing was notuncommon in ancient India is established by Colebrook on the authority of Indian commentators ofManu and Yâjnavalkya.Max Müller also says thatBâdarâyana and other similar names are simplyeponymous heroes of different philosophies.[^1], p. 120.")
+
+[^1]: "1. The Six Systems of Indian Philosophy (1912 Impression
 
  In support of the view that the two persons areone it can be pointed out that there existed in the timeof Pânini Sutras known as Bhikshu-Sutras which areidentified by Vâchaspati with the Vedânta-Sutras. The subject-matter of the Vedânta-Sutras beingBrahman, the knowledge of which is pre-eminentlymeant for Sannyâsins, it might well be called Bhikshu-Sutras. Pânini in his Sutras ascribes these Bhikshu-Sutras to Pârâsarya, the son of Parâsara, i.c. Veda-Vyâsa, who was also called Bâdarâyana as he had his
 
@@ -211,7 +213,11 @@ Mahâbhârata were known before Buddha.Now we
 
 
 
-find a clear reference to the Brahma-Sutras, in Gitâ13.4, where the word 'Brahma-Sutra-padaih' occurs.This is a definite reference to the Vedanta-Sutras.The full text runs as follows: "This has been sungby the Rishis in various ways and in different metresand definitely and logically by the words of theBrahma-Sutras." Tilak argues in his Gitâ-Rahasyathat the first half refers to teachings which are disconnected and unsystematic and therefore refers tothe Upanishads, while the later half to somethingdefinite and logical-a difference that is clearlybrought out by this stanza and therefore refers to thesystematized thought in the Vedânta-Sutras. Max Müller too is of opinion that the Vedânta-Sutrasbelong to an earlier period than the [Gitâ](# "The Six Systems of Indian Philosophy, p. 113.")and in thetext just quoted he finds a clear reference to therecognized title of the Vedânta or [Brahma-Sutras](# "Ibid, p. 118.").Indian commentators on the Gitâ like Râmânuja,Madhwa and others identify the Vedânta-Sutras *inthis passage* of the Gitâ.
+find a clear reference to the Brahma-Sutras, in Gitâ13.4, where the word 'Brahma-Sutra-padaih' occurs.This is a definite reference to the Vedanta-Sutras.The full text runs as follows: "This has been sungby the Rishis in various ways and in different metresand definitely and logically by the words of theBrahma-Sutras." Tilak argues in his Gitâ-Rahasyathat the first half refers to teachings which are disconnected and unsystematic and therefore refers tothe Upanishads, while the later half to somethingdefinite and logical-a difference that is clearlybrought out by this stanza and therefore refers to thesystematized thought in the Vedânta-Sutras. Max Müller too is of opinion that the Vedânta-Sutrasbelong to an earlier period than the Gitâ[^2]and in thetext just quoted he finds a clear reference to therecognized title of the Vedânta or Brahma-Sutras[^3].Indian commentators on the Gitâ like Râmânuja,Madhwa and others identify the Vedânta-Sutras *inthis passage* of the Gitâ.
+
+[^2]: "The Six Systems of Indian Philosophy, p. 113."
+
+[^3]: "Ibid, p. 118."
 
  But if the Vedânta-Sutras be of an earlier datethan the Gitâ, how could it contain references to theGitâ ? In Sutras 2. 3. 45 and 4. 2. 21 all the commentators quote the same text of the Gitâ, and thereseems to be no doubt that they are right. Thesecross references show that the author of the Gitâhad a hand in the present recension of the Sutras.This is also made clear by the rejection of the fourfold
 
@@ -285,7 +291,9 @@ the matter a little and see whether it is actually so.
 
 
 
-by the snake owing to the illusory connection betweenthe two. This definition, therefore, actually aimsat the Nirguna Brahman and cannot be taken as adefinition of the Saguna [Brahman](# "Bhâmati and Ratnaprabhâ on Sankara's comments onSutra 2.").
+by the snake owing to the illusory connection betweenthe two. This definition, therefore, actually aimsat the Nirguna Brahman and cannot be taken as adefinition of the Saguna Brahman[^4].
+
+[^4]: "Bhâmati and Ratnaprabhâ on Sankara's comments onSutra 2."
 
 Again the Sutra refers to the Taittiriya text,"That from which these beings are bornThatis Brahman" etc. (3.1) and the word 'that' here refersto the Brahman defined as Existence, Knowledge, andInfinite in the immediately preceding section, theAnanda Valli. Therefore from this text itself we getat the real nature of Brahman.
 
@@ -301,7 +309,9 @@ That Bliss which admits of no difference isBrahman we learn from the Chhândogya
 
 
 
-cause of everything, It is the basic reality behindeverything and this gives rise to the intuition thatBrahman is non-dual and that everything else isunreal. Its being the efficient cause also establishesthe fact that It is non-dual, as it precludes anythingelse being such an efficient cause. Thus this definition, which is but one, qualifies *per accidens* the nondual Brahman as both the efficient and material causeof the universe. This material causality of Brahmanwhich is non-dual, immutable Intelligence cannot beone of origination, as by primeval atoms by whosecombination something new is created; nor can it beone of modification, as of the Pradhâna of theSânkhyas. It is through Vivarta or apparent modification through Mâyâ or Nescience that Brahman istransformed into this universe. This universe istherefore [illusory](# "Siddhântalesha, Brahma Lakshanavichâra.").That this is in accordance withBâdarâyana's view is made clear by the fact that heuses the word 'Sat' as a characteristic epithet todenote Brahman, which he would not have done ifhe had considered the Jivas and the world also reallike Brahman (vide Sutra 2. 3. 9). The word 'Sat'here is interpreted by all commentators to denoteBrahman.
+cause of everything, It is the basic reality behindeverything and this gives rise to the intuition thatBrahman is non-dual and that everything else isunreal. Its being the efficient cause also establishesthe fact that It is non-dual, as it precludes anythingelse being such an efficient cause. Thus this definition, which is but one, qualifies *per accidens* the nondual Brahman as both the efficient and material causeof the universe. This material causality of Brahmanwhich is non-dual, immutable Intelligence cannot beone of origination, as by primeval atoms by whosecombination something new is created; nor can it beone of modification, as of the Pradhâna of theSânkhyas. It is through Vivarta or apparent modification through Mâyâ or Nescience that Brahman istransformed into this universe. This universe istherefore illusory[^5].That this is in accordance withBâdarâyana's view is made clear by the fact that heuses the word 'Sat' as a characteristic epithet todenote Brahman, which he would not have done ifhe had considered the Jivas and the world also reallike Brahman (vide Sutra 2. 3. 9). The word 'Sat'here is interpreted by all commentators to denoteBrahman.
+
+[^5]: "Siddhântalesha, Brahma Lakshanavichâra."
 
  Thus we find that this definition is given byBâdarâyana to indicate a Nirguna (attributeless) andNirvisesha (absolute) Brahman and not a SagunaBrahman and he has selected a significant text from
 
@@ -316,7 +326,13 @@ Sutras 2. 1. 1-3 reject the authority of the Sânkhyaand Yoga Smritis as against
 
 
 
-joyer and things enjoyed, a fact established by experience. The Sutra refutes it saying that such adifference can exist in non-different things even aswe have waves, foam, etc. in the sea and so theVedantic doctrine cannot be set aside on the groundof contradiction to our experience. Now, dualityand non-duality cannot exist in one and the samething, for they are mutually contradictory. Theexample of the sea and the waves would be aptif Brahman had aspects, but non-dual reality doesnot admit of such aspects. Moreover, Sutra 13 hasnot established the truth of the scriptural statement,"By the knowledge of the one everything else isknown" which was referred to in Sutra 1. 4. 23.To establish these two things Sutras 14-20 declarethat the effects are in reality non-different from thecause, i.e. they have no existence apart from the[cause](# "Sankara on Sutra 14.").' Non-difference here does not mean identitybut that there is no [difference](# "Bhâmati on Sutra 14."). In other words thetwo, Brahman and the world, have not the samegrade of [reality](# "Siddhântalesha, Brahmakâranatvavichâra."). That is what is meant. If theworld is something different from Brahman it wouldcontradict such Sruti texts as, "All this was but theSelf" (Brih. 1. 4. 1., 1. 4. 17). Again if the world isreal, it would contradict texts like, "There is nothingwhatsoever here" (Brih. 4. 4. 19). Therefore theworld is non-different from Brahman. But identity
+joyer and things enjoyed, a fact established by experience. The Sutra refutes it saying that such adifference can exist in non-different things even aswe have waves, foam, etc. in the sea and so theVedantic doctrine cannot be set aside on the groundof contradiction to our experience. Now, dualityand non-duality cannot exist in one and the samething, for they are mutually contradictory. Theexample of the sea and the waves would be aptif Brahman had aspects, but non-dual reality doesnot admit of such aspects. Moreover, Sutra 13 hasnot established the truth of the scriptural statement,"By the knowledge of the one everything else isknown" which was referred to in Sutra 1. 4. 23.To establish these two things Sutras 14-20 declarethat the effects are in reality non-different from thecause, i.e. they have no existence apart from thecause[^6].' Non-difference here does not mean identitybut that there is no difference[^7]. In other words thetwo, Brahman and the world, have not the samegrade of reality[^8]. That is what is meant. If theworld is something different from Brahman it wouldcontradict such Sruti texts as, "All this was but theSelf" (Brih. 1. 4. 1., 1. 4. 17). Again if the world isreal, it would contradict texts like, "There is nothingwhatsoever here" (Brih. 4. 4. 19). Therefore theworld is non-different from Brahman. But identity
+
+[^6]: "Sankara on Sutra 14."
+
+[^7]: "Bhâmati on Sutra 14."
+
+[^8]: "Siddhântalesha, Brahmakâranatvavichâra."
 
 
 
@@ -410,9 +426,11 @@ to be so (Mu. 3. 1. 9) and other texts mention itspassing out of the body, going
 
 
 
-that Brahman and the Jiva in its real nature areall-pervading. The texts which speak of atomicityetc. are of a secondary import and so have to beexplained [otherwise.](# "Siddhântalesha, Jivânutvavichâra.")
+that Brahman and the Jiva in its real nature areall-pervading. The texts which speak of atomicityetc. are of a secondary import and so have to beexplained otherwise.[^9]
 
 ***Is Brahman with or without attributes:***
+
+[^9]: "Siddhântalesha, Jivânutvavichâra."
 
  Now let us take up the Sutras in Chapter III,Section 2, where Bâdarâyana describes the nature ofBrahman. Sutras 11-21 according to Sankara dealwith the reconciliation of texts which describeBrahman both as attributeless and as possessingattributes and mean that even from difference of placea twofold characteristic cannot be predicated ofBrahman, because the scriptures teach throughoutthat Brahman is without attributes (11). If it besaid that such difference is taught by the scriptureswe deny it, because with respect to each form theSruti declares just the opposite of that. The Srutiexplains at every instance that the form is not trueand that behind all Upâdhis there is one formlessprinciple (*vide* Brih. 2. 5. 1) (12). Moreover, someteach thus (*vide* Katha. 4. 11) (13). Verily Brahmanis formless, for that is the purport of the texts (14).And as formless light takes form, so does Brahmantake form in connection with Upâdhis which serve thepurpose of Upâsanâ (meditation) (15). It is PureIntelligence (16). The Sruti and Smriti teach that Itis attributeless (17). Therefore we have with respect
 
@@ -567,7 +585,9 @@ indestructible and illimitable, while verse 24 againsays it is all-pervading. Ag
 
 
 
-teaching that God is not outside of nature, but immanent in nature And at last both ideas are discardedand it is taught that whatever is real is He; there isno difference. "Svetaketu, thou art That." Theimmanent one is at last declared to be the same thatis in the human [soul](# "Complete Works of Swami Vivekananda, Vol. III.pp. 281, 397, and 398.").This fact is recognized byBâdarâyana too and so commentators make a mistakewhen they think that the Sutras propound only theirdoctrine and nothing else.
+teaching that God is not outside of nature, but immanent in nature And at last both ideas are discardedand it is taught that whatever is real is He; there isno difference. "Svetaketu, thou art That." Theimmanent one is at last declared to be the same thatis in the human soul[^10].This fact is recognized byBâdarâyana too and so commentators make a mistakewhen they think that the Sutras propound only theirdoctrine and nothing else.
+
+[^10]: "Complete Works of Swami Vivekananda, Vol. III.pp. 281, 397, and 398."
 
  This grand principle of Adhikâribheda is thefoundation on which the teachings of the Upanishads,the Brahma-Sutras, and the Gitâ are based and that isthe reason why they have been universally acceptedby the Hindus of all classes and denominations.From this point of view we are inclined to think thatof all the commentators Sankâra has done the greatestjustice to the Sutrakâra by his twofold doctrine ofthe absolute and phenomenal reality.
 
@@ -8189,3 +8209,13 @@ If the powers of the released souls are limited, then like all limited things th
 
 
 \]
+
+
+
+
+
+
+
+
+
+

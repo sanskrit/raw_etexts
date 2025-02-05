@@ -14,7 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA2NDY1MzEzOTg
 +++
 [[Selections from Sanskrit Inscriptions Part 1	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjA2NDY1MzEzOTgzNzc0&pageno=MjI0MjQyNjk5NTk=)]]
 
-\[
+\
 
 
 
@@ -101,7 +101,9 @@ D. B. Diskalkar at Rajkot.
 
 **PREFACE.**
 
-The importance of Epigraphy for building up the early history of India is unquestionable and can hardly be gainsaid. A good deal of the accurate information which we now possess in regard to ancient India is undoubtedly derived from the study of inscriptions but for whicheven the names of emperors like Samudragupta the great "who conquered nearly all India and whose alliance extended from the Oxus to Ceylon" would have been cast into oblivion. The connected accounts of several periods in early Indian History which it has now become possible to write is the outcome of patient and minute study of inscriptions chiefly. So the value of these documents for the history of Ancient India is admitted by all but I doubt if it has been fully recognised generally although scholars like the late Professor Buhler emphasized it long ago. The discovery of authentic inscriptions of ascertainable age and origin like that of Harisheṇa or Vatsabhaṭṭi and the Girnār*praśasti* shows how hollow the old theory of Renaissance of Sanskrit literature was; for it proves beyond doubt that the Kāvya literature must have been in full swing not only in the Gupta epoch but even before the commencement of the Christian [era](# "*See also Prof. Hermann Jacobi on Cultural, Linguistic and Literary Historical gleanings from the Kautiliya; Ind. Ant, Vol LIII, pp. 128 to 146. In this contribution the Professor concludes that the 4th Century B.C. should belong to the Classical period, maturing to full development.").The composition of such inscriptions presupposes the existence of some *Alaṅkāra-śāstra.* For instance the *praśasti* of Harisheṇa i. e., the Allahabad pillar inscription of Samudragupta is a birst class little Kāvya which is artistically finished in every respect and places its author, namely, Harisheṇa in line with Kālidāsa and Daṇḍin. Some of the poetic figures in this composition remind us of Subandhuand Bāṇa and in the choice of words it is, perhaps, unsurpassed; for where do we find more concise and more graphic a picture, than what it gives of the situation in which Samudragupta is ordained by his father to be his successor? We are quite
+The importance of Epigraphy for building up the early history of India is unquestionable and can hardly be gainsaid. A good deal of the accurate information which we now possess in regard to ancient India is undoubtedly derived from the study of inscriptions but for whicheven the names of emperors like Samudragupta the great "who conquered nearly all India and whose alliance extended from the Oxus to Ceylon" would have been cast into oblivion. The connected accounts of several periods in early Indian History which it has now become possible to write is the outcome of patient and minute study of inscriptions chiefly. So the value of these documents for the history of Ancient India is admitted by all but I doubt if it has been fully recognised generally although scholars like the late Professor Buhler emphasized it long ago. The discovery of authentic inscriptions of ascertainable age and origin like that of Harisheṇa or Vatsabhaṭṭi and the Girnār*praśasti* shows how hollow the old theory of Renaissance of Sanskrit literature was; for it proves beyond doubt that the Kāvya literature must have been in full swing not only in the Gupta epoch but even before the commencement of the Christian [era[^1].The composition of such inscriptions presupposes the existence of some *Alaṅkāra-śāstra.* For instance the *praśasti* of Harisheṇa i. e., the Allahabad pillar inscription of Samudragupta is a birst class little Kāvya which is artistically finished in every respect and places its author, namely, Harisheṇa in line with Kālidāsa and Daṇḍin. Some of the poetic figures in this composition remind us of Subandhuand Bāṇa and in the choice of words it is, perhaps, unsurpassed; for where do we find more concise and more graphic a picture, than what it gives of the situation in which Samudragupta is ordained by his father to be his successor? We are quite
+
+[^1]: "*See also Prof. Hermann Jacobi on Cultural, Linguistic and Literary Historical gleanings from the Kautiliya; Ind. Ant, Vol LIII, pp. 128 to 146. In this contribution the Professor concludes that the 4th Century B.C. should belong to the Classical period, maturing to full development."
 
 
 
@@ -124,8 +126,10 @@ Government Epigraphist for India.
 
 **INTRODUCTION.**
 
-The proverbial lack of the historical sense in the ancient Hindu has no doubt considerably detracted from the value of such a splendid heritage as India possesses in the Sanskrit language and literature. The deficiency of material which can be arranged in a strictly chronological sequence is to some extent made up by contemporary records on stone and copper which have been discovered during the last few decades, not only in all parts of the Indian Empire but in the adjoining countries towards north, east and south such as Nepal, Central Asia, Jāvā, Cambodia and Ceylon; wherever the influence of the civilization of India has penetrated. The earliest records found in India are mostly in Pāli and Prākrit barring of course the recent discoveries in the Punjab and Sind of a pictographic script the key to the decipherment of which is not yet in sight. In the early centuries of the Christian era Sanskrit seems to have established its position as the language of official records and from this period onwards most of the inscriptions on stone and copperplate are in Sanskrit. The object that prompted the engraving of these inscriptions was generally the recording of some pious donation of a village or the building of a temple or even that of describing the exploits of a king. In all these cases it is therefore futile to expect any flashes of literary merit in the compositions recorded in inscriptions. But sometimes when a court poet sets himself to the task of extolling the virtues and exploits of his patron king and his ancestors the result is sometimes recorded in excellent specimens of Sanskrit *Kāvya* or artificial poetry. These *Praśastis* very often contain not only the same ideas but also words and phrases similar to those found in the standard classical poetry of the masters of Sanskrit [literature](# "*See Dr. Buhler s essay on  The Indian Inscriptions and the Antiquity of Indian Artificial Poetry  published in the Indian Antiquary of 1913.").
+The proverbial lack of the historical sense in the ancient Hindu has no doubt considerably detracted from the value of such a splendid heritage as India possesses in the Sanskrit language and literature. The deficiency of material which can be arranged in a strictly chronological sequence is to some extent made up by contemporary records on stone and copper which have been discovered during the last few decades, not only in all parts of the Indian Empire but in the adjoining countries towards north, east and south such as Nepal, Central Asia, Jāvā, Cambodia and Ceylon; wherever the influence of the civilization of India has penetrated. The earliest records found in India are mostly in Pāli and Prākrit barring of course the recent discoveries in the Punjab and Sind of a pictographic script the key to the decipherment of which is not yet in sight. In the early centuries of the Christian era Sanskrit seems to have established its position as the language of official records and from this period onwards most of the inscriptions on stone and copperplate are in Sanskrit. The object that prompted the engraving of these inscriptions was generally the recording of some pious donation of a village or the building of a temple or even that of describing the exploits of a king. In all these cases it is therefore futile to expect any flashes of literary merit in the compositions recorded in inscriptions. But sometimes when a court poet sets himself to the task of extolling the virtues and exploits of his patron king and his ancestors the result is sometimes recorded in excellent specimens of Sanskrit *Kāvya* or artificial poetry. These *Praśastis* very often contain not only the same ideas but also words and phrases similar to those found in the standard classical poetry of the masters of Sanskrit literature[^2].
 This
+
+[^2]: "*See Dr. Buhler s essay on  The Indian Inscriptions and the Antiquity of Indian Artificial Poetry  published in the Indian Antiquary of 1913."
 
 
 
@@ -136,7 +140,9 @@ has eventually been the means of proving that classical literature was cultivate
 
 
 
-cannot be exaggerated. Even the most wellknown of Classical poets viz. Kālidāsa has leftno record as to the time when and the place where he lived. We owe it to an [inscription](# "No 12 in the edition.") that we now know the posterior limit to which he can be assigned, viz. 634 A. D. The inscriptions of the Gurjara-Pratihāra kings, Mahendrapāla and Mahīpāla, who, we know,ruled during the last decade of the ninth century and in the beginning of the tenth century of the Christian era enable us to fix the time of the dramatist and post Rājaśekhar, whose pupils and patrons they were. In this way inscriptions have been of great use to us in determining the approximate period of many of our Classical authors.
+cannot be exaggerated. Even the most wellknown of Classical poets viz. Kālidāsa has leftno record as to the time when and the place where he lived. We owe it to an inscription[^3] that we now know the posterior limit to which he can be assigned, viz. 634 A. D. The inscriptions of the Gurjara-Pratihāra kings, Mahendrapāla and Mahīpāla, who, we know,ruled during the last decade of the ninth century and in the beginning of the tenth century of the Christian era enable us to fix the time of the dramatist and post Rājaśekhar, whose pupils and patrons they were. In this way inscriptions have been of great use to us in determining the approximate period of many of our Classical authors.
+
+[^3]: "No 12 in the edition."
 
 I must express my obligations to the several scholars on whose devoted labours the subject matter of this edition is based. I express my sincere thanks to Sir John Marshall, the Director General of Archaeology in India, for his courtesy in allowing me to copy the inscriptions from Government publications issued by the Archeological Department, and to the proprietors of other Journals from which the remaining inscriptions are copied. My special thanks are due to Rao Bahadur H. Krishna śastri, Government Epigraphist for India who kindly consented at my request to write a preface to this small edition. I am also indebted to my friend, Mr. K. N. Dikshit M. A.; Superintendent Archeological Survey W. C. Poona for making many valuable suggestions in this work.
 
@@ -1063,7 +1069,9 @@ Mandasore Stone Inscription of Kumaragupta**
 
 संस्कारितमिदं भूयः श्रेण्या भानुमतो गृहम् ॥ ३७ ॥
 
-अत्युन्नतमवदातं नभः[स्पृशन्निव](# "स्पृशदिव")मनोहरैः शिखरैः ।
+अत्युन्नतमवदातं नभःस्पृशन्निव[^4]मनोहरैः शिखरैः ।
+
+[^4]: "स्पृशदिव"
 
 शशिभान्वोरभ्युदयेष्वमलमयूखायतनभूतम् ॥ ३८ ॥
 
@@ -2560,3 +2568,7 @@ ERRATA.
 
 
 \]
+
+
+
+

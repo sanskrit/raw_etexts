@@ -271,16 +271,28 @@ that these should be the tried ideas and ideals that guided the life of his fore
 
 
 
- This is So far as their belonging to the book is concerned. As for the book belonging to them (i e. to all of them) the later-day policy of shutting out the Sudra, is nothing but suicidal. If anybody, it is the Sudra, who requires the help of the Scripture most. Without the help that the Scripture gives, he is ill-fitted to raise himself up and be a full member of the community. To close the Scripture to the Sudra is tantamount to closing the gates of the hospital to the sick. Atharva Veda seems to have taken a move in the right direction and opened its gates to all. That seems to be the real import of the sarcasm of Apastambha Dharma Sutra (2-11-29-10) that [“Women and Sudras are the proper clients of the Atharva Veda."](# "1. Bloomfield-Atharva Veda and Gopatha Brāhmaṇa, p. 26.")  
- Hazrat Mohammad had realised the importance of the Scripture, much more keenly than anybody else did. He did not only lay down the dictum about the "People of the Book" viz., that in order to form one people, there must be a common Scripture, and this Scripture must be accessible to one and all, and also obligatory on all; but in order to implement its full acceptance, he laid down rules linking inseparably the common Scripture with the obligatory daily prayer. Thus in saying his Namaz, the Muslim has got to recite some portion of the Koran. But the case of the Hindu or the Christian is different. He may or may not use the national Scripture for this purpose. There is no necessary connection between the two. Want of this necessary connection makes a world of difference in the matter of their esteem and regard for the Scripture. The orthodox Muslim cannot, for a day even, do without his scripture, the Hindu and the Christian can, and therefore often does. Then again, not only has it been required that the Koran should be recited at the time of the Namaj prayer, but it has been made optional to use any portion of the Koran for performing the Namaj [prayer](# "Mohammad Ali-Koran (Introduction)").This is calculated not only to make every portion of the Koran equally holy, but this also implies, that the study of the Koran can
+ This is So far as their belonging to the book is concerned. As for the book belonging to them (i e. to all of them) the later-day policy of shutting out the Sudra, is nothing but suicidal. If anybody, it is the Sudra, who requires the help of the Scripture most. Without the help that the Scripture gives, he is ill-fitted to raise himself up and be a full member of the community. To close the Scripture to the Sudra is tantamount to closing the gates of the hospital to the sick. Atharva Veda seems to have taken a move in the right direction and opened its gates to all. That seems to be the real import of the sarcasm of Apastambha Dharma Sutra (2-11-29-10) that “Women and Sudras are the proper clients of the Atharva Veda."[^1]  
+ Hazrat Mohammad had realised the importance of the Scripture, much more keenly than anybody else did. He did not only lay down the dictum about the "People of the Book" viz., that in order to form one people, there must be a common Scripture, and this Scripture must be accessible to one and all, and also obligatory on all; but in order to implement its full acceptance, he laid down rules linking inseparably the common Scripture with the obligatory daily prayer. Thus in saying his Namaz, the Muslim has got to recite some portion of the Koran. But the case of the Hindu or the Christian is different. He may or may not use the national Scripture for this purpose. There is no necessary connection between the two. Want of this necessary connection makes a world of difference in the matter of their esteem and regard for the Scripture. The orthodox Muslim cannot, for a day even, do without his scripture, the Hindu and the Christian can, and therefore often does. Then again, not only has it been required that the Koran should be recited at the time of the Namaj prayer, but it has been made optional to use any portion of the Koran for performing the Namaj prayer[^2]").This is calculated not only to make every portion of the Koran equally holy, but this also implies, that the study of the Koran can
+
+[^1]: "1. Bloomfield-Atharva Veda and Gopatha Brāhmaṇa, p. 26."
+
+[^2]: "Mohammad Ali-Koran (Introduction
 
 
 
-fitly supplement the daily prayer, rather than that both of them are one and the same thing. When we remember the importance of prayer in the Islam, that it is one of the essential rites without which a Muslim would not be considered to be a [Muslim](# "Goldsack-Muhammadian Traditions, p 20"),when it is stated that prayer is the key to gates of [Heaven](# "(i) Blair-Sources of Islam, p. 118 (ii) Sell-Faith of Islam, p. 284"),we may appreciate the part played by the Scripture in the formation of Islamic civilisation and Islamic solidarity.
+fitly supplement the daily prayer, rather than that both of them are one and the same thing. When we remember the importance of prayer in the Islam, that it is one of the essential rites without which a Muslim would not be considered to be a Muslim[^3],when it is stated that prayer is the key to gates of Heaven[^4] Blair-Sources of Islam, p. 118 (ii) Sell-Faith of Islam, p. 284"),we may appreciate the part played by the Scripture in the formation of Islamic civilisation and Islamic solidarity.
+
+[^3]: "Goldsack-Muhammadian Traditions, p 20"
+
+[^4]: "(i
 
  Not a little of the success of Islam is due to the foresight of Mohammad in emphasising the importance of the Scripture. It is unquestioned submission to the authority of a single book... the common Koran, that binds together all the Musalmans of the world. Though they happen to berecruited from the diverse people and such different races as Arabs, Pathans, Persians, Turks, Chinese and Egyptians, Negroes and Indians, the acceptance of the Koran makes them all equal sharers in the common-wealth of Islam.  
- "The Musalman is not an isolated individual; the Tunesian, the Algerian, the Moroccan, the Sudanese are not individuals whose horizon stops at the artificial boundaries created by diplomatists and geographers. To whatever political formation they may belong, they are first and foremost citizens of Islam. They belong morally, religiously, intellectually, to the Great Moslem father-land, of which the capital is Mecca, and whose ruler theoretically undisputed...is the commander of the [Faithful](# "Andre Servier-Islam and the Psychology of the Musalman, p. 470")."  
- "Next to the act of testifying to the unity of God, the Koran is the great bond of Islam. No matter from what race the convert may have come, no matter what language he may speak, he must learn in Arabic and repeat by rote, portions of the Koran, in every act of public [worship](# "Sell- The Faith of Islam, p. 81").”
+ "The Musalman is not an isolated individual; the Tunesian, the Algerian, the Moroccan, the Sudanese are not individuals whose horizon stops at the artificial boundaries created by diplomatists and geographers. To whatever political formation they may belong, they are first and foremost citizens of Islam. They belong morally, religiously, intellectually, to the Great Moslem father-land, of which the capital is Mecca, and whose ruler theoretically undisputed...is the commander of the Faithful[^5]."  
+ "Next to the act of testifying to the unity of God, the Koran is the great bond of Islam. No matter from what race the convert may have come, no matter what language he may speak, he must learn in Arabic and repeat by rote, portions of the Koran, in every act of public worship[^6].”
+
+[^5]: "Andre Servier-Islam and the Psychology of the Musalman, p. 470"
+
+[^6]: "Sell- The Faith of Islam, p. 81"
 
 
 
@@ -375,18 +387,24 @@ exceed forty lacs in number, they succeeded so much, that the Moghal lost his em
 
   That the Hindu holds the Veda in the highest regard, needs no mention. According to him, an atheist is not one who denies the existence of God, but one who denies the authority of the Veda "**नास्तिको वेदनिन्दक**".
 
-  The Parsi also takes his stand by the Veda. For what is known as the Avesta, is nothing but a part of the Veda–[the Bhargava Section of the Atharva Veda](# "Chatterjee–Ethical Conception of the Gatha, p. 177").
+  The Parsi also takes his stand by the Veda. For what is known as the Avesta, is nothing but a part of the Veda–the Bhargava Section of the Atharva Veda[^7].
+
+[^7]: "Chatterjee–Ethical Conception of the Gatha, p. 177"
 
   The very name Avesta, is a corruption of the word **उपस्था** which according to Panini means a collection of the Vedic
 
 
 
-[Mantras.](# "1. उपान् मन्त्रकरणे - Panini, 1-3-35.") Maghavan Zarathustra, the prophet of the Parsis, gives to his Scripture all the names by which Veda is known viz.,
+Mantras.[^8] Maghavan Zarathustra, the prophet of the Parsis, gives to his Scripture all the names by which Veda is known viz.,
+
+[^8]: "1. उपान् मन्त्रकरणे - Panini, 1-3-35."
 
 1.  **मन्न्र**.............Yasna 28-5, 50-7, 51-8, 44-14, 31-6. 2.  **श्रुति (पराश्रुती** Yasna 50-8, 46-13, 46-1, 32-10, 34-15,
 44-13,and **श्रव)** 33-4. 3.  **आम्नाय**.........Yasna 45-3. 4.  **वेद**..............Yasna 46-2.
 
- Ahura Mazda of the Avesta is no other than Asura Varuna of the Veda. As a matter of fact, Varuna is the 41st name in the list of the celebrated 101 names of [Ahura Mazda](# "(1) Iran League Quarterly-April 1933, p. 178 (2) Anklesaria– यजस्रे वा नीरगं, p 25").124th Hymn of the 10th Mandala of the Rig Veda describes the conversion of a person from the Asura-cult (Pitri-Yana), to the Deva-cult (Deva-Yana). But both Deva-Yana and the Pitri-Yana are the two sections of the same church, and the Veda is the Scripture that is common to both, just as Rudra, the common Lord, is both a Deva and an Asura.
+ Ahura Mazda of the Avesta is no other than Asura Varuna of the Veda. As a matter of fact, Varuna is the 41st name in the list of the celebrated 101 names of Ahura Mazda[^9] Iran League Quarterly-April 1933, p. 178 (2) Anklesaria– यजस्रे वा नीरगं, p 25").124th Hymn of the 10th Mandala of the Rig Veda describes the conversion of a person from the Asura-cult (Pitri-Yana), to the Deva-cult (Deva-Yana). But both Deva-Yana and the Pitri-Yana are the two sections of the same church, and the Veda is the Scripture that is common to both, just as Rudra, the common Lord, is both a Deva and an Asura.
+
+[^9]: "(1
 
 **यक्ष्वा महे सौमनसाय रुद्रम्।  
 नमोभिर् देवम् असुरं दुवस्य॥      ***Rig.* 5-42-11.
@@ -404,9 +422,15 @@ exceed forty lacs in number, they succeeded so much, that the Moghal lost his em
 
   Buddhism and Jinism are anticipated by the Veda, and they may very well seek the support of the Veda. As a matter of fact, even in the popular estimate, the revolt is not so much against the Veda itself, as against the interpretation of the Veda.
 
- "[Most significant it is, that even the Buddhists (and the Jainas) who deny the authority of the Veda, yet concede that it was originally given or 'created' by God Brahman. Only, they add, it has been falsified by the Brahmins and therefore contains many errors](# "Winternitz-A History of Indian Literature, Vol. I, p. 55").”
+ "Most significant it is, that even the Buddhists (and the Jainas) who deny the authority of the Veda, yet concede that it was originally given or 'created' by God Brahman. Only, they add, it has been falsified by the Brahmins and therefore contains many errors[^10].”
 
- The hold of the Veda on the Sikhs is by no means negligible. No doubt Sikhism has, by those who presume to speak without knowing its inner spirit, been stigmatised as a form of Islam, bereft of cow-slaughter and [circumcision](# "Vide (i) Raja Gopal Chariar-The Vaisnava Reformers of India, p. 118 (ii) Vaswani–In the Sikh Sanctuary, p. 84"),but that need not divert our attention from the scene in the Gurudwara of Conjivaram, where on the altar, the Vedic ceremony of 'Homa' is [regularly performed to the Guru Grantha](# "Farquhar– Modern Religious Movements in India, p. 338.").
+[^10]: "Winternitz-A History of Indian Literature, Vol. I, p. 55"
+
+ The hold of the Veda on the Sikhs is by no means negligible. No doubt Sikhism has, by those who presume to speak without knowing its inner spirit, been stigmatised as a form of Islam, bereft of cow-slaughter and circumcision[^11] Raja Gopal Chariar-The Vaisnava Reformers of India, p. 118 (ii) Vaswani–In the Sikh Sanctuary, p. 84"),but that need not divert our attention from the scene in the Gurudwara of Conjivaram, where on the altar, the Vedic ceremony of 'Homa' is regularly performed to the Guru Grantha[^12].
+
+[^11]: "Vide (i
+
+[^12]: "Farquhar– Modern Religious Movements in India, p. 338."
 
   As a matter of fact, Guru Govinda Sinha, the great prophet of Sikhism, declared that the Veda is the source of all the cults,
 
@@ -424,7 +448,25 @@ and that the reformation of Guru Nanak aimed at establishing the pure religion o
 
  Thus all the five sects of the Aryan church are based on the Veda, and it is desirable that every member of any of these five sects, has some acquaintance with the Veda in original. Here is an attempt to meet the need, to present some of the best Riks (slokas) of the Veda as an elementary (and to a certain extent indispensable) course of study for every individual Arya to take up.
 
- It may be noted at the outset that the Veda does not deal with religious matters alone. It sometimes tells of (1) [Historical facts, such as the battles of Abhyavarti and Kavi (Emperors of Iran) with Divodasa and Sudasa (Emperors of India)](# "Rig-Veda— 7-8-31, 6-27-1, 6–27–5, 7–18–8"),¹ (2) [Economic matters, such as the different vocations followed by the members of the same family](# "Rig-Veda—9-112"),² (3) [Social functions, such as wedding and funeral](# "Rig-Veda— 10-85, 10-14"),³(4) [Social problems e.g., the caste system and celebacy](# "Rig-Veda— 10-90, 10-10"),⁴(5) Social evils, e.g., [gambling](# "Rig-Veda— 10-34"),⁵ (6) Natural objects e.g. [serpent or frogs](# "Rig-Veda— 1-191, 7-103"),⁶ (7) Natural phenomena e.g., [storms and showers](# "Rig-Veda— 10-168, 5-83"),⁷ (8) Astronomical facts (in allegory) e.g., [the autumnal equinox](# "Rig-Veda— 10-86"),⁸ and (9) [Pure romances such as the courtship between Pururavas and his Afgan consort Urvasi](# "Rig-Veda— 10-73").⁹
+ It may be noted at the outset that the Veda does not deal with religious matters alone. It sometimes tells of (1) Historical facts, such as the battles of Abhyavarti and Kavi (Emperors of Iran) with Divodasa and Sudasa (Emperors of India)[^13],¹ (2) Economic matters, such as the different vocations followed by the members of the same family[^14],² (3) Social functions, such as wedding and funeral[^15],³(4) Social problems e.g., the caste system and celebacy[^16],⁴(5) Social evils, e.g., gambling[^17],⁵ (6) Natural objects e.g. serpent or frogs[^18],⁶ (7) Natural phenomena e.g., storms and showers[^19],⁷ (8) Astronomical facts (in allegory) e.g., the autumnal equinox[^20],⁸ and (9) Pure romances such as the courtship between Pururavas and his Afgan consort Urvasi[^21].⁹
+
+[^13]: "Rig-Veda— 7-8-31, 6-27-1, 6–27–5, 7–18–8"
+
+[^14]: "Rig-Veda—9-112"
+
+[^15]: "Rig-Veda— 10-85, 10-14"
+
+[^16]: "Rig-Veda— 10-90, 10-10"
+
+[^17]: "Rig-Veda— 10-34"
+
+[^18]: "Rig-Veda— 1-191, 7-103"
+
+[^19]: "Rig-Veda— 10-168, 5-83"
+
+[^20]: "Rig-Veda— 10-86"
+
+[^21]: "Rig-Veda— 10-73"
 
  Those who seek to find lofty thought in every sloka of the Veda, are bound to be dis-appointed. It is only thereligious Riks, the Riks that give the spirit strength to fight the flesh, that are important. In this view of the matter viz. that there are also non-religious Riks in the Veda, the study of the whole of the Veda is not incumbent. A collection of the religious Riks is more suitable for the busy modern man.
 
@@ -448,19 +490,39 @@ realisation viz, Karma Yoga (Ethical), Bhakti Yoga (Devotional) and Jnana Yoya (
 
 (1) The Book of Prose, or the Yajus;  
 (2) The Book of Poetry or the Rik, and  
-(3) The Book of Songs or the [Saman](# "(i) तेषां ऋग् यत्र अर्थवशेन पादव्यवस्था।(2-1-32) गीतिषु समाख्या (2-1-33) शेषे यजुः शब्दः।(2-1-34)  Jaimini Pūrva Mīmānsa  (ii) ऋक्पादवद्भ्यो गीतस्त साम, गद्यं यजुर् मन्त्रः। चतुर्ष्वपि हि वेदेषु त्रिधैव विनियुज्यते॥  Shad Guru Sisya, Sarvanu Kramani Vritti (भूमिका)").
+(3) The Book of Songs or the Saman[^4] तेषां ऋग् यत्र अर्थवशेन पादव्यवस्था।(2-1-32) गीतिषु समाख्या (2-1-33) शेषे यजुः शब्दः।(2-1-34)  Jaimini Pūrva Mīmānsa  (ii) ऋक्पादवद्भ्यो गीतस्त साम, गद्यं यजुर् मन्त्रः। चतुर्ष्वपि हि वेदेषु त्रिधैव विनियुज्यते॥  Shad Guru Sisya, Sarvanu Kramani Vritti (भूमिका)").
 
- On account of this tripartite division, the Veda is known as [Trayi](# "Satapath Brahmana, 4-6-7-1")or the Great Triad. The Amara Kosa calls it
+[^4]: "(i
+
+ On account of this tripartite division, the Veda is known as Trayi[^23]or the Great Triad. The Amara Kosa calls it
+
+[^23]: "Satapath Brahmana, 4-6-7-1"
 
 
 
-[Trayi](# "स्त्रियां ऋक्सामयजुपी इति वेदास् त्रयस् त्रयी।"),the Gita calls it [Trayi](# "Gita, 9-20, 9–21"), and the Buddhist gave to it the name of [Tevijja](# "Tevijja Sutta, in Book 1 (Diggha Nikaya) of the SuttaPitaka"), &c.
+Trayi[^24],the Gita calls it Trayi[^25], and the Buddhist gave to it the name of Tevijja[^26] of the SuttaPitaka"), &c.
 
- The Atharva Veda, as the name indicates, is the Sequel to the [Veda](# "अथ+ऋ+वनिप=अथर्व (Nighantu 5-5-13)अथ=after, ऋ=to go अथर्व=that which comes afterwards, or is a sequel.") It is divided into two *[parts](# "(i) Winternitz-Indian Literature,Vol.I,p.120. (ii) Vishnu Puran-Part III,Chap.6,Sloka 9–10,"),* the Upastha of the Bhargavas, and the Nigama of the Angirasas. And on that account the Atharva Veda is called the Bhrigu-Angirasi[Samhita.](# "Macdonell-History of Sanskrit Literature,p.112.") The Gopatha Brāhmana refers to the priest of the Atharva Veda as one proficient in [Bhrigu-Angira](# "Gopatha Brahmana,2–2–5").
+[^24]: "स्त्रियां ऋक्सामयजुपी इति वेदास् त्रयस् त्रयी।"
+
+[^25]: "Gita, 9-20, 9–21"
+
+[^26]: "Tevijja Sutta, in Book 1 (Diggha Nikaya
+
+ The Atharva Veda, as the name indicates, is the Sequel to the Veda[^27]अथ=after, ऋ=to go अथर्व=that which comes afterwards, or is a sequel.") It is divided into two *parts[^4] Winternitz-Indian Literature,Vol.I,p.120. (ii) Vishnu Puran-Part III,Chap.6,Sloka 9–10,"),* the Upastha of the Bhargavas, and the Nigama of the Angirasas. And on that account the Atharva Veda is called the Bhrigu-AngirasiSamhita.[^29] The Gopatha Brāhmana refers to the priest of the Atharva Veda as one proficient in Bhrigu-Angira[^30].
+
+[^4]: "(i
+
+[^27]: "अथ+ऋ+वनिप=अथर्व (Nighantu 5-5-13
+
+[^29]: "Macdonell-History of Sanskrit Literature,p.112."
+
+[^30]: "Gopatha Brahmana,2–2–5"
 
  At the time of the composition of the Atharva Veda the Aryans had been divided into two opposite camps– hargavas and Angirasas. The difference arose on the question of Image Worship.
 
- The Vedic people were accustomed to offer worship, both with the help of an image, and also without the help of any. They conceived God to be corporal as well as incorporal, and therefore called Him both Deva and Asura. What is now-a-days known as Idolatry and Iconoclasm, are exactly the significance of the Deva and the Asura cults. The adjective 'Asura' is derived from the noun Asu (lifebreath) and thus means breath-like or formless as the breath i.e. incorporal. The word 'Deva' is derived from the root ['Div'](# "देवो दानाद् वाद्योतनाद् वा द्युसथानो वा भवति।—Nirukta,7–15.") (to represent) and therefore means representative or symbolical i.e corporal.
+ The Vedic people were accustomed to offer worship, both with the help of an image, and also without the help of any. They conceived God to be corporal as well as incorporal, and therefore called Him both Deva and Asura. What is now-a-days known as Idolatry and Iconoclasm, are exactly the significance of the Deva and the Asura cults. The adjective 'Asura' is derived from the noun Asu (lifebreath) and thus means breath-like or formless as the breath i.e. incorporal. The word 'Deva' is derived from the root 'Div'[^31] (to represent) and therefore means representative or symbolical i.e corporal.
+
+[^31]: "देवो दानाद् वाद्योतनाद् वा द्युसथानो वा भवति।—Nirukta,7–15."
 
  In the earlier period of the Vedic age, Rudra, the Supreme Lord used to be conceived both as carnate and also as disincarnate. When a symbol or image was used of Him
 
@@ -481,19 +543,27 @@ he was addressed as 'Indra'. Worshipped as incorporal or formless, he was addres
 
   The Atharva Veda is different from the Veda Trayi in origin and character.
 
- "The Atharva Veda is a comparatively late addition to the three ancient Vedas...Rik, Yajus and [Saman".](# "Griffith The Hymns of the Atharva Veda, Preface, p.iii")
+ "The Atharva Veda is a comparatively late addition to the three ancient Vedas...Rik, Yajus and Saman".[^32]
 
- "The language of the Atharva Veda is, from a grammatical point of view, decidedly later than that of the Rig Veda, but earlier than that of the [Brahmanas".](# "Macdonell—History of Sanskrit Literature, p.196.")
+ "The language of the Atharva Veda is, from a grammatical point of view, decidedly later than that of the Rig Veda, but earlier than that of the Brahmanas".[^33]
+
+[^32]: "Griffith The Hymns of the Atharva Veda, Preface, p.iii"
 
  "The existing redactions of the Atharva Veda betray them as later than the Rig Veda redaction, by the character
 
+[^33]: "Macdonell—History of Sanskrit Literature, p.196."
 
 
-of the variants in those Mantras which they share with the Rig [Veda."](# "Bloomfield Hymns of the Atharva Veda, Introduction,p.31.")
 
- The two striking features about the metre of the Atharva Veda are (1) extreme irregularity, and (2) predominance of Anustubha stanza. The stanzas in Gayatri and Tristubh are comparatively rare, the Atharva Veda in this respect presenting a sharp contrast with the Rig [Veda."](# "Whitney-Atharva Veda, Introduction,p.126.")
+of the variants in those Mantras which they share with the Rig Veda."[^34]
+
+ The two striking features about the metre of the Atharva Veda are (1) extreme irregularity, and (2) predominance of Anustubha stanza. The stanzas in Gayatri and Tristubh are comparatively rare, the Atharva Veda in this respect presenting a sharp contrast with the Rig Veda."[^35]
+
+[^34]: "Bloomfield Hymns of the Atharva Veda, Introduction,p.31."
 
  The Mahabharata also narrates the story as to how the Atharva Veda obtained the status of a Veda, through the grace of Indra.
+
+[^35]: "Whitney-Atharva Veda, Introduction,p.126."
 
 **अथर्वाङ्गिरसो नाम वेदे अस्मिन् वै भविष्यति।**
 
@@ -513,21 +583,33 @@ of the variants in those Mantras which they share with the Rig [Veda."](# "Bloom
 
  Thus the Atharva Veda is subsequent to the Veda Trayi in origin. It is also different from them in the nature of its contents.
 
- "The difference of nomenclature between the three Vedas on the one side and the Atharvan on the other, is an important and profound one in the history of Vedic literature. We are led to two main divisions of Vedic literature.........the three Vedas with their Soma sacrifices, and the Atharva Veda with the house-[ceremonies."](# "Bloomfield-Atharva Veda and Gopatha Brahmana,p.2.")
+ "The difference of nomenclature between the three Vedas on the one side and the Atharvan on the other, is an important and profound one in the history of Vedic literature. We are led to two main divisions of Vedic literature.........the three Vedas with their Soma sacrifices, and the Atharva Veda with the house-ceremonies."[^36]
 
- The homely practices of the Atharva Veda may have been in charge of the Fire-priests (Athar-vans) in distinction from Soma [priests."](# "Ibid,p.9.")
+ The homely practices of the Atharva Veda may have been in charge of the Fire-priests (Athar-vans) in distinction from Soma priests."[^37]
+
+[^36]: "Bloomfield-Atharva Veda and Gopatha Brahmana,p.2."
 
 
+[^37]: "Ibid,p.9."
 
- Whatever may be this due to, in the early days of every literature, poetry outgrows prose. One of the reasons may be that it is easier to recollect poetry and to transmit it to the succeeding generation. This was not a small consideration in those days when the art of writing, not to say of printing, was yet to be known. Be the reason what it may, the Yajus or the prose portion of the Veda, is incomparably small. The whole of the independent portion of the Yajus Veda would not exceed even one hundred sentences. Similarly the domain of poetry and that of song overlap each other, for poetry put to tune, is song. Thus these two varieties of composition coalesce. If one would count those verses of the Sama Veda, which for some reason or other do not find a place in the body of the Rig Veda, their number would not exceed 75 [stanzas.'](# "Macdonell History of Sanskrit Literature, p.171.") The Rig Veda alone is an independent composition; the other two books were compiled for liturgical purposes.
 
- "The Rig Veda is original and historical, the other two Saman and Yajus, are merely liturgical [compilation.'](# "Griffith-Hymns of the Atharva Veda, Preface, p. 2.")
+ Whatever may be this due to, in the early days of every literature, poetry outgrows prose. One of the reasons may be that it is easier to recollect poetry and to transmit it to the succeeding generation. This was not a small consideration in those days when the art of writing, not to say of printing, was yet to be known. Be the reason what it may, the Yajus or the prose portion of the Veda, is incomparably small. The whole of the independent portion of the Yajus Veda would not exceed even one hundred sentences. Similarly the domain of poetry and that of song overlap each other, for poetry put to tune, is song. Thus these two varieties of composition coalesce. If one would count those verses of the Sama Veda, which for some reason or other do not find a place in the body of the Rig Veda, their number would not exceed 75 stanzas.'[^38] The Rig Veda alone is an independent composition; the other two books were compiled for liturgical purposes.
+
+[^38]: "Macdonell History of Sanskrit Literature, p.171."
+
+ "The Rig Veda is original and historical, the other two Saman and Yajus, are merely liturgical compilation.'[^39]
 
  Thus though consisting of three books, viz: Yajus, Rik and Saman, it is to the Rig Veda or the Book of Poetry, that the name 'Veda' primarily applies. It is the Veda par excellence.
 
- The Rig Veda consists of 1017 hymns. These hymns are of different length. Some of the hymns consist of 3 or 4 stanzas only, while others go up to the length of 40 or 50 stanzas. The volume of the Rig Veda is pretty large.........being equal to the surviving poems of [Homer.](# "Macdonell History of Sanskrit Literature, p.1.")
+[^39]: "Griffith-Hymns of the Atharva Veda, Preface, p. 2."
 
- The Veda is predominantly religious. That is to say, the seers of the Veda recognize a Higher Being who is the source of all that is best in man, and to whom they turn for uplift and redemption. The majority of the hymns in the Veda are prayers to [God,](# "Ghate-Lectures on Rig-Veda, p.123.")and are intended to be used as litanies in Divine Service.
+ The Rig Veda consists of 1017 hymns. These hymns are of different length. Some of the hymns consist of 3 or 4 stanzas only, while others go up to the length of 40 or 50 stanzas. The volume of the Rig Veda is pretty large.........being equal to the surviving poems of Homer.[^40]
+
+ The Veda is predominantly religious. That is to say, the seers of the Veda recognize a Higher Being who is the source of all that is best in man, and to whom they turn for uplift and redemption. The majority of the hymns in the Veda are prayers to God,[^41]and are intended to be used as litanies in Divine Service.
+
+[^40]: "Macdonell History of Sanskrit Literature, p.1."
+
+[^41]: "Ghate-Lectures on Rig-Veda, p.123."
 
 
 
@@ -626,9 +708,11 @@ of the same Infinite. Thus the Sun, the Himalaya or Sage Kakshivan, are differen
 
 Yet it does not appear how after having reached to the worship of one God, the Veda could climb down to polytheism again. The polytheism has thus rightly been suspected to be only apparent, but it has not yet been explained how.
 
- It has been said that the use of many names does not necessarily imply many gods. Some of the many names may be explained by the theory, that two gods originally belonging to two different peoples, came to be identified with each other, when these two people coalesced politically. The two different names used by those two clans were retained, but they were applied to one and the same deity. Thus Pushan of the Medes, seems to have combined with Bhaga of the Persians. Pushan is called an Asura (Rig Veda, 5-54-11) and god of Iran (Rig Veda 6-58-4), while Bhaga is mentioned in the inscriptions of [Darius.](# "Browne-Literary History of Persia,Vol.I.")
+ It has been said that the use of many names does not necessarily imply many gods. Some of the many names may be explained by the theory, that two gods originally belonging to two different peoples, came to be identified with each other, when these two people coalesced politically. The two different names used by those two clans were retained, but they were applied to one and the same deity. Thus Pushan of the Medes, seems to have combined with Bhaga of the Persians. Pushan is called an Asura (Rig Veda, 5-54-11) and god of Iran (Rig Veda 6-58-4), while Bhaga is mentioned in the inscriptions of Darius.[^42]
 
  Some of the other names may be explained on the principle of religious synonyms. Just as many secular objects have got more than one name, and one of such names lays stress on some one aspect of the thing, and another name on another aspect, so also is the case with the names of the Divine Being. Thus the name **'सविता'** lays stress on the fact that He created the universe,**'प्रजापति'** on and the fact that He is the lord of all. Matariswan lays stress on His mercy, and Vivaswan on His glory.
+
+[^42]: "Browne-Literary History of Persia,Vol.I."
 
  No doubt, a good many of the many names originated in this way. But can we assert that all the names that the Veda applies to God, originated this-wise?
 
@@ -679,13 +763,17 @@ Nasatyau– One-in-Two.
  That these are the main names of the Indo-Iranians would appear from the fact that they, and they alone are used in the famous Boghaz Kui inscription of the 14th century B. C.
 
 **मित्रस्य इलानि, वरुणस्य इलानि,  
-इन्द्र इलानि, नासत्यौ [अन्य](# "(i) Griswold—God Varuna in the Rig Veda, F. 29. (ii) Griswold-The Religion of the RigVeda,p.114. (iii) Bloomfield-Religion of the Veda,p.121.")। **
+इन्द्र इलानि, नासत्यौ अन्य[^4] Griswold—God Varuna in the Rig Veda, F. 29. (ii) Griswold-The Religion of the RigVeda,p.114. (iii) Bloomfield-Religion of the Veda,p.121.")। **
+
+[^4]: "(i
 
  Thus the worship of dual gods in the Veda is not an indication of polytheism. It merely points to the existence of two different sects in the Vedic church- one given to the Iconic and the other to the an-Iconic form of worship.
 
  It should, however, be noted that the three limbs of the sacrifice viz (1) the Priest, (2) Fire and (3) the Libation have also been sometimes euphemistically called 'God'. Priest is the 'Brihaspati' and the 'Brahmanaspati' is equal to God. And the libation (Soma) is nearly god, while fire in its three aspects (1) Sun-Surya, (2)Lighting- 'Parjanya ' and (3) Fire (Agni) is also said to be god.
 
- We would not thus miss the import of the Veda if we remember that Rudra is the supreme God of the Veda, and Indra (Vishnu) and Varuna (Medhas) are His two aspects incarnate and disincarnate.Jointly they were called either (1) [Mitra](# "Sometimes Indra is named, and the Varuna aspect is denoted by the word Mitra. At other times Varuna is named, and the Indra aspect is denoted by the word Mitra."), or (2) Aswin, according as their association was looked at from two different angles of vision. They might be thought of as forming One-in-Two, or Two-in-One.
+ We would not thus miss the import of the Veda if we remember that Rudra is the supreme God of the Veda, and Indra (Vishnu) and Varuna (Medhas) are His two aspects incarnate and disincarnate.Jointly they were called either (1) Mitra[^44], or (2) Aswin, according as their association was looked at from two different angles of vision. They might be thought of as forming One-in-Two, or Two-in-One.
+
+[^44]: "Sometimes Indra is named, and the Varuna aspect is denoted by the word Mitra. At other times Varuna is named, and the Indra aspect is denoted by the word Mitra."
 
 
 
@@ -697,7 +785,9 @@ As Two-in-One the name of Mitra was given to them, and so One-in-Two, the name A
 
  An attempt has been made here to make a collection of all the fundamental Riks and arrange them on the principles of Karma, Bhakti and Jnana Yoga. It is desirable that a hand-book of Vedic Riks should supercede all other books of hymns that are current in the Vedic Churches, and whose existence serves merely to divide the much divided Aryans still further. The other hymn-books may supplement, but should never be allowed to supplant a Vaidik Gita. To have too many Scriptures is as bad as having none at all. To have two generals on the battlefield, is disastrous. It is far better to have the undivided command of one general, even though he may be less illustrious.
 
- It is said that “the ancient Hindu Mind acknowledged all the Gods, but not [the Supreme God.](# " Farquhar Outline of Religious Literature of India, p. 135.")”That is true of the Scripture as well. Every book was a scripture to them up to the verses of Satya Pir, but there was not a supreme Scripture. Thus instead of strengthening the nation, the Scriptures only served to weaken it. The time is now ripe, when a hand-book of Vedic Riks, a 'Guru Grantha' culled from the Veda, would enable the vision of Guru Govida to come true. Collectively speaking the Hindu professes his
+ It is said that “the ancient Hindu Mind acknowledged all the Gods, but not the Supreme God.[^45]”That is true of the Scripture as well. Every book was a scripture to them up to the verses of Satya Pir, but there was not a supreme Scripture. Thus instead of strengthening the nation, the Scriptures only served to weaken it. The time is now ripe, when a hand-book of Vedic Riks, a 'Guru Grantha' culled from the Veda, would enable the vision of Guru Govida to come true. Collectively speaking the Hindu professes his
+
+[^45]: " Farquhar Outline of Religious Literature of India, p. 135."
 
 
 
@@ -721,11 +811,15 @@ religion and the Sikh practises it. Thus the Hindu does not count, whereas the S
 
 
 
-act of sacrilege, while to the modern critic, this is equal to destroying the context. But the objection is not as formidable as it looks to be. For it should not be forgotten that the present arrangement of the Vedic text, is only the last of the arrangements. It is not the only arrangement. According to the puranic tradition, the disciples of Vyasa made different arrangements of the hymns. According to the Vedic traditions there were different readings following different Sākhās and Charanas. The current opinion is that the present arrangement was made by Rishi Dwaipayana, and that is why he was called Veda Vyasa. The modern reader need not ridicule the tradition. All the Riks of the Veda do not belong to the same age.Some of them belong to the period when the Indians and the Iranians still formed the same people. This is why 'Asura' is a term of honour in the early books of the Rig Veda. Savants like Tilak go further and hold, that some Riks belong to the arctic age, i. e., as early as the 4th millenium B. C. Later Riks, however, belong to the period of the Mahabharata War. There is clear reference to Maharaja Parikshit in the last (20th) book of the [Atharva Angırasa Veda.](# "कतरत् ते आहराणि दधि मन्था परिऋतम्। जाया पतिं विपूच्छति राष्ठे राजः परिक्षितः॥  Atharva Angirasa Veda, 20-127-9   In the land of king Parikshit, the wife asks the husband,'How much of good fresh curd is thy need?'") Reference to Parikshit proves that the extant arrangement was made somewhere near about his reign, so that the hand of Dwaipayana may not be invisible. Mahabharata war is, on astronomical grounds, held to have taken place in the 15th century B. C.In any case it was considerably later than the Indo-Iranian War, which in the Veda, is called Dasarajna, or the War of the Ten Kings. It is unreasonable to think that the Riks were hanging loose for about two thousand years, till Veda Vyasa made the present redaction in the time of Parikshit. There must have been previous redactions. What guarantee is there, that in the early redactions as well, the same grouping of the Riks had been prevalent as we find existent in
+act of sacrilege, while to the modern critic, this is equal to destroying the context. But the objection is not as formidable as it looks to be. For it should not be forgotten that the present arrangement of the Vedic text, is only the last of the arrangements. It is not the only arrangement. According to the puranic tradition, the disciples of Vyasa made different arrangements of the hymns. According to the Vedic traditions there were different readings following different Sākhās and Charanas. The current opinion is that the present arrangement was made by Rishi Dwaipayana, and that is why he was called Veda Vyasa. The modern reader need not ridicule the tradition. All the Riks of the Veda do not belong to the same age.Some of them belong to the period when the Indians and the Iranians still formed the same people. This is why 'Asura' is a term of honour in the early books of the Rig Veda. Savants like Tilak go further and hold, that some Riks belong to the arctic age, i. e., as early as the 4th millenium B. C. Later Riks, however, belong to the period of the Mahabharata War. There is clear reference to Maharaja Parikshit in the last (20th) book of the Atharva Angırasa Veda.[^46] Reference to Parikshit proves that the extant arrangement was made somewhere near about his reign, so that the hand of Dwaipayana may not be invisible. Mahabharata war is, on astronomical grounds, held to have taken place in the 15th century B. C.In any case it was considerably later than the Indo-Iranian War, which in the Veda, is called Dasarajna, or the War of the Ten Kings. It is unreasonable to think that the Riks were hanging loose for about two thousand years, till Veda Vyasa made the present redaction in the time of Parikshit. There must have been previous redactions. What guarantee is there, that in the early redactions as well, the same grouping of the Riks had been prevalent as we find existent in
+
+[^46]: "कतरत् ते आहराणि दधि मन्था परिऋतम्। जाया पतिं विपूच्छति राष्ठे राजः परिक्षितः॥  Atharva Angirasa Veda, 20-127-9   In the land of king Parikshit, the wife asks the husband,'How much of good fresh curd is thy need?'"
 
 
 
-the present redaction? That is merely a probability, and the words of Professor Whitney would bring the reader to hesitate whether there is any point in sticking to the beaten track. "However diverse in subject matter two successive suktas may be, we rightly expect unity of subject within the limits of what is truly one and the same sukta. It is this inherent unity of the subject which justifies their inclusion into the same[sukta".](# " Whitney-Atharva Veda (Introduction)."). Thus the unity of the subject is the only criterion for determining the integrity of a hymn. Without such re-arrangement based on the unity ofthought, the Veda would never come to be popular. For highly philosophical Riks are sometimas found bracketted together, with merely a trifling or a commonplace one. It is desirable to bring the wheats together, so that time may not be lost on the tare.
+the present redaction? That is merely a probability, and the words of Professor Whitney would bring the reader to hesitate whether there is any point in sticking to the beaten track. "However diverse in subject matter two successive suktas may be, we rightly expect unity of subject within the limits of what is truly one and the same sukta. It is this inherent unity of the subject which justifies their inclusion into the samesukta".[^47]."). Thus the unity of the subject is the only criterion for determining the integrity of a hymn. Without such re-arrangement based on the unity ofthought, the Veda would never come to be popular. For highly philosophical Riks are sometimas found bracketted together, with merely a trifling or a commonplace one. It is desirable to bring the wheats together, so that time may not be lost on the tare.
+
+[^47]: " Whitney-Atharva Veda (Introduction
 
  A selection of the Vedic Riks– as a hand-book for one and all to be used in daily prayer, is an imperative necessity. May such a selection unite all the five limbs of the Vedic Church.
 
@@ -825,7 +919,9 @@ current of Godwardness continously flow in his sub-conscious mind. It is par exc
 
  The dual aspect of the Lord– his material and moral aspect, the carnate and disincarnate aspect, strongly touched the imagination of the Vedic Rishi, and there were a lot of people who were equally fond of both the phases. They revelled to think of Him in both the aspects. Some of them emphasised the doubleness of the same entity, and addressed Him as Mitra (Two-in-One), while others emphasised the unity of two aspects, and called him Aswinau (One-in-Two). Chapters 7 and 8 describe these two viewpoints. Wherever in the Veda there is any Rik, addressed to a Pair of Gods, it is to be understood, that the two aspects of Rudra, (the Indra Aspect and the Varuna aspect) are being jointly thought of.
 
- But the play of imagination on the different aspects of the Lord, and the different names given to such aspects, might result in the Unity of Godhead being lost sight of. Thus chapter 9 repeats that unity in the most emphatic way possible. The name that is applied to the Supreme Lord, as apart from his Incarnate or Disincarnate aspects– the name of the one Lord who is both Deva and Asura, and whom therefore both the icnolater Hindu and the Iconoclast Parsi may vie to adore, is Rudra or the Bright [One](# " Cf.-रौद्र-sunshine") (the same word as English ‘Lord'). Rudra is the most familiar name, but Savitar (Creator), Prajapti (King of the Universe), Pushan (Providence), Twastar (Architect), Brihaspati (Lord of speech), Brahma (the Great)are also his other names.
+ But the play of imagination on the different aspects of the Lord, and the different names given to such aspects, might result in the Unity of Godhead being lost sight of. Thus chapter 9 repeats that unity in the most emphatic way possible. The name that is applied to the Supreme Lord, as apart from his Incarnate or Disincarnate aspects– the name of the one Lord who is both Deva and Asura, and whom therefore both the icnolater Hindu and the Iconoclast Parsi may vie to adore, is Rudra or the Bright One[^48] (the same word as English ‘Lord'). Rudra is the most familiar name, but Savitar (Creator), Prajapti (King of the Universe), Pushan (Providence), Twastar (Architect), Brihaspati (Lord of speech), Brahma (the Great)are also his other names.
+
+[^48]: " Cf.-रौद्र-sunshine"
 
  The different names do not refer to different Deities, but to the same Deity. He is sometimes figuratively called Agni as well, the symbol being used for the thing symbolised. It is our duty to adore Rudra and Rudra alone, Chapter 11 tells us that. It also tells us, that adoration is a form of love, and love is personal and individual (and to a certain extent reciprocal). That is to say, love is alway particular
 
@@ -877,11 +973,13 @@ While the existence of the "Higher Self" is pointed out by the lines.
 
 
 If God does not wish them, and still they persist, the God is not Omnipotent.  
-  A solution is offered by postulating a perpetual fight, between the good and the evil, between Allah and Iblish, between Khoda and Satan, between Indra and Vritra and between Mazda and [Vritra.](# "Yasna, 44–16.")  
+  A solution is offered by postulating a perpetual fight, between the good and the evil, between Allah and Iblish, between Khoda and Satan, between Indra and Vritra and between Mazda and Vritra.[^49]  
  This solution, however, does not go to the root of the matter, for unless seen in the proper prospective, it is very misleading. The Semitic Religions did not realise the implication of such a perpetual fight. They failed to see that it makes Satan co-ordinate with, and a rival of God. The supposition of the ultimate triumph of God would appear arbitray.  
  The Aryan Philosophers did not stop short with Bhakti Yoga. They proceeded on to Jnana Yoga, and envisaged the ultimate Reality, which is beyond all Dualism, and where therefore victory and defeat, or good and evil, lose all their significance. The Brahma is above all contradictions; in the Absolute all contradictions are reconciled. The truth of the above conclusion is proved as ably by Sankara as by Hegel.  
  The Brahma is the truth of the Vedanta, and Sankara meets the problem of Dualism with his theory of the Maya.  
  Owing to the regrettable ignorance of the Veda, it is generally supposed that Sankara got his inspiration from the Upanisads. Scholars are not disposed to go beyond. It. is not realised how beautifully the Veda deals with the matter. Bhakti Yoga and the whole of its imagery are swept clean by this beautiful Rik, with a suddenness that will make the Orthodox devotee look aghast.
+
+[^49]: "Yasna, 44–16."
 
 **यद् अचरस् तन्वा वावृधानी,  
 बलानीन्द्र ब्रुवाणो जनेषु।  
@@ -5337,3 +5435,64 @@ Price–As. 4
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^43]: "(i
+
+
+[^28]: "(i
+
+
+[^22]: "(i

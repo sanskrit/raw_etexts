@@ -2925,7 +2925,9 @@ Ex
 
 
 
- [Ex. Let the kings\*](# "* The foes of the speaker.") bend at once their heads or their bows.
+ Ex. Let the kings\*[^1] bend at once their heads or their bows.
+
+[^1]: "* The foes of the speaker."
 
  Here, we see the impossibility of simultaneous action of the bending of the heads and that of the bows which are opposed to each other, the former being the mark of surrender and the latter, of war.
 
@@ -3610,13 +3612,17 @@ Ex.
 
 |                                                        |                                                                                                                        |
 |--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| प्रकृतार्थानाम् of the words servingthe sense on hand | चतुरास्यः[having](# "चतुरं आस्यं यस्य सः ") handsome face or [four](# "चत्वारि आस्यानि यस्य सः") headedGod Brahmā |
+| प्रकृतार्थानाम् of the words servingthe sense on hand | चतुरास्यःhaving[^2] handsome face or four[^3] headedGod Brahmā |
 | क्रमिकं serial                                        | लक्ष्म्याः of riches=of Goddess Lakshmī                                                                                |
 | न्यासम् putting                                        | पतिः lord                                                                                                              |
 | रत्नावलीम् The Jewelled Necklace                       | सर्वज्ञः omniscient or God Siva.                                                                                      |
 | विदुः (poets) know                                     |                                                                                                                       |
 | महीपते O king!                                        |                                                                                                                       |
 | त्वम् thou                                             |                                                                                                                       |
+
+[^2]: "चतुरं आस्यं यस्य सः "
+
+[^3]: "चत्वारि आस्यानि यस्य सः"
 
  Def. Ratnāvalī is a figure containing a number of words serving the sense on hand but put in an established order of succession (with reference to objects not on hand).
 
@@ -3653,8 +3659,10 @@ Ex.
 
  Ex. O Lady! The pearl of the nose-ornament becomes a *padmarāga* ruby by coming in contact with the luster of thy (red) lower lip.
 
- Here, the colour of the lady's lower lip, being superior, makes the white pearl of her nose ornament appear like a [padmarāga ruby.\*](# " The pearl has been eclipsed by the lady's lip.")
+ Here, the colour of the lady's lower lip, being superior, makes the white pearl of her nose ornament appear like a padmarāga ruby.\*[^4]
 
+
+[^4]: " The pearl has been eclipsed by the lady's lip."
 
 
 LXXVI\. **पूर्वरूपम्—**The Original.
@@ -4339,12 +4347,14 @@ Ex.
 
 |                                               |                                                                                                         |
 |-----------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| यत् which                                     | पञ्चम + उदञ्चने काले [in the spring season](# "In the season in which panchama note becomes manifest.") |
+| यत् which                                     | पञ्चम + उदञ्चने काले in the spring season[^5] |
 | सिद्धस्य एव of that thing previously effected | कोकिलः kokila bird or the Indian cuckoo                                                                 |
 | विधानम् declaration                          | कोकिलः kokila, *i.e.*, charming                                                                         |
 | तत् that                                      | भवेत् shall become.                                                                                     |
 | विधि + अलंकृतिम् the figure Fitness           |                                                                                                        |
 | आहुः the learned call                         |                                                                                                        |
+
+[^5]: "In the season in which panchama note becomes manifest."
 
  Def. A declaration of a thing previously effected, the learned call as the figure Fitness.
 
@@ -4390,8 +4400,10 @@ C.**हेतुः—**The Cause.
 |                                                                                                                     |                                                   |
 |---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
 | प्रचक्षते call                                                                                                      | कटाक्षाः glances                                 |
-| वेङ्कटप्रभोः of the Lord of the mount [venkaṭa](# "Or the King Venkata, the patron of our author Appaya Dikshita.") | विदुषाम् of learned poet                          |
+| वेङ्कटप्रभोः of the Lord of the mount venkaṭa[^6] | विदुषाम् of learned poet                          |
 |                                                                                                                    | लक्ष्मीविलासाः graces of the goddess of fortune. |
+
+[^6]: "Or the King Venkata, the patron of our author Appaya Dikshita."
 
  Def. The identity of a cause with its effect is reckoned by some as the figure the Cause.
 
@@ -4920,7 +4932,9 @@ Ex.
 किमाराध्यं सदा पुण्यं कश्च सेव्यः सदागमः।  
 को ध्येयो भगवान् विष्णुः किं काम्यं परमं पदम्॥
 
- What is ever to be practised—[virtue.](# " 'and not sin' is understood.") What is to be resorted to— the study of good science. Who is to be meditated upon the God Vishnu. Which is to be desired the abode of Vishnu or final beatitude.
+ What is ever to be practised—virtue.[^7] What is to be resorted to— the study of good science. Who is to be meditated upon the God Vishnu. Which is to be desired the abode of Vishnu or final beatitude.
+
+[^7]: " 'and not sin' is understood."
 
 
 
@@ -4976,7 +4990,9 @@ Ex
 
 ** अतनुः—**'non-assumption of the body' is the reason for **अग्रे अनतिभाक्** 'non-salutation in the future birth' and we have **काव्यलिंग** in a single word. **नमन्मुक्तः** 'final emancipation by saluting' is the reason for **अतनुः** 'non-assumption of the body and this fact having been expressed by two words **नमन्मुक्तः,** we have the Poetical Reason in more than one word.
 
-* N.B.—*This figure occuring in a sentence should not be confounded with the figures **अर्थान्तरन्यास** 'Tran- sition' (59) nor with **अनुमानम्** '[Inference';](# "This figure is not treated in this book.") \* on this, S. D. says as follows:***—*** In the province of poetry the reason is three-fold, as being Informative, Completive and Justificative (or Confirmative). Of these three sorts, the Infirmative Reason is the subject of the figure Inference, the Completive of the Poetical Reason and the Justificative of the Transition. Thus the Transition founded upon a causation is evidently distinct from the Poetical Reason.'
+* N.B.—*This figure occuring in a sentence should not be confounded with the figures **अर्थान्तरन्यास** 'Tran- sition' (59) nor with **अनुमानम्** 'Inference';[^8] \* on this, S. D. says as follows:***—*** In the province of poetry the reason is three-fold, as being Informative, Completive and Justificative (or Confirmative). Of these three sorts, the Infirmative Reason is the subject of the figure Inference, the Completive of the Poetical Reason and the Justificative of the Transition. Thus the Transition founded upon a causation is evidently distinct from the Poetical Reason.'
+
+[^8]: "This figure is not treated in this book."
 
 
 
@@ -5450,7 +5466,9 @@ In **SAMADHI**, the effect of an act through one cause is facilitated by the acc
 
 
 
-*samadhi* unequal causes. In **SAMUCHCHAYA 2ND KIND,** all causes are equally powerful in bringing out the same effect with emulation as the Maxim of the Threshing floor and the [Pegions\*](# " खले कपोतिकान्यायः")*, i.e.,* just as the pegions alight together upon a threshing floor, each with emulation.
+*samadhi* unequal causes. In **SAMUCHCHAYA 2ND KIND,** all causes are equally powerful in bringing out the same effect with emulation as the Maxim of the Threshing floor and the Pegions\*[^9]*, i.e.,* just as the pegions alight together upon a threshing floor, each with emulation.
+
+[^9]: " खले कपोतिकान्यायः"
 
 अर्थान्तरन्यास  
 61  
@@ -5579,3 +5597,12 @@ THE END.
 
 
 \]
+
+
+
+
+
+
+
+
+

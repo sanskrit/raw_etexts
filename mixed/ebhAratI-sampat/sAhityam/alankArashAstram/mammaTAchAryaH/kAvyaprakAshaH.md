@@ -155,7 +155,13 @@ D. T. C.
 
 INTRODUCTION
 
-Alaṅkāras have been [defined](# " उपकुर्वन्ति तं सन्तं येऽङ्गद्वारेण जातुचित्। हारादिवदलंकारास्तेऽनुप्रासोपमादयः॥ K. P.")by Mammaṭa in the eighth Ullāsa, as 'those which by beautifying a word and its sense generally serve to heighten a flavour, just as a necklace etc. by adorning the various limbs of the body serve to show a person to advanrage' In this book, he [says](# "वैचित्र्यं चालंकारः। Vide text p. 6.")that the Alankāra is 'strikingness' itself. Again he [says](# "सर्वत्र एवंविधविषयेऽतिशयोक्तिरेव प्राणत्वेनावतिष्ठते। Vide text P.109.")here that an extraordinary mode of statement constitutes the very life of an Alaṅkāra. From all this, it will appear that an Alaṅkāra corresponds to an English Figure of Speech which has been defined as 'A deviation from the plain and ordinary mode ofspeaking with a view to greater effect.
+Alaṅkāras have been defined[^1]by Mammaṭa in the eighth Ullāsa, as 'those which by beautifying a word and its sense generally serve to heighten a flavour, just as a necklace etc. by adorning the various limbs of the body serve to show a person to advanrage' In this book, he says[^2]that the Alankāra is 'strikingness' itself. Again he says[^3]here that an extraordinary mode of statement constitutes the very life of an Alaṅkāra. From all this, it will appear that an Alaṅkāra corresponds to an English Figure of Speech which has been defined as 'A deviation from the plain and ordinary mode ofspeaking with a view to greater effect.
+
+[^1]: " उपकुर्वन्ति तं सन्तं येऽङ्गद्वारेण जातुचित्। हारादिवदलंकारास्तेऽनुप्रासोपमादयः॥ K. P."
+
+[^2]: "वैचित्र्यं चालंकारः। Vide text p. 6."
+
+[^3]: "सर्वत्र एवंविधविषयेऽतिशयोक्तिरेव प्राणत्वेनावतिष्ठते। Vide text P.109."
 
  Alaṅkāras have been divided by Mammaṭa into three classes:—
 Alaṅkāras of word, Alaṅkāras of senses and Alaṅkāras of both. **अनुप्रास, यमक** etc. are Alaṅkāras of word,**उपमा, रूपक** etc. are Alankāras of sense, and **पुनरुक्तवदाभास** etc. are Alaṅkāras of both.
@@ -733,7 +739,9 @@ Miscellaneous.
 सत्यप्रीतिविधानदक्ष विजयप्राग्भावभीम प्रभो  
 साम्राज्यं वरवीर वत्सरशतं वैरिञ्चमुच्चैः क्रियाः॥३४॥
 
- अत्र, मानसमेव मानसम्, कमलायाः संकोच एव कमलानामसंकोचः, दुर्गाणाममार्गणमेव दुर्गायाः मार्गणम्, समितां स्वीकार एव समिधां स्वीकारः, सत्ये प्रीतिरेव सत्यामप्रीतिः, विजयः परपराभव एव विजयोऽर्जुनः, — एवमारोपणनिमित्तो हंसादेरारोपः। यद्यपि शब्दार्थालंकारोऽयमित्युक्तम्, वक्ष्यते च तथाऽपि प्रसिद्ध्यनुरोधादत्रोक्तः। [एकदेशविवर्ति](# "According to the ग ms of the Ānandāśrama edition of का. प्र. the reading is एकदेशवृत्ति हीदमन्यैरभिधीयते। This seems to be the correct reading as the word अन्यैः evidently refers to उद्भट who gives four varieties of रूपक–(1) समस्तवस्तुविषय, (2) एकदेशविवर्ति, (3) समस्तवस्तुविषय [मालारूपक ] and ( 4 ) एकदेशवृत्ति. The last variety is defined as एकदेशवृत्ति स्यात्पररूपेण रूपणात् which exactly tallies with the परम्परित type of मम्मट.")हीदमन्यैरभिधीयते।
+ अत्र, मानसमेव मानसम्, कमलायाः संकोच एव कमलानामसंकोचः, दुर्गाणाममार्गणमेव दुर्गायाः मार्गणम्, समितां स्वीकार एव समिधां स्वीकारः, सत्ये प्रीतिरेव सत्यामप्रीतिः, विजयः परपराभव एव विजयोऽर्जुनः, — एवमारोपणनिमित्तो हंसादेरारोपः। यद्यपि शब्दार्थालंकारोऽयमित्युक्तम्, वक्ष्यते च तथाऽपि प्रसिद्ध्यनुरोधादत्रोक्तः। एकदेशविवर्ति[^4] समस्तवस्तुविषय, (2) एकदेशविवर्ति, (3) समस्तवस्तुविषय [मालारूपक ] and ( 4 ) एकदेशवृत्ति. The last variety is defined as एकदेशवृत्ति स्यात्पररूपेण रूपणात् which exactly tallies with the परम्परित type of मम्मट.")हीदमन्यैरभिधीयते।
+
+[^4]: "According to the ग ms of the Ānandāśrama edition of का. प्र. the reading is एकदेशवृत्ति हीदमन्यैरभिधीयते। This seems to be the correct reading as the word अन्यैः evidently refers to उद्भट who gives four varieties of रूपक–(1
 
  "**नियेतति**। नियतस्य मुख्यस्यारोपो वस्त्वन्तरतादात्म्यप्रतीतिस्तस्योपायः कारणं यः परस्यामुख्यस्यारोपस्तत्परम्परितम्। रूपणानां कार्यकारणभावरूपा परम्परा संजाताऽत्रेति योगादिति केचित्। वस्तुतस्तु नियतमारोपणमुपायो यत्र। आरोपणं विना यदारोपणं न संभवत्येवेति यावत्। एवंभूतः परस्यान्यस्य य आरोपः स तथा। एवं चैकरूपणानन्तरं परम्परितम्। कार्यकारणभावरूपा
 
@@ -1523,8 +1531,10 @@ Miscellaneous.
 
  गुणस्य गुणेन यथा—**सततमिति**। हे नृपते सततं निरन्तरं मुसलेषु आसक्ताः बहुतरं यत् गृहकर्म रन्धनादि व्यापारः तस्य घटनया संपादनेन कठिनाः द्विजपत्नीनां कराः हस्ताः भवति दातरि सति सरोजवत् कमलवत् सुकुमाराः कोमलाः जाताः। "कठिनत्वकुसुमारत्वयोर्विरोधः" \[प्र०\]। “भवद्दानवशात् गृहव्यापारनिवृत्या तत्परिहारः” \[उ०\]।"
 
-**[पेशलमपि](# "पेलवमपि।") खलवचनं दहतितरां मानसं सुतत्त्वविदाम्।  
+**पेशलमपि[^5] खलवचनं दहतितरां मानसं सुतत्त्वविदाम्।  
 परुषमपि सुजनवाक्यं मलयजरसवत्प्रमोदयति॥९६॥**
+
+[^5]: "पेलवमपि।"
 
 **क्रौञ्चाद्रिरुद्दामहषदृृढोऽसौ यन्मार्गणाऽनर्गलशातपाते।  
 अभून्नवाम्भोजदलाऽभिजातः स भार्गवः सत्यमपूर्वसर्गः॥९७॥**
@@ -3324,7 +3334,9 @@ P
 
  ‘But,’ says an objector, ‘the three-fold division of Direct Comparion is still improper; for, in a Complete Direct Comparison, a compound is possible only between the **उपमान** and the word of comparison (as in the sentence **चन्द्र इव सुन्दरं मुखम्**, such sentences as **चन्द्र इव सुन्दरमुखम्**, **सुन्दरचन्द्र इव मुखम्, चन्द्रइवसुन्दरं मुखम्** are ungrammatical, the sense to be expressed by them being: ‘The face is as beautiful as the moon.’).
 
- Now, a compound with such a word of comparison as **यथा**, is not observed to occur, since **[यथा](# "यथाऽसादृश्ये। Páṇini (II.1.7.).")** is compounded with another word, only when it is not used in the sense of Comparison (as in **यथाविधि** &c.,), so that a complete Direct Comparison is impossible in a compound. To this objection, we reply that a compound of **इव** and a word expressive of the **उपमान** is possible according to (Kātyāyana’s Vārtika, which says:—)
+ Now, a compound with such a word of comparison as **यथा**, is not observed to occur, since **यथा[^6].")** is compounded with another word, only when it is not used in the sense of Comparison (as in **यथाविधि** &c.,), so that a complete Direct Comparison is impossible in a compound. To this objection, we reply that a compound of **इव** and a word expressive of the **उपमान** is possible according to (Kātyāyana’s Vārtika, which says:—)
+
+[^6]: "यथाऽसादृश्ये। Páṇini (II.1.7.
 
 
 
@@ -4037,7 +4049,9 @@ KĀRIKĀ VIII
 
  A Serial metaphor is a second variety of a **निरंग** metaphor. The word **सांगस्यैव** in Prad
 
-īpa is a mis-reading for **निरंगस्यैव**; [Prabhā](# "असाङ्गस्यैव शुद्धस्यैव। प्रभा."), however, appears to read **अथासांगस्यैव** for **अथ सांगस्यैव** and understands **असांगस्य** as **शुद्धस्य**. The word **पूर्ववत्** means ‘like comparison’ which is described before. *As in a serial Comparison* (or what is called the Garland of Comparisons,) one and the same objects (**उपमेय**) is successively compared to various other object (**उपमान**s) so (*in a serial Metaphor,*) the natures of various (*other objects*) *are* (*successively*) *attributed to one* (*object*).
+īpa is a mis-reading for **निरंगस्यैव**; Prabhā[^7], however, appears to read **अथासांगस्यैव** for **अथ सांगस्यैव** and understands **असांगस्य** as **शुद्धस्य**. The word **पूर्ववत्** means ‘like comparison’ which is described before. *As in a serial Comparison* (or what is called the Garland of Comparisons,) one and the same objects (**उपमेय**) is successively compared to various other object (**उपमान**s) so (*in a serial Metaphor,*) the natures of various (*other objects*) *are* (*successively*) *attributed to one* (*object*).
+
+[^7]: "असाङ्गस्यैव शुद्धस्यैव। प्रभा."
 
  The word **पूर्ववत्**, in this Sūtra, shows that the author of the Kārikās and the author of the Vṛtti are one and the same person. For the word²**पूर्ववत्** refers to ‘the Garland of Comparisons’ which has been mentioned in the Vṛtti (*vide* page 20), and not in any of the previous Sūtras.
 
@@ -4077,9 +4091,15 @@ apprehended from them, through suggestion originating in the power of denotation
 
  The superimposition of the lake**मानस** on the ‘mind’ is founded in this common property that the words meaning the ‘mind’ and the ‘lake **मानस’** are the same. And it has been pointed out in the 9th Ullāsa, that the sameness of words may also serve as a common property for Comparison or Metaphor. In other words, these figures may also be founded on a mere verbal resemblance.
 
- *Although this i.e.* the Consequential Metaphor founded on a paronomasia, *has been declared*, by the Ancients, (or according to Prabhā, in the 9th Ullāsa)¹ *and will* (*also*) *be declared* by us at the end of this Ullāsa), to be a figure belonging to both a word and a sense, inasmuch as certain words like **हंस** here are capable of enduring an exchange with other words, and certain others like **मानस** are, not, and therefore, although it does not deserve to be treated here, since here only **अर्थालंकार**s are treated, *still, it has been treated here* among the figures of sense, *in obedience to* (*the*) *practice* of such ancient rhetoricians as the author of [**अलंकारसर्वस्य**](# " In अलंकारसर्वस्य—This verse is quoted as an example of श्लिष्टशब्दमालापरम्परितम् (P. 33).")who hold that a **श्लेष** sets aside a **रूपक** (and an **अर्थालंकार** alone will set aside an**अर्थालंकार**), and who regardall **श्लेष**to be but an **अर्थालंकार**. [Others](# ". अन्यैरिति। उद्भटाद्यैः परम्परितमेव एकदेशावृत्तिनाम्ना ऊचे। San.")like Udbha
+ *Although this i.e.* the Consequential Metaphor founded on a paronomasia, *has been declared*, by the Ancients, (or according to Prabhā, in the 9th Ullāsa)¹ *and will* (*also*) *be declared* by us at the end of this Ullāsa), to be a figure belonging to both a word and a sense, inasmuch as certain words like **हंस** here are capable of enduring an exchange with other words, and certain others like **मानस** are, not, and therefore, although it does not deserve to be treated here, since here only **अर्थालंकार**s are treated, *still, it has been treated here* among the figures of sense, *in obedience to* (*the*) *practice* of such ancient rhetoricians as the author of **अलंकारसर्वस्य**[^8].")who hold that a **श्लेष** sets aside a **रूपक** (and an **अर्थालंकार** alone will set aside an**अर्थालंकार**), and who regardall **श्लेष**to be but an **अर्थालंकार**. Others[^9]like Udbha
 
-ṭa [declare](# "उक्तम्। नवमे इत्यर्थः। प्रभा.")this to be an **एकदेशविवर्तिरुपक**, which it cannot be unless it is admitted as a figure of sense.
+[^8]: " In अलंकारसर्वस्य—This verse is quoted as an example of श्लिष्टशब्दमालापरम्परितम् (P. 33
+
+[^9]: ". अन्यैरिति। उद्भटाद्यैः परम्परितमेव एकदेशावृत्तिनाम्ना ऊचे। San."
+
+ṭa declare[^10]this to be an **एकदेशविवर्तिरुपक**, which it cannot be unless it is admitted as a figure of sense.
+
+[^10]: "उक्तम्। नवमे इत्यर्थः। प्रभा."
 
 
 
@@ -4436,7 +4456,11 @@ KĀRIKĀ XIV and XV
 
 and is thus distinguished from the first kind where an identity is apprehended when there is really a distinction.
 
- *A supposition, of course, of an impossible thing, under a condition introduced by the word* **यदि** or **चेत्** *is the third (kind of Hyperbole).* The thing here is impossible, of course, because it is said here to be supposed. Instanced in **राकायां** etc. verse 60. Here, According to [**चक्रवर्ति**](# "अर्थादिति। कल्पनपदसामर्थ्यादित्यर्थः। Pr. "), the likeness of the ‘face’ to the ‘moon’ is not real but supposed. This supposition brings out prominently the excessive beauty of the ‘face.’ According to **उद्योत**, however, in the first half, the connection between the ‘full moon’ and ‘spotlessness,’ which does not really exist, is supposed to exist. In the latter half, the word **पराभव** shows that the relation of resemblance which really exists between **मुख** and **[चंन्द्र](# "2. अत्र चन्द्रेण सह मुखस्य साम्यं तर्कितमेव न तु वस्तुतः, तेन मुखस्यातिशयः प्रतीयते इति यद्यर्थातिशयोक्तिरियमिति। Chakra.")**is supposed not to exist. Thus this kind has two varieties:— (Supposition of) a connection when there is no connection, and supposition of no connection when there is a connection.
+ *A supposition, of course, of an impossible thing, under a condition introduced by the word* **यदि** or **चेत्** *is the third (kind of Hyperbole).* The thing here is impossible, of course, because it is said here to be supposed. Instanced in **राकायां** etc. verse 60. Here, According to **चक्रवर्ति**[^11], the likeness of the ‘face’ to the ‘moon’ is not real but supposed. This supposition brings out prominently the excessive beauty of the ‘face.’ According to **उद्योत**, however, in the first half, the connection between the ‘full moon’ and ‘spotlessness,’ which does not really exist, is supposed to exist. In the latter half, the word **पराभव** shows that the relation of resemblance which really exists between **मुख** and **चंन्द्र[^12]**is supposed not to exist. Thus this kind has two varieties:— (Supposition of) a connection when there is no connection, and supposition of no connection when there is a connection.
+
+[^11]: "अर्थादिति। कल्पनपदसामर्थ्यादित्यर्थः। Pr. "
+
+[^12]: "2. अत्र चन्द्रेण सह मुखस्य साम्यं तर्कितमेव न तु वस्तुतः, तेन मुखस्यातिशयः प्रतीयते इति यद्यर्थातिशयोक्तिरियमिति। Chakra."
 
  *The fourth (kind) is when the effect is mentioned before (the cause), in order to bring out the speedy action of the cause*. Inversion of the sequence of cause and effect is two-fold:— The effect may be supposed (1) to precede the cause or (2) to co-exist with it. The first sub-variety (1) is instanced in **हृदय** etc. verse 61. Here, the effect, *i.e.* the taking hold of M
 
@@ -4462,7 +4486,9 @@ K
 
  ‘Two’ means not ‘two’ only but ‘many.’ and ‘twice’ means ‘many times.’ The word **एकस्य** in the Kārikā excludes **निदर्शना** and **दृष्टान्त** where the common properties standing as the type (**विम्ब**) and the prototype (**प्रतिबिम्ब**) are necessarily two.
 
- The resemblance intended here is implied; thus the figure differs from **वाक्यार्थोपमा** instanced in **[दिवि भाति यथा](# "‘दिवि भाति यथा भानुस्तथा त्वं भ्राजसे भुवि’। प्रभा.")** etc. where the resemblance is expressed (by the word **इव**).
+ The resemblance intended here is implied; thus the figure differs from **वाक्यार्थोपमा** instanced in **दिवि भाति यथा[^13]** etc. where the resemblance is expressed (by the word **इव**).
+
+[^13]: "‘दिवि भाति यथा भानुस्तथा त्वं भ्राजसे भुवि’। प्रभा."
 
  This figure is of two kinds:— Single and Serial. Of these, Single **प्रतिवस्तूपमा** is instanced in **देवीभावं गमिता** etc. verse 62.
 
@@ -4476,7 +4502,9 @@ K
 
 common property expressed by **परिवारपदत्व** and **परिभोगयोग्यत्व** is not the common property that is stated in the two sentences. Here, the figure is based upon similarity. It may also be based upon dissimilarity between the two sentences; as instanced in **वंशभवो** etc. and **चकोर्य¹** etc.
 
- *Serial* **प्रतिवस्तूपमा** *should (also) be understood (as possible); as instanced in* **यदि दहति** etc. verse 63. Here, the common property ‘absence of wonderfulness’ is expressed by four different expressions **किमद्भुतं किं ततः** etc. in four different sentences. The last sentence here expresses the **उपमेय,** *'the fortitude of good men’* being the subject under discourse. *The same (i. e.* **माला***) should be understood (as possible) elsewhere, i.e.* in other figures *also*, as in [**व्यतिरेक**](# "यथा हरवन्न विषमदृष्टिरित्यादौ व्यतिरेके व्यतिरेकमाला। San.") instanced in **हरवन्न** etc.
+ *Serial* **प्रतिवस्तूपमा** *should (also) be understood (as possible); as instanced in* **यदि दहति** etc. verse 63. Here, the common property ‘absence of wonderfulness’ is expressed by four different expressions **किमद्भुतं किं ततः** etc. in four different sentences. The last sentence here expresses the **उपमेय,** *'the fortitude of good men’* being the subject under discourse. *The same (i. e.* **माला***) should be understood (as possible) elsewhere, i.e.* in other figures *also*, as in **व्यतिरेक**[^14] instanced in **हरवन्न** etc.
+
+[^14]: "यथा हरवन्न विषमदृष्टिरित्यादौ व्यतिरेके व्यतिरेकमाला। San."
 
 14\. EXEMPLIFICATION (**दृष्टान्त**)
 
@@ -4517,7 +4545,9 @@ KĀRIKĀ XVII
 
 
 
-*once*, that is one kind of **दीपक**; (so called) because it (*literally*) is '*that which residing in one (sentence) connects itself with all the other sentences (of the verse*),' just as a lamp standing in the house illumines the street also. The force of the word **[अर्थात्](# "1. यस्य धर्मस्य प्राकणिकाप्राकरणिकोभयवृत्तित्वम्, तमेव साधारणधर्ममाश्रित्य तयोरुपमानोपमेयभावः प्राप्नोतीत्यर्थादित्युक्तम्।Viv.")**in the Vṛtti is that the property which resides in both the matter in hand and what is not the matter in hand, itself, becomes the common property between them. Thus, in virtue of that common property, they necessarily become the **उपमेय** and the **उपमान**.
+*once*, that is one kind of **दीपक**; (so called) because it (*literally*) is '*that which residing in one (sentence) connects itself with all the other sentences (of the verse*),' just as a lamp standing in the house illumines the street also. The force of the word **अर्थात्[^15]**in the Vṛtti is that the property which resides in both the matter in hand and what is not the matter in hand, itself, becomes the common property between them. Thus, in virtue of that common property, they necessarily become the **उपमेय** and the **उपमान**.
+
+[^15]: "1. यस्य धर्मस्य प्राकणिकाप्राकरणिकोभयवृत्तित्वम्, तमेव साधारणधर्ममाश्रित्य तयोरुपमानोपमेयभावः प्राप्नोतीत्यर्थादित्युक्तम्।Viv."
 
  Here, the comparison is suggested, such words as **इव** etc. expressing comparison being absent. Thus this is not **उपमा**. The suggested comparison is again here subordinate to the expressed sense of the verse. Thus this is not Suggestive Poetry. This is again neither **प्रतिवस्तूपमा** nor **दृष्टान्त**; for, the common property, although one, is mentioned here only  
 once, and besides, the sentences are not here two.
@@ -4534,7 +4564,11 @@ once, and besides, the sentences are not here two.
 
  This very fact distinguishes this kind from **तुल्ययोगिता**where also there is an apprehension of resemblance.
 
- Again, the condition required for the first kind, namely that in it, certain things must be**प्रकृत** and certain others**अप्रकृत** is here absent. All the actions here may be (1) **प्रकृत**or (2) **अप्रकृत** or (3) some **प्रकृत** and others **अप्रकृत**. Thus, this kind has three varieties. The first is instanced in **स्विद्यति**etc. Here, all the actions are **प्रकृत**. The second may be instanced in [**दूरीकरोति**](# "1. दूरीकरोति कुमतिं विमलीकरोति, चेतश्चिरन्तनमघं चुलुकीकरोति। भूतेषु किं च करुणां बहुलीकरोति, संगः सतां किमु न मंगलमातनोति। R.G.")etc. Here, all the actions are **अप्रकृत**, And the third may be instanced in [**वसु दातुं**](# "2. वसु दातुं यशो धातुं विधातुमरिमर्दनम्। त्रातुं च मादृशान् राजन्नतीव निपुणो भवान्। R. G.")etc., **अत्रवृत्तिहीनस्य कस्यचिद्दीनस्य वचने वसुदानस्वत्राणलक्षणयोः क्रिययोः प्रकृतयोः, अरिमर्दनस्य चाप्रकृतस्य साधारणंकर्तृकारकम्।**
+ Again, the condition required for the first kind, namely that in it, certain things must be**प्रकृत** and certain others**अप्रकृत** is here absent. All the actions here may be (1) **प्रकृत**or (2) **अप्रकृत** or (3) some **प्रकृत** and others **अप्रकृत**. Thus, this kind has three varieties. The first is instanced in **स्विद्यति**etc. Here, all the actions are **प्रकृत**. The second may be instanced in **दूरीकरोति**[^16]etc. Here, all the actions are **अप्रकृत**, And the third may be instanced in **वसु दातुं**[^17]etc., **अत्रवृत्तिहीनस्य कस्यचिद्दीनस्य वचने वसुदानस्वत्राणलक्षणयोः क्रिययोः प्रकृतयोः, अरिमर्दनस्य चाप्रकृतस्य साधारणंकर्तृकारकम्।**
+
+[^16]: "1. दूरीकरोति कुमतिं विमलीकरोति, चेतश्चिरन्तनमघं चुलुकीकरोति। भूतेषु किं च करुणां बहुलीकरोति, संगः सतां किमु न मंगलमातनोति। R.G."
+
+[^17]: "2. वसु दातुं यशो धातुं विधातुमरिमर्दनम्। त्रातुं च मादृशान् राजन्नतीव निपुणो भवान्। R. G."
 
 KĀRIKĀXVIII
 
@@ -4562,7 +4596,11 @@ KĀRIKĀXVIII
 
  The Vṛtti here is simple.
 
- The common property is either an 'action' or a 'quality'. In **दीपक**, the common property of both the matter in hand and what is not the matter in hand is expressed only once; here, of either the one or the other, not of both. Similarity is here implied as in **व्यतिरेक**. It is, however, distinguished from **व्यतिरेक**by the fact that there strikingness lies in the superiority of the **उपमेय** over the **उपमान**, and not in the apprehension of resemblance as here. The word**सकृत्** shows that the figure does not occur in the verses **[मुखं](# "1. मुखं विकसितस्मितं वशितवक्रिम प्रेक्षितं, समुच्छलितविभ्रमा गतिरपास्तसंस्था मतिः। उरो मुकुलितस्तनं जघनमंसबन्धोद्धुरं, बतेन्दुवदनातनौ तरुणिमोद्गमोमोदते॥ K. P. 11.")विकसित** etc. and in **दधि [मधुरं](# "2. दधि मधुरं मधु मधुरं द्राक्षा मधुरा सुधाऽपि मधुरैव। तस्य तदेव हि मधुरं यस्य मनो यत्र संलग्नम्॥ प्रभा.")**etc.; for, in the first of these, different properties are expressed as connected with different objects, and in the second, one property is expressed many times.
+ The common property is either an 'action' or a 'quality'. In **दीपक**, the common property of both the matter in hand and what is not the matter in hand is expressed only once; here, of either the one or the other, not of both. Similarity is here implied as in **व्यतिरेक**. It is, however, distinguished from **व्यतिरेक**by the fact that there strikingness lies in the superiority of the **उपमेय** over the **उपमान**, and not in the apprehension of resemblance as here. The word**सकृत्** shows that the figure does not occur in the verses **मुखं[^18]विकसित** etc. and in **दधि मधुरं[^19]**etc.; for, in the first of these, different properties are expressed as connected with different objects, and in the second, one property is expressed many times.
+
+[^18]: "1. मुखं विकसितस्मितं वशितवक्रिम प्रेक्षितं, समुच्छलितविभ्रमा गतिरपास्तसंस्था मतिः। उरो मुकुलितस्तनं जघनमंसबन्धोद्धुरं, बतेन्दुवदनातनौ तरुणिमोद्गमोमोदते॥ K. P. 11."
+
+[^19]: "2. दधि मधुरं मधु मधुरं द्राक्षा मधुरा सुधाऽपि मधुरैव। तस्य तदेव हि मधुरं यस्य मनो यत्र संलग्नम्॥ प्रभा."
 
 
 
@@ -4586,16 +4624,22 @@ Jagannath observes that**दीपक**does not deserve to be afigure distinct f
 
 
 
-for it, then the verse**वसु [दातुं](# "1. वसु दातुं यशो धातुं विधातुमरिमर्दनम्। त्रातुं च सकलां पृथ्वीमतीव निपुणो भवान्॥ अत्र राज्ञः स्तावकवाक्ये प्रकृतानां क्रियाणामेकेन कर्त्रा साधारणेन धर्मेणौपम्यम्। R. G.")**etc. looked upon as containing the eulogy of a king should be regarded as an example of it.
+for it, then the verse**वसु दातुं[^20]**etc. looked upon as containing the eulogy of a king should be regarded as an example of it.
+
+[^20]: "1. वसु दातुं यशो धातुं विधातुमरिमर्दनम्। त्रातुं च सकलां पृथ्वीमतीव निपुणो भवान्॥ अत्र राज्ञः स्तावकवाक्ये प्रकृतानां क्रियाणामेकेन कर्त्रा साधारणेन धर्मेणौपम्यम्। R. G."
 
 17\. EXCELLENCE (व्यतिरेक)  
     KĀRIKĀXIX
 
- Kā. xix. *ab*:- **The superiority over the thing compared to, of what is different from it, [alone](# "2. स एवेति। न तु उपमेयादुपमानस्य व्यतिरेकोऽपीत्यर्थः। प्रभा।") is Excellence.**
+ Kā. xix. *ab*:- **The superiority over the thing compared to, of what is different from it, alone[^21] is Excellence.**
+
+[^21]: "2. स एवेति। न तु उपमेयादुपमानस्य व्यतिरेकोऽपीत्यर्थः। प्रभा।"
 
  '*Of what is different from it*,' *(means) 'of the thing* *compared*. The term**व्यतिरेक**etymologically (*means*) '*superiority* due to the possession of superior attributes prominently brought out.'
 
- The word **उपमानात्** shows that **कुमुदादतिरिच्यते** is no example of this figure; for,**कुमुद**is not known to be an object to which the face is compared, but is an object to which the eyes are compared. Thus,**कुमुद** is not an **उपमान**here. The word[**विशेषण**](# "3. विशेषेणेति। तेन मुखमिव चन्द्र इति प्रतीपे उपमानीकरणप्रयुक्तस्याधिक्यस्य गम्यत्वे विशेषतस्तद्बोधकशब्दाभावान्नातिव्याप्तिः। प्रभा.")shows that **मुखमिव चंद्रः** also, is no example; for although there the excellence of the **उपमेय**consisting in the fact that it is made the **उपमान** is suggested, still, there is no word there which brings out that excellence prominently. Such a word is however, present in **व्यतिरेक**. *As for what is said by some one* (*i. e*. Rudrața, VII-89-90; Ruyyaka, p. 78 T. S. S. edn.):—"**व्यतिरेक** should be defined as the 'superiority of the **उपमान** over the **उपमेय** or of the **उपमेय** over the **उपमान**.' How otherwise, can **व्यतिरेक**be instanced in **क्षीण**etc.; where *is described the superiority of the* **उपमान—**’the moon' consisting in the fact that she waxes again even though she has
+ The word **उपमानात्** shows that **कुमुदादतिरिच्यते** is no example of this figure; for,**कुमुद**is not known to be an object to which the face is compared, but is an object to which the eyes are compared. Thus,**कुमुद** is not an **उपमान**here. The word**विशेषण**[^22]shows that **मुखमिव चंद्रः** also, is no example; for although there the excellence of the **उपमेय**consisting in the fact that it is made the **उपमान** is suggested, still, there is no word there which brings out that excellence prominently. Such a word is however, present in **व्यतिरेक**. *As for what is said by some one* (*i. e*. Rudrața, VII-89-90; Ruyyaka, p. 78 T. S. S. edn.):—"**व्यतिरेक** should be defined as the 'superiority of the **उपमान** over the **उपमेय** or of the **उपमेय** over the **उपमान**.' How otherwise, can **व्यतिरेक**be instanced in **क्षीण**etc.; where *is described the superiority of the* **उपमान—**’the moon' consisting in the fact that she waxes again even though she has
+
+[^22]: "3. विशेषेणेति। तेन मुखमिव चन्द्र इति प्रतीपे उपमानीकरणप्रयुक्तस्याधिक्यस्य गम्यत्वे विशेषतस्तद्बोधकशब्दाभावान्नातिव्याप्तिः। प्रभा."
 
 
 
@@ -4676,7 +4720,9 @@ possessed of such a property is paronomastic. Thus, according to him,**व्य
 
  The 21st variety is instanced in**नित्योदित**etc,verse 78.*Here,*in the absenceof such words as **इव** etc. and **तुल्य** etc. *resemblance is but implied*. The word**भास्वत्** **is** *paronomastic***;** so also **प्रताप**. The grounds of superiority, and inferiority i. e. '**नित्योदितत्व**' and '**रात्रौ गतप्रभत्व**' respectively, are both mentioned in the first half of the verse.
 
- The next three varieties can be obtained in this example also by reading the first line as **समरासक्तमनसा त्रियामामीलितप्रभः, नित्योदितप्रतापेन पंकजावलिनन्दनः,** and **समरासक्तमनसा पंकजावालनन्दनः,** respectively. Upon this [Udyota](http://्# "1. अत्रेदं चिन्त्यम्। उपात्तत्वैधर्म्यांशे श्लेषेणैव व्यतिरेकस्य श्लेषमूलकत्वमुचितम्। न तु यत्र कुत्रापि श्लेषेणेति कृतभेदत्रयं चिन्त्यमेव।"), however, remarks that in the paronomastic divisions of **व्यतिरेक**, the word expressing the contrasting property itself should be paronomastic and not any word in the verse, as Mammața appers to think. Thus, in this way the three varieties in which both the grounds are simultaneously omitted are impossible, The three varieties are: Expressed, Implied, and suggested. Thus, according to him, **व्यतिरेक** has 21 varieties only. [Prabhā](# "2. अत्रानुपादानेति। श्लेषस्थलेऽनुपादानत्रयमित्यर्थः। साम्यस्य श्रौतत्वे आर्थत्वे आक्षिप्तत्वे सति कथमुभयानुपादानम्। वैधर्म्यानुक्तौ श्लेषस्य निरालम्बनत्वापत्तेरित्याशयः। प्रभा.")wrongly says
+ The next three varieties can be obtained in this example also by reading the first line as **समरासक्तमनसा त्रियामामीलितप्रभः, नित्योदितप्रतापेन पंकजावलिनन्दनः,** and **समरासक्तमनसा पंकजावालनन्दनः,** respectively. Upon this [Udyota](http://्# "1. अत्रेदं चिन्त्यम्। उपात्तत्वैधर्म्यांशे श्लेषेणैव व्यतिरेकस्य श्लेषमूलकत्वमुचितम्। न तु यत्र कुत्रापि श्लेषेणेति कृतभेदत्रयं चिन्त्यमेव।"), however, remarks that in the paronomastic divisions of **व्यतिरेक**, the word expressing the contrasting property itself should be paronomastic and not any word in the verse, as Mammața appers to think. Thus, in this way the three varieties in which both the grounds are simultaneously omitted are impossible, The three varieties are: Expressed, Implied, and suggested. Thus, according to him, **व्यतिरेक** has 21 varieties only. Prabhā[^23]wrongly says
+
+[^23]: "2. अत्रानुपादानेति। श्लेषस्थलेऽनुपादानत्रयमित्यर्थः। साम्यस्य श्रौतत्वे आर्थत्वे आक्षिप्तत्वे सति कथमुभयानुपादानम्। वैधर्म्यानुक्तौ श्लेषस्य निरालम्बनत्वापत्तेरित्याशयः। प्रभा."
 
 
 
@@ -4684,7 +4730,11 @@ that this very opinion is expressed by Pradīpa in **अत्रानुपा
 
  This variety is also possible where, even in the absence of such words as **निर्जित, जयति** etc., the resemblance is suggested by paronomastic adjectives; as in **स्वच्छात्मता** etc. verse 79. *Here, even though such words as* **इव** *etc. and* **तुल्य** *etc. (and जयति etc. also) are absent, still resemblance is apprehended as suggested in virtue of Paronomastic adjectives* such as**हृद्यगंध**etc.
 
- Thus *other varieties also similar to these are possible, when two separate words capable of being substituted by one paronomastic word are employed, one as an adjective[^(**1**)](# "पृथगुपादानेपीऽति।   उपमानोपमेययोर्विशेषणत्वेन पृथगुपादानेऽपीत्यर्थः यथा-  ’अमृतममृतं कः संदेहो मधून्यपि नान्यथा, मधुरमधिकं चूतस्यापि प्रसन्नरसं फलम् । सकृदपि पुनर्मध्यस्थः सन् रसान्तरविज्जनो, वदतु यदिहान्यत्स्वादु स्यात्प्रियादशनछदात्'॥ -   अत्र उपमानभूतेषु अमृतादिषु उपमेये चाधरे अतिमधुरत्वं पृथगुपात्तम्। प्रभा")*to the **उपमेय**, and the other as an adjective to the **उपमान**. They, too, should be understood in this very manner. Thus, for instance in **अमृतममृतं** etc., ’extreme sweetness' is connected separately with the **उपमेय**, i. e. ’the lips’; and the **उपमानऽ**, i. e. ’nectar, etc.' by two separate words **स्वादु** and **अमृत** etc.; so also in [**या शैशिरी श्रीः**](# "2. या शैशिरी श्रीस्तपसा मासेनैकेन विश्रुता। तपसा तां सुदीर्घेण दूराद्विदधतीमधः॥San"), the word **तपस्** capable of yielding the two senses of **माघमास** and **कृच्छ्रादि** is substituted by two words **तपस्** (meaning **माघमास**) and **तपस** (meaning **कृच्छ्रादि**), In all these examples,the form of excellence-'this is superior to that'- is implied. It is however expressed in **इंदोः पद्माच्चाधिकं मे प्रियाया वदनं मतम्। वेलासैर्हृद्यगंधैश्च**, etc.
+ Thus *other varieties also similar to these are possible, when two separate words capable of being substituted by one paronomastic word are employed, one as an adjective^(**1**)[^24]*to the **उपमेय**, and the other as an adjective to the **उपमान**. They, too, should be understood in this very manner. Thus, for instance in **अमृतममृतं** etc., ’extreme sweetness' is connected separately with the **उपमेय**, i. e. ’the lips’; and the **उपमानऽ**, i. e. ’nectar, etc.' by two separate words **स्वादु** and **अमृत** etc.; so also in **या शैशिरी श्रीः**[^25], the word **तपस्** capable of yielding the two senses of **माघमास** and **कृच्छ्रादि** is substituted by two words **तपस्** (meaning **माघमास**) and **तपस** (meaning **कृच्छ्रादि**), In all these examples,the form of excellence-'this is superior to that'- is implied. It is however expressed in **इंदोः पद्माच्चाधिकं मे प्रियाया वदनं मतम्। वेलासैर्हृद्यगंधैश्च**, etc.
+
+[^24]: "पृथगुपादानेपीऽति।   उपमानोपमेययोर्विशेषणत्वेन पृथगुपादानेऽपीत्यर्थः यथा-  ’अमृतममृतं कः संदेहो मधून्यपि नान्यथा, मधुरमधिकं चूतस्यापि प्रसन्नरसं फलम् । सकृदपि पुनर्मध्यस्थः सन् रसान्तरविज्जनो, वदतु यदिहान्यत्स्वादु स्यात्प्रियादशनछदात्'॥ -   अत्र उपमानभूतेषु अमृतादिषु उपमेये चाधरे अतिमधुरत्वं पृथगुपात्तम्। प्रभा"
+
+[^25]: "2. या शैशिरी श्रीस्तपसा मासेनैकेन विश्रुता। तपसा तां सुदीर्घेण दूराद्विदधतीमधः॥San"
 
 
 
@@ -4710,9 +4760,13 @@ gest that the fact is well known. The fact of 'torment’ being already told, th
 
  Kā. xxi, *c d:*- **The manifestation of an effect, even though a cause is denied, is termed Peculiar Causation.**
 
- According to the grammarians, an action alone is a cause. Hence the word **क्रिया**in the Kārikā is used in its etymological sense of 'that by whieh anything is effected," i. e. a 'cause.' Thus, **विभावना***(occurs) when, even in the absence of an action which is a cause there is the manifestation of its effect.* [But](# "1. आत्मादेरपि हेतुत्वादाह— वस्तुतस्त्विति। प्रभा.")such a thing as **आत्मा**etc. also may be a cause. Therefore, really speaking, **विभावना**should be defined as that where, although a cause (that is well-known) is absent, the effect is said to be present. The production of an effect without a cause is not inconsistent, for the denial of a well-known cause supposes that the effect is produced in virtue of its peculiar nature or by some other cause (which is hidden).
+ According to the grammarians, an action alone is a cause. Hence the word **क्रिया**in the Kārikā is used in its etymological sense of 'that by whieh anything is effected," i. e. a 'cause.' Thus, **विभावना***(occurs) when, even in the absence of an action which is a cause there is the manifestation of its effect.* But[^26]such a thing as **आत्मा**etc. also may be a cause. Therefore, really speaking, **विभावना**should be defined as that where, although a cause (that is well-known) is absent, the effect is said to be present. The production of an effect without a cause is not inconsistent, for the denial of a well-known cause supposes that the effect is produced in virtue of its peculiar nature or by some other cause (which is hidden).
 
- In **न कठोरम्[²](# "This verse—  न कठोरं न वा तीक्ष्णमायुधं पुष्पधन्वनः। तथापि जितमेवासीदमुना भुवनत्रयम्॥")**etc., there is **विभावना** inasmuch as the effect, i. e. 'conquest,' has been represented as produced in the absence of its cause i. e. 'sharp weapons.' **अतिशयोक्ति**is subordinate there, not principal. This figure is not **विरोध**, although there is apparent contradiction in the production of an effect without a cause, and its removal by the supposition of the presence of another obscure cause. For, in **विरोध**, two equally powerful things are apprehended as opposing each other; whilst here, only the effect is apprehended as opposed
+[^26]: "1. आत्मादेरपि हेतुत्वादाह— वस्तुतस्त्विति। प्रभा."
+
+ In **न कठोरम्²[^27]**etc., there is **विभावना** inasmuch as the effect, i. e. 'conquest,' has been represented as produced in the absence of its cause i. e. 'sharp weapons.' **अतिशयोक्ति**is subordinate there, not principal. This figure is not **विरोध**, although there is apparent contradiction in the production of an effect without a cause, and its removal by the supposition of the presence of another obscure cause. For, in **विरोध**, two equally powerful things are apprehended as opposing each other; whilst here, only the effect is apprehended as opposed
+
+[^27]: "This verse—  न कठोरं न वा तीक्ष्णमायुधं पुष्पधन्वनः। तथापि जितमेवासीदमुना भुवनत्रयम्॥"
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -4720,7 +4774,9 @@ is an example of '**गुणवैकल्यवती विशेषोक�
 
 
 
-by the absence of the cause, but the absence of the cause is not apprehended as opposed by the [effect](# "1. कार्यांशः कारणाभावरूपावरोधिनो बाध्यतयैव स्थितः, न बाधकतया। कार्यांशस्य कल्पितत्वात् कारणाभावस्य च स्वभावसिद्धत्वात्॥ R. G."). For, here the effect' is fancied and the absence of the cause is real. Now what is fancied is opposed by the real, but the real cannot be opposed by what is fancied.
+by the absence of the cause, but the absence of the cause is not apprehended as opposed by the effect[^28]. For, here the effect' is fancied and the absence of the cause is real. Now what is fancied is opposed by the real, but the real cannot be opposed by what is fancied.
+
+[^28]: "1. कार्यांशः कारणाभावरूपावरोधिनो बाध्यतयैव स्थितः, न बाधकतया। कार्यांशस्य कल्पितत्वात् कारणाभावस्य च स्वभावसिद्धत्वात्॥ R. G."
 
  The figure is instanced in **कुसुमित**etc. verse 82. Here, in the absence of the causes, 'beating by the creepers etc.,' the effects, 'pain etc.' are produced owing to the state of separation of the Heroine. Here, although the pain produced from the obscure cause, i. e. 'separation,' is different from that produced from the beating by the creepers,' yet it is identified with it. This identification is at the bottom of this figure. It is of the nature of an **अतिशयोक्ति**in the present verse; in the verse **निरुपादान संभारमभित्तावेन तन्वते। जगच्चित्रं नमस्तस्मै कलाश्लाघ्याय शूलिने॥**it is of the nature of a **रूपक**.
 
@@ -4730,7 +4786,9 @@ by the absence of the cause, but the absence of the cause is not apprehended as 
 
  The figure is of two kinds:—(1) where the obscure cause is not mentioned and (2) where it is mentioned. The first kind is instanced in **कुसुमित** etc.
 
- The second kind may be instanced in [**यदवधि**](# " 2. यदवधि विलासभवनं यौवनमुदियाय चंद्रवदनायाः। दहनं विनैव तदवधि यूनां हृदयानि दह्यन्ते॥")etc. Here, 'youth' the obscure cause of 'tormenting' is mentioned.
+ The second kind may be instanced in **यदवधि**[^29]etc. Here, 'youth' the obscure cause of 'tormenting' is mentioned.
+
+[^29]: " 2. यदवधि विलासभवनं यौवनमुदियाय चंद्रवदनायाः। दहनं विनैव तदवधि यूनां हृदयानि दह्यन्ते॥"
 
 
 
@@ -4750,7 +4808,9 @@ KĀRIKĀXXII
 
 * Examples in order :—*
 
- The first variety (a) is instanced in**निद्रा** etc. verse 83. Here, 'the removal of drowsiness,' 'the rising of the Sun,' and other like causes (that are well-known) are present, and yet their effect, 'the loosening of her clasp' is represented as absent. This is due to 'the excess of her affection for her lover'. This cause, however, although capable of being clearly mentioned, is not mentioned here. According to [Cakravarti](# "1. अत्र सुरतश्रमादक्षमत्वं निमित्तमनुक्तं चिन्तनीयमिति। Chakra."), the cause is 'inability to move owing to the exhaustion caused by sexual intercourse."
+ The first variety (a) is instanced in**निद्रा** etc. verse 83. Here, 'the removal of drowsiness,' 'the rising of the Sun,' and other like causes (that are well-known) are present, and yet their effect, 'the loosening of her clasp' is represented as absent. This is due to 'the excess of her affection for her lover'. This cause, however, although capable of being clearly mentioned, is not mentioned here. According to Cakravarti[^30], the cause is 'inability to move owing to the exhaustion caused by sexual intercourse."
+
+[^30]: "1. अत्र सुरतश्रमादक्षमत्वं निमित्तमनुक्तं चिन्तनीयमिति। Chakra."
 
  The second variety is mentioned in **कर्पूर इव**etc. verse 84. Here, the cause, ’burning of the body' which is wellknown, is present, and yet the effect, 'the loss of power, is
 
@@ -4789,7 +4849,11 @@ KĀRIKĀXXIII
 
   The term**अर्थान्तरन्यास** a literally means 'the adducing of an example to establish either a general or a particular proposition the truth of which appears to be improbable."
 
- This figure is distinguished from **दृष्टान्त**by the fact that there the strengthening is of the general by the general, and of the particular by the particular; from **अनुमान** by the fact that the invariable concomitance between the**हेतु**and the **साध्य**is not directly expressed here; and also by the fact that inference is here drawn by the hearer, and not as in **अनुमान**by the poet through the mouth of another speaker; and from **काव्यलिंग**by the fact that there the relation of the general and the particular is absent. In**प्रतिवस्तूपमा,**according to [**सारबोधिनी**](# "1. प्रतिवस्तूपमायामुपमानोपमेयभावो विवक्षितः, अत्र तु समर्थ्यसमर्थकत्वं विवक्षितमिति ततोऽस्य भेदः। Sār."), it is resemblance that is intended; but here corroboration. In **प्रतिवस्तूपमा** and **दृष्टान्त**, according to [**प्रभा**](# "2. दृष्टान्तप्रतिवस्तूपमयोस्तु विशेषेण विशेषस्य समर्थनमिति ततो भेदः। प्रभा."),the particular is strengthened by the particular.
+ This figure is distinguished from **दृष्टान्त**by the fact that there the strengthening is of the general by the general, and of the particular by the particular; from **अनुमान** by the fact that the invariable concomitance between the**हेतु**and the **साध्य**is not directly expressed here; and also by the fact that inference is here drawn by the hearer, and not as in **अनुमान**by the poet through the mouth of another speaker; and from **काव्यलिंग**by the fact that there the relation of the general and the particular is absent. In**प्रतिवस्तूपमा,**according to **सारबोधिनी**[^31], it is resemblance that is intended; but here corroboration. In **प्रतिवस्तूपमा** and **दृष्टान्त**, according to **प्रभा**[^32],the particular is strengthened by the particular.
+
+[^31]: "1. प्रतिवस्तूपमायामुपमानोपमेयभावो विवक्षितः, अत्र तु समर्थ्यसमर्थकत्वं विवक्षितमिति ततोऽस्य भेदः। Sār."
+
+[^32]: "2. दृष्टान्तप्रतिवस्तूपमयोस्तु विशेषेण विशेषस्य समर्थनमिति ततो भेदः। प्रभा."
 
 Examples in order :—
 
@@ -4833,7 +4897,9 @@ KĀRIKĀ XXIV & XXV
 
 phorically said to be**दवदहन.**Here, the attribution of identity****between**दहनत्व**and**नलिनीत्व**etc. is sub-ordinate. The poet wants to describe the sad condition of a woman under separation; and therefore it is opposition, that is here striking, not identity. In **मुखं चन्द्रः**etc. it is identity that is striking; for, what the poet there intends to convey is that the face is possessed of all the attributes of the moon.
 
- The second variety where a Universal is incongruous with a Quality is instanced in**गिरयोऽप्य**etc. verse 92. Here, the Universals**गिरित्व** etc. are represented as incongruous with the Qualities**अनुन्नतत्व**etc. This incongruity is explained by the fact that the poet wants to convey the idea of extreme nobility on the part of the individual under description. **विश्वंभराप्यतिलघुः**is not an example of this variety; for,**विश्वंभरा** is not a Universal (the earth being single is but a Substance). From the rule[**¹**](# " 'चतुष्टयी शब्दानां प्रवृत्तिः' इति नये जातिक्रियाद्रव्यातिरिक्तस्यैव गुणपदेनोपादानात्। अन्यथा अभावादिविरोधस्य असंग्रहेण विभागन्यूनत्वापत्तेरिति। एतेन अभावस्य गुणत्वाभावात् अल्पार्थे नञ् इति व्याख्यानमपास्तम्। Cham.") of Patañjali that words denote only four things, vis. **जाति, गुण, क्रिया** and **द्रव्य**, it follows that a**गुण**is that which is not a Universal, an Action, or a Substance. Thus, **अभाव** also is a **गुण**. Hence although **अनुन्नति**,**अचलत्व** etc. are **अभावऽ**, still, this is an example of **जातिगुणविरोध**. If **अभाव** be taken as separate from **द्रव्य**, **गुण** etc., Mammata's divisions of **विरोध**would be in complete, inasmuch as he has not mentioned those varieties where the **विरोध**is between**अभाव** on the one hnad, and **द्रव्य, गुण, जाति,** or **क्रिया** on the other. This shows that it is not necessary to take the negative particle in this verse in the sense of 'smallness' as is done by Udyota, Chakravarti and others. In this variety, words are used paronomastically.
+ The second variety where a Universal is incongruous with a Quality is instanced in**गिरयोऽप्य**etc. verse 92. Here, the Universals**गिरित्व** etc. are represented as incongruous with the Qualities**अनुन्नतत्व**etc. This incongruity is explained by the fact that the poet wants to convey the idea of extreme nobility on the part of the individual under description. **विश्वंभराप्यतिलघुः**is not an example of this variety; for,**विश्वंभरा** is not a Universal (the earth being single is but a Substance). From the rule**¹**[^33] of Patañjali that words denote only four things, vis. **जाति, गुण, क्रिया** and **द्रव्य**, it follows that a**गुण**is that which is not a Universal, an Action, or a Substance. Thus, **अभाव** also is a **गुण**. Hence although **अनुन्नति**,**अचलत्व** etc. are **अभावऽ**, still, this is an example of **जातिगुणविरोध**. If **अभाव** be taken as separate from **द्रव्य**, **गुण** etc., Mammata's divisions of **विरोध**would be in complete, inasmuch as he has not mentioned those varieties where the **विरोध**is between**अभाव** on the one hnad, and **द्रव्य, गुण, जाति,** or **क्रिया** on the other. This shows that it is not necessary to take the negative particle in this verse in the sense of 'smallness' as is done by Udyota, Chakravarti and others. In this variety, words are used paronomastically.
+
+[^33]: " 'चतुष्टयी शब्दानां प्रवृत्तिः' इति नये जातिक्रियाद्रव्यातिरिक्तस्यैव गुणपदेनोपादानात्। अन्यथा अभावादिविरोधस्य असंग्रहेण विभागन्यूनत्वापत्तेरिति। एतेन अभावस्य गुणत्वाभावात् अल्पार्थे नञ् इति व्याख्यानमपास्तम्। Cham."
 
  The third variety where a Universal is incongruous with an Action is instanced in **येषां कण्ठ**etc. verse 93. Here, the
 
@@ -4917,7 +4983,9 @@ blame. And in the second kind, the compound is to be solved and interpreted as *
 
 **समुच्चय**, instanced in **चैत्रमैत्रौगच्छतः,** both the words **चैत्र** and **मैत्र**are principal, and the connection with both is expressed. The figure is striking only when it is based upon a Hyperbole. Thus, **पुत्रेण सह**etc. is no example of this figure.
 
- The figure is instanced in **सह दिवसनिशाभिः**etc. verse 104. *Here***दीर्घत्व** *etc. of***श्वासदंड***are (understood from words whose connection is) expressed, of* **दिवसनिशा***etc., however, are understood by the force of the meaning of the word* **सह**. The figure is based upon a complete identification between the **दीर्घत्व**of **श्वासदंड** and the **दीर्घत्व** of **दिवसनिशा**. The [figure](# "1. इयं मालारूपाऽपि संभवाते। यथा- 'उत्क्षिप्तं सह कौशिकस्य पुलकैः सार्धं मुखैर्नामितं, भूपानां जनकस्य संशयधिया साकं समास्फालितम्। वैदेह्या मनसा समं तदधुना कृष्टं ततो भार्गवः प्रौढाहंकृतिकन्दलेन च समं भग्नं तदेशं धनुः' इति। S. T.")is possible in a series also; as in**उत्क्षिप्तं सह**etc.
+ The figure is instanced in **सह दिवसनिशाभिः**etc. verse 104. *Here***दीर्घत्व** *etc. of***श्वासदंड***are (understood from words whose connection is) expressed, of* **दिवसनिशा***etc., however, are understood by the force of the meaning of the word* **सह**. The figure is based upon a complete identification between the **दीर्घत्व**of **श्वासदंड** and the **दीर्घत्व** of **दिवसनिशा**. The figure[^34]is possible in a series also; as in**उत्क्षिप्तं सह**etc.
+
+[^34]: "1. इयं मालारूपाऽपि संभवाते। यथा- 'उत्क्षिप्तं सह कौशिकस्य पुलकैः सार्धं मुखैर्नामितं, भूपानां जनकस्य संशयधिया साकं समास्फालितम्। वैदेह्या मनसा समं तदधुना कृष्टं ततो भार्गवः प्रौढाहंकृतिकन्दलेन च समं भग्नं तदेशं धनुः' इति। S. T."
 
 27\. A SPEECH WITH 'WITHOUT' (**विनोक्तिः**)
 
@@ -4938,7 +5006,9 @@ KĀRIKĀXXVII
  The second variety is instanced in **मृगलोचनया**etc. verse 106. Here, the 'prince' without his 'wicked friend' and the 'deer-eyed lady' appears to advantage, inasmuch as without the former he is described as being pure-minded, and without the latter as expert in business.
 
 
-[¹](# "‘शोभन' इति वक्तव्ये 'अशोभनो न' इत्यभावमुखेनाभिधानस्यायमभि, प्रायः, यत् वर्णनीयवस्तुनोऽशोभनत्वं प्रतीयते, तत् परसन्निधिदोषविजृम्भितमेववर्णनीयस्य वस्तुनः पुनः स्वाभाविकमेव शोभनत्त्रमिति दर्पणाभिप्रायः।")Althoughthe ultimate meaning of the phrase **न अशोभनः**is 'agreeable,' yet the expressing of the quality of agreeableness through the negation of that of disagreeableness, is intended to import that the apparent disagreeableness or loss of beauty of the object, under description, is the fault of the presence of another object, the former being indeed essentially fair.
+¹[^35]Althoughthe ultimate meaning of the phrase **न अशोभनः**is 'agreeable,' yet the expressing of the quality of agreeableness through the negation of that of disagreeableness, is intended to import that the apparent disagreeableness or loss of beauty of the object, under description, is the fault of the presence of another object, the former being indeed essentially fair.
+
+[^35]: "‘शोभन' इति वक्तव्ये 'अशोभनो न' इत्यभावमुखेनाभिधानस्यायमभि, प्रायः, यत् वर्णनीयवस्तुनोऽशोभनत्वं प्रतीयते, तत् परसन्निधिदोषविजृम्भितमेववर्णनीयस्य वस्तुनः पुनः स्वाभाविकमेव शोभनत्त्रमिति दर्पणाभिप्रायः।"
 
 28.THE BARTER (**परिवृत्ति**).
 
@@ -4956,9 +5026,13 @@ identical. The exchange here is not real but fancied by the poet. Thus, **क्
 
  The third variety is instanced in **नानाविध** etc. verse 108. Here, 'blows'—the lesser (are exchanged) for earth'—the greater.
 
- Mammața appears to admit both the meanings of**विनिमय**given above, in conformity with the examples cited by him. Thus, in the second example, for instance, he takes **विनिमय**in the second sense. Hence his Vṛtti on this part of the verse is **उत्तमेन न्यूनस्य** which means: giving the lesser (i. e. **आधिव्याधि**) for the greater (i. e.**दृक्**) received. Pradipa, however, admits only the first meaning, and takes**लतास्त्वध्वन्यताम्**etc., as an example of [**न्यूनेन उत्तमस्य—**](# "1. न्यूनेन उत्तमस्येति। न्यूनेन दत्तेन उत्तमस्य आदानमित्यर्थः। प्रभा.")receiving the greater —**दृक्**for the lesser—**अधिव्याधि**given. The language of his comment on this part of the verse, however, is inconsistent with his meaning of **विनिमय**, and his order of examples. It would be more appropriate to write **द्वितीयार्थे अनुपादेयतया न्यूनैः आधिव्याधिभिः उपादेयतया उत्तमाया दृशः विनिमयः** for what he has written.
+ Mammața appears to admit both the meanings of**विनिमय**given above, in conformity with the examples cited by him. Thus, in the second example, for instance, he takes **विनिमय**in the second sense. Hence his Vṛtti on this part of the verse is **उत्तमेन न्यूनस्य** which means: giving the lesser (i. e. **आधिव्याधि**) for the greater (i. e.**दृक्**) received. Pradipa, however, admits only the first meaning, and takes**लतास्त्वध्वन्यताम्**etc., as an example of **न्यूनेन उत्तमस्य—**[^36]receiving the greater —**दृक्**for the lesser—**अधिव्याधि**given. The language of his comment on this part of the verse, however, is inconsistent with his meaning of **विनिमय**, and his order of examples. It would be more appropriate to write **द्वितीयार्थे अनुपादेयतया न्यूनैः आधिव्याधिभिः उपादेयतया उत्तमाया दृशः विनिमयः** for what he has written.
 
-[Some](# "2. अत्र समेन समस्येत्यनुपादेयत्वेन समत्वविवक्षया चतुर्थोऽपि भेदः कैश्चिदुदाहृतः। यथा-  'अस्थिमालामयीं दत्त्वा मुण्डमालामयीं तनुम्। गृह्णतां त्वत्पुरस्थानां को लाभः स्मरशासन'॥ इति । प्रभा.") hold that two things may be said to be 'equal,' even when both of them are unfit to be received; as in **अस्थिमाला** etc. Thus, according to these men, **विनिमय** is not three-fold but four-fold.
+[^36]: "1. न्यूनेन उत्तमस्येति। न्यूनेन दत्तेन उत्तमस्य आदानमित्यर्थः। प्रभा."
+
+Some[^37] hold that two things may be said to be 'equal,' even when both of them are unfit to be received; as in **अस्थिमाला** etc. Thus, according to these men, **विनिमय** is not three-fold but four-fold.
+
+[^37]: "2. अत्र समेन समस्येत्यनुपादेयत्वेन समत्वविवक्षया चतुर्थोऽपि भेदः कैश्चिदुदाहृतः। यथा-  'अस्थिमालामयीं दत्त्वा मुण्डमालामयीं तनुम्। गृह्णतां त्वत्पुरस्थानां को लाभः स्मरशासन'॥ इति । प्रभा."
 
 
 
@@ -5000,7 +5074,9 @@ tives, and do not express a complete thought without the noun **तव**which th
 
  According to Pradīpa, the distinction between**अर्थान्तरन्यास**and this figure is that in the former, the second statement is made independently of, i. e. as unconnected with the first statement, and is ultimately apprehended as the reason for (corroborating) the first statement. Whilst here one statement is directly mentioned as a reason for the other, by the employment of a noun or pronoun in the ablative or any other case showing reason.
 
- Upon this Prabhā observes that Pradipa's word [**हेतुविभक्त्यादिना**](# "'हेतुविभक्त्यादिना' इत्यसंगतम्। उक्तोदाहरणे तदभावात्। प्रत्युत पंचम्या हेत्वभिधाने 'अलमतिचपलत्वात्’, ‘ प्रजानां विनयाधानात्' इत्यादौ काव्यलिंगस्यानिष्टत्वात्। प्रभा.")is wrong; for, in the example here given, a word showing reason is absent. Besides, if the reason be expressed by a word in the ablative case, then such verses as **अलमिति**etc. and **प्रजानां विनया** etc. would be examples of **काव्यलिंग** which they are not. Again, it is only a reason which is implied and not expressed by a word in the ablative case, that has been regarded by the ancients as pleasing, and as such has been admitted by them as constituting **काव्यलिंग**. Hence it is that
+ Upon this Prabhā observes that Pradipa's word **हेतुविभक्त्यादिना**[^38]is wrong; for, in the example here given, a word showing reason is absent. Besides, if the reason be expressed by a word in the ablative case, then such verses as **अलमिति**etc. and **प्रजानां विनया** etc. would be examples of **काव्यलिंग** which they are not. Again, it is only a reason which is implied and not expressed by a word in the ablative case, that has been regarded by the ancients as pleasing, and as such has been admitted by them as constituting **काव्यलिंग**. Hence it is that
+
+[^38]: "'हेतुविभक्त्यादिना' इत्यसंगतम्। उक्तोदाहरणे तदभावात्। प्रत्युत पंचम्या हेत्वभिधाने 'अलमतिचपलत्वात्’, ‘ प्रजानां विनयाधानात्' इत्यादौ काव्यलिंगस्यानिष्टत्वात्। प्रभा."
 
 
 
@@ -5008,7 +5084,11 @@ in **वपुःप्रादुर्भावादनुमितम्** 
 
  This figure is not **अनुमान**; for, the**हेतु** is not here stated as invariably associated with the **साध्य**, and as connected with the **पक्ष**, as it is in **अनुमान**. According to others, in **अनुमान**, the poet composes his verse in such a manner, (i. e. by stating the **हेतु** as possessed of **व्याप्ति** and **पक्षधर्मता**), that his intention is that the reader should know from the peculiar structure of the verse, that an inference has been drawn by the poet himself. Whilst in **काव्यलिंग**, the poet's intention is that the inference should be drawn by the reader himself, and not simply known by him as drawn by the poet.
 
- According to **प्रभा**, **काव्यलिंग[¹](# "साक्षात्परम्परया वा यत्र कारकहेतुरर्थतोऽवगम्यते तत्काव्यलिंगम्। उक्तार्थदृढप्रत्ययाय यत्रार्थान्तरन्यसनं तत्रार्थान्तरन्यासः। निजदोषत्यादौ... विशेषरूपोऽर्थो न सामान्यार्थे कारकहेतुरिति न काव्यलिंगतेति। अनुमाने तु ज्ञापकहेतूपन्यासः अस्मादिदं गम्यते इति। प्रभा.")**is when a **कारकहेतु** is implied by words, directly or indirectly. A **कारकहेतु**is an efficient cause— a cause that produces something,as**दण्ड, चक्र**etc. produce a **घट**. **अनुमान** is when a **ज्ञापकहेतु** is mentioned. A**ज्ञापकहेतु**is an indicatory reason- a mark- which enables us to infer something as a lamp enables us to see a**घट. अर्थान्तरन्यास**is when a proposition is put forth to corroborate another proposition. In **निजदोषावृत**etc. for instance, the particular is not the**कारकहेतु** of the general. Hence the verse is not an example of**काव्यलिंग**. In [**परिकर²**](# "परिकरे पदार्थवाक्यार्थबलात् प्रतीयमानोऽर्थो वाच्योपकारतां भजते, काव्यलिंगे तु पदार्थवाक्यार्थावेव हेतुभावं भजत इति। Sud.")the sense suggested through the force of the sense of the sentence or of a word. or words, contributes to the expressed sense; here the sense of the sentence or of the word itself constitutes the reason.
+ According to **प्रभा**, **काव्यलिंग¹[^39]**is when a **कारकहेतु** is implied by words, directly or indirectly. A **कारकहेतु**is an efficient cause— a cause that produces something,as**दण्ड, चक्र**etc. produce a **घट**. **अनुमान** is when a **ज्ञापकहेतु** is mentioned. A**ज्ञापकहेतु**is an indicatory reason- a mark- which enables us to infer something as a lamp enables us to see a**घट. अर्थान्तरन्यास**is when a proposition is put forth to corroborate another proposition. In **निजदोषावृत**etc. for instance, the particular is not the**कारकहेतु** of the general. Hence the verse is not an example of**काव्यलिंग**. In **परिकर²**[^40]the sense suggested through the force of the sense of the sentence or of a word. or words, contributes to the expressed sense; here the sense of the sentence or of the word itself constitutes the reason.
+
+[^39]: "साक्षात्परम्परया वा यत्र कारकहेतुरर्थतोऽवगम्यते तत्काव्यलिंगम्। उक्तार्थदृढप्रत्ययाय यत्रार्थान्तरन्यसनं तत्रार्थान्तरन्यासः। निजदोषत्यादौ... विशेषरूपोऽर्थो न सामान्यार्थे कारकहेतुरिति न काव्यलिंगतेति। अनुमाने तु ज्ञापकहेतूपन्यासः अस्मादिदं गम्यते इति। प्रभा."
+
+[^40]: "परिकरे पदार्थवाक्यार्थबलात् प्रतीयमानोऽर्थो वाच्योपकारतां भजते, काव्यलिंगे तु पदार्थवाक्यार्थावेव हेतुभावं भजत इति। Sud."
 
 
 
@@ -5048,7 +5128,9 @@ belongs to the class of **गो**s, that it is white, that it is walking etc.
 
  Kā. xxix. *c*:—**(A description of) the prosperity of a thing is (termed) the Exalted.**
 
- '*Prosperity* (of a thing)' means '*connection* of that thing *with the plenty* of anything.' It does not mean[**¹**](# "'बदरामलकाम्रदाडिमानामपहृत्य श्रियमुन्नतां क्रमेण। अधुना हरणे कुचौ यतेते दयिते ते करिशावकुम्भलक्ष्म्याः॥' BV. Sr. 8. इत्यादौ पर्यायालंकारभेदेऽतिप्रसंगादिति भावः। प्रभा.") 'abundance' of that thing itself. For, if it would mean that, the definition would extend to such a verse as**वदरा** etc. which is an instance of **पर्याय**.
+ '*Prosperity* (of a thing)' means '*connection* of that thing *with the plenty* of anything.' It does not mean**¹**[^41] 'abundance' of that thing itself. For, if it would mean that, the definition would extend to such a verse as**वदरा** etc. which is an instance of **पर्याय**.
+
+[^41]: "'बदरामलकाम्रदाडिमानामपहृत्य श्रियमुन्नतां क्रमेण। अधुना हरणे कुचौ यतेते दयिते ते करिशावकुम्भलक्ष्म्याः॥' BV. Sr. 8. इत्यादौ पर्यायालंकारभेदेऽतिप्रसंगादिति भावः। प्रभा."
 
  The figure is instanced in **मुक्ताः**etc. verse 114. Here the houses of the learned are described as connected with
 
@@ -5083,7 +5165,9 @@ KĀRIKĀ XXX.
  The figure is instanced in **दुर्वाराः**etc. verse 116. Here, *the (irresisitble) arrows of Cupid, themselves, make the 'state of separation' insupportable; over and above these (such causes as) the 'lover's being at a distance etc.' are mentioned as* doing the same.
 
 
-Rudrața[**¹**](# "सतोर्योगः—सामोदे मधु कुसुमे जननयनानन्दने सुधा चन्द्रे। क्वचिदपि रूपवति गुणा जगति सुनीतं विधातुरिदम्॥ असतोर्योगः—आलिंगिताः करीरैः शम्यस्तप्तोषपांसुनिचयेन। मरुतोऽतिखरा ग्रीष्मे किमतोऽन्यदमद्रमस्तु मरौ॥ सदसतोर्योगः—कमलवनेषु तुषारो रूपविलासादिशालिनीषु जरा। रमणीष्वपि दुश्चरितं धातुर्लक्ष्मीश्च नीचेषु॥ रुद्रट VII. 24-26.") has divided this figure into three kinds, i. e. Combination (1) of good things, (2) of bad things, and (3) of good and bad things, and defined them separately. But, *inasmuch as this very (**figure**, i. e.) Conjunction holds good* in all these kinds*,* that is, *where the combination is of good things, where the combination is of bad things, and where the combination is of good and bad things, we have not defined these separately.*
+Rudrața**¹**[^42] has divided this figure into three kinds, i. e. Combination (1) of good things, (2) of bad things, and (3) of good and bad things, and defined them separately. But, *inasmuch as this very (**figure**, i. e.) Conjunction holds good* in all these kinds*,* that is, *where the combination is of good things, where the combination is of bad things, and where the combination is of good and bad things, we have not defined these separately.*
+
+[^42]: "सतोर्योगः—सामोदे मधु कुसुमे जननयनानन्दने सुधा चन्द्रे। क्वचिदपि रूपवति गुणा जगति सुनीतं विधातुरिदम्॥ असतोर्योगः—आलिंगिताः करीरैः शम्यस्तप्तोषपांसुनिचयेन। मरुतोऽतिखरा ग्रीष्मे किमतोऽन्यदमद्रमस्तु मरौ॥ सदसतोर्योगः—कमलवनेषु तुषारो रूपविलासादिशालिनीषु जरा। रमणीष्वपि दुश्चरितं धातुर्लक्ष्मीश्च नीचेषु॥ रुद्रट VII. 24-26."
 
 
 
@@ -5093,7 +5177,9 @@ Rudrața[**¹**](# "सतोर्योगः—सामोदे मधु �
 
  The third kind is instanced in**शशी दिवसधूसरः**etc. verse 118. *Here, the 'moon dimmed (by day)’ is alone sufficient to become a sore affliction (to my heart); yet other sore afflictions (are mentioned). Thus, inasmuch* as a 'wicked person' is bad, and the 'moon' good*, there is (here) a Conjunction of both good and bad things.*
 
- ’This requires consideration,’ [¹](# "चिन्त्यत्वे हेतुमाह—पूर्वमिति। दुर्वारा इत्युदाहरणे इत्यर्थः। विशेषणेनासम्यक्त्वमित्यन्वयः। तत्रापि हि प्रियतमस्य सत्त्वमेव, दूरस्थितिविशेषणेन परमसत्त्वम्। इहापि स्वतः सुन्दरस्य शशिनो दिवसधूसरत्वेनेत्य सद्योग एवेत्यर्थः। प्रभा.")says Pradīpa. 'For, just as in the previous example (viz. **दुर्वाराः**etc.), the lover, although naturally good, becomes bad in virtue of his being at a distance, so here also, the moon although naturally good, becomes bad in virtue of his being dimmed by day. Thus, this verse also, like **दुर्वाराः**etc., deserves to be an example of **असद्योग** and not of **सदसद्योग** as said by Mammaṭa.'
+ ’This requires consideration,’ ¹[^43]says Pradīpa. 'For, just as in the previous example (viz. **दुर्वाराः**etc.), the lover, although naturally good, becomes bad in virtue of his being at a distance, so here also, the moon although naturally good, becomes bad in virtue of his being dimmed by day. Thus, this verse also, like **दुर्वाराः**etc., deserves to be an example of **असद्योग** and not of **सदसद्योग** as said by Mammaṭa.'
+
+[^43]: "चिन्त्यत्वे हेतुमाह—पूर्वमिति। दुर्वारा इत्युदाहरणे इत्यर्थः। विशेषणेनासम्यक्त्वमित्यन्वयः। तत्रापि हि प्रियतमस्य सत्त्वमेव, दूरस्थितिविशेषणेन परमसत्त्वम्। इहापि स्वतः सुन्दरस्य शशिनो दिवसधूसरत्वेनेत्य सद्योग एवेत्यर्थः। प्रभा."
 
  Pradipa takes**सदसद्योग** as a **द्वंद्व**Compound and interprets it as 'Conjunction of good and bad things.' But this interpretation is wrong. For, firstly, if we accept it, the verse becomes open to the fault of a**सहचरभिन्नत्व**(Dissimilarity of the
 
@@ -5103,20 +5189,28 @@ Rudrața[**¹**](# "सतोर्योगः—सामोदे मधु �
 
 associated), inasmuch as it contains the association of good and bad things which are opposed to each other. And secondly, according to this interpretation, the example, as Pradīpa himself says, becomes identical with the example **दुर्वाराः** etc.
 
- We should, therefore, take **सदसद्योग**as a **कर्मधारय** Compound (**संतश्च ते असन्तश्च, तेषां योगः**) and interpret it as 'Conjunction of things that are both good and bad.' Now, the fault of**सहचरभिन्नत्व** vanishes; for, each of the things combined in the verse being both good and bad- good by itself, and bad in a particular state,—the combination is not unequal. The example also may be differeet from **दुर्वाराः**etc. thus:- In[**दुर्वाराः**](# "1. दुर्वाराः शशीत्यनयोः कथं भेद इति चेत्, इत्यम्- दुर्वारा इत्यत्र विरहासहिष्णुतया प्रियतमादीनां सतामप्यसत्त्वेन विवक्षा, इह तु शोभनस्य सतो धूसरत्वादिन अशोभनत्वमपीति विवक्षा। प्रभा.")etc. although a 'lover etc.' are naturally good things, still they are intended by the poet to appear as simply bad to the woman under separation. Whilst, here the 'moon etc.' are intended to appear as both good and bad-good in virtue of their beauty and bad in virtue of their distressing the mind etc. Or thus:- In **दुर्वाराः** etc., although one thing, i. e. the 'lover' is good naturally, but bad when he is at a distance, still, all the other things mentioned in the verse, i. e.**मार्गण,वयः, वसंत** etc., are painful to the woman under separation even naturally.
+ We should, therefore, take **सदसद्योग**as a **कर्मधारय** Compound (**संतश्च ते असन्तश्च, तेषां योगः**) and interpret it as 'Conjunction of things that are both good and bad.' Now, the fault of**सहचरभिन्नत्व** vanishes; for, each of the things combined in the verse being both good and bad- good by itself, and bad in a particular state,—the combination is not unequal. The example also may be differeet from **दुर्वाराः**etc. thus:- In**दुर्वाराः**[^44]etc. although a 'lover etc.' are naturally good things, still they are intended by the poet to appear as simply bad to the woman under separation. Whilst, here the 'moon etc.' are intended to appear as both good and bad-good in virtue of their beauty and bad in virtue of their distressing the mind etc. Or thus:- In **दुर्वाराः** etc., although one thing, i. e. the 'lover' is good naturally, but bad when he is at a distance, still, all the other things mentioned in the verse, i. e.**मार्गण,वयः, वसंत** etc., are painful to the woman under separation even naturally.
+
+[^44]: "1. दुर्वाराः शशीत्यनयोः कथं भेद इति चेत्, इत्यम्- दुर्वारा इत्यत्र विरहासहिष्णुतया प्रियतमादीनां सतामप्यसत्त्वेन विवक्षा, इह तु शोभनस्य सतो धूसरत्वादिन अशोभनत्वमपीति विवक्षा। प्रभा."
 
  Thus, inasmuch as all the things in the verse (**दुर्वाराः**etc.) except **प्रियतम**are bad, the verse is nothing but an example of **असद्योग**. But, here all the things are both good and bad— good naturally but bad in virtue of the attributes**धूसरत्व**etc.; therefore, this is an example of **सदसद्योग.**Everywhere in the verse the **विशेष्यऽ** such as **शशी**etc. are good, and the **विशेषणऽ** such as **धूसर**etc. are bad. This uniformity is, however, violated in **नृपांगणगतः खलः** where the **विशेष्य**, i. e. खल is
 
 
 
-bad, but the **विशेषण**, i. e. **नृपांगण** is good. But, inasmuch[**¹**](# "इदं तु बोध्यम्, 'शशी दिवसधूसरः' इत्यादौ विशेष्यं काम्यमिति सत्, विशेषणं निन्द्यमिति असत्। 'नृपांगणगतः खलः' इत्यत्र तु विशेषणं काम्यमिति सत्, विशेषणं निन्द्यमिति असत्, नैतावता विशिष्टेषु शल्येषु भेदोऽस्ति। Sudh...")as here also we get a thing, i. e. **खल**that is both good and bad (whether the **विशेष्य** is good or the **विशेषण** is good is here in significant), the whole verse is a good example of **सदसद्योग**.
+bad, but the **विशेषण**, i. e. **नृपांगण** is good. But, inasmuch**¹**[^45]as here also we get a thing, i. e. **खल**that is both good and bad (whether the **विशेष्य** is good or the **विशेषण** is good is here in significant), the whole verse is a good example of **सदसद्योग**.
+
+[^45]: "इदं तु बोध्यम्, 'शशी दिवसधूसरः' इत्यादौ विशेष्यं काम्यमिति सत्, विशेषणं निन्द्यमिति असत्। 'नृपांगणगतः खलः' इत्यत्र तु विशेषणं काम्यमिति सत्, विशेषणं निन्द्यमिति असत्, नैतावता विशिष्टेषु शल्येषु भेदोऽस्ति। Sudh..."
 
 
-Some,[**²**](# " 'नृपांगणगतः खलः' इत्यत्र नृपांगणगतत्वेन शोभनत्वं खलत्वेन चाशोभनत्वमिति समर्थनेऽपि ( भग्नप्रक्रमत्वात् ) तदंशमुपेक्ष्यैव अलंकारोदाहरणता। Chan.") however, say that inasmuch as the verse contains **भग्नप्रक्रमत्व**, it is unfit to become an example of this figure. They, therefore, regard the first three lines only of the verse as an example of **सदसद्योग**. Udyota wishes to avoid the fault altogether by proposing to read **नृपांगणमसद्युतम्** for **नृपांगणगतः खलः.**
+Some,**²**[^46] तदंशमुपेक्ष्यैव अलंकारोदाहरणता। Chan.") however, say that inasmuch as the verse contains **भग्नप्रक्रमत्व**, it is unfit to become an example of this figure. They, therefore, regard the first three lines only of the verse as an example of **सदसद्योग**. Udyota wishes to avoid the fault altogether by proposing to read **नृपांगणमसद्युतम्** for **नृपांगणगतः खलः.**
+
+[^46]: " 'नृपांगणगतः खलः' इत्यत्र नृपांगणगतत्वेन शोभनत्वं खलत्वेन चाशोभनत्वमिति समर्थनेऽपि ( भग्नप्रक्रमत्वात्
 
 ** **Kā. xxx. *d*:— **That is another ( kind of Conjunction ) where Qualities and Actions are sim ultaneous.**
 
-** **The Compound **गुणक्रियाः** may be solved, according to some, as **गुणौ च क्रिये च = गुणक्रियाः, गुणश्च क्रिया च = गुणक्रिये,** and then by **एकशेष, गुणक्रियाश्च गुणक्रिये च = गुणक्रियाः.** Here, the number of the things conjoined is not the point. Hence, the dual number of **गुणौ**and**क्रिये** is insignificant. Thus, those men[**³**](# "अन्ये तु गुणाश्च क्रियाश्चेति द्वंद्वे बहूनामेव समुच्चयः स्यादतो गुणौ च क्रिये चेति द्वंद्वोत्तरं गुणक्रियाश्च गुणक्रिये चेति गुणक्रियाः इत्येकशेषात् द्वयोर्द्वयोरेव समुच्चय इति त्रिविधः समुच्चयोऽयमित्याहुः। एतन्मते द्विवचनांतेनोत्सर्गतः समासाभावात्तत्कल्पनक्लेशः द्वयोरेव समुच्चय इत्यप्ययुक्तम्। बहूनामपि गुणानां बह्वीनामपि क्रियाणां च समुच्चयस्येष्टत्वात्। प्रभा.") are not right who suppose that the dual number is significant as showing that the things combined, must be
+** **The Compound **गुणक्रियाः** may be solved, according to some, as **गुणौ च क्रिये च = गुणक्रियाः, गुणश्च क्रिया च = गुणक्रिये,** and then by **एकशेष, गुणक्रियाश्च गुणक्रिये च = गुणक्रियाः.** Here, the number of the things conjoined is not the point. Hence, the dual number of **गुणौ**and**क्रिये** is insignificant. Thus, those men**³**[^47] are not right who suppose that the dual number is significant as showing that the things combined, must be
+
+[^47]: "अन्ये तु गुणाश्च क्रियाश्चेति द्वंद्वे बहूनामेव समुच्चयः स्यादतो गुणौ च क्रिये चेति द्वंद्वोत्तरं गुणक्रियाश्च गुणक्रिये चेति गुणक्रियाः इत्येकशेषात् द्वयोर्द्वयोरेव समुच्चय इति त्रिविधः समुच्चयोऽयमित्याहुः। एतन्मते द्विवचनांतेनोत्सर्गतः समासाभावात्तत्कल्पनक्लेशः द्वयोरेव समुच्चय इत्यप्ययुक्तम्। बहूनामपि गुणानां बह्वीनामपि क्रियाणां च समुच्चयस्येष्टत्वात्। प्रभा."
 
 
 
@@ -5128,17 +5222,23 @@ two and two only. For, it is a general rule that the number of the words that ar
 
  The Simultaneity of two Qualities (1) is instanced in **विदलित**etc. (**रुद्रट** VII. 28) verse 119. Here, the simultaneity is of two Qualities, i, e. brightness and darkness.
 
- Simultaneity of many Qualities is instanced in [**प्रादुर्भवति¹**](# "प्रादुर्भवति पयोदे कज्जलमलिनं बभूव नभः। रक्तं च पथिकहृदयं कपोलपाली मृगीदृशः पाण्डुः॥ प्रभा.")etc.
+ Simultaneity of many Qualities is instanced in **प्रादुर्भवति¹**[^48]etc.
+
+[^48]: "प्रादुर्भवति पयोदे कज्जलमलिनं बभूव नभः। रक्तं च पथिकहृदयं कपोलपाली मृगीदृशः पाण्डुः॥ प्रभा."
 
  The Simultaneity of two Actions is instanced in**अयमेक**etc. verse 120. Here, the Simultaneity is of two Actions, i. e. arriving and becoming.
 
- The Simultaneity of many Actions is instanced in[**उदितं**](# "उदितं मंडलमिन्दोरुदितं सद्यो वियोगिवर्गेण। मुदितं च सकलललनाचूडामणिशासनेन मदनेन॥ प्रभा.")etc.
+ The Simultaneity of many Actions is instanced in**उदितं**[^49]etc.
+
+[^49]: "उदितं मंडलमिन्दोरुदितं सद्यो वियोगिवर्गेण। मुदितं च सकलललनाचूडामणिशासनेन मदनेन॥ प्रभा."
 
  The Simultaneity of a Quality and Action is instanced. in **कलुषं च**etc. vorse 121. Here, the Quality 'turbidity' and the Action 'falling' are simultaneous.
 
 
 
- *It should not be said, as Rudrata does, that (this Conjunction is possible only) when the abodes (of the simultaneoue things) are different, nor (should it be said that it is possibls only) when the abode is one and the same; for, (such verses as)***धुनोति**etc. and **कृपाणपाणि**: etc. are found, in the former of which, the Action**धुनोति** and**तनोति** are simultaneous, although their abode is one and the same, and in the latter, the Actions **पाणौ कृपाणकरण** and **साधुवादकरण** are simultaneous, although their abodes are different. All [these¹](# "अत्र कार्यकारणयोरेककालात्मकविपर्ययरूपातिशयोक्तिर्मूलं न तु स एवालङ्कारस्तस्येहांगत्वात्। Viv.")varieties of Conjunction are as a rule founded upon a Hyperbole consisting in the inversion of the necessary sequence of cause and effect. Thus, Hyperbole is not the figure here, but Conjunction, Hyperbole being only subordinate to it.
+ *It should not be said, as Rudrata does, that (this Conjunction is possible only) when the abodes (of the simultaneoue things) are different, nor (should it be said that it is possibls only) when the abode is one and the same; for, (such verses as)***धुनोति**etc. and **कृपाणपाणि**: etc. are found, in the former of which, the Action**धुनोति** and**तनोति** are simultaneous, although their abode is one and the same, and in the latter, the Actions **पाणौ कृपाणकरण** and **साधुवादकरण** are simultaneous, although their abodes are different. All these¹[^50]varieties of Conjunction are as a rule founded upon a Hyperbole consisting in the inversion of the necessary sequence of cause and effect. Thus, Hyperbole is not the figure here, but Conjunction, Hyperbole being only subordinate to it.
+
+[^50]: "अत्र कार्यकारणयोरेककालात्मकविपर्ययरूपातिशयोक्तिर्मूलं न तु स एवालङ्कारस्तस्येहांगत्वात्। Viv."
 
 34\. THE SEQUENCE (**पर्याय**)
 
@@ -5160,7 +5260,9 @@ in places that are several. No cause, however, as to why it resides in many plac
 
 * *The second variety (2) is instanced in **तत्तेषां**etc. verse124. Here, one and the same 'heart' is made to reside in two places, i. e. **विष्णु** and **बिम्बाधर**. The causal agency, i. e. ’Cupid' is mentioned.,
 
- The verse **श्रोणीभागः**etc. commented upon by Udyota, is found in some books of the Kāvyaprakāśa. Many commentators such as Māṇikya-Candra and others regard it as an example of the first variety of **पर्यायः**, [inasmuch¹](# "अत्र एकस्य तनुत्वादेर्द्वये वृत्तिः। पूर्वार्द्धमत्रोदाहरणम्। नन्वाश्रयेत्यत्र एकस्य बहुषु वृत्तिः। San.")as in the first line of it, one thing, i. e. **तनुत्व**is said to reside in the two places **श्रोणीभाग** and **मध्यभाग**, and in the second line, one thing, i. e. **तरलगति** is said to reside in the two places **पाद** and **लोचन**. In this example, one thing resides in two places; in the next**नन्वाश्रय**etc., one thing resides in many places. This, according to Sanketa, is the distinction between the two examples. But Sudhāsāgara and others regard this verse as an interpolation, probably on the **g**round that this example is unnecessary and also on the ground that this does not become an example of **पर्याय** since the word **विनिमय** in the verse shows that **पर्याय**is not intended by the poet.
+ The verse **श्रोणीभागः**etc. commented upon by Udyota, is found in some books of the Kāvyaprakāśa. Many commentators such as Māṇikya-Candra and others regard it as an example of the first variety of **पर्यायः**, inasmuch¹[^51]as in the first line of it, one thing, i. e. **तनुत्व**is said to reside in the two places **श्रोणीभाग** and **मध्यभाग**, and in the second line, one thing, i. e. **तरलगति** is said to reside in the two places **पाद** and **लोचन**. In this example, one thing resides in two places; in the next**नन्वाश्रय**etc., one thing resides in many places. This, according to Sanketa, is the distinction between the two examples. But Sudhāsāgara and others regard this verse as an interpolation, probably on the **g**round that this example is unnecessary and also on the ground that this does not become an example of **पर्याय** since the word **विनिमय** in the verse shows that **पर्याय**is not intended by the poet.
+
+[^51]: "अत्र एकस्य तनुत्वादेर्द्वये वृत्तिः। पूर्वार्द्धमत्रोदाहरणम्। नन्वाश्रयेत्यत्र एकस्य बहुषु वृत्तिः। San."
 
 
 
@@ -5176,16 +5278,20 @@ in places that are several. No cause, however, as to why it resides in many plac
 
  The second variety (2) is instanced in **तद्गेहं**etc. verse 126. Here, the 'house' and the 'palace,' are successively made to belong to one: and the same person i. e. 'this Brāhmin.' The causal agency, i. e. 'days' is mentioned.
 
- *Here* (i. e. in both the varieties of this figure), *there is no* Barter. For, [although¹](# "ननु द्विविधोऽत्र पर्यायः परिवृत्त्याभिन्न एव। पूर्वत्र त्यक्तग्रहणरूपत्वेन परत्रैकवस्तुत्यागानन्तरापरवस्तुग्रहणरूपत्वेन परिवृत्तिसम्भवात्। D. V.")in the first variety of this figure the fact that one and the same thing should be abandoned by one person and received by another is intended as in Barter, still, the additional fact *that one and the same (person) should abandon (one thing) and receive (another), is not intended* as it is in Barter.
+ *Here* (i. e. in both the varieties of this figure), *there is no* Barter. For, although¹[^52]in the first variety of this figure the fact that one and the same thing should be abandoned by one person and received by another is intended as in Barter, still, the additional fact *that one and the same (person) should abandon (one thing) and receive (another), is not intended* as it is in Barter.
+
+[^52]: "ननु द्विविधोऽत्र पर्यायः परिवृत्त्याभिन्न एव। पूर्वत्र त्यक्तग्रहणरूपत्वेन परत्रैकवस्तुत्यागानन्तरापरवस्तुग्रहणरूपत्वेन परिवृत्तिसम्भवात्। D. V."
 
  Thus, for instance, in **नन्वाश्रय**еtc., verse 122, although the fact that**कालकूट**should be abandoned by **अर्णव**and receivedby**शंकर**is intended as in Barter, still, the additional factthat**अर्णव**should abandon**कालकूट** and receive something else, or that **शंकर**should receive**कालकूट** and abandon something else, is not intended as it is in Barter.
 
 
 
 
-[Although¹](# "अत्र गेहादि त्यज्यते एव, न तु केनापि स्वीक्रियते। परिवृत्तौ तु यदेकेन त्यज्यते तदन्येन गृह्यते। San.")
+Although¹[^53]
 
 **कालकूट**
+
+[^53]: "अत्र गेहादि त्यज्यते एव, न तु केनापि स्वीक्रियते। परिवृत्तौ तु यदेकेन त्यज्यते तदन्येन गृह्यते। San."
 
 
 
@@ -5221,7 +5327,9 @@ is abandoned by **अर्णव**, still, something else is not received by hi
 
 
 
- *The Conclusion (***साध्य**) is [a¹](# "अयोगव्यवच्छेदोऽवश्यं संबंधः। प्रभा.")*necessary connection of the* **साध्.***(which invariably* *accompanies the* **हेतु**), *with the* **पक्ष**.
+ *The Conclusion (***साध्य**) is a¹[^54]*necessary connection of the* **साध्.***(which invariably* *accompanies the* **हेतु**), *with the* **पक्ष**.
+
+[^54]: "अयोगव्यवच्छेदोऽवश्यं संबंधः। प्रभा."
 
  A poetical representation of both the Reason and the Conclusion, of the character described above, is Inference.
 
@@ -5233,7 +5341,11 @@ is abandoned by **अर्णव**, still, something else is not received by hi
 
  The Reason:—Because they direct arrows in the form of the movements of their eye-brows towards a young man. (**हेतु**)—a fact which is invariably accompanied by another fact i. e. 'Cupid always running before them.' (**व्याप्ति**)
 
-  If it be said: the Conclusion may also be stated first, a in **मधु तिष्ठति**etc., just as it is stated afterwards, in the present verse. Why has the Inference been treated generally instead of being described [particularly](# "विशेषत इति। उक्तप्रकारद्वयवत्तया इत्यर्थः। प्रभा.")², i. e. as possessed of two kinds. [Besides](# "तथा च अतिशयोक्तौकार्यकारणयोः पौर्वापर्यविपर्ययवत् अत्रापि साध्ययोः पौर्वापर्यविपर्ययोऽपि वक्तव्यः, उक्तश्च रुद्रटेन। Vide Cha & San.")³, the reversed order of the Reason and the Conclusion should also be admitted (as it has been admitted by Rudrața) as a figure; as the reversed order of Cause and Effect has been recognized as a figure (i. e. Hyperbole).
+  If it be said: the Conclusion may also be stated first, a in **मधु तिष्ठति**etc., just as it is stated afterwards, in the present verse. Why has the Inference been treated generally instead of being described particularly[^55]², i. e. as possessed of two kinds. Besides[^56]³, the reversed order of the Reason and the Conclusion should also be admitted (as it has been admitted by Rudrața) as a figure; as the reversed order of Cause and Effect has been recognized as a figure (i. e. Hyperbole).
+
+[^55]: "विशेषत इति। उक्तप्रकारद्वयवत्तया इत्यर्थः। प्रभा."
+
+[^56]: "तथा च अतिशयोक्तौकार्यकारणयोः पौर्वापर्यविपर्ययवत् अत्रापि साध्ययोः पौर्वापर्यविपर्ययोऽपि वक्तव्यः, उक्तश्च रुद्रटेन। Vide Cha & San."
 
  We reply that in Hyperbole where the order of cause and effect is reversed, there is a strikingness consisting in the apprehension of the instantaneous production of the effect by the cause, owing to the reversed position of cause
 
@@ -5257,9 +5369,15 @@ and effect. *There is no such strikingness (however), in the inversion of the se
 
 to all, and is not simply the absence of a fault. *Hence, the Significant has been ranked in (the class of) figures*. According to these men, the plural **विशेषणैः**is significant as showing that a plurality of significant epithets is required for this figure.
 
- On this Pradīpa:—The figure occurs even when only one significant epithet is employed; as in**अयि लावण्य**etc. Absence of the fault '**अपुष्टार्थ**' is possible not only when a significant epithet is employed, but even when no epithet is employed. Thus, the fact that an epithet is not **अपुष्ट**does not necessarily imply that it is significant. [Although¹](# "दोषाभावरूपस्यापि पुष्टार्थत्वस्य चमत्कृतिविशेषजनकत्वरूपमलङ्कारत्वं उपधेयसङ्करेऽपि उपाधेरसंकरान्निर्बाधमिति भावः। प्रभा. Vide R. G. also.")in some cases, as in the present verse, absence of the fault **अपुष्टार्थत्व** and the presence of the figure **परिकर** may both be found together, still, the grounds why the fault is absent and the figure is present are distinct. The fault is absent, because diminution of (the) pleasure (derived from a verse), which constitutes the very essence of a fault, is here absent. The figure is present, because it invests the verse with a peculiar charm. The peculiar charm or strikingness of a significant epithet is experienced by all and cannot, therefore, be denied; as in [**शुद्धे सद्मनि**](# "'शुद्धे सद्मनि पल्लविन्युपवने वाप्यां नवाम्भोरुहि॥ क्रीडाद्रौ च सशाद्बले विवलितग्रीवैर्विमुक्ता दृशः॥'। प्रभा.")²etc.
+ On this Pradīpa:—The figure occurs even when only one significant epithet is employed; as in**अयि लावण्य**etc. Absence of the fault '**अपुष्टार्थ**' is possible not only when a significant epithet is employed, but even when no epithet is employed. Thus, the fact that an epithet is not **अपुष्ट**does not necessarily imply that it is significant. Although¹[^57]in some cases, as in the present verse, absence of the fault **अपुष्टार्थत्व** and the presence of the figure **परिकर** may both be found together, still, the grounds why the fault is absent and the figure is present are distinct. The fault is absent, because diminution of (the) pleasure (derived from a verse), which constitutes the very essence of a fault, is here absent. The figure is present, because it invests the verse with a peculiar charm. The peculiar charm or strikingness of a significant epithet is experienced by all and cannot, therefore, be denied; as in **शुद्धे सद्मनि**[^58]²etc.
 
- The [author³](# "एतत्पर्यन्तं मम्मटाचार्याणां कृतिः। 'कृतः श्रीमम्मटाचार्यवर्यैः परिकरावधिः। प्रबंधः पूरितः शेषो विधायाल्लटसूरिणा॥’ अतः परमल्लटाचार्यस्य कृतिः। Nid.")of Nidarśana says that up to this point, the Kavyaprakāśa is composed by Mammața; what follows afterwards is the composition of another man named Allața.
+[^57]: "दोषाभावरूपस्यापि पुष्टार्थत्वस्य चमत्कृतिविशेषजनकत्वरूपमलङ्कारत्वं उपधेयसङ्करेऽपि उपाधेरसंकरान्निर्बाधमिति भावः। प्रभा. Vide R. G. also."
+
+[^58]: "'शुद्धे सद्मनि पल्लविन्युपवने वाप्यां नवाम्भोरुहि॥ क्रीडाद्रौ च सशाद्बले विवलितग्रीवैर्विमुक्ता दृशः॥'। प्रभा."
+
+ The author³[^59]of Nidarśana says that up to this point, the Kavyaprakāśa is composed by Mammața; what follows afterwards is the composition of another man named Allața.
+
+[^59]: "एतत्पर्यन्तं मम्मटाचार्याणां कृतिः। 'कृतः श्रीमम्मटाचार्यवर्यैः परिकरावधिः। प्रबंधः पूरितः शेषो विधायाल्लटसूरिणा॥’ अतः परमल्लटाचार्यस्य कृतिः। Nid."
 
 
 
@@ -5269,21 +5387,31 @@ to all, and is not simply the absence of a fault. *Hence, the Significant has be
 
 ** *****When, the nature of an object which, even though hidden is discovered somehow or other, is concealed under some pretence, that is* **व्याजोक्ति**.
 
- *This is not* **अपह्नुति***for, resemblance between both the***प्रकृत***and the***अप्रकृत**, *which is* *present in***अपह्नुति***is here impossible*. Although resemblance is present here,still, [it](# "अपह्नुतौ किल उभयनिष्ठं साम्यम्, अत्र तु प्रकृतस्यैव सद्भावात् प्रकृतनिष्ठमेव साम्यमिति भावः। प्रभा.")¹ is between **रति** and **शैत्य** of the Himālaya, which are both **प्रकृत** here.
+ *This is not* **अपह्नुति***for, resemblance between both the***प्रकृत***and the***अप्रकृत**, *which is* *present in***अपह्नुति***is here impossible*. Although resemblance is present here,still, it[^60]¹ is between **रति** and **शैत्य** of the Himālaya, which are both **प्रकृत** here.
 
- If it be said: In **व्याजोक्ति**, there is the concealment of a thing that is first hidden and is afterwards discovered; thus, inasmuch as the circumstances only of a thing concealed are here different, **व्याजोक्ति** is different from **अपह्नुति**. We reply that even in these cases (where the circumstances are different), there will be nothing but **अपह्नुति**if resemblance is possible in them, as in [**सीत्कार²**](# "यथा - 'सीत्कारं शिक्षयति व्रणयत्यधरं तनोति रोमाञ्चम्। नागरिकः किं मिलितो नहि नहि सखि हैमनः पवनः॥' इत्यादौगुप्तस्य नायकस्य सीत्कारेत्याद्युक्त्याव्यक्तस्य नहीत्यादिनाऽपह्नेवेऽप्यपहुतिरेवेत्यर्थः। Pr. and Kuv.")etc.
+[^60]: "अपह्नुतौ किल उभयनिष्ठं साम्यम्, अत्र तु प्रकृतस्यैव सद्भावात् प्रकृतनिष्ठमेव साम्यमिति भावः। प्रभा."
 
- If it again be said that where resemblance is stated for the sake of concealment, there is **व्याजोक्ति**; but where concealment is stated for the sake of resemblance, there is **अपह्नुति;** we reply that in both the cases, there is nothing but **अपह्नुति**, because in [both](# "उभयत्रेति। अपह्नवप्राधान्येऽङ्गत्वे च सति साम्य इत्यर्थः। प्रभा.")³, there is resemblance; whether concealment is predominant or subordinate is not the point.
+ If it be said: In **व्याजोक्ति**, there is the concealment of a thing that is first hidden and is afterwards discovered; thus, inasmuch as the circumstances only of a thing concealed are here different, **व्याजोक्ति** is different from **अपह्नुति**. We reply that even in these cases (where the circumstances are different), there will be nothing but **अपह्नुति**if resemblance is possible in them, as in **सीत्कार²**[^61]etc.
+
+[^61]: "यथा - 'सीत्कारं शिक्षयति व्रणयत्यधरं तनोति रोमाञ्चम्। नागरिकः किं मिलितो नहि नहि सखि हैमनः पवनः॥' इत्यादौगुप्तस्य नायकस्य सीत्कारेत्याद्युक्त्याव्यक्तस्य नहीत्यादिनाऽपह्नेवेऽप्यपहुतिरेवेत्यर्थः। Pr. and Kuv."
+
+ If it again be said that where resemblance is stated for the sake of concealment, there is **व्याजोक्ति**; but where concealment is stated for the sake of resemblance, there is **अपह्नुति;** we reply that in both the cases, there is nothing but **अपह्नुति**, because in both[^62]³, there is resemblance; whether concealment is predominant or subordinate is not the point.
+
+[^62]: "उभयत्रेति। अपह्नवप्राधान्येऽङ्गत्वे च सति साम्य इत्यर्थः। प्रभा."
 
 
 
-The same is the [opinion](# "यदाहुरिति। उद्भटादिमतानुसारिण इत्यर्थः।")¹of the followers of Udbhața and others.
+The same is the opinion[^63]¹of the followers of Udbhața and others.
+
+[^63]: "यदाहुरिति। उद्भटादिमतानुसारिण इत्यर्थः।"
 
  According to Udyota, in **अपह्नुति**, the affirmation of the **उपमान**is accompanied by the denial of the **उपमेय**. Here, nothing is denied, but something is made known as brought about by some other cause.
 
  *The figure is instanced in***शैलेन्द्र** *etc. verse 129. Here, horripilation (***पुलक***) and tremor (***वेपथु***) manifest themselves (on the body of S'iva) as the Involuntary Indication (of his love for Pārvatī); their natures, however, are concealed by their being represented as proceeding from cold.*
 
-  Pradīpa [remarks](# "तत्र कम्परोमाञ्चयोः पूर्वगूढत्वाभावादुद्भिन्नेत्यस्या संगतेः स्वयं उदाहरणं संगमयति- वयं त्विति। प्रभा.")², however, that 'horripilation' and 'tremor' are not first hidden, so that they cannot be said to be afterwards discovered. Thus, the example would be inconsistent with the Vṛtti of Mammața explaining the definition of **व्याजोक्ति**. He, therefore, says that here the love for Pārvati that was hidden is discovered by the Involuntary Indications of love, i. e. horripilation and tremor; it is then concealed under the pretence that these Indications proceed from cold.
+  Pradīpa remarks[^64]², however, that 'horripilation' and 'tremor' are not first hidden, so that they cannot be said to be afterwards discovered. Thus, the example would be inconsistent with the Vṛtti of Mammața explaining the definition of **व्याजोक्ति**. He, therefore, says that here the love for Pārvati that was hidden is discovered by the Involuntary Indications of love, i. e. horripilation and tremor; it is then concealed under the pretence that these Indications proceed from cold.
+
+[^64]: "तत्र कम्परोमाञ्चयोः पूर्वगूढत्वाभावादुद्भिन्नेत्यस्या संगतेः स्वयं उदाहरणं संगमयति- वयं त्विति। प्रभा."
 
 38\. SPECIAL MENTION (**परिसंख्या**)
 
@@ -5297,7 +5425,9 @@ The same is the [opinion](# "यदाहुरिति। उद्भटा�
 
  The words **पृष्टमपृष्टं च** give us the divisions of **परिसंख्या—**The (Special) *Mention here is sometimes (a) seen to be preceded by a question, and* sometimes*, (*b) seen to be *otherwise, i. e. not preceded by a question,* Thus, we get two divisions*. Similarly, in both these places, the thing to be excluded is (sometimes) (1) Implied and (sometimes) (2) Expressed. Thus, we get four divisions.*
 
- The word [**परिसंख्या¹**](# "परिसंख्येति। परिशब्दो वर्जनार्थः। संख्या बुद्धिः। प्रभा.")literally means ’knowledge (**संख्या**) of exclusion (**परि**).
+ The word **परिसंख्या¹**[^65]literally means ’knowledge (**संख्या**) of exclusion (**परि**).
+
+[^65]: "परिसंख्येति। परिशब्दो वर्जनार्थः। संख्या बुद्धिः। प्रभा."
 
  Examples in order :—
 
@@ -5316,11 +5446,15 @@ the fact that the banks of the Ganges should be resorted to, is well-known. It i
 
 
 
-[**परिसंख्या¹**](# "विधिरत्यन्तमप्राप्ते नियमः पाक्षिके सति। तत्र चान्यत्र च प्राप्ते परिसंख्येति गीयते॥Vide R. G.")is a kind of **विधि** which, according to the PūrvaMīmāṁsakas, means 'Restriction to one in exclusion of the other, out of two things both of which are possible.' As the sentence, "The five five-nailed animals should be eaten,' lays down an injunction that a man should eat five-nailed animals only, in exclusion of those that are not five-nailed, although by his natural appetite he is impelled to the eating of both.
+**परिसंख्या¹**[^66]is a kind of **विधि** which, according to the PūrvaMīmāṁsakas, means 'Restriction to one in exclusion of the other, out of two things both of which are possible.' As the sentence, "The five five-nailed animals should be eaten,' lays down an injunction that a man should eat five-nailed animals only, in exclusion of those that are not five-nailed, although by his natural appetite he is impelled to the eating of both.
+
+[^66]: "विधिरत्यन्तमप्राप्ते नियमः पाक्षिके सति। तत्र चान्यत्र च प्राप्ते परिसंख्येति गीयते॥Vide R. G."
 
  **नियम**is another kind of **विधि**which means 'Restriction to one in exclusion of the other, out of two things either of which is possible.' As the sentence**समे देशे यजेत**lays down an injunction that a man should sacrifice in an even place, when either alternative, i. e. sacrificing in an even place or sacrificing in an odd place was possible to him.
 
- Inasmuch as, however, in both these kinds of **विधि**, **इतरव्यावृत्ति** is the same, the definition of the figure **परिसंख्या**applies to both. [Thus](# "नियमोऽपि...परिसंख्यैव। पाक्षिकप्राप्तियुगपत्प्राप्तिरूपस्य अवान्तरविशेषस्याविवक्षणात्। R. G.")², **परिसंख्या** and **नियम** are regarded as identical in the Science of Rhetoric, in disregard of the minor distinctions of **पाक्षिकप्राप्ति** and **युगपत्प्राप्ति** between them. The figure is, sometimes, found as based upon a Paronomasia also; as in **चित्रेषु वर्णसंकराः**etc., which means : 'the mixture of **वर्ण**(colours) was to be found in paintings (but the mixture of **वर्ण**(castes) was not to be found among the subjects etc.).'
+ Inasmuch as, however, in both these kinds of **विधि**, **इतरव्यावृत्ति** is the same, the definition of the figure **परिसंख्या**applies to both. Thus[^67]², **परिसंख्या** and **नियम** are regarded as identical in the Science of Rhetoric, in disregard of the minor distinctions of **पाक्षिकप्राप्ति** and **युगपत्प्राप्ति** between them. The figure is, sometimes, found as based upon a Paronomasia also; as in **चित्रेषु वर्णसंकराः**etc., which means : 'the mixture of **वर्ण**(colours) was to be found in paintings (but the mixture of **वर्ण**(castes) was not to be found among the subjects etc.).'
+
+[^67]: "नियमोऽपि...परिसंख्यैव। पाक्षिकप्राप्तियुगपत्प्राप्तिरूपस्य अवान्तरविशेषस्याविवक्षणात्। R. G."
 
 39\. THE GARLAND OF CAUSES (**कारणमाला**)
 
@@ -5330,7 +5464,9 @@ the fact that the banks of the Ganges should be resorted to, is well-known. It i
 
 
 
- The figure occurs, also when something mentioned afterwards is successively spoken of as the cause of what precedes; as in **भवन्ति नरकाः** [etc](# "भवंति नरकाः पापात्पापं दारिद्र्यसंभवम्। दारिद्र्यमप्रदानेन तस्माद्दानपरो भव॥")¹.In [**मालादीपक**](http://्र "मालादीपके उत्तरोत्तरं प्रति पूर्वपूवार्थस्य हेतुत्वेऽपि सर्वेषामेकक्रियान्वयः- अत्र तु न तथा इति ततो भेदः। Vām.")², although each preceding thing is the cause of the suceeding, still, all the things are connected with one action. Here, they are not so connected. Thus the two figures are distinct.
+ The figure occurs, also when something mentioned afterwards is successively spoken of as the cause of what precedes; as in **भवन्ति नरकाः** etc[^68]¹.In [**मालादीपक**](http://्र "मालादीपके उत्तरोत्तरं प्रति पूर्वपूवार्थस्य हेतुत्वेऽपि सर्वेषामेकक्रियान्वयः- अत्र तु न तथा इति ततो भेदः। Vām.")², although each preceding thing is the cause of the suceeding, still, all the things are connected with one action. Here, they are not so connected. Thus the two figures are distinct.
+
+[^68]: "भवंति नरकाः पापात्पापं दारिद्र्यसंभवम्। दारिद्र्यमप्रदानेन तस्माद्दानपरो भव॥"
 
  The figure is instanced in **जितेन्द्रियत्वं**etc. verse 134. Here **जितेन्द्रियत्वं**etc. are successively spoken of as the causes of**विनय**etc. The verse is not a good example of this figure; for it is open to the fault of **भग्नप्रक्रमत्व.**When it is learnt that **जिर्तेद्रियत्व** is the cause of **विनय**, an expectation arises that **विनय**too must be the cause of something else. Now, this expectation is, no doubt, fulfilled by what is said in the second line. of the verse. But, inasmuch as it is there fulfilled indirectly, i. e. by saying **गुणप्रकर्षो विनयादावाप्यते**, instead of directly, i. e. by saying **विनयो गुणप्रकर्षस्य कारणम्**, uniformity, is said to be violated here.
 
@@ -5343,7 +5479,11 @@ the fact that the banks of the Ganges should be resorted to, is well-known. It i
 ** **Thus,**हेतु** is but (another name of)**काव्यलिंग***itself*, *which has been described before*.
 
 
-[Sārabodhinī¹](# "वस्तुतस्तु 'अविरलकमलविलासः' इत्यादिषु वैचित्र्यमनुभवसिद्धमेवेति उद्भटादिमतं समीचीनमेवेति नवीनाः। Sãr.")says, however, that a distinct beauty is apprehended from the verse **अविरल**etc., and that the opinion of Udbhaṭa who admits**हेतु** as a distinct figure, is thus [right](# "See my Sanskrit: Commentary on this point. It is a mistake to ascribe the quotation “हेतुमता सह हेतोरभिधानमभेदतो हेतुः")².
+Sārabodhinī¹[^69]says, however, that a distinct beauty is apprehended from the verse **अविरल**etc., and that the opinion of Udbhaṭa who admits**हेतु** as a distinct figure, is thus right[^70]².
+
+[^69]: "वस्तुतस्तु 'अविरलकमलविलासः' इत्यादिषु वैचित्र्यमनुभवसिद्धमेवेति उद्भटादिमतं समीचीनमेवेति नवीनाः। Sãr."
+
+[^70]: "See my Sanskrit: Commentary on this point. It is a mistake to ascribe the quotation “हेतुमता सह हेतोरभिधानमभेदतो हेतुः"
 
 40\. THE RECIPROCAL (**अन्योन्य**)
 
@@ -5351,7 +5491,9 @@ the fact that the banks of the Ganges should be resorted to, is well-known. It i
 
 ** **The Vṛtti here is simple.
 
- The reciprocal relation of cause and effect is not possible between two things; for, two things cannot exist before and after themselves. Therefore, the words 'through an act' are employed. "Through an act' means 'through the production of identical acts.' An object [existing³](# "अविशिष्टम्। शोभारहितमित्यर्थः। प्रभा.")without beauty, is as though it does not exist. Thus, two objects are metaphorically said to produce each other, when, really speaking, they produce identical acts causing each other's excellence.
+ The reciprocal relation of cause and effect is not possible between two things; for, two things cannot exist before and after themselves. Therefore, the words 'through an act' are employed. "Through an act' means 'through the production of identical acts.' An object existing³[^71]without beauty, is as though it does not exist. Thus, two objects are metaphorically said to produce each other, when, really speaking, they produce identical acts causing each other's excellence.
+
+[^71]: "अविशिष्टम्। शोभारहितमित्यर्थः। प्रभा."
 
 
 
@@ -5386,7 +5528,9 @@ the fact that the banks of the Ganges should be resorted to, is well-known. It i
 
 * The word***असकृत्***has been employed* to show that the questions and the answers must be many in this variety; *for, no strikingness is apprehended from the statement of a single question and a single answer.* In the first kind of Reply where the question is inferred, even a single answer is striking.
 
- **असंभाव्य**means, according to some, 'extra-ordinary,' but according to Pradipa, 'not known ordinarily, being beyond the reach of any other means of proof.' *In* **प्रश्नपरिसंख्या**, the answer, being well-known, *aims at but the exclusion of another*, there being no other purpose in its being given. *Here*, the answer stated in the verse, not being ordinarily known, *rests but with* *itself* i. e. aims at bringing out its own incomprehensibility. *This is the distinction between the* *two (figures)*. The [word¹](# "लोकातिक्रान्तगोचरतयेत्यस्य वृत्तिग्रंथस्य प्रमाणान्तरविषयागोचरतया इत्येवार्थः, न तु लोकोत्तरचमत्कारितयेति। प्रश्नपरिसंख्यायामपि तत्सत्त्वेन भेदानुपपत्तेरिति। प्रभा.")**लोकातिक्रान्तिगोचर**in the Vṛtti means: 'beyond the
+ **असंभाव्य**means, according to some, 'extra-ordinary,' but according to Pradipa, 'not known ordinarily, being beyond the reach of any other means of proof.' *In* **प्रश्नपरिसंख्या**, the answer, being well-known, *aims at but the exclusion of another*, there being no other purpose in its being given. *Here*, the answer stated in the verse, not being ordinarily known, *rests but with* *itself* i. e. aims at bringing out its own incomprehensibility. *This is the distinction between the* *two (figures)*. The word¹[^72]**लोकातिक्रान्तिगोचर**in the Vṛtti means: 'beyond the
+
+[^72]: "लोकातिक्रान्तगोचरतयेत्यस्य वृत्तिग्रंथस्य प्रमाणान्तरविषयागोचरतया इत्येवार्थः, न तु लोकोत्तरचमत्कारितयेति। प्रश्नपरिसंख्यायामपि तत्सत्त्वेन भेदानुपपत्तेरिति। प्रभा."
 
 
 
@@ -5396,11 +5540,17 @@ reach of any other means of proof,' and not 'remarkably striking.' For, if we ac
 
  According to the Moderns, the figure occurs, even if there is a single question and a single answer, both of them or even either of them being signficant; as in **किमिति**etc.
 
- The figure occurs even when the question is but one and the answers many; as in **किं स्वर्गाद्**[etc](# "किं स्वर्गादधिकसुखं बन्धुसुहृत्पंडितैः समं गोष्ठी। सौराज्यशुद्धवृत्तिः सत्काव्यरसामृतं स्वादु॥")¹.
+ The figure occurs even when the question is but one and the answers many; as in **किं स्वर्गाद्**etc[^73]¹.
 
- So also it occurs when the same words express both a question and an answer (owing to Parcnomasia ); as in **केदार** [etc](# "केदारपोषणरताः काशीतलवाहिनी गंगा। कंसं जघान कृष्णः कंबलवन्तं न बाधते शीतम्॥")².
+[^73]: "किं स्वर्गादधिकसुखं बन्धुसुहृत्पंडितैः समं गोष्ठी। सौराज्यशुद्धवृत्तिः सत्काव्यरसामृतं स्वादु॥"
 
- So also it occurs when two questions have only one answer as in **के खेटाः** [etc](# "के खेऽटाः किं चलं वयः ।")³.
+ So also it occurs when the same words express both a question and an answer (owing to Parcnomasia ); as in **केदार** etc[^74]².
+
+[^74]: "केदारपोषणरताः काशीतलवाहिनी गंगा। कंसं जघान कृष्णः कंबलवन्तं न बाधते शीतम्॥"
+
+ So also it occurs when two questions have only one answer as in **के खेटाः** etc[^75]³.
+
+[^75]: "के खेऽटाः किं चलं वयः ।"
 
 42\. THE SUBTLE (**सूक्ष्म**)
 
@@ -5414,7 +5564,9 @@ reach of any other means of proof,' and not 'remarkably striking.' For, if we ac
 
 
 
- The first kind is instanced in **वक्त्रस्यन्दि**etc., verse 139. *Here, the masculine action of a woman, guessed by looking at (her) appearance in the form of the 'mixing of the saffron with the drops of perspiration on the neck' is cleverly intimated to her and to other friends of hers by some one of her female friends, by drawing (on her hand the figure of) a sword.* A sword is the characteristic mark of manliness; for *men alone hold swords in their hands, they being fit persons to hold them*. Here, although there is **अनुमान**, since the**साधन** i. e. ¹[**कण्ठकुंकुमभेद**](# "कुंकुमेन भेदो मिश्रणम्। प्रभा.") and the **साध्य**, i. e. **पुरुषायित** are both stated as connected with one and the same **पक्ष**, i. e. the woman, still, it is subordinate to the Subtle; for, strikingness consists here in the clever bringing out of a very delicate circumstance.
+ The first kind is instanced in **वक्त्रस्यन्दि**etc., verse 139. *Here, the masculine action of a woman, guessed by looking at (her) appearance in the form of the 'mixing of the saffron with the drops of perspiration on the neck' is cleverly intimated to her and to other friends of hers by some one of her female friends, by drawing (on her hand the figure of) a sword.* A sword is the characteristic mark of manliness; for *men alone hold swords in their hands, they being fit persons to hold them*. Here, although there is **अनुमान**, since the**साधन** i. e. ¹**कण्ठकुंकुमभेद**[^76] and the **साध्य**, i. e. **पुरुषायित** are both stated as connected with one and the same **पक्ष**, i. e. the woman, still, it is subordinate to the Subtle; for, strikingness consists here in the clever bringing out of a very delicate circumstance.
+
+[^76]: "कुंकुमेन भेदो मिश्रणम्। प्रभा."
 
  **इंगित—**some particular motion of the limbs of the body.
 
@@ -5430,7 +5582,9 @@ reach of any other means of proof,' and not 'remarkably striking.' For, if we ac
 
 
 
- This is not [**परिसंख्या¹**](# "अत्र अन्यव्यपोहकृतचारुत्वमित्ययं परिसंख्यैवेत्येके, तदसत्, सारत्वे ह्यत्र विश्रान्तिर्नान्यव्यपोहे इति। San.")because strikingness here consists not in the exclusion of another, but in the gradual rise of excellence.
+ This is not **परिसंख्या¹**[^77]because strikingness here consists not in the exclusion of another, but in the gradual rise of excellence.
+
+[^77]: "अत्र अन्यव्यपोहकृतचारुत्वमित्ययं परिसंख्यैवेत्येके, तदसत्, सारत्वे ह्यत्र विश्रान्तिर्नान्यव्यपोहे इति। San."
 
  In the above example, the rise is of the excellence of an object of a superior quality. The figure occurs also where the rise is of the excellence of an object of an inferior quality; as in **तृणाल्लघुतरः**etc.
 
@@ -5442,23 +5596,33 @@ reach of any other means of proof,' and not 'remarkably striking.' For, if we ac
 
  
 
-Here, the word**अत्यन्त**although mentioned separatelyfrom**भिन्नदेशतया** is yet connected (as an adjective) with **भिन्न**, and shows that the places must be quite apart from each other. Thus, the definition does not extend to such an [example²](# "'दष्टो भुजंगेन पदेऽक्ष्णि घूर्णते ' इत्यत्र नातिव्याप्तिः, देशस्य अत्यन्तभिन्नत्वाभावात्। Vam.")as**दष्टो भुजंगेन** etc. where the eyes and feet are not completely different from each other in point of locality, they residing in one and the same body.
+Here, the word**अत्यन्त**although mentioned separatelyfrom**भिन्नदेशतया** is yet connected (as an adjective) with **भिन्न**, and shows that the places must be quite apart from each other. Thus, the definition does not extend to such an example²[^78]as**दष्टो भुजंगेन** etc. where the eyes and feet are not completely different from each other in point of locality, they residing in one and the same body.
+
+[^78]: "'दष्टो भुजंगेन पदेऽक्ष्णि घूर्णते ' इत्यत्र नातिव्याप्तिः, देशस्य अत्यन्तभिन्नत्वाभावात्। Vam."
 
 
 
  **युगपत्**is not a part of the definition, but a description simply; thus, the figure occurs in **उद्भिन्नमात्रे**etc. also, although simultaneity of time is there absent. The representation of cause and effect as residing in two different places is due to the fact that the causes here have a peculiar excellence and are thus different from ordinary causes.
 
- In a [Hyperbole](# "अतिशयोक्तेः कार्यकारणयोः पौर्वापर्यविपर्ययो लक्षणम्, अस्यास्तु कार्यकारणवैयधिकरण्यमिति भेदः। Cha.")¹, there is a reversion of the sequence of cause and effect; here, a local difference between them.
+ In a Hyperbole[^79]¹, there is a reversion of the sequence of cause and effect; here, a local difference between them.
 
- Its instance is **जस्से अ**etc. verse 142. Here, 'biting of the cheek by the teeth'-the cause, and 'pain'- the effect, are represented as residing in the 'wife' and the 'rival wives' of the Hero, in order to bring out the particular fact that the 'biting' gives acute pain to the rival wives of the Hero. [Here](# "2. अत्र शारीरमानसयोर्वेदनयोरेकत्वाध्यवसायो मूलम्। प्रभा."), identification between bodily and mental pain is at the bottom of this figure. In this verse, the use of a synonym**क्षत**, when the same word i. e.**व्रण**ought to be employed, makes the verse open to the fault of **भग्नप्रक्रमत्व**.
+[^79]: "अतिशयोक्तेः कार्यकारणयोः पौर्वापर्यविपर्ययो लक्षणम्, अस्यास्तु कार्यकारणवैयधिकरण्यमिति भेदः। Cha."
 
- If it be said:—The figure is nothing but Contradiction. For, [just³](# " ननु व्यधिकरणत्वेन नियतयोः सामानाधिकरण्यवत् समानाधिकरणत्वेन नियतयोर्वैयधिकरण्यस्यापि विरुद्धत्वाद्विरुद्धालङ्कार एवेति शंकते- नन्विति। प्रभा.")as the residence in one place**सामानाधिकरण्य**of two things which reside in two different places makes the two things contradictory of each other; so the residence in two different places (**वैयधिकरण्य**) of cause and effect which reside in one place makes them contradictory of each other. We reply- No. For, **वैयधिकरण्य**is Disconnection itself. Now Disconnection is not Contradiction. It simply indicates that there is a contradiction between two things; for, it is on account of this**वैयधिकरण्य** that the two things appear to be
+ Its instance is **जस्से अ**etc. verse 142. Here, 'biting of the cheek by the teeth'-the cause, and 'pain'- the effect, are represented as residing in the 'wife' and the 'rival wives' of the Hero, in order to bring out the particular fact that the 'biting' gives acute pain to the rival wives of the Hero. Here[^80], identification between bodily and mental pain is at the bottom of this figure. In this verse, the use of a synonym**क्षत**, when the same word i. e.**व्रण**ought to be employed, makes the verse open to the fault of **भग्नप्रक्रमत्व**.
+
+[^80]: "2. अत्र शारीरमानसयोर्वेदनयोरेकत्वाध्यवसायो मूलम्। प्रभा."
+
+ If it be said:—The figure is nothing but Contradiction. For, just³[^81]as the residence in one place**सामानाधिकरण्य**of two things which reside in two different places makes the two things contradictory of each other; so the residence in two different places (**वैयधिकरण्य**) of cause and effect which reside in one place makes them contradictory of each other. We reply- No. For, **वैयधिकरण्य**is Disconnection itself. Now Disconnection is not Contradiction. It simply indicates that there is a contradiction between two things; for, it is on account of this**वैयधिकरण्य** that the two things appear to be
+
+[^81]: " ननु व्यधिकरणत्वेन नियतयोः सामानाधिकरण्यवत् समानाधिकरणत्वेन नियतयोर्वैयधिकरण्यस्यापि विरुद्धत्वाद्विरुद्धालङ्कार एवेति शंकते- नन्विति। प्रभा."
 
 
 
 contradictory of each other. Thus, Disconnection is quite distinct from Contradiction.
 
- If it again be said—[Although¹](# "विरोधस्फूर्तिं विना चमत्काराभावात् स एवालङ्कारः समुचित इति पुनराशंकते नन्वेवमपीति। असंगतिविरोधयोर्भेदेऽपीत्यर्थः। प्रभा.")the two figures are distinct, still, inasmuch as no strikingness is here apparent, unless contradiction is brought out, let this contradiction itself be the figure, and not Dis-connection which simply indicates the presence of that contradiction. Nor should it be said that Contradiction is where there is **सामानाधिकरण्य**between two contradictory things, and not when there is **वैयधिकरण्य**between them; because the definition of Contradiction is very general and does not speak of this restriction.
+ If it again be said—Although¹[^82]the two figures are distinct, still, inasmuch as no strikingness is here apparent, unless contradiction is brought out, let this contradiction itself be the figure, and not Dis-connection which simply indicates the presence of that contradiction. Nor should it be said that Contradiction is where there is **सामानाधिकरण्य**between two contradictory things, and not when there is **वैयधिकरण्य**between them; because the definition of Contradiction is very general and does not speak of this restriction.
+
+[^82]: "विरोधस्फूर्तिं विना चमत्काराभावात् स एवालङ्कारः समुचित इति पुनराशंकते नन्वेवमपीति। असंगतिविरोधयोर्भेदेऽपीत्यर्थः। प्रभा."
 
  We reply:—No. For, although the definition is given generally, still its scope becomes restricted in virtue of a rule that a *general proposition covers all the ground except that covered by its exception.* Now, Disconnection is as exception to the general figure Contradiction. Disconnection occurs where two things residing in one place are represented as residing in two different places. This is the ground which it occupies. Therefore, the general figure, i. e. Contradiction, must leave this ground and occupy the remaining ground. It thus occurs where two things residing in two different places are represented as residing in one and the same place. Hence, examples of Contradiction have been given by us before, in accordance with this restriction of province made here.
 
@@ -5466,7 +5630,11 @@ contradictory of each other. Thus, Disconnection is quite distinct from Contradi
 
 
 
-in the definition of Contradiction, still, *this follows in virtue of the fact that a general proposition establishes itself (i. e. occupies its ground) after leaving the ground covered by its exception. Hence, ([Contradiction](# "उदाहृतं। विरोधालङ्कार इति शेषः। प्रभा."))¹ has been exemplified* by us before, *with a regard to* [this²](# "तथैव। सामानाधिकरण्येनैव। प्रभा.")very restriction of its scope laid down here.
+in the definition of Contradiction, still, *this follows in virtue of the fact that a general proposition establishes itself (i. e. occupies its ground) after leaving the ground covered by its exception. Hence, (Contradiction[^83])¹ has been exemplified* by us before, *with a regard to* this²[^84]very restriction of its scope laid down here.
+
+[^83]: "उदाहृतं। विरोधालङ्कार इति शेषः। प्रभा."
+
+[^84]: "तथैव। सामानाधिकरण्येनैव। प्रभा."
 
 45\. THE FACILITATION. (**समाधि**)
 
@@ -5474,7 +5642,9 @@ in the definition of Contradiction, still, *this follows in virtue of the fact t
 
 * When an act, which is begun, is accomplished without difficulty by an agent, being assisted by another (accidental) means, that is named* **समाधि**.
 
- The term **समाधि**etymologically means '[Accomplishing³](# "सम्यगाधानं करणमित्यर्थः। प्रभा.")a thing) well, i. e. easily.'
+ The term **समाधि**etymologically means 'Accomplishing³[^85]a thing) well, i. e. easily.'
+
+[^85]: "सम्यगाधानं करणमित्यर्थः। प्रभा."
 
  The figure is instanced in **मानमस्याः**etc. verse 143. Here, the effect, i. e. 'quelling of anger' which is being produced by the cause, i. e. 'falling at her feet,' is easily accomplished by the sudden operation of another cause, i. e. 'the roaring of the clouds.'
 
@@ -5524,7 +5694,11 @@ there is mere non-attainment of the desired object, or (C) when there is mere at
 
  The division A has been instanced in **सिंहिका**etc. verse 147.
 
- B may be instanced in **प्रभात[¹](# "प्रभातसमयप्रभां प्रणयिनि ह्नुवाना रसात्, अमुष्य नयनाम्बुजं सपदि पाणिनाऽमलियत्। अनेन खलु पद्मिनी परिमलालिपाटच्चरैः, समीरशिशुकैश्चिरादनुमितो दिनेशोदयः॥R. G. p. 446.")**etc. and C may be instanced in **पद्मातपत्र[²](# "पद्मातपत्ररसिके सरसीरुहस्य, किं बीजमर्पयितुमिच्छसि वापिकायाम्। कालः कलिर्जगदिदं न कृतज्ञमज्ञे, स्थित्वा हरिष्यति मुखस्य तवैव लक्ष्मीम्॥ Ku. p. 107.")**etc.
+ B may be instanced in **प्रभात¹[^86]**etc. and C may be instanced in **पद्मातपत्र²[^87]**etc.
+
+[^86]: "प्रभातसमयप्रभां प्रणयिनि ह्नुवाना रसात्, अमुष्य नयनाम्बुजं सपदि पाणिनाऽमलियत्। अनेन खलु पद्मिनी परिमलालिपाटच्चरैः, समीरशिशुकैश्चिरादनुमितो दिनेशोदयः॥R. G. p. 446."
+
+[^87]: "पद्मातपत्ररसिके सरसीरुहस्य, किं बीजमर्पयितुमिच्छसि वापिकायाम्। कालः कलिर्जगदिदं न कृतज्ञमज्ञे, स्थित्वा हरिष्यति मुखस्य तवैव लक्ष्मीम्॥ Ku. p. 107."
 
  The Kārikās do not exhaust the divisions of the figure; thus, other divisions of Inequality which may be generally defined as 'Absence of compatibility between two things related to each other any how,' are also possible. Thus, for instance, Inequality between two things related to each other as part and whole may be instanced in **विपुलेन**etc. verse 150. Here, 'sleeping on the ocean' and 'devouring all the worlds with the ocean' are incompatible things and constitute one **विषम**. Similarly, that the whole Kṛṣṇa whose belly is able to drink all the worlds should be drunk by a part of a woman's body, i. e. the eyes, is also incompatible. This is another **विषम**.
 
@@ -5560,7 +5734,9 @@ the latter, in order to intimate the excellence of the latter (i. e. the body of
 
   Kā. xliii—**When somebody unable to avenge himself on his enemy is represented as doing harm to one belonging to him, with a view to praise that very enemy, that is called the Rivalry.**
 
-** *****When some one, unable to directly punish an enemy, although he has done him an injury, (is represented as) punishing (another who is) dependent on him, with a view to prove that very enemy's superiority, that is termed* **प्रत्यनीक***;* so called *because, it is like the ally of an army. Just as one attacks, instead of an army* directly*, another who is an ally (1) of that (*army*) foolishly, or [(](# "तत्प्रतिनिधिभूतः तन्मित्रादिः सैन्यभयान्निगूढमभियुज्यते। पीड्यते इत्यर्थः। प्रभा.")*[according to Pradipa's reading](# "तत्प्रतिनिधिभूतः तन्मित्रादिः सैन्यभयान्निगूढमभियुज्यते। पीड्यते इत्यर्थः। प्रभा.")*[)](# "तत्प्रतिनिधिभूतः तन्मित्रादिः सैन्यभयान्निगूढमभियुज्यते। पीड्यते इत्यर्थः। प्रभा.")*[¹](# "तत्प्रतिनिधिभूतः तन्मित्रादिः सैन्यभयान्निगूढमभियुज्यते। पीड्यते इत्यर्थः। प्रभा.")*[](# "तत्प्रतिनिधिभूतः तन्मित्रादिः सैन्यभयान्निगूढमभियुज्यते। पीड्यते इत्यर्थः। प्रभा.")*secretly, for fear of being killed by that army; *so here also, while an enemy is to be conquered, another (person) connected with him is conquered.* The connection between the enemy and his friend may be (1) Direct or (2) Indirect. Thus, the figure is of two kinds.
+** *****When some one, unable to directly punish an enemy, although he has done him an injury, (is represented as) punishing (another who is) dependent on him, with a view to prove that very enemy's superiority, that is termed* **प्रत्यनीक***;* so called *because, it is like the ally of an army. Just as one attacks, instead of an army* directly*, another who is an ally (1) of that (*army*) foolishly, or ([^88]*according to Pradipa's reading[^88]*)[^88]*¹[^88]*[][^88]*secretly, for fear of being killed by that army; *so here also, while an enemy is to be conquered, another (person) connected with him is conquered.* The connection between the enemy and his friend may be (1) Direct or (2) Indirect. Thus, the figure is of two kinds.
+
+[^88]: "तत्प्रतिनिधिभूतः तन्मित्रादिः सैन्यभयान्निगूढमभियुज्यते। पीड्यते इत्यर्थः। प्रभा."
 
   The first is instanced in **त्वं विनिर्जित**etc. verse 153. Here, Cupid unable to conquer the Hero, conquers the Heroine who is directly connected with the Hero i. e. as his wife.
 
@@ -5574,7 +5750,11 @@ the latter, in order to intimate the excellence of the latter (i. e. the body of
 
 ** *****If through some mark, which is natural or adventitious, and which is common (to both the thing to be concealed and the thing which conceals it), a thing is concealed by another by its very nature, on account of its superior power, that they call twofold* **मीलित**.
 
- Here, the disappearance (i. e. non-apprehension) of a thing is natural, on account of the thing being eclipsed by another thing which is similar to and more powerful than it. In **व्याजोक्ति[¹](# "व्याजोक्तौ तिरोधानं न वस्तुस्वभावजनितं किंतु कथंचिदुद्भिन्नं वस्तु कश्चित् तिरोधातुं यतते इति विवक्षितम्। इह तु वस्तु नोद्भिन्नम्, तस्यापि च तिरोधानं वास्तविकतया विवक्षितमिति ततो भेदः। Viv.")**and [**अपह्नुति**](# "वस्तुगत्यैवेति। एतच्च अपह्नुत्यलङ्कारव्यावृत्त्यर्थम्। तत्र वस्तुतस्तिरोधानाभावात्। प्रभा.")², however, this disappearance is not natural.
+ Here, the disappearance (i. e. non-apprehension) of a thing is natural, on account of the thing being eclipsed by another thing which is similar to and more powerful than it. In **व्याजोक्ति¹[^93]**and **अपह्नुति**[^94]², however, this disappearance is not natural.
+
+[^93]: "व्याजोक्तौ तिरोधानं न वस्तुस्वभावजनितं किंतु कथंचिदुद्भिन्नं वस्तु कश्चित् तिरोधातुं यतते इति विवक्षितम्। इह तु वस्तु नोद्भिन्नम्, तस्यापि च तिरोधानं वास्तविकतया विवक्षितमिति ततो भेदः। Viv."
+
+[^94]: "वस्तुगत्यैवेति। एतच्च अपह्नुत्यलङ्कारव्यावृत्त्यर्थम्। तत्र वस्तुतस्तिरोधानाभावात्। प्रभा."
 
  The first kind is instanced in **अपांग**etc. verse 155. *Here, the marks tremulousness of the eyes etc. are natural to the body of the deer-eyed lady and they are common to the 'rise of intoxication', being found in that case also.*
 
@@ -5608,9 +5788,13 @@ because, according to it, the definition of this figure does not extend to such 
 
  The first kind is instanced in **पुराणि**etc. verse 157. and the second in **न तज्जलं**etc. verse 158. *Here, in the former (example, each succeeding thing) is affirmed (of each preceding thing) in the following order :— ’women' are affirmed of 'houses'; of those ('women') 'beauty' (is affirmed), through* its being said to be a means of the act of 'decoration' which is *an attribute of their bodies; of that 'beauty', 'sports' (are affirmed); and of those (’sports' also, the 'weapon* of Cupid' is affirmed). In the same manner, *in the latter example, (each succeeding thing) should be understood as denied as an attribute (of each preceding thing).* Thus of 'water,' 'lotuses' should be considered as denied; of 'lotuses,' 'bees,' of 'bees,' 'humming'; and of 'humming' also, 'charmingness."
 
- The figure occurs also when each succeeding thing is predicated as a subject to each preceding thing; as in**धर्मेण बुद्धिः**etc. Here, **बुद्धि**etc. are successively predicated as subjects to what precedes, i. e. **धर्मः**[etc](# " धर्मेण बुद्धिस्तव देव शुद्धा बुद्ध्या निबद्धा सहसैव लक्ष्मीः। लक्ष्म्या च तुष्टा भुवि सर्वलोका लोकैश्च नीता भुवनेषु कीर्तिः॥ उ.")¹.
+ The figure occurs also when each succeeding thing is predicated as a subject to each preceding thing; as in**धर्मेण बुद्धिः**etc. Here, **बुद्धि**etc. are successively predicated as subjects to what precedes, i. e. **धर्मः**etc[^95]¹.
 
- If each preceding thing helps each succeeding thing in an uniform manner, then this very variety becomes what has been called by the Ancients **मालादीपक. [मालादीपक](# "इह च शृंखलावयवानां पदार्थानां सादृश्यमेव नास्ति इति कथंकारं दीपकतावाचं श्रद्दधीमहि। तेषां प्रकृताप्रकृतात्मकत्वविरहाच्च। R. G.")²,** according to R. G. does not deserve to be **दीपक**, because it does not contain ’resemblance' which constitutes the very essence of**दीपक**, and besides, **मालादीपक** does not contain **प्रकृत** and **अप्रकृत**things both of which are found in **दीपक**.
+[^95]: " धर्मेण बुद्धिस्तव देव शुद्धा बुद्ध्या निबद्धा सहसैव लक्ष्मीः। लक्ष्म्या च तुष्टा भुवि सर्वलोका लोकैश्च नीता भुवनेषु कीर्तिः॥ उ."
+
+ If each preceding thing helps each succeeding thing in an uniform manner, then this very variety becomes what has been called by the Ancients **मालादीपक. मालादीपक[^96]²,** according to R. G. does not deserve to be **दीपक**, because it does not contain ’resemblance' which constitutes the very essence of**दीपक**, and besides, **मालादीपक** does not contain **प्रकृत** and **अप्रकृत**things both of which are found in **दीपक**.
+
+[^96]: "इह च शृंखलावयवानां पदार्थानां सादृश्यमेव नास्ति इति कथंकारं दीपकतावाचं श्रद्दधीमहि। तेषां प्रकृताप्रकृतात्मकत्वविरहाच्च। R. G."
 
 
 
@@ -5618,11 +5802,19 @@ because, according to it, the definition of this figure does not extend to such 
 
  Kā. xlvi. a b c :— **The recollection of an object,in the form in which it is cognised, on the perception of another object similar to it, is (termed) Reminiscence.**
 
- In this Kārikā, the word, **अर्थस्य स्मृतिः** alone constitute the definition of **स्मरण**. The word **यथानुभवम्** indicates the form of Reminiscence, and the words **दृष्टे तत्सदृशे** indicate all the circumstances that revive the impression of a former experience which generates recollection. Thus, such [circumstances](# "प्रणिधाननिबन्धाभ्यासलिंग लक्षणसादृश्यपरिग्रहाश्रयाश्रितसंबंधानन्तर्यवियोगैककार्यविरोधातिशयप्राप्तिव्यवधान- सुखदुःखेच्छाद्वेषभयार्थित्वक्रियारागधर्माधर्मनिमित्तेभ्य - (स्मृतिः)। Nyāya III, 2.44.") as Destiny, Contrast, Reflection, Association of ideas etc. are also included.
+ In this Kārikā, the word, **अर्थस्य स्मृतिः** alone constitute the definition of **स्मरण**. The word **यथानुभवम्** indicates the form of Reminiscence, and the words **दृष्टे तत्सदृशे** indicate all the circumstances that revive the impression of a former experience which generates recollection. Thus, such circumstances[^97]। Nyāya III, 2.44.") as Destiny, Contrast, Reflection, Association of ideas etc. are also included.
 
- Or, the words **दृष्टे तत्सदृशे**may be taken as forming part of the definition of **स्मरण**and thus serving the purpose of excluding all other [reminiscences](# "अन्यादृशेति । सादृश्यामूलकेत्यर्थः । ' स तथेति प्रतिज्ञाय विसृज्य कथमप्युमाम् । ऋषीञ्ज्योतिर्मयान् सप्त सस्मार स्मरशासनः॥ 'इत्यादौहि न स्मृतेश्चारुत्वमिति नालङ्कारत्वम्। प्रभा.") which are not based upon resemblance, and are not thus striking; thus**स तथेति** etc. is no example of this figure.
+[^97]: "प्रणिधाननिबन्धाभ्यासलिंग लक्षणसादृश्यपरिग्रहाश्रयाश्रितसंबंधानन्तर्यवियोगैककार्यविरोधातिशयप्राप्तिव्यवधान- सुखदुःखेच्छाद्वेषभयार्थित्वक्रियारागधर्माधर्मनिमित्तेभ्य - (स्मृतिः
 
- Thus, the definition of**स्मरण** is:— *When an object, which is once cognised (by any of the kinds of evidence) as possessed of a certain form, is afterwards recollected in the same form (in which it was cognised before), on the [perception](# "3. उपलब्धिमात्रे अत्र दृशिरिति। San.")(by any of the senses) or even on the [recollection](# "सदृशस्मरणादुदबुद्धेन संस्कारेण जनिता स्मृतिरपि स्मरणालङ्कारः । यथा—“सन्त्येवास्मिञ्जगति बहवः पक्षिणो रम्यरूपास्तेषांमध्ये मम तु महती वासना चातकेषु।यैरध्यक्षैरथ निजसखं नीरदं स्मारयद्भिः स्मृत्यारूढं भवति किमपि ब्रह्म कृष्णाभिधानम्॥” R.G.") of another object*
+ Or, the words **दृष्टे तत्सदृशे**may be taken as forming part of the definition of **स्मरण**and thus serving the purpose of excluding all other reminiscences[^98] which are not based upon resemblance, and are not thus striking; thus**स तथेति** etc. is no example of this figure.
+
+[^98]: "अन्यादृशेति । सादृश्यामूलकेत्यर्थः । ' स तथेति प्रतिज्ञाय विसृज्य कथमप्युमाम् । ऋषीञ्ज्योतिर्मयान् सप्त सस्मार स्मरशासनः॥ 'इत्यादौहि न स्मृतेश्चारुत्वमिति नालङ्कारत्वम्। प्रभा."
+
+ Thus, the definition of**स्मरण** is:— *When an object, which is once cognised (by any of the kinds of evidence) as possessed of a certain form, is afterwards recollected in the same form (in which it was cognised before), on the perception[^99](by any of the senses) or even on the recollection[^100] of another object*
+
+[^99]: "3. उपलब्धिमात्रे अत्र दृशिरिति। San."
+
+[^100]: "सदृशस्मरणादुदबुद्धेन संस्कारेण जनिता स्मृतिरपि स्मरणालङ्कारः । यथा—“सन्त्येवास्मिञ्जगति बहवः पक्षिणो रम्यरूपास्तेषांमध्ये मम तु महती वासना चातकेषु।यैरध्यक्षैरथ निजसखं नीरदं स्मारयद्भिः स्मृत्यारूढं भवति किमपि ब्रह्म कृष्णाभिधानम्॥” R.G."
 
 
 
@@ -5638,7 +5830,9 @@ because, according to it, the definition of this figure does not extend to such 
  The second is instanced in **करजुअ**etc. verse 160. Here, on the perception of the 'breasts of **यशोदा**the **पांचजन्य**is recollected by Kṛṣṇa who had known it in one of his former lives, owing to resemblance between the two objects.
 
 
-[Rāghavānanda](# "राघवानन्दमहापात्रास्तु वैसादृश्यात् स्मृतिमपि स्मरणालङ्कारमिच्छन्ति। तत्रोदाहरणं तेषामेव। यथा—“शिरीषमृद्वी गिरिषु प्रपेदे यदा यदा दुःखशतानि सीता। तदा तदास्याः सदनेषु सौख्यलक्षाणि दध्यौ दलदश्रु रामः॥” S.D."), however, would have this figure, even where the recollection arises from Contrast; as in **शिरीषमृद्वी** etc.
+Rāghavānanda[^101], however, would have this figure, even where the recollection arises from Contrast; as in **शिरीषमृद्वी** etc.
+
+[^101]: "राघवानन्दमहापात्रास्तु वैसादृश्यात् स्मृतिमपि स्मरणालङ्कारमिच्छन्ति। तत्रोदाहरणं तेषामेव। यथा—“शिरीषमृद्वी गिरिषु प्रपेदे यदा यदा दुःखशतानि सीता। तदा तदास्याः सदनेषु सौख्यलक्षाणि दध्यौ दलदश्रु रामः॥” S.D."
 
 53\. THE ERROR **(भ्रान्तिमान्)**.
 
@@ -5652,7 +5846,11 @@ because, according to it, the definition of this figure does not extend to such 
 
 question' is taken for 'a thing not in question' which is called to mind through the impression of it being revived by the sight of that thing in question similar to it, it is called the Error.
 
-* This is neither Metaphor nor the first (kind of) Hyperbole; for, although in those figures there is an apprehension of a false identity between two things, still, inasmuch as the apprehension of that false identity is there accompanied by the apprehension that it is false, Error is really absent. Here, however, Error is [clearly](# "तत्र वस्तुत इति । अनाहार्यतयेत्यर्थः । अध्यवसानमात्रेति । मात्रेत्यनाहार्यत्वव्यवच्छेदः । प्रभा.") apprehended (to be present). as shown by the name (of the [figure](# "अर्थानुगमेनेति । अर्थश्च अनाहार्य एव उत्सर्गसिद्धोऽत्र संज्ञाघटक इति भावः । प्रभा.") **भ्रान्तिमत्**) which comes into use by following its sense.*
+* This is neither Metaphor nor the first (kind of) Hyperbole; for, although in those figures there is an apprehension of a false identity between two things, still, inasmuch as the apprehension of that false identity is there accompanied by the apprehension that it is false, Error is really absent. Here, however, Error is clearly[^102] apprehended (to be present). as shown by the name (of the figure[^103] **भ्रान्तिमत्**) which comes into use by following its sense.*
+
+[^102]: "तत्र वस्तुत इति । अनाहार्यतयेत्यर्थः । अध्यवसानमात्रेति । मात्रेत्यनाहार्यत्वव्यवच्छेदः । प्रभा."
+
+[^103]: "अर्थानुगमेनेति । अर्थश्च अनाहार्य एव उत्सर्गसिद्धोऽत्र संज्ञाघटक इति भावः । प्रभा."
 
  The natural sense of Error is 'an apprehension of a false identity which is not accompanied by the apprehension that it is false.'
 
@@ -5698,7 +5896,9 @@ question' is taken for 'a thing not in question' which is called to mind through
 
 
 
- The word **अपरित्यक्तनिजगुण** excludes **तद्गुण** where the thing in question gives up its own qualities. Upon this, [Prabhā](# "तद्गुणेति। तद्गुणालङ्कारे अन्यगुणग्रहणमात्रं न तु धर्मिणोरभेदोपनिबन्धः प्रतीतिर्वा । प्रभा.") remarks that the word **अपरित्यक्तनिजगुण** is not necessary to exclude **तद्गुण**; for, in a**तद्गुण**, one thing assumes only the qualities of another; but the things themselves are not represented as undistinguishable from each other; nor are they understood as such. Thus,**तद्गुण** is excluded by the word **तदेकात्मतया** itself. The word **बध्यते** does not mean 'is expressed' but simply 'is conveyed'; for the fact of the similarity of appearance is not 'expressed' but simply ‘conveyed' by the words **अविभाव्यतां गताः** in the verse **मलयज** etc.
+ The word **अपरित्यक्तनिजगुण** excludes **तद्गुण** where the thing in question gives up its own qualities. Upon this, Prabhā[^104] remarks that the word **अपरित्यक्तनिजगुण** is not necessary to exclude **तद्गुण**; for, in a**तद्गुण**, one thing assumes only the qualities of another; but the things themselves are not represented as undistinguishable from each other; nor are they understood as such. Thus,**तद्गुण** is excluded by the word **तदेकात्मतया** itself. The word **बध्यते** does not mean 'is expressed' but simply 'is conveyed'; for the fact of the similarity of appearance is not 'expressed' but simply ‘conveyed' by the words **अविभाव्यतां गताः** in the verse **मलयज** etc.
+
+[^104]: "तद्गुणेति। तद्गुणालङ्कारे अन्यगुणग्रहणमात्रं न तु धर्मिणोरभेदोपनिबन्धः प्रतीतिर्वा । प्रभा."
 
  In the **मीलित**, an object is not apprehended at all, being eclipsed by another of a superior quality similar to it; whilst, in the present figure, an object is apprehended, but it is apprehended as undistinguishable from another, on account of both the objects possessing like properties.
 
@@ -5738,12 +5938,18 @@ question' is taken for 'a thing not in question' which is called to mind through
 
 * When an agent, hurriedly proceeding to do an act, succeeds in doing another impossible act also, by the same effort, that is another (i. e. the third kind of)* **विशेष***.*
 
- The word [**रभसेन**](# " रभसेनेति । एतच्च एकेनैव यत्नेन कार्यद्वयं करिष्यामीत्यभिसंधिव्यावृत्यर्थम् । प्रभा.") shows that the agent has no intention of doing two acts by one and the same effort. The word **तथैव**excludes **समुच्चय** instanced in **धुनोति**etc. where the efforts are different. The sentence **[प्रच्यवति](# "' प्रच्यवति वृषो गच्छन् ' इत्यादौ नायमलङ्कारः अशक्यत्वाभावात् । San.")**etc. is no example of this kind of **विशेष**, impossibility ofan act being there absent.
+ The word **रभसेन**[^105] shows that the agent has no intention of doing two acts by one and the same effort. The word **तथैव**excludes **समुच्चय** instanced in **धुनोति**etc. where the efforts are different. The sentence **प्रच्यवति[^106]**etc. is no example of this kind of **विशेष**, impossibility ofan act being there absent.
+
+[^105]: " रभसेनेति । एतच्च एकेनैव यत्नेन कार्यद्वयं करिष्यामीत्यभिसंधिव्यावृत्यर्थम् । प्रभा."
+
+[^106]: "' प्रच्यवति वृषो गच्छन् ' इत्यादौ नायमलङ्कारः अशक्यत्वाभावात् । San."
 
  It is instanced in **स्फुरदद्भुत**etc. verse 170. Here, Brahmā, in endeavouring to create a particular king has unexpectedly succeeded in creating other impossible things such as Cupid,  
 the Sun, Bṛhaspati etc., by the same effort.
 
- In this example, although there is another figure, i. e.[**यथासंख्य**](# " स्फुरदित्यादौ यथासंख्यसत्वेऽपि विशेषालङ्कारस्यैव चमत्कारे प्राधान्यात्तदुदाहरणत्वम् । प्रभा."), yet it is **विशेष** not **यथासंख्य** that is prominentlystriking here.  
+ In this example, although there is another figure, i. e.**यथासंख्य**[^107], yet it is **विशेष** not **यथासंख्य** that is prominentlystriking here.  
+
+[^107]: " स्फुरदित्यादौ यथासंख्यसत्वेऽपि विशेषालङ्कारस्यैव चमत्कारे प्राधान्यात्तदुदाहरणत्वम् । प्रभा."
 
 
 
@@ -5834,9 +6040,13 @@ The existence of these, separately, in one place, is desired to be the
 
 Aggregation.
 
-** भेद** means the mutual independence of figures as regards their essential natures, or as regards the [words](# "विषयत इति । विषयः अलङ्काराश्रयः शब्दः । प्रभा.")that contain them; or rather, the mutual independence of figures as regards their essential nature, accompanied by the difference of the words that contain them.
+** भेद** means the mutual independence of figures as regards their essential natures, or as regards the words[^108]that contain them; or rather, the mutual independence of figures as regards their essential nature, accompanied by the difference of the words that contain them.
 
- The [first](# "एकवाचकानुप्रवेशेन संकरे स्पष्टोल्लसदित्यादौ रूपकानुप्रासयोर्विषयैक्येऽपि परस्परापेक्षाविरहादतिप्रसंगतादवस्थ्यादाह— यद्वेति । एवं च तत्र विषयभेदाभावान्नातिव्याप्तिरिति भावः । प्रभा.") definition of **भेद** is not good, because it does not serve the purpose of excluding the third kind of **संकर** instanced in **स्पष्टोल्लसत्** etc., where, although the words that contain **रूपक** and **अनुप्रास**are identical, still, the two figures do not possess mutual independence. In a **संकर**, however, the mutual dependence of figures is necessary. The second definition, however, excludes this **संकर**, because, in it the words containing the figures being identical, the **विषयभेद**of the definition is absent. **स्थिति** means an ascertained existence. *Thus when these figures, i. e. those whose natures have been described just before (i. e. in 9th and 10th Ullāsas), exist independently of each other, according to possibility, in one place, i. e. in that portion only (of a poem) which is (called) 'word' or that only (called) sense' or even in a sentence or*
+[^108]: "विषयत इति । विषयः अलङ्काराश्रयः शब्दः । प्रभा."
+
+ The first[^109] definition of **भेद** is not good, because it does not serve the purpose of excluding the third kind of **संकर** instanced in **स्पष्टोल्लसत्** etc., where, although the words that contain **रूपक** and **अनुप्रास**are identical, still, the two figures do not possess mutual independence. In a **संकर**, however, the mutual dependence of figures is necessary. The second definition, however, excludes this **संकर**, because, in it the words containing the figures being identical, the **विषयभेद**of the definition is absent. **स्थिति** means an ascertained existence. *Thus when these figures, i. e. those whose natures have been described just before (i. e. in 9th and 10th Ullāsas), exist independently of each other, according to possibility, in one place, i. e. in that portion only (of a poem) which is (called) 'word' or that only (called) sense' or even in a sentence or*
+
+[^109]: "एकवाचकानुप्रवेशेन संकरे स्पष्टोल्लसदित्यादौ रूपकानुप्रासयोर्विषयैक्येऽपि परस्परापेक्षाविरहादतिप्रसंगतादवस्थ्यादाह— यद्वेति । एवं च तत्र विषयभेदाभावान्नातिव्याप्तिरिति भावः । प्रभा."
 
 
 
@@ -5870,7 +6080,9 @@ Aggregation of one
 
 figure of 'word' and one
 
-figure of 'sense', on the other hand, may be instanced in **सो णत्थि*******etc. verse 178. Here, in the [first](# " अत्र पूर्वार्धेऽनुप्रासः, उत्तरार्धे हृदयलुण्ठनमिति रूपकम् । प्रभा.")half, Alliteration—a figure of 'word,' and in the second half, (Metaphor) (***हृदयलुण्ठनम्***)— a figure of 'sense,' (exist) independent of each other.*
+figure of 'sense', on the other hand, may be instanced in **सो णत्थि*******etc. verse 178. Here, in the first[^110]half, Alliteration—a figure of 'word,' and in the second half, (Metaphor) (***हृदयलुण्ठनम्***)— a figure of 'sense,' (exist) independent of each other.*
+
+[^110]: " अत्र पूर्वार्धेऽनुप्रासः, उत्तरार्धे हृदयलुण्ठनमिति रूपकम् । प्रभा."
 
  If it be said that inasmuch as the abodes of these figures are different, that of **अनुप्रास**being 'word,' and of **रूपक**being 'sense,' they cannot form **संसृष्टि** which consists of Connection of many figures with one abode; we reply that these (figures)  
 
@@ -5885,9 +6097,13 @@ figure of 'sense', on the other hand, may be instanced in **सो णत्थ�
 
  Kā. liv. a b:— **But when (these) do not rest in themselves, but are subservient to one another, it is (termedthe Commixture).**
 
- But when these very figures do not assume an independent position for themselves, each being dependent upon another,for the sake of obtaining an existence for itself, or for the production of a particular beauty, and are thus subservient to one another, it is **संकर** ; so called because, its nat ure is (the [intermingling](# " संकीर्यमाणेति । परस्परसापेक्षेत्यर्थः । प्रभा."), i. e. interdependence of these figures.
+ But when these very figures do not assume an independent position for themselves, each being dependent upon another,for the sake of obtaining an existence for itself, or for the production of a particular beauty, and are thus subservient to one another, it is **संकर** ; so called because, its nat ure is (the intermingling[^111], i. e. interdependence of these figures.
 
- Thus, the [figure](# " यत्र एकः अलङ्कारः आसादितस्वतंत्रभावः इतरमलङ्कारमुपकरोति तत्र नायं संकरः, यथा— ‘सद्वंशमुक्तामणिः' ( K. P. IX. ) इत्यादौ वंशशब्दे श्लेषः शब्दसाम्यात् स्वतःसिद्धः रूपकमुपकरोतीति नायं संकरः । Vam.") does not occur if one figure being independent of another assists that another, as in **सद्वंश** etc.). where the paronomasia on the word **वंश** obtains an independent existence through a verbal identification and then assists Metaphor.
+[^111]: " संकीर्यमाणेति । परस्परसापेक्षेत्यर्थः । प्रभा."
+
+ Thus, the figure[^112] इत्यादौ वंशशब्दे श्लेषः शब्दसाम्यात् स्वतःसिद्धः रूपकमुपकरोतीति नायं संकरः । Vam.") does not occur if one figure being independent of another assists that another, as in **सद्वंश** etc.). where the paronomasia on the word **वंश** obtains an independent existence through a verbal identification and then assists Metaphor.
+
+[^112]: " यत्र एकः अलङ्कारः आसादितस्वतंत्रभावः इतरमलङ्कारमुपकरोति तत्र नायं संकरः, यथा— ‘सद्वंशमुक्तामणिः' ( K. P. IX.
 
  It is instanced in **आत्ते** etc. verse 179.
 
@@ -5912,7 +6128,11 @@ is held by the hand is a 'string of beads,' not a 'spot.' This requires that the
 
  If it be urged: Even in this way the attribute **करधृतत्व**is not proper; for when we take the verse as referring to the Moon, the 'spot' is not held by her 'rays,' but by her 'orb.' Thus, **करधृतत्व** cannot be connected with the 'spot.'
 
- We reply:— It is true that the holding of the spot by the rays is impossible, *since the Moon holds the spot on (her) body (i. e. orb) itself;* still, in [virtue](# "1. छायया। सामर्थ्येन । Ch.") of the fact that the poet has deliberately used such a word (i. e. कर) as contains a paronomasia, we should suppose that *the 'rays' which really speaking, do not hold the 'spot,'* but are only [near](# "2. चंद्रबिम्बे कराः कलंकश्चेति प्रत्यासत्तिः । San. रश्मीनां कलंकस्य च चन्द्रे सत्त्वादेकाश्रयत्वसंन्बधेनेत्यर्थः । Kam") it (both the rays and the spot residing in the same Moon), *are, in virtue of (that) proximity, intended by him as holding that spot metaphorically.*
+ We reply:— It is true that the holding of the spot by the rays is impossible, *since the Moon holds the spot on (her) body (i. e. orb) itself;* still, in virtue[^113] of the fact that the poet has deliberately used such a word (i. e. कर) as contains a paronomasia, we should suppose that *the 'rays' which really speaking, do not hold the 'spot,'* but are only near[^114] it (both the rays and the spot residing in the same Moon), *are, in virtue of (that) proximity, intended by him as holding that spot metaphorically.*
+
+[^113]: "1. छायया। सामर्थ्येन । Ch."
+
+[^114]: "2. चंद्रबिम्बे कराः कलंकश्चेति प्रत्यासत्तिः । San. रश्मीनां कलंकस्य च चन्द्रे सत्त्वादेकाश्रयत्वसंन्बधेनेत्यर्थः । Kam"
 
  If it be said: Why should you not then take **उपमा** to be the figure here by resorting to this very Indication?
 
@@ -5925,7 +6145,9 @@ must, therefore, to render this connection possible, understand **करधृ�
 
  According to the Ancients, *this Commixture of Mutual subserviency is found to exist between two figures of a word also*; as instanced in **राजति** etc. verse 181. *Here* **यमक** *and a variety of* **चित्र** *( called)* **अनुलोमप्रतिलोम** *(i.e that kind of where if we read from the end we get the same arrangement of letters as if we read from the beginning) are subservient to each other in the two (i. e. second and fourth) quarters of the verse.*
 
- Although the mutual subserviency of these figures is not quite obvious, still, as the poet whilst engaged in arranging a Rhyme succeeds in producing a **चित्र** without any special effort,for its sake, **चित्र** is said to depend on **यमक** for its existence; whilst,**यमक**is invested with a peculiar beauty only by depending upon **चित्र**; because the fact that the Yamaka arrangement as dependent upon a**चित्र** arrangement is very difficult to be effected, is especially charming to the man of taste. This is the view of the Ancients. But, really speaking, there is nothing enabling us to ascertain that the poet is engaged in arranging a Rhyme only; or even granting that we have a ground for the ascertainment of this fact, still, it is not[**यमक**](# "किं त्विति। यमकप्रयत्नाद्धि तदुत्पत्तिरिति नोत्पत्तौ यमकापेक्षेत्यर्थः। प्रभा.") that is the cause of the production of **चित्र**, but an  
+ Although the mutual subserviency of these figures is not quite obvious, still, as the poet whilst engaged in arranging a Rhyme succeeds in producing a **चित्र** without any special effort,for its sake, **चित्र** is said to depend on **यमक** for its existence; whilst,**यमक**is invested with a peculiar beauty only by depending upon **चित्र**; because the fact that the Yamaka arrangement as dependent upon a**चित्र** arrangement is very difficult to be effected, is especially charming to the man of taste. This is the view of the Ancients. But, really speaking, there is nothing enabling us to ascertain that the poet is engaged in arranging a Rhyme only; or even granting that we have a ground for the ascertainment of this fact, still, it is not**यमक**[^115] that is the cause of the production of **चित्र**, but an  
+
+[^115]: "किं त्विति। यमकप्रयत्नाद्धि तदुत्पत्तिरिति नोत्पत्तौ यमकापेक्षेत्यर्थः। प्रभा."
 
 
 
@@ -5942,10 +6164,14 @@ gards the acceptance of a (particular) fi
 
 gure, owing to the absence of a reason either for or against it (that is the second Commixture).
 
- *When two or many figures, although by nature fit to exist together (in a verse), yet being opposed to each other as regards both or all of them being simultaneously intended by the poet, cannot exist (together) simultaneously; when besides, there is no reason in favour either of the acceptance of one or of the rejection of the other, (reason) which would lead us to accept only one and not the other; that is the second (kind of) **संकर** whose nature is absence of determination. The copulative conjunction **च** in the Sūtra [shows](# " आक्षेपादिति । अनुकर्षणादित्यर्थः । Cha.")that the word**संकर**itself in the preceding Sūtra is here understood.*
+ *When two or many figures, although by nature fit to exist together (in a verse), yet being opposed to each other as regards both or all of them being simultaneously intended by the poet, cannot exist (together) simultaneously; when besides, there is no reason in favour either of the acceptance of one or of the rejection of the other, (reason) which would lead us to accept only one and not the other; that is the second (kind of) **संकर** whose nature is absence of determination. The copulative conjunction **च** in the Sūtra shows[^116]that the word**संकर**itself in the preceding Sūtra is here understood.*
+
+[^116]: " आक्षेपादिति । अनुकर्षणादित्यर्थः । Cha."
 
 
-[Although](# "यद्यपि वक्ष्यमाणोदाहरणेषु नयनानन्ददायीत्यादिषु अलङ्काराणां निश्चय एव, तथापि किमयमलङ्कारः कवितात्पर्यविषयोऽयं वा इत्याकारः संदेहोऽत्र विवक्षितः । Cha.") in the examples given below there is determination of the natures of figures, yet there is a doubt as to which of them in particular is intended by the poet.
+Although[^117] in the examples given below there is determination of the natures of figures, yet there is a doubt as to which of them in particular is intended by the poet.
+
+[^117]: "यद्यपि वक्ष्यमाणोदाहरणेषु नयनानन्ददायीत्यादिषु अलङ्काराणां निश्चय एव, तथापि किमयमलङ्कारः कवितात्पर्यविषयोऽयं वा इत्याकारः संदेहोऽत्र विवक्षितः । Cha."
 
  Instanced in **जह गहिरो**etc. verse 182. *Here, there is a doubt as to whether there is **समासोक्ति**, the 'ocean' being the thing in question and a 'particular man'— the thing not in question— being understood from the common i. e. paronomastic attributes used in the verse; or **अप्रस्तुतप्रशंसा**, a 'particular man' being the thing in question and understood through the description of*  
 
@@ -5958,7 +6184,9 @@ the 'ocean' which is the thing not in question, through a community of attribute
 
  Commixture of Dubiousness figures is instanced in existing among many **नयनानन्द**etc. verse 183. *Here, (it is dubious whether) there is* **पर्यायोक्त**, *the fact of the presence of passion-exciting (night) time being described in different manner,* i. e. through the description of the Moon, the rise of which is the cause thereof; *or* **अतिशयोक्ति***the 'face' being completely swallowed up by the 'orb of the Moon'* (the pronoun **एतत्** being taken here as an adjective to
 
-बिंब); *or* **रूपक**, *in consequence of the superimposition of the nature of the 'lunar orb upon the 'face' which should be taken here as referred to by***एतत्**; or **दीपक**, *both 'face' which is in question and the Moon which is not in question being intended to be [connected](# "परस्परनिरपेक्षस्य अनेकस्य एकस्मिन्नन्वयः समुच्चयः। Bhaṭṭoji on pāṇini(11.2.29)")* with one and the same action of destroying (internal or external) gloom' which is expressed by the verb **प्रसीदति**; or **तुल्ययोगिता**, both the 'face' and the 'Moon' being things in question or both being things not in question; or **समासोक्ति**, the 'orb of the Moon' being in question, *as the time is night, and the 'face' not being in question and understood through a community of attributes; or* **अप्रस्तुतप्रशंसा**, *the 'transparency of the face' being the subject under discourse,* and understood through the description of the 'Moon' which is not in question. The doubt here arises because there is no reason here why we should accept one figure as that which is intended and reject another as that
+बिंब); *or* **रूपक**, *in consequence of the superimposition of the nature of the 'lunar orb upon the 'face' which should be taken here as referred to by***एतत्**; or **दीपक**, *both 'face' which is in question and the Moon which is not in question being intended to be connected[^118]")* with one and the same action of destroying (internal or external) gloom' which is expressed by the verb **प्रसीदति**; or **तुल्ययोगिता**, both the 'face' and the 'Moon' being things in question or both being things not in question; or **समासोक्ति**, the 'orb of the Moon' being in question, *as the time is night, and the 'face' not being in question and understood through a community of attributes; or* **अप्रस्तुतप्रशंसा**, *the 'transparency of the face' being the subject under discourse,* and understood through the description of the 'Moon' which is not in question. The doubt here arises because there is no reason here why we should accept one figure as that which is intended and reject another as that
+
+[^118]: "परस्परनिरपेक्षस्य अनेकस्य एकस्मिन्नन्वयः समुच्चयः। Bhaṭṭoji on pāṇini(11.2.29
 
 
 
@@ -5988,7 +6216,9 @@ gure).
 
 It is instanced **सौभाग्यं** etc.
 
-* Here, 'the beauty of the smile'— which is prominently apprehended from the word* **हासद्युति***is [favourable](# " वक्त्रे इति। विशेष्यतया वक्त्रे प्रतीतं इत्यर्थः। वक्त्रस्य प्रधानतया प्रतीताविति यावत्।Vām.") to the apprehension of the 'face' only as prominent,* because 'the beauty of the smile' is directly possible in the 'face' only. The apprehension of the 'face' as prominent is possible in **उपमा** only. *Thus, the beauty of the smile' is a reason for (accepting the figure to be* **उपमा** (**वक्त्रं शशीव**). '*The beauty of the smile, however, is not 'favourable'*to the apprehension of the Moon' as prominent. For, it is not directly possible in her. This should not lead us to suppose, however, that it is then unfavourable' to such an apprehension. For, it is not even unfavourable' to the apprehension of the 'Moon' as prominent in the way in which it is 'favourable' to the apprehension of the 'face' as prominent; since**हासद्युति** meaning by Indication **विकासद्युति** may be said to be tropically possible in the 'Moon.'
+* Here, 'the beauty of the smile'— which is prominently apprehended from the word* **हासद्युति***is favourable[^119] to the apprehension of the 'face' only as prominent,* because 'the beauty of the smile' is directly possible in the 'face' only. The apprehension of the 'face' as prominent is possible in **उपमा** only. *Thus, the beauty of the smile' is a reason for (accepting the figure to be* **उपमा** (**वक्त्रं शशीव**). '*The beauty of the smile, however, is not 'favourable'*to the apprehension of the Moon' as prominent. For, it is not directly possible in her. This should not lead us to suppose, however, that it is then unfavourable' to such an apprehension. For, it is not even unfavourable' to the apprehension of the 'Moon' as prominent in the way in which it is 'favourable' to the apprehension of the 'face' as prominent; since**हासद्युति** meaning by Indication **विकासद्युति** may be said to be tropically possible in the 'Moon.'
+
+[^119]: " वक्त्रे इति। विशेष्यतया वक्त्रे प्रतीतं इत्यर्थः। वक्त्रस्य प्रधानतया प्रतीताविति यावत्।Vām."
 
 Thus, it is not a reason either for or against (accepting the fi
 
@@ -6042,7 +6272,9 @@ gure of word' also, prominently reside in identical words, that is also another 
 
  Here, **अनुप्रास** and **यमक** reside in identical words.
 
- The figures of 'sense' also may reside in one and the same place; as in [**वक्त्रारविन्द**](# " 'वक्त्रारविन्दमधुलुब्धमधुव्रताश्च धावन्त्यमी बकुलवंजुलकुंजमध्ये। 'इत्यादावर्थालंकारयोः रूपकातिशयोक्तयोश्चायमेव संकरोऽवधेयः । Viv.") etc.
+ The figures of 'sense' also may reside in one and the same place; as in **वक्त्रारविन्द**[^120] etc.
+
+[^120]: " 'वक्त्रारविन्दमधुलुब्धमधुव्रताश्च धावन्त्यमी बकुलवंजुलकुंजमध्ये। 'इत्यादावर्थालंकारयोः रूपकातिशयोक्तयोश्चायमेव संकरोऽवधेयः । Viv."
 
  Here, **रूपक** and **अतिशयोक्ति**, the first in **वक्त्रारविन्द**, and the econd in **मधुव्रता**:, reside in one and the same compound word**वक्त्रारविन्दमधु** etc.  
 
@@ -6055,7 +6287,9 @@ gards f
 
 igures), and (3) where the fi
 
-gures are [apprehended](# "एकपदप्रतिपाद्यतयेति । एकपदाश्रितत्वेन गम्यमानतयेत्यर्थः। यथाश्रुतेः शब्दालंकारे पदप्रतिपाद्यत्वस्यासंभवात् । प्रभा.") as residing in identica।  
+gures are apprehended[^121] as residing in identica।  
+
+[^121]: "एकपदप्रतिपाद्यतयेति । एकपदाश्रितत्वेन गम्यमानतयेत्यर्थः। यथाश्रुतेः शब्दालंकारे पदप्रतिपाद्यत्वस्यासंभवात् । प्रभा."
 
 
 
@@ -6071,11 +6305,15 @@ words. *It is impossible to divide Commixture in any other manner,* i. e. by tur
 
 
 
- If it be again urged: Just as [**पुनरुक्तवदाभास**](# "तनुवपुरित्यादिपुनरुक्तवदाभासे तनुशब्दस्य परिवृत्त्यसहत्वाच्छब्दान्वयव्यतिरेकौ, वपुःशब्दस्य परिवृत्तिसहतया चार्थान्वयव्यतिरेकौ इत्युभयालंकारत्वम्। तथा विद्वन्मानसेत्यादिपरम्परितरूपके मानसपदस्य श्लिष्टतया परिवृत्त्यसहत्वात् हंसादिपदानां च तत्सहत्वादुभयालंकारता। एवं क्षणदासावक्षणदा इत्यर्थान्तरन्यासेऽपि श्लेषमूलकतया शब्दान्वयव्यतिरेकानुविधानम्, उत्तरार्धे त्वर्थस्येत्युभयालंकारत्वं स्यादित्यर्थः । प्रभा.") and **परम्परितरूपक** have been classed as figures of both 'word' and 'sense,' inasmuch as they follow the presence and absence of both, i. e. in them certain words endure an exchange with other words and certain others do not ; so such figures as **अर्थान्तरन्यास**,**उपमा** etc. that are based upon both senses and (paronomastic) words, as instanced in **क्षणदासावक्षणदा**and **सकलकलं पुरमेतत्** etc. also deserve to be classed as figures of both. How then have you ranked them among the figures of sense' only, instead of ranking them among the figures of both?
+ If it be again urged: Just as **पुनरुक्तवदाभास**[^122] and **परम्परितरूपक** have been classed as figures of both 'word' and 'sense,' inasmuch as they follow the presence and absence of both, i. e. in them certain words endure an exchange with other words and certain others do not ; so such figures as **अर्थान्तरन्यास**,**उपमा** etc. that are based upon both senses and (paronomastic) words, as instanced in **क्षणदासावक्षणदा**and **सकलकलं पुरमेतत्** etc. also deserve to be classed as figures of both. How then have you ranked them among the figures of sense' only, instead of ranking them among the figures of both?
+
+[^122]: "तनुवपुरित्यादिपुनरुक्तवदाभासे तनुशब्दस्य परिवृत्त्यसहत्वाच्छब्दान्वयव्यतिरेकौ, वपुःशब्दस्य परिवृत्तिसहतया चार्थान्वयव्यतिरेकौ इत्युभयालंकारत्वम्। तथा विद्वन्मानसेत्यादिपरम्परितरूपके मानसपदस्य श्लिष्टतया परिवृत्त्यसहत्वात् हंसादिपदानां च तत्सहत्वादुभयालंकारता। एवं क्षणदासावक्षणदा इत्यर्थान्तरन्यासेऽपि श्लेषमूलकतया शब्दान्वयव्यतिरेकानुविधानम्, उत्तरार्धे त्वर्थस्येत्युभयालंकारत्वं स्यादित्यर्थः । प्रभा."
 
  We reply :—We have classed **अर्थान्तरन्यास** etc. as figures of 'sense,' because in them the strikingness of the sense is most prominently apprehended, although, really speaking, they do belong to both. *Thus, just as* **पुनरुक्तवदाभास** *and* **परम्परितरूपक** *are figures of both word' and 'sense because they follow the presence and absence of both, so* **अर्थान्तरन्यास** *and others, which are based upon (paranomastic) words should also be understood (as figures of both )' word' and 'sense' because they follow the presence and absence of both. And if in complete disregard of (this) real fact, these figures have been defined among the figures of sense', that is only due to the fact that in them the strikingness of the sense is (most) prominently apprehended*.
 
- If it be said:— Why should not the classification of figures as figures of ' word ' etc. be regulated (as is [done](# " अलंकारसर्वस्वकारमतमाशंकते— अथेति । प्रभा.") by
+ If it be said:— Why should not the classification of figures as figures of ' word ' etc. be regulated (as is done[^123] by
+
+[^123]: " अलंकारसर्वस्वकारमतमाशंकते— अथेति । प्रभा."
 
 
 
@@ -6113,23 +6351,31 @@ gh it is possible that some faults may be found in (i. e. figures of 'word' and 
 
 
 
- **वैफल्य**is instanced in **भण तरुणि** *etc. verse 186. Here,. on a careful consideration it will appear that no strikingness is apprehended from the sense expressed (by the verse)*. The two [adjectives](# " अनणुरणन्मणिमेखलमिति अविरतशिंजानमञ्जुमञ्जीरमिति च परिसरणविशेषणद्वयं ' त्वदीयं परिसरणमकारणं रणरणकं कुरुते' इति वाच्यार्थस्य, तेन व्यंग्यस्य भाविविरहस्य च न किंचिदुपकारे वर्तते, केवलमनुप्रासार्थमेव `तदुपात्तम् । Viv.")**अनणुरणन्**etc. and **अविरत** etc. do not at all contribute to the strikingness of the expressed sense of the verse, i. e. **त्वदीयं परिसरणं** etc. nor do they in any way contribute to the strikingness of the suggested sense of the verse, i. e. 'prospective separation.' The employment of these adjectives is only for the sake of securing Alliteration.
+ **वैफल्य**is instanced in **भण तरुणि** *etc. verse 186. Here,. on a careful consideration it will appear that no strikingness is apprehended from the sense expressed (by the verse)*. The two adjectives[^124]**अनणुरणन्**etc. and **अविरत** etc. do not at all contribute to the strikingness of the expressed sense of the verse, i. e. **त्वदीयं परिसरणं** etc. nor do they in any way contribute to the strikingness of the suggested sense of the verse, i. e. 'prospective separation.' The employment of these adjectives is only for the sake of securing Alliteration.
+
+[^124]: " अनणुरणन्मणिमेखलमिति अविरतशिंजानमञ्जुमञ्जीरमिति च परिसरणविशेषणद्वयं ' त्वदीयं परिसरणमकारणं रणरणकं कुरुते' इति वाच्यार्थस्य, तेन व्यंग्यस्य भाविविरहस्य च न किंचिदुपकारे वर्तते, केवलमनुप्रासार्थमेव `तदुपात्तम् । Viv."
 
  *Thus, the Fruitlessness of Alliteration is nothing but Superfluousness*. Alliteration, although present, is not here striking beeause the excellence of words (which is Alliteration) is not here accompanied by a corresponding excellence of senses. Figures of word' also, become striking, only by investing a sense with a particular excellence. The designation of a figure of 'word' is due only to the fact that words in it do not endure an exchange with other words.
 
-**वृत्तिविरोध** is instanced in **अकुण्ठो** etc. verse 188. *Here*, by [abandoning](# "अकुण्ठेति। अत्र उपनागरिकां विहाय परुषाया अंगीकाराद्यो वृत्तिविरोधः स वर्णप्रातिकूल्यान्नातिरिच्यते। प्रभा.") the Dulcet (**उपनागरिका**) style which letters manifesting Sweetness (**माधुर्य**), the Grand (**परुषा**) style containing letters that are harsh and that manifest Energy (**ओजस्**) is employed. This style— *this exuberance of harsh letters—is, in the manner described before, i. e. while treating of Excellences* (**गुण**) *in the 8th Ullāsa, (extremely) inappropriate to the Erotic* (**शृंगार**) *whichis the flavour* (**रस**) in the present verse. Thus, Opposition
+**वृत्तिविरोध** is instanced in **अकुण्ठो** etc. verse 188. *Here*, by abandoning[^125] the Dulcet (**उपनागरिका**) style which letters manifesting Sweetness (**माधुर्य**), the Grand (**परुषा**) style containing letters that are harsh and that manifest Energy (**ओजस्**) is employed. This style— *this exuberance of harsh letters—is, in the manner described before, i. e. while treating of Excellences* (**गुण**) *in the 8th Ullāsa, (extremely) inappropriate to the Erotic* (**शृंगार**) *whichis the flavour* (**रस**) in the present verse. Thus, Opposition
+
+[^125]: "अकुण्ठेति। अत्र उपनागरिकां विहाय परुषाया अंगीकाराद्यो वृत्तिविरोधः स वर्णप्रातिकूल्यान्नातिरिच्यते। प्रभा."
 
 
 
 *to style consisting in an Alliteration of harsh letters is nothing but the fault called incongruity of letters.*
 
- *Composition of a Rhyme in three quarters* (only of a verse) *is the fault (named) Unemployedness* (**अप्रयुक्तत्व**); as instanced in **भुजंगमस्येव** etc. verse 189. Here, the Rhyme, **सदंभाः** occurring in three quarters only is nothing but Unemployedness. For, such is not the practice of poets in general. The [practice](# " एकस्मिन् द्वयोश्चतुर्षु वा पादेषु यमकं कविप्रयोगे दृष्टम्, न तु पादत्रये।")is to employ the Rhyme in one quarter or two or four, but not in three.
+ *Composition of a Rhyme in three quarters* (only of a verse) *is the fault (named) Unemployedness* (**अप्रयुक्तत्व**); as instanced in **भुजंगमस्येव** etc. verse 189. Here, the Rhyme, **सदंभाः** occurring in three quarters only is nothing but Unemployedness. For, such is not the practice of poets in general. The practice[^126]is to employ the Rhyme in one quarter or two or four, but not in three.
+
+[^126]: " एकस्मिन् द्वयोश्चतुर्षु वा पादेषु यमकं कविप्रयोगे दृष्टम्, न तु पादत्रये।"
 
  *In* **उपमा**, *Inferiority of the* **उपमान** *over the* **उपमेय** *in point of class or size, or Superiority of the same kind (i. e. in point of class or size) is the fault (called) Improper Signification; whilst, Deficiency and Redundancy residing in the (common) property come under Deficiency and Redundancy of a word, respectively.*
 
  *Examples in order*:— Inferiority in point of class is instanced in **चण्डालैः** etc.
 
- Here, the class or rather caste of a **चण्डाल** is inferior to that of the man under description. This inferiority of the **उपमान** suggests "doing of sinful deeds," which is repugnant to the object under discourse; where this suggestion is, however, intended, there is no fault. The [present](# "यदा साहसिकमात्रोपमानविवक्षया चण्डालादिपदमुपादीयते, तदैवेदमुदाहरणम्, न तु दुष्कर्मकारित्वविवक्षायामपि । Sud.") verse is thus an example of the fault under description, only when the comparison is intended in point of 'rashness,' not of 'sinfulness."
+ Here, the class or rather caste of a **चण्डाल** is inferior to that of the man under description. This inferiority of the **उपमान** suggests "doing of sinful deeds," which is repugnant to the object under discourse; where this suggestion is, however, intended, there is no fault. The present[^127] verse is thus an example of the fault under description, only when the comparison is intended in point of 'rashness,' not of 'sinfulness."
+
+[^127]: "यदा साहसिकमात्रोपमानविवक्षया चण्डालादिपदमुपादीयते, तदैवेदमुदाहरणम्, न तु दुष्कर्मकारित्वविवक्षायामपि । Sud."
 
  Inferiority in point of size is instanced in **वह्निस्फुलिंग** etc. Here, the spark of fire is far inferior in size to the Sun.
 
@@ -6155,20 +6401,30 @@ gh it is possible that some faults may be found in (i. e. figures of 'word' and 
 
 **उपमेय** or the **उपमान** only but not with both, *then inasmuch as that property is connected with one only,* i. e. either the**उपमेय** or the **उपमान**, comparison cannot be apprehended from the verse, since its apprehension is possible only when the common property that is stated in the verse becomes connected with both the **उपमेय** and the **उपमान**.
 
- If it be said:— Though the common property expressed in the verse is connected with one only, i. e. either the **उपमेय** or the **उपमान**, still, we may apprehend comparison by taking another common property which may be supposed [understood](# "1. अथ प्रतीयमानेति। इवादिबोध्येनेत्यर्थः। प्रभा.") as indicated by the particles **इव** etc.
+ If it be said:— Though the common property expressed in the verse is connected with one only, i. e. either the **उपमेय** or the **उपमान**, still, we may apprehend comparison by taking another common property which may be supposed understood[^128] as indicated by the particles **इव** etc.
+
+[^128]: "1. अथ प्रतीयमानेति। इवादिबोध्येनेत्यर्थः। प्रभा."
 
  We reply:— Although in this way the apprehension of comparison is possible, still, in virtue of this common property. that is understood, (*the thing mentioned in the verse as either*) the **उपमेय** or the **उपमान** would be apprehended as either the **उपमेय** or the **उपमान**, not by itself, but only as possessed of the property that is stated in the verse. But this is not what is intended by the poet. For, what he intends is that comparison should be apprehended by means of that common property which is stated in the verse and the presence of which alone is indicated by the particles **इव**etc., and that the **उपमेय** and the **उपमान** should be understood as such, by themselves. *Thus, what is intended by the poet being clearly not established*, this difference of Gender or of Number is a fault. But this fault is no other than *Violation of Uniformity*.
 
- According to [Prabhā](# "2. न च तथेति। अन्यतरस्य सविशेषणत्वं प्रक्रान्तविरुद्धमित्यर्थः।प्रभा.") and [Chakravarti](# "3. चिन्तारत्नमिति। अत्र च्युतत्वाख्यः साधारणो धर्मः पुंलिंगावरुद्धे उपमेयमात्रे अन्वेति, न तु विरुद्धलिंगावरुद्धे उपमाने इति विशिष्टाविशिष्टयोरुपमेयोपमानत्वप्रतीतेर्भग्नप्रक्रमत्वम्। Cha."),the Violation of Uniformity here is thus:— The comparison which began by  
+ According to Prabhā[^129] and Chakravarti[^130],the Violation of Uniformity here is thus:— The comparison which began by  
+
+[^129]: "2. न च तथेति। अन्यतरस्य सविशेषणत्वं प्रक्रान्तविरुद्धमित्यर्थः।प्रभा."
+
+[^130]: "3. चिन्तारत्नमिति। अत्र च्युतत्वाख्यः साधारणो धर्मः पुंलिंगावरुद्धे उपमेयमात्रे अन्वेति, न तु विरुद्धलिंगावरुद्धे उपमाने इति विशिष्टाविशिष्टयोरुपमेयोपमानत्वप्रतीतेर्भग्नप्रक्रमत्वम्। Cha."
 
 
 
 
 having the **उपमेय**or the **उपमान**as not possessed of any attribute, ends by having the**उपमान** or the **उपमेय**as possessed ofan attribute.
 
- According to [Vivaraṇa](# "1. एतच्च दोषद्वयं भग्नप्रक्रमतायामेवान्तर्भवति, उक्तरीत्या उपमाने प्रतीयमानतया वाच्यतया वा उपक्रान्तस्य साधर्म्यस्य उपमेये तदन्यथा (वाच्यतया प्रतीयमानतया वा) उपसंहारात्। Viv."), it is thus:— The common property that began by connecting itself with the **उपमेय**or the **उपमान**expressedly now ends by connecting itself with the **उपमान** or the **उपमेय** impliedly.
+ According to Vivaraṇa[^131] उपसंहारात्। Viv."), it is thus:— The common property that began by connecting itself with the **उपमेय**or the **उपमान**expressedly now ends by connecting itself with the **उपमान** or the **उपमेय** impliedly.
 
- According to [Saṇketa](# "2. चिन्तेति । अत्र च्युतत्वादिको धर्म उपमानोपमेययोः प्रत्येकमन्यलिंगवचन इति प्रक्रमभंग। San."),Violation of Uniformity here consists in the fact that the common property assumes one gender when connecting itself with the **उपमान**, and another gender when connecting itself with the **उपमेय**.
+[^131]: "1. एतच्च दोषद्वयं भग्नप्रक्रमतायामेवान्तर्भवति, उक्तरीत्या उपमाने प्रतीयमानतया वाच्यतया वा उपक्रान्तस्य साधर्म्यस्य उपमेये तदन्यथा (वाच्यतया प्रतीयमानतया वा
+
+ According to Saṇketa[^132],Violation of Uniformity here consists in the fact that the common property assumes one gender when connecting itself with the **उपमान**, and another gender when connecting itself with the **उपमेय**.
+
+[^132]: "2. चिन्तेति । अत्र च्युतत्वादिको धर्म उपमानोपमेययोः प्रत्येकमन्यलिंगवचन इति प्रक्रमभंग। San."
 
  Difference of Gender is instanced in **चिन्तारत्नमिव**etc. Here, the common property: **च्युतत्व** being expressed by a noun in the masculine gender becomes connected with the **उपमेय** only, and not with the **उपमान**. This is, however, Violation of Uniformity as shown above. If no common property is stated in the verse, this fault does not occur. It does not also occur if a common property is expressed by a verb; as in **स्त्रीव गच्छति षण्ढोऽयम्** etc.
 
@@ -6197,7 +6453,11 @@ a word expressive of the common property assumes a grammatical form that require
 
 * Similarly, other like things, although admitting of a connection with the***उपमान**, *may not admit of a connection (with the***उपमेय**); *thus, the change of the Imperative Mood etc. (may be found to occur elsewhere also).*
 
- For instance, there may be a change of the Benedictive mood as in [**चिरं जीवतु**](# "अन्यस्यार्थस्येति। 'चिरं जीवतु ते पुत्रो मार्कण्डेयो मुनिर्यथा' इत्याशीर्वादादिरूपस्येत्यर्थः। प्रभा।")etc. So also there may be a change of a verb as in [**इंद्रस्येव**](# "अन्यस्य। प्रार्थनाद्यर्थस्येत्यर्थः। ‘इंद्रस्येव श्रियो वृद्धिस्तव संप्रार्थ्यते जनैः’ इत्यादौ प्रार्थ्यमानताविशिष्टा श्रीवृद्धिर्नोपमाने इति द्रष्टव्यम्। प्रभा.") etc., where the verb **प्रार्थ्यते** is impossible in the case of the **उपमान**, and must, therefore, be changed into another.
+ For instance, there may be a change of the Benedictive mood as in **चिरं जीवतु**[^133]etc. So also there may be a change of a verb as in **इंद्रस्येव**[^134] etc., where the verb **प्रार्थ्यते** is impossible in the case of the **उपमान**, and must, therefore, be changed into another.
+
+[^133]: "अन्यस्यार्थस्येति। 'चिरं जीवतु ते पुत्रो मार्कण्डेयो मुनिर्यथा' इत्याशीर्वादादिरूपस्येत्यर्थः। प्रभा।"
+
+[^134]: "अन्यस्य। प्रार्थनाद्यर्थस्येत्यर्थः। ‘इंद्रस्येव श्रियो वृद्धिस्तव संप्रार्थ्यते जनैः’ इत्यादौ प्रार्थ्यमानताविशिष्टा श्रीवृद्धिर्नोपमाने इति द्रष्टव्यम्। प्रभा."
 
  The word**भेद** in**विधिभेद**means 'change' not 'difference.' For, we do not here get two different Imperative Moods, one as connected with the **उपमेय**and the other as connected with the **उपमान**.
 
@@ -6219,10 +6479,14 @@ the truth like **युधिष्ठिर**, i. e. naturally; in other words,
 
 * Absence of resemblance* (**असादृश्य**) *impossiblity* (**असंभव**)—*faults occurring in* **उपमा**— *also terminate in Improper Signification* (**अनुचितार्थत्व**) *itself*.
 
-** असादृश्य**is instanced in **ग्रथ्नामि** etc. *Here, resemblance between a poem' and the 'Moon,' and senses' and' rays,' is nowhere perceived in the world. Thus, this is improper Signification.* The word**[ग्रथ्नामि](# " न च काव्यमेव शशी इत्यादिरीत्या रूपकसमास एवास्तु, रूपकस्यापि सादृश्यमूलकत्वात्तत्राप्ययं दोषः संभवतीति वाच्यम्, ग्रथ्नामीति बाधकावतारात्। Vām.")**shows that the figures in the line is **उपमा** and not **रूपक**.
+** असादृश्य**is instanced in **ग्रथ्नामि** etc. *Here, resemblance between a poem' and the 'Moon,' and senses' and' rays,' is nowhere perceived in the world. Thus, this is improper Signification.* The word**ग्रथ्नामि[^135]**shows that the figures in the line is **उपमा** and not **रूपक**.
+
+[^135]: " न च काव्यमेव शशी इत्यादिरीत्या रूपकसमास एवास्तु, रूपकस्यापि सादृश्यमूलकत्वात्तत्राप्ययं दोषः संभवतीति वाच्यम्, ग्रथ्नामीति बाधकावतारात्। Vām."
 
 
-[Chakravarti](# "इदमापाततः, वस्तुतस्तु अप्रयुक्तत्वमेवात्र दोषः, अन्यथा कष्टार्थोदाहरणे 'महाकाव्यव्योम्नि' इत्यादौयथाकथंचित्साधर्म्येणेव अत्रापि आह्लादकत्वादिना काव्यशशिनोरौपम्याक्षतेरिति मन्तव्यम्। Ch.") says, however, that this fault is nothing but Unemployedness (**अप्रयुक्तत्व**), otherwise, some resemblance between the 'poem' and the Moon, say, for instance, 'pleasingness,' can be found out, and thus comparison can be
+Chakravarti[^136] says, however, that this fault is nothing but Unemployedness (**अप्रयुक्तत्व**), otherwise, some resemblance between the 'poem' and the Moon, say, for instance, 'pleasingness,' can be found out, and thus comparison can be
+
+[^136]: "इदमापाततः, वस्तुतस्तु अप्रयुक्तत्वमेवात्र दोषः, अन्यथा कष्टार्थोदाहरणे 'महाकाव्यव्योम्नि' इत्यादौयथाकथंचित्साधर्म्येणेव अत्रापि आह्लादकत्वादिना काव्यशशिनोरौपम्याक्षतेरिति मन्तव्यम्। Ch."
 
 
 
@@ -6230,13 +6494,19 @@ the truth like **युधिष्ठिर**, i. e. naturally; in other words,
 
 brought out from the verse, as it is from **महाकाव्यव्योम्नि**etc. an example of the fault called Obscurity (**कष्टत्व**).
 
- Although **साधर्म्य**here and elsewhere has been translated by the word 'resemblance,' still, as has been shown already (Vide Note, p. 1), it really means **साधारणधर्मसंबंध**which is the cause of ‘resemblance' **काव्य** and **शशी**, **अर्थ** and **रश्मि** are here the [**अनुयोगी**s](# "अस्य च साधर्म्यस्य उपमानमुपमेयं च द्वावप्यनुयोगिनौ। Cha.")of the **संबंध**. The **प्रतियोगी** of it here and in the other places where the word **साधर्म्य** occurs is **साधारणधर्म**itself.
+ Although **साधर्म्य**here and elsewhere has been translated by the word 'resemblance,' still, as has been shown already (Vide Note, p. 1), it really means **साधारणधर्मसंबंध**which is the cause of ‘resemblance' **काव्य** and **शशी**, **अर्थ** and **रश्मि** are here the **अनुयोगी**s[^137]of the **संबंध**. The **प्रतियोगी** of it here and in the other places where the word **साधर्म्य** occurs is **साधारणधर्म**itself.
+
+[^137]: "अस्य च साधर्म्यस्य उपमानमुपमेयं च द्वावप्यनुयोगिनौ। Cha."
 
 ** असंभव** is instanced in **निपेतुरास्या**etc. verse 197. *Here, also flaming showers of rain issuing out of the orb of the Sun' are impossible. Thus, the thing described (in the verse) displays nothing but Improper Signification.*
 
- The fault of **उत्प्रेक्षा**called 'Inability' is nothing but Inexpressiveness (**अवाचकत्व**) of a word. *In***उत्प्रेक्षा** *also, such words as***ध्रुव**, **इव***etc. alone are able to bring out (the sense of) probability and not the word* **यथा***also which [singly](# "केवलस्येति । प्रायःपदाद्यसमभिव्याहृतस्येत्यर्थः । प्रभा."), i. e. not accompanied by such a word as* **प्रायः***etc., is able to point out mere resemblance. Now that (resemblance) is not here intended. Thus, the inability of this (word, i. e*. **यथा**) *to bring out that* (sense. i. e. the sense of probability) *constitutes the fault of Inexpressiveness.*
+ The fault of **उत्प्रेक्षा**called 'Inability' is nothing but Inexpressiveness (**अवाचकत्व**) of a word. *In***उत्प्रेक्षा** *also, such words as***ध्रुव**, **इव***etc. alone are able to bring out (the sense of) probability and not the word* **यथा***also which singly[^138], i. e. not accompanied by such a word as* **प्रायः***etc., is able to point out mere resemblance. Now that (resemblance) is not here intended. Thus, the inability of this (word, i. e*. **यथा**) *to bring out that* (sense. i. e. the sense of probability) *constitutes the fault of Inexpressiveness.*
 
-** अशक्ति**is instanced in **उद्ययौ** etc. verse 198. Here, the faulty word is **यथा** ; we should therefore read **[ध्रुवं](# " ' नारीलोचनचातुर्यशंकासंकुचितं ध्रुवम्' इति युक्तः पाठः। प्रभा.")**for **यथा.**
+[^138]: "केवलस्येति । प्रायःपदाद्यसमभिव्याहृतस्येत्यर्थः । प्रभा."
+
+** अशक्ति**is instanced in **उद्ययौ** etc. verse 198. Here, the faulty word is **यथा** ; we should therefore read **ध्रुवं[^139]**for **यथा.**
+
+[^139]: " ' नारीलोचनचातुर्यशंकासंकुचितं ध्रुवम्' इति युक्तः पाठः। प्रभा."
 
  The fault of **अर्थान्तरन्यास**called 'Objectlessness' is nothing but Improper Signification.
 
@@ -6249,7 +6519,9 @@ real thing such as the horn of a hare, is extremely improper like the drawing of
 
  **निर्विषयत्व** is instanced in **दिवाकराद्रक्षति** etc. verse 199. Here 'fear from the Sun' on the part of 'darkness' which is an inanimate object is itself impossible. Whence then the possibility of protection' by 'the Himālaya Mountain, due to this fear on the part of 'darkness'?
 
- Thus, this (fact), i. e. 'the Mountain's protecting darkness' being apprehended here as possessed of an unreal character, there is no (question of) improbability about it. Hence an attempt to corroborate this fact, i. e. to show that it is probable, is altogether useless. [For](# "अनुपपत्तिनिवारणार्थं हि अर्थान्तरमुपन्यस्यते । न चात्रानुपपत्तिः । अनवधारितस्वरूपत्वादस्य । निश्चितस्वरूपस्यैव हि उपपादनमुचितम् । यत्र तु अतात्त्विकमपि कविप्रौढोक्तथा निश्चितस्वरूपं तत्र ' सुसितवसनालंकारायाम्' इत्यादौ अतात्त्विकस्यापि समर्थनं न दोषायेति बोध्यम् । Viv."),corroboration has for its object the removal of an improbability. But, here the fact being unreal and of an indefinable nature the question whether it is probable or otherwise is quite irrelevant. It is only those facts which are real and whose natures are ascertained, which deserve corroboration, i. e. which must be shown to be probable. Thus, the corroboration of an unreal fact is faulty. It is faulty only when the fact is unreal and indefinable naturally. It is not faulty, however, when the fact, although unreal and indefinable naturally, is yet imagined by the poet as possessed of a real and definite nature; as in **सुसितवसना** etc. (Vide example of **अर्थान्तरन्यास**). verse 88.
+ Thus, this (fact), i. e. 'the Mountain's protecting darkness' being apprehended here as possessed of an unreal character, there is no (question of) improbability about it. Hence an attempt to corroborate this fact, i. e. to show that it is probable, is altogether useless. For[^140],corroboration has for its object the removal of an improbability. But, here the fact being unreal and of an indefinable nature the question whether it is probable or otherwise is quite irrelevant. It is only those facts which are real and whose natures are ascertained, which deserve corroboration, i. e. which must be shown to be probable. Thus, the corroboration of an unreal fact is faulty. It is faulty only when the fact is unreal and indefinable naturally. It is not faulty, however, when the fact, although unreal and indefinable naturally, is yet imagined by the poet as possessed of a real and definite nature; as in **सुसितवसना** etc. (Vide example of **अर्थान्तरन्यास**). verse 88.
+
+[^140]: "अनुपपत्तिनिवारणार्थं हि अर्थान्तरमुपन्यस्यते । न चात्रानुपपत्तिः । अनवधारितस्वरूपत्वादस्य । निश्चितस्वरूपस्यैव हि उपपादनमुचितम् । यत्र तु अतात्त्विकमपि कविप्रौढोक्तथा निश्चितस्वरूपं तत्र ' सुसितवसनालंकारायाम्' इत्यादौ अतात्त्विकस्यापि समर्थनं न दोषायेति बोध्यम् । Viv."
 
  A **समासोक्ति**, in virtue of attributes common to the **उपमान** and the **उपमेय**, intimates, i. e. causes the apprehension of, the
 
@@ -6271,7 +6543,9 @@ real thing such as the horn of a hare, is extremely improper like the drawing of
 
  *In* **अप्रस्तुतप्रशंसा***also,* uselessness of the statement of the matter in hand is the fault called 'Superfluity.'
 
- There also, *the matter in hand, being apprehended in this very [manner](# " अनयैवेति। श्लिष्टसाधारणादिविशेषणसामर्थ्येनेत्यर्थः। प्रभा."),* i. e. from paronomastic or common attributes should not be vitiated by the fault of Superfluity by again being expressed by a word; as in **आह्वतेषु** etc. verse 202. Here, the matter in hand. i. e. a 'thoughtless king' can be intimated by *(the description of)* the Universal of the particular kind, i. e. the 'Non-recognition of the difference of things,' *which is not the matter in hand. Thus, the expression of it again by a word is improper* and constitutes the fault of either Superfluity or Tautology.
+ There also, *the matter in hand, being apprehended in this very manner[^141],* i. e. from paronomastic or common attributes should not be vitiated by the fault of Superfluity by again being expressed by a word; as in **आह्वतेषु** etc. verse 202. Here, the matter in hand. i. e. a 'thoughtless king' can be intimated by *(the description of)* the Universal of the particular kind, i. e. the 'Non-recognition of the difference of things,' *which is not the matter in hand. Thus, the expression of it again by a word is improper* and constitutes the fault of either Superfluity or Tautology.
+
+[^141]: " अनयैवेति। श्लिष्टसाधारणादिविशेषणसामर्थ्येनेत्यर्थः। प्रभा."
 
 
 
@@ -7405,3 +7679,159 @@ Vāg.— Vāg-bhaṭālaṅkāra.
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^92]: "तत्प्रतिनिधिभूतः तन्मित्रादिः सैन्यभयान्निगूढमभियुज्यते। पीड्यते इत्यर्थः। प्रभा."
+
+
+[^91]: "तत्प्रतिनिधिभूतः तन्मित्रादिः सैन्यभयान्निगूढमभियुज्यते। पीड्यते इत्यर्थः। प्रभा."
+
+
+[^90]: "तत्प्रतिनिधिभूतः तन्मित्रादिः सैन्यभयान्निगूढमभियुज्यते। पीड्यते इत्यर्थः। प्रभा."
+
+
+[^89]: "तत्प्रतिनिधिभूतः तन्मित्रादिः सैन्यभयान्निगूढमभियुज्यते। पीड्यते इत्यर्थः। प्रभा."

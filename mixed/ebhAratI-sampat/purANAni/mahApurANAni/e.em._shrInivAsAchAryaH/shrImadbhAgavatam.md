@@ -257,7 +257,9 @@ Parikshit, made by Suka. These are left untranslated. In all these respects, the
 **नैमिशेऽनिमिषक्षेत्रे ऋषयश्शौनकादयः।  
 सत्कृतं सूतामासीनं पप्रच्छुरिदमादरात्॥**
 
- In the divine region of (the forest of) Naimisa, Saunaka and other sages eagerly enquired this of [Suta](# "Suta,son of Romaharshana, hence called Raumaharshani, is the reciter of this and the other Puranas to Saunaka and other sages."), the minstrel, who was seated there (duly) honoured.
+ In the divine region of (the forest of) Naimisa, Saunaka and other sages eagerly enquired this of Suta[^1], the minstrel, who was seated there (duly) honoured.
+
+[^1]: "Suta,son of Romaharshana, hence called Raumaharshani, is the reciter of this and the other Puranas to Saunaka and other sages."
 
 
 
@@ -1354,7 +1356,9 @@ propitiated by my penance the Soul of the universe who is hard to be pleased, I,
 **एवं बहुसवं कालं नीत्वा कृष्णपरायणः।  
 अभूत्त्रयाणां लोकानां चूडामणिरिवामलः॥**
 
- Thus spending a long time, Dhruva, for whom Lord Hari was the greatest resort, became (the pole—star) which is like a pure crest—jewel to the three [worlds](# "Dhruva became the pole-star in the end. This is the permanent place (Dhruvakshiti) which the Lord had promised him.").
+ Thus spending a long time, Dhruva, for whom Lord Hari was the greatest resort, became (the pole—star) which is like a pure crest—jewel to the three worlds[^2] which the Lord had promised him.").
+
+[^2]: "Dhruva became the pole-star in the end. This is the permanent place (Dhruvakshiti
 
 **॥ इति ध्रुवचरित्रम् ॥**
 
@@ -1711,7 +1715,9 @@ AS RISHABHA**
 
 ** नाभिरपत्यकामोऽप्रजया मेरुदेव्या भगवन्तमयजत।**
 
- Desirous of issue, [Nabhi](# " Priyavrata was succeeded by his son Agnidhra, and Agnidhra by his son Nabhi."), along withhis childless (queen) Merudevi, worshipped the Lord.
+ Desirous of issue, Nabhi[^3], along withhis childless (queen) Merudevi, worshipped the Lord.
+
+[^3]: " Priyavrata was succeeded by his son Agnidhra, and Agnidhra by his son Nabhi."
 
 ** भगवान्नाभेः प्रियचिकीर्षया मेरुदेव्यां धर्मान्
 दर्शयितुकामोऽवततार।**
@@ -2265,7 +2271,9 @@ THE STORY OF AJAMILA
 **‘साङ्केत्यं पारिहास्यं वा स्तोभं हेलनमेव वा।  
 वैकुण्ठनामग्रहणमशेषाघहरं विदुः॥**
 
- “The sages sages consider the mention of a name of Hari as destroying sin completely, even though the mention is due to the name being associated with something [else](# "Here the name of the Lord happened to be the name of Ajamila's last son."), or is done in jest, or is the result of involuntary sounds, or is done in derision.
+ “The sages sages consider the mention of a name of Hari as destroying sin completely, even though the mention is due to the name being associated with something else[^4], or is done in jest, or is the result of involuntary sounds, or is done in derision.
+
+[^4]: "Here the name of the Lord happened to be the name of Ajamila's last son."
 
 
 
@@ -2737,10 +2745,12 @@ of Vishnu; the two door-keepers (there) prevented them (from entering).
 
 
 
-and Hiranyaksha, the younger. Hiranyaksha was killed by the Lord who took the form of the Boar, when He lifted the earth out of the [waters.](# " See pp. 27-28 infra.")
+and Hiranyaksha, the younger. Hiranyaksha was killed by the Lord who took the form of the Boar, when He lifted the earth out of the waters.[^5]
 
 **भ्रातर्येवं विनिहते हरिणा क्रोडमूर्तिना।  
 हिरण्यकशिपुः \[राजन्\] पर्यतप्यद्रुषा शुचा॥**
+
+[^5]: " See pp. 27-28 infra."
 
  When his brother had been killed thus by Hari in the form of the Boar, Hiranyakasipu burnt with anger and grief.
 
@@ -4338,7 +4348,9 @@ Praiseworthy in his vow, he forsook not Truth. He is being sent by me to a place
 **एवं बलेर्महीं \[राजन्\] भिक्षित्वा वामनो हरिः।  
 ददौ भ्रात्रे महेन्द्राय त्रिदिवं यत्परैर्हृतम्॥**
 
- Thus did Hari in the form of the dwarf-Brahmacharin beg of Bali a piece of land and restore to His brother[\*](# " Indra and the gods are brothers of Vamana, since all of them were borne by Aditi.") Indra the heaven that had been seized by his enemies.
+ Thus did Hari in the form of the dwarf-Brahmacharin beg of Bali a piece of land and restore to His brother\*[^6] Indra the heaven that had been seized by his enemies.
+
+[^6]: " Indra and the gods are brothers of Vamana, since all of them were borne by Aditi."
 
 **॥इति वामनत्रिविक्रमावतारकथा॥**
 
@@ -4871,7 +4883,9 @@ Imprisoning his father, Ugrasena, the king of the Yadus, the Bhojas and the Andh
 
 
 
-Kamsa, with the support of ( Jarasandha) the king of the [Magadhas](# "Jarasandha, the Magadha king, was Kamsa's father—in-law."),oppressed the Yadus.
+Kamsa, with the support of ( Jarasandha) the king of the Magadhas[^7],oppressed the Yadus.
+
+[^7]: "Jarasandha, the Magadha king, was Kamsa's father—in-law."
 
 **हतेषु षट्सु बालेषु देवक्या औग्रसेनिना।  
 सप्तमो वैष्णवं धाम यमनन्तं प्रचक्षते।  
@@ -5277,7 +5291,9 @@ Garga—
 
 
 
-**मातुर्विश्वरूपप्रदर्शनम् —** SHOWING [VISVARUPA](# "Visvarupa is the transcendental form of the Lord, embodying within itself the entire universe.")TO HIS MOTHER
+**मातुर्विश्वरूपप्रदर्शनम् —** SHOWING VISVARUPA[^8]TO HIS MOTHER
+
+[^8]: "Visvarupa is the transcendental form of the Lord, embodying within itself the entire universe."
 
 ![](../books_images/U-IMG-1735183922Screenshot2024-11-28134235.png)
 
@@ -5316,9 +5332,11 @@ and the quarters; with the globe of this earth and its mountains, continents and
 **उपगीयमानमाहात्म्यं हरिं साऽमन्यतात्मजम्॥**
 
  Yasoda understood that her son was Hari whose greatness was sung by the three  
-Vedas, the Upanishads, and the followers of the Sankhya, the Yoga and [the Satvata.](# "Sankhya is the path of knowledge; Yoga of action; and Satvata, an Agamik path, is that of devotion.")
+Vedas, the Upanishads, and the followers of the Sankhya, the Yoga and the Satvata.[^9]
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+[^9]: "Sankhya is the path of knowledge; Yoga of action; and Satvata, an Agamik path, is that of devotion."
 
 
 
@@ -5394,7 +5412,11 @@ PAIR OF ARJUNA TREES
 अद्राक्षीदर्जुनौ पूर्वंगुह्यकौ धनदात्मजौ।  
 पुरा नारदशापेन वृक्षतां प्रापितौ मदात्॥**
 
- When His mother was engrossed in domestic duties, Lord Krishna beheld a[pair of Arjuna trees](# "Terminalia Arjuna."), \* which were previously [Guhyakas](# "Guhyakas are a class of divine beings."), the sons of the Lord of wealth (Kubera), who in the past had been transformed into trees by the curse of Narada, on account of their haughtiness.
+ When His mother was engrossed in domestic duties, Lord Krishna beheld apair of Arjuna trees[^10], \* which were previously Guhyakas[^11], the sons of the Lord of wealth (Kubera), who in the past had been transformed into trees by the curse of Narada, on account of their haughtiness.
+
+[^10]: "Terminalia Arjuna."
+
+[^11]: "Guhyakas are a class of divine beings."
 
 **जगाम शनकैस्तत्र यत्रास्तां यमलार्जुनौ।  
 आत्मनिर्वेशमात्रेण तिर्यग्गतमुलूखलम्॥**
@@ -5415,7 +5437,9 @@ entering (the space between them), the mortar (to which He was tied) became tran
 **तत्र सिद्धौ विरजसौ परिक्रम्य प्रणम्य च।  
 बद्धोलूखलमामन्त्र्यजग्मतुर्दिशमुत्तराम्॥**
 
- The two Siddhas, rid of their impurity, went round and bowed to the Lord tied to the mortar, and taking His leave, went to the [north](# "Their abode, the city of Kubera, Alaka, is in the Himalayas, in the north.").
+ The two Siddhas, rid of their impurity, went round and bowed to the Lord tied to the mortar, and taking His leave, went to the north[^12].
+
+[^12]: "Their abode, the city of Kubera, Alaka, is in the Himalayas, in the north."
 
 
 
@@ -5718,8 +5742,10 @@ he had died of that, flung him on the top of the palms.
 
 
 
- Finding that Kaliya to be powerful with fiercely virulent poison and the river poisoned by it, Krishna, who had incarnated Himself for subduing the wicked, got up a very high [Kadamba](# "Nauclea Kadamba")tree, struck His palms over His arms, girded up his loins  
+ Finding that Kaliya to be powerful with fiercely virulent poison and the river poisoned by it, Krishna, who had incarnated Himself for subduing the wicked, got up a very high Kadamba[^13]tree, struck His palms over His arms, girded up his loins  
 fast, and jumped into the poisonous waters.
+
+[^13]: "Nauclea Kadamba"
 
 **तस्मिन् ह्रदे स्वभवनाभिभवं निरीक्ष्य  
 चक्षुःश्रवास्समसरत्तदमृष्यमाणः।  
@@ -5778,7 +5804,9 @@ THE KILLING OF PRALAMBA
 उवाह कृष्णो भगवान् श्रीदामानं पराजितः।  
 वृषभं भद्रसेनस्तु प्रलम्बो रोहिणीसुतम्॥**
 
- They played many games in which one Carried another. Defeated, Lord Krishna bore [Sridaman](# " Names of some of the cowherds."), [Bhadrasena](# " Names of some of the cowherds.") bore [Vrishabha](# " Names of some of the cowherds.") and Pralamba (the demon) bore Balarama.
+ They played many games in which one Carried another. Defeated, Lord Krishna bore Sridaman[^14], Bhadrasena[^14] bore Vrishabha[^14] and Pralamba (the demon) bore Balarama.
+
+[^14]: " Names of some of the cowherds."
 
 **तमुद्वहन् धरणिधरेन्द्रमौरवं  
 महासुरो विगतरयो निजं वपुः।  
@@ -5823,7 +5851,9 @@ GARMENTS OF THE GOPIS
 हसद्भिः प्रहसन् बालैः परिहासमुवाच ह।  
 अत्रागत्याबलाः कामं स्वस्वं वासः प्रगृह्यताम्'॥**
 
- Krishna gathered together their garments, quickly mounted a [Nipa](# " Ixora Bandhucca.")tree, a Nipa\* tree, laughed together with the laughing boys and said jocularly : " Come here, ladies, and as you please, each of you, take her garment."
+ Krishna gathered together their garments, quickly mounted a Nipa[^17]tree, a Nipa\* tree, laughed together with the laughing boys and said jocularly : " Come here, ladies, and as you please, each of you, take her garment."
+
+[^17]: " Ixora Bandhucca."
 
 **तस्य तत् क्ष्वेलितं दृष्ट्वागोप्यः प्रेमपरिप्लुताः ।  
 व्रीडिताः प्रेक्ष्य चान्योन्यं जातहासा न निर्ययुः॥**
@@ -5932,7 +5962,9 @@ The Lord—
 इन्द्रः प्राचोदयत् क्रुद्धो मेघा निर्मुक्तबन्धनाः।  
 नन्दगोकुलमासारैःपीडयामासुरोजसा॥**
 
- Infuriated Indra set in action the host of annihilating clouds known as [Samvartaka](# " A group of clouds which appear at the time of the deluge of the universe.").Let loose, those clouds worked havoc in the hamlet of Nanda with their downpour and violence.
+ Infuriated Indra set in action the host of annihilating clouds known as Samvartaka[^18].Let loose, those clouds worked havoc in the hamlet of Nanda with their downpour and violence.
+
+[^18]: " A group of clouds which appear at the time of the deluge of the universe."
 
 **अत्यासारातिवातेन पशवो जातवेपनाः।  
 गोप्यो गोपाश्च शीतार्ता गोविन्दं शरणं ययुः॥**
@@ -5960,7 +5992,9 @@ The Lord—
 अभ्यषिञ्चत दाशार्ह गोविन्द इति चाभ्यधात्॥**
 
 
-[Kamadhenu](# "The heavenly milch-cow which arose from the milky—ocean when it was churned. See above.")came to came to Krishna from the heaven of the cows and with her own milk anointed Krishna and hailed Him as the Lord of the cows.
+Kamadhenu[^19]came to came to Krishna from the heaven of the cows and with her own milk anointed Krishna and hailed Him as the Lord of the cows.
+
+[^19]: "The heavenly milch-cow which arose from the milky—ocean when it was churned. See above."
 
 **\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -6086,7 +6120,9 @@ The Gopis—
 तत्रारभत गोविन्दोरासक्रीडामनुव्रतैः।  
 स्त्रीरत्नैरन्वितः प्रीतैरन्योन्याबद्धबाहुभिः॥**
 
- Taking them, Lord Krishna entered the sands of the Yamuna and there began the sport of the [Rasa–dance](# "The Rasa is a circular dance by a ring of men and women placed alternately."),accompanied by those beautiful women who were devoted to Him and who, in joy, had entwined each other's arms.
+ Taking them, Lord Krishna entered the sands of the Yamuna and there began the sport of the Rasa–dance[^20],accompanied by those beautiful women who were devoted to Him and who, in joy, had entwined each other's arms.
+
+[^20]: "The Rasa is a circular dance by a ring of men and women placed alternately."
 
 **कृत्वा तावन्तमात्मानं यावतीर्गोपयोषितः।  
 रेमे स भगवांस्ताभिरात्मारामोऽपि लीलया॥**
@@ -6766,7 +6802,9 @@ by generals of armies, rout the forces of Sisupala and Jarasandha and by forcibl
 **राजा स कुण्डिनपतिः पुत्रस्नेहवशं गतः।  
 शिशुपालाय स्वां कन्यां दास्यन् कर्माण्यकारयत्॥**
 
- The king Bhishmaka, the Lord of [Kundina](# "The capital of the Vidarbhas."), being submissive to his love for his son, went about the necessary activities with a view to giving his daughter to Sisupala.
+ The king Bhishmaka, the Lord of Kundina[^21], being submissive to his love for his son, went about the necessary activities with a view to giving his daughter to Sisupala.
+
+[^21]: "The capital of the Vidarbhas."
 
 **आजग्मुश्चैद्यपक्षीयाः पौण्ड्रकाद्यास्सहस्रशः।  
 कृष्णरामद्विषो यत्ताः कन्यां चैद्याय साधितुम्॥**
@@ -6840,7 +6878,11 @@ by generals of armies, rout the forces of Sisupala and Jarasandha and by forcibl
 **इन्द्रेण हृतच्छत्रेण ज्ञापितो भौमचेष्टितम्।  
 सभार्यो गरुडारूढः प्राग्ज्योतिषपुरं ययौ॥**
 
- Informed of the activities of (the demon) [Bhauma](# "Narakasura, born of Mother Earth and the Lord, when the latter in the form of the Boar,  lifted the former out of the ocean.") by Indra whose emblem of sovereignty, the umbrella, had been carried away (by Bhauma), the Lord, mounting Garuda, went to the capital city of the Pragjyotishas along with his wife,[(Satyabhama)](# "Krishna's second wife Satyabhama was the daughter of Satrajit.").
+ Informed of the activities of (the demon) Bhauma[^22] by Indra whose emblem of sovereignty, the umbrella, had been carried away (by Bhauma), the Lord, mounting Garuda, went to the capital city of the Pragjyotishas along with his wife,(Satyabhama)[^23].
+
+[^22]: "Narakasura, born of Mother Earth and the Lord, when the latter in the form of the Boar,  lifted the former out of the ocean."
+
+[^23]: "Krishna's second wife Satyabhama was the daughter of Satrajit."
 
 **पाञ्चजन्यध्वनिं श्रुत्वा युगान्ताशनिभीषणम्।  
 मुरश्शयान उत्तस्थौ दैत्यः पञ्चशिरा जलात्॥**
@@ -6933,7 +6975,9 @@ Brahma and others, bring their offerings! (True), those that are blinded with th
 **बाणः पुत्रशतज्येष्ठो बलेयसीन्महात्मनः।  
 शोणिताख्ये पुरे रम्ये स राज्यमकरोत् पुरा॥**
 
- There Was Bana, the eldest of the hundred sons of the great [Bali](# "Same as the Asura king figuring in the story of the Vamana Avatara. See above."). In olden times, that Bana was rulingfrom the beautiful city named Sonita.
+ There Was Bana, the eldest of the hundred sons of the great Bali[^24]. In olden times, that Bana was rulingfrom the beautiful city named Sonita.
+
+[^24]: "Same as the Asura king figuring in the story of the Vamana Avatara. See above."
 
 **सहस्रबाहुर्वाद्येन ताण्डवेऽतोषयन्मृडम्।  
 वरेण च्छन्दयामास स तं वव्रेपुराधिपम्॥**
@@ -6955,7 +6999,9 @@ Brahma and others, bring their offerings! (True), those that are blinded with th
 **गूढः कन्यापुरे शश्वत् प्रवृद्धस्नेहया तया।  
 नाहर्मणान् स बुबुधे, बाणोऽद्राक्षीद् यदूद्वहम्॥**
 
- Remaining concealed in in the maiden’s apartments, Aniruddha knew not the days passing, in the company of Usha, whose love had greatly increased. (But) Bana found out the scion of the [Yadus](# "Aniruddha was the son of Pradyumna or Kama who was the son of Krishna and Rukmini.").
+ Remaining concealed in in the maiden’s apartments, Aniruddha knew not the days passing, in the company of Usha, whose love had greatly increased. (But) Bana found out the scion of the Yadus[^25].
+
+[^25]: "Aniruddha was the son of Pradyumna or Kama who was the son of Krishna and Rukmini."
 
 
 
@@ -6964,7 +7010,9 @@ Brahma and others, bring their offerings! (True), those that are blinded with th
 उषा भृशं शोकविषादविह्वला  
 बद्धं निशम्याश्रुकलाक्ष्यरोदीत्॥**
 
- The strong Bana, who was infuriated, bound with [*Nagapasa*](# "The divine serpent-missile which binds persons.") Aniruddha who had killed Bana’s forces. Hearing that Aniruddha had been bound, Usha became stricken with extreme sorrow and dejection, and wept with tears in her eyes.
+ The strong Bana, who was infuriated, bound with *Nagapasa*[^26] Aniruddha who had killed Bana’s forces. Hearing that Aniruddha had been bound, Usha became stricken with extreme sorrow and dejection, and wept with tears in her eyes.
+
+[^26]: "The divine serpent-missile which binds persons."
 
 **नारदात्तदुपाकर्ण्य वार्तां बद्धस्य कर्म च।  
 रुरुधुर्बाणनगरं समन्तात् सात्त्वतर्षभाः॥**
@@ -7140,7 +7188,9 @@ went out (to receive Him) along with his preceptor and his friends.
 **भीमसेनोऽर्जुनः कृष्णः ब्रह्मलिङ्गधरास्त्रयः।  
 जग्मुर्गिरिव्रजं \[तात\] बृहद्रथसुतो यतः।**
 
- Bhima, Arjuna and Krishna,—these three, disguising themselves as Brahmins went to [Girivraja](# "Girivraja or Rajagriha, in the Magadhas, was Jarasandha's capital.")‚ the place where Jarasandha, the son of Brihadratha, was.
+ Bhima, Arjuna and Krishna,—these three, disguising themselves as Brahmins went to Girivraja[^27]‚ the place where Jarasandha, the son of Brihadratha, was.
+
+[^27]: "Girivraja or Rajagriha, in the Magadhas, was Jarasandha's capital."
 
 **ते गत्वा समयाचन्त राजन्या ब्रह्मलिङ्गिनः।  
 ‘राजन् प्रयच्छ भद्रं ते यद्वयं कामयामहे’॥**
@@ -7191,8 +7241,10 @@ went out (to receive Him) along with his preceptor and his friends.
 
 
 
- Lord Hari of unfailing insight, who knew how the enemy (Jarasandha) was born and how he would [die](# "Jarasandha was born as two pieces which were miraculously welded together and he would die only when he was torn into two pieces."),
+ Lord Hari of unfailing insight, who knew how the enemy (Jarasandha) was born and how he would die[^28],
 infused Bhima with His own power, thought of the way to kill the enemy and showed to Bhima, by gesture, the tearing atwain of a branch.
+
+[^28]: "Jarasandha was born as two pieces which were miraculously welded together and he would die only when he was torn into two pieces."
 
 **तद्विज्ञाय महासत्त्वो भीमः प्रहरतां वरः।  
 गृहीत्वा पादयोः शत्रुं पातयामास भूतले॥**
@@ -7262,12 +7314,16 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 जन्मत्रयानुगुणितवैरसंरब्धया धिया।  
 ध्यायंस्तन्मयतां यातां भावोहि भवकारणम्॥**
 
- The effulgence that arose out of the body of the king of the Chedis became one with Lord Vasudeva. Thinking intensely (of the Lord) with a mind overwhelmed by the accumulated enmity of three births, he attained the form of the Lord. For, indeed, mental absorption (in a thing) makes one take its [form.](# "See the story of Jaya and Vijaya above.")
+ The effulgence that arose out of the body of the king of the Chedis became one with Lord Vasudeva. Thinking intensely (of the Lord) with a mind overwhelmed by the accumulated enmity of three births, he attained the form of the Lord. For, indeed, mental absorption (in a thing) makes one take its form.[^29]
 
 **एवं सौभं च साल्वं च दन्तवक्त्रं सहानुजम्।  
 हत्वा दुर्विषहानन्यानीडितस्सुरमानवैः॥**
 
- Similarly, the Lord killed the Saubha king Salva, [Dantavaktra](# "See the story of Jaya and Vijaya above.")with his younger brother, and other insufferable kings, and was extolled by the gods and men.
+[^29]: "See the story of Jaya and Vijaya above."
+
+ Similarly, the Lord killed the Saubha king Salva, Dantavaktra[^29]with his younger brother, and other insufferable kings, and was extolled by the gods and men.
+
+[^29]: "See the story of Jaya and Vijaya above."
 
 **\_\_\_\_\_\_\_**
 
@@ -7747,7 +7803,9 @@ well as the Chandala, in the thief as well as the person who is versed in the Ve
 
 **भगवन्निर्याणम्—**
 
-**THE PASSAGE OF THE [LORD](# "See the Mausalaparva, PP. 434-444, The Mahabharata. G. A. Natesan & Co., Madras.")**
+**THE PASSAGE OF THE LORD[^31]**
+
+[^31]: "See the Mausalaparva, PP. 434-444, The Mahabharata. G. A. Natesan & Co., Madras."
 
 **![](../books_images/U-IMG-1734919484Screenshot2024-11-03140300.png)**
 
@@ -7821,7 +7879,9 @@ INCARNATION AS KRISHNA.**
 धर्मत्राणाय सत्त्वेन भगवानवतरिष्यति॥**
 
  When the Dharma of those that observe the *Varna and Asrama* is lost, when the Vedic path of men has disappeared, when Dharma has become predominantly heretic, when rulers have become more or less thieves, when men are living through the various means of theft, falsehood and wanton violence to others, when the
-[Kali](# "The fourth of aeons, Krita, Treta, Dvapara and Kali; with the fourth ands one cycle.") agehas thus well-advanced towards the end, when man is essentially violent in nature, the Lord will incarnate Himself with His goodness, purity and knowledge, for saving Dharma.
+Kali[^32] agehas thus well-advanced towards the end, when man is essentially violent in nature, the Lord will incarnate Himself with His goodness, purity and knowledge, for saving Dharma.
+
+[^32]: "The fourth of aeons, Krita, Treta, Dvapara and Kali; with the fourth ands one cycle."
 
 
 
@@ -8508,3 +8568,47 @@ Raumaharshani. His proper name is Ugrasravas.
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^30]: "See the story of Jaya and Vijaya above."
+
+
+[^16]: " Names of some of the cowherds."
+
+
+[^15]: " Names of some of the cowherds."

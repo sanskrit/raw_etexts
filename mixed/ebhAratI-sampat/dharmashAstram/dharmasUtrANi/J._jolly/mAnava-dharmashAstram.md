@@ -78,13 +78,19 @@ PREFACE.
 
 The Mânava Dharmaśâstra or Manu-smriti has been edited twice in Europe, and a great many times in India. Nevertheless, a new critical edition of the most authoritative Sanskrit lawbook of India, which is at the same time one of the most widely read works in the whole range of ancient Indian literature, has been universally considered as a desideratum long since. The two European editions, Sir G. C. Haughton's published in 1825, and Loiseleur Deslong- champs's published in 1830, though very creditable productions in their own time, belong to a bygone period of Sanskrit studies and have long been out of print, while the numerous Indian editions are on the whole nothing but reprints from the two earliest Calcutta editions, published in 1813 and 1830.
 
-The present attempt to supply this want was first under- taken nearly ten years ago, and was called forth by the recovery of the early Commentaries which has furnished an entirely new basis for the study of the Manu-smriti. Under the title of [Manutîkâsamgraha](# " Fasciculus I., Bibliotheca Indica, New. Series No. 556, Calcutta 1885; Fasciculus II., Bibliotheca Indica, New Series No. 584, Calcutta 1886. 2005822") ), I have begun to publish Selections from the Commentaries of Medhâtithi, Govindarâja, Nârâyaṇa-Sarvajña, Râghavânanda, Nandana and an anonymous Kashmirian Commentary, and I may be allowed. to refer to that work for evidence of the correctness of many among the readings adopted in the present text or quoted in the Notes. I will now proceed to a statement of the materials used for the subjoined edition, beginning with a description of the MSS. in which the Commentaries are contained. All MSS. are written in the Devanâgarî character, when not otherwise stated.
+The present attempt to supply this want was first under- taken nearly ten years ago, and was called forth by the recovery of the early Commentaries which has furnished an entirely new basis for the study of the Manu-smriti. Under the title of Manutîkâsamgraha[^1] ), I have begun to publish Selections from the Commentaries of Medhâtithi, Govindarâja, Nârâyaṇa-Sarvajña, Râghavânanda, Nandana and an anonymous Kashmirian Commentary, and I may be allowed. to refer to that work for evidence of the correctness of many among the readings adopted in the present text or quoted in the Notes. I will now proceed to a statement of the materials used for the subjoined edition, beginning with a description of the MSS. in which the Commentaries are contained. All MSS. are written in the Devanâgarî character, when not otherwise stated.
+
+[^1]: " Fasciculus I., Bibliotheca Indica, New. Series No. 556, Calcutta 1885; Fasciculus II., Bibliotheca Indica, New Series No. 584, Calcutta 1886. 2005822"
 
 **I. Medhâtithi's Commentary.**
 
-This work, called Manubhâshya, is undoubtedly the earliest Com- mentary of all. Its composition is referred to the ninth century by Professor [Bühler](# "See p. CXXII of the Introduction to his translation of Manu, just published in the Sacred Books of the East.").) I have been able to use nine Mss. which differ considerably inter se.
+This work, called Manubhâshya, is undoubtedly the earliest Com- mentary of all. Its composition is referred to the ninth century by Professor Bühler[^2].) I have been able to use nine Mss. which differ considerably inter se.
 
-1. M¹. (designed as No. V. in the Notes to Haughton's edition of Manu), an old India Office Ms. from Colebrooke's collection, in two volumes, Nos. 1551-1552, dated Samvat 1648 A. D. [1591](# "See ibid., p. CXXVI.")) This is a valuable though faulty MS. as far as it goes, but it contains a number of extensive lacunae in divers places, especially in chapters VIII., IX.
+[^2]: "See p. CXXII of the Introduction to his translation of Manu, just published in the Sacred Books of the East."
+
+1. M¹. (designed as No. V. in the Notes to Haughton's edition of Manu), an old India Office Ms. from Colebrooke's collection, in two volumes, Nos. 1551-1552, dated Samvat 1648 A. D. 1591[^3]) This is a valuable though faulty MS. as far as it goes, but it contains a number of extensive lacunae in divers places, especially in chapters VIII., IX.
+
+[^3]: "See ibid., p. CXXVI."
 
 2. M.2, a valuable old MS. in one large volume, from the late Professor Haug's collection, now in the R. Library, Munich. It is dated Samvat 1711 = A. D. 1654/55 and agrees very closely with M.¹, in clerical errors even. Chapters VII. X. are entirely wanting in this MS.
 
@@ -114,19 +120,25 @@ called *Manuțîkâ*, appears to have been composed in the twelfth or thirteenth
 
 10. G. or G.¹, an excellent complete MS. from the Deccan College
 
-Library, which seems to be about 250 or 300 years [old](# "Bühler, p. CXXVIII").¹)It has been discovered and purchased for the Bombay Government by Professor Bühler.
+Library, which seems to be about 250 or 300 years old[^4].¹)It has been discovered and purchased for the Bombay Government by Professor Bühler.
+
+[^4]: "Bühler, p. CXXVIII"
 
 11. G.², another old MS. from the Deccan College, which contains portions of chapters VIII., XI., and XII. only. This MS., as far as it goes, is almost identical with G.¹-Go., i. e. the work of Govindarâja, is a running Commentary on the whole text and has proved extremely useful therefore for detecting the numerous false readings which have crept into the Code of Manu as handed down in G.¹ and G.².
 
 **III. Sarvajña-Nârâyana's Commentary,**
 
-called Manvarthavivriti, belongs to the fourteenth century most [likely](# "Bühler, p. CXXIX; Jolly, Tagore Law Lectures, p. 11").This Commentary, whatever may be thought of its intrinsic merit, has proved less useful than most other Commentaries for the purposes of verbal criticism, both because it confines itself to the elucidation of selected difficult terms and passages, and because it does not contain the text in the only available MS., viz.
+called Manvarthavivriti, belongs to the fourteenth century most likely[^5].This Commentary, whatever may be thought of its intrinsic merit, has proved less useful than most other Commentaries for the purposes of verbal criticism, both because it confines itself to the elucidation of selected difficult terms and passages, and because it does not contain the text in the only available MS., viz.
+
+[^5]: "Bühler, p. CXXIX; Jolly, Tagore Law Lectures, p. 11"
 
 12. N. = Nârâyana's work, according to the excellent Deccan College copy originally discovered by Professor Bühler. It is dated Samvat 1544 = A. D. 1497.-In those very rare cases where the Commentary of Nârâyaṇa does not corroborate the readings quoted in this MS., the readings explained in the Commentary have been quoted with the heading Nâ. Many of the numerous readings which Nârâyana quotes as v. l. have been traced in other Commentaries.
 
 **IV. Râghavânanda's Commentary.**
 
-For this work called Manvarthachandrikâ, which appears to have been composed as late as the sixteenth or seventeenth [century](# "Bühler, pp. CXXXII, CXXXIII; Jolly, ibid."),I have principally used.
+For this work called Manvarthachandrikâ, which appears to have been composed as late as the sixteenth or seventeenth century[^6],I have principally used.
+
+[^6]: "Bühler, pp. CXXXII, CXXXIII; Jolly, ibid."
 
 13. R.¹, a modern but excellent copy from Dr. Burnell's collection, now in the India Office Library.
 
@@ -140,7 +152,11 @@ Râ. (or Râ.¹, Râ.2, Râ.³), i. e. Râghavânanda's Commentary, has frequent
 
 called Nandinî or Manvarthavyakhyâna or Mânavavyâkhyâna, is a very brief Commentary, of South Indian origin and uncertain date.¹) The text as handed down in this work differs considerably almost throughout from the ordinary text. Some of Nandana's readings are certainly old, as proved by their recurrence in the works of Medhâtithi, Nârâyana and other early Commentators and in good old MSS. of the text only. Those very numerous readings on the other hand, which are entirely peculiar to this Commentator alone, deserve little attention and seem to be for the most part either corruptelae or unlucky guesses.
 
-16. Nd.¹ or Nd., the MS. principally used for the present work, is the complete copy belonging to Divân Bahâdur Raghunâthrâo, which was most liberally placed at my disposal by its owner, owing to the kind mediation of Professor Bühler. It is dated Śakasaṇivat 1724 = A. D. [1803](# "Bühler, p. CXXXIII.").In spite of many serious blunders and omissions, which have been adverted to by Professor Bühler and by the Honourable Râo Saheb V. N. [Mandlik](# "Mânava-Dharma Sâstra, Prastâvanâ p. 4.") it is on the whole more reliable than
+16. Nd.¹ or Nd., the MS. principally used for the present work, is the complete copy belonging to Divân Bahâdur Raghunâthrâo, which was most liberally placed at my disposal by its owner, owing to the kind mediation of Professor Bühler. It is dated Śakasaṇivat 1724 = A. D. 1803[^7].In spite of many serious blunders and omissions, which have been adverted to by Professor Bühler and by the Honourable Râo Saheb V. N. Mandlik[^8] it is on the whole more reliable than
+
+[^7]: "Bühler, p. CXXXIII."
+
+[^8]: "Mânava-Dharma Sâstra, Prastâvanâ p. 4."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -224,7 +240,9 @@ om. =omitted.
 
 Böhtlingk's I. Spr.= Indische Sprüche, by Böhtlingk.
 
-The Synopsis of various readings affecting the sense, on pp. 336 foll., has been added for the use of students who wish to read the present text with one of the four principal translations of the Code, by Sir W. Jones, Loise- leur Deslongchamps, Drs. Burnell and [Hopkins](# " Trübner's Oriental Series. London 1884. с")and Professor Bühler (just published).
+The Synopsis of various readings affecting the sense, on pp. 336 foll., has been added for the use of students who wish to read the present text with one of the four principal translations of the Code, by Sir W. Jones, Loise- leur Deslongchamps, Drs. Burnell and Hopkins[^9]and Professor Bühler (just published).
+
+[^9]: " Trübner's Oriental Series. London 1884. с"
 
 Many of the readings adopted in the present text or quoted in the Notes on it have been quoted and fully discussed in the Notes to the lastnamed excellent translation, the Proofsheets of which were kindly placed at my disposal by its Author. The rather numerous discrepancies between the present work and the text as rendered in Professor Bühler's translation are principally due to the fact that he has generally adhered to the recension given by Kullûka. Nor could this be otherwise, as Kullûka's text was hitherto the only one existing in print, and the same course has therefore been followed in Dr. Burnell's recently published translation. The latter work has been carefully consulted, likewise, especially on account of the useful selection of v. l. from the Commentaries of Medhâtithi, Râghavânanda, Kullûka, and part of Nandana's Commentary, which has been supplied by Dr. Hopkins. An an- notated German version of chapters VIII. and IX. 1-102 according to the standard Commentaries was published by myself, in the Zeitschrift für vergleichende Rechtswissenschaft, as long ago as 1882 and 1883.
 
@@ -11278,3 +11296,12 @@ U S
 
 
 \]
+
+
+
+
+
+
+
+
+

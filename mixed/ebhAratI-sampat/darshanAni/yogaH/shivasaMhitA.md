@@ -848,13 +848,17 @@ In this body, the mount *Meru*—i.e., the vertebral column —is surrounded by 
 
 **षट्स्थानेषु च षट्शक्तिं षट्पद्मं योगिनो विदुः ॥२७॥**
 
-27\. The *nâḍi* which is between Iḍâ and Pingalâ is certainly Sushumṇâ. It has six stages, six [forces](# "That is, the functions of the Cord, viz : - Reflection. co-ordination, etc."), six lotuses, known to the Yogis.
+27\. The *nâḍi* which is between Iḍâ and Pingalâ is certainly Sushumṇâ. It has six stages, six forces[^1], six lotuses, known to the Yogis.
+
+[^1]: "That is, the functions of the Cord, viz : - Reflection. co-ordination, etc."
 
 **पंचस्थानं सुषुम्णाया नामानि स्युर्बहूनि च ।**  
 
 **प्रयोजनवशात्तानि ज्ञातव्यानीह शास्त्रतः ॥ २८ ॥**
 
-28\. The first five [stages](# "The parts of which the Spinal Cord is composed are the Tantrik stages viz. :- Cervical, Dorsal, Lumbar, Sacral and Coccygeal.")of Sushumṇâ are known under various names ; being necessary, they have been made known in this book.
+28\. The first five stages[^2]of Sushumṇâ are known under various names ; being necessary, they have been made known in this book.
+
+[^2]: "The parts of which the Spinal Cord is composed are the Tantrik stages viz. :- Cervical, Dorsal, Lumbar, Sacral and Coccygeal."
 
 **अन्या याऽस्त्यपरा नाडी मूलाधारात्समुत्थिता ।**  
 
@@ -1579,7 +1583,9 @@ Note. — He should perform 5 *Kumbhakas* at each centre or Chakra.
 
 **पिबेत्प्राणानिलं तस्य योगानां संक्षयो भवेत् ॥६९॥**
 
-69\. When the skilful Yogi, by placing the tongue at the root of the palate, can drink the *prâṇâvâyu*, then there occurs complete dissolution of all Yogas (*i.e.*, he is no longer in need of [Yoga](# "Some texts read रोगाणां instead of योगानां in which case, it will mean ")).
+69\. When the skilful Yogi, by placing the tongue at the root of the palate, can drink the *prâṇâvâyu*, then there occurs complete dissolution of all Yogas (*i.e.*, he is no longer in need of Yoga[^3]).
+
+[^3]: "Some texts read रोगाणां instead of योगानां in which case, it will mean "
 
 **काकचंच्वा पिबेद्वायुं शीतलं येविचक्षणः ।**  
 
@@ -3775,3 +3781,6 @@ the universe, wherever he likes; he sees the pores of the earth, i.e., he sees t
 
 
 \]
+
+
+

@@ -47,8 +47,18 @@ IN introducing the first volume of Śārngadeva's Sangītaratnākara, containing
 
  The Sangītaratnākara of Śārngadeva is one of the most important works on music now available It is besides, one of the longest works on music in Sanskrit It is a very comprehensive exposition of the subject, dealing with all aspects Ever since it was written it has remained the standard work on music, it has beendrawn upon profusely, as authority, by all subsequent writers on the subject Perhaps it has superseded many earlier works and obscured them, and they have disappeared from the field But it has never been superseded till now.
 
- A complete edition of the work was undertaken by Kalivara Vedāntavāgıśa and Śārada Prasāda Ghosha from Calcutta with the commentary of Simhabhūpāla some time back, and the first volume containing the Svarādhyāya was published in 1879 from the New Arya Press, [Calcutta](# "The book has become very rare and difficult to obtain")In the Preface to that [edition](# "p II"), it hadbeen promised that the remaining portions too would be published, but it does not seem that any further progress had been made in that direction At that time they had access only to a very defective copy of the commentary of Kallinātha, which, as they say, was very unintelligible, owing to numerous clerical [mistakes](# "p IV")” As for Sımhabhūpāla's commentary appearing in this edition, there is no indication of the source of the manuscripts The Preface does not mention the point at all Evidently they must have had access to a complete copy, since they had projected a complete edition The manuscripts known to us and utilised for this edition will be noticed in the course of this introduction.  
- The text of Sangītaratnākara with the commentary of Kallinātha has been edited in the Anandasrama Sanskrit Series as No 35 in [1896](# "In two volumes")In preparing this present edition, Pandit Subrahmanya Sastrihas made use of both the editions The text has been compared with manuscripts available in the various libraries in and near Madras and the commentary of Kallinātha has been compared with the manuscript in the Tanjore Palace [Library](# "Descriptive Catalogue, Vol XVI, No 10749") The printed editions have been carefully compared with these manuscripts and the readings have been improved.
+ A complete edition of the work was undertaken by Kalivara Vedāntavāgıśa and Śārada Prasāda Ghosha from Calcutta with the commentary of Simhabhūpāla some time back, and the first volume containing the Svarādhyāya was published in 1879 from the New Arya Press, Calcutta[^1]In the Preface to that edition[^2], it hadbeen promised that the remaining portions too would be published, but it does not seem that any further progress had been made in that direction At that time they had access only to a very defective copy of the commentary of Kallinātha, which, as they say, was very unintelligible, owing to numerous clerical mistakes[^3]” As for Sımhabhūpāla's commentary appearing in this edition, there is no indication of the source of the manuscripts The Preface does not mention the point at all Evidently they must have had access to a complete copy, since they had projected a complete edition The manuscripts known to us and utilised for this edition will be noticed in the course of this introduction.  
+ The text of Sangītaratnākara with the commentary of Kallinātha has been edited in the Anandasrama Sanskrit Series as No 35 in 1896[^4]In preparing this present edition, Pandit Subrahmanya Sastrihas made use of both the editions The text has been compared with manuscripts available in the various libraries in and near Madras and the commentary of Kallinātha has been compared with the manuscript in the Tanjore Palace Library[^5] The printed editions have been carefully compared with these manuscripts and the readings have been improved.
+
+[^1]: "The book has become very rare and difficult to obtain"
+
+[^2]: "p II"
+
+[^3]: "p IV"
+
+[^4]: "In two volumes"
+
+[^5]: "Descriptive Catalogue, Vol XVI, No 10749"
 
  The plan was to add an English translation of the text at the end of each volume for the portion contained in it It is very unfortunate that the late Pandit Subrahmanya Sastri was not able to prepare the translation That work has devolved on me, along with the responsibility to see through the press the matter for the later portions which he had got ready The English translation for the first adhyāya is ready The delay in issuing this first volume, which had been printed more than a year ago, is due to the time taken for getting the English translation ready At this stage, the problem of printing paper became a very acute one and it is not found possible at present to print the English translation Therefore the first volume containing the first adhyāya is being issued, along with the commentaries and also appendices The second and the third adhyāyas have been printed and the printing of the fourth adhyāya has begun and the second volume containing these three adhyāyas will appear very soon Unfortunately we have to hold up printing any further matter on account of difficulty in securing the needed paper It is proposed to publish the remaining portion in a few convenient volumes and the English translation will appear in a separate volume for the entire text.
 
@@ -73,13 +83,57 @@ The first adhyāya containing the Svara is divided into eight sections, called p
 7. Jāti  
 8. Gīti
 
-In the Calcutta [edition](# "Preface, p II"), the first of these prakaranas is called the Introductory section and the rest of the adhyāya is divided into seven sections In the[Preface](# "p III") there, the fifth section is called Sādhārana and the Varnālankāra is spoken of as the fourth, but in the text itself the order of these sections is as given in the present edition I am adding a detailed list of contents, which, it is hoped, will be of use to the readers to understand the whole subject matter at a glance.
+In the Calcutta edition[^6], the first of these prakaranas is called the Introductory section and the rest of the adhyāya is divided into seven sections In thePreface[^7] there, the fifth section is called Sādhārana and the Varnālankāra is spoken of as the fourth, but in the text itself the order of these sections is as given in the present edition I am adding a detailed list of contents, which, it is hoped, will be of use to the readers to understand the whole subject matter at a glance.
 
- Śārngadeva, the author of the Sangītaratnākara, gives some information about himself in the beginning of the [work](# "Verses 214"),before he begins the summary of the work, in the first prakarana of the first adhyāya The first verse is a mangala Then he speaks of his [family](# "अस्ति स्वस्तिगृह वश verse 2"), which traces its origin to [Kashmere](# "श्रीमत्काश्मीरसभव Ibid") The family goes back to the sage [Vrsagana](# "ऋषेर्वृषगणाज्जात Ibid") In that family there was one [Bhāskara](# "तत्राभूद्भास्करप्रख्य verse 4"),who migrated to the [south](# "अलकर्तु दक्षिणाशा यश्चक्रेदक्षिणायनम् Ibid") His sonwas [Sodhala](# "तस्याभूतनय श्रीसोढल verse 5")He was patronised by King [Singhana](# "येन न्यधायि महती श्रीसिङ्घणे श्रीरपि Ibid")This is a king of the Yadava dynasty, who ruled in Deogiri(modern Doulatabad) from 1210 to 1247 A [D](# "śaka 1132-1169")Śārngadeva was the son of this, [Sodhala](# "तस्मात्जात शार्ङ्गदेव verse 9")He speaks about his own learning in [detail](# "verses 1014").
+[^6]: "Preface, p II"
 
- Many commentaries are known to have been written on this work of Śārngadeva The editors of the work from Calcutta [say](# "Preface, p 4") that they have known of seven commentaries, of which four are in Sanskrit, one in Hindi and two in Telugu But they had seen only two of the Sanskrit commentaries (evidently those by Kallinātha and Simhabhūpāla) and the one in Hindi The late Dr. M. rishnamacharyar mentions the following commentaries on it, in his Classical Sanskrit [Literature](# "para 1004, page 853")Sinhabhūpāla, Keśava, Kallinātha, Hamsabhūpala, Chandrikā, and the Hindi commentary by Gangārāma Of these the commentaries by Simhabhūpāla and Kallinātha will be taken up for detailed consideration presently.
+[^7]: "p III"
 
- The commentary by Keśava is called Kaustubha, according to [Dr. Krishnamacharyar](# "foot-note 2 on p 853") A commentary by Keśava is mentioned in the [Sangītasudhā](# "Sangītasudhā of Govinda Diksita mentions Keśava's commentary in    एना स्फुटीकर्तुमिह प्रवृत्तौ यौ ब्राह्मणौ केशवकल्लिनाथौ। Edition of Music Academy, Madras, No 1, p 152, verse 408")of Govinda Dīkshita,¹ which is published by the Music Acadamy [Madras](# "No 1") For the commentary of Hamsabhūpāla, Dr Krishnamacharyar gives no reference This must be the commentary mentioned in the Catalogue of Sanskrit Manuscripts from Gujerat, Karachi, Sindh and [Kandesh](# "p274")Evidently this is a mistake for Simhabhūpāla For the commentary by Kumbhakarna, there is not enough [evidence](# "Dr V Raghavan also mentions this commentary in the Journal of the Music Academy, Madras, Vol iv, p 18 In this article he mainly gives the information he had himself gathered in his researches, but he records also what information he had received from others This is a point of the latter variety") For Chandrikā also Dr Krishnamacharyar gives no reference and simply says that it is [anonymous](# "Foot-note 4 on p 853 Oppert mention this as No 6258") Dr V Raghavan says that he has information that there are two commentaries, one called Kaustubha and another only a paraphrase of the[text](# "Journal of the Music Academy, Madras, Vol iv, p 19") According to Dr Krishnamacharyar, Kaustubha
+ Śārngadeva, the author of the Sangītaratnākara, gives some information about himself in the beginning of the work[^8],before he begins the summary of the work, in the first prakarana of the first adhyāya The first verse is a mangala Then he speaks of his family[^9], which traces its origin to Kashmere[^10] The family goes back to the sage Vrsagana[^11] In that family there was one Bhāskara[^12],who migrated to the south[^13] His sonwas Sodhala[^14]He was patronised by King Singhana[^15]This is a king of the Yadava dynasty, who ruled in Deogiri(modern Doulatabad) from 1210 to 1247 A D[^16]Śārngadeva was the son of this, Sodhala[^17]He speaks about his own learning in detail[^18].
+
+[^8]: "Verses 214"
+
+[^9]: "अस्ति स्वस्तिगृह वश verse 2"
+
+[^10]: "श्रीमत्काश्मीरसभव Ibid"
+
+[^11]: "ऋषेर्वृषगणाज्जात Ibid"
+
+[^12]: "तत्राभूद्भास्करप्रख्य verse 4"
+
+[^13]: "अलकर्तु दक्षिणाशा यश्चक्रेदक्षिणायनम् Ibid"
+
+[^14]: "तस्याभूतनय श्रीसोढल verse 5"
+
+[^15]: "येन न्यधायि महती श्रीसिङ्घणे श्रीरपि Ibid"
+
+[^16]: "śaka 1132-1169"
+
+[^17]: "तस्मात्जात शार्ङ्गदेव verse 9"
+
+[^18]: "verses 1014"
+
+ Many commentaries are known to have been written on this work of Śārngadeva The editors of the work from Calcutta say[^19] that they have known of seven commentaries, of which four are in Sanskrit, one in Hindi and two in Telugu But they had seen only two of the Sanskrit commentaries (evidently those by Kallinātha and Simhabhūpāla) and the one in Hindi The late Dr. M. rishnamacharyar mentions the following commentaries on it, in his Classical Sanskrit Literature[^20]Sinhabhūpāla, Keśava, Kallinātha, Hamsabhūpala, Chandrikā, and the Hindi commentary by Gangārāma Of these the commentaries by Simhabhūpāla and Kallinātha will be taken up for detailed consideration presently.
+
+[^19]: "Preface, p 4"
+
+[^20]: "para 1004, page 853"
+
+ The commentary by Keśava is called Kaustubha, according to Dr. Krishnamacharyar[^21] A commentary by Keśava is mentioned in the Sangītasudhā[^22]of Govinda Dīkshita,¹ which is published by the Music Acadamy Madras[^23] For the commentary of Hamsabhūpāla, Dr Krishnamacharyar gives no reference This must be the commentary mentioned in the Catalogue of Sanskrit Manuscripts from Gujerat, Karachi, Sindh and Kandesh[^24]Evidently this is a mistake for Simhabhūpāla For the commentary by Kumbhakarna, there is not enough evidence[^25] For Chandrikā also Dr Krishnamacharyar gives no reference and simply says that it is anonymous[^26] Dr V Raghavan says that he has information that there are two commentaries, one called Kaustubha and another only a paraphrase of thetext[^27] According to Dr Krishnamacharyar, Kaustubha
+
+[^21]: "foot-note 2 on p 853"
+
+[^22]: "Sangītasudhā of Govinda Diksita mentions Keśava's commentary in    एना स्फुटीकर्तुमिह प्रवृत्तौ यौ ब्राह्मणौ केशवकल्लिनाथौ। Edition of Music Academy, Madras, No 1, p 152, verse 408"
+
+[^23]: "No 1"
+
+[^24]: "p274"
+
+[^25]: "Dr V Raghavan also mentions this commentary in the Journal of the Music Academy, Madras, Vol iv, p 18 In this article he mainly gives the information he had himself gathered in his researches, but he records also what information he had received from others This is a point of the latter variety"
+
+[^26]: "Foot-note 4 on p 853 Oppert mention this as No 6258"
+
+[^27]: "Journal of the Music Academy, Madras, Vol iv, p 19"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -94,18 +148,88 @@ In the Calcutta [edition](# "Preface, p II"), the first of these prakaranas is c
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-seems to be the work of [Keśava](# "See foot-note 8 on p X")The commentary in Hındı is by Gangārāma, of which there is a good manuscript in the Tanjore Palace [Library](# "Descriptive Catalogue, Vol XVI, No 10754")A Tamil translation of the work also is available in the Tanjore Palace [Library](# "Tamil Catalogue by L Olaganatha Pillai, No 634, b")
+seems to be the work of Keśava[^28]The commentary in Hındı is by Gangārāma, of which there is a good manuscript in the Tanjore Palace Library[^29]A Tamil translation of the work also is available in the Tanjore Palace Library[^30]
 
- Of the two important commentaries, those by Kallinātha and Simhabhūpāla, the commentary of Simhabhūpāla is earlier Simhabhūpāla belongs to the Recherla dynasty His father was Anapota, who had a younger brother called Mada They built up a strong kingdom and they divided the kingdom between themselves, the northern part going to Anapota with the capital at Rajukonda and the southern part to Mada with the capital at [Devarakonda](# "See Velugotivāri Vams'avalı, edited by Dr N Venkata Ramanayya, No 6, Bulletin of the Department of Indian History, University of Madras, p 13 for this information For names. Anapota and Mada see note ó on p XIV below") Anapota had two sons, Devagırīśvara was the elder, who must have died young since it is Simhabhūpāla who succeeded [Anapota](# "This is not mentioned in the book referred to in the note just. above, but see note 12 on p XIV. below") About Simhabhūpāla there is enough material available in his own works In the commentary on Sangītaratnākara itself, there is not much information available He simply says that he has discussed the matter with scholars well-versed inthe science of [music](# "सगीतागमसारविद्भिरखिलै सार्ध विचार्य स्फुटम् verse 9 in the commencement of his commentary") He adds that he has studied all the subjects [also](# "विद्याजातविशारद Ibid")But he has written other works which are now available in print
+[^28]: "See foot-note 8 on p X"
 
- A great Alankāra work called Rasārnavasudhākara by Simhabhūpāla has been published in the Trivandrum Sanskrit Series by the late Mahāmahopādhyāya Dr T Ganapati Sastri as No 50 in 1916 Here there is a long introductory [portion](# "verse 1-44") where the author gives much information about himself There is the caste born of the feet of Visnu [(the Sūdra caste)](# "तस्य (विष्णो) पादाम्बुजाज्जातो वर्ण verse 4") Belonging to that caste there is the dynasty of Recalla where there was the king named [Dacana](# "तत्र रेचल्लवशाब्धिशरद्राकासुधाकर। कलानिधिरुदारश्रीरासीद् दाचननायक॥ verse 5 The name of the dynasty is recerla and lla in the printed edition must be a mistake for rlla")He defeated the Pandya [king](# "यस्यासिधारामार्गेण दुर्गेणापि रणाङ्कणे।  पाण्ड्यराजगजानीकाज्जयलक्ष्मीरुपागता॥ verse 6"), and he had the Title of [Khadganārāyana](# "खड्गनारायणे यस्मिन् verse 7")His wife was [Vocamāmbā](# "तस्य भार्या महाभाग्या     वोचमाम्बा गुणोदाराverse 8")who belonged to the Tāmarasa dynasty They had three [sons](# "तयोरभूवन् पुत्रास्त्रय verse 9"), Śinga Prabhu, Vennama Nayaka, and [Reca](http://॑॑# "शिङ्गप्रभुर्वेन्नमनायकश्च वीराग्रणी रेचमहीपतिश्च verse 9")Śinga became the [king](http://3 "तत्र शिङ्गमहीपाले पालयत्यखिला महीम् verse 11") after the death of Dacana His brother Reca had a son named Nāgaya [Nāyaka](# "श्रीमान् रेचमहीपति लब्ध्वापुत्र नागयनायकम् verse 14")who had the Title of [Kuthārırāya](# "लब्धकुठारिरायबिरुदम् Ibid")and who was also called [Rāhuttarāya](# "राहुत्तरायाङ्कितम् Ibid") Śinga Prabhu had two sons named Ananta and [Mādhava](# "अनन्तमाधवौ यस्य तनूजौ verse 15 They are Anapota and Mada referred to in note 4 on p XII above") This Mādhava had many [sons](# "तत्रानुजो माधवनामकेन्द्रयस्याभवन् वशकरा नरेन्द्रास्तनूभवा verse 16")of whom Vedagırindra was the [eldest](# "तनूभवा वेदगिरीन्द्रसुख्या Ibid")The elder brother of Mādhava, namely, Ananta became known as Anapota [also](# "तस्याग्रजन्मा भुवि राजदोषैरप्रोतभावादनपोतसज्ञा दधाति verse 17") His wife was [Annamāmbā](# "अन्नमाम्बेति विख्याता तस्यासीद्धरणीपते देवी verse 24") They had two [sons](# "तयोरभूता पुत्रौ द्वौ verse 26"), the elder was [Devagirīśvara](# "आद्यो देवगिरीश्वर Ibid") and the second was [Singabhūpati](# "द्वितीयस्त्वद्वितीयोऽसौ यशसा सिङ्गभूपति Ibid His date is towards the close of the 14th century AD")He lived in his anscestral city of [Rājācala](# "राजा स राजाचलनामधेयामध्यास्य वशक्रमराजधानीम् verse 41")His kingdom lay between the Vidhya mountains and the [Śrīśaila](# " विन्ध्यश्रीशैलमध्यक्ष्मामण्डल पालयन्verse 42")
+[^29]: "Descriptive Catalogue, Vol XVI, No 10754"
 
-  Another work of Simhabhūpāla is Kuvalayāvalī or Ratnāpañcālikā, published in the Trivandrum Sanskrit Series by Dr L A Ravi Varma as No 146 in 1941 This is a small drama in four Acts In the Prologue the author is mentioned as Śrī [Śingabhūpāla](# "श्रीमता श्रीशिङ्गभूपालेन प्रणीताम् p 2, II 9, 10"), otherwise known as [Khadganārāyana](# "रङ्गनारायणेन p 2 1 8 His grandfather too had this Title.See note 7 on p XIII above Perhaps this is a Family Title") who lived at the capital city named [Rājaśaila](# "राजशैलाभिधाना राजधानीम्   p 1, last line")His mother was[Annamāt](# "श्रीयन्नमातात्मजp 2,verse 4 In his other work the name is Annamāmbā See note 10 on p XIV above If अन्नमातृ = अन्नमाम्बा, the form ought to be अन्नमात्रात्मज, perhaps the word is अन्नमाम्बात्मज")ā It is also stated there that one Viśveśvara had spoken very highly of his [poetry](# "अहो साहित्यसौभाग्य श्रीशिङ्खधरणीपते। श्लाघायै यस्य सन्नद्धा विश्वेश्वरसरस्वती॥p 2, verse 3") The Viśveśvara mentioned in the Prologue must be the author of Camatkāracandrikā, in the colophon of this work there is the mention of [Simhabhūpāla](# "The colophon mentions Simhabhūpāla as a patron of Viśveśvara The colophon is इति सरससाहित्यचातुरीधुरीण श्रीविश्वेश्वरकविचन्द्रप्रणीताया श्रीसिहभूपालकीर्तिसुधासारशीतलाया चमत्कारचन्द्रिकायान् etc Government Oriental Manuscripts Library, Madras, R 2679 and India Office, Eggeling 3966")
+ Of the two important commentaries, those by Kallinātha and Simhabhūpāla, the commentary of Simhabhūpāla is earlier Simhabhūpāla belongs to the Recherla dynasty His father was Anapota, who had a younger brother called Mada They built up a strong kingdom and they divided the kingdom between themselves, the northern part going to Anapota with the capital at Rajukonda and the southern part to Mada with the capital at Devarakonda[^31] Anapota had two sons, Devagırīśvara was the elder, who must have died young since it is Simhabhūpāla who succeeded Anapota[^32] About Simhabhūpāla there is enough material available in his own works In the commentary on Sangītaratnākara itself, there is not much information available He simply says that he has discussed the matter with scholars well-versed inthe science of music[^33] He adds that he has studied all the subjects also[^34]But he has written other works which are now available in print
 
- There is a Telugu work called [Velugotivārivamśāvali](# "See note 4 on p XII above")In the Introduction to that work, Dr Venkata Ramanayya deals with Simhabhūpāla on pages 13 ff
+[^30]: "Tamil Catalogue by L Olaganatha Pillai, No 634, b"
+
+[^31]: "See Velugotivāri Vams'avalı, edited by Dr N Venkata Ramanayya, No 6, Bulletin of the Department of Indian History, University of Madras, p 13 for this information For names. Anapota and Mada see note ó on p XIV below"
+
+[^32]: "This is not mentioned in the book referred to in the note just. above, but see note 12 on p XIV. below"
+
+[^33]: "सगीतागमसारविद्भिरखिलै सार्ध विचार्य स्फुटम् verse 9 in the commencement of his commentary"
+
+[^34]: "विद्याजातविशारद Ibid"
+
+ A great Alankāra work called Rasārnavasudhākara by Simhabhūpāla has been published in the Trivandrum Sanskrit Series by the late Mahāmahopādhyāya Dr T Ganapati Sastri as No 50 in 1916 Here there is a long introductory portion[^35] where the author gives much information about himself There is the caste born of the feet of Visnu (the Sūdra caste)[^36] पादाम्बुजाज्जातो वर्ण verse 4") Belonging to that caste there is the dynasty of Recalla where there was the king named Dacana[^37]He defeated the Pandya king[^38], and he had the Title of Khadganārāyana[^39]His wife was Vocamāmbā[^40]who belonged to the Tāmarasa dynasty They had three sons[^41], Śinga Prabhu, Vennama Nayaka, and [Reca](http://॑॑# "शिङ्गप्रभुर्वेन्नमनायकश्च वीराग्रणी रेचमहीपतिश्च verse 9")Śinga became the [king](http://3 "तत्र शिङ्गमहीपाले पालयत्यखिला महीम् verse 11") after the death of Dacana His brother Reca had a son named Nāgaya Nāyaka[^42]who had the Title of Kuthārırāya[^43]and who was also called Rāhuttarāya[^44] Śinga Prabhu had two sons named Ananta and Mādhava[^45] This Mādhava had many sons[^46]of whom Vedagırindra was the eldest[^47]The elder brother of Mādhava, namely, Ananta became known as Anapota also[^48] His wife was Annamāmbā[^49] They had two sons[^50], the elder was Devagirīśvara[^51] and the second was Singabhūpati[^52]He lived in his anscestral city of Rājācala[^53]His kingdom lay between the Vidhya mountains and the Śrīśaila[^54]
+
+[^35]: "verse 1-44"
+
+[^36]: "तस्य (विष्णो
+
+[^37]: "तत्र रेचल्लवशाब्धिशरद्राकासुधाकर। कलानिधिरुदारश्रीरासीद् दाचननायक॥ verse 5 The name of the dynasty is recerla and lla in the printed edition must be a mistake for rlla"
+
+[^38]: "यस्यासिधारामार्गेण दुर्गेणापि रणाङ्कणे।  पाण्ड्यराजगजानीकाज्जयलक्ष्मीरुपागता॥ verse 6"
+
+[^39]: "खड्गनारायणे यस्मिन् verse 7"
+
+[^40]: "तस्य भार्या महाभाग्या     वोचमाम्बा गुणोदाराverse 8"
+
+[^41]: "तयोरभूवन् पुत्रास्त्रय verse 9"
+
+[^42]: "श्रीमान् रेचमहीपति लब्ध्वापुत्र नागयनायकम् verse 14"
+
+[^43]: "लब्धकुठारिरायबिरुदम् Ibid"
+
+[^44]: "राहुत्तरायाङ्कितम् Ibid"
+
+[^45]: "अनन्तमाधवौ यस्य तनूजौ verse 15 They are Anapota and Mada referred to in note 4 on p XII above"
+
+[^46]: "तत्रानुजो माधवनामकेन्द्रयस्याभवन् वशकरा नरेन्द्रास्तनूभवा verse 16"
+
+[^47]: "तनूभवा वेदगिरीन्द्रसुख्या Ibid"
+
+[^48]: "तस्याग्रजन्मा भुवि राजदोषैरप्रोतभावादनपोतसज्ञा दधाति verse 17"
+
+[^49]: "अन्नमाम्बेति विख्याता तस्यासीद्धरणीपते देवी verse 24"
+
+[^50]: "तयोरभूता पुत्रौ द्वौ verse 26"
+
+[^51]: "आद्यो देवगिरीश्वर Ibid"
+
+[^52]: "द्वितीयस्त्वद्वितीयोऽसौ यशसा सिङ्गभूपति Ibid His date is towards the close of the 14th century AD"
+
+[^53]: "राजा स राजाचलनामधेयामध्यास्य वशक्रमराजधानीम् verse 41"
+
+  Another work of Simhabhūpāla is Kuvalayāvalī or Ratnāpañcālikā, published in the Trivandrum Sanskrit Series by Dr L A Ravi Varma as No 146 in 1941 This is a small drama in four Acts In the Prologue the author is mentioned as Śrī Śingabhūpāla[^55], otherwise known as Khadganārāyana[^56] who lived at the capital city named Rājaśaila[^57]His mother wasAnnamāt[^58]ā It is also stated there that one Viśveśvara had spoken very highly of his poetry[^59] The Viśveśvara mentioned in the Prologue must be the author of Camatkāracandrikā, in the colophon of this work there is the mention of Simhabhūpāla[^60]
+
+[^54]: " विन्ध्यश्रीशैलमध्यक्ष्मामण्डल पालयन्verse 42"
+
+[^55]: "श्रीमता श्रीशिङ्गभूपालेन प्रणीताम् p 2, II 9, 10"
+
+[^56]: "रङ्गनारायणेन p 2 1 8 His grandfather too had this Title.See note 7 on p XIII above Perhaps this is a Family Title"
+
+[^57]: "राजशैलाभिधाना राजधानीम्   p 1, last line"
+
+[^58]: "श्रीयन्नमातात्मजp 2,verse 4 In his other work the name is Annamāmbā See note 10 on p XIV above If अन्नमातृ = अन्नमाम्बा, the form ought to be अन्नमात्रात्मज, perhaps the word is अन्नमाम्बात्मज"
+
+[^59]: "अहो साहित्यसौभाग्य श्रीशिङ्खधरणीपते। श्लाघायै यस्य सन्नद्धा विश्वेश्वरसरस्वती॥p 2, verse 3"
+
+ There is a Telugu work called Velugotivārivamśāvali[^61]In the Introduction to that work, Dr Venkata Ramanayya deals with Simhabhūpāla on pages 13 ff
+
+[^60]: "The colophon mentions Simhabhūpāla as a patron of Viśveśvara The colophon is इति सरससाहित्यचातुरीधुरीण श्रीविश्वेश्वरकविचन्द्रप्रणीताया श्रीसिहभूपालकीर्तिसुधासारशीतलाया चमत्कारचन्द्रिकायान् etc Government Oriental Manuscripts Library, Madras, R 2679 and India Office, Eggeling 3966"
+
+[^61]: "See note 4 on p XII above"
 
  Simhabhūpāla is a versatile scholar and a profuse writer Apart from his Kuvalayāvalī and Rasārnavasudhākara, both published in the Trivandrum Sanskrit Series, he must have written many other works In the Rasārnavasudhākara, he mentions a work called Kandarpasambhava as his own composition**¹** In the whole of this Rasārnavasudhākara, he quotes from his own works about twenty five verses in illustration of various statements he makes, with the remark, *yathā mamaiva*. A few of them are tracable to his Kuvalayāvalī as is mentioned in the Preface to that Drama in the Trivandrum Sanskrit Series We have as yet no information about the other verses quoted from his works  
- In Aufrecht's Catalogus Catalogorum, there is an entry of Nātakaparibhāsā as a work of Singadharanīsena The entry is made on p 284 as found in Buhler's Report and on p 791 as found in the India Office The manuscripts in the India Office are described by Eggeling under Nos. 1201 and 1202. Evidently the author is Singadharanīśa and Singadharanīsena must be the Intrumental Singular form with sa for [śa](# "Eggeling gives the name as Singadharanīśa")It is not a separate work, it is only a part of Simhabhūpāla's Rasārnavasudhākara beginning from verse 290 on p 298
+ In Aufrecht's Catalogus Catalogorum, there is an entry of Nātakaparibhāsā as a work of Singadharanīsena The entry is made on p 284 as found in Buhler's Report and on p 791 as found in the India Office The manuscripts in the India Office are described by Eggeling under Nos. 1201 and 1202. Evidently the author is Singadharanīśa and Singadharanīsena must be the Intrumental Singular form with sa for śa[^62]It is not a separate work, it is only a part of Simhabhūpāla's Rasārnavasudhākara beginning from verse 290 on p 298
+
+[^62]: "Eggeling gives the name as Singadharanīśa"
 
       There is no reason to believe that the Rasārnavasudhākara was written by Vis'ves'vara on the ground that  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -119,16 +243,60 @@ seems to be the work of [Keśava](# "See foot-note 8 on p X")The commentary in H
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-in Camatkāracandrikā, Viśveśvara refers to Rasārnavasudhākara for [details](# "Cf Dr MKrishnamacharyar's Classical Sanskrit Literature, para 879, p 771") It is becoming a fashion now a days to refer all works bearing the name of a king to some court poet or .court pandit Unless there is definite evidence as in the case of Sangītasudhā assigned to king Raghunātha and mentioned as by Govinda Dīksıta by his son [Venkatamakhın](# "See note 1 on p XI above"), we have to accept that the king himself wrote these works The kings in ancient and even in medieval India were not mere figure-heads in administration, nor were they mere administrators They were the true representatives of the civilization of the country In intellectual equipments, in cultural accomplishments and in every aspect of their lives, they represented the civilization in its ideal form They maintained Dharma, which is another word for civilization, they lived according to Dharma also Besides being warriors, conquerors and rulers, they were learned scholars, poets, philosophers and authors, and patrons of learning and arts They recognized only an Indian Dharma or civilization without any racial prejudices Simhabhūpāla himself says that he belonged to the lowest [caste](# "See note 4 on p XIII above"), at the same time he honoured the Brahmins and protected religion Neither caste distinction nor sectarian differences interfered with the unity of culture under the rule of those great Indian kings.
+in Camatkāracandrikā, Viśveśvara refers to Rasārnavasudhākara for details[^63] It is becoming a fashion now a days to refer all works bearing the name of a king to some court poet or .court pandit Unless there is definite evidence as in the case of Sangītasudhā assigned to king Raghunātha and mentioned as by Govinda Dīksıta by his son Venkatamakhın[^64], we have to accept that the king himself wrote these works The kings in ancient and even in medieval India were not mere figure-heads in administration, nor were they mere administrators They were the true representatives of the civilization of the country In intellectual equipments, in cultural accomplishments and in every aspect of their lives, they represented the civilization in its ideal form They maintained Dharma, which is another word for civilization, they lived according to Dharma also Besides being warriors, conquerors and rulers, they were learned scholars, poets, philosophers and authors, and patrons of learning and arts They recognized only an Indian Dharma or civilization without any racial prejudices Simhabhūpāla himself says that he belonged to the lowest caste[^65], at the same time he honoured the Brahmins and protected religion Neither caste distinction nor sectarian differences interfered with the unity of culture under the rule of those great Indian kings.
 
- Dr M Krishnamacharyar says that Simhabhūpāla who wrote the commentary on the Sangītaratnākara is different from the author of [Rasārnavasudhākara](# "See Classical Sanskrit Literature, footnote 1, p 853")He does not give any explanation It is true that while he gives an elaborate description of his ancestry in the introductory portion of the Rasārnavasudhākara, he gives little information about himself in his commentary This must be due to the fact that he wrote the commentary after he wrote the Rasārnavasudhākara It is not possible at this stage to investigate the point on the basis of any internal evidence I must wait for that till the whole of the commentary is published But the colophon in the two works proves the identity of the authors beyond any [doubt](# "The colophon in Rasārnavasudhākara read as follows इति श्रीमदन्ध्रमण्डलाधीश्वरप्रतिगण्डभैरवश्रीयनपोतनरेन्द्रनन्दनभुजबलभीमश्रीशिङ्गभूपालविरचिते रसार्णवसुधाकरनाम्नि etc This may be compared with the colophon at the end of the first chapter of the commentary Further the identity of the names सुधाकर in both works too point out to the identity of the authors")The question of a work called Nātakaparibhāsa, the question of Rasārnavasudhākara having been written by another person who was a favourite in the court and the question of the authors of the two works being different—such questions should not have been raised, and if the points had been properly investigated such doubts would not have been raised But since they are found in works well known and relied on by many, it has become necessary for me to investigate the points and make certain remarks on them.
+[^63]: "Cf Dr MKrishnamacharyar's Classical Sanskrit Literature, para 879, p 771"
 
- Three manuscripts of Simhabhūpāla's commentary on the Sangītaratnākara have come to our notice. One is in the collection at the Fort at Bikaner and we were able to securea transcript of [it](# "Simhabhūpāla's commentary is not noticed in Rajendralal Mitra's Catalogue No 1120 there is a part of Kallinātha's commentary A new and complete Catalogue is under preparation But the numbers have not been finally assigned and as such no number is given here for the Manuscript")There is another work in the Oriental Library at Baroda and for this also, we were able to have a [transcript](# "The Catalogue has not yet been printed") The third is in the Bhandarkar Research Institute, [Poona](# "Descriptive Catalogue, Vol XII, No 327")It is found that this last manuscript consists of a few stray leaves and so we did not utilise it Another manuscript is known to exist in [Kashmere](# "The MS is not noticed in any catalogue But its existence in the Raghunath Temple, Srinagar is known through private information")We tried very much to secure a loan or a transcript of it But we are informed that the manuscript is not available there
+[^64]: "See note 1 on p XI above"
 
- Kallinātha also givessome information about himself in the introductory portion of his [commentary](# "Verses 5 14 in the commencement of the commentary")He speaks about the Karnātaka [country](# "आस्ते कर्णाटदेश verse 5") with the Kāverī and the Krsnā on the south and the north of the [country](# "कावेरीकृष्णवेणीतरलतरतरङ्गार्द्रदक्षोत्तरास Ibid"), which extends to the eastern and the western [coasts](# "हृष्ट सश्लिष्य पूर्वापरनिजवपुषा प्राच्यपाश्चात्यवेले Ibid") Here on the banks of the Tungabhadrā there is the city called Vidyānagarī [(Vijayanagar)](# "पुरीह विद्यानगरी चकास्ति तुङ्गातरङ्गैरभित पवित्रा verse 6")where there ruled the king Devarāya, son of Vijaya of the Yadava [dynasty](# "एता शास्तिप्रौढ श्रीदेवरायो विजयनृपसुतो यादवाना वरेण्य verse 7") Devarāya's son was Immadi[Devarāya](# "तस्यास्ति पुत्रइम्मिडिदेवराय verse 8") Kallinātha lived there at that [time](# "सुधर्मेव सभा यस्य verse 9 and तस्यामस्तिकल्लिनाथार्यवर्यverse 10")His grand-father was [Vallabhadeva,](# "वल्लभेश्वरदेवो हि यस्य साक्षात् पितामहःverse 11Anandasrama edition reads the name as तुत्तुलेश्वरदेव")his mother was [Nārāyanī](# "माता नारायणी यस्य verse 12")and father [Laksmīdhara](# "पिता लक्ष्मीधर स्वयम् Ibid") He belonged to the Śānḍilya [Gotra](# "शाण्डिल्यगोत्रजः सोऽयम् Ibid")Under the orders of the king, he commented on the Sangītaratnākara**⁹**
+[^65]: "See note 4 on p XIII above"
 
- Vijaya I, mentioned by Kallinātha reigned from 1418 to 1423, his son Devarāya II reigned from 1423 to [1446](# "Inscriptions about Vijaya are available from 1418 1426, but Devarāya began to reign from 1423 So there must have been a joint rule by father and son for three years") to Immadi Devarāya reigned from 1446 to 1465 Thus Kallinātha must have lived in the second half of the fifteenth century  
+ Dr M Krishnamacharyar says that Simhabhūpāla who wrote the commentary on the Sangītaratnākara is different from the author of Rasārnavasudhākara[^66]He does not give any explanation It is true that while he gives an elaborate description of his ancestry in the introductory portion of the Rasārnavasudhākara, he gives little information about himself in his commentary This must be due to the fact that he wrote the commentary after he wrote the Rasārnavasudhākara It is not possible at this stage to investigate the point on the basis of any internal evidence I must wait for that till the whole of the commentary is published But the colophon in the two works proves the identity of the authors beyond any doubt[^67]The question of a work called Nātakaparibhāsa, the question of Rasārnavasudhākara having been written by another person who was a favourite in the court and the question of the authors of the two works being different—such questions should not have been raised, and if the points had been properly investigated such doubts would not have been raised But since they are found in works well known and relied on by many, it has become necessary for me to investigate the points and make certain remarks on them.
+
+[^66]: "See Classical Sanskrit Literature, footnote 1, p 853"
+
+[^67]: "The colophon in Rasārnavasudhākara read as follows इति श्रीमदन्ध्रमण्डलाधीश्वरप्रतिगण्डभैरवश्रीयनपोतनरेन्द्रनन्दनभुजबलभीमश्रीशिङ्गभूपालविरचिते रसार्णवसुधाकरनाम्नि etc This may be compared with the colophon at the end of the first chapter of the commentary Further the identity of the names सुधाकर in both works too point out to the identity of the authors"
+
+ Three manuscripts of Simhabhūpāla's commentary on the Sangītaratnākara have come to our notice. One is in the collection at the Fort at Bikaner and we were able to securea transcript of it[^68]There is another work in the Oriental Library at Baroda and for this also, we were able to have a transcript[^69] The third is in the Bhandarkar Research Institute, Poona[^70]It is found that this last manuscript consists of a few stray leaves and so we did not utilise it Another manuscript is known to exist in Kashmere[^71]We tried very much to secure a loan or a transcript of it But we are informed that the manuscript is not available there
+
+[^68]: "Simhabhūpāla's commentary is not noticed in Rajendralal Mitra's Catalogue No 1120 there is a part of Kallinātha's commentary A new and complete Catalogue is under preparation But the numbers have not been finally assigned and as such no number is given here for the Manuscript"
+
+[^69]: "The Catalogue has not yet been printed"
+
+[^70]: "Descriptive Catalogue, Vol XII, No 327"
+
+[^71]: "The MS is not noticed in any catalogue But its existence in the Raghunath Temple, Srinagar is known through private information"
+
+ Kallinātha also givessome information about himself in the introductory portion of his commentary[^72]He speaks about the Karnātaka country[^73] with the Kāverī and the Krsnā on the south and the north of the country[^74], which extends to the eastern and the western coasts[^75] Here on the banks of the Tungabhadrā there is the city called Vidyānagarī (Vijayanagar)[^76]where there ruled the king Devarāya, son of Vijaya of the Yadava dynasty[^77] Devarāya's son was ImmadiDevarāya[^78] Kallinātha lived there at that time[^79]His grand-father was Vallabhadeva,[^80]his mother was Nārāyanī[^81]and father Laksmīdhara[^82] He belonged to the Śānḍilya Gotra[^83]Under the orders of the king, he commented on the Sangītaratnākara**⁹**
+
+[^72]: "Verses 5 14 in the commencement of the commentary"
+
+[^73]: "आस्ते कर्णाटदेश verse 5"
+
+[^74]: "कावेरीकृष्णवेणीतरलतरतरङ्गार्द्रदक्षोत्तरास Ibid"
+
+[^75]: "हृष्ट सश्लिष्य पूर्वापरनिजवपुषा प्राच्यपाश्चात्यवेले Ibid"
+
+[^76]: "पुरीह विद्यानगरी चकास्ति तुङ्गातरङ्गैरभित पवित्रा verse 6"
+
+[^77]: "एता शास्तिप्रौढ श्रीदेवरायो विजयनृपसुतो यादवाना वरेण्य verse 7"
+
+[^78]: "तस्यास्ति पुत्रइम्मिडिदेवराय verse 8"
+
+[^79]: "सुधर्मेव सभा यस्य verse 9 and तस्यामस्तिकल्लिनाथार्यवर्यverse 10"
+
+[^80]: "वल्लभेश्वरदेवो हि यस्य साक्षात् पितामहःverse 11Anandasrama edition reads the name as तुत्तुलेश्वरदेव"
+
+[^81]: "माता नारायणी यस्य verse 12"
+
+[^82]: "पिता लक्ष्मीधर स्वयम् Ibid"
+
+[^83]: "शाण्डिल्यगोत्रजः सोऽयम् Ibid"
+
+ Vijaya I, mentioned by Kallinātha reigned from 1418 to 1423, his son Devarāya II reigned from 1423 to 1446[^84] to Immadi Devarāya reigned from 1446 to 1465 Thus Kallinātha must have lived in the second half of the fifteenth century  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+[^84]: "Inscriptions about Vijaya are available from 1418 1426, but Devarāya began to reign from 1423 So there must have been a joint rule by father and son for three years"
 
 **9.***तमाह कल्लिनाथार्य स राजा बहुमानत।  
  रत्नाकर व्याकुरुष्व लक्ष्यलक्षणकोविद॥ verse 13  
@@ -289,8 +457,10 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 **कर्णालम्बितकम्बलाश्वतरयोर्गीतामृतास्वादना-  
 दान्दोलीकृतमौलिनिर्जरनदीतारङ्गपाटश्रिया।**
 
-**[नृत्यच्चन्द्रकलाकलापविलसद्ब्रह्माण्डखण्डान्तरं](# "कलापरिलसद्")  
+**नृत्यच्चन्द्रकलाकलापविलसद्ब्रह्माण्डखण्डान्तरं[^85]  
 त तूर्यत्रयपोषरूपवपुष वन्दे भवानीपतिम्॥१॥**
+
+[^85]: "कलापरिलसद्"
 
 **विघ्नौघहारिण सर्वभक्ताभिमतकारिणम्।  
 वारणास्यमहं वन्दे मौलावर्धेन्दुधारिणम्॥२॥**
@@ -298,8 +468,10 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 **वाणि वीणालसत्पाणि पञ्चाशद्वर्णरूपिणि।  
 पादानतसुरश्रेणि निवास कुरु मन्मुखे॥३॥**
 
-**वन्दे वेदार्थतत्त्वज्ञं [मुक्तिमार्गप्रवर्तकम्](# "मार्गप्रदर्शकम्")।  
+**वन्दे वेदार्थतत्त्वज्ञं मुक्तिमार्गप्रवर्तकम्[^86]।  
 सर्वागमविद नित्य चन्द्रभूषणदेशिकम्॥४॥**
+
+[^86]: "मार्गप्रदर्शकम्"
 
 **आस्ते कर्णाटदेश सुविमलयशसा पूरिताश पृथिव्या  
 कावेरीकृष्णवेणीतरलतरतरङ्गार्द्रदक्षोत्तरासः।  
@@ -321,9 +493,11 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 गान्धर्वगुणगम्भीरा विद्याधरविनोदिनी॥९॥**
 
 **वाचा गेयेन नित्यं समुचितकुसुमैस्तोषितार्धाङ्गयोष  
-कीर्त्त्या[व्याप्तस्त्रिलोकीमभिनवभरताचार्यलक्ष्मप्रपूर्त्या](# "प्रपूर्व्या")।  
+कीर्त्त्याव्याप्तस्त्रिलोकीमभिनवभरताचार्यलक्ष्मप्रपूर्त्या[^87]।  
 पादाग्रे वीरभूषामणिगणविलुठत्सर्ववाग्गेयकार-  
 स्तस्यामस्ति प्रशस्तश्रुतिगणचतुर कल्लिनाथार्यवर्य॥१०॥**
+
+[^87]: "प्रपूर्व्या"
 
 **वल्लभेश्वरदेवो हि यस्य साक्षात्पितामहः।  
 असौ कि वर्ण्यते ज्ञानवैराग्यैश्वर्यसपदा॥११॥**
@@ -358,8 +532,10 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 **वेणूद्वेलितगीतिरुद्रसलसद्वाद्यो वयस्यैः सम  
 तालीभिःफणिमौलिरङ्गधरणौ नृत्यक्रियाकौतुकी।**
 
-**इत्य भङ्गिविशेषतः [प्रकटयन्सगीतमङ्गीकृत](# "मङ्गीकृत त्रैलोक्यप्रतिपालक")-  
+**इत्य भङ्गिविशेषतः प्रकटयन्सगीतमङ्गीकृत[^88]-  
 त्रैलोक्यप्रतिपालनः प्रतिपद पद्मेक्षणः पातु वः॥१॥**
+
+[^88]: "मङ्गीकृत त्रैलोक्यप्रतिपालक"
 
 **श्रियो निधान जगता श्रिये ऽस्तु श्रियो विशालः स्तनसंनिवेशः।  
 यस्मिन्कराभ्यां कलनामविन्दन्मन्ये चतुर्बाहुरभून्मुकुन्दः॥२॥**
@@ -377,7 +553,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 सगीतरसपीयूषे नैवात्मभरितोचिता॥६॥**
 
 **वदान्यस्येति मन्वानः करुणापूर्णमानसः।  
-[एता](# "एना") राजपथीकर्तु यतते सिहभूपति॥७॥**
+एता[^89] राजपथीकर्तु यतते सिहभूपति॥७॥**
+
+[^89]: "एना"
 
 **संगीतरत्नाकरनामधेयग्रन्थस्य टीका स्फुटदर्शितार्थाम्।  
 श्रीसिहभूपः स्वकुलप्रदीपस्तनोति संगीतसुधाकरराख्याम्॥८॥**
@@ -391,7 +569,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 न तु सुगमेऽपि ग्रन्थे विवृतावपि योजनामात्रम्॥१०॥**
 
 **अतिगम्भीरे विषमे कतिपयवेद्ये त्विह ग्रन्थे।  
-[सम्यग्व्याख्याकुशलः](# "व्याख्याशक्त") सर्वज्ञः सिहभूप एवैकः॥११॥**
+सम्यग्व्याख्याकुशलः[^90] सर्वज्ञः सिहभूप एवैकः॥११॥**
+
+[^90]: "व्याख्याशक्त"
 
 **प्रागल्भ्य दधते न लक्षणविदः सगीतलक्ष्य विना  
 लक्ष्यज्ञा अपि शास्त्रबोधविधुरा गोष्ठीष्वपष्ठूक्तय।  
@@ -411,12 +591,16 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 **‘अपरोक्षव्यवहृतेर्योग्यस्याधीपदस्य नः।  
 सभवे स्वप्रकाशस्य लक्षणासभवःकुत॥’**इति।
 
-क्व राजते? सूरीणा हृत्पङ्कजे, ‘अङ्गुष्ठमात्रःपुरुषो मध्य आत्मनि तिष्ठति’इत्युक्तत्वात्। ननु व्यापकस्य परमात्मन कथं मूर्तधर्मो हृद्यवस्थानम्? अत आह— अनुरञ्जक इति। व्यापकस्यापि परमेश्वरस्य प्राणिना हृत्पङ्कजे ऽभिव्यक्तिः। तदुक्त व्यासेन – ‘अभिव्यक्तेरित्याश्मरथ्य’इति। केन हृद्यभिव्यज्यते? चित्तेन। कीदृशेन? ब्रह्मग्रन्थिजमारुतानुगतिना। सुषुम्णया सहेडापिङ्गलयोः सबन्धस्थान ब्रह्मग्रन्थि, तस्माज्जातो यो मारुतस्तत्रानुगति सहगमनयस्य तादृशेन। अनुः सहार्थे। यद्वा, अनुगत विद्यते ऽस्मिन्निति मत्वर्थइन्प्रत्ययः। मारुते ऽनुगतिना मारुतानुगतिनेति विग्रहः,[मनः](# "गतिनेत्यन्वया")पवनौ सहचारिणाविति योगिप्रसिद्धेः। श्रीहर्षेणाप्युक्त नैषधचरिते—
+क्व राजते? सूरीणा हृत्पङ्कजे, ‘अङ्गुष्ठमात्रःपुरुषो मध्य आत्मनि तिष्ठति’इत्युक्तत्वात्। ननु व्यापकस्य परमात्मन कथं मूर्तधर्मो हृद्यवस्थानम्? अत आह— अनुरञ्जक इति। व्यापकस्यापि परमेश्वरस्य प्राणिना हृत्पङ्कजे ऽभिव्यक्तिः। तदुक्त व्यासेन – ‘अभिव्यक्तेरित्याश्मरथ्य’इति। केन हृद्यभिव्यज्यते? चित्तेन। कीदृशेन? ब्रह्मग्रन्थिजमारुतानुगतिना। सुषुम्णया सहेडापिङ्गलयोः सबन्धस्थान ब्रह्मग्रन्थि, तस्माज्जातो यो मारुतस्तत्रानुगति सहगमनयस्य तादृशेन। अनुः सहार्थे। यद्वा, अनुगत विद्यते ऽस्मिन्निति मत्वर्थइन्प्रत्ययः। मारुते ऽनुगतिना मारुतानुगतिनेति विग्रहः,मनः[^91]पवनौ सहचारिणाविति योगिप्रसिद्धेः। श्रीहर्षेणाप्युक्त नैषधचरिते—
+
+[^91]: "गतिनेत्यन्वया"
 
 **‘त्व हृद्गता भैमि बहिर्गता ऽपि प्राणायिता नासिकया ऽऽस्यगत्या।**  
 **न चित्तमाक्रामति तत्र चित्रमेतन्मनो यद्भवदेकवृत्ति॥’**इति।
 
-यो ऽयमेव विशिष्ट परमेश्वरःत मुदे हर्षाय वन्द इति सबन्धः। पक्षे, गीत वन्दे। गीतमिति रञ्जकःस्वरसदर्भ उच्यते, ‘रञ्जकःस्वरसदर्भो गीतमित्यभिधीयते’इति वक्ष्यमाणत्वात्। गीतस्य च मुख्यत्वेन गीतपदेनैव वाद्यनृत्ते अप्यु-पलक्ष्यास्मिन्ग्रन्थे सगीतमभिधेयमित्यपि सूच्यते। अनभिधेयत्वे तस्य ग्रन्थादौ स्तुत्यत्वेन नमस्कार्यत्वेन [चाभिधानस्यासगतत्वापात](# "तत्वापत्ते")। अथ वा नादतनु वन्दे।नाद एव तनुः स्वरूप यस्य स्वरसदर्भस्य त स्वरसदर्भ वन्दे।कथभूतम्? उद्धुरजगद्गीतम्, उद्धुरे जगति गीत जात्येलादि यस्मात्। कस्मै?मुदेआनन्दाय। पुनः कथभूतम्? शकरम्, श सुखं करोतीति। अनेन सुख प्रयोजनम्, अभिधेयेन सह सुखस्य जन्यजनकभावः सबन्धो ऽपि दर्शित। तं कम्? यस्माद् ग्रामादीनामुत्पत्तिः। ग्रामाः स्वरसमूहाः षड्जग्रामो मध्यमग्रामो गाधारग्राम इति त्रय तेषां विभागपृथक्त्वम्, वर्णो गानक्रिया स्थाय्यारोह्यवरोहिसचारिभेदेनचतुर्विध ‘गानक्रियोच्यते वर्णः’इति वक्ष्यमाणः तस्य रचना निष्पादन सौन्दर्य वा, अलंकारा विशिष्टवर्णसदर्भा मन्द्राद्यादयः, जातयोऽष्टादश षाड्ज्यादयः सप्त शुद्धा एकादश विकृता षड्जकैशिक्यादय, तासां क्रम परिपाटी यस्माज्जायत इति सबन्धः। यो ऽयं स्वय राजते, अन्यानपेक्षतया ऽऽनन्दयितृत्वात्। स्वरपदस्य निरुक्तिरप्यनेन कथ्यते। कथभूतः? सूरीणा सगीततत्त्व जानतामनुरञ्जको ऽनुरागोत्पादक। क्व राजते? हृत्पङ्कजे।हृत्पङ्कज इत्युपलक्षणम्। तेन स्वरोत्पत्तिस्थानानि हृत्कण्ठमूर्धानो ग्राह्याः। केन? चित्तेन, चित्तस्यापि नादोत्पत्तौ कारणत्वस्य ‘आत्मा विवक्षमाणो ऽयं मन प्रेरयते’ इत्यादिना वक्ष्यमाणत्वात्। ब्रह्मग्रन्थिजेति विशेषण पूर्ववत्॥१॥
+यो ऽयमेव विशिष्ट परमेश्वरःत मुदे हर्षाय वन्द इति सबन्धः। पक्षे, गीत वन्दे। गीतमिति रञ्जकःस्वरसदर्भ उच्यते, ‘रञ्जकःस्वरसदर्भो गीतमित्यभिधीयते’इति वक्ष्यमाणत्वात्। गीतस्य च मुख्यत्वेन गीतपदेनैव वाद्यनृत्ते अप्यु-पलक्ष्यास्मिन्ग्रन्थे सगीतमभिधेयमित्यपि सूच्यते। अनभिधेयत्वे तस्य ग्रन्थादौ स्तुत्यत्वेन नमस्कार्यत्वेन चाभिधानस्यासगतत्वापात[^92]। अथ वा नादतनु वन्दे।नाद एव तनुः स्वरूप यस्य स्वरसदर्भस्य त स्वरसदर्भ वन्दे।कथभूतम्? उद्धुरजगद्गीतम्, उद्धुरे जगति गीत जात्येलादि यस्मात्। कस्मै?मुदेआनन्दाय। पुनः कथभूतम्? शकरम्, श सुखं करोतीति। अनेन सुख प्रयोजनम्, अभिधेयेन सह सुखस्य जन्यजनकभावः सबन्धो ऽपि दर्शित। तं कम्? यस्माद् ग्रामादीनामुत्पत्तिः। ग्रामाः स्वरसमूहाः षड्जग्रामो मध्यमग्रामो गाधारग्राम इति त्रय तेषां विभागपृथक्त्वम्, वर्णो गानक्रिया स्थाय्यारोह्यवरोहिसचारिभेदेनचतुर्विध ‘गानक्रियोच्यते वर्णः’इति वक्ष्यमाणः तस्य रचना निष्पादन सौन्दर्य वा, अलंकारा विशिष्टवर्णसदर्भा मन्द्राद्यादयः, जातयोऽष्टादश षाड्ज्यादयः सप्त शुद्धा एकादश विकृता षड्जकैशिक्यादय, तासां क्रम परिपाटी यस्माज्जायत इति सबन्धः। यो ऽयं स्वय राजते, अन्यानपेक्षतया ऽऽनन्दयितृत्वात्। स्वरपदस्य निरुक्तिरप्यनेन कथ्यते। कथभूतः? सूरीणा सगीततत्त्व जानतामनुरञ्जको ऽनुरागोत्पादक। क्व राजते? हृत्पङ्कजे।हृत्पङ्कज इत्युपलक्षणम्। तेन स्वरोत्पत्तिस्थानानि हृत्कण्ठमूर्धानो ग्राह्याः। केन? चित्तेन, चित्तस्यापि नादोत्पत्तौ कारणत्वस्य ‘आत्मा विवक्षमाणो ऽयं मन प्रेरयते’ इत्यादिना वक्ष्यमाणत्वात्। ब्रह्मग्रन्थिजेति विशेषण पूर्ववत्॥१॥
+
+[^92]: "तत्वापत्ते"
 
 **अस्ति स्वस्तिगृहं वंशः श्रीमत्काश्मीरसंभवः।  
 ऋषेर्वृषगणाज्जातः कीर्त्तिक्षालितदिङ्मुखः॥२॥**
@@ -428,14 +612,18 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 अलंकर्तुं दक्षिणाशां यश्चक्रे दक्षिणाऽयनम्‌॥४॥**
 
 **तस्याभूत्तनय प्रभूतविनयः श्रीसोढलः प्रौढधी-  
-र्येन [श्रीकरणप्रवृद्धविभवं](# "°प्रबुद्धविभव°") भूवल्लभं भिल्लमम्।  
+र्येन श्रीकरणप्रवृद्धविभवं[^93] भूवल्लभं भिल्लमम्।  
 आराध्याखिललोकशोकशमनी कीर्त्तिः समासादिता  
   जैत्रे जैत्रपदं न्यधायि महती श्रीसिङ्घणे श्रीरपि॥५॥**
 
+[^93]: "°प्रबुद्धविभव°"
+
 **एकः क्ष्मावलयेक्षितीश्वरमिलन्मौलीन्द्रनीलावलि-  
-[प्रोदञ्चद्द्युतिचित्रिताङ्घ्रिनखरश्रेणिर्नृपालाग्रणी](# "प्रोद्ञ्चद्रुचि°")ः।  
+प्रोदञ्चद्द्युतिचित्रिताङ्घ्रिनखरश्रेणिर्नृपालाग्रणी[^94]ः।  
 श्रीमत्सिङ्घणदेव एवविजयी यस्य प्रतापानलो  
 विश्वव्याप्यपि दन्दहीति हृदयान्येव द्विषामुद्धुरः॥६॥**
+
+[^94]: "प्रोद्ञ्चद्रुचि°"
 
 **तं प्रसाद्य सुधीधुर्योगुणिनं गुणरागिणम्‌।  
 गुणग्रामेण यो विप्रानुपकारैरतीतृपत्‌॥७॥**
@@ -455,13 +643,19 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 सहवासप्रिया शश्वद्विश्राम्यति तदालये॥११॥**
 
 **स विनोदैकरसिको भाग्यवैदग्ध्यभाजनम्‌।  
-धनदानेनविप्राणामार्तिसंहृत्य[शाश्वतीम्‌](# "मार्ती सहृत्य शाश्वती")॥१२॥**
+धनदानेनविप्राणामार्तिसंहृत्यशाश्वतीम्‌[^95]॥१२॥**
 
-**जिज्ञासूनां च [विद्याभिर्गदार्तानां](# "र्गदिना च") रसायनैः।  
+[^95]: "मार्ती सहृत्य शाश्वती"
+
+**जिज्ञासूनां च विद्याभिर्गदार्तानां[^96] रसायनैः।  
 अधुना ऽखिललोकानां तापत्रयजिहीर्षया॥१३॥**
 
-**शाश्वताय च धर्माय कीर्त्त्यै[निःश्रेयसाप्तये](# "निःश्रेयसाय च")।  
+[^96]: "र्गदिना च"
+
+**शाश्वताय च धर्माय कीर्त्त्यैनिःश्रेयसाप्तये[^97]।  
 आविष्करोति संगीतरत्नाकरमुदारधीः॥१४॥**
+
+[^97]: "निःश्रेयसाय च"
 
 **  **(क०) अथ ग्रन्थकारःशार्ङ्गदेव स्वदेशवंशवृत्तप्रशसापूर्वक ग्रन्थस्य प्रयोजनविषयौनिर्दिशति—**अस्ति स्वस्तिगृह**मित्यारभ्य **संगीतरत्नाकरमुदारधी**रित्यन्तेन ग्रन्थसंदर्भेण॥२—१४॥
 
@@ -494,17 +688,23 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
 **सदाशिवः शिवेत्या**दिना **सारोद्धारमिमं व्यधा**दित्यन्तेन। सारोद्धारो नवनीत तमिममिति व्यस्तरूपणम्‌, सारस्योद्धारो यस्मिन्कर्मणीति क्रियाविशेषणं वा॥१५—२०॥
 
-  (सु०) ननु सदाशिवभरतादिप्रणीतेषु संगीतग्रन्थेषु सत्सु [किमनेनाफलनिर्माणक्लेशेनेत्यत](# "किमनेनाधुनिकनिर्मा") आह—**सदाशिव** इति। एतेषां मतपयोनिधि निर्मथ्य सारोद्धारमिम व्यधादकार्षित्‌। अतश्च ते वितता दुर्ग्रहा बहवश्च ग्रन्था अचिरजीविभिर्मनुष्यैरालोडयितुमशक्या इत्यल्पप्रयासेनैव सकलसंगीतरहस्यावबोधसिद्धेर्नास्य प्रयासस्य वैफल्यमिति, एतानि च शास्त्राण्यालोच्य कृतत्वेनास्य समूलत्वात्प्रेक्षावद्भिप्रमाणत्वेनोपादेयो ऽयमित्यप्यनेन कथयति॥१५—२०॥
+  (सु०) ननु सदाशिवभरतादिप्रणीतेषु संगीतग्रन्थेषु सत्सु किमनेनाफलनिर्माणक्लेशेनेत्यत[^98] आह—**सदाशिव** इति। एतेषां मतपयोनिधि निर्मथ्य सारोद्धारमिम व्यधादकार्षित्‌। अतश्च ते वितता दुर्ग्रहा बहवश्च ग्रन्था अचिरजीविभिर्मनुष्यैरालोडयितुमशक्या इत्यल्पप्रयासेनैव सकलसंगीतरहस्यावबोधसिद्धेर्नास्य प्रयासस्य वैफल्यमिति, एतानि च शास्त्राण्यालोच्य कृतत्वेनास्य समूलत्वात्प्रेक्षावद्भिप्रमाणत्वेनोपादेयो ऽयमित्यप्यनेन कथयति॥१५—२०॥
+
+[^98]: "किमनेनाधुनिकनिर्मा"
 
   (क०) ननु, ‘आविष्करोति संगीतरत्नाकरमुदारधीः’इति प्रतिज्ञाया संगीतशब्देन लोकप्रसिद्ध्यागीतस्यैव ग्रन्थप्रतिपाद्यत्वं प्रतीयते न तु
 
 **मार्गोदेशीति तद् द्वेधा तत्र मार्गः स उच्यते।  
-यो मार्गितो [विरिञ्च्याद्यैः](# "विरिञ्चाद्यै")प्रयुक्तो भरतादिभिः॥२२॥**
+यो मार्गितो विरिञ्च्याद्यैः[^99]प्रयुक्तो भरतादिभिः॥२२॥**
+
+[^99]: "विरिञ्चाद्यै"
 
 **देवस्य पुरतः शंभोर्नियताभ्युदयप्रदः।  
 देशे देशे जनानां यद्रुच्या हृदयरञ्जकम्॥२३॥**
 
-वाद्यनृत्तयोरित्याशङ्का परिजिहीर्षु सगीतशब्दार्थमाह—**गीतं वाद्यमिति**। यदि गीतमेव प्रतिपाद्येत तदा केवल गीतशब्द प्रयुञ्जीत न तु समुपसर्गयुक्तम्। ननु गीतस्यैव सम्यक्त्वद्योतनार्थ समुपसर्ग इति चेन्न, ‘रञ्जक स्वरसंदर्भो गीतमित्यभिधीयते’इति विशिष्टवचनादनुपसृष्टस्यैव तस्य गीतस्य सम्यक्त्वसिद्धेः। समित्युपसर्गस्तु गीतशब्देन सह प्रयुज्यमानो गीते स्वेनावेयातिशयाभावाद्गीतस्यान्ययोगं द्योतयञ्शब्दत्वसामान्येन वाद्यस्य [तदुभयाभिव्यञ्जकत्वेन](# "०व्यङ्ग्यत्वेन")नृत्तस्य च गीतेन सबन्ध विशिनष्टि।तस्माद्यत्र सगीतशब्दस्य प्रयोगस्तत्र तौर्यत्रिक विवक्षितमिति मन्तव्यम्। क्वचिद्गीतमात्रे संगीतशब्दप्रयोगस्त्ववयवे ऽवयव्युपचारात्खण्डपटे पटव्यवहारवत्॥ -२१॥
+वाद्यनृत्तयोरित्याशङ्का परिजिहीर्षु सगीतशब्दार्थमाह—**गीतं वाद्यमिति**। यदि गीतमेव प्रतिपाद्येत तदा केवल गीतशब्द प्रयुञ्जीत न तु समुपसर्गयुक्तम्। ननु गीतस्यैव सम्यक्त्वद्योतनार्थ समुपसर्ग इति चेन्न, ‘रञ्जक स्वरसंदर्भो गीतमित्यभिधीयते’इति विशिष्टवचनादनुपसृष्टस्यैव तस्य गीतस्य सम्यक्त्वसिद्धेः। समित्युपसर्गस्तु गीतशब्देन सह प्रयुज्यमानो गीते स्वेनावेयातिशयाभावाद्गीतस्यान्ययोगं द्योतयञ्शब्दत्वसामान्येन वाद्यस्य तदुभयाभिव्यञ्जकत्वेन[^100]नृत्तस्य च गीतेन सबन्ध विशिनष्टि।तस्माद्यत्र सगीतशब्दस्य प्रयोगस्तत्र तौर्यत्रिक विवक्षितमिति मन्तव्यम्। क्वचिद्गीतमात्रे संगीतशब्दप्रयोगस्त्ववयवे ऽवयव्युपचारात्खण्डपटे पटव्यवहारवत्॥ -२१॥
+
+[^100]: "०व्यङ्ग्यत्वेन"
 
   (सु०) सगीतग्रन्थो विरच्यत इत्युक्तम्। तत्र किमिद सगीतमित्यपेक्षायामाह—**गीत**मिति। नन्वेव समुदिताना सगीतत्व एकैकस्यासगीतत्वापत्तिः, नैवम्, गीतवाद्यनृत्तान्यतमत्वस्य सगीतशब्दप्रवृत्तिनिमित्तत्वात्॥ -२१॥
 
@@ -523,10 +723,14 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
   (क०) गीतस्य सामवेदसंग्रहरूपत्वेन वैदिकत्वादुपादेयत्व दर्शयति—**सामवेदादिदमि**ति। तत्संग्रहरूपत्व च गीतस्यापि सप्तस्वरात्मकत्वात्। सामनि हि क्रुष्टप्रथमद्वितीयतृतीयचतुर्थमन्द्रातिस्वार्याख्या सप्त स्वरा, इह तु त एव यथायोगं षड्जादिव्यपदेशभाज इति। ब्रह्मणा ऽपि वेदादुद्धृत्य संग्रहणे सार्ववर्णिकत्वं प्रयोजनमिति भाव॥ -२५॥
 
 **गीतेन प्रीयते देवः सर्वज्ञः पार्वतीपतिः।  
-गोपीपतिरनन्तो ऽपि वंशध्वनिवशं [गतः](# "वशवद")॥२६॥**
+गोपीपतिरनन्तो ऽपि वंशध्वनिवशं गतः[^101]॥२६॥**
+
+[^101]: "वशवद"
 
 **सामगीतिरतो ब्रह्मा वीणाऽऽसक्ता सरस्वती।  
-किमन्ये [यक्षगन्धर्वदेवदानवमानवाः](# "किनराः")॥२७॥**
+किमन्ये यक्षगन्धर्वदेवदानवमानवाः[^102]॥२७॥**
+
+[^102]: "किनराः"
 
 **अज्ञातविषयास्वादो बालः पर्यङ्किकागतः।  
 रुदन्गीतामृतं पीत्वा हर्षोत्कर्षं प्रपद्यते॥२८॥**
@@ -564,7 +768,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
   (क०) सप्ताध्याय्या रत्नाकरे प्रत्यध्यायं वस्तूनि संजिघृक्षन्नादौ स्वरगताध्याये शरीरादीन्पदार्थान्संगृह्य प्रतिपादयितुं प्रतिजानीते—**तत्र स्वरगताध्याय इत्यादि**ना। एतावान्वस्तुसंग्रहः प्रतिपाद्यत इति योजना।
 
 **छन्दांसि विनियोगाश्च स्वराणां श्रुतिजातयः।  
-ग्रामाश्च मूर्च्छनास्तानाः शुद्धाः[कूटाश्च](# "कूटा स्वसख्यया")संख्यया॥३३॥**
+ग्रामाश्च मूर्च्छनास्तानाः शुद्धाःकूटाश्च[^103]संख्यया॥३३॥**
+
+[^103]: "कूटा स्वसख्यया"
 
 **प्रस्तारः खण्डमेरुश्च नष्टोद्दिष्टप्रबोधकः।  
 स्वरसाधारणं जातिसाधारणमतः परम्॥३४॥**
@@ -584,7 +790,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 भाषाऽङ्गाण्यप्युपाङ्गानि क्रियाऽङ्गाणि च तत्त्वतः॥३८॥**
 
 **ततः प्रकीर्णकाध्याये तृतीये कथयिष्यते।  
-वाग्गेयकारो गान्धर्वः [स्वरादिर्गायनस्तथा](# "र्गायकस्तथाः")॥३९॥**
+वाग्गेयकारो गान्धर्वः स्वरादिर्गायनस्तथा[^104]॥३९॥**
+
+[^104]: "र्गायकस्तथाः"
 
 **गायनी गुणदोषाश्च तयोः शब्दभिदास्तथा।  
 गुणदोषाश्च शब्दस्य शारीरं तद्गुणास्तथा॥४०॥**
@@ -649,13 +857,17 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 **अथ द्वितीयं पिण्डोत्पत्तिप्रकरणम्‌**
 
 **गीतं नादात्मकं वाद्यं नादव्यक्त्या प्रशस्यते।  
-तद्द्वगानुगतं नृत्तं [नादाधीनमतस्त्रयम्‌](# "मिदत्रयम्‌")॥१॥**
+तद्द्वगानुगतं नृत्तं नादाधीनमतस्त्रयम्‌[^105]॥१॥**
+
+[^105]: "मिदत्रयम्‌"
 
 **नादेन व्यज्यते वर्णःपदं वर्णात्पदाद्वचः।  
 वचसो व्यवहारो ऽयं नादाधीनमतो जगत्‌॥२॥**
 
-**आहतो ऽनाहतश्चेति [द्विधा](# "द्वेधा")नादो निगद्यते।  
+**आहतो ऽनाहतश्चेति द्विधा[^106]नादो निगद्यते।  
 सो ऽयं प्रकाशते पिण्डे तस्मात्पिण्डो ऽभिधीयते॥३॥**
+
+[^106]: "द्वेधा"
 
   (क०) ननु गीतनिदानत्वेन स्वरगते नादस्य प्रथमं प्रतिपाद्यत्वमस्तु, कि शरीरनिरूपणेनेत्याशङ्क्य, नादमात्रस्य शरीरमन्तरेण प्रकाशाभावादिति परिहरञ्शरीर निरुपयितुमाह—**गीतं नादात्मकमि**ति अयमर्थ—न केवल गीतादित्रयस्य नादाधीनत्वम्‌, वाङ्मूलस्यसर्वलोकव्यवहारस्यापि नादाधीनत्वात्तदाधार शरीरमादौसुतरा निरूपणीयमेवेति॥१—३॥
 
@@ -676,10 +888,14 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 नादरूपा परा शक्तिर्नादरूपो महेश्वर॥
 
 यदुक्तं ब्रह्मणःस्थान ब्रह्मग्रन्थिश्च य स्मृतः।  
-तन्मध्येसस्थित प्राणः[प्राणद्वह्निसमुद्भव](# "समुद्गम")॥
+तन्मध्येसस्थित प्राणःप्राणद्वह्निसमुद्भव[^107]॥
+
+[^107]: "समुद्गम"
 
 वह्निमारुतसयोगान्नादःसमुपजायते।  
-नादादुत्पद्यते बिन्दुस्तत [सर्व](# "र्नादात्सर्व") च वाङ्मयम्‌॥’इति।
+नादादुत्पद्यते बिन्दुस्तत सर्व[^108] च वाङ्मयम्‌॥’इति।
+
+[^108]: "र्नादात्सर्व"
 
 नादद्वैविध्य कथयति—**आहत** इति। द्विविधो ऽपि नादः पिण्डे प्रकाशते प्रकटीभवति॥१—३॥
 
@@ -706,8 +922,10 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 **स आत्मा परमात्मा च विश्रान्त्यैसंहरत्यथ।  
 तदेतत्सृष्टिसंहारं प्रवाहानादि संमतम्‌॥१०॥**
 
-शादसत्त्वासर्वज्ञत्वदु खित्वपरिच्छिन्नत्वादिधर्मारोपे जीवव्यपदेश आविद्यिक इत्यर्थ। तत्र दृष्टान्तमाह—**यथा ऽग्नेरि**ति। अशा इति शेषः। तेजोरूपस्याग्नेरशा [दारुतृण](# "तृणपर्णा")मण्याद्युपाध्यवच्छिन्ना यथा स्फुलिङ्गा इति व्यपदिश्यन्ते तद्वदिति। **ते कर्मभिरि**ति। ते जीवा। क्रमेण सुखदुखप्रदैःपुण्यपापरूपैकर्मभिः।पुण्यकर्मणा सुखप्रदत्वं तावत्‌ ‘एष उ एव साधु कर्मकारयति तं यमेभ्यो लोकेभ्य उन्निनीषते’इति श्रुतेः। पापकर्मणा दुःखप्रदत्वं च ‘एषउ एवासाधु कर्मकारयति तं यमधोनिनीषते’इति श्रुतेः। **अनादिभिरि**ति। कर्तृत्वाद्यभिमानिन आत्मनो जीवत्वोपाधेरविद्याया अनादित्वाज्जीवकर्तृकाणा कर्मणामपि
+शादसत्त्वासर्वज्ञत्वदु खित्वपरिच्छिन्नत्वादिधर्मारोपे जीवव्यपदेश आविद्यिक इत्यर्थ। तत्र दृष्टान्तमाह—**यथा ऽग्नेरि**ति। अशा इति शेषः। तेजोरूपस्याग्नेरशा दारुतृण[^109]मण्याद्युपाध्यवच्छिन्ना यथा स्फुलिङ्गा इति व्यपदिश्यन्ते तद्वदिति। **ते कर्मभिरि**ति। ते जीवा। क्रमेण सुखदुखप्रदैःपुण्यपापरूपैकर्मभिः।पुण्यकर्मणा सुखप्रदत्वं तावत्‌ ‘एष उ एव साधु कर्मकारयति तं यमेभ्यो लोकेभ्य उन्निनीषते’इति श्रुतेः। पापकर्मणा दुःखप्रदत्वं च ‘एषउ एवासाधु कर्मकारयति तं यमधोनिनीषते’इति श्रुतेः। **अनादिभिरि**ति। कर्तृत्वाद्यभिमानिन आत्मनो जीवत्वोपाधेरविद्याया अनादित्वाज्जीवकर्तृकाणा कर्मणामपि
 ‘तदाकृत्युपरक्ताना व्यक्तीनामेकयोनिता’इत्यादिन्यायेन प्रवाहरूपविवक्षया ऽनादित्वम्‌।नियन्त्रिता बद्धा सन्त। तत्तज्जातियुतं मनुष्यत्वादिजातियुक्तं देहमायु कर्मजं भोगं च प्रतिजन्म जन्मनि जन्मनि प्रपद्यन्ते प्राप्नुवन्ति ।कर्मभिर्नियन्त्रिता इत्यनेनैव जीवाना देहादिप्राप्तौदेहादीनामप्यविरोषेण कर्मजत्वेसिद्धे,भोगस्य पुनःकर्मजमिति विशेषणमिह जन्मनि क्रियमाणानि दृष्टफलकानि कृष्यादिकर्माणि प्रति जीवानां कर्तृत्वमपि नियतमेवेति वक्तुम्‌। **तेषामस्ती**ति। तेषां स्थूलशरीरावच्छिन्नानां जीवानाम्‌ अपर स्थूलशरीरादन्यत्सूक्ष्ममव्यक्तं लिङ्गशरीरमस्ति, ‘अङ्गुष्ठमात्रःपुरुष’इत्यादिश्रुतेःसिद्धमित्यर्थः।तच्च आ मोक्षाच्चरमस्वरूपसाक्षात्कारपर्यन्तम्‌ अक्षय स्वाविद्यावासनाऽनुच्छेदादविनाशि मत शास्त्रसिद्धम्। इदं च लिङ्गशरीरं सूक्ष्मभूतेन्द्रियप्राणावस्थाऽऽत्मकम्‌, भूतानि पृथिव्यादीनि, इन्द्रियाणि चक्षुरादीनि, प्राणा प्राणादयः पञ्चवायवः, सूक्ष्माणामव्यक्तरुपाणामेतेषामन्तरिन्द्रियेण मनसा सघातत्वेनावस्था ऽवस्थानमात्मास्वरूपं यस्य तत्तथोक्तम्‌। केचित्‌ ‘न कदाचिदनीदृशजगत्‌’इति जगत एव प्रवाहरूपेण नित्यत्वमङ्गीकुर्वन्ति, तन्मतनिरासार्थंजगत्सृष्टिसंहारयोःसप्रयोजनमात्मकर्तृकत्वमाह—जीवानामिति। जीवानामुक्तदेहद्वयाभिमानिनामुपभोगाय सुखदुःखानुभवाय जगद्भूतभौतिकात्मकम्‌। अजः परमात्मा। स आत्मेत्यन्वयः। परत्वमप्यात्मनो निकृष्टजीवापेक्षयेश्वरत्वमापन्नमित्यर्थ। स आत्मेति पूर्वोक्तंब्रह्म परामृश्यते। चकारो भिन्नक्रमः। संहरति चेत्यन्वय। अथ सृष्टस्य जगतः स्थित्यनन्तरम्‌। विश्रान्त्यै, जीवानामित्यनुषञ्जनीयम्‌, सृष्टिसंहारयोरुक्तरीत्या जीवार्थत्वात्‌। जीवानादित्वद्योतनाय तयो प्रवाहानादित्वमाह—**तदेतदि**ति। सृष्टिश्च संहारश्च सृष्टिसंहारमिति द्वद्वैकवद्भावे नपुंसकत्वम्‌। प्रवाहानादीति। व्यक्तिविवक्षया सादित्व सतानरूपेणानादित्वमित्यर्थ॥६—१०॥
+
+[^109]: "तृणपर्णा"
 
   (सु०) ननु विषमो दृष्टान्तः, स्फुलिङ्गाना स्थूलत्वसूक्ष्मत्वादिविरुद्धधर्मससर्गेण भिन्नत्वात्‌, अतआह—**दार्वादी**ति। आदिशब्देनाबिन्धनस्य वैद्युतस्याग्नेरुदकोपाधिग्रहणम्‌। अतश्चौपाधिकः स्फुलिङ्गदौभेदोन तात्त्विक इत्यर्थः। तेषां जीवानां कर्मनिबद्धत्व कथयति—**ते कर्मभि**रिति। ननु ब्रह्मा—
 
@@ -793,7 +1011,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 **जीवकर्मप्रेरितं तद् गर्भमारभते तदा॥२२॥**
 
 **द्रवत्वं प्रथमे मासि कललाख्यं प्रजायते।  
-द्वितीये तु घन पिण्डः[पेशीषद्धनमर्बुदम्](# "पेशी च घन")॥२३॥**
+द्वितीये तु घन पिण्डःपेशीषद्धनमर्बुदम्[^110]॥२३॥**
+
+[^110]: "पेशी च घन"
 
 **पुंस्त्रीनपुंसकानां स्युः प्रागवस्थाःक्रमादिमाः।  
 तृतीये त्वङ्कुराःपञ्च कराङ्घ्रिशिरसो मताः॥२४॥**
@@ -808,10 +1028,14 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 **तृतीये त्वि**ति। पूर्वोक्तघनपिण्डादे, कराङ्घ्रिशिरस, करौ चाङ्घ्रीच शिरश्च कराङ्घ्रिशिरः, प्राण्यङ्गत्वाद् द्वंद्वैकवद्भावः, तस्य कराङ्घ्रिशिरस।
 
 **अङ्गप्रत्यङ्गभागाश्चसूक्ष्माः स्युर्युगपत्तदा।  
-विहाय [श्मश्रुदन्तादीञ्जन्मानन्तरसंभवान्](# "श्मश्रुदन्तादि जन्मानन्तरसभवात्")॥२५॥**
+विहाय श्मश्रुदन्तादीञ्जन्मानन्तरसंभवान्[^111]॥२५॥**
+
+[^111]: "श्मश्रुदन्तादि जन्मानन्तरसभवात्"
 
 **एषा प्रकृतिरन्या तु विकृतिः संमता सताम्।  
-चतुर्थे व्यक्तता तेषां [भावानामपि](# "भावानामुपजायते") जायते॥२६॥**
+चतुर्थे व्यक्तता तेषां भावानामपि[^112] जायते॥२६॥**
+
+[^112]: "भावानामुपजायते"
 
 **पुंसां शौर्यादयो भावा भीरुत्वाद्यास्तु योषिताम्।  
 नपुंसकानां संकीर्णा भवन्तीति प्रचक्षते॥२७॥**
@@ -855,7 +1079,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
   (क०) **पञ्चम** इति। प्रबुद्धम्, पूर्व लीनमन्त करणं तदा स्पन्दोन्मुखं भवति। **षष्ठ**इति। स्नायव सूक्ष्मसिरा, केशा शिरोजा, रोमाण्यङ्गरुहाणि, बलवर्णौ, बलं सत्त्वम्, वर्णो गौरताऽऽदि। **सप्तमे त्वि**ति। पाल्यन्तरितहस्ताभ्याम्। पालिरूरु, ‘पालि स्त्र्यश्र्यङ्कपङ्क्तिषु’इत्यभिधानात्, पालिभ्यामूरुभ्यामन्तरितावाच्छादितौ हस्तौ, ताभ्याम्। श्रोत्ररन्ध्रे पिधायेत्यनेनाधोमुखतया संकुचद्गात्रत्वमुक्तम्॥उद्विग्नोभीतः। गर्भाशयान्वितो जरायुग्रस्तदेहः।अभ्यासतत्पर इति। अभ्यासो नामात्र
 
 **मोक्षोपायमभिध्यायन्वर्तते ऽभ्यासतत्परः।  
-अष्टमे [त्वक्स्मृती](# "त्वक्श्रुती") स्यातामोजश्चैतच्च हृद्भवम्॥३६॥**
+अष्टमे त्वक्स्मृती[^113] स्यातामोजश्चैतच्च हृद्भवम्॥३६॥**
+
+[^113]: "त्वक्श्रुती"
 
 **शुद्धमापीतरक्तं च निमित्तं जीविते मतम्।  
 पुनरम्बां पुनर्गर्भं चञ्चलं तत्प्रधावति॥३७॥**
@@ -895,8 +1121,10 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 **श्मश्रुलोमकचाःस्नायुसिराधमनयो नखाः।  
 दशनाःशुक्लमित्याद्याः स्थिराः पितृसमुद्भवाः॥४६॥**
 
-**शरीरोपचयो वर्णो वृद्धिःसुप्तिर्बलं[स्थितिः](# "धृति")।  
+**शरीरोपचयो वर्णो वृद्धिःसुप्तिर्बलंस्थितिः[^114]।  
 अलोलुपत्वमुत्साह इत्यादीन्रसजान्विदु॥४७॥**
+
+[^114]: "धृति"
 
 धिष्ठानभूतवामपार्श्वस्थितमासविशेषवाचक प्लीहञ्शब्द।यकृदिति दक्षिणपार्श्वस्थितस्तादृशो मासविशेषः। स्नायुसिराधमनय, स्नायव सूक्ष्मनाड्यः सिरास्ततो ऽपि स्थूला, धमनय एरण्डकाण्डवत्स्थूला। स्थिराः कठिना॥४२—४६॥
 
@@ -917,7 +1145,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 क्रियास्तेषां मनो बुद्धिरित्यन्तःकरणद्वयम्॥५१॥**
 
 **सुखं दुःखं च विषयौ विज्ञेयौ मनसः क्रिया।  
-स्मृतिभ्रान्तिविकल्पाद्या [धियो](# "धियो व्यवसिति")ऽध्यवसितिर्मता॥५२॥**
+स्मृतिभ्रान्तिविकल्पाद्या धियो[^115]ऽध्यवसितिर्मता॥५२॥**
+
+[^115]: "धियो व्यवसिति"
 
 **ब्रह्मयोनीनीन्द्रियाणि भौतिकान्यपरे जगुः।  
 सत्त्वाख्यमन्तःकरणं गुणभेदात्त्रिधा मतम्॥५३॥**
@@ -1069,8 +1299,10 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 **पार्श्वयोः पृष्ठवंशस्य चतस्रो मांसरज्जवः।  
 सीवन्यः पञ्च शिरसि द्वे जिह्वालिङ्गयोर्मते॥८९॥**
 
-**चतुर्दशाष्टादश वा [संमता](# "सीमन्ता") अस्थिराशय।  
+**चतुर्दशाष्टादश वा संमता[^116] अस्थिराशय।  
 अस्थ्ना शरीरे संख्या स्यात्षष्टियुक्तं शतत्रयम्॥९०॥**
+
+[^116]: "सीमन्ता"
 
 **वलयानि कपालानि रुचकास्तरुणानि च।  
 नलकानीति तान्याहुः पञ्चधा ऽस्थीनि सूरयः॥९१॥**
@@ -1081,7 +1313,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
   (क०) **श्रवणे नयने** इत्यादि**रस्मद्विरचिते ऽध्यात्मविवेके वीक्ष्यता बुधै**रित्यन्त स्पष्टार्थः॥८६—११९॥
 
-  (सु०) बहिर्मलवहानि रन्ध्राणि कथयति—**श्रवणे** इति॥८६—८७॥ जलानि षोडश षट् कूर्चान्रज्जूश्चतस्रसप्त सीवनीश्च कथयति—**अस्थीत्या**दिना॥८८, ८९॥[मतभेदेनास्थिराशीन्कथयति](# "नामभेदेन")—**चतुर्दशे**ति॥८९॥ अस्थीनि सख्याति —**अस्थ्ना**ति॥९०॥ आकारविशेषेण पञ्चधा ऽस्थीन्याह—**वलयानी**ति॥९१॥ मतभेदेनास्थ्नामन्यथा सख्या ख्यापयति—
+  (सु०) बहिर्मलवहानि रन्ध्राणि कथयति—**श्रवणे** इति॥८६—८७॥ जलानि षोडश षट् कूर्चान्रज्जूश्चतस्रसप्त सीवनीश्च कथयति—**अस्थीत्या**दिना॥८८, ८९॥मतभेदेनास्थिराशीन्कथयति[^117]—**चतुर्दशे**ति॥८९॥ अस्थीनि सख्याति —**अस्थ्ना**ति॥९०॥ आकारविशेषेण पञ्चधा ऽस्थीन्याह—**वलयानी**ति॥९१॥ मतभेदेनास्थ्नामन्यथा सख्या ख्यापयति—
+
+[^117]: "नामभेदेन"
 
 **द्वे शते त्वस्थिसंधीनां स्यातामत्र दशोत्तरे॥९२॥**
 
@@ -1164,8 +1398,10 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 **रक्तस्याष्टौपुरीषस्य सप्त स्युः श्लेष्मणस्तु षट्।  
 पित्तस्य पञ्च चत्वारो मूत्रस्याञ्जलयस्त्रयः॥११७॥**
 
-**वसाया मेदसो द्वौ तु मज्ज्ञ एको [ऽञ्जलिर्मतः](# "मज्जा त्वञ्जलिसमित")।  
+**वसाया मेदसो द्वौ तु मज्ज्ञ एको ऽञ्जलिर्मतः[^118]।  
 अर्धाञ्जलिः शिरोमज्जा श्लेष्मसारो बलं तथा॥११८॥**
+
+[^118]: "मज्जा त्वञ्जलिसमित"
 
 कथयति—**अधोगता** इति॥१०९-॥ तासा व्यापार कथयति—**प्रवर्तयन्तीति**। बल वीर्यम्॥-११०—१११-॥ तिरश्चीना विशेष कथयति—**तिरश्चय** इति॥-११२, ११३॥ मर्माणि परिसख्याति—**जीवस्थानानीति**॥११४, ११४-॥ सहिताना मान कथयति—**सप्तषष्ट्येति**। सहिता रोमादिसधिः।
 
@@ -1180,7 +1416,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
 **आब्रह्मरन्ध्रमृजुतां नीतेयममृतप्रदा।**
 
-द्रवमान प्रतिज्ञाय कथयति—जलादेरिति। रसस्यान्नरसस्य। [मज्ज्ञो](# "मज्जा तदाख्यो धातुः") मज्जाख्यधातो। विस्तरस्त्वध्यात्मविवेके वीक्ष्यतामित्यनेन सो ऽपि मत्कृतो ग्रन्थो ऽस्तीति कर्ता स्वातिशय प्रतिपादयति॥१९६—११९॥
+द्रवमान प्रतिज्ञाय कथयति—जलादेरिति। रसस्यान्नरसस्य। मज्ज्ञो[^119] मज्जाख्यधातो। विस्तरस्त्वध्यात्मविवेके वीक्ष्यतामित्यनेन सो ऽपि मत्कृतो ग्रन्थो ऽस्तीति कर्ता स्वातिशय प्रतिपादयति॥१९६—११९॥
+
+[^119]: "मज्जा तदाख्यो धातुः"
 
   (क०) **गुदलिङ्गान्तर** इति। गुदलिङ्गयोर्मध्ये स्थितस्याधारचक्रस्यैशानादिदलचतुष्टये जन्मकाले जीवस्थित्या परमानन्दादय फलानि। आधारपङ्कजे तस्मिन्नेवाधारचक्रे। कुण्डलिनीत्यन्वर्थतया सर्परूपिणी ब्रह्मशक्तिः, ब्रह्मणो ऽसङ्गोदासीनस्य परमात्मन कर्तृत्वाद्युपहिताकारकारिण्यविद्याशक्ति। सैव मूर्तिमती कुटिलाकारतया कुण्डलिनीत्युच्यते। आब्रह्मरन्ध्रम् , ब्रह्मरन्ध्रंनाम सुषुम्णाया अग्र शिरसि सहस्रदलचक्रमध्यगम्, तत्पर्यन्तम्। ऋजुता नीतेति। गुरूपदिष्टप्रकारेण यमनियमादिक्रमेण वायोरिडापिङ्गलयो संचारं निरुध्य तेन वायुना सवह्निना ब्रह्मग्रन्थौ सुषुम्णामूलरन्ध्राच्छादिनीं कुण्डलिनीफणामपसार्य तत्र प्रवेशितेन तेन ब्रह्मविष्णुरुद्रग्रन्थीना क्रमाद्भेदे सति कुण्डलिनी चात्मवक्रता विहाय यदा ऋजुता प्राप्यते। अमृतप्रदेति। तदा कुण्डलिनी स्वार्जवाद्ब्रह्मरन्ध्रवि-
 
@@ -1307,7 +1545,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 जीवःप्राणसमारूढो रज्ज्वां कोह्लाटिको यथा॥१४९॥**
 
 **सुषुम्णां परितो नाड्यः कंदादा ब्रह्मरन्ध्रतः।  
-[कंदीकृत्य](# "क्रोडीकृत्यः") स्थिताः कंदं शाखाभिस्तन्वते तनुम्॥१५०॥**
+कंदीकृत्य[^120] स्थिताः कंदं शाखाभिस्तन्वते तनुम्॥१५०॥**
+
+[^120]: "क्रोडीकृत्यः"
 
 **देहमध्यमि**ति। देहस्योर्ध्वाधोभागयोर्मध्ये स्थितत्वाद्देहमध्यम्। **चक्रात्तस्मादि**ति। देहमध्यचक्रादवधे। **ब्रह्मग्रन्थिरि**ति। ब्रह्माधिष्ठितत्वाद्ब्रह्मग्रन्थिः। तन्मध्ये ब्रह्मग्रन्थिमध्ये। नाभिचक्र द्वादशारंद्वादशाराणि यस्य तत्तथोक्तम्। आतानवितानात्मकनाडीसंघातरूपत्वान्नाभिचक्रस्य तन्तुजाल दृष्टान्त। कंदीकृत्य, अकंदं कदं कृत्वा। अभूततद्भावे च्विः। ताश्च नाड्यः स्वशाखाभिः कदीकृतं कंदं तनु देहाकारं तन्वते॥-१४५—१५०॥
 
@@ -1604,7 +1844,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 ‘द्वितीया तु ततस्तीव्रध्वनिस्तन्त्रीर्विधीयते।  
 यथा यथा तयोर्मध्ये न तृतीया ध्वनिर्भवेत्॥’
 
-इति। तास्तन्त्र्यो ऽधोऽधःस्थातस्तीव्रनादा भवन्ति। ताभ्यस्तन्त्रीभ्यो जातो नादः श्रुतिरित्युच्यते। श्रुतेः प्रमाणमुक्त मतङ्गेन—ननु श्रुतेः कि मानम्? उच्यते, पञ्चमस्तावद् ग्रामद्वयस्थो लोके प्रसिद्धः। [तस्योत्कर्षापकर्षाभ्या](# "तस्य भुत्युत्कर्षापकर्षाभ्या")मार्दवादायतत्वाद्वा यदन्तर तत्प्रमाणा श्रुतिरिति। स्थानत्रये षट्षष्टिसंख्याकाना श्रुतीना नामान्युक्तानि संगीतसमयसारे—
+इति। तास्तन्त्र्यो ऽधोऽधःस्थातस्तीव्रनादा भवन्ति। ताभ्यस्तन्त्रीभ्यो जातो नादः श्रुतिरित्युच्यते। श्रुतेः प्रमाणमुक्त मतङ्गेन—ननु श्रुतेः कि मानम्? उच्यते, पञ्चमस्तावद् ग्रामद्वयस्थो लोके प्रसिद्धः। तस्योत्कर्षापकर्षाभ्या[^121]मार्दवादायतत्वाद्वा यदन्तर तत्प्रमाणा श्रुतिरिति। स्थानत्रये षट्षष्टिसंख्याकाना श्रुतीना नामान्युक्तानि संगीतसमयसारे—
+
+[^121]: "तस्य भुत्युत्कर्षापकर्षाभ्या"
 
 ‘मन्द्रा चैवातिमन्द्रा च घोरा घोरतरा तथा।  
 मण्डना च तथा सौम्या सुमनाःपुष्करा तथा॥  
@@ -1644,7 +1886,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
 **ध्रुवीणास्वरेभ्यो ऽस्यां चलायां ते स्वरास्तदा॥१८॥**
 
-**एक त्यपकृष्टाः स्युरेवमन्या ऽपि [सारणा](# "मन्याश्च सारणा")।**
+**एक त्यपकृष्टाः स्युरेवमन्या ऽपि सारणा[^122]।**
+
+[^122]: "मन्याश्च सारणा"
 
 चलवीणाया सारणा विदधाति—**तस्यामि**ति। तन्त्रीस्तु सारयेदिति।तुशब्दो भिन्नक्रम। तस्या त्विति योजना ध्रुवातो वैषम्यप्रदर्शनार्था। सारयेत्सारणा कुर्यात्, स्वस्वतन्त्रीस्थितान्स्वरास्तत्तच्छ्रुतिस्थानात्प्रच्याव्यश्रुत्यन्तराणि तन्त्री प्रापयेदित्यर्थः॥ सारयेदित्यनेनानियमेन श्रुत्यन्तरप्रापणे प्राप्ते, प्रथमादिसारणासु श्रुत्यन्तरनियममाह—**स्वोपान्त्ये**ति। तस्या प्रथमाया सारणायाम्। ननु श्रुत्यन्तरप्राप्त्या स्वरान्तरत्वं कि न स्यादित्यतआह—ध्रुववीणास्वरेभ्य इति। ते स्वरास्तदैकश्रुत्यपकृष्टा स्युरित्यत्र तइति ध्रुवायामिव चतुःश्रुतिकत्वादिलक्षणानाषड्जादीना परामर्शाच्छ्रुत्यन्तरप्राप्त्या स्वरान्तरत्वप्राप्तावप्येकश्रुत्यपकर्षेण तेषामेव नीचत्वमात्रप्रतीतेविशेषलाभाभावात्स्वरान्तरत्वं न स्यादित्यर्थ। उक्तं प्रकारं सारणाऽन्तरे ऽप्यतिदिशति—**एवमि**ति। पूर्वत्र सारणायामेकश्रुत्यपकृष्टान्स्वरान्प्रकृति कृत्वा तेषां ततो ऽप्युपान्त्यतन्त्र्यानयनमिहान्यशब्दार्थः॥-१७—१८-॥
 
@@ -1712,7 +1956,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
 ‘निषीदन्ति स्वरा सर्वे निषादस्तेन कथ्यते।’
 
-‘षद्ऌविशरणे’ इत्यस्माद्धातो, निषीदन्ति पर्यवस्यन्त्यस्मिन्स्वरा इति ‘अकर्तरि च’इति सूत्रेण घञि निषादइति रूपम्। इत्युक्तप्रकारेण ते स्वरा सप्तैवेति नियमे सप्तधात्वाश्रितत्वं सप्तचक्राश्रितत्वंवा निमित्तं मतङ्गोक्तमनुसंधेयम्॥ प्रयोगसौकर्यार्थ तेषामाद्याक्षराण्युद्धृत्य संज्ञाऽन्तराण्याह—**तेषां संज्ञा** इति। सरिगादीना मतङ्गाभिमत उद्धारक्रम उच्यते—अत्राकचटतपयशा अष्टौ वर्गा। तत्राष्टमस्य तृतीयं हरिबीजयुक्तमाद्यस्वरमुद्धरेत्। हरिबीजमकार। सप्तमस्य द्वितीयं कामबीजयुक्तं द्वितीयस्वरमुद्वरेत्। कामबीजमिकारः। द्वितीयस्य तृतीय हरिबीजयुक्तं तृतीयस्वरमुद्धरेत्। षष्ठस्य पञ्चममकारयुक्तं [चतुर्थस्वरमुद्धरेत्](# "मध्यमस्वर समुद्धरेत्")। षष्ठस्य प्रथमम-
+‘षद्ऌविशरणे’ इत्यस्माद्धातो, निषीदन्ति पर्यवस्यन्त्यस्मिन्स्वरा इति ‘अकर्तरि च’इति सूत्रेण घञि निषादइति रूपम्। इत्युक्तप्रकारेण ते स्वरा सप्तैवेति नियमे सप्तधात्वाश्रितत्वं सप्तचक्राश्रितत्वंवा निमित्तं मतङ्गोक्तमनुसंधेयम्॥ प्रयोगसौकर्यार्थ तेषामाद्याक्षराण्युद्धृत्य संज्ञाऽन्तराण्याह—**तेषां संज्ञा** इति। सरिगादीना मतङ्गाभिमत उद्धारक्रम उच्यते—अत्राकचटतपयशा अष्टौ वर्गा। तत्राष्टमस्य तृतीयं हरिबीजयुक्तमाद्यस्वरमुद्धरेत्। हरिबीजमकार। सप्तमस्य द्वितीयं कामबीजयुक्तं द्वितीयस्वरमुद्वरेत्। कामबीजमिकारः। द्वितीयस्य तृतीय हरिबीजयुक्तं तृतीयस्वरमुद्धरेत्। षष्ठस्य पञ्चममकारयुक्तं चतुर्थस्वरमुद्धरेत्[^123]। षष्ठस्य प्रथमम-
+
+[^123]: "मध्यमस्वर समुद्धरेत्"
 
 **श्रुत्यनन्तरभावी यः स्निग्धो ऽनुरणनात्मकः॥२४॥**
 
@@ -1872,7 +2118,11 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
 चाच्युत इति दृश्यते॥ साधारणे त्रिश्रुतिः स्यादित्यत्र मध्यमसाधारण इत्यर्थः। अन्तरत्वे चतु श्रुतिरित्यत्र स्वस्यान्तरत्व इति विशेषणीयम्॥ **मध्यमः षड्जवदि**ति। अत्र षड्जवदिति षड्जो यथा द्विश्रुतिर्विकृतश्च्युतत्वाच्युतत्वभेदभिन्नस्तथा मध्यमो ऽपीति वतेरर्थः॥कैशिके काकलीत्वे चेत्यत्र कैशिके षड्जसाधारणे त्रिश्रुतिः, स्वस्य काकलीत्वे चतुःश्रुतिरिति॥३९—४५-॥
 
-  (सु०) एव श्रुतीःश्रुतिजातीः[श्रुतिजातिभ्यः](# "श्रुतिभ्य") स्वरोत्पत्ति च कथयित्वा स्वरभेदान्निरूपयति—त इति। ते षड्जादयः स्वरास्त्रिधा त्रिप्रकाराः। कुतस्त्रिप्रकारत्वम्? अत आह—मन्द्रमध्यताराख्यस्थानभेदात्। ततश्च तात्त्विको भेदो नास्ति, किं तु स्थानकल्पितो भेदः। यथैक एव देवदत्तस्त्रिभूमिके प्रासादे प्रथमभूमिकाया द्वितीयभूमिकाया तृतीयभूमिकाया च तिष्ठन्नन्य इव [भासते](# "प्रतिभाति") तथा स्वरा अपि स्थानविशेषेणेत्यर्थः। ननु यथा षड्जादीना सप्तानां स्वराणां स्थानविशेषेणैव भेदस्तात्त्विकःप्रतीयते तथा मन्द्रमध्यतारस्थानस्थिताना षड्जादीनामपीति कथमत्रैव काल्पनिकत्वमङ्गीक्रियते? ब्रूमः, प्रत्यभिज्ञानात्स्थानत्रये ऽपि त एव स्वरा इति प्रतीयते। य एव मन्द्रस्थःषड्जःस एवाय मध्यस्थाने तारस्थाने च प्रतीयत इति सकललोकसाक्षिका प्रत्यभिज्ञा नावज्ञातु शक्यते। नैव षड्जर्षभादिषु सप्तसु प्रत्यभिज्ञालेशो ऽप्यस्तीति महान्विशेषः। एव शुद्धान्सप्तस्वरान्निरूप्य द्वादश विकृतान्स्वरान्विभज्य निरूपयति—त एवेति। ते शुद्धाः सप्त स्वरा एव विकृतावस्था विकारं प्राप्ता द्वादशसख्याका भवन्ति॥३९॥ तमेव विकार दर्शयति—च्युत इति। द्विश्रुति षड्जो द्विधा विकृतो भवतीति च्युतश्चाच्युतश्चेत्युच्यते। तत्र च्युतो यस्या चतुर्थ्या श्रुतौ स्थापितस्तस्याः सकाशात्प्रच्युतः, अच्युतस्तु तस्यामेव श्रुताववस्थितः पूर्वश्रुतिहीनतया विकृतो भवति। कदा तस्यैवविध विकृतत्वम्? तदाह—साधारण इति। साधारणे स्वसाधारणे निषादस्य च काकलीत्व उभयविध विकृतत्वम्।
+  (सु०) एव श्रुतीःश्रुतिजातीःश्रुतिजातिभ्यः[^124] स्वरोत्पत्ति च कथयित्वा स्वरभेदान्निरूपयति—त इति। ते षड्जादयः स्वरास्त्रिधा त्रिप्रकाराः। कुतस्त्रिप्रकारत्वम्? अत आह—मन्द्रमध्यताराख्यस्थानभेदात्। ततश्च तात्त्विको भेदो नास्ति, किं तु स्थानकल्पितो भेदः। यथैक एव देवदत्तस्त्रिभूमिके प्रासादे प्रथमभूमिकाया द्वितीयभूमिकाया तृतीयभूमिकाया च तिष्ठन्नन्य इव भासते[^125] तथा स्वरा अपि स्थानविशेषेणेत्यर्थः। ननु यथा षड्जादीना सप्तानां स्वराणां स्थानविशेषेणैव भेदस्तात्त्विकःप्रतीयते तथा मन्द्रमध्यतारस्थानस्थिताना षड्जादीनामपीति कथमत्रैव काल्पनिकत्वमङ्गीक्रियते? ब्रूमः, प्रत्यभिज्ञानात्स्थानत्रये ऽपि त एव स्वरा इति प्रतीयते। य एव मन्द्रस्थःषड्जःस एवाय मध्यस्थाने तारस्थाने च प्रतीयत इति सकललोकसाक्षिका प्रत्यभिज्ञा नावज्ञातु शक्यते। नैव षड्जर्षभादिषु सप्तसु प्रत्यभिज्ञालेशो ऽप्यस्तीति महान्विशेषः। एव शुद्धान्सप्तस्वरान्निरूप्य द्वादश विकृतान्स्वरान्विभज्य निरूपयति—त एवेति। ते शुद्धाः सप्त स्वरा एव विकृतावस्था विकारं प्राप्ता द्वादशसख्याका भवन्ति॥३९॥ तमेव विकार दर्शयति—च्युत इति। द्विश्रुति षड्जो द्विधा विकृतो भवतीति च्युतश्चाच्युतश्चेत्युच्यते। तत्र च्युतो यस्या चतुर्थ्या श्रुतौ स्थापितस्तस्याः सकाशात्प्रच्युतः, अच्युतस्तु तस्यामेव श्रुताववस्थितः पूर्वश्रुतिहीनतया विकृतो भवति। कदा तस्यैवविध विकृतत्वम्? तदाह—साधारण इति। साधारणे स्वसाधारणे निषादस्य च काकलीत्व उभयविध विकृतत्वम्।
+
+[^124]: "श्रुतिभ्य"
+
+[^125]: "प्रतिभाति"
 
 ‘निषादो यदि षड्जस्य श्रुतिमाद्या समाश्रयेत्।  
 ऋषभस्त्वन्तिमा प्रोक्तं षड्जसाधारण तदा॥’
@@ -1888,7 +2138,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
 **गजश्चसप्त षड्जादीन्क्रमादुच्चारयन्त्यमी।**
 
-मध्यमस्य प्रथमा श्रुति गांधारो गृह्णाति। तदा त्रिश्रुतिर्विकृतो भवति। [अन्तरस्तु](# "अन्तरस्वरस्तु") गांधारो मध्यमस्याद्य श्रुतिद्वय गृह्णाति। तदा चतु श्रुतिः सन्विकृतो भवति॥४२॥ मध्यमस्य द्वौ विकृतौ भेदौ कथयति—मध्यम इति। षड्जो यथा च्युतत्वेनाच्युतत्वेन च द्वेधा विकृतः कथितः स्वसाधारणे निषादस्य च काकलीत्वे, तद्वन्मध्यमसाधारणे गावारस्यान्तरत्वे च मध्यमो ऽपि द्वेधा विकृतो भवति।
+मध्यमस्य प्रथमा श्रुति गांधारो गृह्णाति। तदा त्रिश्रुतिर्विकृतो भवति। अन्तरस्तु[^126] गांधारो मध्यमस्याद्य श्रुतिद्वय गृह्णाति। तदा चतु श्रुतिः सन्विकृतो भवति॥४२॥ मध्यमस्य द्वौ विकृतौ भेदौ कथयति—मध्यम इति। षड्जो यथा च्युतत्वेनाच्युतत्वेन च द्वेधा विकृतः कथितः स्वसाधारणे निषादस्य च काकलीत्वे, तद्वन्मध्यमसाधारणे गावारस्यान्तरत्वे च मध्यमो ऽपि द्वेधा विकृतो भवति।
+
+[^126]: "अन्तरस्वरस्तु"
 
 ‘मध्यमस्यापि गपयोरेव साधारण मतम्।’इति,  
 मध्यमस्य गाधारस्त्वन्तरः स्वरः।’
@@ -1974,7 +2226,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 आद्य स्वर स्वरज्ञस्तु उद्धरेत्स प्रयत्नतः॥
 
 सप्तमस्य द्वितीय तु कामबीजसमन्वितम्।  
-उद्धरेत्तु स्वर नित्य [सौरभेय](# "‘सौरभेयमृषभम्’ इति सुधाटिप्पणी") मनोहरम्॥
+उद्धरेत्तु स्वर नित्य सौरभेय[^127] मनोहरम्॥
+
+[^127]: "‘सौरभेयमृषभम्’ इति सुधाटिप्पणी"
 
 द्वितीयस्य तृतीय तु हरिबीजसमन्वितम्।  
 समुद्धरेत्तृतीय त सरस स्वरमुत्तमम्॥
@@ -2004,8 +2258,10 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
 **अथ चतुर्थंग्राममूर्च्छनाक्रमतानप्रकरणम्**
 
-**ग्रामःस्वरसमूहःस्यान्मूर्च्छनाऽऽदेः[समाश्रयः](# "मूर्च्छनादिसमाश्रयः")।  
+**ग्रामःस्वरसमूहःस्यान्मूर्च्छनाऽऽदेःसमाश्रयः[^128]।  
 तौ द्वौ धरातले तत्र स्यात्षड्जग्राम आदिम॥१॥**
+
+[^128]: "मूर्च्छनादिसमाश्रयः"
 
 **द्वितीयो मध्यमग्रामस्तयोर्लक्षणमुच्यते।  
 षड्जग्रामः पञ्चमे स्वचतुर्थश्रुतिसंस्थिते॥२॥**
@@ -2030,7 +2286,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
   (सु०) ग्रामनिरूपणार्थमाह—ग्रामःस्वरसमूह इति। स्वराणां समूहो ग्रामशब्देनोच्यते। ननु कथं स्वरसमूहस्य ग्रामशब्दवाच्यत्वम्?उच्यते—यतो मूर्च्छनाऽऽदेः समाश्रयभूतः, अतः स्वरसमूहो ग्रामः। लोकाश्रयभूतो हि ग्राम इत्युच्यते। तदुक्त मतङ्गेन—
 
 ‘यथा कुटुम्बिनःसर्व एकीभूता वसन्ति हि।  
-[सर्वलोकस्य](# "सर्वलोकेषु") स ग्रामो यत्र नित्य व्यवस्थितिः॥’
+सर्वलोकस्य[^129] स ग्रामो यत्र नित्य व्यवस्थितिः॥’
+
+[^129]: "सर्वलोकेषु"
 
 इति। अथ वा स्वरसमूहस्य ग्रामत्वे ऽव्यवस्थयोच्चारितस्यापि स्वरसमूहस्य ग्रामत्व स्यात्, तन्निवृत्त्यर्थमुक्त मूर्च्छनाऽऽदिसमाश्रय इति। यस्तु मूर्च्छनाऽऽदीनामाश्रयः स्वरसमूहः स एव ग्रामशब्देनोच्यते, नाव्यवस्थयोच्चारित स्वरसमूह इत्यर्थः। तथा चोक्त सगीतसमयसारकारेण—
 
@@ -2040,7 +2298,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 इति। तस्य भेदावाह—तौ द्वाविति। ननु त्रयो ग्रामा इति प्रसिद्धिः; कथं द्वावित्युच्यते?अत आह—धरातल इति। तत्र तयोर्मध्ये षड्जग्राम आदिमो मुख्यः। द्वितीयो मध्यमग्रामः। अत एव मतङ्गेनोक्तम्—
 
 ‘उभयोर्ग्रामयोर्मध्ये मुख्यत्व कस्य गण्यते।  
-षड्जस्यैव हि मुख्यत्व [गम्यते](# "गण्यतेः") वचनान्मुनेः॥’
+षड्जस्यैव हि मुख्यत्व गम्यते[^130] वचनान्मुनेः॥’
+
+[^130]: "गण्यतेः"
 
 इति। तयोर्लक्षण प्रतिज्ञाय कथयति—तयोरिति। पञ्चमे स्वरे स्वकीया या चतुर्थी श्रुतिर्यस्यामसौ स्थापितस्तत्स्थे ऽविकृते षड्जग्रामः। यद्यपि षड्जग्रामे ऽन्येषामपि षड्जादीना स्वराणामविकृतत्व तथा ऽपि पञ्चमस्यैवाविकृतत्वकथन मध्यमग्रामे पञ्चमस्य विकृतत्वात्तद्वैलक्षण्यप्रतिपादनार्थम्। मध्यमग्रामलक्षण कथयति—**स्वोपान्त्ये**ति। स्वस्योपान्त्या ऽन्त्यायाः श्रुतेः समीपे वर्तमाना या तृतीया श्रुतिस्तत्र सस्थिते ऽस्मिन्पञ्चमे मध्यमग्रामो भवति। यद्यपि धैवतस्य प्रथमा श्रुति पञ्चमस्यान्त्यश्रुतेः समीपवर्तिनी भवति, तथा ऽपि सा स्वकीया न भवतीति तन्निवृत्त्यर्थ स्वेत्युक्तम्। इदमेव लक्षण प्रकारान्तरेण कथयति—यद्वेति। धो धैवतः षड्जग्रामे त्रिश्रुतिः, मध्यमग्रामे तु पञ्चमस्यान्तिमा श्रुति लब्ध्वा चतुःश्रुतिः। अर्थस्तु स एव। कि तु पूर्व पञ्चमस्वरप्राधान्येनोभयोर्लक्षण-
 
@@ -2053,7 +2313,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 **हेमन्तग्रीष्मवर्षासु गातव्यास्ते यथाक्रमम्।  
 पूर्वाह्णकाले मध्याह्ने ऽपराह्णेऽभ्युदयार्थिभिः॥८॥**
 
-मुक्तम् इदं तु धैवतप्राधान्येन।[धैवतप्रधान्यनिरूपणाद्यत्पूर्वोक्त](# "धैवतप्राधान्यनिरूपण च समत परमतत्वेन, न तु स्वमतत्वेन।") लक्षणमसमतमिव भाति तत्परमते, न तु स्वमते। अत एव पञ्चमरहिताना कूटतानाना भेदकपञ्चमाभावादेव पौनरुक्त्य वक्ष्यति, न धैवताभावेन पौनरुक्त्यमिति। गांधारग्रामस्य क्षितितले ऽनुपयोगे ऽपि शास्त्रस्य सर्वविषयत्वात्तल्लक्षणं कथयति—रिमयोरिति। गांधार ऋषभस्यान्तिमा श्रुति मध्यमस्य चादिमा श्रुतिमाश्रितः सश्चतुःश्रुतिर्भवति। धैवतस्तु पञ्चमस्यान्तिमा श्रुतिमाश्रयति। निषादश्च धैवतस्यान्तिमा श्रुति गृहीत्वा षड्जस्य चादिमा श्रुति समाश्रितः सश्चतु श्रुतिर्भवति। तदा त गांधारग्राम नारदो मुनिराचष्ट। नारदकथन प्राशस्त्यार्थ न तु स्वमते ऽन्यथात्वप्रकटनार्थम्॥१—५॥
+मुक्तम् इदं तु धैवतप्राधान्येन।धैवतप्रधान्यनिरूपणाद्यत्पूर्वोक्त[^131] लक्षणमसमतमिव भाति तत्परमते, न तु स्वमते। अत एव पञ्चमरहिताना कूटतानाना भेदकपञ्चमाभावादेव पौनरुक्त्य वक्ष्यति, न धैवताभावेन पौनरुक्त्यमिति। गांधारग्रामस्य क्षितितले ऽनुपयोगे ऽपि शास्त्रस्य सर्वविषयत्वात्तल्लक्षणं कथयति—रिमयोरिति। गांधार ऋषभस्यान्तिमा श्रुति मध्यमस्य चादिमा श्रुतिमाश्रितः सश्चतुःश्रुतिर्भवति। धैवतस्तु पञ्चमस्यान्तिमा श्रुतिमाश्रयति। निषादश्च धैवतस्यान्तिमा श्रुति गृहीत्वा षड्जस्य चादिमा श्रुति समाश्रितः सश्चतु श्रुतिर्भवति। तदा त गांधारग्राम नारदो मुनिराचष्ट। नारदकथन प्राशस्त्यार्थ न तु स्वमते ऽन्यथात्वप्रकटनार्थम्॥१—५॥
+
+[^131]: "धैवतप्राधान्यनिरूपण च समत परमतत्वेन, न तु स्वमतत्वेन।"
 
   (क०) ननु स्वरप्रयोगवशादिह द्वावेव ग्रामौ स्याताम्, स्वरान्तरेषु सत्सु किं तयोः षड्जमध्यमविशेषणेनेत्याशङ्क्य तत्रोपपत्तिमाह—षड्ज प्रधानमिति। अमात्याधिक्यत, संवादिस्वरबाहुल्यादित्यर्थः। ग्रामे प्रधानं स्यादित्यन्वयः। **अविलोपित्वा**दिति। मध्यमस्याविलोपित्वं चाधस्तनानां सरिगाणामुपरितनानां पधनीनां च यथासंख्यं द्वयोर्द्वयोरेकत्र तन्त्र्या संवदनं संवाद इति मतानुसारेणैकाकिनो मध्यमस्यान्येन संवादाभावात्परिशेषादवधिभूतस्य तस्य लोपो नेष्यत इति केषाचिन्मतम्। अन्येषां तु शुद्धतान-
 
@@ -2073,7 +2335,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 **मूर्च्छनेत्युच्यते ग्रामद्वये ताः सप्त सप्त च॥९॥**
 
 **षड्जे तूत्तरमन्द्रा ऽऽदौ रजनी चोत्तरायता।  
-शुद्धषड्जा [मत्सरीकृदश्वक्रान्ता](# "मत्सरीकृता ऽश्वक्रान्ताः") ऽभिरुद्गता॥१०॥**
+शुद्धषड्जा मत्सरीकृदश्वक्रान्ता[^132] ऽभिरुद्गता॥१०॥**
+
+[^132]: "मत्सरीकृता ऽश्वक्रान्ताः"
 
 **मध्यमे स्यात्तु सौवीरी हारिणाश्वा ततः परम्।**  
 **स्यात्कलोपनता शुद्धमध्या मार्गी च पौरवी॥११॥**
@@ -2114,8 +2378,10 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
 **षड्जादीन्मध्यमादींश्च तदूर्ध्वंसारयेत्क्रमात्॥१५॥**
 
-**चतुर्धा ताः पृथक्शुद्धाः[काकलीकलितास्तथा](# "काकलीसहिता")।  
+**चतुर्धा ताः पृथक्शुद्धाःकाकलीकलितास्तथा[^133]।  
 सान्तरास्तद्द्वयोपेताः षट्पञ्चाशदितीरिताः॥१६॥**
+
+[^133]: "काकलीसहिता"
 
 पधनिसरिगम—हृष्यका॥७॥ अस्याः शुद्धषड्जायाश्चापि पूर्ववत्पञ्चमेन भेदः। मतान्तरेणान्यथैतासां लक्षणमाह—षड्जस्थानेति। निषादाद्यैः स्वरैः षड्जस्थानस्थितै रजन्याद्या भवन्ति। षड्जस्य स्थाने निषादे स्थाप्यमाने रजनी॥२॥ धैवते स्थाप्यमान उत्तरायता॥३॥ पञ्चमे स्थाप्यमाने शुद्धषड्जा॥४॥ मध्यमे मत्सरीकृता॥५॥ गांधारे ऽश्वक्रान्ता॥६॥ ऋषभे ऽभिरुद्गता॥७॥ एव मध्यमस्य स्थाने स्थाप्यमानैर्गांधाराद्यैर्हारिणाश्वाऽऽदयो भवन्ति। मध्यमस्य स्थाने गांधारे स्थाप्यमाने हारिणाश्व॥२॥ ऋषभे स्थाप्यमाने कलोपनता॥३॥ षड्जे स्थाप्यमाने शुद्धमध्या॥४॥ निषादे मार्गी॥५॥ धैवते पौरवी॥६॥ पञ्चमे हृष्यका॥७॥ इति॥-१२—१४-॥
 
@@ -2162,9 +2428,13 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 इति। अत्र मूर्च्छनानिर्देशः स्थानत्रितयप्राप्त्यर्थमिति वचनाद् द्वादशस्वरसपन्ना मूर्च्छना द्रष्टव्याः। नन्दिकेश्वरेणाप्युक्तम्—
 
 ‘द्वादशस्वरसंपन्ना ज्ञातव्या मूर्च्छना बुधै।  
-[जातिभाषा](# "परिभाषाऽऽदि")ऽऽदिसिद्ध्यर्थंतारमन्द्रादिसिद्धये॥’
+जातिभाषा[^134]ऽऽदिसिद्ध्यर्थंतारमन्द्रादिसिद्धये॥’
 
-इति। ताश्चैवम्—धनिसरिगमपधनिसरिग—उत्तरमन्द्रा॥१॥ निसरिगमपधनिसरिगम—रजनी॥२॥ सरिगमपधनिसरिगमप—उत्तरायता॥३॥ रिगमपधनिसरिगमपध—शुद्धषड्जा॥४॥ गमपधनिसरिगमपधनि— मत्सरीकृता॥५॥ मपधनिसरिगमपधनिस—अश्वकान्ता॥६॥ पधनिसरिगमपधनिसरि—अभिरुद्गता॥७॥ इति षड्जग्रामे॥ मध्यमग्रामे ऽप्येवमेव।[सरिगमपधनिसरिगमप](# "निसरिगमपधनिसरिगम—सौबीरीइत्यादि कोशान्तरपाठ")—सौवीरी॥१॥ रिगमपधनिसरिगमपध—हारिणाश्वा॥२॥ गमपधनिसरिगमपधनि—कलोपनता॥३॥ मपधनिसरिगमपधनिस—शुद्धमध्या॥४॥ पधनिसरिगमपधनिसरि— मार्गी॥५॥ धनिसरिगमपधनिसरिग—पौरवी॥६॥ निसरिगमपधनिसरिगम—हृष्यका॥७॥ इति। चतुर्दशानामपि मूर्च्छनाना चातुर्विध्य प्रतिपादयति—चतुर्धेति। ताश्चतुर्दश मूर्च्छनाः पृथक्प्रत्येक चतुर्विधाः शुद्धाःकाकलीसहिताः सान्तराःकाकल्यन्तरोपेताश्चेत्येव षट्पञ्चाशद्भवन्ति॥१५, १६॥
+[^134]: "परिभाषाऽऽदि"
+
+इति। ताश्चैवम्—धनिसरिगमपधनिसरिग—उत्तरमन्द्रा॥१॥ निसरिगमपधनिसरिगम—रजनी॥२॥ सरिगमपधनिसरिगमप—उत्तरायता॥३॥ रिगमपधनिसरिगमपध—शुद्धषड्जा॥४॥ गमपधनिसरिगमपधनि— मत्सरीकृता॥५॥ मपधनिसरिगमपधनिस—अश्वकान्ता॥६॥ पधनिसरिगमपधनिसरि—अभिरुद्गता॥७॥ इति षड्जग्रामे॥ मध्यमग्रामे ऽप्येवमेव।सरिगमपधनिसरिगमप[^135]—सौवीरी॥१॥ रिगमपधनिसरिगमपध—हारिणाश्वा॥२॥ गमपधनिसरिगमपधनि—कलोपनता॥३॥ मपधनिसरिगमपधनिस—शुद्धमध्या॥४॥ पधनिसरिगमपधनिसरि— मार्गी॥५॥ धनिसरिगमपधनिसरिग—पौरवी॥६॥ निसरिगमपधनिसरिगम—हृष्यका॥७॥ इति। चतुर्दशानामपि मूर्च्छनाना चातुर्विध्य प्रतिपादयति—चतुर्धेति। ताश्चतुर्दश मूर्च्छनाः पृथक्प्रत्येक चतुर्विधाः शुद्धाःकाकलीसहिताः सान्तराःकाकल्यन्तरोपेताश्चेत्येव षट्पञ्चाशद्भवन्ति॥१५, १६॥
+
+[^135]: "निसरिगमपधनिसरिगम—सौबीरीइत्यादि कोशान्तरपाठ"
 
 **श्रुतिद्वयं चेत्षड्जस्य निषादः संश्रयेत्तदा।  
 स काकली मध्यमस्य गांधारस्त्वन्तरः स्वरः॥१७॥**
@@ -2274,14 +2544,18 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 **स्युः षाडवानां विंशत्या सह सप्त शतानि तु।  
 औडुवानां तु विंशत्या सहितं शतमिष्यते॥३७॥**
 
-**चतुःस्वराणां [कूटानां](# "तानाना") चतुर्विशतिरीरिताः।  
+**चतुःस्वराणां कूटानां[^136] चतुर्विशतिरीरिताः।  
 त्रिस्वराः षड् द्विस्वरौ द्वावेकस्त्वेकस्वरो मतः॥३८॥**
+
+[^136]: "तानाना"
 
 **आर्चिको गाथिकश्चाथ सामिको ऽथ स्वरान्तरः।  
 एकस्वरादितानानां चतुर्णामभिधा इमा॥३९॥**
 
-**[उक्ता](# "उक्तशुद्धादिभेदेन")ःशुद्धादिभेदेन निगयुक्ताश्चतुर्विधाः।  
+**उक्ता[^137]ःशुद्धादिभेदेन निगयुक्ताश्चतुर्विधाः।  
 तयोरेकैकहीनास्तु द्वेधा मूलक्रमा मताः॥४०॥**
+
+[^137]: "उक्तशुद्धादिभेदेन"
 
   (क०) **स्युः षाडवानामि**ति। अत्र षाडवत्व षट्स्वरवत्त्वमात्रेण विवक्षितम्, न तु प्रयोगापादनसमर्थषट्स्वरवत्त्वम्। औडुवानामित्यत्राप्येवमेव द्रष्टव्यम्॥**आर्चिक** इति। यज्ञप्रयोगेष्वृचामेकस्वराश्रयत्वात्, तत्संबन्धादार्चिक। तथा गाथासबन्धाद्गाथिको द्विस्वरः। सामसबन्धात्त्रिस्वरस्तान सामिकः।साम्ना तु त्रिस्वरत्व सप्तस्वरवत्त्वे ऽपि मन्द्रादिस्थानत्रयविवक्षया। चतु स्वरतानस्यैकस्वरादिसप्तविधतानमध्यवर्तित्वात्स्वरान्तर इति सज्ञा।**उक्ताः शुद्धादिभेदेने**ति। अत्रादिशब्देन सकाकलिसान्तरतद्द्वयोपेता गृह्यन्ते॥३७—४०॥
 
@@ -2711,8 +2985,10 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
 इति स्थायिगतालकाराः।
 
-**स्यातां विस्तीर्णनिष्कर्षौ[बिन्दुरभ्युच्चयः](# "रभ्युच्छ्रय")परः।  
+**स्यातां विस्तीर्णनिष्कर्षौबिन्दुरभ्युच्चयः[^138]परः।  
 हसितप्रेङ्खिताक्षिप्तसंधिप्रच्छादनास्तथा॥१४॥**
+
+[^138]: "रभ्युच्छ्रय"
 
 **उद्गीतोद्वाहितौतद्वत्त्रिवर्णो वेणिरित्यमी।  
 द्वादशारोहिवर्णस्थालंकाराः परिकीर्तिताः॥१५॥**
@@ -2736,8 +3012,10 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 **कुर्वन्क्रमाद्यदा ऽऽरोहेत्तदा बिन्दुरयं मतः।  
 स३रि ग३म प३धनि३।(३)**
 
-**[एकान्तरस्वरारोहमाहुरभ्युच्चय](# "रभ्युच्छ्रयम्")ंबुधाः॥१९॥  
+**एकान्तरस्वरारोहमाहुरभ्युच्चय[^139]ंबुधाः॥१९॥  
 सगपनि।(४)**
+
+[^139]: "रभ्युच्छ्रयम्"
 
 **यत्रैकोत्तरवृद्धाभिरावृत्तिभिरुदीरिताः।  
 आरुह्यन्ते स्वराः प्राह हसितं तं शिवप्रियः॥२०॥**
@@ -3038,7 +3316,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
 जातीनां शुद्धत्व विकृतत्व च रूपद्वयमस्ति, षड्जकैशिक्यादीनामेकादशजातीनां तु विकृतत्वमेव, न शुद्धत्वम्।’इति।जातिशब्दव्युत्पत्तिस्तु मतङ्गेनोक्ता—‘श्रुतिस्वरग्रामसमूहाज्जायन्त इति जातय, यद्वा ग्रहादिभ्यो जायन्त इति जातयः, अथ वा जायते रसप्रतीतिराभ्य इति जातयः, यद्वा सकलस्यरागादेर्जन्महेतुत्वाजातयः, अथ वा यथा नराणां ब्राह्मणत्वादयो जातयः शुद्धा विकृताश्च, एवमेता अपीति जातयः॥’इति॥-३॥
 
-  (क०) न्यासव्यतिरिक्तसंपूर्णत्वादिषु चतुर्षु लक्षणेष्वेकद्व्यादिपरित्यागेन संभूतान्भेदान्षाडज्यादिषु यथासभवं परिगणयति—**संपूर्णत्वेत्यादिना**। एकैकवर्जनादिति संपूर्णत्वादीना स्वरूपनिषेधो न क्रियते, जात्यनुत्पत्तिप्रसङ्गात्, अपि तु नियतस्वरपर्युदासात्स्वरान्तरविधिर्विज्ञायते। **भवन्ति भेदाश्चत्वार** इति। सपूर्णत्ववर्जने कृते ग्रहाशापन्यासयुक्त एक, ग्रहवर्जने सपूर्णत्वाशापन्यासवान्द्वितीय, अशवर्जने सपूर्णत्वग्रहापन्यासवास्तृतीय, अपन्यासवर्जने सपूर्णत्वग्रहाशयुक्तश्चतुर्थो भेद, इति चत्वारो भेदा।**द्वयोस्त्यागे तु षण्मता** इति। संपूर्णत्वग्रहाभ्या सपूर्णत्वाशाभ्या संपूर्णत्वापन्यासाभ्या ग्रहाशाभ्या ग्रहापन्यासाभ्यामशापन्यासाभ्या त्यक्ताभ्या षड्भेदा भवन्ति। **त्यागे त्रयाणां चत्वार** इति। सपूर्णत्वग्रहाशैः सपूर्णत्वग्रहापन्यासैः संपूर्णत्वाशापन्यासैर्ग्रहाशापन्यासैस्त्यक्तैश्चत्वारो भेदा। चतुष्टये त्यक्त एको भेद इत्येते पञ्चदशैव भेदा षाड्ज्या निरूपिताः॥ संपूर्णताहीनानामवान्तरभेदं वक्तु विभजते—**तत्राष्टाविति**। तत्र पञ्चदशसु मध्ये ऽष्टौ भेदा पूर्णताहीना सपूर्णत्वरहिता।सप्त त्वितरवर्जिता।संपूर्णत्वयुक्तत्वे सतीतरेषु ग्रहाशापन्यासेषु यथायोगमेकेन द्वाभ्यां त्रिभिर्वा वर्जिता द्विधा स्युः। पूर्णताहीना अष्टौ भेदा षाडवौडुवभेदतो द्विधा स्यु षोडश भवन्तीत्यर्थ। ननु पूर्णताहीनाना भेदानां चतु स्वरादिभिरपि भेदैः सह षड्विधत्वे संभवति कथं द्वैविध्यमिति चेत्, उच्यते—पूर्णताहीना इत्यनेन चतु स्वरादीना च प्रतीतौसत्यामपि नञिवयुक्तन्यायेन जातिरागसंपादकत्वात्संपूर्णत्वसदृशप्रतिपत्त्या षाडवौडुवयोरेवात्र ग्रहणमिति। चतु स्वरप्रयोगस्तु भरतेनापकृष्टध्रुवायामेवोक्त। त्रिस्वरादीना प्रयोगस्तु सामव्य[तिरिक्तर्गादौ](# "सामगाधर्क्षु")द्रष्टव्यः।षाड्ज्यपेक्षया ऽऽर्षभ्यादिषु षट्सु जातिषु भेदाधिक्य दर्शयति—**अतो ऽष्टाविति** । अतो ऽस्या पूर्णताहीनेषु षोडशस्वष्टाभिरेव षाडवभैदै पूर्णतायुक्तैरितरवर्जितैः सप्तभि सह पञ्चदशमेदवत्त्वेनोक्ताया षाड्ज्या इतरास्वार्षभ्यादिष्वौडुवजातिप्वौडुवावस्थया ऽपि युक्तास्वष्टावौडुवभेदा अधिका।अत कारणात्ता आर्षभ्यादय षड् जातयः प्रत्येकं त्रयोविंशतिधेरिता इति सप्तसु जातिषु विकृतभेदा मिलितास्त्रिपञ्चाशदुत्तरं शत भवन्ति॥४—७॥
+  (क०) न्यासव्यतिरिक्तसंपूर्णत्वादिषु चतुर्षु लक्षणेष्वेकद्व्यादिपरित्यागेन संभूतान्भेदान्षाडज्यादिषु यथासभवं परिगणयति—**संपूर्णत्वेत्यादिना**। एकैकवर्जनादिति संपूर्णत्वादीना स्वरूपनिषेधो न क्रियते, जात्यनुत्पत्तिप्रसङ्गात्, अपि तु नियतस्वरपर्युदासात्स्वरान्तरविधिर्विज्ञायते। **भवन्ति भेदाश्चत्वार** इति। सपूर्णत्ववर्जने कृते ग्रहाशापन्यासयुक्त एक, ग्रहवर्जने सपूर्णत्वाशापन्यासवान्द्वितीय, अशवर्जने सपूर्णत्वग्रहापन्यासवास्तृतीय, अपन्यासवर्जने सपूर्णत्वग्रहाशयुक्तश्चतुर्थो भेद, इति चत्वारो भेदा।**द्वयोस्त्यागे तु षण्मता** इति। संपूर्णत्वग्रहाभ्या सपूर्णत्वाशाभ्या संपूर्णत्वापन्यासाभ्या ग्रहाशाभ्या ग्रहापन्यासाभ्यामशापन्यासाभ्या त्यक्ताभ्या षड्भेदा भवन्ति। **त्यागे त्रयाणां चत्वार** इति। सपूर्णत्वग्रहाशैः सपूर्णत्वग्रहापन्यासैः संपूर्णत्वाशापन्यासैर्ग्रहाशापन्यासैस्त्यक्तैश्चत्वारो भेदा। चतुष्टये त्यक्त एको भेद इत्येते पञ्चदशैव भेदा षाड्ज्या निरूपिताः॥ संपूर्णताहीनानामवान्तरभेदं वक्तु विभजते—**तत्राष्टाविति**। तत्र पञ्चदशसु मध्ये ऽष्टौ भेदा पूर्णताहीना सपूर्णत्वरहिता।सप्त त्वितरवर्जिता।संपूर्णत्वयुक्तत्वे सतीतरेषु ग्रहाशापन्यासेषु यथायोगमेकेन द्वाभ्यां त्रिभिर्वा वर्जिता द्विधा स्युः। पूर्णताहीना अष्टौ भेदा षाडवौडुवभेदतो द्विधा स्यु षोडश भवन्तीत्यर्थ। ननु पूर्णताहीनाना भेदानां चतु स्वरादिभिरपि भेदैः सह षड्विधत्वे संभवति कथं द्वैविध्यमिति चेत्, उच्यते—पूर्णताहीना इत्यनेन चतु स्वरादीना च प्रतीतौसत्यामपि नञिवयुक्तन्यायेन जातिरागसंपादकत्वात्संपूर्णत्वसदृशप्रतिपत्त्या षाडवौडुवयोरेवात्र ग्रहणमिति। चतु स्वरप्रयोगस्तु भरतेनापकृष्टध्रुवायामेवोक्त। त्रिस्वरादीना प्रयोगस्तु सामव्यतिरिक्तर्गादौ[^140]द्रष्टव्यः।षाड्ज्यपेक्षया ऽऽर्षभ्यादिषु षट्सु जातिषु भेदाधिक्य दर्शयति—**अतो ऽष्टाविति** । अतो ऽस्या पूर्णताहीनेषु षोडशस्वष्टाभिरेव षाडवभैदै पूर्णतायुक्तैरितरवर्जितैः सप्तभि सह पञ्चदशमेदवत्त्वेनोक्ताया षाड्ज्या इतरास्वार्षभ्यादिष्वौडुवजातिप्वौडुवावस्थया ऽपि युक्तास्वष्टावौडुवभेदा अधिका।अत कारणात्ता आर्षभ्यादय षड् जातयः प्रत्येकं त्रयोविंशतिधेरिता इति सप्तसु जातिषु विकृतभेदा मिलितास्त्रिपञ्चाशदुत्तरं शत भवन्ति॥४—७॥
+
+[^140]: "सामगाधर्क्षु"
 
   (सु०) विकृतभेदान्गणयति—संपूर्णत्वेति। शुद्धजातीनां चत्वारि लक्षणानि—नामस्वरग्ग्रहत्व नामस्वराशत्व नामस्वरापन्यासत्व सपूर्णत्व चेति। तत्र संपूर्णत्वपरित्यागेनैको विकृतभेदः, ग्रहपरित्यागेनैकः, अशपरित्यागेनैकः,
 
@@ -3086,8 +3366,10 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 **मध्यमोदीच्यवेत्येता नित्यपूर्णाः प्रकीर्तिताः।  
 षाड्जी च नन्दयन्त्यान्ध्री गांधरोदीच्यवेत्यमूः॥१९॥**
 
-**संपूर्णषाडवाः प्राह चतस्रः काश्यपो [मुनिः](# "सोढलात्मज")।  
+**संपूर्णषाडवाः प्राह चतस्रः काश्यपो मुनिः[^141]।  
 दशावशिष्टा संपूर्णषाडवौडुविता मता ॥ २० ॥**
+
+[^141]: "सोढलात्मज"
 
 नैषादीमध्यमपञ्चमीभ्यो रक्तगांधारी। षाड्जीगांधारीमध्यमापञ्चमीनैषादीभ्यः कैशिकी॥८—१६॥
 
@@ -3102,8 +3384,10 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
   (क०) तत्र कासुचिज्जातिषु भरताद्युक्तं स्वरसाधारणप्रयोगे नियमं दर्शयति—**पञ्चमीत्या**दिना॥ अनेनैव वचनेन पञ्चमीमध्यमाषड्जमध्यमासु तिसृषु जातिषु यथायोगं षड्जमध्यमपञ्चमानामन्यतमस्याशत्वे स्वरान्तरस्याशत्वे चोभयत्र स्वरसाधारणे प्राप्ते, स्वरान्तराशत्वपक्षनिवृत्त्यर्थ स्वर-
 
-**अंशेषु [समपेष्वेतद्यथास्वनियमाद्भवेत्](# "यथास्व नियमाद्भवेत्")।  
+**अंशेषु समपेष्वेतद्यथास्वनियमाद्भवेत्[^142]।  
 एतदल्पनिगास्वाहुः कम्बलाश्वतरादयः॥२२॥**
+
+[^142]: "यथास्व नियमाद्भवेत्"
 
 **अल्पद्विश्रुतिके रागभाषाऽऽदावपि तन्मतम्।  
 निगयोरंशयोः षड्जमध्यमायां न तद्भवेत्॥२३॥**
@@ -3172,7 +3456,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
 ‘त्रिषष्टिरंशा विज्ञेयास्तासा चैवाशवद् ग्रहाः’इति।
 
-मतङ्गेनापि—‘सो ऽंशवत्त्रिषष्टिभेदभिन्नो बोद्धव्य’इति॥ **यो रक्ती**त्याद्यंशलक्षणम्। रक्तिव्यञ्जकत्वादिधर्मयुक्तो य स्वर स संगीतभागत्वादश इति व्यपदिश्यते गेये। रक्तिव्यञ्जक इत्येतावत्युच्यमाने स्वरगतरक्तिमात्रव्यञ्जकत्व स्वरान्तराणामप्यविशिष्टमितीह स्वरसदर्भभेदप्रतिनियतरक्तिविशेषव्यञ्जकत्वस्य विवक्षितत्वाद्गेय इति विशेषणं यथा वाक्यार्थभूतरसादिव्यञ्जकत्वं विवक्षितान्यपरवाच्ये ऽसंलक्ष्यक्रमध्वनौ स्वार्थमभिदधत पदस्य। यत्सवाद्यनुवादिनौ। यस्याशत्वेन [लिलक्षयिषितस्य](# "विवक्षितस्य")स्वरस्य। अस्मिल्लॅक्षणे प्रतिवाक्यं यच्छब्दो विधेयाशस्वरपरः।सवाद्यनुवादिनौ पूर्वोक्तलक्षणौ स्वरौ विदार्यांगीतखण्डे बहुलौ प्रचुरप्रयोगौ, यस्मात्तारमन्द्रव्यवस्थितिः, यमवधि कृत्वोत्तरस्वरारोहेण तारव्यवस्था ऽधस्तनस्वरावरोहेण मन्द्रव्यवस्था च भवति, य स्वय यस्य सवादी, यस्य वादिव्यपदेशवत स्वस्य स्वयमेव कदाचित्सवादी च भवति, अत्र चकार एवार्थ संवाद्येवेति, अनुवादी स्वरो ऽपर, यस्यानुवादी त्वपर एव स्वरो भवति, न कदाचिदपि स्वस्य स्वयमनुवादीत्यर्थ, यथा लोके राजा प्रयोजनवशात्क्कचिदमात्यकृत्यकारी भवति न कदाचिदपि भृत्यकृत्यकारी, तद्वत, यश्च न्यासापन्यासविन्याससंन्यासग्रहता गत सन्प्रयोगे बहुलो भवति, तस्य न्यासादिरूपापत्तिःप्रयोगबाहुल्ये हेतु, स वादी योग्यतावशादशः****स्यात्। योग्यता नामात्र यथायोगं रक्तिव्यञ्जकत्वाद्युक्तलक्षणार्हत्वम्। तथा ऽऽह भरतः—
+मतङ्गेनापि—‘सो ऽंशवत्त्रिषष्टिभेदभिन्नो बोद्धव्य’इति॥ **यो रक्ती**त्याद्यंशलक्षणम्। रक्तिव्यञ्जकत्वादिधर्मयुक्तो य स्वर स संगीतभागत्वादश इति व्यपदिश्यते गेये। रक्तिव्यञ्जक इत्येतावत्युच्यमाने स्वरगतरक्तिमात्रव्यञ्जकत्व स्वरान्तराणामप्यविशिष्टमितीह स्वरसदर्भभेदप्रतिनियतरक्तिविशेषव्यञ्जकत्वस्य विवक्षितत्वाद्गेय इति विशेषणं यथा वाक्यार्थभूतरसादिव्यञ्जकत्वं विवक्षितान्यपरवाच्ये ऽसंलक्ष्यक्रमध्वनौ स्वार्थमभिदधत पदस्य। यत्सवाद्यनुवादिनौ। यस्याशत्वेन लिलक्षयिषितस्य[^143]स्वरस्य। अस्मिल्लॅक्षणे प्रतिवाक्यं यच्छब्दो विधेयाशस्वरपरः।सवाद्यनुवादिनौ पूर्वोक्तलक्षणौ स्वरौ विदार्यांगीतखण्डे बहुलौ प्रचुरप्रयोगौ, यस्मात्तारमन्द्रव्यवस्थितिः, यमवधि कृत्वोत्तरस्वरारोहेण तारव्यवस्था ऽधस्तनस्वरावरोहेण मन्द्रव्यवस्था च भवति, य स्वय यस्य सवादी, यस्य वादिव्यपदेशवत स्वस्य स्वयमेव कदाचित्सवादी च भवति, अत्र चकार एवार्थ संवाद्येवेति, अनुवादी स्वरो ऽपर, यस्यानुवादी त्वपर एव स्वरो भवति, न कदाचिदपि स्वस्य स्वयमनुवादीत्यर्थ, यथा लोके राजा प्रयोजनवशात्क्कचिदमात्यकृत्यकारी भवति न कदाचिदपि भृत्यकृत्यकारी, तद्वत, यश्च न्यासापन्यासविन्याससंन्यासग्रहता गत सन्प्रयोगे बहुलो भवति, तस्य न्यासादिरूपापत्तिःप्रयोगबाहुल्ये हेतु, स वादी योग्यतावशादशः****स्यात्। योग्यता नामात्र यथायोगं रक्तिव्यञ्जकत्वाद्युक्तलक्षणार्हत्वम्। तथा ऽऽह भरतः—
+
+[^143]: "विवक्षितस्य"
 
 ‘रागश्च यस्मिन्वसति यस्माच्चैव प्रवर्तते।  
 नेता च तारमन्द्राणा यो ऽत्यर्थमुपलभ्यते॥
@@ -3367,9 +3653,13 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 प्रासादिकी तृतीया च चतुर्थी चान्तरा ध्रुवा।  
 नैष्क्रामिकी तु विज्ञेया पञ्चमी तु ध्रुवा बुधैः॥’
 
-**विनियोगो द्वादशात्र कला [अष्टलघुः](# "अष्टगुरुः")कला।**
+**विनियोगो द्वादशात्र कला अष्टलघुः[^144]कला।**
 
-इति प्रवेशाद्यर्थसूचनादेतासामन्वर्थता ज्ञेया। अपकृष्टे ताडिताऽऽदयो गुरुलघ्वक्षरोभयप्रायास्त्रिविधा अपि ध्रुवाजातय प्रावेशिक्यादीनामेवावान्तरभिदा । एतासां सतालत्वमेव पदमधिकृत्योक्तम् ‘सताल च ध्रुवाऽर्थेषु निबद्धम्’इति। तत्रैव स्मृतम् ‘अनिबद्धाक्षराणि [स्युस्तेनेनप्रभृतीनि च](# " स्युर्यान्यजातिकृतानि तु")’इति। ‘तत्राङ्कान्ते निष्क्रमणे भवेत्त्र्यश्रावसानिकी’। अस्याःप्रस्तु- तार्थनियोगः—
+[^144]: "अष्टगुरुः"
+
+इति प्रवेशाद्यर्थसूचनादेतासामन्वर्थता ज्ञेया। अपकृष्टे ताडिताऽऽदयो गुरुलघ्वक्षरोभयप्रायास्त्रिविधा अपि ध्रुवाजातय प्रावेशिक्यादीनामेवावान्तरभिदा । एतासां सतालत्वमेव पदमधिकृत्योक्तम् ‘सताल च ध्रुवाऽर्थेषु निबद्धम्’इति। तत्रैव स्मृतम् ‘अनिबद्धाक्षराणि स्युस्तेनेनप्रभृतीनि च[^145]’इति। ‘तत्राङ्कान्ते निष्क्रमणे भवेत्त्र्यश्रावसानिकी’। अस्याःप्रस्तु- तार्थनियोगः—
+
+[^145]: " स्युर्यान्यजातिकृतानि तु"
 
 ‘निष्क्रामोपगतगुणा विद्यान्नैष्क्रामिकींता तु।’  
 ‘अथोत्तमाना कर्तव्या चतुरश्रावसानिकी।  
@@ -3789,9 +4079,11 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
   (क०) **रिपावंशाविति** । सगमा स्वल्पका मता इत्यत्र समयोरषाडवौडुवकारित्वेनाप्राप्तावल्पत्ववचनं विधिरिति, गस्य षाडवौडुवकारित्वेन प्राप्तौ पुनर्वचनं परिसख्येति च ‘पञ्चम्या तु विपर्यय·’इत्यादिग्रन्थव्याख्यानसमये पूर्वंप्रतिपादितम्। संपूर्णत्वदशाया गान्निषादक गच्छेदिति, गन्यो.संगति कुर्यादित्यर्थः। एतेन षाडवत्वे गस्यौडुवत्वे निगयोश्च लोप्यत्वात्तत्र तयो.संगति न कुर्यादिति गम्यते। गेन निगाभ्या चेत्यत्र लुप्तेन
 
-**क्रमाद्गेन निगाभ्यां च षाडवौडुवता [मता](# "षाडवौडविते मते")।  
+**क्रमाद्गेन निगाभ्यां च षाडवौडुवता मता[^146]।  
 ऋषभो ऽंशस्त्वौडुवितं द्वेष्ट्यष्टौ च कला मताः॥७४॥  
 मूर्च्छनाऽऽदि तु पूर्वावत्प्रेक्षणं तु तृतीयकम् ।**
+
+[^146]: "षाडवौडविते मते"
 
   अस्यां पञ्चम्यां पञ्चमो न्यासः । ऋषभपञ्चमनिषादा अपन्यासाः। चोक्षपञ्चमदेश्यान्धाल्यो दृश्यन्ते । अस्याः प्रस्तारः–  
 ५ पञ्चमी  
@@ -4236,7 +4528,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 | **१६.** | **गा** | **गा** | **गा** | **गा** | **गा** | **गा** | **गा** | **गा** |
 |        | **ल**  |       |       |       |       |       |       |       |
 
-  (क०) **गांधारोन्यास** इति। ‘गांधारश्च भवेन्न्यासः’इति मुनिवचनात्‌। तेन ‘न्यासवर्ज्यैतल्लक्षणहीनाः’इत्यत्र न्यासवर्ज्येत्यस्य विकृतजातिलक्षणाशस्य[संसर्गेजविकृ](# "संसर्गवर्ज्यविकृ")ताविषयत्वमुक्तं भवति। षाड्जग्रामिकशुद्धस्वरमेलने प्रथमकलाया मध्ये सौद्वौ; मन्द्रे मपौ द्वौ, मध्ये गरी एकः; मगावेकः, मौद्वौ, एवमष्टौ लघवः। दे इति प्रथमःसः, तच्छेषा इतरे (१)। द्वितीयस्या मध्ये माश्चत्वारः, मन्द्रे साश्चत्वारः, एवमष्टौ लघवः।वमिति मः, तच्छेषा इतरे (२)। तृतीयस्या मध्ये धौद्वौ, पौद्वौ, धौद्वौ, रिरेकः, रिमावेकः; एवमष्टौ लघवः।असकलशशितिलेत्यक्षराणि, अन्त्यः शेषः (३)। चतुर्थ्यां मध्ये री द्वौ; मन्द्रे निषादा षट्‌, एवमष्टौ लघवः। कमिति रिः; तच्छेषा इतरे (४)। पञ्चम्या मध्ये धौद्वौ, पएक, धनी एक, मौद्वौ, पौद्वौ, एवमष्टौ लघवः। द्विरदगतिमित्यक्षराणि—द्विरदगैर्धधपधाः, तच्छेषो निः; तिमिति मः; तच्छेषा परे (५)। षष्ठ्या मध्ये धौद्वौ, प एकः, धनी एकः, धौ द्वौ , पौद्वौ, एवमष्टौ लघवः। निपुणमतिमित्यक्षराणि—निपुणमैर्धधपधाः, तच्छेषो निः, तिमिति ध, तच्छेषा परे (६)।सप्तम्या मध्ये षड्जा अष्टौ लघवः। मुग्धमुखाम्ब्वि- त्यक्षराणि—मुना सः, तच्छेषःसः; ग्धेन सः, तच्छेषः स; मुखाभ्या सौ, तच्छेषः स, बुना सः (७)। अष्टम्यां मध्ये धधपधाश्चत्वारः, धनी एक, धास्त्रयः, एवमष्टौ लघवः। रुहदिव्यकान्तिमित्यक्षराणि, चतुर्थषष्ठोपन्त्याः शेषा (८)।नवम्या मध्ये सास्त्रयः, रिगवेकः, स एकः, रिागवेकः, धौ द्वौ, एवमष्टौ लघवः। हरमम्बुदोदेत्यक्षराणि—हरमं इति साः, तच्छेषौ रिगौ, बुदोभ्या सरी, तच्छेषौगधौ, देन ध (९)। दशम्या मध्ये मधौ द्वौ, पौद्वौ, धौद्वौ, नी द्वौ, एवमष्टौ लघव। धिनिनादमित्यक्षराणि—धिनिनाभिर्मधपाः, तच्छेष पः, दमिति धः, तच्छेषा परे(१०)। एकादश्यामध्ये रिरिगसाश्चत्वार, मन्द्रे सास्त्रयः, ग एक, एवमष्टौ लघव। अचलवरसून्वित्यक्षराणि, सप्तम शेष (११)। द्वादश्या मन्द्रेध एकः, रिसावेक, रिरेकः, सरी एकः, रिरेकः, सास्त्रयः, एवमष्टौ लघवः। देहार्धमिश्रीत्यक्षराणि—दे इति धः, तच्छेषौ रिसौ, हा इति रिः, तच्छेषौसरी, र्धमिभ्या रिसौ, तच्छेष सः,श्रिणा सः (१२)। त्रयोदश्या मध्ये स एकः, सरी एक, रिरेक, सरी एकः, रिरेकः, मास्त्रय, एवमष्टौ लघवः। तशरीरमित्यक्षराणि—तशाभ्या सौ, तच्छेषोरि, री इति रिः, तच्छेषोसरी, रमिति रिः, तच्छेषा साः (१३)। चतुर्दश्या मध्ये माश्चत्वारः, निधावेकः, पधावेकः, मौद्वौ; एवमष्टौ लघवः।प्रणमामि तमहमित्यक्षराणि, चतुर्थषष्ठदशमाःशेषाः (१४)।पञ्चदश्यांमध्ये निनिपास्त्रयः; पमावेकः, प एकः, पमावेक; पधावेकः, रिगावेक, एवमष्टौ लघवः। अनुपमसुखकमेत्यक्षराणि, पञ्चमाष्टमदशमद्वादशा शेषाः (१५) षोडश्यां मध्ये गांधारा अष्टौलघवः। लमिति गः, तच्छेषा इतरे (१६)।
+  (क०) **गांधारोन्यास** इति। ‘गांधारश्च भवेन्न्यासः’इति मुनिवचनात्‌। तेन ‘न्यासवर्ज्यैतल्लक्षणहीनाः’इत्यत्र न्यासवर्ज्येत्यस्य विकृतजातिलक्षणाशस्यसंसर्गेजविकृ[^147]ताविषयत्वमुक्तं भवति। षाड्जग्रामिकशुद्धस्वरमेलने प्रथमकलाया मध्ये सौद्वौ; मन्द्रे मपौ द्वौ, मध्ये गरी एकः; मगावेकः, मौद्वौ, एवमष्टौ लघवः। दे इति प्रथमःसः, तच्छेषा इतरे (१)। द्वितीयस्या मध्ये माश्चत्वारः, मन्द्रे साश्चत्वारः, एवमष्टौ लघवः।वमिति मः, तच्छेषा इतरे (२)। तृतीयस्या मध्ये धौद्वौ, पौद्वौ, धौद्वौ, रिरेकः, रिमावेकः; एवमष्टौ लघवः।असकलशशितिलेत्यक्षराणि, अन्त्यः शेषः (३)। चतुर्थ्यां मध्ये री द्वौ; मन्द्रे निषादा षट्‌, एवमष्टौ लघवः। कमिति रिः; तच्छेषा इतरे (४)। पञ्चम्या मध्ये धौद्वौ, पएक, धनी एक, मौद्वौ, पौद्वौ, एवमष्टौ लघवः। द्विरदगतिमित्यक्षराणि—द्विरदगैर्धधपधाः, तच्छेषो निः; तिमिति मः; तच्छेषा परे (५)। षष्ठ्या मध्ये धौद्वौ, प एकः, धनी एकः, धौ द्वौ , पौद्वौ, एवमष्टौ लघवः। निपुणमतिमित्यक्षराणि—निपुणमैर्धधपधाः, तच्छेषो निः, तिमिति ध, तच्छेषा परे (६)।सप्तम्या मध्ये षड्जा अष्टौ लघवः। मुग्धमुखाम्ब्वि- त्यक्षराणि—मुना सः, तच्छेषःसः; ग्धेन सः, तच्छेषः स; मुखाभ्या सौ, तच्छेषः स, बुना सः (७)। अष्टम्यां मध्ये धधपधाश्चत्वारः, धनी एक, धास्त्रयः, एवमष्टौ लघवः। रुहदिव्यकान्तिमित्यक्षराणि, चतुर्थषष्ठोपन्त्याः शेषा (८)।नवम्या मध्ये सास्त्रयः, रिगवेकः, स एकः, रिागवेकः, धौ द्वौ, एवमष्टौ लघवः। हरमम्बुदोदेत्यक्षराणि—हरमं इति साः, तच्छेषौ रिगौ, बुदोभ्या सरी, तच्छेषौगधौ, देन ध (९)। दशम्या मध्ये मधौ द्वौ, पौद्वौ, धौद्वौ, नी द्वौ, एवमष्टौ लघव। धिनिनादमित्यक्षराणि—धिनिनाभिर्मधपाः, तच्छेष पः, दमिति धः, तच्छेषा परे(१०)। एकादश्यामध्ये रिरिगसाश्चत्वार, मन्द्रे सास्त्रयः, ग एक, एवमष्टौ लघव। अचलवरसून्वित्यक्षराणि, सप्तम शेष (११)। द्वादश्या मन्द्रेध एकः, रिसावेक, रिरेकः, सरी एकः, रिरेकः, सास्त्रयः, एवमष्टौ लघवः। देहार्धमिश्रीत्यक्षराणि—दे इति धः, तच्छेषौ रिसौ, हा इति रिः, तच्छेषौसरी, र्धमिभ्या रिसौ, तच्छेष सः,श्रिणा सः (१२)। त्रयोदश्या मध्ये स एकः, सरी एक, रिरेक, सरी एकः, रिरेकः, मास्त्रय, एवमष्टौ लघवः। तशरीरमित्यक्षराणि—तशाभ्या सौ, तच्छेषोरि, री इति रिः, तच्छेषोसरी, रमिति रिः, तच्छेषा साः (१३)। चतुर्दश्या मध्ये माश्चत्वारः, निधावेकः, पधावेकः, मौद्वौ; एवमष्टौ लघवः।प्रणमामि तमहमित्यक्षराणि, चतुर्थषष्ठदशमाःशेषाः (१४)।पञ्चदश्यांमध्ये निनिपास्त्रयः; पमावेकः, प एकः, पमावेक; पधावेकः, रिगावेक, एवमष्टौ लघवः। अनुपमसुखकमेत्यक्षराणि, पञ्चमाष्टमदशमद्वादशा शेषाः (१५) षोडश्यां मध्ये गांधारा अष्टौलघवः। लमिति गः, तच्छेषा इतरे (१६)।
+
+[^147]: "संसर्गवर्ज्यविकृ"
 
 **देवमसकलशशितिलकं द्विरदगति  
 निपुणमति मुग्धमुखाम्बुरुहदिव्यकान्तिम्‌।  
@@ -4553,7 +4847,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 **अंशाः स्यू रक्तगांधार्योपञ्चधर्षभवर्जिताः॥९१॥**
 
 **रिमतिक्रम्य सगयोः कार्ये संनिधिमेलने।  
-रिलोपरिधलोपाभ्यां [षाडवौडुवमिष्यते](# "षाडवौडुविते मते")॥९२॥**
+रिलोपरिधलोपाभ्यां षाडवौडुवमिष्यते[^148]॥९२॥**
+
+[^148]: "षाडवौडुविते मते"
 
 **बहुत्वं निधयोरंशः पञ्चमो द्वेष्टि षाडवम्‌।  
 द्विषन्त्यौडुवितं षड्जनिमपाः संगतौसगौ॥९३॥**
@@ -5650,10 +5946,12 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
    (क०) एवं तर्हि षाड्ज्यादिलक्षणेषूक्ता कलासख्या तत्रोक्तेषु तालमार्गगीतिभेदेषु कतमभेदेत्याकाङ्क्षायामाह– **योक्ता ऽस्माभिरि**ति। अस्माभिर्भरतमतानुसारिभिरस्मदादिभिरित्यर्थ। या कलासंख्या पञ्चपाणौ द्वादश, चच्चत्पुटे कासुचिदष्टौ, कासुचित्षोडश, एकस्या द्वात्रिशदित्यवंरूपोक्ता, षाड्ज्यादिलक्षणेष्विति शेष , सा कलासंख्या दक्षिणपथे दक्षिणमार्गे स्थितेति ज्ञेया। एतेनानया मार्गविशेषाश्रयतया कलासंख्याया अत्र चतुष्कलस्तालः पृथुला गीतिश्चेति तालगीतिविशेषावप्युक्तौ भवतः। प्रत्येकं त्रिविधस्य तालादित्रितयस्य गीतिलक्षणेषु मिथो यथासंख्यं योजनादिहोक्ता कलासंज्ञां दक्षिणमार्गगतामुक्त्वा तस्या एव गातुरिच्छया मार्गान्तरप्रयोगप्रकारं दर्शयति—**वार्त्तिक** इत्यादिना। सैव मार्गोक्ता कलासंख्यैव वार्त्तिके मार्गे द्विगुणा ज्ञेया। षाड्ज्या तावद्दक्षिणे द्वादशोक्ता वार्त्तिके चतुर्विशतिर्भवतीत्यर्थ। अष्टलघ्वात्मिका कला हित्वा चतुर्लघ्वात्मिका. कला. कर्तव्या इत्यभिप्राय.। सैवेति पुनरावृत्तिः। सा
 
 **दृश्यन्ते जन्यरागांशास्तज्ज्ञैर्जनकजातिषु।  
-ब्रह्मप्रोक्तपदैः [सम्यक्प्रागुक्ता](# "प्रयुक्ता")शंकरस्तुतौ॥११३॥  
+ब्रह्मप्रोक्तपदैः सम्यक्प्रागुक्ता[^149]शंकरस्तुतौ॥११३॥  
 अपि ब्रह्महणं पापाज्जातयः प्रपुनन्त्यमू.I  
 ऋचो यजूंषि सामानि क्रियन्ते नान्यथा यथा॥११४॥  
 तथा सामसमुद्भूता जातयो वेदसंमिताः।**
+
+[^149]: "प्रयुक्ता"
 
 दक्षिणोक्ता कलासंख्यैव चित्रे मार्गे चतुर्गुणा ज्ञेया। षाड्ज्य तावदष्टाचत्वारिंशत्कला भवन्तीत्यर्थ। भड्क्त्वा लघुद्वयात्मिका कलाः कर्तव्या इत्यभिप्राय। एतेनैव वार्त्तिके द्विकलस्ताल सभाविता गीति., चित्रे त्वेककलस्तालो मागधी गीतिरिति चोक्त भवति। एव जात्यन्तरेष्वप्यूहनीयम्। लक्षणेषु प्रत्येकं रसानामुक्तिगौरवमिति मत्वा सर्वासामपि लघूक्त्या रसयोगं दर्शयति—**सर्वजातिष्वि**ति। अशस्वरगतं यस्या जातौ यदा यो ऽंशो भवति तस्याम् ‘सरी बीरे' इत्यादिनोक्तप्रकारेण तत्तदंशस्वरगतं रसं विजानीयात्। ज्ञात्वा तत्तद्रसाभिव्यञ्जकै. पदैर्गायेदित्यर्थ·॥- १११, ११२॥
 
@@ -5678,13 +5976,17 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 **षड्जो ग्रहो ऽंशो ऽपन्यासो गो न्यासो ऽतिबहू गमौ।  
 अल्पा रिपनिधा लङ्घ्यो रि· कला द्वादशोदिताः॥२॥**
 
-**यस्मिन्षाड्जीकपालं तद्गदितं [गीतवेदिभिः](# "मार्गवेदिभिः")।  
+**यस्मिन्षाड्जीकपालं तद्गदितं गीतवेदिभिः[^150]।  
 यत्रर्षभो ऽंशो ऽपन्यासो मो ऽन्तो गनिपधाल्पता॥३॥**
+
+[^150]: "मार्गवेदिभिः"
 
   (क०) अथोद्देशक्रमेण कपालानि लक्षयितुमादौ तदुत्पत्तिं दर्शयन्प्रतिजानीते—**शुद्धजाती**ति। अधुना जातिस्वरूपनिरूपणानन्तरं शुद्धजातिसमुद्भूतकपालानि, शुद्धजातिभ्य षाड्ज्यादिभ्यःसप्तभ्य· समुद्भूतानि कपालानि। एतेन संसर्गजजातिभ्य कपालोत्पत्तिर्नेत्युक्तं भवति। ननु जातित्वाविशेषात्ताभ्यो ऽपि कपालोत्पत्ति कुतो नेति चेत्,उच्यते। संसर्गजा अपि शुद्धाभ्यः समुत्पन्ना। कपालान्यपि ताभ्य एव। उभयेषामप्येककार- णादव्यवधानोत्पन्नत्वस्याविशिष्टत्वात्ससर्गजाना कपालजातीयं पति कारणत्वायोगादिति कपालपरिज्ञानस्य दृष्टप्रयोजनं तावद्दर्शयति—**रागा** इति। जनकजातीनाम्, अत्र शुद्धजातयो जनकत्वेन विवक्षिता, तासा रागा जन्या रागा, 'षड्जे षाड्जीसमुद्भूतं श्रीरागम्' इत्यादिना वक्ष्यमाणप्रकारेण श्रीरागादयो रागा, तत्कपालेषु तासां षाड्ज्यादीना कपालेषु समिता सदृशाकारा प्रतीयन्ते। रागस्वरूपपरिज्ञानमत्र प्रयोजनमित्यर्थ। यथा घटैकदेशत्वेन कपालानि घटप्रतीतिजनकान्येवमेतान्यपि रागैकदेशत्वेन रागप्रतीतिजननात्कपालानीव कपालानीति नेषा संज्ञा ऽव-
 
 **सो ऽत्यल्पो ऽष्टकलं तत्स्यात्कपालं त्वार्षभीगतम्।  
-[मध्यमो](# "गाधारो")ऽंशो ग्रहो न्यासो ऽपन्यासो धैवतो बहुः॥४॥**
+मध्यमो[^151]ऽंशो ग्रहो न्यासो ऽपन्यासो धैवतो बहुः॥४॥**
+
+[^151]: "गाधारो"
 
 **यत्राल्पाः सरिगा लोपाद्रिपयोरौडुवं भवेत्।  
 तद्गांधारीकपालं स्यात्कलाऽष्टकविनिर्मितम्॥५॥**
@@ -5786,8 +6088,10 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
 **चे**त्यादिना। ता क्रमेण लक्षयितुमाह—**एतासामि**ति। मागधीं लक्षयति—**गीत्वेत्या**दिना। उदाहरणार्थ तावच्चतुर्मात्रिकाःकलाः कल्पनीया। तत्राद्याया विलम्बितलयं विवक्षितकलाचतुर्गुणितविश्रान्तिकालं पदम्। अत्र देवमित्यक्षरद्वयात्मकं पद गीत्वैकैकाक्षरे मात्राद्वयमित गीत्वा द्वितीयस्या कलाया मध्यलयं द्विगुणविश्रान्तिकालं पदान्तरसंयुतं रुद्रमिति पदान्तरेण युक्त तत्प्रथमकलागीत देवमिति पदं गीत्वेत्यनुषञ्जनीयम्। गीत्वा देवं रुद्रमिति पदद्वय द्विस्वरात्मिकयैकस्वरात्मिकया वा मितैकैकाक्षरं गायेदित्यर्थ। तृतीयस्या कलाया द्रुते लये विलम्बितमध्यापेक्षया शीघ्रतमाया क्रियाविश्रान्तौ सतृतीयपदे वन्द इति तृतीयपदसहिते ते च द्वितीयकलागीते देवं रुद्रमिति पदे। चकारादत्रापि गायेदित्यनुषङ्ग। अस्या कलाया प्रथममात्रया देवमिति द्वितीयया रुद्रमिति तृतीयया वमिति चतुर्थ्या दे इति योजयित्वा गायेदित्यर्थः। इत्युक्तप्रकारेण त्रिरावृत्तपदां कलात्रये देवमिति पदस्य त्रिरावृत्तत्वात्त्रिरावृत्तपदाम्, गीतिमित्यध्याहर्तव्यम्, बुधासगीतशास्त्रज्ञा मागधींजगदुः। अत्र लिखितोदाहरणादन्यत्राप्येवमेवोहनीयम्। अस्या मगधदेशोद्भवत्वान्मागधीति निरुक्तिर्मतङ्गोक्ता॥-१४ - १७॥
 
-**पूर्वयोः पदयोरर्धेचरमे [द्विर्यदोदिते](# "पूर्वयो पदयोरर्ध चरम द्विर्यदोच्यते")॥१८॥  
+**पूर्वयोः पदयोरर्धेचरमे द्विर्यदोदिते[^152]॥१८॥  
 तदा ऽर्धमागधीं प्राहुः**
+
+[^152]: "पूर्वयो पदयोरर्ध चरम द्विर्यदोच्यते"
 
 यथा—
 
@@ -5817,7 +6121,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 | द्रं | वं  | दे  |    |
 
 
-**द्विरावृत्तपदां [परे](# "द्विरावृत्तपदान्तरे")।**
+**द्विरावृत्तपदां परे[^153]।**
+
+[^153]: "द्विरावृत्तपदान्तरे"
 
 यथा—
 
@@ -7034,3 +7340,156 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

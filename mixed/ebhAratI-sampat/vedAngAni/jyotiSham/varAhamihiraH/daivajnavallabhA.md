@@ -12,7 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU3NDY1MTY1MzU
 +++
 [[दैवज्ञवल्लभा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDU3NDY1MTY1MzUwMTc0&pageno=MjI0MjQyNjk5NTk=)]]
 
-\[
+\
 
 
 
@@ -141,7 +141,9 @@ sage again who authored the Prasna Vallabha in the horary astrology. Those havin
 
 पृष्टो यद्यत्कथयति शुभाशुभं तत्तदन्यथा नोक्तम् ॥२॥
 
-The astrologer, who proclaims good and bad results after a deep consideration of the ten Avasthas (States) of planets and the results arising from the different houses, never goes [wrong](# "cf-(i) Prasna Jnana, Sl. 2  (ii) Prasna Tantra I, Sls. 16-17").
+The astrologer, who proclaims good and bad results after a deep consideration of the ten Avasthas (States) of planets and the results arising from the different houses, never goes [wrong[^1] Prasna Jnana, Sl. 2  (ii) Prasna Tantra I, Sls. 16-17").
+
+[^1]: "cf-(i
 
 NOTES: The Acharya will discuss the effects of planetary states at length in future chapters himself. The results of the houses have to be judged with reference to (1) the house itself; (2) the lord of the house; and (3) the significator of the house.
 
@@ -291,9 +293,11 @@ As regards the number of questions to be asked at one particular time the genera
 
 तदिह दैवविदाज्यभिधेयम् ॥११॥
 
-The astrologer should understand the good and bad results by considering carefully the syllables of the query as also the omens obtaining around and then proclaim the prediction for that [time.](# "Prasna Jnana, Sls. 3-4")
+The astrologer should understand the good and bad results by considering carefully the syllables of the query as also the omens obtaining around and then proclaim the prediction for that time.[^2]
 
 फल भरकुसुमाभिरामभूमीरुहभुवि गोमयपुष्पतोयवत्याम् ।  
+
+[^2]: "Prasna Jnana, Sls. 3-4"
 
 चरणासुखकृति पृच्छतां स्यादभिमतसिद्धिरसंशयेन पुंसाम् ॥ १२ ॥
 
@@ -2573,7 +2577,13 @@ Sun is to be assumed in T-hora. Then the horas of Pisces will be U and A. The fi
 सैन्यभ्रंशमधोमुखी प्रकुरुते कृच्छ्राद्गृहे चागमं  
 सर्वाः पुष्टफलप्रदाः स्वपतिना दृष्टा पापग्रहैः॥३१॥
 
-\[The results of Yatra Lagna falling in different kinds of hora are told now\]. If the lagna falls in [U-hora](# "U-hora=Urdhvamukhi hora."), objects are achieved with ease without any difficulty. [T-hora](# "T=Tiryangmukhi hora. These abbreviations are adopted to avoid continuousrepetition.") there produces difficulties, efforts and losses. [A-hora](# "A= Adhomukhi hora") causes defeat and destruction of the army and makes return to home difficult. All the horas produce good results if they are aspected by their lords and are not aspected by malefic planets.
+\[The results of Yatra Lagna falling in different kinds of hora are told now\]. If the lagna falls in U-hora[^3], objects are achieved with ease without any difficulty. T-hora[^4] there produces difficulties, efforts and losses. A-hora[^5] causes defeat and destruction of the army and makes return to home difficult. All the horas produce good results if they are aspected by their lords and are not aspected by malefic planets.
+
+[^3]: "U-hora=Urdhvamukhi hora."
+
+[^4]: "T=Tiryangmukhi hora. These abbreviations are adopted to avoid continuousrepetition."
+
+[^5]: "A= Adhomukhi hora"
 
 आरुद्रमीशारविभौमजीव  
 विद्भार्गवैनीन्दव इत्यतोऽगुः ।  
@@ -2721,3 +2731,8 @@ Plese attach the picture here
 
 
 \]
+
+
+
+
+

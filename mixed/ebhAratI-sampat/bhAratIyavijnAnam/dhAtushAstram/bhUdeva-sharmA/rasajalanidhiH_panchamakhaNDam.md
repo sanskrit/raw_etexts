@@ -191,7 +191,9 @@ The 10th February, 1938
 
 ##  **A BRIEF HISTORY OF INDIAN CHEMISTRY AND MEDICINE..**
 
-  Mr. H. E. Stapleton M. A., B. Sc. ( Oxon), retired Director of Public Instruction, Bengal, had been taking mach interest in ancient chemistry. His illuminating paper on the "chemistry in Iraq and Persia in the tenth century A.D." (vide Memoirs of Asiatic Society of Bengal, Vol. VIII. No. 6) which he wrote in collaboration with the late R. F. Azo and Shamsul-ulama H. Hidayat Hossain, has been devoted to a critical study of the works of the celebrated Persian chemist and physician, Ar-Razi, who died late in the first quarter of the tenth century. In making a very able and careful survey of the work of Ar-Razi, Mr. Stapleton has been forced to conclude from a comparison of the facts that have been brought to light in his paper with those given in the History of Hindu chemistry by Sir P. C. Roy "that the earlier and possibly autochthonous system of Indian alchemy based almost entirely on the use of vegetable juices was superseded sometime between 500 and 1000 A.D. by a system of external origin which was primarily based on the use of mercury," and that most of the knowledge regarding metallic and inorganic chemistry found in Indian treatises on alchemy actually originated from outside [India](# "• Reprinted from the author s ").
+  Mr. H. E. Stapleton M. A., B. Sc. ( Oxon), retired Director of Public Instruction, Bengal, had been taking mach interest in ancient chemistry. His illuminating paper on the "chemistry in Iraq and Persia in the tenth century A.D." (vide Memoirs of Asiatic Society of Bengal, Vol. VIII. No. 6) which he wrote in collaboration with the late R. F. Azo and Shamsul-ulama H. Hidayat Hossain, has been devoted to a critical study of the works of the celebrated Persian chemist and physician, Ar-Razi, who died late in the first quarter of the tenth century. In making a very able and careful survey of the work of Ar-Razi, Mr. Stapleton has been forced to conclude from a comparison of the facts that have been brought to light in his paper with those given in the History of Hindu chemistry by Sir P. C. Roy "that the earlier and possibly autochthonous system of Indian alchemy based almost entirely on the use of vegetable juices was superseded sometime between 500 and 1000 A.D. by a system of external origin which was primarily based on the use of mercury," and that most of the knowledge regarding metallic and inorganic chemistry found in Indian treatises on alchemy actually originated from outside India[^1].
+
+[^1]: "• Reprinted from the author s "
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
@@ -238,7 +240,9 @@ Mr. Stapleton would have me to prove that there was inIndia a metallic Chemistry
 
   This leads us to an enquiry into the age of the. Maha'bha'rata, which was undoubtedly composed long after the Sushruta Sanhita' had been composed and widely known. There is a well-known passage in the Maha'bha'rata, which furnishes some clue to the probable date of the composition or recasting the great epic.
 
-  THE AGE OF THE MAHA'BHA'RAT [WAR](# "Reproduced verbatim from the booklet, entitled the Age of the Maha- bharat War, by Mr. N. Jagannadha Rao, Vakil of Narasaraopet,")..
+  THE AGE OF THE MAHA'BHA'RAT WAR[^2]..
+
+[^2]: "Reproduced verbatim from the booklet, entitled the Age of the Maha- bharat War, by Mr. N. Jagannadha Rao, Vakil of Narasaraopet,"
 
 The Maha'bha'rata definitely says that the War began with Bhishma as the commander-in-chief of the Kauravas and Dhrishtadyumma, the King of Pancha'la as the commander-in- chief of the Pa'ndavas. Bhishma, the field martial or comman der-in-chief of the Kauravas received a mortal wound on the evening of the tenth day of the battle, and retired from the battle field. He was placed on a bed of arrows in which condition he lived for 58 nights afterwards, waiting, for the arrival of Uttara'yana or Winter Solstice to cast off bis mortal body.  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -716,7 +720,9 @@ Baraha- mihira (1st century B. C.) was indebted to Nityanatha,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- Nityanatha has given the source of his information in this way: "whatever has been stated by Shambhu in [Rasarnava](# "Dr. Roy s translation of this line has not been happy. It runs as follows:-").......said by Nagarjuna...." have been consulted by me.
+ Nityanatha has given the source of his information in this way: "whatever has been stated by Shambhu in Rasarnava[^3].......said by Nagarjuna...." have been consulted by me.
+
+[^3]: "Dr. Roy s translation of this line has not been happy. It runs as follows:-"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 who was indebted to Nagarjuna (4th Cen- tury B.C.) and to Shambhu,
@@ -1042,7 +1048,9 @@ Ar-Razi was acquainted with Charaka and Sushruta. It will appear from the follow
 
 ##   **(11) The religious beliefs of the Sabians (Harronians or Chaldeans).**
 
- Mr. Stapleton says that the ideas of Ar-Razi were to a certain extent influenced by the religious beliefs of the Sabians, who believed that God was both one and many in the different phenomena (i. e., the planets and stars). This is exactly the views of the Hindus even to the present day. The stars are worshipped in India from time out of memory, not for the belief that they are shapers of human destiny, but for the belief that the great God (ग्रहरुपः सदाशिव) has manifested Himself in them. They are not shapers but only indicators of human destiny (प्रहास्तु फलसूचकाः फलस्य दायका नहि । ) The pictures on the walls of a Chaldrean temple of Saturn, viz., that of a black Indian old man holding an axe in the hand, etc., are exactly in keeping with the conception of Saturn found in the ancient treatises on Indian Astrology, such as, Brihat Parasara Hora [Shastram,](# "I have edited this most difficult of the astrological books With a Bengali translation, a portion of which was published some eight years back in the Sahitya Samhita of Calcutta") a treatise compiled by the sage Parasara, son of Bharadwasa.
+ Mr. Stapleton says that the ideas of Ar-Razi were to a certain extent influenced by the religious beliefs of the Sabians, who believed that God was both one and many in the different phenomena (i. e., the planets and stars). This is exactly the views of the Hindus even to the present day. The stars are worshipped in India from time out of memory, not for the belief that they are shapers of human destiny, but for the belief that the great God (ग्रहरुपः सदाशिव) has manifested Himself in them. They are not shapers but only indicators of human destiny (प्रहास्तु फलसूचकाः फलस्य दायका नहि । ) The pictures on the walls of a Chaldrean temple of Saturn, viz., that of a black Indian old man holding an axe in the hand, etc., are exactly in keeping with the conception of Saturn found in the ancient treatises on Indian Astrology, such as, Brihat Parasara Hora Shastram,[^4] a treatise compiled by the sage Parasara, son of Bharadwasa.
+
+[^4]: "I have edited this most difficult of the astrological books With a Bengali translation, a portion of which was published some eight years back in the Sahitya Samhita of Calcutta"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1052,7 +1060,9 @@ Ar-Razi was acquainted with Charaka and Sushruta. It will appear from the follow
 
 
 
- I find in Mr. Stapleton's book that according to Al-Masudi, the ancient Sabians had some connection with India. They went on pilgrimage to a temple of Saturn in Brahmanabad, the then capital of the Sind province. It was situated in an old channel of the Indus (left bank) about 40 miles N. E. of the modern Hyderabad, and therefore only about 100 miles to the south of Mohenjo-dero, where many relics of prehistoric civilization have recently been discovered. Mr. Stapleton appears to be of opinion that the city, of Brahmanabad (literally, a settlement of the Brahmanas) which contained a temple of Saturn to which the Sabians used to go on pilgrimage was an ontpost of Mesopotamian civilization. This is a conclusion which I do not think is warranted by Al-Masudi's statement that "the Sabians had some connection with India and that they went on pilgrimage to a temple of Saturn in Brahmanabad or Al-Mansura". We are inclined to draw from the above statement a conclusion which is quite the reverse of what Mr. Stapleton has arrived at. It appears to me that the ancient Sabians or Chaldrians were originally an offshoot of the Indian race and that they could not cut off their connection with India for several centuries after they had settled in Mesopotamia. They used to go on pilgrimage to the land on which they were dependent for their origin and culure; otherwise they would not have taken the trouble of going on pilgrimage to a temple of Saturn in India, while they had their own temples in Mesopotamia itself. As a matter of fact, worship of planets and erection of temples for the purpose of such worship were prevalent through ont India oven from the commencement of Indian civilization. There are many such temples even to this day in India, Calcutta has got at least one temple of Saturn where the image of the planet is worshiped by hundreds of votaries. It is on the Nimtalaghat Street. The earliest temple of Saturn existent to this day is the famous temple of "Konarak" in Orrisa. It is now in ruins and has long been abandoned. The name "Konarak" has been a puzzle to the general public. It has been explained in many ways. None of these explanations is satisfactory. The real meaning of the word "Kana- rak Mandir" is the temple of the planets Saturn and Sun. The word is a compound one and consists of two words, viz., Kona (Saturn) and Arka (Sun). The word "Kona" has two different meanings, viz., (1) an angle, and (2) Saturn. The second meaning is not familiar to us, but it is to be found in the [Puranas](# "कोणोन्तः पिङ्गलोबभूः कृष्णो रौद्रोऽन्तको यमः । शौरिः गर्नवरो मन्दः पिप्पलादन संस्तुतः ॥ "), Whatever that may be, the temple of "Konarka" was a temple dedicated to the two planets viz., Saturn and Sun. According to the Puranas, it was built by Shamba, son of Sree Krishna, with a view to worship the planets in the hope that the action might lead to his being cured of leprosy from which he had been suffering. Shamba was born about 5000 years ago, i. e., a few years after the commence- ment of the Kali era which began to be counted 5028 years ago.
+ I find in Mr. Stapleton's book that according to Al-Masudi, the ancient Sabians had some connection with India. They went on pilgrimage to a temple of Saturn in Brahmanabad, the then capital of the Sind province. It was situated in an old channel of the Indus (left bank) about 40 miles N. E. of the modern Hyderabad, and therefore only about 100 miles to the south of Mohenjo-dero, where many relics of prehistoric civilization have recently been discovered. Mr. Stapleton appears to be of opinion that the city, of Brahmanabad (literally, a settlement of the Brahmanas) which contained a temple of Saturn to which the Sabians used to go on pilgrimage was an ontpost of Mesopotamian civilization. This is a conclusion which I do not think is warranted by Al-Masudi's statement that "the Sabians had some connection with India and that they went on pilgrimage to a temple of Saturn in Brahmanabad or Al-Mansura". We are inclined to draw from the above statement a conclusion which is quite the reverse of what Mr. Stapleton has arrived at. It appears to me that the ancient Sabians or Chaldrians were originally an offshoot of the Indian race and that they could not cut off their connection with India for several centuries after they had settled in Mesopotamia. They used to go on pilgrimage to the land on which they were dependent for their origin and culure; otherwise they would not have taken the trouble of going on pilgrimage to a temple of Saturn in India, while they had their own temples in Mesopotamia itself. As a matter of fact, worship of planets and erection of temples for the purpose of such worship were prevalent through ont India oven from the commencement of Indian civilization. There are many such temples even to this day in India, Calcutta has got at least one temple of Saturn where the image of the planet is worshiped by hundreds of votaries. It is on the Nimtalaghat Street. The earliest temple of Saturn existent to this day is the famous temple of "Konarak" in Orrisa. It is now in ruins and has long been abandoned. The name "Konarak" has been a puzzle to the general public. It has been explained in many ways. None of these explanations is satisfactory. The real meaning of the word "Kana- rak Mandir" is the temple of the planets Saturn and Sun. The word is a compound one and consists of two words, viz., Kona (Saturn) and Arka (Sun). The word "Kona" has two different meanings, viz., (1) an angle, and (2) Saturn. The second meaning is not familiar to us, but it is to be found in the Puranas[^5], Whatever that may be, the temple of "Konarka" was a temple dedicated to the two planets viz., Saturn and Sun. According to the Puranas, it was built by Shamba, son of Sree Krishna, with a view to worship the planets in the hope that the action might lead to his being cured of leprosy from which he had been suffering. Shamba was born about 5000 years ago, i. e., a few years after the commence- ment of the Kali era which began to be counted 5028 years ago.
+
+[^5]: "कोणोन्तः पिङ्गलोबभूः कृष्णो रौद्रोऽन्तको यमः । शौरिः गर्नवरो मन्दः पिप्पलादन संस्तुतः ॥ "
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1104,7 +1114,9 @@ Proof of a racial and cultural dependence of the West on India -
 
  In view of all these facts, it will not be unreasonable for us to hold that chemistry, organic, as well as inorganic based mainly on the use of mercury, as recorded in the Indian medical treatises, was of Indian origin and could not have been imported from outside India.
 
- It will be interesting to close the present chapter with a diagram showing the relation in which the different branches of Rasvidya (metallic chemistry and alchemy) stand to one [another](# " रसविद्या विधा प्रोक्ता धातुवादचिकितसितम् । दुर्लभा रोमविद्या च सर्वविधाता वराः ॥ चिकित्साहितया भैया व्याधीर्ना नरसस्तथा । जराव्याधिविनाशिनी चिकित्सा हि रमायनम् ॥ ") :-
+ It will be interesting to close the present chapter with a diagram showing the relation in which the different branches of Rasvidya (metallic chemistry and alchemy) stand to one another[^6] :-
+
+[^6]: " रसविद्या विधा प्रोक्ता धातुवादचिकितसितम् । दुर्लभा रोमविद्या च सर्वविधाता वराः ॥ चिकित्साहितया भैया व्याधीर्ना नरसस्तथा । जराव्याधिविनाशिनी चिकित्सा हि रमायनम् ॥ "
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1318,8 +1330,10 @@ I bow down to that one and eternal Being who is conceived of by his devotees as 
 
 *Iatro medical treatment of hæmeptosis.\**
 
- Cinnabar, mixed with the juice of patola and honey, cures [hæmeptosis.](# "*Minerals and gems forming ingredients of a medicine should always be purified or incinerated after purification, as the case may be, in accordance with the procedures laid down in the first three volumes.")
+ Cinnabar, mixed with the juice of patola and honey, cures hæmeptosis.[^7]
 
+
+[^7]: "*Minerals and gems forming ingredients of a medicine should always be purified or incinerated after purification, as the case may be, in accordance with the procedures laid down in the first three volumes."
 
 
 **आयसादि रसः ।**
@@ -1510,11 +1524,15 @@ liquors, garlics , beans, food incongenial by combination, pungents, sours, salt
 
 **अथ राजयक्ष्मचिकित्सा ।**
 
-**  वलिनो बहुदोषस्य [पञ्चकर्माणि](# "* प्रथमं वमनं पश्चाद् विरेकश्चानुवासनम् ।   एतानि पञ्चकर्माचि निरुही नावनं तथा ॥ भावप्रकाशादि ग्रन्थे द्रष्टव्यः ।")कारयेत् । यक्ष्मिणः क्षीणदेहस्य तत्कृतं स्याद्विषोपमम् ॥ शुक्रायत्तं वलं पुं सां मलायत्तञ्च जीवितम् । तस्माद् यत्नेनसंरक्षेद् यक्ष्मिणो मलरेतसी ॥**
+**  वलिनो बहुदोषस्य पञ्चकर्माणि[^8]कारयेत् । यक्ष्मिणः क्षीणदेहस्य तत्कृतं स्याद्विषोपमम् ॥ शुक्रायत्तं वलं पुं सां मलायत्तञ्च जीवितम् । तस्माद् यत्नेनसंरक्षेद् यक्ष्मिणो मलरेतसी ॥**
+
+[^8]: "* प्रथमं वमनं पश्चाद् विरेकश्चानुवासनम् ।   एतानि पञ्चकर्माचि निरुही नावनं तथा ॥ भावप्रकाशादि ग्रन्थे द्रष्टव्यः ।"
 
 *Treatment of phthisis.*
 
-  A phthisic patient, strong but affected with much of the dosas, should be subjected to the panchakarma (or five purifying processes, viz. vomiting, purging, douche of oil, douche some suitable decoction mixed with oil, and [snuff)](# "* For details see Bha va praka sha, etc."). \*but, such actions are much injurious to weak patients. The strength of a man depends upon the quantity of semen he has been able to accumulate in his system, and his life depends upon his ability to retain mala (dirt, i.e., stool and urine.) It is therefore necessary for a phthisic patient to retain carefully his stool and semen. In other words, a phthisic patient rapidly sinks from weakness due to loss of semen and looseness of the bowels, both of which should be carefully guarded against.
+  A phthisic patient, strong but affected with much of the dosas, should be subjected to the panchakarma (or five purifying processes, viz. vomiting, purging, douche of oil, douche some suitable decoction mixed with oil, and snuff)[^9]. \*but, such actions are much injurious to weak patients. The strength of a man depends upon the quantity of semen he has been able to accumulate in his system, and his life depends upon his ability to retain mala (dirt, i.e., stool and urine.) It is therefore necessary for a phthisic patient to retain carefully his stool and semen. In other words, a phthisic patient rapidly sinks from weakness due to loss of semen and looseness of the bowels, both of which should be carefully guarded against.
+
+[^9]: "* For details see Bha va praka sha, etc."
 
 **रक्तवान्तिनिवारण योगाः ।**
 
@@ -1654,7 +1672,9 @@ rasa,\*The general principle in regard to phthisis is that no pungents. (such as
 
 **महामृगाङ्क रसः ।**
 
-**  निरुत्यभस्म सौवर्णं द्विगुणं भस्मसूतकम्। द्विगुणं भस्म मुक्तोत्यं शुकपुच्छं चतुर्गुणम् ॥ मृतताप्यञ्च पञ्चांशं तारभस्म चतुर्गुणम् ॥ सप्तभागं प्रवालञ्च रसतुल्यञ्च टंगनम् ॥ सर्वमेकत्र संमर्द्य त्रिदिणं लुङ्गवारिणा । तत् ततो गोलकं कृत्वा शोषयित्वा खरातपे ॥ लवणैः पात्रमापूर्य तन्मध्ये गोलकं क्षिपेत् । तन्मुखञ्च मृदा रुद्ध्वा पचेद् यामचतुष्टयम् ॥अकृष्य चूर्णिंतं शुद्धं चतुः षष्टिविभागतः । वज्रं वा तदभावे तु वैक्रान्तं षोड़शांशिकम् ॥ महामृगाङ्कः खलु सिद्ध एष श्रीनन्दिनाथ प्रकटीकृतोऽयम् । वल्लोऽस्य सेव्यो मरिचाज्ययुक्तः सेव्योऽथवा पिप्पलिकासमेतः ॥ अत्रोपचाराः कर्तव्याः सर्वे क्षयगदोदिताः । वल्यं वृष्यञ्च भोक्तव्यं त्याज्यं सुतविरोधि यत् ॥ यक्ष्माणं बहुरूपिणं ज्वरगणं गुल्मं तथा विद्रधिं मन्दाग्निं स्वरभेदकासमरुचि वान्तिञ्च मूर्च्छां भ्रमम् । अष्टावेव महागदान् गरगदान्पाण्डामयान् कामलां पित्तोत्थांश्च समग्रकान् वहुपिधानन्यांस्तथा [नाशयेत्](# "* वातव्याद्य्यश्भश्मरीकुष्ठमेहोदरगन्दराः।   श्रर्शासिग्रहणीत्यष्टौ महॉरोगाः प्रकोर्त्तिताः ॥")॥**
+**  निरुत्यभस्म सौवर्णं द्विगुणं भस्मसूतकम्। द्विगुणं भस्म मुक्तोत्यं शुकपुच्छं चतुर्गुणम् ॥ मृतताप्यञ्च पञ्चांशं तारभस्म चतुर्गुणम् ॥ सप्तभागं प्रवालञ्च रसतुल्यञ्च टंगनम् ॥ सर्वमेकत्र संमर्द्य त्रिदिणं लुङ्गवारिणा । तत् ततो गोलकं कृत्वा शोषयित्वा खरातपे ॥ लवणैः पात्रमापूर्य तन्मध्ये गोलकं क्षिपेत् । तन्मुखञ्च मृदा रुद्ध्वा पचेद् यामचतुष्टयम् ॥अकृष्य चूर्णिंतं शुद्धं चतुः षष्टिविभागतः । वज्रं वा तदभावे तु वैक्रान्तं षोड़शांशिकम् ॥ महामृगाङ्कः खलु सिद्ध एष श्रीनन्दिनाथ प्रकटीकृतोऽयम् । वल्लोऽस्य सेव्यो मरिचाज्ययुक्तः सेव्योऽथवा पिप्पलिकासमेतः ॥ अत्रोपचाराः कर्तव्याः सर्वे क्षयगदोदिताः । वल्यं वृष्यञ्च भोक्तव्यं त्याज्यं सुतविरोधि यत् ॥ यक्ष्माणं बहुरूपिणं ज्वरगणं गुल्मं तथा विद्रधिं मन्दाग्निं स्वरभेदकासमरुचि वान्तिञ्च मूर्च्छां भ्रमम् । अष्टावेव महागदान् गरगदान्पाण्डामयान् कामलां पित्तोत्थांश्च समग्रकान् वहुपिधानन्यांस्तथा नाशयेत्[^10]॥**
+
+[^10]: "* वातव्याद्य्यश्भश्मरीकुष्ठमेहोदरगन्दराः।   श्रर्शासिग्रहणीत्यष्टौ महॉरोगाः प्रकोर्त्तिताः ॥"
 
 ## Maha'mriga'nka rasa.
 
@@ -1671,7 +1691,9 @@ rasa,\*The general principle in regard to phthisis is that no pungents. (such as
 
 ## Ra'ja mriga'nka rasa.
 
- Three parts of incinerated mercury, one part, each, of gold and [copper\*,](# "* Some texts have got silver and not copper.") and two parts, each, of realger, orpiment, and sulphur are to be rubbed together, and put inside the vacant spaces of cowri-shells (see page 226 vol. II), the mouths of which are to be closed by means of a paste prepared from borax pestled with goats' milk. These cowri-shells are then to be put in an earthen vessel (the mouth of which is to be duly closed), When dried, the vessel is to be subjected to heat by Gajaputam, the shells being taken out when cooled by radiation of heat, and reduced to powder. Dose, four ractis, a day, in phthisis due to an abnormal excess of va'yu and kapha. This medicine is to be taken with a few drops of clarified butter and nineteen in number of maricha, or with a few drops of honey and ten in number of pippali. (In phthisis due to an abnormal excess of pittam, indicated mainly by spitting or vomiting of blood, this medieine may be taken with the juice of the leaves of marigold, etc.)..
+ Three parts of incinerated mercury, one part, each, of gold and copper\*,[^11] and two parts, each, of realger, orpiment, and sulphur are to be rubbed together, and put inside the vacant spaces of cowri-shells (see page 226 vol. II), the mouths of which are to be closed by means of a paste prepared from borax pestled with goats' milk. These cowri-shells are then to be put in an earthen vessel (the mouth of which is to be duly closed), When dried, the vessel is to be subjected to heat by Gajaputam, the shells being taken out when cooled by radiation of heat, and reduced to powder. Dose, four ractis, a day, in phthisis due to an abnormal excess of va'yu and kapha. This medicine is to be taken with a few drops of clarified butter and nineteen in number of maricha, or with a few drops of honey and ten in number of pippali. (In phthisis due to an abnormal excess of pittam, indicated mainly by spitting or vomiting of blood, this medieine may be taken with the juice of the leaves of marigold, etc.)..
+
+[^11]: "* Some texts have got silver and not copper."
 
 **महाभ्र रसः ।**
 
@@ -1718,7 +1740,9 @@ rasa,\*The general principle in regard to phthisis is that no pungents. (such as
 
 **वामदेव रसः ।**
 
-**  कुमार्य्या त्रिफलाचूर्णौश्चिकस्य रसैः क्रमात् । शोधयित्वा पुना राजी गृहधूमहरिद्रया ॥ पक्केष्टकारजोभिश्च वोहापत्ररसेन [च](# "मोहापवरसेन चेत्यप अलम्व षकार सेन च एवं शृङ्गवेररसेनाव भृङ्गराजरसेनेवि पाठान्तरम् ।  राजयक्ष्माधिकारः") । श्रृङ्गवेररसेनापि शोधयित्वा पुनः पुनः ॥ प्रक्षालयेत् पुनः पश्चाच्छानयेद् वसने घने । कर्षद्वयं रसेन्द्रस्य भावयेद् विजयारसे ॥ शिलायां खल्लयेच्चापि यावत् पिण्डत्वमागतम् । जलकर्णकाकमाचीरसाभ्यां भावयेत् पुनः । सौगन्धिकपलं शुद्धमधं मरिचटडंगनम्\* । माक्षिकञ्च शिखिप्रीवं तालकञ्चाभ्रकं तथा ॥ एतांस्तु मिलितान् दत्त्वा भावयेदार्द्र कद्रवैः। रक्तिद्वय प्रमानेन कारयेद् गुड़िकां भिवक्। जीर्णेऽन्ने भक्षयेदेकां क्षीरमांसरसाशनः । हन्ति कासं क्षयं श्वासं रक्तपित्तमरोचकम् । पाण्डुक्रिमिज्वरहरः कृशानां पुष्टिवर्द्धनः ॥ वामदेवरसो नाम्ना प्रथितो धरणीतले ॥**
+**  कुमार्य्या त्रिफलाचूर्णौश्चिकस्य रसैः क्रमात् । शोधयित्वा पुना राजी गृहधूमहरिद्रया ॥ पक्केष्टकारजोभिश्च वोहापत्ररसेन च[^12] । श्रृङ्गवेररसेनापि शोधयित्वा पुनः पुनः ॥ प्रक्षालयेत् पुनः पश्चाच्छानयेद् वसने घने । कर्षद्वयं रसेन्द्रस्य भावयेद् विजयारसे ॥ शिलायां खल्लयेच्चापि यावत् पिण्डत्वमागतम् । जलकर्णकाकमाचीरसाभ्यां भावयेत् पुनः । सौगन्धिकपलं शुद्धमधं मरिचटडंगनम्\* । माक्षिकञ्च शिखिप्रीवं तालकञ्चाभ्रकं तथा ॥ एतांस्तु मिलितान् दत्त्वा भावयेदार्द्र कद्रवैः। रक्तिद्वय प्रमानेन कारयेद् गुड़िकां भिवक्। जीर्णेऽन्ने भक्षयेदेकां क्षीरमांसरसाशनः । हन्ति कासं क्षयं श्वासं रक्तपित्तमरोचकम् । पाण्डुक्रिमिज्वरहरः कृशानां पुष्टिवर्द्धनः ॥ वामदेवरसो नाम्ना प्रथितो धरणीतले ॥**
+
+[^12]: "मोहापवरसेन चेत्यप अलम्व षकार सेन च एवं शृङ्गवेररसेनाव भृङ्गराजरसेनेवि पाठान्तरम् ।  राजयक्ष्माधिकारः"
 
 ## Ba'madeva rasa.
 
@@ -1744,7 +1768,9 @@ rasa,\*The general principle in regard to phthisis is that no pungents. (such as
 
 **रत्नगर्भ पोट्टलीरसः ।**
 
-** रसं वज्रं हेमतारं नागं लौहञ्च ताम्रकम् । तुल्यांशं मारितं योज्यं मुक्तामाक्षिकविद्रुमम् ॥ शङ्खं तुत्थञ्च तुल्यांशं सप्ताहं चित्त्रकद्रवैः । मर्द्दयित्वा विचूणर्याथ तेन पूर्य्या वराटिकाः ॥ टङ्गनं रविदुग्धेन पिव्ष्टा तम्मुखमन्धयेत् । मृद्भाण्डे तां निरुध्याथ सम्यग् गजपुटे पचेत् ॥ अादाय चूर्णयेत् सर्वं निर्गु राडयाः सप्तभावनाः । आर्द्र कस्य रसैः सप्त चित्नकस्यैकविंशतिः ॥ द्रवैर्भाव्यं ततः शोष्यं देयं गुञ्जाचतुष्टयम् । क्षयरोगं श्र निहन्त्याशु साध्यासाध्यं न संशयः ॥ योजयेत् पिप्पलीन्तौद्रैः! सघृतैर्मरिचैस्तथा । [महारोगाष्टके](# "● वातव्याध्यश्मरीकुष्ठमेहोदरभ्रगन्दराः ।  अर्थांसि ग्रहणीत्यष्टौ महारोगाः प्रकीर्त्तिताः ॥") कासे ज्वरे श्वासेऽतिसारके ॥ पोट्टली रत्नगर्भेयं सर्वरोगकुलान्तिका ॥**
+** रसं वज्रं हेमतारं नागं लौहञ्च ताम्रकम् । तुल्यांशं मारितं योज्यं मुक्तामाक्षिकविद्रुमम् ॥ शङ्खं तुत्थञ्च तुल्यांशं सप्ताहं चित्त्रकद्रवैः । मर्द्दयित्वा विचूणर्याथ तेन पूर्य्या वराटिकाः ॥ टङ्गनं रविदुग्धेन पिव्ष्टा तम्मुखमन्धयेत् । मृद्भाण्डे तां निरुध्याथ सम्यग् गजपुटे पचेत् ॥ अादाय चूर्णयेत् सर्वं निर्गु राडयाः सप्तभावनाः । आर्द्र कस्य रसैः सप्त चित्नकस्यैकविंशतिः ॥ द्रवैर्भाव्यं ततः शोष्यं देयं गुञ्जाचतुष्टयम् । क्षयरोगं श्र निहन्त्याशु साध्यासाध्यं न संशयः ॥ योजयेत् पिप्पलीन्तौद्रैः! सघृतैर्मरिचैस्तथा । महारोगाष्टके[^13] कासे ज्वरे श्वासेऽतिसारके ॥ पोट्टली रत्नगर्भेयं सर्वरोगकुलान्तिका ॥**
+
+[^13]: "● वातव्याध्यश्मरीकुष्ठमेहोदरभ्रगन्दराः ।  अर्थांसि ग्रहणीत्यष्टौ महारोगाः प्रकीर्त्तिताः ॥"
 
 ## Ratnagarbha pottali rasa.
 
@@ -1869,17 +1895,23 @@ Equal quntities of gold, orpiment, sulphur, copper-sulphate, copper-pyrites, cal
 
     In a separate stone mortar are to be kept purified mercury, double in weight of the ashes referred to above, and sulphur, double in weight of the mercury. These two things, viz. sulphur and mercury, are to be rubbed together and made into a fine kajjali or black powder, with which is to be mixed the ashes of gold, etc., referred to above. The whole of the powder is then to be reduced to parpati, as usual, by being put on an iron pot, and heated by a mild heat of fire made of charcoal prepared from badara wood (see page 262, Vol. IV).
 
-  The parpati, thus prepared, is to be powdered very fine, and mixed with an equal quantity of a powder made of orpiment, realger, and sulphur, taken in equal quantities (i, e, each, one third in quantity of the parpati), and two tola's of purified aconite. The powder, thus prepared, is to be melted, in small quantities on a palika' (a small ladle-like iron pot used for drawing oil from an oil pot), subjected to a mild heat of fire made of charcoal, prepared from badara wood. In the act of melting in this case, care should be taken to see thatthe heat applied for melting should not be so strong as to burn the powder which is to be cooled by being thrown upon a piece of plantain leaf, as soon as it is melted. The product, thus prepared, is to be again powdered very fine. It is then to be dissolved with a decoction prepared from five tola's, each, of [puti-karanja](# "* visa karanja or dahara karanja."), satkola (i, e, pippali, roots of pippali, chabya, roots of chitraka, shunthi, and maricha, combined in equal quantities), kantaka'ri, and roots of shobha'njana, to be boiled in 320 tola's of water, reducible by heating to twenty tola's only. The product, thus dissolved, is to be dried by a mild heat. The process of dissolving the powder with the decoction and then drying it by mild heat is to be performed for seven times only. The product is then to be subjected to bha'vana', separately, with the decoctions of each of the following:-fruits of nux vomica and nirgundi. It is then to be put, in small quantities, on a palika', and heated a little, by a mild heat of fire made of charcoal prepared from badara wood. Dose, one racti, to be taken once a day with a little of honey and powdered trikatu. This medicine cures phthisis with all its symptoms, asthma, cough, cholera, spermatorrhoea, diseases of the belly, aversion to food, discharge of phlegm through the nostrils, vomiting, heart disease, diseases affecting the rectum, colic, leprosy, fever due to va'ya. constipation, grahani, diseases due to the drinking of liquor in excess and indicating an abnormal excess of phlegm, and especially dullness of the digesting heat. While taking the medicine, the patient should avoid, as usual, the following:-oil prepared from sesamum and mustard seeds, bilva fruit, sours, ka'rbella, kasumbha seeds and flower, meat of pigeon and fowl, and brinjals.
+  The parpati, thus prepared, is to be powdered very fine, and mixed with an equal quantity of a powder made of orpiment, realger, and sulphur, taken in equal quantities (i, e, each, one third in quantity of the parpati), and two tola's of purified aconite. The powder, thus prepared, is to be melted, in small quantities on a palika' (a small ladle-like iron pot used for drawing oil from an oil pot), subjected to a mild heat of fire made of charcoal, prepared from badara wood. In the act of melting in this case, care should be taken to see thatthe heat applied for melting should not be so strong as to burn the powder which is to be cooled by being thrown upon a piece of plantain leaf, as soon as it is melted. The product, thus prepared, is to be again powdered very fine. It is then to be dissolved with a decoction prepared from five tola's, each, of puti-karanja[^14], satkola (i, e, pippali, roots of pippali, chabya, roots of chitraka, shunthi, and maricha, combined in equal quantities), kantaka'ri, and roots of shobha'njana, to be boiled in 320 tola's of water, reducible by heating to twenty tola's only. The product, thus dissolved, is to be dried by a mild heat. The process of dissolving the powder with the decoction and then drying it by mild heat is to be performed for seven times only. The product is then to be subjected to bha'vana', separately, with the decoctions of each of the following:-fruits of nux vomica and nirgundi. It is then to be put, in small quantities, on a palika', and heated a little, by a mild heat of fire made of charcoal prepared from badara wood. Dose, one racti, to be taken once a day with a little of honey and powdered trikatu. This medicine cures phthisis with all its symptoms, asthma, cough, cholera, spermatorrhoea, diseases of the belly, aversion to food, discharge of phlegm through the nostrils, vomiting, heart disease, diseases affecting the rectum, colic, leprosy, fever due to va'ya. constipation, grahani, diseases due to the drinking of liquor in excess and indicating an abnormal excess of phlegm, and especially dullness of the digesting heat. While taking the medicine, the patient should avoid, as usual, the following:-oil prepared from sesamum and mustard seeds, bilva fruit, sours, ka'rbella, kasumbha seeds and flower, meat of pigeon and fowl, and brinjals.
+
+[^14]: "* visa karanja or dahara karanja."
 
 
 
 **अथ राजयक्ष्मरोगे पथ्यानि ।**
 
-** दोषाधिकस्य वलिनो मृदुशुद्धिरादौ गोधृममुद्गचणकारुणशालयश्च । छागस्य मांसनवनीतपयोघृतानि क्रव्यादमांसमपि जांगलजा [रसाश्च ॥\*](# "* उरुक्षते मेषादिपित्तप्रकोपकमांसभक्षणं निषिद्धम् ।") पक्वानि पापितसिताम्रफलानि धात्री खर्जुरपौष्करपरूषकनारिकेलम् । शोभाञ्जनञ्च कुलकं नवतालशस्यं द्राक्षाफलानि मिषयोऽपि च माणिमन्थम् ॥ सिंहास्यपत्रमपि गोमहिषीघृतं च च्छागाश्रयाश्च तदवस्करमूत्रलेपः । मत्स्यण्डिका शिखरिणी सुसिता रसाला कर्पूरकं मृगमदः सितचन्दनञ्च ॥ अभ्यञ्जनानि सुरभोगयनुलेपनानि स्नानानि वेशरचनान्यवगाहनानि । हर्म्यं स्रजं प्रियकथा मृदुगन्धवाहो गीतानि लास्यमपि चन्द्ररुचो विपञ्ची ॥ मुक्तामणिप्रचुरभूषणधारणं च होमः प्रदानममरद्विजपूजनानि । हृद्यान्नपानमपि पथ्यगणः क्षयेषु ॥**
+** दोषाधिकस्य वलिनो मृदुशुद्धिरादौ गोधृममुद्गचणकारुणशालयश्च । छागस्य मांसनवनीतपयोघृतानि क्रव्यादमांसमपि जांगलजा रसाश्च ॥\*[^15] पक्वानि पापितसिताम्रफलानि धात्री खर्जुरपौष्करपरूषकनारिकेलम् । शोभाञ्जनञ्च कुलकं नवतालशस्यं द्राक्षाफलानि मिषयोऽपि च माणिमन्थम् ॥ सिंहास्यपत्रमपि गोमहिषीघृतं च च्छागाश्रयाश्च तदवस्करमूत्रलेपः । मत्स्यण्डिका शिखरिणी सुसिता रसाला कर्पूरकं मृगमदः सितचन्दनञ्च ॥ अभ्यञ्जनानि सुरभोगयनुलेपनानि स्नानानि वेशरचनान्यवगाहनानि । हर्म्यं स्रजं प्रियकथा मृदुगन्धवाहो गीतानि लास्यमपि चन्द्ररुचो विपञ्ची ॥ मुक्तामणिप्रचुरभूषणधारणं च होमः प्रदानममरद्विजपूजनानि । हृद्यान्नपानमपि पथ्यगणः क्षयेषु ॥**
+
+[^15]: "* उरुक्षते मेषादिपित्तप्रकोपकमांसभक्षणं निषिद्धम् ।"
 
 Diet and deeds beneficial in phthisis.
 
-  In the case of the patient being strong and the dosas (i.e. va'ya, pittam, and kapha) being excessively abnormal, mild purification of the body (by a mild purgation, vomiting. etc.) may be resorted to; wheat, mudga, chanaka, rice prepared from racta-sha'li paddy; meat, butter, milk, and clarified butter of goat, meat of those animals which live mainly on meat (such as [tiger) •](# "In bemeptosis and phthisis attended with bleeding, meat of ram which increases pittam should be avoided.") and those which are termed ja' ngala, (preferably soup prepared from those meats, especially when the power of digestion of the patient is very weak), ripe and sweet pa'pita', sita' or a'tripya, and mango, a'malaki, dates, seeds and roots of lotas, parusaka, water and tender kernel of cocoanut, shobha'njanam, patola, tender palm fruit, grapes, madhurika',rock-salt, leaves of ba'saka, clarified butter prepared from the milk of cow and buffalo; association with healthy goat, smearing the body with the urine and stool of goats: matsyandika' (hardened sugar ball), shikharini (see Bha'vapraka'sha), sugar-candy, camphor, musk, white sandal, rubbing the body with oil and scented unguents, baths, putting on clear clothes, taking dips in good water, living in honses bnilt of bricks or stones, wearing garlands, hearing of sweet and agreeable words, soft wind, hearing of songs, seeing of dances, exposure to the rays of the moon, hearing of playing on harps: wearing of pearls, rubies, and other ornaments, offering of clarified butter on fire, gifts made to the deserving, worship of gods and the twice born, and articles of food stuff, both salutary and agreeable.
+  In the case of the patient being strong and the dosas (i.e. va'ya, pittam, and kapha) being excessively abnormal, mild purification of the body (by a mild purgation, vomiting. etc.) may be resorted to; wheat, mudga, chanaka, rice prepared from racta-sha'li paddy; meat, butter, milk, and clarified butter of goat, meat of those animals which live mainly on meat (such as tiger) •[^16] and those which are termed ja' ngala, (preferably soup prepared from those meats, especially when the power of digestion of the patient is very weak), ripe and sweet pa'pita', sita' or a'tripya, and mango, a'malaki, dates, seeds and roots of lotas, parusaka, water and tender kernel of cocoanut, shobha'njanam, patola, tender palm fruit, grapes, madhurika',rock-salt, leaves of ba'saka, clarified butter prepared from the milk of cow and buffalo; association with healthy goat, smearing the body with the urine and stool of goats: matsyandika' (hardened sugar ball), shikharini (see Bha'vapraka'sha), sugar-candy, camphor, musk, white sandal, rubbing the body with oil and scented unguents, baths, putting on clear clothes, taking dips in good water, living in honses bnilt of bricks or stones, wearing garlands, hearing of sweet and agreeable words, soft wind, hearing of songs, seeing of dances, exposure to the rays of the moon, hearing of playing on harps: wearing of pearls, rubies, and other ornaments, offering of clarified butter on fire, gifts made to the deserving, worship of gods and the twice born, and articles of food stuff, both salutary and agreeable.
+
+[^16]: "In bemeptosis and phthisis attended with bleeding, meat of ram which increases pittam should be avoided."
 
 **राजयश्मरोगे अपथ्यानि ।**
 
@@ -2117,7 +2149,9 @@ Diet and deeds beneficial in phthisis.
 
 ## Basanta tilaka rasa.
 
-  One tola' of gold, two tola's of mica, three tola's of iron, four tola's of mercury [incinerated,](# "* Those who are unable to incinerate mereury may, in its place, make use of rasa-sinduram which, to some entent, serves the purpose of the former.") two tola's of tin, two tola's of pearls, and two tola's of corals are to be rubbed together with the juices of gokshura, ba'saka, and ikshu (sugar cane). The compound is then to be dried, put inside two earthen basins, and heated by the third kind of Ba'luka' Jantram, for twenty one hours. When cooled, the compound is to be taken out and rubbed with (four tola's, each, of) musk and camphor, (Dose, one racti, each, to be taken twice or thrice, a day). This medicine cures cough, asthma, an abnormal excess of one or more of the three dosas, anemia, consumption, heart disease, and fever. This is nutritive and destroyer of senile decay.
+  One tola' of gold, two tola's of mica, three tola's of iron, four tola's of mercury incinerated,[^17] two tola's of tin, two tola's of pearls, and two tola's of corals are to be rubbed together with the juices of gokshura, ba'saka, and ikshu (sugar cane). The compound is then to be dried, put inside two earthen basins, and heated by the third kind of Ba'luka' Jantram, for twenty one hours. When cooled, the compound is to be taken out and rubbed with (four tola's, each, of) musk and camphor, (Dose, one racti, each, to be taken twice or thrice, a day). This medicine cures cough, asthma, an abnormal excess of one or more of the three dosas, anemia, consumption, heart disease, and fever. This is nutritive and destroyer of senile decay.
+
+[^17]: "* Those who are unable to incinerate mereury may, in its place, make use of rasa-sinduram which, to some entent, serves the purpose of the former."
 
 **चतुष्टय रसः ।**
 
@@ -3711,7 +3745,9 @@ Krimihara rasa.
 
  Diet and deeds salutary in worms :-
 
- application of douche with decoction of suitable herbs, mixed with milk and oil; purgation of the intestines by means of a laxative; purgation of the brain by means of mild and medicated snuff prepared from salutary herbs or by pouring into the nostrils a little of mustard oil or some medicated oil, or milk mixed with a little of powdered shunthi; smoking of suitable herbs; everything having the property of pacifying phlegm ; massaging the body; eating of rice, of three years' standing, prepared from the seeds of bamboo and red sha'li paddy; such vegetables as patola, tender leaves of the cane plant, garlics, ba'stu, leaves of chitraka and paʼribhadra ; mustard seeds, green banana, fruits of brihati; bitter leaves of na'richa, meat of rats, biranga, leaves of nimba, haritaki, oil prepared from sesamum and mustard; sauvira, shuktam, [tusodaka](# "* See page 379-82, Vol. III."), honey, ripe palm fruit, ripe bhalla'taka fruit (excluding the stone), cow's urine, betel-leaves, urine, musk, camel's urine and milk; clarified butter prepared from camel's milk, hingu, alkalis, ajamdda', catechu, seeds of kutaja, lime juice, black jeera', jama'ni, exudations of trees named, deva- da'ru, aguru, and shinshapa: bitters, astringents, and pungents.
+ application of douche with decoction of suitable herbs, mixed with milk and oil; purgation of the intestines by means of a laxative; purgation of the brain by means of mild and medicated snuff prepared from salutary herbs or by pouring into the nostrils a little of mustard oil or some medicated oil, or milk mixed with a little of powdered shunthi; smoking of suitable herbs; everything having the property of pacifying phlegm ; massaging the body; eating of rice, of three years' standing, prepared from the seeds of bamboo and red sha'li paddy; such vegetables as patola, tender leaves of the cane plant, garlics, ba'stu, leaves of chitraka and paʼribhadra ; mustard seeds, green banana, fruits of brihati; bitter leaves of na'richa, meat of rats, biranga, leaves of nimba, haritaki, oil prepared from sesamum and mustard; sauvira, shuktam, tusodaka[^18], honey, ripe palm fruit, ripe bhalla'taka fruit (excluding the stone), cow's urine, betel-leaves, urine, musk, camel's urine and milk; clarified butter prepared from camel's milk, hingu, alkalis, ajamdda', catechu, seeds of kutaja, lime juice, black jeera', jama'ni, exudations of trees named, deva- da'ru, aguru, and shinshapa: bitters, astringents, and pungents.
+
+[^18]: "* See page 379-82, Vol. III."
 
 **क्रिमिरोगेऽपथ्यानि ।**
 
@@ -3759,7 +3795,9 @@ Cause and symptoms of halimaka (Janduice of a malignant type):
 
 **कुम्भकामला निदानम् ।**
 
-  **दग्धमांसरुधिराश्त्रपित्ततः कामला भ्रमतृषाविदाहिनी । पीतनेत्रमलवत्युपेक्षया शोफयुग् भवति [कुम्भकामला](# " * पाण्डुशोफन्तथा शोफपान्छु इत्येतदृद्दर्य कुम्भकामला इत्यस्य नामान्तरमेव । पाण्डुजनितः शोफः इति पाठ शोफः - थोफयुक्त पाख इति थोफपाण्डु ।") ॥\***
+  **दग्धमांसरुधिराश्त्रपित्ततः कामला भ्रमतृषाविदाहिनी । पीतनेत्रमलवत्युपेक्षया शोफयुग् भवति कुम्भकामला[^19] ॥\***
+
+[^19]: " * पाण्डुशोफन्तथा शोफपान्छु इत्येतदृद्दर्य कुम्भकामला इत्यस्य नामान्तरमेव । पाण्डुजनितः शोफः इति पाठ शोफः - थोफयुक्त पाख इति थोफपाण्डु ।"
 
    Causes and symptoms of kumbha ka'mala :-
 
@@ -4404,7 +4442,9 @@ Diet and deeds salutary in thirst :-
 
 ## Its causes and symptoms:-
 
-  Insufficiency of physical exertion, sleeping in day time, and taking of food increasing phlegm are causes which increase sweetness in the rasa or chyle (essence of the food consumed), making it generate more fat than is actually required for the proper maintenance of the body. Fat, thus, accumulates in the system, and the fluid-carrying passages having been blocked by fat, the other [dha'tus](# "*Dha tus are the constituent parts of the body. They are: chyle, blood, flesh, bone, marrow, fat, and semen.")stand a very little chance of being developed. A fatty man thus becomes in-active.
+  Insufficiency of physical exertion, sleeping in day time, and taking of food increasing phlegm are causes which increase sweetness in the rasa or chyle (essence of the food consumed), making it generate more fat than is actually required for the proper maintenance of the body. Fat, thus, accumulates in the system, and the fluid-carrying passages having been blocked by fat, the other dha'tus[^20]stand a very little chance of being developed. A fatty man thus becomes in-active.
+
+[^20]: "*Dha tus are the constituent parts of the body. They are: chyle, blood, flesh, bone, marrow, fat, and semen."
 
 The following are the symptoms of obesity:-
 
@@ -4433,7 +4473,9 @@ The following are the symptoms of obesity:-
 
  (4) An excess of kapha, fat, aud va'yn is pacified in six months by taking triphala', trikatu, oil, and salt.
 
- (5) Obesity is cured by taking [peya'](# "Peya  is rice boiled with fourteen times its weight of water and turned semi-liquid.")prepared with pestled leaves of badari and ka'nji (see page vol. III); or (6) by drinking shila'jatu, dissolved with the decoction of agnimantha.
+ (5) Obesity is cured by taking peya'[^21]prepared with pestled leaves of badari and ka'nji (see page vol. III); or (6) by drinking shila'jatu, dissolved with the decoction of agnimantha.
+
+[^21]: "Peya  is rice boiled with fourteen times its weight of water and turned semi-liquid."
 
  (6) Orpiment, pestled with cow's urine and applied on the place affected, cures leprosy. It cures bad odour coming out of the arm-pit and other parts of the body, if pestled with milk and applied on the places concerned. It serves as a charm for attraction of other people, if applied on the forehead after having been rubbed with milk, haridra', and daʼru-haridra'.
 
@@ -4592,7 +4634,9 @@ Deeds and diet salutary in obesity
 **अथ ढाहरोगलक्षणम् \।**
 
 
-   **त्वचं प्राप्तः स पानोष्मा पित्तरक्ताभिमूच्छितः । दाहं प्रकुरुते घोरं पित्तवत् तत्र भेषजम् ॥ कृत्स्त्रदेहानुगं रक्तमुद्रिक्तं दहति ध्रुवम् । स उष्यते तृष्यते वा ताम्राभस्ताम्रलोचनः । [लोहगन्धाङ्गवदनो](# "लोहमित्यत्र रक्त  अगुरु वा ।") वह्निनेवावकीर्य्यते \।\। पिन्तज्वरसमश्चास्य नैरुजस्य विधिः स्मृतः ॥ तृष्णानिरोधादन्धातौ क्षोणे तेजः समुद्धतम् । सवाह्याभ्यन्तरं देहं प्रदहेन मन्दचेतसः । संशुष्कगलताल्वोष्ठो जिह्वां निष्कृष्य वेपते ॥ असृजः पूर्णकोष्ठस्य दाहोऽन्यः स्यात् सुदुस्तरः ॥ धातुतयोक्तो यो दाहस्तेन मूर्च्छातृद्दितः । क्षामस्वरः क्रियाहीनः स सोदेद् भृशपीडितः । मर्म्मभिघातजोऽप्यस्ति सोऽसाध्यः सप्तमो मतः । सर्व्व एव च वर्ज्याः स्युः शीतगात्रस्य देहिनः ॥**
+   **त्वचं प्राप्तः स पानोष्मा पित्तरक्ताभिमूच्छितः । दाहं प्रकुरुते घोरं पित्तवत् तत्र भेषजम् ॥ कृत्स्त्रदेहानुगं रक्तमुद्रिक्तं दहति ध्रुवम् । स उष्यते तृष्यते वा ताम्राभस्ताम्रलोचनः । लोहगन्धाङ्गवदनो[^22] वह्निनेवावकीर्य्यते \।\। पिन्तज्वरसमश्चास्य नैरुजस्य विधिः स्मृतः ॥ तृष्णानिरोधादन्धातौ क्षोणे तेजः समुद्धतम् । सवाह्याभ्यन्तरं देहं प्रदहेन मन्दचेतसः । संशुष्कगलताल्वोष्ठो जिह्वां निष्कृष्य वेपते ॥ असृजः पूर्णकोष्ठस्य दाहोऽन्यः स्यात् सुदुस्तरः ॥ धातुतयोक्तो यो दाहस्तेन मूर्च्छातृद्दितः । क्षामस्वरः क्रियाहीनः स सोदेद् भृशपीडितः । मर्म्मभिघातजोऽप्यस्ति सोऽसाध्यः सप्तमो मतः । सर्व्व एव च वर्ज्याः स्युः शीतगात्रस्य देहिनः ॥**
+
+[^22]: "लोहमित्यत्र रक्त  अगुरु वा ।"
 
 
 
@@ -4698,7 +4742,9 @@ Sudha'kara rasa,
 
 **अथ मदात्ययादिलक्षणम् ।**
 
-  **क्रुद्धेन भीतेन पिपासितेन शोकाभितप्तेन बुभुक्षितेन । व्यायामभाराध्यपरिक्षतेन वेगावरोधाभिहतेन चापि ॥ अत्यम्वुभक्षावततोदरेण साजीर्णभुक्तेन तथावलेन । उष्णाभितप्तेन च सेव्यमानं करोति मद्यं विविधान् विकारान् ॥ मदात्ययं परमद्दं मदाजीर्णमथापि वा मदविभ्रममुग्रञ्च तेषां वक्ष्यामि लक्षणम् ॥ हिक्काश्वासशिरःकम्पपार्श्वशूलप्रजागरैः । विद्याद्वहुप्रलापस्य वातप्रायं मदात्ययम् ॥ तृष्णादाहज्वरस्वेदमोहातिसारविभ्रमैः । विद्याद्धरितवर्णस्य पित्तप्रायं मदात्ययम् ॥ छर्दंयरोचकहल्लासतन्द्रास्तैमित्यगौरवैः । विद्याच्छीतपरीतस्य कफप्रायं मदात्ययम् ॥ ज्ञे यस्त्रिदोषजश्चापि सर्व्वलिङ्गै र्मदात्ययः । श्लेष्मोच्छ्रयोऽङ्गगुरुता विरसास्यता च विण्मूत्रसक्तिरथ तन्दिररोचकश्च । लिङ्गं परस्य च मदस्य वदन्ति तज्ज्ञास्तृष्णा रुजा शिरसि सन्धिषु चापि भेदः ॥ आध्मानमुग्रमथ चोद्रिरणं विदाहः पानेऽजरां समुपगच्छति लक्षणानि ॥ हृद्गात्त्रतोदकफसंस्त्रवकण्ठधूमा मूर्च्छावमीमदशिरोरुजनप्रदेहाः । द्वेषः सुरान्नविकृतेषु च तेषु तेषु तत् पानविभ्रममुशन्त्यखिलेषु [धीराः](# " प्रदेहः कफेन लिप्तास्यता । सुरानविकृतेषु इति सुरासु सर्वासु मयेषु तथा अविकृते ! पिष्टकादिषु च ।") ॥**
+  **क्रुद्धेन भीतेन पिपासितेन शोकाभितप्तेन बुभुक्षितेन । व्यायामभाराध्यपरिक्षतेन वेगावरोधाभिहतेन चापि ॥ अत्यम्वुभक्षावततोदरेण साजीर्णभुक्तेन तथावलेन । उष्णाभितप्तेन च सेव्यमानं करोति मद्यं विविधान् विकारान् ॥ मदात्ययं परमद्दं मदाजीर्णमथापि वा मदविभ्रममुग्रञ्च तेषां वक्ष्यामि लक्षणम् ॥ हिक्काश्वासशिरःकम्पपार्श्वशूलप्रजागरैः । विद्याद्वहुप्रलापस्य वातप्रायं मदात्ययम् ॥ तृष्णादाहज्वरस्वेदमोहातिसारविभ्रमैः । विद्याद्धरितवर्णस्य पित्तप्रायं मदात्ययम् ॥ छर्दंयरोचकहल्लासतन्द्रास्तैमित्यगौरवैः । विद्याच्छीतपरीतस्य कफप्रायं मदात्ययम् ॥ ज्ञे यस्त्रिदोषजश्चापि सर्व्वलिङ्गै र्मदात्ययः । श्लेष्मोच्छ्रयोऽङ्गगुरुता विरसास्यता च विण्मूत्रसक्तिरथ तन्दिररोचकश्च । लिङ्गं परस्य च मदस्य वदन्ति तज्ज्ञास्तृष्णा रुजा शिरसि सन्धिषु चापि भेदः ॥ आध्मानमुग्रमथ चोद्रिरणं विदाहः पानेऽजरां समुपगच्छति लक्षणानि ॥ हृद्गात्त्रतोदकफसंस्त्रवकण्ठधूमा मूर्च्छावमीमदशिरोरुजनप्रदेहाः । द्वेषः सुरान्नविकृतेषु च तेषु तेषु तत् पानविभ्रममुशन्त्यखिलेषु धीराः[^23] ॥**
+
+[^23]: " प्रदेहः कफेन लिप्तास्यता । सुरानविकृतेषु इति सुरासु सर्वासु मयेषु तथा अविकृते ! पिष्टकादिषु च ।"
 
 
 
@@ -4804,7 +4850,9 @@ These evil effects are of four different kinds, viz:-
 
 **अथ मूर्च्छानिदानम् ।**
 
-  **क्षीणस्य वहुदोषस्य विरुद्धाहारसेविनः । वेगाघातादभीघातादीनसत्त्वस्य वा पुनः ॥ करणायतनेषूग्रा वाह्येष्वाभ्यन्तरेषु च । निविशन्ते यदा दोषास्तदा मूर्छन्ति मानवाः ॥ संज्ञावहासु नाड़ीषु पिहितास्वनिलादिभिः । तमोऽभ्युपैति सहसा सुखदुःखव्यपोहकृत् ॥ सुखदुःखव्यपोहाश्च नरः पतति काष्ठवत् । मोहो मूर्च्छेति तामाहुः सप्तधा सा प्रकीर्त्तिता ॥ वातादिभिः शोणितेन मद्येन च विषेण च । सप्तस्वेतासु पित्तन्तु प्रभूत्वेनावतिष्ठते ॥ हृत्पीड़ा जृम्भणं ग्लानिः संज्ञादौर्व्वल्यमेव च। सर्व्वासां पूर्व्वरूपाणि ययास्वञ्च विभावयेत् ॥ नीलं वा यदि वा कृष्णमाकाशमथवारुणम् । पश्यंस्तमः प्रविशति शीघ्रञ्च प्रतिबुध्यते ॥ वेपथुश्चाङ्गमर्द्दश्च प्रपीड़ा हृदयस्य च । कार्श्र्यं श्यावारुणा च्छाया मूर्च्छाये वातसम्भवे ॥ रक्तं हरितवर्णं वा वियत् पीतमथापि वा । पश्यंस्तमः प्रविशति सस्वेदश्च प्रवुध्यते ॥ सपिपासः ससन्तापो रक्तपोताकुलेक्षणः । संभिन्नवर्च्चाः पोताभो मूर्च्छाये पित्तसम्भवे ॥ मेघसङ्काशमाकाशमावृतं वा तमोघनैः । पश्यंस्तमः प्रविशति चिराश्च प्रतिवुध्यते ॥ गुरुभिः प्रावृतैरङ्गेयंथैषाद्रैण चर्म्मणा । सप्रसेकः सहलांसो मूर्च्छाये कफसम्भवे ॥ सर्व्वीकृतिः सन्निपातादपस्मार इवागतः । स जन्तु पातयत्याशु [विनावीभत्सचेष्टितैः](# "* बीभत्सचेष्टितः इति संरम्भः । भये अपस्मारनिदानं द्रष्टव्यम् ॥") ॥रक्तस्य दर्शनाद व्राणादपि मूर्च्छन्ति भीरवः । द्रव्यस्वभावमात्रं हि विज्ञेयं तत्र कारणम् ॥ मानसं मुह्यते तैक्ष्ययान् मद्यस्य गरलस्य च ॥ स्तब्धाङ्गदृष्टिस्त्वसृजा गूढोच्छ्रासश्र्च मूच्छितः ॥ मद्येन विलपञ्छेते नष्टविभ्रान्तमानसः । गात्राणि विक्षिपन् भूमौ****जरां यावन्न याति तत् ॥ वेपथुस्वप्नतृष्णाः स्यु स्तमश्च विषमूर्च्छिते \। वेदितव्यं तीव्रयरं यथास्वं विलक्षणः \।\।**
+  **क्षीणस्य वहुदोषस्य विरुद्धाहारसेविनः । वेगाघातादभीघातादीनसत्त्वस्य वा पुनः ॥ करणायतनेषूग्रा वाह्येष्वाभ्यन्तरेषु च । निविशन्ते यदा दोषास्तदा मूर्छन्ति मानवाः ॥ संज्ञावहासु नाड़ीषु पिहितास्वनिलादिभिः । तमोऽभ्युपैति सहसा सुखदुःखव्यपोहकृत् ॥ सुखदुःखव्यपोहाश्च नरः पतति काष्ठवत् । मोहो मूर्च्छेति तामाहुः सप्तधा सा प्रकीर्त्तिता ॥ वातादिभिः शोणितेन मद्येन च विषेण च । सप्तस्वेतासु पित्तन्तु प्रभूत्वेनावतिष्ठते ॥ हृत्पीड़ा जृम्भणं ग्लानिः संज्ञादौर्व्वल्यमेव च। सर्व्वासां पूर्व्वरूपाणि ययास्वञ्च विभावयेत् ॥ नीलं वा यदि वा कृष्णमाकाशमथवारुणम् । पश्यंस्तमः प्रविशति शीघ्रञ्च प्रतिबुध्यते ॥ वेपथुश्चाङ्गमर्द्दश्च प्रपीड़ा हृदयस्य च । कार्श्र्यं श्यावारुणा च्छाया मूर्च्छाये वातसम्भवे ॥ रक्तं हरितवर्णं वा वियत् पीतमथापि वा । पश्यंस्तमः प्रविशति सस्वेदश्च प्रवुध्यते ॥ सपिपासः ससन्तापो रक्तपोताकुलेक्षणः । संभिन्नवर्च्चाः पोताभो मूर्च्छाये पित्तसम्भवे ॥ मेघसङ्काशमाकाशमावृतं वा तमोघनैः । पश्यंस्तमः प्रविशति चिराश्च प्रतिवुध्यते ॥ गुरुभिः प्रावृतैरङ्गेयंथैषाद्रैण चर्म्मणा । सप्रसेकः सहलांसो मूर्च्छाये कफसम्भवे ॥ सर्व्वीकृतिः सन्निपातादपस्मार इवागतः । स जन्तु पातयत्याशु विनावीभत्सचेष्टितैः[^24] ॥रक्तस्य दर्शनाद व्राणादपि मूर्च्छन्ति भीरवः । द्रव्यस्वभावमात्रं हि विज्ञेयं तत्र कारणम् ॥ मानसं मुह्यते तैक्ष्ययान् मद्यस्य गरलस्य च ॥ स्तब्धाङ्गदृष्टिस्त्वसृजा गूढोच्छ्रासश्र्च मूच्छितः ॥ मद्येन विलपञ्छेते नष्टविभ्रान्तमानसः । गात्राणि विक्षिपन् भूमौ****जरां यावन्न याति तत् ॥ वेपथुस्वप्नतृष्णाः स्यु स्तमश्च विषमूर्च्छिते \। वेदितव्यं तीव्रयरं यथास्वं विलक्षणः \।\।**
+
+[^24]: "* बीभत्सचेष्टितः इति संरम्भः । भये अपस्मारनिदानं द्रष्टव्यम् ॥"
 
  
 
@@ -4948,7 +4996,9 @@ Diet, etc, in Sannya'sa.
 
 ## Their causes and symptoms.
 
- Moorchha' (fainting fit) is due to pittam and [tamas](# "*Indian philosophers attribute three different properties to mind, viz. sattwa (refinement, sobriety, wisdom, and consciousness), rajas (excitement, activity, and egoism), and tamas ( ignorance and absence of consciousness).").Vertigo is due to va'yu, pittam, and rajas. Drowsiness is due to tamas, va'yu, and kapha; and sleep is due to kapha and tamas.
+ Moorchha' (fainting fit) is due to pittam and tamas[^25], rajas (excitement, activity, and egoism), and tamas ( ignorance and absence of consciousness).").Vertigo is due to va'yu, pittam, and rajas. Drowsiness is due to tamas, va'yu, and kapha; and sleep is due to kapha and tamas.
+
+[^25]: "*Indian philosophers attribute three different properties to mind, viz. sattwa (refinement, sobriety, wisdom, and consciousness
 
    In vertigo, the whole body, and especially the head, appear to reel. Eevery thing, outside the patient, also appears to whirl round him. At the time he feels this sensation, he is unable to stand steadily on his legs.
 
@@ -5327,7 +5377,9 @@ Bhuta'nkusha rasa.
 
 ## Its causes and indications:-
 
-  If persons of low digestive power happen to take, generally, articles of food-stuff, injurious by combination (see page 9, Vol. IV), resort to unhealthy activities (such as physical and mental exercise in excess, sleeping in day-time, keeping late hours at night), remain idle, take physical exercise (without rest for the prescribed period of forty-eight minutes, at least) just after taking food cooked or mixed with fatty [substance,](# " *Physical excercise is ordinarily beneficial to those who take fatty food. What is objectionable is taking physical exercise before the fat is digested, partially at least. Physical exercise increases va yu which evaporates the fat if undigested.") the a'ma or undigested part of the chyle is carried away by the v'ayu or wind (growing increasingly in the stomach in the shape of gas due to fermentation of food) and deposit at places where phlegm is accumulated. The a'ma is thus putrefied in contact with the phlegm and is then carried through the arteries. This makes the a'ma again come in contact with va'yu, pittam, and kapha, and turn more putrefied. It pollutes, then, the fluid-carrying passages, assumes various colours, turns slippery, and causes weakness and heaviness of the heart, It is the root-cause of several diseases, and is not easily to be destroyed. In case the two things stated above, viz. a'ma and va'ya, get turbulent, they simultaneously enter into the inner part of the hip-joint or causes numbness in some parts of the body, giving rise to what is called a'maba'ta or rheumatism. The following are the general symptoms of rheumatism :- pain in the body, aversion to food, thirst, lethargy, heaviness of the body, fever, constant pain in the waist, swelling of the joints, inability to stand up and move properly, and especially, loss of power of digestion. It is most painful in its malignant state. In proportion to its virulence, it causes pain accompanied with swelling in the arms, feet, head, heels, hip-joints, and the knee-joints. These parts ache bitterly as after scorpionbite. The following also are the symptoms of this disease in its malignant state :-weakness of digesting power, discharge of water through the mouth and the nostrils, aversion to food, heaviness of the limbs, loss of enthusiasm, insipidity of taste, heating sensation, profuseness of urine, hardness of the abdomen, colic pain, reverse in the time of sleep. (i.e. sleepiness in day time, and want of sleep at night), thirst, vomiting, vertigo, swoon, pain in the heart, constipation, inertness, rumbling noise in the intestines, a'na'ha (see page 386, vol. IV), and other painful symptoms.
+  If persons of low digestive power happen to take, generally, articles of food-stuff, injurious by combination (see page 9, Vol. IV), resort to unhealthy activities (such as physical and mental exercise in excess, sleeping in day-time, keeping late hours at night), remain idle, take physical exercise (without rest for the prescribed period of forty-eight minutes, at least) just after taking food cooked or mixed with fatty substance,[^26] the a'ma or undigested part of the chyle is carried away by the v'ayu or wind (growing increasingly in the stomach in the shape of gas due to fermentation of food) and deposit at places where phlegm is accumulated. The a'ma is thus putrefied in contact with the phlegm and is then carried through the arteries. This makes the a'ma again come in contact with va'yu, pittam, and kapha, and turn more putrefied. It pollutes, then, the fluid-carrying passages, assumes various colours, turns slippery, and causes weakness and heaviness of the heart, It is the root-cause of several diseases, and is not easily to be destroyed. In case the two things stated above, viz. a'ma and va'ya, get turbulent, they simultaneously enter into the inner part of the hip-joint or causes numbness in some parts of the body, giving rise to what is called a'maba'ta or rheumatism. The following are the general symptoms of rheumatism :- pain in the body, aversion to food, thirst, lethargy, heaviness of the body, fever, constant pain in the waist, swelling of the joints, inability to stand up and move properly, and especially, loss of power of digestion. It is most painful in its malignant state. In proportion to its virulence, it causes pain accompanied with swelling in the arms, feet, head, heels, hip-joints, and the knee-joints. These parts ache bitterly as after scorpionbite. The following also are the symptoms of this disease in its malignant state :-weakness of digesting power, discharge of water through the mouth and the nostrils, aversion to food, heaviness of the limbs, loss of enthusiasm, insipidity of taste, heating sensation, profuseness of urine, hardness of the abdomen, colic pain, reverse in the time of sleep. (i.e. sleepiness in day time, and want of sleep at night), thirst, vomiting, vertigo, swoon, pain in the heart, constipation, inertness, rumbling noise in the intestines, a'na'ha (see page 386, vol. IV), and other painful symptoms.
+
+[^26]: " *Physical excercise is ordinarily beneficial to those who take fatty food. What is objectionable is taking physical exercise before the fat is digested, partially at least. Physical exercise increases va yu which evaporates the fat if undigested."
 
   In a'maba'ta, predominanee of pittam, va'yu, and kapha causes, respectively:- (a) sensation of heat and redness of the skin, (b) colic pain, and (c) numbness, heaviness, and itches.
 
@@ -5428,7 +5480,9 @@ Phalatrika'di lauham.
 
 ## Briddha-da'ra'dya lauham
 
- One part, each, of briddha-da' ra, roots of trivrit, danti, gajapippali, tuber of ma'na, trikatu, triphala', and trimada (i.e., roots of chitraka, mnsta', and [biranga](# " *Some physicians suggest “trijata” (i.e., guratwak, els ,  and tejpatra) in place of ")),and eight parts of iron are to be mixed together. This medicine cures rheumatism and other diseases.
+ One part, each, of briddha-da' ra, roots of trivrit, danti, gajapippali, tuber of ma'na, trikatu, triphala', and trimada (i.e., roots of chitraka, mnsta', and biranga[^27] in place of ")),and eight parts of iron are to be mixed together. This medicine cures rheumatism and other diseases.
+
+[^27]: " *Some physicians suggest “trijata” (i.e., guratwak, els ,  and tejpatra
 
 **अपर्णरञ्जन रसः ।**
 
@@ -6394,3 +6448,30 @@ V
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

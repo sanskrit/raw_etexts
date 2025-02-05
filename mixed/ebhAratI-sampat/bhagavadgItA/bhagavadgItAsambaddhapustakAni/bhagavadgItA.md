@@ -683,7 +683,9 @@ HERE THE BLESSED LORD'S SONG IS BEGUN.
 
 **Saṅjaya said :**
 
-Having seen arrayed the army of the Pâṇḍavas, the Râjâ Duryodhana approached his [teacher](# "Droṇa, the son of Bhâradvâja."),and spake these words: (2)
+Having seen arrayed the army of the Pâṇḍavas, the Râjâ Duryodhana approached his teacher[^1],and spake these words: (2)
+
+[^1]: "Droṇa, the son of Bhâradvâja."
 
 ** संजयः** Saṅjaya; **उवाच** said; **दृष्ट्वा** having seen; **तु** indeed; **पांडवानीकं** = **पांडवानां अनीकं** of the Pâṇḍavas, the army; **व्यूढं** arrayed; **दुर्योधनः** Duryodhana; **तदा** then; **आचार्यम्** the teacher; **उपसंगम्य** having approached; **राजा** the King (Duryodhana); **वचनम्** speech; **अब्रवीत्** said :
 
@@ -697,7 +699,9 @@ Having seen arrayed the army of the Pâṇḍavas, the Râjâ Duryodhana approac
 **अत्र शूरा महेष्वासा भीमार्जुनसमा युधि।  
 युयुधानो विराटश्च द्रुपदश्च महारथः॥४॥**
 
- Heroes are these, mighty bowmen, to Bhîma and Arjuna equal in battle; Yuyudhâna, Virâta, and Drupada of the great [car:](# "Technically, one able to fight alone ten thousand bowmen.") (4)  
+ Heroes are these, mighty bowmen, to Bhîma and Arjuna equal in battle; Yuyudhâna, Virâta, and Drupada of the great car:[^2] (4)  
+
+[^2]: "Technically, one able to fight alone ten thousand bowmen."
 
 
 
@@ -742,7 +746,9 @@ Draupadeyas; **च** and; **सर्व** all; **एव** even; **महार�
 **भवान्भीष्मश्च कर्णश्च कृपश्च समितिंजयः।  
 अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च॥८॥**
 
- Thou, lord and Bhîṣhma, and Karṇa, and Kṛipa, conquering in battle; Ashvatthâmâ, Vikarṇa, and [Saumadatti](# "The son of Somadatta.")also ; (8).
+ Thou, lord and Bhîṣhma, and Karṇa, and Kṛipa, conquering in battle; Ashvatthâmâ, Vikarṇa, and Saumadatti[^3]also ; (8).
+
+[^3]: "The son of Somadatta."
 
 ** भवान्** your honour; **भीष्मः** Bhîṣhma; **च** and; **कर्णः** Karṇa; **च** and; **कृपः** Kṛipa; **च** and; **समितिजयः** = **समिति जयति** assemblage, conquers; **अश्वत्थामा** Ashvatthâmâ; **विकर्णः** Vikarṇa; **च** and; **सौमदत्तिः** Sanmadatti; **तथा** thus; **एव** even; **च** and.
 
@@ -796,15 +802,21 @@ Draupadeyas; **च** and; **सर्व** all; **एव** even; **महार�
 
 
 
-Then, stationed in their great war-chariot, yoked to white horses, [Mâdhava](# "Shrî Kriṣhṇa.")and the son of [Pâṇḍu](# "Arjuna.")blew their divine conches, (14)
+Then, stationed in their great war-chariot, yoked to white horses, Mâdhava[^4]and the son of Pâṇḍu[^5]blew their divine conches, (14)
+
+[^4]: "Shrî Kriṣhṇa."
+
+[^5]: "Arjuna."
 
  **ततः** then **; श्वेतैः** (with ) white ; **हयैः** with horses; **युक्ते** (in) yoked ; **महति** (in) great ; **स्यंदने** in war-chariot; **स्थितौ** (two) standing; **माधवः** Mâdhava ; **पांडवः** the son of Pâṇḍu; **च** and; **एव** also ; **दिव्यौ** (two) divine; **शंखौ** (two) conches; **प्रदध्मतुः** (two ) blew .
 
 **पाचजन्यं हृषीकेशो देवदत्तं धनंजयः।  
 पौड्रंदध्मौ महाशंखं भीमकर्मा वृकोदरः॥१५॥**
 
- Pânchajanya by Hṛiṣhîkesha, and Devadatta by Dhanañjaya.³ [Vṛikodara](# "Bhîma ; the meaning of the name of his conch is doubtful."),
+ Pânchajanya by Hṛiṣhîkesha, and Devadatta by Dhanañjaya.³ Vṛikodara[^6],
 of terrible deeds, blew his mighty conch, Paundra ; (15)
+
+[^6]: "Bhîma ; the meaning of the name of his conch is doubtful."
 
  **पांचजन्यं** Pânchajanya ;**हृषीकेशः = हृषीकाणाम् ईशः** of the senses, the lord ; **देवदत्तं** Devadatta ; **धनंजयः = धनं जयति इति** wealth, wins, thus ; **पौड्रं** Paundra ; **दध्मौ**blew ; **महाशंखं** great conch ; **भीमकर्मा = भीमं कर्म यस्य सः** fearful, deed, whose, he; **वृकोदरः = वृकस्य इव उदरं यस्य सः** a wolf 's, like, stomach, whose, he.
 
@@ -830,7 +842,9 @@ of terrible deeds, blew his mighty conch, Paundra ; (15)
 **काश्यश्च परमेष्वासः शिखंडी च महारथः।  
 धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः॥१७॥**
 
- And [Kâshya](# "The King of Kâshî, the modern Benares."),of the great bow, and Shikhaṇḍî, the mighty car-warrior, Dhriṣhṭhadyumna and Virâṭa and Sâtyaki, the unconquered. (17)
+ And Kâshya[^7],of the great bow, and Shikhaṇḍî, the mighty car-warrior, Dhriṣhṭhadyumna and Virâṭa and Sâtyaki, the unconquered. (17)
+
+[^7]: "The King of Kâshî, the modern Benares."
 
  **काश्यः**Kâshya; **च** and ; **परमेष्वासः = परमः इष्वासः यस्य सः** excellent, bow, whose, he; **शिखंडी** Shikhaṇḍî; **च** and; **महारथः** great ear-warrior; **धृष्टद्युम्नः** Dhriṣhṭhadyumna; **विराटः** Virâṭa; **च** and; **सात्यकिः** Sâtyaki; **च** and; **अपराजितः** unconquered.
 
@@ -904,7 +918,9 @@ of terrible deeds, blew his mighty conch, Paundra ; (15)
 
 Sanjaya said:
 
- Thus addressed by [Guḍâkesha](# "Arjuna."),Hṛiṣhîkesha, O Bhârata, having stayed that best of chariots in the midst, between the two armies, (24)
+ Thus addressed by Guḍâkesha[^5],Hṛiṣhîkesha, O Bhârata, having stayed that best of chariots in the midst, between the two armies, (24)
+
+[^5]: "Arjuna."
 
  **एवम्** thus ; **उक्तः** addressed; **हृषीकेशः** Hṛiṣhîkesha**; गुडाकेशेन = गुड़ाकायाः** **ईशेन** of sleep, by the lord; **भारत** O Bhârata; **सेनयोः** of the (two) armies; **उभयोः** (of) both; **मध्ये** in the middle ; **स्थापयित्वा** having stayed; **रथोत्तमम्** = **रथानां उत्तमम्** of chariots, the best.
 
@@ -931,7 +947,9 @@ Sanjaya said:
 
 
 
-Seeing all these kinsmen, thus standing arrayed, [Kaunteya](# "The son of Kuntî, Arjuna."), (27)
+Seeing all these kinsmen, thus standing arrayed, Kaunteya[^9], (27)
+
+[^9]: "The son of Kuntî, Arjuna."
 
  **श्वशुरान्** fathers-in-law ; **सुहृदः** good-hearts; **च** and; **एव** also;**सेनयोः** in (two) armies; **उभयोः** (in) both; **अपि** also; **तान्** these; **समीक्ष्य** having seen; **सः** he; **कौंतेयः** Kannteya; **सर्वान्** all; **बंधून्** relatives; **अवस्थितान्** standing.
 
@@ -1278,7 +1296,9 @@ am thy disciple, suppliant to Thee ; teach me. (7)
 
 **The Blessed Lord said:**
 
- Thou grievest for those that should not be grieved for, yet speakest words of [wisdom](# "Words that sound wise but miss the deeper sense of wisdom."). The wise grieve neither for the living nor for the dead.(11)
+ Thou grievest for those that should not be grieved for, yet speakest words of wisdom[^10]. The wise grieve neither for the living nor for the dead.(11)
+
+[^10]: "Words that sound wise but miss the deeper sense of wisdom."
 
  **अशोच्यान्** unbewailable; **अन्वशोचः** hast bewailed; **त्वं**thon; **प्रज्ञावादान्** = **प्रज्ञायाः वादान्** of wisdom, words; **च**and; **भाषसे** speakest; **गतासून् = गताः असवः** **येषां तान्** gone, life-breaths, whose, those; **अगतासून्** not, gone, life-breaths, whose, those; **च** and; **न** not; **अनुशोचति** grieve; **पंडिताः** the wise.
 
@@ -1574,7 +1594,9 @@ ones, so the dweller in the body, casting off worn-out bodies, entereth into oth
 **नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते।  
 स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात्॥४०॥**
 
- In this there is no loss of effort, nor is there transgression. Even a little of this [knowledge](# "Dharma.")protects from great fear. (40)
+ In this there is no loss of effort, nor is there transgression. Even a little of this knowledge[^11]protects from great fear. (40)
+
+[^11]: "Dharma."
 
  **न** not; **इह** here; **अभिक्रमनाशः = अभिक्रमस्य नाशः** of effort, destruction; **अस्ति** is; **प्रत्यवायः** transgression; **न** not; **विद्यते** is; **स्वल्पम्** very little; **अपि** even; **अस्य** of this; **धमस्य** duty; **त्रायते** protects; **महतः**(from ) great; **भयात्** from fear.
 
@@ -1605,7 +1627,7 @@ ones, so the dweller in the body, casting off worn-out bodies, entereth into oth
 
 
 
-various ceremonies \[for the attainment of pleasure and lordship. (43)
+various ceremonies \for the attainment of pleasure and lordship. (43)
 
  **कामात्मानः = कामः आत्मा येषां ते** desire, soul, whose, they; **स्वर्गपराः = स्वर्गः परः येषां ते** heaven, highest, whose, they; **जन्मकर्मफलप्रदाम् = जन्म एव कर्मणः** **फलं (इव) प्रददाति तां** (re) birth, alone, of action, fruit, (as,) gives, that (which); **क्रियाविशेषबहुलां = क्रियाणां विशेषाः बहुलाः यस्यां तां** of actions, varieties, many, in which, that; **भोगैश्वर्यगतिं = भोगस्य च ऐश्वर्यस्य च गतिं**of enjoyment, and, of sovereignty, and, the gaining; towards (for the sake of).
 
@@ -1631,7 +1653,9 @@ various ceremonies \[for the attainment of pleasure and lordship. (43)
 **त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन।  
 निर्द्वंद्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान्॥४५॥**
 
- The Vedas deal with the three attributes¹; be thou above these three attributes, O Arjuna; beyond the pairs of opposites, ever steadfast in [purity](# " Sattva."),careless of possessions, full of the SELF. (45)
+ The Vedas deal with the three attributes¹; be thou above these three attributes, O Arjuna; beyond the pairs of opposites, ever steadfast in [purity[^12],careless of possessions, full of the SELF. (45)
+
+[^12]: " Sattva."
 
  **त्रैगुण्यविषयाः = त्रैगुण्यं विषयः येषां ते** the three attributes, subject-matter, whose, they; **वेदाः** (the) Vedas; **निस्त्रैगुण्यः** without the three attributes; **भव** be; **अर्जुन** O Arjuna; **निर्द्वद्वः**without the pairs (of opposites ); **नित्यसत्वस्थः = नित्यं सत्वे तिष्ठति इति** constantly, in sattva, (whoj dwells, thus; **निर्योगक्षेमः = न अस्ति योगः च क्षेमः च यस्य सः** not, is, earning, and, maintaining, and, whose, he; **आत्मवान्** full of the Self.
 
@@ -2312,7 +2336,9 @@ the senses, do thou slay this thing of sin, destructive of wisdom and knowledge.
 **इंद्रियाणि पराण्याहुरिंद्रियेभ्यः परं मनः।  
 मनसस्तु परा बुद्धिर्योबुद्धेः परतस्तु सः॥४२॥**
 
- It is said that the senses are great; greater than the senses is the mind; greater than the mind is the Reason; but what is greater than the Reason, is [HE](# "The Supreme.").(42)
+ It is said that the senses are great; greater than the senses is the mind; greater than the mind is the Reason; but what is greater than the Reason, is HE[^13].(42)
+
+[^13]: "The Supreme."
 
  **इंद्रियाणि** the senses; **पराणि** superior; **आहुः** (they) Bay; **इंद्रियेभ्यः** than the senses; **परं** superior; **मनः** mind; **मनसः** than the mind; **तु** indeed; **परा** superior; **बुद्धिः** the Reason; **यः** who; **बुद्धेः**than the Reason; **परतः** greater; **तु** indeed; **सः** he.
 
@@ -2631,7 +2657,9 @@ by sacrifice, thrown away, sins, whose, they.
 **एवं बहुविधा यज्ञा वितता ब्रह्मणो मुखे।  
 कर्मजान्विद्धि तार्न्सवानेवं ज्ञात्वा विमोक्ष्यसे॥३२॥**
 
- Many and various sacrifices are thus spread out before the [ETERNAL](# "“In the Vedas” is another interpretation."). Know thou that all these are born of action, and thus knowing thou shalt be free. (32)
+ Many and various sacrifices are thus spread out before the ETERNAL[^14]. Know thou that all these are born of action, and thus knowing thou shalt be free. (32)
+
+[^14]: "“In the Vedas” is another interpretation."
 
 
 
@@ -2704,7 +2732,9 @@ by sacrifice, thrown away, sins, whose, they.
 **योगसंन्यस्तकर्माणं ज्ञानसंछिन्नसंशयम्।  
 आत्मवंतं न कर्माणि निबध्नंति धनंजय॥४१॥**
 
- He who hath renounced action by yoga, who hath cloven asunder doubt by wisdom, who is ruled by the [SELF](# "Madhusûdana explains âtmarantam as “always watchful.”"), actions do not bind him, O Dhanañjaya, (41)
+ He who hath renounced action by yoga, who hath cloven asunder doubt by wisdom, who is ruled by the SELF[^15], actions do not bind him, O Dhanañjaya, (41)
+
+[^15]: "Madhusûdana explains âtmarantam as “always watchful.”"
 
  **योगसंन्यस्तकर्माणं = योगेन संन्यस्तं कर्म येन तं** by Yoga, renounced, action, by whom, him; **ज्ञानसंछिन्नसंशयम् = ज्ञानेन संछिन्नः संशयः यस्य सः** by knowledge, cut away, doubt, whose, him, **आत्मवंतं** possessing the Self; **न** not; **कर्माणि** actions ; **निबधंति** bind ; **धनंजय** O Dhanañjaya.
 
@@ -2839,7 +2869,9 @@ Children, not Sages, speak of the Sâṅkhya and Yoga as different; he who is d
 **सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी।  
 नवद्वारे पुरे देही नैव कुर्वन्न कारयन्॥१३॥**
 
-Mentally renouncing all actions, the sovereign dweller in the body resteth serenely in the nine-gated [city](# "The body, often called the eity of Brahman."), neither acting nor causing to act. (13)
+Mentally renouncing all actions, the sovereign dweller in the body resteth serenely in the nine-gated city[^16], neither acting nor causing to act. (13)
+
+[^16]: "The body, often called the eity of Brahman."
 
  **सर्वकर्माणि** all actions (as before); **मनसा** by the mind; **संन्यस्य** having abandoned; **आस्ते** sits; **सुखं** happy; **वशी** the ruler (of himself); **नवद्वारे** (in) the nine-gated; **पुरे** in the eity; **देही** the embodied; **न** not; **एव** even; **कुर्वन्** acting**; न** not; **कारयन्** causing action.
 
@@ -2885,7 +2917,9 @@ Mentally renouncing all actions, the sovereign dweller in the body resteth seren
 
 
 
-शुनि in (on a ) dog; च and; एव even; श्वपाके in (on an) [outcaste](# " श्वानं पचति, he who cooks, ie, eats a dog.");च and; पंडिताः paṇḍits; समदर्शिनः equal-seeing.
+शुनि in (on a ) dog; च and; एव even; श्वपाके in (on an) outcaste[^17];च and; पंडिताः paṇḍits; समदर्शिनः equal-seeing.
+
+[^17]: " श्वानं पचति, he who cooks, ie, eats a dog."
 
 **इहैव तैर्जितः सर्गोयेषा साम्ये स्थितं मनः।  
 निर्दोषं हि समं ब्रह्म तस्माद्ब्रह्मणि ते स्थिताः॥१९॥**
@@ -3570,7 +3604,9 @@ THE YOGA OF SELF-SUBDUAL.
 **बहूनां जन्मनामंते ज्ञानवान्मा प्रपद्यते।  
 वासुदेवः सर्वमिति स महात्मा सुदुर्लभः॥१९॥**
 
- At the close of many births the man full of wisdom cometh unto Me: “[Vâsudeva](# " A name for Shrî Kṛiṣhṇa, as the son of Vasudeva.")is all,”saith he, the Mahâtmâ, very difficult to find. (19)
+ At the close of many births the man full of wisdom cometh unto Me: “Vâsudeva[^18]is all,”saith he, the Mahâtmâ, very difficult to find. (19)
+
+[^18]: " A name for Shrî Kṛiṣhṇa, as the son of Vasudeva."
 
 ** बहूनां** (of) many; **जन्मनाम्** of births; **अन्ते** in (at) the end; **ज्ञानवान्** the knowledge-possessor; **मां** to me; **प्रपद्यते** approaches; वासुदेवः Vâsudeva; **सर्वम्** all; **इति** thus; **सः** he; **महात्मा=महान् आत्मा यस्य सः** great, seif, whose, he; **सुदुर्लभः** very-hardly-obtained.
 
@@ -3666,7 +3702,9 @@ taken refuge in; **यतंति** strive; **ये** who; **ते** they; **
 **साधिभूताधिदैवं मां साधियज्ञं च ये विदुः।  
 प्रयाणकालेऽपि च मां ते विदुर्युक्तचेतसः॥३०॥**
 
- They who know Me as the knowledge of the Elements, as that of the Shining Ones, and as that of the Sacrifice, they, harmonised in mind, know Me verily even in the time of [forthgoing](# " Death—going forth from the body.").(30)
+ They who know Me as the knowledge of the Elements, as that of the Shining Ones, and as that of the Sacrifice, they, harmonised in mind, know Me verily even in the time of forthgoing[^19].(30)
+
+[^19]: " Death—going forth from the body."
 
  **साधिभूताधिदैवं=अधिभूतेन च अधिदैवेन च सह** with the adhibhuta (concerning the elements), and, with the adhidaiva (concerning the gods), together; **साधियज्ञं=अधियज्ञेन सह** with the adhiyajña (concerning the sacrifice), together; **मां** me; **च** and; **ये** who; **विदुः** know; **प्रयाणकाले=प्रयाणस्य काले** of going-forth, in the time; **अपि** also; **च** and; **मां** me; **ते** they; **विदुः** know; **युक्तचेतसः=युक्तं चेतः येषाम् ते** balanced, mind, whose, they.
 
@@ -3794,7 +3832,9 @@ breath; **आवेश्य** having placed; **सम्यक्** together; *
 **सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च।  
 मूर्ध्न्याधायात्मनः प्राणमास्थितो योगधारणाम्॥१२॥**
 
- All the [gates](# "The gates of the body, i. e., the sense organs.")closed, the mind confined in the heart, the life-breath fixed in his own head, concentratedby yoga,(12)
+ All the gates[^20]closed, the mind confined in the heart, the life-breath fixed in his own head, concentratedby yoga,(12)
+
+[^20]: "The gates of the body, i. e., the sense organs."
 
  **सर्वद्वाराणि=सर्वाणि द्वाराणि** all gates; **संयम्य** having con-
 
@@ -3879,7 +3919,9 @@ trolled; **मनः** mind; **हृदि** in the heart; **निरुध्
 
 **यस्यांतः स्थानि भूतानि येन सर्वमिदं ततम्॥२२॥**
 
- He, the highest Spirit, O Pârtha, may be reached by unswerving devotion to Him alone, in whom all beings abide, by whom all [This](# "This, the universe, in opposition to THAT, the source of all.")is pervaded.(22)
+ He, the highest Spirit, O Pârtha, may be reached by unswerving devotion to Him alone, in whom all beings abide, by whom all This[^21]is pervaded.(22)
+
+[^21]: "This, the universe, in opposition to THAT, the source of all."
 
  **पुरुषः** spirit; **सः** He; **परः** highest; **पार्थ**O Pârtha; **भक्त्या** by devotion; **लभ्यः** obtainable; **तु** indeed; **अनन्यया** without another (object); **यस्य** of whom; **अंतःस्थानि=अंतः तिष्ठंति इति तानि** inside. stand, thus, they; **भूतानि** beings; **येन** by whom; **सर्वम्** all; **इदम्** this; **ततम्** spread out.
 
@@ -3904,7 +3946,9 @@ months of the northern path—then. going forth, the men who know the ETERNAL go
 **धूमो रात्रिस्तथा कृष्णः षण्मासा दक्षिणायनम्।  
 तत्र चाद्रमसं ज्योतिर्योगी प्राप्य निवर्तते॥२५॥**
 
- Smoke, night-time, the dark fortnight also, the six months of the southern path—then the Yogî, obtaining the [moonlight](# "The lunar, or astral, body. Until this is slain the soul returns to birth."), returneth. (25)
+ Smoke, night-time, the dark fortnight also, the six months of the southern path—then the Yogî, obtaining the moonlight[^22], returneth. (25)
+
+[^22]: "The lunar, or astral, body. Until this is slain the soul returns to birth."
 
  **धूमः** smoke; **रात्रिः** night; **तथा** so; **कृष्णः** dark (fortnight); **षण्मासा** six months; **दक्षिणायनम्** the southern going (of the sun); **तत्र** there; **चांद्रमसं = चंद्रमसः इदं** of the moon, this; **ज्योतिः** light; **योगी** the yogî; **प्राप्य** having obtained; **निवर्तते** returns.
 
@@ -4129,7 +4173,9 @@ porter, the Grandsire, the Holy One to be known, the Word of Power, and also the
 
 **गतागतं कामकामा लभंते॥२१॥**
 
- They, having enjoyed the spacious heaven-world, their holiness withered, come back to this world of death. Following the virtues enjoined by the [three](# "The three Vedas."), desiring desires, they obtain the transitory. (21)
+ They, having enjoyed the spacious heaven-world, their holiness withered, come back to this world of death. Following the virtues enjoined by the three[^23], desiring desires, they obtain the transitory. (21)
+
+[^23]: "The three Vedas."
 
  **ते** they; **तं** that; **भुक्त्वा** having enjoyed; **स्वर्गलोकं** svarga-world; **विशालं** vast; **क्षीणे** (in the state of being) withered; **पुण्ये** (in) merit; **मर्त्यलोकं = मर्त्यानां लोकं** of mortals, the world; **विशंति** enter; **एवं** thus; **त्रयीधर्म = त्रय्याः धर्मं**, of the three (Vedas), the duty; **अनुप्रपन्नाः** devoted (to); **गतागतम् = गतं च आगतम् च** going, and, coming, and; **कामकामाः** **= कामानाम् कामः येषाम् ते** of (objects of) desire, desire, whose, they; **लभंते** obtain.
 
@@ -4300,7 +4346,9 @@ giving, fame and obloquy, are the various characteristics of beings issuing from
 **महर्षयः सप्त पूर्वे चत्वारो मनवस्तथा।  
 मद्भावा मानसा जाता येषां लोक इमाः प्रजाः॥६॥**
 
- The seven great Ṛiṣhis, the ancient [Four](# "The four Kumâras, or Virgin Youths, the highest in the occult Hierarchy of this earth."), and also the Manus, were born of My nature and mind; of them this race was generated. (6)
+ The seven great Ṛiṣhis, the ancient Four[^24], and also the Manus, were born of My nature and mind; of them this race was generated. (6)
+
+[^24]: "The four Kumâras, or Virgin Youths, the highest in the occult Hierarchy of this earth."
 
  **महर्षयः** the great ṛiṣhis; **सप्त** seven; **पूर्वे** ancient; **चत्वारः** four; **मनवः** manus; **तथा** also; **मद्भावाः = मयिभावो येषां ते** in me, being, whose, they; **मानसाः** mental; **जाताः** born; **येषाम्** of whom; **लोके** in world; **इमाः** these; **प्रजाः** races.
 
@@ -4529,7 +4577,9 @@ am; **स्रोतसां** of streams; **अस्मि** (I) am; **ज�
 **अक्षराणामकारोऽस्मि द्वंद्वः सामासिकस्य च।  
 अहमेवाक्षयः कालो धाताऽहं विश्वतोमुखः॥३३॥**
 
- Of letters the letter A I am, and the dual of all the [compounds](# "Among the various kinds of compounds used in Saṃskrit, that called the dvandva, the copulative."); I also everlasting Time; I the Supporter, whose face turns everywhere. (33)
+ Of letters the letter A I am, and the dual of all the compounds[^25]; I also everlasting Time; I the Supporter, whose face turns everywhere. (33)
+
+[^25]: "Among the various kinds of compounds used in Saṃskrit, that called the dvandva, the copulative."
 
  **अक्षराणां** of letters; **अकारः** the letter A; **अस्मि** (I) am; **द्वंद्वः** the dvandva; **सामासिकस्य** **= समासानाः समूहः तस्य** of compounds, the group of that; **च** and; **अहं** I; **एव** even; **अक्षयः** everlasting; **कालः** time; **धाता** the supporter; **अहं** I; **विश्वतोमुखः** having faces in every direction.
 
@@ -5509,7 +5559,9 @@ content with what cometh, homeless, firm in mind, full of devotion, that man is 
 **अर्जुन उवाच।**
 
 **प्रकृतिं पुरुषं चैव क्षेत्रं क्षेत्रज्ञमेव च।  
-ऐतद्वेदितुमिच्छामि ज्ञानं ज्ञेयं च [केशव](# "This verse is omitted in many editions,")॥**
+ऐतद्वेदितुमिच्छामि ज्ञानं ज्ञेयं च केशव[^26]॥**
+
+[^26]: "This verse is omitted in many editions,"
 
 **Arjuna said :**
 
@@ -5564,7 +5616,9 @@ content with what cometh, homeless, firm in mind, full of devotion, that man is 
 **इच्छा द्वेषः सुखं दुःखं संघातश्चेतना धृतिः।  
 एतत्क्षेत्रं समासेन सविकारमुदाहृतम्॥६॥**
 
- Desire, aversion, pleasure, pain, [combination](# " The body."),intelligence, firmness, these, briefly described, constitute the Field and its modifications.(6)
+ Desire, aversion, pleasure, pain, combination[^27],intelligence, firmness, these, briefly described, constitute the Field and its modifications.(6)
+
+[^27]: " The body."
 
 
 
@@ -6485,7 +6539,9 @@ born ; **सात्विकी** sâtvic; **राजसी** râjasic; **च
 **सत्वानुरूपा सर्वस्य श्रद्धा भवति भारत ।  
 श्रद्धामयोऽयं पुरुषो यो यच्छ्रद्धः स एव सः॥३‌॥**
 
-  The faith of each is shaped to his own nature, O Bhârata. The man consists of his [faith](# "That is, the man's faith shows what is the man's character.");that which his faith is, he is even that. (3)
+  The faith of each is shaped to his own nature, O Bhârata. The man consists of his faith[^28];that which his faith is, he is even that. (3)
+
+[^28]: "That is, the man's faith shows what is the man's character."
 
 **  सत्त्वानुरूपा = सत्त्वस्य अनुरूपा** of the being, following the form; (according to) **सर्वस्य** of all; **श्रद्धा** faith; **भवति** is; **भारत** O Bhârata; **श्रद्धामयः** faith-formed; **अयं** this; **पुरुषः** man; **यः** who; **यच्छ्रद्धः या श्रद्धा यस्य सः** whatever, faith, whose, he; **सः** that; **एव** even, **सः** he.
 
@@ -7866,3 +7922,37 @@ PEACE BE TO ALL WORLDS.
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^8]: "Arjuna."

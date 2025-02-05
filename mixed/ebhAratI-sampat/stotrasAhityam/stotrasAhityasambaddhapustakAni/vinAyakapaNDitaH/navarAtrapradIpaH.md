@@ -42,7 +42,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQwMTg2MzEzNTY
 
 **FOREWORD**
 
- The following pages represent the text of a work on Dharmasāstra by the great Nanda *alias* Vināyaka Pandit of the Dharmādhikārī family of Benares. The work deals with certain [details](# "These details bear upon the determination of the tithis. So far as the Pratipat is concerned the author is in favour, when it is not available in its purity, of it being connected with Amā rather than with Dvitīyā. The Navarātra Vrata is held by him to be a species of “Nakta Vrata.” Regarding the Pāraṇā day the author prefers the Navami against the Das’ami as in the opinion of Kamalākara Bhatta, Raghunandana & others.The Navami view is supported by Ananta Deva (Smṛtikaustabha) & others.")connected with the observance of the Navaratra rites. These details have been well brought out in the Sanskrit Introduction prefixed to the work & need not be repeated here.
+ The following pages represent the text of a work on Dharmasāstra by the great Nanda *alias* Vināyaka Pandit of the Dharmādhikārī family of Benares. The work deals with certain details[^1] & others.")connected with the observance of the Navaratra rites. These details have been well brought out in the Sanskrit Introduction prefixed to the work & need not be repeated here.
+
+[^1]: "These details bear upon the determination of the tithis. So far as the Pratipat is concerned the author is in favour, when it is not available in its purity, of it being connected with Amā rather than with Dvitīyā. The Navarātra Vrata is held by him to be a species of “Nakta Vrata.” Regarding the Pāraṇā day the author prefers the Navami against the Das’ami as in the opinion of Kamalākara Bhatta, Raghunandana & others.The Navami view is supported by Ananta Deva (Smṛtikaustabha
 
  The author lived in Benares in the 17th Century of the Christian era & was universally respected as the leading pandit of the age in Northern India, specially on questions connected with Hindu Law. He was the author of several works, mostly on Dharma S’āstra, the only exception being his Mādhavānanda Mahākāvya. His ancestor Pandit Lakṣmīdhara, a Māhārāṣtra Brāhmana of the Mudgala family, was one of the most celebrated scholars of Bidar in Southern India & was recipient of high honours from the Emperor of Delhi. He was recognised in those days as the highest & final authority on Hindu Law. His younger son Govinda migrated to Benares, on the death of his elder son S’rī Kṛṣṇa, together with the latter’s in–
 
@@ -62,7 +64,9 @@ fant son Mahīpati. The author of the present work is the great grand-son of thi
 
 
 
-stra learning and that it has been a Vaiṣṇava family with Rāmachandra as its family deity. A list of Nanda Pandit’s works has been supplied in the Sanskrit Introduction, to which may be added the name of Māmsamīmāṇsā,[a work](# "This work should be distinguished from works on the same subject by Viśvanātha Nyāyapanchānana and others.") mentioned in his own S’rāddhakalpalatā.
+stra learning and that it has been a Vaiṣṇava family with Rāmachandra as its family deity. A list of Nanda Pandit’s works has been supplied in the Sanskrit Introduction, to which may be added the name of Māmsamīmāṇsā,a work[^2] mentioned in his own S’rāddhakalpalatā.
+
+[^2]: "This work should be distinguished from works on the same subject by Viśvanātha Nyāyapanchānana and others."
 
   GOVT. SANSKRIT COLLEGE,      }     GOPINATH KAVIRAJ.  
     Benares.
@@ -3133,3 +3137,5 @@ stra learning and that it has been a Vaiṣṇava family with Rāmachandra as it
 
 
 \]
+
+

@@ -52,7 +52,7 @@ of the Pudukkottai State Service.
 विजयतेतराम् ॥  
 श्रीरस्तु ।
 
-मूल्यं पादरूप्यकम् \]  १९०६  \[Price Ans. 4.
+मूल्यं पादरूप्यकम् \]  १९०६  \Price Ans. 4.
 
 ——
 
@@ -65,7 +65,9 @@ PREFACE.
 
   Swaramelakâlanidhi seems to have been once a popular book. Manuscript copies of the work have been preserved in many libraries of books on Music in several parts of India; but as these are not easily available to the public, the book has been printed so as to make it accessible to all.
 
-  Râmâmâtya, the author of the book, was a Niyogi Brahmin of the Todaramalla family, which was once well-known in and about Rajamundri, but is said to be now extinct. His father was one Timmâmâtyâ, of whom very little is known. Râmâmâtya seems to have been a distinguished musician and composer (vâggeyakâra) and earned by his proficiency in the science and art of Music the title of Abhinava Bharatâchârya or ‘the modern Bharata.’Among his musical compositions are mentioned ‘Râgakadambakam’, of which the several portions are to be composed in different râgas; ‘Panchatâlesvaram' of which the different parts are to be adapted to the once prevalent five original \* [tálas](# "These five talas are said to have proceeded from the five faces of Sankara"); Svarânkam, Mátrikâ, Srîràngam, Srîvilâsam, &c, for the composition of which prabandhas elaborate rules are laid down in Sangitaralnákara, the standard treatise on Hindu Music. Râmâmâtya lived in the sixteenth century and was a minister of Râma Râja, the ill-fated king of Vijianagar that was defeated and slain in 1565 at Talikota. The minister was held in great respect by the king, from whom he received the grant of a large estate on the Coromandel Coast and a fort in the principality of Kondavîdu (near Guntur) that was then subject to Vijianagar. None of the works montioned above seem to have been preserved anywhere.
+  Râmâmâtya, the author of the book, was a Niyogi Brahmin of the Todaramalla family, which was once well-known in and about Rajamundri, but is said to be now extinct. His father was one Timmâmâtyâ, of whom very little is known. Râmâmâtya seems to have been a distinguished musician and composer (vâggeyakâra) and earned by his proficiency in the science and art of Music the title of Abhinava Bharatâchârya or ‘the modern Bharata.’Among his musical compositions are mentioned ‘Râgakadambakam’, of which the several portions are to be composed in different râgas; ‘Panchatâlesvaram' of which the different parts are to be adapted to the once prevalent five original \* [tálas[^1]; Svarânkam, Mátrikâ, Srîràngam, Srîvilâsam, &c, for the composition of which prabandhas elaborate rules are laid down in Sangitaralnákara, the standard treatise on Hindu Music. Râmâmâtya lived in the sixteenth century and was a minister of Râma Râja, the ill-fated king of Vijianagar that was defeated and slain in 1565 at Talikota. The minister was held in great respect by the king, from whom he received the grant of a large estate on the Coromandel Coast and a fort in the principality of Kondavîdu (near Guntur) that was then subject to Vijianagar. None of the works montioned above seem to have been preserved anywhere.
+
+[^1]: "These five talas are said to have proceeded from the five faces of Sankara"
 
   From the colophon+ at the end of the book, it will be found that the book was completed in the Srâvana month of
 
@@ -1215,3 +1217,4 @@ THE EDITOR.
 
 
 \]
+

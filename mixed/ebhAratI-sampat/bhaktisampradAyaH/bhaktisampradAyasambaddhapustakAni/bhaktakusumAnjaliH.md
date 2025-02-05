@@ -2326,7 +2326,15 @@ ness of Sringeri, though his fame was eclipsed bythe glory of his disciple Vidya
 
 sought blessings from the Guru and got thosetreasures, and they were urged to found the cityas the capital of an empire.
 
- The above story is pieced together for the firsttime from the data of the [*Rajakalanirnaya*](# "Madras Oriental Mss. No 12772.")****ofVidyaranya and the [Chronicles](# "Elliot and Dowson: Vol. III. pp. 245, 246, 614.") of Barni and IbnBatuta, and of [Nuniz](# "Sewell: A Forgotton Empire, pp. 293—295."). The Rajah of Kampili"fled for shelter to a fortress called Crynamatawhich was by the bank of the river and containedmuch provision and water." Five thousand mensecreted the property here. Sewell has consideredit possible that the first syllable represents the wordSri. I identify Crynamata with Srnga Matha.I also restore *Kampili* from Kambala of Barni'sprinted text, as Elliot has noted that the Mss. have*Kambila* which is Ibn Batuta's spelling for Kampili.The name of the Kampili Rajah is [Ramanatha](# "The Mysore Archaeological Survey Report wonders who this Ramanatha was!"),according to Nuniz and *Raja Paddhati*. He wascanonised and his is the Samadhi temple at Sringerinear that of Vidya Sankara. The event belongsto the year 1336. Vijayanagar was founded, andHarihara crowned on the 7th May 1337**¹**
+ The above story is pieced together for the firsttime from the data of the *Rajakalanirnaya*[^1]****ofVidyaranya and the Chronicles[^2] of Barni and IbnBatuta, and of Nuniz[^3]. The Rajah of Kampili"fled for shelter to a fortress called Crynamatawhich was by the bank of the river and containedmuch provision and water." Five thousand mensecreted the property here. Sewell has consideredit possible that the first syllable represents the wordSri. I identify Crynamata with Srnga Matha.I also restore *Kampili* from Kambala of Barni'sprinted text, as Elliot has noted that the Mss. have*Kambila* which is Ibn Batuta's spelling for Kampili.The name of the Kampili Rajah is Ramanatha[^4],according to Nuniz and *Raja Paddhati*. He wascanonised and his is the Samadhi temple at Sringerinear that of Vidya Sankara. The event belongsto the year 1336. Vijayanagar was founded, andHarihara crowned on the 7th May 1337**¹**
+
+[^1]: "Madras Oriental Mss. No 12772."
+
+[^2]: "Elliot and Dowson: Vol. III. pp. 245, 246, 614."
+
+[^3]: "Sewell: A Forgotton Empire, pp. 293—295."
+
+[^4]: "The Mysore Archaeological Survey Report wonders who this Ramanatha was!"
 
 **![](../books_images/U-IMG-1734184455line.jpg)**
 
@@ -2348,17 +2356,33 @@ sought blessings from the Guru and got thosetreasures, and they were urged to fo
 
 Yasya nisvasitam vedah yo vedebhyokhilam jagatNirmame tamaham vande VidyatirthamahesvaramYat katakshena tad rupam vahat Bukkamahipatih.
 
- His real name was Srikantha as he is styled inthe Bitragunta [grant](# "Epigraphica Indica, III, 23."). In his *Rudra PrasnaBhashya*, popularly attributed to Vidyaranya, hesays he was the Sishya of Paramatmatirtha, Hischief works are *Taittiriyakasara*, *Kalanirnaya*,wrongly attributed to Vidyaranya, and Panchadasiprakarana, which he composed with his pupilVidyaranya. R. Narasimhachar has caused confusion by taking Vidyatirtha, Bharatitirtha andSrikantha as different [persons](# "Indian Antiquary for 1916, p. 3."). It is thereforenecessary to state in the Kalanirnaya of [Bharatitirtha](# "Ms. in the Oriental Library, Mysore.")the opening sloka identifies the author withVidyatirtha (*Vidyatirtham Bharatitirtham-ahuh*).In the *Parasara Madhaviya* all the three names[occur](# "Cf. also E. C. Mulb. 11."). Prominence is given to Srikantha by Sayana(*hridi bhaje Srikantham avyahatam*) by Bhoganatha (*Srikanthascha guruh parepi guravah* in the*Ganapati Stotra*) and by [Vidyaranya](# "Anubhutiprakasika")who callsVidyatirtha his mukhyaguru, and gives the highestplace to Srikantha in arranging the names. Sayanasays his guru was [Srikanthanatha](# "Arulala Parumal temple Inscription, E.I. III. 118."). The scoffing
+ His real name was Srikantha as he is styled inthe Bitragunta grant[^5]. In his *Rudra PrasnaBhashya*, popularly attributed to Vidyaranya, hesays he was the Sishya of Paramatmatirtha, Hischief works are *Taittiriyakasara*, *Kalanirnaya*,wrongly attributed to Vidyaranya, and Panchadasiprakarana, which he composed with his pupilVidyaranya. R. Narasimhachar has caused confusion by taking Vidyatirtha, Bharatitirtha andSrikantha as different persons[^6]. It is thereforenecessary to state in the Kalanirnaya of Bharatitirtha[^7]the opening sloka identifies the author withVidyatirtha (*Vidyatirtham Bharatitirtham-ahuh*).In the *Parasara Madhaviya* all the three namesoccur[^8]. Prominence is given to Srikantha by Sayana(*hridi bhaje Srikantham avyahatam*) by Bhoganatha (*Srikanthascha guruh parepi guravah* in the*Ganapati Stotra*) and by Vidyaranya[^9]who callsVidyatirtha his mukhyaguru, and gives the highestplace to Srikantha in arranging the names. Sayanasays his guru was Srikanthanatha[^10]. The scoffing
+
+[^5]: "Epigraphica Indica, III, 23."
+
+[^6]: "Indian Antiquary for 1916, p. 3."
+
+[^7]: "Ms. in the Oriental Library, Mysore."
+
+[^8]: "Cf. also E. C. Mulb. 11."
+
+[^9]: "Anubhutiprakasika"
+
+[^10]: "Arulala Parumal temple Inscription, E.I. III. 118."
 
 
 
 remark of Bhoganatha could only mean that othergurus of the day were not fit to hold the candlebefore Srikantha, which would be a great insult toVidyatirtha, who is always referred to with sincererespect, if the two were different.
 
- The Punyaslokamanjari and *Jagadgururatnamalika* of [Kanchipura](# " Cited by me in J. R. A. S. for 1916.")have preserved traditions ofthe gurusof the mathas there. Vidyatirtha comesin for conspicuous mention there also, and he is saidto have had eight great disciples. His secular nameis there given as Sarvajna Vishnu, son of Sarngapani, Sayana Madhava the author of the *Sarvadarsana Sangraha* tells us that his *guru* was Sarvajna Vishnu son of Sarngapani. Chennu Bhattathe author of the *Tarkabhasha Vyakhya* tells usthat he was a younger brother of Sarvajna, and theson of *Sahaja* Sarvajna Vishnu. *Sankara Darsana*quotes from Sahaja Sarvajna Vishnu Bhattopadhyaya. Sanskrit scholars who have till nowdiscussed the subject have over-looked the significance of the prefix *Sahaja* to Sarvajna Vishnu.It evidently shows that he was the brother, probablya younger brother, of a much greater man wellknown in his day. There is nothing against the viewthat he was the younger brother of Vidyatirtha.This accounts for the confusion in the *Punyasloka*-
+ The Punyaslokamanjari and *Jagadgururatnamalika* of Kanchipura[^11]have preserved traditions ofthe gurusof the mathas there. Vidyatirtha comesin for conspicuous mention there also, and he is saidto have had eight great disciples. His secular nameis there given as Sarvajna Vishnu, son of Sarngapani, Sayana Madhava the author of the *Sarvadarsana Sangraha* tells us that his *guru* was Sarvajna Vishnu son of Sarngapani. Chennu Bhattathe author of the *Tarkabhasha Vyakhya* tells usthat he was a younger brother of Sarvajna, and theson of *Sahaja* Sarvajna Vishnu. *Sankara Darsana*quotes from Sahaja Sarvajna Vishnu Bhattopadhyaya. Sanskrit scholars who have till nowdiscussed the subject have over-looked the significance of the prefix *Sahaja* to Sarvajna Vishnu.It evidently shows that he was the brother, probablya younger brother, of a much greater man wellknown in his day. There is nothing against the viewthat he was the younger brother of Vidyatirtha.This accounts for the confusion in the *Punyasloka*-
+
+[^11]: " Cited by me in J. R. A. S. for 1916."
 
 
 
-manjari which was perhaps followed by [Hall](# "Index to the Bibliography of the Ind. Philosophical system p. 8."). Ifso vidyatirtha would be the son of Sarngapani;and Chennu Bhatta who enjoyed the patronageof Harihara II, would be a younger son of theyounger brother of Vidyatirtha.
+manjari which was perhaps followed by Hall[^12]. Ifso vidyatirtha would be the son of Sarngapani;and Chennu Bhatta who enjoyed the patronageof Harihara II, would be a younger son of theyounger brother of Vidyatirtha.
+
+[^12]: "Index to the Bibliography of the Ind. Philosophical system p. 8."
 
  But the greatest scion of his house was hissuccessor in the *Vedasantati* or *Vidyavamsa*, viz.,Vidyaranya, whose greatness pervades almost everybranch of Hindu Culture and whose name is ahousehold word.
 
@@ -2941,3 +2965,15 @@ Bangalore.\]
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+

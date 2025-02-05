@@ -144,7 +144,9 @@ PREFACE.
 
 Soon after I was appointed Professor of Sanskrit and Comparative Philology in the Presidency College at Madras, and in that capacity took charge of the office of the Curator of the Government Oriental Manuscripts Library, the late Mr. G. H. Stuart, who was then the Director of Public Instruction, asked me to find out if in the Manuscripts Library in my charge there was any work of value capable of throwing new light on the history of Hindu mathematics, and to publish it, if found, with an English translation and with such notes as were necessary for the elucidation of its contents. Accordingly the mathematical manuscripts in the Library were examined with this object in view; and the examination revealed the existence of three incomplete manuscripts of Mahāvīrācārya's *Gaṇita-sāra-saṅgraha*. A cursory perusal of these manuscripts made the value of this work evident in relation to the history of Hindu Mathematics. The late Mr. G. H. Stuart's interest in working out this history was so great that, when the existence of the manuscripts and the historical value of the work were brought to his notice, he at once urged me to try to procure other manuscripts and to do all else that was necessary for its proper publication. He gave me much advice and encouragement in the early stages of my endeavour to publish it; and I can well guess how it would have gladdened his heart to see the work published in the form he desired. It has been to me a source of very keen regret that it did not please Providence to allow him to live long enough to enable me to enhance the value of the publication by means of his continued guidance and advice; and my consolation now is that it is something to have been able to carry out what he with scholarly delight imposed upon me as a duty.  
 Of the three manuscripts found in the library one is written on paper in Grantha characters, and contains the first five chapters of the work with a running commentary in Sanskrit; it has been denoted here by the letter P. The remaining two are palm-leaf manuscripts in Kanarese characters, one of them containing, like P, the first five chapters, and the other the seventh chapter dealing with the geometrical measurement of areas. In both these manuscripts there is to be found, in addition to the Sanskrit text of the original work, a brief statement in the Kanarese language of the figures relating to the various illustrative problems as also of the answers to those same problems. Owing to the common characteristics of those manuscripts and also owing to their not overlapping one another in respect of their contents, it has been thought advisable to look upon them as one manuscript and denote them by K. Another manuscript, denoted by M, belongs to the Government Oriental Library at Mysore, and was received on loan from Mr. A. Mahadeva Sastri, B.A., the Curator of that institution. This manuscript is a transcription on paper in Kanarese characters of an original palm-leaf manuscript belonging to a Jaina Pandit, and contains the whole of the work with a short commentary in the Kanarese language by one Vallabha, who claims to be the author of also a Telugu commentary on the same work. Although incorrect in many places, it proved to be of great value on account of its being complete and containing the Kanarese commentary; and my thanks arespecially due to Mr. A. Mahadeva Sastri for his leaving it sufficiently long at my disposal. A fifth manuscript, denoted by B, is a transcription on paper in Kanarese characters of a palm-leaf manuscript found in a Jaina monastery at Mudbidri in South Canara, and was obtained through the kind effort of Mr. R. Krishnamacharyar, M.A., the Sub-assistant Inspector of Sanskrit Schools in Madras, and Mr. U. B. Venkataramanaiya of Mudbidri. This manuscript also contains the whole work, and gives, like K, in Kanarese a brief statement of the problems and their answers. The endeavour to secure more manuscripts having proved fruitless, the work has had to be brought out with the aid of these five manuscripts; and owing to the technical character of the work and its elliptical and often riddle-like language and the inaccuracy of the manuscripts, the labour involved in bringing it out with the translation and the requisite notes has been heavy and trying. There is, however, the satisfaction that all this labour has been bestowed on a worthy work of considerable historical value.  
-It is a fortunate circumstance about the *Gaṇita-sāra-saṅgraha* that the time when its author Mahāvīrācārya lived may be made out with fair accuracy. In the very first chapter of the work, we have, immediately after the two introductory stanzas of salutation to Jina Mahāvīra, six stanzas describing the greatness of a king, whose name is said to have been Cakrikā bhañjana, and who appears to have been commonly known by the title of Amōghavarṣa Nṛpatuṅga; and in the last of these six stanzas there is a benediction wishing progressive prosperity to the rule of this king. The results of modern Indian epigraphical research show that this king Amōghavarṣa Nṛpatuṅga reigned from [A.D. 814 or 815 to AD. 877 or 878](# "Vide Nilgund Inscription of the time of Amōghavarṣa 1, A.D. 866; edited by J. F. Fleet, PH.D., C.I. E., in Epigraphia Indica, vol. VI, pp. 98-108"). Since it appears probable that the author of the *Gaṇita-sāra-saṅgraha* was in some way attached to the court of this Rāṣṭrakūṭa king Amōghavarṣa Nṛpatuṅga, we may consider the work to belong to the middle of the ninth century of the Christian era. It is now generally accepted that, among well-known early Indian mathematicians Āryabhaṭa lived in the fifth, Varāhamihirain the sixth, Brahmagupta in the seventh and Bhāskarācārya in the twelfth century of the Christian era; and chronologically, therefore, Mahāvīrācārya comes between Brahmagupta and Bhāskarācārya. This in itself is a point of historical noteworthiness; and the further fact that the author of the *Gaṇita-sāra-saṅgraha* belonged to tho Kanarese speaking portion of South India in his days and was a Jaina in religion is calculated to give an additional importance to the historical value of his work. Like the other mathematicians mentioned above, Mahāvīrācārya was not primarily an astronomer, although he knew well and has himself remarked about the usefulness of mathematics for the study of astronomy. The study of mathematics seems to have been popular among Jaina scholars; it forms, in fact, one of their four *aruyōgas* or auxiliary sciences indirectly serviceable for the attainment of the salvation of soul-liberation known as *mokṣa*.
+It is a fortunate circumstance about the *Gaṇita-sāra-saṅgraha* that the time when its author Mahāvīrācārya lived may be made out with fair accuracy. In the very first chapter of the work, we have, immediately after the two introductory stanzas of salutation to Jina Mahāvīra, six stanzas describing the greatness of a king, whose name is said to have been Cakrikā bhañjana, and who appears to have been commonly known by the title of Amōghavarṣa Nṛpatuṅga; and in the last of these six stanzas there is a benediction wishing progressive prosperity to the rule of this king. The results of modern Indian epigraphical research show that this king Amōghavarṣa Nṛpatuṅga reigned from A.D. 814 or 815 to AD. 877 or 878[^1]. Since it appears probable that the author of the *Gaṇita-sāra-saṅgraha* was in some way attached to the court of this Rāṣṭrakūṭa king Amōghavarṣa Nṛpatuṅga, we may consider the work to belong to the middle of the ninth century of the Christian era. It is now generally accepted that, among well-known early Indian mathematicians Āryabhaṭa lived in the fifth, Varāhamihirain the sixth, Brahmagupta in the seventh and Bhāskarācārya in the twelfth century of the Christian era; and chronologically, therefore, Mahāvīrācārya comes between Brahmagupta and Bhāskarācārya. This in itself is a point of historical noteworthiness; and the further fact that the author of the *Gaṇita-sāra-saṅgraha* belonged to tho Kanarese speaking portion of South India in his days and was a Jaina in religion is calculated to give an additional importance to the historical value of his work. Like the other mathematicians mentioned above, Mahāvīrācārya was not primarily an astronomer, although he knew well and has himself remarked about the usefulness of mathematics for the study of astronomy. The study of mathematics seems to have been popular among Jaina scholars; it forms, in fact, one of their four *aruyōgas* or auxiliary sciences indirectly serviceable for the attainment of the salvation of soul-liberation known as *mokṣa*.
+
+[^1]: "Vide Nilgund Inscription of the time of Amōghavarṣa 1, A.D. 866; edited by J. F. Fleet, PH.D., C.I. E., in Epigraphia Indica, vol. VI, pp. 98-108"
 
 A comparison of the *Gaṇita-sāra-saṅgraha* with the corresponding portions in the *Brahmasphuṭa-siddhānta* of Brahmagupta is calculated to lead to the conclusion that, in all probability, Mahāvīrācārya was familiar with the work of Brahmagupta and endeavoured to improve upon it to the extent to which the scope of his *Gaṇita-sāra-saṅgraha* permitted such improvement. Mahāvīrācārya's classification of arithmetical operations is simpler, his rules are fuller and he gives a large number of examples for illustration and exercise. Pṛthūdakasvāmin, the well-known commentator on the *Brahmasphuṭa-siddhānta*, could not have been chronologically far removed from Mahāvīrācārya, and the similarity of some of the examples given by the former with some of those of the latter naturally arrests attention. In any case it cannot be wrong to believe, that, at the time, when Mahāvīrācārya wrote his *Gaṇita-sāra-saṅgraha*, Brahmagupta must have been widely recognized as a writer of authority in the field of Hindu astronomy and mathematics. Whether Bhāskarācārya was at all acquainted with the *Gaṇita-sāra-saṅgraha* of Mahāvīrācārya, it is not quite easy to say. Since neither Bhāskarācārya nor any of his known commentators seem to quote from him or mention him by name, the natural conclusion appears to be thatBhāskarācārya's *Siddhānta-śiromaṇi*, including his Lilāvati and Bījagaṇita, was intended to be an improvement in the main upon the *Brahmasphuṭa-siddhānta* of Brahmagupta. The fact that Mahāvīrācārya was a Jaina might have prevented Bhāskarācārya from taking note of him; or it may be that the Jaina mathematician's fame had not spread far to the north in the twelfth century of the Christian era. His work, however, seems to have been widely known and appreciated in Southern India. So early as in the course of the eleventh century and perhaps under the stimulating influence of the enlightened rule of Rājarājanarēndra of Rajahmundry, it was translated into Telugu in verse by Pāvulūri Mallana; and some manuscripts of this Telugu translation are now to be found in the Government Oriental Manuscripts Library here at Madras. It appeared to me that to draw suitable attention to the historical value of Mahāvīrācārya's *Gaṇita-sāra-saṅgraha*, I could not do better than seek the help of Dr. David Eugene Smith of the Columbia University of New York, whose knowledge of the history of mathematics in the West and in the East is known to be wide and comprehensive, and who on the occasion when he met me in person at Madras showed great interest in the contemplated publication of the *Gaṇita-sāra-saṅgraha* and thereafter read a paper on that work at the Fourth International Congress of Mathematicians held at Rome in April 1908. Accordingly I requested him to write an introduction to this edition of the *Gaṇita-sāra-saṅgraha*, giving in brief outline what he considers to be its value in building up the history of Hindu mathematics. My thanks as well as the thanks of all those who may asscholars become interested in this publication are therefore due to him for his kindness is having readily complied with my request; and I feel no doubt that his introduction will be read with great appreciation.
 
@@ -343,23 +345,37 @@ CONTENTS.
 
 नमस्तस्मै जिनेन्द्राय महावीराय तायिने ॥ १ ॥
 
-सङ्ख्याज्ञानप्रदीपेन जैनेन्द्रेण म[हा](# "M and B मह")त्विषा ।
+सङ्ख्याज्ञानप्रदीपेन जैनेन्द्रेण महा[^2]त्विषा ।
+
+[^2]: "M and B मह"
 
 प्रकाशितं जगत्सर्वं येन तं प्रणमाम्यहम् ॥ २॥
 
-[प्री](# "Mप्रणीतः")णितः प्राणि[स](# "M सर्गौ")स्यौघोनिरीतिर्निंरवग्रहः ।
+प्री[^3]णितः प्राणिस[^4]स्यौघोनिरीतिर्निंरवग्रहः ।
+
+[^3]: "Mप्रणीतः"
+
+[^4]: "M सर्गौ"
 
 श्रीमतामोघवर्षेण येन स्वेष्टहितौषिणा ॥ ३ ॥
 
 पापरूपाः परा यस्य चित्तवृत्तिहविर्भुजि ।
 
-भस्म[सा](# "M and K सद्भा")द्भावमीयुस्तेऽवन्ध्यकोपोऽ[भ](# "K, P and B भवेत्")वत्ततः ॥ ४ ॥
+भस्मसा[^5]द्भावमीयुस्तेऽवन्ध्यकोपोऽभ[^6]वत्ततः ॥ ४ ॥
 
-वशीकुर्वन् जगत्सर्वं [स्वयं](# "B योऽयं") नानुवशः परैः ।
+[^5]: "M and K सद्भा"
+
+[^6]: "K, P and B भवेत्"
+
+वशीकुर्वन् जगत्सर्वं स्वयं[^7] नानुवशः परैः ।
+
+[^7]: "B योऽयं"
 
 नाभिभूतः प्रभुस्तस्मादपूर्वमकरध्वजः ॥ ५ ॥
 
-यो विक्रमक्रमाक्रान्तच[क्रि](# "M क्री")चक्रकृतक्रियः ।
+यो विक्रमक्रमाक्रान्तचक्रि[^8]चक्रकृतक्रियः ।
+
+[^8]: "M क्री"
 
 चक्रिकाभञ्जनो नाम्ना चक्रिकाभञ्जनोऽञ्जसा ॥ ६ ॥
 
@@ -367,7 +383,9 @@ CONTENTS.
 
 रत्नगर्भोयथाख्यातचारित्रजलधिर्महान् ॥ ७ ॥
 
-विध्वस्तैकान्तपक्षस्य स्याद्वादन्याय[वादिनः](# "P वेदिनः")।
+विध्वस्तैकान्तपक्षस्य स्याद्वादन्यायवादिनः[^9]।
+
+[^9]: "P वेदिनः"
 
 देवस्य नृपतुङ्गस्य वर्धतां तस्य शासनम् ॥ ८ ॥
 
@@ -375,27 +393,41 @@ CONTENTS.
 
 गणितशास्त्रप्रशंसा।
 
-लौकिके वैदिके [वापि](# "M स्यात् ;B चापि") तथा सामायिकेऽ[पि](# "B च") यः।
+लौकिके वैदिके वापि[^10] तथा सामायिकेऽपि[^11] यः।
+
+[^10]: "M स्यात् ;B चापि"
+
+[^11]: "B च"
 
 व्यापारस्तत्र सर्वत्र सङ्ख्यानमुपयुज्यते ॥ ९ ॥
 
 कामतन्त्रेऽर्थशास्त्रे च गान्धर्वे नाटकेऽपि वा।
 
-सूपशास्त्र [तथा](# "K and Mमहा") वैद्ये वास्तुविद्यादिवस्तुषु ॥ १० ॥
+सूपशास्त्र तथा[^12] वैद्ये वास्तुविद्यादिवस्तुषु ॥ १० ॥
 
-[छन्दो](# "M and Bदण्डा")ऽलङ्कारकाव्येषु तर्कव्याकरणादिषु ।
+[^12]: "K and Mमहा"
 
-कलागुणेषु सर्वेषु प्रस्तुतंगणितं [परम्](# "M and B पुरा") ॥ ११ ॥
+छन्दो[^13]ऽलङ्कारकाव्येषु तर्कव्याकरणादिषु ।
+
+[^13]: "M and Bदण्डा"
+
+कलागुणेषु सर्वेषु प्रस्तुतंगणितं परम्[^14] ॥ ११ ॥
+
+[^14]: "M and B पुरा"
 
 सूर्यादिग्रहचारेषु ग्रहणे ग्रहसंयुतौ ।
 
 त्रिप्रश्ने चन्द्रवृत्तौ च सर्वत्राङ्गीकृतं हि तत् ॥ १२ ॥
 
-द्वीपसागरशैलानां सङ्ख्याव्यास[परिक्षिपः](# "K and M क्षिपा") ।
+द्वीपसागरशैलानां सङ्ख्याव्यासपरिक्षिपः[^15] ।
+
+[^15]: "K and M क्षिपा"
 
 भवनव्यन्तरज्योतिर्लोककल्पाधिवासिनाम् ॥ १३ ॥
 
-नारकाणां च सर्वेषां श्रेणीब[न्धे](# "K, M and Bबद्धे")न्द्रकोत्कराः ।
+नारकाणां च सर्वेषां श्रेणीबन्धे[^16]न्द्रकोत्कराः ।
+
+[^16]: "K, M and Bबद्धे"
 
 प्रकीर्णकप्रमाणाद्या बुध्यन्ते गणितेन ते ॥ १४ ॥
 
@@ -405,7 +437,9 @@ CONTENTS.
 
 बहुभिर्विप्रलापैः किं त्रैलोक्ये सचराचरे ।
 
-यत्किविद्व[स्तु](# "M वसु")तत्सर्वं गणितेन विना न हि ॥ १६ ॥
+यत्किविद्वस्तु[^17]तत्सर्वं गणितेन विना न हि ॥ १६ ॥
+
+[^17]: "M वसु"
 
 तीर्थकृद्भ्यःकृतार्थेभ्यः पूज्येभ्यो जगदीश्वरैः ।
 
@@ -413,23 +447,35 @@ CONTENTS.
 
 जलधेरिव रत्नानि पाषाणादिव काञ्चनम्।
 
-शुक्तेर्मुक्ताफलानीव सङ्ख्या[ज्ञान](# "K And P भव for ज्ञान")महोदधेः॥ १८ ॥
+शुक्तेर्मुक्ताफलानीव सङ्ख्याज्ञान[^18]महोदधेः॥ १८ ॥
+
+[^18]: "K And P भव for ज्ञान"
 
 
 
 किञ्चिदुद्धृत्य तत्सारं वक्ष्येऽहं मतिशक्तितः ।
 
-[अल्पं](# "M and B अल्प") ग्रन्थमनल्पार्थं गणितं सारसङ्ग्रहम् ॥ १९ ॥
+अल्पं[^19] ग्रन्थमनल्पार्थं गणितं सारसङ्ग्रहम् ॥ १९ ॥
 
-संज्ञाम्भोभिर[थों](# "संज्ञातोयसमा") पूर्णे परिकर्मो[रु](# "Mद्ध (Probably a seribe's mistake for त्थ)")वेदिके।
+[^19]: "M and B अल्प"
 
-कलासवर्णसंरूढलुठत्पाठीन[सङ्कुलें](# "M and B सङ्कटे") ॥ २० ॥
+संज्ञाम्भोभिरथों[^20] पूर्णे परिकर्मोरु[^21]")वेदिके।
+
+[^20]: "संज्ञातोयसमा"
+
+[^21]: "Mद्ध (Probably a seribe's mistake for त्थ
+
+कलासवर्णसंरूढलुठत्पाठीनसङ्कुलें[^22] ॥ २० ॥
+
+[^22]: "M and B सङ्कटे"
 
 प्रकीर्णकमहाग्राहे त्रैराशिकतरङ्गिणि।
 
 मिश्रकव्यवहारोद्यत्सूक्तिरत्नांशुपिञ्जरे ॥ २१ ॥
 
-क्षेत्रविस्तीर्णपाताले खाता[ख्य](# "P द्य")सिकताकुले।
+क्षेत्रविस्तीर्णपाताले खाताख्य[^23]सिकताकुले।
+
+[^23]: "P द्य"
 
 करणस्कन्धसम्बन्धच्छायावेलाविराजिते ॥ २२ ॥
 
@@ -449,11 +495,19 @@ CONTENTS.
 
 परमाणुरनन्तैस्तैरणुस्सोऽत्रादिरुच्यते ॥ २५ ॥
 
-त्रसरेणुरतस्तस्माद्रथरे[णुः](# "K and P णु")शिरोरुहः ।
+त्रसरेणुरतस्तस्माद्रथरेणुः[^24]शिरोरुहः ।
 
-[प](# "M and B व")रमध्यजघन्या[ख्या](# "P and B - ख्य") भोगभूकर्मभूभुवाम् ॥ २६ ॥
+[^24]: "K and P णु"
 
-लीक्षा तिलस्स एवेह सर्षपोऽ[थ](# "P धि")यवोऽङ्गुलम् ।
+प[^25]रमध्यजघन्याख्या[^26] भोगभूकर्मभूभुवाम् ॥ २६ ॥
+
+[^25]: "M and B व"
+
+[^26]: "P and B - ख्य"
+
+लीक्षा तिलस्स एवेह सर्षपोऽथ[^27]यवोऽङ्गुलम् ।
+
+[^27]: "P धि"
 
 क्रमेणाष्टगुणान्येतद्व्यवहाराङ्गुलं मतम् ॥ २७ ॥
 
@@ -463,7 +517,9 @@ CONTENTS.
 
 वर्तमाननराणामङ्गुलमात्माङ्गुलं भवेत् ॥ २८ ॥
 
-व्यवहारप्रमाणे [द्वे](# "M sन्ये") राद्धान्ते लौकिके विदुः । ,
+व्यवहारप्रमाणे द्वे[^28] राद्धान्ते लौकिके विदुः । ,
+
+[^28]: "M sन्ये"
 
 आत्माङ्गुलमिति त्रेधा तिर्यक्पादः षडङ्गुलैः ॥ २९ ॥
 
@@ -495,9 +551,13 @@ CONTENTS.
 
 अथ धान्यपरिभाषा।
 
-विद्धि षोडशिकास्तत्र चतस्रः कुड[हो](# "K and B वो")भवेत् ।
+विद्धि षोडशिकास्तत्र चतस्रः कुडहो[^29]भवेत् ।
 
-कुड[हां](# "K वां")श्चतुरः प्रस्थश्चतुः प्रस्थानथाढकम् ॥ ३६ ॥
+[^29]: "K and B वो"
+
+कुडहां[^30]श्चतुरः प्रस्थश्चतुः प्रस्थानथाढकम् ॥ ३६ ॥
+
+[^30]: "K वां"
 
 चतुर्भिराढकैर्द्रोणो मानी द्रोणैश्चतुर्गुणैः ।
 
@@ -533,7 +593,9 @@ CONTENTS.
 
 द्रक्षूणो भागषट्केन दीनारोऽस्माद्द्विसङ्गुणः ।
 
-द्वौ दीनारौसतेरं [स्या](# "M सतेराख्यम्")त्प्राहुर्लोहेऽत्र सूरयः ॥ ४३ ॥
+द्वौ दीनारौसतेरं स्या[^31]त्प्राहुर्लोहेऽत्र सूरयः ॥ ४३ ॥
+
+[^31]: "M सतेराख्यम्"
 
 **1**. For the whole of धान्यपरिभाषा, P and B add what is given below as another reading and M has it in the original with the variations which are enclosed in brackets.
 
@@ -548,11 +610,17 @@ CONTENTS.
 
 पलैर्द्वादशभिस्सार्धेःप्रस्थः पलशतद्वयम् ।
 
-तुला दश तुला [भारः](# "M रं")सङ्ख्यादक्षाः प्रचक्षते ॥ ४४॥ 
+तुला दश तुला भारः[^32]सङ्ख्यादक्षाः प्रचक्षते ॥ ४४॥ 
+
+[^32]: "M रं"
 
 वस्त्राभरणवेत्राणां युगलान्यत्र विशतिः ।
 
-[कोटि](# "M डि")कानन्तरं [भाष्ये](# "Used here in the 4th conjugation, active voice")परिकर्माणि नामतः॥ ४५ ॥
+कोटि[^33]कानन्तरं भाष्ये[^34]परिकर्माणि नामतः॥ ४५ ॥
+
+[^33]: "M डि"
+
+[^34]: "Used here in the 4th conjugation, active voice"
 
 अथ परिकर्मनामानि ।
 
@@ -566,7 +634,9 @@ CONTENTS.
 
 तत्सङ्कलितमप्युक्तं व्युत्कलितमतोऽष्टमम् ।
 
-तच्च शेषमिति [प्रोक्तं](# "M विद्याकलासवर्णस्य") भिन्नान्यष्टावमून्यपि ॥ ४८ ॥
+तच्च शेषमिति प्रोक्तं[^35] भिन्नान्यष्टावमून्यपि ॥ ४८ ॥
+
+[^35]: "M विद्याकलासवर्णस्य"
 
 अथ धनर्णशून्यविषयकसामान्यनियमाः ।
 
@@ -588,7 +658,9 @@ CONTENTS.
 
 अथ सङ्ख्यासंज्ञाः।
 
-[शशी](# "Stanzas 53 to 68 ocour only in M, and are given here, though erroneous here and there, as found in the original.") सोमश्च चन्द्रेन्दू प्रालेयांशू रजनीकरः ।
+शशी[^36] सोमश्च चन्द्रेन्दू प्रालेयांशू रजनीकरः ।
+
+[^36]: "Stanzas 53 to 68 ocour only in M, and are given here, though erroneous here and there, as found in the original."
 
 श्वेतं हिमगु रूपञ्चमुगाङ्कश्च कलाधरः ॥ ५३ ॥
 
@@ -684,31 +756,55 @@ CONTENTS.
 
 प्रत्युत्पन्नः ।
 
-[तत्र](# "K तत्र च")प्रथमे प्रत्युत्पन्नपरिकर्मणि करणसूत्रं यथा -
+तत्र[^37]प्रथमे प्रत्युत्पन्नपरिकर्मणि करणसूत्रं यथा -
 
-[गुणयद्गुणेन](# "K and B विन्यस्योभौराशी") गुण्यं कवाठसन्धि[क्रमेण](# "K and B सङ्गुणयेत्") संस्थाप्य ।
+[^37]: "K तत्र च"
+
+गुणयद्गुणेन[^38] गुण्यं कवाठसन्धिक्रमेण[^39] संस्थाप्य ।
+
+[^38]: "K and B विन्यस्योभौराशी"
+
+[^39]: "K and B सङ्गुणयेत्"
 
 राश्यर्घखण्डतत्स्थैरनुलोमविलोममार्गाभ्याम् ॥ १ ॥
 
 अत्रोद्देशकः ।
 
-दत्तान्येकैक[स्मै](# "B स्य हि") जिनभव[ना](# "B नस्या")याम्बुजानि तान्यष्टौ ।
+दत्तान्येकैकस्मै[^40] जिनभवना[^41]याम्बुजानि तान्यष्टौ ।
 
-वसतीनां चतुरुत्तरचत्वारिंशच्छता[य](# "B शतस्य कति भवनानाम्") कति ॥ २ ॥
+[^40]: "B स्य हि"
+
+[^41]: "B नस्या"
+
+वसतीनां चतुरुत्तरचत्वारिंशच्छताय[^42] कति ॥ २ ॥
+
+[^42]: "B शतस्य कति भवनानाम्"
 
 नव पद्मरागमणयस्समर्चिता एकजिनगृहे दृष्टाः ।
 
 साष्टाशीतिद्विशतीमितवसतिषु ते कियन्तस्स्युः ॥ ३ ॥
 
-[चत्वारिंश](# "M and B चत्वारिंशद्व्येका शताधिका")च्चैकोनशताधिकपुष्यरागमणयोऽ[र्च्याः](# "M ऽच्छाः")।
+चत्वारिंश[^43]च्चैकोनशताधिकपुष्यरागमणयोऽर्च्याः[^44]।
 
-एकस्मिन् जिनभवने सनवशते ब्रूहि [कति](# "M ते कियन्तस्स्युः") मणयः ॥ ४ ॥
+[^43]: "M and B चत्वारिंशद्व्येका शताधिका"
 
-पद्मानि [सप्तविंशतिरे](# "M एकैकजिनालयाय दत्तानि") कस्मिन् जिनगृहे प्रदत्तानि ।
+[^44]: "M ऽच्छाः"
 
-साष्टानवतिसहस्त्रे [सनवशते](# "M प्रयुक्तनवशतगृहाणां किम्") तानि कति कथय ॥ ५ ॥
+एकस्मिन् जिनभवने सनवशते ब्रूहि कति[^45] मणयः ॥ ४ ॥
 
-[एकैकस्यां](# "This stanzais found only in M and B.") वसतावष्टोत्तरशतसुवर्णपद्मानि ।
+[^45]: "M ते कियन्तस्स्युः"
+
+पद्मानि सप्तविंशतिरे[^46] कस्मिन् जिनगृहे प्रदत्तानि ।
+
+[^46]: "M एकैकजिनालयाय दत्तानि"
+
+साष्टानवतिसहस्त्रे सनवशते[^47] तानि कति कथय ॥ ५ ॥
+
+[^47]: "M प्रयुक्तनवशतगृहाणां किम्"
+
+एकैकस्यां[^48] वसतावष्टोत्तरशतसुवर्णपद्मानि ।
+
+[^48]: "This stanzais found only in M and B."
 
 एकाष्टचतुस्सप्तकनवषट्पञ्चाष्टकानां किम् ॥ ६ ॥
 
@@ -716,23 +812,39 @@ CONTENTS.
 
 शशिवसुस्वरजलनिधिनवपदार्थभयनयसमूहमास्थाप्य ।
 
-हिमकरविषनिधिगतिभिर्गुणिते [किं](# "M and B किन्तस्य") राशिपरिमाणम् ॥ ७ ॥
+हिमकरविषनिधिगतिभिर्गुणिते किं[^49] राशिपरिमाणम् ॥ ७ ॥
 
-हिमगुपयोनिधिगतिशशिवह्निव्रतनिचयमत्र [संस्थाप्य](# "M प्यम्") ।
+[^49]: "M and B किन्तस्य"
 
-सैकाशीत्या [त्वं](# " M अही") मे गुणयित्वाचक्ष्व [तत्सङ्ख्याम्](# "M मेशीघ्रम्") ॥ ८॥
+हिमगुपयोनिधिगतिशशिवह्निव्रतनिचयमत्र संस्थाप्य[^50] ।
 
-अग्निवसुखरभयेन्द्रियशशलाञ्छनराशिमत्र [संस्थाप्य](# "B विन्यस्य") ।
+[^50]: "M प्यम्"
+
+सैकाशीत्या त्वं[^51] मे गुणयित्वाचक्ष्व तत्सङ्ख्याम्[^52] ॥ ८॥
+
+[^51]: " M अही"
+
+[^52]: "M मेशीघ्रम्"
+
+अग्निवसुखरभयेन्द्रियशशलाञ्छनराशिमत्र संस्थाप्य[^53] ।
+
+[^53]: "B विन्यस्य"
 
 रन्धैर्गुणयित्वा मे कथय सरवे राशिपरिमाणम् ॥ ९ ॥
 
-[नन्दा](# "Stanzas from 10 to 15 are found only in M and B")द्र्यृतुशरचतुस्त्रिद्वन्द्वैकं [स्थाप्यमत्र](# "All the MSS. readस्थाप्य तत्र") नवगुणितम्।
+नन्दा[^54]द्र्यृतुशरचतुस्त्रिद्वन्द्वैकं स्थाप्यमत्र[^55] नवगुणितम्।
+
+[^54]: "Stanzas from 10 to 15 are found only in M and B"
+
+[^55]: "All the MSS. readस्थाप्य तत्र"
 
 आचार्यमहावीरैःकथितं नरपालकण्ठिकाभरणम् ॥ १० ॥
 
 षट्त्रिकं पञ्चषट्कञ्च सप्त चादौ प्रतिष्ठितम् ।
 
-त्रयस्त्रिंशत्सङ्गाणितं कण्ठाभरण[मादिशत्](# "B शे") ॥ ११ ॥
+त्रयस्त्रिंशत्सङ्गाणितं कण्ठाभरणमादिशत्[^56] ॥ ११ ॥
+
+[^56]: "B शे"
 
 हुतवहगतिशशिमुनिभिर्वसुनयगतिचन्द्रमत्र संस्थाप्य ।
 
@@ -746,9 +858,13 @@ CONTENTS.
 
 पुनरेवं गुणगुणितम् एकादिनवोत्तरं विद्धि ॥ १४ ॥
 
-सप्त शून्यं [द्वयं](# "B नयं") द्वन्द्वं पञ्चैकञ्च प्रतिष्ठितम् ।
+सप्त शून्यं द्वयं[^57] द्वन्द्वं पञ्चैकञ्च प्रतिष्ठितम् ।
 
-त्रयःसप्ततिसङ्गुण्यं [कण्ठाभरणमादिशेत्](# "All the MSS. give the metrionlly erroneous reading कण्ठाभरणं विनिर्दिशेत्।") ॥ १५ ॥
+[^57]: "B नयं"
+
+त्रयःसप्ततिसङ्गुण्यं कण्ठाभरणमादिशेत्[^58] ॥ १५ ॥
+
+[^58]: "All the MSS. give the metrionlly erroneous reading कण्ठाभरणं विनिर्दिशेत्।"
 
 जलनिधिपयोधिशशधरनयनद्रव्याक्षिनिकरमास्थाप्य । 
 
@@ -770,7 +886,9 @@ CONTENTS.
 
 द्वितीय भागहारपरिकर्मणि करणसूत्रं यथा -
 
-[विन्यस्य](# "This stanzais not found in P") भाज्यमानं तस्याधस्स्थेन भागहारेण ।
+विन्यस्य[^59] भाज्यमानं तस्याधस्स्थेन भागहारेण ।
+
+[^59]: "This stanzais not found in P"
 
 सदृशापवर्तविधिना भागं कृत्वा फलं प्रवदेत् ॥ १८॥
 
@@ -788,23 +906,35 @@ CONTENTS.
 
 रूपाग्रसप्तविंशतिशतानि कनकानि यत्र भाज्यन्ते ।
 
-सप्तत्रिंशत्पुरुषैरेकस्यांशं [ममाचक्ष्व](# "K स") ॥ २१ ॥
+सप्तत्रिंशत्पुरुषैरेकस्यांशं ममाचक्ष्व[^60] ॥ २१ ॥
+
+[^60]: "K स"
 
 दीनारदशसहस्रं त्रिशतयुतं सप्तवर्गसम्मिश्रम् ।
 
-नवसप्तत्या पुरुषैर्भक्तं [किं](# "M कोंऽशो नुरेकस्व") लब्धमेकस्य ॥ २२॥
+नवसप्तत्या पुरुषैर्भक्तं किं[^61] लब्धमेकस्य ॥ २२॥
 
-[अयुतं](# "This stanza is not found in P") चत्वारिंशच्चतुस्सहस्त्रैकशतयुतं [हेम्नाम्](# "B and K हेमम्") ।
+[^61]: "M कोंऽशो नुरेकस्व"
+
+अयुतं[^62] चत्वारिंशच्चतुस्सहस्त्रैकशतयुतं हेम्नाम्[^63] ।
+
+[^62]: "This stanza is not found in P"
+
+[^63]: "B and K हेमम्"
 
 नवसप्ततिवसतीनां दत्तं वित्तं किमेकस्याः ॥ २३ ॥
 
 
 
-[सप्तदश](# "M reads the problem contained in this stanza thus:- त्रिशतयुतैकत्रिंशत्सहस्रयुक्ता दशाधिकाःसप्त । भक्ताश्चत्वारिंशत्पुरुषैरेकोनैस्तत्र दीनारम् ॥")त्रिशतयुतान्येकत्रिंशत्सहस्रजम्बूनि ।
+सप्तदश[^64]त्रिशतयुतान्येकत्रिंशत्सहस्रजम्बूनि ।
+
+[^64]: "M reads the problem contained in this stanza thus:- त्रिशतयुतैकत्रिंशत्सहस्रयुक्ता दशाधिकाःसप्त । भक्ताश्चत्वारिंशत्पुरुषैरेकोनैस्तत्र दीनारम् ॥"
 
 भक्तानि नवत्रिंशन्नरैर्वदैकस्य भागं त्वम् ॥ २४ ॥
 
-[त्र्यधिकदश](# "This stanza is found only in M.")त्रिशतयुतान्येकत्रिंशत्सहस्रजम्बूनि ।
+त्र्यधिकदश[^65]त्रिशतयुतान्येकत्रिंशत्सहस्रजम्बूनि ।
+
+[^65]: "This stanza is found only in M."
 
 सैकाशीतिशतेन प्रहृतानि नरैर्वदैकांशम् ॥ २५ ॥
 
@@ -812,7 +942,9 @@ CONTENTS.
 
 रत्नानां नवपुंसां दत्तैकनरोऽत्र किं लभते ॥ २६ ॥
 
-[एकादिषडन्तानि](# "M एकद्वित्रिचतुःपञ्चपट्कैर्हीनाः क्रमेण सम्भक्ताः । सैकचतुःशतसंयुतचत्वारिंशज्जिनालयानां किम् ॥") क्रमेण हीनानि हाठकानि सखे ।
+एकादिषडन्तानि[^66] क्रमेण हीनानि हाठकानि सखे ।
+
+[^66]: "M एकद्वित्रिचतुःपञ्चपट्कैर्हीनाः क्रमेण सम्भक्ताः । सैकचतुःशतसंयुतचत्वारिंशज्जिनालयानां किम् ॥"
 
 विधुजलधिबन्धसङ्ख्यैर्नरैर्हृतान्येकभागः कः ॥ २७ ॥
 
@@ -864,7 +996,9 @@ CONTENTS.
 
 पञ्चत्रिंशच्छतसमधिकं सप्तनिघ्नं सहस्रम् ।
 
-द्वाविंशत्या युतदशशतं [वर्गितं](# "P, K and B राशिरेतत्कृतीनाम्") तन्त्रयाणां
+द्वाविंशत्या युतदशशतं वर्गितं[^67] तन्त्रयाणां
+
+[^67]: "P, K and B राशिरेतत्कृतीनाम्"
 
 ब्रूहि त्वं मे गणक गुणवन्सङ्गुणय्य प्रमाणम् ॥ ३५ ॥
 
@@ -884,7 +1018,9 @@ CONTENTS.
 
 अत्रोद्देशकः ।
 
-[एकादिनवान्तानां](# "P and M वर्गगतानां शीघ्रं रूपादिनवावसानराशीनाम् । मूलं कथय सखे त्वं") वर्गगतानां वदाशु मे मूलम् ।
+एकादिनवान्तानां[^68] वर्गगतानां वदाशु मे मूलम् ।
+
+[^68]: "P and M वर्गगतानां शीघ्रं रूपादिनवावसानराशीनाम् । मूलं कथय सखे त्वं"
 
 ऋतुविषयलोचनानां द्रव्यमहीनेन्द्रियाणाञ्च ॥ ३७ ॥
 
@@ -892,7 +1028,9 @@ CONTENTS.
 
 षड्वर्गपञ्चपञ्चकषण्णामपि मूलमाकलय ॥ ३८ ॥
 
-द्रव्यपदार्थनयाचललेख्यालब्ध्यब्धि [निधिनयाब्धीनाम्](# "M नव") ।
+द्रव्यपदार्थनयाचललेख्यालब्ध्यब्धि निधिनयाब्धीनाम्[^69] ।
+
+[^69]: "M नव"
 
 शशिनेत्रेन्द्रिययुगनयजीवानाञ्चापि कि मूलम् ॥ ३९ ॥
 
@@ -928,7 +1066,9 @@ CONTENTS.
 
 व्येकेष्टहतैकादिद्विचयेष्टपदैक्ययुक्ता वा ॥ ४४ ॥
 
-[एकादिचयेष्टपदे](# "This stanza is not found in P. ") पूर्वं राशि परेण सङ्गुणयेत् ।
+एकादिचयेष्टपदे[^70] पूर्वं राशि परेण सङ्गुणयेत् ।
+
+[^70]: "This stanza is not found in P. "
 
 गुणितसमासस्त्रिगुणश्चरमेण युतो घनो भवति ॥ ४५ ॥
 
@@ -936,7 +1076,11 @@ CONTENTS.
 
 अन्त्यान्यस्थानकृतिः परस्परस्थानसङ्गुणा त्रिहता।
 
-पुन[रेवं](# "M रपि") तद्यो[गस्सर्व](# "M गो वा")पदघनान्वितो बृन्दम् ॥ ४६॥
+पुनरेवं[^71] तद्योगस्सर्व[^72]पदघनान्वितो बृन्दम् ॥ ४६॥
+
+[^71]: "M रपि"
+
+[^72]: "M गो वा"
 
 अन्त्यस्य¹ घनः कृतिरपि सा त्रिहतोत्सार्य शेषगुणिता वा।
 
@@ -944,7 +1088,9 @@ CONTENTS.
 
 अत्रोद्देशकः ।
 
-[एकादिनवान्तानां](# "Instead of stanzas 48 and 49, readsएकादिनवान्तानां रुद्राणां हिमकरेन्दूनाम् । वद मुनिचन्द्रयतीनां बृन्दं चतुरुदधिगुणशशिनाम्॥") पञ्चदशानां शरेक्षणस्यापि ।
+एकादिनवान्तानां[^73] पञ्चदशानां शरेक्षणस्यापि ।
+
+[^73]: "Instead of stanzas 48 and 49, readsएकादिनवान्तानां रुद्राणां हिमकरेन्दूनाम् । वद मुनिचन्द्रयतीनां बृन्दं चतुरुदधिगुणशशिनाम्॥"
 
 रसवह्न्योर्गिरिनगयोः कथय घनं द्रव्यलब्ध्योश्च ॥ ४८ ॥
 
@@ -984,7 +1130,9 @@ CONTENTS.
 
 प्राक्त्रिहताप्तस्य कृतिश्शोध्याशोध्येघनेऽथ घनम् ॥ ५३॥
 
-[घनमेकं](# "This stanza is not found in M") द्वे अघने घनपदकृत्या भजेत्रिगुणयाघनतः ।
+घनमेकं[^74] द्वे अघने घनपदकृत्या भजेत्रिगुणयाघनतः ।
+
+[^74]: "This stanza is not found in M"
 
 पूर्वत्रिगुणाप्तकृतिस्त्याज्याप्तघनश्च पूर्ववल्लब्धपदैः ॥ ५४ ॥
 
@@ -992,11 +1140,17 @@ CONTENTS.
 
 एकादिनवान्तानां घनात्मनां रत्नशशिनवाब्धीनाम् ।
 
-[नगर](# "M गिरि")सवसुखर्तुगजक्षपाकराणाञ्च मूलं किम् ॥ ५५॥
+नगर[^75]सवसुखर्तुगजक्षपाकराणाञ्च मूलं किम् ॥ ५५॥
 
-गतिनयमदशिखिशशिनां मुनिगुणखर्त्वक्षिनव[खरा](# "M रसा")ग्नीनाम् ।
+[^75]: "M गिरि"
 
-[वसुखयुग](# "M विधुपुरखरस्वरर्तुज्वलनधराणां")खाद्रिगतिकरिचन्द्रर्तूनां गृहाण पदम् ॥ ५६ ॥
+गतिनयमदशिखिशशिनां मुनिगुणखर्त्वक्षिनवखरा[^76]ग्नीनाम् ।
+
+[^76]: "M रसा"
+
+वसुखयुग[^77]खाद्रिगतिकरिचन्द्रर्तूनां गृहाण पदम् ॥ ५६ ॥
+
+[^77]: "M विधुपुरखरस्वरर्तुज्वलनधराणां"
 
 चतुःपयोध्यग्निशराक्षिदृष्टि
 
@@ -1010,7 +1164,9 @@ CONTENTS.
 
 नवचन्द्रहिमगुमुनिशशिलब्ध्यम्बरखरयुगस्यापि ॥ ५८ ॥
 
-[गतिगज](# "This stanza is not found in M")विषयेषुविधुखराद्रिकरगतियुगस्य भण मूलम् ।
+गतिगज[^74]विषयेषुविधुखराद्रिकरगतियुगस्य भण मूलम् ।
+
+[^74]: "This stanza is not found in M"
 
 लेख्याश्वनगनवाचलपुरखरनयजीवचन्द्रमसाम् ॥ ५९ ॥
 
@@ -1044,11 +1200,15 @@ CONTENTS.
 
 पदहतमुखमादिधनं व्येकपदार्धघ्नचयगुणो गच्छः ।
 
-उत्तरधनं [तयोर्योगो](# " M तदूना सैक(व ?)पदाप्ता युतिः प्रभवः ।") धनमूनोत्तरं मुखेऽन्त्यधने ॥ ६३ ॥
+उत्तरधनं तयोर्योगो[^79]पदाप्ता युतिः प्रभवः ।") धनमूनोत्तरं मुखेऽन्त्यधने ॥ ६३ ॥
+
+[^79]: " M तदूना सैक(व ?
 
 अन्त्यधनमध्यधनसर्वधनानयनसूत्रम् -
 
-[चयगुणितैकोनपदं](# "This stanza is omitted in M.") साद्यन्त्यधनं तदादियोगार्धम् ।
+चयगुणितैकोनपदं[^80] साद्यन्त्यधनं तदादियोगार्धम् ।
+
+[^80]: "This stanza is omitted in M."
 
 मध्यधनं तत्पदवधमुद्दिष्टं सर्वसङ्कलितम् ॥ ६४ ॥
 
@@ -1068,7 +1228,9 @@ CONTENTS.
 
 द्विकृतिर्मुखं चयोऽष्टौ नगरसहस्रेसमर्चितं गणितम् ।
 
-गणिताब्धिसमुत्तरणे बाहु[बलिन्](# "Mबली") त्वं समाचक्ष्व ॥ ६८ ॥
+गणिताब्धिसमुत्तरणे बाहुबलिन्[^81] त्वं समाचक्ष्व ॥ ६८ ॥
+
+[^81]: "Mबली"
 
 
 
@@ -1132,7 +1294,9 @@ CONTENTS.
 
 चत्वारिंशत्सहितापञ्चशती गणितमत्र सन्दृष्टम् ।
 
-गच्छप्रचयप्रभवान् [गणितज्ञशिरोमणे](# "M विगणय्य सखे ममाचक्ष्व") कथय ॥ ७९ ॥
+गच्छप्रचयप्रभवान् गणितज्ञशिरोमणे[^82] कथय ॥ ७९ ॥
+
+[^82]: "M विगणय्य सखे ममाचक्ष्व"
 
 आद्युत्तरगच्छसर्वमिश्रधनविश्लेषणे सूत्रत्रयम् -
 
@@ -1140,7 +1304,9 @@ CONTENTS.
 
 मिश्रधनं प्रभवस्स्यादिति गणकशिरोमणे विद्धि ॥ ८० ॥
 
-आदिधनोनं मिश्रं [रूपोनपदार्धगुणितगच्छेन](# "M पदोनपदकृतिदलेन सैकेन । भक्तं प्रचयोऽत्र पदं गच्छविधानान्मुखे सैके ॥") ।
+आदिधनोनं मिश्रं रूपोनपदार्धगुणितगच्छेन[^83] ।
+
+[^83]: "M पदोनपदकृतिदलेन सैकेन । भक्तं प्रचयोऽत्र पदं गच्छविधानान्मुखे सैके ॥"
 
 सैकेन हृतं प्रचयो गच्छविधानात्पदं मुखे सैके ॥ ८१ ॥
 
@@ -1160,13 +1326,17 @@ CONTENTS.
 
 दृष्टविभक्तेष्टधनं द्विष्ठं तत्पचयताडिंतं'प्रचयः।
 
-तत्प्रभवगुणं प्रभवो [गुणभागस्येष्टवित्तस्य](# "M गुणभागाद्युत्तरेच्छायाः") ॥ ८४ ॥
+तत्प्रभवगुणं प्रभवो गुणभागस्येष्टवित्तस्य[^84] ॥ ८४ ॥
+
+[^84]: "M गुणभागाद्युत्तरेच्छायाः"
 
 अत्रोद्देशकः।
 
 समगच्छश्चत्वारष्षष्टिर्मुखमुत्तरं ततो द्विगुणम् ।
 
-तद्द्व्यादि[हत](# "M गुण")विभक्तस्वेष्टस्याद्युत्तरे ब्रूहि ॥ ८५ ॥
+तद्द्व्यादिहत[^85]विभक्तस्वेष्टस्याद्युत्तरे ब्रूहि ॥ ८५ ॥
+
+[^85]: "M गुण"
 
 इष्टगच्छयोर्व्यस्ताद्युत्तरसमधनद्विगुणत्रिगुणद्विभागत्रिभागादिधनानयनसूत्रम्
 -
@@ -1183,7 +1353,9 @@ CONTENTS.
 
 द्वादशषोडशपदयोर्व्यस्तप्रभवोत्तरे समानधनम् ।
 
-व्द्यादिगुणभागधनमपि कथय त्वं [गणितशास्त्रज्ञ](# "M गणकमुखतिलक") ॥ ८८ ॥
+व्द्यादिगुणभागधनमपि कथय त्वं गणितशास्त्रज्ञ[^86] ॥ ८८ ॥
+
+[^86]: "M गणकमुखतिलक"
 
 असमानोत्तरसमगच्छसमधनस्याद्युत्तरानयनसत्रम् -
 
@@ -1231,7 +1403,9 @@ CONTENTS.
 
 गुणधनस्योदाहरणम् ।
 
-स्वर्णद्वयं गृहीत्वा त्रिगुणधनं प्रतिपुरं [समार्जयति](# "M समर्चंयति") ।
+स्वर्णद्वयं गृहीत्वा त्रिगुणधनं प्रतिपुरं समार्जयति[^87] ।
+
+[^87]: "M समर्चंयति"
 
 यः पुरुषोऽप्टनगर्यांतस्य कियद्वित्तमाचक्ष्व ॥ ९६ ॥
 
@@ -1283,7 +1457,9 @@ CONTENTS.
 
 पञ्चादिद्विगुणोत्तरे शरगिरिव्द्येकप्रमाणे धने
 
-सप्ता[दि](# "M द्म") त्रिगुणे नगेभदुरितस्तम्बेरमर्तुप्रमे ।
+सप्तादि[^88] त्रिगुणे नगेभदुरितस्तम्बेरमर्तुप्रमे ।
+
+[^88]: "M द्म"
 
 
 
@@ -1359,7 +1535,9 @@ CONTENTS.
 
 र्दश वाञ्छापदमङ्कसिन्धुरगिरिद्रव्योन्द्रियाम्भोधयः ।
 
-कथय व्युत्कलितं फलं सकलसद्भूजाग्रिमं [व्याप्तवान्](# "M प्रा") ।
+कथय व्युत्कलितं फलं सकलसद्भूजाग्रिमं व्याप्तवान्[^89] ।
+
+[^89]: "M प्रा"
 
 करणस्कन्धवनान्तरं गणितविन्मत्तेभविक्रीडितम् ॥ ११५॥
 
@@ -1371,7 +1549,9 @@ CONTENTS.
 
 अथ द्वितीयः कलासवर्णव्यवहारः ।
 
-[त्रिलोक](# "This stanza is omitted in P.")राजेन्द्रकिरीटकोटिप्रभाभिरालीढपदारविन्दम् ।
+त्रिलोक[^90]राजेन्द्रकिरीटकोटिप्रभाभिरालीढपदारविन्दम् ।
+
+[^90]: "This stanza is omitted in P."
 
 निर्मूलमुन्मूलितकर्मवृक्षं जिनेन्द्रचन्द्रं प्रणमामि भक्त्या ॥ १ ॥
 
@@ -1395,7 +1575,9 @@ CONTENTS.
 
 मरिचस्य पलस्यार्घः पणस्य सप्ताष्टमांशको यत्र ।
 
-तत्र भवेत्किं[मू](# "M मौ.")ल्यं पलषट्पञ्चांशकस्य वद ॥ ४ ॥
+तत्र भवेत्किंमू[^91]ल्यं पलषट्पञ्चांशकस्य वद ॥ ४ ॥
+
+[^91]: "M मौ."
 
 कश्चित्पणेन लभते त्रिपञ्चभागं पलस्य पिप्पल्याः ।
 
@@ -1451,7 +1633,9 @@ CONTENTS.
 
 भिन्नवर्गवर्गमूलघनघनमूलानि ॥
 
-[भिन्न](# "M भिन्नवर्गभिन्नवर्गमूलभिन्नघनतन्मूलेषु")वर्गवर्गमूलघनघनमूलेषु करणसूत्रं यथा -
+भिन्न[^92]वर्गवर्गमूलघनघनमूलेषु करणसूत्रं यथा -
+
+[^92]: "M भिन्नवर्गभिन्नवर्गमूलभिन्नघनतन्मूलेषु"
 
 कृत्वाच्छेदांशकयोः कृतिकृतिमूले घनं च घनमूलम् ।
 
@@ -1499,7 +1683,9 @@ CONTENTS.
 
 शतकस्य पञ्चविंशस्याष्टविभक्तस्य कथय घनमूलम् ।
 
-[नवयुतसप्तशतानां](# "M सप्तशतस्यापि सखेव्येकोनत्रिंशकाष्टकाप्तस्य ॥") विंशानामष्टभक्तानाम् ॥ २०॥
+नवयुतसप्तशतानां[^93] विंशानामष्टभक्तानाम् ॥ २०॥
+
+[^93]: "M सप्तशतस्यापि सखेव्येकोनत्रिंशकाष्टकाप्तस्य ॥"
 
 
 
@@ -1539,7 +1725,9 @@ CONTENTS.
 
 अत्रोद्देशकः ।
 
-[पदमिष्टं](# "This stanza is not found in M.") द्वित्र्यंशो रूपेणांशो हरश्च संवृद्धः ।
+पदमिष्टं[^94] द्वित्र्यंशो रूपेणांशो हरश्च संवृद्धः ।
+
+[^94]: "This stanza is not found in M."
 
 यावद्दशपदमेषां वद मुखचयवर्गबृन्दानि ॥ २६ ॥
 
@@ -1555,11 +1743,17 @@ CONTENTS.
 
 पञ्चपदा वद तेषां घनधनमुखचयपदानि सखे ॥ २८ ॥
 
-[दृष्टघनाद्युत्तरतो](# "M गुणभागाद्युत्तरानयनसूत्रम् ।") द्विगुणत्रिगुणद्विभागत्रिभागादीष्टधनाद्युत्तरानयन सूत्रम् -
+दृष्टघनाद्युत्तरतो[^95] द्विगुणत्रिगुणद्विभागत्रिभागादीष्टधनाद्युत्तरानयन सूत्रम् -
 
-दृष्टविभक्तेष्टधनं द्विष्ठं तत्प्रचयताडितं [प्रचयः](# "M प्रचयेन") ।
+[^95]: "M गुणभागाद्युत्तरानयनसूत्रम् ।"
 
-तत्प्रभवगुणं प्रभवो [गुणभागस्येष्टवित्तस्य](# "M गुणभागाद्युत्तरेच्छायाः") ॥ २९ ॥
+दृष्टविभक्तेष्टधनं द्विष्ठं तत्प्रचयताडितं प्रचयः[^96] ।
+
+[^96]: "M प्रचयेन"
+
+तत्प्रभवगुणं प्रभवो गुणभागस्येष्टवित्तस्य[^84] ॥ २९ ॥
+
+[^84]: "M गुणभागाद्युत्तरेच्छायाः"
 
 अत्रोद्देशकः ।
 
@@ -1571,12 +1765,16 @@ CONTENTS.
 
 वित्तं तु सप्तषष्टिः षङ्घनभक्ता वदादिचयौ ॥ ३१ ॥
 
-[मुखमेकं](# "This stanzatakes the place of stanza No. 31 in M and is omitted in B.") द्वित्र्यंशः प्रचयो गच्छस्समश्चतुर्नवमः ।
+मुखमेकं[^98] द्वित्र्यंशः प्रचयो गच्छस्समश्चतुर्नवमः ।
+
+[^98]: "This stanzatakes the place of stanza No. 31 in M and is omitted in B."
 
 धनमिष्टं द्वाविंशतिरेकाशीत्या वदादिचयौ ॥ ३२ ॥
 
-[गच्छानयनसूत्रम्](# "Instead of the following two stanza M reads अष्टोत्तरगुणराशीत्यादिना इष्ट.. धनगच्छ आनेतव्यः and rapeats stanza No. 70 given under परिकर्मव्यवहार")
+गच्छानयनसूत्रम्[^99]
 -
+
+[^99]: "Instead of the following two stanza M reads अष्टोत्तरगुणराशीत्यादिना इष्ट.. धनगच्छ आनेतव्यः and rapeats stanza No. 70 given under परिकर्मव्यवहार"
 
 द्विगुणचयगुणितवित्तादुत्तरदलमुखविशेषकृतिसहितात् ।
 
@@ -1602,7 +1800,9 @@ CONTENTS.
 
 आद्युत्तरानयनसूत्रम् -
 
-[गच्छाप्त](# "K and Bप्रभवो गच्छाप्तधनम्")गणितमादिर्विगतैकपदार्धगुणितचयहीनम् ।
+गच्छाप्त[^100]गणितमादिर्विगतैकपदार्धगुणितचयहीनम् ।
+
+[^100]: "K and Bप्रभवो गच्छाप्तधनम्"
 
 पदहृतधनमाद्यूनं निरेकपददलहृतं प्रचयः ॥ ३६ ॥
 
@@ -1645,7 +1845,9 @@ CONTENTS.
 
 गुणसङ्कलितं तस्यान्त्यधनं चाचक्ष्व मे शीघ्रम् ॥ ४२ ॥
 
-[गुणधन](# "Found only in B")सङ्कलितधनयोराद्युत्तरपदान्यपि पूर्वोक्तसूत्रैरानयेत् ।
+गुणधन[^101]सङ्कलितधनयोराद्युत्तरपदान्यपि पूर्वोक्तसूत्रैरानयेत् ।
+
+[^101]: "Found only in B"
 
 समानेष्टोत्तरगच्छसङ्कलितगुणसङ्कलितसमधनस्याद्यानयनसूत्रम् -
 
@@ -1677,7 +1879,9 @@ CONTENTS.
 
 शेषगच्छस्याद्यानयनसूत्रम् -
 
-[प्रचयार्धोनः](# "M प्रचयगुणितेष्टगच्छस्सादिः प्रभवः पदस्य शेषस्य । पूर्वोक्तः प्रचयस्स्यादिष्टस्य प्राक्तनादेव ॥ ") प्रभवो युतश्चयघ्नेष्टपदचयार्धाभ्याम् ।
+प्रचयार्धोनः[^102] प्रभवो युतश्चयघ्नेष्टपदचयार्धाभ्याम् ।
+
+[^102]: "M प्रचयगुणितेष्टगच्छस्सादिः प्रभवः पदस्य शेषस्य । पूर्वोक्तः प्रचयस्स्यादिष्टस्य प्राक्तनादेव ॥ "
 
 शेषस्य पदस्यादिश्चयस्तु पूर्वोक्त एव भवेत् ॥ ४६॥
 
@@ -1689,11 +1893,15 @@ CONTENTS.
 
 पादोत्तरं दलास्यं पदं त्रिपादांशकस्समुद्दिष्टः ।
 
-स्वेष्टं [चतुर्थभागः](# "M च चतुर्भागः") किं व्युत्कलितं समाकलय ॥ ४८ ॥
+स्वेष्टं चतुर्थभागः[^103] किं व्युत्कलितं समाकलय ॥ ४८ ॥
+
+[^103]: "M च चतुर्भागः"
 
 प्रभवोऽर्धं पञ्चांशः प्रचयो द्वित्र्यंशको भवेद्गच्छः ।
 
-पश्चाष्टांशस्स्वेष्टं [पदमृणमाचक्ष्व](# "M किं व्युत्कलितं समाकलय") गणितज्ञ ॥ ४९ ॥
+पश्चाष्टांशस्स्वेष्टं पदमृणमाचक्ष्व[^104] गणितज्ञ ॥ ४९ ॥
+
+[^104]: "M किं व्युत्कलितं समाकलय"
 
 आदिश्चतुर्थभागः प्रचयः पञ्चांशकास्त्रिपञ्चांशः ।
 
@@ -1723,7 +1931,9 @@ CONTENTS.
 
 ष्टानि शेषमुखवित्तपदं किम् ॥ ५३ ॥
 
-इति भिन्नव्युत्कलितं [समाप्तम्](# "K and M add after thisइति सारसङ्ग्रहे महावीराचार्यस्य कृतौद्वितीयच्यारस्सामप्तः. This however, seems to be a mistake.") ॥
+इति भिन्नव्युत्कलितं समाप्तम्[^105] ॥
+
+[^105]: "K and M add after thisइति सारसङ्ग्रहे महावीराचार्यस्य कृतौद्वितीयच्यारस्सामप्तः. This however, seems to be a mistake."
 
 कलासवर्णषड्जातिः ॥
 
@@ -1745,7 +1955,9 @@ CONTENTS.
 
 लुप्तैकहरौ योज्यौ त्याज्यौ वा भागजातिविधौ ॥ ५५ ॥
 
-[प्रकारान्तरेण](# "This and the stanza following are not found in M.") समानच्छेदमुद्भावयितुमुत्तरसूत्रम् -
+प्रकारान्तरेण[^106] समानच्छेदमुद्भावयितुमुत्तरसूत्रम् -
+
+[^106]: "This and the stanza following are not found in M."
 
 छेदापवर्तकानां लब्धानां चाहतौनिरुद्धः स्यात् ।
 
@@ -1755,7 +1967,9 @@ CONTENTS.
 
 अत्रोद्देशकः ।
 
-[जम्बू](# "StanzasNos.57 and 58 Hre omitted in P")जम्बीरनारङ्गचोचमोचाम्रदाडिमम् ।
+जम्बू[^107]जम्बीरनारङ्गचोचमोचाम्रदाडिमम् ।
+
+[^107]: "StanzasNos.57 and 58 Hre omitted in P"
 
 अक्रैषीद्दलषड्भागद्वादशांशकविंशकैः ॥ ५७ ॥
 
@@ -1767,7 +1981,9 @@ CONTENTS.
 
 एकादशत्रिषष्ट्यंशमेकविंशं च सङ्क्षिप ॥ ५९ ॥
 
-[एकद्विक](# "This stanza is found in K and B")त्रिकाद्येकोत्तरनवदशकषोडशान्त्यहराः ।
+एकद्विक[^108]त्रिकाद्येकोत्तरनवदशकषोडशान्त्यहराः ।
+
+[^108]: "This stanza is found in K and B"
 
 निजनिजमुखप्रमांशास्स्वपराभ्यस्ताश्च किं फलं तेषाम् ॥ ६० ॥
 
@@ -1779,7 +1995,9 @@ CONTENTS.
 
 षट्त्रिंशत्पाश्चात्याः सङ्क्षेपे किं फलं तेषाम् ॥ ६२ ॥
 
-[चन्दन](# "Stanza No. 63 and 64 are found in K and B.")घनसारागरुकुङ्कुममक्रेष्ट जिनमहाय नरः ।
+चन्दन[^109]घनसारागरुकुङ्कुममक्रेष्ट जिनमहाय नरः ।
+
+[^109]: "Stanza No. 63 and 64 are found in K and B."
 
 चरणदलविंशपञ्चमभागैः कनकस्य किं शेषम् ॥ ६३ ॥
 
@@ -1793,13 +2011,21 @@ CONTENTS.
 
 मित्यद्य श्रावकार्योभणगणक कियच्छेषमंशान्विशोध्य ॥ ६४ ॥
 
-[अष्टुपञ्चमुखौ](# "This stanza is omitted in M.") हारावुभयेऽप्येकवृद्धिकाः ।
+अष्टुपञ्चमुखौ[^80] हारावुभयेऽप्येकवृद्धिकाः ।
 
-[त्रिंशदन्ताः](# "B विंशत्य.") पराभ्यस्ताश्चतुर्गुणितपश्चिमाः ॥ ६५ ॥
+[^80]: "This stanza is omitted in M."
 
-[स्वस्ववक्र](# "This stanza is not found in M.")प्रमाणांशा रूपात्संशोध्य तद्द्वयम् ।
+त्रिंशदन्ताः[^111] पराभ्यस्ताश्चतुर्गुणितपश्चिमाः ॥ ६५ ॥
 
-शेषं सखे समाचक्ष्व [प्रोत्तीर्णगणितार्णव](# "K and B भागजात्यब्धिपारग.") ॥ ६६ ॥
+[^111]: "B विंशत्य."
+
+स्वस्ववक्र[^94]प्रमाणांशा रूपात्संशोध्य तद्द्वयम् ।
+
+[^94]: "This stanza is not found in M."
+
+शेषं सखे समाचक्ष्व प्रोत्तीर्णगणितार्णव[^113] ॥ ६६ ॥
+
+[^113]: "K and B भागजात्यब्धिपारग."
 
 एकोनविंशतिरथ क्रमात् त्रयोविंशतिर्द्विषष्टिश्च ।
 
@@ -1819,7 +2045,9 @@ CONTENTS.
 
 हारा निरूपिता अंशा एकाद्यकोत्तरा अमून् ।
 
-प्रक्षिप्य फलमाचक्ष्व [भागजात्यब्धिपारग](# "B प्रोतर्णगणितार्णव.") ॥ ७१ ॥
+प्रक्षिप्य फलमाचक्ष्व भागजात्यब्धिपारग[^114] ॥ ७१ ॥
+
+[^114]: "B प्रोतर्णगणितार्णव."
 
 अत्रांशोत्पत्तौ सूत्रम् -
 
@@ -1829,7 +2057,9 @@ CONTENTS.
 
 
 
-[एकांशवृद्धीनां](# "B सदृशवृद्ध्यंशराशीनां अंशोत्पादकसूत्रम् ।") राशीनां युवावंशाद्धारस्याविक्ये सत्यंशोत्पादक सूत्रम् -
+एकांशवृद्धीनां[^115] राशीनां युवावंशाद्धारस्याविक्ये सत्यंशोत्पादक सूत्रम् -
+
+[^115]: "B सदृशवृद्ध्यंशराशीनां अंशोत्पादकसूत्रम् ।"
 
 समहारैकांशकयुतिहतयुत्यंशोंऽश एकवृद्धीनाम्।
 
@@ -1893,7 +2123,9 @@ CONTENTS.
 
 अत्रोद्देशकः ।
 
-[एककांशेन](# "Stanzas83 and 84 are omitted in B.") राशीनां त्रयाणां के हरा वद ।
+एककांशेन[^116] राशीनां त्रयाणां के हरा वद ।
+
+[^116]: "Stanzas83 and 84 are omitted in B."
 
 द्वादशाप्ता त्रयोविंशत्यशंका च युतिर्भवेत् ॥ ८३ ॥
 
@@ -1917,7 +2149,9 @@ CONTENTS.
 
 एकांशकयोरनेकांशयोश्च एकांशेऽनेकांशेऽपि फले छेदोत्पत्तौप्रथम सूत्रम् -
 
-[इष्ट](# "Pand B add as another reading. शुद्धं फलांशभक्तः स्वान्यांशयुती निजेष्टगुणितांशः ।")गुणांशोऽन्यांशप्रयुतः शुद्धं हृतः फलांशेन ।
+इष्ट[^117]गुणांशोऽन्यांशप्रयुतः शुद्धं हृतः फलांशेन ।
+
+[^117]: "Pand B add as another reading. शुद्धं फलांशभक्तः स्वान्यांशयुती निजेष्टगुणितांशः ।"
 
 इष्टाप्तयुतिहरघ्नो हरः परस्य तु तदिष्टहतिः ॥ ८७॥
 
@@ -2063,19 +2297,27 @@ CONTENTS.
 
 हरहतरूपेष्वंशान् सङ्क्षिप भागानुबन्धजातिविधौ ।
 
-[गुण](# " B readsगुणयेदग्रांशहरौ सहितांशच्छेद")याग्रांशच्छेदावंशयुतच्छेदहाराभ्याम् ॥ ११३ ॥
+गुण[^118]याग्रांशच्छेदावंशयुतच्छेदहाराभ्याम् ॥ ११३ ॥
+
+[^118]: " B readsगुणयेदग्रांशहरौ सहितांशच्छेद"
 
 रूपभागानुवन्ध उद्देशकः ।
 
-[द्वित्रि](# " M द्वदेत्.")षट्काष्टनिष्काणि द्वादशाष्टषडंशकैः ।
+द्वित्रि[^119]षट्काष्टनिष्काणि द्वादशाष्टषडंशकैः ।
+
+[^119]: " M द्वदेत्."
 
 पञ्चाष्टमैस्समेतानि विंशतेश्शोधय प्रिय ॥ ११४ ॥
 
 सार्धेनैकेन पङ्केजं साष्टांशैर्दशभिर्हिमम ।
 
-सार्धाभ्यां कुङ्कुमं द्वाभ्यां क्रीतं योगे [कियद्भवेत्](# "This stanza is not found in P.") ॥ ११५ ॥
+सार्धाभ्यां कुङ्कुमं द्वाभ्यां क्रीतं योगे कियद्भवेत्[^120] ॥ ११५ ॥
 
-[साष्टमाष्टौ](# "This stanza is found only in P. ") षडंशान् षड्द्वादशांशयुतं द्वयम् ।
+[^120]: "This stanza is not found in P."
+
+साष्टमाष्टौ[^121] षडंशान् षड्द्वादशांशयुतं द्वयम् ।
+
+[^121]: "This stanza is found only in P. "
 
 त्रयं पञ्चाष्टमोपेतं विंशतेश्शोधय प्रिय ॥ ११६ ॥
 
@@ -2099,7 +2341,9 @@ CONTENTS.
 
 पुष्पाण्यर्धतुरीयपञ्चनवमैस्स्वीयैर्युतात्सप्तमात् ।
 
-गन्धं पञ्चमभागनोऽ[र्ध](# "B स्वचरणाद्यर्धान्तिमैः")चरणत्र्यंशांशकैर्मिश्रिताद्-
+गन्धं पञ्चमभागनोऽर्ध[^122]चरणत्र्यंशांशकैर्मिश्रिताद्-
+
+[^122]: "B स्वचरणाद्यर्धान्तिमैः"
 
 धूपं चार्चयितुं नरो जिनवरानानेष्ट किं तद्युतौ ॥ ११९ ॥
 
@@ -2153,7 +2397,9 @@ CONTENTS.
 
 हरहतरूपेष्वंशानपनय भागापवाहजातिविधौ।
 
-[गुण](# "B गुणवेदग्रांशहरौरहितांशच्छेदहाराभ्याम् ।")याग्रांशच्छेदावंशोनच्छेदहाराभ्याम् ॥ १२६ ॥
+गुण[^123]याग्रांशच्छेदावंशोनच्छेदहाराभ्याम् ॥ १२६ ॥
+
+[^123]: "B गुणवेदग्रांशहरौरहितांशच्छेदहाराभ्याम् ।"
 
 रूपभागापवाह उद्देशकः ।
 
@@ -2213,7 +2459,9 @@ CONTENTS.
 
 कोऽप्यंशस्स्वार्धषड्भागपञ्चमाष्टमसप्तमैः ।
 
-विहीनो [जायते](# "P, K and B तद्युतिःfor जायते.") षष्ठस्स कोंऽशो गणितार्थवित् ॥ १३४॥
+विहीनो जायते[^124] षष्ठस्स कोंऽशो गणितार्थवित् ॥ १३४॥
+
+[^124]: "P, K and B तद्युतिःfor जायते."
 
 शेषेष्टस्थानाव्यक्तभागानयनसूत्रम् -
 
@@ -2275,7 +2523,9 @@ CONTENTS.
 
 प्रणतजगस्त्रयवरदं प्रकीर्णकं गणितमभिधास्ये ॥ १ ॥
 
-[वि](# "B and M omit this stanza ")ध्वस्तदुर्नयध्वान्तः सिद्धः स्याद्वादशासनः ।
+वि[^125]ध्वस्तदुर्नयध्वान्तः सिद्धः स्याद्वादशासनः ।
+
+[^125]: "B and M omit this stanza "
 
 विद्यानन्दो जिनो जीयाद्वादीन्द्रो मुनिपुङ्गवः ॥ २ ॥
 
@@ -2385,7 +2635,9 @@ CONTENTS.
 
 तन्मौक्तिकप्रमाणं प्रकीर्णकं वेत्सि चेत् कथय ॥ २२ ॥
 
-[स्फुरदि](# "M reads स्फुरतेन्द्र")न्द्रनीलवर्णं षट्पदबृन्दं प्रफुल्लितोद्याने ।
+स्फुरदि[^126]न्द्रनीलवर्णं षट्पदबृन्दं प्रफुल्लितोद्याने ।
+
+[^126]: "M reads स्फुरतेन्द्र"
 
 दृष्टं तस्याष्टांशोऽशोके कुटजे षडंशको लीनः ॥ २३ ॥
 
@@ -2449,13 +2701,19 @@ CONTENTS.
 
 अत्रोद्देशकः ।
 
-दृष्टोऽठव्यामु[ष्ट्र](# "B reads हस्ति.")यूथस्य पादो
+दृष्टोऽठव्यामुष्ट्र[^127]यूथस्य पादो
+
+[^127]: "B reads हस्ति."
 
 मूले च द्वेशैलसानौ निविष्टे ।
 
-[उष्ट्रास्त्रिघ्नाः](# "B reads किं स्यात्तेषां कुञ्जराणां प्रमाणम् ।")पञ्च नद्यास्तु तीरे
+उष्ट्रास्त्रिघ्नाः[^128]पञ्च नद्यास्तु तीरे
 
-[किं](# "B readsनागाः.") तस्य स्यादुष्ट्रकस्य प्रमाणम् ॥ ३४ ॥
+[^128]: "B reads किं स्यात्तेषां कुञ्जराणां प्रमाणम् ।"
+
+किं[^129] तस्य स्यादुष्ट्रकस्य प्रमाणम् ॥ ३४ ॥
+
+[^129]: "B readsनागाः."
 
 श्रुत्वा वर्षाभ्रमालापटहपटुरवं शैलशृङ्गारुरङ्गे
 
@@ -2501,7 +2759,9 @@ CONTENTS.
 
 अत्रोद्देशकः ॥
 
-गजयूथस्य त्र्यंश[श्शेष](# "B reads शेषस्य पद त्रिसंगुणं.")पदं च त्रिसङ्गुणं सानौ ।
+गजयूथस्य त्र्यंशश्शेष[^130]पदं च त्रिसङ्गुणं सानौ ।
+
+[^130]: "B reads शेषस्य पद त्रिसंगुणं."
 
 सरसि त्रिहस्तिनीभिर्नागो दृष्टः कतीह गजाः ॥ ४१ ॥
 
@@ -2543,7 +2803,9 @@ CONTENTS.
 
 मधुकर एको दृष्टः स्वेपद्मेशेषपञ्चमचतुर्थो ।
 
-शेषत्र्यंशो मूलं द्वा[वाम्रे](# "B reads द्वौ चाम्रे.")ते कियन्तः स्युः ॥ ४८ ॥
+शेषत्र्यंशो मूलं द्वावाम्रे[^131]ते कियन्तः स्युः ॥ ४८ ॥
+
+[^131]: "B reads द्वौ चाम्रे."
 
 सिंहाश्चत्वारोऽद्रौ प्रतिशेषषडंशकादिमार्धान्ताः ।
 
@@ -2583,7 +2845,9 @@ CONTENTS.
 
 शेषत्रिपञ्चमांशस्य मूलं षड्भिस्समाहतम् ॥ ५४ ॥
 
-विगलद्दान[धारा](# "B reads वारार्द्र.")र्द्रगण्डमण्डलदन्तिनः ।
+विगलद्दानधारा[^132]र्द्रगण्डमण्डलदन्तिनः ।
+
+[^132]: "B reads वारार्द्र."
 
 चतुर्विंशनिरादृष्टा मयाटव्यां कति द्विपाः ॥ ५५ ॥
 
@@ -2599,7 +2863,9 @@ CONTENTS.
 
 अथ भागसंवर्गजातौ सूत्रम् -
 
-[स्वांशा](# "After this stanza all the MSS. have the following stanza; but it is simply in parmphrase of stanza No. 57:- अन्यच्च -चतुर्हतदृष्टेनोनाद्भागाहन्यंशहृतहासत्। तच्छेदेन हतान्मूलं योज्य न्याज्यं तच्छेदे तदर्धं वित्तम् ॥")प्तहरादूनाच्चतुर्गुणाग्रेण तद्धरेण हतात् ।
+स्वांशा[^133]प्तहरादूनाच्चतुर्गुणाग्रेण तद्धरेण हतात् ।
+
+[^133]: "After this stanza all the MSS. have the following stanza; but it is simply in parmphrase of stanza No. 57:- अन्यच्च -चतुर्हतदृष्टेनोनाद्भागाहन्यंशहृतहासत्। तच्छेदेन हतान्मूलं योज्य न्याज्यं तच्छेदे तदर्धं वित्तम् ॥"
 
 मूलं योज्यं त्याज्यं तच्छेदे तद्दलं वित्तम् ॥ ५७ ॥
 
@@ -2633,7 +2899,9 @@ CONTENTS.
 
 व्यूनाधिकवर्गाग्रान्मूलं स्वर्णं फलं पदेंऽशहृतम् ॥ ६१ ॥
 
-[हीनालाप](# "M omits हीन.") उदाहरणम् ।
+हीनालाप[^134] उदाहरणम् ।
+
+[^134]: "M omits हीन."
 
 महिषीणामष्टांशो व्येको वर्गीकृतोवने रमते ।
 
@@ -2647,7 +2915,9 @@ CONTENTS.
 
 कियन्त एतेऽत्र भवन्ति दन्तिनः ॥ ६३ ॥
 
-[अधिकालाप](# "M omits this as well as the following stanza. ") उदाहरणम् ।
+अधिकालाप[^135] उदाहरणम् ।
+
+[^135]: "M omits this as well as the following stanza. "
 
 जम्बूवृक्षे पञ्चदशांशो द्विकयुक्तः
 
@@ -2673,7 +2943,9 @@ CONTENTS.
 
 मूलं कपोतबृन्दस्यद्वादशोनस्य चापि यत् ।
 
-तयो[र्योगे](# "B reads योगः") कपोताष्षड् दृष्टास्तन्निकरः कियान् ॥ ६६ ॥
+तयोर्योगे[^136] कपोताष्षड् दृष्टास्तन्निकरः कियान् ॥ ६६ ॥
+
+[^136]: "B reads योगः"
 
 पारावतीयसङ्घे चतुर्घनोनेऽपि तत्र यन्मूलम् ।
 
@@ -2705,7 +2977,9 @@ CONTENTS.
 
 सिकतायामष्टांशस्सन्दृष्टोऽष्टादशांशसङ्गुणितः ।
 
-स्तम्भस्यार्धं [दृष्टं](# "B, M and K read गगने.") स्तम्भायामः कियान् कथय ॥ ७० ॥
+स्तम्भस्यार्धं दृष्टं[^137] स्तम्भायामः कियान् कथय ॥ ७० ॥
+
+[^137]: "B, M and K read गगने."
 
 द्विभक्तनवमांशकप्रहतसप्तविंशांशकः
 
@@ -2751,7 +3025,9 @@ CONTENTS.
 
 गच्छति यः पुरुषोऽसौ दिनयुतवर्षेण किं कथय ॥ ३ ॥
 
-व्यर्धाष्टाभिरहोभिः क्रोशाष्टांशं [स्व](# "P, K and M read स for स्व.")पञ्चमं याति ।
+व्यर्धाष्टाभिरहोभिः क्रोशाष्टांशं स्व[^138]पञ्चमं याति ।
+
+[^138]: "P, K and M read स for स्व."
 
 पङ्गुस्सपञ्चभागैर्वर्षैस्त्रिभिरत्र किं ब्रूहि ॥ ४ ॥
 
@@ -2763,7 +3039,9 @@ CONTENTS.
 
 यो ना पुराणशतकं सपणं कालेन केनासौ ॥ ६ ॥
 
-[कृष्णागरुसत्खण्डं](# "B readsसकृष्णागरुखण्डं.") द्वादशहस्तायतं त्रिविस्तारम् ।
+कृष्णागरुसत्खण्डं[^139] द्वादशहस्तायतं त्रिविस्तारम् ।
+
+[^139]: "B readsसकृष्णागरुखण्डं."
 
 क्षयमेत्यङ्गुलमह्नः क्षयकालः कोऽस्य वृत्तस्य ॥ ७ ॥
 
@@ -2778,7 +3056,9 @@ CONTENTS.
 संप्राप्यं यत्र स्यात् पुराणशतकेन किं तत्र ॥ ९ ॥
 
 सार्धार्द्रकसप्तपलैश्चतुर्दशार्धोनिताः पणा
-[लब्धाः](# "M and B read लभ्याः") ।
+लब्धाः[^140] ।
+
+[^140]: "M and B read लभ्याः"
 
 द्वात्रिंशदार्द्रकपलैस्सपञ्चमैः किं सखेब्रूहि ॥ १० ॥
 
@@ -2800,13 +3080,17 @@ CONTENTS.
 
 वापी समचतुरश्रा सलिलवियुक्ताष्टहस्तघनमाना।
 
-शैलस्तस्यास्तीरे [समुत्थित](# "B reads समुत्थिता शि.")श्शिखरतस्तस्य ॥ १५ ॥
+शैलस्तस्यास्तीरे समुत्थित[^141]श्शिखरतस्तस्य ॥ १५ ॥
+
+[^141]: "B reads समुत्थिता शि."
 
 वृत्ताङ्गुलविष्कम्भा जलधारा स्फठिकनिर्मला पतिता ।
 
 वाप्यन्तरजलपूर्णा नगोच्छ्रितिः का च जलसङ्ख्या ॥ १६ ॥
 
-[मुद्गद्रोणयुगं](# "B and K read the following for this stanza : दुग्वद्रोणयुगं नवाज्यकुडबान् षट् शर्कराद्रोणका। नष्टौचोचफलानि सान्द्रदधिखार्यष्षट् पुराणत्रयम् ॥ श्रीखण्डं ददता नृपेण सवनार्थ षड्जिनागारके षट्त्रिंशत्रिशतेषु मित्र वद मे तद्दत्तदुग्धादिकम् ॥") नवाज्यकुडबान् षट् तण्डुलद्रोणका-
+मुद्गद्रोणयुगं[^142] नवाज्यकुडबान् षट् तण्डुलद्रोणका-
+
+[^142]: "B and K read the following for this stanza : दुग्वद्रोणयुगं नवाज्यकुडबान् षट् शर्कराद्रोणका। नष्टौचोचफलानि सान्द्रदधिखार्यष्षट् पुराणत्रयम् ॥ श्रीखण्डं ददता नृपेण सवनार्थ षड्जिनागारके षट्त्रिंशत्रिशतेषु मित्र वद मे तद्दत्तदुग्धादिकम् ॥"
 
 नष्टौ वस्त्रयुगानि वत्ससहिता गाष्षटू सुवर्णत्रयम् ।
 
@@ -2866,7 +3150,9 @@ CONTENTS.
 
 क्रोशस्य पञ्चभागं नौर्याति दिनत्रिसप्तभागेन ।
 
-[वार्धौ](# "B and K read तस्मिन्काले बार्धौ.")वाताविद्धाप्रत्येति क्रोशनवमांशम् ॥ २४ ॥
+वार्धौ[^143]वाताविद्धाप्रत्येति क्रोशनवमांशम् ॥ २४ ॥
+
+[^143]: "B and K read तस्मिन्काले बार्धौ."
 
 कालेन केन गच्छेत् त्रिपञ्चभागोनयोजनशतं सा।
 
@@ -2910,7 +3196,9 @@ CONTENTS.
 
 पञ्चसप्तनवराशिकेषु करणसूत्रम् -
 
-[लाभं](# "P reads as variations the following: प्रकारान्तरेण सूत्रम् - सङ्क्रम्य फलं छिन्द्याल्लघुपङ्क्त्यानेकराशिकां पङ्क्तिम् । स्वगुणामश्वादीनां क्रयविक्रययोस्तु तानेव ॥ अन्यदपि सूत्रम् -सङ्क्रम्य फलं छिन्द्यात्पृथुपङ्क्त्यभ्यासमल्पया पङ्क्त्या। अश्वादीनां क्रयविक्रययोरश्वादिकांश्च सङ्क्रम्य ॥ B gives only the latter of these stanzas with the following variation in the second uarter: पृथुपड्क्त्यभ्यासमल्पपङ्क्त्याहत्या.") नीत्वान्योन्यं विभजेत् पृथुपङ्क्तिमल्पया पङ्क्त्या।
+लाभं[^144] नीत्वान्योन्यं विभजेत् पृथुपङ्क्तिमल्पया पङ्क्त्या।
+
+[^144]: "P reads as variations the following: प्रकारान्तरेण सूत्रम् - सङ्क्रम्य फलं छिन्द्याल्लघुपङ्क्त्यानेकराशिकां पङ्क्तिम् । स्वगुणामश्वादीनां क्रयविक्रययोस्तु तानेव ॥ अन्यदपि सूत्रम् -सङ्क्रम्य फलं छिन्द्यात्पृथुपङ्क्त्यभ्यासमल्पया पङ्क्त्या। अश्वादीनां क्रयविक्रययोरश्वादिकांश्च सङ्क्रम्य ॥ B gives only the latter of these stanzas with the following variation in the second uarter: पृथुपड्क्त्यभ्यासमल्पपङ्क्त्याहत्या."
 
 गुणयित्वा जीवानां क्रयविक्रययोस्तु तानेव ॥ ३२ ॥
 
@@ -2936,9 +3224,13 @@ CONTENTS.
 
 भाण्डप्रतिभाण्डस्योद्देशकः ।
 
-कस्तूरीकर्षत्रयमुपलभते दशभिरष्टभिः [कनकैः](# "B addsना n the end")।
+कस्तूरीकर्षत्रयमुपलभते दशभिरष्टभिः कनकैः[^145]।
 
-कर्षद्वयकर्पूरं मृगनाभित्रिशतकर्षकैः कति [ना](# "K, M and B read हेमकर्षाःfor ना.") ॥ ३७ ॥
+[^145]: "B addsना n the end"
+
+कर्षद्वयकर्पूरं मृगनाभित्रिशतकर्षकैः कति ना[^146] ॥ ३७ ॥
+
+[^146]: "K, M and B read हेमकर्षाःfor ना."
 
 पनसानि षष्टिमष्टभिरुपलभतेऽशीतिमातुलुङ्गानि ।
 
@@ -2970,7 +3262,9 @@ CONTENTS.
 
 नवराशिक उद्देशकः ।
 
-[पञ्चा](# "The following stanza is found in K and B in addition to stanzaNo. 43. द्वयष्टाशीतिव्यासदैर्ध्योन्नताम्भो धत्ते वापी शालिनी सार्धवाहौ। हस्तादष्टायामकाःषोडशाच्छ्राःषट्कव्यासाः किं चतस्रावद त्वम् ॥")ष्टत्रिव्यासदैर्ध्योदयाम्भो
+पञ्चा[^147]ष्टत्रिव्यासदैर्ध्योदयाम्भो
+
+[^147]: "The following stanza is found in K and B in addition to stanzaNo. 43. द्वयष्टाशीतिव्यासदैर्ध्योन्नताम्भो धत्ते वापी शालिनी सार्धवाहौ। हस्तादष्टायामकाःषोडशाच्छ्राःषट्कव्यासाः किं चतस्रावद त्वम् ॥"
 
 धत्ते वापी शालिनी वाहषट्कम् ।
 
@@ -3098,7 +3392,9 @@ CONTENTS.
 
 पिप्पल्याः पलपञ्चकमथ पादोनैः पणैर्नवभिः ॥ १९ ॥
 
-शुण्ठ्याः पलैश्च [केन](# "Both M and B have the erroneous reading कश्चित् त्वशीतिभिः स च पलानि पिप्पल्याः ")चिदशीतिभिः कति पलानि पिप्पल्याः।
+शुण्ठ्याः पलैश्च केन[^148]चिदशीतिभिः कति पलानि पिप्पल्याः।
+
+[^148]: "Both M and B have the erroneous reading कश्चित् त्वशीतिभिः स च पलानि पिप्पल्याः "
 
 क्रीतानि विचिन्त्य त्वं गणितविदाचक्ष्व मे शीघ्रम् ॥ २० ॥
 
@@ -3200,7 +3496,9 @@ CONTENTS.
 
 पञ्चकशतप्रयोगे न ज्ञातः कालमूलफलराशिः ।
 
-तन्मिंश्र [द्वाशीति](# "This wrong form is the reading found in the MSS.; and the correct form द्व्यशीतिdon not satisfy the exigencies of the metre.")र्मूलं किं कालवृद्धी के ॥ ३६ ॥
+तन्मिंश्र द्वाशीति[^149]र्मूलं किं कालवृद्धी के ॥ ३६ ॥
+
+[^149]: "This wrong form is the reading found in the MSS.; and the correct form द्व्यशीतिdon not satisfy the exigencies of the metre."
 
 
 
@@ -3236,7 +3534,9 @@ CONTENTS.
 
 स्वफलैः स्वमूलभक्तैस्तद्युत्या कालमिश्रधनराशिम् ।
 
-[छिन्द्यादंशं](# "The MSS, read छिन्द्यादशान् which does not seem to be correct") गुणयेत् समागमो भवति कालानाम् ॥ ४२ ॥
+छिन्द्यादंशं[^150] गुणयेत् समागमो भवति कालानाम् ॥ ४२ ॥
+
+[^150]: "The MSS, read छिन्द्यादशान् which does not seem to be correct"
 
 अत्रोद्देशकः।
 
@@ -3304,7 +3604,9 @@ CONTENTS.
 
 रूपस्येच्छाकालादुभयफले ये तयोर्विशेषेण ।
 
-लब्धं विभजेन्मूलं स्वपूर्वसङ्कल्पितं [भवति](# "This samerule is somewhat defectively stated again with a modification in reading thus: पुनरप्युभयप्रयोगमूलानयनसूत्रम् - इच्छाकालादुभयप्रयोगवृद्धिं समानीय । तद्वृद्ध्यन्तरभक्तं लब्धं मूलं विजानीयात् ॥") ॥ ५४ ॥
+लब्धं विभजेन्मूलं स्वपूर्वसङ्कल्पितं भवति[^151] ॥ ५४ ॥
+
+[^151]: "This samerule is somewhat defectively stated again with a modification in reading thus: पुनरप्युभयप्रयोगमूलानयनसूत्रम् - इच्छाकालादुभयप्रयोगवृद्धिं समानीय । तद्वृद्ध्यन्तरभक्तं लब्धं मूलं विजानीयात् ॥"
 
 अत्रोद्देशकः ।
 
@@ -3374,7 +3676,9 @@ CONTENTS.
 
 वृद्धियुक्तहीनसमानमूलमिश्रविभागसूत्रम् -
 
-कालस्वफलोनाधिकरूपोद्धृतरूपयोगहृत[मिश्रे](# "मिश्रःisthe reading found in the MSS. ; मिश्रे isadopted as being more satisfactory grammatically.") ।
+कालस्वफलोनाधिकरूपोद्धृतरूपयोगहृतमिश्रे[^152] ।
+
+[^152]: "मिश्रःisthe reading found in the MSS. ; मिश्रे isadopted as being more satisfactory grammatically."
 
 प्रक्षेपो गुणकारः स्वफलानाधिकसमानमूलानि ॥ ६६ ॥
 
@@ -3604,7 +3908,9 @@ CONTENTS.
 
 अत्रोद्देशकः।
 
-[अर्धं](# "The following stanza is added in M after stanza No. 110, but it is not found B: अर्धत्रिपादभागा धनानि षट्पञ्चमांशकान्त्यार्घः । एकार्घेण क्रीत्वा विक्रीय च समधना जाताः ॥")द्वौ त्र्यंशौ च त्रीन् पादांशांश्च सङ्गृह्य ।
+अर्धं[^153]द्वौ त्र्यंशौ च त्रीन् पादांशांश्च सङ्गृह्य ।
+
+[^153]: "The following stanza is added in M after stanza No. 110, but it is not found B: अर्धत्रिपादभागा धनानि षट्पञ्चमांशकान्त्यार्घः । एकार्घेण क्रीत्वा विक्रीय च समधना जाताः ॥"
 
 विक्रीय क्रीत्वान्ते पञ्चभिरङ्घ्र्यंशकैस्समानधनाः ॥ ११० $\\frac{१}{२}$ ॥
 
@@ -3752,7 +4058,9 @@ CONTENTS.
 
 प्रविश्य जैनं भवनं त्रिपूरुषं
 
-प्रागेकमभ्यर्च्य जिनस्य [पादे](# "The MSS. give पादौ, which doesnot seem to be correct here. B reads केशान् for पादे.")।
+प्रागेकमभ्यर्च्य जिनस्य पादे[^154]।
+
+[^154]: "The MSS. give पादौ, which doesnot seem to be correct here. B reads केशान् for पादे."
 
 शेषत्रिभागं प्रथमेऽनुमाने
 
@@ -3782,7 +4090,9 @@ CONTENTS.
 
 राशिःषट्केन हतो दशान्वितो नवहृतो निरवशेषः ।
 
-दशभिर्हिनश्च तथा [तद्गुणकौ](# "B गुणकारौ.")कौममाशु सङ्कथय ॥ १३५ $\\frac{१}{२}$ ॥
+दशभिर्हिनश्च तथा तद्गुणकौ[^155]कौममाशु सङ्कथय ॥ १३५ $\\frac{१}{२}$ ॥
+
+[^155]: "B गुणकारौ."
 
 सकलकुट्टीकारः॥
 
@@ -3884,8 +4194,10 @@ CONTENTS.
 
 इत्युक्तः प्रहितः कश्चित् तेन किं कस्य दीयते ॥ १५३ ॥
 
-व्यस्तार्घपण्यप्रमाणानयन[सूत्रम्](# "Nof found in any of the MSS. consuited.")
+व्यस्तार्घपण्यप्रमाणानयनसूत्रम्[^156]
 -
+
+[^156]: "Nof found in any of the MSS. consuited."
 
 पण्यैक्येन पणैक्यमन्तरमतः पण्येष्टपण्यान्तरै-
 
@@ -4029,7 +4341,9 @@ CONTENTS.
 
 अत्राद्देशकः।
 
-[षड्जलधिवह्नि](# "Here वह्निis substituted for रनल, and ष्टर्तुवर्णकैः for ष्टावृतुक्षयेः, as thereby the reading will be better grammatically.")कनकैस्त्रयोदशाष्टर्तुवर्णकैः क्रमशः ।
+षड्जलधिवह्नि[^157]कनकैस्त्रयोदशाष्टर्तुवर्णकैः क्रमशः ।
+
+[^157]: "Here वह्निis substituted for रनल, and ष्टर्तुवर्णकैः for ष्टावृतुक्षयेः, as thereby the reading will be better grammatically."
 
 
 
@@ -4037,7 +4351,9 @@ CONTENTS.
 
 अज्ञातवर्णसङ्ख्यां ब्रूहि सखेगणिततत्त्वज्ञ ॥ १७८ ॥
 
-चतुर्दशैव वर्णानि सप्त स्वर्णानि [तत्क्षये](# "The reading in the MSS. is तत्क्षय, which is obviously erroneous.")।
+चतुर्दशैव वर्णानि सप्त स्वर्णानि तत्क्षये[^158]।
+
+[^158]: "The reading in the MSS. is तत्क्षय, which is obviously erroneous."
 
 चतुस्स्वर्णे दशोत्पन्नमज्ञातक्षयकं वद ॥ १७९ ॥
 
@@ -4093,7 +4409,9 @@ CONTENTS.
 
 अत्रोद्देशकः।
 
-षोडशदशकनकाभ्यां वर्णं न [ज्ञायते](# "B addshere यते। ")पक्वम् ।
+षोडशदशकनकाभ्यां वर्णं न ज्ञायते[^159]पक्वम् ।
+
+[^159]: "B addshere यते। "
 
 वर्णं चैकादश चेद्वर्णौतत्कनकयोर्भवेतां कौ ॥ १८८ ॥
 
@@ -4307,7 +4625,9 @@ CONTENTS.
 
 भरभृतिगतगम्यहतिं त्यक्त्वा योजनदलघ्नभारकृतेः ।
 
-तन्मूलानं [गम्यच्छिन्नं](# "M and B add तhere; metrically it is faulty. ") गन्तव्यभाजितं सारम् ॥ २२६ ॥
+तन्मूलानं गम्यच्छिन्नं[^160] गन्तव्यभाजितं सारम् ॥ २२६ ॥
+
+[^160]: "M and B add तhere; metrically it is faulty. "
 
 
 
@@ -4329,7 +4649,9 @@ CONTENTS.
 
 लभते तद्भृतिमिह नव षड्भृतिवियुते द्वितीयनृगतिः का ॥ २२९ ॥
 
-[बहुपद](# "B omits पद here.")भाटकानयनस्य सूत्रम् -
+बहुपद[^161]भाटकानयनस्य सूत्रम् -
+
+[^161]: "B omits पद here."
 
 सन्निहितनरहृतेषु प्रागुत्तरामिश्रितेषु मार्गेषु ।
 
@@ -4423,7 +4745,9 @@ CONTENTS.
 
 मार्गे नरैः पोट्टलकं चतुर्भिर्दृष्टं हि तस्यैव तदा बभूवुः ।
 
-पञ्चांशपादार्धतृतीयभागास्तद्द्वित्रिपञ्चनचतुर्गुणा[श्च](# "M and B read स्युः ; and it is obviously inappropriate.") ॥ २४८ ॥
+पञ्चांशपादार्धतृतीयभागास्तद्द्वित्रिपञ्चनचतुर्गुणाश्च[^162] ॥ २४८ ॥
+
+[^162]: "M and B read स्युः ; and it is obviously inappropriate."
 
 मार्गे त्रिभिर्वणिग्भिः पोट्टलकं दृष्टमाह तत्राद्यः ।
 
@@ -5013,7 +5337,9 @@ CONTENTS.
 
 गजदन्तक्षेत्रस्य च पृष्ठेऽष्टाशीतिरत्र सन्दृष्टाः ।
 
-द्वासप्ततिरुदरे तन्मूलेऽपि [त्रिंशदिह](# "The reading in both B and M is त्रिंशतिः ; but as this is erroneous it is corrected into त्रिंशदिह so asto meet the requirements of the metre also") दण्डाः ॥ ११ ॥
+द्वासप्ततिरुदरे तन्मूलेऽपि त्रिंशदिह[^163] दण्डाः ॥ ११ ॥
+
+[^163]: "The reading in both B and M is त्रिंशतिः ; but as this is erroneous it is corrected into त्रिंशदिह so asto meet the requirements of the metre also"
 
 क्षेत्रस्य, दण्डषष्टिर्बाहुप्रतिबाहुकस्य गणयित्वा ।
 
@@ -5033,7 +5359,9 @@ CONTENTS.
 
 विषमक्षेत्रस्याष्टत्रिंशद्दण्डाः क्षितिर्मुखे द्वात्रिंशत् ।
 
-पञ्चाश[त्प्रति](# "B reads देक for त्प्रति.") बाहुः षष्टिस्त्वन्यः किमस्य चतुरश्रे ॥ १६ ॥
+पञ्चाशत्प्रति[^164] बाहुः षष्टिस्त्वन्यः किमस्य चतुरश्रे ॥ १६ ॥
+
+[^164]: "B reads देक for त्प्रति."
 
 परिघोदरस्तु दण्डास्त्रिंशत्ष्टष्ठं शतत्रयं दृष्टम् ।
 
@@ -5229,8 +5557,10 @@ CONTENTS.
 
 अथ सूक्ष्मगणितम्.
 
-इतः परं क्षेत्रगणिते सूक्ष्मगणितव्यवहारमुदाहरिष्यामः । [तद्यथा](# "After this M adds the following :-त्रिभुजक्षेत्रस्यभुजद्वयसंयोगस्थानमारभ्य अधस्स्थितभूमिसंस्पृष्टरेखाया नाम अवलम्बकः स्यात् ।")
+इतः परं क्षेत्रगणिते सूक्ष्मगणितव्यवहारमुदाहरिष्यामः । तद्यथा[^165]
 -
+
+[^165]: "After this M adds the following :-त्रिभुजक्षेत्रस्यभुजद्वयसंयोगस्थानमारभ्य अधस्स्थितभूमिसंस्पृष्टरेखाया नाम अवलम्बकः स्यात् ।"
 
 आबाधावलम्बकानयनसूत्रम् -
 
@@ -5376,7 +5706,9 @@ CONTENTS.
 
 गुणचापकृतिविशेषात्तर्कहृतात्पदमिषुः समुद्दिष्टः ।
 
-शरवर्गात् षड्गुणिता[दूनं](# "The reading in both B and M is to given abvo ; but षड्गुणितादूनाया धनुष्कृतेः पदं जीवा gives the required meaning.")धनुषः कृतेः पदं जीवा ॥ ७४ $\\frac{१}{२}$॥
+शरवर्गात् षड्गुणितादूनं[^166]धनुषः कृतेः पदं जीवा ॥ ७४ $\\frac{१}{२}$॥
+
+[^166]: "The reading in both B and M is to given abvo ; but षड्गुणितादूनाया धनुष्कृतेः पदं जीवा gives the required meaning."
 
 अत्रोद्देशकः।
 
@@ -5855,7 +6187,9 @@ CONTENTS.
 
 सूक्ष्मगणितफलं ज्ञात्वा तत्सूक्ष्मगणितफलवत्समत्रिबाहुक्षेत्रस्य बाहुसङ्ख्यानयनसूत्रम् -
 
-गणितं तु चतुर्गुणितं [वर्गीकृत्वा](# "वर्गीकृत्वा ought to be वर्गीकृत्य; but this form will not suit the requirements of the metre.") भजेत् त्रिभिर्लब्धम् ।
+गणितं तु चतुर्गुणितं वर्गीकृत्वा[^167] भजेत् त्रिभिर्लब्धम् ।
+
+[^167]: "वर्गीकृत्वा ought to be वर्गीकृत्य; but this form will not suit the requirements of the metre."
 
 त्रिभुजस्य क्षेत्रस्य च समस्य बाहोः कृतेर्वर्गम् ॥ १५४ $\\frac{१}{२}$ ॥
 
@@ -6049,9 +6383,13 @@ CONTENTS.
 
 कोणेभ्योऽथ चतुर्भ्यो विनिर्गता रज्जवस्तत्र ॥ १८८$\\frac{१}{२}$ ॥
 
-भुजमध्यं द्वियुग[भुजे](# "भुजचतुर्षु च is the reading found in the MS..., but it is not correct.") रज्जुः का स्यात्सुसंवीता।
+भुजमध्यं द्वियुगभुजे[^168] रज्जुः का स्यात्सुसंवीता।
 
-को वावलम्बकः स्यादाबाधे [केऽन्तरे](# "The sandhi in केन्तरे is grammstically incorrect ;but the author seems to have intendedthe phonetic fusion for thetake of the metre ; vide stanza 204 of this chapter.") तस्मिन् ॥ १८९$\\frac{१}{२}$ ॥
+[^168]: "भुजचतुर्षु च is the reading found in the MS..., but it is not correct."
+
+को वावलम्बकः स्यादाबाधे केऽन्तरे[^169] तस्मिन् ॥ १८९$\\frac{१}{२}$ ॥
+
+[^169]: "The sandhi in केन्तरे is grammstically incorrect ;but the author seems to have intendedthe phonetic fusion for thetake of the metre ; vide stanza 204 of this chapter."
 
 स्तम्भस्थोन्नतप्रमाणसङ्ख्यां ज्ञात्वा तस्मिन् स्तम्भे येनकेनचित्कारणेन भग्ने पतिते सति तत्स्तम्भाग्रमूलयोर्मध्ये स्थितौभूसङ्ख्यां ज्ञात्वा तत्स्तम्भमूलादारभ्य स्थितपरिमाणसङ्ख्यानयनस्य सूत्रम् -
 
@@ -6131,7 +6469,9 @@ CONTENTS.
 
 स्तम्भस्त्रयोदशैकः पञ्चदशान्यश्चतुर्दशान्तरितः ।
 
-रज्जुर्बद्धा शिखरे भूमीपतिता [क आबाधे](# "क आबाधे is gramatically incorrect since there can be no sandhi between के in the dual number and आबाघे; vido footnote on page 136.") ॥
+रज्जुर्बद्धा शिखरे भूमीपतिता क आबाधे[^170] ॥
+
+[^170]: "क आबाधे is gramatically incorrect since there can be no sandhi between के in the dual number and आबाघे; vido footnote on page 136."
 
 ते रज्जू समसङ्ख्ये स्यातां तद्रज्जुमानमपि कथय ॥ २०५ ॥
 
@@ -6691,7 +7031,9 @@ CONTENTS.
 
 
 
-शान्तिर्जिनः शान्तिकरः प्रजानां जगत्प्रभुर्ज्ञातसमस्त[भावः](# "M reads तत्वः") ।
+शान्तिर्जिनः शान्तिकरः प्रजानां जगत्प्रभुर्ज्ञातसमस्तभावः[^171] ।
+
+[^171]: "M reads तत्वः"
 
 यः प्रातिहार्याष्टविवर्धमानो नमामि तं निर्जितशत्रुसङ्गम् ॥ १॥
 
@@ -6777,7 +7119,9 @@ CONTENTS.
 
 
 
-विषुवच्छायायुक्ते देशे इष्टच्छायां ज्ञात्वा कालानयनस्य [सूत्रम्](# "Notfound in any of the MSS.") -
+विषुवच्छायायुक्ते देशे इष्टच्छायां ज्ञात्वा कालानयनस्य सूत्रम्[^172] -
+
+[^172]: "Notfound in any of the MSS."
 
 शङ्कुयुतेष्टच्छाया मध्यच्छायोनिता द्विगुणा ।
 
@@ -6885,7 +7229,9 @@ CONTENTS.
 
 सैकनरच्छायाकतिगुणिता छायाकृतेः शोध्या ॥ ३२ ॥
 
-तन्मूलं छायायां शोध्यं [नरभानवर्गरूपेण](# "नृभावर्ग is the reading given in the MSS. for नरभान ; but it is metrically incorrect.") ।
+तन्मूलं छायायां शोध्यं नरभानवर्गरूपेण[^173] ।
+
+[^173]: "नृभावर्ग is the reading given in the MSS. for नरभान ; but it is metrically incorrect."
 
 भागं हृत्वा लब्धं स्तम्भस्यावनतिरेव स्यात् ॥ ३३ ॥
 
@@ -7215,7 +7561,9 @@ ON TERMINOLOGY.
 
 **Salutation and Benediction**,
 
-1. Salutation to Mahāvīra, the Lord of the Jinas, the protector (of the faithful), whose [four](# "These four attributes of Jins Maahāvīra are said to be his faith, understanding, blissfulness and power.") infinite attributes, worthy to be esteemed in (all) the three worlds, are unsurpassable(in excellence).
+1. Salutation to Mahāvīra, the Lord of the Jinas, the protector (of the faithful), whose four[^174] infinite attributes, worthy to be esteemed in (all) the three worlds, are unsurpassable(in excellence).
+
+[^174]: "These four attributes of Jins Maahāvīra are said to be his faith, understanding, blissfulness and power."
 
 2. I bow to that highly glorious Lord of the Jinas, by whom, as forming the shining lamp of the knowledge of numbers, the whole of the universe has been made to shine.
 
@@ -7241,7 +7589,9 @@ ON TERMINOLOGY.
 
 11. In prosody, in poeties and poetry, in logicand grammar and such other things, and in relation to all that constitutes the peculiarvalue of (all) the (various) arts: the science of computation is held in high esteem.
 
-12. In relation to the movements of the sun and other heavenly bodies, in connection with eclipses and the conjunctions of planets, and in connection with the [*tripraṡna*](# "The tripraṡna is the name of a chapter in Sanskrit astronomical works; andthe fact that it deals with three questions is responsible for that name. The questions dealt with are Dik (direction), Daśā (position) and Kāla (time) appertaining to the planets and other heavenly bodies.")and the course of the moon - indeed in all these (connections) it is utilised
+12. In relation to the movements of the sun and other heavenly bodies, in connection with eclipses and the conjunctions of planets, and in connection with the *tripraṡna*[^175], Daśā (position) and Kāla (time) appertaining to the planets and other heavenly bodies.")and the course of the moon - indeed in all these (connections) it is utilised
+
+[^175]: "The tripraṡna is the name of a chapter in Sanskrit astronomical works; andthe fact that it deals with three questions is responsible for that name. The questions dealt with are Dik (direction
 
 13-14. The number, the diameter and the perimeter of islands, oceans and mountains; the extensive dimensions of the rows of habitations and halls belonging to the inhabitants of the (earthly) world, of the interspace (between the worlds), of the world of light, and of the world of the gods; (as also the dimensions of those belonging) to the dwellers in hell : and (other) miscellaneous measurements of all sorts - all these are made out by means of computation.
 
@@ -7324,7 +7674,9 @@ ON TERMINOLOGY.
 
 **General rules in regard to zero and positive and negative quantities.**
 
-49. A number multiplied by zero is zero, and that (number) remains unchanged when it is divided [by](# "It can be easily seen here that a number when divided by zero does not really remain unchanged. Bhāskara calls the quotient of such zero-divisions khahara and rightly assigns to it the value of innity. Mahāvīrācārya obviously thinks that a division by zero is no division at all."), combined with (or) diminished by zero. Multiplication and other operations in relation to zero (give rise to) zero; and in the operation of addition, the zero becomes the same as what is added to it.
+49. A number multiplied by zero is zero, and that (number) remains unchanged when it is divided by[^176], combined with (or) diminished by zero. Multiplication and other operations in relation to zero (give rise to) zero; and in the operation of addition, the zero becomes the same as what is added to it.
+
+[^176]: "It can be easily seen here that a number when divided by zero does not really remain unchanged. Bhāskara calls the quotient of such zero-divisions khahara and rightly assigns to it the value of innity. Mahāvīrācārya obviously thinks that a division by zero is no division at all."
 
 50. In multiplying as well as dividing two negative (or) two positive. (quantities, one by the other), the result is a positive (quantity). But it is a negative quantity in relation to two (quantities), one (of which is) positive and the other negative. In adding a positive and a negative (quantity, the result) is (their) difference.
 
@@ -7398,9 +7750,13 @@ The rule of work in relation to the operation of multiplication, which is the fi
 
 3. Nine *padmarāga* gems are seen to have been offered in worship in a single Jina temple. How many will they be (atthat same rate) in relation to 288 temples ?
 
-[4](# "Here, 139 is mentioned in the original as 40 + 100 - 1."). One hundred and thirty-nine *puṣyarāga* gems have to be offered in worship in a single Jina temple. Say, how many gems (have to be so offered) in 109 temples.
+4[^177]. One hundred and thirty-nine *puṣyarāga* gems have to be offered in worship in a single Jina temple. Say, how many gems (have to be so offered) in 109 temples.
 
-[5](# "Here, 1998 is mentioned in the original as 1098 + 900."). Twenty-seven lotuses have been given away in offering to a single Jina temple. Say, how many they are (which have been at that rate given away) to 1998 (temples).
+[^177]: "Here, 139 is mentioned in the original as 40 + 100 - 1."
+
+5[^178]. Twenty-seven lotuses have been given away in offering to a single Jina temple. Say, how many they are (which have been at that rate given away) to 1998 (temples).
+
+[^178]: "Here, 1998 is mentioned in the original as 1098 + 900."
 
 6. (At the rate of) 108 golden lotuses to each temple, how many will they be in relation to 85697481 (temples)?
 
@@ -7410,17 +7766,23 @@ The rule of work in relation to the operation of multiplication, which is the fi
 
 9. In this (problem), write down the number 157683 and multiply it by 9, and then tell me, friend, the value of the (resulting) quantity.
 
-[10](# "Here as well as in the following stanzas, certain numbers are said to constitute different kinds of necklace on account of the symmetrical arrangement of similar figures which is readily noticeable in relation to them."). In this (problem), 12345679 multiplied by 9 is to be written down; this (product) has been declared by the holy preceptor Mahāvīra to constitute the necklace of Narapāla.
+10[^179]. In this (problem), 12345679 multiplied by 9 is to be written down; this (product) has been declared by the holy preceptor Mahāvīra to constitute the necklace of Narapāla.
+
+[^179]: "Here as well as in the following stanzas, certain numbers are said to constitute different kinds of necklace on account of the symmetrical arrangement of similar figures which is readily noticeable in relation to them."
 
 
 
-[11](# "The multiplicand here is 333333666667."). Six 3's, five 6's, and (one) 7, which is at the end, areput down (in the descending order down to the units' place); and this (number) multiplied by 33 has (also) been declared to bea (kind of) necklace.
+11[^180]. Six 3's, five 6's, and (one) 7, which is at the end, areput down (in the descending order down to the units' place); and this (number) multiplied by 33 has (also) been declared to bea (kind of) necklace.
+
+[^180]: "The multiplicand here is 333333666667."
 
 12. In this (problem), write down 3,4, 1, 7, 8, 2, 4, and 1 (in order from the units' place upwards), and multiply (the resulting number) by 7; and then say that it is the necklace of precious gems.
 
 13. Write down (the number) 142857143, and multiply it by 7; and then say that it is the royal necklace.
 
-[14](# "This problem reduces itself to this : multiply 37037037 x3 by 1, 2, 2, 4, 5, 6, 7, 8, and 9 in order."). Similarly 37037037 is multiplied by 3. Find out (the result) obtained by multiplying (this product) again to get such multiples (thereof) ashave one as the first and nine as the last (of the multipliers in order).
+14[^181]. Similarly 37037037 is multiplied by 3. Find out (the result) obtained by multiplying (this product) again to get such multiples (thereof) ashave one as the first and nine as the last (of the multipliers in order).
+
+[^181]: "This problem reduces itself to this : multiply 37037037 x3 by 1, 2, 2, 4, 5, 6, 7, 8, and 9 in order."
 
 15. The (figures) 7, 0, 2, 2, 5 and 1 are put down (in order from the units' place upwards); and then this (number) which is to bemultiplied by 73, should (also) be called a necklace (when so multiplied).
 
@@ -7444,27 +7806,41 @@ Or :
 
 *Examples in illustration thereof.*
 
-[20](# "Here, 8192 is mentioned in the original as 8000 + 92 + 100."). Dīnāras (amounting to) 8192 have been divided between 64 men. What is the share of one man?
+20[^182]. Dīnāras (amounting to) 8192 have been divided between 64 men. What is the share of one man?
+
+[^182]: "Here, 8192 is mentioned in the original as 8000 + 92 + 100."
 
 21. Tell me the share of one person when 2701 pieces of gold are divided among 37 persons.
 
 22. Dīnāras (amounting to) 10319 have been divided between 79 persons. What is it that is obtained by one (person)?
 
-[23](# "Here, 14141 is given as 10000 + (40 + 4000+ 1 + 100)."). Gold pieces (amounting to) 14141 are given to 79 temples. What is the money (given) to each (temple) ?
+23[^183]."). Gold pieces (amounting to) 14141 are given to 79 temples. What is the money (given) to each (temple) ?
 
-[24](# "Here, 31317 is given as 17 +300+ 31000."). Jambū fruits (amounting to) 31317 have been divided between 39 persons. Tell me the share of each.
+[^183]: "Here, 14141 is given as 10000 + (40 + 4000+ 1 + 100
 
-[25](# "Here, 31313 is given as 13 + 200+ 31000."). Jambūfruits (amounting to) 31313 have been divided between 181 persons. Give out the share of each
+24[^184]. Jambū fruits (amounting to) 31317 have been divided between 39 persons. Tell me the share of each.
 
-[26](# "Here, 36261 is given as 30000 +1+(60+ 200 + 6000)."). Gems amounting to 36261 (in number) are given to 9 persons (equally). What does one man obtain here?
+[^184]: "Here, 31317 is given as 17 +300+ 31000."
 
-[27](# "Here, the given dividend is obviously 12345654321."). O friend, gold pieces (to the value of the number wherein the figures in order from the units' place upwards are) such as begin with 1 and end with 6, and then become gradually diminished, are divided between 441 persons. What is the share of each?
+25[^185]. Jambūfruits (amounting to) 31313 have been divided between 181 persons. Give out the share of each
+
+[^185]: "Here, 31313 is given as 13 + 200+ 31000."
+
+26[^186]."). Gems amounting to 36261 (in number) are given to 9 persons (equally). What does one man obtain here?
+
+[^186]: "Here, 36261 is given as 30000 +1+(60+ 200 + 6000
+
+27[^187]. O friend, gold pieces (to the value of the number wherein the figures in order from the units' place upwards are) such as begin with 1 and end with 6, and then become gradually diminished, are divided between 441 persons. What is the share of each?
+
+[^187]: "Here, the given dividend is obviously 12345654321."
 
 22.In the original, 10349 is given as 10000 + 300+ 7².
 
 
 
-[28](# "Here, 28483 is given as 83 + 400 + (4000 x 7)."). Gems (amounting to) 28483 (in number) are given (in offering) to 13 Jina temples. Give out the share of each (temple).
+28[^188]."). Gems (amounting to) 28483 (in number) are given (in offering) to 13 Jina temples. Give out the share of each (temple).
+
+[^188]: "Here, 28483 is given as 83 + 400 + (4000 x 7
 
 Thus ends division, the second of the operations known as *Parikarman*.
 
@@ -7493,11 +7869,15 @@ Similarly (1+2+3+ 4)² = (1² + 2² + 3² + 4²) + 2(1 x 2 +1x 3 + 1x 4 + 2x 3 +
 
 32. Give out the squares of (the numbers from) 1 to 9, of 15, 16, 25, 36 and 75.
 
-[33](# " Here, 4661 is given as 4000 + 61 + 600."). What will 338, 4661 and 256 become when squared ?
+33[^189]. What will 338, 4661 and 256 become when squared ?
+
+[^189]: " Here, 4661 is given as 4000 + 61 + 600."
 
 34. O arithmetician, give out, if you know, the squares of 65536, 12345 and 3333.
 
-[35](# "Here, 7135 is given as 135 + (1000 x 7)."). (Each of the numbers) 6387, and then 7135, and (then) 1022 is squared. O clever arithmetician, tell me, after multiplying well, the value of those three (squares).
+35[^190]."). (Each of the numbers) 6387, and then 7135, and (then) 1022 is squared. O clever arithmetician, tell me, after multiplying well, the value of those three (squares).
+
+[^190]: "Here, 7135 is given as 135 + (1000 x 7
 
 Thus ends squaring, the third of the operations known as *Parikarman*.
 
@@ -7592,7 +7972,9 @@ ii) *a*³=*a*²+(*a*−1)(1+3+5+7+ .........to a terms).
 
 46. (Ina given quantity), the squares of (the number represented by the figures in) the last place as also (by those in) the other (remaining places) are taken; and each of these (squares) is multiplied by the number of the other place and also by *three*; the sum of the two (quantities resulting thus), when combined again with the cubes of the numbers corresponding to all the (optional) places, (gives rise to) the cube (of the given quantity).
 
-[47](# "The pushing on of figure here referred to is similar to what is exhibitedin the noteunder stanza31 in this chapter."). Or, the cube of the last figure (in the number counted from right to left is to be obtained); and thricethe square (of that last figure) is to be pushed on (to the right by onenotational place) and multiplied by (the number represented by the figures found inthe) remaining (places); then the square of this (number represented by the figures found in the) remaining (places) is to be pushed on (as above) and multiplied by thrice the last figure (above-mentioned). These (three quantities) are then to beplaced in position (and then summed up). Such is the rule (to be carried out) here.
+47[^191]. Or, the cube of the last figure (in the number counted from right to left is to be obtained); and thricethe square (of that last figure) is to be pushed on (to the right by onenotational place) and multiplied by (the number represented by the figures found inthe) remaining (places); then the square of this (number represented by the figures found in the) remaining (places) is to be pushed on (as above) and multiplied by thrice the last figure (above-mentioned). These (three quantities) are then to beplaced in position (and then summed up). Such is the rule (to be carried out) here.
+
+[^191]: "The pushing on of figure here referred to is similar to what is exhibitedin the noteunder stanza31 in this chapter."
 
 *Examples in illustration thereof.*
 
@@ -7724,7 +8106,9 @@ It is quite obvious that an arithmetically progresive series having a negative c
 
 65. (Each of) ten merchants gives away money (in an arithmetically progressive series) as a religious offering, the first terms of the (ten) series being from 1 to 10, the common difference (in each of these series) being of the same value (as the first terms thereof), and the number of terms being 10 (in every one of the series). Calculate the same of those (series).
 
-[66](# "A. śrāvaka is a lay follower of the Jaina religion, who merely hents, i.e.,listens to and learns the dharmasor duties, as opposed to the ascetics who are entitled to teach those religious duties."). A certain excellent *śrāvaka* gavegems in offering to 5 temples (one after another) commencing (the offering) with 2 (gems), and then increasing (it successively) by 3 (gems). O you who know how to calculate, mention what their (total) number is.
+66[^192]. A certain excellent *śrāvaka* gavegems in offering to 5 temples (one after another) commencing (the offering) with 2 (gems), and then increasing (it successively) by 3 (gems). O you who know how to calculate, mention what their (total) number is.
+
+[^192]: "A. śrāvaka is a lay follower of the Jaina religion, who merely hents, i.e.,listens to and learns the dharmasor duties, as opposed to the ascetics who are entitled to teach those religious duties."
 
 67. The first term is 3; the common difference is 8; and the number of terms is 12. All these three (quantities) are (gradually) increased by 1, until (there are) 7 (series). O arithmetician, give out the sums of all (those series).
 
@@ -7732,7 +8116,9 @@ It is quite obvious that an arithmetically progresive series having a negative c
 
 The rule for finding out the number of terms (in a series in arithmetical progression) :-
 
-[69](# "Algebraically this rule works out thus :  { [ √(2a – b) + 8bS + b ] - a /2 } / b= n"). When, to the square root of the quantity obtained by the addition of the square of the difference between twice the first term and the common difference to 8 times the common difference multiplied by the sum of the series, the commondifferene is added, and the resulting quantity is halved ; and when (again) this is diminished by the first term and then divided by the common difference, we get the number of terms in the series.
+69[^193] + 8bS + b ] - a /2 } / b= n"). When, to the square root of the quantity obtained by the addition of the square of the difference between twice the first term and the common difference to 8 times the common difference multiplied by the sum of the series, the commondifferene is added, and the resulting quantity is halved ; and when (again) this is diminished by the first term and then divided by the common difference, we get the number of terms in the series.
+
+[^193]: "Algebraically this rule works out thus :  {  √(2a – b
 
 **69**. Algebraically this rule works out thus :
 $\\frac{\\frac{\\sqrt{(2a\~ - \~b)^{2}}\~ + \~8bs\~ + \~b\~}{2}\~ - \~a}{b}\~ = \~n$
@@ -7741,7 +8127,9 @@ $\\frac{\\frac{\\sqrt{(2a\~ - \~b)^{2}}\~ + \~8bs\~ + \~b\~}{2}\~ - \~a}{b}\~ = 
 
 The rule for finding out the number of terms (stated) in another manner :-
 
-[70](# "Kṣēpapada is half of the difference between twice the first term and the common difference, i.e., (2a - b) / 2. It is obvious that this stanza varies the rule mentioned in the previous stanza only to the extent necessitated by the introduction of this kṣēpapada therein."). When, from the square root of (the quantity obtained by) the addition of the square of the difference between twice the first term and the common difference to 8 times the common difference multiplied by the sum of the series, the *kṣēpapada* is subtracted, and (the resulting quantity) is halved; and (when again this is) divided by the common difference, (we get) the number of terms in the series.
+[70[^194] / 2. It is obvious that this stanza varies the rule mentioned in the previous stanza only to the extent necessitated by the introduction of this kṣēpapada therein."). When, from the square root of (the quantity obtained by) the addition of the square of the difference between twice the first term and the common difference to 8 times the common difference multiplied by the sum of the series, the *kṣēpapada* is subtracted, and (the resulting quantity) is halved; and (when again this is) divided by the common difference, (we get) the number of terms in the series.
+
+[^194]: "Kṣēpapada is half of the difference between twice the first term and the common difference, i.e., (2a - b
 
 *Examples in illustration thereof.*
 
@@ -7783,7 +8171,9 @@ Two rules for finding out, in another way, the common difference and the first t
 
 The rule for finding out how (when the sum is given) the first term, the common difference, and the number of terms may, as desired, be arrived at :-
 
-[78](# "Symbolically, the problem herein is to find out b, when S is given, and a and n are allowed to be chosen at option. Naturally, there may be in relation to any given value of S n any values of b, which depend upon the chosen values of a and n. When the values of a and n are definitely chosen, the rule herein given for finding out b turns out to be the same as that given in stanza 74 above."). When the sum is divided by any chosen number, the divisor becomes the number of terms (in the series);when the quotient here is diminished by any number chosen (again), this subtracted number becomes the first term (in the series); and the remainder (got after this subtraction) when divided by the half of the number of terms lessened by *one* becomes the common difference.
+78[^195]. When the sum is divided by any chosen number, the divisor becomes the number of terms (in the series);when the quotient here is diminished by any number chosen (again), this subtracted number becomes the first term (in the series); and the remainder (got after this subtraction) when divided by the half of the number of terms lessened by *one* becomes the common difference.
+
+[^195]: "Symbolically, the problem herein is to find out b, when S is given, and a and n are allowed to be chosen at option. Naturally, there may be in relation to any given value of S n any values of b, which depend upon the chosen values of a and n. When the values of a and n are definitely chosen, the rule herein given for finding out b turns out to be the same as that given in stanza 74 above."
 
 *Example in illustration thereof.*
 
@@ -7803,7 +8193,9 @@ Three rule-giving stanzas for splitting up (into the component elements) such a 
 
 *Examples in illustration thereof.*
 
-[83](# "The problem expressed in plainer terms is :- (1) Find out a whel. Sa = 42, b = 3 and n = 5. (2) Find out b, when Sb = 43, a = 2 and n = 5. (3) Find out nwhen S + n = 45, a= 2 and b = 3. And (4) find out a, b, and n when S + a + b + n = 50."). Forty exceeded by 2, 3, 5 and 10, represents (in order) the *ādi-miśradhana* and the other (*miśradhanas*). Tell me what (respectively) happens in these cases to be the first term, the common difference, the number of terms and all (these three).
+83[^196] Find out a whel. Sa = 42, b = 3 and n = 5. (2) Find out b, when Sb = 43, a = 2 and n = 5. (3) Find out nwhen S + n = 45, a= 2 and b = 3. And (4) find out a, b, and n when S + a + b + n = 50."). Forty exceeded by 2, 3, 5 and 10, represents (in order) the *ādi-miśradhana* and the other (*miśradhanas*). Tell me what (respectively) happens in these cases to be the first term, the common difference, the number of terms and all (these three).
+
+[^196]: "The problem expressed in plainer terms is :- (1
 
 
 
@@ -7985,7 +8377,9 @@ The rule for finding out the sum of the remainder-series in respect of an arithm
 
 The rule for finding out the first term in relation to the remaining number of terms (belonging to the remainder-series) :-
 
-[109](# "The first term of the remainder series = db + a. The series dealt with in this rule is obviously in arithmetical progression."). The chosen-off number of terms multiplied by the common difference and (then) combined with the first term (of the given series) gives rise to the first term in relation to the remaining terms (belonging to the remainder-series). The already mentioned common difference is the common difference in relation to these (remaining terms also); and in relation to the choson-off number of terms (also both the first term and the common difference) are exactly those(which are found in the given series).
+109[^197]. The chosen-off number of terms multiplied by the common difference and (then) combined with the first term (of the given series) gives rise to the first term in relation to the remaining terms (belonging to the remainder-series). The already mentioned common difference is the common difference in relation to these (remaining terms also); and in relation to the choson-off number of terms (also both the first term and the common difference) are exactly those(which are found in the given series).
+
+[^197]: "The first term of the remainder series = db + a. The series dealt with in this rule is obviously in arithmetical progression."
 
 The rule for finding out the first term in relation to the remaining number of terms belonging to the remainder-series in a geometrically progressive series :-
 
@@ -8006,7 +8400,9 @@ The rule for finding out the first term in relation to the remaining number of t
 
 *Examples on vyutkalita in respect of a geometrically progression series.*
 
-[115](# "In this problem, there are given 7 different fruit trees, each of which has 16 bunches of fruits. The lowest bunch on each tree has 4 fruits; the fruits in the higher bunches are geometrically progressive in number, the common ratio being 2; and 10, 9, 8, 7, 6, 5 and 4 represent the numbers of the bunches removed from below in order from the 7 trees. We have to find out "). Where (in the process of reckoning of the fruits on trees in serial bunches), 4 happens to be the first term, 2 the common ratio, and 16 the number of terms, while the chosen-off number of terms (removed) are 10, 9, 8, 7, 6, 5 and 4 (respectively) - there, say, O you who know arithmeticand have penetrated into the interior of the forest of practical mathematical operations, (the interior) wherein wild elephants sport - (there say) what the total of the remaining fruits is on the top of the various good trees (dealt with therein).
+115[^198]. Where (in the process of reckoning of the fruits on trees in serial bunches), 4 happens to be the first term, 2 the common ratio, and 16 the number of terms, while the chosen-off number of terms (removed) are 10, 9, 8, 7, 6, 5 and 4 (respectively) - there, say, O you who know arithmeticand have penetrated into the interior of the forest of practical mathematical operations, (the interior) wherein wild elephants sport - (there say) what the total of the remaining fruits is on the top of the various good trees (dealt with therein).
+
+[^198]: "In this problem, there are given 7 different fruit trees, each of which has 16 bunches of fruits. The lowest bunch on each tree has 4 fruits; the fruits in the higher bunches are geometrically progressive in number, the common ratio being 2; and 10, 9, 8, 7, 6, 5 and 4 represent the numbers of the bunches removed from below in order from the 7 trees. We have to find out "
 
 Thus ends *vyutkalita*, the eighth of the operations known as *Parikarman*.
 
@@ -8116,7 +8512,9 @@ In regard to the summation of fractional series, the rule of work is as follows:
 
 *Examples in illustration thereof.*
 
-[23](# "Whenever the number of terms in a series is given as a fraction, as here, it is evident that such a series cannot generally be formed actually number of terms. But the intention is to be to stow that the rule holds good even in such cases."). Tell me what the sum is (in relation to a series) of which $\\frac{2}{3},\~\\frac{1}{6}$and $\\frac{3}{4}$ are the first term, the common difference and the number of terms (in order); as also in relation to another of which $\\frac{2}{5},\~\\frac{3}{4}$ and $\\frac{2}{3}$ (constitute these elements).
+23[^199]. Tell me what the sum is (in relation to a series) of which $\\frac{2}{3},\~\\frac{1}{6}$and $\\frac{3}{4}$ are the first term, the common difference and the number of terms (in order); as also in relation to another of which $\\frac{2}{5},\~\\frac{3}{4}$ and $\\frac{2}{3}$ (constitute these elements).
+
+[^199]: "Whenever the number of terms in a series is given as a fraction, as here, it is evident that such a series cannot generally be formed actually number of terms. But the intention is to be to stow that the rule holds good even in such cases."
 
 24. The first torm, the common difference and the number of terms are $\\frac{3}{5},\~\\frac{1}{5}$and $\\frac{3}{4}$ (in order in relation to a given series in arithmetical progression). The numerators and denominators of all (those fractional quantities) are (successively) increased by 2 and 3 (respectively) until seven (series are so made up). What is the sum (of each of these) ?
 
@@ -8148,7 +8546,9 @@ The rule for finding out the first term, the common difference and thenumber of 
 
 The rule for finding out, from the known sum, first term and common difference (of a given series in arithmetical progression), the first term and the common difference (of a series), the optionally chosen sum (whereof) is twice, three times, half, one-third, or some such (multiple or fraction of the known sum of the given series) :-
 
-[29](# "See note under 84, Chap. II."). Put down in two places (for facility of working) the chosen sum as divided by the known sum. This (quotient), when multiplied by the (known) common difference, gives the (required) common difference - and that (same quotient), when multiplied by the (known) first term, gives the (required) first term - of (the series of which) the sum is either a multiple or a fraction (of the known sum of the given series).
+29[^200]. Put down in two places (for facility of working) the chosen sum as divided by the known sum. This (quotient), when multiplied by the (known) common difference, gives the (required) common difference - and that (same quotient), when multiplied by the (known) first term, gives the (required) first term - of (the series of which) the sum is either a multiple or a fraction (of the known sum of the given series).
+
+[^200]: "See note under 84, Chap. II."
 
 *Examples in illustration thereof.*
 
@@ -8166,7 +8566,9 @@ The rule for finding out the number of terms (in a series in arithmetical progre
 
 He (the author) states in another way (the rule for finding out) the same (number of terms) :-
 
-[34](# "For kṣēpapada, see note under 70 in Chap. II."). When, from the square root of (the quantity obtained by) the addition, of the square of the difference between the half of the common difference and the first term, to twice the common difference multiplied by the sum of the series, the *kṣēpapada* is subtracted, and when (this resulting quantity is) divided by the common difference, (we get) the number of terms in the series.
+34[^201]. When, from the square root of (the quantity obtained by) the addition, of the square of the difference between the half of the common difference and the first term, to twice the common difference multiplied by the sum of the series, the *kṣēpapada* is subtracted, and when (this resulting quantity is) divided by the common difference, (we get) the number of terms in the series.
+
+[^201]: "For kṣēpapada, see note under 70 in Chap. II."
 
 33. Symbolically expressed, $n\~ = \~\\frac{\\left. \\sqrt{2bs\~ + \~\\left( \\frac{b}{2} \\right.}\~ - \~a \\right)^{2}\~\~ + \~\\frac{b}{2}\~ - \~a}{b}$. Cf. note under 69, in Chap. II.
 
@@ -8178,7 +8580,9 @@ He (the author) states in another way (the rule for finding out) the same (numbe
 
 The rule for finding out the first term as well as the common difference :-
 
-[36](# "See note under 74, Chap. II."). The sum (of the series) divided by the number of terms (therein), when diminished by (the product of) the common difference multiplied by the half of the number of terms less by *one*, (gives) the first term (of the series). The common difference is (obtained when) the sum, divided by the number of terms and (then) diminished by the first term, is divided by the half of the number of terms less by *one,*
+36[^202]. The sum (of the series) divided by the number of terms (therein), when diminished by (the product of) the common difference multiplied by the half of the number of terms less by *one*, (gives) the first term (of the series). The common difference is (obtained when) the sum, divided by the number of terms and (then) diminished by the first term, is divided by the half of the number of terms less by *one,*
+
+[^202]: "See note under 74, Chap. II."
 
 *Examples in illustration thereof.*
 
@@ -8186,7 +8590,9 @@ The rule for finding out the first term as well as the common difference :-
 
 The rule for finding out in relation to two (series), the number of terms wherein is optionally chosen, their mutually interchanged first term and the common difference, as also their sums which may be equal, or (one of which may be) twice, thrice, half or one-third (of the other):-
 
-[38](# "See note under 86, Chap. II."). The number of terms (in one series), multiplied by itself as lessened by *one*, and then multiplied by the chosen (ratio between the sums of the two series), and then diminished by twice the number of terms in the other (series, gives rise to the interchangeable) first term (of one of the series). The square of the (number of terms in the) other (series), diminished by that (number of terms) itself, and (then) diminished (again) by the product of two (times) the chosen (ratio) and the number of terms (in the first series, gives rise to the interchangeable) common difference (of that series).
+38[^203]. The number of terms (in one series), multiplied by itself as lessened by *one*, and then multiplied by the chosen (ratio between the sums of the two series), and then diminished by twice the number of terms in the other (series, gives rise to the interchangeable) first term (of one of the series). The square of the (number of terms in the) other (series), diminished by that (number of terms) itself, and (then) diminished (again) by the product of two (times) the chosen (ratio) and the number of terms (in the first series, gives rise to the interchangeable) common difference (of that series).
+
+[^203]: "See note under 86, Chap. II."
 
 
 
@@ -8196,17 +8602,23 @@ The rule for finding out in relation to two (series), the number of terms wherei
 
 The rule for finding out the *guṇadhana* and the sum of a series in geometrical progression :
 
-[40](# "See note under 93, Chap. II."). The first term (of a series in geometrical progression), when multiplied by that self-multiplied product of the common ratio, in which (product) the frequency of the occurrence of the common ratio is measured by the number of terms (in the series), gives rise to the *guṇadhana*. And it has to be understood that this (*guṇadhana*), when diminished by the first term and (then) divided by the common ratio lessened by *one*, becomes the sum of the series in geometrical progression.
+40[^204]. The first term (of a series in geometrical progression), when multiplied by that self-multiplied product of the common ratio, in which (product) the frequency of the occurrence of the common ratio is measured by the number of terms (in the series), gives rise to the *guṇadhana*. And it has to be understood that this (*guṇadhana*), when diminished by the first term and (then) divided by the common ratio lessened by *one*, becomes the sum of the series in geometrical progression.
+
+[^204]: "See note under 93, Chap. II."
 
 The rule for finding out the last term in a geometrically progressive series as well as the sum of that (series) :-
 
-[41](# "See note under 95, Chup. II."). The *antyadhana* or the last term of a series in geometrical progression is the *guṇadhana* of (another series) wherein the number of terms is less by *one*. This (*antyadhana*), when multiplied by the common ratio and (then) diminished by the first term and (then)divided by the common ratio lessened by *one*, gives rise to the sum (of the series).
+41[^205]. The *antyadhana* or the last term of a series in geometrical progression is the *guṇadhana* of (another series) wherein the number of terms is less by *one*. This (*antyadhana*), when multiplied by the common ratio and (then) diminished by the first term and (then)divided by the common ratio lessened by *one*, gives rise to the sum (of the series).
+
+[^205]: "See note under 95, Chup. II."
 
 *An example in illustration thereof.*
 
 42. In relation to a series in geometrical progression, the first term is $\\frac{1}{8}$, the common ratio is $\\frac{1}{4}$ and the number of terms is here 5. Tell me quickly the sum and the last term of that (series).
 
-The first term, the common ratio and the number of terms, in relation to the *guṇadhana* and the sum of a series in geometrical progression, should also be found out by means of the rules stated already [(in the last chapter)](# "For these rules, see 97, 98, 101 and 103, Chap. II.").
+The first term, the common ratio and the number of terms, in relation to the *guṇadhana* and the sum of a series in geometrical progression, should also be found out by means of the rules stated already (in the last chapter)[^206].
+
+[^206]: "For these rules, see 97, 98, 101 and 103, Chap. II."
 
 The rule for finding out the (common) first term of two series having the same sum, one of them being in arithmetical progression and the other in geometrical progression, their optionally chosen number of terms being equal and the similarly chosen common difference and common ratio also being equal in value.
 
@@ -8228,15 +8640,21 @@ Thus ends the summation of fractions in series.
 
 The rule for performing the operation of *vyutkalita* is as follows:-
 
-[45](# "Cf. note under 106, Chap. 11."). (Take) the chosen-off number of terms as combined with the total number of terms (in the series), and (take) also your chosen-off number of terms (separately). Multiply each of these quantities by the common difference and diminish (the products) by the common difference; (then) multiply by *two*; and these (resulting quantities), when multiplied by the half of the remaining number of terms and by the half of the chosen-off number of terms (respectively), give rise to the sum of the remainder-series and to the sum of the chosen-off part of the (given) series (in order).
+45[^207]. (Take) the chosen-off number of terms as combined with the total number of terms (in the series), and (take) also your chosen-off number of terms (separately). Multiply each of these quantities by the common difference and diminish (the products) by the common difference; (then) multiply by *two*; and these (resulting quantities), when multiplied by the half of the remaining number of terms and by the half of the chosen-off number of terms (respectively), give rise to the sum of the remainder-series and to the sum of the chosen-off part of the (given) series (in order).
+
+[^207]: "Cf. note under 106, Chap. 11."
 
 The rule for finding out the first term in relation to the remaining number of terms (making up the remainder-series) :-
 
-[46](# "Cf. note under 109 Chap. II."). The first term (of the series), diminished by the half of the common difference, and combinedwith the chosen-off number of terms as multiplied by the common difference, as also with the half of the common difference, (gives) the first term of the remaining number of terms (making up the remainder-series). And thecommon difference (of the remainder-series) is the same as what is found in the given series.
+46[^208]. The first term (of the series), diminished by the half of the common difference, and combinedwith the chosen-off number of terms as multiplied by the common difference, as also with the half of the common difference, (gives) the first term of the remaining number of terms (making up the remainder-series). And thecommon difference (of the remainder-series) is the same as what is found in the given series.
+
+[^208]: "Cf. note under 109 Chap. II."
 
 
 
-[47](# "See note under 110, Chap. II."). Even in respect of a geometrically progressive series, the common ratio and the first term are exactly alike (in the given series and in the choson-off part thereof). There is (however) this difference herein respect of (the first term among) the remaining number of terms (constituting the remainder-series), viz., that the first termof the (given) series multiplied by that self-multiplied product of the common ratio, in which (product) the frequency of occurrence of the common ratio is measured by the chosen-off number of terms, gives rise to the first term (of the remainder-series).
+47[^209]. Even in respect of a geometrically progressive series, the common ratio and the first term are exactly alike (in the given series and in the choson-off part thereof). There is (however) this difference herein respect of (the first term among) the remaining number of terms (constituting the remainder-series), viz., that the first termof the (given) series multiplied by that self-multiplied product of the common ratio, in which (product) the frequency of occurrence of the common ratio is measured by the chosen-off number of terms, gives rise to the first term (of the remainder-series).
+
+[^209]: "See note under 110, Chap. II."
 
 *Examples in illustration thereof.*
 
@@ -8246,7 +8664,9 @@ The rule for finding out the first term in relation to the remaining number of t
 
 50. What is the value of the sum of the remainder-series in relation to a series of which the first term is $\\frac{1}{4}$, the common difference is $\\frac{1}{5}$, and the number of terms is (taken to be) $\\frac{3}{5}$, when the chosen-off number of terms is $\\frac{1}{10}$ ?
 
-51. The first term is $\\frac{2}{3}$, the common difference is $\\frac{1}{5}$, and the number of terms is (taken as) $\\frac{3}{4}$, and the chosen-off number of terms is token to be $\\frac{1}{5},\~\\frac{1}{6}$or $\\frac{1}{7}$. O you, who, being the abode of [*kalās*](# "Kalāis here used in the double sense of 'learning' and 'the digits of the moon'."), are the moon shining with the moon-light of wisdom, tell me the sum of the remaining number of terms.
+51. The first term is $\\frac{2}{3}$, the common difference is $\\frac{1}{5}$, and the number of terms is (taken as) $\\frac{3}{4}$, and the chosen-off number of terms is token to be $\\frac{1}{5},\~\\frac{1}{6}$or $\\frac{1}{7}$. O you, who, being the abode of *kalās*[^210], are the moon shining with the moon-light of wisdom, tell me the sum of the remaining number of terms.
+
+[^210]: "Kalāis here used in the double sense of 'learning' and 'the digits of the moon'."
 
 52. Calculate the sum of the remaining number of terms in relation to a series of which the number of terms is 12, the common difference is *minus*$\\frac{1}{4}$, and the first term is 4$\\frac{1}{2}$, the chosen-off number of terms being 3, 4, 5 or 8.
 
@@ -8355,7 +8775,9 @@ The rule for arriving at the denominators (of certain intended fractions) having
 
 
 
-[80](# "Algebraically, if a / n is the sum, the first fraction is 1 / [(n + p) / a] ; and the sumof the remaining fractions is mentioned in the rule to p / { [ (n + p) / a] n},where p is theoptionally chosen quantity. This p / {[(n + p) / a] n}is obtained obviously by simplifying (a / n) - 1 / [(n + p) / a]. We must here give sneh n value to p that n + p becomes exactly divisible by a."). The denominator (of the given sum), when combined with an optionally chosen quantity and then divided by the numerator of that sum so as to leave no remainder, becomes the denominator related to the first numerator (in the intended series of fractions); and the (above) optionally chosen quantity, when divided by this (denominator of the first fraction) and by the denominator of the (given) sum, gives rise to (the sum of) the remaining (fractions in the series). From this (known sum of the remaining fractions in the series, the determination) of the other (denominators is to be carried out) in this very manner.
+80[^211] / a] ; and the sumof the remaining fractions is mentioned in the rule to p / { [ (n + p) / a] n},where p is theoptionally chosen quantity. This p / {[(n + p) / a] n}is obtained obviously by simplifying (a / n) - 1 / [(n + p) / a]. We must here give sneh n value to p that n + p becomes exactly divisible by a."). The denominator (of the given sum), when combined with an optionally chosen quantity and then divided by the numerator of that sum so as to leave no remainder, becomes the denominator related to the first numerator (in the intended series of fractions); and the (above) optionally chosen quantity, when divided by this (denominator of the first fraction) and by the denominator of the (given) sum, gives rise to (the sum of) the remaining (fractions in the series). From this (known sum of the remaining fractions in the series, the determination) of the other (denominators is to be carried out) in this very manner.
+
+[^211]: "Algebraically, if a / n is the sum, the first fraction is 1 / (n + p
 
 *Examples in illustration thereof.*
 
@@ -8397,7 +8819,9 @@ The first rulefor arriving at the denominators of two (intended fractions) which
 
 The second rule(is as follows) :-
 
-[89](# "This rule is only a particular case of the rule given in stanzaNo. 87,as the denominator of the sum of the intended fractions is itself substituted in this rule for the quantity to be chosen in the previous rule."). The numerator (of one of the intended fractions) as multiplied by the denominator of the sum (of the intended fractions), when combined with the other numerator and then divided by the numerator of the sum (of the intended fractions), gives rise to the denominator of one (of the fractions). This (denominator), when multiplied by the denominator of the sum (of the intended fractions), becomes the denominator of the other (fraction).
+[89[^212]. The numerator (of one of the intended fractions) as multiplied by the denominator of the sum (of the intended fractions), when combined with the other numerator and then divided by the numerator of the sum (of the intended fractions), gives rise to the denominator of one (of the fractions). This (denominator), when multiplied by the denominator of the sum (of the intended fractions), becomes the denominator of the other (fraction).
+
+[^212]: "This rule is only a particular case of the rule given in stanzaNo. 87,as the denominator of the sum of the intended fractions is itself substituted in this rule for the quantity to be chosen in the previous rule."
 
 **87**. Algebraionlly, if $\\frac{m}{n}$ is the sum of two intended fractions with *a* and *b* as their numerators, then the fractions are $\\frac{a}{\\frac{ap\~ + \~b}{m}\~ \\times \~\\frac{n}{p}}$ and $\\frac{b}{\\frac{ap\~ + \~b}{m}\~ \\times \~\\frac{n}{p}\~ \\times \~p}$, where *p* is any number so chosen that *ap* + *b* is divisible by *m*. The sum of these fractions; it will be found, is $\\frac{m}{n}$.
 
@@ -8413,7 +8837,9 @@ The second rule(is as follows) :-
 
 The rule for arriving at the denominators (of a number of intended fractions) by taking (them) in pairs:-
 
-[93](# "The rules relating to two fractional quantities have been given in stanzas 85,87 and 89. "). After splitting up the sum (of all the intended fractions) into as many parts having one for each of their numerators as there are (numbers of) pairs (among the given numerators), these (parts) are taken (severally) as the sums of the pairs; (and from them) the (required) denominators are to be found out in accordance with the rule relating to two (such component fractional quantities).
+93[^213]. After splitting up the sum (of all the intended fractions) into as many parts having one for each of their numerators as there are (numbers of) pairs (among the given numerators), these (parts) are taken (severally) as the sums of the pairs; (and from them) the (required) denominators are to be found out in accordance with the rule relating to two (such component fractional quantities).
+
+[^213]: "The rules relating to two fractional quantities have been given in stanzas 85,87 and 89. "
 
 *Examples in illustration thereof.*
 
@@ -8441,7 +8867,9 @@ Here end Simple Fractions.
 
 Therule for (simplifying) compound and complex fractions:-
 
-[99](# "The complex fraction here dealt with is of the sort which has an integer for the numerator and a fraction for the denominator."). In (simplifying) compound fractions, the multiplication of the numerators (among themselves) as well as of the denominators (among themselves) shall be (the operation). In the operation (of simplification) relating to complex fractions, the denominator of (the fraction forming) the denominator (becomes) the multiplier of the number forming the numerator (of the given fraction).
+99[^214]. In (simplifying) compound fractions, the multiplication of the numerators (among themselves) as well as of the denominators (among themselves) shall be (the operation). In the operation (of simplification) relating to complex fractions, the denominator of (the fraction forming) the denominator (becomes) the multiplier of the number forming the numerator (of the given fraction).
+
+[^214]: "The complex fraction here dealt with is of the sort which has an integer for the numerator and a fraction for the denominator."
 
 
 
@@ -8535,7 +8963,9 @@ There are three sets of fractions given; and splitting up the sum, 1, into three
 
 The rulefor finding out any unknown fraction in other required places (than the beginning):-
 
-[125](# "The method given this rule is similar to what is explained under stanza No, 122: only the results thus obtained have to be, in this case, each diminished by one."). The optionally split up parts of the (given) sum, when divided in order by the simplified known quantities (in the intended *Bhāgānubandha* fractions), and (then) diminished by *one*, become the unknown (fractional quantities) in the required places of our choice.
+125[^215]. The optionally split up parts of the (given) sum, when divided in order by the simplified known quantities (in the intended *Bhāgānubandha* fractions), and (then) diminished by *one*, become the unknown (fractional quantities) in the required places of our choice.
+
+[^215]: "The method given this rule is similar to what is explained under stanza No, 122: only the results thus obtained have to be, in this case, each diminished by one."
 
 Thus ends the *Bhāgānubandha* class (of fractions).
 
@@ -8570,7 +9000,9 @@ fractions.*
 
 Here, the rule for finding out the (one) unknown element at the beginning (in each of a number of dissociated fractions, their sum being given):-
 
-[132](# "The working is similar to what has been explained under stanza No. 122."). The optionally split up parts of the (given) sum which are equal (in number) to the (intended) component elements (thereof), when divided in order by the resulting quantities arrived at by taking *one* to be the dissociated quantity (in relation to these component elements), give rise to the value of the (required) unknown (quantities in dissociation).
+132[^216]. The optionally split up parts of the (given) sum which are equal (in number) to the (intended) component elements (thereof), when divided in order by the resulting quantities arrived at by taking *one* to be the dissociated quantity (in relation to these component elements), give rise to the value of the (required) unknown (quantities in dissociation).
+
+[^216]: "The working is similar to what has been explained under stanza No. 122."
 
 *Examples in illustration thereof.*
 
@@ -8582,13 +9014,17 @@ Here, the rule for finding out the (one) unknown element at the beginning (in ea
 
 The rulefor finding out any unknown fraction in other required places (than the beginning):-
 
-[135](# "This rule is similar to the rule already given in stanza No. 125."). The optionally split up parts derived from the (given) sum, when divided in order by the simplified known quantities (in the intended *Bhāgāpavāha* fractions), and (then) subtracted from one (severally), become the unknown (fractional quantities) in the (required) places of our choice.
+135[^217]. The optionally split up parts derived from the (given) sum, when divided in order by the simplified known quantities (in the intended *Bhāgāpavāha* fractions), and (then) subtracted from one (severally), become the unknown (fractional quantities) in the (required) places of our choice.
+
+[^217]: "This rule is similar to the rule already given in stanza No. 125."
 
 Thus ends the *Bhāgāpavāha* variety of fractions.
 
 The rule for finding out the unknown fractions in all theplaces in relation to a *Bhāgānubandha* or *Bhāgāpavāha* variety of fractions (when their ultimate value is known) :-
 
-[136](# " The previous rules here intended are those given in stanzas 122, 125, 132 and 135."). Optionally choose your own desired fractions in relation to all unknown places, excepting (any) one. Then by means of the rules mentioned before, arrive at that (one unknown) fraction with the help of these (optionally chosen fractional quantities).
+136[^218]. Optionally choose your own desired fractions in relation to all unknown places, excepting (any) one. Then by means of the rules mentioned before, arrive at that (one unknown) fraction with the help of these (optionally chosen fractional quantities).
+
+[^218]: " The previous rules here intended are those given in stanzas 122, 125, 132 and 135."
 
 *Examples in illustration thereof.*
 
@@ -8608,7 +9044,9 @@ The rule for (the simplification of) that class of fractions which contains all 
 
 *Examples in illustration thereof.*
 
-[139](# "The word utpalamālikā, which occur in this stanza, means agarland of blue lotuses, at the same time that it happens to be the name of the metrein which the stanza is composed. ") and 140. (Given) $\\frac{1}{3}$; $\\frac{1}{4}$; $\\frac{1}{2}$ of $\\frac{1}{2}$; $\\frac{1}{6}$ of $\\frac{1}{5}$; $\\frac{1}{\\frac{3}{4}}$; $\\frac{1}{\\frac{5}{2}}$; 1$\\frac{1}{6}$; 1$\\frac{1}{5}$; $\\frac{1}{2}$ associated with $\\frac{1}{3}$ of itself; then $\\frac{2}{7}$ associated with $\\frac{1}{6}$ of itself; and $\\frac{1}{4}$ diminished by $\\frac{1}{9}$; 1 diminished by $\\frac{1}{10}$; $\\frac{1}{8}$ diminished by $\\frac{1}{9}$ of itself; and $\\frac{1}{4}$ diminished by $\\frac{1}{5}$ of itself: after adding these according to the rules which are strung together in the manner of a garland of blue lotuses made up of fractions, give out, О friend, (what the result is).
+139[^219] and 140. (Given) $\\frac{1}{3}$; $\\frac{1}{4}$; $\\frac{1}{2}$ of $\\frac{1}{2}$; $\\frac{1}{6}$ of $\\frac{1}{5}$; $\\frac{1}{\\frac{3}{4}}$; $\\frac{1}{\\frac{5}{2}}$; 1$\\frac{1}{6}$; 1$\\frac{1}{5}$; $\\frac{1}{2}$ associated with $\\frac{1}{3}$ of itself; then $\\frac{2}{7}$ associated with $\\frac{1}{6}$ of itself; and $\\frac{1}{4}$ diminished by $\\frac{1}{9}$; 1 diminished by $\\frac{1}{10}$; $\\frac{1}{8}$ diminished by $\\frac{1}{9}$ of itself; and $\\frac{1}{4}$ diminished by $\\frac{1}{5}$ of itself: after adding these according to the rules which are strung together in the manner of a garland of blue lotuses made up of fractions, give out, О friend, (what the result is).
+
+[^219]: "The word utpalamālikā, which occur in this stanza, means agarland of blue lotuses, at the same time that it happens to be the name of the metrein which the stanza is composed. "
 
 Thus ends the *Bhāgamātṛ* variety of fractions.
 
@@ -8678,7 +9116,9 @@ It is obvious that this is derivable from the equation *x* - *bx* = *a*. The rul
 
 12 to 16. (A number of) parrots descended on a paddy-field beautiful with (the crops) bent downthrough the weight of the ripecorn. Being scared awayby men, all of them suddenly flew up. One-half of the went to the east, and $\\frac{1}{6}$ went to the south-east; the difference between those that wentto the east and those that went to the south-east, diminished by half of itself and (again) diminished by the half of this (resulting difference), went to the south; the differencebetween those that went to the south and those that went to the south-east, diminished by $\\frac{2}{5}$ of itself, went to the south-west;the difference between those that went to the south and those that went to the south-west, went to the west; the difference between those that went to the south-west and those that went to the west, together with $\\frac{3}{7}$ of itself, went to the north-west ; the difference between those that went to the north-west and those that went to the west, together with 7/8 of itself, went to the north ; the sum of those that went to the north-west and those that went to the north, diminished by $\\frac{2}{3}$ of itself, went to the north-east; and 280 parrots were found to remain in the sky (above). How many were the parrots (in all)?
 
-[17](# "Certain epithets here have not been considered fit for translation.") to 22. One night, in a month of the spring season, a certain young lady . . . was lovingly happy along with her husband on . . .the floor of a big mansion, white like the moon, and situated in a pleasure-garden with trees bent down with the load of the bunches of flowers and fruits, and resonant with the sweet sounds of parrots, cuckoos and bees which were all intoxicated with the honey obtained from the flowers therein. Then on alove-quarrel arising between the husband and the wife, that lady's necklace made up of pearls became sundered and fell on the floor. One-third of that necklace of pearls reached the maid-servant there; $\\frac{1}{6}$ fell on the bed; then $\\frac{1}{2}$ of what remained (and one-half of what remained thereafter and again $\\frac{1}{2}$ of what remained thereafter) and so on, counting six times (in all), fell all of them everywhere; and there were found to remain (unscattered) 1,161 pearls; and if youknow (how to work) miscellaneous problems (on fractions), give out the (numerical) measure of the pearls (in that necklace).
+17[^220] to 22. One night, in a month of the spring season, a certain young lady . . . was lovingly happy along with her husband on . . .the floor of a big mansion, white like the moon, and situated in a pleasure-garden with trees bent down with the load of the bunches of flowers and fruits, and resonant with the sweet sounds of parrots, cuckoos and bees which were all intoxicated with the honey obtained from the flowers therein. Then on alove-quarrel arising between the husband and the wife, that lady's necklace made up of pearls became sundered and fell on the floor. One-third of that necklace of pearls reached the maid-servant there; $\\frac{1}{6}$ fell on the bed; then $\\frac{1}{2}$ of what remained (and one-half of what remained thereafter and again $\\frac{1}{2}$ of what remained thereafter) and so on, counting six times (in all), fell all of them everywhere; and there were found to remain (unscattered) 1,161 pearls; and if youknow (how to work) miscellaneous problems (on fractions), give out the (numerical) measure of the pearls (in that necklace).
+
+[^220]: "Certain epithets here have not been considered fit for translation."
 
 
 
@@ -8759,7 +9199,9 @@ The rule relating to the *Ś**eṣamūla* variety involving two known (quantitie
 
 49. Four (out of a collection of) lions were seen on a mountain; and fractional parts commencing with $\\frac{1}{6}$and ending with $\\frac{1}{2}$ of the successive remainders (of the collection), and (lions equivalent in number to) twice the square root (of the numerical value of the collection), as also (the finally remaining) four (lions), were seen in a forest. How many are those (lions in the collection) ?
 
-[50](# "The word hariṇī occurring in this stanza not only means 'a female deer' but is also the name of the metre in which the stanzais composed."). (Out of a herd of deer) two pairs of young female deer were seen in a forest; fractional parts commencing with $\\frac{1}{5}$ and ending with $\\frac{1}{2}$ of the (successive) remainders (of the herd were seen) near a mountain ; (a number) of them (equivalent to) 3 times the square root (of the numerical value of the herd) were seen in an extensive paddy field; and (ultimately) only ten remained on the bank of a lotus-lake. What is the (numerical) measure of the herd ?
+50[^221]. (Out of a herd of deer) two pairs of young female deer were seen in a forest; fractional parts commencing with $\\frac{1}{5}$ and ending with $\\frac{1}{2}$ of the (successive) remainders (of the herd were seen) near a mountain ; (a number) of them (equivalent to) 3 times the square root (of the numerical value of the herd) were seen in an extensive paddy field; and (ultimately) only ten remained on the bank of a lotus-lake. What is the (numerical) measure of the herd ?
+
+[^221]: "The word hariṇī occurring in this stanza not only means 'a female deer' but is also the name of the metre in which the stanzais composed."
 
 Thus ends the*Ś**eṣamūla* variety involving two known quantities.
 
@@ -8785,7 +9227,9 @@ Another rule relating to the *Aṃśamūla* variety.
 
 
 
-[56](# "The word śārdulavikrīḍita in this stanza means 'tigers at play,' and at the same time happens to be the name of the metre in which the stanza is composed."). Four times the square root of $\\frac{1}{2}$ the number of a collection of boars went to a forest wherein tigers were at play;8 times the square root of $\\frac{1}{10}$ of the remainder (of the collection) went to amountain; and 9 times the square root of $\\frac{1}{2}$ of the (further) remainder (left thereafter) went to the bank of a river; and boars equivalent in (numerical) measure to 56 were seen (ultimately) to remain (where they were) in the forest. Give out the (numerical) measure of (all) those (boars).
+56[^222]. Four times the square root of $\\frac{1}{2}$ the number of a collection of boars went to a forest wherein tigers were at play;8 times the square root of $\\frac{1}{10}$ of the remainder (of the collection) went to amountain; and 9 times the square root of $\\frac{1}{2}$ of the (further) remainder (left thereafter) went to the bank of a river; and boars equivalent in (numerical) measure to 56 were seen (ultimately) to remain (where they were) in the forest. Give out the (numerical) measure of (all) those (boars).
+
+[^222]: "The word śārdulavikrīḍita in this stanza means 'tigers at play,' and at the same time happens to be the name of the metre in which the stanza is composed."
 
 Thus ends the *Aṃśamūla* variety.
 
@@ -8824,7 +9268,9 @@ $x\~ = \~\\left\\{ \~ \\pm \~\\sqrt{\\left( \\frac{n}{2m}\~ \\pm \~d \\right)^{2
 
 *An example of the* plus *variety.*
 
-[64](# "The word mattamayūra occurring in the stanza means 'a proudpeacock' and is also the name of the metre in which the stanza is composed."). (A number of peacocks equivalent to) $\\frac{1}{15}$ of their whole collection*plus* 2, multiplied by that same ($\\frac{1}{15}$ of the collection *plus 2*), are playing on a *jambū* tree. The other (remaining) proud peacocks (of the collection), numbering 2² × 5, are playing on mango tree. O friend, give out the numerical measure of (all) these (peacocks in the collection).
+64[^223]. (A number of peacocks equivalent to) $\\frac{1}{15}$ of their whole collection*plus* 2, multiplied by that same ($\\frac{1}{15}$ of the collection *plus 2*), are playing on a *jambū* tree. The other (remaining) proud peacocks (of the collection), numbering 2² × 5, are playing on mango tree. O friend, give out the numerical measure of (all) these (peacocks in the collection).
+
+[^223]: "The word mattamayūra occurring in the stanza means 'a proudpeacock' and is also the name of the metre in which the stanza is composed."
 
 Here ends the *Aṃśasaṃvarga* variety characterised by *plus* or *minus* quantities.
 
@@ -8860,7 +9306,9 @@ The rule relating to the *Bhinnadṛśya*variety (of miscellaneous problems on f
 
 
 
-[71](# "The word pṛthvī occurring in this stanzameans 'the earth', and is also the name of the metre in which the stanza is composed."). (Elephants equivalent in number to) $\\frac{1}{27}$ part of the whole herd of elephants, as multiplied by $\\frac{1}{9}$ (of that same herd) as divided by 2, are in a happy condition on a plain. The remaining (ones forming) $\\frac{1}{3}$ (of the herd), resembling exceedingly dark masses of clouds in form are playing on a mountain. O friend, you tell me now the numerical measure of the herd of elephants.
+71[^224]. (Elephants equivalent in number to) $\\frac{1}{27}$ part of the whole herd of elephants, as multiplied by $\\frac{1}{9}$ (of that same herd) as divided by 2, are in a happy condition on a plain. The remaining (ones forming) $\\frac{1}{3}$ (of the herd), resembling exceedingly dark masses of clouds in form are playing on a mountain. O friend, you tell me now the numerical measure of the herd of elephants.
+
+[^224]: "The word pṛthvī occurring in this stanzameans 'the earth', and is also the name of the metre in which the stanza is composed."
 
 72. (Ascetics equivalent in number to) $\\frac{1}{16}$ part of a collection of ascetics, as divided by 3 and as multiplied by that same ($\\frac{1}{16}$ part divided by 3), are living in the interior of a forest; (the remaining ones forming) $\\frac{1}{4}$ part (of that collection) are living on a mountain. O you, who have crossed over to the other shoreof the ocean-like miscellaneous problems on fractions, tell me quickly the (numerical) value of that (collection of ascetics).
 
@@ -8893,7 +9341,9 @@ on the direct rule-of-three.*
 
 4. A lame man walks over $\\frac{1}{8}$ of a kr*ō*śa together with (there-of) in 7$\\frac{1}{2}$days. Say what (distance) he (goes over) in 3$\\frac{1}{5}$ years (at this rate).
 
-[5](# "The height of the Mēru mountain is supposed to be 99,000 yōjanasor 76,032,000,000 aṅgulas"). A worm goes in $\\frac{1}{8}$ of a day over$\\frac{1}{4}$ of an *aṅgula*. In how many days will it reach the top of the *Mēru* mountain from its bottom?
+5[^225]. A worm goes in $\\frac{1}{8}$ of a day over$\\frac{1}{4}$ of an *aṅgula*. In how many days will it reach the top of the *Mēru* mountain from its bottom?
+
+[^225]: "The height of the Mēru mountain is supposed to be 99,000 yōjanasor 76,032,000,000 aṅgulas"
 
 6. The man who in 3$\\frac{1}{2}$ days uses up 1$\\frac{1}{2}$ *kārśāpaṇas* - in what time (will) he(use up) 100 *purāṇas* along with 1 *paṇa*?
 
@@ -8901,9 +9351,11 @@ on the direct rule-of-three.*
 
 
 
-[7](# " Here the process of finding out, from the given diameter, the area of the cross-section of a cylinder is supposed to be known. This is given in the sixth Vyavahāra, in the 19th stanza, where the area of circle is said to be approximately equal to the diameter squared and then divided by 4and multiplied by 3. Kṛṣṇāgaru is a kind of fragrant wood burnt in fire as incense."). A good piece of *kṛṣṇagaru*, 12 *hastas* in length and 3 *hastas* in diameter, is consumed (at the rate of) 1 cubic*aṅgula*a day. What is the time required for the (complete) consumption of this cylinder ?  
+7[^226]. A good piece of *kṛṣṇagaru*, 12 *hastas* in length and 3 *hastas* in diameter, is consumed (at the rate of) 1 cubic*aṅgula*a day. What is the time required for the (complete) consumption of this cylinder ?  
 8. (If) a *vāha* of very superior black gram, along with 1 *drōṇa*, *āḍhaka* and 1*kuḍava* (thereof), has been purchased by means of 10$\\frac{1}{2}$, *svarṇas* , what measure (may we purchase of it) by means of 100$\\frac{1}{2}$*svarṇas* ?  
 9. Where 1$\\frac{1}{8}$*palas*of *kuṅkuma*is obtainable by means of 3$\\frac{1}{2}$*purāṇas*, what measure (of it) may (we obtain) there by means of 100 *purāṇas* ?
+
+[^226]: " Here the process of finding out, from the given diameter, the area of the cross-section of a cylinder is supposed to be known. This is given in the sixth Vyavahāra, in the 19th stanza, where the area of circle is said to be approximately equal to the diameter squared and then divided by 4and multiplied by 3. Kṛṣṇāgaru is a kind of fragrant wood burnt in fire as incense."
 
 10. By means of 7$\\frac{1}{2}$ *palas* of ginger, 13$\\frac{1}{2}$ *paṇas* were obtained ; say, O friend, what (may be obtained) in return for 32$\\frac{1}{2}$ *palas* of ginger?
 
@@ -8917,16 +9369,24 @@ on the direct rule-of-three.*
 
 
 
-[15-16](# " In this problem, the stream of water is as long as the mountain is high, so that as soon as it reaches the bottom of the mountain, it is supposed to cease to flow at the summit. For finding out the quantity of water in vāhas etc., the relation between cubical measure and liquid measure should have been given. The Sanskrit commentary in P and the Kanarese ṭīkāin B state that 1 cabio aṅgulaof water is equal to 1 karśa thereof in liquid measure."). There is a square well without water, (cubically) measuring 512 *hastas*. A hill rises on its bank; from the topthereof flows down, (to the bottom) a crystal-clear stream of water having 1 aṅgulafor the diameter of its circular section, and the well becomes quite filled with water within. What is the height of the hill, and (what) the numerical value (of the liquid-measure) of water ?
+15-16[^227]. There is a square well without water, (cubically) measuring 512 *hastas*. A hill rises on its bank; from the topthereof flows down, (to the bottom) a crystal-clear stream of water having 1 aṅgulafor the diameter of its circular section, and the well becomes quite filled with water within. What is the height of the hill, and (what) the numerical value (of the liquid-measure) of water ?
 
-[17](# "Saṅkrāntiin the passange of the sun from one zodiacal sign to another"). A king gave, on (the occasion of) the *saṅkrānti*, to 6 Brahmins, 2 *droṇas*of kidney-bean, 9 *kuḍabas*of ghee, 6 *droṇas*of rice, 8 pairs of cloths, 6 cows with calves and 3 *sarṇas*. Give out quickly, Ofriend, what (the measure) is (of) the kidney-bean and the other things given by him (at that rate) to 336 Brahimins.
+[^227]: " In this problem, the stream of water is as long as the mountain is high, so that as soon as it reaches the bottom of the mountain, it is supposed to cease to flow at the summit. For finding out the quantity of water in vāhas etc., the relation between cubical measure and liquid measure should have been given. The Sanskrit commentary in P and the Kanarese ṭīkāin B state that 1 cabio aṅgulaof water is equal to 1 karśa thereof in liquid measure."
+
+17[^228]. A king gave, on (the occasion of) the *saṅkrānti*, to 6 Brahmins, 2 *droṇas*of kidney-bean, 9 *kuḍabas*of ghee, 6 *droṇas*of rice, 8 pairs of cloths, 6 cows with calves and 3 *sarṇas*. Give out quickly, Ofriend, what (the measure) is (of) the kidney-bean and the other things given by him (at that rate) to 336 Brahimins.
+
+[^228]: "Saṅkrāntiin the passange of the sun from one zodiacal sign to another"
 
 Hereends the (direct) rule-of-three.
 
-*Examples on inverse rule-of-three as explained in the fowth [pāda](# "The reference here is to the fourth quarter of the second stanza in this chapter.")  
+*Examples on inverse rule-of-three as explained in the fowth pāda[^229]  
 (of the rule given above).*
 
-[18](# "Pure gold is here taken to be of 16 varṇas."). How much is the gold of 9 *varṇas* for 90 of pure gold, as also for 100 gold (*Dharaṇas*) along with a *guñjā*thoreof made up of gold of 10$\\frac{1}{8}$*varṇas* ?
+[^229]: "The reference here is to the fourth quarter of the second stanza in this chapter."
+
+18[^230]. How much is the gold of 9 *varṇas* for 90 of pure gold, as also for 100 gold (*Dharaṇas*) along with a *guñjā*thoreof made up of gold of 10$\\frac{1}{8}$*varṇas* ?
+
+[^230]: "Pure gold is here taken to be of 16 varṇas."
 
 19. There are 300 pieces of China silk of 6 *hastas* in breadth as well as in length; give out, O yon who know the method of inverse proportion, how many picecs (of that same silk) there are (in them, each) measuring 5 by 3 *hastas*.
 
@@ -8962,7 +9422,9 @@ The rule in regard to (problems bearing on associated) forward and backward move
 
 
 
-[28-30](# "The 'depth' of the well is mentioned in the original as 'height' measured from the bottom of it."). A well completely filled with water is 10 *daṇḍas* in depth ; a lotus sprouting up therein grows from the bottom(at the rate of) 2$\\frac{1}{2}$ *aṅgulas* in a day and half; the water (thereof) flows out through a pump (at the rate of) 2$\\frac{1}{2}$*aṅgulas* (of the well in depth) in 1$\\frac{1}{2}$ days; 1$\\frac{1}{5}$ *aṅgulas* of water (in depth) are lost in a day by evaporation owing to the (heating) rays of the sun; a tortoise below pulls down 5$\\frac{1}{4}$ *aṅgulas* of the stalk of the lotus plant in 3$\\frac{1}{2}$ days. By what time will the lotus be on the same level with the water (in the well) ?
+28-30[^231]. A well completely filled with water is 10 *daṇḍas* in depth ; a lotus sprouting up therein grows from the bottom(at the rate of) 2$\\frac{1}{2}$ *aṅgulas* in a day and half; the water (thereof) flows out through a pump (at the rate of) 2$\\frac{1}{2}$*aṅgulas* (of the well in depth) in 1$\\frac{1}{2}$ days; 1$\\frac{1}{5}$ *aṅgulas* of water (in depth) are lost in a day by evaporation owing to the (heating) rays of the sun; a tortoise below pulls down 5$\\frac{1}{4}$ *aṅgulas* of the stalk of the lotus plant in 3$\\frac{1}{2}$ days. By what time will the lotus be on the same level with the water (in the well) ?
+
+[^231]: "The 'depth' of the well is mentioned in the original as 'height' measured from the bottom of it."
 
 31. A powerful unvanquished excellent black snake, which is 32 *hastas* in length, enters into a hole (at the rate of) 7$\\frac{1}{2}$ *aṅgulas* in $\\frac{5}{14}$ of a day; and in the course of $\\frac{1}{4}$ of a day its tail grows by 2$\\frac{3}{4}$ of an *aṅgula*. O ornament of arithmeticians, tell me by what time this same (serpent) enters fully into the hole.
 
@@ -9033,7 +9495,9 @@ Thus ends treble rule-of-three.
 
 *An example on quadruple rule-of-three.*
 
-[43](# "The word śālinī occurring in this stanza indicates the name of the metre in which the stanza is composed, at the same time that it means 'belonging to a house.'"). A household well, measuring 5, 8 and 3 *hastas* in breadth, length and height (from the bottom, respectively), contain 6 *vāhas* of water; O you, who are learned, give out how much (water) 9 wells, (each being) 7 *hastas* in breadth, 60 in length and 5 in height (from the bottom, will contain).
+43[^232]. A household well, measuring 5, 8 and 3 *hastas* in breadth, length and height (from the bottom, respectively), contain 6 *vāhas* of water; O you, who are learned, give out how much (water) 9 wells, (each being) 7 *hastas* in breadth, 60 in length and 5 in height (from the bottom, will contain).
+
+[^232]: "The word śālinī occurring in this stanza indicates the name of the metre in which the stanza is composed, at the same time that it means 'belonging to a house.'"
 
 **Thus ends the fourth subject of treatment known as Rule-of-three in Sārasaṅgraha which is a work on arithmetic by Mahāvīrācārya.**
 
@@ -9049,7 +9513,9 @@ MIXED PROBLEMS.
 
 **The Fifth Subject of Treatment.**
 
-[1](# "Tīrtha is interpreted to mean a ford intended to cross the river of mundane existence which is subject to karma and reincarnation. The Jinas are conceived to be capable of enabling the souls of men to get out of the stream of saṃsāraor the recurring cycle of embodied existence. The Jinas are therefore called tīrthaṅkaras."). For attaining the supreme good, we worshipfully salute the holy Jinas, who are in possession of the fourfold infinite attributes, who are the makers of *tīrthas*, who have attained self-conquest, are pure, are honoured in all the three worlds and are also excellent preceptors -the Jinas who have gone over to the (other) shore of the ocean of the Jaina doctrines, and are the guides and teachers of (all) born beings, and who, being the abode of all good qualities, are good in themselves and do good to others.
+1[^233]. For attaining the supreme good, we worshipfully salute the holy Jinas, who are in possession of the fourfold infinite attributes, who are the makers of *tīrthas*, who have attained self-conquest, are pure, are honoured in all the three worlds and are also excellent preceptors -the Jinas who have gone over to the (other) shore of the ocean of the Jaina doctrines, and are the guides and teachers of (all) born beings, and who, being the abode of all good qualities, are good in themselves and do good to others.
+
+[^233]: "Tīrtha is interpreted to mean a ford intended to cross the river of mundane existence which is subject to karma and reincarnation. The Jinas are conceived to be capable of enabling the souls of men to get out of the stream of saṃsāraor the recurring cycle of embodied existence. The Jinas are therefore called tīrthaṅkaras."
 
 Hereafter we shall expound the fifth subject of treatment known as mixed problems. It is as follows:-
 
@@ -9074,7 +9540,9 @@ The rule for arriving at (the value of) the interest which (operation) is of the
 
 *Examples in illustration thereof.*
 
-[5](# "Unless otherwise mentioned, the rate of interest is for 1 month."). purāṇas , 50, 60, and 70 (in amount) werelent out on interest at the rate of 3, 5 and 6 per cent (per mensem respectively); what is the interest for 6 months ?
+5[^234]. purāṇas , 50, 60, and 70 (in amount) werelent out on interest at the rate of 3, 5 and 6 per cent (per mensem respectively); what is the interest for 6 months ?
+
+[^234]: "Unless otherwise mentioned, the rate of interest is for 1 month."
 
 6. (A sum of) 30 *kārśāpaṇas* and 8 *paṇas* were lent ont on interest at the rate of 7$\\frac{1}{2}$per cent (per month); what is the interest produced in exactly 7$\\frac{1}{2}$ months ?
 
@@ -9086,7 +9554,9 @@ The rule for arriving at (the value of) the interest which (operation) is of the
 
 The rule for finding out the capital lent out:-
 
-[10](# "Symbolically (C x T x i) / (I x t) = c."). The capital quantity (involved in the rate of interest) is multiplied by the time connected with itself and is then dividedby the interest connected with itself. (Then) this (quotient) has to be divided by the time connected with the capital lent out; (this last) quotient when multiplied by the interest (that has accrued) becomes the capital giving rise to that (interest).
+10[^235] / (I x t) = c."). The capital quantity (involved in the rate of interest) is multiplied by the time connected with itself and is then dividedby the interest connected with itself. (Then) this (quotient) has to be divided by the time connected with the capital lent out; (this last) quotient when multiplied by the interest (that has accrued) becomes the capital giving rise to that (interest).
+
+[^235]: "Symbolically (C x T x i
 
 **1**. Symbolically $i\~ = \~\\frac{c\~ \\times \~t\~ \\times \~I}{T\~ \\times \~C}$,where *T, C* and *I* are respectively the time, capital and interest of the *pramāṇa* or the rate and *t, c* and *i* are respectively the time, capital and interest of the *Icchā*. For an explanation of *pramāṇa*, *Icchā*, &c., see note under Ch. V. 2.
 
@@ -9200,7 +9670,9 @@ The rule for arriving at the separation of the rate-interest and the required ti
 
 The rule for arriving separately at the capital, time, and the interest from their mixed sum :-
 
-[35](# "Here, of the three unknown quantities, the value of the time is to be optionally chosen, and the other two quantities are arrived at in accordance with rule in Ch. VI. 21."). Any (optionally chosen) quantity subtracted from the given mixed sum may happen to be the time required. By means of the interest on *one* for that same time, to which interest *one* is added, (the quantity remaining after the optionally chosen time is subtracted from the given mised sum) is to be divided. (The resulting quotient) is the required capital. The mixed sum diminished by its own corresponding time and capital becomes the (required) interest.
+35[^236]. Any (optionally chosen) quantity subtracted from the given mixed sum may happen to be the time required. By means of the interest on *one* for that same time, to which interest *one* is added, (the quantity remaining after the optionally chosen time is subtracted from the given mised sum) is to be divided. (The resulting quotient) is the required capital. The mixed sum diminished by its own corresponding time and capital becomes the (required) interest.
+
+[^236]: "Here, of the three unknown quantities, the value of the time is to be optionally chosen, and the other two quantities are arrived at in accordance with rule in Ch. VI. 21."
 
 *An example in illustration thereof.*
 
@@ -9259,7 +9731,9 @@ The rule for arriving separately at the rate-interest of the rate-capital from t
 
 The rule for separating the capital, which is of the same value in all cases, and the interest (thereon for varying periods of time), from their mixed sum :-
 
-47. Know that, when the difference between (any two of) the (given) mixed sums as multiplied by each other's [period](# "By ") (ofinterest) is divided by the difference between those periods, what happens to be the quotient is the required capital in relation to (all) those (given mixed sums).
+47. Know that, when the difference between (any two of) the (given) mixed sums as multiplied by each other's period[^237] (ofinterest) is divided by the difference between those periods, what happens to be the quotient is the required capital in relation to (all) those (given mixed sums).
+
+[^237]: "By "
 
 **44**. Symbolically,$\\sqrt{\\frac{CT}{t}\~ \\times \~m\~ + \~\\left( \\frac{CT}{2t} \\right)^{2}\~\~ - \~\\frac{CT}{2t}}\~ = \~I$ which is equal to *c*.
 
@@ -9470,7 +9944,9 @@ It may be noted that the purchasing rate happens in problems bearing on this rul
 
 104$\\frac{1}{2}$. Those three persons took up 1$\\frac{1}{2}$, $\\frac{1}{2}$ and 2$\\frac{1}{2}$ (as their respective capital amounts) and conducted the operations of buying and selling (in relation to the same commodity at the same rates of price); by selling the remnant (in the end) at a price copresented by 6, they became possessors of equal wealth. (Find out their buying and selling prices.)
 
-[105$\\frac{1}{2}$](# " It may be noted here that, according to the rule, it is only the largest capital that is found out, while the other capitals required in the problem are optionally chosen, so as to be less than the largest capital."). The quantity mensuring the equal wealth is 41, and the price at which the remnants of the commodity are sold is 6. O arithmetician, tell me quickly what the highest capital (invested) is, and what the (various) capitals are.
+105$\\frac{1}{2}$[^238]. The quantity mensuring the equal wealth is 41, and the price at which the remnants of the commodity are sold is 6. O arithmetician, tell me quickly what the highest capital (invested) is, and what the (various) capitals are.
+
+[^238]: " It may be noted here that, according to the rule, it is only the largest capital that is found out, while the other capitals required in the problem are optionally chosen, so as to be less than the largest capital."
 
 106$\\frac{1}{2}$. In the ease where 35 *dīnāras*give the numerical measure of the equal wealth, and 4 is the price at which the remnant is to bo sold, you tell me, 0 arithmetician, what the highest capital (invested) is.
 
@@ -9511,7 +9987,9 @@ Thus ends proportionate division in this chapter on mixed problems.
 
 **Vallikā-kuṭṭīkāra.**
 
-Hereafter we shall explain the process of calculation known as[*Vallikā*-](# "It is so called because the method of kuṭṭīkāra explained in the rule is based on a creeper-like chain of figures.")*[kuṭṭīkāra](# "It is so called because the method of kuṭṭīkāra explained in the rule is based on a creeper-like chain of figures.")* :-
+Hereafter we shall explain the process of calculation known as*Vallikā*-[^239]*kuṭṭīkāra[^239]* :-
+
+[^239]: "It is so called because the method of kuṭṭīkāra explained in the rule is based on a creeper-like chain of figures."
 
 The rule underlying the process of calculation known as *Vallikā* in relation to *Kuṭṭīkāra* (which is a special kind of division or distribution) :-
 
@@ -9641,7 +10119,9 @@ The denominators of the first fractions in these three sets of fraction marked I
 
 Thus ends simple *Kuṭṭīkāra* in this chapter on mixed problems.
 
-**[Viṣama-kuṭṭīkara](# "The words Viṣama and Bhinna here used in relation to Kuṭṭīkara have obviously the same meaning and refer to the fractional character of the dividend quantities occurring in the problems contemplated by the rule.").**
+**Viṣama-kuṭṭīkara[^241].**
+
+[^241]: "The words Viṣama and Bhinna here used in relation to Kuṭṭīkara have obviously the same meaning and refer to the fractional character of the dividend quantities occurring in the problems contemplated by the rule."
 
 Hereafter we shall expound complex *kuṭṭīkāra*. Therule relating to complex *kuṭṭīkāra*:-
 
@@ -9938,7 +10418,9 @@ Again, the rule for arriving at (the weights of) gold (corresponding to two give
 
 The rule for arriving at the (weights of) many (component quantities of) gold (of known *varṇas*in a mixture of known *varṇa*and weight):-
 
-[185](# " The rule referred to here is found in stanza 180 above."). (In relation to all the known component *varṇas*) excepting one of them, optionally chosen weights may be adopted. Then what remains should be worked out as in relation to the previously given cases by means of the rule bearing upon the (determination of an) unknown weight of gold.
+185[^242]. (In relation to all the known component *varṇas*) excepting one of them, optionally chosen weights may be adopted. Then what remains should be worked out as in relation to the previously given cases by means of the rule bearing upon the (determination of an) unknown weight of gold.
+
+[^242]: " The rule referred to here is found in stanza 180 above."
 
 *An example in illustration thereof.*
 
@@ -10002,7 +10484,9 @@ The rule for arriving at (the different weights of) gold obtained in exchange an
 
 The rule for finding out the (various weights of) gold obtained as the result of many (specified) kinds of exchange :-
 
-[199$\\frac{1}{2}$](# "The operation which is stated here as having been mentioned before is what is given in stanza 185 above. "). If the (given) weight of gold (to be exchanged) as multiplied by the *varṇa*(thereof) is divided by (the quantity of) the desired gold (obtained in exchange), there arises the uniform average *varṇa*. On carrying out (further) operations as mentioned before, the result arrived at gives the required weights of the various kinds of gold obtained in exchange.
+199$\\frac{1}{2}$[^243]. If the (given) weight of gold (to be exchanged) as multiplied by the *varṇa*(thereof) is divided by (the quantity of) the desired gold (obtained in exchange), there arises the uniform average *varṇa*. On carrying out (further) operations as mentioned before, the result arrived at gives the required weights of the various kinds of gold obtained in exchange.
+
+[^243]: "The operation which is stated here as having been mentioned before is what is given in stanza 185 above. "
 
 *An example in illustration thereof.*
 
@@ -10425,7 +10909,9 @@ The rule for arriving at the sum and the number of termsin a series in arithmeti
 
 *An example in illustration thereof.*
 
-[295](# "The number of women in this problem is conceived to be equal to the number of terms in the series"). (There were a number of *utpala* flowers, representable as the sum of a series in arithmetical progression, whereof) 2 is the first term, and 3 the common difference. A number of women divided (these) *utpala* flowers (equally among them). Each woman had 8 for her share. How many were the women, and how many the flowers ?
+295[^244]. (There were a number of *utpala* flowers, representable as the sum of a series in arithmetical progression, whereof) 2 is the first term, and 3 the common difference. A number of women divided (these) *utpala* flowers (equally among them). Each woman had 8 for her share. How many were the women, and how many the flowers ?
+
+[^244]: "The number of women in this problem is conceived to be equal to the number of terms in the series"
 
 The rule for arriving at the sum of the squares (of a given number of natural numbers beginning with *one*):-
 
@@ -10513,7 +10999,9 @@ The rule for arriving at the collective sum (of the four differert kinds of seri
 
 The rule for arriving at the sum of a series of fractions in geometrical progression :-
 
-[311$\\frac{1}{2}$](# "In this rule, the numerator of the fractional common ratio is taken to be always 1. See stanza 94, Ch. Il and the note thereunder."). The number of terms (in the series) is caused to be marked (in a separate column) by *zero* and by *one* (respectively), corresponding to the even (value) which is halved and to the uneven (value from which *one* is subtracted, till by continuing these processes *zero* is ultimately reached); then this (representative series made up of *zero* and *one* is used in order from the last one therein, so that this *one* multiplied by the common ratio is again) multiplied by the common ratio (wherever *one* happens to be the denoting item), and multiplied so as to obtain the square (wherever *zero* happens to be the denoting item). The result (of this operation) is written down in two positions. (In one of them, what happens to be) the numerator in the result (thus obtained) is divided (by the result itself; then) *one* is subtracted (from it); the (resulting) quantity is multiplied by the first term (in the series) and (then) by (the quantity placed in) the other (of the two positions noted above). The product (so obtained); when divided by *one* as diminished by the common ratio, gives rise to the required sum of the series.
+311$\\frac{1}{2}$[^245]. The number of terms (in the series) is caused to be marked (in a separate column) by *zero* and by *one* (respectively), corresponding to the even (value) which is halved and to the uneven (value from which *one* is subtracted, till by continuing these processes *zero* is ultimately reached); then this (representative series made up of *zero* and *one* is used in order from the last one therein, so that this *one* multiplied by the common ratio is again) multiplied by the common ratio (wherever *one* happens to be the denoting item), and multiplied so as to obtain the square (wherever *zero* happens to be the denoting item). The result (of this operation) is written down in two positions. (In one of them, what happens to be) the numerator in the result (thus obtained) is divided (by the result itself; then) *one* is subtracted (from it); the (resulting) quantity is multiplied by the first term (in the series) and (then) by (the quantity placed in) the other (of the two positions noted above). The product (so obtained); when divided by *one* as diminished by the common ratio, gives rise to the required sum of the series.
+
+[^245]: "In this rule, the numerator of the fractional common ratio is taken to be always 1. See stanza 94, Ch. Il and the note thereunder."
 
 *Examples in illustration thereof.*
 
@@ -10523,7 +11011,9 @@ The rule for arriving at the sum of a series of fractions in geometrical progres
 
 The rule for arriving at the sum of a series in geometrical progression wherein the terms are either increased or decreased (in a specified manner by a given known quantity) :-
 
-[314](# "Algebraically, +- (s / a - n) m÷ (r - 1) + s is the sum of the series of the following form : a, ar +- m, (ar +-m)r +- m, {(ar +- m)r +- m} r +- m,and so on."). The sum of the series in (pure) geometrical progression (with the given first term, given common ratio, and the given number of terms, is written down in two positions) ; one (of these sums so written down) is divided by the (given) first term. From the (resulting) quotient, the (given) number of terms is subtracted. The (resulting) remainder is (then) multiplied by the (given) quantity which is to be added to or to be subtracted (from the terms in the proposed series). The quantity (so arrived at) is (then) divided by the common ratio as diminished by *one*. (The sum of the series in pure geometrical progression written down in) the other (position) has to be diminished by the (last) resulting quotient quantity, if the given quantity is to be subtracted (from the terms in the series). If, however, it is to be added, (then the sum of the series in geometrical progression written down in the other position) has to be increased by the resulting quotient (already referred to. The result in either case gives the required sum of the specified series).
+314[^246] m÷ (r - 1) + s is the sum of the series of the following form : a, ar +- m, (ar +-m)r +- m, {(ar +- m)r +- m} r +- m,and so on."). The sum of the series in (pure) geometrical progression (with the given first term, given common ratio, and the given number of terms, is written down in two positions) ; one (of these sums so written down) is divided by the (given) first term. From the (resulting) quotient, the (given) number of terms is subtracted. The (resulting) remainder is (then) multiplied by the (given) quantity which is to be added to or to be subtracted (from the terms in the proposed series). The quantity (so arrived at) is (then) divided by the common ratio as diminished by *one*. (The sum of the series in pure geometrical progression written down in) the other (position) has to be diminished by the (last) resulting quotient quantity, if the given quantity is to be subtracted (from the terms in the series). If, however, it is to be added, (then the sum of the series in geometrical progression written down in the other position) has to be increased by the resulting quotient (already referred to. The result in either case gives the required sum of the specified series).
+
+[^246]: "Algebraically, +- (s / a - n
 
 *Examples in illustration thereof.*
 
@@ -10537,7 +11027,9 @@ Algebraically, $\\pm \~\\left( \\frac{s}{a}\~ - \~n \\right)\~m\~ \\div \~(r\~ -
 
 The rule for arriving at the first term, the common difference and the number of terms, from the mixed sum of the first term, the common difference, the number of terms, and the sum (of a given series in arithmetical progression) :-
 
-[317](# " Seestanzas 80 - 82 in Ch. II and the note relating to them."). (An optionally chosen number representing) the number of terms (in the series) is subtracted from the (given) mixed sum. (Then) the sum of the natural numbers (beginning with *one* and going up to) *one* less than this optionally chosen number is combined with *one*. By means of this as the divisor (the remainder from the mixed sum as above obtained is divided). The quotient herehappens to be the (required) common difference; and the remainder (in this operation of division) when divided by the (above optionally chosen) number of terms as increased by *one* gives rise to the (required) first term.
+317[^247]. (An optionally chosen number representing) the number of terms (in the series) is subtracted from the (given) mixed sum. (Then) the sum of the natural numbers (beginning with *one* and going up to) *one* less than this optionally chosen number is combined with *one*. By means of this as the divisor (the remainder from the mixed sum as above obtained is divided). The quotient herehappens to be the (required) common difference; and the remainder (in this operation of division) when divided by the (above optionally chosen) number of terms as increased by *one* gives rise to the (required) first term.
+
+[^247]: " Seestanzas 80 - 82 in Ch. II and the note relating to them."
 
 *An example in illustration thereof.*
 
@@ -10547,7 +11039,9 @@ The rule for arriving at the common limit of time when one, who is moving (with 
 
 
 
-[319](# "Algebraically, (v - a) ÷ b / 2 + 1 = t, where v is the unchanging velocity, and t the time."). The unchanging velocity is diminished by the first term (of the velocities in series in arithmetical progression), and is (then) divided by the half of the common difference. On adding *one* (to the resulting quantity), the (required) time (of meeting) is arrived at. (Where two persons travel in opposite directions, each with a definite velocity), twice (the average distance to be covered by either of them) is the (whole) way (to be travelled). This when divided by the sum of their velocities gives rise to the time of (their) meeting.
+319[^248] ÷ b / 2 + 1 = t, where v is the unchanging velocity, and t the time."). The unchanging velocity is diminished by the first term (of the velocities in series in arithmetical progression), and is (then) divided by the half of the common difference. On adding *one* (to the resulting quantity), the (required) time (of meeting) is arrived at. (Where two persons travel in opposite directions, each with a definite velocity), twice (the average distance to be covered by either of them) is the (whole) way (to be travelled). This when divided by the sum of their velocities gives rise to the time of (their) meeting.
+
+[^248]: "Algebraically, (v - a
 
 *An example in illustration thereof.*
 
@@ -10812,7 +11306,9 @@ back) of a tortoise.*
 
 The rule for arriving at the practically approximate value of the area of an in-lying annular figure as well as of an out-reaching annular figure :-
 
-[28](# "The shape of the अन्तश्चक्रवालवृत्तक्षेत्र as well as of the बहिश्चक्रवालवृत्तक्षेत्र is identical with the shape of the नेमिक्षेत्र mentioned in the note to stanza 7 in this chapter. Hence the rule given for arriving at the area of all these figures works out to be the same practically."). The (inner) diameter increased by the breadth (of the annular area) when multiplied by *three* and by the breadth (of the annular area) gives the calculated measure of the area of the outreaching annular figure. (Similarly the measure of the calculated area) of the in-lying annular figure (is to be obtained) from the diameter as diminished by the breadth (of the annular area).
+28[^249]. The (inner) diameter increased by the breadth (of the annular area) when multiplied by *three* and by the breadth (of the annular area) gives the calculated measure of the area of the outreaching annular figure. (Similarly the measure of the calculated area) of the in-lying annular figure (is to be obtained) from the diameter as diminished by the breadth (of the annular area).
+
+[^249]: "The shape of the अन्तश्चक्रवालवृत्तक्षेत्र as well as of the बहिश्चक्रवालवृत्तक्षेत्र is identical with the shape of the नेमिक्षेत्र mentioned in the note to stanza 7 in this chapter. Hence the rule given for arriving at the area of all these figures works out to be the same practically."
 
 *Examples in illustration thereof.*
 
@@ -11092,7 +11588,9 @@ chord $\\sqrt{a^{2}\~ - \~6p^{2}}$.In giving the rule for the measure of the arc
 
 
 
-[76$\\frac{1}{2}$](# "The rationale of the rule here given will be clear from the figures given in the note under stanza 32 above."). To the resulting area, obtained by multiplying the (maximum) length with (the measure of the breadth of) themouth, the value of the areas of its associated bow-shaped figures is added. The resulting sum gives the value of the area of a figure resembling (the longitudinal section of) a *Mṛdaṅga*. In the caseof those two (other) figures which resemble (the longitudinal section of) the *Paṇava*, and (of) the *Vajra*, that (same resulting Area, which is obtained by multiplying the maximum length with the measure of the breadth of the mouth), is diminished by the measure of the areas of the associated bow-shaped figures. (The remainder gives the requird measure of the area concerned.)
+76$\\frac{1}{2}$[^250]. To the resulting area, obtained by multiplying the (maximum) length with (the measure of the breadth of) themouth, the value of the areas of its associated bow-shaped figures is added. The resulting sum gives the value of the area of a figure resembling (the longitudinal section of) a *Mṛdaṅga*. In the caseof those two (other) figures which resemble (the longitudinal section of) the *Paṇava*, and (of) the *Vajra*, that (same resulting Area, which is obtained by multiplying the maximum length with the measure of the breadth of the mouth), is diminished by the measure of the areas of the associated bow-shaped figures. (The remainder gives the requird measure of the area concerned.)
+
+[^250]: "The rationale of the rule here given will be clear from the figures given in the note under stanza 32 above."
 
 *Examples in illustration thereof.*
 
@@ -11201,7 +11699,9 @@ If *a* and *b*are the *bīja* numbers, then *a*²−*b*² is the measure of the 
 
 The rule for arriving at the *bīja* numbers relating to a given figure capable of being derived (from *bījas*).
 
-[95$\\frac{1}{2}$](# "The processes mentioned in this rule may be seen to be converse to the operations mentioned in stanza 90 1/2."). The operation of *saṅkramaṇa* between (an optionally chosen exact) divisor of the measure of the perpendicular-side and the resulting quotient gives rise to the (required) *bījas*. (An optionally chosen exact) divisor of half the measure of the (other) side and the resulting quotient (also) form the *bījas*(required). Those (*bījas*)**are, (respectively), the square roots of half the sum and of half the difference of the measure of the hypotenuse and the square of a (suitably) chosen optional number.
+95$\\frac{1}{2}$[^251]. The operation of *saṅkramaṇa* between (an optionally chosen exact) divisor of the measure of the perpendicular-side and the resulting quotient gives rise to the (required) *bījas*. (An optionally chosen exact) divisor of half the measure of the (other) side and the resulting quotient (also) form the *bījas*(required). Those (*bījas*)**are, (respectively), the square roots of half the sum and of half the difference of the measure of the hypotenuse and the square of a (suitably) chosen optional number.
+
+[^251]: "The processes mentioned in this rule may be seen to be converse to the operations mentioned in stanza 90 1/2."
 
 An example in illustration thereof.
 
@@ -11573,7 +12073,9 @@ In the case of the Oblong $\\frac{x\~ \\times \~m}{x\~ \\times \~n}\~ = \~\\frac
 
 *An example in illustration thereof.*
 
-[143-145](# "What is called fistul in this problem is equivalent to four aṅgulas in measure."). A king caused to be dropped an excellent carpet on the floor of (his) palace in the inner apartments of his zenana amidst the ladies of his harem. That (carpet) was (in shape) a regular circle. It was held (in hand) by those ladies. The fistfuls of both their arms made each (of them) acquire 15 (*daṇḍas* out of the total area of the carpet). How many are the ladies, and what is the diameter (of the circle) here? What are the sides of the square (if that same carpet be square in shape) ? and what thesides of the equilateral triangle (if it be equilaterally triangular in shape) ?Tell (me), Ofriend, the measures of the perpendicular sideand the base, in (case the carpet happens to be) a longish quadrilateral figure (in shape).
+143-145[^252]. A king caused to be dropped an excellent carpet on the floor of (his) palace in the inner apartments of his zenana amidst the ladies of his harem. That (carpet) was (in shape) a regular circle. It was held (in hand) by those ladies. The fistfuls of both their arms made each (of them) acquire 15 (*daṇḍas* out of the total area of the carpet). How many are the ladies, and what is the diameter (of the circle) here? What are the sides of the square (if that same carpet be square in shape) ? and what thesides of the equilateral triangle (if it be equilaterally triangular in shape) ?Tell (me), Ofriend, the measures of the perpendicular sideand the base, in (case the carpet happens to be) a longish quadrilateral figure (in shape).
+
+[^252]: "What is called fistul in this problem is equivalent to four aṅgulas in measure."
 
 The rule for arriving at an equilaterally quadrilateral figure or at a longish qundrilateral figure when the numerical value of the area of the figure is known :-
 
@@ -11726,7 +12228,9 @@ equal sides.*
 
 Therule for arriving, when the approximate and the accurate measures of an area are known, at the equilateral triangle and also at the diameter of the circle, having those sameapproximate and accurate measures (for their area) :-
 
-[168 1/2](# "For the approximate and accurate values of an equilateral trianglesee rulesia stanzas 7 and 50 of this chapter."). That which happens to be the square root of the square root of the difference between the squares of the (approximate measure and of the accurate measure of the given) area is to bemultiplied by *two*. The result is the measure of the side in the (required) equilateral triangle. It is also the measure of the diameter of the (required) regular circle.
+168 1/2[^253]. That which happens to be the square root of the square root of the difference between the squares of the (approximate measure and of the accurate measure of the given) area is to bemultiplied by *two*. The result is the measure of the side in the (required) equilateral triangle. It is also the measure of the diameter of the (required) regular circle.
+
+[^253]: "For the approximate and accurate values of an equilateral trianglesee rulesia stanzas 7 and 50 of this chapter."
 
 
 
@@ -11997,13 +12501,17 @@ This is the formula given in the rule for the diameter of a circle circumscribed
 
 219$\\frac{1}{2}$. In the case of a triangle with unequal sides the two sides are 15 and 13 in measure; the base is 14. Tell me the value of the diameter of the circle described about it.
 
-[220$\\frac{1}{2}$](# "The Kanarese commentary on this stanzaworks out this problem by pointing out that the diagonal of a regular hexagonis equal to the diameter of the circumscribed circle."). If you know the *paiśācika*(processes of calculation), tell me after thinking well what may be the value of the diameter of the circle described about a (regular) six-sided figure having 2 as the measure of each of (its) sides.
+220$\\frac{1}{2}$[^254]. If you know the *paiśācika*(processes of calculation), tell me after thinking well what may be the value of the diameter of the circle described about a (regular) six-sided figure having 2 as the measure of each of (its) sides.
+
+[^254]: "The Kanarese commentary on this stanzaworks out this problem by pointing out that the diagonal of a regular hexagonis equal to the diameter of the circumscribed circle."
 
 The rule for arriving at the numerical values of the base, of the top-side and the (other) sides of the eight (different) kinds of figuresbeginning with the square, which are inscribed in a regular circular figure having a diameter of known numerical value:-
 
 
 
-[221$\\frac{1}{2}$](# "The rule follows as a matter of course from the similarity of the required and the optionally chosen figures."). The value of the given diameter (of the circle) is divided by the value of the (hypothetically) arrived diameter of the circle (described about an optionally chosen figure belonging tothe specified variety). The values of the sides (of this optionally chosen figure) should be multiplied by the resulting quotient (arrived at as mentioned above). Thus, the numerical values of the sides of the figure produced (in the given circle) are deduced.
+221$\\frac{1}{2}$[^255]. The value of the given diameter (of the circle) is divided by the value of the (hypothetically) arrived diameter of the circle (described about an optionally chosen figure belonging tothe specified variety). The values of the sides (of this optionally chosen figure) should be multiplied by the resulting quotient (arrived at as mentioned above). Thus, the numerical values of the sides of the figure produced (in the given circle) are deduced.
+
+[^255]: "The rule follows as a matter of course from the similarity of the required and the optionally chosen figures."
 
 *Examples in illustration thereof.*
 
@@ -12054,7 +12562,9 @@ The rule for arriving at the namerical value of the diameter of a (given) circle
 
 When two regular circles cut each other, there arises a fishshaped figure. In relation to that fish-shaped figure, the line going from the mouth to the tail (thereof) should be drawn. With the aid of this line, there will come into existence the outlines of two bowsapplied to each other face to face. The line drawn from the mouth to the tail (of the fish-figure) happens to be itself the bow-string line in relation to both these bows. The two arrow lines in relation to both these bows are themselves to be understood as forming the two arrow lines connected with the mutually overlapping circles. And the rule here is to arriveat the values of the arrow lines connected with the overlapping portion when two regular circles out each other :-
 
-[231$\\frac{1}{2}$](# "The problem here contemplated may be seen to have been alsosolved by Āryabhaṭa, and the rule given by him coincides with the one under reference here."). With the aid of the values of the two diameters (of the two cutting circles) as diminished by the value of (the greatest breadth of) the overlapped portion (of the circles), theoperation of *prakṣepaka*should be carried out in relation to this (known) value of (the greatest breadth of) the overlapped portion (of the circles). The two results (so obtained) are in the matterof (such) circles pointed out to be the values, each of the other, measuring the two arrow lines related to the overlapping (circles).
+231$\\frac{1}{2}$[^256]. With the aid of the values of the two diameters (of the two cutting circles) as diminished by the value of (the greatest breadth of) the overlapped portion (of the circles), theoperation of *prakṣepaka*should be carried out in relation to this (known) value of (the greatest breadth of) the overlapped portion (of the circles). The two results (so obtained) are in the matterof (such) circles pointed out to be the values, each of the other, measuring the two arrow lines related to the overlapping (circles).
+
+[^256]: "The problem here contemplated may be seen to have been alsosolved by Āryabhaṭa, and the rule given by him coincides with the one under reference here."
 
 
 
@@ -12074,15 +12584,21 @@ CALCULATIONS REGARDING EXCAVATIONS.
 
 1. I bow in religious devotion with my head (bent downwards) to Jina Vardhamana, whose foot-stool is honoured by the crowns worn by all the chief gods, who is omniscient, ever-enduring, unthinkable, and infinite in form, and is (further) like the young(rising) sun in relation to the lotus-lakes representing the good and worthy people that are his devotees.
 
-[2](# "The term Auṇḍra in Auṇḍraphala is rather strangeSanskrit and is perhaps related to the Hindi word औण्डmeaning'deep.'"). I shall now give out the (three) varieties of *karmāntik*, *auṇḍraphala*, and *sūkṣmaphala*(in relation to excavations), which varieties are all derived from those various kinds of geometrical figures, mentioned before, as results obtained by multiplying them by (quantities measuring) depth. This seventh subject of treatment is the subject of excavations.
+2[^257]. I shall now give out the (three) varieties of *karmāntik*, *auṇḍraphala*, and *sūkṣmaphala*(in relation to excavations), which varieties are all derived from those various kinds of geometrical figures, mentioned before, as results obtained by multiplying them by (quantities measuring) depth. This seventh subject of treatment is the subject of excavations.
+
+[^257]: "The term Auṇḍra in Auṇḍraphala is rather strangeSanskrit and is perhaps related to the Hindi word औण्डmeaning'deep.'"
 
 A stanza regarding the conventional assumption (implied in this chapter) :-
 
-[3](# "The idea is this stanza evidently is that one cubichasta of compressed earth weighs 3,600 palas, while 3,200 palas of earth are sufficient to fill loosely the space of 1 cubichasta."). The quantity of earth required to fill an excavation measuring one cubic *hasta* is 3,200 *palas*. From that (same cubicvolume of excavation) 3,600 *palas* (of earth) may be taken out.
+3[^258]. The quantity of earth required to fill an excavation measuring one cubic *hasta* is 3,200 *palas*. From that (same cubicvolume of excavation) 3,600 *palas* (of earth) may be taken out.
+
+[^258]: "The idea is this stanza evidently is that one cubichasta of compressed earth weighs 3,600 palas, while 3,200 palas of earth are sufficient to fill loosely the space of 1 cubichasta."
 
 The rule for arriving at the cubical contents of excavations :-
 
-[4](# "The latter half of this stanzaevidently gives the process by which we may arrive at the dimensions of a regular excavation fairly equivalent to any given irregular excavation."). Area multiplied by depth gives rise to the approximatemeasure of the cubical contents in a regular excavation. The sums of (all the various) top dimensions with the correspondingbottom dimensions are halved; and then (these halved quantities of the same denomination are all added, and their sum is) divided by the number of the said (halved quantities). Such is the process of arriving at the average equivalent value.
+4[^259]. Area multiplied by depth gives rise to the approximatemeasure of the cubical contents in a regular excavation. The sums of (all the various) top dimensions with the correspondingbottom dimensions are halved; and then (these halved quantities of the same denomination are all added, and their sum is) divided by the number of the said (halved quantities). Such is the process of arriving at the average equivalent value.
+
+[^259]: "The latter half of this stanzaevidently gives the process by which we may arrive at the dimensions of a regular excavation fairly equivalent to any given irregular excavation."
 
 
 
@@ -12249,7 +12765,9 @@ Hereafter, in (this) chapter treating of operations relating to excavations, we 
 
 The rule for arriving at the cubical contents of a given excavation in a field and also at the number of bricks corresponding to the above cubical contents.
 
-[44$\\frac{1}{2}$](# "The cubical measure of the brick pile here is evidently in terms of the unit brick."). The area at the mouth (of the excavation) is multiplied by the depth ; this (resulting product) is divided by the cubicmeasure of the(unit) brick. The quotient so obtained is to be understood as the (cubical) measure of a (brick) pile; that same(quotient) also happens to be the measure of the number of the bricks.
+44$\\frac{1}{2}$[^260]. The area at the mouth (of the excavation) is multiplied by the depth ; this (resulting product) is divided by the cubicmeasure of the(unit) brick. The quotient so obtained is to be understood as the (cubical) measure of a (brick) pile; that same(quotient) also happens to be the measure of the number of the bricks.
+
+[^260]: "The cubical measure of the brick pile here is evidently in terms of the unit brick."
 
 *Examples in illustration thereof.*
 
@@ -12461,7 +12979,9 @@ The rule for arriving at the numerical measure of the shadow which has ascended 
 
 The rule for arriving at the numerical value of the measurement of the interspace between a wall and a pillar, when the height of the pillar and the numerical value of (that portion of) the shadow thereof which has fallen upon the wall are (both) known.
 
-[23](# "This rule and the one in stanna 26 following give the converse cases of the rule in stanza 21 above."). The difference between the height of a pillar and that (of its shadow) cast on (a wall), multiplied by the measure of the human shadow(in terms of the man's height), gives rise to the measure of the interspace between that (pillar) and that (wall). This value of the interspace divided by the difference between the height of the pillar and that of (the portion of) the shadow thereof cast on (the wall), gives rise to the measure of the human shadow (in terms of the man's height).
+23[^261]. The difference between the height of a pillar and that (of its shadow) cast on (a wall), multiplied by the measure of the human shadow(in terms of the man's height), gives rise to the measure of the interspace between that (pillar) and that (wall). This value of the interspace divided by the difference between the height of the pillar and that of (the portion of) the shadow thereof cast on (the wall), gives rise to the measure of the human shadow (in terms of the man's height).
+
+[^261]: "This rule and the one in stanna 26 following give the converse cases of the rule in stanza 21 above."
 
 *An example in illustration thereof.*
 
@@ -12480,7 +13000,9 @@ The rule for arriving at the numerical value of the measurement of the interspac
 
 The rule for arriving at the numerical value of the height of apillar, when the numerical measure of the (portion of its) shadow cast on (a wall and the measure of the interspace between (that) pillar and (that) wall, and also the human shadow (in terms of the human height) are known.
 
-[26](# "Vide note under stanza 23 above."). The measure of the (pillar-shadow) east on (the wall) is multiplied by the measure of the human shadow (in terms of the human height); and to this product the measure of the interspace between the pillar and the wall is added. The quotient obtained by dividing (the sum so resulting) by the measure of the human shadow (in terms of the human height) is made out by the wise to be the measure (of the height) relating to the pillar.
+26[^262]. The measure of the (pillar-shadow) east on (the wall) is multiplied by the measure of the human shadow (in terms of the human height); and to this product the measure of the interspace between the pillar and the wall is added. The quotient obtained by dividing (the sum so resulting) by the measure of the human shadow (in terms of the human height) is made out by the wise to be the measure (of the height) relating to the pillar.
+
+[^262]: "Vide note under stanza 23 above."
 
 *An example in illustration thereof.*
 
@@ -12522,7 +13044,9 @@ The rulefor arriving at the measure of the inclination of a pillar (or vertical 
 
 35-37$\\frac{1}{2}$. A certain prince, staying in the interior of a palace, was, (at a certain moment) in the course of a forenoon, desirous of knowing the time elapsed in the course of the day, as also the measure of the human shadow (in terms of the human height). Then, the light of the sun coming through a window at a height of 32 *hastas* in the middle of the eastern wall fell at a place on the western wall at the height of 29 *hastas*. The distance between those two walls is 24 *hastas*. O mathematician, if you have taken pains (to acquaint yourself) with shadow-problems, calculate and give out the measure of the time elapsed then, on that day, and also the measure of the human shadow (at that time in terms of the human height).
 
-[38$\\frac{1}{2}$-39$\\frac{1}{2}$](# "This example has to be worked out according to the rule given in stanza 21 above."). At the time when, in the course of a forenoon, the human shadow is twice the humanheight, what, in relation to a (vertical excavation of) square (section) measuring 10 *hastas* in each dimension, will be the height of the shadow on the western wall caused by the eastern wall (thereof) ? O mathematician, give out, if you know, how yon may arrive at the value of the shadow that has ascended up (a perpendicular wall).
+38$\\frac{1}{2}$-39$\\frac{1}{2}$[^263]. At the time when, in the course of a forenoon, the human shadow is twice the humanheight, what, in relation to a (vertical excavation of) square (section) measuring 10 *hastas* in each dimension, will be the height of the shadow on the western wall caused by the eastern wall (thereof) ? O mathematician, give out, if you know, how yon may arrive at the value of the shadow that has ascended up (a perpendicular wall).
+
+[^263]: "This example has to be worked out according to the rule given in stanza 21 above."
 
 **35-37**$\\frac{1}{2}$. This example bears on the rules given in stanzas 8$\\frac{1}{2}$ and 23 above.
 
@@ -12544,7 +13068,9 @@ The rule for arriving at the (horizontal) distance between the lamp and the styl
 
 An example in illustration thereof.
 
-[44](# "The given measure of the height of the style is 12aṅgulas, vide stanzas 46-47 below."). The shadow of the style is 8 *aṅgulas* (in length). The height of the flame of the lamp (above the floor) is 60 (*aṅgulas*).
+44[^264]. The shadow of the style is 8 *aṅgulas* (in length). The height of the flame of the lamp (above the floor) is 60 (*aṅgulas*).
+
+[^264]: "The given measure of the height of the style is 12aṅgulas, vide stanzas 46-47 below."
 
 
 
@@ -12583,7 +13109,9 @@ of a tree.*
 
 50. The measure (of the length) of one's own shadow (at the time) is 4 times the measure of (one's own) foot. The height of a tree is 175 (in terms of such a foot-measure). What is the measure of the shadow of the tree then ?
 
-[51-52$\\frac{1}{2}$](# "This example is intended to illustrate the rule given in stanza 45 above."). After going over (a distance of) 8 *yōjanas* (to the cast) of city, there is a hill of 10 *yōjanas* in height. In the city also there is a hill of 10 *yōjanas* in height. After going over (a distance of) 80 *yōjanas* (from the) eastern hill to the west, there is another hill. Lights on the top of this (last mentioned hill) are seen at nights by the inhabitants of the city. The shadow of the hill lying at the centre of the city touches the base of the easternhill. Give out quickly, O mathematician, what the height of this (western) hill is.
+51-52$\\frac{1}{2}$[^265]. After going over (a distance of) 8 *yōjanas* (to the cast) of city, there is a hill of 10 *yōjanas* in height. In the city also there is a hill of 10 *yōjanas* in height. After going over (a distance of) 80 *yōjanas* (from the) eastern hill to the west, there is another hill. Lights on the top of this (last mentioned hill) are seen at nights by the inhabitants of the city. The shadow of the hill lying at the centre of the city touches the base of the easternhill. Give out quickly, O mathematician, what the height of this (western) hill is.
+
+[^265]: "This example is intended to illustrate the rule given in stanza 45 above."
 
 **Thus ends the eighth subject of treatment, known as Calculations relating to shadows, in Sārasaṅgraha, which is a work on arithmetic by Mahāvīrācārya.**
 
@@ -14339,3 +14867,286 @@ TABLES OF MEASURES.
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^240]: "It is so called because the method of kuṭṭīkāra explained in the rule is based on a creeper-like chain of figures."
+
+
+[^112]: "This stanza is not found in M."
+
+
+[^110]: "This stanza is omitted in M."
+
+
+[^97]: "M गुणभागाद्युत्तरेच्छायाः"
+
+
+[^78]: "This stanza is not found in M"

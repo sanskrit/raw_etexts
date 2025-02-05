@@ -53,19 +53,29 @@ FOREWORD.
 
 
 
-it has been shown [elsewhere](# "Sādhanamālā, vol II, Introduction, see p.3. Origin and Development of Vajrayana, pp. xxii ff.")that the Tantras are of a very recent origin and even the earliest of the works now extant cannot go back under any circumstances beyond the 2nd or the 3rd century A. D. There are certain clues in the body of the book to show not only that the Pārānanda Sūtra is a product of recent origin, but also that, though written in the Sūtra form, it cannot go back to a time when even the earlier Tantras were composed.
+it has been shown elsewhere[^1]that the Tantras are of a very recent origin and even the earliest of the works now extant cannot go back under any circumstances beyond the 2nd or the 3rd century A. D. There are certain clues in the body of the book to show not only that the Pārānanda Sūtra is a product of recent origin, but also that, though written in the Sūtra form, it cannot go back to a time when even the earlier Tantras were composed.
 
- The Pārānanda Sūtra [mentions](# "p. 29. Sūtra, 20, तदुदरतोऽन्यतः सर्वतः अचिन्त्यैश्वर्यावग्नीषोमो।")
+[^1]: "Sādhanamālā, vol II, Introduction, see p.3. Origin and Development of Vajrayana, pp. xxii ff."
 
-for instance, Agniṣoma and thus refers to the famous Pañcarātra doctrine of Akşara Brahma, which has been inculcated in all Pāñcarātra Samhitās, particularly in the Ahirbudhnya and Jayākhya Samhitās. The Pañcarātras hold that Para Brahman being restless with superfluous energy transforms himself in the form of Agni and Soma representing the long and short vowels of the [alphabet](# "See Jāyakhyasamhitā, introduction, pp. 24, 25; and text— प्रकाशस्तु भवेत्सूर्य आह्लादः सोम उच्यते पुमान् स एव चिन्मूर्त्तिरग्नीषोममयो द्विज॥p.58 षोडशाक्षर आद्यस्तु अकाराद्यो द्विजोत्तम विसर्गान्तः स्थितस्तस्मिन्ननीषोमात्मकः प्रभुः॥ p.42")
+ The Pārānanda Sūtra mentions[^2]
+
+for instance, Agniṣoma and thus refers to the famous Pañcarātra doctrine of Akşara Brahma, which has been inculcated in all Pāñcarātra Samhitās, particularly in the Ahirbudhnya and Jayākhya Samhitās. The Pañcarātras hold that Para Brahman being restless with superfluous energy transforms himself in the form of Agni and Soma representing the long and short vowels of the alphabet[^3]
+
+[^2]: "p. 29. Sūtra, 20, तदुदरतोऽन्यतः सर्वतः अचिन्त्यैश्वर्यावग्नीषोमो।"
 
 . Soma is called Joy while Agni or Surya is called Light (Prakāśa). The combination of the short and long vowels is therefore given the name of Agnīsoma, and they are considered to be the embodiment of the highest god Brahman, and even the creator of the principles like Mahat, Ahaṁkāra, etc. Agniṣoma are regarded as the creator, maintainer and destroyer of the universe. They are therefore named
 
-as Pumān. From Pumān are originated the Vyañjanas or the consonants of the alphabet and the creative Tattvas beginning with Mahat and ending in the Earth. This Pumān while presiding over the Pradhāna or Primordial matter becomes conscious of his possession, wants many more things to create, and thus obtains the name of [Puruşeśvara](# "See ibid, intro. pp.24, 25")
+[^3]: "See Jāyakhyasamhitā, introduction, pp. 24, 25; and text— प्रकाशस्तु भवेत्सूर्य आह्लादः सोम उच्यते पुमान् स एव चिन्मूर्त्तिरग्नीषोममयो द्विज॥p.58 षोडशाक्षर आद्यस्तु अकाराद्यो द्विजोत्तम विसर्गान्तः स्थितस्तस्मिन्ननीषोमात्मकः प्रभुः॥ p.42"
+
+as Pumān. From Pumān are originated the Vyañjanas or the consonants of the alphabet and the creative Tattvas beginning with Mahat and ending in the Earth. This Pumān while presiding over the Pradhāna or Primordial matter becomes conscious of his possession, wants many more things to create, and thus obtains the name of Puruşeśvara[^4]
 
 .
 
- Now the doctrine of Akşara Brahman as has been shown in the Foreword to the Jayākhyasaṁhitā is, in a full fledged form, a product of the [5th century A. D](# "For the date of the three Pañcarātra Jewels including Jayākhya, See introduction to the Jayākhyasamhitā,pp.26 ff,")., and as the Pārānanda Sūtra
+[^4]: "See ibid, intro. pp.24, 25"
+
+ Now the doctrine of Akşara Brahman as has been shown in the Foreword to the Jayākhyasaṁhitā is, in a full fledged form, a product of the 5th century A. D[^5]., and as the Pārānanda Sūtra
+
+[^5]: "For the date of the three Pañcarātra Jewels including Jayākhya, See introduction to the Jayākhyasamhitā,pp.26 ff,"
 
 
 
@@ -77,27 +87,55 @@ mentions this, the work cannot have a greater antiquity than the time of the Pā
 
 rays of light and when the rays touched those who denounced they all fell down from their seats senseless. The other members, who readily believed in him and implicitly put faith in his new doctrines, were saved from this disaster. These members requested the speaker to revive the dead and in compliance he sat in another Samādhi, and when the rays issuing from his body touched the unconscious members they were revived and sat again on their seats; and in the meanwhile they could realize what they could not understand through words of mouth. The mention of the Vāmācāra and permission given to the ascetics to take recourse to women cannot be earlier than the time of the composition of the Guhyasamāja, which has been shown to be circa 3rd century A. D. The practice of Yoga in the company of women was made a special feature in the Tantras that came after the Guhyasamāja and was the very part and parcel of the Tantra, particularly of the Vāmācāra, Yoga and Anuttarayoga Tantras.
 
- There are other reasons for considering the present work to be the product of a very late period. In the body of the book several deities are mentioned, and among them the mention of [Kurukullā](# "p.11, sūtra 65; p.37, sūtra 93"), Tārā as a [Mahāvidya](# "p.37, sūtra 94; ताराद्या महाविद्याः सिंहस्थाश्च।"), Kālikā or [Mahākālī](# "p.11, sutra 47; p.11, sutra 65; p.37, sūtra 93; p.65, sūtra 41."), and the Mahāvidyās beginning with [Tārā](# "p.37, sūtra 94; p.11, sūtra 47")is noteworthy. Now, for determining the date of the present Tantra these names seem to be of the highest value. Kurukullāis a deity accepted in Buddhism and this deity is bodily taken in the Pārānanda Sūtra. This adds to the already long list of deities borrowed in the Hindu pantheon from the pantheon of the Buddhists. That the more important among the Mahāvidyās such as Kālī, Tārā, and Chinnamasta acknowledged by the Hindus are Buddhistic in origin has been amply proved by a comparative study of the Hindu and the Buddhist [Tantras](# "Buddhist Deities in Hindu Garb in the Proccedings of the Fifth Oriental Conference at Lahore,Vol.II,pp.1277 ff."). Further, it has been shown that the different forms of Tārā, namely, Ugrā, Mahogrā, Vajrā, Kālī, Sarasvatī, Bhadrakali and Kāmes'varī are included in the Hindu pantheon though they are purely Buddhist in origin. It has also been shown that Mañjughoṣa, whose worship is even in the present day current, is a purely Buddhist deity though acknowledged in
+ There are other reasons for considering the present work to be the product of a very late period. In the body of the book several deities are mentioned, and among them the mention of Kurukullā[^6], Tārā as a Mahāvidya[^7], Kālikā or Mahākālī[^8], and the Mahāvidyās beginning with Tārā[^9]is noteworthy. Now, for determining the date of the present Tantra these names seem to be of the highest value. Kurukullāis a deity accepted in Buddhism and this deity is bodily taken in the Pārānanda Sūtra. This adds to the already long list of deities borrowed in the Hindu pantheon from the pantheon of the Buddhists. That the more important among the Mahāvidyās such as Kālī, Tārā, and Chinnamasta acknowledged by the Hindus are Buddhistic in origin has been amply proved by a comparative study of the Hindu and the Buddhist Tantras[^10]. Further, it has been shown that the different forms of Tārā, namely, Ugrā, Mahogrā, Vajrā, Kālī, Sarasvatī, Bhadrakali and Kāmes'varī are included in the Hindu pantheon though they are purely Buddhist in origin. It has also been shown that Mañjughoṣa, whose worship is even in the present day current, is a purely Buddhist deity though acknowledged in
+
+[^6]: "p.11, sūtra 65; p.37, sūtra 93"
+
+[^7]: "p.37, sūtra 94; ताराद्या महाविद्याः सिंहस्थाश्च।"
+
+[^8]: "p.11, sutra 47; p.11, sutra 65; p.37, sūtra 93; p.65, sūtra 41."
+
+[^9]: "p.37, sūtra 94; p.11, sūtra 47"
+
+[^10]: "Buddhist Deities in Hindu Garb in the Proccedings of the Fifth Oriental Conference at Lahore,Vol.II,pp.1277 ff."
 
 
 
-[Hinduism](# "Ibid, pp. 1290 and 1296"). Furthermore, the deity Bhūtaḍāmara who is described in the Buddhist Tantras as an expert in destroying the pride of such gods as S'akra, Brahmā, Kubera and [others](# "Sādhanamālā,Vol II.p.512 शक्रब्रह्मकुबेरादिमदविध्वंसकोविदम्। श्रीभूतडामरं नत्वा.................॥"), though included. in the Hindu pantheon is really Buddhist in [origin](# "The Cult of Bhūtaḍāmara, read before the Sixth Oriental Conference at Patna 1930."). Pārānanda Tantra includes Kurukullā who is a purely Buddhist deity as a Hindu goddess, and it is necessary therefore that the origin and history of the conception of this deity should be traced with the materials at present available.
+Hinduism[^11]. Furthermore, the deity Bhūtaḍāmara who is described in the Buddhist Tantras as an expert in destroying the pride of such gods as S'akra, Brahmā, Kubera and others[^12], though included. in the Hindu pantheon is really Buddhist in origin[^13]. Pārānanda Tantra includes Kurukullā who is a purely Buddhist deity as a Hindu goddess, and it is necessary therefore that the origin and history of the conception of this deity should be traced with the materials at present available.
 
- Those who are acquainted with the Buddhist Tantra know very well that Kurukulla as an emanation of the Dhyani Buddha Amitabha is a powerful and influential deity in the whole of the Buddhist pantheon. The Sadhanamālā which has been published already in the Gaekwad's Oriental Series contains no less than twenty [Sadhanas](# "of.cit.Vol.II.Sadhana Nos.171-190")devoted to the worship of the Buddhist goddess Kurukullā. She is conceived in several forms and these are named as Tārodbhava Kurukullā, Bhramarīyoga Kurukullā, Uḍḍiyāna Kurukullā, S'ukla Kurukullā, Svādhisthāna Kurukullā, Hevejrakrama Kurukullā, and so forth. These Sadhanas are composed by various authors among whom we find the names of Muktaka, Indrabhūti, Kṛṣṇapāda, Sahajavilāsa, Siddha S'abarapāda and Karuņācala.
+[^11]: "Ibid, pp. 1290 and 1296"
 
- Among the authors above mentioned Muktaka must have belonged to a period not later than 1100 A.D.,as the Sadhana composed by him appears in the Cambridge manuscript of the Sadhanamālā which bears a date in the Newari Era corresponding to [1165 A.D](# "Sadhanamālā Vol.II; intro.p.cv.")
+[^12]: "Sādhanamālā,Vol II.p.512 शक्रब्रह्मकुबेरादिमदविध्वंसकोविदम्। श्रीभूतडामरं नत्वा.................॥"
+
+[^13]: "The Cult of Bhūtaḍāmara, read before the Sixth Oriental Conference at Patna 1930."
+
+ Those who are acquainted with the Buddhist Tantra know very well that Kurukulla as an emanation of the Dhyani Buddha Amitabha is a powerful and influential deity in the whole of the Buddhist pantheon. The Sadhanamālā which has been published already in the Gaekwad's Oriental Series contains no less than twenty Sadhanas[^14]devoted to the worship of the Buddhist goddess Kurukullā. She is conceived in several forms and these are named as Tārodbhava Kurukullā, Bhramarīyoga Kurukullā, Uḍḍiyāna Kurukullā, S'ukla Kurukullā, Svādhisthāna Kurukullā, Hevejrakrama Kurukullā, and so forth. These Sadhanas are composed by various authors among whom we find the names of Muktaka, Indrabhūti, Kṛṣṇapāda, Sahajavilāsa, Siddha S'abarapāda and Karuņācala.
+
+[^14]: "of.cit.Vol.II.Sadhana Nos.171-190"
+
+ Among the authors above mentioned Muktaka must have belonged to a period not later than 1100 A.D.,as the Sadhana composed by him appears in the Cambridge manuscript of the Sadhanamālā which bears a date in the Newari Era corresponding to 1165 A.D[^15]
 
 .
 
-Karuṇācala, the second, twice mentions Līlās'ani or Līlāvajra as his preceptor, and we know from other sources that Līlāvajra flourished about A.D.741. Being his disciple Karuņācala may be placed approximately at A.D.753 taking twelve years' average for one succession between a Guru and his [disciple](# "op.cit.Vol.II.intro.p.xcix.")
+[^15]: "Sadhanamālā Vol.II; intro.p.cv."
+
+Karuṇācala, the second, twice mentions Līlās'ani or Līlāvajra as his preceptor, and we know from other sources that Līlāvajra flourished about A.D.741. Being his disciple Karuņācala may be placed approximately at A.D.753 taking twelve years' average for one succession between a Guru and his disciple[^16]
 
 . Indrabhūti who has also composed a Sādhana for Kurukulla is a famous personality in the history of Tantric literature as the king of Uḍḍiyāna and as the father of Guru
 
+[^16]: "op.cit.Vol.II.intro.p.xcix."
 
 
-Padmasambhava who went to Tibet to reform the State religion there and built the first regular monastery at Samye along with his brother-in-law and collaborator, the famous S'āntārakṣita. Indrabhūti owing to these reasons has been placed in cir. [A.D.717](# " Ibid, intro. p. xcVIII. See also Two Vajrayāna works, Iintroduction pp. xiff."). He wrote several works among which the Jñanasiddhi has already been published in the *Gaekwad's Oriental Series.* Besides Indrabhūti there was another Siddhācāryya who is credited with the authorship of a Sadhana for Kurukulla. He is Kṛṣṇācāryya popularly known as Kanhupā. This Kṛṣṇa was born of a Brahmin family of Orissa and was initiated into the mystic cult by Jalandharīpā. Kṛṣṇa's disciple was a weaver. He was a great composer of verses in vernacular and several of them have been published in the *Bauddha Gān O Dohā*by Mahamahopadhyaya Haraprasad Shastri. Kṛṣṇācāryya was a disciple of Jalandharīpā and must have flourished in about [717 A. D.](# "Sādhanamālā, întro. p. LIII,")
 
- But the name of S'abara amongst the authors of Sadhanas devoted to Kurukulla is the most important in determining the date of the introduction of the deity Kurukulla in the Buddhist pantheon. S'abarapa as is well known is one of the earliest Siddhācāryyas so far known, and is the disciple of Siddha Nagarjuna. He is described as having belonged to the hill tribe called the S'abaras or huntsmen in Bāngālā where he met Nāgārjuna and embraced Tantrism. Besides being a writer on Sādhanas he is also credited to have composed many melodious songs in his own vernacular which have also been published in the *Bauddha Gān O Dohā* already referred to. He, being a disciple of Nagarjuna (645 A.D.), must have flourished in the middle of the seventh [century](# "Ibid, vol. II. intro, p. XLVI.").
+Padmasambhava who went to Tibet to reform the State religion there and built the first regular monastery at Samye along with his brother-in-law and collaborator, the famous S'āntārakṣita. Indrabhūti owing to these reasons has been placed in cir. A.D.717[^17]. He wrote several works among which the Jñanasiddhi has already been published in the *Gaekwad's Oriental Series.* Besides Indrabhūti there was another Siddhācāryya who is credited with the authorship of a Sadhana for Kurukulla. He is Kṛṣṇācāryya popularly known as Kanhupā. This Kṛṣṇa was born of a Brahmin family of Orissa and was initiated into the mystic cult by Jalandharīpā. Kṛṣṇa's disciple was a weaver. He was a great composer of verses in vernacular and several of them have been published in the *Bauddha Gān O Dohā*by Mahamahopadhyaya Haraprasad Shastri. Kṛṣṇācāryya was a disciple of Jalandharīpā and must have flourished in about 717 A. D.[^18]
+
+[^17]: " Ibid, intro. p. xcVIII. See also Two Vajrayāna works, Iintroduction pp. xiff."
+
+ But the name of S'abara amongst the authors of Sadhanas devoted to Kurukulla is the most important in determining the date of the introduction of the deity Kurukulla in the Buddhist pantheon. S'abarapa as is well known is one of the earliest Siddhācāryyas so far known, and is the disciple of Siddha Nagarjuna. He is described as having belonged to the hill tribe called the S'abaras or huntsmen in Bāngālā where he met Nāgārjuna and embraced Tantrism. Besides being a writer on Sādhanas he is also credited to have composed many melodious songs in his own vernacular which have also been published in the *Bauddha Gān O Dohā* already referred to. He, being a disciple of Nagarjuna (645 A.D.), must have flourished in the middle of the seventh century[^19].
+
+[^18]: "Sādhanamālā, întro. p. LIII,"
+
+[^19]: "Ibid, vol. II. intro, p. XLVI."
 
  From the above it becomes quite clear that Kurukulla was well-known in the middle of the seventh century when S'abarapa flourished. But his Guru Nagarjuna does not refer to the deity Kurukulla though Tibetan translations of a large number of works composed by him are still preserved. Saraha the Guru of Nāgārjuna likewise does not mention Kurukulla although a large number of his works are still preserved in Tibetan translations. Kurukulla is, before the time of S'abara, nowhere mentioned. We do not find her either in the Āryamañjus'ri-Mūlakalpa or in the Guhyasamāja which are the earliest works on Tantra so far traceable.
 
@@ -105,9 +143,17 @@ Padmasambhava who went to Tibet to reform the State religion there and built the
 
 Therefore according to the materials now at hand the deity Kurukulla cannot be placed earlier than the middle of the seventh century. Therefore, the Pārānanda Tantra which mentions Kurukulla cannot have an antiquity earlier than the same period.
 
- Moreover, the Pārānanda Sūtra mentions Tārā as a Mahāvidya. It is well-known that the Hindus recognized ten Mahāvidyas in the form of ten deities. They are known as Mahāvidyās because their Mantra is able to confer Siddhi or perfection when muttered one hundred-thousand times. The list of Mahāvidyās includes among others Tārā, Kālī, and Chinnamasta. It has already been shown that Tārā cannot have an antiquity earlier than the time of Nagarjuna (645 A.D.) who restored the Sādhana of Ekajata from the country of [Bhota](# "Ibid.vol.II.intro.p.xlv. आर्यनागार्जुनपादैर्भोटेषु उद्धतम्।"). This Ekajaṭā in her four-armed form is known as Mahācīnatārā, her parallel being the Hindu deity Tārā as a Mahavidya. It has also been shown that Kāli, Kālikā or Mahākāli is another form of Tārā and is included in the list of the ten Mahavidyās. And in fact, the Hindu Tantras mention that Ugra, Mahogrā, Vajrā, Kālī, Sarasvati, Kāmes'vari, Bhadrakālī are only the different manifestations of the same deity Tārā who has been imported from [Buddhism](# "Buddhist Deities in Hindu Garb,op.cit.p.1290."). In-deed the name of Tārā is met with in the [Guhyasamāja](# "In the course of publication in the Gaekwad's Oriental Series,p.137.")but there she is the consort of the Dhyani Buddha Amoghasiddhi in the Dhyani Buddha Mandala and is mentioned along with other Buddhas'aktis Locanā, Māmakī, Pāṇḍarā and Aryatārā and is certainly different from the Mahācīnatārā which is an importation of Nāgārjuna of the Tantric fame. If the Tārā of the Mahavidyā variety cannot go back beyond the time of Nāgārjuna, Kālī certainly should be later, firstly because she represents a modification of Tārā, as also because the Buddhists did not give any attention to this new deity and never mentioned her.
+ Moreover, the Pārānanda Sūtra mentions Tārā as a Mahāvidya. It is well-known that the Hindus recognized ten Mahāvidyas in the form of ten deities. They are known as Mahāvidyās because their Mantra is able to confer Siddhi or perfection when muttered one hundred-thousand times. The list of Mahāvidyās includes among others Tārā, Kālī, and Chinnamasta. It has already been shown that Tārā cannot have an antiquity earlier than the time of Nagarjuna (645 A.D.) who restored the Sādhana of Ekajata from the country of Bhota[^20]. This Ekajaṭā in her four-armed form is known as Mahācīnatārā, her parallel being the Hindu deity Tārā as a Mahavidya. It has also been shown that Kāli, Kālikā or Mahākāli is another form of Tārā and is included in the list of the ten Mahavidyās. And in fact, the Hindu Tantras mention that Ugra, Mahogrā, Vajrā, Kālī, Sarasvati, Kāmes'vari, Bhadrakālī are only the different manifestations of the same deity Tārā who has been imported from Buddhism[^21]. In-deed the name of Tārā is met with in the Guhyasamāja[^22]but there she is the consort of the Dhyani Buddha Amoghasiddhi in the Dhyani Buddha Mandala and is mentioned along with other Buddhas'aktis Locanā, Māmakī, Pāṇḍarā and Aryatārā and is certainly different from the Mahācīnatārā which is an importation of Nāgārjuna of the Tantric fame. If the Tārā of the Mahavidyā variety cannot go back beyond the time of Nāgārjuna, Kālī certainly should be later, firstly because she represents a modification of Tārā, as also because the Buddhists did not give any attention to this new deity and never mentioned her.
 
- Similar is the case with Chinnamastā who is also included in the list of the ten Mahavidyā deities. She is the same as the Buddhist deity Vajrayogini for whose worship a new cult was introduced by S'abarapa the Siddha. As S'abara flourished in about 657 A.D., the origin of the deity Vajrayoginī may be placed in about the beginning of the 7th [century](# "See Sādhanamālā vol.II,intro.pp.CXLII ff, Buddhist Deities in Hindu Garb,op.cit.pp.1292 ff. And for the time of Sabara(i)pā see Sādhanamālā vol.II,intro.pp.xLv1 ff.").
+[^20]: "Ibid.vol.II.intro.p.xlv. आर्यनागार्जुनपादैर्भोटेषु उद्धतम्।"
+
+[^21]: "Buddhist Deities in Hindu Garb,op.cit.p.1290."
+
+[^22]: "In the course of publication in the Gaekwad's Oriental Series,p.137."
+
+ Similar is the case with Chinnamastā who is also included in the list of the ten Mahavidyā deities. She is the same as the Buddhist deity Vajrayogini for whose worship a new cult was introduced by S'abarapa the Siddha. As S'abara flourished in about 657 A.D., the origin of the deity Vajrayoginī may be placed in about the beginning of the 7th century[^23]pā see Sādhanamālā vol.II,intro.pp.xLv1 ff.").
+
+[^23]: "See Sādhanamālā vol.II,intro.pp.CXLII ff, Buddhist Deities in Hindu Garb,op.cit.pp.1292 ff. And for the time of Sabara(i
 
 
 
@@ -128,7 +174,9 @@ INTRODUCTION.
 
  Before beginning to write anything by way of introduction, I feel it my first and fore-most duty to thank my learned and esteemed friend Dr. Benoytosh Bhattacaryya for asking me to edit the Pārānanda Sūtra for the *Gaekwad's Oriental Series.* But for this kindness on his part, it would not have been possible for me to give a substantial account of the Pārānanda School, which was entirely unknown so long,
 
- The edition is based on only two manuscripts of the work, one in the collection of the Oriental Institute and the second in my own collection. A third copy is understood to have existed in the collection belonging to the famous Kavindrācārya [Sarasvati](# "See List of MSS. belonging to Kavindrācārya Sarasvati published in the Gaekwad's Oriental Series as No.17."),
+ The edition is based on only two manuscripts of the work, one in the collection of the Oriental Institute and the second in my own collection. A third copy is understood to have existed in the collection belonging to the famous Kavindrācārya Sarasvati[^24],
+
+[^24]: "See List of MSS. belonging to Kavindrācārya Sarasvati published in the Gaekwad's Oriental Series as No.17."
 
 the learned and much-respected scholar who lived at Benares during the reign of Emperor Shah Jehan; but as the collection is no longer traceable, it was not possible to utilize it in this edition.
 
@@ -136,7 +184,9 @@ the learned and much-respected scholar who lived at Benares during the reign of 
 
  The Sutras have been given a continuous and running number, and a list of the names of the Acāryas or Tantrik authorities quoted or referred to in the book has been appended at the end.
 
- It is hazardous to say with certainty when and where the author Parānanda Muni flourished, owing to the dearth of historical material. But, as can be gleaned from [internal](# "p.92 Sūtras 31-33.")evidences it may be stated that he was a contemporary of king Sudarsana of the Solar dynasty; whose time, in the light of recent researches, is taken to be between 2400 B.C. and 1800 B.C. Sudars'ana, as can be seen from the list given in the sixth Ahnika of the Uttara Adhyāya, appears as the last in chronological order
+ It is hazardous to say with certainty when and where the author Parānanda Muni flourished, owing to the dearth of historical material. But, as can be gleaned from internal[^25]evidences it may be stated that he was a contemporary of king Sudarsana of the Solar dynasty; whose time, in the light of recent researches, is taken to be between 2400 B.C. and 1800 B.C. Sudars'ana, as can be seen from the list given in the sixth Ahnika of the Uttara Adhyāya, appears as the last in chronological order
+
+[^25]: "p.92 Sūtras 31-33."
 
 
 
@@ -148,19 +198,27 @@ the learned and much-respected scholar who lived at Benares during the reign of 
 
 frequently repeated. The second group which consists of three names ending with the word Agni probably represents Brahmin names; as it is a system existing even now in some Brahmin families to name their sons after the initiation ceremony with some names or other ending with the word Agni. This was perhaps an age-long practice among the orthodox people and is supported by the Vedic passage 'Āgneyo vai Brāhmaṇah'. The third group consists of 14 names and they all end with the name of the worshipper's deity. It may be mentioned here that the system of naming the disciple at the close of the Dikṣā ceremony after the deity existed in olden times and exists even to-day. This system was perhaps the outcome of the S'astric injunction common to both the Vedic and Tantrik worship that the worshipper should, for the worship of the deity, first identify himself with it. From the above, it appears that even in such remote times as our author's, there existed at least in some parts of India the worship of the different deities in the Vedic style. The fourth group of names ending with the word Ānanda probably represents the Ācāryas who preceded the author Parānanda. There are 34 such Ācāryas mentioned by name by our author in this book to state their views in those places.
 
- Besides names appearing in four groups as above, there are twelve instances in the book, where [others](# "p.20,78th sūtra.")views on the same subjects are stated, without specifically mentioning their names. The value of the work is thus enhanced in as much as it details the views of many Ācāryas on important and contested points; which were favourable in certain places to those of our author and in others antagonistic to or different from those held by him.
+ Besides names appearing in four groups as above, there are twelve instances in the book, where others[^26]views on the same subjects are stated, without specifically mentioning their names. The value of the work is thus enhanced in as much as it details the views of many Ācāryas on important and contested points; which were favourable in certain places to those of our author and in others antagonistic to or different from those held by him.
 
- As in the Vedic Kalpasūtras, so also in the Tantrik Kalpasūtras the ritualistic portion is usually more than any other subject dealt with in an extensive manner. In works like Paras'urāmakalpasūtra, S'änkhyāyanakalpasūtra, Bharadvājakalpasūtra, Agastyasūtra etc., the philosophy is also treated, though in a brief and cursory manner, along with the ritual consisting of Upāsanā and the details connected therewith. But in none of the above works do we find anything about Rajadharma or Varņās'ramadharma. In the Pārānanda Sūtra on the contrary nearly one-fourth of the book explains the Acāra, Prayas'citta and Rajadharma; another quarter of the book deals with the philosophy of the Pärānanda sect; while in the remaining portion the author makes a vigorous attempt according to the necessities of his age to rescue people from Himsā or injury to animals, Vedic or otherwise. And this is done in a forcible and convincing manner, as can be seen from the impressive style of the language used in several [places](# "vide sutras 34-71 on pp.92-94.")in the book.
+[^26]: "p.20,78th sūtra."
+
+ As in the Vedic Kalpasūtras, so also in the Tantrik Kalpasūtras the ritualistic portion is usually more than any other subject dealt with in an extensive manner. In works like Paras'urāmakalpasūtra, S'änkhyāyanakalpasūtra, Bharadvājakalpasūtra, Agastyasūtra etc., the philosophy is also treated, though in a brief and cursory manner, along with the ritual consisting of Upāsanā and the details connected therewith. But in none of the above works do we find anything about Rajadharma or Varņās'ramadharma. In the Pārānanda Sūtra on the contrary nearly one-fourth of the book explains the Acāra, Prayas'citta and Rajadharma; another quarter of the book deals with the philosophy of the Pärānanda sect; while in the remaining portion the author makes a vigorous attempt according to the necessities of his age to rescue people from Himsā or injury to animals, Vedic or otherwise. And this is done in a forcible and convincing manner, as can be seen from the impressive style of the language used in several places[^27]in the book.
+
+[^27]: "vide sutras 34-71 on pp.92-94."
 
  There are, of course, some places in the book first sight agree even remotely on any single point in
 
 
 
-expressed by our author. But when the views are minutely examined and the significance of the terse and epigrammatic sentences used by our author understood, we come to a different conclusion altogether and begin to believe that our author makes a sincere attempt to guide the followers along a right [path](# "p.13 sūtra 4.")instead of misleading them with false doctrines.
+expressed by our author. But when the views are minutely examined and the significance of the terse and epigrammatic sentences used by our author understood, we come to a different conclusion altogether and begin to believe that our author makes a sincere attempt to guide the followers along a right path[^28]instead of misleading them with false doctrines.
+
+[^28]: "p.13 sūtra 4."
 
  There are three paths described in the pages of this book as leading to the goal defined therein and they are styled as Dakṣiņa, Vāma and Uttara. As a full and clear treatment of every one of these paths is given in the book, we do not think it necessary to describe them here.
 
- The readers will find from the contents that there are mentioned in the book several simple and easy methods to benefit one's self as are found wanting in other Tantrik works of a similar character. These methods are specially recommended to the readers both for careful [study](# "PP, 85-87.")and practice, so as to ascertain the truthfulness or otherwise of the statements made therein.
+ The readers will find from the contents that there are mentioned in the book several simple and easy methods to benefit one's self as are found wanting in other Tantrik works of a similar character. These methods are specially recommended to the readers both for careful study[^29]and practice, so as to ascertain the truthfulness or otherwise of the statements made therein.
+
+[^29]: "PP, 85-87."
 
  Hundreds of Tantra works have been printed and thousands of such works still exist in manuscript form in several collections in India. In all these works embracing different faiths like the Vaisnava, S'aura, Ganapatya, S'aiva and S'ākta cults, the principles of the respective faiths along with the different modes of worship for the attainment of the goal are described in detail. But the Pārānanda Sütra differs completely from all the important works of different faiths in almost all details like the Dikṣā ceremony, mode of worship, and the philosophy inculcated in it. In short, everything of it is different from that found in other works. It must be admitted that such an important work like this has been discovered and published in the *Gaekwad's Oriental Series* out of the sheer good luck of the devotees.
 
@@ -200,13 +258,19 @@ colours as are harmonious to the deity whose Mantra he wishes to take. He should
 
  After remaining like this till the last day of the Dikṣā, he should on the next day in the early morning approach his Guru and receive the Mantra, and should thenceforth try to observe the rules laid down in the S'āstras, as also those taught by the religion of the sect to which he belongs after understanding the significance of the same.
 
- When, in spite of his observing the above rules, the neophyte fails to get the desired result according to the principles of Dakṣa-mārga or the right path, he is allowed to take the Vāmadīkṣā or the initiation into the left path from the proper Guru. The latter should be selected on a very careful and mature consideration, after he is convinced of his wonderful abilities and supernatural attainments. And even after being initiated into the Vāmadīkṣā, the neophyte should in the initial stages manage to proceed with his practices strictly with the help of the substitutes (suggested in the place of flesh, liquor, etc.) He should take special care not to cause even the slightest injury to his powers of self-control and mental concentration. The Upāsaka is similarly [cautioned](# "Vide pp.13 sūtra4;15-46,48,50;19-31,32.")
+ When, in spite of his observing the above rules, the neophyte fails to get the desired result according to the principles of Dakṣa-mārga or the right path, he is allowed to take the Vāmadīkṣā or the initiation into the left path from the proper Guru. The latter should be selected on a very careful and mature consideration, after he is convinced of his wonderful abilities and supernatural attainments. And even after being initiated into the Vāmadīkṣā, the neophyte should in the initial stages manage to proceed with his practices strictly with the help of the substitutes (suggested in the place of flesh, liquor, etc.) He should take special care not to cause even the slightest injury to his powers of self-control and mental concentration. The Upāsaka is similarly cautioned[^30]
 
-even when he happens to be the follower of the Uttara-marga. It is also [stated](# "p.39,sūtras 33 & 34.")
+even when he happens to be the follower of the Uttara-marga. It is also stated[^31]
 
-that the majority among the deities are easily propitiated through the Dakṣina path alone. The significance of the term Dhyāna-yoga according to this work is the same as given by Patanjali in his Yoga-sutra. Patanjali points out four paths as the means of salvation. They are known as: Karmayoga, Jñānayoga, Bhakti-yoga and Dhyana-yoga. The Brahmacāri or the student attains Siddhi through the Jñāna-yoga, the Grhastha or the householder attains it through the Karma-yoga, the Vanaprastha through the Bhaktiyoga and the Sannyasi through the Dhyana-yoga. In spite of the above fact, Bhakti-yoga occupies the foremost rank and is [considered](# "p.9,sūtras13,14; p.10,sūtras 15,16 & 18.")
+[^30]: "Vide pp.13 sūtra4;15-46,48,50;19-31,32."
+
+that the majority among the deities are easily propitiated through the Dakṣina path alone. The significance of the term Dhyāna-yoga according to this work is the same as given by Patanjali in his Yoga-sutra. Patanjali points out four paths as the means of salvation. They are known as: Karmayoga, Jñānayoga, Bhakti-yoga and Dhyana-yoga. The Brahmacāri or the student attains Siddhi through the Jñāna-yoga, the Grhastha or the householder attains it through the Karma-yoga, the Vanaprastha through the Bhaktiyoga and the Sannyasi through the Dhyana-yoga. In spite of the above fact, Bhakti-yoga occupies the foremost rank and is considered[^32]
+
+[^31]: "p.39,sūtras 33 & 34."
 
 the best among them.
+
+[^32]: "p.9,sūtras13,14; p.10,sūtras 15,16 & 18."
 
  The Pārānanda Sūtra is divided into two Adhyāyas; and each Adhyāya is divided into seven Ahnikas; and the total number of Sutras in the book is 1585. The Sutras of the second Adhyāya resemble the S'rautasūtras in style; even the language in some places more or less corresponds to that found in the latter. Some of the Prayogas contained in the ritual portions of this work are just like those detailed in the Taittiriya Samhita with the difference that while the Mantras used in the Vedic sacrifices are purely Vedic, those recommended in the book are Tantrik in character. But the author of the work seems to have kept in view two main purposes for the book to fulfil: one to bring into the orthodox fold those that were heterodox in his times; and the other to slowly
 
@@ -649,9 +713,13 @@ Baroda,
 
 **आद्यः** श्रुतिस्मृतिपुराणोक्तः॥४२॥
 
-**द्वितीयः** श्रुत्यागमा[भ्यामुक्तः](# "भ्यां युक्तः ४३।")॥४३॥
+**द्वितीयः** श्रुत्यागमाभ्यामुक्तः[^33]॥४३॥
 
-**तृतीयः** श्रुतिगुरुवाक्या[भ्यामुक्तः](# "भ्यां युक्तः ४४।")॥४४॥
+[^33]: "भ्यां युक्तः ४३।"
+
+**तृतीयः** श्रुतिगुरुवाक्याभ्यामुक्तः[^34]॥४४॥
+
+[^34]: "भ्यां युक्तः ४४।"
 
 परमात्मवाक् **श्रुतिः**॥४५॥
 
@@ -751,9 +819,11 @@ Baroda,
 
 वैष्णवः पीतवासाः पीतमाल्यानुलेपनः पीतसुवर्णाभरणो ललाटे गदा शिरसि विष्णुपदं वामबाहुमूले शङ्खो दक्षबाहुमूले चक्रं हृद्यरविन्दमेवं चिह्नचिह्नितो भवेत्॥९१॥
 
-ललाटे० ति०[॥९२॥](# "सूत्रे ९४ तमे पूर्णः पाठः।")
+ललाटे० ति०॥९२॥[^35]
 
 कौशिकीभक्तो रक्तवासा रक्तमाल्यानुलेपनो रक्तसुवर्णाभरणो ललाटे खड्गः शिरसि कौशिकीपदं वामबाहुमूले घण्टा दक्षबाहुमूले त्रिशूलं हृद्यरविन्दमेवं चिह्नचिह्नितो भवेत्॥९३॥
+
+[^35]: "सूत्रे ९४ तमे पूर्णः पाठः।"
 
 
 
@@ -1086,7 +1156,9 @@ Baroda,
 
 कौशिकीदीक्षिता न विवाहिता भवेत्॥४४॥
 
-**पतिता** [तद्वत्](# "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥")॥४५॥
+**पतिता** तद्वत्[^36]॥४५॥
+
+[^36]: "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥"
 
 न सा विवाहं कुर्यात्॥४६॥
 
@@ -1106,25 +1178,33 @@ Baroda,
 
 **नैके**॥५४॥
 
-[अनाद्यनन्त०](# "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥") ति॥५५॥
+अनाद्यनन्त०[^36] ति॥५५॥
+
+[^36]: "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥"
 
 **शिवस्य** पार्वती शक्तिर्डमरुत्रिशूलाद्यायुधानि मुण्डमालाद्याभरणानि वृषो वाहनमित्येतच्छिवमय**मेके**॥५६॥
 
 **नैके**॥५७॥
 
-[अनाद्यनन्त०](# "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥") ति॥५८॥
+अनाद्यनन्त०[^36] ति॥५८॥
+
+[^36]: "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥"
 
 **सूर्यस्य** संज्ञाशक्तिः शङ्खश्चक्रमायुधं कुण्डलाद्याभरणानि हययुग्रथो वाहनमित्येतसूर्यमय**मेके**॥५९॥
 
 **नैके**॥६०॥
 
-[अनाद्यनन्त०](# "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥") ति॥६१॥
+अनाद्यनन्त०[^36] ति॥६१॥
+
+[^36]: "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥"
 
 **कौशिक्या**श्चण्डिका शक्तिः खड्गाद्यायुधानि पङ्कजस्त्रक्कुण्डलाद्याभरणानि सिंहो वाहनमित्येतत्कौशिकीमय**मेके**॥६२॥
 
 वाहन**न्नैके**॥६३॥
 
-[अनाद्यनन्त०](# "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥") ति॥६४॥
+अनाद्यनन्त०[^36] ति॥६४॥
+
+[^36]: "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥"
 
 **काल्याः** कुरुकुल्लाशक्तिः खड्गमायुधं मुण्डमालाद्याभरणं स एव वाहनम्। महा-
 
@@ -4336,3 +4416,58 @@ Baroda,
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^40]: "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥"
+
+
+[^39]: "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥"
+
+
+[^38]: "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥"
+
+
+[^37]: "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥"

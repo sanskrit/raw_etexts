@@ -341,9 +341,11 @@ Brahmasri V. V. Srinivasa Aiyangar, B.A., B.L., Retired High Court Judge, Madras
 
 प्रतिभाति। विशेषतश्च संसारदशापन्नानां तथाविधः परित्यागोऽनिष्ट एव सर्वथा भवेत्। निःसंसाराणां चरमावस्थाप्राप्तानां तु यदि तथाविधः परित्यागो भवोदिष्टो भवतु नाम।तदवलम्बेन तु सांसारिकाणां कर्मपरित्यागोऽनर्थायैव कल्पेत।
 
- काञ्चीशृङ्गेर्यादिपीठेषु श्रीविद्यायाः सपर्यादि विधाय देशे देशे पूजापीठानि स्थापितवन्त आचार्याः कथं कर्मानुष्ठानपरित्यागमुपदिशेयुरित्यपि विवेचनीयं भवति। तत्तत्पीठाधिष्ठिताश्चाचार्यावताररूपाः श्रीमन्त इदानींतना अपि तथाविधमेव समग्रपूजोपचारमनुतिष्ठन्तो दृश्यन्ते इत्यलं पल्लवितेन॥ [\*](# "अयमेव सिद्धान्तो मण्डनमिश्रैः ब्रह्मसिद्धाववलम्बितः । संपादकः ।")
+ काञ्चीशृङ्गेर्यादिपीठेषु श्रीविद्यायाः सपर्यादि विधाय देशे देशे पूजापीठानि स्थापितवन्त आचार्याः कथं कर्मानुष्ठानपरित्यागमुपदिशेयुरित्यपि विवेचनीयं भवति। तत्तत्पीठाधिष्ठिताश्चाचार्यावताररूपाः श्रीमन्त इदानींतना अपि तथाविधमेव समग्रपूजोपचारमनुतिष्ठन्तो दृश्यन्ते इत्यलं पल्लवितेन॥ \*[^1]
 
 ![](../books_images/U-IMG-1725285312113.png)
+
+[^1]: "अयमेव सिद्धान्तो मण्डनमिश्रैः ब्रह्मसिद्धाववलम्बितः । संपादकः ।"
 
 
 
@@ -400,7 +402,9 @@ Brahmasri V. V. Srinivasa Aiyangar, B.A., B.L., Retired High Court Judge, Madras
 
 **गृह्णन्ति तवं परमार्थसारम्॥**
 
- अस्ति किलैतत् चिरान्निखिलविपश्चिदभ्युपगतमविच्छिन्नसत्संप्रदायोपदेशक्रमायातं विद्यारण्यादिमान्यमनीषिगणवर्णितं च यदाचार्यमण्डन- मिश्रो भगवत्पादैः श्रीशंकराचार्यैर्वादे पराजयं प्रापितः परिव्रज्यामूरीकृत्य सुरेश्वरनान्ना पप्रथ इति। स एवायं मण्डनमिश्रो यः किल [\*](# "ब्रह्मसिद्धिरेषा बहुत्रग्रन्थेषूल्लिख्यमानापि वेदान्तप्रस्थान प्रव. र्तनपरैरसकृदुपश्लोकितापि साक्षादिव ब्रह्मसिद्धिरतावत्पर्यन्तं नास्माकं स्वस्याः स्वरूपमविकलमाविश्वकारेति परं विषादपदमासीत्। अधुना तु मद्रनगरीराजकीय प्राच्य पुस्तकालयात् शङ्खपाणिव्याख्यासनाथा प्रकाशमुपनीता सैषा विदुषां निरतिशयमानन्दमुपजनयतीति सामोदमावेदयामः !") ब्रह्मसिद्धे-
+ अस्ति किलैतत् चिरान्निखिलविपश्चिदभ्युपगतमविच्छिन्नसत्संप्रदायोपदेशक्रमायातं विद्यारण्यादिमान्यमनीषिगणवर्णितं च यदाचार्यमण्डन- मिश्रो भगवत्पादैः श्रीशंकराचार्यैर्वादे पराजयं प्रापितः परिव्रज्यामूरीकृत्य सुरेश्वरनान्ना पप्रथ इति। स एवायं मण्डनमिश्रो यः किल \*[^2] ब्रह्मसिद्धे-
+
+[^2]: "ब्रह्मसिद्धिरेषा बहुत्रग्रन्थेषूल्लिख्यमानापि वेदान्तप्रस्थान प्रव. र्तनपरैरसकृदुपश्लोकितापि साक्षादिव ब्रह्मसिद्धिरतावत्पर्यन्तं नास्माकं स्वस्याः स्वरूपमविकलमाविश्वकारेति परं विषादपदमासीत्। अधुना तु मद्रनगरीराजकीय प्राच्य पुस्तकालयात् शङ्खपाणिव्याख्यासनाथा प्रकाशमुपनीता सैषा विदुषां निरतिशयमानन्दमुपजनयतीति सामोदमावेदयामः !"
 
 
 
@@ -2103,8 +2107,10 @@ Sanskrit, Presidency College, Madras.\]**
 
 arguments of Sri Sankaracharya, became a Sannyasin on whom the Acharya bestowed the title of Suresvara, who had already won literary fame by writing such classic works like the Brahmasiddhi etc. Mandanamisra, after he became Suresvara, wrote the famous Varttikas expounding in full the new doctrines of Advaita taught to him by his famous Guru, Sri Sankaracharya.
 
- Doctrinal differences in works like the Brahmasiddhi and the Varttikas are not necessarily a bar to the identity of authorship, particularly when the details of the doctrinal conversion of the confirmed Mimamsaka- Mandana into the convinced AdvaitinSuresvara are well authenticated, not to speak of some clear-cut doctrinal divergences descernible even in the teachings of the great Acharya SankaraBhagavatpada [himself.](# "For a fullur exposition of the views, pro and contra, see the Foreword and Indroduction prefixed to the Brahmasiddhi—Madras Government Oriental Manuscripts Library Series.")
+ Doctrinal differences in works like the Brahmasiddhi and the Varttikas are not necessarily a bar to the identity of authorship, particularly when the details of the doctrinal conversion of the confirmed Mimamsaka- Mandana into the convinced AdvaitinSuresvara are well authenticated, not to speak of some clear-cut doctrinal divergences descernible even in the teachings of the great Acharya SankaraBhagavatpada himself.[^3]
 
+
+[^3]: "For a fullur exposition of the views, pro and contra, see the Foreword and Indroduction prefixed to the Brahmasiddhi—Madras Government Oriental Manuscripts Library Series."
 
 ![](../books_images/U-IMG-1725883445Screenshot2024-09-091733002.png)
 
@@ -2343,7 +2349,7 @@ and Editor, Kaiser-i-Hind, Bombay.\]
 
 **VIDYATIRTHA AND SRINGERI.**
 
-\[Professor S. V. Venkateswara, M. A., Professor  
+\Professor S. V. Venkateswara, M. A., Professor  
 of Indian History, Presidency College,  
 Madras.
 
@@ -2367,8 +2373,18 @@ I
 
 sought blessings from the Guru and got those treasures, and they were urged to found the city as the capital of an empire.
 
- The above story is pieced together for the first time from the data of the [](# "Madras Oriental Mss. No 12772,") *[Rajakalanirnaya](# "Madras Oriental Mss. No 12772,")*of Vidyaranya and the [Chronicles](# "Elliot and Dowson: Vol. III. pp. 245, 246, 614.")of Barni and Ibn Batuta, and of [Nuniz](# "Sewell: A Forgotton Empire, pp. 293--295."). The Rajah of Kampili "Aled for shelter to a fortress called *Crynamata*which was by the bank of the river and contained much provision and water." Five thousand men secreted the property here. Sewell has considered it possible that the first syllable represents the word Sri. I identify Crynamata with Srnga Matha. I also restore *Kampili* from Kambala of Barni's printed text, as Elliot has noted that the Mss. have*Kambila* which is Ibn Batuta's spelling for Kampili. The name of the Kampili Rajah is [Ramanatha](# " The Mysore Archaeological Survey Report wonders who this Ramanatha was!"),according to Nuniz and *Raja Paddhati*. He was canonised and his is the Samadhi temple at Sringeri near that of Vidya Sankara. The event belongs to the year 1336. Vijayanagar was founded, and Harihara crowned on the 7th May [1337](# "Vide My article on ")
+ The above story is pieced together for the first time from the data of the [[^4] *Rajakalanirnaya[^4]*of Vidyaranya and the Chronicles[^6]of Barni and Ibn Batuta, and of Nuniz[^7]. The Rajah of Kampili "Aled for shelter to a fortress called *Crynamata*which was by the bank of the river and contained much provision and water." Five thousand men secreted the property here. Sewell has considered it possible that the first syllable represents the word Sri. I identify Crynamata with Srnga Matha. I also restore *Kampili* from Kambala of Barni's printed text, as Elliot has noted that the Mss. have*Kambila* which is Ibn Batuta's spelling for Kampili. The name of the Kampili Rajah is Ramanatha[^8],according to Nuniz and *Raja Paddhati*. He was canonised and his is the Samadhi temple at Sringeri near that of Vidya Sankara. The event belongs to the year 1336. Vijayanagar was founded, and Harihara crowned on the 7th May 1337[^9]
 
+[^4]: "Madras Oriental Mss. No 12772,"
+
+[^6]: "Elliot and Dowson: Vol. III. pp. 245, 246, 614."
+
+[^7]: "Sewell: A Forgotton Empire, pp. 293--295."
+
+[^8]: " The Mysore Archaeological Survey Report wonders who this Ramanatha was!"
+
+
+[^9]: "Vide My article on "
 
 
 
@@ -2383,17 +2399,33 @@ II
 
 Yasya nisvasitam vedah yo vedebhyokhilam jagat Nirmame tamaham vande Vidyatirthamahesvaram Yat katakshena tad rupam vahat Bukkamahipatih.
 
- His real name was Srikantha as he is styled in the Bitragunta [grant](# "Epigraphica Indica, III, 23."). In his *Rudra Prasna Bhashya,* popularly attributed to Vidyaranya, he says he was the Sishya of Paramatmatirtha, His chief works are *Taittiriyakasara,* *Kalanirnaya*, wrongly attributed to Vidyaranya, and *Panchadasi-prakarana,* which he composed with his pupil Vidyaranya. R. Narasimhachar has caused confusion by taking Vidyatirtha, Bharatitirtha and Srikantha as different [persons](# "Indian Antiquary for 1916, p. 3."). It is therefore necessary to state in the Kalanirnaya of [Bharatitirtha](# "Ms. in the Oriental Library, Mysore.")the opening sloka identifies the author with Vidyatirtha (*Vidyatirtham Bharatitirtham-ahuh)*. In the *Parasara Madhaviya* all the three names [occur](# "Cf. also E. C. Mulb. 11."). Prominence is given to Srikantha by Sayana (*hridi bhaje Srikantham avyahatam)* by Bhoganatha *(Srikanthascha guruh parepi guravah* in the*Ganapati Stotra)* and by [Vidyaranya](# "Anubhutiprakasika.")who calls Vidyatirtha his *mukhyaguru*, and gives the highest place to Srikantha in arranging the names. Sayana says his guru was [Srikanthanatha](# "Arulala Parumal temple Inscription, E. I. III. 118."). The scoffing
+ His real name was Srikantha as he is styled in the Bitragunta grant[^10]. In his *Rudra Prasna Bhashya,* popularly attributed to Vidyaranya, he says he was the Sishya of Paramatmatirtha, His chief works are *Taittiriyakasara,* *Kalanirnaya*, wrongly attributed to Vidyaranya, and *Panchadasi-prakarana,* which he composed with his pupil Vidyaranya. R. Narasimhachar has caused confusion by taking Vidyatirtha, Bharatitirtha and Srikantha as different persons[^11]. It is therefore necessary to state in the Kalanirnaya of Bharatitirtha[^12]the opening sloka identifies the author with Vidyatirtha (*Vidyatirtham Bharatitirtham-ahuh)*. In the *Parasara Madhaviya* all the three names occur[^13]. Prominence is given to Srikantha by Sayana (*hridi bhaje Srikantham avyahatam)* by Bhoganatha *(Srikanthascha guruh parepi guravah* in the*Ganapati Stotra)* and by Vidyaranya[^14]who calls Vidyatirtha his *mukhyaguru*, and gives the highest place to Srikantha in arranging the names. Sayana says his guru was Srikanthanatha[^15]. The scoffing
+
+[^10]: "Epigraphica Indica, III, 23."
+
+[^11]: "Indian Antiquary for 1916, p. 3."
+
+[^12]: "Ms. in the Oriental Library, Mysore."
+
+[^13]: "Cf. also E. C. Mulb. 11."
+
+[^14]: "Anubhutiprakasika."
+
+[^15]: "Arulala Parumal temple Inscription, E. I. III. 118."
 
 
 
 remark of Bhoganatha could only mean that other gurus of the day were not fit to hold the candle before Srikantha, which would be a great insult to Vidyatirtha, who is always referred to with sincere respect, if the two were different.
 
- The Punyaslokamanjari and *Jagadgururatnamalika* of [Kanchipura¹](# "Cited by me in J. R. A. S. for 1916.") have preserved traditions of the of the mathas there. Vidyatirtha comes in for conspicuous mention there also, and he is said to have had eight great disciples. His secular name is there given as Sarvajna Vishnu, son of Sarngapani, Sayana Madhava the author of the *Sarvadarsana Sangraha* tells us that his *guru* was Sarva*jna* Vishnu son of Sarngapani. Chennu Bhatta the author of the *Tarkabhasha Vyakhya* tells us that he was a younger brother of Sarvajna, and the son of *Sahaja* Sarvajna Vishnu. Sankara Darsana quotes from Sahaja Sarvajna Vishnu Bhattopadhyaya. Sanskrit scholars who have till now discussed the subject have over-looked the significance of the prefix *Sahaja* to Sarvajna Vishnu. It evidently shows that he was the brother, probably a younger brother, of a much greater man wellknown in his day. There is nothing against the view that he was the younger brother of Vidyatirtha. This accounts for the confusion in the *Punyasloka*-
+ The Punyaslokamanjari and *Jagadgururatnamalika* of Kanchipura¹[^16] have preserved traditions of the of the mathas there. Vidyatirtha comes in for conspicuous mention there also, and he is said to have had eight great disciples. His secular name is there given as Sarvajna Vishnu, son of Sarngapani, Sayana Madhava the author of the *Sarvadarsana Sangraha* tells us that his *guru* was Sarva*jna* Vishnu son of Sarngapani. Chennu Bhatta the author of the *Tarkabhasha Vyakhya* tells us that he was a younger brother of Sarvajna, and the son of *Sahaja* Sarvajna Vishnu. Sankara Darsana quotes from Sahaja Sarvajna Vishnu Bhattopadhyaya. Sanskrit scholars who have till now discussed the subject have over-looked the significance of the prefix *Sahaja* to Sarvajna Vishnu. It evidently shows that he was the brother, probably a younger brother, of a much greater man wellknown in his day. There is nothing against the view that he was the younger brother of Vidyatirtha. This accounts for the confusion in the *Punyasloka*-
+
+[^16]: "Cited by me in J. R. A. S. for 1916."
 
 
 
-*manjari* which was perhaps followed by [Hall](# "Index to the Bibliography of the Ind. Philosophical system p. 8."). If so vidyatirtha would be the son of Sarngapani; and Chennu Bhatta who enjoyed the patronage of Harihara II, would be a younger son of the younger brother of Vidyatirtha.
+*manjari* which was perhaps followed by Hall[^17]. If so vidyatirtha would be the son of Sarngapani; and Chennu Bhatta who enjoyed the patronage of Harihara II, would be a younger son of the younger brother of Vidyatirtha.
+
+[^17]: "Index to the Bibliography of the Ind. Philosophical system p. 8."
 
  But the greatest scion of his house was his successor in the *Vedasantati* or *Vidyavamsa*, viz., Vidyaranya, whose greatness pervades almost every branch of Hindu Culture and whose name is a household word.
 
@@ -2962,3 +2994,26 @@ Bangalore.\]*
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^5]: "Madras Oriental Mss. No 12772,"

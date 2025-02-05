@@ -1017,10 +1017,12 @@ The Sanskrit language, so long left in discare,promises to come into its own in 
 जुगुम्फ नचिरादसौ नवशतींसुपद्यस्नजां  
 यदीयगुरुसौरभं भ्रमयति स्म भक्तालिनः॥१२॥
 
-[अभङ्ग](# "अभङ्ग is the name of a metre very frequently used in the marathi literature.")पदविश्रुतं रुचिरवृत्तमालम्ब्य स  
+अभङ्ग[^1]पदविश्रुतं रुचिरवृत्तमालम्ब्य स  
 प्रबन्धमुपचक्रमे रचयितुं हरिस्तावकः।  
 तदा हि वहति स्म वागमृतवाहिनीनिर्झर-  
 स्तदीयहृदयार्द्रितःसततभक्तिवेगोत्कटः॥१३॥
+
+[^1]: "अभङ्ग is the name of a metre very frequently used in the marathi literature."
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -1670,7 +1672,7 @@ devotion, asked with a sneer that if he were so devoted to
 Panduranga why did he not always live near Him? 10. A certain wicked man ridiculing him, observed: "This
 tradesmanhasan eye for amassing wealth and that is why he does not
 wish to leave his home. He wants to fill his own belly and therefore
-his name of [Viśwambhara](# "One who feeds the universe.")is sheer
+his name of Viśwambhara[^2]is sheer
 mockery." 11. The peaceful man, though hard hit by the ill-natured tittle-tattle,
 turned a deaf ear to it all and remained unshaken like a mountain
 struck by a fierce gale. 12. Meanwhile, Panduranga propitiated by his austerity, appearedagain
@@ -1691,7 +1693,7 @@ in the ocean. We must search our Godhere," the wise mother said to
 her son. 19. Urged by her as though by a Voice fromHeaven, Viśwambhara dugthe
 earth andpresently they saw something which even themost
 meritorious had not probably seen before. 20. It was a bright and beautiful pair of images ofRukmiṇīand
-[Mādhava](# "Lord Kriṣhṇa, Similarly Viṣṇu Panduranga, Hari, and Mukunda signify Lord Kriṣhṇa"),set
+Mādhava[^3],set
 with dazzling gems that had been hiddenunder the earth. 21. When this wonderful news spread amongst the villagers, they laid
 these two idols on the banks of the Indrayani and thus sanctified
 the river. 22. Later, they installed them in a temple in a befitting manner, while
@@ -1774,6 +1776,10 @@ onewith remorse. 63. The good womanAma and her husband Viśwambhara who merited 
 Highest place by the power of constant worship of their God, are
 said by the wise to be the progenitors of Tukarama's family.
 
+[^2]: "One who feeds the universe."
+
+[^3]: "Lord Kriṣhṇa, Similarly Viṣṇu Panduranga, Hari, and Mukunda signify Lord Kriṣhṇa"
+
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 
@@ -1839,8 +1845,8 @@ gave himself to an ecstatic joy and started dancingonthewayside.
 Both the women feared that he had gone insane and heaving a sigh,
 they beat their foreheads. 31. The men from whom Tukarama had borrowed money to maintain his
 family before he went on his business, rushed to him in a furry to
-recover it like hawks pouncing on a [crouncha
-bird](# "The nearest approach to Crouncha bird is a heron.") for a
+recover it like hawks pouncing on a crouncha
+bird[^4] for a
 piece of flesh. 32. Harshly, they yelled at this honest man whose fortune was swallowed
 by Destiny. He genuinely wished to free himself of the debt and
 bemoaned his helpless plight. 33. Some of his money-lenders who lingered in Tukarama's courtyard were
@@ -1855,6 +1861,8 @@ of poverty. 37. "Your children are distressed with starvationand will soon start
 searching for atoms of grainin rubbish heaps scattered in the
 village lanesby house-wives for their poultry." 38.  He was thus harassed again and again by thelashing words of his
 neighbours but he did notswerve from his devotion for Hari.
+
+[^4]: "The nearest approach to Crouncha bird is a heron."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1994,7 +2002,7 @@ famine and burdened with a debt,found himself utterly helpless. 9.  His elder wi
 Hari with all his heart and prayedto Him most piteously thus: 10. , 11 "O Hari, my Lord, be pleased and come tome quickly. Forgive my
 sins, O Destroyer of allimpurities! I have wasted years. Tell me
 whatI should do henceforth. Save me, O
-[Mukunda](# "Another name of Hari.")from the poisonous fire of the
+Mukunda[^5]from the poisonous fire of the
 world." 11. 12, 13 Thus, this devotee of Viṣnu, invoking Him,remained
 absolutely still with closed eyes for aweek, in deep concentration.
 When his meditation was suddenly broken by a distinct Voice
@@ -2027,7 +2035,7 @@ after his morning worship of Hari in the temple, he remained in the
 forest day and night. 23. 25 In the evening he said to the birds: "Ye birds,go back to your
 nests. The forest will soon becovered with darkness, and it will be
 difficult toreturn to your nests.” 24. 26 As he saw the birds flying away, he said tohimself: "These
-[birds](# "Dwija in Sanskrit means a bird or a Brahmin.")eat here
+birds[^6]eat here
 but nevertake anything home like Brahmins. 25. 27 "When shall I live like birds and get over theworldly delusion?
 When shall I cast away the limitation of name and form and see
 myself in everyone? 26. 28 "Let mysoul come and go like a dry leaf whirled by the wind. Let
@@ -2054,6 +2062,10 @@ straw. 38. 40. And he said: "He alone who does not expect any fruit of his
 action, is Hari's true devotee. Such a man is always peaceful." 39. 41 The treasurer of the village, Mahadaji Pant, then kept aside all
 the corn for the use of the villagers.
 
+[^5]: "Another name of Hari."
+
+[^6]: "Dwija in Sanskrit means a bird or a Brahmin."
+
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 
@@ -2063,7 +2075,7 @@ the corn for the use of the villagers.
 1.  Tukarama's wife, Avali, was very angry with herhusband for
 declining the corn. Wise men foreseeing trouble from acceptance of
 gifts, gladlyavoid
-[them](# "Second meaning of this line: wise men foreseeing trouble from marriage, remain unmarried."). 2.  Tukarama, then, decided to rebuild Panduranga'sdilapidated temple
+them[^7]. 2.  Tukarama, then, decided to rebuild Panduranga'sdilapidated temple
 which had long been neglected bythe villagers. 3.  With spade in hand he dug out the earth, broke wood with a harrow,
 then mixed mud with waterfor building a new temple. 4.  Just at that time, Mahadaji, in a dream, heard Viṣnusaying to him:
 "Render help to my devoteeTukarama in building the temple."
@@ -2125,7 +2137,7 @@ himself completely before Hari.He performed Kirtans with others and
 slept onlythree or four hours on a bare floor. 28. 35 Immersed in his devotional pursuits, he lookedupon sleep as a
 great hindrance and said tohimself: "How can one become a Yogi
 withoutconquering the five states of
-[mind](# "Direct perception, wrong perception, doubt, memory andsleep.")?On
+mind[^8]?On
 accountof complete oblivion even sleep is an obstacle." 29. 36, 37 And though engrossed in the worship of Hariday and night, he
 rendered service to pilgrims.In the hot weather he provided clean
 water forwayfarers, and if he saw sick people on the road,he
@@ -2153,6 +2165,10 @@ parrot is encaged merely becauseof his clever talk. People cut off
 a cow's tail if ithappens to be white and beautiful merely as
 acuriosity." Their words of consolation, however,were of no avail.
 
+[^7]: "Second meaning of this line: wise men foreseeing trouble from marriage, remain unmarried."
+
+[^8]: "Direct perception, wrong perception, doubt, memory andsleep."
+
 **CANTOVI**
 
 1.  Avali once said to her husband: "Today is thesacred day of the
@@ -2177,7 +2193,7 @@ fervently: "O Lord Hari, eatwith me or I shall fast and give up my
 wretchedbody." 9.  In a moment Hari was seen on the seat intendedfor Him and both
 Tukarama and the family Deityate together. The Lord of the
 Universe,inaccessible even to ascetics of other
-[yugas](# "Cycle of time.")is sometimes visible even in the present
+yugas[^9]is sometimes visible even in the present
 age togreat devotees. 10. , 11 After this, Tukarama was suddenly inspired.One night while he
 was asleep, he saw Keshava(Hari) in his dream. He was accompanied by
 theillustrious poet Namadeva. Tukarama heard atender voice saying
@@ -2248,6 +2264,8 @@ charm. They comforted those whowere distressed with extreme
 anguish; they exalted the blind atheists steeped in the abyss
 ofignorance; they were manifestations of devotionwhich destroyed
 the darkness of countless sinsof previous birth.
+
+[^9]: "Cycle of time."
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -2427,8 +2445,8 @@ earthand made mountains to support her. 27. 33"Know that God's creation is uncha
 Maker of the duties ofmen and these duties should not be abandoned.
 Ishall now tell you the duties of a Brahmin andalso of a
 Kshatriya." 28. 34 "A Brahmin should first of all master scripturesand Śastras,
-then, as a householder, perform the[six
-duties.](# "Study(अध्ययनम्),teaching (अध्यापनम्), sacrifice (यजनम्), officiating at a sacrifice (याजनम्), charity (दानम्), acceptingpresents (परिग्रहः).")\*
+then, as a householder, perform thesix
+duties.[^10],teaching (अध्यापनम्), sacrifice (यजनम्), officiating at a sacrifice (याजनम्), charity (दानम्), acceptingpresents (परिग्रहः).")\*
 In his old age he should become arecluse and practise
 self-control." 29. 35 "A Kshatriya, after overcoming his enemies,should observe the
 prescribed duties. He shouldsee the Supreme One in all beings and
@@ -2442,6 +2460,8 @@ howcan I ever repay my debt to you?" 32. 38 As the King was about to return to h
 sage for a boon, saying: "Giveme a piece of bread to wish good to
 my subjectsand *a coconut to* bless me with a son.' 33. 39 Tukarama gladly gave him both the desired thingsand blessing him
 tenderly, sent him and his motherback to the capital.
+
+[^10]: "Study(अध्ययनम्
 
 **\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -2466,7 +2486,7 @@ God is unlimited. Withsuch a difference between the two, where is
 thequestion of identity? All this talk of the Vedanta jars on one's
 ears. He who worships God in allhumility with the faith that He
 alone is AllSupreme, should never aspire to attain identitywith
-the[Trinity.](# "Brahma (Creator), Viṣnu (Preserver), Śiva (Destroyer).")"
+theTrinity.[^11], Viṣnu (Preserver), Śiva (Destroyer).")"
 9.  11 A few of his followers once wanting to visit sevenplaces of
 pilgrimage, humbly asked Tukarama forhis blessing before their
 departure. 10. 12He blessed them and gave them a gourd, instructing them to wash
@@ -2505,7 +2525,7 @@ his favour. The latter gave to the King,who was inspired with
 faith, a lump of horsedung with his own hand. Śivaji accepted it
 gladlyand set out towards his capital. The sage toowent to
 Lohapur. 23. 28 Tukarama who had by now completely conquered all the inner
-[foes](# "Passion, anger, greed, infatuation, pride and envy."),\*
+foes[^12],\*
 ate less and less every day.At each meal he invoked Hari and lived
 a life ofthe most rigorous austerity. 24. 29 Whenever people saw him passing in a street, they asked him where
 he was going. "To Vaikuntha," was his reply as he hurried to the
@@ -2535,7 +2555,7 @@ flowers in the shape of birds. The villagersthrilled to see this
 strange sight, stood staring athim. 31. 41 It is said that Hari, once accompanied by celestialsages, yogis
 and gods seated in their respectivechariots, descended from His
 vehicle of
-[Garuda](# " The Eagle is Hari s vehicle according to the Puranas."),at
+Garuda[^13],at
 Dehu. He touched Tukarama who was thensitting on the banks of the
 river and said to theamazed devotee: "Without thee, my
 son,Vaikuntha seems to me dreary like a wilderness." 32. 42 For five days the gods celebrated various kinds ofPanduranga's
@@ -2589,6 +2609,12 @@ coming down slowly towards the earth. 43. 55. It fell down. It wasTukarama's bla
 pair of cymbals! And therethey stood, with their hearts overwhelmed
 withemotions of joy, sorrow, fear, devotion, amazement.
 
+[^11]: "Brahma (Creator
+
+[^12]: "Passion, anger, greed, infatuation, pride and envy."
+
+[^13]: " The Eagle is Hari s vehicle according to the Puranas."
+
 
 
 
@@ -2599,3 +2625,16 @@ withemotions of joy, sorrow, fear, devotion, amazement.
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+

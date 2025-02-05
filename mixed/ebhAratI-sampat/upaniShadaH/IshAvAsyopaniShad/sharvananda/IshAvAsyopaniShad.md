@@ -120,7 +120,9 @@ inspired Veda alone can be considered inerrant and conclusively authoritative.¹
 
 
 
- creation from a mental sacrifice of adoration performed by the divine Prajāpatis and sages with the Supreme Being as the material of the offering.The [Svetāśvataropaniṣad¹](# "VI.18") states that the Supreme Being creates Brahmā and communicates to him the Vedas. The Brhadāranyaka IV.5.11 has: “As from a fire kindled...smoke issue, even so, the Rgveda etc......are all the breath of this infinite Reality.” The Brahma–sūtras I.1.3 declares that Brahman is the source of the Vedas; and I.3.29 of the same book affirms them to be eternal. The Mimāṁsā–sūtras I.1.18 establishes the eternality of the Word. The first stanza of Śrīmadbhāgavata, voicing the view of the Purāṇas in general, states that God, the Supreme Truth, caused the Vedas to appear in the mind of Brahmā, the first ‘poet’. Smṛtis generally state that the eternally existing Vedas were remembered by the Creator at the beginning of the cycle of creation and transmitted to the world through the succession of teachers and learners. SrīSankara in his Introduction to the Gitā–bhāṣya, speaks of the imparting of the Religion of Work and the Religion of Renunciation, constituting the contents of the Vedas, to Prajāpatis like Marīci and sages like Sanaka, by Lord Nārāyaṇa, immediately after the creation of the universe, and also of the subsequent dissemination of the Vedic lore through that channel. These various accounts given in the authoritative books of the past speak for the inspirational quality of the Vedas and the great veneration with which
+ creation from a mental sacrifice of adoration performed by the divine Prajāpatis and sages with the Supreme Being as the material of the offering.The Svetāśvataropaniṣad¹[^1] states that the Supreme Being creates Brahmā and communicates to him the Vedas. The Brhadāranyaka IV.5.11 has: “As from a fire kindled...smoke issue, even so, the Rgveda etc......are all the breath of this infinite Reality.” The Brahma–sūtras I.1.3 declares that Brahman is the source of the Vedas; and I.3.29 of the same book affirms them to be eternal. The Mimāṁsā–sūtras I.1.18 establishes the eternality of the Word. The first stanza of Śrīmadbhāgavata, voicing the view of the Purāṇas in general, states that God, the Supreme Truth, caused the Vedas to appear in the mind of Brahmā, the first ‘poet’. Smṛtis generally state that the eternally existing Vedas were remembered by the Creator at the beginning of the cycle of creation and transmitted to the world through the succession of teachers and learners. SrīSankara in his Introduction to the Gitā–bhāṣya, speaks of the imparting of the Religion of Work and the Religion of Renunciation, constituting the contents of the Vedas, to Prajāpatis like Marīci and sages like Sanaka, by Lord Nārāyaṇa, immediately after the creation of the universe, and also of the subsequent dissemination of the Vedic lore through that channel. These various accounts given in the authoritative books of the past speak for the inspirational quality of the Vedas and the great veneration with which
+
+[^1]: "VI.18"
 
 
 
@@ -130,15 +132,19 @@ they were looked upon from the dawn of Hindu civilization.
 
 
 
-precise, since there is ritualistic material interspersed in certain portions of some of the Upanisads and esoteric and philosophic ideas in the Samhitās. So Muktikopanisad recognizes that ‘like oil in the sesamum seed Vedānta is established essentially in every part of [the Veda](# "तिलेषु तैलवत् वेदे वेदान्तः सुप्रतिष्ठितः I.9."),’We are therefore to take these names and divisions more as dominated by the spirit and purpose that govern them rather than as mere formal or structural matter.  
+precise, since there is ritualistic material interspersed in certain portions of some of the Upanisads and esoteric and philosophic ideas in the Samhitās. So Muktikopanisad recognizes that ‘like oil in the sesamum seed Vedānta is established essentially in every part of the Veda[^2],’We are therefore to take these names and divisions more as dominated by the spirit and purpose that govern them rather than as mere formal or structural matter.  
  This leads us to the customary classification based upon the form, purport and style of the Vedic literature. These are the well–known divisions into Rg, Yajus, Saman and Atharva; Mantra and Brāhmaṇa or Samhitā, Brāhmaṇa, Aranyaka and Upanisad; and caraṇa, śākhā or bheda. Of the first division, the words Rg, Yajus and Sāman have a double denotation; primarily, Rg means a laudatory verse, Yajus a liturgical passage or formula (mostly prose and sometimes metrical) and Sāman a melody. These three species of compositions in their collective form were also called in a secondary sense Rg– Yajus–and Sāma–samhitās. Finally by extension the Brāhmaṇas annexed to these Rg–, Yajus–, Sāma– and Atharva–samhitās, the Āranyakas supplementary to them and the Upanisads, either embedded in, terminated by, or affiliated to, each of them, were also included by the name of the respective Veda to which they belonged.  
  The self–manifest Veda, which, according to the purāṇic account, was a unified plenary revelation made to Brahmā in the beginning, suffered much
+
+[^2]: "तिलेषु तैलवत् वेदे वेदान्तः सुप्रतिष्ठितः I.9."
 
 
 
 obscurity in subsequent ages, due to the confusion and want of care on the part of the learners. At the commencement of the dvāparayuga, therefore, the great sage Kṛṣṇa-d vaipayana (Vyāsa) resuscitated it by clarifying and facilitating its study by his methodical arrangement into the four divisions Rg, Yajus, Saman and Atharva and by making his four disciples Paila, Vaiśampāyana, Jaimini and Sumantu the recipients and transmitters of the four Vedas in the respective order. Disciples of these lenial heads, in course of time, multiplied and formed into groups separating from each other and giving rise to various śākhās or branches. Each of these śākhās had its own reduction or collection of the given Veda preserved as its heirloom, differing not a little from the other. These were named according to the śākhā (school) to which it belonged, as Katha, Kauthuma, Vājasaneya, Madhyandina and the like. The Muktikopaniṣad (verses 12&13) records as having existed twenty–one such śākhās for the Rg–veda, ninety four for Black Yajur–veda, fifteen for White Yajur–veda, one thousand for Sama–veda and fifty for Atharva–veda; about most of these we know nothing at present except this bare mention.
 
- The next division, partly based on style and partly on purport, is the one into [Mantra and Brāhmaṇa](# "मन्त्रश्च ब्राह्मणं चेति द्वौ भागौ—तेन मन्त्रतः। अन्यत् ब्राह्मणम्, इत्येतद् भवेत् ब्राह्मणलक्षणम्॥  Aitareya–brāhmaṇa–bhāṣya.")[.](# "मन्त्रश्च ब्राह्मणं चेति द्वौ भागौ—तेन मन्त्रतः। अन्यत् ब्राह्मणम्, इत्येतद् भवेत् ब्राह्मणलक्षणम्॥  Aitareya–brāhmaṇa–bhāṣya.")The Kalpa–sūtra defines Veda as constituting of Mantra and Brāhmaṇa. This division
+ The next division, partly based on style and partly on purport, is the one into Mantra and Brāhmaṇa[^3].[^3]The Kalpa–sūtra defines Veda as constituting of Mantra and Brāhmaṇa. This division
+
+[^3]: "मन्त्रश्च ब्राह्मणं चेति द्वौ भागौ—तेन मन्त्रतः। अन्यत् ब्राह्मणम्, इत्येतद् भवेत् ब्राह्मणलक्षणम्॥  Aitareya–brāhmaṇa–bhāṣya."
 
 
 
@@ -160,21 +166,33 @@ schools, has the famous Satapatha–brāhmaṇa terminating in the monumental B�
 
 
 
- The Brāhmaṇas aim at the interpretation of the texts supplied by the Samhitās; they are, therefore, exegetical and commentative. They describe the minute details of sacificial ceremonies explaining their origin and hidden meaning and illustrating their value and potency by citing itihāsas or past stories. Sāyaṇa quotes a [definition of Brāhmaṇa,](# "हेतुर्निर्वचनम् निन्दा प्रशंसा संशयो विधिः। परक्रिया पुराकल्पो व्यवधारणकल्पना॥  Sayana's Introduction to Rg–veda.  ब्राह्मणानि कल्पान् गाथा नाराशंसीरितिहासपुराणानीति।  Asvalāyana–gṛhya–sütra,III,3. This is taken to be the definition of Brāhmaṇa.")which is not very conclusive as he himself admits. It is therefore safely asserted, “All that is not Mantra is Brāhmaṇa.”Many of the Brāhmaṇas known at present (about 16) generally treat about more or less a common stock of material with variations in treatment and elaboration.
+ The Brāhmaṇas aim at the interpretation of the texts supplied by the Samhitās; they are, therefore, exegetical and commentative. They describe the minute details of sacificial ceremonies explaining their origin and hidden meaning and illustrating their value and potency by citing itihāsas or past stories. Sāyaṇa quotes a definition of Brāhmaṇa,[^5]which is not very conclusive as he himself admits. It is therefore safely asserted, “All that is not Mantra is Brāhmaṇa.”Many of the Brāhmaṇas known at present (about 16) generally treat about more or less a common stock of material with variations in treatment and elaboration.
 
- The Āranyakas occupy an intermediate position between the Brāhmaṇas and Upanisads in form and spirit. They too are ritualistic in content like the Brāhmaṇas, but the material part is suppressed. In these Forest Books,the symbolic and spiritual aspects of the sacrificial cults are meditated upon, and the meditation takes place of the [performance of the sacrifice’.](# " Radhakrishnan, Indian Philosophy, Vol.I,p.65,")The Aranyakas are to be recited by those who have taken the vow (vrata) of the recluse and therefore (due perhaps to their superior sanctity also) they are designed to be the books of the
+[^5]: "हेतुर्निर्वचनम् निन्दा प्रशंसा संशयो विधिः। परक्रिया पुराकल्पो व्यवधारणकल्पना॥  Sayana's Introduction to Rg–veda.  ब्राह्मणानि कल्पान् गाथा नाराशंसीरितिहासपुराणानीति।  Asvalāyana–gṛhya–sütra,III,3. This is taken to be the definition of Brāhmaṇa."
+
+ The Āranyakas occupy an intermediate position between the Brāhmaṇas and Upanisads in form and spirit. They too are ritualistic in content like the Brāhmaṇas, but the material part is suppressed. In these Forest Books,the symbolic and spiritual aspects of the sacrificial cults are meditated upon, and the meditation takes place of the performance of the sacrifice’.[^6]The Aranyakas are to be recited by those who have taken the vow (vrata) of the recluse and therefore (due perhaps to their superior sanctity also) they are designed to be the books of the
+
+[^6]: " Radhakrishnan, Indian Philosophy, Vol.I,p.65,"
 
 
 
 vānaprasthas living in the solitude of forests. In general they share the subject-matter and treatment of the Upanisads also. From the point of subject–matter a clear demarcation line cannot be drawn between the two.
 
- The Upanisads are the sum and substance of all true wisdom. Of the ten most authoritative Upanisads now authentically known to have been explained by Śri Sankarācārya five are parts of some well–known Samhitāor Āraṇyaka. According to [tradition,](# "Muktikopanisad, verse 14.")Upaniṣads are 1180, one for each śākhā of the Vedas; but only about 200 are [brought to light](# "By The Theosophical Publishing House, Adyar.")till now, many of which clearly bear the stamp of modernity. Of those, 108 are deemed worthy of careful study. They are all commented on by one Brahmayogin. Each one of them, the Muktikopaniṣad associates with one Veda or other, though only five, as we have noted, are actually seen as part of the Veda in its existing form. But there is evidence to believe that some more might have been part of some Samhitāor Brāhmaṇa in the past and from which they were separated and became detached subsequently.
+ The Upanisads are the sum and substance of all true wisdom. Of the ten most authoritative Upanisads now authentically known to have been explained by Śri Sankarācārya five are parts of some well–known Samhitāor Āraṇyaka. According to tradition,[^7]Upaniṣads are 1180, one for each śākhā of the Vedas; but only about 200 are brought to light[^8]till now, many of which clearly bear the stamp of modernity. Of those, 108 are deemed worthy of careful study. They are all commented on by one Brahmayogin. Each one of them, the Muktikopaniṣad associates with one Veda or other, though only five, as we have noted, are actually seen as part of the Veda in its existing form. But there is evidence to believe that some more might have been part of some Samhitāor Brāhmaṇa in the past and from which they were separated and became detached subsequently.
+
+[^7]: "Muktikopanisad, verse 14."
+
+[^8]: "By The Theosophical Publishing House, Adyar."
 
  THE IŚĀVĀSYOPANIȘAD. This particular Upanisad derives its name from the opening words of its first Mantra. In all collections and enumerations of the Upaniṣads it occupies the first place, owing partly perhaps to the great spiritual significance of its contents and partly to the fact that it is the only Upanisad that is found as an integral part of a
 
 
 
-[Samhita](# "There are however some differences by way of variant readings and others in the text as it appears in the Vājasaneyi–samhita and in the Upanisad as commented on by Sankarācārya. Mantras 9,10, and 11 of the Samhita text appear as Mantras 12,13 and 14 of the Upanisad and vice versa. The second half of the fifteenth Mantra and all the lines of the sixteenth Mantra except the last one, are not in the Samhita text. The last five verses, just as in the Upanisad, are found in the Brhadaranya– kopanisad 5–15–1."), which fact gives it the other name Samhitopanisad. It is the last chapter of the Sukla– yajur–veda–samhita. The Upanisads that are in verses (the most important ones, without doubt) are called Mantropaniṣads. Iśāvāsya is the [Mantropaniṣad](# "Srimadbhāgavata, VIII.I.9.&17.")par excellence.
+Samhita[^9], which fact gives it the other name Samhitopanisad. It is the last chapter of the Sukla– yajur–veda–samhita. The Upanisads that are in verses (the most important ones, without doubt) are called Mantropaniṣads. Iśāvāsya is the Mantropaniṣad[^10]par excellence.
+
+[^9]: "There are however some differences by way of variant readings and others in the text as it appears in the Vājasaneyi–samhita and in the Upanisad as commented on by Sankarācārya. Mantras 9,10, and 11 of the Samhita text appear as Mantras 12,13 and 14 of the Upanisad and vice versa. The second half of the fifteenth Mantra and all the lines of the sixteenth Mantra except the last one, are not in the Samhita text. The last five verses, just as in the Upanisad, are found in the Brhadaranya– kopanisad 5–15–1."
+
+[^10]: "Srimadbhāgavata, VIII.I.9.&17."
 
 According to Sankarācārya’s analysis (whose commentary we have mainly followed in our explanations), this Upanisad lays down two paths for spiritual aspirants— one for the jñānins or those who are the exclusive adherents of the path of knowledge, and the other for those who have not attained the necessary internal development needed to renounce desires and adopt that exalted way. A jñānin of that type is identical with a sannyāsin. He is absolved from the performance of all sacrificial rites. Repeated study of the Upanisadic texts and reflection and contemplation of the real nature of the Ātman are the only activities that engage his attention. And as the first verse and the verses from the fourth to the eighth (both included), which describe the nature of the Ātman, are meant for him. The rest of the Upanisad has in view all other persons who are
 
@@ -405,7 +423,11 @@ IŚĀVSĀYOPANIṢAD
 
  **विद्यया** By vidyā, **अन्यत्** a different (**फलम्** result) **आहुः**they say, **अविद्यया** through avidyā**अन्यत्** a different **एव** verily; **इति** thus **धीराणाम्** from the wise**शुश्रुम** we have heard, **ये** who **नः** to us **तत्** that**विचचक्षिरे** explained.
 
- One result, they say, is [obtained](# "Obtained by vidyā—The goal obtained by ritualistic knowledge is the world of the gods.")by vidyā (knowledge of ritualistic philosophy), and quite another [by avidyā](# "By avidyā—The goal of pure rituals in the world of the manes.]") (ignorance or pure rituals). Thus have we heard from the wise who explained it to us.
+ One result, they say, is obtained[^11]by vidyā (knowledge of ritualistic philosophy), and quite another by avidyā[^12] (ignorance or pure rituals). Thus have we heard from the wise who explained it to us.
+
+[^11]: "Obtained by vidyā—The goal obtained by ritualistic knowledge is the world of the gods."
+
+[^12]: "By avidyā—The goal of pure rituals in the world of the manes.]"
 
 **विद्यां चाविद्यां च यस्तद् वेदोभयꣳसह।  
 अविद्यया मृत्युं तीर्त्वा विद्ययामृतमश्नुते॥११॥**
@@ -626,18 +648,26 @@ APPENDIX
 
 RECONCILIATION OF CONTRADICTIONS: ONE AND THE MANY, THE ABSOLUTE AND THE PERSONAL
 
- (9) Those who are engrossed in ‘ignorance’or the perception of the many enter into blind darkness. Into darkness that *seems* to be even greater than that, enter they who are absorbed in Knowledge or mystic consciousness of the One in trance; for the former there is access to life and its possibilities while in the latter even this is *apparently* [denied.](# "In this and in the 14th verse absorption in the One and the Absolute is not really condemned. It only states the apparent or popular view. That is the force of ‘iva’, as it were, in the text.")
+ (9) Those who are engrossed in ‘ignorance’or the perception of the many enter into blind darkness. Into darkness that *seems* to be even greater than that, enter they who are absorbed in Knowledge or mystic consciousness of the One in trance; for the former there is access to life and its possibilities while in the latter even this is *apparently* denied.[^13]
 
  (10) Thus one result, they say, is obtained by engrossment with the many (avidyā), and quite another by absorption in the One. Thus have we heard from the wise who explained it to us.  
+
+[^13]: "In this and in the 14th verse absorption in the One and the Absolute is not really condemned. It only states the apparent or popular view. That is the force of ‘iva’, as it were, in the text."
 
 
 
 
 ĪŚĀVĀSYOPANIṢAD
 
- (11) But he who understands the [secret](# "Engrossment with the many without knowing the One behind it is the bane of 'ignorant' life. The secret of the many is that the One can appear to be many without losing Its unity.")of the many and has also absorption in the One simultaneously, attains the spiritual felicity of transcendence by absorption in the One (vidyā), having overcome the [weakness](# " On knowing the One, the many lose their binding influence on the seer.")and delusions of mortal life by knowing how the many are the becomings of the One (avidyā).
+ (11) But he who understands the secret[^14]of the many and has also absorption in the One simultaneously, attains the spiritual felicity of transcendence by absorption in the One (vidyā), having overcome the weakness[^15]and delusions of mortal life by knowing how the many are the becomings of the One (avidyā).
 
- (12) Those who are engrossed with the worship of the ‘born’or a personal [god](# " This is the stage of polytheism and is, therefore, a very low stage. The Personal God of verse 14 is Īśvara or Power of the Absolute. The Personal Deity can be called Born, because it comes from the Absolute and is absorbed in it.")who is not recognised as an expression of the Absolute (asambhūti = vināśa of verse 14),—enter into blind darkness. Into darkness that *seems* even greater than that, enter they who are absorbed in the Unborn or the Absolute (sambhūti = sambhūti of verse 14); for in the former there is expression of life, while the latter *apparently* looks like inertness and negation of life.
+[^14]: "Engrossment with the many without knowing the One behind it is the bane of 'ignorant' life. The secret of the many is that the One can appear to be many without losing Its unity."
+
+[^15]: " On knowing the One, the many lose their binding influence on the seer."
+
+ (12) Those who are engrossed with the worship of the ‘born’or a personal god[^16]who is not recognised as an expression of the Absolute (asambhūti = vināśa of verse 14),—enter into blind darkness. Into darkness that *seems* even greater than that, enter they who are absorbed in the Unborn or the Absolute (sambhūti = sambhūti of verse 14); for in the former there is expression of life, while the latter *apparently* looks like inertness and negation of life.
+
+[^16]: " This is the stage of polytheism and is, therefore, a very low stage. The Personal God of verse 14 is Īśvara or Power of the Absolute. The Personal Deity can be called Born, because it comes from the Absolute and is absorbed in it."
 
   (13) Thus one result, they say, is obtained by worship of a Personal God (sambhūti), and quite another by absorption in the Absolute (asambhūti). Thus have we heard from the wise who explained it to us
 
@@ -647,11 +677,17 @@ RECONCILIATION OF CONTRADICTIONS: ONE AND THE MANY, THE ABSOLUTE AND THE PERSONA
 
 APPENDIX
 
-tion of Power of the Abolute) and has absorption in the Absolute simultaneously, attains the spiritual felicity of transcendence by absorption in the Absolute, [having](# " The true devotee is unmoved by the sufferings of life.")conquered the travails of life by devotion to the Personal [God](# " The superiority of the ideal held out in verses 11 and 14 seems to be that it combines knowledge and devotion, mysticism and work, philosophy and action, staticity and dynamism, in a harmonious way, and hence stands for an all-sided development of man, which a mere absorption in the one or the Absolute does not help").
+tion of Power of the Abolute) and has absorption in the Absolute simultaneously, attains the spiritual felicity of transcendence by absorption in the Absolute, having[^17]conquered the travails of life by devotion to the Personal God[^18].
+
+[^17]: " The true devotee is unmoved by the sufferings of life."
+
+[^18]: " The superiority of the ideal held out in verses 11 and 14 seems to be that it combines knowledge and devotion, mysticism and work, philosophy and action, staticity and dynamism, in a harmonious way, and hence stands for an all-sided development of man, which a mere absorption in the one or the Absolute does not help"
 
 KNOWLEDGE THROUGH NON-ATTACHMENT AND DEVOTION
 
- (15) Like a lid, Thy shining golden orb covers the entrance to the Truth in Thee. Remove it, O [Sun](# ". Here Sun is identified with the Personal God."), so that I who am devoted to the True may behold That.
+ (15) Like a lid, Thy shining golden orb covers the entrance to the Truth in Thee. Remove it, O Sun[^19], so that I who am devoted to the True may behold That.
+
+[^19]: ". Here Sun is identified with the Personal God."
 
  (16) O Sun, offspring of Prajāpati, Thou lonely courser of the heaven, Thou controller and supporter of all, contract Thy rays, withdraw Thy light. Through Thy grace, I behold the most blessed form of Thine. I am indeed He, that Being who dwells there.
 
@@ -730,3 +766,28 @@ MADRAS 4.
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^4]: "मन्त्रश्च ब्राह्मणं चेति द्वौ भागौ—तेन मन्त्रतः। अन्यत् ब्राह्मणम्, इत्येतद् भवेत् ब्राह्मणलक्षणम्॥  Aitareya–brāhmaṇa–bhāṣya."

@@ -30,11 +30,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc1ODE2MzgxMDM
 
 INTRODUCTION
 
-** Preliminary—** A literary composition is termed [Kavya](# "cf (a) वाक्यं रसात्मकं काव्यम्। (b) रमणीयार्थप्रतिपादकः शब्दः काव्यम॥ ----जगन्नाथपण्डितः")in Sanskrit. This kavya is of two k.1. Drisya **(दृश्य)** and 2. Sravya **(श्रव्य)**. Under, the, former head we have the Drama and such other secable literary writings, while under the latter, we have the hearable? ones. This Sraya kind comprises of prose **(गद्य)**, poetry **(पद्य)**, and a mixed **(मिश्र)** variety of prose and [poetry **(चम्पू).**](# "गद्य पद्य च मिश्र च तत् त्रिधैव व्यवस्थितम्—Dandin")
+** Preliminary—** A literary composition is termed Kavya[^1] वाक्यं रसात्मकं काव्यम्। (b) रमणीयार्थप्रतिपादकः शब्दः काव्यम॥ ----जगन्नाथपण्डितः")in Sanskrit. This kavya is of two k.1. Drisya **(दृश्य)** and 2. Sravya **(श्रव्य)**. Under, the, former head we have the Drama and such other secable literary writings, while under the latter, we have the hearable? ones. This Sraya kind comprises of prose **(गद्य)**, poetry **(पद्य)**, and a mixed **(मिश्र)** variety of prose and poetry **(चम्पू).**[^2]
 
- Sanskrit literature is not rich in prose romance. about a dozen prose romances, only four, viz. Subandhu's Vasavadatta, Bana's Kadambari and Harsha Charita and Dandin's Dasakumaracharita are famous.These prose works are considered to be of [two](# " The Agnipurana gives five classifications.–? आख्यायिका २. कथा ३. खण्डकथा ४. परिकथा and ५. कथानिका. But Dandin does not recognise these distinctions. See Kavyadarsa I 23-30.") kinds 1. Katha and 2. [Akhyayika](# "कथा कल्पितवृत्तान्ता सत्यार्थाख्यायिका स्मृता— अलङ्कारसङ्ग्रह."). Bana's Kadambari is a good example of the former, while his Harshacharita is of the latter.
+[^1]: "cf (a
 
- **Bana—** Bana, the author of the first part of Kadambari is generally taken to represent a landmark in the history of Sanskrit prose literature, as prose romances were very [scarce](# "Some scholars think that Subandhu is anterior to Bana, though many hold that he belongs to a date later than that of Bana. See M. Krishnamachar's History of Sk. Lit. P 446 ff.; and Siva prasada Bhattacharya's article ")before him. He himself gives us an account of his life in the prefatory verses to Kadambari and in the first few pages of the Harshacharita which is the history of King Harshavardhana of Thaneswar from whose reign (A.D. 606) dates the Harsha era used in Nepal. Bana traces his lineage from Vatsa, cousin of Sarasvata, son of **दधीच**and **सरस्वती**Thus in this Vatsyayana race⁶, he was born as the son of Chitrabhanu and Rajyadevi. As an infant he lost his mother and was tended with motherly affection by his own father. The father too passed away when Bana was just fourteen years of age and this event changed his career completely. He was well educated and had inherited considerable wealth from his ancestors. This made him self willed and hence he set out on a long travel in the company of a number of his friends of heterogeneous proficiencies. After some time, he returned ‘rich in wisdom and experience' and lived in his own home. Once he had a call to the Court of Harshavardhana who was then encamping on the AJIRAVATI river. And on the recommendation of Krishna, brother of Harsha, Bana was received cordially and in a short time became the King's favourite.
+ Sanskrit literature is not rich in prose romance. about a dozen prose romances, only four, viz. Subandhu's Vasavadatta, Bana's Kadambari and Harsha Charita and Dandin's Dasakumaracharita are famous.These prose works are considered to be of two[^3] kinds 1. Katha and 2. Akhyayika[^4]. Bana's Kadambari is a good example of the former, while his Harshacharita is of the latter.
+
+[^2]: "गद्य पद्य च मिश्र च तत् त्रिधैव व्यवस्थितम्—Dandin"
+
+[^3]: " The Agnipurana gives five classifications.–? आख्यायिका २. कथा ३. खण्डकथा ४. परिकथा and ५. कथानिका. But Dandin does not recognise these distinctions. See Kavyadarsa I 23-30."
+
+[^4]: "कथा कल्पितवृत्तान्ता सत्यार्थाख्यायिका स्मृता— अलङ्कारसङ्ग्रह."
+
+ **Bana—** Bana, the author of the first part of Kadambari is generally taken to represent a landmark in the history of Sanskrit prose literature, as prose romances were very scarce[^5]before him. He himself gives us an account of his life in the prefatory verses to Kadambari and in the first few pages of the Harshacharita which is the history of King Harshavardhana of Thaneswar from whose reign (A.D. 606) dates the Harsha era used in Nepal. Bana traces his lineage from Vatsa, cousin of Sarasvata, son of **दधीच**and **सरस्वती**Thus in this Vatsyayana race⁶, he was born as the son of Chitrabhanu and Rajyadevi. As an infant he lost his mother and was tended with motherly affection by his own father. The father too passed away when Bana was just fourteen years of age and this event changed his career completely. He was well educated and had inherited considerable wealth from his ancestors. This made him self willed and hence he set out on a long travel in the company of a number of his friends of heterogeneous proficiencies. After some time, he returned ‘rich in wisdom and experience' and lived in his own home. Once he had a call to the Court of Harshavardhana who was then encamping on the AJIRAVATI river. And on the recommendation of Krishna, brother of Harsha, Bana was received cordially and in a short time became the King's favourite.
+
+[^5]: "Some scholars think that Subandhu is anterior to Bana, though many hold that he belongs to a date later than that of Bana. See M. Krishnamachar's History of Sk. Lit. P 446 ff.; and Siva prasada Bhattacharya's article "
 
 ** Bana's Date—**
 
@@ -44,15 +54,27 @@ From the account given in the Harshacharita of Bana, in comparison with the desc
 
 ![](../books_images/U-IMG-1725723042bana.PNG)
 
-of the life of Harshavardhana [Siladitya](# " See Dosabai's History of Guzerat, 316.")given by Hiouen Thsang, Bana's patron is identified with the king who ruled in Kanouj from [606-648 A.D.](# " This date is given by some as 610-650 A. D.") Moreover his name is mentioned in various inscriptions which corroborates the the above date. Hence, we can conclude that the date of Bana must be assigned to the closing part of the sixth and the early part of the seventh centuries A.D.
+of the life of Harshavardhana Siladitya[^6]given by Hiouen Thsang, Bana's patron is identified with the king who ruled in Kanouj from 606-648 A.D.[^7] Moreover his name is mentioned in various inscriptions which corroborates the the above date. Hence, we can conclude that the date of Bana must be assigned to the closing part of the sixth and the early part of the seventh centuries A.D.
+
+[^6]: " See Dosabai's History of Guzerat, 316."
+
+[^7]: " This date is given by some as 610-650 A. D."
 
  Bana's Works—
 
-Besides Kadambari and Harshacharita, five other works, [viZ.](# "The following anecdote goes with the composition of this poem. Mayura. another poet in the court of Harsha and a relative of Bana, was suffering from leprosy. In order to be freed from the disease, he praised the Sun in a hundred verses called Suiyasataka and was cured. This roused the jealousy of Bana who maimed himself and invoked Chandi by his Chandi Sataka and got back the lost limb by her favour. cf. आदित्यादेर्मयूगदीनामिवानर्थनिवारणम् – काव्यप्रकाशे.")**[चण्डीशतकं,](# "The following anecdote goes with the composition of this poem. Mayura. another poet in the court of Harsha and a relative of Bana, was suffering from leprosy. In order to be freed from the disease, he praised the Sun in a hundred verses called Suiyasataka and was cured. This roused the jealousy of Bana who maimed himself and invoked Chandi by his Chandi Sataka and got back the lost limb by her favour. cf. आदित्यादेर्मयूगदीनामिवानर्थनिवारणम् – काव्यप्रकाशे.") शिवशतकं, शारदाचन्द्रिका, [मुकुटताडितक](# " This work is known only through a quotation in Bhoja's Sringara prakasa and the commentary on Nalachampu, by Gunavijayagani.") and [पार्वतीपरिणयनाटकम्](# "This is wrongly attributed to Bana. This work has been proved to be of Vamana Bhatta Bana. See Intro, to that drama by R. V. Krishnamachariar;Telang I, A. III 219; and Peterson's Intro. to Kadambari, 97.")**, are generally attributed to Bana.
+Besides Kadambari and Harshacharita, five other works, viZ.[^8]**चण्डीशतकं,[^8] शिवशतकं, शारदाचन्द्रिका, मुकुटताडितक[^10] and पार्वतीपरिणयनाटकम्[^11]**, are generally attributed to Bana.
+
+[^8]: "The following anecdote goes with the composition of this poem. Mayura. another poet in the court of Harsha and a relative of Bana, was suffering from leprosy. In order to be freed from the disease, he praised the Sun in a hundred verses called Suiyasataka and was cured. This roused the jealousy of Bana who maimed himself and invoked Chandi by his Chandi Sataka and got back the lost limb by her favour. cf. आदित्यादेर्मयूगदीनामिवानर्थनिवारणम् – काव्यप्रकाशे."
+
+[^10]: " This work is known only through a quotation in Bhoja's Sringara prakasa and the commentary on Nalachampu, by Gunavijayagani."
+
+[^11]: "This is wrongly attributed to Bana. This work has been proved to be of Vamana Bhatta Bana. See Intro, to that drama by R. V. Krishnamachariar;Telang I, A. III 219; and Peterson's Intro. to Kadambari, 97."
 
 ** General—**
 
-In literary [meritKadambari](# "The following slokas speak of the merits of Bana and his Kadambari.  १. युक्तं कादम्बरीं श्रुत्वा कवयो मौनमाश्रिताः। बाणध्वनावनध्यायो भवतीति स्मृतिर्थतः॥—कीर्तिकौमुदी—१५.  २. कादम्बरी (liquor ) - रसज्ञानामाहारोऽपि न रोचते। कादम्बरी (Bana's work ) - रसज्ञानामाहारोऽपि न रोचते॥") is supreme. The work was left unfinished by Bana, as death snatched him away quite unexpectedly. But his own son Bhushana Bhatta (Pulinda) continued the story on the same plan and in the same style as of his father and finished it.
+In literary meritKadambari[^12] - रसज्ञानामाहारोऽपि न रोचते। कादम्बरी (Bana's work ) - रसज्ञानामाहारोऽपि न रोचते॥") is supreme. The work was left unfinished by Bana, as death snatched him away quite unexpectedly. But his own son Bhushana Bhatta (Pulinda) continued the story on the same plan and in the same style as of his father and finished it.
+
+[^12]: "The following slokas speak of the merits of Bana and his Kadambari.  १. युक्तं कादम्बरीं श्रुत्वा कवयो मौनमाश्रिताः। बाणध्वनावनध्यायो भवतीति स्मृतिर्थतः॥—कीर्तिकौमुदी—१५.  २. कादम्बरी (liquor
 
 ** The Story of Kadambari—**
 
@@ -1004,3 +1026,21 @@ UDARSANA weapon). Although he wandered as he pleased, still his sole refuge was 
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^9]: "The following anecdote goes with the composition of this poem. Mayura. another poet in the court of Harsha and a relative of Bana, was suffering from leprosy. In order to be freed from the disease, he praised the Sun in a hundred verses called Suiyasataka and was cured. This roused the jealousy of Bana who maimed himself and invoked Chandi by his Chandi Sataka and got back the lost limb by her favour. cf. आदित्यादेर्मयूगदीनामिवानर्थनिवारणम् – काव्यप्रकाशे."

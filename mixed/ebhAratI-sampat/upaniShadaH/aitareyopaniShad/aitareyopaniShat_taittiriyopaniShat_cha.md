@@ -151,9 +151,11 @@ etc., are subject to Samsâra, being subject to faults, such as hunger. All that
 
 . But according to the *Srutis*, the highest *Brahman* is above hunger etc.
 
- Very well, let thus the knowledge of the pure *A'tman* be the means to emancipation. But the non-performer of *Karma* alone is not entitled thereto; for no such distinction is declared and there is no mention of a distinct order of *Sanyâsins*. Again, it is after enjoining*Karma* described in the thousand *Brihatis* that the Knowledge of the *A'tman* is introduced: Therefore the performer of *Karma* alone is entitled. Nor is the Knowledge of the *A'tman* unconnected with *Karma*; for the summing up here is similiar to that in the beginning. Just as in the first portion of this Upanishad, in the *Brâhmana* and the*Mantra*, [by](# "Mantra portions of the Upanishads are pithy and condensed like aphorisms, whereas the Brâhmana portions are explanatory to them.") the texts. "The sun is the *A'tman"*etc., the *Purusha* connected with *Karma, i.e.,* the Sun, has been said to be the *A'tman* or soul of all living things immoveable, moveable, etc.; similarly, in the last portion, beginning with "the *Brahman* is this *Indra*," etc., the *Brahman* is said to be the *A'tman* of all living things and it will be concluded by saying all that is immoveable is guided by the *Brahman* named Prâjñu. Similarly it is said in the *Samhitopanishad* also. Having there stated that the *Brahman* is connected with *Karma* by the texts "It is this *Brahman* alone which the  
+ Very well, let thus the knowledge of the pure *A'tman* be the means to emancipation. But the non-performer of *Karma* alone is not entitled thereto; for no such distinction is declared and there is no mention of a distinct order of *Sanyâsins*. Again, it is after enjoining*Karma* described in the thousand *Brihatis* that the Knowledge of the *A'tman* is introduced: Therefore the performer of *Karma* alone is entitled. Nor is the Knowledge of the *A'tman* unconnected with *Karma*; for the summing up here is similiar to that in the beginning. Just as in the first portion of this Upanishad, in the *Brâhmana* and the*Mantra*, by[^1] the texts. "The sun is the *A'tman"*etc., the *Purusha* connected with *Karma, i.e.,* the Sun, has been said to be the *A'tman* or soul of all living things immoveable, moveable, etc.; similarly, in the last portion, beginning with "the *Brahman* is this *Indra*," etc., the *Brahman* is said to be the *A'tman* of all living things and it will be concluded by saying all that is immoveable is guided by the *Brahman* named Prâjñu. Similarly it is said in the *Samhitopanishad* also. Having there stated that the *Brahman* is connected with *Karma* by the texts "It is this *Brahman* alone which the  
 —————————————————————————————————————————  
 * Mantra* portions of the Upanishads are pithy and condensed like aphorisms, whereas the *Brâhmana* portions are explanatory to them.
+
+[^1]: "Mantra portions of the Upanishads are pithy and condensed like aphorisms, whereas the Brâhmana portions are explanatory to them."
 
 
 
@@ -2164,3 +2166,4 @@ Original Translation by Pandit Ganga'nath Jha, M.A.
 
 
 \]
+

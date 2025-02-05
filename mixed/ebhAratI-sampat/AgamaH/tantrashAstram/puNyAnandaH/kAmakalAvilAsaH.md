@@ -381,9 +381,15 @@ SHE the Primordial S'akti who excels all and who in Her own true nature is etern
 
   **The seed of all... which are to be** (*Bhāvicarā-carabījam*). Bhāvī is that which is about to and will come. She is the Cause of all. moving and motionless things which will be and which are.
 
-  The *Katha S'ṛuti* says (5-2-12) : ‘The one Controller (*Vasi*) of all who is the Inner Self (*Antarātmā*) of all created beings (*Sarvabhūta*) transforms His unity ([*Ekam rūpam*](# "Some read Bīja (seed) for Rūpa (Form)."))into many.’
+  The *Katha S'ṛuti* says (5-2-12) : ‘The one Controller (*Vasi*) of all who is the Inner Self (*Antarātmā*) of all created beings (*Sarvabhūta*) transforms His unity (*Ekam rūpam*[^1] for Rūpa (Form)."))into many.’
 
-  *Āgama* also says : ‘When She the Supreme Power (*Paramā S'akti*) who is in the form of the universe (*Visvarūpinī*) sees² her own impulse towards becoming (*Sphurattā*), then the Cakra³ comes into being. As the great tree exists as [potency](# "S'akti.")in the seed of [the Bata tree](# "Ficus indica."), so does this moving and motionless world exist in the seed in the heart (*Hṛdayabījastham*) (of the Lord) ’.
+[^1]: "Some read Bīja (seed
+
+  *Āgama* also says : ‘When She the Supreme Power (*Paramā S'akti*) who is in the form of the universe (*Visvarūpinī*) sees² her own impulse towards becoming (*Sphurattā*), then the Cakra³ comes into being. As the great tree exists as potency[^2]in the seed of the Bata tree[^3], so does this moving and motionless world exist in the seed in the heart (*Hṛdayabījastham*) (of the Lord) ’.
+
+[^2]: "S'akti."
+
+[^3]: "Ficus indica."
 
   It may be said that as it is not possible for S'iva to create without S'akti nor for ParāS'akti without S'iva, how can She be said to be ‘the seed.’ To meet this it is said that She is the pure mirror in which Siva experiences Himself (*S'ivarupa-vimars'a-nirmalādarsah.*) The *Svarūpa* or nature of S'iva is 'I' or Aham (*S'ivasya svarūpaṁ aham ityevaṁ ākāraṁ*). The experience (*Vimarśa*) again of That (*Tasya vimars'ah*) is the experience of ‘I-ness’ (*Ahaṁ ityevaṁ rūpaṁ jñānaṁ*). This pure mirror makes manifest this knowledge (*Tasya prakās'ane nirmalādars'ah*).
 
@@ -407,7 +413,9 @@ Similarly if the ***Parās'akti*** were not united with ***Paras'iva***, She cou
 
 **VERSE 3**
 
-THE Supreme S'akti is resplendent. She is both the seed (*Bija*) and sprout ([*Angkura*](# "As seed She is cause, and as sprout, effect or universe."))as the manifested union of S'iva and Sakti. She is very subtile. Her form is manifested through the union of the first letter of the Alphabet (A) and the *Vimars'a* letter (*Ha*).
+THE Supreme S'akti is resplendent. She is both the seed (*Bija*) and sprout (*Angkura*[^4])as the manifested union of S'iva and Sakti. She is very subtile. Her form is manifested through the union of the first letter of the Alphabet (A) and the *Vimars'a* letter (*Ha*).
+
+[^4]: "As seed She is cause, and as sprout, effect or universe."
 
 **COMMENTARY**
 
@@ -445,15 +453,31 @@ UPON the mass of the rays of the Sun Paras'iva bein reflected in the pure *Vimar
 
   **Mass of the rays of the Sun Parasiva** (*Paraśivaravikarnikare*) Parasiva is the adored Lord Paramasiva who is mere *PrakāśaPrakāsaika-svabhāvah*.) The mass of His rays (*Karāh=Kiraṇāh*) is the pure (*Viśuddha*=*Nirmala*) Vimarsa-mirror (*Vimarśa*-*darpaṇa*). *Vimarsa* is the *S'akti* or movement (*Visphuraṇa*-*sakti*)² which is limitless (*Anavadhikākārā*). So it is said in *Pratyabhijñā*: ‘She is *Sphurattā*. (*Sā sphurattā*).’ She is here compared to a mirror because of Her thereby manifesting Herself (*Sva-svarūpa-prakās'atvāṭ)³*.
 
-  **Reflected**. By ‘Reflection’ (*Pratiphalana*) is meant seeing one's own self (*Svasvarūpāva- lokana*). When the self is seen by reflection in this way, then **‘Mahabindu appears on the Citta-wall’** (*Cittamaya*=*Jñānaika*-*svarūpa*) which is beautifully [illumined](# "That is, by the rays reflected back on it.").The *Citta* is compared to a 'wall' (*Kudya*) because on it appears (the reflection of the) Mahābindu. In ordinary experience we see that if a mirror is kept facing the sun, the rays after being reflected therefrom appear on any wall nearby as a luminous spot (*Bindu*) produced by the rays of the sun. In the same way when Parames'vara who is *Prakās'a* (*Prakāsa*-*rūpa*-*parame*s'*vara*) comes into connection with *Vimar*s'*a* which is like a mirror (*Darpaṇāvat-svarūpa-vimarśa-sambandhe jāte*), there shines forth the Mahābindu who is *Parames'vara as Pūrṇo'ham*—‘I am all.’
+  **Reflected**. By ‘Reflection’ (*Pratiphalana*) is meant seeing one's own self (*Svasvarūpāva- lokana*). When the self is seen by reflection in this way, then **‘Mahabindu appears on the Citta-wall’** (*Cittamaya*=*Jñānaika*-*svarūpa*) which is beautifully illumined[^5].The *Citta* is compared to a 'wall' (*Kudya*) because on it appears (the reflection of the) Mahābindu. In ordinary experience we see that if a mirror is kept facing the sun, the rays after being reflected therefrom appear on any wall nearby as a luminous spot (*Bindu*) produced by the rays of the sun. In the same way when Parames'vara who is *Prakās'a* (*Prakāsa*-*rūpa*-*parame*s'*vara*) comes into connection with *Vimar*s'*a* which is like a mirror (*Darpaṇāvat-svarūpa-vimarśa-sambandhe jāte*), there shines forth the Mahābindu who is *Parames'vara as Pūrṇo'ham*—‘I am all.’
+
+[^5]: "That is, by the rays reflected back on it."
 
 
 
-  ***S’ruti*** also says: ‘Oh gentle one, this Being alone there was in the beginning, the one, non-dual Brahman [alone](# " Chā., 6-2-1.").That said: ‘May I be many and be [born](# " Chā., 6-2-3."). Also She this [Devatā said](# "#")’ :‘This Brahman alone there was in the beginning, That knew Itself as’ ‘I (*Aham*) am the Brahman’. ‘He said (and thought), truly I shall create these worlds ([*Lokas*](# "Aitareya, 1. 1.")).’Texts in *S’rutī* like these say that the Parabrahman who is looking towards (*Abhimukha*) His own S’akti (*Svātmasakti*) is the Cause of [the universe](# "He contemplates and assumes Power.").
+  ***S’ruti*** also says: ‘Oh gentle one, this Being alone there was in the beginning, the one, non-dual Brahman alone[^6].That said: ‘May I be many and be born[^7]. Also She this Devatā said[^8]’ :‘This Brahman alone there was in the beginning, That knew Itself as’ ‘I (*Aham*) am the Brahman’. ‘He said (and thought), truly I shall create these worlds (*Lokas*[^9]).’Texts in *S’rutī* like these say that the Parabrahman who is looking towards (*Abhimukha*) His own S’akti (*Svātmasakti*) is the Cause of the universe[^10].
 
-  ***Āgama*** also says : ‘When She the [Paramā S’akti](# "Yoginīhridaya, 1. 9.")sees Her own *Sphurattā*, there comes into being the Cakra.’
+[^6]: " Chā., 6-2-1."
 
-  **In** ***Pratyabhijnā*** also it is said : ‘She the *Sphuratta* is the great Being-ness (*Mahāsattā*) beyond time and space ([*Des’a-kāla-vis’esinī*](# "She limits, that is, is beyond both.")).It is She who is spoken of as the essence of all (*Sāratayā coktā*) in the Heart of the Supreme Lord.
+[^7]: " Chā., 6-2-3."
+
+[^8]: "#"
+
+[^9]: "Aitareya, 1. 1."
+
+[^10]: "He contemplates and assumes Power."
+
+  ***Āgama*** also says : ‘When She the Paramā S’akti[^11]sees Her own *Sphurattā*, there comes into being the Cakra.’
+
+[^11]: "Yoginīhridaya, 1. 9."
+
+  **In** ***Pratyabhijnā*** also it is said : ‘She the *Sphuratta* is the great Being-ness (*Mahāsattā*) beyond time and space (*Des’a-kāla-vis’esinī*[^12]).It is She who is spoken of as the essence of all (*Sāratayā coktā*) in the Heart of the Supreme Lord.
+
+[^12]: "She limits, that is, is beyond both."
 
 **![](../books_images/U-IMG-1725464277Screenshot2024-08-10134504.png)**
 
@@ -479,7 +503,9 @@ UPON the mass of the rays of the Sun Paras'iva bein reflected in the pure *Vimar
 
 **COMMENTARY**
 
-  In this verse he describes the notion of “I-ness” (*Ahaṁbhāva*)which arises from the gaze of *S'iva* upon His own luminous S'akti.*Ahamkāra* is the *Vimarśa* which is 'I-ness' (*Yo'yaṁ aham-ahamityeva vimarśah*). *Ahaṁkāra* is the cause (*Kāra*=*Kāraṇa*) of the experience of ‘I-ness’ (*Ahambhāva vimarśa*) which manifests (*Vyañjaka*) on the uprising (*Udbhūta*) of the experience which is self-recollection (*Ātmasmaraṇa*). Ahaṁkāra such as this excels all. So it has been said, ‘In the Aham experience (*Ahaṁbhāva Prakāsa*) rests in Itself ([*Ātma*-*vis'rānti*)](# " Prakās'asyātma-vis'rāntir ahaṁbhāve hi kīrtitah.").’
+  In this verse he describes the notion of “I-ness” (*Ahaṁbhāva*)which arises from the gaze of *S'iva* upon His own luminous S'akti.*Ahamkāra* is the *Vimarśa* which is 'I-ness' (*Yo'yaṁ aham-ahamityeva vimarśah*). *Ahaṁkāra* is the cause (*Kāra*=*Kāraṇa*) of the experience of ‘I-ness’ (*Ahambhāva vimarśa*) which manifests (*Vyañjaka*) on the uprising (*Udbhūta*) of the experience which is self-recollection (*Ātmasmaraṇa*). Ahaṁkāra such as this excels all. So it has been said, ‘In the Aham experience (*Ahaṁbhāva Prakāsa*) rests in Itself (*Ātma*-*vis'rānti*)[^13].’
+
+[^13]: " Prakās'asyātma-vis'rāntir ahaṁbhāve hi kīrtitah."
 
   Cit (*Chittamaya*) is mere *Jñāna* (*Jñānaika*-*svabhāva*).
 
@@ -1888,7 +1914,9 @@ HER (eight) Powers, ***Aṇimā*** and others, assume the forms of beautiful you
 
  Having in manner described explained the stages of the unfolding of the Cakra (*Cakrakrama*) which is but a manifestation of Kāmakalā (*Kāmakalāvilāsanarūpa*), he now in his kindness towards his disciples commences to describe the series of Gurus beginning with Paramaśiva in four verses of which this is the first. For a true knowledge of the Cakra, the Devatā and Mantra can be gained by knowing the succession of Gurus who are Parameśvara (*Parameśvarātmaka-guru-krama-jñāna-bhāvena labhyat*e).
 
- **“Experiences the highest Bliss”** (*Paramānandānu-bhāvah*). That is, He is the One who has the knowledge or experience (*Anubhāva=Jñāna*) which excels all other bliss (*Parama=Sarvotkṛṣta*). This Ānanda or Bliss consists in experience as complete ’I-ness’ (*Paripūrṇāhaṁbhāvarūþa*). S'ruti also says “[other creatures experience a fragment of this Bliss](# "Etasyaivānandasyānyāni bhūtāni mātrām upajīvanti (Bṛhad.Āranyaka 4-3-32).")”
+ **“Experiences the highest Bliss”** (*Paramānandānu-bhāvah*). That is, He is the One who has the knowledge or experience (*Anubhāva=Jñāna*) which excels all other bliss (*Parama=Sarvotkṛṣta*). This Ānanda or Bliss consists in experience as complete ’I-ness’ (*Paripūrṇāhaṁbhāvarūþa*). S'ruti also says “other creatures experience a fragment of this Bliss[^14].")”
+
+[^14]: "Etasyaivānandasyānyāni bhūtāni mātrām upajīvanti (Bṛhad.Āranyaka 4-3-32
 
  **Parama Siva who is the Lord and is one with the Bindu** (*Paramaguru-nirvishesha-bindvātmā*). By Parama Guru is meant the First Guru (*Ādinātha*) who is Parama Siva. The Bindu is one with Him. (*Nirviseṣa=Abhinna*), The Bindu is the Kāmakalā (*Kāmakalārūpa*). He whose Self (*Ātmā=Svarūpa*) is the Bindu is the Parama Śiva who is the First Lord or Guru (*Ādinātharūpī Paramaśivah*).
 
@@ -1902,7 +1930,9 @@ HER (eight) Powers, ***Aṇimā*** and others, assume the forms of beautiful you
 
  If *Paramagurunirvisheshabindvātmā* be read as two words as *Paramaguruh* and *Nirvisheshabindvātmā* then the meaning will be that the Paramaguru which is another name for Ādinātha is the transcendent (*Nirvishesha-Nishprapancha*) Bindu who is indicated by (*Lakshana*) Sat, Chit and Ānanda. So it has been said :—
 
- “The Supreme Ether—(*Ākāsa*) which is the Bindu which is transcendent (*Niṣprapancha*), is Sat, Chit and Ānanda, One without a second (*Nirābhāsa*), in whom there is no distinction of subject and [object](# "Knower and object of knowledge.")(*Nirvikalpa*) and is imperishable (*Nirāmaya*.)”
+ “The Supreme Ether—(*Ākāsa*) which is the Bindu which is transcendent (*Niṣprapancha*), is Sat, Chit and Ānanda, One without a second (*Nirābhāsa*), in whom there is no distinction of subject and object[^15](*Nirvikalpa*) and is imperishable (*Nirāmaya*.)”
+
+[^15]: "Knower and object of knowledge."
 
  The Parameśvara who is like this did Himself become (*Abhūt*) the *Gurumandala* the first of whom is Kāmakāmeśvarī. **“It is He”** (*Sah punah*). It is the Paramātmā already spoken of, who by degrees (*Kramena*) becomes differentiated (*Bhinnah*) in the manner to be later shown as the Divya and Siddha classes from His Vimarsha part (*Vimarshāngshāt*). By Vimarsha is meant His own Śakti as Kāmakalā. By part (*Angsha*) is meant half of this.
 
@@ -1928,7 +1958,9 @@ sense of this is that it is the Paramātmā who of His own will divided His own 
 
 **COMMENTARY**
 
- In this verse he further discusses what has been stated in the preceding verse. By ‘**Siva**’ is meant the Paramātmā who is the author of all (*Sarvapravartaka*). **Guru** is he who instructs in Jñāna (*Jñānopadeṣtā*). So it has been said that “the Guru is means (of success).” (*Gurur upāyah*); [also](# " Kulārnava Tantra XVII. 7."):—
+ In this verse he further discusses what has been stated in the preceding verse. By ‘**Siva**’ is meant the Paramātmā who is the author of all (*Sarvapravartaka*). **Guru** is he who instructs in Jñāna (*Jñānopadeṣtā*). So it has been said that “the Guru is means (of success).” (*Gurur upāyah*); also[^16]:—
+
+[^16]: " Kulārnava Tantra XVII. 7."
 
  “The word ‘Gu’ signifies darkness and the word ‘Ru’ signifies that which dispels it, Guru is so called because he dispels darkness.”
 
@@ -1952,7 +1984,9 @@ sense of this is that it is the Paramātmā who of His own will divided His own 
 
 **VERSES 52 & 53**
 
- SHE who is the Queen of the (three) [places](# "The three angles of the triangle (Kāmakalā).")and bears the appellations of the Eldest, the Middle or the Second and the Youngest and who is the object of enjoyment of Parama Śiva assumed the name of Mitradeva. It is She who having first purified the Gurus (by initiation) revealed the Vidyā to them who are the seeds of the (three) Ages (*yugas*) the first of which is Tretā and who are the Lords of the three Bijas. It is by these (three Gurus) that the three groups or classes (*Ogha*) are maintained. Now has been said the order of the Gurus (*Gurukrama*).
+ SHE who is the Queen of the (three) places[^17].")and bears the appellations of the Eldest, the Middle or the Second and the Youngest and who is the object of enjoyment of Parama Śiva assumed the name of Mitradeva. It is She who having first purified the Gurus (by initiation) revealed the Vidyā to them who are the seeds of the (three) Ages (*yugas*) the first of which is Tretā and who are the Lords of the three Bijas. It is by these (three Gurus) that the three groups or classes (*Ogha*) are maintained. Now has been said the order of the Gurus (*Gurukrama*).
+
+[^17]: "The three angles of the triangle (Kāmakalā
 
 **COMMENTARY**
 
@@ -2004,7 +2038,9 @@ and is one with Bhagamālini who is the Devatā of the ***Śakti Bīja*** there.
 
  The *Mānduka Śruti* (1, 7) says:
 
- “The wise think of the non-dual Śiva who is quiescent (*Śāntam*) and in whom the universe is absorbed (*Prapañcopaśamam*). He is not inner or subjective cognition (Antahprajñam) nor is He outer or objective cognition (*Bahihprajñam* i.e. enjoyer of the gross world) and He is not between these two states ([*Nobhayatahprajñam*](# "That is, He is not the state between Jāgrat and Svapna.")). He is not massive knowingness (*Prajñāna*-*ghanam*). He knows not nor is any thing unknown to Him. He is unseen. He is not the subject of (pragmatic) knowledge (*Avyavahāryam*). He is beyond the scope of the senses of action (*Agrāhyam*). He has no attributes
+ “The wise think of the non-dual Śiva who is quiescent (*Śāntam*) and in whom the universe is absorbed (*Prapañcopaśamam*). He is not inner or subjective cognition (Antahprajñam) nor is He outer or objective cognition (*Bahihprajñam* i.e. enjoyer of the gross world) and He is not between these two states (*Nobhayatahprajñam*[^18]). He is not massive knowingness (*Prajñāna*-*ghanam*). He knows not nor is any thing unknown to Him. He is unseen. He is not the subject of (pragmatic) knowledge (*Avyavahāryam*). He is beyond the scope of the senses of action (*Agrāhyam*). He has no attributes
+
+[^18]: "That is, He is not the state between Jāgrat and Svapna."
 
 
 
@@ -2028,7 +2064,9 @@ and is one with Bhagamālini who is the Devatā of the ***Śakti Bīja*** there.
 
  “O Great Queen, it is after initiation that the Guru should give instruction relating to Sādhana of the Vidyā”.
 
- Initiation ([*Dikṣā*](# "The Gandharvatantra speaks of Māntrī, Sāktī and Sāṁbhavī."))is of three kinds namely *Āṇavī, Śākteyī* and *Śāṁbhavī*. It grants union (*Sāyujya*) with Śiva. In *Āṇavī Dīkṣā* the special articles of worship are necessary. There is also needed intense devotion to, and Tarpaṇa and Dhyāna of, the Para-Devatā. Śākta initiation is for the attainment of Siddhi by the Sādhanā of that particular Śakti for the worship of which a disciple is qualified. So it has been said:
+ Initiation (*Dikṣā*[^19])is of three kinds namely *Āṇavī, Śākteyī* and *Śāṁbhavī*. It grants union (*Sāyujya*) with Śiva. In *Āṇavī Dīkṣā* the special articles of worship are necessary. There is also needed intense devotion to, and Tarpaṇa and Dhyāna of, the Para-Devatā. Śākta initiation is for the attainment of Siddhi by the Sādhanā of that particular Śakti for the worship of which a disciple is qualified. So it has been said:
+
+[^19]: "The Gandharvatantra speaks of Māntrī, Sāktī and Sāṁbhavī."
 
  “When the Guru perceives that the disciple is ready for Sādhanā of (any form of) Śakti he should then initiate in that (Śakti) alone without hesitation. This is called *Śākteyī Dīkṣā*”.
 
@@ -2264,7 +2302,9 @@ THIS is the end of the description by Puṇyānanda of the playful movements of 
 विचित्रान् सृष्टिसंहारान्विधत्ते युगपत्प्रभुः॥**
 
 **अतिदुर्घटकारित्वमस्यानुत्तरमेव तत्।  
-एतदेव स्वतन्त्रत्वमैश्वर्यं[परबोधितम्](# "परबोधिता")॥”**
+एतदेव स्वतन्त्रत्वमैश्वर्यंपरबोधितम्[^20]॥”**
+
+[^20]: "परबोधिता"
 
 इति ब्रह्मस्वरूपं सम्यक्प्रकल्प्य प्रपञ्चितम्। एवं पराभट्टारिकासहितः श्रीपरमेश्वरः, “एष सर्वेश्वरः, एष भूताधिपतिः, एष भूतपाल एष सेतुर्विधरण एषां लोकानामसंभेदाय”इति **बृहदारण्यकोक्त**रीत्या सर्वप्रकारेण सर्वरक्षकः परमेश्वरः परमात्मा युष्मान् पात्विति निरवधिकदयाशालिनः पुण्यानन्दाः पुण्यपुरुषानाशासते। पालनं चात्र परमात्मैकत्वरूपमेव। तथा **चिद्विलासे**—“भेदलक्षणविपक्षसंकटात् तारणं परमिहात्मरक्षणम्।”इत्यभेदेन चिन्तनमभिप्रेतम्। इदं चात्र पुण्यानन्दानामाकूतम्; सर्वभूतसुहृत्परमात्मैवात्र लोके सद्गुरुरूपमास्थाय कतिचन भक्तिभाजः संरक्षतीति। अत्र यजुः श्रुतिः—“स चाचार्यवंशो ज्ञेयो भवत्याचार्याणामसावसावित्या भगवत्तः।”
 
@@ -2516,8 +2556,10 @@ THIS is the end of the description by Puṇyānanda of the playful movements of 
 
 इति। **विरूपाक्षपञ्चाशिकायामपि**—
 
-**“यस्य विमर्शस्य कणः [पदमन्त्रार्णात्मक स्त्रिधा शब्दः](# "‘पदतत्त्वकलात्मार्थो. . .इति मुद्रितकोशपाठः।")।  
+**“यस्य विमर्शस्य कणः पदमन्त्रार्णात्मक स्त्रिधा शब्दः[^21]।  
 भुवनकलातत्त्वार्थो धर्मिण इत्थं प्रकाशस्य॥**
+
+[^21]: "‘पदतत्त्वकलात्मार्थो. . .इति मुद्रितकोशपाठः।"
 
 
 
@@ -2789,8 +2831,10 @@ THIS is the end of the description by Puṇyānanda of the playful movements of 
 
  इह महामाहेश्वराः पुण्यानन्दाः कामकलाख्यामादिसुन्दरीमात्मत्वेनानुभूय पुनरपि मन्त्रचक्रदेवतात्मकतद्विलासा- नुभवपराः सन्तः परमार्थभूतप्रकृतमहा बिन्दोरेव सकाशात् जगदुत्पत्त्यादिकं वक्तुमारमते—
 
-**¹[स्फुटिताद](# "स्फुरितात्")रुणाद्बिन्दोर्नादब्रह्माङ्कुरो रवो व्यक्तः।  
+**¹स्फुटिताद[^22]रुणाद्बिन्दोर्नादब्रह्माङ्कुरो रवो व्यक्तः।  
 तस्माद्गगनसमीरणदहनोदकभूमिवर्णसंभूतिः॥९॥**
+
+[^22]: "स्फुरितात्"
 
  **स्फुटितादरुणाद्विन्दोरिति।** **स्फुटितात्**; उच्छूनात्। **बिन्दोः;** पूर्वोकलक्षणात्, **नादब्रह्माङ्कुरः**; नादः सर्वशब्दोत्पतिहेतुर्वर्णः, स एव ब्रह्म नादब्रह्म अङ्कुर उत्पादकं यस्य सः। तथा **चोक्तम्**—
 
@@ -4876,3 +4920,25 @@ THIS is the end of the description by Puṇyānanda of the playful movements of 
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

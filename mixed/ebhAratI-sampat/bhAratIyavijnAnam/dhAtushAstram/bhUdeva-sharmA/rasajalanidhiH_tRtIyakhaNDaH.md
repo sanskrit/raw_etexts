@@ -453,8 +453,10 @@ Evil effects of taking impure iron.
 
 **वज्राच्छतगुणं पाण्ड्यि नीरवं दर्शाभर्गुणैः ।**  
 
-**तस्मात् सहस्रगुणितमयः कान्तं महागुणाम्॥**[\*](# "पाठोऽयं रसेन्द्रचिन्तामणेस्तथा रामराजीयादुद्धृतः ॥")
+**तस्मात् सहस्रगुणितमयः कान्तं महागुणाम्॥**\*[^1]
 
+
+[^1]: "पाठोऽयं रसेन्द्रचिन्तामणेस्तथा रामराजीयादुद्धृतः ॥"
 
 
 *Varieties of iron.*
@@ -556,7 +558,9 @@ Khara iron is that which is coarse, inflexible, and devoid of pogara**²**or car
 
 
 
-  This is a kind of tikshna iron which breaks into pieces, when hammered, and has pogara or carved lines on its surface. It is obtained from ores of yellowish [colour](# "According to another version, it is obtained from a province called ").
+  This is a kind of tikshna iron which breaks into pieces, when hammered, and has pogara or carved lines on its surface. It is obtained from ores of yellowish colour[^2].
+
+[^2]: "According to another version, it is obtained from a province called "
 
 ———————————————————————————————————————————
 
@@ -599,7 +603,9 @@ Hrinnala has a yellowish black colour. It has, on its surfaces, pogara of the sh
 
 **गौरीपट्टाकारं लौहं तारापट्टी विकथ्यते ।**  
 
-**निर्मीयते शिलापैश्च यत्ने न [लौहमृत्तिकात्](# "शिवलिङ्गमध्यभागस्थदीपाकारप्रदेशः गौरीपट्टमिति कथ्यते । शिलापः (शिला+पा+ड) प्रस्तरविद्यानिपुणः लौहकारः सराप् इति भाषा ।") ॥**  
+**निर्मीयते शिलापैश्च यत्ने न लौहमृत्तिकात्[^3] प्रस्तरविद्यानिपुणः लौहकारः सराप् इति भाषा ।") ॥**  
+
+[^3]: "शिवलिङ्गमध्यभागस्थदीपाकारप्रदेशः गौरीपट्टमिति कथ्यते । शिलापः (शिला+पा+ड
 
 **सूक्षपोगरसंयुक्त कृष्णाभं गुरु चिक्कणम् ।**  
 
@@ -609,9 +615,11 @@ Hrinnala has a yellowish black colour. It has, on its surfaces, pogara of the sh
 
   
 
-Tarapatta iron is obtained from iron ores by a class of smiths who are specialists in the science of ores. This iron is black, smooth, glazy, and has very fine pogara (carved lines) on its surface. This is prepared in the shape of a spoon (minus the handle). It is a kind of iron which never rusts, even if it is exposed to the sun, rains, and wind.[\*](# "This is most probably the iron out of which the wonderful iron pillar of Delhi, the iron beams in the ruins of konarka temple, the cannons in visnupur etc. were prepared. The art of preparing such iron is now hopelessly lost.")
+Tarapatta iron is obtained from iron ores by a class of smiths who are specialists in the science of ores. This iron is black, smooth, glazy, and has very fine pogara (carved lines) on its surface. This is prepared in the shape of a spoon (minus the handle). It is a kind of iron which never rusts, even if it is exposed to the sun, rains, and wind.\*[^4]
 
 (५) वज्रलौहम् ।
+
+[^4]: "This is most probably the iron out of which the wonderful iron pillar of Delhi, the iron beams in the ruins of konarka temple, the cannons in visnupur etc. were prepared. The art of preparing such iron is now hopelessly lost."
 
 पोगरैर्वज्रसंकाशैः सूक्ष्मरेखैश्च सान्द्रकैः ।  
 
@@ -675,7 +683,9 @@ Sara iron cures the following diseases, if taken in the prescribed way :—diarr
 
 **पात्रे यस्मिन् प्रसरति जले तैलबिन्दु[र्नलिप्तं](http://॑# "न लिप्तमित्यस्य स्थले प्रतप्ते इत्येतत् पाठान्तरं दृश्यते ।")**  
 
-**गन्धं हिंगु त्यजति च तथा तिक्ततां [निम्बकल्कः](# "निम्बकल्कः इत्येतस्य स्थले निग्ववल्कः इत्येतत् पाठान्तरं दृश्यते ।")**
+**गन्धं हिंगु त्यजति च तथा तिक्ततां निम्बकल्कः[^5]**
+
+[^5]: "निम्बकल्कः इत्येतस्य स्थले निग्ववल्कः इत्येतत् पाठान्तरं दृश्यते ।"
 
 **।**  
 
@@ -750,9 +760,11 @@ Varieties of kanta iron.
 
  
 
-Kanta iron is of five different kinds, viz. bhramaka, chumbaka, karshaka, dravaka, and romakanta. They may have one, two, three, four, five or more than five mouths or points. They may be of three different colours, viz. yellow, black, and red. Of these the yellow variety (populary called the philosopher's, stone) can transform base metals by mere touch.[**\***](# " It is an ore found in nature and is, therefore, to be distinguished from a kind of Philosopher s stone that can be prepared ( vide page 235, Vol. I ).") The black variety is commendable in medicines and the red variety in medicines as well as in the act of solidification of mercury.  
+Kanta iron is of five different kinds, viz. bhramaka, chumbaka, karshaka, dravaka, and romakanta. They may have one, two, three, four, five or more than five mouths or points. They may be of three different colours, viz. yellow, black, and red. Of these the yellow variety (populary called the philosopher's, stone) can transform base metals by mere touch.**\***[^6].") The black variety is commendable in medicines and the red variety in medicines as well as in the act of solidification of mercury.  
  Bhramaka iron is that which makes a piece of ordinary iron revolve round it. Chumbaka kanta (load stone) is that which can cling to pieces of ordinary iron. Karshaka kanta is that which can attract to it pieces of ordinary iron, Dravaka kanta is that at the touch of which ordinary iron melts (without any heat being applied). Roma-kanta is that which causes the growth of fresh hair at that part of the skin which is lightly pierced through by it.  
  Of these four varieties, Bhramaka is the least efficacious. Chumbaka is superior to Bhramaka. Karshaka is superior to Chumbaka, and Dravaka is the most efficacious of all these varieties.
+
+[^6]: " It is an ore found in nature and is, therefore, to be distinguished from a kind of Philosopher s stone that can be prepared ( vide page 235, Vol. I
 
  The kanta iron which has got only one mouth (or magnetic point) is the least efficacious; that with two or three mouths is of moderate efficacy; and that with four or five mouths is excellent. The kanta iron which has got several mouths is the best of all.
 
@@ -790,9 +802,11 @@ Properties of kanta.
 
 Kanta iron is bitter in taste, warm in touch, but produces a cooling effect in the system. It is a go od rasayanam (*i.e*. a medicine which, if used in the prescribed manner, can prevent and cure diseases and senility). It imparts long life to a healthy man (who takes it regularly). It is soothing. If taken with suitable anupanam, it can cure all the diseases, especially, spermatorrhoea, colic, dysentery, excess of the three doshas, piles, fistula, gulma, enlargement of the spleen and liver, phthisis, jaundice, and udara-roga.
 
-लौहस्य शोधनम् ।[\*](# "शोधनार्थं पत्तलीकृतं लौहपत्रमेव सर्व्वदा व्यवहार्य्यम् ।")
+लौहस्य शोधनम् ।\*[^7]
 
 प्रथमोविधिः ।
+
+[^7]: "शोधनार्थं पत्तलीकृतं लौहपत्रमेव सर्व्वदा व्यवहार्य्यम् ।"
 
 **पत्तलीकृतपत्रानि लौहस्याग्नौ प्रतापयेत् ।**  
 
@@ -802,9 +816,11 @@ Kanta iron is bitter in taste, warm in touch, but produces a cooling effect in t
 
 **एवं लौहस्य पत्राणां विशुद्धिः संप्रजायते ॥**
 
-Purification of iron.[**\***](# "Iron is, first of all, to be heated and hammered into thin leaves before it is purified.")
+Purification of iron.**\***[^8]
 
 **First process.**
+
+[^8]: "Iron is, first of all, to be heated and hammered into thin leaves before it is purified."
 
 (See Second process, page 242, vol. II.)
 
@@ -886,7 +902,9 @@ Iron leaf is purified, if it is coated with a dense solution of sea salt, then h
 
 **NINTH PROCESS.**
 
- A solution is to be made of the five salts, the two ksharas, the juice of shobhanjana, and the [amlavarga](# " For amla-varga, see page 301, Vol 1. Details of salts and ksharas will be given later in the present volume.").This is to be exposed to the heat of the sun for one day. Kanta iron is purified, if it is boiled for one day by means of a Dola-Jantram containing this solution.
+ A solution is to be made of the five salts, the two ksharas, the juice of shobhanjana, and the amlavarga[^9].This is to be exposed to the heat of the sun for one day. Kanta iron is purified, if it is boiled for one day by means of a Dola-Jantram containing this solution.
+
+[^9]: " For amla-varga, see page 301, Vol 1. Details of salts and ksharas will be given later in the present volume."
 
 लौहस्य मारणम् ।
 
@@ -1053,7 +1071,9 @@ Iron is incinerated, if it is heated red hot and then immersed for several times
 
 **पश्चाद्भावपुटाश्च पंच सततं पंचामृतानां पुनस्तच्चूर्णं**  
 
-**दशांशदरदयुतं मर्द्यं च क्षीरे स्त्रियाम् ॥[\*](# "दथि दुग्धं घृतञ्चैव शर्करासंयुतं मधु । पञ्चामृतमिदं प्रोक्तं विधेयं शुभकर्म्मसु ॥")**  
+**दशांशदरदयुतं मर्द्यं च क्षीरे स्त्रियाम् ॥\*[^10]**  
+
+[^10]: "दथि दुग्धं घृतञ्चैव शर्करासंयुतं मधु । पञ्चामृतमिदं प्रोक्तं विधेयं शुभकर्म्मसु ॥"
 
 **गोदुग्धे च दिवात्रोपि संततं पिष्ट्वाच भावाः ।**  
 
@@ -1429,13 +1449,17 @@ Increase in the number of putam is calculated to increase the efficacy of a meta
 
 भानुपाकविधिः ।
 
-[लौहदृशदि लौहञ्च](# "लौहद्नशदि लौहखल्वेइत्यर्थः ।") मद्गरेण हतं मुहुः ।  
+लौहदृशदि लौहञ्च[^11] मद्गरेण हतं मुहुः ।  
+
+[^11]: "लौहद्नशदि लौहखल्वेइत्यर्थः ।"
 
 कृत्वाम्बुगलितं शुद्धं जलेन त्रैफलेन वा ॥  
 
 क्षालयेद्बहुशः पश्चाद् द्रवाच्चैव विमोचयेत् ।  
 
-शोषयेद् [भानुभिः पुनर्भानुपाके](# "भानुभिः सूर्य्यरश्मिभिः ।") प्रयोजयेत् ॥  
+शोषयेद् भानुभिः पुनर्भानुपाके[^12] प्रयोजयेत् ॥  
+
+[^12]: "भानुभिः सूर्य्यरश्मिभिः ।"
 
 **प्रदेयं भानुपाके तु लौहतुल्यं फलत्रिकम् ।**  
 
@@ -1825,7 +1849,9 @@ Shiva is to be worshipped on a piece of land, duly cleansed, on a day consisdere
 
 **चतुर्भिः प्रहारैरेव पुटपाकेन मारयेत् ॥**  
 
-**कुक्कुटपुटसंज्ञोऽयं पुटपाको विकथ्यते ॥[\*](# "प्रथम खण्डे २१३ – २६६ पृष्ठाः द्रष्टव्याः")**  
+**कुक्कुटपुटसंज्ञोऽयं पुटपाको विकथ्यते ॥\*[^13]**  
+
+[^13]: "प्रथम खण्डे २१३ – २६६ पृष्ठाः द्रष्टव्याः"
 
 **पुटपाकेक्षणादूर्द्ध्वंस्थितो भवति भस्मसात् ॥**  
 
@@ -1839,9 +1865,11 @@ How to heat a thing by putam.
 
    
 
-The material which is meant to be heated by putam is to be dried up by sun's rays, and put upon an earthen basin, covered by another basin of the same kind, the joint being closed by means of mud and rags. The basins, thus joined, are called putam, samputam or sharaba-samputam. Heating of materials, confined in this appartus, is called puta-paka.[**\***](# "See page 293 and 296, Vol. I.")
+The material which is meant to be heated by putam is to be dried up by sun's rays, and put upon an earthen basin, covered by another basin of the same kind, the joint being closed by means of mud and rags. The basins, thus joined, are called putam, samputam or sharaba-samputam. Heating of materials, confined in this appartus, is called puta-paka.**\***[^14]
 
  
+
+[^14]: "See page 293 and 296, Vol. I."
 
 Fill up one half of a cubical pit, one cubit in dimensions, with cowdung cakes or wood and husks, set fire to it, and place the samputam containing iron, etc, upon the heap. Fill up the remaining half of the pit with cowdung cakes, etc. Such a fire is to be kept burning for 12 hours continuously. When cooled of itself, the samputam is to be taken out, and the iron, etc, to be obtained, breaking open the samputam. Heating in this way is known by the name of kukkuta putam (see page 296, Vol. 1) Heated in this way, even a little longer than the prescribed time of 12 hours at a time, the contents of the iron becomes incinerated; but they lose in quality, if they are heated for a shorter than the time prescribed.
 
@@ -2105,7 +2133,9 @@ Removal of defects of iron incinerated without mercury.
 
 
 
-The iron is to be powdered each time after it is heated in the afore-said way. Sixteen palas of this [iron](# "Iron is generally not to be prepared in quantities greater than 13 palas. The present case is an exception.") is to be roasted in an iron cauldron with a decoction prepared from triphala, seventeen palas in weight, boiled with 136 palas of water which is to be reduced to seventeen palas. In course of the roasting, eight palas of clarified butter is to be put into the iron which is to be turned all along with an iron ladle. The preparation is to be considered complete, as soon as the clarifled butter is found to float on the surface in a clear state. It may however be still roasted according as it is intended to make it soft, harder, and very stiff (see process No. 5 page 77.)
+The iron is to be powdered each time after it is heated in the afore-said way. Sixteen palas of this iron[^15] is to be roasted in an iron cauldron with a decoction prepared from triphala, seventeen palas in weight, boiled with 136 palas of water which is to be reduced to seventeen palas. In course of the roasting, eight palas of clarified butter is to be put into the iron which is to be turned all along with an iron ladle. The preparation is to be considered complete, as soon as the clarifled butter is found to float on the surface in a clear state. It may however be still roasted according as it is intended to make it soft, harder, and very stiff (see process No. 5 page 77.)
+
+[^15]: "Iron is generally not to be prepared in quantities greater than 13 palas. The present case is an exception."
 
  
 
@@ -2448,7 +2478,9 @@ Incinerated iron is to be taken with hingu (purified by being fried with ghee) a
 
 **लावकस्तित्तिरिर्गोधा मयूरशशकादयः ।**  
 
-**वटकः [कलविंकश्च](# "कलविंकश्चटकः ।") वर्त्तिश्च हरितालकः ॥**  
+**वटकः कलविंकश्च[^16] वर्त्तिश्च हरितालकः ॥**  
+
+[^16]: "कलविंकश्चटकः ।"
 
 **श्येनकञ्च बृहल्लावो वनविस्किरकादयः ।**  
 ****
@@ -2612,7 +2644,9 @@ Evil effects of impure iron are removed, if one takes biranga, previously rubbed
 
 ( १ )
 
-**देवदालीरसै र्भाव्यं गन्धकं दिनसप्तकम्।[\*](# " द्रते द्रव्यान्तरक्षेपो लौहादौ क्रियते हि यत् । स प्रवापः प्रतीवापस्तदेवाच्छादनं मतम् ॥")**  
+**देवदालीरसै र्भाव्यं गन्धकं दिनसप्तकम्।\*[^17]**  
+
+[^17]: " द्रते द्रव्यान्तरक्षेपो लौहादौ क्रियते हि यत् । स प्रवापः प्रतीवापस्तदेवाच्छादनं मतम् ॥"
 
 **तेन प्रवापमात्रेण लौहं तिष्ठति सूतवत्॥**
 
@@ -2790,7 +2824,9 @@ CHAPTER II.
 
 **अथ यशोदम् ।**
 
-**रसकस्य विजानीयाद्यशोदं सत्वमेव हि ।[\*](# " द्वितीयखण्डे १२५ पृष्ठं द्रष्टव्यम् ।")**  
+**रसकस्य विजानीयाद्यशोदं सत्वमेव हि ।\*[^18]**  
+
+[^18]: " द्वितीयखण्डे १२५ पृष्ठं द्रष्टव्यम् ।"
 
 **तदेव खलु वैद्यानां यशोदं धीमतां परम् ॥**
 
@@ -2899,9 +2935,13 @@ Fine leaves of zinc are incinerated, if they are subjected to heat by Gajaputam 
 
 **नागवङ्गप्रकारेण यशोदमपि मार्य्यते ।**  
 
-**तयोरेव प्रकारेण शोधनीयमपि हि तत् ॥[\*](# "अग्रे वङ्गनागप्रकरणद्रष्टव्यम् ।")**
+**तयोरेव प्रकारेण शोधनीयमपि हि तत् ॥\*[^19]**
 
-Zinc may also be purified and incinerated in the same manner as vanga (tin) and sisaka (lead) [\*](# "See page 102.").
+[^19]: "अग्रे वङ्गनागप्रकरणद्रष्टव्यम् ।"
+
+Zinc may also be purified and incinerated in the same manner as vanga (tin) and sisaka (lead) \*[^20].
+
+[^20]: "See page 102."
 
 यशोदस्यानुपानानि ।
 
@@ -3287,16 +3327,20 @@ Vanga is incinerated, if it is subjected to heat by putam, after having been sme
 गोमूत्रकशिलाधातुजलैः सम्यग् विमर्दयेत् ।  
 ततः गुग्गुलुतोयेन मर्दयित्वा दिनाष्टकम् ॥  
 विशोष्य परिचूर्ण्याऽथ समभागेन योजयेत् ।  
-भृष्टबब्बूरनिर्य्यासैराकुलीबीजचूर्णकैः ॥[\*](# "घृष्टं बन्धूकनिर्य्यासैर्नाकुलीबीजचूर्णकैः । इत्येतत् पाठान्तरम् ।")  
+भृष्टबब्बूरनिर्य्यासैराकुलीबीजचूर्णकैः ॥\*[^21]  
 ततः क्षिपेत् करंडान्तर्विधाय पटगालितम् ।  
 गोतक्रपिष्टरात्रीणां सारेण सह दापयेत्।  
 धातुपुष्टिकरं चैतत् प्रमेहकुलनाशनम् ॥
+
+[^21]: "घृष्टं बन्धूकनिर्य्यासैर्नाकुलीबीजचूर्णकैः । इत्येतत् पाठान्तरम् ।"
 
 Vanga-kalpa.
 
  
 
-Tin, kanta iron, and mica—all equal in quantities and reduced to ashes, are to be rubbed with the juices of leaves of kanaka dhutura, nimba, pomegranate, and apamarga, respectively and separately. Incinerated rajavarta,[\*](# "See chapter on gems in the present volume.") equal in quantity to the tin, is then to be mixed with the compound, referred to above, and the whole thing is to be rubbed well with cow's urine, and shila-jatu dissolved with water.The product is then to be rubbed for eight days with guggulu (duly purified by means of being boiled in a Dola-Jantram with the decoction of guruchi, dasha- muli, or triphala ), dissolved with water. It is then to be dried, powdered, and mixed with an equal quantity of gum of babbula (acacia), fried by heat and reduced to powder, and with the same quantity of the powder of akuli (nirmali) seeds. The whole thing is then to be finely powdered and sifted by means of a piece of cloth and kept carefully. This medicine cures all sorts of meha and prameha, if taken with the juice of turmeric, pestled with butter-milk (prepared from cow's milk).
+Tin, kanta iron, and mica—all equal in quantities and reduced to ashes, are to be rubbed with the juices of leaves of kanaka dhutura, nimba, pomegranate, and apamarga, respectively and separately. Incinerated rajavarta,\*[^22] equal in quantity to the tin, is then to be mixed with the compound, referred to above, and the whole thing is to be rubbed well with cow's urine, and shila-jatu dissolved with water.The product is then to be rubbed for eight days with guggulu (duly purified by means of being boiled in a Dola-Jantram with the decoction of guruchi, dasha- muli, or triphala ), dissolved with water. It is then to be dried, powdered, and mixed with an equal quantity of gum of babbula (acacia), fried by heat and reduced to powder, and with the same quantity of the powder of akuli (nirmali) seeds. The whole thing is then to be finely powdered and sifted by means of a piece of cloth and kept carefully. This medicine cures all sorts of meha and prameha, if taken with the juice of turmeric, pestled with butter-milk (prepared from cow's milk).
+
+[^22]: "See chapter on gems in the present volume."
 
 **चतुर्भिर्वल्लकैस्तुल्यमेतद् वंगं रसायनम् ।  
 निश्चितं तेन नश्यन्ति मेहा विंशतिभेदकाः ॥  
@@ -3549,7 +3593,9 @@ Powdered root of nirgundi, barahi-kanda, and haridra are to be thrown into molte
 जम्बोरैरारनालैर्वा पिष्टा रुद्ध्वापुटेपचेत् ॥**  
 
 **स्वांगशैत्यं पुनः पिष्टाविंशत्यंशैः शिलाम्लकैः ।  
-एवं [षड़्भिःपुटैः](# " षड्भिःपुटैः इत्येतस्य स्थले षष्टिपुटैः इत्येतत् पाटान्तरं द्रष्टव्यम् ।") पाको नागं कुर्य्यात् निरुत्थितम् ॥**
+एवं षड़्भिःपुटैः[^23] पाको नागं कुर्य्यात् निरुत्थितम् ॥**
+
+[^23]: " षड्भिःपुटैः इत्येतस्य स्थले षष्टिपुटैः इत्येतत् पाटान्तरं द्रष्टव्यम् ।"
 
 Incineration of Lead.
 
@@ -3593,9 +3639,11 @@ Incineration of Lead.
 **पञ्चमोविधिः ।**
 
 **हतमुत्थापितं सीसं दशवारेण सिध्यति ।  
-तन्मृतं सीसकं सर्वदोषमुक्तं रसायनम् ॥**[**_(\*)**](# "धातूनामनिरुत्थभस्म केनचिदम्लरसेन सार्द्धंमर्दितं ध्मापितं च पूर्वाकारमवाप्नुयात् । यथा हि-क्षारा मुखकराः सर्वे सर्वेह्यम्लाः प्रबोधकाः ।")
+तन्मृतं सीसकं सर्वदोषमुक्तं रसायनम् ॥****_(\*)**[^24]
 
 **Fifth process.**
+
+[^24]: "धातूनामनिरुत्थभस्म केनचिदम्लरसेन सार्द्धंमर्दितं ध्मापितं च पूर्वाकारमवाप्नुयात् । यथा हि-क्षारा मुखकराः सर्वे सर्वेह्यम्लाः प्रबोधकाः ।"
 
 ** **Lead, killed and revived for ten times, is to be killed once more. The ashes, thus obtained, are freed from all defects and serve as a medicine which prevents and cures senility.
 
@@ -3756,9 +3804,11 @@ Incineration of Lead.
 
  Lead is to be smeared with a paste made of the leaves of vasaka. It is then to be melted and roasted for three hours with a decoction of vasaka and apamarga or one fourth its quantity of a kshara (alkali) prepared out of the ashes of vasaka and apamarga
 
-[_(\*)](# "The process of preparation of ksharas will be described later in the present volume.")
+_(\*)[^25]
 
 , a branch of a strong vasaka tree being used as a ladle to turn the preparation. The ashes are then to be subjected to putam for seven times, after having been rubbed each time with the juice of vasaka. The product is sindura or red vermilion. The process of preparation of ksharas will be described later in the present volume. It gains in efficacy, if mixed with one fourth its quantity of hingula (duly purified).
+
+[^25]: "The process of preparation of ksharas will be described later in the present volume."
 
 **अष्टादशोविधिः ।**  
 ****
@@ -3834,7 +3884,9 @@ Two palas of lead incinerated (without the help of mercury), an equal quantity o
 
 ( 2 )
 
- Four parts of incinerated lead, two parts of swarna-makshika, and one part each of copper, vimala, kanta iron, essence of mica, and sphatika ([quartz](# "* For incineration of quartz, see later in the chapter on genes")) — all of these are to be powdered together and subjected to heat by putam for 30 times, by means of a fire made of 30 pieces of cowdung cakes, found dried in the pasturage, after having been rubbed each time with decoction of triphala. The ashes, thus prepared, are to be mixed with an equal quantity of trikatu and biranga, finely powdered, and are to be taken in doses of one balla a day, duly mixed with a little of honey and clarified butter.It cures eighty different kinds of diseases due to an abnormal excess of vayu, and especially dhanus-stanbha (titanus), those due to an abnormal excess of phlegm, all sorts of urinary diseases, asthma, kapha, phthisis, anemia, dropsy, fever accompanied with a sensation of coldness, and hydrocele.
+ Four parts of incinerated lead, two parts of swarna-makshika, and one part each of copper, vimala, kanta iron, essence of mica, and sphatika (quartz[^26]) — all of these are to be powdered together and subjected to heat by putam for 30 times, by means of a fire made of 30 pieces of cowdung cakes, found dried in the pasturage, after having been rubbed each time with decoction of triphala. The ashes, thus prepared, are to be mixed with an equal quantity of trikatu and biranga, finely powdered, and are to be taken in doses of one balla a day, duly mixed with a little of honey and clarified butter.It cures eighty different kinds of diseases due to an abnormal excess of vayu, and especially dhanus-stanbha (titanus), those due to an abnormal excess of phlegm, all sorts of urinary diseases, asthma, kapha, phthisis, anemia, dropsy, fever accompanied with a sensation of coldness, and hydrocele.
+
+[^26]: "* For incineration of quartz, see later in the chapter on genes"
 
 **नागस्य अनुपानम् ।**
 
@@ -4136,15 +4188,19 @@ Characteristics of bad bell-metal.
 
 **भुक्तमारोग्यसुखदं हितं सात्म्यकरं तथा ।**  
 
-**रससेवी न भुञ्जीत कांस्ये च कदलीदले ॥[\*](# " प्रथमखण्डे २०४ पृष्ठ द्रष्टव्यम् ।")**
+**रससेवी न भुञ्जीत कांस्ये च कदलीदले ॥\*[^27]**
+
+[^27]: " प्रथमखण्डे २०४ पृष्ठ द्रष्टव्यम् ।"
 
 Properties of Bell-metal.
 
  
 
-Bell-metal is light, bitter, and warm, reducer of fat, improver of eye-sight, curer of worms and leprosy, pacifier of vayu and pittam, increaser of power of digestion. Every article of food stuff, except clarified butter, becomes salutary to the system, if served on utensils made of bell-metal. One who takes a mercurial preparation should not take his food served on a bell-metal utensil.[\*](# " See page 204, Vol. I.")
+Bell-metal is light, bitter, and warm, reducer of fat, improver of eye-sight, curer of worms and leprosy, pacifier of vayu and pittam, increaser of power of digestion. Every article of food stuff, except clarified butter, becomes salutary to the system, if served on utensils made of bell-metal. One who takes a mercurial preparation should not take his food served on a bell-metal utensil.\*[^28]
 
 **अस्य शोधनम् ।**
+
+[^28]: " See page 204, Vol. I."
 
 **प्रथमोविधिः ।**
 
@@ -4277,13 +4333,17 @@ One who takes every morning one racti of incinerated tri-loha, mixed with honey,
 **अथ भूनागसत्त्वम् ।**
 
 **भूनागान् स्वर्णभूमिजान् स्वर्णसत्त्वान् विजानीयात् ।  
-इत्येवं ज्ञायते सत्त्वं तेषां जनुस्थलक्रमात् ॥[\*](# "द्वितीय खण्डे २३४ पृष्ठं द्रष्टव्यम् ।")  
+इत्येवं ज्ञायते सत्त्वं तेषां जनुस्थलक्रमात् ॥\*[^29]  
 वज्राणां द्रावणार्थाय सत्त्वं भूनागजं श्रेयः ।  
 तदेव परमं तेजः सूतराजेन्द्रवज्रयोः ॥**
 
-Essence of Earthworms.[\*](# "See page 234, Vol. II,")
+[^29]: "द्वितीय खण्डे २३४ पृष्ठं द्रष्टव्यम् ।"
+
+Essence of Earthworms.\*[^30]
 
  
+
+[^30]: "See page 234, Vol. II,"
 
 Gold is the essence of earthworms growing in the vicinity of gold mines. The nature of the essence of other earthworms is similarly ascertained with reference to the nature of their place of birth. Essenceof earthworms (whether gold, silver, iron, or copper) is useful for the purpose of liquefaction of diamonds and other hard stones. It also increases the potency of mercury and diamonds.
 
@@ -4291,7 +4351,7 @@ Gold is the essence of earthworms growing in the vicinity of gold mines. The nat
 
 धौतं भूनागसम्भूतं मर्दयेद् भृङ्गजद्रवैः ।  
 निम्बुद्रवैश्च निर्गुण्ड्याः स्वरसैस्त्रिदिनं पृथक् ॥  
-तद्द्रावणगणोपेतं संमर्द्यवटकीकृतम् ।[\*](# "प्रथम खण्डे ३०५ पृष्ठं द्रष्टव्यम् ।")  
+तद्द्रावणगणोपेतं संमर्द्यवटकीकृतम् ।\*[^31]  
 निरुध्य दृढ़मूषायां द्विदण्डं प्रधमेद् दृढ़म् ॥  
 स्वतः शीतं समाहृत्य पट्टके विनिवेश्य तत् ।  
 रवकान् राजिकातुल्यान् रेणूनतिभरान्वितान् ॥  
@@ -4301,11 +4361,15 @@ Gold is the essence of earthworms growing in the vicinity of gold mines. The nat
 खरसत्त्वमिदं प्रोक्तं रसायनमनुत्तमम् ।  
 द्वित्रमूषासु वैकस्यां सत्त्वं भवति निश्चितम् ॥
 
+[^31]: "प्रथम खण्डे ३०५ पृष्ठं द्रष्टव्यम् ।"
+
 Khara-sattwam.
 
 
 
-Essence of earthworms is to be cleansed with water, and rubbed for one day each with the juice of bhringa-raja, nimboo (lemon fruit), and nirgundi. It is then to be rubbed with the Dravana-varga[\*](# "See page 305, Vol. I.") andmade into a lump, which is to be confined in a strong crucible, and heated steadily for forty eight minutes. When cooled of itself, the contents of the crucible are to be taken out and kept on a piece of smooth stone slab from which are to be collected the heavy metallic dusts of the shape of mustard seeds. These are to be mixed with one twelfth their weight of copper, and again heated in a crucible. The metallic dust is then to be separated from foreign matter by being washed off with water. It is then to be used for the liquefaction of diamond, etc. It is called khara-sattwam. It is not a good rasayanam (a medicine which can prevent and cure senile decay).
+Essence of earthworms is to be cleansed with water, and rubbed for one day each with the juice of bhringa-raja, nimboo (lemon fruit), and nirgundi. It is then to be rubbed with the Dravana-varga\*[^32] andmade into a lump, which is to be confined in a strong crucible, and heated steadily for forty eight minutes. When cooled of itself, the contents of the crucible are to be taken out and kept on a piece of smooth stone slab from which are to be collected the heavy metallic dusts of the shape of mustard seeds. These are to be mixed with one twelfth their weight of copper, and again heated in a crucible. The metallic dust is then to be separated from foreign matter by being washed off with water. It is then to be used for the liquefaction of diamond, etc. It is called khara-sattwam. It is not a good rasayanam (a medicine which can prevent and cure senile decay).
+
+[^32]: "See page 305, Vol. I."
 
 **भूनागस्य श्रेष्ठसत्त्वपातनविधिः ।**
 
@@ -4316,7 +4380,9 @@ Essence of earthworms is to be cleansed with water, and rubbed for one day each 
 क्रमेण चारयित्वाऽथ तद्विष्ठां समुपाहरेत् ।  
 क्षाराम्लैः सह संपेष्य विशोष्य च खरातपे ॥  
 ततः खर्परके क्षिप्त्वा भर्जयित्वा मसीं चरेत् ।  
-मसीं द्रावणवर्गेण संयुक्तां संप्रमर्दिताम् ॥[\*](# "प्रथमखण्डे ३०५ पृष्ठं द्रष्टव्यम् ।")**  
+मसीं द्रावणवर्गेण संयुक्तां संप्रमर्दिताम् ॥\*[^33]**  
+
+[^33]: "प्रथमखण्डे ३०५ पृष्ठं द्रष्टव्यम् ।"
 
 **निरुध्यकोष्ठिकामध्ये प्रधमेद् घटिकाद्वयम् ।  
 शीतलीभूतमूषायाः खोटमाहृत्य पेषयेत् ॥  
@@ -4844,8 +4910,10 @@ Special directions.
 **चतुर्थोविधिः ।**
 
 **मेषशृङ्गंभुजङ्गास्थि कूर्म्मपृष्ठाम्लवेतसैः ।  
-[गजदन्त](# "गजदन्त इत्येतस्य स्थले शशदन्त इति पाठान्तरम् ।")समं पिष्टा वज्रीदुग्धेन गोलकम्  
+गजदन्त[^34]समं पिष्टा वज्रीदुग्धेन गोलकम्  
 कृत्वा तन्मध्यगं वज्रं मार्यते धमनेन च ॥**
+
+[^34]: "गजदन्त इत्येतस्य स्थले शशदन्त इति पाठान्तरम् ।"
 
 **Fourth process.**
 
@@ -4913,9 +4981,11 @@ Diamond is incinerated, if it is heated 21 times and immersed each time into fro
 **एकादशोविधिः ।**
 
 **विलिप्तंमत्कुणस्यास्त्रैःसप्तवारं विशोषितम् ।  
-कासमर्दरसापूर्णे लौहपात्रे [निवेशितम्](# "लौहपात्रे इत्येतस्य स्थले ताम्रपात्रे इत्येतत् पाठान्तरम् ।") ॥  
+कासमर्दरसापूर्णे लौहपात्रे निवेशितम्[^35] ॥  
 सप्तवारं परिध्मातं वज्रं भस्म भवेत् खलु ।  
 ब्रह्मज्योतिर्मुनीन्द्रेण क्रमोऽयं परिकीर्त्तितः ॥**
+
+[^35]: "लौहपात्रे इत्येतस्य स्थले ताम्रपात्रे इत्येतत् पाठान्तरम् ।"
 
 **Eleventh process.**
 
@@ -5435,8 +5505,10 @@ Its variety.
 Manikya is of four kinds, viz. (1) padma-raga, (2) kuruvindaja, (3 saugandhika, and (4) nilagandhi.  
  The best of the former is lotus-coloured (i.e. white red), transparent, gladening to the eyes, highly bright, round-shaped, smooth, and heavy.  
  Kuruvindaja, which grows from a stone named Kuruvindam (corundum), is highly red and beautiful. Saugandhika, which grows out of sugandhika (spinel), is yellowish red.  
-  Nila-gandhi is generally obtained from the bed of the river, Nila-[ganga](# "One of the tributaries of the river, Ganges, falling into it near Hardwar."). It is red in colour with a bluish lustre emerging from inside.  
+  Nila-gandhi is generally obtained from the bed of the river, Nila-ganga[^36]. It is red in colour with a bluish lustre emerging from inside.  
  This classification of the rubies is in order of their excellence.
+
+[^36]: "One of the tributaries of the river, Ganges, falling into it near Hardwar."
 
 **शस्तमाणिक्यस्य लक्षणम् ।**
 
@@ -5468,7 +5540,7 @@ They are as follows :—holes, ugliness, absence of lustre, roughness, absence o
 (२)
 
 छायाद्वितयसम्बन्धात् *द्विच्छायं* बन्धुनाशनम् ।  
-*द्विरूपं* [द्विपदं](# " द्विपदं काकपादमित्यर्थः ।") तेन माणिक्येन पराभवः ॥  
+*द्विरूपं* द्विपदं[^37] तेन माणिक्येन पराभवः ॥  
 *सम्भेदो* भिन्नमित्युक्तं शस्त्राघातविधायकम् ।  
 *कर्करं* कर्करायुक्तं पशुबन्धुविनाशकृत् ॥  
 दुग्धेनेव समालिप्तंपुटके यस्तु सम्भवेत् ।  
@@ -5477,6 +5549,8 @@ They are as follows :—holes, ugliness, absence of lustre, roughness, absence o
 आयुर्लक्ष्मीं यशो हन्ति सदोषं तन् न धारयेत् ॥  
 रागहीनं *जलं* प्रोक्तं धनधान्यापवादकृत् ।  
 धूम्रं धूमसमाकारं वैद्युतं भयमावहेत् ॥
+
+[^37]: " द्विपदं काकपादमित्यर्थः ।"
 
 \(2\)
 
@@ -5869,9 +5943,13 @@ A good indra-nila is of uniform lustre, heavy, appearing to be smeared with an o
 
 जलनीलस्य भेदाः ।
 
-**कोमलं विहितं रुक्षं निर्भारं रक्तगन्धि च ॥[\*](# "कोमलमिति पञ्चवर्णम् । विहितमित्यर्द्धभागेन सम्पूर्णवणमर्द्धेन कोमलम् ।")**  
+**कोमलं विहितं रुक्षं निर्भारं रक्तगन्धि च ॥\*[^38]**  
 
-**[चिपिटाकृति](# "+ चिपिटाभमिति पाठान्तरम् द्रष्टव्यम् ।") सूक्ष्मं च जलनीलं हि सप्तधा ॥**
+[^38]: "कोमलमिति पञ्चवर्णम् । विहितमित्यर्द्धभागेन सम्पूर्णवणमर्द्धेन कोमलम् ।"
+
+**चिपिटाकृति[^39] सूक्ष्मं च जलनीलं हि सप्तधा ॥**
+
+[^39]: "+ चिपिटाभमिति पाठान्तरम् द्रष्टव्यम् ।"
 
 Varieties of Jala-nila.
 
@@ -6260,7 +6338,9 @@ See Process No III. page 194.
 वज्रस्थाने वैकान्तस्य व्यवहारः ।
 
 भस्मीभूतं हि वैक्रान्तं वज्रस्थाने नियोजयेत् ।  
-मोक्षमोरटपालाशक्षार [गोमूत्रभावितम्](# "मोरटं लताकराड़ इति भाषा ।") ॥
+मोक्षमोरटपालाशक्षार गोमूत्रभावितम्[^40] ॥
+
+[^40]: "मोरटं लताकराड़ इति भाषा ।"
 
 Use of garnet in place of diamond.
 
@@ -6286,8 +6366,10 @@ Tuber of shurana, haridra; powdered madana fruit, tankana, powdered laksha (laci
 
 ( २ )
 
-**सत्त्वपातनयोगेन मर्दितश्च [वटीकृतः](# "२य खण्डे ४७ पृष्ठं द्रष्टव्यम् ।") ।  
+**सत्त्वपातनयोगेन मर्दितश्च वटीकृतः[^41] ।  
 मूषास्थो घटिकाध्मातो वैक्रान्तः सत्त्वमुत्सृजेत् ॥**
+
+[^41]: "२य खण्डे ४७ पृष्ठं द्रष्टव्यम् ।"
 
 \(2\)
 
@@ -6299,10 +6381,12 @@ Essence of Vaikranta can be extracted, if the ashes of vaikranta are mixed with 
 
 ( १ )
 
-भस्मत्वं समुपागतो [विकृतको](# "विकृतक इति वैक्रान्तम् ।") हेम्ना मृतेनान्वितः ।  
+भस्मत्वं समुपागतो विकृतको[^42] हेम्ना मृतेनान्वितः ।  
 पादांशेन कणाज्यवेल्लसहितो गुञ्जामितः सेवितः ।  
 यक्ष्माणं जठरं च पाण्डुगुदजं श्वासं च कासामयम्  
 दुष्टां च ग्रहणीमुरःक्षतमुखान् रोगान् जयेद्देहकृत् ॥
+
+[^42]: "विकृतक इति वैक्रान्तम् ।"
 
 *Uses of Vaikranta.*
 
@@ -6766,7 +6850,9 @@ Bhisma-manis of the following description are to be avoided:—(1) Those which h
 **श्वासकासहरं वृष्यं त्रिदोषघ्नं सुदीपनम् ।  
 विषमज्वरदुर्नामपापघ्नंनीलमीरितम् ॥**
 
-Properties of [sapphire](# "दामेति प्रकृत्या खण्डित  सविग्रहं दानेति भाषा ।").
+Properties of sapphire[^43].
+
+[^43]: "दामेति प्रकृत्या खण्डित  सविग्रहं दानेति भाषा ।"
 
  
 
@@ -6783,7 +6869,9 @@ Uparatnas Amorphous stones.
 
  
 
-There are innumerable minor or amorphous stones. The best of all these are the following:— (1) palanka (onyx), (2) rudhiram (carnelian) (3) puttika (peridote), (4) turkshajam (turquoise-biraja or peroja [\*](# "The Persinan epithet ")), (5) pilu (jade ) (6) upalam (opal, chalcedony, and agate), and sugandhikam (spinel).  
+There are innumerable minor or amorphous stones. The best of all these are the following:— (1) palanka (onyx), (2) rudhiram (carnelian) (3) puttika (peridote), (4) turkshajam (turquoise-biraja or peroja \*[^44]), (5) pilu (jade ) (6) upalam (opal, chalcedony, and agate), and sugandhikam (spinel).  
+
+[^44]: "The Persinan epithet "
 
 
 
@@ -6899,7 +6987,9 @@ Sugandhikam is of various colours, viz.blue, black, red, etc. Each of these ston
 **उपरत्नानां सामान्यगुणाः ।**
 
 **उपरत्नं वरं यत् तु तत् किञ्चित् सूयते फलम् ।  
-ईषद्रत्नगुणं तत् तु विभर्त्तीति विदां मतम् ॥[\*](# "१६५ पृष्ठे रत्नानां सामान्यगुणाः द्रष्टव्याः ।")**
+ईषद्रत्नगुणं तत् तु विभर्त्तीति विदां मतम् ॥\*[^45]**
+
+[^45]: "१६५ पृष्ठे रत्नानां सामान्यगुणाः द्रष्टव्याः ।"
 
 General Properties of Amorphous Stones.
 
@@ -6955,7 +7045,9 @@ CHAPTER V
  Nava-sara (sal-ammoniac) is also a kshara but it is generally classed with the uparasas, simply because it possesses, to a certain extent, some of the properties of mercury (See page 215, vol, II). It is also called "pakima" (from root "pach", meaning to putrefy), simply because it is obtained from materials in a state of putrefaction or decomposition.  
  Ksharas obtained from the following are also well-known and widely used :--trees or plants of the name of palasha, aswattha, ghanta-patali, dhava, snuhi, apamarga, chanaka-plant, arka, covers of tamarind beans, sesamum plant, ears of barley, basaka, duralabha, kantikari, mulaka (raddish), chitraka, punarnava, and ardraka (ginger).  
  There are many other trees, plants, shrubs, creepers, and grass from which ksharas may be prepared by the method to be described below.  
- Of all the ksharas, the most widely known are the following:—(1) java-kshara, (2) swarji (refined natron), (3) usara (nitre ^([1](# "The colloquial Indian name for nitre is sora or soraka, which are the corrupted forms of the sanskrit usara and usaraka, respectively, all of these words being synonymous Now, usara (or usarakat is a word which has been in use in its present sense even from the pre-historic times. This word is to be found in every sanskrit dictionary, modern or ancient, and even in sushruta."))), (4) nava-sara, and (5) tankana (borax).
+ Of all the ksharas, the most widely known are the following:—(1) java-kshara, (2) swarji (refined natron), (3) usara (nitre ^(1[^46])), (4) nava-sara, and (5) tankana (borax).
+
+[^46]: "The colloquial Indian name for nitre is sora or soraka, which are the corrupted forms of the sanskrit usara and usaraka, respectively, all of these words being synonymous Now, usara (or usarakat is a word which has been in use in its present sense even from the pre-historic times. This word is to be found in every sanskrit dictionary, modern or ancient, and even in sushruta."
 
 ——————————————————————————————————
 
@@ -7019,7 +7111,9 @@ The ksharas are acrid, warm, increasers of appetite, light, moistening, causing 
 चूर्णाभः प्रतिसार्यः स्यात् पेयः स्यात् क्वाथवत्स्थितः ।  
 इति क्षारद्वयं धीमान् युक्तकार्येषु योजयेत् ॥**
 
-General Process of manufacturing [kshara](# "The word kshara has undergone a gradual process of transformation as follows:-khara-khari-kali-kili-alkili-alkali.")  
+General Process of manufacturing kshara[^47]  
+
+[^47]: "The word kshara has undergone a gradual process of transformation as follows:-khara-khari-kali-kili-alkili-alkali."
 
 from ashes.
 
@@ -7076,7 +7170,9 @@ It reduces fat and purifies the kidneys.
 
 **भौमक्षाराः ।**
 
-**(१) ऊषरक्षारः ॥[\*](# " द्वितीयखण्डे १०४ पृष्ठे ऊषराख्यं शिलाजतु द्रष्टव्यम् ।")**
+**(१) ऊषरक्षारः ॥\*[^48]**
+
+[^48]: " द्वितीयखण्डे १०४ पृष्ठे ऊषराख्यं शिलाजतु द्रष्टव्यम् ।"
 
 **अस्य निर्माणविधिः**
 
@@ -7188,16 +7284,20 @@ Artificial swarji-kshara.
 
 
 
-In the absense of swarji-kshara, as manufactured in the way stated above, physicians sometimes use, as its substitute, a kshara prepared from the ashes of duralabha or small duralabha.[\*](# "The small variety grows in abundance in barren tracts of land, and especially in the Punjab where it is called ")
+In the absense of swarji-kshara, as manufactured in the way stated above, physicians sometimes use, as its substitute, a kshara prepared from the ashes of duralabha or small duralabha.\*[^49]
 
 **(३) टंकनम् ।**
+
+[^49]: "The small variety grows in abundance in barren tracts of land, and especially in the Punjab where it is called "
 
 **मृत्तिका टंकलाह्वया टंकनमिश्रिता या हि ।  
 प्राप्यते सा कदाचिद्वै शुष्कजलाशयोदरे ॥  
 समाहृत्य मृदं तत् तु जलेन सह मेलयेत् ।  
 सजलं टंकनं ततः क्वाथयेत् तीव्रवह्निना ॥  
 यावद् विशुष्यति सर्वं ततः क्षारं समाहरेत् ।  
-[सदाम](# "दाम्नासह वर्त्तमानं सदाम । दामन दाना इति भाषा ।") टंकनाह्वयं सितप्रभं मनोहरम् ॥**
+सदाम[^50] टंकनाह्वयं सितप्रभं मनोहरम् ॥**
+
+[^50]: "दाम्नासह वर्त्तमानं सदाम । दामन दाना इति भाषा ।"
 
 \(3\) TANKANA (BORAX ).
 
@@ -7281,7 +7381,9 @@ Two kinds of ksharas–liquid and solid.
 Diseases in which solid kshara is to  
 be applied.
 
-Hard kshara may be applied in the following diseases:—eprosy in general, kitima (keloid), dadru (ring-worm), kilasa (leucoderma), mandala (lepra), bhagandara (fistula in ano), arbuda (a kind of tumour), dusta-brana (unhealthy ulcers), nali-brana (sinus), charma-kila (condyloma), tila-kalaka (mobs), nyachha (chloasma), byanga (black spots on the face), mashaka (warts), bahya-bidradhi (external tumours), krimi (worms), bisha (poison), piles, upajihva (ranula), adhijihva (tumour on the tongue), upakusa (inflammation of the gum), danta-vaidarbha (inflammation of the gum from injury), and three sorts of rohini ([diptheria](# "Allopathic classification of diseases is so vague and general that it is impossible to find a corresponding allopathic name for every name of diseases mentioned in the Hindu science of medicine.")).
+Hard kshara may be applied in the following diseases:—eprosy in general, kitima (keloid), dadru (ring-worm), kilasa (leucoderma), mandala (lepra), bhagandara (fistula in ano), arbuda (a kind of tumour), dusta-brana (unhealthy ulcers), nali-brana (sinus), charma-kila (condyloma), tila-kalaka (mobs), nyachha (chloasma), byanga (black spots on the face), mashaka (warts), bahya-bidradhi (external tumours), krimi (worms), bisha (poison), piles, upajihva (ranula), adhijihva (tumour on the tongue), upakusa (inflammation of the gum), danta-vaidarbha (inflammation of the gum from injury), and three sorts of rohini (diptheria[^51]).
+
+[^51]: "Allopathic classification of diseases is so vague and general that it is impossible to find a corresponding allopathic name for every name of diseases mentioned in the Hindu science of medicine."
 
 **तरलक्षारस्य विषयाः ।**
 
@@ -7306,7 +7408,9 @@ Use of liquid Kshara.
 
 A middle-aged black mokshaka tree growing in a valley of a mountain is to be cut into pieces, sometime in the two months following the rains, and kept in a heap in a place protected from drafts of air. Some lime stone (or balls of lime-mud dried up, generally known by the name of "ghuting") is also to be kept inside the heap of wood, which isto be burnt by fire made of sesamus plant. The ashes of the wood are then to be separated from the burnt limestone, as well as from the burnt soil upon which the act of burning takes place.
 
- In the same way, ashes will have to be prepared from the following trees (or plants, as the case may be):—kutaja, palasha, asva-karna (a kind of shala), paribhadra, bibhitaki, aragbadha, lodhra, arka, snuhi, apamarga, patali, bisha-karanja, basaka, kadali, chitraka, putika (rama-karpura), kutaja, asphota (bhadra-[balli](# "Bengali, ")), karabira, saptaparni, agni- mantha, gunja, and four kinds of ghosha (including deva-dali).
+ In the same way, ashes will have to be prepared from the following trees (or plants, as the case may be):—kutaja, palasha, asva-karna (a kind of shala), paribhadra, bibhitaki, aragbadha, lodhra, arka, snuhi, apamarga, patali, bisha-karanja, basaka, kadali, chitraka, putika (rama-karpura), kutaja, asphota (bhadra-balli[^52]), karabira, saptaparni, agni- mantha, gunja, and four kinds of ghosha (including deva-dali).
+
+[^52]: "Bengali, "
 
 
 
@@ -7401,11 +7505,13 @@ It is digestive, acrid, light, increaser of appetite, laxative, having some of t
 
 **(२) सैन्धवम् ।**
 
-**सैन्धवं [शीतशिवं](# "शीतशिवमिति शीतं शीतवीर्यं शिवं लवणमिति । सर्वेषां लवणानां मध्ये केवलं सैन्धवं शीतवीर्य्यम् ।") च मणिमन्थं च सिन्धुजम् ।  
+**सैन्धवं शीतशिवं[^53] च मणिमन्थं च सिन्धुजम् ।  
 सिन्धुदेशे तथा पञ्चनदाख्ये प्राप्यते खनौ ।  
 तदेव दीपनं शीतं लवणमधुरं लघु ॥  
 मृद्वग्निवर्धनं रुच्यं चक्षुष्यं शुक्रदं तथा ।  
 त्रिदोषघ्नंतथा सूक्ष्मं विबन्धवणनाशनम् ॥**
+
+[^53]: "शीतशिवमिति शीतं शीतवीर्यं शिवं लवणमिति । सर्वेषां लवणानां मध्ये केवलं सैन्धवं शीतवीर्य्यम् ।"
 
 \(2\) SAINDHAVA (ROCK SALT)
 
@@ -7465,7 +7571,9 @@ Preparation of bira salt (black salt),
 **(१) सौवर्चलम् ।**
 
 **अक्षं सौवर्चलं पाक्यमूषरं रुचकं तथा ।  
-क्षारश्च लवणं चैव सौवर्चलं तदौद्भिदम् ॥[\*](# "एष हि ऊपराख्यःक्षारः । २६६ पृष्ठं प्रष्टव्यम् ।")**
+क्षारश्च लवणं चैव सौवर्चलं तदौद्भिदम् ॥\*[^54]**
+
+[^54]: "एष हि ऊपराख्यःक्षारः । २६६ पृष्ठं प्रष्टव्यम् ।"
 
 \(4\) SAUVARCHALA (SALT-PETRE).
 
@@ -7502,12 +7610,14 @@ An equal quantity of powdered swarji (natron) and saindhava (rock-salt) are to b
 **जयपुराभिधे राज्ये रोमोऽस्ति लोतनीरथुक् ।  
 नाम्ना शाकम्भरी सोऽयं साम्प्रतं सम्बराभिधः ॥  
 लवणाक्तंजलं तस्य सागरनीरसंनिभम् ।  
-तज्जलाज् जायते [लोतं](# "लोतमिति लवणम् ।")रोमकाख्यं तदेव हि ॥  
+तज्जलाज् जायते लोतं[^55]रोमकाख्यं तदेव हि ॥  
 रोमावती नदी तस्माद्रोमात् पुरा प्रवाहिता ।  
 लवणं तज्जलोत्थं च संज्ञितं रोमकं पुरा ॥  
 श्रासीत् पुरा पुरी तत्र रोमाख्या हि यशस्वती ।  
 साम्प्रतं वर्त्तते तत्र जयपुराभिधा पुरी ।  
 सम्बरादम्बराख्यां हि लेभे तत्र पुरान्तरम् ॥**
+
+[^55]: "लोतमिति लवणम् ।"
 
 \(4\) SAUVARCHALA (SALT-PETRE).
 
@@ -7534,7 +7644,9 @@ An equal quantity of powdered swarji (natron) and saindhava (rock-salt) are to b
 
  The product may be used as sauvarchala salt, and not as sauvarchala kshara. (N.B.—The salt, thus prepared, may be used in lieu of salt-petre, where the emphasis is laid on the word 'salt', but where there is a stress on the word “kshara", only salt-petre, and not its substitute, should be used.)
 
-**(५) [रोमकम्](# "रोमः गर्त्तंजलाशयइत्यर्थः तस्मात् जायते इति रोमकम् ।") ।**
+**(५) रोमकम्[^56] ।**
+
+[^56]: "रोमः गर्त्तंजलाशयइत्यर्थः तस्मात् जायते इति रोमकम् ।"
 
 ****
 
@@ -7548,12 +7660,14 @@ An equal quantity of powdered swarji (natron) and saindhava (rock-salt) are to b
 **जयपुराभिधे राज्ये रोमोऽस्ति लोतनीरयुक् ।  
 नाम्ना शाकम्भरी सोऽयं साम्प्रतं सम्बराभिधः ॥  
 लवणाक्तंजलं तस्य सागरनीरसंनिभम् ।  
-तज्जलाज् जायते [लोतं](# "लोतमिति लवणम् ।")रोमकाख्यं तदेव हि ॥  
+तज्जलाज् जायते लोतं[^55]रोमकाख्यं तदेव हि ॥  
 रोमावती नदी तस्माद् रोमात् पुरा प्रवाहिता ।  
 लवणं तज्जलोत्थं च संज्ञितं रोमकं पुरा ॥  
 आसीत् पुरा पुरी तत्र रोमाख्या हि यशस्वती ।  
 साम्प्रतं वर्त्तते तत्र जयपुराभिधा पुरी ।  
 सम्बरादम्बराख्यां हि लेभे तत्र पुरान्तरम् ॥**
+
+[^55]: "लोतमिति लवणम् ।"
 
 \(5\) ROMAKA (SAMBAR-SALT.)
 
@@ -7573,7 +7687,9 @@ Its properties.
 
 Romaka or sambara salt is bitter, pungent, and saline. It is acrid, warm, light, digestive, and laxative. It gives rise to pittam, inflammation, and waste. It helps the emission of phlegm (through nostrils and eyes). It is capable of passing even through the finest and minutest passages of the system, and is a pacifier of vayu.
 
-(६) [चुलिकालवणम्](# "द्वितीयखण्डे २१४ पृष्ठं तथा तृतीयखण्डे २६० पृष्ठं द्रष्टव्यम् ।") ।
+(६) चुलिकालवणम्[^58] ।
+
+[^58]: "द्वितीयखण्डे २१४ पृष्ठं तथा तृतीयखण्डे २६० पृष्ठं द्रष्टव्यम् ।"
 
 पाकिमो नवसारश्च चुलिकालवणं तथा ।  
 
@@ -7581,7 +7697,9 @@ Romaka or sambara salt is bitter, pungent, and saline. It is acrid, warm, light,
 
 \(6\) CHULIKA SALT.
 
-It is the same as nava-sara (or sal-[ammoniac](# "See page 215, Vol. II, and page 262 Vol. III.")).  
+It is the same as nava-sara (or sal-ammoniac[^59]).  
+
+[^59]: "See page 215, Vol. II, and page 262 Vol. III."
 
 
 **सप्तमोऽध्यायः ।**
@@ -7636,8 +7754,10 @@ Inorganic poisons are of ten different forms, viz.(1) roots, (2) leaves, (3) fru
 
 **यदग्रन्थिः सत्तुकेनेव पूर्णमध्यः स सक्तुकः ।  
 पुण्डरीकं स एव हि मध्यश्वेतं च दृश्यते ॥  
-चित्रमुत्पलकन्दाभं सुपिष्टं शक्तुवद् भवेत् ।[\*](# "चित्रमिति मनोहरम् ।")  
+चित्रमुत्पलकन्दाभं सुपिष्टं शक्तुवद् भवेत् ।\*[^60]  
 सक्तुकंतद् विजानीयाद्दीर्घवेगं महोल्वणम् ॥**
+
+[^60]: "चित्रमिति मनोहरम् ।"
 
 Descriptions of tuber poisons.  
 (1) Saktuka.
@@ -7811,8 +7931,10 @@ It grows in the hill named Dardura' situated near the Malaya mountain. It is als
 
 **(१३) कर्कटं कर्कोटं वा ।**
 
-**कर्कोटं कपिवर्णं स्यात् [कर्कोटकसमप्रभम्](# "कर्कोटक इत्यस्य स्थले कर्कटक इत्यस्य सम्भावितपाठस्य साधुतरतापि सुधीभिर्विचार्य्य।") ।  
+**कर्कोटं कपिवर्णं स्यात् कर्कोटकसमप्रभम्[^61] ।  
 तदेव विषमं विषं रेखाभ्यन्तरतो मृदु ॥**
+
+[^61]: "कर्कोटक इत्यस्य स्थले कर्कटक इत्यस्य सम्भावितपाठस्य साधुतरतापि सुधीभिर्विचार्य्य।"
 
 \(13\) Karkata or Karkota.
 
@@ -7894,7 +8016,9 @@ Use of tuber-poisons.
 
 
 
-The ten kinds of poisons beginning with kala-kuta may be used sometimes for the purposes of metallurgy, preparation of poison, and kshema operations or [alchemy](# "The science of kshema or khema deals with transformation of base metals into gold. The term khema has been contracted into the Persian "); but they should never be used in medicines of any kind.
+The ten kinds of poisons beginning with kala-kuta may be used sometimes for the purposes of metallurgy, preparation of poison, and kshema operations or alchemy[^62]; but they should never be used in medicines of any kind.
+
+[^62]: "The science of kshema or khema deals with transformation of base metals into gold. The term khema has been contracted into the Persian "
 
  
 
@@ -7948,16 +8072,22 @@ Properties of poisons, according to caste.
 **सामान्येन विषाणामवगुणाः ।**
 
 **सर्वाणि कुशलैर्ज्ञेयान्येतानि दशभिर्गुणैः ।  
-रुक्षमुष्णं तथा तीक्ष्णं सूक्ष्ममाशु व्यवायि च ॥[\*](# "पूर्वं व्याप्याखिलं कायं ततः पाकंच गच्छति । व्यवायि तद् यथा भङ्गा फैनञ्चाहिसमुद्भवम् ॥ फेनमत्र निर्यासः अहीति अहिनाम गुल्म न तु सर्पः ।")  
-[विकाशि](# " विकाशीति ओजःशोषणपूर्वकसन्धिबन्धनमैथिल्यकारकम् । विसरमिति भेदकम् ।") विसरं चैव लघ्वपाकि च तत् स्मृतम् ॥  
+रुक्षमुष्णं तथा तीक्ष्णं सूक्ष्ममाशु व्यवायि च ॥\*[^63]  
+विकाशि[^64] विसरं चैव लघ्वपाकि च तत् स्मृतम् ॥  
 तद्रौक्ष्यात् कोपयेद् वायुमौष्ण्यात् पित्तं सशोणितम् ।  
 मानसं मोहयेत् तैक्ष्ण्यादङ्गबन्धांश्छिनत्यपि ॥  
 शरीरावयवान् सौक्ष्म्यात् प्रविशेत् विकरोति च ।  
-आशुत्वादाशु तद्धन्ति व्यवायात् [प्रकृतिं](# "प्रकृतिमिति आत्मव्यतीतनिखिलदेहम् । भजेदिति व्याप्नुयात् ।") भजेत् ॥  
+आशुत्वादाशु तद्धन्ति व्यवायात् प्रकृतिं[^65] भजेत् ॥  
 क्षरयेच्च विकाशित्वाद् दोषान् धातुमलानपि ।  
 वैसर्य्यादतिरिच्येत दुश्चिकित्स्यं च लाघवात् ॥  
 दुर्जरं चाविपाकित्वात् तस्मात् क्लेशयते चिरम् ।  
 स्थावरं जंगमं यच्च कृत्रिमं चापि यद्धितम् ।**  
+
+[^63]: "पूर्वं व्याप्याखिलं कायं ततः पाकंच गच्छति । व्यवायि तद् यथा भङ्गा फैनञ्चाहिसमुद्भवम् ॥ फेनमत्र निर्यासः अहीति अहिनाम गुल्म न तु सर्पः ।"
+
+[^64]: " विकाशीति ओजःशोषणपूर्वकसन्धिबन्धनमैथिल्यकारकम् । विसरमिति भेदकम् ।"
+
+[^65]: "प्रकृतिमिति आत्मव्यतीतनिखिलदेहम् । भजेदिति व्याप्नुयात् ।"
 
 **सद्यो व्यापादयेत् तत्तु ज्ञेयं दशगुणान्वितम्॥**
 
@@ -8386,8 +8516,10 @@ Remedy of snake-bite.
 
  
 
-Kernel of jayapala seed (previously purified) is to be subjected to bhavana for 21 times with lemon juice. It is then to be made into pills. Such a pill, rubbed with man's saliva, is to be put into the eyes, as a collyrium, of the man who has been bitten by a poisonous snake. By this, the man will be able to overcome snake-poison.[\*](# "The subject will be dealt with elaborately in a subsequent volume in the chapter on treatment of poison.")
+Kernel of jayapala seed (previously purified) is to be subjected to bhavana for 21 times with lemon juice. It is then to be made into pills. Such a pill, rubbed with man's saliva, is to be put into the eyes, as a collyrium, of the man who has been bitten by a poisonous snake. By this, the man will be able to overcome snake-poison.\*[^66]
 
+
+[^66]: "The subject will be dealt with elaborately in a subsequent volume in the chapter on treatment of poison."
 
 
 ![](../../../books_images/1689832036.png)
@@ -8405,7 +8537,9 @@ Kernel of jayapala seed (previously purified) is to be subjected to bhavana for 
 अतिविषाहिफेनं च जयाचोपविषाः स्मृताः ।  
 त्रयोदशकमेतत् तु विषवत् प्राणहारकम् ॥  
 विषैश्चोपविषैर्घृ्ष्टश्छिन्नपक्षःशिवो भवेत् ।  
-मुखं च जायते तस्य धातूंश्च ग्रसते त्वरा ॥[\*](# " प्रथमखण्डे ७५ पृष्ठं द्रष्टव्यम् ।")**
+मुखं च जायते तस्य धातूंश्च ग्रसते त्वरा ॥\*[^67]**
+
+[^67]: " प्रथमखण्डे ७५ पृष्ठं द्रष्टव्यम् ।"
 
 CHAPTER VII.
 
@@ -8415,9 +8549,11 @@ UPABISHA (SEMI-POISONS).
 
 The following are considered semi-poisons:— Snuhi, arka, langali, gunja, karabira, visha-musti, dhattura, jayapala, bhallataka, nirvisha, ativisha, ahiphena, and jaya (bhanga). These thirteen are also killers of life, if taken in excess.
 
- Rubbed with poisons and the semi-poisons, mercury becomes deprived of its wings, and grows hungry. It is then able to swallow and digest metals (without increasing in weight).[\*](# "See page 76, Vol. I.")
+ Rubbed with poisons and the semi-poisons, mercury becomes deprived of its wings, and grows hungry. It is then able to swallow and digest metals (without increasing in weight).\*[^68]
 
 **सामान्येनोपविषाणां शोधनम् ।**
+
+[^68]: "See page 76, Vol. I."
 
 **उपविषं विशुध्यति [पञ्चगव्यैर्विभावितम्](http://॑# "क्षीरं दधि तथा चाज्यं मूत्रं गोमयमेव च । इति पञ्चगव्यम् ।") ।  
 शोध्यं च दोलिकायन्त्रे क्षीरपूर्णेऽथ पात्रके ॥**
@@ -8435,10 +8571,12 @@ Purification of semi-poisons in general.
 सेडुण्डो रेचनस्तीक्ष्णो दीपनो कटुको गुरुः ।  
 शूलामाष्ठीलिकाध्मानकफगुल्मोदरानिलान् ॥  
 उन्मादमेहकुष्ठार्शःशोथमेदोऽश्मपाण्डुताः ।  
-व्रणशोथज्वरप्लीहविष[दूषीविषं](# "दूषीविषमिति गरविषम् ।") हरेत् ॥  
+व्रणशोथज्वरप्लीहविषदूषीविषं[^69] हरेत् ॥  
 उष्णवीर्यं स्नुहीक्षीरं स्निग्धं च कटुकं लघु ।  
 गुल्मिनां कुष्ठिनां चापि तथैवोदररोगिणाम् ।  
 हितमेतद् विरेकार्थे ये चान्ये दीर्घरोगिणः ॥
+
+[^69]: "दूषीविषमिति गरविषम् ।"
 
 \(1\) Snuhi.
 
@@ -8804,7 +8942,9 @@ Purification of Jayapala.
 
 **अथवा पातयेत् सत्त्वं भल्लातकफलस्य वै ।**  
 
-**पातालयन्त्रयोगेन मज्जरूपं यथाविधि ॥[\*](# "द्वितीयखण्डे १२७ पृष्ठे पादटीका द्रष्टव्या ।")**
+**पातालयन्त्रयोगेन मज्जरूपं यथाविधि ॥\*[^70]**
+
+[^70]: "द्वितीयखण्डे १२७ पृष्ठे पादटीका द्रष्टव्या ।"
 
 
 
@@ -8822,7 +8962,9 @@ Extraction of the essence (oil) of bhallataka fruits.
 निर्विषा कटुशीतला व्रणानां रोपिका तथा ।  
 कफवातविषास्राणां नितरां शान्तिदायिका ॥  
 शिरोव्यथां निहन्त्याशु ललाटस्पर्शनात् त्रिधा ।  
-शङ्खात् सव्येतरस्माच्च सव्यशङ्खांतकं हि सा ॥[\*](# "शङ्खौ इति भ्रुवोरन्तोपरि कर्णललाटयोर्मध्ये अस्थिमर्मणी सार्द्धाङ्गुले सद्योमारके चेदाहते ।")**
+शङ्खात् सव्येतरस्माच्च सव्यशङ्खांतकं हि सा ॥\*[^71]**
+
+[^71]: "शङ्खौ इति भ्रुवोरन्तोपरि कर्णललाटयोर्मध्ये अस्थिमर्मणी सार्द्धाङ्गुले सद्योमारके चेदाहते ।"
 
 \(10\)
 
@@ -8886,10 +9028,12 @@ Opium is purfied, if subjected to bhavana with ginger juice for twenty one times
 चपला वीरपत्रा च सिद्धिरिन्द्राशनं च सा ।  
 अजेयाऽऽनन्दसंज्ञा च मादयित्री च हर्षिणी ॥  
 भङ्गा कफहरी [तिक्ता](http://॑# "मतान्तरे कटुतिक्तकषाया ।")ग्राहिणी कषाया कटुः ।  
-तीक्ष्णोष्णा पित्तला लघुर्वा[ग्मेह](# "मेहस्थले मेधेति पाठान्तरम् ।") मदवर्द्धिनी ॥  
+तीक्ष्णोष्णा पित्तला लघुर्वाग्मेह[^72] मदवर्द्धिनी ॥  
 मदनोद्दीपनी निद्राजननी हर्षदायिनी ।  
 धनुःस्तम्भं जलत्रासं विसूचीं च मदात्ययम् ।  
 प्रवृत्तिं रजसो बह्वींहन्त्यपत्यप्रसूतिकृत् ॥
+
+[^72]: "मेहस्थले मेधेति पाठान्तरम् ।"
 
 \(13\) *Jaya (bhang-Cannabis sativa.)*
 
@@ -9254,7 +9398,9 @@ OF ANY KIND.
 
 ( 1 )
 
- Any kind of seed, known or unknown, is to be powdered very finely, and subjected to bhavana with the juice of [green](# "Ripe, according to another text.")leaves of arka. The seed is then to be kept, tightly confined in a piece of cloth, and placed upon a pot in the sun. Oil will come out of the bundle containing the seed.
+ Any kind of seed, known or unknown, is to be powdered very finely, and subjected to bhavana with the juice of green[^73]leaves of arka. The seed is then to be kept, tightly confined in a piece of cloth, and placed upon a pot in the sun. Oil will come out of the bundle containing the seed.
+
+[^73]: "Ripe, according to another text."
 
 **( २ )**
 
@@ -9289,7 +9435,9 @@ Seeds of any kind are to be powdered very fine, and sifted through a piece of cl
 
  
 
-Oil can be extracted by means of the Patala Jantram from all sorts of seeds, bones, and flesh, dried and pounded over and over [again](# "See foot-note, page 127, vol. II.").
+Oil can be extracted by means of the Patala Jantram from all sorts of seeds, bones, and flesh, dried and pounded over and over again[^74].
+
+[^74]: "See foot-note, page 127, vol. II."
 
 **( ५ )**
 
@@ -9298,7 +9446,9 @@ Oil can be extracted by means of the Patala Jantram from all sorts of seeds, bon
 स्वेदयेत् कम्दुके यन्त्रे घटिकाद्वितयं ततः ।  
 तां च पिण्डींदृढ़े वस्त्रे बद्ध्वानिस्पीड्य काष्ठतः ॥  
 अधःपात्रस्थितं तैलं समाहृत्य नियोजयेत् ।  
-एवं [कन्दुकयन्त्रेन](# "प्रथमखण्डे २५१ पृष्ठं द्रष्टव्यम् ।")सर्वतैलान्युपाहरेत् ॥**
+एवं कन्दुकयन्त्रेन[^75]सर्वतैलान्युपाहरेत् ॥**
+
+[^75]: "प्रथमखण्डे २५१ पृष्ठं द्रष्टव्यम् ।"
 
 ( 5 )
 
@@ -9443,7 +9593,9 @@ CHAPTER X.
 गौड़ी माध्वी तथा पैष्टी कादम्बरी च वारुणी ।  
 माधूकी चैव मैरेयी मार्द्वीकेति सुराष्टकम् ॥  
 पक्वापक्वविभेदेन सुरा हि द्विविधा मता ।  
-[तेजोयन्त्रादि](# "प्रथमखण्डे २८० - ८५ पृष्ठानि द्रष्टव्यानि ।")योगेन पक्वासंजायते हि सा ॥**
+तेजोयन्त्रादि[^76]योगेन पक्वासंजायते हि सा ॥**
+
+[^76]: "प्रथमखण्डे २८० - ८५ पृष्ठानि द्रष्टव्यानि ।"
 
 \(1\) *Alcoholic Liquors (wine).*
 
@@ -9694,9 +9846,13 @@ One prastha (64 tolas) of shasti paddy is to be thrown into two prasthas of wate
 रेकी च रुच्यं तथा दीपनं हि ॥**  
 
 **विबन्धशूलानलनाशहृत् तत्  
-[कुल्माष](# "कुल्माष इति अर्द्धखिन्ना गोधूमाश्चनकादयः ।") योगादपि काञ्जि कार्यम् ।  
+कुल्माष[^77] योगादपि काञ्जि कार्यम् ।  
 अनन्तरोक्तविधिपूर्वकं हि  
-[जालिः](# "जालिरिति नियतान्नमज्जनजनितमम्लीभूतं जलम् । आमानीत भाषा ।")प्रदेयः खलु काञ्ज्यभावे ॥**
+जालिः[^78]प्रदेयः खलु काञ्ज्यभावे ॥**
+
+[^77]: "कुल्माष इति अर्द्धखिन्ना गोधूमाश्चनकादयः ।"
+
+[^78]: "जालिरिति नियतान्नमज्जनजनितमम्लीभूतं जलम् । आमानीत भाषा ।"
 
 \(f\) *Kanji.*
 
@@ -9830,7 +9986,9 @@ Tikshna iron, mixed with nilanjana (see page 202, vol. II), and heated for sever
 **[पतङ्गिकल्कतो](http://॑# "पतङ्गिकल्कः इति पतङ्ग पारदः अस्यास्तीति पतङ्गी तस्य कल्कः साधितद्रव्यम् ।")जाता लोहे तारत्वहेमता ।  
 दिनानि कतिचित् स्थित्वा यातासौ चुल्लका मता ॥  
 रञ्जिताद्धि चिरं लोहाद्ध्माताद् वा चिरकालतः ।  
-[विनिर्यासः](# "विनिर्यास इति बहिरागमः ।")स निर्दिष्टः पतङ्गिरागसंज्ञकः ॥**
+विनिर्यासः[^79]स निर्दिष्टः पतङ्गिरागसंज्ञकः ॥**
+
+[^79]: "विनिर्यास इति बहिरागमः ।"
 
 Patangi-raga and chullaka-raga.
 
@@ -10133,3 +10291,88 @@ Mr. Mookerji's book should attract the attention of all those who are interested
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^57]: "लोतमिति लवणम् ।"

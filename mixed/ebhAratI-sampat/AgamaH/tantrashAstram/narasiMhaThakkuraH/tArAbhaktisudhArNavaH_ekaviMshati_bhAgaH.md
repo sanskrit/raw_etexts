@@ -55,7 +55,9 @@ CHAPTER I
 
  Then comes the subject-matter. This commences with the story of Nīla Sarasvatī in the form of a dialogue between the great God Mahādevaand His divine consort Pārvatī. Nīla Sarasvatī, as described, is the Supreme Knowledge incarnate (**महाविद्या**) through whose grace Brahmā revealed the four Vedās, Vyāsa, the Mahābhārata and other sages—their sacred works.Her sovereignty in the domain of knowledge is held to be unquestionable, and nobody who is not favoured with her gracious look can ever aspireafter or attain success in this realm.
 
- The next part deals with Mantras—the Mantras of Tārā or Nīla Sarasvatī ([Tārā and Nīla Sarasvatī being one and the same goddess with different names](# "In Tārārṇava mention is made of Vaśiṣṭa once having worshipped Tārā Devī.Matsya-Sūkta (मत्स्यसूक्त) states that Tārā and Nīla Sarasvatī refer to the same Goddess. ‘Tārā’ which is thus a very ancient name in Hindu Scriptures, is not a recent import as believed by some modern scholars.")). The word, ‘Mantra’ is synonymous with the word ‘Bīja’ or seed. Now, a seed is nothing but a tree in its minutest form. Similarly a Mantra or Bīja is nothing but a god or goddess in his or her minutest form. A seed sown in good soil and properly taken care of, evolves a mighty tree when we may enrich ourselves with as much of its bounty as we may desire ; in like manner a Mantra plotted in a pure mind and cared for in strict adherence to the rules prescribed therefor, unfolds the great god or goddess through whose grace we may derive, assimilate and apply to our use as much of the divine powers as we may require. Hence, like the ordinary seeds indispensable for the attainment of ‘material’ fruits, the Bīja-Mantras are indispensable for the attainment of fruits in the spiritual world. In other words, Mantras are the seeds of spiritual cultivation which is called ‘Sādhanā’ or
+ The next part deals with Mantras—the Mantras of Tārā or Nīla Sarasvatī (Tārā and Nīla Sarasvatī being one and the same goddess with different names[^1] states that Tārā and Nīla Sarasvatī refer to the same Goddess. ‘Tārā’ which is thus a very ancient name in Hindu Scriptures, is not a recent import as believed by some modern scholars.")). The word, ‘Mantra’ is synonymous with the word ‘Bīja’ or seed. Now, a seed is nothing but a tree in its minutest form. Similarly a Mantra or Bīja is nothing but a god or goddess in his or her minutest form. A seed sown in good soil and properly taken care of, evolves a mighty tree when we may enrich ourselves with as much of its bounty as we may desire ; in like manner a Mantra plotted in a pure mind and cared for in strict adherence to the rules prescribed therefor, unfolds the great god or goddess through whose grace we may derive, assimilate and apply to our use as much of the divine powers as we may require. Hence, like the ordinary seeds indispensable for the attainment of ‘material’ fruits, the Bīja-Mantras are indispensable for the attainment of fruits in the spiritual world. In other words, Mantras are the seeds of spiritual cultivation which is called ‘Sādhanā’ or
+
+[^1]: "In Tārārṇava mention is made of Vaśiṣṭa once having worshipped Tārā Devī.Matsya-Sūkta (मत्स्यसूक्त
 
 
 
@@ -150,7 +152,9 @@ Having discussed incidentally in the previous Chapter (see **उपचारव�
 
 these two things. It must, however, be noted in this connection that a sādhaka has no right to accept *anything* for himself without purifying it with Mantras and actually treating it as an offering to the Guru or Śakti. Thus, while the question of drinking comes up, like anything else, he has to make an offering of wine to the Guru or the Goddess or to both according to the śāstric manner. The text, therefore, upon opening the discussion, first tells us of a function called “Pātrārpaṇa” which means a sacrifice of the pot i.e., offering of a pot containing the drinking material to the Guru (or Goddess) before the sādhaka can take it for himself. The Mantras, the processes in detail, etc., are laid down, which are to be followed for this purpose.
 
- Again a sādhaka cannot drink (even subject to the above condition) as much as he likes. He must know the ways of drinking, know its effects, its evil effects, the authoritative sanctions therefor and the stage upto which the tranquillity and balance of the mind is not affected. He is allowed to drink so long as he does not lose this [tranquillity](# "This does not apply to pūrnābhiṣikta sādhakas,"). If he does, he falls below the standard and turns himself unfit for the Śakti-worship. The different ways of drinking stated, are—Divyapāna, Virapāna and Paśupāna, Divyapāna is a drinking that is done before the Goddess (i. e., after regular sacrifice or worship as indicated above and taking it as Devīprasāda). Virapāna is what is done by the Vīrasādhakas upon a Mudrāsana (a yogic process) and Paśupāna means a reckless way of drinking, done only by a Paśu or a man of beastly habits, which does nothing but degrading him day by day. Seven different stages called Ullāsas or intoxicating moods are stated. These are Ārambha, Taruṇa, Yauvana, Prauḍha, Prauḍhānta, Unmanaḥ and Anavasthā—each succeeding one being gradually stronger than its predecessor. The last means ‘senselessness’.An intelligent sādhaka must know these so as to be able to preserve himself from these pitfalls. If he does that, if he drinks
+ Again a sādhaka cannot drink (even subject to the above condition) as much as he likes. He must know the ways of drinking, know its effects, its evil effects, the authoritative sanctions therefor and the stage upto which the tranquillity and balance of the mind is not affected. He is allowed to drink so long as he does not lose this tranquillity[^2]. If he does, he falls below the standard and turns himself unfit for the Śakti-worship. The different ways of drinking stated, are—Divyapāna, Virapāna and Paśupāna, Divyapāna is a drinking that is done before the Goddess (i. e., after regular sacrifice or worship as indicated above and taking it as Devīprasāda). Virapāna is what is done by the Vīrasādhakas upon a Mudrāsana (a yogic process) and Paśupāna means a reckless way of drinking, done only by a Paśu or a man of beastly habits, which does nothing but degrading him day by day. Seven different stages called Ullāsas or intoxicating moods are stated. These are Ārambha, Taruṇa, Yauvana, Prauḍha, Prauḍhānta, Unmanaḥ and Anavasthā—each succeeding one being gradually stronger than its predecessor. The last means ‘senselessness’.An intelligent sādhaka must know these so as to be able to preserve himself from these pitfalls. If he does that, if he drinks
+
+[^2]: "This does not apply to pūrnābhiṣikta sādhakas,"
 
 
 
@@ -184,7 +188,9 @@ only up to the śāstric sanctions retaining his mental equilibrium, then and th
 
 CHAPTER VII
 
- This Chapter speaks of Naimittika i.e., the rite or rites which owes or owe its or their origin to a [Nimitta](# "The word ‘Nimitta’ means efficient cause. But here it is taken to imply the motive or purpose which moves an efficient cause.")or special purpose and consequently mean rites of special occasions as distinguished from ordinarily fixed rites as daily rites, monthly rites etc. Mention is first made of a function called ‘Damanotsava’ which is mainly connected with the Adhivāsana-kṛtya or the duties to be done on the day previous to that on which the
+ This Chapter speaks of Naimittika i.e., the rite or rites which owes or owe its or their origin to a Nimitta[^3]or special purpose and consequently mean rites of special occasions as distinguished from ordinarily fixed rites as daily rites, monthly rites etc. Mention is first made of a function called ‘Damanotsava’ which is mainly connected with the Adhivāsana-kṛtya or the duties to be done on the day previous to that on which the
+
+[^3]: "The word ‘Nimitta’ means efficient cause. But here it is taken to imply the motive or purpose which moves an efficient cause."
 
 
 
@@ -248,7 +254,9 @@ and then enjoins a preliminary worship of the presiding Deities of Tithis (an as
 
  Next, the Chapter speaks of some Tāntrika medicines which enable a person to attain Deha-siddhi (good health with commanding personality), speaks of Janma-saṃskāra (a rite to be done on the birth of a son) and explains certain easier Tāntrika practices employed in winning over enemies and other things.
 
- Then comes a description of the Yantra and the Kavaca which ([being almost similar in character](# "The Yantra is a kind of mystic figure drawn on prescribed materials and may also be used as an amulet,")) mean some Mantra
+ Then comes a description of the Yantra and the Kavaca which (being almost similar in character[^4]) mean some Mantra
+
+[^4]: "The Yantra is a kind of mystic figure drawn on prescribed materials and may also be used as an amulet,"
 
 
 
@@ -8415,11 +8423,13 @@ CHAPTER XI
 ब्राह्मणो मदिरां दत्त्वा ब्राह्मण्यादेव हीयते।  
 स्वगात्ररुधिरं दत्त्वास्वात्महत्यामवाप्नुयात्॥ इति
 
- हंसमाहेश्वरतन्त्रे—कलिधर्मप्रकरणे गृह्यपरिशिष्टे अहिनाथोपाध्यायैः सौत्रामण्यां सुराग्रहणनिषेधस्योक्तत्वात्। “ब्राह्मणैस्तुसदापेय”मित्यत्राप्यकारप्रश्लेषात्‌[................](# "अत्रादर्शपुस्तकत्रये मातृका नैवोपलभ्यते।")
+ हंसमाहेश्वरतन्त्रे—कलिधर्मप्रकरणे गृह्यपरिशिष्टे अहिनाथोपाध्यायैः सौत्रामण्यां सुराग्रहणनिषेधस्योक्तत्वात्। “ब्राह्मणैस्तुसदापेय”मित्यत्राप्यकारप्रश्लेषात्‌................[^5]
 
 ............................................................  
 ............................................................  
 ............................................................
+
+[^5]: "अत्रादर्शपुस्तकत्रये मातृका नैवोपलभ्यते।"
 
 **अथ प्राणायामः**
 
@@ -15917,9 +15927,11 @@ CHAPTER XI
 
 **तथा— **
 
-ततो ध्यानं प्रकुर्वीत कुमार्या वक्ष्यमाणकम्‌।[\*](# "ध्यानान्तरं तन्त्रान्तरे - प्रसन्नवदनाम्भोजां प्रोद्यद्बालार्कसप्रभाम्‌। रक्ताम्बरां रक्तमाल्यां नानालङ्कारभूषिताम्‌॥ सस्मितां दिव्यकन्याभिः क्रीड़ारसपरायणाम्‌। ध्यायेत्‌ कुमारिकां बालां स्वभक्ताभीष्टसिद्धिदाम्॥")
+ततो ध्यानं प्रकुर्वीत कुमार्या वक्ष्यमाणकम्‌।\*[^6]
 
 **तथा— **
+
+[^6]: "ध्यानान्तरं तन्त्रान्तरे - प्रसन्नवदनाम्भोजां प्रोद्यद्बालार्कसप्रभाम्‌। रक्ताम्बरां रक्तमाल्यां नानालङ्कारभूषिताम्‌॥ सस्मितां दिव्यकन्याभिः क्रीड़ारसपरायणाम्‌। ध्यायेत्‌ कुमारिकां बालां स्वभक्ताभीष्टसिद्धिदाम्॥"
 
 उपचारांस्ततः सर्वान्‌ पाद्यादीन् स्तुतिपश्चिमान्॥
 
@@ -16046,9 +16058,11 @@ CHAPTER XI
 मांसमीनसुरापूर्णां भक्ष्यचर्व्यादिपूरिताम्‌।  
 कुमारीदक्षहस्तं च स्थापयित्वाऽन्नमूर्धनि॥
 
-उत्तानं वक्ष्यमाणेन मनुनाऽन्नं समुत्सजेत्‌।[\*](# "अत्रोत्सर्गमन्त्रस्स्येवं - ऐं ह्रीं भी स्त्रीं सौ सर्वशक्तिस्वरूपायै सर्वसिद्धिदाये भगवत्यै कुमार्यै भक्ष्मभोज्यनानाविधाश्चकल्पितषड्रसोपेतमिदं महाभोगनैवेद्यं तुभ्यमहं निवेदयामि गृहाण गृहाण भुश्च भुश्च प्रसीद्‌ प्रसीद सर्वसिद्धिं मे प्रयच्छ प्रयच्छ ऐं ह्रीं श्रीं नमः स्वाहा।")
+उत्तानं वक्ष्यमाणेन मनुनाऽन्नं समुत्सजेत्‌।\*[^7]
 
 **तथा— **
+
+[^7]: "अत्रोत्सर्गमन्त्रस्स्येवं - ऐं ह्रीं भी स्त्रीं सौ सर्वशक्तिस्वरूपायै सर्वसिद्धिदाये भगवत्यै कुमार्यै भक्ष्मभोज्यनानाविधाश्चकल्पितषड्रसोपेतमिदं महाभोगनैवेद्यं तुभ्यमहं निवेदयामि गृहाण गृहाण भुश्च भुश्च प्रसीद्‌ प्रसीद सर्वसिद्धिं मे प्रयच्छ प्रयच्छ ऐं ह्रीं श्रीं नमः स्वाहा।"
 
 इतरासां कमारीणां प्रत्येक पूजनं चरेत्‌।  
 गन्धपुष्पैर्धूपदीपैर्नैवेद्यैरन्नसंभृतैः॥
@@ -18398,7 +18412,9 @@ CHAPTER XI
 इममन्ते सामिषान्नं बलिं गृह्णपदं ततः॥
 
 गृह्ण-गह्णापय-युगं विघ्ननिवारणं ततः।  
-कुरु सिद्धिं मे समुक्त्वा [\*](# "तान्त्रिकप्रयोगोऽयम्‌।") प्रयच्छ स्वाहयाऽन्वितम्‌॥
+कुरु सिद्धिं मे समुक्त्वा \*[^8] प्रयच्छ स्वाहयाऽन्वितम्‌॥
+
+[^8]: "तान्त्रिकप्रयोगोऽयम्‌।"
 
 ताराद्यमनुना देवि प्रथमो बलिरीरितः।  
 मायान्ते भैरवात्‌ पश्चाद्‌ भयानकपदंततः॥
@@ -18994,9 +19010,11 @@ CHAPTER XI
 क्रमेण भेदिता वर्णाः कन्यायां शादयः स्मृताः॥
 
 लग्नो धनं भ्रातृ-बन्धु-पुत्र-शत्रु-कलत्रकाः।  
-मरणं धर्मकर्मायव्यया द्वादश राशयः॥[\*](# "अत्र राशिचक्रे चतुर्थस्थानं शत्रुर्न तु बन्धुरेवं षष्टस्थान बन्धर्न च शत्रुरिति केचित्। वैष्णवे तु — बन्धुस्थाने शत्रुः शत्रुस्थाने बन्धुरिति तन्त्रसारकृतः। ")
+मरणं धर्मकर्मायव्यया द्वादश राशयः॥\*[^9]
 
  तथा च स्वद्वितीयराशीयमन्त्रेण धनार्थं पञ्चमराशीयेन पुत्रार्थं सप्तमराशीयेन भार्यार्थं प्रयोगः कार्यः। एवमन्यदप्यूह्यम्‌। अत्र राशीनक्षत्रयोश्चक्रे मन्त्रवन्नामाद्यक्षरं यत्र पतति तदेव साधकस्यापि राशिनक्षत्रम्‌। न तु जन्मराशिनक्षत्रम्। तथा सत्येतच्चक्रप्रणयनवेयर्थ्यम्‌। मन्त्रमात्रार्थतायां विनिगमकाभावात्‌। राशि-
+
+[^9]: "अत्र राशिचक्रे चतुर्थस्थानं शत्रुर्न तु बन्धुरेवं षष्टस्थान बन्धर्न च शत्रुरिति केचित्। वैष्णवे तु — बन्धुस्थाने शत्रुः शत्रुस्थाने बन्धुरिति तन्त्रसारकृतः। "
 
 चक्रमधिकृत्य—
 
@@ -22662,3 +22680,12 @@ CHAPTER XI
 
 
 \]
+
+
+
+
+
+
+
+
+

@@ -70,21 +70,33 @@ Price Rs. 1.
 
 **THE POEM AND THE AUTHOR,**
 
- THElittle volume now offered to the public contains two of the three S'atakas of Bhartrhari, one of the celebrated authors of ancient India. Of the history of the poem or of its author very little is known that is authentic. The only circumstances in the life of Bhartṛhari that we know have been handed down by tradition and the various accounts that these give can hardly be reconciled. Bhartrhari is traditionally represented as belonging to the royal house of Ujjain; and though he was entitled to the crown, he is said to have abdicated it in favor of his younger brother Vikrama, the founder of the Samvat Era as he was disgusted with the worldly life on account of the discovery of his wife's [perfidy¹](# "This tradition seems to have given rise to Niti S'ataka sl")Mr. Sheshagiri Shástri gives a rather curious tradition. He says:—"King Vikramaditya is said to have been the son of a Bráhmaṇa caste, another of the Kshatriya, the third of the Vais'ya the fourth of the S'ûdra caste. They were called Bráhmaní, Bhànumatî, Bhâgyavatî, andSindhumatí. Each of the four bore him a son. Vararuchi was born of the first wife, Vikramârka of the second, Bhatti of the third, and Bhartrhari of the fourth. Vikramárka became king, and Bhatti served him in the capacity of Prime Minister." It need not be said how far such traditions are capable of furnishing us with materials for a trustworthy account of the poet. Besides the S'atakas, another work called the *Vakyapadiya* goes by the name of Bhartrhari. The poet Bhatti, author of the Bhatti Kavya is also by tradition identified with [Bhartrhari.²](# " which has hardly any connection in the place where it stands, and may possibly be an interpolation.").
+ THElittle volume now offered to the public contains two of the three S'atakas of Bhartrhari, one of the celebrated authors of ancient India. Of the history of the poem or of its author very little is known that is authentic. The only circumstances in the life of Bhartṛhari that we know have been handed down by tradition and the various accounts that these give can hardly be reconciled. Bhartrhari is traditionally represented as belonging to the royal house of Ujjain; and though he was entitled to the crown, he is said to have abdicated it in favor of his younger brother Vikrama, the founder of the Samvat Era as he was disgusted with the worldly life on account of the discovery of his wife's perfidy¹[^1]Mr. Sheshagiri Shástri gives a rather curious tradition. He says:—"King Vikramaditya is said to have been the son of a Bráhmaṇa caste, another of the Kshatriya, the third of the Vais'ya the fourth of the S'ûdra caste. They were called Bráhmaní, Bhànumatî, Bhâgyavatî, andSindhumatí. Each of the four bore him a son. Vararuchi was born of the first wife, Vikramârka of the second, Bhatti of the third, and Bhartrhari of the fourth. Vikramárka became king, and Bhatti served him in the capacity of Prime Minister." It need not be said how far such traditions are capable of furnishing us with materials for a trustworthy account of the poet. Besides the S'atakas, another work called the *Vakyapadiya* goes by the name of Bhartrhari. The poet Bhatti, author of the Bhatti Kavya is also by tradition identified with Bhartrhari.²[^2].
+
+[^1]: "This tradition seems to have given rise to Niti S'ataka sl"
+
+[^2]: " which has hardly any connection in the place where it stands, and may possibly be an interpolation."
 
 **THE AUTHORSHIP OF THE SATAKAS.**
 
- The S'atakas appear to be on the very face of them a haphazard collection of verses without any connecting link. No attempt has hitherto been made to supply the thread of what may appear like a continuous subject as in the case of the Bhamini Vilasa of Pandit Jagannáthrája, nor do we think that any such attempt was possible. The circumstance that the verses have no bond of unity has, however,given rise to a theory that the S'atakas are not an original work but a mere compilation from the works of former authors. An additionalcircumstance, that some of the verses in these S'atatas are found in works by other authors which are not mere compilations, has lent colouring to this assumption. Another theory is that the author of the *S'atakas* was not Bhartrhari but that some poet composed them in his name. This theory has neither a wide currency nor has it any strong hold on the minds of scholars. With regard to the former, it is sufficient to remember that only a small number of the verses in the S'atakas have been attributed to other writers, that these in almost all cases are persons of less note, and that they cannotbe said to have preceded Bhartrhari in chronological order. The number of verses that can at all be challenged as not being Bhartrhari's will not exceed fifty in the two Satakas; and even of this number very few can be definitely ascribed to one writer or another. With the exception of Kalidasa with whom Bhartṛhari has one verse in common (sl. 70 Niti Sataka) all others from whom Bhartrhari can be suspected of having borrowed are persons less noted than he, and removed by several centuries from the period at which we think our poet can be placed. We must believe, however, that numerous interpolations must have from time to time been made, since the number of verses in each S'ataka has considerably increased so much so that the three S'atakas now contain nearly 400 [verses](# "It cannot be said whether it was with regard to this circumstance that Colebrooke spoke of the S'atakas as 'either three or four S'atakas or centuries of couplets.'") between them. The growth however has  
+ The S'atakas appear to be on the very face of them a haphazard collection of verses without any connecting link. No attempt has hitherto been made to supply the thread of what may appear like a continuous subject as in the case of the Bhamini Vilasa of Pandit Jagannáthrája, nor do we think that any such attempt was possible. The circumstance that the verses have no bond of unity has, however,given rise to a theory that the S'atakas are not an original work but a mere compilation from the works of former authors. An additionalcircumstance, that some of the verses in these S'atatas are found in works by other authors which are not mere compilations, has lent colouring to this assumption. Another theory is that the author of the *S'atakas* was not Bhartrhari but that some poet composed them in his name. This theory has neither a wide currency nor has it any strong hold on the minds of scholars. With regard to the former, it is sufficient to remember that only a small number of the verses in the S'atakas have been attributed to other writers, that these in almost all cases are persons of less note, and that they cannotbe said to have preceded Bhartrhari in chronological order. The number of verses that can at all be challenged as not being Bhartrhari's will not exceed fifty in the two Satakas; and even of this number very few can be definitely ascribed to one writer or another. With the exception of Kalidasa with whom Bhartṛhari has one verse in common (sl. 70 Niti Sataka) all others from whom Bhartrhari can be suspected of having borrowed are persons less noted than he, and removed by several centuries from the period at which we think our poet can be placed. We must believe, however, that numerous interpolations must have from time to time been made, since the number of verses in each S'ataka has considerably increased so much so that the three S'atakas now contain nearly 400 verses[^3] between them. The growth however has  
 **———————————————————————————————————————————**  
+
+[^3]: "It cannot be said whether it was with regard to this circumstance that Colebrooke spoke of the S'atakas as 'either three or four S'atakas or centuries of couplets.'"
 
 2 The controversy as to the identity of Bhartrhari and Bhatti is discussed further on.
 
-been so much mixed with the original that it has now become an almost hopeless task to resort to the process of [elimination](# "We have a Ms. of the S'atakas in which only 100 verses are given for each S'atakas classified under ten headings. If several such manuscripts could be found, a collation of them would show if such an elimination is possible.").
+been so much mixed with the original that it has now become an almost hopeless task to resort to the process of elimination[^4].
+
+[^4]: "We have a Ms. of the S'atakas in which only 100 verses are given for each S'atakas classified under ten headings. If several such manuscripts could be found, a collation of them would show if such an elimination is possible."
 
 THE DATE OF THE S'ATAKAS.
 
- The poet himself furnishes no evidence as to his date, nor does he give any the least account of himself in his work. We must therefore judge at what period in Sanskrt literature we are to place the poet, first, from tradition, and secondly from internal and external evidence. Tradition makes Bhartrhari, as has already been said, the brother of Vikramaditya the epoch–maker. Vikram's era, the Samvat, begins 56 years before Christ. Bhartṛhari being the elder brother of Vikrama, we might suppose that tradition places him in the first half of the first century before[Christ.](# " There is some difference of opinion among antiquarians as regards the beginning of the Samvat Era. Mr. Telang believes that Vikrama was the founder of the Shaka or S'aliváhana era which dates with 78 A. D., and thus he places Bhartrhari towards the close of the first and the beginning of the second century after Christ. Mr. Telang's main contention is that Bhartrhari being the author of Vákyapadiya, sufficient time must be allowed to elapse between him and Patanjali for all the vicissitudes in the life' of latter's Mahabhashya We shall show further on from evidence collected by Mr. K. B. Pâthak, and which seem to be very conclusive, that the author of the Vakyapàdiya was a Buddhist. Bhartrhari the author of the S'atakas was not a Buddhist, and therefore Mr. Telang's objection to accepting R. C. 56 as the date of the commencement of the Samvat Era on the ground of insufficiency of the period we get for certain incidents in the history of the Mahabhashya recorded by the author of the Vakyapadiya falls to the ground. Another date has been proposed to mark the commencement of the Samvat Era viz. A. D. The reasoning by which the result has been arrived at, is to speak most charitably of it, simply fanciful.")  
- The internal evidence as to the date of the S'atakas is of a very vague and uncertain nature. The S'atakas are interspersed with Vedantic phraseology, but this in itself is hardly suficient to determine their period. The doctrines of the Vedântins were being discussed and formed for a number of [centuries,](# " It is difficult to determine the exact period in the history of Sanskrt literature which might appropriatly be called the Vedantic") and it
+ The poet himself furnishes no evidence as to his date, nor does he give any the least account of himself in his work. We must therefore judge at what period in Sanskrt literature we are to place the poet, first, from tradition, and secondly from internal and external evidence. Tradition makes Bhartrhari, as has already been said, the brother of Vikramaditya the epoch–maker. Vikram's era, the Samvat, begins 56 years before Christ. Bhartṛhari being the elder brother of Vikrama, we might suppose that tradition places him in the first half of the first century beforeChrist.[^5]  
+ The internal evidence as to the date of the S'atakas is of a very vague and uncertain nature. The S'atakas are interspersed with Vedantic phraseology, but this in itself is hardly suficient to determine their period. The doctrines of the Vedântins were being discussed and formed for a number of centuries,[^6] and it
+
+[^5]: " There is some difference of opinion among antiquarians as regards the beginning of the Samvat Era. Mr. Telang believes that Vikrama was the founder of the Shaka or S'aliváhana era which dates with 78 A. D., and thus he places Bhartrhari towards the close of the first and the beginning of the second century after Christ. Mr. Telang's main contention is that Bhartrhari being the author of Vákyapadiya, sufficient time must be allowed to elapse between him and Patanjali for all the vicissitudes in the life' of latter's Mahabhashya We shall show further on from evidence collected by Mr. K. B. Pâthak, and which seem to be very conclusive, that the author of the Vakyapàdiya was a Buddhist. Bhartrhari the author of the S'atakas was not a Buddhist, and therefore Mr. Telang's objection to accepting R. C. 56 as the date of the commencement of the Samvat Era on the ground of insufficiency of the period we get for certain incidents in the history of the Mahabhashya recorded by the author of the Vakyapadiya falls to the ground. Another date has been proposed to mark the commencement of the Samvat Era viz. A. D. The reasoning by which the result has been arrived at, is to speak most charitably of it, simply fanciful."
+
+[^6]: " It is difficult to determine the exact period in the history of Sanskrt literature which might appropriatly be called the Vedantic"
 
 is therefore difficult to hazard a conjecture as to a particular period in the history of Sanskrt letters having produced the poems... The puraņas are also referred to in the work; and as Prof. Wilson has tried to show that none of the Puranas date back more than a thousand years, some scholars have tried to place the S'atakas at so late a period as the eleventh or twelfth centnry A. D.' It is to be greatly doubted whether the reasoning of Prof. Wilson is conclusive enough; and whatever view might be held as to the interpolations which have been made in some of the Puranas, yet in general it may be said that they or some of them at least have existed prior to the first century A. D., so that the mere mention of the Puranas in a work cannot prove any thing as to its being a  
 modern production.
@@ -98,23 +110,35 @@ any the least light on his age.
 
  7 The Pauranic age is also the subject of as much controversy as any other period in Sanskrt literature. The greatest name connected with this period is that of Vyàsa the author of the eighteen puranas. Vyasa's name is also connected with the Vedic period, for he is said to have arranged the Vedas as we now find them. Vyása may there-fore be regarded as the link between the Vodic and the Pauranic peri-ods, and to have lived towards the close of the Vedic age and marked the commencement of the Pauraníc age. He is therefore certainly older than the Christian Era.
 
-work, but draws largely upon the literature then existing. Among other works it is indebted to the S'atakas, and onestanza from the Niti S'ataka has been borrowed by the [*Pancha Tantra*](# "Niti S'ataka, Sl. 91. Sharngadhara however quotes this verse as of some other poet after quoting a number from Bhartṛhari.") and from thence by the Kaltla–u–Dimnah. The author of the S'atakas therefore must have lived some time before 500 A. D., that is we cannot place him later than the latter half of the fifth century.
+work, but draws largely upon the literature then existing. Among other works it is indebted to the S'atakas, and onestanza from the Niti S'ataka has been borrowed by the *Pancha Tantra*[^7] and from thence by the Kaltla–u–Dimnah. The author of the S'atakas therefore must have lived some time before 500 A. D., that is we cannot place him later than the latter half of the fifth century.
+
+[^7]: "Niti S'ataka, Sl. 91. Sharngadhara however quotes this verse as of some other poet after quoting a number from Bhartṛhari."
 
  Bhartrhari nowhere mentions contemporary persons or incidentsnor is he referred to by any writer as a contemporary.
 
-**THE IDENTITY OF BHARTRHARI AND [BHATTIS](# "This is taken here with minor changes, which do not affect the argument at all, from the Introduction to the Bhatti Kavya Vol. I. S. K. Press Series.")**
+**THE IDENTITY OF BHARTRHARI AND BHATTIS[^8]**
+
+[^8]: "This is taken here with minor changes, which do not affect the argument at all, from the Introduction to the Bhatti Kavya Vol. I. S. K. Press Series."
 
  Bhartrhari has been identified with Bhatti, the author of the celebrated Bhatti Kavya. As to Bhartrhari himself there is a controversy as to whether the Bhartrhari of the Satakas and his namesake author of the Vakyapadîya are one and the same. So the controversy expands itself thus:—Was Bhatti another name for the author of the S'atakas, or for the author of the Vakyapadiya, or were the three one and the same or quite different individuals? That the three were not one is conclusively proved from some evidence collected together by Mr. K. B. Pathak. Mr. Pathak has proved from contemporary and other unquestionable evidence that the author of the Vákyapadiya was a Buddhist. Neither Bhartrhari the author of the Satakas nor Bhatti was & Buddhist. The S'atakas are not only not imbued with any of the characteristics that ought to mark a Buddhistic work for the inculcation of moral principles (for which the S'atakas are intended. but even the alleged traces of Buddhism in them are so faint that one can confidently assert that the work is not the production of Buddhistic genius. Nor was Bhatti a follower of Buddha. He glorifies in his epic, the Bhatti kavya, a hero whom Hinduism has idolised. A Buddhist would have chosen for his hero a coreligionist rather than a Hindu divinity. So the author or the *Vakyapadiya* was a distinct individual from either of the authors of the S'atakas or the Bhattikavya. So the question to be determined now is—was Bhatti the same as the author of the S'atakas? And we think not. In the accounts of the lives of these two individuals there is too great difference to admit of the one being identified with the other. If we ignore the tradition that the two were one
 
-and the same individual, we find very little that is common to the life of the two. Bhartrhari was a *Kshatriya*, Bhatti a *Brahmana*; the former is connected with Central India and the latter seems from a passage in the *Bhatti* *Kavya* to have belonged to the court of Valabhi. From internal evidence offered by the *S'atakas* and the *Bhatti Karya* we might say that they could not have been the productions of the same pen. The latter is as is well known a grammatical poem, and the author shows a wonderful command in handling his words, and even from a grammatical point of view the poemcan be said to be a perfect piece of composition. Of the *S'atakas* we cannot say the same. They confront us here and there with an uncouth form of a word, and a clumsy [construction.](# "For instances 95 N. S., 55 V. S'. &c.")This in itself is sufficient to awaken our suspicion, and reject all theories of identity. In their religion too they seem to be two different persons. Bhartrhari, though a professed unitarian as regards S'iva and Vishnu, now and then betrays his predilections towards the former [deity](# "See Sl. 'भक्तिर्भवे'c. V. S. 72.,58 &c."); while Bhaṭṭi isadevout worshipper of the latter. Another circumstance which leads to the same conclusion, is, as remarked by Mr. Govind S'ankara S'astri Bápat (in his preface to his edition of the Bhatti Kavya, N. S. Press Series) that in ancient works, distinction is made of the quotations from the works of these two poets. In the absence of equally trustworthy evidence or convincing argument, the above circumstances are sufficient to dispel all idea of theidentity of these two poets.
+and the same individual, we find very little that is common to the life of the two. Bhartrhari was a *Kshatriya*, Bhatti a *Brahmana*; the former is connected with Central India and the latter seems from a passage in the *Bhatti* *Kavya* to have belonged to the court of Valabhi. From internal evidence offered by the *S'atakas* and the *Bhatti Karya* we might say that they could not have been the productions of the same pen. The latter is as is well known a grammatical poem, and the author shows a wonderful command in handling his words, and even from a grammatical point of view the poemcan be said to be a perfect piece of composition. Of the *S'atakas* we cannot say the same. They confront us here and there with an uncouth form of a word, and a clumsy construction.[^9]This in itself is sufficient to awaken our suspicion, and reject all theories of identity. In their religion too they seem to be two different persons. Bhartrhari, though a professed unitarian as regards S'iva and Vishnu, now and then betrays his predilections towards the former deity[^10]; while Bhaṭṭi isadevout worshipper of the latter. Another circumstance which leads to the same conclusion, is, as remarked by Mr. Govind S'ankara S'astri Bápat (in his preface to his edition of the Bhatti Kavya, N. S. Press Series) that in ancient works, distinction is made of the quotations from the works of these two poets. In the absence of equally trustworthy evidence or convincing argument, the above circumstances are sufficient to dispel all idea of theidentity of these two poets.
+
+[^9]: "For instances 95 N. S., 55 V. S'. &c."
+
+[^10]: "See Sl. 'भक्तिर्भवे'c. V. S. 72.,58 &c."
 
 THE TWO BHARTRHARIS.
 
  Colebrooke seems to have made a distinction between the two Bhartrharis, for when speaking of the *Bhatti Karya* he says that its author was Bhartrhari and cautious his readers at the same time that this Bhartrhari was not the brother of Vikrama and author of the *S'atakas*. Evidently he must have been referring to the author of the *Vakyapadiya* whom he identifies with Bhaṭṭi. We have already stated on Mr. Pâtha's authority that the author of the *Vakyapadiya* was a Buddhist; and now we shall proceed to summarise Mr. Pàthak's evidence in brief.
 
- The Chinese traveller I-tsing who paid a visit to India towards the close of the 7th century states that the *grammarian* Bhartṛhari died forty years before his [visit](# " Prof. Max Muller calculates this date as 650 A. D."). The author of the *Vakyapadiya,*
+ The Chinese traveller I-tsing who paid a visit to India towards the close of the 7th century states that the *grammarian* Bhartṛhari died forty years before his visit[^11]. The author of the *Vakyapadiya,*
 
-the Chinese pilgrim says, was a Buddhist who "believed deeply in the three jewels, and meditated on the two–fold voidness."Vachaspatimis'ra, a writer of the 11th century speaks of the author of the *Vakyapadiya*, as a *Bahya* which means *Veda–bahya*, and this word was applied to the Buddhists. This confirms the statement of I'tsing that the grammarian Bhartrhari was a Buddhist. Kumàrila indulges in a violent invective against the author of the Vákyapadiya, which it would be difficult to understand under any other supposition except that he was a Buddhist. So the authors of the *S'atakas* and the *Vakyapadiya* must be regarded as different persons, and the only [objection](# "See supra, p. v.")which Mr. Telang had to placing our poet so early as at the middle of the 1st century B. C. may be supposed to be laid at rest
+[^11]: " Prof. Max Muller calculates this date as 650 A. D."
+
+the Chinese pilgrim says, was a Buddhist who "believed deeply in the three jewels, and meditated on the two–fold voidness."Vachaspatimis'ra, a writer of the 11th century speaks of the author of the *Vakyapadiya*, as a *Bahya* which means *Veda–bahya*, and this word was applied to the Buddhists. This confirms the statement of I'tsing that the grammarian Bhartrhari was a Buddhist. Kumàrila indulges in a violent invective against the author of the Vákyapadiya, which it would be difficult to understand under any other supposition except that he was a Buddhist. So the authors of the *S'atakas* and the *Vakyapadiya* must be regarded as different persons, and the only objection[^12]which Mr. Telang had to placing our poet so early as at the middle of the 1st century B. C. may be supposed to be laid at rest
+
+[^12]: "See supra, p. v."
 
 THE S'ATAKAS
 
@@ -122,7 +146,11 @@ THE S'ATAKAS
 
 VEDANTIC OR BUDDHISTIC
 
- The *S'atakas* are said by some to be Buddhistic.There might be some faint traces of Buddhist doctrines, or Buddhist [terminoslogy](# "the suspicion that our poet was a Buddhist rests on the authority of a Chinese traveller, but he refers to the author of the Vákyapadiya and not to our poet. See Supra. The Buddhistic traces are very faint and can hardly be detected. See हिंसाशून्यSl. 10, V. S'., स्वानुभूति N. S. 1, &c.")but that hardly goes to prove conclusively that the S'atakas are the production of Buddhistic intellect. On the contrary the extreme paucity of such passages as bear in whatsoever degree, indications of Buddhism, and the large prependerence of passages referring to the Yoga and the Vedánta philosophies ought to be considered as sufficient evidence to maintain that the S'atakas are not Buddhisticbut [Vedantic](# " There is frequent reference to Vedantic doctrines and to their"),On this point Mr. Telang declares
+ The *S'atakas* are said by some to be Buddhistic.There might be some faint traces of Buddhist doctrines, or Buddhist terminoslogy[^13]but that hardly goes to prove conclusively that the S'atakas are the production of Buddhistic intellect. On the contrary the extreme paucity of such passages as bear in whatsoever degree, indications of Buddhism, and the large prependerence of passages referring to the Yoga and the Vedánta philosophies ought to be considered as sufficient evidence to maintain that the S'atakas are not Buddhisticbut Vedantic[^14],On this point Mr. Telang declares
+
+[^13]: "the suspicion that our poet was a Buddhist rests on the authority of a Chinese traveller, but he refers to the author of the Vákyapadiya and not to our poet. See Supra. The Buddhistic traces are very faint and can hardly be detected. See हिंसाशून्यSl. 10, V. S'., स्वानुभूति N. S. 1, &c."
+
+[^14]: " There is frequent reference to Vedantic doctrines and to their"
 
 that after reading and re–reading the S'atakas he failed to trace any thing in them which can be called peculiarly Buddhistic. And it is certainly absurd to expect that Buddhism, with all the wide influence it once commanded in India would fail to leave its mark, faint though it be; on any thing connected with philosophy and morals.
 
@@ -231,15 +259,19 @@ M. R. KA'LE.
 
 **![](../books_images/U-IMG-1698762443i4.png)**
 
-**[दिक्कालाद्यनवच्छिन्नानन्तचिन्मात्रमूर्तये।](# "दिक्कालानवच्छिन्नाय चिन्मात्रानन्तमूर्तये, 'भूत्ये'–'भूत्यै', मानाय–साराय इ० पा०.")  
+**दिक्कालाद्यनवच्छिन्नानन्तचिन्मात्रमूर्तये।[^15]  
 स्वानुभूत्येकमानाय नमः शान्ताय तेजसे॥१॥**
+
+[^15]: "दिक्कालानवच्छिन्नाय चिन्मात्रानन्तमूर्तये, 'भूत्ये'–'भूत्यै', मानाय–साराय इ० पा०."
 
  दिक्काला०—दिक्च कालश्चदिक्कालौतावादी येषां ते दिक्कालादयः तैः अनवच्छिन्नं; चिदेव चिन्मात्रं तदेवमूर्तिर्यस्य; दि०न्नंचानन्तं च चिन्मात्रमूर्ति च तस्मै। स्वस्यानुभूतिः अनुभवः अथवा स्वकीयाऽनुभूतिः सैव एकं मानं प्रमाणं यस्य तस्मै।
 
 **यां चिन्तयामि सततं मयि सा विरक्ता  
 साप्यन्यमिच्छति जनं स जनोन्यसक्तः।  
-अस्मत्कृते च [परिशुष्यति](# "सक्तः–रक्तः, परिशुष्यति–परितुष्यति इ० पा०.") काचिदन्या  
+अस्मत्कृते च परिशुष्यति[^16] काचिदन्या  
 धिक्तां च तं च मदनं च इमां च मां च॥२॥**
+
+[^16]: "सक्तः–रक्तः, परिशुष्यति–परितुष्यति इ० पा०."
 
  अन्यस्मिन्स्त्रीजने सक्तः आसक्तः।
 
@@ -250,14 +282,18 @@ M. R. KA'LE.
  2. She of whom I think ceaselessly is indifferent towards me; sheyearns for another man, and he is attached to a third person. For me pines away a certain lady; fie on thatwoman, on him, and on the God of Love, as well as on this woman and on me.
 
 **अज्ञःसुखमाराध्यःसुखतरमाराध्यते विशेषज्ञः।  
-ज्ञानलवदुर्विदग्धं [ब्रह्मापि नरं](# "ब्रह्मापि तं नरम्.") न रञ्जयति॥३॥**
+ज्ञानलवदुर्विदग्धं ब्रह्मापि नरं[^17] न रञ्जयति॥३॥**
+
+[^17]: "ब्रह्मापि तं नरम्."
 
  विशेषज्ञः—विशेषं जानाऽतीति। ज्ञानलव०–ज्ञानस्य लवः लेशः तेन दुर्विदग्धःदुश्चतुरः ज्ञानलेशमात्रेण आत्मानं पण्डितंमन्य इत्यर्थः।
 
-**प्रसह्यमणिमुद्धरेन्मकरवक्त्र[दंष्ट्रान्तरा-](# "दंष्ट्राङ्कुरात्.")  
+**प्रसह्यमणिमुद्धरेन्मकरवक्त्रदंष्ट्रान्तरा-[^18]  
 त्समुद्रमपि संतरेत्प्रचलदूर्मिमालाकुलम्।  
 भुजङ्गमपि कोपितं शिरसि पुष्पवद्धारये-  
 न्न तु प्रतिनिविष्टमूर्खजनचित्तमाराधयेत्॥४॥**
+
+[^18]: "दंष्ट्राङ्कुरात्."
 
  मकरस्य वक्त्रं मकरवक्त्रं तस्य दंष्ट्रे तयोरंतरं मध्यं तस्मात्। प्रचलदू०–ऊर्मीणां मालाःऊर्मिमालाः प्रचलन्त्यश्च ता ऊर्मिमालास्ताभिराकुलस्तम्। सति असति वा वस्तुनि प्रतिनिविष्टं आविष्टं मूर्खजनस्य चित्तम्।
 
@@ -276,9 +312,11 @@ M. R. KA'LE.
  5. Sedulously pressing sand one might get oil even from it; a person parched with thirst might drink water in a
 
 **व्यालं बालमृणालतन्तुभिरसौ रोद्धुंसमुज्जृम्भते  
-[छेत्तुं](# "छेतुं-भेत्तुम्, मूर्खान्यः प्रतिनेतुमिच्छतिबलात्सूक्तैः इ० पा०.") वज्रमणीञ्शिरीषकुसुमप्रान्तेन संनह्यते।  
+छेत्तुं[^19] वज्रमणीञ्शिरीषकुसुमप्रान्तेन संनह्यते।  
 माधुर्येमधुबिन्दुना रचयितुं क्षाराम्बुधेरीहते  
 नेतुं वाञ्छति यः खलान्पथि सतां सुक्तैःसुधास्यन्दिभिः॥६॥**
+
+[^19]: "छेतुं-भेत्तुम्, मूर्खान्यः प्रतिनेतुमिच्छतिबलात्सूक्तैः इ० पा०."
 
  बालश्चासौ मृणालःतस्य तंतुभिः। वज्रं चासौ मणिः तान् वज्रमणीन्। मधुरातीति मधुरं मधुरस्य भावः माधुर्यम्। सुधां स्यन्दन्ते तच्छीलैः।
 
@@ -287,10 +325,12 @@ M. R. KA'LE.
 
  स्वस्य आयत्तम् स्वायत्तम्–स्वाधीनमित्यर्थः। एक एव अंतः यस्य स एकान्तः। एकान्तो गुणो यस्य तत्। पण्डा सदसद्विवेकबुद्धिः संजाता येषां ते पण्डिताः न पण्डिताः अपण्डिताः तेषाम्।
 
-यदा किंचिज्ज्ञोहं [द्विप](# "द्विप-गज़. ज्वर-धन.") इव मदान्धः समभवं  
+यदा किंचिज्ज्ञोहं द्विप[^20] इव मदान्धः समभवं  
 तदा सर्वज्ञोस्मीत्यभवदवलिप्तं मम मनः।  
 यदा किंचित्किंचिद्बुधजनसकाशादवगतं  
 तदा मूर्खोस्मीति ज्वर इव मदो मे व्यपगतः॥८॥
+
+[^20]: "द्विप-गज़. ज्वर-धन."
 
  द्वाभ्यां मुखशुण्डाभ्यां पिबतीति द्विपः।
 
@@ -302,16 +342,22 @@ mirage; roaming (here and there) a person night perchance find the horn of a har
  8. When I least knew any thing, I was, like an elephant,
 
 **कृमिकुलचितं लालाक्लिन्नंविगन्धि जुगुप्सितं  
-निरुपम[रसप्रीत्या](# "रसं प्रीत्या. गणयति न हि क्षुद्रो लोकः") खादन्नरास्थि निराभिषम्।  
+निरुपमरसप्रीत्या[^21] खादन्नरास्थि निराभिषम्।  
 सुरपतिमपि श्वा पार्श्वस्थं विलोक्य न शङ्कते  
 न हि गणयति क्षुद्रो जन्तुः परिग्रहफल्गुताम्॥९॥**
 
+[^21]: "रसं प्रीत्या. गणयति न हि क्षुद्रो लोकः"
+
  कृमिकु०–कृमीणां कुलैः चितं व्याप्तम्। निर्गता उपमा यस्मात् एतादृशो रसः यस्यां तया।परिग्रहस्य फल्गुतां तुच्छताम्।
 
-**शिरः शार्वे [स्वर्गात्पशुपतिशिरस्तः](# "स्वर्गात्पतति शिरसस्तत्०, पतति शिरसोतः०.")क्षितिधरं  
+**शिरः शार्वे स्वर्गात्पशुपतिशिरस्तः[^22]क्षितिधरं  
 महीध्रादुत्तुङ्गादवनिमवनेश्चापि जलधिम्।  
-[अधोधोगङ्गेयं](# "अधो०-अधो-अथो-गङ्गा सेयं.") पदमुपगता स्तोकमथवा  
+अधोधोगङ्गेयं[^23] पदमुपगता स्तोकमथवा  
 विवेकभ्रष्टानां भवति विनिपातः शतमुखः॥१०॥**
+
+[^22]: "स्वर्गात्पतति शिरसस्तत्०, पतति शिरसोतः०."
+
+[^23]: "अधो०-अधो-अथो-गङ्गा सेयं."
 
  शर्वस्येदं शार्वम्। महीं धारयतीति महीध्रः। स्तोकं–तुच्छं, क्षुद्रम्।
 
@@ -324,9 +370,11 @@ blinded by pride, (in the case of the elephant the sense is by rut), and my mind
  10. The Ganges falls from heaven on the head of S'iva; from the head of the Lord of beings to the mountain Himàlaya; from that lofty mountain to the plains (lit. the earth) and from thence into the ocean. Thus going down and down the Ganges here has been reduced to a low position; or it is no wonder; a hundred–fold ruin overtakes those that have lost their discernment.
 
 **शक्यो वारयितुं जलेन हुतभुक्छत्रेण सूर्यातपो  
-नागेन्द्रो निशिताङ्कुशेन समदौ दण्डेन [गोगर्दभौ](# "गौर्गर्दभः; भेषज०–भेषजसंग्रहेण विधिना.")।  
+नागेन्द्रो निशिताङ्कुशेन समदौ दण्डेन गोगर्दभौ[^24]।  
 च्याधिर्भेषजसंग्रहैश्च विविधैर्मन्त्रप्रयोगैर्विषं  
 सर्वस्यौषधमस्ति शास्त्रविहितं मूर्खस्य नास्त्यौषधम्॥११॥**
+
+[^24]: "गौर्गर्दभः; भेषज०–भेषजसंग्रहेण विधिना."
 
  हुतं भुङ्क्ते इति हुतभुक्। निशितश्चासौ अंकुशः तेन।भेषजसं०–औषधसेवनैः।
 
@@ -337,8 +385,10 @@ blinded by pride, (in the case of the elephant the sense is by rut), and my mind
 
 **येषां न विद्या न तपो न दानं ज्ञानं न शीलं न गुणो न धर्मः।  
 ते मर्त्यलोके भुवि भारभूता मनुष्यरूपेण मृगाश्चरन्ति॥१३॥  
-वरं पर्वत[दुर्गेषु](# "गहनदुर्गेषु. संपर्कः–संसर्गः.") भ्रान्तं वनचरैः सह।  
+वरं पर्वतदुर्गेषु[^25] भ्रान्तं वनचरैः सह।  
 न मूर्खजनसंपर्कःसुरेन्द्रभवनेष्वपि॥१४॥**
+
+[^25]: "गहनदुर्गेषु. संपर्कः–संसर्गः."
 
  पर्वाणि अस्य सन्तीति पर्वतः। दुःखेन गम्यत इति दुर्गः।
 
@@ -352,17 +402,21 @@ blinded by pride, (in the case of the elephant the sense is by rut), and my mind
 
  14. Better is it to wander in company with foresters through the inaccessible regions of mountains, but not the company of fools even in the halls of the Lord of gods.
 
-**शास्त्रोपस्कृतशब्दसुन्दगिरः [शिष्यप्रदेयागमा](# "शिष्योपदेशागमाः ")  
+**शास्त्रोपस्कृतशब्दसुन्दगिरः शिष्यप्रदेयागमा[^26]  
 विख्याताः कवयो वसन्ति विषये यस्य प्रभोर्निर्धनाः।  
 तज्जाड्यंवसुधाधिपस्य कवयो ह्यर्थे विनापीश्वराः  
 कुतस्याः स्युः कुपरीक्षका न मणयो यैरर्घतः पातिताः॥१५॥**
 
+[^26]: "शिष्योपदेशागमाः "
+
  शास्त्रैः उपस्कृताः अलंकृताः शब्दाः तैः सुन्दरा गिरो येषां ते शास्त्रो• गिरः। शिष्येभ्यः दातुं योग्यः आगमः येषां ते शिष्यप्रदेयागमाः।
 
 **हर्तुर्याति न गोचरं किमपि शं पुष्णाति यत्सर्वदा  
-ह्यर्थिभ्यः प्रतिपाद्यमानमनिशं प्राप्नोति [वृद्धिं पराम्](# "वृद्धिं परां गच्छति.")।  
+ह्यर्थिभ्यः प्रतिपाद्यमानमनिशं प्राप्नोति वृद्धिं पराम्[^27]।  
 कल्पान्तेष्वपि न प्रयाति निधनं विद्याख्यमन्तर्धनं  
 येषां तान्प्रति मानमुज्झत नृपाः कस्तैः सह स्पर्धेते॥१६॥**
+
+[^27]: "वृद्धिं परां गच्छति."
 
  गावःचरन्ति यस्मिन् तत् गोचरम्। गोः अक्षि, इंद्रियं वा। विद्या आख्या यस्य तत्। उज्झत–यजत।
 
@@ -381,10 +435,12 @@ blinded by pride, (in the case of the elephant the sense is by rut), and my mind
 
  परमश्चासौअर्थश्च परमार्थः; अधिगतः परमार्थःयैस्तान्। अभिनव०–अभिनवः यःमदः तस्य लेखा तथा श्यामं गण्डस्थलं येषाम्।
 
-अम्भोजिनी[वननिवासविलास](# "वनविहारविलासम्. ")समेव  
+अम्भोजिनीवननिवासविलास[^28]समेव  
 हंसस्य हन्ति नितरां कुपितो विधाता  
 न त्वस्य दुग्धजलभेदविधौ प्रसिद्धां  
 वैदग्ध्यकीर्तिमपहर्तुमसौ समर्थः॥१८॥
+
+[^28]: "वनविहारविलासम्. "
 
  अम्भोजिनीनां वनं तस्मिन् निवासः स तस्य वा यो विलासः तम्। दुग्धं च जलं च दुग्धजले तयोः भेदः तस्य विधौविधाने।
 
@@ -397,8 +453,12 @@ blinded by pride, (in the case of the elephant the sense is by rut), and my mind
 
 विद्या नाम नरस्य रूपमधिकं प्रच्छन्नगुप्तं धनं  
 विद्या भोगकरी यशःसुखकरी विद्या गुरूणां गुरुः।  
-विद्या बन्धुजनो विदेशगमने विद्या [परा देवता](# "परं दैवतम्.")  
-विद्या राजसु [पूजिता](# "पूजिता–पूज्यते न हि.")न तु धनं विद्याविहीनः पशुः॥२०॥
+विद्या बन्धुजनो विदेशगमने विद्या परा देवता[^29]  
+विद्या राजसु पूजिता[^30]न तु धनं विद्याविहीनः पशुः॥२०॥
+
+[^29]: "परं दैवतम्."
+
+[^30]: "पूजिता–पूज्यते न हि."
 
 ———————————————————————————————————————–
 
@@ -412,15 +472,21 @@ way; a lotus–fibre cannot present any obstacle to elephants whose temples have
 
  प्रच्छन्नं च तद्गुप्तं च; प्रच्छन्नं अतएव गुप्तमिति वा। भोगान् करोतीति भोगकरी।
 
-**[क्षान्तिश्चेत्कवचेन](# "क्षान्तिश्चेद्वचनेन.") किं किमरिभिः क्रोधोस्ति चेद्देहिनां  
+**क्षान्तिश्चेत्कवचेन[^31] किं किमरिभिः क्रोधोस्ति चेद्देहिनां  
 ज्ञातिश्चेदनलेन किं यदि सुहृद्दिव्यौषधैः किं फलम्।  
 किं सर्पैर्यदि दुर्जनाः किमु धनैर्विद्यानवद्या यदि  
 व्रीडा चेत्किमु भूषणैः सुकविता यद्यस्ति राज्येन किम्॥२१॥**
 
-**दाक्षिण्यं स्वजने दया [परजने](# "परिजने. विद्वज्जनेप्याजं०.")शाठ्यं सदा दुर्जने  
+[^31]: "क्षान्तिश्चेद्वचनेन."
+
+**दाक्षिण्यं स्वजने दया परजने[^32]शाठ्यं सदा दुर्जने  
 प्रीतिः साधुजने नयो नृपजने विद्वज्जनेष्वार्जवम्।  
-शौर्येशत्रुजने क्षमा गुरुजने [नारीजने](# "नारीजने कान्ताजने.") धूर्तता  
+शौर्येशत्रुजने क्षमा गुरुजने नारीजने[^33] धूर्तता  
 ये चैवं पुरुषाः कलासु कुशलास्तेष्वेव लोकस्थितिः॥२२॥**
+
+[^32]: "परिजने. विद्वज्जनेप्याजं०."
+
+[^33]: "नारीजने कान्ताजने."
 
 ** **शठस्य भावः शाव्यम्। ऋजोर्भावःआर्जवम्। लोकानां स्थितिःन्यायमार्गसंस्था।
 
@@ -444,7 +510,9 @@ for man, the hoard of wealth concealed and well–protected; it places within hi
 **सूनुः सञ्चरितः सती प्रियतमा स्वामी प्रसादोन्मुखः  
 स्निग्धं मित्रमवञ्चकः परिजनो निःक्लेशलेशं मनः।  
 आकारो रुचिरः स्थिरश्च विभवो विद्यावदातं मुखं  
-तुष्टे [विष्टपहारिणीष्टदहरौ](# "विष्टपकष्टहारिणि.") संप्राप्यते देहिना॥२५॥**
+तुष्टे विष्टपहारिणीष्टदहरौ[^34] संप्राप्यते देहिना॥२५॥**
+
+[^34]: "विष्टपकष्टहारिणि."
 
  उद्गतं मुखं यस्यासौ उन्मुखः; प्रसादस्य उन्मुखः प्रसादोन्मुखः। निःशेषेण गतः रागद्वेषादिजन्यक्लेशस्य लेशःयस्मात् तत्। विद्यया अवदातं शुद्धम्। विष्टपं हरति तच्छीलः।
 
@@ -461,14 +529,18 @@ dealing with the enemy, patience with the elders, and shrewdness towards women.
 **प्राणाघातार्न्निवृत्तिः परधनहरणे संयमः सत्यवाक्यै  
 काले शक्त्या प्रदानं युवतिजनकथामूकभावः परेषाम्।  
 कृष्णास्रोतोविभङ्गोगुरुषु च विनयः सर्वभूतानुकम्पा  
-सामान्यः सर्वशास्त्रेष्व[नुपहतविधिः](# "अनुपहतगतिः.") श्रेयसामेष पन्थाः॥२६॥**
+सामान्यः सर्वशास्त्रेष्वनुपहतविधिः[^35] श्रेयसामेष पन्थाः॥२६॥**
+
+[^35]: "अनुपहतगतिः."
 
  युवतिजनानां कथा तासु मूकभावः। तृष्णायाः स्रोतः प्रवाहःतस्य विभङ्गः।
 
-**प्रारभ्यते नखलु[विघ्न](# "विघ्नैः सहस्रगुणितैरपिहन्य.")भयेन नीचैः  
+**प्रारभ्यते नखलुविघ्न[^36]भयेन नीचैः  
 प्रारभ्यविघ्नविहता विरमन्ति मध्याः।  
 विघ्नैःपुनःपुनरपि प्रतिहन्यमानाः  
 प्रारब्धमुत्तमजना न परित्यजन्ति॥२७॥**
+
+[^36]: "विघ्नैः सहस्रगुणितैरपिहन्य."
 
 **प्रिया न्याय्यावृत्तिर्मलिनमसुभङ्गेप्यसुकरं  
 त्वसन्तोनाभ्यर्थ्याः सुहृदपि न याच्यःकृशधनः।  
@@ -484,17 +556,29 @@ dealing with the enemy, patience with the elders, and shrewdness towards women.
 
  27. For fear of obstacles, nothing is begun at all by mean people; ordinary people begin and stop when thwarted by difficulties; but good (i. e. resolute ) men, though repeatedly repelled by adverse circumstances, do not give up what they have begun.
 
-**क्षुत्क्षामोपि जराकृशोपि [शिथिलप्रायोपि](# "शिथिलप्राणोपि.") [कष्टां](# "कष्टां–दीनाम्.") दशा-  
+**क्षुत्क्षामोपि जराकृशोपि शिथिलप्रायोपि[^37] कष्टां[^38] दशा-  
 मापन्नोपि विपन्नदीधितिरपि प्राणेषु नश्यत्स्वपि।  
-[मत्तेभेन्द्र](# "उन्मत्तेभ.")विभिन्नकुम्भ[कवल](# "पिशित.")ग्रासैकबद्धस्पृहः  
+मत्तेभेन्द्र[^39]विभिन्नकुम्भकवल[^40]ग्रासैकबद्धस्पृहः  
 किं जीर्णे तृणमत्ति मानमहतामग्रेसरः केसरी॥२९॥**
+
+[^37]: "शिथिलप्राणोपि."
+
+[^38]: "कष्टां–दीनाम्."
+
+[^39]: "उन्मत्तेभ."
+
+[^40]: "पिशित."
 
  विपन्ना दीधितिस्तेजः पराक्रमः यस्य।मत्तश्चासौ इभेन्द्रश्च तस्य विभिन्नौ यौ कुम्भौ तयोः कवलः तस्य ग्रासः स एव एकः तस्मिन्बद्धां स्पृहा येन।
 
-**[स्वल्प](# "स्वल्पम्")स्नायुवसावशेषमलिनं निर्मोसमप्य[स्थिकं](# "अस्थिगोः")  
+**स्वल्प[^41]स्नायुवसावशेषमलिनं निर्मोसमप्यस्थिकं[^42]  
 श्वा लब्धा परितोषमेति न तु तत्तस्यक्षुधाशान्तयें।  
 सिंहो जम्बुकमङ्कमागतमपि त्यक्त्वा निहन्ति द्विपं  
 सर्वःकृच्छ्रगतोपि वाञ्छति जनः सत्त्वानुरूपं फलम्॥३०॥**
+
+[^41]: "स्वल्पम्"
+
+[^42]: "अस्थिगोः"
 
  स्वल्पःस्नायुवसावशेषस्तेन मलिनम्।
 
@@ -514,13 +598,25 @@ dealing with the enemy, patience with the elders, and shrewdness towards women.
 **परिवर्तिनि संसारे मृतः को वा न जायते।  
 स जातो येनजातेन याति वंशः समुन्नतिम्॥३२॥**
 
-**कुसुमस्तबकस्येव [द्वयी](# "द्वे गती स्तो मनस्विनाम्,") वृति[र्मनस्विनः](# "मनस्विनः-मनीषिणः।")।  
-मूर्ध्नि वा सर्वलोकस्य [विशीर्येत वने](# "शीर्यते वन एव वा.")ऽथवा॥३३॥**
+**कुसुमस्तबकस्येव द्वयी[^43] वृतिर्मनस्विनः[^44]।  
+मूर्ध्नि वा सर्वलोकस्य विशीर्येत वने[^45]ऽथवा॥३३॥**
+
+[^43]: "द्वे गती स्तो मनस्विनाम्,"
+
+[^44]: "मनस्विनः-मनीषिणः।"
+
+[^45]: "शीर्यते वन एव वा."
 
 **सन्त्यन्येपि बृहस्पतिप्रभृतयः संभाविताः पञ्चषा-  
 स्तान्प्रत्येष विशेषविक्रमरुची राहुर्न वैरायते।  
-द्वावेवप्रसते दिनेश्वरनिशाप्राणेश्वरौ [भासुरौ](# "भास्वरौ")  
-[भ्रातः](# "भ्रान्तः")पर्वणि पश्य दानवपतिः [शीर्षा](# "शीर्षावशेषाकृतिः")वशेषीकृतः॥३४॥**
+द्वावेवप्रसते दिनेश्वरनिशाप्राणेश्वरौ भासुरौ[^46]  
+भ्रातः[^47]पर्वणि पश्य दानवपतिः शीर्षा[^48]वशेषीकृतः॥३४॥**
+
+[^46]: "भास्वरौ"
+
+[^47]: "भ्रान्तः"
+
+[^48]: "शीर्षावशेषाकृतिः"
 
  बृहस्पतिः प्रभृतिः मुख्यो येषां ते। शीर्षेअवशेषः यस्य।अशीर्षावशेषः शीर्षावशेषः संपद्यमानः कृतः शीर्षा०।
 
@@ -535,16 +631,24 @@ dealing with the enemy, patience with the elders, and shrewdness towards women.
  34. There are even others—Brhaspati and others, five or six in number that are honourable (enongh); but Rahu delighting in (showing) his peculiar prowess does not act
 
 **वहति भुवनश्रेणीं शेषः फणाफलकस्थितां  
-कमठपतिना मध्ये[पृष्ठं](# "कष्टम्")सदा स विधार्यते।  
-तमपि कुरुते क्रोडाधीनं पयोधिर[नादरा-  
-द](# "निधिरादरात्")हह महतां निःसीमानश्चरित्रविभूतयः॥३५॥**
+कमठपतिना मध्येपृष्ठं[^49]सदा स विधार्यते।  
+तमपि कुरुते क्रोडाधीनं पयोधिरनादरा-  
+द[^50]हह महतां निःसीमानश्चरित्रविभूतयः॥३५॥**
+
+[^49]: "कष्टम्"
+
+[^50]: "निधिरादरात्"
 
  फणा एवं फलकं तस्मिन् स्थिताम्।पृष्टस्यमध्ये मध्येपृष्ठम्। क्रोडे अधि इति क्रोडाधीनः तम्।
 
 **वरंपक्षच्छेदः समदमघवन्मुक्तकुलिश-  
-प्रहारैरुद्गच्छद्धहल[दहनो](# "रुधिरो.")द्गारंगुरुभिः।  
+प्रहारैरुद्गच्छद्धहलदहनो[^51]द्गारंगुरुभिः।  
 तुषाराद्रेः सूनोरहह पितरि क्लेशविवशे  
-न चासौ संपातः पयसि पयसां [पत्यु](# "भर्तुः")रुचितः॥३६॥**
+न चासौ संपातः पयसि पयसां पत्यु[^52]रुचितः॥३६॥**
+
+[^51]: "रुधिरो."
+
+[^52]: "भर्तुः"
 
  मदेन सहितः समदः यो मघवान् तेन मुक्तं कुलिशं तस्य प्रहारैः। उद्गच्छन् यः बहृलःदहनः तस्य उद्गारः तेन गुरुभिः।
 
@@ -557,7 +661,9 @@ inimically towards them. On the new and full moon days the demon-chief whose hea
  36. Better would it have been (for Mainaka) to have his wings lopped off with the strokes of the thunderbolt hurled by the proud Indra, strokes which were unbearable on account of the flames of fireproceeding thickly from the thunderbolt; but alas, for the son of the frosty mountain a plunge into the waters of the ocean was not proper, even when the father (Himálaya) was beside himself with suffering.
 
 **यदचेतनोपि पादैः स्पृष्टः प्रज्वलति सवितुरिनकान्तः।  
-तत्तेजस्वी पुरुषः परकृत[निकृतिं](# "विकृतिम्")कथं सहते॥३७॥**
+तत्तेजस्वी पुरुषः परकृतनिकृतिं[^53]कथं सहते॥३७॥**
+
+[^53]: "विकृतिम्"
 
  परेण कृता या निकृतिः ताम्।
 
@@ -566,10 +672,12 @@ inimically towards them. On the new and full moon days the demon-chief whose hea
 
  मदेन मलिनाः कपोलभित्तयः येषां तेषु।
 
-जातिर्यातु रसातलं गुणगणस्तस्याप्यधो [गच्छतु](# "गच्छतात्")  
+जातिर्यातु रसातलं गुणगणस्तस्याप्यधो गच्छतु[^54]  
 शीलं शैलतटात्पतत्वभिजनः संदह्यतां वह्निना।  
 शौर्ये वैरिणि वज्रमाशु निपतत्वर्थोस्तु नः केवलं  
 येनैकेन विना गुणास्तृणलवप्रायाः समस्ता इमे॥३९॥
+
+[^54]: "गच्छतात्"
 
 तानीन्द्रियाणि सकलानि तदेव कर्म  
 सा बुद्धिरप्रतिहता वचनं तदेव।  
@@ -593,19 +701,29 @@ inimically towards them. On the new and full moon days the demon-chief whose hea
 स एव वक्ता स च दर्शनीयः  
 सर्वे गुणाः काञ्चनमाश्रयन्ते॥४१॥
 
-[दौर्मन्त्र्या](# "दुर्मन्त्रात्")नृपतिर्विनश्यति यतिः सङ्गात्सुतो लालना-  
+दौर्मन्त्र्या[^55]नृपतिर्विनश्यति यतिः सङ्गात्सुतो लालना-  
 द्विप्रोनध्यनात्कुलं कुतनयाच्छीलं खलोपासनात्।  
 हीर्मद्यादनवेक्षणादपि कृषिः स्नेहः प्रवासाश्रया-  
-न्मैत्री चाप्रणयात्समृद्धिरनया[त्त्यागप्रमादा](# "त्यागात्प्रमादात्")द्धनम्॥४२॥
+न्मैत्री चाप्रणयात्समृद्धिरनयात्त्यागप्रमादा[^56]द्धनम्॥४२॥
+
+[^55]: "दुर्मन्त्रात्"
+
+[^56]: "त्यागात्प्रमादात्"
 
  दुष्टःमन्त्री यस्य स दुर्मन्त्री तस्य भावः।
 
 दानं भोगो नाशस्तिस्रो गतयो भवन्ति वित्तस्य।  
 यो न ददाति न भुङ्क्तेतस्य तृतीया गतिर्भवति॥४३॥  
-मणिःशाणोल्लीढःसमरविजयी[हेतिनिहतो](# "हेतिदलितः")  
+मणिःशाणोल्लीढःसमरविजयीहेतिनिहतो[^57]  
 मदक्षीणोनागः शरदि सरितः श्यानपुलिनाः।  
-कलाशेषश्चन्द्रः सुरतमृदिता बाल[वनिता](# "ललना")  
-तनिम्ना शोभन्ते गलितविभवाश्चार्थिषु [जनाः](# "नृपाः")॥४४॥
+कलाशेषश्चन्द्रः सुरतमृदिता बालवनिता[^58]  
+तनिम्ना शोभन्ते गलितविभवाश्चार्थिषु जनाः[^59]॥४४॥
+
+[^57]: "हेतिदलितः"
+
+[^58]: "ललना"
+
+[^59]: "नृपाः"
 
 ——————————————————————————————————————————————————————  
 
@@ -621,15 +739,21 @@ inimically towards them. On the new and full moon days the demon-chief whose hea
 
 **परिक्षीणः कश्चिंत्स्पृहयति यवानां प्रसृतये  
 स पश्चात्संपूर्णः कलयति धरित्रीं तृणसमाम्।  
-अतश्चा[नैकान्त्या](# "अनैकान्त्या–नेकान्ता–नैकान्त्या")द्गुरुलघुतयार्थेषु धनिना-  
+अतश्चानैकान्त्या[^60]द्गुरुलघुतयार्थेषु धनिना-  
 मवस्था वस्तूनि प्रथयति च संकोचयति च॥४५॥**
+
+[^60]: "अनैकान्त्या–नेकान्ता–नैकान्त्या"
 
  तृणेन समाम्।नएकान्तमनेकान्तम् तस्य भावः अनैकान्त्यं तस्मात्।
 
 **राजन्दुधुक्षसि यदि क्षितिधेनुमेतां  
-[तेनाद्य](# "तेनाश्च-तेनाथ") वत्समिव लोकममुं पुषाण।  
-तस्मिंञ्च सम्यगनिशं परि[पोष्यमाणे](# "पुष्यमाणे.")  
+तेनाद्य[^61] वत्समिव लोकममुं पुषाण।  
+तस्मिंञ्च सम्यगनिशं परिपोष्यमाणे[^62]  
 नानाफलैः फलति कल्पलतेव भूमिः॥४६॥**
+
+[^61]: "तेनाश्च-तेनाथ"
+
+[^62]: "पुष्यमाणे."
 
  क्षितिरूपां धेनुम्।–
 
@@ -641,22 +765,30 @@ warrior wounded with a weapon, an elephant emaciating on account of rutting, riv
 
  46. O king, if you wish to milk this cow-like earth then first nourish (enrich) the nation as they do the calf; when thenation (the people) is being constantly enriched, the earth, like the desire–granting creeper, yields an abundance of fruits.
 
-**सत्याऽनृता च परुषा प्रिय[वादिनी](# "भाषिणी,") च  
+**सत्याऽनृता च परुषा प्रियवादिनी[^63] च  
 हिंस्रा दयालुरपि चार्थपरा वदान्या।  
 नित्यव्यया प्रचुरनित्यधनागमा च  
-[वारा](# "वेश्या")ङ्गनेव नृपनीतिरनेकरूपा॥४७॥**
+वारा[^64]ङ्गनेव नृपनीतिरनेकरूपा॥४७॥**
+
+[^63]: "भाषिणी,"
+
+[^64]: "वेश्या"
 
  अर्थे परा अर्थ परा। वदान्या दानशौण्डा।प्रचुरो नित्यं धनागमो यस्यां सा तथा।
 
-**आज्ञाकीर्तिः पालनं [ब्राह्मणानां](# "सज्जनानाम्.") दानं भोगो मित्रसंरक्षणं च।  
+**आज्ञाकीर्तिः पालनं ब्राह्मणानां[^65] दानं भोगो मित्रसंरक्षणं च।  
 येषामेते षड्गुणा न प्रवृत्ताः कोर्थस्तेषां पार्थिवोपाश्रयेण॥४८॥**
+
+[^65]: "सज्जनानाम्."
 
  पार्थिवस्य उपाश्रयेण कोर्थः। न कोपीत्यर्थः। यद्वा पार्थिव तवोपाश्रयेण इति पदच्छेदः।
 
 **यद्धात्रा निजभालपट्टलिखितं स्तोकं महद्वा धनं  
-तत्प्राप्नोति मरुस्थलेपि [नितरां](# "नियतम्") मेरौ ततो नाधिकम्।  
+तत्प्राप्नोति मरुस्थलेपि नितरां[^66] मेरौ ततो नाधिकम्।  
 तद्धीरो भव वित्तवत्सु कृपणां वृत्तिंवृथा मा कृथाः  
 कूपे पश्य पयोनिधावपि घटो गृह्णाति तुल्यं जलम्॥४९॥**
+
+[^66]: "नियतम्"
 
  भालमेव पट्टः तस्मिन्।म्रियन्ते अस्मिन्भूतानि इति मरुस्तत्स्थले निर्जलप्रदेशे। कृपणां दीनाम्।
 
@@ -668,16 +800,24 @@ warrior wounded with a weapon, an elephant emaciating on account of rutting, riv
 
  49. Whatever amount of wealth, large or small, might have been allotted to (lit. written on the forehead of) a man, he certainly obtains even in the country called Maru; on the mountain Meru he could get no more. Have patience then,
 
-**त्वमेव [चातकाधारोसीति](# "चातकाधार इति") केषांन गोचरः।  
-किमम्भोदवरास्माकं कार्पण्योक्तिः [प्रतीक्ष्यते](# "किं प्रतीक्षसे")॥५०॥**
+**त्वमेव चातकाधारोसीति[^67] केषांन गोचरः।  
+किमम्भोदवरास्माकं कार्पण्योक्तिः प्रतीक्ष्यते[^68]॥५०॥**
+
+[^67]: "चातकाधार इति"
+
+[^68]: "किं प्रतीक्षसे"
 
  कार्पण्या च सा उक्तिश्च। किं प्रतीक्षसे तामन्तरेणापि वृष्टिं कर्तुमर्हसीत्यर्थः।
 
 **रे रे चातक सावधानमनसा मित्र क्षणं श्रूयता-  
 मम्भोदा बहवो हि सन्ति गगने सर्वेपि नैतादृशाः।**  
 
-**केचिद्वृष्टिभिरार्द्रयन्ति [वसुधां](# "धरणीम् ") गर्जन्ति [केचिद्वृ](# "केचित् एके.")था  
+**केचिद्वृष्टिभिरार्द्रयन्ति वसुधां[^69] गर्जन्ति केचिद्वृ[^70]था  
 यं यं पश्यसि तस्य तस्य पुरतो मा ब्रूहि दीनं वचः॥५१॥**
+
+[^69]: "धरणीम् "
+
+[^70]: "केचित् एके."
 
 **अकरुणत्वमकारणविग्रहः  
 परधने परयोषित च स्पृहा।  
@@ -696,20 +836,30 @@ and do not make yourself despicable (lit. do not make your conduct despicable in
 
  52. Cruelty, unprovoked opposition, lust for another's wealth and wife, and envy towards good men and relations: these are natural with the wicked.
 
-**दुर्जनः परिहर्तव्यो [विद्यया भूषितो](# " विद्ययालंकृतः,")पि सन्।  
-[मणिनालंकृतः](# "मणिना भूषितः") सर्पः किमसौ न भयंकरः॥५३॥**  
+**दुर्जनः परिहर्तव्यो विद्यया भूषितो[^71]पि सन्।  
+मणिनालंकृतः[^72] सर्पः किमसौ न भयंकरः॥५३॥**  
+
+[^71]: " विद्ययालंकृतः,"
+
+[^72]: "मणिना भूषितः"
 
 **जाड्यं ह्रीमति गण्यते व्रतरुचौ दम्भः शुचौ कैतवं  
-शूरे निर्घृणता [मुनौ](# "ऋजौ, आर्जवे.") विमतिता दैन्यं प्रियालापिनी।  
+शूरे निर्घृणता मुनौ[^73] विमतिता दैन्यं प्रियालापिनी।  
 तेजस्विन्यवलिप्तता मुखरता वक्तर्यशक्तिः स्थिरे  
-तत्को नाम गुणो भवेत्स [गुणिनां](# "सुगुणिनाम्,") यो दुर्जनैर्नाङ्कितः॥५४॥**
+तत्को नाम गुणो भवेत्स गुणिनां[^74] यो दुर्जनैर्नाङ्कितः॥५४॥**
+
+[^73]: "ऋजौ, आर्जवे."
+
+[^74]: "सुगुणिनाम्,"
 
  ह्रीमति ही गुणवति। व्रते रुचिर्यस्य तस्मिन्।कितवस्य भावः कैतवं धौर्त्यम्।
 
 **लोभश्चेदगुणेन किं पिशुनता यद्यस्ति किं पातकैः  
 सत्यं चेत्तपसा च किं शुचि मनो यद्यस्ति तीर्थेन किम्।  
-सौजन्यं यदि किं[निजैः](# "गुणैः") स्वमहिमा यद्यस्ति किंमण्डनैः  
+सौजन्यं यदि किंनिजैः[^75] स्वमहिमा यद्यस्ति किंमण्डनैः  
 सद्विद्या यदि किंजनैरपयशो यद्यस्ति किं मृत्युना॥५५॥**
+
+[^75]: "गुणैः"
 
 ——————————————————————————————————————————————————————  
 
@@ -729,14 +879,20 @@ and do not make yourself despicable (lit. do not make your conduct despicable in
  दिवसेन धूसरः। गलितं यौवनं यस्याः। न विद्यन्ते अक्षराणि यस्मिन् तदनक्षरम्। स्वाकृतेः—सु शोभना आकृतिः यस्य तस्य।
 
 न कश्चिञ्चण्डकोपानामात्मीयो नाम भूभुजाम्।  
-होतार[मपि जुह्वानं](# "जुह्वतमपि") स्पृष्टो दहति पावकः॥५७॥
+होतारमपि जुह्वानं[^76] स्पृष्टो दहति पावकः॥५७॥
+
+[^76]: "जुह्वतमपि"
 
  चण्डः कोपः येषाम्। भुवं भुञ्जति ते भूभुजः।
 
-**मौनान्मूकः प्रवचनपटु[श्चाटुलो](# "वातुलः") जल्पको वा  
-धृष्टः पार्श्वे [वसति](# "भवति.") च तदा दूरतश्चाप्रगल्भः।  
+**मौनान्मूकः प्रवचनपटुश्चाटुलो[^77] जल्पको वा  
+धृष्टः पार्श्वे वसति[^78] च तदा दूरतश्चाप्रगल्भः।  
 क्षान्त्या भीरुर्यदि न सहते प्रायशो नाभिजातः  
 सेवाधर्मः परमगहनो योगिनामप्यगम्यः॥५८॥**
+
+[^77]: "वातुलः"
+
+[^78]: "भवति."
 
  प्रवचने पटुः। चाटुलःचाटुकारः।अभिजातः कुलीनः।
 
@@ -749,9 +905,15 @@ and do not make yourself despicable (lit. do not make your conduct despicable in
  58. Service is the most difficult thing to be done even bysages; (for a servant is called) dumb if he is silent, (if heis) ready with his answer, he is talkative or garrulous, if he stands near, he is impudent, and then if he keeps at a distance, he is timid; it he bears patiently, he is a coward; if he cannot brook (harsh words, insults &c.) he is most probably considered mannerless.
 
 **उद्भासिताखिलखलस्य विशृङ्गलस्य  
-[प्राग्जात](# "प्रोद्गाढ")[विस्मृत](# "विस्तृत")निजाधमकर्मवृत्तेः।  
+प्राग्जात[^79]विस्मृत[^80]निजाधमकर्मवृत्तेः।  
 दैवादवाप्तविभवस्य गुणद्विषोस्य  
-नीचस्य गोचरगतैः सुख[मास्यते](# "आप्यते.") कैः॥५९॥**
+नीचस्य गोचरगतैः सुखमास्यते[^81] कैः॥५९॥**
+
+[^79]: "प्रोद्गाढ"
+
+[^80]: "विस्तृत"
+
+[^81]: "आप्यते."
 
  उद्भासिताः अखिलाः खलाःयेन तस्य।शृंखलायाःविगतः। प्राग्जाता (पश्चात्) विस्मृता।कर्मभिः वृत्तिः कर्मवृत्तिः। प्राग्जातविस्मृता निजा अधमा कर्मवृत्तिः येन।अवाप्तः विभवः येन तस्य।गुणान् द्वेष्टीति गुणद्विद्।
 
@@ -775,24 +937,40 @@ and do not make yourself despicable (lit. do not make your conduct despicable in
 
  61. The deer, the fish, and the virtuous, living on grass, water and contentment respectively (find) in this world unprovoked enemies (in) the hunter, the fisherman, and the wicked.
 
-**वाञ्छा सज्जनसंगमे [परगुणे](# "गुणिगणे.")प्रीतिर्गुरौ नम्रता  
+**वाञ्छा सज्जनसंगमे परगुणे[^82]प्रीतिर्गुरौ नम्रता  
 विद्यायां व्यसनं स्वयोषिति रतिर्लोकापवादाद्भयम्।  
-भक्तिः [शूलिनि](# "चक्रिणि")शक्तिरात्मदमने संसर्गमुक्तिः खले  
-एते [येषु](# "यत्र") वसन्ति निर्मलगुणा[स्तेभ्यो](# "तेष्वेवलोकस्थितिः ") नरेभ्यो नमः॥६२॥**
+भक्तिः शूलिनि[^83]शक्तिरात्मदमने संसर्गमुक्तिः खले  
+एते येषु[^84] वसन्ति निर्मलगुणास्तेभ्यो[^85] नरेभ्यो नमः॥६२॥**
+
+[^82]: "गुणिगणे."
+
+[^83]: "चक्रिणि"
+
+[^84]: "यत्र"
+
+[^85]: "तेष्वेवलोकस्थितिः "
 
  ‘स्वस्य योषिति। खले यः संसर्गः तस्मात् मुक्तिः सापेक्षः समासोऽयम्।
 
 विपदि धैर्यमथाभ्युदये क्षमा  
 सदसि वाक्पटुता युधि विक्रमः।  
-यशसि [चाभिरतिर्व्यसनं](# "चाभिरुचिः") [श्रुतौ](# "श्रुते")  
+यशसि चाभिरतिर्व्यसनं[^86] श्रुतौ[^87]  
 प्रकृतिसिद्धमिदं हि महात्मनाम्॥६३॥
+
+[^86]: "चाभिरुचिः"
+
+[^87]: "श्रुते"
 
  वाचि पटुता। प्रकृत्या सिद्धम्।
 
 प्रदानं प्रच्छन्नं गृहमुपगते संभ्रमविधिः  
-प्रियं कृत्वा मौनं सदसि कथनं [नाष्युपकृतेः](# "चाप्युपकृतेः")।  
-अनुत्सेको [लक्ष्म्यां](# "लक्ष्म्या") निरभिभवसाराः परकथाः  
+प्रियं कृत्वा मौनं सदसि कथनं नाष्युपकृतेः[^88]।  
+अनुत्सेको लक्ष्म्यां[^89] निरभिभवसाराः परकथाः  
 सतां केनोद्दिष्टं विषममसिधाराव्रतमिदम्॥६४॥
+
+[^88]: "चाप्युपकृतेः"
+
+[^89]: "लक्ष्म्या"
 
  निर्गतः अभिभवःयस्मात् तादृशः सारः यासु ताः।
 
@@ -805,9 +983,13 @@ and do not make yourself despicable (lit. do not make your conduct despicable in
  64. Who taught this policy—dangerous like lying on the edge of a sword–blade–to the good:viz. charity in secret, kind reception to him who comes to them (lit. the house)
 
 **करे श्लाघ्यस्त्यागः शिरसिगुरुपादप्रणयिता  
-मुखे सत्या वाणी विजयिभुजयो[र्वीर्य](# "पौरुषमहो.")मतुलम्।  
-हृदि[स्वच्छा](# "स्वस्था")वृत्तिः श्रुतमधिगतं च श्रवणयो–  
+मुखे सत्या वाणी विजयिभुजयोर्वीर्य[^90]मतुलम्।  
+हृदिस्वच्छा[^91]वृत्तिः श्रुतमधिगतं च श्रवणयो–  
 र्विनाप्यैश्वर्येण प्रकृतिमहतां मण्डनमिदम्॥६५॥**
+
+[^90]: "पौरुषमहो."
+
+[^91]: "स्वस्था"
 
  गुरोः पादयोः प्रणयिता नम्रता। विजयिनौ च तौ भुजौ च तयोः। अथवा विजयि इति वीर्यविशेषणम्। प्रकृत्या महान्तः तेषाम्।मण्डनं भूषणम्।
 
@@ -816,10 +998,18 @@ and do not make yourself despicable (lit. do not make your conduct despicable in
 
  शिलानां संघातःशिलासेषातः।महांश्चासौ शैलश्चमहाशैलः तस्य शिला संघातः तद्वत्कर्कशं कठिणम्।
 
-संतप्तायसिसंस्थितस्य पयसो नामापि न[श्रूयते](# "ज्ञायते")  
+संतप्तायसिसंस्थितस्य पयसो नामापि नश्रूयते[^92]  
 मुक्ताकारतया तदेव नलिनीपत्रस्थितंराजते।  
-स्वात्यां सागर[शुक्ति](# "कुक्षि")मध्यपतितं [सन्मौ](# "तन्मौ०")क्तिकं जायते  
-प्रायेणाधममध्यमोत्तमगुणः [संसर्गतो](# "संवासतः.") जायते॥६७॥
+स्वात्यां सागरशुक्ति[^93]मध्यपतितं सन्मौ[^94]क्तिकं जायते  
+प्रायेणाधममध्यमोत्तमगुणः संसर्गतो[^95] जायते॥६७॥
+
+[^92]: "ज्ञायते"
+
+[^93]: "कुक्षि"
+
+[^94]: "तन्मौ०"
+
+[^95]: "संवासतः."
 
 ——————————————————————————————————————————————————————  
 
@@ -833,18 +1023,28 @@ silence after doing good, not announcing in public their kindness (to others), f
 
  संतप्ते अयसि। समुद्रे या शुक्तिस्तस्या मध्ये पतितम्। अधमश्चमध्यमश्चउत्तमश्चअध•माः तादृशो गुणा यस्य।
 
-**[प्रीणाति](# "यः प्रणियेत्") यः सुचरितैः पितरं स पुत्रो  
+**प्रीणाति[^96] यः सुचरितैः पितरं स पुत्रो  
 यद्भर्तुरेव हितमिच्छति तत्कलत्रम्।  
-तन्मित्रमापदि सुखे च [समक्रियं य-](# "यदेकरूपम्.")**
+तन्मित्रमापदि सुखे च समक्रियं य-[^97]**
 
-**[दे](# "यदेकरूपम्.")तत्रयं जगति पुण्यकृतो लभन्ते॥६८॥**
+[^96]: "यः प्रणियेत्"
+
+[^97]: "यदेकरूपम्."
+
+**दे[^97]तत्रयं जगति पुण्यकृतो लभन्ते॥६८॥**
+
+[^97]: "यदेकरूपम्."
 
  भर्तुर्हितमेव इत्यन्वयः। समा क्रिया यस्य तत्।
 
 **नम्रत्वेनोन्नमन्तः परगुणकथनैःस्वान्गुणान्ख्यापयन्तः  
-स्वार्थान्संपादयन्तो वितत[पृथुतरा](# "पृथुमहा, बहुतरा")रम्भयत्नाः परार्थे।  
-क्षान्त्यैवाक्षेपरूक्षाक्षरमुखरमुखा[न्दुर्मुखान्दूषयन्तः](# "दूषयन्तः समन्तात्")  
+स्वार्थान्संपादयन्तो विततपृथुतरा[^99]रम्भयत्नाः परार्थे।  
+क्षान्त्यैवाक्षेपरूक्षाक्षरमुखरमुखान्दुर्मुखान्दूषयन्तः[^100]  
 सन्तः साश्चर्यचर्या जगति बहुमताः कस्य नाभ्यर्चनीयाः॥६९॥**
+
+[^99]: "पृथुमहा, बहुतरा"
+
+[^100]: "दूषयन्तः समन्तात्"
 
  परेषां गुणाः तेषां कथनैः।अतिशयेन पृथवः पृथुतरा आरंभाःपृथुतरारम्भाः। महत्कृत्यानीत्यर्थः। तेषु विततः प्रयत्नः यैः ते। आक्षेपाणां यानि रूक्षाणि अक्षराणि तैर्मुखराणि मुखानि येषां तान्। आश्चर्येण सहिता चर्या आचरणं येषां ते।
 
@@ -855,9 +1055,11 @@ lotus-leaf shines assuming the form of pearls; it is transformed into a pearl wh
 69. Rising by their humility, evidenoing their own merits by extolling the merits of others, gaining their ends by projecting extensive schemes for (the good of) others, and
 
 **भवन्ति नम्रास्तरवः फलोद्गमै-  
-र्नवाम्बुभि[र्भूरि](# "भूमि, दूर,")विलम्बिनो घनाः।  
+र्नवाम्बुभिर्भूरि[^101]विलम्बिनो घनाः।  
 अनुद्धताः सत्पुरुषाः समृद्धिभिः  
 स्वभाव एवैष परोपकारिणाम्॥७०॥**
+
+[^101]: "भूमि, दूर,"
 
  फलानामुद्गमे प्रादुर्भावे। नूतनानि अंबूनि तैः।
 
@@ -883,22 +1085,34 @@ censuring calumniators, whose tongues (lit. mouths) are noisy with the harsh syl
 
 **पद्माकरं दिनकरोविकची करोति  
 चन्द्रो विकाशयति कैरवचक्रवालम्।  
-माभ्यर्थितो [जलधरोपि](# "पि जलदां सलिलम् ") जलं ददाति  
-सत्तः स्वयं [परहिते](# "परहिते सुकृताभियोगाः")षु कृताभियोगाः॥७३॥**
+माभ्यर्थितो जलधरोपि[^102] जलं ददाति  
+सत्तः स्वयं परहिते[^103]षु कृताभियोगाः॥७३॥**
+
+[^102]: "पि जलदां सलिलम् "
+
+[^103]: "परहिते सुकृताभियोगाः"
 
  अभितः योगः अभियोगःउत्सापूर्वको यत्नः।
 
-**[एते](# "एके") सत्पुरुषाः परार्थघटकाः [स्वार्थे](# "स्वार्थम्-स्वार्थान्")परित्यज्य ये  
+**एते[^104] सत्पुरुषाः परार्थघटकाः स्वार्थे[^105]परित्यज्य ये  
 सामान्यास्तु परार्थमुद्यमभृतः स्वार्थाविरोधेन ये।  
-तेभी[मानव](# "मानुष.")राक्षसाः परहितं स्वार्थाय निघ्नन्ति ये  
+तेभीमानव[^106]राक्षसाः परहितं स्वार्थाय निघ्नन्ति ये  
 ये निघ्नन्ति निरर्थकं परहितं ते के न जानीमहे॥७४॥**
+
+[^104]: "एके"
+
+[^105]: "स्वार्थम्-स्वार्थान्"
+
+[^106]: "मानुष."
 
  परेषामर्थ घटयन्तीति परार्थघटकाः। उद्यमं बिभ्रतीति उद्यमभृतः सोधोगा इत्यर्थः। विरोधस्य अभावः अवि० स्वार्थेन अविरोधः तेन।
 
-**क्षीरेणात्मगतोदकाय[हि गुणा](# "सकला दत्ता निजा ये गुणाः.") दत्ताः पुरा तेऽखिलाः  
+**क्षीरेणात्मगतोदकायहि गुणा[^107] दत्ताः पुरा तेऽखिलाः  
 क्षीरेतापमवेक्ष्य तेन पयसा ह्यात्मा कृशानौ हुतः।  
 गन्तुं पावकमुन्मनस्तद्भवदृष्ट्वा तु मित्रापदं  
 युक्तं तेन जलेन शाम्यति सतां मैत्री पुनस्त्वीदृशी॥७५॥**
+
+[^107]: "सकला दत्ता निजा ये गुणाः."
 
 ——————————————————————————————————————————————————————  
 
@@ -913,19 +1127,25 @@ censuring calumniators, whose tongues (lit. mouths) are noisy with the harsh syl
 इतः स्वपिति केशवः कुलमितस्तदीयद्विषा-  
 मितश्च शरणार्थिनः शिखरिणां गणाः शेरते।  
 इतोपि वडवानलः सह समस्तसंवर्तकै-  
-रहो [विततमूर्जित](# "विभवमूर्च्छितम्.") भरसहं च सिन्धोर्वपुः॥७६॥
+रहो विततमूर्जित[^108] भरसहं च सिन्धोर्वपुः॥७६॥
+
+[^108]: "विभवमूर्च्छितम्."
 
 तृष्णां छिन्धिभज क्षमां जहि मदं पापेरतिंमा कृथाः  
 सत्यं ब्रूह्ययाहि साधुपदवीं सेवस्व विद्वज्जनम्।  
 मान्यान्मानय विद्विषोप्यनुनय प्रच्छादयस्वान्गुणा-  
-न्कीर्ति पालय दुःखिते कुरु दयामेतत्सता [लक्षणम्](# "चेष्टितम्")॥७७॥
+न्कीर्ति पालय दुःखिते कुरु दयामेतत्सता लक्षणम्[^109]॥७७॥
+
+[^109]: "चेष्टितम्"
 
  साधोः पदवीम्।
 
 मनसि वचसि काये पुण्यंपीयूषपूर्णा-  
-स्त्रिभुवनमुपकारश्रेणिभिः [पूर](# "प्रीणयन्तः")यन्तः।  
+स्त्रिभुवनमुपकारश्रेणिभिः पूर[^110]यन्तः।  
 परगुणपरमाणून्पर्वतीकृत्य नित्यं  
 निजहृदि विकसन्तः सन्ति सन्तः कियन्तः॥७८॥
+
+[^110]: "प्रीणयन्तः"
 
 ——————————————————————————————————————————————————————  
 
@@ -942,21 +1162,31 @@ heated) water sacrificed itself in the fire (i. e. became evaporated); seeing th
 **किं तेन हेमगिरिणा रजताद्रिणा वा  
 यत्राश्रिताश्च तरवस्तरवस्त एव।  
 मन्यामहेमलयमेव यदाश्रयेण  
-कङ्कोलनिम्ब[कुटजा अपि](# "कुटजान्यपि,") चन्दनानि॥७९॥**
+कङ्कोलनिम्बकुटजा अपि[^111] चन्दनानि॥७९॥**
+
+[^111]: "कुटजान्यपि,"
 
  हेमगिरिः मेरुः।रजताद्रिः कैलासः। कङ्कोलाश्चनिम्बाश्चकुटजाश्चते।
 
-**रत्नै[र्महार्है](# "महार्धै")स्तुतुषुर्न देवा  
+**रत्नैर्महार्है[^112]स्तुतुषुर्न देवा  
 न भेजिरे भीमविषेण भीतिम्।  
 सुधां विना न प्रययुर्विरामं  
 न निश्चितार्थाद्विरमन्ति धीराः॥८०॥**
 
+[^112]: "महार्धै"
+
  भीमं विषं तेन। निश्चितः योऽर्थः तस्मात्।
 
-**क्वचि[द्भूमौ](# "भूमिः शव्या") [शायी](# "शय्या")क्वचिदपि च पर्यङ्क[शयनः](# "शयनम्,")  
+**क्वचिद्भूमौ[^113] शायी[^114]क्वचिदपि च पर्यङ्कशयनः[^115]  
 क्वचिच्छाकाहारी क्वचिदपि च शाल्योदनरुचिः।  
 क्वचित्कन्थाधारी क्वचिदपि च दिव्याम्बरधरो  
 मनस्वी कार्यार्थी न गणयति दुःखं न च सुखम्॥८१॥**
+
+[^113]: "भूमिः शव्या"
+
+[^114]: "शय्या"
+
+[^115]: "शयनम्,"
 
 ——————————————————————————————————————————————————————  
 
@@ -972,8 +1202,10 @@ in thought, wordand action, pleasing the three worlds with numerous acts of bene
 
 **ऐश्वर्यस्य विभूषणं सुजनता शौर्यस्य वाक्संयमो  
 ज्ञानस्योपशमः श्रुतस्य विनयो वित्तस्य पात्रे व्ययः।  
-अक्रोधस्तपसःक्षमा प्रभवितुर्धर्मस्य [निर्व्याजता](# "-निःकामता")  
+अक्रोधस्तपसःक्षमा प्रभवितुर्धर्मस्य निर्व्याजता[^116]  
 सर्वेषामपि सर्वकारणमिदं शीलं परं भूषणम्॥८२॥**
+
+[^116]: "-निःकामता"
 
 **निन्दतु नीतिनिपुणा यदि वा स्तुवन्तु  
 लक्ष्मीः समाविशतु गच्छतु वा यथेष्टम्।  
@@ -982,10 +1214,12 @@ in thought, wordand action, pleasing the three worlds with numerous acts of bene
 
  नीत्यांनिपुणाः। न्यायादनपेतः न्याय्यस्तस्मात्।
 
-**भग्नाशस्य करण्ड[पीडित](# " पिण्डित.")तनोर्म्लानेन्द्रियस्य क्षुधा  
+**भग्नाशस्य करण्डपीडित[^117]तनोर्म्लानेन्द्रियस्य क्षुधा  
 कृत्वाखुविवरं स्वयं निपतितो नक्तं मुखे भोगिनः।  
 तृप्तस्तत्पिशितेन सत्वरमसौ तेनैव यातः पथा  
 लोकाः पश्यत दैवमेव हि नृणां वृद्धौ क्षये कारणम्॥८४॥**
+
+[^117]: " पिण्डित."
 
  करण्डे पीडिता तनुः यस्य। म्लानानि इंद्रियाणि यस्य।
 
@@ -1001,17 +1235,31 @@ ing rice prepared from the S'ali variety, sometimes wearing a wallet and at othe
 
 **पातितोपि कराघातैरुत्पतत्येव कन्दुकः।  
 प्रायेण साधुवृत्तानामस्थायिन्यो विपत्तयः॥८५॥  
-आलस्यं [हि मनुष्याणां](# "हि सुवृत्तानाम्") शरीरस्थो [महान्रिपुः](# "महारिपुः")।  
-नास्त्युद्यमसमो बन्धुः [कृत्वा यं](# "कुर्वाणः") नावसीदति॥८६॥**
+आलस्यं हि मनुष्याणां[^118] शरीरस्थो महान्रिपुः[^119]।  
+नास्त्युद्यमसमो बन्धुः कृत्वा यं[^120] नावसीदति॥८६॥**
+
+[^118]: "हि सुवृत्तानाम्"
+
+[^119]: "महारिपुः"
+
+[^120]: "कुर्वाणः"
 
  उद्यमेन समः।अवसीदति नाशमेति।
 
-छिन्नोपि रोहति तरुः क्षीणोप्युपचीयते [पुनश्चन्द्रः](# "चन्द्रः क्षीणोपि वर्धते पुनः")।  
-इति विमृशन्तः सन्तः संतप्यन्ते न [विप्लुता लोके](# "ते विपदा")॥८७॥  
+छिन्नोपि रोहति तरुः क्षीणोप्युपचीयते पुनश्चन्द्रः[^121]।  
+इति विमृशन्तः सन्तः संतप्यन्ते न विप्लुता लोके[^122]॥८७॥  
 नेता यस्य बृहस्पतिः प्रहरणं वज्रं सुराः सैनिकाः  
-स्वर्गो दुर्गमनुग्रहः [किल](# " खलु") हरेरैरावतो वारणः।  
-इत्यैश्वर्यबलान्वितोपि [बलभिद्भग्नः](# "मघवा.")परैःसंगरे  
+स्वर्गो दुर्गमनुग्रहः किल[^123] हरेरैरावतो वारणः।  
+इत्यैश्वर्यबलान्वितोपि बलभिद्भग्नः[^124]परैःसंगरे  
 तद्व्यक्तंवरमेव दैवशरणं धिग्धिग्वृथा पौरुषम्॥८८॥
+
+[^121]: "चन्द्रः क्षीणोपि वर्धते पुनः"
+
+[^122]: "ते विपदा"
+
+[^123]: " खलु"
+
+[^124]: "मघवा."
 
 ——————————————————————————————————————————————————————  
 
@@ -1066,12 +1314,14 @@ basket, and its limbs weakened by starvation, had grown despondent. Filled with 
 यत्पूर्वेविधिना ललाटलिखितं तन्मार्जितुं कः क्षमः॥९३॥  
 नमस्यामो देवान्ननु हतविधेस्तेपि वशगा  
 विधिर्वन्द्यः सोपि प्रतिनियतकर्मैकफलदः।  
-फलं कर्मा[यत्तं किममर](# "यत्तं यदि किममरैः")गणैः किं च विधिना  
+फलं कर्मायत्तं किममर[^125]गणैः किं च विधिना  
 नमस्तस्कर्मभ्यो विधिरपि न येभ्यः प्रभवति॥९४॥  
 ब्रह्मा येन कुलालवन्नियमितो ब्रह्माण्डभाण्डोदरे  
 विष्णुर्येन दशावतारगहने क्षिप्तो महासंकटे।  
 रुद्रो येन कपालपाणिपुटके भिक्षाटनं कारितः  
 सूर्यो भ्राम्यति नित्यमेव गगने तस्मै नमः कर्मणे॥९५॥**
+
+[^125]: "यत्तं यदि किममरैः"
 
 ——————————————————————————————————————————————————————  
 
@@ -1114,24 +1364,36 @@ ornament of the earth and the mine of all good qualities; if makes the man short
 
  98. Ogood man, to obtain your cherished desire, adore that goddess—Good conduct—that changes wicked men into good, fools into wise men, enemies into friends, the invisiblo into the visible and deadly poison into nectar in an instant.
 
-**[गुणवद्गुणवद्धा](# "सगुणमपगुणं वा") कुर्वता कार्य[मादौ](# " जातम्.")  
+**गुणवद्गुणवद्धा[^126] कुर्वता कार्यमादौ[^127]  
 परिणतिरवधार्या यत्नतः पण्डितेन।  
 अतिरभसकृतानां कर्मणामाविपत्ते-  
 र्भवति हृदयदाही शल्यतुल्यो विपाकः॥९९॥**
 
+[^126]: "सगुणमपगुणं वा"
+
+[^127]: " जातम्."
+
  अतिरभसेन अतित्वरया कृतानाम्। आविपत्तेः मरणपर्यन्तम्।
 
-**स्थाल्यां[वैदूर्य](# " वैडूर")मय्यां पचति तिल[खली](# " तिलकणान्.")मिन्धनैश्चन्दनाद्यैः  
+**स्थाल्यांवैदूर्य[^128]मय्यां पचति तिलखली[^129]मिन्धनैश्चन्दनाद्यैः  
 सौवर्णैर्लाङ्गलाग्रैर्विलिखति वसुधामर्कमूलस्य हेतोः।  
 छित्त्वा कर्पूरखण्डान्वृतिमिह कुरुते कोद्रवाणां समन्ता-  
 त्प्राप्येमां कर्मभूमिं न चरति मनुजो यस्तपो मन्दभाग्यः॥१००॥**
 
+[^128]: " वैडूर"
+
+[^129]: " तिलकणान्."
+
  वैदूर्यप्रचुरायां स्थाल्याम्। लाङ्गलाग्रैःहलाग्रैः। कोद्रवाणां कोरदूषकाणाम्। 'हरिक' इति भाषायां प्रसिद्धिः।
 
 **मज्जत्वम्भसि यातु मेरुशिखरं शत्रुञ्जयत्वाहवे  
-वाणिज्यं कृषिसेवनादि सकला विद्याः कलाः[शिक्षताम्](# "शिक्षतु")।  
+वाणिज्यं कृषिसेवनादि सकला विद्याः कलाःशिक्षताम्[^130]।  
 आकाशं विपुलं प्रयातु खगवत्कृत्वा प्रयत्नं परं  
-नाभाव्यं भवतीह [भाग्य](# "कर्म.")वशतो भाव्यस्य नाशः कुतः॥१०१॥**
+नाभाव्यं भवतीह भाग्य[^131]वशतो भाव्यस्य नाशः कुतः॥१०१॥**
+
+[^130]: "शिक्षतु"
+
+[^131]: "कर्म."
 
 ——————————————————————————————————————————————————————
 
@@ -1144,9 +1406,11 @@ Do not set your heart on numerous other qualities with persistent application.
  101. Through the force of destiny a thing that is not to
 
 **भीमं वनं भवति तस्य पुरं प्रधानं  
-सर्वो जनः सुजनता[मुपयाति](# "सद्यः") तस्य।  
+सर्वो जनः सुजनतामुपयाति[^132] तस्य।  
 कृत्स्ना च भूर्भवति सन्निधिरत्नपूर्णा  
 यस्यास्ति पूर्वसुकृतं विपुलं नरस्य॥१०२॥**
+
+[^132]: "सद्यः"
 
  सन्निधि०—सन्त उत्तमा निधयः रत्नानि च तैः पूर्णा।
 
@@ -1165,8 +1429,10 @@ take place, never takes place, nor is a thing fated to take place subverted, tho
 
  103. What is an advantage gained? The company of the virtuous. What is misery? The company of those thatare not–learned. What is a loss? Wasting an opportunity. What is perfection? Being devoted to one's religious principles. Who is a brave man? One that has restrained his senses. What woman is most beloved? One that is devoted. Whatis wealth? Learning. What is happiness? Not going on a journey. What is kingly power? That which places one in command.
 
-मालतीकुसुमस्येव द्वे गती ह [मनस्विनः](# "महात्मनः ")।  
+मालतीकुसुमस्येव द्वे गती ह मनस्विनः[^133]।  
 मूर्ध्नि वा सर्वलोकस्य शीर्यते वन एव वा॥१०४॥
+
+[^133]: "महात्मनः "
 
  मालत्या जातिलतायाः कुसुमं पुष्पं तस्य इव।
 
@@ -1176,16 +1442,22 @@ take place, never takes place, nor is a thing fated to take place subverted, tho
  न प्रियाणि अप्रियाणि तानि च वचनानि तैः दरिद्राः हीनाः तैः। प्रियवचनैः आढ्याःपूर्णाः तैः। स्वदारैः परितुष्टाः तैः। परेषां परिवादः निन्दा तस्याः सकाशात् निवृत्ताः तैः।
 
 **कदर्थितस्यापि हि धैर्यवृत्ते-  
-[र्न शक्यते](# "बुद्धेर्विनाशो नहि शंकनीयः") धैर्यगुणः प्रमार्ष्टुम्।  
-अधोमुखस्यापि [कृतस्य वह्ने-](# "तनूनपातः")  
+र्न शक्यते[^134] धैर्यगुणः प्रमार्ष्टुम्।  
+अधोमुखस्यापि कृतस्य वह्ने-[^135]  
 र्नाधः शिखा याति कदाचिदेव॥१०६॥**
+
+[^134]: "बुद्धेर्विनाशो नहि शंकनीयः"
+
+[^135]: "तनूनपातः"
 
  कदर्थितस्य अतिदुःखितस्य।धैर्येण वृत्तिः यस्य तस्य। धैर्यमेव गुणः। अधःमुखं यस्य तस्य।
 
-**कान्ताकटाक्षविशिखा [न खनन्ति](# "न लुनन्ति.") यस्य  
+**कान्ताकटाक्षविशिखा न खनन्ति[^136] यस्य  
 चित्तं न निर्दहति कोपकृशानुतापः।  
 कर्षन्ति भूरिविषयाश्च न लोभपाशै-  
 र्लोकत्रयं जयति कृत्स्नमिदं स धीरः॥१०७॥**
+
+[^136]: "न लुनन्ति."
 
 ——————————————————————————————————————————————————————  
 
@@ -1200,19 +1472,27 @@ take place, never takes place, nor is a thing fated to take place subverted, tho
  कान्तायाः कटाक्षाः अपाङ्गवीक्षितानि ते एव विशिखाः। कोप एव कृशानुः अग्निः तस्य तापः।लोभ एव पाशाःबन्धनानि तैः।
 
 **एकेनापि हि शूरेण पादाक्रान्तं महीतलम्।  
-क्रियते भास्करेणेव [स्फारस्फुरिततेजसा](# "स्फुरत्स्फारिततेजसा")॥१०८॥**
+क्रियते भास्करेणेव स्फारस्फुरिततेजसा[^137]॥१०८॥**
+
+[^137]: "स्फुरत्स्फारिततेजसा"
 
  स्वपादेन आकान्तम्। पक्षे पादैः किरणैः। स्फारं विस्तीर्णेस्फुरितं देदीप्यमानं तेजो यस्य तेन।
 
-**वह्निस्तस्य जलायते जलनिधिः [कुल्यायते](# "कूपायते ") तत्क्षणा-  
+**वह्निस्तस्य जलायते जलनिधिः कुल्यायते[^138] तत्क्षणा-  
 न्मेरुः स्वल्पशिलायते मृगपतिः सद्यः कुरङ्गायते।  
 व्यालो माल्यगुणायते विषरसः पीयूषवर्षायते  
 यस्याङ्गेखिललोकवल्लभतमं शीलं समुन्मीलति॥१०९॥**
 
+[^138]: "कूपायते "
+
  जलमिव आचरति जलायते। आचारार्थे क्यङ्। एवं सर्वत्र। कुल्या अल्पा कृत्रिमा सरित्। व्यालःसर्पः। अखिललोकानां वल्लभतमम्।
 
-**लज्जागुणौघजननीं [जननीमिव](# "जननीमिव") स्वा-  
-मत्यन्तशुद्धहृदयामनु[वर्तमानाम्](# "वर्तमानाम् अनुवर्तमानाः.")।**
+**लज्जागुणौघजननीं जननीमिव[^139] स्वा-  
+मत्यन्तशुद्धहृदयामनुवर्तमानाम्[^140]।**
+
+[^139]: "जननीमिव"
+
+[^140]: "वर्तमानाम् अनुवर्तमानाः."
 
 ——————————————————————————————————————————————————————  
 
@@ -1233,10 +1513,12 @@ whose mind the arrow–like side–glances of women do not hurt, the heat–of�
 
 **MISCELLANEOUS**
 
-**अग्राह्यं हृदयं यथैव वदनं [यदर्पणा](# "सद्दर्पण।")न्तर्गतं  
+**अग्राह्यं हृदयं यथैव वदनं यदर्पणा[^141]न्तर्गतं  
 भावः पर्वतसूक्ष्ममार्गविषमः स्त्रीणां न विज्ञायते।  
 चित्तं पुष्करपत्रतोयतरलं विद्वद्भिराशंसितं  
 नारी नाम विषाङ्कुरैरिव लता दोषैः समं वर्धिता॥१॥**
+
+[^141]: "सद्दर्पण।"
 
  मावः हृद्गत आशयः। पर्वते यः सूक्ष्मः मार्गः तद्वत् विषमं कठिणं दुग्राह्यमिति यावत्। पुष्करपत्रे यत्तोयं तद्वत्तरलं चञ्चलम्। नामेति प्राकाश्ये।
 
@@ -1286,10 +1568,14 @@ lives but not their vow which is the source of modesty and other good qualities 
 
  कर्मठश्चकुलाचलाश्चदिग्गजाश्चफणिपतिश्च तैः विधृता। अमलमनसां शुद्धान्तःकरणानाम्।
 
-**कि कूर्मस्य भरव्यथा न वपुषि क्ष्मां न क्षिप[त्येष यत्](# "त्वेव यः")  
+**कि कूर्मस्य भरव्यथा न वपुषि क्ष्मां न क्षिपत्येष यत्[^142]  
   किंवा नास्ति परिश्रमो दिनपतेरास्ते न यन्निश्चलः।  
-[कित्व](# "किंवा, न मनसा.")ङ्गीकृतमुत्सृजन्स्वमनसा श्लाघ्यो जनो लज्जते  
+कित्व[^143]ङ्गीकृतमुत्सृजन्स्वमनसा श्लाघ्यो जनो लज्जते  
   निर्वाहः प्रतिपन्नवस्तुषु सतामेतद्धि गोत्रव्रतम्॥७**
+
+[^142]: "त्वेव यः"
+
+[^143]: "किंवा, न मनसा."
 
  क्ष्मां पृथ्वीम्। निर्वाहः संपादनम्। प्रतिपन्नवस्तुषु अङ्गीकृतकार्येषु।
 
@@ -1325,7 +1611,9 @@ lives but not their vow which is the source of modesty and other good qualities 
 दैवेन प्रभुणा स्वयं जगति यद्यस्य प्रमाणीकृतं  
 
 तत्तस्योपनमेन्मनागपि महान्नैवाश्रयः कारणम्।  
-सर्वाशापरिपूरके जलधरे [वर्षत्यपि](# "वर्षत्यपः") प्रत्यहं  
+सर्वाशापरिपूरके जलधरे वर्षत्यपि[^144] प्रत्यहं  
+
+[^144]: "वर्षत्यपः"
 
 सूक्ष्मा एव पतन्ति चातकमुखे द्वित्राः पयोबिन्दवः॥११॥
 
@@ -1339,8 +1627,10 @@ only in the act of filling themselves. He alone stands at the head of the good, 
 
  प्रभुणा- प्रभवता। प्रमाणीकृतं निर्माणभागत्वेन दत्तम्। सर्वाश्चताआशाः तासां परिपूरके।
 
-परिचरितव्याः सन्तो यद्यपि कथयन्ति न [सदुपदेशम्](# "यद्यप्युपदिशान्ति")।  
+परिचरितव्याः सन्तो यद्यपि कथयन्ति न सदुपदेशम्[^145]।  
 यास्त्वेषां स्वैरकथास्ता एवं भवन्ति शास्त्राणि॥१२॥
+
+[^145]: "यद्यप्युपदिशान्ति"
 
 प्रायः कन्दुकपातेनोत्पतत्यार्यः पतन्नपि।  
 तथा त्वनार्यः पतति मृत्पिण्डपतनं यथा॥१३॥
@@ -1350,9 +1640,13 @@ only in the act of filling themselves. He alone stands at the head of the good, 
 
  अवकरनिकरं-धूल्यादिसमूहम्।कृकवाकुः कुक्कुटः।
 
-यन्नागा [मदभिन्नगण्डकरटा](# "मदभिन्नगण्डकरटाः. हेम-स्वर्ण")स्तिष्ठन्ति निद्रालसो  
+यन्नागा मदभिन्नगण्डकरटा[^146]स्तिष्ठन्ति निद्रालसो  
 द्वारे हेमविभूषणाश्च तुरगा वल्गन्ति यद्दर्पिताः।  
-वीणावेणुमृदङ्गशङ्ख[पटहैः](# "पणवैः") सुप्तस्तु यद्वोद्ध्यते  
+वीणावेणुमृदङ्गशङ्खपटहैः[^147] सुप्तस्तु यद्वोद्ध्यते  
+
+[^146]: "मदभिन्नगण्डकरटाः. हेम-स्वर्ण"
+
+[^147]: "पणवैः"
 
 तत्सर्वेसुरलोकदेवसदृशं धर्मस्य विस्फूर्जितम्॥१५॥
 
@@ -1367,10 +1661,14 @@ only in the act of filling themselves. He alone stands at the head of the good, 
 
   15. When at the door elephants whose temples and
 
-ये [संतोषनिरन्तरप्रमुदि](# "सन्तोषसुखप्रमोदमु.")तास्तेषां न भिन्ना मुदो  
-ये त्वन्ये धन[लोभ](# " लोभ-लुब्ध,")संकुलधियस्तेषां न तृष्णा हता।  
+ये संतोषनिरन्तरप्रमुदि[^148]तास्तेषां न भिन्ना मुदो  
+ये त्वन्ये धनलोभ[^149]संकुलधियस्तेषां न तृष्णा हता।  
 इत्थं कस्य कृते कृतः स विधिना तादृक्पदं संपदां  
 स्वात्मन्येव समाप्तहेममहिमा मेरुर्न मे रोचते॥१६॥
+
+[^148]: "सन्तोषसुखप्रमोदमु."
+
+[^149]: " लोभ-लुब्ध,"
 
  तेषां मुदः भिन्ना न। ते मेरुनिष्ठसंपन्निरपेक्षा इत्यर्थः। धनलोभेनसंकुलाव्याप्ता धीर्येषाम्। तेषां तृष्णा न हता न शाम्यति किंतु वर्धते एव। एवं मेरुगतासंपन्न कस्मैचिदपि प्रयोजनायित्यर्थः।
 
@@ -1392,17 +1690,25 @@ cheeks are covered with (lit. separated by the line of) riuty stand lazy through
 
  18. True speech is the highest ornament; for a woman with the stately gait of an elephant slanderness of the
 
-वरं तुङ्गाच्छृङ्गाद्रुरुशिखरिणः क्वापि [विषमे](# "विषमे पुलिने,")  
+वरं तुङ्गाच्छृङ्गाद्रुरुशिखरिणः क्वापि विषमे[^150]  
 पतित्वायंकायः कठिनदृषदन्तर्विदलितः।  
 घरं न्यस्तो हस्तः फणिपतिमुखे तीव्रदशने  
 वरं वह्नौ पातस्तदपि न कृतः शीलविलयः॥१९॥
 
+[^150]: "विषमे पुलिने,"
+
  विषमे शिलादिसंकटे। कठिणाश्च ता द्दषदस्तासामन्तर्विदलितः शीर्णः वरं। शीलभ्रंशो न वरम्।
 
-[विरम](# "विरम विरम") विरसायासादस्मद्दुरध्यवसायतो  
+विरम[^151] विरसायासादस्मद्दुरध्यवसायतो  
 विपदि महतां धैर्यध्वंसं यदीक्षितुमीहसे।  
-[अपि](# "अयि - अपि") [जडमते](# "जजडमते जडविधे") कल्पापाये व्यपेतनिजक्रमाः  
+अपि[^152] जडमते[^153] कल्पापाये व्यपेतनिजक्रमाः  
 कुलशिखरिणः क्षुद्रा नैते न वा जलराशयः॥२०॥
+
+[^151]: "विरम विरम"
+
+[^152]: "अयि - अपि"
+
+[^153]: "जजडमते जडविधे"
 
 विरसात्फलाभावेनासुभगः आयासः यस्मिन्। दुरध्यवसायतः दुर्व्यापारात्। व्यपेतनिजक्रमाः व्यक्तनिजकार्यपरिपाटय एते महान्त कुलशिखरिवत् जलराशिवद्वा निजं महिमानं न जहत्येवेत्यर्थः।
 
@@ -1475,7 +1781,9 @@ this sense the word **प्रमाण** is more common, Brahma is specially r
 
  For the idea comp. Panchadas'i — **देशकालान्यवस्तूनां कल्पितत्वाश्चमायया। न देशादिकृतोन्तोस्ति ब्रह्मानन्त्यंस्फुटं तथा॥**
 
- Sl. 2. The present S'loka is said by the commentators (whose remarks are perhaps based on a tradition which is almost universal) to refer to a family intrigue the incidental discovery of which filled Bhartṛhari with disgust for worldly life. It is this:- Once upon a time, a Brahmaṇa, who had come by a[fruit](# "According to another version king Vicrama obtained the fruit from a Yogin, he gave it to a Braḥmana, he to Bhartṛhari and so on.") which conferred immortality on any one who ate it, gave it to Bhartṛhari, as the worthiest person to receive it, being the protector of many people. Bhartṛhari gave it to his wife, who gave it to her paramour, who in his turn gave it to a sweet-heart of his who again presented it to Bhartrhari. The sloka, however,
+ Sl. 2. The present S'loka is said by the commentators (whose remarks are perhaps based on a tradition which is almost universal) to refer to a family intrigue the incidental discovery of which filled Bhartṛhari with disgust for worldly life. It is this:- Once upon a time, a Brahmaṇa, who had come by afruit[^154] which conferred immortality on any one who ate it, gave it to Bhartṛhari, as the worthiest person to receive it, being the protector of many people. Bhartṛhari gave it to his wife, who gave it to her paramour, who in his turn gave it to a sweet-heart of his who again presented it to Bhartrhari. The sloka, however,
+
+[^154]: "According to another version king Vicrama obtained the fruit from a Yogin, he gave it to a Braḥmana, he to Bhartṛhari and so on."
 
 is quite out of place here as it has no connection with any thing that follows. If it is the supposed expression of the abhorrence for the intrigues and sins of the world felt by some one disgusted with it, then the most natural place for it would be the Vairagyas' ataka. Many manuscripts, however, agree in giving it here.
 
@@ -1963,8 +2271,10 @@ of diseases. **(यक्ष्मणां रोगाणां राजा).
 **उत्खातं निधिशङ्कया क्षितितलं ध्माता गिरेर्धातवो**  
 
 **निस्तीर्णः सरितां पतिर्नृपतयां यज्ञेन संतोषिताः।  
-मन्त्राराधनतत्परेण मनसा नीताः श्मशाने [निशाः](# "निशाः-क्षपाः, संप्राप्तश्च वराटकोपि.")  
+मन्त्राराधनतत्परेण मनसा नीताः श्मशाने निशाः[^155]  
 प्राप्तः काणचराटकोपि न मया तृष्णेऽधुना मुञ्च माम्॥४॥**
+
+[^155]: "निशाः-क्षपाः, संप्राप्तश्च वराटकोपि."
 
   निधेः निक्षेपस्य शंकया लभ्येतेत्याशया। ध्माताःऔषधादीनां योगेन संस्कृताः। मन्त्राराधनेमन्त्रंद्वताप्रीत्या तत्साधने तत्परेण। काणवराटकः कपर्दिकशकलम्।
 
@@ -1974,17 +2284,23 @@ of diseases. **(यक्ष्मणां रोगाणां राजा).
 
  4. I dug up the earth expecting to find a treasure; smelted ores found in mountains; crossed the lord of rivers; assiduously propitiated kings; passed several nights in the cemetery solely intent upon obtaining incantations; (but after- all) I have not obtained even a brkOen cowrie. Leave me now, thou Greed,
 
-[भ्रान्तं](# "भ्रान्त्वा, जाति-शील,") देशमनेकदुर्गविषमं प्राप्तं न किंचित्फलं  
+भ्रान्तं[^156] देशमनेकदुर्गविषमं प्राप्तं न किंचित्फलं  
 त्यक्त्वा जातिकुलाभिमानमुचितं सेवा कृता निष्फला।  
 भुक्तं मानविवर्जितं परगृहेष्वाशङ्कया काकव-  
-तृष्णे [जृम्भसि](# "जृम्भसि दुर्मति, वैरिणि") पापकर्मनिरते नाद्यापि संतुष्यसि॥५॥
+तृष्णे जृम्भसि[^157] पापकर्मनिरते नाद्यापि संतुष्यसि॥५॥
+
+[^156]: "भ्रान्त्वा, जाति-शील,"
+
+[^157]: "जृम्भसि दुर्मति, वैरिणि"
 
  देशं भ्रान्तं देशे भ्रमणं कृतम्। ‘गत्यर्था—’ इति भावे कः। उचितं योग्यम्। आशंकया निष्कासनभयेन।हे पापकर्मणि निरते सक्ते पापचरणाय प्रवर्तयित्रि इत्यर्थः। न संतुष्यति। अतः परं कस्यामापदि पातयितुमिच्छसीति भावः।
 
 खलोल्लापाः सोढाः कथमपि तदाराधनपरै-  
 र्निगृह्यान्तर्बाप्पं हसितमपि शून्येन मनसा।  
-कृतश्चित्तस्तम्भः [प्रतिहत](# "प्रतिहत–प्रहसित.")धियामञ्जलिरपि  
+कृतश्चित्तस्तम्भः प्रतिहत[^158]धियामञ्जलिरपि  
 त्वमाशे मोघाशे किमपरमतो नर्तयसि माम्॥ ६॥
+
+[^158]: "प्रतिहत–प्रहसित."
 
  खलानां उल्लापाः दुर्भाषितानि। तेषामाराधने सेवने पराः प्रसक्तास्तैरेवंभूतैरस्माभिरिति शेषः। कथमपि महासङ्कटेन सोढा मार्षिताः। नैतदेव केवलं किंतु अन्तर्बाष्पं निरुद्ध्य शून्येन हास्यजनकभावशून्येन मनसा ते हसन्तीति हसितमपि। तेषां खलानां हसितमपि कार्याकार्यविचारशून्येन मनसा सोढ़मिति कैषांचिद्व्यख्यानं न सहृदयानां प्रीतिकरम्। चित्तस्तंभोन्तर्गतभावगुप्तिः। अन्तवर्ती कोपि विकारो न प्रकटीकृत इत्यर्थः। तथा प्रतिहता धीर्येषां तेषां जडधियामित्यर्थः। प्रहसितेतिपादे प्रहसिते परिहासेधीर्बुद्धिर्येषां तेषामञ्जलिर्नमस्कारोपि कृतः। मोघानिष्फला आशा यस्याः सा। है आशे इत्थं कृतपूर्वान्नर्तनात्किमपरमन्यत्, यतो हेतोः मां नर्तयसि नृत्यकृत्ये योजयसि।
 
@@ -1996,15 +2312,21 @@ of diseases. **(यक्ष्मणां रोगाणां राजा).
 
 **आदित्यस्य गतागतैरहरहः संक्षीयते जीवितं  
 व्यापारैर्बहुकार्यभारगुरुभिः कालो न विज्ञायते।  
-दृष्ट्वाजन्मजरा[विपत्ति](# " विपत्ति–वियोग.")मरणं त्रासश्च नोत्पद्यते।  
+दृष्ट्वाजन्मजराविपत्ति[^159]मरणं त्रासश्च नोत्पद्यते।  
 पीत्वा मोहमयीं प्रमादमदिरामुन्मत्तभूतं जगत्॥७॥** 
+
+[^159]: " विपत्ति–वियोग."
 
  गतागतैरस्तोदयरूपैः। अहरहः प्रत्यहं। जीवितमायुः। संक्षीयते क्षीणं क्षीणं भवति। बहवः कार्यभाराः। कार्यातिशया इति यावत्। तैर्गुरुभिर्व्यापारैः कियत्परिमाणः कालो गत इति न विशेषेण ज्ञायते। जन्म च जरा च विपत्तिश्च मरणं च दृष्ट्वा त्रासो जन्मादिजं भयं नोत्पद्यते। क्लेशपूर्णोऽयं जन्मादिकलापः। तत्र मुखलवाभावेऽपि सुखप्राचुर्ये प्रतीयते मूढैः। अत एव ते तद्धेत्वविद्याकामकर्मसु विरतिं न कुर्वन्तीति भावः। एवं जगत् मोहमयीं मोहप्रचुरां प्रमाद एव मदिरा तां पीत्वा प्राश्य उन्मत्तभूतं कर्तव्याकर्तव्यविविचारशून्यं जातमिति भावः।
 
 **दीना दीनमुखैः सदैव शिशुकैराकृष्टजीर्णाम्बरा  
-क्रोशद्भिः क्षुधितै[नरैर्न](# " नरैर्न–निरन्न; गद्गदगलद्गच्छांद्व;") विधुरा दृश्येत चेद्नेहिनी।  
+क्रोशद्भिः क्षुधितैनरैर्न[^160] विधुरा दृश्येत चेद्नेहिनी।  
 याच्चाभङ्गभयेन गद्गदगलन्त्रुट्यद्विलीनाक्षरं  
-को देहीति वदेत्स्वदग्धजठरस्यार्थे मनस्वी [जनः](# "जनः–पुमान्.")॥८॥**
+को देहीति वदेत्स्वदग्धजठरस्यार्थे मनस्वी जनः[^161]॥८॥**
+
+[^160]: " नरैर्न–निरन्न; गद्गदगलद्गच्छांद्व;"
+
+[^161]: "जनः–पुमान्."
 
   दीनानि मुखानि येषां तैः क्षुधितैः क्षुत्पीडितैः अत एव क्रोशद्धिराकोशं कुर्वाणैः शिशुकैः बालकैः। अनुकम्पायां कन्। आकृष्टं जीर्णमम्बरं वस्त्रं यस्याः
 
@@ -2018,10 +2340,16 @@ difficulty the taunting words of wicked men; checking in my tears, I even laughe
 
 सा। विधुरा अन्नाद्यभावाद्विकला गेहिनी भार्या न दृश्येत चेत्। याच्यायाः भङ्गः तस्य भयेन स्वदग्धजठरार्थे स्वस्य यद्दग्धं तुच्छं जठरं तस्यार्थे को मनस्वी जनः गद्गदः यः गलः तत्र त्रुट्यन्ति विलीनानि च अक्षराणि यथा स्युः तथा 'देहि' इति वदेत्। न कोपीत्यर्थः। ‘अभ्यर्थनाभङ्गभयेन भीरुमध्यस्थमिष्टेप्यवलम्बतेथे’ इति न्यायात्।
 
-**निवृत्ता भोगेच्छा पुरुष[बहुमानो](# "बहुमानोपि ग०; समाः–तमाः,") विगलितः  
+**निवृत्ता भोगेच्छा पुरुषबहुमानो[^162] विगलितः  
 समानाः स्वर्याताः सपदि सुहृदो जीवितसमाः।  
-शनै[र्यष्ट्यु](# "यष्ट्यु–यद्यु,अभ्यु;")त्थानं घनतिमिररुद्धे च नयने  
-अहो [धृष्टः](# " धृष्टः–मूढः, दुष्टः.") कायस्तदपि मरणापायचकितः॥९॥**
+शनैर्यष्ट्यु[^163]त्थानं घनतिमिररुद्धे च नयने  
+अहो धृष्टः[^164] कायस्तदपि मरणापायचकितः॥९॥**
+
+[^162]: "बहुमानोपि ग०; समाः–तमाः,"
+
+[^163]: "यष्ट्यु–यद्यु,अभ्यु;"
+
+[^164]: " धृष्टः–मूढः, दुष्टः."
 
  भोगेच्छा विषयभोगेच्छा निवृत्ता। असामर्थ्यात्। पुरुषबहुमानः अहमिंद करिष्यामि एवंप्रभावोहमिति पुरुषत्वाभिमानः। भावप्रधानो निर्देशः सुहृदः सखायः। प्रत्युपकारनिरपेक्ष उपकारकर्ता सुहृदिति भाष्यकृदादिभिः पूज्यैर्व्याख्यातोयं शब्दोऽन्यत्र। जीवितेन समाः। समानाः स्वसंमानवयसः सपदितत्कालंस्वर्याताः स्वर्गं गताः। परलोकवासिनः संवृत्ताः। शनैः मदं मदं यष्ट्युत्थानं सहायभूतया यष्टया उत्थानं। घनं साद्रं यत्तिमिरं रोगविशेषः तेन रुद्धे। पश्चम्या अपक्षयलक्षणया भावविक्रियया आपादितत्वात्। तदपि ईदृशीं कष्टावस्थां प्राप्तोऽपि कायः मरणरूपापायाच्चकितो भीतो भवति कष्टतरावस्थया क्लिश्यमानोपि न देहसंबन्धि ममत्वाभिमानं त्यजतीति भावः। अतिकष्टास्वप्यवस्थासु जीवितनिरपेक्षा न भवन्ति खलु प्राणिनां प्रवृत्तय इत्यनुरूपो भावः कादम्बर्याम्।
 
@@ -2031,17 +2359,23 @@ a care-worn appearance, with hungry and noisy children ever tugging at her threa
 
   9. The desire for enjoyments is dead; the pride of youth is humbled: co-oval friends valued as life itself have sped quick to heaven; (I have) to stand up slowly supported on a staff;
 
-**हिंसाशून्यमयत्नलभ्यमशनं [धात्रा](# "धात्रा०–वायुः कृतो वेधसा.") मरुत्कल्पितं  
+**हिंसाशून्यमयत्नलभ्यमशनं धात्रा[^165] मरुत्कल्पितं  
 व्यालानां पशवस्तृणाङ्कुरभुजः सृष्टाः स्थलीशायिनः  
 संसारार्णवलङ्घनक्षमधियां वृत्तिः कृता सा नृर्णां  
-यामन्वेषयतां प्रयान्ति [सततं](# " सततं–सहसा.") सर्वे समाप्ति गुणाः॥१०॥**
+यामन्वेषयतां प्रयान्ति सततं[^166] सर्वे समाप्ति गुणाः॥१०॥**
+
+[^165]: "धात्रा०–वायुः कृतो वेधसा."
+
+[^166]: " सततं–सहसा."
 
  हिंसया शून्यं रहितम्। अयत्नलभ्यं अनासायेन प्राप्यम्। व्यालानां सर्पाणामशनं खाद्यं धात्रा विधिना मरुद्रूपं कृतम्। तेनैव स्थल्यामकृत्रिमभूमी शेरते तच्छीलाः पशवः तृणानामङ्कुरान् भुञ्जते इति तृणाङ्कुरभुजः सृष्टाः। संसार एवार्णवस्तस्य लंघने क्षमा योग्या धीर्बुद्धिर्येषां तेषां नृणां सा वृत्तिः जीविका कृता यां सततमन्वेषयतां ईप्सूनां सर्वे गुणाः विद्वत्ववैचक्षण्यादयः समाप्तिं प्रयान्ति।
 
 **न ध्यातं पदमीश्वरस्य विधिवत्संसारविच्छित्तये  
 स्वर्गद्वारकपाटपाटनपटुर्धर्मोपि नोपार्जितः।  
-[रामा](# "रामा–नारी०")पीनपयोधरोरुयुगुलं स्वप्नेपि नालिङ्गितं  
+रामा[^167]पीनपयोधरोरुयुगुलं स्वप्नेपि नालिङ्गितं  
 मातुः केवलमेव यौवनवनच्छेदे कुठारा वयम्॥११॥**
+
+[^167]: "रामा–नारी०"
 
 विधिवत् शास्त्रोक्तरीत्या संसारविच्छित्तयेऽपुनर्भवायेश्वरस्य जगन्नियामकस्य पदं न ध्यातमेकाग्रमनसा चिन्तितम्। अनेन मुमुक्षाभावः सूचित। तथा स्वर्गद्वारकपा-
 
@@ -2064,9 +2398,13 @@ the eyes are obstructed by pitch darkness, still the body fears injury from deat
  वयमेव भुक्ताः सर्वभक्षकेण कालराक्षसेन इति शेषः। तप्ताः दुःसहसंसारदुःखैः। याता अकृतकार्या अन्तिमामवस्थामित्यर्थः। एतेन स्वजन्मवैकल्यें योतितम्। विषमोलंकारः।
 
 **क्षान्तं न क्षमया गृहोचितसुखं त्यक्तं न संतोषतः  
-[सोढो](# "सोढाः 'तपनाः क्लेशात्") दुःसहशीतवाततपनक्लेशो न तप्तं तपः।  
+सोढो[^168] दुःसहशीतवाततपनक्लेशो न तप्तं तपः।  
 ध्यातं वित्तमहर्निशं नियमितप्राणैर्न शम्भोः पदं  
-तत्तत्कर्म कृतं यदेव मुनिभिस्तैस्तैः फलै[र्वञ्चिताः](# "वञ्चिताः–वश्चितम् रचितम्.")॥ १३॥**
+तत्तत्कर्म कृतं यदेव मुनिभिस्तैस्तैः फलैर्वञ्चिताः[^169]॥ १३॥**
+
+[^168]: "सोढाः 'तपनाः क्लेशात्"
+
+[^169]: "वञ्चिताः–वश्चितम् रचितम्."
 
   परदत्तदुःखादि क्षमया हेतुभूतया न सोढं किंतु भयहेतुना\। गृहोचितं सुखे संतोषतः हेतोः न व्यक्तं किंतु परतंत्रत्वादनिच्छया। दुःसहशीतादिक्लेशः
 
@@ -2086,7 +2424,9 @@ beenserviceable) simply as axes in cutting down the forest in the form of our mo
  आक्रान्तं व्याप्तम्। पलितैः शुभ्रकेशैः अंकितं चिह्नितम्। गात्राणि इन्द्रियगोलकानि शिथिली भवन्ति। किंतु एका तृष्णा तरुणायते। देहेन्द्रियादिसामर्थ्यनाशेऽपि तृष्णाविरामः कदाचिदपि न भवतीति मथितार्थः।
 
 **येनैवाम्बरखण्डेन संवीतो निशि चन्द्रमाः।  
-तेनैव च दिवा भानु[रहो](# "अहो पश्य.") दौर्गत्यमेतयोः॥१५॥**
+तेनैव च दिवा भानुरहो[^170] दौर्गत्यमेतयोः॥१५॥**
+
+[^170]: "अहो पश्य."
 
  येनैव अंबरखंडेन वस्त्रैकदेशेन। पक्षे नभोभागेन। संवीतः आच्छादितः। तेनैव दिवसे भानुः सूर्यो वेष्टितः। पक्षे संचरितः। अहो इत्याश्चर्ये। एतयोस्तेजस्विनोदौर्गत्यं दैन्यं दुर्गतस्य भावः। समर्थयोरपि दैन्यं अस्मिन्हतसंसारे दृश्यते चेत् का कथा अस्मादृशानां मर्त्यानामसमर्थानां चेति भावः।
 
@@ -2101,14 +2441,22 @@ not (thereby) practise austerities; day and night did we think of wealth— but 
 **अवश्यं यातारश्चिरतरमुषित्वापि विषया  
 वियोगे को भेदस्त्यजति न जनो यत्स्वयममून्।  
 व्रजन्तः स्वातन्त्र्यादतुलपरितापाय मनसः  
-स्वयं त्यक्ता [ह्येते](# "ह्येते-त्वेते.") शमसुखमनन्तं विदधति॥१६॥**
+स्वयं त्यक्ता ह्येते[^171] शमसुखमनन्तं विदधति॥१६॥**
+
+[^171]: "ह्येते-त्वेते."
 
  विषयाः शब्दादयः। चिरतरं बहुकालमुषित्वापि स्थित्वाप्यवश्यं निश्चयेन यातारः गन्तारः। ते हि क्षणभङ्गुराः खलु। इति निश्चिते सति तेषां मनः पूर्वकत्यागे स्वयं गमने वा को भेदः। न कोपीति आक्षेपपूरणम्। यद्यतः हेतोः जनः स्वयंममूत्रत्यजति। वियोगे स्वरूपतो भेदाभाविपि फलतो भेदं दर्शयति। एते स्वातन्त्र्याद् व्रजन्तः गच्छन्तः मनसोऽतुलपरितापाय भवन्ति। स्वयं त्यत्कास्तु तेषां बुद्धिपूर्वकहाने अनन्तं निःसीमं शमसुखं समाधानलक्षणं विदधति कुर्वन्ति। विषयाणां स्वतः वियोगो दुःखहेतुस्तेषांमनर्थकरत्वालोचनेन बुद्ध्या हानं तु निरतिशयानन्ददायि तस्मात्पुरुषेण अवश्यं तेषां हानं कर्तव्यमिति भावः।
 
-विवेकव्याकोशे विकसति [शमे](# "शमे - शनैः") शाम्यति तृषा-  
+विवेकव्याकोशे विकसति शमे[^172] शाम्यति तृषा-  
 परिष्वङ्गे तुङ्गे प्रसरतितरां सा परिणतिः।  
-जराजीर्णैश्वर्यग्रसन[गहना](# "गहना - महता")क्षेपकृपणः  
-[कृपा](# " कृपा-तृषा.")पात्रं यस्यां भवति मरुतामध्यधिपतिः
+जराजीर्णैश्वर्यग्रसनगहना[^173]क्षेपकृपणः  
+कृपा[^174]पात्रं यस्यां भवति मरुतामध्यधिपतिः
+
+[^172]: "शमे - शनैः"
+
+[^173]: "गहना - महता"
+
+[^174]: " कृपा-तृषा."
 
 **॥**
 
@@ -2127,9 +2475,13 @@ not (thereby) practise austerities; day and night did we think of wealth— but 
 यावत। तृषायाः परिष्वङ्गेआश्लेषे शाम्यति सति सा परिणतिः सुखातिशयरूपा प्रसरतितरामतिशयेन विस्तृता भवति। जरवा जीर्णे यदैश्वर्ये तस्य प्रसनेनोप भोगेन कृतो गहनो य आक्षेपः चित्तव्याकुलता निन्दा वा तेन कृपणो दीनः मरुतां पतिरिन्दोऽपि यस्यां परिणतौकृपापात्रमनुकम्पास्पदं भवति। तृषापात्रमिति पाठे एतस्मिन्सुखे सतृष्णो भवति। सान्तस्य स्वर्गसुखस्व तुच्छत्वादिति भावः।
 
 **कृशः काणः खञ्जः श्रवणरहितः पुञ्छविकलो  
- व्रणी[पूति](# "पूति–पूय;")क्लिन्नः कृमिकुलशतैरावृततनुः।  
-क्षुधाक्षामो जीर्णः [पिठरक](# "पिठरज;–कणालेपित, लादित.")कपालार्पितगलः  
+ व्रणीपूति[^175]क्लिन्नः कृमिकुलशतैरावृततनुः।  
+क्षुधाक्षामो जीर्णः पिठरक[^176]कपालार्पितगलः  
  शुनीमन्वेति श्वा हतमपि च हन्त्येव मदनः॥१४॥**
+
+[^175]: "पूति–पूय;"
+
+[^176]: "पिठरज;–कणालेपित, लादित."
 
   कृशः अस्थिपञ्जरावशेषः। काण एकचक्षुः। पुच्छरहितः। व्रणी सव्रणः। पूत्या क्लिन्नः। खञ्जोविकलपादः। कृमिकुलशतैरावृता तनुर्यस्य। क्षुत्पीडितः। अत एव जीर्णः क्षीणशक्तिः। पिठरकस्य कपाले अर्पितः गलः येन। एवं भूतः श्वाशुनीमन्वेति विषयाभिलाषेणानुगच्छति। मदनः इतप्रायमपि इन्त्येव। अहो कष्टम्।
 
@@ -2141,15 +2493,23 @@ man is relaxed, there appears that perfection (the last stage of contemplation) 
 
 **भिक्षाशनं तदपि नीरसमेकवारं  
 शय्यां च भूः परिजनो निजदेहमात्रम्।  
-वस्त्रं [सुजीर्णशत](# " सुजी० च जी०; जीर्णशत-शीर्णपट,")खण्डमयीं च कन्था  
-हा हा तथापि [विषयान्न](# "विषया विषयान्– नपरित्यजन्ति.") जहाति चेतः॥१९॥**
+वस्त्रं सुजीर्णशत[^177]खण्डमयीं च कन्था  
+हा हा तथापि विषयान्न[^178] जहाति चेतः॥१९॥**
+
+[^177]: " सुजी० च जी०; जीर्णशत-शीर्णपट,"
+
+[^178]: "विषया विषयान्– नपरित्यजन्ति."
 
   भिक्षासनं भैक्ष्यभोजनं। तदपि नीरसं रसवर्जितमेकवारं च। परिजनः सेवकवर्गः स्वदेहमात्रं न तु तद्वतिरिक्तः कश्चिद्भार्यापुत्रादिः। सुतरां जीर्णानि शतं खण्डानि तत्प्रचुरा कन्था च वस्त्रम्। हाहेति खेददर्शको निपातः। तथापि एवं वैराग्यहेतौ निकृष्टावस्थायामपि पुरुषं विषिण्वन्ति पुरुषपशुं बध्नन्तीति विषयास्तान्। मोक्षेधीर्नक्रियत इत्यर्थः।
 
 **स्तनौ मांसग्रन्थी कनककलशावित्युपमितौ  
 मुखं श्लेष्मागारं तदपि च शशाङ्केन तुलितम्।  
-श्रवन्मूत्रक्लिन्नंकरिवर[शिरः](# "शिरः-कर;") स्पर्धि जघन-  
-[महो](# " अहे-मुहुः, कविवर") निन्द्यं रूपं कविजनबिशेषैर्गुरु कृतम्॥२०॥**
+श्रवन्मूत्रक्लिन्नंकरिवरशिरः[^179] स्पर्धि जघन-  
+महो[^180] निन्द्यं रूपं कविजनबिशेषैर्गुरु कृतम्॥२०॥**
+
+[^179]: "शिरः-कर;"
+
+[^180]: " अहे-मुहुः, कविवर"
 
   स्तनौ अन्नपरिणामस्य मांसस्य ग्रंथी तथापि कनकघठोपमानेन वर्णितौ। मुखं श्लेष्मागारं श्लेष्मणः स्थानम्। किंतु तदपि शशाङ्गेन चंद्रेण सह तुलितम्। स्रुवन्मूत्रेण क्लिन्नमाद्रमपि जघनं स्त्रीकटीपुरोभागः तस्करिश्रेष्ठस्य शिरःस्पर्धि। ताच्छील्ये णिनिः। इति वर्णितम्। अहो निन्द्यंनिन्दायोग्यं रूपं स्त्रीलावण्यं कविजनविशेषैः कैश्चित् कामिजनरंजनतत्परैः कविभिर्गुरु कृतम् महत्त्वमारोपितमित्यर्थः।
 
@@ -2158,17 +2518,27 @@ man is relaxed, there appears that perfection (the last stage of contemplation) 
  19. Alas ! the mind does not give up ( its longing ) for carnal pleasures even when one has to eat food obtained by begging, and that too unsubstantial and once (only in a day ), ( when he has ) the earth for his couch, and only his self for his attendants, and when his raiment is a wallet of a hundred threadbare rags (stitched together).  
 20. The breasts which are fleshy protuberances are com - pared to golden jars; the mouth which is the receptacle of phlegm is likened to the moon; the hips \* \* \*(are des-
 
-**अजान[न्माहात्म्यं](http://3 "मा०–दाहात्म्यम्, दाहार्तिम्;") पततु शलभो [दीप](# "दीप–तीव्र.")दहने  
+**अजान[न्माहात्म्यं](http://3 "मा०–दाहात्म्यम्, दाहार्तिम्;") पततु शलभो दीप[^181]दहने  
 स मीनोप्यज्ञानाद्वडिशयुतमश्नातु पिशितम्।  
 विजानन्तोप्येते वयमिह विपज्जालजटिला-  
 न्न मुञ्चामः कामानहह गहनो मोहमहिमा॥२१॥**
 
+[^181]: "दीप–तीव्र."
+
   शलभः कीटविशेषः। माहात्म्यं दाहशक्तिमजानन्दीपस्य दहने ज्वालायां पततु नाम। मीनोऽपि अज्ञानात् बडिशयुतं मत्स्यवेधनेन युतं सम्बद्धं विशितं मांसमश्नातु कामं भक्षयतु। परंतु वयं इह संसारे विशेषेण जानन्तः सदसद्विवेकवन्तोऽपि विपज्जाल जटिलान् आपत्समूहग्रस्तान् कामान् न मुञ्चामः। अहहेति खेदे। मोहस्य महिमा गहनो दुर्विज्ञेयः खलु।
 
-[फलमलमशनाय](# "फल-बिस शयनमक्षितिरपि शयनार्थम्") स्वादु पानाय तोयं  
-शयनमवनिपृ[ष्ठं](# "०ष्ठं–ष्ठे;") वल्कले वाससी च।  
-[नवधन](# "नवधन- निधुवन,धनलव")मधुपानभ्रान्तसर्वेन्द्रियाणा-  
-मविनय[मनुमन्तुं](# "अनुमन्तुम् उपगन्तुम्,") नोत्सहे दुर्जनानाम्॥२२॥
+फलमलमशनाय[^182] स्वादु पानाय तोयं  
+शयनमवनिपृष्ठं[^183] वल्कले वाससी च।  
+नवधन[^184]मधुपानभ्रान्तसर्वेन्द्रियाणा-  
+मविनयमनुमन्तुं[^185] नोत्सहे दुर्जनानाम्॥२२॥
+
+[^182]: "फल-बिस शयनमक्षितिरपि शयनार्थम्"
+
+[^183]: "०ष्ठं–ष्ठे;"
+
+[^184]: "नवधन- निधुवन,धनलव"
+
+[^185]: "अनुमन्तुम् उपगन्तुम्,"
 
  फलमशनाय शरीरधारणप्रयोजकभोजनार्थमलं पर्याप्तम्। पानाय तृषाशान्त्यर्थे स्वादु निर्झरनिस्यन्दि तोयं जलम्। अलमिति उत्तरत्राप्यनुकर्षणीयम्। अवनिपृष्ठं भूतलं शयनं वल्कले च वाससी व्यावहारिकलज्जास्थानाच्छादने। नवं च तद्धनं च तदेव मधु मद्यं तस्य प्राशनेन भ्रान्तानि सर्वेन्द्रियाणि येषां तेषां दुर्जनानामविनयमौद्धत्यमनुमन्तुं नोत्सद्दे \।
 
@@ -2180,10 +2550,14 @@ cribed as) rivalling the trunk of an elephant-king. Mark how the despicable form
 
   22. Fruits for a meal, sweet water for drink, the (bare) surface of the earth for a bed, and barks for raimnent, are (all) good (preferable) enough; but I cannot tolerate (lit.
 
-विपुल[हृदयै](# " हृदयैः– मतिभिः; ")र्धन्यैः कैश्चिज्जगज्जनितं पुरा  
+विपुलहृदयै[^186]र्धन्यैः कैश्चिज्जगज्जनितं पुरा  
 विधृतमपरैर्दत्तं चान्यैर्विजित्य तृणं यथा  
-इह हि भुवनान्यन्ये [धीरा](# "धीराः- वीराः")श्चतुर्दश भुञ्जते  
+इह हि भुवनान्यन्ये धीरा[^187]श्चतुर्दश भुञ्जते  
 कतिपयपुरस्वाम्ये पुंसां क एष मदज्वरः॥२३॥
+
+[^186]: " हृदयैः– मतिभिः; "
+
+[^187]: "धीराः- वीराः"
 
  विपुलं उदारं हृदयं अंतःकरणं येषां तैः कैश्चित् धन्यपुरुषैः प्रजापतिभिः पुरा सृष्टयुत्पत्तिकाले जगज्जनितमुत्पादितम्। अपरैर्विष्ण्वादिपालयितृभिः विधृतं पालितम्। अन्येपरशुरामादिभिर्विजित्य तृणं यथा तृणमित्र द्विजादिभ्यो दत्तम्। अन्ये बलिसदृशाः धीराः। इह हि अस्मिन्नेवलोके। तथापि कतिपयानां परिच्छिन्नसंख्याकानां पुराणां स्वाम्ये स्वामित्वे क एष मदज्वरः दर्पः। तेषामयं महान् दर्पोऽप्रयोजक इत्यर्थः।
 
@@ -2205,16 +2579,26 @@ sanction) the impudence of wicked men, all whose senses have been maddened by th
 हे मानद शत्रूणां मानं द्यति खण्डयतीति तत्संबुद्धिः। आवयोरुभयोरध्यतरं भेदः नातिदूरंअतिशयेन न विद्यते। यदि स्वमस्मासु पराङ्मुख आदरवर्जितस्तर्हि वयमपि एकान्ततः निस्पृहः। अत्यन्तनिस्पृहत्वान्नादरापेक्षा अस्माकम्।
 
 अभुक्तायां यस्यां क्षणमपि न यातं नृपशतै-  
-र्भुवस्तस्या लाभे क इव बहुमानः [क्षितिभुजाम्](# "क्षितिभृताम्")।  
+र्भुवस्तस्या लाभे क इव बहुमानः क्षितिभुजाम्[^188]।  
 तदंशस्याप्यंशे तदयवलेशेपि पतयो  
 विषादे कर्तव्ये विदधति जडाः प्रत्युत मुदम्॥२५॥
 
+[^188]: "क्षितिभृताम्"
+
   यस्यां क्षणं क्षणपरिमार्ंकालमपि अभुक्तायां सत्यं नृपाणां शतैः न यातं किंतु असंख्या नृपतयः यां भुक्त्वैव गताः। तस्याः अंशस्यापि अंशे तथा तस्यांशस्याव्यवयवलेशे वयं पतयः इति जडा अविवेकितः विषादे कर्तव्ये अन्यो प्रभुक्तस्य तत्रापि तुच्छस्य तस्य गर्ह्यत्वात्। प्रत्युत विपर्ययेण मुदं विदधति कुर्वते।
 
-**मृत्पिण्डो जलरेखया [वलयितः](# "वलयितः–परिवृतः") सर्वोप्ययं नन्वणुः  
-[स्वांशीकृ](# " स्वांशीकृत्य–अङ्गीकृत्य,")त्य स एव संयुगशतै राह्या[गणैर्भुज्यते](# "भागीकृत्य तमेव... गणाभुञ्जते;")।  
-[तो दद्युर्ददतेथवा किमपि ते क्षुद्रा](# "नो द्युः०–तद्दद्युर्ददतेथवा न किमपि क्षुद्रा.") दरिद्रा भृशं  
+**मृत्पिण्डो जलरेखया वलयितः[^189] सर्वोप्ययं नन्वणुः  
+स्वांशीकृ[^190]त्य स एव संयुगशतै राह्यागणैर्भुज्यते[^191]।  
+तो दद्युर्ददतेथवा किमपि ते क्षुद्रा[^192] दरिद्रा भृशं  
 धिग्धिक्तान्पुरुषाधमान्धनकर्ण वाञ्छन्ति तेभ्योपि ये॥२६॥**
+
+[^189]: "वलयितः–परिवृतः"
+
+[^190]: " स्वांशीकृत्य–अङ्गीकृत्य,"
+
+[^191]: "भागीकृत्य तमेव... गणाभुञ्जते;"
+
+[^192]: "नो द्युः०–तद्दद्युर्ददतेथवा न किमपि क्षुद्रा."
 
   सर्वोप्ययं मृत्पिण्डोपृथ्व्याख्यः जलरेखया समुद्रेण वलयितः ननु अणुर्लघुः परिच्छिन्नः। तथापि स एव राज्ञां गणैः समूहैः संयुगशतैः हिंसाप्रचुरयुद्धशतैः
 
@@ -2228,15 +2612,25 @@ spread in all directions; thus, oh dignifier (or mortifier of men) the differenc
 
 स्वांशीकृष्य स्वत्वापादनेन भुज्यते। ते पृथ्व्येकदेशप्राप्त्यर्थमनेकप्राणिघा तकाः राजानः किमपि नो दद्युः पूर्वमधुना वा न किंचिद्ददते। यद्वा नो दद्यु किंचिदत्यल्पं ददते वा। अत एव क्षुद्रा नीचा दरिद्राश्च सन्ति। तथापि तेभ्योपि ये धनकणान्। बहुदातृत्वाभावात्। वाकछन्ति तात्पुरुषाधमान् धिक् धिक्। तुच्छताद्योतिका वीप्सा।
 
-**न नटा न विदा न [गायना](# "गायकाः") [न पर](# "न पर०–न च सत्येतरपक्षपातिनः सभ्येतरवादिचञ्चवः, तथ्येतरवादतत्पराः;")द्रोहनिबद्धबुद्धयः।  
-नृप[सद्मनि](# "सद्मनि-संसदि.") नाम के वयं कुचभारानमिता न योषितः॥२७॥**
+**न नटा न विदा न गायना[^193] न पर[^194]द्रोहनिबद्धबुद्धयः।  
+नृपसद्मनि[^195] नाम के वयं कुचभारानमिता न योषितः॥२७॥**
+
+[^193]: "गायकाः"
+
+[^194]: "न पर०–न च सत्येतरपक्षपातिनः सभ्येतरवादिचञ्चवः, तथ्येतरवादतत्पराः;"
+
+[^195]: "सद्मनि-संसदि."
 
  परेषां द्रोहः परद्रोहः तस्मिन्निबद्धा बुद्धिर्यैस्ते। नृपस्य सद्म तस्मिन् वयं के नाम। गायनाः गायकाः। ण्युट् च इति साधुः। यतः कुचमारेण नमिताः योषितोऽपि न नटत्वादिविशेषगुणविशिष्टत्वाभावादस्मादृशानां राजद्वारि प्रवेशोपि दुर्लभः।
 
-पुरा विद्वत्तासी[दुपश](# "उपश०–अमलिनधियाम्;")मवतां क्लेशहतये  
+पुरा विद्वत्तासीदुपश[^196]मवतां क्लेशहतये  
 गता कालेनासौ विषयसुखसिद्धयै विषयिणाम्।  
-इदानीं तु प्रेक्ष्य [क्षितितल](# "क्षितितल०–लव.")भुजः शास्त्रविमुखा-  
+इदानीं तु प्रेक्ष्य क्षितितल[^197]भुजः शास्त्रविमुखा-  
 नहोकष्टं सापि प्रतिदिनमधोधः प्रविशति॥ २८॥
+
+[^196]: "उपश०–अमलिनधियाम्;"
+
+[^197]: "क्षितितल०–लव."
 
  पुरा प्राचीनकाले विद्वत्ता उपशमवतां शांतिपराणां क्लेशहतये दुःखक्षयार्थमासीत्। कालेन दीर्घकालेनासौविधायपुरुषाणां विषयसुखसिद्धयै वैषयिकसुख
 
@@ -2250,17 +2644,31 @@ is it is apportioned by a number of kings and enjoyed after hundreds of battles.
 
 प्राप्त्यर्थं गता। इदानीं तु क्षितितलभुजः भूमजः शास्त्रविभुखान् शास्त्रपराङ्मुखान्प्रेक्ष्य सापि विद्वत्ता प्रतिदिनघधो गच्छति। एवं समुचिताश्रयाभावाद्रधिकाधिकंनीचावस्थापन्नाभवतीत्यहो कष्टम्।
 
-**[स जातः](# " स जातः–सुजातः;") कोप्यासीन्मदनरिपुणा मूर्ध्नि धवलं  
+**स जातः[^198] कोप्यासीन्मदनरिपुणा मूर्ध्नि धवलं  
 कपालं यस्योच्चैर्विनिहितमलंकारविधये।  
-नृभिः प्राणत्राण[प्रवण](# "प्रवण–प्रबल")मतिभिः कैश्चिदधुना  
+नृभिः प्राणत्राणप्रवण[^199]मतिभिः कैश्चिदधुना  
 नमद्भिः कः पुंसामयमतुलदर्पज्वरभरः॥२९॥**
+
+[^198]: " स जातः–सुजातः;"
+
+[^199]: "प्रवण–प्रबल"
 
   कोप्यनिर्वचनीयमहिमा। मदनरिपुणा शंकरेण। कपालं शिरोस्थि। अलंकारविधये अलंकारविधानार्थम्। तस्य सफलं जन्म इति भावः। प्राणत्राणे जीवितरक्षणे प्रवणा नम्रा पटुर्वा वुद्धिर्येषां तैः नमद्भिः कैश्चित्पुरुषैः हेतुना कोऽयं पुसां गर्वः। अत्यन्तमयोग्य इत्यर्थः।
 
-**अर्थानामीशिषे त्वं वयमपि च गिरामीश्महे [यावदर्थं](# "यावदिथ्तम्;")  
-शूरस्त्वं [वादि](# "वादि-वाग्मि;")दर्पज्वरशमनविधावक्षयं पाटवं नः।  
-सेवन्ते त्वां [धनाढ्या](# "धनाढ्या–मदान्धा,धनान्धा;") [मतिमल](# "मतिमल०–ह्यतिविमलधियः")हतये मामपि श्रोतुकामा  
-मध्यप्यास्था [न चेत्तत्त्वयि](# "न चेत्सा त्वयि अस्मात्परं–यदा किंचिज्ज्ञोहम् इत्येतत्पद्यं कचित्.") मम सुतरामेष राजन्गतोस्मि॥३०॥**
+**अर्थानामीशिषे त्वं वयमपि च गिरामीश्महे यावदर्थं[^200]  
+शूरस्त्वं वादि[^201]दर्पज्वरशमनविधावक्षयं पाटवं नः।  
+सेवन्ते त्वां धनाढ्या[^202] मतिमल[^203]हतये मामपि श्रोतुकामा  
+मध्यप्यास्था न चेत्तत्त्वयि[^204] मम सुतरामेष राजन्गतोस्मि॥३०॥**
+
+[^200]: "यावदिथ्तम्;"
+
+[^201]: "वादि-वाग्मि;"
+
+[^202]: "धनाढ्या–मदान्धा,धनान्धा;"
+
+[^203]: "मतिमल०–ह्यतिविमलधियः"
+
+[^204]: "न चेत्सा त्वयि अस्मात्परं–यदा किंचिज्ज्ञोहम् इत्येतत्पद्यं कचित्."
 
   हे राजन् त्वं द्रव्यस्थेश्वरोसि वयमपि च गिरामीश्वराः स्मः। यावदर्थे यावान- र्थस्तावत्। वादिनां दर्पः गर्व एव ज्वरस्तस्य शमनविधौ नः अस्माकं अक्षयं
 
@@ -2276,7 +2684,9 @@ of time it began to secure sensual happiness for sensualists. Seeing that the ru
 
 पाटवं नित्यपटुतां। अनेन धनार्थे वा अन्वा धनान्धाः धनप्राप्त्याघनप्राप्त्यर्थे वो कार्याकार्यविचारनिरपेक्षाः। मतेः मलः तस्य हतये क्षवार्थम्। श्रोतुकामाः श्रवणेच्छावन्तः मध्यास्था न चेत्सा त्वष्वपि मम सुतरां नास्त्येव गतोऽस्मि इदानीम्। यतः निःस्पृहत्वात्तृणीकृतसर्वसारः।
 
-**अतिक्रान्तः कालो [लटभ](# " लटभ–ललित.")ललनाभोगसुभगो**  
+**अतिक्रान्तः कालो लटभ[^205]ललनाभोगसुभगो**  
+
+[^205]: " लटभ–ललित."
 
 भ्रमन्तः श्रान्ताः स्मः सुचिरमिह संसारसरणौ।  
 
@@ -2286,13 +2696,19 @@ of time it began to secure sensual happiness for sensualists. Seeing that the ru
 
   लटभा मनोज्ञा या ललनाः स्त्रियस्तासां भोगेन उपभोगेन सुभगो रमणीयः। इह अस्यां, अथवा अस्मिन्मर्त्यलोके, संसारः एव सरणिः मार्गः तस्यां सुचिरं दीर्घकालं भ्रमन्तः श्रान्ताः श्रमपूर्णाः स्मः। इदानीं स्वःसिन्धोः स्वर्धन्याः गंगायाः तटसंबंधि या भूस्तस्यां सुतारैः दीधैः फूत्कारैः फूत् इति शब्दः। वेददर्शकोऽयं ध्वनिः। सह शिव शिव शिव इति समाकन्दनस्य गिरः प्रतनुमः प्रकर्षेण तनुमः।
 
-माने [म्लायति](# "म्लायिनि") खण्डिते च [वसुनि](# "वसुनि–वयसि") व्यर्थंप्रयातेर्थिनि  
+माने म्लायति[^206] खण्डिते च वसुनि[^207] व्यर्थंप्रयातेर्थिनि  
+
+[^206]: "म्लायिनि"
+
+[^207]: "वसुनि–वयसि"
 
 क्षीणे बन्धुजने गते परिजने नष्टे शनैर्यौवने।  
 
 युक्तं केवलमेतदेव सुधियां यज्जहुकन्यापयः-  
 
-पूतश्रावगिरीन्द्रकन्दर[दरी](# "दरी–तटी.")कुञ्जे निवासः क्वचित्॥ ३२॥
+पूतश्रावगिरीन्द्रकन्दरदरी[^208]कुञ्जे निवासः क्वचित्॥ ३२॥
+
+[^208]: "दरी–तटी."
 
   माने जातिकुलाद्यभिमाने म्लायति गलिते सति। खण्डिते नष्टे सति।
 
@@ -2306,10 +2722,14 @@ the feverish pride of a controversialist is inexhaustible; thoso who are filled 
 
 कार्यनि अर्थोस्यातीति तस्मिन् याचके व्यर्थ विगतः अर्थः यथास्यात्तथा। काममनवाप्येत्यर्थः। प्रयाते प्रकर्षेण मते सति। यौवने यूनः भावः तस्मिन्। सुधियां बुद्धिमतां।अहोः कन्या गंगा तस्याः पयसा पूताः पुनीताः प्रावाणः यस्मिन्नेवंविधस्य गिरीन्द्रस्य हिमवतः कन्दरस्य तटी तस्यां यः कुलस्वांस्मिन्\।क्वचित् यत्र कुत्रापि युक्तं योग्यम्। एवंविधायां कष्टावस्थायां सर्वसंग परित्यागः कर्तव्यः इति तात्पर्यम्।
 
-**परेषां चेतांसि प्रतिदिवसमाराध्य [बहु हा](# "बहुधा;")  
-प्रसादं कि नेतुं विशसि हृदय क्लेश[कलिलम्](# "कलिलं–कलितम्, क्लेशमफलम्.")।  
+**परेषां चेतांसि प्रतिदिवसमाराध्य बहु हा[^209]  
+प्रसादं कि नेतुं विशसि हृदय क्लेशकलिलम्[^210]।  
 प्रसन्ने त्वय्यन्तःस्वयमुदितचिन्तामणिगुणे  
 विमुक्तः संकल्पः किमभिलषितं पुष्यति न ते॥३३॥**
+
+[^209]: "बहुधा;"
+
+[^210]: "कलिलं–कलितम्, क्लेशमफलम्."
 
   है हृदय। परेषां धनिनाम्। प्रत्यहं बहु अधिकप्रमाणेन आराध्य संसेव्य। हेति खेदे। प्रसादं संतोषं नेतुं संपादितुं क्लेशकलिलं क्लेशदुःखं किं विशसि। स्वयं स्वतंत्रतया उदिता उद्गताः चिंतामणेः गुणाः यस्मिंस्तस्मिन् \। त्वयि अन्तः प्रसन्ने अभिलषितं वाञ्छितं न पुष्यति संपादयति। सर्वमपि पुण्येदित्यर्थः। तस्मात् पुरुषेण प्रयत्नतः परप्रसादनकरणं विहाय स्वान्तःकरणप्रसादनार्थं प्रयतितव्यमितिभावः।
 
@@ -2320,16 +2740,28 @@ the mendicant having gone without wealth (charity), the relations having diminis
   33. Alack-a-day! (my) heart why dost thou enter the dense mass of misery (suffer much distress) in order to please the hearts of others by daily propitiation? When with the powers of the Chintámani spontaneously rising in thee, thou art inwardly satisfied, what object of thine foregone-desire will not satisfy ?
 
 भोगेरोगभयं कुले च्युतिभयं वित्ते नृपालाद्भयं  
-[माने](# "माने- मौने.") दैन्यभयं बले रिपुभयं रूपे [जराया](# "जराया–तरुण्या; ") भयम्।  
-शास्त्रे [वाद](# "वाद–वादि.")भयं गुणे खलभयं काये कृतान्ताद्भयं  
+माने[^211] दैन्यभयं बले रिपुभयं रूपे जराया[^212] भयम्।  
+शास्त्रे वाद[^213]भयं गुणे खलभयं काये कृतान्ताद्भयं  
 सर्वं वस्तु भयान्वितं भुवि नृणां वैराग्यमेवाभयम्॥३४॥
+
+[^211]: "माने- मौने."
+
+[^212]: "जराया–तरुण्या; "
+
+[^213]: "वाद–वादि."
 
  भोगे विषयाणां भोगे रोगाद्भयम्। ‘पञ्चमी भयेन’ इति पञ्चमीतत्पुरुषः। विषयभोगो रोगभयान्वित इत्यर्थः। कुले सद्वंशे च्युतेः भयम्। उत्तमकुलप्रसूतस्य केनापि प्रकारेण मम कुलाचारभ्रंशः स्यादिति भीतिः वर्तते। वित्ते द्रव्ये नृपालाद्भयम्। राजा कदाचिद्रव्यं हरिष्यतीति। दैन्यभयं दीनस्यभावो दैन्यं तस्मात्। बले अङ्गबले सैन्येवा। खलभयं दुष्टपुरुषेभ्यो भयम्। सजनगुणासहनमेव खलानां कुलव्रतम्\। काये देहधारणे कृतान्तात् यमाद्भयम्। यजन्यं तत्मर्त्यमिति न्यायात्। स्पष्टमन्यत्।
 
 अमीषां प्राणानां तुलितबिसिनीपत्रपयसां  
 कृते किं नास्माभिर्विगलिताविवेकैर्व्यवसितम्।  
-[यदाढ्या](# "यदाढ्या–यदज्ञा०")नामग्रे द्रविणमद[निःसंज्ञ](# "निः संज्ञ–निःशंक;")मनसां  
-कृतं [वीत](# "वीत–म्लान, कथाख्यानकमपि.")वीडैर्निजगुणकथापातकमपि॥३५॥
+यदाढ्या[^214]नामग्रे द्रविणमदनिःसंज्ञ[^215]मनसां  
+कृतं वीत[^216]वीडैर्निजगुणकथापातकमपि॥३५॥
+
+[^214]: "यदाढ्या–यदज्ञा०"
+
+[^215]: "निः संज्ञ–निःशंक;"
+
+[^216]: "वीत–म्लान, कथाख्यानकमपि."
 
   तुलितं तुलां प्रापितं बिसिन्याः कमलिन्याः पत्रेषु यत्पयःतद्विसिनीपत्रपयः येषां तेषाममीषांप्राणानां कृते अर्थे विगलितः विवेकः येषां तैरस्माभिः
 
@@ -2341,17 +2773,27 @@ the mendicant having gone without wealth (charity), the relations having diminis
 
   किं न व्यवसितं। सर्वमकार्यमपि कृतमित्यर्थः। किं तदित्याकाङ्क्षायामाह। यत् यतः द्रविणस्य धनस्य मदो गर्वः तेन निःसंज्ञं संज्ञारहितं मनो येषां तेषामादयानां धनपूर्णानामग्रेबीता निर्गता व्रीडा लज्जा येषां तैर्निर्लजैः निजगुणानं कथा कीर्तनं तदेव पातकं कल्मषं तदपि कृतम्।
 
-[सा रम्या](# "रम्या सा,भ्रातः कष्टमहो.") नगरी महान्स नृपतिः सामन्त चक्रं च त–  
-त्पार्श्वे तस्य च [सा विदग्धपरिषत्ता](# " सा विदग्धपरिषत् - सापि राजपरिषत्,सा विदग्धवनिता.")श्चन्द्रबिम्बाननाः।  
-[उद्रिक्तः](# "उद्विक्तः–उत्सिक्तः,उन्मत्तः, सद्वृत्तः, ")स च राजपुत्रनिवहस्ते बन्दिनस्ताः कथाः  
-सर्व यस्य वशांदगा[त्स्मृतिपथं](# "स्मृतिपथं०–पदम्.") कालाय तस्मै नमः॥३६॥
+सा रम्या[^217] नगरी महान्स नृपतिः सामन्त चक्रं च त–  
+त्पार्श्वे तस्य च सा विदग्धपरिषत्ता[^218]श्चन्द्रबिम्बाननाः।  
+उद्रिक्तः[^219]स च राजपुत्रनिवहस्ते बन्दिनस्ताः कथाः  
+सर्व यस्य वशांदगात्स्मृतिपथं[^220] कालाय तस्मै नमः॥३६॥
+
+[^217]: "रम्या सा,भ्रातः कष्टमहो."
+
+[^218]: " सा विदग्धपरिषत् - सापि राजपरिषत्,सा विदग्धवनिता."
+
+[^219]: "उद्विक्तः–उत्सिक्तः,उन्मत्तः, सद्वृत्तः, "
+
+[^220]: "स्मृतिपथं०–पदम्."
 
  सम्यगन्तः समन्तः तस्मिन्समन्ते भवः सामन्तः। माण्डलिक इति यावत्। ‘तत्र भवः’ इति अण्। तेषां चक्रं समूहः। विदग्धानां विदुषां परिषत् सभा। चंद्रबिंबवदाननं यासां ताः। उद्रिक्तोगर्विष्ठः स राजपुत्राणां निवहः समूहः। बन्दिनः स्तुतिपाठकाः। इदं सर्वमपि यस्य कालस्य पलघटिकाप्रहरदिवसपक्षमासर्त्वनसंवत्सरादिलक्षणस्य मृत्योर्वा वशाद् वशवर्तित्वात् स्मृतिपथं स्मरणपदवीमगात्। अनुभवयोग्यताविरहाद्बुद्धेद्वितीयावस्थापन्नंसंवृत्तमित्यर्थः। तस्मै नमः।
 
-**वयं येभ्यो जाता[श्चिरपरिगता](# "चिरमपंगताः; स्मृति०– स्मरणपदवीम्.") एव खलु ते  
+**वयं येभ्यो जाताश्चिरपरिगता[^221] एव खलु ते  
 समं यैः संवृद्धाः स्मृतिविषयतां तेऽपि गमिताः।  
 इदानीमेते स्मः प्रतिदिवसमासन्नपतना  
 गतास्तुल्यावस्थां सिकतिलनदीतीरतरुभिः॥३७॥**
+
+[^221]: "चिरमपंगताः; स्मृति०– स्मरणपदवीम्."
 
  येभ्यः पितृपितामहादिभ्यः। ते परिगताः मृताः। स्मृतिविषयतां स्मृति
 
@@ -2365,17 +2807,25 @@ the mendicant having gone without wealth (charity), the relations having diminis
 
 मोचरतां। आसन्नमुपस्थितं पतनं येषां ते। सिकताः सन्त्यस्मिन्देशे इति सिकतिलः। ‘देशे लुबिलचौ च’ इति इलच् प्रत्ययः। एवंविधा या नदी तस्यास्वीरतरुभिः कूलस्थवृक्षैः सह तुल्यावस्थां समावस्थां गताः।
 
-**य[त्रानेके](# "अनेके–अनेकः") क्वचिदपि गृहे तत्र तिष्ठत्यथैको  
-यत्राप्येकस्तदनु बहवस्तत्र [नैकोपि](# "नैकोपि०–चान्ते न चैकः;") चान्ते।  
+**यत्रानेके[^222] क्वचिदपि गृहे तत्र तिष्ठत्यथैको  
+यत्राप्येकस्तदनु बहवस्तत्र नैकोपि[^223] चान्ते।  
 इत्थं चेमौ रजनिदिवसौ दोलयन्द्वाविवाक्षौ  
-कालः काल्या [भुवनफलके](# "भुवनफलकं–सह बहुकलः") क्रीडति प्राणिशारैः॥३८॥**
+कालः काल्या भुवनफलके[^224] क्रीडति प्राणिशारैः॥३८॥**
+
+[^222]: "अनेके–अनेकः"
+
+[^223]: "नैकोपि०–चान्ते न चैकः;"
+
+[^224]: "भुवनफलकं–सह बहुकलः"
 
  इत्थं उक्तप्रकारेण इमौ रजनिदिवसौ रात्रिदिवसौ द्वौ अक्षौ इव दोलयन् प्रक्षिपन् कालः काल्या स्वशत्तयासह। भुवनमेव फलकं तस्मिन्। प्राणिन एव 'शाराः काष्ठनिर्मितद्यूतोपकरणानि। सोंगट्या इति प्राकृते प्रसिद्धिः। तैः क्रीडति।
 
 **तपस्यन्तः सन्तः किमधिनिवसामः सुरनदीं  
-गुणोदारान्दारानुत परिचरामः [सविनय](# "सवियान्; शास्त्रार्थान्.")म्।  
+गुणोदारान्दारानुत परिचरामः सविनय[^225]म्।  
 पिबामः शास्त्रौधानुत विविधकाव्यामृतरसा-  
 न विद्मः कि कुर्मः कतिपयनिमेषायुषि जने॥ ३९॥**
+
+[^225]: "सवियान्; शास्त्रार्थान्."
 
   तपस्यन्तः तपोनुष्ठानं कुर्वन्तः सन्तः सुरनदीं भागीरथीमधिनिवसामः बासं कुर्मः। ‘उपान्वध्याङ्कसः’ इति द्वितीया। किम्। उत अथवा
 
@@ -2391,8 +2841,12 @@ away; those too, with whom we grew up, have been consigned to the region of memo
 
 गङ्गातीरे हिमगिरिशिलाबद्धपद्मासनस्य  
 ब्रह्मध्यानाभ्यसनविधिना योगनिद्रां गतस्य।  
-किं तैर्भाव्यं मम सुदिवसै[र्यत्र](# "यत्र-येषु;") ते निर्विशङ्काः  
-[कण्डूयन्ते](# "कण्डूयन्ते इ०–शृङ्गमङ्गे, संप्राप्स्यन्ते जरठहरिणाः शृङ्गकण्डू- विनोदम्.") जरठहरिणाः स्वाङ्गमङ्गे मदीये॥४०॥
+किं तैर्भाव्यं मम सुदिवसैर्यत्र[^226] ते निर्विशङ्काः  
+कण्डूयन्ते[^227] जरठहरिणाः स्वाङ्गमङ्गे मदीये॥४०॥
+
+[^226]: "यत्र-येषु;"
+
+[^227]: "कण्डूयन्ते इ०–शृङ्गमङ्गे, संप्राप्स्यन्ते जरठहरिणाः शृङ्गकण्डू- विनोदम्."
 
   गङ्गायास्तीरे हिमगिरेः शिलायां बद्धं पद्मासनम्। ऊरुमूले वामपाई पुनस्तु दक्षिणं पदं। वामोरौस्थापयित्वा तु पद्मासनमिति स्मृ. तम्॥ इत्युक्तलक्षणं येन तस्य।ब्रह्मणः ध्यानं। 'तत्र-प्रत्ययैकतानता ध्यानम्' इति योगसूत्रलक्षितं ध्येयैकप्रत्ययस्य तैलधारावदविच्छिन्नवृत्तित्वम्। तस्य अभ्यसनं अभ्यासो पुनः पुनरनुष्ठानम्। 'अभ्यासो नाम चित्तभूमौ कस्यांचित्समानप्रत्ययावृत्तिश्चित्तस्य' इति आचार्योक्तिः। तस्य विधिना करणेन योगनिद्रासंप्रज्ञातसमाधिं गतस्य प्राप्तस्य मम तैः सुदिवसैः पुण्यं दिवसैः भाव्यं किम्। एवंविधान् पुण्यदिवसानहं पश्यामि किमिति यावत्। यत्र दिवसेषु। जरठाः वृद्धा हरिणाः निर्विशङ्काः निर्भयाः सन्तः। कण्डूयन्ते। डित्यपाषाणमिव चेतनरहितं जडपदाथै मां ज्ञात्वेति पूरणम्। एकान्तवासी‘यस्मानोद्विजते लोको लोकानोद्विजते च यः' इति सर्वसाम्यावस्थः बहिर्विषयविज्ञानरहितश्च कदा भविष्यामीति चिन्ता द्योतितास्मिन्पद्ये।
 
@@ -2404,9 +2858,15 @@ few winkings of the eye, we do not know what to do, whether we should taste nect
 
 स्फुरत्स्फारज्योत्स्नाधवलिततले कापि पुलिने  
 
-[सुखा](# "सुखा- तमा०")सीनाः शान्तध्वनिषु रजनीषु द्युसरितः।  
-भवाभोगोद्विग्नाः शिव शिव शिवे[त्यात्त](# "आत्त–आर्त्त,")वचसः  
-कदा स्यामानन्दोद्गतबहुलवाप्या[प्लुत](# "आप्लुत–आकुल,")दृशः॥४१॥
+सुखा[^228]सीनाः शान्तध्वनिषु रजनीषु द्युसरितः।  
+भवाभोगोद्विग्नाः शिव शिव शिवेत्यात्त[^229]वचसः  
+कदा स्यामानन्दोद्गतबहुलवाप्याप्लुत[^230]दृशः॥४१॥
+
+[^228]: "सुखा- तमा०"
+
+[^229]: "आत्त–आर्त्त,"
+
+[^230]: "आप्लुत–आकुल,"
 
   स्फुरन्ती या स्फारा बहुला जोत्ना कौमुद्दी तथा धवलितं तलं यस्मिन्। सुखेनासीनाः अनायासेन स्थिताः। शान्तः ध्वनिः यासु तासु रजनीषु रात्रिषु। द्युसरितः स्वर्धुम्याः। भवस्य संसारस्य भवानां जन्मनां वा आभोगः विस्तारस्तेन उद्विग्नाउद्वेगं प्राप्ताः। शिव शिवेति आत्तं गृहीतं वचः यैःते। आनन्देन उद्गता ये बहुलाः बाष्पाः तैः आप्लुनाः दृशः येषां ते\।
 कदा कस्मिन्काले स्याम मनाम।
@@ -2429,9 +2889,13 @@ the Himàlayàs on the bank of the Ganges, and having gone. to the sleep of conc
 हरितः दिशः। वसनंमाच्छादनम्। कालः मृत्युः। न विद्यते दैन्यं वाञ्छारूपं व्रतं यस्मिन् तददैन्यव्रतमेव व्रतम्। घटविटप नैग्रोधवृक्ष एव दयिता स्त्रीस्थाने इत्यर्थः।
 
 **आशा नाम नदी मनोरथजला तृष्णातरङ्गाकुला  
- रागग्राहवती वितर्कविहगा [धैर्य](# "धैर्य–धर्म;")द्रुमध्वंसिनी।  
-मोहावर्तसुदुस्तरातिगहना प्रोतुङ्गचिन्ता[तटी](# "तटी- अटकी.")  
+ रागग्राहवती वितर्कविहगा धैर्य[^231]द्रुमध्वंसिनी।  
+मोहावर्तसुदुस्तरातिगहना प्रोतुङ्गचिन्तातटी[^232]  
  तस्याः पारगता विशुद्धमनसो नन्दन्ति योगीश्वराः॥४३॥**
+
+[^231]: "धैर्य–धर्म;"
+
+[^232]: "तटी- अटकी."
 
   मनोरथाः कामाः एव जलं यस्याम्। तृष्णा लिप्सा एव तरङ्गस्तैराकुला। रागाः प्रीतिविशेषाः ते एव प्राहा मकराः सन्त्यस्याम्। वितर्काः संकल्पविकरूपात्मकवृत्तयः विहगाः पक्षिणः यस्याम्। धैर्ये धीरता एव द्रुमाः तेषां नाशिनी। मोहा एव. आवर्ताः तैः सुदुस्तरा अत्यन्त दुःखेन तरणं यस्याः सां। प्रोतुङ्गाप्रकर्षेणोत्तुङ्गोत्रता चिन्ता सैव तटी यस्याः सा। विशुद्धं निर्मलं मनोः मेषाम्। योगोऽस्ति एषां ते योगिनः तेषामीश्वराः। एवंविचाया नद्याः पारंगताः सिद्धा निरतिशयानन्दभाजो भवन्ति। अन्ये कलुषितान्तःकरणा अस्यां निमज्जन्तः सन्तः क्लिश्यन्तीति तात्पर्यम्।
 
@@ -2442,16 +2906,22 @@ Ganges) alone is the stream (for me); caves are (my) abođe, · and even the qua
  43. Desire is, indeed, a river, having for its water the objects of desire, agitated by waves in the form of covetousness, having for sharks the passions, and for birds the misgivings (of theheart ), destroying the tree of courage, difficult to cross on; account of eddies in the form of infatuation, very deep andhaving anxiety for its steep (lit. high)banks; the great ascetics of pure heart who havecrossed it the river)are happy !
 
 **आसंसारं त्रिभुवनमिदं चिन्वतां तात तादृ  
-ग्नैवास्माकं नयनपदवीं श्रोत्र[वर्त्मा](# "वर्त्मा–मार्गा–मार्गम्")गतो वा।  
+ग्नैवास्माकं नयनपदवीं श्रोत्रवर्त्मा[^233]गतो वा।  
 योयं धत्ते विषयकरिणीगाढगूढाभिमान-  
 क्षीबस्यान्तःकरणकरिणः संयमालानलीलाम्॥४४॥**
 
+[^233]: "वर्त्मा–मार्गा–मार्गम्"
+
   आसंसार संसारमभिव्याप्य इदं त्रिभुवनं चिन्वतां मार्गयतामस्माकं नयनयोः पदवी मार्गे श्रोत्रयोः श्रवणयोः वर्त्म मार्गे वा नागतः। न दृष्टो न श्रुतो वेति यावत्। विषया एव करिणी हस्तिनी तस्यां गाढः अत्यन्तः गूढः निभृतः योऽ- भिमानस्तेन क्षीत्रस्य मत्तस्य। अंतःकरणमेव करी हस्ती तस्य संयंमः निग्रह' एवआलानं गजबन्धनं तस्य लीलाम्। अन्तःकरणनिग्रहे समर्थ इत्यर्थः।
 
-ये [वर्धन्ते](# "वर्तन्ते,") धनपतिपुरःप्रार्थना[दुःख](# " दुःखदीर्घा.")भाजो  
+ये वर्धन्ते[^234] धनपतिपुरःप्रार्थनादुःख[^235]भाजो  
 ये चाल्पत्वं दधति विषयाक्षेपपर्यस्तबुद्धेः।  
 तेषामन्तःस्फुरितहसितं वासराणां स्मरेयं  
 ध्यानच्छेदे शिखरिकुहरग्रावशय्यानिषण्णः॥ ४५॥
+
+[^234]: "वर्तन्ते,"
+
+[^235]: " दुःखदीर्घा."
 
   धनपतेः पुरः प्रार्थना याञ्छातस्या दुःखं भजतीति दुःखभाक् तस्य। वर्धन्ते दीर्घा भवन्ति। विषयाणामाक्षेत्रः आकर्षगं तेन पर्यस्ता व्याकुला बुद्धिर्यस्य॥ अन्तः स्फुरितं हसितं यथा स्यात्तथा। ध्यानच्छेदे व्युत्थानानन्तरम्। शिखरिणः पर्वतस्य कुहरे विवरे यो ग्रावापाषाणः स एवशय्या शयनं तस्यां निषण्ण उपविष्टः सन्।  
 **–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––**
@@ -2462,17 +2932,29 @@ Ganges) alone is the stream (for me); caves are (my) abođe, · and even the qua
 
 **विद्या नाधिगता कलङ्करहिता वित्तं च नोपार्जितं  
 शुश्रूषापि समाहितेन मनसा पित्रोर्न संपादिता।  
-आलोलायतलोचना [युवतयः](# "युवतयः–प्रियतमाः") स्वप्नेपि नालिङ्गिताः  
-कालोयं परपिण्डलोलुपतया काकैरिव [प्रेरितः](# "प्रेरितः–प्रेषितः")॥४६॥**
+आलोलायतलोचना युवतयः[^236] स्वप्नेपि नालिङ्गिताः  
+कालोयं परपिण्डलोलुपतया काकैरिव प्रेरितः[^237]॥४६॥**
+
+[^236]: "युवतयः–प्रियतमाः"
+
+[^237]: "प्रेरितः–प्रेषितः"
 
   कलङ्करहिता निष्कलुषा। निर्मलेति यावत्। नोपार्जितं न संपादितम्। शुश्रूषा सेवा। समाहितेन मनसा शान्तान्तःकरणेन। आलोले चञ्चले आयते दीर्घे च लोचने नयने यासां ताः। परपिण्डे प
 
 रदत्तान्नेया लोलुपता आसक्तिः तथा। प्रेरितः नीत इति यावत्।
 
 **वितीर्णे सर्वस्वे तरुणकरुणापूर्णहृदयाः  
-स्मरन्तः संसारे विगुणपरिणामा विधि[गतीः](# "गतीः–णार्मा,")।  
-[वयं](# "वयं–कदा;") पुण्यारण्ये परिणतशरच्चन्द्र[किरणां](# "किरणां-किरणैः, किरणे")  
-त्रियामां नेष्यामो हरचरण[चित्तैक](# "चित्तैक-चिन्तैक.")शरणाः॥४७॥**
+स्मरन्तः संसारे विगुणपरिणामा विधिगतीः[^238]।  
+वयं[^239] पुण्यारण्ये परिणतशरच्चन्द्रकिरणां[^240]  
+त्रियामां नेष्यामो हरचरणचित्तैक[^241]शरणाः॥४७॥**
+
+[^238]: "गतीः–णार्मा,"
+
+[^239]: "वयं–कदा;"
+
+[^240]: "किरणां-किरणैः, किरणे"
+
+[^241]: "चित्तैक-चिन्तैक."
 
   वितीर्णे धर्मबुद्धया दत्ते। सर्वे च तत्स्वंधनं तस्मिन्। तरुणा या करुणा तथापूर्ण हृदयं येषाम्। विगुणः निर्गुणः। अनिष्ट इति यावत्। परिणामः यासां ता विधिगतीः दैवविलसितानि। परिणता उपचिताः शरत्संबंधिचंद्रस्य परिणतस्य शरच्चन्द्रस्य वा किरणाः अंशवः यस्याम्। त्रियामां क्षपाम्। हरस्य चरणयोः यत् चित्तं तदेव एकं शरणं आश्रयः येषां ते।‘शरणं गृहर क्षित्रोः’ इत्यमरः।
 
@@ -2489,17 +2971,23 @@ to the wealthy, and which (days) appear to be shorter (to one) whose reason is s
 ४७,विरसपरिणामां गतिम्; विगुणपरिणामावधिगतिम्,  
 
 
-वयमिह परितुष्टा वल्कलैस्त्वं [दुकूलैः](# "दुकूलैः–च लक्ष्म्या;")  
+वयमिह परितुष्टा वल्कलैस्त्वं दुकूलैः[^242]  
 सम इह परितोषो निर्विशेषो विशेषः।  
-स तु [भवतु](# "भवतु - भवति") दरिद्रो यस्य तृष्णा विशाला  
+स तु भवतु[^243] दरिद्रो यस्य तृष्णा विशाला  
 मनसि च परितुष्टे कोर्थवान्को दरिद्रः॥४८॥
+
+[^242]: "दुकूलैः–च लक्ष्म्या;"
+
+[^243]: "भवतु - भवति"
 
   इह अस्मिन् लोके। दुकूलैः क्षौमैः। उभयोर्मध्ये निर्विशेषः निर्गतो विशेषो भेदो यस्मात् स तथा विशेषः। उभावपि समं संतुष्टाविति यावत्। विशाला विपुला। मनसि परितुष्टे सति न कोपि दरिद्रः न च कोऽपि धनवान्। मनःसंतोष भावाभावाभ्यामर्थवत्वदरिद्रत्वादिव्यपदेशा भवन्तीत्यर्थः।
 
-**यदेत[त्स्वच्छन्दं](# "स्वाच्छन्द्यम्ः") विहरणमकार्पण्यमशनं  
+**यदेतत्स्वच्छन्दं[^244] विहरणमकार्पण्यमशनं  
 सहायैः संवासः श्रुतमुपशमैकव्रतफलम्।  
 मनो मन्दस्पन्दं बहिरपि चिरस्यापि विमृश  
 न्न जाने कस्यैषा परिणतिरुदारस्य तपसः॥४९॥**
+
+[^244]: "स्वाच्छन्द्यम्ः"
 
   स्वच्छदं यथा स्यात्तथा विहरणम्। स्वैरवर्तनमिति यावत्। अकार्पण्यं कृपणस्य भावः कार्पण्यं दैन्यं, अविद्यमानं कार्पण्यं यस्मिंस्तथा अशनं भोजनम्। आर्थैः श्रेष्ठः सह संवासः वसतिः \। उपशमः शांतिरेव एकं व्रतफलं यस्मिन् तादृक् श्रुतं श्रवणम्। मनोपि मन्दः स्पन्दः स्पन्दनं यस्य तत् मन्दस्पंन्दम्। बहिः बहिर्विषयेषु। कस्य उदारस्य उत्कृष्टस्य तपसः एषा परिणतिः फलं न जाने न बेद्मि\।
 
@@ -2512,16 +3000,28 @@ shall in a sacred forest pass the night lit with the rays of the full autumnal m
  49. Though reflecting for a long time, I do not know of what great penance this is the result.-viz. this unrestrained rambling, this meal freefrom niggardliness, the com-pany of the noble, this learning having for its fruit (the observance of) the one vow of controlling the senses, and this mind moving ( but ) slowly towards external objects.
 
 **पाणिः पात्रं पवित्रं भ्रमणपरिगतं भैक्षमक्षय्यमन्नं  
-विस्तीर्णे वस्त्रमा[शादशकमपमलं](# "०माशोदकमपि बिमलं,आशासुदशकममलम्.") तल्पमस्वल्पमुर्वी।  
-येषां [निःसङ्ग](# "निःसंग–निःसंतान्तःकरण")ताङ्गीकरणपरिणतिः स्वात्मसंतोषिणस्ते  
+विस्तीर्णे वस्त्रमाशादशकमपमलं[^245] तल्पमस्वल्पमुर्वी।  
+येषां निःसङ्ग[^246]ताङ्गीकरणपरिणतिः स्वात्मसंतोषिणस्ते  
 धन्याः संन्यस्तदैन्यव्यतिकरनिकराः कर्म निर्मूलयन्ति॥५०॥**
+
+[^245]: "०माशोदकमपि बिमलं,आशासुदशकममलम्."
+
+[^246]: "निःसंग–निःसंतान्तःकरण"
 
  पाणिः हस्तः। लक्षणया हस्तपुटकः। पात्रं भाण्डम्। भ्रमणेन परिगतं लब्धं भैक्षं भिक्षायाः समूहः। ‘तस्य समूहः’ इति अण्। अक्षय्यं अशक्यक्षयं। क्षय्यजय्यौ शक्यार्थे इति यःन्तादेशः। अन्नं भक्तादिः। विस्तीर्णे विपुलमाशानां दिशां दशकं दशानां समूहः तदेव अपगतः मलः यस्मात् तदपमलं वस्त्रम्। उर्वी पृथ्वी अस्वल्पंमहत्तल्पंशयनीयम्। एवं येषां निसंगतायाः अनासक्त्याःअङ्गीकरणं स्वीकरणमेव परिणतिः। स्वात्मनि एवसंतोषो विद्यत एषां ते स्वात्मसंतोषिणः। संन्यस्ताः त्यक्ताः दैन्यप्रयुक्ता ये व्यतिकराः व्यसनानि व्यतिषङ्गा वा तेषां निकराः यैः। ‘अथ व्यतिकरःपुंसि व्यसनव्यतिषङ्गयोः’ इति मेदिनी।
 
-[दुराराध्याश्चामी](# "दुराराध्यः स्वामी;क्षितिभृतः") तुरगचलचित्ताः क्षितिभुजो  
-वयं तु स्थूलेच्छा [महति च](# "महति च–सुमहति") पदे [बद्ध](# "बद्ध-दत्त")मनसः।  
-जरा देहं मृत्युर्हरति [सकलं](# "सकलं–इयितम्") जीवितमिदं  
+दुराराध्याश्चामी[^247] तुरगचलचित्ताः क्षितिभुजो  
+वयं तु स्थूलेच्छा महति च[^248] पदे बद्ध[^249]मनसः।  
+जरा देहं मृत्युर्हरति सकलं[^250] जीवितमिदं  
 सखे नान्यच्छ्रेयो जगति विदुषोन्यत्र तपसः॥५१॥
+
+[^247]: "दुराराध्यः स्वामी;क्षितिभृतः"
+
+[^248]: "महति च–सुमहति"
+
+[^249]: "बद्ध-दत्त"
+
+[^250]: "सकलं–इयितम्"
 
  दुःखेन आराध्यः। तुरगवत् अश्ववत्चलं चंचलं चित्तं येषां ते। क्षितिभुजः राजानः। स्थूला महती दूराधिरोहिणीत्यर्थः इच्छा येषां ते। महति
 
@@ -2536,9 +3036,15 @@ shall in a sacred forest pass the night lit with the rays of the full autumnal m
 पदे स्थाने। बद्धं नितरांअर्पितं मनो येषाम्। जरा वार्धक्यंदेहं हरति मृत्युः कालः इदं सकलं जीवितं आयुष्यं व हरति। अतः हे सखेअस्मिन् जगति विदुषस्तपसः सर्वसाधकादन्यत्र तप अपहाय अभ्यत् श्रेयः परं कल्याणं नास्ति।
 
 भोगा मेघवितानमध्यविलसत्सौदामिनीचञ्चला  
-आयुर्वायुविघट्टि[ताभ्र](# "अभ्र–अब्ज;")पटलीलीनाम्बुवद्भङ्गुरम्।  
-लोला यौवन[लालना](# "लालना–लालसा;") [तनुभृतामि](# "तनुभृतामि-जलरयावे")त्याकलय्य द्रुतम्  
+आयुर्वायुविघट्टिताभ्र[^251]पटलीलीनाम्बुवद्भङ्गुरम्।  
+लोला यौवनलालना[^252] तनुभृतामि[^253]त्याकलय्य द्रुतम्  
 योगे धैर्यसमाधिसिद्धिसुलभे बुद्धिं विदद्ध्वंबुधाः॥५२॥
+
+[^251]: "अभ्र–अब्ज;"
+
+[^252]: "लालना–लालसा;"
+
+[^253]: "तनुभृतामि-जलरयावे"
 
  मेघानां वितानं मण्डलं तन्मध्ये विलसन्ती या सौदामिनी विद्युत्तद्वत् चञ्चला अस्थिराः। भोगाःसुखदुःखादयः। आयुः वायुना विघट्टिता विक्षिप्ताया अभ्रपटली मेघमंडलं तस्यां लीनं यदम्बु जलं तद्वत् भङ्गुरं क्षणिकं विनाशि। ‘भञ्जभासंमिदो घुरच्’ इति घुरच्। तनुभृतां देहवतांयौवनस्य लालना पोषणं लोला अस्थिरा इति आकलय्यनिश्चयेन ज्ञात्वा। हे बुधाः धैर्येण यो समाधिः चित्तसमाधानं तस्य सिद्ध्यासुलभे योगे असंप्रज्ञातसमाधौ बुद्धिंविदद्ध्वंकुरुध्वम्।
 
@@ -2548,10 +3054,18 @@ are difficult to be propitiated; while we have a high ambition, and our heart is
 
  52. Sensual objects are as ephemeral as the lightning shining in the midst of the cloudy canopy; life is frail like the water collected in the row of clouds scattered by the wind; momentary is the youthful happiness of mortals; taking this into consideration, O wise men, fix your mind at once on contemplation of the Supreme Spirit, which it is easy to do when one is a perfect master of (lit. by being perfect in) patience and concentration.
 
-[पुण्ये ग्रामे](# "पुण्यप्रामे;") वने वा महति सितपटच्छन्नपालीं कपाली-  
-मादाय [न्याय](# "न्याय-ज्ञान;न्यायगत्या,")गर्भद्विजहुतहुतभुग्धूमधूम्रोपकण्ठम्।  
-द्वारं द्वारं [प्रवृत्तो](# "प्रवृत्तः –प्रविष्टः") वरमुदरदरीपूरणाय क्षुधार्तो  
-मानी प्राणी [स धन्यो](# " स धन्यः सनाथः स्वदेशे.") न पुनरनुदिनं तुल्यकुल्येषु दीनः॥ ५३॥
+पुण्ये ग्रामे[^254] वने वा महति सितपटच्छन्नपालीं कपाली-  
+मादाय न्याय[^255]गर्भद्विजहुतहुतभुग्धूमधूम्रोपकण्ठम्।  
+द्वारं द्वारं प्रवृत्तो[^256] वरमुदरदरीपूरणाय क्षुधार्तो  
+मानी प्राणी स धन्यो[^257] न पुनरनुदिनं तुल्यकुल्येषु दीनः॥ ५३॥
+
+[^254]: "पुण्यप्रामे;"
+
+[^255]: "न्याय-ज्ञान;न्यायगत्या,"
+
+[^256]: "प्रवृत्तः –प्रविष्टः"
+
+[^257]: " स धन्यः सनाथः स्वदेशे."
 
  सितेन शुभ्रेण पटेन छन्ना आच्छादिता पाली प्रान्तप्रदेशो यस्याः तां कपालीं भिक्षाखर्परमादाय। न्यायाः गर्भे येषां तथाभूताः ये द्विजाः तैः यथास्वरंमन्त्रान्पठद्भिरित्यर्थः। हुतः यः हुतभुक् अतस्य धूमेन धूम्रं उपकण्ठं तस्य तत् द्वारं। द्वारं द्वारं प्रतिद्वारं प्रवृत्तः। उदरमेव दरी कंदरः तस्य पूरणाय पूर्त्यर्थम्। क्षुधया आर्तो व्याकुलः क्षुधार्तः। मानी प्राणी स धन्यः। न पुनः अनुदिनं प्रति दिवसम्। तुल्याश्च ते कुले भवाः कुल्याश्च। यद्वा तुल्यकुले .स. धवः तेषु स्वसामानजातीयेषु दीनवत् आचरणं कुर्वाणः।
 
@@ -2578,17 +3092,25 @@ are difficult to be propitiated; while we have a high ambition, and our heart is
 
 उत्तरमीमांसा न्यायेन ‘पाण्डित्यं निर्विद्याथ बाल्येन तिष्ठासेत्’ इति बृहदारण्यक श्रुत्या ‘अद्वैतं समनुप्राप्यजडवल्लोकमाचरेत्’ इति च गौडपादीयकारिकया आहितमर्यादामनुल्लङ्घ्य वर्तनं करोतीति तात्पर्यम्।
 
-**[अहो](# "अहो- सखेचित्तान्तर्विषयविषयाशीविषगताः") धन्याः केचित्त्रुटितभवबन्धव्यतिकरा  
+**अहो[^258] धन्याः केचित्त्रुटितभवबन्धव्यतिकरा  
  वनान्तेऽचिन्वंतो विषमविषयाशीविषगतिम्।  
 शरच्चन्द्रज्योत्स्नाधवलगगनाभोगसुभगां  
- नयन्ते ये रात्रिं सुकृतचय[चिन्तैक](# "चिन्तैक-चित्तैक.")शरणाः॥५५॥**
+ नयन्ते ये रात्रिं सुकृतचयचिन्तैक[^259]शरणाः॥५५॥**
+
+[^258]: "अहो- सखेचित्तान्तर्विषयविषयाशीविषगताः"
+
+[^259]: "चिन्तैक-चित्तैक."
 
  अहो आश्चर्ये। त्रुटितः छिन्नः भव एवबन्धः तस्य व्यतिकरः संबंधः येषां ते। वनान्ते वनमध्ये विषमाः कठिणा ये विषयाः इन्द्रियार्याः ते एव आशीविषाः सर्पाः। आश्यां विषमस्यास्तीति आशीविषः। तेषां गतिं मार्गमचिन्वन्तः अमृगयमाणाः। विषमेति गतिविशेषणं वा। शरदि यः चंद्रः तस्य ज्योत्स्नाचंद्रिका तथा धवलः यः गगनस्य आभोगः परिपूर्णता \। प्रदेश इति यावत्। तेन सुभगा ताम्। सुकृतस्यचयः वृद्धिः तद्विषयो या चिन्ता सैव एकं शरणं आश्रयो येषां ते। अन्यत्सर्वं विहाय केवलं पुण्योपचयचिन्तापरा भूत्वा रात्रिं यापयन्ति ते धन्याः इत्यर्थः।
 
-**एतस्माद्विरमेन्द्रियार्थगहना[दायासकादाश्रय](# "आयासकादाशु च; शान्तं - स्वात्मी;")  
+**एतस्माद्विरमेन्द्रियार्थगहनादायासकादाश्रय[^260]  
 श्रेयोमार्गमशेषदुःखशमनव्यापारदक्षं क्षणात्।  
-शान्तं भावमुपैहिसंत्यज निजां कल्लोललोलां [गतिं](# "गतिं - मतिम्.")  
+शान्तं भावमुपैहिसंत्यज निजां कल्लोललोलां गतिं[^261]  
 मा भूयो भज भङ्गुरां भवरतिं चेतः प्रसीदाधुना॥५६॥**
+
+[^260]: "आयासकादाशु च; शान्तं - स्वात्मी;"
+
+[^261]: "गतिं - मतिम्."
 
 **––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––**
 
@@ -2600,10 +3122,14 @@ ascetics, when thus spoken of by people gairulous on account of the doubts risin
 
  हे चेतः एतस्मात् सर्वानुभवसिद्धात्। आयासंत्रासं करोतीति आयासकं तस्मात्। इंद्रियाणां ज्ञानकर्मेन्द्रियाणामर्थाः विषयाः शब्दस्पर्शादयः आदानग्रहणादयश्चत एवगहनं वनं तस्मात् विरम। विषयेषु अनर्थकारिषु मा. प्रवृत्तं भूः इति भावः। क्षणात् सपदि अशेषाणि च तांनि दुःखानि आध्यात्मिकादीनि तेषां शमनव्यापारे दक्षं चतुरं श्रेयोमार्गे मोक्षमार्गे आश्रय। शान्तं गंभीरं भावं मनोविकारं उपैहि प्राप्नुहि कल्लोलवत् महातरंगवत् लोलां चञ्चलां गतिम्। भङ्गुरां विनाशशीलाम्। भवे संसारे रतिः आसक्ति ताम्।
 
-पुण्यैर्मूलफलैः [प्रिये](# "प्रिये० –प्रियप्रणयिनीं, प्रियैश्वसलिलैः अकरणैः") प्रणयिनी वृत्तिं कुरुष्वाधुना  
+पुण्यैर्मूलफलैः प्रिये[^262] प्रणयिनी वृत्तिं कुरुष्वाधुना  
 भूशय्यानववल्कलैरकरुणैरुत्तिष्ठ यामो वनम्।  
 क्षुद्राणामविवेकमूढमनसां यत्रेश्वराणां सदा  
-[वित्त](# "वित्त०–विचित्तव्याध्यविवेक०")व्याधिविकारविह्वलगिरां नामापि न श्रूयते॥५७॥
+वित्त[^263]व्याधिविकारविह्वलगिरां नामापि न श्रूयते॥५७॥
+
+[^262]: "प्रिये० –प्रियप्रणयिनीं, प्रियैश्वसलिलैः अकरणैः"
+
+[^263]: "वित्त०–विचित्तव्याध्यविवेक०"
 
  प्रिये प्रणयिनी इष्टे वस्तुनि प्रणयवती त्वम्। पुण्यैः शोभनैः मूलफलैः। अकरुणैः “याच्ञावर्जितैः। भूशय्या च नवानि वल्कलानि च तैः। वृत्तिं वर्तनं। यत्र यस्मिन्वने क्षुद्राणां नीचपुरुषाणां अविवेकेन गूढानि मनांसि येषां तेषां ईश्वराणां स्वामिनाम्। वित्तमेव व्याधिः तस्माद्विकाराः तैः विह्वला गीर्येषां तेषाम्। धनमदमूढानां मर्मभेदकवाक्यश्रवणाद्वरं गहनवने मूलफलैर्वृत्तिकरणमिति भावः।
 
@@ -2613,17 +3139,27 @@ someabyssal sensual objects; resort to the path of final bentitude which is capa
 
  57. Let us go to the forest, arise, oh yon desirous of accomplishing your cherished object, where even the name of big folks is not heard, whose minds, mean fellows that they are, are ever distracted by inconsiderateness and whose speech is marred by the effect of the discase of wealth. Maintain yourself now on sacred fruits and roots, and making the earth your couch (cover yourself) with fresh rough barks of trees.
 
-**मोहं [मार्जय](# "मार्जयताम्") तामुपार्जय रतिं चन्द्रार्धचूडामणौ  
+**मोहं मार्जय[^264] तामुपार्जय रतिं चन्द्रार्धचूडामणौ  
 चेतः स्वर्गतरङ्गिणीतटभुवामासङ्गमङ्गीकुरु।  
-को वा वीचिषु बुद्बुदेषुच [तडिल्लेखासु](# "तडिल्लोलासु च श्रीषु;") च स्त्रीषु च  
-ज्वालाग्रेषु च पन्नगेषु च [सरिद्वेगे](# "सरिद्वेगे–सुहृद्वर्गे")षु च प्रत्ययः॥५८॥**
+को वा वीचिषु बुद्बुदेषुच तडिल्लेखासु[^265] च स्त्रीषु च  
+ज्वालाग्रेषु च पन्नगेषु च सरिद्वेगे[^266]षु च प्रत्ययः॥५८॥**
+
+[^264]: "मार्जयताम्"
+
+[^265]: "तडिल्लोलासु च श्रीषु;"
+
+[^266]: "सरिद्वेगे–सुहृद्वर्गे"
 
  हे चेतः मोहं वित्तदोषं मार्जय क्षालय। तां प्रसिद्धां परमसुखानन्ददायिनीमिति रामर्षिः। चन्द्रार्धः चंद्रकला चूडामणिः शिरोभूषणं यस्य तस्मिन् शिवे रतिं प्रीतिमुपार्जय संपादय। स्वर्गतरङ्गिण्याः गंगायाः तटसंबन्धिन्यो या भुव तासामासङ्गं समांगमम्। वीचिषु जलतरङ्गेषु बुद्बुदेषु जलविकारेषु तडिल्लेखासु विद्युल्लतासु स्त्रीषु ज्वालाग्रेषु अग्निशिखाग्रेषु सर्पेषु नदीवेगेषु च को वा प्रत्ययः विश्वासः। न कोऽपीत्यर्थः।
 
-**अग्रे गीतं सरसकवयः [पार्श्वतो](# "पार्श्वयोः") दाक्षिणात्याः  
-[पृष्ठे](# "पृष्ठे – पश्चात्.") लीलावलयरणितं चामरग्राहिणीनाम्।  
+**अग्रे गीतं सरसकवयः पार्श्वतो[^267] दाक्षिणात्याः  
+पृष्ठे[^268] लीलावलयरणितं चामरग्राहिणीनाम्।  
 यद्यस्त्येवं कुरु भवरसास्वादने लम्पटत्वं  
 नो चेच्चेतः प्रविश सहसा निर्विकल्पे समाधौ॥५९॥**
+
+[^267]: "पार्श्वयोः"
+
+[^268]: "पृष्ठे – पश्चात्."
 
  अग्रे संमुखे गीतं गायनम्। पार्श्वतः उभयतः दाक्षिणात्याः। दक्षिणदेशेभवाः। सरसाः उत्तमाः रसिका वा कवयः। चामरग्राहिणीनां राजचिह्नविशेषवाहिनीनां लीलया वलयानां स्त्रीप्रकोष्ठभूषणानां रणितं क्वणितम्। भवरसस्य संसाररसस्य आस्वादने। एवं न स्याच्चेत् सहसा ससंभ्रमेण निर्विकल्पे ध्येयरूपविकल्पवर्जिते नाम असंप्रज्ञातसमाधौ। यत्र ध्येयस्फुरणमपि विलीयते स्वस्फुरणमात्रं चावशिष्यते।
 
@@ -2637,15 +3173,21 @@ someabyssal sensual objects; resort to the path of final bentitude which is capa
 
 **विरमत बुधा योषित्सङ्गात्सुखात्क्षणभङ्गुरा-  
 त्कुरुत करुणामैत्रीप्रज्ञावधूजनसंगमम्।  
-न खलु नरके [हारा](# "हारा – भारा.")क्रान्तं घनस्तनमण्डलं  
+न खलु नरके हारा[^269]क्रान्तं घनस्तनमण्डलं  
 शरणमथवा श्रोणीबिम्बंरणन्मणिमेखलम्॥६०॥**
+
+[^269]: "हारा – भारा."
 
  क्षणभङ्गुरात्क्षणविध्वंसिनः योषित्संगात् स्त्रीसमागमात्। लक्षणया व्युपभोगसुखादिति लभ्यते। करुणा च मैत्री च प्रज्ञा च करुणामैत्रीप्रज्ञाः ता एववधूजनः स्त्रीसमुदायः तस्य संगमं कुरुत। हारेण आक्रातं घनं निरंतरं घनं निरंतरं सांन्द्रं' इत्यमरः। स्तनयोः मंडलम्। शरणं रक्षितृ। श्रोण्याः बिंबमंडलम्। रणन्ती मणीनां मेखला रशना यत्र तत्। उपलक्षणेन सर्वविषयग्रहणेपि न क्षतिः। विषयाः पुरुषं नरके पातयन्ति करुणाप्रभृतयः सात्विकभावास्तु तं नरकादुद्धरन्तीति भावः।
 
 **मातर्लक्ष्मि भजस्व कंचिदपरं मत्काङ्किणी मा स्म भू-  
 र्भोगेभ्यः स्पृहयालवो न हि वयं का निस्पृहाणामसि।  
-[सद्यः स्यूत](# "सद्यः स्यूत—यद्यस्यू०,स्थू०–पूत")पलाशपत्रपुटिकापात्रे पवित्रीकृते  
-भिक्षा[सक्तुभि](# "सक्तुभिः–वस्तुभिः")रेव संप्रति वयं वृत्तिं समीहामहे॥६१॥**
+सद्यः स्यूत[^270]पलाशपत्रपुटिकापात्रे पवित्रीकृते  
+भिक्षासक्तुभि[^271]रेव संप्रति वयं वृत्तिं समीहामहे॥६१॥**
+
+[^270]: "सद्यः स्यूत—यद्यस्यू०,स्थू०–पूत"
+
+[^271]: "सक्तुभिः–वस्तुभिः"
 
  मातः लक्ष्मि। इत्यनेन रत्यभावो द्योतितः। भजस्व सेवस्व। मत्काङ्क्षिणी मय्यभिलाषिणी मा स्म भूः। तत्र हेतुमाह भोगेभ्य इति। वयं भोगेभ्यः।
 
@@ -2662,7 +3204,9 @@ if so it is with you— if yon have in front of you–singing, at your elbow sen
 स्पृहेरीप्सितः’ इति चतुर्थी। स्पृहयालवो कामिनः न। ‘स्पृहिगृहि०’ इति आलुच्। निःस्पृहाणामस्माकं त्वं कासि। न कापि त्वय्यास्थेत्यर्थः। यतः वयं सद्यः तत्कालं स्यूता पलाशपत्राणां पुटिका। द्रोण इति प्राकृते प्रसिद्धा। सैव पात्रं तस्मिन् अपवित्रं पवित्रं संपद्यमानं कृतं तस्मिन्। भिक्षया लब्धाः सक्तवः भिक्षासक्तवस्तैः। संप्रति इदानीम्। वृत्तिमुपजीविकाम्। समीहामहे इच्छामः। विक्षेपाद्युपाधिरहितं भैक्ष्यमेव ममेष्टं न पुनः श्रीप्रयुक्ता दुःखपरिणामा भोगा इति तात्पर्यम्।
 
 **यूयं वयं वयं यूयमित्यासीन्मतिरावयोः।  
-किं जातमधुना [येन](# " येन –मित्र") यूयं यूयं वयं वयम्॥६२॥**
+किं जातमधुना येन[^272] यूयं यूयं वयं वयम्॥६२॥**
+
+[^272]: " येन –मित्र"
 
  पुरा आवयोरुभयोर्मध्ये यूयं वयं इति भेदो नासीत्। तुल्यावस्थत्वात्। इदानीं तव संपन्नावस्थायाम्। कि कारणं जातं येन हे मित्र तव मम च मध्ये यूयं यूयमेव वयं वयमेव इति भेदो जातः।
 
@@ -2684,16 +3228,20 @@ yearn for me. We are not hankerers after pleasures. What are you to those (i. e.
 विश्राम्य। तव श्रमेणालम्। तत्र हेतुमाह संप्रतीति। इदानीं वयं अन्ये जाताः। न पूर्ववत् ग्राम्यधर्मासक्ताः। अस्माकं बाल्यं मौर्ख्यम्। उपरतं शान्तम्। गतमिति यावत्। आस्था प्रीतिर्वनान्ते वनमध्ये। अविद्याजन्यो मोहः क्षीणः नष्टः। इदं सर्वे जगज्जालं तृणमिव तुच्छत्वेन पश्यामः।
 
 **इयं बाला मां प्रत्यनवरतमिन्दीवरदल-  
-प्रभाचोरं चक्षुः क्षिपति किमभिप्रेत[मनया](# "०मनया—मनसा")।  
+प्रभाचोरं चक्षुः क्षिपति किमभिप्रेतमनया[^273]।  
 गतो मोहोस्माकं स्मरकुसुमबाणव्यतिकर-  
 ज्वरज्वाला शान्ता तदपि न वराकी विरमति॥६४॥**
+
+[^273]: "०मनया—मनसा"
 
  इयं बाला कुमारी मां प्रति मामुद्दिश्य। अनवरतं अभीक्ष्णं प्रसक्तमिति यावत्। इन्दीवरदलस्य नीलकमलपत्रस्य प्रभा कान्तिः तस्याश्चोरयतीति चोरं चक्षुः क्षिपति। किं अनया बालया अभिप्रेतं इष्टम्। तथा च स्मरस्य कुसुमान्येव बाणाः तेषां व्यतिकरेण सम्बन्धेन यो ज्वरः दाहः तस्य ज्वाला शान्ता। तदपि एवमपि वराकी अनुकम्पार्हा न विरमति। कटाक्षविक्षेपान्न निवर्तते।
 
 **रम्यं हर्म्यतलं न किं वसतये श्राव्यं न गेयादिकं  
-किं वा [प्राणसमा](# "प्राणसमम्; अधिकप्री० उद्भ्रान्तपतङ्गपक्ष")समागमसुखं नैवाधिकं प्रीतये।  
+किं वा प्राणसमा[^274]समागमसुखं नैवाधिकं प्रीतये।  
 किं तूद्भ्रान्तपतत्पतङ्गपवनव्यालोलदीपाङ्कुर-  
 च्छायाचञ्चलमाकलय्यसकलं सन्तो वनान्तं गताः॥६५॥**
+
+[^274]: "प्राणसमम्; अधिकप्री० उद्भ्रान्तपतङ्गपक्ष"
 
  रम्यं रमणीयं हर्म्यतलं सौधतलं वसतये वसत्यर्थे न किम्। गेयादिकं
 
@@ -2707,10 +3255,12 @@ darted from your sportively half-closed (eyes)? Desist, oh desist; vain is this 
 
 गायनादिकं श्राव्यं श्रवणयोग्यं न किम्। अथवा प्राणैः समा प्राणतुल्या प्रिया तस्याः समागमजन्यं सुखं प्रीतये अधिकं नैव किम्। सर्वमपि अस्ति। किंतु सन्तः सदसद्विवेकवन्तः उद्भ्रान्ताः भ्रममाणाः पतन्तश्च पतङ्गाः शलभाः तत्संबंधी यः पवनः तेन व्यालोलः चञ्चलः दीपाङ्कुरः तस्य छाया तद्वच्चञ्चलं अस्थिरं सकलमिति आकलय्य निश्चित्य वनमध्ये गताः।
 
-**किं कन्दाः कन्दरेभ्यः प्रलयमुपगता [निर्झरा](# "निर्झरा० – पादपाः कि विशीर्णः। किंवा शोषं गतास्ते गिरिकुहरगता निर्झरा वारिपूर्णाः।") वा गिरिभ्यः  
+**किं कन्दाः कन्दरेभ्यः प्रलयमुपगता निर्झरा[^275] वा गिरिभ्यः  
 प्रध्वस्ता वा तरुभ्यः सरसफलभृतो वल्कलिन्यश्च शाखाः।  
 वीक्ष्यन्ते यन्मुखानि प्रसभमपगतप्रश्रयाणां खलानां  
 दुःखोपात्ताल्पवित्तस्मयपवनवशानर्तितभ्रूलतानि॥६६॥**
+
+[^275]: "निर्झरा० – पादपाः कि विशीर्णः। किंवा शोषं गतास्ते गिरिकुहरगता निर्झरा वारिपूर्णाः।"
 
  कन्दरेभ्यः पर्वतविवरेभ्यः कन्दा सस्यमूलानि प्रलयमुपगताः नष्टाः किम्। अथवा गिरिभ्यो निर्झरा उदकप्रवाहा नष्टा किमिति अग्रेऽपि अनुकर्षः। तरुभ्यः सरसानि रसवन्ति फलानि बिभ्रति ताः वल्कलिन्यः वल्कलवत्यश्च शाखा वा प्रध्वस्ता किम्। यद्यतः प्रसभं हठात् यथा स्यात्तथा अपगतः प्रश्रयः विनयो येभ्यः तेषामविनीतानां खलानां दुःखेन उपात्तं यदल्पं वित्तं तस्माद्यः स्मयो गर्वः स एव पवनस्तस्य वशेन आनर्तिताः भ्रुवः एव लताः येषु तानि मुखानि वीक्ष्यन्तेऽवलोक्यन्ते।
 
@@ -2724,15 +3274,21 @@ faces, the creeper-like eyebrows of which are made to dance by the breezeof prid
 
 गङ्गातरङ्गहिमशीकरशीतलानि  
 विद्याधराध्युषितचारुशिलातलानि।  
-स्थानानि कि [हिम](# "हिम – कण")वतः प्रलयं गतानि  
+स्थानानि कि हिम[^276]वतः प्रलयं गतानि  
 यत्सावमानपरपिण्डरता मनुष्याः॥ ६७॥
+
+[^276]: "हिम – कण"
 
  गङ्गायाः तरङ्गाः तेषां ये हिमशीकराः शीततुषाराः तैः शीतलानि विद्याधरैः अध्युषितानि सेवितानि चारूणि शिलातलानि येषां तानि हिमवतः हिमालयस्य स्थानानि किं प्रलयं गतानि। यत् यस्माद्धेतोः मनुष्याः अवमानेन सहिताः ये परेषां पिण्डाः अन्नग्रासाः तेषु रताः।
 
-**यदा मेरुः श्रीमान्निपतति युगान्ताग्नि[निहतः](# " निहत- दलित; ")  
-समुद्राः शुष्यन्ति प्रचुर[मकर](# "मकर - निकर")ग्राहनिलयाः।  
+**यदा मेरुः श्रीमान्निपतति युगान्ताग्निनिहतः[^277]  
+समुद्राः शुष्यन्ति प्रचुरमकर[^278]ग्राहनिलयाः।  
 धरा गच्छत्यन्तं धरणिधरपादैरपि धृता  
 शरीरे का वार्ता करिकलभकर्णाग्रचपले॥ ६८॥**
+
+[^277]: " निहत- दलित; "
+
+[^278]: "मकर - निकर"
 
  यदा यस्मिन्काले श्रीमान् मेरुः पर्वतविशेषः युगान्ते यः अग्निःतेन निहतः निपतति। प्रचुराः ये मकराः ग्राहाश्च तेषां निलयाः गृहाणि एवंविधाः समुद्राः। यदेत्यनुकर्षणीयम्। शुष्यन्ति शुष्कीभवन्ति। धरणिधराणां पादैः भृता या धरा पृथ्वी सापि यदा अन्तं गच्छति नश्यतीति यावत्। तदा करिणः हस्तिनः कलभस्य शिशोः यत्कर्णाग्रंतद्वच्चपले क्षणिके इति यावत्। शरीरे का वार्ता \। तस्य तु अत्यन्तपरिच्छिन्नत्वात् सुतरां नाशः सिद्ध एवेति तात्पर्यम्।
 
@@ -2750,9 +3306,13 @@ faces, the creeper-like eyebrows of which are made to dance by the breezeof prid
  हे शम्भो शंकर। एकाकी असहायःनिःस्पृहः निस्तृष्णः शान्तः उपरतेन्द्रियः। पाणिः एव पात्रं यस्य सः। दिश एव अम्बरं वस्त्रं यस्य। कर्मणां निर्मूलने नाशे क्षमः समर्थः। संन्यासी त्यक्तसर्वपरिग्रहश्च। कदा कस्मिन्काले भविष्यामि। एवंविधावस्थालालसोहमस्मि इदानीं संवृत्तः। तथा च भगवद्वचनं गीतायां ‘एकाकी यतचित्तात्मा त्यक्तसर्वपरिग्रहः। शारीरं केवलं कर्म कुर्वन्नाप्नोति किल्बिषम्’ इति।
 
 **प्राप्ताः श्रियः सकलकामदुधास्ततः किं  
-[दत्तं](# "दत्तं न्यस्तं;") पदं शिरसि विद्विषतां ततः किम्।  
+दत्तं[^279] पदं शिरसि विद्विषतां ततः किम्।  
 संमानिताः प्रणयिनो विभवैस्ततः किं  
-[कल्पं स्थितं](# "कल्पस्थिताः... तनवः") तनुभृतां तनुभिस्ततः किम्॥७०॥**
+कल्पं स्थितं[^280] तनुभृतां तनुभिस्ततः किम्॥७०॥**
+
+[^279]: "दत्तं न्यस्तं;"
+
+[^280]: "कल्पस्थिताः... तनवः"
 
  सकलान् कामान् दुहन्तीति ताः श्रियः प्राप्ताः ततः किम्। न काचित्पुरुषार्थसिद्धिः। एवं सर्वत्र। विद्विषतां शत्रूणाम्। प्रणयिनः सेवकाः मित्राणि वा विभवैः गजतुरगालंकारादि संपत्तिभिः संमानिताः बहुमानिताः। कल्पं स्थितं ‘कालाध्वनोरत्यन्तसंयोगे’ इति द्वितीया। तनुभृतां देहिनां तनुभिः शरीरैः। निरतिशयानन्दपर्यन्तं सर्वस्य सातिशयत्वात् अवश्यविनाशित्वाच्च।
 
@@ -2762,17 +3322,25 @@ faces, the creeper-like eyebrows of which are made to dance by the breezeof prid
 
  70. What, if wealth capable of granting all desires is obtained? What if the foot is placed on the heads of the enemies ? What if we honoured supplicants (or friends ) with riches ? What if the bodies of mortals have stood (i. e. lasted ) for a *Kalpa*.
 
-**जीर्णा कन्था ततः किं सितम[मलपटं](# "अमलपटं–०वरं;")पट्ट[वस्त्रं](# "वस्त्रं—सूत्रम्;") ततः कि-  
-मेका भार्या ततः किं [हय](# "हय०–बहुगुणगुणिता कोटिरेका व्यक्तं–व्यक्त०")करिसुगणैरावृतो वा ततः किम्।  
+**जीर्णा कन्था ततः किं सितममलपटं[^281]पट्टवस्त्रं[^282] ततः कि-  
+मेका भार्या ततः किं हय[^283]करिसुगणैरावृतो वा ततः किम्।  
 भक्तं भुक्तं ततः किं कदशनमथवा वासरान्ते ततः किं  
 व्यक्तं ज्योतिर्न वान्तर्मथितभवभयं वैभवं वा ततः किं॥७१॥**
+
+[^281]: "अमलपटं–०वरं;"
+
+[^282]: "वस्त्रं—सूत्रम्;"
+
+[^283]: "हय०–बहुगुणगुणिता कोटिरेका व्यक्तं–व्यक्त०"
 
  सितं शुभ्रम्। अमलं निर्मलम्। पट्टवस्त्रं दुकूलादि महावस्त्रम्। हयगजानां सुगणैः बहुसमूहैः आवृतः परिवेष्टितः। भक्तं ओदनम्। दिनान्ते वासरान्ते अतिकाले कदशनं कुत्सितमन्नम्। ‘कोः कत्तत्पुरुषेऽचि’ इति कत्। अथवा व्यक्तंस्फुटं ज्योतिः ब्रह्मरूपं न ततः किम्। वा अथवा अन्तर्मथितं नाशितं भवस्य भयं यस्मिन् तत् वैभवं विद्यते ततः किम्। अनेन निष्कामतातिशयो ध्वन्यते।
 
 **भक्तिर्भवे मरणजन्मभयं हृदिस्थं  
-स्नेहो न [बन्धुषु](# " बन्धुषु-वस्तुषु.") न मन्मथजा विकाराः।  
+स्नेहो न बन्धुषु[^284] न मन्मथजा विकाराः।  
 संसर्गदोषरहिता विजना वनान्ता  
 वैराग्यमस्ति किमतः परमर्थनीयम्॥७२॥**
+
+[^284]: " बन्धुषु-वस्तुषु."
 
  भवे शिवे। मरणं च जन्म च ताभ्यां भयं हृदिस्थं हृच्छयम्। बन्धुषु प्रणयिषु स्नेहः प्रेम। मन्मथजाः पुष्पधन्वनः जाता विकाराः चित्तदोषाः अपि न। संसर्गाद्दोषः कालुष्यं तेन रहिता विजनाः निर्जनाश्च। वनान्ताः वनमध्यस्थानानि। वैराग्यं विरक्तिः। अतः परं वैराग्यात्परं किमन्यदर्थनीयं प्रार्थनीयमस्ति न किञ्चिदपि इहामुत्रादिभोगवैराग्यादप्राप्तप्राप्तव्याभावात्। तत्र निःस्पृहत्वमेव हेतुः।
 
@@ -2783,17 +3351,23 @@ faces, the creeper-like eyebrows of which are made to dance by the breezeof prid
  72. If there is devotion towards S'iva and the fear of (ever-recnrring) death and birth is present to the mind, if
 
 तस्मादनन्तमजरं परमं विकासि  
-[तद्ब्रह्म](# "तद्ब्रह्म वाञ्छत जना यदि चेतनस्थाः") चिन्तय किंमेभिरसद्विकल्पैः।  
+तद्ब्रह्म[^285] चिन्तय किंमेभिरसद्विकल्पैः।  
 यस्यानुषङ्गिण इमे भुवनाधिपत्य-  
 भोगादयः कृपणलोकमता भवन्ति॥७३॥
+
+[^285]: "तद्ब्रह्म वाञ्छत जना यदि चेतनस्थाः"
 
  यत एवं ततः हे मित्र अनन्तं अन्तरहितं अनादित्वात्। अत एव अजरं जरारहितम्। यज्जायते तदेव अपक्षीयते ब्रह्म तु अजं अतः अजरमपि।परमं निरतिशयं विकासि प्रकाशरूपं व्यापि वा। विकासः सदा उदयः विद्यतेऽस्य नित्योदितमित्यर्थः। इति रामर्षिः। तत् अज्ञानात्परोक्षकल्पमपि ब्रह्म सर्वमहत् चिन्तय। एभिः प्रत्यक्षमनुभूयमानैरपि असद्विकल्पैः वंध्यासुतवन्मिथ्याभावैः किम्। एतेषां चिन्ता अनर्थकरीति भावः। यस्य ब्रह्मणः अनुषङ्गिणः अनुवर्तिनः इमे भुवनस्य आधिपत्यादिभोगाः कृपणाः दीनाः। 'यो वा एतदक्षरं गार्ग्यविदित्वास्माल्लोकात्प्रैति स कृपणः ‘इति बृहदारण्यकश्रुतेः। ‘कार्पण्यदोषोपहतः’ इति च गीतायाम्। ते च ते लोकाश्च तेषां मता अभिमता भवन्ति। यथा कश्चित् मन्दोऽज्ञानात् राजानं विहायराजपरतन्त्रमेव कंचित् सेवकं राजेति मत्वा तत्प्रसादनतत्परो भवति
 तथेति भावः
 
 पातालमाविशसि यासि नभो विलङ्घ्य  
 दिङ्मण्डलं भ्रमसि मानस चापलेन।  
-[भ्रान्त्या](# "भ्रान्त्या–भ्रान्त्वा;आत्मलीनम्;")पि जातु विमलं कथमात्मनीनं  
-तद्ब्रह्म न स्मरसि निर्वृतिमषि [येन](# "येन – केन")॥७४॥
+भ्रान्त्या[^286]पि जातु विमलं कथमात्मनीनं  
+तद्ब्रह्म न स्मरसि निर्वृतिमषि येन[^287]॥७४॥
+
+[^286]: "भ्रान्त्या–भ्रान्त्वा;आत्मलीनम्;"
+
+[^287]: "येन – केन"
 
  हे मानस पातालमाविशसि नभो विलङ्घ्ययासि चापलेन दिङ्मण्डलं भ्रमसि।
 
@@ -2807,17 +3381,29 @@ there is no attachment for relatives and no perturbations (of mind) caused by th
 
 दूरे अगम्ये देशेऽपि तव अप्रतिहतं गमनं भवति। परंतु जातु कदाचित् भ्रान्त्यापि विमलं मलरहितं आत्मनीनं आत्मने हितं ‘आत्मविश्वजन०’ इति खः। स्वोपकारकं तद्ब्रह्म कथं न स्मरसि येन स्मरणेन कृतेन निर्वृतिंमोक्षाख्यां निरतिशयां तृप्तिम् एषि प्राप्नोषि।
 
-रात्रिः सैव पुनः स एव दिवसो म[त्वाबुधा](# "अबुधा – मुधा") जन्तवो  
+रात्रिः सैव पुनः स एव दिवसो मत्वाबुधा[^288] जन्तवो  
 धावन्त्युद्यमिनस्तथैव निभृतप्रारब्धतत्तत्क्रियाः।  
-व्यापारैः पुनरुक्त[भुक्त](# "भुक्त – मुक्त,०भूत")विषयैरेवंविधेनामुना  
-संसारेण कदर्थिताः [कथ](# "कथं–वयम्")महो मोहान्न [लज्जामहे](# "लज्जामहे–जामीमहे")॥७५॥
+व्यापारैः पुनरुक्तभुक्त[^289]विषयैरेवंविधेनामुना  
+संसारेण कदर्थिताः कथ[^290]महो मोहान्न लज्जामहे[^291]॥७५॥
+
+[^288]: "अबुधा – मुधा"
+
+[^289]: "भुक्त – मुक्त,०भूत"
+
+[^290]: "कथं–वयम्"
+
+[^291]: "लज्जामहे–जामीमहे"
 
  अबुधा इति च्छेदः। अबुधाः मूर्खाः जन्तवः प्राणिनः। उद्यमिनः उद्योगवन्तः। तथैव पूर्ववदेव निभृतं यथा स्यात्तथा प्रारब्धाः तास्ताः क्रिया यैः तथाभूताः। पुनरुक्तं यथा स्यात्तथा भुक्ताः विषयाः येषु तैः। अमुना एवं विधेन निर्वेदहेतुना संसारेण कदर्थिताः दुःखिताः कथं न लज्जामहे लज्जास्थानेऽपि न लज्जामहे इति आश्चर्यम्।
 
-**मही [रम्या](# "रम्या – मृद्वी,शरच्चन्द्रो दीपः,") शय्या विपुलमुपधानं भुजलता  
+**मही रम्या[^292] शय्या विपुलमुपधानं भुजलता  
 वितानं चाकाशं व्यजनमनुकूलोयमनिलः।  
 स्फुरद्दीपश्चन्द्रो विरतिवनितासङ्गमुदितः  
-[सुखं](# "सुखं—सुखी") शान्तः शेते मुनिरतनुभूतिर्नृप इव॥७६॥**
+सुखं[^293] शान्तः शेते मुनिरतनुभूतिर्नृप इव॥७६॥**
+
+[^292]: "रम्या – मृद्वी,शरच्चन्द्रो दीपः,"
+
+[^293]: "सुखं—सुखी"
 
  भुजलता बाहुलता। विपुलं विस्तृतम्। उपधीयते शिरोत्र इति उपधानं
 
@@ -2832,9 +3418,17 @@ world, soar beyond the heavens, and wander as far as the encircling directions. 
 उपबर्हः। ‘उशी’ इति भाषायाम्। वितानम् उल्लोचः ‘चांदवा’ इति प्राकृते। आकाशम्। अयमनुकूलोऽनिलः वायुः व्यजनं तालवृन्तकम्। ‘पंखा’ इति भाषाप्रसिद्धिः। चन्द्रः स्फुरन् दीपः। विरतिः शान्तिरेव वनिता स्त्री तस्याः संगेन समागमेन मुदितः प्रीतः तृप्तो वा। न तनुः अतनुः भूतिरैश्वर्यंयस्य स मुनिः विपुलसंपत्तिर्नृप इव शेते निद्राति।
 
 **त्रैलोक्याधिपतित्वमेव विरसं यस्मिन्महाशासने  
-तल्ल[ब्ध्वाशन](# "अशन–आसन; तल्लब्ध्वा परितोषमेषि च मनःतल्लब्ध्वासन;")वस्त्रमानघटने भोगे रतिं मा कृथाः।  
-[भोगः](# "भोगः–बोधः") कोपि स एक एव परमो नित्योदितो जृम्भते  
-[यत्स्वादा](# "यत्स्वादात्०—भो साधो क्षणभंगुरे तदितरे भोगे रतिंमा कृथाः।")द्विरसा भवन्ति [विषया](# "विषया – विभवाः")स्त्रैलोक्यराज्यादयः॥७७॥**
+तल्लब्ध्वाशन[^294]वस्त्रमानघटने भोगे रतिं मा कृथाः।  
+भोगः[^295] कोपि स एक एव परमो नित्योदितो जृम्भते  
+यत्स्वादा[^296]द्विरसा भवन्ति विषया[^297]स्त्रैलोक्यराज्यादयः॥७७॥**
+
+[^294]: "अशन–आसन; तल्लब्ध्वा परितोषमेषि च मनःतल्लब्ध्वासन;"
+
+[^295]: "भोगः–बोधः"
+
+[^296]: "यत्स्वादात्०—भो साधो क्षणभंगुरे तदितरे भोगे रतिंमा कृथाः।"
+
+[^297]: "विषया – विभवाः"
 
  यस्मिन् महाशासने शास्यत इति शासनम्। उपनिषत्प्रतिपाद्यब्रह्मज्ञाने ब्रह्मणि वा अधिगते सति त्रैलोक्यस्य अधिपतित्वं विरसमेव नीरसमेव। तत्प्राप्य अशनं च वस्त्रं च मानश्च तैः घटना यस्य तेषां वा घटना युक्तिः यस्मिन् तस्मिन्भोगे रतिं प्रीतिं मा कृथाः। भोगः स एक एव यः नित्योदितो नित्यप्रकाशरूपः जृम्भते विकासते। यत्स्वादाद्यस्य आस्वादनात्। त्रैलोक्यस्य राज्यं आदिर्येषां ते त्रैलोक्यराज्यादयः विषयाः विरसा भवन्ति। सर्वे विषयजातं विहाय ब्रह्मण्येव रतिं कुरु इति तात्पर्यम्।
 
@@ -2869,7 +3463,9 @@ anascetic, with ashes profusely besmeared (to his body) and peaceful, sleeps qui
 यद्भयं तदेव अम्भोधिः तस्य पारं तरीतुम् तरणार्थं ब्रह्मणि विषये आसक्तचित्ता नितरां सक्तचित्ताः भवत। सर्वस्यानित्यत्वान्न ब्रह्मव्यतिरिक्तंसंसारतरण इष्टतमं साधनमित्यर्थः। काव्यलिङ्गमलंकारः।
 
 **ब्रह्माण्डमण्डलीमात्रं कि लोभाय मनस्विनः॥  
-शफरीस्फुरिते[नाब्धेः](# "अब्धेः०–अब्धिः क्षुब्धो न खलु जायते, जातु न तु") क्षुब्धता जातु जायते**
+शफरीस्फुरितेनाब्धेः[^298] क्षुब्धता जातु जायते**
+
+[^298]: "अब्धेः०–अब्धिः क्षुब्धो न खलु जायते, जातु न तु"
 
 ॥
 
@@ -2880,9 +3476,13 @@ anascetic, with ashes profusely besmeared (to his body) and peaceful, sleeps qui
  मनस्विनः आत्मज्ञानिनः। ब्रह्माण्डानां मण्डली समूहः सैव तन्मात्रं लोभाय किं नेत्यर्थः। शफर्या मत्स्यविशेषस्य स्फुरितेन स्फुरणेन अब्धेः समुद्रस्य क्षुब्धता जातु कदाचिज्जायते किं नैव जायत इत्यार्थिकम्।
 
 यदासीदज्ञानं स्मरतिमिरसंस्कारजनितं  
-तदा दृष्टं नारीमयमिदमशेषं जग[दपि](# "अपि–इति")।  
+तदा दृष्टं नारीमयमिदमशेषं जगदपि[^299]।  
 इदानीमस्माकं पटुतरविवेकाञ्जनजुषां  
-समीभूता दृष्टिस्त्रिभुवनमपि ब्रह्म [मनुते](# "मनुते – तनुते")॥ ८१॥
+समीभूता दृष्टिस्त्रिभुवनमपि ब्रह्म मनुते[^300]॥ ८१॥
+
+[^299]: "अपि–इति"
+
+[^300]: "मनुते – तनुते"
 
  स्मरः मदनः एव तिमिरमान्ध्यहेतुः तत्संस्काराज्जनितम् अज्ञानं ज्ञानप्रतियोगि यदा यस्मिन्काले आसीत् तदा इदं अशेषमपि जगत् नारीमयं स्त्रीप्रचुरं दृष्टम्। अस्माभिरित्यध्याहारः। इदानीमित्यनेन विवेकावस्था द्योतिता। अतिशयेन पटुः कुशलः पटुतरः यो विवेकः स एव अञ्जनं तत् जुषन्ति सेवन्ते तेषामस्माकं समीभूता सर्वसाम्यावस्थापन्ना दृष्टिः त्रिभुवनमपि। न तु केवलमेकं जगत्। ब्रह्म मनुते। ब्रह्मातिरिक्तं तद्व्यतिरिक्तं वा किंचिन्नास्तीति पश्याम इति भावः॥
 
@@ -2894,10 +3494,14 @@ thought, momentary, pleasures aro like the flashes of lightning in autumn; even 
 
  81. When there was ignorance (in us) produced by the influence of the darkness of passion, even the whole worl
 
-**रम्याश्चन्द्रमरीचयस्तृणवती [रम्या](# "रम्यः साधुसमागमः शमसुखम्;") वनान्तस्थली  
-रम्यं [साधु](# "साधु—सभा-सुहृत्समा०")समागमोद्भवसुखं काव्येषु रम्याः कथाः।  
+**रम्याश्चन्द्रमरीचयस्तृणवती रम्या[^301] वनान्तस्थली  
+रम्यं साधु[^302]समागमोद्भवसुखं काव्येषु रम्याः कथाः।  
 कोपोपाहितबाष्पबिन्दुतरलं रम्यं प्रियाया मुखं  
 सर्वे रम्यमनित्यतामुपगते चित्ते न किंचित्पुनः॥८२॥**
+
+[^301]: "रम्यः साधुसमागमः शमसुखम्;"
+
+[^302]: "साधु—सभा-सुहृत्समा०"
 
  चन्द्रस्य मरीचयः मयूखाः\। तृणमस्या अस्तीति तृणवती वनान्तस्थली वनमध्यभूमिः। साधोः सर्वसंगपरित्यागिनः समागमः तस्मादुद्भवो यस्य तच्च तत्सुखं च। कोपेन उपाहिता ये बाष्पबिंदवः तैः तरलं भास्वरम्। सर्वे रम्यं चित्ते पुनः तु अनित्यतामुपगते न किञ्चिद्रम्यम्। चित्तास्थैर्ये न किञ्चित्प्रीतिकरमित्यर्थः।
 
@@ -2923,16 +3527,24 @@ was then looked upon (by us) as consisting of women only; now having applied the
 आभोगे उपभोगे एव बद्धा स्पृहा येन सः। उक्तलक्षणः पुरुषः कश्चित्क्वचिदेव दृश्यते इत्यर्थः।
 
 **मातर्मेदिनि तात मारुत सखे तेजः सुबन्धो जल  
-भ्रातर्व्योम निबद्ध [एष](# "एष एव,अन्त्यः–एषः") भवतामग्रे प्रणामाञ्जलिः।  
+भ्रातर्व्योम निबद्ध एष[^303] भवतामग्रे प्रणामाञ्जलिः।  
 युष्मत्संगवशोपजातसुकृतोद्रेकस्फुरन्निर्मल-  
-[ज्ञाना](# "ज्ञाना –ज्वाला")पास्तसमस्तमोहमहिमा लीये परे ब्रह्मणि॥८४॥**
+ज्ञाना[^304]पास्तसमस्तमोहमहिमा लीये परे ब्रह्मणि॥८४॥**
+
+[^303]: "एष एव,अन्त्यः–एषः"
+
+[^304]: "ज्ञाना –ज्वाला"
 
  हे मातः मेदिनि स्थूलशरीरस्य पृथ्वीद्रव्यत्वात्। तात पितः मारुत वायोः पोषकत्वात्सुखदत्वाद्वा। सुबन्धो उत्तमबन्धो। व्योम आकाश। अन्त्यः चरमः। पुनर्भवायोगात्। प्रणामस्य अञ्जलिः। युष्माकं संगः तद्वशेन उपजातं यत्सुकृतं तस्य उद्रेकेणातिशयेन स्फुरत् निर्मलं शुद्धं च ज्ञानं तेन अपास्तः अपगतः समस्तः मोहस्य महिमा यस्य तथाभूतः अहं परे ब्रह्मणि केवले लीये लीनो भवामि।
 
-**यावत्स्वस्थमिदं [कलेवरगृहं](# "कलेवरगृहं –शरीरमरुजम्,यावज्जरा दूरतः") यावच्च दूरे जरा  
+**यावत्स्वस्थमिदं कलेवरगृहं[^305] यावच्च दूरे जरा  
 यावच्चेन्द्रियशक्तिरप्रतिहता यावत्क्षयो नायुषः।  
 आत्मश्रेयसि तावदेव विदुषा कार्यः प्रयत्नो महा-  
-[न्प्रोद्दीप्ते](# "प्रोद्दीपो - सं०") भवने तु कूदखननं प्रत्युद्यमः कीदृशः॥८५॥**
+न्प्रोद्दीप्ते[^306] भवने तु कूदखननं प्रत्युद्यमः कीदृशः॥८५॥**
+
+[^305]: "कलेवरगृहं –शरीरमरुजम्,यावज्जरा दूरतः"
+
+[^306]: "प्रोद्दीपो - सं०"
 
 **––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––**
 
@@ -2947,10 +3559,12 @@ which is free from giving and taking, wearing a wallet made of old threadbare cl
 
 कलेवरमेव गृहम्। इन्द्रियाणां शक्तिः सामर्थ्यम् अप्रतिहता अप्रतिबद्धा। आत्मनः श्रेयसि स्वकल्याणे निःश्रेयसावाप्तिलक्षणे। कीदृशः अकिंचित्करः इत्यर्थः। यावद्रोगजनितासह्यपीडया शरीरस्वास्थ्यं न प्रतिहतं तावदेव विवेकवता पुरुषेण निःश्रेयसार्थेप्रयतितव्यमिति भावार्थः।
 
-**नाभ्यस्ता [भुवि](# "भुवि–प्रतिवा०") वादिवृन्ददमनी विद्या विनीतोचिता  
+**नाभ्यस्ता भुवि[^307] वादिवृन्ददमनी विद्या विनीतोचिता  
 खाड्गाग्रैःकरिकुम्भपीठदलनैर्नाकं न नीतं यशः।  
 कान्ताकोमलपल्लवाधररसः पीतो न चन्द्रोदये  
 तारुण्यं गतमेव निष्फलमहो शून्यालये दीपवत्॥८६॥**
+
+[^307]: "भुवि–प्रतिवा०"
 
  भुवि इहलोके। वादिनां वृन्दंसमूहं दमयतीति तथा। विनीतानामुचिता योग्या। खड्गानामग्रैः। करिणामरिगजानां यानि कुम्भपीठानि तेषां दलनैः विदारणैः। नाकं स्वर्गम्। कान्तायाः कोमलपल्लववद्यः अधरः तस्य रसः। शून्यालये शून्यगृहे। अहो इति खेदे। गृहस्थावस्थायोग्यं न किश्चिदपि मयाकृतं धिक् मामिति तात्पर्यम्।
 
@@ -2969,10 +3583,18 @@ age is at a distance, while physical power is unimpaired while life is not yet e
 
  मानश्च मदश्व मानमदौ तौ आदी येषां तेषां नाशनं नाशकर्तृ। केषांचित् क्षद्राणां। एतदेव ज्ञानं मदमानकारणं मदमानयोः जनयितृ। विविक्तंनिर्जनं स्थानं यमिनां जितेंद्रियाणां विमुक्तये मुक्त्यर्थम्। तदेव स्थानं कामातुराणां कामिनां अतिकामस्य पुष्कलकामस्य कारणं हेतु।
 
-**जीर्णा एव मनोरथाः स्वहृदये यातं [जरां](# "जरां–च तत्;") यौवनं  
+**जीर्णा एव मनोरथाः स्वहृदये यातं जरां[^308] यौवनं  
 हन्ताङ्गेषु गुणाश्च वन्ध्यफलतां याता गुणज्ञैर्विना।  
-किं युक्तं सहसाभ्युपैति बलवान्कालः [कृतान्तो](# "कृतान्तो०–हि सर्वान्तकृत्;")क्षमी  
-हा ज्ञातं [स्मर](# "स्मर०–मदनान्तकामधुसूदना०")शासनाङ्घ्रियुगलं [मुक्त्वास्ति](# "मुक्त्वास्ति – मुक्तेस्तु.") नान्या गतिः॥८८॥**
+किं युक्तं सहसाभ्युपैति बलवान्कालः कृतान्तो[^309]क्षमी  
+हा ज्ञातं स्मर[^310]शासनाङ्घ्रियुगलं मुक्त्वास्ति[^311] नान्या गतिः॥८८॥**
+
+[^308]: "जरां–च तत्;"
+
+[^309]: "कृतान्तो०–हि सर्वान्तकृत्;"
+
+[^310]: "स्मर०–मदनान्तकामधुसूदना०"
+
+[^311]: "मुक्त्वास्ति – मुक्तेस्तु."
 
  मनोरथाः संकल्पाः स्वहृदये एव जीर्णा नष्टाः। तत्तत्प्राप्तिहेतुविरहात्। तत् प्रसिद्धमुपभोगक्षमम्। गुणज्ञैः गुणपरीक्षकैर्विना गुणाः विद्वत्वादयः वन्ध्यफलतां निष्फलत्वं याताः \।
 बलवान् कालः कृतोऽन्तो येन सः कृतान्तः अक्षमी क्षमारहितः च सहसा झटितिअभ्युपैति। स्मरशासनः शंकरः तस्य अङ्घ्रियुगलंअङ्घ्रियुग्मं मुक्त्वा हित्वाअन्या गतिः शरणं नास्ति।
@@ -2983,17 +3605,33 @@ ness and vanity; in the case of others (lit. some) it is the cause of baughtines
 
  88. Desires have already been absorbed (by reason of non-fulfilment) in the heart; youth has changed into old age; alas ! in the ahsence of appreciaters of merit, skill (lit. accomplishments) in the different limbs of the body has gone to a state of sterility; relentless and powerful death, the all-destroyer, is advancing rapidly; what is to be done (lit. proper)? Ah I have it; with the exception of the two feet of the Enemy of the God of Love, there is no recourse.
 
-**[तृषा शुष्य](# "तृषाशुष्य०—तृषार्तः स-प्राणी")त्यास्ये पिबति सलिलं [स्वादु](# "स्वादु०—शीतमधुर–सुरभि ") सुरभि  
-क्षुधार्तः [सञ्शाली](# "सञ्शालीन् शाल्यन्नम्")न्कवलयति शाकादिवलितान्।  
-प्रदीप्ते [रागाग्नै](# "रागाग्नौ–कामाग्नौ")सृदृढतर[माश्लिष्यति](# "आश्लिष्यति –आलिङ्गति") वधूं  
+**तृषा शुष्य[^312]त्यास्ये पिबति सलिलं स्वादु[^313] सुरभि  
+क्षुधार्तः सञ्शाली[^314]न्कवलयति शाकादिवलितान्।  
+प्रदीप्ते रागाग्नै[^315]सृदृढतरमाश्लिष्यति[^316] वधूं  
 प्रतीकारो व्याधेः सुखमिति विपर्यस्यति जनः॥८९॥**
+
+[^312]: "तृषाशुष्य०—तृषार्तः स-प्राणी"
+
+[^313]: "स्वादु०—शीतमधुर–सुरभि "
+
+[^314]: "सञ्शालीन् शाल्यन्नम्"
+
+[^315]: "रागाग्नौ–कामाग्नौ"
+
+[^316]: "आश्लिष्यति –आलिङ्गति"
 
  तृषा जलाभिलाषेण आस्ये मुखे शुष्यति सति। शालीन् ओदनान् शाकादिवलितान् शाकादिव्यञ्जनयुक्तान् कवलयति भक्षयति। राग एव अग्निः तस्मिन्प्रदीप्ते सति सुदृढतरं अत्यन्तगाढं यथा स्यात्तथा वधूं स्त्रियमाश्लिष्यति। एवं व्याधेः पीडायाः प्रतीकारः सुखमिति जनः। जातावेकवचनम्। विपर्यस्यति विपर्ययेण जानाति।
 
 स्नान्वागाङ्गैः पयोभिः शुचिकुसुमफलैरर्चयित्वा विभो त्वां  
-ध्येये ध्यानं [नियोज्य](# "नियोज्य—निवेश्य;") क्षितिधरकुहरग्राव[पर्यङ्क](# "०पर्यङ्क० - शय्यानिषण्णः")मूले।  
+ध्येये ध्यानं नियोज्य[^317] क्षितिधरकुहरग्रावपर्यङ्क[^318]मूले।  
 आत्मारामः फलाशी गुरुवचनरतस्त्वत्प्रसादात्स्मरारे  
-[दुःखं](# "दुःखं० - दुःखान्मोक्ष्ये कदाहं तव चरणरतो ध्यानमार्गैकप्रश्नः।") मोक्ष्ये कदाहं समकरचरणे पुंसि सेवासमुत्थम्॥
+दुःखं[^319] मोक्ष्ये कदाहं समकरचरणे पुंसि सेवासमुत्थम्॥
+
+[^317]: "नियोज्य—निवेश्य;"
+
+[^318]: "०पर्यङ्क० - शय्यानिषण्णः"
+
+[^319]: "दुःखं० - दुःखान्मोक्ष्ये कदाहं तव चरणरतो ध्यानमार्गैकप्रश्नः।"
 
 ९०॥
 
@@ -3011,15 +3649,21 @@ ness and vanity; in the case of others (lit. some) it is the cause of baughtines
 
 **शय्या शैलशिला गृहं गिरिगुहा वस्त्रं तरूणां त्वचः  
 सारङ्गाः सुहृदो ननु क्षितिरुहां वृत्तिः फलैः कोमलैः।  
-येषां [नैर्झर](# " नैर्झर - निर्झरः रत्यै")मम्बुपानमुचितं रत्यै [च](# "च– रत्येव") विद्याङ्गना  
+येषां नैर्झर[^320]मम्बुपानमुचितं रत्यै च[^321] विद्याङ्गना  
 मन्ये ते परमेश्वराः शिरसि यैर्बद्धो न सेवाञ्जलिः॥९१॥**
+
+[^320]: " नैर्झर - निर्झरः रत्यै"
+
+[^321]: "च– रत्येव"
 
  शैलशिला शैलसंबन्धिनी शिला एवशय्या। गिरेर्गुहा गृहं। सारङ्गा हरिणाः पक्षिणो वा। क्षितिरुहां वृक्षाणां। वृत्तिः उपजीविका। रत्यै कीडार्थे विद्याङ्गना विद्यारूपा स्त्री। एवंविधपरिवारयुतैः यैः सेवार्थः अञ्जलिः सेवाञ्जलिः शिरसि मस्तके न बद्धः ते परमेश्वराः इति अहं मन्ये। धन्यास्ते सुकृतिनश्च यैः क्षुद्रोदरपूरणार्थमत्यन्तोपकारकं स्वातन्त्र्यं नापहारितमित्यर्थः।
 
 सत्यामेव त्रिलोकीसरिति हरशिरश्चुम्बिनीविच्छटायां  
-सद्वृत्तिं कल्पयन्त्यां [तटविटपि](# "तटविटपि०–वटविटप")भवैर्वल्कलैः सत्फलैश्च।  
+सद्वृत्तिं कल्पयन्त्यां तटविटपि[^322]भवैर्वल्कलैः सत्फलैश्च।  
 कोयं विद्वान्विपत्तिज्वरजनित रुजातीव दुःखासिकानां  
 चक्रं वीक्षेत दुःस्थे यदि हि न बिभृयात्स्वे कुटुम्बेनुकम्पाम्॥
+
+[^322]: "तटविटपि०–वटविटप"
 
 ९२
 
@@ -3050,14 +3694,22 @@ of whose waist garment touches the head of S'iva, and which with good fruits and
 
 **नायं ते समयो रहस्यमधुना निद्राति नाथो यदि  
 स्थित्वा द्रक्ष्यसि कुप्यति प्रभुरिति द्वारेषु येषां वचः।  
-[र्निर्दौ](# "निर्दौ०–र्नोदौवारिकनिर्दयोकिपरुषम्")वारिकनिर्दयोक्त्यपरुषं निःसीमशर्मप्रदम्॥९४॥**
+र्निर्दौ[^323]वारिकनिर्दयोक्त्यपरुषं निःसीमशर्मप्रदम्॥९४॥**
+
+[^323]: "निर्दौ०–र्नोदौवारिकनिर्दयोकिपरुषम्"
 
  नायं ते तव समयः। रहस्यमेकान्तम्। यदि स्थित्वा द्रक्ष्यसि तर्हि प्रभुः कुप्यति इति येषां द्वारेषु वचः। हे चेतः तान् विहाय त्यक्त्वा विश्वस्य ईशितुः। देवस्य द्वारि नियुक्तः दौवारिकः। निर्दया उक्तयः निर्दयोक्तयः। निर्गता दौवारिकस्य निर्दयोक्तयः यस्मात्तत् निर्दौवारिकनिर्दयोक्ति। अपरुषं निःसीमशर्मप्रदमत्यन्तसुखदं भवनं याहि। उन्मत्तपुरुषाणां परुषवचनश्रवणस्थानानि विहाय सर्वदातारं करुणाकरं परमेश्वरं शरणमन्विच्छेति भावः।
 
-**प्रियसखि विप[द्दण्डव्रात](# "दण्डव्रात–प्रान्त ")प्र[पातप](# "प्रपात–प्रताप")रम्परा-  
-[परिचयचले](# "परिचयचले–परिधिचपले") चिन्ताचक्रे निधाय विधिः खलः।  
+**प्रियसखि विपद्दण्डव्रात[^324]प्रपातप[^325]रम्परा-  
+परिचयचले[^326] चिन्ताचक्रे निधाय विधिः खलः।  
 मृदमिव बलात्पिण्डीकृत्य प्रगल्भकुलालव-  
 द्भ्रमयति मनो नो जानीमः किमत्र विधास्यति॥ ९५॥**
+
+[^324]: "दण्डव्रात–प्रान्त "
+
+[^325]: "प्रपात–प्रताप"
+
+[^326]: "परिचयचले–परिधिचपले"
 
  हे प्रियसखि। खलो विधिः विपदेव दण्डः तस्य व्रातस्य समूहस्य प्रपातः तस्य परम्परायाः परिचयेन चलतीति तत्तथोकं तस्मिन्। चिन्तैवचक्रं चिन्ताचक्रं तस्मिन्। मनो निधाय मृदमिव मृत्तिकामिवबलात्पिण्डीकृत्यप्रगल्भश्चासौ कुलालश्च तद्वत् चतुरकुम्भकारवत् भ्रमयति भ्रमणं कारयति। अत्र स विधिः किं विधास्यति करिष्यतीति न जानीमः।
 
@@ -3071,15 +3723,21 @@ of whose waist garment touches the head of S'iva, and which with good fruits and
 
 महेश्वरेवा जगतामधीश्वरे  
 जनार्दने वा जगदन्तरात्मनि।  
-[तयोर्न](# "तयोर्न–न वस्तु०") [भेदप्रतिपत्तिरस्ति](# " न भेदहेतुप्रतिपत्ति") मे  
+तयोर्न[^327] भेदप्रतिपत्तिरस्ति[^328] मे  
 तथापि भक्तिस्तरुणेन्दुशेखरे॥९६॥
+
+[^327]: "तयोर्न–न वस्तु०"
+
+[^328]: " न भेदहेतुप्रतिपत्ति"
 
  जगतामधीश्वरे जगन्नियामके महेश्वरे। सगुणब्रह्मणीति यावत्। जगदन्तरात्मनि जगद्व्यापिनि वा जनार्दने। तयोः उभयोर्मध्ये भेदप्रतिपत्तिः भेदज्ञानं नास्ति तथापि मे मम भक्तिः तरुणश्चासौ इन्दुश्च स शेखरे यस्य तस्मिञ्शंकरे अतिशयेन वर्तते इति भावः।
 
 रे कन्दर्प करं कदर्थयसि कि कोदण्डटङ्कारितै  
-रे रे कोकिल कोमलैः कलरवैः किं त्वं वृथा [जल्पसि](# "जल्पसि–वल्गसिमधुरैर्लोलैः–मधुराक्षेपैः.")।  
+रे रे कोकिल कोमलैः कलरवैः किं त्वं वृथा जल्पसि[^329]।  
 मुग्धे स्निग्धविदग्धमुग्धमधुरैर्लोलैः कटाक्षैरलं  
 चेतश्चुम्बितचन्द्रचूडचरणध्यानामृतं वर्तते॥ ९७॥
+
+[^329]: "जल्पसि–वल्गसिमधुरैर्लोलैः–मधुराक्षेपैः."
 
  रे कन्दर्प पञ्चशर, कोदण्डस्य टङ्कारितैः टणत्कारैः किं वृथा निरर्थकं करं कदर्थयसि पीडयसि। रे रे कोकिल। आदरार्था वीप्सा। त्वं कोमलैः कलरवैः वृथा निष्फलं किं जल्पसि। हे मुग्धे बाले स्निग्धाश्च विदग्धाश्च मुग्धाश्चमधुराश्च तैः तथोक्तैः लोलैः चञ्चलैः कटाक्षैः अलं कृतं प्रयत्नेनेत्यर्थः। यतः अस्माकं चेतः चन्द्रः चूडायां यस्य स चन्द्रचूडः। चुम्बितं चन्द्रचूडस्य चरणयोः ध्यानमेवामृतं येन तत्तथाभूतं वर्तते। सर्वसङ्गरहिता वयमिदानीं जाता स्म इति भावः।  
 **––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––**  
@@ -3091,16 +3749,26 @@ and round by placing it on the wheel of anxiety which revolves by experiencing a
  97. Why do you, oh God of Love, trouble your han
 
 **कौपीनं शतखण्डजर्जरतरं कन्था पुनस्तादृशी  
-निश्चिन्तं सुखसाध्यभैक्षमशनं [शय्या](# "शय्या –निद्रा;") श्मशाने वने।  
-मित्रामित्रसमानतातिविमला चिन्ताऽ[थ शू](# "अथ शू०–अतिशू०.")न्यालये  
-ध्वस्ताशेष[मदप्रमाद](# "मदप्रमाद–तमःप्रमोद; स्वात्मानन्दमदप्रमोद")मुदितो योगी सुखं तिष्ठति॥९८॥**
+निश्चिन्तं सुखसाध्यभैक्षमशनं शय्या[^330] श्मशाने वने।  
+मित्रामित्रसमानतातिविमला चिन्ताऽथ शू[^331]न्यालये  
+ध्वस्ताशेषमदप्रमाद[^332]मुदितो योगी सुखं तिष्ठति॥९८॥**
+
+[^330]: "शय्या –निद्रा;"
+
+[^331]: "अथ शू०–अतिशू०."
+
+[^332]: "मदप्रमाद–तमःप्रमोद; स्वात्मानन्दमदप्रमोद"
 
  शतं खण्डानि शकलानि तैः जर्जरतरं अधिकजर्जरं कौपीनं आच्छादनम्। पुनः कन्था तादृशी तथैव इति यावत्। निश्चिन्तं चिन्तारहितं सुखेन साध्यं सुखसाध्यं च तद्भैक्षं च।‘भक्षादिभ्योऽण्’ इति अण्। श्मशाने शवाः शेरतेऽस्मिन्निति श्मशानं तस्मिन् प्रेतभूमौ वने वाशय्या शयनम्। मित्रामित्रयोः मित्रशत्र्वोः समानता समभावः। तुल्यो मित्रारिपक्षयोरिति भगवद्वचनात्। अथ शून्यालये निर्जनस्थाने अतिविमला अत्यन्तशुद्धा चिन्ता समाधिः। ध्वस्तो अशेषः मदः प्रमादश्च ताभ्यां मुदित्तः। ध्वस्ता ये अशेषा मदजनिताः प्रमादाः तैः मुदित इति वा। ध्वस्ताशेष प्रमाद अत एव मुदित इति वा। सर्वोपद्रवरहितः सन्योगी सुखं तिष्ठतीत्यर्थः।
 
 **भोगा भङ्गरवृत्तयो बहुविधास्तैरेव चायं भव-  
-स्त[त्कस्येह](# "कस्येह–कस्यैव") कृते [परिभ्रमत](# "परिभ्रमत—०थ") रे लोकाः कृतं चेष्टितैः।  
+स्तत्कस्येह[^333] कृते परिभ्रमत[^334] रे लोकाः कृतं चेष्टितैः।  
 आशापाशशतोपशान्तिविशदं चेतः समाधीयतां  
 कामोच्छित्तिवशे स्वधामनि यदि श्रद्धेयमस्मद्वचः॥९९॥**
+
+[^333]: "कस्येह–कस्यैव"
+
+[^334]: "परिभ्रमत—०थ"
 
 **––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––**
 
@@ -3113,9 +3781,15 @@ with the twangings of your bow ? Why do you, oh cuckoo, chatter ineffectually wi
  बहुविधाः बहुप्रकाराः भोगाः भङ्गुरवृत्तयः क्षणस्थायिनः तैरेव भोगैः अयं भवः संसारः।'कारणगुणाः कार्येऽनुवर्तन्त' इति न्यायेन संसारोऽपि विनाशीत्यर्थः। तस्माद्धे लोकाः इह लोके कस्य कृते कस्यार्थे यूयं परिभ्रमत भ्रमणं कुरुत। कृतं चेष्टितैः अलं व्यापारैः। आशायाः पाशाः तेषां शतानि तेषामुपशान्त्या विशदं निर्मलं चेतः अन्तःकरणम्। यदि अस्मद्वचःवचनं श्रद्धेयं श्रद्धायोग्यं तर्हि। कामानामुच्छित्या उच्छेदेन वशं स्वाधीनं तस्मिन्। स्वधामनि स्वाधिष्ठाने समाधीयतां स्थिरीक्रियताम्।
 
 **धन्यानां गिरिकन्दरे निवसतां ज्योतिः परं ध्यायता-  
-मानन्दा[श्रुजलं](# "श्रुकणानू- ०श्रकणान्, मनोरथैः परिचित,") पिबन्ति शकुना निःशङ्कमङ्केशयाः।  
-अस्माकं तु [](# "परिचित") मनोरथोपरचितप्रासादवापीतट-  
-क्रीडाकाननकेलिकौतुकजुषामायुः [परिक्षीयते](# "परिक्षीयते - परं क्षी.")॥१००॥**
+मानन्दाश्रुजलं[^335] पिबन्ति शकुना निःशङ्कमङ्केशयाः।  
+अस्माकं तु [][^336] मनोरथोपरचितप्रासादवापीतट-  
+क्रीडाकाननकेलिकौतुकजुषामायुः परिक्षीयते[^337]॥१००॥**
+
+[^335]: "श्रुकणानू- ०श्रकणान्, मनोरथैः परिचित,"
+
+[^336]: "परिचित"
+
+[^337]: "परिक्षीयते - परं क्षी."
 
  गिरिकन्दरे पर्वतविवरे। परं ज्योतिः स्वप्रकाशं परब्रह्म ध्यायतामनुभवतां धन्यानां कृतकृत्यानां पुरुषाणाम्आनन्दाश्रुजलं
 
@@ -3127,10 +3801,14 @@ and by them is constituted this worldly life; what for should you then wander, o
 
   100. Of the blessed persons who dwell in the hollows of mountains and contemplate the supreme light, birds drink the tears of delight, fearlessly resting on their laps; our life on the other hand is being wasted, we enjoying the delight of sports in pleasure gardens adjoining the moat (lit. a well) of a castle reared by our imagination.
 
-**[आक्रान्तं](# "आघ्रातम्") मरणेन जन्म जरया विद्युञ्चलं यौवनं  
+**आक्रान्तं[^338] मरणेन जन्म जरया विद्युञ्चलं यौवनं  
 संतोषो धनलिप्सया शमसुखं प्रौढाङ्गनाविभ्रमैः।  
 लोकैर्मत्सरिभिर्गुणा वनभुवो व्यालैर्नृपा दुर्जनै-  
-रस्थैर्येण [विभूतयोप्युपहृता](# " धृतिर्जगत्युपहता") ग्रस्तं न किं केन वा॥१०१॥**
+रस्थैर्येण विभूतयोप्युपहृता[^339] ग्रस्तं न किं केन वा॥१०१॥**
+
+[^338]: "आघ्रातम्"
+
+[^339]: " धृतिर्जगत्युपहता"
 
 ** **मरणेन जन्म आक्रान्तंव्याप्तम्। अस्योत्तरत्राप्यनुकर्षः।
 
@@ -3140,8 +3818,14 @@ and by them is constituted this worldly life; what for should you then wander, o
 
 **आधिव्याधिशतैर्जनस्य विविधैरारोग्यमुन्मूल्यते  
 लक्ष्मीर्यत्र पतन्ति तत्र विवृतद्वारा इव व्यापदः।  
-[जातं जातम](# "आयुर्यातम्")वश्यमाशु विवशं मृत्युः करोत्यात्मसा-  
-त्तत्किं[नाम](# "तेन") निरङ्कुशेन विधिना यन्निर्मितं [सुस्थितम्](# "सुस्थिरम्")॥१०२॥**
+जातं जातम[^340]वश्यमाशु विवशं मृत्युः करोत्यात्मसा-  
+त्तत्किंनाम[^341] निरङ्कुशेन विधिना यन्निर्मितं सुस्थितम्[^342]॥१०२॥**
+
+[^340]: "आयुर्यातम्"
+
+[^341]: "तेन"
+
+[^342]: "सुस्थिरम्"
 
  विविधैः बहुप्रकारैः आधिर्मानसी व्यथा व्याधिः शरीररोगः तेषां शतैः जनस्य पुरुषस्यारोग्यं शरीरस्वाथ्यमुन्मूल्यते। तथा यत्र लक्ष्मीः ऐश्वर्य तत्र व्यापदः विविधाः आपदःसंकटानि विवृतद्वारा विवृतं द्वारमाभ्य इति ताः पतन्ति। मृत्युःकालः जातं जातं जातमात्रं विवशमाशु त्वरितं
 
@@ -3153,17 +3837,21 @@ and by them is constituted this worldly life; what for should you then wander, o
 
 मवश्यं नियमेन आत्मसात्करोति साकल्येन स्ववशं नयति। तत्किंनाम वस्तु यन्निरङ्कुशेन अप्रतिबन्धेन विधिना दैवेन प्रजापतिना वा सुस्थिरं निर्मितम्। न किंञ्चिदपीत्यर्थः।
 
-कृच्छ्रेणामेध्यमध्ये नियमिततनुभिः स्थीयते [गर्भवासे](# " मध्ये व्यतिकरविषमे यौवने विप्रयोगः")  
+कृच्छ्रेणामेध्यमध्ये नियमिततनुभिः स्थीयते गर्भवासे[^343]  
 कान्ताविश्र्लेषदुःखव्यतिकरविषमो यौवने चोपभोगः।  
 नारीणामप्यवज्ञाविलसति नियतं वृद्धभावोप्यसाधुः  
 संसारे रे मनुष्या वदत यदि सुखं स्वल्पमप्यस्ति किंचित्॥१०३॥
+
+[^343]: " मध्ये व्यतिकरविषमे यौवने विप्रयोगः"
 
  अमेधमध्ये कुत्सितमूत्रादिमध्ये। वसत्यस्मिन्निति वासः। गर्भवासे गर्भाशये नियमिततनुभिः मर्यादितदेहैः स्थीयते। यौवने कान्तायाः विश्र्लेषःवियोगः तेन यद्दुःखं तस्य व्यतिकरेण सम्बधेन विषमःः कठिनः उपभोगः। यस्मिन्नियतं निश्चयेन नारीणां स्त्रीकर्तृका अवज्ञा अवमाननाः विलसति सः वृद्धभावोऽपि वार्धक्यमपि असाधुः। अतः रे मनुष्याः यदि संसारे किंचित् स्वल्पमपि सुखं अस्ति वदत। न किञ्चिदपि सुखमस्तीत्यर्थः।
 
 **आयुर्वर्षशतं नृणां परिमितं रात्रौ तदर्धे गतं  
 तस्यार्धस्य परस्य चार्धमपरं बालत्ववृद्धत्वयोः।  
-शेषं व्याधि[वियोग](# " विदेश")दुःखसहितं सेवादिभिर्नीयते  
+शेषं व्याधिवियोग[^344]दुःखसहितं सेवादिभिर्नीयते  
 जीवे वारितरङ्ग[चञ्चलतरे](http://॑॑॑॑# " बुद्धदसमे.") सौख्यं कुतः प्राणिनाम्॥ १०४॥**
+
+[^344]: " विदेश"
 
 ———————————————————————————————————————————  
 
@@ -3175,10 +3863,14 @@ fortunes come thronging as if the gates are opened to them;.Death hastily assert
 
  'तस्यार्धस्य द्वादशवर्षाणां परस्यार्धस्य अर्धे सार्ध द्वादशवर्षाणि बाल्ये पुनः सार्धद्वादशवर्षाणि वृद्धत्वे इत्यर्थः ' इतिरामर्षिः। शेषं अवशिष्टं पञ्चविंशतिवर्षसंख्याकमायुः व्याधिश्च वियोगश्च तयोः दुःखेन सहितं सेवादिभिश्च नीयते। तस्मात् प्राणिनां वारितरङ्गवत् चञ्चलतरे जीवे आयुषि सौख्यं कुतः। नास्ति सुखगन्धोऽपीत्यर्थः।
 
-**ब्रह्मज्ञान[विवेकिनोमलधियः](# "भाञ्ज्यपि-काञ्चनध० ") कुर्वन्त्यहो दुष्करं  
+**ब्रह्मज्ञानविवेकिनोमलधियः[^345] कुर्वन्त्यहो दुष्करं  
 यन्मुञ्चन्त्युपभोगभाञ्ज्यपि धनान्येकान्ततो निस्पृहाः।  
 न प्राप्तानि पुरा न संप्रति न च प्राप्तौ दृढप्रत्ययो  
-वाञ्छामात्रपरिग्रहाण्यपि परं त्यक्तुं न [शक्ता वयम्](# "तानि क्षमाः ।")॥१०५॥**
+वाञ्छामात्रपरिग्रहाण्यपि परं त्यक्तुं न शक्ता वयम्[^346]॥१०५॥**
+
+[^345]: "भाञ्ज्यपि-काञ्चनध० "
+
+[^346]: "तानि क्षमाः ।"
 
   ब्रह्मज्ञानविवेकिनः ब्रह्मविषयं ज्ञानं तस्माद्विवेकः तद्वन्तः। अमलधियः अमला धीःयेषाम्। शुद्धान्तःकरणाः। दुष्करं कुर्वन्ति। अहो इत्याश्चर्ये। किं तदतआह। यद्उपर्भोगभाञ्जउपभोगवन्त्यपि धनानि मुञ्चन्ति। एकान्ततः निश्चयेन निःस्पृहाः मिर्गतेच्छाः। पुरा भूतकाले, संप्रति वर्तमाने वा न प्राप्तानि न वा तेषां प्राप्तौ प्राप्तिविषये दृढप्रत्ययः दृढविश्वासः। तथापि वाञ्छा एववाञ्छामात्रं तेन परिग्रहो येषां तान्यपि वयं परं अत्यन्तं यथा स्यात्तथा त्यक्तुं न शक्ताः।
 
@@ -3191,9 +3883,13 @@ half of it passes away in the night; of the remaining half one half made up of i
 
 
 **व्याघ्रीवतिष्ठति जरा परितर्जयन्ती  
-रोगाश्च शत्रव इव [प्रहरन्ति](# "प्रविशन्ति") देहम्।  
-[आयुः](# "संस्रवति.") परिस्रवति भिन्नघटादिवाम्भो  
+रोगाश्च शत्रव इव प्रहरन्ति[^347] देहम्।  
+आयुः[^348] परिस्रवति भिन्नघटादिवाम्भो  
 लोकस्तथाप्यहितमाचरतीति चित्रम्॥१०६॥**
+
+[^347]: "प्रविशन्ति"
+
+[^348]: "संस्रवति."
 
  जरा परितर्जयन्ती भर्त्सयन्ती सती व्याघ्रीव अग्रेतिष्ठति रोगाश्चशूलादयः शत्रवः प्रतिपक्षियोद्धार इव देहं प्रहरन्ति अनेकप्रकारैः प्रहारान्कुर्वन्ति। भिन्नघटात् सच्छिद्रघटाद्यथा अम्भः जलं तथा आयुः परिस्रवति क्षरति। एवमपि लोकः प्राकृतो जनः अहितमकल्याणमाचरतीति चित्रमाश्चर्यम्। आगाम्यनर्थालोचनेनापि न स्वहितेऽभिनिवेशं कुरुत इत्याश्चर्यमित्यर्थः।
 
@@ -3222,8 +3918,12 @@ half of it passes away in the night; of the remaining half one half made up of i
 अहौवा हारे वा बलवति रिपौ वा सुहदि वा   
 
 मणौ वा लोष्टे वा कुसुमशयने वा दृषदिवा।  
-तृणे वा स्त्रैणे वा मम समदृशो [यान्तु](# "यान्ति") दिवसाः  
-क्वचि[त्पुण्यारण्ये](# "पुण्येऽरण्ये") शिव शिव शिवेति प्रलपतः॥१०९॥
+तृणे वा स्त्रैणे वा मम समदृशो यान्तु[^349] दिवसाः  
+क्वचित्पुण्यारण्ये[^350] शिव शिव शिवेति प्रलपतः॥१०९॥
+
+[^349]: "यान्ति"
+
+[^350]: "पुण्येऽरण्ये"
 
   अहौ सर्पे। हारे स्त्रजि। बलवति रिपौ समर्थशत्रौ। लोष्टेमृत्पिण्डे। कुसुमानां पुष्पाणां शयनं शय्या तस्मिन्। दृषदि पाषाणे। स्त्रीणां समूहः स्त्रैणंतस्मिन्।समा दृक् यस्य तस्य। क्वचित् कुत्रापि पुण्यारण्ये बदरिकाश्रमसदृशपुण्यप्रदेशे'शिव शिव शिव ' इति प्रलपतः उच्चैर्वदतः मम दिवसाः यान्तु। यत्र कुत्रापि देशे यस्यां कस्यामपि वृत्तौ यस्य कस्यापि संगमे सततं शिवनामस्मरणं कुर्वतो ममायुर्यात्विति तात्पर्यम्।
 
@@ -3243,9 +3943,13 @@ half of it passes away in the night; of the remaining half one half made up of i
  नास्ति किंचन यस्य तस्य। दान्तस्य उपरतवहिरिन्द्रियस्य शान्तस्य निग्रहितान्तःकरणस्य समं चेतः यस्य तस्य संतुष्टमनसः प्रमुदितान्तःकरणस्य पुरुषस्य। सुखमयाःसुखप्रचुराः। सर्वदुःखकारणे मनसि परितुष्टे सति सर्वत्र सुखप्राचुर्यमनुभूयत इत्यर्थः।
 
 अनावर्ती कालो व्रजति स वृथा तन्न गणितं  
-दशास्तास्ताः सोढा व्यसनशत[संपात](# "संताप")विधुराः।  
+दशास्तास्ताः सोढा व्यसनशतसंपात[^351]विधुराः।  
 कियद्वा वक्ष्यामः किमिव बत नात्मन्यपकृतं  
-[त्वया](# " किमस्माभिर्यावत्") यावत्तावत्पुनरपि तदेव व्यवसितम्॥२॥
+त्वया[^352] यावत्तावत्पुनरपि तदेव व्यवसितम्॥२॥
+
+[^351]: "संताप"
+
+[^352]: " किमस्माभिर्यावत्"
 
  न आवर्तते इति तच्छीलः। वृथा व्यर्थे व्रजति गच्छतीति न गणितं मनसि कृतम्।तास्ताः परस्परविलक्षणाःदशाःअवस्थाः। व्यसनानां शतं तस्य संपातः पतनं तेन विधुराःविकलाः।बतेति खेदे।आत्मनि स्वस्मिन्। किमिव नापकृतं कः अपकारो न कृतः। सर्वमपि अपकृतमित्यर्थः। व्यवसितं चेष्टितम्।यावदेतत्सर्वे कृतं तावत्पुनरपि तदेव कर्तुमारब्धम्।
 
@@ -3259,8 +3963,10 @@ a gem or a clod of earth, a bed of flowers or a stone, a blade of grass or a gro
 
 **अभिमतमहामानग्रन्थिप्रभेदपटीयसी  
 गुरुतरगुणग्रामाम्भोजस्फुटोज्ज्वलचन्द्रिका।  
-विपुलविलसल्लज्जवल्ली[विदार](# "वितान")कुठारिका  
+विपुलविलसल्लज्जवल्लीविदार[^353]कुठारिका  
 जठरपिठरी दुष्पूरेयं करोति विडम्बनम्॥३॥**
+
+[^353]: "वितान"
 
  अभिमतः यः महामानः तस्य प्रन्थिः तस्य प्रभेदः विश्र्लेषः
 तस्मिन्नतिशेन पटुः। गुरुतरः यः गुणानां समूहः स एव अम्भोजानि तेषां स्फुटा चासौ उज्ज्वला च चंद्रिका कौमुदी। विपुलं यथा तथा विलसन्ती या लज्जारूपा वल्ली तस्याः विदारे च्छेदे कुठारिका परशुः। जठरपिठरी उदरदरी इयं दुष्पूरा विडम्बनं करोति। उदरपूरणार्थे सर्वोपि जनः अकार्यकरणं अवाच्यवचनं अहेयहानंकरोतीर्थः। अहो खलु कष्टम्।
@@ -3272,8 +3978,10 @@ a gem or a clod of earth, a bed of flowers or a stone, a blade of grass or a gro
 
 **उत्तिष्ठ क्षणमेकमुद्वह गुरुं दारिद्र्यभारं सखे  
 श्रान्तस्तावदहं चिरं मरणजं सेवे त्वदीयं सुखम्।  
-[इत्युक्तो](# "इत्युक्तं धनवर्जितस्य वचनं श्रुत्वा") धनवर्जितेन सहसा गत्वा श्मशाने शवो  
+इत्युक्तो[^354] धनवर्जितेन सहसा गत्वा श्मशाने शवो  
 दारिद्यान्मरणं वरं वरमिति ज्ञात्वैव तूष्णीं स्थितः॥५॥**
+
+[^354]: "इत्युक्तं धनवर्जितस्य वचनं श्रुत्वा"
 
   हे सखे शव गुरुं दुर्वहम्। अहं श्रान्तः संसारभारवहनेन त्वदीयं मरणजं —————————————————————————————————————————————
 
@@ -3294,10 +4002,16 @@ a gem or a clod of earth, a bed of flowers or a stone, a blade of grass or a gro
 
  रागः अनुरागः अस्त्येषामिति रागिणः तेषु। प्रियतमाया देहार्धेहरतीति तच्छीलः। निर्गतः रागः येषां तेषु। विमुक्तःललनाया आसङ्गः येन सः। यस्मात् हरात् परः अन्यः। दुर्वारा ये स्मरः कामः तस्य बाणा एव पन्नगाः सर्पाः तेषां विषेण व्याविद्धः अत एव मुग्धः शेषो जनः कामेन विडम्बितान् विषयान् भोक्तुं मोक्तुं च न क्षमः समर्थः।
 
-**एता हसन्ति च रुदन्ति च [कार्य](# "वित्तहेतोः ")हेतो-**  
-**र्विश्वासयन्ति [च परं](# "पुरषं") न च विश्वसन्ति।  
+**एता हसन्ति च रुदन्ति च कार्य[^355]हेतो-**  
+**र्विश्वासयन्ति च परं[^356] न च विश्वसन्ति।  
 तस्मान्नरेण कुलशीलसमन्वितेन  
-[नार्यः](# "वेश्याः")श्मशानघटिका इव वर्जनीयाः॥७॥**
+नार्यः[^357]श्मशानघटिका इव वर्जनीयाः॥७॥**
+
+[^355]: "वित्तहेतोः "
+
+[^356]: "पुरषं"
+
+[^357]: "वेश्याः"
 
    एताः स्त्रियः कार्यहेतोः कार्यार्थे हसन्ति आनन्दप्रदर्शनं कुर्वन्ति रुदन्ति
 
@@ -3321,7 +4035,9 @@ burden of my poverty. I am now fatigued, and shall long enjoy the happiness you 
 कार्कश्यं स्तनयोर्दृशोस्तरलतालीकं मुखे श्र्लाघ्यते  
 कौटिल्यं कचसंचये च वदने मान्द्यं त्रिके स्थूलता।  
 भीरुत्वं हृदये सदैव कथितं मायाप्रयोगः प्रिये  
-यासां दोषगणो गुणो मृगदृशां [ताः स्युः](# " ताः किं नराणाम्") पशूनां प्रियाः॥९॥
+यासां दोषगणो गुणो मृगदृशां ताः स्युः[^358] पशूनां प्रियाः॥९॥
+
+[^358]: " ताः किं नराणाम्"
 
  स्तनयोःकर्कशस्य भावः कार्कश्यं काठिण्यं दोषपक्षे निर्दयता। दृशोः
 
@@ -3339,10 +4055,12 @@ make (others) confide (in them) but ( themselves) confide not; therefore a man p
 
 नेत्रयोः तरलता चञ्चलता पक्षे अस्थिरता। मुखे अलीकं ललाटदेशः पक्षे अनृतभाषणं श्र्लाघ्यतेप्रशस्यते। कचसंचये केशपुञ्चेकुटिलस्य भावः कौटिल्यं वक्रता।वदने मान्द्यंगम्भीरता त्रिके पृष्टवंशाधारभागे स्थूलता। मायाप्रयोगः वञ्चनाप्रचुरचेष्टा। यासां मृगदृशां मृगनयनानां दोषाणां गणः समूहोऽपि गुणः ताः स्त्रियः पशूनां प्रियाः। न तु मनुष्याणाम्। अतः ये एवंविधासु स्त्रीषु गुणदृष्टिं कुर्वन्ति ते पशव इत्यर्थः॥
 
-**क्वचि[द्वीणावादः](# "विणावाद्यम्.") क्वचिदपि च हाहेति रुदितं  
+**क्वचिद्वीणावादः[^359] क्वचिदपि च हाहेति रुदितं  
  क्वचिद्विद्वद्गोष्टी क्वचिदपि सुरामत्तकलहः।  
 क्वचिद्रामा रम्याः क्वचिदपि गलत्कुष्टवपुषो  
  न जाने संसारः किममृतमयः किं विषमयः॥१०॥**
+
+[^359]: "विणावाद्यम्."
 
  वीणावादः वीणावादनम्। विदुषां गोष्ठी शास्त्रप्रचुरा कथा।सुरया मत्तानां कलहः।गलत् प्रस्रवत् कुष्ठं यत्र तादृक् वपुः येषां ते तथा। संसारः अमृतमयः सुखप्रचुरः विषमयः दुःखप्रचुरो वा न जाने। प्राचुर्ये मयट् \। परस्परविरुद्धावस्थावलोकनान्निश्चयाभाव इत्यर्थः।
 
@@ -3372,10 +4090,14 @@ the eyes, and falsehood on the tongue ( lit. mouth) are praised; crookedness of 
 
   चला चञ्चला लक्ष्मीः संपत् कांतिर्वा। जीवितं च यौवनं च जीवतयौवनम्। चलाचले चञ्चले धर्म एव एको निश्चलः नित्यः।
 
-**चूडोत्तंसितचारुचन्द्रकलिकाचञ्चच्छिखा[भासुरो](# "भास्वरः;")  
+**चूडोत्तंसितचारुचन्द्रकलिकाचञ्चच्छिखाभासुरो[^360]  
   लीलादग्धविलोलकामशलभः श्रेयोदशाग्रे स्फुरन्।  
-अन्तः स्फुर्जदपारमोहतिमिरप्राग्भार[मुञ्चाटयं](# "उच्चाटयन्- उच्छेदयन्.")-  
+अन्तः स्फुर्जदपारमोहतिमिरप्राग्भारमुञ्चाटयं[^361]-  
   श्वेतःसद्मनि योगिनां विजयते ज्ञानप्रदीपो हरः॥१३॥**
+
+[^360]: "भास्वरः;"
+
+[^361]: "उच्चाटयन्- उच्छेदयन्."
 
  चूडायां केशणश उत्तंसिता भूषणीकृता चारुः सुन्दरा या चन्द्रकलिका चंद्रकला तस्याः चञ्चन्त्यः स्फुरन्त्यो याः शिखाः किरणास्ताभिर्भास्वरः। लीलया दग्धः विलोलः कामरूपशलभः कीटविशेषः येन सः। श्रेयः शिवं तस्य दशा अवस्था तस्याः अग्रे। अन्तःस्फूर्जन् अन्तःकरणे प्रसरन्यः अपारः मोहः स एव तिमिरं तमः तस्य प्रारभारं संहतिमु़ञ्चाटयन् विनाशयन्। ज्ञानरूपप्रदीपो हरः. योगिनां ध्यायिनां चेतः सद्मनि चेतोमंदिरे विजयते उत्कर्षेण वर्तते। तेन तंप्रणतोस्मीत्यर्थो लभ्यते।
 
@@ -3399,10 +4121,14 @@ you that have been made the buffoon of a farce, while flattering; what part ( I 
 
 लक्ष्मीं मा चिन्तय। कथंभूता पुनः सा रमेत्यत आह भूपालेति। भूपालानां भ्रुकुटी एव कुटी गृहं तत्र विहरणमेव व्यापारः तत्र पण्याङ्गना ताम्। कन्था-कञ्चुकिताः कन्थयाकञ्चुकिताः संजातकञ्चुकाः सन्तः वयं वाराणस्यां या रथ्या मार्गाः तासां पङ्क्तिषुभवनद्वाराणि गृहद्वाराणि प्रविश्य पाणिः एव पात्रं तस्मिन् पतितां भिक्षां अपेक्षामहे इच्छाम इत्यर्थः।
 
-जातः कूर्मः स एकः [पृथु](# "वनमथ स्थापितं येन पृष्ठे;")भुवनभरायार्पितं येन पृष्ठं  
+जातः कूर्मः स एकः पृथु[^362]भुवनभरायार्पितं येन पृष्ठं  
   श्र्लाघ्यंजन्म ध्रुवस्य भ्रमति नियमितं यत्र तेजस्विचक्रम्।  
-संजातव्यर्थपक्षाः [परहितकरणे](# "करणं नो करिष्यन्नवार्थम्.") नोपरिष्टान्न चाधो  
+संजातव्यर्थपक्षाः परहितकरणे[^363] नोपरिष्टान्न चाधो  
    ब्रह्माण्डोदुम्बरान्तर्मशकवदपरे जन्तवो जातनष्टाः॥१५॥
+
+[^362]: "वनमथ स्थापितं येन पृष्ठे;"
+
+[^363]: "करणं नो करिष्यन्नवार्थम्."
 
   येन कूर्मेण पृथु यद्भुवनं तस्य भराय भारधारणार्थे पृष्ठं स्वपृष्ठं अर्पितं दत्तम्। ध्रुवस्य जन्म श्र्लाघ्यं स्तुत्यं यत्र यस्मिन्ध्रुवे नियमितं तेजस्विचक्रं देदीप्यमानतारामण्डलं भ्रमति \। नोपरिष्टान्न चाप्यधःन कथमपि परहितस्य परोपकारस्य
 
@@ -3448,15 +4174,21 @@ Iated by whom, the planetary system revolves; other creatures in the world are, 
 
 न भिक्षा दुष्प्रापा पथि मम महारामरचिते  
  फलैः संपूर्णा भूर्विटपिमृगचर्मापि वसनम्।  
-[सुखै](# "सुखे वा दुःखे वा")र्वा दुःखैर्वा सदृशपरिपाकः खलु तदा  
+सुखै[^364]र्वा दुःखैर्वा सदृशपरिपाकः खलु तदा  
   त्रिनेत्रं कस्त्यक्त्वा धनलवमदान्धं प्रणमति॥१८॥
+
+[^364]: "सुखे वा दुःखे वा"
 
   महारामैः उद्यानैः स्वानन्देन वा रचिते पथि भिक्षा न मम दुष्प्रापा। यतो भृः भुमिः फलैः संपूर्णा। विटपिचर्म वृक्षत्वक् मृगचर्म कृष्णाजिनमपि वसनं वस्त्रम् यदा। खलु निश्चये। सुखैः दुःखैर्वा सदृशपरिपाकः समपरिणामः तदा त्रिनेत्रं शंकरं व्यक्त्वाविहाय कः सुधीः धनलवेन मदः तेन अन्धः तं प्रणमति। न कोऽपीत्यर्थः।
 
 नो खड्गप्रविदारिताः करटिनो नोद्वेजिता वैरिण-  
-  स्तन्वङ्ग्या विपुले [नितम्ब](# "निबद्ध ")फलके न क्रीडितं लीलया।  
-नो जुष्टं गिरिराजनिर्झरझज्झांकारकारं [पयः](# "वयः")  
+  स्तन्वङ्ग्या विपुले नितम्ब[^365]फलके न क्रीडितं लीलया।  
+नो जुष्टं गिरिराजनिर्झरझज्झांकारकारं पयः[^366]  
   कालोयं परपिण्डलोलुपतया काकैरिव प्रेरितः॥१९॥
+
+[^365]: "निबद्ध "
+
+[^366]: "वयः"
 
  खङ्गेन करटिनः अरिहस्तिनः न प्रविदारिताः वैरिणः नोद्वेजिताः न उद्वेगं
 
@@ -3573,10 +4305,14 @@ set at rest, its delight in poetry full of various sentiments being turned away,
 
   भिक्षा कामान् दोग्धीति धेनुः। शीतनिवारिणी शीतनिवारणशीला कन्था' गोधडी ' इति ख्याता। अचला दृढाअनन्या वा भक्तिस्तुशंकरे। एवं स्याञ्जेत्विभवैः कि प्रयोजनम्। न किंचिदपीत्यर्थः।
 
-**भिक्षाहारमदैन्यम[प्रतिसुखं](# "अप्रतिहतम्") भीति[च्छिदं](# "छदम्") सर्वदा  
+**भिक्षाहारमदैन्यमप्रतिसुखं[^367] भीतिच्छिदं[^368] सर्वदा  
   दुर्मात्सर्यमदाभिमानमथनं दुःखौघविध्वंसनम्।  
 सर्वत्रान्वहमप्रयत्नसुलभं साधुप्रियं पावनं  
   शम्भोः सत्रमवार्यमक्षयनिधिं शंसन्ति योगीश्वराः॥२६॥**
+
+[^367]: "अप्रतिहतम्"
+
+[^368]: "छदम्"
 
   भिक्षाया आहारः यस्मिन् तत्। अदैन्यं दैन्यवर्जितम्। अविद्यमानं प्रतिसुखं यस्मिन्। सर्वदा भीतिच्छिदं दुष्ठाः ये मात्सर्यादयस्तेषां मथनं नाशनं दुखौ घस्य विध्वंसनं सर्वत्र अन्वहं प्रतिदिनं अप्रयत्नेन सुलभं प्राप्यं साधूनां प्रियं पावनं पवित्रं शम्भोः सत्रं पूजनं योगिनामीश्वराः अक्षयो नित्यो निधिः तं शंसन्ति कथयन्ति।
 
@@ -3592,8 +4328,12 @@ set at rest, its delight in poetry full of various sentiments being turned away,
 
 भूः पर्यङ्कोनिजभुजलता कन्दुकं खं वितान  
    दीपश्चन्द्रो विरतिवनितालब्धसङ्गप्रमोदः।  
-[दिक्कान्ता](# "दिक्कन्याभिः")भिः पवनचमरैर्वीज्यमानः [समन्ता-](# " अनुवेलम्")  
+दिक्कान्ता[^369]भिः पवनचमरैर्वीज्यमानः समन्ता-[^370]  
    द्भिक्षुः शेते नृप इव भुवि त्यक्तसर्वस्पृहोपि॥२७॥
+
+[^369]: "दिक्कन्याभिः"
+
+[^370]: " अनुवेलम्"
 
   निजभुजलता कन्दुकं। ' गिरदी गालउशी ' इति प्राकृते ख्यातम्। विरतिःएव वनिता तस्याः लब्धः संगप्रमोदः येन। दिश एवकान्ताः ताभिः पवनरूपचमरैः समन्तात् सर्वतः वीज्यमानः। त्यक्ताः सर्वाः स्पृहाः येन सोऽपि भिक्षुः संन्यासी
 
@@ -3601,10 +4341,20 @@ set at rest, its delight in poetry full of various sentiments being turned away,
 
 इव भुवि शेते।
 
-**भोगास्तुङ्गतरङ्ग[भङ्ग](# "-भोग-तुल्य;")[चपलाः](# " तरलाः") प्राणाः क्षणध्वंसिन-  
-  स्तोकान्येव दिनानि यौवनसुखं [प्रीतिः](# " स्फूर्तिः कियासु स्थिरा,") प्रियेष्वस्थिरा।  
-तत्संसारमसारमेव निखिलं [बुद्ध्वा](# "मत्वा;")बुधा [बोधका](# "यौवने.")  
+**भोगास्तुङ्गतरङ्गभङ्ग[^371]चपलाः[^372] प्राणाः क्षणध्वंसिन-  
+  स्तोकान्येव दिनानि यौवनसुखं प्रीतिः[^373] प्रियेष्वस्थिरा।  
+तत्संसारमसारमेव निखिलं बुद्ध्वा[^374]बुधा बोधका[^375]  
   लोकानुग्रहपेशलेन मनसा यत्नः समाधीयताम्॥२८॥**
+
+[^371]: "-भोग-तुल्य;"
+
+[^372]: " तरलाः"
+
+[^373]: " स्फूर्तिः कियासु स्थिरा,"
+
+[^374]: "मत्वा;"
+
+[^375]: "यौवने."
 
  भोगाः तुङ्गतरंगाणां
 
@@ -3648,9 +4398,13 @@ therefore that the entire worldly existence is destitute of any good, ye wise te
 
 
 **वर्णेसितं शिरसि वीक्ष्य शिरोरुहाणां  
-  स्थानं जरापरिभवस्य [यदेव](# "तदेव, तदा पुर्मासम्") पुंसाम्।  
-आरोपितास्थि[शकलं](# "शतकम्.") परिहृत्य यान्ति  
+  स्थानं जरापरिभवस्य यदेव[^376] पुंसाम्।  
+आरोपितास्थिशकलं[^377] परिहृत्य यान्ति  
   चाण्डालकूपमिव दूरतरं तरुण्यः॥ ३१॥**
+
+[^376]: "तदेव, तदा पुर्मासम्"
+
+[^377]: "शतकम्."
 
  यदेवं पुंसां पुरुषाणां जरया कृतः परिभवः तस्य स्थानं तं शिरसि शिरो रुहाणां केशानां सितं शुभ्रं वर्णे वीक्ष्य दृष्ट्वा तरुण्यः स्त्रियः आरोपितं अस्थिशकलं यत्र तं चाण्डालकूपमिव तान् वृद्धान् परिहृत्य त्यक्त्वा दूरत्तरं अधिकदूरं यान्ति।
 
@@ -3687,7 +4441,9 @@ therefore that the entire worldly existence is destitute of any good, ye wise te
 **स्थितिः पुण्येरण्ये सह परिचयो हन्त हरिणैः  
  फलैर्मेध्या वृत्तिः प्रतिनदि च तल्पानि दृषदः।  
 इतीयं सामग्री भवति हरभक्तिं स्पृहयतां  
- वनं वा गेहं वा सद्दशमुप[शान्त्येक](# "शान्तैक")मनसाम्॥ ३५॥**
+ वनं वा गेहं वा सद्दशमुपशान्त्येक[^378]मनसाम्॥ ३५॥**
+
+[^378]: "शान्तैक"
 
  पुण्यं च तदरण्यं तस्मिन् स्थितिः वसतिः। हन्तेति हर्षे \। हरिणैः सह परि–
 
@@ -3704,9 +4460,17 @@ therefore that the entire worldly existence is destitute of any good, ye wise te
 चयो मैत्री। फलैः मेध्या पवित्रा वृत्तिः जीविका। प्रतिनदि च दृषदः शिला एवं तल्पानि शयनानि \। इतीयं एवंविधा हरिभक्ति स्पृहयतां काङ्क्षन्तांसामग्री साहित्यं भवति यतः उपशान्तावेवैकस्यां मनः येषां तेषां वनं वा गेहं वा सदृशं भवति। न तेषां गृहे कश्चिदमिनिवेशोन वा वने तिरस्कारो वर्तते सर्वसाम्यावस्थापन्नत्वादित्यर्थः।
 
 **स्वादिष्ठं मधुनो घृताच्च रसवद्यत्प्रस्त्रवत्यक्षरं  
- [दैवी](# "देवी") वागमृतात्मनो रसवतस्तेनैव तृप्ता वयम्।  
-कुक्षौयाव[दिमे](# "इमे-अमी") भवन्ति धृतये भिक्षाहृताः सक्तव-  
- स्तावद्दास्यकृता[र्जनैर्न](# "जेनैर्न वसुभिः") हि धनै[र्वृत्तिं](# "भोगान्") समीहामहे॥३६॥**
+ दैवी[^379] वागमृतात्मनो रसवतस्तेनैव तृप्ता वयम्।  
+कुक्षौयावदिमे[^380] भवन्ति धृतये भिक्षाहृताः सक्तव-  
+ स्तावद्दास्यकृतार्जनैर्न[^381] हि धनैर्वृत्तिं[^382] समीहामहे॥३६॥**
+
+[^379]: "देवी"
+
+[^380]: "इमे-अमी"
+
+[^381]: "जेनैर्न वसुभिः"
+
+[^382]: "भोगान्"
 
  दैवी वाग् श्रुतिमाता यत् अमृतात्मनः अमृतरूपात् रसवतश्च आत्मनः मधुनः स्वादिष्ठं घृताञ्जरसवत् अक्षरं प्रस्त्नवति तेनैव वयं तृप्ताः। परं च यावत् धृतये शरीरधृत्यर्थ इमे भिक्षया आहृताः सक्तवः कुक्षौ भवन्ति तावत् दास्यकृतार्जनैर्धनैः न हि नैव वृत्तिं जीविकां समीहामहे इच्छामः \।
 
@@ -4484,3 +5248,391 @@ This belongs to the class of metres regulated by the number of mantras or syllab
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^98]: "यदेकरूपम्."

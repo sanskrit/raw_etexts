@@ -14,7 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIzOTU5NDI2Njg
 +++
 [[आङ्ग्ल-भारतीय-पक्षि-नामावलिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODIzOTU5NDI2Njg4MzQ0&pageno=MjI0MjQyNjk5NTk=)]]
 
-\[
+\
 
 
 
@@ -280,7 +280,9 @@ Compare also:
 
 **नागानन्द १॥१०॥**
 
-**शुक-सारिका-प्रलापन** was one of the arts practiced in India by professional men like the trainers of Songfinches, Canaries, Thrushes, etc. in Europe today, and no one need be surprised at the performances of exceptionally talented Parrots and Mainas recorded in [Indian literature"\*](# "*Parrots taught to ropeat Lord Buddha s maxims have been described as शाक्यशासनकुशल in हर्षचरित, ch. 8."), barring, of course, poetic exaggeration in attributing to them human intelligence and capacity to makeimpromptu replies or even to carry on a conversation. I have myself heard a Rose-ringed Paroquet repeat the following Hindi verse without a hitch, though the articulation was certainly not equal to that of the Maina:
+**शुक-सारिका-प्रलापन** was one of the arts practiced in India by professional men like the trainers of Songfinches, Canaries, Thrushes, etc. in Europe today, and no one need be surprised at the performances of exceptionally talented Parrots and Mainas recorded in [Indian literature"\*[^1], barring, of course, poetic exaggeration in attributing to them human intelligence and capacity to makeimpromptu replies or even to carry on a conversation. I have myself heard a Rose-ringed Paroquet repeat the following Hindi verse without a hitch, though the articulation was certainly not equal to that of the Maina:
+
+[^1]: "*Parrots taught to ropeat Lord Buddha s maxims have been described as शाक्यशासनकुशल in हर्षचरित, ch. 8."
 
 
 
@@ -8302,3 +8304,4 @@ Page no. 492 is missing in the pdf.
 
 
 \]
+

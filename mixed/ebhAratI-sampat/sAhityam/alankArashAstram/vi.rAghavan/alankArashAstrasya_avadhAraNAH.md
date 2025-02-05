@@ -925,7 +925,9 @@ He completely follows the Anuṣṭubh list with this minor difference that he r
 
 
 
-The Kṣobha left out there has entered this list of 33 Nāṭyālaṅkāras. The remaining 20 of this list are not available anywhere in the Nātya Śastra. Among those Lakṣaṇas of the Upajāti list which are not common to the Anuşṭubh list also, there are yet गुणानुवादः, मिथ्याध्यवसायः, प्रतिषेधः, निर्भासनम्, कार्यम्, अनुनीतिःand परिदेवनम्, seven, which are not taken at all. The first writer who is now known to have introduced new Lakṣaṇas is Bhoja. In his list of 64 which contains all the 36 of the Anuṣṭubh list and a few of the Upajāti list, he introduced 12 new Lakşanas, स्पृहा, परिवादनम्, मृषोद्यमः, छलोक्तिः, काकुः, उन्मादः, परिहासः, विकत्थनम्, यदृच्छायोगः, वैषम्यम्, प्रतिज्ञानम् and प्रवृत्तिः. Of these 12, स्पृहा and परिवाद : are the only two found in Śāradātanaya's list of 54. It is quite likely the text is not complete and Śāradātanaya who numbers Lakṣaņas in the end as 64, took more of the above 12 of Bhoja. Viśvanātha follows Śaradatanaya and takes the following of Sāradātanaya's new Laksanas, उद्यमः, आश्रयः, स्पृहा, परिवादः, नीतिः, अर्थविशेषणम्, परिहारःनिवेदनम् and प्रहर्ष, numbering 9. The remaining eleven in the 20 are new, found only in Viśvanātha. They are गर्वः, उत्प्रासनम् आशंसा, अध्यवसायः, विसर्पः, उल्लेखः, उत्तेजनम्, साहाय्यम्, उत्कीर्तनम्, प्रवर्तनम् and उपदेशनम्. It is likely that some of these are really Śāradatanaya's, ten of whose 64 are now missing in the [text](# "Gaek ed. pp. 223-226.").Of these अध्यवसाय is said to be प्रतिज्ञानम् by ViŚvanātha. If so, it is not different from Bhoja's प्रतिज्ञानम्. उत्प्रासन which is explained as उपहास is the same as Bhoja's परिहास. उत्कीर्तन is unnecessary reduplication for it is described just as the other Nāṭyālankāra called आख्यान, which is a Lakṣaṇa in Bharata's Upajāti list. There does not seem to be any.
+The Kṣobha left out there has entered this list of 33 Nāṭyālaṅkāras. The remaining 20 of this list are not available anywhere in the Nātya Śastra. Among those Lakṣaṇas of the Upajāti list which are not common to the Anuşṭubh list also, there are yet गुणानुवादः, मिथ्याध्यवसायः, प्रतिषेधः, निर्भासनम्, कार्यम्, अनुनीतिःand परिदेवनम्, seven, which are not taken at all. The first writer who is now known to have introduced new Lakṣaṇas is Bhoja. In his list of 64 which contains all the 36 of the Anuṣṭubh list and a few of the Upajāti list, he introduced 12 new Lakşanas, स्पृहा, परिवादनम्, मृषोद्यमः, छलोक्तिः, काकुः, उन्मादः, परिहासः, विकत्थनम्, यदृच्छायोगः, वैषम्यम्, प्रतिज्ञानम् and प्रवृत्तिः. Of these 12, स्पृहा and परिवाद : are the only two found in Śāradātanaya's list of 54. It is quite likely the text is not complete and Śāradātanaya who numbers Lakṣaņas in the end as 64, took more of the above 12 of Bhoja. Viśvanātha follows Śaradatanaya and takes the following of Sāradātanaya's new Laksanas, उद्यमः, आश्रयः, स्पृहा, परिवादः, नीतिः, अर्थविशेषणम्, परिहारःनिवेदनम् and प्रहर्ष, numbering 9. The remaining eleven in the 20 are new, found only in Viśvanātha. They are गर्वः, उत्प्रासनम् आशंसा, अध्यवसायः, विसर्पः, उल्लेखः, उत्तेजनम्, साहाय्यम्, उत्कीर्तनम्, प्रवर्तनम् and उपदेशनम्. It is likely that some of these are really Śāradatanaya's, ten of whose 64 are now missing in the text[^1].Of these अध्यवसाय is said to be प्रतिज्ञानम् by ViŚvanātha. If so, it is not different from Bhoja's प्रतिज्ञानम्. उत्प्रासन which is explained as उपहास is the same as Bhoja's परिहास. उत्कीर्तन is unnecessary reduplication for it is described just as the other Nāṭyālankāra called आख्यान, which is a Lakṣaṇa in Bharata's Upajāti list. There does not seem to be any.
+
+[^1]: "Gaek ed. pp. 223-226."
 
 
 
@@ -1102,7 +1104,9 @@ fact, we have actually Lakṣaṇas with the names of some of the later Alaṅk�
 **दृष्ट्वैवावयवान्कांश्चिद्भावो यत्रानुमीयते।  
 प्राप्तिं तामपि जानीयाल्लक्षणं नाटकाश्रयम्॥**
 
- The Lakṣaṇa called अभिप्राय contains [सादृश्यपरिकल्पनम्](# "Protsāhana, Guṇānuvāda and Hetu of the Upajāti recension involve Aupamya.") .
+ The Lakṣaṇa called अभिप्राय contains सादृश्यपरिकल्पनम्[^2] .
+
+[^2]: "Protsāhana, Guṇānuvāda and Hetu of the Upajāti recension involve Aupamya."
 
 ** **The Lakṣaṇa calledलेशis quite different from the Alankāra of that name. Lesālaṅkāra is thus defined by Bhoja—
 
@@ -1132,7 +1136,9 @@ fact, we have actually Lakṣaṇas with the names of some of the later Alaṅk�
 
 
 
-Lakṣaṇas. Leaving aside the late stage represented by the Candrāloka in which Lakṣanas like मिथ्याध्यवसाय, युक्ति and have become Alaṅkāras, we can take that, very early, some of the Lakṣaṇas passed into the fold of Alaṅkāra. Bhaṭta Tauta's view may suggest this historical fact. We have other clear evidences on this point. आशीः, a Lakṣaṇa of the Upajāti list, is an Alaṅkāra in Bhaṭṭi and we can see it in its transition from Lakṣaṇa to Alaṅkara. Bhāmaha mentions indifferently that it is an Alaṅkāra according to some (III. 55). Similarly हेतुः, a Lakṣaṇa in both the lists of Bharata, can be seen in its stage of transition into Alaṅkara in Bhāmaha and Daṇḍin. Bhāmaha refuses to accept it as Alankāra since it is devoid of Vakrokti (II. 86). Some pre-Bhāmaha writer must have made it an Alaṅkāra. Bhāmaha points out that only definite and remarkable turns of expression must be named Alaṅkāra. But soon, since it was the palmy days of Alaṅkāras when many things entered its fold, we find Daṇḍin asserting thatहेतुis a great Alaṅkāra, उत्तमभूषण, आशीःis an Alaṅkāra, firmly established, in Daṇḍin. But poor Hetu had a chequered [career](# "See Udbhaṭa, Rudraṭa and Mammaṭa; also the Alaṅkāra chapter in my Ph. D. Thesis on Bhoja's S'ṛṅgāra Prakās'a."). The name Nātyalańkāra might have also helped sorne of the Lakṣaṇas to become Alaṅkaras. The evolution of Alaṅkāras from three in Bharata to what we have in Bhāmaha is an interesting study but the gap is all darkness. We feel that in that stage of the history of Alankāra, the concept of Lakṣaṇa and the merging of most of it in Alankāra is a big chapter.
+Lakṣaṇas. Leaving aside the late stage represented by the Candrāloka in which Lakṣanas like मिथ्याध्यवसाय, युक्ति and have become Alaṅkāras, we can take that, very early, some of the Lakṣaṇas passed into the fold of Alaṅkāra. Bhaṭta Tauta's view may suggest this historical fact. We have other clear evidences on this point. आशीः, a Lakṣaṇa of the Upajāti list, is an Alaṅkāra in Bhaṭṭi and we can see it in its transition from Lakṣaṇa to Alaṅkara. Bhāmaha mentions indifferently that it is an Alaṅkāra according to some (III. 55). Similarly हेतुः, a Lakṣaṇa in both the lists of Bharata, can be seen in its stage of transition into Alaṅkara in Bhāmaha and Daṇḍin. Bhāmaha refuses to accept it as Alankāra since it is devoid of Vakrokti (II. 86). Some pre-Bhāmaha writer must have made it an Alaṅkāra. Bhāmaha points out that only definite and remarkable turns of expression must be named Alaṅkāra. But soon, since it was the palmy days of Alaṅkāras when many things entered its fold, we find Daṇḍin asserting thatहेतुis a great Alaṅkāra, उत्तमभूषण, आशीःis an Alaṅkāra, firmly established, in Daṇḍin. But poor Hetu had a chequered career[^3]. The name Nātyalańkāra might have also helped sorne of the Lakṣaṇas to become Alaṅkaras. The evolution of Alaṅkāras from three in Bharata to what we have in Bhāmaha is an interesting study but the gap is all darkness. We feel that in that stage of the history of Alankāra, the concept of Lakṣaṇa and the merging of most of it in Alankāra is a big chapter.
+
+[^3]: "See Udbhaṭa, Rudraṭa and Mammaṭa; also the Alaṅkāra chapter in my Ph. D. Thesis on Bhoja's S'ṛṅgāra Prakās'a."
 
   But we must be clear as regards this point : in the first class of Lakṣaṇas which are mere turns of expressions there are various grades. While some are plainly Alaṅkāras, others
 
@@ -1146,7 +1152,9 @@ have an element of Alankāra in them, the expression as a whole being more than 
 
 एभिर्यक्रियापेक्षैः कार्यं काव्यं तु लक्षणैः।
 
- Some Lakṣaṇasare अर्थापेक्ष. These are turns of expression, those of the first class, related closely to Alaṅkāra. Others are [क्रियापेक्ष](# "Abhinava has the reading 'अर्थक्रियायुक्तैः', and takes it as emphasising the principle of Rasa-aucitya in the use of these Lakṣaṇas: अर्थक्रियायां रसचर्वणायां युक्तं योगो येषाम् etc. p. 468"). These are related to Bhāvas and form the second class. Thus the two main lines of thought in theदशपक्षीgiven in the Abhinava bhāratī hold good as regards these two aspects of Lakṣaṇas. There will be much 'Kles'a' if one tries to make all Lakṣaṇas look like turns of expression and factors of natural grace, or to make all Lakṣaṇas look like सन्ध्यङ्गक or इतिवृत्तखण्डलक. The Das'arūpaka realised these points and included part of them in Alaṅkāras and part in Bhāvas.
+ Some Lakṣaṇasare अर्थापेक्ष. These are turns of expression, those of the first class, related closely to Alaṅkāra. Others are क्रियापेक्ष[^4]. These are related to Bhāvas and form the second class. Thus the two main lines of thought in theदशपक्षीgiven in the Abhinava bhāratī hold good as regards these two aspects of Lakṣaṇas. There will be much 'Kles'a' if one tries to make all Lakṣaṇas look like turns of expression and factors of natural grace, or to make all Lakṣaṇas look like सन्ध्यङ्गक or इतिवृत्तखण्डलक. The Das'arūpaka realised these points and included part of them in Alaṅkāras and part in Bhāvas.
+
+[^4]: "Abhinava has the reading 'अर्थक्रियायुक्तैः', and takes it as emphasising the principle of Rasa-aucitya in the use of these Lakṣaṇas: अर्थक्रियायां रसचर्वणायां युक्तं योगो येषाम् etc. p. 468"
 
 
 
@@ -1293,9 +1301,11 @@ This expressional deviation, this striking disposition of words and ideas, is Al
 
 
 
-p. 88, Mahimabhaṭṭa says: अलङ्काराणां च अभिवात्मत्वम्उपगतं, तेषां भङ्गिभणितिरूपत्वात्।' V. V., I, p. 3, T.S.S. 'भङ्गिभणितिभेदानामेव अलङ्कारत्वोपगमात्।' *Ibid*., II, p. 87. 'चारुत्वं हि वैचित्र्यापरपर्यायंप्रकाशमानमलङ्कारः।' 'चारुत्वमलङ्कारः।' Commentary on the V.V., p. 4, T.S.S.: ‘तथा च शब्दार्थयोर्विच्छित्तिरलङ्कारः।'*Ibid*., p. 44. Namisādhu also says 'ततो यावन्तो हृदयावर्जका अर्थप्रकारास्तावन्तोऽलङ्काराः।' Vyā on Rudrata, p. 149. Ānanda has this further remark – 'तत् (रस) प्रकाशिनो वाच्यविशेषा एव रूपकादयोऽलङ्काराः। p. 87. If Alaṅkāra is understood in this large sense as emphasising the need for a beautiful form in poetry, it is not very improper for the subject of poetics to be called[Alaṅkāraśāstra.](# "On the names of the Alaṅkaraśāstra, see below.")
+p. 88, Mahimabhaṭṭa says: अलङ्काराणां च अभिवात्मत्वम्उपगतं, तेषां भङ्गिभणितिरूपत्वात्।' V. V., I, p. 3, T.S.S. 'भङ्गिभणितिभेदानामेव अलङ्कारत्वोपगमात्।' *Ibid*., II, p. 87. 'चारुत्वं हि वैचित्र्यापरपर्यायंप्रकाशमानमलङ्कारः।' 'चारुत्वमलङ्कारः।' Commentary on the V.V., p. 4, T.S.S.: ‘तथा च शब्दार्थयोर्विच्छित्तिरलङ्कारः।'*Ibid*., p. 44. Namisādhu also says 'ततो यावन्तो हृदयावर्जका अर्थप्रकारास्तावन्तोऽलङ्काराः।' Vyā on Rudrata, p. 149. Ānanda has this further remark – 'तत् (रस) प्रकाशिनो वाच्यविशेषा एव रूपकादयोऽलङ्काराः। p. 87. If Alaṅkāra is understood in this large sense as emphasising the need for a beautiful form in poetry, it is not very improper for the subject of poetics to be calledAlaṅkāraśāstra.[^5]
 
 ^(** **)Thus, Alaṅkāra, properly understood and properly employed, can hardly be a subject for wholesale condemnation. This is said not only in view of the large sense in which we have tried to explain it above. Taking the figures as such, the best definition we can give of them is that, in a great poet, they form the inevitable incarnations in which ideas embody themselves. Says Ānanda :
+
+[^5]: "On the names of the Alaṅkaraśāstra, see below."
 
  अलङ्कारान्तराणि हि निरूप्यमाणदुर्घटान्यपि रससमाहितचेतसः प्रतिभानवतः कवेः अहंपूर्विकया परापतन्ति। \* \* \* युक्तं चैतत्। यतो रसा वाच्यविशेषैरेव आक्षेप्तव्याः, तत्प्रतिपादकैश्च शब्दैः, तत्प्रतिपादिनो वाच्यविशेषा एवं रूपकादयोऽलङ्काराः। — Dhva ā, p. 87.
 
@@ -1326,7 +1336,9 @@ Here Abhinava says: As a matter of fact, Alaṅkāras are external ornaments on 
 
 आत्मतायास्तु का संभावना एवंभूता चेयं व्यंग्यता, यदप्रधानभूतापि वाच्यमात्रालंकारेभ्यः उत्कर्षमलंकाराणां वितरति। बालक्रीडायामपि राजत्वमिवेत्यमुमर्थंमनसि कृत्वाह – तत्रेति।—Locana, pp. 117-118.
 
- It must be noted here that Abhinava compares the Suśliṣṭa Alaṅkāra to Kuṁkumālaṅkaraṇa, and raises it above the level of the altogether external jewel worn, the Kaṭaka. Bhoja realised the insufficiency of the comparison with Kaṭaka. Alaṅkāra as ornament of a woman also was understood by Bhoja in a large sense. Bhoja classified Alaṅkāras into those of Śabda, Bāhya, those of Artha, Ābhyantara and those of both Śabda and Artha, Bāhyābhyantara. The first, the most external, the verbal figure of Śabdālańkāra, Bhoja compared to dressing, garlanding and wearing Kaṭaka etc. The third, he compared to bath, treating the hair to fragrant smoke, smearing the body with Kuṁkuma, Candana etc. Beginning from outside, these are more intimate with the body. The second, the purely Ābhyantara Alaṅkāras, the Arthālaṅkāras, Bhoja compared to cleaning the teeth, manicuring, dressing the hair itself etc. These last are most intimate; nothing not forming part at all of the body is here [superimposed](# "Cf. Abhinava: 'येषामलंकाराणां वाच्यत्वेन शरीरीकरणं शरीरभूतात् प्रस्तुतादर्थात् अर्थान्तरभूततया अशरीराणां कटकादिस्थानीयानां शरीरस्थानापादनम् . . .।' —Locana, p. 117.").
+ It must be noted here that Abhinava compares the Suśliṣṭa Alaṅkāra to Kuṁkumālaṅkaraṇa, and raises it above the level of the altogether external jewel worn, the Kaṭaka. Bhoja realised the insufficiency of the comparison with Kaṭaka. Alaṅkāra as ornament of a woman also was understood by Bhoja in a large sense. Bhoja classified Alaṅkāras into those of Śabda, Bāhya, those of Artha, Ābhyantara and those of both Śabda and Artha, Bāhyābhyantara. The first, the most external, the verbal figure of Śabdālańkāra, Bhoja compared to dressing, garlanding and wearing Kaṭaka etc. The third, he compared to bath, treating the hair to fragrant smoke, smearing the body with Kuṁkuma, Candana etc. Beginning from outside, these are more intimate with the body. The second, the purely Ābhyantara Alaṅkāras, the Arthālaṅkāras, Bhoja compared to cleaning the teeth, manicuring, dressing the hair itself etc. These last are most intimate; nothing not forming part at all of the body is here superimposed[^6].
+
+[^6]: "Cf. Abhinava: 'येषामलंकाराणां वाच्यत्वेन शरीरीकरणं शरीरभूतात् प्रस्तुतादर्थात् अर्थान्तरभूततया अशरीराणां कटकादिस्थानीयानां शरीरस्थानापादनम् . . .।' —Locana, p. 117."
 
  अलङ्काराश्चत्रिधा,— बाह्याः, आभ्यन्तराः, बाह्याभ्यन्तराश्च। तेषु बाह्याः— वस्त्र-माल्य-विभूषणादयः। आभ्यन्तराः—दन्तपरिकर्म-नखच्छेद-अलककल्पनादयः। बाह्याभ्यन्तराः— स्नान-धूप-(विलेपनादयः) etc.—
 
@@ -1416,7 +1428,9 @@ appropriate to Artha and through it, to Rasa, can be of any beauty.
 
 
 
-The plight of the garden resembles his own pitiable state and with great appropriateness in the conceiving of the similes, Viśākhadatta has drawn a mere description nearer to the context, harnessed it for Rasa and heightened the effect of the [situation](# "A similar instance of appropriateness of figurative description is Bāṇa's description of the red evening and the approach of the night in which the king goes to help Bhairavācārya's Sādhana in the Śmaśāna.").On the contrary, we shall now cite a verse from the Bhoja Campū where the poet has created a figure not only not in harmony with the main idea and the context but also so inappropriate as to make, as Kṣemendra says, the hearts of the Sahṛdayas shrink.
+The plight of the garden resembles his own pitiable state and with great appropriateness in the conceiving of the similes, Viśākhadatta has drawn a mere description nearer to the context, harnessed it for Rasa and heightened the effect of the situation[^7].On the contrary, we shall now cite a verse from the Bhoja Campū where the poet has created a figure not only not in harmony with the main idea and the context but also so inappropriate as to make, as Kṣemendra says, the hearts of the Sahṛdayas shrink.
+
+[^7]: "A similar instance of appropriateness of figurative description is Bāṇa's description of the red evening and the approach of the night in which the king goes to help Bhairavācārya's Sādhana in the Śmaśāna."
 
 वाणीविलासमपरत्र कृतोपलंभम् अंभोजभूरसहमान इवाविरासीत्।
 
@@ -1431,9 +1445,13 @@ There is Hetu-Utprekṣāhere: the poet imagines that Brahmā presented himself 
 
  उपमया यद्यपि वाच्योऽर्थोलंक्रियते, तथापि तस्य तदेवालंकरणम्, यद् व्यंग्यार्थाभिव्यञ्जनसामर्थ्याधानमिति। वस्तुतो ध्वन्यात्मैव अलंकार्य\_। कटककेयूरादिभिरपि हि शरीरसमवायिभिः आत्मैव तत्तच्चित्तवृत्तिविशेषौ चित्यसूचनात्मतया अलङ्क्रियते।' —Locana, 74-75. 58
 
- Thus whatever, remaining in a functionary place, aids to embellish and add to the main theme's beauty is Alaṅkāra. Rasa also can thus be employed as a decorative, as an Alaṅkara, to adorn a Vastu (idea) or [Rasa.](# "Rasavad alankāra. Locana, pp. 72, 73, 74.")
+ Thus whatever, remaining in a functionary place, aids to embellish and add to the main theme's beauty is Alaṅkāra. Rasa also can thus be employed as a decorative, as an Alaṅkara, to adorn a Vastu (idea) or Rasa.[^8]
 
- [Raymond](# "Poetry as a Representative Art.")expresses a similar opinion on Alaṅkāra : 'The one truth underlying all the rules laid down for the employment of figures is that nothing is gained by any use of those which does not add to the effect of the thought to which they give expression. Language is to express our thoughts to others and in ordinary conversation, we use both plain and figurative language but when a man wants to give another the description of a scene he has seen, he does not catalogue one and all of the details of that sight, but brings only his own idea of the landscape by adding to such of the details as have struck him many more ideas and emotions that have been aroused in him.' Thus he transports his mental image to the hearer and if the representation is comparatively plain, we have Svabhāvokti. 'On the other hand, if he realises that it is hard for the hearer to understand him fully, he gains his end by repeating the statement, or by adding illustrative images to the mere enumeration of facts.' \[Compare Rudrata, VIII, 1.
+ Raymond[^9]expresses a similar opinion on Alaṅkāra : 'The one truth underlying all the rules laid down for the employment of figures is that nothing is gained by any use of those which does not add to the effect of the thought to which they give expression. Language is to express our thoughts to others and in ordinary conversation, we use both plain and figurative language but when a man wants to give another the description of a scene he has seen, he does not catalogue one and all of the details of that sight, but brings only his own idea of the landscape by adding to such of the details as have struck him many more ideas and emotions that have been aroused in him.' Thus he transports his mental image to the hearer and if the representation is comparatively plain, we have Svabhāvokti. 'On the other hand, if he realises that it is hard for the hearer to understand him fully, he gains his end by repeating the statement, or by adding illustrative images to the mere enumeration of facts.' \[Compare Rudrata, VIII, 1.
+
+[^8]: "Rasavad alankāra. Locana, pp. 72, 73, 74."
+
+[^9]: "Poetry as a Representative Art."
 
 **सम्यक् प्रतिपादयितुं स्वरूपतो वस्तु तत्समानमिति।  
 वस्त्वन्तरमभिदध्यात् वक्ता यस्मिंस्तदोषम्यम्॥\]**
@@ -1444,17 +1462,23 @@ There is Hetu-Utprekṣāhere: the poet imagines that Brahmā presented himself 
 
   From the verse of Rudraṭa quoted above, we see that a complex situation or an anxiety for clearer or more effective expression necessitates figures. Similarly a thought that is too simple, too ordinary or too small to impress or get admiration by itself, needs figurative embellishment. We shall consider this view of Ānandavardhana with his rules for the employment of these figures in such secondary and ordinary moods and thoughts. Even as he grants high flights in supreme moments, he grants even the bare Śabdacitra ample provision in Rasābhāsa. Heroic deeds, unselfish love, sacrifice—things great in themselves appeal to us even when directly expressed with minimum figure. But ordinary things must have purple patches.
 
- All these facts about decoration by figure in poetry are realised by Ānanda who has formulated rules for the proper employment of Alaṅkāra. Western writers also have laid similar conditions regarding ornament. Pater says: 'And above all, there will be no uncharacteristic or tarnished or vulgar decoration, permissible ornament being for the most part structural or [necessary](# "Style by W. Pater.")'.He continues: 'The artist, says Schiller, may be known by rather what he omits and in literature too, the true artist may be best recognised by his tact of omission. For, to the grave reader, words too are grave; and the ornamental word, the figure, the accessory form or colour or reference is rarely content to die to thought precisely at the right moment, but will inevitably be stirring a
+ All these facts about decoration by figure in poetry are realised by Ānanda who has formulated rules for the proper employment of Alaṅkāra. Western writers also have laid similar conditions regarding ornament. Pater says: 'And above all, there will be no uncharacteristic or tarnished or vulgar decoration, permissible ornament being for the most part structural or necessary[^10]'.He continues: 'The artist, says Schiller, may be known by rather what he omits and in literature too, the true artist may be best recognised by his tact of omission. For, to the grave reader, words too are grave; and the ornamental word, the figure, the accessory form or colour or reference is rarely content to die to thought precisely at the right moment, but will inevitably be stirring a
+
+[^10]: "Style by W. Pater."
 
 
 
 long "brain-wave" behind it of perhaps quite alien associations'. 'As the very word ornament indicates what is in itself non-essential, so the "one beauty" of all literary style is of its very essence and independent of all removable decoration; that it may exist in its fullest lustre in a composition utterly unadorned, with hardly a single suggestion of visibly beautiful things.' 'The ornaments are "diversions" —a narcotic spell on the pedestrian intelligence. We cannot attend to that figure—that flower there—just then—surplusage! For, in truth, all art consists in the removal of surplusage.'
 
-  Such strictures had to be passed by Ānanda also; for when he was thinking out the essence of poetry, Sanskrit poetry had deteriorated into an artificial stage. A blind tribe—Gaḍḍarikas—was following a beaten path and was hardly proof to errors of taste. Not poetry, but the imitation thereof, was being assiduously produced. (न तन्मुख्यं काव्यं, काव्यानुकारो [ह्यसौ](# "As if translating Ānanda, Tolstoy calls bad Art 'Imitations of Art'. What is Art ?' Ch. XI.")Dhva. Ā., p. 220.) To guide such poets,  
+  Such strictures had to be passed by Ānanda also; for when he was thinking out the essence of poetry, Sanskrit poetry had deteriorated into an artificial stage. A blind tribe—Gaḍḍarikas—was following a beaten path and was hardly proof to errors of taste. Not poetry, but the imitation thereof, was being assiduously produced. (न तन्मुख्यं काव्यं, काव्यानुकारो ह्यसौ[^11]Dhva. Ā., p. 220.) To guide such poets,  
 not gifted with S'akti enough to possess an innate sense of Aucitya, Ānanda lays down his rules for the employment of Alaṅkāra. As has already been pointed out, "Alaṅkāra is subordinate to Rasa; it has to aid the realisation of Rasa. It shall suit the Bhāva and be such as comes off to the poet along with the tide of the Rasa. It shall not monopolise the poet's energy nor shall it be so prominent or continued as to monopolise the reader's mind. Says Ānanda:
 
+[^11]: "As if translating Ānanda, Tolstoy calls bad Art 'Imitations of Art'. What is Art ?' Ch. XI."
+
 **रसाक्षिप्ततया यस्य बन्धः शक्यक्रियो भवेत्।  
-अपृथग्यत्ननिर्वर्त्यः सोऽलंकारो ध्वनौ [मतः॥](# "Bhoja also speaks of this Rasākṣipta and Apṛthagyatnanırvartya Alaṅkāra in his S.K.Ā. (Ch. V) and S'r. Pra. (Ch. XI).")**
+अपृथग्यत्ननिर्वर्त्यः सोऽलंकारो ध्वनौ मतः॥[^12] and S'r. Pra. (Ch. XI).")**
+
+[^12]: "Bhoja also speaks of this Rasākṣipta and Apṛthagyatnanırvartya Alaṅkāra in his S.K.Ā. (Ch. V
 
                         —Dhva. Ā., II, 17.
 
@@ -1499,9 +1523,11 @@ See Dhva. Ā., p. 86.
 
 
 **हतपुत्रबलो दीनःलूनपक्ष इव द्विजः।  
-हतदर्पो हतोत्साहः निर्वेदं समपद्यत॥** —[Rā. Bā., 55. 8–10.](# "Kumbhakonam Edn.")
+हतदर्पो हतोत्साहः निर्वेदं समपद्यत॥** —Rā. Bā., 55. 8–10.[^13]
 
  But there are also places in the epic of high strung emotion where figures are not employed at all and the sublimity or pathos of the situation (e.g. Rāma weeping on the loss of Sīta in the closing cantos of the Āraṇyakāṇḍa) is left to itself to appeal to us with its own grandeur and beauty.
+
+[^13]: "Kumbhakonam Edn."
 
  In Kālidāsa, we have many instances of figures rushing to the poet's pen in moments of overflowing Rasa. Every line is a figure in Purūravas's description of Urvas'ī who has captivated his heart, as he sees her slowly recovering fromstupor:
 
@@ -1548,7 +1574,9 @@ these figures in such an appropriate manner can employ figures effectively if th
 
  (iv) They must not be too much elaborated or overworked.
 
- (v) Even if they are worked out, a good poet must take care to give them, on the whole, the position Aṅga only.(i) In the verse from the [Śākuntala](# "See Dhva. Ā., pp. 89-94 for the illustration and discussion of these canons.")चलापाङ्गां दृष्टिं स्पृशसि बहुशोवेयथुमतीम्etc.', the description of the natural acts of the bee, भ्रमरस्वभावोक्ति is introduced as Aṅga to intensify the chief Rasa of Śrngära. (ii) There are instances in which we see poets drifting along in the world of imagery itself without returning to the point on hand. The poet begins a figure and does it in such a detailed manner that it outgrows its proper limit.
+ (v) Even if they are worked out, a good poet must take care to give them, on the whole, the position Aṅga only.(i) In the verse from the Śākuntala[^14]चलापाङ्गां दृष्टिं स्पृशसि बहुशोवेयथुमतीम्etc.', the description of the natural acts of the bee, भ्रमरस्वभावोक्ति is introduced as Aṅga to intensify the chief Rasa of Śrngära. (ii) There are instances in which we see poets drifting along in the world of imagery itself without returning to the point on hand. The poet begins a figure and does it in such a detailed manner that it outgrows its proper limit.
+
+[^14]: "See Dhva. Ā., pp. 89-94 for the illustration and discussion of these canons."
 
 
 
@@ -1599,7 +1627,9 @@ heighten the sentiment. The intellectual simile must have maximum catching power
 
 
 
-These beautiful instances from the Rāmāyaṇa have the required novelty and strikingness. [As J. S. Brown](# "'World of Imagery.' Quoted by K. A. Subrahmanya Ayyar in his contributions on Imagery of Rāmāyaṇa', J.O.R., Madras, Vol. III, pt. 4.")says, the pleasure we derive from a comparison— to which we stick, however much we may call it odious— is in the sudden bringing together of two notions which were a moment before unconnected and remote from one another. This element of agreeable surprise falls under intellectual appeal. The following are two more instances:
+These beautiful instances from the Rāmāyaṇa have the required novelty and strikingness. As J. S. Brown[^15]says, the pleasure we derive from a comparison— to which we stick, however much we may call it odious— is in the sudden bringing together of two notions which were a moment before unconnected and remote from one another. This element of agreeable surprise falls under intellectual appeal. The following are two more instances:
+
+[^15]: "'World of Imagery.' Quoted by K. A. Subrahmanya Ayyar in his contributions on Imagery of Rāmāyaṇa', J.O.R., Madras, Vol. III, pt. 4."
 
 **निद्रा क्वाप्यवमानितेव दयिता सन्त्यज्य दूरं गता।  
 सत्पात्रप्रतिपादितेव वसुधा न क्षीयते शर्वरी॥**
@@ -1625,10 +1655,14 @@ figures, mistaken informations filling verse after verse. The absurdity is seen 
 
 
 
-technical flaw in their figures as figures. But the place where they abused is the [same](# "विद्वांस एव ते न कवयः' - -Ramacandra, Nalavilãsa nāṭaka, Act vi, p. 77. Gaek. edn.").It is their scholarship that bound them to the rule. When they got an imagery on their mind, they settled down to turn it into one of the Upamāgarbhālakāras of the texts; they chose one that they had not used up to that time; in their construction, they adopted the same manner of expression of that figure as given in the text-book and when there was no 'Liṅgavacana sāmya'for the Upamā, they artificially worked out by redistributions with the great control over lexicon and grammar they had, the conforming form of the figure. Things that are in pair were often brought into singular number as occasion needed, and to coincide with a feminine stem, 'Padadvaya' would become 'Padadvayī.' Even Kālidāsa strains to achieve this formal correspondence. He takes the bees in a group in feminine gender to bear comparison with a lady, a single and feminine Upameya.
+technical flaw in their figures as figures. But the place where they abused is the same[^16].It is their scholarship that bound them to the rule. When they got an imagery on their mind, they settled down to turn it into one of the Upamāgarbhālakāras of the texts; they chose one that they had not used up to that time; in their construction, they adopted the same manner of expression of that figure as given in the text-book and when there was no 'Liṅgavacana sāmya'for the Upamā, they artificially worked out by redistributions with the great control over lexicon and grammar they had, the conforming form of the figure. Things that are in pair were often brought into singular number as occasion needed, and to coincide with a feminine stem, 'Padadvaya' would become 'Padadvayī.' Even Kālidāsa strains to achieve this formal correspondence. He takes the bees in a group in feminine gender to bear comparison with a lady, a single and feminine Upameya.
+
+[^16]: "विद्वांस एव ते न कवयः' - -Ramacandra, Nalavilãsa nāṭaka, Act vi, p. 77. Gaek. edn."
 
 **तं प्राप्य सर्वावयवानवयं व्यावर्ततान्योपगमात्कुमारी।  
-न हि प्रफुल्लं सहकारमेत्य वृक्षान्तरं कांक्षति षट्पदाली[॥](# "See also महीभृतः पुत्रवतोऽपि दृष्टिः तस्मिन्नपत्ये न जगाम तृप्तिम्।          अनन्तपुष्पस्य मधोर्हि चूते द्विरेफमाला सविशेषसङ्गा॥                                     —Kumāra sambhava, I.")**
+न हि प्रफुल्लं सहकारमेत्य वृक्षान्तरं कांक्षति षट्पदाली॥[^17]**
+
+[^17]: "See also महीभृतः पुत्रवतोऽपि दृष्टिः तस्मिन्नपत्ये न जगाम तृप्तिम्।          अनन्तपुष्पस्य मधोर्हि चूते द्विरेफमाला सविशेषसङ्गा॥                                     —Kumāra sambhava, I."
 
                                 **—R. V., VI, 69.**
 
@@ -1664,7 +1698,9 @@ A latter-day poet would have certainly stopped to abide by an Ālaṅkārika dic
 
 
 
-कलहायमान[etc.](# "The Lalitāstavaratna of Durvāsas and the Mūkapañcaśati use such expressions profusely but one does not dislike them in these two masterly hymns. See also Āryastavaraja of a Tanjore Jagannātha (Vani Vilas edn.), another production in imitation of Durvāsas's Lalitāstavaratna.")These words are in themselves condensed metaphors and it is only after long Rūḍhi that they mean simply similarity'. Till then the reader has to pass through another metaphor to understand the main imagery. While it must be accepted that it is highly diverting to have ever such novel words of comparison, one cannot blind oneself to the growing Aprasiddhi, involvedness and obscurity.
+कलहायमानetc.[^18], another production in imitation of Durvāsas's Lalitāstavaratna.")These words are in themselves condensed metaphors and it is only after long Rūḍhi that they mean simply similarity'. Till then the reader has to pass through another metaphor to understand the main imagery. While it must be accepted that it is highly diverting to have ever such novel words of comparison, one cannot blind oneself to the growing Aprasiddhi, involvedness and obscurity.
+
+[^18]: "The Lalitāstavaratna of Durvāsas and the Mūkapañcaśati use such expressions profusely but one does not dislike them in these two masterly hymns. See also Āryastavaraja of a Tanjore Jagannātha (Vani Vilas edn.
 
  Considering the way in which figures are expressed: Even very appropriate images are abused by strained expression, resorted to with special effort, for the sake of variety as well as metrical needs. If the poet gets a simile and gives it natural expression which is in harmony with Rasa, there is really effect and beauty in its employment. Poetry is after all not an argument to be somehow read and understood; it is something like a Mañjarī, as Bāṇa says. It has to leap to our heart on even the mere hearing of it.Even as their ideas, their expression also has to be beautiful.
 
@@ -1751,7 +1787,9 @@ The first figure Rūpaka suggests a Pariṇāma and that is further taken up to 
 
 
 
- The same is the case with [Paryāyokta](# "Vide above, criticism off etc."),Preyān and Rasavadalaṅkāras. The king or God is to be praised; Prīti for them is the main Rasa of the subject, but a minor Rasa is employed to adorn the main one. A far-fetched idea suggesting some great quality of the king or God (which quality is left to hide itself in one small word) is elaborated and the whole verse is burdened with a new picture which is a world by itself. The verse बल्लालक्षोणिपाल त्वदरिनगरे सञ्चरन्ती किराती etc. quoted by Appayya dīkṣita in his Citramīmāmsā as an illustration of Uttarottarapallavitabhrānti aptly shows how poets stray away from the main idea. This tendency is the main feature of the vast mass of court eulogies like the Prataparudriya (the Alankara work), Prāṇābharaṇa, Rājendrakarṇapūra etc. When Kālidāsa writes thus :
+ The same is the case with Paryāyokta[^19],Preyān and Rasavadalaṅkāras. The king or God is to be praised; Prīti for them is the main Rasa of the subject, but a minor Rasa is employed to adorn the main one. A far-fetched idea suggesting some great quality of the king or God (which quality is left to hide itself in one small word) is elaborated and the whole verse is burdened with a new picture which is a world by itself. The verse बल्लालक्षोणिपाल त्वदरिनगरे सञ्चरन्ती किराती etc. quoted by Appayya dīkṣita in his Citramīmāmsā as an illustration of Uttarottarapallavitabhrānti aptly shows how poets stray away from the main idea. This tendency is the main feature of the vast mass of court eulogies like the Prataparudriya (the Alankara work), Prāṇābharaṇa, Rājendrakarṇapūra etc. When Kālidāsa writes thus :
+
+[^19]: "Vide above, criticism off etc."
 
 **क्रियाप्रबन्धेष्वयमध्वरणाम् अजस्रमाहूतसहस्रनेत्रः।  
 शच्याश्चिरं पाण्डुकपोललंबान् मन्दारशून्यानलकांश्चकार॥**
@@ -1783,7 +1821,9 @@ attributes. There are also cases of discord of varying nature between the two id
 **प्रत्यक्षरश्लेषमयप्रपञ्चविन्यासवैदग्ध्यनिधिं प्रबन्धम्।  
 सरस्वतीदत्तवरप्रसादः चक्रे सुबन्धुः सुजनैकबन्धुः॥**
 
- So much so that it became not only a possibility or accomplished fact but a practice of great fancy to produce double, triple, and quadruple [poems](# "See my article 'Anekasandhāna kāvyas' in the Annals of the Oriental Research Institute, University of Madras, Vol. III. pt. 1.").
+ So much so that it became not only a possibility or accomplished fact but a practice of great fancy to produce double, triple, and quadruple poems[^20].
+
+[^20]: "See my article 'Anekasandhāna kāvyas' in the Annals of the Oriental Research Institute, University of Madras, Vol. III. pt. 1."
 
 ** **But what exactly is the place of this figure? Has it any charm to impart to the diction? It does help Alaṅkāra, all Alaṅkāras except Svabhāvokti :
 
@@ -1928,7 +1968,9 @@ Bhavabhūti was as great a master with the words; surely the delicate and charmi
 
 Take that verse again in his Mahāvīracarita which brings on Tāṭakā, the demoness-—
 
-**[अन्त्रप्रोतबृहत्कपालनलकक्रूरक्वणत्कंकण etc.](# "Vide below chapter on Aucitya. Also Dhva. Ã., III.")**
+**अन्त्रप्रोतबृहत्कपालनलकक्रूरक्वणत्कंकण etc.[^21]**
+
+[^21]: "Vide below chapter on Aucitya. Also Dhva. Ã., III."
 
  The concepts of Rīti and Vṛtti in poetics owe their formulation to a study of these sound-effects. These also count for Rasa. It is said that the first gait of the actor on the stage interprets him and his character to the audience; that first impression stands to the last. So also the first effect a verse on its mere reading or hearing produces, holds the mind to the end. For the Rasa to be suggested, even the jingle in the sounds or the clash of words is welcome and appropriate means.
 
@@ -2007,7 +2049,9 @@ structural, organic : Rasākṣipta, Apṛthag yatna nirvartya. These words of M
  किञ्च सौन्दर्यातिरेकनिष्पत्तयेऽर्थस्य काव्यक्रियारंभः कवेः, न तु अलंकारनिष्पत्तये तेषां नान्तरीयकतयैव तत्सिद्धेः, भङ्गिभणितिभेदानामेव अलंकारत्वोपगमात्।
 
 **न चालंकारनिष्पत्त्यै रसबन्धोद्यतः कविः।  
-यतते, ते हि तत्सिद्धिनान्तरीयकसिद्धयः[॥](# "Vide also the Āntara Ślokas 76-77 on p. 87, V.V. There are very valuable ideas on Alańkāra-aucitya in Vimarśa Two of the Vyaktiviveka.")**
+यतते, ते हि तत्सिद्धिनान्तरीयकसिद्धयः॥[^22]**
+
+[^22]: "Vide also the Āntara Ślokas 76-77 on p. 87, V.V. There are very valuable ideas on Alańkāra-aucitya in Vimarśa Two of the Vyaktiviveka."
 
 **V.V., II., T.S.S., p. 87.**
 
@@ -2024,7 +2068,9 @@ structural, organic : Rasākṣipta, Apṛthag yatna nirvartya. These words of M
 
 From Rasa to the musical sound which aids its realisation, poetry is one unity, one complex of rich experience.
 
- The purposiveness of Alaṅkāra is inevitable like the purposiveness of poetry. But this does not mean that one should judge Alaṅkara and poetry from a purely utilitarian point of view. There is simply beautiful poetry, which is nothing but the poet's desire to express taken shape. ‘These very decorations carry the emotional motive of the poet which says [“I find joy in my creations; it is good”](# "Tagore")‘When in some pure moments of ecstasy we realise this in the world around us, we see the world not as merely existing but as decorated in its forms, sounds, colours, and lines, we feel in our hearts that there is one who through all things proclaims “I have joy in my creation ”**.**Nature is the creation of God’s Līlā, Poetry, of the poet's Līlā.
+ The purposiveness of Alaṅkāra is inevitable like the purposiveness of poetry. But this does not mean that one should judge Alaṅkara and poetry from a purely utilitarian point of view. There is simply beautiful poetry, which is nothing but the poet's desire to express taken shape. ‘These very decorations carry the emotional motive of the poet which says “I find joy in my creations; it is good”[^23]‘When in some pure moments of ecstasy we realise this in the world around us, we see the world not as merely existing but as decorated in its forms, sounds, colours, and lines, we feel in our hearts that there is one who through all things proclaims “I have joy in my creation ”**.**Nature is the creation of God’s Līlā, Poetry, of the poet's Līlā.
+
+[^23]: "Tagore"
 
 
 
@@ -2211,7 +2257,9 @@ he meant like Daṇḍin to divide poetic expression into two realms, Vakrokti a
 
 
 
-Svabhāvokti, are governed by the Vakrokti principle.’This is Danḍin's [view,](# "K.A., II, 362. Madras Edn.") not Bhāmaha’s. To Bhāmaha, the absence of Vakratāor Vakroktı eliminates an expression from the fold of Alaṅkāra : it will not be Svabhāvokti but Vārtā,— not like आक्रोशन्नाह्वयन् etc. but like गतोऽस्तमर्कःetc. For Bhāmaha Vakrokti is Alankāra, and Svabhāvokti also which has got its own degree of Vakratāmarking it off from mere Vārtā is comprised in Vakrokti. Daṇdin examined the realm of poetic speech with greater scrutiny and said that since in Svabhāvokti, the Vakratā is least, let it stand apart. And even to this Daṇḍin, the expression of Rasa, Rasa-ukti, is still part of Vakrokti, and Bhoja therefore analyzed poetic expression into three parts, Svabhāvokti, Rasokti and Vakrokti.
+Svabhāvokti, are governed by the Vakrokti principle.’This is Danḍin's view,[^24] not Bhāmaha’s. To Bhāmaha, the absence of Vakratāor Vakroktı eliminates an expression from the fold of Alaṅkāra : it will not be Svabhāvokti but Vārtā,— not like आक्रोशन्नाह्वयन् etc. but like गतोऽस्तमर्कःetc. For Bhāmaha Vakrokti is Alankāra, and Svabhāvokti also which has got its own degree of Vakratāmarking it off from mere Vārtā is comprised in Vakrokti. Daṇdin examined the realm of poetic speech with greater scrutiny and said that since in Svabhāvokti, the Vakratā is least, let it stand apart. And even to this Daṇḍin, the expression of Rasa, Rasa-ukti, is still part of Vakrokti, and Bhoja therefore analyzed poetic expression into three parts, Svabhāvokti, Rasokti and Vakrokti.
+
+[^24]: "K.A., II, 362. Madras Edn."
 
  Just as Bāṇa said that a Jāti should be Agrāmyā, Daṇḍin says that it should bring before our eyes the picture vividly. नानावस्थं पदार्थानां रूपं साक्षाद् विवृण्वती। II. 8. ‘प्रत्यक्षमिव दर्शयन्ती’ says Taruṇavācaspati, while the Hṛdayaṁgamã which says ‘साक्षादव्याजेन विवृण्वती’ emphasizes that no artificial aid of a figurative flourish shall be used here. As previously indicated, Daṇḍin gives four classes of Svabhāvokti— Jāti, Kriyā, Guṇa and Dravya, II. 13. Bhoja (S.K.Ā., III, 6-8) multiplies the classes,— Svarūpa, Samsthāna, Avasthāna, Veṣa, Vyāpāra etc.; child, maiden, animal; time, place etc.,— elaborations borrowed by him from Rudrata.**¹**
 
@@ -2281,9 +2329,13 @@ the Śṛngāra Prakāśa (Śr. Pra.). The S. K.Ā. says in III. 4-5 :
 स्वेभ्यः स्वेभ्यो निसर्गेभ्यः तानि जातिं प्रचक्षते॥**
 
 **अर्थव्यक्तेरियं भेदम् इयता प्रतिपद्यते।  
-जायमानप्रि[(नभि)](# "For this correct reading, see Bhaṭṭa Gopāla's gloss on the Kāvyaprakāśa T.S.S. Edn.")यं वक्ति रूपं सा सार्वकालिकम्॥**
+जायमानप्रि(नभि)[^25]यं वक्ति रूपं सा सार्वकालिकम्॥**
 
-Characteristics which are born in things in their several states and which, by nature, pertain to them form the subject of Jāti. By the second qualification that the characteristics shall pertain to the things by nature, —‘स्वेभ्यःस्वेभ्यो निसर्गेभ्यः’— Bhoja, as explained by Ratneśvara, excludes external associations like reminiscences, reflections etc., on seeing the [objects.](# "नन्वेवं ‘य एते यज्वानः + + विलसति मृदेषा भगवती’इत्यादावपि जातित्वं ‘स्यादत आह— स्वेभ्यः स्वेभ्य इति । स्वभावभूतानीत्यर्थः ।Ratneśvara.")The first qualification is fully explained in the second verse from which we learn that it is intended to keep distinct the Alaṅkāra Svabhāvokti and the Guṇa Arthavyakti. This question takes us to Vāmana's Arthaguṇa Arthavyakti in the definition of which Vāmana uses the word Vastusvabhāva and whose two illustrations are simply two cases of Svabhāvokti. (K.A. Sū. III. ii. 13). वस्तुस्वभावस्फुटत्वमर्थव्यक्तिः। वस्तूनां भावानां स्वभावस्य स्फुटत्वं यत्, असौ अर्धव्यक्तिः।It is clear from this that either Arthavyakti or Svabhāvokti does not obviate the need for the other; nor is there any need to point out how the two do not overlap. It is rather illogical to distinguish two things of two different classes, one a Guṇa and another an Alaṅkāra.This Arthavyakti of Vāmana is a quality pertaining to the
+[^25]: "For this correct reading, see Bhaṭṭa Gopāla's gloss on the Kāvyaprakāśa T.S.S. Edn."
+
+Characteristics which are born in things in their several states and which, by nature, pertain to them form the subject of Jāti. By the second qualification that the characteristics shall pertain to the things by nature, —‘स्वेभ्यःस्वेभ्यो निसर्गेभ्यः’— Bhoja, as explained by Ratneśvara, excludes external associations like reminiscences, reflections etc., on seeing the objects.[^26]The first qualification is fully explained in the second verse from which we learn that it is intended to keep distinct the Alaṅkāra Svabhāvokti and the Guṇa Arthavyakti. This question takes us to Vāmana's Arthaguṇa Arthavyakti in the definition of which Vāmana uses the word Vastusvabhāva and whose two illustrations are simply two cases of Svabhāvokti. (K.A. Sū. III. ii. 13). वस्तुस्वभावस्फुटत्वमर्थव्यक्तिः। वस्तूनां भावानां स्वभावस्य स्फुटत्वं यत्, असौ अर्धव्यक्तिः।It is clear from this that either Arthavyakti or Svabhāvokti does not obviate the need for the other; nor is there any need to point out how the two do not overlap. It is rather illogical to distinguish two things of two different classes, one a Guṇa and another an Alaṅkāra.This Arthavyakti of Vāmana is a quality pertaining to the
+
+[^26]: "नन्वेवं ‘य एते यज्वानः + + विलसति मृदेषा भगवती’इत्यादावपि जातित्वं ‘स्यादत आह— स्वेभ्यः स्वेभ्य इति । स्वभावभूतानीत्यर्थः ।Ratneśvara."
 
 
 
@@ -2333,7 +2385,9 @@ The idea in defining in the Śṛ. Pra. Svabhāvokti as expression dominated by 
 
 but in all those cases he would say that the subject or idea itself, the Vastu, has an innate Saundarya or Vakratā. Cases which are Svabhāvokti for others would be cases of Vastu vakratāfor Kuntaka. But Vastu which has Vakratā is different from ordinary Vastu devoid of Vakratā, as in ordinary talk. Does not this distinguishing Vakratā which separates Loka vastu and Kāvya vastu amount to Alaṅkāra ? It may not be so much Vicchitti as is found in other species of Vakrokti but yet it is some Vicchitti and as such is Alaṅkāra; and it does not pertain ordinarily to all instances; only poets are able to say things with that Vastu vakratā. And Vakratā is Vakrokti. To this Kuntaka would reply that as far as poetry is concerned, only such Vastu as has beauty is relevant; the bald Vastu is out of the scope of the discussion. But, if on the score of this Vakratã, one would call a Svabhāvākhyāna as Svabhāvokti Alaṅkāra, Kuntaka would seem to yield a little that there is after all only a dispute in names.
 
- यदि वा प्रस्तुतौचित्यमाहात्म्यान्मुख्यतया भावस्वभावः सातिशयत्वेन वर्ण्यमानः स्वमहिम्ना भूषणान्तरासहिष्णुः स्वयमेव शोभातिशयशालित्वात् अलङ्कार्योऽपि [अलङ्करणमित्यभिधीयते](# " As Vālmīki also would say (while describing Sitā):‘वपुषा चाप्यलङ्कृता’. Sundara. 17-25."),तदयमस्माकीन एव पक्षः।^(**1**)V. J., p. 139.  
+ यदि वा प्रस्तुतौचित्यमाहात्म्यान्मुख्यतया भावस्वभावः सातिशयत्वेन वर्ण्यमानः स्वमहिम्ना भूषणान्तरासहिष्णुः स्वयमेव शोभातिशयशालित्वात् अलङ्कार्योऽपि अलङ्करणमित्यभिधीयते[^27]:‘वपुषा चाप्यलङ्कृता’. Sundara. 17-25."),तदयमस्माकीन एव पक्षः।^(**1**)V. J., p. 139.  
+
+[^27]: " As Vālmīki also would say (while describing Sitā
 
  In the second Vimarśa of his Vyaktiviveka, Mahimabhaṭṭa speaks of five flaws the last of which is Vācya-avacana under which he treats of a closely related flaw, Avācya-vacana,
 
@@ -2376,10 +2430,14 @@ A statement of this unavoidable Svabhāva cannot be an Alaṅkāra. With referen
 न हि स्वभावमात्रोक्तौविशेषः कश्चनानयोः॥**
 
 **उच्यते वस्तुनस्तावद् द्वैरूप्यमिह विद्यते।  
-[तत्रैकमत्र(स्य)](# "This correct reading अस्य is found in the ‘different readings’ given at the end of the T.S.S. Edn. of the V.V., and is found also in Hemacandra who reproduces these verses on p. 275 of his K.A. Vyā.")सामान्यं यद्विकल्पैकगोचरः॥**
+तत्रैकमत्र(स्य)[^28]सामान्यं यद्विकल्पैकगोचरः॥**
+
+[^28]: "This correct reading अस्य is found in the ‘different readings’ given at the end of the T.S.S. Edn. of the V.V., and is found also in Hemacandra who reproduces these verses on p. 275 of his K.A. Vyā."
 
 **स एव सर्वशब्दानां विषयः परिकीर्तितः।  
-अत एवाभिधेयं ते श्या[(ध्या)](# "See Hemacandra for the correct word ‘Dhyāmala’, meaning ‘impure, tainted’.") मलं बोधयन्त्यलम्॥**
+अत एवाभिधेयं ते श्या(ध्या)[^29] मलं बोधयन्त्यलम्॥**
+
+[^29]: "See Hemacandra for the correct word ‘Dhyāmala’, meaning ‘impure, tainted’."
 
 **विशिष्टमस्य यद्रूपं तत् प्रत्यक्षस्य गोचरः।  
 स एव सत्कविगिरां गोचरः प्रतिभाभुवाम्॥**
@@ -2396,17 +2454,23 @@ A statement of this unavoidable Svabhāva cannot be an Alaṅkāra. With referen
 **इत्यादि प्रतिभातत्त्वमस्माभिरुपपादितम्।  
 शास्त्रे तत्त्वोक्तिकोशाख्ये इति नेह प्रपश्चितम॥**
 
-**अर्थ [(अस्य)](# "See Hemacandra.") स्वभावस्योक्तिर्या सालङ्कारतया मता।  
+**अर्थ (अस्य)[^30] स्वभावस्योक्तिर्या सालङ्कारतया मता।  
 यतः साक्षादिवाभान्ति तत्रार्थाः प्रतिभार्पिताःII p. 108.**
+
+[^30]: "See Hemacandra."
 
 **.  .  .  .  .  .  .  .  .  .  .  . 
 .**
 
-**सामान्यस्तु स्वभावो यः सोऽन्यालङ्कार[(सोऽनलङ्कार)](# "Hemacandra also reads incorrectly ‘Anyalaṅkāra.’")गोचरः।  
+**सामान्यस्तु स्वभावो यः सोऽन्यालङ्कार(सोऽनलङ्कार)[^31]गोचरः।  
 म्लिष्टमर्थमलङ्कर्तुमन्यथा को हि शक्नुयात्॥**
 
+[^31]: "Hemacandra also reads incorrectly ‘Anyalaṅkāra.’"
+
 **वस्तुमात्रानुवादस्तु पूरणैकफलो मतः।**  
-**[अर्थदोषस्स](# "This half is missing in the T.S.S. Edn. and is supplied here from Hemacandra.") दोषज्ञैरपुष्ट इति गीयते॥**
+**अर्थदोषस्स[^32] दोषज्ञैरपुष्ट इति गीयते॥**
+
+[^32]: "This half is missing in the T.S.S. Edn. and is supplied here from Hemacandra."
 
 **p. 109, V.V. T.S.S. Edn.**
 
@@ -2427,7 +2491,9 @@ The commentary on the V. V. does not extend to this section but the following ex
 
 
 
-Svabhāvokti Alaṅkaraṇa. In as much as this Viśiṣṭa Svabhāva is not ‘Siddha’, but is ‘Sādhyamāna’through the play of the poet's Pratibhā, it is Alaṅkāra. The drab matter of fact Svabhāva is out of the scope of any Alaṅkāra. Hence did the previous writers also insist on Jāti being Agrāmya, [Puṣta](# "Cf. Apuṣṭa doṣa and Niralaṅkāra dosa (in cases where the Sāmānya Svabhāva is given) in the Doṣa prakaraṇa of the books."),Cāru and so on. Ruyyaka calls this Sūksma svabhāva and Vidyādhara, Uccais svabhāva. Kuntaka would, however, reply that he is still unanswered; for, to him, it is the Viśiṣṭa svabhāva that forms the Kāvya śarīra and the other Svabhāva is out of account in a discussion in poetics.
+Svabhāvokti Alaṅkaraṇa. In as much as this Viśiṣṭa Svabhāva is not ‘Siddha’, but is ‘Sādhyamāna’through the play of the poet's Pratibhā, it is Alaṅkāra. The drab matter of fact Svabhāva is out of the scope of any Alaṅkāra. Hence did the previous writers also insist on Jāti being Agrāmya, Puṣta[^33] in the Doṣa prakaraṇa of the books."),Cāru and so on. Ruyyaka calls this Sūksma svabhāva and Vidyādhara, Uccais svabhāva. Kuntaka would, however, reply that he is still unanswered; for, to him, it is the Viśiṣṭa svabhāva that forms the Kāvya śarīra and the other Svabhāva is out of account in a discussion in poetics.
+
+[^33]: "Cf. Apuṣṭa doṣa and Niralaṅkāra dosa (in cases where the Sāmānya Svabhāva is given
 
  अनुत्कृष्टधर्मयुक्तस्य वर्णनीयस्य अलङ्करणमप्यसमुचितभित्तिभागोल्लिखितालेख्यवन् न शोभातिशयकारितामावहति। यस्मादत्यन्तरमणीयस्वाभाविकधर्मयुक्तं वर्णनीयवस्तु परिग्रहणीयम्।V. J. III, p. 135.
 
@@ -2527,7 +2593,9 @@ In the Bhā. Pra., Śāradātanaya also gives it as Bhāvika.
 
 
 
-parts or sections of a composition being mutually helpful, avoidance of the needless details, descriptions only at places proper for them— all these are ideas of Aucitya, common in later days but striking in an early writer. All these ideas of Aucitya, flow out of the idea of the poet (*kavibhāva*) and Dr. De finds here a मनाक्स्पर्श (asĀnanda would say)of the aesthetical problemof poetry being the expression of the poet's mind, with which, he adds, western poetics is so much concerned and Sanskrit poetics so [little](# "See his Intro. to V.J., p. xx, Skr. Poetics, II, p. 63, f.n., and Pāṭhak Com. Vol., p. 355.").But what Daṇḍin actually meant by Kavi-abhiprāya can only be conjectured; and the commentators are of little help. It is however clear that Bhāvikatva was in vogue among critics in the pre-Bhāmaha days and that when we come to Bhāmaha and Daṇḍin, already guess-work had started. Daṇḍin's Bhāvika as Kavi-abhiprāya, the mutual helpfulness of parts etc., died with him. No later writer revived it. For the later writers, the Bhāvika was what Bhāmaha gave them through Udbhaṭa.
+parts or sections of a composition being mutually helpful, avoidance of the needless details, descriptions only at places proper for them— all these are ideas of Aucitya, common in later days but striking in an early writer. All these ideas of Aucitya, flow out of the idea of the poet (*kavibhāva*) and Dr. De finds here a मनाक्स्पर्श (asĀnanda would say)of the aesthetical problemof poetry being the expression of the poet's mind, with which, he adds, western poetics is so much concerned and Sanskrit poetics so little[^34].But what Daṇḍin actually meant by Kavi-abhiprāya can only be conjectured; and the commentators are of little help. It is however clear that Bhāvikatva was in vogue among critics in the pre-Bhāmaha days and that when we come to Bhāmaha and Daṇḍin, already guess-work had started. Daṇḍin's Bhāvika as Kavi-abhiprāya, the mutual helpfulness of parts etc., died with him. No later writer revived it. For the later writers, the Bhāvika was what Bhāmaha gave them through Udbhaṭa.
+
+[^34]: "See his Intro. to V.J., p. xx, Skr. Poetics, II, p. 63, f.n., and Pāṭhak Com. Vol., p. 355."
 
  Ubdhaṭa made it a definite Alaṅkāra casting of the adjunct, Prabandha guṇa. He defines it towards the close of the sixth varga, in a single verse :
 
@@ -2542,7 +2610,9 @@ parts or sections of a composition being mutually helpful, avoidance of the need
 
  Pratīhārendurāja occupies an important place in the history of Bhāvika. At his hands the concept reached its widest interpretation. While commenting on Udbhaṭa, he quotes and explains Bhāmaha’s two verses on Bhāvikatva; and Daṇḍin’s explanation— bhāvaḥ kaveḥabhiprāyaḥ— is also found absorbed in Pratīhārendurāja's imaginative exposition of Bhāvika. *‘Vācām anākulya’*in Udbhaṭa and ‘*Śabdānākulatā’*in Bhāmaha are interpreted by him as the quick delivery of the meaning, a quality of the words allied to Prasāda and Arthavyakti; Prasāda and Arthavyakti are to be included here in this Bhāvika and not vice versa, as Ruyyaka adds.
 
- तत्र वाचामनाकुलता व्यस्तसंबन्धरहितलोकप्रसिद्धशब्दोपनिबन्धनात् झगित्यर्थप्रतीतिकारिता। [Pratīhārendu, p. 79](# "Edn. Banhattı, 1925.").
+ तत्र वाचामनाकुलता व्यस्तसंबन्धरहितलोकप्रसिद्धशब्दोपनिबन्धनात् झगित्यर्थप्रतीतिकारिता। Pratīhārendu, p. 79[^35].
+
+[^35]: "Edn. Banhattı, 1925."
 
  \[नाप्ययं शब्दानाकुलत्वहेतुकात् झगित्यर्थसमर्पणात् प्रसादाख्यो गुणःRuyyaka, A.S.\]
 
@@ -2576,7 +2646,9 @@ parts or sections of a composition being mutually helpful, avoidance of the need
  Udbhaṭa's illustration is a verse in which reference is made to a damsel having had (bhūta) collyrium in her eye, and to her future (bhāvi) wearing of ornaments! Pratīhārendu no doubt offers some comments on the illustration but what a far cry from the great concept of aesthetics that Bhāvika is to him and to what is said to be illustrated in this verse!
 
 
-[Mammaṭa](# "Bhāva’ alaṅkara in Rudrata has nothing to do with the Bhāvika of this chapter, which is absent in Rudraṭa.")takes his idea of Bhāvika from Udbhaṭa, but in his definition, he omits two ideas: first, the qualification of things by the attribute अत्यद्भुताःand second, the means, वाचाम् अनुकुल्य. Marmaṭa's illustration is much the same as Udbhaṭa’s: the lover says that he can see that there was collyrium in the lady's eyes and he can imagine also how she will look when she is adorned with ornaments .It is however not the mention in so many ideas and words of the past and future that is meant by Bhāmaha when he says that Bhāvika is the quality which makes the past and future event so vivid as to appear like happening before our very eyes. But through Udbhata, and Mammaṭa also, a great concept of aesthetics fell to the place of a narrow rhetorical figure of a Vākya.
+Mammaṭa[^36]takes his idea of Bhāvika from Udbhaṭa, but in his definition, he omits two ideas: first, the qualification of things by the attribute अत्यद्भुताःand second, the means, वाचाम् अनुकुल्य. Marmaṭa's illustration is much the same as Udbhaṭa’s: the lover says that he can see that there was collyrium in the lady's eyes and he can imagine also how she will look when she is adorned with ornaments .It is however not the mention in so many ideas and words of the past and future that is meant by Bhāmaha when he says that Bhāvika is the quality which makes the past and future event so vivid as to appear like happening before our very eyes. But through Udbhata, and Mammaṭa also, a great concept of aesthetics fell to the place of a narrow rhetorical figure of a Vākya.
+
+[^36]: "Bhāva’ alaṅkara in Rudrata has nothing to do with the Bhāvika of this chapter, which is absent in Rudraṭa."
 
 
 
@@ -2610,7 +2682,9 @@ p. 347. T.S.S. Edn. II.
 
 
 
-then points out that this Bhāvika cannot be mistaken for or included in Bhrāntinān, Atiśayokti, Pratīyamāna Utprekṣā, Kāvyaliṅga, Rasavān and Svabhāvokti. Among these, we shall concern ourselves only with Ruyyaka’s distinction of Bhāvika from the last two, Rasavadalankāra and [Svabhāvokti](# "See the closing section of the previous chapter on Svabhāvokti. Ruyyaka shows how Bhāvika differs from Prasāda guṇa also.").
+then points out that this Bhāvika cannot be mistaken for or included in Bhrāntinān, Atiśayokti, Pratīyamāna Utprekṣā, Kāvyaliṅga, Rasavān and Svabhāvokti. Among these, we shall concern ourselves only with Ruyyaka’s distinction of Bhāvika from the last two, Rasavadalankāra and Svabhāvokti[^37].
+
+[^37]: "See the closing section of the previous chapter on Svabhāvokti. Ruyyaka shows how Bhāvika differs from Prasāda guṇa also."
 
  The gloss on Udbhaṭa published as Tilaka's in the GOS. points out how the Bhāvika would collide with Svabhāvokti and Rasavadalaikāra.
 
@@ -2637,7 +2711,9 @@ are either past or future; and secondly, in the restricted scope of Svabhāvokti
 
 
 
-up the Bhāvika and the Vastu being laukika makes up the [Svabhāvokti](# "As Samudrabandha mistakes in his gloss, pp. 224-5, T.S.S. Edn.").
+up the Bhāvika and the Vastu being laukika makes up the Svabhāvokti[^38].
+
+[^38]: "As Samudrabandha mistakes in his gloss, pp. 224-5, T.S.S. Edn."
 
  क्वचित्तु लौकिकानामपि वस्तूनां स्फुटत्वेन प्रतीतौ भाविकस्वभावोक्त्योः समावेशः स्यात्।pp. 224-5 Ruyyaka, A.S., T.S.S. Edn.
 
@@ -2673,7 +2749,11 @@ up the Bhāvika and the Vastu being laukika makes up the [Svabhāvokti](# "As Sa
 
 THE history of the concept of Rīti has three stages: first, when it was a living geographical mode of literary criticism; second, when it lost the geographical association and came to be stereotyped and standardised with reference to subject; and third, its re-interpretation by Kuntaka, the only Sanskrit Ālaṁkārika, who with his fine literary instinct and originality as evidenced on many other lines also, related the Rīti to the character of the poet and displaced the old Rītis by new ones.
 
- Like national characteristics, there are also provincial characteristics in manners. These are studied by Bharata in the concept of Pravṛtti as part of the complete understanding of the world in its infinite variety, of which Nāṭya is an [Anukāra](# "See my paper on Lokadharmi, JOR., Madras, VIII, pp. 63-64.").The concept of Pravṛtti in manners is Rīti in speech, in literature. Rīti is literary [manner](# "Rājaśekhara works out this relation between Pravṛtti and Rīti in his mythological manner in his Kāvya Puruṣa's marriage with Sāhityavidyā. K. M. Gaek. Edn., pp. 8-9.").We first hear of it in Bāṇa. In the introductory verses at the beginning of his Harṣacarita, Bāṇa remarks that certain parts of the country produce literature marked by certain characteristics.
+ Like national characteristics, there are also provincial characteristics in manners. These are studied by Bharata in the concept of Pravṛtti as part of the complete understanding of the world in its infinite variety, of which Nāṭya is an Anukāra[^39].The concept of Pravṛtti in manners is Rīti in speech, in literature. Rīti is literary manner[^40].We first hear of it in Bāṇa. In the introductory verses at the beginning of his Harṣacarita, Bāṇa remarks that certain parts of the country produce literature marked by certain characteristics.
+
+[^39]: "See my paper on Lokadharmi, JOR., Madras, VIII, pp. 63-64."
+
+[^40]: "Rājaśekhara works out this relation between Pravṛtti and Rīti in his mythological manner in his Kāvya Puruṣa's marriage with Sāhityavidyā. K. M. Gaek. Edn., pp. 8-9."
 
 **श्लेषप्रायमुदीच्येषु प्रतीच्येष्वर्थमात्रकम्।  
 उत्प्रेक्षा दाक्षिणात्येपु गौडेष्वक्षरडम्बरः॥**
@@ -2782,13 +2862,19 @@ Nīlakaṇṭha Dīkṣita in his Śivalīlārṇava, Canto I. 17.
 
 probability, by the representatives of the Gauḍīand so the Gauḍīcame to mean a bad style, with excess of Śabda and Artha Alaṁkāra, poor in idea, hyperbolic and involved in ex-pression. It is this Gauḍīthat is the antithesis in the first pariccheda of the Kāvyādars'a of Daṇḍīn. By this time, the names had not yet become non-geographical; for Daṇḍin often refers only to the people of the east and the south, while referring to the two styles and not, like later writers, to the stereotyped modes of style without any geographical significance.
 
- It is often said that Daṇḍin represents a school called the ‘Guṇa school.’In Bhāmaha, at the beginning of chapter II, we find three Guṇas, Prasāda, Mādhurya and Ojās, the former two going together as features of an Asamāsa-saṅghaṭanāand the third, standing against both Prasāda and Mādhurya, as the Guṇa of Dīrgha-samāsa-saṁghatana. While speaking of the two Mārgas, Bhāmaha mentions Komalatva, Śruti peśalatva, and Prasannatva regarding the Vaidarbhī; and while commending the good Gauḍī, he says that it must be Anākula, which means that there must not be very long compounds. Besides this implied and traceable connection between the Guṇas and the two Mārgas, there is no definite mention, in Bhāmaha, of Guṇas as the constituting elements of a Mārga. Daṇḍin ex-pounds in the first chapter the Vaidarbha Mārga which was considered the best style. It was so considered because of the presence in it of ten Guṇas which constitute its life. Daṇḍin *generally* says that the reverses of these ten Guṇas are seen in the Gauḍīwhich means bad poetry. A critical examination of these ten Guṇas has been made elsewhere by the present [writer.](# "See my thesis Bhoja's Śṛṅgāra Prakāśa, Vol. I, Part 2, Ch. on History of Guṇas, pp. 282-293.")Suffice it here to point out that some
+ It is often said that Daṇḍin represents a school called the ‘Guṇa school.’In Bhāmaha, at the beginning of chapter II, we find three Guṇas, Prasāda, Mādhurya and Ojās, the former two going together as features of an Asamāsa-saṅghaṭanāand the third, standing against both Prasāda and Mādhurya, as the Guṇa of Dīrgha-samāsa-saṁghatana. While speaking of the two Mārgas, Bhāmaha mentions Komalatva, Śruti peśalatva, and Prasannatva regarding the Vaidarbhī; and while commending the good Gauḍī, he says that it must be Anākula, which means that there must not be very long compounds. Besides this implied and traceable connection between the Guṇas and the two Mārgas, there is no definite mention, in Bhāmaha, of Guṇas as the constituting elements of a Mārga. Daṇḍin ex-pounds in the first chapter the Vaidarbha Mārga which was considered the best style. It was so considered because of the presence in it of ten Guṇas which constitute its life. Daṇḍin *generally* says that the reverses of these ten Guṇas are seen in the Gauḍīwhich means bad poetry. A critical examination of these ten Guṇas has been made elsewhere by the present writer.[^41]Suffice it here to point out that some
+
+[^41]: "See my thesis Bhoja's Śṛṅgāra Prakāśa, Vol. I, Part 2, Ch. on History of Guṇas, pp. 282-293."
 
 
 
-Guṇas are given by Daṇḍin himself as excellences of both [Mārgas](# "Dr. S. K. De wrongly says in his Skr. Poetics II, p. 100: “The ten Guṇas are non-existent in the Gauḍa.").
+Guṇas are given by Daṇḍin himself as excellences of both Mārgas[^42].
 
- Daṇḍin mentions the ten Guṇas as the life not of poetry as such, but of the style called Vaidarbhī. If, on the basis of Daṇḍin's formulation of Guṇas, one says that he belongs to the Guṇa school, one can as well say that Daṇḍin belongs to the Rīti school. Really Daṇḍin belongs to the Alaṁkāra school, much more than Bhāmaha. For, to Daṇḍin, Guṇas, Rasas, Sandhyaṅga, Vṛttyaṅga, Lakṣaṇa,— all are Alaṁkāra. Apart from the word poetry, there is only one word for Daṇḍin, viz., Alaṁkāra. The full development of Daṇḍin, as well as of Bhāmaha, is seen in two directions in Bhoja and [Kuntaka](# "See my Bhoja's Śṛigāra Prakāśa, Vol. I. Part 1, p. 123; Part 2, p. 417.").
+[^42]: "Dr. S. K. De wrongly says in his Skr. Poetics II, p. 100: “The ten Guṇas are non-existent in the Gauḍa."
+
+ Daṇḍin mentions the ten Guṇas as the life not of poetry as such, but of the style called Vaidarbhī. If, on the basis of Daṇḍin's formulation of Guṇas, one says that he belongs to the Guṇa school, one can as well say that Daṇḍin belongs to the Rīti school. Really Daṇḍin belongs to the Alaṁkāra school, much more than Bhāmaha. For, to Daṇḍin, Guṇas, Rasas, Sandhyaṅga, Vṛttyaṅga, Lakṣaṇa,— all are Alaṁkāra. Apart from the word poetry, there is only one word for Daṇḍin, viz., Alaṁkāra. The full development of Daṇḍin, as well as of Bhāmaha, is seen in two directions in Bhoja and Kuntaka[^43].
+
+[^43]: "See my Bhoja's Śṛigāra Prakāśa, Vol. I. Part 1, p. 123; Part 2, p. 417."
 
  In poetic expression there is always a finally analysable scheme of two definite styles, the simple and the grandiloquent, the plain and the elevated, the unadorned and the figurative. In the former, natural description of emotion, men and things is given with minimum artificial decoration. Svabhāvokti and Rasokti, to borrow Bhoja's classification, predominate in it. Colour, ornament,— Vakrokti dominates the latter. These two correspond to Daṇḍin's two styles; only the Gauḍī is Vakrokti run riot. Kuntaka's Sukumāra Mārga, which emphasises Vakrokti less, belongs to the former class. Kuntaka's Vicitra mārga marks an emphasis on the Vaicitrya that Vakrokti imparts. Aristotle also gives only two styles, the good and the bad, the good being so by any sort of virtue, i.e., good not only because of virtues of simplicity, elegance etc., but by virtues of vigour etc., also. His bad
 
@@ -2802,7 +2888,9 @@ style is the frigid style, resembling exactly Daṇḍin's Gauḍī, a style whi
 
 one and an objective one, in relation to the poet and in relation to theme; and that this is true of the English Style also, as can be seen from its history in western literary criticism from Aristotle downwards. Actually, certain western writers find it not only possible but quite sensible and useful too, not only to classify style into a certain number of styles but also to relate these classified and standardized styles to subject or theme.
 
- As observed above, though Bhāmaha does not definitely give in so many words the relation of Guṇas and Rīti, we can clearly see that his verses imply the theory of Rīti as based on the Guṇas. For he speaks of Komalatva, Prasannatva and Śrutipeśalatva regarding the Vaidarbhī. But Bhāmaha does not stop here. He speaks further of Arthapoṣa, Vakrokti, Arthyatva, Nyāyyatva and Anākulatva as features of a style of acceptable poetry. Certainly these are comprehensive features and stand for the very complete manner of writing. When we analyse Daṇḍin, we see that not only Guṇas but Alaṅkaras also go to distinguish the Rītis. He says that the Gauḍa mārga is characterised by Anuprāsa which is a Śabdālaṁkāra. The flaw of Śaithilya, the [reverse](# "In his article on the GaudīRīti in Theory and Practise in I.H.Q., III, 1927, Mr. Sivaprasad Bhattacharya renders ‘Viparyaya’ as misconception about or misapplication of the essentials of style.")of the Śleṣa of the Vaidarbhī, is a result of Anuprāsa.
+ As observed above, though Bhāmaha does not definitely give in so many words the relation of Guṇas and Rīti, we can clearly see that his verses imply the theory of Rīti as based on the Guṇas. For he speaks of Komalatva, Prasannatva and Śrutipeśalatva regarding the Vaidarbhī. But Bhāmaha does not stop here. He speaks further of Arthapoṣa, Vakrokti, Arthyatva, Nyāyyatva and Anākulatva as features of a style of acceptable poetry. Certainly these are comprehensive features and stand for the very complete manner of writing. When we analyse Daṇḍin, we see that not only Guṇas but Alaṅkaras also go to distinguish the Rītis. He says that the Gauḍa mārga is characterised by Anuprāsa which is a Śabdālaṁkāra. The flaw of Śaithilya, the reverse[^44]of the Śleṣa of the Vaidarbhī, is a result of Anuprāsa.
+
+[^44]: "In his article on the GaudīRīti in Theory and Practise in I.H.Q., III, 1927, Mr. Sivaprasad Bhattacharya renders ‘Viparyaya’ as misconception about or misapplication of the essentials of style."
 
 **अनुप्रासघिया गौडैस्तदिष्टं बन्धगौरवात्। I. 44.**
 
@@ -2876,7 +2964,9 @@ any parts of the country which their names refer to. Rudraṭa relates them to t
 **वैदर्भीपाञ्चाल्यौ प्रेयसि करुणे भयानकाद्भुतयोः।  
 लाटीयागौडीये रौद्रे कुर्याद्यथौचित्यम्॥**
 
- While tracing the history of Rīti, we can clearly see how no writer ever missed the idea that the Vaidarbhīstood for a certain sweetness while the Gauḍīwas characterised by force and vigour. When the geographical significance of the Vaidarbhas alone favouring sweetness and its allied Guṇas and the Gauḍas alone practising Akṣaraḍambara, Ojas etc., was lost, and all the Rītis were practised by all poets of all places, the sweetness of the one and the vigour of the other were thought of in connection with the theme by the same poet who commanded both ways of writing. Visaya-aucitya began to regulate the nature of Rīti in the several parts of a poem. The Rasas and the Arthas pertaining thereto have their own quality of sweetness, vigour etc. These were studied by Bharata, and by others following him, in the concept of Vṛtti.The Vṛtti was applied from Drama to [poetry](# "See below chapter on the history of Vṛtti in Kāvya.").Kaiśikī is the Vṛtti of Śṛṅgāra and Ārabhaṭī of Raudra, Vīra, Bhayānaka and Bībhatsa Rasas. To this Vṛtti, the Rīti came to be related. The sweetness and delicateness associated with the Vaidarbhī made it possible to link it to the Kasikī Vṛtti and the Śṛngāra Rasa. Śṛṅgāra, Kaśikī Vṛtti and the Vaidarbhī Rīti went together always. The Gauḍīeasily linked itself to Ārabhaṭī Vṛtti and Rasas like Raudra. The Pāñcāli and the Lāṭīya occupied middling positions, the former leaning more to the Vaidarbhīand the latter more to the Gauḍī. Thus the emotional situation came to determine the mode of expression. Hence
+ While tracing the history of Rīti, we can clearly see how no writer ever missed the idea that the Vaidarbhīstood for a certain sweetness while the Gauḍīwas characterised by force and vigour. When the geographical significance of the Vaidarbhas alone favouring sweetness and its allied Guṇas and the Gauḍas alone practising Akṣaraḍambara, Ojas etc., was lost, and all the Rītis were practised by all poets of all places, the sweetness of the one and the vigour of the other were thought of in connection with the theme by the same poet who commanded both ways of writing. Visaya-aucitya began to regulate the nature of Rīti in the several parts of a poem. The Rasas and the Arthas pertaining thereto have their own quality of sweetness, vigour etc. These were studied by Bharata, and by others following him, in the concept of Vṛtti.The Vṛtti was applied from Drama to poetry[^45].Kaiśikī is the Vṛtti of Śṛṅgāra and Ārabhaṭī of Raudra, Vīra, Bhayānaka and Bībhatsa Rasas. To this Vṛtti, the Rīti came to be related. The sweetness and delicateness associated with the Vaidarbhī made it possible to link it to the Kasikī Vṛtti and the Śṛngāra Rasa. Śṛṅgāra, Kaśikī Vṛtti and the Vaidarbhī Rīti went together always. The Gauḍīeasily linked itself to Ārabhaṭī Vṛtti and Rasas like Raudra. The Pāñcāli and the Lāṭīya occupied middling positions, the former leaning more to the Vaidarbhīand the latter more to the Gauḍī. Thus the emotional situation came to determine the mode of expression. Hence
+
+[^45]: "See below chapter on the history of Vṛtti in Kāvya."
 
 
 
@@ -2905,7 +2995,9 @@ Bhoja treats of Rītis and Vittis under Anubhāva. The Vṛtti differs from Rīt
 
 Śiṅgabhūpāla defines Rīti as Pada-vinyāsa-bhaṅgī, and has three Rītis Komalā, Kaṭhināand Miśrā,— other names of Vaidarbhī, Gauḍīand Pāñcālī. A late work called Śṛṅgārasāra (MadrasMS.) follows Śiṅgaphūpāla completely, defines Rīti as Pada-vinyāsabhaṅgī, accepts three varieties of it, Vaidarbhī, Gauḍī and Pāñcālī, which it calls Komalā, Kathinā and Miśrā.
 
- Rājaśekhara's main chapter, the third, on Rīti, called Rītinirṇaya, is lost. Still we gather some of his ideas on Rīti in his description of the legendary Kāvyapuruṣa's Avatāra in the beginning of his Kāvya mīmāmsā, as also from his dramas. In his Kāvyamīmāmsā, Rājaśekhara speaks of three Rītis in the description of which he introduces a new distinguishing feature, viz., the use of Yogavṛtti in abundance, the same to a less extent, and the use of Upacāra. These are the features Rājaśekhara attributes to the [three](# "Vide my article on Rīti and Guṇa in the Agni Purāṇa in I.H.Q. X, iv, 767-779.") :  
+ Rājaśekhara's main chapter, the third, on Rīti, called Rītinirṇaya, is lost. Still we gather some of his ideas on Rīti in his description of the legendary Kāvyapuruṣa's Avatāra in the beginning of his Kāvya mīmāmsā, as also from his dramas. In his Kāvyamīmāmsā, Rājaśekhara speaks of three Rītis in the description of which he introduces a new distinguishing feature, viz., the use of Yogavṛtti in abundance, the same to a less extent, and the use of Upacāra. These are the features Rājaśekhara attributes to the three[^46] :  
+
+[^46]: "Vide my article on Rīti and Guṇa in the Agni Purāṇa in I.H.Q. X, iv, 767-779."
 
 
 |                 |            |               |
@@ -2949,8 +3041,10 @@ P. 3. K. M. Edn.
 
 **(c) यत्क्षेमं त्रिदिवाय वर्त्म, निगमस्याङ्गं च यत्सप्तमं,  
 स्वादिष्ठं च यदैक्षवादपि रसात्, चक्षुश्च यद्वाङ्मयम्।  
-तद्यस्मिन्मधुरं प्रसादि रसवत् [कान्तं](# "It is not known if by this word Kānta, Rājaśekhara means the guṇa Kānti in Daṇḍin or uses it only in a general manner.") च काव्यामृतं  
+तद्यस्मिन्मधुरं प्रसादि रसवत् कान्तं[^47] च काव्यामृतं  
 सोऽयं सुभ्रुपुरो विदर्भविषयःसारस्वतीजन्मभूः॥ X. 74.**
+
+[^47]: "It is not known if by this word Kānta, Rājaśekhara means the guṇa Kānti in Daṇḍin or uses it only in a general manner."
 
  Dhanapāla (first half of the 11th cent.) says in the Tilakamāñjarī
 
@@ -3030,7 +3124,9 @@ The country of Mithila is nowhere mentioned in connection with the Rītis, excep
 
 
 
-From this remark of Śrīpāda, we understand that the Maithilī is the [Māgadhī](# "It may be suggested that the mention of Māgadhīis due to the author being a Buddhist; Buddha spoke in Māgadhībhāṣā."),the Māgadhīwhich, along with the Pāñcālī and the Vaidarbhī(Vacchomī), is mentioned by Rājaśekhara in his maṅgalaśloka to the Karpūramañjarī. Bhoja's Sarasvatīkaṇṭhābharaṇa gives an absurd definition of Māgadhī as a Khaṇḍarīti, formed when the Rīti begun is left off! पूर्वरीतेःअनिर्वाहः खण्डरीतिस्तु मागधी।This Māghadhīmay or may not have been mentioned in the lost Rīti chapter of the Kāvyamīmāmsā. But in the available portion, Rājaśekhara accepts only three Rītis and they are the Vaidarbhī, Gauḍīyā and Pāñcālī. He says again on p. 31, of his K. M.:
+From this remark of Śrīpāda, we understand that the Maithilī is the Māgadhī[^48],the Māgadhīwhich, along with the Pāñcālī and the Vaidarbhī(Vacchomī), is mentioned by Rājaśekhara in his maṅgalaśloka to the Karpūramañjarī. Bhoja's Sarasvatīkaṇṭhābharaṇa gives an absurd definition of Māgadhī as a Khaṇḍarīti, formed when the Rīti begun is left off! पूर्वरीतेःअनिर्वाहः खण्डरीतिस्तु मागधी।This Māghadhīmay or may not have been mentioned in the lost Rīti chapter of the Kāvyamīmāmsā. But in the available portion, Rājaśekhara accepts only three Rītis and they are the Vaidarbhī, Gauḍīyā and Pāñcālī. He says again on p. 31, of his K. M.:
+
+[^48]: "It may be suggested that the mention of Māgadhīis due to the author being a Buddhist; Buddha spoke in Māgadhībhāṣā."
 
  तन्मानुषमिति व्यपदिशन्ति। तच्च त्रिधा रीतित्रयभेदेन । तदाहुः—
 
@@ -3206,7 +3302,9 @@ The three styles thus indicated by him are the graceful, the striking and the mi
 
  The main feature of this style is that whatever beauty it possesses is all natural, Sahaja; poetic genius and imagination and not pure craftsmanship and scholarship form the basis of this style. The things of the world and Rasa and Bhāva are given in all the beauty of their very nature and this first-instance-expression is not refashioned in the workshop of figure.
 
- That such a definition of style is all-comprehensive need not be pointed out. But Kuntaka also speaks of certain Guṇas as characterising his Mārgas. Of the Sukumāra Mārga he says, Mādhurya is the first Guṇa. It is defined as the un-compounded use of words and a certain grace of the Śabda and Artha—पदानामसमस्तत्वं and शब्दार्थरमणीयतया विन्यासवैचित्र्यम्. The insistence on Mādhurya as the use of [Asamastapadas](# "Cf. Vāmana, III, i. 20. पृथक्पदत्वं माधुर्यम्। ...समासदैर्घ्यनिनिवृत्तिपरं चैतत् । p. 79. V. V. Press Edn.")is for securing clarity of the idea. The words of emphasis, heightenings and lowerings, in a sentence can have their point only if the words remain separate; their emphasis is lost when they are huddled into a compound. Samāsa always hampers understanding. Says Mahimabhaṭṭa:
+ That such a definition of style is all-comprehensive need not be pointed out. But Kuntaka also speaks of certain Guṇas as characterising his Mārgas. Of the Sukumāra Mārga he says, Mādhurya is the first Guṇa. It is defined as the un-compounded use of words and a certain grace of the Śabda and Artha—पदानामसमस्तत्वं and शब्दार्थरमणीयतया विन्यासवैचित्र्यम्. The insistence on Mādhurya as the use of Asamastapadas[^49]is for securing clarity of the idea. The words of emphasis, heightenings and lowerings, in a sentence can have their point only if the words remain separate; their emphasis is lost when they are huddled into a compound. Samāsa always hampers understanding. Says Mahimabhaṭṭa:
+
+[^49]: "Cf. Vāmana, III, i. 20. पृथक्पदत्वं माधुर्यम्। ...समासदैर्घ्यनिनिवृत्तिपरं चैतत् । p. 79. V. V. Press Edn."
 
 **विनोत्कर्षापकर्षाभ्यां स्वदन्तेऽर्था न जातुचित्।  
 तदर्थमेव कवयोऽलङ्कारान्पर्युपासते॥**
@@ -3222,7 +3320,11 @@ The three styles thus indicated by him are the graceful, the striking and the mi
 **सम्बन्धमात्रमर्थानां समासो ह्यवबोधयेत्।  
 नोत्कर्षमपकर्षेवा— v. V., P.53.**
 
- The next Guṇa of the Sukumāra Mārga is Prasāda, the quality by virtue of which the idea is given to us without any difficulty. This Prasāda refers to both Rasa and the idea or Artha which forms its vehicle. The idea may be expressed with Vakratā to give point to it but such turn or deviation adopted should not obscure the idea or take it into the [dark](# "V. J., I. 31.").Here also the use of the uncompounded words and words of which meanings are well known, पदानाम् असमस्तत्वम् and [प्रसिद्धाभिधानत्वम्,](# " Cf. Daṇḍin. प्रसादवत्प्रसिद्धार्थम्and Bhāmaha, II. 1. माधुर्यमभिवाञ्छन्तः प्रसादं च सुमेधसः।समासवन्ति भूयांसि न पदानि प्रयुञ्जते॥")are the primary means. The third Guṇa is Lāvaṇya, which refers more to the Śabdas and the Varṇas, which should have an indescribable beauty floating over them. Any kind of Śabdālaṁkāra adopted for this purpose should have been done with ease and done with moderation. Ere the words as messengers of ideas deliver their meanings to the mind, their Lāvaṇya affects the sensibilities of the responsive reader. Similar in nature and borrowed from the same field is the fourth Guṇa given by Kuntaka, Ābhijātya. A certain softness of texture and delicateness of words making the mind feel them form this quality of Ābhijātya, a quality pre-eminently realisable only by the Sahṛdaya and hardly describable in so many words.
+ The next Guṇa of the Sukumāra Mārga is Prasāda, the quality by virtue of which the idea is given to us without any difficulty. This Prasāda refers to both Rasa and the idea or Artha which forms its vehicle. The idea may be expressed with Vakratā to give point to it but such turn or deviation adopted should not obscure the idea or take it into the dark[^50].Here also the use of the uncompounded words and words of which meanings are well known, पदानाम् असमस्तत्वम् and प्रसिद्धाभिधानत्वम्,[^51]are the primary means. The third Guṇa is Lāvaṇya, which refers more to the Śabdas and the Varṇas, which should have an indescribable beauty floating over them. Any kind of Śabdālaṁkāra adopted for this purpose should have been done with ease and done with moderation. Ere the words as messengers of ideas deliver their meanings to the mind, their Lāvaṇya affects the sensibilities of the responsive reader. Similar in nature and borrowed from the same field is the fourth Guṇa given by Kuntaka, Ābhijātya. A certain softness of texture and delicateness of words making the mind feel them form this quality of Ābhijātya, a quality pre-eminently realisable only by the Sahṛdaya and hardly describable in so many words.
+
+[^50]: "V. J., I. 31."
+
+[^51]: " Cf. Daṇḍin. प्रसादवत्प्रसिद्धार्थम्and Bhāmaha, II. 1. माधुर्यमभिवाञ्छन्तः प्रसादं च सुमेधसः।समासवन्ति भूयांसि न पदानि प्रयुञ्जते॥"
 
 
 
@@ -3231,7 +3333,9 @@ The three styles thus indicated by him are the graceful, the striking and the mi
 **अलंकारस्य कवयो यत्रालङ्करणान्तरम्।  
 असन्तुष्टा निबध्नन्ति हारादेर्मणिबन्धवत्॥ V. J., I. 35,**
 
-A style which reminds us of Vālmiki's description of Rāvaṇa's Puṣpaka —‘न तत्र किञ्चिन्न कृतं प्रयत्नतः’and ‘ततस्ततस्तुल्यविशेषदर्शनम्’, every bit worked with care and craft and at every step equally striking with some [speciality](# "Adopting a Sanskritic comparison, we can say that the Sukumāra Mārga is like the beautiful Kulāṅganā, and the Vicitra Mārga like the brilliant Gaṇikā.").The description of this Mārga also, as made by Kuntaka, is all comprehensive, referring to every aspect of expression. (V. J.,1, 34-43, pp. 56-66).
+A style which reminds us of Vālmiki's description of Rāvaṇa's Puṣpaka —‘न तत्र किञ्चिन्न कृतं प्रयत्नतः’and ‘ततस्ततस्तुल्यविशेषदर्शनम्’, every bit worked with care and craft and at every step equally striking with some speciality[^52].The description of this Mārga also, as made by Kuntaka, is all comprehensive, referring to every aspect of expression. (V. J.,1, 34-43, pp. 56-66).
+
+[^52]: "Adopting a Sanskritic comparison, we can say that the Sukumāra Mārga is like the beautiful Kulāṅganā, and the Vicitra Mārga like the brilliant Gaṇikā."
 
  Though Kuntaka has indicated two major varieties of style, he is fully aware that style is not classifiable. He says that Mārga or style is infinite in variety and subtle in difference; for it is based on the poet's nature.
 
@@ -3310,15 +3414,21 @@ THE Alaṅkāra section in the Agni Purāṇa is a hopelessly loose heaping of a
 
 next chapter deals with drama. The third is completely devoted to Rasa and from this third chapter up to Śloka 17 of the sixth chapter, the subject dealt with is Rasa. For, the fourth which speaks of Rītis and Vṛttis, deals with Buddhyārambha-Anubhāvas; the fifth which is called नृत्त्यादौ अङ्गकर्म निरुपणम् deals with Śarīrārambha Anubhāvas, such as the Alaṅkāras of the Ālambanas in the shape of damsels, the glances etc.; and the first part of the sixth again deals with Rasa. The rest of the sixth, and the seventh treat of Śabdā-laṅkāra and are followed by the eighth speaking of Arthā-laṅkāra. Chapter 345 describes Ubhayālaṅkāra, chapter 346, Guṇas and the last chapter (347), Doṣas,
 
- Vṛtti is Ceṣṭāand Pravrtti is Veṣa or Āhārya. Rīti is Vacana or [speech](# "See my article on Vṛttis in JOR., Madras, vol. VI, part 4:vol. VII, parts 1 and 2").Says Rājaśekhara, and following him Bhoja also in his Śr. Pra. :
+ Vṛtti is Ceṣṭāand Pravrtti is Veṣa or Āhārya. Rīti is Vacana or speech[^53].Says Rājaśekhara, and following him Bhoja also in his Śr. Pra. :
+
+[^53]: "See my article on Vṛttis in JOR., Madras, vol. VI, part 4:vol. VII, parts 1 and 2"
 
  तत्र वेषविन्यासक्रमः प्रवृत्तिः, विलासविन्यासक्रम वृत्तिः, वचनविन्यासक्रमः रीतिः। (K. M., p. 9)
 
- Vṛtti is dramatic action as such and one of its varieties is Bhāratī which however, being speech, is the Vācikābhinaya which is examined from the point of view of various Rītis. Āhārya is invariably Nepathya, dress and make-up. No doubt, it forms a part of Vitti, even as Rīti forms a part of Vṛtti. We find the graceful dress included in the definition of the Kaiśikīvṛtti— या श्लक्ष्णनेपथ्यetc. In graceful action, graceful dress also is comprehended. Therefore Vṛtti and Pravṛtti are intimately related, as Shakespeare also says, ‘apparel oft proclaims the man.’As the Viṣnudharmottara says, Pravṛttis are [वृत्तीनामाश्रयाः](# "Vide JOR., Madras, vol. VII, part. I, pp. 49-51.")।Āhārya which is dress, is Pravṛtti-Veṣavinyāsa.
+ Vṛtti is dramatic action as such and one of its varieties is Bhāratī which however, being speech, is the Vācikābhinaya which is examined from the point of view of various Rītis. Āhārya is invariably Nepathya, dress and make-up. No doubt, it forms a part of Vitti, even as Rīti forms a part of Vṛtti. We find the graceful dress included in the definition of the Kaiśikīvṛtti— या श्लक्ष्णनेपथ्यetc. In graceful action, graceful dress also is comprehended. Therefore Vṛtti and Pravṛtti are intimately related, as Shakespeare also says, ‘apparel oft proclaims the man.’As the Viṣnudharmottara says, Pravṛttis are वृत्तीनामाश्रयाः[^54]।Āhārya which is dress, is Pravṛtti-Veṣavinyāsa.
+
+[^54]: "Vide JOR., Madras, vol. VII, part. I, pp. 49-51."
 
 
 
-These three, Rīti, Vṛtti and Pravṛtti (speech, action and dress) are all Anubhāvas, and are classed as बुद्ध्यारम्भानुभावाःby Bhoja in chapter XVII of his Śṛṅgāra [Prakāsa.](# "pp. 208-236, vol. III, Mad. MS.; vide also Śāradātanaya who follows Bhoja. Bhã. Pra., pp. 11-12")Śiṅgabhūpāla also follows Bhoja and says in his RAS., I, p. 64:
+These three, Rīti, Vṛtti and Pravṛtti (speech, action and dress) are all Anubhāvas, and are classed as बुद्ध्यारम्भानुभावाःby Bhoja in chapter XVII of his Śṛṅgāra Prakāsa.[^55]Śiṅgabhūpāla also follows Bhoja and says in his RAS., I, p. 64:
+
+[^55]: "pp. 208-236, vol. III, Mad. MS.; vide also Śāradātanaya who follows Bhoja. Bhã. Pra., pp. 11-12"
 
 **बुद्ध्यारम्भास्तथा प्रोक्ताः रीतिवृत्तिप्रवृत्तयः।**
 
@@ -3330,7 +3440,9 @@ These three, Rīti, Vṛtti and Pravṛtti (speech, action and dress) are all An
  The Buddhyārambhas, Rīti, Vṛtti and Pravṛtti, form the subject-matter of the next chapter (ch. 340). In ch. 339, śls. 44-45 begins the treatment of Anubhāvas :
 
 **मनो-बाग्-बुद्धि वपुषां स्मृतीच्छाद्वेषयत्नतः।  
-आरम्भ एव विदुषाम् अनुभाव इति [स्मृतः](# "See Bhoja. SKA., V, ŚI. 40, p. 477.")॥**
+आरम्भ एव विदुषाम् अनुभाव इति स्मृतः[^56]॥**
+
+[^56]: "See Bhoja. SKA., V, ŚI. 40, p. 477."
 
  Śls. 46-50 describe मन आरम्भानुभावाः, śls. 51-53 (first half), द्वादश वागारम्भाः,śls. 53 (second half), 54 and ch. 340 describe बुद्ध्यारम्भाःand ch. 341, as is said in its first verse, describes शरीरारम्भाःIThese are all Anubhāvas and are called Abhinayas. From the point of view of the four kinds of Abhinaya, these are re-distributed and the study of Anubhāvas closes with śl. 2 of ch. 342, after which some general aspects of Rasa are taken up. Vāgārambha is Vācika; Manaārambha is Sāttvika (Sattva=manas; अनुपहतं हि मनः सत्त्वमुच्यतेsays Bhoja in his Śṛ. Pra., ch. XI) ; Śarīrārambha is Āṅgika
 
@@ -3374,7 +3486,9 @@ Kāvya is drama of the Bhāratī Vṛtti. That वागारम्भ and the 
 
 
 
-dealt with by Daṇḍin only in chapter I as comprehended in his Mādhurya Guṇa of one variety pertaining to Śabda (for, of the other Mādhurya of Agrāmytā, we have the two sub-divisions of Śābda and Ārtha) and not in the chapter on Śabdālaṅkāra, a fact which has misled Mr. K. S. Ramaswamy [Sastri](# "See his Sanskrit Introduction to his edition of Udbhaṭa's K.A.S.S. with Tilaka's commentary in the Gaek. series (p. 19).")to say that Anuprāsa Śabdālaṅkāra is absent from Daṇḍin. Even Yamaka is touched here by Daṇḍin but is left out for special treatment in the Śabdālaṅkāra section. And what is this Śabda Mādhurya of Daṇḍin, viz. Anuprāsa, except Śabdālaṅkāra? When we come to Vāmana, we have even Rası coming in as constituting the Guṇa of Kānti of Artha, in the study of Rīti. Therefore it cannot be said simply and naively that some absolute entity called Guṇa, which is quite different from Alaṅkara etc. defines Rīti in Daṇḍin and that other writers and their definitions of Rītis in other words and other ways differ wholly from Daṇḍin's.
+dealt with by Daṇḍin only in chapter I as comprehended in his Mādhurya Guṇa of one variety pertaining to Śabda (for, of the other Mādhurya of Agrāmytā, we have the two sub-divisions of Śābda and Ārtha) and not in the chapter on Śabdālaṅkāra, a fact which has misled Mr. K. S. Ramaswamy Sastri[^57].")to say that Anuprāsa Śabdālaṅkāra is absent from Daṇḍin. Even Yamaka is touched here by Daṇḍin but is left out for special treatment in the Śabdālaṅkāra section. And what is this Śabda Mādhurya of Daṇḍin, viz. Anuprāsa, except Śabdālaṅkāra? When we come to Vāmana, we have even Rası coming in as constituting the Guṇa of Kānti of Artha, in the study of Rīti. Therefore it cannot be said simply and naively that some absolute entity called Guṇa, which is quite different from Alaṅkara etc. defines Rīti in Daṇḍin and that other writers and their definitions of Rītis in other words and other ways differ wholly from Daṇḍin's.
+
+[^57]: "See his Sanskrit Introduction to his edition of Udbhaṭa's K.A.S.S. with Tilaka's commentary in the Gaek. series (p. 19
 
  The Agni Purāṇa borrows its definitions of the Rītis from Bhoja, (chapter XVII, on Anubhāvas, in the Śṛ. Pra.), where Bhoja himself borrows from Rājaśekhara. Later than these, Bahurūpa Miśra, in his commentary on the Daśarūpaka, (Mad. MS.) reproduces these definitions of the Rītis with the mention of Bhoja's name. The Kāvya Mīmāmsā says:
 
@@ -3422,8 +3536,10 @@ and it means that the Lāṭīyādoes not have too much of metaphorical expressi
 
  Thus the characteristics which are given in the definitions of Rītis in Rājas'ekhara**,** Bhoja and the Agni Purāna are not wholly unrelated to Guṇas and these Guṇas themselves are not certain absolute entities standing apart**.** The Upacāra is Daṇḍin**’**s Samādhi and the feature of Vigraha or Samāsa comes under Daṇḍin**’**s Ojas**.** Therefore it cannot be held that
 
-** “**the Rītis in the Purāṇa have not been distinguished from one another by the presence or absence of certain poetic excellences (Guṇas)[-**”**](# "See also my S'ṛṅgara Prakās'a, vol. Ī, pt.Ī, pp. 198-9.")
+** “**the Rītis in the Purāṇa have not been distinguished from one another by the presence or absence of certain poetic excellences (Guṇas)-**”**[^58]
 
+
+[^58]: "See also my S'ṛṅgara Prakās'a, vol. Ī, pt.Ī, pp. 198-9."
 
 
 **THE HISTORY OF VṚTTI IN KĀVYA**
@@ -3503,9 +3619,11 @@ and अर्थवृत्तिamong Kais'ikyādivṛttis themselves**.** Bh�
 
 **केपाञ्चिदेता वैदर्भीप्रमुखा रीतयो मताः।IX. 3-4.**
 
- एतास्तिस्रो वृत्तयो वामनादीनां मते वैदर्भी गोडीया पाञ्चाल्याख्या रीतय उच्यन्ते। [K. Pra. IX.](# "See above ch. on Riti, pp. 146-7.")
+ एतास्तिस्रो वृत्तयो वामनादीनां मते वैदर्भी गोडीया पाञ्चाल्याख्या रीतय उच्यन्ते। K. Pra. IX.[^59]
 
 एतेन रीतयो वृत्त्यात्मका इत्यर्थः। Māṇikyacandra.
+
+[^59]: "See above ch. on Riti, pp. 146-7."
 
  Hemacandra quotes and completely follows Mammaṭa**.** K. A. p. 204. He however does not treat of these three Vṛttis**,** which are the same as the three Rītis**,** in the Śabdālankāra section**,** but**,** with a slight improvement treats of them in the Guṇa section**.** Therefore he does not consider these three Vṛttis as Anuprāsa Jātis but merely as three kinds of Varna Saṅghaṭanā**.**
 
@@ -3555,7 +3673,9 @@ derived from Nāṭya, Kaiśikīetc. and hold them, as Ānandavardhana did, as t
 
 
 
-Vidyānātha we find that Bhārāti leans to Kaiśikī as. ईषन्मृद्वर्थand Sāttvatī to the Ārabhaṭīas [ईषत्प्रौढार्थ](# "Such change in their import could not be avoided; for these two cannot come into Kāvya with as much ease and propriety as Kaiśhikīand Ārabhaṭī."). Vidyānātha also assigns these four to the Rasas thus : Śṛṅgāra and Karuṇa — Kniśikī; Raudra and Bībhatsa— Ārabhaṭī: Hāsya, Śānta and Adbhuta— Bhāratīand Vīra and Bhayānaka— Sāttvatī. Vidyānātha accepts Bhoja's two additional Vṛttis also and considers them as the Vṛttis of all Rasas. Vide pp. 43-45. Prat. Yaś. Bhūṣ. Bālamanoramāedn.).
+Vidyānātha we find that Bhārāti leans to Kaiśikī as. ईषन्मृद्वर्थand Sāttvatī to the Ārabhaṭīas ईषत्प्रौढार्थ[^60]. Vidyānātha also assigns these four to the Rasas thus : Śṛṅgāra and Karuṇa — Kniśikī; Raudra and Bībhatsa— Ārabhaṭī: Hāsya, Śānta and Adbhuta— Bhāratīand Vīra and Bhayānaka— Sāttvatī. Vidyānātha accepts Bhoja's two additional Vṛttis also and considers them as the Vṛttis of all Rasas. Vide pp. 43-45. Prat. Yaś. Bhūṣ. Bālamanoramāedn.).
+
+[^60]: "Such change in their import could not be avoided; for these two cannot come into Kāvya with as much ease and propriety as Kaiśhikīand Ārabhaṭī."
 
  The KaiśikīVṛtti goes with the Vaidarbhī Rīti; the Ārabhaṭīwith the Gauḍī; the former pair is characterised by sweetness and delicacy while the latter, by force and energy. Murāri thus couples the Kaiśikī Vṛtti and the Vaidarbhī Rīti:
 
@@ -3603,7 +3723,9 @@ Vidyānātha we find that Bhārāti leans to Kaiśikī as. ईषन्मृद
 
 **THE HISTORY OF AUCITYA IN SANSKRIT POETICS**
 
-One of the noteworthy points in the Sanskrit systems of literary criticism is that, in an inquiry into a comprehensive philosophy of the literary art, they do not separate poetry and drama, nor prose and verse. Bharata, in his Nāṭya Śāstra, has defined Drama as Imitation of the three worlds or representation of the actions of men of various nature: त्रैलोक्यानुकृतिः or धीरोदात्ताद्यवस्थानुकृतिः (N, Ś, 107, 113, 120 etc. Vide also Daśarūpaka I, 7). Consequently Bharata has perfected a system of ideas of ‘Loka Dharmī’, which term means ‘the ways of the world’or to put it short ‘Nature’, and stands to denote the realistic elements in Bharata’s [Stage.](# "See my article on Loka Dharmi (Realism) and Nāṭya Dharmi (Conventions and Idealism) of Bharata’s Stage in the JOR, Madras, Vol. VII.")In the concept of Prakṛti, Bharata studies the various kinds of men, minds, and natures found in the worlds. In the concept of Pravṛiti he has studied the provincial, racial, and national characteristics in dressing and other activities. He has elaborately dealt with Āhārya-abhinaya, dress and make-up, which, he says, must be appropriate to the Rasa and Bhāva.
+One of the noteworthy points in the Sanskrit systems of literary criticism is that, in an inquiry into a comprehensive philosophy of the literary art, they do not separate poetry and drama, nor prose and verse. Bharata, in his Nāṭya Śāstra, has defined Drama as Imitation of the three worlds or representation of the actions of men of various nature: त्रैलोक्यानुकृतिः or धीरोदात्ताद्यवस्थानुकृतिः (N, Ś, 107, 113, 120 etc. Vide also Daśarūpaka I, 7). Consequently Bharata has perfected a system of ideas of ‘Loka Dharmī’, which term means ‘the ways of the world’or to put it short ‘Nature’, and stands to denote the realistic elements in Bharata’s Stage.[^61] and Nāṭya Dharmi (Conventions and Idealism) of Bharata’s Stage in the JOR, Madras, Vol. VII.")In the concept of Prakṛti, Bharata studies the various kinds of men, minds, and natures found in the worlds. In the concept of Pravṛiti he has studied the provincial, racial, and national characteristics in dressing and other activities. He has elaborately dealt with Āhārya-abhinaya, dress and make-up, which, he says, must be appropriate to the Rasa and Bhāva.
+
+[^61]: "See my article on Loka Dharmi (Realism
 
 **एतद्विभूषणं नार्या आकेशादानस्वादपि।  
 यथाभावरसावस्थं विज्ञायैवं प्रयोजयेत्॥ N. Ś. XXIII, 42.**
@@ -3798,7 +3920,9 @@ of Rasa, *i.e.*, delineation of characters in their proper moods with an eye to 
 
 
 
-proportion. Ornaments hide beauty if they are not structural or organic; similarly ‘descriptions’ have to logically emerge out of the story and the complex course of its Rasa as a necessity. Descriptive cantos should not stand out like outhouses and isolated places for the poet's mind to indulge at length in excess. This is true of the drama as much as of the epic poem. In a drama, the sub-plots, the Patākā and the Prakarī and the Sandhyaṅgas should not be considered by themselves as having any virtue but should be seen to be relevant to Rasa. This Ānandavardhana emphasises, as we shall see. As regards the Mahākāvya, Lollaṭa \[[Āparājiti, i.e., son of Aparājita](# "Vide my paper on Writers Quoted in the Abhinavabhāratī, Journal of Oriental Research, Madras, Vol. VI, Part II, p. 169.")\] says according to Rājaśekhara:
+proportion. Ornaments hide beauty if they are not structural or organic; similarly ‘descriptions’ have to logically emerge out of the story and the complex course of its Rasa as a necessity. Descriptive cantos should not stand out like outhouses and isolated places for the poet's mind to indulge at length in excess. This is true of the drama as much as of the epic poem. In a drama, the sub-plots, the Patākā and the Prakarī and the Sandhyaṅgas should not be considered by themselves as having any virtue but should be seen to be relevant to Rasa. This Ānandavardhana emphasises, as we shall see. As regards the Mahākāvya, Lollaṭa \[Āparājiti, i.e., son of Aparājita[^62]\] says according to Rājaśekhara:
+
+[^62]: "Vide my paper on Writers Quoted in the Abhinavabhāratī, Journal of Oriental Research, Madras, Vol. VI, Part II, p. 169."
 
  ‘अस्तु नाम निस्सीमा अर्थसार्थः; किन्तु रसवत एव निबन्धो युक्तः, न तु नीरसस्य’इति आपराजितिः। यदाह—
 
@@ -3918,7 +4042,9 @@ beautiful or ugly, by applying this strict logic of their capacity to suggest or
 **रसाक्षिप्ततया यस्य बन्धः शक्यक्रियो भवेत्।  
 अपृथग्यत्रनिर्वर्त्यः सोऽलंकारो ध्वनौ मतःII II 17.**
 
-On p. 88, in Kārikās 19-20, he gives the poet five practical ways of using [Alaṅkāra to advantage](# "See above, chapter on Use and Abuse of Alaṅkāra.").On this section is based the section on Alṅkāraucitya in Kṣemendra's Aucityavicāracarcā.
+On p. 88, in Kārikās 19-20, he gives the poet five practical ways of using Alaṅkāra to advantage[^63].On this section is based the section on Alṅkāraucitya in Kṣemendra's Aucityavicāracarcā.
+
+[^63]: "See above, chapter on Use and Abuse of Alaṅkāra."
 
  Similarly Ānandavardhana relates Guṇa to Rasa of which Guṇa is the ‘Dharma’ and points out Aucitya of Guṇa. The quality of Mādhurya is inherent in Śṛngāra, Vipralambha and Karuṇa, whereas Raudra is attended by the quality of Dīpti, by a blazing up of the hearts. Accordingly words and collocation used in the two different cases must be such as to agree with the mood and the atmosphere of the Guṇa and its Rasa or such as to suggest the Guṇa and the Rasa. Thus sweet sound effects, the soft letters with nasal conjunct consonants, suggest and promote the realisation of the more tender and sweeter emotional moods whereas harsh combinations which jar in the above instances instil vigour and become very appropriate to or highly suggestive of the wild Rasa of Raudra. This proper use of letters is Varṇa-aucitya; Ānandavardhana will say that there is Varnadhvani in these instances; and a third will call it Varṇavakratā. Collocation suggestive of
 
@@ -4136,14 +4262,18 @@ The idea of Aucitya as adaptation, the idea that in poetry there is no fixed rul
 तथा कथा कापि भवेद् व्युत्क्रमो भूषणं यथा॥**
 
 **अनुसन्धानशून्यस्य भूषणं दूषणायते।  
-सावधानस्य च कवेः दूषणं भूषणायते[॥](# "Jayamaṅgalācārya's Kaviśikṣā (Peterson's I Report, Last list, App. I, pp. 78-9) says: यान्येव दूषंणान्याहुस्तानि स्युर्भूषणान्यपि।")p. 112. K. M.**
+सावधानस्य च कवेः दूषणं भूषणायते॥[^64] says: यान्येव दूषंणान्याहुस्तानि स्युर्भूषणान्यपि।")p. 112. K. M.**
+
+[^64]: "Jayamaṅgalācārya's Kaviśikṣā (Peterson's I Report, Last list, App. I, pp. 78-9
 
 The careful poet who has his eye on Aucitya employs even the so-called flaws and makes them excellences whereas the careless writer abuses even the Guṇas and spoils his expression by the absence of the sense of Aucitya.
 
 **Abhinavagupta**
 
- The place of Abhinavagupta in the history of Aucitya is important. As the author of the Locana he lucidly expounds and elaborates the ideas of Ānandavardhana, who, as we have seen above, is the greatest name in the history of Aucitya. On the other side, Abhinavagupta is the teacher in [Poetics](# "Vide Bṛhatkathāmañjari, chap. xix, 36, 37 and Bhāratamañjarī, last chap. 7, 8.")
+ The place of Abhinavagupta in the history of Aucitya is important. As the author of the Locana he lucidly expounds and elaborates the ideas of Ānandavardhana, who, as we have seen above, is the greatest name in the history of Aucitya. On the other side, Abhinavagupta is the teacher in Poetics[^65]
 of Kṣemendra who is the systematiser of Aucitya. It is clear from Ānandavardhana's treatment of Aucitya in Ud. III, that Aucitya naturally emerges out of the doctrines of Rasa and Dhvani and that the three cannot be separated. Abhinavagupta takes his stand on this triple aspect of the ‘life’ of poetry— Rasa first, then Dhvani and then Aucitya. He says:
+
+[^65]: "Vide Bṛhatkathāmañjari, chap. xix, 36, 37 and Bhāratamañjarī, last chap. 7, 8."
 
  उचितशब्देन रसविषयमौचित्यं भवतीति दर्शयन् रसध्वनेः जीवितत्वं सूचयति। p. 13.
 
@@ -4215,15 +4345,19 @@ Other writers call these ‘Śabdārthapravibhājakas’, Aucitya etc., as ‘An
 
 
 
-who is speaking. A vulgar and a rustic character does not employ the same words as a refined city-bred man. The appropriate vocabulary is one of the chief conditions that call up the correct atmosphere. Inappropriate vocabulary which is a breach of Aucitya is the Doṣa called Apada. See S. K. Ā. I, 23, pp. 19-20. Bhoja's Vākyārthadoṣa called Virasa, which is borrowed by him from Rudraṭa, emphasises a principle of Rasa-aucitya. (See S. K. Ā. I, 50, p. 35.) Ratneśvara, commentator on the S. K. Ā., quotes here Ānandavardhana's verse on Aucitya and Anaucitya—अनौचित्यादृते नान्यत् etc., and adds that the three following Upamādoṣas also are various instances of Anaucitya. Thirdly, the Doṣa called Viruddha (S. K. Ā. 1, 54-57), Loka virodha, Kāla virodha etc., is also based on Aucitya. These are only more definite and particularised names for varieties of Anaucitya of Vastu or Artha. In the sub-class of Anumāna viruddha, Bhoja has a variety called Aucitya viruddha (see p. 40. S. K. Ā) and illustrates it by a case of an incorrect and inappropriate description of a low ordinary man, a Pāmara, as wearing refined silk-dress. Fourthly, a similar instance of Anaucitya of Artha-kalpana is mentioned by Bhoja in connection with his Śabdaguṇa Bhāvika. (S. K. Ā., p. 58.) Here is an instance of the larger Aucitya of Adaptation, which makes Guṇas of flaws. Besides this, there is a whole section of Vaiśeṣika guṇas at the end of chapter I where it is shown that as a result of circumstance, special context and Aucitya, all the Doṣas may cease to be so and may even become Guṇas (S. K. Ā., pp. 74-120, [see esp. p. 118).](# "See also above pp. 202-3 and 211-2.")
+who is speaking. A vulgar and a rustic character does not employ the same words as a refined city-bred man. The appropriate vocabulary is one of the chief conditions that call up the correct atmosphere. Inappropriate vocabulary which is a breach of Aucitya is the Doṣa called Apada. See S. K. Ā. I, 23, pp. 19-20. Bhoja's Vākyārthadoṣa called Virasa, which is borrowed by him from Rudraṭa, emphasises a principle of Rasa-aucitya. (See S. K. Ā. I, 50, p. 35.) Ratneśvara, commentator on the S. K. Ā., quotes here Ānandavardhana's verse on Aucitya and Anaucitya—अनौचित्यादृते नान्यत् etc., and adds that the three following Upamādoṣas also are various instances of Anaucitya. Thirdly, the Doṣa called Viruddha (S. K. Ā. 1, 54-57), Loka virodha, Kāla virodha etc., is also based on Aucitya. These are only more definite and particularised names for varieties of Anaucitya of Vastu or Artha. In the sub-class of Anumāna viruddha, Bhoja has a variety called Aucitya viruddha (see p. 40. S. K. Ā) and illustrates it by a case of an incorrect and inappropriate description of a low ordinary man, a Pāmara, as wearing refined silk-dress. Fourthly, a similar instance of Anaucitya of Artha-kalpana is mentioned by Bhoja in connection with his Śabdaguṇa Bhāvika. (S. K. Ā., p. 58.) Here is an instance of the larger Aucitya of Adaptation, which makes Guṇas of flaws. Besides this, there is a whole section of Vaiśeṣika guṇas at the end of chapter I where it is shown that as a result of circumstance, special context and Aucitya, all the Doṣas may cease to be so and may even become Guṇas (S. K. Ā., pp. 74-120, see esp. p. 118).[^66]
 
  अत्र स्त्रीत्वाद् औचित्यविरोधेऽपि तत्समयोचितत्वाद् गुणत्वम्।
+
+[^66]: "See also above pp. 202-3 and 211-2."
 
 S. K. Ā. P. 118.
 
 
 
- Aucitya figures to some extent in Bhoja's Alaṁkāra-section also. Bhoja opens his list of Śabdālaṁkāras with the elaboration of the idea of the choice of the appropriate language, Bhāṣaucitya, which, he says, is an ornament or Alaṁkāra called Jāti. Certain subjects are well expressed in Sanskrit ; certain in Prākṛt or Apabhramśa. There is also the appropriateness of country or province (Deśa) and rank and culture of character (Pātra,-uttama; male, female etc.)which decides the language. Bhoja and Ratneśvara point out all these Aucityas which are seen already in the eighteenth chapter of Bharata's N.Ś. called Bhāṣāvidhāna. Bhoja himself uses the word Aucitya here and Ratneśvara clearly explains the Aucitya involved in this Jāti [Śabdālaṁkāna](# " I have spoken of these at greater length in the chapter onBhoja and Aucitya in my book on Bhoja's Śṛṅgāraprakāśa. (Vol. I, pp. 191-195.)"). In chapter xi, Bhoja gives a Prabandha-ubhaya-guṇa, a comprehensive excellence of the Śabda and Artha of the whole work, called "language according to the character", पात्रानुरूपभाषत्वम्. What is this Ānurūpya except Aucitya? This Prabandha-bhāṣaucitya is only the extension of the Vākyālaṁkāra called Jāti (p. 432, vol. ii, Śṛ. Pra. Mad. MS.). The second Śabdālaṁkāra of Bhoja is also a principle of Aucitya. It is called Gati; it is the choice of the proper poetic form, verse (padya), prose (gadya), or mixed style (campū) and the choice of the proper metres suggestive of Rasa in the padya-class; this last is only another name for Vṛttaucitya. In explaining this Gati, Bhoja himself bases his Alaṅkāra on Aucitya of Artha which he mentions twice here. (see S. K. Ā. II, 18 and 21.)
+ Aucitya figures to some extent in Bhoja's Alaṁkāra-section also. Bhoja opens his list of Śabdālaṁkāras with the elaboration of the idea of the choice of the appropriate language, Bhāṣaucitya, which, he says, is an ornament or Alaṁkāra called Jāti. Certain subjects are well expressed in Sanskrit ; certain in Prākṛt or Apabhramśa. There is also the appropriateness of country or province (Deśa) and rank and culture of character (Pātra,-uttama; male, female etc.)which decides the language. Bhoja and Ratneśvara point out all these Aucityas which are seen already in the eighteenth chapter of Bharata's N.Ś. called Bhāṣāvidhāna. Bhoja himself uses the word Aucitya here and Ratneśvara clearly explains the Aucitya involved in this Jāti Śabdālaṁkāna[^67]"). In chapter xi, Bhoja gives a Prabandha-ubhaya-guṇa, a comprehensive excellence of the Śabda and Artha of the whole work, called "language according to the character", पात्रानुरूपभाषत्वम्. What is this Ānurūpya except Aucitya? This Prabandha-bhāṣaucitya is only the extension of the Vākyālaṁkāra called Jāti (p. 432, vol. ii, Śṛ. Pra. Mad. MS.). The second Śabdālaṁkāra of Bhoja is also a principle of Aucitya. It is called Gati; it is the choice of the proper poetic form, verse (padya), prose (gadya), or mixed style (campū) and the choice of the proper metres suggestive of Rasa in the padya-class; this last is only another name for Vṛttaucitya. In explaining this Gati, Bhoja himself bases his Alaṅkāra on Aucitya of Artha which he mentions twice here. (see S. K. Ā. II, 18 and 21.)
+
+[^67]: " I have spoken of these at greater length in the chapter onBhoja and Aucitya in my book on Bhoja's Śṛṅgāraprakāśa. (Vol. I, pp. 191-195.
 
 **पद्यं गद्यं च मिश्रं च काव्यं यत् सा गतिः स्मृता।  
 अर्थौचित्यादिभिः सापि वागलङ्कार इष्यते॥ II, 18.**
@@ -4387,7 +4521,9 @@ Of Vyavahāraucitya or Lokavṛttaucity a, which idea is the basis of Bharata's 
 
 **V. J. p. 76.**
 
-As more than once pointed out already, many of the instances of Ānandavardhana's Dhvani, Abhinavagupta's Vaicitrya mentioned in the Abhinavabhāratī, Kuntaka's Vakratā and Kṣemen-dra's Aucitya are identical. Many items of Vakratā mentioned by Kuntaka are seen in the Abhinavabhāratī as cases of Vaicitrya, with exactly the same or similar illustrations and Abhinavagupta says that the same idea is called Suptiṅgdhvani by Ānandavardhana and Subādivakratā by [others](# "See my article on Writers Quoted in the Abhinavabhārati, Journal of Oriental Research, Vol. VI. pp. 219-22.").There is bound to be this close relation between Aucitya, Dhvani and Vakratā. Criticising Kuntakā's definition of poetry as Śabda and Artha set in Vakroktı, Mahimabhaṭṭa says in V. V., Vimaras'a I : The "out-of-the-way-ness" of poetic word and idea as
+As more than once pointed out already, many of the instances of Ānandavardhana's Dhvani, Abhinavagupta's Vaicitrya mentioned in the Abhinavabhāratī, Kuntaka's Vakratā and Kṣemen-dra's Aucitya are identical. Many items of Vakratā mentioned by Kuntaka are seen in the Abhinavabhāratī as cases of Vaicitrya, with exactly the same or similar illustrations and Abhinavagupta says that the same idea is called Suptiṅgdhvani by Ānandavardhana and Subādivakratā by others[^68].There is bound to be this close relation between Aucitya, Dhvani and Vakratā. Criticising Kuntakā's definition of poetry as Śabda and Artha set in Vakroktı, Mahimabhaṭṭa says in V. V., Vimaras'a I : The "out-of-the-way-ness" of poetic word and idea as
+
+[^68]: "See my article on Writers Quoted in the Abhinavabhārati, Journal of Oriental Research, Vol. VI. pp. 219-22."
 
 
 
@@ -4430,7 +4566,9 @@ Certain ideas get certain writers as their brilliant exponents. Thus Sāhitya ge
 
 **Kṣemendra**
 
- Kṣemendra was the pupil of Ācārva Abhinavagupta in poetics. Kṣemendra first wrote a work on Poetics called [Kavikarṇikā](# "Vide Au, V. C., K. M. Gucchaka 1, p. 115. ŚI. 2.")which is unfortunately lost to us. Perhaps in it he dealt with Rasa and Dhvani. Our sense of its loss is keen because, in his critical writings spared to us we find many a touch of originality. Kṣemendra's Kavikaṇṭhābharaṇa and Suvṛttatilaka have only slight and subsidiary interest for us. It is his Aucitya-vicāracarcāwe are concerned here with, a small work which yet belongs to the class of ‘Prasthāna-works’ like those of Bhāmaha, Daṇḍin, Vāmana, Ānandavardhana. Kuntaka and Mahimabhaṭṭa. As is plain from the above-gone survey of the concept of Aucitya, Kṣemendra is not the author of Aucitya, but, as in the case of Vakrokti and Kuntaka, Kṣemendra made Aucitya into a system, elaborating that concept and applying it to all parts of the Kāvya. Kṣemendra only worked out Ānandavardhana and Abhinavagupta in whose system he had his being. Abhinavagupta criticised those critics who glibly talked of Aucitya without reference to Rasa and Dhvani which alone render Aucitya intelligible. Just as Kuntaka's Vakrokti proceeds only after accepting Rasa as supreme and accepts also Dhvani, so also Kṣemendra's Aucitya. Kṣemendra first posits Rasa as the soul of poetry, as the thing whose presence makes Kavya; Aucitya is its life— ‘Jīvita'. The term 'Jīvita',as can be seen from the two quotations given above, was used
+ Kṣemendra was the pupil of Ācārva Abhinavagupta in poetics. Kṣemendra first wrote a work on Poetics called Kavikarṇikā[^69]which is unfortunately lost to us. Perhaps in it he dealt with Rasa and Dhvani. Our sense of its loss is keen because, in his critical writings spared to us we find many a touch of originality. Kṣemendra's Kavikaṇṭhābharaṇa and Suvṛttatilaka have only slight and subsidiary interest for us. It is his Aucitya-vicāracarcāwe are concerned here with, a small work which yet belongs to the class of ‘Prasthāna-works’ like those of Bhāmaha, Daṇḍin, Vāmana, Ānandavardhana. Kuntaka and Mahimabhaṭṭa. As is plain from the above-gone survey of the concept of Aucitya, Kṣemendra is not the author of Aucitya, but, as in the case of Vakrokti and Kuntaka, Kṣemendra made Aucitya into a system, elaborating that concept and applying it to all parts of the Kāvya. Kṣemendra only worked out Ānandavardhana and Abhinavagupta in whose system he had his being. Abhinavagupta criticised those critics who glibly talked of Aucitya without reference to Rasa and Dhvani which alone render Aucitya intelligible. Just as Kuntaka's Vakrokti proceeds only after accepting Rasa as supreme and accepts also Dhvani, so also Kṣemendra's Aucitya. Kṣemendra first posits Rasa as the soul of poetry, as the thing whose presence makes Kavya; Aucitya is its life— ‘Jīvita'. The term 'Jīvita',as can be seen from the two quotations given above, was used
+
+[^69]: "Vide Au, V. C., K. M. Gucchaka 1, p. 115. ŚI. 2."
 
 
 
@@ -4475,7 +4613,9 @@ It is to explain Rasa, by which Kāvya is already explained, that Ksemendra offe
 
 which is pointed out by all writers from Bhāmaha and Daṇḍin, which is part of Aucitya, and can be said to be generally included in Prakṛtyaucitya itself which is as old as Bharata or can be separately called as Lokasvabhāuaucitya. The Pratibhāucitya given by Kṣemendra concerns with the minor ‘fancies’ and not with poetic imagination or genius as a whole. Similarly innumerable items of Aucitya can be elaborated and so does Ksemendra say in the end : ‘अन्येषु काव्याङ्गेषुअनयैव दिशा स्वयमौचित्यम् उत्प्रेक्षणीयम्। तदुदाहरणान्यानन्त्यात् न प्रदर्शितानीत्यलमतिप्रसङ्गेन।’p. 60. As for instance, the propriety of metre, Vṛttaucitya, is an interesting study. Bharata has spoken of it in his chapters on Vṛttas and Dhruvās, xvi and xxxii. Abhinavagupta quotes in his Abhi. Bhā. Kātyāyana, an old writer on metres, on the appropriateness of certain metres to certain subjects, moods and situations.
 
-**वीरस्य भुजदण्डानां वर्णने स्रग्धरा भवेत्।[etc.](# "Vide Journal of Oriental Research, Madras, Vol. VI, Part III, p. 223, my article on Writers Quoted in the Abı. Bhāratī.")**
+**वीरस्य भुजदण्डानां वर्णने स्रग्धरा भवेत्।etc.[^70]**
+
+[^70]: "Vide Journal of Oriental Research, Madras, Vol. VI, Part III, p. 223, my article on Writers Quoted in the Abı. Bhāratī."
 
 Kṣemendra reserves this subject for special treatment in his Suvṛttatilaka. (Vinyāsa ii. Śls. 7-16).
 
@@ -4560,11 +4700,19 @@ Some valuable ideas on Aucitya are also given by Prakāśavarṣa. He defines Au
 
 
 
-Prakāśavarṣa gives a new twofold classification of Aucitya but does not explain the varieties further. He says that others have said enough on [this subject](# "Vide Journal of Oriental Research, Vol. VIII. Part 3 for an account of Prakāśavarṣa and his work.").
+Prakāśavarṣa gives a new twofold classification of Aucitya but does not explain the varieties further. He says that others have said enough on this subject[^71].
+
+[^71]: "Vide Journal of Oriental Research, Vol. VIII. Part 3 for an account of Prakāśavarṣa and his work."
 
 **Anaucitya and Hāsya**
 
- There is one more point to be considered before closing this account of Aucitya. [Bharata has said](# "N. Ś. VI, p. 296 Gaek. edn.") that Hāsya Rasa or the sentiment of laughter is produced by Anukṛti and Ābhāsa. It has been pointed out above that Abhinavagupta remarks in his Locana that Anaucitya is at the root of Ābhāsa, as in the case of the Śṛṅgārābhāsa of Rāvaṇa for Sīta. We can only laugh at it. So it is that Laulya, which is proposed as a Rasa by some, is made by Abhinavagupta an accessory in Hāsya [Rasa](# "Vide p. 342, Abhi. Bhā., Gaek. edn.").In the Abhinava bhāratī on the text of Bharata which explains the origin of Hāsya Rasa, Abhinavagupta discusses what constitutes the basis of the comic and points out that Anaucitya is at the root of the [comic](# "Pp. 296-297. Abhi. Bhā.. Gaek. edn. A study of mine on the Comic Element in Skr. Literature (on the theory of Hāsya and its treatment by poets) will be published").Aucitya is Rasa and Anaucitya is Rasābhāsa and Hāsya Rasa. The illustrative verse quoted by Kṣemendra gives a series of Anaucitya and concludes‘नायान्ति के हास्यताम्’. Surely one with a girdle round the neck and a necklace at the foot will be laughed at. So it is that Bharata also says:
+ There is one more point to be considered before closing this account of Aucitya. Bharata has said[^72] that Hāsya Rasa or the sentiment of laughter is produced by Anukṛti and Ābhāsa. It has been pointed out above that Abhinavagupta remarks in his Locana that Anaucitya is at the root of Ābhāsa, as in the case of the Śṛṅgārābhāsa of Rāvaṇa for Sīta. We can only laugh at it. So it is that Laulya, which is proposed as a Rasa by some, is made by Abhinavagupta an accessory in Hāsya Rasa[^73].In the Abhinava bhāratī on the text of Bharata which explains the origin of Hāsya Rasa, Abhinavagupta discusses what constitutes the basis of the comic and points out that Anaucitya is at the root of the comic[^74] will be published").Aucitya is Rasa and Anaucitya is Rasābhāsa and Hāsya Rasa. The illustrative verse quoted by Kṣemendra gives a series of Anaucitya and concludes‘नायान्ति के हास्यताम्’. Surely one with a girdle round the neck and a necklace at the foot will be laughed at. So it is that Bharata also says:
+
+[^72]: "N. Ś. VI, p. 296 Gaek. edn."
+
+[^73]: "Vide p. 342, Abhi. Bhā., Gaek. edn."
+
+[^74]: "Pp. 296-297. Abhi. Bhā.. Gaek. edn. A study of mine on the Comic Element in Skr. Literature (on the theory of Hāsya and its treatment by poets
 
 **मेखलोरसि बन्धे च हास्यायैवोपजायते। xxii, 69.**
 
@@ -4605,7 +4753,9 @@ It is all some kind of relativity in the realm of poetry. There is no absolute G
 
 **Conclusion**
 
- Three doctrines form the great and noteworthy contributions of Sanskrit Alaṅkāra Literature to the world's literature on Literary Criticism. They are Rasa, Dhvani and [Aucitya](# "A survey and review of Western Literary Criticism from Aristotle to Abercrombie from the point of view of Skr. Alaṅkāra Śāstra has been made by me in a separate study.").Aucitya is a very large principle within whose orbit comes everything else. The Aucitya-rule of criticism is obeyed by all others, including Rasa.
+ Three doctrines form the great and noteworthy contributions of Sanskrit Alaṅkāra Literature to the world's literature on Literary Criticism. They are Rasa, Dhvani and Aucitya[^75].Aucitya is a very large principle within whose orbit comes everything else. The Aucitya-rule of criticism is obeyed by all others, including Rasa.
+
+[^75]: "A survey and review of Western Literary Criticism from Aristotle to Abercrombie from the point of view of Skr. Alaṅkāra Śāstra has been made by me in a separate study."
 
 
 
@@ -4640,8 +4790,10 @@ It will not be a surprise if on examining the history of the several names of a 
 
 
 
-came to denote poetry itself upon the basis of Bhāmaha's definition of [poetry](# "See my thesis Bhoja's Śṛṅgāra Prakāśa, Vol. I, pt. 1, PP. 87-110.")
+came to denote poetry itself upon the basis of Bhāmaha's definition of poetry[^76]
 :
+
+[^76]: "See my thesis Bhoja's Śṛṅgāra Prakāśa, Vol. I, pt. 1, PP. 87-110."
 
 **शब्दार्थौसहितौ काव्यम्। I, 16. K. A.**
 
@@ -4651,7 +4803,9 @@ came to denote poetry itself upon the basis of Bhāmaha's definition of [poetry]
 
 
 
-their works also as Kāvyālaṅkāra. Though Daṇḍin seems to be an exception, he only proves the rule; for, though he calls his work Kāvyādarśa or Mirror of Poetry, he is the writer who pays the greatest tribute to Alaṅkāra. These ancients, the Alaṅkāra-vādins, took Alaṅkāra as the beautiful expression and as the distinguishing mark of poetry, and considered even the Rasas as only subserving this beauty of expression. Bhoja ardently walks behind Daṇḍin and in his stupendous Śṛṅgāraprakāśa, erects a new and huge throne for Alaṅkāra. Guṇas Alaṅkāras, Rītis, Vṛttis, Sandhis, Laksaṇas, Rasas, Language, Metre, Form of composition, namely, epic, drama etc.,— why, everything is [Alaṅkāra to Bhoja.](# "See my Bhoja's Śṛṅgara Prakāśa, Vol. I, pt. ii, chapter on Bhoja's Conception of Alaṅkāra.")The Alaṅkāra-age of Sanskrit Poetics which can roughly be marked off as ending with Rudraṭa, is also a very significant period in the history of Sanskrit Poetics. For, it is the analysis of the Alaṅkāras that led to the rise of Vakrokti and in another direction through such Alaṅkāras as Dīpaka, Samāsokti, Paryāyokta containing a suggested element, gave rise to the concept of suggestion, Dhvani. Vakrokti is a continuation of Alaṅkāra; its greatest exponent, Kuntaka, describes his work, the Vakrokti Jīvita as Kāvyalaṅkāra.
+their works also as Kāvyālaṅkāra. Though Daṇḍin seems to be an exception, he only proves the rule; for, though he calls his work Kāvyādarśa or Mirror of Poetry, he is the writer who pays the greatest tribute to Alaṅkāra. These ancients, the Alaṅkāra-vādins, took Alaṅkāra as the beautiful expression and as the distinguishing mark of poetry, and considered even the Rasas as only subserving this beauty of expression. Bhoja ardently walks behind Daṇḍin and in his stupendous Śṛṅgāraprakāśa, erects a new and huge throne for Alaṅkāra. Guṇas Alaṅkāras, Rītis, Vṛttis, Sandhis, Laksaṇas, Rasas, Language, Metre, Form of composition, namely, epic, drama etc.,— why, everything is Alaṅkāra to Bhoja.[^77]The Alaṅkāra-age of Sanskrit Poetics which can roughly be marked off as ending with Rudraṭa, is also a very significant period in the history of Sanskrit Poetics. For, it is the analysis of the Alaṅkāras that led to the rise of Vakrokti and in another direction through such Alaṅkāras as Dīpaka, Samāsokti, Paryāyokta containing a suggested element, gave rise to the concept of suggestion, Dhvani. Vakrokti is a continuation of Alaṅkāra; its greatest exponent, Kuntaka, describes his work, the Vakrokti Jīvita as Kāvyalaṅkāra.
+
+[^77]: "See my Bhoja's Śṛṅgara Prakāśa, Vol. I, pt. ii, chapter on Bhoja's Conception of Alaṅkāra."
 
 **काव्यस्यायमलङ्कारः कोऽप्यपूर्वोविधीयते। 1.2.  
 ग्रन्थस्यास्य अलङ्कार इत्यभिधानम्। Vṛtti. p. 3.**
@@ -4806,7 +4960,9 @@ K. K. Ā. Kāvyamālā Gucchaka IV.P. 129
 गुणं रीतिं रसं वृत्तिं पाकं शय्यामलङ्कृतिम्।  
 सप्तैतानि चमत्कारकारणं ब्रुवते बुधाः॥**
 
-[India Office MS. No. 3966](# "The introductory verses in the India Office MS. of the C. C. are not found in the Madras MS.").
+India Office MS. No. 3966[^78].
+
+[^78]: "The introductory verses in the India Office MS. of the C. C. are not found in the Madras MS."
 
 Viśveśvara classifies poetry into three classes on the basis of the nature of the Camatkāra. The three classes are Camatkāri (Śabda citra), Camatkāritara (Artha citra and Guṇibhūta vyaṅgya) and Camatkāritama (Vyaṅgyapradhāna).
 
@@ -5105,3 +5261,81 @@ Act I. P. 40. Jīvānanda Vīdyāsāgara's edn.
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

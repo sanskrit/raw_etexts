@@ -149,7 +149,9 @@ INTRODUCTION.
 
 
 
-**धारणाद्धर्ममित्याहुर्धर्मो धारयति प्रजाः[।](# "Mahabharata. Karna Parva, Ixix, 59.")**
+**धारणाद्धर्ममित्याहुर्धर्मो धारयति प्रजाः।[^1]**
+
+[^1]: "Mahabharata. Karna Parva, Ixix, 59."
 
  "That which supports, that which holds together the peoples (of the universe), that is Dharma."
 
@@ -164,14 +166,18 @@ THE BASIS OF SANÂTANA DHARMA.
  The **श्रुतिः** Shrutiḥ, consisting of the Four Vedas, is the final authority in the Âryan Religion, and these four Vedas form in their entirety THE VEDA, THE PERFECT KNOWLEDGE, revealed by Brahmâ, seen by the Ṛiṣhis, and clothed in words by Them for the benefit of the Âryan peoples.
 
 **युगान्तेऽन्तर्हितान् वेदान् सेतिहासान् महर्षयः।  
-लेभिरे तपसा पूर्वम् अनुज्ञाताः स्वयम्भुवा[॥](# "Quoted by Shankarâchârya, and attributed by him toVyâsa. Shârîraka Bhâshya, I. iii! 29.")**
+लेभिरे तपसा पूर्वम् अनुज्ञाताः स्वयम्भुवा॥[^2]**
+
+[^2]: "Quoted by Shankarâchârya, and attributed by him toVyâsa. Shârîraka Bhâshya, I. iii! 29."
 
  "The Vedas, together with the Itihâsas, were withdrawn at the end of the Yugas. The Maharṣhis, permitted by Svayambhû (Brahmâ), recovered them by Tapas."
 
  It appears that modifications were introduced on such recoveries, which took place at the beginning of each cycle, so as to suit the again revealed Vedas to the special conditions of the age. For we read in the *Devî Bhâgavata*:—
 
 **वेदमेकं स बहुधा कुरुते हितकाम्यया।  
-अल्पायुषोऽल्पबुद्धींश्च विप्रान् ज्ञात्वा कलावथ[॥](# "Loc. cit. I. iii. 19.")**
+अल्पायुषोऽल्पबुद्धींश्च विप्रान् ज्ञात्वा कलावथ॥[^3]**
+
+[^3]: "Loc. cit. I. iii. 19."
 
  "Then, in the Kali age, He (Viṣhṇu in the form of Vyâsa) divides the one Veda into many parts, desiring benefit (to men), and knowing that the
 
@@ -181,9 +187,11 @@ Brâhmaṇas would be short-lived and of small intelligence," and hence unable t
 
  Thus the Ṛiṣhis are ever watching over the Religion they gave, withdrawing and again giving revelation according to the needs and the capacities of each age. If so much has disappeared from the sacred books-as may be seen by comparing the number of shlokas said to be contained in some of them, with the extant shlokas-this disappearance has been brought about by the Ṛiṣhis for men's benefit.
 
- In Patañjali's *Mahâbhâṣhya* much higher figures, as regards the extent and content of the Vedas, are given than are found in the now extant books. He mentions 21 shâkhâs of the *Rigveda,* 100 of the *Yajurveda,* 1000 of the *Sâmaveda,* and 9 of the *Atharvaveda.* The *Muktikopaniṣhat* gives 21 shâkhas of the *Rigveda,* 109 of the *Yajurveda,* 1000 of the *Sâmaveda,* and 50 of the *Atharvaveda.* Of these but few are now [known](# "Cf. on this point the Charaṇa-Vyûha.")
+ In Patañjali's *Mahâbhâṣhya* much higher figures, as regards the extent and content of the Vedas, are given than are found in the now extant books. He mentions 21 shâkhâs of the *Rigveda,* 100 of the *Yajurveda,* 1000 of the *Sâmaveda,* and 9 of the *Atharvaveda.* The *Muktikopaniṣhat* gives 21 shâkhas of the *Rigveda,* 109 of the *Yajurveda,* 1000 of the *Sâmaveda,* and 50 of the *Atharvaveda.* Of these but few are now known[^4]
 
 .
+
+[^4]: "Cf. on this point the Charaṇa-Vyûha."
 
  Each Veda has three divisions:–
 
@@ -249,7 +257,9 @@ has been directed against the Vedas, because the occult knowledge, on the posses
 
 only be discovered by prolonged study and meditation.
 
- Next in order to the Shruti in authority comes the **स्मृतिः** Smṛitiḥ, which explains and developes Dharma, laying down the laws which regulate Âryan national, social, family and individual obligations. They are the text-books of law, and are very [numerous](# "See the Introduction to Mâṇḍilik's translation of the Vyavahâra Mayûkha and Yajnavalkya Smṛiti."),
+ Next in order to the Shruti in authority comes the **स्मृतिः** Smṛitiḥ, which explains and developes Dharma, laying down the laws which regulate Âryan national, social, family and individual obligations. They are the text-books of law, and are very numerous[^5],
+
+[^5]: "See the Introduction to Mâṇḍilik's translation of the Vyavahâra Mayûkha and Yajnavalkya Smṛiti."
 
 but four of them are regarded as the chief, and these are sometimes related to the four Yugas, Manu being said to be the authority for the Satya Yuga, Yâjñavalkya for the Treta, Shañkha and Likhita for the Dvâpara, and Parâshara for theKali.
 
@@ -267,9 +277,11 @@ Sanâtana Dharma, that preserved it through so many ages, when other ancient rel
  Of the authority of the Shruti and Smriti, Manu says:
 
 श्रुतिस्तु वेदो विज्ञेयो धर्मशास्त्रं तु वै स्मृतिः।  
-ते सर्वार्थेष्वमीमांस्ये ताभ्यां धर्मो हि निर्बभौ[॥](# "Loc. cit. ii. 10.")
+ते सर्वार्थेष्वमीमांस्ये ताभ्यां धर्मो हि निर्बभौ॥[^6]
 
  "The Veda is known as Shruti, the Dharmashâstras as Smṛiti; these should not be doubted (but carefully consulted and considered) in all matters, for from them Dharma arose."
+
+[^6]: "Loc. cit. ii. 10."
 
  Of these Smṛitis, the two of Manu and Yâjñavalkya are universally accepted at the present time as of chief authority all over India, and Yâjñavalkya is chiefly consulted in all matters of Hindu law. The other Smṛitis are drawn upon when it is necessary to supplement these.
 
@@ -285,10 +297,14 @@ Manu expounds the origin of the universe, and then desires Bhṛigu to recite th
 
 dealt with, gifts, offerings, certain rites, and the duties of a king are explained. In the second, civil law and procedure and punishments for crimes are laid down. In the third, purifications are given, and these are followed by an explanation of duties in time of distress, and those of a forest-dweller and an ascetic, and some physiological details; then follows a disquisition on the universal and the individual Soul, the paths of liberation and of bondage, yoga, the siddhis, and transmigration, together with a number of penances.
 
- Next in succession to the Smṛiti come the **पुराणानि**, Purâṇâni, the Purâṇas, which, with the**इतिहासाः**, Itihâsâḥ, the history, are sometimes said to form the**पञ्चमोवेदः**,Pañchamo Veda, the Fifth Veda. Nârada, in telling Sanatkumâra what he has [read](# "Chhandog yop. VII. i. 2."), calls them the fifth, and Shankara says on this: **पञ्चमो वेदः**। In the *Bhâgavata Purâṇa* occurs the phrase:–
+ Next in succession to the Smṛiti come the **पुराणानि**, Purâṇâni, the Purâṇas, which, with the**इतिहासाः**, Itihâsâḥ, the history, are sometimes said to form the**पञ्चमोवेदः**,Pañchamo Veda, the Fifth Veda. Nârada, in telling Sanatkumâra what he has read[^7], calls them the fifth, and Shankara says on this: **पञ्चमो वेदः**। In the *Bhâgavata Purâṇa* occurs the phrase:–
+
+[^7]: "Chhandog yop. VII. i. 2."
 
 **ऋग्यजुःसामार्थवाख्य वेदाश्चत्वार उद्धृताः।  
-इतिहासपुराणं च पंचमो वेद उच्यते[॥](# "Loc. cit. I. iv. 20.")**
+इतिहासपुराणं च पंचमो वेद उच्यते॥[^8]**
+
+[^8]: "Loc. cit. I. iv. 20."
 
  Vyâsa "having recovered the four Vedas, named the Ṛik, Yajuḥ, Sâma, and Atharva, completed the Itihâsa and Purâṇa, called the fifth Veda."
 
@@ -297,9 +313,11 @@ dealt with, gifts, offerings, certain rites, and the duties of a king are explai
 So also is it written:–
 
 प्रादुः करोति धर्मार्थी पुराणानि यथाविधि।  
-द्वापरे द्वापरे विष्णुर्व्यासरूपेण सर्वदा[॥](# "Devi Bhag. I. iii, 18.")
+द्वापरे द्वापरे विष्णुर्व्यासरूपेण सर्वदा॥[^9]
 
  "Always, in each Dvâpara age, Viṣhṇu, in the form of Vyâsa, reveals the Purâņas, as is fitting, for the sake of Dharma."
+
+[^9]: "Devi Bhag. I. iii, 18."
 
  Madhva says that "like the six Añgas, the Purâņas, etc. are adapted to give a knowledge of the Vedas, and are therefore worthy objects of study."
 
@@ -307,9 +325,11 @@ So also is it written:–
 
 पुराणन्यायमीमांसा धर्मशास्त्राङ्गमिश्रिताः।  
 वेदाः स्थानानि विद्यानां धर्मस्य च चतुर्दश॥  
-इतिहासपुराणाभ्यां वेदं समुपबृंहयेदिति[।](# "Loc. cit. I. i. 3,")
+इतिहासपुराणाभ्यां वेदं समुपबृंहयेदिति।[^10]
 
  "The Vedas, along with the Purâṇas, the Nyâyas, the Mimâñsâs, the Dharmashâstras and the Añgas, are the fourteen sources of knowledge and Dharma. (The student should) expound the Vedas with (the help of) the Itihasas and Purâṇas."
+
+[^10]: "Loc. cit. I. i. 3,"
 
  Eighteen Purâṇas are reckoned the chief, and there are another eighteen, styled Upa-Purâṇas, or lesser Purâṇas. The 18 mukhya, or great, Purâṇas
 
@@ -356,9 +376,11 @@ THE SCIENCE AND PHILOSOPHY OF SANÂTANA DHARMA.
 
 man to the One Science, the One Wisdom, which saw One Self as Real and all else as unreal. The Riṣhis, realising the unity of all knowledge, made no distinction between science, philosophy and religion. All alike were based on the Veda; the sciences were the Vedâñgas, the limbs of the Veda, the philosophies culminate in the Vedanta, the end of the Veda. And they were all summed up together as the Lesser Knowledge, the Knowledge of the One being alone supreme and indivisible; even the revealed Veda was included in the former, in virtue of its being revealed, whereas in the latter the Átmâ knows Itself. Thus it is written:
 
- द्वे विद्ये वेदितव्ये इति ह स्म यद्ब्रह्मविदो वदन्ति परा चैवापराच।तत्रापरा ऋग्वेदो यजुर्वेदः सामवेदोऽथर्ववेदः शिक्षा कल्पो व्याकरणंनिरुक्तं छन्दो ज्योतिषमिति। अथ परा यया तदक्षरमधिगम्यते[।](# "Mundakop. 1. i. 4, 5.")
+ द्वे विद्ये वेदितव्ये इति ह स्म यद्ब्रह्मविदो वदन्ति परा चैवापराच।तत्रापरा ऋग्वेदो यजुर्वेदः सामवेदोऽथर्ववेदः शिक्षा कल्पो व्याकरणंनिरुक्तं छन्दो ज्योतिषमिति। अथ परा यया तदक्षरमधिगम्यते।[^11]
 
  "Two knowledges are to be known, thus say the knowers of Brahman-the supreme and the lower. The lower: Ṛigveda, Yajurveda, Sâmaveda, Atharvaveda, the Method of Study, the Method of Ritual, Grammar, Dictionary \[Philology\], Prosody, Astrology. The supreme, whereby That Eternal is reached."
+
+[^11]: "Mundakop. 1. i. 4, 5."
 
  The six Añgas are expounded in a vast mass
 
@@ -390,12 +412,16 @@ of literature divided under six heads; it is composed of **सुत्राण
 **सांख्यं** Sâñkhyam. **योगः** Yogaḥ.  
 **मीमांसा** Mîmâmsâ. **वेदान्तः**Vedântaḥ.
 
- The *Prasthâna Bheda* of Madhusūdana Sarasvati, after summarising the Six Darshanas, lays stress on their unity. "In reality, all the Munis who have put forward these theories agree in wishing to prove the existence of the One Supreme Lord without a second......These Munis cannot be in error, considering that they are omniscient: and these different views have only been propounded by them, in order to keep off all nihilistic theories, and because they were afraid that human beings, with their inclinations towards the objects of the world, could not be expected at once to know the true goal of [man](# "Quoted in Max Müller's Six Systems. Pp. 10, 108.")."
+ The *Prasthâna Bheda* of Madhusūdana Sarasvati, after summarising the Six Darshanas, lays stress on their unity. "In reality, all the Munis who have put forward these theories agree in wishing to prove the existence of the One Supreme Lord without a second......These Munis cannot be in error, considering that they are omniscient: and these different views have only been propounded by them, in order to keep off all nihilistic theories, and because they were afraid that human beings, with their inclinations towards the objects of the world, could not be expected at once to know the true goal of man[^12]."
+
+[^12]: "Quoted in Max Müller's Six Systems. Pp. 10, 108."
 
  As the Shruti says:–
 
 **गवामनेकवर्णानां क्षीरस्याप्येकवर्णता।  
-क्षीरवत्पश्यतेज्ञानं लिंगिनस्तु गवां यथा[॥](# "Brahmarindûp. 19.")**
+क्षीरवत्पश्यतेज्ञानं लिंगिनस्तु गवां यथा॥[^13]**
+
+[^13]: "Brahmarindûp. 19."
 
 
 
@@ -431,9 +457,11 @@ making principle, the individualising or separative power; the 5 **तन्म�
 
 
 
-has, as the giver of its Sûtras, Patañjali, and the Vyâsa Bhâṣhya is its commentary. It is sometimes called the Seshvara Sâñkhya, the Sâñkhya with an Íshvara, because it accepts the Sâñkhya as philosophy, and in adding to it a system of effort which should set the Purusha free, it makes one of the means of freedom [**ईश्वरप्रणिधानं**](# "Sûtrâṇi, i. 23")
+has, as the giver of its Sûtras, Patañjali, and the Vyâsa Bhâṣhya is its commentary. It is sometimes called the Seshvara Sâñkhya, the Sâñkhya with an Íshvara, because it accepts the Sâñkhya as philosophy, and in adding to it a system of effort which should set the Purusha free, it makes one of the means of freedom **ईश्वरप्रणिधानं**[^14]
 
 Íshvarapraṇidhânam, "Self-surrender to the Lord." Patanjali then defines Íshvara, as a special Puruṣha who has not been touched by pain, action, conse- quences of action, and desires, unlimited by time; **तस्य वाचकः प्रणवः** "His name is Om." The Sûtras are 198 in number, arranged in 4 Pâdas, and have as aim the exposition of the means of stopping the constant movements of the **चित्तं** Chittam, the thinking principle, and thus reaching **समाधिः** Samâdhiḥ, the perfectly steady and balanced condition, from which **कैवल्यं** Kaivalyam, the isolation of the Puruṣha, *i.e*. the separation from Prakriti, can be gained, One book out of the four is devoted to the description of the **विभूतिः** Vibhûtiḥ, the powers, obtained in the course of Yoga, but it is remarked that these **सिद्धयः**Siddhayaḥ, are obstacles in the way of Samâdhi, and they are therefore not desirable.
+
+[^14]: "Sûtrâṇi, i. 23"
 
  The remaining pair of systems is entitled the Mîmâmsâ, for both deal primarily with the leading
 
@@ -479,13 +507,17 @@ able but necessary; but for those who have reached the point where only the Átm
 असक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः॥**
 
 **सक्ताः कर्मण्यविद्वांसो यथा कुर्वंति भारत।  
-कुर्याद्विद्वांस्तथाऽसक्तश्चिकीर्षुर्लोकसंग्रहम्[॥](# "Bhagavad-Gîtâ. iii. 19. 25.")**
+कुर्याद्विद्वांस्तथाऽसक्तश्चिकीर्षुर्लोकसंग्रहम्॥[^15]**
+
+[^15]: "Bhagavad-Gîtâ. iii. 19. 25."
 
  "Therefore, without attachment, constantly perform action which is duty, for in performing action without attachment, man verily reacheth the Supreme.
 
  "As the ignorant act from attachment to action, OBharata, so should the wise act without attachment, desiring the maintenance of mankind."
 
- And so Shañkara himself: "If I had not walked without remission in the path of works, others would not have followed in my steps, O [Lord](# "Quoted in Max Muller's Six Systems. P. 217.")."The Jnânî recognises his duties to all around him, plants, animals, men, Gods, Íshvara, and performs them the better, because he acts with
+ And so Shañkara himself: "If I had not walked without remission in the path of works, others would not have followed in my steps, O Lord[^16]."The Jnânî recognises his duties to all around him, plants, animals, men, Gods, Íshvara, and performs them the better, because he acts with
+
+[^16]: "Quoted in Max Muller's Six Systems. P. 217."
 
 
 
@@ -498,7 +530,9 @@ opened eyes, and without personal object to confuse his judgment. But he perform
 
 
 **मनो हि द्विविधं प्रोक्तं शुद्धं चाशुद्धमेव च।  
-अशुद्धं कामसंकल्पं शुद्धं कामविवर्जितम्[॥](# "Loc. cit. 1.")**
+अशुद्धं कामसंकल्पं शुद्धं कामविवर्जितम्॥[^17]**
+
+[^17]: "Loc. cit. 1."
 
  "Manas is said to be of two kinds, pure and impure moved by Kâma it is impure; free of Kâma, it is pure."
 
@@ -520,16 +554,20 @@ CHAPTER I.
 
 THE ONE EXISTENCE.
 
-एकमेवाद्वितीयम्[।](# "Chhândogyop. VI. ii. I.")
+एकमेवाद्वितीयम्।[^18]
 
 "One only, without a second."
+
+[^18]: "Chhândogyop. VI. ii. I."
 
  Thus all the Shrutis proclaim.
 
  Infinite, Absolute, Eternal, Changeless, the All, is THAT, without attributes, without qualities,beyond name and form, **र्निगुणब्रह्म**, Nirguṇa-Brahman.
 
 **नासदासीन्नो सदासीत्  
-आनदवातं स्वधया तदेकं तस्माद्धान्यन्न परः किं चनास[॥](# "Rigveda. X. cxxix. I. 2.")**
+आनदवातं स्वधया तदेकं तस्माद्धान्यन्न परः किं चनास॥[^19]**
+
+[^19]: "Rigveda. X. cxxix. I. 2."
 
  "Then was not non-existence nor existence. THAT Only breathed by Its own nature: apart from THAT was naught."
 
@@ -537,17 +575,23 @@ THE ONE EXISTENCE.
 
 
 
-यदाऽतमस्तन्न दिवा न रात्रिर्नसन्न चासच्छिव एव केवलः[।](# "Shretâshratarop. iv. 18.")
+यदाऽतमस्तन्न दिवा न रात्रिर्नसन्न चासच्छिव एव केवलः।[^20]
 
  "When no darkness (was), then (there was) not day nor night, nor being nor notbeing, (but ) the Blessed alone."
 
+[^20]: "Shretâshratarop. iv. 18."
+
  The same Upanishat says :-
 
-**द्वे अक्षरे ब्रह्मपरे त्वनन्ते विद्यारे विद्ये निहिते यत्र गूढे[।](# "Kathop. II. vi. 12.")**
+**द्वे अक्षरे ब्रह्मपरे त्वनन्ते विद्यारे विद्ये निहिते यत्र गूढे।[^21]**
+
+[^21]: "Kathop. II. vi. 12."
 
  "In the imperishable infinite supreme Brahma knowledge and ignorance are hidden."
 
- **अस्तीति**, ["It is,"](# "Ibid v. I.")such is all that can be said. :
+ **अस्तीति**, "It is,"[^22]such is all that can be said. :
+
+[^22]: "Ibid v. I."
 
  One mysterious sound alone denotes THAT which is beyond number and beyond name: it isthe Praṇava. When Nachiketâḥ presses Yama, Lord of Death, to reveal to him the supreme secret, and when Yama has admitted that he is worthy, Nachiketâḥ prays:
 
@@ -564,7 +608,9 @@ And Yama answers:
 
 **यदिच्छन्तो ब्रह्मचर्यं चरन्ति तत्तं पदं संग्रहेण ब्रवीमि, ओं इत्येतत्॥**
 
-** एतद्ह्येवाक्षरं ब्रह्म एतदेवाक्षरं परम्[॥](# "Ibid. l. ii. 14, 15, 16.")**
+** एतद्ह्येवाक्षरं ब्रह्म एतदेवाक्षरं परम्॥[^23]**
+
+[^23]: "Ibid. l. ii. 14, 15, 16."
 
 
 
@@ -574,26 +620,36 @@ And Yama answers:
 
  Words seem to put far off and to veil in mystery THAT which is in truth nearest and closest, nay, which is more than close, is our very Self. One name, perhaps, speaks most clearly, the, the Paramâtmâ, the Supreme Self.
 
- [**अयमात्मा ब्रह्म**](# "Mâṇḍukyop.2")
+ **अयमात्मा ब्रह्म**[^24]
 
+
+[^24]: "Mâṇḍukyop.2"
 
 
 "This Âtmâ (is) Brahman"
 
- Such is the truth declared over and over again, insisted on in various forms, lest it should not be grasped. As by knowing one clod of clay all clay is known, as by knowing one piece of goldall gold is known, as by knowing one piece of iron all iron is known, no matter by what number of names men may call the objects made of clay, or gold, or iron; so to know one Self is to know THE SELF, and knowing It, all is [known](# "Chhândogyop. VI. i. 4, 5, 6.").
+ Such is the truth declared over and over again, insisted on in various forms, lest it should not be grasped. As by knowing one clod of clay all clay is known, as by knowing one piece of goldall gold is known, as by knowing one piece of iron all iron is known, no matter by what number of names men may call the objects made of clay, or gold, or iron; so to know one Self is to know THE SELF, and knowing It, all is known[^25].
+
+[^25]: "Chhândogyop. VI. i. 4, 5, 6."
 
  Moreover, as is said in the *Chhândogyopanishat*:
 
-**सर्वं खल्विदं [ब्रह्म](# "Ibid. III. xiv, I.")**  
+**सर्वं खल्विदं ब्रह्म[^26]**  
 "All this verily (is) Brahman."
 
+[^26]: "Ibid. III. xiv, I."
 
 
- "This" is the technical word for the universe, and the universe is Brahman, because, "there- from it is born, thereinto it is merged, thereby it is [maintained](# "तज्जलान् is equal to तत्र जायते, लीयते, अनिति।")."All that we see around us comes forth from that Fullness and is as the shadow of that Substance. And yet, as the Upanishad declares, we need not go far to seek:
 
-एष म आत्मान्तर्हृदय [एतद्ब्रह्म](# "Chhândogyop. III. xiv. 4.")
+ "This" is the technical word for the universe, and the universe is Brahman, because, "there- from it is born, thereinto it is merged, thereby it is maintained[^27]."All that we see around us comes forth from that Fullness and is as the shadow of that Substance. And yet, as the Upanishad declares, we need not go far to seek:
+
+[^27]: "तज्जलान् is equal to तत्र जायते, लीयते, अनिति।"
+
+एष म आत्मान्तर्हृदय एतद्ब्रह्म[^28]
 
  "This my Self within the heart, this (is) Brahman."
+
+[^28]: "Chhândogyop. III. xiv. 4."
 
 
 
@@ -602,13 +658,17 @@ And Yama answers:
  This knowledge is the Parâvidyâ, the Supreme Wisdom, and it is to be gained by purity, devotion, self-sacrifice and knowledge.
 
 नाविरतो दुश्चरितान्नाशान्तो नासमाहितः।  
-नाशान्तमानसो वापि प्रज्ञानेनैनमाप्नुयात्[॥](# " Kaṭhop. I. ii. 24.")
+नाशान्तमानसो वापि प्रज्ञानेनैनमाप्नुयात्॥[^29]
 
  "(He who) has not renounced evil ways, nor (is) subdued, nor concentrated, nor (of) subduedmind, even by knowledge he may not obtain IT."
 
-नाथमात्मा बलहीनेन लभ्यो न च प्रमादात्तपसो वाप्यलिङ्गात्।  
-एतैरुपायैर्यतते यस्तु यिद्बांस्तस्यैष आत्मा विशते ब्रह्मधाम[॥](# "Mundakop. III. ii. 4.")
+[^29]: " Kaṭhop. I. ii. 24."
 
+नाथमात्मा बलहीनेन लभ्यो न च प्रमादात्तपसो वाप्यलिङ्गात्।  
+एतैरुपायैर्यतते यस्तु यिद्बांस्तस्यैष आत्मा विशते ब्रह्मधाम॥[^30]
+
+
+[^30]: "Mundakop. III. ii. 4."
 
 
  "Nor is the Âtmâ obtained by the strengthless, nor by the careless, nor without marks of austerity: the wise, who strives by these means, of him the Âtmâ enters the abode of Brahman."
@@ -616,23 +676,33 @@ And Yama answers:
  Here is the Supreme Peace, the Nirvâṇa of Brahman.
 
 लभन्ते ब्रह्मनिर्वाणमृषयः क्षीणकल्मषाः।  
-छिन्नद्वैधा यतात्मानः सर्वभूतहिते रताः[॥](# "Bhagavad-Gîtâ. V. 25.")
+छिन्नद्वैधा यतात्मानः सर्वभूतहिते रताः॥[^31]
 
  "The Rishis, their sins destroyed, their doubts removed, their selves controlled, intent upon the welfare of all beings, obtain the Brahma-Nirvâna."
 
- Of such a one says Shri Kṛiṣhṇa, [**शांतिमृच्छति**](# "Ibid. 29."),"he goeth to Peace."
+[^31]: "Bhagavad-Gîtâ. V. 25."
+
+ Of such a one says Shri Kṛiṣhṇa, **शांतिमृच्छति**[^32],"he goeth to Peace."
+
+[^32]: "Ibid. 29."
 
  But now we read:
 
-एतद्वै सत्यकाम परञ्चापरञ्च ब्रह्म यदोङ्कारः[।](# "Prashnop. V. 2.")
+एतद्वै सत्यकाम परञ्चापरञ्च ब्रह्म यदोङ्कारः।[^33]
 
  "Verily, O Satyakâma, this Omkâra (is) the Supreme and the lower Brahman."
 
+[^33]: "Prashnop. V. 2."
+
    And again:
 
-** द्वे वाव रूपे मूर्त्तेञ्चैवामूर्तञ्च मर्त्यञ्चामृतञ्च स्थितञ्चयच्च सच्च त्यच्च[॥](# "Bṛihadâraṇyakop. II. iii. 1.")**
+** द्वे वाव रूपे मूर्त्तेञ्चैवामूर्तञ्च मर्त्यञ्चामृतञ्च स्थितञ्चयच्च सच्च त्यच्च॥[^34]**
 
- "There are two states of Brahman, formfull and formless, changing and unchanging, finite and [infinite](# "Shaukara gives thus the meaning of स्थितञ्च यच्च."),existent and beyond (existence)."
+[^34]: "Bṛihadâraṇyakop. II. iii. 1."
+
+ "There are two states of Brahman, formfull and formless, changing and unchanging, finite and infinite[^35],existent and beyond (existence)."
+
+[^35]: "Shaukara gives thus the meaning of स्थितञ्च यच्च."
 
 
 
@@ -640,15 +710,19 @@ And Yama answers:
 
  The Rigveda, in the hymn before quoted, gives this appearing:
 
-**तपसस्तन्माहमा जायतैकम्[।](# "Loc. cit. X. cxxix 3.")**
+**तपसस्तन्माहमा जायतैकम्।[^36]**
+
+[^36]: "Loc. cit. X. cxxix 3."
 
  "By the great power of Tapas uprose THE ONE,”
 
  Again, the Wise are asked :
 
-वियस्तस्तम्भषडिमा रजांस्यजस्य रूपे किमिप स्विदेकम्[॥](# "Ibid. I. clxiv. 6.")
+वियस्तस्तम्भषडिमा रजांस्यजस्य रूपे किमिप स्विदेकम्॥[^37]
 
  “ What was that ONE, who, in the form of the Unborn, hath established these six regions ?”
+
+[^37]: "Ibid. I. clxiv. 6."
 
  THE ONE : that is His Name, for THAT where- in He arises is Numberless, beyond Number, and being THE ALL is neither One nor Many.
 
@@ -668,7 +742,9 @@ And Yama answers:
 
 
 **यत्तत्कारणमव्यक्तं नित्यं सदसदात्मकम्।  
-तद्विसृष्टः स पुरुषो लोके ब्रह्मेति कीर्त्यते[॥](# "Manusmṛiti. i. 5, 6, 7, 11.")**
+तद्विसृष्टः स पुरुषो लोके ब्रह्मेति कीर्त्यते॥[^38]**
+
+[^38]: "Manusmṛiti. i. 5, 6, 7, 11."
 
  "This was in the form of Darkness, unknown, without marks (or homogeneous), unattainable by reasoning, unknowable, wholly, as it were, in sleep.
 
@@ -684,21 +760,29 @@ And Yama answers:
 
 
 
-One, by nature Sat and [Asat](# "सदसच्चाहमर्जुन. "),
+One, by nature Sat and Asat[^39],
+
+[^39]: "सदसच्चाहमर्जुन. "
 
 
 
 the Self and the Not-Self, Puruṣha and Prakṛiti, everlasting but appearing and disappearing, is the Cause of all things.
 
-**तमेव भान्तमनुभाति सर्वं तस्य भासा सर्वमिदं विभाति[।](# "Kaṭhon, II. v. 15.")**
+**तमेव भान्तमनुभाति सर्वं तस्य भासा सर्वमिदं विभाति।[^40]**
+
+[^40]: "Kaṭhon, II. v. 15."
 
  "When He hath shone forth, all shines forth after (Him); (by) the shining forth of Him all This shines forth."
 
- We have seen that He is the Saguna Brahman, and He is declared to be in His own nature **सत्** Sat, **चित्** Chit, **आनन्द**Ânanda, Pure Being, Pure Intelligence, Pure Bliss. He is called, **अक्षर** Akṣhara, the Indestructible One, on whom the other―Prakriti is [woven](# "Brihadâraṇyakop . III. vii. 8.");
+ We have seen that He is the Saguna Brahman, and He is declared to be in His own nature **सत्** Sat, **चित्** Chit, **आनन्द**Ânanda, Pure Being, Pure Intelligence, Pure Bliss. He is called, **अक्षर** Akṣhara, the Indestructible One, on whom the other―Prakriti is woven[^41];
+
+[^41]: "Brihadâraṇyakop . III. vii. 8."
 
 He is the **आत्मान्तथाम्यमृतः**, Âtmântaryâmyamṛitah, the Self, the Inner Ruler, Immortal, who dwells in the earth, the waters, the fire, the atmosphere, the wind, the heavens, in all that is, in the Devas, in the elements, in the bodies of all beings, the all-prevading.
 
-** अदृष्टो द्रष्टाऽश्रुतः श्रोताऽमतोमन्ताऽविज्ञातो विज्ञाता नान्योऽतोऽस्ति द्रष्टा नान्योऽतोऽस्ति श्रोता नान्योऽतोऽस्ति मन्ता नान्योऽतोऽस्ति विज्ञातैषतत्र आत्मान्तर्याम्यमृतोऽतोऽन्यदार्ते[॥](# "Ibid. 23.")**
+** अदृष्टो द्रष्टाऽश्रुतः श्रोताऽमतोमन्ताऽविज्ञातो विज्ञाता नान्योऽतोऽस्ति द्रष्टा नान्योऽतोऽस्ति श्रोता नान्योऽतोऽस्ति मन्ता नान्योऽतोऽस्ति विज्ञातैषतत्र आत्मान्तर्याम्यमृतोऽतोऽन्यदार्ते॥[^42]**
+
+[^42]: "Ibid. 23."
 
  "Unseen He sees, unheard He hears, unthought of He thinks, unknown He knows. None other
 
@@ -706,7 +790,9 @@ He is the **आत्मान्तथाम्यमृतः**, Âtmântaryâ
 
 than He is the Seer, none other than He is the Hearer, none other than He is the Thinker, none other than He is the Knower. He is the Self, the Inner Ruler, Immortal. That which is other perishes."
 
- "He is the **आत्मा, [सर्वभूताशयस्थितः](# "Bhagavad-Gitâ. X. 20.")**,
+ "He is the **आत्मा, सर्वभूताशयस्थितः[^43]**,
+
+[^43]: "Bhagavad-Gitâ. X. 20."
 
 
 
@@ -726,7 +812,9 @@ second downward-pointing triangle– which will presently be explained– in man
 
  We have already seen in *Manusmṛiti* that, in the unmanifested state, this is homogeneous and unknowable; it is therefore often compared with the ether, formless but the root of all forms, intangible but the root of all resistances. Its inherent nature is divisibility, as that of the eternal Subject is inseparateness; it is multiplicity, as He is unity. While He is the Father, the Life-Giver, she is the Mother, the Nourisher. Matter is the womb in which the germ is placed.
 
-**मम योनिर्महद् ब्रह्म तस्मिन् गर्भ दधाम्यहम्[।](# "Bhagavad-Gîtâ. xiv. 3, and Shañkara's Commentary.")**
+**मम योनिर्महद् ब्रह्म तस्मिन् गर्भ दधाम्यहम्।[^44]**
+
+[^44]: "Bhagavad-Gîtâ. xiv. 3, and Shañkara's Commentary."
 
  "My womb is the Mahat-Brahma; in that I place the germ "– explained by Shaṇkara as **त्रिगुणात्मिका प्रकृतिः**, the Prakṛiti of three Guṇas.
 
@@ -759,7 +847,9 @@ tamas appearing as inertia, resistance; rajas throwing every particle of the res
  Thus we read:
 
 **तस्यचेच्छास्म्यहं दैत्य सृजामि सकलं जगत्।  
-स मां पश्यति विश्वात्मा तस्याहं प्रकृतिःशिवा[॥](# "Derî Bhâgavata. V. xvi. 36.")**
+स मां पश्यति विश्वात्मा तस्याहं प्रकृतिःशिवा॥[^45]**
+
+[^45]: "Derî Bhâgavata. V. xvi. 36."
 
  "The Will am I, O Daitya, of Him \[the Supreme Purusha\]; I send forth the whole universe. He beholds me, He the Universal Self, I His benign nature."
 
@@ -777,7 +867,9 @@ as she permeates Mûlaprakṛiti and becomes inseparable from it.
 
  These are Her two forms:
 
-**राम माया द्विधा भाति विद्याऽविद्योत ते सदा[।](# "Adhyâtma-Râmâyaṇa. III. iii. 32.")**
+**राम माया द्विधा भाति विद्याऽविद्योत ते सदा।[^46]**
+
+[^46]: "Adhyâtma-Râmâyaṇa. III. iii. 32."
 
  "O Râma! Mâyâ manifests as a duality; these (are) ever Vidyâ and Avidyâ."
 
@@ -790,21 +882,27 @@ as she permeates Mûlaprakṛiti and becomes inseparable from it.
  "Earth, water, fire, air, ether, Manas, and Buddhi also, and Ahamkâra, these are the eightfold division of My Prakṛiti. This the inferior– "goes on:
 
 **...... अन्यां प्रकृतिं विद्धि मे पराम्।  
-जीवभूतां महाबाहो ययेदं धार्यते जगत्[॥](# "Bhagavad-Gîtâ. vii. 4, 5.")**
+जीवभूतां महाबाहो ययेदं धार्यते जगत्॥[^47]**
+
+[^47]: "Bhagavad-Gîtâ. vii. 4, 5."
 
  "Know my other Prakṛiti, the higher, the life-element, O mighty-armed, by which the universe is upheld."
 
 
 
- This "other Prakṛiti" is also spoken of by Him under the name of "**मम देवी प्रकृतिः**" "My divine [Prakṛiti](# "Ibid. ix. 13."),”
+ This "other Prakṛiti" is also spoken of by Him under the name of "**मम देवी प्रकृतिः**" "My divine Prakṛiti[^48],”
+
+[^48]: "Ibid. ix. 13."
 
 
 
 His own Power, His **योगमाया** Yoga-Mâyâ, by which truly “the universe is upheld.” As says the Shruti:
 
-मायां तु प्रकृति विद्यान्मायिनं तु महेश्वरम्[।](# "Shvetâshvatarop.iv 10.")
+मायां तु प्रकृति विद्यान्मायिनं तु महेश्वरम्।[^49]
 
  “Let (the student) know Maya as Prakṛiti; the Possessor of Mâyâ as the Great Lord.
+
+[^49]: "Shvetâshvatarop.iv 10."
 
  "In the *Devî Bhâgavata* some very beautiful descriptions are given of this Matter side of Nature, regarded as Mâyâ.Thus:
 
@@ -826,8 +924,10 @@ His own Power, His **योगमाया** Yoga-Mâyâ, by which truly “the 
 
 मूलप्रकृतिरेवैषा सदा पुरुष संगता।  
 ब्रह्माण्डं दर्शयत्येषा कृत्वा वै परमात्मने॥  
-तस्यैषा कारणं सर्वा माया सर्वेश्वरी शिक्षा[॥](# "Loc, cit, II. iii. 51-61. 3")
+तस्यैषा कारणं सर्वा माया सर्वेश्वरी शिक्षा॥[^50]
 
+
+[^50]: "Loc, cit, II. iii. 51-61. 3"
 
 
  "She (is) Bhagavatî, the Goddess, the cause of us all, Mahâvidyâ, Mahâmâyâ, the Fullness, the imperishable Prakṛiti………
@@ -849,9 +949,11 @@ His own Power, His **योगमाया** Yoga-Mâyâ, by which truly “the 
 
 ततो मायाविशिष्टां तां सम्बिदंपरमेश्वरीम् ।  
 मायेश्वरीं भगवतीं सच्चिदानन्दरूपिणीम्  
-ध्यायेत्...............[॥](# "Ibid. VI. xxxi. 48, 49.")
+ध्यायेत्...............॥[^51]
 
  "She, Mâyâ, is ever in the Supreme Essence,
+
+[^51]: "Ibid. VI. xxxi. 48, 49."
 
 
 
@@ -867,18 +969,24 @@ whose nature is Consciousness, subordinate to Him, and by Him ever sent forth am
 विद्याऽविद्ये च विज्ञेये सर्वदैव विचक्षणैः॥**
 
 **विनाऽऽतपं हि छायाया जायते च कथं सुखम्।  
-अविद्यया विना तद्वत्कथं विद्यांच वेत्ति वै[॥](# "Devî Bhâgavata, I. xviii. 42, 43, 44.")**
+अविद्यया विना तद्वत्कथं विद्यांच वेत्ति वै॥[^52]**
+
+[^52]: "Devî Bhâgavata, I. xviii. 42, 43, 44."
 
  "This notion of separateness being present sends (the Jîva) forth into Samsâra. This is Avidya. O fortunate one! Vidyâ is the turning away from this. Vidyâ and Avidyâ should be always known by the wise. Without sunshine how (should) the pleasure of shade be known? Without Avidyâhow should Vidyâ be known?"
 
 
 
 **प्रवृत्तिमार्गनिरता अविद्यावशवर्तिनः।  
-निवृत्तिनार्गनिरता वेदान्तार्थविचारकाः[॥](# "Adyâtma-Râmâyaṇa, III. iii 32.")**
+निवृत्तिनार्गनिरता वेदान्तार्थविचारकाः॥[^53]**
+
+[^53]: "Adyâtma-Râmâyaṇa, III. iii 32."
 
  "The travellers on the Prâvṛitti Mârga (the forth-going path) are under the power of Avidya. The travellers on the Nivṛitti Mârga (the returning path) reach the Vedânta."
 
- When the Jîva goes forth, facing Prakṛiti and looking at it, Mâyâ envelopes him as Avidyâ. When he turns his back on Prakṛiti, turns towards the Lord, then She turns with him and becomes Vidyâ, and he is free. As Nîlakanṭha says, quoting the *Shaivāgama*: **अन्तर्मुखा शक्तिरेव विद्या[॥](# "Commentary on Devî Bhâg. VI. xv. 47, 48.")**
+ When the Jîva goes forth, facing Prakṛiti and looking at it, Mâyâ envelopes him as Avidyâ. When he turns his back on Prakṛiti, turns towards the Lord, then She turns with him and becomes Vidyâ, and he is free. As Nîlakanṭha says, quoting the *Shaivāgama*: **अन्तर्मुखा शक्तिरेव विद्या॥[^54]**
+
+[^54]: "Commentary on Devî Bhâg. VI. xv. 47, 48."
 
 ****"The inward-facing Shakti is Vidyâ."
 
@@ -888,9 +996,11 @@ whose nature is Consciousness, subordinate to Him, and by Him ever sent forth am
 नमः कूटस्थरूपायै चिद्रपायै नमो नमः।  
 नमो वेदान्तवेद्यायैभुवनेश्वर्यै नमो नमः॥  
 नेति नेतीति वाक्य बोध्यते सकलागमैः।  
-तां सर्वकारणं देवीं सर्वभावेन सन्नताः[॥](# "Devî Bhâgvata. VII. xxviii. 31, 32.")
+तां सर्वकारणं देवीं सर्वभावेन सन्नताः॥[^55]
 
  "Thou Sovereign of endless crores of world-systems, we bow to Thee !
+
+[^55]: "Devî Bhâgvata. VII. xxviii. 31, 32."
 
 
 
@@ -906,13 +1016,17 @@ whose nature is Consciousness, subordinate to Him, and by Him ever sent forth am
 
  He produces The Many.
 
-तदैक्षत बहु स्यां प्रजायेय[।](# "Chhândogyop. VI. ii. 3.")
+तदैक्षत बहु स्यां प्रजायेय।[^56]
 
  "That willed: May I be Many, may I be born."Then, He is given many names:
 
-एकं सद्विप्रा बहुधा वदन्ति[।](# "Rigveda, I, cxiv. 46.")
+[^56]: "Chhândogyop. VI. ii. 3."
+
+एकं सद्विप्रा बहुधा वदन्ति।[^57]
 
  "To what is ONE, the Wise give many names."
+
+[^57]: "Rigveda, I, cxiv. 46."
 
  But whatever the names given, Íshvara is One. Thus has it ever been taught in the Shruti and Smṛiti, as we have seen, and this is repeated in the
 
@@ -921,7 +1035,9 @@ whose nature is Consciousness, subordinate to Him, and by Him ever sent forth am
 more popular teaching of which the *Viṣhṇu Purâṇa* may serve as example.
 
 **सृष्टिस्थित्यंतकरणाद् ब्रह्मविष्णुशिवात्मिकाम्।  
-स संज्ञां याति भगवान् एक एव जनार्दनः[॥](# "Loc. cit. I. ii. 62.")**
+स संज्ञां याति भगवान् एक एव जनार्दनः॥[^58]**
+
+[^58]: "Loc. cit. I. ii. 62."
 
  "Thus the One Only God, Jan*â*rdana, takes the designation of Brahmâ, *Viṣhṇu* and Shiva, accordingly as He creates, preserves, or destroys... He is the Cause of creation, preservation, and destruction."
 
@@ -963,9 +1079,11 @@ THE MANY.
 
 परस्तस्मात्तुभावोऽन्योऽव्यक्तोऽव्यक्तात्सनातनः।  
 यः स सर्वेषु भूतेषु नश्यत्सु न विनश्यति॥  
-अव्यक्तोऽक्षर इत्युक्तस्तमाहुः परमां गतिम्[।](# "Bhagavad-Gîtâ. viii. 18, 21.")
+अव्यक्तोऽक्षर इत्युक्तस्तमाहुः परमां गतिम्।[^59]
 
  "From the Unmanifested all the manifested stream forth at the coming of day; at the coming of night they dissolve, even in That called the Un-manifested.
+
+[^59]: "Bhagavad-Gîtâ. viii. 18, 21."
 
  "This multitude of beings, going forth again and again, is dissolved at the coming of night; by law, O Pârtha, it streams forth at the coming of day.
 
@@ -980,9 +1098,11 @@ THE MANY.
  The wise man
 
 ...... भूतपृथग्भावमेकस्थमनुपश्यति।  
-तत एव च विस्तारं [.....](# "Ibid. xiii. 30.")
+तत एव च विस्तारं .....[^60]
 
  "seeth the diversified existence of beings as rooted in One and proceeding from It."
+
+[^60]: "Ibid. xiii. 30."
 
  We have now to study the nature of this procession from, or production of, the **सर्ग**, Sarga, the sending forth, or evolving. The Sanâtana Dharma does not recognise an unscientific creation, a making of something out of nothing. The supreme Íshvara evolves all beings out of Himself.
 
@@ -992,9 +1112,11 @@ THE MANY.
 
 
 यथा सतः पुरुषात्केशलोमानि  
-तथाक्षरात्सम्भवतीह विश्वम्[॥](# "Muṇḍakop. I. i. 7.")
+तथाक्षरात्सम्भवतीह विश्वम्॥[^61]
 
  "As the spider sends forth and retracts (its web), as in the earth herbs grow, as from a living man the hairs of the head and body, so from the Indestructible the universe becomes."
+
+[^61]: "Muṇḍakop. I. i. 7."
 
 यथा सुदीप्तात्पावकाद्विस्फुलिङ्गाः  
 सहस्रशः प्रभवन्ते सरूपाः।  
@@ -1009,9 +1131,11 @@ THE MANY.
 ....        ....         ....        .....
 
 तस्माच्च देवा बहुधा सम्प्रसूताः  
-साध्याः मनुष्याः पशवो वयांसि[।](# "Ibid. 11. i. 1, 3, 7.")
+साध्याः मनुष्याः पशवो वयांसि।[^62]
 
  "As from a blazing fire in a thousand ways similar sparks spring forth, so from the Indestructible, O beloved, various types of beings are born, and also return thither.........
+
+[^62]: "Ibid. 11. i. 1, 3, 7."
 
  “From That are born Breath, Mind, and all the Senses, Ether, Air, Fire, Water, and Earth, the support of all.........
 
@@ -1025,7 +1149,9 @@ THE MANY.
 
 ** अस्य ब्रह्माण्डस्य समन्ततः स्थितान्येतादृशान्यनन्तकोटिब्रह्माण्डानि सावरणानि ज्वलन्ति। चतुर्मुख-पञ्चमुख-षण्मुख-सप्तमखाष्ट-मुखादि-संख्याक्रमेण
 सहसावधिमुखान्तैर्नारायणांशैरजोगुणप्रधानैरेकैकसृष्टिकर्तृभिरधिष्ठितानि
-विष्णुमहेश्वराख्यैर्नारायणांशैः सत्त्वतमोगुणप्रधानैरेकैकस्थितिसंहारकर्तृभिरधिष्ठितानि महाजलाघमत्स्यबुदुदादान्तसंघवद् भ्रमन्ति[॥](# "Âtharvaṇa (or Tripâd– Vibhûti) Mahânârâyaṇa. vi,")**
+विष्णुमहेश्वराख्यैर्नारायणांशैः सत्त्वतमोगुणप्रधानैरेकैकस्थितिसंहारकर्तृभिरधिष्ठितानि महाजलाघमत्स्यबुदुदादान्तसंघवद् भ्रमन्ति॥[^63] Mahânârâyaṇa. vi,")**
+
+[^63]: "Âtharvaṇa (or Tripâd– Vibhûti
 
  "All around this Brahmâṇḍa, there blaze infinite crores of other similar Brahmâṇḍas, with their envelopes. Four-faced, five-faced, six-faced, seven-faced, eight-faced, successively, up to the number of a thousand-faced portions of Nârâyaṇa, in whom the Rajoguṇa is pre-dominant, Creators each of one world-system, preside in them. Portions of Nârâyaṇa, called Viṣhṇu and Maheshvara, in whom the Sattva and Tamo Guņas predominate, also
 
@@ -1035,7 +1161,9 @@ preside in them, performing the work of preservation and destruction in each. Th
 
 **संख्या चेद् रजसामस्ति विश्वानां न कदाचन॥  
 ब्रह्मविष्णुशिवादीनाम् तथा संख्या न विद्यते।  
-प्रतिविश्वेषु सन्त्येव ब्रह्मविष्णुशिवादयः[।](# "Devî Bhâg, 1X, iii. 7, 8.")**
+प्रतिविश्वेषु सन्त्येव ब्रह्मविष्णुशिवादयः।[^64]**
+
+[^64]: "Devî Bhâg, 1X, iii. 7, 8."
 
  "Grains of sand are perhaps numerable, but of universes (there is ) not any (numbering.)
 
@@ -1059,9 +1187,11 @@ Saguṇa Brahman and Mûlaprakṛiti, out of Space and Time, Eternal.
 
 Indeed, as Nârâyaṇa, He whose dwelling is in the waters, He is worshipped as Saguṇa Brahman, dwelling in Matter.
 
- Shiva, or Mahâdeva, or Maheshvara, is the Destroyer, He who frees Átmâ from inprisoning forms, who destroys Avidyâ and so gives Vidyâ, and who, finally rolling up the universe, brings the peace of liberation. His Shakti is Umâ, **इच्छा**, Ichchhâ, Will, called also, **ब्रह्मविद्या** Brahavidyâ, who reveals [Brahman](# "See Kenop, iii, iv,")
+ Shiva, or Mahâdeva, or Maheshvara, is the Destroyer, He who frees Átmâ from inprisoning forms, who destroys Avidyâ and so gives Vidyâ, and who, finally rolling up the universe, brings the peace of liberation. His Shakti is Umâ, **इच्छा**, Ichchhâ, Will, called also, **ब्रह्मविद्या** Brahavidyâ, who reveals Brahman[^65]
 
-[.](# "See Kenop, iii, iv,") He is pictured ever as an Ascetic, it being He who is the Object of worship for Yogîs, who have renounced the world. He rides on the Bull, the emblem of the mind (and sometimes of physical nature), as having subdued it, and wears the tiger-skin, the emblem of the slain desire-nature. Hence is He, as the name Shiva implies, Ânanda, the peace and bliss of Âtmâ, freed from desire and master of mind.
+.[^65] He is pictured ever as an Ascetic, it being He who is the Object of worship for Yogîs, who have renounced the world. He rides on the Bull, the emblem of the mind (and sometimes of physical nature), as having subdued it, and wears the tiger-skin, the emblem of the slain desire-nature. Hence is He, as the name Shiva implies, Ânanda, the peace and bliss of Âtmâ, freed from desire and master of mind.
+
+[^65]: "See Kenop, iii, iv,"
 
  These Supreme Forms of Íshvara, separated by Their functions, but One in Essence, stand as the central Life of the Brahmâṇḍa, and from and by Them it proceeds, is maintained, and is indrawn. Their functions should not be confused, but their Unity should never be forgotten.
 
@@ -1073,9 +1203,11 @@ Indeed, as Nârâyaṇa, He whose dwelling is in the waters, He is worshipped as
 अप एव ससर्जादाै तासु बीजमवासृजत्॥
 
 तदण्डमभवद्धैमं सहस्रांशुसमप्रभम्।  
-तस्मिञ्जज्ञे स्वयं ब्रह्मा सर्वलोकपितामहः[॥](# "Manusmṛiti. i. 8, 9.")
+तस्मिञ्जज्ञे स्वयं ब्रह्मा सर्वलोकपितामहः॥[^67]
 
  "He, having meditated, desiring to produce various beings from His own body, first put forth the waters; in these He placed the seed.
+
+[^67]: "Manusmṛiti. i. 8, 9."
 
  "That became a Golden Egg, equal in radiance to the thousand-rayed \[the Sun \]. In that was born Brahmâ Himself, the Grandsire of all worlds."
 
@@ -1083,7 +1215,9 @@ Indeed, as Nârâyaṇa, He whose dwelling is in the waters, He is worshipped as
 
 
 
-origin of the elements, (Ahamkâra) Mahat and primal homogeneous Matter, which surrounds the [whole](# "Loc, cit, I. ii.").
+origin of the elements, (Ahamkâra) Mahat and primal homogeneous Matter, which surrounds the whole[^68].
+
+[^68]: "Loc, cit, I. ii."
 
  Every world-system is thus surrounded by the great kosmic elements, as described in the First Chapter of *Manusmṛiti* by Manu himself (shl. 559). The account of the later creation is given over to Bhrigu, who explains briefly the repetition of the process within the World-Egg. A similar and fuller account is given in the *Mahâbhârata,* and in the Viṣhṇu and other Purâņas.
 
@@ -1125,9 +1259,11 @@ origin of the elements, (Ahamkâra) Mahat and primal homogeneous Matter, which s
 
 ...        ...       ...       ...
 
-तत् कार्यं च विराड्देहः स्थूलदेहोऽयमात्मनः[॥](# "Loc. eit. VII. xxxii. 22, 28.")
+तत् कार्यं च विराड्देहः स्थूलदेहोऽयमात्मनः॥[^69]
 
  "He by His Mâyâ, conjoined with Kâma and Karma, because of the Samskåra of past experience, and the ripeness of time and Karma, and because of non-discrimination of the Tattva, becomes desirous of creation. This emanation, O King of mountains, is not preceded by Buddhi. This transcendental form of mine that I have de-
+
+[^69]: "Loc. eit. VII. xxxii. 22, 28."
 
 
 
@@ -1142,9 +1278,11 @@ scribed to thee, is the undifferentiated Avyakta, and the Mâyâ-coloured; in al
 Bhûta and Mahat. In any case, the materials from which the worlds are made are seven, and these seven are spoken of in Manu as the source of all:
 
 **तेषामिदं तु सप्तानां पुरुषाणां महौजसाम्।  
-सूक्ष्माभ्यो मूर्तिमात्राभ्यः सम्भवति.........**[॥](# "Loc, cit, i, 19:")
+सूक्ष्माभ्यो मूर्तिमात्राभ्यः सम्भवति.........**॥[^70]
 
  "Verily, this becomes from the subtile formative particles of these seven very mighty Beings."
+
+[^70]: "Loc, cit, i, 19:"
 
  We shall now see that the creative process within a Brahmâṇḍa follows on the same lines.
 
@@ -1163,20 +1301,26 @@ air, fire, water, earth. Causing Rajo-guṇa to prevail, Ahamkâra gives rise to
 
 
 इन्द्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान्।  
-एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः[॥](# "Rigveda, clxiv. 46. 2.")
+एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः॥[^71]
 
  "Indra, Mitra. Varuṇa, Agni, they call Him, and He is golden-feathered Garutmân. Of what is One, sages speak as manifold; they call Him Agni, Yama, Mâtarishvâ."
 
+[^71]: "Rigveda, clxiv. 46. 2."
+
  So also the Smṛiti :
 
-आत्मैव देवताः सर्वाः सर्वमात्मन्यवस्थितम्[।](# "Manu. xii, 119.")
+आत्मैव देवताः सर्वाः सर्वमात्मन्यवस्थितम्।[^72]
 
  "All the Gods (are) even the Self: all rests on the Self."
 
+[^72]: "Manu. xii, 119."
+
 एतमेके वदन्त्यग्निं मनुमन्ये प्रजापतिम्।  
-इन्द्रमेऽपरे प्राणमपरे ब्रह्म शाश्वतम्[॥](# "Ibid. 123.")
+इन्द्रमेऽपरे प्राणमपरे ब्रह्म शाश्वतम्॥[^73]
 
  "Some call Him Agni, others Manu, (others) Prajapati, some Indra, others Life-Breath, others the eternal Brahman." But the Devas have their own place in nature, as the ministers of the will of Íshvara, ruling, protecting, adjusting, guiding, with intelligence and power far greater than human, but still limited. The name, Deva, Shining or Radiant, very well describes their resplendent appearance, their bodies being formed of a subtle luminous matter, and hence flashing out light. They are concerned with the matter-side of nature, and the guidance of its evolution, and all the constructive
+
+[^73]: "Ibid. 123."
 
 
 
@@ -1188,20 +1332,26 @@ result is a chance, or accident. But it must be remembered that all Devas work w
 
 देवान्भावयतानेन ते देवा भावयन्तु वः।  
 परस्परं भावयन्तः श्रेयः परमवाप्स्यथ॥  
-इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः[।](# "Bhagavad-Gîtã. iii. 11,12. 2")
+इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः।[^74]
 
  "With this nourish ye the Devas, (and) may the Devas nourish you: thus nourishing each other ye shall obtain the greatest good.
+
+[^74]: "Bhagavad-Gîtã. iii. 11,12. 2"
 
  "Nourished by sacrifice, the Devas shall give you (all) desired enjoyments."
 
  And the reason is given :
 
 **अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः।  
-यज्ञाद्भवति [पर्जन्यः](# "Ibid. 14.")**
+यज्ञाद्भवति पर्जन्यः[^75]**
+
+[^75]: "Ibid. 14."
 
  "From food creatures become; from rain is the production of food; from sacrifice rain proceedeth."
 
-**कांक्षंतः कर्मणां सिद्धिं यजन्त इह देवताः[।](# "Ibid. iv. 12.")**
+**कांक्षंतः कर्मणां सिद्धिं यजन्त इह देवताः।[^76]**
+
+[^76]: "Ibid. iv. 12."
 
  "They who desire success in action here worship the Devas."
 
@@ -1209,9 +1359,11 @@ result is a chance, or accident. But it must be remembered that all Devas work w
 
 
 
-अन्तवत्तु फलम्[।](# "1bid. vii. 23.")
+अन्तवत्तु फलम्।[^77]
 
  "Transient indeed the fruit,"
+
+[^77]: "1bid. vii. 23."
 
  Hence the worship of the Devas is not practised by men whose hearts are set on spiritual things. They worship Íshvara, rather than His ministers, either as Brahman, or as revealed in the Trimûrti, or in the Shaktis, or in such a Deva as Gaṇesha for learning, or in the Avatâras. But this will be further dealt with in Part II, Chapter V.
 
@@ -1233,9 +1385,11 @@ tion, many varieties occur in different kalpas, and accounts in the different bo
 
  The stages of evolution are very plainly given in the *Aitareya Brâhmana*.
 
- तस्य य आत्मानमाविस्तरां वेदाभ्नुते हावर्भूयः। ओषधिवनस्पतयो यच्च किञ्च प्राणभृत् स आत्मानमाविस्तरां वेद। ओषधिवनस्पतिषु हि रसो दृश्यते। चित्तं प्राणभृत्सु। प्राणभृत्सु खेवाविस्तरामात्मा। तेषु हि रसोऽपि दृश्यते। न चित्तमितरेषु। पुरुषे त्वेवाविस्तरामात्मा। स हि प्रज्ञानेन सम्पन्न तमः। विज्ञातं वदति। विज्ञातंपश्यति। वेद श्वस्तनम्। वेद लोकालोकौ। मर्त्येनामृतम् ईप्सति।एवं सम्पन्नः। अथेतरेषां पशूनामशनापिपासे एवाभिविज्ञानम्। नविज्ञातं वदन्ति। न विज्ञातं पश्यन्ति। न विदुः श्वस्तनम्। न लोकालोकौ। त एतावन्तो भवन्ति। यथाप्रज्ञं हि सम्भवाः[॥](# "Aitareyâraṇyaka. II. iii. 2.")
+ तस्य य आत्मानमाविस्तरां वेदाभ्नुते हावर्भूयः। ओषधिवनस्पतयो यच्च किञ्च प्राणभृत् स आत्मानमाविस्तरां वेद। ओषधिवनस्पतिषु हि रसो दृश्यते। चित्तं प्राणभृत्सु। प्राणभृत्सु खेवाविस्तरामात्मा। तेषु हि रसोऽपि दृश्यते। न चित्तमितरेषु। पुरुषे त्वेवाविस्तरामात्मा। स हि प्रज्ञानेन सम्पन्न तमः। विज्ञातं वदति। विज्ञातंपश्यति। वेद श्वस्तनम्। वेद लोकालोकौ। मर्त्येनामृतम् ईप्सति।एवं सम्पन्नः। अथेतरेषां पशूनामशनापिपासे एवाभिविज्ञानम्। नविज्ञातं वदन्ति। न विज्ञातं पश्यन्ति। न विदुः श्वस्तनम्। न लोकालोकौ। त एतावन्तो भवन्ति। यथाप्रज्ञं हि सम्भवाः॥[^78]
 
  “He who knows the Âtmâ as Him (the Puruṣha) in manifestation, he most enjoys that manifestation. Herbs and trees and all that bears life, he knows as the Self in manifestation. In herbs and trees Rasa (sap, life, ) is seen, and mind in them that have Prâṇa. In that them have Prâṇa, the
+
+[^78]: "Aitareyâraṇyaka. II. iii. 2."
 
 
 
@@ -3187,9 +3341,11 @@ brought before the eyes of the present dwellers upon earth.
 
 
 
-three generations of Pitṛis or to all Piṭris. The offerings connected with it are intended to be offered during a whole year. No âvâhana, inviting, takes place in this ceremony, nor the putting of food into the fire, nor do the Vishvedevas take part in [it.](# "Shânkhâyana's Grihya Sûtras iv, 2.5.")
+three generations of Pitṛis or to all Piṭris. The offerings connected with it are intended to be offered during a whole year. No âvâhana, inviting, takes place in this ceremony, nor the putting of food into the fire, nor do the Vishvedevas take part in it.[^79]
 
  The Ekoddishta-shrâddhas are completed by the performance of the Sapiṇḍîkaraṇa, the reception of the Preta, into the community of the Pitṛis. According to Shânkhâyana, the celebrant fills four water-pots with sesamum, scents, and water—three for the fathers, one for the newly dead person—and pours the pot that belongs to the newly dead person into the pots of the Pitṛis with the two verses, *Vâjasaneya Samhitâ*. xix. 45, [46](http://॑# "Ib. iv.3.").
+
+[^79]: "Shânkhâyana's Grihya Sûtras iv, 2.5."
 
  If these ceremonies should be properly performed, the subtle parts of the offerings made during their performance feed the deceased till he goes to Pitṛiloka. The mantras facilitate his passage thereto and he takes his place among the Pitṛis.
 
@@ -3198,7 +3354,9 @@ three generations of Pitṛis or to all Piṭris. The offerings connected with i
 
 
 
- The numerous periodical ceremonies that are performed to the Pitṛis proper are technically Shrâddhas. At a Shrâddha the Pitṛis are the deities to whom the sacrifice is offered; the Brâhmaṇas who are fed represent the Âhavanîya [fire](# " Âpastamba's Dharma Sûtras. II. vii. 16 (3).").
+ The numerous periodical ceremonies that are performed to the Pitṛis proper are technically Shrâddhas. At a Shrâddha the Pitṛis are the deities to whom the sacrifice is offered; the Brâhmaṇas who are fed represent the Âhavanîya fire[^80].").
+
+[^80]: " Âpastamba's Dharma Sûtras. II. vii. 16 (3
 
  The Âbhyudayika-shrâddhas or Nândî shrâddhas are performed on the occasions of rejoicings, such as the birth of a son, the marriage of a son or daughter, nâmakaraṇa, jâtakarma, chûdâkarma etc. In this ceremony the Nândimukha Pitṛis, glad-faced ancestors, those that have gone to the Svarga Loka, are invoked, and an even number of Brâhmaṇas are fed in the forenoon.
 
@@ -3210,28 +3368,44 @@ three generations of Pitṛis or to all Piṭris. The offerings connected with i
 
 Pârvaṇa-shrâddham, one of the seven **पाकयज्ञाः**, Pâkayajñâḥ, or sacrifices with baked offerings.
 
- Sacrifices to the Pitris are offered in the afternoon, facing [south](# "Âpastamba's Yajna Paribhâsha. Sûtra LX."),and the ground should slope [southwards](# "Manusmṛiti. iii. 206.").On the new moon-day, Kusha or Darbha grass is arranged for seats, and an odd number of Brâhmaṇas are invited. Great stress is laid on the character and learning of these Brâhmaṇas.
+ Sacrifices to the Pitris are offered in the afternoon, facing south[^81],and the ground should slope southwards[^82].On the new moon-day, Kusha or Darbha grass is arranged for seats, and an odd number of Brâhmaṇas are invited. Great stress is laid on the character and learning of these Brâhmaṇas.
+
+[^81]: "Âpastamba's Yajna Paribhâsha. Sûtra LX."
+
+[^82]: "Manusmṛiti. iii. 206."
 
 **यथेरिणेबीजमुप्ता न वप्ता लभते फलम्।  
-तथानृत्तेहविर्दत्त्वा न दाता लभते फलम्[॥](# "Ibid. 142.")**
+तथानृत्तेहविर्दत्त्वा न दाता लभते फलम्॥[^83]**
+
+[^83]: "Ibid. 142."
 
  "As the sower, having sown seed in barren soil, obtains no harvest, so the giver, having given sacrificial food to one ignorant of the Ṛichas, obtains no harvest."
 
 नश्यन्ति हव्यकव्यानि नराणामविजानताम्।  
-भस्मभूतेषु विप्रेषु मोहाद्दत्तानि दातृभिः[॥](# "Manusmṛiti. iii. 97.")
+भस्मभूतेषु विप्रेषु मोहाद्दत्तानि दातृभिः॥[^84]
 
  "The offerings of ignorant men to Devas and Pitṛis perish, being gifts from deluded givers to Brâhmaṇas who are ashes."
 
+[^84]: "Manusmṛiti. iii. 97."
+
 **ब्राह्मणो ह्यनधीयानस्तृणाग्निरिव शाम्यति।  
-तस्मै हव्यं न दातव्यं न हि भस्मनि हूयते[॥](# "Ibid. 168.")**
+तस्मै हव्यं न दातव्यं न हि भस्मनि हूयते॥[^85]**
+
+[^85]: "Ibid. 168."
 
 
 
  'A Brâhmaṇa who is ignorant is like a grass fire that goes out; to him sacrificial food ought not to be given; offerings are not poured into ashes."
 
- So, also, Hiraṇyakeṣhin says that the Brâhmaṇas invited to the Shrâddha must be pure and versed in the [mantras](# "Gṛihya Sûtras. II. iv. 10.").
+ So, also, Hiraṇyakeṣhin says that the Brâhmaṇas invited to the Shrâddha must be pure and versed in the mantras[^86].
 
- Having gathered these and prepared the materials for the sacrifice, and offered Havih in the Dakshiṇâgni, the sacrificer calls to the Pitṛis, and sprinkles water. According to Manu, he should make three cakes, offering them to his father, grandfather and great-grandfather, pour out water near the cakes, and give to the Brâhmaṇas very small portions of them; after this the Brâhmaṇas should be fed in the [afternoon](# "Manusmṛiti, iii. 208-237,").In the *GṛihyaSûtras* it is directed that the Brâhmaṇas are first fed, and that then the offerings are to be made to the Pitṛis. The domestic Bali offerings should follow the [Shrâddha](# "Ibid. 265.").
+[^86]: "Gṛihya Sûtras. II. iv. 10."
+
+ Having gathered these and prepared the materials for the sacrifice, and offered Havih in the Dakshiṇâgni, the sacrificer calls to the Pitṛis, and sprinkles water. According to Manu, he should make three cakes, offering them to his father, grandfather and great-grandfather, pour out water near the cakes, and give to the Brâhmaṇas very small portions of them; after this the Brâhmaṇas should be fed in the afternoon[^87].In the *GṛihyaSûtras* it is directed that the Brâhmaṇas are first fed, and that then the offerings are to be made to the Pitṛis. The domestic Bali offerings should follow the Shrâddha[^88].
+
+[^87]: "Manusmṛiti, iii. 208-237,"
+
+[^88]: "Ibid. 265."
 
  Similar ceremonies may be performed in the dark fortnight, and the Ashṭakâ ceremony is sometimes offered to the Pitṛis.
 
@@ -3287,16 +3461,20 @@ disease, and also to preserve and strengthen the bodily and mental health of the
  A man must wash, in some cases bathe the whole body, before taking part in any religious ceremony, and sip water with appropriate mantras.
 
 **आचम्य प्रधतो नित्यमुभेसंध्ये समाहितः।  
-शुचौ देशे जपञ्जप्यमुपासीत यथाविधि[॥](# "Manusmṛiti. ii. 222.")**
+शुचौ देशे जपञ्जप्यमुपासीत यथाविधि॥[^89]**
+
+[^89]: "Manusmṛiti. ii. 222."
 
  "Being purified by sipping water, he shall always daily worship in the two twilights with a collected mind, in a pure place, performing Japa according to rule."
 
  He must wash before and after meals:
 
 उपस्पृश्य द्विजो नित्यमन्नमद्यात्समाहितः।  
-भुत्त्का चोपस्पृशेन्सम्यगद्भिः खानि च संस्पृशेत्[॥](# "Manusmṛiti, ii. 53.")
+भुत्त्का चोपस्पृशेन्सम्यगद्भिः खानि च संस्पृशेत्॥[^90]
 
  "Having washed, the twice-born should eat food always with a collected mind; having eaten, let
+
+[^90]: "Manusmṛiti, ii. 53."
 
 
 
@@ -3304,20 +3482,28 @@ him wash well with water, sprinkling the senseorgans."
 
  If a man has touched anything impure, a person or an object,
 
-**स्नानेन शुध्यति[॥](# "Ibid. v. 85.")**
+**स्नानेन शुध्यति॥[^91]**
+
+[^91]: "Ibid. v. 85."
 
  "by bathing he is purified."
 
-**मृत्तायैः शुष्यते शोध्यं[।](# " Ibid. 103.")**
+**मृत्तायैः शुष्यते शोध्यं।[^92]**
+
+[^92]: " Ibid. 103."
 
  ''By earth and water that which should be made pure is purified."
 
- These are the two great purifiers, though alkalies and acids may be used for cleaning copper, iron, brass, pewter, tin and lead; earthen vessels can be purified by burning, houses by sweeping, cowdung and whitewash ; other methods are given for special substances. So long as any smell or stain remains on an object it is not to be considered [pure.](# "Ibid. 105-127.")
+ These are the two great purifiers, though alkalies and acids may be used for cleaning copper, iron, brass, pewter, tin and lead; earthen vessels can be purified by burning, houses by sweeping, cowdung and whitewash ; other methods are given for special substances. So long as any smell or stain remains on an object it is not to be considered pure.[^93]
 
 ज्ञानं तपोऽग्निराहारो मृन्मनो वार्युपाञ्जनम्।  
-वायुः कर्मार्ककात्मैच शुद्धः कर्तॄणि देहिनाम्[॥](# "Ibid, 105.")
+वायुः कर्मार्ककात्मैच शुद्धः कर्तॄणि देहिनाम्॥[^94]
+
+[^93]: "Ibid. 105-127."
 
  ''Wisdom, austerity, fire, food, earth, mind, water, plastering, wind, rites, the sun and time, are the purifiers of human beings."
+
+[^94]: "Ibid, 105."
 
  But no body can be truly pure unless the mind and heart be pure :
 
@@ -3402,9 +3588,11 @@ And again—
 आशासते कुदुम्बिभ्यस्तेभ्यः कार्यं विजानता॥
 
 स्वाध्यायेनार्चयेतर्षीन् हामैर्देवान्यथाविधि।  
-पितॄञ्छ्राद्धेन नॄनन्नैर्भूतानि बलिकर्मणा[॥](# "Manusmṛiti. iii. 80, 81.")
+पितॄञ्छ्राद्धेन नॄनन्नैर्भूतानि बलिकर्मणा॥[^95]
 
  "The Ṛiṣhis, the Pitṛis, the Devas, the Bhûtas and guests expect (help) from the householders: hence he who knows should give to them.
+
+[^95]: "Manusmṛiti. iii. 80, 81."
 
  "Let him worship, according to the rule, the Ṛiṣhis with Veda study, the Devas with Homa, the Pitṛis with Shrâddha, men with food, and the Bhûtas with Bali."
 
@@ -3423,7 +3611,9 @@ ished by exhalations as men by food, their subtle bodies needing no coarser sust
  The sacrifice to Bhûtas consists of Bali, or offerings of food placed on the ground in all directions, intended for various beings of the invisible worlds, and also for stray animals of all kinds and wandering outcasts and diseased persons. The injunction as to this should be remembered:
 
 **शुनां च पतितानां च श्वपचां पापरोगिणाम्।  
-वायसानां कृमीणां च शनकैर्निर्वपेद्भुवि[॥](# "Manusmṛiti, iii, 92,")**
+वायसानां कृमीणां च शनकैर्निर्वपेद्भुवि॥[^96]**
+
+[^96]: "Manusmṛiti, iii, 92,"
 
  "Let him gently place on the ground (food) for dogs, outcasts, Shvapachas, those diseased from sins, crows and insects."
 
@@ -3432,9 +3622,11 @@ ished by exhalations as men by food, their subtle bodies needing no coarser sust
  Lastly comes the sacrifice to men, the feeding of guests—or generally of the poor—the giving of food to the houseless and the student:
 
 कृत्वैतद्वलिकर्मैवमतिथिं पूर्वमाशयेत्।  
-भिक्षां च भिक्षवे दद्याद्विधिवद्ब्रह्मचारिणि[॥](# "Ibid, iii, 94.")
+भिक्षां च भिक्षवे दद्याद्विधिवद्ब्रह्मचारिणि॥[^97]
 
  "The Bali offering made, let him feed first the guest, and let him give food, according to rule, to a beggar and a student."
+
+[^97]: "Ibid, iii, 94."
 
  In this man is taught his duty to his brother-men, his duty of brotherly help and kindness. He feeds
 
@@ -3493,7 +3685,9 @@ of the Pitṛis, and have been dealt with in Chapter II. under Shrâddha. The re
 
  According to some authors the domestic or household—the Âvasathya or Vaivâhika—fire is lighted by the student on his return home when his pupilage is completed; but on this point there are many varieties of custom. The Pâkayajñas are offered in the household fire.
 
- A description of the daily life of a Brâhmaṇa is given in the [*Âhnika Sûtravalî*](# "Edited by Pandit Vaidyanârâyaṇa Vitthala."), and may be summarised as follows:
+ A description of the daily life of a Brâhmaṇa is given in the *Âhnika Sûtravalî*[^98], and may be summarised as follows:
+
+[^98]: "Edited by Pandit Vaidyanârâyaṇa Vitthala."
 
 
 
@@ -3510,7 +3704,9 @@ body and of the Vedas. At the dawn he should rise, follow the Shaucha rules, and
 
 
 
- He should wake up in the [Brâhmamuhûrta](# "There are thirty Muhûrtas in 24 hours, a Muhûrta being 43 minutes. The Brâhmamuhûrta is the third Muhûrta of the last quarter of the night.") and think of Dharma and Artha, of the evils of the allowed to monopolise his time. Above all he should realise the idea that man has no separate individual existence, but is indissolubly linked with the universe, and his whole life must be a life of sacrifice and duties, if he is to fulfil the very law of his being. Such deliberate regulation of life is wise—necessary, even, if the most is to be made of life—and conduces to peacefulness and absence of hurry. In modern life the details cannot be carried out, but the general principle of regularity, balance and a sustained spirit of self-sacrifice and duty should be maintained, so that all-round and harmonious progress may be made.
+ He should wake up in the Brâhmamuhûrta[^99] and think of Dharma and Artha, of the evils of the allowed to monopolise his time. Above all he should realise the idea that man has no separate individual existence, but is indissolubly linked with the universe, and his whole life must be a life of sacrifice and duties, if he is to fulfil the very law of his being. Such deliberate regulation of life is wise—necessary, even, if the most is to be made of life—and conduces to peacefulness and absence of hurry. In modern life the details cannot be carried out, but the general principle of regularity, balance and a sustained spirit of self-sacrifice and duty should be maintained, so that all-round and harmonious progress may be made.
+
+[^99]: "There are thirty Muhûrtas in 24 hours, a Muhûrta being 43 minutes. The Brâhmamuhûrta is the third Muhûrta of the last quarter of the night."
 
 
 
@@ -3536,7 +3732,9 @@ and is not only due from man to the source of his life, but is a necessary stage
 
  Now a Form is necessary for worship. The Nirguṇa Brahman, the Absolute, the All, cannot be an Object of worship. It is not an Object, but is beyond all Subject and Object, including all, inseparate. But from THAT
 
-**वाचो निवर्तन्त अप्राप्य मनसा सह[॥](# "Taittirîyop. II. iv. 1.")**
+**वाचो निवर्तन्त अप्राप्य मनसा सह॥[^100]**
+
+[^100]: "Taittirîyop. II. iv. 1."
 
  "Words return with the mind, not having reached."
 
@@ -3574,9 +3772,11 @@ nature, and who find rest and peace in the contemplation of Brahman in His own n
 अनन्येनैव योगेन मां ध्यायंत उपासते॥
 
 तेषामहं समुद्धर्ता मृत्युसंसारसागरात्।  
-भवामि न चिरात्पार्थ मय्यावेशितचेतसाम्[॥](# "Bhagavad Gitâ. xii 1–7.")
+भवामि न चिरात्पार्थ मय्यावेशितचेतसाम्॥[^101]
 
  "Those Bhaktas, who, ever controlled, worship Thee, and those also (who worship) the Indestructible, the Unmanifested, of these which are the more skilled in Yoga?
+
+[^101]: "Bhagavad Gitâ. xii 1–7."
 
  "The Blessed Lord said:
 
@@ -3653,24 +3853,32 @@ here be carefully studied, when the time for systematic meditation arrives. In s
 due performance of Sandhyâ and of some form of Pûjâ may suffice, but the theoretical outline of the practice of meditation may be given. Says Patañjali ;
 
 यमनियमासनप्राणायामप्रत्याहारधारणा-  
-ध्यानसमाधयोऽष्टावङ्गानि[।](# "Op. eit.ii.29.")
+ध्यानसमाधयोऽष्टावङ्गानि।[^102]
 
  "Yama, Niyama, Âsana, Prâṇâyâma, Pratyâhâra, Dhâraṇâ, Dhyâna, Samâdhi—the eight limbs."
 
+[^102]: "Op. eit.ii.29."
+
  The first two of these, Yama and Niyama, have to do with conduct, for without good conduct and purity there can be no meditation.
 
-तत्राहिंसासत्यास्तेयब्रह्मचर्यापरिग्रहा यमाः[।](# "Ibid. 30.")
+तत्राहिंसासत्यास्तेयब्रह्मचर्यापरिग्रहा यमाः।[^103]
 
  ''Harmlessness, truth, honesty, chastity, absence of greed—(these are) Yamas."
 
-शौचसंतोषतपःस्वाध्यायेश्वरप्रणिधानानि नियमाः[।](# "Ibid. 32.")
+[^103]: "Ibid. 30."
+
+शौचसंतोषतपःस्वाध्यायेश्वरप्रणिधानानि नियमाः।[^104]
 
  "Purity, contentment, austerity, Veda study, yearning after Íshvara-(these are) Niyamas."
 
+[^104]: "Ibid. 32."
+
  These qualities acquired, a man may sit for meditation. There are two preliminaries. Any posture which is steady and pleasant is suitable :
 
-स्थिरसुखमासनम्[।](# "Ibid.46.")
+स्थिरसुखमासनम्।[^105]
 
+
+[^105]: "Ibid.46."
 
 
  "Firm, pleasant-(that is) Âsana."
@@ -3681,19 +3889,25 @@ due performance of Sandhyâ and of some form of Pûjâ may suffice, but the theo
 
  Now follows meditation proper, consisting of three stages, Dhâraṇa, Dhyâna and Samâdhi.
 
-**देशबन्धश्चित्तस्य धारणा[।](# "Ibid. iii. 1.")**
+**देशबन्धश्चित्तस्य धारणा।[^106]**
+
+[^106]: "Ibid. iii. 1."
 
  "The binding of the mind to (one) object is Dhâraṇâ."
 
  This is concentration, the steadying of the mind on one point, in one place, so that it is fixed, onepointed. Only such a mind can pass on to Dhyâna.
 
-**तत्र प्रत्ययैकतानता ध्यानम्[।](# "Ibid. 2.")**
+**तत्र प्रत्ययैकतानता ध्यानम्।[^107]**
+
+[^107]: "Ibid. 2."
 
  "The steady (and uninterrupted) flow of cognition towards that (object) is Dhyâna."
 
  When this is reached, the mind, fixing itself thus, loses the consciousness of itself and remains identified with the object of thought, and this state is Samâdhi.
 
-**तदेवार्थमात्रनिर्भासं स्वरूपशून्यमित्र समाधिः[।](# "Ibid.3.")**
+**तदेवार्थमात्रनिर्भासं स्वरूपशून्यमित्र समाधिः।[^108]**
+
+[^108]: "Ibid.3."
 
 
 
@@ -3727,7 +3941,9 @@ THE FOUR ÂSHRAMAS
  The life was divided into four stages, or Âshramas: that of the **ब्रह्मचारी**, Brahmachârî, the student, bound to celibacy; that of the **गृहस्थः**, Gṛihasthaḥ, the householder; that of the **वानप्रस्थः**, Vânaprasthaḥ, the forest-dweller; that of the सन्न्यासी Sannyâsî, the ascetic, called also the यतिःYatiḥ, the controlled, or the endeavourer.
 
 **ब्रह्मचारी गृहस्थश्च वानप्रस्थो यतिस्तथा।  
-एते गृहस्थप्रभवाश्चत्वारः पृथगाश्रमाः[॥](# "Manusmṛiti. vi.87.")**
+एते गृहस्थप्रभवाश्चत्वारः पृथगाश्रमाः॥[^109]**
+
+[^109]: "Manusmṛiti. vi.87."
 
 
 
@@ -3736,19 +3952,25 @@ THE FOUR ÂSHRAMAS
  A man should pass through these regularly, and not enter any prematurely. Only when each had been completed might he enter the next.
 
 वेदानधीत्य वेदौवा वेदं वापि यथाक्रमम्।  
-अविप्लुतब्रह्मचर्यो गृहस्थाश्रममावसेत्[॥](# " Manusmṛiti. iii. 2.")
+अविप्लुतब्रह्मचर्यो गृहस्थाश्रममावसेत्॥[^110]
 
  'Having studied the Vedas, or two Vedas, or even one Veda, in due order, without breaking celibacy, let him dwell in the householder order."
 
+[^110]: " Manusmṛiti. iii. 2."
+
 गृहस्थस्तु यदा पश्येद्वलीपलितमात्मनः।  
-अपत्यस्य तथापत्यं तदारण्यं समाश्रयेत्[॥](# "Ibid. vi. 2.")
+अपत्यस्य तथापत्यं तदारण्यं समाश्रयेत्॥[^111]
 
  "When the householder sees wrinkles (in his skin) and whiteness (in his hair) and the son of his son, then let him retire to the forest."
 
+[^111]: "Ibid. vi. 2."
+
 वनेषु तु विहृत्यैवं तृतीय भागमायुषः।  
-चतुर्थमायुषो भागं त्यत्त्क्रासङ्गान् परिव्रजेत्[॥](# "Ibid. 33.")
+चतुर्थमायुषो भागं त्यत्त्क्रासङ्गान् परिव्रजेत्॥[^112]
 
  "Having passed the third portion of life in the forests, let him, having abandoned attachments, wander (as an ascetic) the fourth portion of life."
+
+[^112]: "Ibid. 33."
 
  This succession is regarded as so important for the due development of the Jivâ
 
@@ -3757,7 +3979,9 @@ tmâ, and the proper ordering of society, that Manusays:
 
 
 **अनधीत्य द्विजो वेदाननुत्पाद्य तथा प्रजाम् ।  
-अनिष्ट्वा चैव यज्ञैश्च मोक्षमिच्छन् व्रजत्यधः[॥](# "Manusmṛiti. 37.")**
+अनिष्ट्वा चैव यज्ञैश्च मोक्षमिच्छन् व्रजत्यधः॥[^113]**
+
+[^113]: "Manusmṛiti. 37."
 
  "A twice-born man who seeks Moksha without having studied the Vedas, without having produced offspring, and without having offered sacrifices, goeth downwards."
 
@@ -3775,17 +3999,21 @@ lived while his pupilage continued. His life thereafter was simple and hardy, in
 दृष्ट्वा हृष्येत्प्रसीदेच्चप्रतिनन्देच्च सर्वशः॥
 
 पूजितं ह्यशनं नित्यं बलमूर्जं च यच्छति।  
-अपूजितं तु तद्भुक्तमुभयं नाशयेदिदस्[॥](# " Manusmṛiti. ii. 54, 55.")
+अपूजितं तु तद्भुक्तमुभयं नाशयेदिदस्॥[^114]
 
  "Let him ever honour (his) food, and eat it without contempt; having seen it, let him be glad and pleased, and in every way welcome it.
+
+[^114]: " Manusmṛiti. ii. 54, 55."
 
  "Food which is honoured ever gives strength and nerve-vigour; eaten unhonoured, it destroys both these."
 
  The day was to be spent in study and in the service of his teacher:
 
 नोदितो गुरुणा नित्यमप्रणोदित एव वा।  
-कुर्यादध्ययने योगमाचार्यस्य हितेषु च[॥](# "Ibid. 191.")
+कुर्यादध्ययने योगमाचार्यस्य हितेषु च॥[^115]
 
+
+[^115]: "Ibid. 191."
 
 
   "Directed or not directed by his teacher, let him ever engage in study, and in doing benefits to his preceptor."
@@ -3793,7 +4021,9 @@ lived while his pupilage continued. His life thereafter was simple and hardy, in
  At sunset he was again to worship till the stars appeared. Then the second meal was taken. Between these two meals he was generally not to eat, and he was enjoined to be temperate as to his food.
 
 **अनारोग्यमनायुष्यमस्वर्ग्यं चातिभोजनम्।  
-पुण्यं लोकविद्विष्टं तस्मात्तत्परिवर्जयेत्[॥](# "Manusmṛiti. 57.")**
+पुण्यं लोकविद्विष्टं तस्मात्तत्परिवर्जयेत्॥[^116]**
+
+[^116]: "Manusmṛiti. 57."
 
  "Over-eating is against health, long life, (the attainment of) heaven and merit, and is disapproved by the world; therefore let him avoid it."
 
@@ -3812,7 +4042,9 @@ lived while his pupilage continued. His life thereafter was simple and hardy, in
 कामाद्धि स्कन्दयन्रेतोहिनस्ति व्रतमात्मनः॥
 
 **स्वप्नेसित्त्काब्रह्मचारी द्विजः शुक्रमकामतः।  
-स्नात्वार्कमर्चयित्वा त्रिः पुनर्मामित्यॄ च जपेत्[॥](# "Manusmṛiti. ii. 177-181.")**
+स्नात्वार्कमर्चयित्वा त्रिः पुनर्मामित्यॄ च जपेत्॥[^117]**
+
+[^117]: "Manusmṛiti. ii. 177-181."
 
  "Let him refrain from wine, meat, perfumes, garlands, tasty and savoury dishes, women, all acids, and from injury to sentient creatures.
 
@@ -3835,18 +4067,24 @@ umbrellas. Changed social conditions make modifications necessary on this point,
  Over and over again Manu speaks on this:
 
 **इन्द्रियाणां विचरतां विषयेष्वपहारिषु।  
-संयमेयत्नमातिष्ठेद्विद्वान्यन्तेव वाजिनाम्[॥](# "Manusmṛiti. ii, 88,")**
+संयमेयत्नमातिष्ठेद्विद्वान्यन्तेव वाजिनाम्॥[^118]**
+
+[^118]: "Manusmṛiti. ii, 88,"
 
 
 
  "Let the wise man exercise assiduity in the restraint of the senses, wandering among alluring objects, as the driver (restrains) the horses."
 
 **वशे कृत्वेन्द्रियग्रामं संयम्य च मनस्तथा।  
-सर्वान्संसाधयेदर्थानक्षिण्वन्योगतस्तनुम्[॥](# " Manusmṛiti. 100.")**
+सर्वान्संसाधयेदर्थानक्षिण्वन्योगतस्तनुम्॥[^119]**
+
+[^119]: " Manusmṛiti. 100."
 
  ''Having brought into subjection all his senses, and also regulated his mind, he may accomplish all his objects by Yoga, without emaciating his body."
 
- The *Chhândogyopaniṣhat* declares that Yajña, Iṣhta, the feeding of the poor, the dwelling in forests, are all summed up in Brahmacharya, and that the third heaven of Brahmâ is only thus [obtained](# " Loc. cit. VIII. iv.").
+ The *Chhândogyopaniṣhat* declares that Yajña, Iṣhta, the feeding of the poor, the dwelling in forests, are all summed up in Brahmacharya, and that the third heaven of Brahmâ is only thus obtained[^120].
+
+[^120]: " Loc. cit. VIII. iv."
 
  The practice of self-control and complete continence was rendered much more easy than it would otherwise have been, by the care bestowed on the physical development and training of youth by physical exercises and manly games of all kinds. In the *Râmâyana* and the *Mahâbhârata*, we read of the way in which the youths were practised in the use of weapons, in riding and driving, in sports and feats of skill. These physical exercises formed a definite part of their education, and contributed to the building up of a vigorous and healthy frame.
 
@@ -3863,9 +4101,11 @@ umbrellas. Changed social conditions make modifications necessary on this point,
 यत्र तास्तु न पूज्यन्ते सर्वास्तत्राफलाः क्रियाः॥
 
 शोचन्ति जामयो यत्र विनश्यत्याशु तत्कुलम्।  
-न शोचन्ति तु यत्रेता वर्धते तद्धि सर्वदा[॥](# "Manusmṛiti. iii. 55-57.")
+न शोचन्ति तु यत्रेता वर्धते तद्धि सर्वदा॥[^121]
 
  "They must be honoured and adorned by fathers, brothers, husbands and brothers-in-law, desiring welfare.
+
+[^121]: "Manusmṛiti. iii. 55-57."
 
  "Where women are honoured, there verily the Devas rejoice; where they are not honoured, there indeed all rites are fruitless.
 
@@ -3874,14 +4114,18 @@ umbrellas. Changed social conditions make modifications necessary on this point,
 
 
 संतुष्टो भार्यया भर्ता भर्त्रा भार्या तथैव च।  
-यस्मिन्नेव कुले नित्यं कल्याणं तत्र वै ध्रुवम्[॥](# "Manusmṛiti. 60.")
+यस्मिन्नेव कुले नित्यं कल्याणं तत्र वै ध्रुवम्॥[^122]
 
  "In the family in which the husband is contented with his wife, and the wife with the husband, there happiness is ever sure."
+
+[^122]: "Manusmṛiti. 60."
 
  The Gṛihastha is the very heart of Âryan life; every thing depends on him.
 
 **यथा वायुं समाश्रित्य सर्वे जीवन्ति जन्तवः।  
-तथा गृहस्थमाश्रित्य वर्तन्त इतराश्रमाः[॥](# "Ibid. 77.")**
+तथा गृहस्थमाश्रित्य वर्तन्त इतराश्रमाः॥[^123]**
+
+[^123]: "Ibid. 77."
 
  "As all creatures live supported by air, so the other orders exist supported by the householder."
 
@@ -3889,7 +4133,9 @@ umbrellas. Changed social conditions make modifications necessary on this point,
 गृहस्थ उच्यते श्रेष्ठः स त्रीनेतान्विभर्ति हि॥**
 
 **यथा नदीनदाः सर्वे सागरे यान्ति संस्थितिम्।  
-तथैवाश्रमिणः सर्वे गृहस्थे यान्ति संस्थितिम्[॥](# " Ibid. 89-90.")**
+तथैवाश्रमिणः सर्वे गृहस्थे यान्ति संस्थितिम्॥[^124]**
+
+[^124]: " Ibid. 89-90."
 
  "Of all these, by the precepts of the VedaShruti, the householder is called the best; he verily supports the other three.
 
@@ -3902,28 +4148,40 @@ umbrellas. Changed social conditions make modifications necessary on this point,
 holder—and of distributing it rightly. Hospitality is one of his chief duties, and in this he must never fail.
 
 **तृणानि भूमिरुदकं वाक् चतुर्थी च सूनृता।  
-एतान्यपि सतां गेहे नोच्छिद्यन्त कदाचन[॥](# "Manusmṛiti 101.")**
+एतान्यपि सतां गेहे नोच्छिद्यन्त कदाचन॥[^125]**
+
+[^125]: "Manusmṛiti 101."
 
  "Grasses, earth, water, the kind word, these four are never lacking in the houses of the good."
 
- He must ever feed first his guests, Brâhmaṇas, his relatives and his servants, and then he and his wife should eat, but even before these he should serve brides, infants, the sick, and pregnant [women](# "Ibid. 114-116.").
+ He must ever feed first his guests, Brâhmaṇas, his relatives and his servants, and then he and his wife should eat, but even before these he should serve brides, infants, the sick, and pregnant women[^126].
+
+[^126]: "Ibid. 114-116."
 
  The householder must duly offer the five great sacrifices, and by Brâhmaṇa householders the  
-duty of the monthly Shrâddhas should be [observed](# "Ibid. iv. 17.").The Brâhmaṇa should maintain his studies, and not follow occupations which prevent study, but earn his living in some business that does not injure [others](# "Ibid. 2.").Careful rules are laid down for conduct, which will be dealt with in Part III, as they belong to the general conduct of life, the householder being the typical human being. His special virtues are hospitality, industry, truth, honesty, liberality, charity, purity of food and life. He may enjoy wealth and luxury, provided he give alms.
+duty of the monthly Shrâddhas should be observed[^127].The Brâhmaṇa should maintain his studies, and not follow occupations which prevent study, but earn his living in some business that does not injure others[^107].Careful rules are laid down for conduct, which will be dealt with in Part III, as they belong to the general conduct of life, the householder being the typical human being. His special virtues are hospitality, industry, truth, honesty, liberality, charity, purity of food and life. He may enjoy wealth and luxury, provided he give alms.
+
+[^107]: "Ibid. 2."
+
+[^127]: "Ibid. iv. 17."
 
 
 
  The householder may quit the household life, and become a Vânaprastha, going to the forest, when, as before said, he is growing old and has grandchildren. His wife may go with him, or remain with her sons, and he goes forth, taking with him the sacred fire and sacrificial instruments. His duty to the world is now to help it by prayer and sacrifice, and he is accordingly to continue to offer the five daily sacrifices, together with the Agnihotra, the new and full moon sacrifices and others. The rule of his life is to be sacrifice, study, austerity, and kindness to all:
 
 **स्वाध्याये नित्ययुक्तः स्याद्दान्तो मैत्राः सम्महितः।  
-दाता नित्यमनादाता सर्वभूतानुकम्पकः[॥](# "Manusmṛiti. vi. 8.")**
+दाता नित्यमनादाता सर्वभूतानुकम्पकः॥[^129]**
+
+[^129]: "Manusmṛiti. vi. 8."
 
  "Let him ever be engaged in Veda study, controlled, friendly, collected; ever a giver, not a receiver, compassionate to all beings."
 
  This simple ascetic life leads him on to the last stage, that of the Sannyâsî, the man who has re- nounced all. He no longer offers sacrifices, having given all his property away; he lives alone, with tree for shelter, his life given to meditation.
 
 **अनग्निरनिकेतः स्याद् ग्राममन्नार्थमाश्रयेत्।  
-उपेक्षकोऽसंकुसुको मुनिर्भावसमाहितः[॥](# "Ibid. 43.")**
+उपेक्षकोऽसंकुसुको मुनिर्भावसमाहितः॥[^130]**
+
+[^130]: "Ibid. 43."
 
 
 
@@ -3944,7 +4202,9 @@ duty of the monthly Shrâddhas should be [observed](# "Ibid. iv. 17.").The Brâh
 सप्तद्वारावकीर्णो च न वाचमनृतां वदेत्॥**
 
 **अध्यात्मरतिरासीनो निरपेक्षो निरामिषः।  
-आत्मनैव सहायेन सुखार्थी विचरेदिह[॥](# "Manusmṛiti. 45-49.")**
+आत्मनैव सहायेन सुखार्थी विचरेदिह॥[^131]**
+
+[^131]: "Manusmṛiti. 45-49."
 
  "Let him not wish for death, let him not wish for life, let him wait for the time, as a servant for his wages.
 
@@ -4602,7 +4862,9 @@ carrying out the law of evolution in its entirety.
 अहिंसा सत्यमक्रोधस्त्यागः शांतिरपैशुनम्।  
 दया भूतेष्वलोलुपत्वं मार्दवं हीरचापलम्॥  
 तेजः क्षमा धतिः शौचमद्रोहो नातिमानिता ।  
-भवंति संपदं दैवमभिजातस्य भारत[॥](# "Bhagavad- Gîtâ.XVI.1-3.")**
+भवंति संपदं दैवमभिजातस्य भारत॥[^132]**
+
+[^132]: "Bhagavad- Gîtâ.XVI.1-3."
 
  "Fearlessness, sâttvic purity, steadfast pursuit of wisdom, charity, control of the senses, sacrifice, study, austerity, uprightness,
 
@@ -4613,8 +4875,10 @@ carrying out the law of evolution in its entirety.
  Under Âsurî Sampat He placed all the opposite vices— all that tends to divide the Jîvâtmâs, and to accentuate the feeling of Egotism, of the separated self. He described as âsuric those qualities which have their root in and grow out of the delusion of separateness.
 
 दंभो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च।  
-अज्ञानं चाभिजातस्य पार्थ संपदमासुरीम्[॥](# "Ibid.XVI.4")
+अज्ञानं चाभिजातस्य पार्थ संपदमासुरीम्॥[^133]
 
+
+[^133]: "Ibid.XVI.4"
 
 
  "Hypocrisy, arrogance and conceit, wrath and also harshness and unwisdom, are his, O Pârtha, who is born to the âsuric qualities."
@@ -4629,9 +4893,11 @@ carrying out the law of evolution in its entirety.
  \*  
 
 त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः।  
-कामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत्[॥](# "Ibid. 17, 18, 21.")
+कामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत्॥[^134]
 
  "Self-important, obstinate, filled with the pride and intoxication of wealth, they perform lip-sacrifices for ostentation, contrary to scriptural ordinance.
+
+[^134]: "Ibid. 17, 18, 21."
 
  "Given over to egotìsm, violence, insolence, lust and wrath, these malicious ones ever hate Me in the bodies of others and in their own,
 
@@ -4657,10 +4923,14 @@ sacrifices. All beings are dependent on one another, and they are all dependent 
  Whatever actions we do, we ought to do them for the sake of Yajña. Thus only can we follow the Great Law. If a man lives for self, and makes an independent centre in himself, overlooking the one great centre of the Universe, he creates bonds for himself and suffers therefrom.
 
 **यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबंधनः।  
-तदर्थं कर्म कौंतेय मुक्तसंगः समाचर[॥](# "Bhagavad Gîtâ, iii. 9")**
+तदर्थं कर्म कौंतेय मुक्तसंगः समाचर॥[^135]**
 ****
 
-  "The world is bound by action, other than action done for the sake of sacrifice; with such object, free from attachment, O son of Kuntî, perform thou [action](# "Bhagavad Gîtâ, iii. 9")."
+[^135]: "Bhagavad Gîtâ, iii. 9"
+
+  "The world is bound by action, other than action done for the sake of sacrifice; with such object, free from attachment, O son of Kuntî, perform thou action[^135]."
+
+[^135]: "Bhagavad Gîtâ, iii. 9"
 
  We have seen that the different classes of beings linked together in this universe are five:—the Devas, the Pitṛis, the Ṛiṣhis, men and animals, and that sacrifices to these classes are a duty, which every man performing actions is bound to discharge. For when sacrifice is imposed by law, there is an obligation to perform it, and hence the performance becomes a duty.
 
@@ -4671,9 +4941,11 @@ sacrifices. All beings are dependent on one another, and they are all dependent 
  While five duties are mentioned for the purposes of the five Daily Sacrifices, three of these are called *the debts* in a special and larger sense, as permeating the man's whole life. They are the **ऋषि ऋणं** Ṛiṣhi Ṛiņam, the debt to the Ṛiṣhis; the **पितृ ऋणं** Pitṛi Ṛiņam, the debt to the Ancestors; the **देव ऋणं** Deva Ṛiņam, the debt to the Devas.
 
 अधीत्य विधिवद्वेदान् पुत्रांश्चोत्पाद्य धर्मतः।  
-इष्ट्वा च शक्तितो यज्ञैर्मनो मोक्षे निवेशयेत्[॥](# "Manusmriti. vi. 36.")
+इष्ट्वा च शक्तितो यज्ञैर्मनो मोक्षे निवेशयेत्॥[^137]
 
  "Having studied the Vedas according to the rules, having begotten sons according to righteousness, having offered sacrifice according to his power, let him turn his mind to moksha."
+
+[^137]: "Manusmriti. vi. 36."
 
  The three twice-born Castes were directed to pay these debts by passing through the three Âshramas, Brahmacharya, Gârhasthya and Vânaprastha, each
 
@@ -4696,7 +4968,9 @@ of the Not-Self; vices grow out of hate strengthened and intensified by the unen
  Speaking of virtues and vices, of right and wrong, of good conduct and bad conduct, we must not forget, that in whatever way they may find expressions in human conduct, they are all based on Truth, which embodies the Law itself. Sacrifice and Duty follow the Law; the Law itself is an expression of Truth. In fact Íshvara Himself is Truth. The Devas adoring the Divine Lord, when He appeared as Shrî Kṛiṣhṇa, broke forth:
 
 **सत्यंव्रतं सत्यपरं त्रिसत्यं सत्यस्य योनिं निहितं च सत्ये।  
-सत्यस्य सत्यमृतसत्यनेत्रं सत्यात्मकं त्वां शरणं प्रपन्नाः[॥](# "Bhâgavatapuṛâṇa X. ii, 26.")**
+सत्यस्य सत्यमृतसत्यनेत्रं सत्यात्मकं त्वां शरणं प्रपन्नाः॥[^138]**
+
+[^138]: "Bhâgavatapuṛâṇa X. ii, 26."
 
  "O True of promise, True of purpose, triply True, the Fount of Truth and dwelling in the True, the Truth of Truth, the Eye of Right and Truth, Spirit of Truth, refuge we seek in Thee."
 
@@ -4709,14 +4983,18 @@ of the Not-Self; vices grow out of hate strengthened and intensified by the unen
 
 
 **त्यागो ध्यानमथार्यत्वं धृतिश्च सततं दया।  
-महिंसा चैव राजेंद्र सत्याकारास्त्रयोदश [॥](# "Mahâbhârata, Shânti Parva. clxii. 8,9")**
+महिंसा चैव राजेंद्र सत्याकारास्त्रयोदश ॥[^139]**
+
+[^139]: "Mahâbhârata, Shânti Parva. clxii. 8,9"
 
  "Truthfulness, equability, self-control, absence of self-display, forgiveness, modesty, endurance, absence of envy, charity, a noble well-wishing towards others, self-possession, compassion, and harmlessness surely these are the thirteen forms of Truth."
 
  Truth is that which IS. As Bhîṣhma says:
 
 ........... ............ . **सत्यं ब्रह्म सनातमं**।  
-.......................... **सर्वं सत्ये प्रतिष्ठितं[॥](# " Ibid. 5.")**
+.......................... **सर्वं सत्ये प्रतिष्ठितं॥[^140]**
+
+[^140]: " Ibid. 5."
 
  "Truth is the eternal Brahman....... ..Everything rests on Truth."
 
@@ -4740,9 +5018,11 @@ is not, the power of discrimination, of seeing the Real and the Unreal. Recognis
 यथाहं नाभिजानामि विजयेन कदाचन।  
 विरोधन्तेन सत्येन मृतो जीवत्वयं शिशुः॥  
 यथा सत्यं च धर्मश्च माये नित्यं प्रतिष्ठितौ।  
-तथा मृत शिशुरयं जीवतामभिमन्युजः[॥](# "Mahâbhârata. Ashvamedha Parva. lxix. 18, 19, 21. 22.")
+तथा मृत शिशुरयं जीवतामभिमन्युजः॥[^141]
 
  "O Uttarâ! I speak not falsely, and this shall
+
+[^141]: "Mahâbhârata. Ashvamedha Parva. lxix. 18, 19, 21. 22."
 
 
 
@@ -4807,9 +5087,11 @@ Thus man likes in the beginning whatever is sweet, and dislikes whatever is bitt
 यत्तदग्रे विषमिव परिणामेऽमृतोपमम्।  
 तत्सुखं सात्विकम् प्रोक्तमात्मबुद्धिप्रसादजम्॥  
 विषयेंद्रियसंयोगाद्यत्तदग्रेऽमृतोपमम्।  
-परिणामे विषमिव तत्सुखं राजसं स्मृतम्[॥](# "Bhagavad Gîtâ. xviii, 37, 38.")
+परिणामे विषमिव तत्सुखं राजसं स्मृतम्॥[^142]
 
  "That which at first is as venom, but in the end is as nectar ; that pleasure is said to be sâttvic, born of the blissful knowledge of the Self.
+
+[^142]: "Bhagavad Gîtâ. xviii, 37, 38."
 
  "That which from the union of the senses with their objects at first is as nectar, but in the end is like venom, that pleasure is accounted râjasic."
 
@@ -4831,13 +5113,19 @@ temper brings more disharmonious than harmonious experiences. Forbearance, Toler
 
 It is written in the Shruti:
 
-विज्ञानमानन्दं ब्रह्म[।](# "Bṛihadâraṇyakop. V. ix. 28")
+विज्ञानमानन्दं ब्रह्म।[^143]
 
 "Brahman is knowledge and bliss."
 
- Over and over again the "bliss of Brahman" is spoken of, and bliss is said to be His nature. fact the threefold nature of Íshvara, of the Saguṇa Brahman, is expressed in the epithet, Sat-ChitÂnanda. Bliss is thus the very nature of the Jîvâtmâ, since his nature is that of Brahman; he, too, is bliss. But we learn further that the Saguna Brahman is **विरजं** spotless, and **शुभ्रं**, [pure](# "Muṇdakop. II. ii. 9. The statement is repeated over and over again.").Therefore only the pure, the good, is of His nature, and is compatible with His bliss. So then must the essence of the Jîvâtmâ be purity, and it is written of it:
+[^143]: "Bṛihadâraṇyakop. V. ix. 28"
 
-**तं विद्याच्छुक्रममृतम्[।](# "Kathop. II. vi. 7.")**
+ Over and over again the "bliss of Brahman" is spoken of, and bliss is said to be His nature. fact the threefold nature of Íshvara, of the Saguṇa Brahman, is expressed in the epithet, Sat-ChitÂnanda. Bliss is thus the very nature of the Jîvâtmâ, since his nature is that of Brahman; he, too, is bliss. But we learn further that the Saguna Brahman is **विरजं** spotless, and **शुभ्रं**, pure[^144].Therefore only the pure, the good, is of His nature, and is compatible with His bliss. So then must the essence of the Jîvâtmâ be purity, and it is written of it:
+
+[^144]: "Muṇdakop. II. ii. 9. The statement is repeated over and over again."
+
+**तं विद्याच्छुक्रममृतम्।[^145]**
+
+[^145]: "Kathop. II. vi. 7."
 
  "Let him know it, pure and immortal."
 
@@ -4892,7 +5180,9 @@ lower than man, as well as the whole of mankind.
 कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः।  
 आहारा राजसस्येष्टा दुःखशोकामयप्रदाः॥  
 यातयामं गतरसं पूति पर्युषितं च यत्।  
-उच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम्[॥](# " Loc.cit., , xvii 8,9,10.")**
+उच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम्॥[^146]**
+
+[^146]: " Loc.cit., , xvii 8,9,10."
 
  "The foods dear to the Sâttvic, increasing life, energy, strength, health, joy and cheerfulness, are those that are full of juice, oleaginous, nonvolatile and heart–strengthening.
 
@@ -4915,9 +5205,11 @@ lower than man, as well as the whole of mankind.
 be not followed by likes and dislikes. Râga and Dvesha drive us helplessly along, using the karmendriyas for their own satisfaction.
 
 इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ।  
-तयोर्न वशमागच्छेत्तौ ह्यस्य परिपंथिनौ[॥](# "Bhagavad-Gîtâ. iii. 34")
+तयोर्न वशमागच्छेत्तौ ह्यस्य परिपंथिनौ॥[^147]
 
  "Affection and aversion for the objects of sense abide in the senses; let none come under the dominion of these two; they are the obstructors of his way."
+
+[^147]: "Bhagavad-Gîtâ. iii. 34"
 
  Affection and aversion, Râga and Dvesha, form the desire–nature of man. This, emotional in its origin, has to be controlled. The emotional nature has to be purified. Râga is to expand into universal love. Dvesha is to be eliminated entirely in personal relations, in relations between man and man, between one being and another being, and is to be retained only as an abstract dislike for anything that goes against the law, against the will of Íshvara. But this abstract dislike is not at all to interfere with the universal love of all beings. It is only to make a man strong in his purity, in his rejection of all that is evil. He should dislike evil ways, but not evil men.
 
@@ -4946,18 +5238,22 @@ objects; we must generalise truths, and come at last to the highest Truth, the o
 The tenfold law, as laid down by Manu, gives some of the characteristics needed:
 
 धृतिः क्षमा दमोऽस्तेयं शैौचमिन्द्रियनिग्रहः।  
-धीर्विद्या सत्यमक्रोधो दशकं धर्मलक्षणम्[॥](# "Manusmṛiti. vi, 92.")
+धीर्विद्या सत्यमक्रोधो दशकं धर्मलक्षणम्॥[^148]
 
  "Endurance, patience, self-control,
+
+[^148]: "Manusmṛiti. vi, 92."
 
 integrity, purity, restraint of the senses, wisdom, learning, truth, absence of anger, are the ten signs of virtue."  
 In briefer form:
 
 अहिंसा सत्यमस्तेयं शौचमिन्द्रियनिग्रहः।  
 
-एतं सामासिकं धम चातुर्वर्ण्ये ऽब्रवीन्मनुः[॥](# "Ibid, x. 63")
+एतं सामासिकं धम चातुर्वर्ण्ये ऽब्रवीन्मनुः॥[^149]
 
  "Harmlessness, truth, integrity, purity, control of the senses, saith Manu, is the summarised law for the four castes."
+
+[^149]: "Ibid, x. 63"
 
 
 
@@ -4968,9 +5264,11 @@ In briefer form:
 अहिंसा सत्यमक्रोधस्त्यागः शांतिरपैशुनम्।  
 दया भूतेष्वलोलुप्त्वंमार्दवं ह्रीरचापलम्॥  
 तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता।  
-भवंति संपदं दैवीमभिजातस्य भारत[॥](# "Bhagavad-Gîtâ. xvi. 1—3")
+भवंति संपदं दैवीमभिजातस्य भारत॥[^150]
 
  "Fearlessness, clean-living, steadfastness in the Yoga of wisdom, almsgiving, self–restraint, sacrifice, study of the Shâstras, austerity, straightforwardness,
+
+[^150]: "Bhagavad-Gîtâ. xvi. 1—3"
 
  "Harmlessness, truth, absence of wrath, renunciation, peacefulness, absence of crookedness, compassion to living beings, uncovetousness, mildness, modesty, steadfastness,
 
@@ -4990,25 +5288,31 @@ In briefer form:
 
  So necessary is self-control, that the teachers of morality are continually recurring to it, and enforcing it. Manu dwells on its necessity, and explains that action has three roots, and that control of each generator of action must be gained.
 
-कर्म मनोवाग्देहसंभवम्[।](# "Manusmṛiti. xii.3")
+कर्म मनोवाग्देहसंभवम्।[^151]
 
  "Action is born of mind, speech and body."
+
+[^151]: "Manusmṛiti. xii.3"
 
  Each of these, mind, speech, and body, must be brought under complete control, and then success is sure.
 
 वाग्दण्डोऽथ मनोदण्डः कायदण्डस्तथैव च।  
 यस्यैते निहिता बुद्धौ विदण्डीति स उच्यते॥  
 त्रिदण्डमेतन्निक्षिप्य सर्वभूतेषु मानवः।  
-कामक्रोधौ तु संयम्य ततः सिद्धिं निगच्छति[॥](# "Ibid. 10, 11")
+कामक्रोधौ तु संयम्य ततः सिद्धिं निगच्छति॥[^152]
 
  "He is called the holder of the Tri-daṇḍa in whose reason these are fixed—control of speech, control of mind, control of body.
+
+[^152]: "Ibid. 10, 11"
 
  "The man who lays this triple rule (over himself) amidst all creatures, he verily dominates desire and wrath, and goes to perfection."
 
  Of these three, control of the mind is the most important, as speech and action alike depend on the mind. Manu says again :
 
-मनो विद्यात्प्रवर्तकम्[।](# "Ibid. 4.")
+मनो विद्यात्प्रवर्तकम्।[^153]
 
+
+[^153]: "Ibid. 4."
 
 
  "Let the mind be known as the instigator."
@@ -5017,39 +5321,49 @@ In briefer form:
 
 चंचलं हि मनः कृष्ण प्रमाथि बलवद्दृढम्।  
 
-तस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम्[॥](# "Bhagavad-Gîtâ. vi. 34")
+तस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम्॥[^154]
 
  “Verily the mind is restless, O Kṛiṣhna, impetuous, strong, difficult to bend; I deem it very hard to curb, like the wind."
+
+[^154]: "Bhagavad-Gîtâ. vi. 34"
 
  And no answer can be given to this, save the answer given by the Divine Teacher:
 
 असंशयं महाबाहो मनो दुर्निग्रहं चलम्।  
-अभ्यासेन तु कौंतेय वैराग्येण च गृह्यते[॥](# "Ibid. 35")
+अभ्यासेन तु कौंतेय वैराग्येण च गृह्यते॥[^155]
 
  "Without doubt, O mighty-armed, the mind is hard to curb and restless; yet verily, O son of Kuntî, it may be curbed by constant practice and dispassion."
+
+[^155]: "Ibid. 35"
 
  Only long-continued effort and perseverance can bring under control this restless vigorous mind, and yet without this control man can never be happy.
 
 
 
 यतो यतो निश्चरति मनश्चंचलमस्थिरम्।  
-ततस्ततो नियम्यैतदात्मन्येव वशं नयेत्[॥](# "Bhagavad-Gîtâ. vi. 26.")
+ततस्ततो नियम्यैतदात्मन्येव वशं नयेत्॥[^156]
 
  "As often as the restless and unstable mind goeth forth, so often reining it in, let him place it under the control of the Self."
+
+[^156]: "Bhagavad-Gîtâ. vi. 26."
 
  If this be done, then happiness is secured, so much so that Shrî Kṛiṣhṇa makes happiness part of the successful austerity of the mind."
 
 मनःप्रसादः सौम्यत्वं मौनमात्मविनिग्रहः।  
-भावसंशुद्धिरित्येतत्तपो मानसमुच्यते[॥](# "Ibid. xvii. 16")
+भावसंशुद्धिरित्येतत्तपो मानसमुच्यते॥[^157]
 
  "Mental happiness, equanimity, silence, selfcontrol, purity of nature—this is called the austerity of the mind."
+
+[^157]: "Ibid. xvii. 16"
 
  But the most disturbing part of man's nature is his desires, ever-craving, never satisfied. In fact the more they are gratified, the fiercer they grow.
 
 न जातु कामः कामानामुपभोगेन शाम्यति।  
-हविषा कृष्णवत् र्मेव भूय एवाभिवर्धते[॥](# "Manusmṛiti. ii. 94")
+हविषा कृष्णवत् र्मेव भूय एवाभिवर्धते॥[^158]
 
  "Desire is verily never quenched by the enjoyment of objects of desire; it only increases further as fire with butter."
+
+[^158]: "Manusmṛiti. ii. 94"
 
  To bring the senses under control the mind must be used, else will a man ever be restless and uneasy.
 
@@ -5061,14 +5375,18 @@ He must learn to use his mind to control his senses, for through the senses come
 
 **इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते।**  
 
-तदस्य हरति प्रज्ञां वायुर्नावमिवांभसि[॥](# "Bhagavad-Gîtâ. ii. 67")
+तदस्य हरति प्रज्ञां वायुर्नावमिवांभसि॥[^159]
 
  "That one of the roving senses which the mind yieldeth to, that hurries away the understanding, as a gale (hurries away) a ship on the waters.
+
+[^159]: "Bhagavad-Gîtâ. ii. 67"
 
  Manu also lays stress on the danger of allowing even one sense to slip away from control, using a very graphic symbol:
 
 **इन्द्रियाणां तु सर्वेषां यद्येकं क्षरतीन्द्रियम्।  
-ततो ऽस्य क्षरति प्रज्ञा दृतेः पादादिवोदकम्[॥](# "Manusmṛiti. ii. 99")**
+ततो ऽस्य क्षरति प्रज्ञा दृतेः पादादिवोदकम्॥[^160]**
+
+[^160]: "Manusmṛiti. ii. 99"
 
  "If one sense of all the senses leaks, then understanding leaks through it, as water from the leg of the water-skin."
 
@@ -5092,7 +5410,9 @@ and is to be used to control the senses. In the *Kaṭhopaniṣhat*, the mind is
 \* \*
 
 **विज्ञानसारथिर्यस्तु मनः प्रग्रहवान्नरः।  
-सो ऽध्वनः पारमाप्नोति तद्विष्णोः परमं पदम्[।](# "Kaṭhop. iii. 3—6, 9")**
+सो ऽध्वनः पारमाप्नोति तद्विष्णोः परमं पदम्।[^161]**
+
+[^161]: "Kaṭhop. iii. 3—6, 9"
 
  "Know the Self as the occupant of the car, the body verily as the car. Know indeed the reason as the charioteer, the mind as the reins.
 
@@ -5114,30 +5434,38 @@ plied, of him the senses are uncontrolled, like the bad horses of the charioteer
  Manu uses the same imagery:
 
 इन्द्रियाणां विचरतां विषयेष्वपहारिषु।  
-संयमे यत्नमातिष्ठेद्विद्वान्यन्तेव वाजिनाम्[॥](# "Manusmṛiti. ii. 88")
+संयमे यत्नमातिष्ठेद्विद्वान्यन्तेव वाजिनाम्॥[^162]
 
  "The wise man should make effort to control the senses running amid the alluring objects of sense, as the driver the horses."
+
+[^162]: "Manusmṛiti. ii. 88"
 
  Recounting the five organs of sense and the five organs of action, Manu declares that the control of the mind includes the control of these:
 
 एकादशं मनो ज्ञेयं स्वगुणेनोभयात्मकम्।  
-यस्मिञ्जिते जितावेतौ भवतः पञ्चकौ गणौ[॥](# "Ibid. 92")
+यस्मिञ्जिते जितावेतौ भवतः पञ्चकौ गणौ॥[^163]
 
  "Mind is to be known as the eleventh, belonging by its nature to both; in conquering this, the two sets of five become conquered."
+
+[^163]: "Ibid. 92"
 
 
 
  The control of speech consists in making it respectful to superiors, courteous to equals, gentle to inferiors, and we shall return to this in studying the special virtues. For the moment we may leave it with the general description of right speech:
 
 अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत्।  
-स्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते[॥](# "Bhagavad-Gîtâ. xvii. 15")
+स्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते॥[^164]
 
  "Speech causing no annoyance, truthful, pleasant and beneficial, and the repetition of the Vedas, this is called the austerity of speech."
+
+[^164]: "Bhagavad-Gîtâ. xvii. 15"
 
  And Manu remarks:
 
 **वाच्यर्था नियताः सर्वे वाङ्मूला वाग्विनिःसृताः  
-तांतु यः स्तेनयेद्वाचं स सर्वस्तेयकृन्नरः[॥](# "Manusmriti. iv. 256")**
+तांतु यः स्तेनयेद्वाचं स सर्वस्तेयकृन्नरः॥[^165]**
+
+[^165]: "Manusmriti. iv. 256"
 
  "All things are governed by speech: speech is the root, from speech they originate; that man verily who is dishonest in speech, he is dishonest in all."
 
@@ -5146,9 +5474,11 @@ plied, of him the senses are uncontrolled, like the bad horses of the charioteer
  The control of the body is similarly summed up by Shrî Kṛiṣhṇa :
 
 देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवम्।  
-ब्रह्मचर्यमहिंसा च शारीरं तप उच्यते[॥](# "Bhagavad-Gîtâ. xvii. 14")
+ब्रह्मचर्यमहिंसा च शारीरं तप उच्यते॥[^166]
 
  "Worship of the Devas, the twice–born, the gurus and the wise, purity, straightforwardness,
+
+[^166]: "Bhagavad-Gîtâ. xvii. 14"
 
 
 
@@ -5163,7 +5493,9 @@ chastity, and harmlessness, are called the austerity of the body."
 **शनैः शनैरुपरमेद्बुद्ध्या धृ तिगृहीतया ।  
 आत्मसंस्थं मनः कृत्वा न किंचिदपि चिंतयेत्॥  
 यतो यतो निश्चरति मनश्चंचलमस्थिरम्।  
-ततस्ततो नियम्यैतदात्मन्येव वशं नयेत्[॥](# "Bhagavad-Gîtâ. vi. 25, 26")**
+ततस्ततो नियम्यैतदात्मन्येव वशं नयेत्॥[^167]**
+
+[^167]: "Bhagavad-Gîtâ. vi. 25, 26"
 
 
 
@@ -5184,9 +5516,11 @@ should be followed is reiterated again and again:
 न सीदन्नपि धर्मेण मनो ऽधर्मे निवशयेत्।  
 अधार्मिकाणां पापानामाशु पश्यन्विपर्ययम्॥  
 नाधर्मश्चरितो लोके सद्यः फलति गौरिव।  
-शनैरावर्तमानस्तु कर्तुर्मूलानि कृन्तति[॥](# "Manusmṛiti. iv. 170-172")
+शनैरावर्तमानस्तु कर्तुर्मूलानि कृन्तति॥[^168]
 
  "The man who is unrighteous, or he who (gains) wealth by falsehood, or he who ever delights in injuring, never obtains happiness in this world.
+
+[^168]: "Manusmṛiti. iv. 170-172"
 
  "Although suffering from righteousness, let him not turn his mind to unrighteousness; he will behold the speedy overthrow of the unrighteous, of the sinners.
 
@@ -5211,7 +5545,9 @@ to him through death, and clothe him with glory in the world beyond the grave. M
 तस्माद्धर्मंसहायार्थं नित्यं संचिनुयाच्छनैः।  
 धर्मेण हि सहायेन तमस्तरति दुस्तरम्॥  
 धर्मप्रधानं पुरुषं तपसा हतकिल्बिषम्।  
-परलोकं नयत्याशु भास्वतं स्वशरीरिणम्[॥](# "Manusmṛiti. iv. 238-243")**
+परलोकं नयत्याशु भास्वतं स्वशरीरिणम्॥[^169]**
+
+[^169]: "Manusmṛiti. iv. 238-243"
 
  "Giving no pain to any creatures, let him slowly build up righteousness like white ants their hill, that it be to him a companion in the world beyond.
 
@@ -5232,9 +5568,11 @@ to him through death, and clothe him with glory in the world beyond the grave. M
  The virtue of *Content* springs from a full recognition of this fact, and it is itself the root of happiness, a virtue which every student should endeavour to work into his character:
 
 संतोषं परमास्थाय सुखार्थी संयतो भवेत्।  
-संतोषमूलं हि सुखं दुःखमूलं विपर्ययः[॥](# "Manusmṛiti. iv. 12")
+संतोषमूलं हि सुखं दुःखमूलं विपर्ययः॥[^170]
 
  "Let one who desires happiness be controlled and take refuge in perfect content; content is
+
+[^170]: "Manusmṛiti. iv. 12"
 
 
 
@@ -5259,9 +5597,11 @@ of some help or a saving of some inconvenience to others. For instance if we are
  Manu also says:—
 
 **"यस्मादण्वपि भूतानां द्विजान्नोत्पद्यते भयम्।  
-तस्य देहाद्विमुक्तस्य भयं नास्ति** [**कुतश्चन॥**](# "Mnusamṛiti. vi. 40")
+तस्य देहाद्विमुक्तस्य भयं नास्ति** **कुतश्चन॥**[^171]
 
  "For the twice-born man from whom no fear arises to any living creatures, for him, freed from the body, there will be no fear from any."
+
+[^171]: "Mnusamṛiti. vi. 40"
 
  Íshvara is just, and the harmless man is harmed by none. The Yogî can wander without danger among wild animals, because his heart is full of love and he is a source of danger to none. Once again says Bhîṣma: "The slayer is slain," but the man who slays none will himself be slain of none. For the harmless man, full of love to all creatures, sees the Self in each and regards each as part of his own body, and such a man is the "friend of all creatures", and is safe wherever he goes.
 
@@ -5307,7 +5647,9 @@ We may study the virtues and vices as the out- growths from love and hate. Love 
 
  Now in considering virtues and vices in human relations, we may classify them as those called out in relation to Superiors, in relation to Equals, and in relation to Inferiors.
 
- The natural superiors of a man are: God; the Sovereign; Parents; Teachers; [the Aged](# "There is no order of superiority intended here; the Shâstras give different orders.").
+ The natural superiors of a man are: God; the Sovereign; Parents; Teachers; the Aged[^172].
+
+[^172]: "There is no order of superiority intended here; the Shâstras give different orders."
 
  There may be what may be called "accidental superiors"— persons who are on a level with a man's parents and teachers, and persons above him in intelligence and morality, towards whom he would exercise modified forms of the virtues now to be considered. But such adaptations are readily made, and need not change our classification.
 
@@ -5319,13 +5661,17 @@ We may study the virtues and vices as the out- growths from love and hate. Love 
 
 reme wisdom and compassion, it will naturally be accompanied by *Humility*, the willing recognition of comparative littleness, unassociated with pain, and coupled with the readiness to submit to guidance; by *Faith* in, and therefore *Submission* to, His wisdom; and by *Devotion* and *Gratitude* responding to His compassion, leading to complete *Self-Sacrifice* in His service. The steady cultivation of these virtues, the fruits of love directed to God, comprise our duty to Him: Reverence, Humility, Faith, Submission, Devotion, Gratitude, Self-Sacrifice.
 
- There are many examples of great devotees in the Hindu books, men who showed out these virtues to the fullest extent, and have set examples of love to God which should be studied in order that they may be imitated. Bhîṣma's noble hymn to ShrîKṛiṣhṇa, uttered as he lay wounded on the battle-field, and which drew ShrîKṛiṣhṇa to his side, should be carefully read and thought [over](# "Mahâbhârata Shânti parva,").
+ There are many examples of great devotees in the Hindu books, men who showed out these virtues to the fullest extent, and have set examples of love to God which should be studied in order that they may be imitated. Bhîṣma's noble hymn to ShrîKṛiṣhṇa, uttered as he lay wounded on the battle-field, and which drew ShrîKṛiṣhṇa to his side, should be carefully read and thought over[^173].
+
+[^173]: "Mahâbhârata Shânti parva,"
 
  Prahlâda, triumphant by devotion over all attacks, prayed: "In all the thousand births through which I may be doomed to pass, may my faith in Thee, Achyuta, never know decay. May passion, as fixed as that which the worldly minded feel for
 
 
 
-sensual pleasures, ever animate my heart, always devoted unto [Thee](# "Viṣhṇu Purâṇa, 1. xx")."
+sensual pleasures, ever animate my heart, always devoted unto Thee[^174]."
+
+[^174]: "Viṣhṇu Purâṇa, 1. xx"
 
  Of such devotees Shri Krishna says:
 
@@ -5336,7 +5682,9 @@ sensual pleasures, ever animate my heart, always devoted unto [Thee](# "Viṣh�
 नमस्यंतश्च मां भक्त्या नित्ययुक्ता उपासते।
 
 **ज्ञानयज्ञेन चाप्यन्ये यजंंतो मासुपासते।  
-एकत्वेन पृथक्त्वेन बहुधा [विश्वतोमुखम्॥](# " Bhagavad Gîtâ, ix. 13-15")**
+एकत्वेन पृथक्त्वेन बहुधा विश्वतोमुखम्॥[^175]**
+
+[^175]: " Bhagavad Gîtâ, ix. 13-15"
 
  "Verily the Mahâtmâs, O Pârtha, sheltered in My divine Prakṛiti, worship with unwavering mind having known Me, the imperishable source of beings.
 
@@ -5357,7 +5705,9 @@ sensual pleasures, ever animate my heart, always devoted unto [Thee](# "Viṣh�
 
 
 **तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम्।  
-ददामि बुद्धियोगं तं येन मासुपयांति [ते॥](# "Bhagavad Gîtâx. 8-10")**
+ददामि बुद्धियोगं तं येन मासुपयांति ते॥[^176]**
+
+[^176]: "Bhagavad Gîtâx. 8-10"
 
  "I am the Generator of all; all evolves from Me; understanding thus, the wise adore Me in rapt devotion.
 
@@ -5371,7 +5721,9 @@ sensual pleasures, ever animate my heart, always devoted unto [Thee](# "Viṣh�
 अनन्येनैव योगेन मां ध्यायंत उपासते॥
 
 **तेषामहं समुद्धर्ता मृत्युसंसारसागरात्।  
-भवामि न चिरात्पार्थ [मय्यावेशितचेतसाम्॥](# "I bid xii. 6-7")**
+भवामि न चिरात्पार्थ मय्यावेशितचेतसाम्॥[^177]**
+
+[^177]: "I bid xii. 6-7"
 
  "Those verily who, renouncing all actions in Me, and intent on Me, worship meditating on me with whole-hearted Yoga,
 
@@ -5382,9 +5734,11 @@ sensual pleasures, ever animate my heart, always devoted unto [Thee](# "Viṣh�
  Submission to the divine Will grows easily out of devotion, for we always readily desire to yield where we recognise and love the superior. Wisdom and compassion invite submission, for the wisdom will choose the best, and the compassion the least suffering, path for us. Where wisdom and compassion are perfect, as in God, complete submission is the natural answer; and when all the events of life are seen as under His guidance, they can be accepted cheerfully and contentedly. The attitude of man in this respect to God should be that of a loving child to a wise and tender Father, carried to a far higher degree.
 
 पिताहमस्य जगतो माता धाता पितामहः।  
-भर्ता निवासः शरणं [सुहृत्॥](# "Bhagavad-Gítâ, ix,17-18")
+भर्ता निवासः शरणं सुहृत्॥[^178]
 
  "I am the Father of this universe, the Mother, the Supporter, the Grandsire, the Husband, Home, Shelter, Lover."
+
+[^178]: "Bhagavad-Gítâ, ix,17-18"
 
  Towards such a One gratitude springs up, ever increasing with increasing knowledge; and self-surrender, self-sacrifice, is but the culmination of By daily offering of all our acts to reverence.
 
@@ -5393,7 +5747,9 @@ sensual pleasures, ever animate my heart, always devoted unto [Thee](# "Viṣh�
 God, the spirit of self-sacrifice is cultivated, and as it becomes perfect the lower self is conquered and the Supreme Self is seen.
 
 **यत्करोषि यदश्नासि यज्जुहोषि ददासि यद्।  
-यत्तपस्यसि कौंतेय तत्कुरुष्व [महर्पणम्॥](# "Bhagavad Gita ix 27")**
+यत्तपस्यसि कौंतेय तत्कुरुष्व महर्पणम्॥[^179]**
+
+[^179]: "Bhagavad Gita ix 27"
 
  "Whatsoever thou doest, whatsoever thou eatest, whatsoever thou offerest, whatsoever thou givest, whatsoever thou doest of austerity, O Kaunteya, do thou that as an offering unto Me."
 
@@ -5407,7 +5763,9 @@ God, the spirit of self-sacrifice is cultivated, and as it becomes perfect the l
 
 speech and manner about sacred objects and sacred places, foolish jokes and idle laughter in speaking of the religious beliefs of others. This passes on into the vice of *Profanity* in coarse natures, and both are destructive of the finer emotions and should be sedulously guarded against. This dulling of the finer emotions leads on to complete alienation from religion, for God can only be reached through these finer emotions and by the virtues we have seen to be the offspring of love; and as a man is driven further and further away by the repellent action of hate, he loses all sense of the divine Presence, and often lapses into entire ethical unbelief, which leads to evil living.
 
-**असत्यमप्रतिष्ठं ते [जगदाहुरनीश्वरम्॥](# "Bhagavad Gîtâ, xvi, 8")**
+**असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम्॥[^180]**
+
+[^180]: "Bhagavad Gîtâ, xvi, 8"
 
  "The universe is without truth, without basis, without God, they say."
 
@@ -5417,9 +5775,13 @@ speech and manner about sacred objects and sacred places, foolish jokes and idle
 
 
 
-The virtues spoken of above should be repeated, in a lesser degree, in a subject's relation to his King. The virtues of *Loyalty, Fidelity and Obedience* are those which make a good subject, and the necessity of these for the prosperity of a nation is strongly insisted on. Manu says that the King was made by God to protect the world, and was made of particles taken from Indra, Vâyu, Yama, Sûrya, Agni, Varuṇa, Soma and Kubera. As Indra, he is to shower benefits on his kingdom; as Vâyu, to know all that goes on; as Yama, to control his subjects; as Sûrya to take taxes; as Agni to be full of brilliant energy; as Varuṇa, to punish the wicked; as Soma, to give joy to his subjects; as Kubera, to support his [people.](# "Manusmṛiti vii. 3, 4, and ix. 303-311")Bhîṣhma's discourse on the duties of King and subjects is most instructive; the King is to stand as God to his people, he being their protector and the guardian of [all.](# "Mahâbhârata Shânti parva. lvi-xci")
+The virtues spoken of above should be repeated, in a lesser degree, in a subject's relation to his King. The virtues of *Loyalty, Fidelity and Obedience* are those which make a good subject, and the necessity of these for the prosperity of a nation is strongly insisted on. Manu says that the King was made by God to protect the world, and was made of particles taken from Indra, Vâyu, Yama, Sûrya, Agni, Varuṇa, Soma and Kubera. As Indra, he is to shower benefits on his kingdom; as Vâyu, to know all that goes on; as Yama, to control his subjects; as Sûrya to take taxes; as Agni to be full of brilliant energy; as Varuṇa, to punish the wicked; as Soma, to give joy to his subjects; as Kubera, to support his people.[^181]Bhîṣhma's discourse on the duties of King and subjects is most instructive; the King is to stand as God to his people, he being their protector and the guardian of all.[^182]
+
+[^181]: "Manusmṛiti vii. 3, 4, and ix. 303-311"
 
  The Itihâsa are full of statements as to the blessings enjoyed by a loyal people ruled over by a good King.
+
+[^182]: "Mahâbhârata Shânti parva. lvi-xci"
 
  As loyalty is insisted on, so are the corresponding vices of *Disloyalty, Treason* and *Rebellion*
 
@@ -5488,7 +5850,9 @@ to love of humanity. Happy is the land whose sons are patriotic; she is sure to 
 \*        \*       \*       \*
 
 **त्रिष्वेतेष्विति कृत्यं हि पुरुषस्य समाप्यते।  
-एष धर्मः परः साक्षादुपधर्मो ऽन्य [उच्यते॥](# "Manusmṛti. ii, 227-230, 232, 234, 235, 237")**
+एष धर्मः परः साक्षादुपधर्मो ऽन्य उच्यते॥[^183]**
+
+[^183]: "Manusmṛti. ii, 227-230, 232, 234, 235, 237"
 
  "The suffering which the mother and father endure in the birth of children cannot be compensated, even in a hundred years.
 
@@ -5520,14 +5884,18 @@ to love of humanity. Happy is the land whose sons are patriotic; she is sure to 
  "Teachableness and obedience to the teacher are insisted on, and many rules were given intended to impress on the student the duty he owed to his preceptor. He was to be ever serviceable and careful not to offend, regarding the guru as his father in the highest sense.
 
 **उत्पादकब्रह्मदात्रोर्गरीयान् ब्रह्मदः पिता।  
-ब्रह्मजन्म हि विप्रस्य प्रेत्य चेह च [शाश्वतम्॥](# "Manusmṛti. ii, 206 207")**
+ब्रह्मजन्म हि विप्रस्य प्रेत्य चेह च शाश्वतम्॥[^184]**
+
+[^184]: "Manusmṛti. ii, 206 207"
 
  "Of the progenitor and the giver of the knowledge of Brahman, the giver of the knowledge of Brahman is the more venerable father; for the birth of the Brahman in the Brâhmaṇa is verily eternal, both here and after death."
 
  Only to the dutiful pupil was knowledge given:
 
 **यथा खनन्खनित्रेण नरो वार्यधिगच्छति।  
-तथा गुरुगतां विद्यां [शुश्रूषुरधिगच्छति॥](# "Manusmṛti. ii, 206 207")**[](# "Manusmṛti. ii, 206 207")
+तथा गुरुगतां विद्यां शुश्रूषुरधिगच्छति॥[^184]**[][^184]
+
+[^184]: "Manusmṛti. ii, 206 207"
 
 
 
@@ -5543,7 +5911,9 @@ to love of humanity. Happy is the land whose sons are patriotic; she is sure to 
 
 **विद्यागुरुष्वेतदेव नित्या वृत्तिः स्वयोनिषु।  
 प्रतिषेधत्सु चाधर्माद्धितं चोपदिशत्स्वपि॥  
-श्रेयःसु गुरुवद्वृत्तिं नित्यमेव [समाचरेत्।](# "Manusmṛiti.ii. 206, 207")**
+श्रेयःसु गुरुवद्वृत्तिं नित्यमेव समाचरेत्।[^187]**
+
+[^187]: "Manusmṛiti.ii. 206, 207"
 
  "Such also constantly his conduct among teach ers of learning, relatives, among those who hold him back from unrighteousness and give him counsel.
 
@@ -5570,9 +5940,11 @@ to remove the doubt either by convincing the student of the rightness of the cou
 प्रत्त्युत्थानाभिवादाभ्यां पुनस्तान्प्रतिपद्यते॥
 
 अभिवादनशीलस्य नित्यं वृद्धोपसेविनः।  
-चत्वारि तस्य वर्धन्त आयुः प्रज्ञा यशो [बलम्॥](# "Manusmṛiti, ii. 119-121")
+चत्वारि तस्य वर्धन्त आयुः प्रज्ञा यशो बलम्॥[^188]
 
  "He, should not take the same bed or the seat belonging to a superior; and he who is occupying a bed or seat should rise and salute him.
+
+[^188]: "Manusmṛiti, ii. 119-121"
 
 
 
@@ -5585,7 +5957,9 @@ to remove the doubt either by convincing the student of the rightness of the cou
  And so again:
 
 **अभिवादयेद् वृद्धांश्च दद्याच्चैवासनं स्वकम्।  
-कृताञ्जलिरुपासीत गच्छतः [पृष्ठतोऽन्वियात्](# "Manusmṛti. iv. 154")॥**
+कृताञ्जलिरुपासीत गच्छतः पृष्ठतोऽन्वियात्[^189]॥**
+
+[^189]: "Manusmṛti. iv. 154"
 
  "Let him salute the aged, let him give them his own seat, let him sit by them with folded hands, let him walk behind when they leave."
 
@@ -5655,7 +6029,9 @@ and sees the happiness ensured by the practice, or as he falls into the family v
 स वै सर्वमवाप्नोति वेदान्तोपगतं फलम्॥
 
 **नारुन्तुदः स्यादार्तोऽपि न परद्रोहकर्मधीः।  
-ययास्योद्विजते वाचा नालोक्यां [तामुदीरयेत्](# "Manusmṛiti. ii. 160, 161.")॥¹**
+ययास्योद्विजते वाचा नालोक्यां तामुदीरयेत्[^190]॥¹**
+
+[^190]: "Manusmṛiti. ii. 160, 161."
 
  "He whose speech and mind are pure and ever carefully guarded, he obtains all the fruit that is
 
@@ -5695,7 +6071,9 @@ obtained by means of the Vedânta.
 भ्राता ज्येष्ठः समः पित्रा भार्या पुत्रः स्वका तनुः॥
 
 छाया स्वा दासवर्गश्च दुहिता कृपणं परम्।  
-तस्मादेतैरधिक्षिप्तः सहेतासंज्वरः [सदा](# "Manusmṛiti iv. 177. 179, 180, 184, 185.")॥
+तस्मादेतैरधिक्षिप्तः सहेतासंज्वरः सदा[^191]॥
+
+[^191]: "Manusmṛiti iv. 177. 179, 180, 184, 185."
 
  "The elder brother is the same as the father, the wife and the son are one's own body,
 
@@ -5721,7 +6099,9 @@ between father and sons, and between brothers, is beautifully shown in the Râma
 दाराधीनस्तथा स्वर्गः पितॄणामात्मनश्च ह॥
 
 पतिं या नाभिचरति मनोवाग्देहसंयता।  
-सा भर्तृलोकानाप्नोति सङ्गिः साध्वीति [चोच्यते](# "Manusmṛiti xi. 26-26.")॥
+सा भर्तृलोकानाप्नोति सङ्गिः साध्वीति चोच्यते[^192]॥
+
+[^192]: "Manusmṛiti xi. 26-26."
 
  "There is no difference whatsoever between Shri (the Devî of Prosperity) and the wife in the house, who is the mother of the children, who brings good fortune, who is worthy of worship, the light of the home.
 
@@ -5736,7 +6116,9 @@ between father and sons, and between brothers, is beautifully shown in the Râma
  "She who, ruling her mind, speech and body, wrongs not her husband, she obtains the (heavenly) world with her husband and is called by the virtuous a Sâdhvi."
 
 **एतावानेव पुरुषो यज्जायात्मा प्रजेति ह।  
-विप्राः प्राहुस्तया चैतद्यां भ्रर्ता सा [स्मृताङ्गना](# "Manusmṛiti. ix. 45.")॥**
+विप्राः प्राहुस्तया चैतद्यां भ्रर्ता सा स्मृताङ्गना[^193]॥**
+
+[^193]: "Manusmṛiti. ix. 45."
 
  "This is the extent of the man, his wife, himself and his children; Brâhmaṇas thus declare that the husband and wife are known as the same."
 
@@ -5753,7 +6135,9 @@ in his home will be ready to show them out in the wider field of the world, and 
 * Courtesy and Consideration for the feelings of others* are enjoined as general principles of conduct, and noble bearing and manners have ever been held to be characteristic of the true Âryan. Thus speech must be true, but also pleasing:"
 
 सत्यं ब्रूयात्प्रियं ब्रूयान्न ब्रूयात्सत्यमप्रियम्।  
-प्रियं च नानृतं ब्रूयादेष धर्मः [सनातनः](# "Manusmṛiti, iv, 138.")॥
+प्रियं च नानृतं ब्रूयादेष धर्मः सनातनः[^194]॥
+
+[^194]: "Manusmṛiti, iv, 138."
 
  "Let him speak the true, let him speak the pleasing, let him not speak an unpleasing truth, nor speak a pleasing falsehood; this is the ancient law."
 
@@ -5778,7 +6162,9 @@ truth even though it be unpleasant, as when a person in authority rebukes or cor
 एतान्यपि सतां गेहेनोच्छिद्यन्ते कदाचन॥
 
 **अप्रणोद्योऽतिथिः सायं सूर्योढो गृहमेधिना।  
-काले प्राप्तस्त्वकाले वा नास्यानश्नन्गृहे [वसेत्](# " Manusmṛiti iii. 19, 101, 105.")॥**
+काले प्राप्तस्त्वकाले वा नास्यानश्नन्गृहे वसेत्[^195]॥**
+
+[^195]: " Manusmṛiti iii. 19, 101, 105."
 
  "Let him offer to the guest who has come a seat, water and food, hospitably according to his power, in accordance with rule.
 
@@ -5801,7 +6187,9 @@ continuous pilgrimages from shrine to shrine and from city to city—with all th
  *Toleration* is an allied virtue that may be practised towards equals or towards inferiors— the recognition that the Self expresses itself in many ways, and that none should seek to force on another his own views or his own methods. Tolerance has always been a characteristic of Hinduism, which has never sought to convert men from their own faith, nor to impose on those within its own pale any special form of intellectual belief. The variety of philosophic views embraced within its circle, as shown in the six Darshaṇas, testifies to the tolerance and wide-mindedness which have ever marked it. This tolerance is based on the belief in the One Self, and the reverent acceptance of the infinite variety of Its intellectual manifestations. Hence Hinduism has ever been permeated by the large-hearted toleration which is the very spirit of Īshvara; all are His; all paths by which men seek God lead to Him; as men walking from opposite quarters reach the same city, though walking in opposite directions, so men from all quarters, seeking God, meet in Him at last. It is foolish and childish, then, to quarrel about the ways.
 
 **ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम्।  
-मम वर्त्मानुवर्तन्त मनुष्याः पार्थ [सर्वशः॥](# "Bhagavad-Gîtâ iv. 11")**
+मम वर्त्मानुवर्तन्त मनुष्याः पार्थ सर्वशः॥[^196]**
+
+[^196]: "Bhagavad-Gîtâ iv. 11"
 
 
 
@@ -5818,7 +6206,9 @@ continuous pilgrimages from shrine to shrine and from city to city—with all th
 स तया श्रद्धया युक्तस्तस्याराधनमीहने।  
 लभते च ततः कामान्मयैव विहितान्हितान्॥
 
-**अन्तवन्तु फलं तेषां [तद्भवत्यल्पमेधसाम्।](# "Bhagavad-Gîtâ, vii. 20-23")**
+**अन्तवन्तु फलं तेषां तद्भवत्यल्पमेधसाम्।[^197]**
+
+[^197]: "Bhagavad-Gîtâ, vii. 20-23"
 
  
 
@@ -5836,7 +6226,9 @@ They whose wisdom hath been rent away by desires go forth to other Devas resorti
 तेऽपि मामेव कौंतेय यजन्त्यविधिपूर्वकम्॥
 
 **अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च।  
-न तु मामभिजानन्ति तत्त्वेनातश्च्यवन्ति [ते॥](# "Bhagavad-Gîtâ, ix. 23-24")** [](# "Bhagavad-Gîtâ, ix. 23-24")
+न तु मामभिजानन्ति तत्त्वेनातश्च्यवन्ति ते॥[^198]** [][^198]
+
+[^198]: "Bhagavad-Gîtâ, ix. 23-24"
 
  Even the devotees of other Devas who worship, full of faith, they also worship Me, O son of KuntÎ, though contrary to the ancient rule.
 
@@ -5861,7 +6253,9 @@ marks of that emotion, as they drive men apart from each other, separating them 
  The opposite of Kindness is *Harshness*, which shows itself but too often in the family as *Moroseness, Sullenness, Irritability and Peevishness*— very common failings, and the destroyers of family affec- tion and peace. These faults bring dark shadows into the family circle, in strong contrast to the light spread by the kind and sunny temper, and are but forms of Anger, one of the root manifestations of the hate-emotion. Manu classes anger and harshness among the sins which are to be specially avoided:
 
 **नास्तिक्यं वेदनिन्दां च देवतानां च कुत्सनम्।  
-द्वेषं स्तम्भं च मानं च क्रोधतक्ष्ण्ये च [वर्जयेत्॥](# "Manusmṛiti, iv, 153")**
+द्वेषं स्तम्भं च मानं च क्रोधतक्ष्ण्ये च वर्जयेत्॥[^200]**
+
+[^200]: "Manusmṛiti, iv, 153"
 
  "Let him avoid unbelief, censure of the Vedas and slighting of the Devas, hatred, obstinacy, pride, anger and harsiness."
 
@@ -5869,7 +6263,11 @@ marks of that emotion, as they drive men apart from each other, separating them 
 
 
 
-It is classed by Shrî[Kṛiṣhṇa,](# "Bhagavad Gītā. xvi. 21")with lust and greed as forming part of the triple gate of hell and as one of the âsuric [characteristics.](# "Ibid. 4")The mind confused by anger is easily hurried into other sins, and it is one of the chief roots of crime. *Impatience* is one of its smaller manifestations, and the student who is intent on improving his character should be on his watch against even this comparatively minor form of his great enemy. The steady effort to be patient with, kind to, all, will gradually eradicate from his character the fault of Anger.
+It is classed by ShrîKṛiṣhṇa,[^201]with lust and greed as forming part of the triple gate of hell and as one of the âsuric characteristics.[^202]The mind confused by anger is easily hurried into other sins, and it is one of the chief roots of crime. *Impatience* is one of its smaller manifestations, and the student who is intent on improving his character should be on his watch against even this comparatively minor form of his great enemy. The steady effort to be patient with, kind to, all, will gradually eradicate from his character the fault of Anger.
+
+[^201]: "Bhagavad Gītā. xvi. 21"
+
+[^202]: "Ibid. 4"
 
  *Harsh Fault-finding, Backbiting, Slander and Abuse* are the opposites of Magnanimity. They proceed from the same source as Irreverence, etc. The way to correct these faults is always to examine whether the defect for which we wish to condemn another is not present in ourselves. As Vidura says to Dhritarâshtra:—
 
@@ -5959,7 +6357,9 @@ to give, the virtue of *Charity,* is one which has been placed by Hinduism in th
 परितुष्टेन भावेन पात्रमासाद्य शक्तितः॥
 
 **यत्किंचिदपि दातव्यं याचितेनानसूयया।  
-उत्पत्स्यते हि तत्पात्रं यत्तारयति [सर्वतः॥](# "Manusmṛiti iv. 226–228")**
+उत्पत्स्यते हि तत्पात्रं यत्तारयति सर्वतः॥[^203]**
+
+[^203]: "Manusmṛiti iv. 226–228"
 
  "Let him diligently offer sacrifices and oblations with faith; these, if performed with faith and with rightly earned wealth, become unperishing.
 
@@ -5985,9 +6385,11 @@ ShrīKṛiṣhna, who divides gifts, according to their nature, into sâttvic, r
 दीयते च परिक्लिष्टं तद्दानं राजसं स्मृतम्॥
 
 अदेशकले यहानमपात्रेभ्यश्च दीयते।  
-असत्कृतमवज्ञातं [तत्तामसमुदाहृतम्॥](# "Bhagavad Gītā xvii. 20-22")
+असत्कृतमवज्ञातं तत्तामसमुदाहृतम्॥[^204]
 
  "That gift given to one who does nothing in return, saying, 'It ought to be given,' at right place and time and to a worthy recipient, that gift is accounted sâttvic.
+
+[^204]: "Bhagavad Gītā xvii. 20-22"
 
  "That verily which is given for the sake of receiving in return, or again with a view to fruit, or grudgingly, that gift is accounted râjasic.
 
@@ -6002,14 +6404,18 @@ stress is laid. We often read in the Itihâsa directions to show careful respect
  The idea of showing to weakness the same courtesy that is extended to rank and superiority, a tender deference and consideration, comes out strongly in the following shloka:
 
 **चक्रिणे दशमास्थस्य रोगिणोभारिणः स्त्रियाः।  
-स्नातकस्य च राज्ञश्च पन्था देयो वरस्य [च॥](# "Manusmṛiti ii. 138")** [](# "Manusmṛiti ii. 138")
+स्नातकस्य च राज्ञश्च पन्था देयो वरस्य च॥[^205]** [][^205]
+
+[^205]: "Manusmṛiti ii. 138"
 
  "Way should be made for a man in a carriage, for one who is above ninety years old, for a sick person, for one who carries a burden, for a woman, a Snâtaka, a king and a bridegroom."
 
  Similarly we find, when directions are being laid down as to the giving of food to people in the due order of their position, preference over all is given to the weak;
 
 **सुवासिनीः कुमारीश्च रोगिणो गर्भिणोस्तथा।  
-अतिथिभ्योऽग्र [एवैतान्भोजयेदविचारयन्॥](# "Ibid. iii. 114")**
+अतिथिभ्योऽग्र एवैतान्भोजयेदविचारयन्॥[^207]**
+
+[^207]: "Ibid. iii. 114"
 
  "Let him, without making distinctions, feed newly-married women, young maidens, the sick, and pregnant women, even before his guests."
 
@@ -6038,9 +6444,11 @@ ShrîKṛiṣhṇa:
 ईश्वरोऽहमहम् भोगी सिद्धोऽहं बलवान् सुखी॥
 
 आढ्योऽभिजनवानस्मि कोऽन्योऽस्ति सदृशो मया।  
-यक्ष्ये दास्यामि [मोदिष्ये॥](# "Bhagavad-Gîtâ, xvi. 13-16")
+यक्ष्ये दास्यामि मोदिष्ये॥[^208]
 
  "This to-day by me hath been obtained, that purpose I shall gain; this wealth is mine already, and this also shall be mine in future.
+
+[^208]: "Bhagavad-Gîtâ, xvi. 13-16"
 
  "This enemy hath been slain by me, and these others I shall also slay. I am Íshvara, I am the enjoyer, I am perfect, powerful, happy,
 
@@ -6055,7 +6463,9 @@ ShrîKṛiṣhṇa:
 and actions his sense of the distance between himself and them. His own bearing will be marked by *Aggressiveness, Self-assertion, Overbearingness,* implanting dislike and hatred in those with whom he comes into contact, unless they are thoroughly dominated by the love-emotion. If his inferiors possess anything which he desires; and he is able to deprive them of it without danger to himself, he may fall into robbery and murder, and he will use his superiority to oppress and enslave. The characters of many such men may be studied in history— tyrants, oppressors, causing widespread destruction and misery, and thus sowing in the breasts of the oppressed the seeds of evil passions which sprang up into a crop of revolt, bloodshed and anarchy. Manu sternly condemns the Kings that fail in the duty of protection:—
 
 **अदंड्यान्दंडयन् राजा दड्याचैवाप्यखंडयन्।  
-भयशो महदाप्नोतिनरकं [चैवगच्छति॥](# "Manusmṛiti viii. 128")**
+भयशो महदाप्नोतिनरकं चैवगच्छति॥[^209]**
+
+[^209]: "Manusmṛiti viii. 128"
 
  "The king that punishes the innocent and punishes not the criminal, he goeth into infamy and hell."
 
@@ -6137,11 +6547,15 @@ ShrīKṛiṣhṇa's gentle words and re-assumption of His ordinary form. These 
 
 **यदन्यैर्विहितं नेच्छेदात्मनः कर्म पूरुषः।  
 न तत्परेषु कुर्वीत जानन्नप्रियमात्मनः।  
-यद्यदात्मनिवेच्छेत तत्परस्यापि [चिन्तयेत्॥](# "Mahâbhârata Shânti parvalxxxvi")**
+यद्यदात्मनिवेच्छेत तत्परस्यापि चिन्तयेत्॥[^210]**
+
+[^210]: "Mahâbhârata Shânti parvalxxxvi"
 
  This is the summary of the Science of Conduct, because the "others" are in very truth "you" yourself. Says Manu:
 
-**क्रुध्यन्तं न प्रतिक्रुध्येदाकुष्टः कुशलं [वदेत्।](# "Manusmṛiti vi. 48")**
+**क्रुध्यन्तं न प्रतिक्रुध्येदाकुष्टः कुशलं वदेत्।[^211]**
+
+[^211]: "Manusmṛiti vi. 48"
 
  "Let him not be angry again with the angry
 
@@ -6153,7 +6567,9 @@ man; being harshly addressed, let him speak softly."
 
  The *Sâma-Veda* says:
 
-**सेतूंस्तर दुस्तरान् अक्रोधन क्रोधं [सत्येनानृतं।](# "Âranya-gâna. Arka-parra")**
+**सेतूंस्तर दुस्तरान् अक्रोधन क्रोधं सत्येनानृतं।[^212]**
+
+[^212]: "Âranya-gâna. Arka-parra"
 
  "Cross the passes so difficult to cross. (Conquer) wrath with peace; untruth with truth."
 
@@ -6221,3 +6637,239 @@ PEACE TO ALL BEINGS.
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^206]: "Manusmṛiti ii. 138"
+
+
+[^199]: "Bhagavad-Gîtâ, ix. 23-24"
+
+
+[^186]: "Manusmṛti. ii, 206 207"
+
+
+[^185]: "Manusmṛti. ii, 206 207"
+
+
+[^136]: "Bhagavad Gîtâ, iii. 9"
+
+
+[^128]: "Ibid. 2."
+
+
+[^66]: "See Kenop, iii, iv,"

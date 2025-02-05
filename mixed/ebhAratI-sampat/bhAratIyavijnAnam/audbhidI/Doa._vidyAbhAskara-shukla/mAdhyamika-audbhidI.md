@@ -101,7 +101,9 @@ Nagpur University.
 
 |                                                                                                                                                                                                                                                                           |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**INTRODUCTION\***](# "In writing the introduction in English I have followed the wishes of Lt. Col. Shri K. L. Dubey, the Vice-Chancellor of the Nagpur University. It is hereby intendedto introduce the book to such teachers as know neither Hindi nor Marathi.") |
+| **INTRODUCTION\***[^1] |
+
+[^1]: "In writing the introduction in English I have followed the wishes of Lt. Col. Shri K. L. Dubey, the Vice-Chancellor of the Nagpur University. It is hereby intendedto introduce the book to such teachers as know neither Hindi nor Marathi."
 
 
 
@@ -2876,3 +2878,4 @@ tissues) की रक्षा करती हैं और उसे खु�
 
 
 \]
+

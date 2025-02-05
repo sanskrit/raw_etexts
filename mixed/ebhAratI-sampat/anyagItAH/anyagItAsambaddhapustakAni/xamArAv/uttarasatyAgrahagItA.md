@@ -5299,8 +5299,10 @@ KSAMA ROW
 
 **सप्तत्रिंशोऽध्यायः।**
 
-**[\*](# "Year 1940.")बिन्दुवेदग्रहेन्द्वङ्कसंमिताब्दसमुद्भवाः।  
+**\*[^1]बिन्दुवेदग्रहेन्द्वङ्कसंमिताब्दसमुद्भवाः।  
 संक्षेपाद्वर्णयिष्यन्ते वृत्तान्ता बहुविस्तराः॥१॥**
+
+[^1]: "Year 1940."
 
 **अथ गच्छत्सु मासेषु वर्धमानेऽपि संगरे।  
 आंग्लानां कुटिलोन्मत्ता प्रवृत्तिर्नान्यथाभवत्॥२॥**
@@ -6763,7 +6765,9 @@ The King opened the Conference. When Gandhi rose to speak, he expressed his view
 
 **\[ 25-35\]**
 
- The new Viceroy of India, Lord Willingdon, thought he could crush the Congress within six weeks. But he did not know its real strength for, indeed, the tree of Satyagraha bears fruit only after a long time. In the previous struggle of Satyagraha twenty-five thousand persons went to jail but now within ten months over ninety thousand were locked up behind the prison bars. Old men, women and children were tortured by policemen who tried to extort secrets of the Congress programme. Indeed, they say that [Yama’s](# "Death")\* tortures are unbearable. But little do they know of the harassment of the police and of their threats. "Where are the Congress papers? Where are your Congress volunteers?"were their perpetual queries, accompanied by a lathi charge. A certain man had had his hair pulled out one by one by the police who wanted to force him to reveal the activities of the Congress. But this brave Satyagrahi kept his mouth sealed. Even the fierce rays of the sun cannot unfold the petals of the night lotus.
+ The new Viceroy of India, Lord Willingdon, thought he could crush the Congress within six weeks. But he did not know its real strength for, indeed, the tree of Satyagraha bears fruit only after a long time. In the previous struggle of Satyagraha twenty-five thousand persons went to jail but now within ten months over ninety thousand were locked up behind the prison bars. Old men, women and children were tortured by policemen who tried to extort secrets of the Congress programme. Indeed, they say that Yama’s[^2]\* tortures are unbearable. But little do they know of the harassment of the police and of their threats. "Where are the Congress papers? Where are your Congress volunteers?"were their perpetual queries, accompanied by a lathi charge. A certain man had had his hair pulled out one by one by the police who wanted to force him to reveal the activities of the Congress. But this brave Satyagrahi kept his mouth sealed. Even the fierce rays of the sun cannot unfold the petals of the night lotus.
+
+[^2]: "Death"
 
  In spite of this repression, however, the Congress continued its activities. A similar struggle of Satyagraha had never been seen bofore.
 
@@ -7363,7 +7367,9 @@ and silk, commencing from gathering, clearing, ginning, cleaning, carding, to sp
 
 **\[40-49\]**
 
- “After seventeen years’ practice of non-violence, the Congress should be able to put forth a non-violent army, not of hundreds but of thousands who will be equal to the police or the military. A non-violent army should act exactly the same in peace as in a disturbance. Such an army of non-violent warriors should cope with any emergency as did [Sugreeva’s](# "The chief of monkeys who figured in the Ramayana")monkey army against the powerful demons. A few hundred or thousand men, dying a glorious death, will quell the mob and it will be a cheaper method of dealing with such madness than the display and use of the police or the military. A psychologist does not treat the insane with weapons. It is said that if we have our Independence, there will be no riots. This is an empty hope. When Congress ministers are obliged to seek help of the police, we must admit our failure. That the ministers could not do otherwise is unfortunatley too obvious.”
+ “After seventeen years’ practice of non-violence, the Congress should be able to put forth a non-violent army, not of hundreds but of thousands who will be equal to the police or the military. A non-violent army should act exactly the same in peace as in a disturbance. Such an army of non-violent warriors should cope with any emergency as did Sugreeva’s[^3]monkey army against the powerful demons. A few hundred or thousand men, dying a glorious death, will quell the mob and it will be a cheaper method of dealing with such madness than the display and use of the police or the military. A psychologist does not treat the insane with weapons. It is said that if we have our Independence, there will be no riots. This is an empty hope. When Congress ministers are obliged to seek help of the police, we must admit our failure. That the ministers could not do otherwise is unfortunatley too obvious.”
+
+[^3]: "The chief of monkeys who figured in the Ramayana"
 
 **\[ 50-56 \]**
 
@@ -7962,7 +7968,9 @@ CHARGES AGAINST THE CONGRESS**
 
 **\[16-21\]**
 
- Here ends this narrative of thirteen years' struggle of Satyagraha. Glory be to Satyagraha, which is [Trimbak](# "Lord Shiva. He is supposed to possess threeeyes.") incarnate, its three eyes being Ahimsa, Truth and Peace. Bow to the great Goddess of Independence whose mere glance is enough to heal the scar of humiliation. May the glory of Swaraj shine out in India—India the source of the fount of learning and a mine of countless treasures.
+ Here ends this narrative of thirteen years' struggle of Satyagraha. Glory be to Satyagraha, which is Trimbak[^4] incarnate, its three eyes being Ahimsa, Truth and Peace. Bow to the great Goddess of Independence whose mere glance is enough to heal the scar of humiliation. May the glory of Swaraj shine out in India—India the source of the fount of learning and a mine of countless treasures.
+
+[^4]: "Lord Shiva. He is supposed to possess threeeyes."
 
  Victory to Gandhi, the peaceful King of Satyagraha whose Gospel of Truth and Purity has dispelled peoples' ignorance like the full moon with her brilliance the darkness of night.
 
@@ -8037,3 +8045,7 @@ BOMBAY,![](../books_images/U-IMG-1722506774Screenshot2024-08-01153405.png)![](#)
 
 
 \]
+
+
+
+

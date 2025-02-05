@@ -298,7 +298,9 @@ PART I
 VAIṢṆAVISM.  
 **I. Introductory.**
 
- §[The](# "[R. G. Bhandarkar s Works, Vol. IV]") old Vedic gods became indissolubly involved in the elaborate and mechanical system of worship that had grown up.Speculations as regards the appropriateness of the rules and modest of worship, and their efficacy as regards man's good in this world and the next, became prevalent. But all this did not satisfy the religious spirit of the people. Religious speculation of a more. natural order came to be established about the close of the Hymnperiod and was continued into that of the Upaniṣads. The various problems about God, man, and the world, engaged the attention of many thinkers, and a variety of solutions was arrived at. It is generally believed that the Upaniṣads teach a system of Pantheism; but a close examination will show that they teach not one, but various systems of doctrines as regards the nature of God, man, and the world and the relations between them. The religio-philosophic systems of modern times, which are mutually inconsistent, quote texts from the Upaniṣads as an authority for their special doctrines. These references to the old books are correct in the most prominent cases, but when the advocates of the systems force into other texts of an opposite nature a meaning consistent with their own special doctrines, they are manifestly wrong. That the Upaniṣads teach not one but various systems must follow. from the fact that they are compilations just as the ṚgvedaSaṁhitāis The speculations of the old, seers were clothed by them in words, and these were handed down orally and came to form a large floating mass. When the idea of collecting these speculations arose, they were incorporated into books for the use of individual Vedic schools. Hence it is that we find certain
+ §The[^1] old Vedic gods became indissolubly involved in the elaborate and mechanical system of worship that had grown up.Speculations as regards the appropriateness of the rules and modest of worship, and their efficacy as regards man's good in this world and the next, became prevalent. But all this did not satisfy the religious spirit of the people. Religious speculation of a more. natural order came to be established about the close of the Hymnperiod and was continued into that of the Upaniṣads. The various problems about God, man, and the world, engaged the attention of many thinkers, and a variety of solutions was arrived at. It is generally believed that the Upaniṣads teach a system of Pantheism; but a close examination will show that they teach not one, but various systems of doctrines as regards the nature of God, man, and the world and the relations between them. The religio-philosophic systems of modern times, which are mutually inconsistent, quote texts from the Upaniṣads as an authority for their special doctrines. These references to the old books are correct in the most prominent cases, but when the advocates of the systems force into other texts of an opposite nature a meaning consistent with their own special doctrines, they are manifestly wrong. That the Upaniṣads teach not one but various systems must follow. from the fact that they are compilations just as the ṚgvedaSaṁhitāis The speculations of the old, seers were clothed by them in words, and these were handed down orally and came to form a large floating mass. When the idea of collecting these speculations arose, they were incorporated into books for the use of individual Vedic schools. Hence it is that we find certain
+
+[^1]: "[R. G. Bhandarkar s Works, Vol. IV]"
 
 verses, passages and whole sections occurring in one Upaniṣad reproduced in another¹.
 
@@ -316,27 +318,39 @@ verses, passages and whole sections occurring in one Upaniṣad reproduced in an
 
 4.Seethe passange from BU. III, 2, 13, quoted in my paper"A Peep into the Early History of India", JBBRAS, Vol. XX, P. - 361.\[ = Vol. I. P. 7 of this Editions. - N.B.U.\].
 
-theism, so fully explained by Max Muller, and its ultimate result, the identification of the various gods, also influenced later thinkers. The conception that the supreme spirit manifests himself in various forms which we find expressed in the Upaniṣadsis a development, in the opposite direction, of the idea that one God, for instance Agni, is the same as Varuna, Mitra, Indra and [Aryaman.](# "RV. V. 3, 1—2") If these several gods are one, one god may become several. This led to the conception of Incarnations or Avatāras, which plays such a prominent part in the later religious systems.
+theism, so fully explained by Max Muller, and its ultimate result, the identification of the various gods, also influenced later thinkers. The conception that the supreme spirit manifests himself in various forms which we find expressed in the Upaniṣadsis a development, in the opposite direction, of the idea that one God, for instance Agni, is the same as Varuna, Mitra, Indra and Aryaman.[^2] If these several gods are one, one god may become several. This led to the conception of Incarnations or Avatāras, which plays such a prominent part in the later religious systems.
+
+[^2]: "RV. V. 3, 1—2"
 
  But for ordinary people, an adorable object, with a more distinct personality than that which the theistic portions of the Upaniṣads attributed to God, was necessary and the philosophia speculations did not answer practical needs. Thus some of the old Vedic gods, and others, which were new, became the objects of worship.
 
 II\. The Rise of a New Theistic System.
 
- §2. The tide of free speculations culminated in the east into such systems as those of Buddhism and Jainism; and though they denied the existence of God as a creator, or did not use the ides for the promotion of righteousness, and the former practically denied the existence of the human soul as a substance, still, these systems had the needful personal element in the shape of their founders. In the west, however, a theistic system with a god who had come to dwell among men arose. The various religious systems and superstitions that prevailed in the fourth century. B. C. are given in the following passage, occurring in the Niddess, which though of the nature of a commentary is regarded as one of the books of the Pall Buddhistic [Canon](# "This passage has been furnished to me by Mr. Dharmanand Kosambi."): "The deity of the lay followers of the Ājivakas is the Ājivakas, of those of the Nighanthas is the Nighanthas, of those of the Jaṭilas (ascetics wearing long matted hair) is the Jaṭilas, of those of the Paribbājakasis the Paribbājakas, of those of the Avaruddhakas is the Avaruddhakas, and the deity of those who are devoted to an elephant, a horse, a cow, a dog, a crow, Vāsudeva, Baladeva, Puṇṇabhadda, Maṇibhadda, Aggi, Nāgas, Supaṇṇas, Yakkhas,
+ §2. The tide of free speculations culminated in the east into such systems as those of Buddhism and Jainism; and though they denied the existence of God as a creator, or did not use the ides for the promotion of righteousness, and the former practically denied the existence of the human soul as a substance, still, these systems had the needful personal element in the shape of their founders. In the west, however, a theistic system with a god who had come to dwell among men arose. The various religious systems and superstitions that prevailed in the fourth century. B. C. are given in the following passage, occurring in the Niddess, which though of the nature of a commentary is regarded as one of the books of the Pall Buddhistic Canon[^3]: "The deity of the lay followers of the Ājivakas is the Ājivakas, of those of the Nighanthas is the Nighanthas, of those of the Jaṭilas (ascetics wearing long matted hair) is the Jaṭilas, of those of the Paribbājakasis the Paribbājakas, of those of the Avaruddhakas is the Avaruddhakas, and the deity of those who are devoted to an elephant, a horse, a cow, a dog, a crow, Vāsudeva, Baladeva, Puṇṇabhadda, Maṇibhadda, Aggi, Nāgas, Supaṇṇas, Yakkhas,
+
+[^3]: "This passage has been furnished to me by Mr. Dharmanand Kosambi."
 
 Asuras, Gandhabbas, Mahārājas, Canda, Suriya, India, Brahmā, Deva, Disā is the elephant, the horse, the cow, the dog, the crow, Vāsudeva, Baladeva, Puṇṇabhadda, Maṇibhadda, etc., respectively."
 
  Here a Buddhist who cannot but be expected to show scant courtesy to religious systems other than his own, places the worshippers of Vāsudeva and Baladeva on the same level with those of fire, moon, sun and Brahmā, and even elephants, crows, dogs, etc. But the worship of Vāsudeva was destined to become the predominant religion of a large part of India even to the supersession of that of fire, sun, moon and Brahmāand, of course, of the superstitious adoration of the lower animals. And it will be now our duty to trace its rise and progress.
 
- § 3. In his comment on Pāṇini IV. 3 98, Patañjali distinctly states that the Vāsudeva contained in the Sūtra is the name of the " worshipful ", i. e., of one who is pre-eminently worshipful, i. e., [God.](# "SeeJRAS, 1910, p. 163.") The worship of Vāsudeva must be regarded to be as old as Pāṇini.
+ § 3. In his comment on Pāṇini IV. 3 98, Patañjali distinctly states that the Vāsudeva contained in the Sūtra is the name of the " worshipful ", i. e., of one who is pre-eminently worshipful, i. e., God.[^4] The worship of Vāsudeva must be regarded to be as old as Pāṇini.
 
- In an Inscription found at Ghosundi in [Rajputāna](# "Luders, List of Brāhmī Inscriptions, No. 6.")which unfortunately is in a mutilated condition, the construction of a wall round the hall of worship of Saṁkarṣaṇa and Vāsudeva is mentioned. From the form of the characters in the Inscription it appears to have been engraved at least two hundred years B. C.
+[^4]: "SeeJRAS, 1910, p. 163."
 
- In another Inscription recently discovered at [Besnagar,](# "Ibid. No. 669.") Heliodora represents himself to have erected a Garuḍadhvaja or a column with the image of Garuḍa at the top in honour of Vāsudeva, the god of gods. Heliodora calls himself a Bhāgavaṭa, was the son of Diya, was a native of Takṣaśila and is spoken of as an ambassador of the Yavana and as such came on a political mission from. Aṁtalikita to Bhagabhadra who must have ruled over EasternMalwa. In this Inscription occurs the name Aṁtalikita which in all likelihood is the same as Antialkidas of the Bactro-Greek coins. This name as well as the form of the characters show that it belongs to the earlier part of the second century before the
+ In an Inscription found at Ghosundi in Rajputāna[^5]which unfortunately is in a mutilated condition, the construction of a wall round the hall of worship of Saṁkarṣaṇa and Vāsudeva is mentioned. From the form of the characters in the Inscription it appears to have been engraved at least two hundred years B. C.
+
+[^5]: "Luders, List of Brāhmī Inscriptions, No. 6."
+
+ In another Inscription recently discovered at Besnagar,[^6] Heliodora represents himself to have erected a Garuḍadhvaja or a column with the image of Garuḍa at the top in honour of Vāsudeva, the god of gods. Heliodora calls himself a Bhāgavaṭa, was the son of Diya, was a native of Takṣaśila and is spoken of as an ambassador of the Yavana and as such came on a political mission from. Aṁtalikita to Bhagabhadra who must have ruled over EasternMalwa. In this Inscription occurs the name Aṁtalikita which in all likelihood is the same as Antialkidas of the Bactro-Greek coins. This name as well as the form of the characters show that it belongs to the earlier part of the second century before the
+
+[^6]: "Ibid. No. 669."
 
 Christian era. At that timeVāsudeva was worshipped as the god of gods and his worshippers were called Bhāgavatas The Bhāgavata religion prevailed in the northwestern part of India and was adopted even by the Greeks.
 
- In the Inscription No. 1 in the large cave at [Nānāghāt,](# " Ibid. No. 1112.") the names of Saṁkarṣaṇa and Vāsudeva, in a Dvandva compound, occur along with those of other deities in the opening invocation. This Inscription appears from the form of the characters to belong to the first century before the Christian era.
+ In the Inscription No. 1 in the large cave at Nānāghāt,[^7] the names of Saṁkarṣaṇa and Vāsudeva, in a Dvandva compound, occur along with those of other deities in the opening invocation. This Inscription appears from the form of the characters to belong to the first century before the Christian era.
+
+[^7]: " Ibid. No. 1112."
 
  In the passage in the Mahabhāṣya in which Patañjali, to account for the appearance of the name Vāsudeva in Pāṇini IV. 3. 98, says that this is not the name of a Kṣatriya, but that of the Worshipful One, the question to be considered is whether Patañjali means this Vāsudeva to be quite unconnected with the Vāsudeva of the Vṛṣṇi race. From the occurrence of the names Vāsudeva and Baladeva close to each other in the passage from the Niddessa referred to above, and that of Saṁkarṣaṇa and Vāsudeva as worshipful or divine persons in a Dvandva compound in two of three above Inscriptions, it appears that the Vasudeva referred to by Patañjali as the Worshipful One must be the Vāsudeva of the race. But to account for the appearance of the name in the Sūtra, though the required form can he made up in accordance with the next Sūtra (Panini, IV. 3. 99), Patañjali says that Pāṇini looks at Vāsudeva in his capacity as a divine person and not as a Kṣatriya One must take it in this sense, since the Ghosundi Inscription noticed above, in which Saṁkarṣaṇa and Vāsudeva are associated as worshipful persons, must be older than Patañjali himself. Besides, Patañjali begins the discussion of the Sutra by first taking Vāsudeva as the name of a Kṣatriya. and raising an objection against it. This objection is answered in one way, Vāsudeva being still regarded as a Kṣatriya, and it is only optionally that he gives another explanation, that that name is not the name of a Kṣatriya, but of a divine person. This optional explanation given in the last resort must, therefore, be understood in the sense given above. And from all the accounts of the Bhagavata school contained in the whole literature it is clear that the worshipful Vāsudeva belonged to the Vṛṣṇii race.
 
@@ -406,7 +420,9 @@ ambassador at the court of Candragupta, the Maurya. Candragupta reigned in the l
 
  The name expressive of the Supreme Spirit was, however, in the early period Vāsudeva alone. In the passage from the Niddesaand the three Inscriptions Vāsudeva is the name that occurs.
 
- In the Bhagavadgītā (VII. 19 ) it is stated that "He who possesses knowledge gives himself up to me, believing Vāsudeva to be all" Even in the Bhāgavata Mantra of twelve syllables which is usually repeated at the present day and which is mentioned by Hemādri, it is to Vāsudeva that obeisance is [made.](# "Vrntakhanda (Bibl. Ind.) p. 225. The Mantra is Orh nameBhagavate Visudevāya.") In Bhiṣmap.chap. 65 Brahmadeva, addressing the Supreme Spirit (Purusa Parameśvara), entreats him to become the increaser of the Yadu race, and then, referring apparently to a foregone age, he says: O Vāsudeva! this great secret I have communicated to thee through thy favour as it really is. Having created thyself as the God Saṁkarṣaṇa, thoudidst procreate thy son Pradyumna. He created Aniruddha who is Viṣṇu himself, and he created me (Brahmadeva), who am made up of Vāsudeva and created by thee. Dividing thyself in this way be born as a human being again." In the beginning of chapter 66 of the same Parvan, Prajāpati speaks of himself as having asked the supreme lord of all to dwell in the world of men as Vāsudeva (to become incarnate). This Supreme Spirit should, it is said,
+ In the Bhagavadgītā (VII. 19 ) it is stated that "He who possesses knowledge gives himself up to me, believing Vāsudeva to be all" Even in the Bhāgavata Mantra of twelve syllables which is usually repeated at the present day and which is mentioned by Hemādri, it is to Vāsudeva that obeisance is made.[^8] p. 225. The Mantra is Orh nameBhagavate Visudevāya.") In Bhiṣmap.chap. 65 Brahmadeva, addressing the Supreme Spirit (Purusa Parameśvara), entreats him to become the increaser of the Yadu race, and then, referring apparently to a foregone age, he says: O Vāsudeva! this great secret I have communicated to thee through thy favour as it really is. Having created thyself as the God Saṁkarṣaṇa, thoudidst procreate thy son Pradyumna. He created Aniruddha who is Viṣṇu himself, and he created me (Brahmadeva), who am made up of Vāsudeva and created by thee. Dividing thyself in this way be born as a human being again." In the beginning of chapter 66 of the same Parvan, Prajāpati speaks of himself as having asked the supreme lord of all to dwell in the world of men as Vāsudeva (to become incarnate). This Supreme Spirit should, it is said,
+
+[^8]: "Vrntakhanda (Bibl. Ind.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -443,7 +459,9 @@ thought of identifying one god with others by regarding the latter either as for
 
  This passage is noticed in the Bhaktisūtra (83) and its commentary, in which it is stated that Ekāntabhāva (which is the subject of the Nārāyaṇiya), or devotion to one only, is Bhakti alone, since the former is recognised in that passage as identical with the main topic of the Bhagavadgītā. But the Bhagavadgītā contains no allusion to the Vyūhas or forms of the Supreme, Saṁkarṣaṇa and others, while the latter form a characteristic of the Bhāgavata school. The Gitā, however, mentions as the Prakrtis of Vāsudeva the five elements, the mind, Buddhi or knowledge, and egoism as well as Jīva (VII4, 5). The last is identified with Saṁkarṣaṇa in the Bhāgavata system, egoism with Aniruddha, and mind, with which probably Buddhi is associated, with Pradyumna.
 
- What appears to be the fact is this: The Bhagavadgītāwas composed before the doctrines of the Bhāgavata school were reduced to a system, and it was then that the three of the Prakṛtis of the Supreme were personified into Saṁkarṣaṇa, Pradyumna and Aniruddha, who were members of the family of Vāsudeva. In the prevalent worship, however, Saṁkarṣaṇa alone. is found associated with Vāsudevain early times, as is seen from the Inscriptions, and the passage from the Niddesa noticed in the [beginning.](# "Ante, p. 3. [N. B. U.] [R. G. Bhandarkar s Works, Vol. IV.]") Patañjali also notices, under Pāṇini II. 2. 34, a verse in which it is stated that certain musical instruments are sounded in a gathering in the temple of Dhanapati, Rāma and Keśava.
+ What appears to be the fact is this: The Bhagavadgītāwas composed before the doctrines of the Bhāgavata school were reduced to a system, and it was then that the three of the Prakṛtis of the Supreme were personified into Saṁkarṣaṇa, Pradyumna and Aniruddha, who were members of the family of Vāsudeva. In the prevalent worship, however, Saṁkarṣaṇa alone. is found associated with Vāsudevain early times, as is seen from the Inscriptions, and the passage from the Niddesa noticed in the beginning.[^9] Patañjali also notices, under Pāṇini II. 2. 34, a verse in which it is stated that certain musical instruments are sounded in a gathering in the temple of Dhanapati, Rāma and Keśava.
+
+[^9]: "Ante, p. 3. [N. B. U.] [R. G. Bhandarkar s Works, Vol. IV.]"
 
 Here Rāma and Keśava are Balarāma and Vāsudeva-Kṛṣṇa, and it is clear that there were festive gatherings at their temples in Patañjali's time. If the passage in Patañjali under Pāṇini VI. 3. 6, "Janārdana with himself as the fourth", i. e., with three companions, may be taken to allude to the three Vyūhas, then it must be understood that the four Vyūhas, Vāsudeva, Saṁkarṣaṇa, Pradyumna and Aniruddha, were known in Patañjali's time. Still it is doubtful, and it may be taken for granted that the two Vyūhas, Vāsudeva and Saṁkarṣaṇa, only were known up to the time of the latest Inscription which is to be referred to about the beginning of the first century before the Christian era, so that the system of four Vyūhas was not fully developed up to that time.
 
@@ -459,7 +477,9 @@ V. Substance of the Bhagavadgītā.
 
  Chapter II. Arjuna is reluctant to fight because it involves the destruction of his near and revered relatives and of other men. Bhagavat endeavours to remove the reluctance by speaking of the eternity and indestructibility of the human soul. Here are two stanzas which ocour, with a variation in one of the lines, in the Kaṭha Upaniṣad. Then to fight is spoken of as the duty of a Kṣatriya for whom there is no other good than a just fight. This mode of thinking is characterised as being Sāṁkhya, and the Yoga mode then follows.
 
- The condition of mind in the Yoga mode is a determined will. Those who according to the precepts of the Veda perform rites for fulfillment of various desires, cannot have a determined steadfast will. For attaining such a will one should think only of the deed to be done and not of the fruits to be derived from it. With a concentrated mind and without any attachment to other objects one should devote oneself to the deed alone. By such devotion to acts with a determined will, man finally attains inflexibility of will becomes Sthitaprajn̄a), and all his desires being uprooted, he attains complete serenity of soul or the Brāhmīcondition. When he is in this condition at the time of death, he obtains comes to the same doctrine as that quiescence in Brahman. This stated in the Kaṭha and Bṛhadāraṇyaka-Upaniṣads, that when all desires in the heart are uprooted, the mortal becomes immortal and attains to [Brahman.](# "Yada sarve pramucyante kama yesya brdi sritah, KU,VI. 14, and also BU. IV. 4. 7.") The discipline, however, prescribed for
+ The condition of mind in the Yoga mode is a determined will. Those who according to the precepts of the Veda perform rites for fulfillment of various desires, cannot have a determined steadfast will. For attaining such a will one should think only of the deed to be done and not of the fruits to be derived from it. With a concentrated mind and without any attachment to other objects one should devote oneself to the deed alone. By such devotion to acts with a determined will, man finally attains inflexibility of will becomes Sthitaprajn̄a), and all his desires being uprooted, he attains complete serenity of soul or the Brāhmīcondition. When he is in this condition at the time of death, he obtains comes to the same doctrine as that quiescence in Brahman. This stated in the Kaṭha and Bṛhadāraṇyaka-Upaniṣads, that when all desires in the heart are uprooted, the mortal becomes immortal and attains to Brahman.[^10] The discipline, however, prescribed for
+
+[^10]: "Yada sarve pramucyante kama yesya brdi sritah, KU,VI. 14, and also BU. IV. 4. 7."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -471,7 +491,9 @@ the attainment of this end is not simply moral, but religious also, since it is 
 
  Then a question is asked what it is that prompts man to sin. The reply is that it is desire and anger which are all-powerful and envelop a man's spiritual existence. Desire acts through the senses, but intelligence is superior to the senses, and superior to this latter is the will (Buddhi) and the soul is superior to Buddhi. Knowing oneself to be higher than Buddhi, one should curb oneself by efforts and kill desire which acts through the series, viz., senses, intellect, will. Here the superiority of one faculty over another is an idea borrowed from the Kaṭha-Upaniṣad. In connection with the teaching that action should be done disinterestedly, Bhagavat makes the closest possible approach to the Sāṁkhya doctrine that the soul being deluded by egoism (Ahaṁkāra) regards himself as the agent of the actions done by the qualities of nature (Prakṛti), and that, misled by the qualities of nature, he forms an attachment to the qualities and actions..
 
- § 13. Chapter IV. The chapter begins with Bhagavat's mention of his communication of this system to Vivasvat in the first instance, as alluded to [above.](# "Ante. p. 1.[ N. B. U.]") Incidentally the question of his ex
+ § 13. Chapter IV. The chapter begins with Bhagavat's mention of his communication of this system to Vivasvat in the first instance, as alluded to above.[^11] Incidentally the question of his ex
+
+[^11]: "Ante. p. 1.[ N. B. U.]"
 
 istence at the time of Vivasvat comes up, and he then explains hisbeing born again and again, and assuming incarnations for the destruction of the wicked by means of his Prakṛti. They who know the incarnations and the celestial deeds of Bhagavat, are released from the body and are not born again. By means of knowledge, men, being purified and their passions destroyed, and being devoted to him and resorting to him and resting on him, attained to the condition of Bhagavat. Bhagavat resorts to men in the manner in which they resort to him; men everywhere follow his path.
 
@@ -499,7 +521,9 @@ the three qualities and the conditions resulting from them proceed from him. Bha
 
  For the idea of all existing things being strung together in the Supreme, we may compare MU. II. 2.5, and BU. III. 8. 3-4; 6-7. Ordinary people are represented as resorting to other deities, led by several desires. The Bhagavat confirms their faith in their deities, and the fruits that they get from them are perishable. Here appears the same idea as that noticed in chap. IV and to be noticed in chap. IX, viz, that the worshippers of other gods are really Bhagavat's worshippers, and that there is a principle of unity in all religions.
 
- § 17. [Chapter VIII.](# "[R. G. Bhandarkar s Works, Vol. IV.]") Arjuna begins by putting questions about the three subjects mentioned in the last verse of the last chapter, and about Brahman and Adhyātma. Bhagavat then explains these. About perceiving him at the time of death he says: "He who leaves his body while remembering me at the time of death, attains to the same condition as mine." Finally he states that he who departs this life, while meditating on the all-knowing, eternal ruler, who is smaller than the smallest thing, who is the protector of all, whose form is unthinkable, whose brilliance is like that of the sun, and who is beyond all darkness—with devotion, his whole soul gathered between the brows with the power of concentration, reaches that Supreme Being, who is higher than the highest. He then mentions the attainment of the Unchangeable, with the mind concentrated, and the reaching of the final goal after leaving the body by means of a Yoga process and by the utterance of the syllable 'Om' and the remembrance of Bhagavat all the while. Bhagavat is easily attainable by one who meditates on him with asingleness of mind and is devoted to him. Every being is subject to transmigration, but is free from it when he reaches Bhagavat.
+ § 17. Chapter VIII.[^12] Arjuna begins by putting questions about the three subjects mentioned in the last verse of the last chapter, and about Brahman and Adhyātma. Bhagavat then explains these. About perceiving him at the time of death he says: "He who leaves his body while remembering me at the time of death, attains to the same condition as mine." Finally he states that he who departs this life, while meditating on the all-knowing, eternal ruler, who is smaller than the smallest thing, who is the protector of all, whose form is unthinkable, whose brilliance is like that of the sun, and who is beyond all darkness—with devotion, his whole soul gathered between the brows with the power of concentration, reaches that Supreme Being, who is higher than the highest. He then mentions the attainment of the Unchangeable, with the mind concentrated, and the reaching of the final goal after leaving the body by means of a Yoga process and by the utterance of the syllable 'Om' and the remembrance of Bhagavat all the while. Bhagavat is easily attainable by one who meditates on him with asingleness of mind and is devoted to him. Every being is subject to transmigration, but is free from it when he reaches Bhagavat.
+
+[^12]: "[R. G. Bhandarkar s Works, Vol. IV.]"
 
  During the night of Brahman all these things are resolved into the indiscrate (Avyakta), and, when the day dawns; they spring out again from it. There is another substance, different from the Avyakta and itself indiscrate (Avyakta), which is not destroyed when all others are destroyed. This substance which is indiscrete, is unchangeable and that is the highest resting place, which being attained to, there is no return. That is Bhagavat's highest abode. Thatsuprame soul, in whom all these beings are and who has spread out all this, is to he attained by single-minded devotion. Then he proceeds to mention the two paths. Those who die while the sun is in his northern course (Uttarāyaṇa) go to Brahman, and those who die while he is in his southern course (Dakṣināyana) go to the orb of the moon, from which the soul returns.
 
@@ -619,7 +643,9 @@ into existence. I am not inclined to dissolve Vāsudeva and Arjuna into solar my
 
 **VII. Identification of Vāsudeva with Nārāyaṇa.**
 
- § 32. The word Nārāyaṇais similar to Nāḍāyaṇa, which last is formed by P. IV. 1. 99 and means the Gotra Nāḍāyaṇa. The termination is significative and means in this case the resting place or the place to which Nāḍa or a collection of Naḍas go. So Nārāyaṇameans the resting place or goal of Nāra or a collection of [Nāras](# "1 See Medhātithi s commentary on Manu 1.10."). In theNārāyaṇīya (XII. 341) Keśava or
+ § 32. The word Nārāyaṇais similar to Nāḍāyaṇa, which last is formed by P. IV. 1. 99 and means the Gotra Nāḍāyaṇa. The termination is significative and means in this case the resting place or the place to which Nāḍa or a collection of Naḍas go. So Nārāyaṇameans the resting place or goal of Nāra or a collection of Nāras[^13]. In theNārāyaṇīya (XII. 341) Keśava or
+
+[^13]: "1 See Medhātithi s commentary on Manu 1.10."
 
 Hari says to Arjuna that he is known as the resting place or goal of men (Narāṇām). The word Nṛor Naṛa is also used to denote gods as manly persons, especially in the Vodas, so that Nārāyaṇa may be construed as the resting place or goal of gods. There is a tradition which connects Nārāyaṇa with the primeval waters. Manu (1.10), and also Hari in the above passage say that the waters were called Nārās because they were the sons of Nara, and, since they were the first resting place of Brahmāin the first case and of Hari in the second, the two were called Nārāyaṇas. The Purāṇas, such as the Vāyu and the Viṣṇu, agree with Manu. Again there is a tradition that Brahmadeva sprang from the lotus in the navel of Nārāyaṇa or Viṣṇu (M Bh. III, 12, 34 and XII 349. 18), In the Vāyu-Purāṇa Nārāyaṇa is represented as prior to Avyakta or matter in an undeveloped form, and from Avyakta sprang the mundane egg, and from the latter arose Brahmadeva.
 
@@ -629,7 +655,9 @@ Hari says to Arjuna that he is known as the resting place or goal of men (Narā�
 
 jāpati tells him to sacrifice again, and the substance of the whole. is that Nārāyaṇaplaced himself in all the worlds, in all the gods, in all the Vedas and in all the vital airs, and they were placed in him. This shadows forth the rising of Nārāyaṇato the dignity of the Supreme Soul, who pervades all and in whom all things. exist and who in the beginning sent forth all the gods, being himself their receptacle or resting place as indicated in RV. X. 82. 6. In another place (XIIL 6. 1) Puruṣa Nārāyaṇais mentioned as having conceived the idea of a Pañcarātra Sattra (continued sacrifices for five days) as the means of obtaining superiority over all beings and becoming all beings. He performed the sacrifices and attained to that dignity. Here also Nārāyaṇa's becoming the Supreme Ruler and becoming all are spoken of, Nārāyaṇais represented as the author of the Puruṣasūkta (RV. X. 90). This appears to be as much a fanciful representation, as that of Viśvakarman and others as authors of other hymns As in these last cases, it has a connection with the deity to which the hymn refers, so that Nārāyaṇa is another name of the Puruṣa, and these two names are associated together, as we have seen, in the above citations from the Śatapatha-Brāhmana. In the Taittiriya-Āraṇyaka (X. 11) Nārāyaṇais described with all the attributes of the Supreme soul, which are usually found mentioned in the Upaniṣads.
 
- In the Mahābhārata and Purāṇas, he figures as the supreme god, especially in connection with the creation; mythologically he is represented as lying on the body of a huge serpent in the ocean. of milk, the original conception of his connection with the primeval waters being still kept to. Nārāyaṇathus became an object of worship. In the Ghosuṇḍi Inscription noticed [before](# "Ante,p.4  [N.B.U.]"), there is what appears to be a dedication of an enclosure to Nārāyaṇa(Nārāyaṇa-Vāṭikā),
+ In the Mahābhārata and Purāṇas, he figures as the supreme god, especially in connection with the creation; mythologically he is represented as lying on the body of a huge serpent in the ocean. of milk, the original conception of his connection with the primeval waters being still kept to. Nārāyaṇathus became an object of worship. In the Ghosuṇḍi Inscription noticed before[^14], there is what appears to be a dedication of an enclosure to Nārāyaṇa(Nārāyaṇa-Vāṭikā),
+
+[^14]: "Ante,p.4  [N.B.U.]"
 
  §33. The heaven of this Nārāyaṇawas the Śvetadvīpa or white. island. In the Kathāsaritsāgara (54. 19, 21, 23) Naravāhanadatta is represented to have been carried to the white island by Devasiddhi and to Hari reposing on the body of the serpent Śeṣa and attended by Nārada and other devotees. In another place in the same work (115, 101-3) certain gods are spoken of as having gone to Śvetadvīpa and seen Hari in a house made of great gems,
 
@@ -655,7 +683,9 @@ are warriors at the same time was brought into connection with the two interlocu
 
 whole earth, and so the gods got the whole earth. Here a miraculous power has been attributed to Viṣṇu, though he is not necessarily the Supreme Spirit.
 
- In the Maitri-Upaniṣad (VI. 13) food is called the form of Bhagavad-Viṣṇu, which sustains the universe. In the Kaṭha-Upaniṣad (III. 9) the progress of the human soul is compared to a journey, and the end of the path which he traverses is called. the highest place of VViṣṇu (Paramam padam). This is the final goal and the abode of eternal bliss, and the use of the word in this sense lends support to the view that the elevation of Viṣṇu to the dignity of the Supreme Being was due to the fact that the expression was capable of being used to denote this sense. Some time after, Viṣṇu became even a household god. In the ceremony of the seven steps contained in the marriage ritual, the bridegroom has to say to the bride, when she puts forth a step :" May Viṣṇu lead you or be with you." This formula occurs in the Gṛhya-sūtras of Āpastamba, Hiraṇyakeśin and Pāraskara, but not in that of Āśvalāyana. In epic times Viṣṇu grew to be in every respect. the Supreme Spirit; and Vāsudeva is identified with Viṣṇu. In chapters 65 and 66 of the Bhīṣmaparvan noticed [before](# "Ante, pp. 13 and ff. [N. B. U.]"), the Supreme Spirit is addressed as Nārāyaṇa and Viṣṇu and is identified with Vāsudeva.
+ In the Maitri-Upaniṣad (VI. 13) food is called the form of Bhagavad-Viṣṇu, which sustains the universe. In the Kaṭha-Upaniṣad (III. 9) the progress of the human soul is compared to a journey, and the end of the path which he traverses is called. the highest place of VViṣṇu (Paramam padam). This is the final goal and the abode of eternal bliss, and the use of the word in this sense lends support to the view that the elevation of Viṣṇu to the dignity of the Supreme Being was due to the fact that the expression was capable of being used to denote this sense. Some time after, Viṣṇu became even a household god. In the ceremony of the seven steps contained in the marriage ritual, the bridegroom has to say to the bride, when she puts forth a step :" May Viṣṇu lead you or be with you." This formula occurs in the Gṛhya-sūtras of Āpastamba, Hiraṇyakeśin and Pāraskara, but not in that of Āśvalāyana. In epic times Viṣṇu grew to be in every respect. the Supreme Spirit; and Vāsudeva is identified with Viṣṇu. In chapters 65 and 66 of the Bhīṣmaparvan noticed before[^15], the Supreme Spirit is addressed as Nārāyaṇa and Viṣṇu and is identified with Vāsudeva.
+
+[^15]: "Ante, pp. 13 and ff. [N. B. U.]"
 
  In the Anugītā portion of the Āśvamedhikaparvan (chap.53-55) Kṛṣṇa, while returning to Dvārakā, meets on the way a sage of the name of Uttaṅka of the Bhṛgu race. The sage asks Kṛṣṇa whether he had established peace between the contending kinsmen, Pāṇḍus and Kurus, and established affectionate relations between them. Kṛṣṇa replies that the Kurus had been destroyed and the Pāṇḍus were in possession of the supreme sovereignty. The sage got angry and said that he would pronounce a curse against Kṛṣṇa , but if he explained to him the philosophy of the soul (Adhyātma), he would desist. Kṛṣṇa then does explain this philosophy at the request of Uttaṅka and shows him his universal form (Virāt svarūpam). The Svarūpa is the same as, or similar to, that shown to Arjuns according to the Bhagavadgītā, but it is here called the Vaiṣṇava form (Rūpa), which name does not occur. in the other passage. Thus then between the period of the Bhāga
 
@@ -686,11 +716,17 @@ cow-settlement (Gokula). The contrast between this and the statements in the Har
 
 herd. It is the name of a race, whose original oooupation was the tending of cows; and consequently the name became in later. times equivalent to a 'cowherd'. For these reasons the cowherda among whom the boy-god Kṛṣṇa lived, belong to a nomadic tribe of the name of Ābhīras. These Ābhīras occupied the tract of country from Madhuvana near Mathurāto Anūpa and Ānarta, the regions about Dvāraka (H. 5161-5163). The Ābhīras are mentioned in the Mahābhārata (Mausalaparvan, chap. 7) as having attacked Arjuna, who was carrying the women of the Vṛṣṇis from Dvāraka to Kurukṣetra after the extinction of the male members. of the Vṛṣṇirace. They are described as robbers and Mleochas, and lived near Pañcanada, which is probably Punjab. The Viṣṇu-Purāṇa locates them near the Aparāntas (Konkan) and Saurāṣtras, and Varāhamihira assigns them nearly the same position. Though they are mentioned as the southern people ( Bṛ. S. 14. 12), and as living in the southwest (Bṛ. S. 14. 18), the Ābhīras must have. migrated in large hordes into the country. They were at first. mere nomads and afterwards settled in the country from about the eastern confines of the Punjab to the vicinity of Mathurāand in the south up to Saurāṣṭra and Kathiavad, i. e., they must have. occupied the whole of Raiputāna and a tract to the northeast of it. After they were settled, they took to various occupations, one. of which was of course the old one, namely the tending of cows.
 
- The descendants of the old Ābhīras are called Āhirs at the present day, and we have now Āhirs following the occupation of carpenters, goldsmiths, cowherds and even priesthood. At one time they founded a kingdom in the nothern part of the Maratha country, and an Inscription of the ninth year of the Ābhīra king. Iśvarasena, the son of Ābhīra Śivadatta, is found at [Nasik](# "Lūders, List of Brāhmī Inscriptions, Nr. 1137."). From the form of the characters the Inscription probably belongs. to the end of the third century. The Purāṇas mention a dynasty of Ābhīras composed of ten [princes](http://3 "See Vāyu-Purāṇa, vol. II, chap. 37, page 453, Bibl. Ind,"). Another Inscription of an earlier date is found at [Gundā](# "Lūders, List of Brāhmī Inscriptions, Nr. 963.")in Kathiavad, in which the charities of Rudrabhūti, a general, who is called an Ābhīra, are mentioned. The Inscription belongs to the reign of a Kṣatrapa
+ The descendants of the old Ābhīras are called Āhirs at the present day, and we have now Āhirs following the occupation of carpenters, goldsmiths, cowherds and even priesthood. At one time they founded a kingdom in the nothern part of the Maratha country, and an Inscription of the ninth year of the Ābhīra king. Iśvarasena, the son of Ābhīra Śivadatta, is found at Nasik[^16]. From the form of the characters the Inscription probably belongs. to the end of the third century. The Purāṇas mention a dynasty of Ābhīras composed of ten [princes](http://3 "See Vāyu-Purāṇa, vol. II, chap. 37, page 453, Bibl. Ind,"). Another Inscription of an earlier date is found at Gundā[^17]in Kathiavad, in which the charities of Rudrabhūti, a general, who is called an Ābhīra, are mentioned. The Inscription belongs to the reign of a Kṣatrapa
+
+[^16]: "Lūders, List of Brāhmī Inscriptions, Nr. 1137."
+
+[^17]: "Lūders, List of Brāhmī Inscriptions, Nr. 963."
 
 king of the name of Rudrasiṁha, who held power in Śaka 102 corresponding to 180 A. D.
 
- If then about the end of the second century and in the third, the Ābhiras enjoyed high political position, they must have migrated into the country in the first century. They probably brought with them the worship of the boy-god and the story of his humble birth, his reputed father's knowledge that he was not his son, and the massacre of the innocents.The two last correspond to Nanda's knowing that he was not the father of Kṛṣṇa and Kaṁsa's killing all children. The stories of Kṛṣṇa's hoyhood, such as that of killing Dhenuka, a demon in the form of a wild ass, were brought by [Ābhiras](# "Journal of the Royal Asiatic Society for 1907, p. 981."), and others were developed after they came to India. It is possible that they brought with them the name Christ also, and this name probably led to the identification of the boy-god with Vāsudeva-Kṛṣṇa, The Goanese and the Bengalis often pronounce the name Kṛṣṇa as Kuṣṭo or Kriṣṭo, and so the Christ of the Ābhiras was recognised as the Sanskrit Kṛṣṇa.
+ If then about the end of the second century and in the third, the Ābhiras enjoyed high political position, they must have migrated into the country in the first century. They probably brought with them the worship of the boy-god and the story of his humble birth, his reputed father's knowledge that he was not his son, and the massacre of the innocents.The two last correspond to Nanda's knowing that he was not the father of Kṛṣṇa and Kaṁsa's killing all children. The stories of Kṛṣṇa's hoyhood, such as that of killing Dhenuka, a demon in the form of a wild ass, were brought by Ābhiras[^18], and others were developed after they came to India. It is possible that they brought with them the name Christ also, and this name probably led to the identification of the boy-god with Vāsudeva-Kṛṣṇa, The Goanese and the Bengalis often pronounce the name Kṛṣṇa as Kuṣṭo or Kriṣṭo, and so the Christ of the Ābhiras was recognised as the Sanskrit Kṛṣṇa.
+
+[^18]: "Journal of the Royal Asiatic Society for 1907, p. 981."
 
  The dalliance of Kṛṣṇa with cowherdesses, which introduced an element inconsistent with the advance of morality into the Vāsudeva religion, was also an after-growth, consequent upon the freer intercourse between the wandering Ābhīras and their more civilised Āryan neighbours. Morality cannot be expected. to be high or strict among races in the condition of the Ābhīras at the time and their gay neighbours took advantage of its looseness. Besides, the Ābhīrawomen must have been fair and handsome as those of the Āhir-Gavaliyas or cowherds of the present day are.
 
@@ -722,7 +758,9 @@ great Upaniṣad of Brahman, springs forth from it for the redemption of the wor
 
 2.Vibbavas are the incarnations of the Supreme Spirit.
 
- §40. The book called Nāradapañcarātra, published by the Asiatic Society of Bengal, contains the Saṁhitācalled Jñānāmṛitasāra. The glories of the boy Kṛṣṇa are sung in this work. Nārada desiring to know Kṛṣṇa's greatness and the methods of his worship is recommended to go to Śaṁkara, or Śiva, and seek instruction from him. Nārada repairs to Kailāsa and enters the palace of Śaṁkara, which has seven gates. At these gates there are pictures and sculptures relating to the scenes of Kṛṣṇa's childhood and his various deeds in the cow-settlement, such as Vṛṇḍavana, Yamunā, Kṛṣṇa's sitting on the Kadamba tree with the garments of the cowherdesses and their return from bath in the Yamunā river in a naked condition, the destruction of the serpent Kāliya, the holding up of the Govardhana mountain on the palm of his hand, the journey to Mathurā and the lamentations of the. Gopīs and his foster-parents, etc. Sculptures representing some of these events were discovered on a pillar excavated at Mandor near Jodhpur about two years [ago](# "Archeological Survey of India, Annual Report, 1905-1906. p. 135    8.[R.G. Bhandarkar s Works, Vol. IV]"). The age of the pillar has been considered not earlier than the fourth century A. D. The idea of imagining such sculptures on the gates of Śiva's palace could have. occurred to a writer only when the practice of adorning gates and pillars with such sculptures had become general. The Jñānāmṛtasāra, therefore, could not have been earlier than fourthcentury and appears to me to be considerably later, as will be presently shown.
+ §40. The book called Nāradapañcarātra, published by the Asiatic Society of Bengal, contains the Saṁhitācalled Jñānāmṛitasāra. The glories of the boy Kṛṣṇa are sung in this work. Nārada desiring to know Kṛṣṇa's greatness and the methods of his worship is recommended to go to Śaṁkara, or Śiva, and seek instruction from him. Nārada repairs to Kailāsa and enters the palace of Śaṁkara, which has seven gates. At these gates there are pictures and sculptures relating to the scenes of Kṛṣṇa's childhood and his various deeds in the cow-settlement, such as Vṛṇḍavana, Yamunā, Kṛṣṇa's sitting on the Kadamba tree with the garments of the cowherdesses and their return from bath in the Yamunā river in a naked condition, the destruction of the serpent Kāliya, the holding up of the Govardhana mountain on the palm of his hand, the journey to Mathurā and the lamentations of the. Gopīs and his foster-parents, etc. Sculptures representing some of these events were discovered on a pillar excavated at Mandor near Jodhpur about two years ago[^19]. The age of the pillar has been considered not earlier than the fourth century A. D. The idea of imagining such sculptures on the gates of Śiva's palace could have. occurred to a writer only when the practice of adorning gates and pillars with such sculptures had become general. The Jñānāmṛtasāra, therefore, could not have been earlier than fourthcentury and appears to me to be considerably later, as will be presently shown.
+
+[^19]: "Archeological Survey of India, Annual Report, 1905-1906. p. 135    8.[R.G. Bhandarkar s Works, Vol. IV]"
 
  Goloka or the world of cows is the heaven in which Kṛṣṇa dwells and which is reached by those who adore him, and several Mantras are given in this book, the reciters of which are rewarded. with a place in that heaven. The servitude of Hari through devotion is the highest Mukti or absolution according to this work. There are six modes of adoring Hari; viz., (1) remembrance of him, (2) utterance, ( of his name and glory ). ( 3 ) salutation, (4) resorting to his feet, (5) constant worship of him with devotion, and (6) surrender of the whole soul to him. The Bhāgavata-Purāṇa adds three more, viz., hearing (his praise ), servitude, and companionship (Ṡakhyam). These last two are preliminary to
 
@@ -734,7 +772,9 @@ XI\. The Avatāras of Viṣṇu or Nārāyaṇa.
 
  § 41. An Avatāra or incarnation of a god differs from mereidentification of two gods in this, that in the former case the god that is considered an incarnation acts like a human being, or even a brute, at the same time that he has the miraculous powers of a god. The transition, however, from the idea of identification to that of incarnation is easy. The person in the flesh is identified with the god who is a mere spirit, so that the habit of thought which in Vedic times led to the identification of some of the Vedic deities with Agni, has been at work even in this conception of the Avatāras.
 
- The Avatāras of Nārāyaṇaor Viṣṇu are variously given by the various authorities. In the passage in the Nārāyaṇīyatranslated [above](# "Ante, p. 9 [N. B. U.]"),' six only are given, viz, the boar, the manlion, the dwarf, Rāma of the Bhṛgu race,Rāma Dāśarathi and that assumed for the destruction of Kaṁsa (Vāsudeva-KṛṣṇaThis passage is followed after a short interval by another in which the incarnations are given as ten, the additions being Haṁsa (swan), Kūrma (turtoise), and Matsya (fish) in the beignning and Kalkin at the end. The one preceding Kalkin is called Sātvata, i. e.. Vāsudeva-Kṛṣṇa. This passage, following so closely on the
+ The Avatāras of Nārāyaṇaor Viṣṇu are variously given by the various authorities. In the passage in the Nārāyaṇīyatranslated above[^20],' six only are given, viz, the boar, the manlion, the dwarf, Rāma of the Bhṛgu race,Rāma Dāśarathi and that assumed for the destruction of Kaṁsa (Vāsudeva-KṛṣṇaThis passage is followed after a short interval by another in which the incarnations are given as ten, the additions being Haṁsa (swan), Kūrma (turtoise), and Matsya (fish) in the beignning and Kalkin at the end. The one preceding Kalkin is called Sātvata, i. e.. Vāsudeva-Kṛṣṇa. This passage, following so closely on the
+
+[^20]: "Ante, p. 9 [N. B. U.]"
 
 first, appears to be interpolated when the number of Avatāras became fixed at ten.
 
@@ -751,31 +791,51 @@ and General Vaiṣṇavism.**
 
  § 42. We will now resume the chronological thread we have traced from Megasthenes to the latest Inscription, that at Nanaghat, which is to be referred to the first century B. C. For about four centuries after this there are no epigraphical or sculptural traces of any Brāhmanic religious system; and they reappear about the time when the Guptas rose to power in the first quarter of the fourth century. The Gupta princes, Candragupta II, Kumāragupta, and Skandagupta, are styled Paramabhāgavatas on their coins. They were thus worshippers of Bhagavat or Vāsudeva. Their dates range from 400 to 464 A. D.
 
- On a panel at Udayagiri, there is a figure of a four-armed god, who is probably Viṣṇu. The Inscription below bears the date. 82 G. E., i. e.. 400 [A. D.](# "Corp. Inser. Ind. Vol. III, p. 21.")
+ On a panel at Udayagiri, there is a figure of a four-armed god, who is probably Viṣṇu. The Inscription below bears the date. 82 G. E., i. e.. 400 A. D.[^21]
 
- There is a pillar at Bhitari in the Ghazipur District of the U. P., on which there is an Inscription which records the installation of an image of Śārṅgin and the grant of a village for its worship by Skandagupts, whose dates range between 454 and 464 [A. D](# "Ibid. p. 52.ff."). Śārṅgin must have been Vāsudeva-Kṛṣṇa,Skanda- gupta himself being a Bhāgavata.
+ There is a pillar at Bhitari in the Ghazipur District of the U. P., on which there is an Inscription which records the installation of an image of Śārṅgin and the grant of a village for its worship by Skandagupts, whose dates range between 454 and 464 A. D[^22]. Śārṅgin must have been Vāsudeva-Kṛṣṇa,Skanda- gupta himself being a Bhāgavata.
 
- A temple of Viṣṇu was erected in 456 A. D. by Cakrapālita, son of Parṇadatta, appointed viceroy of Surāṣṭra or Kathiavad by Skandagupta. The Inscription, which records this, opens with an invocation of Viṣṇu in the Vāmana or the dwarf [incarnation](# "Ibid. p. 56ff.").
+[^21]: "Corp. Inser. Ind. Vol. III, p. 21."
+
+[^22]: "Ibid. p. 52.ff."
+
+ A temple of Viṣṇu was erected in 456 A. D. by Cakrapālita, son of Parṇadatta, appointed viceroy of Surāṣṭra or Kathiavad by Skandagupta. The Inscription, which records this, opens with an invocation of Viṣṇu in the Vāmana or the dwarf incarnation[^23].
+
+[^23]: "Ibid. p. 56ff."
 
  In an Inscription at Eran in the Sagar district, C. P., belonging to the reign of Budhagupta and bearing the date 165 G. E., corresponding to 483 A. D., Mātrviṣṇu and his younger brother Dhanyaviṣṇuare represented to have erected & Dhvajastambha or flag-
 
-staff in honour of the god Janārdana. Mātṛviṣṇu is called a great devotee of Bhāgavat (Atyanta-Bhagavad-[bhakta](# "Ibid. p. 88 ff.")). The god Janārdana must therefore be Vāsudeva-Krṣṇa.
+staff in honour of the god Janārdana. Mātṛviṣṇu is called a great devotee of Bhāgavat (Atyanta-Bhagavad-bhakta[^24]). The god Janārdana must therefore be Vāsudeva-Krṣṇa.
 
- A copper-plate Inscription of A. D. 495, found near the village. of Khoh in Baghelkhand, records the grant of a village, by a chief named Jayanātha, to Bhagavat for repairs to the temple of that god and for the performance of ordinary [ceremonies](# "Ibid. p. 121 ff.").
+[^24]: "Ibid. p. 88 ff."
 
- An Inscription on an iron pillar near Kutub Minar at Delhi speaks of that pillar as a flag-staff to Viṣṇu erected by a great king named Candra, who enjoyed universal sovereignty and was a great devotee of Viṣṇu. The Inscription is not dated, but if the Candra referred to here was Candragupta II, it belongs to the latter part of the fourth century or the beginning of the [fifth](# "Ibid. p. 339 ff.").
+ A copper-plate Inscription of A. D. 495, found near the village. of Khoh in Baghelkhand, records the grant of a village, by a chief named Jayanātha, to Bhagavat for repairs to the temple of that god and for the performance of ordinary ceremonies[^25].
+
+[^25]: "Ibid. p. 121 ff."
+
+ An Inscription on an iron pillar near Kutub Minar at Delhi speaks of that pillar as a flag-staff to Viṣṇu erected by a great king named Candra, who enjoyed universal sovereignty and was a great devotee of Viṣṇu. The Inscription is not dated, but if the Candra referred to here was Candragupta II, it belongs to the latter part of the fourth century or the beginning of the fifth[^26].
+
+[^26]: "Ibid. p. 339 ff."
 
  In his Meghadūta (v. 15) Kalidāsa compares the cloud adorned with a piece of a rain-bow, with Viṣṇu in the shape of the cow-herd. adorned with a shining peacock feather. Here there is an identification of Gopāla-Krṣṇa with Viṣṇu; and, if the Vikramāditya who was the patron of Kalidāsa was Candragupta II of the Gupta Dynasty, this must be considered to be a record belonging to the early part of the fifth century.
 
  We have already alluded to the sculptures on a pillar excavated at Mandor near Jodhpur. These sculptures represent the overturning of a cart by the baby Krṣṇa, the holding of the Govardhana Mountain by Krṣṇa on the palm of his hand, and such other events. I refer them tentatively to the fifth century.
 
- In Śaka 500, Maṅgalīśa, a prince belonging to the early Cālukya dynasty of the Deccan, got a cave scooped out, in which a temple to Viṣṇu was constructed, and an image of Viṣṇu was installed in it. The provision for the performance of Nārāyaṇabali (offerings to Nārāyaṇa) was made by assigning the revenues of a village for the [purpose](# "Ind. Ant. Vol. III. p. 305; Vol. VI. p. 363,"). In this cave-temple there are figures. of Viṣṇu and Nārāyaṇa lying on the body of a serpent, with Lakşmīrubbing his feet, and of the Boar and Narasiṁha incarna
+ In Śaka 500, Maṅgalīśa, a prince belonging to the early Cālukya dynasty of the Deccan, got a cave scooped out, in which a temple to Viṣṇu was constructed, and an image of Viṣṇu was installed in it. The provision for the performance of Nārāyaṇabali (offerings to Nārāyaṇa) was made by assigning the revenues of a village for the purpose[^27]. In this cave-temple there are figures. of Viṣṇu and Nārāyaṇa lying on the body of a serpent, with Lakşmīrubbing his feet, and of the Boar and Narasiṁha incarna
 
-tions, and of Harihara in which the peculiar marks of Hari, or Viṣṇu, and of Hara, or Śiva, are [combined](# "Fergusson and Burgess, Cave Temples, p. 407.").
+[^27]: "Ind. Ant. Vol. III. p. 305; Vol. VI. p. 363,"
 
- In mentioning the priests who are qualified to install and conseorate the images of certain gods, Varāhamihira says that this function in the case of Viṣṇu should be assigned to [Bhāgavatas](# "Br. S. 60. 19."). Bhāgavatas were thus recognised in his time as the peculiar worshippers of Viṣṇu. Varāhamihira died in Śaka, i. e. 587 [A.D.](# "Bhau Daji. Lit. Remains, p. 240.")
+tions, and of Harihara in which the peculiar marks of Hari, or Viṣṇu, and of Hara, or Śiva, are combined[^28].
+
+[^28]: "Fergusson and Burgess, Cave Temples, p. 407."
+
+ In mentioning the priests who are qualified to install and conseorate the images of certain gods, Varāhamihira says that this function in the case of Viṣṇu should be assigned to Bhāgavatas[^29]. Bhāgavatas were thus recognised in his time as the peculiar worshippers of Viṣṇu. Varāhamihira died in Śaka, i. e. 587 A.D.[^30]
+
+[^29]: "Br. S. 60. 19."
 
  Amarasiṁha, the author of the well-known Kośa or thesaurus, was a Buddhist. After giving the words expressive of gods. generally, when he comes to the names of particular gods, he begins by giving those of Buddha and proceeds next to give the names Viṣṇu, Nārāyaṇa etc., of which we have thirty-nine. After finishing these he says that Vāsudeva was his father. This means that the thirty-nine names proviously given are the names of Vāsudeva. If we examine these, we shall find that hefore Amare's time Vāsudeva had already been identified with Viṣṇu and NārāyaṇaExcept the name Dāmodara, there is no other con- necting Vāsudeva with Gokula, and the etymology of Dāmodara which connects him with that cow-settlement is doubtful. While Kaṁsārāti, or the enemy of Kaṁsa, does occur, we have no such name as Pūtanāri, the enemy of Pūtanā, or any other derived. from the names of the many demons he slew while he was a boy. There are also no names of incarnations except the doubtful one, Balidhvaṁsin, which however, has been interpreted by one. commentator as the destroyer of ignorance by means of Bali or oblations. There are, of course, several names derived from those. of other demons, such as Madhuripu and Kaitabhajit, but these are not the enemies destroyed by Viṣṇu in his incarnations as they are usually mentioned. After giving the name of the father of Vāsudeva-Kṛṣṇa, Amara proceeds to mention those of Saṁkarsana, or Baladeva, and afterwards of Pradyumna and Aniruddha. Thereafter he mentions those of Lakṣmi, the wife of Nārāyaṇa or Viṣṇu, then those of the weapons of the god and his ornaments, and ends with the names of Garuḍa, the vehicle of Viṣṇu After
+
+[^30]: "Bhau Daji. Lit. Remains, p. 240."
 
 finishing these he proceeds to the other great god of the Hindus, Śambhu or Śiva.
 
@@ -785,7 +845,9 @@ finishing these he proceeds to the other great god of the Hindus, Śambhu or Śi
 
  In the Daśāvatāra temple at Ellora there is a figure of Viṣṇu on the body of a serpent with Lakṣmi rubbing his feet and Brahmāseated on a lotus coming out of his navel. There are also images of the Narasiṁha, Vāmana and Varāha incarnations, as well as of Kṛṣṇa holding the Govardhana Mountain over the flocks of the cow-settlement. This temple was constructed about the middle of the eighth century in the time of Dantidurga of the Rāṣṭrakūṭa race. There are similar figures of Avatāras in the Kailāsa temple. scooped out in the latter part of the eighth century, in the time of Kṛṣṇa I, uncle of Dantidurga. Among these is also the scene of the destruction of Kāliya by Kṛṣṇa.
 
- There is an Inscription in a cave at Pabhosa, about 32 miles south-west of Allahabad, which probably had a human figure. above and runs thus: "The maker of the images of Sri-Kṛṣṇa andthe milk-maids". The date is uncertain, but the Inscription is referred to the seventh or eighth century by [Bühler](# "Ep. Ind., Vol. II. p., 182.").
+ There is an Inscription in a cave at Pabhosa, about 32 miles south-west of Allahabad, which probably had a human figure. above and runs thus: "The maker of the images of Sri-Kṛṣṇa andthe milk-maids". The date is uncertain, but the Inscription is referred to the seventh or eighth century by Bühler[^31].
+
+[^31]: "Ep. Ind., Vol. II. p., 182."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -797,7 +859,9 @@ finishing these he proceeds to the other great god of the Hindus, Śambhu or Śi
 
  At Osia, 32 miles north of Jodhpur, there is an old temple adjoining to the house of the local Jahagirdar. On two pilasters. projecting from the shrine into the Sabhāmaṇḍapa, are two images of deities both seated on Garuḍa. Both have four hands, but one. of them holds a conch-shell, the discus, the mace and the lotus, and the other bears a plough-share and a mace in his two hands, the other two being empty. The last has his head canopied by a five-hooded serpent. They are apparently Vāsudeva and Saṁkarṣaṇa. The temple cannot be later than the ninth century³.
 
- In a work called Dharmaparīkṣā, Amitagati, the author, who was a Digambara Jaina, says that there were according to the legendary lore current among the Jainas sixty-three eminent men: the twelve supreme sovereigns, the twenty-four Arhats (Jinas), and nine Rāmas, nine Keśavas, and the nine enemies of these mine. The last of the Viṣṇus ( Keśavas) was the son of Vāsudeva, and his Brāhmaṇa devotees call him the pure, the supreme being. They say: "He who meditates upon the god Viṣṇu, who is allpervading, a whole without parts, indestructible and unchangeable, who frees a man from old age and death, is free from misery".He is traditionally known to have ton forms or incarnations. These ten forms are the same as mentioned in the Varāha and [AgniPurāṇas](# "See above [p. 59 N. B. U. ]") and which are now generally accepted. Thus Buddha had come to be recognised as an incarnation of Viṣṇu before
+ In a work called Dharmaparīkṣā, Amitagati, the author, who was a Digambara Jaina, says that there were according to the legendary lore current among the Jainas sixty-three eminent men: the twelve supreme sovereigns, the twenty-four Arhats (Jinas), and nine Rāmas, nine Keśavas, and the nine enemies of these mine. The last of the Viṣṇus ( Keśavas) was the son of Vāsudeva, and his Brāhmaṇa devotees call him the pure, the supreme being. They say: "He who meditates upon the god Viṣṇu, who is allpervading, a whole without parts, indestructible and unchangeable, who frees a man from old age and death, is free from misery".He is traditionally known to have ton forms or incarnations. These ten forms are the same as mentioned in the Varāha and AgniPurāṇas[^32] and which are now generally accepted. Thus Buddha had come to be recognised as an incarnation of Viṣṇu before
+
+[^32]: "See above [p. 59 N. B. U. ]"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -819,7 +883,13 @@ XIII\. The Cult of Rāma.
 
 \[R. G. Bhandarker's Works, Vol. IV.\]
 
- Amitagati also speaks in 1014 A. D., as we have [seen](# "Ante, p. 64 [N. B. U. ]"), of Rāma's being regarded as the all-knowing, all-pervading protector of the world. The Vāyu-Purāṇa, which is the earliest work of that class, must have been written about the fifth century; so that the belief in Rāma's being an incarnation of Viṣṇu existed. in all probability in the early centuries of the Christian Era. But there is no mention of his name in such a work as that of Patañjali, nor is there any old Inscription in which it occurs. Amarasiṁha, too, has no place for him in his scheme of Brāhmaṇic gods. These circumstances, as well as those mentioned above, show that, though he was regarded as an Avatāra, there was no cult in his honour. Still, as depicted by Vālmīki, Rāma was a high-souled hero, and poets, including those nameless ones. who wrote Purāṇas in the names of old Ṛṣi, particularly Bhavabhūti, still more highly exalted his character. Rāma, therefore, won a place in the heart of the Indian people, and that must have. soon led to the foundation of the cult. But when this took place it is difficult to say. Madhva or Ānandatīrtha, the founder of a sect to be noticed hereafter, is represented to have brought the image of Digvijaya Rāma from Badarikāśrama and sent Naraharitīrtha to Jagannātha about the year 1264 [A. D](# "See below.")., to bring what was called the original idols of Rāma and Sits. The cult of Rāma, therefore, must have come into existence about the eleventh century. There exist manuals giving the modes of worship by means of Mantras or formulae and magic circles, like those proscribed in the Sātvata-Saṁhitāfor the worship of Vāsudeva. The ceremony in connection with his birth on the 9th of the bright half of Caitra is given in his [Vratakhaṇḍa](# "P.941 (Bibl. Ind.).")by Hemādri, who flourished in the thirteenth century. That writer, as well as Vṛddhā-Hārita⁴, gives the modes of worshipping him as an incarnation along with others on certain occasions, so that it appears that his worship as an incarnation has been of a longer duration than that based on terms of equality with Vāsudeva-Kṛṣṇa.
+ Amitagati also speaks in 1014 A. D., as we have seen[^33], of Rāma's being regarded as the all-knowing, all-pervading protector of the world. The Vāyu-Purāṇa, which is the earliest work of that class, must have been written about the fifth century; so that the belief in Rāma's being an incarnation of Viṣṇu existed. in all probability in the early centuries of the Christian Era. But there is no mention of his name in such a work as that of Patañjali, nor is there any old Inscription in which it occurs. Amarasiṁha, too, has no place for him in his scheme of Brāhmaṇic gods. These circumstances, as well as those mentioned above, show that, though he was regarded as an Avatāra, there was no cult in his honour. Still, as depicted by Vālmīki, Rāma was a high-souled hero, and poets, including those nameless ones. who wrote Purāṇas in the names of old Ṛṣi, particularly Bhavabhūti, still more highly exalted his character. Rāma, therefore, won a place in the heart of the Indian people, and that must have. soon led to the foundation of the cult. But when this took place it is difficult to say. Madhva or Ānandatīrtha, the founder of a sect to be noticed hereafter, is represented to have brought the image of Digvijaya Rāma from Badarikāśrama and sent Naraharitīrtha to Jagannātha about the year 1264 A. D[^34]., to bring what was called the original idols of Rāma and Sits. The cult of Rāma, therefore, must have come into existence about the eleventh century. There exist manuals giving the modes of worship by means of Mantras or formulae and magic circles, like those proscribed in the Sātvata-Saṁhitāfor the worship of Vāsudeva. The ceremony in connection with his birth on the 9th of the bright half of Caitra is given in his Vratakhaṇḍa[^35].")by Hemādri, who flourished in the thirteenth century. That writer, as well as Vṛddhā-Hārita⁴, gives the modes of worshipping him as an incarnation along with others on certain occasions, so that it appears that his worship as an incarnation has been of a longer duration than that based on terms of equality with Vāsudeva-Kṛṣṇa.
+
+[^33]: "Ante, p. 64 [N. B. U. ]"
+
+[^34]: "See below."
+
+[^35]: "P.941 (Bibl. Ind.
 
  Twenty-four images, differing from each other in the order in which the four objects, viz., the conch-shell, disous, mace
 
@@ -829,7 +899,9 @@ XIII\. The Cult of Rāma.
 
 and lotus, are placed in the four hands of the principal god Vāsudeva or Viṣṇu, are mentioned by both those authors, and the twenty-four names¹ corresponding to the twenty-four images. Keśava, Nārāyaṇa, Govinda, etc., which include those of the four Vyūhas, are repeated by us at the beginning of every ceremony that we perform at the present day; that is, obeisance is made to the twenty-four forms of the god by using the word Namaḥ (salutations) after the dative of each of the names, and the sense is 'Saluations to Keśava, Nārāyaṇa, etc,'. The name of Rāma, however, is not included in them, while two other Avatāras, Narasiṁha and Vāmana, are mentioned. Every Śrāddha ceremony is wound up by the expression May Janārdana-Vāsudeva, who is a form of the ancestors, or the father, grandfather and great grandfather, be satisfied by this act". All this shows that Vāsudevism has penetrated into every one of our ordinary ceremonies, which include a repetition even of Vedic Mantras, while this is not at all the case. with the cult of Rāma, which is, therefore of a modern growth.
 
- There is a work, entitled the Adhyātma-Rāmāyaṇa, which [Ekanātha](# "See his Bhāvārtha-Rāmāyaṇa,Āraṇyakāṇḍa."), a Mahārāṣṭra saint, who flourished in the sixteenth century, calls a modern treatise, composed of excerpts from older writings and having no pretence to be considered as emanating from the old Ṛṣis. The object of this work throughout has. been to set forth the divinity of Rāma. The first book of it com- prises what is called Rāmahṛdaya, which which was narrated to Hanūmat by Sītā, who says that as the original Prakṛti, she does every thing and did all the deeds mentioned in the Rāmayaṇa, while Rāma as the only existing soul is inactive, unchangeable and blessed, and is a mere witness of her deeds. After she has concluded, Rāma explains the threefold nature of the knowing spirit, viz., (1) the original, (2) that conditioned by Buddhi or
+ There is a work, entitled the Adhyātma-Rāmāyaṇa, which Ekanātha[^36], a Mahārāṣṭra saint, who flourished in the sixteenth century, calls a modern treatise, composed of excerpts from older writings and having no pretence to be considered as emanating from the old Ṛṣis. The object of this work throughout has. been to set forth the divinity of Rāma. The first book of it com- prises what is called Rāmahṛdaya, which which was narrated to Hanūmat by Sītā, who says that as the original Prakṛti, she does every thing and did all the deeds mentioned in the Rāmayaṇa, while Rāma as the only existing soul is inactive, unchangeable and blessed, and is a mere witness of her deeds. After she has concluded, Rāma explains the threefold nature of the knowing spirit, viz., (1) the original, (2) that conditioned by Buddhi or
+
+[^36]: "See his Bhāvārtha-Rāmāyaṇa,Āraṇyakāṇḍa."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -843,7 +915,9 @@ XIV\. Vāsudevism or Vaiṣṇavism in the South,
 
 two centuries before Ānandatīrtha to account for the reputation of the sacred character which it acquired in his time. It cannot be very much older, for its style often looks modern and in copying from the older Purāṇas it falls into mistakes, such as the one pointed out by me in another place¹. The Draviḍa devotees, therefore, noticed in the Bhāgavata, must have mostly flourished before the eleventh century.
 
- These devotees, who are known by the name of Ālvārs, are generally reckoned as twelve in number and are divided into three classes by S. Krishnaswami [Aiyengar](# "Ind. Ant. Vol, XXXV, p. 228.") in accordance with the received chronology which he follows to determine. their sequence, though in itself it assigns a preposterously high antiquity to them. Their names, Tamil and Sanskrit, are as follows:—
+ These devotees, who are known by the name of Ālvārs, are generally reckoned as twelve in number and are divided into three classes by S. Krishnaswami Aiyengar[^37] in accordance with the received chronology which he follows to determine. their sequence, though in itself it assigns a preposterously high antiquity to them. Their names, Tamil and Sanskrit, are as follows:—
+
+[^37]: "Ind. Ant. Vol, XXXV, p. 228."
 
 |         |                      |                            |
 |---------|----------------------|----------------------------|
@@ -861,13 +935,19 @@ two centuries before Ānandatīrtha to account for the reputation of the sacred 
 |        | TiruppāṇĀlvārr      | Yogivāhana                 |
 |        | Tirumangai Ālvār    | Parakāla                   |
 
- The date of the first, ordinarily given, is B. C. 4203 and of the last, B. C. 2706, and the others range between these two. Not only are these dates fanciful, but even the sequence shown above is unreliable. Krishnaswami places the last in the earlier half of the eighth century A. D., and all the preceding ones impliedly before that date. But there is distinct evidence to show that Kulaśekhara flourished much later. He was a king of Travancore, and one ofthe works composed by him styled Mukundamāla contains a verse from the Bhāgavata-Purāṇa [(XI. 2. 36)](# "Kāyena vācāmanasendriyair vā, etc.").
+ The date of the first, ordinarily given, is B. C. 4203 and of the last, B. C. 2706, and the others range between these two. Not only are these dates fanciful, but even the sequence shown above is unreliable. Krishnaswami places the last in the earlier half of the eighth century A. D., and all the preceding ones impliedly before that date. But there is distinct evidence to show that Kulaśekhara flourished much later. He was a king of Travancore, and one ofthe works composed by him styled Mukundamāla contains a verse from the Bhāgavata-Purāṇa (XI. 2. 36)[^38].
+
+[^38]: "Kāyena vācāmanasendriyair vā, etc."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.Early History of the Deccan (Second Edition), pp. 32-33. \[=Vol. III, p. 46 of this Edition-N. B. U.\]
 
- Again in an Inscription on a tablet, existing in a temple at Narēgal in the Dharwar district, translated by Dr. [Fleet](# "JBBRAS, Vol. XI. p. 244."), it is stated that Permāḍi of the Sinda dynasty vanquished Kulaśekharāṅka, besieged Chaṭṭa, pursued Jayakśin, and seized upon the royal power of Poysala and invested Dhorasamudra, the capital of the Poysala dynasty. In another [Inscription](# "Ibid. p. $51,")this Permāḍi is represented to be a vassal of Jagadekamalla II, whose dates range between A. D. 1138 and 1150. While the former was in power as Mahāmaṇḍaleśvara in the seventh year of Jagadekamalla, i. e., in A. D. 1144, a certain grant was made by a body of sellers of betel. leaves and nuts. The Kulaśekharāṅka, mentioned as being. vanquished by this Permāḍi, must be a prince reigning on the western coast, as the others, Jayakeśin, the Kadamba prince of Goa, the Hoysala king, and so forth, were. Putting this statement and the quotation from the Bhāgavata-Purāṇa together, it appears. highly probable that the Ālvār Kulaśekhara lived in the first half of the twelfth century. The sequence, therefore, given above cannot be implicitly believed in.
+ Again in an Inscription on a tablet, existing in a temple at Narēgal in the Dharwar district, translated by Dr. Fleet[^39], it is stated that Permāḍi of the Sinda dynasty vanquished Kulaśekharāṅka, besieged Chaṭṭa, pursued Jayakśin, and seized upon the royal power of Poysala and invested Dhorasamudra, the capital of the Poysala dynasty. In another Inscription[^40]this Permāḍi is represented to be a vassal of Jagadekamalla II, whose dates range between A. D. 1138 and 1150. While the former was in power as Mahāmaṇḍaleśvara in the seventh year of Jagadekamalla, i. e., in A. D. 1144, a certain grant was made by a body of sellers of betel. leaves and nuts. The Kulaśekharāṅka, mentioned as being. vanquished by this Permāḍi, must be a prince reigning on the western coast, as the others, Jayakeśin, the Kadamba prince of Goa, the Hoysala king, and so forth, were. Putting this statement and the quotation from the Bhāgavata-Purāṇa together, it appears. highly probable that the Ālvār Kulaśekhara lived in the first half of the twelfth century. The sequence, therefore, given above cannot be implicitly believed in.
+
+[^39]: "JBBRAS, Vol. XI. p. 244."
+
+[^40]: "Ibid. p. $51,"
 
  Still it may be admitted that the earliest Ālvārs flourished about the time of the revival of Brāhamaṇism and Hinduism in the North, which extended up to the Maratha country, as wel have shown from Inscriptions and antiquarian remains, and must have extended still farther to the South. The earliest Ālvārs may be placed before about the fifth or sixth century, but there is nothing to show that Vaiṣṇavism had not penetrated to the Tamil country earlier, i. e., about the first century. But an impetus, such as the rise of the Ālvārs indicates, could in all probability come. only from the energy of the revival. The hostile relations into which the Ālvārs and the Śaiva saints, Nāyanmārs, came with the Buddhists and Jainas, lend support to the view we have. advocated.
 
@@ -885,7 +965,9 @@ XV\. Rāmānuja.
 
  § 46. Rāmānuja was born in Śaka 938 corresponding to 1016. or 1017 A. D. In his youth he lived at Kāñcīpura or Conjeevaram and was a pupil of Yādavaprakāśa, who was an Advaita philosopher and therefore professed spiritual monism. Rāmānuja whose inclinations were towards Vaiṣṇavism, was dissatisfied with the teachings of his master, and the ultimate result was his seperation from him. He applied himself to the study of the Prabandhas of the Ālvārs and drank in their spirit. When he became a successor of Yāmunācārya, he lived at Śrīraṅgam, near Trichinopoly, and did his life's work there. He is said to have gone on a pilgrimage to the noted holy places of Upper India. In the latter. years of his age he was subjected to persecution by the Cols Fprince of his time, who wanted him to renounce Vaiṣṇavism for Śaivism, in consequence of which he took refuge in 1096 A. D. in the dominions of the Hoysala Yādava princes, who reigned in Mysore and whose capital was Dvarasamudra, the modern Halebid. There he converted Vitthala Deva, popularly called Biṭṭi Deva, Biṭṭi being, in all likelihood, the corruption of Viṭṭhala or Viṭṭhi. This took place in 1098 A. D. Viṭṭhala Deva was not the reigning prince, but administered some of the frontier provinces in the name of his brother Ballāla, who was on the
 
-throne¹. Viṭṭhala Deva or Biṭṭi Deva was called Viṣṇuvardhana after his conversion to Vaiṣṇavism. This is the ordinary account. But what appeurs true is that his name was originally Viṣṇu, which was corrupted into Biṭṭu or Biṭṭi in the Kanarese, the vernacular of the district, so that his original name Biṭṭi Deva is the same as Viṣṇu Deva which he is represented to have assumed after his conversion. He reigned from 1104 to 1141 [A. D](# "Imperial Gazetteer, Vol. XVIII, p. 173,"). Rāmānuja composed the following works: Vedāntasāra,—Vedārthasaṁgraha, Vedāntadīpa, and commentaries, or Bhāṣyas, on the Brahṁasūtras and the Bhagavadgītā³.
+throne¹. Viṭṭhala Deva or Biṭṭi Deva was called Viṣṇuvardhana after his conversion to Vaiṣṇavism. This is the ordinary account. But what appeurs true is that his name was originally Viṣṇu, which was corrupted into Biṭṭu or Biṭṭi in the Kanarese, the vernacular of the district, so that his original name Biṭṭi Deva is the same as Viṣṇu Deva which he is represented to have assumed after his conversion. He reigned from 1104 to 1141 A. D[^41]. Rāmānuja composed the following works: Vedāntasāra,—Vedārthasaṁgraha, Vedāntadīpa, and commentaries, or Bhāṣyas, on the Brahṁasūtras and the Bhagavadgītā³.
+
+[^41]: "Imperial Gazetteer, Vol. XVIII, p. 173,"
 
  § 47.The Vedāntic theory, or the theory based upon the Brahmasūtras and the Upaniṣads, which Rāmānuja set up to provide scope for the feeling of Bhakti, or love for God and the spirit of worship, was that there are three eternal principles, the individual or animal soul (Cit), the insensate world (Acit), and the Supreme Soul (Īśvara).
 
@@ -919,11 +1001,17 @@ throne¹. Viṭṭhala Deva or Biṭṭi Deva was called Viṣṇuvardhana after
 
  IV. Antaryāmin, in which mode he dwells in the heart and is to be seen by Yogins and accompanies the individual souls even when they go to heaven or hell.
 
- V. Idols or images set up in houses, villages, towns, etc., made up of a material chosen by the worshipper, in which he dwells. with a body not made up of [matter](# "Yatīndramatadīpikā, 9.").
+ V. Idols or images set up in houses, villages, towns, etc., made up of a material chosen by the worshipper, in which he dwells. with a body not made up of matter[^42].
+
+[^42]: "Yatīndramatadīpikā, 9."
 
  Other authorities leave out Vāsudeva from the Vyūhas and have the other three only. The Arthapañcaka has another form. of the Antaryāmin, in which form he dwells in everything and rules over all, is bodiless, all-pervading and store of all good attributes, and is called Viṣṇu, Nārāyaṇa, Vāsudeva³, etc.
 
- Self-consciousness, knowledge, union as a soul with a body, agency, are attributes common to the supreme and individual [souls](# "yat.8"). The latter is self-illumined, joyous, eternal, atomic, imperceptible to the senses, unthinkable, devoid of parts, unchangeable, the substratum of knowledge, subject to God's control, depending on God's existence for his own existence and an attribute of [God](# "Tattvatraya"). This description of the individual soul differs agreat deal from that of SŚaṁkarācārya, who attributes no agency or substantiality to it; and the dependence on God in a variety of ways cannot, of course, be thought of under the doctrine of spiritual monism. The soul's being an atom is also denied by Śamkara's school and various others. The souls are many and are divided into:—
+ Self-consciousness, knowledge, union as a soul with a body, agency, are attributes common to the supreme and individual souls[^43]. The latter is self-illumined, joyous, eternal, atomic, imperceptible to the senses, unthinkable, devoid of parts, unchangeable, the substratum of knowledge, subject to God's control, depending on God's existence for his own existence and an attribute of God[^44]. This description of the individual soul differs agreat deal from that of SŚaṁkarācārya, who attributes no agency or substantiality to it; and the dependence on God in a variety of ways cannot, of course, be thought of under the doctrine of spiritual monism. The soul's being an atom is also denied by Śamkara's school and various others. The souls are many and are divided into:—
+
+[^43]: "yat.8"
+
+[^44]: "Tattvatraya"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -939,7 +1027,9 @@ throne¹. Viṭṭhala Deva or Biṭṭi Deva was called Viṣṇuvardhana after
 
  Of the first class, those that are rational, that is, not brutes or vegetables, are of two sorts: (1) desirous of enjoyment; (2) desirous of final deliverance. Of those that are desirous of enjoyment, some devote themselves to the acquisition of wealth and the satisfaction of carnal desires, and others, who seek to attain the happiness of heaven, perform all rites and sacrifices, make pilgrimages to holy places and give in charity. Some of these devote themselves to Bhagavat and others to other deities.
 
- Some of those who desire final deliverance seek the consciousness of their pure soul only (Kevalin), and others eternal bliss. Of these latter, some are Bhaktas, who seek to attain God by resorting to Bhakti with all its details, having first of all studied the Vedas and acquainted themselves with the Vedānta and the philosophy of rites (Karman). The three upper orders alone can practise Bhakti, but not the Sūdras. Others are Prapannas, who are those who take refuge in God, feeling themselves poor and helpless. Of Prapannas, some seek the first three objects of life, while the rest, finding no happiness in these, renouncing everything worldly, desire eternal bliss ( Mokṣa) alone, and, seeking the advice of a preceptor and acquiring from him the impulse to action, fling themselves on the will of God, not having the power of going through the Bhakti process and being helpless. This Prapatti or surrender to God can be practised by all orders, including [Śūdras](# "Yat.8.").
+ Some of those who desire final deliverance seek the consciousness of their pure soul only (Kevalin), and others eternal bliss. Of these latter, some are Bhaktas, who seek to attain God by resorting to Bhakti with all its details, having first of all studied the Vedas and acquainted themselves with the Vedānta and the philosophy of rites (Karman). The three upper orders alone can practise Bhakti, but not the Sūdras. Others are Prapannas, who are those who take refuge in God, feeling themselves poor and helpless. Of Prapannas, some seek the first three objects of life, while the rest, finding no happiness in these, renouncing everything worldly, desire eternal bliss ( Mokṣa) alone, and, seeking the advice of a preceptor and acquiring from him the impulse to action, fling themselves on the will of God, not having the power of going through the Bhakti process and being helpless. This Prapatti or surrender to God can be practised by all orders, including Śūdras[^45].
+
+[^45]: "Yat.8."
 
  What are necessary for the efficacy of the method of Bhakti, 
 
@@ -949,7 +1039,9 @@ are Karmayoga or the performance of actions, and Jñānayoga or the acquisition 
 
  Bhaktiyoga, or the method of Bhakti, consists in continuous meditation accompanied by the practice of the eight Yoga processes, Yama, Niyama, etc. This is to be attained. by (1) the purification of the body by the use of unpolluted and unprohibited food, (2) chastity, (3) constant practice, (4) the performance of five great rites and ceremonies according to one's means, (5) virtues such as truth, uprightness, compassion, obarity, non-destruction of life, (6) hopefulness or absence of despondency, and (7) absence of elatedness. Bhakti, as promoted by these seven means, assumes the form of actually seeing (God) and produces the final mental perception.
 
- Prapatti consists in the resolution to yield, the avoidance of opposition¹, a faith that God will protect, acceptance of him as saviour or praying him to save and sense of helplessness resulting in throwing one's whole soul on him². Prapatti thus comes to [selfsurrender](# "Yat. 7.").
+ Prapatti consists in the resolution to yield, the avoidance of opposition¹, a faith that God will protect, acceptance of him as saviour or praying him to save and sense of helplessness resulting in throwing one's whole soul on him². Prapatti thus comes to selfsurrender[^46].
+
+[^46]: "Yat. 7."
 
  The Arthspañcaka mentions a fifth way called Acāryābhimanāyoga, which is for one who is unable to follow any of the others, and consists in surrendering oneself to an Ācārya or preceptor and being guided by him in everything. The preceptor goesthrough all that is necessary to effect his pupil's deliverance as a mother takes medicine herself to cure an infant.
 
@@ -959,7 +1051,9 @@ are Karmayoga or the performance of actions, and Jñānayoga or the acquisition 
 
 2.There is another ronding hare which should be translated as"throwing one-self upon him and a feeling of helplessness." Thus there are six constituents of Prapatti. These are;(1)Ānukūlyasya saṁkalpaḥ (2) prātikūlyasya varjanam, (3) rakṣiṣyantīti viśvāso (4) gōptṛvavaraṇaṁ tathā, (5)ātmanikṣepa - (6) karpaṇneṣaḍvidhāśaraṇāgatiḥ.
 
- Sixteen modes of worship are to be practised by the devotees of Viṣṇu, as stated in a passage quoted from the Padma-Purāṇa by a recent writer of the Rāmānuja school. Eight of these are the same. as those included in the nine modes of Bhakti enumerated in al previous [Section](# "Ante, p. 57. [N. B. U.]")as mentioned in the Bhāgavata-Purāṇa, Sakhya, or friendship or companionship, boing omitted. The other eight are : (1) imprinting the marks of the conch-shell and the discus. and other weapons of Hari on the body; (2) the making of a vertical mark on the forehead; (3) repeating of Mantras on the occasion; (4) drinking the water used in washing the feet of Hari; (5) the eating of the offerings of cooked food made to him; (6) doing service to his devotees: (7) the observance of fast on the 11th of the bright and dark halves of each lunar month; (8) laying Tulasi leaves on the idol of Hari.
+ Sixteen modes of worship are to be practised by the devotees of Viṣṇu, as stated in a passage quoted from the Padma-Purāṇa by a recent writer of the Rāmānuja school. Eight of these are the same. as those included in the nine modes of Bhakti enumerated in al previous Section[^47]as mentioned in the Bhāgavata-Purāṇa, Sakhya, or friendship or companionship, boing omitted. The other eight are : (1) imprinting the marks of the conch-shell and the discus. and other weapons of Hari on the body; (2) the making of a vertical mark on the forehead; (3) repeating of Mantras on the occasion; (4) drinking the water used in washing the feet of Hari; (5) the eating of the offerings of cooked food made to him; (6) doing service to his devotees: (7) the observance of fast on the 11th of the bright and dark halves of each lunar month; (8) laying Tulasi leaves on the idol of Hari.
+
+[^47]: "Ante, p. 57. [N. B. U.]"
 
  A text from the Hārītasmṛti is also quoted giving nine modes of worship (Bhakti), three of which are common to it with the Bhāgavata-Purāṇa. The other six are the same as the eight in the above, the first two being combined and the third being omitted. The vertical mark on the forehead mentioned above consists of two lines made with white earth and a connecting cross line at the bottom, with, in the middle, a yellow line made with turmeric powder or a red line composed of the same material reddened by mixing it with lime.
 
@@ -971,7 +1065,9 @@ are Karmayoga or the performance of actions, and Jñānayoga or the acquisition 
 
  In keeping with this distinction is the idea of Prapatti or self-surrender held by the two Sects. The first maintains that Prapatti is one of the ways resorted to by the devotee and begins with him. The southern School holds that it is not one of the ways, but it is. a frame of mind which characterises all those who seek absolution, and reject all other ways in favour of this. Those who resort to other ways have not arrived at the right mood which leads to God. When a soul is in this frame of mind, God himself takes. entire possession of him, while by the other ways, man, as it were, makes approaches towards him. The Vaḍakalai lays down that Prapatti is for those who cannot follow other ways, such as Karmayoga, Jñānayoga and Bhaktiyoga, while the Tenkalai holds that it is necessary for all, whether able or not, to follow the other ways. The first School says that one should give himself up to God when one finds other ways, which have been resorted to, to be fruitless. The second holds that self-abandonment to God. should precede the trial of other ways Self-assertiveness is the characteristic of the first, but it is forbidden by the second and self- abandonment is enjoined. The northerners say that the six ways of Prapatti or self-surrender given above are preliminaries to the Prapatti which results from them. The southerners say that Prapatti must take place first and then the six follow as results.
 
- The nothern School teaches that a person belonging to an inferior caste should be treated well only so far as conversation by words is concerned. The southerners say that they should be. admitted to an equal treatment in all respects and no distinction be made. The syllable Om should be omitted from the eight- syllabled Mantra, according to the Vaḍakalai, when taught to others than Brāhmaṇas; the Tenkalai does not make this distinction and provides for the teaching of the whole Mantra in the same form to [all](# "This Mantra is ").
+ The nothern School teaches that a person belonging to an inferior caste should be treated well only so far as conversation by words is concerned. The southerners say that they should be. admitted to an equal treatment in all respects and no distinction be made. The syllable Om should be omitted from the eight- syllabled Mantra, according to the Vaḍakalai, when taught to others than Brāhmaṇas; the Tenkalai does not make this distinction and provides for the teaching of the whole Mantra in the same form to all[^48].
+
+[^48]: "This Mantra is "
 
  § 49. It will be seen from the short summery here given that Rāmānuja derives his metaphysical doctrines from texts in the Upaniṣads and from the Brahmasūtras, while his theory of the external world is that adopted by the Purāṇas and based on the twenty-four elements of the Sāṁkhya system. His Vaiṣṇavism is the Vāsudevism of the old Pāñcarātra system combined with the Nārāyaṇa and Viṣṇu elements. The last name does not occur. often in the literature of his school. The most prominent name is NNārāyaṇa, though Vāsudeva takes his proper place when the Supreme Soul and the Vyūhas are spoken of. The name of Gopālakṛṣṇa is conspicuous by its absence, and Ramānuja's system is free from that repulsive form which Vaiṣṇavism assumes when Rādhāand other cowherdesses are introduced. Rāma too does not appear to be a favourite deity. Rāmānuja's doctrines as to the way of reaching the Supreme Soul are the same as, or amplified forms of, those in the Bhagavadgītā. But in this system Bhakti is reduced to the form of a continuous meditation on the Supreme Soul. It thus corresponds to the Upāsanãs, or meditations, described by Bādarāyaṇa, and does not mean a boundless love for God, as the word is commonly understood, though the meditation that is enjoined implies tacitly a feeling of love.
 
@@ -1003,13 +1099,21 @@ town of Rajatapīṭha a family known by the name of Madhyageha.Mādhva's father
 
  Ānandatīrṭha went from country to country, putting down the advocates of the doctrine of Māyāand others, established the Vaiṣṇava creed. He had for his pupils Padmanābhatīrṭha, Naraharitīrṭha, Mādhavatīrṭha, and Akṣobhyattīrṭha. Naraharitīrṭha was sent to Jagannātha in Orissa to bring the original idols of Rāma and Sītā. Ānandatīrtha's other names. were Pūrṇaprajña and Madhyamandāra, or wish-giving tree of the family of Madhya.
 
- The date of his death given in the list preserved in several of the Maṭhas, or establishments of the sect, is Śaka 1119, and as he lived for seventy-nine years, the death of his birth has been given as Śaka 1040. But these statements are open to serious doubts. There is an Inscription in the Kūrmeśvara temple at Śrīkūrmam in the Chicacole Taluka of the Ganjam District, in which Naraharitīrṭha is represented to have constructed a temple and placed in it an idol of Yogānandanarasiṁha in the year Śaka [1203](# "Ep. Ind., Vol. VI, pp. 260 ff.").The first person therein mentioned is Puruṣottamatīrṭha, who is the same as [Acyutaprekṣa](# "Mādhvavijaya, VI, 33."), then his pupil Ānandatīrṭha, and the last is Narabaritīrṭha, the pupil of Ānandatīrtha. This Narabaritīrṭha is considered by some, to have been the ruler of Orissa. But this arises from a confusion between him and a king bearing the same name, in the slightly modified form of Narasiṁha, who was the actual ruler of the country from about Śaka 1191 to
+ The date of his death given in the list preserved in several of the Maṭhas, or establishments of the sect, is Śaka 1119, and as he lived for seventy-nine years, the death of his birth has been given as Śaka 1040. But these statements are open to serious doubts. There is an Inscription in the Kūrmeśvara temple at Śrīkūrmam in the Chicacole Taluka of the Ganjam District, in which Naraharitīrṭha is represented to have constructed a temple and placed in it an idol of Yogānandanarasiṁha in the year Śaka 1203[^49].The first person therein mentioned is Puruṣottamatīrṭha, who is the same as Acyutaprekṣa[^50], then his pupil Ānandatīrṭha, and the last is Narabaritīrṭha, the pupil of Ānandatīrtha. This Narabaritīrṭha is considered by some, to have been the ruler of Orissa. But this arises from a confusion between him and a king bearing the same name, in the slightly modified form of Narasiṁha, who was the actual ruler of the country from about Śaka 1191 to
+
+[^49]: "Ep. Ind., Vol. VI, pp. 260 ff."
+
+[^50]: "Mādhvavijaya, VI, 33."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.Kallianpur in the Udipi Taluka of the district of South Kanara is stated to be the birth-place of Madhva. It was probably the same as the Rajatapīṭhaof the Madhvavijnya. (Imp. Gas, Vol. XIV, page 314.)
 
-1225\. He is mentioned in an Inscription at Śrīkūrmam of Naraharitīrtha himself, hearing the date Śaka 1215, which is represented as the eighteenth year of the king's [reign](# "Ep. Ind., Vol. VI, page 262, note."). He was Narasiṁha II, and was the prince panegyrised in a work on rhetoric, the Ekāvali². Naraharitīrtha's other dates gathered from other Inscriptions range between Śaka 1186 and [1212](# "Ep. Ind., Vol. VI, p. 266."). All these epigraphical records confirm the truth of the tradition that Naraharitīrtha was sent by Ānandatīrtha to Orissa. He appears to have. hold a very high position there.
+1225\. He is mentioned in an Inscription at Śrīkūrmam of Naraharitīrtha himself, hearing the date Śaka 1215, which is represented as the eighteenth year of the king's reign[^51]. He was Narasiṁha II, and was the prince panegyrised in a work on rhetoric, the Ekāvali². Naraharitīrtha's other dates gathered from other Inscriptions range between Śaka 1186 and 1212[^52]. All these epigraphical records confirm the truth of the tradition that Naraharitīrtha was sent by Ānandatīrtha to Orissa. He appears to have. hold a very high position there.
+
+[^51]: "Ep. Ind., Vol. VI, page 262, note."
+
+[^52]: "Ep. Ind., Vol. VI, p. 266."
 
  Now if Naraharitīrtha's active period extended from Śaka 1186 to 1215, his master could not have died in Śaka 1119, i. e., fully 67 years before. It seems, therefore, reasonable to take the date. given in Madhva's Mahābhāratatātparyanirṇaya, which is 4300 of the Kali age, to be the correct date of his birth. It corresponds to Śaka 1121, which, bearing in mind the fact that some use the current year of an era and some the past, we must regard as equivalent to Śaka 1119, the date given in the lists for Ānandatīrtha's death. But instead of taking it as the date of his death, we shall have to regard it as the date of his birth. He lived for 79 years according to the current account, so that his death must be placed in Śaka 1198⁴. The two dates may, therefore, be taken as settled.
 
@@ -1025,7 +1129,9 @@ town of Rajatapīṭha a family known by the name of Madhyageha.Mādhva's father
 
 with some modifications of their own¹. God is a substance. The supreme soul possesses innumerable or an infinite number of qualities. His functions are eight, viz., (1) creation, (2) protection, (3) dissolution, (4) controlling all things, (5) giving knowledge, (6) manifestation of himself, (7) tying beings down to the world, (8) redemption. He is omniscient, expressible by all words, and entirely different from the individual souls and the inanimate world. He possesses the holy form made up of knowledge, joy, etc., independent of every thing, and one only, assuming different forms. All his forms are his full manifestations, and he is identically the same with his incarnations in qualities, parts, and actions. Lakṣmīis distinct from the Supreme Soul, but entirely dependent on him. She is eternal and blessed (Makta) like the Supreme Soul and is his consort. She has various forms, but no material body, and is thus like the Supreme Soul, and like him ist expressible by all words. She possesses the same extension in space. and time as the Supreme Soul, i. e., is concomitant with him.
 
- Jīvas or individual souls go through the usual succession of existences and are characterised by ignorance or other defects. They are innumerable individually, or as members of groups, such as [Ṙjus](# "Ṙjus are a class of gods.") who are fit for attaining Brahmahood, and others who are fit for the attainment of the dignity of Rudra, Garuḍa, Asuras, or demons, etc. They are of three kinds: (1) fit for attaining final bliss, (2) always going through the circle of existences, and (3) fit for the conditon of darkness. The gods, Ṛṣis, and the manes, and the best of men, belong to the first class, ordinary men belong to the second class, and demons, ghosts, and the vilest of men, etc., to the the third class. All these individual souls are distinct from each other and from the Supreme Soul.
+ Jīvas or individual souls go through the usual succession of existences and are characterised by ignorance or other defects. They are innumerable individually, or as members of groups, such as Ṙjus[^53] who are fit for attaining Brahmahood, and others who are fit for the attainment of the dignity of Rudra, Garuḍa, Asuras, or demons, etc. They are of three kinds: (1) fit for attaining final bliss, (2) always going through the circle of existences, and (3) fit for the conditon of darkness. The gods, Ṛṣis, and the manes, and the best of men, belong to the first class, ordinary men belong to the second class, and demons, ghosts, and the vilest of men, etc., to the the third class. All these individual souls are distinct from each other and from the Supreme Soul.
+
+[^53]: "Ṙjus are a class of gods."
 
  Creation begins when the Supreme Soul disturbs the equilibrium of the Prakṛti, which then develops into all the other principles of the Samkhya system, as modified by the Purāṇas, until the mundane egg is produced. Then placing the sentient and non-
 
@@ -1075,7 +1181,9 @@ The first of the former class we have to notice is Nimbārka Nimbārka is said t
 
 saurabha, which is a short commentary on the Brahmasūtras, and also a small work containing ten stanzas of the name of Siddhāntāratna, usually called Daśaśloki, from the number of stanzas contained in it. Śrīnivāsa, the immediate follower of Nimbārka, wrote a commentary called Bhāṣya on the first, and Harivyāsadeva, the thirty-second in the list of succession, wrote on the second. The thirteenth in the list, Devācārya, wrote the Siddhāntajāhnavī, and his successor, Sundarabhaṭṭa, wrote a commentary on it, called Setu. The thirtieth in the list composed a commentary, or Bhāṣya, on the Brahmasūtras. His name was Kesava Kaśmīrin.
 
- § 52. Nimbārka's Vedāntic theory is monistic as well as pluralistic. The inanimate world, the individual soul and God are distinct from one another as well as identical. Identical they are in the sense that the first two have no independent existence, but are dependent on God for their existence and action. The theory of the Brahmasūtras that Brahman is the material cause of the universe, is thus understood: To be the material cause of an effect is (1) to possess the capacity of assuming the form of that effect, and (2) to be fitted to do so. Brahman possesses various capacities which are of the nature of the animate and inanimate worlds. These in a subtle form constitute its natural condition. This satisfies the first of the two requirements. The capacities again contain in them the rudiment of the effect, i. e., the world, in a subtle form. This meets the second requirement. By realising these capacities. and bringing the subtle rudiment into a gross form, Brahman becomes the material cause of the world. Rāmānuja's theory of Brahman forming with the animate and inanimate world a composite personality and of its being the material cause in so far as the bodily portion of the composite personality becomes developed, is rejected by the [school](# "See Keśava s commentary, Br, S. I. 4. 23."). For a further knowledge of the system, I will here give a translation of the Daśaśloki.
+ § 52. Nimbārka's Vedāntic theory is monistic as well as pluralistic. The inanimate world, the individual soul and God are distinct from one another as well as identical. Identical they are in the sense that the first two have no independent existence, but are dependent on God for their existence and action. The theory of the Brahmasūtras that Brahman is the material cause of the universe, is thus understood: To be the material cause of an effect is (1) to possess the capacity of assuming the form of that effect, and (2) to be fitted to do so. Brahman possesses various capacities which are of the nature of the animate and inanimate worlds. These in a subtle form constitute its natural condition. This satisfies the first of the two requirements. The capacities again contain in them the rudiment of the effect, i. e., the world, in a subtle form. This meets the second requirement. By realising these capacities. and bringing the subtle rudiment into a gross form, Brahman becomes the material cause of the world. Rāmānuja's theory of Brahman forming with the animate and inanimate world a composite personality and of its being the material cause in so far as the bodily portion of the composite personality becomes developed, is rejected by the school[^54]. For a further knowledge of the system, I will here give a translation of the Daśaśloki.
+
+[^54]: "See Keśava s commentary, Br, S. I. 4. 23."
 
  I. Jīva, or the individual soul, is knowledge, dependent on Hari, and is in a condition to be associated with, or dissociated from, a body; is an atom, different in different bodies, and is a knower and numberless.
 
@@ -1121,7 +1229,11 @@ no superior lord. This Bhakti is of two kinds: the highest is one, and the other
 
  § 55. These ten Stanzas contain the quintessence of Nimbārka's system. This appears to have Rāmānuja's doctrines for its basis and is a sidewise development of it. It gives predominance to Prapatti or self-surrender of the six kinds, alluded to above, and then, by the grace of God, love for Him is generated. His Sādhana
 
-Bhakti comprehends all the Yogas of Rāmānuja's system. Rāmānuja, as we have already [remarked](# "[Ante, p. 80. N. BU.]"), changes the original sense of Bhakti and renders it equivalent to the Upāsanā, or the meditation prescribed in the Upanṣiads. But Nimbārka keeps to the original sense. His doctrines make a nearor approach to the Tenkalai, or Southern Learning, of the Rāmānujiyas. But the great difference between the two teachers is, that, while Rāmānuja confines himself to Nārāyaṇa and his consorts Lakṣmi, Bhū and Līlā, Nimbārka gives almost an exclusive prominence to Krṣṇa and his mistress, Rādhā, attended on by thousands of her female companions. Thus the fourth element of Vaiṣṇavism which we have [mentioned](# "[Ante, p. 49. N. B. U. ]") rises to the surface in Vaiṣṇavism about this. time, and retains its place in Northern India, including Bengal, except in the case of those sects whose favourite deity is Rāmaand not Krṣṇa; and to these for the present we will now turn our attention, coming back again to Krṣṇaism later on.
+Bhakti comprehends all the Yogas of Rāmānuja's system. Rāmānuja, as we have already remarked[^55], changes the original sense of Bhakti and renders it equivalent to the Upāsanā, or the meditation prescribed in the Upanṣiads. But Nimbārka keeps to the original sense. His doctrines make a nearor approach to the Tenkalai, or Southern Learning, of the Rāmānujiyas. But the great difference between the two teachers is, that, while Rāmānuja confines himself to Nārāyaṇa and his consorts Lakṣmi, Bhū and Līlā, Nimbārka gives almost an exclusive prominence to Krṣṇa and his mistress, Rādhā, attended on by thousands of her female companions. Thus the fourth element of Vaiṣṇavism which we have mentioned[^56] rises to the surface in Vaiṣṇavism about this. time, and retains its place in Northern India, including Bengal, except in the case of those sects whose favourite deity is Rāmaand not Krṣṇa; and to these for the present we will now turn our attention, coming back again to Krṣṇaism later on.
+
+[^55]: "[Ante, p. 80. N. BU.]"
+
+[^56]: "[Ante, p. 49. N. B. U. ]"
 
  Nimbārka's system is known by the name of Sanakasaṁpradāya, or the tradition originating with Sanaka. Though Nimbārka was a Southerner, he lived at Vṛndāvana near Mathurā, which accounts for the preference given by him to the RadhaKrṣṇaform of Vaiṣṇavism. His followers are scattered over the whole of Northern India, and exist in large numbers near Mathurāand in Bengal. They wear two perpendicular lines of Gopīcandana with a black spot in the middle on the forehead, and use a necklace and rosary of the wood of the Tulasīplant. They are divided into two classes, the ascetics and householders. This distinction appears to have originated at the time of Harivyāsadeva, after whom, as I have observed in a note, the successors of Nimbārka were divided into two branches. The reason for the division was probably this new distinction.
 
@@ -1163,7 +1275,9 @@ him. But Kabīr miraculously escaped death and was eventually reconciled to Sika
 
  
 
-The dates given by various writers for the birth and death of Kabīr are conflicting. Mr. Westcott makes him live for 78 years, from 1440 to 1518 [A. D.](# "Ibid, Chronological Table, p. VII."), and according to Mr. Macauliffe he
+The dates given by various writers for the birth and death of Kabīr are conflicting. Mr. Westcott makes him live for 78 years, from 1440 to 1518 A. D.[^57], and according to Mr. Macauliffe he
+
+[^57]: "Ibid, Chronological Table, p. VII."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1171,7 +1285,11 @@ The dates given by various writers for the birth and death of Kabīr are conflic
 
 13 \[ R. G. Bhandarkar's Works, Vol. IV. \]
 
-was born in Saṁvat 1455, corresponding to A. D. [1398](# "The Sikh Religion, &c., Vol. VI. p. 122."), and ha died in A. D. [1518](# "Ibid. pp. 139-40."), having lived for 119 years, five months and twenty-seven days. In a footnote he quotes from an original work the date Śaka 1370, corresponding to 1448 A. D., as the date of his death. Sikandar Lodi was on the throne of Delhi from 1488 to 1517 A. D. The last of the three dates does not harmonise with this, and so it must be given up. Rāmānanda, we have seen, is spoken of as having been born in 1298 A. D. and died in 1411 A. D. If Mr. Westcott's date for Kabīr's birth is true, Kabīr cannot have been a disciple of Rāmānanda. If that of Mr. Macauliffe is accepted, it is just possible that he should have so become, for at the time of Rāmānanda's death, Kabīr must have been thirteen years of age, and he is represented in one of the legends to have been but a boy when he was accepted as a disciple by the old sage. The date 1518 A. D. given by both the writers for his death may be accepted as correct. But if that of his birth given by Mr. Macauliffe is also accepted, we shall have to suppose that Kabīr lived for 119 years; Rāmānanda also according to the dates given in the last section lived for 113 years. Whether both of them lived. such long lives might well be questioned. But, until we have more evidence, the dates for Rāmānanda already noticed, and for Kabīr as given by Mr. Macauliffe may be provisionally accepted, and thus Kabīr might be considered to have really been a disciple of Rāmānanda, though of course, being a boy of thirteen, he could not have taken part in his master's disputations with Pandits. In Kabīr's works, however, so far as I have seen them, Rāmānanda's namedoes not occur, though the name Rāmaas that of the Supreme Being and also the relation of the individual soul with Rāma, as well as his refutation of the doctrine of God's being Videha or Nirguṇa, i. e., without attributes, must have been borrowed from Rāmānanda's doctrines, which again are based on Rāmānuja's system.  
+was born in Saṁvat 1455, corresponding to A. D. 1398[^58], and ha died in A. D. 1518[^59], having lived for 119 years, five months and twenty-seven days. In a footnote he quotes from an original work the date Śaka 1370, corresponding to 1448 A. D., as the date of his death. Sikandar Lodi was on the throne of Delhi from 1488 to 1517 A. D. The last of the three dates does not harmonise with this, and so it must be given up. Rāmānanda, we have seen, is spoken of as having been born in 1298 A. D. and died in 1411 A. D. If Mr. Westcott's date for Kabīr's birth is true, Kabīr cannot have been a disciple of Rāmānanda. If that of Mr. Macauliffe is accepted, it is just possible that he should have so become, for at the time of Rāmānanda's death, Kabīr must have been thirteen years of age, and he is represented in one of the legends to have been but a boy when he was accepted as a disciple by the old sage. The date 1518 A. D. given by both the writers for his death may be accepted as correct. But if that of his birth given by Mr. Macauliffe is also accepted, we shall have to suppose that Kabīr lived for 119 years; Rāmānanda also according to the dates given in the last section lived for 113 years. Whether both of them lived. such long lives might well be questioned. But, until we have more evidence, the dates for Rāmānanda already noticed, and for Kabīr as given by Mr. Macauliffe may be provisionally accepted, and thus Kabīr might be considered to have really been a disciple of Rāmānanda, though of course, being a boy of thirteen, he could not have taken part in his master's disputations with Pandits. In Kabīr's works, however, so far as I have seen them, Rāmānanda's namedoes not occur, though the name Rāmaas that of the Supreme Being and also the relation of the individual soul with Rāma, as well as his refutation of the doctrine of God's being Videha or Nirguṇa, i. e., without attributes, must have been borrowed from Rāmānanda's doctrines, which again are based on Rāmānuja's system.  
+
+[^58]: "The Sikh Religion, &c., Vol. VI. p. 122."
+
+[^59]: "Ibid. pp. 139-40."
 
  § 58. We now give a translation of a few passages illustra tive of the teachings of Kabīr³.
 
@@ -1257,7 +1375,9 @@ inspires him with the corresponding thoughts (calculated to enable him to achiev
 
  Rāidās, a pupil of Rāmānanda, was a founder of a sect the followers of which are to be found in the caste of Camārs. or leather-workers. Nābhājīin his Bhaktamālātolls many legends. about him. Under the name of Rohidās he is known and revered even in the Maratha country, and Mahīpati, the Maratha writer on saints, devotes a chapter to him.
 
- Senāthe barber, a follower of Rāmānanda, is also reported to have founded a sect. He too is known in the Maratha [country](# "See Wilson s Hindu Religions.").
+ Senāthe barber, a follower of Rāmānanda, is also reported to have founded a sect. He too is known in the Maratha country[^60].
+
+[^60]: "See Wilson s Hindu Religions."
 
 XXI\. Tulasīdās.
 
@@ -1279,9 +1399,11 @@ Chapter I.
 
 1.For details, see Dr. Grierson's articles in the Indian Antiquary, Vol. XXII.
 
-Chapter [IV.](# "The editions consulted are those published by Navalkisora at Lakhnau in 1886 and in the Bibliotheco Indica in 1897.")
+Chapter IV.[^61]
 
  82 (89 B. I). The excellent retentive faculty is called Girāor Sarasvatī, and the immutable Dharma is a Vaṭa tree. Dharma consists of a triad of confluent rivers destroying sin. Oh Tulasī, conceive no dislike for these and accept these.
+
+[^61]: "The editions consulted are those published by Navalkisora at Lakhnau in 1886 and in the Bibliotheco Indica in 1897."
 
  The triad is given by the commentator as action, knowledge, and Bhakti, or devotion.
 
@@ -1313,11 +1435,15 @@ XXII\. Vallabha.
 
  § 62. We will now turn our attention to the more extensive and almost exclusive cult of the Kṛṣṇa of Gokula. The founder of it was Vallabha. He was the son of a Tailaṅga Brāhmaṇa named Lakṣmaṇa Bhaṭṭa, who was a student of the Black Yajurveda and lived at a village named Kānkarava in the Telugu country. On one occasion Lakṣmaṇa Bhaṭṭa went on a pilgrimage to Benares. with his wife, Elamāgāra. On the way she gave birth to a son on the eleventh of the dark half of Vaiśākha of the Vikrama year
 
-1535, corresponding to 1479 [A.D.](# "Yajñeśvara,Āryavidyāsudhākara.") That son was known as Vallabha.
+1535, corresponding to 1479 A.D.[^62] That son was known as Vallabha.
+
+[^62]: "Yajñeśvara,Āryavidyāsudhākara."
 
  Vallabha lived for some time in Vṛndāvana and for some time. at Mathurā. About that time it is alleged that Gopāla-Krṣṇa manifested himself on the Govardhana Hill by the name of Devadamana, called also Śrī-Nāthajī. The God told Vallabha in at dream to come and see him, informing him that his companions in the cow-settlement, when he became incarnate as Krṣṇa, were born again in the present age, and commissioned him to make. them his attendants, that he might sport with them as in the former age. Accordingly, Vallabha went and saw Devadamana or Śrī-Nāthajī. Śrī-Nāthajī commanded him to erect a shrine for himself and to promulgate the method of worshipping him, without which a man would not be admissible to the Puṣṭimārga, or the path of divine grace, which Vallabha had founded. The meaning of this seems to be that Vallabha connected his system with a special manifestation of Krṣṇa known by the name of Śrī-Nāthajī².
 
- Vallabha's Vedāntic theory is the same as that of an earlier. author of the name of Viṣṇusvāmin. This Viṣṇusvāmin is said. to have been the son of the councillor of a Draviḍa chief dependent upon the Emperor of [Delhi](# "Yajñeśvara,Āryavidyāsudhākara, p. 228."). Nābhājīin his Bhaktamālāmakes Jñānadeva, Nāmdeva, Trilocana, and lastly Vallabha his successors⁴. The first was Jñānadeva, who is represented as a follower of his system (Saṁpradāya). He was one of three sons born to a man, who became a householder after he had assumed the order of an ascetic. He was, therefore, excommunicated and was not allowed to learn the Vedas. But he himself by his miraculous. power made a male buffalo repeat the Vedas. This story is the same as that related of the Jñānadeva of Mahārāṣṭra, the author of a Vernacular commentary on the Bhagavadgita. But the Marathas do not know of Viṣṇusvāmin as his Guru, or teacher,or of Jñānadevabeing his successor or follower. If, however, the tradition reported by Nābhājīis correct, Viṣṇusvāmin must have lived about the middle of the thirteenth century. The date of the commentary above alluded to is śaka 1212, corresponding to 1290 A. D.
+ Vallabha's Vedāntic theory is the same as that of an earlier. author of the name of Viṣṇusvāmin. This Viṣṇusvāmin is said. to have been the son of the councillor of a Draviḍa chief dependent upon the Emperor of Delhi[^63]. Nābhājīin his Bhaktamālāmakes Jñānadeva, Nāmdeva, Trilocana, and lastly Vallabha his successors⁴. The first was Jñānadeva, who is represented as a follower of his system (Saṁpradāya). He was one of three sons born to a man, who became a householder after he had assumed the order of an ascetic. He was, therefore, excommunicated and was not allowed to learn the Vedas. But he himself by his miraculous. power made a male buffalo repeat the Vedas. This story is the same as that related of the Jñānadeva of Mahārāṣṭra, the author of a Vernacular commentary on the Bhagavadgita. But the Marathas do not know of Viṣṇusvāmin as his Guru, or teacher,or of Jñānadevabeing his successor or follower. If, however, the tradition reported by Nābhājīis correct, Viṣṇusvāmin must have lived about the middle of the thirteenth century. The date of the commentary above alluded to is śaka 1212, corresponding to 1290 A. D.
+
+[^63]: "Yajñeśvara,Āryavidyāsudhākara, p. 228."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1439,7 +1565,9 @@ XXIV\. Debasement of Vaiṣṇavism.
 
  Though the Vaiṣṇava systems of Nimbārka, Vallabha and Caitanys are based on the fourth element of Vaiṣṇavism that wer have pointed out in a precoding Section, still that element has undergone an important modification. Before, Kṛṣṇa was a person who had amorous dalliances with the Gopīs generally. But now Kṛṣṇa had a definite consort in Rādhā, who had a large number of female companions, who were probably the original Gopīs. She is indissolubly united with him in the creed of worshippers.
 
- This Rādhā is not mentioned by name in the Harivaṁśa, Viṣṇu-Purāṇa and the Bhāgavata. In the last, however, among the cowherdesses engaged in Kṛṣṇa's amorous sports in Vṛndāvana on an autumnal moonlight night, there was one with whom the youthful god carred on his dalliance further, after he had become invisible to the rest. This woman became proud of Kṛṣṇa's special attachment for her, whereupon the god disappeared from her also. Here was contained a suggestion which probably led to the creation of Rādhāin later times. In the apocryphal Nāradapañcaāátra-Saṁhitā, as mentioned [before](# "[Ante, p. 58 N. B. U.]"), the one single lord is represented to have become two, one a woman and the other a man, who was he himself. He then bad amorous intercourse with her. The woman was Rādhā. In the Brahmavaivarta-Purāṇa she has been made to spring from the primordial body of Kṛṣṇa forming its left. side, and is eternally associated with him in his amorous sports in this world as well as the world of cows (Goloka). The name of Rukmiṇi occurs in the ordinary form of Kṛṣṇaism, but in the systems named above it is entirely absent. The introduction of Rādhā's name, and her elevation to a higher position even than Kṛṣṇa's, operated as a degrading element in Vaiṣṇavism, not only because she was a woman, but also because she was originally a mistress of the cowhard god, and her amorous dealing were of an overt character.
+ This Rādhā is not mentioned by name in the Harivaṁśa, Viṣṇu-Purāṇa and the Bhāgavata. In the last, however, among the cowherdesses engaged in Kṛṣṇa's amorous sports in Vṛndāvana on an autumnal moonlight night, there was one with whom the youthful god carred on his dalliance further, after he had become invisible to the rest. This woman became proud of Kṛṣṇa's special attachment for her, whereupon the god disappeared from her also. Here was contained a suggestion which probably led to the creation of Rādhāin later times. In the apocryphal Nāradapañcaāátra-Saṁhitā, as mentioned before[^64], the one single lord is represented to have become two, one a woman and the other a man, who was he himself. He then bad amorous intercourse with her. The woman was Rādhā. In the Brahmavaivarta-Purāṇa she has been made to spring from the primordial body of Kṛṣṇa forming its left. side, and is eternally associated with him in his amorous sports in this world as well as the world of cows (Goloka). The name of Rukmiṇi occurs in the ordinary form of Kṛṣṇaism, but in the systems named above it is entirely absent. The introduction of Rādhā's name, and her elevation to a higher position even than Kṛṣṇa's, operated as a degrading element in Vaiṣṇavism, not only because she was a woman, but also because she was originally a mistress of the cowhard god, and her amorous dealing were of an overt character.
+
+[^64]: "[Ante, p. 58 N. B. U.]"
 
  In the Rāma cultus, Sītāis a dutiful and loving wife, and is
 
@@ -1447,11 +1575,17 @@ benignant towards the devotees of her husband. She holds a postition entirely su
 
 XXV\. Nāmadev and Tukārām.
 
- § 71. The popular Vaiṣṇavism of the Maratha country centres itself round the shrine of Viṭhobāat Paṇḍharpur, which is a city situated on the banks of the Bhīmāor Bhīmarathī. The full name of the god is Viṭṭhal, which is not a Sanskrit name, but the etymology is clear enough. It is stated that the corruption of the Sanskrit name Viṣṇu in the Canarese language is Viṭṭhu, and this looks probable, since Kṛṣṇa is corrupted into Kuṣṭa in the Goanese dialect and Kuṭṭa, Kiṭṭi, or Kṛṣṭa in the Canarese; and we have seen that Viṣṇu, the first portion of the name of the. Hoysala prince Viṣṇuvardhana, was corrupted to Viṭṭi or [Biṭṭi](# "See above, p. 72."). The terminations bāand la are appended to the name Viṣṇu or Viṭṭu to indicate additional sense such as tenderness or reverence. When the shrine was established, we have not the means of determining, but we have clear evidence of its being in existence in the middle of the thirteenth century. In a copperplate Inscription of the reign of Kṛṣṇa of the Yādava dynasty of Devagiri, it is stated that Malliseṭṭi, a general and viceroy of the king, made, while engaged on a military expedition, the grant of a village in the Belgaum district at Pauṇḍarīkakśetra, a holy place situated on the Bhīmarathī, in the vicinity of the god Viṣṇu, in the year. 1171 of the Śaka era corresponding to 1249 [A.D](# "Indian Antiquary, Vol. XIV, p. 68ff."). Now if the Pauṇḍarīkakśetra was situated on the Bhīmarathī or Bhīmāriver, it is certainly not unreasonable to suppose that is was the same as Paṇḍharīwhich is the alternative name of Paṇḍharpur; and
+ § 71. The popular Vaiṣṇavism of the Maratha country centres itself round the shrine of Viṭhobāat Paṇḍharpur, which is a city situated on the banks of the Bhīmāor Bhīmarathī. The full name of the god is Viṭṭhal, which is not a Sanskrit name, but the etymology is clear enough. It is stated that the corruption of the Sanskrit name Viṣṇu in the Canarese language is Viṭṭhu, and this looks probable, since Kṛṣṇa is corrupted into Kuṣṭa in the Goanese dialect and Kuṭṭa, Kiṭṭi, or Kṛṣṭa in the Canarese; and we have seen that Viṣṇu, the first portion of the name of the. Hoysala prince Viṣṇuvardhana, was corrupted to Viṭṭi or Biṭṭi[^65]. The terminations bāand la are appended to the name Viṣṇu or Viṭṭu to indicate additional sense such as tenderness or reverence. When the shrine was established, we have not the means of determining, but we have clear evidence of its being in existence in the middle of the thirteenth century. In a copperplate Inscription of the reign of Kṛṣṇa of the Yādava dynasty of Devagiri, it is stated that Malliseṭṭi, a general and viceroy of the king, made, while engaged on a military expedition, the grant of a village in the Belgaum district at Pauṇḍarīkakśetra, a holy place situated on the Bhīmarathī, in the vicinity of the god Viṣṇu, in the year. 1171 of the Śaka era corresponding to 1249 A.D[^66]. Now if the Pauṇḍarīkakśetra was situated on the Bhīmarathī or Bhīmāriver, it is certainly not unreasonable to suppose that is was the same as Paṇḍharīwhich is the alternative name of Paṇḍharpur; and
+
+[^65]: "See above, p. 72."
+
+[^66]: "Indian Antiquary, Vol. XIV, p. 68ff."
 
 the god in whose vicinity the grant was made must therefore. have been Viṭṭhal , or Viṭhobā, here mentioned by his Sanskrit name and not the popular Canarose corruption. In another Inscription on stone, existing at Paṇḍharpur itself and dated 1192 Śaka, which corresponds to 1270 A. D., Bhānu the son of Keśava, is represented to have performed an Aptoryāma sacrifice in Pāṇḍuraṅgapura, in consequence of which crowds of people, and Viṭṭhal a together with the gods, were greatly gratified¹.Here we have another name of Paṇḍharpur, and that was probably given to it because it was the city of Pāṇḍuraṅga.
 
- Pāṇḍaraṅga, or Pāṇḍuraṅga, is according to Hemacandra a name of Rudra or [Śiva](# "Deśnāmamālā,VI. 23."). And we have a temple of Śiva at Paṇḍharpur, and pilgrims have to visit it first before going to that of Viṭhoba or Viṭṭhal Pāṇḍuraṅga, which is the same as the Pāṇḍuraṅga of Hemcandra, is however in modern times a popular name for Viṭṭhal .Whether then the city was called. Pāṇḍuraṅgapura on account of it containing the temple of Viṣṇu or Viṭṭhal , or that of Śiva is doubtful. But from the wording of the Inscription, in which Viṭṭhal a and Pāṇḍuraṅgapuraare mentioned independently, it would appear as if Viṭṭhal had no connection with the name, and it was given to the city on account of its containing a Śiva temple. But when Viṭhoba's importance increased in later times so vastly that Śiva was thrown entirely into the shade, Panduranga became identical with Viṭṭhala.
+ Pāṇḍaraṅga, or Pāṇḍuraṅga, is according to Hemacandra a name of Rudra or Śiva[^67]. And we have a temple of Śiva at Paṇḍharpur, and pilgrims have to visit it first before going to that of Viṭhoba or Viṭṭhal Pāṇḍuraṅga, which is the same as the Pāṇḍuraṅga of Hemcandra, is however in modern times a popular name for Viṭṭhal .Whether then the city was called. Pāṇḍuraṅgapura on account of it containing the temple of Viṣṇu or Viṭṭhal , or that of Śiva is doubtful. But from the wording of the Inscription, in which Viṭṭhal a and Pāṇḍuraṅgapuraare mentioned independently, it would appear as if Viṭṭhal had no connection with the name, and it was given to the city on account of its containing a Śiva temple. But when Viṭhoba's importance increased in later times so vastly that Śiva was thrown entirely into the shade, Panduranga became identical with Viṭṭhala.
+
+[^67]: "Deśnāmamālā,VI. 23."
 
  The name Pauṇḍarīkaoccuring in the first Inscription seems to owe its origin to a man named Pauṇḍarīka, the popular legend about whom is to the following effect. The region about Paṇḍharpur was, it is said, a forest of the name of Diṇḍiravana. There lived a man of the name of Pauṇḍalīka, who spent all his time in the service of his aged parents, and the god Kṛṣṇawas pleased. with his devotion to them. In the meantime, while Kṛṣṇa Was living at Dvāraka, he remembered Rādhā, who was the object of
 
@@ -1503,7 +1637,9 @@ image is regarded as God, but the true God is wholly different. If a stone-god f
 
  This is a short specimen of the teachings of Nāmdev. Purity of heart, humility, self-surrender, forgiveness, and the love of God
 
-form the sum and substance of it. Nāmdev wrote songs in Hindīalso and some of these are incorporated in the Grantha-Sāheb, or the Bible of the Sikhs. I will here translate two of [these](# "Tukaram Tatya s edition."):—
+form the sum and substance of it. Nāmdev wrote songs in Hindīalso and some of these are incorporated in the Grantha-Sāheb, or the Bible of the Sikhs. I will here translate two of these[^68]:—
+
+[^68]: "Tukaram Tatya s edition."
 
  No. 2352. "He is one, \[but\] fills and encompassess many; wherever you look yon find him there. There is scarcely one who understands him, all being deluded by the variegated picture. drawn by Māyā(delusive power). Everything is Govinds, everything is Govinda, there is nothing without Govinda. Just as there is one thread and on it are woven breadthwise and length- wise hundreds of thousands of beads, so is everything woven in the lord. The waves, the foam, and the bubbles of water are not different from water. All this extent of the universe is the sport. of Parabrahma, and when we think of it, is not different from it. Illusive phantoms and the objects seen in dreams are regarded as real. When by the instruction of my Guru my mind awoke, I accepted the truth. Reflecting in your mind, see this all to be the creation of Hari, says Nāmdev; in the inside of every indivi- dual thing there is one Murari alone without any interstice."
 
@@ -1517,7 +1653,9 @@ form the sum and substance of it. Nāmdev wrote songs in Hindīalso and some of 
 
 3.These two hymns have been translated by Macauliffe in Vol. VI, pp. 41-42 of the Sikh Religion. The readings in the Bombay Ed. have been compared with those in the Grantha-Sāheb, pp. 427-28 of the Lucknow Ed. of 1893,
 
- § 73. The date assigned to the birth of Nāmdev is, as we have seen, Śaka 1192, that is 1270 A. D. This makes him a contemporary of Jñāndev, the author of the Jñāndevī, which was finished. in 1290 A. D. But the Marāṭhīof the latter work is decidedly archaic, while that of Nāmdev's writings has a considerably more. modern appearance. Nāmdev's Hindi too looks more modern. than that of the thirteenth century, when the poet Canda flourished¹. What this is due to, it is difficult to say. But it appears probable that the traditional date of Nāmdev's birth-Śaka 1192-has been pushed backwards and that he is represented as a contemporary of Jñāndev. We have seen in a former [section](# "[ Ante, p. 109.-N. B. U.]")that Nabhāji in naming the successors of Viṣṇusvāmin places. Jiandey first and Nāmdev afterwards. If we are to judge from Nāmdev's Marāṭhī and Hindī, his date must be put later by about. a century.
+ § 73. The date assigned to the birth of Nāmdev is, as we have seen, Śaka 1192, that is 1270 A. D. This makes him a contemporary of Jñāndev, the author of the Jñāndevī, which was finished. in 1290 A. D. But the Marāṭhīof the latter work is decidedly archaic, while that of Nāmdev's writings has a considerably more. modern appearance. Nāmdev's Hindi too looks more modern. than that of the thirteenth century, when the poet Canda flourished¹. What this is due to, it is difficult to say. But it appears probable that the traditional date of Nāmdev's birth-Śaka 1192-has been pushed backwards and that he is represented as a contemporary of Jñāndev. We have seen in a former section[^69]that Nabhāji in naming the successors of Viṣṇusvāmin places. Jiandey first and Nāmdev afterwards. If we are to judge from Nāmdev's Marāṭhī and Hindī, his date must be put later by about. a century.
+
+[^69]: "[ Ante, p. 109.-N. B. U.]"
 
  Some conception, however, of the time when Nāmdev flourished may be formed from the strong and definite sentiments as to the futility of idol-worship, which his instructor is represented (in one of the hymns translated) to have expressed. Khecar, or Visoba Khecar as he is usually called, appears to have been an uncom- promising opponent of idol-worship from the accounts given of him in the existing biographies. All previous writers, including Rāmānuja, as well as a great many that followed, excused idol- worship in some way or other. If then Khecar's attitude towards it was definitely hostile, he and his pupil Nāmdev must have flourished when the Mahomedan influence had for the first time become very powerful. The Mahomedans established themselves in the Deccan in the beginning of the fourteenth century of the Christian era, and their hatred of idol-worship must have taken about a hundred years to make its way into the understanding of religious Hindus.
 
@@ -1581,7 +1719,9 @@ What possibility is there of my mental power reaching Him, whose light it is tha
 
  There is peace and pure indescribable bliss in seeing God:—
 
- Second coll., No. 1411. " Oh Nārāyaṇa, the peace arising. from rest is truly not to be attained without thy feet; even if modes and methods are followed for crores of [Kalpas](# "A long fabulous period."), bliss will not ensue. The bliss of bliss, which is interminable and boundless, which is enjoyed by Hari and Hara, manifest to me, oh thou ! the
+ Second coll., No. 1411. " Oh Nārāyaṇa, the peace arising. from rest is truly not to be attained without thy feet; even if modes and methods are followed for crores of Kalpas[^70], bliss will not ensue. The bliss of bliss, which is interminable and boundless, which is enjoyed by Hari and Hara, manifest to me, oh thou ! the
+
+[^70]: "A long fabulous period."
 
 sustainer of my soul, oh omniscient, those feet of thine I which produce it \],"
 
@@ -1760,7 +1900,9 @@ their connection with the impersonal Brahman and transferred to the God who had 
 
 his ruling powers, who alone is the cause of production and growth (1). There is only one Rudra—and they do not recognise another— who rules these worlds by his ruling powers, who is the inmost soul of all men, who contracts everything on the final day, and, creating all beings, protects them (2). He has his eyes everywhere, his face everywhere, as in RV. X. 81. 3 (3). May Rudra, the cause of the production and growth of the gods, the lord of the universe, the great prophet, and who formerly created Hiraṇyagarbha, endow us with a holy will (4). Then follow two verses from the Śatarudriya, praying Rudra to look at the singer with his gracious countenance and not to do harm to men, etc. (5, 6). Knowing the lord (Īśa), who is the highest Brahman and the greatest of all, who dwells in the inside of all beings whatever their form, and who encompasses the whole universe, men become immortal (7). Then follow similar verses expressive of the attributes of the supreme God and prescribing a knowledge of him as the door to immortality.
 
- As formerly [remarked](# "Ante, p. 31. [N. B. U.]"),a verse and a half in this chapter occurs word for word in the thirteenth chap, of the BhG. It also deserves remark that the proper names of the supreme being that occur are Īśāna, Īśa, and Śiva, and the epithet Bhāgavat, that is used also, deserves notice (11, 12, 15, 17, 20). In verso 20, which occurs also in the MU., there is Īśam for Ātmanaḥwhich is indicative of the peculiarity of this Upaniṣadwhich we have noticed. There are two verses from the Puruṣasūkta (RV. X. 90),
+ As formerly remarked[^71],a verse and a half in this chapter occurs word for word in the thirteenth chap, of the BhG. It also deserves remark that the proper names of the supreme being that occur are Īśāna, Īśa, and Śiva, and the epithet Bhāgavat, that is used also, deserves notice (11, 12, 15, 17, 20). In verso 20, which occurs also in the MU., there is Īśam for Ātmanaḥwhich is indicative of the peculiarity of this Upaniṣadwhich we have noticed. There are two verses from the Puruṣasūkta (RV. X. 90),
+
+[^71]: "Ante, p. 31. [N. B. U.]"
 
  The fourth chapter opens with the expression of the desire that he who, himself being without form, creates many forms with a certain purpose, in whom in the end as well as in the beginning the universe exists, may endow the adorers with a holy will. Then follows the identification of this supreme soul with fire, sun, wind, moon and a variety of other objects (2-4). We have then the metaphor of one male goat lying down with the female goat and another male goat abandoning her after enjoyment, which represents the soul in the worldly and the delivered conditions (5).
 
@@ -1790,7 +1932,9 @@ subtle forms in accordance with his qualities and the qualities of his actions a
 
 period in its most mature form with a God distinctly personal at the centre. The attributes of the Supreme Soul are often given in very general terms, and he is referred to by the non-sectarian general name Deva, but as ofton that Deva is identified with Rudra, Śiva, Īśāna and Maheśvara, and his powers are spoken of as Īśānīs; but there is no indication whatever that these names have been given. for the purpose of raising Rudra-Śiva to the supreme godhead to the exclusion of another god. Names indicative of Rudra-Śiva appear to have been used, since he was invested with a personality perceived and acknowledged by all. This Upaniṣad, therefore, is not a sectarian treatise like others promulgated in later times, and is often quoted by Śaṁkarācārya, Rāmānuja and other writers of the different schools, and not by those of one schoolonly.
 
- It must have been composed before the BhG., since the latter contains, as already [stated](# "Ante, p. 31, and p. 153. [N. B. U. ]"), a verse and a half from it, and the nature of the religio-philosophic speculations contained in it, though essentially Upaniṣadic, make a nearer approach to the later Bhakti School than those of any of the older treatises of the class. The description of the godhead and of the final pure serenity are instinct with the glow of love and admiration, and the treatise ends with an expression of self-surrender to the god, who makes himself manifest in one's own intelligence. The Śvetāśvatara-Upaniṣad, therefore, stands at the door of the Bhakti School, and pours its loving adoration on Rudra-Śivainstead of on Vāsudeva-Krṣṇa, as the BhG. did in later times when full swing. Vāsudeva-Kṛṣṇa the Bhakti doctrine was in full swing. had a historic basis; and the circumstances which led to his being invested with the supreme godhesd, occurred in later times, while in the age, in which the Śvetiśvatare-Upaniṣad was composed, Rudra-Śiva was alone in the field as the supreme god, and the germs of Bhakti, or love, which manifested themselves at the time,were directed towards him; but when Vāsudeva-Kṛṣṇa also came into the field, he appealed more to the hearts of men as the
+ It must have been composed before the BhG., since the latter contains, as already stated[^72], a verse and a half from it, and the nature of the religio-philosophic speculations contained in it, though essentially Upaniṣadic, make a nearer approach to the later Bhakti School than those of any of the older treatises of the class. The description of the godhead and of the final pure serenity are instinct with the glow of love and admiration, and the treatise ends with an expression of self-surrender to the god, who makes himself manifest in one's own intelligence. The Śvetāśvatara-Upaniṣad, therefore, stands at the door of the Bhakti School, and pours its loving adoration on Rudra-Śivainstead of on Vāsudeva-Krṣṇa, as the BhG. did in later times when full swing. Vāsudeva-Kṛṣṇa the Bhakti doctrine was in full swing. had a historic basis; and the circumstances which led to his being invested with the supreme godhesd, occurred in later times, while in the age, in which the Śvetiśvatare-Upaniṣad was composed, Rudra-Śiva was alone in the field as the supreme god, and the germs of Bhakti, or love, which manifested themselves at the time,were directed towards him; but when Vāsudeva-Kṛṣṇa also came into the field, he appealed more to the hearts of men as the
+
+[^72]: "Ante, p. 31, and p. 153. [N. B. U. ]"
 
 god who had come to dwell amongst them; consequently the germs of Bhakti speedily developed, and he became the object of the heightened feelings in preference to the other.
 
@@ -1830,7 +1974,9 @@ enters into a long discourse on the beneficent deeds of Mahādeva. A list is giv
 
 spared nothing when he was propitiated. Whenever a man conceived a desire for anything, he was the god to be appealed to for its fulfilment. He lived on the Himālaya with his wife Umā, Pārvatī, or Durgā, who had a number of other names such as Kalī, Karālī, etc., and was attended by a number of beings called. his Gaṇas or hosts. His vehicle was an I. He had, of course, all the attributes of the supreme godhead. He is represented as having betaken himself to the process of Yoga or contemplation, when he had ceased to be creative.
 
- It will be seen that the object of worship in Śaivism is the Liṅga, or phallus. We have found no trace of this characteristic in the earlier literature, so far as we have examined it¹, and the first time we meet with it is in this passage from the Anuśāsanaparvan. We have had occasion in a previous [section](# "[Ante, p. 149 N. B. U. ]") to remark that Rudra-Śiva had a close connection with stragglers in the forest, with Vrātyas, or those who were not included in the Aryan community, and with the wild tribe of the Niṣādas, and also that the gods of these last were amalgamated with Rudra. Rudra's partiality for serpents and his being the lord of spirits or Bhūtas, were probably due to the influence of the serpent-worship and the devilry of the savage tribes.
+ It will be seen that the object of worship in Śaivism is the Liṅga, or phallus. We have found no trace of this characteristic in the earlier literature, so far as we have examined it¹, and the first time we meet with it is in this passage from the Anuśāsanaparvan. We have had occasion in a previous section[^73] to remark that Rudra-Śiva had a close connection with stragglers in the forest, with Vrātyas, or those who were not included in the Aryan community, and with the wild tribe of the Niṣādas, and also that the gods of these last were amalgamated with Rudra. Rudra's partiality for serpents and his being the lord of spirits or Bhūtas, were probably due to the influence of the serpent-worship and the devilry of the savage tribes.
+
+[^73]: "[Ante, p. 149 N. B. U. ]"
 
  There are two places in the RV., in one of which Indra is prayed to not to allow those whose god is Śiśna, to disturb the rites of the singers (VII. 24. 5); and in another he is represented. to have conquered the riches of a city after killing those whose god is Śiśna. Here evidently those whose god was Siśna, or phallus, are meant as the enemies of the Vedic Aryas, who disturbed their holy rites. Notwithstanding all that is said about the matter, my own belief is that the persons here referred to were really some tribe of the aborigines of the country, who worshipped. the phallus. Just then, as the Rudra-Śiva cult borrowed several elements from the dwellers in forests and stragglers in places outof the way, so it may have borrowed this element of phallicworship from the barbarian tribes with whom the Āryas came in contact. This element, however, does not appear to have come. in all at once, especially among the learned classes, whose beliefs. are represented in the literature which we have examined.
 
@@ -1840,7 +1986,11 @@ spared nothing when he was propitiated. Whenever a man conceived a desire for an
 
  The Liṅga worship had, it appears, not come into use at the time. of Patañjali; for, the instance he gives under P.V. 3.99, is that of an image or likeness (Pratikṛti) of Śiva as an object of worship, and 2001 not of any emblem of that god. It seems to have been unknown. oven in the time of Wema-Kadphises, for, on the reverse of his coins, there is a human figure of Śiva with a trident in the hand; and there is also an emblem, but it is Nandin or the bull, and not a Liṅga or phallus. But this element must have crept in early enough among ordinary people, who were in closer communication with the uncivilised tribes, and gradually made its way to the higher classes, of whose creed it subsequently became an article. And it is this final stage of its adoption by the higher classes that is represented in Upamanyu's discourse in the Mahābhārata.
 
- From all that we have brought forward from the post-Saṁhitāliterature, it will appear that Rudra-Śiva was a deity whose. worship was common to all Āryas, and who was not at first a sectarian god. As above [remarked](# "Ante, p. 157f. [N. B. U.]"),he was in charge of the field before the Vaiṣṇava or Vāsudevic deities came in to contest his supremacy. The Gṛhyasūtras, which, as we have seen, give directions as to the adoration of Rudra under various circumstances, cannot be considered as belonging to any Śaiva sect. In the time of Patañjali, images of Śiva, Skanda and Viśākha. made sometimes of precious metals, were kept for common worship by certain religious persons who derived an income from [them](# "See his comment on P. V. 3. 99."). The images of Śiva here alluded to cannot have been meant for the use of a particular sect.
+ From all that we have brought forward from the post-Saṁhitāliterature, it will appear that Rudra-Śiva was a deity whose. worship was common to all Āryas, and who was not at first a sectarian god. As above remarked[^74],he was in charge of the field before the Vaiṣṇava or Vāsudevic deities came in to contest his supremacy. The Gṛhyasūtras, which, as we have seen, give directions as to the adoration of Rudra under various circumstances, cannot be considered as belonging to any Śaiva sect. In the time of Patañjali, images of Śiva, Skanda and Viśākha. made sometimes of precious metals, were kept for common worship by certain religious persons who derived an income from them[^75]. The images of Śiva here alluded to cannot have been meant for the use of a particular sect.
+
+[^74]: "Ante, p. 157f. [N. B. U.]"
+
+[^75]: "See his comment on P. V. 3. 99."
 
 V. Origin and Diffusion of the Śaiva Sects and the  
 Several Classes of Śiva Worshippers.
@@ -1853,7 +2003,9 @@ Several Classes of Śiva Worshippers.
 
  Now, in an Inscription in the temple of Nātha near that of Ekalingii,14 miles to the north of Udaipur, Rajputana, it is stated that Śiva became incarnate &s a man with a club (Lakula) in his hand, in the country of Bhṛgukaccha, being propitiated by Bhṛgu. Sages, Kuśika and others, conversant with the Pāśupata Yoga, and using ashes and wearing bark-dress and matted hair, are mentioned.
 
- There is another Inscription, usually called the CintraPraśasti, which states that Śiva became incarnate in the form of Bhaṭṭāraka Śrī-Lakulīśa, and dwelt at Kārohaṇa in the Lāṭa country. There appeared in bodily form four pupils of his of the names of Kuśika, Gärgya, Kauruṣa and Maitreya for the strict performance of the Pāśupata vows, and they became originators of four branches. The date of the first Inscription is Vikrama 1028, or 971 A. D., and the second was composed between A. D. 1274 and 1296. In another Inscription dated 943 A. D., found at Hemāvatīin the Sira Taluka, Mysore, Lakulīśa is represented to have been born again as Muninātha Chilluka to preserve the memory of his name and [doctrines](# "See JBBRAS, Vol. XXII, pp. 151-153.").
+ There is another Inscription, usually called the CintraPraśasti, which states that Śiva became incarnate in the form of Bhaṭṭāraka Śrī-Lakulīśa, and dwelt at Kārohaṇa in the Lāṭa country. There appeared in bodily form four pupils of his of the names of Kuśika, Gärgya, Kauruṣa and Maitreya for the strict performance of the Pāśupata vows, and they became originators of four branches. The date of the first Inscription is Vikrama 1028, or 971 A. D., and the second was composed between A. D. 1274 and 1296. In another Inscription dated 943 A. D., found at Hemāvatīin the Sira Taluka, Mysore, Lakulīśa is represented to have been born again as Muninātha Chilluka to preserve the memory of his name and doctrines[^76].
+
+[^76]: "See JBBRAS, Vol. XXII, pp. 151-153."
 
  Mādhava calls the Pāśupata system that he explains in his Sarvadarśanasaṁgraha, Nakulīśa-Pāśupata, and quotes a few words from what appears to be a work attributed to him. From all this it appears that there lived a certain person, of the name of Lakulin (the holder of a Lakuṭa, or Laguḍa, or Lakula, i. e., a club) who founded a Pāśupata system. Four schools sprang out of it, and their reputed founders, whether historical or legendary, were considered his pupils. Lakulin ist the same as Nakulin, and the fact that his rise has been represented by the Purāṇas to be contemporaneous with Vāsudeva-Kṛṣṇa, points to the inference that traditionally the system was intended. to take the same place in the Rudra-Śiva cult that the Pāñcarātra did in the Vāsudeva-Kṛṣṇacult. We may, therefore, place the rise of the Pāśupata school mentioned in the Nārāyaṇīya about a century after that of the Pāñcarātra system, i. e., about the second century B. C.
 
@@ -1863,13 +2015,17 @@ greatness of his Yoga (meditation or concentration), and Ācāra (practice). The
 
  Wema Kadphises, a powerful prince of the Kuṣanarace, who ruled over a large part of Northwestern India about the middle of the third century A. D., styles himself on the reverse of his coins a devotee of Maheśvara or a member of the Maheśvara sect, and image of Nandin and another of Śivawith a trident in his hand occur on the obverse. Varāhamihira in the latter part of the sixth century, lays down the rule that the priests to be employed for the installation of an image of Śaṁbhu, should be Brāhmaṇas besmearing their bodies. with ashes. By these he means members of a Śaiva sect, since, in the case of other gods, the names mentioned are those of the sects founded in the names of those gods.
 
- Haribhadra, an old Jaina author, speaks in his Ṣaḍdarśanasamuccaya, of the schools of Gotama and Kaṇāda as professing the Śaiva faith. But his commentator Guṇaratna, (who flourished. in the latter part of the fourteenth [century](# "lnd. Ant. Vol. XI, pp. 255-256.")), calls the Vaiśeṣikās Pāśupatas and the other school Śaivas. This last must be a mistake, since Bhāradvāja of the Nyāya school is specifically spoken of as a Pāśupatācārya, as we have seen.
+ Haribhadra, an old Jaina author, speaks in his Ṣaḍdarśanasamuccaya, of the schools of Gotama and Kaṇāda as professing the Śaiva faith. But his commentator Guṇaratna, (who flourished. in the latter part of the fourteenth century[^77]), calls the Vaiśeṣikās Pāśupatas and the other school Śaivas. This last must be a mistake, since Bhāradvāja of the Nyāya school is specifically spoken of as a Pāśupatācārya, as we have seen.
+
+[^77]: "lnd. Ant. Vol. XI, pp. 255-256."
 
  The Chinese traveller Hiuen-Tsiang in the middle of the seventh century mentions the Pāśupatas twelve times in in his book. In some places he saysthat there were temples of Maheśvara at which the Pāśupatas worshipped; in one or two temples, he says that they resided. And at Benares he found about ten thousand sectaries who honoured Maheśvara, besmeared their bodies with ashes, went naked and tied their hair. in knots. These and those who lived in temples must have been like the Bairāgis, or ascetics, of modern times, who had given up the world; but probably the others mentioned by him were the
 
 followers of the Pāśupata faith who lived the ordinary life of householders.
 
- In the copper-plate charter of Nāgavardhana, nephew of Pulakeśin II of Mahārāṣṭra, who ascended the throne in 610 A. D., and was living in 639 A. D., a grant is recorded of a village near Igatpuri in the Nasik District for the worship of the god Kāpāleśvara i. e., the lord of the wearers of garlands of skulls, and for the maintenance of the Mahāvratins residing in the temple. It will hereafter be shown that the name Mahāvratin, or observer of the grent vow designated the Kāpālikas or Kālāmukhas. Thus there. is evidence of the existence in the middle of the seventh centuryof the sect of Kāpālikas in [Mahārāṣṭra](# "JBBRAS, Vol. XIV, p. 26,").
+ In the copper-plate charter of Nāgavardhana, nephew of Pulakeśin II of Mahārāṣṭra, who ascended the throne in 610 A. D., and was living in 639 A. D., a grant is recorded of a village near Igatpuri in the Nasik District for the worship of the god Kāpāleśvara i. e., the lord of the wearers of garlands of skulls, and for the maintenance of the Mahāvratins residing in the temple. It will hereafter be shown that the name Mahāvratin, or observer of the grent vow designated the Kāpālikas or Kālāmukhas. Thus there. is evidence of the existence in the middle of the seventh centuryof the sect of Kāpālikas in Mahārāṣṭra[^78].
+
+[^78]: "JBBRAS, Vol. XIV, p. 26,"
 
  In the Karhad grant of Kṛṣṇa III of the Rāṣtrakūṭadynasty, the king mentions his having granted in Śaka 880 (=958 A. D.), a village to Gaganaśiva, the practiser of great austerities, who was fully versed in all the Śivasiddhāntas and was the pupil of Īśānaśiva, who was an Ācārya, or preceptor, and the head of the establishment at Valkaleśvara in Karahāṭa. These holy men and their establishment seem to have belonged to the Śaiva sect and not to the Pāśupata. The evidence for the existence of Kālāmukha and Śaiva sects in Mysore, in the latter part of the twelfth century, will be given in the next section.
 
@@ -1889,9 +2045,23 @@ doctrines, contained in works not written by the followers of the systems except
 
  Śaṁkara says that the Māheśvaras maintain that Paśupati has revealed five topics (Br. S. II. 2. 37). Thus the sects were. known by the general name of Māheśvara, and Paśupati, or the god Śiva, was believed to be their founder. Rāmānuja under the same Sūtra, which, however, is numbered 35, speaks of the systems as the tenets of Paśupati. Keśava Kāśmīrin calls the sects the followers of the "tenets of Paśupati." Śrīkaṇṭha-Śivācārya calls them the "believers in the Āgamas revealed by Parameśvara, or the great god". The name Māheśvara is the old name as is evident from the fact that Wema-Kadphises, as noticed above, and several later princes, especially of the Valabhīdynasty, called. themselves Māheśvaras. Hiuen Tsiang, too, as we have seen, mentions temples of Maheśvara, at which the Pāśupatas worshipped. It also follows that all these sects were at the same time known by the name of Pāśupata sects; and the founder of them all was believed to be the god Paśupati.
 
- The same conclusion is to be deduced from the Mysore Inscriptions that have been published, the only difference being that the original teacher is called Lakulin or Lakulīśa. In one Inscription dated 943 A. D., referred to above, it is stated that Lakulīśa, being afraid that his name and doctrines would be forgotten, became incarnate as Muninātha [Cilluks](# "Ep. Carn. Vol. XII, p. 92 (Translation)."). This appears to be a general name applicable to all systems. In another dated 1078 A. D. one ascetic is called an ornament to the Lākula school and another is spoken of as ["a hand to Lākula"](# "Ep. Carn. Vol. VII, Sikarpur Taluq No. 107."). This appears to be the general name and does not point to a specific sect. In a third dated 1103 A. D. Someśvara-Sūri ist spoken of as having caused the Lākula doctrine (Siddhānts) to bloom. He is called a Naiyãyikaand [Vaīśeṣika](# "Ep. Carn. Vol. VIII. Pt. I, p.64, (Translation)."). This shows
+ The same conclusion is to be deduced from the Mysore Inscriptions that have been published, the only difference being that the original teacher is called Lakulin or Lakulīśa. In one Inscription dated 943 A. D., referred to above, it is stated that Lakulīśa, being afraid that his name and doctrines would be forgotten, became incarnate as Muninātha Cilluks[^79]."). This appears to be a general name applicable to all systems. In another dated 1078 A. D. one ascetic is called an ornament to the Lākula school and another is spoken of as "a hand to Lākula"[^80]. This appears to be the general name and does not point to a specific sect. In a third dated 1103 A. D. Someśvara-Sūri ist spoken of as having caused the Lākula doctrine (Siddhānts) to bloom. He is called a Naiyãyikaand Vaīśeṣika[^81]."). This shows
 
-that he belonged to the specific Pāśupata seot. In a fourth dated 1177 A. D. certain ascetics are called upholders of the Lākulāgamasamaya, i. e., the system based upon a work of Lākulin, and adherents of [Kālāmukhas](# "Ep. Carn. Vol. V, Pt. I. p. 135 (Translation).").Here evidently the Kālāmukhas are called Lākulas, which is the same as Pāśupatas. The names of the ascetics mentioned in this Inscription end in the word śakti and jīya, which appear to be characteristic of the Kālāmukha sect. In a fifth dated 1183 A. D. is noticed a grant to Nāgaśiva-Paṇḍita, who is called an upholder of the Lākula system, and the names of his preceptors in the two preceding generations end in the suffix śiva. Nagaśiva is praised for emipence in Āgama and in Śivatattva³. From the ending suffix śiva in these names and the mention of a proficiency in Āgama and in Śivatattva, it appears that Nāgaśiva was a follower of the Śaiva school and at the same time he was a Lākula, or Pāśupata. A sixth dated 1199 A. D. notices a grant of land to Bammadeva, son of Nāgarāsi, the promoter of the system based upon the work. of [Lākulin](# "Ep. Carn. Vol. V. Arsikere Taluq No. 103."). The sufflx rāśi is found in a great many names of the devotees of Śiva. Whether it is a characteristic of a specific sect is not clear, but it appears that the bearers of it belong to the Pāśupata, or the Kālāmukha school. In a seventh dated 1213 A. D. a certain religious man is represented as the upholder of the system known by the name of Vāgi-Lākula, i. e. the systemof the learned [Lākulin](# "Ep. Carn. Vol. V, Arsikere Taluq No. 46."). In an eighth dated 1285 A. D. the grantor is called a supporter of the new system of [Lākulin](# "Ep. Carn. Vol. XII, p. 45 (Translation)."). This perhaps refers to the later school of Lingāyatas.
+[^79]: "Ep. Carn. Vol. XII, p. 92 (Translation
+
+[^80]: "Ep. Carn. Vol. VII, Sikarpur Taluq No. 107."
+
+[^81]: "Ep. Carn. Vol. VIII. Pt. I, p.64, (Translation
+
+that he belonged to the specific Pāśupata seot. In a fourth dated 1177 A. D. certain ascetics are called upholders of the Lākulāgamasamaya, i. e., the system based upon a work of Lākulin, and adherents of Kālāmukhas[^82].").Here evidently the Kālāmukhas are called Lākulas, which is the same as Pāśupatas. The names of the ascetics mentioned in this Inscription end in the word śakti and jīya, which appear to be characteristic of the Kālāmukha sect. In a fifth dated 1183 A. D. is noticed a grant to Nāgaśiva-Paṇḍita, who is called an upholder of the Lākula system, and the names of his preceptors in the two preceding generations end in the suffix śiva. Nagaśiva is praised for emipence in Āgama and in Śivatattva³. From the ending suffix śiva in these names and the mention of a proficiency in Āgama and in Śivatattva, it appears that Nāgaśiva was a follower of the Śaiva school and at the same time he was a Lākula, or Pāśupata. A sixth dated 1199 A. D. notices a grant of land to Bammadeva, son of Nāgarāsi, the promoter of the system based upon the work. of Lākulin[^83]. The sufflx rāśi is found in a great many names of the devotees of Śiva. Whether it is a characteristic of a specific sect is not clear, but it appears that the bearers of it belong to the Pāśupata, or the Kālāmukha school. In a seventh dated 1213 A. D. a certain religious man is represented as the upholder of the system known by the name of Vāgi-Lākula, i. e. the systemof the learned Lākulin[^84]. In an eighth dated 1285 A. D. the grantor is called a supporter of the new system of Lākulin[^85]."). This perhaps refers to the later school of Lingāyatas.
+
+[^82]: "Ep. Carn. Vol. V, Pt. I. p. 135 (Translation
+
+[^83]: "Ep. Carn. Vol. V. Arsikere Taluq No. 103."
+
+[^84]: "Ep. Carn. Vol. V, Arsikere Taluq No. 46."
+
+[^85]: "Ep. Carn. Vol. XII, p. 45 (Translation
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1899,7 +2069,9 @@ that he belonged to the specific Pāśupata seot. In a fourth dated 1177 A. D. c
 
  Thus it will be seen that Lākula was the general name by which the Śaiva sects were called, and the specific name Kālāmukha is associated with the general name in one case. This general name has for its basis the historical fact, noticed above, that a person of the name of Lākulin or Lakulīsafounded a Śaiva system corresponding to the Pāñcarātra system, which the Vāyuand Liṅga Purāṇas consider to be contemporaneous with it. The other general name Pāśupata arose by dropping the name of the human individual Lākulin and substituting that of the god Pāśupati, whose incarnation he was believed to be, as is done in the texts of the MBh. quoted above. But that the Śaiva system had a human founder is confirmed by the fact that the name of his work, the Pañcādhyāyī, or Pañcārthavidyā, has been handed down, as will be shown immediately below, and probably the work is extant, even if it has not yet been discovered, as Mādhava mentions a gloss on the perpetual commentary (Bhāṣya) on it, which also will be noticed below.The conclusion therefore appears to be that a certain historical person was the founder of the main Śaiva system which was the same as that explained by Mādhava as Nakulīśa-Pāśupata, and that three other systems arose out of it in later times.
 
- The commentators of Śaṁkara state that there were four of these schools bearing the names of Śaiva, Pāśupata, Kārukasiddhāntin and Kāpālika. Vācaspati, however, calls the third. Kāruṇikasiddhāntin. Rāmānuja and Keśava Kāśmīrin mention the same four schools, but call Kāruṇikasiddhāntin by the name of Kālāmukha. The word Kāruka is probably a corruption of Kāuruṣya, the name of the third of the four (according to the Purāṇas) pupils of Lakuliśa, or this last name may be the Sanskritised form of the original [Kāruka](# "These four schools are mentioned in the Vayaviyasambit of the Siva- Purina (II. 24, 177). The Śaiva school, however, is called Siddhāntamärga and the Kālāmuklas are called Mahāvratadharas."). A work of the name of
+ The commentators of Śaṁkara state that there were four of these schools bearing the names of Śaiva, Pāśupata, Kārukasiddhāntin and Kāpālika. Vācaspati, however, calls the third. Kāruṇikasiddhāntin. Rāmānuja and Keśava Kāśmīrin mention the same four schools, but call Kāruṇikasiddhāntin by the name of Kālāmukha. The word Kāruka is probably a corruption of Kāuruṣya, the name of the third of the four (according to the Purāṇas) pupils of Lakuliśa, or this last name may be the Sanskritised form of the original Kāruka[^86]. The Śaiva school, however, is called Siddhāntamärga and the Kālāmuklas are called Mahāvratadharas."). A work of the name of
+
+[^86]: "These four schools are mentioned in the Vayaviyasambit of the Siva- Purina (II. 24, 177
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1947,19 +2119,27 @@ aberrant or irregular people. This character did impress itself on the mode of w
 
  § 93. There are three principles: (1) the lord (Pati), (2) the individual soul (Paśu), and (3) fetters (Pāśa); and the whole system has four Pādas, or parts, which are knowledge (Vidyā), action (Kriyā), meditation ( Yoga), and conduct, or discipline (Caryā). The first part contains an explanation of the nature. of the individual soul (Paśu), fetters (Pāśa), and god (Īśvara), and determines the importance of formulas (Mantra) and the lord presiding over the formulas (Mantreśvara). This leads to initiation (Dikṣā), which is necessary for the acquisition of the highest object of life. The second part contains an explanation of the process of initiation (Dīkṣāvidhi ), which is of many forms and has many parts. The third part explains meditation, or concentration, along with its subsidiary processes.The fourth teaches discipline, or conduct, consisting in doing what is prescribed and avoiding what is proscribed. Without this Yoga is not possible.
 
- I. Now the lord (Pati) is Śiva. Śiva acts, being impelled. thereto by the deeds (Karman) of souls, and produces things to be enjoyed or suffered and their means. The exercise of his He does! creative power thus depends on the Karman of man. everything; therefore, he is omniscient. God has not a body like that of an individual soul which has the fetters of taint and Karman, etc.; but he has a body made up of powers, certain specific five formulas ([Mantras](# "These five formulas, or Mantras, are contained in the TA. (X. 13-47) and In the Mahämäräynolya Up. 17. The commentator considers these to refer to the five facos of Śiva, respectively. They are Badyojita, Vāmadeva, Aghora, Tasparuṣa and Īśāna. They are also called forms of ŚivaOne of the Dānas, or charitable gifts, mentioned by Hemādri (DānakhaṇḍaVol. I, pp. 789-798 Bibl. Ind.) consists of üve images made of gold or other motal fashioned in a particular manner of these five forms of Śiva. In giving each a certain verse bas to be repeated. These five forms are Ident fed in a Śaiva treatise with the earth, water, fire, wind an d ather, respectively, and they are considered as the creators of these elements la another, viz., Virn-Śaiva-Cintamani, Sholapur 1908 A. D.")) being imagined to be thedifferent parts of his body. These five are his powers and are also considered his different forms, and by these he does the five actions. which are creation, existence or protection, destruction, concealment, and benefaction. The following four partake of the nature. of Śiva: (1) formulas (Mantras), (2) the deity presiding over the formulas (Mantreśvara), (3) the great god (Maheśvara), and (4) delivered souls (Mukta).
+ I. Now the lord (Pati) is Śiva. Śiva acts, being impelled. thereto by the deeds (Karman) of souls, and produces things to be enjoyed or suffered and their means. The exercise of his He does! creative power thus depends on the Karman of man. everything; therefore, he is omniscient. God has not a body like that of an individual soul which has the fetters of taint and Karman, etc.; but he has a body made up of powers, certain specific five formulas (Mantras[^87] and In the Mahämäräynolya Up. 17. The commentator considers these to refer to the five facos of Śiva, respectively. They are Badyojita, Vāmadeva, Aghora, Tasparuṣa and Īśāna. They are also called forms of ŚivaOne of the Dānas, or charitable gifts, mentioned by Hemādri (DānakhaṇḍaVol. I, pp. 789-798 Bibl. Ind.) consists of üve images made of gold or other motal fashioned in a particular manner of these five forms of Śiva. In giving each a certain verse bas to be repeated. These five forms are Ident fed in a Śaiva treatise with the earth, water, fire, wind an d ather, respectively, and they are considered as the creators of these elements la another, viz., Virn-Śaiva-Cintamani, Sholapur 1908 A. D.")) being imagined to be thedifferent parts of his body. These five are his powers and are also considered his different forms, and by these he does the five actions. which are creation, existence or protection, destruction, concealment, and benefaction. The following four partake of the nature. of Śiva: (1) formulas (Mantras), (2) the deity presiding over the formulas (Mantreśvara), (3) the great god (Maheśvara), and (4) delivered souls (Mukta).
+
+[^87]: "These five formulas, or Mantras, are contained in the TA. (X. 13-47
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.These five formulas, or Mantras, are contained in the TA. (X. 43-47) and In the Mahānārāyaṇīya Up. 17. The commentator considers these to refer to the five faces of Śiva, respectively. They are Sadyojāta, Vāmadeva, Aghora, Tasparuṣa and Īśāna. They are also called forms of Śiva One of the Dānas, or charitable gifts, mentioned by Hemādri (Dānakhaṇḍa Vol. I, pp. 789-798 Bibl. Ind.) consists of five images made of gold or other motal fashioned in a particular manner of these five forms of Śiva. In giving each a certain verse bas to be repeated. These five forms are Ident fed in a Śaiva treatise with the earth, water, fire, wind an d ather, respectively, and they are considered as the creators of these elements la another, viz., Vīra-Śaiva-Cintāmani, Sholapur 1908 A. D.
 
- II. The Paśu is the individual soul, who is atomic and known.by the name of Kṣetrajña (self-conscious) and others. It is eternal and all-pervading. It is not incapable of action nor is it one only, as is maintained by other schools of philosophy. When the fetters are removed, he becomes Śiva, possessing eternal and -boundless knowledge and power of action. The Muktas, or delivered ones, are Śivas, who have so become by the favour of him who is eternally Mukta, and is a person with five formulas. (Mantras ) for his body, i. e. he is identified with the god Śiva himself. Though they become Śivas, they are not independent. but depend upon the eternal god, Śiva. Paśu is of three kinds: (1) Vijñānākala, who has shaken off his connection with all the organs ([Kalāḥ](# "1. See previous section.")) in consequence of the destruction of the impression of deeds done, by means of knowledge, meditation, asceticism, or by the enjoyment or suffering of the fruit (Bhoga), and has simple taint (Mala). The second is Pralayākala, whose organs are destroyed by the dissolution of the world. He has both impression of deeds (Karman) and taints (Mala). The third is Śakala, who has all the three fetters, taint (Mala), impression of deeds. (Karman), and material cause (Māyā). Vijñanākala is of two kinds (1) one whose taint (Kaluṣa) has ended, and (2) another whoso taint (Kaluṣa) has not ended. The first are those, who, their taint (Kaluṣa) having ended, are elevated to the position of Vidyeśvaras. The Vidyeśvaras are eight and are as follows: (1) Ananta, or endless, (2) atomic, (3) the most excellent Śiva, (4)
+ II. The Paśu is the individual soul, who is atomic and known.by the name of Kṣetrajña (self-conscious) and others. It is eternal and all-pervading. It is not incapable of action nor is it one only, as is maintained by other schools of philosophy. When the fetters are removed, he becomes Śiva, possessing eternal and -boundless knowledge and power of action. The Muktas, or delivered ones, are Śivas, who have so become by the favour of him who is eternally Mukta, and is a person with five formulas. (Mantras ) for his body, i. e. he is identified with the god Śiva himself. Though they become Śivas, they are not independent. but depend upon the eternal god, Śiva. Paśu is of three kinds: (1) Vijñānākala, who has shaken off his connection with all the organs (Kalāḥ[^88]) in consequence of the destruction of the impression of deeds done, by means of knowledge, meditation, asceticism, or by the enjoyment or suffering of the fruit (Bhoga), and has simple taint (Mala). The second is Pralayākala, whose organs are destroyed by the dissolution of the world. He has both impression of deeds (Karman) and taints (Mala). The third is Śakala, who has all the three fetters, taint (Mala), impression of deeds. (Karman), and material cause (Māyā). Vijñanākala is of two kinds (1) one whose taint (Kaluṣa) has ended, and (2) another whoso taint (Kaluṣa) has not ended. The first are those, who, their taint (Kaluṣa) having ended, are elevated to the position of Vidyeśvaras. The Vidyeśvaras are eight and are as follows: (1) Ananta, or endless, (2) atomic, (3) the most excellent Śiva, (4)
+
+[^88]: "1. See previous section."
 
 the one-eyed. (5) the one Rudra, (6) he with the three forms, (7) Śrīkaṇṭha, and (6) Śikhaṇḍin. Another author says that Śiva invests the Samāptakaluṣa (one whose taint has ended) with Vidyeśatva, which is of eight kinds, and the Asamāptakaluṣa (one whose taint has not onded) he raises to the dignity of fomulas. (Mantras) which are seven crores. Pralayākala is also of two kinds. The first is one whose two fetters have matured (and about to be shaken off), and the second is different from him. The first attains Mokṣa, and the second, entangled with Puryaṣṭaka, undergoes many births in accordance with his impressisn of deeds. (Karman). The Puryaṣṭaka is a subtle body, wich is composed of elements which are variously enumerated. Of those who have the Puryaṣṭaka, some, who are virtuous, are raised to Bhuvanapatitva by Maheśvara Ananta. Sakala is also of two kinds: (1) one whose taint (kaluṣa) is matured, and (2) one whose taint (kaluṣa) is not matured. The first is raised to the dignity of Mantreśvara of 118 Mantras, i. e of so many kinds. Parameśvara, assuming the form of his preceptor by the process of initiation. and the use of power calculated to counteract the matured taint, confers Mokṣa. Those Aṇus or atomio souls, whose taint has not ripened (i. e. is not in a condition to be wiped away), are made to suffer or enjoy in accordance with their Karman.
 
- III. Pāśa (fetter) is of four kinds: (1) Mala, or taint (2) Karman, or the impression of deeds, (3) Māyā, or material cause, and (4) Rodhaśakti, or obstructive power. Mala, or tsint, is that which conceals the knowing and acting power of the soul and is like the husk enveloping a grain of rice. Karman is the impression of deeds done for the attainment of fruit. It is righteous or un- righteous. It is unbeginning, ever continuing in succesion in the manner of seed and its sprout. Māyāis that into which the whole creation resolves itself at the time of dissolution and from which it springs out at the time of recreation. The obstructive power is the power of Siva which, because it regulates the three other fetters and conceals the true nature of the soul, is itself called a fetter. It performs its function, because it is the principle. of speech by means of which names are given to things and thus. their nature is [determined](# "Śambhudeva s Saivasiddhāntadīpikā, Sholupar 1909,").
+ III. Pāśa (fetter) is of four kinds: (1) Mala, or taint (2) Karman, or the impression of deeds, (3) Māyā, or material cause, and (4) Rodhaśakti, or obstructive power. Mala, or tsint, is that which conceals the knowing and acting power of the soul and is like the husk enveloping a grain of rice. Karman is the impression of deeds done for the attainment of fruit. It is righteous or un- righteous. It is unbeginning, ever continuing in succesion in the manner of seed and its sprout. Māyāis that into which the whole creation resolves itself at the time of dissolution and from which it springs out at the time of recreation. The obstructive power is the power of Siva which, because it regulates the three other fetters and conceals the true nature of the soul, is itself called a fetter. It performs its function, because it is the principle. of speech by means of which names are given to things and thus. their nature is determined[^89].
 
- § 94. This constitutes the first part of the system (Vidyāpāda), the nature of the other three parts has been succinetly given above. A few details are [these](# "From the same work."): The second part (Kriyapāda) treats of the accomplishment of Mantra, the twilight adorations, worship, muttering of formulas (Japa), throwing oblations into the fire, acossional ceremonies for the attainment of eternal bliss, anointing of the preceptor and of the person ontering on a course of action for final emancipation (Sādhaka), and one's own initiatory ceremonies necessary to fit one for a wordly and for an eternal life. In the third, or the Yoga part are mentioned the thirty-six principles; the deities presiding over them; the lords of the different worlds; the individual soul; the all-ruling soul, the power (Śakti); the direct perception of Māyāand Mahāmāyā, which are the causes of the world; the attainment of the miraculous powers, minuteness, lightness, eto. for those who concern themselves with the worldly element; the methods of the restraint. of the breath, abstraction, meditation, concentration, and absorption in thought (Samādhi); and the positions of the circles in the body beginning with the root-circle (Mūlādhara, or navel). The fourth part treats of penances, a purificatory ceremony (Pavitrāropaṇa), the foundation, and the natures of Śivaliṅga, of the visible Liṅga of Umā and Maheśvara, and of the lord of Gaṇas, or groups, such as Skanda and Nandin, of the rosary used for the muttering of formulas, and the funeral Śrāddhas. This last part appears to contain matters subsidiary to, and explanatory of, the actions enjoined in the second part. The proscribed actions mentioned above are: (1) the eating of the residue of what is offered to another deity; (2) the vilification of (a) Śiva, (b) of the devotees of Śiva, (c) of the system of Śiva and (d) of the practices enjoined. in the Śaiva system; (3) the enjoyment of things belonging to God; (4) the killing of animals.
+[^89]: "Śambhudeva s Saivasiddhāntadīpikā, Sholupar 1909,"
+
+ § 94. This constitutes the first part of the system (Vidyāpāda), the nature of the other three parts has been succinetly given above. A few details are these[^90]: The second part (Kriyapāda) treats of the accomplishment of Mantra, the twilight adorations, worship, muttering of formulas (Japa), throwing oblations into the fire, acossional ceremonies for the attainment of eternal bliss, anointing of the preceptor and of the person ontering on a course of action for final emancipation (Sādhaka), and one's own initiatory ceremonies necessary to fit one for a wordly and for an eternal life. In the third, or the Yoga part are mentioned the thirty-six principles; the deities presiding over them; the lords of the different worlds; the individual soul; the all-ruling soul, the power (Śakti); the direct perception of Māyāand Mahāmāyā, which are the causes of the world; the attainment of the miraculous powers, minuteness, lightness, eto. for those who concern themselves with the worldly element; the methods of the restraint. of the breath, abstraction, meditation, concentration, and absorption in thought (Samādhi); and the positions of the circles in the body beginning with the root-circle (Mūlādhara, or navel). The fourth part treats of penances, a purificatory ceremony (Pavitrāropaṇa), the foundation, and the natures of Śivaliṅga, of the visible Liṅga of Umā and Maheśvara, and of the lord of Gaṇas, or groups, such as Skanda and Nandin, of the rosary used for the muttering of formulas, and the funeral Śrāddhas. This last part appears to contain matters subsidiary to, and explanatory of, the actions enjoined in the second part. The proscribed actions mentioned above are: (1) the eating of the residue of what is offered to another deity; (2) the vilification of (a) Śiva, (b) of the devotees of Śiva, (c) of the system of Śiva and (d) of the practices enjoined. in the Śaiva system; (3) the enjoyment of things belonging to God; (4) the killing of animals.
+
+[^90]: "From the same work."
 
  § 95.The doctrines of the Śaiva school are more moderate and rational than those of the Pāśupāta school. This last, as well as the two extreme schools to be mentioned next, are called Atimārgika, or schools that are away from the path or go astray, and are spoken of by Śaṁbhudeva, quoted in the above paragraph, as revealed by Rudra. The Śaiva schools he calls the Siddhāntaśāstra, or the true
 
@@ -1993,7 +2173,9 @@ sacred books. They also maintain that people of other castes.become Brāhmaṇas
 
 to Vasugupta by Śiva himself or by a Siddha, or perfected humanbeing. They were inscribed on a rock on the Mahādeva hill, andVasugupta was directed to the rock by Śiva. Another account isthat they were revealed by the god in a dream, and another accountstill further confers the credit of the revelation on the prefectedhuman being. These two last occurrences are said to have taken.place on the Mahādeva hill. As to the second work, there arealso varying traditions, one ascribing the authorship of the versesto Vasugupta and another to Kallaṭa. A third tradition, however,that Kallaṭa obtained the knowledge of the system from Vasugupta and composed the Spandakārikās for the instruction of hispupils seems to contain the truth¹. What the meaning of theroundabout tradition about the Śivasūtras which do not ascribetheir authorship to Vasugupta directly is, it is difficult to say;perhaps the original work was the Spandakārikās and the proseŚivasūtras were composed in later times in the older or moreorthodox form, and as Vasugupta was probably too near the time.when they were composed and as what he did was known to all,& miraculous origin was given to the new Sūtras and Vasuguptawas represented to have received them from others and not composed them himself.
 
- $ 98. Kallaṭa lived in the reign of [Avantivarman](# "Buhler, Report of a Tour made in Kashmir, p 78."), 854 A. D.,wherefore his Guru's literary activity must be referred to the beginning of the ninth century. The followers of this school boldlydeny the necessity of God's having a prompting cause, such asKarman, or a material cause, like the Pradhāns, for the creation ofthe world. Neitherdo they admit that he is himself the materialcause, as the Vedāntasūtras maintain, nor do they think thatsome principle of illusion, such as Māyā, generates appearanceswhich are false. God is sccording to them independent andcreates merely by the force of his will all that comes into existence. He makes the world appear in himself, as if it were distinct from himself, though not so really, as houses or even townsappear in a mirror, and is as unaffected by it as the mirror is by
+ $ 98. Kallaṭa lived in the reign of Avantivarman[^91], 854 A. D.,wherefore his Guru's literary activity must be referred to the beginning of the ninth century. The followers of this school boldlydeny the necessity of God's having a prompting cause, such asKarman, or a material cause, like the Pradhāns, for the creation ofthe world. Neitherdo they admit that he is himself the materialcause, as the Vedāntasūtras maintain, nor do they think thatsome principle of illusion, such as Māyā, generates appearanceswhich are false. God is sccording to them independent andcreates merely by the force of his will all that comes into existence. He makes the world appear in himself, as if it were distinct from himself, though not so really, as houses or even townsappear in a mirror, and is as unaffected by it as the mirror is by
+
+[^91]: "Buhler, Report of a Tour made in Kashmir, p 78."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -2015,9 +2197,15 @@ the images reflected in it. Neither does he exist only as realisedin the world, 
 
  Without speech the ideas which render a worldly life possiblecannot stand, or assume a shape or form, and therefore theprinciple of speech is believed to be the origin of the Mala, or impurity, which leads to a worldly life. This power is associatedwith others which are personalised as Ambā, Jyeṣṭha, Raudrī,Vāmā¹.
 
- The impurity vanishes when by means of intense contemplation the vision of the highest being breaks in upon the mind ofthe devotee and absorbs all finite thought. When this conditionbecomes stable, the individual soul is free and becomes thesupreme soul. The breaking in of the vision is called Bhairava,because it is his and is caused by [him](# "Śivasūtravimarśinī; I. 5.").
+ The impurity vanishes when by means of intense contemplation the vision of the highest being breaks in upon the mind ofthe devotee and absorbs all finite thought. When this conditionbecomes stable, the individual soul is free and becomes thesupreme soul. The breaking in of the vision is called Bhairava,because it is his and is caused by him[^92].
 
- §99. The founder of the Pratyabhijñāschool of KāśmīraŚaivism was Somānanda, the work written by whom is calledŚivadṛṣṭi. But the principal treatise of the school was composedby his pupil Udayākara, and contains verses which are calledSūtras. On these Sūtras there are glosses and detailed explanations by Abhinavagupta, the pupil of the pupil of [Somananda](# "Bitbler, Report of a Tour made in Kasmir; extract from Nos. 465-66, p. OLX.").Abhinavagupta wrote between 993 and 1015 [A. D](# "1bid. pp. 81-82.")., whereforeSomānanda must be taken to have lived in the first quarter of thetenth century.
+[^92]: "Śivasūtravimarśinī; I. 5."
+
+ §99. The founder of the Pratyabhijñāschool of KāśmīraŚaivism was Somānanda, the work written by whom is calledŚivadṛṣṭi. But the principal treatise of the school was composedby his pupil Udayākara, and contains verses which are calledSūtras. On these Sūtras there are glosses and detailed explanations by Abhinavagupta, the pupil of the pupil of Somananda[^93].Abhinavagupta wrote between 993 and 1015 A. D[^94]., whereforeSomānanda must be taken to have lived in the first quarter of thetenth century.
+
+[^93]: "Bitbler, Report of a Tour made in Kasmir; extract from Nos. 465-66, p. OLX."
+
+[^94]: "1bid. pp. 81-82."
 
  The doctrines of the creation of the world and of the relationsbetween the individual and supreme souls set forth by thisschool are the same as those maintained by the preceding one.But the way of the perception of the identity is recognition.according to this system. There is an Upanṣiad text⁵, fromwhich it follows that every thing shines when He shines and
 
@@ -2071,11 +2259,23 @@ Basava, who was the son of Mādirāja, a Brāhmaṇa supposed to be of the Ārā
 
 1\. For the Liṅgāyat account see the translation of the Basavapurāṇa Journ.B. B. B. A. S. Vol. VIII, or the Basavapurāṇa itself, printed at Poons, andfor the latter see Wilson's Mackenzie Mss.
 
-choose a Guru, or preceptor, it is necessary to place four metallicvessols full of water at the four cardinal points and one in themiddle. This last belongs to the person to be consecrated as Guruor preceptor, who is supposed to represent an old Ācārya, orteacher, of the name of Viśvarādhya, and the other four to fourother priests chosen as having been brought up in the schools ofRevaṇasiddha, Marulasiddha, Ekorāma and Paṇḍitārādhya andconnected with certain Maṭhas, or [establishments](# "Vivekacintāmaṇi Pūrvabhāga, Sholapur 1909 A. D. pp. 230 ff."). The same.list is given in another [treatise](# "Vīraśaivācārapradīpikā, Poona 1905 A. D., pp. 33-37."). These five vessels. are consocrated to the five faces or forms of Śiva, Sadyojāta, otc, mentioned in a former [section](# "P. 177. note 1."). The Ācāryas, or teachers, named aboveare believed to have sprung from the five forms of Śiva in thisKali [age](# "Pañcācāryapañcamotpattiprakaraṇa, Bombay 1903 A. D. p. 1."). Others bearing other names, born in other ages of theworld, are also mentioned, but with these we have nothing to doOf these five teachers three at least are mentioned as having preceded Basavs in the passage quoted at the beginning of thissection.
+choose a Guru, or preceptor, it is necessary to place four metallicvessols full of water at the four cardinal points and one in themiddle. This last belongs to the person to be consecrated as Guruor preceptor, who is supposed to represent an old Ācārya, orteacher, of the name of Viśvarādhya, and the other four to fourother priests chosen as having been brought up in the schools ofRevaṇasiddha, Marulasiddha, Ekorāma and Paṇḍitārādhya andconnected with certain Maṭhas, or establishments[^95]. The same.list is given in another treatise[^96]. These five vessels. are consocrated to the five faces or forms of Śiva, Sadyojāta, otc, mentioned in a former section[^97]. The Ācāryas, or teachers, named aboveare believed to have sprung from the five forms of Śiva in thisKali age[^98]. Others bearing other names, born in other ages of theworld, are also mentioned, but with these we have nothing to doOf these five teachers three at least are mentioned as having preceded Basavs in the passage quoted at the beginning of thissection.
 
- It will thus appear that the Vīraśaiva, or Liṅgāyat, systemcame into existence before Basava. It is affiliated to the moderateor sober school of Śaivas known by the name of Śaivadarśana, orSiddhāntadarśana as it is called by its followers; and especiallyto the later form of it alluded to [before](# "§ 95."). But its technical terms,Sthala, Aṅga, Liṅga, etc. and its ideas are entirely different fromthose of that school as explained by Mādhava and others. Andthese terms we do not meet with elsewhere, so that thismodern school. When it originated, it is difficult to say. But it was clearly in a militant condition in the time of Basava. Itmust, therefore, have originated about a hundred years before.The names of two at least of the five teachers as given above endin the word arä
+[^95]: "Vivekacintāmaṇi Pūrvabhāga, Sholapur 1909 A. D. pp. 230 ff."
 
-dhya, while in other books all the five have thatepithet attached to their [names](# "Pañcācāryapañcamotpattiprakaraṇa p. 35."). This was the name of a sectallied to the Liṅgāyats.
+[^96]: "Vīraśaivācārapradīpikā, Poona 1905 A. D., pp. 33-37."
+
+[^97]: "P. 177. note 1."
+
+[^98]: "Pañcācāryapañcamotpattiprakaraṇa, Bombay 1903 A. D. p. 1."
+
+ It will thus appear that the Vīraśaiva, or Liṅgāyat, systemcame into existence before Basava. It is affiliated to the moderateor sober school of Śaivas known by the name of Śaivadarśana, orSiddhāntadarśana as it is called by its followers; and especiallyto the later form of it alluded to before[^99]. But its technical terms,Sthala, Aṅga, Liṅga, etc. and its ideas are entirely different fromthose of that school as explained by Mādhava and others. Andthese terms we do not meet with elsewhere, so that thismodern school. When it originated, it is difficult to say. But it was clearly in a militant condition in the time of Basava. Itmust, therefore, have originated about a hundred years before.The names of two at least of the five teachers as given above endin the word arä
+
+[^99]: "§ 95."
+
+dhya, while in other books all the five have thatepithet attached to their names[^100]. This was the name of a sectallied to the Liṅgāyats.
+
+[^100]: "Pañcācāryapañcamotpattiprakaraṇa p. 35."
 
  Of the five Ācāryas represented by the five metallic vessels,Mr. Brown¹ does not mention the middle one and calls all the otherfour Ārādhyas, so that all the five preceptors honoured at the timeof initiation and other ceremonies belong to the Ārādhya sect,which, according to Mr. Brown, was a sect of the Vīraśaiva creed.There has been a good deal of ill-feeling between the Ārādhyasand the ordinary Liṅgāyats, and that appears to be due to theretention by the former of some Brāhmaṇic rites, such as repeating the holy Gāyatrīmantra and wearing the sacred thread. Butthe very name Ārādhya, which means one to be adored or worshipped, shows that, before the contention between the two sects.arose the Ārādhyas enjoyed very great respect.
 
@@ -2117,7 +2317,11 @@ iva. In thisrespect also it resembles Rāmānuja's system.
 
 1.The above is an abstract of the matter contained in the Anubhavasūtra of Mayideva, Sholapur, 1909,
 
- § 104. The highest class of Liṅgāyats is composed of those whocall themselves Liṅgi-Brāhmaṇas, the other castes or classes whowear the Liṅgabeing simply their followers. The Liṅgi-Brāhmaṇas consist of two main classes, the Ācāryasand the Pañcamas.The legendary account given of these is as follows. The Ācāryaswere originally five in number and sprang from the five faces,Sadyojāta, etc., of Śiva spoken of in a former [section](# "Ante. p. 177nl [N. B. U.]"). They arethe same as those mentioned above as having a metallic vesselplaced in their names on the occasion of any holy ceremony.From these five have sprung up all the priestly classes nowexisting. These five had five Gotras, viz. Vīra, Nandin, Vṛṣabha,Bhṛṅgin, and Skanda, who were originally persons almost as highas Śive himself. From the Īśāna face of Śiva sprang a Gaṇeśvara(leader of a group), who had five faces. From these five faces.sprang five Pañcamas, known by the names of Makhāri, Kālāri,Purāri, Smarāri, and Vedāri, which, the reader will remember,were the names of Śiva himself given to him on account of certaindeeds done by him. From these arose others who are called.Upapañcamas. Each Pañcama has to connect himself with oneof the five Ācāryas as his Guru. The Gotra of the Guru is hisGotra, and there can be no marriage relation between the members of the same Gotra. These Pañcamas have got Gotra, Pravarsand Śākhāof their own, and the Liṅgāyats thus seem to havecopied the Brṅhmanic system. The Pañicamas are spoken of asthe true devotees of [Śiva](# "Pañcācāryapañcamotpattiparakaraṇa.").
+ § 104. The highest class of Liṅgāyats is composed of those whocall themselves Liṅgi-Brāhmaṇas, the other castes or classes whowear the Liṅgabeing simply their followers. The Liṅgi-Brāhmaṇas consist of two main classes, the Ācāryasand the Pañcamas.The legendary account given of these is as follows. The Ācāryaswere originally five in number and sprang from the five faces,Sadyojāta, etc., of Śiva spoken of in a former section[^101]. They arethe same as those mentioned above as having a metallic vesselplaced in their names on the occasion of any holy ceremony.From these five have sprung up all the priestly classes nowexisting. These five had five Gotras, viz. Vīra, Nandin, Vṛṣabha,Bhṛṅgin, and Skanda, who were originally persons almost as highas Śive himself. From the Īśāna face of Śiva sprang a Gaṇeśvara(leader of a group), who had five faces. From these five faces.sprang five Pañcamas, known by the names of Makhāri, Kālāri,Purāri, Smarāri, and Vedāri, which, the reader will remember,were the names of Śiva himself given to him on account of certaindeeds done by him. From these arose others who are called.Upapañcamas. Each Pañcama has to connect himself with oneof the five Ācāryas as his Guru. The Gotra of the Guru is hisGotra, and there can be no marriage relation between the members of the same Gotra. These Pañcamas have got Gotra, Pravarsand Śākhāof their own, and the Liṅgāyats thus seem to havecopied the Brṅhmanic system. The Pañicamas are spoken of asthe true devotees of Śiva[^102].
+
+[^101]: "Ante. p. 177nl [N. B. U.]"
+
+[^102]: "Pañcācāryapañcamotpattiparakaraṇa."
 
  According to the ordinary acccunt the true Liṅgāyats aredivided into four classes: (1) Jaṅgamas, or priests, (2) Śīlavants,
 
@@ -2155,7 +2359,11 @@ The head monk of the Chitaldrug convent alladed to above was on avisitation to P
 
  The most highly honoured of all these writers is Tiruñānasambandha. He was a Brāhmaṇa by birth, and the poeticfaculty was developed in him very early in life. His hymns arefull of the purest devotional feeling and are melodious. Thetunes in which they were originally sung were Draviḍian, butin later times northern melodies with northern names came to beused. Sambandha's image is set up for worship in every Śaivaltemple, and he is adored by Tamil poets and philosophers in thebeginning of their works. He was a great enemy of Buddhistsand Jainas; and every tenth stanza of his Padigams, or hymns,contains an imprécation against them. On one occasion, he wasinvited by the queen of Kuni Pāṇdya of Madhurā, where he helda disputation with the Buddhists or Jainas, which ended in theconversion of the king to the Saiva faith¹.
 
- In an Inscription in the Rājarājeśvara temple at Tanjore theking Rājarājadeva, after whom the temple was named, makes adaily allowance for the support of the reciters or singers of theTiruppadiyam or the Padigams of Tiruñānasambandba, beforethe twenty-ninth year of his reign². The date of Rājarāja'saccession to the throne has been determined by the mention of alunar eclipse in one of his inscriptions to be 984-5 [A. D](# "Ind. Ant., Vo . XXIII, p. 297."). Thisis consistent with the fact mentioned in another [Inscription](# "South-Ind. Inscrs., Vol. II, p. 2.") thathe conquered Satyāśraya, who was the immediate successor ofTailapa, the founder of the later Cālukya dynasty of Mahārāṣṭra,and died in Śaka 930, or 1008 A. D. Thus before the twenty-ninthyear of Rājarāja, i. e. before 1013 A. D., the Padigams of Sambandha had come to be looked upon as so sacred that the recitation or singing of them was considered an act of religious meritlike the repetition of the Śatarudriya by the followers of theBrāhmaṇic Veda. This character the hymns of Sambandhacould not have acquired unless they had come into existenceabout four hundred years before the beginning of the eleventhcentury. This is consistent with the conclusion arrived at byMr. Pillai that Sambandha flourished in the seventh century.
+ In an Inscription in the Rājarājeśvara temple at Tanjore theking Rājarājadeva, after whom the temple was named, makes adaily allowance for the support of the reciters or singers of theTiruppadiyam or the Padigams of Tiruñānasambandba, beforethe twenty-ninth year of his reign². The date of Rājarāja'saccession to the throne has been determined by the mention of alunar eclipse in one of his inscriptions to be 984-5 A. D[^103]. Thisis consistent with the fact mentioned in another Inscription[^104] thathe conquered Satyāśraya, who was the immediate successor ofTailapa, the founder of the later Cālukya dynasty of Mahārāṣṭra,and died in Śaka 930, or 1008 A. D. Thus before the twenty-ninthyear of Rājarāja, i. e. before 1013 A. D., the Padigams of Sambandha had come to be looked upon as so sacred that the recitation or singing of them was considered an act of religious meritlike the repetition of the Śatarudriya by the followers of theBrāhmaṇic Veda. This character the hymns of Sambandhacould not have acquired unless they had come into existenceabout four hundred years before the beginning of the eleventhcentury. This is consistent with the conclusion arrived at byMr. Pillai that Sambandha flourished in the seventh century.
+
+[^103]: "Ind. Ant., Vo . XXIII, p. 297."
+
+[^104]: "South-Ind. Inscrs., Vol. II, p. 2."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -2163,7 +2371,9 @@ The head monk of the Chitaldrug convent alladed to above was on avisitation to P
 
 2.South-Indian Inscriptions ed. by E. Hultzsch, Vol. I. p. 252, No. 65.
 
- The Inscriptions in the temples at Kāñcipura contain evidenceof Śaivism being in a flourishing condition in the sixth century.The Pallava king Rājasiṁha constructed a temple, and the godinside was named after him Rājasiṁheśvara. Rājasiṁha appears.from some of the Inscriptions to have been a contemporary of theearly Cālukya prince Pulakeśin [I](# "South-Ind. Insers.. Vol. I, p. 11."), who may be referred toabout the year 550 A. D., as his son Kīrtivarman I, came to thethrone about the year 567 A. D.².
+ The Inscriptions in the temples at Kāñcipura contain evidenceof Śaivism being in a flourishing condition in the sixth century.The Pallava king Rājasiṁha constructed a temple, and the godinside was named after him Rājasiṁheśvara. Rājasiṁha appears.from some of the Inscriptions to have been a contemporary of theearly Cālukya prince Pulakeśin I[^105], who may be referred toabout the year 550 A. D., as his son Kīrtivarman I, came to thethrone about the year 567 A. D.².
+
+[^105]: "South-Ind. Insers.. Vol. I, p. 11."
 
  The Śaivism that prevailed in the Tamil country seems tohave been generally of the ordinary kind, since the hymns in theDevāram sing the praises of Śiva and exhibit forvent devotionalfeeling, but there must have been some Darśana or system ofphilosophy also, since in an Inscription in the Rājasiṁheśvaratemple at Kāñci Atyantakāma, which was another name of Rājasiṁha, is represented as proficient in the system of the Śaivasiddhāntas. And the last species of the Śaiva Iterature detailedabove is, it will have been seen, called Siddhāntaśāstra composedby Santāna-Ācāryas. These must be philosophical works onŚaivism. And the system therein taught appears in all likelihoodto be the same or similar to the Śaivadarśana, which has alreadybeen explained. But what exactly the system taught by theSiddhāntas was, we have not the means of finding out, as none ofthe works is available for examination.
 
@@ -2193,7 +2403,9 @@ names are derived, are called her excellent forms (Vibhūtis).At the end, the go
 
 creating, illuding, etc. were conceived of as goddesses as thenoun Śakti is of the feminine gender. The seven goddessesnamed above, Brāhmī, Maheśvarī, eto. owe their origin to thisconception of Śakti and the powers of the seven gods. In latertimes some of the Brāhmaṇic families came to have tutelarygoddesses, and thus we have Kātyayānī, or the goddess of theKātyas, and Kauśikī, the goddess of the Kauśikas. A furtherdevelopment went on especially under the influence of the idea ofŚakti, or power, and thus we have three forms in which thegoddess was worshipped. First we have the ordinary bland.form, in which the goddess is worshipped. Then we have thefierce form, in which she is associated with the schools ofKāpālikas and Kālāmukhas, and animals and human beings aresacrificed. And the third is the sensual form, in which she isthe object of worship with the school of the Sāktas, who are socalled because they are worshippers of Śakti.
 
- § 110. The Tantras inculcating the worship of the goddess inthese various forms, constitute a considerable body of literature.We will here notice the formation, doctrines and practices of aschool based on one of these forms, that which we have calledsensual. The goddess here is called Ānandabhairavī, Tripurasundarī, and Lalitā. Her dwelling is thus described. There isan ocean of nectar, in which there are five celestial trees. Thenthere is a row or enclosure of Nīpa or Kadamba trees, in themidst of which is a pavilion made of jewel stones. In thatpavilion is situated a palace made of the wish-giving stone,where lies the great Īśānī, the great Tripurasundarī, on a couch,which is Śiva, with Maheśana for its coverlet and Sadaśiva forits pillow. The legs of the couch are Brahmadeva, Hari, Rudraand Īśvara. These are spirits discharging certain functions contsined in the essence of Maheśvara¹. This is a mythologicalexplanation of certain figures in the mystic cirles and of technical terms. The goddess is thus elevated to the highest position.Ānandabhairava or Mahābhairava, which is the name given toŚiva, is the soul of, or is composed of, the nine collections ofthings of which the world is made up, such as time and itsvarious forms (Kālavyūha), existing things like the blue substance (Kulavyūha), names (Nāmavyūha), perception (Jñāvyūha), the five faculties, viz. consciousness, heart, will, intelligence, and mind (Cittavyūha). Mahābhairava is the soul of thegoddess; therefore she also is the soul of, or composed of, thenine collections. Buth, therefore, constitute one entity. Whenthere is Sāmarasya, or community of joy or intonse love betweenthem, creation follows. The female olement, or Mahābhairavī,however, is predominant in the process of creation and the maleelement, or Mahābhairava, in the work of [destruction](# "Ibid. v. 34.").
+ § 110. The Tantras inculcating the worship of the goddess inthese various forms, constitute a considerable body of literature.We will here notice the formation, doctrines and practices of aschool based on one of these forms, that which we have calledsensual. The goddess here is called Ānandabhairavī, Tripurasundarī, and Lalitā. Her dwelling is thus described. There isan ocean of nectar, in which there are five celestial trees. Thenthere is a row or enclosure of Nīpa or Kadamba trees, in themidst of which is a pavilion made of jewel stones. In thatpavilion is situated a palace made of the wish-giving stone,where lies the great Īśānī, the great Tripurasundarī, on a couch,which is Śiva, with Maheśana for its coverlet and Sadaśiva forits pillow. The legs of the couch are Brahmadeva, Hari, Rudraand Īśvara. These are spirits discharging certain functions contsined in the essence of Maheśvara¹. This is a mythologicalexplanation of certain figures in the mystic cirles and of technical terms. The goddess is thus elevated to the highest position.Ānandabhairava or Mahābhairava, which is the name given toŚiva, is the soul of, or is composed of, the nine collections ofthings of which the world is made up, such as time and itsvarious forms (Kālavyūha), existing things like the blue substance (Kulavyūha), names (Nāmavyūha), perception (Jñāvyūha), the five faculties, viz. consciousness, heart, will, intelligence, and mind (Cittavyūha). Mahābhairava is the soul of thegoddess; therefore she also is the soul of, or composed of, thenine collections. Buth, therefore, constitute one entity. Whenthere is Sāmarasya, or community of joy or intonse love betweenthem, creation follows. The female olement, or Mahābhairavī,however, is predominant in the process of creation and the maleelement, or Mahābhairava, in the work of destruction[^106].
+
+[^106]: "Ibid. v. 34."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -2209,9 +2421,15 @@ creating, illuding, etc. were conceived of as goddesses as thenoun Śakti is of 
 
 followers of the Śakti school justify their appellation by thebelief that God is a woman and it ought to be the aim of all tobecome a woman.
 
- Tripurasundarīis propitiated and eventually attained byassuming the vow (Dīksā) of a devoted worship of her. Thisvow is of three kinds. The first consists in fully concentratingthe mind on the Devī as sitting on the lap of Siva in the Mahāpadmavana (a garden of lotuses), as possessed of a body whichis pure joy and is the original cause of all, and as identical withone's own self. The second is the Cakrapūjā, the worship bymeans of the mystic circles, which is a Bāhyayāga, or materialworship and the third consists in studying and knowing thetrue doctrine. The second is the proper Śakti ceremonial. Itconsists in the worship of a picture of the female organ drawnin the centre of another consisting of a representation of ninesuch organs, the whole of which forms the Śrīcakra The picturesare drawn on a Bhūrja leaf or a piece of silken cloth or on a gold.[leaf](# "Saundaryalaharīv. 41, commentary."). With reference to this worship it must be observed thatthere are two classes of Śāktas: (1) Kaulika and (2) Samayin.The former worship the gross material object, while the latterhave a recourse to imagery. The worship of the pictures justmentioned is resorted to by ancient (Pūrva) Kaulas, while themodern (Uttara) Kaulas worship the organ of a living beautifulwoman. The Kaulas worship their goddess by offering to her,and themselves using, wine, flesh, honey (Madhu ), fish and suchother things. Tke Samayins, of course, abstain from suchpractices. There are even Brāhmaṇas, who secretly profess thedoctrines of the Sakta school and worship the goddess Tripurasundarīin accordance with the Pūrva-Kaula or Uttara-Kaula.way. There are no distinctions of caste when the worship of theBhairavīcakra is going on. Men of all castes become Brāhmaṇas,but they resume their own castes when the worship is [over](# "Aufrecht s Oxf. Cat. p. 92, n.").There are several more innocent and decorous modes of worshipping the goddess under the names of Lalits and Upāṅgalalitāmentioned in the ordinary religious books. The worshipof the latter comes off on the fifth lunar day of Āśvina and of
+ Tripurasundarīis propitiated and eventually attained byassuming the vow (Dīksā) of a devoted worship of her. Thisvow is of three kinds. The first consists in fully concentratingthe mind on the Devī as sitting on the lap of Siva in the Mahāpadmavana (a garden of lotuses), as possessed of a body whichis pure joy and is the original cause of all, and as identical withone's own self. The second is the Cakrapūjā, the worship bymeans of the mystic circles, which is a Bāhyayāga, or materialworship and the third consists in studying and knowing thetrue doctrine. The second is the proper Śakti ceremonial. Itconsists in the worship of a picture of the female organ drawnin the centre of another consisting of a representation of ninesuch organs, the whole of which forms the Śrīcakra The picturesare drawn on a Bhūrja leaf or a piece of silken cloth or on a gold.leaf[^107]. With reference to this worship it must be observed thatthere are two classes of Śāktas: (1) Kaulika and (2) Samayin.The former worship the gross material object, while the latterhave a recourse to imagery. The worship of the pictures justmentioned is resorted to by ancient (Pūrva) Kaulas, while themodern (Uttara) Kaulas worship the organ of a living beautifulwoman. The Kaulas worship their goddess by offering to her,and themselves using, wine, flesh, honey (Madhu ), fish and suchother things. Tke Samayins, of course, abstain from suchpractices. There are even Brāhmaṇas, who secretly profess thedoctrines of the Sakta school and worship the goddess Tripurasundarīin accordance with the Pūrva-Kaula or Uttara-Kaula.way. There are no distinctions of caste when the worship of theBhairavīcakra is going on. Men of all castes become Brāhmaṇas,but they resume their own castes when the worship is over[^108].There are several more innocent and decorous modes of worshipping the goddess under the names of Lalits and Upāṅgalalitāmentioned in the ordinary religious books. The worshipof the latter comes off on the fifth lunar day of Āśvina and of
 
-the former for the first ten days. The latter, when so worshippedby women, wards off [widowhood](# "See Hemādri Vratakhaṇḍa.").
+[^107]: "Saundaryalaharīv. 41, commentary."
+
+[^108]: "Aufrecht s Oxf. Cat. p. 92, n."
+
+the former for the first ten days. The latter, when so worshippedby women, wards off widowhood[^109].
+
+[^109]: "See Hemādri Vratakhaṇḍa."
 
 **XIV. The Sect of Gāṇapatyas.**
 
@@ -2225,7 +2443,9 @@ After bathing oblations of mustard oil extracted afresh should beoffered to the 
 
  The form of the ceremony contained in the Sūtra is unquestionably more ancient than that contained in the other work.But the difference between the two shows that during the periodthat had elapsed between the composition of the Sūtra and that ofthe Smṛti, the four Vināyakas had become one Gaṇapati-Vināyaka,having Ambikāfor his mother. It will thus be seen that, in hisown nature, this last god is an unfriendly or malignant spirit,but capable of being made friendly and benignant by propitiatoryrites. In this respect, he resembles Rudra himself. That theVināyakas had come to be objects of faith before the Christianera, may be taken to follow from the occurrence of the ceremonymentioned above in a Gṛhyasūtra. But the one Gaṇapati-Vināyaka, the son of Ambikā, was introduced into the Hindu pantheonmuch later.
 
- None of the Gupta Inscriptions which I subjected to anexamination on a former occasion¹ contains any mention of hisname or announces any gift or benefaction in his honour. Butin two of the caves at Ellora, there are groups of images of Kāla, Kālī, the Seven Mothers or Śaktis, and Gaṇapati². These cavesare to be referred to the latter part of the eighth century. So thatbetween the end of the fifth and the end of the eighth centurythe Gaṇapati cult must have come into practice, and the Smṛtiof Yajñavalkya. must have been written not earlier than thesixth century. Another Inscription, and an old relic, whichindicate the prevalence of the worship of Gaṇapati, are found ata place called Ghaṭiyālā, 22 miles north-west of Jodhpur. Thereis a column there, on the top of which there are four images ofGaṇapati facing the four quarters. In the opening sentence ofthe Inscription engraved on it, an obeisance is made to Vināyaka.The date of the inscription is Vikrama-Saṁvat 918 = A. D. [862](# "Ep. Ind. Vol. IX. pp. 277ff.").
+ None of the Gupta Inscriptions which I subjected to anexamination on a former occasion¹ contains any mention of hisname or announces any gift or benefaction in his honour. Butin two of the caves at Ellora, there are groups of images of Kāla, Kālī, the Seven Mothers or Śaktis, and Gaṇapati². These cavesare to be referred to the latter part of the eighth century. So thatbetween the end of the fifth and the end of the eighth centurythe Gaṇapati cult must have come into practice, and the Smṛtiof Yajñavalkya. must have been written not earlier than thesixth century. Another Inscription, and an old relic, whichindicate the prevalence of the worship of Gaṇapati, are found ata place called Ghaṭiyālā, 22 miles north-west of Jodhpur. Thereis a column there, on the top of which there are four images ofGaṇapati facing the four quarters. In the opening sentence ofthe Inscription engraved on it, an obeisance is made to Vināyaka.The date of the inscription is Vikrama-Saṁvat 918 = A. D. 862[^110].
+
+[^110]: "Ep. Ind. Vol. IX. pp. 277ff."
 
  When and how the god came to have the elephant's head, it isdifficult to determine. The images in the cave-temples at Ellorahave that head, and Bhavabhūti also in the beginning of theeighth century describes him, in the opening stanza of theMālatīmādhava, as possessed of such a head. Rudra-Śiva andthe gods allied with him were connected closely with forests andwild places, in which elephants also were found. The hide wornby Rudra and by his consort also in one of her forms was thehide of an elephant, and it perhaps suited the fancy of some mento place the head of that animal over the body of a god originallymischievous. Gaṇapati's reputation for wisdom is, I believe, tobe attributed to the confusion between him and Bṛhaspati, whoin ṚV. II. 23. 1 is called Gaṇapati. Bṛhaspati, of course, is theVedic god of wisdom, and is called the sage of sages.
 
@@ -2247,9 +2467,15 @@ After bathing oblations of mustard oil extracted afresh should beoffered to the 
 
 **XV. Skanda or Kārttikeya.**
 
-** **§ 113. Another god whose worship was extensively practisedin ancient times, but is now rare, is Skanda or Kārttikeya. Thegeneral belief is that he was the son of Śiva and Pārvatī. Butin the Rāmāyaṇa he is represented as the son of the god of fireand Gaṅgā(I. chap 37). The foetus was thrown by Gaṅgāon the Himavat mountain, and it was nourished by the sixstars constituting the constellation of Kṛttikā (Pleiades), andwas thus called the son of the Kritikās or Kārttikeya. Inthe MBh. (Vanaparvan, chap. 229) also he is represented as theson of Fire, but the mother was Agni's true wife Svāhā, who hadassumed the forms of the wives of six Ṛṣis, whom Agni loved.But here he is called the son of Śiva also, as Agni is a form ofthat god. There are other stories connecting him with Śiva andPārvatī as his parents. But whatever the legend may have beenthere is no question that he was connected with Śiva, and wasthe leader of one of his Gaṇas. There is a Liṅgāyat traditionreported in the section on that [sect](# "[Ante, p. 196 N. B. U.]")that he was a founder of a
+** **§ 113. Another god whose worship was extensively practisedin ancient times, but is now rare, is Skanda or Kārttikeya. Thegeneral belief is that he was the son of Śiva and Pārvatī. Butin the Rāmāyaṇa he is represented as the son of the god of fireand Gaṅgā(I. chap 37). The foetus was thrown by Gaṅgāon the Himavat mountain, and it was nourished by the sixstars constituting the constellation of Kṛttikā (Pleiades), andwas thus called the son of the Kritikās or Kārttikeya. Inthe MBh. (Vanaparvan, chap. 229) also he is represented as theson of Fire, but the mother was Agni's true wife Svāhā, who hadassumed the forms of the wives of six Ṛṣis, whom Agni loved.But here he is called the son of Śiva also, as Agni is a form ofthat god. There are other stories connecting him with Śiva andPārvatī as his parents. But whatever the legend may have beenthere is no question that he was connected with Śiva, and wasthe leader of one of his Gaṇas. There is a Liṅgāyat traditionreported in the section on that sect[^111]that he was a founder of a
 
-Gotra, and was a form of Śiva himself. His having the peacockfor his vehicle is also consistent with his connection with Śiva,as peacocks are found in forests of which Rudra and hisattendants were gods. His being the leader of the army of the gods was an idea probably suggested by his being the leader of aGaṇa of Rudra. And in historical times he has been associatedwith Śiva. Under P. V. 3. 99, Patañjali mentions the images ofŚiva, Skanda and Viśakha as being worshipped in his time. Onthe reverse of the coins of the Kuṣana prince Kaniṣka, there arefigures with their names in Greek letters of Skando, Mahaseno,Komaro and [Bizago](# "See JBBRAS, Vol. XX, p. 385.").The first is Skanda, and because he wasthe commander of the army of the gods, he was also called.The third isMahāsena, which is the second name on the coin.Kumāra, which is also a name of Skanda, and the fourth is theSkr. Viśākha. If the first three were the names of one deity only,there was no necessity for giving three names and three figures.These, therefore, must have been regarded as three different godsas Viśākha undoubtedly was from his being mentioned separatelyfrom Skanda by Patañjali. In the story in the MBh. referred toabove Viśākha is mentioned as having arisen from the right sideof Skanda when it was struck by Indra's thunderbolt. This isindicative of the tendency to make the two as one person; andthey appear to have been so made in later times. Or, looking tothe fact that there are two names of Buddha on the coins, the above three may have been the names of one single deity. There arealso three indications of the prevalence of the worship of Skandaor Māhasena in the early centuries. In the year 414 A. D. wasbuilt a Pratolt, or gallery, in the temple of Svāmi-Mahāsena byone Dhruvaśarman at [Bilsād](# "Ib.p. 395."). Several holy observances and vows in the name of Kumāra and Kārttikeya are mentioned inHemādri's Vratakhaṇḍa, and the worship of that god has notbecome obsolete even at the present day.
+[^111]: "[Ante, p. 196 N. B. U.]"
+
+Gotra, and was a form of Śiva himself. His having the peacockfor his vehicle is also consistent with his connection with Śiva,as peacocks are found in forests of which Rudra and hisattendants were gods. His being the leader of the army of the gods was an idea probably suggested by his being the leader of aGaṇa of Rudra. And in historical times he has been associatedwith Śiva. Under P. V. 3. 99, Patañjali mentions the images ofŚiva, Skanda and Viśakha as being worshipped in his time. Onthe reverse of the coins of the Kuṣana prince Kaniṣka, there arefigures with their names in Greek letters of Skando, Mahaseno,Komaro and Bizago[^112].The first is Skanda, and because he wasthe commander of the army of the gods, he was also called.The third isMahāsena, which is the second name on the coin.Kumāra, which is also a name of Skanda, and the fourth is theSkr. Viśākha. If the first three were the names of one deity only,there was no necessity for giving three names and three figures.These, therefore, must have been regarded as three different godsas Viśākha undoubtedly was from his being mentioned separatelyfrom Skanda by Patañjali. In the story in the MBh. referred toabove Viśākha is mentioned as having arisen from the right sideof Skanda when it was struck by Indra's thunderbolt. This isindicative of the tendency to make the two as one person; andthey appear to have been so made in later times. Or, looking tothe fact that there are two names of Buddha on the coins, the above three may have been the names of one single deity. There arealso three indications of the prevalence of the worship of Skandaor Māhasena in the early centuries. In the year 414 A. D. wasbuilt a Pratolt, or gallery, in the temple of Svāmi-Mahāsena byone Dhruvaśarman at Bilsād[^113]. Several holy observances and vows in the name of Kumāra and Kārttikeya are mentioned inHemādri's Vratakhaṇḍa, and the worship of that god has notbecome obsolete even at the present day.
+
+[^112]: "See JBBRAS, Vol. XX, p. 385."
+
+[^113]: "Ib.p. 395."
 
 **XVI. The Sect of Sauras and the Northern Sun-Worship.**
 
@@ -2257,7 +2483,9 @@ Gotra, and was a form of Śiva himself. His having the peacockfor his vehicle is
 
 but reasonable to expect that the worship of such a deity shouldnot become obsolete in later times, since the orb of the sun isdaily seen in the sky. In two passages in ṚV. (VII. 60. 1; 62.2)the singer wishes the rising sun to declare him sinless to Mitra,Varuṇa, and other gods. This idea probably arose from the factthat the rising sun by his bright light discloses everything thathas been done in the darkness of the previous night, and thenceit developed into a belief that the sun destroys sins. Kauṣītakiis represented to have adored the sun in the morning, at midday,and in the evening, and having made offerings of water withflowers, sandal, etc. or without (Arghya), prayed for the removalof his sins (KBU. II. 7). And this is what we do or are expectedto do in our twilight and midday adorations.
 
- Water is sipped by repenting a formula expressive of a wishthat the Sun, Manyu and Manyupati may protect the adorer fromsins (AG. Pariśiṣṭa I. 3, and TA. X. 25. 1). After that, three offeringsof water with or without the other ingredients are made to the sunafter repeating the Gāyatrī, and then the water is whirled roundhis head by the adorer by repeating the Mantra "That Āditya is[Brahman](# "Asāv ādityo Brahma.")" Āśvalāyana directs that, while adoring the morningtwilight, one facing the east should repeat the Gāyatrī-Mantratill the whole disc of the sun has risen, and in the evening withhis face towards the west till the whole has gone down and thestars have begun to appear (AG. III. 7. 4—6).
+ Water is sipped by repenting a formula expressive of a wishthat the Sun, Manyu and Manyupati may protect the adorer fromsins (AG. Pariśiṣṭa I. 3, and TA. X. 25. 1). After that, three offeringsof water with or without the other ingredients are made to the sunafter repeating the Gāyatrī, and then the water is whirled roundhis head by the adorer by repeating the Mantra "That Āditya isBrahman[^114]" Āśvalāyana directs that, while adoring the morningtwilight, one facing the east should repeat the Gāyatrī-Mantratill the whole disc of the sun has risen, and in the evening withhis face towards the west till the whole has gone down and thestars have begun to appear (AG. III. 7. 4—6).
+
+[^114]: "Asāv ādityo Brahma."
 
  In the Upanayana ceremony, when the boy is invested withthe sacred thread and other badges of a student's life, he is madeto look at the orb of the sun, when the preceptor, addressing thatdeity, prays "Oh god Savitar, this is thy student, protect him.May he not die " (AG. I. 20. 6). Khādira prescribes the adoration of the sun for the enjoyment of riches and for the attainmentof fame (Khādiragṛhyasūtra IV. 1. 14 and 23). The hymnaddressed by Yudhiṣṭhira to the sun after he entered his forestresidence, and his having obtained a vessel from him for theproduction of all the food wanted by him, his family andfollowers, are well-known.
 
@@ -2277,9 +2505,13 @@ vehicle, to Śākadvīpa, brought some Magas from it and installedthem into the 
 
  The Magas have long been known in the literary history ofIndia. There is an Inscription at Govindapur in the GayāDistrict duted Śaka 1059, corresponding to 1137-38 A. D., in theopening stanza of which the Magas, who sprang from the sun,are represented to have been brought into the country by Sāmba.Six great poets, the works of some of whom are extant, are alsomentioned. There are traces of the Magas elsewhere, and there.Are Brāhmaṇas of that name in Rajputana and some otherprovinces of Northern India.
 
- Now these Magas are the Magi of ancient Persia, and thename Jaraśasta mentioned above as occurring in the Bhaviṣyapurāṇaconnects them with the Avesta prophet Zarathushtra.The Avyaṅga, which according to the Purans they wore roundtheir waist, was the same as the Aivyāonghen of the Avestalanguage, which last signifies the Kusti worn by the Parsees atthe present day. Albērūnī, speaking of the Persian priestsMagians, says that they existed in India and were called [Magas](# "Sachau s Translation, Vol. I, p. 21.").The idea of locating them on a continent called Śākadvīpamusthave arisen from the fact that they were foreigners like theŚakas, with whom the Indians had been familiar since thesecond or third century before the Christian era.
+ Now these Magas are the Magi of ancient Persia, and thename Jaraśasta mentioned above as occurring in the Bhaviṣyapurāṇaconnects them with the Avesta prophet Zarathushtra.The Avyaṅga, which according to the Purans they wore roundtheir waist, was the same as the Aivyāonghen of the Avestalanguage, which last signifies the Kusti worn by the Parsees atthe present day. Albērūnī, speaking of the Persian priestsMagians, says that they existed in India and were called Magas[^115].The idea of locating them on a continent called Śākadvīpamusthave arisen from the fact that they were foreigners like theŚakas, with whom the Indians had been familiar since thesecond or third century before the Christian era.
 
- Evidently then the worship of the sun or Mihira-worship wasbrought into India by the old Persian priests Magi, but at whoseinstance and under what circumstances they came it is difficultto say. The legendary tradition of their having been brought bySāmba was current in the first half of the twelfth century, as wehave seen from the Inscription. The temple on the Candrabhāgāreferred to above was that which existed at Multan, and a glowingdescription of which is given by the Chinese traveller HiuenTsiang. Four centuries later it was seen by [Albērūnī](# "Ibid, Vol. I, p. 116."). Itexisted till the seventeenth century, when it was finally destroyedby Auranzeb. Multan is the same as the Sanskrit Mūlasthāna,and this name may have been given to the place, because the
+[^115]: "Sachau s Translation, Vol. I, p. 21."
+
+ Evidently then the worship of the sun or Mihira-worship wasbrought into India by the old Persian priests Magi, but at whoseinstance and under what circumstances they came it is difficultto say. The legendary tradition of their having been brought bySāmba was current in the first half of the twelfth century, as wehave seen from the Inscription. The temple on the Candrabhāgāreferred to above was that which existed at Multan, and a glowingdescription of which is given by the Chinese traveller HiuenTsiang. Four centuries later it was seen by Albērūnī[^116]. Itexisted till the seventeenth century, when it was finally destroyedby Auranzeb. Multan is the same as the Sanskrit Mūlasthāna,and this name may have been given to the place, because the
+
+[^116]: "Ibid, Vol. I, p. 116."
 
 new worship of the sun was first organised there and it was itsoriginal seat.
 
@@ -2287,13 +2519,17 @@ new worship of the sun was first organised there and it was itsoriginal seat.
 
  An Inscription at Mandasaur records the construction of atemple to the sun in the year 437 A. D. by a guild of weavers, andits repair in the year 473 A. D. Another on a copperplate foundat Indore in the Bulandsbahar District in the United Provincesmentions an endowment of Devaviṣṇu in 464 A. D. for lightinga lamp in a temple of the sun. And in a third is recorded agrant in 511 A. D. to a temple of Āditya, or the sun. A greatmany more sun temples have been discovered especially inWestern India from Multan down to Cutch and northern Gujarat¹.The ruins of one exist at Moḍherā, eighteen miles to the south ofPāṭaṇ in the last-named province, and they contain the dateVikrama 1083 corresponding to 1027 A. D. There was anotherat Gwalior constructed in the time of Mihirakula, the HūṇaPrince, in the beginning of the sixth century.
 
- The form of the idol of the sun worshipped in such temples isdescribed by Varāhamihira (Bṛhatsaṁhitā, chap. 58), but thefeatures mentioned by him which have a significance for ourpresent purpose are that his feet and legs should be enclosed orcovered up to the knees and he should be dressed in the fashionprevalent in the North (v. 46), and that he should be encircledby an Avayṅga (v. 47). Accordingly the images of the sunthat are found in the temples mentioned above havebootsreaching up to the knees, and a girdle round the waist withone end hanging [downwards](# "Ibid., Plate LVI."). This last is a Persian feature,as we have already seen, and the other also must have the sameor similar origin. It certainly is not Indian. The features of the idol of the sun and the fact of Magas, who were descendedfrom the Persian Magi, being its priests point unmistakably tothe conclusion that the cult was introduced into Indis fromPersis, and I believe that the construction of so many templeswas also due to the foreign influence. For, in the account of theSaura systems we have given above, there is not the remotestallusion to a temple of the sun. According to all appearances,therefore, the cult prevalent in Northern India was entirelydistinct from those systems. It does not appear to have allieditself with any one of these latter. But it was accepted by themass of the Hindus as a general worship of the sun, and thefeelings which it evoked could not have been different from thosewhich the indigenous worship gave rise to. And the manner inwhich devotion to the sun is expressed in the Inscriptions whichwe find in some of the temples, has nothing special or foreign init. The Magas themselves, the priests of the new cult, weregradually thoroughly Hinduised until they became undistinguishable from the other Hindus and formed only a separatecaste.
+ The form of the idol of the sun worshipped in such temples isdescribed by Varāhamihira (Bṛhatsaṁhitā, chap. 58), but thefeatures mentioned by him which have a significance for ourpresent purpose are that his feet and legs should be enclosed orcovered up to the knees and he should be dressed in the fashionprevalent in the North (v. 46), and that he should be encircledby an Avayṅga (v. 47). Accordingly the images of the sunthat are found in the temples mentioned above havebootsreaching up to the knees, and a girdle round the waist withone end hanging downwards[^117]. This last is a Persian feature,as we have already seen, and the other also must have the sameor similar origin. It certainly is not Indian. The features of the idol of the sun and the fact of Magas, who were descendedfrom the Persian Magi, being its priests point unmistakably tothe conclusion that the cult was introduced into Indis fromPersis, and I believe that the construction of so many templeswas also due to the foreign influence. For, in the account of theSaura systems we have given above, there is not the remotestallusion to a temple of the sun. According to all appearances,therefore, the cult prevalent in Northern India was entirelydistinct from those systems. It does not appear to have allieditself with any one of these latter. But it was accepted by themass of the Hindus as a general worship of the sun, and thefeelings which it evoked could not have been different from thosewhich the indigenous worship gave rise to. And the manner inwhich devotion to the sun is expressed in the Inscriptions whichwe find in some of the temples, has nothing special or foreign init. The Magas themselves, the priests of the new cult, weregradually thoroughly Hinduised until they became undistinguishable from the other Hindus and formed only a separatecaste.
+
+[^117]: "Ibid., Plate LVI."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.Burgess, Architectural Antiquities of Northern Gujrat, London 1903.
 
- In the copper-plate grant of Harṣavardhana, who lived in themiddle of the seventh century, his father Prabhākarvardhana,his grandfather Ādityavardhana and his great-grandfather Rājyavardhana are all styled great devotees of the sun [(Paramādityabhakta)](# "Epigraphia Indica, Vol. I, pp. 72-73."). This is an evidence to show that the sun cult, probablymade up of a mixture of the indigenous and foreign forms,prevailed in the beginning of the sixth century and was professedby great princes.
+ In the copper-plate grant of Harṣavardhana, who lived in themiddle of the seventh century, his father Prabhākarvardhana,his grandfather Ādityavardhana and his great-grandfather Rājyavardhana are all styled great devotees of the sun (Paramādityabhakta)[^118]. This is an evidence to show that the sun cult, probablymade up of a mixture of the indigenous and foreign forms,prevailed in the beginning of the sixth century and was professedby great princes.
+
+[^118]: "Epigraphia Indica, Vol. I, pp. 72-73."
 
 **XVII. Résumé of Śaivism & Other Minor Systems, Part II.**
 
@@ -2330,7 +2566,9 @@ immanence and transcendency are not incompatible or inconsistent with each other
 
 
 
- But even this partial Pantheism is only one of the doctrinesset forth in the Upaniṣads. As mentioned in the beginning theycontain the rudiments not only of one system of religious philosophy, but of a good many and even of Buddhism.WhenBrahman or the Supreme Soul is affirmed to be distinct from theworld and thus there is a denial of the partial Pantheism I havespoken of, that soul is represented as dwelling in the externalworld and in the soul of man; that is to say. Theism is taughtwith the immanency of God in the world and in man. Forinstance in the [BU. III. 7. 7-30](# "Mādhyaṁdina recension.") we have first "He who dwelling.in the earth is distinct from it, whom the earth does not know,whose body the earth is, and who, being in the inside, controls theearth, is the indestructible controlling soul". In the followingpassages up to 30 we have precisely the same statement about water,
+ But even this partial Pantheism is only one of the doctrinesset forth in the Upaniṣads. As mentioned in the beginning theycontain the rudiments not only of one system of religious philosophy, but of a good many and even of Buddhism.WhenBrahman or the Supreme Soul is affirmed to be distinct from theworld and thus there is a denial of the partial Pantheism I havespoken of, that soul is represented as dwelling in the externalworld and in the soul of man; that is to say. Theism is taughtwith the immanency of God in the world and in man. Forinstance in the BU. III. 7. 7-30[^119] we have first "He who dwelling.in the earth is distinct from it, whom the earth does not know,whose body the earth is, and who, being in the inside, controls theearth, is the indestructible controlling soul". In the followingpassages up to 30 we have precisely the same statement about water,
+
+[^119]: "Mādhyaṁdina recension."
 
 fire, the sky, wind, the sun, the moon and stars, the quarters, thelightning, thunderbolt, all the worlds, all the Vedas, all 'sacrifices,all beings, the vital breath, speech, the eye, the ear, the mind, theskin, light, darkness, the seminal fluid, and the (individual) soul.Here the inward controlling soul is mentioned as distinct fromthe earth and all the rest, up to the individual soul, and still asdwelling in them, controlling them from the inside, and havingthese for his body. The whole section winds up with the affirmation that this controlling soul is not seen, but is the seer is notheard, but hears; is not apprehended by thought, but apprehendsby thought; is not known, but knows; there is no other seer, noother hearer, no other apprehender, and there is no other knower.Herein are brought out the peculiar points of Hindu Theism :God is the only seer, the only hearer, and the only knower, thatis, he is all-seeing, all-hearing, and all-knowing; and nobody cansee him, hear him, or know him. He is distinct from all objects,but dwells in them and controlls them. Texts expressive of suchan immanency are to be found in many places in the Upaniṣads.God being thus distinct from the world, though immanent, canbe the object of devoted meditation, and can be attained by meansof truth, knowledge and purity. Mere immanency of this naturedoes not at all constitute the Pantheism formulated by Spinoza.There is therefore no ground whatever for regarding as aninterpolation the occurrence of texts expressive of it in sucha theistic work as the Bhagavadgītā.
 
@@ -2342,7 +2580,9 @@ himself acknowledges at the end of his comment onII. 1. 14 that the author of th
 
  Śaṁkarācārya's Vivartavāda it was which the later schools ofVaiṣṇavism and Śaivism contended against; for even accordingto him, it leaves no scope for the relation of the ruler and theruled, i. e., God and the devotee, in the condition of reality whenall illusion is dispelled and one spirit alone exists (II. 1.14).Most of them adopted Bādarāyaṇa's Pariņāmavāda, but thedistinctness of God, man and the world, which was necessary forthe validity of their doctrines of worship and devotion, theysecured by qualifying the mode of development. By this qualification they also steered clear of the inconsistency pointed outby Bādarāyaṇa in II. 1. 26, so that his mode of satisfaction wasnot necessary for them. Rāmānuja lays down that the rudimentsof the individual souls and of the insensate world exist in Godhimself as his characteristics or body, and with these he developsinto the world, thus giving rise to the three distinct substances, the material world, the individual soul, and God as the controller.Nimbārka maintains that the other two substances do notcharacterise God or form his body, but are dependent upon himfor their existence, and in a subtle form constitute his power orcapacity, which develops into the animate and inanimate world.Viṣṇusvāmin, and therefore Vallabha, hold that the highest God,or Parabrahman, manifests himself as the material world, theindividual soul, and the supreme controller, but in the course ofdeve opent his attributes of intelligence and joy are concealeby his mysterious power, and thus is produced the materialworld, while, his joy alone being concealed, individual souls
 
-come into existence, and when the three are manifest or unconcealed, he becomes the supreme controller. Vallabha adds twoother forms of Parabrahman or Puruṣottama, as mentioned inthe [section](# "[ Ante, p. 112-N. B. U.]") on this system. Madhva rejects the doctrine ofGod being the constituent cause of the world and consequentlythat of his development, and lays down the five eternaldistinctions between God, man, and the world and betweendifferent individuals and objects involved in the last twoOf the older Śaiva schools, the Pāśupata brings in thePradhāna of the Sāṁkhyas with its developments as the materialcause of the world, with Paśupati as the efficient cause. ŚrīkaṇthaŚivācārya in his comment on Br. S. II. 2. 38, states that accordingto his predecessors, a certain branch of the philosophy based onthe sacred texts revealed by Śiva (Āgamas) held Śiva to be onlythe efficient cause of the world. This must be a reference to theŚaiva school which, as we have already stated, was a dualisticor pluralistic school. The Vāyavīyasaṁhitāaccording to himstates that Śakti, or power, first originates um Śiva, thenceMāyā, thence Avyakta (I. 7. 3). By Māyāis to be understoodthe wonderful creative power of Śiva, as is evident from thefollowing verse 4, and Avyakta means the Pradhāna, as appearsfrom that verse as well as verse 7. He gives another verse whichsets forth that everything from the Śakti to the earth is producedfrom the essence of Śiva, so that Śiva through the Śakti is boththe efficient and the constituent cause of the world. This Śaktiis brought in by those who hold creation to be the development ofŚiva, while it is not wanted for those Śaiva philosophers whowould keep the creative principle Maya or Pradhāna as distinctfrom Śive and undergoing independent development. Śrīkaṇthaexplains the expression Śiva alone existed' occurring in ŚU. IV.18, under 1. 4. 27, by 'Śiva, with whom the Śakti (the power) inthe form of the animate and the inanimate world was united,alone existed so as to form one entity', so that he here understands Śiva as possessed of the Śakti to be the constituent cause.In this respect his doctrine is similar to that of Nimbārka. Butimmediately afterwards he speaks of the Cit and the Acit formingthe body of Siva and thus puts forth the same theory as that
+come into existence, and when the three are manifest or unconcealed, he becomes the supreme controller. Vallabha adds twoother forms of Parabrahman or Puruṣottama, as mentioned inthe section[^120] on this system. Madhva rejects the doctrine ofGod being the constituent cause of the world and consequentlythat of his development, and lays down the five eternaldistinctions between God, man, and the world and betweendifferent individuals and objects involved in the last twoOf the older Śaiva schools, the Pāśupata brings in thePradhāna of the Sāṁkhyas with its developments as the materialcause of the world, with Paśupati as the efficient cause. ŚrīkaṇthaŚivācārya in his comment on Br. S. II. 2. 38, states that accordingto his predecessors, a certain branch of the philosophy based onthe sacred texts revealed by Śiva (Āgamas) held Śiva to be onlythe efficient cause of the world. This must be a reference to theŚaiva school which, as we have already stated, was a dualisticor pluralistic school. The Vāyavīyasaṁhitāaccording to himstates that Śakti, or power, first originates um Śiva, thenceMāyā, thence Avyakta (I. 7. 3). By Māyāis to be understoodthe wonderful creative power of Śiva, as is evident from thefollowing verse 4, and Avyakta means the Pradhāna, as appearsfrom that verse as well as verse 7. He gives another verse whichsets forth that everything from the Śakti to the earth is producedfrom the essence of Śiva, so that Śiva through the Śakti is boththe efficient and the constituent cause of the world. This Śaktiis brought in by those who hold creation to be the development ofŚiva, while it is not wanted for those Śaiva philosophers whowould keep the creative principle Maya or Pradhāna as distinctfrom Śive and undergoing independent development. Śrīkaṇthaexplains the expression Śiva alone existed' occurring in ŚU. IV.18, under 1. 4. 27, by 'Śiva, with whom the Śakti (the power) inthe form of the animate and the inanimate world was united,alone existed so as to form one entity', so that he here understands Śiva as possessed of the Śakti to be the constituent cause.In this respect his doctrine is similar to that of Nimbārka. Butimmediately afterwards he speaks of the Cit and the Acit formingthe body of Siva and thus puts forth the same theory as that
+
+[^120]: "[ Ante, p. 112-N. B. U.]"
 
 of Rāmānuja. Practically he makes no distinction between thetwo. The theory of the Liṅgāyats is the same as the first formof the theory set forth by Śrīkaṇṭha Śivācārya. Śiva as qualifiedby the Śakti is the creator, that is, is the efficient and the constituent cause of the world. The Kaśmīr Śaivism attributes theproduction of the world to the will of God without anymaterial cause, or affirms that God makes the world appear inhimself.
 
@@ -2470,9 +2710,11 @@ of it; though, however, the Paṇḍit has an excuse in the fact thatthe languag
 
 elaborate analysis of the language and contents of a Jaina religious work in Prakrit entitled the Bhagavatī, and of the languageof a collection of Prakrit songs by Hāla, together with an editionand translation of the work. Dr. Cowell has brought out a niceedition of the Prākṛta-Prakāśa by Vararuci; and Dr. Muir, whoseworks are so valuable to the student, devotes a large portion ofhis second volume of the
 
-" Sanskrit Texts" to Prakrit philology,in which he gives his own views and a summary of those of otherscholars. In Ceylon, Mr. D'Alwis has published a work on thePali, and in India, an edition of the Prakrit Grammar of Kramadīśvara has been published in the Bibliotheca Indics, and ofthat of Hemacandra in Bombay by a Jaina priest with theassistance of a Śāstrī¹. The modern vernaculars have not yetsucceeded in attracting the attention of the learned in Europe.Essays on some points of vernacular philology by ProfessorHoernle, of Jayanarayan's College, Benares, have appearedin the Journal of the Bengal Asiatic Society. But the mostimportant work on this subject that has yet appeared is Mr.Beames's Comparative Grammar of the Modern Aryan Languages. Two volumes have been published, and the thirdand last is [expected](# "Since published.")
+" Sanskrit Texts" to Prakrit philology,in which he gives his own views and a summary of those of otherscholars. In Ceylon, Mr. D'Alwis has published a work on thePali, and in India, an edition of the Prakrit Grammar of Kramadīśvara has been published in the Bibliotheca Indics, and ofthat of Hemacandra in Bombay by a Jaina priest with theassistance of a Śāstrī¹. The modern vernaculars have not yetsucceeded in attracting the attention of the learned in Europe.Essays on some points of vernacular philology by ProfessorHoernle, of Jayanarayan's College, Benares, have appearedin the Journal of the Bengal Asiatic Society. But the mostimportant work on this subject that has yet appeared is Mr.Beames's Comparative Grammar of the Modern Aryan Languages. Two volumes have been published, and the thirdand last is expected[^121]
 
 . Mr. Beames has brought his subjectdown to the pronoun; and the forthcoming volume will treatof the verb. Dr. Trump in his valuable Grammar of theSindhi language compares the grammatical forms existingin the several vernaculars, and recent grammarians of Gujarati and Marathi have made attempts in some cases to tracethe grammar of these languages from the Sanskrit throughthe Prakrit. A Gujarati Śāstrī, named Vrajalāl, has written auseful little tract on the history of his vernacular³
+
+[^121]: "Since published."
 
 . But uponthe whole, it must be acknowledged that vernacular philology isstill in a state of infancy, and a great deal of what has beenwritten is unsatisfactory.
 
@@ -3089,7 +3331,23 @@ dialectical variety of the nature of those we find in the differentversions of t
 
  The following is the Dhauli version collated with that atKhalsi and completed :—
 
- **अतिकंतं [अंतलं](# "देवानं पिया Kh.")लाजानो विद्यालयातं नाम निखमिसु । हिदा मिगविया अंनानिच[एदिसानि](# " हेडिसानि Kh.") अभिलामानि [हुंवंति](# "हुसुfor हुवंतिनं Kh.") नं ।स देवानं पिये पियदसी लाजा दसवसभिसते [संते](# "Dh. om.")[निखमि](# "निखमिठा Kh.")संबोधिं ।तेनता धंमपाता [होता](# "ततेस for हेता इयं Dh.") इयंहोति [समनबा](# "बंभ Kh.")मनानं दसने च दाने [च](# "बुधानं Kh.")वुढानं दसने च हिलनपटिबिधाने च ।**
+ **अतिकंतं अंतलं[^122]लाजानो विद्यालयातं नाम निखमिसु । हिदा मिगविया अंनानिचएदिसानि[^123] अभिलामानि हुंवंति[^124] नं ।स देवानं पिये पियदसी लाजा दसवसभिसते संते[^125]निखमि[^126]संबोधिं ।तेनता धंमपाता होता[^127] इयंहोति समनबा[^128]मनानं दसने च दाने च[^129]वुढानं दसने च हिलनपटिबिधाने च ।**
+
+[^122]: "देवानं पिया Kh."
+
+[^123]: " हेडिसानि Kh."
+
+[^124]: "हुसुfor हुवंतिनं Kh."
+
+[^125]: "Dh. om."
+
+[^126]: "निखमिठा Kh."
+
+[^127]: "ततेस for हेता इयं Dh."
+
+[^128]: "बंभ Kh."
+
+[^129]: "बुधानं Kh."
 
  We here observe the varieties mentioned before, the changeof **र्** to **ल्** and the nominative in **ए**. We also see **निखमिसु**for**त्रेयासु एदिसनि**for **एतारिसानि, बुधानं** or **बुढानं** **(=वृद्धानां)** for **थैरांन** and **बंभन**or **बाभन** for **ब्राह्मण**. So then here we have another dialect.
 
@@ -3392,7 +3650,9 @@ longer in the original seat of the race, and was connected with theancestors of 
 
 **Masculine Nouns in अ**
 
- The nom., acc., and instr. cases of nouns in **अ** are the same as in Pali; but here the nom. pl. form **वच्छा** is optionally transferred to the acc. pl. also, thus giving another instance of the strong. tendency to confuse the nom, and acc. that I have spoken of The dat. sing. in **आय** like that in Pali, is preserved in solitary instances in which it has the sense of " for the sake of ". The abl. sing., besides the general forms mentioned above, has the old one ending in T, as in Pali, and a new one in **आहि** which is used in the plural also. This **आहि** is used in Sanskrit in the words **दक्षिणाहि** and [उत्तराहि,](# "Prof. Lassen derives them differently.")which have an ablative signification. It must in its origin be considered the same as the instr. termination **भिस्**. The loc, sing. besides the general form has, as in Pali, the old one in g. The voc. sing. has also the two Pali forms, **देवा देवा** and another **देवो** the same as the nom. sing.
+ The nom., acc., and instr. cases of nouns in **अ** are the same as in Pali; but here the nom. pl. form **वच्छा** is optionally transferred to the acc. pl. also, thus giving another instance of the strong. tendency to confuse the nom, and acc. that I have spoken of The dat. sing. in **आय** like that in Pali, is preserved in solitary instances in which it has the sense of " for the sake of ". The abl. sing., besides the general forms mentioned above, has the old one ending in T, as in Pali, and a new one in **आहि** which is used in the plural also. This **आहि** is used in Sanskrit in the words **दक्षिणाहि** and उत्तराहि,[^130]which have an ablative signification. It must in its origin be considered the same as the instr. termination **भिस्**. The loc, sing. besides the general form has, as in Pali, the old one in g. The voc. sing. has also the two Pali forms, **देवा देवा** and another **देवो** the same as the nom. sing.
+
+[^130]: "Prof. Lassen derives them differently."
 
 **Masculine Nouns in द and उ**
 
@@ -3517,7 +3777,9 @@ language as either of the other two, and both were spoken orused for ordinary pu
 
  Sanskrit writers distinguish three elements in the Prakritvocabulary which they call Tadbhava, Tatsama, and Deśya.Such words as are derived from Sanskrit are called Tadbhavasuch as**दसण, फस, मग्ग, कण्ण**, &c. Tatsamas are those that arethe same in Sanskrit and Prakrit as **कमल, मण्डल**, &c., the phoneticlaws of the Prakrits not necessitating a change in them, andDeśyas are such as cannot be derived from Sanskrit and mustbe referred to another source. A good many words of this naturewe find used in Prakrit literature; and there exists a kośa orthesaurus of Deśya words by Hemacandra. A large number ofthese Deśya words exist in the modern vernaculars, such as:—
 
-** अक्का** a sister, M., [आका](# " M.-Marathi; G.-Gujarati; H-Hindi."),a term of honour used for an elder sister.
+** अक्का** a sister, M., आका[^131],a term of honour used for an elder sister.
+
+[^131]: " M.-Marathi; G.-Gujarati; H-Hindi."
 
 ** अग्घाडो**an herb; M. **आघाडा.**.
 
@@ -8416,9 +8678,11 @@ Jñān. 13-347.
 कान्ह को गिरि गोवर्धनतें और देव नहिं दूजा।  
 गोपनि सत्य मानि यह लींनी बडो देव गिरिराज॥
 
-Sursāgar, pada 12, page [252.](# " Lucknow Ed., 1874.")
+Sursāgar, pada 12, page 252.[^132]
 
  'Kānha said, "There is no other God besides the mountainGovardhan." Taking it to be the truth the king of mountainswas regarded by the cowherds as a great God."
+
+[^132]: " Lucknow Ed., 1874."
 
  Here **गोपनि** is agent instrumental in **नि**.
 
@@ -9084,7 +9348,9 @@ are not Brahmans are Śūdras. But there are indications thateven Brahmanhood di
 
 of the Mahābhāṣya says that it is the duty of a Brähmapa to studythe Vedas along with their Aṅgas or illustrative Śãstras; andof the six Aṅgas grammar is the chief. Patañjali is not likely toyield this honour to any other than Pāṇini's grammar. Toaccount for these and some of the other circumstances noticedby Dr. Goldstūcker, we must place Pāṇini ahout four centuriesbefore Kātyāyana, i. e. refer him to about the 8th century beforeChrist. Yäska must have flourished a short time before him. Though the Pali or an idiom very close to it was the language ofthe uneducated classes in the times of ātyāyans, Aśoka, andPatañjali, still its formation must be dated some centuries earliersince in its verb it represents what I have called Middle Sanskritor the Sanskrit of Yāska and Pāṇini. Yāśka notices local varietiesof Sanskrit words and gives one or two instances, but makes noallusion to any Apabhraṁśas or corruptions, though from thenature of his work he may be expected to do so; while Kātyāyanaand Patañjali mention them frequently, as we have seenif they existed in his time, therefore, they must have beeninsignificant and unimportant, and did not enter into the speechof any class of the Aryan society to any appreciable extent.After his time, however, i. e. about the seventh or sixth centuryB. C., the elaboration of the Pali, or Low Sanskrit as it might becalled, began in a decided manner; and the language continuedto be spoken up to the time of Patañjali. Till then it did notspecifically assume a Prakrit form though in the Inscriptions ofAśoka some of the characteristics of a later Prakrit, the Māgadhī,were developed, as we have seen, in one province, very likelyMagadha itself.
 
- The Prakrits must have begun to be formed about that time,but did not then attain any distinctive character; and thevernacular speech probably did not finally leave the Pali stagetill a very long time afterwards. About the time when theInscriptions in the cave-temples were composed, the Pali was,as I have stated, a sacred and literary language. The longer andmore important of the Inscriptions are therefore in that language.But in a good many of the shorter Inscriptions, especially of private individuals, we have words exhibiting Prakrit [characteristics](# "Such are काणमोअस for काणभोजप, पवइतिफाअ for पवजितिकायाः महामोयस forमहाभोजस्य, भयंत forवैयिका for वेदिका, पटिक for प्रतिफ &c.").
+ The Prakrits must have begun to be formed about that time,but did not then attain any distinctive character; and thevernacular speech probably did not finally leave the Pali stagetill a very long time afterwards. About the time when theInscriptions in the cave-temples were composed, the Pali was,as I have stated, a sacred and literary language. The longer andmore important of the Inscriptions are therefore in that language.But in a good many of the shorter Inscriptions, especially of private individuals, we have words exhibiting Prakrit characteristics[^133].
+
+[^133]: "Such are काणमोअस for काणभोजप, पवइतिफाअ for पवजितिकायाः महामोयस forमहाभोजस्य, भयंत forवैयिका for वेदिका, पटिक for प्रतिफ &c."
 
 The growth of the specifio Prakrits, therefore, must be referredto the early centuries of the Christain era; and we maytherefore infer that about the time our first dramatic plays werewritten they were actually the spoken dialects of those classes ofthe people whose representatives use them in those works,… .
 
@@ -9630,7 +9896,9 @@ PART I
 VAIṢṆAVISM.  
 **I. Introductory.**
 
- §[The](# "[R. G. Bhandarkar s Works, Vol. IV]") old Vedic gods became indissolubly involved in the elaborate and mechanical system of worship that had grown up.Speculations as regards the appropriateness of the rules and modest of worship, and their efficacy as regards man's good in this world and the next, became prevalent. But all this did not satisfy the religious spirit of the people. Religious speculation of a more. natural order came to be established about the close of the Hymnperiod and was continued into that of the Upaniṣads. The various problems about God, man, and the world, engaged the attention of many thinkers, and a variety of solutions was arrived at. It is generally believed that the Upaniṣads teach a system of Pantheism; but a close examination will show that they teach not one, but various systems of doctrines as regards the nature of God, man, and the world and the relations between them. The religio-philosophic systems of modern times, which are mutually inconsistent, quote texts from the Upaniṣads as an authority for their special doctrines. These references to the old books are correct in the most prominent cases, but when the advocates of the systems force into other texts of an opposite nature a meaning consistent with their own special doctrines, they are manifestly wrong. That the Upaniṣads teach not one but various systems must follow. from the fact that they are compilations just as the ṚgvedaSaṁhitāis The speculations of the old, seers were clothed by them in words, and these were handed down orally and came to form a large floating mass. When the idea of collecting these speculations arose, they were incorporated into books for the use of individual Vedic schools. Hence it is that we find certain
+ §The[^1] old Vedic gods became indissolubly involved in the elaborate and mechanical system of worship that had grown up.Speculations as regards the appropriateness of the rules and modest of worship, and their efficacy as regards man's good in this world and the next, became prevalent. But all this did not satisfy the religious spirit of the people. Religious speculation of a more. natural order came to be established about the close of the Hymnperiod and was continued into that of the Upaniṣads. The various problems about God, man, and the world, engaged the attention of many thinkers, and a variety of solutions was arrived at. It is generally believed that the Upaniṣads teach a system of Pantheism; but a close examination will show that they teach not one, but various systems of doctrines as regards the nature of God, man, and the world and the relations between them. The religio-philosophic systems of modern times, which are mutually inconsistent, quote texts from the Upaniṣads as an authority for their special doctrines. These references to the old books are correct in the most prominent cases, but when the advocates of the systems force into other texts of an opposite nature a meaning consistent with their own special doctrines, they are manifestly wrong. That the Upaniṣads teach not one but various systems must follow. from the fact that they are compilations just as the ṚgvedaSaṁhitāis The speculations of the old, seers were clothed by them in words, and these were handed down orally and came to form a large floating mass. When the idea of collecting these speculations arose, they were incorporated into books for the use of individual Vedic schools. Hence it is that we find certain
+
+[^1]: "[R. G. Bhandarkar s Works, Vol. IV]"
 
 verses, passages and whole sections occurring in one Upaniṣad reproduced in another¹.
 
@@ -9648,27 +9916,39 @@ verses, passages and whole sections occurring in one Upaniṣad reproduced in an
 
 4.Seethe passange from BU. III, 2, 13, quoted in my paper"A Peep into the Early History of India", JBBRAS, Vol. XX, P. - 361.\[ = Vol. I. P. 7 of this Editions. - N.B.U.\].
 
-theism, so fully explained by Max Muller, and its ultimate result, the identification of the various gods, also influenced later thinkers. The conception that the supreme spirit manifests himself in various forms which we find expressed in the Upaniṣadsis a development, in the opposite direction, of the idea that one God, for instance Agni, is the same as Varuna, Mitra, Indra and [Aryaman.](# "RV. V. 3, 1—2") If these several gods are one, one god may become several. This led to the conception of Incarnations or Avatāras, which plays such a prominent part in the later religious systems.
+theism, so fully explained by Max Muller, and its ultimate result, the identification of the various gods, also influenced later thinkers. The conception that the supreme spirit manifests himself in various forms which we find expressed in the Upaniṣadsis a development, in the opposite direction, of the idea that one God, for instance Agni, is the same as Varuna, Mitra, Indra and Aryaman.[^2] If these several gods are one, one god may become several. This led to the conception of Incarnations or Avatāras, which plays such a prominent part in the later religious systems.
+
+[^2]: "RV. V. 3, 1—2"
 
  But for ordinary people, an adorable object, with a more distinct personality than that which the theistic portions of the Upaniṣads attributed to God, was necessary and the philosophia speculations did not answer practical needs. Thus some of the old Vedic gods, and others, which were new, became the objects of worship.
 
 II\. The Rise of a New Theistic System.
 
- §2. The tide of free speculations culminated in the east into such systems as those of Buddhism and Jainism; and though they denied the existence of God as a creator, or did not use the ides for the promotion of righteousness, and the former practically denied the existence of the human soul as a substance, still, these systems had the needful personal element in the shape of their founders. In the west, however, a theistic system with a god who had come to dwell among men arose. The various religious systems and superstitions that prevailed in the fourth century. B. C. are given in the following passage, occurring in the Niddess, which though of the nature of a commentary is regarded as one of the books of the Pall Buddhistic [Canon](# "This passage has been furnished to me by Mr. Dharmanand Kosambi."): "The deity of the lay followers of the Ājivakas is the Ājivakas, of those of the Nighanthas is the Nighanthas, of those of the Jaṭilas (ascetics wearing long matted hair) is the Jaṭilas, of those of the Paribbājakasis the Paribbājakas, of those of the Avaruddhakas is the Avaruddhakas, and the deity of those who are devoted to an elephant, a horse, a cow, a dog, a crow, Vāsudeva, Baladeva, Puṇṇabhadda, Maṇibhadda, Aggi, Nāgas, Supaṇṇas, Yakkhas,
+ §2. The tide of free speculations culminated in the east into such systems as those of Buddhism and Jainism; and though they denied the existence of God as a creator, or did not use the ides for the promotion of righteousness, and the former practically denied the existence of the human soul as a substance, still, these systems had the needful personal element in the shape of their founders. In the west, however, a theistic system with a god who had come to dwell among men arose. The various religious systems and superstitions that prevailed in the fourth century. B. C. are given in the following passage, occurring in the Niddess, which though of the nature of a commentary is regarded as one of the books of the Pall Buddhistic Canon[^3]: "The deity of the lay followers of the Ājivakas is the Ājivakas, of those of the Nighanthas is the Nighanthas, of those of the Jaṭilas (ascetics wearing long matted hair) is the Jaṭilas, of those of the Paribbājakasis the Paribbājakas, of those of the Avaruddhakas is the Avaruddhakas, and the deity of those who are devoted to an elephant, a horse, a cow, a dog, a crow, Vāsudeva, Baladeva, Puṇṇabhadda, Maṇibhadda, Aggi, Nāgas, Supaṇṇas, Yakkhas,
+
+[^3]: "This passage has been furnished to me by Mr. Dharmanand Kosambi."
 
 Asuras, Gandhabbas, Mahārājas, Canda, Suriya, India, Brahmā, Deva, Disā is the elephant, the horse, the cow, the dog, the crow, Vāsudeva, Baladeva, Puṇṇabhadda, Maṇibhadda, etc., respectively."
 
  Here a Buddhist who cannot but be expected to show scant courtesy to religious systems other than his own, places the worshippers of Vāsudeva and Baladeva on the same level with those of fire, moon, sun and Brahmā, and even elephants, crows, dogs, etc. But the worship of Vāsudeva was destined to become the predominant religion of a large part of India even to the supersession of that of fire, sun, moon and Brahmāand, of course, of the superstitious adoration of the lower animals. And it will be now our duty to trace its rise and progress.
 
- § 3. In his comment on Pāṇini IV. 3 98, Patañjali distinctly states that the Vāsudeva contained in the Sūtra is the name of the " worshipful ", i. e., of one who is pre-eminently worshipful, i. e., [God.](# "SeeJRAS, 1910, p. 163.") The worship of Vāsudeva must be regarded to be as old as Pāṇini.
+ § 3. In his comment on Pāṇini IV. 3 98, Patañjali distinctly states that the Vāsudeva contained in the Sūtra is the name of the " worshipful ", i. e., of one who is pre-eminently worshipful, i. e., God.[^4] The worship of Vāsudeva must be regarded to be as old as Pāṇini.
 
- In an Inscription found at Ghosundi in [Rajputāna](# "Luders, List of Brāhmī Inscriptions, No. 6.")which unfortunately is in a mutilated condition, the construction of a wall round the hall of worship of Saṁkarṣaṇa and Vāsudeva is mentioned. From the form of the characters in the Inscription it appears to have been engraved at least two hundred years B. C.
+[^4]: "SeeJRAS, 1910, p. 163."
 
- In another Inscription recently discovered at [Besnagar,](# "Ibid. No. 669.") Heliodora represents himself to have erected a Garuḍadhvaja or a column with the image of Garuḍa at the top in honour of Vāsudeva, the god of gods. Heliodora calls himself a Bhāgavaṭa, was the son of Diya, was a native of Takṣaśila and is spoken of as an ambassador of the Yavana and as such came on a political mission from. Aṁtalikita to Bhagabhadra who must have ruled over EasternMalwa. In this Inscription occurs the name Aṁtalikita which in all likelihood is the same as Antialkidas of the Bactro-Greek coins. This name as well as the form of the characters show that it belongs to the earlier part of the second century before the
+ In an Inscription found at Ghosundi in Rajputāna[^5]which unfortunately is in a mutilated condition, the construction of a wall round the hall of worship of Saṁkarṣaṇa and Vāsudeva is mentioned. From the form of the characters in the Inscription it appears to have been engraved at least two hundred years B. C.
+
+[^5]: "Luders, List of Brāhmī Inscriptions, No. 6."
+
+ In another Inscription recently discovered at Besnagar,[^6] Heliodora represents himself to have erected a Garuḍadhvaja or a column with the image of Garuḍa at the top in honour of Vāsudeva, the god of gods. Heliodora calls himself a Bhāgavaṭa, was the son of Diya, was a native of Takṣaśila and is spoken of as an ambassador of the Yavana and as such came on a political mission from. Aṁtalikita to Bhagabhadra who must have ruled over EasternMalwa. In this Inscription occurs the name Aṁtalikita which in all likelihood is the same as Antialkidas of the Bactro-Greek coins. This name as well as the form of the characters show that it belongs to the earlier part of the second century before the
+
+[^6]: "Ibid. No. 669."
 
 Christian era. At that timeVāsudeva was worshipped as the god of gods and his worshippers were called Bhāgavatas The Bhāgavata religion prevailed in the northwestern part of India and was adopted even by the Greeks.
 
- In the Inscription No. 1 in the large cave at [Nānāghāt,](# " Ibid. No. 1112.") the names of Saṁkarṣaṇa and Vāsudeva, in a Dvandva compound, occur along with those of other deities in the opening invocation. This Inscription appears from the form of the characters to belong to the first century before the Christian era.
+ In the Inscription No. 1 in the large cave at Nānāghāt,[^7] the names of Saṁkarṣaṇa and Vāsudeva, in a Dvandva compound, occur along with those of other deities in the opening invocation. This Inscription appears from the form of the characters to belong to the first century before the Christian era.
+
+[^7]: " Ibid. No. 1112."
 
  In the passage in the Mahabhāṣya in which Patañjali, to account for the appearance of the name Vāsudeva in Pāṇini IV. 3. 98, says that this is not the name of a Kṣatriya, but that of the Worshipful One, the question to be considered is whether Patañjali means this Vāsudeva to be quite unconnected with the Vāsudeva of the Vṛṣṇi race. From the occurrence of the names Vāsudeva and Baladeva close to each other in the passage from the Niddessa referred to above, and that of Saṁkarṣaṇa and Vāsudeva as worshipful or divine persons in a Dvandva compound in two of three above Inscriptions, it appears that the Vasudeva referred to by Patañjali as the Worshipful One must be the Vāsudeva of the race. But to account for the appearance of the name in the Sūtra, though the required form can he made up in accordance with the next Sūtra (Panini, IV. 3. 99), Patañjali says that Pāṇini looks at Vāsudeva in his capacity as a divine person and not as a Kṣatriya One must take it in this sense, since the Ghosundi Inscription noticed above, in which Saṁkarṣaṇa and Vāsudeva are associated as worshipful persons, must be older than Patañjali himself. Besides, Patañjali begins the discussion of the Sutra by first taking Vāsudeva as the name of a Kṣatriya. and raising an objection against it. This objection is answered in one way, Vāsudeva being still regarded as a Kṣatriya, and it is only optionally that he gives another explanation, that that name is not the name of a Kṣatriya, but of a divine person. This optional explanation given in the last resort must, therefore, be understood in the sense given above. And from all the accounts of the Bhagavata school contained in the whole literature it is clear that the worshipful Vāsudeva belonged to the Vṛṣṇii race.
 
@@ -9738,7 +10018,9 @@ ambassador at the court of Candragupta, the Maurya. Candragupta reigned in the l
 
  The name expressive of the Supreme Spirit was, however, in the early period Vāsudeva alone. In the passage from the Niddesaand the three Inscriptions Vāsudeva is the name that occurs.
 
- In the Bhagavadgītā (VII. 19 ) it is stated that "He who possesses knowledge gives himself up to me, believing Vāsudeva to be all" Even in the Bhāgavata Mantra of twelve syllables which is usually repeated at the present day and which is mentioned by Hemādri, it is to Vāsudeva that obeisance is [made.](# "Vrntakhanda (Bibl. Ind.) p. 225. The Mantra is Orh nameBhagavate Visudevāya.") In Bhiṣmap.chap. 65 Brahmadeva, addressing the Supreme Spirit (Purusa Parameśvara), entreats him to become the increaser of the Yadu race, and then, referring apparently to a foregone age, he says: O Vāsudeva! this great secret I have communicated to thee through thy favour as it really is. Having created thyself as the God Saṁkarṣaṇa, thoudidst procreate thy son Pradyumna. He created Aniruddha who is Viṣṇu himself, and he created me (Brahmadeva), who am made up of Vāsudeva and created by thee. Dividing thyself in this way be born as a human being again." In the beginning of chapter 66 of the same Parvan, Prajāpati speaks of himself as having asked the supreme lord of all to dwell in the world of men as Vāsudeva (to become incarnate). This Supreme Spirit should, it is said,
+ In the Bhagavadgītā (VII. 19 ) it is stated that "He who possesses knowledge gives himself up to me, believing Vāsudeva to be all" Even in the Bhāgavata Mantra of twelve syllables which is usually repeated at the present day and which is mentioned by Hemādri, it is to Vāsudeva that obeisance is made.[^8] p. 225. The Mantra is Orh nameBhagavate Visudevāya.") In Bhiṣmap.chap. 65 Brahmadeva, addressing the Supreme Spirit (Purusa Parameśvara), entreats him to become the increaser of the Yadu race, and then, referring apparently to a foregone age, he says: O Vāsudeva! this great secret I have communicated to thee through thy favour as it really is. Having created thyself as the God Saṁkarṣaṇa, thoudidst procreate thy son Pradyumna. He created Aniruddha who is Viṣṇu himself, and he created me (Brahmadeva), who am made up of Vāsudeva and created by thee. Dividing thyself in this way be born as a human being again." In the beginning of chapter 66 of the same Parvan, Prajāpati speaks of himself as having asked the supreme lord of all to dwell in the world of men as Vāsudeva (to become incarnate). This Supreme Spirit should, it is said,
+
+[^8]: "Vrntakhanda (Bibl. Ind.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -9775,7 +10057,9 @@ thought of identifying one god with others by regarding the latter either as for
 
  This passage is noticed in the Bhaktisūtra (83) and its commentary, in which it is stated that Ekāntabhāva (which is the subject of the Nārāyaṇiya), or devotion to one only, is Bhakti alone, since the former is recognised in that passage as identical with the main topic of the Bhagavadgītā. But the Bhagavadgītā contains no allusion to the Vyūhas or forms of the Supreme, Saṁkarṣaṇa and others, while the latter form a characteristic of the Bhāgavata school. The Gitā, however, mentions as the Prakrtis of Vāsudeva the five elements, the mind, Buddhi or knowledge, and egoism as well as Jīva (VII4, 5). The last is identified with Saṁkarṣaṇa in the Bhāgavata system, egoism with Aniruddha, and mind, with which probably Buddhi is associated, with Pradyumna.
 
- What appears to be the fact is this: The Bhagavadgītāwas composed before the doctrines of the Bhāgavata school were reduced to a system, and it was then that the three of the Prakṛtis of the Supreme were personified into Saṁkarṣaṇa, Pradyumna and Aniruddha, who were members of the family of Vāsudeva. In the prevalent worship, however, Saṁkarṣaṇa alone. is found associated with Vāsudevain early times, as is seen from the Inscriptions, and the passage from the Niddesa noticed in the [beginning.](# "Ante, p. 3. [N. B. U.] [R. G. Bhandarkar s Works, Vol. IV.]") Patañjali also notices, under Pāṇini II. 2. 34, a verse in which it is stated that certain musical instruments are sounded in a gathering in the temple of Dhanapati, Rāma and Keśava.
+ What appears to be the fact is this: The Bhagavadgītāwas composed before the doctrines of the Bhāgavata school were reduced to a system, and it was then that the three of the Prakṛtis of the Supreme were personified into Saṁkarṣaṇa, Pradyumna and Aniruddha, who were members of the family of Vāsudeva. In the prevalent worship, however, Saṁkarṣaṇa alone. is found associated with Vāsudevain early times, as is seen from the Inscriptions, and the passage from the Niddesa noticed in the beginning.[^9] Patañjali also notices, under Pāṇini II. 2. 34, a verse in which it is stated that certain musical instruments are sounded in a gathering in the temple of Dhanapati, Rāma and Keśava.
+
+[^9]: "Ante, p. 3. [N. B. U.] [R. G. Bhandarkar s Works, Vol. IV.]"
 
 Here Rāma and Keśava are Balarāma and Vāsudeva-Kṛṣṇa, and it is clear that there were festive gatherings at their temples in Patañjali's time. If the passage in Patañjali under Pāṇini VI. 3. 6, "Janārdana with himself as the fourth", i. e., with three companions, may be taken to allude to the three Vyūhas, then it must be understood that the four Vyūhas, Vāsudeva, Saṁkarṣaṇa, Pradyumna and Aniruddha, were known in Patañjali's time. Still it is doubtful, and it may be taken for granted that the two Vyūhas, Vāsudeva and Saṁkarṣaṇa, only were known up to the time of the latest Inscription which is to be referred to about the beginning of the first century before the Christian era, so that the system of four Vyūhas was not fully developed up to that time.
 
@@ -9791,7 +10075,9 @@ V. Substance of the Bhagavadgītā.
 
  Chapter II. Arjuna is reluctant to fight because it involves the destruction of his near and revered relatives and of other men. Bhagavat endeavours to remove the reluctance by speaking of the eternity and indestructibility of the human soul. Here are two stanzas which ocour, with a variation in one of the lines, in the Kaṭha Upaniṣad. Then to fight is spoken of as the duty of a Kṣatriya for whom there is no other good than a just fight. This mode of thinking is characterised as being Sāṁkhya, and the Yoga mode then follows.
 
- The condition of mind in the Yoga mode is a determined will. Those who according to the precepts of the Veda perform rites for fulfillment of various desires, cannot have a determined steadfast will. For attaining such a will one should think only of the deed to be done and not of the fruits to be derived from it. With a concentrated mind and without any attachment to other objects one should devote oneself to the deed alone. By such devotion to acts with a determined will, man finally attains inflexibility of will becomes Sthitaprajn̄a), and all his desires being uprooted, he attains complete serenity of soul or the Brāhmīcondition. When he is in this condition at the time of death, he obtains comes to the same doctrine as that quiescence in Brahman. This stated in the Kaṭha and Bṛhadāraṇyaka-Upaniṣads, that when all desires in the heart are uprooted, the mortal becomes immortal and attains to [Brahman.](# "Yada sarve pramucyante kama yesya brdi sritah, KU,VI. 14, and also BU. IV. 4. 7.") The discipline, however, prescribed for
+ The condition of mind in the Yoga mode is a determined will. Those who according to the precepts of the Veda perform rites for fulfillment of various desires, cannot have a determined steadfast will. For attaining such a will one should think only of the deed to be done and not of the fruits to be derived from it. With a concentrated mind and without any attachment to other objects one should devote oneself to the deed alone. By such devotion to acts with a determined will, man finally attains inflexibility of will becomes Sthitaprajn̄a), and all his desires being uprooted, he attains complete serenity of soul or the Brāhmīcondition. When he is in this condition at the time of death, he obtains comes to the same doctrine as that quiescence in Brahman. This stated in the Kaṭha and Bṛhadāraṇyaka-Upaniṣads, that when all desires in the heart are uprooted, the mortal becomes immortal and attains to Brahman.[^10] The discipline, however, prescribed for
+
+[^10]: "Yada sarve pramucyante kama yesya brdi sritah, KU,VI. 14, and also BU. IV. 4. 7."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -9803,7 +10089,9 @@ the attainment of this end is not simply moral, but religious also, since it is 
 
  Then a question is asked what it is that prompts man to sin. The reply is that it is desire and anger which are all-powerful and envelop a man's spiritual existence. Desire acts through the senses, but intelligence is superior to the senses, and superior to this latter is the will (Buddhi) and the soul is superior to Buddhi. Knowing oneself to be higher than Buddhi, one should curb oneself by efforts and kill desire which acts through the series, viz., senses, intellect, will. Here the superiority of one faculty over another is an idea borrowed from the Kaṭha-Upaniṣad. In connection with the teaching that action should be done disinterestedly, Bhagavat makes the closest possible approach to the Sāṁkhya doctrine that the soul being deluded by egoism (Ahaṁkāra) regards himself as the agent of the actions done by the qualities of nature (Prakṛti), and that, misled by the qualities of nature, he forms an attachment to the qualities and actions..
 
- § 13. Chapter IV. The chapter begins with Bhagavat's mention of his communication of this system to Vivasvat in the first instance, as alluded to [above.](# "Ante. p. 1.[ N. B. U.]") Incidentally the question of his ex
+ § 13. Chapter IV. The chapter begins with Bhagavat's mention of his communication of this system to Vivasvat in the first instance, as alluded to above.[^11] Incidentally the question of his ex
+
+[^11]: "Ante. p. 1.[ N. B. U.]"
 
 istence at the time of Vivasvat comes up, and he then explains hisbeing born again and again, and assuming incarnations for the destruction of the wicked by means of his Prakṛti. They who know the incarnations and the celestial deeds of Bhagavat, are released from the body and are not born again. By means of knowledge, men, being purified and their passions destroyed, and being devoted to him and resorting to him and resting on him, attained to the condition of Bhagavat. Bhagavat resorts to men in the manner in which they resort to him; men everywhere follow his path.
 
@@ -9831,7 +10119,9 @@ the three qualities and the conditions resulting from them proceed from him. Bha
 
  For the idea of all existing things being strung together in the Supreme, we may compare MU. II. 2.5, and BU. III. 8. 3-4; 6-7. Ordinary people are represented as resorting to other deities, led by several desires. The Bhagavat confirms their faith in their deities, and the fruits that they get from them are perishable. Here appears the same idea as that noticed in chap. IV and to be noticed in chap. IX, viz, that the worshippers of other gods are really Bhagavat's worshippers, and that there is a principle of unity in all religions.
 
- § 17. [Chapter VIII.](# "[R. G. Bhandarkar s Works, Vol. IV.]") Arjuna begins by putting questions about the three subjects mentioned in the last verse of the last chapter, and about Brahman and Adhyātma. Bhagavat then explains these. About perceiving him at the time of death he says: "He who leaves his body while remembering me at the time of death, attains to the same condition as mine." Finally he states that he who departs this life, while meditating on the all-knowing, eternal ruler, who is smaller than the smallest thing, who is the protector of all, whose form is unthinkable, whose brilliance is like that of the sun, and who is beyond all darkness—with devotion, his whole soul gathered between the brows with the power of concentration, reaches that Supreme Being, who is higher than the highest. He then mentions the attainment of the Unchangeable, with the mind concentrated, and the reaching of the final goal after leaving the body by means of a Yoga process and by the utterance of the syllable 'Om' and the remembrance of Bhagavat all the while. Bhagavat is easily attainable by one who meditates on him with asingleness of mind and is devoted to him. Every being is subject to transmigration, but is free from it when he reaches Bhagavat.
+ § 17. Chapter VIII.[^12] Arjuna begins by putting questions about the three subjects mentioned in the last verse of the last chapter, and about Brahman and Adhyātma. Bhagavat then explains these. About perceiving him at the time of death he says: "He who leaves his body while remembering me at the time of death, attains to the same condition as mine." Finally he states that he who departs this life, while meditating on the all-knowing, eternal ruler, who is smaller than the smallest thing, who is the protector of all, whose form is unthinkable, whose brilliance is like that of the sun, and who is beyond all darkness—with devotion, his whole soul gathered between the brows with the power of concentration, reaches that Supreme Being, who is higher than the highest. He then mentions the attainment of the Unchangeable, with the mind concentrated, and the reaching of the final goal after leaving the body by means of a Yoga process and by the utterance of the syllable 'Om' and the remembrance of Bhagavat all the while. Bhagavat is easily attainable by one who meditates on him with asingleness of mind and is devoted to him. Every being is subject to transmigration, but is free from it when he reaches Bhagavat.
+
+[^12]: "[R. G. Bhandarkar s Works, Vol. IV.]"
 
  During the night of Brahman all these things are resolved into the indiscrate (Avyakta), and, when the day dawns; they spring out again from it. There is another substance, different from the Avyakta and itself indiscrate (Avyakta), which is not destroyed when all others are destroyed. This substance which is indiscrete, is unchangeable and that is the highest resting place, which being attained to, there is no return. That is Bhagavat's highest abode. Thatsuprame soul, in whom all these beings are and who has spread out all this, is to he attained by single-minded devotion. Then he proceeds to mention the two paths. Those who die while the sun is in his northern course (Uttarāyaṇa) go to Brahman, and those who die while he is in his southern course (Dakṣināyana) go to the orb of the moon, from which the soul returns.
 
@@ -9951,7 +10241,9 @@ into existence. I am not inclined to dissolve Vāsudeva and Arjuna into solar my
 
 **VII. Identification of Vāsudeva with Nārāyaṇa.**
 
- § 32. The word Nārāyaṇais similar to Nāḍāyaṇa, which last is formed by P. IV. 1. 99 and means the Gotra Nāḍāyaṇa. The termination is significative and means in this case the resting place or the place to which Nāḍa or a collection of Naḍas go. So Nārāyaṇameans the resting place or goal of Nāra or a collection of [Nāras](# "1 See Medhātithi s commentary on Manu 1.10."). In theNārāyaṇīya (XII. 341) Keśava or
+ § 32. The word Nārāyaṇais similar to Nāḍāyaṇa, which last is formed by P. IV. 1. 99 and means the Gotra Nāḍāyaṇa. The termination is significative and means in this case the resting place or the place to which Nāḍa or a collection of Naḍas go. So Nārāyaṇameans the resting place or goal of Nāra or a collection of Nāras[^13]. In theNārāyaṇīya (XII. 341) Keśava or
+
+[^13]: "1 See Medhātithi s commentary on Manu 1.10."
 
 Hari says to Arjuna that he is known as the resting place or goal of men (Narāṇām). The word Nṛor Naṛa is also used to denote gods as manly persons, especially in the Vodas, so that Nārāyaṇa may be construed as the resting place or goal of gods. There is a tradition which connects Nārāyaṇa with the primeval waters. Manu (1.10), and also Hari in the above passage say that the waters were called Nārās because they were the sons of Nara, and, since they were the first resting place of Brahmāin the first case and of Hari in the second, the two were called Nārāyaṇas. The Purāṇas, such as the Vāyu and the Viṣṇu, agree with Manu. Again there is a tradition that Brahmadeva sprang from the lotus in the navel of Nārāyaṇa or Viṣṇu (M Bh. III, 12, 34 and XII 349. 18), In the Vāyu-Purāṇa Nārāyaṇa is represented as prior to Avyakta or matter in an undeveloped form, and from Avyakta sprang the mundane egg, and from the latter arose Brahmadeva.
 
@@ -9961,7 +10253,9 @@ Hari says to Arjuna that he is known as the resting place or goal of men (Narā�
 
 jāpati tells him to sacrifice again, and the substance of the whole. is that Nārāyaṇaplaced himself in all the worlds, in all the gods, in all the Vedas and in all the vital airs, and they were placed in him. This shadows forth the rising of Nārāyaṇato the dignity of the Supreme Soul, who pervades all and in whom all things. exist and who in the beginning sent forth all the gods, being himself their receptacle or resting place as indicated in RV. X. 82. 6. In another place (XIIL 6. 1) Puruṣa Nārāyaṇais mentioned as having conceived the idea of a Pañcarātra Sattra (continued sacrifices for five days) as the means of obtaining superiority over all beings and becoming all beings. He performed the sacrifices and attained to that dignity. Here also Nārāyaṇa's becoming the Supreme Ruler and becoming all are spoken of, Nārāyaṇais represented as the author of the Puruṣasūkta (RV. X. 90). This appears to be as much a fanciful representation, as that of Viśvakarman and others as authors of other hymns As in these last cases, it has a connection with the deity to which the hymn refers, so that Nārāyaṇa is another name of the Puruṣa, and these two names are associated together, as we have seen, in the above citations from the Śatapatha-Brāhmana. In the Taittiriya-Āraṇyaka (X. 11) Nārāyaṇais described with all the attributes of the Supreme soul, which are usually found mentioned in the Upaniṣads.
 
- In the Mahābhārata and Purāṇas, he figures as the supreme god, especially in connection with the creation; mythologically he is represented as lying on the body of a huge serpent in the ocean. of milk, the original conception of his connection with the primeval waters being still kept to. Nārāyaṇathus became an object of worship. In the Ghosuṇḍi Inscription noticed [before](# "Ante,p.4  [N.B.U.]"), there is what appears to be a dedication of an enclosure to Nārāyaṇa(Nārāyaṇa-Vāṭikā),
+ In the Mahābhārata and Purāṇas, he figures as the supreme god, especially in connection with the creation; mythologically he is represented as lying on the body of a huge serpent in the ocean. of milk, the original conception of his connection with the primeval waters being still kept to. Nārāyaṇathus became an object of worship. In the Ghosuṇḍi Inscription noticed before[^14], there is what appears to be a dedication of an enclosure to Nārāyaṇa(Nārāyaṇa-Vāṭikā),
+
+[^14]: "Ante,p.4  [N.B.U.]"
 
  §33. The heaven of this Nārāyaṇawas the Śvetadvīpa or white. island. In the Kathāsaritsāgara (54. 19, 21, 23) Naravāhanadatta is represented to have been carried to the white island by Devasiddhi and to Hari reposing on the body of the serpent Śeṣa and attended by Nārada and other devotees. In another place in the same work (115, 101-3) certain gods are spoken of as having gone to Śvetadvīpa and seen Hari in a house made of great gems,
 
@@ -9987,7 +10281,9 @@ are warriors at the same time was brought into connection with the two interlocu
 
 whole earth, and so the gods got the whole earth. Here a miraculous power has been attributed to Viṣṇu, though he is not necessarily the Supreme Spirit.
 
- In the Maitri-Upaniṣad (VI. 13) food is called the form of Bhagavad-Viṣṇu, which sustains the universe. In the Kaṭha-Upaniṣad (III. 9) the progress of the human soul is compared to a journey, and the end of the path which he traverses is called. the highest place of VViṣṇu (Paramam padam). This is the final goal and the abode of eternal bliss, and the use of the word in this sense lends support to the view that the elevation of Viṣṇu to the dignity of the Supreme Being was due to the fact that the expression was capable of being used to denote this sense. Some time after, Viṣṇu became even a household god. In the ceremony of the seven steps contained in the marriage ritual, the bridegroom has to say to the bride, when she puts forth a step :" May Viṣṇu lead you or be with you." This formula occurs in the Gṛhya-sūtras of Āpastamba, Hiraṇyakeśin and Pāraskara, but not in that of Āśvalāyana. In epic times Viṣṇu grew to be in every respect. the Supreme Spirit; and Vāsudeva is identified with Viṣṇu. In chapters 65 and 66 of the Bhīṣmaparvan noticed [before](# "Ante, pp. 13 and ff. [N. B. U.]"), the Supreme Spirit is addressed as Nārāyaṇa and Viṣṇu and is identified with Vāsudeva.
+ In the Maitri-Upaniṣad (VI. 13) food is called the form of Bhagavad-Viṣṇu, which sustains the universe. In the Kaṭha-Upaniṣad (III. 9) the progress of the human soul is compared to a journey, and the end of the path which he traverses is called. the highest place of VViṣṇu (Paramam padam). This is the final goal and the abode of eternal bliss, and the use of the word in this sense lends support to the view that the elevation of Viṣṇu to the dignity of the Supreme Being was due to the fact that the expression was capable of being used to denote this sense. Some time after, Viṣṇu became even a household god. In the ceremony of the seven steps contained in the marriage ritual, the bridegroom has to say to the bride, when she puts forth a step :" May Viṣṇu lead you or be with you." This formula occurs in the Gṛhya-sūtras of Āpastamba, Hiraṇyakeśin and Pāraskara, but not in that of Āśvalāyana. In epic times Viṣṇu grew to be in every respect. the Supreme Spirit; and Vāsudeva is identified with Viṣṇu. In chapters 65 and 66 of the Bhīṣmaparvan noticed before[^15], the Supreme Spirit is addressed as Nārāyaṇa and Viṣṇu and is identified with Vāsudeva.
+
+[^15]: "Ante, pp. 13 and ff. [N. B. U.]"
 
  In the Anugītā portion of the Āśvamedhikaparvan (chap.53-55) Kṛṣṇa, while returning to Dvārakā, meets on the way a sage of the name of Uttaṅka of the Bhṛgu race. The sage asks Kṛṣṇa whether he had established peace between the contending kinsmen, Pāṇḍus and Kurus, and established affectionate relations between them. Kṛṣṇa replies that the Kurus had been destroyed and the Pāṇḍus were in possession of the supreme sovereignty. The sage got angry and said that he would pronounce a curse against Kṛṣṇa , but if he explained to him the philosophy of the soul (Adhyātma), he would desist. Kṛṣṇa then does explain this philosophy at the request of Uttaṅka and shows him his universal form (Virāt svarūpam). The Svarūpa is the same as, or similar to, that shown to Arjuns according to the Bhagavadgītā, but it is here called the Vaiṣṇava form (Rūpa), which name does not occur. in the other passage. Thus then between the period of the Bhāga
 
@@ -10018,11 +10314,17 @@ cow-settlement (Gokula). The contrast between this and the statements in the Har
 
 herd. It is the name of a race, whose original oooupation was the tending of cows; and consequently the name became in later. times equivalent to a 'cowherd'. For these reasons the cowherda among whom the boy-god Kṛṣṇa lived, belong to a nomadic tribe of the name of Ābhīras. These Ābhīras occupied the tract of country from Madhuvana near Mathurāto Anūpa and Ānarta, the regions about Dvāraka (H. 5161-5163). The Ābhīras are mentioned in the Mahābhārata (Mausalaparvan, chap. 7) as having attacked Arjuna, who was carrying the women of the Vṛṣṇis from Dvāraka to Kurukṣetra after the extinction of the male members. of the Vṛṣṇirace. They are described as robbers and Mleochas, and lived near Pañcanada, which is probably Punjab. The Viṣṇu-Purāṇa locates them near the Aparāntas (Konkan) and Saurāṣtras, and Varāhamihira assigns them nearly the same position. Though they are mentioned as the southern people ( Bṛ. S. 14. 12), and as living in the southwest (Bṛ. S. 14. 18), the Ābhīras must have. migrated in large hordes into the country. They were at first. mere nomads and afterwards settled in the country from about the eastern confines of the Punjab to the vicinity of Mathurāand in the south up to Saurāṣṭra and Kathiavad, i. e., they must have. occupied the whole of Raiputāna and a tract to the northeast of it. After they were settled, they took to various occupations, one. of which was of course the old one, namely the tending of cows.
 
- The descendants of the old Ābhīras are called Āhirs at the present day, and we have now Āhirs following the occupation of carpenters, goldsmiths, cowherds and even priesthood. At one time they founded a kingdom in the nothern part of the Maratha country, and an Inscription of the ninth year of the Ābhīra king. Iśvarasena, the son of Ābhīra Śivadatta, is found at [Nasik](# "Lūders, List of Brāhmī Inscriptions, Nr. 1137."). From the form of the characters the Inscription probably belongs. to the end of the third century. The Purāṇas mention a dynasty of Ābhīras composed of ten [princes](http://3 "See Vāyu-Purāṇa, vol. II, chap. 37, page 453, Bibl. Ind,"). Another Inscription of an earlier date is found at [Gundā](# "Lūders, List of Brāhmī Inscriptions, Nr. 963.")in Kathiavad, in which the charities of Rudrabhūti, a general, who is called an Ābhīra, are mentioned. The Inscription belongs to the reign of a Kṣatrapa
+ The descendants of the old Ābhīras are called Āhirs at the present day, and we have now Āhirs following the occupation of carpenters, goldsmiths, cowherds and even priesthood. At one time they founded a kingdom in the nothern part of the Maratha country, and an Inscription of the ninth year of the Ābhīra king. Iśvarasena, the son of Ābhīra Śivadatta, is found at Nasik[^16]. From the form of the characters the Inscription probably belongs. to the end of the third century. The Purāṇas mention a dynasty of Ābhīras composed of ten [princes](http://3 "See Vāyu-Purāṇa, vol. II, chap. 37, page 453, Bibl. Ind,"). Another Inscription of an earlier date is found at Gundā[^17]in Kathiavad, in which the charities of Rudrabhūti, a general, who is called an Ābhīra, are mentioned. The Inscription belongs to the reign of a Kṣatrapa
+
+[^16]: "Lūders, List of Brāhmī Inscriptions, Nr. 1137."
+
+[^17]: "Lūders, List of Brāhmī Inscriptions, Nr. 963."
 
 king of the name of Rudrasiṁha, who held power in Śaka 102 corresponding to 180 A. D.
 
- If then about the end of the second century and in the third, the Ābhiras enjoyed high political position, they must have migrated into the country in the first century. They probably brought with them the worship of the boy-god and the story of his humble birth, his reputed father's knowledge that he was not his son, and the massacre of the innocents.The two last correspond to Nanda's knowing that he was not the father of Kṛṣṇa and Kaṁsa's killing all children. The stories of Kṛṣṇa's hoyhood, such as that of killing Dhenuka, a demon in the form of a wild ass, were brought by [Ābhiras](# "Journal of the Royal Asiatic Society for 1907, p. 981."), and others were developed after they came to India. It is possible that they brought with them the name Christ also, and this name probably led to the identification of the boy-god with Vāsudeva-Kṛṣṇa, The Goanese and the Bengalis often pronounce the name Kṛṣṇa as Kuṣṭo or Kriṣṭo, and so the Christ of the Ābhiras was recognised as the Sanskrit Kṛṣṇa.
+ If then about the end of the second century and in the third, the Ābhiras enjoyed high political position, they must have migrated into the country in the first century. They probably brought with them the worship of the boy-god and the story of his humble birth, his reputed father's knowledge that he was not his son, and the massacre of the innocents.The two last correspond to Nanda's knowing that he was not the father of Kṛṣṇa and Kaṁsa's killing all children. The stories of Kṛṣṇa's hoyhood, such as that of killing Dhenuka, a demon in the form of a wild ass, were brought by Ābhiras[^18], and others were developed after they came to India. It is possible that they brought with them the name Christ also, and this name probably led to the identification of the boy-god with Vāsudeva-Kṛṣṇa, The Goanese and the Bengalis often pronounce the name Kṛṣṇa as Kuṣṭo or Kriṣṭo, and so the Christ of the Ābhiras was recognised as the Sanskrit Kṛṣṇa.
+
+[^18]: "Journal of the Royal Asiatic Society for 1907, p. 981."
 
  The dalliance of Kṛṣṇa with cowherdesses, which introduced an element inconsistent with the advance of morality into the Vāsudeva religion, was also an after-growth, consequent upon the freer intercourse between the wandering Ābhīras and their more civilised Āryan neighbours. Morality cannot be expected. to be high or strict among races in the condition of the Ābhīras at the time and their gay neighbours took advantage of its looseness. Besides, the Ābhīrawomen must have been fair and handsome as those of the Āhir-Gavaliyas or cowherds of the present day are.
 
@@ -10054,7 +10356,9 @@ great Upaniṣad of Brahman, springs forth from it for the redemption of the wor
 
 2.Vibbavas are the incarnations of the Supreme Spirit.
 
- §40. The book called Nāradapañcarātra, published by the Asiatic Society of Bengal, contains the Saṁhitācalled Jñānāmṛitasāra. The glories of the boy Kṛṣṇa are sung in this work. Nārada desiring to know Kṛṣṇa's greatness and the methods of his worship is recommended to go to Śaṁkara, or Śiva, and seek instruction from him. Nārada repairs to Kailāsa and enters the palace of Śaṁkara, which has seven gates. At these gates there are pictures and sculptures relating to the scenes of Kṛṣṇa's childhood and his various deeds in the cow-settlement, such as Vṛṇḍavana, Yamunā, Kṛṣṇa's sitting on the Kadamba tree with the garments of the cowherdesses and their return from bath in the Yamunā river in a naked condition, the destruction of the serpent Kāliya, the holding up of the Govardhana mountain on the palm of his hand, the journey to Mathurā and the lamentations of the. Gopīs and his foster-parents, etc. Sculptures representing some of these events were discovered on a pillar excavated at Mandor near Jodhpur about two years [ago](# "Archeological Survey of India, Annual Report, 1905-1906. p. 135    8.[R.G. Bhandarkar s Works, Vol. IV]"). The age of the pillar has been considered not earlier than the fourth century A. D. The idea of imagining such sculptures on the gates of Śiva's palace could have. occurred to a writer only when the practice of adorning gates and pillars with such sculptures had become general. The Jñānāmṛtasāra, therefore, could not have been earlier than fourthcentury and appears to me to be considerably later, as will be presently shown.
+ §40. The book called Nāradapañcarātra, published by the Asiatic Society of Bengal, contains the Saṁhitācalled Jñānāmṛitasāra. The glories of the boy Kṛṣṇa are sung in this work. Nārada desiring to know Kṛṣṇa's greatness and the methods of his worship is recommended to go to Śaṁkara, or Śiva, and seek instruction from him. Nārada repairs to Kailāsa and enters the palace of Śaṁkara, which has seven gates. At these gates there are pictures and sculptures relating to the scenes of Kṛṣṇa's childhood and his various deeds in the cow-settlement, such as Vṛṇḍavana, Yamunā, Kṛṣṇa's sitting on the Kadamba tree with the garments of the cowherdesses and their return from bath in the Yamunā river in a naked condition, the destruction of the serpent Kāliya, the holding up of the Govardhana mountain on the palm of his hand, the journey to Mathurā and the lamentations of the. Gopīs and his foster-parents, etc. Sculptures representing some of these events were discovered on a pillar excavated at Mandor near Jodhpur about two years ago[^19]. The age of the pillar has been considered not earlier than the fourth century A. D. The idea of imagining such sculptures on the gates of Śiva's palace could have. occurred to a writer only when the practice of adorning gates and pillars with such sculptures had become general. The Jñānāmṛtasāra, therefore, could not have been earlier than fourthcentury and appears to me to be considerably later, as will be presently shown.
+
+[^19]: "Archeological Survey of India, Annual Report, 1905-1906. p. 135    8.[R.G. Bhandarkar s Works, Vol. IV]"
 
  Goloka or the world of cows is the heaven in which Kṛṣṇa dwells and which is reached by those who adore him, and several Mantras are given in this book, the reciters of which are rewarded. with a place in that heaven. The servitude of Hari through devotion is the highest Mukti or absolution according to this work. There are six modes of adoring Hari; viz., (1) remembrance of him, (2) utterance, ( of his name and glory ). ( 3 ) salutation, (4) resorting to his feet, (5) constant worship of him with devotion, and (6) surrender of the whole soul to him. The Bhāgavata-Purāṇa adds three more, viz., hearing (his praise ), servitude, and companionship (Ṡakhyam). These last two are preliminary to
 
@@ -10066,7 +10370,9 @@ XI\. The Avatāras of Viṣṇu or Nārāyaṇa.
 
  § 41. An Avatāra or incarnation of a god differs from mereidentification of two gods in this, that in the former case the god that is considered an incarnation acts like a human being, or even a brute, at the same time that he has the miraculous powers of a god. The transition, however, from the idea of identification to that of incarnation is easy. The person in the flesh is identified with the god who is a mere spirit, so that the habit of thought which in Vedic times led to the identification of some of the Vedic deities with Agni, has been at work even in this conception of the Avatāras.
 
- The Avatāras of Nārāyaṇaor Viṣṇu are variously given by the various authorities. In the passage in the Nārāyaṇīyatranslated [above](# "Ante, p. 9 [N. B. U.]"),' six only are given, viz, the boar, the manlion, the dwarf, Rāma of the Bhṛgu race,Rāma Dāśarathi and that assumed for the destruction of Kaṁsa (Vāsudeva-KṛṣṇaThis passage is followed after a short interval by another in which the incarnations are given as ten, the additions being Haṁsa (swan), Kūrma (turtoise), and Matsya (fish) in the beignning and Kalkin at the end. The one preceding Kalkin is called Sātvata, i. e.. Vāsudeva-Kṛṣṇa. This passage, following so closely on the
+ The Avatāras of Nārāyaṇaor Viṣṇu are variously given by the various authorities. In the passage in the Nārāyaṇīyatranslated above[^20],' six only are given, viz, the boar, the manlion, the dwarf, Rāma of the Bhṛgu race,Rāma Dāśarathi and that assumed for the destruction of Kaṁsa (Vāsudeva-KṛṣṇaThis passage is followed after a short interval by another in which the incarnations are given as ten, the additions being Haṁsa (swan), Kūrma (turtoise), and Matsya (fish) in the beignning and Kalkin at the end. The one preceding Kalkin is called Sātvata, i. e.. Vāsudeva-Kṛṣṇa. This passage, following so closely on the
+
+[^20]: "Ante, p. 9 [N. B. U.]"
 
 first, appears to be interpolated when the number of Avatāras became fixed at ten.
 
@@ -10083,31 +10389,51 @@ and General Vaiṣṇavism.**
 
  § 42. We will now resume the chronological thread we have traced from Megasthenes to the latest Inscription, that at Nanaghat, which is to be referred to the first century B. C. For about four centuries after this there are no epigraphical or sculptural traces of any Brāhmanic religious system; and they reappear about the time when the Guptas rose to power in the first quarter of the fourth century. The Gupta princes, Candragupta II, Kumāragupta, and Skandagupta, are styled Paramabhāgavatas on their coins. They were thus worshippers of Bhagavat or Vāsudeva. Their dates range from 400 to 464 A. D.
 
- On a panel at Udayagiri, there is a figure of a four-armed god, who is probably Viṣṇu. The Inscription below bears the date. 82 G. E., i. e.. 400 [A. D.](# "Corp. Inser. Ind. Vol. III, p. 21.")
+ On a panel at Udayagiri, there is a figure of a four-armed god, who is probably Viṣṇu. The Inscription below bears the date. 82 G. E., i. e.. 400 A. D.[^21]
 
- There is a pillar at Bhitari in the Ghazipur District of the U. P., on which there is an Inscription which records the installation of an image of Śārṅgin and the grant of a village for its worship by Skandagupts, whose dates range between 454 and 464 [A. D](# "Ibid. p. 52.ff."). Śārṅgin must have been Vāsudeva-Kṛṣṇa,Skanda- gupta himself being a Bhāgavata.
+ There is a pillar at Bhitari in the Ghazipur District of the U. P., on which there is an Inscription which records the installation of an image of Śārṅgin and the grant of a village for its worship by Skandagupts, whose dates range between 454 and 464 A. D[^22]. Śārṅgin must have been Vāsudeva-Kṛṣṇa,Skanda- gupta himself being a Bhāgavata.
 
- A temple of Viṣṇu was erected in 456 A. D. by Cakrapālita, son of Parṇadatta, appointed viceroy of Surāṣṭra or Kathiavad by Skandagupta. The Inscription, which records this, opens with an invocation of Viṣṇu in the Vāmana or the dwarf [incarnation](# "Ibid. p. 56ff.").
+[^21]: "Corp. Inser. Ind. Vol. III, p. 21."
+
+[^22]: "Ibid. p. 52.ff."
+
+ A temple of Viṣṇu was erected in 456 A. D. by Cakrapālita, son of Parṇadatta, appointed viceroy of Surāṣṭra or Kathiavad by Skandagupta. The Inscription, which records this, opens with an invocation of Viṣṇu in the Vāmana or the dwarf incarnation[^23].
+
+[^23]: "Ibid. p. 56ff."
 
  In an Inscription at Eran in the Sagar district, C. P., belonging to the reign of Budhagupta and bearing the date 165 G. E., corresponding to 483 A. D., Mātrviṣṇu and his younger brother Dhanyaviṣṇuare represented to have erected & Dhvajastambha or flag-
 
-staff in honour of the god Janārdana. Mātṛviṣṇu is called a great devotee of Bhāgavat (Atyanta-Bhagavad-[bhakta](# "Ibid. p. 88 ff.")). The god Janārdana must therefore be Vāsudeva-Krṣṇa.
+staff in honour of the god Janārdana. Mātṛviṣṇu is called a great devotee of Bhāgavat (Atyanta-Bhagavad-bhakta[^24]). The god Janārdana must therefore be Vāsudeva-Krṣṇa.
 
- A copper-plate Inscription of A. D. 495, found near the village. of Khoh in Baghelkhand, records the grant of a village, by a chief named Jayanātha, to Bhagavat for repairs to the temple of that god and for the performance of ordinary [ceremonies](# "Ibid. p. 121 ff.").
+[^24]: "Ibid. p. 88 ff."
 
- An Inscription on an iron pillar near Kutub Minar at Delhi speaks of that pillar as a flag-staff to Viṣṇu erected by a great king named Candra, who enjoyed universal sovereignty and was a great devotee of Viṣṇu. The Inscription is not dated, but if the Candra referred to here was Candragupta II, it belongs to the latter part of the fourth century or the beginning of the [fifth](# "Ibid. p. 339 ff.").
+ A copper-plate Inscription of A. D. 495, found near the village. of Khoh in Baghelkhand, records the grant of a village, by a chief named Jayanātha, to Bhagavat for repairs to the temple of that god and for the performance of ordinary ceremonies[^25].
+
+[^25]: "Ibid. p. 121 ff."
+
+ An Inscription on an iron pillar near Kutub Minar at Delhi speaks of that pillar as a flag-staff to Viṣṇu erected by a great king named Candra, who enjoyed universal sovereignty and was a great devotee of Viṣṇu. The Inscription is not dated, but if the Candra referred to here was Candragupta II, it belongs to the latter part of the fourth century or the beginning of the fifth[^26].
+
+[^26]: "Ibid. p. 339 ff."
 
  In his Meghadūta (v. 15) Kalidāsa compares the cloud adorned with a piece of a rain-bow, with Viṣṇu in the shape of the cow-herd. adorned with a shining peacock feather. Here there is an identification of Gopāla-Krṣṇa with Viṣṇu; and, if the Vikramāditya who was the patron of Kalidāsa was Candragupta II of the Gupta Dynasty, this must be considered to be a record belonging to the early part of the fifth century.
 
  We have already alluded to the sculptures on a pillar excavated at Mandor near Jodhpur. These sculptures represent the overturning of a cart by the baby Krṣṇa, the holding of the Govardhana Mountain by Krṣṇa on the palm of his hand, and such other events. I refer them tentatively to the fifth century.
 
- In Śaka 500, Maṅgalīśa, a prince belonging to the early Cālukya dynasty of the Deccan, got a cave scooped out, in which a temple to Viṣṇu was constructed, and an image of Viṣṇu was installed in it. The provision for the performance of Nārāyaṇabali (offerings to Nārāyaṇa) was made by assigning the revenues of a village for the [purpose](# "Ind. Ant. Vol. III. p. 305; Vol. VI. p. 363,"). In this cave-temple there are figures. of Viṣṇu and Nārāyaṇa lying on the body of a serpent, with Lakşmīrubbing his feet, and of the Boar and Narasiṁha incarna
+ In Śaka 500, Maṅgalīśa, a prince belonging to the early Cālukya dynasty of the Deccan, got a cave scooped out, in which a temple to Viṣṇu was constructed, and an image of Viṣṇu was installed in it. The provision for the performance of Nārāyaṇabali (offerings to Nārāyaṇa) was made by assigning the revenues of a village for the purpose[^27]. In this cave-temple there are figures. of Viṣṇu and Nārāyaṇa lying on the body of a serpent, with Lakşmīrubbing his feet, and of the Boar and Narasiṁha incarna
 
-tions, and of Harihara in which the peculiar marks of Hari, or Viṣṇu, and of Hara, or Śiva, are [combined](# "Fergusson and Burgess, Cave Temples, p. 407.").
+[^27]: "Ind. Ant. Vol. III. p. 305; Vol. VI. p. 363,"
 
- In mentioning the priests who are qualified to install and conseorate the images of certain gods, Varāhamihira says that this function in the case of Viṣṇu should be assigned to [Bhāgavatas](# "Br. S. 60. 19."). Bhāgavatas were thus recognised in his time as the peculiar worshippers of Viṣṇu. Varāhamihira died in Śaka, i. e. 587 [A.D.](# "Bhau Daji. Lit. Remains, p. 240.")
+tions, and of Harihara in which the peculiar marks of Hari, or Viṣṇu, and of Hara, or Śiva, are combined[^28].
+
+[^28]: "Fergusson and Burgess, Cave Temples, p. 407."
+
+ In mentioning the priests who are qualified to install and conseorate the images of certain gods, Varāhamihira says that this function in the case of Viṣṇu should be assigned to Bhāgavatas[^29]. Bhāgavatas were thus recognised in his time as the peculiar worshippers of Viṣṇu. Varāhamihira died in Śaka, i. e. 587 A.D.[^30]
+
+[^29]: "Br. S. 60. 19."
 
  Amarasiṁha, the author of the well-known Kośa or thesaurus, was a Buddhist. After giving the words expressive of gods. generally, when he comes to the names of particular gods, he begins by giving those of Buddha and proceeds next to give the names Viṣṇu, Nārāyaṇa etc., of which we have thirty-nine. After finishing these he says that Vāsudeva was his father. This means that the thirty-nine names proviously given are the names of Vāsudeva. If we examine these, we shall find that hefore Amare's time Vāsudeva had already been identified with Viṣṇu and NārāyaṇaExcept the name Dāmodara, there is no other con- necting Vāsudeva with Gokula, and the etymology of Dāmodara which connects him with that cow-settlement is doubtful. While Kaṁsārāti, or the enemy of Kaṁsa, does occur, we have no such name as Pūtanāri, the enemy of Pūtanā, or any other derived. from the names of the many demons he slew while he was a boy. There are also no names of incarnations except the doubtful one, Balidhvaṁsin, which however, has been interpreted by one. commentator as the destroyer of ignorance by means of Bali or oblations. There are, of course, several names derived from those. of other demons, such as Madhuripu and Kaitabhajit, but these are not the enemies destroyed by Viṣṇu in his incarnations as they are usually mentioned. After giving the name of the father of Vāsudeva-Kṛṣṇa, Amara proceeds to mention those of Saṁkarsana, or Baladeva, and afterwards of Pradyumna and Aniruddha. Thereafter he mentions those of Lakṣmi, the wife of Nārāyaṇa or Viṣṇu, then those of the weapons of the god and his ornaments, and ends with the names of Garuḍa, the vehicle of Viṣṇu After
+
+[^30]: "Bhau Daji. Lit. Remains, p. 240."
 
 finishing these he proceeds to the other great god of the Hindus, Śambhu or Śiva.
 
@@ -10117,7 +10443,9 @@ finishing these he proceeds to the other great god of the Hindus, Śambhu or Śi
 
  In the Daśāvatāra temple at Ellora there is a figure of Viṣṇu on the body of a serpent with Lakṣmi rubbing his feet and Brahmāseated on a lotus coming out of his navel. There are also images of the Narasiṁha, Vāmana and Varāha incarnations, as well as of Kṛṣṇa holding the Govardhana Mountain over the flocks of the cow-settlement. This temple was constructed about the middle of the eighth century in the time of Dantidurga of the Rāṣṭrakūṭa race. There are similar figures of Avatāras in the Kailāsa temple. scooped out in the latter part of the eighth century, in the time of Kṛṣṇa I, uncle of Dantidurga. Among these is also the scene of the destruction of Kāliya by Kṛṣṇa.
 
- There is an Inscription in a cave at Pabhosa, about 32 miles south-west of Allahabad, which probably had a human figure. above and runs thus: "The maker of the images of Sri-Kṛṣṇa andthe milk-maids". The date is uncertain, but the Inscription is referred to the seventh or eighth century by [Bühler](# "Ep. Ind., Vol. II. p., 182.").
+ There is an Inscription in a cave at Pabhosa, about 32 miles south-west of Allahabad, which probably had a human figure. above and runs thus: "The maker of the images of Sri-Kṛṣṇa andthe milk-maids". The date is uncertain, but the Inscription is referred to the seventh or eighth century by Bühler[^31].
+
+[^31]: "Ep. Ind., Vol. II. p., 182."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -10129,7 +10457,9 @@ finishing these he proceeds to the other great god of the Hindus, Śambhu or Śi
 
  At Osia, 32 miles north of Jodhpur, there is an old temple adjoining to the house of the local Jahagirdar. On two pilasters. projecting from the shrine into the Sabhāmaṇḍapa, are two images of deities both seated on Garuḍa. Both have four hands, but one. of them holds a conch-shell, the discus, the mace and the lotus, and the other bears a plough-share and a mace in his two hands, the other two being empty. The last has his head canopied by a five-hooded serpent. They are apparently Vāsudeva and Saṁkarṣaṇa. The temple cannot be later than the ninth century³.
 
- In a work called Dharmaparīkṣā, Amitagati, the author, who was a Digambara Jaina, says that there were according to the legendary lore current among the Jainas sixty-three eminent men: the twelve supreme sovereigns, the twenty-four Arhats (Jinas), and nine Rāmas, nine Keśavas, and the nine enemies of these mine. The last of the Viṣṇus ( Keśavas) was the son of Vāsudeva, and his Brāhmaṇa devotees call him the pure, the supreme being. They say: "He who meditates upon the god Viṣṇu, who is allpervading, a whole without parts, indestructible and unchangeable, who frees a man from old age and death, is free from misery".He is traditionally known to have ton forms or incarnations. These ten forms are the same as mentioned in the Varāha and [AgniPurāṇas](# "See above [p. 59 N. B. U. ]") and which are now generally accepted. Thus Buddha had come to be recognised as an incarnation of Viṣṇu before
+ In a work called Dharmaparīkṣā, Amitagati, the author, who was a Digambara Jaina, says that there were according to the legendary lore current among the Jainas sixty-three eminent men: the twelve supreme sovereigns, the twenty-four Arhats (Jinas), and nine Rāmas, nine Keśavas, and the nine enemies of these mine. The last of the Viṣṇus ( Keśavas) was the son of Vāsudeva, and his Brāhmaṇa devotees call him the pure, the supreme being. They say: "He who meditates upon the god Viṣṇu, who is allpervading, a whole without parts, indestructible and unchangeable, who frees a man from old age and death, is free from misery".He is traditionally known to have ton forms or incarnations. These ten forms are the same as mentioned in the Varāha and AgniPurāṇas[^32] and which are now generally accepted. Thus Buddha had come to be recognised as an incarnation of Viṣṇu before
+
+[^32]: "See above [p. 59 N. B. U. ]"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -10151,7 +10481,13 @@ XIII\. The Cult of Rāma.
 
 \[R. G. Bhandarker's Works, Vol. IV.\]
 
- Amitagati also speaks in 1014 A. D., as we have [seen](# "Ante, p. 64 [N. B. U. ]"), of Rāma's being regarded as the all-knowing, all-pervading protector of the world. The Vāyu-Purāṇa, which is the earliest work of that class, must have been written about the fifth century; so that the belief in Rāma's being an incarnation of Viṣṇu existed. in all probability in the early centuries of the Christian Era. But there is no mention of his name in such a work as that of Patañjali, nor is there any old Inscription in which it occurs. Amarasiṁha, too, has no place for him in his scheme of Brāhmaṇic gods. These circumstances, as well as those mentioned above, show that, though he was regarded as an Avatāra, there was no cult in his honour. Still, as depicted by Vālmīki, Rāma was a high-souled hero, and poets, including those nameless ones. who wrote Purāṇas in the names of old Ṛṣi, particularly Bhavabhūti, still more highly exalted his character. Rāma, therefore, won a place in the heart of the Indian people, and that must have. soon led to the foundation of the cult. But when this took place it is difficult to say. Madhva or Ānandatīrtha, the founder of a sect to be noticed hereafter, is represented to have brought the image of Digvijaya Rāma from Badarikāśrama and sent Naraharitīrtha to Jagannātha about the year 1264 [A. D](# "See below.")., to bring what was called the original idols of Rāma and Sits. The cult of Rāma, therefore, must have come into existence about the eleventh century. There exist manuals giving the modes of worship by means of Mantras or formulae and magic circles, like those proscribed in the Sātvata-Saṁhitāfor the worship of Vāsudeva. The ceremony in connection with his birth on the 9th of the bright half of Caitra is given in his [Vratakhaṇḍa](# "P.941 (Bibl. Ind.).")by Hemādri, who flourished in the thirteenth century. That writer, as well as Vṛddhā-Hārita⁴, gives the modes of worshipping him as an incarnation along with others on certain occasions, so that it appears that his worship as an incarnation has been of a longer duration than that based on terms of equality with Vāsudeva-Kṛṣṇa.
+ Amitagati also speaks in 1014 A. D., as we have seen[^33], of Rāma's being regarded as the all-knowing, all-pervading protector of the world. The Vāyu-Purāṇa, which is the earliest work of that class, must have been written about the fifth century; so that the belief in Rāma's being an incarnation of Viṣṇu existed. in all probability in the early centuries of the Christian Era. But there is no mention of his name in such a work as that of Patañjali, nor is there any old Inscription in which it occurs. Amarasiṁha, too, has no place for him in his scheme of Brāhmaṇic gods. These circumstances, as well as those mentioned above, show that, though he was regarded as an Avatāra, there was no cult in his honour. Still, as depicted by Vālmīki, Rāma was a high-souled hero, and poets, including those nameless ones. who wrote Purāṇas in the names of old Ṛṣi, particularly Bhavabhūti, still more highly exalted his character. Rāma, therefore, won a place in the heart of the Indian people, and that must have. soon led to the foundation of the cult. But when this took place it is difficult to say. Madhva or Ānandatīrtha, the founder of a sect to be noticed hereafter, is represented to have brought the image of Digvijaya Rāma from Badarikāśrama and sent Naraharitīrtha to Jagannātha about the year 1264 A. D[^34]., to bring what was called the original idols of Rāma and Sits. The cult of Rāma, therefore, must have come into existence about the eleventh century. There exist manuals giving the modes of worship by means of Mantras or formulae and magic circles, like those proscribed in the Sātvata-Saṁhitāfor the worship of Vāsudeva. The ceremony in connection with his birth on the 9th of the bright half of Caitra is given in his Vratakhaṇḍa[^35].")by Hemādri, who flourished in the thirteenth century. That writer, as well as Vṛddhā-Hārita⁴, gives the modes of worshipping him as an incarnation along with others on certain occasions, so that it appears that his worship as an incarnation has been of a longer duration than that based on terms of equality with Vāsudeva-Kṛṣṇa.
+
+[^33]: "Ante, p. 64 [N. B. U. ]"
+
+[^34]: "See below."
+
+[^35]: "P.941 (Bibl. Ind.
 
  Twenty-four images, differing from each other in the order in which the four objects, viz., the conch-shell, disous, mace
 
@@ -10161,7 +10497,9 @@ XIII\. The Cult of Rāma.
 
 and lotus, are placed in the four hands of the principal god Vāsudeva or Viṣṇu, are mentioned by both those authors, and the twenty-four names¹ corresponding to the twenty-four images. Keśava, Nārāyaṇa, Govinda, etc., which include those of the four Vyūhas, are repeated by us at the beginning of every ceremony that we perform at the present day; that is, obeisance is made to the twenty-four forms of the god by using the word Namaḥ (salutations) after the dative of each of the names, and the sense is 'Saluations to Keśava, Nārāyaṇa, etc,'. The name of Rāma, however, is not included in them, while two other Avatāras, Narasiṁha and Vāmana, are mentioned. Every Śrāddha ceremony is wound up by the expression May Janārdana-Vāsudeva, who is a form of the ancestors, or the father, grandfather and great grandfather, be satisfied by this act". All this shows that Vāsudevism has penetrated into every one of our ordinary ceremonies, which include a repetition even of Vedic Mantras, while this is not at all the case. with the cult of Rāma, which is, therefore of a modern growth.
 
- There is a work, entitled the Adhyātma-Rāmāyaṇa, which [Ekanātha](# "See his Bhāvārtha-Rāmāyaṇa,Āraṇyakāṇḍa."), a Mahārāṣṭra saint, who flourished in the sixteenth century, calls a modern treatise, composed of excerpts from older writings and having no pretence to be considered as emanating from the old Ṛṣis. The object of this work throughout has. been to set forth the divinity of Rāma. The first book of it com- prises what is called Rāmahṛdaya, which which was narrated to Hanūmat by Sītā, who says that as the original Prakṛti, she does every thing and did all the deeds mentioned in the Rāmayaṇa, while Rāma as the only existing soul is inactive, unchangeable and blessed, and is a mere witness of her deeds. After she has concluded, Rāma explains the threefold nature of the knowing spirit, viz., (1) the original, (2) that conditioned by Buddhi or
+ There is a work, entitled the Adhyātma-Rāmāyaṇa, which Ekanātha[^36], a Mahārāṣṭra saint, who flourished in the sixteenth century, calls a modern treatise, composed of excerpts from older writings and having no pretence to be considered as emanating from the old Ṛṣis. The object of this work throughout has. been to set forth the divinity of Rāma. The first book of it com- prises what is called Rāmahṛdaya, which which was narrated to Hanūmat by Sītā, who says that as the original Prakṛti, she does every thing and did all the deeds mentioned in the Rāmayaṇa, while Rāma as the only existing soul is inactive, unchangeable and blessed, and is a mere witness of her deeds. After she has concluded, Rāma explains the threefold nature of the knowing spirit, viz., (1) the original, (2) that conditioned by Buddhi or
+
+[^36]: "See his Bhāvārtha-Rāmāyaṇa,Āraṇyakāṇḍa."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -10175,7 +10513,9 @@ XIV\. Vāsudevism or Vaiṣṇavism in the South,
 
 two centuries before Ānandatīrtha to account for the reputation of the sacred character which it acquired in his time. It cannot be very much older, for its style often looks modern and in copying from the older Purāṇas it falls into mistakes, such as the one pointed out by me in another place¹. The Draviḍa devotees, therefore, noticed in the Bhāgavata, must have mostly flourished before the eleventh century.
 
- These devotees, who are known by the name of Ālvārs, are generally reckoned as twelve in number and are divided into three classes by S. Krishnaswami [Aiyengar](# "Ind. Ant. Vol, XXXV, p. 228.") in accordance with the received chronology which he follows to determine. their sequence, though in itself it assigns a preposterously high antiquity to them. Their names, Tamil and Sanskrit, are as follows:—
+ These devotees, who are known by the name of Ālvārs, are generally reckoned as twelve in number and are divided into three classes by S. Krishnaswami Aiyengar[^37] in accordance with the received chronology which he follows to determine. their sequence, though in itself it assigns a preposterously high antiquity to them. Their names, Tamil and Sanskrit, are as follows:—
+
+[^37]: "Ind. Ant. Vol, XXXV, p. 228."
 
 |         |                      |                            |
 |---------|----------------------|----------------------------|
@@ -10193,13 +10533,19 @@ two centuries before Ānandatīrtha to account for the reputation of the sacred 
 |        | TiruppāṇĀlvārr      | Yogivāhana                 |
 |        | Tirumangai Ālvār    | Parakāla                   |
 
- The date of the first, ordinarily given, is B. C. 4203 and of the last, B. C. 2706, and the others range between these two. Not only are these dates fanciful, but even the sequence shown above is unreliable. Krishnaswami places the last in the earlier half of the eighth century A. D., and all the preceding ones impliedly before that date. But there is distinct evidence to show that Kulaśekhara flourished much later. He was a king of Travancore, and one ofthe works composed by him styled Mukundamāla contains a verse from the Bhāgavata-Purāṇa [(XI. 2. 36)](# "Kāyena vācāmanasendriyair vā, etc.").
+ The date of the first, ordinarily given, is B. C. 4203 and of the last, B. C. 2706, and the others range between these two. Not only are these dates fanciful, but even the sequence shown above is unreliable. Krishnaswami places the last in the earlier half of the eighth century A. D., and all the preceding ones impliedly before that date. But there is distinct evidence to show that Kulaśekhara flourished much later. He was a king of Travancore, and one ofthe works composed by him styled Mukundamāla contains a verse from the Bhāgavata-Purāṇa (XI. 2. 36)[^38].
+
+[^38]: "Kāyena vācāmanasendriyair vā, etc."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.Early History of the Deccan (Second Edition), pp. 32-33. \[=Vol. III, p. 46 of this Edition-N. B. U.\]
 
- Again in an Inscription on a tablet, existing in a temple at Narēgal in the Dharwar district, translated by Dr. [Fleet](# "JBBRAS, Vol. XI. p. 244."), it is stated that Permāḍi of the Sinda dynasty vanquished Kulaśekharāṅka, besieged Chaṭṭa, pursued Jayakśin, and seized upon the royal power of Poysala and invested Dhorasamudra, the capital of the Poysala dynasty. In another [Inscription](# "Ibid. p. $51,")this Permāḍi is represented to be a vassal of Jagadekamalla II, whose dates range between A. D. 1138 and 1150. While the former was in power as Mahāmaṇḍaleśvara in the seventh year of Jagadekamalla, i. e., in A. D. 1144, a certain grant was made by a body of sellers of betel. leaves and nuts. The Kulaśekharāṅka, mentioned as being. vanquished by this Permāḍi, must be a prince reigning on the western coast, as the others, Jayakeśin, the Kadamba prince of Goa, the Hoysala king, and so forth, were. Putting this statement and the quotation from the Bhāgavata-Purāṇa together, it appears. highly probable that the Ālvār Kulaśekhara lived in the first half of the twelfth century. The sequence, therefore, given above cannot be implicitly believed in.
+ Again in an Inscription on a tablet, existing in a temple at Narēgal in the Dharwar district, translated by Dr. Fleet[^39], it is stated that Permāḍi of the Sinda dynasty vanquished Kulaśekharāṅka, besieged Chaṭṭa, pursued Jayakśin, and seized upon the royal power of Poysala and invested Dhorasamudra, the capital of the Poysala dynasty. In another Inscription[^40]this Permāḍi is represented to be a vassal of Jagadekamalla II, whose dates range between A. D. 1138 and 1150. While the former was in power as Mahāmaṇḍaleśvara in the seventh year of Jagadekamalla, i. e., in A. D. 1144, a certain grant was made by a body of sellers of betel. leaves and nuts. The Kulaśekharāṅka, mentioned as being. vanquished by this Permāḍi, must be a prince reigning on the western coast, as the others, Jayakeśin, the Kadamba prince of Goa, the Hoysala king, and so forth, were. Putting this statement and the quotation from the Bhāgavata-Purāṇa together, it appears. highly probable that the Ālvār Kulaśekhara lived in the first half of the twelfth century. The sequence, therefore, given above cannot be implicitly believed in.
+
+[^39]: "JBBRAS, Vol. XI. p. 244."
+
+[^40]: "Ibid. p. $51,"
 
  Still it may be admitted that the earliest Ālvārs flourished about the time of the revival of Brāhamaṇism and Hinduism in the North, which extended up to the Maratha country, as wel have shown from Inscriptions and antiquarian remains, and must have extended still farther to the South. The earliest Ālvārs may be placed before about the fifth or sixth century, but there is nothing to show that Vaiṣṇavism had not penetrated to the Tamil country earlier, i. e., about the first century. But an impetus, such as the rise of the Ālvārs indicates, could in all probability come. only from the energy of the revival. The hostile relations into which the Ālvārs and the Śaiva saints, Nāyanmārs, came with the Buddhists and Jainas, lend support to the view we have. advocated.
 
@@ -10217,7 +10563,9 @@ XV\. Rāmānuja.
 
  § 46. Rāmānuja was born in Śaka 938 corresponding to 1016. or 1017 A. D. In his youth he lived at Kāñcīpura or Conjeevaram and was a pupil of Yādavaprakāśa, who was an Advaita philosopher and therefore professed spiritual monism. Rāmānuja whose inclinations were towards Vaiṣṇavism, was dissatisfied with the teachings of his master, and the ultimate result was his seperation from him. He applied himself to the study of the Prabandhas of the Ālvārs and drank in their spirit. When he became a successor of Yāmunācārya, he lived at Śrīraṅgam, near Trichinopoly, and did his life's work there. He is said to have gone on a pilgrimage to the noted holy places of Upper India. In the latter. years of his age he was subjected to persecution by the Cols Fprince of his time, who wanted him to renounce Vaiṣṇavism for Śaivism, in consequence of which he took refuge in 1096 A. D. in the dominions of the Hoysala Yādava princes, who reigned in Mysore and whose capital was Dvarasamudra, the modern Halebid. There he converted Vitthala Deva, popularly called Biṭṭi Deva, Biṭṭi being, in all likelihood, the corruption of Viṭṭhala or Viṭṭhi. This took place in 1098 A. D. Viṭṭhala Deva was not the reigning prince, but administered some of the frontier provinces in the name of his brother Ballāla, who was on the
 
-throne¹. Viṭṭhala Deva or Biṭṭi Deva was called Viṣṇuvardhana after his conversion to Vaiṣṇavism. This is the ordinary account. But what appeurs true is that his name was originally Viṣṇu, which was corrupted into Biṭṭu or Biṭṭi in the Kanarese, the vernacular of the district, so that his original name Biṭṭi Deva is the same as Viṣṇu Deva which he is represented to have assumed after his conversion. He reigned from 1104 to 1141 [A. D](# "Imperial Gazetteer, Vol. XVIII, p. 173,"). Rāmānuja composed the following works: Vedāntasāra,—Vedārthasaṁgraha, Vedāntadīpa, and commentaries, or Bhāṣyas, on the Brahṁasūtras and the Bhagavadgītā³.
+throne¹. Viṭṭhala Deva or Biṭṭi Deva was called Viṣṇuvardhana after his conversion to Vaiṣṇavism. This is the ordinary account. But what appeurs true is that his name was originally Viṣṇu, which was corrupted into Biṭṭu or Biṭṭi in the Kanarese, the vernacular of the district, so that his original name Biṭṭi Deva is the same as Viṣṇu Deva which he is represented to have assumed after his conversion. He reigned from 1104 to 1141 A. D[^41]. Rāmānuja composed the following works: Vedāntasāra,—Vedārthasaṁgraha, Vedāntadīpa, and commentaries, or Bhāṣyas, on the Brahṁasūtras and the Bhagavadgītā³.
+
+[^41]: "Imperial Gazetteer, Vol. XVIII, p. 173,"
 
  § 47.The Vedāntic theory, or the theory based upon the Brahmasūtras and the Upaniṣads, which Rāmānuja set up to provide scope for the feeling of Bhakti, or love for God and the spirit of worship, was that there are three eternal principles, the individual or animal soul (Cit), the insensate world (Acit), and the Supreme Soul (Īśvara).
 
@@ -10251,11 +10599,17 @@ throne¹. Viṭṭhala Deva or Biṭṭi Deva was called Viṣṇuvardhana after
 
  IV. Antaryāmin, in which mode he dwells in the heart and is to be seen by Yogins and accompanies the individual souls even when they go to heaven or hell.
 
- V. Idols or images set up in houses, villages, towns, etc., made up of a material chosen by the worshipper, in which he dwells. with a body not made up of [matter](# "Yatīndramatadīpikā, 9.").
+ V. Idols or images set up in houses, villages, towns, etc., made up of a material chosen by the worshipper, in which he dwells. with a body not made up of matter[^42].
+
+[^42]: "Yatīndramatadīpikā, 9."
 
  Other authorities leave out Vāsudeva from the Vyūhas and have the other three only. The Arthapañcaka has another form. of the Antaryāmin, in which form he dwells in everything and rules over all, is bodiless, all-pervading and store of all good attributes, and is called Viṣṇu, Nārāyaṇa, Vāsudeva³, etc.
 
- Self-consciousness, knowledge, union as a soul with a body, agency, are attributes common to the supreme and individual [souls](# "yat.8"). The latter is self-illumined, joyous, eternal, atomic, imperceptible to the senses, unthinkable, devoid of parts, unchangeable, the substratum of knowledge, subject to God's control, depending on God's existence for his own existence and an attribute of [God](# "Tattvatraya"). This description of the individual soul differs agreat deal from that of SŚaṁkarācārya, who attributes no agency or substantiality to it; and the dependence on God in a variety of ways cannot, of course, be thought of under the doctrine of spiritual monism. The soul's being an atom is also denied by Śamkara's school and various others. The souls are many and are divided into:—
+ Self-consciousness, knowledge, union as a soul with a body, agency, are attributes common to the supreme and individual souls[^43]. The latter is self-illumined, joyous, eternal, atomic, imperceptible to the senses, unthinkable, devoid of parts, unchangeable, the substratum of knowledge, subject to God's control, depending on God's existence for his own existence and an attribute of God[^44]. This description of the individual soul differs agreat deal from that of SŚaṁkarācārya, who attributes no agency or substantiality to it; and the dependence on God in a variety of ways cannot, of course, be thought of under the doctrine of spiritual monism. The soul's being an atom is also denied by Śamkara's school and various others. The souls are many and are divided into:—
+
+[^43]: "yat.8"
+
+[^44]: "Tattvatraya"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -10271,7 +10625,9 @@ throne¹. Viṭṭhala Deva or Biṭṭi Deva was called Viṣṇuvardhana after
 
  Of the first class, those that are rational, that is, not brutes or vegetables, are of two sorts: (1) desirous of enjoyment; (2) desirous of final deliverance. Of those that are desirous of enjoyment, some devote themselves to the acquisition of wealth and the satisfaction of carnal desires, and others, who seek to attain the happiness of heaven, perform all rites and sacrifices, make pilgrimages to holy places and give in charity. Some of these devote themselves to Bhagavat and others to other deities.
 
- Some of those who desire final deliverance seek the consciousness of their pure soul only (Kevalin), and others eternal bliss. Of these latter, some are Bhaktas, who seek to attain God by resorting to Bhakti with all its details, having first of all studied the Vedas and acquainted themselves with the Vedānta and the philosophy of rites (Karman). The three upper orders alone can practise Bhakti, but not the Sūdras. Others are Prapannas, who are those who take refuge in God, feeling themselves poor and helpless. Of Prapannas, some seek the first three objects of life, while the rest, finding no happiness in these, renouncing everything worldly, desire eternal bliss ( Mokṣa) alone, and, seeking the advice of a preceptor and acquiring from him the impulse to action, fling themselves on the will of God, not having the power of going through the Bhakti process and being helpless. This Prapatti or surrender to God can be practised by all orders, including [Śūdras](# "Yat.8.").
+ Some of those who desire final deliverance seek the consciousness of their pure soul only (Kevalin), and others eternal bliss. Of these latter, some are Bhaktas, who seek to attain God by resorting to Bhakti with all its details, having first of all studied the Vedas and acquainted themselves with the Vedānta and the philosophy of rites (Karman). The three upper orders alone can practise Bhakti, but not the Sūdras. Others are Prapannas, who are those who take refuge in God, feeling themselves poor and helpless. Of Prapannas, some seek the first three objects of life, while the rest, finding no happiness in these, renouncing everything worldly, desire eternal bliss ( Mokṣa) alone, and, seeking the advice of a preceptor and acquiring from him the impulse to action, fling themselves on the will of God, not having the power of going through the Bhakti process and being helpless. This Prapatti or surrender to God can be practised by all orders, including Śūdras[^45].
+
+[^45]: "Yat.8."
 
  What are necessary for the efficacy of the method of Bhakti, 
 
@@ -10281,7 +10637,9 @@ are Karmayoga or the performance of actions, and Jñānayoga or the acquisition 
 
  Bhaktiyoga, or the method of Bhakti, consists in continuous meditation accompanied by the practice of the eight Yoga processes, Yama, Niyama, etc. This is to be attained. by (1) the purification of the body by the use of unpolluted and unprohibited food, (2) chastity, (3) constant practice, (4) the performance of five great rites and ceremonies according to one's means, (5) virtues such as truth, uprightness, compassion, obarity, non-destruction of life, (6) hopefulness or absence of despondency, and (7) absence of elatedness. Bhakti, as promoted by these seven means, assumes the form of actually seeing (God) and produces the final mental perception.
 
- Prapatti consists in the resolution to yield, the avoidance of opposition¹, a faith that God will protect, acceptance of him as saviour or praying him to save and sense of helplessness resulting in throwing one's whole soul on him². Prapatti thus comes to [selfsurrender](# "Yat. 7.").
+ Prapatti consists in the resolution to yield, the avoidance of opposition¹, a faith that God will protect, acceptance of him as saviour or praying him to save and sense of helplessness resulting in throwing one's whole soul on him². Prapatti thus comes to selfsurrender[^46].
+
+[^46]: "Yat. 7."
 
  The Arthspañcaka mentions a fifth way called Acāryābhimanāyoga, which is for one who is unable to follow any of the others, and consists in surrendering oneself to an Ācārya or preceptor and being guided by him in everything. The preceptor goesthrough all that is necessary to effect his pupil's deliverance as a mother takes medicine herself to cure an infant.
 
@@ -10291,7 +10649,9 @@ are Karmayoga or the performance of actions, and Jñānayoga or the acquisition 
 
 2.There is another ronding hare which should be translated as"throwing one-self upon him and a feeling of helplessness." Thus there are six constituents of Prapatti. These are;(1)Ānukūlyasya saṁkalpaḥ (2) prātikūlyasya varjanam, (3) rakṣiṣyantīti viśvāso (4) gōptṛvavaraṇaṁ tathā, (5)ātmanikṣepa - (6) karpaṇneṣaḍvidhāśaraṇāgatiḥ.
 
- Sixteen modes of worship are to be practised by the devotees of Viṣṇu, as stated in a passage quoted from the Padma-Purāṇa by a recent writer of the Rāmānuja school. Eight of these are the same. as those included in the nine modes of Bhakti enumerated in al previous [Section](# "Ante, p. 57. [N. B. U.]")as mentioned in the Bhāgavata-Purāṇa, Sakhya, or friendship or companionship, boing omitted. The other eight are : (1) imprinting the marks of the conch-shell and the discus. and other weapons of Hari on the body; (2) the making of a vertical mark on the forehead; (3) repeating of Mantras on the occasion; (4) drinking the water used in washing the feet of Hari; (5) the eating of the offerings of cooked food made to him; (6) doing service to his devotees: (7) the observance of fast on the 11th of the bright and dark halves of each lunar month; (8) laying Tulasi leaves on the idol of Hari.
+ Sixteen modes of worship are to be practised by the devotees of Viṣṇu, as stated in a passage quoted from the Padma-Purāṇa by a recent writer of the Rāmānuja school. Eight of these are the same. as those included in the nine modes of Bhakti enumerated in al previous Section[^47]as mentioned in the Bhāgavata-Purāṇa, Sakhya, or friendship or companionship, boing omitted. The other eight are : (1) imprinting the marks of the conch-shell and the discus. and other weapons of Hari on the body; (2) the making of a vertical mark on the forehead; (3) repeating of Mantras on the occasion; (4) drinking the water used in washing the feet of Hari; (5) the eating of the offerings of cooked food made to him; (6) doing service to his devotees: (7) the observance of fast on the 11th of the bright and dark halves of each lunar month; (8) laying Tulasi leaves on the idol of Hari.
+
+[^47]: "Ante, p. 57. [N. B. U.]"
 
  A text from the Hārītasmṛti is also quoted giving nine modes of worship (Bhakti), three of which are common to it with the Bhāgavata-Purāṇa. The other six are the same as the eight in the above, the first two being combined and the third being omitted. The vertical mark on the forehead mentioned above consists of two lines made with white earth and a connecting cross line at the bottom, with, in the middle, a yellow line made with turmeric powder or a red line composed of the same material reddened by mixing it with lime.
 
@@ -10303,7 +10663,9 @@ are Karmayoga or the performance of actions, and Jñānayoga or the acquisition 
 
  In keeping with this distinction is the idea of Prapatti or self-surrender held by the two Sects. The first maintains that Prapatti is one of the ways resorted to by the devotee and begins with him. The southern School holds that it is not one of the ways, but it is. a frame of mind which characterises all those who seek absolution, and reject all other ways in favour of this. Those who resort to other ways have not arrived at the right mood which leads to God. When a soul is in this frame of mind, God himself takes. entire possession of him, while by the other ways, man, as it were, makes approaches towards him. The Vaḍakalai lays down that Prapatti is for those who cannot follow other ways, such as Karmayoga, Jñānayoga and Bhaktiyoga, while the Tenkalai holds that it is necessary for all, whether able or not, to follow the other ways. The first School says that one should give himself up to God when one finds other ways, which have been resorted to, to be fruitless. The second holds that self-abandonment to God. should precede the trial of other ways Self-assertiveness is the characteristic of the first, but it is forbidden by the second and self- abandonment is enjoined. The northerners say that the six ways of Prapatti or self-surrender given above are preliminaries to the Prapatti which results from them. The southerners say that Prapatti must take place first and then the six follow as results.
 
- The nothern School teaches that a person belonging to an inferior caste should be treated well only so far as conversation by words is concerned. The southerners say that they should be. admitted to an equal treatment in all respects and no distinction be made. The syllable Om should be omitted from the eight- syllabled Mantra, according to the Vaḍakalai, when taught to others than Brāhmaṇas; the Tenkalai does not make this distinction and provides for the teaching of the whole Mantra in the same form to [all](# "This Mantra is ").
+ The nothern School teaches that a person belonging to an inferior caste should be treated well only so far as conversation by words is concerned. The southerners say that they should be. admitted to an equal treatment in all respects and no distinction be made. The syllable Om should be omitted from the eight- syllabled Mantra, according to the Vaḍakalai, when taught to others than Brāhmaṇas; the Tenkalai does not make this distinction and provides for the teaching of the whole Mantra in the same form to all[^48].
+
+[^48]: "This Mantra is "
 
  § 49. It will be seen from the short summery here given that Rāmānuja derives his metaphysical doctrines from texts in the Upaniṣads and from the Brahmasūtras, while his theory of the external world is that adopted by the Purāṇas and based on the twenty-four elements of the Sāṁkhya system. His Vaiṣṇavism is the Vāsudevism of the old Pāñcarātra system combined with the Nārāyaṇa and Viṣṇu elements. The last name does not occur. often in the literature of his school. The most prominent name is NNārāyaṇa, though Vāsudeva takes his proper place when the Supreme Soul and the Vyūhas are spoken of. The name of Gopālakṛṣṇa is conspicuous by its absence, and Ramānuja's system is free from that repulsive form which Vaiṣṇavism assumes when Rādhāand other cowherdesses are introduced. Rāma too does not appear to be a favourite deity. Rāmānuja's doctrines as to the way of reaching the Supreme Soul are the same as, or amplified forms of, those in the Bhagavadgītā. But in this system Bhakti is reduced to the form of a continuous meditation on the Supreme Soul. It thus corresponds to the Upāsanãs, or meditations, described by Bādarāyaṇa, and does not mean a boundless love for God, as the word is commonly understood, though the meditation that is enjoined implies tacitly a feeling of love.
 
@@ -10335,13 +10697,21 @@ town of Rajatapīṭha a family known by the name of Madhyageha.Mādhva's father
 
  Ānandatīrṭha went from country to country, putting down the advocates of the doctrine of Māyāand others, established the Vaiṣṇava creed. He had for his pupils Padmanābhatīrṭha, Naraharitīrṭha, Mādhavatīrṭha, and Akṣobhyattīrṭha. Naraharitīrṭha was sent to Jagannātha in Orissa to bring the original idols of Rāma and Sītā. Ānandatīrtha's other names. were Pūrṇaprajña and Madhyamandāra, or wish-giving tree of the family of Madhya.
 
- The date of his death given in the list preserved in several of the Maṭhas, or establishments of the sect, is Śaka 1119, and as he lived for seventy-nine years, the death of his birth has been given as Śaka 1040. But these statements are open to serious doubts. There is an Inscription in the Kūrmeśvara temple at Śrīkūrmam in the Chicacole Taluka of the Ganjam District, in which Naraharitīrṭha is represented to have constructed a temple and placed in it an idol of Yogānandanarasiṁha in the year Śaka [1203](# "Ep. Ind., Vol. VI, pp. 260 ff.").The first person therein mentioned is Puruṣottamatīrṭha, who is the same as [Acyutaprekṣa](# "Mādhvavijaya, VI, 33."), then his pupil Ānandatīrṭha, and the last is Narabaritīrṭha, the pupil of Ānandatīrtha. This Narabaritīrṭha is considered by some, to have been the ruler of Orissa. But this arises from a confusion between him and a king bearing the same name, in the slightly modified form of Narasiṁha, who was the actual ruler of the country from about Śaka 1191 to
+ The date of his death given in the list preserved in several of the Maṭhas, or establishments of the sect, is Śaka 1119, and as he lived for seventy-nine years, the death of his birth has been given as Śaka 1040. But these statements are open to serious doubts. There is an Inscription in the Kūrmeśvara temple at Śrīkūrmam in the Chicacole Taluka of the Ganjam District, in which Naraharitīrṭha is represented to have constructed a temple and placed in it an idol of Yogānandanarasiṁha in the year Śaka 1203[^49].The first person therein mentioned is Puruṣottamatīrṭha, who is the same as Acyutaprekṣa[^50], then his pupil Ānandatīrṭha, and the last is Narabaritīrṭha, the pupil of Ānandatīrtha. This Narabaritīrṭha is considered by some, to have been the ruler of Orissa. But this arises from a confusion between him and a king bearing the same name, in the slightly modified form of Narasiṁha, who was the actual ruler of the country from about Śaka 1191 to
+
+[^49]: "Ep. Ind., Vol. VI, pp. 260 ff."
+
+[^50]: "Mādhvavijaya, VI, 33."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.Kallianpur in the Udipi Taluka of the district of South Kanara is stated to be the birth-place of Madhva. It was probably the same as the Rajatapīṭhaof the Madhvavijnya. (Imp. Gas, Vol. XIV, page 314.)
 
-1225\. He is mentioned in an Inscription at Śrīkūrmam of Naraharitīrtha himself, hearing the date Śaka 1215, which is represented as the eighteenth year of the king's [reign](# "Ep. Ind., Vol. VI, page 262, note."). He was Narasiṁha II, and was the prince panegyrised in a work on rhetoric, the Ekāvali². Naraharitīrtha's other dates gathered from other Inscriptions range between Śaka 1186 and [1212](# "Ep. Ind., Vol. VI, p. 266."). All these epigraphical records confirm the truth of the tradition that Naraharitīrtha was sent by Ānandatīrtha to Orissa. He appears to have. hold a very high position there.
+1225\. He is mentioned in an Inscription at Śrīkūrmam of Naraharitīrtha himself, hearing the date Śaka 1215, which is represented as the eighteenth year of the king's reign[^51]. He was Narasiṁha II, and was the prince panegyrised in a work on rhetoric, the Ekāvali². Naraharitīrtha's other dates gathered from other Inscriptions range between Śaka 1186 and 1212[^52]. All these epigraphical records confirm the truth of the tradition that Naraharitīrtha was sent by Ānandatīrtha to Orissa. He appears to have. hold a very high position there.
+
+[^51]: "Ep. Ind., Vol. VI, page 262, note."
+
+[^52]: "Ep. Ind., Vol. VI, p. 266."
 
  Now if Naraharitīrtha's active period extended from Śaka 1186 to 1215, his master could not have died in Śaka 1119, i. e., fully 67 years before. It seems, therefore, reasonable to take the date. given in Madhva's Mahābhāratatātparyanirṇaya, which is 4300 of the Kali age, to be the correct date of his birth. It corresponds to Śaka 1121, which, bearing in mind the fact that some use the current year of an era and some the past, we must regard as equivalent to Śaka 1119, the date given in the lists for Ānandatīrtha's death. But instead of taking it as the date of his death, we shall have to regard it as the date of his birth. He lived for 79 years according to the current account, so that his death must be placed in Śaka 1198⁴. The two dates may, therefore, be taken as settled.
 
@@ -10357,7 +10727,9 @@ town of Rajatapīṭha a family known by the name of Madhyageha.Mādhva's father
 
 with some modifications of their own¹. God is a substance. The supreme soul possesses innumerable or an infinite number of qualities. His functions are eight, viz., (1) creation, (2) protection, (3) dissolution, (4) controlling all things, (5) giving knowledge, (6) manifestation of himself, (7) tying beings down to the world, (8) redemption. He is omniscient, expressible by all words, and entirely different from the individual souls and the inanimate world. He possesses the holy form made up of knowledge, joy, etc., independent of every thing, and one only, assuming different forms. All his forms are his full manifestations, and he is identically the same with his incarnations in qualities, parts, and actions. Lakṣmīis distinct from the Supreme Soul, but entirely dependent on him. She is eternal and blessed (Makta) like the Supreme Soul and is his consort. She has various forms, but no material body, and is thus like the Supreme Soul, and like him ist expressible by all words. She possesses the same extension in space. and time as the Supreme Soul, i. e., is concomitant with him.
 
- Jīvas or individual souls go through the usual succession of existences and are characterised by ignorance or other defects. They are innumerable individually, or as members of groups, such as [Ṙjus](# "Ṙjus are a class of gods.") who are fit for attaining Brahmahood, and others who are fit for the attainment of the dignity of Rudra, Garuḍa, Asuras, or demons, etc. They are of three kinds: (1) fit for attaining final bliss, (2) always going through the circle of existences, and (3) fit for the conditon of darkness. The gods, Ṛṣis, and the manes, and the best of men, belong to the first class, ordinary men belong to the second class, and demons, ghosts, and the vilest of men, etc., to the the third class. All these individual souls are distinct from each other and from the Supreme Soul.
+ Jīvas or individual souls go through the usual succession of existences and are characterised by ignorance or other defects. They are innumerable individually, or as members of groups, such as Ṙjus[^53] who are fit for attaining Brahmahood, and others who are fit for the attainment of the dignity of Rudra, Garuḍa, Asuras, or demons, etc. They are of three kinds: (1) fit for attaining final bliss, (2) always going through the circle of existences, and (3) fit for the conditon of darkness. The gods, Ṛṣis, and the manes, and the best of men, belong to the first class, ordinary men belong to the second class, and demons, ghosts, and the vilest of men, etc., to the the third class. All these individual souls are distinct from each other and from the Supreme Soul.
+
+[^53]: "Ṙjus are a class of gods."
 
  Creation begins when the Supreme Soul disturbs the equilibrium of the Prakṛti, which then develops into all the other principles of the Samkhya system, as modified by the Purāṇas, until the mundane egg is produced. Then placing the sentient and non-
 
@@ -10407,7 +10779,9 @@ The first of the former class we have to notice is Nimbārka Nimbārka is said t
 
 saurabha, which is a short commentary on the Brahmasūtras, and also a small work containing ten stanzas of the name of Siddhāntāratna, usually called Daśaśloki, from the number of stanzas contained in it. Śrīnivāsa, the immediate follower of Nimbārka, wrote a commentary called Bhāṣya on the first, and Harivyāsadeva, the thirty-second in the list of succession, wrote on the second. The thirteenth in the list, Devācārya, wrote the Siddhāntajāhnavī, and his successor, Sundarabhaṭṭa, wrote a commentary on it, called Setu. The thirtieth in the list composed a commentary, or Bhāṣya, on the Brahmasūtras. His name was Kesava Kaśmīrin.
 
- § 52. Nimbārka's Vedāntic theory is monistic as well as pluralistic. The inanimate world, the individual soul and God are distinct from one another as well as identical. Identical they are in the sense that the first two have no independent existence, but are dependent on God for their existence and action. The theory of the Brahmasūtras that Brahman is the material cause of the universe, is thus understood: To be the material cause of an effect is (1) to possess the capacity of assuming the form of that effect, and (2) to be fitted to do so. Brahman possesses various capacities which are of the nature of the animate and inanimate worlds. These in a subtle form constitute its natural condition. This satisfies the first of the two requirements. The capacities again contain in them the rudiment of the effect, i. e., the world, in a subtle form. This meets the second requirement. By realising these capacities. and bringing the subtle rudiment into a gross form, Brahman becomes the material cause of the world. Rāmānuja's theory of Brahman forming with the animate and inanimate world a composite personality and of its being the material cause in so far as the bodily portion of the composite personality becomes developed, is rejected by the [school](# "See Keśava s commentary, Br, S. I. 4. 23."). For a further knowledge of the system, I will here give a translation of the Daśaśloki.
+ § 52. Nimbārka's Vedāntic theory is monistic as well as pluralistic. The inanimate world, the individual soul and God are distinct from one another as well as identical. Identical they are in the sense that the first two have no independent existence, but are dependent on God for their existence and action. The theory of the Brahmasūtras that Brahman is the material cause of the universe, is thus understood: To be the material cause of an effect is (1) to possess the capacity of assuming the form of that effect, and (2) to be fitted to do so. Brahman possesses various capacities which are of the nature of the animate and inanimate worlds. These in a subtle form constitute its natural condition. This satisfies the first of the two requirements. The capacities again contain in them the rudiment of the effect, i. e., the world, in a subtle form. This meets the second requirement. By realising these capacities. and bringing the subtle rudiment into a gross form, Brahman becomes the material cause of the world. Rāmānuja's theory of Brahman forming with the animate and inanimate world a composite personality and of its being the material cause in so far as the bodily portion of the composite personality becomes developed, is rejected by the school[^54]. For a further knowledge of the system, I will here give a translation of the Daśaśloki.
+
+[^54]: "See Keśava s commentary, Br, S. I. 4. 23."
 
  I. Jīva, or the individual soul, is knowledge, dependent on Hari, and is in a condition to be associated with, or dissociated from, a body; is an atom, different in different bodies, and is a knower and numberless.
 
@@ -10453,7 +10827,11 @@ no superior lord. This Bhakti is of two kinds: the highest is one, and the other
 
  § 55. These ten Stanzas contain the quintessence of Nimbārka's system. This appears to have Rāmānuja's doctrines for its basis and is a sidewise development of it. It gives predominance to Prapatti or self-surrender of the six kinds, alluded to above, and then, by the grace of God, love for Him is generated. His Sādhana
 
-Bhakti comprehends all the Yogas of Rāmānuja's system. Rāmānuja, as we have already [remarked](# "[Ante, p. 80. N. BU.]"), changes the original sense of Bhakti and renders it equivalent to the Upāsanā, or the meditation prescribed in the Upanṣiads. But Nimbārka keeps to the original sense. His doctrines make a nearor approach to the Tenkalai, or Southern Learning, of the Rāmānujiyas. But the great difference between the two teachers is, that, while Rāmānuja confines himself to Nārāyaṇa and his consorts Lakṣmi, Bhū and Līlā, Nimbārka gives almost an exclusive prominence to Krṣṇa and his mistress, Rādhā, attended on by thousands of her female companions. Thus the fourth element of Vaiṣṇavism which we have [mentioned](# "[Ante, p. 49. N. B. U. ]") rises to the surface in Vaiṣṇavism about this. time, and retains its place in Northern India, including Bengal, except in the case of those sects whose favourite deity is Rāmaand not Krṣṇa; and to these for the present we will now turn our attention, coming back again to Krṣṇaism later on.
+Bhakti comprehends all the Yogas of Rāmānuja's system. Rāmānuja, as we have already remarked[^55], changes the original sense of Bhakti and renders it equivalent to the Upāsanā, or the meditation prescribed in the Upanṣiads. But Nimbārka keeps to the original sense. His doctrines make a nearor approach to the Tenkalai, or Southern Learning, of the Rāmānujiyas. But the great difference between the two teachers is, that, while Rāmānuja confines himself to Nārāyaṇa and his consorts Lakṣmi, Bhū and Līlā, Nimbārka gives almost an exclusive prominence to Krṣṇa and his mistress, Rādhā, attended on by thousands of her female companions. Thus the fourth element of Vaiṣṇavism which we have mentioned[^56] rises to the surface in Vaiṣṇavism about this. time, and retains its place in Northern India, including Bengal, except in the case of those sects whose favourite deity is Rāmaand not Krṣṇa; and to these for the present we will now turn our attention, coming back again to Krṣṇaism later on.
+
+[^55]: "[Ante, p. 80. N. BU.]"
+
+[^56]: "[Ante, p. 49. N. B. U. ]"
 
  Nimbārka's system is known by the name of Sanakasaṁpradāya, or the tradition originating with Sanaka. Though Nimbārka was a Southerner, he lived at Vṛndāvana near Mathurā, which accounts for the preference given by him to the RadhaKrṣṇaform of Vaiṣṇavism. His followers are scattered over the whole of Northern India, and exist in large numbers near Mathurāand in Bengal. They wear two perpendicular lines of Gopīcandana with a black spot in the middle on the forehead, and use a necklace and rosary of the wood of the Tulasīplant. They are divided into two classes, the ascetics and householders. This distinction appears to have originated at the time of Harivyāsadeva, after whom, as I have observed in a note, the successors of Nimbārka were divided into two branches. The reason for the division was probably this new distinction.
 
@@ -10495,7 +10873,9 @@ him. But Kabīr miraculously escaped death and was eventually reconciled to Sika
 
  
 
-The dates given by various writers for the birth and death of Kabīr are conflicting. Mr. Westcott makes him live for 78 years, from 1440 to 1518 [A. D.](# "Ibid, Chronological Table, p. VII."), and according to Mr. Macauliffe he
+The dates given by various writers for the birth and death of Kabīr are conflicting. Mr. Westcott makes him live for 78 years, from 1440 to 1518 A. D.[^57], and according to Mr. Macauliffe he
+
+[^57]: "Ibid, Chronological Table, p. VII."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -10503,7 +10883,11 @@ The dates given by various writers for the birth and death of Kabīr are conflic
 
 13 \[ R. G. Bhandarkar's Works, Vol. IV. \]
 
-was born in Saṁvat 1455, corresponding to A. D. [1398](# "The Sikh Religion, &c., Vol. VI. p. 122."), and ha died in A. D. [1518](# "Ibid. pp. 139-40."), having lived for 119 years, five months and twenty-seven days. In a footnote he quotes from an original work the date Śaka 1370, corresponding to 1448 A. D., as the date of his death. Sikandar Lodi was on the throne of Delhi from 1488 to 1517 A. D. The last of the three dates does not harmonise with this, and so it must be given up. Rāmānanda, we have seen, is spoken of as having been born in 1298 A. D. and died in 1411 A. D. If Mr. Westcott's date for Kabīr's birth is true, Kabīr cannot have been a disciple of Rāmānanda. If that of Mr. Macauliffe is accepted, it is just possible that he should have so become, for at the time of Rāmānanda's death, Kabīr must have been thirteen years of age, and he is represented in one of the legends to have been but a boy when he was accepted as a disciple by the old sage. The date 1518 A. D. given by both the writers for his death may be accepted as correct. But if that of his birth given by Mr. Macauliffe is also accepted, we shall have to suppose that Kabīr lived for 119 years; Rāmānanda also according to the dates given in the last section lived for 113 years. Whether both of them lived. such long lives might well be questioned. But, until we have more evidence, the dates for Rāmānanda already noticed, and for Kabīr as given by Mr. Macauliffe may be provisionally accepted, and thus Kabīr might be considered to have really been a disciple of Rāmānanda, though of course, being a boy of thirteen, he could not have taken part in his master's disputations with Pandits. In Kabīr's works, however, so far as I have seen them, Rāmānanda's namedoes not occur, though the name Rāmaas that of the Supreme Being and also the relation of the individual soul with Rāma, as well as his refutation of the doctrine of God's being Videha or Nirguṇa, i. e., without attributes, must have been borrowed from Rāmānanda's doctrines, which again are based on Rāmānuja's system.  
+was born in Saṁvat 1455, corresponding to A. D. 1398[^58], and ha died in A. D. 1518[^59], having lived for 119 years, five months and twenty-seven days. In a footnote he quotes from an original work the date Śaka 1370, corresponding to 1448 A. D., as the date of his death. Sikandar Lodi was on the throne of Delhi from 1488 to 1517 A. D. The last of the three dates does not harmonise with this, and so it must be given up. Rāmānanda, we have seen, is spoken of as having been born in 1298 A. D. and died in 1411 A. D. If Mr. Westcott's date for Kabīr's birth is true, Kabīr cannot have been a disciple of Rāmānanda. If that of Mr. Macauliffe is accepted, it is just possible that he should have so become, for at the time of Rāmānanda's death, Kabīr must have been thirteen years of age, and he is represented in one of the legends to have been but a boy when he was accepted as a disciple by the old sage. The date 1518 A. D. given by both the writers for his death may be accepted as correct. But if that of his birth given by Mr. Macauliffe is also accepted, we shall have to suppose that Kabīr lived for 119 years; Rāmānanda also according to the dates given in the last section lived for 113 years. Whether both of them lived. such long lives might well be questioned. But, until we have more evidence, the dates for Rāmānanda already noticed, and for Kabīr as given by Mr. Macauliffe may be provisionally accepted, and thus Kabīr might be considered to have really been a disciple of Rāmānanda, though of course, being a boy of thirteen, he could not have taken part in his master's disputations with Pandits. In Kabīr's works, however, so far as I have seen them, Rāmānanda's namedoes not occur, though the name Rāmaas that of the Supreme Being and also the relation of the individual soul with Rāma, as well as his refutation of the doctrine of God's being Videha or Nirguṇa, i. e., without attributes, must have been borrowed from Rāmānanda's doctrines, which again are based on Rāmānuja's system.  
+
+[^58]: "The Sikh Religion, &c., Vol. VI. p. 122."
+
+[^59]: "Ibid. pp. 139-40."
 
  § 58. We now give a translation of a few passages illustra tive of the teachings of Kabīr³.
 
@@ -10589,7 +10973,9 @@ inspires him with the corresponding thoughts (calculated to enable him to achiev
 
  Rāidās, a pupil of Rāmānanda, was a founder of a sect the followers of which are to be found in the caste of Camārs. or leather-workers. Nābhājīin his Bhaktamālātolls many legends. about him. Under the name of Rohidās he is known and revered even in the Maratha country, and Mahīpati, the Maratha writer on saints, devotes a chapter to him.
 
- Senāthe barber, a follower of Rāmānanda, is also reported to have founded a sect. He too is known in the Maratha [country](# "See Wilson s Hindu Religions.").
+ Senāthe barber, a follower of Rāmānanda, is also reported to have founded a sect. He too is known in the Maratha country[^60].
+
+[^60]: "See Wilson s Hindu Religions."
 
 XXI\. Tulasīdās.
 
@@ -10611,9 +10997,11 @@ Chapter I.
 
 1.For details, see Dr. Grierson's articles in the Indian Antiquary, Vol. XXII.
 
-Chapter [IV.](# "The editions consulted are those published by Navalkisora at Lakhnau in 1886 and in the Bibliotheco Indica in 1897.")
+Chapter IV.[^61]
 
  82 (89 B. I). The excellent retentive faculty is called Girāor Sarasvatī, and the immutable Dharma is a Vaṭa tree. Dharma consists of a triad of confluent rivers destroying sin. Oh Tulasī, conceive no dislike for these and accept these.
+
+[^61]: "The editions consulted are those published by Navalkisora at Lakhnau in 1886 and in the Bibliotheco Indica in 1897."
 
  The triad is given by the commentator as action, knowledge, and Bhakti, or devotion.
 
@@ -10645,11 +11033,15 @@ XXII\. Vallabha.
 
  § 62. We will now turn our attention to the more extensive and almost exclusive cult of the Kṛṣṇa of Gokula. The founder of it was Vallabha. He was the son of a Tailaṅga Brāhmaṇa named Lakṣmaṇa Bhaṭṭa, who was a student of the Black Yajurveda and lived at a village named Kānkarava in the Telugu country. On one occasion Lakṣmaṇa Bhaṭṭa went on a pilgrimage to Benares. with his wife, Elamāgāra. On the way she gave birth to a son on the eleventh of the dark half of Vaiśākha of the Vikrama year
 
-1535, corresponding to 1479 [A.D.](# "Yajñeśvara,Āryavidyāsudhākara.") That son was known as Vallabha.
+1535, corresponding to 1479 A.D.[^62] That son was known as Vallabha.
+
+[^62]: "Yajñeśvara,Āryavidyāsudhākara."
 
  Vallabha lived for some time in Vṛndāvana and for some time. at Mathurā. About that time it is alleged that Gopāla-Krṣṇa manifested himself on the Govardhana Hill by the name of Devadamana, called also Śrī-Nāthajī. The God told Vallabha in at dream to come and see him, informing him that his companions in the cow-settlement, when he became incarnate as Krṣṇa, were born again in the present age, and commissioned him to make. them his attendants, that he might sport with them as in the former age. Accordingly, Vallabha went and saw Devadamana or Śrī-Nāthajī. Śrī-Nāthajī commanded him to erect a shrine for himself and to promulgate the method of worshipping him, without which a man would not be admissible to the Puṣṭimārga, or the path of divine grace, which Vallabha had founded. The meaning of this seems to be that Vallabha connected his system with a special manifestation of Krṣṇa known by the name of Śrī-Nāthajī².
 
- Vallabha's Vedāntic theory is the same as that of an earlier. author of the name of Viṣṇusvāmin. This Viṣṇusvāmin is said. to have been the son of the councillor of a Draviḍa chief dependent upon the Emperor of [Delhi](# "Yajñeśvara,Āryavidyāsudhākara, p. 228."). Nābhājīin his Bhaktamālāmakes Jñānadeva, Nāmdeva, Trilocana, and lastly Vallabha his successors⁴. The first was Jñānadeva, who is represented as a follower of his system (Saṁpradāya). He was one of three sons born to a man, who became a householder after he had assumed the order of an ascetic. He was, therefore, excommunicated and was not allowed to learn the Vedas. But he himself by his miraculous. power made a male buffalo repeat the Vedas. This story is the same as that related of the Jñānadeva of Mahārāṣṭra, the author of a Vernacular commentary on the Bhagavadgita. But the Marathas do not know of Viṣṇusvāmin as his Guru, or teacher,or of Jñānadevabeing his successor or follower. If, however, the tradition reported by Nābhājīis correct, Viṣṇusvāmin must have lived about the middle of the thirteenth century. The date of the commentary above alluded to is śaka 1212, corresponding to 1290 A. D.
+ Vallabha's Vedāntic theory is the same as that of an earlier. author of the name of Viṣṇusvāmin. This Viṣṇusvāmin is said. to have been the son of the councillor of a Draviḍa chief dependent upon the Emperor of Delhi[^63]. Nābhājīin his Bhaktamālāmakes Jñānadeva, Nāmdeva, Trilocana, and lastly Vallabha his successors⁴. The first was Jñānadeva, who is represented as a follower of his system (Saṁpradāya). He was one of three sons born to a man, who became a householder after he had assumed the order of an ascetic. He was, therefore, excommunicated and was not allowed to learn the Vedas. But he himself by his miraculous. power made a male buffalo repeat the Vedas. This story is the same as that related of the Jñānadeva of Mahārāṣṭra, the author of a Vernacular commentary on the Bhagavadgita. But the Marathas do not know of Viṣṇusvāmin as his Guru, or teacher,or of Jñānadevabeing his successor or follower. If, however, the tradition reported by Nābhājīis correct, Viṣṇusvāmin must have lived about the middle of the thirteenth century. The date of the commentary above alluded to is śaka 1212, corresponding to 1290 A. D.
+
+[^63]: "Yajñeśvara,Āryavidyāsudhākara, p. 228."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -10771,7 +11163,9 @@ XXIV\. Debasement of Vaiṣṇavism.
 
  Though the Vaiṣṇava systems of Nimbārka, Vallabha and Caitanys are based on the fourth element of Vaiṣṇavism that wer have pointed out in a precoding Section, still that element has undergone an important modification. Before, Kṛṣṇa was a person who had amorous dalliances with the Gopīs generally. But now Kṛṣṇa had a definite consort in Rādhā, who had a large number of female companions, who were probably the original Gopīs. She is indissolubly united with him in the creed of worshippers.
 
- This Rādhā is not mentioned by name in the Harivaṁśa, Viṣṇu-Purāṇa and the Bhāgavata. In the last, however, among the cowherdesses engaged in Kṛṣṇa's amorous sports in Vṛndāvana on an autumnal moonlight night, there was one with whom the youthful god carred on his dalliance further, after he had become invisible to the rest. This woman became proud of Kṛṣṇa's special attachment for her, whereupon the god disappeared from her also. Here was contained a suggestion which probably led to the creation of Rādhāin later times. In the apocryphal Nāradapañcaāátra-Saṁhitā, as mentioned [before](# "[Ante, p. 58 N. B. U.]"), the one single lord is represented to have become two, one a woman and the other a man, who was he himself. He then bad amorous intercourse with her. The woman was Rādhā. In the Brahmavaivarta-Purāṇa she has been made to spring from the primordial body of Kṛṣṇa forming its left. side, and is eternally associated with him in his amorous sports in this world as well as the world of cows (Goloka). The name of Rukmiṇi occurs in the ordinary form of Kṛṣṇaism, but in the systems named above it is entirely absent. The introduction of Rādhā's name, and her elevation to a higher position even than Kṛṣṇa's, operated as a degrading element in Vaiṣṇavism, not only because she was a woman, but also because she was originally a mistress of the cowhard god, and her amorous dealing were of an overt character.
+ This Rādhā is not mentioned by name in the Harivaṁśa, Viṣṇu-Purāṇa and the Bhāgavata. In the last, however, among the cowherdesses engaged in Kṛṣṇa's amorous sports in Vṛndāvana on an autumnal moonlight night, there was one with whom the youthful god carred on his dalliance further, after he had become invisible to the rest. This woman became proud of Kṛṣṇa's special attachment for her, whereupon the god disappeared from her also. Here was contained a suggestion which probably led to the creation of Rādhāin later times. In the apocryphal Nāradapañcaāátra-Saṁhitā, as mentioned before[^64], the one single lord is represented to have become two, one a woman and the other a man, who was he himself. He then bad amorous intercourse with her. The woman was Rādhā. In the Brahmavaivarta-Purāṇa she has been made to spring from the primordial body of Kṛṣṇa forming its left. side, and is eternally associated with him in his amorous sports in this world as well as the world of cows (Goloka). The name of Rukmiṇi occurs in the ordinary form of Kṛṣṇaism, but in the systems named above it is entirely absent. The introduction of Rādhā's name, and her elevation to a higher position even than Kṛṣṇa's, operated as a degrading element in Vaiṣṇavism, not only because she was a woman, but also because she was originally a mistress of the cowhard god, and her amorous dealing were of an overt character.
+
+[^64]: "[Ante, p. 58 N. B. U.]"
 
  In the Rāma cultus, Sītāis a dutiful and loving wife, and is
 
@@ -10779,11 +11173,17 @@ benignant towards the devotees of her husband. She holds a postition entirely su
 
 XXV\. Nāmadev and Tukārām.
 
- § 71. The popular Vaiṣṇavism of the Maratha country centres itself round the shrine of Viṭhobāat Paṇḍharpur, which is a city situated on the banks of the Bhīmāor Bhīmarathī. The full name of the god is Viṭṭhal, which is not a Sanskrit name, but the etymology is clear enough. It is stated that the corruption of the Sanskrit name Viṣṇu in the Canarese language is Viṭṭhu, and this looks probable, since Kṛṣṇa is corrupted into Kuṣṭa in the Goanese dialect and Kuṭṭa, Kiṭṭi, or Kṛṣṭa in the Canarese; and we have seen that Viṣṇu, the first portion of the name of the. Hoysala prince Viṣṇuvardhana, was corrupted to Viṭṭi or [Biṭṭi](# "See above, p. 72."). The terminations bāand la are appended to the name Viṣṇu or Viṭṭu to indicate additional sense such as tenderness or reverence. When the shrine was established, we have not the means of determining, but we have clear evidence of its being in existence in the middle of the thirteenth century. In a copperplate Inscription of the reign of Kṛṣṇa of the Yādava dynasty of Devagiri, it is stated that Malliseṭṭi, a general and viceroy of the king, made, while engaged on a military expedition, the grant of a village in the Belgaum district at Pauṇḍarīkakśetra, a holy place situated on the Bhīmarathī, in the vicinity of the god Viṣṇu, in the year. 1171 of the Śaka era corresponding to 1249 [A.D](# "Indian Antiquary, Vol. XIV, p. 68ff."). Now if the Pauṇḍarīkakśetra was situated on the Bhīmarathī or Bhīmāriver, it is certainly not unreasonable to suppose that is was the same as Paṇḍharīwhich is the alternative name of Paṇḍharpur; and
+ § 71. The popular Vaiṣṇavism of the Maratha country centres itself round the shrine of Viṭhobāat Paṇḍharpur, which is a city situated on the banks of the Bhīmāor Bhīmarathī. The full name of the god is Viṭṭhal, which is not a Sanskrit name, but the etymology is clear enough. It is stated that the corruption of the Sanskrit name Viṣṇu in the Canarese language is Viṭṭhu, and this looks probable, since Kṛṣṇa is corrupted into Kuṣṭa in the Goanese dialect and Kuṭṭa, Kiṭṭi, or Kṛṣṭa in the Canarese; and we have seen that Viṣṇu, the first portion of the name of the. Hoysala prince Viṣṇuvardhana, was corrupted to Viṭṭi or Biṭṭi[^65]. The terminations bāand la are appended to the name Viṣṇu or Viṭṭu to indicate additional sense such as tenderness or reverence. When the shrine was established, we have not the means of determining, but we have clear evidence of its being in existence in the middle of the thirteenth century. In a copperplate Inscription of the reign of Kṛṣṇa of the Yādava dynasty of Devagiri, it is stated that Malliseṭṭi, a general and viceroy of the king, made, while engaged on a military expedition, the grant of a village in the Belgaum district at Pauṇḍarīkakśetra, a holy place situated on the Bhīmarathī, in the vicinity of the god Viṣṇu, in the year. 1171 of the Śaka era corresponding to 1249 A.D[^66]. Now if the Pauṇḍarīkakśetra was situated on the Bhīmarathī or Bhīmāriver, it is certainly not unreasonable to suppose that is was the same as Paṇḍharīwhich is the alternative name of Paṇḍharpur; and
+
+[^65]: "See above, p. 72."
+
+[^66]: "Indian Antiquary, Vol. XIV, p. 68ff."
 
 the god in whose vicinity the grant was made must therefore. have been Viṭṭhal , or Viṭhobā, here mentioned by his Sanskrit name and not the popular Canarose corruption. In another Inscription on stone, existing at Paṇḍharpur itself and dated 1192 Śaka, which corresponds to 1270 A. D., Bhānu the son of Keśava, is represented to have performed an Aptoryāma sacrifice in Pāṇḍuraṅgapura, in consequence of which crowds of people, and Viṭṭhal a together with the gods, were greatly gratified¹.Here we have another name of Paṇḍharpur, and that was probably given to it because it was the city of Pāṇḍuraṅga.
 
- Pāṇḍaraṅga, or Pāṇḍuraṅga, is according to Hemacandra a name of Rudra or [Śiva](# "Deśnāmamālā,VI. 23."). And we have a temple of Śiva at Paṇḍharpur, and pilgrims have to visit it first before going to that of Viṭhoba or Viṭṭhal Pāṇḍuraṅga, which is the same as the Pāṇḍuraṅga of Hemcandra, is however in modern times a popular name for Viṭṭhal .Whether then the city was called. Pāṇḍuraṅgapura on account of it containing the temple of Viṣṇu or Viṭṭhal , or that of Śiva is doubtful. But from the wording of the Inscription, in which Viṭṭhal a and Pāṇḍuraṅgapuraare mentioned independently, it would appear as if Viṭṭhal had no connection with the name, and it was given to the city on account of its containing a Śiva temple. But when Viṭhoba's importance increased in later times so vastly that Śiva was thrown entirely into the shade, Panduranga became identical with Viṭṭhala.
+ Pāṇḍaraṅga, or Pāṇḍuraṅga, is according to Hemacandra a name of Rudra or Śiva[^67]. And we have a temple of Śiva at Paṇḍharpur, and pilgrims have to visit it first before going to that of Viṭhoba or Viṭṭhal Pāṇḍuraṅga, which is the same as the Pāṇḍuraṅga of Hemcandra, is however in modern times a popular name for Viṭṭhal .Whether then the city was called. Pāṇḍuraṅgapura on account of it containing the temple of Viṣṇu or Viṭṭhal , or that of Śiva is doubtful. But from the wording of the Inscription, in which Viṭṭhal a and Pāṇḍuraṅgapuraare mentioned independently, it would appear as if Viṭṭhal had no connection with the name, and it was given to the city on account of its containing a Śiva temple. But when Viṭhoba's importance increased in later times so vastly that Śiva was thrown entirely into the shade, Panduranga became identical with Viṭṭhala.
+
+[^67]: "Deśnāmamālā,VI. 23."
 
  The name Pauṇḍarīkaoccuring in the first Inscription seems to owe its origin to a man named Pauṇḍarīka, the popular legend about whom is to the following effect. The region about Paṇḍharpur was, it is said, a forest of the name of Diṇḍiravana. There lived a man of the name of Pauṇḍalīka, who spent all his time in the service of his aged parents, and the god Kṛṣṇawas pleased. with his devotion to them. In the meantime, while Kṛṣṇa Was living at Dvāraka, he remembered Rādhā, who was the object of
 
@@ -10835,7 +11235,9 @@ image is regarded as God, but the true God is wholly different. If a stone-god f
 
  This is a short specimen of the teachings of Nāmdev. Purity of heart, humility, self-surrender, forgiveness, and the love of God
 
-form the sum and substance of it. Nāmdev wrote songs in Hindīalso and some of these are incorporated in the Grantha-Sāheb, or the Bible of the Sikhs. I will here translate two of [these](# "Tukaram Tatya s edition."):—
+form the sum and substance of it. Nāmdev wrote songs in Hindīalso and some of these are incorporated in the Grantha-Sāheb, or the Bible of the Sikhs. I will here translate two of these[^68]:—
+
+[^68]: "Tukaram Tatya s edition."
 
  No. 2352. "He is one, \[but\] fills and encompassess many; wherever you look yon find him there. There is scarcely one who understands him, all being deluded by the variegated picture. drawn by Māyā(delusive power). Everything is Govinds, everything is Govinda, there is nothing without Govinda. Just as there is one thread and on it are woven breadthwise and length- wise hundreds of thousands of beads, so is everything woven in the lord. The waves, the foam, and the bubbles of water are not different from water. All this extent of the universe is the sport. of Parabrahma, and when we think of it, is not different from it. Illusive phantoms and the objects seen in dreams are regarded as real. When by the instruction of my Guru my mind awoke, I accepted the truth. Reflecting in your mind, see this all to be the creation of Hari, says Nāmdev; in the inside of every indivi- dual thing there is one Murari alone without any interstice."
 
@@ -10849,7 +11251,9 @@ form the sum and substance of it. Nāmdev wrote songs in Hindīalso and some of 
 
 3.These two hymns have been translated by Macauliffe in Vol. VI, pp. 41-42 of the Sikh Religion. The readings in the Bombay Ed. have been compared with those in the Grantha-Sāheb, pp. 427-28 of the Lucknow Ed. of 1893,
 
- § 73. The date assigned to the birth of Nāmdev is, as we have seen, Śaka 1192, that is 1270 A. D. This makes him a contemporary of Jñāndev, the author of the Jñāndevī, which was finished. in 1290 A. D. But the Marāṭhīof the latter work is decidedly archaic, while that of Nāmdev's writings has a considerably more. modern appearance. Nāmdev's Hindi too looks more modern. than that of the thirteenth century, when the poet Canda flourished¹. What this is due to, it is difficult to say. But it appears probable that the traditional date of Nāmdev's birth-Śaka 1192-has been pushed backwards and that he is represented as a contemporary of Jñāndev. We have seen in a former [section](# "[ Ante, p. 109.-N. B. U.]")that Nabhāji in naming the successors of Viṣṇusvāmin places. Jiandey first and Nāmdev afterwards. If we are to judge from Nāmdev's Marāṭhī and Hindī, his date must be put later by about. a century.
+ § 73. The date assigned to the birth of Nāmdev is, as we have seen, Śaka 1192, that is 1270 A. D. This makes him a contemporary of Jñāndev, the author of the Jñāndevī, which was finished. in 1290 A. D. But the Marāṭhīof the latter work is decidedly archaic, while that of Nāmdev's writings has a considerably more. modern appearance. Nāmdev's Hindi too looks more modern. than that of the thirteenth century, when the poet Canda flourished¹. What this is due to, it is difficult to say. But it appears probable that the traditional date of Nāmdev's birth-Śaka 1192-has been pushed backwards and that he is represented as a contemporary of Jñāndev. We have seen in a former section[^69]that Nabhāji in naming the successors of Viṣṇusvāmin places. Jiandey first and Nāmdev afterwards. If we are to judge from Nāmdev's Marāṭhī and Hindī, his date must be put later by about. a century.
+
+[^69]: "[ Ante, p. 109.-N. B. U.]"
 
  Some conception, however, of the time when Nāmdev flourished may be formed from the strong and definite sentiments as to the futility of idol-worship, which his instructor is represented (in one of the hymns translated) to have expressed. Khecar, or Visoba Khecar as he is usually called, appears to have been an uncom- promising opponent of idol-worship from the accounts given of him in the existing biographies. All previous writers, including Rāmānuja, as well as a great many that followed, excused idol- worship in some way or other. If then Khecar's attitude towards it was definitely hostile, he and his pupil Nāmdev must have flourished when the Mahomedan influence had for the first time become very powerful. The Mahomedans established themselves in the Deccan in the beginning of the fourteenth century of the Christian era, and their hatred of idol-worship must have taken about a hundred years to make its way into the understanding of religious Hindus.
 
@@ -10913,7 +11317,9 @@ What possibility is there of my mental power reaching Him, whose light it is tha
 
  There is peace and pure indescribable bliss in seeing God:—
 
- Second coll., No. 1411. " Oh Nārāyaṇa, the peace arising. from rest is truly not to be attained without thy feet; even if modes and methods are followed for crores of [Kalpas](# "A long fabulous period."), bliss will not ensue. The bliss of bliss, which is interminable and boundless, which is enjoyed by Hari and Hara, manifest to me, oh thou ! the
+ Second coll., No. 1411. " Oh Nārāyaṇa, the peace arising. from rest is truly not to be attained without thy feet; even if modes and methods are followed for crores of Kalpas[^70], bliss will not ensue. The bliss of bliss, which is interminable and boundless, which is enjoyed by Hari and Hara, manifest to me, oh thou ! the
+
+[^70]: "A long fabulous period."
 
 sustainer of my soul, oh omniscient, those feet of thine I which produce it \],"
 
@@ -11092,7 +11498,9 @@ their connection with the impersonal Brahman and transferred to the God who had 
 
 his ruling powers, who alone is the cause of production and growth (1). There is only one Rudra—and they do not recognise another— who rules these worlds by his ruling powers, who is the inmost soul of all men, who contracts everything on the final day, and, creating all beings, protects them (2). He has his eyes everywhere, his face everywhere, as in RV. X. 81. 3 (3). May Rudra, the cause of the production and growth of the gods, the lord of the universe, the great prophet, and who formerly created Hiraṇyagarbha, endow us with a holy will (4). Then follow two verses from the Śatarudriya, praying Rudra to look at the singer with his gracious countenance and not to do harm to men, etc. (5, 6). Knowing the lord (Īśa), who is the highest Brahman and the greatest of all, who dwells in the inside of all beings whatever their form, and who encompasses the whole universe, men become immortal (7). Then follow similar verses expressive of the attributes of the supreme God and prescribing a knowledge of him as the door to immortality.
 
- As formerly [remarked](# "Ante, p. 31. [N. B. U.]"),a verse and a half in this chapter occurs word for word in the thirteenth chap, of the BhG. It also deserves remark that the proper names of the supreme being that occur are Īśāna, Īśa, and Śiva, and the epithet Bhāgavat, that is used also, deserves notice (11, 12, 15, 17, 20). In verso 20, which occurs also in the MU., there is Īśam for Ātmanaḥwhich is indicative of the peculiarity of this Upaniṣadwhich we have noticed. There are two verses from the Puruṣasūkta (RV. X. 90),
+ As formerly remarked[^71],a verse and a half in this chapter occurs word for word in the thirteenth chap, of the BhG. It also deserves remark that the proper names of the supreme being that occur are Īśāna, Īśa, and Śiva, and the epithet Bhāgavat, that is used also, deserves notice (11, 12, 15, 17, 20). In verso 20, which occurs also in the MU., there is Īśam for Ātmanaḥwhich is indicative of the peculiarity of this Upaniṣadwhich we have noticed. There are two verses from the Puruṣasūkta (RV. X. 90),
+
+[^71]: "Ante, p. 31. [N. B. U.]"
 
  The fourth chapter opens with the expression of the desire that he who, himself being without form, creates many forms with a certain purpose, in whom in the end as well as in the beginning the universe exists, may endow the adorers with a holy will. Then follows the identification of this supreme soul with fire, sun, wind, moon and a variety of other objects (2-4). We have then the metaphor of one male goat lying down with the female goat and another male goat abandoning her after enjoyment, which represents the soul in the worldly and the delivered conditions (5).
 
@@ -11122,7 +11530,9 @@ subtle forms in accordance with his qualities and the qualities of his actions a
 
 period in its most mature form with a God distinctly personal at the centre. The attributes of the Supreme Soul are often given in very general terms, and he is referred to by the non-sectarian general name Deva, but as ofton that Deva is identified with Rudra, Śiva, Īśāna and Maheśvara, and his powers are spoken of as Īśānīs; but there is no indication whatever that these names have been given. for the purpose of raising Rudra-Śiva to the supreme godhead to the exclusion of another god. Names indicative of Rudra-Śiva appear to have been used, since he was invested with a personality perceived and acknowledged by all. This Upaniṣad, therefore, is not a sectarian treatise like others promulgated in later times, and is often quoted by Śaṁkarācārya, Rāmānuja and other writers of the different schools, and not by those of one schoolonly.
 
- It must have been composed before the BhG., since the latter contains, as already [stated](# "Ante, p. 31, and p. 153. [N. B. U. ]"), a verse and a half from it, and the nature of the religio-philosophic speculations contained in it, though essentially Upaniṣadic, make a nearer approach to the later Bhakti School than those of any of the older treatises of the class. The description of the godhead and of the final pure serenity are instinct with the glow of love and admiration, and the treatise ends with an expression of self-surrender to the god, who makes himself manifest in one's own intelligence. The Śvetāśvatara-Upaniṣad, therefore, stands at the door of the Bhakti School, and pours its loving adoration on Rudra-Śivainstead of on Vāsudeva-Krṣṇa, as the BhG. did in later times when full swing. Vāsudeva-Kṛṣṇa the Bhakti doctrine was in full swing. had a historic basis; and the circumstances which led to his being invested with the supreme godhesd, occurred in later times, while in the age, in which the Śvetiśvatare-Upaniṣad was composed, Rudra-Śiva was alone in the field as the supreme god, and the germs of Bhakti, or love, which manifested themselves at the time,were directed towards him; but when Vāsudeva-Kṛṣṇa also came into the field, he appealed more to the hearts of men as the
+ It must have been composed before the BhG., since the latter contains, as already stated[^72], a verse and a half from it, and the nature of the religio-philosophic speculations contained in it, though essentially Upaniṣadic, make a nearer approach to the later Bhakti School than those of any of the older treatises of the class. The description of the godhead and of the final pure serenity are instinct with the glow of love and admiration, and the treatise ends with an expression of self-surrender to the god, who makes himself manifest in one's own intelligence. The Śvetāśvatara-Upaniṣad, therefore, stands at the door of the Bhakti School, and pours its loving adoration on Rudra-Śivainstead of on Vāsudeva-Krṣṇa, as the BhG. did in later times when full swing. Vāsudeva-Kṛṣṇa the Bhakti doctrine was in full swing. had a historic basis; and the circumstances which led to his being invested with the supreme godhesd, occurred in later times, while in the age, in which the Śvetiśvatare-Upaniṣad was composed, Rudra-Śiva was alone in the field as the supreme god, and the germs of Bhakti, or love, which manifested themselves at the time,were directed towards him; but when Vāsudeva-Kṛṣṇa also came into the field, he appealed more to the hearts of men as the
+
+[^72]: "Ante, p. 31, and p. 153. [N. B. U. ]"
 
 god who had come to dwell amongst them; consequently the germs of Bhakti speedily developed, and he became the object of the heightened feelings in preference to the other.
 
@@ -11162,7 +11572,9 @@ enters into a long discourse on the beneficent deeds of Mahādeva. A list is giv
 
 spared nothing when he was propitiated. Whenever a man conceived a desire for anything, he was the god to be appealed to for its fulfilment. He lived on the Himālaya with his wife Umā, Pārvatī, or Durgā, who had a number of other names such as Kalī, Karālī, etc., and was attended by a number of beings called. his Gaṇas or hosts. His vehicle was an I. He had, of course, all the attributes of the supreme godhead. He is represented as having betaken himself to the process of Yoga or contemplation, when he had ceased to be creative.
 
- It will be seen that the object of worship in Śaivism is the Liṅga, or phallus. We have found no trace of this characteristic in the earlier literature, so far as we have examined it¹, and the first time we meet with it is in this passage from the Anuśāsanaparvan. We have had occasion in a previous [section](# "[Ante, p. 149 N. B. U. ]") to remark that Rudra-Śiva had a close connection with stragglers in the forest, with Vrātyas, or those who were not included in the Aryan community, and with the wild tribe of the Niṣādas, and also that the gods of these last were amalgamated with Rudra. Rudra's partiality for serpents and his being the lord of spirits or Bhūtas, were probably due to the influence of the serpent-worship and the devilry of the savage tribes.
+ It will be seen that the object of worship in Śaivism is the Liṅga, or phallus. We have found no trace of this characteristic in the earlier literature, so far as we have examined it¹, and the first time we meet with it is in this passage from the Anuśāsanaparvan. We have had occasion in a previous section[^73] to remark that Rudra-Śiva had a close connection with stragglers in the forest, with Vrātyas, or those who were not included in the Aryan community, and with the wild tribe of the Niṣādas, and also that the gods of these last were amalgamated with Rudra. Rudra's partiality for serpents and his being the lord of spirits or Bhūtas, were probably due to the influence of the serpent-worship and the devilry of the savage tribes.
+
+[^73]: "[Ante, p. 149 N. B. U. ]"
 
  There are two places in the RV., in one of which Indra is prayed to not to allow those whose god is Śiśna, to disturb the rites of the singers (VII. 24. 5); and in another he is represented. to have conquered the riches of a city after killing those whose god is Śiśna. Here evidently those whose god was Siśna, or phallus, are meant as the enemies of the Vedic Aryas, who disturbed their holy rites. Notwithstanding all that is said about the matter, my own belief is that the persons here referred to were really some tribe of the aborigines of the country, who worshipped. the phallus. Just then, as the Rudra-Śiva cult borrowed several elements from the dwellers in forests and stragglers in places outof the way, so it may have borrowed this element of phallicworship from the barbarian tribes with whom the Āryas came in contact. This element, however, does not appear to have come. in all at once, especially among the learned classes, whose beliefs. are represented in the literature which we have examined.
 
@@ -11172,7 +11584,11 @@ spared nothing when he was propitiated. Whenever a man conceived a desire for an
 
  The Liṅga worship had, it appears, not come into use at the time. of Patañjali; for, the instance he gives under P.V. 3.99, is that of an image or likeness (Pratikṛti) of Śiva as an object of worship, and 2001 not of any emblem of that god. It seems to have been unknown. oven in the time of Wema-Kadphises, for, on the reverse of his coins, there is a human figure of Śiva with a trident in the hand; and there is also an emblem, but it is Nandin or the bull, and not a Liṅga or phallus. But this element must have crept in early enough among ordinary people, who were in closer communication with the uncivilised tribes, and gradually made its way to the higher classes, of whose creed it subsequently became an article. And it is this final stage of its adoption by the higher classes that is represented in Upamanyu's discourse in the Mahābhārata.
 
- From all that we have brought forward from the post-Saṁhitāliterature, it will appear that Rudra-Śiva was a deity whose. worship was common to all Āryas, and who was not at first a sectarian god. As above [remarked](# "Ante, p. 157f. [N. B. U.]"),he was in charge of the field before the Vaiṣṇava or Vāsudevic deities came in to contest his supremacy. The Gṛhyasūtras, which, as we have seen, give directions as to the adoration of Rudra under various circumstances, cannot be considered as belonging to any Śaiva sect. In the time of Patañjali, images of Śiva, Skanda and Viśākha. made sometimes of precious metals, were kept for common worship by certain religious persons who derived an income from [them](# "See his comment on P. V. 3. 99."). The images of Śiva here alluded to cannot have been meant for the use of a particular sect.
+ From all that we have brought forward from the post-Saṁhitāliterature, it will appear that Rudra-Śiva was a deity whose. worship was common to all Āryas, and who was not at first a sectarian god. As above remarked[^74],he was in charge of the field before the Vaiṣṇava or Vāsudevic deities came in to contest his supremacy. The Gṛhyasūtras, which, as we have seen, give directions as to the adoration of Rudra under various circumstances, cannot be considered as belonging to any Śaiva sect. In the time of Patañjali, images of Śiva, Skanda and Viśākha. made sometimes of precious metals, were kept for common worship by certain religious persons who derived an income from them[^75]. The images of Śiva here alluded to cannot have been meant for the use of a particular sect.
+
+[^74]: "Ante, p. 157f. [N. B. U.]"
+
+[^75]: "See his comment on P. V. 3. 99."
 
 V. Origin and Diffusion of the Śaiva Sects and the  
 Several Classes of Śiva Worshippers.
@@ -11185,7 +11601,9 @@ Several Classes of Śiva Worshippers.
 
  Now, in an Inscription in the temple of Nātha near that of Ekalingii,14 miles to the north of Udaipur, Rajputana, it is stated that Śiva became incarnate &s a man with a club (Lakula) in his hand, in the country of Bhṛgukaccha, being propitiated by Bhṛgu. Sages, Kuśika and others, conversant with the Pāśupata Yoga, and using ashes and wearing bark-dress and matted hair, are mentioned.
 
- There is another Inscription, usually called the CintraPraśasti, which states that Śiva became incarnate in the form of Bhaṭṭāraka Śrī-Lakulīśa, and dwelt at Kārohaṇa in the Lāṭa country. There appeared in bodily form four pupils of his of the names of Kuśika, Gärgya, Kauruṣa and Maitreya for the strict performance of the Pāśupata vows, and they became originators of four branches. The date of the first Inscription is Vikrama 1028, or 971 A. D., and the second was composed between A. D. 1274 and 1296. In another Inscription dated 943 A. D., found at Hemāvatīin the Sira Taluka, Mysore, Lakulīśa is represented to have been born again as Muninātha Chilluka to preserve the memory of his name and [doctrines](# "See JBBRAS, Vol. XXII, pp. 151-153.").
+ There is another Inscription, usually called the CintraPraśasti, which states that Śiva became incarnate in the form of Bhaṭṭāraka Śrī-Lakulīśa, and dwelt at Kārohaṇa in the Lāṭa country. There appeared in bodily form four pupils of his of the names of Kuśika, Gärgya, Kauruṣa and Maitreya for the strict performance of the Pāśupata vows, and they became originators of four branches. The date of the first Inscription is Vikrama 1028, or 971 A. D., and the second was composed between A. D. 1274 and 1296. In another Inscription dated 943 A. D., found at Hemāvatīin the Sira Taluka, Mysore, Lakulīśa is represented to have been born again as Muninātha Chilluka to preserve the memory of his name and doctrines[^76].
+
+[^76]: "See JBBRAS, Vol. XXII, pp. 151-153."
 
  Mādhava calls the Pāśupata system that he explains in his Sarvadarśanasaṁgraha, Nakulīśa-Pāśupata, and quotes a few words from what appears to be a work attributed to him. From all this it appears that there lived a certain person, of the name of Lakulin (the holder of a Lakuṭa, or Laguḍa, or Lakula, i. e., a club) who founded a Pāśupata system. Four schools sprang out of it, and their reputed founders, whether historical or legendary, were considered his pupils. Lakulin ist the same as Nakulin, and the fact that his rise has been represented by the Purāṇas to be contemporaneous with Vāsudeva-Kṛṣṇa, points to the inference that traditionally the system was intended. to take the same place in the Rudra-Śiva cult that the Pāñcarātra did in the Vāsudeva-Kṛṣṇacult. We may, therefore, place the rise of the Pāśupata school mentioned in the Nārāyaṇīya about a century after that of the Pāñcarātra system, i. e., about the second century B. C.
 
@@ -11195,13 +11613,17 @@ greatness of his Yoga (meditation or concentration), and Ācāra (practice). The
 
  Wema Kadphises, a powerful prince of the Kuṣanarace, who ruled over a large part of Northwestern India about the middle of the third century A. D., styles himself on the reverse of his coins a devotee of Maheśvara or a member of the Maheśvara sect, and image of Nandin and another of Śivawith a trident in his hand occur on the obverse. Varāhamihira in the latter part of the sixth century, lays down the rule that the priests to be employed for the installation of an image of Śaṁbhu, should be Brāhmaṇas besmearing their bodies. with ashes. By these he means members of a Śaiva sect, since, in the case of other gods, the names mentioned are those of the sects founded in the names of those gods.
 
- Haribhadra, an old Jaina author, speaks in his Ṣaḍdarśanasamuccaya, of the schools of Gotama and Kaṇāda as professing the Śaiva faith. But his commentator Guṇaratna, (who flourished. in the latter part of the fourteenth [century](# "lnd. Ant. Vol. XI, pp. 255-256.")), calls the Vaiśeṣikās Pāśupatas and the other school Śaivas. This last must be a mistake, since Bhāradvāja of the Nyāya school is specifically spoken of as a Pāśupatācārya, as we have seen.
+ Haribhadra, an old Jaina author, speaks in his Ṣaḍdarśanasamuccaya, of the schools of Gotama and Kaṇāda as professing the Śaiva faith. But his commentator Guṇaratna, (who flourished. in the latter part of the fourteenth century[^77]), calls the Vaiśeṣikās Pāśupatas and the other school Śaivas. This last must be a mistake, since Bhāradvāja of the Nyāya school is specifically spoken of as a Pāśupatācārya, as we have seen.
+
+[^77]: "lnd. Ant. Vol. XI, pp. 255-256."
 
  The Chinese traveller Hiuen-Tsiang in the middle of the seventh century mentions the Pāśupatas twelve times in in his book. In some places he saysthat there were temples of Maheśvara at which the Pāśupatas worshipped; in one or two temples, he says that they resided. And at Benares he found about ten thousand sectaries who honoured Maheśvara, besmeared their bodies with ashes, went naked and tied their hair. in knots. These and those who lived in temples must have been like the Bairāgis, or ascetics, of modern times, who had given up the world; but probably the others mentioned by him were the
 
 followers of the Pāśupata faith who lived the ordinary life of householders.
 
- In the copper-plate charter of Nāgavardhana, nephew of Pulakeśin II of Mahārāṣṭra, who ascended the throne in 610 A. D., and was living in 639 A. D., a grant is recorded of a village near Igatpuri in the Nasik District for the worship of the god Kāpāleśvara i. e., the lord of the wearers of garlands of skulls, and for the maintenance of the Mahāvratins residing in the temple. It will hereafter be shown that the name Mahāvratin, or observer of the grent vow designated the Kāpālikas or Kālāmukhas. Thus there. is evidence of the existence in the middle of the seventh centuryof the sect of Kāpālikas in [Mahārāṣṭra](# "JBBRAS, Vol. XIV, p. 26,").
+ In the copper-plate charter of Nāgavardhana, nephew of Pulakeśin II of Mahārāṣṭra, who ascended the throne in 610 A. D., and was living in 639 A. D., a grant is recorded of a village near Igatpuri in the Nasik District for the worship of the god Kāpāleśvara i. e., the lord of the wearers of garlands of skulls, and for the maintenance of the Mahāvratins residing in the temple. It will hereafter be shown that the name Mahāvratin, or observer of the grent vow designated the Kāpālikas or Kālāmukhas. Thus there. is evidence of the existence in the middle of the seventh centuryof the sect of Kāpālikas in Mahārāṣṭra[^78].
+
+[^78]: "JBBRAS, Vol. XIV, p. 26,"
 
  In the Karhad grant of Kṛṣṇa III of the Rāṣtrakūṭadynasty, the king mentions his having granted in Śaka 880 (=958 A. D.), a village to Gaganaśiva, the practiser of great austerities, who was fully versed in all the Śivasiddhāntas and was the pupil of Īśānaśiva, who was an Ācārya, or preceptor, and the head of the establishment at Valkaleśvara in Karahāṭa. These holy men and their establishment seem to have belonged to the Śaiva sect and not to the Pāśupata. The evidence for the existence of Kālāmukha and Śaiva sects in Mysore, in the latter part of the twelfth century, will be given in the next section.
 
@@ -11221,9 +11643,23 @@ doctrines, contained in works not written by the followers of the systems except
 
  Śaṁkara says that the Māheśvaras maintain that Paśupati has revealed five topics (Br. S. II. 2. 37). Thus the sects were. known by the general name of Māheśvara, and Paśupati, or the god Śiva, was believed to be their founder. Rāmānuja under the same Sūtra, which, however, is numbered 35, speaks of the systems as the tenets of Paśupati. Keśava Kāśmīrin calls the sects the followers of the "tenets of Paśupati." Śrīkaṇṭha-Śivācārya calls them the "believers in the Āgamas revealed by Parameśvara, or the great god". The name Māheśvara is the old name as is evident from the fact that Wema-Kadphises, as noticed above, and several later princes, especially of the Valabhīdynasty, called. themselves Māheśvaras. Hiuen Tsiang, too, as we have seen, mentions temples of Maheśvara, at which the Pāśupatas worshipped. It also follows that all these sects were at the same time known by the name of Pāśupata sects; and the founder of them all was believed to be the god Paśupati.
 
- The same conclusion is to be deduced from the Mysore Inscriptions that have been published, the only difference being that the original teacher is called Lakulin or Lakulīśa. In one Inscription dated 943 A. D., referred to above, it is stated that Lakulīśa, being afraid that his name and doctrines would be forgotten, became incarnate as Muninātha [Cilluks](# "Ep. Carn. Vol. XII, p. 92 (Translation)."). This appears to be a general name applicable to all systems. In another dated 1078 A. D. one ascetic is called an ornament to the Lākula school and another is spoken of as ["a hand to Lākula"](# "Ep. Carn. Vol. VII, Sikarpur Taluq No. 107."). This appears to be the general name and does not point to a specific sect. In a third dated 1103 A. D. Someśvara-Sūri ist spoken of as having caused the Lākula doctrine (Siddhānts) to bloom. He is called a Naiyãyikaand [Vaīśeṣika](# "Ep. Carn. Vol. VIII. Pt. I, p.64, (Translation)."). This shows
+ The same conclusion is to be deduced from the Mysore Inscriptions that have been published, the only difference being that the original teacher is called Lakulin or Lakulīśa. In one Inscription dated 943 A. D., referred to above, it is stated that Lakulīśa, being afraid that his name and doctrines would be forgotten, became incarnate as Muninātha Cilluks[^79]."). This appears to be a general name applicable to all systems. In another dated 1078 A. D. one ascetic is called an ornament to the Lākula school and another is spoken of as "a hand to Lākula"[^80]. This appears to be the general name and does not point to a specific sect. In a third dated 1103 A. D. Someśvara-Sūri ist spoken of as having caused the Lākula doctrine (Siddhānts) to bloom. He is called a Naiyãyikaand Vaīśeṣika[^81]."). This shows
 
-that he belonged to the specific Pāśupata seot. In a fourth dated 1177 A. D. certain ascetics are called upholders of the Lākulāgamasamaya, i. e., the system based upon a work of Lākulin, and adherents of [Kālāmukhas](# "Ep. Carn. Vol. V, Pt. I. p. 135 (Translation).").Here evidently the Kālāmukhas are called Lākulas, which is the same as Pāśupatas. The names of the ascetics mentioned in this Inscription end in the word śakti and jīya, which appear to be characteristic of the Kālāmukha sect. In a fifth dated 1183 A. D. is noticed a grant to Nāgaśiva-Paṇḍita, who is called an upholder of the Lākula system, and the names of his preceptors in the two preceding generations end in the suffix śiva. Nagaśiva is praised for emipence in Āgama and in Śivatattva³. From the ending suffix śiva in these names and the mention of a proficiency in Āgama and in Śivatattva, it appears that Nāgaśiva was a follower of the Śaiva school and at the same time he was a Lākula, or Pāśupata. A sixth dated 1199 A. D. notices a grant of land to Bammadeva, son of Nāgarāsi, the promoter of the system based upon the work. of [Lākulin](# "Ep. Carn. Vol. V. Arsikere Taluq No. 103."). The sufflx rāśi is found in a great many names of the devotees of Śiva. Whether it is a characteristic of a specific sect is not clear, but it appears that the bearers of it belong to the Pāśupata, or the Kālāmukha school. In a seventh dated 1213 A. D. a certain religious man is represented as the upholder of the system known by the name of Vāgi-Lākula, i. e. the systemof the learned [Lākulin](# "Ep. Carn. Vol. V, Arsikere Taluq No. 46."). In an eighth dated 1285 A. D. the grantor is called a supporter of the new system of [Lākulin](# "Ep. Carn. Vol. XII, p. 45 (Translation)."). This perhaps refers to the later school of Lingāyatas.
+[^79]: "Ep. Carn. Vol. XII, p. 92 (Translation
+
+[^80]: "Ep. Carn. Vol. VII, Sikarpur Taluq No. 107."
+
+[^81]: "Ep. Carn. Vol. VIII. Pt. I, p.64, (Translation
+
+that he belonged to the specific Pāśupata seot. In a fourth dated 1177 A. D. certain ascetics are called upholders of the Lākulāgamasamaya, i. e., the system based upon a work of Lākulin, and adherents of Kālāmukhas[^82].").Here evidently the Kālāmukhas are called Lākulas, which is the same as Pāśupatas. The names of the ascetics mentioned in this Inscription end in the word śakti and jīya, which appear to be characteristic of the Kālāmukha sect. In a fifth dated 1183 A. D. is noticed a grant to Nāgaśiva-Paṇḍita, who is called an upholder of the Lākula system, and the names of his preceptors in the two preceding generations end in the suffix śiva. Nagaśiva is praised for emipence in Āgama and in Śivatattva³. From the ending suffix śiva in these names and the mention of a proficiency in Āgama and in Śivatattva, it appears that Nāgaśiva was a follower of the Śaiva school and at the same time he was a Lākula, or Pāśupata. A sixth dated 1199 A. D. notices a grant of land to Bammadeva, son of Nāgarāsi, the promoter of the system based upon the work. of Lākulin[^83]. The sufflx rāśi is found in a great many names of the devotees of Śiva. Whether it is a characteristic of a specific sect is not clear, but it appears that the bearers of it belong to the Pāśupata, or the Kālāmukha school. In a seventh dated 1213 A. D. a certain religious man is represented as the upholder of the system known by the name of Vāgi-Lākula, i. e. the systemof the learned Lākulin[^84]. In an eighth dated 1285 A. D. the grantor is called a supporter of the new system of Lākulin[^85]."). This perhaps refers to the later school of Lingāyatas.
+
+[^82]: "Ep. Carn. Vol. V, Pt. I. p. 135 (Translation
+
+[^83]: "Ep. Carn. Vol. V. Arsikere Taluq No. 103."
+
+[^84]: "Ep. Carn. Vol. V, Arsikere Taluq No. 46."
+
+[^85]: "Ep. Carn. Vol. XII, p. 45 (Translation
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -11231,7 +11667,9 @@ that he belonged to the specific Pāśupata seot. In a fourth dated 1177 A. D. c
 
  Thus it will be seen that Lākula was the general name by which the Śaiva sects were called, and the specific name Kālāmukha is associated with the general name in one case. This general name has for its basis the historical fact, noticed above, that a person of the name of Lākulin or Lakulīsafounded a Śaiva system corresponding to the Pāñcarātra system, which the Vāyuand Liṅga Purāṇas consider to be contemporaneous with it. The other general name Pāśupata arose by dropping the name of the human individual Lākulin and substituting that of the god Pāśupati, whose incarnation he was believed to be, as is done in the texts of the MBh. quoted above. But that the Śaiva system had a human founder is confirmed by the fact that the name of his work, the Pañcādhyāyī, or Pañcārthavidyā, has been handed down, as will be shown immediately below, and probably the work is extant, even if it has not yet been discovered, as Mādhava mentions a gloss on the perpetual commentary (Bhāṣya) on it, which also will be noticed below.The conclusion therefore appears to be that a certain historical person was the founder of the main Śaiva system which was the same as that explained by Mādhava as Nakulīśa-Pāśupata, and that three other systems arose out of it in later times.
 
- The commentators of Śaṁkara state that there were four of these schools bearing the names of Śaiva, Pāśupata, Kārukasiddhāntin and Kāpālika. Vācaspati, however, calls the third. Kāruṇikasiddhāntin. Rāmānuja and Keśava Kāśmīrin mention the same four schools, but call Kāruṇikasiddhāntin by the name of Kālāmukha. The word Kāruka is probably a corruption of Kāuruṣya, the name of the third of the four (according to the Purāṇas) pupils of Lakuliśa, or this last name may be the Sanskritised form of the original [Kāruka](# "These four schools are mentioned in the Vayaviyasambit of the Siva- Purina (II. 24, 177). The Śaiva school, however, is called Siddhāntamärga and the Kālāmuklas are called Mahāvratadharas."). A work of the name of
+ The commentators of Śaṁkara state that there were four of these schools bearing the names of Śaiva, Pāśupata, Kārukasiddhāntin and Kāpālika. Vācaspati, however, calls the third. Kāruṇikasiddhāntin. Rāmānuja and Keśava Kāśmīrin mention the same four schools, but call Kāruṇikasiddhāntin by the name of Kālāmukha. The word Kāruka is probably a corruption of Kāuruṣya, the name of the third of the four (according to the Purāṇas) pupils of Lakuliśa, or this last name may be the Sanskritised form of the original Kāruka[^86]. The Śaiva school, however, is called Siddhāntamärga and the Kālāmuklas are called Mahāvratadharas."). A work of the name of
+
+[^86]: "These four schools are mentioned in the Vayaviyasambit of the Siva- Purina (II. 24, 177
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -11279,19 +11717,27 @@ aberrant or irregular people. This character did impress itself on the mode of w
 
  § 93. There are three principles: (1) the lord (Pati), (2) the individual soul (Paśu), and (3) fetters (Pāśa); and the whole system has four Pādas, or parts, which are knowledge (Vidyā), action (Kriyā), meditation ( Yoga), and conduct, or discipline (Caryā). The first part contains an explanation of the nature. of the individual soul (Paśu), fetters (Pāśa), and god (Īśvara), and determines the importance of formulas (Mantra) and the lord presiding over the formulas (Mantreśvara). This leads to initiation (Dikṣā), which is necessary for the acquisition of the highest object of life. The second part contains an explanation of the process of initiation (Dīkṣāvidhi ), which is of many forms and has many parts. The third part explains meditation, or concentration, along with its subsidiary processes.The fourth teaches discipline, or conduct, consisting in doing what is prescribed and avoiding what is proscribed. Without this Yoga is not possible.
 
- I. Now the lord (Pati) is Śiva. Śiva acts, being impelled. thereto by the deeds (Karman) of souls, and produces things to be enjoyed or suffered and their means. The exercise of his He does! creative power thus depends on the Karman of man. everything; therefore, he is omniscient. God has not a body like that of an individual soul which has the fetters of taint and Karman, etc.; but he has a body made up of powers, certain specific five formulas ([Mantras](# "These five formulas, or Mantras, are contained in the TA. (X. 13-47) and In the Mahämäräynolya Up. 17. The commentator considers these to refer to the five facos of Śiva, respectively. They are Badyojita, Vāmadeva, Aghora, Tasparuṣa and Īśāna. They are also called forms of ŚivaOne of the Dānas, or charitable gifts, mentioned by Hemādri (DānakhaṇḍaVol. I, pp. 789-798 Bibl. Ind.) consists of üve images made of gold or other motal fashioned in a particular manner of these five forms of Śiva. In giving each a certain verse bas to be repeated. These five forms are Ident fed in a Śaiva treatise with the earth, water, fire, wind an d ather, respectively, and they are considered as the creators of these elements la another, viz., Virn-Śaiva-Cintamani, Sholapur 1908 A. D.")) being imagined to be thedifferent parts of his body. These five are his powers and are also considered his different forms, and by these he does the five actions. which are creation, existence or protection, destruction, concealment, and benefaction. The following four partake of the nature. of Śiva: (1) formulas (Mantras), (2) the deity presiding over the formulas (Mantreśvara), (3) the great god (Maheśvara), and (4) delivered souls (Mukta).
+ I. Now the lord (Pati) is Śiva. Śiva acts, being impelled. thereto by the deeds (Karman) of souls, and produces things to be enjoyed or suffered and their means. The exercise of his He does! creative power thus depends on the Karman of man. everything; therefore, he is omniscient. God has not a body like that of an individual soul which has the fetters of taint and Karman, etc.; but he has a body made up of powers, certain specific five formulas (Mantras[^87] and In the Mahämäräynolya Up. 17. The commentator considers these to refer to the five facos of Śiva, respectively. They are Badyojita, Vāmadeva, Aghora, Tasparuṣa and Īśāna. They are also called forms of ŚivaOne of the Dānas, or charitable gifts, mentioned by Hemādri (DānakhaṇḍaVol. I, pp. 789-798 Bibl. Ind.) consists of üve images made of gold or other motal fashioned in a particular manner of these five forms of Śiva. In giving each a certain verse bas to be repeated. These five forms are Ident fed in a Śaiva treatise with the earth, water, fire, wind an d ather, respectively, and they are considered as the creators of these elements la another, viz., Virn-Śaiva-Cintamani, Sholapur 1908 A. D.")) being imagined to be thedifferent parts of his body. These five are his powers and are also considered his different forms, and by these he does the five actions. which are creation, existence or protection, destruction, concealment, and benefaction. The following four partake of the nature. of Śiva: (1) formulas (Mantras), (2) the deity presiding over the formulas (Mantreśvara), (3) the great god (Maheśvara), and (4) delivered souls (Mukta).
+
+[^87]: "These five formulas, or Mantras, are contained in the TA. (X. 13-47
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.These five formulas, or Mantras, are contained in the TA. (X. 43-47) and In the Mahānārāyaṇīya Up. 17. The commentator considers these to refer to the five faces of Śiva, respectively. They are Sadyojāta, Vāmadeva, Aghora, Tasparuṣa and Īśāna. They are also called forms of Śiva One of the Dānas, or charitable gifts, mentioned by Hemādri (Dānakhaṇḍa Vol. I, pp. 789-798 Bibl. Ind.) consists of five images made of gold or other motal fashioned in a particular manner of these five forms of Śiva. In giving each a certain verse bas to be repeated. These five forms are Ident fed in a Śaiva treatise with the earth, water, fire, wind an d ather, respectively, and they are considered as the creators of these elements la another, viz., Vīra-Śaiva-Cintāmani, Sholapur 1908 A. D.
 
- II. The Paśu is the individual soul, who is atomic and known.by the name of Kṣetrajña (self-conscious) and others. It is eternal and all-pervading. It is not incapable of action nor is it one only, as is maintained by other schools of philosophy. When the fetters are removed, he becomes Śiva, possessing eternal and -boundless knowledge and power of action. The Muktas, or delivered ones, are Śivas, who have so become by the favour of him who is eternally Mukta, and is a person with five formulas. (Mantras ) for his body, i. e. he is identified with the god Śiva himself. Though they become Śivas, they are not independent. but depend upon the eternal god, Śiva. Paśu is of three kinds: (1) Vijñānākala, who has shaken off his connection with all the organs ([Kalāḥ](# "1. See previous section.")) in consequence of the destruction of the impression of deeds done, by means of knowledge, meditation, asceticism, or by the enjoyment or suffering of the fruit (Bhoga), and has simple taint (Mala). The second is Pralayākala, whose organs are destroyed by the dissolution of the world. He has both impression of deeds (Karman) and taints (Mala). The third is Śakala, who has all the three fetters, taint (Mala), impression of deeds. (Karman), and material cause (Māyā). Vijñanākala is of two kinds (1) one whose taint (Kaluṣa) has ended, and (2) another whoso taint (Kaluṣa) has not ended. The first are those, who, their taint (Kaluṣa) having ended, are elevated to the position of Vidyeśvaras. The Vidyeśvaras are eight and are as follows: (1) Ananta, or endless, (2) atomic, (3) the most excellent Śiva, (4)
+ II. The Paśu is the individual soul, who is atomic and known.by the name of Kṣetrajña (self-conscious) and others. It is eternal and all-pervading. It is not incapable of action nor is it one only, as is maintained by other schools of philosophy. When the fetters are removed, he becomes Śiva, possessing eternal and -boundless knowledge and power of action. The Muktas, or delivered ones, are Śivas, who have so become by the favour of him who is eternally Mukta, and is a person with five formulas. (Mantras ) for his body, i. e. he is identified with the god Śiva himself. Though they become Śivas, they are not independent. but depend upon the eternal god, Śiva. Paśu is of three kinds: (1) Vijñānākala, who has shaken off his connection with all the organs (Kalāḥ[^88]) in consequence of the destruction of the impression of deeds done, by means of knowledge, meditation, asceticism, or by the enjoyment or suffering of the fruit (Bhoga), and has simple taint (Mala). The second is Pralayākala, whose organs are destroyed by the dissolution of the world. He has both impression of deeds (Karman) and taints (Mala). The third is Śakala, who has all the three fetters, taint (Mala), impression of deeds. (Karman), and material cause (Māyā). Vijñanākala is of two kinds (1) one whose taint (Kaluṣa) has ended, and (2) another whoso taint (Kaluṣa) has not ended. The first are those, who, their taint (Kaluṣa) having ended, are elevated to the position of Vidyeśvaras. The Vidyeśvaras are eight and are as follows: (1) Ananta, or endless, (2) atomic, (3) the most excellent Śiva, (4)
+
+[^88]: "1. See previous section."
 
 the one-eyed. (5) the one Rudra, (6) he with the three forms, (7) Śrīkaṇṭha, and (6) Śikhaṇḍin. Another author says that Śiva invests the Samāptakaluṣa (one whose taint has ended) with Vidyeśatva, which is of eight kinds, and the Asamāptakaluṣa (one whose taint has not onded) he raises to the dignity of fomulas. (Mantras) which are seven crores. Pralayākala is also of two kinds. The first is one whose two fetters have matured (and about to be shaken off), and the second is different from him. The first attains Mokṣa, and the second, entangled with Puryaṣṭaka, undergoes many births in accordance with his impressisn of deeds. (Karman). The Puryaṣṭaka is a subtle body, wich is composed of elements which are variously enumerated. Of those who have the Puryaṣṭaka, some, who are virtuous, are raised to Bhuvanapatitva by Maheśvara Ananta. Sakala is also of two kinds: (1) one whose taint (kaluṣa) is matured, and (2) one whose taint (kaluṣa) is not matured. The first is raised to the dignity of Mantreśvara of 118 Mantras, i. e of so many kinds. Parameśvara, assuming the form of his preceptor by the process of initiation. and the use of power calculated to counteract the matured taint, confers Mokṣa. Those Aṇus or atomio souls, whose taint has not ripened (i. e. is not in a condition to be wiped away), are made to suffer or enjoy in accordance with their Karman.
 
- III. Pāśa (fetter) is of four kinds: (1) Mala, or taint (2) Karman, or the impression of deeds, (3) Māyā, or material cause, and (4) Rodhaśakti, or obstructive power. Mala, or tsint, is that which conceals the knowing and acting power of the soul and is like the husk enveloping a grain of rice. Karman is the impression of deeds done for the attainment of fruit. It is righteous or un- righteous. It is unbeginning, ever continuing in succesion in the manner of seed and its sprout. Māyāis that into which the whole creation resolves itself at the time of dissolution and from which it springs out at the time of recreation. The obstructive power is the power of Siva which, because it regulates the three other fetters and conceals the true nature of the soul, is itself called a fetter. It performs its function, because it is the principle. of speech by means of which names are given to things and thus. their nature is [determined](# "Śambhudeva s Saivasiddhāntadīpikā, Sholupar 1909,").
+ III. Pāśa (fetter) is of four kinds: (1) Mala, or taint (2) Karman, or the impression of deeds, (3) Māyā, or material cause, and (4) Rodhaśakti, or obstructive power. Mala, or tsint, is that which conceals the knowing and acting power of the soul and is like the husk enveloping a grain of rice. Karman is the impression of deeds done for the attainment of fruit. It is righteous or un- righteous. It is unbeginning, ever continuing in succesion in the manner of seed and its sprout. Māyāis that into which the whole creation resolves itself at the time of dissolution and from which it springs out at the time of recreation. The obstructive power is the power of Siva which, because it regulates the three other fetters and conceals the true nature of the soul, is itself called a fetter. It performs its function, because it is the principle. of speech by means of which names are given to things and thus. their nature is determined[^89].
 
- § 94. This constitutes the first part of the system (Vidyāpāda), the nature of the other three parts has been succinetly given above. A few details are [these](# "From the same work."): The second part (Kriyapāda) treats of the accomplishment of Mantra, the twilight adorations, worship, muttering of formulas (Japa), throwing oblations into the fire, acossional ceremonies for the attainment of eternal bliss, anointing of the preceptor and of the person ontering on a course of action for final emancipation (Sādhaka), and one's own initiatory ceremonies necessary to fit one for a wordly and for an eternal life. In the third, or the Yoga part are mentioned the thirty-six principles; the deities presiding over them; the lords of the different worlds; the individual soul; the all-ruling soul, the power (Śakti); the direct perception of Māyāand Mahāmāyā, which are the causes of the world; the attainment of the miraculous powers, minuteness, lightness, eto. for those who concern themselves with the worldly element; the methods of the restraint. of the breath, abstraction, meditation, concentration, and absorption in thought (Samādhi); and the positions of the circles in the body beginning with the root-circle (Mūlādhara, or navel). The fourth part treats of penances, a purificatory ceremony (Pavitrāropaṇa), the foundation, and the natures of Śivaliṅga, of the visible Liṅga of Umā and Maheśvara, and of the lord of Gaṇas, or groups, such as Skanda and Nandin, of the rosary used for the muttering of formulas, and the funeral Śrāddhas. This last part appears to contain matters subsidiary to, and explanatory of, the actions enjoined in the second part. The proscribed actions mentioned above are: (1) the eating of the residue of what is offered to another deity; (2) the vilification of (a) Śiva, (b) of the devotees of Śiva, (c) of the system of Śiva and (d) of the practices enjoined. in the Śaiva system; (3) the enjoyment of things belonging to God; (4) the killing of animals.
+[^89]: "Śambhudeva s Saivasiddhāntadīpikā, Sholupar 1909,"
+
+ § 94. This constitutes the first part of the system (Vidyāpāda), the nature of the other three parts has been succinetly given above. A few details are these[^90]: The second part (Kriyapāda) treats of the accomplishment of Mantra, the twilight adorations, worship, muttering of formulas (Japa), throwing oblations into the fire, acossional ceremonies for the attainment of eternal bliss, anointing of the preceptor and of the person ontering on a course of action for final emancipation (Sādhaka), and one's own initiatory ceremonies necessary to fit one for a wordly and for an eternal life. In the third, or the Yoga part are mentioned the thirty-six principles; the deities presiding over them; the lords of the different worlds; the individual soul; the all-ruling soul, the power (Śakti); the direct perception of Māyāand Mahāmāyā, which are the causes of the world; the attainment of the miraculous powers, minuteness, lightness, eto. for those who concern themselves with the worldly element; the methods of the restraint. of the breath, abstraction, meditation, concentration, and absorption in thought (Samādhi); and the positions of the circles in the body beginning with the root-circle (Mūlādhara, or navel). The fourth part treats of penances, a purificatory ceremony (Pavitrāropaṇa), the foundation, and the natures of Śivaliṅga, of the visible Liṅga of Umā and Maheśvara, and of the lord of Gaṇas, or groups, such as Skanda and Nandin, of the rosary used for the muttering of formulas, and the funeral Śrāddhas. This last part appears to contain matters subsidiary to, and explanatory of, the actions enjoined in the second part. The proscribed actions mentioned above are: (1) the eating of the residue of what is offered to another deity; (2) the vilification of (a) Śiva, (b) of the devotees of Śiva, (c) of the system of Śiva and (d) of the practices enjoined. in the Śaiva system; (3) the enjoyment of things belonging to God; (4) the killing of animals.
+
+[^90]: "From the same work."
 
  § 95.The doctrines of the Śaiva school are more moderate and rational than those of the Pāśupāta school. This last, as well as the two extreme schools to be mentioned next, are called Atimārgika, or schools that are away from the path or go astray, and are spoken of by Śaṁbhudeva, quoted in the above paragraph, as revealed by Rudra. The Śaiva schools he calls the Siddhāntaśāstra, or the true
 
@@ -11325,7 +11771,9 @@ sacred books. They also maintain that people of other castes.become Brāhmaṇas
 
 to Vasugupta by Śiva himself or by a Siddha, or perfected humanbeing. They were inscribed on a rock on the Mahādeva hill, andVasugupta was directed to the rock by Śiva. Another account isthat they were revealed by the god in a dream, and another accountstill further confers the credit of the revelation on the prefectedhuman being. These two last occurrences are said to have taken.place on the Mahādeva hill. As to the second work, there arealso varying traditions, one ascribing the authorship of the versesto Vasugupta and another to Kallaṭa. A third tradition, however,that Kallaṭa obtained the knowledge of the system from Vasugupta and composed the Spandakārikās for the instruction of hispupils seems to contain the truth¹. What the meaning of theroundabout tradition about the Śivasūtras which do not ascribetheir authorship to Vasugupta directly is, it is difficult to say;perhaps the original work was the Spandakārikās and the proseŚivasūtras were composed in later times in the older or moreorthodox form, and as Vasugupta was probably too near the time.when they were composed and as what he did was known to all,& miraculous origin was given to the new Sūtras and Vasuguptawas represented to have received them from others and not composed them himself.
 
- $ 98. Kallaṭa lived in the reign of [Avantivarman](# "Buhler, Report of a Tour made in Kashmir, p 78."), 854 A. D.,wherefore his Guru's literary activity must be referred to the beginning of the ninth century. The followers of this school boldlydeny the necessity of God's having a prompting cause, such asKarman, or a material cause, like the Pradhāns, for the creation ofthe world. Neitherdo they admit that he is himself the materialcause, as the Vedāntasūtras maintain, nor do they think thatsome principle of illusion, such as Māyā, generates appearanceswhich are false. God is sccording to them independent andcreates merely by the force of his will all that comes into existence. He makes the world appear in himself, as if it were distinct from himself, though not so really, as houses or even townsappear in a mirror, and is as unaffected by it as the mirror is by
+ $ 98. Kallaṭa lived in the reign of Avantivarman[^91], 854 A. D.,wherefore his Guru's literary activity must be referred to the beginning of the ninth century. The followers of this school boldlydeny the necessity of God's having a prompting cause, such asKarman, or a material cause, like the Pradhāns, for the creation ofthe world. Neitherdo they admit that he is himself the materialcause, as the Vedāntasūtras maintain, nor do they think thatsome principle of illusion, such as Māyā, generates appearanceswhich are false. God is sccording to them independent andcreates merely by the force of his will all that comes into existence. He makes the world appear in himself, as if it were distinct from himself, though not so really, as houses or even townsappear in a mirror, and is as unaffected by it as the mirror is by
+
+[^91]: "Buhler, Report of a Tour made in Kashmir, p 78."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -11347,9 +11795,15 @@ the images reflected in it. Neither does he exist only as realisedin the world, 
 
  Without speech the ideas which render a worldly life possiblecannot stand, or assume a shape or form, and therefore theprinciple of speech is believed to be the origin of the Mala, or impurity, which leads to a worldly life. This power is associatedwith others which are personalised as Ambā, Jyeṣṭha, Raudrī,Vāmā¹.
 
- The impurity vanishes when by means of intense contemplation the vision of the highest being breaks in upon the mind ofthe devotee and absorbs all finite thought. When this conditionbecomes stable, the individual soul is free and becomes thesupreme soul. The breaking in of the vision is called Bhairava,because it is his and is caused by [him](# "Śivasūtravimarśinī; I. 5.").
+ The impurity vanishes when by means of intense contemplation the vision of the highest being breaks in upon the mind ofthe devotee and absorbs all finite thought. When this conditionbecomes stable, the individual soul is free and becomes thesupreme soul. The breaking in of the vision is called Bhairava,because it is his and is caused by him[^92].
 
- §99. The founder of the Pratyabhijñāschool of KāśmīraŚaivism was Somānanda, the work written by whom is calledŚivadṛṣṭi. But the principal treatise of the school was composedby his pupil Udayākara, and contains verses which are calledSūtras. On these Sūtras there are glosses and detailed explanations by Abhinavagupta, the pupil of the pupil of [Somananda](# "Bitbler, Report of a Tour made in Kasmir; extract from Nos. 465-66, p. OLX.").Abhinavagupta wrote between 993 and 1015 [A. D](# "1bid. pp. 81-82.")., whereforeSomānanda must be taken to have lived in the first quarter of thetenth century.
+[^92]: "Śivasūtravimarśinī; I. 5."
+
+ §99. The founder of the Pratyabhijñāschool of KāśmīraŚaivism was Somānanda, the work written by whom is calledŚivadṛṣṭi. But the principal treatise of the school was composedby his pupil Udayākara, and contains verses which are calledSūtras. On these Sūtras there are glosses and detailed explanations by Abhinavagupta, the pupil of the pupil of Somananda[^93].Abhinavagupta wrote between 993 and 1015 A. D[^94]., whereforeSomānanda must be taken to have lived in the first quarter of thetenth century.
+
+[^93]: "Bitbler, Report of a Tour made in Kasmir; extract from Nos. 465-66, p. OLX."
+
+[^94]: "1bid. pp. 81-82."
 
  The doctrines of the creation of the world and of the relationsbetween the individual and supreme souls set forth by thisschool are the same as those maintained by the preceding one.But the way of the perception of the identity is recognition.according to this system. There is an Upanṣiad text⁵, fromwhich it follows that every thing shines when He shines and
 
@@ -11403,11 +11857,23 @@ Basava, who was the son of Mādirāja, a Brāhmaṇa supposed to be of the Ārā
 
 1\. For the Liṅgāyat account see the translation of the Basavapurāṇa Journ.B. B. B. A. S. Vol. VIII, or the Basavapurāṇa itself, printed at Poons, andfor the latter see Wilson's Mackenzie Mss.
 
-choose a Guru, or preceptor, it is necessary to place four metallicvessols full of water at the four cardinal points and one in themiddle. This last belongs to the person to be consecrated as Guruor preceptor, who is supposed to represent an old Ācārya, orteacher, of the name of Viśvarādhya, and the other four to fourother priests chosen as having been brought up in the schools ofRevaṇasiddha, Marulasiddha, Ekorāma and Paṇḍitārādhya andconnected with certain Maṭhas, or [establishments](# "Vivekacintāmaṇi Pūrvabhāga, Sholapur 1909 A. D. pp. 230 ff."). The same.list is given in another [treatise](# "Vīraśaivācārapradīpikā, Poona 1905 A. D., pp. 33-37."). These five vessels. are consocrated to the five faces or forms of Śiva, Sadyojāta, otc, mentioned in a former [section](# "P. 177. note 1."). The Ācāryas, or teachers, named aboveare believed to have sprung from the five forms of Śiva in thisKali [age](# "Pañcācāryapañcamotpattiprakaraṇa, Bombay 1903 A. D. p. 1."). Others bearing other names, born in other ages of theworld, are also mentioned, but with these we have nothing to doOf these five teachers three at least are mentioned as having preceded Basavs in the passage quoted at the beginning of thissection.
+choose a Guru, or preceptor, it is necessary to place four metallicvessols full of water at the four cardinal points and one in themiddle. This last belongs to the person to be consecrated as Guruor preceptor, who is supposed to represent an old Ācārya, orteacher, of the name of Viśvarādhya, and the other four to fourother priests chosen as having been brought up in the schools ofRevaṇasiddha, Marulasiddha, Ekorāma and Paṇḍitārādhya andconnected with certain Maṭhas, or establishments[^95]. The same.list is given in another treatise[^96]. These five vessels. are consocrated to the five faces or forms of Śiva, Sadyojāta, otc, mentioned in a former section[^97]. The Ācāryas, or teachers, named aboveare believed to have sprung from the five forms of Śiva in thisKali age[^98]. Others bearing other names, born in other ages of theworld, are also mentioned, but with these we have nothing to doOf these five teachers three at least are mentioned as having preceded Basavs in the passage quoted at the beginning of thissection.
 
- It will thus appear that the Vīraśaiva, or Liṅgāyat, systemcame into existence before Basava. It is affiliated to the moderateor sober school of Śaivas known by the name of Śaivadarśana, orSiddhāntadarśana as it is called by its followers; and especiallyto the later form of it alluded to [before](# "§ 95."). But its technical terms,Sthala, Aṅga, Liṅga, etc. and its ideas are entirely different fromthose of that school as explained by Mādhava and others. Andthese terms we do not meet with elsewhere, so that thismodern school. When it originated, it is difficult to say. But it was clearly in a militant condition in the time of Basava. Itmust, therefore, have originated about a hundred years before.The names of two at least of the five teachers as given above endin the word arä
+[^95]: "Vivekacintāmaṇi Pūrvabhāga, Sholapur 1909 A. D. pp. 230 ff."
 
-dhya, while in other books all the five have thatepithet attached to their [names](# "Pañcācāryapañcamotpattiprakaraṇa p. 35."). This was the name of a sectallied to the Liṅgāyats.
+[^96]: "Vīraśaivācārapradīpikā, Poona 1905 A. D., pp. 33-37."
+
+[^97]: "P. 177. note 1."
+
+[^98]: "Pañcācāryapañcamotpattiprakaraṇa, Bombay 1903 A. D. p. 1."
+
+ It will thus appear that the Vīraśaiva, or Liṅgāyat, systemcame into existence before Basava. It is affiliated to the moderateor sober school of Śaivas known by the name of Śaivadarśana, orSiddhāntadarśana as it is called by its followers; and especiallyto the later form of it alluded to before[^99]. But its technical terms,Sthala, Aṅga, Liṅga, etc. and its ideas are entirely different fromthose of that school as explained by Mādhava and others. Andthese terms we do not meet with elsewhere, so that thismodern school. When it originated, it is difficult to say. But it was clearly in a militant condition in the time of Basava. Itmust, therefore, have originated about a hundred years before.The names of two at least of the five teachers as given above endin the word arä
+
+[^99]: "§ 95."
+
+dhya, while in other books all the five have thatepithet attached to their names[^100]. This was the name of a sectallied to the Liṅgāyats.
+
+[^100]: "Pañcācāryapañcamotpattiprakaraṇa p. 35."
 
  Of the five Ācāryas represented by the five metallic vessels,Mr. Brown¹ does not mention the middle one and calls all the otherfour Ārādhyas, so that all the five preceptors honoured at the timeof initiation and other ceremonies belong to the Ārādhya sect,which, according to Mr. Brown, was a sect of the Vīraśaiva creed.There has been a good deal of ill-feeling between the Ārādhyasand the ordinary Liṅgāyats, and that appears to be due to theretention by the former of some Brāhmaṇic rites, such as repeating the holy Gāyatrīmantra and wearing the sacred thread. Butthe very name Ārādhya, which means one to be adored or worshipped, shows that, before the contention between the two sects.arose the Ārādhyas enjoyed very great respect.
 
@@ -11449,7 +11915,11 @@ iva. In thisrespect also it resembles Rāmānuja's system.
 
 1.The above is an abstract of the matter contained in the Anubhavasūtra of Mayideva, Sholapur, 1909,
 
- § 104. The highest class of Liṅgāyats is composed of those whocall themselves Liṅgi-Brāhmaṇas, the other castes or classes whowear the Liṅgabeing simply their followers. The Liṅgi-Brāhmaṇas consist of two main classes, the Ācāryasand the Pañcamas.The legendary account given of these is as follows. The Ācāryaswere originally five in number and sprang from the five faces,Sadyojāta, etc., of Śiva spoken of in a former [section](# "Ante. p. 177nl [N. B. U.]"). They arethe same as those mentioned above as having a metallic vesselplaced in their names on the occasion of any holy ceremony.From these five have sprung up all the priestly classes nowexisting. These five had five Gotras, viz. Vīra, Nandin, Vṛṣabha,Bhṛṅgin, and Skanda, who were originally persons almost as highas Śive himself. From the Īśāna face of Śiva sprang a Gaṇeśvara(leader of a group), who had five faces. From these five faces.sprang five Pañcamas, known by the names of Makhāri, Kālāri,Purāri, Smarāri, and Vedāri, which, the reader will remember,were the names of Śiva himself given to him on account of certaindeeds done by him. From these arose others who are called.Upapañcamas. Each Pañcama has to connect himself with oneof the five Ācāryas as his Guru. The Gotra of the Guru is hisGotra, and there can be no marriage relation between the members of the same Gotra. These Pañcamas have got Gotra, Pravarsand Śākhāof their own, and the Liṅgāyats thus seem to havecopied the Brṅhmanic system. The Pañicamas are spoken of asthe true devotees of [Śiva](# "Pañcācāryapañcamotpattiparakaraṇa.").
+ § 104. The highest class of Liṅgāyats is composed of those whocall themselves Liṅgi-Brāhmaṇas, the other castes or classes whowear the Liṅgabeing simply their followers. The Liṅgi-Brāhmaṇas consist of two main classes, the Ācāryasand the Pañcamas.The legendary account given of these is as follows. The Ācāryaswere originally five in number and sprang from the five faces,Sadyojāta, etc., of Śiva spoken of in a former section[^101]. They arethe same as those mentioned above as having a metallic vesselplaced in their names on the occasion of any holy ceremony.From these five have sprung up all the priestly classes nowexisting. These five had five Gotras, viz. Vīra, Nandin, Vṛṣabha,Bhṛṅgin, and Skanda, who were originally persons almost as highas Śive himself. From the Īśāna face of Śiva sprang a Gaṇeśvara(leader of a group), who had five faces. From these five faces.sprang five Pañcamas, known by the names of Makhāri, Kālāri,Purāri, Smarāri, and Vedāri, which, the reader will remember,were the names of Śiva himself given to him on account of certaindeeds done by him. From these arose others who are called.Upapañcamas. Each Pañcama has to connect himself with oneof the five Ācāryas as his Guru. The Gotra of the Guru is hisGotra, and there can be no marriage relation between the members of the same Gotra. These Pañcamas have got Gotra, Pravarsand Śākhāof their own, and the Liṅgāyats thus seem to havecopied the Brṅhmanic system. The Pañicamas are spoken of asthe true devotees of Śiva[^102].
+
+[^101]: "Ante. p. 177nl [N. B. U.]"
+
+[^102]: "Pañcācāryapañcamotpattiparakaraṇa."
 
  According to the ordinary acccunt the true Liṅgāyats aredivided into four classes: (1) Jaṅgamas, or priests, (2) Śīlavants,
 
@@ -11487,7 +11957,11 @@ The head monk of the Chitaldrug convent alladed to above was on avisitation to P
 
  The most highly honoured of all these writers is Tiruñānasambandha. He was a Brāhmaṇa by birth, and the poeticfaculty was developed in him very early in life. His hymns arefull of the purest devotional feeling and are melodious. Thetunes in which they were originally sung were Draviḍian, butin later times northern melodies with northern names came to beused. Sambandha's image is set up for worship in every Śaivaltemple, and he is adored by Tamil poets and philosophers in thebeginning of their works. He was a great enemy of Buddhistsand Jainas; and every tenth stanza of his Padigams, or hymns,contains an imprécation against them. On one occasion, he wasinvited by the queen of Kuni Pāṇdya of Madhurā, where he helda disputation with the Buddhists or Jainas, which ended in theconversion of the king to the Saiva faith¹.
 
- In an Inscription in the Rājarājeśvara temple at Tanjore theking Rājarājadeva, after whom the temple was named, makes adaily allowance for the support of the reciters or singers of theTiruppadiyam or the Padigams of Tiruñānasambandba, beforethe twenty-ninth year of his reign². The date of Rājarāja'saccession to the throne has been determined by the mention of alunar eclipse in one of his inscriptions to be 984-5 [A. D](# "Ind. Ant., Vo . XXIII, p. 297."). Thisis consistent with the fact mentioned in another [Inscription](# "South-Ind. Inscrs., Vol. II, p. 2.") thathe conquered Satyāśraya, who was the immediate successor ofTailapa, the founder of the later Cālukya dynasty of Mahārāṣṭra,and died in Śaka 930, or 1008 A. D. Thus before the twenty-ninthyear of Rājarāja, i. e. before 1013 A. D., the Padigams of Sambandha had come to be looked upon as so sacred that the recitation or singing of them was considered an act of religious meritlike the repetition of the Śatarudriya by the followers of theBrāhmaṇic Veda. This character the hymns of Sambandhacould not have acquired unless they had come into existenceabout four hundred years before the beginning of the eleventhcentury. This is consistent with the conclusion arrived at byMr. Pillai that Sambandha flourished in the seventh century.
+ In an Inscription in the Rājarājeśvara temple at Tanjore theking Rājarājadeva, after whom the temple was named, makes adaily allowance for the support of the reciters or singers of theTiruppadiyam or the Padigams of Tiruñānasambandba, beforethe twenty-ninth year of his reign². The date of Rājarāja'saccession to the throne has been determined by the mention of alunar eclipse in one of his inscriptions to be 984-5 A. D[^103]. Thisis consistent with the fact mentioned in another Inscription[^104] thathe conquered Satyāśraya, who was the immediate successor ofTailapa, the founder of the later Cālukya dynasty of Mahārāṣṭra,and died in Śaka 930, or 1008 A. D. Thus before the twenty-ninthyear of Rājarāja, i. e. before 1013 A. D., the Padigams of Sambandha had come to be looked upon as so sacred that the recitation or singing of them was considered an act of religious meritlike the repetition of the Śatarudriya by the followers of theBrāhmaṇic Veda. This character the hymns of Sambandhacould not have acquired unless they had come into existenceabout four hundred years before the beginning of the eleventhcentury. This is consistent with the conclusion arrived at byMr. Pillai that Sambandha flourished in the seventh century.
+
+[^103]: "Ind. Ant., Vo . XXIII, p. 297."
+
+[^104]: "South-Ind. Inscrs., Vol. II, p. 2."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -11495,7 +11969,9 @@ The head monk of the Chitaldrug convent alladed to above was on avisitation to P
 
 2.South-Indian Inscriptions ed. by E. Hultzsch, Vol. I. p. 252, No. 65.
 
- The Inscriptions in the temples at Kāñcipura contain evidenceof Śaivism being in a flourishing condition in the sixth century.The Pallava king Rājasiṁha constructed a temple, and the godinside was named after him Rājasiṁheśvara. Rājasiṁha appears.from some of the Inscriptions to have been a contemporary of theearly Cālukya prince Pulakeśin [I](# "South-Ind. Insers.. Vol. I, p. 11."), who may be referred toabout the year 550 A. D., as his son Kīrtivarman I, came to thethrone about the year 567 A. D.².
+ The Inscriptions in the temples at Kāñcipura contain evidenceof Śaivism being in a flourishing condition in the sixth century.The Pallava king Rājasiṁha constructed a temple, and the godinside was named after him Rājasiṁheśvara. Rājasiṁha appears.from some of the Inscriptions to have been a contemporary of theearly Cālukya prince Pulakeśin I[^105], who may be referred toabout the year 550 A. D., as his son Kīrtivarman I, came to thethrone about the year 567 A. D.².
+
+[^105]: "South-Ind. Insers.. Vol. I, p. 11."
 
  The Śaivism that prevailed in the Tamil country seems tohave been generally of the ordinary kind, since the hymns in theDevāram sing the praises of Śiva and exhibit forvent devotionalfeeling, but there must have been some Darśana or system ofphilosophy also, since in an Inscription in the Rājasiṁheśvaratemple at Kāñci Atyantakāma, which was another name of Rājasiṁha, is represented as proficient in the system of the Śaivasiddhāntas. And the last species of the Śaiva Iterature detailedabove is, it will have been seen, called Siddhāntaśāstra composedby Santāna-Ācāryas. These must be philosophical works onŚaivism. And the system therein taught appears in all likelihoodto be the same or similar to the Śaivadarśana, which has alreadybeen explained. But what exactly the system taught by theSiddhāntas was, we have not the means of finding out, as none ofthe works is available for examination.
 
@@ -11525,7 +12001,9 @@ names are derived, are called her excellent forms (Vibhūtis).At the end, the go
 
 creating, illuding, etc. were conceived of as goddesses as thenoun Śakti is of the feminine gender. The seven goddessesnamed above, Brāhmī, Maheśvarī, eto. owe their origin to thisconception of Śakti and the powers of the seven gods. In latertimes some of the Brāhmaṇic families came to have tutelarygoddesses, and thus we have Kātyayānī, or the goddess of theKātyas, and Kauśikī, the goddess of the Kauśikas. A furtherdevelopment went on especially under the influence of the idea ofŚakti, or power, and thus we have three forms in which thegoddess was worshipped. First we have the ordinary bland.form, in which the goddess is worshipped. Then we have thefierce form, in which she is associated with the schools ofKāpālikas and Kālāmukhas, and animals and human beings aresacrificed. And the third is the sensual form, in which she isthe object of worship with the school of the Sāktas, who are socalled because they are worshippers of Śakti.
 
- § 110. The Tantras inculcating the worship of the goddess inthese various forms, constitute a considerable body of literature.We will here notice the formation, doctrines and practices of aschool based on one of these forms, that which we have calledsensual. The goddess here is called Ānandabhairavī, Tripurasundarī, and Lalitā. Her dwelling is thus described. There isan ocean of nectar, in which there are five celestial trees. Thenthere is a row or enclosure of Nīpa or Kadamba trees, in themidst of which is a pavilion made of jewel stones. In thatpavilion is situated a palace made of the wish-giving stone,where lies the great Īśānī, the great Tripurasundarī, on a couch,which is Śiva, with Maheśana for its coverlet and Sadaśiva forits pillow. The legs of the couch are Brahmadeva, Hari, Rudraand Īśvara. These are spirits discharging certain functions contsined in the essence of Maheśvara¹. This is a mythologicalexplanation of certain figures in the mystic cirles and of technical terms. The goddess is thus elevated to the highest position.Ānandabhairava or Mahābhairava, which is the name given toŚiva, is the soul of, or is composed of, the nine collections ofthings of which the world is made up, such as time and itsvarious forms (Kālavyūha), existing things like the blue substance (Kulavyūha), names (Nāmavyūha), perception (Jñāvyūha), the five faculties, viz. consciousness, heart, will, intelligence, and mind (Cittavyūha). Mahābhairava is the soul of thegoddess; therefore she also is the soul of, or composed of, thenine collections. Buth, therefore, constitute one entity. Whenthere is Sāmarasya, or community of joy or intonse love betweenthem, creation follows. The female olement, or Mahābhairavī,however, is predominant in the process of creation and the maleelement, or Mahābhairava, in the work of [destruction](# "Ibid. v. 34.").
+ § 110. The Tantras inculcating the worship of the goddess inthese various forms, constitute a considerable body of literature.We will here notice the formation, doctrines and practices of aschool based on one of these forms, that which we have calledsensual. The goddess here is called Ānandabhairavī, Tripurasundarī, and Lalitā. Her dwelling is thus described. There isan ocean of nectar, in which there are five celestial trees. Thenthere is a row or enclosure of Nīpa or Kadamba trees, in themidst of which is a pavilion made of jewel stones. In thatpavilion is situated a palace made of the wish-giving stone,where lies the great Īśānī, the great Tripurasundarī, on a couch,which is Śiva, with Maheśana for its coverlet and Sadaśiva forits pillow. The legs of the couch are Brahmadeva, Hari, Rudraand Īśvara. These are spirits discharging certain functions contsined in the essence of Maheśvara¹. This is a mythologicalexplanation of certain figures in the mystic cirles and of technical terms. The goddess is thus elevated to the highest position.Ānandabhairava or Mahābhairava, which is the name given toŚiva, is the soul of, or is composed of, the nine collections ofthings of which the world is made up, such as time and itsvarious forms (Kālavyūha), existing things like the blue substance (Kulavyūha), names (Nāmavyūha), perception (Jñāvyūha), the five faculties, viz. consciousness, heart, will, intelligence, and mind (Cittavyūha). Mahābhairava is the soul of thegoddess; therefore she also is the soul of, or composed of, thenine collections. Buth, therefore, constitute one entity. Whenthere is Sāmarasya, or community of joy or intonse love betweenthem, creation follows. The female olement, or Mahābhairavī,however, is predominant in the process of creation and the maleelement, or Mahābhairava, in the work of destruction[^106].
+
+[^106]: "Ibid. v. 34."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -11541,9 +12019,15 @@ creating, illuding, etc. were conceived of as goddesses as thenoun Śakti is of 
 
 followers of the Śakti school justify their appellation by thebelief that God is a woman and it ought to be the aim of all tobecome a woman.
 
- Tripurasundarīis propitiated and eventually attained byassuming the vow (Dīksā) of a devoted worship of her. Thisvow is of three kinds. The first consists in fully concentratingthe mind on the Devī as sitting on the lap of Siva in the Mahāpadmavana (a garden of lotuses), as possessed of a body whichis pure joy and is the original cause of all, and as identical withone's own self. The second is the Cakrapūjā, the worship bymeans of the mystic circles, which is a Bāhyayāga, or materialworship and the third consists in studying and knowing thetrue doctrine. The second is the proper Śakti ceremonial. Itconsists in the worship of a picture of the female organ drawnin the centre of another consisting of a representation of ninesuch organs, the whole of which forms the Śrīcakra The picturesare drawn on a Bhūrja leaf or a piece of silken cloth or on a gold.[leaf](# "Saundaryalaharīv. 41, commentary."). With reference to this worship it must be observed thatthere are two classes of Śāktas: (1) Kaulika and (2) Samayin.The former worship the gross material object, while the latterhave a recourse to imagery. The worship of the pictures justmentioned is resorted to by ancient (Pūrva) Kaulas, while themodern (Uttara) Kaulas worship the organ of a living beautifulwoman. The Kaulas worship their goddess by offering to her,and themselves using, wine, flesh, honey (Madhu ), fish and suchother things. Tke Samayins, of course, abstain from suchpractices. There are even Brāhmaṇas, who secretly profess thedoctrines of the Sakta school and worship the goddess Tripurasundarīin accordance with the Pūrva-Kaula or Uttara-Kaula.way. There are no distinctions of caste when the worship of theBhairavīcakra is going on. Men of all castes become Brāhmaṇas,but they resume their own castes when the worship is [over](# "Aufrecht s Oxf. Cat. p. 92, n.").There are several more innocent and decorous modes of worshipping the goddess under the names of Lalits and Upāṅgalalitāmentioned in the ordinary religious books. The worshipof the latter comes off on the fifth lunar day of Āśvina and of
+ Tripurasundarīis propitiated and eventually attained byassuming the vow (Dīksā) of a devoted worship of her. Thisvow is of three kinds. The first consists in fully concentratingthe mind on the Devī as sitting on the lap of Siva in the Mahāpadmavana (a garden of lotuses), as possessed of a body whichis pure joy and is the original cause of all, and as identical withone's own self. The second is the Cakrapūjā, the worship bymeans of the mystic circles, which is a Bāhyayāga, or materialworship and the third consists in studying and knowing thetrue doctrine. The second is the proper Śakti ceremonial. Itconsists in the worship of a picture of the female organ drawnin the centre of another consisting of a representation of ninesuch organs, the whole of which forms the Śrīcakra The picturesare drawn on a Bhūrja leaf or a piece of silken cloth or on a gold.leaf[^107]. With reference to this worship it must be observed thatthere are two classes of Śāktas: (1) Kaulika and (2) Samayin.The former worship the gross material object, while the latterhave a recourse to imagery. The worship of the pictures justmentioned is resorted to by ancient (Pūrva) Kaulas, while themodern (Uttara) Kaulas worship the organ of a living beautifulwoman. The Kaulas worship their goddess by offering to her,and themselves using, wine, flesh, honey (Madhu ), fish and suchother things. Tke Samayins, of course, abstain from suchpractices. There are even Brāhmaṇas, who secretly profess thedoctrines of the Sakta school and worship the goddess Tripurasundarīin accordance with the Pūrva-Kaula or Uttara-Kaula.way. There are no distinctions of caste when the worship of theBhairavīcakra is going on. Men of all castes become Brāhmaṇas,but they resume their own castes when the worship is over[^108].There are several more innocent and decorous modes of worshipping the goddess under the names of Lalits and Upāṅgalalitāmentioned in the ordinary religious books. The worshipof the latter comes off on the fifth lunar day of Āśvina and of
 
-the former for the first ten days. The latter, when so worshippedby women, wards off [widowhood](# "See Hemādri Vratakhaṇḍa.").
+[^107]: "Saundaryalaharīv. 41, commentary."
+
+[^108]: "Aufrecht s Oxf. Cat. p. 92, n."
+
+the former for the first ten days. The latter, when so worshippedby women, wards off widowhood[^109].
+
+[^109]: "See Hemādri Vratakhaṇḍa."
 
 **XIV. The Sect of Gāṇapatyas.**
 
@@ -11557,7 +12041,9 @@ After bathing oblations of mustard oil extracted afresh should beoffered to the 
 
  The form of the ceremony contained in the Sūtra is unquestionably more ancient than that contained in the other work.But the difference between the two shows that during the periodthat had elapsed between the composition of the Sūtra and that ofthe Smṛti, the four Vināyakas had become one Gaṇapati-Vināyaka,having Ambikāfor his mother. It will thus be seen that, in hisown nature, this last god is an unfriendly or malignant spirit,but capable of being made friendly and benignant by propitiatoryrites. In this respect, he resembles Rudra himself. That theVināyakas had come to be objects of faith before the Christianera, may be taken to follow from the occurrence of the ceremonymentioned above in a Gṛhyasūtra. But the one Gaṇapati-Vināyaka, the son of Ambikā, was introduced into the Hindu pantheonmuch later.
 
- None of the Gupta Inscriptions which I subjected to anexamination on a former occasion¹ contains any mention of hisname or announces any gift or benefaction in his honour. Butin two of the caves at Ellora, there are groups of images of Kāla, Kālī, the Seven Mothers or Śaktis, and Gaṇapati². These cavesare to be referred to the latter part of the eighth century. So thatbetween the end of the fifth and the end of the eighth centurythe Gaṇapati cult must have come into practice, and the Smṛtiof Yajñavalkya. must have been written not earlier than thesixth century. Another Inscription, and an old relic, whichindicate the prevalence of the worship of Gaṇapati, are found ata place called Ghaṭiyālā, 22 miles north-west of Jodhpur. Thereis a column there, on the top of which there are four images ofGaṇapati facing the four quarters. In the opening sentence ofthe Inscription engraved on it, an obeisance is made to Vināyaka.The date of the inscription is Vikrama-Saṁvat 918 = A. D. [862](# "Ep. Ind. Vol. IX. pp. 277ff.").
+ None of the Gupta Inscriptions which I subjected to anexamination on a former occasion¹ contains any mention of hisname or announces any gift or benefaction in his honour. Butin two of the caves at Ellora, there are groups of images of Kāla, Kālī, the Seven Mothers or Śaktis, and Gaṇapati². These cavesare to be referred to the latter part of the eighth century. So thatbetween the end of the fifth and the end of the eighth centurythe Gaṇapati cult must have come into practice, and the Smṛtiof Yajñavalkya. must have been written not earlier than thesixth century. Another Inscription, and an old relic, whichindicate the prevalence of the worship of Gaṇapati, are found ata place called Ghaṭiyālā, 22 miles north-west of Jodhpur. Thereis a column there, on the top of which there are four images ofGaṇapati facing the four quarters. In the opening sentence ofthe Inscription engraved on it, an obeisance is made to Vināyaka.The date of the inscription is Vikrama-Saṁvat 918 = A. D. 862[^110].
+
+[^110]: "Ep. Ind. Vol. IX. pp. 277ff."
 
  When and how the god came to have the elephant's head, it isdifficult to determine. The images in the cave-temples at Ellorahave that head, and Bhavabhūti also in the beginning of theeighth century describes him, in the opening stanza of theMālatīmādhava, as possessed of such a head. Rudra-Śiva andthe gods allied with him were connected closely with forests andwild places, in which elephants also were found. The hide wornby Rudra and by his consort also in one of her forms was thehide of an elephant, and it perhaps suited the fancy of some mento place the head of that animal over the body of a god originallymischievous. Gaṇapati's reputation for wisdom is, I believe, tobe attributed to the confusion between him and Bṛhaspati, whoin ṚV. II. 23. 1 is called Gaṇapati. Bṛhaspati, of course, is theVedic god of wisdom, and is called the sage of sages.
 
@@ -11579,9 +12065,15 @@ After bathing oblations of mustard oil extracted afresh should beoffered to the 
 
 **XV. Skanda or Kārttikeya.**
 
-** **§ 113. Another god whose worship was extensively practisedin ancient times, but is now rare, is Skanda or Kārttikeya. Thegeneral belief is that he was the son of Śiva and Pārvatī. Butin the Rāmāyaṇa he is represented as the son of the god of fireand Gaṅgā(I. chap 37). The foetus was thrown by Gaṅgāon the Himavat mountain, and it was nourished by the sixstars constituting the constellation of Kṛttikā (Pleiades), andwas thus called the son of the Kritikās or Kārttikeya. Inthe MBh. (Vanaparvan, chap. 229) also he is represented as theson of Fire, but the mother was Agni's true wife Svāhā, who hadassumed the forms of the wives of six Ṛṣis, whom Agni loved.But here he is called the son of Śiva also, as Agni is a form ofthat god. There are other stories connecting him with Śiva andPārvatī as his parents. But whatever the legend may have beenthere is no question that he was connected with Śiva, and wasthe leader of one of his Gaṇas. There is a Liṅgāyat traditionreported in the section on that [sect](# "[Ante, p. 196 N. B. U.]")that he was a founder of a
+** **§ 113. Another god whose worship was extensively practisedin ancient times, but is now rare, is Skanda or Kārttikeya. Thegeneral belief is that he was the son of Śiva and Pārvatī. Butin the Rāmāyaṇa he is represented as the son of the god of fireand Gaṅgā(I. chap 37). The foetus was thrown by Gaṅgāon the Himavat mountain, and it was nourished by the sixstars constituting the constellation of Kṛttikā (Pleiades), andwas thus called the son of the Kritikās or Kārttikeya. Inthe MBh. (Vanaparvan, chap. 229) also he is represented as theson of Fire, but the mother was Agni's true wife Svāhā, who hadassumed the forms of the wives of six Ṛṣis, whom Agni loved.But here he is called the son of Śiva also, as Agni is a form ofthat god. There are other stories connecting him with Śiva andPārvatī as his parents. But whatever the legend may have beenthere is no question that he was connected with Śiva, and wasthe leader of one of his Gaṇas. There is a Liṅgāyat traditionreported in the section on that sect[^111]that he was a founder of a
 
-Gotra, and was a form of Śiva himself. His having the peacockfor his vehicle is also consistent with his connection with Śiva,as peacocks are found in forests of which Rudra and hisattendants were gods. His being the leader of the army of the gods was an idea probably suggested by his being the leader of aGaṇa of Rudra. And in historical times he has been associatedwith Śiva. Under P. V. 3. 99, Patañjali mentions the images ofŚiva, Skanda and Viśakha as being worshipped in his time. Onthe reverse of the coins of the Kuṣana prince Kaniṣka, there arefigures with their names in Greek letters of Skando, Mahaseno,Komaro and [Bizago](# "See JBBRAS, Vol. XX, p. 385.").The first is Skanda, and because he wasthe commander of the army of the gods, he was also called.The third isMahāsena, which is the second name on the coin.Kumāra, which is also a name of Skanda, and the fourth is theSkr. Viśākha. If the first three were the names of one deity only,there was no necessity for giving three names and three figures.These, therefore, must have been regarded as three different godsas Viśākha undoubtedly was from his being mentioned separatelyfrom Skanda by Patañjali. In the story in the MBh. referred toabove Viśākha is mentioned as having arisen from the right sideof Skanda when it was struck by Indra's thunderbolt. This isindicative of the tendency to make the two as one person; andthey appear to have been so made in later times. Or, looking tothe fact that there are two names of Buddha on the coins, the above three may have been the names of one single deity. There arealso three indications of the prevalence of the worship of Skandaor Māhasena in the early centuries. In the year 414 A. D. wasbuilt a Pratolt, or gallery, in the temple of Svāmi-Mahāsena byone Dhruvaśarman at [Bilsād](# "Ib.p. 395."). Several holy observances and vows in the name of Kumāra and Kārttikeya are mentioned inHemādri's Vratakhaṇḍa, and the worship of that god has notbecome obsolete even at the present day.
+[^111]: "[Ante, p. 196 N. B. U.]"
+
+Gotra, and was a form of Śiva himself. His having the peacockfor his vehicle is also consistent with his connection with Śiva,as peacocks are found in forests of which Rudra and hisattendants were gods. His being the leader of the army of the gods was an idea probably suggested by his being the leader of aGaṇa of Rudra. And in historical times he has been associatedwith Śiva. Under P. V. 3. 99, Patañjali mentions the images ofŚiva, Skanda and Viśakha as being worshipped in his time. Onthe reverse of the coins of the Kuṣana prince Kaniṣka, there arefigures with their names in Greek letters of Skando, Mahaseno,Komaro and Bizago[^112].The first is Skanda, and because he wasthe commander of the army of the gods, he was also called.The third isMahāsena, which is the second name on the coin.Kumāra, which is also a name of Skanda, and the fourth is theSkr. Viśākha. If the first three were the names of one deity only,there was no necessity for giving three names and three figures.These, therefore, must have been regarded as three different godsas Viśākha undoubtedly was from his being mentioned separatelyfrom Skanda by Patañjali. In the story in the MBh. referred toabove Viśākha is mentioned as having arisen from the right sideof Skanda when it was struck by Indra's thunderbolt. This isindicative of the tendency to make the two as one person; andthey appear to have been so made in later times. Or, looking tothe fact that there are two names of Buddha on the coins, the above three may have been the names of one single deity. There arealso three indications of the prevalence of the worship of Skandaor Māhasena in the early centuries. In the year 414 A. D. wasbuilt a Pratolt, or gallery, in the temple of Svāmi-Mahāsena byone Dhruvaśarman at Bilsād[^113]. Several holy observances and vows in the name of Kumāra and Kārttikeya are mentioned inHemādri's Vratakhaṇḍa, and the worship of that god has notbecome obsolete even at the present day.
+
+[^112]: "See JBBRAS, Vol. XX, p. 385."
+
+[^113]: "Ib.p. 395."
 
 **XVI. The Sect of Sauras and the Northern Sun-Worship.**
 
@@ -11589,7 +12081,9 @@ Gotra, and was a form of Śiva himself. His having the peacockfor his vehicle is
 
 but reasonable to expect that the worship of such a deity shouldnot become obsolete in later times, since the orb of the sun isdaily seen in the sky. In two passages in ṚV. (VII. 60. 1; 62.2)the singer wishes the rising sun to declare him sinless to Mitra,Varuṇa, and other gods. This idea probably arose from the factthat the rising sun by his bright light discloses everything thathas been done in the darkness of the previous night, and thenceit developed into a belief that the sun destroys sins. Kauṣītakiis represented to have adored the sun in the morning, at midday,and in the evening, and having made offerings of water withflowers, sandal, etc. or without (Arghya), prayed for the removalof his sins (KBU. II. 7). And this is what we do or are expectedto do in our twilight and midday adorations.
 
- Water is sipped by repenting a formula expressive of a wishthat the Sun, Manyu and Manyupati may protect the adorer fromsins (AG. Pariśiṣṭa I. 3, and TA. X. 25. 1). After that, three offeringsof water with or without the other ingredients are made to the sunafter repeating the Gāyatrī, and then the water is whirled roundhis head by the adorer by repeating the Mantra "That Āditya is[Brahman](# "Asāv ādityo Brahma.")" Āśvalāyana directs that, while adoring the morningtwilight, one facing the east should repeat the Gāyatrī-Mantratill the whole disc of the sun has risen, and in the evening withhis face towards the west till the whole has gone down and thestars have begun to appear (AG. III. 7. 4—6).
+ Water is sipped by repenting a formula expressive of a wishthat the Sun, Manyu and Manyupati may protect the adorer fromsins (AG. Pariśiṣṭa I. 3, and TA. X. 25. 1). After that, three offeringsof water with or without the other ingredients are made to the sunafter repeating the Gāyatrī, and then the water is whirled roundhis head by the adorer by repeating the Mantra "That Āditya isBrahman[^114]" Āśvalāyana directs that, while adoring the morningtwilight, one facing the east should repeat the Gāyatrī-Mantratill the whole disc of the sun has risen, and in the evening withhis face towards the west till the whole has gone down and thestars have begun to appear (AG. III. 7. 4—6).
+
+[^114]: "Asāv ādityo Brahma."
 
  In the Upanayana ceremony, when the boy is invested withthe sacred thread and other badges of a student's life, he is madeto look at the orb of the sun, when the preceptor, addressing thatdeity, prays "Oh god Savitar, this is thy student, protect him.May he not die " (AG. I. 20. 6). Khādira prescribes the adoration of the sun for the enjoyment of riches and for the attainmentof fame (Khādiragṛhyasūtra IV. 1. 14 and 23). The hymnaddressed by Yudhiṣṭhira to the sun after he entered his forestresidence, and his having obtained a vessel from him for theproduction of all the food wanted by him, his family andfollowers, are well-known.
 
@@ -11609,9 +12103,13 @@ vehicle, to Śākadvīpa, brought some Magas from it and installedthem into the 
 
  The Magas have long been known in the literary history ofIndia. There is an Inscription at Govindapur in the GayāDistrict duted Śaka 1059, corresponding to 1137-38 A. D., in theopening stanza of which the Magas, who sprang from the sun,are represented to have been brought into the country by Sāmba.Six great poets, the works of some of whom are extant, are alsomentioned. There are traces of the Magas elsewhere, and there.Are Brāhmaṇas of that name in Rajputana and some otherprovinces of Northern India.
 
- Now these Magas are the Magi of ancient Persia, and thename Jaraśasta mentioned above as occurring in the Bhaviṣyapurāṇaconnects them with the Avesta prophet Zarathushtra.The Avyaṅga, which according to the Purans they wore roundtheir waist, was the same as the Aivyāonghen of the Avestalanguage, which last signifies the Kusti worn by the Parsees atthe present day. Albērūnī, speaking of the Persian priestsMagians, says that they existed in India and were called [Magas](# "Sachau s Translation, Vol. I, p. 21.").The idea of locating them on a continent called Śākadvīpamusthave arisen from the fact that they were foreigners like theŚakas, with whom the Indians had been familiar since thesecond or third century before the Christian era.
+ Now these Magas are the Magi of ancient Persia, and thename Jaraśasta mentioned above as occurring in the Bhaviṣyapurāṇaconnects them with the Avesta prophet Zarathushtra.The Avyaṅga, which according to the Purans they wore roundtheir waist, was the same as the Aivyāonghen of the Avestalanguage, which last signifies the Kusti worn by the Parsees atthe present day. Albērūnī, speaking of the Persian priestsMagians, says that they existed in India and were called Magas[^115].The idea of locating them on a continent called Śākadvīpamusthave arisen from the fact that they were foreigners like theŚakas, with whom the Indians had been familiar since thesecond or third century before the Christian era.
 
- Evidently then the worship of the sun or Mihira-worship wasbrought into India by the old Persian priests Magi, but at whoseinstance and under what circumstances they came it is difficultto say. The legendary tradition of their having been brought bySāmba was current in the first half of the twelfth century, as wehave seen from the Inscription. The temple on the Candrabhāgāreferred to above was that which existed at Multan, and a glowingdescription of which is given by the Chinese traveller HiuenTsiang. Four centuries later it was seen by [Albērūnī](# "Ibid, Vol. I, p. 116."). Itexisted till the seventeenth century, when it was finally destroyedby Auranzeb. Multan is the same as the Sanskrit Mūlasthāna,and this name may have been given to the place, because the
+[^115]: "Sachau s Translation, Vol. I, p. 21."
+
+ Evidently then the worship of the sun or Mihira-worship wasbrought into India by the old Persian priests Magi, but at whoseinstance and under what circumstances they came it is difficultto say. The legendary tradition of their having been brought bySāmba was current in the first half of the twelfth century, as wehave seen from the Inscription. The temple on the Candrabhāgāreferred to above was that which existed at Multan, and a glowingdescription of which is given by the Chinese traveller HiuenTsiang. Four centuries later it was seen by Albērūnī[^116]. Itexisted till the seventeenth century, when it was finally destroyedby Auranzeb. Multan is the same as the Sanskrit Mūlasthāna,and this name may have been given to the place, because the
+
+[^116]: "Ibid, Vol. I, p. 116."
 
 new worship of the sun was first organised there and it was itsoriginal seat.
 
@@ -11619,13 +12117,17 @@ new worship of the sun was first organised there and it was itsoriginal seat.
 
  An Inscription at Mandasaur records the construction of atemple to the sun in the year 437 A. D. by a guild of weavers, andits repair in the year 473 A. D. Another on a copperplate foundat Indore in the Bulandsbahar District in the United Provincesmentions an endowment of Devaviṣṇu in 464 A. D. for lightinga lamp in a temple of the sun. And in a third is recorded agrant in 511 A. D. to a temple of Āditya, or the sun. A greatmany more sun temples have been discovered especially inWestern India from Multan down to Cutch and northern Gujarat¹.The ruins of one exist at Moḍherā, eighteen miles to the south ofPāṭaṇ in the last-named province, and they contain the dateVikrama 1083 corresponding to 1027 A. D. There was anotherat Gwalior constructed in the time of Mihirakula, the HūṇaPrince, in the beginning of the sixth century.
 
- The form of the idol of the sun worshipped in such temples isdescribed by Varāhamihira (Bṛhatsaṁhitā, chap. 58), but thefeatures mentioned by him which have a significance for ourpresent purpose are that his feet and legs should be enclosed orcovered up to the knees and he should be dressed in the fashionprevalent in the North (v. 46), and that he should be encircledby an Avayṅga (v. 47). Accordingly the images of the sunthat are found in the temples mentioned above havebootsreaching up to the knees, and a girdle round the waist withone end hanging [downwards](# "Ibid., Plate LVI."). This last is a Persian feature,as we have already seen, and the other also must have the sameor similar origin. It certainly is not Indian. The features of the idol of the sun and the fact of Magas, who were descendedfrom the Persian Magi, being its priests point unmistakably tothe conclusion that the cult was introduced into Indis fromPersis, and I believe that the construction of so many templeswas also due to the foreign influence. For, in the account of theSaura systems we have given above, there is not the remotestallusion to a temple of the sun. According to all appearances,therefore, the cult prevalent in Northern India was entirelydistinct from those systems. It does not appear to have allieditself with any one of these latter. But it was accepted by themass of the Hindus as a general worship of the sun, and thefeelings which it evoked could not have been different from thosewhich the indigenous worship gave rise to. And the manner inwhich devotion to the sun is expressed in the Inscriptions whichwe find in some of the temples, has nothing special or foreign init. The Magas themselves, the priests of the new cult, weregradually thoroughly Hinduised until they became undistinguishable from the other Hindus and formed only a separatecaste.
+ The form of the idol of the sun worshipped in such temples isdescribed by Varāhamihira (Bṛhatsaṁhitā, chap. 58), but thefeatures mentioned by him which have a significance for ourpresent purpose are that his feet and legs should be enclosed orcovered up to the knees and he should be dressed in the fashionprevalent in the North (v. 46), and that he should be encircledby an Avayṅga (v. 47). Accordingly the images of the sunthat are found in the temples mentioned above havebootsreaching up to the knees, and a girdle round the waist withone end hanging downwards[^117]. This last is a Persian feature,as we have already seen, and the other also must have the sameor similar origin. It certainly is not Indian. The features of the idol of the sun and the fact of Magas, who were descendedfrom the Persian Magi, being its priests point unmistakably tothe conclusion that the cult was introduced into Indis fromPersis, and I believe that the construction of so many templeswas also due to the foreign influence. For, in the account of theSaura systems we have given above, there is not the remotestallusion to a temple of the sun. According to all appearances,therefore, the cult prevalent in Northern India was entirelydistinct from those systems. It does not appear to have allieditself with any one of these latter. But it was accepted by themass of the Hindus as a general worship of the sun, and thefeelings which it evoked could not have been different from thosewhich the indigenous worship gave rise to. And the manner inwhich devotion to the sun is expressed in the Inscriptions whichwe find in some of the temples, has nothing special or foreign init. The Magas themselves, the priests of the new cult, weregradually thoroughly Hinduised until they became undistinguishable from the other Hindus and formed only a separatecaste.
+
+[^117]: "Ibid., Plate LVI."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.Burgess, Architectural Antiquities of Northern Gujrat, London 1903.
 
- In the copper-plate grant of Harṣavardhana, who lived in themiddle of the seventh century, his father Prabhākarvardhana,his grandfather Ādityavardhana and his great-grandfather Rājyavardhana are all styled great devotees of the sun [(Paramādityabhakta)](# "Epigraphia Indica, Vol. I, pp. 72-73."). This is an evidence to show that the sun cult, probablymade up of a mixture of the indigenous and foreign forms,prevailed in the beginning of the sixth century and was professedby great princes.
+ In the copper-plate grant of Harṣavardhana, who lived in themiddle of the seventh century, his father Prabhākarvardhana,his grandfather Ādityavardhana and his great-grandfather Rājyavardhana are all styled great devotees of the sun (Paramādityabhakta)[^118]. This is an evidence to show that the sun cult, probablymade up of a mixture of the indigenous and foreign forms,prevailed in the beginning of the sixth century and was professedby great princes.
+
+[^118]: "Epigraphia Indica, Vol. I, pp. 72-73."
 
 **XVII. Résumé of Śaivism & Other Minor Systems, Part II.**
 
@@ -11662,7 +12164,9 @@ immanence and transcendency are not incompatible or inconsistent with each other
 
 
 
- But even this partial Pantheism is only one of the doctrinesset forth in the Upaniṣads. As mentioned in the beginning theycontain the rudiments not only of one system of religious philosophy, but of a good many and even of Buddhism.WhenBrahman or the Supreme Soul is affirmed to be distinct from theworld and thus there is a denial of the partial Pantheism I havespoken of, that soul is represented as dwelling in the externalworld and in the soul of man; that is to say. Theism is taughtwith the immanency of God in the world and in man. Forinstance in the [BU. III. 7. 7-30](# "Mādhyaṁdina recension.") we have first "He who dwelling.in the earth is distinct from it, whom the earth does not know,whose body the earth is, and who, being in the inside, controls theearth, is the indestructible controlling soul". In the followingpassages up to 30 we have precisely the same statement about water,
+ But even this partial Pantheism is only one of the doctrinesset forth in the Upaniṣads. As mentioned in the beginning theycontain the rudiments not only of one system of religious philosophy, but of a good many and even of Buddhism.WhenBrahman or the Supreme Soul is affirmed to be distinct from theworld and thus there is a denial of the partial Pantheism I havespoken of, that soul is represented as dwelling in the externalworld and in the soul of man; that is to say. Theism is taughtwith the immanency of God in the world and in man. Forinstance in the BU. III. 7. 7-30[^119] we have first "He who dwelling.in the earth is distinct from it, whom the earth does not know,whose body the earth is, and who, being in the inside, controls theearth, is the indestructible controlling soul". In the followingpassages up to 30 we have precisely the same statement about water,
+
+[^119]: "Mādhyaṁdina recension."
 
 fire, the sky, wind, the sun, the moon and stars, the quarters, thelightning, thunderbolt, all the worlds, all the Vedas, all 'sacrifices,all beings, the vital breath, speech, the eye, the ear, the mind, theskin, light, darkness, the seminal fluid, and the (individual) soul.Here the inward controlling soul is mentioned as distinct fromthe earth and all the rest, up to the individual soul, and still asdwelling in them, controlling them from the inside, and havingthese for his body. The whole section winds up with the affirmation that this controlling soul is not seen, but is the seer is notheard, but hears; is not apprehended by thought, but apprehendsby thought; is not known, but knows; there is no other seer, noother hearer, no other apprehender, and there is no other knower.Herein are brought out the peculiar points of Hindu Theism :God is the only seer, the only hearer, and the only knower, thatis, he is all-seeing, all-hearing, and all-knowing; and nobody cansee him, hear him, or know him. He is distinct from all objects,but dwells in them and controlls them. Texts expressive of suchan immanency are to be found in many places in the Upaniṣads.God being thus distinct from the world, though immanent, canbe the object of devoted meditation, and can be attained by meansof truth, knowledge and purity. Mere immanency of this naturedoes not at all constitute the Pantheism formulated by Spinoza.There is therefore no ground whatever for regarding as aninterpolation the occurrence of texts expressive of it in sucha theistic work as the Bhagavadgītā.
 
@@ -11674,7 +12178,9 @@ himself acknowledges at the end of his comment onII. 1. 14 that the author of th
 
  Śaṁkarācārya's Vivartavāda it was which the later schools ofVaiṣṇavism and Śaivism contended against; for even accordingto him, it leaves no scope for the relation of the ruler and theruled, i. e., God and the devotee, in the condition of reality whenall illusion is dispelled and one spirit alone exists (II. 1.14).Most of them adopted Bādarāyaṇa's Pariņāmavāda, but thedistinctness of God, man and the world, which was necessary forthe validity of their doctrines of worship and devotion, theysecured by qualifying the mode of development. By this qualification they also steered clear of the inconsistency pointed outby Bādarāyaṇa in II. 1. 26, so that his mode of satisfaction wasnot necessary for them. Rāmānuja lays down that the rudimentsof the individual souls and of the insensate world exist in Godhimself as his characteristics or body, and with these he developsinto the world, thus giving rise to the three distinct substances, the material world, the individual soul, and God as the controller.Nimbārka maintains that the other two substances do notcharacterise God or form his body, but are dependent upon himfor their existence, and in a subtle form constitute his power orcapacity, which develops into the animate and inanimate world.Viṣṇusvāmin, and therefore Vallabha, hold that the highest God,or Parabrahman, manifests himself as the material world, theindividual soul, and the supreme controller, but in the course ofdeve opent his attributes of intelligence and joy are concealeby his mysterious power, and thus is produced the materialworld, while, his joy alone being concealed, individual souls
 
-come into existence, and when the three are manifest or unconcealed, he becomes the supreme controller. Vallabha adds twoother forms of Parabrahman or Puruṣottama, as mentioned inthe [section](# "[ Ante, p. 112-N. B. U.]") on this system. Madhva rejects the doctrine ofGod being the constituent cause of the world and consequentlythat of his development, and lays down the five eternaldistinctions between God, man, and the world and betweendifferent individuals and objects involved in the last twoOf the older Śaiva schools, the Pāśupata brings in thePradhāna of the Sāṁkhyas with its developments as the materialcause of the world, with Paśupati as the efficient cause. ŚrīkaṇthaŚivācārya in his comment on Br. S. II. 2. 38, states that accordingto his predecessors, a certain branch of the philosophy based onthe sacred texts revealed by Śiva (Āgamas) held Śiva to be onlythe efficient cause of the world. This must be a reference to theŚaiva school which, as we have already stated, was a dualisticor pluralistic school. The Vāyavīyasaṁhitāaccording to himstates that Śakti, or power, first originates um Śiva, thenceMāyā, thence Avyakta (I. 7. 3). By Māyāis to be understoodthe wonderful creative power of Śiva, as is evident from thefollowing verse 4, and Avyakta means the Pradhāna, as appearsfrom that verse as well as verse 7. He gives another verse whichsets forth that everything from the Śakti to the earth is producedfrom the essence of Śiva, so that Śiva through the Śakti is boththe efficient and the constituent cause of the world. This Śaktiis brought in by those who hold creation to be the development ofŚiva, while it is not wanted for those Śaiva philosophers whowould keep the creative principle Maya or Pradhāna as distinctfrom Śive and undergoing independent development. Śrīkaṇthaexplains the expression Śiva alone existed' occurring in ŚU. IV.18, under 1. 4. 27, by 'Śiva, with whom the Śakti (the power) inthe form of the animate and the inanimate world was united,alone existed so as to form one entity', so that he here understands Śiva as possessed of the Śakti to be the constituent cause.In this respect his doctrine is similar to that of Nimbārka. Butimmediately afterwards he speaks of the Cit and the Acit formingthe body of Siva and thus puts forth the same theory as that
+come into existence, and when the three are manifest or unconcealed, he becomes the supreme controller. Vallabha adds twoother forms of Parabrahman or Puruṣottama, as mentioned inthe section[^120] on this system. Madhva rejects the doctrine ofGod being the constituent cause of the world and consequentlythat of his development, and lays down the five eternaldistinctions between God, man, and the world and betweendifferent individuals and objects involved in the last twoOf the older Śaiva schools, the Pāśupata brings in thePradhāna of the Sāṁkhyas with its developments as the materialcause of the world, with Paśupati as the efficient cause. ŚrīkaṇthaŚivācārya in his comment on Br. S. II. 2. 38, states that accordingto his predecessors, a certain branch of the philosophy based onthe sacred texts revealed by Śiva (Āgamas) held Śiva to be onlythe efficient cause of the world. This must be a reference to theŚaiva school which, as we have already stated, was a dualisticor pluralistic school. The Vāyavīyasaṁhitāaccording to himstates that Śakti, or power, first originates um Śiva, thenceMāyā, thence Avyakta (I. 7. 3). By Māyāis to be understoodthe wonderful creative power of Śiva, as is evident from thefollowing verse 4, and Avyakta means the Pradhāna, as appearsfrom that verse as well as verse 7. He gives another verse whichsets forth that everything from the Śakti to the earth is producedfrom the essence of Śiva, so that Śiva through the Śakti is boththe efficient and the constituent cause of the world. This Śaktiis brought in by those who hold creation to be the development ofŚiva, while it is not wanted for those Śaiva philosophers whowould keep the creative principle Maya or Pradhāna as distinctfrom Śive and undergoing independent development. Śrīkaṇthaexplains the expression Śiva alone existed' occurring in ŚU. IV.18, under 1. 4. 27, by 'Śiva, with whom the Śakti (the power) inthe form of the animate and the inanimate world was united,alone existed so as to form one entity', so that he here understands Śiva as possessed of the Śakti to be the constituent cause.In this respect his doctrine is similar to that of Nimbārka. Butimmediately afterwards he speaks of the Cit and the Acit formingthe body of Siva and thus puts forth the same theory as that
+
+[^120]: "[ Ante, p. 112-N. B. U.]"
 
 of Rāmānuja. Practically he makes no distinction between thetwo. The theory of the Liṅgāyats is the same as the first formof the theory set forth by Śrīkaṇṭha Śivācārya. Śiva as qualifiedby the Śakti is the creator, that is, is the efficient and the constituent cause of the world. The Kaśmīr Śaivism attributes theproduction of the world to the will of God without anymaterial cause, or affirms that God makes the world appear inhimself.
 
@@ -11802,9 +12308,11 @@ of it; though, however, the Paṇḍit has an excuse in the fact thatthe languag
 
 elaborate analysis of the language and contents of a Jaina religious work in Prakrit entitled the Bhagavatī, and of the languageof a collection of Prakrit songs by Hāla, together with an editionand translation of the work. Dr. Cowell has brought out a niceedition of the Prākṛta-Prakāśa by Vararuci; and Dr. Muir, whoseworks are so valuable to the student, devotes a large portion ofhis second volume of the
 
-" Sanskrit Texts" to Prakrit philology,in which he gives his own views and a summary of those of otherscholars. In Ceylon, Mr. D'Alwis has published a work on thePali, and in India, an edition of the Prakrit Grammar of Kramadīśvara has been published in the Bibliotheca Indics, and ofthat of Hemacandra in Bombay by a Jaina priest with theassistance of a Śāstrī¹. The modern vernaculars have not yetsucceeded in attracting the attention of the learned in Europe.Essays on some points of vernacular philology by ProfessorHoernle, of Jayanarayan's College, Benares, have appearedin the Journal of the Bengal Asiatic Society. But the mostimportant work on this subject that has yet appeared is Mr.Beames's Comparative Grammar of the Modern Aryan Languages. Two volumes have been published, and the thirdand last is [expected](# "Since published.")
+" Sanskrit Texts" to Prakrit philology,in which he gives his own views and a summary of those of otherscholars. In Ceylon, Mr. D'Alwis has published a work on thePali, and in India, an edition of the Prakrit Grammar of Kramadīśvara has been published in the Bibliotheca Indics, and ofthat of Hemacandra in Bombay by a Jaina priest with theassistance of a Śāstrī¹. The modern vernaculars have not yetsucceeded in attracting the attention of the learned in Europe.Essays on some points of vernacular philology by ProfessorHoernle, of Jayanarayan's College, Benares, have appearedin the Journal of the Bengal Asiatic Society. But the mostimportant work on this subject that has yet appeared is Mr.Beames's Comparative Grammar of the Modern Aryan Languages. Two volumes have been published, and the thirdand last is expected[^121]
 
 . Mr. Beames has brought his subjectdown to the pronoun; and the forthcoming volume will treatof the verb. Dr. Trump in his valuable Grammar of theSindhi language compares the grammatical forms existingin the several vernaculars, and recent grammarians of Gujarati and Marathi have made attempts in some cases to tracethe grammar of these languages from the Sanskrit throughthe Prakrit. A Gujarati Śāstrī, named Vrajalāl, has written auseful little tract on the history of his vernacular³
+
+[^121]: "Since published."
 
 . But uponthe whole, it must be acknowledged that vernacular philology isstill in a state of infancy, and a great deal of what has beenwritten is unsatisfactory.
 
@@ -12421,7 +12929,23 @@ dialectical variety of the nature of those we find in the differentversions of t
 
  The following is the Dhauli version collated with that atKhalsi and completed :—
 
- **अतिकंतं [अंतलं](# "देवानं पिया Kh.")लाजानो विद्यालयातं नाम निखमिसु । हिदा मिगविया अंनानिच[एदिसानि](# " हेडिसानि Kh.") अभिलामानि [हुंवंति](# "हुसुfor हुवंतिनं Kh.") नं ।स देवानं पिये पियदसी लाजा दसवसभिसते [संते](# "Dh. om.")[निखमि](# "निखमिठा Kh.")संबोधिं ।तेनता धंमपाता [होता](# "ततेस for हेता इयं Dh.") इयंहोति [समनबा](# "बंभ Kh.")मनानं दसने च दाने [च](# "बुधानं Kh.")वुढानं दसने च हिलनपटिबिधाने च ।**
+ **अतिकंतं अंतलं[^122]लाजानो विद्यालयातं नाम निखमिसु । हिदा मिगविया अंनानिचएदिसानि[^123] अभिलामानि हुंवंति[^124] नं ।स देवानं पिये पियदसी लाजा दसवसभिसते संते[^125]निखमि[^126]संबोधिं ।तेनता धंमपाता होता[^127] इयंहोति समनबा[^128]मनानं दसने च दाने च[^129]वुढानं दसने च हिलनपटिबिधाने च ।**
+
+[^122]: "देवानं पिया Kh."
+
+[^123]: " हेडिसानि Kh."
+
+[^124]: "हुसुfor हुवंतिनं Kh."
+
+[^125]: "Dh. om."
+
+[^126]: "निखमिठा Kh."
+
+[^127]: "ततेस for हेता इयं Dh."
+
+[^128]: "बंभ Kh."
+
+[^129]: "बुधानं Kh."
 
  We here observe the varieties mentioned before, the changeof **र्** to **ल्** and the nominative in **ए**. We also see **निखमिसु**for**त्रेयासु एदिसनि**for **एतारिसानि, बुधानं** or **बुढानं** **(=वृद्धानां)** for **थैरांन** and **बंभन**or **बाभन** for **ब्राह्मण**. So then here we have another dialect.
 
@@ -12724,7 +13248,9 @@ longer in the original seat of the race, and was connected with theancestors of 
 
 **Masculine Nouns in अ**
 
- The nom., acc., and instr. cases of nouns in **अ** are the same as in Pali; but here the nom. pl. form **वच्छा** is optionally transferred to the acc. pl. also, thus giving another instance of the strong. tendency to confuse the nom, and acc. that I have spoken of The dat. sing. in **आय** like that in Pali, is preserved in solitary instances in which it has the sense of " for the sake of ". The abl. sing., besides the general forms mentioned above, has the old one ending in T, as in Pali, and a new one in **आहि** which is used in the plural also. This **आहि** is used in Sanskrit in the words **दक्षिणाहि** and [उत्तराहि,](# "Prof. Lassen derives them differently.")which have an ablative signification. It must in its origin be considered the same as the instr. termination **भिस्**. The loc, sing. besides the general form has, as in Pali, the old one in g. The voc. sing. has also the two Pali forms, **देवा देवा** and another **देवो** the same as the nom. sing.
+ The nom., acc., and instr. cases of nouns in **अ** are the same as in Pali; but here the nom. pl. form **वच्छा** is optionally transferred to the acc. pl. also, thus giving another instance of the strong. tendency to confuse the nom, and acc. that I have spoken of The dat. sing. in **आय** like that in Pali, is preserved in solitary instances in which it has the sense of " for the sake of ". The abl. sing., besides the general forms mentioned above, has the old one ending in T, as in Pali, and a new one in **आहि** which is used in the plural also. This **आहि** is used in Sanskrit in the words **दक्षिणाहि** and उत्तराहि,[^130]which have an ablative signification. It must in its origin be considered the same as the instr. termination **भिस्**. The loc, sing. besides the general form has, as in Pali, the old one in g. The voc. sing. has also the two Pali forms, **देवा देवा** and another **देवो** the same as the nom. sing.
+
+[^130]: "Prof. Lassen derives them differently."
 
 **Masculine Nouns in द and उ**
 
@@ -12849,7 +13375,9 @@ language as either of the other two, and both were spoken orused for ordinary pu
 
  Sanskrit writers distinguish three elements in the Prakritvocabulary which they call Tadbhava, Tatsama, and Deśya.Such words as are derived from Sanskrit are called Tadbhavasuch as**दसण, फस, मग्ग, कण्ण**, &c. Tatsamas are those that arethe same in Sanskrit and Prakrit as **कमल, मण्डल**, &c., the phoneticlaws of the Prakrits not necessitating a change in them, andDeśyas are such as cannot be derived from Sanskrit and mustbe referred to another source. A good many words of this naturewe find used in Prakrit literature; and there exists a kośa orthesaurus of Deśya words by Hemacandra. A large number ofthese Deśya words exist in the modern vernaculars, such as:—
 
-** अक्का** a sister, M., [आका](# " M.-Marathi; G.-Gujarati; H-Hindi."),a term of honour used for an elder sister.
+** अक्का** a sister, M., आका[^131],a term of honour used for an elder sister.
+
+[^131]: " M.-Marathi; G.-Gujarati; H-Hindi."
 
 ** अग्घाडो**an herb; M. **आघाडा.**.
 
@@ -17748,9 +18276,11 @@ Jñān. 13-347.
 कान्ह को गिरि गोवर्धनतें और देव नहिं दूजा।  
 गोपनि सत्य मानि यह लींनी बडो देव गिरिराज॥
 
-Sursāgar, pada 12, page [252.](# " Lucknow Ed., 1874.")
+Sursāgar, pada 12, page 252.[^132]
 
  'Kānha said, "There is no other God besides the mountainGovardhan." Taking it to be the truth the king of mountainswas regarded by the cowherds as a great God."
+
+[^132]: " Lucknow Ed., 1874."
 
  Here **गोपनि** is agent instrumental in **नि**.
 
@@ -18416,7 +18946,9 @@ are not Brahmans are Śūdras. But there are indications thateven Brahmanhood di
 
 of the Mahābhāṣya says that it is the duty of a Brähmapa to studythe Vedas along with their Aṅgas or illustrative Śãstras; andof the six Aṅgas grammar is the chief. Patañjali is not likely toyield this honour to any other than Pāṇini's grammar. Toaccount for these and some of the other circumstances noticedby Dr. Goldstūcker, we must place Pāṇini ahout four centuriesbefore Kātyāyana, i. e. refer him to about the 8th century beforeChrist. Yäska must have flourished a short time before him. Though the Pali or an idiom very close to it was the language ofthe uneducated classes in the times of ātyāyans, Aśoka, andPatañjali, still its formation must be dated some centuries earliersince in its verb it represents what I have called Middle Sanskritor the Sanskrit of Yāska and Pāṇini. Yāśka notices local varietiesof Sanskrit words and gives one or two instances, but makes noallusion to any Apabhraṁśas or corruptions, though from thenature of his work he may be expected to do so; while Kātyāyanaand Patañjali mention them frequently, as we have seenif they existed in his time, therefore, they must have beeninsignificant and unimportant, and did not enter into the speechof any class of the Aryan society to any appreciable extent.After his time, however, i. e. about the seventh or sixth centuryB. C., the elaboration of the Pali, or Low Sanskrit as it might becalled, began in a decided manner; and the language continuedto be spoken up to the time of Patañjali. Till then it did notspecifically assume a Prakrit form though in the Inscriptions ofAśoka some of the characteristics of a later Prakrit, the Māgadhī,were developed, as we have seen, in one province, very likelyMagadha itself.
 
- The Prakrits must have begun to be formed about that time,but did not then attain any distinctive character; and thevernacular speech probably did not finally leave the Pali stagetill a very long time afterwards. About the time when theInscriptions in the cave-temples were composed, the Pali was,as I have stated, a sacred and literary language. The longer andmore important of the Inscriptions are therefore in that language.But in a good many of the shorter Inscriptions, especially of private individuals, we have words exhibiting Prakrit [characteristics](# "Such are काणमोअस for काणभोजप, पवइतिफाअ for पवजितिकायाः महामोयस forमहाभोजस्य, भयंत forवैयिका for वेदिका, पटिक for प्रतिफ &c.").
+ The Prakrits must have begun to be formed about that time,but did not then attain any distinctive character; and thevernacular speech probably did not finally leave the Pali stagetill a very long time afterwards. About the time when theInscriptions in the cave-temples were composed, the Pali was,as I have stated, a sacred and literary language. The longer andmore important of the Inscriptions are therefore in that language.But in a good many of the shorter Inscriptions, especially of private individuals, we have words exhibiting Prakrit characteristics[^133].
+
+[^133]: "Such are काणमोअस for काणभोजप, पवइतिफाअ for पवजितिकायाः महामोयस forमहाभोजस्य, भयंत forवैयिका for वेदिका, पटिक for प्रतिफ &c."
 
 The growth of the specifio Prakrits, therefore, must be referredto the early centuries of the Christain era; and we maytherefore infer that about the time our first dramatic plays werewritten they were actually the spoken dialects of those classes ofthe people whose representatives use them in those works,… .
 
@@ -18682,3 +19214,671 @@ INDEX OF SANSKRIT AND OTHER WORKS
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^266]: "Such are काणमोअस for काणभोजप, पवइतिफाअ for पवजितिकायाः महामोयस forमहाभोजस्य, भयंत forवैयिका for वेदिका, पटिक for प्रतिफ &c."
+
+
+[^265]: " Lucknow Ed., 1874."
+
+
+[^264]: " M.-Marathi; G.-Gujarati; H-Hindi."
+
+
+[^263]: "Prof. Lassen derives them differently."
+
+
+[^262]: "बुधानं Kh."
+
+
+[^261]: "बंभ Kh."
+
+
+[^260]: "ततेस for हेता इयं Dh."
+
+
+[^259]: "निखमिठा Kh."
+
+
+[^258]: "Dh. om."
+
+
+[^257]: "हुसुfor हुवंतिनं Kh."
+
+
+[^256]: " हेडिसानि Kh."
+
+
+[^255]: "देवानं पिया Kh."
+
+
+[^254]: "Since published."
+
+
+[^253]: "[ Ante, p. 112-N. B. U.]"
+
+
+[^252]: "Mādhyaṁdina recension."
+
+
+[^251]: "Epigraphia Indica, Vol. I, pp. 72-73."
+
+
+[^250]: "Ibid., Plate LVI."
+
+
+[^249]: "Ibid, Vol. I, p. 116."
+
+
+[^248]: "Sachau s Translation, Vol. I, p. 21."
+
+
+[^247]: "Asāv ādityo Brahma."
+
+
+[^246]: "Ib.p. 395."
+
+
+[^245]: "See JBBRAS, Vol. XX, p. 385."
+
+
+[^244]: "[Ante, p. 196 N. B. U.]"
+
+
+[^243]: "Ep. Ind. Vol. IX. pp. 277ff."
+
+
+[^242]: "See Hemādri Vratakhaṇḍa."
+
+
+[^241]: "Aufrecht s Oxf. Cat. p. 92, n."
+
+
+[^240]: "Saundaryalaharīv. 41, commentary."
+
+
+[^239]: "Ibid. v. 34."
+
+
+[^238]: "South-Ind. Insers.. Vol. I, p. 11."
+
+
+[^237]: "South-Ind. Inscrs., Vol. II, p. 2."
+
+
+[^236]: "Ind. Ant., Vo . XXIII, p. 297."
+
+
+[^235]: "Pañcācāryapañcamotpattiparakaraṇa."
+
+
+[^234]: "Ante. p. 177nl [N. B. U.]"
+
+
+[^233]: "Pañcācāryapañcamotpattiprakaraṇa p. 35."
+
+
+[^232]: "§ 95."
+
+
+[^231]: "Pañcācāryapañcamotpattiprakaraṇa, Bombay 1903 A. D. p. 1."
+
+
+[^230]: "P. 177. note 1."
+
+
+[^229]: "Vīraśaivācārapradīpikā, Poona 1905 A. D., pp. 33-37."
+
+
+[^228]: "Vivekacintāmaṇi Pūrvabhāga, Sholapur 1909 A. D. pp. 230 ff."
+
+
+[^227]: "1bid. pp. 81-82."
+
+
+[^226]: "Bitbler, Report of a Tour made in Kasmir; extract from Nos. 465-66, p. OLX."
+
+
+[^225]: "Śivasūtravimarśinī; I. 5."
+
+
+[^224]: "Buhler, Report of a Tour made in Kashmir, p 78."
+
+
+[^223]: "From the same work."
+
+
+[^222]: "Śambhudeva s Saivasiddhāntadīpikā, Sholupar 1909,"
+
+
+[^221]: "1. See previous section."
+
+
+[^220]: "These five formulas, or Mantras, are contained in the TA. (X. 13-47
+
+
+[^219]: "These four schools are mentioned in the Vayaviyasambit of the Siva- Purina (II. 24, 177
+
+
+[^218]: "Ep. Carn. Vol. XII, p. 45 (Translation
+
+
+[^217]: "Ep. Carn. Vol. V, Arsikere Taluq No. 46."
+
+
+[^216]: "Ep. Carn. Vol. V. Arsikere Taluq No. 103."
+
+
+[^215]: "Ep. Carn. Vol. V, Pt. I. p. 135 (Translation
+
+
+[^214]: "Ep. Carn. Vol. VIII. Pt. I, p.64, (Translation
+
+
+[^213]: "Ep. Carn. Vol. VII, Sikarpur Taluq No. 107."
+
+
+[^212]: "Ep. Carn. Vol. XII, p. 92 (Translation
+
+
+[^211]: "JBBRAS, Vol. XIV, p. 26,"
+
+
+[^210]: "lnd. Ant. Vol. XI, pp. 255-256."
+
+
+[^209]: "See JBBRAS, Vol. XXII, pp. 151-153."
+
+
+[^208]: "See his comment on P. V. 3. 99."
+
+
+[^207]: "Ante, p. 157f. [N. B. U.]"
+
+
+[^206]: "[Ante, p. 149 N. B. U. ]"
+
+
+[^205]: "Ante, p. 31, and p. 153. [N. B. U. ]"
+
+
+[^204]: "Ante, p. 31. [N. B. U.]"
+
+
+[^203]: "A long fabulous period."
+
+
+[^202]: "[ Ante, p. 109.-N. B. U.]"
+
+
+[^201]: "Tukaram Tatya s edition."
+
+
+[^200]: "Deśnāmamālā,VI. 23."
+
+
+[^199]: "Indian Antiquary, Vol. XIV, p. 68ff."
+
+
+[^198]: "See above, p. 72."
+
+
+[^197]: "[Ante, p. 58 N. B. U.]"
+
+
+[^196]: "Yajñeśvara,Āryavidyāsudhākara, p. 228."
+
+
+[^195]: "Yajñeśvara,Āryavidyāsudhākara."
+
+
+[^194]: "The editions consulted are those published by Navalkisora at Lakhnau in 1886 and in the Bibliotheco Indica in 1897."
+
+
+[^193]: "See Wilson s Hindu Religions."
+
+
+[^192]: "Ibid. pp. 139-40."
+
+
+[^191]: "The Sikh Religion, &c., Vol. VI. p. 122."
+
+
+[^190]: "Ibid, Chronological Table, p. VII."
+
+
+[^189]: "[Ante, p. 49. N. B. U. ]"
+
+
+[^188]: "[Ante, p. 80. N. BU.]"
+
+
+[^187]: "See Keśava s commentary, Br, S. I. 4. 23."
+
+
+[^186]: "Ṙjus are a class of gods."
+
+
+[^185]: "Ep. Ind., Vol. VI, p. 266."
+
+
+[^184]: "Ep. Ind., Vol. VI, page 262, note."
+
+
+[^183]: "Mādhvavijaya, VI, 33."
+
+
+[^182]: "Ep. Ind., Vol. VI, pp. 260 ff."
+
+
+[^181]: "This Mantra is "
+
+
+[^180]: "Ante, p. 57. [N. B. U.]"
+
+
+[^179]: "Yat. 7."
+
+
+[^178]: "Yat.8."
+
+
+[^177]: "Tattvatraya"
+
+
+[^176]: "yat.8"
+
+
+[^175]: "Yatīndramatadīpikā, 9."
+
+
+[^174]: "Imperial Gazetteer, Vol. XVIII, p. 173,"
+
+
+[^173]: "Ibid. p. $51,"
+
+
+[^172]: "JBBRAS, Vol. XI. p. 244."
+
+
+[^171]: "Kāyena vācāmanasendriyair vā, etc."
+
+
+[^170]: "Ind. Ant. Vol, XXXV, p. 228."
+
+
+[^169]: "See his Bhāvārtha-Rāmāyaṇa,Āraṇyakāṇḍa."
+
+
+[^168]: "P.941 (Bibl. Ind.
+
+
+[^167]: "See below."
+
+
+[^166]: "Ante, p. 64 [N. B. U. ]"
+
+
+[^165]: "See above [p. 59 N. B. U. ]"
+
+
+[^164]: "Ep. Ind., Vol. II. p., 182."
+
+
+[^163]: "Bhau Daji. Lit. Remains, p. 240."
+
+
+[^162]: "Br. S. 60. 19."
+
+
+[^161]: "Fergusson and Burgess, Cave Temples, p. 407."
+
+
+[^160]: "Ind. Ant. Vol. III. p. 305; Vol. VI. p. 363,"
+
+
+[^159]: "Ibid. p. 339 ff."
+
+
+[^158]: "Ibid. p. 121 ff."
+
+
+[^157]: "Ibid. p. 88 ff."
+
+
+[^156]: "Ibid. p. 56ff."
+
+
+[^155]: "Ibid. p. 52.ff."
+
+
+[^154]: "Corp. Inser. Ind. Vol. III, p. 21."
+
+
+[^153]: "Ante, p. 9 [N. B. U.]"
+
+
+[^152]: "Archeological Survey of India, Annual Report, 1905-1906. p. 135    8.[R.G. Bhandarkar s Works, Vol. IV]"
+
+
+[^151]: "Journal of the Royal Asiatic Society for 1907, p. 981."
+
+
+[^150]: "Lūders, List of Brāhmī Inscriptions, Nr. 963."
+
+
+[^149]: "Lūders, List of Brāhmī Inscriptions, Nr. 1137."
+
+
+[^148]: "Ante, pp. 13 and ff. [N. B. U.]"
+
+
+[^147]: "Ante,p.4  [N.B.U.]"
+
+
+[^146]: "1 See Medhātithi s commentary on Manu 1.10."
+
+
+[^145]: "[R. G. Bhandarkar s Works, Vol. IV.]"
+
+
+[^144]: "Ante. p. 1.[ N. B. U.]"
+
+
+[^143]: "Yada sarve pramucyante kama yesya brdi sritah, KU,VI. 14, and also BU. IV. 4. 7."
+
+
+[^142]: "Ante, p. 3. [N. B. U.] [R. G. Bhandarkar s Works, Vol. IV.]"
+
+
+[^141]: "Vrntakhanda (Bibl. Ind.
+
+
+[^140]: " Ibid. No. 1112."
+
+
+[^139]: "Ibid. No. 669."
+
+
+[^138]: "Luders, List of Brāhmī Inscriptions, No. 6."
+
+
+[^137]: "SeeJRAS, 1910, p. 163."
+
+
+[^136]: "This passage has been furnished to me by Mr. Dharmanand Kosambi."
+
+
+[^135]: "RV. V. 3, 1—2"
+
+
+[^134]: "[R. G. Bhandarkar s Works, Vol. IV]"

@@ -10,7 +10,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk5MTA4Nzc4MDA
 +++
 [[कठोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk5MTA4Nzc4MDA5Mjk2&pageno=MjI0MjQyNjk5NTk=)]]
 
-\[
+\
 
 
 
@@ -335,7 +335,9 @@ again another boon. This fire will be known by your name indeed. And accept this
  17. 'One who, getting connection with the three, piles up the Nāciketa fire thrice, and undertakes three kinds of work, crosses over death. Getting knowledge of that omniscient One who is born of Brahmā and is the praiseworthy Deity, and realizing  
 Him, he attains this peace fully.
 
-* Sandhim etya,* getting connection; *tribhiḥ, with*the three— with mother, father, and teacher, i.e. getting his instruction from mother etc., properly— for that is known as a source of valid knowledge from another Vedic text: 'As one who has a mother, father, and teacher should say' etc. (Br. IV. i. 2). Or (*tribhiḥ*may mean) through the Vedas, the Smṛtis, and the good people; or through direct perception, inference, and the scriptures; for it is a matter of experience that [clarity](# "'Comprehension of duties etc.' — A.G.")follows from them. *Triṇāciketaḥ*, one who has piled up the Nāciketa fire thrice; or one who is possessed of its knowledge, studies it, and performs it; and *trikarmakṛt*, one who undertakes three kinds of *karma*—sacrifice, study (of the Vedas), and charity; *tarati,* crosses over; *janmamṛtyū,* birth and death. Moreover, *viditvā*, knowin—from scriptures;*brahmajajñam:* one that is born from Brahmā, i.e. Hiranyagarbha, is *brahmaja* (Virāt); and one who is *brahmaja* and *jña,* illumined, is *brahmajajña—* for He (i.e. Virāt) is omniscient; (knowing) that *devam,*Deity, who is so called because of His effulgence (which is the derivative meaning), i.e. One who is possessed of such attributes as knowledge; and who is *īḍyam,* praiseworthy (adorable); (and) *nicāyya,*
+* Sandhim etya,* getting connection; *tribhiḥ, with*the three— with mother, father, and teacher, i.e. getting his instruction from mother etc., properly— for that is known as a source of valid knowledge from another Vedic text: 'As one who has a mother, father, and teacher should say' etc. (Br. IV. i. 2). Or (*tribhiḥ*may mean) through the Vedas, the Smṛtis, and the good people; or through direct perception, inference, and the scriptures; for it is a matter of experience that [clarity[^1]follows from them. *Triṇāciketaḥ*, one who has piled up the Nāciketa fire thrice; or one who is possessed of its knowledge, studies it, and performs it; and *trikarmakṛt*, one who undertakes three kinds of *karma*—sacrifice, study (of the Vedas), and charity; *tarati,* crosses over; *janmamṛtyū,* birth and death. Moreover, *viditvā*, knowin—from scriptures;*brahmajajñam:* one that is born from Brahmā, i.e. Hiranyagarbha, is *brahmaja* (Virāt); and one who is *brahmaja* and *jña,* illumined, is *brahmajajña—* for He (i.e. Virāt) is omniscient; (knowing) that *devam,*Deity, who is so called because of His effulgence (which is the derivative meaning), i.e. One who is possessed of such attributes as knowledge; and who is *īḍyam,* praiseworthy (adorable); (and) *nicāyya,*
+
+[^1]: "'Comprehension of duties etc.' — A.G."
 
 
 
@@ -410,7 +412,9 @@ fore, *tvayā anušiṣṭaḥ*, being instructed by you; *aham*, I; *etat vidy�
 
  21. With regard to this, even the gods entertained doubts in days of yore; for being subtle, this substance (the Self) is not truly comprehended. O Naciketā, ask for some other boon; do not press me; give up this (boon) that is demanded of me.
 
-* Purā,* in days of yore; *atra*, with regard to this thing; *vicikitsitam*, doubt was entertained; *devaiḥ api*. even by gods; *hi*, since; *eṣaḥ dharmaḥ,* this principle—called the Self; *na suvijñeyam,* is not [truly](# "Suvijñeyam is also translated as ‘easily comprehensible'.")comprehensible— to common people, even though heard by them; It being *aṇuḥ*, subtle. Hence *naciketaḥ*, O Naciketā; *vṛṇīṣva*, you ask for; *anyam varam*, some other boon— whose result is not subject to doubt. *Mā up*-
+* Purā,* in days of yore; *atra*, with regard to this thing; *vicikitsitam*, doubt was entertained; *devaiḥ api*. even by gods; *hi*, since; *eṣaḥ dharmaḥ,* this principle—called the Self; *na suvijñeyam,* is not truly[^2]comprehensible— to common people, even though heard by them; It being *aṇuḥ*, subtle. Hence *naciketaḥ*, O Naciketā; *vṛṇīṣva*, you ask for; *anyam varam*, some other boon— whose result is not subject to doubt. *Mā up*-
+
+[^2]: "Suvijñeyam is also translated as ‘easily comprehensible'."
 
 
 
@@ -537,7 +541,9 @@ things according to your choice. Here are these women with chariots and musical 
 
 
 
-through their sense of duty with regard to whatleads to the pleasurable or the preferable. Thesetwo, though related severally to the (two) human[goals](# "(i) Prosperity here and hereafter, and (ii) salvation."), are opposed to each other, in as much asthey are of the nature of knowledge and ignorance.Thus since these cannot be performed together bythe same person, without discarding either of the two,therefore *tayoḥ*, of the two; *ādadānasya*, to one whoaccepts; only *śreyaḥ*, the preferable, by discardingthe pleasurable, (the latter) being of the nature ofignorance; *sādhu bhavati*, well-being, good, comes(as a result). But he who is a short-sighted, theignorant man, *hīyate*, gets alienated; *arthāt*, fromthis objective, from the human goal, i.e. he falls fromthe eternal supreme purpose. Who is that man?*Yaḥ u*, the one that; *preyaḥ vṛṇīte*, selects, i.e. takes hold of, the pleasurable.
+through their sense of duty with regard to whatleads to the pleasurable or the preferable. Thesetwo, though related severally to the (two) humangoals[^3] Prosperity here and hereafter, and (ii) salvation."), are opposed to each other, in as much asthey are of the nature of knowledge and ignorance.Thus since these cannot be performed together bythe same person, without discarding either of the two,therefore *tayoḥ*, of the two; *ādadānasya*, to one whoaccepts; only *śreyaḥ*, the preferable, by discardingthe pleasurable, (the latter) being of the nature ofignorance; *sādhu bhavati*, well-being, good, comes(as a result). But he who is a short-sighted, theignorant man, *hīyate*, gets alienated; *arthāt*, fromthis objective, from the human goal, i.e. he falls fromthe eternal supreme purpose. Who is that man?*Yaḥ u*, the one that; *preyaḥ vṛṇīte*, selects, i.e. takes hold of, the pleasurable.
+
+[^3]: "(i
 
  If both can be done by a man at will, why do peoplecling mostly to the pleasurable only? This is being answered:
 
@@ -594,7 +600,9 @@ them, separates the two. The intelligent one selectsthe electable in preference 
 
  5. Living in the midst of ignorance and considering themselves intelligent and enlightened, the senseless people go round and round, following crooked courses, just like the blind led by the blind.
 
- But those who are fit for worldly existence, they, *vartamānāḥ,* living; *avidyāyām* *antare,* in the midst of ignorance—as though in the midst of thick darkness, being entangled in hundreds of fetters, forged by craving for sons, cattle, etc.; *manyamānāḥ,*considering— thinking of themselves; '*svayam,* we ourselves are; *dhīrāḥ,* intelligent; and *paṇḍitāḥ,*versed in the scriptures'; those *mūḍhāḥ,* senseless, non-discriminating people; *pariyanti,* go round and round; *dandramyamāṇāḥ,* by [following](# "Our reading wishing for. gacchantaḥ. A different reading is icchantaḥ, wishing for.")very much the various crooked courses, being afflicted by old age, death, disease, etc.; just as many *andhāḥ,*blind people; *nīyamānāḥ,* being led; *andhena eva*, by the blind indeed, on an uneven road, come to great calamity.
+ But those who are fit for worldly existence, they, *vartamānāḥ,* living; *avidyāyām* *antare,* in the midst of ignorance—as though in the midst of thick darkness, being entangled in hundreds of fetters, forged by craving for sons, cattle, etc.; *manyamānāḥ,*considering— thinking of themselves; '*svayam,* we ourselves are; *dhīrāḥ,* intelligent; and *paṇḍitāḥ,*versed in the scriptures'; those *mūḍhāḥ,* senseless, non-discriminating people; *pariyanti,* go round and round; *dandramyamāṇāḥ,* by following[^4]very much the various crooked courses, being afflicted by old age, death, disease, etc.; just as many *andhāḥ,*blind people; *nīyamānāḥ,* being led; *andhena eva*, by the blind indeed, on an uneven road, come to great calamity.
+
+[^4]: "Our reading wishing for. gacchantaḥ. A different reading is icchantaḥ, wishing for."
 
  Because of this alone, because of ignorance, the means for the attainment of the other world does not become revealed (to them):
 
@@ -636,21 +644,35 @@ hankers after the preferable, and who becomes a knower of the Self. Because:
 
  8. The Self is not certainly adequately known when spoken of by an inferior person; for It is thought of variously. When taught by one who has become identified with It, there is no further cogitation with regard to It. For It is beyond argumentation, being subtler even than theatomic quantity.
 
- *Esah,* this— the Self about whom you ask me; (when) *proktaḥ,* spoken of; *avareṇa nareṇa,* by an inferior man, i.e. by a man of worldly understanding; *na hi suvijñeyaḥ,* is not certainly capable of being adequately understood; for It is *bahudhā,* variously—such as 'It exists', 'It does not exist', 'It is the doer', 'It is not the doer', 'It is pure', 'It is impure', etc.; *cintyamānaḥ,* deliberated on—by disputants. How, again, is It well understood? This is being said: The Self *ananyaprokte,* when spoken of by a non-different man, by the teacher who does not see duality, who has become identified with the Brahman that is to be revealed ([by him](# "Or, 'revealed in the Upaniṣads' —Bālagopālendra.")); *atra*, here, with regard to the Self; *na asti,* there does not remain; *gatiḥ,* cogitation, of various kinds as to whether It exists or not; for from the Self is ruled out all thoughts involving doubt.
+ *Esah,* this— the Self about whom you ask me; (when) *proktaḥ,* spoken of; *avareṇa nareṇa,* by an inferior man, i.e. by a man of worldly understanding; *na hi suvijñeyaḥ,* is not certainly capable of being adequately understood; for It is *bahudhā,* variously—such as 'It exists', 'It does not exist', 'It is the doer', 'It is not the doer', 'It is pure', 'It is impure', etc.; *cintyamānaḥ,* deliberated on—by disputants. How, again, is It well understood? This is being said: The Self *ananyaprokte,* when spoken of by a non-different man, by the teacher who does not see duality, who has become identified with the Brahman that is to be revealed (by him[^5]); *atra*, here, with regard to the Self; *na asti,* there does not remain; *gatiḥ,* cogitation, of various kinds as to whether It exists or not; for from the Self is ruled out all thoughts involving doubt.
+
+[^5]: "Or, 'revealed in the Upaniṣads' —Bālagopālendra."
 
 
 
- Or— *ananyaprokte,* when the (supreme) Self, that is non-different from, and is, one's very Self, is adequately [taught](# "Or, 'taught as non-different from, and as, one's very Self—Bālagopālendra."); *na asti gatiḥ,* there is no other [comprehension](# "Apart from the realization: ‘I am Brahman.'"); *atra*, of this Self; because there is nothing [else](# "Apart from the unity of the Self and Brahman.")to be known. For the realization of the unity of the Self is the culmination of all knowledge. Therefore, as there is no knowable, there remains nothing to be known here.
+ Or— *ananyaprokte,* when the (supreme) Self, that is non-different from, and is, one's very Self, is adequately taught[^6]; *na asti gatiḥ,* there is no other comprehension[^7]; *atra*, of this Self; because there is nothing else[^8]to be known. For the realization of the unity of the Self is the culmination of all knowledge. Therefore, as there is no knowable, there remains nothing to be known here.
 
- Or— when the non-different Self is spoken of, *na asti atra gatiḥ,* there remains no [transmigration](# "Bālagopālendra interprets saṁsāra-gati as the appearance of duality as a reality. This appearance ceases after Self-knowledge."); for emancipation, which is the result of that realization, follows immediately.
+[^6]: "Or, 'taught as non-different from, and as, one's very Self—Bālagopālendra."
+
+[^7]: "Apart from the realization: ‘I am Brahman.'"
+
+[^8]: "Apart from the unity of the Self and Brahman."
+
+ Or— when the non-different Self is spoken of, *na asti atra gatiḥ,* there remains no transmigration[^9]; for emancipation, which is the result of that realization, follows immediately.
+
+[^9]: "Bālagopālendra interprets saṁsāra-gati as the appearance of duality as a reality. This appearance ceases after Self-knowledge."
 
  Or— when the Self is spoken of by a teacher who has become identified with Brahman that he speaks of, there is *na agatiḥ*, no non-comprehension, non-realization. To this hearer the realization about that Self does come as, 'I am that (Self)', just as it did in the case of the teacher.This is the idea.
 
- Thus is the Self well understood when It is taught to be non-different (from the taught) by a teacher who is well versed in the [scriptures](# "When It is taught by a teacher, well versed in the scriptures and established in a state of non-difference' —Bālagopālendra.").Else the Self
+ Thus is the Self well understood when It is taught to be non-different (from the taught) by a teacher who is well versed in the scriptures[^10].Else the Self
+
+[^10]: "When It is taught by a teacher, well versed in the scriptures and established in a state of non-difference' —Bālagopālendra."
 
 
 
-becomes *aṇīyān,* more subtle; even *aṇupramāṇāt,*than an atomic thing. (For It is) *atarkyam* (should be*atarkyaḥ),* cannot be argued out—cannot be known through mere reasoning called up through one's own (independent) [intellect](# "As distinguished from the intellect purified by the teaching of an adept."). For if the Self be regarded as an object of argumentation and postulated to be atomic in quantity, someone else may hold It to be subtler than that, while still another may hold It to be the subtlest. Thus there is no finality about sophistry.
+becomes *aṇīyān,* more subtle; even *aṇupramāṇāt,*than an atomic thing. (For It is) *atarkyam* (should be*atarkyaḥ),* cannot be argued out—cannot be known through mere reasoning called up through one's own (independent) intellect[^11]. For if the Self be regarded as an object of argumentation and postulated to be atomic in quantity, someone else may hold It to be subtler than that, while still another may hold It to be the subtlest. Thus there is no finality about sophistry.
+
+[^11]: "As distinguished from the intellect purified by the teaching of an adept."
 
 **नैषा तर्केण मतिरापनेया  
 प्रोक्तान्येनैव सुज्ञानाय प्रेष्ठ।  
@@ -687,9 +709,17 @@ manent—for that permanent entity cannot be attained through impermanent things
 
 
 
-  11. O Naciketā, you, on becoming enlightened, have rejected (them all) by examining patiently the highest reach of desire, the support of the universe, the [infinite](# "All these are to be understood in a relative sense.")results of meditation, the other shore of fearlessness, the extensive course (of Hiraṇyagarbha) that is praiseworthy and great, as also (your own) state.
+  11. O Naciketā, you, on becoming enlightened, have rejected (them all) by examining patiently the highest reach of desire, the support of the universe, the infinite[^12]results of meditation, the other shore of fearlessness, the extensive course (of Hiraṇyagarbha) that is praiseworthy and great, as also (your own) state.
 
-  But you, *dṛṣṭvā*, having seen (examined); (Hiranyagarbha as) *kāmasya āptim*, the end of desire—that here indeed all desires [end](# "Here, i.e. in the state of Hiraṇyagarbha. Desire cannot lead men beyond Hiraṇyagarbha.")(vide Mu. III. ii. 2); having seen (Hiraṇyagarbha as) *jagataḥ pratiṣṭhām*, the support—because of His all-pervasiveness—of the world comprising all that is personal, elemental, heavenly, etc.; (having seen) the *anantyam*, i.e. *ānantyam*, infinitude; *kratoḥ*, of [meditation](# "This is according to Bālagopālendra. Some translate it as 'of sacrifice'.")—the (relatively infinite) result (of meditation on Hiraṇyagarbha), which is the state of Hiraṇyagarbha; (having seen) *pāram*, the other shore, the utmost limit; *abhayasya*, of fearlessness; (having seen) the *urugāyam*, course (of Hiraṇyagarbha) that is [extensive](# "Since thereby is attained the state of Hiraṇyagarbha which lasts for a long time till final dissolution."); (and) which is *stoma-mahat*: that which is *stoma*, praiseworthy, and mahat, great—abounding in many attributes such as divine faculties of becoming subtle etc.—is *stoma-mahat*, because it is possessed
+[^12]: "All these are to be understood in a relative sense."
+
+  But you, *dṛṣṭvā*, having seen (examined); (Hiranyagarbha as) *kāmasya āptim*, the end of desire—that here indeed all desires end[^13](vide Mu. III. ii. 2); having seen (Hiraṇyagarbha as) *jagataḥ pratiṣṭhām*, the support—because of His all-pervasiveness—of the world comprising all that is personal, elemental, heavenly, etc.; (having seen) the *anantyam*, i.e. *ānantyam*, infinitude; *kratoḥ*, of meditation[^14]—the (relatively infinite) result (of meditation on Hiraṇyagarbha), which is the state of Hiraṇyagarbha; (having seen) *pāram*, the other shore, the utmost limit; *abhayasya*, of fearlessness; (having seen) the *urugāyam*, course (of Hiraṇyagarbha) that is extensive[^15]; (and) which is *stoma-mahat*: that which is *stoma*, praiseworthy, and mahat, great—abounding in many attributes such as divine faculties of becoming subtle etc.—is *stoma-mahat*, because it is possessed
+
+[^13]: "Here, i.e. in the state of Hiraṇyagarbha. Desire cannot lead men beyond Hiraṇyagarbha."
+
+[^14]: "This is according to Bālagopālendra. Some translate it as 'of sacrifice'."
+
+[^15]: "Since thereby is attained the state of Hiraṇyagarbha which lasts for a long time till final dissolution."
 
 
 
@@ -719,7 +749,9 @@ Hence It is hard to see. *Matvā*, meditating on; that *purāṇam*, old (everla
 
 
 
-the Self; *saḥ martyaḥ*, that mortal-(who has become) the enlightened man; modate, rejoices; *labdhvā*.having obtained; *modaniyam*, that which causesdelight. Therefore, *manye*, I consider; that this *sadma*,mansion the abode of Brahman, which is of thiskind; *vivṛtam*, is wide open to-has approached[towards](# "Brahman and the mansion are identical, and the approach ofthis mansion towards Naciketā consists in the propitiousness ofBrahman."); *naciketasam*, (you) Naciketā. The idea is:‘I consider you fit for emancipation.'
+the Self; *saḥ martyaḥ*, that mortal-(who has become) the enlightened man; modate, rejoices; *labdhvā*.having obtained; *modaniyam*, that which causesdelight. Therefore, *manye*, I consider; that this *sadma*,mansion the abode of Brahman, which is of thiskind; *vivṛtam*, is wide open to-has approachedtowards[^16]; *naciketasam*, (you) Naciketā. The idea is:‘I consider you fit for emancipation.'
+
+[^16]: "Brahman and the mansion are identical, and the approach ofthis mansion towards Naciketā consists in the propitiousness ofBrahman."
 
 (Naciketā said): ‘If I am fit and you, too, sir, arepleased with me, then
 
@@ -841,7 +873,11 @@ and greater than the great, for It is conditioned by allnames, forms, and activi
 
 ing, It goes everywhere. Who but I can know thatDeity who is both joyful and joyless?
 
- (The Self) while *āsīnaḥ*, sitting— remaining stationary, motionless; *dūram* vrajati, goes far; *śayānaḥ*,while sleeping; *yāti*, goes; *sarvataḥ*, everywhere.Similarly, that Deity, the Self, is *madāmadaḥ*, possessed of *mada*, and devoid of *mada*— joyful and joyless— possessed of contradictory qualities. Hence, itbeing difficult to know It, kaḥ, who; *madanyaḥ*, apartfrom me; *jñātum arhati*, can know; *tam madāmadamdevam*, that joyful and joyless Deity? It is only by awise man of fine intellect, like us, that this Self can beknown well. Since the Self, as conditioned by variouscontradictory limiting adjuncts, is possessed of opposite qualities like rest and motion, permanence andimpermanence, etc., therefore It appears variouslylike a prism (*viśvarūpa*) or a philosopher's stone([*cintâmani*](# "A višvarūpa gem appears possessed of diverse colours, and acintāmaṇi assumes various aspects in accordance with the thoughtof its possessor.")). Hence the difficulty of Its realizationis being pointed out in the sentence; kaḥ tam *madanyaḥ jñātum arhati*, who apart from me can know It?Sleep is the cessation of the activities of the senses. Thedelimitation of [Consciousness](# "Then Consciousness has such limited expressions as, 'I am aman', 'I see a blue thing', and so on― A.G."),caused by the senses,ceases for a sleeping man. When the Self is in such astate (of sleep), Its consciousness being of a generalcharacter, It *yāti sarvataḥ*, seems to go, (to be present),
+ (The Self) while *āsīnaḥ*, sitting— remaining stationary, motionless; *dūram* vrajati, goes far; *śayānaḥ*,while sleeping; *yāti*, goes; *sarvataḥ*, everywhere.Similarly, that Deity, the Self, is *madāmadaḥ*, possessed of *mada*, and devoid of *mada*— joyful and joyless— possessed of contradictory qualities. Hence, itbeing difficult to know It, kaḥ, who; *madanyaḥ*, apartfrom me; *jñātum arhati*, can know; *tam madāmadamdevam*, that joyful and joyless Deity? It is only by awise man of fine intellect, like us, that this Self can beknown well. Since the Self, as conditioned by variouscontradictory limiting adjuncts, is possessed of opposite qualities like rest and motion, permanence andimpermanence, etc., therefore It appears variouslylike a prism (*viśvarūpa*) or a philosopher's stone(*cintâmani*[^17]). Hence the difficulty of Its realizationis being pointed out in the sentence; kaḥ tam *madanyaḥ jñātum arhati*, who apart from me can know It?Sleep is the cessation of the activities of the senses. Thedelimitation of Consciousness[^18],caused by the senses,ceases for a sleeping man. When the Self is in such astate (of sleep), Its consciousness being of a generalcharacter, It *yāti sarvataḥ*, seems to go, (to be present),
+
+[^17]: "A višvarūpa gem appears possessed of diverse colours, and acintāmaṇi assumes various aspects in accordance with the thoughtof its possessor."
+
+[^18]: "Then Consciousness has such limited expressions as, 'I am aman', 'I see a blue thing', and so on― A.G."
 
 
 
@@ -871,7 +907,11 @@ everywhere. When It is in a state of particularizedconsciousness, It, though rea
 
 
 
-the Self becomes known of Its own [accord](# "Through Its grace. For other interpretations of the verse,see Mu. III. ii. 3").How isIt known? This is being said: *eśah*, this Self; *tasya*, ofthat seeker of the [Self](# "Some take tasya to mean 'to that seeker'."); vivṛṇute, reveals; *svām*, Itsown Its real; *tanum*, body, i.e. Its own nature.
+the Self becomes known of Its own accord[^19].How isIt known? This is being said: *eśah*, this Self; *tasya*, ofthat seeker of the Self[^20]; vivṛṇute, reveals; *svām*, Itsown Its real; *tanum*, body, i.e. Its own nature.
+
+[^19]: "Through Its grace. For other interpretations of the verse,see Mu. III. ii. 3"
+
+[^20]: "Some take tasya to mean 'to that seeker'."
 
  There is this further fact:
 
@@ -893,7 +933,9 @@ bad conduct, as also from the lure of the senses,whose mind has become concentra
 
  25. How can one know thus as to where It (the Self)is, for which both the Brāhmaṇa and the Kṣatriyabecome food, and for which death takes the place ofa curry?
 
- But how can one, who is not of this kind, know theSelf the Self *yasya*, for which; *ubhe*, both; *brahma*ca *kṣatram* ca, the Brāhmana and the Kṣatriya—though they are the upholders of all righteousnessand the protectors of all; *bhavataḥ*, becorne; *odanaḥ*,food; *yasya*, for which Self; *mṛtyuḥ*, death— thoughit is the destroyer of all; (becomes) *upasecanam*,supplement to the food (like curry)— being unfiteven to be a food; *kaḥ*, who— being a man with aworldly intellect, and devoid of the disciplinesdescribed above; *veda*, knows; *itthā*, in this way.like the man endowed with the above mentioneddisciplines; yatra, as to [where](# "The Self, the eater— the destroyer of the universe— exists inIts own glory. Who knows It as such?"); *saḥ*, It— the Self(exists)?
+ But how can one, who is not of this kind, know theSelf the Self *yasya*, for which; *ubhe*, both; *brahma*ca *kṣatram* ca, the Brāhmana and the Kṣatriya—though they are the upholders of all righteousnessand the protectors of all; *bhavataḥ*, becorne; *odanaḥ*,food; *yasya*, for which Self; *mṛtyuḥ*, death— thoughit is the destroyer of all; (becomes) *upasecanam*,supplement to the food (like curry)— being unfiteven to be a food; *kaḥ*, who— being a man with aworldly intellect, and devoid of the disciplinesdescribed above; *veda*, knows; *itthā*, in this way.like the man endowed with the above mentioneddisciplines; yatra, as to where[^21]; *saḥ*, It— the Self(exists)?
+
+[^21]: "The Self, the eater— the destroyer of the universe— exists inIts own glory. Who knows It as such?"
 
 
 
@@ -908,11 +950,15 @@ bad conduct, as also from the lure of the senses,whose mind has become concentra
 छायातपौ ब्रह्मविदो वदन्ति  
 पञ्चाग्नयो ये च त्रिणाचिकेताः॥१॥**
 
-** **1. The knowers of Brahman, the worshippers ofthe [five fires](# "Gārhapatya, Āhavanīya, Dakṣināgni, Sabhya, and Avasathya.Or heaven, cloud, earth, man, and woman-Br. VI. ix-xiii."),and those who perform the Nāciketa sacrifice thrice, compare to shade and light, thetwo enjoyers of the inevitable results of work, whohave entered within the body, into the cavity (of theheart) which is the supreme abode of the Most High(Brahman).
+** **1. The knowers of Brahman, the worshippers ofthe five fires[^22],and those who perform the Nāciketa sacrifice thrice, compare to shade and light, thetwo enjoyers of the inevitable results of work, whohave entered within the body, into the cavity (of theheart) which is the supreme abode of the Most High(Brahman).
+
+[^22]: "Gārhapatya, Āhavanīya, Dakṣināgni, Sabhya, and Avasathya.Or heaven, cloud, earth, man, and woman-Br. VI. ix-xiii."
 
 
 
-* Pibantau*, two drinkers of; *rtam*, truth, i.e. theresults of work (which is called truth) because of itsinevitability. Of these two, one drinks— enjoys— the fruit of work, and not the other. Still both arecalled enjoyers, because of association with theenjoyer, on the analogy of the expression '[the possessors of the umbrella](# "When a king with his retinue moves out in a procession withumbrellas, people say, 'Chatriṇaḥ yānti-people with umbrellasare going', though most of the people in the procession do notpossess umbrellas.")'.*Sukṛtasya*, of what is doneby oneself. This (word) is to be construed with *ṛtam*,mentioned earlier— (meaning thereby the drinkersof) the results of the work done by oneself. *Praviṣṭau*,(these) two have entered; *loke*, within this body;*guhām* (is the same as *guhāyām*), into the cavity, intothe intellect. *Parame*, (means) in the supreme; it(i.e. the space within the heart) is supreme in comparison with the space outside (the cavity) circumscribed by the human body; *parārdhe*, into that whichis the abode (*ardha*) of Brahman (*para*)—there,indeed, is the supreme Brahman perceived. So themeaning is that they two have entered into the supreme abode of Brahman, which is the space withinthe heart. And *brahmavidah*, the knowers of Brahman; *vadanti*, speak of— these two; as differentlike *chāyātapau*, shade and light— because of (their)worldliness and freedom from worldliness. Not onlythose who have given up rites speak (thus), but also*pañcāgnayaḥ*, those who worship the five fires— i.e. the householders; ca, and also; those who are
+* Pibantau*, two drinkers of; *rtam*, truth, i.e. theresults of work (which is called truth) because of itsinevitability. Of these two, one drinks— enjoys— the fruit of work, and not the other. Still both arecalled enjoyers, because of association with theenjoyer, on the analogy of the expression 'the possessors of the umbrella[^23]'.*Sukṛtasya*, of what is doneby oneself. This (word) is to be construed with *ṛtam*,mentioned earlier— (meaning thereby the drinkersof) the results of the work done by oneself. *Praviṣṭau*,(these) two have entered; *loke*, within this body;*guhām* (is the same as *guhāyām*), into the cavity, intothe intellect. *Parame*, (means) in the supreme; it(i.e. the space within the heart) is supreme in comparison with the space outside (the cavity) circumscribed by the human body; *parārdhe*, into that whichis the abode (*ardha*) of Brahman (*para*)—there,indeed, is the supreme Brahman perceived. So themeaning is that they two have entered into the supreme abode of Brahman, which is the space withinthe heart. And *brahmavidah*, the knowers of Brahman; *vadanti*, speak of— these two; as differentlike *chāyātapau*, shade and light— because of (their)worldliness and freedom from worldliness. Not onlythose who have given up rites speak (thus), but also*pañcāgnayaḥ*, those who worship the five fires— i.e. the householders; ca, and also; those who are
+
+[^23]: "When a king with his retinue moves out in a procession withumbrellas, people say, 'Chatriṇaḥ yānti-people with umbrellasare going', though most of the people in the procession do notpossess umbrellas."
 
 
 
@@ -979,7 +1025,9 @@ horses; are vaśyāni, controllable— can be urged onor stopped; *sadaśvāḥ 
 **यस्त्वविज्ञानवान्भवत्यमनस्कः सदाऽशुचिः।  
 न स तत्पदमाप्नोति संसारं चाधिगच्छति॥७॥**
 
- 7. But he, (that master of the chariot), does notattain that goal (through that intellect), who, beingassociated with a non-discriminating intellect andan uncontrollable mind, is ever impure; and heattains worldly [existence](# "Some translators take yaḥ, meaning the intellect, as the nominative of the first part, and saḥ, meaning the soul, as that of thesecond part.").
+ 7. But he, (that master of the chariot), does notattain that goal (through that intellect), who, beingassociated with a non-discriminating intellect andan uncontrollable mind, is ever impure; and heattains worldly existence[^24].
+
+[^24]: "Some translators take yaḥ, meaning the intellect, as the nominative of the first part, and saḥ, meaning the soul, as that of thesecond part."
 
 *Yaḥ tu*, but he (the soul, the master of the chariot)who; *avijñānavān bhavati*, is associated with a nondiscriminating intellect; *amanaskaḥ*, whose mind isnot under control; who is, because of that veryreason, *aśuciḥ*, unclean; *sadā*, for ever; *saḥ*, thatrider of the chariot; na *āpnoti*, does not attain— with the help of that charioteer (viz the intellect);*tat*, that— the aforesaid undecaying One; which isthe supreme *padam*, goal. Not only does he not attainemancipation, but also *adhigacchati*, he reaches;*saṁsāram*, worldly existence— involving birth anddeath.
 
@@ -1003,7 +1051,9 @@ horses; are vaśyāni, controllable— can be urged onor stopped; *sadaśvāḥ 
 
 
 
-having a concentrated mind has become holy; *saḥ*(*naraḥ*), that man that man of knowledge; *āpnoti*,reaches; *adhvanaḥ pāram*, the end of the road, i. e.the very supreme goal to be reached beyond thecourse of the world. He becomes free from all theworldly bondages. Tat, that; is *paramam padam,* thehighest place, i.e. the very nature; *viṣṇoḥ*, of Viṣṇu—of the all-pervading Brahman, of the supremeSelf who is called [Vāsudeva](# "He who provides dwelling place (vāsa) for all in Himself, is väsu.Deva is effulgent, i.e. self-luminous. He is both vāsu and deva.")—which this man ofknowledge attains.
+having a concentrated mind has become holy; *saḥ*(*naraḥ*), that man that man of knowledge; *āpnoti*,reaches; *adhvanaḥ pāram*, the end of the road, i. e.the very supreme goal to be reached beyond thecourse of the world. He becomes free from all theworldly bondages. Tat, that; is *paramam padam,* thehighest place, i.e. the very nature; *viṣṇoḥ*, of Viṣṇu—of the all-pervading Brahman, of the supremeSelf who is called Vāsudeva[^25] for all in Himself, is väsu.Deva is effulgent, i.e. self-luminous. He is both vāsu and deva.")—which this man ofknowledge attains.
+
+[^25]: "He who provides dwelling place (vāsa
 
  Now this portion begins in order to show how thegoal (i.e. Brahman), that is to be reached, is to berealized as the indwelling Self through an ascendinggradation, from grossness to subtleness, commencingfrom the gross senses.
 
@@ -1025,7 +1075,13 @@ and are their inner selves; *indriyebhyaḥ*, than thosesenses which are their o
 
 
 
-* Mahataḥ*, as compared (even) with Mahat (theGreat Soul); *param*, higher— subtler, the inner self,and the most pervasive; is *avyaktam*, the Unmanifested— that which is the seed of the whole universe,the essence of unmanifested name and form, thestate of aggregation of all powers of causes and [effects](# "During cosmic dissolution."), called by such names as *avyakta* (Unmanifested), *avyākṛta* (Unevolved), *ākāśa* (Space), etc.,resting on the supreme Self through and throughlike the potentiality of a banyan tree in a tiny banyan[seed](# "As the seed, with the potentiality of the tree, is but a single entity, without a second, similarly Brahman, too, as possessed of the power of Māyā, is not a dual entity.' - A. G.").*Avyaktāt*, as compared with that [*avyakta*](# "That has no individuality when ascertained from the point of view of existence etc. It is the cause of the whole manifested world. Since it is dependent on the supreme Self, the latter is indirectly called the cause. But in reality the Self is not the cause, because It is not subject to mutation.");(the Puruṣa is) *paraḥ*, higher— subtler and greater,being the cause of all the causes and the inmost selfof all— and therefore too, He is called *puruṣaḥ*,because He fills up everything. Ruling out the possibility of anything being higher than Him, the textsays, *puruṣāt na param kim cit*, there is nothinghigher than the Purusa. Since there is no othersubstance beyond the Purusa who is a mass of pureconsciousness, therefore, sã, He, the Puruṣa; is*kāṣṭhā*, the acme, the culmination— of subtleness,greatness, and inwardness, as Self. Here, indeed,culminate all subtleness etc., commencing from the
+* Mahataḥ*, as compared (even) with Mahat (theGreat Soul); *param*, higher— subtler, the inner self,and the most pervasive; is *avyaktam*, the Unmanifested— that which is the seed of the whole universe,the essence of unmanifested name and form, thestate of aggregation of all powers of causes and effects[^26], called by such names as *avyakta* (Unmanifested), *avyākṛta* (Unevolved), *ākāśa* (Space), etc.,resting on the supreme Self through and throughlike the potentiality of a banyan tree in a tiny banyanseed[^27].*Avyaktāt*, as compared with that *avyakta*[^28];(the Puruṣa is) *paraḥ*, higher— subtler and greater,being the cause of all the causes and the inmost selfof all— and therefore too, He is called *puruṣaḥ*,because He fills up everything. Ruling out the possibility of anything being higher than Him, the textsays, *puruṣāt na param kim cit*, there is nothinghigher than the Purusa. Since there is no othersubstance beyond the Purusa who is a mass of pureconsciousness, therefore, sã, He, the Puruṣa; is*kāṣṭhā*, the acme, the culmination— of subtleness,greatness, and inwardness, as Self. Here, indeed,culminate all subtleness etc., commencing from the
+
+[^26]: "During cosmic dissolution."
+
+[^27]: "As the seed, with the potentiality of the tree, is but a single entity, without a second, similarly Brahman, too, as possessed of the power of Māyā, is not a dual entity.' - A. G."
+
+[^28]: "That has no individuality when ascertained from the point of view of existence etc. It is the cause of the whole manifested world. Since it is dependent on the supreme Self, the latter is indirectly called the cause. But in reality the Self is not the cause, because It is not subject to mutation."
 
 
 
@@ -1044,7 +1100,11 @@ senses. And hence this is *parā gatiḥ*, the supremegoal— of all travellers,
 
 
 
-i.e. [Māyā](# "The very word avidyā (ignorance) suggests that it is removableby vidyā (knowledge); and Māyā (cosmic illusion) suggests thatit is unreal.").Thus, since He is the *ātmā*, the Self (ofall); na *prakāśate*, (He) does not appear as the Selfof [anyone](# "The Self, as such, cannot be the content of any conventionalidea.").Alas, how unfathomable, inscrutable,and variegated is this Māyā, that every creature,though in reality identical with the supreme Entity,and is instructed as such, does not grasp the fact'I am the supreme Self, while even without beingtold, he accepts as his Self the non-selves, viz theaggregate of body and senses, under the idea ‘I amthe son of such a one', though these (latter) areobjects of perception to oneself (and are hence nothis selves) like pots etc.! Verily, it is because of beingdeluded by the Māyā of the supreme Being that everyman moves again and again (through birth and death).There is this Smṛti on this point: 'I am not revealed toall, being veiled by my Yoga-Māyā (i. e. the illusionborn of the congress of the *gunas*), etc. (G. VII. 25)
+i.e. Māyā[^29] suggests that it is removableby vidyā (knowledge); and Māyā (cosmic illusion) suggests thatit is unreal.").Thus, since He is the *ātmā*, the Self (ofall); na *prakāśate*, (He) does not appear as the Selfof anyone[^30].Alas, how unfathomable, inscrutable,and variegated is this Māyā, that every creature,though in reality identical with the supreme Entity,and is instructed as such, does not grasp the fact'I am the supreme Self, while even without beingtold, he accepts as his Self the non-selves, viz theaggregate of body and senses, under the idea ‘I amthe son of such a one', though these (latter) areobjects of perception to oneself (and are hence nothis selves) like pots etc.! Verily, it is because of beingdeluded by the Māyā of the supreme Being that everyman moves again and again (through birth and death).There is this Smṛti on this point: 'I am not revealed toall, being veiled by my Yoga-Māyā (i. e. the illusionborn of the congress of the *gunas*), etc. (G. VII. 25)
+
+[^29]: "The very word avidyā (ignorance
+
+[^30]: "The Self, as such, cannot be the content of any conventionalidea."
 
 ** *Objection*:** Is it not contradictory to say, 'Havingrealized It, the intelligent man does not grieve' (II.i.4) and 'He does not appear'?
 
@@ -1052,7 +1112,9 @@ i.e. [Māyā](# "The very word avidyā (ignorance) suggests that it is removable
 
 
 
-point (*agra*) is agryā; through that, i.e. through that(intellect) which is associated with concentration;*sūkṣmayā*, through the subtle (intellect) that is engaged in ascertaining subtle [things](# "'When the mind becomes concentrated through the perfectionof meditation and thus becomes helpful, then from the mahāvākya(great saying-Thou art That) associated with that mind, therearises such a conviction as "). By whom? *Sūkṣmadarsibhiḥ*, by the seers of subtle things. The seersare those who have become skilled in penetrating intothe subtlest thing through their perception of anascending order of subtleness by following theprocess as indicated in the text, 'The sense-objectsare higher than the senses', etc. (I. iii. 10) By them,i.e. by the wise people.
+point (*agra*) is agryā; through that, i.e. through that(intellect) which is associated with concentration;*sūkṣmayā*, through the subtle (intellect) that is engaged in ascertaining subtle things[^31] associated with that mind, therearises such a conviction as "). By whom? *Sūkṣmadarsibhiḥ*, by the seers of subtle things. The seersare those who have become skilled in penetrating intothe subtlest thing through their perception of anascending order of subtleness by following theprocess as indicated in the text, 'The sense-objectsare higher than the senses', etc. (I. iii. 10) By them,i.e. by the wise people.
+
+[^31]: "'When the mind becomes concentrated through the perfectionof meditation and thus becomes helpful, then from the mahāvākya(great saying-Thou art That
 
  The means for His attainment is being stated:
 
@@ -1085,7 +1147,9 @@ the organ of speech, (i.e. all the organs), *vāk* beingused suggestively for al
 
 
 
-being said: Now, then, this earth is gross, developedas it is by (the principles of) sound, touch, colour,taste, and smell; and it is an object of perception toall the senses. So also is the body. Here a gradationof subtleness, pervasiveness, purity, permanence,etc. is noticed in water etc., through the eliminationof the attributes of smell etc., one by one, till onereaches [*ākāśa*](# "Earth is possessed of five qualities - smell, taste, colour, touch,and sound; water consists of the four qualities beginning fromtaste; fire of the next three; air of the next two; and space of thelast one. It is difficult to translate the word ākāśa. Vedāntasāradefines it as the element that provides space and has sound as itsquality.")(space). Therefore, what need is thereto speak of the unsurpassable subtleness etc. of thatin which do not exist those attributes— beginningwith smell and ending with sound— that are thecauses of grossness. This is what the Upaniṣadshows:
+being said: Now, then, this earth is gross, developedas it is by (the principles of) sound, touch, colour,taste, and smell; and it is an object of perception toall the senses. So also is the body. Here a gradationof subtleness, pervasiveness, purity, permanence,etc. is noticed in water etc., through the eliminationof the attributes of smell etc., one by one, till onereaches *ākāśa*[^32](space). Therefore, what need is thereto speak of the unsurpassable subtleness etc. of thatin which do not exist those attributes— beginningwith smell and ending with sound— that are thecauses of grossness. This is what the Upaniṣadshows:
+
+[^32]: "Earth is possessed of five qualities - smell, taste, colour, touch,and sound; water consists of the four qualities beginning fromtaste; fire of the next three; air of the next two; and space of thelast one. It is difficult to translate the word ākāśa. Vedāntasāradefines it as the element that provides space and has sound as itsquality."
 
 **अशब्दमस्पर्शमरूपमव्ययं  
 तथाऽरसं नित्यमगन्धवच्च यत्।  
@@ -1128,7 +1192,9 @@ PART II
 
 Canto I
 
- It has been stated, 'He is hidden in all beings, andhence He does not appear as the Self (of all). But Heis seen through a pointed and fine intellect.' (I. iii. 12)What again is the obstacle to this pointed intellectbecause of which there is an absence of that intellectand the Self is not seen? This canto is begun to showthe cause of that [non-perception](# "This is according to the reading tadadarśana. The other readingis taddarśana, which gives the opposite meaning."). For only when thecause that bars the good is known, can effort be madeto remove it and not otherwise:
+ It has been stated, 'He is hidden in all beings, andhence He does not appear as the Self (of all). But Heis seen through a pointed and fine intellect.' (I. iii. 12)What again is the obstacle to this pointed intellectbecause of which there is an absence of that intellectand the Self is not seen? This canto is begun to showthe cause of that non-perception[^33]. For only when thecause that bars the good is known, can effort be madeto remove it and not otherwise:
+
+[^33]: "This is according to the reading tadadarśana. The other readingis taddarśana, which gives the opposite meaning."
 
 **पराञ्चिखानि व्यतृणत् स्वयम्भू-  
 स्तस्मात्पराङ्गपश्यति नान्तरात्मन्।  
@@ -1141,7 +1207,9 @@ Canto I
 
 
 
-as ear [etc](# "Actually meaning the sensesof hearing, sight, etc.")., which are suggestively indicated by it.They surely proceed outward for revealing theirobjects, sound etc. Since they are of such a nature,He *vyatrṇat*, afflicted, i. e. killed these. Who is He(that did so)? *Svayambhūḥ*, the Great Lord—who(*bhū*) exists ever, and (*svayam*, by Himself) on Hisown right, and is not subject to anything else. (SinceHe injured them), *tasmāt*, therefore; the perceiver(the individual) *paśyati*, sees, perceives; *parāk*, theouter sounds etc., which are the non-Self and existas external things; *na antarātman*, i.e. na *antarātmānam*, but (sees) not the inner Self. Though such is thenature of man, yet like reversing the current of ariver kaḥ *cit dhīraḥ*, some (rare) discriminating man(sees); *pratyagātmānam*, the indwelling Self. Thatwhich is *pratyak*, in the interior, and at the same timeātmā, the Self, is the *pratyagātmā*. In common usagethe word *ātmā* conventionally means only the individual soul, and not anything else. From the pointof etymology, too, the word *ātmā* has that verysense. For in the *Smrti* the derivation of the word isgiven thus: 'Since It pervades, absorbs, and enjoys(all) objects in the world, and since from It the worldderives its continuous existence, therefore, It iscalled the *ātmā*.' (L. P. I. LXX. 96) That indwellingSelf one's own reality- one *aikṣat*, saw, i.e. sees,for in the Vedas there is no regularity about the tenses.How one sees is being stated: (Becoming) *āvṛttacaksuḥ*, having one's eyes covered - having one's eye,i.e. the group of organs beginning with the ear,
+as ear etc[^34]., which are suggestively indicated by it.They surely proceed outward for revealing theirobjects, sound etc. Since they are of such a nature,He *vyatrṇat*, afflicted, i. e. killed these. Who is He(that did so)? *Svayambhūḥ*, the Great Lord—who(*bhū*) exists ever, and (*svayam*, by Himself) on Hisown right, and is not subject to anything else. (SinceHe injured them), *tasmāt*, therefore; the perceiver(the individual) *paśyati*, sees, perceives; *parāk*, theouter sounds etc., which are the non-Self and existas external things; *na antarātman*, i.e. na *antarātmānam*, but (sees) not the inner Self. Though such is thenature of man, yet like reversing the current of ariver kaḥ *cit dhīraḥ*, some (rare) discriminating man(sees); *pratyagātmānam*, the indwelling Self. Thatwhich is *pratyak*, in the interior, and at the same timeātmā, the Self, is the *pratyagātmā*. In common usagethe word *ātmā* conventionally means only the individual soul, and not anything else. From the pointof etymology, too, the word *ātmā* has that verysense. For in the *Smrti* the derivation of the word isgiven thus: 'Since It pervades, absorbs, and enjoys(all) objects in the world, and since from It the worldderives its continuous existence, therefore, It iscalled the *ātmā*.' (L. P. I. LXX. 96) That indwellingSelf one's own reality- one *aikṣat*, saw, i.e. sees,for in the Vedas there is no regularity about the tenses.How one sees is being stated: (Becoming) *āvṛttacaksuḥ*, having one's eyes covered - having one's eye,i.e. the group of organs beginning with the ear,
+
+[^34]: "Actually meaning the sensesof hearing, sight, etc."
 
 
 
@@ -1186,7 +1254,9 @@ remains, which is unknowable to the Self? Nothingremains, but everything can cer
 
  4. Having realized the great and all-pervading Self,through which a man perceives the objects in boththe sleep and the waking states, a wise man does notgrieve.
 
- *Yena*, that—the Self— through which; a*anupasyati*, perceives; *svapnāntam*, the content ofsleep, i.e. the objects in sleep; similarly *jāgaritāntam*,the content of the waking state, the objects in thewaking state; *ubhau*, both— the sleep and wakingobjects. All this is to be explained as [before](# "The objection that can be raised with regard to the Self's beingthe real knower is to be met as in II. i. 3.")^(.)
+ *Yena*, that—the Self— through which; a*anupasyati*, perceives; *svapnāntam*, the content ofsleep, i.e. the objects in sleep; similarly *jāgaritāntam*,the content of the waking state, the objects in thewaking state; *ubhau*, both— the sleep and wakingobjects. All this is to be explained as before[^35]^(.)
+
+[^35]: "The objection that can be raised with regard to the Self's beingthe real knower is to be met as in II. i. 3."
 
 
 
@@ -1195,7 +1265,9 @@ remains, which is unknowable to the Self? Nothingremains, but everything can cer
 **य इमं मध्वदं वेद आत्मानं जीवमन्तिकात्।  
 ईशानं भूतभव्यस्य न ततो विजुगुप्सते। एतद्वै तत्॥५॥**
 
-** **5. Anyone who knows [proximately](# "As non-different from oneself.")this Self— the enjoyer of the fruits of works, the supporter oflife etc.—as the lord of the past and the future, doesnot want to save (the Self) just because of that (knowledge). This indeed is that.
+** **5. Anyone who knows proximately[^36]this Self— the enjoyer of the fruits of works, the supporter oflife etc.—as the lord of the past and the future, doesnot want to save (the Self) just because of that (knowledge). This indeed is that.
+
+[^36]: "As non-different from oneself."
 
  Moreover, *yaḥ*, anyone who; veda, knows; *antikāt*,proximately; *imam*, this; *ātmānam*, Self; *jïvam*,the sustainer of the whole lot of vital force etc.;*madhvadam*, the enjoyer of the fruits of works; as*īsānam*, the ruler; *bhūtabhavyasya*, of past and future—of all the three times; *tataḥ*, after that— after thatknowledge; na *vijugupsate*, does not want to save(the Self)— because he has attained fearlessness.One wants to save the Self so long as one is in themidst of fear and considers the Self to be impermanent. But when one knows the eternal, non-dualSelf, then who would wish to save what or fromwhere? *Etat vai tat* is to be explained as before.
 
@@ -1208,7 +1280,9 @@ remains, which is unknowable to the Self? Nothingremains, but everything can cer
 
  6. He sees this very aforesaid Brahman who seesthe First Born (Hiranyagarbha)— born before thefive elements from Consciousness (Brahman)— asexisting in the cavity of the heart in the midst of bodyand senses, after having entered there.
 
- *Yaḥ*, anyone— who being desirous of freedom;(*vyapaśyata*, sees) *pūrvam jātam*,the First Born— Hiranyagarbha; *yaḥ*, who; *ajāyata*, was born;*pūrvam*, earlier. Earlier than what? That is beingsaid: *Adbhyah*, than water; the idea is that He wasearlier than the five elements inclusive of water, andnot merely earlier than water. *Tapasaḥ*, (born) fromBrahman, characterized by consciousness etc. Any-one who (sees) that First Born, who after havingcreated the bodies of gods etc., (and) *praviśya guhām,*having entered into the cavity of the heart, of everybody; *tisthantam*, remains in existence; *bhūtebhiḥ*,in association with the elernents— in the midst ofbody and senses, perceiving sound etc.; *yaḥ vyapaśyata*, i.e. *paśyati*, anyone who sees thus, he sees;*etat*, this very [one](# "As an ornament made of gold continues to be gold, so is Hiranyagarbha nothing but Brahman."),Brahman, that is under discussion.
+ *Yaḥ*, anyone— who being desirous of freedom;(*vyapaśyata*, sees) *pūrvam jātam*,the First Born— Hiranyagarbha; *yaḥ*, who; *ajāyata*, was born;*pūrvam*, earlier. Earlier than what? That is beingsaid: *Adbhyah*, than water; the idea is that He wasearlier than the five elements inclusive of water, andnot merely earlier than water. *Tapasaḥ*, (born) fromBrahman, characterized by consciousness etc. Any-one who (sees) that First Born, who after havingcreated the bodies of gods etc., (and) *praviśya guhām,*having entered into the cavity of the heart, of everybody; *tisthantam*, remains in existence; *bhūtebhiḥ*,in association with the elernents— in the midst ofbody and senses, perceiving sound etc.; *yaḥ vyapaśyata*, i.e. *paśyati*, anyone who sees thus, he sees;*etat*, this very one[^37],Brahman, that is under discussion.
+
+[^37]: "As an ornament made of gold continues to be gold, so is Hiranyagarbha nothing but Brahman."
 
 **या प्राणेन संभवत्यदितिर्देवतामयी।  
 गुहां प्रविश्य तिष्ठन्तीं या भूतेभिर्व्यजायत। एतद्वै तत्॥७॥**
@@ -1276,7 +1350,9 @@ is to be attained, as identical with the Self, therebeing nothing else existing;
 
 
 
-Him, who *tiṣṭhati*, stays; *madhye ātmani*, in thebody; as the *[īsānam](# "The alternative reading is īsāno bhūtabhavyasya.")bhūtabhavyasya*, the ruler ofthe past and the future— of the three times. (Theportion) na *tataḥ* etc. is to be explained as before(II. i. 5).
+Him, who *tiṣṭhati*, stays; *madhye ātmani*, in thebody; as the *īsānam[^38]bhūtabhavyasya*, the ruler ofthe past and the future— of the three times. (Theportion) na *tataḥ* etc. is to be explained as before(II. i. 5).
+
+[^38]: "The alternative reading is īsāno bhūtabhavyasya."
 
 **अङ्गुष्ठमात्रः पुरुषो ज्योतिरिवाधूमकः।  
 ईशानो भूतभव्यस्य स एवाद्य स उ श्वः। एतद्वै तत्॥१३॥**
@@ -1322,7 +1398,9 @@ Him, who *tiṣṭhati*, stays; *madhye ātmani*, in thebody; as the *[īsānam]
 
 1. Of the unborn One, whose consciousness isunflickering, there is a city with eleven gates. Meditating (on Him), one does not grieve and, becomingfreed, one becomes emancipated. This indeed is that.
 
- *Puram*, a city, i.e. comparable to a city: the bodyis a city, since in it we find an assemblage of suchappendages of a city as gate-keepers, their commanders, etc., and a city, together with its paraphernalia, is seen to be meant for an independent owner(viz the king) who is not a constituent part of [it](# "He does not grow or contract even though the city may do so,and his existence can be known independently of the city.");similarly, since this body, consisting of an assemblageof various paraphernalia, has resemblance to a city,it must exist for an owner who takes the position of aking, but does not form a part of it. This city then,that is called a body, *ekādaśadvāram*, is possessed ofeleven doors—seven in the head, three, inclusive of
+ *Puram*, a city, i.e. comparable to a city: the bodyis a city, since in it we find an assemblage of suchappendages of a city as gate-keepers, their commanders, etc., and a city, together with its paraphernalia, is seen to be meant for an independent owner(viz the king) who is not a constituent part of it[^39];similarly, since this body, consisting of an assemblageof various paraphernalia, has resemblance to a city,it must exist for an owner who takes the position of aking, but does not form a part of it. This city then,that is called a body, *ekādaśadvāram*, is possessed ofeleven doors—seven in the head, three, inclusive of
+
+[^39]: "He does not grow or contract even though the city may do so,and his existence can be known independently of the city."
 
 
 
@@ -1543,7 +1621,11 @@ variously. Through the various kinds of effulgence in the effects, it is known t
 
 
 
-of being felled. It consists of many evils, such as birth, old age, death, sorrow, etc.; it changes itself every moment, inasmuch as no sooner is it seen than its nature is destroyed like magic, water in a mirage, a city in the sky, etc., and it ceases to exist ultimately like a tree; it is without any heart-wood like the stem of a plantain tree; it is subject to hundreds of doubts in the minds of sceptics; its reality.is determined in its true colour by the seekers of [truth](# "Or, according to another reading, ‘Its nature cannot be fixed as such and such by the seekers of truth.’"); its essence lies in its root, the supreme Brahman, ascertained in Vedānta; it grows from out of the seed of [ignorance](# "Superimposition."),desire, action, and the Unmanifested; it has for its sprout Hiraṇyagarbha, the inferior Brahman, comprising the two powers of knowledge and action; it has for its trunk the diverse subtle bodies of all creatures; its vigour of growth results from the sprinkling of the water of desire; it has for its tender sprouts the objects of the senses of knowledge; its leaves aré the Vedas, the Smrtis, logic, learning, and instruction; its lovely flowers are the many deeds such as sacrifice, charity, austerity, etc.; its various tastes are the experience of happiness and sorrow; its innumerable fruits are the means of subsistence of beings; it has its secondary roots well developed, entwined, and firmly fixed through the sprinkling of the water of desire (for those fruits)¹; it has for its
+of being felled. It consists of many evils, such as birth, old age, death, sorrow, etc.; it changes itself every moment, inasmuch as no sooner is it seen than its nature is destroyed like magic, water in a mirage, a city in the sky, etc., and it ceases to exist ultimately like a tree; it is without any heart-wood like the stem of a plantain tree; it is subject to hundreds of doubts in the minds of sceptics; its reality.is determined in its true colour by the seekers of truth[^40]; its essence lies in its root, the supreme Brahman, ascertained in Vedānta; it grows from out of the seed of ignorance[^41],desire, action, and the Unmanifested; it has for its sprout Hiraṇyagarbha, the inferior Brahman, comprising the two powers of knowledge and action; it has for its trunk the diverse subtle bodies of all creatures; its vigour of growth results from the sprinkling of the water of desire; it has for its tender sprouts the objects of the senses of knowledge; its leaves aré the Vedas, the Smrtis, logic, learning, and instruction; its lovely flowers are the many deeds such as sacrifice, charity, austerity, etc.; its various tastes are the experience of happiness and sorrow; its innumerable fruits are the means of subsistence of beings; it has its secondary roots well developed, entwined, and firmly fixed through the sprinkling of the water of desire (for those fruits)¹; it has for its
+
+[^40]: "Or, according to another reading, ‘Its nature cannot be fixed as such and such by the seekers of truth.’"
+
+[^41]: "Superimposition."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1553,7 +1635,9 @@ of being felled. It consists of many evils, such as birth, old age, death, sorro
 
 
 
-nests the seven worlds beginning from the one cailed Satya, built by the birds which are the living beings from Brahmā downwards; it has its uproar, rendered tumultuous through the various sounds arising from dancing, singing, instrumental music, disport (play, jest, etc.), clapping on the arms, laughing, pulling, crying, exclaiming ‘Alas, alas!’, ‘Leave me, leave me !', induced by mirth and grief arising from the enjoyment and pain of living beings; and it is felled by the weapon of detach-ment consisting of the realization of the identity of Brahman and the Self as inculcated by Vedānta. This tree of the world is an [aśvatthaḥ](# " Lit. a, not; sthātā, existing; śvas, toraorrow; impermanent.")— its nature is ever unsteady, like the peepul tree, shaken as it is by the wind of desire and deeds; it is avākśākhaḥ— downwards are its branches, consisti-ng of heaven, hell, and states of beasts and ghosts: (it is) sanātanaḥ, existing from time immem-orial, having no beginning. *Tat eva,* that very thing— which is the root of the tree of the world— is; *śukram*, white, pure, resplendent— being in reality the light of the Self which is Consciousness; *tat brahma,* that, indeed, is Brahman, being the greatest of all; *tat eva,* that indeed; *ucyate,* is called; *amṛtam,* indestructible by nature, being true. All else is false, being ‘mutable, existing as mere name dependent on speech’ (Ch. VI.i. 4), and hence it is mortal. *Tasmin,* on him, on Brahman that is absolutely true; *sarve,* all; lokāh, the worlds—which are comparable to a city in the sky, or water in a mirage, or juggiery, and which vanish on the realization of the supreme Truth;
+nests the seven worlds beginning from the one cailed Satya, built by the birds which are the living beings from Brahmā downwards; it has its uproar, rendered tumultuous through the various sounds arising from dancing, singing, instrumental music, disport (play, jest, etc.), clapping on the arms, laughing, pulling, crying, exclaiming ‘Alas, alas!’, ‘Leave me, leave me !', induced by mirth and grief arising from the enjoyment and pain of living beings; and it is felled by the weapon of detach-ment consisting of the realization of the identity of Brahman and the Self as inculcated by Vedānta. This tree of the world is an aśvatthaḥ[^42]— its nature is ever unsteady, like the peepul tree, shaken as it is by the wind of desire and deeds; it is avākśākhaḥ— downwards are its branches, consisti-ng of heaven, hell, and states of beasts and ghosts: (it is) sanātanaḥ, existing from time immem-orial, having no beginning. *Tat eva,* that very thing— which is the root of the tree of the world— is; *śukram*, white, pure, resplendent— being in reality the light of the Self which is Consciousness; *tat brahma,* that, indeed, is Brahman, being the greatest of all; *tat eva,* that indeed; *ucyate,* is called; *amṛtam,* indestructible by nature, being true. All else is false, being ‘mutable, existing as mere name dependent on speech’ (Ch. VI.i. 4), and hence it is mortal. *Tasmin,* on him, on Brahman that is absolutely true; *sarve,* all; lokāh, the worlds—which are comparable to a city in the sky, or water in a mirage, or juggiery, and which vanish on the realization of the supreme Truth;
+
+[^42]: " Lit. a, not; sthātā, existing; śvas, toraorrow; impermanent."
 
 
 
@@ -1582,7 +1666,9 @@ imparted is that just as servants, finding their master in front with an uplifte
 भयादिन्द्रश्च वायुश्च मृत्युर्धावति पञ्चमः॥३॥**  
 
 
- 3. From fear of Him Fire burns, from fear shines the Sun; from fear run Indra and Air, and Death,the [fifth](# "Fire etc. stand for their respective deities.").
+ 3. From fear of Him Fire burns, from fear shines the Sun; from fear run Indra and Air, and Death,the fifth[^43].
+
+[^43]: "Fire etc. stand for their respective deities."
 
  *Bhayāt,* from fear ; *(asya*, of Him) — of the supreme Lord; *agnih tapati,* Fire burns; bhayāt, from fear; *tapati*, shines; sūryaḥ, the Sun; *bhayāt indraḥ*, from fear, Indra; *ca*, and; *vāyuḥ,* Air; *mrtyuh ca,* and Death; paṅcamaḥ, the fifth; *dhāvati*, runs. For unless there was a ruler, like one with an uplifted thunderbolt in hand, over these protectors of the world who themselves are lordly and powerful, there would not have been any regulated activity as that of servants trembling out of fear for their master.
 
@@ -1676,7 +1762,9 @@ here suggestively for all the senses. How, then, He is to be seen is being said:
 
 
 
-which is (now) weaned away from (its functions of) thinking etc.; avatiṣṭhante, are at rest—in the Self alone, after desisting from their objects; *ca buddhiḥ,* and the intellect characterized by determination; na *[viceṣṭate](# "An alternative reading is vicestati."),*does not engage in its own activities; *tām,* that (state): *āhuḥ,* they call; *paramām gatim,* the highest state.
+which is (now) weaned away from (its functions of) thinking etc.; avatiṣṭhante, are at rest—in the Self alone, after desisting from their objects; *ca buddhiḥ,* and the intellect characterized by determination; na *viceṣṭate[^44],*does not engage in its own activities; *tām,* that (state): *āhuḥ,* they call; *paramām gatim,* the highest state.
+
+[^44]: "An alternative reading is vicestati."
 
 **तां योगमिति मन्यन्ते स्थिरामिन्द्रियधारणाम्‌।  
 अप्रमत्तस्तदा भवति योगो हि प्रभवाप्ययौ ॥११॥**
@@ -1797,7 +1885,9 @@ the body; to be *śukram amṛtam*, pure and immortal—to be the Brahman previo
 
 
 
-*anyaḥ api*, anyone else, too— becomes like Naciketā (a knower of Brahman) by attaining the Se-lf, existing in the context of the body, as one’s own innermost reality in Its absoluteness, and not in any form other than as the indwelling Self. He who knows *adhyātmam eva*, the Self that exists in the context of the body—in the manner as described; who is an *evamvit,* a knower of this kind; ‘he, too, having become *virajaḥ,* (free from virtue and vice); becomes *vimṛtyuḥ* (free from desire and [ignorance](# "In this context some translate vimṛtyuh as ‘immortal’."))— by knowing Brahman’— this (sentence) is to be added to complete the idea.
+*anyaḥ api*, anyone else, too— becomes like Naciketā (a knower of Brahman) by attaining the Se-lf, existing in the context of the body, as one’s own innermost reality in Its absoluteness, and not in any form other than as the indwelling Self. He who knows *adhyātmam eva*, the Self that exists in the context of the body—in the manner as described; who is an *evamvit,* a knower of this kind; ‘he, too, having become *virajaḥ,* (free from virtue and vice); becomes *vimṛtyuḥ* (free from desire and ignorance[^45])— by knowing Brahman’— this (sentence) is to be added to complete the idea.
+
+[^45]: "In this context some translate vimṛtyuh as ‘immortal’."
 
  This valedictory prayer is uttered with a view to removing all faults incurred by the disciple and the teacher through lapses resulting from inadvertence during the course of acquiring or imparting the knowledge:
 
@@ -1811,7 +1901,9 @@ the body; to be *śukram amṛtam*, pure and immortal—to be the Brahman previo
 
 
 
-*Avatu*, may He protect; *saha nau*, both of us together— by revealing the real nature of knowled-ge. Who? That supreme God Himself who is revealed in the Upanisads. Besides, *bhunaktu,* may He protect; *saha nau,* both of us together—by revealing the result of that knowledge. *Karavāvahai,* may we both accomplish; *saha,* together— jointly indeed; *vīryam,* the power— originating from knowledge. Moreover, let *adhītam*, the lesson; *tejasvinau* (is to be construed as *tejasvinoh*), of us two who are of sharp intellect (be befitting for us)— let what has been studied by us be well studi-ed. Or the meaning is: Let *nau adhitam*, what has been studied by us two; be very *tejasvi,* potent, invigorating *Mā vidviṣāvahai*, may we two not cavil at each other— i. e. may we not entertain that antagonism; subsisting between a disciple and his teacher owing to defects in study and teachingthat originate from unwitting lapses. Sānitiḥ, sāntiḥ, śāntiḥ, peace, peace, peace— this repetition for three times is to avert all [evils](# "On the three planes— physical, natural, and supernatural.").Om.
+*Avatu*, may He protect; *saha nau*, both of us together— by revealing the real nature of knowled-ge. Who? That supreme God Himself who is revealed in the Upanisads. Besides, *bhunaktu,* may He protect; *saha nau,* both of us together—by revealing the result of that knowledge. *Karavāvahai,* may we both accomplish; *saha,* together— jointly indeed; *vīryam,* the power— originating from knowledge. Moreover, let *adhītam*, the lesson; *tejasvinau* (is to be construed as *tejasvinoh*), of us two who are of sharp intellect (be befitting for us)— let what has been studied by us be well studi-ed. Or the meaning is: Let *nau adhitam*, what has been studied by us two; be very *tejasvi,* potent, invigorating *Mā vidviṣāvahai*, may we two not cavil at each other— i. e. may we not entertain that antagonism; subsisting between a disciple and his teacher owing to defects in study and teachingthat originate from unwitting lapses. Sānitiḥ, sāntiḥ, śāntiḥ, peace, peace, peace— this repetition for three times is to avert all evils[^46].Om.
+
+[^46]: "On the three planes— physical, natural, and supernatural."
 
 
 
@@ -1825,3 +1917,49 @@ the body; to be *śukram amṛtam*, pure and immortal—to be the Brahman previo
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -12,7 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIwNzA4OTAzNTg
 +++
 [[Location of Lanka Split 1	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODIwNzA4OTAzNTg0Nzc0&pageno=MjI0MjQyNjk5NTk=)]]
 
-\[
+\
 
 
 
@@ -38,9 +38,13 @@ BY WAY OF INTRODUCTION
 
 Riddles of the Ramayana, like those of the Mahabharata are many and varied, and what is more, they are likely to remain so for ever. Attempting their solution or trying to interpret them is an ideal pastime for scholars and reasearch students. Sardar M. V. Kibe places before us in the following pages, his solution of one of the many riddles of the Ramayana : the identification of Lanka.  
 Popular belief is so strong that it is almost axiomatic to associate the island fortress of Ravana with modern Ceylon. Few scholars have differed from the belief and among themselves, differed very widely. It is not surprising to find that Australia, Sumatra, the Maldivs and a place in Assam have been mentioned as possible sites of the Lanka of the Ramayana.  
-As against all these, Sardar Kibe's stand is entirely different. He has proved with convincing arguments that the Lanka of Ravana was not beyond the southern tip of the Indian peninsula, but on the contrary, in the heart of Hindustan near the Amarakantaka peak in the Central Provinces of to-day. His arguments are based on data marshalled out from the Sanskrit text of Valmiki Ramayana. Other scholars have expressed the same view independently and produced additional [evidence](# "(i) Ghose J. C. Annals BORI. XIX, 84-6; Ind. Hist. Q. V. 355-56; New Ind. Anti. I. 463; (ii) Hiralal: Jha. Comm. Vol. 151-63; (iii)Ramdas G.:  Ind. Hist. Q. IV. 339-46; (iv) Iyer T. P. :  Ramayana and Lanka, Bangalore 1940.").
+As against all these, Sardar Kibe's stand is entirely different. He has proved with convincing arguments that the Lanka of Ravana was not beyond the southern tip of the Indian peninsula, but on the contrary, in the heart of Hindustan near the Amarakantaka peak in the Central Provinces of to-day. His arguments are based on data marshalled out from the Sanskrit text of Valmiki Ramayana. Other scholars have expressed the same view independently and produced additional [evidence[^1] Ghose J. C. Annals BORI. XIX, 84-6; Ind. Hist. Q. V. 355-56; New Ind. Anti. I. 463; (ii) Hiralal: Jha. Comm. Vol. 151-63; (iii)Ramdas G.:  Ind. Hist. Q. IV. 339-46; (iv) Iyer T. P. :  Ramayana and Lanka, Bangalore 1940.").
 
-But the location of Lanka is not the only riddle from the epic history - Ramayana is an *Itihasa* too. Apart from the identification of many place names, there are other points equally knotty and perplexing. Take for instance, the reference to Dasaratha's [dead](# "तैलद्रोण्यां तदामात्याः संवेश्य जगतीपतिम् II.66-14. Even the dead body of the Brahmin s son (Sambookaepisode) was similarly kept in oil-bath-VII-75-2.") body kept in oil-bath till the return of Bharata. This is not known to be a custom among the Aryan people.
+[^1]: "(i
+
+But the location of Lanka is not the only riddle from the epic history - Ramayana is an *Itihasa* too. Apart from the identification of many place names, there are other points equally knotty and perplexing. Take for instance, the reference to Dasaratha's dead[^2] was similarly kept in oil-bath-VII-75-2.") body kept in oil-bath till the return of Bharata. This is not known to be a custom among the Aryan people.
+
+[^2]: "तैलद्रोण्यां तदामात्याः संवेश्य जगतीपतिम् II.66-14. Even the dead body of the Brahmin s son (Sambookaepisode
 
 Studying the epic from a sociological point of viewwith a critical eye, some striking questions arise:Why could not Urmila accompany Lakshmana when Sita could follow Rama? What was Rama's object in subjecting Sita to the fire ordeal? How could she be exiled later, on an extremely flimsy pretext? Why was it necessary for the Chief of the State to kill in person an offender (Sambooka) without any trial ?
 
@@ -53,11 +57,23 @@ The problem of identifying geographical names is more perplexing and complicated
 
 Nearer home in India, the confusing identification becomes more confused. Adjoining the ruins of Vijayanagara (Hampi) we are shown Kishkindha, Pampa and Matanga parvata. Sardar Kibe has shown these places to be in the Central Provinces. On the Indo-Afghan border there are places associated with Rama, Sita and many leading characters of the Ramayana. Why, in every part of our Indian continent, there are places having some connection or other with the Rama legend. A map of India and the adjoining countries, showing places associated with Rama saga is bound to be highly instructive.
 
-In Java too, the Ramayana is supposed to be enacted. The place names mentioned in the Ramayana are to be found in Java to-day. The surprising aspect is not the wide-spread currency of the story, but its continuation inspite of Budhhistic and later Islamic influence there. The climax however seems to be in the introduction of Moslem mythological characters into one of the Javanese versions of the [Ramayana](# "Hikaiat Seri Rama (Indian influences on the Literature of Java and Bali).").
+In Java too, the Ramayana is supposed to be enacted. The place names mentioned in the Ramayana are to be found in Java to-day. The surprising aspect is not the wide-spread currency of the story, but its continuation inspite of Budhhistic and later Islamic influence there. The climax however seems to be in the introduction of Moslem mythological characters into one of the Javanese versions of the Ramayana[^3].").
+
+[^3]: "Hikaiat Seri Rama (Indian influences on the Literature of Java and Bali
 
 The deep, wide and extensive penetration of the Rama saga into the very life of the people here in India as well as elsewhere in the East Indies, must indeed be the greatest marvel of cultural achievement. Admittedly, the epic as we have it, is modern in the sense that it is post-Budhha. In other words, the story gained its present popularity within 20 centuries. For oral propagation, this must constitute a world-record.
 
-Various origins of the Ramayana have been suggested to show that the Rama story does not belong to India. According to [A. Weber](# "Uber das Ramayana (1870) its English translation- The Ramayana (by D C. Boyd) London 1873."), it was an adaptation of Homer's *Iliad*. Egyptian origin of the story is proposed by[Malladi Vankat Ratnam](# "Rama, the Greatest Pharaoh of Egypt, 2 vols. Rajahmundry1934.") in his two bulky volumes and taking a cue from him, Mr. B. V. Jadhav, wrote a series of articles in Marathi questioning the Aryan character of Rama. Semitic origin (meaning Persian !) is suggested by [Dr. S. V. Ketkar](# "Prachina Maharashtra (Marathi) Poona 1935; Chaps. 24-25. (Resume in English)")of the Marathi Dnyanakosha fame. Its symbolic significance is also hinted at [some critics](# "Y. Subbarao: Sri Ramayananada Anatarartha or Mokshamarga Pradipike (Kanarese) 1932."). Telang,Jacobi, [Winternitz](# "Telang: Ind. Ant. II, 143.7; III, 123; H. Jacobi: Das Ramayana; Winternitz, History of Indian Literature, I. pp. 514-5.")and others have shown that the Homeric poems have had no influence on Valmiki's composition.
+Various origins of the Ramayana have been suggested to show that the Rama story does not belong to India. According to A. Weber[^4] its English translation- The Ramayana (by D C. Boyd) London 1873."), it was an adaptation of Homer's *Iliad*. Egyptian origin of the story is proposed byMalladi Vankat Ratnam[^5] in his two bulky volumes and taking a cue from him, Mr. B. V. Jadhav, wrote a series of articles in Marathi questioning the Aryan character of Rama. Semitic origin (meaning Persian !) is suggested by Dr. S. V. Ketkar[^6] Poona 1935; Chaps. 24-25. (Resume in English)")of the Marathi Dnyanakosha fame. Its symbolic significance is also hinted at some critics[^7] 1932."). Telang,Jacobi, Winternitz[^8]and others have shown that the Homeric poems have had no influence on Valmiki's composition.
+
+[^4]: "Uber das Ramayana (1870
+
+[^5]: "Rama, the Greatest Pharaoh of Egypt, 2 vols. Rajahmundry1934."
+
+[^6]: "Prachina Maharashtra (Marathi
+
+[^7]: "Y. Subbarao: Sri Ramayananada Anatarartha or Mokshamarga Pradipike (Kanarese
+
+[^8]: "Telang: Ind. Ant. II, 143.7; III, 123; H. Jacobi: Das Ramayana; Winternitz, History of Indian Literature, I. pp. 514-5."
 
 Analysing the influence of the Ramayana, it is noticed that Hindustan (north of the Vindhyas) is under a firmer and deeper grip of the story than the Deccan. Ram Lila as observed by the Northerners - extending to 10 days ending with Dasara - is not known as such any where South of the Narmada. In the North too, to the West in the Punjab and beyond, the influence is stronger than what it is to the East in Bengal and Assam. Knowing as we do the immense popularity of the *Tulsi Ramayana* and its household use in the Hindi speaking regions, wedon't take the Central area into consideration for this comparative study. The curious fact about the Punjab is the more striking because there was Nanak's militant Sikhism to wean away a section of the populace from Valmiki's epic. Situated on the door-step of India the Punjab had to bear the first onslaughts of many an invasion from the North-West. Is the intense circulation of the Rama legend in the land of the five rivers due to its peculiar strategic position? Or to the heroic element in the story? Perhaps to both !
 
@@ -118,7 +134,9 @@ POONA 2.
 LANKA DISCOVERED  
 
 
-The toughest riddle in the Ramayana is the location of Ravana's capital. Materials in Valmiki's work have wrongly been thought not sufficient to identify it. Tradition for over two thousand years places it in the sea beyond the southern-most limits of India. Modern scholars, however, have declined to accept it. Mr. Vaidya, who has creditably explained many riddles of the[Ramayana](http://# "C. V. Vaidya; The Riddle of the Ramayana, Bombay"), has only supported the present location identical with Ceylon, by means of imperfect analogies. Recent opinion about Rama's journey to the south and his conquest of Lanka is that it is a nature myth.[Dr. Jacobi](# "  Imp. Gas. Vol. I. p. 419")locates it in Assam.
+The toughest riddle in the Ramayana is the location of Ravana's capital. Materials in Valmiki's work have wrongly been thought not sufficient to identify it. Tradition for over two thousand years places it in the sea beyond the southern-most limits of India. Modern scholars, however, have declined to accept it. Mr. Vaidya, who has creditably explained many riddles of the[Ramayana](http://# "C. V. Vaidya; The Riddle of the Ramayana, Bombay"), has only supported the present location identical with Ceylon, by means of imperfect analogies. Recent opinion about Rama's journey to the south and his conquest of Lanka is that it is a nature myth.Dr. Jacobi[^9]locates it in Assam.
+
+[^9]: "  Imp. Gas. Vol. I. p. 419"
 
 Although the geographical data in the Ramayana are but incidentally given and scanty, there is ample evidence in it to locate sites of Kishkindha and Lanka, the capitals of Sugriva and Ravana, respectively. The earlier part of the Ramayana is admitted to be historical and there is little difficulty in identifying Rama's Ayodhya and Chitrakuta with the modern places bearing those names.
 
@@ -147,11 +165,13 @@ He began with the East. In this direction were to be met with the Ganges; the Ju
 Another leader was sent to the South. He was to search the Vindhya mountain; the Narmada; the Godavari; the Krishna; the Mekhala; Utkala and the cities in the Dasarna countries; the cities. Abravanti and Avanti; the countries Vidarbha:Rishtika: Mahishaka; Matsya; Kalinga: Kausika; Dandaka forest; the Godavari (another river of the same name as the one already enumerated but not the modern famous river of that name; probably the one on the banks of which Rama stayed at Panchavati); Andhra, Pundra ( a country of this name is met with in the east also ); Chola; Pandya and Kerala; the Ayomukha mountain; the Tamraparni and then the sea (IV-41-8 to 19 ):-
 
 सहस्रशिरसं विन्ध्यं नानाद्रुमलतायतम् ।  
-नर्मदां च नदीं रम्यां [महोरगनिषेविताम्](# "नमोस्तु नर्मदे तुभ्यं त्राहि मां विषसर्पतः (खिल of ऋग्वेद)")
+नर्मदां च नदीं रम्यां महोरगनिषेविताम्[^10]")
 ॥ ८ ॥  
 ततो गोदावरीं रम्यां कृष्णवेणीं महानदीम् ।  
 मेखलानुत्कलांश्चैव दशार्णनगराण्यपि ।  
 आब्रवन्तीमवन्तीं च सर्वमेवानुपश्यत ॥ ९ ॥
+
+[^10]: "नमोस्तु नर्मदे तुभ्यं त्राहि मां विषसर्पतः (खिल of ऋग्वेद
 
 नमोस्तु नर्मदे तुभ्यं त्राहि मां विषसर्पतः (खिल of ऋग्वेद)
 
@@ -169,13 +189,15 @@ Another leader was sent to the South. He was to search the Vindhya mountain; the
 द्रक्ष्यथादित्यसंकाशमगस्त्यमृषिसत्तमम् ॥ १५ ॥  
 ततस्तेनाभ्यनुज्ञातः प्रसन्नेन महात्मना ।  
 ताम्रपर्णीं ग्राहजुष्टां तरिष्यथ महानदीम् ॥ १६ ॥  
-[सा](# "This praise of a small river at the end of the peninsula appears to be an interpolation by one of the editors who gave a South Indian sopographical coloring to the epic.")चन्दनवनैश्चित्रैः प्रच्छन्नद्वीपवारिणी ।  
+सा[^11]चन्दनवनैश्चित्रैः प्रच्छन्नद्वीपवारिणी ।  
 कान्तेव युवती कान्तं समुद्रमवगाहते ॥ १७ ॥  
 ततो हेममयं दिव्यं मुक्तामणिविभूषितम् ।  
 युक्तं कवाटं पांड्यानां गता द्रक्ष्यथ वानराः ॥ १८ ॥  
 ततः समुद्रमासाद्य संप्रधार्यार्थनिश्चयम् ।  
 अगस्त्येनान्तरे तत्र सागरे विनिवेशितः ॥ १९ ॥  
 चित्रसानुमयः श्रीमान्महेन्द्रः पर्वतोत्तमः ।
+
+[^11]: "This praise of a small river at the end of the peninsula appears to be an interpolation by one of the editors who gave a South Indian sopographical coloring to the epic."
 
 The third batch was sent to the West. The places and countries in this direction are thus enumerated :- Saurashtra; Balhika; Chandra Chitra and a little towards the west, the sea. This last remark suggests that the countries mentioned here must have been in the north- west of the place of the narrator. ( IV-42-6 to 10 )
 
@@ -218,8 +240,10 @@ Three objections have been put forward against the authenticity of these geograp
 
 But when he is giving directions to his followers, tothose going towards the South, he indicates the abode of Ravana (IV-41 ) :-
 
-[यत्र](# "This stanza is not given in my edition.") देवैरवध्यस्य रावणस्य दुरात्मनः ।  
+यत्र[^12] देवैरवध्यस्य रावणस्य दुरात्मनः ।  
 राक्षसाधिपतेर्वासः श्रूयते वानरर्षभाः ॥
+
+[^12]: "This stanza is not given in my edition."
 
 Against the first objection, it should be remembered that excepting perhaps the kernels of the Ramayana and the Mahabharata no reliable material of the history of India, as a whole, prior to the times of Buddha, is available. Therefore it cannot be positively said what the ancient names of countries were. In some cases old names may have been continued in later times. Their
 
@@ -245,7 +269,9 @@ The inference then is clear that Sugriva must have obtained his information from
 
 A glance at the map of India will show that the situation of Kishkindha, as indicated by the naming of the countries around it must be found in the north of the Vindhya mountain, the west of the Jumna and the Ganges and south-west of the Chitrakuta, because Rama is said to have left it for going to the south and even if it was in the north-east of Kishkindha, it could be said to be in the east, as in the text above.
 
-Moreover, this is exactly the place where the description of Rama's journey to that place from[Chitrakuta](# "It is noteworthy that in the उत्पत्ति प्रकरण ofयोगवासिष्ठ (Nirnaya Sagar, Bombay edition 1911, Vol. 1. p. 212, Adhyaya 36, Stanza 39) it is stated that the three peaks of this mountain चित्रकूटwere inhabited by the Rakshasa guards at the Lanka. This apparently refers tothe fact that it was within the sphere of the Lanka.")would lead one to locate it. On leaving that placeRama entered the Dandaka forest. There he came across a colony of Rishis which was situated in an inaccessible place (III-1). Then he entered the valley of a river (III-2). Here he saw a hermitage (III -4). He requested its owner to show him a suitable place for settling (III-4-33).
+Moreover, this is exactly the place where the description of Rama's journey to that place fromChitrakuta[^13] it is stated that the three peaks of this mountain चित्रकूटwere inhabited by the Rakshasa guards at the Lanka. This apparently refers tothe fact that it was within the sphere of the Lanka.")would lead one to locate it. On leaving that placeRama entered the Dandaka forest. There he came across a colony of Rishis which was situated in an inaccessible place (III-1). Then he entered the valley of a river (III-2). Here he saw a hermitage (III -4). He requested its owner to show him a suitable place for settling (III-4-33).
+
+[^13]: "It is noteworthy that in the उत्पत्ति प्रकरण ofयोगवासिष्ठ (Nirnaya Sagar, Bombay edition 1911, Vol. 1. p. 212, Adhyaya 36, Stanza 39
 
 आवासं त्विहमिच्छामि प्रदिष्टमिह कानने ॥
 
@@ -446,7 +472,11 @@ Although Lanka is called an island, nowhere in the Ramayana is a description of 
 
 When the nun (शबरी) pointed out (IV-52-31) "This is Vindhya, this is प्रस्रवणand this is the sea," she was showing places within her sight. The प्रस्रवण may be the modern अमरकंटक,from which issue three streams, which develop into three big rivers, viz, the Sona, the Narmada and the Mahi, thus justifying the name प्रस्रवण.
 
-There also appears to be a striking phonetic similarity between the names सालकंटक, the family name of Ravana and अमरकंटक. The inhabitants of these parts call themselves [Ravanavanshis](# "Imp. Gaz. Vol. XII, p. 323."), and a song on Hanuman's exploits is sung with great zest by them. In that part of the Vindhya range in which अमरकंटकis situated, now called the Kaimur range, there are traces of old habitation of man. In its caves are drawings of great [antiquity](# "Ibid, Vol. XIV, p. 275.").This region, therefore, seems to have been connected with aborigines and the tradition of Lanka may be traced to them.
+There also appears to be a striking phonetic similarity between the names सालकंटक, the family name of Ravana and अमरकंटक. The inhabitants of these parts call themselves Ravanavanshis[^14], and a song on Hanuman's exploits is sung with great zest by them. In that part of the Vindhya range in which अमरकंटकis situated, now called the Kaimur range, there are traces of old habitation of man. In its caves are drawings of great antiquity[^15].This region, therefore, seems to have been connected with aborigines and the tradition of Lanka may be traced to them.
+
+[^14]: "Imp. Gaz. Vol. XII, p. 323."
+
+[^15]: "Ibid, Vol. XIV, p. 275."
 
 As regards the *sea* on the southern side of Vindhya, an interesting find may throw some light, A Sanskrit copperplate, found in the Rewa State, dated 823 Kalachuri era (1080 A. D.) confers the village,दोल पंचोलtogether with सह लवणाकरः, Now लवणाकर means the sea. But it may be taken to mean a salt mine or even saltish land. The marsh round the peak may be saltish.
 
@@ -511,7 +541,9 @@ It has been seen that Panchavati was only 48 miles from Sutikshna's hermitage, w
 
 To the immediate south of Kishkindha were the Vindhyas (IV-46, 17).
 
-Sugriva sent a batch of Vanaras under the leadership of Hanuman to the south (IV-47, 14). It began to search the deep valley of the [Vindhyas (IV-48-2)](# "On the word Vindhyam Govindaraja s commentary observes: Vindhyapadapa ityanena Kishkindhaya dakshinato pi Vindhyaparvatasesostiti gamyeta. Here the party entered a valley, which was full of trees and through which water was running and which was full of light (IV-15, and 20, 50).").
+Sugriva sent a batch of Vanaras under the leadership of Hanuman to the south (IV-47, 14). It began to search the deep valley of the Vindhyas (IV-48-2)[^16].").
+
+[^16]: "On the word Vindhyam Govindaraja s commentary observes: Vindhyapadapa ityanena Kishkindhaya dakshinato pi Vindhyaparvatasesostiti gamyeta. Here the party entered a valley, which was full of trees and through which water was running and which was full of light (IV-15, and 20, 50
 
 They lost their way. They were taken out of it by a nun who was living in it and who brought them on to the shores of the sea which was washing the base of the Vindhyas (IV-53, 3-5).
 
@@ -535,13 +567,19 @@ Rai Bahadur Hiralal, the distinguished archaeologist, is responsible for the sta
 
 From Janasthana Rama went to the Krauncha forest. Hereabout is Kenjuva, an offshoot of the Vindhyas. It may be identified with Krauncha.
 
-In Sabari [dialect](# "Aboriginal Names in the Ramayana by G. Ramdas Iyer, B. A. Journal of the Behar and Orissa Research Society, March, 1925")Jaitan means a place below the mountains just as Lanka means a high mountain. It is not difficult to hold that Janasthana, which was in forest, was with no habitation, as otherwise its meaning might imply the Sanskrit form of Jaitan. It was the advance post of Ravana's army (III-20, 22). Mr. Ramdas maintains that in Sabari dialect Dandaka means a place full of water.
+In Sabari dialect[^17]Jaitan means a place below the mountains just as Lanka means a high mountain. It is not difficult to hold that Janasthana, which was in forest, was with no habitation, as otherwise its meaning might imply the Sanskrit form of Jaitan. It was the advance post of Ravana's army (III-20, 22). Mr. Ramdas maintains that in Sabari dialect Dandaka means a place full of water.
+
+[^17]: "Aboriginal Names in the Ramayana by G. Ramdas Iyer, B. A. Journal of the Behar and Orissa Research Society, March, 1925"
 
 Lanka itself was on the top of a peak known as Trikuta (V-1-2). It is to be identified with a peak on Amarakantaka. According to Rai Babadur Hiralal, there is a peak called Amrakuta(a place with mango trees) on the Amarakantaka. It would not be difficult to identify the other two peaks as Salakuta (Sal trees) and Madhukuta(Mahua trees). Within seven miles of Amarakantaka, there is a place Sabari Narayana, called after the hermit of that name mentioned in the Ramayana (III-4, 45). When Rama was on his way to and near Pampa or Kishkindha he met Sabari Narayana.
 
-A striking phonetic similarity is to be seen between the names Salakatankata, the family name of Ravana and Amarakantaka. The inhabitants of these parts call themselves [Ravana-vamsis](# "Imperial Gazetteer, Vol. XII, p. 323.")and a song on Hanuman's exploits is sung with great zest by them. That part of the Vindhya range in which the Amarakantaka lies, is called the Kaimur range. There are traces of old habitations of men. In its caves are drawings of great antiquity. This region, therefore, seems to have been connected with aborigines, and the tradition of Lanka may be traced to them.
+A striking phonetic similarity is to be seen between the names Salakatankata, the family name of Ravana and Amarakantaka. The inhabitants of these parts call themselves Ravana-vamsis[^18]and a song on Hanuman's exploits is sung with great zest by them. That part of the Vindhya range in which the Amarakantaka lies, is called the Kaimur range. There are traces of old habitations of men. In its caves are drawings of great antiquity. This region, therefore, seems to have been connected with aborigines, and the tradition of Lanka may be traced to them.
 
-There now remains the difficulty about the sea. In Sanskrit, according to [Mr. Nundolal Dey](# "Ibid., Vol; XVI. p. 275. I. H. Q., December, 1928.")the word Sagara includes a lake, a sea or an ocean. In these parts there are many lakes which are called Sagaras. Rai Bahadur Hiralal asserts that in some of these lakes pearls are found (Journal of Hindi Sammelan, Vol. 14, 5).
+[^18]: "Imperial Gazetteer, Vol. XII, p. 323."
+
+There now remains the difficulty about the sea. In Sanskrit, according to Mr. Nundolal Dey[^19]the word Sagara includes a lake, a sea or an ocean. In these parts there are many lakes which are called Sagaras. Rai Bahadur Hiralal asserts that in some of these lakes pearls are found (Journal of Hindi Sammelan, Vol. 14, 5).
+
+[^19]: "Ibid., Vol; XVI. p. 275. I. H. Q., December, 1928."
 
 Now the question remains as regards the tribes of Vanaras, monkeys, which inhabited the land betweenJanasthana and Lanka,and the Rakshasas who lived beyond. That these two tribes had brotherly relations may be gathered from the mention in the Ramayana that Hanuman the companion of Sugriva, introduced his name to Ravana, as that of a brother (V-2,51). It is said that Vanaras had a tail. Apart from the fact that in medical works evidence is available of men having tail, Mr. T. C. Hudson. in his "*Naga Tribes of Manipur*" describes a costume in which such a tail is added. The Rakshasas too had different sorts of costumes (e. g., the ten heads of Ravana). I have avoided any reference to the last canto of the Ramayana as it is held to be an interpolation. Nor has any reference been made to the date of the Ramayanic events, which preceded the Mahabharata War by about a thousand years.
 
@@ -964,9 +1002,17 @@ DESCENDANTS OF RAVANA
 (The Ruler of Lanka)  
 
 
-I have already shown that the struggle between Ramachandra, the Hero of Valmiki's *Ramayana*, and the villain Ravana, took place on the plateau, north of Lanka, perched on a peak of the Amarkantaka. This plateau is situated in the modern State of Rewa. It is now known as the forest of Pushparajgarh. This vast tract is inhabited by the Gonds. Among them are still observed several customs, (such as cannibalism mentioned in Valmiki's *Ramayana*;) as those of the relations and followers of Ravana; he seems to have been civilized, although he too was not free from all the traditions prevalent among his tribe or[tribes](# "Annals (B. O. R. I. ) Poona, Vol. VII, Part IV. ददर्श गिरिशृङ्गाभंपुरुषादं महास्वनम् ॥( ३-२-४ ) विराध इति मामाहुः पृथिव्यां सर्वराक्षसाः ॥ ( ३-३-५ ) also रावणावरजः कश्वित्खरो नामेह राक्षसः । (२-११७-११ ) धृष्टश्चजितकाशी च नृशंसः पुरुषादकः । (२-११७ - १२ ) अनेन ( कुंभकर्णेन) भक्षिता ब्रह्मन्नृषयो मानुषास्तथा । (८७-१०-३८)").  
+I have already shown that the struggle between Ramachandra, the Hero of Valmiki's *Ramayana*, and the villain Ravana, took place on the plateau, north of Lanka, perched on a peak of the Amarkantaka. This plateau is situated in the modern State of Rewa. It is now known as the forest of Pushparajgarh. This vast tract is inhabited by the Gonds. Among them are still observed several customs, (such as cannibalism mentioned in Valmiki's *Ramayana*;) as those of the relations and followers of Ravana; he seems to have been civilized, although he too was not free from all the traditions prevalent among his tribe ortribes[^20] Poona, Vol. VII, Part IV. ददर्श गिरिशृङ्गाभंपुरुषादं महास्वनम् ॥( ३-२-४ ) विराध इति मामाहुः पृथिव्यां सर्वराक्षसाः ॥ ( ३-३-५ ) also रावणावरजः कश्वित्खरो नामेह राक्षसः । (२-११७-११ ) धृष्टश्चजितकाशी च नृशंसः पुरुषादकः । (२-११७ - १२ ) अनेन ( कुंभकर्णेन) भक्षिता ब्रह्मन्नृषयो मानुषास्तथा । (८७-१०-३८)").  
 
-Several tribes of Gonds who inhabit this tract callthemselves (1) *Ravana Vamsi* (descendants of Ravana), (2) *Banar Vamsi* (descendants of monkeys), *Komar Vamsi* (descendants of the Kumars, sons of Rajas) and even *Raghu Vamsi* (descendants of Ramachandra, evidently of his followers). They are divided amongst these four principal sections. Although the family of Ravana is called after its progenitor as [*Salakatankata*,](# "Ibid केनचित्वथ कालेन राम सालकटङ्कटा । ( ७-४-२३ )")he is said to be born of the family of [Pulastya Rishi.](# "Ibid पुलस्त्यवंशादुद्भूता राक्षसा इति नः श्रुतम् । ( ७-४-४ ) भज विश्रवसं पुत्रिपौलस्त्यं वरय स्वयम् ॥ ( ७-९ - १२ ) दशग्रीवः प्रसूतोऽयं (७-९-३३)")Amongst the Gonds there are 23 *Gotras*:- (1) Agoria, (2) Biyar, (3) Dharkar, (4) Dusadh, (5) Ghasiya, (6) Kamar, (7) Kamarai, (8) Koir, (9) Manaro, (10) Mazi, (11) Moi, (12) Paliha, (13) Panika, (14) Pathari, (15) Pava, (16) Paviya, (17) Raithor, (18) Rajagagon, (19) [Sadharan Gon](# "Also known as Zamidari.")(20) Tavalmanjan, (22) Umrao, (24) Vaiga, (23) Vind.
+[^20]: "Annals (B. O. R. I.
+
+Several tribes of Gonds who inhabit this tract callthemselves (1) *Ravana Vamsi* (descendants of Ravana), (2) *Banar Vamsi* (descendants of monkeys), *Komar Vamsi* (descendants of the Kumars, sons of Rajas) and even *Raghu Vamsi* (descendants of Ramachandra, evidently of his followers). They are divided amongst these four principal sections. Although the family of Ravana is called after its progenitor as *Salakatankata*,[^21]")he is said to be born of the family of Pulastya Rishi.[^22] भज विश्रवसं पुत्रिपौलस्त्यं वरय स्वयम् ॥ ( ७-९ - १२ ) दशग्रीवः प्रसूतोऽयं (७-९-३३)")Amongst the Gonds there are 23 *Gotras*:- (1) Agoria, (2) Biyar, (3) Dharkar, (4) Dusadh, (5) Ghasiya, (6) Kamar, (7) Kamarai, (8) Koir, (9) Manaro, (10) Mazi, (11) Moi, (12) Paliha, (13) Panika, (14) Pathari, (15) Pava, (16) Paviya, (17) Raithor, (18) Rajagagon, (19) Sadharan Gon[^23](20) Tavalmanjan, (22) Umrao, (24) Vaiga, (23) Vind.
+
+[^21]: "Ibid केनचित्वथ कालेन राम सालकटङ्कटा । ( ७-४-२३
+
+[^22]: "Ibid पुलस्त्यवंशादुद्भूता राक्षसा इति नः श्रुतम् । ( ७-४-४
+
+[^23]: "Also known as Zamidari."
 
 Some of the original names have undergone some verbal change. Besides these *gotras*, there are *Kulas* (families) which are known after the name of the deity they worship and which are to be found among all the tribes of Gonds. They are 20. The similarity between the name of the Gond and Gaud who are Brahmins, is remarkable and it may be responsible for the idea that Ravana was a Brahmin. The twenty families are named as :  
 (1) Betam, (2) Chichma, (3) Ghurava, (4) Khashars, (5) Korim, (6) Mapachi (7) Marai, (8) Markam,(9) Maravi, (10) Notia, (11) Oika, (12) Oima, (13) Parneha, (14) Partholi, (15) Partthi, (16) Poya, (17) Sapatia, (18) Soima, (19) Suri, (20) Tekama.
@@ -992,15 +1038,21 @@ Munda for Poya.
 
 All the villages are situated in Rewa state.
 
-Among some of these Gonds, a child is named after the sixth day of its birth and the name of a visitor to the habitation on that day is given to the child. Amongst others, naming ceremony takes place after five months of the child's birth. Their marriage custom is of the kind described in Hindu *Shastras* as the *Rakshasa* form of marriage i.e. the bride is carried away from her parents, and then the religious, or the customary ceremony is performed. Divorce is allowed and remarriage permitted. Men and women stand in two rows opposite to, or facing each other, and then they take a forward step and a backward one. In this process a woman touching the forefinger of the left foot of a man becomes his kept wife. In this manner a woman has simultaneously 15 or 16 lawfully wedded husbands or the man has as many wives. Ravana abducted many [wives](# "Ibid जन्ऱ्हे पथि नरेन्द्रर्षि देवदानवकन्यकाः । ( ७-३४-१) एवं पन्नगकन्याश्च राक्षसासुरमानुषीः । यक्षदानवकन्याश्च विमाने सोऽध्यरापयत् ॥ ( ७-२४-३ )").
+Among some of these Gonds, a child is named after the sixth day of its birth and the name of a visitor to the habitation on that day is given to the child. Amongst others, naming ceremony takes place after five months of the child's birth. Their marriage custom is of the kind described in Hindu *Shastras* as the *Rakshasa* form of marriage i.e. the bride is carried away from her parents, and then the religious, or the customary ceremony is performed. Divorce is allowed and remarriage permitted. Men and women stand in two rows opposite to, or facing each other, and then they take a forward step and a backward one. In this process a woman touching the forefinger of the left foot of a man becomes his kept wife. In this manner a woman has simultaneously 15 or 16 lawfully wedded husbands or the man has as many wives. Ravana abducted many wives[^24] एवं पन्नगकन्याश्च राक्षसासुरमानुषीः । यक्षदानवकन्याश्च विमाने सोऽध्यरापयत् ॥ ( ७-२४-३ )").
 
-The Gonds worship 41 deities which are located under a tree outside the habitation. Most of their images are of horse riders. The gods and goddesses which are indistinguishable from each other bear names, some of which are sylvan such as (1) Bodaka Deva (of Banyan tree). (2) Ningi Deva, (3) Ghamsam Deva (thick as) (1) Mahishasura, (2) Mari, (3) Sarada, (4) Kalika and so on. To all of them, animals, including in some cases human beings (a custom which is now reported to be stopped )' are sacrificed and then the worshippers eat this flesh. They also offer liquor to the deities before drinking it. The Ninga Deva especially is offered human sacrifice by the Gonds known as *Dhura*. In the *Valmiki Ramayana* too this is the way in which Ravana propitiated the deities and Kumbhakarna required tons of flesh to [eat](# "Ibid वराहान्महिषांश्चैव बभक्ष स महाबलः । ( ६-६०-६४ ) आदद्बुभुक्षितो मांसं शोणितं तृषितोऽपिबत् ( ६-६०-६३) रावण उवाचः- मम त्वां प्रातराशार्थे सुदाश्छेत्स्यन्ति खण्डशः ॥ ( ५-२२-९ ) दशवर्षसहस्रं तु निराहारो दशाननः । पूर्णे वर्षसहस्रे तु शिरश्चाग्नौजुहाव सः ॥ ( ७-१०-१० )").  
+[^24]: "Ibid जन्ऱ्हे पथि नरेन्द्रर्षि देवदानवकन्यकाः । ( ७-३४-१
+
+The Gonds worship 41 deities which are located under a tree outside the habitation. Most of their images are of horse riders. The gods and goddesses which are indistinguishable from each other bear names, some of which are sylvan such as (1) Bodaka Deva (of Banyan tree). (2) Ningi Deva, (3) Ghamsam Deva (thick as) (1) Mahishasura, (2) Mari, (3) Sarada, (4) Kalika and so on. To all of them, animals, including in some cases human beings (a custom which is now reported to be stopped )' are sacrificed and then the worshippers eat this flesh. They also offer liquor to the deities before drinking it. The Ninga Deva especially is offered human sacrifice by the Gonds known as *Dhura*. In the *Valmiki Ramayana* too this is the way in which Ravana propitiated the deities and Kumbhakarna required tons of flesh to eat[^25] आदद्बुभुक्षितो मांसं शोणितं तृषितोऽपिबत् ( ६-६०-६३) रावण उवाचः- मम त्वां प्रातराशार्थे सुदाश्छेत्स्यन्ति खण्डशः ॥ ( ५-२२-९ ) दशवर्षसहस्रं तु निराहारो दशाननः । पूर्णे वर्षसहस्रे तु शिरश्चाग्नौजुहाव सः ॥ ( ७-१०-१० )").  
+
+[^25]: "Ibid वराहान्महिषांश्चैव बभक्ष स महाबलः । ( ६-६०-६४
 
 Some of the Gonds observe untouchability probably imitating the surrounding Hindus.
 
 Their songs, which are known as (1) Saika, (2) Kamra, (3) Sura, (4) Binaha and so on according to their tunes or metres, contain references to their customs etc, and to some Hindu heroes like Krishna. The latter are evidently modern, but in a few of the songs there is mention that Hanuman lived in Lanka, which he invaded with an army consisting of monkeys. These according to their tunes, or metres, are sung on different occasions. For instance,a particular kind, say, *Binaha*, is sung on marriage occasion and another on a different occasion, such as worship.
 
-Similarity between this culture and that described in the *Ramayana* appears to be more than [accidental](# "I am indebted to my friend Rai Bahadur Brojendranath Chaturvedi Political and Finance Minister of Reva for collecting the information regarding Gonds, given in this article, for me.").  
+Similarity between this culture and that described in the *Ramayana* appears to be more than accidental[^26].  
+
+[^26]: "I am indebted to my friend Rai Bahadur Brojendranath Chaturvedi Political and Finance Minister of Reva for collecting the information regarding Gonds, given in this article, for me."
 
 
 
@@ -1186,3 +1238,29 @@ This also shows that their home were not so far away as is popularly believed.
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -36,7 +36,17 @@ INTRODUCTION
 
 1\. THE BHASA PROBLEM
 
- **Preliminary:**— Bhasa was known only by reputation through the [references](# "Twentyfive different references to Bhasa and his works are collected together in Appendix C to C. R. Devadhar's edition of the plays entitled 'Bhasa-nataka-chakram'.") to him by merited writers such as [Kalidasa](# " ‘प्रथितयशसां भाससौमिल्लकविपुत्रादीनां प्रबन्धान्....' —मालविकाग्निमित्रम्") and [Bana,](# " सूत्रधार कृतारम्भैनीट कैर्बहुभूमिकैः। सपताकैर्यशो लेमें भासो देवकुलैरिव। -हर्षचरितम्.") until 1912 [when](# "The Pandit states in his 'Bhasa's plays A Critical Study', thatmhe came across a palm leaf mánuscript of ten Rupakas in 1909 and that in a subsequent tour he secured Mss. of the other three plays Nos. 4,5 & 8 above. All the plays were first published in the Trivandram Sanskrit Series.") the late Pandit Ganapati Sastri of Trivandram published the following [thirteen](# " A play called Yajnaphalam dealing with the story of the Baiakanda of the Ramayana was published in 1941 and attributed to Bhasa by its editor Rajavaidya Jivaram Kalidasa Sastri of Gondal. This has been since shown to be a spurious work.") Sanskrit Plays—
+ **Preliminary:**— Bhasa was known only by reputation through the references[^1] to him by merited writers such as Kalidasa[^2] and Bana,[^3] until 1912 when[^4] the late Pandit Ganapati Sastri of Trivandram published the following thirteen[^5] Sanskrit Plays—
+
+[^1]: "Twentyfive different references to Bhasa and his works are collected together in Appendix C to C. R. Devadhar's edition of the plays entitled 'Bhasa-nataka-chakram'."
+
+[^2]: " ‘प्रथितयशसां भाससौमिल्लकविपुत्रादीनां प्रबन्धान्....' —मालविकाग्निमित्रम्"
+
+[^3]: " सूत्रधार कृतारम्भैनीट कैर्बहुभूमिकैः। सपताकैर्यशो लेमें भासो देवकुलैरिव। -हर्षचरितम्."
+
+[^4]: "The Pandit states in his 'Bhasa's plays A Critical Study', thatmhe came across a palm leaf mánuscript of ten Rupakas in 1909 and that in a subsequent tour he secured Mss. of the other three plays Nos. 4,5 & 8 above. All the plays were first published in the Trivandram Sanskrit Series."
+
+[^5]: " A play called Yajnaphalam dealing with the story of the Baiakanda of the Ramayana was published in 1941 and attributed to Bhasa by its editor Rajavaidya Jivaram Kalidasa Sastri of Gondal. This has been since shown to be a spurious work."
 
  1. Prajna Yaugandharayana, 2. Svapna-Vasavadatta, and
 
@@ -70,7 +80,9 @@ and 2. That writer was the great Bhasa owned by Bana and Kalidasa, as their wort
 
  5. The style and language are strikingly similar.
 
- 6. In many of these plays the device of 'Unintentional Dramatic replies' (पताकास्थान)and the figure of speech [मुद्रा](# " See Panca, Pratijna, Svapna & Pratima.")(*Paranomasia)* for the opening verse, are used.
+ 6. In many of these plays the device of 'Unintentional Dramatic replies' (पताकास्थान)and the figure of speech मुद्रा[^6](*Paranomasia)* for the opening verse, are used.
+
+[^6]: " See Panca, Pratijna, Svapna & Pratima."
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
@@ -82,7 +94,9 @@ and 2. That writer was the great Bhasa owned by Bana and Kalidasa, as their wort
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
- 7. The same names of minor characters, the same type of grammatical irregularities, the same ideas, sentences and [expressions](# "See C R Devadhar's Plays ascribed to Bhasa, their Authenticity & Merits', where he has noted several such repetitions") repeat themselves in these plays.
+ 7. The same names of minor characters, the same type of grammatical irregularities, the same ideas, sentences and expressions[^7] repeat themselves in these plays.
+
+[^7]: "See C R Devadhar's Plays ascribed to Bhasa, their Authenticity & Merits', where he has noted several such repetitions"
 
  8. Bharata's rules of dramaturgy are not observed in these plays, in as much as deaths, duels and battles are shown and water is actually brought on the stage
 
@@ -108,9 +122,17 @@ These striking similarities in the thirteen plays convince any reader of their c
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-seen in the works of [Kalidasa,](# " See Ganapati Sastri Op cit, and his intro, to SV, & Pratima.") [Asvaghosha,](# "Pratijna 1 18 has been transformed by Asvaghosa in the follow. ing sloka of his Buddhacharita, XII 60.  काष्टं हि मन्थन् लभते हुताशं, भूमिं खनन् विन्दति चापि तोयम् । निर्बन्धिनः किञ्चन नास्त्यसाध्यं न्यायेन युक्तं च कृतं च सर्वम् ॥")[Sudraka,](# " See Pusalkar op. cit, P, ")
-[Visakhadatta](# " Mudrarakshasa is probably the outcome of Visakhadatta's study of Bhasa's Pratijna.")
+seen in the works of Kalidasa,[^8] Asvaghosha,[^9]Sudraka,[^10]
+Visakhadatta[^11]
 and many others, who owe their indebtedness to the author of them.
+
+[^8]: " See Ganapati Sastri Op cit, and his intro, to SV, & Pratima."
+
+[^9]: "Pratijna 1 18 has been transformed by Asvaghosa in the follow. ing sloka of his Buddhacharita, XII 60.  काष्टं हि मन्थन् लभते हुताशं, भूमिं खनन् विन्दति चापि तोयम् । निर्बन्धिनः किञ्चन नास्त्यसाध्यं न्यायेन युक्तं च कृतं च सर्वम् ॥"
+
+[^10]: " See Pusalkar op. cit, P, "
+
+[^11]: " Mudrarakshasa is probably the outcome of Visakhadatta's study of Bhasa's Pratijna."
 
  These and similar facts make the readers believe that the author of these plays must be anterior to Panini, Bharata, Kalidasa, Sudraka and such others. But who could he be ?
 
@@ -123,10 +145,18 @@ and many others, who owe their indebtedness to the author of them.
 
  This coupling of one of the prays with the name of Bhasa establishes that all the other works too (claiming the same authorship) must be by Bhasa, who alone has to his credit a नाटकचक्र।
 
- Bana observes in his Harshacharita that "Bhasa gained as much fame, by his plays, begun by the stage-directors, containing many and varying characters, and stirring dramatic episodes, as by (the erection of) temples constructed by architects, with several stories and [banners](# " See note 3") ", The Trivandram plays have all the above features and hence they must be by Bhasa. This Bhasa must be the same as the one owned by Kalidasa as his predecessor and spoken of as a [muni](# "सोग्निरपिं भासमुनेः काव्यं विष्णुधर्मामुखात् त्यक्तवाम् नादहृदित्यर्थः ' while commenting on the following verse of Jayanka (12th cent A D) in his Prithvirajavijaya  सत्काव्यसंहारविधौ खलानां दीप्तानि बहेरपि मानसानि । भासस्य काव्यं खलु विष्णुधर्मान् (?) सोप्याननात्पारतवन्मुमोच ॥")
+ Bana observes in his Harshacharita that "Bhasa gained as much fame, by his plays, begun by the stage-directors, containing many and varying characters, and stirring dramatic episodes, as by (the erection of) temples constructed by architects, with several stories and banners[^12] ", The Trivandram plays have all the above features and hence they must be by Bhasa. This Bhasa must be the same as the one owned by Kalidasa as his predecessor and spoken of as a muni[^13] in his Prithvirajavijaya  सत्काव्यसंहारविधौ खलानां दीप्तानि बहेरपि मानसानि । भासस्य काव्यं खलु विष्णुधर्मान् (?) सोप्याननात्पारतवन्मुमोच ॥")
 by Jonaraja.
 
- These two views of the Pandit were discussed in learned journals by [scholars,](# " For a bibliographical note of publications on Bhasa, see Appendix 1 to A D Pusalkar's Bhasa-A study") both Indian and foreign. The result was that almost all concurred with the Pandit regarding the common authorship of these plays. As regards the other question there came up [three](# "Scholars such as Prof. Keith, Thomas and Paranjape suppo tel the Pandit's view; Prof. Kane, Dr. Barnett, Messrs Rama Pisharodi nd Krishna Pisharodi and such others opposed it some others like Dr Sukhtankar and Prof, Winternitz opined that the evidences adduced by either group were not conclusive")views, viz.—
+[^12]: " See note 3"
+
+[^13]: "सोग्निरपिं भासमुनेः काव्यं विष्णुधर्मामुखात् त्यक्तवाम् नादहृदित्यर्थः ' while commenting on the following verse of Jayanka (12th cent A D
+
+ These two views of the Pandit were discussed in learned journals by scholars,[^14] both Indian and foreign. The result was that almost all concurred with the Pandit regarding the common authorship of these plays. As regards the other question there came up three[^15]views, viz.—
+
+[^14]: " For a bibliographical note of publications on Bhasa, see Appendix 1 to A D Pusalkar's Bhasa-A study"
+
+[^15]: "Scholars such as Prof. Keith, Thomas and Paranjape suppo tel the Pandit's view; Prof. Kane, Dr. Barnett, Messrs Rama Pisharodi nd Krishna Pisharodi and such others opposed it some others like Dr Sukhtankar and Prof, Winternitz opined that the evidences adduced by either group were not conclusive"
 
  1. All the 13 plays are the works of Bhasa.
 
@@ -150,9 +180,13 @@ by Jonaraja.
 
 **2. DATE OF BHASA.**
 
- Bhasa must be earlier than both Kalidasa and Bana who refer to him by name, as observed in the above, and later than Valmiki upon whose Ramayana he has drawn for the theme of his viii two dramas, viz. Pratima and Abhisheka. But Kalidasa's date is still indefinite. If Dr. Peterson holds that "Kalidasa stands near the beginning of the Christian Era, if indeed, he does not overtop it," Dr. Kern places him in the latter half of the 6th sent. A. D. Bana's date, however, is almost definitely known to be the closing part of the 6th and the beginning of the 7th cent. A. D. So, at any rate, Bhasa's date cannot be later than the 6th cent. A. D. As regards the date of Valmiki too, scholars differ. [Prof. Keith](# " See Keith's History of Sanskrit Literature.") 20 is inclined to think that Valmiki lived earlier than the 4th cent, B.C. and that those who improved on him were during the period 400- 200 B. C., while Prof, Jacobi assigns him to a date earlier than the 5th cent. B. C.
+ Bhasa must be earlier than both Kalidasa and Bana who refer to him by name, as observed in the above, and later than Valmiki upon whose Ramayana he has drawn for the theme of his viii two dramas, viz. Pratima and Abhisheka. But Kalidasa's date is still indefinite. If Dr. Peterson holds that "Kalidasa stands near the beginning of the Christian Era, if indeed, he does not overtop it," Dr. Kern places him in the latter half of the 6th sent. A. D. Bana's date, however, is almost definitely known to be the closing part of the 6th and the beginning of the 7th cent. A. D. So, at any rate, Bhasa's date cannot be later than the 6th cent. A. D. As regards the date of Valmiki too, scholars differ. Prof. Keith[^16] 20 is inclined to think that Valmiki lived earlier than the 4th cent, B.C. and that those who improved on him were during the period 400- 200 B. C., while Prof, Jacobi assigns him to a date earlier than the 5th cent. B. C.
 
- These two limits of Bhasa's date are almost universally accepted but there has been much diversity in the opinion of scholars regarding the exact date of Bhasa. Some feel that he should be closer to Kalidasa, while others feel that he is closer to Valmiki. The learned editor of Trivandram has pointed out that Bhasa must be definitely before Panini and Bharata, as their rules of grammar and dramaturgy are not at all applicable to his plays. Again Panini's date is not known definitely. Keith places him in the 4th cent. B. C. Accepting this date for Panini, if Bhasa is prior to him, Bhasa will have to be assigned to the 5th cent. [](# "Date of Bhasa according to different scholars. Ganapati Sastri, Haraprasada Sastri and Pusalker. Jabgirdar, Kulakarni Jayaswal, Chaudhury, Dhruva Konow, Sarup, Weller Keith, Jolly, Jacobi, Benerji Sastri and Bhandarkar. Lisny and Winternitz Sankar Devdhar. Barnett, Hirananda Sastri Nerurkar and Pisharoti. ་་་་ 6th cent B. C. 3rd cent. B. C. 2nd-1st cent B. C ...2nd cent, A. D. e 3rd cent. A. D. 4th cent, A. D 5th-6th cent.A.D. 7th cent. A. D. Kane Ramavatara Sarma Rangacharya Reddy 9th cent. A. D. .... 10th cent. A. D. ..... 11th cent. A. D.") B. C at the latest
+[^16]: " See Keith's History of Sanskrit Literature."
+
+ These two limits of Bhasa's date are almost universally accepted but there has been much diversity in the opinion of scholars regarding the exact date of Bhasa. Some feel that he should be closer to Kalidasa, while others feel that he is closer to Valmiki. The learned editor of Trivandram has pointed out that Bhasa must be definitely before Panini and Bharata, as their rules of grammar and dramaturgy are not at all applicable to his plays. Again Panini's date is not known definitely. Keith places him in the 4th cent. B. C. Accepting this date for Panini, if Bhasa is prior to him, Bhasa will have to be assigned to the 5th cent. [][^17] B. C at the latest
+
+[^17]: "Date of Bhasa according to different scholars. Ganapati Sastri, Haraprasada Sastri and Pusalker. Jabgirdar, Kulakarni Jayaswal, Chaudhury, Dhruva Konow, Sarup, Weller Keith, Jolly, Jacobi, Benerji Sastri and Bhandarkar. Lisny and Winternitz Sankar Devdhar. Barnett, Hirananda Sastri Nerurkar and Pisharoti. ་་་་ 6th cent B. C. 3rd cent. B. C. 2nd-1st cent B. C ...2nd cent, A. D. e 3rd cent. A. D. 4th cent, A. D 5th-6th cent.A.D. 7th cent. A. D. Kane Ramavatara Sarma Rangacharya Reddy 9th cent. A. D. .... 10th cent. A. D. ..... 11th cent. A. D."
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
@@ -200,13 +234,19 @@ Bhasa often feels that Fate sometimes baffles all human efforts. 'जाग्�
 काष्टादग्निर्जायते मध्यमानाद्, भूमिस्तोयं खन्यमाना ददाति।  
 सोत्साहानां नास्त्यसाध्यं नराणां, मार्गारब्धाः सर्वयत्नाः फलन्ति॥
 
- Bhasa expresses things directly and in a simple and lucid language. There is something remarkably charming in every statement of is. His humour is subtle and original, in appreciation of which Jayadeva called him the 'gentle smile of the Goddess of [Poetry](# "यस्याश्चोरश्चिकुरनिकरः कपूरो मयूरः भासो हासः क बेकुलगुरुः कालिदासो विलासः । हर्षोदः हृदयवसतिः पञ्चबाणः स बाणः येषां नैषाः कथय कविताकामिनी कौतुकाय ॥ Prasannaraghava")'.
+ Bhasa expresses things directly and in a simple and lucid language. There is something remarkably charming in every statement of is. His humour is subtle and original, in appreciation of which Jayadeva called him the 'gentle smile of the Goddess of Poetry[^18]'.
+
+[^18]: "यस्याश्चोरश्चिकुरनिकरः कपूरो मयूरः भासो हासः क बेकुलगुरुः कालिदासो विलासः । हर्षोदः हृदयवसतिः पञ्चबाणः स बाणः येषां नैषाः कथय कविताकामिनी कौतुकाय ॥ Prasannaraghava"
 
 4\. WORKS OF BHASA.
 
- Mention has already been made of the thirteen plays ascribed to Bhasa. Another play calledयज्ञफलम् dealing with the story of the Balakanda of the Ramayana has been recently म and attributed to Bhasa. There seems to be, however, a belief that Rhasa wrote as many as twenty three [dramas](# ". See R. V, Krishnamachariar's Bhumika (P. xxxiii) to Priya- darasika (V, V. Press Srirangam.")among which मुकुटताडितकand उदात्तराघव had a place.
+ Mention has already been made of the thirteen plays ascribed to Bhasa. Another play calledयज्ञफलम् dealing with the story of the Balakanda of the Ramayana has been recently म and attributed to Bhasa. There seems to be, however, a belief that Rhasa wrote as many as twenty three dramas[^19] to Priya- darasika (V, V. Press Srirangam.")among which मुकुटताडितकand उदात्तराघव had a place.
 
- About 13 stray [verses](# " One of these verses occurs in the Matta-Vilasa and four are attributed to other authors by other anthologists. This proves the notoriously unreliable charcater of the anthological attibuton. See F, W, Thomas J. R. A. S. 1927, P. 883 f.") are attributed to Bhasa. Of them five are found in the शाङ्गधरपद्धति, four in the सुभाषितावली, three in the सदुत्त्किकर्णामृत and one in the सूत्त्किमुक्तावली. None of these verses is found in any of the Bhasa plays discovered so far. This cannot be a disproof to Bhasa's authorship of those plays, for, we may yet hope to discover more works of Bhasa, where they may be found.
+[^19]: ". See R. V, Krishnamachariar's Bhumika (P. xxxiii
+
+ About 13 stray verses[^20] are attributed to Bhasa. Of them five are found in the शाङ्गधरपद्धति, four in the सुभाषितावली, three in the सदुत्त्किकर्णामृत and one in the सूत्त्किमुक्तावली. None of these verses is found in any of the Bhasa plays discovered so far. This cannot be a disproof to Bhasa's authorship of those plays, for, we may yet hope to discover more works of Bhasa, where they may be found.
+
+[^20]: " One of these verses occurs in the Matta-Vilasa and four are attributed to other authors by other anthologists. This proves the notoriously unreliable charcater of the anthological attibuton. See F, W, Thomas J. R. A. S. 1927, P. 883 f."
 
 
 
@@ -383,9 +423,13 @@ ACT V (शोकाङ्कः)
  **सूत्रधारः**—
 
 यो गाधिपुत्रमखविघ्नकराभिहन्ता  
-युद्धे विराधखरदूषण[वीर्यहन्ता](# "कर्णधारा.")।  
-[दर्पोद्यतोल्वण](# "दर्पोल्वणोद्यत")कबन्धकपीन्द्रहन्ता।  
+युद्धे विराधखरदूषणवीर्यहन्ता[^21]।  
+दर्पोद्यतोल्वण[^22]कबन्धकपीन्द्रहन्ता।  
 पायात् स वो निशिचरेन्द्रकुलामिहन्ता॥१॥
+
+[^21]: "कर्णधारा."
+
+[^22]: "दर्पोल्वणोद्यत"
 
  एवमार्यमिश्रान् विज्ञापयामि। (परिक्रम्यावलोक्य) अये किन्नु खलु मयि विज्ञापनव्यग्रे शब्द इव श्रूयते। अङ्ग! पश्यामि।
 
@@ -400,7 +444,13 @@ ACT V (शोकाङ्कः)
 प्रचण्डवातोद्धतभीमगामिनां  
 बलाहकानामिव खेऽभिगर्जताम्॥२॥
 
-**सूत्रधारः**— मार्ष! किं नावगच्छसि? एष खलु सीतापहरणजनितसन्तापस्य रघुकुलप्रदीपस्य सर्वलोकनयनाभिरामस्य रामस्य च, दाराभिमर्शननिर्विषयीकृतस्य सर्वहर्यृक्षराजस्य सुविपुलमहाग्रीवस्य सुग्रीवस्य च [परस्परोपकारकृत](# "परस्परदारकृत")प्रतिज्ञयोः सर्ववानराधिपतिं हेममालिनं वालिनं [हन्तुं](# "समुद्धर्तुम्") समुद्योगः प्रवर्तते। [तत](# "तथा हि.") एतौ हि,
+**सूत्रधारः**— मार्ष! किं नावगच्छसि? एष खलु सीतापहरणजनितसन्तापस्य रघुकुलप्रदीपस्य सर्वलोकनयनाभिरामस्य रामस्य च, दाराभिमर्शननिर्विषयीकृतस्य सर्वहर्यृक्षराजस्य सुविपुलमहाग्रीवस्य सुग्रीवस्य च परस्परोपकारकृत[^23]प्रतिज्ञयोः सर्ववानराधिपतिं हेममालिनं वालिनं हन्तुं[^24] समुद्योगः प्रवर्तते। तत[^25] एतौ हि,
+
+[^23]: "परस्परदारकृत"
+
+[^24]: "समुद्धर्तुम्"
+
+[^25]: "तथा हि."
 
 इदानीं राज्यविभ्रष्टं सुग्रीवं रामलक्ष्मणौ।  
 पुनः स्थापयितुं प्राप्ताविन्द्रं हरिहराविव॥३॥
@@ -414,9 +464,15 @@ ACT V (शोकाङ्कः)
  **रामः**— सुप्रीव! इत इतः।
 
 **मत्सायकान्निहतभिन्नविकीर्णदेहं  
-शत्रुं तवाद्य [सहसा](# "समरे विनिपात ") भुवि पातयामि।  
-राजन्! भयं त्यज [ममापि](# " ममासि.") समीपवर्ती  
-दृष्ट[स्त्वया](# " त्वयाद्य") च समरे निहतः स वाली॥४॥**
+शत्रुं तवाद्य सहसा[^26] भुवि पातयामि।  
+राजन्! भयं त्यज ममापि[^27] समीपवर्ती  
+दृष्टस्त्वया[^28] च समरे निहतः स वाली॥४॥**
+
+[^26]: "समरे विनिपात "
+
+[^27]: " ममासि."
+
+[^28]: " त्वयाद्य"
 
 ** सुग्रीवः**— देव! अहं स्वल्यार्यस्य प्रसादाद् देवानामपि राज्यमाशङ्के, किं पुनर्वानराणाम्। कुतः,
 
@@ -436,26 +492,36 @@ ACT V (शोकाङ्कः)
 
 —
 
-आर्य! सोपस्नेहतया [वनान्तरस्याभितः](# "वृक्षाणाममितः")खलु किष्किन्धयाभवितव्यम्।
+आर्य! सोपस्नेहतया वनान्तरस्याभितः[^29]खलु किष्किन्धयाभवितव्यम्।
+
+[^29]: "वृक्षाणाममितः"
 
 ** सुग्रीवः—**सम्यगाह कुमारः।
 
-**सम्प्राप्ता [हरिवरबाहुसम्प्रगुप्ता](# "गुप्तः किष्किन्धां")  
-किष्किन्धा तव नृप ! बाहुसम्प्र[गुप्ता](# " गृप्तैः")।  
+**सम्प्राप्ता हरिवरबाहुसम्प्रगुप्ता[^30]  
+किष्किन्धा तव नृप ! बाहुसम्प्रगुप्ता[^31]।  
 तिष्ठ त्वं नृवर ! करोम्यहं विसंज्ञं  
 नादेन प्रचलमहीधरं नृलोकम्॥ ७॥**
+
+[^30]: "गुप्तः किष्किन्धां"
+
+[^31]: " गृप्तैः"
 
 ** रामः**
 
 —
 
-[भवतु,](# "गच्छामः") गच्छ।
+भवतु,[^32] गच्छ।
+
+[^32]: "गच्छामः"
 
 ** सुग्रीवः**
 
 —
 
-यदाज्ञापयति देवः। ([परिक्रम्य](# "उपराज्य.")) भोः!
+यदाज्ञापयति देवः। (परिक्रम्य[^33]) भोः!
+
+[^33]: "उपराज्य."
 
 अपराधमनुद्दिश्य परित्यत्त्कस्त्वया विभो!  
 
@@ -470,11 +536,17 @@ ACT V (शोकाङ्कः)
 तारे! विमुञ्च मम वस्त्रमनिन्दिताङ्गि!  
 प्रस्त्रस्तवक्त्रनयने! किमसि प्रवृत्ता।  
 सुग्रीवमद्य समरे विनिपात्यमानं  
-तं पश्य [शोणितपरिप्लुत](# " वक्त्रनेत्रम्.")सर्वगात्रम्॥९॥
+तं पश्य शोणितपरिप्लुत[^34]सर्वगात्रम्॥९॥
 
-** तारा—**पसीअउ पसीअउ महाराओ। [अप्पेण](# "अणप्पेण कारणेण आगमिस्सिंदि.") कारणेण ण आगमिस्सइ सुग्गीओ। ता अमच्चवग्गेण सह सम्मन्तिअ गन्तव्वं। \[प्रसीदतु प्रसीदतु महाराजः। अल्पेन कारणेन नागमिष्यति सुग्रीवः। तदमात्यवर्गेण सह संमन्त्य गन्तव्यम्।\]
+[^34]: " वक्त्रनेत्रम्."
 
-** वाली—**[आ](# " आः ' इति नास्ति.")ः
+** तारा—**पसीअउ पसीअउ महाराओ। अप्पेण[^35] कारणेण ण आगमिस्सइ सुग्गीओ। ता अमच्चवग्गेण सह सम्मन्तिअ गन्तव्वं। \[प्रसीदतु प्रसीदतु महाराजः। अल्पेन कारणेन नागमिष्यति सुग्रीवः। तदमात्यवर्गेण सह संमन्त्य गन्तव्यम्।\]
+
+[^35]: "अणप्पेण कारणेण आगमिस्सिंदि."
+
+** वाली—**आ[^36]ः
+
+[^36]: " आः ' इति नास्ति."
 
 शक्रो वा भवतु गतिः शशाङ्कवक्त्रे!  
 
@@ -483,44 +555,66 @@ ACT V (शोकाङ्कः)
 नालं मामभिमुखमेत्य सम्प्रहर्तं  
 विष्णुर्वा विकसितपुण्डरीकनेत्रः॥१०॥
 
-** तारा—**पसीअउ[पसीअउ महा](# "पसीददु महा०")राओ। इमस्स जणस्स अणुग्गहं दाव करेउं[अरिहदि](# " अर्हदि.") महाराओ। \[प्रसीदतु प्रसीदतु महाराजः। अस्य जनस्यानुग्रहं तावत् कर्तुमर्हति महाराजः।\]
+** तारा—**पसीअउपसीअउ महा[^37]राओ। इमस्स जणस्स अणुग्गहं दाव करेउंअरिहदि[^38] महाराओ। \[प्रसीदतु प्रसीदतु महाराजः। अस्य जनस्यानुग्रहं तावत् कर्तुमर्हति महाराजः।\]
+
+[^37]: "पसीददु महा०"
+
+[^38]: " अर्हदि."
 
 ** वाली—**श्रूयतां मत्पराक्रमः।
 
 **तारे! मया खलु पुरामृतमन्थनेऽपि  
-गत्वा [प्रहस्य](# " प्रसह्य.") सुरदानवदैत्यसङ्घान्।  
+गत्वा प्रहस्य[^39] सुरदानवदैत्यसङ्घान्।  
 उत्फुल्लनेत्रमुरगेन्द्रमुदग्ररूप-  
 माकृष्यमाणमवलोक्य सुविस्मितास्ते॥११॥**
 
+[^39]: " प्रसह्य."
+
 **तारा—**पसीअउ पसीअउ महाराओ। \[प्रसीदतु प्रसीदतु महाराजः।\]
 
-**वाली—** [हं](# "आ"), मम वशानुवर्तिनी भव। प्रविश त्वमभ्यन्तरम्।
+**वाली—** हं[^40], मम वशानुवर्तिनी भव। प्रविश त्वमभ्यन्तरम्।
+
+[^40]: "आ"
 
 **तारा—**एसा गच्छामि मन्दभाआ। \[एषा गच्छामि मन्दभागा।\]       
          (निष्क्रान्ता)
 
-**वाली—**हन्त प्रविष्टा तारा। [यावदहं](# "अहमपि") सुग्रीवं भग्नग्रीवं करोमि। (द्रुतमुपगम्य) [सुग्रीव](# "भोः सुग्रीव.")।तिष्ठ तिष्ट।
+**वाली—**हन्त प्रविष्टा तारा। यावदहं[^41] सुग्रीवं भग्नग्रीवं करोमि। (द्रुतमुपगम्य) सुग्रीव[^42]।तिष्ठ तिष्ट।
+
+[^41]: "अहमपि"
+
+[^42]: "भोः सुग्रीव."
 
 इन्द्रो वा शरणं तेऽस्तु प्रभुर्वा मधुसूदनः।  
 मच्चक्षुष्पथमासाद्य सजीवो नैव यास्यसि॥१२॥
 
-  [इत इतः](# "इत इतः' इति नास्ति।")।
+  इत इतः[^43]।
+
+[^43]: "इत इतः' इति नास्ति।"
 
  **सुग्रीवः—** यदाज्ञापयति महाराजः। (उभौ नियुद्धं कुरुतः)
 
 ** रामः—**एष एष वाली,
 
 सन्दष्टोष्टश्चण्डसंरक्तनेत्रो  
-मुष्टिं कृत्वा गाढमु[द्वृत्तदंष्ट्रः](# "उद्रिक्तदंष्टः")।  
+मुष्टिं कृत्वा गाढमुद्वृत्तदंष्ट्रः[^44]।  
 गर्जन भीमं वानरो भाति युद्धे  
 संवर्त्ताग्निः सन्दिधक्षुर्यथैव॥१३॥
 
-**लक्ष्मणः—**सुग्रीव[मपि पश्य](# "अभिपश्य०")त्वार्यः,
+[^44]: "उद्रिक्तदंष्टः"
 
-विकसितशतपत्रर[क्तनेत्रः](# "०वक्त्रनेत्रः")  
+**लक्ष्मणः—**सुग्रीवमपि पश्य[^45]त्वार्यः,
+
+[^45]: "अभिपश्य०"
+
+विकसितशतपत्ररक्तनेत्रः[^46]  
 कनकमयाङ्गदनद्धपीनबाहुः।  
-हरिवरमु[पयाति](# "अभियाति")वानरत्वाद्  
+हरिवरमुपयाति[^47]वानरत्वाद्  
 गुरुमभिभूय सतां विहाय वृत्तम्॥१४॥
+
+[^46]: "०वक्त्रनेत्रः"
+
+[^47]: "अभियाति"
 
 वालिना ताडितः पतितः सग्रीवः।
 
@@ -572,10 +666,14 @@ ACT V (शोकाङ्कः)
 
 **वाली**— अगम्यागमनेनेति? एषोऽस्माकं धर्मः।
 
-**रामः**—[ननु](# " 'ननु युक्तं भो' इति नास्ति")युक्तं भोः!
+**रामः**—ननु[^48]युक्तं भोः!
 
-[भवता वानरे](# "युक्तं भो वानरे०")न्द्रेण धर्माधर्मौविजानता।  
+[^48]: " 'ननु युक्तं भो' इति नास्ति"
+
+भवता वानरे[^49]न्द्रेण धर्माधर्मौविजानता।  
 आत्मानं मृगमुद्दिश्य भ्रातृदाराभिमर्शनम्?॥२०॥
+
+[^49]: "युक्तं भो वानरे०"
 
  **वाली—** भ्रातृदाराभिमर्शनेन तुल्यदोषयोरहमेव दण्डितो, न सुग्रीवः!
 
@@ -583,8 +681,10 @@ ACT V (शोकाङ्कः)
 
  **वाली—**
 
-**[सुग्रीवेणाभिमृष्टा](# "सुग्रीवेणापि मृष्ठा०")भूद्धर्मपत्नी गुरोर्मम।  
+**सुग्रीवेणाभिमृष्टा[^50]भूद्धर्मपत्नी गुरोर्मम।  
 तस्य दाराभिमर्शेन कथं दण्ड्योऽस्मि राघव?॥२१॥**
+
+[^50]: "सुग्रीवेणापि मृष्ठा०"
 
 ** रामः—** न त्वेव हि कदाचिज्ज्येष्ठस्य यवीयसो दाराभिमर्शनम्।
 
@@ -616,7 +716,9 @@ ACT V (शोकाङ्कः)
 ** अङ्गदः—** 
 
 श्रुत्वा कालवशं यान्तं हरिमृक्षगणेश्वरम्।  
-[समापतितसन्तापः](# "समापतति सन्तापः") प्रयामि शिथिलक्रमः॥२३॥
+समापतितसन्तापः[^51] प्रयामि शिथिलक्रमः॥२३॥
+
+[^51]: "समापतति सन्तापः"
 
 हनूमन्! कुत्र महाराजः?
 
@@ -627,25 +729,37 @@ ACT V (शोकाङ्कः)
 
 ** अङ्गदः—** (उपसृत्य) हा महाराज!
 
-अतिबलसुखशायी [पूर्वमासी](# " पूर्वमासीद् हरीन्द्रः")र्हरीन्द्रः  
+अतिबलसुखशायी पूर्वमासी[^52]र्हरीन्द्रः  
 क्षितितलपरिवर्ती क्षीणसर्वाङ्गचेष्टः।  
 शरवरपरिवीतं व्यक्तमुत्सृज्य देहं  
-किमभिलपसि वीर[स्वर्गमद्याभिगन्तुम्](# "स्वर्गमद्यापि यन्तुम्") ॥२५॥
+किमभिलपसि वीरस्वर्गमद्याभिगन्तुम्[^53] ॥२५॥
 
-(इति भूमौ [पतितः](# " पतति."))
+[^52]: " पूर्वमासीद् हरीन्द्रः"
 
-** वाली—**अङ्गद! अलमलं विषादेन। [भोः](# "ईदृशो लोकधर्मः। भोः....") सुग्रीव!
+[^53]: "स्वर्गमद्यापि यन्तुम्"
+
+(इति भूमौ पतितः[^54])
+
+[^54]: " पतति."
+
+** वाली—**अङ्गद! अलमलं विषादेन। भोः[^55] सुग्रीव!
+
+[^55]: "ईदृशो लोकधर्मः। भोः...."
 
 मया कृतं दोषमपास्य बुद्ध्या  
 त्वया हरीणामधिपेन सम्यक्।  
-विमुच्य रोषं [परिगृह्](# " प्रतिगृह्य.")मधर्मं  
+विमुच्य रोषं परिगृह्[^56]मधर्मं  
 कुलप्रवालं परिगृह्यतां नः॥२६॥
+
+[^56]: " प्रतिगृह्य."
 
 ** सुग्रीवः—**यदाज्ञापयति महाराजः।
 
 ** बाली—**भो राघव! यस्मिन् कस्मिन् वापराधेऽनयोर्वानरचापलं क्षन्तुमर्हसि।
 
-** रामः—**[वाढम्](# " एवमस्तु")।
+** रामः—**वाढम्[^57]।
+
+[^57]: " एवमस्तु"
 
 ** बाली—**सुग्रीव! प्रतिगृह्यतामस्मत्कुलधनं हेममाला।
 
@@ -655,7 +769,11 @@ ACT V (शोकाङ्कः)
 
 ** हनूमान्—**यदाज्ञापयति महाराजः। (निष्क्रम्य प्रविश्य) इमा आपः।
 
-** वाली—**(आचम्य) परित्यजन्तीव मां प्राणाः। इमा गङ्गाप्रभृतयो महानद्य एता ऊर्वश्यादयोऽप्सरसो मामभिगताः। एष [सहस्रहंसप्रयुक्तो](# " हंसयुक्ती. ")वीरवाही विमानःकालेन प्रेषितो मां नेतुमागतः। भवतु। अयमयमागच्छामि। ([स्वर्गतः](# "स्वर्गं गतः"))
+** वाली—**(आचम्य) परित्यजन्तीव मां प्राणाः। इमा गङ्गाप्रभृतयो महानद्य एता ऊर्वश्यादयोऽप्सरसो मामभिगताः। एष सहस्रहंसप्रयुक्तो[^58]वीरवाही विमानःकालेन प्रेषितो मां नेतुमागतः। भवतु। अयमयमागच्छामि। (स्वर्गतः[^59])
+
+[^58]: " हंसयुक्ती. "
+
+[^59]: "स्वर्गं गतः"
 
 ** सर्वे—** हा हा महाराज!
 
@@ -715,11 +833,17 @@ ACT V (शोकाङ्कः)
 
 (ततः प्रविशति राक्षसीगणपरिवृता सीता)
 
-**सीता**— हदि! अदिधीरा खु म्हि मन्दभाआ। जा अय्यउत्तविरहिदा रक्खसराअभवणं आणीदा अणिठ्ठाणि अणरिहाणि जहमणोरहप्पवृत्ताणि वअणाणि साविअमाणा जीवामि मन्दभाआ। आदु अय्यदत्तसाअअप्पच्चएण कहं [विअत्ताणं](# "कहं चि (कथं चिद्)") पय्यवत्थावेमि। किंणुखु अज्ज पज्जालिअमाणे [कम्मआरग्गिमण्डले](# "कमअ०; कमुअ०")उदअप्पसेओ विअ किञ्चिहिअअप्पसादो समुप्पण्णो। किंणुखु मं अन्तरेण पसण्णहिअओ अय्यउत्तो भवे! \[हा धिग्! अतिधीरा खल्वस्मि मन्दभागाःआर्यपुत्रविरहिता राक्षसराजभवनमानीतानिष्टान्यनर्हाणि यथामनोरथप्रवृत्तानि वचनानि श्राव्यमाणा जीवामि मन्दभागा। अथवा आर्यपुत्रसायकप्रत्ययेन कथमप्यात्मानं पर्यवस्थापयामि। किन्नुखल्वद्य प्रज्वाल्यमाने [कर्मकाराग्नि](# "कमअ०; कमुअ०")-मण्डले उदकप्रसेक इवकिञ्चिद् हृदयप्रसादः समुत्पन्नः। किन्नुखलु मामन्तरेण प्रसन्नहृदय आर्यपुत्रो भवेत्!\]
+**सीता**— हदि! अदिधीरा खु म्हि मन्दभाआ। जा अय्यउत्तविरहिदा रक्खसराअभवणं आणीदा अणिठ्ठाणि अणरिहाणि जहमणोरहप्पवृत्ताणि वअणाणि साविअमाणा जीवामि मन्दभाआ। आदु अय्यदत्तसाअअप्पच्चएण कहं विअत्ताणं[^60]") पय्यवत्थावेमि। किंणुखु अज्ज पज्जालिअमाणे कम्मआरग्गिमण्डले[^61]उदअप्पसेओ विअ किञ्चिहिअअप्पसादो समुप्पण्णो। किंणुखु मं अन्तरेण पसण्णहिअओ अय्यउत्तो भवे! \हा धिग्! अतिधीरा खल्वस्मि मन्दभागाःआर्यपुत्रविरहिता राक्षसराजभवनमानीतानिष्टान्यनर्हाणि यथामनोरथप्रवृत्तानि वचनानि श्राव्यमाणा जीवामि मन्दभागा। अथवा आर्यपुत्रसायकप्रत्ययेन कथमप्यात्मानं पर्यवस्थापयामि। किन्नुखल्वद्य प्रज्वाल्यमाने [कर्मकाराग्नि[^61]-मण्डले उदकप्रसेक इवकिञ्चिद् हृदयप्रसादः समुत्पन्नः। किन्नुखलु मामन्तरेण प्रसन्नहृदय आर्यपुत्रो भवेत्!\]
+
+[^60]: "कहं चि (कथं चिद्
+
+[^61]: "कमअ०; कमुअ०"
 
 (ततः प्रविशति हनूमान्अङ्गुलीयकहस्तः)
 
-** हनूमान्—**(लङ्कां प्रविश्य) अहो [रावणभवनस्य विन्यासः](# "रावणस्य भवनविन्यासः.")!
+** हनूमान्—**(लङ्कां प्रविश्य) अहो रावणभवनस्य विन्यासः[^63]!
+
+[^63]: "रावणस्य भवनविन्यासः."
 
 कनकरचितचित्रतोरणाढ्या  
 मणिवरविद्रुमशोभितप्रदेशा।  
@@ -739,17 +863,25 @@ ACT V (शोकाङ्कः)
 पानागारनिशान्तदेशविवरेष्वाक्रान्तवानस्म्यहं  
 सर्वं भो! विचितं न चैव नृपतेः पत्नी मया दृश्यते ॥४॥**
 
-अहो व्यर्थो मे परिश्रमः। भवतु, एतद्धर्म्याग्रमारुह्यावलोकयामि। ([तथा कृत्वा](# "(अरुह्यावलोक्य).")) अये अयं प्रमदवनराशिः। इमं प्रविश्य परीक्षिष्ये। (प्रविश्यावलोक्य) अहो प्रमदवनसमृद्धिः! इह हि,
+अहो व्यर्थो मे परिश्रमः। भवतु, एतद्धर्म्याग्रमारुह्यावलोकयामि। (तथा कृत्वा[^64].")) अये अयं प्रमदवनराशिः। इमं प्रविश्य परीक्षिष्ये। (प्रविश्यावलोक्य) अहो प्रमदवनसमृद्धिः! इह हि,
 
-[कनकरचित](# "कनकरजत०")विद्रुमेन्द्रनीलैर्विकृतिमहाद्रुमपङ्क्तिचित्रदेशा।  
+[^64]: "(अरुह्यावलोक्य
+
+कनकरचित[^65]विद्रुमेन्द्रनीलैर्विकृतिमहाद्रुमपङ्क्तिचित्रदेशा।  
 रुचिरतरनगा विभाति शुभ्रा नभसि सुरेन्द्रविहारभूमिकल्पा॥५॥
+
+[^65]: "कनकरजत०"
 
  अपिच,
 
 चित्रप्रस्तुतहेमधातुरुचिराः शैलाश्च दृष्टा मया  
-नानावारिचराण्डजै[र्विरचिता](# "विचरिता.") दृष्टा मया दीर्घिकाः।  
+नानावारिचराण्डजैर्विरचिता[^66] दृष्टा मया दीर्घिकाः।  
 नित्यं पुष्पफलाढ्यपादपयुता देशाश्च दृष्टा मया  
-सर्वं दृष्टमिदं हि रावणगृहे सीता न [दृष्टा](# "सा दर्शिता..") मया॥६॥
+सर्वं दृष्टमिदं हि रावणगृहे सीता न दृष्टा[^67] मया॥६॥
+
+[^66]: "विचरिता."
+
+[^67]: "सा दर्शिता.."
 
  कोनुखल्वेतस्मिन् प्रदेशे सप्रभ इव दृश्यते! तत्र तावदवलोकयामि। (तथा कृत्वा) अये कानुस्वल्वियम्!
 
@@ -766,18 +898,24 @@ ACT V (शोकाङ्कः)
  अये कथं दीपिकावलोकः!(विलोक्य) अये रावणः!
 
 मणिविरचितमौलिश्चारुताम्रायताक्षो  
-[मदसललितगामी](# "मदविगलितगामी.") मत्तमातङ्गलीलः।  
-[युवतिजननिकाये](# "०जनसमूहे;० जनसमीपे")भात्यसौ राक्षसेशो  
+मदसललितगामी[^68] मत्तमातङ्गलीलः।  
+युवतिजननिकाये[^69]भात्यसौ राक्षसेशो  
 हरिरिव हरिणीनामन्तरे चेष्टमानः॥९॥
+
+[^68]: "मदविगलितगामी."
+
+[^69]: "०जनसमूहे;० जनसमीपे"
 
  किमिदानीं करिष्ये! भवतु, दृष्टम्। एनमशोकपादपमारुह्यकोटरान्तरितो भूत्वा दृढं वृत्तान्तं ज्ञास्यामि। (तथा करोति) (ततः प्रविशति रावणः सपरिवारः)
 
 ** रावणः—**
 
 दिव्यास्त्रैः सुरदैत्यदानवचमूविद्रावणं रावणं  
-युद्धे क्रुद्धसुरेभदन्त[कुलिशव्यालीढवक्षस्स्थलम्](# "०कुलिशप्रोत्कृष्टवक्षःस्थले।")।  
+युद्धे क्रुद्धसुरेभदन्तकुलिशव्यालीढवक्षस्स्थलम्[^70]।  
 सीता मामविवेकिनी न रमते सक्ता च मुग्धेक्षणा  
 क्षुद्रे क्षत्रियतापसे ध्रुवमहो देवस्य विघ्नक्रिया॥१०॥
+
+[^70]: "०कुलिशप्रोत्कृष्टवक्षःस्थले।"
 
  (ऊर्ध्वमवलोक्य) एष एष चन्द्रमाः,
 
@@ -799,7 +937,11 @@ ACT V (शोकाङ्कः)
 सीते! त्यज त्वं व्रतमुग्रचर्यं भजस्व मां भामिनि! सर्वगात्रै।  
 अपास्य तं मानुषमद्य भद्रे! गतायुषं कामपथान्निवृत्तम्॥१४॥
 
-** सीता—**हस्सो [खु रावणओ](# "खु सि रा० (खल्वसि रा०)"), जो वअणगदसिद्धिं वि ण [जाणादि](# "जाणासि (जानासि).")। \[हास्यः [खलु रावणकः](# "खु सि रा० (खल्वसि रा०)"), यो वचनगतसिद्धिमपि न [जानाति](# "जाणासि (जानासि).")।\]
+** सीता—**हस्सो खु रावणओ[^71]"), जो वअणगदसिद्धिं वि ण जाणादि[^72].")। \हास्यः [खलु रावणकः[^71]"), यो वचनगतसिद्धिमपि न जानाति[^72].")।\]
+
+[^71]: "खु सि रा० (खल्वसि रा०
+
+[^72]: "जाणासि (जानासि
 
 ** हनूमान्—**(सक्रोधम्) अहो रावणाख्यावलेपः!
 
@@ -845,14 +987,20 @@ ACT V (शोकाङ्कः)
 देवाः सेन्द्रादयो भग्ना दानवाश्च मया रणे।  
 सोऽहं मोहं गतोऽस्म्यद्य सीतायास्त्रिभिरक्षरैः॥१८॥
 
-(नेपथ्ये) [जयतु देवः।](# "जयतुदेवः.....जयतु महाराजः—इति नास्ति।") जयतु लङ्केश्वरः। जयतु स्वामी। जयतु महाराजः। दश नाडिकाः पूर्णाः। [अतिक्रामति](# "गतः पूर्वो यामः। अति०.") स्नानवेला। इत इतो महाराजः।
+(नेपथ्ये) जयतु देवः।[^75] जयतु लङ्केश्वरः। जयतु स्वामी। जयतु महाराजः। दश नाडिकाः पूर्णाः। अतिक्रामति[^76] स्नानवेला। इत इतो महाराजः।
+
+[^75]: "जयतुदेवः.....जयतु महाराजः—इति नास्ति।"
+
+[^76]: "गतः पूर्वो यामः। अति०."
 
 (निष्क्रान्तः सपरिवारो रावणः)
 
 ** हनूमान्—** हन्त निर्गतो रावणः, सुप्ताश्च राक्षसस्त्रियः। अयं कालो देवीमुपसर्पितुम्। (कोटरादवरुह्य) जयत्वविधवा!
 
 प्रेषितोऽहं नरेन्द्रेण रामेण विदितात्मना।  
-[त्वद्गतस्नेहसन्ता](# "त्वद्गतस्नेहसन्तापादवि०")पविक्लवीकृतचेतसा॥१९॥
+त्वद्गतस्नेहसन्ता[^77]पविक्लवीकृतचेतसा॥१९॥
+
+[^77]: "त्वद्गतस्नेहसन्तापादवि०"
 
 ** सीता**
 
@@ -860,28 +1008,42 @@ ACT V (शोकाङ्कः)
 
 (आत्मगतम्) कोणुखु अअं, पापरक्खसो अय्यउत्तकरओ त्ति अत्तानं ववदिसिअ वाणररुवेण मं वञ्चिदुकामो० भवे। भोदु, तुह्णिआ भविस्सं। \[कोनु खल्वयं, पापराक्षस आर्यपुत्रसंबन्धीत्यात्मानं व्यपदिश्य वानररूपेण मां वञ्चयितुकामो भवेत्। भवतु, तूष्णीका भविष्यामि।\]
 
-** हनूमान्—** कथं न [प्रत्येति](# "प्रत्याययति") भवती? अलमन्यशङ्कया। श्रोतुमर्हति भवती।
+** हनूमान्—** कथं न प्रत्येति[^78] भवती? अलमन्यशङ्कया। श्रोतुमर्हति भवती।
 
-इक्ष्वाकुकुलदीपेन सन्धाय [हरिणात्वहम्](# "हरिरित्यहम.")।  
+[^78]: "प्रत्याययति"
+
+इक्ष्वाकुकुलदीपेन सन्धाय हरिणात्वहम्[^79]।  
 प्रेषितस्त्वद्विचित्यर्थंहनूमान् नाम वानरः॥२०॥
+
+[^79]: "हरिरित्यहम."
 
 ** सीता—** (आत्मगतम्) जो वा को वा भोदु। अध्यउत्तणामसंकित्तणेण अहं एदेणअभिभासिस्सं। (प्रकाशम्) भद्द! को वुत्तन्तो अय्यउत्तस्स? \[यो वा को वा भवतु। आर्यपुत्रसंकीर्तनेनाहमेतेनाभिभाषिष्ये। (प्रकाशम्) भद्र! को वृत्तान्त आर्यपुत्रस्य?\]
 
 ** हनुमान्—** भवति श्रूयताम्,
 
-अनशनपरितप्तं पाण्डु [स](# "संक्षाम०")क्षामवक्त्रं  
+अनशनपरितप्तं पाण्डु स[^80]क्षामवक्त्रं  
 तव वरगुणचिन्तावीतलावण्यलीलम्।  
 वहतिविगतधैर्यं हीयमानं शरीरं  
 मनसिजशरदग्धं वाष्पपर्याकुलाक्षम् ॥२१॥
 
-** सीता—** ([आत्मगतम्](# "(स्वगतम्)")) हद्धि! [वीलिआ](# "इति !अदिधीर।......; पीडिदा.") खु म्हि मन्दभाआ एवं सोअन्तं अय्यउत्त सुणिअ।  अय्यउत्तस्स विरहपरिस्समो वि मे सफलो [संवृत्तो](# "संवुत्तो। जहि [यदि]........")त्ति पेक्स्वामि, जदि खु अअं वाणरो सच्चं मन्तेदि। अय्यउत्तस्स इमस्सिं जणे अणुक्कोसं परिस्समं च सुणिअ सहस्स दुक्खस्स अ अन्तरे डोलाअदि विअ मे हिअअं। (प्रकाशम्) भद्द! कहं तुम्हेहि अय्यउत्तस्स सङ्गमो जादो? \[हा [धिग्! व्रीडित।](# "इति !अदिधीर।......; पीडिदा.") खल्वस्मि मन्दभागा एवं शोचन्तमार्यपुत्रं श्रुत्वा। आर्यपुत्रस्य विरहपरिश्रमोऽषि मे सफलः[संवृत्त](# "संवुत्तो। जहि [यदि]........")इति पश्यामि, यदि खल्वयं वानरः सत्यं मन्त्रयते। आर्यपुत्रस्यास्मिन् जनेऽनुक्रोशं परिश्रमं च श्रुत्वा सुखस्य दुःखस्य चान्तरे दोलायत इव मे हृदयम्। (प्रकाशम्) भद्र! कथं युष्मामिरार्यपुत्रसंगमो जातः?\]
+[^80]: "संक्षाम०"
+
+** सीता—** (आत्मगतम्[^81]")) हद्धि! वीलिआ[^82] खु म्हि मन्दभाआ एवं सोअन्तं अय्यउत्त सुणिअ।  अय्यउत्तस्स विरहपरिस्समो वि मे सफलो संवृत्तो[^83]त्ति पेक्स्वामि, जदि खु अअं वाणरो सच्चं मन्तेदि। अय्यउत्तस्स इमस्सिं जणे अणुक्कोसं परिस्समं च सुणिअ सहस्स दुक्खस्स अ अन्तरे डोलाअदि विअ मे हिअअं। (प्रकाशम्) भद्द! कहं तुम्हेहि अय्यउत्तस्स सङ्गमो जादो? \हा [धिग्! व्रीडित।[^82] खल्वस्मि मन्दभागा एवं शोचन्तमार्यपुत्रं श्रुत्वा। आर्यपुत्रस्य विरहपरिश्रमोऽषि मे सफलःसंवृत्त[^83]इति पश्यामि, यदि खल्वयं वानरः सत्यं मन्त्रयते। आर्यपुत्रस्यास्मिन् जनेऽनुक्रोशं परिश्रमं च श्रुत्वा सुखस्य दुःखस्य चान्तरे दोलायत इव मे हृदयम्। (प्रकाशम्) भद्र! कथं युष्मामिरार्यपुत्रसंगमो जातः?\]
+
+[^81]: "(स्वगतम्
+
+[^82]: "इति !अदिधीर।......; पीडिदा."
+
+[^83]: "संवुत्तो। जहि [यदि]........"
 
 ** हनूमान्—** भवति, श्रूयताम्,
 
-हत्वा वालिनमाहवें कपिवरं त्वत्कारणा[दग्रजं](# "०कारणाद् भामिनि.")  
+हत्वा वालिनमाहवें कपिवरं त्वत्कारणादग्रजं[^86]  
 सुग्रीवस्य कृतं नरेन्द्रतनये! राज्यं हरीणां ततः।  
 राज्ञा त्वद्विचयाय चापि हरयः सर्वा दिशः प्रेषिता  
 स्तेषामस्म्यहमद्य गृध्रवचनात् त्वां देवि! सम्प्राप्तवान्॥२२॥
+
+[^86]: "०कारणाद् भामिनि."
 
  अपि च,.... ईदृशमिव।
 
@@ -892,7 +1054,9 @@ ACT V (शोकाङ्कः)
 प्रगृहीतमहाचापो वृतो वानरसेनया।  
 समुद्धर्तुंदशग्रीवं लङ्कामेवाभियास्यति॥२३॥
 
-** सीता—**किण्णुखु सिविणो मए दिठ्ठो। [भद्द](# "'भद्द' इति नास्ति ")! अवि सच्चं? ण आणामि। \[किन्नुखलु स्वप्नो मया दृष्टः! भद्र! अपि सत्यम्? न जानामि।\]
+** सीता—**किण्णुखु सिविणो मए दिठ्ठो। भद्द[^87]! अवि सच्चं? ण आणामि। \[किन्नुखलु स्वप्नो मया दृष्टः! भद्र! अपि सत्यम्? न जानामि।\]
+
+[^87]: "'भद्द' इति नास्ति "
 
 ** हनूमान्—**(स्वगृतम् ) भोः! कष्टम्।
 
@@ -902,7 +1066,9 @@ ACT V (शोकाङ्कः)
 (प्रकाशम्) भवति! अयमिदानीं,
 
 समुदितवरचापबाणपाणिं पतिमिह राजसुते! तवानयामि।  
-[भव हि](# "भवति; ०वसि.")विगतसंशया मयि त्वं नरवरपार्श्वगता विनीतशोका॥२५॥
+भव हि[^88]विगतसंशया मयि त्वं नरवरपार्श्वगता विनीतशोका॥२५॥
+
+[^88]: "भवति; ०वसि."
 
 ** सीता—**भद्द! एदं मे अवत्थं सुणिअ अय्यउत्तो जह सोअपरवसो ण होइ, तह मे उत्तन्तं भणेहि। \[भद्र! एतां मेऽवस्थां श्रुत्वार्यपुत्रो यथाशोकपरवशो न भवति, तथा मे वृत्तान्तं भण।\]
 
@@ -978,7 +1144,9 @@ ACT V (शोकाङ्कः)
 
 ** शङ्कुकर्णः—**जयतु महाराजः। महाराज! महाबलः खलु स वानरः। तेन खलु मृणालवदुत्पाटिताः सालवृक्षाः, मुष्टिना भग्नो दारुपर्वतकः, पाणितलाभ्यामभिमृदितानि लतागृहाणि, नादेनैव विसंज्ञीकृताः प्रमदवनपालाः। तस्य ग्रहणसमर्थं बलमाज्ञापयितुमर्हति महाराजः।
 
-** रावणः—**[तेन हि किङ्कराणां](# "तेन हि अस्ति तु किङ्क०") सहस्रं बलमाज्ञापय वानरग्रहणाय!
+** रावणः—**तेन हि किङ्कराणां[^89] सहस्रं बलमाज्ञापय वानरग्रहणाय!
+
+[^89]: "तेन हि अस्ति तु किङ्क०"
 
 ** शङ्कुकर्णः—**यदाज्ञापयति महाराजः। (निष्क्रम्य, प्रविश्य) जयतु महाराजः!
 
@@ -996,7 +1164,9 @@ ACT V (शोकाङ्कः)
 
 (प्रविश्य)
 
-** शङ्कुकर्णः—**[अनन्तरीयं](# "आनन्तर्यं बल०") बलमाज्ञापयितुमर्हति महाराजः।
+** शङ्कुकर्णः—**अनन्तरीयं[^90] बलमाज्ञापयितुमर्हति महाराजः।
+
+[^90]: "आनन्तर्यं बल०"
 
 ** रावणः—**किमर्थम्?
 
@@ -1010,17 +1180,25 @@ ACT V (शोकाङ्कः)
 
 ** शङ्कुकर्णः**—ततः कुमारमक्षं
 
-[क्रोधात्](# "रोषात्") संरक्तनेत्रं त्वरिततरहयं स्यन्दनं वाहयन्तं  
+क्रोधात्[^91] संरक्तनेत्रं त्वरिततरहयं स्यन्दनं वाहयन्तं  
 प्रावृटकालाभ्रकल्पं परमलघुतरं वाणनालान् वमन्तम्।  
 तान् वाणान् निर्विधून्वन् कपिरपि सहसा तद्रथं लङ्घयित्वा  
 कण्ठे संगृह्य धृष्टं मुदिततरमुखो मुष्ठिना निर्जघान॥७॥
 
-** रावणः**—([सरोष](# "(सक्रोधम्) तिष्ठ.....")म्) आः, कथं कथं निर्जघानेति?
+[^91]: "रोषात्"
 
-तिष्ठ त्वमहमेवैनमासाद्य [कपिजन्तुकम्](# "कपिकीटकम्")।  
+** रावणः**—(सरोष[^92] तिष्ठ.....")म्) आः, कथं कथं निर्जघानेति?
+
+[^92]: "(सक्रोधम्
+
+तिष्ठ त्वमहमेवैनमासाद्य कपिजन्तुकम्[^93]।  
 एष भस्मीकरोम्यस्मत्क्रोधानलकणैः क्षणात्॥८॥
 
-** शङ्कुकर्णः**—प्रसीदतु प्रसीदतु महाराजः! कुमारमक्षं निहतं श्रुत्वा क्रोधाविष्टहृदयः [कुमारेन्द्रजिद](# "कुमार इन्द्रजिद्०")भिगतवांस्तं वनौकसम्।
+[^93]: "कपिकीटकम्"
+
+** शङ्कुकर्णः**—प्रसीदतु प्रसीदतु महाराजः! कुमारमक्षं निहतं श्रुत्वा क्रोधाविष्टहृदयः कुमारेन्द्रजिद[^94]भिगतवांस्तं वनौकसम्।
+
+[^94]: "कुमार इन्द्रजिद्०"
 
 ** रावणः**—तेन हि गच्छ। भूयोज्ञायतां वृत्तान्तः।
 
@@ -1032,7 +1210,9 @@ ACT V (शोकाङ्कः)
 अ
 
 वश्यं युधि वीराणां वधो वा विजयोऽथवा।  
-तथापि क्षुद्रकर्मेदं [मह्यमीषन्मनोज्वरः](# "'मह्यमीषां मनोज्वरः' इति ग० शास्त्रिणो मूलमातृकायाम् वर्तते।")॥९॥
+तथापि क्षुद्रकर्मेदं मह्यमीषन्मनोज्वरः[^95]॥९॥
+
+[^95]: "'मह्यमीषां मनोज्वरः' इति ग० शास्त्रिणो मूलमातृकायाम् वर्तते।"
 
  (प्रविश्य) **शङ्कुकर्णः—** जयतु महाराजः। जयतु लङ्केश्वरः। जयतु भद्रमुखः।
 
@@ -1069,10 +1249,14 @@ ACT V (शोकाङ्कः)
 
 (ततः प्रविशति विभीषणः)
 
-** विभीषणः—**([सुविमर्शम् ) अहोतुखलु महाराजस्य](# "(सविस्मयम्) अहो महाराजस्य ...") विपरीता खलु बुद्धिः संवृत्ता! कुतः
+** विभीषणः—**(सुविमर्शम् ) अहोतुखलु महाराजस्य[^96] अहो महाराजस्य ...") विपरीता खलु बुद्धिः संवृत्ता! कुतः
+
+[^96]: "(सविस्मयम्
 
 मयोक्तो मैथिली तस्मै बहुशो दीयतामिति।  
-[न मे शृणोति वचनं](# "शृणोति मे न वचनं.") सुहृदां शोककारणात्॥१३॥
+न मे शृणोति वचनं[^97] सुहृदां शोककारणात्॥१३॥
+
+[^97]: "शृणोति मे न वचनं."
 
 (उपेत्य) जयतु महाराजः।
 
@@ -1103,9 +1287,13 @@ ACT V (शोकाङ्कः)
 
 ** रावणः—**(सावज्ञम्) विभीषण! किमस्य तत् कर्म?
 
-** विभीषणः—**महाराज! [अतोऽप्यधिकम्](# "अचाधिकम्.")।
+** विभीषणः—**महाराज! अतोऽप्यधिकम्[^98]।
 
-** रावणः—**[कथं त्वमवगच्छसि](# "कथं भवाञ्जानाति ?")?
+[^98]: "अचाधिकम्."
+
+** रावणः—**कथं त्वमवगच्छसि[^99]?
+
+[^99]: "कथं भवाञ्जानाति ?"
 
 ** विभीषणः—**प्रष्टुमर्हति महाराजः कस्त्वमिति।
 
@@ -1151,7 +1339,9 @@ ACT V (शोकाङ्कः)
 अपास्य मायया रामं त्वया राक्षसपुङ्गव।  
 भिक्षुवेषं समास्थायच्छलेनापहृता हि सा॥१८॥
 
-** रावणः—**विभीषण! किं [विपक्षपक्षमवलम्बसे](# "शत्रुपक्षमवलम्बसे ?")?
+** रावणः—**विभीषण! किं विपक्षपक्षमवलम्बसे[^100]?
+
+[^100]: "शत्रुपक्षमवलम्बसे ?"
 
 ** विभीषणः—**
 
@@ -1167,7 +1357,9 @@ ACT V (शोकाङ्कः)
 **कथं लम्बसटः सिंहो मृगेण विनिपात्यते।  
 गजो वा सुमहान् मत्तः शृगालेन निहन्यते॥२०॥**
 
-** हनूमान्—**भो रावण! विपद्यमानभाग्येन [भवता](# "त्वया") किं युक्तं राघवमेवं वक्तुम्? मा तावद् भोः!
+** हनूमान्—**भो रावण! विपद्यमानभाग्येन भवता[^101] किं युक्तं राघवमेवं वक्तुम्? मा तावद् भोः!
+
+[^101]: "त्वया"
 
 नक्तञ्चरापसद! रावण! राघवं तं  
 वीराग्रगण्यमतुलं त्रिदशेन्द्रकल्पम्।  
@@ -1182,7 +1374,9 @@ ACT V (शोकाङ्कः)
 
 ** हनूमान्—**अयमस्मि।
 
-** रावणः—**अभिधीयतां मद्वचनात् स[मानुषः](# "“मा तावद् भोः")।
+** रावणः—**अभिधीयतां मद्वचनात् समानुषः[^102]।
+
+[^102]: "“मा तावद् भोः"
 
 अभिभूतो मया राम! दारापहरणादसि।  
 यदि तेऽस्ति धनुःश्लाघा दीयतां मे रणो महान्॥२२॥
@@ -1196,9 +1390,13 @@ ACT V (शोकाङ्कः)
 
 ** रावणः—**निर्वस्यतामयं वानरः।
 
-** राक्षसः—**इत इतः।                ([रक्षोभिः सह निष्क्रान्तो](# "(राक्षसैर्गृहीतो हनुमान् निष्क्रान्तः)") हनूमान्)
+** राक्षसः—**इत इतः।                (रक्षोभिः सह निष्क्रान्तो[^103]") हनूमान्)
 
-** विभीषणः—** [प्रसीदतु प्रसीदतु](# "‘प्रसीदतु.... राजः' इति नास्ति.") महाराजः। अस्ति काचिद् विवक्षा महाराजस्यहितमन्तरेण।
+[^103]: "(राक्षसैर्गृहीतो हनुमान् निष्क्रान्तः
+
+** विभीषणः—** प्रसीदतु प्रसीदतु[^104] महाराजः। अस्ति काचिद् विवक्षा महाराजस्यहितमन्तरेण।
+
+[^104]: "‘प्रसीदतु.... राजः' इति नास्ति."
 
 ** रावणः—**उच्यतां तच्छ्रेयो वयमपि श्रोतारः।
 
@@ -1231,7 +1429,11 @@ ACT V (शोकाङ्कः)
 ** रावणः—**(सावज्ञम्) कथं कथं बलवद्विग्रहो नाम?
 
 शत्रुपक्षमुपाश्रित्य मामयं राक्षसाधमः।  
-[क्रोधमाहारयंस्तीव्र](# "क्रोधमाहारयत्तीव्रं")मभीरुरभि[भाषते](# "० भाषसे.")॥२४॥  
+क्रोधमाहारयंस्तीव्र[^105]मभीरुरभिभाषते[^106]॥२४॥  
+
+[^105]: "क्रोधमाहारयत्तीव्रं"
+
+[^106]: "० भाषसे."
 
 
  कोऽत्र?
@@ -1257,7 +1459,9 @@ ACT V (शोकाङ्कः)
 
 ** रावणः—**हन्त, निर्गतो विभीषणः। यावदहमपि नगररक्षां सम्पादयामि।
 
-([निष्क्रान्तः)](# "(निष्क्रान्ताःसर्वे)")
+(निष्क्रान्तः)[^107]")
+
+[^107]: "(निष्क्रान्ताःसर्वे
 
 **तृतीयोऽङ्कः**
 
@@ -1267,7 +1471,9 @@ ACT V (शोकाङ्कः)
 
 **अथ चतुर्थोऽङ्कः**
 
-(ततः प्रविशति [वानरकाञ्चुकीयः](# "(ततः प्रविशति काञ्चुकीयः)"))
+(ततः प्रविशति वानरकाञ्चुकीयः[^108]"))
+
+[^108]: "(ततः प्रविशति काञ्चुकीयः
 
 ** काञ्चुकीयः—**भो भो बलाध्यक्ष! सन्नाहमाज्ञापय वानरवाहिनीम्।
 
@@ -1286,13 +1492,17 @@ ACT V (शोकाङ्कः)
 
 ** बलाध्यक्षः—**एवम्। यदाज्ञापयति महाराजः।
 
-** काञ्चुकीयः—**यावदहमपि सन्नद्धा वानरवाहिनीति महा[राजाय](# "०राजस्व") निवेदयामि।
+** काञ्चुकीयः—**यावदहमपि सन्नद्धा वानरवाहिनीति महाराजाय[^109] निवेदयामि।
+
+[^109]: "०राजस्व"
 
 (निष्क्रान्तौ)
 
 **विष्कम्भकः**
 
-(ततः प्रविशति रामो[लक्ष्मणः सुग्रीवो हनुमांश्](# "(... लक्ष्मणसुग्रीवहनुमद्भिःसह)")च)
+(ततः प्रविशति रामोलक्ष्मणः सुग्रीवो हनुमांश्[^110]")च)
+
+[^110]: "(... लक्ष्मणसुग्रीवहनुमद्भिःसह
 
 ** रामः—**
 
@@ -1303,8 +1513,10 @@ ACT V (शोकाङ्कः)
 
 ** लक्ष्मणः—**एष एष भगवान् वरुणः,
 
-सजलजलधरेन्द्रनीलनीरो विलुलितफेनतरङ्गचारु[हारः](# "०हासः")।  
+सजलजलधरेन्द्रनीलनीरो विलुलितफेनतरङ्गचारुहारः[^111]।  
 समधिगतनदीसहस्रबाहुर्हरिरिव भाति सरित्पतिः शयानः॥३॥
+
+[^111]: "०हासः"
 
 ** रामः—**कथं कथं भोः!
 
@@ -1314,9 +1526,11 @@ ACT V (शोकाङ्कः)
 ** सुग्रीवः—** अये! वियति
 
 सजलजलदसन्निभप्रकाशः  
-[कनकमया](# "कनकमयाङ्गद०")मलभूषणोज्ज्वलाङ्गः।  
+कनकमया[^112]मलभूषणोज्ज्वलाङ्गः।  
 अभिपतति कुतो नु राक्षसोऽसौ  
 शलभ इवाशु हुताशनं प्रवेष्टुम्॥५॥
+
+[^112]: "कनकमयाङ्गद०"
 
 ** हनूमान्—** भो भोवानरवीराः! अप्रमत्ता भवन्तु भवन्तः।
 
@@ -1329,7 +1543,9 @@ ACT V (शोकाङ्कः)
 
 (ततः प्रविशति विभीषणः)
 
-**विभीषणः—**भोः! प्राप्तोऽस्मि राघवस्य शिबिरसन्निवेशम्। (विचिन्त्य) अकृतदूतसम्प्रेषणमविदितागमनममित्रसम्बन्धिनं कथंनुखलु मामवगच्छेत् तत्रभवान् राघवः! [कुतः](# "अपि च."),
+**विभीषणः—**भोः! प्राप्तोऽस्मि राघवस्य शिबिरसन्निवेशम्। (विचिन्त्य) अकृतदूतसम्प्रेषणमविदितागमनममित्रसम्बन्धिनं कथंनुखलु मामवगच्छेत् तत्रभवान् राघवः! कुतः[^113],
+
+[^113]: "अपि च."
 
 क्रुद्धस्य यस्य पुरतः
 
@@ -1344,7 +1560,9 @@ ACT V (शोकाङ्कः)
 दृष्टधर्मार्थतत्त्वोऽयं साधुः संश्रितवत्सलः।  
 शङ्कनीयः कथं रामो विशुद्धमनसा मया॥८॥
 
-(अधोऽवलोक्य) इदं रघुकुलवृषभस्य स्कन्धावारम्। यावदवतरामि ([अवतीर्य](# "(अवतरति)")) हन्त! इह स्थित्वा ममागमनं देवाय निवेदयामि।
+(अधोऽवलोक्य) इदं रघुकुलवृषभस्य स्कन्धावारम्। यावदवतरामि (अवतीर्य[^114]")) हन्त! इह स्थित्वा ममागमनं देवाय निवेदयामि।
+
+[^114]: "(अवतरति
 
 ** हनूमान्—**(ऊर्ध्वमवलोक्य) अये, कथं तत्रभवान् विभीषणः!
 
@@ -1368,11 +1586,19 @@ ACT V (शोकाङ्कः)
 देवे यथा वयं भक्तास्तथा मन्ये विभीषणम्।  
 भ्रात्रा विवदमानोऽपि दृष्टः पूर्वं पुरे मया॥१०॥
 
-** रामः—**[यद्येवं, गच्छ](# "तेन हि गच्छ."), सत्कृत्य प्रवेश्यतां विभीषणः।
+** रामः—**यद्येवं, गच्छ[^115], सत्कृत्य प्रवेश्यतां विभीषणः।
 
-** लक्ष्मणः—**यदाज्ञापयत्यार्यः।[(परिक्रम्य)](# "(उपसृत्य).") अये [विभीषणः](# "विभीषणः। अपि....")! विभीषण! अपि कुशली भवान्?
+[^115]: "तेन हि गच्छ."
 
-** विभीषणः—**[अये कुमारो](# "विभीषणः—कुमार....") लक्ष्मणः! कुमार! अद्य कुशली संवृत्तोऽस्मि।
+** लक्ष्मणः—**यदाज्ञापयत्यार्यः।(परिक्रम्य)[^116].") अये विभीषणः[^117]! विभीषण! अपि कुशली भवान्?
+
+[^116]: "(उपसृत्य
+
+[^117]: "विभीषणः। अपि...."
+
+** विभीषणः—**अये कुमारो[^118] लक्ष्मणः! कुमार! अद्य कुशली संवृत्तोऽस्मि।
+
+[^118]: "विभीषणः—कुमार...."
 
 ** लक्ष्मणः—**विभीषण! उपसर्पावस्तावदार्यम्।
 
@@ -1458,15 +1684,21 @@ ACT V (शोकाङ्कः)
 
 क्वचित् फेनोद्गारी क्वचिदपि च मीनाकुलजलः  
 
-क्वचिच्छङ्खाकीर्णः क्वचिदपि च [नीलाम्बुदनिभः](# "नीलाम्बुदनिभः")।  
-क्वचिद् वीचीमालः क्वचिदपि च [नक्रप्रतिभयः](# "नक्रप्रतिभयः")  
+क्वचिच्छङ्खाकीर्णः क्वचिदपि च नीलाम्बुदनिभः[^119]।  
+क्वचिद् वीचीमालः क्वचिदपि च नक्रप्रतिभयः[^120]  
 क्वचिद् भीमावर्तः क्वचिदपि च निष्कम्पसलिलः॥१७॥
+
+[^119]: "नीलाम्बुदनिभः"
+
+[^120]: "नक्रप्रतिभयः"
 
 भगवत्प्रसादादतीतः सागरः।
 
 ** हनूमान्—**देव! इयमियं लङ्का।
 
-** रामः—**(चिरं विलोक्य) अहो राक्षसनगरस्य [श्रीरचिराद्](# "परा लक्ष्मीरचिराद") विपत्स्यते!
+** रामः—**(चिरं विलोक्य) अहो राक्षसनगरस्य श्रीरचिराद्[^121] विपत्स्यते!
+
+[^121]: "परा लक्ष्मीरचिराद"
 
 मम शरवरवातपातभग्ना  
 कपिवरसैन्यतरङ्गताडितान्ता।  
@@ -1476,16 +1708,22 @@ ACT V (शोकाङ्कः)
  सुग्रीव! अस्मिन् सुवेलपर्वते क्रियतां सेनानिवेशः।         
 (उपविशति)
 
-** सुग्रीवः—**यदाज्ञापयति [देवः](# "महाराजः")। नील! एवं क्रियताम्।
+** सुग्रीवः—**यदाज्ञापयति देवः[^122]। नील! एवं क्रियताम्।
 
-(प्रविश्य) **नीलः—**यदाज्ञापयति महाराजः। (निष्क्रम्य, प्रविश्य) जयतु देवः! क्रमान्निवेश्यमानासु सेनासुवृन्दपरिग्रहेषु परीक्ष्यमाणेषु पुस्तकप्रामाण्यात् कुतश्चिदप्यविज्ञायमानौ द्वौ वनौकसौ गृहीतौ। वयं न जानीमः कर्तव्यम्।[देवस्तस्मात् प्रमाणम्।](# "तस्माद्देव एव प्रमाणम्.")
+[^122]: "महाराजः"
+
+(प्रविश्य) **नीलः—**यदाज्ञापयति महाराजः। (निष्क्रम्य, प्रविश्य) जयतु देवः! क्रमान्निवेश्यमानासु सेनासुवृन्दपरिग्रहेषु परीक्ष्यमाणेषु पुस्तकप्रामाण्यात् कुतश्चिदप्यविज्ञायमानौ द्वौ वनौकसौ गृहीतौ। वयं न जानीमः कर्तव्यम्।देवस्तस्मात् प्रमाणम्।[^123]
 
 ** रामः—**शीघ्रं प्रवेशयत्वेतौ।
+
+[^123]: "तस्माद्देव एव प्रमाणम्."
 
 ** नीलः—**यदाज्ञापयति देवः।                    
    (निष्क्रान्तः)
 
-(ततः प्रविशतिनीलो वानरैर्गृह्यमाणो वानररूप[धारिणी](# "धारिणौ शुक्र") सम्पुटिकाहस्तौ शुक्रसारणौ च)
+(ततः प्रविशतिनीलो वानरैर्गृह्यमाणो वानररूपधारिणी[^124] सम्पुटिकाहस्तौ शुक्रसारणौ च)
+
+[^124]: "धारिणौ शुक्र"
 
 ** वानराः—**अङ्धो भणथ।तुम्हे भणथ। \[अङधोभणतं; कौयुवां भणतम्।\]
 
@@ -1500,7 +1738,9 @@ ACT V (शोकाङ्कः)
 
 ** उभौ—**(आत्मगतम्) हन्त! कुमारेण विज्ञातौ स्वः। (प्रकाशम्) आर्य! आवां खलु राक्षसराजस्य विप्रतिपत्त्या विपद्यमानं राक्षसकुलं दृष्ट्वास्पदमलभमानौ आर्यसंश्रयार्थं वानररूपेण सम्प्राप्तौ।
 
-** रामः—**वयस्य! विभीषण! कथमिव [भवान्](# "तर्कयति ?") मन्यते?
+** रामः—**वयस्य! विभीषण! कथमिव भवान्[^125] मन्यते?
+
+[^125]: "तर्कयति ?"
 
 ** विभीषणः—**देव!
 
@@ -1508,7 +1748,9 @@ ACT V (शोकाङ्कः)
 
 प्राणान्तिकेऽपि व्यसने लङ्केशं नैव मुञ्चतः॥२०॥
 
- तस्माद् यथार्हं दण्डमाज्ञापयतु [देवः](# "माज्ञापयितुमर्हति महाराजः")।
+ तस्माद् यथार्हं दण्डमाज्ञापयतु देवः[^126]।
+
+[^126]: "माज्ञापयितुमर्हति महाराजः"
 
 ** रामः—**विभीषण! मा मैवम्।
 
@@ -1532,11 +1774,15 @@ ACT V (शोकाङ्कः)
 
 ** उभौ—** यदाज्ञापयति देवः।
 
-** रामः—**विभीषण! वयमपि ताव[दानन्तरीयं बलं](# "दानन्तर्यं बलं.") परीक्षिष्यामहे।
+** रामः—**विभीषण! वयमपि तावदानन्तरीयं बलं[^127] परीक्षिष्यामहे।
+
+[^127]: "दानन्तर्यं बलं."
 
 ** विभीषणः—**यदाज्ञापयति देवः।
 
-** रामः—**(परिक्रम्य विलोक्य) अस्तमितो भवान् दिवाकरः। [सम्प्रति](# "कुतः") हि,
+** रामः—**(परिक्रम्य विलोक्य) अस्तमितो भवान् दिवाकरः। सम्प्रति[^128] हि,
+
+[^128]: "कुतः"
 
 अस्ताद्रिमस्तकगतः प्रतिसंहृतांशुः  
 सन्ध्यानुरञ्जितवपुः प्रतिभाति सूर्यः।  
@@ -1561,11 +1807,15 @@ ACT V (शोकाङ्कः)
 
 ** राक्षसः**— आर्य! अयमस्मि। किं क्रियताम्?
 
-** काञ्चुकीयः**— गच्छ, महाराजस्य [शासनाद्](# "वचनाद्.") विद्युज्जिह्वस्तावदाहूयताम्।
+** काञ्चुकीयः**— गच्छ, महाराजस्य शासनाद्[^129] विद्युज्जिह्वस्तावदाहूयताम्।
+
+[^129]: "वचनाद्."
 
 ** राक्षसः**— आर्य! तथा।(निष्क्रान्तः)
 
-** काञ्चुकीयः**— अहोतुखलु विपद्यमानाभ्युदये [राक्षसकुले](# "राक्षसराजकुले") विपन्नसर्वसाधनस्य निहतवीरपुरुषस्य स्वयं च प्राणसंशयं प्राप्तस्येदानीमपि प्रसन्नत्वं नोपगच्छति महाराजस्य बुद्धिः। को हि नाम,
+** काञ्चुकीयः**— अहोतुखलु विपद्यमानाभ्युदये राक्षसकुले[^130] विपन्नसर्वसाधनस्य निहतवीरपुरुषस्य स्वयं च प्राणसंशयं प्राप्तस्येदानीमपि प्रसन्नत्वं नोपगच्छति महाराजस्य बुद्धिः। को हि नाम,
+
+[^130]: "राक्षसराजकुले"
 
 चलत्तरङ्गाहतभीमवेलमुदीर्णनक्राकुलनीलनीरम्।  
 समुद्रमाक्रान्तमवेक्ष्य तस्मै दारप्रदानान्न करोति शान्तिम्॥१॥
@@ -1577,12 +1827,16 @@ ACT V (शोकाङ्कः)
 
 एवमपि गते,
 
-[मदनवशगतो](# "मदनपरवशो") महानयार्थं सचिववचोऽप्यनवेक्ष्य वीरमानी।  
+मदनवशगतो[^131] महानयार्थं सचिववचोऽप्यनवेक्ष्य वीरमानी।  
 रघुकुलवृषभस्य तस्य देवीं जनकसुतां न ददाति योद्धुकामः॥३॥
+
+[^131]: "मदनपरवशो"
 
 (प्रविश्य) **विद्युज्जिह्वः**— अपि सुखमार्यस्य?
 
-** काञ्चुकीयः**— विद्युज्जिह्व! गच्छ, [महाराजवचनाद्](# "महाराजस्य शासनाद्-")रामलक्ष्मणयोः शिरःप्रतिकृतिरानीयताम्।
+** काञ्चुकीयः**— विद्युज्जिह्व! गच्छ, महाराजवचनाद्[^132]रामलक्ष्मणयोः शिरःप्रतिकृतिरानीयताम्।
+
+[^132]: "महाराजस्य शासनाद्-"
 
 ** विद्युज्जिह्वः**— यदाज्ञापयति महाराजः।             
 (निष्क्रान्तः)
@@ -1594,7 +1848,9 @@ ACT V (शोकाङ्कः)
 
 (ततः प्रविशति राक्षसीगणपरिवृता सीता)
 
-** सीता—**किण्णुहु अय्यउत्तम्स आगमणेण पहलादिअस्स हिअअस्स अज्ज आवेओ विअ संवृत्तो! अणिठ्ठ\।णि णिमित्ताणि अ दिस्सन्ति। एवं वि [दाणि](# "दाव (तावत्)") (अच्चाहिअं?) हिअअस्समहन्तो अब्भुदओ वढ्ढइ।सव्वहा इसरा सन्ति करन्तु। \[किन्नुखल्वार्यपुत्रस्यागमनेन प्रह्लादितस्य हृदयस्याद्यावेग इव संवृत्तः! अनिष्टानि निमित्तानि च दृश्यन्ते। [एवमपीदानीं](# "दाव (तावत्)") हृदयस्य महानभ्युदयो वर्धते। सर्वथेश्वराः शान्ति कुर्वन्तु।\]
+** सीता—**किण्णुहु अय्यउत्तम्स आगमणेण पहलादिअस्स हिअअस्स अज्ज आवेओ विअ संवृत्तो! अणिठ्ठ\।णि णिमित्ताणि अ दिस्सन्ति। एवं वि दाणि[^133]") (अच्चाहिअं?) हिअअस्समहन्तो अब्भुदओ वढ्ढइ।सव्वहा इसरा सन्ति करन्तु। \किन्नुखल्वार्यपुत्रस्यागमनेन प्रह्लादितस्य हृदयस्याद्यावेग इव संवृत्तः! अनिष्टानि निमित्तानि च दृश्यन्ते। [एवमपीदानीं[^133]") हृदयस्य महानभ्युदयो वर्धते। सर्वथेश्वराः शान्ति कुर्वन्तु।\]
+
+[^133]: "दाव (तावत्
 
 (ततः प्रविशति रावणः)
 
@@ -1608,23 +1864,31 @@ ACT V (शोकाङ्कः)
 भवति ! तिष्ठ तिष्ठ। न खलु न खलु गन्तव्यम्। किं ब्रवीषि— उत्सृज्य त्वां राममुपगच्छमीति? आः अपध्वंस !
 
 बलादेव गृहीतासि तदा वैश्रवणालये।  
-[वलादेव ग्रहीष्ये](# "बलात्पुनर्ग्रहीष्ये.") त्वां हत्वा राघवमाहवे॥५॥
+वलादेव ग्रहीष्ये[^135] त्वां हत्वा राघवमाहवे॥५॥
+
+[^135]: "बलात्पुनर्ग्रहीष्ये."
 
  किमनया ? यावदहमपि सीतां विलोभयिष्ये। (मदनावेशं निरूप्य) अहोतुखल्वतुलबलता कुसमधन्वनः ! कुतः,
 
-निद्रां मे निशि [विस्मरन्ति](# "न स्मरन्ति.") नयनान्यालोक्य सीताननं  
+निद्रां मे निशि विस्मरन्ति[^136] नयनान्यालोक्य सीताननं  
 तत्संश्लेषसुखार्थिनी तनुतरा याता तनुः पाण्डुताम्।  
 सन्तापं रमणीयवस्तुविषये बध्नाति पुष्पेषुणा  
 कष्टंनिर्जितविष्टपत्रयभुजो निर्जीयते रावणः॥६॥
 
-सीते! त्यज [त्वमरविन्दपलाशनेत्रे](# "०विन्दविशालनेत्रे.")!  
+[^136]: "न स्मरन्ति."
+
+सीते! त्यज त्वमरविन्दपलाशनेत्रे[^137]!  
 चित्तं हि मानुषगतं मम चित्तनाथे !  
 शस्त्रेण मेऽद्य समरे विनिपात्यमानं  
 प्रेक्षस्व लक्ष्मणयुतं तव चित्तकान्तम् ॥७॥
 
+[^137]: "०विन्दविशालनेत्रे."
+
 ** सीता—** हंमूढो खु सि रावणओ, जो मन्दरं हत्थेण तुलयिदुकामो। हं मूढः खल्वसि रावणकः, यो मन्दरं हस्तेन तुलयितुकामः।\]
 
-(प्रविश्य) **[राक्षसः](# "काञ्चुकीयः")—**जयतु महाराजः।
+(प्रविश्य) **राक्षसः[^138]—**जयतु महाराजः।
+
+[^138]: "काञ्चुकीयः"
 
 एते तयोर्मनुषयोः शिरसी राजपुत्रयोः।  
 युधि हत्वा कुमारेण गृहीते त्वत्प्रियार्थना॥८॥
@@ -1682,10 +1946,14 @@ ACT V (शोकाङ्कः)
 
 हा वत्स! सर्वजगतां ज्वरकृत्! कृतास्त्र!  
 हा वत्स! वासवजिदानतवैरिचक्र!  
-हा वत्स! वीर! गुरुवत्सल! [युद्धशौण्ड](# "युद्धशूर")!  
+हा वत्स! वीर! गुरुवत्सल! युद्धशौण्ड[^139]!  
 हा वत्स! मामिह विहाय गतोऽसि कस्मात् ?॥१३॥
 
-( इति [मोहमुपगतः](# "इति पतति.") )
+[^139]: "युद्धशूर"
+
+( इति मोहमुपगतः[^140] )
+
+[^140]: "इति पतति."
 
 ** राक्षसः—**हा धिक! त्रैलोक्यविजयी लड्केश्वर एतामवस्थां प्रापितो हतकेन विधिना। महाराज! समाश्वसिहि समाश्वसिहि।
 
@@ -1696,11 +1964,21 @@ ACT V (शोकाङ्कः)
 
 (इति सन्तापात् पतति)
 
-** राक्षसः—**हा भो [राजनीचरवीराः](# "वीराः ! अन्तःकक्ष्या") ! एवंगते राजन्यन्तः कक्ष्यास्थिता रक्षिणश्चाप्रमत्ता भवन्तु भवन्तः। (नेपथ्ये) भो भो रजनीचरवीराः! समरमुखनिरस्तप्रहस्तनिकुम्भकुम्भकर्णेन्द्रजिद्विकलबलजलधिजनितभयचकितविमुखाः।चपलायनमनु-चितमविरतममरसमराणि जितवतां भवताम् अथ च [विश्वविजय](# "विश्वलोकविजय०")विख्यातविंशद्बाहुशालिमि भर्तर्यत्र स्थितवति [लङ्केश्वरे](# "लङ्केश्वरे। तस्मादप्रमत्ता भवन्तु भवन्तः")।
+** राक्षसः—**हा भो राजनीचरवीराः[^141] ! एवंगते राजन्यन्तः कक्ष्यास्थिता रक्षिणश्चाप्रमत्ता भवन्तु भवन्तः। (नेपथ्ये) भो भो रजनीचरवीराः! समरमुखनिरस्तप्रहस्तनिकुम्भकुम्भकर्णेन्द्रजिद्विकलबलजलधिजनितभयचकितविमुखाः।चपलायनमनु-चितमविरतममरसमराणि जितवतां भवताम् अथ च विश्वविजय[^142]विख्यातविंशद्बाहुशालिमि भर्तर्यत्र स्थितवति लङ्केश्वरे[^143]।
 
-** रावणः—**(श्रुत्वा सामर्षम्) [गच्छ](# "गच्छ,शायतां....।"), भूयो ज्ञायतां वृत्तान्तः।
+[^141]: "वीराः ! अन्तःकक्ष्या"
 
-** राक्षसः—**यदाज्ञापयति [महाराजः](# "लङ्केश्वरः")। (निष्क्रम्य प्रविश्य) जयतु महाराजः! एष हि रामः।
+[^142]: "विश्वलोकविजय०"
+
+[^143]: "लङ्केश्वरे। तस्मादप्रमत्ता भवन्तु भवन्तः"
+
+** रावणः—**(श्रुत्वा सामर्षम्) गच्छ[^144], भूयो ज्ञायतां वृत्तान्तः।
+
+[^144]: "गच्छ,शायतां....।"
+
+** राक्षसः—**यदाज्ञापयति महाराजः[^145]। (निष्क्रम्य प्रविश्य) जयतु महाराजः! एष हि रामः।
+
+[^145]: "लङ्केश्वरः"
 
 धनुषि निहितवाणस्त्वामतिक्रम्य गर्वा-  
 द्धरिगणपरिवारो हाससम्फुल्लनेत्रः।  
@@ -1720,9 +1998,13 @@ ACT V (शोकाङ्कः)
 
 ** रावणः—**अस्याः कारणेन बहवो भ्रातरः सुताः सुहृदश्चमे निहताः। तस्मादामेत्रविषयमस्या हृदयं भित्त्वा कृष्टान्त्रमालालङ्कृतः खड्गाशनिपातेन समनुजयुगलं सकलवानरकुलं ध्वंसयामि।
 
-** राक्षसः—**प्रसीदतु ग्रसीदतु महाराजः। [अलमलमिदानी](# "अलमलं स्त्रीवधो न कर्तव्यः")मरिबलावलेपमन्तरेणानवरतवृथाप्रयासेन। अवश्यं च स्त्रीवधो न कर्तव्यः।
+** राक्षसः—**प्रसीदतु ग्रसीदतु महाराजः। अलमलमिदानी[^146]मरिबलावलेपमन्तरेणानवरतवृथाप्रयासेन। अवश्यं च स्त्रीवधो न कर्तव्यः।
 
-** रावणः—**तेन हि [स्यन्दनमानय](# "क्षिप्रमानीयतां स्यन्दनः।")।
+[^146]: "अलमलं स्त्रीवधो न कर्तव्यः"
+
+** रावणः—**तेन हि स्यन्दनमानय[^147]।
+
+[^147]: "क्षिप्रमानीयतां स्यन्दनः।"
 
 ** राक्षसः—**यदाज्ञापयति महाराजः। (निष्क्रम्य प्रविश्य) जयतु महाराजः। इदं स्यन्दनम्।
 
@@ -1775,14 +2057,20 @@ ACT V (शोकाङ्कः)
 एते पादपशैलभग्नशिरसो मुष्टिप्रहारैर्हताः  
 क्रुद्धैर्वानरयूथपैरतिबलैरुत्पुच्छ्कर्णैर्वृताः।  
 कण्ठग्राहविवृत्ततुङ्गनयनैर्दष्टोष्टतीव्रैर्मुखैः  
-शैला वज्रहता इवाशु समरे [रक्षोगणाः](# "रक्षोवराः") पातिताः॥३॥
+शैला वज्रहता इवाशु समरे रक्षोगणाः[^148] पातिताः॥३॥
+
+[^148]: "रक्षोवराः"
 
 ** तृतीयः—**एते चापि द्रष्टव्या भवद्भ्यां,
 
 निशितविमलखडगाः क्रोधविस्फारिताक्षा  
 विमलविकृतदंष्ट्रानीलजीमूतकल्पाः।  
 हरिगणपतिसन्यं हन्तुकामाः समन्ताद्  
-[रभसविवृतवक्त्रा](# "रभसविकृतवक्त्रा.") राक्षसाः [सम्पतन्तः](# "सम्पतन्ति.")॥४॥
+रभसविवृतवक्त्रा[^149] राक्षसाः सम्पतन्तः[^150]॥४॥
+
+[^149]: "रभसविकृतवक्त्रा."
+
+[^150]: "सम्पतन्ति."
 
 ** प्रथमः—**अहोतुखलु,
 
@@ -1799,9 +2087,11 @@ ACT V (शोकाङ्कः)
 ** प्रथमः—**रावणमपि पश्येतां भवन्तौ,
 
 कनकरचितदण्डां शक्तिमुल्लालयन्तं  
-[विमलविकृतदंष्ट्रं](# "विकृतवदनदंष्ट्रं")स्यन्दनं वाहयन्तम्।  
+विमलविकृतदंष्ट्रं[^151]स्यन्दनं वाहयन्तम्।  
 उदयशिखरमध्ये पूर्णबिम्बं शशाङ्कं  
 ग्रहमिव भगणेशं राममालोक्य रुष्टम्॥६॥
+
+[^151]: "विकृतवदनदंष्ट्रं"
 
 ** द्वितीयः—**राममपि पश्येतां भवन्तौ।
 
@@ -1840,10 +2130,14 @@ ACT V (शोकाङ्कः)
 
 ** तृतीयः—**एवहि,
 
-[सुरवरजयदर्प देशिकेऽस्मिन्](# "सुरवरविजयप्रदेशितेऽस्मिन्")  
+सुरवरजयदर्प देशिकेऽस्मिन्[^152]  
 दितिसुतनाशकरे रथे विभाति।  
-[रजनिचरविनाशकारणः](# "विनाशकारणेस्मिस्त्रिपुर") सं-  
+रजनिचरविनाशकारणः[^153] सं-  
 स्त्रिपुरवधाय यथा पुरा कपर्दी॥१२॥
+
+[^152]: "सुरवरविजयप्रदेशितेऽस्मिन्"
+
+[^153]: "विनाशकारणेस्मिस्त्रिपुर"
 
 ** प्रथमः—**अहो महत् प्रवृत्तं युद्धम्!
 
@@ -1876,14 +2170,18 @@ ACT V (शोकाङ्कः)
 रघुवरभुजवेगविप्रमुक्तं ज्वलनदिवाकरयुक्ततीक्ष्णधारम्।  
 रजनिचरवरं निहत्य सङ्क्ष्ये पुनरभिगच्छति राममेव शीघ्रम्॥१७॥
 
-** सर्वे—**हन्त [निपातितो](# "पतितो....") रावणः!
+** सर्वे—**हन्त निपातितो[^154] रावणः!
+
+[^154]: "पतितो...."
 
  प्रथमः
 
 **—**
 
 रावणं निहतं दृष्ट्वापुष्पवृष्टिर्निपातिता।  
-एता नदन्ति गम्भीरं [भेर्यस्त्रिदिवसद्मनाम्](# "मेर्यास्त्रि दिववर्त्ममु.")॥१८॥
+एता नदन्ति गम्भीरं भेर्यस्त्रिदिवसद्मनाम्[^155]॥१८॥
+
+[^155]: "मेर्यास्त्रि दिववर्त्ममु."
 
 ** द्वितीयः—** भवतु। सिद्धं देवकार्यम्।
 
@@ -1901,7 +2199,9 @@ ACT V (शोकाङ्कः)
 हत्वा रावणमाहवेऽद्य तरसा मद्बाणवेगार्दितं  
 कृत्वा चापि विभीषणं शुभमर्तिलङ्केश्वरं साम्प्रतम्।  
 तीर्त्वा चैवमनल्पसत्त्वचरितं दोर्भ्यां प्रतिज्ञार्णवं  
-लङ्कामभ्युपयामि बन्धुसहितः [सीतां समाश्वासितुम्](# "सीतासमाश्वासने ")॥१९॥
+लङ्कामभ्युपयामि बन्धुसहितः सीतां समाश्वासितुम्[^156]॥१९॥
+
+[^156]: "सीतासमाश्वासने "
 
  (प्रविश्य) **लक्ष्मणः**
 
@@ -1915,8 +2215,10 @@ ACT V (शोकाङ्कः)
 
 वत्स ! लक्ष्मण !
 
-[अपायाच्च हि](# "अपायञ्चहि.") वैदेह्या उषिताया रिपुक्षये।  
+अपायाच्च हि[^157] वैदेह्या उषिताया रिपुक्षये।  
 दर्शनात् साम्प्रतं धैर्यंमृत्युर्मे वारयिष्यति॥२०॥
+
+[^157]: "अपायञ्चहि."
 
 ** लक्ष्मणः**
 
@@ -1938,7 +2240,11 @@ ACT V (शोकाङ्कः)
 
 —
 
-विभीषण! तत्रैव तावत् तिष्टतु रजनिचरावमर्शजातकल्मषा [इक्ष्वाकुकुलस्याङ्कभूता](# "इक्ष्वाकुकुलन्यङ्कभूता A ;इक्ष्वाकुकुलावमानसमुद्यतपताका भूता B.")। राजानं दशरथं पितरमुद्दिश्य न युक्तं भो लङ्काधिपते ! मां [द्रष्टुम्](# "वक्तुम्")। अपिच,
+विभीषण! तत्रैव तावत् तिष्टतु रजनिचरावमर्शजातकल्मषा इक्ष्वाकुकुलस्याङ्कभूता[^158]। राजानं दशरथं पितरमुद्दिश्य न युक्तं भो लङ्काधिपते ! मां द्रष्टुम्[^159]। अपिच,
+
+[^158]: "इक्ष्वाकुकुलन्यङ्कभूता A ;इक्ष्वाकुकुलावमानसमुद्यतपताका भूता B."
+
+[^159]: "वक्तुम्"
 
 मज्जमानमकार्येषु पुरुषं विषयेषु वै।  
 निवारयति यो राजन्! स मित्रं रिपुरन्यथा॥२२॥
@@ -1963,7 +2269,9 @@ ACT V (शोकाङ्कः)
 
 ** रामः—**लक्ष्मण ! अस्याः पतिव्रतायाश्छन्दमनुतिष्ट।
 
-** लक्ष्मणः—**यदाज्ञापयत्यार्यः। ([परिक्रम्य](# "(किञ्चिद गत्वा).")) भोः ! कष्टम्।
+** लक्ष्मणः—**यदाज्ञापयत्यार्यः। (परिक्रम्य[^160].")) भोः ! कष्टम्।
+
+[^160]: "(किञ्चिद गत्वा
 
 विज्ञाय देव्याः शौचं चश्रुत्वा चार्यस्य शासनम्।  
 धर्मस्नेहान्तरे न्यस्ता बुद्धिर्दोलायते मम॥२३॥
@@ -1976,12 +2284,16 @@ ACT V (शोकाङ्कः)
 
 ** हनूमान्**— अत्र किं तर्कयति कुमारः ?
 
-** लक्ष्मणः**— निष्फलो मम तर्कः। [अथवा वयमार्यस्याभिप्रायमनुवर्तितारः।](# "ननु वयमार्यस्याभिप्रायमनुवतयितारः! A; ० वर्तयिष्यामः B.") गच्छामस्तावत्।
+** लक्ष्मणः**— निष्फलो मम तर्कः। अथवा वयमार्यस्याभिप्रायमनुवर्तितारः।[^161] गच्छामस्तावत्।
+
+[^161]: "ननु वयमार्यस्याभिप्रायमनुवतयितारः! A; ० वर्तयिष्यामः B."
 
 ** हनूमान्**— यदाज्ञापयति कुमारः।                 
      (निष्क्रान्तौ)
 
- ([प्रविश्य](# "(तथा कृत्व प्रविश्य)")) **लक्ष्मणः**— प्रसीदत्वार्यः। आर्य ! आश्चर्यमाश्चर्यम् ! एषा ह्यार्या,
+ (प्रविश्य[^162]")) **लक्ष्मणः**— प्रसीदत्वार्यः। आर्य ! आश्चर्यमाश्चर्यम् ! एषा ह्यार्या,
+
+[^162]: "(तथा कृत्व प्रविश्य
 
 विकसितशतपत्रदामकल्पा ज्वलनमिहाशु विमुक्तजीविताशा।  
 श्रममिह तव निष्फलं च कृत्वा प्रविशति पद्मवनं यथैव हंसी॥२४॥
@@ -1992,8 +2304,10 @@ ACT V (शोकाङ्कः)
 
  (प्रविश्य) **हनूमान्**— जयतु देवः !
 
-**एषा कनकमालेव [ज्वलनाद् वर्धितप्रभा।](# "पवनावर्धितप्रभात्। पावकात्पावनं प्राप्य....")  
+**एषा कनकमालेव ज्वलनाद् वर्धितप्रभा।[^163]  
 पावना पावकं प्राप्य निर्विकारमुपागता॥२५॥**
+
+[^163]: "पवनावर्धितप्रभात्। पावकात्पावनं प्राप्य...."
 
 ** रामः**— (सविस्मयम्) किमिति किमिति ?
 
@@ -2010,9 +2324,13 @@ ACT V (शोकाङ्कः)
 
 ** लक्ष्मणः**— अये, अयमार्यां पुरस्कृत्येत एवाभिवर्तते भगवान् विभावसुः।
 
-** रामः**— [अये, अयं भगवान् हुताशनः ! उपसर्पामस्तावत्।](# "अये भगवान विभावसुःA;.... भगवानग्निः। गच्छामस्तावत्।B.")  
+** रामः**— अये, अयं भगवान् हुताशनः ! उपसर्पामस्तावत्।[^164]  
                                    
-       (सर्वे [उपसर्पन्ति](# "परिक्रामान्ति."))
+       (सर्वे उपसर्पन्ति[^165])
+
+[^164]: "अये भगवान विभावसुःA;.... भगवानग्निः। गच्छामस्तावत्।B."
+
+[^165]: "परिक्रामान्ति."
 
 (ततः प्रविशत्यग्निः सीता गृहीत्वा)
 
@@ -2051,27 +2369,37 @@ ACT V (शोकाङ्कः)
 
 ** अग्निः**—भद्रमुख! एते देवदेवर्षिसिद्धविद्याधरगन्धर्वाप्सरोगणाः स्वविभवैर्भवन्तं वर्धयन्ति।
 
-** रामः**—[अनुगृहीतोऽस्मि](# "नमोऽस्तु सर्वदेवेभ्यः.")
+** रामः**—अनुगृहीतोऽस्मि[^166]
 
  **अग्निः**—भद्रमुख! अभिषेकार्थमित इतो भवान्।
 
-** रामः**—[यदाज्ञापयति](# "अनुगृहीतोऽस्मि") भगवान्।        
+[^166]: "नमोऽस्तु सर्वदेवेभ्यः."
+
+** रामः**—यदाज्ञापयति[^167] भगवान्।        
                                 
 (निष्क्रान्तौ)
 
+[^167]: "अनुगृहीतोऽस्मि"
+
  (नेपथ्ये) जयतु देवः! जयतु स्वामी! जयतु भद्रमुखः! जयतु महाराजः!जयतु रावणान्तकः! जयत्वायुष्मान्!
 
-** [विभीषणः](# "लक्ष्मणः")**—एष एष महाराजः,
+** विभीषणः[^168]**—एष एष महाराजः,
+
+[^168]: "लक्ष्मणः"
 
 तीर्त्वा प्रतिज्ञार्णवमाहवेऽद्य  
 सम्प्राप्य देवीं च विधूतपापाम्।  
 देवैः समस्तैश्चकृताभिषेको  
 विभाति शुभ्रे नभसीव चन्द्रः॥३२॥
 
-** [लक्ष्मणः](# "विभीषणः—अहो तु खलु देवस्य...")**—अहोतुखल्वार्यस्य वैष्णवं तेजः!
+** लक्ष्मणः[^169]**—अहोतुखल्वार्यस्य वैष्णवं तेजः!
+
+[^169]: "विभीषणः—अहो तु खलु देवस्य..."
 
 यमवरुणकुबेरवासवाद्यैस्त्रिदशगणैरभिसंवृतो विभाति।  
-दशरथवचनात् कृताभिषेकस्त्रिदशपतित्वमवाप्य [वृत्रहेव](# "देवराजः")॥३३॥
+दशरथवचनात् कृताभिषेकस्त्रिदशपतित्वमवाप्य वृत्रहेव[^170]॥३३॥
+
+[^170]: "देवराजः"
 
 (ततः प्रविशति कृताभिषेको रामः सीतया सह)
 
@@ -2101,9 +2429,11 @@ ACT V (शोकाङ्कः)
 
 (निष्क्रान्ताःसर्वे)
 
-[**षष्ठोऽङ्कः**](# "अयमेव रामप्रवेशादारभ्य सप्तमोऽङ्कः.")
+**षष्ठोऽङ्कः**[^171]
 
 अभिषेकनाटकं समाप्तम्
+
+[^171]: "अयमेव रामप्रवेशादारभ्य सप्तमोऽङ्कः."
 
 ––––––––––––
 
@@ -3508,3 +3838,195 @@ ACT VI
 
 
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^134]: "दाव (तावत्
+
+
+[^85]: "संवुत्तो। जहि [यदि]........"
+
+
+[^84]: "इति !अदिधीर।......; पीडिदा."
+
+
+[^74]: "जाणासि (जानासि
+
+
+[^73]: "खु सि रा० (खल्वसि रा०
+
+
+[^62]: "कमअ०; कमुअ०"
