@@ -152,7 +152,7 @@ and happy are we to have devotion to such a devoteeof such a deity!
  I do not think that it is fair for the writer of aForeword to run a race with the author in dealingwith the hero of the work or to run a race with thereader in reading and revealing the heart of the poet.I therefore leave the reader face to face with the authorand his work and wish good luck and God-speed to both.
 
 ।                    ।     ।                         ।
-।ः------------------:।-----।-------------------------।
+|:------------------:।-----।-------------------------।
 ।     Kumbakonam     । } । K. S. RAMASWAMI SASTRI. ।
 । 1st October, 1937. ।     ।                         ।
 

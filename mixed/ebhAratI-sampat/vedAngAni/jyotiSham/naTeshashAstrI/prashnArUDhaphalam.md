@@ -194,7 +194,7 @@ Research Centre (Advisory Committee)
 ***![](../books_images/1681707734.png)***
 
 ।                 ।                                        ।          ।
-।ः---------------:।ः--------------------------------------:।----------।
+|:---------------:|:--------------------------------------:।----------।
 । **Chapter No.** ।                                       । **Page** ।
 ।       \*        ।         Dedicated to my mother         । 3        ।
 ।       \*        ।      Note on Aacharya Kadalangudi      । 5        ।
@@ -597,7 +597,7 @@ MOON ... Jupiter and Mercury are friends. 13
 **The lords of he signs are the following:**
 
 ।             ।                             ।
-।ः-----------:।ः---------------------------:।
+|:-----------:|:---------------------------:।
 ।  MARS ...   ।    for Aries and Scorpio    ।
 ।  VENUS ...  ।    for Taurus and Libra     ।
 । JUPITER ... । for Sagittarius and Pisces  ।
@@ -12125,7 +12125,7 @@ ASTROLOGY ENDS**
 
 
 ।                  ।                                                                 ।
-।ः----------------:।ः---------------------------------------------------------------:।
+|:----------------:|:---------------------------------------------------------------:।
 ।   **GLOSSARY**   ।                                                                 ।
 ।       Amsa       ।                        ... Part, Portion                        ।
 ।     Apachaya     ।                   ... 1,2,4,7 and 8th houses                    ।

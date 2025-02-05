@@ -4037,7 +4037,7 @@ Prop. IV.
   For this also no enunciation is given and the Prop. seems to be an alternative proof of Prop. III.
 
 ।             ।       ।                    ।                      ।
-।ः-----------:।ः-----:।ः------------------:।ः--------------------:।
+।:-----------:।ः-----:।:------------------:।:--------------------:।
 । **ERRATA.** ।       ।                    ।                      ।
 ।    Page.   । Line. ।     Incorrect      ।       Correct        ।
 ।     2      ।  21   ।      **एत**       ।       **एतत्**       ।

@@ -1759,7 +1759,7 @@ Neelakantha has dealt with this in a more scientific way. He has classified the 
 There are other combinations and indications of planets also. They are all very similar to the ones given here.
 
 ।            ।      ।           ।         ।
-।ः----------:।ः----:।ः---------:।ः-------:।
+|:----------:|:----:|:---------:|:-------:।
 ।           । Mars । Sun Venus ।        ।
 ।           ।     ।          ।        ।
 ।  Sat (R)   ।     ।          । jup (R) ।
@@ -1810,7 +1810,7 @@ The Sun is square in form, Mars is round. Mercury is tall. TheMoon is also tall.
 If the planet is placed in an odd sign the Navamsas denote query about mineral, vegetable and animal respectively. If the planet is posited in an even sign, this should be considered in the reverse order i.e., the first Navamsa represent, animals, the second vegetables and the third minerals. This in short is the method to be adopted in silent queries.
 
 ।      ।      ।     ।           ।           ।
-।ः----:।ः----:।ः---:।ः---------:।ः---------:।
+|:----:|:----:|:---:|:---------:|:---------:।
 ।     ।     ।    । Odd sign  ।          ।
 । 1st, । 4th, । 7th ।  Navamsa  ।  mineral  ।
 । 2nd  । 5th  । 8th ।  Navamsa  । vegetable ।
@@ -2069,7 +2069,7 @@ The number of nurses attending the lady during delivery will be equal to the num
 *NOTES:-* According to Brihat Jataka the number of nurses attending the lady is the same as there are planets between the lagna and Moon. Saravali gives more details in this respect. The number of nurses inside and outside the delivery room depends upon the number of planets in the visible and invisible half of the zodiac, There are some acharyas who say that the number of nurses depends upon the lagna of the native birth chart. Following are the details:
 
 ।                       ।               ।
-।ः---------------------:।ः-------------:।
+|:---------------------:|:-------------:।
 ।         Lagna         । No. of nurses ।
 ।    Pisces or Aries    ।      one      ।
 ।  Taurus or Aquarius   ।     four      ।
@@ -2314,7 +2314,7 @@ NOTE : Vide Brihat Jataka Chapter 1, Sloka 4.
 As shown in the table below:
 
 ।           ।     ।      ।      ।         ।         ।       ।        ।
-।ः---------:।ः---:।ः----:।ः----:।ः-------:।ः-------:।ः-----:।ः------:।
+|:---------:|:---:|:----:|:----:|:-------:|:-------:|:-----:|:------:।
 । Remainder ।  1  ।  2   ।  3   ।    4    ।    5    ।   6   ।   7    ।
 ।  Planet   । Sun । Moon । Mars । Mercury । Jupiter । Venus । Saturn ।
 । Gunakara  ।  5  ।  21  ।  14  ।    9    ।    8    ।   3   ।   11   ।

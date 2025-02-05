@@ -78,7 +78,7 @@ MYLAPORE, MADRAS.**
 **CONTENTS**
 
 ।             ।                                ।
-।ः-----------:।--------------------------------।
+|:-----------:।--------------------------------।
 । **CHAPTER** ।                               ।
 ।     1\.     । Preface by the General Editor. ।
 ।     2\.     । Introduction by the Editor     ।
@@ -93,7 +93,7 @@ MYLAPORE, MADRAS.**
 
 
 ।     ।               ।
-।-----।ः-------------:।
+।-----|:-------------:।
 ।    ।    **नाम**    ।
 । १.  । समन्वयाध्यायः ।
 । २.  । अविरोधाध्यायः ।
@@ -2496,7 +2496,7 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 **INDEX—GLOSSARY**
 
 ।                   ।                                                                                              ।
-।ः-----------------:।ः--------------------------------------------------------------------------------------------:।
+|:-----------------:।:--------------------------------------------------------------------------------------------:।
 ।       TERM.       ।                                           MEANING.                                           ।
 ।      **अ**       ।                                                                                              ।
 । **अङ्गदेवतोपासन** ।         Worship of Particular gods asattached to specific limbs ofthe supreme Lord         ।
@@ -2521,7 +2521,7 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 **SŪTRĀRTHĀMṚTA LAHARI**
 
 ।                  ।                                                                                     ।
-।ः----------------:।ः-----------------------------------------------------------------------------------:।
+।:----------------:।:-----------------------------------------------------------------------------------:।
 ।      TERM.       ।                                      MEANING.                                       ।
 ।      **ई**       ।                                                                                     ।
 ।     **ईशान**     ।                             A term that refers to Viṣṇu                             ।
@@ -2552,7 +2552,7 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 **INDEX—GLOSSARY**
 
 ।                    ।                                                                                                ।
-।ः------------------:।ः----------------------------------------------------------------------------------------------:।
+।:------------------:।:----------------------------------------------------------------------------------------------:।
 ।     **TERM.**      ।                                          **MEANING.**                                          ।
 ।       **ज**        ।                                                                                                ।
 ।  **जगद्व्यापार**   ।            Creation of the universe (Notwithin competence even of released souls)             ।
@@ -2582,7 +2582,7 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 **SŪTṚĀRTHĀMṚTA LAHARĪ**
 
 ।                    ।                                                                                          ।
-।ः------------------:।ः----------------------------------------------------------------------------------------:।
+।:------------------:।:----------------------------------------------------------------------------------------:।
 ।       TERM.        ।                                         MEANING.                                         ।
 ।      **प्र**       ।                                                                                          ।
 ।   **प्रतिबिम्ब**   ।                                   Image or Reflection.                                   ।
@@ -2612,7 +2612,7 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 **INDEX-GLOSSARY**
 
 ।                   ।                                                                            ।
-।ः-----------------:।ः--------------------------------------------------------------------------:।
+।:-----------------:।:--------------------------------------------------------------------------:।
 ।       TERM.       ।                                  MEANING.                                  ।
 ।      **मा**       ।                                                                            ।
 ।   **मार्गपाद**    । 3rd quarter of the 4th chapterof the Vedānta-Sūtras devoted to the *WAY.* ।
@@ -2644,7 +2644,7 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 **RŪTRARTHĀMṚTA LAHARĪ**
 
 ।                       ।                                                                                                      ।
-।ः---------------------:।ः----------------------------------------------------------------------------------------------------:।
+।:---------------------:।:----------------------------------------------------------------------------------------------------:।
 ।         TERM.         ।                                               MEANING.                                               ।
 ।         **स**         ।                                                                                                      ।
 ।   **समन्वयाध्याय**   ।  Chapter devoted to harmonisation of terms on the Supreme Lord (1st chapter ofthe Vedānta-Sūtras).  ।

@@ -250,7 +250,7 @@ On odd numbered pages from p. 393 to p. 411, the page heading
 
 
 ।                                                              ।
-।ः------------------------------------------------------------:।
+|:------------------------------------------------------------:।
 ।                         **CONTENTS**                         ।
 ।                           Preface                            ।
 ।                 Note on the Manuscripts Used                 ।

@@ -132,7 +132,7 @@ readable. The translator is grateful to the kindness of those who helped him tow
 **?**
 
 ।                  ।
-।ः----------------:।
+|:----------------:।
 । **CORRECT TEXT** ।
 ।      शयनानि      ।
 ।     वृद्धिं      ।
@@ -155,7 +155,7 @@ readable. The translator is grateful to the kindness of those who helped him tow
 
 
 ।                    ।
-।ः------------------:।
+|:------------------:।
 ।  **CORRECT TEXT**  ।
 । प्रादुश्चकारैन्द्र ।
 ।     सूतपुत्रो      ।

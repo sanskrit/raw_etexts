@@ -53,7 +53,7 @@ WASHINGTON, D.C.
 1939
 
 ।                                                                                                                ।
-।ः--------------------------------------------------------------------------------------------------------------:।
+।:--------------------------------------------------------------------------------------------------------------:।
 ।                                                  **CONTENTS**                                                  ।
 ।                                                  INTRODUCTION                                                  ।
 ।                                  PART I. THE ICE AGE IN SOUTHWESTERN KASHMIR.                                  ।
@@ -2749,7 +2749,7 @@ great differences in level within a single valley tract-for example, the Poonch 
 *Altitude in feet of postglacial and fourth glacial moraines*
 
 ।                                                            ।              ।              ।              ।              ।               ।              ।               ।
-।ः----------------------------------------------------------:।ः------------:।ः------------:।ः------------:।ः------------:।ः-------------:।ः------------:।ः-------------:।
+।:----------------------------------------------------------:।:------------:।:------------:।:------------:।:------------:।:-------------:।:------------:।:-------------:।
 ।                                                           ।     Sind     ।    Liddar    ।   Harseni    ।   Sokhnagh   ।    Gulmarg    ।    Ningle    ।    Poonch     ।
 । Postglacial terminal moraines. Fourth glacial moraines.... । 10,500 8,800 । 11,500 9,200 । 11,085 8,760 । 12,500 9,000 । ?11,000 9,000 । 13,000 9,600 । 12,500 10,500 ।
 
@@ -4085,7 +4085,7 @@ The basal gravels and sands of the upper group are generally less cemented and l
  This obviously involves a geologic synchronization for which no proper basis can be given at present, in view of the absence of clear terrace records in the Narbada region. But on archeologic grounds it would seem as if the "lower group" represents the true Acheulian and "early Soan" horizon, and the "upper group" contains examples of a fresh "late Soan" industry. We have seen that in the Punjab these two Stone Age tool complexes are roughly synchronous with T1-T2 and T3-T4 respectively. On such a basis we suggest the following correlation:** 
 
 ।                        ।          ।
-।ः----------------------:।ः--------:।
+।:----------------------:।:--------:।
 ।       *Narbada*        । *Punjab* ।
 ।      Cotton soil       ।   T5   ।
 ।   **Upper group:**    ।         ।

@@ -99,7 +99,7 @@ CONTENTS.
 FIRST SERIES.
 
 ।          ।                                                    ।     ।
-।ः--------:।----------------------------------------------------।ः---:।
+|:--------:।----------------------------------------------------|:---:।
 ।    I.    । The three fishes                                   ।  1  ।
 ।   II\.   । The vulture and the cat                            ।  2  ।
 ।   III    । An account of Mâlavikâ                             ।  4  ।
@@ -132,7 +132,7 @@ FIRST SERIES.
 
 
 ।        ।                      ।     ।
-।ः------:।----------------------।ः---:।
+|:------:।----------------------|:---:।
 । XXIX\. । The Sun-rise         । 64  ।
 । XXX\.  । Judicial procedure   । 65  ।
 । XXXI\. । Miscellaneous verses । 67  ।
@@ -144,7 +144,7 @@ SECOND SERIES.
 THIRD SERIES.
 
 ।       ।                            ।     ।
-।ः-----:।----------------------------।ः---:।
+|:-----:।----------------------------|:---:।
 ।  I.   । The hare and the lion      । 152 ।
 । II\.  । The crab and the Crab      । 153 ।
 । III\. । The tale of Sâvitri Part I । 155 ।
@@ -152,7 +152,7 @@ THIRD SERIES.
 
 
 ।          ।                                                               ।     ।
-।ः--------:।---------------------------------------------------------------।ः---:।
+|:--------:।---------------------------------------------------------------|:---:।
 ।   IV\.   । The tale of Sâvitri Part II                                   । 157 ।
 ।    V.    । Know thyself                                                  । 162 ।
 ।   VI\.   । Repudiation of Sakuntala by Dushyanta Part I                  । 164 ।

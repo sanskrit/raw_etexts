@@ -48,14 +48,14 @@ AT THE **"BHASKARA PRESS"**, TRIVANDRUM
 —————
 
 ।                  ।
-।ः----------------:।
+।:----------------:।
 ।  **CHAPTER I.**  ।
 । **INTRODUCTION** ।
 
       
 
 ।                                    ।
-।ः----------------------------------:।
+।:----------------------------------:।
 ।          **CHAPTER II.**           ।
 । **RELIGIOUS TEXTS AND PHILOSOPHY** ।
 ।   **SECTION I.—RELIGIOUS TEXTS**   ।
@@ -64,7 +64,7 @@ AT THE **"BHASKARA PRESS"**, TRIVANDRUM
 
 
 ।                                 ।
-।ः-------------------------------:।
+।:-------------------------------:।
 ।        **CHAPTER III.**         ।
 । **PLACE, TIME AND PERSONALITY** ।
 ।      **SECTION I.—PLACES**      ।
@@ -183,7 +183,7 @@ This is *an epoch-making book* which deserves to be carefully studied, digested 
 **Introduction.**
 
 ।            ।                                                                                                               ।
-।------------।ः-------------------------------------------------------------------------------------------------------------:।
+।------------।:-------------------------------------------------------------------------------------------------------------:।
 । **Para**   ।                                                **CONTENTS.**                                                 ।
 । **1 to 5** । **The interpretations of the Puranas and the Itihasas by the indigenous Panditand the western critic.  ** ।
 । **6**      ।                                   **The Theosophical interpretation.  **                                   ।

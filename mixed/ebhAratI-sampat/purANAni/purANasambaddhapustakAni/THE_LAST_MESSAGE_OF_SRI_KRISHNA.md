@@ -76,7 +76,7 @@ vata. The difficulty of the original **will, it is hoped,** be greatly overcome 
 
 
 ।       ।                                                                                       ।
-।ः-----:।---------------------------------------------------------------------------------------।
+|:-----:।---------------------------------------------------------------------------------------।
 ।  XV   । JNANA-YOGA, KARMA-YOGA AND BHAKTI-YOGA.                                              ।
 ।  XVI  । MERITS AND DEFECTS WITH REGARD TO PLACE, TIME, ETC.                                  ।
 । XVII  । CATEGORIES: THEIR NUMBER; DISTINCTION BETWEEN PURUSHA AND PRAKRITI; LIFE AFTER DEATH. ।

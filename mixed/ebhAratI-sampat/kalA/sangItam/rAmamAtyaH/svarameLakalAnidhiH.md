@@ -323,7 +323,7 @@ Nagmut-es-Asphi, Sangithakalpadruma*, and *Lakshyasangith—*all these works cam
   The *Sudha*-svaras, which were *common* between Shârngadêv and Râmâmâtya, may be tabulated thus :-
 
 ।                      ।                     ।
-।ः--------------------:।ः-------------------:।
+|:--------------------:|:-------------------:।
 । **Number of Srutis** । ***Sudha*-Svaras.** ।
 ।          1           ।                    ।
 ।          2           ।                    ।
@@ -497,7 +497,7 @@ sums up ‘the Rule of the ancient *Sudha*-Svaras,' according to which the seven
   The following tabular [statement](# "Vide Hindu Music, page 15.")of Mr. Bulwant Trimbuckseems to strengthen the position of Mr. Clements :—
 
 ।        ।           ।        ।
-।ः------:।ः---------:।ः------:।
+|:------:|:---------:|:------:।
 । Svaras । Intervals । Srutis ।
 ।   Sa   ।    5-3    ।   4    ।
 ।   Ri   ।   4-16    ।   3    ।
@@ -908,7 +908,7 @@ own—as an 'infêrior', and therefore disregardable, Râga as Râmâmâtya had 
  (3) Venkatamakhi's Sudha and Shatsruti Svaras should be deemed to be the same as Râmâmâtya's.
 
 ।            ।                                     ।                                ।                ।
-।ः----------:।ः-----------------------------------:।ः------------------------------:।ः--------------:।
+|:----------:|:-----------------------------------:|:------------------------------:|:--------------:।
 । **Number** ।    **Râmâmâtya's Twenty Mêlas**     ।        **Modern Mêlas**        ।                ।
 ।            ।                                     ।          **Carnatic**          । **Hindustani** ।
 ।     1      ।  Mukhâri         **...**   ।  Kanakângi **...**  ।               ।
@@ -940,7 +940,7 @@ own—as an 'infêrior', and therefore disregardable, Râga as Râmâmâtya had 
  In the first place, I would put you in mind of what I had said in connection with Venkatamakhi's unwarranted onslaught on Râmâmâtya, namely, *Heaven knows what changes or modifications the manuscripts of ‘Svaramêlakalânidhi' underwent in the hands of different indifferent copyists and what sort of a copy finally fell into our-own-hands*. In the second place, the names of the Râgas and, for that matter, of the Thâlas, of the Svaras, and of even the 22 Srutis—have been from time to time changing, like chameleon's colour. Here are, for instance, two sets of names, given in two different periods of time, to one and the same time-honored 22 Srutis, wherein all the names differ, except Ugra, even which figures itself in the 7th Sruti in the one case and in the 21st Sruti in the other :—
 
 ।           ।           ।                    ।                         ।           ।
-।ः---------:।ः---------:।ः------------------:।ः-----------------------:।ः---------:।
+|:---------:|:---------:|:------------------:|:-----------------------:|:---------:।
 । **Sruti** । **Svara** । **Nârada's Names** । **Shârngadēv's Names ** । **Svara** ।
 ।     1     ।          ।       Sidhâ        ।         Thivrâ          ।          ।
 ।     2     ।          ।    Prabhâvathi     ।       Kumudvathi        ।          ।
@@ -1107,7 +1107,7 @@ Chyuthamadhyama *Ga* and Chyuthashadja *Ni* were deemed to practically represent
   If, now, you look at Râmâmâtya's twelve svaras and the modern³twelve svaras, at a glance, thus-
 
 ।               ।               ।      ।       ।       ।       ।      ।       ।      ।      ।        ।      ।       ।
-।ः-------------:।ः-------------:।ः----:।ः-----:।ः-----:।ः-----:।ः----:।ः-----:।ः----:।ः----:।ः------:।ः----:।ः-----:।
+|:-------------:|:-------------:|:----:|:-----:|:-----:|:-----:|:----:|:-----:|:----:|:----:|:------:|:----:|:-----:।
 ।     Names     । Twelve Svaras ।      ।       ।       ।       ।      ।       ।      ।      ।        ।      ।       ।
 ।  Râmâmâtya's  ।     S.S.      । S.R. । S.G.  । Sa.G. । Ch.G. । S.M. । Ch.M. । S.P. । S.D. ।  S.N.  । K.N. । Ch.N. ।
 । Modern....... ।     S.S.      । S.R. । Cha.R । Sa.G. । A.G.  । S.M. । P.M.  । S.P. । S.D. । Cha.D. । K.N. । Na.K. ।

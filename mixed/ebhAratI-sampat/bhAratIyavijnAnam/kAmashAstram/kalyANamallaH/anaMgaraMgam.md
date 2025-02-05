@@ -25,7 +25,7 @@ title = "अनंगरंगम्"
 
 
 ।                   ।
-।ः-----------------:।
+|:-----------------:।
 । **INTRODUCTION.** ।
 
   Kalyāṇamalla's Anaṅgaraṅga has been edited,as far as I know twice in India, namely, (1) by Rāmacandra Śāstrī, Lahore 1920, with a bhūmika and asmall gloss, and (2) by Viṣṇuprasādabhaṇḍārin, Kāśī1923 (=No. 9 of Haridās' Saṃskṛtagranthamālā), witha short bhūmika and useful notes. Nevertheless, the workof Kalyāṇa thoroughly deserve our interest, because it isone of the best**कामशास्त्र** texts written in the language of the gods. It is by this reason that I haveundertaken the attempt to publish a new and, as I hopea critical edition of the Anaṅgaraṅga. RāmacandraŚāstrībased his edition on one single manuscript andin his Preface freely states that owing to circumstances his book is not perfect one. \[**यद्यप्यत्रत्यमोषधिप्रकरणं सम्यग् विशदयितुं समीहावानासं तथापि शीघ्रमस्य मुद्रापयिष्यमाणत्वात्कार्यान्तरव्यासङ्गवशाच्चसमयमलभमानस्तथा कर्तुं नापारयमित्योषधि-प्रकरणमस्पृष्टमेवात्याक्षम्। आशासे यदि जगदीशोऽनुकूलयिष्यति तर्हि द्वितीयसंस्करणे सर्वं सम्यक् समाधातास्मि।**\] Moreover there are in his edition a great many blunders and nogood readings. As for Visṇuprasādabhaṇdārin'sedition, is based upon Rāmacandra's text and threemanuscripts, only one of which is complete and **शुद्धप्रायं**,as the editor himself says.
@@ -54,7 +54,7 @@ Münster
 ![](../../../../../books_images/U-IMG-1698054311654.png)
 
 ।                                     ।
-।ः-----------------------------------:।
+।:-----------------------------------:।
 ।                विषयः                ।
 ।          ( प्रथमः स्थलः )           ।
 ।        मङ्गलाचरणप्रशस्त्यादि        ।
@@ -84,7 +84,7 @@ Münster
 
 
 ।                          ।
-।ः------------------------:।
+।:------------------------:।
 ।          विषयः           ।
 ।   देवसत्त्वादिनिरूपणम्   ।
 ।    स्त्रीणां नाशहेतवः    ।
@@ -118,7 +118,7 @@ Münster
 
 
 ।                   ।
-।ः-----------------:।
+।:-----------------:।
 ।       विषयः       ।
 ।   मुखनीलीहरणम्    ।
 ।    कुचसंस्कारः    ।
@@ -152,7 +152,7 @@ Münster
 
 
 ।                                  ।
-।ः--------------------------------:।
+।:--------------------------------:।
 ।              विषयः               ।
 । कारणवशात्परस्त्रीगमनेऽनवद्यत्वम् ।
 ।         आगम्याः स्त्रियः         ।

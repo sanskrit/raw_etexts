@@ -3758,7 +3758,7 @@ be north-north-west, and the distance upwards of 9000 feet.
  I have already quoted Fa-Hian's statement that the "five hills form a girdle like the walls of a town." This agrees with Hwen Thsang's description, who says that "high mountains surround it on four sides, and form its exterior walls, which have a circuit of 150 *li* or 25 miles." For this number I propose to read 50 *li* or 8^(1/3) miles, a correction which is absolutely necessary to make the statement tally with the measurements of my survey. The following are the direct distances between the hills :-
 
 ।                             ।                 ।                         ।
-।ः---------------------------:।ः---------------:।ः-----------------------:।
+।:---------------------------:।:---------------:।:-----------------------:।
 ।   From Baibhâr to Vipula    ।  .  .   .  ।      12,000 feet.       ।
 ।  "    Vipula to Ratna  ।  .  .   .  ।       4,500  "       ।
 ।  "    Ratna to Udaya   ।  .  .  .  ।     8,500   "    ।

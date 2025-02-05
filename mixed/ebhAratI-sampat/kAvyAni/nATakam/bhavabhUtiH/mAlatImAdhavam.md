@@ -86,7 +86,7 @@ Price 2 Rupees.
 ——————
 
 ।                                    ।                                ।
-।ः----------------------------------:।ः------------------------------:।
+|:----------------------------------:|:------------------------------:।
 ।   Publisher:- Pandurang Jawaji,    ।      Nirnaya Sagar Press,      ।
 । Printer:- Ramchandra Yes u Shedge, । 26-28, Kolbhat Street, Bombay. ।
 

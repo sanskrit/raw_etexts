@@ -131,21 +131,21 @@ Nomenclature in Biology**
   Here are a few examples from Japanese—
 
 ।                    ।                       ।
-।ः------------------:।ः---------------------:।
+।:------------------:।:---------------------:।
 ।       Latin        ।       Japanese        ।
 । *Medicago stativa* । *murasaki umagoyashi* ।
 
   *Umagoyashi* is the Japanese name for the genus *Medicago*. The adjective *murasaki*, precedes the noun *umagoyashi*. It may also be noted that *murasaki* is not a translation of *sativa*(eatable). It refers to another characteristic of the species, viz., the purple colour. *Medicago sativa* which is popularly known as alfalfa in U.S.A. and purple medic in England, bears bluish-purple clover-like flowers.
 
 ।                    ।             ।
-।ः------------------:।ः-----------:।
+।:------------------:।:-----------:।
 ।       Latin        ।  Japanese   ।
 । *Vitis thunbergii* । *ebi dzuru* ।
 
   Japanese *dzuru* stands for *Vitis*. *Thunbergii* is the specific adjective from a proper noun (Thunberg, name of a Swedish botanist), which has not been retained by the Japanese but replaced by their own specific adjective *ebi*.
 
 ।                            ।                        ।
-।ः--------------------------:।ः----------------------:।
+।:--------------------------:।:----------------------:।
 ।           Latin            ।        Japanese        ।
 । *Chloris sinica kittlitzi* । *ogasawara kawarahiwa* ।
 
@@ -284,7 +284,7 @@ Persian, Arabic and European ‘lemon’ are corruptions of the Sanskrit word **
 
 
 ।                ।
-।ः--------------:।
+।:--------------:।
 । **प्रस्तावना** ।
 
 
@@ -324,13 +324,13 @@ Persian, Arabic and European ‘lemon’ are corruptions of the Sanskrit word **
 .
 
 ।               ।
-।ः-------------:।
+।:-------------:।
 । **विषय सूची** ।
 
 
 
 ।     ।                                                                      ।
-।ः---:।ः--------------------------------------------------------------------:।
+।ः---:।:--------------------------------------------------------------------:।
 ।  १  ।                           **विषय-प्रवेश**                            ।
 ।  २  ।                                 बीज                                  ।
 ।  ३  ।                           बीजों का उद्भेदन                           ।

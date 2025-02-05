@@ -2275,7 +2275,7 @@ Logic is the science that deals with the canons and criteria of validity in thou
  Distinction and close relation have been maintained between terms of similar significance-
 
 ।                         ।          ।
-।ः-----------------------:।ः--------:।
+|:-----------------------:|:--------:।
 । figure (of a syllogism) ।  प्रकार  ।
 ।          modus          । प्रकारक  ।
 ।          mood           । उपप्रकार ।
@@ -2321,7 +2321,7 @@ Logic is the science that deals with the canons and criteria of validity in thou
  Three more abbreviations may be noted here-
 
 ।               ।                ।
-।ः-------------:।ः--------------:।
+|:-------------:|:--------------:।
 ।  S (subject)  । उ ( उद्देश्य ) ।
 । P (predicate) ।   वि (विधेय)   ।
 ।  M (middle)   ।    म (मध्य)    ।
@@ -2433,7 +2433,7 @@ of the Alphabet**
  Greek and Roman letters have names: alpha, gamma, etc. These are uniformly translatable by the addition of -कार or वर्ण —alpha अकार (अवर्ण), gamma इकार (इवर्ण).
 
 ।          ।                  ।     ।
-।ः--------:।ः----------------:।ः---:।
+|:--------:|:----------------:|:---:।
 ।   *α*    ।      alpha       ।  अ  ।
 ।   *β*    ।       beta       ।  आ  ।
 ।   *γ*    ।      gamma       ।  इ  ।
@@ -2462,7 +2462,7 @@ of the Alphabet**
 
 
 ।     ।     ।     ।     ।
-।ः---:।ः---:।ः---:।ः---:।
+|:---:|:---:|:---:|:---:।
 ।  A  ।  क  ।  G  ।  छ  ।
 ।  B  ।  ख  ।  H  ।  ज  ।
 ।  C  ।  ग  ।  I  ।  झ  ।
@@ -3211,7 +3211,7 @@ and simultaneous indeterminate equations of the type
   **SYMBOLS OF OPERATION**— The first syllable of a word, placed before or after the quantity, served the purpose of the symbol. For addition one of the Sanskrit words is युत. It is abbreviated to यु. Similarly the ancient Brahmi क, which is a cross, stands as the symbol of subtraction, being the abbreviation of क्षय. गुabbreviated from गुणनor गुणितstands for multiplication and भाfrom भागor भाजितfor division. Often these symbols are not used. Juxtaposition serves the purpose. The use of these symbols is best illustrated by the Bakhshali manuscript. Bakhshali is a village in the Peshawar district. The manuscript lay between stones. It was discovered by a farmer who was digging in the mounds in 1881. This is the oldest mathematical manuscript yet discovered. It is written in ancient Śāradā script of Kashmir on birch-bark. Its age has been variously estimated, some placing it in the second century (in the days of Kanishka), others as late as the twelfth century A.D.
 
 ।     ।     ।     ।     ।
-।ः---:।ः---:।ः---:।ः---:।
+|:---:|:---:|:---:|:---:।
 ।  ०  ।    ।  ५  । यु  ।
 ।  १  ।     ।  १  ।     ।
 । ११  । यु  ।  ५  ।    ।
@@ -3223,7 +3223,7 @@ and simultaneous indeterminate equations of the type
 (*folio 59 recto*)
 
 ।     ।     ।     ।     ।     ।     ।     ।     ।     ।
-।ः---:।ः---:।ः---:।ः---:।ः---:।ः---:।ः---:।ः---:।ः---:।
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:।
 ।  ३  ।  ३  ।  ३  ।  ३  ।  ३  ।  ३  ।  ३  । १०  । गु  ।
 ।  १  ।  १  ।  १  ।  १  ।  १  ।  १  ।  १  ।  १  ।    ।
 
@@ -3239,7 +3239,7 @@ and simultaneous indeterminate equations of the type
 $x\~\\left( {1 + \\frac{3}{2}} \\right)\~ + \~\\left\\{ {2\~x\~\\left( {1 + \\frac{3}{2}} \\right)\~ - \~\\frac{5x}{2}} \\right\\}\~ + \~\\left\\{ {3x\~\\left( {1 + \\frac{3}{2}} \\right)\~ - \~\\frac{7x}{2}} \\right\\}\~ + \~\\left\\{ {4x\~\\left( {1 + \\frac{3}{2}} \\right)\~ - \\frac{9x}{2}} \\right\\}$
 
 ।                           ।                  ।
-।---------------------------।ः----------------:।
+।---------------------------|:----------------:।
 । $\\begin{matrix}          
 १ & १ & १ & १ & {भा} \\\\  
 {१ +} & १ & १ & १ & \\\\   
@@ -3257,7 +3257,7 @@ $x\~\\left( {1 + \\frac{3}{2}} \\right)\~ + \~\\left\\{ {2\~x\~\\left( {1 + \\fr
 (*folio 13 verso*)
 
 ।                  ।                   ।
-।ः----------------:।ः-----------------:।
+|:----------------:|:-----------------:।
 । $\\begin{matrix} 
 {४०} & {भा} \\\\ 
 १ & \\\\     
@@ -5929,7 +5929,7 @@ and avoiding unnecessary burden of *eponyms*. Through-out we have taken pains to
  We have made use of synonyins to designate different genera:
 
 ।                 ।                  ।
-।ः---------------:।ः----------------:।
+|:---------------:|:----------------:।
 । मर्कट (प्रजाति) । *Trachypithecus* ।
 ।    प्लवंगाः     ।   *Cynomorpha*   ।
 ।  कीश (प्रजाति)  ।      *Kasi*      ।
@@ -5943,7 +5943,7 @@ Out of twenty generic and suprageneric names in the Primates for only these thre
  Latin *ursus* and Greek *arktos* are the same as Sanskrit ऋक्ष. Hence the series:
 
 ।               ।                     ।
-।ः-------------:।ः-------------------:।
+|:-------------:|:-------------------:।
 ।   *Ursidac*   ।      ऋक्ष-वंश       ।
 ।    *Ursus*    ।   ऋक्ष- (प्रजाति)   ।
 ।  *Melursus*   । मन्दऋक्ष- (प्रजाति) ।
@@ -6452,7 +6452,7 @@ ch'iang is a combination of the characters for oxygen and hydrogen.
 
 
 ।                                                   ।                                                                ।
-।ः-------------------------------------------------:।ः--------------------------------------------------------------:।
+|:-------------------------------------------------:|:--------------------------------------------------------------:।
 ।               **TABLE OF CONTENTS**               ।                                                                ।
 ।                 Dedication                    ।                     Special Terminologies                      ।
 ।            Foreword by S.S. Bhatnagar             ।   Constitution, Law, Administration, Economics and Politics    ।

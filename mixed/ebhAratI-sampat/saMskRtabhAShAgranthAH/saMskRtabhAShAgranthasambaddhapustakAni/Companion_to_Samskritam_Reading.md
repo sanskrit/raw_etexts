@@ -464,7 +464,7 @@ Ku. VII. 11.
  49. If the list of Raghava kings as given in the Raghuvansa be compared with that given in the Vishnu Purana(Calcutta edition), it will be seen that they agree in the number of kings from Dilipa to Agnivarna, but differ in the details. As regards the first six kings, the V. P. introduces one Dirghabahu between Dilipa and Raghu. But it is not impossible that the original read “**खट्वाङ्गतोदीर्घबाहू रघुः पुत्रोऽभवत्**।” From Ahinagu, there are considerable differences. But the language of the 18th Canto of R. is such that there could be no mistake about the names, where as the language of V. P. is such that any body might introduce any fancied corrections. I am therefore inclined to think that Kalidasa drew from the V. P. his list of Raghava kings, but that the printed V. P. does not represent the correct text.
 
 ।                           ।                          ।
-।ः-------------------------:।ः------------------------:।
+|:-------------------------:|:------------------------:।
 । **(According to Raghu.)** । **(According to V. P.)** ।
 ।          Dilipa           ।    Dilipa(Khat-vanga)    ।
 ।           Raghu           ।     Dirghabahu (??)      ।

@@ -61,7 +61,7 @@ But sterling worth it is that tells.*
 WITH these significant words of the author himself, it would be appropriate to announce the Devanāgari edition of Śaktibhadra's *Āścaryacūḍāmaṇi*, with a good commentary, which is brought out for the *first time* in a complete and handy form by the Proprietor of the Śrī BālamanoramāPress, Mylapore, Madras. This edition is based on the following manuscripts:
 
 ।                                                                      ।                                                                                             ।
-।ः--------------------------------------------------------------------:।ः-------------------------------------------------------------------------------------------:।
+|:--------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:।
 ।                        No.DESCRIPTION OF MS.                        ।                                           LENT BY                                           ।
 । 1.MS. written on paper in Devanāgari script of text and commentary. ।                  The Curator, Govt. Oriental manuscripts library, Madras.                   ।
 ।            2.Palm-leaf MS. in Malayālam script of text.             ।                  The late Mr. A. Mahadeva Sastri, Director, Adyar Library.                  ।
@@ -70,7 +70,7 @@ WITH these significant words of the author himself, it would be appropriate to a
 
 
 ।                                                        ।                                                                          ।
-।ः------------------------------------------------------:।ः------------------------------------------------------------------------:।
+|:------------------------------------------------------:|:------------------------------------------------------------------------:।
 ।                 No. DESCRIPTION OF MS.                 ।                                 LENT BY                                  ।
 । 4. MS. written on paper in Devanāgari script of text. ।        Mr. T. Satakopachariar, High Court Vakil, Tiruppapuliyur.         ।
 ।     5. Palm-leaf MS. in Malayālam script of text.      । Mr. PunnasseriNīla-kaṇṭhaSarma, Principal, Sanskrit College, Pattambi. ।
@@ -329,7 +329,7 @@ Presidency College, Madras*
 
 
 ।                       ।
-।ः---------------------:।
+|:---------------------:।
 । **DRAMATIS PERSONAE** ।
 
 ।            ।           ।

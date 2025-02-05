@@ -322,7 +322,7 @@ course of his work. His main contribution was to bring order out of the maze of 
  Kauṭalya begins his treatise with the statemant that it is conceived as a compendium of almost all the *Arthaśāstras* that have been composed by ancient teachers. Though modest in his claim he has in fact superseded his predecessors by the accuracy and planning of the work. It has all the salient features of a well-planned and executed thesis. Chapters are thoughtfully planned and subdivided well in advance. The work consists of 15 Adhikaraṇas, 180 Prakaraṇas, 150 Adhyāyas and 380 Kārikās. Altogether there are 6000 ślokas each consisting of 32 syllabic units. This is inclusive of the prose passages of the text. The above-mentioned plan has been disclosed by the author at the beginning of the text itself so as to give a comprehensive idea of the contents. This can be represented as follows :
 
 ।        ।                  ।                    ।                  ।                 ।
-।ः------:।ः----------------:।ः------------------:।ः----------------:।ः---------------:।
+|:------:।:----------------:।:------------------:।:----------------:।:---------------:।
 । **15** । **Adhikaraṇas**  । **180 Prakaraṇas** । **150 Adhyāyas** । **380 Kārikās** ।
 ।   1    ।  विनयाधिकारिकम्  ।        1-18        ।       1-21       ।      1-48       ।
 ।   2    ।  अध्यक्षप्रचारः  ।       19-56        ।      22-57       ।     49-120      ।
@@ -644,7 +644,7 @@ the book. He considered that it was his good fortune to get these early commenta
 *Influence* of *Bhaṭṭasvāmī* : It has already been noted that Bhaṭṭasvāmī’s commentary has been thoroughly made use of by the *Śrīmūlam* commentator. A close study of the two reveals that Ganapati Sastri has quoted 37 stanzas from the commentary of Bhaṭṭasvāmī including the two stanzas quoted by the latter from *Bārhaspatya*. The 37 stanzas are quoted in the first Part of the *Śrīmūlam* commentary on pages noted below :
 
 ।                       ।             ।
-।ः---------------------:।ः-----------:।
+।:---------------------:।:-----------:।
 ।     **Vol. I p.**     । **Stanzas** ।
 ।   180 करका etc   । 2 Stanzas  ।
 । 182 विन्ध्यो विदूर ।  1  „   ।
@@ -885,7 +885,7 @@ commentary, is an indispensable help for every student of*Arthaśāstra* :⁶³
 
 
 ।                             ।                          ।
-।ः---------------------------:।ः------------------------:।
+।:---------------------------:।:------------------------:।
 । ***Mysore edition* **   । ***Trivandrum edition*** ।
 ।      अवरुद्धे वृत्तिः       ।    अवरुद्धे च वृत्तिः    ।
 ।        प्रथमाधिकरणम्        ।      प्रथममधिकरणम्       ।
@@ -1690,7 +1690,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 **विनयाधिकारिकं प्रथममधिकरणम् ।**
 
 ।                   ।                   ।                ।                                          ।
-।ः-----------------:।ः-----------------:।ः--------------:।ः----------------------------------------:।
+।:-----------------:।:-----------------:।:--------------:।:----------------------------------------:।
 । **आदितः अध्यायः** । **अधिकरणाध्यायः** । **प्रकरणम्** ।                **विषयः**                 ।
 ।       **१**       ।       **१**       ।               । **राजवृत्तिर्नाम प्रकरणाधिकरणसमुद्देशः** ।
 ।      **२-४**      ।      **२-४**      ।     **१**      ।          **विद्यासमुद्देशः —**           ।
@@ -1717,7 +1717,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 
 ।                                    ।                   ।              ।                                         ।
-।ः----------------------------------:।ः-----------------:।ः------------:।ः---------------------------------------:।
+।:----------------------------------:।:-----------------:।:------------:।:---------------------------------------:।
 ।         **आदितः अध्यायः**          । **अधिकरणाध्यायः** । **प्रकरणम्** ।                **विषयः**                ।
 ।               **२०**               ।      **२०**       ।    **१७**    ।           **निशान्तप्रणिधिः**           ।
 ।               **२१**               ।      **२१**       ।    **१८**    ।            **आत्मरक्षितकम्**            ।
@@ -1754,7 +1754,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 
 ।                   ।                   ।              ।                                                        ।
-।ः-----------------:।ः-----------------:।ः------------:।ः------------------------------------------------------:।
+।:-----------------:।:-----------------:।:------------:।:------------------------------------------------------:।
 । **आदितः अध्यायः** । **अधिकरणाध्यायः** । **प्रकरणम्** ।                       **विषयः**                        ।
 ।        ५०         ।        २९         ।      ४६      ।                       गोध्यक्षः                        ।
 ।        ५१         ।        ३०         ।      ४७      ।                      अश्वाध्यक्षः                      ।

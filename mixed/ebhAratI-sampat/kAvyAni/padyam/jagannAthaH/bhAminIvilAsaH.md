@@ -58,7 +58,7 @@ Girgaum, Bombay.
 
 
 ।                       ।
-।ः---------------------:।
+|:---------------------:।
 ।     **CONTENTS.**     ।
 ।        Preface        ।
 ।     Introduction      ।
