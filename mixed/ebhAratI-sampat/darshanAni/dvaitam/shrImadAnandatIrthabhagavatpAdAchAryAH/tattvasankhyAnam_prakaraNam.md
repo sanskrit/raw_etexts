@@ -13,8 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIwMTE4NTAwMDI
 
 \[
 
-
-
   ॥ श्रीः ॥  
  श्रीमदानन्दतीर्थभगवत्पादप्रणीतसर्वमूग्रन्थाः  
  --------------------------
@@ -61,7 +59,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIwMTE4NTAwMDI
  ॥ इति तत्त्वसंख्यानम् ॥
 
  ॥ श्रीकृष्णार्पणमस्तु ॥
-
 
 F.N.  
 1. रमाविरिञ्चशर्वादिशक्रादीतरसुक्रमम् ।  
@@ -216,10 +213,6 @@ F.N.
 
   -------------
 
-
     
-
-
-
 
 \]

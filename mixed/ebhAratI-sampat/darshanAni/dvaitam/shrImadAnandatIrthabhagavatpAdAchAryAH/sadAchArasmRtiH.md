@@ -13,8 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0NjUzODIwNDQ
 
 \[
 
-
-
   ॥ श्रीः ॥
 
  श्रीमदानन्दतीर्थभगवत्पादप्रणीतसर्वमूलग्रन्थाः  
@@ -431,12 +429,6 @@ F.N.
 
 62. कृत्वाऽभिवदन्य आस्ते (पा.)
 
-
-
-
  
-
-
-
 
 \]

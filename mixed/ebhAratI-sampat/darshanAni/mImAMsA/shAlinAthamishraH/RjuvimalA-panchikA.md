@@ -12,20 +12,4 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDk4MjQ4NDI2
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 \]

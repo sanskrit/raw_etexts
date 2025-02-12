@@ -15,25 +15,4 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY3MjA2Mjc0MDE
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 \]

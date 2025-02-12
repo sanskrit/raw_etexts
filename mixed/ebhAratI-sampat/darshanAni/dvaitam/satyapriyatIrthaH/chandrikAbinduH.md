@@ -13,24 +13,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc4MTc4NzA0
 
 \[
 
-
-
-
-
-
-
-
-
 चन्द्रिकाबिन्दुः प्रथमः अध्यायः
 
 द्वितीयः अध्यायः
-
-
-
-
-
-
-
-
 
 \]

@@ -12,14 +12,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc1NjMyMDAy
 
 \[
 
-
-
-
-
-
-
-
-
 ?Rआनन्दाश्रमसंस्कृतग्रन्थावलिः ।  
 ?Rग्रन्थाङ्कः 24 ।  
 ?Rजैमिनीयन्यायमाला ।  
@@ -227,9 +219,6 @@ This may have been in a measure commendable simply on patriotic and political gr
 ?R तस्यैतस्याखिलकोविदोपादेयस्य ग्रन्थस्य शोधनार्थं यैर्महात्मभिर्यथार्थानन्दाश्रमविधायिभ्य उक्तमहाशयेभ्यः  
 ?Rपुस्तकप्रेषणेन साहाय्यमकारि तेषामुपकारवर्णनायोरगराजेन शक्यम्, किंवा हैहयाधिपेन।
 
-
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ?R   पुस्तकदातॄणां नामानि  चिह्नम पत्राणि  
@@ -363,7 +352,6 @@ This may have been in a measure commendable simply on patriotic and political gr
 ?R समुदिताङ्काः ... .... .... .... ...
 .... .... .... 906  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 ?Rतत्तदध्यायपादगतसूत्रप्रदर्शकयन्त्रम् ।  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -2787,7 +2775,6 @@ This may have been in a measure commendable simply on patriotic and political gr
 ?R        
 ?R      समाप्तेयमधिकरणानुक्रमणिका ।
 
-
 ?R        ------  
 ?R     ॐ तत्सद्ब्रह्मणै नमः   
 ?R     श्रीमाधवप्रणीतो जैमिनीयन्यायमालाविस्तरः।   
@@ -3572,7 +3559,6 @@ This may have been in a measure commendable simply on patriotic and political gr
 ?R ----------?R \*\*\*\*\*
 ---------
 
-
 ?R    ॥ श्रीः ॥  
 ?R अथ द्वितीयोऽध्यायः ।  
 ?R    (तत्र प्रथमः पादः )  
@@ -4211,11 +4197,6 @@ This may have been in a measure commendable simply on patriotic and political gr
 ?R  अधिकरणानि    2    99।  
 ?R  सूत्राणि    32    289।  
 ?R     --------------
-
-
-
-
-
 
  (अथ तृतीयाध्यायस्य प्रथमः पादः)।  
 ?R  द्वितीये कर्मणां भेदे सिद्धे भिन्नक्रियास्वयम् ।  
@@ -5909,17 +5890,6 @@ This may have been in a measure commendable simply on patriotic and political gr
 ?R  अधिकरणानि   23     246।  
 ?R  सूत्राणि    44     657।
 
-
-
-
-
-
-
-
-
-
-
-
 ?R    (अथ चतुर्थाध्यायस्य प्रथमः पादः)।  
 ?R   शेषशेषित्वसिद्धौ किं प्रयोज्यं किं प्रयोजकम् ।  
 ?R   इत्यपेक्षोदयाद्वक्ति चतुर्थं तप्रत्युक्तये ॥1॥  
@@ -6612,18 +6582,6 @@ This may have been in a measure commendable simply on patriotic and political gr
 ?R     चतुर्थोऽध्यायश्र्च समाप्तः ॥  
 ?R      --------
 
-
-
-
-
-
-
-
-
-
-
-
-
 ?R     अत्र पादे    आदितः।  
 ?R  अधिकरणानि  12    308।  
 ?R  सूत्राणि   41    816।  
@@ -7210,16 +7168,6 @@ This may have been in a measure commendable simply on patriotic and political gr
 ?R     अत्र पादे    आदितः।  
 ?R  अधिकरणानि  9    362।  
 ?R  सूत्राणि   26    944।
-
-
-
-
-
-
-
-
-
-
 
 ?R     (अथ षष्ठाध्यायस्य प्रथमः पादः)।  
 ?R     अनुष्ठानक्रमः सर्वः पञ्चमे सुनिरूपितः ।  
@@ -8262,18 +8210,6 @@ This may have been in a measure commendable simply on patriotic and political gr
 ?R  अधिकरणानि   13    462।  
 ?R  सूत्राणि   40    1250।
 
-
-
-
-
-
-
-
-
-
-
-
-
 ?R     (अथाष्टमः पादः)  
 ?R   (प्रथमे- चतुर्होतृहोमेऽनाहिताग्नेरेवाधिकाराधिकरणे सूत्राणि 1-10)।  
 ?R    इष्टिपूर्वत्वादक्रतुशेषो होमः संस्कृतेष्वग्निषु स्याद-  
@@ -9114,7 +9050,6 @@ This may have been in a measure commendable simply on patriotic and political gr
 समाप्तश्चायमष्टमोऽध्यायः ॥ 8 ॥  
 ?R      -------------
 
-   
 ?R      (अथ नवमोऽध्यायः)।  
 ?R     अतिदेशोऽष्टमेऽध्याये समाप्तौ नवमे पुनः ।  
 ?R     अतिदिष्टपदार्थानामूहानूहविचारणा ॥ 1 ॥  
@@ -9966,19 +9901,6 @@ This may have been in a measure commendable simply on patriotic and political gr
 ?R अधिकरणानि     15      596।  
 ?R सूत्राणि      60      1653।  
 ?R      -------
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ?R (अथ दशमोध्यायः)।   
 ?R     रूपान्तरत्वादासन्नं नवमे स्थितमूहनम्।  
@@ -12154,21 +12076,6 @@ This may have been in a measure commendable simply on patriotic and political gr
 ?R  सूत्राणि     70   2229 ।  
 ?R     ॥ समाप्तश्चायं दशमोऽध्यायः ॥
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ?R     (अथैकादशाध्यायः प्रारभ्यते)।    
 ?R    बाधाबाधविचारेण प्रयोज्ये निश्चिते सति।  
 ?R    प्रयोगस्य विचारोऽथ तन्त्ररूपो विचार्यते ॥ 1 ॥  
@@ -12947,18 +12854,6 @@ This may have been in a measure commendable simply on patriotic and political gr
 ?R  सूत्राणि     57     2476।  
 ?R      अध्यायश्च समाप्तः ।  
 ?R      \*\*\*\*\*
-
-
-
-
-
-
-
-
-
-
-
-
 
      (?Rअथ द्वादशाध्यायः प्रारभ्यते)।  
 ?R     तन्त्रं द्वयोद्देशकत्वादेकादश उदीरितम् ।  
@@ -15458,12 +15353,6 @@ This may have been in a measure commendable simply on patriotic and political gr
 ?R      
 ?R 
 
-
-
-
-
-
-
                  
      ?R           
 ?R?0जैमिनीयन्यायमालाश्र्लोकाद्य-  
@@ -17133,27 +17022,8 @@ This may have been in a measure commendable simply on patriotic and political gr
 ?R सिद्धस्य यजनार्थत्वात्    ... ... ...  215  
 ?R      \* \* \* \* \*
 
-
-
-
-
 ?R 
 
-
-
-
 ?R
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

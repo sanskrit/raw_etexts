@@ -12,19 +12,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODY3NDcxNjgx
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
    INTRODUCTION  
     
   The Vedas and their contribution  
@@ -38,9 +25,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODY3NDcxNjgx
    Rik-Bhashya of Sri Madhvacharya  
  व्यदधाद्यज्ञसंतत्यै वेदमेकं चतुर्विधम्।  
  ऋग्यजुः सामाथर्वाश्च वेदाश्चत्वार उद्‌धृताः।
-
-
-
 
   Shri Gururajo Vijayate
 
@@ -56,12 +40,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODY3NDcxNjgx
  The Sanskrit part is based on the works of great authors and Philosophers of different Schools of thought. The English introduction summatises the discussion in Sanskrit and considers the views of the modern Scholars and puts them to critical test.
 
      R.S.Panchamukhi
-
-
-
-
-
-
 
    
  त एवमृषयो वेदं स्वं स्वं व्यस्यन्ननेकधा।  
@@ -312,11 +290,6 @@ which congnises the hand of Daiva (God) as the last and final requisite for the 
 
  "One should not listen to the words of a person which do not wake up a man from the slumbers of ignorance. It would be otherwise, like a blind man leading a blind person (both will meet with disaster)."
 
-
-
-
-
-
   Shri Gururajo Vijayate
 
   VEDAPAURUSHEYATVA VADA
@@ -331,11 +304,6 @@ which congnises the hand of Daiva (God) as the last and final requisite for the 
  The Sanskrit part is based on the works of great authors and Philosophers of different Schools of thought. The English introduction summatises the discussion in Sanskrit and considers the views of the modern Scholars and puts them to critical test.
 
      R.S.Panchamukhi
-
-
-
-
-
 
   ॥ श्रीगुरुराजो विजयते ॥
 
@@ -690,9 +658,6 @@ which congnises the hand of Daiva (God) as the last and final requisite for the 
 
   ॥ श्रीकृष्णार्पणमस्तु ॥
 
-
-
-
  ॥ श्रीगुरुराजो विजयते ॥  
       
    अनुबन्धः
@@ -941,16 +906,5 @@ which congnises the hand of Daiva (God) as the last and final requisite for the 
  ॥ इति भारद्वादगोत्रोद्भवेन पञ्चमुखहनुमद्भजकपूज्यवेङ्कटार्य-प्रपौत्रेण हेमाद्रि आचार्यपौत्रेण स्वामिरायाचार्यसूनुना महामहिमोपाध्याय-पण्डितराज-विद्यारत्न-विद्याभूषण-हरिदाससाहित्यालङ्कारेत्यादि प्रशस्तिपदभादा श्रीगुरुसार्वभौमराघवेन्द्रतीर्थचरणाब्जचंचरीकेण राघवेन्द्रेण विरचितोऽयं वेदापौरुषेयत्वप्रबन्धः श्रीप्रयागक्षेत्रे त्रिवेणीसंगमे वेणीमाधवप्रीत्यर्थं महामहिमोपाध्यायोपाधिवितरणमहोत्सवप्रसङ्गे शकवर्षे 1894 परिधाविनाम संवत्सरे फाल्गुन वद्य पञ्चम्यां शनिवासरे (विक्रमाब्दे 2029) विदुषां सदसि समर्पितः श्रेयस्काम्ययेति सर्वमवदातम्॥
 
   ॥ श्रीकृष्णार्पणमस्तु ॥  
- 
-
-
-
-
-
-
-
-
-
-
 
 \]

@@ -13,8 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIyOTI2OTMwNjU
 
 \[
 
-
-
     
  ॥ श्रीः ॥
 
@@ -347,10 +345,5 @@ F.N.
 34. यतिप्रणवकल्पः (प्र.); ॐ तत्सत्प्रणवकल्पः (पा.)
 
    ----------
-
-
-
-
-
 
 \]

@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE5NTgzNTU1NDc
 
 \[
 
-
-
 ॐ इत्येतदक्षरमुद्गीथमुपासीत(छा.उ. 1.1.1) 469
 
 ॐ इत्येतदक्षरम्(छा.उ. 1.1.) 470
@@ -2755,8 +2753,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE5NTgzNTU1NDc
 होतृषदनाद्धैवापि दुरुद्गीथमनुसमाहरति(छा.उ. 1.5.5) 628
 
 तत्वप्रकाशिकाशेषतात्पर्यचन्द्रिकोदाहृतप्रमाणवचनसङ्ग्रहः
-
-
-
 
 \]

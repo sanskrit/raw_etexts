@@ -12,20 +12,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkwMTY2ODU2
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Kendriya Samskrit Vidyapitha Series No.14  
 -----------------------------------------  
  NYAYAKALPALATIKA  
@@ -45,16 +31,13 @@ Professor of Vedanta, Sanskrit College, Mylapore,Madras.
    
  VOLUME I
 
-
  with a Foreword by  
  Dr.V.RAGHAVAN,  
 Former Chairman, Central Sanskrit Institue, Tirupati.
 
-
  KENDRIYA SANSKRIT VIDYAPITHA,  
  TIRUPATI.  
  1971
-
 
  केन्द्रीय संस्कृतविद्दापीठ ग्रन्थमाला संख्या -14  
 -----------------------------------------
@@ -118,14 +101,9 @@ facilities afforded by him for following the commentary.
    
  In conclusion I wish to congratulate the Editor Panditaraja V.Subrahmanya Sastri on the excellence with which he has done his work and presented this large unpublished commentary on one of the most important texts of Advaita.Although he was the first to complete the editorial work under the scheme of the Ministry and there has been a somewhat long delay in the publication of his work, I think the appearance of this Text just now imparts an added importance of this tribution of his to advaitic studies. During the course of the pringing and publicationof this work,it may be mentioned the Editor received two signal national recognitions , one he bestowal on him of the President's Cerfificate of Honour for distinguished Pandits and the other, the Award to him by the Sahitya Akademi of its prize for the best producion in Sanskrit. Among traditional Pandits he has a flair for the pursuit of critical and comparative studies and the producion of monographs and editions in the field of Nyaya and Vedanta.Although he has already several books to his credit, he has , I know , several other useful subjects evolving in his mind for investigation and exposition.Knowing ,as I do, his devotion to and capacity in this kind of work, I am quite sure we can expect from him further products of his critical and comparative study of the Sastras.
 
-
 Madras  
 12-3-1971
 V.RAGHAVAN  
-  
-
-
-
 
 continue from december  
  |श्री गुरुभ्यो नमः|  
@@ -418,7 +396,6 @@ continue from december
 (162)प्राणः उच्छ्वासनिः श्वासकर्मा वायुः शारीरः शरीरपक्षपाती गृह्यते । एतस्यां स्थूणायां शिशुः प्राणः करणदेवतालिङ्गपक्षपाती गृह्यते । स देवः प्राणः एतस्मिन् बाह्रये प्राणे संबद्धः ।  
 (163)तान्येतानि त्रीणि वस्तून्युपन्यस्तानि ।
 
-   
  PART III  
 भगवत्पूज्यपादानां भाष्यं तद्वार्तिकं तथा ।  
 समालोडय यथाप्रज्ञं स्वीयविज्ञानशुद्धये ॥(1)  
@@ -689,8 +666,6 @@ continue from december
  विनापि तैः संग्रथिताखिलार्थं तं शङ्रं नौमि सुरेश्वरंच ॥ 
 
 श्रीमच्छङ्करभगवत्पादानां साक्षादन्तेवासिनः, सकलविद्दापारावारपारीणैः श्रीमधुसूदनसरस्वतीभिः 'वार्त्तिककारपादा'इति सबहुमानं कथ्यमानाः,"श्रीमद्बादरायमशङ्करसुरेश्वाराचार्यकृतमर्यादं वेदान्तदर्शनम्।" इति न्यायरत्नावल्यां सर्वदार्शनिकपूजनियैः श्रीब्रह्मानन्दसरस्वतीभिः वेदान्तदर्शनमर्यादाकरत्वेन प्रति पादिताः, श्रुतिमततर्कैः कुतार्किकयुक्तीः सुदूरमुत्सार्य श्रुत्यक्षरस्वरससिद्धमर्थं निरूपयन्तः साक्षात्कृतपरब्रह्माणः अन्वर्थनामधेयाः श्रूसुरेस्वराचार्याः अमृतस्राविपद्यमनयेन वार्त्तिकेन भगत्वादीयबृहदारण्यकभाष्यार्थं प्रकटीचक्रुः। इदं च वार्त्तिकं वार्त्त्िकामृपदेन व्यवहरन्ति श्रीमधुसूदनसरस्वत्यः, न्यायकल्पलतिकाकारा विद्यासागराश्च। वार्त्तिकग्रन्थश्चायं द्वादशसहस्रसंख्याकवार्त्तिकैः घटितः इति " द्वादशसहस्रसंख्याकवार्त्त्िकाख्यश्वोकग्रन्थिभिर्विरटिता। "
-
-
 
 1(p.2072)इति "द्वादशसहस्रसंख्यश्लोकग्रन्थिभिर्विरचिता ।",1(p.2072)  
 इति शास्रप्रकाशिकावाक्यादवगम्यते । परन्तु आनन्दाश्रममुद्रिते पुस्तके 11151  
@@ -1092,7 +1067,6 @@ continue from december
  विद्दोदधेरुत्थितमेतदादरात्  
  टीकामृतं भूसुरहर्षवर्धनम्॥'इति  
 ?
-
 
 प्रक्रियाञ्जरीस्थं विद्दासागरीयं श्लोकमुद्धृत्य, कामदेवकालनिर्णयपूर्वकं 1350 A.D.एषामवस्थितिकालः इति सोपपत्ति निर्धारितं गवेषकधुरन्धरैः प्राध्यापकैः डाक्ट्र,वे, राघवमहोदयैरिति नात्र विषये किमपि वक्तव्यमस्त्यस्माकम् ॥  
  केन्द्रशासनाधिकृतैः न्यायकल्पलतिकापरिशोधनप्रकाशनकार्ये नियुक्तोऽहम्, बडोदरा प्राच्यपुस्तकालयात् (Oriental Institue, Baroda ) अधिगतं 423 पत्रात्मकं देवनागराक्षरैर्लिखितमेकं पुस्तकम्, राजकीयमद्रपुरीपुस्तकालयात् (Govt.Oriental M.S.S.Library,Madras)अधिगतं (R.5283)भागद्वयात्मकं पुस्तकमपरम्, डाक्टर,वे.राघवमहोदयाशयानुरोधेन जर्मन्देशीय(Tubingen ) सर्वकलाशालापुस्तकालयात् केन्द्रशासनाधिकृतैः क्रीत्वा प्रेषितमन्यत् पुस्तकमिति, पुस्तकत्रयमवलम्ब्य ग्रन्थपरिशोधनमकरवम् ।  
@@ -4643,89 +4617,13 @@ continue from december
  तत्राचोदितमप्राप्तं चोदिताभिधानात् (पू.मी.9-1-36)  
 (4)अर्थाभिधानसंयोगान्मन्त्रेषु शेषभावः स्यात् तस्मादुत्पत्तिसंबन्धोऽर्थेन नित्यसंयोगात्(पू.मी.3-2-1)  
 
-
-
-
-
-
-
-
-
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
    
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  
-
-
-
-
-
-
-
-
-
-
-
-
 
  APPENDIX III  
  संबन्धग्रन्थोद्धृतानां  
@@ -4901,7 +4799,6 @@ continue from december
 अभितोऽनुभवाक्रान्ता  
 अभिधीयत इत्यादि  
 अभिन्नस्यात्मनो मोहात्
-
 
 अभिप्रायवतोऽभावात्  
 अभिप्रेतापि न तदा  
@@ -5833,27 +5730,5 @@ continue from december
 सत्यानृते इति तथा  
 सदात्मतैवं सर्वस्य  
 सदेवेत्यादिवाक्येभ्यः
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]
