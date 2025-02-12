@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI0OTE3NDQ4Mjg
 
 \[
 
-
-
 अथर्वाणमृषिं देवं देवहयशिरोधरम् ।  
 प्रणम्य सम्प्रवक्ष्यामि दन्त्योष्ठविधिविस्तरम् ॥ १.१ ॥  
 छन्दस्यध्ययने प्राप्ते विदुषामथ धीमताम् ।  
@@ -40,7 +38,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI0OTE3NDQ4Mjg
 एते सर्वे भवन्त्योष्ठ्या ये नोक्तास्ते तु दन्तजाः ॥ १.१२ ॥
 
 इति प्रथमोऽध्यायः ।
-
 
 अधरादुत्तरे भागे भागात्प्रतिविभागशः ।  
 दशनाग्रेण संस्पृष्ट्यो न तु पीडासु योजयेत् ॥ २.१ ॥  
@@ -69,9 +66,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI0OTE3NDQ4Mjg
 
 ॥ दन्त्योष्ठविधिः समाप्तः ॥
 
-
 \\\\Z  
-
-
 
 \]

@@ -12,14 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM3MDY5MDg5Njk
 
 \[
 
-
-
-
-
-
 **योहिभाष्यम्  
 श्री गणाधिपतये नमः।**
-
 
 श्रीमद्गणेशं प्रणिपत्य देवान् श्रीसूर्यनारायणसुप्रसादात् ।  
 वक्ष्ये क्रियाया स्वरलक्षणं तद्यद्धोमकन्यापुरसूरभट्टः १  
@@ -106,10 +100,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM3MDY5MDg5Njk
 **योहिभाष्यं संपूर्णम् ।**
 
 **--------------------------**
-
-
-
-
-
 
 \]

@@ -14,8 +14,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 जैमिनीयारण्यक
 
-
-
 प्रजापतिर्वा
 
 इदं
@@ -214,8 +212,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 स
 
 यदोमिति
@@ -396,8 +392,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 ओवा
 
 ओवा
@@ -545,8 +539,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 तृतीयः
 
 खण्डः
-
-
 
 तं
 
@@ -824,8 +816,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 सा
 
 हैषा
@@ -1002,8 +992,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 गोबलो
 
 वार्ष्णः
@@ -1159,8 +1147,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 षष्ठः
 
 खण्डः
-
-
 
 ता
 
@@ -1319,10 +1305,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 खण्डः
 
 प्रथमोऽनुवाकस्समाप्तः
-
-
-
-
 
 प्रजापतिर्वा
 
@@ -1636,8 +1618,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 तदाहुर्यदोवा
 
 ओवा
@@ -1811,8 +1791,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 द्वितीयः
 
 खण्डः
-
-
 
 सा
 
@@ -2088,8 +2066,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 द्वितीयोऽनुवाकस्समाप्तः
 
-
-
 प्रजापतिः
 
 प्रजा
@@ -2231,8 +2207,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 प्रथमः
 
 खण्डः
-
-
 
 उपद्र
 
@@ -2418,8 +2392,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 जीमूतान्प्रस्तावं
 
 स्तनयित्नुमुद्गीथं
@@ -2555,8 +2527,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 तृतीयः
 
 खण्डः
-
-
 
 न
 
@@ -2695,8 +2665,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 खण्डः
 
 तृतीयोऽनुवाकस्समाप्तः
-
-
 
 देवा
 
@@ -2861,8 +2829,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 प्रथमः
 
 खण्डः
-
-
 
 सैवर्गभवदियमेव
 
@@ -3202,8 +3168,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 प्रजापतिर्देवानसृजत
 
 तान्मृत्युः
@@ -3396,8 +3360,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 चतुर्थोऽनुवाकस्समाप्तः
 
-
-
 अथैतदेकविंशं
 
 साम
@@ -3507,8 +3469,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 १९
 
 पञ्चमोऽनुवाकस्समाप्तः
-
-
 
 इदमेवेदमग्रेऽन्तरिक्षमासीत्तद्वेवाप्येतर्हि
 
@@ -3675,8 +3635,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 प्रथमः
 
 खण्डः
-
-
 
 अथ
 
@@ -3900,8 +3858,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 स
 
 यथा
@@ -4096,8 +4052,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 षष्ठोऽनुवाकस्समाप्तः
 
-
-
 अयमेवेदमग्र
 
 आकाश
@@ -4243,8 +4197,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 प्रथमः
 
 खण्डः
-
-
 
 तदक्षरदेव
 
@@ -4664,8 +4616,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 अथाध्यात्ममिदमेव
 
 चक्षुस्त्रिवृच्छुक्लं
@@ -4843,8 +4793,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 द्वितीयः
 
 खण्डः
-
-
 
 स
 
@@ -5025,8 +4973,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 खण्डः
 
 अष्टमोऽनुवाकस्समाप्तः
-
-
 
 अयमेवेदमग्र
 
@@ -5305,8 +5251,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 प्रथमः
 
 खण्डः
-
-
 
 अथ
 
@@ -5590,8 +5534,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 तद्यथा
 
 गिरिम्पन्थानस्समुदियुरिति
@@ -5757,8 +5699,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 खण्डः
 
 नवमोऽनुवाकस्समाप्तः
-
-
 
 अयमेवेदमग्र
 
@@ -6009,8 +5949,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 यद्द्याव
 
 इन्द्र
@@ -6198,8 +6136,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 खण्डः
 
 दशमोऽनुवाकस्समाप्तः
-
-
 
 त्रिवृत्साम
 
@@ -6509,8 +6445,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 अथाध्यात्ममिदमेव
 
 चक्षुस्त्रिवृच्चतुष्पाच्छुक्लं
@@ -6809,8 +6743,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 एकादशोऽनुवाकस्समाप्तः
 
-
-
 अथैतत्साम
 
 तदाहुस्संवत्सर
@@ -6984,8 +6916,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 प्रथमः
 
 खण्डः
-
-
 
 अथैतत्पर्जन्ये
 
@@ -7279,8 +7209,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 तस्यैतास्तिस्र
 
 आगा
@@ -7537,8 +7465,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 अथ
 
 ह
@@ -7700,8 +7626,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 तृतीयः
 
 खण्डः
-
-
 
 अथ
 
@@ -7866,8 +7790,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 खण्डः
 
 द्वादशोऽनुवाकस्समाप्तः
-
-
 
 चत्वारि
 
@@ -8064,8 +7986,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 प्रथमः
 
 खण्डः
-
-
 
 तेन
 
@@ -8291,8 +8211,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 त्रयोदशोऽनुवाकस्समाप्तः
 
-
-
 आरुणिर्ह
 
 वासिष्ठं
@@ -8500,8 +8418,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 प्रथमः
 
 खण्डः
-
-
 
 यदादित्ये
 
@@ -9005,8 +8921,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 तद्ध
 
 पृथुर्वैन्यो
@@ -9245,8 +9159,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 चतुर्दशोऽनुवाकस्समाप्तः
 
-
-
 प्रजापतिर्वा
 
 वेद
@@ -9409,8 +9321,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 ततश्चन्द्र
 
 मसमसृजत
@@ -9559,8 +9469,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 तत
 
 आदित्यमसृजत
@@ -9703,8 +9611,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 देवासुरा
 
 अस्पर्धन्त
@@ -9822,8 +9728,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 खण्डः
 
 पञ्चदशोऽनुवाकस्समाप्तः
-
-
 
 देवा
 
@@ -10048,8 +9952,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 प्रथमः
 
 खण्डः
-
-
 
 स
 
@@ -10329,8 +10231,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 अथ
 
 विश्वान्देवानब्रवीद्यूयमनुवृणीध्वमिति
@@ -10579,8 +10479,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 षोडशोऽनुवाकस्समाप्तः
 
-
-
 द्वयं
 
 वावेदमग्र
@@ -10810,8 +10708,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 प्रथमः
 
 खण्डः
-
-
 
 सा
 
@@ -11097,8 +10993,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 मदध्यभू३न्मदध्यभू३दिति
 
 तस्मादाहुर्मधुपुत्र
@@ -11351,8 +11245,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 खण्डः
 
 सप्तदशोऽनुवाकस्समाप्तः
-
-
 
 आपो
 
@@ -11617,8 +11509,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 प्रथमः
 
 खण्डः
-
-
 
 सा
 
@@ -11889,8 +11779,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 द्वितीयः
 
 खण्डः
-
-
 
 तद्यदिदमाहुः
 
@@ -12169,8 +12057,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 तृतीयः
 
 खण्डः
-
-
 
 अथ
 
@@ -12508,8 +12394,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 देवासुरा
 
 अस्पर्धन्त
@@ -12740,13 +12624,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 -----------------------
 
-
-
  अथ
 
 द्वितीयोऽध्यायः।
-
-
 
 देवानां
 
@@ -13204,8 +13084,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 सा
 
 या
@@ -13494,8 +13372,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 प्रथमोऽनुवाकस्समाप्तः
 
-
-
 एष
 
 एवेदमग्र
@@ -13753,8 +13629,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 प्रथमः
 
 खण्डः
-
-
 
 स
 
@@ -14274,8 +14148,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 स
 
 यदि
@@ -14681,8 +14553,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 द्वितीयोऽनुवाकस्समाप्तः
 
-
-
 शर्यातो
 
 वै
@@ -14920,8 +14790,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 प्रथमः
 
 खण्डः
-
-
 
 स
 
@@ -15161,8 +15029,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 तं
 
 ह
@@ -15342,8 +15208,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 ९
 
 तृतीयोऽनुवाकस्समाप्तः
-
-
 
 देवासुरास्समयतन्तेत्याहुः
 
@@ -15833,8 +15697,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 स
 
 यथा
@@ -16096,8 +15958,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 द्वितीयः
 
 खण्डः
-
-
 
 यत्रो
 
@@ -16381,8 +16241,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 चतुर्थोऽनुवाकस्समाप्तः
 
-
-
 देवा
 
 वै
@@ -16507,8 +16365,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 एष
 
 उ
@@ -16632,8 +16488,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 द्वितीयः
 
 खण्डः
-
-
 
 एष
 
@@ -16841,19 +16695,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 द्वितीयोऽध्यायः।
 
-
-
 ----------------------- -------------------------
-
-
-
-
 
 अथ
 
 तृतीयोऽध्यायः।
-
-
 
 एका
 
@@ -17213,8 +17059,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 तौ
 
 ह
@@ -17565,8 +17409,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 तस्यैष
 
 श्रीरात्मा
@@ -17871,8 +17713,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 तदेतदुक्थं
 
 सप्तविधं
@@ -18117,8 +17957,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 एवं
 
 हैतस्मिन्सर्वमिदं
@@ -18282,8 +18120,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 खण्डः
 
 प्रथमोऽनुवाकस्समाप्तः
-
-
 
 योऽसौ
 
@@ -18507,8 +18343,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 स्वयमु
 
 तत्र
@@ -18712,8 +18546,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 द्वितीयः
 
 खण्डः
-
-
 
 तस्य
 
@@ -18956,8 +18788,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 तृतीयः
 
 खण्डः
-
-
 
 तत्प्रथमम्म्रियते
 
@@ -19224,8 +19054,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 चतुर्थः
 
 खण्डः
-
-
 
 तं
 
@@ -19595,8 +19423,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 द्वितीयोऽनुवाकस्समाप्तः
 
-
-
 त्रिर्ह
 
 वै
@@ -19767,8 +19593,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 एतद्वै
 
 तिसृभिरावृद्भिरिमांश्च
@@ -19914,8 +19738,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 द्वितीयः
 
 खण्डः
-
-
 
 हुम्भा
 
@@ -20225,8 +20047,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 तं
 
 हागतम्पृच्छति
@@ -20503,8 +20323,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 तृतीयोऽनुवाकस्समाप्तः
 
-
-
 वागिति
 
 हेन्द्रो
@@ -20715,8 +20533,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 अयं
 
 वाव
@@ -20920,8 +20736,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 द्वितीयः
 
 खण्डः
-
-
 
 स
 
@@ -21222,8 +21036,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 अथ
 
 वा
@@ -21395,8 +21207,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 चतुर्थः
 
 खण्डः
-
-
 
 अथैष
 
@@ -21585,8 +21395,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 खण्डः
 
 चतुर्थोऽनुवाकस्समाप्तः
-
-
 
 गुहासि
 
@@ -21942,8 +21750,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 किमभीति
 
 वायुमिति
@@ -22236,8 +22042,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 किमभीति
 
 दिश
@@ -22401,8 +22205,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 तृतीयः
 
 खण्डः
-
-
 
 किमभीति
 
@@ -22590,8 +22392,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 किमभीति
 
 ऋतूनिति
@@ -22773,8 +22573,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 पञ्चमः
 
 खण्डः
-
-
 
 किमभीति
 
@@ -22968,8 +22766,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 किमभीति
 
 दिवमिति
@@ -23133,8 +22929,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 सप्तमः
 
 खण्डः
-
-
 
 किमभीति
 
@@ -23546,8 +23340,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 किमभीति
 
 ब्रह्मणो
@@ -23711,8 +23503,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 खण्डः
 
 पञ्चमोऽनुवाकस्समाप्तः
-
-
 
 उच्चैश्श्रवा
 
@@ -23932,8 +23722,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 स
 
 होवाच
@@ -24105,8 +23893,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 द्वितीयः
 
 खण्डः
-
-
 
 व्यूढच्छन्दसा
 
@@ -24319,8 +24105,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 तृतीयः
 
 खण्डः
-
-
 
 तद्ध
 
@@ -24537,8 +24321,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 चतुर्थः
 
 खण्डः
-
-
 
 स
 
@@ -24832,8 +24614,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 तदेतन्मिथुनं
 
 यद्वाक्च
@@ -25013,8 +24793,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 षष्ठः
 
 खण्डः
-
-
 
 पतङ्गमक्तमसुरस्य
 
@@ -25210,8 +24988,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 पतङ्गो
 
 वाचम्मनसा
@@ -25347,8 +25123,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 षष्ठेऽनुवाकेऽष्टमः
 
 खण्डः
-
-
 
 अपश्यं
 
@@ -25622,8 +25396,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 षष्ठोऽनुवाकस्समाप्तः
 
-
-
 प्रजापतिम्ब्रह्मासृजत
 
 तमपश्यममुखमसृजत
@@ -25809,8 +25581,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 प्रथमः
 
 खण्डः
-
-
 
 ओवा३चोवा३चोवा३छुम्भा
 
@@ -26032,8 +25802,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 तदेतदमृतं
 
 गायत्रम्
@@ -26244,8 +26012,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 शङ्खाय
 
 बाभ्रव्याय
@@ -26363,8 +26129,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 चतुर्थः
 
 खण्डः
-
-
 
 श्यामजयन्ताय
 
@@ -26538,10 +26302,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
  -------------------------- ----------------------------
 
-
-
-
-
 अथ
 
 चतुर्थोऽध्यायः
@@ -26705,8 +26465,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 १
 
 प्रथमोऽनुवाकस्समाप्तः
-
-
 
 पुरुषो
 
@@ -26978,8 +26736,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 २
 
-
-
 त्र्
 
 !
@@ -27046,8 +26802,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 तृतीयोऽनुवाकस्समाप्तः
 
-
-
 अरण्यस्य
 
 वत्सोऽसि
@@ -27083,8 +26837,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 ४
 
 चतुर्थोऽनुवाकस्समाप्तः
-
-
 
 व्युषि
 
@@ -27187,8 +26939,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 ५
 
 पञ्चमोऽनुवाकस्समाप्तः
-
-
 
 भगेरथो
 
@@ -27390,8 +27140,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 एतान्हैनान्पञ्च
 
 प्रश्नान्पप्रच्छ
@@ -27589,8 +27337,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 द्वितीयः
 
 खण्डः
-
-
 
 यो
 
@@ -27852,8 +27598,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 षष्ठोऽनुवाकस्समाप्तः
 
-
-
 पुरुषो
 
 वै
@@ -28025,8 +27769,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 प्रथमः
 
 खण्डः
-
-
 
 तद्यस्यैवं
 
@@ -28424,8 +28166,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 सप्तमोऽनुवाकस्समाप्तः
 
-
-
 षड्ढ
 
 वै
@@ -28655,8 +28395,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 प्रथमः
 
 खण्डः
-
-
 
 अथादित्यमब्रुवन्कथमु
 
@@ -28968,8 +28706,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 ता
 
 अब्रुवन्नेता
@@ -29210,8 +28946,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 ता
 
 ब्रह्माब्रुवन्त्वयि
@@ -29418,8 +29152,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 अहमित्यगस्त्यः
 
 १
@@ -29536,8 +29268,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 अष्टमोऽनुवाकस्समाप्तः
 
-
-
 एवं
 
 वा
@@ -29585,8 +29315,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 प्रथमः
 
 खण्डः
-
-
 
 शङ्खाय
 
@@ -29665,8 +29393,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 खण्डः
 
 नवमोऽनुवाकस्समाप्तः
-
-
 
 केनेषितम्पतति
 
@@ -29904,8 +29630,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 यदि
 
 मन्यसे
@@ -30063,8 +29787,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 द्वितीयः
 
 खण्डः
-
-
 
 ब्रह्म
 
@@ -30308,8 +30030,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 ब्रह्मेति
 
 होवाच
@@ -30513,8 +30233,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 खण्डः
 
 दशमोऽनुवाकस्समाप्तः
-
-
 
 आशा
 
@@ -30762,8 +30480,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 सैषा
 
 चतुर्धा
@@ -30911,8 +30627,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 द्वितीयः
 
 खण्डः
-
-
 
 स
 
@@ -31168,8 +30882,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः
 
-
-
 सच्चासच्चासच्च
 
 सच्च
@@ -31305,8 +31017,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 चतुर्थः
 
 खण्डः
-
-
 
 मनो
 
@@ -31521,8 +31231,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 खःडः
 
 एकादशोऽनुवाकस्समाप्तः
-
-
 
 का
 
@@ -31880,8 +31588,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 
 खण्डः 
 
-
-
 तस्या
 
 एष
@@ -32099,7 +31805,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY3NDQ0OTA2
 इत्युपनिषद्ब्राह्मणं
 
 समाप्तम्
-
-
 
 \]

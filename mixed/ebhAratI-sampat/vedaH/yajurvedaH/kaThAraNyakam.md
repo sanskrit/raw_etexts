@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgxNzg2NTA2MTM
 
 \[
 
-
-
 कठारण्यक
-
-
 
 युञ्जते
 
@@ -9967,14 +9963,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgxNzg2NTA2MTM
 समाप्तम्
 
 २४०
-
-
-
-
-
-
-
-
-
 
 \]

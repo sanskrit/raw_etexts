@@ -11,14 +11,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjUzMzIwOTUz
 
 \[
 
-
-
-
-
-
-
-
-
 **दन्त्योष्ठविधिः**
 
 अथ प्रथमोऽध्यायः  
@@ -77,13 +69,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjUzMzIwOTUz
 ॥ इति द्वितीयोऽअध्यायः ॥
 
 ॥ दन्त्योष्ठविधिः समाप्तः ॥
-
-
-
-
-
-
-
-
 
 \]

@@ -12,15 +12,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 \[
 
-
-
 छान्दोग्य
 
 \-
 
 ब्राह्मणम् ।
-
-
 
 देव
 
@@ -58,8 +54,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १
 
-
-
 काम
 
 वेद
@@ -96,8 +90,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 २
 
-
-
 इमं
 
 त
@@ -132,8 +124,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ३
 
-
-
 अग्निं
 
 क्रव्यादमकृण्वन्गुहानाः
@@ -159,8 +149,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 ४
-
-
 
 या
 
@@ -193,8 +181,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 वासः
 
 ५
-
-
 
 परिधत्त
 
@@ -230,8 +216,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ६
 
-
-
 सोमोऽददद्गन्धर्वाय
 
 गन्धर्वोऽदददग्नये
@@ -251,8 +235,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 इमाम्
 
 ७
-
-
 
 प्र
 
@@ -274,8 +256,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ८
 
-
-
 प्रास्याः
 
 पतियानः
@@ -293,8 +273,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 गम्याः
 
 ९
-
-
 
 सग्निरेतु
 
@@ -334,8 +312,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १०
 
-
-
 सिमामग्निस्त्रायतां
 
 गार्हपत्यः
@@ -361,8 +337,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 ११
-
-
 
 स्द्यौस्ते
 
@@ -401,8 +375,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 १२
-
-
 
 स्मा
 
@@ -452,8 +424,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १३
 
-
-
 सप्रजस्यं
 
 पौत्रमृत्युं
@@ -479,8 +449,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 १४
-
-
 
 स्परैतु
 
@@ -548,8 +516,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १
 
-
-
 इममश्मानमारोहा
 
 \-
@@ -575,8 +541,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 द्विषतामधः
 
 १
-
-
 
 इयं
 
@@ -612,8 +576,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 २
 
-
-
 अर्यमणं
 
 नु
@@ -646,8 +608,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ३
 
-
-
 पूषणं
 
 नु
@@ -679,8 +639,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 ४
-
-
 
 कन्यला
 
@@ -720,8 +678,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ५
 
-
-
 एकमिषे
 
 विष्णुस्त्वा
@@ -729,8 +685,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 नयतु
 
 ६
-
-
 
 द्वे
 
@@ -742,8 +696,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ७
 
-
-
 त्रीणि
 
 व्रताय
@@ -753,8 +705,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 नयतु
 
 ८
-
-
 
 चत्वारि
 
@@ -766,8 +716,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ९
 
-
-
 स्पञ्च
 
 पशुभ्यो
@@ -778,8 +726,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १०
 
-
-
 स्षड्रायस्पोषाय
 
 विष्णुस्त्वा
@@ -787,8 +733,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 नयतु
 
 ११
-
-
 
 स्सप्त
 
@@ -801,8 +745,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 नयतु
 
 १२
-
-
 
 स्सखा
 
@@ -830,8 +772,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १३
 
-
-
 स्सुमङ्गलीरियँ
 
 वधूर्
@@ -855,8 +795,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 विपरेतन
 
 १४
-
-
 
 स्समञ्जन्तु
 
@@ -890,8 +828,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १५
 
-
-
 स्गृभ्नामि
 
 ते
@@ -924,8 +860,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १६
 
-
-
 सघोरचक्षुरपतिघ्न्येधि
 
 शिवा
@@ -955,8 +889,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 चतुष्पदे
 
 १७
-
-
 
 सा
 
@@ -994,8 +926,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १८
 
-
-
 सिमां
 
 त्वं
@@ -1024,8 +954,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १९
 
-
-
 स्सम्राज्ञी
 
 श्वशुरे
@@ -1053,8 +981,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 देवृषु
 
 २०
-
-
 
 स्मम
 
@@ -1094,8 +1020,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 २
 
-
-
 लेखासंधिषु
 
 पक्ष्मस्व्
@@ -1121,8 +1045,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 शमयाम्यहम्
 
 १
-
-
 
 केशेषु
 
@@ -1151,8 +1073,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 शमयाम्यहम्
 
 २
-
-
 
 शीले
 
@@ -1184,8 +1104,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ३
 
-
-
 आरोकेषु
 
 च
@@ -1211,8 +1129,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 शमयाम्यहम्
 
 ४
-
-
 
 ऊर्वोरुपस्थे
 
@@ -1240,8 +1156,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ५
 
-
-
 यानि
 
 कानि
@@ -1263,8 +1177,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 तान्यशीशमम्
 
 ६
-
-
 
 ध्रुवा
 
@@ -1296,8 +1208,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ७
 
-
-
 अन्नपाशेन
 
 मणिना
@@ -1321,8 +1231,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 ते
 
 ८
-
-
 
 यदेतद्धृदयं
 
@@ -1350,8 +1258,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ९
 
-
-
 सन्नं
 
 प्राणस्य
@@ -1367,8 +1273,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 त्वासौ
 
 १०
-
-
 
 स्सुकिँ
 
@@ -1404,8 +1308,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ११
 
-
-
 स्मा
 
 विदन्परिपन्थिनो
@@ -1425,8 +1327,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 न्त्वरातयः
 
 १२
-
-
 
 सिह
 
@@ -1453,8 +1353,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 निषीदतु
 
 १३
-
-
 
 सिह
 
@@ -1488,8 +1386,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ३
 
-
-
 अग्ने
 
 प्रायश्चित्ते
@@ -1522,8 +1418,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १
 
-
-
 वायो
 
 प्रायश्चित्ते
@@ -1555,8 +1449,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 अपजहि
 
 २
-
-
 
 चन्द्र
 
@@ -1594,8 +1486,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ३
 
-
-
 सूर्य
 
 प्रायश्चित्ते
@@ -1627,8 +1517,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 अपजहि
 
 ४
-
-
 
 अग्निवायुचन्द्र
 
@@ -1680,8 +1568,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ५
 
-
-
 विष्णुर्योनिं
 
 कल्पयतु
@@ -1709,8 +1595,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 ते
 
 ६
-
-
 
 गर्भं
 
@@ -1740,8 +1624,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ७
 
-
-
 पुमाँ
 
 सौ
@@ -1761,8 +1643,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 पुमान्गर्भस्तवोदरे
 
 ८
-
-
 
 पुमानग्निः
 
@@ -1796,8 +1676,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ४
 
-
-
 अयमूर्जावतो
 
 वृक्ष
@@ -1828,8 +1706,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १
 
-
-
 येनादितेः
 
 सीमानं
@@ -1855,8 +1731,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 कृणोमि
 
 २
-
-
 
 राकामहँ
 
@@ -1890,8 +1764,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ३
 
-
-
 यास्ते
 
 राके
@@ -1924,8 +1796,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ४
 
-
-
 किं
 
 पश्यसि
@@ -1943,8 +1813,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 पत्युः
 
 ५
-
-
 
 या
 
@@ -1986,8 +1854,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ६
 
-
-
 विपश्चित्पुच्छमभरत्
 
 तद्धाता
@@ -2012,15 +1878,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ७
 
-
-
 इयमाज्ञेदमन्नम्
 
 इदमायुरिदममृतम्
 
 ८
-
-
 
 मेधां
 
@@ -2048,8 +1910,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ९
 
-
-
 स्यत्ते
 
 सुसीमे
@@ -2073,8 +1933,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 निगाम्
 
 १०
-
-
 
 स्यत्पृथिव्या
 
@@ -2101,8 +1959,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 रिषम्
 
 ११
-
-
 
 सिन्द्रा
 
@@ -2138,8 +1994,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १२
 
-
-
 स्यददश्चन्द्र
 
 मसि
@@ -2168,8 +2022,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १३
 
-
-
 स्कोऽसि
 
 कतमोऽस्य्
@@ -2185,8 +2037,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 प्रविशासौ
 
 १४
-
-
 
 स्स
 
@@ -2244,8 +2094,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १५
 
-
-
 सङ्गादङ्गात्सँ
 
 श्रवसि
@@ -2272,8 +2120,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १६
 
-
-
 सङ्गादङ्गात्संभवसि
 
 हृदयादधि
@@ -2297,8 +2143,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 शतम्
 
 १७
-
-
 
 सश्मा
 
@@ -2330,8 +2174,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १८
 
-
-
 स्पशूनां
 
 त्वा
@@ -2342,15 +2184,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ५
 
-
-
 आयमगात्सविता
 
 क्षुरेण
 
 १
-
-
 
 उष्णेन
 
@@ -2360,8 +2198,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 २
 
-
-
 आप
 
 उन्दन्तु
@@ -2370,23 +2206,17 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ३
 
-
-
 विष्णोर्दँ
 
 ष्ट्रोऽसि
 
 ४
 
-
-
 ओषधे
 
 त्रायस्वैनम्
 
 ५
-
-
 
 स्वधिते
 
@@ -2397,8 +2227,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 सीः
 
 ६
-
-
 
 येन
 
@@ -2431,8 +2259,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 वर्चसे
 
 ७
-
-
 
 त्र्
 
@@ -2478,8 +2304,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ८
 
-
-
 अग्ने
 
 व्रतपते
@@ -2507,8 +2331,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 ९
-
-
 
 स्वायो
 
@@ -2538,8 +2360,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १०
 
-
-
 स्सूर्य
 
 व्रतपते
@@ -2567,8 +2387,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 ११
-
-
 
 स्चन्द्र
 
@@ -2598,8 +2416,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १२
 
-
-
 स्व्रतानाँ
 
 व्रतपते
@@ -2628,8 +2444,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १३
 
-
-
 सागन्त्रा
 
 समगन्महि
@@ -2651,8 +2465,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 चरतादयम्
 
 १४
-
-
 
 सग्निष्टे
 
@@ -2676,8 +2488,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १५
 
-
-
 स्ब्रह्मचर्यमागामुप
 
 मा
@@ -2686,8 +2496,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १६
 
-
-
 स्को
 
 नामास्यसौ
@@ -2695,8 +2503,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 नामास्मि
 
 १७
-
-
 
 स्देवस्य
 
@@ -2718,13 +2524,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १८
 
-
-
 स्सूर्यस्यावृतमन्वावर्तस्वासौ
 
 १९
-
-
 
 स्प्राणानां
 
@@ -2744,8 +2546,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 २०
 
-
-
 सहुर
 
 इदं
@@ -2755,8 +2555,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 परिददाम्यमुम्
 
 २१
-
-
 
 स्कृशन
 
@@ -2768,8 +2566,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 २२
 
-
-
 स्प्रजापते
 
 त्वा
@@ -2777,8 +2573,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 परिददाम्यसौ
 
 २३
-
-
 
 स्देवाय
 
@@ -2790,13 +2584,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 २४
 
-
-
 स्ब्रह्मचार्यस्यसौ
 
 २५
-
-
 
 स्समिधमाधेह्यपोऽशान
 
@@ -2811,8 +2601,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाप्सीः
 
 २६
-
-
 
 सियं
 
@@ -2845,8 +2633,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 मेखलेयम्
 
 २७
-
-
 
 सृतस्य
 
@@ -2884,8 +2670,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 २८
 
-
-
 स्तत्सवितुर्वरेण्यं
 
 भर्गो
@@ -2906,15 +2690,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 २९
 
-
-
 स्भूर्भुवः
 
 स्वरोँ
 
 ३०
-
-
 
 स्सुश्रवः
 
@@ -2945,8 +2725,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 भूयासम्
 
 ३१
-
-
 
 सग्नये
 
@@ -2988,8 +2766,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ३२
 
-
-
 स्पुनर्मामैत्विन्द्रि
 
 यं
@@ -3011,8 +2787,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 मा
 
 ३३
-
-
 
 स्पुनर्मनः
 
@@ -3054,8 +2828,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ६
 
-
-
 ये
 
 अप्स्वन्तरग्नयः
@@ -3082,8 +2854,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १
 
-
-
 यदपां
 
 घोरँ
@@ -3098,8 +2868,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 २
 
-
-
 यो
 
 रोचनस्तमिह
@@ -3111,8 +2879,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 मामभिषिञ्चामि
 
 ३
-
-
 
 यशसे
 
@@ -3133,8 +2899,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 अपचित्यै
 
 ४
-
-
 
 येन
 
@@ -3168,8 +2932,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ५
 
-
-
 उद्यन्भ्राजभृष्टिभिरिन्द्रो
 
 मरुद्भिरस्थात्
@@ -3198,8 +2960,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ६
 
-
-
 उद्यन्भ्राजभृष्टिभिरिन्द्रो
 
 मरुद्भिरस्थात्
@@ -3227,8 +2987,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 विश
 
 ७
-
-
 
 उद्यन्भ्राजभृष्टिभिरिन्द्रो
 
@@ -3260,8 +3018,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ८
 
-
-
 चक्षुरसि
 
 चक्षुष्ट्वमस्य्
@@ -3291,8 +3047,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 सीः
 
 ९
-
-
 
 सुदुत्तमँ
 
@@ -3324,8 +3078,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १०
 
-
-
 स्श्रीरसि
 
 मयि
@@ -3333,8 +3085,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 रमस्व
 
 ११
-
-
 
 स्नेत्र्
 
@@ -3350,8 +3100,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १२
 
-
-
 स्गन्धर्वोऽस्युपाव
 
 उप
@@ -3359,8 +3107,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 मामव
 
 १३
-
-
 
 स्यक्षमिव
 
@@ -3373,8 +3119,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 भूयासम्
 
 १४
-
-
 
 सोष्ठापिधाना
 
@@ -3401,8 +3145,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 वादय
 
 १५
-
-
 
 स्वनस्पते
 
@@ -3440,8 +3182,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ७
 
-
-
 इमा
 
 मे
@@ -3476,8 +3216,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १
 
-
-
 इमा
 
 मधुमतीर्मह्यम्
@@ -3504,8 +3242,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 २
 
-
-
 गवाँ
 
 श्लेष्मासि
@@ -3517,8 +3253,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 श्लिष्यन्तु
 
 ३
-
-
 
 संग्रहण
 
@@ -3548,8 +3282,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ४
 
-
-
 भुवनमसि
 
 साहस्रम्
@@ -3567,8 +3299,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 अक्षतमरिष्टमिलान्दम्
 
 ५
-
-
 
 गोपोषणमसि
 
@@ -3589,8 +3319,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 त्वा
 
 ६
-
-
 
 लोहितेन
 
@@ -3627,8 +3355,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 क्रियासम्
 
 ७
-
-
 
 इयं
 
@@ -3668,17 +3394,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 -------------------
 
-
-
-
-
 द्वितीयो
 
 भागः।
-
-
-
-
 
 यः
 
@@ -3696,8 +3414,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १
 
-
-
 यो
 
 दक्षिणस्यां
@@ -3713,8 +3429,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 बलिः
 
 २
-
-
 
 यः
 
@@ -3732,8 +3446,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ३
 
-
-
 य
 
 उदीच्यां
@@ -3749,8 +3461,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 बलिः
 
 ४
-
-
 
 नमः
 
@@ -3784,8 +3494,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ५
 
-
-
 सोमो
 
 राजा
@@ -3813,8 +3521,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 सौमस्तम्बमहिजम्भनमसि
 
 ६
-
-
 
 याँ
 
@@ -3851,8 +3557,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 सिष्ट
 
 ७
-
-
 
 मा
 
@@ -3900,8 +3604,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ८
 
-
-
 शतायुधाय
 
 शतवीर्याय
@@ -3929,8 +3631,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 विश्वा
 
 ९
-
-
 
 स्ये
 
@@ -3966,8 +3666,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १०
 
-
-
 स्ग्रीष्मो
 
 हेमन्त
@@ -4000,8 +3698,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ११
 
-
-
 सिद्वत्सराय
 
 परिवत्सराय
@@ -4031,8 +3727,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्याम
 
 १२
-
-
 
 स्भद्रा
 
@@ -4071,8 +3765,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 १३
-
-
 
 समोऽसि
 
@@ -4118,8 +3810,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १४
 
-
-
 सग्निः
 
 प्राश्नातु
@@ -4151,8 +3841,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 १५
-
-
 
 सेतमु
 
@@ -4194,8 +3882,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १
 
-
-
 प्रथमा
 
 ह
@@ -4221,8 +3907,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 समाम्
 
 १
-
-
 
 प्रति
 
@@ -4254,8 +3938,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 २
 
-
-
 प्रति
 
 द्यावापृथिव्योः
@@ -4265,8 +3947,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 यज्ञे
 
 ३
-
-
 
 स्योना
 
@@ -4298,8 +3978,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ४
 
-
-
 यत्पशवः
 
 प्रध्यायत
@@ -4323,8 +4001,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 मनः
 
 ५
-
-
 
 अनु
 
@@ -4350,8 +4026,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ६
 
-
-
 आत्तं
 
 देवेभ्यो
@@ -4359,8 +4033,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 हविः
 
 ७
-
-
 
 यत्पशुर्मायुमकृतो
 
@@ -4383,8 +4055,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 हसः
 
 ८
-
-
 
 अग्नावग्निश्चरति
 
@@ -4420,8 +4090,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ९
 
-
-
 सौलूखलाः
 
 संप्रवदन्ति
@@ -4449,8 +4117,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 ते
 
 १०
-
-
 
 सिडायास्पदं
 
@@ -4484,8 +4150,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ११
 
-
-
 सेषैव
 
 सा
@@ -4517,8 +4181,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 अन्तः
 
 १२
-
-
 
 सेषैव
 
@@ -4554,8 +4216,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १३
 
-
-
 स्यां
 
 देवाः
@@ -4581,8 +4241,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 समाम्
 
 १४
-
-
 
 स्सँ
 
@@ -4614,8 +4272,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १५
 
-
-
 सन्विमं
 
 नो
@@ -4646,8 +4302,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 २
 
-
-
 स्वाहा
 
 सोमाय
@@ -4656,15 +4310,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १
 
-
-
 स्वाहाग्नये
 
 कव्यवाहनाय
 
 २
-
-
 
 अपहता
 
@@ -4677,8 +4327,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 वेदिषदः
 
 ३
-
-
 
 ये
 
@@ -4709,8 +4357,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 ल्लोकात्प्रणुदत्वस्मात्
 
 ४
-
-
 
 एत
 
@@ -4750,8 +4396,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ५
 
-
-
 अत्र
 
 पितरो
@@ -4762,8 +4406,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ६
 
-
-
 अमीमदन्त
 
 पितरो
@@ -4771,8 +4413,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 यथाभागमावृषायिषत
 
 ७
-
-
 
 नमो
 
@@ -4792,8 +4432,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ८
 
-
-
 नमो
 
 वः
@@ -4812,8 +4450,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ९
 
-
-
 स्नमो
 
 वः
@@ -4830,8 +4466,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १०
 
-
-
 स्नमो
 
 वः
@@ -4846,8 +4480,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ११
 
-
-
 स्गृहान्नः
 
 पितरो
@@ -4855,8 +4487,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 दत्त
 
 १२
-
-
 
 स्सदो
 
@@ -4870,8 +4500,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १३
 
-
-
 सेतद्वः
 
 पितरो
@@ -4881,8 +4509,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 एतद्वस्पितरस्वासस्
 
 १४
-
-
 
 सूर्जँ
 
@@ -4910,8 +4536,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १५
 
-
-
 साधत्त
 
 पितरो
@@ -4931,8 +4555,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्यात्
 
 १६
-
-
 
 सभून्नो
 
@@ -4965,8 +4587,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 योनिम्
 
 १७
-
-
 
 स्वह
 
@@ -5001,8 +4621,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 १८
-
-
 
 स्जातवेदो
 
@@ -5046,8 +4664,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १९
 
-
-
 स्यत्कुसीदमप्रदत्तं
 
 मयेह
@@ -5080,8 +4696,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 २०
 
-
-
 सेकाष्टका
 
 तपसा
@@ -5111,8 +4725,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 २१
 
 ३
-
-
 
 इदं
 
@@ -5149,8 +4761,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 वसु
 
 १
-
-
 
 इमँ
 
@@ -5192,8 +4802,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 २
 
-
-
 भरामेध्मं
 
 कृणवामा
@@ -5234,8 +4842,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ३
 
-
-
 शकेम
 
 त्वा
@@ -5275,8 +4881,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 तव
 
 ४
-
-
 
 तपश्च
 
@@ -5335,8 +4939,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 प्रपद्ये
 
 ५
-
-
 
 विरूपाक्षोऽसि
 
@@ -5541,8 +5143,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ६
 
-
-
 सहस्रबाहुर्गौपत्यः
 
 स
@@ -5568,8 +5168,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 ७
-
-
 
 कौतोमतँ
 
@@ -5611,8 +5209,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ८
 
-
-
 वृक्ष
 
 इव
@@ -5634,8 +5230,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 भोगान्धुक्ष्वाक्षतान्बृहन्
 
 ९
-
-
 
 सृतँ
 
@@ -5660,8 +5254,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 श्रियम्
 
 १०
-
-
 
 सभिभागोऽसि
 
@@ -5693,8 +5285,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ११
 
-
-
 स्कोश
 
 इव
@@ -5722,8 +5312,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 मे
 
 १२
-
-
 
 साकाशस्यैष
 
@@ -5754,8 +5342,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 मे
 
 १३
-
-
 
 स्भूर्भुवः
 
@@ -5815,8 +5401,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ४
 
-
-
 मूर्ध्नोऽधि
 
 मे
@@ -5838,8 +5422,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 १
-
-
 
 ग्रीवाभ्यो
 
@@ -5869,8 +5451,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 २
 
-
-
 बाहुभ्यां
 
 मे
@@ -5894,8 +5474,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 ३
-
-
 
 वङ्क्ष्णाभ्यो
 
@@ -5923,8 +5501,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ४
 
-
-
 जङ्गाभ्यां
 
 मे
@@ -5946,8 +5522,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 ५
-
-
 
 परिबाध्नँ
 
@@ -5978,8 +5552,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 ६
-
-
 
 अपेहि
 
@@ -6014,8 +5586,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 ७
-
-
 
 प्रजापते
 
@@ -6055,8 +5625,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ८
 
-
-
 यशोऽहं
 
 भवामि
@@ -6085,8 +5653,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ९
 
-
-
 स्पुनर्मा
 
 यन्तु
@@ -6106,8 +5672,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 सोमपृष्ठे
 
 १०
-
-
 
 स्रूप
 
@@ -6141,8 +5705,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ११
 
-
-
 स्यदिदं
 
 पश्यामि
@@ -6173,8 +5735,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १२
 
-
-
 सहर्नो
 
 अत्यपीपरद्रा
@@ -6190,8 +5750,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 अतिपारयत्
 
 १३
-
-
 
 सादित्य
 
@@ -6215,15 +5773,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १४
 
-
-
 स्भलाय
 
 स्वाहा
 
 १५
-
-
 
 स्भल्लाय
 
@@ -6232,8 +5786,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 १६
 
 ५
-
-
 
 वास्तोष्पते
 
@@ -6271,8 +5823,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १
 
-
-
 हये
 
 राके
@@ -6304,8 +5854,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 २
-
-
 
 ये
 
@@ -6345,8 +5893,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ३
 
-
-
 यथा
 
 यन्ति
@@ -6376,8 +5922,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 ४
-
-
 
 यथा
 
@@ -6413,8 +5957,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ५
 
-
-
 वसुवन
 
 एधि
@@ -6428,8 +5970,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 एधि
 
 ६
-
-
 
 वशंगमौ
 
@@ -6460,8 +6000,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 ७
-
-
 
 शङ्खश्च
 
@@ -6494,8 +6032,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 ८
-
-
 
 आकूतीं
 
@@ -6555,8 +6091,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ९
 
-
-
 सिदमहमिमँ
 
 विश्वकर्माणँ
@@ -6568,8 +6102,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 १०
-
-
 
 स्पूर्णहोमँ
 
@@ -6601,8 +6133,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ११
 
-
-
 सिन्द्रा
 
 मवदात्
@@ -6629,8 +6159,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १२
 
-
-
 सन्नँ
 
 वा
@@ -6648,8 +6176,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 १३
-
-
 
 स्श्रीर्वा
 
@@ -6669,8 +6195,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १४
 
-
-
 सन्नस्य
 
 घृतमेव
@@ -6687,23 +6211,17 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १५
 
-
-
 स्क्षुधे
 
 स्वाहा
 
 १६
 
-
-
 स्क्षुत्पिपासाभ्याँ
 
 स्वाहा
 
 १७
-
-
 
 स्मा
 
@@ -6724,8 +6242,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 उग्रस्फेनमिवास्यम्
 
 १८
-
-
 
 स्तुर
 
@@ -6750,8 +6266,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 १९
 
 ६
-
-
 
 हतस्ते
 
@@ -6779,8 +6293,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १
 
-
-
 भरद्वाजस्य
 
 मन्त्रेण
@@ -6792,8 +6304,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 त्वा
 
 २
-
-
 
 कृमिँ
 
@@ -6816,8 +6326,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 चतुर्हनुम्
 
 ३
-
-
 
 हतः
 
@@ -6851,8 +6359,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ४
 
-
-
 कृमिमिन्द्र
 
 स्य
@@ -6865,8 +6371,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ५
 
-
-
 हताः
 
 कृमयः
@@ -6878,8 +6382,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 ६
 
 ७
-
-
 
 अर्हणा
 
@@ -6905,8 +6407,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १
 
-
-
 इदमहमिमां
 
 पद्याँ
@@ -6916,8 +6416,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 अन्नाद्यायाधितिष्ठामि
 
 २
-
-
 
 या
 
@@ -6947,8 +6445,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ३
 
-
-
 या
 
 ओषधीः
@@ -6977,8 +6473,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ४
 
-
-
 यतो
 
 देवीः
@@ -6993,8 +6487,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ५
 
-
-
 सव्यं
 
 पादमवनेनिजे
@@ -7007,8 +6499,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ६
 
-
-
 दक्षिणं
 
 पादमवनेनिजे
@@ -7019,8 +6509,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ७
 
-
-
 पूर्वमन्यमपरमन्यमुभौ
 
 पादाववनेनिजे
@@ -7030,8 +6518,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 अभयस्यावरुद्ध्यै
 
 ८
-
-
 
 अन्नस्य
 
@@ -7045,8 +6531,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ९
 
-
-
 स्यशोऽसि
 
 यशो
@@ -7057,15 +6541,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 १०
 
-
-
 स्यशसो
 
 यशोऽसि
 
 ११
-
-
 
 स्यशसो
 
@@ -7088,8 +6568,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 स्वाहा
 
 १२
-
-
 
 स्मुञ्च
 
@@ -7118,8 +6596,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 पिबतूदकम्
 
 १३
-
-
 
 स्माता
 
@@ -7159,8 +6635,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 
 ८
 
-
-
 इति
 
 द्वितीयो
@@ -7168,11 +6642,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjU0NDE0NDk1
 भागः।
 
 ------------------
-
-
-
-
-
-
 
 \]

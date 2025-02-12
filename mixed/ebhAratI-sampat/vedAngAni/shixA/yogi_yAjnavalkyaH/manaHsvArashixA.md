@@ -13,24 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI1NzI2NzgxNzE
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **मनःस्वार शिक्षा**
-
-
 
 मनः स्वारं प्रवक्ष्यामि ब्रह्मणा निर्मितं पुरा  
 भगवद्याज्ञवल्क्येन भाषितँल्लोकहेतवे १  
@@ -102,16 +85,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI1NzI2NzgxNzE
 
 **
 ----------------------------------------------------------------------------------**
-
-
-
-
-
-
-
-
-
-
-
 
 \]

@@ -12,27 +12,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 \[
 
-
-
-
-
    
 
-            
-
-
-
 ॐ
-
-
 
               
 
 सञ्ज्ञाप्रकरणम्
 
 ।
-
-
 
               
 
@@ -44,8 +32,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
               
 
 फक्किकाप्रकाश
@@ -53,10 +39,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
-
-
 
 संवास्
 
@@ -508,8 +490,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 नृत्तावसाने
 
 नटराजराजो
@@ -568,8 +548,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 उद्धर्तुकाम
 
 :
@@ -606,15 +584,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 येनाक्षरसमाम्नायमित्यादिकमप्यत्र
 
 मूलम्
 
 ।
-
-
 
 यद्यपि
 
@@ -817,8 +791,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 परे
 
@@ -1075,8 +1047,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 बोध्यम्
 
 ।
-
-
 
 एवं
 
@@ -1398,8 +1368,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 केचित्तु
 
 लणकारस्यानुनासिकत्वे
@@ -1433,8 +1401,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 परे
 
@@ -1501,8 +1467,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 अयं
 
@@ -1675,8 +1639,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 भाष्ये
 
 ।
-
-
 
 अत्र
 
@@ -1950,8 +1912,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तदसत्
 
 ।
@@ -1979,8 +1939,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 राजाज्ञाऽस्ति
 
 ।
-
-
 
 अपरे
 
@@ -2066,8 +2024,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तदप्यकिञ्चित्करम्
 
 ।
@@ -2151,8 +2107,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 बोध्यम्
 
 ।
-
-
 
 तस्मादनेकक्लेशकल्पनापेक्षया
 
@@ -2466,8 +2420,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अन्त्यलक्षणे
 
 आद्यसम्बन्ध
@@ -2483,8 +2435,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 तत्त्ववारणायेत्युह्मम्
 
 ।
-
-
 
 केचित्तु
 
@@ -2547,8 +2497,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 अथ
 
@@ -2892,8 +2840,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 परेतु
 
 अन्त्यमित्येवावर्तनीयम्
@@ -2927,8 +2873,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 यद्वा
 
@@ -3031,8 +2975,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 अपदेश
 
@@ -3314,8 +3256,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ये
 
 तु
@@ -3526,8 +3466,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 यत्तु
 
 अवयवत्वावच्छिन्न्विषयकबोधजनकाद्यन्तशब्दाभ्यामवयविन
@@ -3539,8 +3477,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 इति
 
 ।
-
-
 
 तदयुक्तम्
 
@@ -3559,8 +3495,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 तेनावयव्याक्षेपासम्भवात्
 
 ।
-
-
 
 तस्य
 
@@ -3669,8 +3603,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 प्रधानपरामर्शकत्वात्
 
 ।
-
-
 
 स्यादेतद्
 
@@ -4002,8 +3934,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अन्ये
 
 तु
@@ -4112,8 +4042,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ---
 
-
-
 सर्वे
 
 सर्वपदादेशा
@@ -4126,8 +4054,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 एकदेशविकारे
 
 हि
@@ -4139,8 +4065,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 ॥
 
 इति
-
-
 
 आनुमानिकादेशस्वीकार
 
@@ -4177,8 +4101,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 तस्यावश्कत्वात्
 
 ।
-
-
 
 नापि
 
@@ -4240,8 +4162,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 न्यायमते
 
 ईश्वरेच्छारूपाया
@@ -4269,8 +4189,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 ज्ञापनस्यायुक्तत्वात्
 
 ।
-
-
 
 नच
 
@@ -4379,8 +4297,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 पर्यात्वमाभावात्।
 
 ( 2 )
-
-
 
 ननु
 
@@ -4994,8 +4910,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 एवं
 
 च
@@ -5056,8 +4970,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 शक्यतावच्छेदके
@@ -5111,8 +5023,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 बाधकाभावात्
 
 ।
-
-
 
 अत्रेति
 
@@ -5314,8 +5224,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 । 
 
-
-
 नन्वेकारैकारयौ
 
 :
@@ -5513,8 +5421,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 नन्वत्र
 
@@ -5824,8 +5730,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 ""
@@ -5934,8 +5838,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 यदि
 
 तु
@@ -5956,8 +5858,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तेभ्योऽपि
 
 विवृतावेङै
@@ -5973,8 +5873,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 ॥इति
 
 ----
-
-
 
 शिक्षोक्तेन
 
@@ -5999,8 +5897,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 बोध्यम्
 
 ।
-
-
 
 नापादनीयमिति
 
@@ -6200,8 +6096,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तत्र
 
 हि
@@ -6300,8 +6194,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अयं
 
 भाव
@@ -6361,8 +6253,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 प्रापिताप्रामाण्यग्रहादणुदिदितृयेतद्वाक्यार्थासामर्थ्यादिति
 
 ।
-
-
 
 एवं
 
@@ -6431,8 +6321,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 तथा
 
@@ -6696,8 +6584,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अपरे
 
 तु
@@ -6730,61 +6616,27 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ॥
 
-
-
-
-
 इति
 
 संज्ञाप्रकरणम्
 
 ॥
 
-
-
-
-
  \_\_\_\_\*\_\_\_\_
-
-
-
-
-
-
 
  
 
-
-
-
-
-
-
-
-
 .
-
-
-
-
 
    
 
-            
-
-
-
 ॐ
-
-
 
               
 
 सञ्ज्ञाप्रकरणम्
 
 ।
-
-
 
               
 
@@ -6796,8 +6648,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
               
 
 फक्किकाप्रकाश
@@ -6805,10 +6655,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
-
-
 
 संवास्
 
@@ -7260,8 +7106,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 नृत्तावसाने
 
 नटराजराजो
@@ -7320,8 +7164,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 उद्धर्तुकाम
 
 :
@@ -7358,15 +7200,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 येनाक्षरसमाम्नायमित्यादिकमप्यत्र
 
 मूलम्
 
 ।
-
-
 
 यद्यपि
 
@@ -7569,8 +7407,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 परे
 
@@ -7827,8 +7663,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 बोध्यम्
 
 ।
-
-
 
 एवं
 
@@ -8150,8 +7984,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 केचित्तु
 
 लणकारस्यानुनासिकत्वे
@@ -8185,8 +8017,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 परे
 
@@ -8253,8 +8083,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 अयं
 
@@ -8427,8 +8255,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 भाष्ये
 
 ।
-
-
 
 अत्र
 
@@ -8702,8 +8528,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तदसत्
 
 ।
@@ -8731,8 +8555,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 राजाज्ञाऽस्ति
 
 ।
-
-
 
 अपरे
 
@@ -8818,8 +8640,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तदप्यकिञ्चित्करम्
 
 ।
@@ -8903,8 +8723,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 बोध्यम्
 
 ।
-
-
 
 तस्मादनेकक्लेशकल्पनापेक्षया
 
@@ -9218,8 +9036,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अन्त्यलक्षणे
 
 आद्यसम्बन्ध
@@ -9235,8 +9051,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 तत्त्ववारणायेत्युह्मम्
 
 ।
-
-
 
 केचित्तु
 
@@ -9299,8 +9113,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 अथ
 
@@ -9644,8 +9456,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 परेतु
 
 अन्त्यमित्येवावर्तनीयम्
@@ -9679,8 +9489,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 यद्वा
 
@@ -9783,8 +9591,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 अपदेश
 
@@ -10066,8 +9872,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ये
 
 तु
@@ -10278,8 +10082,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 यत्तु
 
 अवयवत्वावच्छिन्न्विषयकबोधजनकाद्यन्तशब्दाभ्यामवयविन
@@ -10291,8 +10093,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 इति
 
 ।
-
-
 
 तदयुक्तम्
 
@@ -10311,8 +10111,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 तेनावयव्याक्षेपासम्भवात्
 
 ।
-
-
 
 तस्य
 
@@ -10421,8 +10219,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 प्रधानपरामर्शकत्वात्
 
 ।
-
-
 
 स्यादेतद्
 
@@ -10754,8 +10550,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अन्ये
 
 तु
@@ -10864,8 +10658,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ---
 
-
-
 सर्वे
 
 सर्वपदादेशा
@@ -10878,8 +10670,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 एकदेशविकारे
 
 हि
@@ -10891,8 +10681,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 ॥
 
 इति
-
-
 
 आनुमानिकादेशस्वीकार
 
@@ -10929,8 +10717,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 तस्यावश्कत्वात्
 
 ।
-
-
 
 नापि
 
@@ -10992,8 +10778,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 न्यायमते
 
 ईश्वरेच्छारूपाया
@@ -11021,8 +10805,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 ज्ञापनस्यायुक्तत्वात्
 
 ।
-
-
 
 नच
 
@@ -11131,8 +10913,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 पर्यात्वमाभावात्।
 
 ( 2 )
-
-
 
 ननु
 
@@ -11746,8 +11526,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 एवं
 
 च
@@ -11808,8 +11586,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 शक्यतावच्छेदके
@@ -11863,8 +11639,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 बाधकाभावात्
 
 ।
-
-
 
 अत्रेति
 
@@ -12066,8 +11840,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 । 
 
-
-
 नन्वेकारैकारयौ
 
 :
@@ -12265,8 +12037,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 नन्वत्र
 
@@ -12576,8 +12346,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 ""
@@ -12686,8 +12454,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 यदि
 
 तु
@@ -12708,8 +12474,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तेभ्योऽपि
 
 विवृतावेङै
@@ -12725,8 +12489,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 ॥इति
 
 ----
-
-
 
 शिक्षोक्तेन
 
@@ -12751,8 +12513,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 बोध्यम्
 
 ।
-
-
 
 नापादनीयमिति
 
@@ -12952,8 +12712,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तत्र
 
 हि
@@ -13052,8 +12810,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अयं
 
 भाव
@@ -13113,8 +12869,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 प्रापिताप्रामाण्यग्रहादणुदिदितृयेतद्वाक्यार्थासामर्थ्यादिति
 
 ।
-
-
 
 एवं
 
@@ -13183,8 +12937,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 तथा
 
@@ -13448,8 +13200,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अपरे
 
 तु
@@ -13482,57 +13232,21 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ॥
 
-
-
-
-
 इति
 
 संज्ञाप्रकरणम्
 
 ॥
 
-
-
-
-
  \_\_\_\_\*\_\_\_\_
-
-
-
-
-
-
 
  
 
-
-
-
-
-
-
-
-
 .
-
-
-
-
-
-
-
-
 
 स्वरसन्धिप्रकरणम्
 
 ।
-
-
-
-
-
-
 
 ननु
 
@@ -13774,8 +13488,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 नन्वेवं
 
 सिद्धे
@@ -13797,8 +13509,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 तच्चरितार्थ्यात्
 
 ।
-
-
 
 नन्वेवं
 
@@ -13827,8 +13537,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 प्राङनिवेदनात्
 
 ।
-
-
 
 एवं
 
@@ -13879,8 +13587,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 नास्ति
 
 ।
-
-
 
 ननु
 
@@ -13958,8 +13664,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अत
 
 एव
@@ -14020,8 +13724,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 एतेन
 
 स्थानप्रमाणोभयान्तरतमे
@@ -14059,8 +13761,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 इतिपरिभाषणात्
 
 ।
-
-
 
 चतुर्विधमान्तर्यं
 
@@ -14150,8 +13850,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 इयं
 
 च
@@ -14233,8 +13931,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 एवं
 
@@ -14430,8 +14126,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 युक्तश्चायमेव
 
 पक्षो
@@ -14464,8 +14158,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तथा
 
 चेक्पदप्रतिपाद्येत्वादिजात्यवच्छिन्नानां
@@ -14489,8 +14181,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 विधीयन्ते
 
 ।
-
-
 
 अत्र
 
@@ -14575,8 +14265,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 न
 
@@ -14669,8 +14357,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 गुणभेदकपक्षज्ञापनपरमित्याशयात्
 
 ।
-
-
 
 अण्प्रत्याख्यानपक्षे
 
@@ -14812,8 +14498,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 ""
@@ -14950,8 +14634,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ॥
 
-
-
 इकारस्य
 
 यकार
@@ -14975,8 +14657,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 उपपादितश्चायं
 
 प्राक्।
-
-
 
 नन्विह
 
@@ -15406,8 +15086,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 यद्यपि
@@ -15520,8 +15198,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 विष्णवे
@@ -15567,8 +15243,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 तद्वारणात्
 
 ।
-
-
 
 ननु
 
@@ -15697,8 +15371,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 भाष्ये
 
 ।
-
-
 
 ननु
 
@@ -15968,8 +15640,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अन्ये
 
 तु
@@ -16198,8 +15868,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 नन्वेवमपि
 
 ""
@@ -16298,8 +15966,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 एतेन
 
 ""
@@ -16317,8 +15983,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 मन्दोक्तपास्तम्
 
 ।
-
-
 
 वस्तुगत्या
 
@@ -16894,8 +16558,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 केचित्तु
 
 यिप्रत्यये
@@ -16935,8 +16597,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 धेयम्
 
 ।
-
-
 
 तन्निमित्तिस्येति
 
@@ -17454,8 +17114,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 पूर्वेण्
 
 ?
@@ -17858,8 +17516,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 एवं
 
 चेदमेव
@@ -17942,8 +17598,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 सन्तीति।
 
-
-
 अयं
 
 भाव
@@ -18000,8 +17654,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तदुक्तं
 
 ""
@@ -18040,8 +17692,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 वाक्यसंस्कारस्तु
 
 वाक्यात्
@@ -18059,8 +17709,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 यद्यपि
 
@@ -18103,8 +17751,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 तदप्युक्तम्
 
@@ -18238,8 +17884,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 न
 
 चात्रापि
@@ -18273,8 +17917,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 तावत्साधनीयत्वात्
 
 ।
-
-
 
 पदान्तविधाविति
 
@@ -18337,8 +17979,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 संपद्यते
 
 ।
-
-
 
 यत्तु
 
@@ -18424,8 +18064,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 न
 
 च
@@ -18465,8 +18103,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 ननु
 
@@ -18517,8 +18153,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 मूर्द्धादिस्थानत्वात्
 
 ।
-
-
 
 अयंभाव
 
@@ -18793,8 +18427,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 इत्यलम्
 
 ।
-
-
 
 अत्र
 
@@ -19166,15 +18798,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तदाह
 
 कृष्णर्द्धिरित्यत्रारिति
 
 ।
-
-
 
 नचैवं
 
@@ -19408,8 +19036,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 परस्मादप्यपवादस्य
 
 प्रबलत्वाद्वृद्धिरेव
@@ -19600,8 +19226,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 असाधुरेवेति
 
 ।
@@ -19790,8 +19414,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 किञ्च
 
 ""
@@ -19909,8 +19531,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 केचित्तु
 
@@ -20070,8 +19690,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 रपरश्रुतेरन्यत्र
@@ -20179,8 +19797,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 उपसर्गेणैवेति
 
@@ -20418,8 +20034,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननूपसर्गेणादिक्षप्तेऽपि
 
 तस्मिन्
@@ -20576,8 +20190,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 ""
@@ -20715,8 +20327,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 सिद्त्योत्
 
 ।
-
-
 
 यदि
 
@@ -20940,8 +20550,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 यत्
 
 तु
@@ -21150,8 +20758,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अत्रापि
 
 "
@@ -21293,8 +20899,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 प्रवर्त्तत
 
 इत्यन्ये
-
-
 
 न
 
@@ -21494,8 +21098,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 यत्
 
 तु
@@ -21564,8 +21166,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 परे
 
 ।
-
-
 
 न
 
@@ -21709,8 +21309,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 यद्यपि
 
 वैदिकप्रकियायामानट्
@@ -21795,8 +21393,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 केचित्त्वाक्षिप्तेनैव
 
 सिद्धे
@@ -21837,8 +21433,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 सूत्रे
@@ -21878,8 +21472,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 गतिसंज्ञत्वात्
 
 ।
-
-
 
 वाक्यभेदेनेति
 
@@ -21926,8 +21518,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 अत्र
 
@@ -22151,8 +21741,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 यत्
 
 तुङसि
@@ -22321,8 +21909,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 युक्तत्वात्।
 
-
-
 केचित्
 
 तु
@@ -22419,8 +22005,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 वस्तुतस्तु
 
 "
@@ -22460,8 +22044,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 अचि
 
@@ -22577,8 +22159,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 :
 
-
-
 ननु
 
 यथान्यासे
@@ -22632,8 +22212,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 प्रत्याख्यानात्
 
 ।
-
-
 
 तथा
 
@@ -22698,8 +22276,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 स्पष्टतरमिदम्
 
 ।
-
-
 
 ननु
 
@@ -22784,8 +22360,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 इत्यादि
 
 ।
-
-
 
 गवाक्ष
 
@@ -22917,8 +22491,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 व्यवस्थितविभाषत्वध्वननात्।
 
-
-
 देवत्रातो
 
 गलो
@@ -22934,8 +22506,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 मिथस्ते
 
@@ -22985,8 +22555,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 विभाषानुवृत्ते
 
 :
@@ -23004,8 +22572,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 नित्यग्रहणं
 
@@ -23151,8 +22717,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 :
 
-
-
 न
 
 च
@@ -23219,8 +22783,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ह्रस्वविधानसामर्थ्यादेवेति
 
 ।
@@ -23284,8 +22846,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 इति
 
 ।
-
-
 
 उक्तपरिभाषायां
 
@@ -23358,8 +22918,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 सम्बन्धार्थम्
 
 ।
-
-
 
 अत
 
@@ -23459,8 +23017,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 भाष्ये
 
 स्थितमिति
@@ -23482,8 +23038,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -23588,8 +23142,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 इतिनिषेधस्यवक्ष्यमाणत्वात्
 
 ।
-
-
 
 नन्वको
 
@@ -23814,8 +23366,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 बाधादिति
 
 ।
-
-
 
 केचित्तु
 
@@ -24061,8 +23611,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 वत्किमिति
 
 ।
@@ -24199,8 +23747,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अयं
 
 भाव
@@ -24317,8 +23863,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 स्यादिति
 
-
-
 अत्र
 
 भेदघाटितसादृश्यं
@@ -24342,8 +23886,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 निरूपितम्
 
 ।
-
-
 
 न
 
@@ -24376,8 +23918,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 वर्णमात्रापेक्षप्रकृतिभावस्यान्रङ्गत्वात्
 
 ।
-
-
 
 मात्किमिति
 
@@ -24545,8 +24085,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अर्थग्रहणं
 
 किमिति
@@ -24711,8 +24249,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 :
 
-
-
 अत्र
 
 समाधत्ते
@@ -24786,8 +24322,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 वा
 
 ।
-
-
 
 अयं
 
@@ -24929,8 +24463,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 नन
 
 गौरीपदबोध्याधिकरणत्वस्याधिश्रयणक्रियायां
@@ -24976,8 +24508,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दोषाभावात्
 
 ।
-
-
 
 तदुक्तमत्रैव
 
@@ -25032,8 +24562,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 इति
 
 ।
-
-
 
 अत्र
 
@@ -25150,8 +24678,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 स्यात
 
 ।
-
-
 
 अत्राहु
 
@@ -25273,10 +24799,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ॥
 
-
-
-
-
 इति
 
 स्वरसन्धि
@@ -25285,37 +24807,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ॥
 
-
-
  
 
-
-
-
-
-
-
-
-
 .
-
-
-
-
-
-
-
-
 
 व्यञ्जनसन्धिप्रकरणम्
 
 ।
-
-
-
-
-
-
 
 टो
 
@@ -25449,8 +24947,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 उत्तरयति
 
 सर्पिममिति
@@ -25476,8 +24972,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 यदि
 
@@ -25659,13 +25153,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 स्थानप्रयत्नाम्यामिति
 
 ।
-
-
 
 अयं
 
@@ -25704,8 +25194,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 तत्राद्यपक्षे
 
@@ -25781,8 +25269,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अन्त्यपक्षे
 
 तु
@@ -25834,8 +25320,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 इति
 
 ।
-
-
 
 जातिपक्षे
 
@@ -25889,8 +25373,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 इत्थं
 
 च
@@ -25916,8 +25398,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 एव
 
 ।
-
-
 
 तद्यथा
 
@@ -26157,8 +25637,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 दकारनिपातनादिति
 
 ।
@@ -26176,8 +25654,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 केचित्तु
 
@@ -26286,8 +25762,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 विभाव्या
 
 ।
-
-
 
 थस्यासिद्धत्वादिति
 
@@ -26419,8 +25893,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननूत्थानमित्यादौ
 
 ""
@@ -26484,8 +25956,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 संस्कर्तेति।
 
@@ -26633,8 +26103,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 नन्वनुस्वारस्यानच्त्वात्कथं
 
 द्वित्वमत
@@ -26666,8 +26134,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 अकारोपरीति
 
@@ -26782,8 +26248,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 अथ
 
@@ -26907,8 +26371,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 कथमेतत्पक्षोपपत्ति
@@ -26991,8 +26453,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 रूढिशब्द
 
 इव
@@ -27022,8 +26482,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 सिद्धान्तितत्वाच्चेत्यप्यन्ये
 
 ।
-
-
 
 षत्वप्राप्ताविति
 
@@ -27245,8 +26703,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 "
@@ -27357,8 +26813,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 ""
@@ -27410,8 +26864,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 प्रतिपत्तिगौरवाच्च
 
 ।
-
-
 
 ननु
 
@@ -27523,8 +26975,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 जश्त्वेन
 
 द
@@ -27584,8 +27034,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -27707,10 +27155,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ॥
 
-
-
-
-
 इति
 
 हल्सन्धि
@@ -27719,39 +27163,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ॥
 
-
-
 \_\_\_\_\_\_\_\_\_\_\*\_\_\_\_\_\_\_\_\_\_
 
-
-
-
-
-
-
-
-
-
-
-
-
 .
-
-
-
-
-
-
-
-
 
 विसर्गसन्धिप्रकरणम्
 
 ।
-
-
-
-
 
  ""
 
@@ -27955,8 +27373,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तद्यथा
 
 मातृशब्दान्ङस
@@ -28050,8 +27466,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 न
 
@@ -28159,8 +27573,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 एतदुक्तम्
 
 --""
@@ -28201,8 +27613,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 एवं
 
 चात्र
@@ -28220,8 +27630,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 एकादेशेति
 
 ।
-
-
 
 तदुक्तम्
 
@@ -28301,8 +27709,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 विसर्गस्यैकादेशशास्त्रनिमित्तकत्वं
 
 तु
@@ -28312,8 +27718,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 बोद्धव्यम्
 
 ।
-
-
 
 पाठादिति।
 
@@ -28380,8 +27784,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननूक्तज्ञापकाद्
 
@@ -28477,8 +27879,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 हयवरट्सूत्रे
 
 भाष्ये
@@ -28514,8 +27914,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 सूत्रस्थमुपधाग्रहणमित्यन्यदेतत्
 
 ।
-
-
 
 यद्यपि
 
@@ -28590,8 +27988,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 किमिति
 
 ।
-
-
 
 नन्वस्त्वेवं
 
@@ -28670,8 +28066,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -28863,8 +28257,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 ""
@@ -28988,8 +28380,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 चतुष्कपाल
 
@@ -29159,8 +28549,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 नन्विह
 
 सामर्थ्यपदस्यैकार्थीभावे
@@ -29235,8 +28623,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अयं
 
 भाव
@@ -29278,8 +28664,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 कोटेर्व्युदासादिति
 
 ।
-
-
 
 सामर्थ्यं
 
@@ -29405,8 +28789,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 प्रत्युदाहरणमुखेन
 
 ज्ञापयति
@@ -29455,8 +28837,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अनुत्तरपदस्थस्येति
 
 किमिति
@@ -29499,8 +28879,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 भाष्ये
 
 त्ववशिष्टसूत्रवैयर्थ्यादेराशङ्कनात्
@@ -29526,8 +28904,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 इति
 
 ।
-
-
 
 इदं
 
@@ -29584,8 +28960,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 इति
 
 ।
-
-
 
 तदेव
 
@@ -29644,8 +29018,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 कस्कादिष्विति
 
 ।
-
-
 
 ननु
 
@@ -29749,10 +29121,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ॥
 
-
-
-
-
 इति
 
 विसर्गसन्धि
@@ -29761,37 +29129,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ॥
 
-
-
-
-
-
-
-
-
-
-
-
-
 .
-
-
-
-
-
-
-
-
 
 स्वादिसन्धिप्रकरणम्
 
 ।
-
-
-
-
-
-
 
 ननु
 
@@ -29831,8 +29173,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 ""
@@ -29870,8 +29210,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 अशि
 
@@ -30133,8 +29471,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अजादे
 
 :
@@ -30172,8 +29508,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 स्यात्
 
 ।
-
-
 
 ननु
 
@@ -30273,8 +29607,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अण
 
 :
@@ -30353,8 +29685,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अण्ग्रहणसामर्थ्यादेवात्राण्
 
 पूंर्वेणान्यथोक्तरीत्यैव
@@ -30384,8 +29714,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -30508,8 +29836,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 मनम्
 
@@ -30749,37 +30075,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ॥
 
-
-
-
-
 इति
 
 सन्धिप्रकरणम्
 
 ॥
 
-
-
-
-
-
-
-
-
-
-
-
-
 .
-
-
-
-
-
-
-
-
 
 अ
 
@@ -30788,12 +30090,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 न्तपुँल्लिङ्गप्रकरणम्
 
 ।
-
-
-
-
-
-
 
 अथ
 
@@ -30830,8 +30126,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 नियमार्थमिति
 
 ।
-
-
 
 ननु
 
@@ -31021,8 +30315,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 सुलभत्वात्।
 
-
-
 ननु
 
 चार्थवत्त्वं
@@ -31058,8 +30350,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 ञ्चितत्वात्
 
 ।
-
-
 
 ननु
 
@@ -31122,8 +30412,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 ननु
 
@@ -31191,8 +30479,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 एतेनाहन्नित्यत्र
 
 इन्तेर्लङि
@@ -31253,8 +30539,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 नियमस्वरूपमाह
 
 यत्रेति
@@ -31306,8 +30590,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -31415,8 +30697,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 न
 
 चोक्तरीत्या
@@ -31515,8 +30795,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 वृषण्वसुरित्यत्र
@@ -31602,8 +30880,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -31701,8 +30977,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अविधकारसूत्रे
 
 ङ्
@@ -31762,8 +31036,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ङ्
 
@@ -31891,8 +31163,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 वस्तुगत्या
 
 ङ्याब्ग्रहणं
@@ -32012,8 +31282,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 रामा
@@ -32039,8 +31307,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 पुरस्तादिति
 
 ।
-
-
 
 अयं
 
@@ -32083,8 +31349,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 व्यर्थमिति
 
 ।
-
-
 
 एवं
 
@@ -32142,8 +31406,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 हे
 
 रामेत्यादौ
@@ -32156,8 +31418,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 प्रत्ययविधावङ्गस्यापेक्षितत्वेनाङ्गाक्षेपस्योचितत्वादिति
 
 भाव
@@ -32167,8 +31427,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 के
 
 ।
-
-
 
 सम्बुद्धे
 
@@ -32201,8 +31459,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 इत्यन्ये
 
 ।
-
-
 
 एवञ्च
 
@@ -32372,8 +31628,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 नन्वेकादेशस्य
 
 पूर्वान्तवद्भवेन
@@ -32452,8 +31706,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 नन्वेवमपि
 
 कथमत्र
@@ -32523,8 +31775,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 एङ्ग्रहणं
 
@@ -32626,8 +31876,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 सन्निपातेति
 
 ।
@@ -32726,8 +31974,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 यञादित्वसापेक्षदीर्घस्य
@@ -32753,8 +31999,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 कष्टायेति
 
@@ -32878,8 +32122,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ज्ञलि
 
 किमिति
@@ -32939,8 +32181,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 सिद्धमित्युत्तरम्
 
 ।
-
-
 
 स्यादेतत्
 
@@ -33118,8 +32358,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 एतेनेह
 
 "
@@ -33139,8 +32377,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 मन्दोक्तमपास्तम्
 
 ।
-
-
 
 ननु
 
@@ -33163,8 +32399,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 केचित्
 
 ।
-
-
 
 वस्तुगत्या
 
@@ -33205,8 +32439,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 मन्दोक्तमपास्तम्
 
 ।
-
-
 
 ननु
 
@@ -33303,8 +32535,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 अत्र
 
@@ -33427,8 +32657,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 केचिद्
 
 ।
-
-
 
 यद्यपि
 
@@ -33631,8 +32859,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 परिभाषाविरोधादिति
 
@@ -33892,8 +33118,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 ""
@@ -34092,8 +33316,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।  
 
-
-
 एतेन
 
 बहुश्रेयस्यादीनां
@@ -34232,8 +33454,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 भाष्येऽप्युक्तम्
 
 ----""
@@ -34267,8 +33487,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 इत्युक्तम्
 
 ।
-
-
 
 इण्को
 
@@ -34317,8 +33535,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 स्यादित्युत्तरम्
 
 ।
-
-
 
 विशेष्याभावात्सर्वाद्यन्तस्य
 
@@ -34492,8 +33708,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 किं
 
 च
@@ -34586,8 +33800,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 एतेन
 
 वर्णाश्रमेतरका
@@ -34603,8 +33815,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 मन्दोक्तमपास्तम्
 
 ।
-
-
 
 अवयवनिषेधे
 
@@ -34639,8 +33849,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 नागेशीये
 
 ।
-
-
 
 वस्तुगत्या
 
@@ -34836,8 +34044,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 नानुबन्धकृतमिति
 
 ।
@@ -34865,8 +34071,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 उक्तम्
 
 प्रागित्सञ्ज्ञाया
-
-
 
 इति
 
@@ -34940,8 +34144,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 वस्तुगत्याऽनेकाल्सूत्र
 
 इत्ञ्ज्ञसायोग्यशकारवत्त्वमेत्र
@@ -34985,8 +34187,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 न
 
@@ -35057,8 +34257,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 नागेशीये
 
 ।
-
-
 
 अथ
 
@@ -35385,8 +34583,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 ननु
 
@@ -35870,8 +35066,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तथाहि
 
 ""
@@ -35967,8 +35161,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 नन्वेवमकचि
 
@@ -36144,8 +35336,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 भाष्ये
 
 तूभशब्दपाठ
@@ -36196,8 +35386,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अयं
 
 भाव
@@ -36219,8 +35407,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 विधानेन
 
 द्वित्वसंख्याप्रकारकसंख्येयविशेष्यकबोधविषयार्थानुवादकत्वमिति।
-
-
 
 ननु
 
@@ -36297,8 +35483,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ॥
-
-
 
 उभयशब्दस्येति
 
@@ -36530,8 +35714,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अयं
 
 च
@@ -36623,8 +35805,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 स्पष्म्
 
 ।
-
-
 
 ननु
 
@@ -36738,8 +35918,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तद्यथोक्तं
 
 स्थानिवत्सूत्रे
@@ -36852,8 +36030,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 किं
 
 च
@@ -36917,8 +36093,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 सुप्तिङन्तमिति
 
@@ -37156,8 +36330,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 इतिसमयात्।
 
-
-
 अयं
 
 च
@@ -37286,8 +36458,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 प्रत्ययविधौ
 
 सर्वविभक्ते
@@ -37340,8 +36510,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 प्रकृतित्वं
 
 च
@@ -37375,8 +36543,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 एतन्न्यायमूलकमेव
 
@@ -37451,8 +36617,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 बोध्यम्
 
 ।
-
-
 
 ननु
 
@@ -37575,8 +36739,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 सूत्रतात्पर्य्यात्
 
 ।
-
-
 
 लौकिकेति
 
@@ -37744,8 +36906,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 स्मृतिद्वयबलाद्विकल्प
@@ -37811,8 +36971,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 अयं
 
@@ -37883,8 +37041,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 नास्तीति
 
 ।
-
-
 
 तदाह
 
@@ -38084,8 +37240,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 वार्त्तिकरीत्या
@@ -38272,8 +37426,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 ""
@@ -38353,8 +37505,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -38451,8 +37601,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 निष्रूपन्ना
 
 ।
-
-
 
 न
 
@@ -38618,8 +37766,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 नन्वियङुवडोर्ङित्त्वं
 
 व्यर्थम्
@@ -38661,8 +37807,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 नागेशीये
 
 ।
-
-
 
 नन्वयं
 
@@ -38770,8 +37914,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 इदं
 
 च
@@ -38840,8 +37982,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 यत्र
 
 त्वर्द्धं
@@ -38871,8 +38011,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 परत्वाजृजरसिति
 
@@ -39058,8 +38196,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 जराया
 
 इति
@@ -39091,8 +38227,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ॥
-
-
 
 इत्थथं
 
@@ -39242,8 +38376,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अन्ये
 
 तु
@@ -39324,8 +38456,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 किञ्च
 
 ""
@@ -39384,8 +38514,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तस्माद्भष्ये
 
 इष्टेन
@@ -39415,8 +38543,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 तदपरे
 
@@ -39478,8 +38604,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 इदं
 
 तु
@@ -39503,8 +38627,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 क्लीबत्वाद्याश्रयणाच्च
 
 ।
-
-
 
 नन्वेकस्यैकैव
 
@@ -39544,8 +38666,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 सञ्ज्ञयैव
@@ -39577,8 +38697,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 नन्वेवं
 
@@ -39675,8 +38793,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 तेनेति
 
@@ -39892,8 +39008,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 स्यादिति।
 
-
-
 इयं
 
 च
@@ -40102,8 +39216,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 वस्तुतस्तु
 
 आनुमानिकस्थान्यादेशभावेन
@@ -40252,8 +39364,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 इदं
 
 वाचनिकं
@@ -40340,8 +39450,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तस्य
 
 ""
@@ -40379,8 +39487,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -40480,8 +39586,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तत्र
 
 हि
@@ -40547,8 +39651,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 सदृशार्थावगमात्
 
 ।
-
-
 
 तदुक्तं
 
@@ -40627,8 +39729,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 बोध्यम्
 
 ।
-
-
 
 एतेन
 
@@ -40732,8 +39832,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 काशिकाया
 
 :
@@ -40797,8 +39895,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 यद्यपि
 
@@ -41086,8 +40182,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 साहचर्यादिति
 
 ।
@@ -41153,8 +40247,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -41276,8 +40368,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 यद्यपि
 
 ""
@@ -41350,8 +40440,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 एवं
 
 च
@@ -41397,8 +40485,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 आबन्तव्यावृत्तिफलकत्वात्
 
 ।
-
-
 
 एवं
 
@@ -41491,8 +40577,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 शेष
 
@@ -41610,8 +40694,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 वस्तुत
 
 :
@@ -41694,8 +40776,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 नन्वेवं
 
 पुरुषपरस्मैवदसंज्ञयोरेकत्र
@@ -41753,8 +40833,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 स्पष्टाथ्रमिति
 
@@ -41896,8 +40974,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 ""
@@ -41973,8 +41049,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 तात्पर्यग्रहफलकत्वादेबमुक्तेर्युक्तत्वात्
 
 ।
-
-
 
 ननु
 
@@ -42052,8 +41126,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 दीर्घयोर्यू
@@ -42105,8 +41177,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 ज्ञापनात्
 
 ।
-
-
 
 तदुक्तं
 
@@ -42167,8 +41237,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -42231,8 +41299,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -42343,8 +41409,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 स्फुटीभविष्यति
 
 ।
-
-
 
 ननु
 
@@ -42487,8 +41551,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 यावत्
 
 ।
-
-
 
 अत्र
 
@@ -42662,8 +41724,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तन्न
 
 युक्तम्
@@ -42721,8 +41781,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 समुदायविशिष्टत्वम्
 
 ।
-
-
 
 व्यापकताव्याप्यतयोश्च
 
@@ -43224,8 +42282,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 एतेन
 
 "
@@ -43281,8 +42337,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 एतद्वव्याकरणानिष्पन्नत्वात्
 
 ।
-
-
 
 ननु
 
@@ -43460,8 +42514,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 चरितार्थम्
 
-
-
 लक्षणिकत्वान्यतररूपत्वस्यैव
 
 तत्त्वात्
@@ -43539,8 +42591,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 सखीशब्दे
 
@@ -43729,8 +42779,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 सूत्रे
@@ -43746,8 +42794,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 अयङ्यीत्यादाविवोच्चारणार्थत्वशङ्कावारणफलकत्वात्
 
 ।
-
-
 
 एतेन
 
@@ -44157,8 +43203,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 यद्यपि
 
 ""
@@ -44198,8 +43242,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 तत्त्वम्
 
 ।
-
-
 
 द्विपर्यन्तानां
 
@@ -44326,8 +43368,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 परत्वादिति
 
 ।
-
-
 
 ननु
 
@@ -44481,8 +43521,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 नन्वेवमपि
 
 ""
@@ -44541,15 +43579,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 आटा
 
 नुडिति
 
 ।
-
-
 
 ननु
 
@@ -44568,8 +43602,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 तदनाश्रयणात्
 
 ।
-
-
 
 ननु
 
@@ -44632,8 +43664,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 लक्ष्यानुरोधेनाश्रयणात्
 
 ।
-
-
 
 ननु
 
@@ -44835,8 +43865,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 ""
@@ -44932,8 +43960,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 तुल्यत्वात्
 
 ।
-
-
 
 किं
 
@@ -45069,8 +44095,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तस्मादनेकल्लेशकल्पनागौरवापेक्षया
 
 यथान्यासमेव
@@ -45078,8 +44102,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 युक्तमित्यलमियता
 
 ।
-
-
 
 यदि
 
@@ -45353,8 +44375,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 वस्तुतस्तु
 
 क्रियान्वयित्वस्य
@@ -45494,8 +44514,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 वस्तुगत्या
 
@@ -45647,8 +44665,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 दुर्ध्यायति
 
 दुष्टा
@@ -45716,8 +44732,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 नन्वेवं
 
@@ -46223,8 +45237,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 वक्ष्यते
 
 ।
@@ -46513,8 +45525,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तृतीये
 
 भाष्ये
@@ -46648,8 +45658,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 यद्यपि
 
@@ -46932,8 +45940,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 दीर्घर्कारान्तस्य
 
@@ -47495,8 +46501,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 ""
@@ -47669,8 +46673,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 ""
@@ -47835,8 +46837,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 यदि
 
 वर्णग्रहणेऽपि
@@ -47961,10 +46961,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ॥
 
-
-
-
-
 इति
 
 ?
@@ -47981,37 +46977,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ॥
 
-
-
-
-
-
-
-
-
-
-
 .
-
-
-
-
-
-
-
-
-
-
 
 अजन्तस्त्रीलिङ्गप्रकरणम्
 
 ।
-
-
-
-
-
-
 
 ननु
 
@@ -48389,8 +47359,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 \-
 
-
-
 सर्वस्यामित्यादौ
 
 स्याङ्विधेराबन्तसर्वनाम्नोरपे
@@ -48418,8 +47386,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 केचिदिति
 
@@ -48630,8 +47596,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 उक्तरीतिमन्यताप्यतिदिशति
 
@@ -48933,8 +47897,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अन्ये
 
 त्वाहु
@@ -48960,8 +47922,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 ऽनापत्तिरेव
 
 ।
-
-
 
 यत्तु
 
@@ -49032,8 +47992,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 नापि
 
 मानमिति
-
-
 
 अत
 
@@ -49307,8 +48265,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 यत्तु
 
 यञादिसुब्निमित्तकमित्यर्थ
@@ -49364,8 +48320,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 स्थानिवद्भावेनाप्त्वमिति
 
@@ -49435,8 +48389,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 इदं
 
 च
@@ -49500,8 +48452,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 इति
 
 ।
-
-
 
 याट्
 
@@ -49569,8 +48519,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननूक्तपरिभाषयाऽऽबन्तग्रहणे
 
 ऽङ्गं
@@ -49630,8 +48578,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 किञ्च
 
@@ -49724,8 +48670,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -50123,8 +49067,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 कथं
@@ -50210,8 +49152,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 तथात्वाभावात्
 
 ।
-
-
 
 ननु
 
@@ -50382,8 +49322,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 भाष्ये
 
 ।
-
-
 
 द्धेरत्
 
@@ -50643,8 +49581,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 नित्यस्त्रीलिङ्गाविति
@@ -50850,8 +49786,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 वृत्तिकारादीनामिति
 
 ।
-
-
 
 तेषामयं
 
@@ -51061,8 +49995,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अस्यायं
 
 भाव
@@ -51147,8 +50079,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अन्ये
 
 तु
@@ -51162,8 +50092,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -51302,8 +50230,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 एवं
 
@@ -51535,10 +50461,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
-
-
 इत्यजन्जता
 
 :
@@ -51549,39 +50471,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
-
-
-
-
-
-
-
-
 .
-
-
-
-
-
-
-
-
-
-
-
-
 
 अजन्तनपुंसकलिङ्गप्रकरणम्
 
 ।
-
-
-
-
-
-
 
 सोरमिति।
 
@@ -51709,8 +50603,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अन्येत्वाहु
 
 :---
@@ -51730,8 +50622,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 नुमिति
 
 ।
-
-
 
 शब्दत्वेन
 
@@ -51983,8 +50873,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 परे
 
 तु
@@ -52025,8 +50913,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अनित्यत्वाश्रये
 
 ऽत्र
@@ -52048,8 +50934,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 स्पष्टम्
 
 ।
-
-
 
 भाषित
 
@@ -52195,8 +51079,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अयं
 
 भाव
@@ -52315,13 +51197,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 प्रराणामिति
 
 ।
-
-
 
 माधवस्यायं
 
@@ -52380,8 +51258,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 इति
 
 ।
-
-
 
 अयं
 
@@ -52537,10 +51413,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ॥
 
-
-
-
-
 इत्यजन्ता
 
 नपुंसवकलिङ्गा
@@ -52549,39 +51421,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ॥
 
-
-
-
-
-
-
-
-
-
-
-
-
 .
-
-
-
-
-
-
-
-
 
 हलन्तपुँल्लिङ्ग
 
 *-स्त्रीलिङ्गप्रकरणम्*
 
 ।
-
-
-
-
-
-
 
 उपदेशे
 
@@ -52687,8 +51533,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 वस्तुगत्याऽतिव्याप्तिपरिहार
 
 एव
@@ -52730,8 +51574,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 भाष्ये
 
 ।
-
-
 
 केचित्तु
 
@@ -52812,8 +51654,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -52900,8 +51740,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -53153,8 +51991,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 सुधियावित्यादावियङादिकं
@@ -53174,8 +52010,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 ननु
 
@@ -53405,8 +52239,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 हे
@@ -53458,8 +52290,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 नागेशीये
 
 ।
-
-
 
 ननु
 
@@ -53717,8 +52547,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 सिद्धान्ते
 
 तु
@@ -53830,8 +52658,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 यत्तु
 
@@ -53953,8 +52779,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 नन्वत्वे
 
 इलि
@@ -53982,8 +52806,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 यद्यपीह
 
@@ -54014,8 +52836,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 केचित्
 
 ।
-
-
 
 अन्ये
 
@@ -54173,8 +52993,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 संज्ञापरिभाषाविषये
 
 पक्षद्वयं
@@ -54323,8 +53141,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तत्राद्यपक्षे
 
 तावत्
@@ -54366,8 +53182,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 तद्यथा
 
@@ -54426,8 +53240,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 इति
 
 ।
-
-
 
 ननु
 
@@ -54563,8 +53375,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 नन्वस्तु
 
 तावदेवम्
@@ -54622,8 +53432,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -54759,8 +53567,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 किञ्च
 
 उरण्सूत्रे
@@ -54786,8 +53592,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 भाष्ये
 
 ।
-
-
 
 अत
 
@@ -54825,8 +53629,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 किञ्च
 
 सौत्रनिर्देशाश्रयणमगतिकगति
@@ -54854,8 +53656,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 नागेशीये
 
 ।
-
-
 
 अथ
 
@@ -54922,8 +53722,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 ,
 
 ।
-
-
 
 तत्र
 
@@ -55012,8 +53810,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 कैयटे
 
 ।
-
-
 
 तत्रान्त्यपक्षमूलकेन
 
@@ -55169,8 +53965,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 न
 
 चैवं
@@ -55232,8 +54026,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 बाधितत्वात्
 
 ।
-
-
 
 ननु
 
@@ -55297,8 +54089,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अयं
 
 च
@@ -55322,8 +54112,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 एकाजुत्तरेति
 
@@ -55476,8 +54264,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 मानम्
 
 ।
-
-
 
 माधवेनोक्तमिति
 
@@ -55636,8 +54422,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 ननु
 
@@ -55805,8 +54589,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तद्यथ
 
 --""
@@ -55876,8 +54658,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -55965,8 +54745,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 शैषिकान्मतुबर्थीयाच्छैषिको
 
 मतुबर्थक
@@ -55974,8 +54752,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 सरूप
 
@@ -56006,8 +54782,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 तादृशप्रयोगस्यानभिधानात्
 
 ।
-
-
 
 ननु
 
@@ -56170,8 +54944,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 कोशादित्यलमाकरव्यतिकरणकल्पनया
 
 ।
-
-
 
 ननु
 
@@ -56378,8 +55150,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 ज्ञापकम्
 
 ।
-
-
 
 ननु
 
@@ -56671,8 +55441,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 ""
@@ -56706,8 +55474,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 विधेयत्वात्
 
 ।
-
-
 
 वस्तुगतृया
 
@@ -56873,8 +55639,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 ""
@@ -56959,8 +55723,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 इह
 
 तु
@@ -57017,8 +55779,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अत्र
 
 शुद्धार्थं
@@ -57030,8 +55790,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 युक्तत्वात्
 
 ।
-
-
 
 नन्वदित्येवास्ताम्
 
@@ -57145,8 +55903,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 ""
@@ -57199,8 +55955,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 लक्षणप्रतिपदोक्तपरिभाषया
 
 न
@@ -57208,8 +55962,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 लुगित्यन्ये
 
 ।
-
-
 
 गौणत्वे
 
@@ -57254,8 +56006,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 अन्ये
 
@@ -57397,8 +56147,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 ""
@@ -57514,8 +56262,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 भाष्ये
 
 ।
-
-
 
 तथा
 
@@ -57821,8 +56567,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 गौणत्वेति
 
 ।
@@ -58027,8 +56771,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 कार्यकालपक्ष
 
 इति
@@ -58056,8 +56798,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 इत्यत्रोक्तम्
 
 ।
-
-
 
 अथ
 
@@ -58162,8 +56902,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 नागेशीये
 
 ।
-
-
 
 सूत्रान्तर्गतमलक्षणसिद्धं
 
@@ -58395,8 +57133,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 धातुपाठेति
 
 ।
@@ -58408,8 +57144,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 अन्ये
 
@@ -58575,8 +57309,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 किमर्थमनन्त्ययोरिति
@@ -58715,8 +57447,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 स्यादेतत्
 
 ।
@@ -58772,8 +57502,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 कृतार्थत्वात्
 
 ।
-
-
 
 ननु
 
@@ -58841,8 +57569,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 कैयटास्तु
 
 तोरित्युक्ते
@@ -58866,8 +57592,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -59413,8 +58137,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 स्पष्टमाकरे।
 
-
-
 अन्ये
 
 तु
@@ -59472,8 +58194,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 मपर्यन्तस्य
 
@@ -59611,8 +58331,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 किम
@@ -59703,8 +58421,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 नन्वेवं
 
 तर्हि
@@ -59786,8 +58502,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 भाष्ये
 
 ।
-
-
 
 हलन्तादेशटिलोपपक्षयोर्यूयमित्यादौ
 
@@ -60197,8 +58911,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 वस्तुगत्या
 
 न
@@ -60505,8 +59217,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 वस्तुत
 
 इहाभ्यमेवादेशो
@@ -60598,8 +59308,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 भाष्ये
 
 ।
-
-
 
 ननु
 
@@ -60841,8 +59549,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अन्ये
 
 तु
@@ -61012,8 +59718,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -61222,8 +59926,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 ननु
 
@@ -61487,8 +60189,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 केचित्तु
 
 वृत्तावेकत्वसंख्या
@@ -61604,8 +60304,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 नागेशीये
 
 ।
-
-
 
 निमित्तनिमित्तिनोरेवाक्यस्थत्वे
 
@@ -61771,15 +60469,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 लौकिकं
 
 त्वमरेणोक्तम्
 
 ---
-
-
 
 सुप्तिङन्तचयो
 
@@ -61792,8 +60486,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 कारकान्विता
 
 |इति|
-
-
 
 अयमर्थ
 
@@ -62373,8 +61065,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अत्राहु
 
 :---
@@ -62472,8 +61162,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 सिद्धिरिति
 
 ।
-
-
 
 वस्तुगत्या
 
@@ -62713,8 +61401,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 नन्वदस्यतीत्यत्रासेरितीकारस्योच्चारणार्थतया
 
 "
@@ -62762,8 +61448,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 सिद्धम्
 
 ।
-
-
 
 ननु
 
@@ -63789,8 +62473,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अयं
 
 भाव
@@ -63860,8 +62542,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 षत्वमेवेति
 
 ।
-
-
 
 ननु
 
@@ -64005,8 +62685,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तस्यायमभिप्राय
 
 :---"
@@ -64052,8 +62730,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 निरवकाशत्वादिति
 
 ।
-
-
 
 अयमेवाशयो
 
@@ -65421,8 +64097,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अत्र
 
 वदन्ति
@@ -65495,8 +64169,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 पूञ
 
 इति
@@ -65568,8 +64240,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 वक्तव्यत्वादिति
 
 ।
-
-
 
 स्यादेतत्
 
@@ -65923,8 +64593,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 सुलोप
@@ -66108,8 +64776,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 त्यदादीनमित्यादिसपादसप्ताध्यायीं
 
@@ -66395,10 +65061,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 :
 
-
-
-
-
 इति
 
 हलन्ता
@@ -66413,33 +65075,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ॥
 
-
-
-
-
-
-
-
-
-
-
-
-
 .
 
-
-
-
-
-
-
-
-
  ***हलन्तनपुंसकलिङ्ग्रकरणम् ।***
-
-
-
-
 
  विमला द्यौर्यत्रेति विग्रहे समासे ततो द्वित्वादिवचने( 1 ) प्रत्ययलक्षणेन ""दिव उद्''इत्यस्य प्रवृत्तिं साधयति अन्तरिति । पूर्वपदस्येवेति । यथा राजपुरुष इत्यादौ प्रत्ययलक्षणेन विभकृतृया पदत्वं तत्प्रयुक्तं नलोपादि सिध्यति, तथोत्तरस्य दिव् इत्यस्यापि पदत्वं ततप्रयुक्तमुत्वाद?दि प्राप्नोतीति दृष्टान्तदार्ष्टानितकयोर्भावः । उत्तरपदत्वे इति । उत्तरशब्देनोत्तरपदम् । उत्तरपदशब्दश्च समासस्य चरमावयेवे रूढः, उत्तरस्योत्तरपदस्य भावस्तत्त्वं तस्मिन्, तथा चोत्तरपदस्य पदत्वे पदप्रयुक्तकार्ये कर्तव्ये लुमता लुप्ते प्रत्ययलक्षणं न भवतीति प्रथमकोठ्यर्थः । किमविशेषेण नेतदादिविधाविति । पदादिविधौ त्वयंनिषेधो नेत्यर्थः । एवं च प्रथमोठ्या विमलदिवीत्यादावुत्वं, परमवाचावित्यादौ कुत्वं, सुधियावित्यादौ शाकलह्रस्वत्वं च नेत्यादि सिद्धम् । द्वितीयकोटेः फलं पृच्छति किमिति । दधिसेचाविति । सोपपदाद्विचोऽनभिधानमितिकैयटोक्तेर्निरुपपदाद् विच्, सिञ्चत इति सेचौ, दध्नः सेचाविति षष्ठीसमासः। इह""आदेशेप्रत्यययोः''इति प्राप्तं षत्वं प्रत्ययलक्षणेन विभक्त्या पदत्वमाश्रित्य "सादित्यस्य पदादेश्च सस्य षो न'इत्यर्थकेन ""सात्पदाद्योः'' इतिसूत्रेण पदादित्वे षत्वनिषेधः सिद्धति । पदादिविधिश्च प्रतिपदोक्तत्वात् ""सात्पदाद्योः'' इत्येव, तेन परमबुधावित्यादौ भष्भावो न । अयं च निषेध उत्तरपदस्य कार्यित्व एवेति ""उञि च पदे'' इत्यत्रोक्तम् । ( 1 ) द्वितृवादिबोधके वचनेऽर्थाद्विवचनबहुवचनात्मके इत्यर्थः ।
 
@@ -66459,41 +65097,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
  अन्ये तु क्कचिदनवकाशत्वाभावे ऽपि परनित्यादिसमवधाने शीघ्रोपस्थितिकत्वेन पूर्वप्रयोजके बलवत्त्वं प्रतिपदविधित्वेनापि । अत एव हे रमे इत्यादौ प्रतिपदोक्तत्वात् पूर्वमेत्वे आकारप्रश्लेषाल्ङयादिलोपो न प्राप्रोतीत्याशङ्कय ""एङह्रस्वाद्‌''इति लोपेन समाहितं भाष्ये । एवं चात्रापीदृशप्रतिपदोक्तत्वस्वीकारेण पूर्वं दीर्घे ततो नुमि स्वाम्पीदृदशप्रतिपदोक्तत्वस्वीकारेण पूर्वं दीर्घे ततो नुमि स्वाम्पीत्येवेत्याहुः ॥
 
-
-
  इति हलन्ता नपुंसकलिङ्गाः ॥
 
-
-
-
-
-
-
-
-
-
-
-
-
 .
-
-
-
-
-
-
-
-
 
 अव्ययप्रकरणम्
 
 ।
-
-
-
-
-
-
 
 अव्ययमिति
 
@@ -66655,8 +65265,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अन्ये
 
 तु
@@ -66723,47 +65331,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ॥
 
-
-
-
-
 इत्यव्ययानि
 
 ॥
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .
-
-
-
-
-
-
-
-
 
 कारकप्रकरणम्
 
 ।
-
-
-
-
-
-
 
 अथ
 
@@ -67037,8 +65613,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 शक्यसंबन्धो
@@ -67088,8 +65662,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -67473,8 +66045,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अन्ये
 
 तु
@@ -67516,8 +66086,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -67815,8 +66383,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अन्ये
 
 तु
@@ -67946,8 +66512,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -68273,8 +66837,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 न्याय्यत्वात्।
 
-
-
 अत्राहु
 
 :----
@@ -68479,8 +67041,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अत्र
 
 वदन्ति
@@ -68627,45 +67187,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ॥
 
-
-
-
-
 इति
 
 प्रथमा
 
-
-
-
-
-
-
-
-
-
-
-
-
 .
-
-
-
-
-
-
-
-
 
 स्त्रीप्रत्ययप्रकरणम्
 
 ।
-
-
-
-
-
-
 
 ननु
 
@@ -69391,8 +67921,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 तद्यथा
 
 ---"
@@ -69464,8 +67992,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 नेति
 
 ।
-
-
 
 तेनेति
 
@@ -69715,8 +68241,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 नन्विह
 
 बहिरङ्गपरिभाषयैव
@@ -69786,8 +68310,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 दिक्
 
 ।
-
-
 
 अन्ये
 
@@ -70259,8 +68781,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अत्राहु
 
 :----"
@@ -70702,8 +69222,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 कोशाभिप्रायम्
 
 ।
-
-
 
 सम्भवव्यभिचारौ
 
@@ -73425,8 +71943,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अयं
 
 भाव
@@ -73518,8 +72034,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 पत्यन्तस्यैवेति
 
 ।
-
-
 
 तदाह
 
@@ -74011,8 +72525,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अमृते
 
 जारज
@@ -74032,8 +72544,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 ।
 
 ----
-
-
 
 इतिकोशाज्जातिवाची
 
@@ -74342,8 +72852,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -74839,8 +73347,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अन्ये
 
 तु
@@ -74873,8 +73379,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 केचितु
 
 तादृशभाषस्य
@@ -74884,8 +73388,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 वदन्ति
 
 ।
-
-
 
 ननु
 
@@ -75919,8 +74421,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 युवतीकरनिर्मितं
@@ -76071,10 +74571,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ॥
 
-
-
-
-
 इति
 
 स्त्रीप्रत्यया
@@ -76083,31 +74579,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ॥
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .
-
-
-
-
-
-
-
-
-
-
 
 ॥
 
@@ -76118,12 +74590,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 ***:***
 
 ॥
-
-
-
-
-
-
 
 कर्तृ
 
@@ -76745,8 +75211,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 केचित्तु
 
 ईप्सिततमस्यापीप्सितत्वादिति
@@ -76901,8 +75365,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 ननु
 
 पूर्वप्रकान्तमेव
@@ -76940,8 +75402,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 अयं
 
@@ -77140,8 +75600,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 सुधीभिर्विभावनीयम्
 
 ।
-
-
 
 अथ
 
@@ -77915,8 +76373,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 विभागानुकूलव्यापारनुकूलव्यापारो
 
 दुहादेरर्थ
@@ -78185,8 +76641,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 कारकं
 
 किमिति
@@ -78275,8 +76729,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 जिज्ञासितं
 
 च
@@ -78346,8 +76798,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 गतीत्यादि
 
@@ -78563,8 +77013,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अयं
 
 भाव
@@ -78623,8 +77071,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अनेनेति
 
 ।
@@ -78671,15 +77117,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 धातोरर्थान्तरे
 
 वृत्तेर्धात्वर्थेनोपसङ्ग्रहात्
 
 ।
-
-
 
 प्रसिद्धेरविवक्षात
 
@@ -78692,8 +77134,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 क्रिया
 
 ॥
-
-
 
 इत्यभियुक्तोक्ते
 
@@ -78736,8 +77176,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 अन्ये
 
@@ -78824,8 +77262,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 गतीत्यादीति
 
@@ -79171,8 +77607,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 वस्तुगत्या
 
 तत्रानुपूर्वी
@@ -79299,8 +77733,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अपमाशय
 
 :---
@@ -79346,8 +77778,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 प्राप्तेति
 
 ।
-
-
 
 बाध्यते
 
@@ -80453,8 +78883,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अन्ये
 
 तु
@@ -80492,8 +78920,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 मूलकाराशयंवर्णयन्ति
 
 ।
-
-
 
 साधकपदमप्यव्यवहितफलोत्पादकलाभार्थमावश्यकम्
 
@@ -82003,8 +80429,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 परमपीति
 
 ।
@@ -82716,8 +81140,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ।
-
-
 
 ननु
 
@@ -83445,8 +81867,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
 अन्ये
 
 तु
@@ -83610,8 +82030,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 वदन्ति
 
 ।
-
-
 
 कर्तरीति
 
@@ -83787,10 +82205,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-
-
-
-
 ॥
 
 इति
@@ -83800,16 +82214,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 :
 
 ॥
-
-
-
-
-
-
-
-
-
-
 
 .
 
