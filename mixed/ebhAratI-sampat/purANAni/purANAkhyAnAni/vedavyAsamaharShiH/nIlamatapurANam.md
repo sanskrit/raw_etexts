@@ -13,6 +13,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIyNjYyOTkwNTg
 
 \[
 
+
+
 नीलमतपुराणम्
 
 ॐ
@@ -36,6 +38,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIyNjYyOTkwNTg
 ओम्
 
 ।
+
+
 
 श्रीनिवासं
 
@@ -30205,6 +30209,44 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIyNjYyOTkwNTg
 
 शुभमस्तु
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Reference:
 
 रे
@@ -30216,5 +30258,16 @@ The Nilamata Purana, vol. II, (A Critical Edition and English Translation)
 , Dr. Ved Kumari,
 
 J & K Academy of Art, Culture and Languages, Srinagar: 1973 (393 pages).
+
+
+
+
+
+
+
+
+
+
+
 
 \]

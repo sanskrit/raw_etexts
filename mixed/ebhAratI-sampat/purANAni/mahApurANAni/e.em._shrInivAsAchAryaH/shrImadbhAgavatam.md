@@ -557,7 +557,7 @@ imperishable Lord, marked with his fame; and for this reason do good men listen 
 
 THE STORY OF THE BOAR-INCARNATION
 
-![](../books_images/U-IMG-1734597943Screenshot2024-12-17150708.png)
+<MISSING_FIG href="../books_images/U-IMG-1734597943Screenshot2024-12-17150708.png"/>
 
 **भगवानेक आसेदमग्र आत्माऽऽत्मनां विभुः।  
 सा वा एतस्य सन्द्रष्टुः शक्तिस्सदसदात्मिका।  
@@ -679,7 +679,7 @@ THUS ENDS THE STORY OF THE BOAR—INCARNATION.
 
 **॥कपिलावतारकथा॥**
 
-**![](../books_images/U-IMG-1734601507Screenshot2024-12-19151251.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734601507Screenshot2024-12-19151251.png"/>**
 
 THE STORY OF THE INCARNATION AS KAPILA
 
@@ -924,11 +924,11 @@ THUS ENDS THE STORY OF THE INCARNATION AS KAPILA
 
 **॥ध्रुवचरित्रम्॥**
 
-**![](../books_images/U-IMG-1734617137Screenshot2024-12-17150708.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734617137Screenshot2024-12-17150708.png"/>**
 
 THE STORY OF DHRUVA
 
-![](../books_images/U-IMG-1734617176Screenshot2024-12-19151251.png)
+<MISSING_FIG href="../books_images/U-IMG-1734617176Screenshot2024-12-19151251.png"/>
 
 **प्रियव्रतोत्तानपादौ शतरूपापतेस्सुतौ।  
 वासुदेवस्य कलया रक्षायां जगतस्थितौ॥**
@@ -1200,7 +1200,7 @@ THUS ENDS THE STORY OF DHRUVA
 
 **॥पृथुराजचरित्रः॥**
 
-![](../books_images/U-IMG-1734609311arpita.PNG)  
+<MISSING_FIG href="../books_images/U-IMG-1734609311arpita.PNG"/>  
 
 THE STORY OF THE INCARNATION  
 AS KING PRITHU
@@ -1347,7 +1347,7 @@ THUS ENDS THE STORY OF THE INCARNATION AS KING PRITHU
 **॥श्रीः॥  
 ॥प्राचीनवर्हिः प्रबोधकथा॥**
 
-**![](../books_images/U-IMG-1734613579arpita.PNG)**  
+**<MISSING_FIG href="../books_images/U-IMG-1734613579arpita.PNG"/>**  
 
 THE STORY OF THE ENLIGHTENMENT OF PRACHINABARHIS
 
@@ -1497,12 +1497,12 @@ ENLIGHTENMENT OF KING PRACHINABARHIS.**
 
 **॥ ऋषभावतारकथा॥**
 
-![](../books_images/U-IMG-1734239877Screenshot2024-12-15104407.png)
+<MISSING_FIG href="../books_images/U-IMG-1734239877Screenshot2024-12-15104407.png"/>
 
 **THE STORY OF THE INCARNATION  
 AS RISHABHA**
 
-![](../books_images/U-IMG-1734239944Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1734239944Screenshot2024-12-15104840.png"/>
 
 ** नाभिरपत्यकामोऽप्रजया मेरुदेव्या भगवन्तमयजत।**
 
@@ -1583,16 +1583,16 @@ aculties is the offering of it to Me. Without this, this, man cannot escape the 
 INCARNATION AS RISHABHA  
 ————**
 
-![](../books_images/U-IMG-1734241710Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1734241710Screenshot2024-12-15104840.png"/>
 
 **॥ श्रीः ॥**
 
 **॥ जडभरतचरित्रम् ॥**
 
-![](../books_images/U-IMG-1734241834Screenshot2024-12-15104407.png)  
+<MISSING_FIG href="../books_images/U-IMG-1734241834Screenshot2024-12-15104407.png"/>  
 **THE STORY OF JADABHARATA**
 
-![](../books_images/U-IMG-1734241854Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1734241854Screenshot2024-12-15104840.png"/>
 
 ** भरतस्तु पञ्चजनीमुपयेमे, तस्यामात्मजाननुरूपानात्मनः पञ्च जनयामास।**
 
@@ -1841,20 +1841,20 @@ Boasting that you are the protector of the people, you, who are audacious, do no
 
 **॥ इति जडभरतचरित्रं समाप्तम् ॥**
 
-![](../books_images/U-IMG-1734278695Screenshot2024-12-15104840.png)  
+<MISSING_FIG href="../books_images/U-IMG-1734278695Screenshot2024-12-15104840.png"/>  
 **THUS ENDS THE STORY OF  
 JADABHARATA.**
 
-![](../books_images/U-IMG-1734278695Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1734278695Screenshot2024-12-15104840.png"/>
 
 **॥ श्रीः॥**
 
 **॥अजामिलोपाख्यानम्॥**
 
-![](../books_images/U-IMG-1734278784Screenshot2024-12-15104407.png)  
+<MISSING_FIG href="../books_images/U-IMG-1734278784Screenshot2024-12-15104407.png"/>  
 THE STORY OF AJAMILA
 
-![](../books_images/U-IMG-1734278808Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1734278808Screenshot2024-12-15104840.png"/>
 
 **राजा—**
 
@@ -2099,19 +2099,19 @@ THE STORY OF AJAMILA
 
 **॥ इति अजामिलोपाख्यानं समाप्तम् ॥**
 
-![](../books_images/U-IMG-1734324958Screenshot2024-12-15104840.png)  
+<MISSING_FIG href="../books_images/U-IMG-1734324958Screenshot2024-12-15104840.png"/>  
 **THUS ENDS THE STORY OF AJAMILA.**
 
-![](../books_images/U-IMG-1734324958Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1734324958Screenshot2024-12-15104840.png"/>
 
 **॥ श्रीः ॥  
 ॥ वृत्रासुरवधकथा ॥**
 
-![](../books_images/U-IMG-1734325033Screenshot2024-12-15104407.png)  
+<MISSING_FIG href="../books_images/U-IMG-1734325033Screenshot2024-12-15104407.png"/>  
 **THE STORY OF THE KILLING OF  
 VRITRA ASURA**
 
-![](../books_images/U-IMG-1734324958Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1734324958Screenshot2024-12-15104840.png"/>
 
 **इन्द्रस्त्रिभुवनैश्वर्यमदोल्लङ्घितसत्पथः।  
 नाभ्यनन्दत संप्राप्तं प्रत्युत्थानासनादिभिः।  
@@ -2421,10 +2421,10 @@ of Vishnu; the two door-keepers (there) prevented them (from entering).
 
 and Hiranyaksha, the younger. Hiranyaksha was killed by the Lord who took the form of the Boar, when He lifted the earth out of the waters.[^5]
 
+[^5]: " See pp. 27-28 infra."
+
 **भ्रातर्येवं विनिहते हरिणा क्रोडमूर्तिना।  
 हिरण्यकशिपुः \[राजन्\] पर्यतप्यद्रुषा शुचा॥**
-
-[^5]: " See pp. 27-28 infra."
 
  When his brother had been killed thus by Hari in the form of the Boar, Hiranyakasipu burnt with anger and grief.
 
@@ -3168,7 +3168,7 @@ THUS ENDS THE STORY OF THE EMANCIPATION OF THE ELEPHANT-KING.
 
 **॥कूर्मावतारकथा॥**
 
-**![](../books_images/U-IMG-1734152833Screenshot2024-11-28134235.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734152833Screenshot2024-11-28134235.png"/>**
 
 THE STORY OF THE INCARNATION AS TORTOISE**.**
 
@@ -3448,11 +3448,11 @@ THUS ENDS THE STORY OF THE INCARNATION AS TORTOISE.
 
 **॥वामनत्रिविक्रमावतारकथा॥**
 
-![](../books_images/U-IMG-1734158276Screenshot2024-11-28134235.png)
+<MISSING_FIG href="../books_images/U-IMG-1734158276Screenshot2024-11-28134235.png"/>
 
 THE STORY OF THE INCARNATIONS AS VAMANA AND TRIVIKRAMA.
 
-![](../books_images/U-IMG-1734347565Screenshot2024-11-28134235.png)
+<MISSING_FIG href="../books_images/U-IMG-1734347565Screenshot2024-11-28134235.png"/>
 
 **पराजितश्रीरभजद् भृगून्बलिः  
 तं ब्राह्मणा भृगवः प्रीयमाणाः।  
@@ -3874,11 +3874,11 @@ THUS ENDS THE STORY OF THE INCARNATIONS AS VAMANA AND TRIVIKRAMA.
 
 **॥मत्स्यावतारकथा॥**
 
-**![](../books_images/U-IMG-1734341560Screenshot2024-11-28134235.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734341560Screenshot2024-11-28134235.png"/>**
 
 **THE STORY OF THE INCARNATION AS THE FISH**
 
-![](../books_images/U-IMG-1734341617Screenshot2024-11-28134235.png)
+<MISSING_FIG href="../books_images/U-IMG-1734341617Screenshot2024-11-28134235.png"/>
 
 **गोषिप्रसुरसाधूनां छन्दसामपि चेश्वरः।  
 रक्षामिच्छंस्तनुर्धत्तेधर्मस्यार्थस्य चैव हि॥**
@@ -4005,7 +4005,7 @@ THUS ENDS THE STORY OF THE INCARNATION AS THE FISH.
 
 **॥रामावतारकथा॥**
 
-**![](../books_images/U-IMG-1734586242Screenshot2024-12-15144620.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734586242Screenshot2024-12-15144620.png"/>**
 
 THE STORY OF THE INCARNATION AS RAMA
 
@@ -4093,11 +4093,11 @@ THUS ENDS THE STORY OF THE INCARNATION AS RAMA.
 
 **॥ परशुरामान्तरिकथा ॥**
 
-**![](../books_images/U-IMG-1734588639Screenshot2024-12-19114012.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734588639Screenshot2024-12-19114012.png"/>**
 
 THE STORY OF THE INCARNATION AS PARASURAMA
 
-![](../books_images/U-IMG-1734588700Screenshot2024-12-19114104.png)
+<MISSING_FIG href="../books_images/U-IMG-1734588700Screenshot2024-12-19114104.png"/>
 
 **रेणोस्सुतां रेणुकां वै जमदग्निरुवाह याम्।  
 तस्यां वै भार्गवऋषेर्जज्ञेरामोऽभिविश्रुतः॥**
@@ -4256,7 +4256,7 @@ THUS ENDS THE STORY OF THE INCARNATION AS PARASURAMA.
 
 THE STORY OF THE INCARNATION AS KRISHNA
 
-![](../books_images/U-IMG-1735117222Screenshot2024-11-28145424.png)
+<MISSING_FIG href="../books_images/U-IMG-1735117222Screenshot2024-11-28145424.png"/>
 
 **भगवज्जन्म**—THE LORD'S NATIVITY
 
@@ -4561,7 +4561,8 @@ The Ministers—
 
 **पूतनावधः—**THE KILLING OF PUTANA
 
-![](../books_images/U-IMG-1735120096Screenshot2024-12-25151514.png)
+   
+<MISSING_FIG href="../books_images/U-IMG-1735120096Screenshot2024-12-25151514.png"/>
 
 **कंसेन प्रहिता घोरा पूतना बालघातिनी।  
 शिशूंश्चचार निघ्नन्ती पुरग्रामव्रजादिषु॥**
@@ -4589,7 +4590,7 @@ The Ministers—
 
 **शकटभञ्जनम्—**THE SHATTERING OF SAKATA
 
-![](../books_images/U-IMG-1735138519Screenshot2024-12-25202249.png)
+<MISSING_FIG href="../books_images/U-IMG-1735138519Screenshot2024-12-25202249.png"/>
 
 **कदाचिदौत्थानिककौतुकाप्लवे  
 नन्दस्य पत्नी कृतमज्जनादिकम्।  
@@ -4615,7 +4616,7 @@ axle overturned and the polebroken.Nanda and others were excited.on seeing this 
 
 **तृणावर्तवधः—**THE KILLING OF TRINAVARTA
 
-![](#)![](../books_images/U-IMG-1735125576Screenshot2024-12-25151514.png)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1735125576Screenshot2024-12-25151514.png"/>
 
 **एकदाऽऽरोहमारूढं लालयन्ती सुतं सती।  
 भूमौ निधाय तं गोपी जगामाशु च कर्मसु॥**
@@ -4646,7 +4647,7 @@ For a time, time, (all) Gokula was wrapti indust and darkness.
 
 **नामकरणम् —** THE SACRAMENT OF NAMING
 
-![](../books_images/U-IMG-1735125638Screenshot2024-12-25151514.png)
+<MISSING_FIG href="../books_images/U-IMG-1735125638Screenshot2024-12-25151514.png"/>
 
 **गर्गः पुरोहितो \[राजन् \] यदूनां सुमहातपाः।  
 चकार नामकरणं गूढो रहसि बालयोः॥**
@@ -4694,7 +4695,7 @@ Garga—
 
 [^8]: "Visvarupa is the transcendental form of the Lord, embodying within itself the entire universe."
 
-![](../books_images/U-IMG-1735183922Screenshot2024-11-28134235.png)
+<MISSING_FIG href="../books_images/U-IMG-1735183922Screenshot2024-11-28134235.png"/>
 
 **एकदा क्रीडमानास्ते रामाद्या गोपदारकाः।  
 कृष्णो मृदं भक्षितवानिति मात्रे न्यवेदयन्॥**
@@ -4729,9 +4730,9 @@ and the quarters; with the globe of this earth and its mountains, continents and
  Yasoda understood that her son was Hari whose greatness was sung by the three  
 Vedas, the Upanishads, and the followers of the Sankhya, the Yoga and the Satvata.[^9]
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
 [^9]: "Sankhya is the path of knowledge; Yoga of action; and Satvata, an Agamik path, is that of devotion."
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **कृष्णबन्धनः** — THE BINDING OF KRISHNA  
 **\_\_\_\_\_\_\_\_\_\_\_**
@@ -5601,13 +5602,13 @@ asked him: “What is the wonder on earth, in the skies or in the waters that ha
 
  Having said thus, (Akrura) the son of Gandini, drove the chariot and brought Rama and Krishna to Mathura when the day was coming to a close.
 
-![](../books_images/U-IMG-1734514221Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1734514221Screenshot2024-12-15104840.png"/>
 
 ** मथुराप्रवेशः—**
 
 **THE ENTRY OF THE LORD INTO MATHURA**
 
-**![](../books_images/U-IMG-1734514404Screenshot2024-12-15104840.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734514404Screenshot2024-12-15104840.png"/>**
 
 **तावद्व्रजौकसस्तत्र नन्दगोपादयोऽग्रतः।  
 पुरोपवनमासाद्य प्रतीक्षन्तोऽवतस्थिरे॥**
@@ -5660,13 +5661,13 @@ The guardians of the bow, along with their followers, surrounded (Krishna and Ra
 
  Having killed the forces sent by Kamsa also, the two went out of that apartment (of the bow) and wandered about merrily. The sun (then) set, and Krishna and Rama, surrounded by the cowherds, went out of the city, to where their carts were. Knowing what Kamsa desired to do, the two spent the night happily.
 
-![](../books_images/U-IMG-1734516449Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1734516449Screenshot2024-12-15104840.png"/>
 
 ** कंसवधः—**
 
 **THE KILLING OF KAMSA**
 
-![](../books_images/U-IMG-1734516568Screenshot2024-12-15104407.png)
+<MISSING_FIG href="../books_images/U-IMG-1734516568Screenshot2024-12-15104407.png"/>
 
 **कंसस्तु दुर्निमित्तानि मृत्योर्दौत्यकराणि च।  
 पश्यन्मरणसन्त्रस्तो निद्रां लेभे न चिन्तया॥**
@@ -5771,13 +5772,13 @@ fled. The imperishable Lord, who was very angry with Kamsa, lightly leapt and mo
 
  Devaki and Vasudeva understood their sons who who were bowing to them as the Lords of the universe and, free from fear embraced them.
 
-![](../books_images/U-IMG-1734518836Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1734518836Screenshot2024-12-15104840.png"/>
 
 **उग्रसेनाभिषेकः**
 
 **THE INSTALLATION OF  
 UGRASENA AS KING**  
-![](../books_images/U-IMG-1734518836Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1734518836Screenshot2024-12-15104840.png"/>
 
 **प्रीणन्नाश्वास्य पितरौ भगवान् देवकीसुतः।  
 मातामहं तूग्रसेनं यदूनामकरोन्नृपम्॥**
@@ -5801,13 +5802,13 @@ UGRASENA AS KING**
 
  Told thus, Nanda embraced Krishna and Rama and, along with the cowherds, left for the Vraja.
 
-![](../books_images/U-IMG-1734518836Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1734518836Screenshot2024-12-15104840.png"/>
 
 ** गुरुकुलवासः— **
 
 **LIFE WITH THE TEACHER**
 
-**![](../books_images/U-IMG-1734518836Screenshot2024-12-15104840.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734518836Screenshot2024-12-15104840.png"/>**
 
 **ततश्च लब्धसंस्कारौ द्विजत्वं प्राप्य सुव्रतौ।  
 गर्गाद्यदुकुलाचार्याद्गायत्रं व्रतमास्थितौ॥**
@@ -5824,13 +5825,13 @@ UGRASENA AS KING**
 
  They imbibed everything on everything on a single utterance by the preceptor.
 
-![](../books_images/U-IMG-1734518836Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1734518836Screenshot2024-12-15104840.png"/>
 
 ** उद्धवसन्देशः— **
 
 **MESSAGE TO THE GOKULA THROUGH UDDHAVA**
 
-![](../books_images/U-IMG-1734518836Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1734518836Screenshot2024-12-15104840.png"/>
 
 **मन्त्री कृष्णस्य दयित उद्धवो बुद्धिसत्तमः॥  
 तमाह भगवान् प्रेष्ठं प्रपन्नार्तिहरो हरिः॥**
@@ -5935,13 +5936,13 @@ your minds (to me) closer and for giving you continuous thought of Me. In the ma
 
  Then, taking leave of the Gopis, Yasoda and Nanda, Uddhave returned to Mathura, protected by Krishna, and bowing to Him, informed Him of the heights of the devotion of the inhabitants of the Vraja.
 
-![](../books_images/U-IMG-1734600952Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1734600952Screenshot2024-12-15104840.png"/>
 
 **रूक्मिणीविवाहः**
 
 **KRISHNA MARRYING RUKMINI**
 
-![](../books_images/U-IMG-1734601138Screenshot2024-12-15104407.png)
+<MISSING_FIG href="../books_images/U-IMG-1734601138Screenshot2024-12-15104407.png"/>
 
 **राजाऽऽसीद्भीष्मको नाम विदर्भाधिपतिर्महान्।  
 तस्य पञ्चाभवन् पुत्राः कन्यैका रुक्मिणी सती॥**
@@ -6091,7 +6092,7 @@ by generals of armies, rout the forces of Sisupala and Jarasandha and by forcibl
 
 **THE KILLING OF NARAKASURA**
 
-![](../books_images/U-IMG-1734618946Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1734618946Screenshot2024-12-15104840.png"/>
 
 **इन्द्रेण हृतच्छत्रेण ज्ञापितो भौमचेष्टितम्।  
 सभार्यो गरुडारूढः प्राग्ज्योतिषपुरं ययौ॥**
@@ -6113,7 +6114,7 @@ by generals of armies, rout the forces of Sisupala and Jarasandha and by forcibl
 
  With (all) his efforts made futile, Bhauma seized his trident to kill the imperishable Lord. Even before he could aim it, Lord Hari took off, with His razor-edged discus, the head of Naraka, who was mounted on an elephant.
 
-![](../books_images/U-IMG-1734604265Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1734604265Screenshot2024-12-15104840.png"/>
 
 indifferent to wife as well as home; we remain full with self-realisation, and, like the on-looking light, ourselves devoid of any action.”
 
@@ -6170,13 +6171,13 @@ Brahma and others, bring their offerings! (True), those that are blinded with th
 
  “O lotus-eyed Lord! May I have devotion unto the feet of you who are revelling in your own self. That itself would be the greatest mercy shown to us.”
 
-![](../books_images/U-IMG-1734604539Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1734604539Screenshot2024-12-15104840.png"/>
 
 **उषापरिणयः—**
 
 **THE MARRIAGE OF ANIRUDDHA AND USHA**
 
-![](../books_images/U-IMG-1734683855Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1734683855Screenshot2024-12-15104840.png"/>
 
 **बाणः पुत्रशतज्येष्ठो बलेयसीन्महात्मनः।  
 शोणिताख्ये पुरे रम्ये स राज्यमकरोत् पुरा॥**
@@ -6442,13 +6443,13 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 
  When the king of the Magadhas had been killed, there were hugeshouts of **‘Ha ! Ha !’**. The inscrutable Lord, the benefactor of all beings, anointed Sahadeva, the son the son of Jarasandha, as the king of the Magadhas, and released (all) the kings whohad been imprisoned by Jarasandha.
 
-![](../books_images/U-IMG-1734879444Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1734879444Screenshot2024-12-15104840.png"/>
 
 **शिशुपालवधः—**
 
 **THE KILLING OF SISUPALA**
 
-**![](../books_images/U-IMG-1734879540Screenshot2024-11-03140300.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734879540Screenshot2024-11-03140300.png"/>**
 
 **राजा जरासन्धवधं श्रुत्वा घव्रे स ऋत्विजः।  
 राजानश्च समाहूताः राजपत्न्यश्च सर्वशः।  
@@ -6487,14 +6488,12 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 
  The effulgence that arose out of the body of the king of the Chedis became one with Lord Vasudeva. Thinking intensely (of the Lord) with a mind overwhelmed by the accumulated enmity of three births, he attained the form of the Lord. For, indeed, mental absorption (in a thing) makes one take its form.[^29]
 
+[^29]: "See the story of Jaya and Vijaya above."
+
 **एवं सौभं च साल्वं च दन्तवक्त्रं सहानुजम्।  
 हत्वा दुर्विषहानन्यानीडितस्सुरमानवैः॥**
 
-[^29]: "See the story of Jaya and Vijaya above."
-
  Similarly, the Lord killed the Saubha king Salva, Dantavaktra[^29]with his younger brother, and other insufferable kings, and was extolled by the gods and men.
-
-[^29]: "See the story of Jaya and Vijaya above."
 
 **\_\_\_\_\_\_\_**
 
@@ -6654,13 +6653,13 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 
  Making up his mind thus and becoming an (ever more) intense devotee of the Lord, Kuchela, with his wife, enjoyed (all) pleasures, not hankering too much after them but with a view to (gradually) renounce them.
 
-![](../books_images/U-IMG-1734882413Screenshot2024-11-03140300.png)
+<MISSING_FIG href="../books_images/U-IMG-1734882413Screenshot2024-11-03140300.png"/>
 
 **उद्धवोपदेशः—**
 
 **ADVICE TO UDDHAVA**
 
-**![](../books_images/U-IMG-1734882532Screenshot2024-12-15104407.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734882532Screenshot2024-12-15104407.png"/>**
 
 **कृत्वा दैत्यवधं कृष्णः सरामो यदुभिर्वृतः।  
 भुवोऽवतारयद्भारं जविष्ठं जनयन् कलिम्॥**
@@ -6924,7 +6923,7 @@ well as the Chandala, in the thief as well as the person who is versed in the Ve
 
 [^31]: "See the Mausalaparva, PP. 434-444, The Mahabharata. G. A. Natesan & Co., Madras."
 
-**![](../books_images/U-IMG-1734919484Screenshot2024-11-03140300.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734919484Screenshot2024-11-03140300.png"/>**
 
 **दिवि भुव्यन्तरिक्षे च महोत्पातान्समुत्थितान्।  
 दृष्ट्रा सर्वे समाकर्ण्य यदुवृद्धा मधुद्विषः।  
@@ -6971,7 +6970,7 @@ well as the Chandala, in the thief as well as the person who is versed in the Ve
 
 **॥ इति कृष्णावतारकथा ॥**
 
-**![](../books_images/U-IMG-1734920007Screenshot2024-12-15104840.png)  
+**<MISSING_FIG href="../books_images/U-IMG-1734920007Screenshot2024-12-15104840.png"/>  
 THUS ENDS THE STORY OF THE  
 INCARNATION AS KRISHNA.**
 
@@ -6981,7 +6980,7 @@ INCARNATION AS KRISHNA.**
 
 **THE STORY OF THE INCARNATION AS KALKI**
 
-**![](../books_images/U-IMG-1734928397Screenshot2024-12-15104840.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734928397Screenshot2024-12-15104840.png"/>**
 
 **वर्णाश्रमवतां धर्मे नष्टे वेदपथे नृणाम्।  
 पाखण्डप्रचुरे धर्मे दस्युप्रायेषु राजसु।  
@@ -7011,17 +7010,17 @@ Kali[^32] agehas thus well-advanced towards the end, when man is essentially vio
 
 **॥ इति कल्क्यवतारकथा ॥**
 
-**![](../books_images/U-IMG-1734928708Screenshot2024-12-15104840.png)  
+**<MISSING_FIG href="../books_images/U-IMG-1734928708Screenshot2024-12-15104840.png"/>  
 THUS ENDS THE STORY OF THE  
 INCARNATION AS KALKI.**
 
-**![](../books_images/U-IMG-1734928708Screenshot2024-12-15104840.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734928708Screenshot2024-12-15104840.png"/>**
 
 **॥ परीक्षिन्निर्वाणम् ॥**
 
 **THE SALVATION OF PARIKSHIT**
 
-**![](../books_images/U-IMG-1734928811Screenshot2024-12-15104407.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734928811Screenshot2024-12-15104407.png"/>**
 
 **‘राजन् एते मया प्रोक्ता नरदेवास्तथाऽपरे।  
 भूमौ ममत्वं कृत्वाऽन्ते हित्वेमां निधनं गताः॥**
@@ -7102,11 +7101,11 @@ INCARNATION AS KALKI.**
 
 **॥ इति परीक्षिनिर्वाणम् ॥**
 
-**![](../books_images/U-IMG-1734928029Screenshot2024-12-15104840.png)  
+**<MISSING_FIG href="../books_images/U-IMG-1734928029Screenshot2024-12-15104840.png"/>  
 THUS ENDS THE STORY OF THE SALVATION  
 OF PARIKSHIT**
 
-**![](../books_images/U-IMG-1734928029Screenshot2024-12-15104840.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734928029Screenshot2024-12-15104840.png"/>**
 
 **नमो भगवते तस्मै कृष्णायाकुण्ठमेधसे ।  
 यत्पादाम्बुरुहध्यानात्संहितामध्यगामिमाम्॥**
@@ -7118,10 +7117,10 @@ OF PARIKSHIT**
 
  He who extends (to others) (the benefit of) the Bhagavata, attains the supreme goal. The glorious Bhagavata is the essence of all the Upanishads.
 
-**![](../books_images/U-IMG-1734928029Screenshot2024-12-15104840.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1734928029Screenshot2024-12-15104840.png"/>**  
 **॥ इति श्रीमद् भागवतं समाप्तम् ॥**
 
-**![](../books_images/U-IMG-1734928029Screenshot2024-12-15104840.png)  
+**<MISSING_FIG href="../books_images/U-IMG-1734928029Screenshot2024-12-15104840.png"/>  
 THUS ENDS THE BHAGAVATA**
 
 **THE BHAGAVATA**
@@ -7130,7 +7129,7 @@ THUS ENDS THE BHAGAVATA**
 
 **DR. V. RAGHAVAN, M.A., Ph.D.**
 
-![](../books_images/U-IMG-1734925347Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1734925347Screenshot2024-12-15104840.png"/>
 
 ТHE Purana is a reinforcement (*Upabrihmana*) of the teachings of the Vedas, with arguments for God and Dharma in the form of accounts of the creation, the sages, and the lives of the kings of the past. This is the real meaning of the traditional definition of the Purana as ‘*Panchalakshana*’. The supremacy of the Lord and Dharma is made the more explicit purpose of the Purana in the amplified *‘Dasalakshana’* (ten characteristics) given by the Bhagavata (II. 10. 1-7). The Lord, as Asraya, is given as the chief of these ten features of the Purana and along with this are introduced as definite subjects the stories of the incarnations which the Lord took for the re-establishment of His Kingdom and for the renaissance of Dharma on earth, and Salvation (Mukti). The first nine subjects only qualify the tenth, the *Asraya*, and are intended to strengthen it. *(Dasamasya visuddhyartham navanamiha lakshanam. II. 10.2).* In this, the Bhagavata shifts the emphasis from Principle to
 
@@ -7588,7 +7587,6 @@ Raumaharshani. His proper name is Ugrasravas.
 
  **YUDHISHTHIRA.—**The eldest of the five Pandavas, the sons of the aunt of Krishna; grandfather of king Parikshit to whom the *Bhagavata* is narrated;also called Ajatasatru.
 
-![](../books_images/U-IMG-1735092528Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1735092528Screenshot2024-12-15104840.png"/>
 
 \]
-

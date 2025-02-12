@@ -31,11 +31,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk2Mjk1ODA2MTQ
 PRESIDENCY COLLEGE,MADRAS.         **P.P.Subrahmanya Sastri,** Dated: 31—3— 1939,       Curator, GovernmentOriental Manuscripts                    
         Library,  Madras.
 
-                                   
+           
 
                                    
-
                                    
+                                   
+                                   
+   
+                                   
+                                   
+                                 
 
 **INTRODUCTION.**
 
@@ -155,14 +160,14 @@ Madras.
 | "     गमितक्रियः                                 |
 | "      अक्रियः                                   |
 
-![](../books_images/U-IMG-17031501492nd.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17031501492nd.jpg"/>
 
-![](../books_images/U-IMG-17031506583rd.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17031506583rd.jpg"/>
 
 **॥ शृङ्गारप्रकाशः॥**
 
 **भोजदेवविरचितः  
-![](../books_images/U-IMG-1708413598n.PNG)**
+<MISSING_FIG href="../books_images/U-IMG-1708413598n.PNG"/>**
 
 **प्रथमः प्रकाशः**
 
@@ -956,7 +961,7 @@ Madras.
 शृङ्गारप्रकाशेप्रातिपदिकादिप्रकाशो नाम  
 द्वितीयःप्रकाशःसंपूर्णः ॥
 
-     ![](../books_images/U-IMG-17031538312nd.jpg)
+     <MISSING_FIG href="../books_images/U-IMG-17031538312nd.jpg"/>
 
 **॥ शृङ्गारप्रकाशे प्रथमद्वितीयप्रकाशस्थश्लोकानामादिवर्णानुक्रमणिका॥**
 

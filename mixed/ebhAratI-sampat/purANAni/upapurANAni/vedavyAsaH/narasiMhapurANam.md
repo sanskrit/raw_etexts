@@ -21,7 +21,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 **ग्रन्थरत्नमाला।**
 
 **श्री नरसिंहपुराणम्।**  
-![](../books_images/U-IMG-1735283707Untitled4.png)
+<MISSING_FIG href="../books_images/U-IMG-1735283707Untitled4.png"/>
 
 **प्रथमोऽध्यायः।**
 
@@ -846,7 +846,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 ईक्षितौ च कटाक्षेण स्कन्दतुः स्ववुभावपि॥३३॥
 
 निमेः शापादथोत्क्रम्य स्वदेहान्मुनिसत्तम।  
-वसिष्ठ मित्रावरुणात्मजोसोत्यतोनुरागत्य हि विश्वदेवाः[^40](?)।  
+वसिष्ठ मित्रावरुणात्मजोसोत्यतोनुरागत्य हि विश्वदेवाः[^40] (?)।  
 रेतस्त्रिभागं कमलेचरन्तं वसिष्ठ एवं तु पितामहोक्तेः॥३४॥
 
 [^40]: " 'वसिष्ठ मित्रावरुणात्मजोसिन्मित्रस्य देवस्य पितामहोक्तेः' इदमेवार्धे'क ख' पुस्तकयोः।"
@@ -1691,7 +1691,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 
 **एकादशोऽध्यायः।**
 
-![](../books_images/U-IMG-1735311633Untitled5.png)
+<MISSING_FIG href="../books_images/U-IMG-1735311633Untitled5.png"/>
 
 **॥व्यास उवाच॥**
 
@@ -1949,7 +1949,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 
 **त्रयोदशोऽध्यायः।**
 
-**![](../books_images/U-IMG-1735360773Untitled5.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1735360773Untitled5.png"/>**
 
 **॥श्रीसूत उवाच॥**
 
@@ -2127,7 +2127,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 **॥इति श्रीनरसिंहपुराणे यमीयमसंवादो नाम त्रयोदशोऽध्यायः॥१३॥**
 
 **चतुर्दशोऽध्यायः।  
-![](../books_images/U-IMG-1735365860Untitled5.png)**
+<MISSING_FIG href="../books_images/U-IMG-1735365860Untitled5.png"/>**
 
 **॥श्रीशुक उवाच॥**
 
@@ -2366,7 +2366,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 \_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **पञ्चदशोऽध्यायः।  
-![](../books_images/U-IMG-1735370802Untitled5.png)**
+<MISSING_FIG href="../books_images/U-IMG-1735370802Untitled5.png"/>**
 
 **व्यास उवाच।**
 
@@ -2426,7 +2426,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 
 **षोडशोऽध्यायः।**
 
-![](../books_images/U-IMG-1735371541Untitled5.png)
+<MISSING_FIG href="../books_images/U-IMG-1735371541Untitled5.png"/>
 
 **॥श्रीशुक उवाच॥**
 
@@ -2483,7 +2483,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 **इतिश्रीनरसिंहपुराणे षोडशोऽध्यायः॥१६॥**
 
 **सप्तदशोऽध्यायः।  
-![](../books_images/U-IMG-1735372047Untitled5.png)**
+<MISSING_FIG href="../books_images/U-IMG-1735372047Untitled5.png"/>**
 
 **॥श्रीशुक उवाच॥**
 
@@ -2629,7 +2629,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 **इति श्रीनरसिंहपुराणे विष्णोस्तवराजनिरूपणे सप्तदशोऽध्यायः॥१७॥**
 
 **अष्टादशोऽध्यायः।  
-![](../books_images/U-IMG-1735373566Untitled5.png)**
+<MISSING_FIG href="../books_images/U-IMG-1735373566Untitled5.png"/>**
 
 **॥श्रीशुक उवाच॥**
 
@@ -2771,7 +2771,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 **॥इतिश्रीनरसिंहपुराणे अष्टाक्षरमाहात्म्यं नामाष्टादशोऽध्यायः॥१८॥**
 
 **एकोनविंशोऽध्यायः।  
-![](../books_images/U-IMG-1735377606Untitled5.png)**
+<MISSING_FIG href="../books_images/U-IMG-1735377606Untitled5.png"/>**
 
 **॥सूत उवाच॥**
 
@@ -2850,7 +2850,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 **इति श्रीनरसिंहपुराणे अश्विनोरुत्पत्तिर्नाम एकोनविंशोध्यायः॥१९॥**
 
 **विंशोऽध्यायः।**  
-![](../books_images/U-IMG-1735378448Untitled5.png)
+<MISSING_FIG href="../books_images/U-IMG-1735378448Untitled5.png"/>
 
 **॥भारद्वाज उवाच॥**
 
@@ -2933,7 +2933,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 **॥इति श्रीनरसिंहपुराणे विंशोऽध्यायः॥२०॥**
 
 **एकविंशतितमोऽध्यायः।  
-![](../books_images/U-IMG-1735379203Untitled5.png)**
+<MISSING_FIG href="../books_images/U-IMG-1735379203Untitled5.png"/>**
 
 **॥श्रीसूत उवाच॥**
 
@@ -2962,7 +2962,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 **सृष्टिकाण्डं समाप्तम्।**
 
 **द्वात्रिंशोऽध्यायः।  
-![](../books_images/U-IMG-1735379424Untitled5.png)**
+<MISSING_FIG href="../books_images/U-IMG-1735379424Untitled5.png"/>**
 
 **॥भारद्वाज उवाच॥**
 
@@ -3075,7 +3075,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 **॥इति श्रीनरसिंहपुराणे सोमवंशानुकीर्तनं त्रयोविंशतिमोऽध्यायः॥२३॥**
 
 **चतुर्विंशोऽध्यायः।  
-![](../books_images/U-IMG-1735397091Untitled5.png)**
+<MISSING_FIG href="../books_images/U-IMG-1735397091Untitled5.png"/>**
 
 **॥सूत उवाच॥**
 
@@ -3363,7 +3363,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 **-----------------**
 
 **षड्विंशतितमोऽध्यायः  
-![](../books_images/U-IMG-1735404823Untitled5.png)**
+<MISSING_FIG href="../books_images/U-IMG-1735404823Untitled5.png"/>**
 
 **भरद्वाज उवाच॥**
 
@@ -3616,7 +3616,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 **॥इति श्रीनरसिंहपुराणे इक्ष्वाकुचरिते षद्विंशतितमोध्यायः॥२६॥**
 
 **सप्तविंशोऽध्यायः।  
-![](../books_images/U-IMG-1735532032Untitled5.png)**
+<MISSING_FIG href="../books_images/U-IMG-1735532032Untitled5.png"/>**
 
 **॥श्रीसूत उवाच॥**
 
@@ -3662,7 +3662,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 **॥इति श्रीनरसिंहपुराणे सूर्यवंशानुचरितं सप्तविंशतितमोऽध्यायः॥२८॥**
 
 **अष्टत्रिंशोऽध्यायः॥  
-![](../books_images/U-IMG-1735533103Untitled5.png)**
+<MISSING_FIG href="../books_images/U-IMG-1735533103Untitled5.png"/>**
 
 **सूत उवाच॥**
 
@@ -3843,7 +3843,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 **॥इति श्रीनरसिंहपुराणे शन्तनुचरितं नामाष्टाविंशतितमोध्यायः॥२८॥**
 
 **एकोनत्रिंशोऽध्यायः।**  
-![](../books_images/U-IMG-1735536004Untitled5.png)
+<MISSING_FIG href="../books_images/U-IMG-1735536004Untitled5.png"/>
 
 **॥श्रीसूत उवाच॥**
 
@@ -3887,7 +3887,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 **वंशानुचरितं समाप्तम्॥**
 
 **त्रिंशोऽध्यायः।  
-![](../books_images/U-IMG-1735536737Untitled5.png)**
+<MISSING_FIG href="../books_images/U-IMG-1735536737Untitled5.png"/>**
 
 **॥श्रीसूत उवाच॥**
 
@@ -4982,8 +4982,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 'पुन्नागनागबकुलैः[^160] पद्मैरुत्पलजातिभिः।  
 तुलसीकरवीरैश्चपालाशैः सानुकुम्बकैः'॥१९॥
 
-[^160]: "इदं पद्यं 'ग' पुस्तके न।"
-
 एतैरन्यैश्चकुसुमैः प्रशस्तैरच्युतं नरः।  
 अर्चयेद्दशमुवर्णस्य प्रत्येकं फलमाप्नुयात्॥२०॥
 
@@ -5874,8 +5872,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 प्रीतोहं गच्छ त्वं देव कैलासशिखरं शुभम्।  
 त्वया स्तुतो हनिष्यामि हिरण्यकशिपुं भव॥५९॥
 
-[गच्छध्वमधुना](#) देवाः कालं कंचित्प्रतीक्षताम्।  
+गच्छध्वमधुना[^415] देवाः कालं कंचित्प्रतीक्षताम्।  
 यदास्य तनयो धीमान् प्रह्लादो नाम वैष्णवः॥६०॥
+
+[^415]: #
 
 तस्य द्रोहं यदा दैत्याः करिष्यन्ति सुरास्तदां।  
 हनिष्यामि वरैर्गुप्तमजेयं देवदानवैः।  
@@ -6099,7 +6099,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 
 ॥इति श्रीनरसिंहपुराणे नृसिंहप्रादुर्भावे एकचत्वारिंशः॥४१॥
 
-**![](../books_images/U-IMG-1735969453Screenshot2025-01-0411.14.02AM.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1735969453Screenshot2025-01-0411.14.02AM.png"/>**
 
 **द्विचत्वारिंशोऽध्यायः।**
 
@@ -6228,7 +6228,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 
 **॥इति श्रीनरसिंहपुराणे नरसिंहप्रादुर्भावे द्विचत्वारिंशोऽध्यायः॥१२॥**
 
-**![](../books_images/U-IMG-1736596292Screenshot2025-01-11171949.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1736596292Screenshot2025-01-11171949.png"/>**
 
 **त्रयश्चत्वारिंशोऽध्यायः।**
 
@@ -6514,7 +6514,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 
 **॥इति श्रीनरसिंहपुराणे नरसिंहप्रादुर्भावे त्रिचत्वारिंशोऽध्यायः॥४३॥**
 
-**![](../books_images/U-IMG-1736344202Screenshot2025-01-0411.14.02AM.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1736344202Screenshot2025-01-0411.14.02AM.png"/>**
 
 **चतुश्चत्वारिंशोऽध्यायः।**
 
@@ -6982,7 +6982,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 
 **॥इति श्रीनरसिंहपुराणे परशुरामप्रादुर्भावो नाम षट्चत्वारिंशोऽध्यायः॥४६॥**
 
-![](../books_images/U-IMG-1736414363Screenshot2025-01-0411.14.02AM.png)
+<MISSING_FIG href="../books_images/U-IMG-1736414363Screenshot2025-01-0411.14.02AM.png"/>
 
 **सप्तचत्वारिंशोऽध्यायः।**
 
@@ -7267,8 +7267,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 उद्यतै[^160]कभुजयष्टिमायतीं श्रोणिलम्बिपुरुषान्त्रमेखलाम्।  
 तां विलोक्य वनिता वधे घृणां पत्रिणा सह मुमोच राघवः॥८२॥
 
-[^160]: "इदं पद्यं 'ग' पुस्तके न।"
-
 शरं संधाय वेगेन तेन तस्यां उरःस्थलम्।  
 विपाटितं द्विधा राजन् सा पपात ममार च॥८३॥
 
@@ -7527,7 +7525,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 
 **॥इति श्रीनरसिंहपुराणे रामप्रादुर्भावः सप्तचत्वारिंशोऽध्यायः॥४७॥**
 
-![](../books_images/U-IMG-1736438874Screenshot2025-01-0411.14.02AM.png)
+<MISSING_FIG href="../books_images/U-IMG-1736438874Screenshot2025-01-0411.14.02AM.png"/>
 
 **अष्टचत्वारिंशोऽध्यायः।**
 
@@ -8073,7 +8071,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 
 **एकोनचत्वारिंशोऽध्यायः।**
 
-**![](../books_images/U-IMG-1736480482Screenshot2025-01-0411.14.02AM.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1736480482Screenshot2025-01-0411.14.02AM.png"/>**
 
 **॥मार्कण्डेय उवाच॥**
 
@@ -8471,13 +8469,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 आकर्ण्य सीतास्वनमागतोहं सीतां विमोक्तुं स्वबलेन राघव।  
 युद्धं च तेनाहमतीव कृत्वा हतः पुनः खड्गबलेन रक्षसा॥११६॥
 
-वैदेहिवाक्यादिह जीवता मया दृष्टो भवान् [स्वर्गमितो](#) गमिष्ये।  
+वैदेहिवाक्यादिह जीवता मया दृष्टो भवान् स्वर्गमितो[^416] गमिष्ये।  
 मा राम शोकं कुरु भूमिपाल वधाद्य दुष्टं सगणं तु नैर्ऋतम्॥११७॥
+
+[^416]: #
 
 रामो जटायुनेत्युक्तः पुनस्तं चाह शोकतः[^359]।  
 स्वस्त्यस्तु ते द्विजवरगतिस्तुपरमास्तु ते॥११८॥
-
-[^359]: "' सत्कृतः ' इति 'ग' पुस्तके।"
 
 ततो जटायुः स्वं देहं विहाय गतवान् दिवम्।  
 विमानेन तु रम्येण सेव्यमानोप्सरोगणैः॥११९॥
@@ -8522,7 +8520,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 
 **॥इति श्रीनरसिंहपुराणे रामप्रादुर्भावे एकोनपञ्चाशोऽध्यायः॥४९॥**
 
-![](../books_images/U-IMG-1736578437Screenshot2025-01-0411.14.02AM.png)
+<MISSING_FIG href="../books_images/U-IMG-1736578437Screenshot2025-01-0411.14.02AM.png"/>
 
 **पञ्चाशत्तमोऽध्यायः।**
 
@@ -9060,7 +9058,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 
 **॥इति श्रीनरसिंहपुराणे रामप्रादुर्भावपञ्चाशोऽध्यायः॥५०॥**
 
-![](../books_images/U-IMG-1736762680Screenshot2025-01-0411.14.02AM.png)
+<MISSING_FIG href="../books_images/U-IMG-1736762680Screenshot2025-01-0411.14.02AM.png"/>
 
 **एकपञ्चाशोऽध्यायः।**
 
@@ -9264,7 +9262,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 
 **द्विपञ्चाशोऽध्यायः।**
 
-![](../books_images/U-IMG-1736766714Screenshot2025-01-0411.14.02AM.png)
+<MISSING_FIG href="../books_images/U-IMG-1736766714Screenshot2025-01-0411.14.02AM.png"/>
 
 **॥श्रीमार्कण्डेय उवाच॥**
 
@@ -9687,7 +9685,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 
 **इति श्रीनरसिंहपराणे रामप्रादुर्भावे द्विपञ्चाशोध्यायः॥५२॥**
 
-![](../books_images/U-IMG-1736787213Screenshot2025-01-0411.14.02AM.png)
+<MISSING_FIG href="../books_images/U-IMG-1736787213Screenshot2025-01-0411.14.02AM.png"/>
 
 **त्रयःपञ्चाशोऽध्यायः।**
 
@@ -9919,7 +9917,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 
 **इति श्रीनरसिंहपुराणे कृष्णप्रादुर्भावो नाम त्रिपञ्चाशोध्यायः॥५३॥**
 
-**![](../books_images/U-IMG-1736822391Screenshot2025-01-0411.14.02AM.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1736822391Screenshot2025-01-0411.14.02AM.png"/>**
 
 **चतुपञ्चाशोऽध्यायः।**
 
@@ -10122,7 +10120,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 
 **॥इति श्रीनरसिंहपुराणे कलिलक्षणकीर्त्तनं चतुपञ्चाशोऽध्यायः॥१४॥**
 
-**![](../books_images/U-IMG-1736827224Screenshot2025-01-0411.14.02AM.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1736827224Screenshot2025-01-0411.14.02AM.png"/>**
 
 **पञ्चपञ्चाशोऽध्यायः।**
 
@@ -10200,7 +10198,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 
 **इति श्रीनरसिंहपुराणे शुक्रवरप्रदानोनाम पञ्चपञ्चाशोऽध्यायः॥५५॥**
 
-**![](../books_images/U-IMG-1736828150Screenshot2025-01-0411.14.02AM.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1736828150Screenshot2025-01-0411.14.02AM.png"/>**
 
 **षट्पञ्चाशोऽध्यायः।**
 
@@ -10584,9 +10582,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 तदेषां शासने तिष्ठेद्ब्रह्मचारी विमत्सरः॥३३॥
 
 अधीत्य चतुरो वेदान् वेदौ वेदमथापि वा।  
-गुरवे दक्षिणां दत्त्वा[^415]तदास्वस्वेच्छया वसेत्॥३४॥
+गुरवे दक्षिणां दत्त्वा[^417]तदास्वस्वेच्छया वसेत्॥३४॥
 
-[^415]: " ' दद्यादिति 'ख' पुस्तके।"
+[^417]: # " ' दद्यादिति 'ख' पुस्तके।"
 
 विरक्तः प्रव्रजेद्विद्वान् संरक्तस्तु गृही भवेत्।  
 सरागो नरकं याति प्रव्रजन्हि ध्रुवं द्विजः॥३५॥
@@ -10857,10 +10855,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 चतुःकालेपि चाश्नीयात् कालेप्युत तथाष्टमे।  
 षष्ठाह्नकाले ह्यथवा अथवा वायुभक्षकः॥६॥
 
-धेर्मेः[^416] पञ्चाग्निमध्यस्थो धारावर्षासु वै नयेत्।  
+धेर्मेः[^418] पञ्चाग्निमध्यस्थो धारावर्षासु वै नयेत्।  
 हैमन्तिके जले स्थित्वा नयेत्कालं तपश्चरन्॥७॥
 
-[^416]: "'पञ्चाग्निमध्ये तु यथा धारावर्षे निराश्रये ' इति 'ग' पुस्तके पाठः।"
+[^418]: # "'पञ्चाग्निमध्ये तु यथा धारावर्षे निराश्रये ' इति 'ग' पुस्तके पाठः।"
 
 एवं स्वकर्मभोगेन कृत्वा शुद्धिमथात्मनः।  
 अग्निं चात्मनि वै कृत्वा व्रजेद्वाचोत्तरां दिशम्॥८॥
@@ -10897,10 +10895,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 त्रिदण्डं वैणवं सौम्यं सत्वचं समपर्वकम्।  
 वेष्टितं कृष्ण गोवालरज्ज्वा च चतुरङ्गुलम्॥६॥
 
-'आसुरं[^417] दारुजं प्रोक्तं महान्तं वर्तुलं तथा।  
+'आसुरं[^419] दारुजं प्रोक्तं महान्तं वर्तुलं तथा।  
 ग्रन्थिभिर्वा त्रिभिर्युक्तं वस्त्रपूक्तं जलं पिबेत्’॥७॥
 
-[^417]: "इदं पद्ये 'ग' पुस्तके न।"
+[^419]: # "इदं पद्ये 'ग' पुस्तके न।"
 
 “ग्रन्थिमिर्वा[^404] त्रिभिर्युक्तं जलपूतं च धारयेत्।  
 गृह्णीयाद्दक्षिणे हस्ते मन्त्रेणैव तु मन्त्रवित्॥
@@ -10961,9 +10959,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 
 **एकषष्टितमोऽध्यायः। **
 
-**॥हारीत[^418] उवाच॥ **
+**॥हारीत[^420] उवाच॥ **
 
-[^418]: "अयमध्याय एव ' क ख ' पुस्तकयोर्न।"
+[^420]: # "अयमध्याय एव ' क ख ' पुस्तकयोर्न।"
 
 वर्णानामाश्रमानां च कथितं धर्मलक्षणम्।  
 यतः स्वर्गापववर्गौतु प्राप्नुयुस्ते द्विजादयः॥१॥
@@ -11061,8 +11059,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 यश्वाग्नौ हृदये सूर्ये स्थण्डिले प्रतिमासु च।  
 एतेषु च हरेः सम्यगर्च्चनं मुनिभिः स्मृतम्॥६॥
 
-तस्य सर्वमयत्वाच्च स्थण्डिले [भावितात्मनः](॑# "प्रतिमासु च ' इति ' क ' पुस्तके पाठः।")।  
+तस्य सर्वमयत्वाच्च स्थण्डिले भावितात्मनः[^421]।  
 आनुष्टुभस्य सूक्तस्य विष्णुस्तस्य च देवताः॥७॥
+
+[^421]: ॑# "प्रतिमासु च ' इति ' क ' पुस्तके पाठः।"
 
 पुरुषो यो जगद्बीजं ऋषिर्नारायणः स्मृतः।  
 दद्यात्पुरुषसूक्तेन यः पुष्पाण्यपएव[^405] च॥८॥
@@ -11100,10 +11100,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 एतत्पठन् केवलमेव सूक्तं दिने दिने **मा**वितविष्णुबुद्धिः॥   
 स सर्वपापं प्रविहाय वैष्णवं पदं प्रयात्यच्युततुष्टिकृन्नरः॥१८॥
 
-पत्रेषु पुष्पेषु फलेषु तोयेष्वक्रीतलम्येषु सदैवसत्सु[^419]।  
+पत्रेषु पुष्पेषु फलेषु तोयेष्वक्रीतलम्येषु सदैवसत्सु[^422]।  
 भक्त्यैकलभ्ये पुरुषे पुराणे मुक्त्यै किमर्थं क्रियते न यत्नः॥१९॥
 
-[^419]: "'तोयैः स्वक्रीत आज्येषु सदैवसत्सु ' इति ' ग' पुस्तके पाठः।"
+[^422]: # "'तोयैः स्वक्रीत आज्येषु सदैवसत्सु ' इति ' ग' पुस्तके पाठः।"
 
 इत्येवमुक्तः पुरुषस्य विष्णोरर्चाविधिस्तेद्य मया नृपेन्द्र।  
 अनेन नित्यं कुरु विष्णुपूजां प्राप्तं तदिष्टं यदि वैष्णवं पदम्॥२०॥
@@ -11139,10 +11139,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 इममन्त्रंजपेद्यस्तु शुचिर्भूत्वा समाहितः।  
 सर्वपापविनिर्मुक्तो विष्णुसायुज्यमाप्नुयात्॥७॥
 
-‛‛सर्वतीर्थफलं[^420] ह्येतत्सर्वतीर्थवरं नृप।  
+‛‛सर्वतीर्थफलं[^423] ह्येतत्सर्वतीर्थवरं नृप।  
 हरेरर्चनमव्यग्रं सर्वयज्ञफलं नृप॥”
 
-[^420]: "इदं पद्यं 'ग' पुस्तक एव। "
+[^423]: # "इदं पद्यं 'ग' पुस्तक एव। "
 
 तस्मात्कुरु नृपश्रेष्ठ प्रतिमादिषु चार्चनम्।  
 दानानि विप्रमुखेभ्यः प्रयच्छ विधिना नृप॥८॥
@@ -11298,9 +11298,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 उवाच वाक्यं स च कण्ठकुब्जो युक्तं त्वयोक्तं च धनाधिनाथ॥५४॥
 
 परस्परं घ्नन्ति च ते विरुद्धास्तथापि लोके न पराभवोस्ति॥  
-पराभवं नान्यकृतं सहन्ते नोष्णं जलं ज्वालयते तृणानि[^421]॥५५॥
+पराभवं नान्यकृतं सहन्ते नोष्णं जलं ज्वालयते तृणानि[^424]॥५५॥
 
-[^421]: "' गृहाणि ' इति पाठः'ख' पुस्तके"
+[^424]: # "' गृहाणि ' इति पाठः'ख' पुस्तके"
 
 तस्मात्समागच्छ धनाविनाथ पार्श्वं च वेगेन विभीषणस्य।  
 स्वबाहुवीर्यार्जितवित्तभोगिनां स्वबन्धुवर्गेषु हि को विरोधः॥५६॥
@@ -11414,10 +11414,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 विभीषणोऽपि ते भ्राता सुखी तिष्ठति सर्वदा।  
 एवमुक्ता च मुनिना सा कृष्णवदनाभवत्॥८७॥
 
-विस्मितो देवराजेपिछद्मितो[^422] दुष्टयानया।  
+विस्मितो देवराजेपिछद्मितो[^425] दुष्टयानया।  
 नारदोपि गतः स्नातुं कैलासे मानसं सरः॥८८॥
 
-[^422]: "छलित ' इति 'य' पुस्तके।"
+[^425]: # "छलित ' इति 'य' पुस्तके।"
 
 इन्द्रस्तां हन्तुकामोपि आगच्छन्मन्दराचलम्।  
 तत्राश्रमोस्ति वै नूनं तृणविन्दोर्महात्मनः॥८९॥
@@ -12331,9 +12331,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 किंतीर्थैगोप्रदानैर्वा तपोभिर्वाकिमध्वरैः॥५॥
 
 अहन्यहनि गोविन्दं तत्परत्वेन शृण्वताम्।  
-यः[^423]पठेत्प्रातरुत्थाय यदस्यश्लोकविंशतिम्॥६॥
+यः[^426]पठेत्प्रातरुत्थाय यदस्यश्लोकविंशतिम्॥६॥
 
-[^423]: "एतत्पद्यं ' ख' पुस्तके न विद्यते। "
+[^426]: # "एतत्पद्यं ' ख' पुस्तके न विद्यते। "
 
 ज्योतिष्टोमफलं प्राप्य विष्णुलोके महीयते।  
 एतत्पवित्रं पूज्यं च न वाच्यमकृतात्मनाम्॥७॥
@@ -12355,3 +12355,4 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NTMxMTE5MTA
 
 \]
 
+[^359]: "' सत्कृतः ' इति 'ग' पुस्तके।"

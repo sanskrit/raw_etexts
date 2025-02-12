@@ -277,6 +277,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 समाप्तः
 
+
+
 प्रथमोऽध्यायः
 
 सूत
@@ -738,6 +740,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 प्रथमोऽध्यायः
 
 १
+
+
 
 द्वितीयोऽध्यायः
 
@@ -2593,6 +2597,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ॥
 
+
+
 चतुर्थोऽध्यायः
 
 वृहद्वल
@@ -3523,6 +3529,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ४०
 
+
+
 पञ्चमोऽध्यायः
 
 वृहद्वल
@@ -4078,6 +4086,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 पञ्चमोऽध्यायः
 
 ५
+
+
 
 षष्ठोऽध्यायः
 
@@ -5689,6 +5699,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 षष्ठोऽध्यायः
 
+
+
+
+
 सप्तमोऽध्यायः
 
 नारद
@@ -5980,6 +5994,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 नाम
 
 सप्तमोऽध्यायः
+
+
 
 अष्टमोऽध्यायः
 
@@ -7319,6 +7335,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ८
 
+
+
 नवमोऽध्यायः
 
 वशिष्ठ
@@ -7864,6 +7882,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 नवमोऽध्यायः
 
 ९
+
+
 
 दशमोऽध्यायः
 
@@ -9472,6 +9492,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 १०
 
+
+
 एकादशोऽध्यायः
 
 साम्ब
@@ -10014,6 +10036,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ११
 
+
+
 द्वादशोऽध्यायः
 
 शास्ब
@@ -10259,6 +10283,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 द्वादशोऽध्यायः
 
 ॥
+
+
 
 त्रयोदशोऽध्यायः
 
@@ -11506,6 +11532,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 १४
 
+
+
 पञ्चदशोऽध्यायः
 
 नारद
@@ -12392,6 +12420,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 १५
 
+
+
 षोडशोऽध्यायः
 
 नारद
@@ -12812,6 +12842,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 १६
 
+
+
 सप्तदशोऽध्यायः
 
 नारद
@@ -13007,6 +13039,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 शर्वश्च
 
 त्रयम्बकश्चापराजितः
+
+
 
 वृषाकपिश्च
 
@@ -14334,6 +14368,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 १७
 
+
+
 अष्टादशोऽध्यायः
 
 नारद
@@ -14862,6 +14898,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 १८
 
+
+
 ऊनविंशतितमोऽध्यायः
 
 नारद
@@ -15367,6 +15405,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 उनविंशतितमोऽध्यायः
 
 १९
+
+
 
 विंशतितमोऽध्यायः
 
@@ -16824,6 +16864,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 २०
 
+
+
 एकविंशतितमोऽध्यायः
 
 शाम्ब
@@ -17390,6 +17432,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 २१
 
+
+
 द्वाविंशोऽध्यायः
 
 सूर्यलोकस्त्वया
@@ -17939,6 +17983,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 सोमवृद्धिक्षयोनामद्वाविंशोऽध्यायः
 
 २२
+
+
 
 त्रयोविंशतितमोऽध्यायः
 
@@ -18817,6 +18863,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 त्रयोविंशतितमोऽध्यायः
 
+
+
 चतुर्विंशतितमोऽध्यायः
 
 वशिष्ठ
@@ -19387,6 +19435,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 २७
 
+
+
 तन्मुमोच
 
 मलं
@@ -19604,6 +19654,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 नाम
 
 चतुर्विंशतितमोऽध्यायः
+
+
 
 पञ्चविंशतितमोऽध्यायः
 
@@ -19918,6 +19970,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 पञ्चविंशतितमोऽध्यायः
 
 २५
+
+
 
 षड्विंशतितमोऽध्यायः
 
@@ -21067,6 +21121,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 २६
 
+
+
 सप्तविंशतितमोऽध्यायः
 
 अहो
@@ -21570,6 +21626,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 सप्तविंशतितमोऽध्यायः
 
 २७
+
+
 
 अष्टाविंशतितमोऽध्यायः
 
@@ -22121,6 +22179,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 २८
 
+
+
 एकोनत्रिंशत्तमोऽध्यायः
 
 वशिष्ठ
@@ -22640,6 +22700,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 एकोनत्रिंशत्तमोऽध्यायः
 
 २१
+
+
 
 त्रिंशत्तमोऽध्यायः
 
@@ -23329,6 +23391,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 त्रिंशत्तमोऽध्यायः
 
+
+
 एकत्रिंशत्तमोऽध्यायः
 
 वशिष्ठ
@@ -23818,6 +23882,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 एकविंशत्तमोऽध्यायः
 
 २७
+
+
+
+
 
 द्वात्रिंशत्तमोऽध्यायः
 
@@ -25131,6 +25199,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ३२
 
+
+
 त्रयस्त्रिंशत्तमोऽध्यायः
 
 नारद
@@ -25564,6 +25634,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 नामत्रयस्त्रिंशत्तमोऽध्यायः
 
 ३३
+
+
 
 चतुस्त्रिंशत्तमोऽध्यायः
 
@@ -27141,6 +27213,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ३४
 
+
+
 पञ्चत्रिंशोऽध्यायः
 
 वसिष्ठ
@@ -27620,6 +27694,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 पञ्चत्रिंशोऽध्यायः
 
 ३५
+
+
 
 षट्त्रिंशत्तमोऽध्यायः
 
@@ -28805,6 +28881,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ३६
 
+
+
 सप्तत्रिंशत्तमोऽध्यायः
 
 वसिष्ठ
@@ -29558,6 +29636,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 सप्तस्त्रिंशत्तमोऽध्यायः
 
 ३७
+
+
 
 अष्टत्रिंशत्तमोऽध्यायः
 
@@ -30873,6 +30953,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ३८
 
+
+
 एकोनचत्वारिंशत्तमोऽध्यायः
 
 बृहद्बल उवाच
@@ -31162,6 +31244,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 गुरवे गृहमेतत् सर्वोपकरणं दद्यात् तथा प्रार्थितं चेति ।
 
 इति शाम्बपुराणे एकोन चात्वारिंशतमोऽध्यायः ३९
+
+
 
 चत्वारिंशत्तमोऽध्यायः
 
@@ -32077,6 +32161,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 शाम्बपुराणे चत्वारिंशत्तमोऽध्यायः
 
 ४०
+
+
 
 एकचत्वारिंशत्तमोऽध्यायः
 
@@ -33310,6 +33396,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 एकचत्वारिंशत्तमोऽध्यायः
 
+
+
 द्विचत्वारिंशत्तमोऽध्यायः
 
 वशिष्ठ
@@ -34066,6 +34154,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 द्विचत्वारिंशत्तमोऽध्यायः
 
+
+
 त्रिचत्वारिंशत्तमोऽध्यायः
 
 वसिष्ठ उवाच
@@ -34310,6 +34400,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 इति श्री शाम्बपुराणे त्रिचत्वारिंशोऽध्यायः ४३
 
+
+
 चतुश्चत्वारिंशत्तमोऽध्यायः
 
 वसिष्ठ उवाच
@@ -34492,7 +34584,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 इति श्री शाम्बपुराणे चतुश्चत्वारिंशत्तमोऽध्यायः ४४
 
+
+
 ४५
+
+
 
 **षट्चत्वारिंशत्तमोऽध्यायः**
 
@@ -35452,6 +35548,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ४६
 
+
+
 सप्तचत्वारिंशत्तमोऽध्यायः
 
 नारद
@@ -35877,6 +35975,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 ४
 
 ७
+
+
 
 अष्टचत्वारिंशत्तमोऽध्यायः
 
@@ -36492,6 +36592,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ४८
 
+
+
 ऊनपञ्चाशत्तमोऽध्यायः
 
 नारद
@@ -36657,6 +36759,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 ऊनपंचाशत्तमोऽध्यायः
 
 ४९
+
+
 
 पञ्चाशत्तमोऽध्यायः
 
@@ -37517,6 +37621,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 पञ्चाशत्तमोऽध्यायः
 
 ५०
+
+
 
 एकपञ्चाशत्तमोऽध्यायः
 
@@ -42696,6 +42802,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ५१
 
+
+
 द्विपञ्चाशत्तमोऽध्यायः
 
 अहं
@@ -43782,6 +43890,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ५३
 
+
+
 चतुः
 
 पञ्चाशत्तमोऽध्यायः
@@ -43923,6 +44033,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 २
 
 ५४
+
+
 
 पञ्चपञ्चाशत्तमोऽध्यायः
 
@@ -46648,6 +46760,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ५५
 
+
+
 षट्पञ्चाशत्तमोऽध्यायः
 
 तत्र
@@ -46889,6 +47003,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 ३
 
 ५६
+
+
 
 सप्तपञ्चाशत्तमोऽध्यायः
 
@@ -47346,6 +47462,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ५७
 
+
+
 अष्टपञ्चाशत्तमोऽध्यायः
 
 स्वरावाद्यौ
@@ -47468,6 +47586,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ५८
 
+
+
 एकोनषष्टितमोऽध्यायः
 
 पञ्चविंशतिभिर्नाम
@@ -47541,6 +47661,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 ६
 
 ५९
+
+
 
 षष्टितमोऽध्यायः
 
@@ -47984,6 +48106,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ६०
 
+
+
 एकषष्टितमोऽध्यायः
 
 त्रिनाभ्यसन्तसंभूतं बीजिनं प्रथमें वदम्
@@ -48363,6 +48487,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 इति श्री सांबपूराणे एकषष्टितमोऽध्याये ज्ञातोत्तरे शरीरसाधनं अष्टमं पटलम् ६१
 
+
+
 द्विषष्टितमोऽध्यायः
 
 सिद्धयेसर्वकार्याणां
@@ -48639,6 +48765,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ६२
 
+
+
 त्रिषष्टितमोऽध्यायः
 
 साधकस्येहयुक्तस्य
@@ -48846,6 +48974,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 १०
 
 ६३
+
+
 
 चतुःषष्टितमोऽध्यायः
 
@@ -49398,6 +49528,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 एकादशः
 
 पटलम्
+
+
 
 पञ्चषष्टितमोऽध्यायः
 
@@ -50119,6 +50251,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 १३
 
+
+
 सप्तषष्टितमोऽध्यायः
 
 एतद्
@@ -50494,6 +50628,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 पटलम्
 
 १४
+
+
 
 अष्टषष्टितमोऽध्यायः
 
@@ -51625,6 +51761,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 १५
 
+
+
 एकोनसप्ततितमोऽध्यायः
 
 तत्वानुसारेण
@@ -52107,6 +52245,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ६९
 
+
+
 सप्ततितमोऽध्यायः
 
 उक्तो
@@ -52256,6 +52396,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 सप्ततितमोऽध्यायः
 
 ७०
+
+
 
 एक
 
@@ -52445,6 +52587,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ७१
 
+
+
 द्विसप्ततितमोऽध्यायः
 
 वर्णनाशविधिस्तुत्या
@@ -52582,6 +52726,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 द्विसप्ततितमोऽध्यायः
 
 ७२
+
+
 
 त्रिसप्ततितमोऽध्यायः
 
@@ -52780,6 +52926,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 त्रिसप्ततितमोऽध्यायः
 
 ७३
+
+
 
 चतुःसप्ततितमोऽध्यायः
 
@@ -53435,6 +53583,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ७५
 
+
+
 षट्सप्ततितमोऽध्यायः
 
 योग्यतामप्यबुद्धस्य
@@ -53776,6 +53926,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 षट्सप्ततितमोऽध्यायः
 
 ३७
+
+
 
 सप्तसप्ततितमोऽध्यायः
 
@@ -54177,6 +54329,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ७७
 
+
+
 अष्टसप्ततितमोऽध्यायः
 
 संन्यासस्य
@@ -54407,6 +54561,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ७८
 
+
+
 एकोनाशीतितमोऽध्यायः
 
 यदा
@@ -54633,6 +54789,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ७९
 
+
+
 अशीतितमोऽध्यायः
 
 अप्यवा
@@ -54848,6 +55006,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 अशीतितमोऽध्यायः
 
 ८०
+
+
 
 एकाशीतितमोऽध्यायः
 
@@ -56095,6 +56255,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 
 ८२
 
+
+
 त्र्
 
 !
@@ -56982,6 +57144,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 त्रयशीतितमोऽध्यायः
 
 ८३
+
+
 
 त्र्
 
@@ -58254,6 +58418,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjkyNjYyMzIy
 समाप्तोऽयं
 
 ग्रन्थः
+
+
+
+
 
 Reference:
 

@@ -17,7 +17,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE5MTA1MTE4NzU
 
 **अलङ्कारसूत्रम्**
 
-**![](../books_images/U-IMG-1732557282Screenshot2024-11-25232412.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1732557282Screenshot2024-11-25232412.png"/>**
 
 राजकीय संस्कृतविद्यालयाध्यापक
 
@@ -27,7 +27,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE5MTA1MTE4NzU
 
 प्रणीतम्
 
-![](../books_images/U-IMG-1732557155Screenshot2024-11-25232202.png)
+<MISSING_FIG href="../books_images/U-IMG-1732557155Screenshot2024-11-25232202.png"/>
 
 ALANKÁRASUTRAM.
 
@@ -66,7 +66,7 @@ CALCUTTA
 
 **शुद्धिपत्रम्**
 
-**![](../books_images/U-IMG-1732732141Screenshot2024-11-27235832.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1732732141Screenshot2024-11-27235832.png"/>**
 
 |              |             |
 |--------------|-------------|
@@ -155,7 +155,7 @@ CALCUTTA
 
 **अलङ्कारसूत्रम्**  
 
-![](../books_images/U-IMG-1732586187Screenshot2024-11-26072506.png)  
+<MISSING_FIG href="../books_images/U-IMG-1732586187Screenshot2024-11-26072506.png"/>  
 
 प्रथमः परिच्छेदः।
 
@@ -260,6 +260,8 @@ CALCUTTA
 दृष्ट्वा प्रियायाः सव्रणमधरम्  
 सभ्रमरपद्माघ्रायिणि,  
 वारितवामे, सहस्वेदानीम्॥
+
+ 
 
 अत्र भ्रमरेणास्या अधरी दष्ट इति प्रतीयते।
 
@@ -3987,6 +3989,8 @@ CALCUTTA
 रनासवाख्यं करणं मदस्य।  
 कामस्य पुष्पव्यतिरिक्तमस्त्रं  
 बाल्यात्परं साऽथ वयः प्रपेदे।
+
+ 
 
 यथा वा
 

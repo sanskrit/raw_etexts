@@ -22,7 +22,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 ओंनमोभगवते वासुदेवाय॥
 
-![](../books_images/U-IMG-1737046996Screenshot2025-01-16223216.png)
+<MISSING_FIG href="../books_images/U-IMG-1737046996Screenshot2025-01-16223216.png"/>
 
 **यद्योगिभिर्भवभयार्त्तिविनाशयोग्य-  
 मासाद्य वन्दितमतीव विविक्तचित्तैः।  
@@ -220,7 +220,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 **द्वितीयोऽध्यायः॥**
 
-![](../books_images/U-IMG-1737051734Screenshot2025-01-16235136.png)
+<MISSING_FIG href="../books_images/U-IMG-1737051734Screenshot2025-01-16235136.png"/>
 
 **मार्कण्डेय उवाच॥**
 
@@ -435,11 +435,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति मार्कण्डेयपुराणे चटकोत्पत्तिर्द्वितीयः॥२॥
 
-![](../books_images/U-IMG-1737052516Screenshot2025-01-17000427.png)
+<MISSING_FIG href="../books_images/U-IMG-1737052516Screenshot2025-01-17000427.png"/>
 
 **तृतीयोऽध्यायः॥**
 
-![](../books_images/U-IMG-1737052543Screenshot2025-01-17000447.png)
+<MISSING_FIG href="../books_images/U-IMG-1737052543Screenshot2025-01-17000447.png"/>
 
 मार्कण्डेयउवाच॥
 
@@ -725,11 +725,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति मार्कण्डेयपुराणे विन्ध्यप्राप्तिः॥३॥
 
-![](../books_images/U-IMG-1737085824pic4.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1737085824pic4.jpg"/>
 
 **चतुर्थोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1737084982pic3.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1737084982pic3.jpg"/>**
 
 मार्कण्डेय उवाच॥
 
@@ -929,11 +929,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति मार्कण्डेयपुराणे चतुर्व्यूहावतारः॥४॥
 
-![](../books_images/U-IMG-1737085482pic4.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1737085482pic4.jpg"/>
 
 **पञ्चमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1737085601pic5.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1737085601pic5.jpg"/>**
 
 पक्षिण ऊचुः॥
 
@@ -1022,7 +1022,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 **षष्ठोऽध्यायः॥**
 
-![](../books_images/U-IMG-1737351700MARKENDEYA_PURANAM_1-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1737351700MARKENDEYA_PURANAM_1-removebg-preview.png"/>
 
 पक्षिणा ऊचुः॥
 
@@ -1139,11 +1139,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति मार्कण्डेयपुराणे बलदेवब्रह्महत्या॥६॥
 
-![](../books_images/U-IMG-1737085911pic4.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1737085911pic4.jpg"/>
 
 **सप्तमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1737086023pic6.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1737086023pic6.jpg"/>**
 
 धर्मपक्षिण ऊचुः॥
 
@@ -1397,11 +1397,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति मार्कण्डेयपुराणे द्रौपदेयोत्पत्तिः॥७॥
 
-![](../books_images/U-IMG-1737088237pic4.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1737088237pic4.jpg"/>
 
 **अष्टमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1737086133pic3.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1737086133pic3.jpg"/>**
 
 **जैमिनिरुवाच॥**
 
@@ -2332,11 +2332,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति मार्कण्डेयपुराणे हरिश्चन्द्रोपाख्यानं॥८॥
 
-![](../books_images/U-IMG-1737218757Screenshot2025-01-17000427.png)
+<MISSING_FIG href="../books_images/U-IMG-1737218757Screenshot2025-01-17000427.png"/>
 
 **नवमोध्यायः॥**
 
-![](../books_images/U-IMG-1737218819Screenshot2025-01-16235136.png)
+<MISSING_FIG href="../books_images/U-IMG-1737218819Screenshot2025-01-16235136.png"/>
 
 पक्षिण ऊचुः॥
 
@@ -2445,11 +2445,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति मार्कण्डेयपुराणे आडिवकयुद्धं॥९॥
 
-![](../books_images/U-IMG-1737221316Screenshot2025-01-17000427.png)
+<MISSING_FIG href="../books_images/U-IMG-1737221316Screenshot2025-01-17000427.png"/>
 
 **दशमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1737218912Screenshot2025-01-16223216.png)
+<MISSING_FIG href="../books_images/U-IMG-1737218912Screenshot2025-01-16223216.png"/>
 
 जैमिनिरुवाच॥
 
@@ -2764,11 +2764,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति मार्कण्डेयपुराणे पितापुत्रसंवादे॥१०॥
 
-![](../books_images/U-IMG-1736950367Screenshot2025-01-15194032.png)
+<MISSING_FIG href="../books_images/U-IMG-1736950367Screenshot2025-01-15194032.png"/>
 
 **एकादशोऽध्याय॥**
 
-![](../books_images/U-IMG-1736950495Screenshot2025-01-15194057.png)
+<MISSING_FIG href="../books_images/U-IMG-1736950495Screenshot2025-01-15194057.png"/>
 
 पुत्र उवाच॥
 
@@ -2870,11 +2870,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति मार्कण्डेयपुराणे पितापुत्रसंवादे॥११॥
 
-![](../books_images/U-IMG-1736963781Screenshot2025-01-15194032.png)
+<MISSING_FIG href="../books_images/U-IMG-1736963781Screenshot2025-01-15194032.png"/>
 
 द्वादशोध्यायः॥
 
-![](../books_images/U-IMG-1736963884Screenshot2025-01-15232657.png)
+<MISSING_FIG href="../books_images/U-IMG-1736963884Screenshot2025-01-15232657.png"/>
 
 पितोवाच॥
 
@@ -3002,11 +3002,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति मार्कण्डेयपुराणे पितापुत्रसंवादे महारैरवादिनरकाख्यानं॥१२॥
 
-![](../books_images/U-IMG-1737008448Screenshot2025-01-15194032.png)
+      
+<MISSING_FIG href="../books_images/U-IMG-1737008448Screenshot2025-01-15194032.png"/>
 
 त्रयोदशोऽध्यायः॥
 
-![](../books_images/U-IMG-1737008533Screenshot2025-01-16114538.png)
+<MISSING_FIG href="../books_images/U-IMG-1737008533Screenshot2025-01-16114538.png"/>
 
 पुत्र उवाच॥
 
@@ -3066,11 +3067,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति मार्कण्डेयपुराणे पितापुत्रसंवादे॥१३॥
 
-![](../books_images/U-IMG-1737009906Screenshot2025-01-15194032.png)
+<MISSING_FIG href="../books_images/U-IMG-1737009906Screenshot2025-01-15194032.png"/>
 
 चतुर्दशोऽध्यायः॥
 
-![](../books_images/U-IMG-1737010027Screenshot2025-01-16121629.png)
+<MISSING_FIG href="../books_images/U-IMG-1737010027Screenshot2025-01-16121629.png"/>
 
 पुत्रउवाच॥
 
@@ -3375,11 +3376,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति श्रीमार्कण्डेयपुराणे जडोपाख्याने यमकिङ्करसंवादे॥१४॥
 
-![](../books_images/U-IMG-1737041838Screenshot2025-01-15194032.png)
+<MISSING_FIG href="../books_images/U-IMG-1737041838Screenshot2025-01-15194032.png"/>
 
 पञ्चदशोऽध्यायः॥
 
-**![](../books_images/U-IMG-1737041776Screenshot2025-01-16210346.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1737041776Screenshot2025-01-16210346.png"/>**
 
 यमकिङ्कर उवाच॥
 
@@ -3666,7 +3667,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 षोडशोऽध्यायः॥
 
-**![](../books_images/U-IMG-1737109117Screenshot2025-01-17154740.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1737109117Screenshot2025-01-17154740.png"/>**
 
 पितोवाच॥
 
@@ -3983,11 +3984,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 **इति मार्कण्डेयपुराणे पितापुत्रसंवादे अनसूयावरप्राप्तिः॥१६॥**
 
-**![](../books_images/U-IMG-1737127229Screenshot2025-01-15194032.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1737127229Screenshot2025-01-15194032.png"/>**
 
 सप्तदशोऽध्यायः॥
 
-![](../books_images/U-IMG-1737127285Screenshot2025-01-17205106.png)
+<MISSING_FIG href="../books_images/U-IMG-1737127285Screenshot2025-01-17205106.png"/>
 
 पुत्र उवाच॥
 
@@ -4071,7 +4072,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 अष्टादशोऽध्यायः॥
 
-![](../books_images/U-IMG-1737165385Screenshot2025-01-18072559.png)
+<MISSING_FIG href="../books_images/U-IMG-1737165385Screenshot2025-01-18072559.png"/>
 
 पुत्र उवाच॥
 
@@ -4287,11 +4288,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति श्रीमार्कण्डेय पुराणे गवाक्यं॥१८॥
 
-**![](../books_images/U-IMG-1737194710Screenshot2025-01-15194032.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1737194710Screenshot2025-01-15194032.png"/>**
 
 ऊनविंशोऽध्यायः॥
 
-![](../books_images/U-IMG-1737194787Screenshot2025-01-18153549.png)
+<MISSING_FIG href="../books_images/U-IMG-1737194787Screenshot2025-01-18153549.png"/>
 
 पुत्र उवाच॥
 
@@ -4425,11 +4426,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति श्रीमार्कण्डेयपुराणे दत्तात्रेयीयं समाप्तं॥१६॥
 
-![](../books_images/U-IMG-1737197165Screenshot2025-01-15194032.png)
+<MISSING_FIG href="../books_images/U-IMG-1737197165Screenshot2025-01-15194032.png"/>
 
 विंशोध्यायः॥
 
-![](../books_images/U-IMG-1737197132Screenshot2025-01-15232657.png)
+<MISSING_FIG href="../books_images/U-IMG-1737197132Screenshot2025-01-15232657.png"/>
 
 जड उवाच॥
 
@@ -4620,11 +4621,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति श्रीमार्कण्डेयपुराणे कुवलाश्वीये॥२०॥
 
-![](../books_images/U-IMG-1737225356Screenshot2025-01-15194032.png)
+<MISSING_FIG href="../books_images/U-IMG-1737225356Screenshot2025-01-15194032.png"/>
 
 एकविंशोऽध्यायः॥
 
-![](#)![](../books_images/U-IMG-1737225463Screenshot2025-01-19000721.png)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1737225463Screenshot2025-01-19000721.png"/>
 
 पितोवाच॥
 
@@ -4966,11 +4967,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति श्रीमार्कण्डेयपुराणे कुबलयाश्वीये मदालसापरिणयनं॥२१॥
 
-![](../books_images/U-IMG-1737274991Screenshot2025-01-15194032.png)
+<MISSING_FIG href="../books_images/U-IMG-1737274991Screenshot2025-01-15194032.png"/>
 
 द्वाविंशोऽध्यायः॥
 
-![](../books_images/U-IMG-1737275028Screenshot2025-01-16114538.png)
+<MISSING_FIG href="../books_images/U-IMG-1737275028Screenshot2025-01-16114538.png"/>
 
 पुत्रानूचतुः॥
 
@@ -5140,11 +5141,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति श्री मार्कण्डेयपुराणेकुवलयास्वीये मदालसावियोगः॥२२॥
 
-![](../books_images/U-IMG-1737292718Screenshot2025-01-15194032.png)
+<MISSING_FIG href="../books_images/U-IMG-1737292718Screenshot2025-01-15194032.png"/>
 
 त्रयोविंशोऽध्यायः॥
 
-![](../books_images/U-IMG-1737292750Screenshot2025-01-16210346.png)
+<MISSING_FIG href="../books_images/U-IMG-1737292750Screenshot2025-01-16210346.png"/>
 
 पुत्रावूचतुः॥
 
@@ -8409,7 +8410,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 चतुश्चत्वारिंशोऽध्यायः॥
 
-![](../books_images/U-IMG-1737374884वललल.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1737374884वललल.PNG"/>
 
 **सुबाहुरुवाच॥**
 
@@ -8552,7 +8553,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 पञ्चचत्वारिंशोऽध्यायः॥
 
-![](../books_images/U-IMG-1737391422MN.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1737391422MN.PNG"/>
 
 जैमिनिरुवाच
 
@@ -8788,7 +8789,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 षट्चत्वारिंशोऽध्यायः॥
 
-![](../books_images/U-IMG-1737128989तक.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1737128989तक.PNG"/>
 
 क्रौष्टुकिरुवाच॥
 
@@ -9053,7 +9054,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 अष्टचत्वारिंशोऽध्यायः॥
 
-![](../books_images/U-IMG-1737131118वप.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1737131118वप.PNG"/>
 
 कौष्टुकिरुवाच॥
 
@@ -9204,7 +9205,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 ऊनपञ्चाशोऽध्यायः॥
 
-![](../books_images/U-IMG-1737131912लवन.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1737131912लवन.PNG"/>
 
 कौष्टुकिरुवाच।
 
@@ -9464,7 +9465,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 पञ्चाशोऽध्यायः॥
 
-![](../books_images/U-IMG-1737209149नवल.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1737209149नवल.PNG"/>
 
 मार्कण्डेय उवाच॥
 
@@ -9774,7 +9775,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 एकपञ्चाशोऽध्यायः॥
 
-![](../books_images/U-IMG-1737220640सललवनन.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1737220640सललवनन.PNG"/>
 
 मार्कण्डेय उवाच॥
 
@@ -12216,7 +12217,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 अष्टषष्टितमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1738119912Screenshot2025-01-17095046.png)
+<MISSING_FIG href="../books_images/U-IMG-1738119912Screenshot2025-01-17095046.png"/>
 
 क्रौष्टुकिरुवाच॥
 
@@ -12366,7 +12367,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 ————————
 
 ऊनसप्ततितमोऽध्यायः॥  
-![](../books_images/U-IMG-1738121157Screenshot2025-01-17100101.png)  
+<MISSING_FIG href="../books_images/U-IMG-1738121157Screenshot2025-01-17100101.png"/>  
 
 क्रौष्टुकिरुवाच॥
 
@@ -12609,7 +12610,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 ————————
 
 सप्ततितमोऽध्यायः  
-![](../books_images/U-IMG-1738122623Screenshot2023-11-22103727.png)
+<MISSING_FIG href="../books_images/U-IMG-1738122623Screenshot2023-11-22103727.png"/>
 
 मार्कण्डेय उवाच॥
 
@@ -12768,7 +12769,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 एकसप्ततितमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1738125523Screenshot2025-01-17095046.png)
+<MISSING_FIG href="../books_images/U-IMG-1738125523Screenshot2025-01-17095046.png"/>
 
 मार्कण्डेय उवाच॥
 
@@ -12882,7 +12883,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 **—————————**
 
 द्विसप्ततितमोऽध्यायः॥  
-![](../books_images/U-IMG-1738128146Screenshot2025-01-17095046.png)
+<MISSING_FIG href="../books_images/U-IMG-1738128146Screenshot2025-01-17095046.png"/>
 
 मार्कण्डेय उवाच॥
 
@@ -13054,7 +13055,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 त्रिसप्ततितमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1738128852Screenshot2025-01-17095046.png)
+<MISSING_FIG href="../books_images/U-IMG-1738128852Screenshot2025-01-17095046.png"/>
 
 मार्कण्डेय उवाच॥
 
@@ -13111,7 +13112,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 **————————————**
 
 चतुःसप्ततितमोऽध्यायः॥  
-![](../books_images/U-IMG-1738129123Screenshot2025-01-17100101.png)
+<MISSING_FIG href="../books_images/U-IMG-1738129123Screenshot2025-01-17100101.png"/>
 
 मार्कण्डेय उवाच॥
 
@@ -13312,7 +13313,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 ————————
 
 पञ्चसप्ततितमोऽध्यायः  
-![](../books_images/U-IMG-1738133234Screenshot2025-01-17100101.png)
+<MISSING_FIG href="../books_images/U-IMG-1738133234Screenshot2025-01-17100101.png"/>
 
 मार्कण्डेय उवाच॥
 
@@ -16174,7 +16175,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 **चतुर्नवतितमोऽध्यायः॥**  
 
-**![](../books_images/U-IMG-1736949769Screenshot2023-11-22103727.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1736949769Screenshot2023-11-22103727.png"/>**
 
 **मार्कण्डेय उवाच॥**
 
@@ -16275,7 +16276,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 **पञ्चनवतितमोऽध्यायः॥**  
 
-**![](../books_images/U-IMG-1737036955Screenshot2023-11-22103727.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1737036955Screenshot2023-11-22103727.png"/>**
 
 **मार्कण्डेय उवाच॥**
 
@@ -16377,7 +16378,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 इति श्रीमार्कण्डेयपुराणे रुच्यपाख्याने॥६५॥
 
 **षणवतितमोऽध्यायः॥  
-![](../books_images/U-IMG-1737040031Screenshot2024-11-23104015.png)**
+<MISSING_FIG href="../books_images/U-IMG-1737040031Screenshot2024-11-23104015.png"/>**
 
 **मार्कण्डेयउवाच॥**
 
@@ -16566,7 +16567,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 इति श्रीमार्कण्डेयपुराणे रुच्यपाख्याने॥९६॥
 
 सप्तनवतितमोऽध्यायः॥  
-![](../books_images/U-IMG-1737086436Screenshot2024-11-23104015.png)
+<MISSING_FIG href="../books_images/U-IMG-1737086436Screenshot2024-11-23104015.png"/>
 
 मार्कण्डेय उवाच॥
 
@@ -16692,7 +16693,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 इति श्रीमार्कण्डेय पुराणे रौच्येमन्वन्तरे पितृवरप्रदानं॥९७॥
 
 **अष्टनवतितमोऽध्यायः॥  
-![](../books_images/U-IMG-1737087668Screenshot2025-01-17095046.png)**
+<MISSING_FIG href="../books_images/U-IMG-1737087668Screenshot2025-01-17095046.png"/>**
 
 **मार्कण्डेय उवाच॥**
 
@@ -16731,7 +16732,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 इति श्रीमार्कण्डेयपुराणे मालिनीपरिणयो नाम रौच्यमन्वन्तरं समाप्तं॥९८॥
 
 **नवनवतितमोऽध्यायः॥  
-![](../books_images/U-IMG-1737088572Screenshot2025-01-17100101.png)**
+<MISSING_FIG href="../books_images/U-IMG-1737088572Screenshot2025-01-17100101.png"/>**
 
 **मार्कण्डेय उवाच॥**
 
@@ -17129,7 +17130,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 **एकाधिकशततमोऽध्यायः॥**  
 
-**![](../books_images/U-IMG-1737123425Screenshot2025-01-17095046.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1737123425Screenshot2025-01-17095046.png"/>**
 
 **कौष्टुकिरुवाच॥**
 
@@ -17223,7 +17224,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 इति श्रीमार्कण्डेयपुराणे वंशानुकीर्त्तनं नाम॥१०१॥
 
 **द्वाधिक शततमोऽध्यायः॥  
-![](../books_images/U-IMG-1737126610Screenshot2025-01-17095046.png)**
+<MISSING_FIG href="../books_images/U-IMG-1737126610Screenshot2025-01-17095046.png"/>**
 
 **मार्कण्डेय उवाच॥**
 
@@ -17300,7 +17301,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 **————————————**
 
 न्यधिक शततमोऽध्यायः॥  
-![](../books_images/U-IMG-1737127898Screenshot2025-01-17100101.png)
+<MISSING_FIG href="../books_images/U-IMG-1737127898Screenshot2025-01-17100101.png"/>
 
 **मार्कण्डेय उवाच॥**
 
@@ -17367,7 +17368,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 **——————————**
 
 **चतुरधिक शततमोऽध्यायः ॥  
-![](../books_images/U-IMG-1737128795Screenshot2023-11-22103727.png)**
+<MISSING_FIG href="../books_images/U-IMG-1737128795Screenshot2023-11-22103727.png"/>**
 
 **मार्कण्डेय उवाच॥**
 
@@ -17505,11 +17506,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति श्रीमार्कण्डेय पुराणे दिवाकरस्तुतिनाम॥१०४॥
 
-**![](../books_images/U-IMG-1737039544Screenshot2024-08-20203458.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1737039544Screenshot2024-08-20203458.png"/>**
 
 **पञ्चाधिक शततमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1737039671Screenshot2024-07-20210632.png)  
+**<MISSING_FIG href="../books_images/U-IMG-1737039671Screenshot2024-07-20210632.png"/>  
 मार्कण्डेय उवाच॥**
 
 **ततः स्वतेजसस्तस्मादादिर्भूतो विभावसुः।  
@@ -17829,11 +17830,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति श्रीमार्कण्डेयपुराणे भानुतमुलिखने॥१०६॥
 
-**![](../books_images/U-IMG-1737015430Screenshot2024-08-19124739.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1737015430Screenshot2024-08-19124739.png"/>**
 
 **सप्ताधिक शततमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1737015463Screenshot2024-07-22150245.png)  
+**<MISSING_FIG href="../books_images/U-IMG-1737015463Screenshot2024-07-22150245.png"/>  
 मार्कण्डेय उवाच॥**
 
 **लिख्यमाने ततो भानौ विश्वकर्मा प्रजापतिः।  
@@ -17892,7 +17893,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति श्रीमार्कण्डेयपुराणे सूर्य्यस्तवनं नाम॥१०७॥
 
-**![](../books_images/U-IMG-1737016294Screenshot2024-08-19124227.png)  
+**<MISSING_FIG href="../books_images/U-IMG-1737016294Screenshot2024-08-19124227.png"/>  
 अष्टाधिक शततमोऽध्यायः॥**
 
 **♦♦♦  
@@ -17988,7 +17989,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति श्रीमार्कण्डेयपुराणे रवेर्म्माहात्म्यं नाम॥१०८॥
 
-**![](../books_images/U-IMG-1737037546Screenshot2024-02-01103651.png)  
+**<MISSING_FIG href="../books_images/U-IMG-1737037546Screenshot2024-02-01103651.png"/>  
 नवाधिकशततमोऽध्यायः॥**
 
 **♦♦♦♦  
@@ -18254,7 +18255,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति श्री मार्कण्डेयपुराणे भानुस्तवः॥१०६॥
 
-![](../books_images/U-IMG-1736956499Screenshot2024-02-06190951.png)
+<MISSING_FIG href="../books_images/U-IMG-1736956499Screenshot2024-02-06190951.png"/>
 
 दशाधिकशततमोऽध्यायः॥
 
@@ -18410,11 +18411,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति श्री मार्कण्डेय पुराणे भानोर्स्माहात्म्यं समाप्तं॥११०॥
 
-![](../books_images/U-IMG-1736953945Screenshot2024-08-19124739.png)
+<MISSING_FIG href="../books_images/U-IMG-1736953945Screenshot2024-08-19124739.png"/>
 
 एकादशाधिक शततमोऽध्यायः॥
 
-![](../books_images/U-IMG-1736953993Screenshot2024-01-31225309.png)
+<MISSING_FIG href="../books_images/U-IMG-1736953993Screenshot2024-01-31225309.png"/>
 
 मार्कण्डेय उवाच॥
 
@@ -18475,11 +18476,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 इति श्रीमार्कण्डेय पुराणे वंशानुक्रमो नाम॥१११॥
 
-![](../books_images/U-IMG-1736952892Screenshot2024-08-20205448.png)  
+<MISSING_FIG href="../books_images/U-IMG-1736952892Screenshot2024-08-20205448.png"/>  
 
 द्वादशाधिक शततमोऽध्यायः॥
 
-![](../books_images/U-IMG-1736952845Screenshot2024-09-06220309.png)
+<MISSING_FIG href="../books_images/U-IMG-1736952845Screenshot2024-09-06220309.png"/>
 
 मार्कण्डेय उवाच॥
 
@@ -18571,7 +18572,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 **त्रयोदशाधिक शततमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1736951504Screenshot2024-01-31225309.png)
+<MISSING_FIG href="../books_images/U-IMG-1736951504Screenshot2024-01-31225309.png"/>
 
 **मार्कण्डेय उवाच॥**
 
@@ -18710,7 +18711,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 **चतुर्द्दशाधिक शततमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1736949241Screenshot2024-07-22150245.png)
+<MISSING_FIG href="../books_images/U-IMG-1736949241Screenshot2024-07-22150245.png"/>
 
 **मार्कण्डेय उवाच॥**
 
@@ -18923,7 +18924,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 षोडशाधिक शततमोऽध्यायः॥
 
-**![](../books_images/U-IMG-1737617832Screenshot_2025-01-23_13-06-54.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1737617832Screenshot_2025-01-23_13-06-54.png"/>**  
 
 **मार्कण्डेय उवाच॥**
 
@@ -19190,7 +19191,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 अष्टादशाधिक शततमोऽध्यायः॥
 
-![](../books_images/U-IMG-1737698010Screenshot_2025-01-24_11-23-18.png)
+<MISSING_FIG href="../books_images/U-IMG-1737698010Screenshot_2025-01-24_11-23-18.png"/>
 
 **मार्कण्डेय उवाच॥**
 
@@ -19366,7 +19367,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 **ऊनविंशत्यधिक शततमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1737703768Screenshot_2025-01-24_12-59-19.png)
+<MISSING_FIG href="../books_images/U-IMG-1737703768Screenshot_2025-01-24_12-59-19.png"/>
 
 **मार्कण्डेय उवाच॥**
 
@@ -19442,7 +19443,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 **विंशत्यधिक शततमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1737710446ScreenshotFrom2025-01-2414-50-11.png)
+<MISSING_FIG href="../books_images/U-IMG-1737710446ScreenshotFrom2025-01-2414-50-11.png"/>
 
 **मार्कण्डेय उवाच॥**
 
@@ -19517,7 +19518,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 **एकविंशत्यधिक शततमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1737714346ScreenshotFrom2025-01-2414-50-11.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1737714346ScreenshotFrom2025-01-2414-50-11.png"/>**
 
 **मार्कण्डेय उवाच॥**
 
@@ -19660,7 +19661,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 **द्वाविंशत्यधिक शततमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1737729445Screenshot_2025-01-24_20-07-14.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1737729445Screenshot_2025-01-24_20-07-14.png"/>**
 
 **मार्कण्डेय उवाच॥**
 
@@ -19743,7 +19744,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 **त्रयोविंशत्यधिक शततमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1737777886Screenshot_2025-01-25_09-34-34.png)
+<MISSING_FIG href="../books_images/U-IMG-1737777886Screenshot_2025-01-25_09-34-34.png"/>
 
 **मार्कण्डेय उवाच॥**
 
@@ -19848,7 +19849,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 **चतुर्विंशत्यधिक शततमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1737781979Screenshot_2025-01-23_13-06-54.png)  
+<MISSING_FIG href="../books_images/U-IMG-1737781979Screenshot_2025-01-23_13-06-54.png"/>  
 
 मार्कण्डेय उवाच॥
 
@@ -19941,7 +19942,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 **पञ्चविंशत्यधिक शततमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1737787820Screenshot_2025-01-23_13-06-54.png)
+<MISSING_FIG href="../books_images/U-IMG-1737787820Screenshot_2025-01-23_13-06-54.png"/>
 
 मार्कण्डेय उवाच॥
 
@@ -20175,7 +20176,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 षड्विंशत्यधिक शततमोऽध्यायः॥
 
-![](../books_images/U-IMG-1737800357ScreenshotFrom2025-01-2515-48-54.png)
+<MISSING_FIG href="../books_images/U-IMG-1737800357ScreenshotFrom2025-01-2515-48-54.png"/>
 
 **मार्कण्डेय उवाच॥**
 
@@ -20309,7 +20310,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 सप्तविंशत्यधिक शततमोऽध्यायः॥
 
-![](../books_images/U-IMG-1737805783ScreenshotFrom2025-01-2517-19-20.png)
+<MISSING_FIG href="../books_images/U-IMG-1737805783ScreenshotFrom2025-01-2517-19-20.png"/>
 
 मार्कण्डेय उवाच॥
 
@@ -20480,7 +20481,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 अष्टविंशत्यधिक शततमोऽध्यायः॥
 
-![](../books_images/U-IMG-1737822260Screenshot_2025-01-24_11-23-18.png)
+<MISSING_FIG href="../books_images/U-IMG-1737822260Screenshot_2025-01-24_11-23-18.png"/>
 
 मार्कण्डेय उवाच॥
 
@@ -20620,7 +20621,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 **ऊनत्रिंशत्यधिक शततमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1737875159Screenshot_2025-01-26_12-35-47.png)
+<MISSING_FIG href="../books_images/U-IMG-1737875159Screenshot_2025-01-26_12-35-47.png"/>
 
 **मार्कण्डेय उवाच**
 
@@ -20746,7 +20747,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 **त्रिंशत्यधिक शततमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1737875558Screenshot_2025-01-26_12-42-22.png)
+<MISSING_FIG href="../books_images/U-IMG-1737875558Screenshot_2025-01-26_12-42-22.png"/>
 
 क्रौष्टुकिरुवाच॥
 
@@ -20876,7 +20877,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 एकत्रिंशदधिक शततमोऽध्यायः॥
 
-**![](../books_images/U-IMG-1737875839Screenshot_2025-01-26_12-47-08.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1737875839Screenshot_2025-01-26_12-47-08.png"/>**
 
 मार्कण्डेय उवाच॥
 
@@ -20973,7 +20974,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 द्वात्रिंशदधिक शततमोऽध्यायः॥
 
-**![](../books_images/U-IMG-1737876063Screenshot_2025-01-24_20-07-14.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1737876063Screenshot_2025-01-24_20-07-14.png"/>**
 
 मार्कण्डेय उवाच॥
 
@@ -21169,7 +21170,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 **त्रयस्त्रिंशदधिक शततमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1737876475Screenshot_2025-01-26_12-42-22.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1737876475Screenshot_2025-01-26_12-42-22.png"/>**
 
 **क्रौष्टुकिरुवाच॥**
 
@@ -21291,7 +21292,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 **चतुस्त्रिंशदधिक शततमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1737876755Screenshot_2025-01-26_12-35-47.png)
+<MISSING_FIG href="../books_images/U-IMG-1737876755Screenshot_2025-01-26_12-35-47.png"/>
 
 **मार्कण्डेय उवाच॥**
 
@@ -21504,7 +21505,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 पञ्चत्रिंशदधिक शततमोऽध्यायः॥
 
-![](../books_images/U-IMG-1737877346Screenshot_2025-01-26_12-47-08.png)
+<MISSING_FIG href="../books_images/U-IMG-1737877346Screenshot_2025-01-26_12-47-08.png"/>
 
 **मार्कण्डेय उवाच॥**
 
@@ -21631,7 +21632,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 षट्त्रिंशदधिक शततमोऽध्यायः।
 
-**![](../books_images/U-IMG-1737992263Screenshot_2025-01-24_20-07-14.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1737992263Screenshot_2025-01-24_20-07-14.png"/>**
 
 **मार्कण्डेय उवाच॥**
 
@@ -21701,7 +21702,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0MzY4MTcyNjg
 
 **सप्तत्रिंशदधिक शततमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1737877738Screenshot_2025-01-24_20-07-14.png)
+<MISSING_FIG href="../books_images/U-IMG-1737877738Screenshot_2025-01-24_20-07-14.png"/>
 
 **मार्कण्डेय उवाच॥**
 

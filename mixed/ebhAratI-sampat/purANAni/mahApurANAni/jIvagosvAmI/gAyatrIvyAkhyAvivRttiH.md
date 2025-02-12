@@ -23,7 +23,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM5OTQ5Njc4NjA
 
 **❋श्रीश्रीगौरगदाधरौ विजयेताम्❋**
 
-**![](../books_images/U-IMG-1722446676Screenshot2024-07-31225409.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722446676Screenshot2024-07-31225409.png"/>**
 
  श्रीश्रीजीवगोस्वामि प्रणीत विवृति समन्वित “**अग्निपुराणान्तर्गता गायत्री व्याख्या**" नामक ग्रन्थ प्रकाशित हुआ । इसमें अग्निपुराणीय २१६ अध्यास से उद्धृत केवलमात्र १७ श्लोक की व्याख्या है।
 
@@ -241,11 +241,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM5OTQ5Njc4NjA
 
 इति सामवेदीयसन्ध्याविधि समाप्त ।
 
-![](../books_images/U-IMG-1722517754Screenshot2024-08-01183749.png)
+<MISSING_FIG href="../books_images/U-IMG-1722517754Screenshot2024-08-01183749.png"/>
 
 **यजुर्वेदीयसन्ध्याविधि**
 
-![](../books_images/U-IMG-1722517818Screenshot2024-08-01183916.png)
+<MISSING_FIG href="../books_images/U-IMG-1722517818Screenshot2024-08-01183916.png"/>
 
  **आचमन—ॐ विष्णुः ॐ विष्णुः ॐ विष्णुः ॐ तद् विष्णोः…** इत्यादि मन्त्र पाठपूर्वक दो बार आचमन करके विष्णु स्मरण करे
 
@@ -369,11 +369,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM5OTQ5Njc4NjA
 
 इति यजुर्बेदीयसन्ध्याविधि समाप्त।
 
-![](../books_images/U-IMG-1722517977Screenshot2024-08-01184147.png)
+<MISSING_FIG href="../books_images/U-IMG-1722517977Screenshot2024-08-01184147.png"/>
 
 **ऋग्वेदीयसन्ध्याविधि**
 
-![](../books_images/U-IMG-1722518225Screenshot2024-08-01184513.png)
+<MISSING_FIG href="../books_images/U-IMG-1722518225Screenshot2024-08-01184513.png"/>
 
  श्रीविष्णु स्मरण पूर्वक आचमन प्रणालीके अनुसार दो–बार आचमन करके निम्नोक्त मन्त्र पाठ करे। एवं प्रत्येक बार निज मस्तक में जल का छिँटा दें।
 
@@ -586,7 +586,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM5OTQ5Njc4NjA
 
 इति ऋग्वेदीय सन्ध्याविधि समाप्त।
 
-![](../books_images/U-IMG-1722446853Screenshot2024-07-31225715.png)
+<MISSING_FIG href="../books_images/U-IMG-1722446853Screenshot2024-07-31225715.png"/>
 
 **ज्ञातव्य-**
 
@@ -684,7 +684,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM5OTQ5Njc4NjA
 
 इति गायत्री शापोद्धारः समाप्तः।
 
-![](../books_images/U-IMG-1722447055Screenshot2024-07-31230040.png)
+<MISSING_FIG href="../books_images/U-IMG-1722447055Screenshot2024-07-31230040.png"/>
 
 **सन्ध्याविधि—**  
 (सानुवाद)
@@ -965,7 +965,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM5OTQ5Njc4NjA
 **श्रीविष्णवे नमः, श्रीविष्णवे नमः॥  
 श्रीविष्णुस्मरणात् परिपूर्णतास्तु॥**
 
-**![](../books_images/U-IMG-1722447232Screenshot2024-07-31230339.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722447232Screenshot2024-07-31230339.png"/>**
 
  सन्ध्या काल निर्णय—
 
@@ -978,6 +978,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM5OTQ5Njc4NjA
 
 **श्रीहरिदासशास्त्री**
 
-**![](../books_images/U-IMG-1722447309Screenshot2024-07-31230455.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722447309Screenshot2024-07-31230455.png"/>**
 
 \]

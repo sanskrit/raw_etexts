@@ -44,7 +44,7 @@ New Edition- (Copie 1000)
 1913.**  
 (Copy-Right Reserved).
 
-![](../books_images/U-IMG-1723725685Screenshot2024-08-15181038.png)
+<MISSING_FIG href="../books_images/U-IMG-1723725685Screenshot2024-08-15181038.png"/>
 
 **Copies can be had from :**
 
@@ -58,7 +58,7 @@ Vyasavilas, Cochumatham
 
 **TRIVANDRUM.**
 
-![](../books_images/U-IMG-1723725772Screenshot2024-08-15181212.png)
+<MISSING_FIG href="../books_images/U-IMG-1723725772Screenshot2024-08-15181212.png"/>
 
 **निवेदना।**
 
@@ -94,9 +94,11 @@ Vyasavilas, Cochumatham
 | प्रमादीचनामसंवत्सरे | **के. पद्मनाभशास्त्रि-वे. सुब्बरायाचार्यौ** |
 | आषाढबहुलतृतीयायाम्  |                 महोपाध्यायौ.                  |
 
+       
+
 **अध्यायकथासंग्रहः।**
 
-![](../books_images/U-IMG-1725462764Screenshot2024-09-04204118.png)
+<MISSING_FIG href="../books_images/U-IMG-1725462764Screenshot2024-09-04204118.png"/>
 
 **अनन्तशयनक्षेत्रमाहात्म्ये—**
 
@@ -157,7 +159,7 @@ Vyasavilas, Cochumatham
 
 श्रीमदनन्तशयनक्षेत्रमाहात्म्यम्।
 
-![](../books_images/U-IMG-1723994464Screenshot2024-08-18205015.png)
+<MISSING_FIG href="../books_images/U-IMG-1723994464Screenshot2024-08-18205015.png"/>
 
 प्रथमोऽध्यायः।
 

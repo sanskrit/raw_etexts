@@ -2262,6 +2262,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MDY1Mzk0MjI
 
 **कथं विद्राविता यूयं के तद्वदत मा चिरम्।**
 
+ 
+
 प्रमथा ऊचुः—
 
 **वयं श्रीदेवदेवेन प्रेषिताः प्रमथाः प्रभो॥३०॥**
@@ -2954,6 +2956,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MDY1Mzk0MjI
 यथा हि कृपया पूर्वं स्थिता मद्गेहिनी स्वयम्॥१७॥
 
 तत्रैव हि पुनश्चापि भव त्वं कृपयेश्वरि।
+
+ 
 
 देव्युवाच—
 
@@ -4622,7 +4626,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MDY1Mzk0MjI
 श्रीमहाभागवते उपपुराणे श्रीमहादेवनारदसंवादे शिवतपोवर्णनं  
 नामैकविंशतितमोऽध्यायः
 
-![](../books_images/U-IMG-1735748637Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1735748637Screenshot2024-12-15104840.png"/>
 
 **द्वाविंशोऽध्यायः**
 
@@ -4984,7 +4988,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MDY1Mzk0MjI
 
 श्री महाभागवते उपपुराणे कामदाह वर्णनं नाम द्वाविंशोऽध्यायः।
 
-![](../books_images/U-IMG-1735748886Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1735748886Screenshot2024-12-15104840.png"/>
 
 **त्रयोविंशोध्यायः**
 
@@ -5592,7 +5596,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MDY1Mzk0MjI
 श्रीमहाभागवते उपपुराणे ललितासहस्रनामस्तोत्रं नाम  
 त्रयोविंशतितमोऽध्यायः।
 
-![](../books_images/U-IMG-1735749095Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1735749095Screenshot2024-12-15104840.png"/>
 
 **चर्तु विंशोऽध्यायः**
 
@@ -5758,7 +5762,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MDY1Mzk0MjI
 इति श्रीमहाभागवत महापुराणे पार्वतीविवाहोपक्रमो नाम  
 चतुर्विंशतितमोऽध्यायः
 
-![](../books_images/U-IMG-1735792646Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1735792646Screenshot2024-12-15104840.png"/>
 
 **पञ्चविंशोऽध्यायः**
 
@@ -5882,7 +5886,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MDY1Mzk0MjI
 इति श्रीमहाभागवते उपपुराणे श्रीमहादेवनारदसंवादे शिवविवाहे  
 पञ्चविंशतितमोऽध्यायः
 
-![](../books_images/U-IMG-1735792685Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1735792685Screenshot2024-12-15104840.png"/>
 
 **षड्विंशतितमोऽध्यायः**
 
@@ -5969,7 +5973,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MDY1Mzk0MjI
 **इति श्रीमहाभागवते उपपुराणे श्रीमहादेवनारदसंवादे देवतासमागमो  
 नाम षडविंशतितमोऽध्यायः**
 
-**![](../books_images/U-IMG-1735739977Screenshot2024-12-15104840.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1735739977Screenshot2024-12-15104840.png"/>**
 
 **सप्तविंशतितमोऽध्यायः**
 
@@ -6082,7 +6086,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MDY1Mzk0MjI
 **इति श्रीमहाभागवते उपपुराणे महादेवनारदसंवादे श्रीशिवस्य  
 हिमालयपुर आगमनं नाम सप्तविंशतितमोऽध्यायः**
 
-**![](../books_images/U-IMG-1735792786Screenshot2024-12-15104840.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1735792786Screenshot2024-12-15104840.png"/>**
 
 **अष्टाविंशतितमोऽध्यायः**
 
@@ -6218,7 +6222,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MDY1Mzk0MjI
 
 **इति श्रीमहाभागवते उपपुराणे पार्वतीविवाहमङ्गलं नामाष्टाविंशतितमोऽध्यायः**
 
-**![](../books_images/U-IMG-1735792847Screenshot2024-12-15104840.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1735792847Screenshot2024-12-15104840.png"/>**
 
 **एकोनत्रिंशत्तमोऽध्यायः**
 
@@ -6333,7 +6337,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MDY1Mzk0MjI
 **श्रीमहाभागवते उपपुराणे श्रीशिवपार्वती विहारवर्णनं नाम  
 एकोनत्रिंशत्तमोऽध्यायः**
 
-**![](../books_images/U-IMG-1735792908Screenshot2024-12-15104840.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1735792908Screenshot2024-12-15104840.png"/>**
 
 **त्रिंशत्तमोऽध्यायः**
 
@@ -6507,7 +6511,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MDY1Mzk0MjI
 **इति श्रीमहाभागवते उपपुराणे श्रीमहादेवनारदसंवादे कार्तिकेयजन्मवर्णनं  
 नाम त्रिंशत्तमोऽध्यायः**
 
-![](../books_images/U-IMG-1735746070Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1735746070Screenshot2024-12-15104840.png"/>
 
 **एकत्रिंशत्तमोऽध्यायः**
 
@@ -6615,7 +6619,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MDY1Mzk0MjI
 **श्रीमहाभागवते उपपुंराणे तारकासुर संग्रामे कुमारागमनवर्णनं  
 नामैकर्त्रिशत्तमोध्यायः**
 
-**![](../books_images/U-IMG-1735746803Screenshot2024-12-15104840.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1735746803Screenshot2024-12-15104840.png"/>**
 
 **द्वात्रिंशोऽध्यायः**
 
@@ -6705,7 +6709,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MDY1Mzk0MjI
 **श्रीमहाभागवते उपपुराणे कार्तिकेयतारकासुर संग्रामवर्णनं नाम  
 द्वात्रिंशत्तमोऽध्यायः**
 
-**![](../books_images/U-IMG-1735793091Screenshot2024-12-15104840.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1735793091Screenshot2024-12-15104840.png"/>**
 
 **त्रयस्त्रिंशोऽध्यायः**
 
@@ -6778,7 +6782,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MDY1Mzk0MjI
 
 **श्रीमहाभागवते उपपुराणे तारकासुरवधो नाम त्रयस्त्रिंशत्तमोऽध्यायः**
 
-![](../books_images/U-IMG-1735748525Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1735748525Screenshot2024-12-15104840.png"/>
 
 **चतुस्त्रिंशोऽध्यायः**
 

@@ -57,11 +57,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUyNjYxNjI5NzE
 
 **कल्किपुराणम्।**
 
-**![](../books_images/U-IMG-1736488550Untitled.jpg)**  
+**<MISSING_FIG href="../books_images/U-IMG-1736488550Untitled.jpg"/>**  
 
 प्रथमोऽध्यायः
 
-![](../books_images/U-IMG-1736488609Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1736488609Untitled.jpg"/>
 
 सेन्द्रा देवगणा मुनीश्वरजना लोकाः सपालाः सदा  
 स्वं स्वं कर्म सुसिद्धयेप्रतिदनं भक्त्या भजन्त्युत्तमाः।  

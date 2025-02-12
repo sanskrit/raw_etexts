@@ -1101,6 +1101,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM1NzkxMzU1MTU
 
  कस्याप्यर्थस्योपादेयता तदुपयोगितामपेक्षते। उपयोगिता चोपादातुरादर्शानुगामिनीरावश्यकता अनुसरति। एतन्न्यायानुसारमभिनवभारतस्यादर्शानामावश्यकतानां चानुकूल्येनैव वेदा-
 
+ 
+
 नामुपयोगितायाः स्थितेश्च स्वरूपविनिर्णयः कर्तुं शक्यत इति तां विधामाश्रित्यैव प्रकृतो विषयोऽद्य प्रपञ्चयिष्यते।
 
 **वेदानां स्थितेः सिंहावलोकनम्**
@@ -3906,7 +3908,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM1NzkxMzU1MTU
 
 **सुविचार-माधुकरी**
 
-![](../books_images/U-IMG-1733326353Screenshot2024-12-049.02.12PM.png)
+<MISSING_FIG href="../books_images/U-IMG-1733326353Screenshot2024-12-049.02.12PM.png"/>
 
 **सन्तो मधुव्रताः सान्द्रं  
 पीत्वा शास्त्ररसामृतम्।  
@@ -4207,6 +4209,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM1NzkxMzU1MTU
  यददो वात ते गृहेऽमृतं निहितं गुहा।
 
  तस्य नो धेहि जीवसे॥ ( उत्त० ९।११ )
+
+ 
 
 अथर्ववेदसंहितायाः
 
@@ -6219,7 +6223,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM1NzkxMzU1MTU
 प्रबन्धप्रकाशे द्वितीयभागः  
 समाप्तः॥**
 
-![](../books_images/U-IMG-1733760477Screenshot2024-12-099.37.40PM.png)
+<MISSING_FIG href="../books_images/U-IMG-1733760477Screenshot2024-12-099.37.40PM.png"/>
 
 **मुद्रणत्रुटिनिर्देशः**
 
@@ -6384,11 +6388,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM1NzkxMzU1MTU
 
 प्रकाशकः—मेसर्स मोतीलाल बनारसीदास, बुक्सेलर्स, चौक, बनारस।
 
+ 
+
 (९) भारतीयसंविधानस्य (उत्तरार्धस्य) संस्कृतानुवादः।
 
 प्रकाशकः—Government of India.
 
 ( इंग्लिशभाषायाम् )
+
+ 
 
 (१०) ऋग्वेदप्रातिशाख्यम्
 
@@ -6441,4 +6449,3 @@ Oxford University Press, Oxford (out of print).
 [TABLE]
 
 \]
-

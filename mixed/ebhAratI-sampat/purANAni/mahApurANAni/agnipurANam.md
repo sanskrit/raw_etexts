@@ -354,7 +354,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अग्निपुराणम्।
 
-**![](../books_images/U-IMG-1734931779বববববব.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1734931779বববববব.PNG"/>**
 
 अथोनसप्तत्यधिकद्विशततमोऽध्यायः।
 
@@ -3367,7 +3367,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **अथ द्विनवत्यधिकद्विशततमोऽध्यायः।**
 
-![](../books_images/U-IMG-1734756412Screenshot2024-12-21101600.png)
+<MISSING_FIG href="../books_images/U-IMG-1734756412Screenshot2024-12-21101600.png"/>
 
 **मन्त्रपरिभाषा।**
 
@@ -4035,7 +4035,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 क्षारव्योषवचाडिङ्गु विडङ्गं सैन्धवन्नतं ॥१४॥  
 अम्बष्ठातिबलाकुष्ठं सर्वकीटविषं हरेत्।  
-यष्टिव्योषगुडक्षीरयोगः[^134](१) शूनो विषापहः॥१५॥
+यष्टिव्योषगुडक्षीरयोगः[^134] (१) शूनो विषापहः॥१५॥
 
 [^134]: "षष्टिव्योषगुड़क्षीरयोग इति क०, ज०, ञ०, ट० च ।"
 
@@ -5605,9 +5605,11 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 मस्थैर्म्मन्त्रवीर्जेस्तु रक्षां देहेषु कारयेत्॥२२॥
 
-वेष्टिता भाव[^164][हेम्ना](#)च रक्षेयं मृत्युनाशिनी।  
+वेष्टिता भाव[^164]हेम्ना[^301]च रक्षेयं मृत्युनाशिनी।  
 
 [^164]: "ताराहेन्न चेति ख० ।"
+
+[^301]: #
 
 विघ्नपापारिदमनी सौभाग्यायुः प्रदा धृता॥२३॥
 
@@ -6214,7 +6216,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथाष्टादशाधिकत्रिशततमोऽध्यायः।
 
-![](../books_images/U-IMG-1734446204Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734446204Capture.PNG"/>
 
 वागीश्वरीपूजा।
 
@@ -6263,7 +6265,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथोनविंशत्यधिकत्रिशततमोऽध्यायः।
 
-**![](../books_images/U-IMG-1734446961Capture.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1734446961Capture.PNG"/>**
 
 मण्डलानि।
 
@@ -6429,7 +6431,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथ विंशत्यधिकत्रिंशततमोऽध्यायः।
 
-![](../books_images/U-IMG-1734484324Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734484324Capture.PNG"/>
 
 अघोरास्त्रादिशान्तिकल्पः।
 
@@ -6487,7 +6489,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथैकविंशत्यधिकत्रिशततमोऽध्यायः।
 
-![](../books_images/U-IMG-1734485244Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734485244Capture.PNG"/>
 
 पाशुपतशान्तिः।
 
@@ -6514,7 +6516,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथ द्वाविंशत्यधिकत्रिशततमोऽध्यायः।
 
-![](../books_images/U-IMG-1734486544Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734486544Capture.PNG"/>
 
 षडङ्गान्यघोरास्त्राणि।
 
@@ -6626,7 +6628,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथ त्रयोविंशत्यधिकत्रिंशततमोऽध्यायः।
 
-![](../books_images/U-IMG-1734488710Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734488710Capture.PNG"/>
 
 रुद्रशान्तिः।
 
@@ -6694,7 +6696,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथ चतुर्विंशत्यधिकत्रिशततमोऽध्यायः।
 
-![](../books_images/U-IMG-1734491157Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734491157Capture.PNG"/>
 
 अंशकादिः।
 
@@ -6780,7 +6782,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथ पञ्चविंशत्यधिकत्रिशततमोऽध्यायः।
 
-![](../books_images/U-IMG-1734492508Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734492508Capture.PNG"/>
 
 गौर्य्यादिपूजा।
 
@@ -6879,7 +6881,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथ षड्विंशत्यधिकत्रिंशततमोऽध्यायः।
 
-![](../books_images/U-IMG-1734503195Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734503195Capture.PNG"/>
 
 देवालयमाहात्म्यम्।
 
@@ -6950,7 +6952,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथ सप्तविंशत्यधिकत्रिंशततमोऽध्यायः।
 
-![](../books_images/U-IMG-1734504205Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734504205Capture.PNG"/>
 
 छन्दःसारः।
 
@@ -6971,7 +6973,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथाष्टाविंशत्यधिकत्रिशततमोऽध्यायः।
 
-![](../books_images/U-IMG-1734504531Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734504531Capture.PNG"/>
 
 छन्दःसारः।
 
@@ -6996,7 +6998,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथोनत्रिंशदधिकत्रिशततमोऽध्यायः।
 
-**![](../books_images/U-IMG-1734505075Capture.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1734505075Capture.PNG"/>**
 
 छन्दःसारः।
 
@@ -7076,7 +7078,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथ त्रिंशदधिकत्रिशततमोऽध्यायः।
 
-![](../books_images/U-IMG-1734506210Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734506210Capture.PNG"/>
 
 छन्दोजातिनिरूपणम्।
 
@@ -7153,7 +7155,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथैकत्रिंशदधिकत्रिंशततमोऽध्यायः।
 
-![](../books_images/U-IMG-1734507355Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734507355Capture.PNG"/>
 
 विषमकथनम्।
 
@@ -7195,7 +7197,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथ द्वात्रिंशदधिकत्रिशततमोऽध्यायः।
 
-![](../books_images/U-IMG-1734518862Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734518862Capture.PNG"/>
 
 अर्द्धसमनिरूपणम्।
 
@@ -7229,7 +7231,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथ त्रयस्त्रिंशदधिकत्रिशततमोऽध्यायः।
 
-![](../books_images/U-IMG-1734519262Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734519262Capture.PNG"/>
 
 समवृत्तनिरूपणं।
 
@@ -7348,7 +7350,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथ चतुस्त्रिंशदधिकत्रिशततमोऽध्यायः।
 
-![](../books_images/U-IMG-1734521372Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734521372Capture.PNG"/>
 
 प्रस्तारनिरूपणम्।
 
@@ -7373,7 +7375,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथ पञ्चत्रिंशदधिकत्रिशततमोऽध्यायः।
 
-![](../books_images/U-IMG-1734521905Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734521905Capture.PNG"/>
 
 शिक्षानिरूपणम्।
 
@@ -7461,7 +7463,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथ षट्त्रिंशदधिकत्रिशततमोऽध्यायः।
 
-**![](../books_images/U-IMG-1734523259Capture.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1734523259Capture.PNG"/>**
 
 काव्यादिलक्षणं।
 
@@ -7600,7 +7602,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **अथ सप्तत्रिंशदधिकत्रिशततमोऽध्यायः।**
 
-**![](../books_images/U-IMG-173453472631.png)**
+**<MISSING_FIG href="../books_images/U-IMG-173453472631.png"/>**
 
 **नाटकनिरुपणम्।**
 
@@ -8009,7 +8011,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **अथैकचत्वारिंशदधिकत्रिशततमोऽध्यायः**
 
-![](../books_images/U-IMG-173454124331.png)
+<MISSING_FIG href="../books_images/U-IMG-173454124331.png"/>
 
 **अभिनयादिनिरूपणं।**
 
@@ -8123,7 +8125,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **अथ द्विचत्वारिंशदधिकत्रिशततमोऽध्यायः।**
 
-![](../books_images/U-IMG-1734690347Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734690347Capture.PNG"/>
 
 **शब्दालङ्काराः।**
 
@@ -8135,7 +8137,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **एकवर्णगतावृत्तेर्ज्जायन्ते पञ्च वृत्तयः।  
 मधुरा ललिता प्रौटा भद्रा परुषया सह॥२॥**
 
-**मधुरायाश्च वर्गान्तादधो वर्ग्या रणौ स्वनौ[^229](१)।  
+**मधुरायाश्च वर्गान्तादधो वर्ग्या रणौ स्वनौ[^229] (१)।  
 ह्रस्वस्वरेणान्तरितौ संयुक्तत्वं नकारयोः॥३॥**
 
 [^229]: "रशौ घनाविति ञ०।"
@@ -8357,7 +8359,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **अथ त्रिचत्वारिंशदधिकत्रिशततमोऽध्यायः।**
 
-**![](../books_images/U-IMG-173460589031.png)**
+**<MISSING_FIG href="../books_images/U-IMG-173460589031.png"/>**
 
 **अर्थालङ्काराः।**
 
@@ -8471,7 +8473,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **अथ चतुश्चत्वारिंशदधिकत्रिशततमोऽध्यायः।**
 
-**![](../books_images/U-IMG-173462038831.png)**
+**<MISSING_FIG href="../books_images/U-IMG-173462038831.png"/>**
 
 **शब्दार्थालङ्काराः।**
 
@@ -8626,7 +8628,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **अथ षट्चत्वारिंशदधिकत्रिशततमोऽध्यायः**
 
-**![](../books_images/U-IMG-173466125231.png)**
+**<MISSING_FIG href="../books_images/U-IMG-173466125231.png"/>**
 
 **काव्यदोषविवेकः।**
 
@@ -8955,7 +8957,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **अथ पञ्चाशदधिकत्रिशततमोऽध्यायः।**
 
-**![](../books_images/U-IMG-173462245231.png)**
+**<MISSING_FIG href="../books_images/U-IMG-173462245231.png"/>**
 
 **सुब्विभक्तिसिद्धरूपं।**
 
@@ -9242,7 +9244,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **अथ द्विपञ्चाशदधिकत्रिशततमोऽध्यायः।**
 
-**![](../books_images/U-IMG-173462275131.png)**
+**<MISSING_FIG href="../books_images/U-IMG-173462275131.png"/>**
 
 **नपुंसकशब्दसिद्धरूपं।**
 
@@ -9279,7 +9281,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथ त्रिपञ्चाशदधिकत्रिशततमोऽध्यायः।
 
-![](../books_images/U-IMG-1734498070Screenshot(127).png).  
+<MISSING_FIG href="../books_images/U-IMG-1734498070Screenshot(127"/>.png).  
 
 कारकं।
 
@@ -9374,7 +9376,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथ चतुःपञ्चाशदधिकत्रिशततमोऽध्यायः।
 
-![](../books_images/U-IMG-1734500818Screenshot(127).png)  
+<MISSING_FIG href="../books_images/U-IMG-1734500818Screenshot(127"/>.png)  
 
 समासः।
 
@@ -9442,7 +9444,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **अथ पञ्चपञ्चाशदधिकत्रिशततमोऽध्यायः।**
 
-![](../books_images/U-IMG-1734626027Screenshot(127).png)  
+<MISSING_FIG href="../books_images/U-IMG-1734626027Screenshot(127"/>.png)  
 
 तद्धितं।
 
@@ -9551,7 +9553,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथ षट्पञ्चाशदधिकत्रिशततमोऽध्यायः।  
 
-![](../books_images/U-IMG-1734961842Screenshot(127).png)  
+<MISSING_FIG href="../books_images/U-IMG-1734961842Screenshot(127"/>.png)  
 
 उणादिसिद्धरूपम्।
 
@@ -9604,7 +9606,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अथ सप्तपञ्चाशदधिकत्रिशततमोऽध्यायः।  
 
-![](../books_images/U-IMG-1734966333Screenshot(127).png)  
+<MISSING_FIG href="../books_images/U-IMG-1734966333Screenshot(127"/>.png)  
 
 तिङ्विभक्तिसिद्धरूपं।
 
@@ -12559,8 +12561,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **क्षुत्तृष्णे देहधर्माख्ये न ममैते यतो द्विज।  
 पृष्टहं यत्त्वया ब्रूयां[^279]तृप्तिरस्त्येव मे सदा॥४९॥**
 
-[^279]: "ततः क्षुत्सम्भवाभावादिति ख०, ञ० च।"
-
 **पुमान् सर्वगतो व्यापीआकाशवदयं यतः।  
 अतोऽहं प्रत्यगात्मास्मीत्येतदर्थं भवेत् कथं[^284]॥५०॥**
 
@@ -12568,8 +12568,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **सोऽहं गन्ता[^281]न चागन्ता नैकदेशनिकेतनः।  
 त्वं चान्यो न भवेन्नापि नान्यस्त्वत्तोऽस्मि वा प्यहं॥५१॥**
-
-[^281]: "भोक्तेति क०।"
 
 नान्यस्माद्वैतसंस्कारसंस्कृतं मानसं तथा।  
 ऋतुः प्राह निदाघन्तं ब्रह्मज्ञानाय चागतः।  
@@ -13769,8 +13767,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 तस्था हास्येन खास्येन स्मितेन ललितेन च।  
 मृदुना वामनाचैव[^291] शीतलेन सुगन्धिना॥३२॥
 
-[^291]: "पाठोऽयं न साधुः।"
-
 मत्तभ्रमरगीतेन पुंस्कोकिलस्तेन च।  
 सुस्वरेण हि गीतेन उर्वश्या मधुरेण च।  
 ईक्षितौच कटाक्षेण स्कन्दतुस्तावुभावपि[^297]॥३३॥
@@ -13892,8 +13888,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 वेवमेवाद्यस्त्रास्ते[^291]गुरुशुश्रुषणोद्यतः।  
 स्वीकृत्य वेदशास्त्राणि स पुण्यगृहमागतः॥१६॥
 
-[^291]: "पाठोऽयं न साधुः।"
-
 मातापित्रोर्नमस्कृत्य पादयोर्विनयान्वितः।  
 तस्थौ तत्र गृहे धौमान् मार्कण्डेयो महाद्युतिः॥१७॥
 
@@ -13977,4 +13971,3 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **तुङ्गा च भगिनीभद्रा द्वे नद्यौ मन्त्रसम्भवे।**
 
 \]
-

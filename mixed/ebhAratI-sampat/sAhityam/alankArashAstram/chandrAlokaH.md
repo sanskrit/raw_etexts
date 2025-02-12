@@ -32,7 +32,7 @@ All Rights Reserved.
 
 ॥ अलङ्कारानुक्रमणिका ॥
 
-![](../books_images/U-IMG-172813637598.png)  
+<MISSING_FIG href="../books_images/U-IMG-172813637598.png"/>  
 
 |        |                                     |     |                         |
 |--------|-------------------------------------|-----|-------------------------|
@@ -104,7 +104,7 @@ All Rights Reserved.
 
 ॥चन्द्रालोकप्रारम्भः॥
 
-**![](../books_images/U-IMG-1728295109v0.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1728295109v0.png"/>**
 
 ॥मङ्गलम्॥
 

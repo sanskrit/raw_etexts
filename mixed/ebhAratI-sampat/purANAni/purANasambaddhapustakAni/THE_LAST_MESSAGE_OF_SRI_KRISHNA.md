@@ -5589,9 +5589,11 @@ the conditions for such modification. Purusha, unmodified[^512],merely looks on.
 अहं त्रिवृन्मोहविकल्पहेतु-  
  वैकारिकस्तामस ऐन्द्रियश्च॥३२॥**
 
- 32. This modification, due to [God](#)who upsets the equilibrium of the Gunas, produced from the Mahat which, again, has for its cause the Prakriti, is known as egoism. It is threefold—Vaikârika[^532],Tâmasa and Aindriya—and is the cause of doubt characterised by ignorance.
+ 32. This modification, due to God[^807]who upsets the equilibrium of the Gunas, produced from the Mahat which, again, has for its cause the Prakriti, is known as egoism. It is threefold—Vaikârika[^532],Tâmasa and Aindriya—and is the cause of doubt characterised by ignorance.
 
 [^532]: "Vaikârika etc,—the same as Sâttvika, Tâmasa and Râjasa, representing the divisions of Adhidaiva, Adhibhuta and Adhyâtma respectively. One must realise the Atman by rooting out egoism—this is the suggestion of this and the next Verse."
+
+[^807]: #
 
 **आत्मापरिज्ञानमयो विवादो  
  ह्यस्तीति नास्तीति भिदार्थनिष्ठः।  
@@ -6486,10 +6488,10 @@ CHAPTER XIX
 
  24. Colour dissolves into air, air into touch, touch into ether, and ether into sound particles. The organs are dissolved into their efficient causes, the [gods.[^647]
 
+[^647]: "Gods—The organs, being characterised by activity which is guided by the gods, are here said to be dissolved into the gods. Really they merge in Râjasa egoism, which is their material cause."
+
 **योनिर्वैकारिके सौम्य लीयते मनसीश्वरे।  
 शब्दो भूतादिमप्येति भूतादिर्महति प्रभुः॥२५॥**
-
-[^647]: "Gods—The organs, being characterised by activity which is guided by the gods, are here said to be dissolved into the gods. Really they merge in Râjasa egoism, which is their material cause."
 
  25. The gods, My friend, are dissolved into the mind[^648] which rules over all, and the mind into Sâttvika egoism. Sound is dissolved into Tâmasa egoism, and the all-powerful egoism into the Cosmic Intelligence.
 
@@ -7078,10 +7080,10 @@ ship Me by any one of the three methods that appeals to one.
 
  12. Images are of eight kinds—those made of stone, wood, gold, clay, sand and jewels, as well as painted and mental ones.[^699]
 
+[^699]: "Mental ones—When the worship is performed in one's heart."
+
 **चलाचलेति द्विविधा प्रतिष्ठा जीवमन्दिरम्।  
 उद्वासावाहने न स्तः स्थिरायामुद्धवार्चने॥१३॥**
-
-[^699]: "Mental ones—When the worship is performed in one's heart."
 
  13. Images, which are the temples of God, are divided into two other classes—movable and immovable. In worshipping through the immovable ones, O Uddhava, there is neither[^700]the of ceremony invocation nor that of valediction.
 
@@ -8329,4 +8331,3 @@ The Manager, ADVAITA ASHRAMA,
 4, Wellington Lane, Calcutta (India).**
 
 \]
-

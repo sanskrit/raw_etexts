@@ -11,7 +11,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 +++
 [[श्रीनान्दिपुराणम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYyMTYyNDcy)]]
 
-\[
+\
 
 श्री
 
@@ -73593,6 +73593,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 समाप्त ।
 
-Source: Vaje§aµkara DevarŒma Bola, ed., *NŒnd´purŒöa: nŒnd´mukha brŒhmaöajŒtine §Œstr´ya itihŒsa* \[Skt., Guj.\](Calcutta : Damodara Viththalarama Parakhani, 1948).
+Source: Vaje§aµkara DevarŒma Bola, ed., *NŒnd´purŒöa: nŒnd´mukha brŒhmaöajŒtine §Œstr´ya itihŒsa* \[Skt., Guj.\[^1].
+
+[^1]: Calcutta : Damodara Viththalarama Parakhani, 1948
 
 \]

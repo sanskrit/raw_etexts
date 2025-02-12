@@ -124,7 +124,7 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 
  Lastly, certain items not dealt with in *Pratāparudriya* are seen in *Godavarmayaśobhūṣana*: the variety of*upamā* called *varnyavācakaluptopamā* (i-e. *upamā* in which both the *upameya* and the *upamāvācakaśabda* are omitted), *upameyopamā* by *vastuprativastubhāva*, the division of each of the three varieties of *dīpaka* into two according to *guna* and *kriyā,* *nidarśanā* by *sambhavaddharmayoga*, the threefold division of *arthāpatti,* and the variety of uttara through obscurity in the answer, are instances
 
- Among the works on alañkāra quoted from in this *Yaśobhūṣana* areKāvyāprakāśa[^17](of Mammata) and *Bindvalaṅkāra*²(of Harihara), which are quoted in it by name, and *Kāvyādarśa* of Dandin[^18]")and *Kāvyālaṅkārasāṛasaṅgraha* of Udbhata[^19]."), which are quoted anonymously[^20],but it has not been possible to trace its source.")^(.)The other quotations in the work are theverse कुटिलालीकलसन्तींetc[^21]from the author's own *Gaurīśataka*, andthe verses तद्वल्गुनाetc.[^22].")and अत्रानुगोदं etc[^23]")from Kālidāsa's *Raghuvaṁśa*
+ Among the works on alañkāra quoted from in this *Yaśobhūṣana* areKāvyāprakāśa[^17] (of Mammata) and *Bindvalaṅkāra*²(of Harihara), which are quoted in it by name, and *Kāvyādarśa* of Dandin[^18]")and *Kāvyālaṅkārasāṛasaṅgraha* of Udbhata[^19]."), which are quoted anonymously[^20],but it has not been possible to trace its source.")^(.)The other quotations in the work are theverse कुटिलालीकलसन्तींetc[^21]from the author's own *Gaurīśataka*, andthe verses तद्वल्गुनाetc.[^22].")and अत्रानुगोदं etc[^23]")from Kālidāsa's *Raghuvaṁśa*
 
 [^17]: "Vide infra, p 29."
 
@@ -1027,4 +1027,3 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 **विशेष्ययोश्च वाच्यत्वे तुल्ययोरेव स द्विधा॥२८॥**
 
 \]
-

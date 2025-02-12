@@ -13,6 +13,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgwNzUzMDIw
 
 \[
 
+
+
+
+
 अग्निपुराणम् अलङ्काराध्यायाम्
 
 (१)  
@@ -103,6 +107,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgwNzUzMDIw
 
 ओ)०(ओ
 
+
+
+
 (२)  
 द्वितीयोऽध्यायम्  
 नाटकनिरूपणम्
@@ -169,6 +176,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgwNzUzMDIw
 ॥२॥
 
 ओ)०(ओ
+
+
+
 
 (३)  
 तृतीयोऽध्यायम्  
@@ -290,6 +300,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgwNzUzMDIw
 
 ओ)०(ओ
 
+
+
+
 (४)  
 चतुर्थोऽध्यायम्  
 रीतिवृत्तिनिरूपणम्
@@ -322,6 +335,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgwNzUzMDIw
 ॥४॥
 
 ओ)०(ओ
+
+
+
 
 (५)  
 पञ्चमोऽध्यायम्  
@@ -375,6 +391,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgwNzUzMDIw
 ॥५॥
 
 ओ)०(ओ
+
+
+
 
 (६)  
 षष्ठोऽध्यायम्  
@@ -453,6 +472,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgwNzUzMDIw
 ॥६॥
 
 ओ)०(ओ
+
+
+
 
 (७)  
 सप्तमोऽध्यायम्  
@@ -596,6 +618,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgwNzUzMDIw
 
 ओ)०(ओ
 
+
+
+
 (८)  
 अष्टमोऽध्यायम्  
 अर्थालङ्कारनिरूपणम्
@@ -672,6 +697,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgwNzUzMDIw
 
 ओ)०(ओ
 
+
+
+
   
 (९)  
 नवमोऽध्यायम्  
@@ -720,6 +748,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgwNzUzMDIw
 ॥९॥
 
 ओ)०(ओ
+
+
+
 
 (१०)  
 दशमोऽध्यायम्  
@@ -781,6 +812,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgwNzUzMDIw
 ॥१०॥
 
 ओ)०(ओ
+
+
+
 
 (११)  
 एकादशोऽध्यायम्  
@@ -871,6 +905,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgwNzUzMDIw
 एकादशोऽध्यायम्  
 ॥११॥
 
+
 पूर्णोऽयं ग्रन्थम्
+
+
 
 \]

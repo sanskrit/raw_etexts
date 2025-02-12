@@ -15,6 +15,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA2NjkyODMy
 
 कपिलपुराणम्
 
+
+
 अथ
 
 प्रथमोऽध्यायः
@@ -708,6 +710,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA2NjkyODMy
 प्रथमोऽध्यायः
 
 १
+
+
+
+
 
 अथ
 
@@ -1610,6 +1616,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA2NjkyODMy
 द्वितीयोऽध्यायः
 
 २
+
+
 
 अथ
 
@@ -2959,6 +2967,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA2NjkyODMy
 
 ३
 
+
+
 अथ
 
 चतुर्थोऽध्यायः
@@ -3644,6 +3654,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA2NjkyODMy
 
 ४
 
+
+
 अथ
 
 पञ्चमोऽध्यायः
@@ -4181,6 +4193,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA2NjkyODMy
 पञ्चमोऽध्यायः
 
 ५
+
+
 
 अथ
 
@@ -5960,6 +5974,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA2NjkyODMy
 
 ६
 
+
+
 अथ
 
 सप्तमोऽध्यायः
@@ -7321,6 +7337,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA2NjkyODMy
 सप्तमोऽध्यायः
 
 ७
+
+
 
 अथाष्टमोऽध्यायः
 
@@ -9156,6 +9174,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA2NjkyODMy
 
 ९
 
+
+
 अथ
 
 दशमोऽध्यायः
@@ -9593,6 +9613,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA2NjkyODMy
 दशमोऽध्यायः
 
 १०
+
+
 
 अथैकादशोऽध्यायः
 
@@ -11068,6 +11090,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA2NjkyODMy
 
 ११
 
+
+
 अथ
 
 द्वादशोऽध्यायः
@@ -11613,6 +11637,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA2NjkyODMy
 द्वादशोऽध्यायः
 
 १२
+
+
 
 अथ
 
@@ -13125,6 +13151,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA2NjkyODMy
 
 १३
 
+
+
 अथ
 
 चतुर्दशोऽध्यायः
@@ -14530,6 +14558,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA2NjkyODMy
 दशोऽध्यायः
 
 १४
+
+
 
 अथ
 
@@ -17088,6 +17118,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA2NjkyODMy
 
 १६
 
+
+
 सप्तदशोऽध्यायः
 
 ऋषय
@@ -18939,6 +18971,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA2NjkyODMy
 सप्तदशोऽध्यायः
 
 १७
+
+
 
 अष्टादशोऽध्यायः
 
@@ -21113,6 +21147,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA2NjkyODMy
 
 १८
 
+
+
 अथैकोनविंशतितमोऽध्यायः
 
 ऋषय
@@ -22052,6 +22088,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA2NjkyODMy
 एकोनविंशतितमोऽध्यायः
 
 १९
+
+
 
 अथ
 
@@ -23367,6 +23405,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA2NjkyODMy
 
 कपिलपुराणम्
 
+
+
 कृत्याऽनयाऽभिनवया
 
 लोकः
@@ -23402,6 +23442,32 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODA2NjkyODMy
 प्रार्थना
 
 शुभा
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Kapilapuranam (A critical edition)
 

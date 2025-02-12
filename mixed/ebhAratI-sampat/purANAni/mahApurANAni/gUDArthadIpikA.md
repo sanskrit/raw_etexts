@@ -359,7 +359,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk0Mjc3NjIyODM
 एकोनत्रिंशोऽध्यायः  
 ॥२९॥१॥
 
-![](../books_images/U-IMG-1722591038Screenshot2024-08-02150018.png)  
+<MISSING_FIG href="../books_images/U-IMG-1722591038Screenshot2024-08-02150018.png"/>  
 
  अथ रासपश्चाध्यायीव्याख्यायां गुढार्थदीपिकायां द्वितीयोऽध्यायः॥२॥(३०)॥
 
@@ -835,7 +835,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk0Mjc3NjIyODM
 इति श्रीमद्भागवतव्याख्यायां गूढार्थदीपिकायां  
 दशमस्कन्धे त्रिंशोऽध्यायः॥३०॥२॥
 
-![](../books_images/U-IMG-1722737353Screenshot2024-08-04073852.png)
+<MISSING_FIG href="../books_images/U-IMG-1722737353Screenshot2024-08-04073852.png"/>
 
 **अथैकत्रिंशोऽध्यायः॥**
 
@@ -932,13 +932,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk0Mjc3NjIyODM
 
 **विज्ञापनम्।**
 
-![](../books_images/U-IMG-1722757221Screenshot2024-08-04130956.png)
+<MISSING_FIG href="../books_images/U-IMG-1722757221Screenshot2024-08-04130956.png"/>
 
 बनारससंस्कृतसीरी
 
 जनाम्नीवाराणसेयसंस्कृतपुस्तकावली।
 
-![](../books_images/U-IMG-1722774540Screenshot2024-07-30230616.png)
+<MISSING_FIG href="../books_images/U-IMG-1722774540Screenshot2024-07-30230616.png"/>
 
  इयं पुस्तकावली खण्डशो मुद्रिता भवति। अस्यां संस्कृतभाषानिबद्धा बहवः प्राचीना दुर्लभा उत्तमोत्तमाः केचिदङ्गलभाषानुवादसहिताश्च ग्रन्था मुद्रिता भवन्ति। तांश्च ग्रन्थान् काशिकराजकीयसंस्कृतपाठशालीयपण्डिता अन्येऽपि विद्वांसः शोधयन्ति। यैर्ग्राहकमहाशयैरियं पुस्तकावली नियमेनाविच्छेदेन संग्राह्या तैस्तदेकैकस्य खण्डस्य कृते॥) मूल्यं प्रापणव्ययश्च =) देयः। अन्यैर्महाशयैर्यैः कानिचित् खण्डानि संग्राह्याणि तैश्चप्रत्येकं खण्डाना कृते १) मूल्यं प्रापणव्ययश्च =) देय इति॥
 
@@ -992,4 +992,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk0Mjc3NjIyODM
 # Please dont Edit this page (Blank Page)
 
 \]
-

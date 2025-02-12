@@ -20,10 +20,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2OTY0ODQ0NDc
 |:----------------------------:|
 | **अथ श्रीमद्भागवतप्रारंभः** |
 
-![](../books_images/U-IMG-1735213037ss.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1735213037ss.jpg"/>
 
 **श्रीमद्भागवताध्यायविषयक्रमः।**  
-![](../books_images/U-IMG-1733378094Screenshot2024-12-051124019998989899999.png)
+<MISSING_FIG href="../books_images/U-IMG-1733378094Screenshot2024-12-051124019998989899999.png"/>
 
 |                               |                                                                                    |             |                                                                      |
 |-------------------------------|------------------------------------------------------------------------------------|-------------|----------------------------------------------------------------------|
@@ -137,9 +137,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2OTY0ODQ0NDc
 |          ५           |  ब्रह्मोपदेशेन राज्ञो भीतिनिवारणम्|  |     १२      |   पुराणोक्तसर्वार्थानुक्रमवर्णनम्|   |
 |          ६           | परिक्षितिमोक्षः सर्पयागः वेदविभागः|  |     १३      | पुराणसंख्या दानमाहात्म्यं दानप्रकारः |
 
-![](../books_images/U-IMG-1734506536101.png)
+<MISSING_FIG href="../books_images/U-IMG-1734506536101.png"/>
 
-![](../books_images/U-IMG-1734505553100.png)
+<MISSING_FIG href="../books_images/U-IMG-1734505553100.png"/>
 
 श्रीगणेशाय नमः॥
 
@@ -1927,7 +1927,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2OTY0ODQ0NDc
 
 ॥समाप्तमिदं भागवतमाहात्म्यम्॥
 
-![](../books_images/U-IMG-1735215006Screenshot2024-12-26173719999896999949.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1735215006Screenshot2024-12-26173719999896999949.jpg"/>
 
 |                                         |
 |:---------------------------------------:|
@@ -20356,7 +20356,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2OTY0ODQ0NDc
 
 ॥इति षष्ठस्कन्धः समाप्तः॥
 
-![](../books_images/U-IMG-1734517524102.png)
+<MISSING_FIG href="../books_images/U-IMG-1734517524102.png"/>
 
 ॐ नमो भगवते वासुदेवाय॥
 
@@ -26608,7 +26608,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2OTY0ODQ0NDc
 
 ॥इत्यष्टमस्कन्धः समाप्तः॥
 
-![](../books_images/U-IMG-1734600683103.png)
+<MISSING_FIG href="../books_images/U-IMG-1734600683103.png"/>
 
 ॐ नमो भगवते वासुदेवाय॥
 
@@ -36304,7 +36304,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2OTY0ODQ0NDc
 |-----------------------------------------|
 | ॥ इति दशमस्कन्धपूर्वार्धं समाप्तिमगमत्॥ |
 
-![](../books_images/U-IMG-1735482455Screenshot2024-12-29195717.png)
+<MISSING_FIG href="../books_images/U-IMG-1735482455Screenshot2024-12-29195717.png"/>
 
 ॥श्रीशुक उवाच॥
 
@@ -42721,9 +42721,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2OTY0ODQ0NDc
 
 ॥समाप्तमिदं दशमस्कन्धोत्तरार्धम्॥**  
 
-![](../books_images/U-IMG-1734879035Screenshot2024-12-22071847.png)
+<MISSING_FIG href="../books_images/U-IMG-1734879035Screenshot2024-12-22071847.png"/>
 
-![](../books_images/U-IMG-1734879197Screenshot2024-12-22072222.png)
+<MISSING_FIG href="../books_images/U-IMG-1734879197Screenshot2024-12-22072222.png"/>
 
 ॐ नमो भगवते वासुदेवाय॥
 

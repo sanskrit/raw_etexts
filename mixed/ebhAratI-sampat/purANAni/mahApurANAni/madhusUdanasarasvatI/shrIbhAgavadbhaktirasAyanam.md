@@ -247,7 +247,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgzNTQwNjg0NDE
 
 **इति शम्।**
 
-**![](../books_images/U-IMG-1733552141image_2024-12-07_114540304.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1733552141image_2024-12-07_114540304.png"/>**
 
 [TABLE]
 
@@ -383,13 +383,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgzNTQwNjg0NDE
 |                          १३२                           | ग्रन्थस्योपसंहारः              |
 | **ग्रन्थान्ते सौकर्थार्थं पार्थक्येन मूलकारिकापाठश्च** |                                |
 
-![](../books_images/U-IMG-1733557500image_2024-12-07_131458616.png)
+<MISSING_FIG href="../books_images/U-IMG-1733557500image_2024-12-07_131458616.png"/>
 
 सटीकम्
 
 **भक्तिरसायनम्।**
 
-![](../books_images/U-IMG-17336522121124.PNG)
+<MISSING_FIG href="../books_images/U-IMG-17336522121124.PNG"/>
 
 भक्तिसामान्यनिरूपणनामकः
 
@@ -3450,7 +3450,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgzNTQwNjg0NDE
 
 इति श्रीमन्माध्वसंप्रदायाचार्यदार्शनिकसार्वभौमसाहित्यदर्शमाद्याचार्यतर्करत्नन्यायरत्नगोस्वामिश्रीदामोदरशास्त्रिविरचितायां भक्तिरसायनव्याख्यायां प्रेमप्रपायां भक्तिविशेषप्रतिपादको नाम द्वितीयोल्लासः
 
-![](../books_images/U-IMG-1734108494Screenshot2024-12-13221726.png)
+<MISSING_FIG href="../books_images/U-IMG-1734108494Screenshot2024-12-13221726.png"/>
 
 **अथ श्रीमधुसूदनसरस्वतीविरचितभक्तिरसायनस्य**  
 **प्रेमप्रपासहितो—  
@@ -4333,11 +4333,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgzNTQwNjg0NDE
 इति श्रीमन्माध्वसंप्रदायाचार्य्यदार्शनिकसार्वभौमसाहित्यदर्शनाद्याचार्यतर्करत्नन्यायरत्नगोस्वामिश्रीदामोदरशास्त्रि-  
 विरचितायां भगवद्भक्तिरसायन व्याख्यायां प्रेमप्रपायां भक्तिरसप्रतिपादको नाम तृतीयोल्लासः। निबन्धश्च समाप्तः॥
 
-![](../books_images/U-IMG-1734704821SANSKRIT.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1734704821SANSKRIT.jpg"/>
 
 **भक्तिरसायनम्।**
 
-![](../books_images/U-IMG-1734705283SSANSKRIT.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1734705283SSANSKRIT.jpg"/>
 
 **भक्तिसामान्यनिरूपणनामकः**  
 **प्रथम उल्लासः।**
@@ -4422,7 +4422,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgzNTQwNjg0NDE
 इति श्री परमहंसपरिब्राजकाचार्य्यश्रीमधुसूदनसरस्वतीविरचिते भगवद्भक्तिरसायनोस्वरूपभूमिकासाधनसहितभक्तिसामान्यनिरूपणं नाम  
 प्रथम उल्लासः समाप्तः॥
 
-![](../books_images/U-IMG-1734287736Screenshot2024-12-16000520.png)
+<MISSING_FIG href="../books_images/U-IMG-1734287736Screenshot2024-12-16000520.png"/>
 
 **भक्तिविशेषप्रतिपादको-**
 
@@ -4597,7 +4597,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgzNTQwNjg0NDE
 
 इति श्रीपरमहंसपरिव्राजकाचार्य्यश्रीमधुसूदनसरस्वतीविरचिते भगवद्भक्तिरसायने भक्तिविशेषप्रतिपादको नाम द्वितीयोल्लासः
 
-![](../books_images/U-IMG-1734286766Screenshot2024-12-15234910.png)
+<MISSING_FIG href="../books_images/U-IMG-1734286766Screenshot2024-12-15234910.png"/>
 
 **भक्तिरसप्रतिपादकः**
 
