@@ -13,7 +13,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk3ODA1MzQzNTQ
 
 \[
 
+
+
+
+
 अनसूयास्तोत्रम्
+
+
 
 पतिव्रताशिरोरत्नभूता सुंदरविग्रहा।  
 सुचरित्रा दिव्यतेजा सर्वलोकनमस्कृता॥१॥
@@ -34,5 +40,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk3ODA1MzQzNTQ
 तस्य धर्मे रुचिर्दत्ते भक्तिमुक्ति क्रमाद्भवेत्॥६॥
 
 इति श्री प. प. श्रीवासुदेवानन्दसरस्वतीविरचितम् अनसूयास्तोत्रं संपूर्णम्॥
+
+
+
+
+
 
 \]

@@ -16,10 +16,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEzODA0MjAzMzU
 
 \[
 
-![](../books_images/U-IMG-1724147187Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1724147187Capture.JPG"/>
 
 **पूजासमुच्चयस्थविषयानुक्रमणिका।  
-![](../books_images/U-IMG-1724178275Capture4.JPG)**
+<MISSING_FIG href="../books_images/U-IMG-1724178275Capture4.JPG"/>**
 
 |     |                           |     |                        |     |                   |
 |-----|:-------------------------:|-----|:----------------------:|-----|:-----------------:|
@@ -82,9 +82,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEzODA0MjAzMzU
 |      प्राणप्रतिष्ठा      |                 |                        |
 
 **समाप्तेयं पूजासमुच्चयानुक्रमणिका।  
-![](../books_images/U-IMG-1724177894Capture3.JPG)**
+<MISSING_FIG href="../books_images/U-IMG-1724177894Capture3.JPG"/>**
 
-![](../books_images/U-IMG-1724175529Capture2.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1724175529Capture2.JPG"/>
 
 ॥विद्वदभ्यर्थनम्॥
 
@@ -1507,6 +1507,6 @@ Published by Pandurang Jawaji, Proprietor of the Nirnaya-Sagar Press, 23,
 Kolbhat Lane,Bombay.  
 Printed by Ramchandra Yesu Shedge, Nirnaya-Sagar Press, 23, Kolbhat Lane, Bombay.
 
-![](../books_images/U-IMG-1725429733Screenshot_4-9-2024_113142_www.ebharatisampat.in.jpeg)
+<MISSING_FIG href="../books_images/U-IMG-1725429733Screenshot_4-9-2024_113142_www.ebharatisampat.in.jpeg"/>
 
 \]

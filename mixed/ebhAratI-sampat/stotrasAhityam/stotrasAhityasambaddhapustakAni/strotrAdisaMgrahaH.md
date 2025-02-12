@@ -31,7 +31,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 **प्रकाशकाचें निवेदन**
 
-![](../books_images/U-IMG-1723831802Screenshot2024-08-16233934.png)
+<MISSING_FIG href="../books_images/U-IMG-1723831802Screenshot2024-08-16233934.png"/>
 
 मालाकमण्डलुरधःकरपद्मयुग्मे। मध्यस्थपाणियुगले डमरुत्रिशूले।  
 यस्यस्त ऊर्ध्वकरयोः शुभशंखचक्रे। ध्यायेत्तमत्रिवरदं भुजषट्कयुक्तम्॥१॥
@@ -72,7 +72,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 **प्रस्तावना**  
 
-**![](../books_images/U-IMG-1724352557Screenshot2024-08-17190112.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724352557Screenshot2024-08-17190112.png"/>**
 
 स्मृतोऽप्यवति यो विघ्नं निघ्नन्नम्बासुतः स्तुतः।  
 गन्धर्वस्थः स हि कलौ मलौघघ्नोऽस्तु मे हृदि॥१॥ (गुरु वासुदेव)
@@ -120,7 +120,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 अनुक्रमणिका  
-![](../books_images/U-IMG-1723901502Screenshot2024-08-17190112.png)
+<MISSING_FIG href="../books_images/U-IMG-1723901502Screenshot2024-08-17190112.png"/>
 
 |      |                                 |      |                                  |
 |:----:|:-------------------------------:|:----:|:--------------------------------:|
@@ -335,11 +335,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 श्री. प. प. श्रीवासुदेवानंदसरस्वतीटेंबेस्वामिमहाराज
 
-![](../books_images/U-IMG-1724513368Screenshot2024-08-24205843.png)
+<MISSING_FIG href="../books_images/U-IMG-1724513368Screenshot2024-08-24205843.png"/>
 
 जन्म-शके १७७६ श्रावण वद्य ५. समाधि-शके १८३६ आषाढ शुद्ध १
 
-![](../books_images/U-IMG-1724513006Screenshot2024-08-24205044.png)
+<MISSING_FIG href="../books_images/U-IMG-1724513006Screenshot2024-08-24205044.png"/>
 
 मालाकमण्डलुरधःकरपद्मयुग्मे  
 मध्यस्थपाणियुगले डमरुत्रिशूले।  
@@ -347,7 +347,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 वन्दे तमत्रिवरदं भुजषट्कयुक्तम्॥१॥
 
 **श्रीगणेशस्तोत्राणि**  
-![](../books_images/U-IMG-1724085536Screenshot2024-08-19220732.png)
+<MISSING_FIG href="../books_images/U-IMG-1724085536Screenshot2024-08-19220732.png"/>
 
 १. श्रीविनायकस्तोत्रम्
 
@@ -2488,7 +2488,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीवासुदेवानंदसरस्वतीविरचितं श्रीनर्मदास्तोत्रं संपूर्णम्॥
 
-![](../books_images/U-IMG-1724146272Screenshot2024-07-17202331.png)
+<MISSING_FIG href="../books_images/U-IMG-1724146272Screenshot2024-07-17202331.png"/>
 
 **६० श्रीक्षिप्रात्रिकम्**
 
@@ -2687,7 +2687,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीवासुदेवानंदसरस्वतीविरचितं ज्ञानतीर्थषट्पदीस्तोत्रं संपूर्णम्॥
 
-**![](../books_images/U-IMG-1724217323Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724217323Screenshot2024-07-17202331.png"/>**
 
 **६८ सद्गुरुतीर्थस्तोत्रम्**
 
@@ -2714,7 +2714,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीवासुदेवानन्दसरस्वतीविरचितं सद्गुरुतीर्थस्तोत्रं संपूर्णम्॥
 
-![](../books_images/U-IMG-1724217580Screenshot2024-07-17202331.png)
+<MISSING_FIG href="../books_images/U-IMG-1724217580Screenshot2024-07-17202331.png"/>
 
 **६९ श्रीकृष्णालहरी**
 
@@ -2981,7 +2981,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीवासुदेवानन्दसरस्वतीविरचिता श्रीकृष्णालहरी संपूर्णा॥
 
-![](../books_images/U-IMG-1724220509Screenshot2024-07-17202331.png)
+<MISSING_FIG href="../books_images/U-IMG-1724220509Screenshot2024-07-17202331.png"/>
 
 **७० श्रीकृष्णापंचकस्तोत्रम्**
 
@@ -3012,7 +3012,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीवासुदेवानंदसरस्वतीविरचितं श्रीकृष्णापंचकं संपूर्णम्॥
 
-![](../books_images/U-IMG-1724221313Screenshot2024-07-17202331.png)
+<MISSING_FIG href="../books_images/U-IMG-1724221313Screenshot2024-07-17202331.png"/>
 
 **७१ श्रीकृष्णावेणीपंचगंगास्तोत्रम्**
 
@@ -3042,7 +3042,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीवासु. कृष्णापंचगंगास्तोत्रं संपूर्णम्॥
 
-![](../books_images/U-IMG-1724677669Screenshot2024-07-17202331.png)
+<MISSING_FIG href="../books_images/U-IMG-1724677669Screenshot2024-07-17202331.png"/>
 
 **७२ कृष्णापञ्चगङ्गासंगमस्तोत्रम्**
 
@@ -3261,7 +3261,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीवासुदेवानन्दसरस्वतीविरचितं श्रीमन्नृसिंहवाटिकाक्षेत्रवर्णनं संपूर्णम्॥
 
-**![](../books_images/U-IMG-1724686136Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724686136Screenshot2024-07-17202331.png"/>**
 
 **७६ सप्तपुरीस्तोत्रम्॥**
 
@@ -3294,28 +3294,28 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. वासुदेवानंदसरस्वतीविरचितं नृसिंहवाटिकान्वितसप्तपुरीस्तोत्रं संपूर्णम्॥
 
-![](../books_images/U-IMG-1724749386Screenshot2024-07-17202331.png)
+<MISSING_FIG href="../books_images/U-IMG-1724749386Screenshot2024-07-17202331.png"/>
 
 ७७ वेदगंगास्तुतिः
 
 वेदगंगे नमस्ते मे वेदगंगे भवत्यघम्।  
 हर तत्वं विधिश्रीशहरतत्वं प्रकाशय॥१॥
 
-![](../books_images/U-IMG-1724749499Screenshot2024-07-17202331.png)
+<MISSING_FIG href="../books_images/U-IMG-1724749499Screenshot2024-07-17202331.png"/>
 
 ७८ हिरण्यकेशीस्तुतिः
 
 हिरण्यकेशाः कमपाश्यमेद्य हिरण्यकेश्या यदृचोक्ततत्वम्।  
 आदित्यवर्णं तदवेक्षणार्हमादित्यवन्मां विदधातु शुद्धम्॥१॥
 
-![](../books_images/U-IMG-1724749550Screenshot2024-07-17202331.png)
+<MISSING_FIG href="../books_images/U-IMG-1724749550Screenshot2024-07-17202331.png"/>
 
 ७९ मलापहास्तुतिः
 
 मलापहा महासिंधुः सर्वजन्ममलापहा  
 हरतु त्रिविधं पापं तापं च त्रिविधं मम॥१॥
 
-![](../books_images/U-IMG-1724749584Screenshot2024-07-17202331.png)
+<MISSING_FIG href="../books_images/U-IMG-1724749584Screenshot2024-07-17202331.png"/>
 
 ८० घटप्रभास्तुतिः
 
@@ -3445,14 +3445,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 प्रांशुवेदगिरेः शीर्ष्णं निषेव्य ब्रह्मचर्यतः।  
 शिवमात्मानमिव यः पश्येत्स गतिमाप्नुयात्॥३॥
 
-![](../books_images/U-IMG-1724751597Screenshot2024-07-17202331.png)
+<MISSING_FIG href="../books_images/U-IMG-1724751597Screenshot2024-07-17202331.png"/>
 
 **९० पिनाकिनीस्तुतिः**
 
 कांच्यामवाच्यामघहृद्धुनी यास्ति पयस्विनी।  
 वाराही दक्षिणा चापि पुनात्वस्मान् पिनाकिनी॥१॥
 
-![](../books_images/U-IMG-1724751646Screenshot2024-07-17202331.png)
+<MISSING_FIG href="../books_images/U-IMG-1724751646Screenshot2024-07-17202331.png"/>
 
 **९१अरुणाचलस्तुतिः**
 
@@ -3477,7 +3477,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 **याधिमासवशाच्चैत्र्यां कृतक्षौरस्य मेऽल्पका।  
 स्नापनाय क्षणाद्वृद्धा सा ह्यासेव्या पिनाकिनी॥७॥**
 
-**![](../books_images/U-IMG-1724753298Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724753298Screenshot2024-07-17202331.png"/>**
 
 **९२ चिदम्बरस्तुतिः**
 
@@ -3493,7 +3493,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 **पायादम्बरलिंगं नो यच्चिदम्बरनामकम्।  
 शेषशायिप्रभृतिपुंदोषहारिसुरावृतम्॥४॥**
 
-**![](../books_images/U-IMG-1724753383Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724753383Screenshot2024-07-17202331.png"/>**
 
 **९३ कावेरीस्तुतिः**
 
@@ -3535,7 +3535,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 दीक्षा गृहीताजगरी गरीयसी यद्रोधसि श्रीगुरुणारुणाभसा।  
 कायाधवायापि मुदर्पितास्तुवन् कावेरिकां तां खलु वासुदेवः॥९॥
 
-![](../books_images/U-IMG-1724814011Screenshot2024-07-17202331.png)
+<MISSING_FIG href="../books_images/U-IMG-1724814011Screenshot2024-07-17202331.png"/>
 
 वेदान्तस्तोत्राणि
 
@@ -3570,7 +3570,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीवासुदेवानन्दसरस्वतीविरचितं वेदांतपररामायणं संपूर्णम्॥
 
-![](../books_images/U-IMG-1724823266Screenshot2024-07-17202331.png)
+<MISSING_FIG href="../books_images/U-IMG-1724823266Screenshot2024-07-17202331.png"/>
 
 **९५ वेदांतपरभागवतम्**
 
@@ -3606,7 +3606,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 **भवार्तिहृद् भागवतं स नूनं भवभर्जकः॥**
 
-**![](../books_images/U-IMG-1724823684Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724823684Screenshot2024-07-17202331.png"/>**
 
 **९६ वेदांतपरत्रिवेणी॥**
 
@@ -3627,7 +3627,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीवासुदेवानन्दसरस्वतीविरचिता वेदान्तत्रिवेणी संपूर्णा॥
 
-![](../books_images/U-IMG-1724824119Screenshot2024-07-17202331.png)
+<MISSING_FIG href="../books_images/U-IMG-1724824119Screenshot2024-07-17202331.png"/>
 
 **९७ मानसपूजा**
 
@@ -3742,7 +3742,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीवासुदेवानन्दसरस्वतीविरचिता आत्मपूजा संपूर्णा॥
 
-**![](../books_images/U-IMG-1724825603Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724825603Screenshot2024-07-17202331.png"/>**
 
 **९८ ब्रह्मसूत्रम्**
 
@@ -3778,7 +3778,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीवासुदेवानन्दसरस्वतिविरचिंत ब्रह्मसूत्रं संपूर्णम्॥
 
-**![](../books_images/U-IMG-1724826716Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724826716Screenshot2024-07-17202331.png"/>**
 
 **९९ षट्पञ्चाशिका**
 
@@ -4035,7 +4035,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीवासुदेवानन्दसरस्वतीविरचितं मंत्रगर्भश्रीदत्तात्रेयाष्टोत्तरशतनामस्तोत्रं संपूर्णम्॥
 
-**![](../books_images/U-IMG-1724855582Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724855582Screenshot2024-07-17202331.png"/>**
 
 **१०१ श्रीदत्तात्रेयप्रार्थनास्तोत्रम्॥**
 
@@ -4090,7 +4090,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 **इति श्री. प. प. श्रीवासुदेवानंदसरस्वतीविरचितं श्रीदत्तात्रेयस्तोत्रं संपूर्णम्॥**
 
-**![](../books_images/U-IMG-1724856397Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724856397Screenshot2024-07-17202331.png"/>**
 
 **१०३ श्रीदत्तस्तोत्रम्**
 
@@ -4114,7 +4114,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीवासुदेवानंदसरस्वतीविरचिंत श्रीदत्तात्रेयस्तोत्रं संपूर्णम्॥
 
-**![](../books_images/U-IMG-1724857634Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724857634Screenshot2024-07-17202331.png"/>**
 
 **१०४ औदुंबर-पादुकास्तोत्रम्**
 
@@ -4260,7 +4260,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीवासुदेवानन्दसरस्वतीविरचितं दत्तपादुकाष्टकं संपूर्णम्॥
 
-**![](../books_images/U-IMG-1724909157Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724909157Screenshot2024-07-17202331.png"/>**
 
 **१०९ श्रीदत्तात्रेयस्तोत्रम्**
 
@@ -4290,7 +4290,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. वासुदेवानंदसरस्वतीविरचितं दत्तात्रेयस्तोत्रम्॥
 
-**![](../books_images/U-IMG-1724909816Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724909816Screenshot2024-07-17202331.png"/>**
 
 **११० अद्वैतमालामन्त्रः**
 
@@ -4319,7 +4319,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्रीवासुदेवानंदसरस्वतीविरचिताद्वैतमालामन्त्रः॥
 
-**![](../books_images/U-IMG-1724911334Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724911334Screenshot2024-07-17202331.png"/>**
 
 **१११ अद्वैतं दत्तात्रेयवर्मस्तोत्रम्**
 
@@ -4376,7 +4376,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीवासुदेवानंदसरस्वतीविरचितं श्रीदत्तात्रेयवर्माख्यकवचं संपूर्णम् ॥
 
-**![](../books_images/U-IMG-1724912493Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724912493Screenshot2024-07-17202331.png"/>**
 
 **११२ श्रीदत्तप्रार्थनातारावली**
 
@@ -4480,7 +4480,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीवासुदेवानंदसरस्वतीविरचिता प्रार्थनातारावली संपूर्णा॥
 
-**![](../books_images/U-IMG-1724917717Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724917717Screenshot2024-07-17202331.png"/>**
 
 **११३ नक्षत्रमालिकास्तोत्रम्**
 
@@ -4573,7 +4573,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीवासुदेवानंदसरस्वतीविरचिता नक्षत्रमालिका संपूर्णा॥
 
-**![](../books_images/U-IMG-1724919747Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724919747Screenshot2024-07-17202331.png"/>**
 
 **११४ श्रीदत्तभावसुधारसस्तोत्रम्**
 
@@ -4920,7 +4920,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीबासुदेवानंदसरस्वतीविरचितं श्रीदत्तभावसुधारसस्तोत्रं संपूर्णम्॥
 
-**![](../books_images/U-IMG-1724855986Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724855986Screenshot2024-07-17202331.png"/>**
 
 ११५ प्रार्थनास्तोत्रम्
 
@@ -4968,7 +4968,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीवासुदेवानंदसरस्वतीविरचितं श्रीदत्तात्रेयप्रार्थनास्तोत्रं संपूर्णम्॥
 
-**![](../books_images/U-IMG-1724858097Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724858097Screenshot2024-07-17202331.png"/>**
 
 **११६ आयुराजकृतदत्तात्रेयस्तोत्रं चंपूस्थम्॥**
 
@@ -5012,7 +5012,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीवासुदेवानन्दसरस्वतीविरचितं श्रीदत्तप्रार्थनास्तोत्रं संपूर्णम्॥
 
-**![](../books_images/U-IMG-1724859123Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724859123Screenshot2024-07-17202331.png"/>**
 
 **११८ श्रीदत्तप्रतिष्ठास्तोत्रम्**
 
@@ -5030,7 +5030,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीवासुदेवानन्दसरस्वतीविरचितं श्रीदत्तप्रतिष्ठास्तोत्रं संपूर्णम्॥
 
-**![](../books_images/U-IMG-1724859946Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724859946Screenshot2024-07-17202331.png"/>**
 
 **११९ श्रीदत्तात्रेयस्तोत्रम्॥**
 
@@ -5048,7 +5048,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. श्रीवासुदेवानंदसरस्वतीविरचितं श्रीदत्तात्रेयस्तोत्रं संपूर्णम्॥
 
-**![](../books_images/U-IMG-1724859882Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724859882Screenshot2024-07-17202331.png"/>**
 
 **१२० श्रीदत्तात्रेयस्तोत्रम्**
 
@@ -5199,7 +5199,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 केन चाद्य सोऽनवद्य कुत्र परिहृतः॥(चाल)॥त्वरया परया घृणया  
 दर्शय तं दत्त सुतं भगवंतं त्वार्चये विभो॥२॥अत्रिपुत्र०॥
 
-![](../books_images/U-IMG-1724911744Screenshot2024-07-17202331.png)
+<MISSING_FIG href="../books_images/U-IMG-1724911744Screenshot2024-07-17202331.png"/>
 
 **१२५ पद्यम्** (चाल-साध्य नसे मुनि कन्या०)
 
@@ -5213,7 +5213,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 अभ्यासहताऽविद्या ये तानर्चत नित्यं हि यतः॥  
 यदि ते कुपिता अप्यतिशान्ता शान्ति मानातीताः॥३॥
 
-![](../books_images/U-IMG-1724911807Screenshot2024-07-17202331.png)
+<MISSING_FIG href="../books_images/U-IMG-1724911807Screenshot2024-07-17202331.png"/>
 
 **१२६ नरसिंहसरस्वतीस्तोत्रम्**
 
@@ -5606,7 +5606,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री. प. प. वासुदेवानंदसरस्वतीविरचिता श्रीदत्तपुराणान्तर्गतवेदपादस्तुतिः संपूर्णा॥
 
-**![](../books_images/U-IMG-1724846410Screenshot2024-07-17202331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724846410Screenshot2024-07-17202331.png"/>**
 
 **१३३ मंत्रात्मकश्लोकाः॥**
 
@@ -9538,7 +9538,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
  जय जय बाले बालेंदुद्योतितभाले। भालेंद्वनुमितलीले पाह्यस्मान् विमले॥ध्रु०॥ सृष्टिस्थितिलयलीले स्वाश्रितजनपाले। समस्तमंगलमूले खलदानवकाले। नीराजयामि ते पदकमले विमले। प्रालेयाचलबाले बाले शुभलीले॥१॥ कृतिजनमानसहंसे कृतदुष्टध्वंसे। वारितभक्तत्रासे मंदस्मितहासे। मुनिजनमानसवासे मुक्ताभातनसे। आस्तिकजनविश्वासे चागमनिश्वासे॥२॥वेदशिरोगीते त्रिपुरसंदरी ललिते। त्रिबीजमंत्राराधितपीठे देवनुते। यतिवासुदेवनमिते निजजनकल्पलते। विद्याधिराजदयिते मयि तेऽस्तु दृगार्ते॥३॥
 
-![](../books_images/U-IMG-1724247842SNSKRIT.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1724247842SNSKRIT.jpg"/>
 
 **१७४ आरती लक्ष्मीची**
 
@@ -9546,7 +9546,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
  आरति करुं विष्णुपत्नि क्षीरसिंधुजे। करविरपुरिं रुचिरगात्र देखुनी तुझें॥ध्रु०॥ सुंदर तव मंदिर चव दे मदीक्षणीं। बहु जंव जंवपाहुं तंव तंव जे क्षणोक्षणीं॥ दिसे अभिनव पिसे होति भव देखुनी झणीं। सार जणूं देवकारागिरि लवमात्र ना उणी॥चाल॥ तेथें मोठें गोमटें रूप तुझें पाहुनि माझें स्वांत मजेदार हेंसाजे॥ आरति०॥१॥ मस्तकिं भगलिंग नाग चांग विलसती। खेटगदामातुलिंगपात्र शोभती॥चारि करीं दीप्ति बरी लाजवी खरी। चंद्राइना चंद्र मना भुलविहे हरी॥चाल॥ रमणी हरिणी चिमणी वासुदेवि कुलदेवी महादेवि तारि अब्धिजे॥ आरति करुं०॥२॥
 
-![](../books_images/U-IMG-1724247880SNSKRIT.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1724247880SNSKRIT.jpg"/>
 
 **१७५ आरती यक्षिणीची**
 
@@ -9696,13 +9696,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 शेखर रुचिरदशकरा। तारा माराऽपहरा भय हरुनी कर धरुनी वर करुनी मज परावरा॥१॥ गंगाधर उरगहार अहिपरिष्करा॥ चर्मांबर गांगनीरपूरसच्छिरा॥ पंचवक्त्र भो त्रिनेत्र पार्वतीवरा॥ काशीपुरकृतविहार तारकेश्वरा॥ रुद्रा निद्रा तंद्रा–परिहरुनी निजभजनीं स्थिर करुनी ठेविं मम हरा॥ व्योमकेश०॥२॥ सर्वोत्तम मोक्षधाम तूंचि पशुपती॥ शिवाधवा वासुदेवा देयिं सन्मती॥ मंद अज्ञ अलस मी कसि करूं स्तुती॥ स्तवुनि वेद पाउनि खेद शेखिं करिन्ती॥ तेव्हां शर्वा सर्वा अविषयचि अससि हेंचि जाणुनि साचि नति करूं वरा॥ व्योमकेश०॥३॥
 
-![](../books_images/U-IMG-1724423113SNSKRIT.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1724423113SNSKRIT.jpg"/>
 
 **१८५ आरती महादेवाची**
 
  जय जगदीश्वर शंकर हर गौरीवर भो। नीराजये पदं तव भवदवदव शंभो॥ध्रु०॥ देव यद् जगदुद्भवशेषे शक्तिधव। सदसद्यदा सदाशिव न न चोभयमे भव॥ कारकशास्त्राद्यपि भव नो न च कालजव। आकृष्य सर्वमेव त्वं च सीदेव॥१॥ स त्वं पर्यालोचक एतस्यास्येकः॥ उत्पत्तिस्थित्यंतक ईशकृतालोकः॥ अव्यक्तजीवमूलक आविष्टात्रिकः॥ अंतर्यामी पालक आसेवितनाकः॥२॥ पंचमुखो दशहस्तो मस्तकधृतसोमः॥ सोमार्यमाग्निनेत्रस्त्वहिसूत्रः सोमः॥ सोमादियज्ञभोक्ताऽवितसाधुस्तोमः॥ सोमव्रतप्रियोऽवतु निजहृद्वासोमः॥३॥ ज्येष्ठं सद्गुरुपीठं साधिष्ठं गोष्ठं॥ श्रितपूर्वोत्तरकाष्ठं सर्वजनश्रेष्ठं॥ आश्रितनंदिकपृष्टं श्रेष्ठं शितिकंठं। अहिभूषितप्रकोष्ठं वंदे बिंबोष्ठं॥४॥ हतमायश्रितगेयं निहतेच्छापायं॥ सत्पदवीगविधेयं दर्शितमुपायं॥ भक्त्यादेयममेयं निर्जितदैतेयं॥ नीराजयेष्टकायं गणेशसुतगेयं॥५॥
 
-![](../books_images/U-IMG-1724423770SNSKRIT.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1724423770SNSKRIT.jpg"/>
 
 **१८६ आरती श्रीविष्णूची**
 
@@ -9984,7 +9984,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 इति श्री० प० प० श्रीवासुदेवानन्दसरस्वतीविरचितं वेदान्तपरनीराजनं संपूर्णम्॥
 
-![](../books_images/U-IMG-1724398906SNSKRIT.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1724398906SNSKRIT.jpg"/>
 
 २०८ आरती भोजनपात्राची
 
@@ -10050,6 +10050,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 **भामिनीषट्पदी** (कर्नाटक वृत्त)
 
+ 
+
 निर्गुणात्मक विश्वव्यापक। कलिमलांतक कालकंटक।धन्य सद्गुरु भक्तवत्सल दत्त अवधूता। सगुण होउनि पूर्ण करिशी। भक्तवांछा विमलतेजाऽऽ–। नंदमूर्ते नमः श्रीगुरुदत्त अवधूता॥१॥
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -10091,7 +10093,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 गुरो तुझी ही पदवारिधारा, धुवो सदा कायिक दोष सारा।  
 सदैव माझें मन वाणि शुद्ध करो, तुझें नाम पवित्र सिद्ध॥१॥
 
-![](../books_images/U-IMG-1724399181SNSKRIT.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1724399181SNSKRIT.jpg"/>
 
 **२१३ श्रीदत्तप्रार्थना (**कामदा छन्द**)**
 
@@ -11867,6 +11869,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 
 **३७४ पद** (चाल-मन रामीं मनारत ०)
 
+ 
+
 दत्तपदीं रत होयिंनरा। नत होयिं परामृत घेयिं बरादर देयिदा॥ध्रृ०॥ ए. बी. सी. डी हे मुक्तिसिडी नहे पटु नको भ्रमुं तूं नरा फसशील बरा एन् ओ ये घरा॥१॥ जरी तूं कां बी. ए. एल्. एल्. बी पास होसी जरी तरी तुज थारा नच देयि धरा॥२॥ग्रेट इंडिन् भाषण दारुण। वासुदेव भिवुन बरा म्हणे लोक करुनि त्वरा गुरुपाद धरा॥३॥
 
 \_\_\_\_\_\_\_\_\_\_
@@ -11900,6 +11904,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 \_\_\_\_\_\_\_\_\_\_
 
 **३७९ पद** (चाल-उठीं उठीं बा गोपाला ०) भूपाली.
+
+ 
 
 जीवें भावें श्री दत्ता ध्या। हेंचि वेद वदे संध्या॥ हे विज्ञाना प्रसवे सध्या। वंध्या लौकिकसंध्या ते॥१॥ उपनिषत्सारज्ञाते। हो भजा ह्या संध्येतें॥ इणें लाभेल हो तुम्हांतें। सुख तरती इणें ध्याते॥ध्रु०॥करूमी मानसिकस्नान।करा मायावरणाचमन॥ मनें द्वैतेंमार्जन करून। पापपुण्य ब्रह्मीं द्या तें॥ उपनिषत्सार०॥२॥ भुरादिलोक सलोक।ओंकारस्वरूपीं देख॥प्राणायामीं ठरवितां ऐक। ब्रह्ममय होती ध्याते॥ उपनिषत्
 
@@ -12051,6 +12057,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 \_\_\_\_\_\_\_\_\_
 
 ३९४ भजन
+
+ 
 
 अहो या दत्तात्रेया। पायां पडतों गुरुराया॥ध्रु०॥ हराया यतिराया। माया दुस्तर मुनिवर्या॥१॥कराया योगिध्येया। गेया भजकावरती दया॥२॥
 
@@ -12213,6 +12221,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 \_\_\_\_\_\_\_\_\_\_\_
 
 ४०६ चित्तसद्बोधनक्षत्रमाला
+
+ 
 
 कुसंगाश्रयें बा स्वयें आत्मघात। तुवां सत्य केला कुशीला खचीत॥अधःपात येईल मत्ता स्वचित्ता। त्वरें आदरें तूं स्मरे नित्य दत्ता॥१॥भला लाधला हा तुला श्रेष्ठ देह। परी ठेविला व्यर्थ तूं येथ मोह॥अहंकारयोगें घडे घात चित्ता॥ त्वरें आदरें तूं स्मरे नित्य दत्ता॥२॥अहंकारयोगें घडे कर्तृतादि। अहंकारयोगें घडे भोक्तृतादि॥ अहंकारयोगें ममत्वादि चिंत्ता। त्वरें आदरें तूं स्मरे नित्य दत्ता॥३॥ अहंकार हा आत्माहा खालिं नेतो॥अहंकार हा ज्ञानहा ऊर्ध्व नेतो॥ अहंकार सोडूनि दे शीघ्र चित्ता। त्वरें आदरें तूं स्मरे नित्य दत्ता॥४॥ अहंकारयोगें घडे कोप ताप। अहंकारयोगें घडे पापलेप॥ अहंकारयोगें जगीं घात चित्ता॥ त्वरें आदरें तूं स्मरें नित्य दत्ता॥५॥ अहंकार हा धर्महा शत्रु आहे॥अहंकार हा पापहा मित्र आहे॥ अहंकार सात्वीक हो मित्र चित्ता। त्वरें आदरें तूं स्मरें नित्य दत्ता॥६॥ अहंकार हा बोलिजे त्रिप्रकार। अहंकार हा बंध दे द्विप्रकार॥ तयाचा करी तूं प्रतीकार चित्ता। त्वरें आदरें तूं स्मरे नित्य दत्ता॥७॥ शरीरादिकीं जो अहंकार थोर। अती घोर तोची तमाचा विकार॥भ्रमालस्यतंद्रादि दे तोचि चित्ता। त्वरें आदरें तूं स्मरे नित्य दत्ता॥७॥सदा क्रोधलोभप्रयत्नादि दे जो। सदा पातकोत्पत्ति येथें करी जो॥ तयाराजसा सर्वथा सोडि चित्ता। त्वरें आदरें तूं स्मरे नित्य दत्ता॥९॥तुला लाधलें हें भलें मुक्तिपर्व। परी अंतरीं तूं धरीसी कुगर्व॥तुझे षड्रिपू घातकी होति चित्ता॥ त्वरें आदरें तू स्मरे नित्य दत्ता॥१०॥ तुला खंडिती मुंडिती याम्य दूत। तुला दंडिती फाडिती होसि भूत॥प्रभूतश्रमें कष्टता कोण त्राता। त्वरें आदरें तूं स्मरे नित्य दत्ता॥११॥दुराशा धरूनी तुवांपाप केलें। तयाच्यानियोगें तुला जन्म आले॥असें पूढती पूढती होय चित्ता। त्वरें आदरें
 
@@ -12648,4 +12658,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTgyODEwNDU
 शमवी यज्जल षड्रिपुवेगा। ती हे अमृततरंगा॥२॥
 
 \]
-

@@ -13,7 +13,20 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg1OTk1MDQxOTI
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
 दत्तात्रेयस्तोत्रम् ( नारदपुराण )
+
 
 जटाधरं पांडुरांगं शूलहस्तं कृपानिधिम् ।  
 सर्वरोगहरं देवं दत्तात्रेयमहं भजे ॥ १॥  
@@ -58,5 +71,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg1OTk1MDQxOTI
 दत्तात्रेयप्रसादाच्च नारदेन प्रकीर्तितम् ॥ १८॥  
 ॥ इति श्रीनारदपुराणे नारदविरचितं  
            दत्तात्रेयस्तोत्रं सुसंपूर्णम् ॥
+
+
+
+
+
+
+
+
+
 
 \]

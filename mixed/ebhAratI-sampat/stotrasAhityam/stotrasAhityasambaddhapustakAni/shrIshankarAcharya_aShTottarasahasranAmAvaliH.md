@@ -12,6 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyNDgwMTY3NDI
 
 \[
 
+
+
 ॥ श्रीमत् शङ्करचार्य अष्टोत्तरसहस्रनामावलिः॥  
 ॐ गाढध्वान्तनिमज्जनप्रमुषितप्रज्ञानेत्रं परम्  
 नष्टप्रायमपास्तसर्वकरणं श्वासावशेषं जनम्।  
@@ -1043,5 +1045,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyNDgwMTY3NDI
 जय जय शङ्कर।  
 ॐ श्री ललिता महात्रिपुरसुन्दरी पराभट्टारिका समेताय  
 श्री चन्द्रमौलीश्वर परब्रह्मणे नमः।
+
 
 \]

@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgxMzYyNTEwODY
 
 \[
 
+
+
+
+
 **अथर्व-शिरोपनिषद्**
+
+
 
 ओं देवा ह वै स्वर्गलोकमायंस्ते रुद्रमपृच्छन् को भवानिति ।  
 सोऽब्रवीदहमेकः प्रथममासोद्वर्तामि च भविष्यामि च नान्यः कश्चिन्मत्तो व्यतिरिक्त इति ।  
@@ -121,5 +127,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgxMzYyNTEwODY
 **इत्यथर्ववेदे शिरौपनिषत्समाप्ता ॥ ४५**
 
 **-------------------------------------------**
+
 
 \]

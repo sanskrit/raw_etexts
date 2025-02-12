@@ -14,27 +14,27 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQyMjMxMTE3NTk
 
 \[
 
-![](../books_images/U-IMG-1725943225Screenshot2024-09-10100951.png)
+<MISSING_FIG href="../books_images/U-IMG-1725943225Screenshot2024-09-10100951.png"/>
 
-![](../books_images/U-IMG-1724732985CONTENT.png)
-
-[TABLE]
-
-![](../books_images/U-IMG-1724733120FL.png)  
-
-![](../books_images/U-IMG-1725943318Screenshot2024-09-10101126.png)
-
-![](../books_images/U-IMG-1724733250C.png)
+<MISSING_FIG href="../books_images/U-IMG-1724732985CONTENT.png"/>
 
 [TABLE]
 
-![](../books_images/U-IMG-17247334974.png)
+<MISSING_FIG href="../books_images/U-IMG-1724733120FL.png"/>  
+
+<MISSING_FIG href="../books_images/U-IMG-1725943318Screenshot2024-09-10101126.png"/>
+
+<MISSING_FIG href="../books_images/U-IMG-1724733250C.png"/>
+
+[TABLE]
+
+<MISSING_FIG href="../books_images/U-IMG-17247334974.png"/>
 
 **॥श्रीः॥**
 
 ॥ विषयानुक्रमणिका ॥
 
-![](../books_images/U-IMG-1725948056do.png)
+<MISSING_FIG href="../books_images/U-IMG-1725948056do.png"/>
 
 |                                                   |
 |---------------------------------------------------|
@@ -95,14 +95,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQyMjMxMTE3NTk
 | तादृश ब्रह्म पश्यतः अमृतत्वम्                                                  |
 | तादृशब्रह्मविषये स्वपरानुभवप्रदर्शनम्                                          |
 
-![](../books_images/U-IMG-1726907530ICON.png)  
+<MISSING_FIG href="../books_images/U-IMG-1726907530ICON.png"/>  
 
 \।\। श्रीः \।\।  
 
 **शांकरभाष्यस्थानां**  
 **विशेषविषयाणामनुक्रमणिका ॥**
 
-**![](../books_images/U-IMG-17248279047.png)**
+**<MISSING_FIG href="../books_images/U-IMG-17248279047.png"/>**
 
 |                                                                                                    |
 |:--------------------------------------------------------------------------------------------------:|
@@ -145,9 +145,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQyMjMxMTE3NTk
 |      मुमुक्षोः सर्वकर्मसंन्यासाधिकारः      |
 |                वेदशब्दार्थः                |
 
-![](../books_images/U-IMG-17248211786.png)
+<MISSING_FIG href="../books_images/U-IMG-17248211786.png"/>
 
-![](../books_images/U-IMG-17247503305.png)
+<MISSING_FIG href="../books_images/U-IMG-17247503305.png"/>
 
 ॥ श्रीः॥
 
@@ -157,7 +157,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQyMjMxMTE3NTk
 
 भाष्येण सहितम्।
 
-![](../books_images/U-IMG-1724310417DIV.png)
+<MISSING_FIG href="../books_images/U-IMG-1724310417DIV.png"/>
 
 सच्चिदानन्दरूपाय कृष्णायाक्लिष्टकारिणे।  
 नमो वेदान्तवेद्याय गुरवे बुद्धिसाक्षिणे॥१॥
@@ -962,6 +962,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQyMjMxMTE3NTk
 कर्णौ तत्र पिधातव्यौ गन्तव्यं वा ततोऽन्यतः॥
 
  ‘तस्माद्ब्रह्मैवाचार्यरूपेणावतिष्ठते' इति व्यासस्भृते       
+            
 
 वरं हुतवहज्वालापुञ्जस्यान्तर्व्यवस्थितिः।  
 न शौरिचिन्ताविमुखजनसंवासवैशसम्॥
@@ -1718,6 +1719,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQyMjMxMTE3NTk
 भूशयो भूषणो भूति–  
 र्विशोकः शोकनाशनः॥८०॥** 
 
+        
+
 सर्वभूतेभ्यः समुद्रिक्तत्वात् **उदीर्णः**। सर्वतः सर्वं स्वचैतन्येन पश्यतीति **सर्वतश्चक्षुः**, ‘विश्वतश्चक्षुः’इति श्रुतेः। न विद्यतेऽस्येश इति **अनीशः**,‘न तस्येशे कश्चन’इति श्रुतेः। शश्वद्भवन्नपि न विक्रियां कदाचिदुपैति इति **शाश्वतस्थिरः** इति नामैकम्। लङ्कां प्रति मार्गमन्वेषयन् सागरं प्रति भूमौ शेते इति **भूशयः**। स्वेच्छावतारैः बहुभिः भूमिं भूषयन् **भूषणः**। भूतिः भवनं सत्ता, विभूतिर्वा; सर्वविभूतीनां कारणत्वाद्वा **भूतिः**। विगतः शोकोऽस्य परमानन्दैकरूपत्वादिति **विशोकः**। स्मृतिमात्रेण भक्तानां शोकं नाशयतीति **शोकनाशनः**॥
 
 **अर्चिष्मानर्चितः कुम्भो  
@@ -2262,9 +2265,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQyMjMxMTE3NTk
 विष्णुसहस्रनामस्तोत्रभाष्यम्  
 संपूर्णम्॥
 
-![](../books_images/U-IMG-1725942899Screenshot2024-09-10100434.png)
+<MISSING_FIG href="../books_images/U-IMG-1725942899Screenshot2024-09-10100434.png"/>
 
-![](../books_images/U-IMG-1725943081Screenshot2024-09-10100617.png)
+<MISSING_FIG href="../books_images/U-IMG-1725943081Screenshot2024-09-10100617.png"/>
 
 ॥श्रीः॥
 
@@ -2273,13 +2276,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQyMjMxMTE3NTk
 श्रीमच्छंकरभगवत्पादविरचितेन  
 भाष्येण सहितम्।
 
-![](../books_images/U-IMG-172447930424.PNG)
+<MISSING_FIG href="../books_images/U-IMG-172447930424.PNG"/>
 
 नमः पुंसे पुराणाय पूर्णानन्दाय विष्णवे।  
 निरस्तनिखिलध्वान्ततेजसे विश्वहेतवे॥  
 नम आचार्येभ्यो ब्रह्मविद्यासंप्रदायकर्तृभ्यः॥
 
-![](../books_images/U-IMG-1724479523242.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1724479523242.PNG"/>
 
 नत्सुजातीयविवरणं
 
@@ -2859,19 +2862,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQyMjMxMTE3NTk
 
 इति श्रीमत्सनत्सुजातीये प्रथमोऽध्यायः॥
 
+ 
+
  द्वाराणि ब्रह्मलक्ष्मीप्रवेशद्वाराणि सम्यक्प्रवदन्ति सन्तः बहुप्रकाराणि दुराचराणि दुःखाचरणानि। कानि तानि ? सत्यार्जवे सत्यं यथार्थसंभाषणं भूतहितं च। आर्जवम् अकौटिल्यम्। ह्रीः अकार्यकरणे लज्जा। दमशौचविद्याः दमःअन्तःकरणोपरतिः। बहिःकरणोपरतिरिति केचित्। शौचं कल्मषप्रक्षालनम्। विद्या ब्रह्मविद्या। षट् एतानि मानमोहप्रतिबन्धकानि॥
 
 **इति सनत्सुजातीयभाष्ये प्रथमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-172467595926.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-172467595926.PNG"/>**
 
-![](../books_images/U-IMG-1724676841262.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1724676841262.PNG"/>
 
 **॥द्वितीयोऽध्यायः॥**
 
-![](../books_images/U-IMG-172433758822.PNG)  
+<MISSING_FIG href="../books_images/U-IMG-172433758822.PNG"/>  
 
-![](../books_images/U-IMG-1724337904222.PNG)यं मानस्यइत्यादिना मौनमाहात्म्यं प्रदर्शितं
+<MISSING_FIG href="../books_images/U-IMG-1724337904222.PNG"/>यं मानस्यइत्यादिना मौनमाहात्म्यं प्रदर्शितं
 
  श्रुत्वा प्राह धृतराष्ट्रः—
 
@@ -3311,15 +3316,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQyMjMxMTE3NTk
 
 इति सनत्सुजातीयभाष्ये द्वितीयोऽध्यायः॥
 
-![](../books_images/U-IMG-1724602990ोोो.png)
+<MISSING_FIG href="../books_images/U-IMG-1724602990ोोो.png"/>
 
-![](../books_images/U-IMG-1725942491Screenshot2024-09-10095742.png)
+<MISSING_FIG href="../books_images/U-IMG-1725942491Screenshot2024-09-10095742.png"/>
 
 **तृतीयोऽध्यायः ॥**
 
-![](../books_images/U-IMG-1724603720AAB.png)
+<MISSING_FIG href="../books_images/U-IMG-1724603720AAB.png"/>
 
- ![](../books_images/U-IMG-1724603989BBB.png)**दानीं** ब्रह्मचर्यादिसाधनानन्तरं तत्प्राप्यं च ब्रह्म प्रतिपादयितुं तृतीयचतुर्थावारभ्येते। तत्र तावद्ब्रह्मचर्यादि साधनं श्रुत्वा तद्ब्रह्मवेदनाकाङ्क्षी प्राह धृतराष्ट्रः—
+ <MISSING_FIG href="../books_images/U-IMG-1724603989BBB.png"/>**दानीं** ब्रह्मचर्यादिसाधनानन्तरं तत्प्राप्यं च ब्रह्म प्रतिपादयितुं तृतीयचतुर्थावारभ्येते। तत्र तावद्ब्रह्मचर्यादि साधनं श्रुत्वा तद्ब्रह्मवेदनाकाङ्क्षी प्राह धृतराष्ट्रः—
 
 धृतराष्ट्र उवाच—
 
@@ -3524,14 +3529,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQyMjMxMTE3NTk
 
 **इति श्रीसनत्सुजातीयभाष्ये तृतीयोऽध्यायः ॥**
 
-**![](../books_images/U-IMG-1724920899ेेे.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724920899ेेे.png"/>**
 
-![](#)![](../books_images/U-IMG-1724921056Screenshot2024-08-29141334.png)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1724921056Screenshot2024-08-29141334.png"/>
 
 **चतुर्थोऽध्यायः॥  
 —————**
 
-**![](../books_images/U-IMG-1724921585कु.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724921585कु.png"/>**
 
 **वारणीयं** तमसः परस्तात्' इत्यादिना ब्रह्मणो रूपं निर्धार्य 'तदात्मवित्पश्यंति ज्ञानयोगात्' इति ज्ञानयोगेनात्मदर्शनमुक्तम्। पुनरपि तस्य स्वरूपं दर्शयित्वा योगिनस्तद्रूपं पश्यन्तीत्याह—
 
@@ -3820,8 +3825,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQyMjMxMTE3NTk
 
 **इति श्रीमत्सनत्सुजातीयभाष्यं संपूर्णम्॥**
 
-![](../books_images/U-IMG-1724951162AAA.png)
+<MISSING_FIG href="../books_images/U-IMG-1724951162AAA.png"/>
 
-![](../books_images/U-IMG-1724485684lastpage.png)
+<MISSING_FIG href="../books_images/U-IMG-1724485684lastpage.png"/>
 
 \]

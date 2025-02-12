@@ -31,6 +31,7 @@ ed by these twin brothers. At last Ráma himself came to the scene of fight. He 
 ORIENTAL COLLEGE,  
    LAHORE,
 
+                                 
 **K. N. BHATNAGAR.**  
 
  *** January, 1934.***
@@ -67,7 +68,7 @@ ORIENTAL COLLEGE,
 
 **चन्द्रहास-कथा**
 
-![](../books_images/U-IMG-1723016213Screenshot2024-08-07130603.png)  
+<MISSING_FIG href="../books_images/U-IMG-1723016213Screenshot2024-08-07130603.png"/>  
 
 प्रथमोऽध्यायः
 

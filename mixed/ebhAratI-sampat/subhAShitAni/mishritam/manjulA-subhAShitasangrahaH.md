@@ -12,7 +12,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
 \[
 
+
+
+
+
+
+
 **मञ्जुला-सुभाषितसङ्ग्रहः**
+
+
 
  (1)
 
@@ -891,6 +899,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 धीमानधीतमपि न प्रतिसन्दधाति ॥
 
  प्रबोध. / 2 / 29
+
+
 
  (83)
 
@@ -2077,6 +2087,18 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 अलभ्यमिच्छन् नैष्कर्म्यान्मूढबुद्धिरिहोच्यते ॥
 
  महाभा / उद्योग / 33 / 38
+
+
+
+
+
+
+
+
+
+
+
+
 
  (201)
 
@@ -4028,6 +4050,26 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
  नीतिसतक / 65
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  (401)
 
 एको धर्मः परं श्रेयः,
@@ -5900,6 +5942,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
  (577)
 
+
+
 गुणाः गुणज्ञेषु गुणा भवन्ति,
 
  ते निर्गुणं प्राप्य भवन्ति दोषाः ।
@@ -6171,6 +6215,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 चन्दनं शीतलं लोके चन्दनादपि चन्द्रमाः ।
 
 चन्द्रचन्दनयोर्मध्ये शीतला साधुसङ्गतिः ॥
+
+
+
+
 
  (601)
 
@@ -8389,6 +8437,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 अनुरक्तं स्थिरारम्भं,
 
 लघुमित्रं प्रशस्यते ॥
+
+
+
+
+
+
+
+
 
  (801)
 
@@ -9138,6 +9194,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
  महाभा. / शान्ति. / 140 / 34
 
+
+
  (1)
 
 अकर्त्तव्येष्वसाध्वीव तृष्णा प्रेरयते जनम् ।
@@ -10015,6 +10073,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 धीमानधीतमपि न प्रतिसन्दधाति ॥
 
  प्रबोध. / 2 / 29
+
+
 
  (83)
 
@@ -11201,6 +11261,18 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 अलभ्यमिच्छन् नैष्कर्म्यान्मूढबुद्धिरिहोच्यते ॥
 
  महाभा / उद्योग / 33 / 38
+
+
+
+
+
+
+
+
+
+
+
+
 
  (201)
 
@@ -13152,6 +13224,26 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
  नीतिसतक / 65
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  (401)
 
 एको धर्मः परं श्रेयः,
@@ -15024,6 +15116,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
  (577)
 
+
+
 गुणाः गुणज्ञेषु गुणा भवन्ति,
 
  ते निर्गुणं प्राप्य भवन्ति दोषाः ।
@@ -15295,6 +15389,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 चन्दनं शीतलं लोके चन्दनादपि चन्द्रमाः ।
 
 चन्द्रचन्दनयोर्मध्ये शीतला साधुसङ्गतिः ॥
+
+
+
+
 
  (601)
 
@@ -17513,6 +17611,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 अनुरक्तं स्थिरारम्भं,
 
 लघुमित्रं प्रशस्यते ॥
+
+
+
+
+
+
+
+
 
  (801)
 
@@ -19778,6 +19884,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
  शांकरप्रश्नोत्तरी
 
+
+
+
+
  ( 1001)
 
 बन्धनानि खलु सन्ति बहूनि,
@@ -20117,6 +20227,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 भास्वानाक्रमते क्रमेण भगवानस्तं पुनर्गच्छति ।
 
 प्रातस्सायमिमं क्रमं प्रतिदिनं बध्नो निबध्नाति यत् ॥
+
+
 
 चन्द्रोऽ
 
@@ -21324,6 +21436,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
 यदन्येषां हितं न स्यादात्मनः कर्म पौरुषम् ।
 
+
+
 अपत्रपेत वा येन,
 
 न तत् कुर्यात् कथञ्चन ॥
@@ -21805,6 +21919,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 प्राणान्ते किं करिष्यति ॥
 
  चाणक्यनीति / 4 / 4
+
+
+
+
 
  (1201)
 
@@ -25846,6 +25964,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
  भोजप्रबन्ध / 214
 
+
+
 ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
 
 \]

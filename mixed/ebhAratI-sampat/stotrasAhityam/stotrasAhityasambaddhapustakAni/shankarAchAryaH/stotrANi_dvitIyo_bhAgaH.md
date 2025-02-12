@@ -14,13 +14,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 
 \[
 
-![](../books_images/U-IMG-1722158391Screenshot2024-07-28144651.png)
+<MISSING_FIG href="../books_images/U-IMG-1722158391Screenshot2024-07-28144651.png"/>
 
 [TABLE]
 
 [TABLE]
 
-![](../books_images/U-IMG-1724830761dsfsa.png)
+<MISSING_FIG href="../books_images/U-IMG-1724830761dsfsa.png"/>
 
 |                                  |
 |:--------------------------------:|
@@ -29,7 +29,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 |    **MISCELLANEOUS STOTRAS**     |
 | **LALITA TRISATISTOTRA BHASHYA** |
 
-![](../books_images/U-IMG-1724831015jjkkkk.png)
+<MISSING_FIG href="../books_images/U-IMG-1724831015jjkkkk.png"/>
 
 |                                |
 |:------------------------------:|
@@ -38,13 +38,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 |      **सकीर्णस्तोत्राणि**      |
 | **ललितात्रिशतीस्तोत्रभाष्यम्** |
 
-![](../books_images/U-IMG-1724831195कककककक.png)
+<MISSING_FIG href="../books_images/U-IMG-1724831195कककककक.png"/>
 
 **॥श्री॥**
 
 **॥विषयानुक्रमणिका॥**
 
-**![](../books_images/U-IMG-1722157258Screenshot2024-07-28143017.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722157258Screenshot2024-07-28143017.png"/>**
 
 |                               |
 |-------------------------------|
@@ -87,7 +87,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 | गुर्वष्टकम्                      |
 | काशीपञ्चकम्                      |
 
-![](../books_images/U-IMG-1724831315kkkkknnn.png)
+<MISSING_FIG href="../books_images/U-IMG-1724831315kkkkknnn.png"/>
 
 **॥ श्रीमहाविष्णु.॥ **
 
@@ -130,7 +130,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 **हनुमत्पञ्चरत्न सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722160916Screenshot2024-07-28152457.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722160916Screenshot2024-07-28152457.png"/>**
 
 **॥श्री॥**
 
@@ -289,12 +289,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 **श्रीरामभुजङ्गप्रयातस्तोत्रम्  
 सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722308706Screenshot2024-07-30083424.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722308706Screenshot2024-07-30083424.png"/>**
 
 **॥श्री॥  
 ॥लक्ष्मीनृसिंहपञ्चरत्नम्॥**
 
-**![](../books_images/U-IMG-1722164976Screenshot2024-07-28152457.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722164976Screenshot2024-07-28152457.png"/>**
 
 **त्वत्प्रभुजीवप्रियमिच्छसि चेन्नरहरिपूजा कुरु सतत  
   प्रतिबिम्बालकृतिधृतिकुशलो बिम्बालकृतिमातनुते।  
@@ -326,7 +326,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 **लक्ष्मीनृसिंहपञ्चरत्न सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722308842Screenshot(64).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722308842Screenshot(64"/>.png)**
 
 **॥श्री॥**
 
@@ -424,7 +424,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 लक्ष्मीनृसिंहकरुणारसस्तोत्र सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722171353Screenshot2024-07-28182510.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722171353Screenshot2024-07-28182510.png"/>**
 
 **॥श्री॥  
 ॥श्रीविष्णुभुजंगप्रयातस्तोत्रम्॥**
@@ -511,7 +511,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 
 **॥विष्णुपादादिकेशान्तस्तोत्रम्॥**
 
-**![](../books_images/U-IMG-1722310134Screenshot(66).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722310134Screenshot(66"/>.png)**
 
 **लक्ष्मीभर्तुर्भुजाग्रेकृतवसति सित यस्य रूप विशाल  
   नीलाद्रेस्तुङ्गशृङ्गस्थितमिव रजनीनाथबिम्ब विभाति।  
@@ -779,7 +779,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 **विष्णुपादादिकेशान्तस्तोत्र  
 सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722310545Screenshot(68).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722310545Screenshot(68"/>.png)**
 
 **॥श्री॥**
 
@@ -837,7 +837,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रामच्छकरभगवत कृतौ  
 **पाण्डुरङ्गाष्टक सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722233408Screenshot2024-07-29113926.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722233408Screenshot2024-07-29113926.png"/>**
 
 **॥श्री॥**
 
@@ -895,7 +895,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 अच्युताष्टक सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722238575Screenshot2024-07-29130532.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722238575Screenshot2024-07-29130532.png"/>**
 
 **॥श्री॥**
 
@@ -948,13 +948,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 **कृष्णाष्टक सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722239395Screenshot2024-07-29131914.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722239395Screenshot2024-07-29131914.png"/>**
 
 **॥श्री॥**
 
 **॥हरिस्तुतिः॥**
 
-**![](../books_images/U-IMG-1722239638Screenshot(63).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722239638Screenshot(63"/>.png)**
 
 **स्तोष्ये भक्त्या विष्णुमनादिं जगदादिं  
   यस्मिन्नेतत्ससृतिचक्र भ्रमतीत्थम्।  
@@ -1179,7 +1179,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 
 **॥गोविन्दाष्टकम्॥**
 
-**![](../books_images/U-IMG-1722263549Screenshot2024-07-29200151.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722263549Screenshot2024-07-29200151.png"/>**
 
 **सत्य ज्ञानमनन्त नित्यमनाकाश परमाकाश  
   गोष्ठप्राङ्गणरिङ्खणलालमनायासपरमायासम्।  
@@ -1231,12 +1231,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 गाविन्दाष्टक सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722264321Screenshot2024-07-29201434.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722264321Screenshot2024-07-29201434.png"/>**
 
 **॥श्रीः॥  
 ॥भगवन्मानसपूजा॥**
 
-**![](../books_images/U-IMG-1722264483Screenshot(63).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722264483Screenshot(63"/>.png)**
 
 **हृदम्भोजे कृष्ण सजलजलदश्यामलतनु  
   सरोजाक्ष स्रग्वी मकुटकटकाद्याभरणवान्।  
@@ -1297,7 +1297,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 
 **॥मोहमुद्गरः॥**
 
-**![](../books_images/U-IMG-1722270617Screenshot2024-07-29215936.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722270617Screenshot2024-07-29215936.png"/>**
 
 **भज गाविन्द भज गोविन्द  
   भज गोविन्द मूढमते।  
@@ -1460,7 +1460,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 
 **॥कनकधारास्तोत्रम्॥**
 
-**![](../books_images/U-IMG-1722311782Screenshot2024-07-30092543.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722311782Screenshot2024-07-30092543.png"/>**
 
 **अङ्ग हरे पुलकभूषणमाश्रयन्ती  
   भृङ्गाङ्गनेव मुकुलाभरण तमालम्।  
@@ -1556,13 +1556,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 वत्पूज्यपादशिष्यस्य श्रीमच्छकरभगवत कृतौ  
 **कनकधारास्तोत्र सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722312253Screenshot2024-07-30093324.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722312253Screenshot2024-07-30093324.png"/>**
 
 **॥श्री॥**
 
 **॥अन्नपूर्णाष्टकम्॥**
 
-**![](../books_images/U-IMG-1722313692Screenshot2024-07-30095714.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722313692Screenshot2024-07-30095714.png"/>**
 
 **नित्यानन्दकरी वराभयकरी सौन्दर्यरत्नाकरी  
   निर्धूताखिलदोषपावनकरी प्रत्यक्षमाहेश्वरी।  
@@ -1629,13 +1629,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 **अन्नपूर्णाष्टक सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722314038Screenshot2024-07-30100316.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722314038Screenshot2024-07-30100316.png"/>**
 
 **॥श्रीः॥**
 
 **॥मीनाक्षीपञ्चरत्नम्॥**
 
-**![](../books_images/U-IMG-1722331071Screenshot2024-07-30144712.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722331071Screenshot2024-07-30144712.png"/>**
 
 **उद्यद्भानुसहस्रकोटिसदृशा केयूरहारोज्ज्वला  
   बिम्बोष्ठीं स्मितदन्तपङ्क्तिरुचिरा पीताम्बरालकृताम्।  
@@ -1667,13 +1667,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 **मीनाक्षीपञ्चरत्न सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722331735Screenshot2024-07-30145814.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722331735Screenshot2024-07-30145814.png"/>**
 
 **॥श्री॥**
 
 **॥मीनाक्षीस्तोत्रम्॥**
 
-**![](../books_images/U-IMG-1722331844Screenshot2024-07-30145958.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722331844Screenshot2024-07-30145958.png"/>**
 
 **श्रीविद्ये शिववामभागनिलये श्रीराजराजार्चिते  
   श्रीनाथादिगुरुस्वरूपविभवे चिन्तामणीपीठिके।  
@@ -1719,13 +1719,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 वत्पूज्यपादशिष्यस्य श्रीमच्छकरभगवत कृतौ  
 **मीनाक्षीस्तोत्र सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722332123Screenshot2024-07-30150441.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722332123Screenshot2024-07-30150441.png"/>**
 
 **॥श्री॥**
 
 **॥दक्षिणामूर्तिस्तोत्रम्॥**
 
-![](../books_images/U-IMG-1722332255Screenshot2024-07-30150658.png)
+<MISSING_FIG href="../books_images/U-IMG-1722332255Screenshot2024-07-30150658.png"/>
 
 **उपासकाना यदुपासनीय  
   मुपात्तवास वटशाखिमूले।  
@@ -1828,7 +1828,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 
 **॥कालभैरवाष्टकम्॥**
 
-**![](../books_images/U-IMG-1722437718Screenshot2024-07-31202438.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722437718Screenshot2024-07-31202438.png"/>**
 
 **देवराजसेव्यमानपावनाङ्घ्रिपङ्कज  
   व्यालयज्ञसूत्रबिन्दुशेखर कृपाकरम्।  
@@ -1880,13 +1880,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ**  
 **कालभैरवाष्टक सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722439129Screenshot2024-07-31204800.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722439129Screenshot2024-07-31204800.png"/>**
 
 **॥श्री॥**
 
 **॥नर्मदाष्टकम्॥**
 
-![](../books_images/U-IMG-1722439547Screenshot2024-07-31205501.png)
+<MISSING_FIG href="../books_images/U-IMG-1722439547Screenshot2024-07-31205501.png"/>
 
 **सबिन्दुसिन्धुसुस्खलन्तरङ्गभङ्गरञ्जित  
   द्विषत्सु पापजातजातकादिवारिसयुतम्।  
@@ -1938,13 +1938,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 **नर्मदाष्टक सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722350082Screenshot2024-07-30200410.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722350082Screenshot2024-07-30200410.png"/>**
 
 **॥श्री॥**
 
 **॥यमुनाष्टकम्॥**
 
-![](../books_images/U-IMG-1722349845Screenshot2024-07-30195759.png)
+<MISSING_FIG href="../books_images/U-IMG-1722349845Screenshot2024-07-30195759.png"/>
 
 **मुरारिकायकालिमाललामवारिधारिणी  
   तृणीकृतत्रिविष्टपा त्रिलोकशोकहारिणी।  
@@ -1991,12 +1991,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 **यमुनाष्टक सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722351136Screenshot2024-07-30202149.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722351136Screenshot2024-07-30202149.png"/>**
 
 **॥श्री॥0  
 ॥यमुनाष्टकम्॥**
 
-**![](../books_images/U-IMG-1722351423Screenshot2024-07-30195924.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722351423Screenshot2024-07-30195924.png"/>**
 
 **कृपापारावारा तपनतनया तापशमना  
   मुरारिप्रेयस्या भवभयदवा भक्तिवरदाम्।  
@@ -2048,12 +2048,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 **यमुनाष्टक सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722351914Screenshot2024-07-30203446.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722351914Screenshot2024-07-30203446.png"/>**
 
 **॥श्री॥  
 ॥गङ्गाष्टकम्॥**
 
-**![](../books_images/U-IMG-1722352430Screenshot2024-07-30195924.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722352430Screenshot2024-07-30195924.png"/>**
 
 **भगवति भवलीलामौलिमाल तवाम्भ  
   कणमणुपरिमाण प्राणिनो य स्पृशन्ति।  
@@ -2105,12 +2105,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 **गङ्गाष्टक सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722353018Screenshot2024-07-30200410.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722353018Screenshot2024-07-30200410.png"/>**
 
 **॥श्री॥**  
 **॥मणिकर्णिकाष्टकम्॥**
 
-**![](../books_images/U-IMG-1722449877Screenshot2024-07-31234715.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722449877Screenshot2024-07-31234715.png"/>**
 
 **त्वत्तीरे मणिकर्णिके हरिहरौ सायुज्यमुक्तिप्रदौ  
   वादन्तौ कुरुत परस्परमुभौ जन्तो प्रयाणोत्सवे।  
@@ -2162,12 +2162,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 **मणिकर्णिकाष्टक सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722432775Screenshot2024-07-31190219.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722432775Screenshot2024-07-31190219.png"/>**
 
 **॥श्री॥**  
 **॥निर्गुणमानसपूजा॥**
 
-**![](../books_images/U-IMG-1722433102Screenshot2024-07-30195924.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722433102Screenshot2024-07-30195924.png"/>**
 
 **शिष्य उवाच—**
 
@@ -2279,12 +2279,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 **निगुणमानसपूजा सपूर्णा॥**
 
-**![](../books_images/U-IMG-1722433854Screenshot2024-07-31192034.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722433854Screenshot2024-07-31192034.png"/>**
 
 **॥श्री॥**  
 **॥प्रातःस्मरणस्तोत्रम्॥**
 
-**![](../books_images/U-IMG-1722434070Screenshot2024-07-30195924.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722434070Screenshot2024-07-30195924.png"/>**
 
 **प्रात स्मरामि हृदि सस्फुरदात्मतत्त्व  
   सच्चित्सुख परमहसगतिं तुरीयम्।  
@@ -2311,12 +2311,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 **प्रात स्मरणस्तोत्र सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722434310Screenshot2024-07-31192815.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1722434310Screenshot2024-07-31192815.png"/>**  
 
 **॥श्रीः॥**  
 **॥जगन्नाथाष्टकम्॥**
 
-**![](../books_images/U-IMG-1722434890Screenshot2024-07-30195924.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722434890Screenshot2024-07-30195924.png"/>**
 
 **कदाचित्कालिन्दीतटविपिनसगीतकवरो  
   मुदा गापीनारीवदनकमलास्वादमधुप।  
@@ -2363,12 +2363,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 **जगन्नाथाष्टक सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722435406Screenshot2024-07-31194634.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722435406Screenshot2024-07-31194634.png"/>**
 
 **॥श्री॥**  
 **॥षट्पदीस्तोत्रम्॥**
 
-![](../books_images/U-IMG-1722435861Screenshot2024-07-30195924.png)
+<MISSING_FIG href="../books_images/U-IMG-1722435861Screenshot2024-07-30195924.png"/>
 
 **अविनयमपनय विष्णो  
   दमय मन्शमय विषयमृगतृष्णाम्।  
@@ -2410,7 +2410,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 **॥श्री॥  
 ॥भ्रमराम्बाष्टकम्॥**
 
-**![](../books_images/U-IMG-1722504178Screenshot2024-08-01145219.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722504178Screenshot2024-08-01145219.png"/>**
 
 **चाञ्चल्यारुणलोचनाञ्चितकृपाचन्द्राकचूडामणिं  
   चारुस्मेरमुखा चराचरजगत्सरक्षणीं तत्पदाम्।  
@@ -2462,13 +2462,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 भ्रमराम्बाष्टकं सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722505183Screenshot2024-08-01150903.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722505183Screenshot2024-08-01150903.png"/>**
 
 **॥श्री॥**
 
 **॥शिवपञ्चाक्षरनक्षत्रमालास्तोत्रम्॥**
 
-**![](../books_images/U-IMG-1722505249Screenshot2024-08-01151009.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722505249Screenshot2024-08-01151009.png"/>**
 
 **श्रीमदात्मने गुणैकसिन्धवे नम शिवाय  
   धामलेशधूतकोकबन्धवे नम शिवाय।  
@@ -2615,13 +2615,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 **शिवपञ्चाक्षरनक्षत्रमालास्तोत्रसपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722527150Screenshot2024-08-01211501.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722527150Screenshot2024-08-01211501.png"/>**
 
 **॥श्री॥**
 
 **॥द्वादशलिङ्गस्तोत्रम्॥**
 
-**![](../books_images/U-IMG-1722527245Screenshot2024-07-28143017.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722527245Screenshot2024-07-28143017.png"/>**
 
 **सौराष्ट्रदेशे वसुधावकाशे  
   ज्योतिमय चन्द्रकलावतसम्।  
@@ -2693,13 +2693,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 **द्वादशलिङ्गस्तोत्र सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722527866Screenshot2024-08-01212701.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722527866Screenshot2024-08-01212701.png"/>**
 
 **॥श्री॥**
 
 **॥अर्धनारीश्वरस्तोत्रम्॥**
 
-![](../books_images/U-IMG-1722527986Screenshot2024-08-01212906.png)
+<MISSING_FIG href="../books_images/U-IMG-1722527986Screenshot2024-08-01212906.png"/>
 
 **चाम्पेयगौरार्धशरीरकायै  
   कर्पूरगौराधशरीरकाय।  
@@ -2751,13 +2751,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छरभगवत कृतौ  
 **अर्धनारीश्वरस्तोत्रम् सपूर्णम्॥**
 
-![](../books_images/U-IMG-1722528480Screenshot2024-07-31204800.png)
+<MISSING_FIG href="../books_images/U-IMG-1722528480Screenshot2024-07-31204800.png"/>
 
 **॥श्री॥**
 
 **॥शारदाभुजंगप्रयाताष्टकम्॥**
 
-**![](../books_images/U-IMG-1722528546Screenshot2024-08-01213825.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722528546Screenshot2024-08-01213825.png"/>**
 
 **सुवक्षोजकुम्भा सुधापूर्णकुम्भा  
   प्रसादावलम्बा प्रपुण्यावलम्बाम्।  
@@ -2804,13 +2804,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 **शारदाभुजगप्रयाताष्टक सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722529091Screenshot2024-08-01214728.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722529091Screenshot2024-08-01214728.png"/>**
 
 **॥श्री॥**
 
 **॥गुर्वष्टकम्॥**
 
-**![](../books_images/U-IMG-1722565877Screenshot2024-08-02080036.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722565877Screenshot2024-08-02080036.png"/>**
 
 **शरीर सुरूप तथा वा कलत्र  
   यशश्चारु चित्र धन मेरुतुल्यम्।  
@@ -2862,13 +2862,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 **गुर्वष्टक सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722566391Screenshot2024-08-02080906.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722566391Screenshot2024-08-02080906.png"/>**
 
 **॥श्री॥**
 
 **॥काशीपञ्चकम्॥**
 
-**![](../books_images/U-IMG-1722566491Screenshot2024-08-02081040.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722566491Screenshot2024-08-02081040.png"/>**
 
 **मनो निवृत्ति परमोपशान्ति  
   सा तीर्थवर्या मणिकर्णिका च।  
@@ -2900,15 +2900,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 **काशीपञ्चक संपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722568321Screenshot2024-08-02084117.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722568321Screenshot2024-08-02084117.png"/>**
 
-![](../books_images/U-IMG-1722580241Screenshot2024-08-02115955.png)
+<MISSING_FIG href="../books_images/U-IMG-1722580241Screenshot2024-08-02115955.png"/>
 
 **॥श्री॥**
 
 **॥ललितात्रिशतीभाष्यम्॥**
 
-**![](../books_images/U-IMG-1722580400Screenshot2024-08-02120239.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722580400Screenshot2024-08-02120239.png"/>**
 
 **वन्दे विघ्नेश्वर दव सर्वसिद्धिप्रदायिनम्।  
 वामाङ्कारूढवामाक्षीकरपल्लवपूजितम्॥१॥**
@@ -3994,6 +3994,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 
 **इति श्रीललितात्रिशतीस्तोत्र सपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722960052Screenshot2024-08-06212947.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722960052Screenshot2024-08-06212947.png"/>**
 
 \]

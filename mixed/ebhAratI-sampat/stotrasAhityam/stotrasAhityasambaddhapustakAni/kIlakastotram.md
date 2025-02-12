@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDExODc0ODA3ODY
 
 \[
 
+
+
+
+
 कीलकस्तोत्रम्
+
+
 
 अथ कीलकम्
 
@@ -79,5 +85,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDExODc0ODA3ODY
 शत्रुहानिःपरो मोक्षः स्तूयते सा न किं जनैः ॥१४॥
 
 इति देव्याः कीलकस्तोत्रं सम्पूर्णम् ।
+
+
+
+
+
 
 \]

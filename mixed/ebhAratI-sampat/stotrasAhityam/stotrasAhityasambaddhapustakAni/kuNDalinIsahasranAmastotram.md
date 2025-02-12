@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM3ODM1ODM3MDA
 
 \[
 
+
+
+
+
 कुण्डलिनीसहस्रनामस्तोत्रम्
+
+
 
 श्रीगणेशाय नमः ।
 
@@ -865,5 +871,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM3ODM1ODM3MDA
 ॥  
 इति श्रीरुद्रयामले उत्तरतन्त्रे षट्चक्रप्रकाशे भैरवीभैरवसंवादे  
 महाकुलकुण्डलिनी सहस्रनामस्तोत्रं सम्पूर्णम् ॥
+
+
+
+
+
 
 \]

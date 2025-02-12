@@ -17,13 +17,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM0MTE3MjU0MzE
 
 [TABLE]
 
-![](../books_images/U-IMG-1723642861Screenshot2024-08-14191045.png)
+<MISSING_FIG href="../books_images/U-IMG-1723642861Screenshot2024-08-14191045.png"/>
 
 **॥श्रीः॥**
 
 **॥दशावतारस्तोत्रम्॥**
 
-**![](../books_images/U-IMG-1723642978R.gif)**
+**<MISSING_FIG href="../books_images/U-IMG-1723642978R.gif"/>**
 
 **श्रीनिवासं परं ब्रह्म तन्नाम्नश्च गुरूत्तमान्।  
 वन्दे भागवतान्सर्वान्देशिकाशयलब्धये॥**
@@ -550,7 +550,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM0MTE3MjU0MzE
 इत्थं गोपालदासेन वात्स्यवेङ्कटसूनुना।  
 रचितं निगमान्तार्यस्तोत्रव्याख्यानमादरात् ॥**  
 
-![](../books_images/U-IMG-1724863415Screenshot2024-08-28221315.png)
+<MISSING_FIG href="../books_images/U-IMG-1724863415Screenshot2024-08-28221315.png"/>
 
 **शुद्धिपत्रिका॥**
 

@@ -13,7 +13,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE2NzgzNzA0MzE
 
 \[
 
+
+
+
 अम्बास्तोत्रम् - स्वामी विवेकानन्दः
+
+
 
 अम्बास्तोत्रम् -  
 स्वामी विवेकानन्द..
@@ -45,5 +50,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE2NzgzNzA0MzE
 या मामा जन्म विनयत्यतिदुःखमार्गैः
 
 या मे बुद्धिं सुविदधे सततं धरण्यम्
+
+
+
+
+
 
 \]

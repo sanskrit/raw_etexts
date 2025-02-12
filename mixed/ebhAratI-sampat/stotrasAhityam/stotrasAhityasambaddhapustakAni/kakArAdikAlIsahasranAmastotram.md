@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE0NzE0NDU1NDA
 
 \[
 
+
+
+
+
 ककारादिकालीसहस्रनामस्तोत्रम्
+
+
 
 श्री गणेशाय नमः ।
 
@@ -1879,5 +1885,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE0NzE0NDU1NDA
 इति श्रीमदादिनाथमहाकालविरचितायां महाकालसंहितायां  
 कालकालीसंवादे सुन्दरीशक्तिदानाख्यं कालीस्वरूप  
 मेधासाम्राज्यप्रदं सहस्रनामस्तोत्रं सम्पूर्णम् ॥
+
+
+
+
+
 
 \]

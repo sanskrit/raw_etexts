@@ -12,7 +12,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ4MDU3OTE3MDg
 
 \[
 
+
+
+
 कृष्णसहस्रनामस्तोत्रम् (सात्वततन्त्रम्)
+
 
 श्रीनारद उवाच ।  
 कथितं मे त्वया देव हरिनामानुकीर्तनम् ।  
@@ -470,5 +474,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ4MDU3OTE3MDg
 यन्नामकीर्तनेनैव पुमान् संसारसागरम् ।  
 तरत्यद्धा प्रपद्ये तं कृष्णं गोपालरूपिणम् ॥ २२५॥  
 इति सात्वततन्त्रे श्रीकृष्णसहस्रनामषष्ठः पटलः ॥६॥
+
+
+
 
 \]

@@ -12,7 +12,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI0ODA1MzI3NDg
 
 \[
 
+
+
+
 कृष्णसहस्रनामस्तोत्रम्
+
 
 श्रीमद्रुक्मिमहीपालवंशरक्षामणिः स्थिरः ।  
 राजा हरिहरः क्षोणीं रक्षत्यम्बुधिमेखलाम् ।१॥  
@@ -501,5 +505,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI0ODA1MzI3NDg
 किमिदं बहुना शंसन्मानवो मोदनिर्भरः ।  
 ब्रह्मानन्दमवाप्यान्ते कृष्णसायूज्यमाप्नुयात् ॥ २११॥  
 ॥ कृष्णसहस्रनामस्तोत्रं सम्पूर्णम् ॥
+
+
+
 
 \]

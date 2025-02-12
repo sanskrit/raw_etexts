@@ -23,15 +23,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMTE3NDAyOTQ
 ॥श्रीमते रामानुजाय नमः॥
 
 ॥स्तोत्रमाला॥  
-![](../books_images/U-IMG-1727508660STOTRAMALA_1-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1727508660STOTRAMALA_1-removebg-preview.png"/>
 
 श्रीकुलशेखरसूरिभिरनुगृहीता
 
 ॥मुकुन्दमाला॥  
-![](../books_images/U-IMG-1727508798STOTRAMALA_2-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1727508798STOTRAMALA_2-removebg-preview.png"/>
 
 घुष्यते यस्य नगरे रङ्गयात्रादिनेदिने। तमहं शिरसा वन्दे राजानं कुलशेखरम्॥  
-![](../books_images/U-IMG-1727508909STOTRAMALA_3-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1727508909STOTRAMALA_3-removebg-preview.png"/>
 
 श्रीवल्लभेति वरदेति दयापरेति भक्तप्रियेति भवलुण्ठनकोविदेति।  
 नाथेति नागशयनेति जगन्निवासेति आलापिनं प्रतिपदं कुरु मां मुकुन्द ॥१॥
@@ -479,13 +479,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMTE3NDAyOTQ
 
 **॥इति श्रीरङ्गगद्यंसमाप्तम्॥**
 
-![](../books_images/U-IMG-1727536570STOTRAMALA_4-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1727536570STOTRAMALA_4-removebg-preview.png"/>
 
 **श्रीभगवद्रामानुजमुनिभिरनुगृहीतं**
 
 **॥श्रीवैकुण्ठगद्यम्॥**
 
-**![](../books_images/U-IMG-1725519007Screenshot2023-12-31185204.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725519007Screenshot2023-12-31185204.png"/>**
 
 **यामुनार्थसुधाम्भोधिमवगाह्य यथामति।  
 आदाय भक्तियोगाख्यं रत्नं संदर्शयाम्यहम्॥१॥**
@@ -511,7 +511,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMTE3NDAyOTQ
 
 **॥इति श्रीवैकुण्ठगद्यं समाप्तम्॥**
 
-**![](../books_images/U-IMG-1725547909Screenshot2023-11-12094856.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725547909Screenshot2023-11-12094856.png"/>**
 
 **श्री श्रीवत्सचिह्नमिश्रैरनुगृहीतायां पञ्चस्तव्याम्**
 
@@ -832,7 +832,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMTE3NDAyOTQ
 
 **इति पञ्चस्तयां श्रीवैकुण्ठस्तवः समाप्तः॥**
 
-![](../books_images/U-IMG-1727583067STOTRAMALA_4-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1727583067STOTRAMALA_4-removebg-preview.png"/>
 
 **श्री श्रीवत्सचिह्नमिश्रैरनुगृहीतायां पञ्चस्तव्याम्**
 
@@ -2355,7 +2355,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMTE3NDAyOTQ
 
 **॥श्रीगुणरत्नकोशः॥**
 
-![](../books_images/U-IMG-1726160789Screenshot2023-12-19200015.png)
+<MISSING_FIG href="../books_images/U-IMG-1726160789Screenshot2023-12-19200015.png"/>
 
 श्री पराशरभट्टार्यः श्रीरङ्गेशपुरोहितः। श्रीवत्साङ्कसुतः श्रीमान् श्रेयसे मेऽस्तु भूयसे॥
 
@@ -2661,7 +2661,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMTE3NDAyOTQ
 
 **श्रीकूरनारायणमुनिभिरनुगृहीतं  
 ॥श्रीसुदर्शनशतकम्॥**  
-![](../books_images/U-IMG-1729516950STOTRSMALA_5-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1729516950STOTRSMALA_5-removebg-preview.png"/>
 
 **रङ्गेशविज्ञप्तिकरामयस्य चकार चक्रेशनुतिं निवृत्तये। समाश्रयेऽहं वरपूरणीं य त कूरनारायणनामकं मुनिम्॥**  
 
@@ -4298,10 +4298,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMTE3NDAyOTQ
 **श्रीवादिभीकरगुरुभिरनुगृहीतं**  
 
 **॥श्रीवेङ्कटेशसुप्रभातम्॥  
-![](../books_images/U-IMG-1730100653STOTRAMALA_1-removebg-preview(1).png)**
+<MISSING_FIG href="../books_images/U-IMG-1730100653STOTRAMALA_1-removebg-preview(1"/>.png)**
 
 **वेदान्तदेशिककटाक्ष + + परवादिभयङ्करार्यम्॥  
-![](../books_images/U-IMG-1730100630STOTRAMALA_1-removebg-preview(1).png)**
+<MISSING_FIG href="../books_images/U-IMG-1730100630STOTRAMALA_1-removebg-preview(1"/>.png)**
 
 मातस्समस्तजगतां मधुकैटभारेःवक्षोविहारिणि ! मनोहरदिव्यरूपे।  
 श्रीस्वामिनि! श्रितजनप्रियदानशीले! श्रीवेङ्कटेशदयिते! तव सुप्रभातम्॥१॥
@@ -4394,7 +4394,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMTE3NDAyOTQ
 **————**
 
 **वेदान्तदेशिककटाक्ष +  + परवादिभयङ्करार्यम् ॥  
-![](../books_images/U-IMG-1730108751STOTRAMALA_4-removebg-preview(1).png)**
+<MISSING_FIG href="../books_images/U-IMG-1730108751STOTRAMALA_4-removebg-preview(1"/>.png)**
 
 कमलाकुचचूचुककुङ्कुमतः नियतारुणितातुलनीलतनो!। कमलायतलोचन ! लोकपतेः! विजयी भव वेङ्कटशैलपते॥१॥
 
@@ -4450,7 +4450,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMTE3NDAyOTQ
 भव्यैरलङ्कृततलौपरतत्त्वचिह्नैःश्रीवेङ्कटेशचरणौ शरणं प्रपद्ये॥५॥
 
 **इति श्रीवेङ्कटेशप्रपत्तिः समाप्ता॥**  
-![](../books_images/U-IMG-1730109531STOTRAMALA_4-removebg-preview(1).png)
+<MISSING_FIG href="../books_images/U-IMG-1730109531STOTRAMALA_4-removebg-preview(1"/>.png)
 
 **श्रीवादिभीकरगुरुभिरनुगृहीतं**  
 
@@ -4484,7 +4484,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMTE3NDAyOTQ
 **श्रीवरदनारायणगुरुभिरनुगृहीतं**  
 
 **॥ श्रीवरवरमुन्यष्टकम् ॥  
-![](../books_images/U-IMG-1730102144STOTRAMALA_1-removebg-preview(1).png)**
+<MISSING_FIG href="../books_images/U-IMG-1730102144STOTRAMALA_1-removebg-preview(1"/>.png)**
 
 **सकलवेदान्तसारार्थपूर्णाशदं विपुलवाधूलगोत्नोद्भवानां वरम्।  
 रुचिरजामातृयोगीन्द्रपादाश्रयं वरदनारायणं मद्गुरुं संश्रये॥**
@@ -4593,7 +4593,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMTE3NDAyOTQ
 
 **॥प्रार्थनापञ्चकम्॥**  
 
-**![](../books_images/U-IMG-1725889460Screenshot2023-12-16141159.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725889460Screenshot2023-12-16141159.png"/>**
 
 यतीश्वर। शृणु श्रीमन्! कृपया परया तव।  
 मम विज्ञापनमिदं विलोक्य वरदं गुरुन्॥१॥
@@ -4781,4 +4781,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMTE3NDAyOTQ
 समाप्ता च स्तोत्रमाला॥
 
 \]
-

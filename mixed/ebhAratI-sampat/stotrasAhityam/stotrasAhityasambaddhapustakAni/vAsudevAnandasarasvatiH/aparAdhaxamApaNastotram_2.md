@@ -13,7 +13,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ3NTAyNzEzNzE
 
 \[
 
+
+
+
+
 अपराधक्षमापणस्तोत्रम्-२
+
+
 
 रसज्ञावशातारकं स्वादुलभ्यम्
 
@@ -57,5 +63,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ3NTAyNzEzNzE
 ॥  
 इति परमपूज्य श्रीवासुदेवानन्दसरस्वती  
 स्वामीमहाराजकृत अपराधक्षमापन स्तोत्रं संपूर्णम् ॥
+
+
+
 
 \]

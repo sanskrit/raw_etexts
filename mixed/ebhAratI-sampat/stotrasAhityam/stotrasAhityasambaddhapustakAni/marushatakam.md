@@ -12,7 +12,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODAxNDIzMTQ1
 
 \[
 
+
+
 **मरुशतकम्**
+
+
 
 ज्याकृष्टिबद्धखटकामुखपाणिपृष्ठ-  
 पेङ्खन्नखांशुचयसंवलितोऽम्बिकायाः ।  
@@ -378,9 +382,19 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODAxNDIzMTQ1
 उद्‌ग्रीवश्चरणार्धरुद्धवसुधः प्रोन्मृज्य सास्त्रे दृशौ  
 तामाशां पथिकस्तथापि किमपि ध्यायन्मुहुर्वोक्षते ॥ 72 ॥
 
+
+
 -------------------------------------------------
 
+
+
+
+
+
+
 **संशयितश्लोकाः**
+
+
 
 धीरं वारिधरस्य वारि किरतः श्रुत्वा निशीथे ध्वनिं
 
@@ -508,6 +522,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODAxNDIzMTQ1
 
 -----------------------------------------
 
+
+
+
+
 **THE TEXT**
 
 1\. (a) S कटकामुखः Rdr 2 K - खटिकां. Some B MS पाणिपद्मः (b) S संवलितो मृडान्याः.  
@@ -595,6 +613,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODAxNDIzMTQ1
 71. Rdr 3 omits. (a) R रचितः (or गुणितः) ; (b) Rdr 1 मौनेऽपि योगः ; (c) Rdr (Rdr 3 missing) कर्तुमपीहितं धृतमिदं चेतः ; (d) Rdr (Rdr 3 missing) सज्जो (for बद्धो).  
 72. Rdr 3 omits. (c) S चरणाग्ररुद्ध-; R Rr कृत्वाश्रुपूर्णे दृशौ (Rr oश्रुपूर्णां दिशं) ; Rdr (Rdr 3 missing) o श्रुपुर्णां दृशं (for प्रोन्मृज्य सास्त्रे दृशौ) ; (d) S तथैव (for तथापि) . A पुनः ; K as in text ; Rr चिरं (for मुहुः). Dr तथापि किमपि ध्यात्वा चिरं.
 
+
+
+
 DOUBTFUL STANZAS
 
 \*Stanzas which are exoluded by one recension only, as indicated.
@@ -625,6 +646,10 @@ DOUBTFUL STANZAS
 25. A considers this st. to be interpolated but includes ; K omits : Ramananda says : अयं श्लोकोऽत्र प्रक्षिप्त इति बहवः ; (b) S प्राणेश्वरो वसति यत्र मनः प्रियो मे. Rr प्राणाधिपो (for प्राणाधिको) ; (c) A वत कथं .  
 N.B:- With regard to Nos. 4, 6, 8, 11-16, 18, 20, 21 (12 stanzas) which are not excluded by the particular recension in its entirety it is possible to entertain some doubt. But since the recension in question in E which is not homogenous, we have accepted the printed text of R as the standard.
 
+
+
 **---------------------------------------------------------------------**
+
+
 
 \]

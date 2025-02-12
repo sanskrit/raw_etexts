@@ -16,7 +16,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA5MTc3NDMyMTg
 
 \[
 
-![](../books_images/U-IMG-1723824356sacchi.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1723824356sacchi.PNG"/>
 
 Satchidanand Shivabhinav Narsinha Bharati.
 
@@ -24,7 +24,7 @@ Satchidanand Shivabhinav Narsinha Bharati.
 
 **                               **चि. शा. पुणे.
 
-![](../books_images/U-IMG-1723959286दद.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1723959286दद.PNG"/>
 
 **सदाशिव ब्रम्ह.**
 
@@ -1850,6 +1850,7 @@ Satchidanand Shivabhinav Narsinha Bharati.
 शुण्ठीपटोलकफलादिकपञ्चशाखा  
 मुङ्गादिदिव्यमुदकं च यमीन्द्रपथ्यम्॥**
 
+                                   
         पैङ्गलोपनिषदि
 
  अमृतेन तृप्तस्य पयसा किं प्रयोजनमेवं स्वात्मानं ज्ञात्वा वेदैः प्रयोजनं किं भवति। ज्ञानामृततृप्तयोगिनो न किंचित्कर्तव्यमस्ति तदस्तिचेन्न स तत्त्वविद्भवति ॥
@@ -1857,4 +1858,3 @@ Satchidanand Shivabhinav Narsinha Bharati.
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 \]
-

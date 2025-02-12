@@ -13,7 +13,22 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIxNDgwNzM2Mjk
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 कर्पूरादिस्तोत्रम्
+
 
 ..  
 कर्पूरादिस्तोत्रम्..
@@ -208,5 +223,18 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIxNDgwNzM2Mjk
 
 इति श्रीमन्महाकालिविरचितं श्रीमद्दक्षिणकालिकायाः  
 स्वरूपाख्यं स्तोत्रं समाप्तम्
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 \]

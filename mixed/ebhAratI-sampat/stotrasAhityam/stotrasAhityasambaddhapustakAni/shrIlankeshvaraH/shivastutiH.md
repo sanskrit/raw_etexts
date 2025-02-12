@@ -13,6 +13,18 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUxMTg3NDM3Njk
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
 श्रीलङ्केश्वरविरचिता शिवस्तुतिः ।
 
 गले कलितकालिम प्रकटितेन्दु भालस्थले  
@@ -57,5 +69,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUxMTg3NDM3Njk
 त्तपस्विपरिषत्तुलाममलमल्लिकाभ प्रभो ॥ १० ॥
 
 इति श्रीलङ्केश्वरविरचिता शिवस्तुतिः समाप्ता ।  
+
+
+
+
+
+
+
+
+
+
 
 \]

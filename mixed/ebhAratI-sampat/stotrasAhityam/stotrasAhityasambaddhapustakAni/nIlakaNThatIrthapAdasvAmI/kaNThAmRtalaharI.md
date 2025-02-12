@@ -20,7 +20,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMzNTAxMDA0NzU
 
 **शोधनपत्रम्**
 
-**![](../books_images/U-IMG-1726883318gn.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1726883318gn.png"/>**
 
 |          |                          |
 |:--------:|:------------------------:|
@@ -53,7 +53,7 @@ SREE VARDHANATHU HOUSE                **K. N. KRISHNA PILLAI.**
 MARUTHUKULANGARAY  
 20th June 1914
 
-![](../books_images/U-IMG-1726883414jn.png)
+<MISSING_FIG href="../books_images/U-IMG-1726883414jn.png"/>
 
 **॥ श्रीः ॥**  
 
@@ -160,7 +160,7 @@ Dear Sir,
 T. P. Thrivedi, M. A; L. L. B.  
 AGRA
 
-![](../books_images/U-IMG-1726889247xn.png)
+<MISSING_FIG href="../books_images/U-IMG-1726889247xn.png"/>
 
 ता-२४--१--१९१२  
 माघे सुदि -- ५ –– बुधे  
@@ -178,7 +178,7 @@ AGRA
 **—————**
 
 **श्रीकण्ठामृतलहरी।  
-![](../books_images/U-IMG-1726889346xj.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726889346xj.png"/>**
 
 **यमीन्द्रान्तः प्राणायमनकलयोद्भावितपदो  
 वचोवैचक्षण्यप्रकटनगुरुत्वे भवतु मे।  

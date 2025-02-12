@@ -13,7 +13,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODYwNzIzMTA1MzE
 
 \[
 
+
+
+
+
 अच्युताष्टकम् (श्रीधरवेङ्कटेशकृतम्)
+
+
 
 अभिलपननिसर्गादच्युताख्ये भजे त्वां  
   
@@ -80,5 +86,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODYwNzIzMTA1MzE
 तदेषा किम्भूता स तु सपदि सन्तापभरितः ॥ ८ ॥
 
 इति श्रीश्रीधरवेङ्कटेशार्यकृतौ अच्युताष्टकं सम्पूर्णम् ॥
+
+
+
+
+
 
 \]

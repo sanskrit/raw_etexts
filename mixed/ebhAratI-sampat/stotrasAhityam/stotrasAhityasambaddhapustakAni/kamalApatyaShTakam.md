@@ -13,7 +13,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU1NjIzMzM2ODg
 
 \[
 
+
+
+
+
 कमलापत्यष्टकम्
+
+
 
 भुजगतल्पगतं घनसुन्दरं  
 गरुडवाहनमम्बुजलोचनम् ।
@@ -68,5 +74,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU1NjIzMzM2ODg
 व्रजति विष्णुपदं स नरो ध्रुवं ॥ ९॥
 
 इति श्रीमत्परमहंसस्वामिब्रह्मानन्दविरचितं कमलापत्यष्टकं समाप्तं॥
+
+
+
 
 \]

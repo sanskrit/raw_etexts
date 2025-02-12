@@ -12,6 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk2MDU3MTc0NjE
 
 \[
 
+
+
 च्द्धघ्1(3)शब्दरत्नप्रदीपः  
 शिवं(शर-1-4) - भद्रं (शर-1-4)  
 शिवः(शर-1-4) - शम्भुः(शर-1-4), खिलः (शर-1-4)  
@@ -899,5 +901,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk2MDU3MTc0NjE
 मृदुः(शर-5-40)- कौत्स्य(शर-5-40)  
 कुष्ठी(शर-5-40)- आतीक्ष्ण(शर-5-40)  
 इति शब्दरत्नदीपे पञ्चमो मुक्तः समाप्तः ॥  
+
+
 
 \]

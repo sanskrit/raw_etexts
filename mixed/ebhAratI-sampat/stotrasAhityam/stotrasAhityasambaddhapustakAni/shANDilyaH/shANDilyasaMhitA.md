@@ -23,7 +23,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MjY4OTcyOTI
 
 **प्रास्ताविकं किञ्चित्।**
 
-**![](../books_images/U-IMG-1725865827CC.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725865827CC.png"/>**
 
  अथोपक्रम्यते श्रीमहर्षिशाण्डिल्यसम्पादितशाण्डिल्यसंहितायाः पञ्चमं भक्तिखडं प्रकाशयितुम्। इयं संहिता पाञ्चरात्रसंहितासु पाद्मादिष्वन्यतमा। अस्या नामनिर्दिशोऽग्निपुराणपाद्मसंहितादिग्रन्थेषूपलभ्यते। अस्याः शाण्डिल्यसंहिताया धर्म-अर्थ-काम-मोक्ष-भक्ति-संज्ञकानि पञ्च खण्डानि विद्यन्ते। परन्तु धर्मादीनि चत्वारि खण्डानि प्रायः संप्रति नोपलभ्यन्ते। अस्मिन् भक्तिखण्डे साध्यसाधनरूपप्रकारद्वयवत्या भक्तेः सम्यग्वर्णनमुपलभ्यते। अत्र साधनभक्तेर्वर्णनप्रसङ्गे विशिष्टपूजाद्यनेकाचाराणां विवरणदर्शनेन स्फुटतया प्रतीयतेऽयं वैष्णवग्रन्थ इति। प्रसङ्गतश्च साधनभक्त्यङ्गदोषा अत्र निर्दिष्टाःप्रायो नान्यत्रानया रीत्योपलभ्यन्ते। पञ्चमस्य भक्तिखण्डस्यायं प्रथमो भागः। द्वितीयभागे ग्रन्थविषयकं तत्सम्बन्धानुसंबद्धमन्यच्च निवेदनं विषयसूच्यादिकं च प्रकाशयिष्यत इति निवेदयते—
 
@@ -43,7 +43,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MjY4OTcyOTI
 **तत्र पञ्चमे हरिभक्तिखण्डे—**
 
 **प्रथमोऽध्यायः।  
-![](../books_images/U-IMG-1725557373AAA.png)**
+<MISSING_FIG href="../books_images/U-IMG-1725557373AAA.png"/>**
 
 ** ऋषय ऊचुः—**
 
@@ -165,7 +165,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MjY4OTcyOTI
 
 **इति शाण्डिल्यसंहितायां पञ्चमे हरिभक्तिखण्डे प्रथमोऽध्यायः।  
 
-![](../books_images/U-IMG-1725865675BB.png)  
+<MISSING_FIG href="../books_images/U-IMG-1725865675BB.png"/>  
 
 द्वितीयोऽध्यायः।**
 
@@ -290,7 +290,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MjY4OTcyOTI
 
 **इति श्रीशाण्डिल्यसंहितायां पञ्चमे हरिभक्तिखण्डे द्वितीयोऽध्यायः२॥**  
 
-**![](#)![](../books_images/U-IMG-1725864369BB.png)![](#)![](#)**
+**<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1725864369BB.png"/><MISSING_FIG href="#"/><MISSING_FIG href="#"/>**
 
 **तृतीयोऽध्यायः।**
 
@@ -633,7 +633,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MjY4OTcyOTI
 
 **इति श्रीशाण्डिल्यसंहितायां पञ्चमे भक्तिखण्डे सम्प्रदायत्रयनिरूपणं नाम चतुर्थोऽध्यायः॥४॥  
 
-![](../books_images/U-IMG-1725883691KKK.png)  
+<MISSING_FIG href="../books_images/U-IMG-1725883691KKK.png"/>  
 अथ पञ्चमोऽध्यायः**
 
 ** ऋषय ऊचुः—**
@@ -733,7 +733,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MjY4OTcyOTI
 
 **इति श्रीशाण्डिल्यसंहितायां भक्तिखण्डे त्रिपुरारिसंप्रदायनिरूपणं नाम पञ्चमोऽध्यायः॥५॥**  
 
-**![](../books_images/U-IMG-1724998691111.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724998691111.png"/>**
 
 **षष्ठोऽध्यायः।**
 
@@ -988,7 +988,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MjY4OTcyOTI
 **इति श्रीशाण्डिल्यसंहितायां पञ्चमे भक्तिखण्डे  
 शाण्डिल्योपदेशनिरूपणं नाम षष्ठोऽध्यायः॥६॥**  
 
-**![](../books_images/U-IMG-1725904636MMM.png)  
+**<MISSING_FIG href="../books_images/U-IMG-1725904636MMM.png"/>  
 सप्तमोऽध्यायः।**  
 
 ** ऋषय ऊचुः—**
@@ -1109,7 +1109,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MjY4OTcyOTI
 **इति श्रीशाण्डिल्यसंहितायां पञ्चमे भक्तिखराडे  
 भक्तिस्वरूपनिरूपणंनाम सप्तमोऽध्यायः॥७॥**
 
-**![](../books_images/U-IMG-1725943254ooo.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725943254ooo.png"/>**
 
 **अष्टमोऽध्यायः।**  
 
@@ -1337,7 +1337,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MjY4OTcyOTI
 
 **इति श्रीशाण्डिल्यसंहितायां पञ्चमे भक्तिखण्डे दीक्षाविशेषनिरूपणं नामाष्टमोऽध्यायः॥८॥**
 
-**![](../books_images/U-IMG-1725984736GG.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725984736GG.png"/>**
 
 **नवमोऽध्यायः।**
 
@@ -1462,7 +1462,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MjY4OTcyOTI
 
 **इति श्रीशाण्डिल्यसंहितायां पञ्चमे भक्तिखण्डे मखपूर्वाङ्गनिरूपणं नाम नवमोध्यायः॥९॥**
 
-**![](../books_images/U-IMG-1725903630KK.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1725903630KK.png"/>**  
 
 **दशमोऽध्यायः।**
 
@@ -5522,4 +5522,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MjY4OTcyOTI
 **———o———**
 
 \]
-

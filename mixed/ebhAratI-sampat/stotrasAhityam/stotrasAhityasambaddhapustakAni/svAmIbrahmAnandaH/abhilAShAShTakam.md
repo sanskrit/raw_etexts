@@ -13,7 +13,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIyMjQ4ODA1MTI
 
 \[
 
+
+
 अभिलाषाष्टकम्
+
+
 
 कदा पक्षीन्द्रांसोपरि गतमजं कञ्चनयनम्
 
@@ -79,5 +83,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIyMjQ4ODA1MTI
 र्गमिष्यामीशस्यान्तिकमखिलदुःखान्तकमिति ॥ ८॥  
 ॥  
 इति श्रीमत्परमहंसस्वामिब्रह्मानन्दविरचितं अभिलाषाष्टकं संपूर्णम्
+
+
+
+
+
 
 \]

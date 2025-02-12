@@ -11,7 +11,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0NTc0NDQyMjE
 
 \[
 
+
+
+
+
 **स्तोत्ररत्नम् ।**
+
+
 
 नमोऽचिन्त्याद्भुताक्लिष्टज्ञानवैराग्यराशये ।  
 नाथाय मुनयेऽगाधभगवद्भक्तिसिन्धवे ॥ १ ॥
@@ -217,5 +223,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0NTc0NDQyMjE
 \\\\Z
 
 ------------------------------------------------------
+
 
 \]

@@ -13,6 +13,18 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE3MjM5OTA4Njc
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
 पण्डितराजश्रीजगन्नाथविरचिता  
 सुधालहरी ।
 
@@ -138,5 +150,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE3MjM5OTA4Njc
 सोऽयं सर्वान्तरात्मा तव दिशतुतरां वासरेशः शिवानि ॥ ३० ॥
 
 इति पण्डितराजश्रीजगन्नाथविरचिता सुधालहरी समाप्ता ।
+
+
+
+
+
+
+
+
+
 
 \]

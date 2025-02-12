@@ -130,7 +130,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc0NDgyMjA5NDY
 
 **त्रिपुरा भारती लघुस्तव**
 
-![](#)![](#)![](../books_images/U-IMG-1721798991Screenshot2024-07-24105717.png)
+<MISSING_FIG href="#"/><MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1721798991Screenshot2024-07-24105717.png"/>
 
 **राजस्थानी शैली का सरस्वती का ५०० वर्ष पुराना सौवर्णांकित सुन्दर चित्र चित्र**
 
@@ -142,7 +142,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc0NDgyMjA5NDY
 
 **त्रिपुरा भारती लघुस्तव**
 
-**![](../books_images/U-IMG-1721799136Screenshot2024-07-24110033.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721799136Screenshot2024-07-24110033.png"/>**
 
 **राजस्थान में उपलब्ध प्राचीन हस्तलिखित ग्रन्थो में सरस्वती के ऐसे अनेक चित्र चित्रित किये गये हैं ।**
 
@@ -150,7 +150,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc0NDgyMjA5NDY
 
 **राजस्थान पुरातन ग्रन्थमाला**
 
-![](../books_images/U-IMG-1721799221Screenshot2024-07-24110208.png)
+<MISSING_FIG href="../books_images/U-IMG-1721799221Screenshot2024-07-24110208.png"/>
 
 **राजस्थानमे विनिर्मित एवं प्रतिष्ठित**
 
@@ -159,9 +159,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc0NDgyMjA5NDY
 **की सर्वातिसुंदर प्रतिमा**  
 **—————————**
 
-![](../books_images/U-IMG-172259112111.png)
+<MISSING_FIG href="../books_images/U-IMG-172259112111.png"/>
 
-![](../books_images/U-IMG-172259135712.png)
+<MISSING_FIG href="../books_images/U-IMG-172259135712.png"/>
 
 **श्रीसोमतिलकसूरिविरचित-व्याख्यासमन्वितः**
 
@@ -1444,4 +1444,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc0NDgyMjA5NDY
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \]
-

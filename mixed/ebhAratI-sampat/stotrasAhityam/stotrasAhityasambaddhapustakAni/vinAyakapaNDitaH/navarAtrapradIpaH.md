@@ -436,7 +436,7 @@ stra learning and that it has been a Vaiṣṇava family with Rāmachandra as it
 किंचिद्भक्षण=अव्रतघ्नापोमूलादिभक्षणम्।  
 विजयकाल=आश्विनशुक्लदशम्या एकादशोमुहूर्त्तः।
 
-![](../books_images/U-IMG-1724166327Screenshot2024-08-20203458.png)
+<MISSING_FIG href="../books_images/U-IMG-1724166327Screenshot2024-08-20203458.png"/>
 
 **श्रीः  
 नवरात्रप्रदीपस्थविषयसुची।**
@@ -518,7 +518,7 @@ stra learning and that it has been a Vaiṣṇava family with Rāmachandra as it
 
 **नवरात्रप्रदीपः**
 
-![](../books_images/U-IMG-1724168002Screenshot2024-08-20210302.png)
+<MISSING_FIG href="../books_images/U-IMG-1724168002Screenshot2024-08-20210302.png"/>
 
 श्रीगणेशाय नमः।श्रीएकवीरायै नमः।
 
@@ -2738,7 +2738,7 @@ stra learning and that it has been a Vaiṣṇava family with Rāmachandra as it
 
 **इति श्रीधर्माधिकारिरामपण्डितात्मजविनायकपण्डितविरचितो नवरात्रप्रदीपः सम्पूर्णः।**
 
-# ![](../books_images/U-IMG-172663157712.png)
+# <MISSING_FIG href="../books_images/U-IMG-172663157712.png"/>
 
 **परिशिष्टम्।**
 
@@ -2783,4 +2783,3 @@ stra learning and that it has been a Vaiṣṇava family with Rāmachandra as it
 | दानर्चा     |  दानार्चा   |
 
 \]
-

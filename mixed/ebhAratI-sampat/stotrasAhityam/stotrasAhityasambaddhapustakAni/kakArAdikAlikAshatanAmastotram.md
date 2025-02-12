@@ -12,6 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc2NDQxMzQ1Mjk
 
 \[
 
+
+
 \<doc id="42595" url="https://sa.wikisource.org/wiki?curid=42595" title="ककारादिकालीशतनामस्तोत्रम्"\>
 
 ककारादिकालीशतनामस्तोत्रम्
@@ -194,5 +196,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc2NDQxMzQ1Mjk
 \</poem\>
 
 \</doc\>
+
 
 \]

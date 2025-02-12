@@ -14,9 +14,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM5MTAxNjk2OTc
 
 \[
 
-![](../books_images/U-IMG-1726823700bbbbas.png)
+<MISSING_FIG href="../books_images/U-IMG-1726823700bbbbas.png"/>
 
-![](../books_images/U-IMG-1722849329qqqqq.png)
+<MISSING_FIG href="../books_images/U-IMG-1722849329qqqqq.png"/>
 
 CONTENTS.
 
@@ -27,7 +27,7 @@ CONTENTS.
 | ISWARA STOTRAS      |
 | DEVI STOTRAS        |
 
-![](../books_images/U-IMG-1722849618llll.png)
+<MISSING_FIG href="../books_images/U-IMG-1722849618llll.png"/>
 
 विषयाः
 
@@ -38,13 +38,13 @@ CONTENTS.
 | ईश्वरस्तोत्राणि       |
 | देवीस्तोत्राणि        |
 
-![](../books_images/U-IMG-1722849930wwww.png)
+<MISSING_FIG href="../books_images/U-IMG-1722849930wwww.png"/>
 
 **॥श्रीः ॥**
 
 ॥ विषयानुक्रमणिका॥
 
-    ![](../books_images/U-IMG-1722849241Capturezdfgjkl;.PNG)
+    <MISSING_FIG href="../books_images/U-IMG-1722849241Capturezdfgjkl;.PNG"/>
 
 |                                   |
 |-----------------------------------|
@@ -82,7 +82,8 @@ CONTENTS.
 | गौरीदशकम्                        |
 | भवानीभुजंगम्                     |
 
-![](../books_images/U-IMG-1722850148asdfghjkl.PNG)
+           
+<MISSING_FIG href="../books_images/U-IMG-1722850148asdfghjkl.PNG"/>
 
 ॥ श्रीः॥  
 
@@ -122,7 +123,7 @@ CONTENTS.
 अरोगतामदोषतां सुसाहितीं सुपुत्रतां  
 समाहितायुरष्टभूतिमभ्युपैति सोऽचिरात्॥६॥**
 
-**![](../books_images/U-IMG-1722913078cvbjjn.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1722913078cvbjjn.PNG"/>**
 
 **॥ श्रीः ॥**
 
@@ -175,7 +176,7 @@ CONTENTS.
 गणेशप्रसादेन सिध्यन्ति वाचो  
 गणेशे विभौ दुर्लभं किं प्रसन्ने॥९॥
 
-![](../books_images/U-IMG-1722698786EBS_1.png)
+<MISSING_FIG href="../books_images/U-IMG-1722698786EBS_1.png"/>
 
 ॥ श्रीः ॥
 
@@ -200,7 +201,7 @@ CONTENTS.
 महीदेवदेवं महावेदभावं  
 महादेवबालं भजे लोकपालम् ॥ ३ ॥
 
-![](../books_images/U-IMG-1726823566aaas.png)
+<MISSING_FIG href="../books_images/U-IMG-1726823566aaas.png"/>
 
 **यदा संनिधानं गता मानवा मे  
 भवाम्भोधिपारं गतास्ते तदैव।  
@@ -359,7 +360,7 @@ CONTENTS.
 
 श्री सुब्रह्मण्यभुजंगं संपूर्णम् ॥
 
-![](../books_images/U-IMG-1722700393chitraaaa.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1722700393chitraaaa.PNG"/>
 
 **॥ श्रीः ॥**
 
@@ -573,7 +574,7 @@ CONTENTS.
 
 **शिवभुजंगं संपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722700515c.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1722700515c.PNG"/>**
 
 ॥ श्री ॥  
 
@@ -1085,13 +1086,13 @@ CONTENTS.
 
 **शिवानन्दलहरी संपूर्णा ॥**
 
-![](../books_images/U-IMG-1722700855Cccc.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1722700855Cccc.PNG"/>
 
 ॥ श्रीः ॥
 
 **शिवपादादिकेशान्त-  
 वर्णनस्तोत्रम् ॥  
-![](../books_images/U-IMG-1723815277Screenshot2024-08-16190403.png)**
+<MISSING_FIG href="../books_images/U-IMG-1723815277Screenshot2024-08-16190403.png"/>**
 
 **कल्याणं नो विधत्तां कटकतटलसत्कल्पवाटीनिकुञ्ज-  
 क्रीडासंसक्तविद्याधरनिकरवधूगीतरुद्रापदानः।  
@@ -1471,7 +1472,7 @@ CONTENTS.
 
 **॥ वेदसारशिवस्तोत्रम् ॥**
 
-![](../books_images/U-IMG-1722701153C.....PNG)
+<MISSING_FIG href="../books_images/U-IMG-1722701153C.....PNG"/>
 
 **पशूनां पतिं पापनाशं परेशं  
 गजेन्द्रस्य कृत्तिं वसानं वरेण्यम्।  
@@ -1528,14 +1529,14 @@ CONTENTS.
 त्वय्येव गच्छति लयं जगदेतदीश  
 लिङ्गात्मके हर चराचरविश्वरूपिन्॥ ११ ॥**
 
-![](../books_images/U-IMG-1722701284c..PNG)
+<MISSING_FIG href="../books_images/U-IMG-1722701284c..PNG"/>
 
 **॥ श्रीः ॥**
 
 **शिवापराध-  
 क्षमापणस्तोत्रम् ॥**
 
-**![](../books_images/U-IMG-1722704386C.....PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1722704386C.....PNG"/>**
 
 **आदौ कर्म प्रसङ्गात्कलयति कलुषं मातृकुक्षौ स्थितं मां  
 विण्मूत्रामेध्यमध्ये कथयति नितरां जाठरो जातवेदाः।  
@@ -1617,7 +1618,7 @@ CONTENTS.
 श्रीमच्छंकरभगवतः कृतौ  
 **शिवापराधक्षमापणस्तोत्रं संपूर्णम् ॥**
 
-**![](../books_images/U-IMG-1722704584c,.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1722704584c,.PNG"/>**
 
 **॥श्रीः ॥**
 
@@ -1884,7 +1885,7 @@ CONTENTS.
 
 **॥ दशश्लोकीस्तुतिः ॥**
 
-**![](../books_images/U-IMG-1722704703C.....PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1722704703C.....PNG"/>**
 
 साम्बो नः कुलदैवतं पशुपते साम्ब त्वदीया वयं  
 साम्बं स्तौमि सुरासुरोरगगणाः साम्बेन संतारिताः।  
@@ -2080,7 +2081,7 @@ CONTENTS.
 **श्रीदक्षिणामूर्तिवर्णमालास्तोत्रं  
 संपूर्णम् ॥**
 
-**![](../books_images/U-IMG-1722704948vc.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1722704948vc.PNG"/>**
 
 **॥ श्रीः ॥**
 
@@ -2374,7 +2375,7 @@ CONTENTS.
 
 **॥ शिवनामावल्यष्टकम् ॥**
 
-![](../books_images/U-IMG-1722700150chitraaa.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1722700150chitraaa.PNG"/>
 
 **हे चन्द्रचूड मदनान्तक शूलपाणे  
 स्थाणो गिरीश गिरिजेश महेश शंभो।  
@@ -2430,7 +2431,7 @@ CONTENTS.
 
 **॥ शिवपञ्चाक्षरस्तोत्रम् ॥**
 
-![](../books_images/U-IMG-1722705178Capture12.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1722705178Capture12.PNG"/>
 
 **नागेन्द्रहाराय विलोचनाय  
 भस्माङ्गरागाय महेश्वराय।  
@@ -2463,14 +2464,14 @@ CONTENTS.
 
 **शिवपञ्चाक्षरस्तोत्रं संपूर्णम्॥**
 
-**        ![](../books_images/U-IMG-1722705350Capture123.PNG)
+**        <MISSING_FIG href="../books_images/U-IMG-1722705350Capture123.PNG"/>
     **
 
 **॥ श्रीः ॥**
 
 **॥ उमामहेश्वरस्तोत्रम् ॥**
 
-![](../books_images/U-IMG-1722705493Capture234.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1722705493Capture234.PNG"/>
 
 **नमः शिवाभ्यां नवयौवनाभ्यां  
 परस्पराश्लिष्टवपुर्धराभ्यां।  
@@ -2542,7 +2543,7 @@ CONTENTS.
 श्रीमच्छंकरभगवतः कृतौ  
 **उमामहेश्वरस्तोत्रं संपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722705704chitraaaa.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1722705704chitraaaa.PNG"/>**
 
 ॥ श्रीः॥
 
@@ -3055,13 +3056,13 @@ CONTENTS.
 श्रीमच्छंकरभगवतः कृतौ  
 **सौन्दर्यलहरी संपूर्णा॥**
 
-**![](../books_images/U-IMG-1722705815Captureasdfghjkl.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1722705815Captureasdfghjkl.PNG"/>**
 
 **॥ श्रीः॥**
 
 **॥ देवीभुजंगस्तोत्रम् ॥**
 
-![](../books_images/U-IMG-1722699136EBS_2.png)
+<MISSING_FIG href="../books_images/U-IMG-1722699136EBS_2.png"/>
 
 **विरिञ्च्यादिभिः पञ्चभिर्लोकपालैः  
 समूढे महानन्दपीठे निषण्णम्।  
@@ -3208,7 +3209,7 @@ CONTENTS.
 श्रीमच्छंकरभगवतः कृतौ  
 **देवी भुजंगस्तोत्रम् संपूर्णम् ॥**
 
-![](../books_images/U-IMG-1722728035flow.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1722728035flow.PNG"/>
 
 ॥ श्रीः॥
 
@@ -3216,7 +3217,7 @@ CONTENTS.
 
 ॥
 
-![](../books_images/U-IMG-1722728262line.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1722728262line.PNG"/>
 
 **भवानि स्तोतुं त्वां प्रभवति चतुर्भिर्न वदनैः  
 प्रजानामीशानस्त्रिपुरमथनः पञ्चभिरपि।  
@@ -3323,13 +3324,13 @@ CONTENTS.
 श्रीमच्छंकरभगवतः कृतौ  
 **आनन्दलहरी संपूर्णा॥**
 
-**      ![](../books_images/U-IMG-1722827945Capt1.PNG)**
+**      <MISSING_FIG href="../books_images/U-IMG-1722827945Capt1.PNG"/>**
 
 **॥ श्रीः॥**
 
 **॥ त्रिपुरसुन्दरीवेदपादस्तोत्रम् ॥**
 
-![](../books_images/U-IMG-1722828095Capture12.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1722828095Capture12.PNG"/>
 
 वेदपादस्तवं वक्ष्ये देव्याः प्रियचिकीर्षया।  
 यथामति मतिं देवस्तन्नो दन्तिः प्रचोदयात्॥ १ ॥
@@ -3764,13 +3765,13 @@ CONTENTS.
 **त्रिपुरसुन्दरीवेदपादस्तोत्रं  
 संपूर्णम्॥**
 
-**   ![](../books_images/U-IMG-1722833265Captur5.PNG)**
+**   <MISSING_FIG href="../books_images/U-IMG-1722833265Captur5.PNG"/>**
 
 ॥ श्रीः॥
 
 **॥ त्रिपुरसुन्दरीमानसपूजास्तोत्रम् ॥**
 
-**![](../books_images/U-IMG-1722833368Capture12.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1722833368Capture12.PNG"/>**
 
 **मम न भजनशक्तिः पादयोस्ते न भक्ति-  
 र्न च विषयविरक्तिर्ध्यानयोगे न सक्तिः।  
@@ -4407,13 +4408,13 @@ CONTENTS.
 **त्रिपुरसुन्दरीमानसपूजास्तोत्रं  
 संपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722848772Captureasdfghjk.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1722848772Captureasdfghjk.PNG"/>**
 
 **॥ श्रीः ॥**
 
 **॥ देवीचतुःषष्ट्युपचारपूजास्तोत्रम् ॥**
 
-![](../books_images/U-IMG-1722861593Capturedfhjkl;.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1722861593Capturedfhjkl;.PNG"/>
 
 **उषसि मागधमङ्गलगायनै-  
 र्झटिति जागृहि जागृहि जागृहि।  
@@ -4772,13 +4773,13 @@ CONTENTS.
 **देवीचतुःषष्ट्युपचारपूजास्तोत्रं  
 संपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722912164yu.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1722912164yu.PNG"/>**
 
 ॥ श्रीः ॥
 
 ॥ त्रिपुरसुन्दर्यष्टकम् ॥
 
-![](../books_images/U-IMG-1722880825Capture12.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1722880825Capture12.PNG"/>
 
 **कदम्बवनचारिणीं मुनिकदम्बकादम्बिनीं  
 नितम्बजितभूधरां सुरनितम्बिनीसेविताम्।  
@@ -4826,13 +4827,13 @@ CONTENTS.
 श्रीमच्छंकरभगवतः कृतौ  
 **त्रिपुरसुन्दर्यष्टकं संपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722910123fula.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1722910123fula.PNG"/>**
 
 **॥ श्रीः ॥**
 
 **॥ ललितापञ्चरत्नम् ॥**
 
-![](../books_images/U-IMG-1722908972adsfghjkm,lkmbn;.kmnjknm.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1722908972adsfghjkm,lkmbn;.kmnjknm.PNG"/>
 
 **प्रातः स्मरामि ललितावदनारविन्दं  
 बिम्बाधरं पृथुलमौक्तिकशोभिनासम्।  
@@ -4869,13 +4870,13 @@ CONTENTS.
 श्रीमच्छंकरभगवतः कृतौ  
 **ललितापञ्चरत्नं संपूर्णम्॥**
 
-**![](../books_images/U-IMG-1722908794Capturetyj5tgjkl;opi8y7tyrdfxvbm,.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1722908794Capturetyj5tgjkl;opi8y7tyrdfxvbm,.PNG"/>**
 
 ॥ श्रीः॥
 
 ॥ कल्याणवृष्टिस्तवः ॥
 
-![](../books_images/U-IMG-1722908443sdftfygjhvbnm,.kljiyjthdvcxbn.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1722908443sdftfygjhvbnm,.kljiyjthdvcxbn.PNG"/>
 
 **कल्याणवृष्टिभिरिवामृतपूरिताभि-  
 र्लक्ष्मीस्वयंवरणमङ्गलदीपिकाभिः।  
@@ -4963,7 +4964,7 @@ CONTENTS.
 
 **कल्याणवृष्टिस्तवः संपूर्णः॥**  
 
-**![](../books_images/U-IMG-1722907561fool.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1722907561fool.PNG"/>**
 
 ॥ श्रीः ॥
 
@@ -5048,13 +5049,13 @@ CONTENTS.
 
 नवरत्नमालिका संपूर्णा ॥
 
-**![](../books_images/U-IMG-1722857687EBS_5.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722857687EBS_5.png"/>**
 
 ॥ श्रीः ॥  
 
 ॥ मन्त्रमातृकापुष्पमालास्तवः ॥
 
-**![](../books_images/U-IMG-1722855950EBS_2.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722855950EBS_2.png"/>**
 
 कल्लोलोल्लसितामृताब्धिलहरीमध्ये विराजन्मणि-  
 
@@ -5197,13 +5198,13 @@ CONTENTS.
 श्रीमच्छंकरभगवतः कृतौ  
 **मन्त्रमातृकापुष्पमालास्तवः संपूर्णः॥**
 
-**![](../books_images/U-IMG-1722854519EBS_4.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722854519EBS_4.png"/>**
 
 **॥ श्रीः ॥**  
 
 **॥ गौरीदशकम् ॥**
 
-![](../books_images/U-IMG-1722854147EBS_2.png)
+<MISSING_FIG href="../books_images/U-IMG-1722854147EBS_2.png"/>
 
 लीलालब्धस्थापितलुप्ताखिललोकां  
 
@@ -5293,13 +5294,13 @@ CONTENTS.
 
 तस्यावश्यं पर्वतपुत्री विदधाति ॥ ११ ॥
 
-![](../books_images/U-IMG-1722851386EBS_3.png)
+<MISSING_FIG href="../books_images/U-IMG-1722851386EBS_3.png"/>
 
 ॥ श्रीः ॥
 
 ॥ भवानीभुजंगम् ॥
 
-![](../books_images/U-IMG-1722848831EBS_2.png)
+<MISSING_FIG href="../books_images/U-IMG-1722848831EBS_2.png"/>
 
 षडाधारपङ्केरुहान्तर्विराज-
 
@@ -5451,6 +5452,6 @@ CONTENTS.
 
 ♦
 
-![](../books_images/U-IMG-1722848637ddddd.png)
+<MISSING_FIG href="../books_images/U-IMG-1722848637ddddd.png"/>
 
 \]

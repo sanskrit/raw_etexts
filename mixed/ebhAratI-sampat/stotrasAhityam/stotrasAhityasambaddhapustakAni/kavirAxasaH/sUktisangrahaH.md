@@ -26,7 +26,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA1NTMxNzYxOTA
 **कविराक्षसकृतः।**
 
 **सूक्तिसंग्रहः।**  
-![](../../../books_images/U-IMG-1723346984Screenshot2024-08-11085743.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1723346984Screenshot2024-08-11085743.png"/>
 
 **प्रथमा पद्धतिः।**
 
@@ -365,6 +365,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA1NTMxNzYxOTA
 
 **समाप्तोऽयं ग्रन्थः॥**
 
-**![](../../../books_images/U-IMG-1723808789Screenshot2024-08-16114601.png)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1723808789Screenshot2024-08-16114601.png"/>**
 
 \]

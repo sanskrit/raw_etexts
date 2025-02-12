@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5ODY1OTI2NDg
 
 \[
 
+
+
+
+
 कल्याणवृष्टिस्तवः
+
+
 
 कल्याणवृष्टिभिरिवामृतपूरिताभि-
 
@@ -140,5 +146,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5ODY1OTI2NDg
 तस्य क्षोणिभुजो भवन्ति वशगा लक्ष्मीश्चिरस्थायिनी
 
 वाणी निर्मलसूक्तिभारभरिता जागर्ति दीर्घं वयः॥१६॥
+
+
+
 
 \]
