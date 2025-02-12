@@ -189,11 +189,11 @@ in his poetry is to be attributed to the literary conventionscurrent in his time
 
 **भामिनीविलासे।**
 
-![](../books_images/U-IMG-1725178836090100-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1725178836090100-removebg-preview.png"/>
 
 **प्रास्ताविकविलासः।**
 
-![](../books_images/U-IMG-1725178849090101-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1725178849090101-removebg-preview.png"/>
 
 **दिगन्ते श्रूयन्ते मदमलिनगण्डाः करटिनः  
 करिण्यः कारुण्यास्पदमसमशीलाः खलु मृगाः।  
@@ -1080,7 +1080,7 @@ exuberance of modesty which they feel, on hearing their own praises sung sweetly
 **अथ**  
 **शान्तविलासः।**
 
-![](../books_images/U-IMG-1725186442090102-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1725186442090102-removebg-preview.png"/>
 
 **विशालविषयाटवीवलयलग्नदावानल-  
 प्रसृत्वरशिखावलीविकलितं मदीयं मनः।  
@@ -1447,7 +1447,7 @@ tions, which out–do the sweetness of the lower lip ofacelestial damsel indolen
 
 **Important Abbreviations.**
 
-![](../books_images/U-IMG-1725278640090103-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1725278640090103-removebg-preview.png"/>
 
  Ait. Br.—Aitareya Brāhmana
 
@@ -1643,7 +1643,7 @@ well-known **हंसोड़कन्याय** is based on this belief, cf.
 
  Ve. 13.**—उपरि**-In appearance.**करवालधाराकाराः—करवालस्य(खङ्गस्य) धारा इव(क्रूरः) आकारोयेषां ते. आकार–**Shape, appearance. **करवाल०**Who are deadly–looking like the edge of a sword. **भुजंगमपुङ्गव**the best—and that means the worst-of serpents. Words like**पुङ्गव, ऋषभ, व्याघ्र,** etc. are used as the latter member of a compound in the sense of ‘the best’ . cf. **स्युरुत्तरपदे व्याघ्रपुङ्गवर्षभकुञ्जराः।सिंहशार्दूलनागाद्याः पुंसि श्रेष्ठार्थगोचराः॥ अमर. अन्त :—**At heart. **द्राक्षादीक्षागुरव** :—The preceptor initiates a novice; and he is alwayssuperior to his pupil in point of knowledge. In the same waythese rare men are so kind-hearted and therefore so ‘sweet’that they may well be the preceptors of grapes in point ofsweetness.
 
- The metre is **गीति**;but the second pāda jolts very badlytowards the end, for it is defective in rhythm. It is laiddown that no odd gaṇa (a unit of four mātrās) should be **ज**![](../books_images/U-IMG-1725287383090104-removebg-preview.png)in an Āryā. Here, however, the rule is violated, for theseventh gana is a **जगण**. Hence the awkwardness in rhythm.Cf. **आर्यापूर्वार्धे ‘नेह भवति विषमे जः’इति नियमादत्र च विषमे सप्तमस्थाने जगणस्यसत्त्वाच्छन्दोभङ्गदूषितमेतदार्यापूर्वार्धमिति ज्ञेयम्।** R. G. p. 275 n.
+ The metre is **गीति**;but the second pāda jolts very badlytowards the end, for it is defective in rhythm. It is laiddown that no odd gaṇa (a unit of four mātrās) should be **ज**<MISSING_FIG href="../books_images/U-IMG-1725287383090104-removebg-preview.png"/>in an Āryā. Here, however, the rule is violated, for theseventh gana is a **जगण**. Hence the awkwardness in rhythm.Cf. **आर्यापूर्वार्धे ‘नेह भवति विषमे जः’इति नियमादत्र च विषमे सप्तमस्थाने जगणस्यसत्त्वाच्छन्दोभङ्गदूषितमेतदार्यापूर्वार्धमिति ज्ञेयम्।** R. G. p. 275 n.
 
  Vs. 14.—**स्वच्छन्दम्**—At will,**हरिदन्तराणि–**The intervalsbetween the quarters.
 
@@ -2345,7 +2345,7 @@ the standard which Jagannātha sets for all aspirants forrecognition as poets to
 
 ** **Vs. 46.**—दुर्वृत्ताः—दुष्टंवृत्तं येषाम्.**Villains, ill-behaved men.**जारजन्मानः–जारेभ्यःजन्म येषाम्.** Bastards; born without blue bloodin their veins. Mark the vehemane of Jagannātha’s hostileattitude towards plagiarists. **हरिष्यन्तीति शङ्कया—**The same kindof suspicion had troubled Jayadeva, too; cf. **तेन हि निजनाटकमर्पयित्वेदमुक्तऽस्मि–‘रक्षणीयमिदं सूक्तिरत्नं चौरेभ्यः’इति।**Pra R. 1. **मञ्जूषा—**A safe. This line is important because it shows the genesisof the present work.
 
-![](../books_images/U-IMG-1725599297090106-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1725599297090106-removebg-preview.png"/>
 
 **APPENDIX**
 
@@ -2453,9 +2453,8 @@ the standard which Jagannātha sets for all aspirants forrecognition as poets to
 
 |                                                 |
 |-------------------------------------------------|
-| ![](../books_images/U-IMG-1725447434090105.png) |
+| <MISSING_FIG href="../books_images/U-IMG-1725447434090105.png"/> |
 
 # 
 
 \]
-

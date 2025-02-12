@@ -24,7 +24,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQzMzY1NTAyMzQ
 ॥ श्रीः॥
 
 **प्रसन्नराघवम्।**  
-**![](../books_images/U-IMG-1730166861Screenshot2024-10-29072140.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1730166861Screenshot2024-10-29072140.png"/>**
 
 **प्रथमोऽङ्कः।**
 
@@ -1058,7 +1058,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQzMzY1NTAyMzQ
 
 **इति द्वितीयोऽङ्कः।**
 
-![](../books_images/U-IMG-1730268962लाै.png)
+<MISSING_FIG href="../books_images/U-IMG-1730268962लाै.png"/>
 
 **तृतीयोऽङ्कः।**
 
@@ -1625,7 +1625,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQzMzY1NTAyMzQ
 
 **इति तृतीयोऽङ्कः।**
 
-**![](../books_images/U-IMG-1730287848लललल.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1730287848लललल.png"/>**
 
 **चतुर्थोऽङ्कः।**
 
@@ -2282,8 +2282,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQzMzY1NTAyMzQ
 
  **यमुना—**तदो[^70] तदो।
 
-[^70]: "ततस्ततः।"
-
  **हंसः—** ततः प्रियतममनुगच्छन्ती जानकी
 
 **भीतं विलोक्य हरिणं करुणार्द्रचित्ता  
@@ -2365,8 +2363,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQzMzY1NTAyMzQ
 
  **यमुना—**तदो[^70] तदो।
 
-[^70]: "ततस्ततः।"
-
  **हंसः—**ततश्च शबरशरदलितविन्ध्यकरिकुम्भतटीविमुक्तमुक्ताफलप्रकरतारकिततीरलतावितानपरिच्छदां शर्मदां नर्मदामतीत्याचिरेण चपलकर्णाञ्चलपरिमिलितमदकरिकपोलचलितसहचरसमागममुदितमधुकरवधूमधुरसरसकुसुमकेसरं गोदावरीपरिसरं प्रयाताः।
 
 **यमुना—**हद्धि[^73] हद्धि। तत्थ हि लङ्केसरभइणी क्खणेण पमत्तासुप्पहा णाम रक्खसी परिब्भमई।
@@ -2413,8 +2409,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQzMzY1NTAyMzQ
  **सरयूः—** दिष्ट्या जीवितास्मि। सेयं प्रथमदर्शिततीव्रातपा पीयूष वृष्टिः।
 
  **यमुना—[][^70]**तदो[^70] तदो।
-
-[^70]: "ततस्ततः।"
 
  **हंसः—**ततः प्रमुदितमुनिजनशतसमुद्भूतसाधुवादश्रवणविनोदेन कतिचिदहानि नयन्ति स्म।
 
@@ -2645,7 +2639,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQzMzY1NTAyMzQ
 
 **इति पञ्चमोऽङ्कः।**
 
-![](../books_images/U-IMG-1730315096Screenshot(87).png)
+<MISSING_FIG href="../books_images/U-IMG-1730315096Screenshot(87"/>.png)
 
 **षष्टोऽङ्कः।**
 
@@ -3242,9 +3236,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQzMzY1NTAyMzQ
 
  **हनूमान्—** देवि, कृतकार्योऽस्मि। तदलमतःपरमात्मापलापेन। तदिदं प्रणम्यसे आपृच्छसे च।
 
- **सीता—** [अ](#)ए[^104]पवणणन्दण, अणाआसेण इमं दुण्णिसाअरसाअरं अदिक्कमेहि।
+ **सीता—** अ[^130]ए[^104]पवणणन्दण, अणाआसेण इमं दुण्णिसाअरसाअरं अदिक्कमेहि।
 
 [^104]: "अये पवननन्दनं, अनायासेनेनं दुर्निशाचरसागरमतिक्रमख।"
+
+[^130]: #
 
  **हनूमान्—** अयं मूर्ध्नि गृहीतो देव्याः प्रसादः। (इति निष्क्रान्तः।)
 
@@ -3656,8 +3652,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQzMzY1NTAyMzQ
 **लक्ष्मणेन गृहीतेयं प्रियेव निजवक्षसा॥२८॥**
 
  **विद्याधरी—**हद्धि[^101] हद्धि।
-
-[^101]: "हा धिक् हा धिक्।"
 
  **विद्याधरः—**
 
@@ -4279,7 +4273,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQzMzY1NTAyMzQ
 
 **श्लोकानुक्रमणिका।**
 
-![](../books_images/U-IMG-17301966170002.png)
+<MISSING_FIG href="../books_images/U-IMG-17301966170002.png"/>
 
 |                              |                               |
 |------------------------------|-------------------------------|
@@ -4497,4 +4491,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQzMzY1NTAyMzQ
 | सौन्दर्यं मदनादपि प्रथ ४|१४  | हेलोन्मूलितचन्द्रचूड ७|३८       |
 
 \]
-

@@ -29,10 +29,10 @@ EAST-INDIA COLLEGE, JUNE, 1849.
 ॥ श्रीकालिदासमहाकविविरचितं ॥**  
 
 **॥विक्रमोर्वशी॥  
-![](../books_images/U-IMG-1727346824Screenshot(65).png) **
+<MISSING_FIG href="../books_images/U-IMG-1727346824Screenshot(65"/>.png) **
 
 **॥प्रस्तावना॥  
-![](../books_images/U-IMG-1727346872Screenshot(64).png) **
+<MISSING_FIG href="../books_images/U-IMG-1727346872Screenshot(64"/>.png) **
 
 **॥नान्दी॥**
 

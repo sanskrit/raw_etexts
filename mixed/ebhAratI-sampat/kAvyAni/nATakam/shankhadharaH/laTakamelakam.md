@@ -18,7 +18,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg2NTc3ODU1OTE
 \[
 
 **KÂVYAMÂLÂ. 20.  
-![](#)![](../books_images/U-IMG-1726590444Screenshot2024-09-17215326.jpg)**  
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1726590444Screenshot2024-09-17215326.jpg"/>**  
 
 **THE  
 LATAKAMELAKA**  
@@ -49,7 +49,7 @@ MAHÂMAHOPÂDHYÂYA PANDIT DURGÂPRASÂDA**
 **———————**  
 
 **Second Revised Edition.  
-![](../books_images/U-IMG-1726590586Screenshot2024-09-17215808.jpg)  
+<MISSING_FIG href="../books_images/U-IMG-1726590586Screenshot2024-09-17215808.jpg"/>  
 PRINTED AND PUBLISHED  
 BY**  
 
@@ -69,7 +69,7 @@ Price 4 Ånna**
 श्रीशङ्खधरविरचितं  
 
 **लटकमेलकम् ।  
-![](../books_images/U-IMG-1726591015Screenshot2024-09-17220526.jpg)**
+<MISSING_FIG href="../books_images/U-IMG-1726591015Screenshot2024-09-17220526.jpg"/>**
 
 **जयपुरमहाराजाश्रितेन पण्डितव्रजलालसूनुना महामहोपाध्याय-  
 पण्डितदुर्गाप्रसादेन, मुम्बापुरवासिना परबोपाह्व-  
@@ -79,7 +79,7 @@ Price 4 Ånna**
 
 **द्वितीयं संस्करणम् ।**  
 
-**![](#)![](../books_images/U-IMG-1726591139Screenshot2024-09-17220657.jpg)**  
+**<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1726591139Screenshot2024-09-17220657.jpg"/>**  
 
 **तच्च**  
 
@@ -90,11 +90,11 @@ Price 4 Ånna**
 
 **( अस्य ग्रन्थस्य पुनर्मुद्रणादिविषये सर्वथा निर्णयसागरमुद्रायन्त्रालयाधिपते-  
 रेवाधिकारः। )  
-![](../books_images/U-IMG-1726591172Screenshot2024-09-17220657.jpg)**
+<MISSING_FIG href="../books_images/U-IMG-1726591172Screenshot2024-09-17220657.jpg"/>**
 
 **काव्यमाला।**  
 
-**![](#)**![](../books_images/U-IMG-1726590107Screenshot2024-09-17214722.jpg)  
+**<MISSING_FIG href="#"/>**<MISSING_FIG href="../books_images/U-IMG-1726590107Screenshot2024-09-17214722.jpg"/>  
 
 **महाकवि[^1]श्रीशङ्खधरविरचितं  
 लट[^2]कमेलकम्।**  
@@ -103,7 +103,7 @@ Price 4 Ånna**
 
 [^2]: %C2%A0‘लटको%20दुर्जनः%20इत्युणादिसूत्रवृत्तावुज्ज्वलदत्तः.%20लटकानां%20मेलकः%20संघटनं%20यत्र%20तल्लटकमेलकम्, "‘लटको दुर्जनः इत्युणादिसूत्रवृत्तावुज्ज्वलदत्तः. लटकानां मेलकः संघटनं यत्र तल्लटकमेलकम्,"
 
-**![](../books_images/U-IMG-1726590173Screenshot2024-09-17215111.jpg)**  
+**<MISSING_FIG href="../books_images/U-IMG-1726590173Screenshot2024-09-17215111.jpg"/>**  
 
 **प्रथमोऽङ्कः।**
 
@@ -209,6 +209,7 @@ Price 4 Ånna**
 
 [^15]: ‘गोमुखलाञ्छव'%20ख. "‘गोमुखलाञ्छव' ख."
 
+ 
 (पुरो[^16]ऽवलोक्य।) अये, दन्तुरायाः कुट्टन्याः पुरतो भुजंगसंगीतकं वर्तते। तदुपसर्पामि। (इति निष्क्रान्तः।)
 
 [^16]: %20'श्रुत्वा%20पुरोऽवलोक्य%20च’%C2%A0ख. " 'श्रुत्वा पुरोऽवलोक्य च’ख."
@@ -1750,7 +1751,7 @@ Price 4 Ånna**
 **समाप्तमिदं लटकमेलकं नाम प्रहसनम्।**
 
 **लटकमेलकस्थलश्लोकानां सूची।  
-![](../books_images/U-IMG-1726595861Screenshot2024-09-17220657.jpg)**  
+<MISSING_FIG href="../books_images/U-IMG-1726595861Screenshot2024-09-17220657.jpg"/>**  
 
 |                           |                             |
 |---------------------------|-----------------------------|
@@ -1796,8 +1797,8 @@ Price 4 Ånna**
 | वेपथुर्मलिनं वक्रं           | हठाक्रान्तं नीलोत्पलदल    |
 | व्याधयो मदुपचार             | हर्षोत्फुल्लकपोलया स्तनभर  |
 
+                                    
                               
-![](../books_images/U-IMG-1726595947Screenshot2024-09-17232716.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1726595947Screenshot2024-09-17232716.jpg"/>
 
 \]
-

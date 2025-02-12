@@ -2260,7 +2260,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MDg5NTM2NTE
 
  इति श्रीमहामहोपाध्यायकोलाचलमल्लिनाथसूरिविरचितायां कुमारसम्भवव्याख्यायां सञ्जीवनीसमाख्यायां चतुर्थः सर्गः।
 
-![](../books_images/U-IMG-1726301763Screenshot2024-09-14133954.png)  
+<MISSING_FIG href="../books_images/U-IMG-1726301763Screenshot2024-09-14133954.png"/>  
+                                   
+             
 
 **पञ्चमः सर्गः।**
 
@@ -3020,7 +3022,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MDg5NTM2NTE
  इति श्रीमहामहोपाध्यायकोलाचलमल्लिनाथ सूरिरिवचितायां कुमारसम्भवव्याख्यायां सञ्जीबनी  
 समाख्यायां पञ्चमः सर्गः॥  
 
-![](../books_images/U-IMG-1726362679kl.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1726362679kl.PNG"/>
 
 अथ विश्वात्मने गौरी सन्दिदेशमिथः सखीम्।  
 दाता मे भूभृतां नाथः प्रमाणीक्रियतामिति॥१॥
@@ -3612,7 +3614,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MDg5NTM2NTE
 सूरिविरचितायां कुमारसम्भवव्याख्यायां सञ्जीवनी  
 समाख्यायां षष्ठः सर्गः।
 
-![](../books_images/U-IMG-1726648151lop.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1726648151lop.PNG"/>
 
 सप्तमः सर्गः॥
 

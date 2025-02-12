@@ -34,7 +34,7 @@ DR AMARESWAR THAKUR**, _(M A, PH D)**
 _(**and an Introduction**)  
 BY  
 ASHOKANATH SHASTRI _(M A, P R S)  
-![](../books_images/U-IMG-1730811118Screenshot2024-11-051812279999899899989999999.png)  
+<MISSING_FIG href="../books_images/U-IMG-1730811118Screenshot2024-11-051812279999899899989999999.png"/>  
 SANSKRIT SAHITYA PARISHAD  
 **_(Shyambazar, Calcutta)**  
 1939
@@ -52,7 +52,7 @@ SANSKRIT SAHITYA PARISHAD
 श्रीकालीपद-तर्काचार्येण
 
 प्रणीतम्  
-![](../books_images/U-IMG-1730810583Screenshot2024-11-051812279999899899989999999.png)
+<MISSING_FIG href="../books_images/U-IMG-1730810583Screenshot2024-11-051812279999899899989999999.png"/>
 
 १८५१तमे शकाब्दे  
 कलिकातान्तर्गत-श्यामवाजारस्थ-  

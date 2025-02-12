@@ -130,7 +130,7 @@ MADRAS,
 
 **नाम नाटकम्।**
 
-![](../books_images/U-IMG-1720622390Screenshot(3).png)
+<MISSING_FIG href="../books_images/U-IMG-1720622390Screenshot(3"/>.png)
 
 **सौहित्यं विदधाति यः सुमनसां शश्वत्प्रसन्नोदयः  
 सन्तो यं समुदाहरन्ति महतो देवस्य देहान्तरम्।  
@@ -2887,11 +2887,11 @@ MADRAS,
 
 **चतुर्थोऽङ्कः।**
 
-**![](../books_images/U-IMG-1721036085Screenshot(6).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721036085Screenshot(6"/>.png)**
 
 **पञ्चमोऽङ्कः।**
 
-![](../books_images/U-IMG-1721026428Screenshot(3).png)
+<MISSING_FIG href="../books_images/U-IMG-1721026428Screenshot(3"/>.png)
 
  (नेपथ्ये) भो भो रङ्गशृङ्गारसंगीतशेखरप्रभृतयो दिव्यदेशनटाः,महाराजतारापीडप्रेषितस्य लेखस्य वचनानुपदमेवोज्जयिनीं प्रस्थितोयुवराजः। ननु भवद्भिर्नाट्यप्रयोगप्रदर्शनं प्रत्यमोघप्रयत्नैर्भवितव्यम्; यत्तेनैव चन्द्रापीडेनात्मनो द्वितीयं हृदयममात्यशुकनाससूनुरार्यवैशम्पायनःसेनापतिना वलाहकेन समं चिरानुभूतदिग्विजययात्रापरिक्लेशतया शनैःप्रस्थास्यमानस्य स्कन्धावारस्य रक्षणाय नियुक्तोऽत्र वर्ततेऽद्यापि।
 
@@ -2902,7 +2902,7 @@ MADRAS,
 
 **चूलिका**
 
-![](../books_images/U-IMG-1721026476Screenshot(5).png)
+<MISSING_FIG href="../books_images/U-IMG-1721026476Screenshot(5"/>.png)
 
 **(ततः प्रविशति वलाहकः)**
 
@@ -3000,7 +3000,7 @@ MADRAS,
 
 **आमुखम्**
 
-![](../books_images/U-IMG-1721034471Screenshot(5).png)
+<MISSING_FIG href="../books_images/U-IMG-1721034471Screenshot(5"/>.png)
 
 (ततः प्रविशति महाश्वेता सखी च)
 
@@ -3795,11 +3795,11 @@ MADRAS,
 
 **पञ्चमोऽङ्कः ॥**
 
-![](../books_images/U-IMG-1721059964Screenshot(7).png)
+<MISSING_FIG href="../books_images/U-IMG-1721059964Screenshot(7"/>.png)
 
 **षष्ठोऽङ्कः ।**
 
-![](../books_images/U-IMG-1721124754Screenshot(8).png)
+<MISSING_FIG href="../books_images/U-IMG-1721124754Screenshot(8"/>.png)
 
 (प्रविश्य)
 
@@ -3813,7 +3813,7 @@ MADRAS,
 
 **विष्कम्भकः।**
 
-**![](../books_images/U-IMG-1721125198Screenshot(5).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721125198Screenshot(5"/>.png)**
 
 (ततः प्रविशति पत्रलेखाविदूषकाभ्यामनुगतश्चन्द्रापीडः)
 
@@ -4415,11 +4415,11 @@ MADRAS,
 
 **षष्ठोऽङ्कः।**
 
-![](../books_images/U-IMG-1721217808Screenshot(7).png)
+<MISSING_FIG href="../books_images/U-IMG-1721217808Screenshot(7"/>.png)
 
 **सप्तमोऽङ्कः।**
 
-![](../books_images/U-IMG-1721218080Screenshot(5).png)
+<MISSING_FIG href="../books_images/U-IMG-1721218080Screenshot(5"/>.png)
 
 (प्रविश्य)
 
@@ -5041,11 +5041,11 @@ MADRAS,
 
 **सप्तमोऽङ्कः ।**
 
-![](../books_images/U-IMG-1721234452IMG_20240717_220957.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721234452IMG_20240717_220957.jpg"/>
 
 **अष्टमोऽङ्कः।**
 
-![](../books_images/U-IMG-1721285453Screenshot(8).png)
+<MISSING_FIG href="../books_images/U-IMG-1721285453Screenshot(8"/>.png)
 
 (ततः प्रविशति वीतंसहस्तो मातङ्गकः)
 
@@ -5795,14 +5795,14 @@ MADRAS,
 
 **अष्टमोऽङ्कः।**
 
-![](../books_images/U-IMG-1721313318Screenshot(7).png)  
+<MISSING_FIG href="../books_images/U-IMG-1721313318Screenshot(7"/>.png)  
 **कादम्बरीकल्याणं नाटकं**
 
 **समाप्तम् ॥**
 
 **पद्यानुक्रमणी**
 
-**![](../books_images/U-IMG-1721316027Screenshot(3).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721316027Screenshot(3"/>.png)**
 
 |                      |                      |
 |----------------------|----------------------|
@@ -6010,4 +6010,3 @@ MADRAS,
 | राजपुत्रः     | राजपुत्रैः   |
 
 \]
-

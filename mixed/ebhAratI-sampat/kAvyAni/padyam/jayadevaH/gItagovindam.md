@@ -34,7 +34,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4Mzg2NTIwNjg
 
 **गीतगोविन्दकाव्यम् ।**
 
-**![](../books_images/U-IMG-1724497139fg.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1724497139fg.PNG"/>**
 
 **श्रीकुम्भनृपतिप्रणीतरसिकप्रियाख्यव्याख्यया, महामहोपाध्याय-  
 श्रीशंकरमिश्रनिर्मितरसमञ्जर्याख्यव्याख्यया च  
@@ -45,7 +45,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4Mzg2NTIwNjg
 वशास्त्रिणा च पाठान्तरादिभिः संस्कृत्य  
 संशोधितम् ।**
 
-**![](../books_images/U-IMG-1724497286gara.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1724497286gara.PNG"/>**
 
 **तच्च**
 
@@ -63,7 +63,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4Mzg2NTIwNjg
 
 **प्रस्तावना**
 
-![](../books_images/U-IMG-1724498055fg.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1724498055fg.PNG"/>
 
  श्रीमहाकविजयदेवविरचितं मृदुलपदसरणिललितं रुचिरार्थसंहतिबहुलं सरसरागनिबद्धसुप्रबन्धप्रधानं शृङ्गाररसभाण्डारसदृशमिदं गीतगोविन्दकाव्यं कैश्चिद्भूयो मुद्रयित्वा प्रकाशितमपि सहृदयाल्हादिन्या साहित्यसंगीतविवेकप्रचुरया टीकया समेतं केनापि प्रकाशितं नैव दृश्यते। अतस्तद्रसध्वन्यलंकाररागतालादिलक्षणानुगतिद्योतकेन टीकाद्वयेनालंकृत्य संप्रति रसिकजनविनोदाय प्रकाश्यते।
 
@@ -847,7 +847,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4Mzg2NTIwNjg
 
 **गीतगोविन्दकाव्यम्।**
 
-**![](../books_images/U-IMG-1724485334fl.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1724485334fl.PNG"/>**
 
 **कुम्भनृपतिप्रणीतरसिकप्रियाख्यव्याख्यया  
 महामहोपाध्यायशंकरमिश्रनिर्मितरसमञ्जर्याख्यव्याख्यया च  
@@ -855,7 +855,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4Mzg2NTIwNjg
 
 **प्रथमः सर्गः १**
 
-![](../books_images/U-IMG-1724485443so.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1724485443so.PNG"/>
 
 **मेघैर्मेदुरमम्बरं वनभुवः श्यामास्तमालद्रुमै-  
 र्नक्तं भीरुरयं त्वमेव तदिमं राधे गृहं प्रापय।**
@@ -1505,8 +1505,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4Mzg2NTIwNjg
 
 **युवतिषु वलत्तृष्णे[^13] कृष्णे विहारिणि मां विना  
 पुनरपि मनो वामं कामं करोति करोमि किम्॥ १॥ **
-
-[^13]: "'चलत्' इति पाठः।"
 
 **मालवगौडरागेण एकतालीतालेन च गीयते। प्र०॥ ६॥  
 निभृतनिकुञ्जगृहं गतया निशि रहसि निलीय वसन्तम्।**
@@ -2989,7 +2987,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4Mzg2NTIwNjg
 
 इति श्रीशंकरमिश्रविरचितायां गीतगोविन्दटीकायां रसमञ्जर्यां नवमःसर्गः॥
 
-![](../books_images/U-IMG-1726303982Screenshot2024-09-02at16-37-17EditBookE-Bharatisampat.png)
+<MISSING_FIG href="../books_images/U-IMG-1726303982Screenshot2024-09-02at16-37-17EditBookE-Bharatisampat.png"/>
 
 **दशमः सर्गः**
 
@@ -3223,7 +3221,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4Mzg2NTIwNjg
 
 **रसमञ्जरीसमाख्यायां दशमः सर्गः॥**
 
-**![](../books_images/U-IMG-1726319767Screenshot2024-09-02at16-37-17EditBookE-Bharatisampat.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1726319767Screenshot2024-09-02at16-37-17EditBookE-Bharatisampat.png"/>**
 
 **एकादशः सर्गः।**
 
@@ -3350,7 +3348,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4Mzg2NTIwNjg
 
 [^101]: "'सखी निजगाद राधाम्' इति पाठः"
 
-**वराडीराग[रूपक](#)तालाभ्यां गीयते। प्र० २१॥**
+**वराडीरागरूपक[^139]तालाभ्यां गीयते। प्र० २१॥**
+
+[^139]: #
 
 **मञ्जुतरकुञ्जतलकेलिसदने।  
 विलस रतिरभसहसितवदने॥ १॥  
@@ -3568,7 +3568,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4Mzg2NTIwNjg
 
 इति श्रीमहामहोपाध्यायश्रीशंकरमिश्रविरचितायां शालिनाथकारितायां गीतगोविन्दटीकायां रसमञ्जरीसमाख्यायामेकादशः सर्गः॥
 
-![](../books_images/U-IMG-1726473614Screenshot2024-09-02at16-37-17EditBookE-Bharatisampat.png)
+<MISSING_FIG href="../books_images/U-IMG-1726473614Screenshot2024-09-02at16-37-17EditBookE-Bharatisampat.png"/>
 
 **द्वादशः सर्गः।**
 
@@ -3800,7 +3800,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4Mzg2NTIwNjg
 
 **रचय कुचयोः पत्रं चित्रं कुरुष्व कपोलयो-  
 र्घटय जघने काञ्चींमुग्धस्रजा[^129] कबरीभरम्।  
-कलय वलयश्रेणीं पाणौ पदे [म](#)णिनूपुरा[^130]-  
+कलय वलयश्रेणीं पाणौ पदे म[^140]णिनूपुरा[^130]-  
 विति निगदितः प्रीतः पीताम्बरोऽपि तथाकरोत्[^131]॥ ९॥**
 
 [^129]: "काशीमश्च स्रजा ' इति पाठः।"
@@ -3808,6 +3808,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4Mzg2NTIwNjg
 [^130]: " पदे कुरु नूपुरा-' इति पाठः।"
 
 [^131]: "अस्याग्रे क्वचित्पुस्तके निम्नलिखितः श्लोकः समुपलभ्यते——  ‘पर्यङ्कीकृतनागनायकफणा श्रेणीमणीनां गणे सङ्क्रान्तप्रतिबिम्बसंवलनया विभ्रद्विभुप्रक्रियाम्। पादाम्भोरुहधारिवारिधिसुतामक्ष्णां दिदृक्षुः शतैः कायन्यूहमिवाचरन्नुपचितौ भूतो हरिः पातु वः॥"
+
+[^140]: #
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3862,7 +3864,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4Mzg2NTIwNjg
 
 इति श्रीमहामहोपाध्यायदिनेश्वरमिश्रात्मजश्रीमहामहोपाध्यायशंकर मिश्रविरचितायां श्रीशालिनाथकारितायां गीतगोविन्दटीकायां रसमञ्जरीसमाख्यायां द्वादशः सर्गः समाप्तिं पफाण॥
 
-![](../books_images/U-IMG-1726501715Screenshot2024-09-02at16-37-17EditBookE-Bharatisampat.png)
+<MISSING_FIG href="../books_images/U-IMG-1726501715Screenshot2024-09-02at16-37-17EditBookE-Bharatisampat.png"/>
 
 **इत्थं[^138] केलिततीर्विहृत्य यमुनाकूले समं राधया  
 तद्रोमावलिमौक्तिकावलियुगे वेणीभ्रमं बिभ्रति।  

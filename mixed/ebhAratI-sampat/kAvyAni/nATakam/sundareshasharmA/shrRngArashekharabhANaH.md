@@ -23,7 +23,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUwOTMxOTExMTU
 **सुन्दरेशशर्मविरचितः**
 
 **॥शृङ्गारशेखरभाणः॥**  
-**![](../books_images/U-IMG-17218726313.png)**
+**<MISSING_FIG href="../books_images/U-IMG-17218726313.png"/>**
 
 **केलीसौधगृहं स्मिताञ्चितमुखः क्षोणीसुतायाः करं  
 प्रेम्णाऽऽलम्ब्य भुजान्तरे मलयजं धृत्वा स्रजाऽलंकृते।  
@@ -1214,13 +1214,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUwOTMxOTExMTU
 (इति निष्क्रान्तः।)
 
 **नवनिमिमिते कलावयमब्देशृङ्गारशेखरो भाणः।  
-परितोषाय बुधानां रचितः श्रीसुन्दरेशेन॥![](#)**
+परितोषाय बुधानां रचितः श्रीसुन्दरेशेन॥<MISSING_FIG href="#"/>**
 
 **इति**  
 **श्री सुन्दरेशशर्मविरचितः  
 शृङ्गारशेखरभाणः  
 समाप्तः**
 
-**![](#)![](#)![](../books_images/U-IMG-1721486544Screenshot2024-07-20201017.png)**
+**<MISSING_FIG href="#"/><MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1721486544Screenshot2024-07-20201017.png"/>**
 
 \]

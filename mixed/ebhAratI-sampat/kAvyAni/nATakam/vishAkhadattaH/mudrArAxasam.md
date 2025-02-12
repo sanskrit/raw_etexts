@@ -63,7 +63,7 @@ Aryasamskriti Press
 Tilak Road, Poona 2
 
 **P R E F A C E  
-![](../books_images/U-IMG-1727427415Screenshot2024-09-27142645.png)**
+<MISSING_FIG href="../books_images/U-IMG-1727427415Screenshot2024-09-27142645.png"/>**
 
  Candidates intending to appear for the Inter Arts Examination of the University of Bombay in 1948, 49 and 50 have to ad the Mudrārākṣasa of Viśākhadatta as one of the prescribed ts in Sanskrit. The present edition of the Mudrārāksasa is imarily intended for them. With a view to facilitating the understanding of the text, the translation of the same into English has been printed just below it. Students need not to be rightened by the brackets, semicircular and rectangular, appearing in the translation. The former contain Sanskrit words to the rendering of which it was found necessary to draw a pointed attention of the reader in which case the words have been printed in italics with the necessary diacritical marks. The latter are ended mostly when certain words had to be supplied in order to complete the sense yielded by the words in the text itself. Lines purprose following each verse are numbered so as to make a reference to them in the Notes easy The number of the act and act of the verse explained are indicated at the top of every page the Notes part of the edition. Thus on page 56 of the Notes \[II 11\] at the top in the right hand corner indicates that on that ge is to be found the explanation of the 11th verse from the second act of the play. 2, 10,7 on that very page down below indicates that the 7th line commencing from after the 10th verse from the second act is being explained. The first figure refers to the act, the second to the verse from after which lines in prose are counted and the third to the number of the line which is being explained.
 
@@ -233,10 +233,10 @@ object achieved, he quietly retires, never to interfere with statbnsiness again.
 
  A glance at some of the most far reaching developments acontemporaoy world politics and an unbiassed study of the same would convince all that so far as morals are concerned there is no superiority over Cāṇakya to which twentieth century States men can lay claim. With an unparalleled record of brokes promises, dishonoured treaties, use of a hundred thousand times more destructive weapons, war time camouflage and peace time camouflage, subtle proraganda, penetration tactics of 'democracies' that would put 'imperialism' to shame, concentration camps, mass trials and what not, the present day politicians cutill afford to find fault with Cāṇakya. The hollowness of the stock-in-trade phrases and slogans that fit the very air we breathe is patent to us all. The cry for 'the amelioration of the masses 'the materialisation of the dream of universal brotherhood' 'the appreciation of higher values', and the 'common heritage' of man in effect, has amounted to nothing. The second world war brought into existence and helped flourish a species of markets, the black market, to so great an extent, that life to-day is permeated by it in all its branches and the most vigorous and most determined efforts on the part of every intelligent human being would be necessary to eradicate the evil that has affected human civilization and culture. What more strange than that those who have allowed, if not encouraged, this monster to thrive, should find' fault with Cāṇakya's morals and with the ethics of the Mudrārākṣasa?
 
-![](../books_images/U-IMG-1727709516Screenshot2024-09-30204826.png)
+<MISSING_FIG href="../books_images/U-IMG-1727709516Screenshot2024-09-30204826.png"/>
 
 **DRĀMATIS PERSONAE  
-![](../books_images/U-IMG-1727709585Screenshot2023-06-15124029.png)**
+<MISSING_FIG href="../books_images/U-IMG-1727709585Screenshot2023-06-15124029.png"/>**
 
 **1. Main Characters**
 
@@ -363,12 +363,12 @@ Mudraraksasa**
 
   **The Camp of Malayaketu*—***not far off from Kusumapura or Pataliputra...Act V.
 
-![](../books_images/U-IMG-1727748487Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1727748487Screenshot2023-06-15123943.png"/>
 
 **महाकविश्रीविशाखदत्तप्रणीतं**
 
 **मु द्रा रा क्ष स म्।  
-![](../books_images/U-IMG-1727748575Screenshot2024-10-01073922.png)**
+<MISSING_FIG href="../books_images/U-IMG-1727748575Screenshot2024-10-01073922.png"/>**
 
 **प्रथमोऽङ्कः।**
 
@@ -566,10 +566,10 @@ Mudraraksasa**
 
 अपि च।[^17]
 
+[^17]: "Stanza 8th and अपि च। are omitted by some."
+
 **नन्दकुलकालभुजगीं कोपानलबहुल[^18]नीलधू[^19]मलताम्।  
 अद्यापि बध्यमानां वध्यः को[^20] नेच्छति शिखां मे॥९॥**
-
-[^17]: "Stanza 8th and अपि च। are omitted by some."
 
 [^18]: "बहल।"
 
@@ -960,8 +960,6 @@ that with the thought that by the destruction of even one of (the two viz,) Vr�
 
 ** चरः—**तदो एक्कादो अवचरकादो पञ्चवरिसदेसीओ पिअदंसणी[^46]असरीराकिदी कुमारओ बालत्तणसुलहकोदूहलोफुलणअणो[^44] कोदूहलोफुजिमाणणअणओ (२) कोदूहलफुलणअणो (३) कोदुहलुफुलमाणनअनको ") णिक्कमिदं पउत्तो। तदो हाणिग्गदो हा णिग्गदोत्ति संकापरिग्गहणिवेदइत्तिओ तस्स एव्व अववरकरसअब्भन्तरेइत्थिआजणस्स उद्विदो महन्तो कलअलो[^48]। ततो ईसिदारदेसदाविदमुहीए एक्काए सो कुमारओ णिक्कमन्तो एव्व णिव्मच्छिअ अनलम्बिदोकोमलाए बाहुलदाए। तस्साए कुमारसंरोधसंभमप्पचलिदङ्गुलिदो[^49] करादीपुरिसअङ्गुलिपरिणाहप्पमाणघाडिआ विअलिआ इअं अङ्गुलिमुद्दिआ देहलीबन्धम्मि पडिआ उट्ठिदा ताए अणवबुद्धा एव्व मम चलणपासं समागच्छअपणामणिहुआ कुलबहु विअ णिच्चला संवृत्ता[^50]। मए वि अमच्चरक्खसहरणामंकिदेत्ति अज्जस्स पादमूलं पाविदा। ता एसो इमाए आअमो। \[ ततश्च
 
-[^44]: "(१
-
 [^46]: "अतिदस।"
 
 [^48]: "कोलाहलो ।"
@@ -1141,9 +1139,9 @@ be read out by some one personally to some one else, wait on me. And to him (Śa
 
 ** चाणक्यः—** उच्यतामस्मद्वचनात्कालपाशिको दण्डपाशिकश्च। यथा वृषलः समाज्ञापयति य एष क्षपणको जीवसिद्धिर्नाम राक्षसप्रयुक्तो विपकन्यया पर्वतकघातितवान्स एनमेव दोषं प्रख्याप्य सनिकारं नगरान्निर्वास्यतामिति।[^64]
 
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-
 [^64]: "नगराद्वहिर्निः सार्यताम्।"
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 ** Cāṇakya—**To begin with, going to the place of execution, the executioners should be made to understand the sign in the form of the contraction of the right eye in anger. Then after they have understood the sign and run in this direction and that, on the pretext (*apadesa*) of fear, Śakatadāsa is to be taken away from the place of execution and helped (lit caused) to reach Rākṣasa. And from him \[Rākṣasa, quite pleased at the preservation of (his) friend's life, is to be accepted a reward. For some time, Rākṣasa himself should be served. Then while the enemies will be quite near at hand (*prattyāsanna*), this mission is to be carried out. (*In the ear*), thus thus.
 
@@ -1271,9 +1269,9 @@ be read out by some one personally to some one else, wait on me. And to him (Śa
 
 ** चाणक्यः—** भोः श्रेष्ठिन् चन्दनदास, अपिप्रचीयन्ते संव्यवहार वृद्धिलाभाः।[^73]
 
-** चन्दनदासः—**(स्वगतम्) अच्चादरो संकणीओ। (प्रकाशम्) अह इं अज्जस्त ण्णसाएण अखण्डिदा मे वणिज्जा। \[......अत्यादरः शङ्कनीयः।...अथ किम्। आर्यस्य प्रसादेनाखण्डिता मे वाणिज्या।\]
-
 [^73]: "वृद्धिभावाः।"
+
+** चन्दनदासः—**(स्वगतम्) अच्चादरो संकणीओ। (प्रकाशम्) अह इं अज्जस्त ण्णसाएण अखण्डिदा मे वणिज्जा। \[......अत्यादरः शङ्कनीयः।...अथ किम्। आर्यस्य प्रसादेनाखण्डिता मे वाणिज्या।\]
 
 ** चाणक्यः—**न खलु चन्द्रगुप्तदोषा अतिक्रान्तपार्थिवगुणानधुना स्मारयन्ति प्रकृतीः।
 
@@ -1313,8 +1311,6 @@ be read out by some one personally to some one else, wait on me. And to him (Śa
 
  **चाणक्यः—**भोः श्रेष्ठिन्, स चापरिक्लेशः कथमाविर्भवतीति ननु भवताद्रष्टव्याः स्मः?[^44] कथं भवतीति प्रष्टव्याअथवा (२)... प्रष्टव्याः स्मो भवता।")
 
-[^44]: "(१
-
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
  The subjects are really all the more delighted by the king with the lustre of the moon, as by the full moon risen up on an autumnal full-moon night.
@@ -1333,9 +1329,9 @@ be read out by some one personally to some one else, wait on me. And to him (Śa
 
 ** चाणक्यः—**संक्षेपतो राजानि[अविरुद्धाभिर्वृत्तिभिः।[^77]
 
-** चन्दनदासः—**अज्ज, को उण अधण्णो रण्णा विरुद्धोत्ति अज्जेण अवगच्छीअदि। \[आर्य, कः पुनरधन्यो राज्ञा विरुद्ध आर्येणावगम्यते।\]
-
 [^77]: "प्रवृत्तिभिः instead of वृत्तिभिः and addition of वर्तितव्यम् ।"
+
+** चन्दनदासः—**अज्ज, को उण अधण्णो रण्णा विरुद्धोत्ति अज्जेण अवगच्छीअदि। \[आर्य, कः पुनरधन्यो राज्ञा विरुद्ध आर्येणावगम्यते।\]
 
 ** चाणक्यः—**भवानेव तावत्प्रथमम्
 
@@ -1443,8 +1439,6 @@ be read out by some one personally to some one else, wait on me. And to him (Śa
 
 ** शिष्यः—**तथा।[^55] (इति निष्क्रम्य पुनः प्रविश्य) उपाध्याय, एवं राज्ञश्चन्द्रगुप्तस्याज्ञया राजापथ्यकारी क्षपणको जीवसिद्धिः सनिकार नगरान्निष्कास्यते।
 
-[^55]: "यदाज्ञापयत्युपाध्यायः।"
-
 ** चाणक्यः—**क्षपणक अहह। अथवा अनुभवतु राजापय्यकारित्वस्य फलम्
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -1510,9 +1504,9 @@ severe punishment to those who have an attitude full of harm \[towards him\]. Le
 
 ** चाणक्यः—** (सक्रोधम्) दुरात्मन् दुष्टवणिक्, अनुभूयता तर्हि नरपतिक्रोधः।[^90]
 
-** चन्दनदासः—** सज्जोम्हि। अणुचिट्ठदु अज्जो अत्तणो अहिआरसरिसं। \[सज्जोऽस्मि। अनुतिष्ठत्वार्य आत्मनोऽधिकारसदृशम्।\]
-
 [^90]: "राजकोष।"
+
+** चन्दनदासः—** सज्जोम्हि। अणुचिट्ठदु अज्जो अत्तणो अहिआरसरिसं। \[सज्जोऽस्मि। अनुतिष्ठत्वार्य आत्मनोऽधिकारसदृशम्।\]
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
@@ -1596,8 +1590,6 @@ severe punishment to those who have an attitude full of harm \[towards him\]. Le
 ** Cāṇakya—**(To himself) May he go for the accomplishment of the task \[entrusted to him.\] (*Aloud*) Dear boy, let Bhadrabhata, Dingarāta, Balagupta, Rājasena, Rohitāksa and Vijayavarmā be told (at my instance) '\[by you\] quickly pursuing, let the evil-souled Bhāgurayāyana be captured.
 
 ** शिष्यः—**तथा।[^55] (इति निष्क्रम्य पुनः प्रविश्य सविषादम्) हाधिक्कष्टं सर्वमेव तन्त्रमाकुलीभूतम्। तेऽपि खलु भद्रभटप्रभृतयः प्रथमतरमुषसेवापक्रान्ताः।[^98]
-
-[^55]: "यदाज्ञापयत्युपाध्यायः।"
 
 [^98]: "प्रथमत एवाप्रभाताया रजन्यामपक्रान्ता। "
 
@@ -1941,9 +1933,9 @@ gence of women (*purandhrīrām*), fickle (*capala*) by nature (*prakṛtyā*) l
 
  (विचिन्त्य स्वगतम्) अये, कुसुमपुरवृत्तान्तज्ञो भवत्प्रणिधिरित गाथार्थः कार्यव्यग्रत्वान्मनसः प्रभूतत्वाच्च प्रणिधीना विस्मृतम्। इदानीं स्मृतिरुपलब्धा। व्यक्तमाहितुण्डिकच्छद्मना विराधगुप्तेनानेन भवितव्यम्) (प्रकाशम्) प्रियंवदक, प्रवेशयैनम्। सुकविरेषः। श्रोतव्यमस्मात्सुभाषितम्।[^134]
 
-–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-
 [^134]: "अस्माभिः सुभाषितम् ।"
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 ** Purusa—**(*taking the leaf, approachug Rākṣasa*) Noble (one), this one indeed requests the minister ‘I am not only one who earns his livelihood with \[the display of\] serpents. I am a composer of poems\] in Prakrta indeed. If the minister does not favour me with seeing \[my exhibits\], then let him (kindly) read this leaflet.’
 
@@ -2483,7 +2475,9 @@ the stake.
 
  **Rākṣasa—**Priyamvadaka, how are you tarrying even now ( *adyāpr* ) ? Usher him in, quickly
 
- **Purusa—**Accordingly \[ shall I do\]( *Withthus he goes out*. )
+ **Purusa—**Accordingly \ shall I do\[^632]
+
+[^632]: *Withthus he goes out*.
 
 ( *Then enter Sakatadāsa, followed by Srddhārthaka* . )
 
@@ -3257,9 +3251,9 @@ king worthy of itself \[ is \] the \[ royal \] throne. These excellent things ( 
 
 ** चाणक्यः—**( सस्मितम् ) अलमनेन प्रश्रयेण। न निष्प्रयोजनमधिकारवन्तः प्रभुमिराहूयन्ते।[^255]
 
-** राजा—**कौमुदीमहोत्सवस्य किं फलमार्यः पश्यति।
-
 [^255]: "१ नत्प्रयोजनमभिधीयताम्"
+
+** राजा—**कौमुदीमहोत्सवस्य किं फलमार्यः पश्यति।
 
 ** चाणक्यः—**( स्मितं कृत्वा ) उपालब्धु तर्हि वयमाहूताः।
 
@@ -3334,7 +3328,9 @@ king worthy of itself \[ is \] the \[ royal \] throne. These excellent things ( 
 
  One \[of the two \]—
 
- Let the matchless \[ lit., unprecedented\](*apūrva*) form (*tanu* ) of Lord Śiva ( *Aisī* ), remove your affliction, like \[Lady \] Autumn, \[the form of Lord Shiva– \] whitening the sky by means of ashes surpassing the complexion of the Kāśa flower, brightening ( *klismati*, lit., tormenting, afflicting) the elephant hide \[ worn by the Lord \], dark like
+ Let the matchless \ lit., unprecedented\[^633] form (*tanu* ) of Lord Śiva ( *Aisī* ), remove your affliction, like \[Lady \] Autumn, \[the form of Lord Shiva– \] whitening the sky by means of ashes surpassing the complexion of the Kāśa flower, brightening ( *klismati*, lit., tormenting, afflicting) the elephant hide \[ worn by the Lord \], dark like
+
+[^633]: *apūrva*
 
 **कापालीमुद्वहन्ती स्रंजमिव धवलां कौपुदीमित्यपूर्वा  
 हास्यश्रीराजहंसा हरतु तनुरिव क्लेशमैशी शरद्वः॥२०॥**
@@ -3712,11 +3708,11 @@ lying\] in the heart, even while here, pulled off and removed \[so as to be\] aw
 
 ( भूमौ पादं प्रहृत्य )[^303]
 
+[^303]: " dropped ।"
+
 **प्रतिज्ञामारोढुं पुनरपि चलत्येष चरणः।  
 प्रणाशान्नन्दानां प्रशममुपयातं त्वमधुना  
 परीतः कालेन ज्वलयसि मम[^304] क्रोधदहनम्॥२९॥**
-
-[^303]: " dropped ।"
 
 [^304]: "३ पुनः instead of मम। "
 
@@ -5022,8 +5018,6 @@ the \[mark or\] stamp of the signet-ring \[as a pass-port\] is permitted either 
 
 ** क्षपणकः—**सावगा, किं अणेण[^403]असुणिदव्वेण सुदेण। ( श्रावक, किमनेनाश्रोतव्येन श्रुतेन। \]
 
-[^403]: "श्रोतुमिच्छामि dropped। "
-
 ** भागुरायण—**यदि रहस्यं तत्तिष्ठतु।
 
 ** क्षपणकः—**सावगा , नरहस्सं किंदु[^405] अदिणिससं।\[ श्रावक न रहस्यः किंत्वतिनृशंसम्।\]
@@ -5250,9 +5244,9 @@ ring \[and\] who was trying to escape from the camp, with a letter \[on his pers
 ** मलयकेतुः—**( वाचयति ) स्वस्ति यथास्थानं कुतोऽपि कोऽपि कमपि
 पुरुषविशेषमवगमयति। अस्मत्प्रतिपक्षं निराकृत्य दर्शिता कापि सत्यता सत्यवादिना। साप्रतमेतेषामपि प्रथममुपन्यस्तसंधीनामस्मत्सुहृदा पूर्वप्रति-[^425]
 
-——————————————————————————————————————————
-
 [^425]: " प्रतिज्ञातसंधिपरिपणप्रतिपादनेन। .."
+
+——————————————————————————————————————————
 
 ** Bhāgurāyana—**Good \[man\], why then are you going out of the camp without having taken the \[necessary\] stamp with the signet-ring ?
 
@@ -6331,7 +6325,9 @@ would readily grant (*kāmam*) that to me the infamy (*a-yasah*) \[that I am\]�
 
  Or rather, they themselves are \[now \] no more, thanks to whose favour this existed ( āsīt ) \[i.e. could be enjoyed by me \]. (*Gesticulating entering and beholding*) Oh the unattractive nature of the old garden! For here.
 
- A mansion, with its erection involving great effort, lies shattered \[ to bits \]( *unparyasta*), like a \[noble\] family, with the materialisation (*racanã*) of great undertakings\[to its credit\]; the lake is dried up, like the heart of a saintly person, on account of the destruction of the friends; the trees are devoid of fruit, like policies, on account of association with Fate which is far from favourable (*vi-guna*) \[and\] the ground is covered with blades of grass like the mind \[lit, intellect \] of the ignorant, by evil ways (*ku-nita*).
+ A mansion, with its erection involving great effort, lies shattered \ to bits \[^634], like a \[noble\] family, with the materialisation (*racanã*) of great undertakings\[to its credit\]; the lake is dried up, like the heart of a saintly person, on account of the destruction of the friends; the trees are devoid of fruit, like policies, on account of association with Fate which is far from favourable (*vi-guna*) \[and\] the ground is covered with blades of grass like the mind \[lit, intellect \] of the ignorant, by evil ways (*ku-nita*).
+
+[^634]: *unparyasta*
 
  Moreover,
 
@@ -7092,15 +7088,9 @@ in the cemetery till I report to revered Cāṇakya, ‘Minister Rākṣasa has 
 
  ( जवनिकामपनीयोपसृत्य च ) भो अमात्यराक्षस, विष्णु[^594]गुप्तोऽहमभिवादये।
 
-[^594]: विष्णुगुप्तोऽभिवादयते। "विष्णुगुप्तोऽभिवादयते।"
-
 ** राक्षसः—**( स्वगतम् ) अमात्य इति लज्जाकरमिदानीं विशेषणम्। (प्रकाशम्) विष्णुगुप्त, न मा चण्डाल[^595]स्पर्शदूषितं स्प्रष्टुमर्हसि।
 
-[^595]: श्वनाकस्पर्श। "श्वनाकस्पर्श।"
-
 ** चाणक्यः—**अमात्यराक्षस, नेमौ[^596]चाण्डालौ। अयं खलु दृष्टपूर्व एव भवता सिद्धार्थको[^601] नाम राजपुरुषः। योऽप्यसौ द्वितीयः सोऽपि समिद्धार्थको नाम राजपुरुष एव। शकटदासोऽपि तपस्वी तं तादृश कपटलेखमजानन्नेवमया लेखितः।
-
-[^596]: नायं%20श्वपाकः। "नायं श्वपाकः।"
 
 [^601]: येन%20व्याजसौहार्दमुत्पाद्य%20तादृशं%20कपटलेखमजनान्नेव%20लेखितस्तपस्वी%20शकटदासः।%20योऽप्यसौ%20...%20राजपुरुष%20एव। "येन व्याजसौहार्दमुत्पाद्य तादृशं कपटलेखमजनान्नेव लेखितस्तपस्वी शकटदासः। योऽप्यसौ ... राजपुरुष एव।"
 
@@ -8483,7 +8473,7 @@ surrounding the Vindhya mountain' - he commands and with Bhāgurāyana he goes a
 
  Through one of his attendants, प्रियंवदक, राक्षस sends for some one among the astrologers at the door. Ksapaṇaka Jivasiddhi comes in and is told byराक्षस to find out carefully the proper i.e, auspicious) day for starting with a view to attack पाटलिपुत्र. The पौर्णमासी found out by the क्षपणक does not find favour with राक्षस \[as पौर्णमासी is unfavourable for a यात्रा\] and राक्षसrequestsक्षपणक the to consult other astrologers. Theक्षपणक says he would not do anything of the sort. It wasराक्षस for himself, if he thought necessary, to discuss the matter with other astrologers Toराक्षस's query, ‘You have *not* become angry with me?' theक्षपणक's reply is 'Reveredकृतान्तis angry with you, leaving your own and resorting to that of others that you are.' The Ksapanka leaves, obviously in a huff, asks the attendant to see what hour of the day it is and learns that the sun is about to set.राक्षस has a look at the sun and observes that the trees in the garden like servants ran before the sun inthe morning as the sun was rising higher and higher, but are now leaving him, in the same way in which as servants. desert their master in his calamity.
 
-![](../books_images/U-IMG-1730213095Screenshot2023-07-21172948.png)
+<MISSING_FIG href="../books_images/U-IMG-1730213095Screenshot2023-07-21172948.png"/>
 
 **ACT V**
 
@@ -9090,4 +9080,3 @@ high-sould Rāksasa who caused an amount of trouble both to Visala's army my min
       At this juncture, there enters Candragupta along with his retinue. He is full of shame as his preceptor has conquered the enemy's army—‘not easily vanquished’— even without giving it a battle. With so vigilant a person as Cānakya at the helm of affairs, he next admits, rulers like him even though sleeping are sure to be able to conquer all who ought to be conquered. Candragupta draws near Cāṇakya and salutes him. Cāṇakya says to him that at his, (Candragupta's) desires are now fulfilled as Minister Rāksasa has arrived and that he should therefore salute that chief of the ministers Rāksasa understands the implication and in a swagata says,‘here has he already brought about a relation between us. Candragupta goes near Rāksasa and salutes him with the words ‘noble one, Candragupta salutes you’ Rāksasa looks at Candragupta and recalls to his mind how even when a boy Candragupta was quite promising,
 
 \]
-

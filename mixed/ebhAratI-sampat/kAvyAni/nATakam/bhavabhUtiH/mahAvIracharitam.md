@@ -19,7 +19,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEyMDMyNjM1NTk
 
 **LONDON:**  
 
-**![](../books_images/U-IMG-17239064531.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-17239064531.jpg"/>**
 
 **WILLIAM WATTS, CROWN COURT, TEMPLE BAR.**
 
@@ -35,7 +35,7 @@ DIRECTED MY STUDIES.
 
 **ADVERTISEMENT.**
 
-![](../books_images/U-IMG-17239068351.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17239068351.jpg"/>
 
 T
 
@@ -123,7 +123,7 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 **॥ प्रस्तावना॥**
 
-**![](../books_images/U-IMG-1723986517Untitled.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1723986517Untitled.jpg"/>**
 
 **॥ ततः प्रविशति रथस्थोराजा सूतः कन्येच॥**
 
@@ -536,6 +536,8 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 अस्यायमवसरो दिव्यास्त्रमङ्गलानांदानस्य। वर्त्ततेच मङ्गल्यो मुहूर्त्तः॥
 
+ 
+
 प्रकाशं॥
 
 सखे कुशध्वज। मया हि भगवतः कृशाश्वाद्गुरुचर्य्याव्रतैरधिगतस्य सरहस्यजम्भकप्रयोगसंहरणस्य दिव्यास्त्र-
@@ -831,11 +833,11 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 **॥ इति निष्क्रान्ताः सर्व्वे॥**
 
-**![](../books_images/U-IMG-17240102811.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-17240102811.jpg"/>**
 
 **॥ कौमारो नाम प्रथमोऽङ्कः॥**
 
-**![](../books_images/U-IMG-17240102811.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-17240102811.jpg"/>**
 
 **॥ परशुरामसंवादो द्वितीयोऽङ्कः॥**
 
@@ -1441,11 +1443,11 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 **॥ इति निष्क्रान्ताः सर्व्वे॥**
 
-**![](../books_images/U-IMG-17240102811.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-17240102811.jpg"/>**
 
 **॥ परशुरामसंवादो नाम द्वितीयोऽङ्कः॥२॥**
 
-**![](../books_images/U-IMG-17240102811.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-17240102811.jpg"/>**
 
 **॥ संसृष्टो नाम तृतीयोऽङ्कः॥**
 
@@ -1829,11 +1831,11 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 **॥ इति निष्क्रान्ताः सर्व्वे॥**
 
-**![](../books_images/U-IMG-17243003271.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-17243003271.jpg"/>**
 
 **॥ संसृष्टो नाम तृतीयोऽङ्कः॥३॥**
 
-**![](../books_images/U-IMG-17243003271.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-17243003271.jpg"/>**
 
 **॥ नेपथ्ये॥**
 
@@ -2309,6 +2311,8 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 **तस्यां चीरधरश्चतुर्दश समास्तिष्ठत्वसौ तं पुनः।  
 सीतालक्ष्मणमात्रकात्परिजनादन्यो न चानुव्रजेत्॥ ४१॥**
 
+ 
+
 स्वगतं
 
 ॥ हा पापरण्डे मातृबन्धु॥
@@ -2594,11 +2598,11 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 **॥ इति निष्क्रान्ताः सर्व्वे॥**
 
-**![](../books_images/U-IMG-17247677481.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-17247677481.jpg"/>**
 
 **॥ चारित्रं नाम चतुर्थोऽङ्कः॥४॥**
 
-**![](../books_images/U-IMG-17247677481.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-17247677481.jpg"/>**
 
 **॥ आरण्यकं नाम पञ्चमोऽङ्कः॥**
 
@@ -3340,11 +3344,11 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 **॥इति निष्क्रान्ताः सर्व्वे॥**
 
-![](../books_images/U-IMG-17249180661.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17249180661.jpg"/>
 
 **॥महावीरचरित आरण्यकं नाम पञ्चमोऽङ्कः॥५॥**
 
-![](../books_images/U-IMG-17249180661.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17249180661.jpg"/>
 
 **॥षष्ठोऽङ्कः॥**
 
@@ -4195,11 +4199,11 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 **॥इति परिक्रम्य निष्क्रान्ताः सर्व्वे॥**
 
-**![](../books_images/U-IMG-17251931761.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-17251931761.jpg"/>**
 
 **॥ षष्ठोऽङ्कः॥६॥**
 
-**![](../books_images/U-IMG-17251931761.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-17251931761.jpg"/>**
 
 **॥सप्तमोऽङ्कः॥**
 
@@ -4907,17 +4911,17 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 **॥इति निष्क्रान्ताः सर्व्वे॥**
 
-**![](../books_images/U-IMG-17252081521.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-17252081521.jpg"/>**
 
 **॥सप्तमोऽङ्कः॥७॥**
 
-**![](../books_images/U-IMG-17252081521.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-17252081521.jpg"/>**
 
 **॥समाप्तमिदं वीरचरितं नाम नाटकं॥**
 
 **ERRATA.**
 
-**![](../books_images/U-IMG-17252081521.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-17252081521.jpg"/>**
 
 |                    |                      |
 |--------------------|----------------------|
@@ -4952,7 +4956,7 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 | ... व्राह्मं       | ... ब्राह्मं         |
 | dele ०             |                     |
 
-**![](../books_images/U-IMG-17252081521.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-17252081521.jpg"/>**
 
 **WILLIAM WATTS, CROWN COURT, TEMPLE BAR**
 

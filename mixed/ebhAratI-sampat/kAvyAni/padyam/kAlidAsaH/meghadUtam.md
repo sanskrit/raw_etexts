@@ -24,7 +24,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk3MjkxNzE2NTk
 
 मेघदूतटीकासञ्जीवनी।
 
-![](../books_images/U-IMG-173139163329.png)  
+<MISSING_FIG href="../books_images/U-IMG-173139163329.png"/>  
 
 मङ्गलाचरणम्।
 
@@ -53,7 +53,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk3MjkxNzE2NTk
 
 पूर्वमेघः
 
-**![](../books_images/U-IMG-173139163329.png)**
+**<MISSING_FIG href="../books_images/U-IMG-173139163329.png"/>**
 
 कश्चित् कान्ताविरहगुरुणा स्वाधिकारप्रमत्तः  
 शापेनास्तङ्गमितमहिमा वर्षभाग्येण भर्त्तुः।  
@@ -674,7 +674,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk3MjkxNzE2NTk
 
 **मेघदूतम्।**  
 
-![](../books_images/U-IMG-173165108629.png)  
+<MISSING_FIG href="../books_images/U-IMG-173165108629.png"/>  
 
 उत्तर
 

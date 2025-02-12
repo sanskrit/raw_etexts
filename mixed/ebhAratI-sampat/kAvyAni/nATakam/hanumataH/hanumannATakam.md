@@ -22,7 +22,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMjQ0MTQ2NzA
 
 # **श्रीमद्धनुमता विरचितं**
 
-# ** हनुमन्नाटकम्।** ![](../books_images/U-IMG-1724130841Screenshot_20-8-2024_104238_www.ebharatisampat.in.jpeg) **श्रीदामोदरमिश्रेण संदर्भ्यसंकलितं मिश्रमोहनविरचितदीपिकया समेतं च । केलकरोपाह्नलक्ष्मणात्मजेन शिवरामशास्त्रिणा यथामति परिष्कृतं संशोधितं च । ——— एतच्च श्रीकृष्णदासात्मजेन गङ्गाविष्णुना स्वकीये "लक्ष्मीवेङ्कटेश्वर" मुद्रणागारे मुद्रयित्वा प्रकाशितम्। संवत् १९५७, शकाब्दाः १८२२.** ——— **कल्याण-मुंबई.** ———————————— प्रसिद्धकर्त्राग्रन्थाधिकारः स्वायत्तीकृतः।
+# ** हनुमन्नाटकम्।** <MISSING_FIG href="../books_images/U-IMG-1724130841Screenshot_20-8-2024_104238_www.ebharatisampat.in.jpeg"/> **श्रीदामोदरमिश्रेण संदर्भ्यसंकलितं मिश्रमोहनविरचितदीपिकया समेतं च । केलकरोपाह्नलक्ष्मणात्मजेन शिवरामशास्त्रिणा यथामति परिष्कृतं संशोधितं च । ——— एतच्च श्रीकृष्णदासात्मजेन गङ्गाविष्णुना स्वकीये "लक्ष्मीवेङ्कटेश्वर" मुद्रणागारे मुद्रयित्वा प्रकाशितम्। संवत् १९५७, शकाब्दाः १८२२.** ——— **कल्याण-मुंबई.** ———————————— प्रसिद्धकर्त्राग्रन्थाधिकारः स्वायत्तीकृतः।
 
 **प्रस्तावना।**
 
@@ -49,7 +49,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMjQ0MTQ2NzA
 
  परं चैवम्। इदं नाटकमलङ्काररसभरितपद्यानां समावेशितत्वादतीथ व्युत्पादकम्। तदुपारी टीकाकारेण विद्वच्छिरोग्रमणिमिश्रमोहनदासेनाप्यतीव लोकोत्तरकोशादिना अनेकार्थाद्भुत-वागर्थादिना रसालङ्कारप्रदर्शनेन च सम्यङ्मथितमाख्यात च अतञ्चातीव समुल्लसतीत्यशेषम-तिमङ्गलम्।
 
-![](../books_images/U-IMG-1724131271Screenshot_20-8-2024_105022_www.ebharatisampat.in.jpeg)
+<MISSING_FIG href="../books_images/U-IMG-1724131271Screenshot_20-8-2024_105022_www.ebharatisampat.in.jpeg"/>
 
 **गंगाविष्णु श्रीकृष्णदास,**
 
@@ -64,9 +64,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMjQ0MTQ2NzA
 **दीपिकाख्यसंस्कृतटीकासमेतं**
 
 **हनुमन्नाटकम्**  
-![](../books_images/U-IMG-1723272509Screenshot_10-8-2024_121757_www.ebharatisampat.in.jpeg)
+<MISSING_FIG href="../books_images/U-IMG-1723272509Screenshot_10-8-2024_121757_www.ebharatisampat.in.jpeg"/>
 
-![](../books_images/U-IMG-1723272589Screenshot_10-8-2024_121911_www.ebharatisampat.in.jpeg)
+<MISSING_FIG href="../books_images/U-IMG-1723272589Screenshot_10-8-2024_121911_www.ebharatisampat.in.jpeg"/>
 
 **कल्याणानां निधानं कलिमलमथनं पावनं पावनानां  
 पाथेयं यन्मुमुक्षोः सपदि परपद‌प्राप्तये प्रस्थितस्य।  
@@ -1182,10 +1182,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMjQ0MTQ2NzA
 क्षिप्रं तद्रक्षणायोल्लिखिततटभुवा सोप्यगात्तद्वधाय॥२७॥**
 
 **   इति हनुमन्नाटके तृतीयोऽङ्कः॥३॥**  
-**![](../books_images/U-IMG-1723608373Screenshot_14-8-2024_93541_www.ebharatisampat.in.jpeg)**
+**<MISSING_FIG href="../books_images/U-IMG-1723608373Screenshot_14-8-2024_93541_www.ebharatisampat.in.jpeg"/>**
 
 **अथ चतुर्थोऽङ्कः।**  
-**![](../books_images/U-IMG-1723608536Screenshot_14-8-2024_93831_www.ebharatisampat.in.jpeg)**
+**<MISSING_FIG href="../books_images/U-IMG-1723608536Screenshot_14-8-2024_93831_www.ebharatisampat.in.jpeg"/>**
 
 **आन्दोलयन्विशिखमेककरेण सार्द्धं  
 कोदण्डकाण्डमपरेण करेण धुन्वन्।  
@@ -1330,7 +1330,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMjQ0MTQ2NzA
 इति श्रीमिश्रमोहनदामविरचितायां हनुमन्नाटकदीपिकाटीकायां सीताहरणं नाम चतुर्थोऽङ्कः॥४॥
 
 **अथ पञ्चमोऽङ्कः।**  
-**![](../books_images/U-IMG-1723737746Screenshot_14-8-2024_93831_www.ebharatisampat.in.jpeg)**
+**<MISSING_FIG href="../books_images/U-IMG-1723737746Screenshot_14-8-2024_93831_www.ebharatisampat.in.jpeg"/>**
 
 (रामः प्राणोत्क्रमणसमयादपि घोरतरं वियोगसमयमधिगम्य पर्णशालान्तरालमालो-क्य कथमपि विदीर्णहृदयमार्गादुज्जिगमिषून्प्राणान् धारयन् तदुत्तरीयमुपलभ्य जानकीं स्मरन्नरोदीत्।)
 
@@ -1935,10 +1935,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMjQ0MTQ2NzA
 
 **          इति श्रीहनुमन्नाटके वालिवधो नाम पञ्चमोऽङ्कः॥५॥**  
 **               
-![](../books_images/U-IMG-1723877505Screenshot_14-8-2024_93541_www.ebharatisampat.in.jpeg)**
+<MISSING_FIG href="../books_images/U-IMG-1723877505Screenshot_14-8-2024_93541_www.ebharatisampat.in.jpeg"/>**
 
 **अथ षष्ठोऽङ्कः।**  
-**![](../books_images/U-IMG-1723877406Screenshot_14-8-2024_93831_www.ebharatisampat.in.jpeg)**
+**<MISSING_FIG href="../books_images/U-IMG-1723877406Screenshot_14-8-2024_93831_www.ebharatisampat.in.jpeg"/>**
 
 रामः– (वानरतटानाचष्टे ) भो भो सुग्रीवसैनिकाः शृणुत।
 
@@ -2403,7 +2403,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMjQ0MTQ2NzA
 
 **अथ सप्तमोऽङ्कः।**
 
-**![](../books_images/U-IMG-1722523081Screenshot(41).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722523081Screenshot(41"/>.png)**
 
 **रामदूतेनोक्तः सुग्रीवः—**
 
@@ -3173,7 +3173,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMjQ0MTQ2NzA
 **इति श्रीहनुमन्नाटके अष्टमोऽङ्कः॥ ८॥**
 
 **अथ नवमोऽङ्कः।**  
-![](../books_images/U-IMG-1722594067Screenshot(43).png)
+<MISSING_FIG href="../books_images/U-IMG-1722594067Screenshot(43"/>.png)
 
  अथ निजप्रतापप्रचण्डचण्डसमरोत्साहपरिपूर्णस्य
 
@@ -3521,7 +3521,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMjQ0MTQ2NzA
 
 इति श्रीमिश्रमोहनदासविरचितायां हनुमन्नाटकटी-  
 कायां वालिवधो नाम नवमोऽङ्कः॥ ९ ॥  
-![](../books_images/U-IMG-1723915179Screenshot_14-8-2024_93541_www.ebharatisampat.in.jpeg)
+<MISSING_FIG href="../books_images/U-IMG-1723915179Screenshot_14-8-2024_93541_www.ebharatisampat.in.jpeg"/>
 
  राक्षसान् रावयतीति रावणः रामः। "मृतिलक्षणयोरनु" इत्यव्ययवृत्तौ। लङ्केश्वरस्यानुमृतिं प्रतिजीवितुं शीलं येषां ते लङ्केश्वरमरणार्थ वा जीवनं येषां ते भो वानराः "माया वञ्चनयुद्धयोः" इति विश्वः। युद्धप्रपञ्चरचनाभिः। अथेति॥ तयोः रामलक्ष्मणयोः रूपलावण्ये ताभ्यां पूर्णे अचैतन्याद्विपरीतनेत्रम्। सुगमम्। अथ वागर्थः प्रतिपाद्यते। रजनिचरे स्वप्ने "रक्षःस्वमौ निशाचरौ"
 
@@ -3801,7 +3801,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMjQ0MTQ2NzA
 
 इति श्रीमिश्रमोहनदासविरचितायां हनुमन्ना  
 टकदीपिकायां रावणप्रपञ्चो नाम दशमोऽङ्कः॥ १० ॥  
-![](../books_images/U-IMG-1723999358Screenshot_14-8-2024_93541_www.ebharatisampat.in.jpeg)
+<MISSING_FIG href="../books_images/U-IMG-1723999358Screenshot_14-8-2024_93541_www.ebharatisampat.in.jpeg"/>
 
  उक्षेति॥ उक्षा वृषः धनाधिनाथे कुबेरे त्रिपुरान्तकस्य रुद्रस्य दशा विपरीता तथा रुद्रानुच-रस्यापि रावणस्य विपरीतैव मतिरिति भावः॥ १॥
 
@@ -4186,7 +4186,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMjQ0MTQ2NzA
 समाक्रान्ता सेयं शिव शिव दशग्रीवनगरी॥४१॥**
 
 इति श्रीहनुमन्नाटके कुम्भकर्णबधो नाम एकादशोऽङ्कः।  
-![](../books_images/U-IMG-1724061508Screenshot_14-8-2024_93541_www.ebharatisampat.in.jpeg)
+<MISSING_FIG href="../books_images/U-IMG-1724061508Screenshot_14-8-2024_93541_www.ebharatisampat.in.jpeg"/>
 
 ——————————————————————————————
 
@@ -4198,7 +4198,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMjQ0MTQ2NzA
 
 **द्वादशोऽङ्कः**
 
-**![](../books_images/U-IMG-1723181383Screenshot(41).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1723181383Screenshot(41"/>.png)**
 
 ( रावणः सक्रोधं तूर्णं कटकं पुत्रमिन्द्रजितं दुष्कग्ममरयज्ञे अध्यर्युं वृणोति स्म। इन्द्रजित् तत्परं कुम्भकर्णवधामर्षमूच्छितः सीतापतिवधे बद्धलक्ष्यः तत्परेऽवतीर्णः। इतो लक्ष्मणो धनुर्गुणटणत्कारैर्धरणिं प्रणनान्तरमापूरयन् कोपानलज्वालावलीभिः मलङ्काधिपां लङ्कां कवलयन् घोरसमरनाप्तीरेऽवतरति स्म।)
 
@@ -4391,7 +4391,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMjQ0MTQ2NzA
 
 इति इनुमन्नाटके इन्द्रजिद्वधो नाम द्वाद‌शोऽङ्कः॥ १२॥  
        
-![](../books_images/U-IMG-1724063357Screenshot_14-8-2024_93541_www.ebharatisampat.in.jpeg)  
+<MISSING_FIG href="../books_images/U-IMG-1724063357Screenshot_14-8-2024_93541_www.ebharatisampat.in.jpeg"/>  
 
 ———————————————————————————————————————
 
@@ -4401,7 +4401,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMjQ0MTQ2NzA
 
 **  अथ त्रयोदशोऽङ्कः।**
 
-**![](../books_images/U-IMG-1723183308Screenshot(41).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1723183308Screenshot(41"/>.png)**
 
 (सक्रोधम्)
 
@@ -4790,11 +4790,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMjQ0MTQ2NzA
 वेदना राघवेन्द्रस्य केवलं व्रणिनो वयम्॥ ३८ ॥**
 
 इति श्रीहनुमन्नाटके लक्ष्मणशक्तिभेदो नाम त्रयोद‌शोऽङ्कः॥ १३ ॥  
-![](../books_images/U-IMG-1724065466Screenshot_14-8-2024_93541_www.ebharatisampat.in.jpeg)
+<MISSING_FIG href="../books_images/U-IMG-1724065466Screenshot_14-8-2024_93541_www.ebharatisampat.in.jpeg"/>
 
 **अथ चतुर्दशोऽङ्कः।**
 
-**![](../books_images/U-IMG-1723191102Screenshot(41).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1723191102Screenshot(41"/>.png)**
 
 **रावणः—**(ततः प्रातःकाले लोहिताक्षं दूतमाहूय समादिशति।) रे लोहिताक्ष वानरवाहिनीं गत्वा राममिति ब्रूहि। अये राम जामदग्र्यं निर्जित्य यस्त्वया हरप्रसादपरशुर्गृहीतस्तं रावणाय प्रयच्छ ततस्तव सीतां प्रयच्छामि।
 
@@ -4803,7 +4803,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMjQ0MTQ2NzA
  ईषदिति॥ ईषदल्पार्थे। वेदनां च स्फुटयति। वेदना दुःखं राघवेन्द्रस्य तव। वयं केवलं ब्रणिनः इति। वयमित्यानन्दादुन्मादः॥ ३८॥
 
 इति श्रीहनुमन्नाटके श्रीमिश्रमोहनदासविरचितायां दीपिकायां लक्ष्मणशक्तिभेदो नाम त्रयोदशोऽङ्कः॥१३॥  
-![](../books_images/U-IMG-1724065535Screenshot_14-8-2024_93541_www.ebharatisampat.in.jpeg)
+<MISSING_FIG href="../books_images/U-IMG-1724065535Screenshot_14-8-2024_93541_www.ebharatisampat.in.jpeg"/>
 
 **लोहिताक्षः—**यदाज्ञापयति देवः। (इति गगनमुत्पत्य रामशिबिरे ततो रामं नमस्कृत्योप-स्थितः।)
 
@@ -5773,4 +5773,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkzMjQ0MTQ2NzA
 **समाप्तोऽयं ग्रन्थः।**
 
 \]
-

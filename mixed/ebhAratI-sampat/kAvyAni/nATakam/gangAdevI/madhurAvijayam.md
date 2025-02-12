@@ -156,17 +156,17 @@ Prominent among his di ciples stood the great Madhava Mantrin or Madhavamatya wh
 
  This Rajagambhira hill might be identified with either Padavidudrug or Karnatikghar. Padavidudrag is situated very near the village of Padavidu, whereas Karnatikghar is at a distance of seven or eight miles south. The latter was strongly fortified, and has even now the fort in a fairly good condition; so it was better fitted to offer an effective resistance to the attacks of a powerful army such as that of Kampana rather than Padavidudurgam. But the identification of Karnatikghar with the Rajagambhiramalai is negatived by one of the inscriptions found in Padavidu itself, which fixes the position of Rajagambhira hill near Murugamangalappattu; and as this village is in the Arni Division a little to the east of the fort of the Padavidudurgam, it is certain that only Padavid udurgam has to be equated with the Rajagambhira hill. This hill received its nime from one Rajagambhira Sambuvarayan, an ancestor of the Champaraya of the time of Kampana. Rajagambhira Sambuva. raya lived in the reign of Rajaraja III as a subordinate of that Chola king and flourished about the Saka year 1180[^12]
 
- In his Annual Report on Epigraphy for 1899 Mr.V.Venkayya has incorrectly identified the Rajagambhirarajya with the Pandya country, relying on the Tiruppuvanam grant which mentions Rajagambhira as a title of Jatavar man Kulasekhara; but in view of the data now available, this rajya connotes the country surrounding Padavidu and Pada vidudurgam, which belonged to Rajagambhira Sambuvaraya. The inscription of Kampana dated in S 1287, found in Tiruppukkuli near Conjesvaram which records that Kampana Udaiyar son of Bukkana Udaiyar became permanent on the throne after taking possession of Rajagam bhirarajya no doubt refers to this heroic aohievement panegy-rised by his queen in the present kavya.
-
 [^12]: "S. I. Ins., Vol. 1, p. 111."
+
+ In his Annual Report on Epigraphy for 1899 Mr.V.Venkayya has incorrectly identified the Rajagambhirarajya with the Pandya country, relying on the Tiruppuvanam grant which mentions Rajagambhira as a title of Jatavar man Kulasekhara; but in view of the data now available, this rajya connotes the country surrounding Padavidu and Pada vidudurgam, which belonged to Rajagambhira Sambuvaraya. The inscription of Kampana dated in S 1287, found in Tiruppukkuli near Conjesvaram which records that Kampana Udaiyar son of Bukkana Udaiyar became permanent on the throne after taking possession of Rajagam bhirarajya no doubt refers to this heroic aohievement panegy-rised by his queen in the present kavya.
 
  The Madhuravijaya is alone in stating that the Champsraya who opposed Kampana in the Rajagambhirarajya was killed by the latter. The Sanskrit Ramabhyudaya and the Saluvabhyudaya and the Telugu Jaimini Bharatam and the Varahapurana all agree in asserting that he was either defeated and reinstated in his original place or terrorised into obedience and vassalage, but never as having met with his end. We do not know if the authoress of the Madhuravijaya bas represented the opponent of her hero as having been killed, either through an inadvertance or as a conscious artifice intended to heighten the poetic effect of the narrativo. If Rajanarayana Sambuvaraya, the contemporary of Kampans, were really killed and dead, the Champuraya who is said to have accompanied and helped Jini Gundayadeva against the Sultan of the South should have been the son of the deceased Sambuvarayar; but it appears probable that Rajanarayana Sambuvarayar did not suffer death on the occasion of his vanquishment by Kampara.
 
  Having conquered the Dravida king Sambuvarayar and reduced him to the position of a tributary, it was easy for Kampana to make Conjeevaram his residence. The occupation of Conjeevaram by Kampana should have taken place in the year S' 1283. It was while he was sojourning at Marakata- nagara as his capital that he is said to have been visited by a mysterious lady who presented him with the divine sword. The town of Marakatanagarat has not yet been identified. It continued to be the seat of a Governor of the Vijayanagara Empire who was generally chosen from the members of the royal family. Virupaksha or Viruppanna was ruling here and after him, Srigiribhupala, brother of Pratapa Devaraya II[^13]
 
- After receiving the divine sword from the unknown lady Kampana had to wait patiently for a long time to strike a well-timed blow at the Turushkas holding Srirangam and Madura. The Srirangam-Koyilolugu gives an account of the events that took place since the occupation of Kanchi by the representative of the Vijayanagara Empire.
-
 [^13]: " Ep. Ind., Vol. VIII., pp. 308-312. Can this be Virinchipuram itself? G. H."
+
+ After receiving the divine sword from the unknown lady Kampana had to wait patiently for a long time to strike a well-timed blow at the Turushkas holding Srirangam and Madura. The Srirangam-Koyilolugu gives an account of the events that took place since the occupation of Kanchi by the representative of the Vijayanagara Empire.
 
  From this quasihistorical temple chronicle we learn that Goppanarya, the Brahmana general of Kampana, was placed by his master in charge of the province of Senji (Gingi).He was a Srivaishnava by persuasion, and belonged to the Bharadvaja gotra and the Apastamba-sutra. On one occasion when he hadgone to Tirupati on a pilgrimage, he found in the central shrine of the temple of Venkatesa an additional bronze image, and learnt on enquiry that it was the image of god Ranga. natha of Srirangam, which, after having been taken away from that temple shortly before the Turushkas entered it, to Tiru naravanapuram (Melkote) by way of Jyotishkudi, Tirumaliruncholai (Alagarkoyil), Kolikkodu (Calicut), and Punganur, had been kept there for some time and had been finally brought to Tirupati (Tirumala). On hearing this account from the priests, Gonnanna induced them to permit him to remove the image to his capital and keep it in puja there, until such time as the Mussalmans could he? riven out of Srirangam. With the consent of the priests he took it, and housed it temporarily with puja in the beautiful rock-out shrine on the hill at Singavaram, a suburb of Senji.
 
@@ -1651,7 +1651,9 @@ Travancore State,
 विमुक्तदेह तदनुक्षणेन ससौहृद दिव्यपुरीमयाताम् \।\।**
 
 **सङ्ग्रामवन्यामभितश्चरन्तो दर्पोद्धताः केचन राजसिंहाः।  
-प्रत्यर्थिनां पार्थिवकुञ्जराणां शिरांस्यभिन्दन्नखरैः [\[खरायैः ॥\]](#)**
+प्रत्यर्थिनां पार्थिवकुञ्जराणां शिरांस्यभिन्दन्नखरैः [\[खरायैः ॥\]][^26]**
+
+[^26]: #
 
 **...............................................................................।  
 .... स्तस्य विरोधियोधान् दृष्ट्रा जहासेव पलायमानान्॥**
@@ -1779,4 +1781,3 @@ VIDHUSEKHARA BHATTACHARYA,
 ————————
 
 \]
-

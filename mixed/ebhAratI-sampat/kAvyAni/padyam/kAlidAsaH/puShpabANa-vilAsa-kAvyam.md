@@ -314,7 +314,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjczNDczMTEyMzY
 
 ———————————
 
-![](../books_images/U-IMG-1726295460Screenshot2024-09-14120003.png)
+<MISSING_FIG href="../books_images/U-IMG-1726295460Screenshot2024-09-14120003.png"/>
 
 :  
 

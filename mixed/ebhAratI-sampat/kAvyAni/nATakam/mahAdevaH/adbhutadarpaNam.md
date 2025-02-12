@@ -25,7 +25,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg3Mjc0MDg3NTU
 
 **काव्यमाला।**
 
-![](../books_images/U-IMG-172071569511.07.2024_22.04.19_REC.png)  
+<MISSING_FIG href="../books_images/U-IMG-172071569511.07.2024_22.04.19_REC.png"/>  
 
 श्रीमहादेवकवि
 
@@ -33,7 +33,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg3Mjc0MDg3NTU
 
 अद्भुतदर्पणम्।
 
-![](../books_images/U-IMG-172071576311.07.2024_22.05.31_REC.png)
+<MISSING_FIG href="../books_images/U-IMG-172071576311.07.2024_22.05.31_REC.png"/>
 
 **प्रथमोऽङ्कः।**  
 
@@ -917,7 +917,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg3Mjc0MDg3NTU
 (इति निष्क्रान्ताः सर्वे।)  
 **इति द्वितीयोऽङ्कः।**
 
-**![](../books_images/U-IMG-1722593764Untitled-2.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722593764Untitled-2.png"/>**
 
 तृतीयोऽङ्कः।
 
@@ -4793,7 +4793,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg3Mjc0MDg3NTU
 **इति दशमोऽङ्कः ।**
 
 ग्रन्थकर्तुः प्रशस्तिः ।  
-![](../books_images/U-IMG-172080063012.07.2024_21.40.08_REC.png)
+<MISSING_FIG href="../books_images/U-IMG-172080063012.07.2024_21.40.08_REC.png"/>
 
 औदार्यैरघुपुंगवे तदनुजे चौद्धत्यमत्यद्भुतं  
 सीतायाश्च यथा पतिव्रतगुणो लोकोत्तरो दृश्यते।  
@@ -4834,7 +4834,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg3Mjc0MDg3NTU
 
 एवं पुस्तकत्रयाधारेण संशोधनमकारि.
 
-![](../books_images/U-IMG-1722443289ad5.png)
+<MISSING_FIG href="../books_images/U-IMG-1722443289ad5.png"/>
 
 \]
-

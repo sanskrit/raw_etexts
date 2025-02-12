@@ -29,6 +29,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA1NDU2MjI2Nzg
 
 **Announcement**
 
+  
+
 Copyright of this work is not reserved by the author, as the work is solely intended for the general enlightenment. So, if more copies are required at any time, any individual or agency may get the work reprinted in any number of copies, without claiming copyright for the work. If, however, any explanations or notes, or translation in any language is written on, and affixed to the work, then copyright may, justly and rightly, be claimed and reserved by any individual or his agent or representative or by Educational Institution, or by any other agency.  
 
 ** Bangalore,                            
@@ -49,7 +51,7 @@ Copyright of this work is not reserved by the author, as the work is solely inte
 
 ॥प्रस्तावः॥  
 
-![](../books_images/U-IMG-1721805252Screenshot2023-09-26205406.png)
+<MISSING_FIG href="../books_images/U-IMG-1721805252Screenshot2023-09-26205406.png"/>
 
 राजमाम्यैः राजश्रिया विराजमानैः विश्रांतमहीशूरसंस्थानसंस्कृतसर्वशालाध्यक्षैः सि. वेंकटरमणार्यमहाशयैः निर्मितेषु अनेककाव्यप्रबन्धेषु निसर्गरमणीयमिदंजीवसञ्जीविनीनाम नाटकमामूलाग्रमवालोकि। “गुणालंकारचारुत्व-युक्तमप्यधिकोज्ज्वलम्। काव्यमाश्रयसंपत्या मेरुणेवामरद्रुमः॥ तस्मात्कीर्तिमुपादातुमकीर्तिं च व्यपोहितुम्। काव्यालंकार-शास्त्रार्थः संपाद्यः कविपुङ्गवैः"॥ इत्यादिपुराणवचनानुसारेण प्रबंधान्तरापेक्षया सत्काव्यानि प्रेक्षावतां लोकोत्तर-चमत्कृतिमादधति हि। एतादृशश्रव्यकाव्यापेक्षया नाटकाख्यदृश्यकाव्यस्य "काव्येषु नाटकं रम्यम्"। "नाट्यं भिन्नरुचेर्जनस्य बहुधाप्येकं समाराधनम्" इति कवितिलककालिदाससूक्त्यापि सहृदयहृदयाह्लादकत्वं निश्चप्रचम्। "मल्लीसुमचय-विलसत्परिमलमुचि वाचियो न मोदेत। ब्रह्मदयूर्वा सुदयूर्वा मदयूर्वा किमेतेने"त्यभियुक्तोक्तिमनुसन्दधानानां सरसोक्तिसुधारसैःसुधीस्वांतेषु नितांतममंदानंददायिनां रसालंकारगुणोल्लसितशब्दार्थसंघटनचातुरीधुरीणानां कविपुङ्गवानां सरणिमनुसरन्तः तत्रभवंतः सि. वेंकटरमणार्याःपूर्वं स्तुतिकुसुमांजलिसर्वसमवृत्तप्रभावहरिश्चन्द्रकाव्यकमला-विजयनाटकादीन् बहून् ग्रन्थान्व्यरीरचन्। वार्धके तत्रापीक्षणपाटवशून्यवयोविभूषिता अपि असाधारणकवितानिर्माण-मार्मिकधुरीणाः एते चारुतररचनाविद्यासु परिकर्मीणं रमणीयार्थप्रतिपादकं जीवसञ्जीविनीनाम नाटकमिदं निरमासिषुरिति पण्डितप्रकाण्डास्सर्वेपि आनंदसंदोहतुंदिलान्तरंगाः भवेयुरिति न केऽपि संशेरते। अस्मिंश्च नाटके तत्तच्छास्त्र-प्रतिपादिताःदुरूहाः विषयाः विद्यार्थिनां स्वांतेषु आंजस्येन यथाधिगच्छेयुः तथा सम्यक् समग्रथ्नन्। दुरूहस्थले च सोपज्ञव्याख्यया सप्रमाणं ते ते विषयाः व्यवारिषत। तथाहि—
 
@@ -66,12 +68,13 @@ Copyright of this work is not reserved by the author, as the work is solely inte
  **    के. गोपालकृष्णशास्त्री,**  
   अलंकाररक्षामणिः, साहित्यरत्नम्,  
        आस्थानमहाविद्वान्,  
+         
 
 ४-८-१९४५  
 
      खिल्लेमोहल्ला, ८२१, मैसूरु.
 
-![](../books_images/U-IMG-1721803217page-separator-png-4.png)
+<MISSING_FIG href="../books_images/U-IMG-1721803217page-separator-png-4.png"/>
 
 **उपोद्घातः**  
 
@@ -91,7 +94,7 @@ Copyright of this work is not reserved by the author, as the work is solely inte
 १९४५                                 
                 श्री वेङ्कटरमणार्यः **
 
-**![](../books_images/U-IMG-1721714967page-separator-png-4.png)    
+**<MISSING_FIG href="../books_images/U-IMG-1721714967page-separator-png-4.png"/>    
                                    
       **
 
@@ -364,7 +367,8 @@ Copyright of this work is not reserved by the author, as the work is solely inte
 
     **प्रथमोऽङ्कः–प्रथमदृश्यम्–रङ्गस्थलम्।**  
 
-![](../books_images/U-IMG-1721803566Screenshot2023-09-26205406.png)
+   
+<MISSING_FIG href="../books_images/U-IMG-1721803566Screenshot2023-09-26205406.png"/>
 
 **   — नान्दी —**
 
@@ -590,10 +594,10 @@ Copyright of this work is not reserved by the author, as the work is solely inte
 *इदंवृत्तं गीतिनिबद्धम्‌-तल्लक्षणम्‌-“आर्या प्रथमदलोक्तंयदि कथमपि लक्षणं भवेदुभयोः दलयोःकृतयतिशोभां तां गीतिं गीतवान्‌ भुजङ्गेशः। इति॥३॥  
 ** १७–१८.** परेशवेषः कश्चिन्नटः - महामायावेषधारिणी काचिन्नटीअभिनयार्थं रङ्गस्थलंप्रविशतः। तस्मात्तयोर्नटी-सूत्रधारयोरावश्यकपात्रस्वीकाराय निष्क्रमणमुचितमिति सूचयति सूत्रधारः।*
 
-*![](../books_images/U-IMG-1721805049page-separator-png-4.png)*
+*<MISSING_FIG href="../books_images/U-IMG-1721805049page-separator-png-4.png"/>*
 
 **॥द्वितीयदृश्यम्‌॥  
-![](../books_images/U-IMG-1721391656R(1).jpeg)**
+<MISSING_FIG href="../books_images/U-IMG-1721391656R(1"/>.jpeg)**
 
 ब्रह्मलोकेपरेशप्रासादः
 
@@ -739,11 +743,11 @@ Copyright of this work is not reserved by the author, as the work is solely inte
 
 इति द्वितीयदृश्यव्याख्या
 
-![](../books_images/U-IMG-1721806970Screenshot2023-09-23135540.png)
+<MISSING_FIG href="../books_images/U-IMG-1721806970Screenshot2023-09-23135540.png"/>
 
 ॥तृतीयदृश्यम्॥
 
-![](../books_images/U-IMG-1721408526R.gif)  
+<MISSING_FIG href="../books_images/U-IMG-1721408526R.gif"/>  
 
 भूलोके सर्वज्ञगुरोराश्रमः  
 तत्र वटूनां विद्याभ्यासः प्रचलति।  
@@ -767,9 +771,9 @@ Copyright of this work is not reserved by the author, as the work is solely inte
 
 **उभौ–१.** सुखी भव ! सुखी भव! ![^1]
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 [^1]: "१. आदरादाशिषो द्विरुक्तिः।"
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *वारं वारमिति वारं वारं मुहुर्मुहु-विभवकलित त्रिभुत्वद्योतकम्, रम्यरमणीयम्, सौम्यम् आह्लादजनकं स्वरूपं चेति कर्मधारयः। मुनिजनेभ्यो हितं योगिनां प्रियम्। तेजसः प्रभावः-कर्तुमकर्तुमन्यथाकर्तुं च सामर्थ्यम् दिव्यः दिवि भवः प्रभावः यस्य तदिति-रम्यसौम्यस्वरूपपदस्य विशेषणम्, तादृशं स्वरूपं स्मारं स्मारं-स्मृत्वा-स्मृत्वा आदरार्थे द्विर्भावः। एवमन्यत्रापि।स्मृतेरधिकरणं मनः मनसि स्मृत्वा स्मृत्वा, अनन्तरं स्वरूपसन्निधाने सति तत्रैव ध्यायं ध्यायं तादृशरूपं ध्यात्वा ध्यात्वा, कुत्र ? स्वात्मनि-स्वहृदये, कथम् ? स्वात्मभावात् तद्रूपमेव तेजोरूपमेव स्वस्यापि-उपाधिभूतजीवस्यापि, आत्मा-निरुपाधिकः नीरूप इति भावात्-भावनया, जितमनसि-मनसि लयं गते सति। अनेन ध्यानबलफलं संसूचितम्। तदा चित्तैकाग्र्येकिं भवति ? सुखदममृतम्-आनन्दरूपं मोक्षं मोक्षरूपम् आनन्दमिति च तात्पर्यम्। पायं पायम्-अमृत-रसास्वादनं कृत्वा-नित्यसुखमनुभूयेति यावत्।यदा ज्ञानस्थितिरेवं स्यात्तदैव जन्म सार्थक्यमिति द्योतनार्थं-मम यद्यत् जन्म तत्सर्वं सार्थकं-सफलं स्यात्-भवेदित्याशंसा। अयमर्थो जीवन्मुक्तपरः। अन्यथा ब्रह्मज्ञानाग्निना आविद्यकजन्ममरणप्रवाहशोषणे सति-नित्यसुखरूपा मोक्षप्राप्तिरिति विदेहमुक्तपरोऽर्थः सम्पतेत्। अतः "जन्म जन्मान्तरेऽपि त्वत्पादाम्भोरुहयुगभवा निश्चला भक्तिरस्तु" इति कुलशेखरगुरुवचनमत्रानुसन्धेयम्। अत्र वारं वारमित्यादि चतुर्षु पर्यायेषु 'आमीक्ष्ण्ये णमुलू' इति सूत्रेण पौनःपुन्येन णमुल्वशात् प्रयोगः। इदं पद्यं मन्दाक्रान्तावृत्तनिबद्धम्। तल्लक्षणम्* *—*
 
@@ -885,7 +889,7 @@ Copyright of this work is not reserved by the author, as the work is solely inte
 
 **॥चतुर्थदृश्यम्‌॥**
 
-![](../books_images/U-IMG-1721449909R.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721449909R.png"/>  
 **सत्यलोके ब्रह्मसभा**  
 (वाण्या सह ब्रह्मा प्रविशति)
 
@@ -1068,11 +1072,11 @@ Copyright of this work is not reserved by the author, as the work is solely inte
 
 **॥इति चतुर्थदृश्यव्याख्या॥**
 
-**![](../books_images/U-IMG-1721809005Screenshot2023-09-26205406.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721809005Screenshot2023-09-26205406.png"/>**
 
 **॥पञ्चमदृश्यम्॥**
 
-![](../books_images/U-IMG-1721485002Screenshot2023-09-26205406.png)
+<MISSING_FIG href="../books_images/U-IMG-1721485002Screenshot2023-09-26205406.png"/>
 
 **ज्योत्स्नानगरे सङ्गीतशाला**  
 (प्रातः देवताप्रार्थना प्रचलति )
@@ -1280,11 +1284,11 @@ Copyright of this work is not reserved by the author, as the work is solely inte
 
 इति पञ्चमदृश्यव्याख्या।  
 
-![](../books_images/U-IMG-1721789050page-separator-png-4.png)
+<MISSING_FIG href="../books_images/U-IMG-1721789050page-separator-png-4.png"/>
 
 ॥षष्ठदृश्यम्॥
 
-![](../books_images/U-IMG-1721537776R.jpeg)
+<MISSING_FIG href="../books_images/U-IMG-1721537776R.jpeg"/>
 
 **तपोवनमार्गः**
 
@@ -1391,11 +1395,11 @@ Copyright of this work is not reserved by the author, as the work is solely inte
 इति श्रीवेङ्कटरमणार्यविरचिते “जीवसञ्जीविनी”नामनाटके प्रथमाङ्कस्य स्वीया  
 ‘रसोल्लासि’न्याख्या व्याख्या-समाप्ता।
 
-![](../books_images/U-IMG-1721810180page-separator-png-4.png)
+<MISSING_FIG href="../books_images/U-IMG-1721810180page-separator-png-4.png"/>
 
 **॥द्वितीयोऽङ्कः॥**
 
-![](../books_images/U-IMG-1721548551R.png)
+<MISSING_FIG href="../books_images/U-IMG-1721548551R.png"/>
 
 **प्रथमदृश्यम्–इन्द्रसभा।**  
 (शचीयुतो महेन्द्रः सभांप्रविशति)
@@ -1491,7 +1495,7 @@ Copyright of this work is not reserved by the author, as the work is solely inte
 
 इति प्रथमदृश्यव्याख्या।
 
-![](../books_images/U-IMG-1721798723Screenshot2023-09-20152822.png)
+<MISSING_FIG href="../books_images/U-IMG-1721798723Screenshot2023-09-20152822.png"/>
 
 **॥द्वितीयदृश्यम्॥**  
 ———  
@@ -2011,7 +2015,7 @@ Copyright of this work is not reserved by the author, as the work is solely inte
 
 **॥ इति चतुर्थदृश्यव्याख्या॥**
 
-**![](../books_images/U-IMG-1721644795Screenshot2024-07-16102640.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721644795Screenshot2024-07-16102640.png"/>**
 
 **द्वितीयोऽङ्कः**
 
@@ -4615,7 +4619,7 @@ Copyright of this work is not reserved by the author, as the work is solely inte
 **त्रिकालज्ञः —३१.**(सम्यक् परिशील्य) सूर्याङ्गारकयोः जन्मरशिस्थितिः
 -सूर्यजस्याष्टमस्थाने-जीवस्य द्वादशे। ज्ञातम्‌ वर्षत्रयंजीवदेवस्य ग्रहगतिः प्रतिकूला। जन्मकाले शनिदशायां गतवर्षाणि एकादश एष्याणि अष्टौ। इदानीं केतुदशा प्रचलति।
 
-![](../books_images/U-IMG-1721444848image.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1721444848image.PNG"/>
 
 तत्र त्रीणि वर्षाण्यवशिष्टानि।
 
@@ -6322,11 +6326,13 @@ Copyright of this work is not reserved by the author, as the work is solely inte
 **बाल्यं यौवनमार्याणामैहिकार्थस्य साधिके।  
 वार्द्धक्यमन्तिमावस्था पारत्रिकपरायणे ॥६॥**
 
+                                   
          **     इति हि शास्त्रम् ।**
 
 **दिलीपरघुमुख्या ये सूर्यान्वयसमुद्भवाः ।  
 स्वराज्यं पुत्रसात्कृत्वा वानप्रस्थाश्रमे स्थिताः ॥७॥**
 
+                                   
          **     इति हि कुलसम्प्रदायः**
 
 **प्रद्योतः —६७**. भवतु तथा । माधयावाद्य नित्यकर्मानुष्ठानाय ।
@@ -7700,6 +7706,8 @@ A
 
  अभिनववस्तुरचनालंकृत कमलाविजयनाटकं मनो विनोदयति। शुभोदर्कमिदं नाटकं भारतीयनाटकलक्षणलक्षितं मंजुलपदनिबद्धं सादरं पठितं मया नितान्तमानन्दमजनयत्।
 
+                             
+
 **————**
 
 श्रीमती ज्योतिर्मयी भारती काव्यव्याकरणसांख्यतीर्था,
@@ -7751,6 +7759,7 @@ A
 **३८                                 
          **संगीतशास्त्ररत्न
 
+                                   
                
 
 **के. वासुदेवाचार्यः**
@@ -7780,6 +7789,8 @@ A
                                 
 **————**
 
+  
+
 **चामराजनगर,  
 १५-१-३९**
 
@@ -7790,6 +7801,7 @@ A
 
   शैशवेभ्यस्तविद्यानां यौवने विषयैषिणां। वार्धके मुनिवृत्तीनामित्यादिकालिदासोक्तेः आदर्शीभूता भवन्तः लोकोपकृत्यै ग्रन्थावलोकनरचनादिकार्यपरम्परासु निष्णाता कृतकृत्याः खलु। एवं लोकोपकारकृद्भ्यो भगवान् वः आयुरारोग्यादिकं दत्वा पालयत्विति आशास्तेऽयं जनः।
 
+                                   
   
 
 **————**
@@ -7853,6 +7865,7 @@ A
    प्रशसनीयश्च भवनां परिश्रमः ग्रंथस्यास्य प्रकाशने, यत् संग्रामसंक्षुब्धे चास्मिन्नवसरे अतीव खलु पुस्तकनिर्माणसामग्रीणां च अभावः।  
                                    
                विजयतां गीर्वाणसरस्वती ।        
+              
 
 **————**
 
@@ -7866,6 +7879,8 @@ A
 भूते गीर्वाणभाषामाधुरीनिषेवणसमथे जने, संस्कृताभ्यासे च निष्फलप्राये, भवतां सुरभारतीकाव्यरचनसंमुद्रणादि- व्यापारं महत्साहसमिव समर्थये। तथाऽपि तत्वतः स व्यवसायः प्रशस्य एव। "चित्र वा एतत्कर्म" । "भवो हि लोकाभ्युदयाय तादृशाम् ” । इत्येवाभिनन्दितुं शक्यते । अतः सश्लाघं समाप्यते लेखोऽयम्।
 
 **————**
+
+  
 
 **APPENDIX II**
 
@@ -7905,6 +7920,7 @@ A
 
 28th. August 1933                           
       GANGANATHA JHA.                     
+                       
 
   Haradatta Sarma Esq., M.A, Ph D, Professor of Sanskrit, S. D College, Cawnpore, writes—
 
@@ -7937,6 +7953,7 @@ Mysore
 
                                    
                                    
+                                   
                        25th November 1944.
 
 Dear Mr Venkataramanaiya,
@@ -7950,6 +7967,7 @@ Dear Mr Venkataramanaiya,
   In reality, 'Sanskrit' is not a dead language. We, Europeanised Indians, are at present fascinated by western culture and, therefore, our hoary headed language of the Rishis seems to us to be morbid, as we cannot find our ways to go and explore the treasure that lies embedded in it Books of this kind will surely remove such a misconception.
 
   Your rendering of Tennyson's "Cup" into a Sanskrit Drama of five acts, is indeed charming and a better translation of that famous book of one of the Poet Laureattes of the world is most probably not to be found in any language.  
+                              
 
 **————**  
 
@@ -8019,6 +8037,8 @@ Curator, Govt.Oriental
 dated 11 6 1944.  
 Manuscripts Library Tirupati,**
 
+ 
+
 It is very heartening to learn that good poetry is being written in the old classical style even in these days.
 
 गुरूपदेशादध्येतु शास्त्रं जडधियोप्यलम्।  
@@ -8033,13 +8053,17 @@ P. K. ACHARYA,
       Allahabad,**  
 
 The University               
+         
 
 **Dated 17th May 1944**.
 
+                                   
                                   
  Your poems are well-written, showing both a mastery of language and depth of poetic thoughts. I congratulate you heartily The world of Sanskrit-loving people will appreciate your poems I feel proud that there are still poets of your ability. I hope a time will come when poets like you will be sufficiently rewarded and encouraged by the country
 
 **—————**  
+                                   
+    
 
 **K. MADHAVAKRISHNA SARMA,**
 **Fort, Bikaner,  
@@ -8047,10 +8071,13 @@ Curator, Anup Sanskrit MOL., 24
 -6-1944**.  
 **Library & Director of Orienta।  
 Publications,**  
-
+                                   
+                                   
   Your poems contained in this Kavyasamudaya are excellent. Your command over the language is extraordinary. Your work which is especially praiseworthy in view of the fact that original productions in Sanskrit are fast becoming a thing of the past, has shown that Sanskrit is still full of life and vigour, and should earn the gratitude of the entire Sanskrit loving world.
 
 **—————**  
+                                   
+    
 
 N. P Chakravarthi, Dy Director General of Archaeology in India, Simla, 19**—**
 
@@ -8125,6 +8152,7 @@ through your veins. It is a divine blessing to spend the days of retirement in s
 
 ————  
 
+                                   
        
 
 ॥ श्री. ॥
@@ -8247,6 +8275,7 @@ through your veins. It is a divine blessing to spend the days of retirement in s
 **MR C VENKATARAMANAIYA** Aryavasa NO 6 CENTAL BANK ROAD **  ** RETIRED INSPECTOR or CHAMARAJPET,  
 SANSKRIT SCHOOLS IN MYSORE BANGALORE CITY
 
+     
 श्रीवेङ्कटरमणार्यः
 आर्यावास,  
 
@@ -8280,4 +8309,3 @@ SANSKRIT SCHOOLS IN MYSORE BANGALORE CITY
 विद्याप्रणयिनां सर्वेषां भवत्यधिकार इति पुनरत्र विज्ञाप्यते ॥
 
 \]
-

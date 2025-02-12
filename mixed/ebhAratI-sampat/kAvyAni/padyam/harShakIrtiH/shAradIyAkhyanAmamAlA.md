@@ -2002,7 +2002,7 @@ Colophon: B3.4 om. the colophon.
 तावत्स्थिरा विजयतां बत नाममाला॥१३३॥
 
 **॥ इति श्रीशारदीयाख्यनाममाला संपूर्णा ॥  
-![](../books_images/U-IMG-1727929532line.png)**  
+<MISSING_FIG href="../books_images/U-IMG-1727929532line.png"/>**  
 
 **GLOSSARY**
 

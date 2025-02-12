@@ -22,7 +22,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5MTE0ODczNzI
 
 **उपोद्घातः**
 
-**    ![](../books_images/U-IMG-1727333423ुुुु.jpg)**
+**    <MISSING_FIG href="../books_images/U-IMG-1727333423ुुुु.jpg"/>**
 
 ( १ )
 
@@ -71,7 +71,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5MTE0ODczNzI
 
 **पुरुषाः**
 
-**    ![](../books_images/U-IMG-1727335402aa.jpg)**
+**    <MISSING_FIG href="../books_images/U-IMG-1727335402aa.jpg"/>**
 
  १ सूत्रधारः  
  २ पारिपार्श्वकः  
@@ -90,7 +90,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5MTE0ODczNzI
 
 **स्त्रियः**
 
-**![](../books_images/U-IMG-1727341230ै.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1727341230ै.jpg"/>**
 
 १ नटी  
 २ मृगाङ्कलेखा = कामरूपेश्वरतनया प्रधाननायिका  
@@ -101,7 +101,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5MTE0ODczNzI
 ७ नवमालिका = विलासवत्याः सखी  
 ८ लम्बस्तनिका = कुण्डरुधिरस्य गृहिणी
 
-![](../books_images/U-IMG-1727341447वप.jpg)
+             
+<MISSING_FIG href="../books_images/U-IMG-1727341447वप.jpg"/>
 
 ॥श्रीः॥
 
@@ -518,9 +519,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5MTE0ODczNzI
 
 **विदु०**—अप्पणो कदे ण भणामि।[^23]
 
-**राजा**—तत्कस्यकृते।
-
 [^23]: "आत्मनः कृतेन भणामि।"
+
+**राजा**—तत्कस्यकृते।
 
 **विदु०**—णं तुज्झ कदे, जं एसा रक्खसी[^24]उम्मीलिदलोअणा इदोमुही तुम जेव णिज्झान्ती, इदोज्जेव आअच्छदि।
 
@@ -558,9 +559,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5MTE0ODczNzI
 
 **मृगाङ्क०**—( राजानमवलोक्य ) हिअअ ! समस्ससिहि२।[^25]
 
-**कल०**—( राजानमवलोक्य सस्मितं ) आसणम् २।[^26]
-
 [^25]: "हृदय ! समाश्वसिहि २ ।"
+
+**कल०**—( राजानमवलोक्य सस्मितं ) आसणम् २।[^26]
 
 [^26]: "आसनम २ ।"
 
@@ -615,11 +616,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5MTE0ODczNzI
 
 **प्रथमोऽङ्कः॥ १ ॥**
 
-![](../books_images/U-IMG-1727772188ddd.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1727772188ddd.jpg"/>
 
 **द्वितीयोऽङ्कः।**
 
-**![](../books_images/U-IMG-1727773277््.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1727773277््.jpg"/>**
 
 (ततः प्रविशति सिद्धयोगिनी)  
 ( परिक्रम्यावलोक्य)
@@ -826,7 +827,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5MTE0ODczNzI
 
 **राजा**—(शब्दानुसारेणाऽवलोक्य) अये कथमियं मम मनोरथैकचित्रशाला बाला मृगाङ्कलेखा सह सखीभ्यामन्वास्ते।
 
-**विदू०**—[भो वअस्स](#) किं एसा मिलाणमुणालिआसिढिलेहिं अंगेहिं पडिवाचंदकलिअं विडवेदि।
+**विदू०**—भो वअस्स[^87] किं एसा मिलाणमुणालिआसिढिलेहिं अंगेहिं पडिवाचंदकलिअं विडवेदि।
+
+[^87]: #
 
 **राजा**—सम्यगवधारितम्
 
@@ -842,11 +845,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5MTE0ODczNzI
 
  तत्तावदत्रान्तरितावेवाकर्णयावः प्रियाविश्रम्भभाषितानि।
 
-**लवं०**—[पिअसहि तदो२](#)।
+**लवं०**—पिअसहि तदो२[^88]।
+
+[^88]: #
 
 **मृगां०**—तदो[^32] तस्थ पमदवणम्मि मअणमहूस कोवि णीलुप्पलसामलंगो अदिगंभीराकिदी मअणो विअ पच्च क्खीकदसरीरो दिट्ठो कुमारो। तं दिअसमारहिअ—
-
-[^32]: "ततस्तत्र प्रमदवने मदनमहोत्सवे कोऽपि नीलोत्पलश्यामलाङ्गोऽतिगम्भीराकृतिर्मदन इव प्रत्यक्षीकृतशरीरो दृष्टः कुमारः। तं दिवसमारभ्य—  चन्द्रश्चन्दनमुत्पलानि नलिनीपत्राणि मन्दानिलः कालः कोऽपि च चैत्रनर्चितचलप्रोत्फुल्लमल्लीलतः। लीलामजनमुज्ज्वलं व वसनं शय्या मृगाङ्कोज्ज्वला यद्यत्सौख्यकरं जनस्य मम तच्चिन्ताज्वरोद्दीपनम्॥ २६ ॥"
 
 **चंदो चंदणमुप्पलाई णलिणीपत्ताई मंदाणिलो  
 कालो कोवि अ चेत्तणच्चिदचलप्पप्फुल्लमल्लीलदो।  
@@ -1086,7 +1089,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5MTE0ODczNzI
 
 **द्वितीयोऽङ्कः॥ २ ॥ **
 
-![](../books_images/U-IMG-1728021760g.png)
+<MISSING_FIG href="../books_images/U-IMG-1728021760g.png"/>
 
 **तृतीयोऽङ्कः।**
 
@@ -1424,11 +1427,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5MTE0ODczNzI
 
 **इति तृतीयोऽङ्कः॥ ३ ॥**
 
-![](../books_images/U-IMG-1728060200aa.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1728060200aa.jpg"/>
 
 **चतुर्थोऽङ्कः।**
 
-**![](../books_images/U-IMG-1728061285aa.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1728061285aa.jpg"/>**
 
 (ततः प्रविशति विदूषकः)
 
@@ -1831,16 +1834,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5MTE0ODczNzI
 
 **चतुर्थोऽङ्कः॥४ ॥**
 
-![](../books_images/U-IMG-1728151247a.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1728151247a.jpg"/>
 
 समाप्तेयं मृगाङ्कलेखाभिधाना नाटिका  
 कृतिरियं विश्वनाथदेवकवेः॥
 
-![](../books_images/U-IMG-1728151333g.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1728151333g.jpg"/>
 
 **मृगाङ्गलेखायां शुद्धिपत्रम्**
 
-**![](../books_images/U-IMG-1728196241ा.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1728196241ा.jpg"/>**
 
 |                  |                   |       |
 |:----------------:|:-----------------:|:-----:|
@@ -1853,7 +1856,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5MTE0ODczNzI
 |    प्रान्तरणे    |    प्रान्तरेण     |  १२   |
 |     सबाष्यम्     |     सबाष्पम्      |   ५   |
 
-![](../books_images/U-IMG-1728196874ा.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1728196874ा.jpg"/>
 
 \]
 
+[^32]: "ततस्तत्र प्रमदवने मदनमहोत्सवे कोऽपि नीलोत्पलश्यामलाङ्गोऽतिगम्भीराकृतिर्मदन इव प्रत्यक्षीकृतशरीरो दृष्टः कुमारः। तं दिवसमारभ्य—  चन्द्रश्चन्दनमुत्पलानि नलिनीपत्राणि मन्दानिलः कालः कोऽपि च चैत्रनर्चितचलप्रोत्फुल्लमल्लीलतः। लीलामजनमुज्ज्वलं व वसनं शय्या मृगाङ्कोज्ज्वला यद्यत्सौख्यकरं जनस्य मम तच्चिन्ताज्वरोद्दीपनम्॥ २६ ॥"

@@ -247,13 +247,13 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 | सूतः                      | दुर्योधनसारथिः                    |
 | वासवः                     | इन्द्रः                           |
 
-![](../books_images/U-IMG-1732004614Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732004614Untitled.jpg"/>
 
 **परमारश्रीप्रह्लादनदेवविरचितः**
 
 **पार्थपराक्रमव्यायोगः**
 
-**![](../books_images/U-IMG-1732004766Untitled.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1732004766Untitled.jpg"/>**
 
 **देवः स वः शिवशतानि तनोतु शौरि-  
  र्यः शैशवेऽपि तुलयन्नतुलं नगेन्द्रम्।  
@@ -1187,6 +1187,7 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 तनोति त्वत्सेवां ननुकनकवृक्ष ! त्वदपरः  
 परस्तत्को न स्याद्यदि न सुलभीभावमभजः\*॥**
 
+                                   
              प्रह्लादस्य
 
 —————————————————————————
@@ -1278,4 +1279,3 @@ KAYADRAN INSCRIPTION**
 **उपदेशतरङ्गिणी PP. 198-199**
 
 \]
-

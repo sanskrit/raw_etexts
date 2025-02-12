@@ -38,9 +38,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQyNTQzMDgxMTY
 
 **I. THE SANSKRIT DRAMA.**[^1]
 
- We shall begin with a brief outline of the general structure and arrangement of the Sanskrit Drama, without a knowledge of which the technical remarks on the construction of the present play here, as well as those made in the Notes, will not be intelligible to the general reader[^2].").Poetry in Sanskrit, from its inherent nature, as apart from its intrinsic merit, is divided into two kinds— दृश्य ‘what is capable of being seen or exhibited’ and श्रव्य ‘what can only be heard or chanted’ The drama falls under the first division. Rúpaka' is the general term in Sanskrit for all dramatic compositions, which also comprises a subordinate class called *Uparúpaka*. The Rúpaka,[^3] life. The sage Bharata is the founder of the science of music and dramaturgy and his work is styled the Natya Sastra. Natya is also called Rápa inasmuch as it has dris'yata or the capability of being seen, and Rûpaka inasmuch as its subjec–matter is represented by actors assuming particular characters.")³which has Rasa or Sentiment for its substratum, is divided into ten classes, viz., नाटकं सप्रकरणं भाणः प्रहसनं डिमः। व्यायोगसमवकरौ वीथ्यङ्केहामृगा इति॥. Of the Uparúpakas or Minor Dramas there are eighteen species, the most important of which are *Natikâs*, such as the Ratnâvalî, Viddhaśálabhañjikâ &c., *Trotakas* such as the Vikramorvasiya, &c.
-
 [^1]: "The first Section is the same as that prefixed to my ed.of the Ratnávali."
+
+ We shall begin with a brief outline of the general structure and arrangement of the Sanskrit Drama, without a knowledge of which the technical remarks on the construction of the present play here, as well as those made in the Notes, will not be intelligible to the general reader[^2].").Poetry in Sanskrit, from its inherent nature, as apart from its intrinsic merit, is divided into two kinds— दृश्य ‘what is capable of being seen or exhibited’ and श्रव्य ‘what can only be heard or chanted’ The drama falls under the first division. Rúpaka' is the general term in Sanskrit for all dramatic compositions, which also comprises a subordinate class called *Uparúpaka*. The Rúpaka,[^3] life. The sage Bharata is the founder of the science of music and dramaturgy and his work is styled the Natya Sastra. Natya is also called Rápa inasmuch as it has dris'yata or the capability of being seen, and Rûpaka inasmuch as its subjec–matter is represented by actors assuming particular characters.")³which has Rasa or Sentiment for its substratum, is divided into ten classes, viz., नाटकं सप्रकरणं भाणः प्रहसनं डिमः। व्यायोगसमवकरौ वीथ्यङ्केहामृगा इति॥. Of the Uparúpakas or Minor Dramas there are eighteen species, the most important of which are *Natikâs*, such as the Ratnâvalî, Viddhaśálabhañjikâ &c., *Trotakas* such as the Vikramorvasiya, &c.
 
 [^2]: "The information given here has been mainly called from the Dasarûpaka. The minor particulars not noticed here will be found in my Sahityasârasamgraha (Nir. Ed.
 
@@ -433,7 +433,7 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
   **भूमिका**
 
- ![](../books_images/U-IMG-1723903894संस्कृतं.jpg)
+ <MISSING_FIG href="../books_images/U-IMG-1723903894संस्कृतं.jpg"/>
 
 यस्या**श्चोर**श्चिकुरनिकुरः कर्णपूरो **मयूरो**  
 **भासो** हासः कविकुलगुरुः **कालिदासो** विलासः।  
@@ -470,11 +470,11 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 **॥प्रियदर्शिका॥**
 
-![](../books_images/U-IMG-1723919556SANNSKRIT.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1723919556SANNSKRIT.jpg"/>
 
 **॥प्रथमोङ्कः॥**
 
-![](../books_images/U-IMG-1723919670SANSSKRIT.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1723919670SANSSKRIT.jpg"/>
 
 **धूमव्याकुलदृष्टिरिन्दुकिरणैराह्लादिताक्षी पुनः  
  पश्यन्ती[^18] वरमुत्सुकानतमुखी[^19] भूयो[^20] ह्रिया ब्रह्मणः॥  
@@ -552,7 +552,7 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 ** श्रीहर्षइति।** श्रीहर्षः कविः निपुणः रमणीयकाव्यनिर्माणकुशलः। एषा परिषदपि गुणग्राहिणी। लोके वत्सराज उदयनः तस्य चरितं हारि मनोहरम्। वयं च नाट्ये अभिनयेनावस्थानुकृतौ दक्षा निष्णाताः। इह नाटिकाप्रयोगविषये उक्तेषु गुणेषु वा। एकैकमपि वस्तु वाञ्छितफलस्याभीष्टार्थसिद्धेः पदम्। किं पुनः मद्भाग्यस्योपचायत्प्रकर्षात्समुदितः अयं गुणानां गणः फलप्राप्तेः पदं स्यादिति वक्तव्यमित्यर्थः। शार्दूलविक्रीडितं वृत्तम्॥३॥ अद्याहमित्यारभ्य भारतीवृत्तिः। भारती संस्कृतप्रायो वाग्व्यापारो नटाश्रयः। इत्युक्तलक्षणा। तस्याश्चत्वारि अङ्गानि। प्ररोचना वीथी प्रहसनं प्रस्तावना चेति। तत्र प्ररोचनेयम्। काव्यार्थापत्तिरलंकारः। प्रस्तावनाभ्युद्यते प्रस्तावनां प्रयुञ्जाने। कञ्चुकिनः**—**अन्तःपुरचरो राज्ञां वृद्धो विप्रो गुणान्वितः। सर्वकार्यार्थकुशलः कञ्चुकीत्यभिधीयते॥ मातृगुप्ताचार्या अपि आहुः**—**ये नित्यं सत्यसम्पन्ना कामदोषविवर्जिताः। ज्ञानविज्ञानकुशलाः कञ्चुकीयास्तु ते स्मृताः॥ इति। भूमिका वेषग्रहणम्।** प्रस्तावना—**एतल्लक्षणं-नटी विदूषको वापि पारिपार्श्वक एव वा। सूत्रधारेणसंहिताः संलापं यत्र कुर्वते। चित्रैर्वाक्यैः स्वकार्योत्थैः प्रस्तुताक्षेपिभिर्मिथः। आमुखं तत्तु विज्ञेयं नाम्ना प्रस्तावनापि सा॥ इति॥ अत्र कर्तुमिष्टापि प्रस्तावना न कृता।
 
 **\`प्रथमोङ्क।**  
-![](../books_images/U-IMG-1723612487Capture.JPG)  
+<MISSING_FIG href="../books_images/U-IMG-1723612487Capture.JPG"/>  
 (ततः प्रविशति कञ्चुकी।)
 
  **कञ्चुकी—**(संशोकश्रमं[^30] नाटयन्। निःश्वस्य।) कष्टं भोः कष्टम्।
@@ -809,7 +809,7 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 ॥ **द्वितीयोऽङ्कः** ॥
 
-![](../books_images/U-IMG-1723546373Capture14.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1723546373Capture14.JPG"/>
 
 ( ततः प्रविशति विदूषकः । )
 
@@ -1136,9 +1136,11 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 (इति निष्कान्ते।)
 
-** विदूषक—** भोः एहि निष्क्रामावः। तां गृहीत्वैषा दास्याः सुतेन्दीवरिका गता[^131][।](#) (भो एहि णिक्कमम। तं गोण्हअ एसा दासीए सुदा इन्दीवरिआ गदा।)
+** विदूषक—** भोः एहि निष्क्रामावः। तां गृहीत्वैषा दास्याः सुतेन्दीवरिका गता[^131]।[^284] (भो एहि णिक्कमम। तं गोण्हअ एसा दासीए सुदा इन्दीवरिआ गदा।)
 
 [^131]: "अस्मात्परं तथा कुरुतः  इत्यधिकं बहुषु पुस्तकेषु."
+
+[^284]: #
 
 **राजा—**(निःश्वस्य।) कथं गता। सखे वसन्तक। न खल्वविघ्नमभिलषितमधन्यैः प्राप्यते। (विलोक्य।) सखे पश्य पश्य।
 
@@ -1189,7 +1191,7 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 **तृतीयोऽङ्कः।**
 
-![](../books_images/U-IMG-1723743015Capture25.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1723743015Capture25.JPG"/>
 
 (ततः प्रविशति मनोरमा।)
 
@@ -1620,8 +1622,6 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 घणबन्धणसंरुद्धं गअणं दद्रुण माणसं एदुं[^192]. ")॥
 
-[^192]: "णेदुं ( नेतुं
-
 अहिलसइ राअहंसा दइअं घेऊण[^194] अप्पणो वसइं॥
 
 [^194]: " घेत्तूण"
@@ -1876,7 +1876,7 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 **॥चतुर्थोऽङ्कः॥**
 
-**![](../books_images/U-IMG-1723966082Screenshot2024-08-181257081.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1723966082Screenshot2024-08-181257081.png"/>**
 
 (ततः प्रविशति मनोरमा)
 
@@ -2106,8 +2106,6 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 वृत्तम्॥४॥ **निर्दिष्टेत्यादि।** हे भगवति साङ्कृत्यायनीमुद्दिश्यैतत्। अद्य श्वो वा मम बलैः तत्र तस्मिन् दुर्गे झटिति शीघ्रं सर्वतः विभग्ने विध्वस्ते त्वं कलिङ्गं कलिङ्गराजमचिरादेव युद्धे बद्धं हतं वा श्रोष्यति। कथंभूतमित्याह। निर्दिष्टेनोपरिकथितेन आक्रान्तेन अभिद्रवेण मन्दं निरुत्साहं। निर्दिष्टाक्रन्दमन्देति पाठे निर्दिष्टो य आक्रन्दों दारुणो रणः। आक्रन्दो दारुणे रणे इत्यमरः। प्रतिदिनं दिने दिने विरमत् क्षीयमाणं वीराणां दासेराणां किंकराणां च। भृत्ये दासेरदासौ च इत्यमर। वृत्तं युद्धादिव्यापारो यस्य तम्। शश्वदजस्रं शीर्यमाणा ध्वस्यमाना द्विपा गजाः तुरगा नरा योधाश्च यस्मिन्। अतः क्षीणं निःशेषं बलं सैन्यं यस्य तम्। स्रग्धरा वृत्तम्॥५॥ वत्सराजपक्षपातिनी एतेनैव पक्षपातेनेत्यादि वासवदत्तावचनं मनसि कुर्वत्याः सोल्लुण्ठनोक्तिरियम्।
 
 ** कञ्चुकी**— विजयसेन[^239] अवितथमेतत्। पश्य।
-
-[^239]: "एतन्नास्ति पुस्तकान्तरे."
 
 **सुखनिर्भरोऽन्यथापि स्वामिनमवलोक्य भवति भृत्यजनः।  
 किं पुनररिबलविघटननिर्व्यूढप्रभुनियोगभरः॥६॥**
@@ -2382,7 +2380,7 @@ Rest of the Play—Kaûsâmbî, the capital city of Udayana.
 
 समाप्तेयं प्रियदर्शिका नाम नाटिका।
 
-![](../books_images/U-IMG-1724235378Screenshot2024-08-21154556.png)
+<MISSING_FIG href="../books_images/U-IMG-1724235378Screenshot2024-08-21154556.png"/>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3895,4 +3893,3 @@ I. 1, 3, 6, 7, 11, II 1, 3, 6, 7, 10; III 4, 5, 7, 10, 13, 14, 15; IV 1, 3, 9, 1
  I. 2, 9, 12; II. 2, 4; III. 11; IV. 5, 12.
 
 \]
-

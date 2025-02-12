@@ -13,7 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 +++
 [[कादम्बिनी	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA0MTU1&pageno=MjI0MjQyNjk5NTk=)]]
 
-\[
+\
 
 **॥ श्रीः ॥**  
 **कादम्बिनी**  
@@ -22,7 +22,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 महामहोपाध्यायश्रीमधुसूदनशर्म- मैथिलेन  
 प्रणीता**
 
-**![](../books_images/U-IMG-1726680485Screenshot2023-10-28130923.png)  
+**<MISSING_FIG href="../books_images/U-IMG-1726680485Screenshot2023-10-28130923.png"/>  
 सेय  
 लोकोपकाराय जयपुरराज्यान्तर्गत विसाऊनिवालिना  
 जोशीत्युवाह्वश्रीद्वारिकाप्रसादशर्म्मणा**  
@@ -34,7 +34,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
                    {सम्वत्१९७९ वि०**
 
 **                       
-![](../books_images/U-IMG-1726844690Screenshot2023-10-03112310.png)  
+<MISSING_FIG href="../books_images/U-IMG-1726844690Screenshot2023-10-03112310.png"/>  
                     **
 
 **प्राप्तिस्थान—  
@@ -42,7 +42,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 बहरापट्टी नं ३ श्रीराम बाबूलाल  
 बड़ाबाजार–कलकत्ता।**
 
-![](../books_images/U-IMG-1726683856Screenshot2024-09-18235049.png)
+<MISSING_FIG href="../books_images/U-IMG-1726683856Screenshot2024-09-18235049.png"/>
 
 **        मुद्रक—  
 श्रीलाल जैन काव्यतीर्थ  
@@ -51,7 +51,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 
 **प्रकाशक- वक्तव्यम्**
 
-![](../books_images/U-IMG-1726639248Screenshot2023-10-28130923.png)
+ 
+<MISSING_FIG href="../books_images/U-IMG-1726639248Screenshot2023-10-28130923.png"/>
 
   यद्यपि पुस्तकान्यनल्पानि संस्कृतसाहित्ये प्रकाशतांगतानि, परमद्य यावदस्मिन् मोगलांगलराज्ययोरन्तराले न किमपि वृष्टिसम्बन्धि पुस्तकं देवगीरसिकानां दृष्टिपथमवातरत्। तदिदमपूर्वं पुस्तकम्, अभिनवं शास्त्रं, कर्षाकीर्णकया श्रुतम् यन्नाम जयपुर-पण्डित-मण्डल-मण्डनायमाना राजपण्डिताः समीक्षाचक्रवर्तिनो-विद्यावाचस्पतयःझोपनामानः श्रीमधुसूदनशर्माणः सम्पादितवन्तः कानिचिदेवंभूतान्यपूर्वणि पुस्तकानि वैदिकसमीक्षारूपाणि, वैदिकयज्ञानां वैज्ञानिकत्वप्रतिपादकानि, महाभारतस्य चैतिहासिकक्रमेण सुशृङ्खलया गद्यमय्या रचनयालङ्कृतानीत्येवं बहुविधानि। तेषु च त्रिचतुराणि लोकलोचनगोचराणि जातानि। विलोक्य च तेषामन्यतमत् "आशौचपंजिका" भिद्यमुत्कण्ठा मे द्विगुणीभूता तल्लिखितस्यान्यस्याभिनवस्य दर्शनाय, प्रार्थिता अन्यमुखेन श्रीराजपण्डितमहानुभावाः, अवाप्तां चेयं बृष्टिविद्या। प्रप्त्यनन्तरं विचारश्चकृतो यन्नाम मातुर्गीर्वाणगिरः कोशेऽमूल्यमिदं रत्नम्, तदिदं यदि प्रकाशतां गच्छेच्चत्स्यादस्पाः कोऽपि महिमा। किंच यद्येवमियं वृष्टिवेद्यास्यात्सन्तोषकरी जनानां तर्हि आशंसेऽन्यान्यपि यज्ञमधुसूदनादीनि पुस्तकानि संस्कृत साहित्यस्य मुखमुज्वलयिष्यन्ति।
 
@@ -66,7 +67,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 **॥ श्रीः ॥**  
 **विषय सूची।**
 
-**![](../books_images/U-IMG-1730989742Screenshot2024-11-07195841.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1730989742Screenshot2024-11-07195841.png"/>**
 
 |                                      |
 |:------------------------------------:|
@@ -206,11 +207,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 |         **ग्रहभक्तिदेशाः**          |
 |            **उपसंहारः**             |
 
-![](../books_images/U-IMG-1730990601Screenshot2024-11-07201307.png)
+<MISSING_FIG href="../books_images/U-IMG-1730990601Screenshot2024-11-07201307.png"/>
 
 **कादाम्बिनी।**
 
-![](../books_images/U-IMG-1726789173Screenshot2023-10-28130923.png)
+<MISSING_FIG href="../books_images/U-IMG-1726789173Screenshot2023-10-28130923.png"/>
 
 **पर्जन्यविद्याबोधकंंनिमित्तशास्त्रम्‌।**
 
@@ -224,8 +225,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 यदुक्तं वृष्टिविज्ञानंतदिहानुब्रवीम्यहम्‌॥४॥  
 तदुक्तौ लेखदोषेण कालदोषेण वा क्वचित्।  
 अन्यथात्वंच संजातं तद्विशोध्यं परीक्षया॥ ५॥  
-[देवान्]("देवा वसव्याअग्ने सोम सूये। देवाशर्म्मण्या मित्रा वरुणार्यमन्‌। देवाः सपीतयोऽपां नपादाशु हेमन्॥ १॥ उद्नोदत्तो दधिं भिन्त दिवः पर्जन्यादंतरिक्षात्पृथिव्यास्ततो नो वृष्ट्याऽवत॥ २॥ दिवा चित्तमः कृण्वंति")वसव्यान्‌ शर्मण्यान् सपीतीन् मरूतोऽपि च।  
+[देवान्[^5]वसव्यान्‌ शर्मण्यान् सपीतीन् मरूतोऽपि च।  
 अभ्यर्थये वशे येषामेषा वृष्टिः प्रवर्तते॥ ६॥**
+
+[^5]: "देवा वसव्याअग्ने सोम सूये। देवाशर्म्मण्या मित्रा वरुणार्यमन्‌। देवाः सपीतयोऽपां नपादाशु हेमन्॥ १॥ उद्नोदत्तो दधिं भिन्त दिवः पर्जन्यादंतरिक्षात्पृथिव्यास्ततो नो वृष्ट्याऽवत॥ २॥ दिवा चित्तमः कृण्वंति"
 
 **अग्निंवायुं रविंसोमं यन्महे सम्भवत्यपाम्।  
 उत्थानं प्रत्युपस्थानं धर्षणं वर्षणं यतः॥ ७॥**
@@ -354,11 +357,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 
 **इति गर्भाध्यायः प्रथमः।**
 
-**![](../books_images/U-IMG-1726786330Screenshot2024-09-18235049.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1726786330Screenshot2024-09-18235049.png"/>**
 
 **अथ द्वादशमासिकाध्यायः।**
 
-![](../books_images/U-IMG-1726786756Screenshot2024-09-20042848.png)
+<MISSING_FIG href="../books_images/U-IMG-1726786756Screenshot2024-09-20042848.png"/>
 
 **वृद्धिः सर्वेषु मासेषु नक्षत्राणां समृद्धये।  
 बहुक्षीरघृता गावः प्रजाश्च निरुपद्रवाः॥ १॥  
@@ -1862,11 +1865,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 **इति मधुसूदनविद्यावाचस्पतिप्रणीतायां कादम्बिन्यां  
 द्वादशमासिकोऽध्यायो द्वितीयः।**
 
-**![](../books_images/U-IMG-1726998384Screenshot2024-09-22151528.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1726998384Screenshot2024-09-22151528.png"/>**
 
 **अथ निमित्तध्याय:।**
 
-**![](../books_images/U-IMG-1726999275Screenshot2024-09-22153024.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1726999275Screenshot2024-09-22153024.png"/>**
 
 **वैकारिका गर्भरूपाण्युल्का रविकरा अपि।  
 प्रकीर्णकाश्च पञ्चैते विकारादिवि सर्गजाः॥ १॥  
@@ -2123,11 +2126,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 
 **इति वातादिगर्भरूपाधिकारः।**
 
-**![](#)![](../books_images/U-IMG-1730526488Screenshot2024-09-24221819.png)**
+**<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1730526488Screenshot2024-09-24221819.png"/>**
 
 **वैकारिकाधिकारः।**
 
-![](../books_images/U-IMG-1727169324Screenshot2024-09-24144445.png)
+<MISSING_FIG href="../books_images/U-IMG-1727169324Screenshot2024-09-24144445.png"/>
 
 **खपुरं शाखि परिघौनिर्घातः करका हिमम्।  
 वैकारिका इमे भावा जीमूतादिप्रभेदजाः॥ १०७॥**
@@ -2191,7 +2194,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 
 **रविकराधिकारः।**
 
-![](../books_images/U-IMG-1727196547Screenshot2024-09-24221819.png)
+<MISSING_FIG href="../books_images/U-IMG-1727196547Screenshot2024-09-24221819.png"/>
 
 **सन्ध्या च कुण्डलं शक्रायुधं दण्डस्त्रिशूलकम्।  
 मत्स्यो मेषश्च सप्तैते विकारा रविरश्मिजाः॥ १२६॥**
@@ -2374,10 +2377,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 श्वेतादिवर्णा विप्रादीन् हन्ति स्वाभिमुखां दिशम्॥ २००॥**
 
 **इति संध्यादिरविकराधिकारः।**  
-**![](../books_images/U-IMG-1727197834Screenshot2024-09-22153024.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1727197834Screenshot2024-09-22153024.png"/>**  
 **उल्काधिकारः।**
 
-![](../books_images/U-IMG-1727197912Screenshot2024-09-24224125.png)
+<MISSING_FIG href="../books_images/U-IMG-1727197912Screenshot2024-09-24224125.png"/>
 
 **वज्रं विद्युन्महोल्का च धिष्ण्या तारेति पञ्चधा।  
 उल्केति संज्ञया ख्याता अन्तरिक्षोद्भवाग्नयः॥ २०९॥  
@@ -2413,11 +2416,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 
 **इति वज्राद्युल्काधिकारः।**
 
-**![](../books_images/U-IMG-1727198261Screenshot2024-09-24224648.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1727198261Screenshot2024-09-24224648.png"/>**
 
 **अथ प्रकीर्णकाधिकारः।**
 
-**![](../books_images/U-IMG-1727198565Screenshot2024-09-24225142.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1727198565Screenshot2024-09-24225142.png"/>**
 
 **राहवः केतवस्तारा दिग्दाहः पांसुवर्षणम्।  
 भूकस्पश्चेति षड्भावा उक्ता वैकारिकाह्वयाः॥ २१६॥**
@@ -2939,7 +2942,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 
 **इति दिव्यलक्षणाध्यास्तृतीयः॥**
 
-**![](../books_images/U-IMG-1731839466Screenshot2024-09-24224648.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731839466Screenshot2024-09-24224648.png"/>**
 
 **अथ शकुनाध्यायः। तत्कालाध्यायः।**
 
@@ -3217,7 +3220,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 
 **इति सद्यो लक्षणध्यायश्चतुर्थः।**
 
-**![](../books_images/U-IMG-1731730200Screenshot2024-09-24224125.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731730200Screenshot2024-09-24224125.png"/>**
 
 **अथ ग्रहयोगाध्यायः**
 
@@ -3424,7 +3427,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 जले प्रभवति प्रायः कर्के मीने चवृश्चिके॥ ९६॥**
 
 **इति मंगलाधिकारः। इति बहिर्ग्रहाः।**  
-**![](../books_images/U-IMG-1731377955Screenshot2024-09-24144445.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731377955Screenshot2024-09-24144445.png"/>**
 
 **शुक्रः।**
 
@@ -3561,7 +3564,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 
 **इति चन्द्रादेशाधिकरणमः।**
 
-**![](../books_images/U-IMG-1731391698Screenshot2024-09-24144445.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731391698Screenshot2024-09-24144445.png"/>**
 
 **सूर्य्यः—**
 
@@ -3639,7 +3642,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 **इति राशिसंक्रमाधिकरणम्।**
 
 **इति वैकारिकाधिकारः।**  
-![](../books_images/U-IMG-1731421159Screenshot2024-09-20042848.png)  
+<MISSING_FIG href="../books_images/U-IMG-1731421159Screenshot2024-09-20042848.png"/>  
 **६ ग्रहयुतियोगः।**
 
 **उपर्युपरिसंस्थानां चरतां नैकवर्त्मसु।  
@@ -3985,7 +3988,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 तद्दिने दुर्द्दिनं ज्ञेयमभ्रच्छन्नं समन्ततः॥३१७॥**
 
 **सप्तनाडीचक्रम् (६)  
-![](../books_images/U-IMG-1731467009Screenshot2024-09-24144445.png)**
+<MISSING_FIG href="../books_images/U-IMG-1731467009Screenshot2024-09-24144445.png"/>**
 
 **चण्डा – समीरा – दहना– सौम्या – नीरा – जलाऽमृताः।  
 नाड्यःशनीज्यभौमार्कशुक्रज्ञशशिनां क्रमात्॥ ३१८॥  
@@ -4097,4 +4100,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 प्रमिते वैक्रमे वर्षे तया तुष्यतु चर्षणिः॥३६५॥**
 
 \]
-

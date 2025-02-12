@@ -110,7 +110,7 @@ Benares-Branch
 
 **बाल–कालिदास**
 
-**![](../books_images/U-IMG-1731246420Screenshot2024-11-10191456.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731246420Screenshot2024-11-10191456.png"/>**
 
 **रघुवंश**
 

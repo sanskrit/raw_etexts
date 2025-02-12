@@ -60,6 +60,8 @@ Tampuran⁴ and Manoramā Tampurāṭṭi⁵ of the royal family of Calicut, Vid
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+ 
+
 4\. Maṇi Tampuran was so called because he was the first among Malayalis to study the *Nyāya* treatise, *Cintāmaṇi*. He may be identified with the Vikramadeva mentioned in the Bhāṇa. He completed his Śāstric studies at Benares.
 
  5.A close relative and contemporary of MaṇiTampuran was ManoramāTampuraṭṭi, so termed because this princess of the Zamorin family was the greatest exponent of the *Manoramā* in her days. Tradition holds her in high esteem and she is accorded a very honoured position among the Kerala Vaiyākaraṇas.Her*satirthya* was Kuñjiṭṭi Rāghavan Nampiar, who later was the court scholar of Rāma Varma of Cochin, and her disciple was Ārūr Aṭitiri, the author the of *Uttaranaiṣadhiya* and the teacher of Vidvān Elaya Tampuran of Cranganore.
@@ -185,6 +187,8 @@ Annamalainagar
 स्थापना।
 
 (ततः प्रविशति विटः)
+
+ 
 
 विटः—(स्वशरीरं विलोक्य ईषल्लज्जां निरूप्य)
 
@@ -410,7 +414,7 @@ Annamalainagar
 
 [^5]: "“अवगमिष्यति” इति पठनीयम्‌।"
 
-[^13]: "अतमुमागमयिन्त्यः।"
+[^13]: # "अतमुमागमयिन्त्यः।"
 
 ‘पीयूषस्रवसंमितानि वचनान्येतानि युष्मादृशां  
 यावद्यौवतमेव धीर निपतन्त्यस्मासु कोऽयं क्रमः।
@@ -662,7 +666,7 @@ Annamalainagar
 
 [^10]: "निवेदितव्यम् इति साधु"
 
-[^15]: "स्वराद्यन्तोपसृष्टादिति वक्तव्यम् इति वार्तिकेनवाऽऽत्मनेपदेन भाव्यम्।"
+[^15]: # "स्वराद्यन्तोपसृष्टादिति वक्तव्यम् इति वार्तिकेनवाऽऽत्मनेपदेन भाव्यम्।"
 
 तस्माद्‌ विज्ञापयामि
 
@@ -726,7 +730,7 @@ Annamalainagar
 रत्नांगुलीयविलुठत्किरणानुविद्ध-रक्ताङ्गुलोविलसदग्रकराधिवर्ति।  
 शुद्धोदनोपभरितं मणिभाजनं वां मध्याह्नभुक्तिविधये नियुनक्त्य[^16]मुष्याः॥८९॥
 
-[^16]: "नियुङ्क्त इति साधु"
+[^16]: # "नियुङ्क्त इति साधु"
 
 विटः (आकर्ण्य)—अये तत्रभवत्या बालपार्वत्या इव स्वरः। मन्येसा खलु नौविश्रान्तिभाजौविलोक्य उपचितोपकरणा सविनयं भोजनायापेक्षते। आवाभ्यां तु सदृशानुरागतरुणजनसमागमसंचितोद्यमतया विस्मृताभोजनकथा। अथाऽस्यामनोरथमावयोरुदरं च पूरयावः। (निष्क्रान्तः)
 
@@ -839,7 +843,7 @@ Annamalainagar
 आचार इत्यादृतयावकार्द्रेसमञ्जुशिञ्जन्मणिनूपुराढ्ये[^17]।  
 पदे तदीये सति मञ्जुकूजन्मधुव्रतेकोकनदेक्व शोभा॥१०६॥
 
-[^17]: "तालैःशिञ्चहलयसुभेगैरिति कविकुलचूडामणीःप्रयोगमनुस्मरतैवेमुपनिबद्धं कविना। वस्तुतस्तुशिञ्चदिति रूपं चिन्ताम्‌।"
+[^17]: # "तालैःशिञ्चहलयसुभेगैरिति कविकुलचूडामणीःप्रयोगमनुस्मरतैवेमुपनिबद्धं कविना। वस्तुतस्तुशिञ्चदिति रूपं चिन्ताम्‌।"
 
 वाणी सुधां ह्रेपयतीव तस्या गाने किमाभिः परिवादिनीभिः।  
 औचित्यहीना भणति क्रिया वा तस्या हिमानीव दिनप्रभायाः॥१०७॥

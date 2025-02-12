@@ -20,7 +20,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk1NDczMzg1OTU
 
 [TABLE]
 
-**![](../books_images/U-IMG-1722857068ग्ग्ग्ग्ग्.jpg)उपोद्धातः![](../books_images/U-IMG-1722857068ग्ग्ग्ग्ग्.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1722857068ग्ग्ग्ग्ग्.jpg"/>उपोद्धातः<MISSING_FIG href="../books_images/U-IMG-1722857068ग्ग्ग्ग्ग्.jpg"/>**
 
  गीर्वाणवाणीसाहित्यरसास्वादनप्रवणानां लब्धवर्णानां प्रवीणानां विचक्षणानामतिरोहितं मर्यादापुरुषोत्तमस्य लोकनायकाऽनुपमस्याऽनितरसाधारणादर्शसंरक्षणचणस्य भगवतो रामचन्द्रस्य चरित्रं व्याकरणोदाहरणं च लक्ष्यीकृत्य प्रणीतमिदं रावणवधाऽपराऽभिधानमनुपमानं भट्टिकाव्यं नाम।
 
@@ -66,7 +66,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk1NDczMzg1OTU
 
 **कथासारः**
 
-![](../books_images/U-IMG-1722858322स्स्स्स्.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1722858322स्स्स्स्.jpg"/>
 
 **प्रथमः सर्गः।**
 
@@ -146,7 +146,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk1NDczMzg1OTU
 
 **भट्टिकाव्यम्**
 
-**![](../books_images/U-IMG-1722864407द्द्द्द्द्द्.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1722864407द्द्द्द्द्द्.jpg"/>**
 
 **वन्दारुवृन्दारकवन्द्यमानं, सौन्दर्यसर्वस्वमहानिधानम्।  
 भक्ताऽनुरक्त्यात्तमनोज्ञवेषं, तं केशवं नित्यमहं नतोऽस्मि॥**
@@ -665,7 +665,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk1NDczMzg1OTU
 
 **इति श्रीभट्टिकाव्ये व्याख्याद्वयोपेते रामसम्भवो नाम प्रथमः सर्गः।**
 
-![](../books_images/U-IMG-1722329587pic1.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1722329587pic1.jpg"/>
 
 **अथ द्वितीयः सर्गः॥२॥**
 
@@ -1595,7 +1595,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk1NDczMzg1OTU
 
 **इति श्रीभट्टिकाव्ये व्याख्याद्वयोपेते प्रकीर्णकाण्डे सीतापरिणयो नाम द्वितीयः सर्गः॥**
 
-![](../books_images/U-IMG-1722589757pic2.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1722589757pic2.jpg"/>
 
 **अथ तृतीयः सर्गः॥३॥**
 
@@ -2481,7 +2481,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk1NDczMzg1OTU
 **इति श्रीभट्टिकाव्ये व्याख्याद्वयोपेते रामप्रवासो नाम तृतीयः सर्गः।**
 
 **  
-![](../books_images/U-IMG-1721990692Screenshot2024-07-26161413.png)**
+<MISSING_FIG href="../books_images/U-IMG-1721990692Screenshot2024-07-26161413.png"/>**
 
 **अथ चतुर्थः सर्गः॥४॥**
 
@@ -3213,7 +3213,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk1NDczMzg1OTU
 
 **इति श्रीभट्टिकाव्ये व्याख्याद्वयोपेते प्रकीर्णकाण्डे शूर्पणखानिग्रहो नाम चतुर्थः सर्गः॥**
 
-![](../books_images/U-IMG-1722061799Screenshot2024-07-27115857.png)
+                                  
+<MISSING_FIG href="../books_images/U-IMG-1722061799Screenshot2024-07-27115857.png"/>
 
 **अथ पञ्चमः सर्गः।**
 
@@ -4951,7 +4952,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk1NDczMzg1OTU
 
 **  अन्वयः**—(अथ) दशवदनः कृत्तम् अवनौ प्रलुठितं खचरोत्तमं विलोक्य प्रहृष्यन् रामकान्तां परिगृह्य भीमधुर्यं रथवरम् अधिरुह्य स्वपुरम् अगात्।
 
-**  प्रयोगप०**—दशवदनेन^(…)प्रहृष्यता^(…) स्वपुरम् अगायि![](#)।
+**  प्रयोगप०**—दशवदनेन^(…)प्रहृष्यता^(…) स्वपुरम् अगायि<MISSING_FIG href="#"/>।
 
   **व्याख्या**—(अथ=जटायुः पक्षच्छेदनाऽनन्तरम्) दशवदनः=रावणः, कृत्तं=छिन्नपक्षम्, अवनौ=भूमौ, प्रलुठितं=निपत्य लुठन्तं, खचरोत्तमं=पक्षिश्रेष्ठं (जटायुषम्), विलोक्य=दृष्ट्वा, प्रहृष्यन्=हृष्टो भवन्, रामकान्तां सीतां, परिगृह्य=आदाय, भीमधुर्यं=भयत्तराऽश्वं, रथवरं=स्यन्दनश्रेष्ठम्, अधिरुह्य=आदाय, आरुह्य, स्वपुरं=लङ्काम्, अगात्=गतवान्।
 
@@ -4964,7 +4965,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk1NDczMzg1OTU
                    ** इति श्रीभट्टिकाव्ये व्याख्याद्वयोपेते सीताहरणो नाम पञ्चमः सर्गः।**
 
 **                 
-![](../books_images/U-IMG-1722751617Screenshot2024-08-04113632.png)**
+<MISSING_FIG href="../books_images/U-IMG-1722751617Screenshot2024-08-04113632.png"/>**
 
 **                  **
 
@@ -7300,7 +7301,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk1NDczMzg1OTU
 **इति श्रीभट्टिकाव्ये व्याख्याद्वयोपेते अधिकारकाण्डे  
 वालिवधो नाम षष्ठः सर्गः।**
 
-**![](../books_images/U-IMG-1723217670आआ.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1723217670आआ.png"/>**
 
 **सिद्धिनन्दनिधिचन्द्रमितेऽब्देवैक्रमे हरिदिने सितचैत्रे।  
 रामपादयुगसंस्मृतिपूर्वं पूरिता कृतिरियं तनुरूपम्॥**
@@ -7323,7 +7324,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk1NDczMzg1OTU
 
 **इति शुभम्।**
 
-**![](../books_images/U-IMG-1723217929आआआ.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1723217929आआआ.png"/>**
 
 **प्रथमसर्गान्तर्गतानां धातूनां समासतो रूपाणि।**
 
@@ -7428,7 +7429,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk1NDczMzg1OTU
 **इति प्रथमः सर्गः।**  
 **ग्रन्थविस्तरभीतेर्धातुरूपाणां दिग्दर्शनमात्रमाचरितम्।**
 
-**![](../books_images/U-IMG-1723265520आआआ.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1723265520आआआ.png"/>**
 
 **षष्ठसर्गपर्यन्तस्य भट्टिकाव्यस्य अकारादिवर्णक्रमेण**  
 **श्लोकसूची।**

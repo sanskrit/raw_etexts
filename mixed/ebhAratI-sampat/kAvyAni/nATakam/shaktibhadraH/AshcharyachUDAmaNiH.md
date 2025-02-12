@@ -38,7 +38,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxMjE0MDU3MzI
 
 **प्राक्कथनम्।**
 
-**![](../books_images/U-IMG-1720519023Screenshot2024-07-09152237.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720519023Screenshot2024-07-09152237.png"/>**
 
  अयि! महानुभावा! नह्यविदितचरमेतत् तत्रभवतायात्कल महाकविशक्तिभद्र आश्चर्यचूडामणि नामैतन्नाटकरत्नं प्राणैषीदिति। असौ महानुभाव दाक्षिणात्य आसीत्। यतो हि अस्यैव नाटकस्यादौ स्थापनाया समुपलभ्यते वाक्यम्— “**दक्षिणापथादागतमाश्चर्यचूडामणिं नाम नाटकमि**" त्यादि। स हि कदा कुत्र वा जन्म लेभे इति तु पर्याप्तसामग्र्यनुपलम्भे वत न तत्त्वतो निर्णीतमद्यापि।
 
@@ -243,7 +243,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxMjE0MDU3MzI
 
 **॥स्थापना॥**
 
-**![](../books_images/U-IMG-1720540049Screenshot2024-07-09103520.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720540049Screenshot2024-07-09103520.png"/>**
 
 ————————————————————————————————————————
 
@@ -974,7 +974,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxMjE0MDU3MzI
 
 इत्याश्चर्यचूडामणिव्याख्याया प्रथमोऽङ्क समाप्तः।
 
-![](../books_images/U-IMG-1720769257Screenshot2024-07-12125308.png)
+<MISSING_FIG href="../books_images/U-IMG-1720769257Screenshot2024-07-12125308.png"/>
 
 **।अथ द्वितीयोऽङ्कः।**
 
@@ -2067,7 +2067,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxMjE0MDU3MzI
 
 विष्कम्भकः।
 
-![](../books_images/U-IMG-1720864733Screenshot2024-07-09103520.png)
+<MISSING_FIG href="../books_images/U-IMG-1720864733Screenshot2024-07-09103520.png"/>
 
 (ततः प्रविशति रामः सीतया सह)
 
@@ -3389,7 +3389,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxMjE0MDU3MzI
 
 इत्याश्चर्यचूडामणिनाटकविवृतौ तृतीयोऽङ्कः।
 
-![](../books_images/U-IMG-1720967285Screenshot2024-07-09103520.png)
+<MISSING_FIG href="../books_images/U-IMG-1720967285Screenshot2024-07-09103520.png"/>
 
 **अथ चतुर्थोऽङ्कः।**
 
@@ -3432,6 +3432,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxMjE0MDU3MzI
 अपि नियमिनो दारान् साधूनधीरमवेक्षते  
      पुलकसुहृदा भूयो बाहुद्वयेन विजृम्भते।  
 श्वसिति मुहुरत्युष्णं दन्तच्छदेन हतत्विषा  
+    
 
 किमपि किमपि व्याजेनायं ब्रवीति करोति च॥२॥
 
@@ -3689,7 +3690,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxMjE0MDU3MzI
 
 **इति शक्तिभद्रविरचिते चूडामणिनाटके चतुर्थोऽङ्कः।**
 
-**![](../books_images/U-IMG-1721183950Screenshot2024-07-09103520.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721183950Screenshot2024-07-09103520.png"/>**
 
 —————————————————————————————————————————
 
@@ -3699,7 +3700,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxMjE0MDU3MzI
 
 इत्याश्चर्यचूढामणिनाटकविवृतौ चतुर्थोऽङ्कः।
 
-![](../books_images/U-IMG-1721183950Screenshot2024-07-09103520.png)
+<MISSING_FIG href="../books_images/U-IMG-1721183950Screenshot2024-07-09103520.png"/>
 
 अथ पञ्चमोऽङ्कः।
 
@@ -4696,7 +4697,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxMjE0MDU3MzI
 
 इति शक्तिभद्रविरचिते चूडामणिनाटके पञ्चमोऽङ्कः।
 
-![](../books_images/U-IMG-1721211653Screenshot2024-07-09103520.png)
+<MISSING_FIG href="../books_images/U-IMG-1721211653Screenshot2024-07-09103520.png"/>
 
 ———————————————————————————————————————————
 
@@ -4704,7 +4705,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxMjE0MDU3MzI
 
 इत्याश्चर्यचूडामणिविवृतौ पञ्चमोऽङ्कः।
 
-![](../books_images/U-IMG-1721354940Screenshot2023-12-21105037.png)
+<MISSING_FIG href="../books_images/U-IMG-1721354940Screenshot2023-12-21105037.png"/>
 
 अथ षष्ठोऽङ्कः।
 
@@ -5429,7 +5430,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxMjE0MDU3MzI
 
 **इति शक्तिभद्रविरचिते चूडामणिनाटके षष्ठोऽङ्कः।**
 
-![](../books_images/U-IMG-1721371520Screenshot2024-07-09103515.png)
+<MISSING_FIG href="../books_images/U-IMG-1721371520Screenshot2024-07-09103515.png"/>
 
 —————————————————————————————————————————
 
@@ -5437,7 +5438,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxMjE0MDU3MzI
 
 इत्याश्चर्यचूडामणिविवृतौ षष्ठोऽङ्कः।
 
-![](../books_images/U-IMG-1721371520Screenshot2024-07-09103515.png)
+<MISSING_FIG href="../books_images/U-IMG-1721371520Screenshot2024-07-09103515.png"/>
 
 अथ सप्तमोऽङ्कः।
 
@@ -5534,7 +5535,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxMjE0MDU3MzI
 
 मिश्रविष्कम्भः।
 
-![](../books_images/U-IMG-1721446030Screenshot2024-07-09103520.png)
+<MISSING_FIG href="../books_images/U-IMG-1721446030Screenshot2024-07-09103520.png"/>
 
 (ततः प्रविशति भेरीं प्रहरन् पर्यटन् जाम्बवान्)
 
@@ -6361,13 +6362,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxMjE0MDU3MzI
 
 इत्याश्चर्यचूडामणिः समाप्तः।
 
-![](../books_images/U-IMG-1721457716Screenshot2024-07-09103520.png)
+<MISSING_FIG href="../books_images/U-IMG-1721457716Screenshot2024-07-09103520.png"/>
 
 पर्णशाला शूर्पणखा मायासीता ततः परम्।  
 जटायुषो वधोऽशोकवनिकाप्यङ्गुलीयकम्॥  
 सप्तमोऽङ्कस्ततश्चेत्थं चूडामण्यङ्ककीर्तनम्।
 
-![](../books_images/U-IMG-1721457716Screenshot2024-07-09103520.png)
+<MISSING_FIG href="../books_images/U-IMG-1721457716Screenshot2024-07-09103520.png"/>
 
 —————————————————————————————————————————
 
@@ -6392,7 +6393,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxMjE0MDU3MzI
 
 शुभं भूयात्
 
-![](../books_images/U-IMG-1721457716Screenshot2024-07-09103520.png)
+<MISSING_FIG href="../books_images/U-IMG-1721457716Screenshot2024-07-09103520.png"/>
 
 \]
-

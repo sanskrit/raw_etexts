@@ -25,7 +25,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE5OTIyMDQwNzY
 
 **उपोद्धातः**
 
-**![](../books_images/U-IMG-1728364478Screenshot2024-10-08104301.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1728364478Screenshot2024-10-08104301.png"/>**
 
  अथेदमुपक्रम्यते सुभद्रापरिणयनं नाम च्छायानाटकंसंमुद्र्यप्रकाशयितुम्‌—
 
@@ -143,7 +143,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE5OTIyMDQwNzY
 
 **सुभद्रापरिणयने नाटकीयपात्राणि—**
 
-**![](../books_images/U-IMG-1728367520Screenshot2024-10-08113245.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1728367520Screenshot2024-10-08113245.png"/>**
 
 |     |                                         |     |                                |
 |:---:|:---------------------------------------:|:---:|:------------------------------:|
@@ -157,9 +157,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE5OTIyMDQwNzY
 |  ७  |           सारथिः (अर्जुनस्य)            |  ७  |  कलहंसिका (सुभद्रायाः सख्यः)   |
 |  ८  |      वासुदेवः (भगवान् श्रीकृष्णः)       |    |                               |
 
-![](../books_images/U-IMG-17284881310..png)
+<MISSING_FIG href="../books_images/U-IMG-17284881310..png"/>
 
-![](../books_images/U-IMG-1728367544Screenshot2024-10-08113324.png)
+<MISSING_FIG href="../books_images/U-IMG-1728367544Screenshot2024-10-08113324.png"/>
 
 **व्यासश्रीरामदेवकविप्रणीतं**
 
@@ -1059,7 +1059,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE5OTIyMDQwNzY
 
 व्यास श्रीरामदेवस्य कृतिः॥
 
-![](../books_images/U-IMG-17292209880..png)
+<MISSING_FIG href="../books_images/U-IMG-17292209880..png"/>
 
 THE PRINCESS OF WALES’  
 SARASVATI BHAVANA TEXTS

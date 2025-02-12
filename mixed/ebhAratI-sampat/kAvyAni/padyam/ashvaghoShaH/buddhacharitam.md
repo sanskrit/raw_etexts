@@ -42,7 +42,7 @@ Shri Appashastri Rashivadekar, 259 Shanwar Peth, Poona city.*
 
 **विज्ञापनम् ।**
 
-![](../../../books_images/U-IMG-1699088817talesofshakes.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1699088817talesofshakes.jpg"/>
 
  विदितमेवैतद्भूयसामक्षरमुखानां यन्मोहमयीविभाग आगामिनि वत्सरे बुद्धचरितं नाम काव्यं पी. ई. श्रेण्यामध्येयतया विद्याधिकरणिकैर्विनियुक्तमिति । विरलतमः किल प्रचारो बुद्धचरितस्य ।तन्नैतदाश्चर्यंयदत्र नास्ति काचिदपि संस्कृतव्याख्येति । केवलं तु विद्यावतां प्रवरेण महोत्साहिना पाश्चात्यपण्डितेन श्रीमता कॉवेलमहोदयेन विनिर्मित इंग्रेजीभाषामयोऽस्यानुवादः प्रथितः। मूलमपि च मुद्रितंतेनैव । संस्कृतप्रबन्धानां पुनर्यद्यपि सांप्रतिकानां छात्राणां कृत आवश्यकमिंग्रेजीभाषामयं टिप्पन्यनुवादादिकं तथापि न किल नोपयुक्तं संस्कृतव्याख्यानम्। संस्कृतभाषाया हि रहस्यावबाधे सरला संस्कृतव्याख्यैव प्रधानोऽभ्युपाय इति । भाषान्तरेण हि नैव शक्यते यथावत्कस्याश्चिदपि भाषाया रहस्यमवबोधयितुमिति नैतदविदितं मर्मविदाम् । तत एव च प्रावर्तिष्महि व्याख्यातुं काव्यमिदं कवेरश्वघोषस्यः।यावच्छक्यं चात्र प्रयतितमस्माभिर्नानाविधानि प्रमाणान्यालम्ब्य । तथापि तु प्रमादानां मनुष्यमात्रनिष्ठतया यदि क्वचित्स्खलनमालक्ष्येत तदा संशोधयेयुरेतद्विद्वांसो मर्षयेयुश्चेति प्रार्थ्यतेऽस्माभिः।
 
@@ -140,11 +140,11 @@ Shri Appashastri Rashivadekar, 259 Shanwar Peth, Poona city.*
 
 **बुद्धचरितम् ।** 
 
-![](../../../books_images/U-IMG-1699180688boja.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1699180688boja.jpg"/>
 
 **प्रथमः सर्गः।**
 
-![](../../../books_images/U-IMG-1699180706new.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1699180706new.jpg"/>
 
 **श्रियं परार्ध्यां विदधद्विधातृजित् तमो निरस्यन्नभिभूतभानुभृत्** **।**  
 **नुदन्निदाघं जितचारुचन्द्रमाः स वन्द्यतेऽर्हन्निह यस्य नोपमा** **॥ १ ॥**
@@ -967,7 +967,7 @@ Shri Appashastri Rashivadekar, 259 Shanwar Peth, Poona city.*
 
 **बुद्धचरिते द्वितीयः सर्गः।**
 
-**![](../../../books_images/U-IMG-1699636415talesofshakes.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1699636415talesofshakes.jpg"/>**
 
 **आ जन्मनो जन्मजरान्तकस्य तस्यात्मजस्यात्मजितः स राजा ।  
 अहन्यहन्यर्थगजाश्वमिश्रै[^81]र्वृद्धिं ययौ सिन्धुरिवाम्बुवेगैः॥ १ ॥**
@@ -1234,8 +1234,6 @@ Shri Appashastri Rashivadekar, 259 Shanwar Peth, Poona city.*
 **नृपस्तु तस्यैव विवृद्धिहेतोस्तद्भाविनार्थेन[^108] नु[^29]चोद्यमानः।  
 शमेऽभिरेमे विरराम पापाद्भेजे दमं संविबभाज साधून ॥ ३३ ॥**
 
-[^29]: "च ।"
-
 [^108]: "भावितार्थेन ।"
 
 **नाधीरवत्कामसुखे ससञ्ज[^110] न संररञ्जेविषमं जनन्याम् ।  
@@ -1435,7 +1433,7 @@ Shri Appashastri Rashivadekar, 259 Shanwar Peth, Poona city.*
 
 **अथ बुद्धचरिते तृतीयः सर्गः**
 
-![](../../../books_images/U-IMG-1699726500new.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1699726500new.jpg"/>
 
 **ततः कदाचिन्मृदुशाद्वलानि पुंस्कोकिलोन्नादितपादपानि ।  
 शुश्राव पद्माकरमण्डितानि शीते निबद्धानि स काननानि ॥ १ ॥**
@@ -1940,7 +1938,7 @@ Shri Appashastri Rashivadekar, 259 Shanwar Peth, Poona city.*
 
 **अथ बुद्धचरिते चतुर्थः सर्गः।**
 
-**![](../../../books_images/U-IMG-1699778855cb.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1699778855cb.jpg"/>**
 
 **ततस्तस्मात्पुरोद्यानात्कौतूहलचलेक्षणाः ।  
 प्रत्युज्जग्मुर्नृपसुतं प्राप्तं वरमिव स्त्रियः ॥ १ ॥**
@@ -2796,7 +2794,7 @@ Shri Appashastri Rashivadekar, 259 Shanwar Peth, Poona city.*
 
 **बुद्धचरिते पञ्चमः सर्गः।**
 
-**![](../../../books_images/U-IMG-1699976835cb.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1699976835cb.jpg"/>**
 
 **स तथा विषयैर्विलोभ्यमानः परमोहैरपि शाक्यराजसूनुः।  
 न जगाम रतिं न शर्म लेभे हृदये सिंह इवास्त[^247]दिग्धविद्धः॥ १ ॥**
@@ -3332,8 +3330,6 @@ Shri Appashastri Rashivadekar, 259 Shanwar Peth, Poona city.*
 **अथ तस्य तदन्तरं विदित्वा निशि निश्चिक्रमिषा समुद्बभूव ।  
 अवगत्य[^291] मनस्ततोऽस्य देवैर्भवनद्वारमपावृतं बभूव[^250] ॥ ६६ ॥**
 
-[^250]: "चकार ।"
-
 [^291]: "अवगम्य ।"
 
 **अथ सोऽवततार हर्म्यपृष्ठाद्युवतीस्ताः शयिता विगर्हमाणः।  
@@ -3556,7 +3552,7 @@ TRANSLATION
 
 BUDDHACHARITAM.
 
-![](../../../books_images/U-IMG-1700667123CB1.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1700667123CB1.jpg"/>
 
 **CANTO I.**
 
@@ -3770,11 +3766,11 @@ Or, having seen the son of his younger sister, the cultured andpious king out of
 
 ** 95.** Thus on account of the good luck attendant upon thebirth of the king’s son, the city, named after Kapila, together with the country, became happy like the city (Alakâ) ofKubera, crowded with Apsarases on the birth of Nalakûbara.
 
-![](../../../books_images/U-IMG-1700657867long-lines-straight-line-transparent-7.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1700657867long-lines-straight-line-transparent-7.png"/>
 
 **CANTO II.**
 
-**![](../../../books_images/U-IMG-1700657903boja.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1700657903boja.jpg"/>**
 
 ** 1.** Since the birth of that son, the conqueror of self andthe annihilator of birth and old age, the king attained prosperity day by day in goods, elephants, horses and the like,as does the ocean with the currents of water.
 
@@ -3894,11 +3890,11 @@ wish to speak out the impiety of enemies; he did not wish tokindle fury in his h
 
  **56.** All the Buddha elects, of peerless goodness, (after)tasting the sensual pleasures, went to the forest on the birthof a son; (still) he (Gautama Buddha) enjoyed sensual pleasure till the accession of knowledge, although with accumulated *karma*, even when the motive had put forth roots onson’s birth.
 
-![](../../../books_images/U-IMG-1700657867long-lines-straight-line-transparent-7.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1700657867long-lines-straight-line-transparent-7.png"/>
 
 **CANTO III.**
 
-**![](../../../books_images/U-IMG-1700657903boja.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1700657903boja.jpg"/>**
 
  **1.** Then once upon a time he heard of certain forestswith soft meadows, laid out in a cool region, and graced bylotus ponds, its trees being rendered noisy by male cuckoos.
 
@@ -4034,11 +4030,11 @@ angry with the officer who was responsible for the clearing ofthe road; at the s
 
 ** 65.** The King’s son was then forcibly led to that forest,affected by or full of (कलिलं) the galaxies of premier damsels,just as a sage, newly observing a vow, and afraid of obstaclesis forcibly led towards the abode of the lord of Alakâ (viz.Kubera). full of excellent Apsarases.
 
-![](../../../books_images/U-IMG-1700758288long-lines-straight-line-transparent-7.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1700758288long-lines-straight-line-transparent-7.png"/>
 
 **CANTO IV.**
 
-**![](../../../books_images/U-IMG-1700657903boja.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1700657903boja.jpg"/>**
 
 ** 1.** Then from that city garden the ladies, with theireyes rolling in wonder (or curiosity), went out to greet theprince who had arrived as though he were their prospectivehusband.
 
@@ -4246,11 +4242,11 @@ sensual pleasures, being enticed by the beauty and virtues(rather, the attribute
 
  **103.** Then on learning his heart to be averse to sensuous pleasures, the king did not get sleep that night like an elephant with a barb in his heart; then tired of counsels ofdiverse methods, he together with his ministers failed to discover any other controller of the mind of his son excepting thesensuous objects of pleasures.
 
-![](../../../books_images/U-IMG-1700657867long-lines-straight-line-transparent-7.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1700657867long-lines-straight-line-transparent-7.png"/>
 
 **CANTO V.**
 
-**![](../../../books_images/U-IMG-1700657903boja.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1700657903boja.jpg"/>**
 
 ** 1.** Although being allured by excessively inebriatingobjects of pleasure in that way, the Shâkya prince did not getpleasure and peace of mind and fared like a lion, who waspierced at heart by a venomed arrow.
 
@@ -4424,7 +4420,6 @@ ceeds out of the concentration on the subtile entities (विवेकजात
 
 ** 87.** The horse on his part, striding like Indra's horse(उच्चैःश्रवस्) as though urged inwardly, went over very manyleagues in the wide sky with the light of the dawn (अरुणकररुचा i.e. by the time it was dawn).
 
-![](../../../books_images/U-IMG-1700628590cb.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1700628590cb.jpg"/>
 
 \]
-

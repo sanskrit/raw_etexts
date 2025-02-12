@@ -394,8 +394,6 @@ Like blossom-clusters, honey sweet?”
 **मनोज्ञगन्धं सहकारभङ्गं पुराणशीधुं[^64] नवपाटलं च[^28]।  
 संबध्नता कामिजनेषु दोषाः[^66] सर्वे निदाघावधिना प्रमृष्टाः॥५२॥**
 
-[^28]: "वा"
-
 [^64]: "सीधु"
 
 [^66]: "स्वदोषाः"
@@ -725,7 +723,7 @@ to show the similarity between the pulindas and monkeys, in which case the trans
 
  **46.** अधस्तात्— Adverb used as an adjective in the sense of अधः स्थितानि. उद्दण्डपद्मा—(उद्गताः दण्डाः येषां तानि उद्दण्डानि) उद्दण्डानि पद्मानि यत्र, तत् गृहदीर्घिकाः—oblong tanks (cisterns) of water attached to houses. नारीनितम्बद्वयसं—Here द्वयम् is an affix added to bring out the sense of ‘measure,’‘reaching as far as,’ in accordance with the rule ‘प्रमाणे द्वयसच् दघ्नञ् मात्रचः—V ii 37.
 
- **47.** सायंतनमल्लिकानां— सायंतनस्य मल्लिकाः तासां। The jasmine flowers which bloom out only in the evening![](../books_images/U-IMG-1729230501mou.png). विजृम्भणोद्ग्रन्धिषु—विजृम्भणेन उद्गतःगन्धःयेषां तानि तेषु। Note that the compound has a final इ as it is a Bahuvrihi withगन्धas its last member, in accordance with the rule ‘गन्धस्येदुत्षूतिसुसुरभिभ्यः’—V iv 135. सशब्दं—Adv. शब्देन सहितं यथा तथा।
+ **47.** सायंतनमल्लिकानां— सायंतनस्य मल्लिकाः तासां। The jasmine flowers which bloom out only in the evening<MISSING_FIG href="../books_images/U-IMG-1729230501mou.png"/>. विजृम्भणोद्ग्रन्धिषु—विजृम्भणेन उद्गतःगन्धःयेषां तानि तेषु। Note that the compound has a final इ as it is a Bahuvrihi withगन्धas its last member, in accordance with the rule ‘गन्धस्येदुत्षूतिसुसुरभिभ्यः’—V iv 135. सशब्दं—Adv. शब्देन सहितं यथा तथा।
 
  **48.** ... नखक्षताङ्के- Marks of nails on cheeks etc. of women are usually described as part of amorous sports. संदष्ट—sticky (on account of perspiration) शिरीषपुष्प—‘mimosea’ is extremely delicate.
 

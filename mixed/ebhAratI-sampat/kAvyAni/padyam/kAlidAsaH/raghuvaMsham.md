@@ -23,7 +23,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQzOTc2MTY0NjI
 
 \[ All rights reserved by the publisher.\]
 
-![](../books_images/U-IMG-172751529869.png)
+<MISSING_FIG href="../books_images/U-IMG-172751529869.png"/>
 
 Publisher
 
@@ -31,7 +31,7 @@ J. N. Yadava, Proprietor, Master Khelarilal & Sons.,
 
 Sanskrit Book Depot, Kachaurigali, Benares City.
 
-![](../books_images/U-IMG-172751534470.png)
+<MISSING_FIG href="../books_images/U-IMG-172751534470.png"/>
 
 Printer  
 B. L. Pawagi, Hitchintak Press,  
@@ -43,16 +43,16 @@ Ramghat, Benares City.
 
 **मल्लिनाथकृतसंजीविनीसमेतम्।**
 
-**![](../books_images/U-IMG-172751549171.png)**
+**<MISSING_FIG href="../books_images/U-IMG-172751549171.png"/>**
 
 **पं० बालकृष्णशास्त्रि मैमूरकर  
 द्वारा संशोधितम्।**
 
-**![](../books_images/U-IMG-172751557872.png)**
+**<MISSING_FIG href="../books_images/U-IMG-172751557872.png"/>**
 
 **प्रथमं संस्करणम्।**
 
-**![](../books_images/U-IMG-172751563273.png)**
+**<MISSING_FIG href="../books_images/U-IMG-172751563273.png"/>**
 
 तच्च  
 काश्या
@@ -63,11 +63,11 @@ Ramghat, Benares City.
 श्रीहितचिन्तकमुद्रालये मुद्रापयित्वा  
 प्रकाशितम्।
 
-![](../books_images/U-IMG-172751570970.png)
+<MISSING_FIG href="../books_images/U-IMG-172751570970.png"/>
 
 **सन् १९३१ ई.**
 
-**![](../books_images/U-IMG-172751563273.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-172751563273.png"/>**  
 
 **भूमिका।**
 
@@ -2407,7 +2407,7 @@ Ramghat, Benares City.
 **व्याख्यया समेतो महाकविश्रीकालिदासकृतौ रघुवंशे महाकाव्ये**  
 **अजस्वयंवराभिगमनो नाम पञ्चमः सर्गः।**
 
-![](../books_images/U-IMG-172955606074.png)
+<MISSING_FIG href="../books_images/U-IMG-172955606074.png"/>
 
 **षष्ठः सर्गः।**
 
@@ -8677,4 +8677,3 @@ Ramghat, Benares City.
 **अग्निवर्णशृङ्गारो नामैकोनविंशः सर्गः।
 
 \]
-

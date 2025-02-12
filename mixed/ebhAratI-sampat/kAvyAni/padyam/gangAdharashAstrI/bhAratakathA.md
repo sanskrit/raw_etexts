@@ -27,7 +27,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIyODAxNjMyMDE
 
 **—जगन्नाथः**
 
-![](../books_images/U-IMG-1726553856bbbv.png)
+<MISSING_FIG href="../books_images/U-IMG-1726553856bbbv.png"/>
 
 **दो शब्द**
 

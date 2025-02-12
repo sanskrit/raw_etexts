@@ -21,7 +21,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg0ODg1MDQ1MDE
 पण्डित–अरिसिंह–विरचितं  
 सुकृतसंकीर्तनम्।**
 
-**![](../books_images/U-IMG-1727528676म्ह्ग्द्फ़्न्च्ग्र्व्ग्ब्फ़्त्व्ग्ब्फ़्व्ब्ग्घ्फ़्द्व्ग्ब्झिझिझित्ग्फ़्द्.png)  
+**<MISSING_FIG href="../books_images/U-IMG-1727528676म्ह्ग्द्फ़्न्च्ग्र्व्ग्ब्फ़्त्व्ग्ब्फ़्व्ब्ग्घ्फ़्द्व्ग्ब्झिझिझित्ग्फ़्द्.png"/>  
 न्यायाम्भोनिधि–श्रीमद्विजयानन्दसूरीशशिष्य-प्रवर्तक  
 श्रीमत्कान्तिविजयचरीकेण मुनि-  
 चतुरविजयेन संशोधितम्  
@@ -46,7 +46,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg0ODg1MDQ1MDE
 
 ** INTRODUCTION.**
 
-**![](../books_images/U-IMG-1727528745न्ह्त्द्ब्युह्.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1727528745न्ह्त्द्ब्युह्.png"/>**
 
 **साक्षाज्जिनाधिपतिधर्मनृपाङ्गरक्षो  
 जागर्ति नर्त्तितमना मुदि वस्तुपालः।**
@@ -212,7 +212,7 @@ In the vicinity of Palitana:-
 
 **CONTENTS.**
 
-**![](../books_images/U-IMG-1729854590h3.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729854590h3.png"/>**
 
 I Introduation pp. 1-16  
 IIText         १-१००
@@ -232,11 +232,11 @@ V सङ्घप्रस्यानः
 III Index of names of historical personages occuring in the poem १-३  
 IV Index of geographical names occuring in the poem ४
 
-![](../books_images/U-IMG-1729854656h4.png)
+<MISSING_FIG href="../books_images/U-IMG-1729854656h4.png"/>
 
 **॥ सुकृतसंकीर्तनकाव्यान्तर्गतैतिहासिकनामाक्षरानुक्रमणी ॥**
 
-**![](../books_images/U-IMG-1729915910h8.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729915910h8.png"/>**
 
 [TABLE]
 
@@ -281,7 +281,7 @@ IV Index of geographical names occuring in the poem ४
 
 **॥सुकृतसंकीर्तनकाव्यान्तर्गतदेशनामाक्षरानुक्रमणी॥**
 
-![](../books_images/U-IMG-1727787578Untitledzïá÷í÷Þ¥sóïÞ÷á÷Þ.png)
+<MISSING_FIG href="../books_images/U-IMG-1727787578Untitledzïá÷í÷Þ¥sóïÞ÷á÷Þ.png"/>
 
 |                                         |                            |                                     |                                            |
 |-----------------------------------------|----------------------------|-------------------------------------|--------------------------------------------|
@@ -308,13 +308,13 @@ IV Index of geographical names occuring in the poem ४
 
 न्यायाऽम्भोनिधिश्रीमद्विजयानन्दसूरिभ्यो
 
-![](../books_images/U-IMG-1727528942ह्ग्च्फ़्त्त्व्त्ज्य्.png)
+<MISSING_FIG href="../books_images/U-IMG-1727528942ह्ग्च्फ़्त्त्व्त्ज्य्.png"/>
 
 श्रीमदरिसिंहविरचितं
 
 **सुकृतसंकीर्त्तनम्।**
 
-**![](../books_images/U-IMG-1727528959क्,भ्ज्ब्ज्ब्.न्.ज्क्म्न्ह्.झ्ग्ज्.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1727528959क्,भ्ज्ब्ज्ब्.न्.ज्क्म्न्ह्.झ्ग्ज्.png"/>**
 
 श्रीवेश्मविस्मयमयप्रवलप्रताप-  
 श्चापोत्कटान्वयवनैकहरिर्नरेन्द्रः।  
@@ -859,7 +859,7 @@ IV Index of geographical names occuring in the poem ४
 
 **॥अथ तृतीयः सर्गः॥**
 
-**![](../books_images/U-IMG-1729760047p1.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729760047p1.png"/>**
 
 अथादर्शि निशाशेपे कृशाशेपविभूतिना।  
 स्वप्ने कदापि भूपेन कोऽपि श्रीभासुरः सुरः॥१॥
@@ -967,8 +967,10 @@ IV Index of geographical names occuring in the poem ४
 आगत्य मानरामानं भानुमत् ॥३४॥  
 सुरनः पापामि। यन्नन्तः ॥ ३५ ॥
 
-राजा दृग्भ्यां [सुधाकुम्भ]("क-पुस्तके -मुधायुण्डº।")सदृग्भ्यामभ्यसिञ्चत  
+राजा दृग्भ्यां सुधाकुम्भ[^15]सदृग्भ्यामभ्यसिञ्चत  
 देवादिष्टौ पितृसुतौ सर्वेश्वरपदे हृदा॥३६॥
+
+[^15]: "क-पुस्तके -मुधायुण्डº।"
 
 अभाषिष्ट सभाशिष्टसमक्षमथ पार्थिवः।  
 प्रसादसान्द्रलावण्यमसादाय मुदा वचः॥३७॥
@@ -1083,11 +1085,11 @@ IV Index of geographical names occuring in the poem ४
 इति सुकृतसंकीर्त्तननाम्नि महाकाव्ये मत्रिप्रकाशो  
 नाम तृतीयः सर्गः॥३॥
 
-![](../books_images/U-IMG-1729787836h1.png)
+<MISSING_FIG href="../books_images/U-IMG-1729787836h1.png"/>
 
 **॥अथ चतुर्थः सर्गः॥**
 
-**![](../books_images/U-IMG-1729787892h2.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729787892h2.png"/>**
 
 वस्तुपालसचिवेन्द्रशेमुषी-  
 सम्मुखः पुरुषपौरुपोदधिः।  
@@ -1236,9 +1238,11 @@ IV Index of geographical names occuring in the poem ४
 किञ्च—
 
 वितन्वाते विश्वाङ्गणसदसि यावत्तव यशः  
-प्रतापाभ्यामभ्यु[ल्लसितरुचिवादं]("ख- लसिरुचिविवादं ।") विधुरवी।  
+प्रतापाभ्यामभ्युल्लसितरुचिवादं[^16] विधुरवी।  
 भज स्थैर्यं सोमान्वयतिलक! तावत्क सुकृतैः  
 कृतैर्लभ्यः सभ्यस्त्वमिह गुणदोषैकनिकषः॥१॥
+
+[^16]: "ख- लसिरुचिविवादं ।"
 
 ईदृक्कश्चिद्विपश्चिज्जनमनसि चमत्कारकारी पुरापि  
 क्वापि प्रापि प्रबुद्धे वसुमत्ति सुमतिर्वस्तुपालस्य तुल्यः।  
@@ -1262,7 +1266,7 @@ IV Index of geographical names occuring in the poem ४
 
 **॥अथ पञ्चमः सर्गः॥**
 
-**![](../books_images/U-IMG-1729817776h10.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729817776h10.png"/>**
 
 स तीर्थयात्रासुमनोमनोरयं  
 प्रकाशयन् संमदमेदुरोद्यमः।  
@@ -1558,11 +1562,11 @@ IV Index of geographical names occuring in the poem ४
 ॥इति सुकृतसंकीर्त्तननाम्नि महाकाव्ये सङ्घप्रस्था-  
 नो नाम पञ्चमः सर्गः॥५॥
 
-![](../books_images/U-IMG-1727788559Untitledस्ज्द्श्द्.png)
+<MISSING_FIG href="../books_images/U-IMG-1727788559Untitledस्ज्द्श्द्.png"/>
 
 **॥अथ पष्ठः सर्गः॥**
 
-![](../books_images/U-IMG-1727788887Untitled१२३४.png)
+<MISSING_FIG href="../books_images/U-IMG-1727788887Untitled१२३४.png"/>
 
 जिनमहमहिमानं प्रत्यदीयन्त दूरा-  
 दथ वलयितवृन्दं रासकाः श्राविकाभिः।  
@@ -1780,7 +1784,7 @@ IV Index of geographical names occuring in the poem ४
 
 **॥अथ सप्तमः सर्गः॥**
 
-**![](../books_images/U-IMG-1729841002k1.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729841002k1.png"/>**
 
 शैलमौलिगमनाय मनोऽश्वै-  
 र्भ्राजमानमसमानविहारैः।  
@@ -2037,7 +2041,7 @@ IV Index of geographical names occuring in the poem ४
 
 **॥अथाष्टमः सर्गः॥**
 
-**![](../books_images/U-IMG-1729851486h5.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729851486h5.png"/>**
 
 सचिवः समं सपदि सङ्घजनै-  
 रथ देवपत्तनमगान्नगरम्।  
@@ -2237,7 +2241,7 @@ IV Index of geographical names occuring in the poem ४
 
 **॥अथ नवमः सर्गः॥**
 
-![](../books_images/U-IMG-1728127299स्फ़्द्घ्र्त्फ़्.png)
+<MISSING_FIG href="../books_images/U-IMG-1728127299स्फ़्द्घ्र्त्फ़्.png"/>
 
 अथ गिरीशतटीषु मनीषिणां  
 परिवृढः परिपूर्णमनोरथः।  
@@ -2391,10 +2395,12 @@ IV Index of geographical names occuring in the poem ४
 वरतनूरतनूष्मणि भास्वरा-  
 तपततिः पतति स्तनमण्डले॥२९॥
 
-[हिमभरस्य]("एतत्पद्यं क-ख-पुस्तकयोर्नास्ति।") तयः प्रथितोन्नते-  
+हिमभरस्य[^17] तयः प्रथितोन्नते-  
 र्वनमहीरुह एव भुजो भृशम्।  
 निजरिपोरपि निर्गमनोद्यमं  
 दिनकरो न करोति कथञ्चन॥३०॥
+
+[^17]: "एतत्पद्यं क-ख-पुस्तकयोर्नास्ति।"
 
 पुलककम्पितसूत्कृतिभिः परि-  
 ष्वजनकर्म दिशन् हरिणीदृशाम्।  
@@ -2548,7 +2554,7 @@ IV Index of geographical names occuring in the poem ४
 
 **॥अथ दशमः सर्गः॥**
 
-**![](../books_images/U-IMG-1728127579इह्फ़िउग्वुरिएव्ह्रुइह्व्.png) **
+**<MISSING_FIG href="../books_images/U-IMG-1728127579इह्फ़िउग्वुरिएव्ह्रुइह्व्.png"/> **
 
 तदनु वदनकान्तिन्यत्कृतेन्दुः कृतीन्दुः
 
@@ -2742,7 +2748,7 @@ IV Index of geographical names occuring in the poem ४
 
 **॥अथैकादशः सर्गः॥**
 
-**![](../books_images/U-IMG-1728127483देह्ब्चेवुच्य्बेव्च्.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1728127483देह्ब्चेवुच्य्बेव्च्.png"/>**
 
 आसाद्य वीरधवलाधिपतिप्रदत्त-  
 श्रीस्तम्भतीर्थनगरप्रभुतामथासौ।  
@@ -2986,7 +2992,6 @@ IV Index of geographical names occuring in the poem ४
 
 **============**
 
-![](../books_images/U-IMG-1728146868अस्द्द्फ़्घ्.png)
+<MISSING_FIG href="../books_images/U-IMG-1728146868अस्द्द्फ़्घ्.png"/>
 
 \]
-

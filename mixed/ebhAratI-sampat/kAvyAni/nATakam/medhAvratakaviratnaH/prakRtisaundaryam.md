@@ -23,10 +23,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MDIzNzM4MDU
 
 [TABLE]
 
-![](../books_images/U-IMG-172665575956322.png)
+<MISSING_FIG href="../books_images/U-IMG-172665575956322.png"/>
 
 **प्रकाशकीय**  
-![](../books_images/U-IMG-172665581756323.png)
+<MISSING_FIG href="../books_images/U-IMG-172665581756323.png"/>
 
  इस ग्रन्थ को मेरे पूज्य भ्राता श्रीमेधाव्रत जी ने गुरुकुलीय जीवन के मध्य भाग में रचा था। इस ग्रन्थ पर उस समय गुरुकुल के विद्वद्गण एवं बाहर की पण्डित मण्डली ने बड़ी प्रसन्नता प्रकट की थी। गुरुकुल के वार्षिकोत्सव पर आर्य्य–समाज के सुप्रसिद्ध विद्वान् महा० श्री स्वामी अच्युतानन्द सरस्वती जी ने लेखक को स्वर्ण पदक प्रदान किया था। आर्य्य–समाज के दिग्गज विद्वान् स्वर्गीय पं० शिवशंकर शर्मा काव्यतीर्थ, स्व० पं० तुलसीराम स्वामी, दर्शनशिरोमणि पं० हरिप्रसाद जी वैदिक मुनि एवं पं० श्री घासीराम जी एम्. ए. आदिने इस रचना पर मुग्ध होकर लेखक को बधाइयाँ दी थीं। कुछ दिनों बाद गुरुकुल वृन्दावन की विद्या परिषद् ने इसे 'प्रकृतिसौन्दर्य्यम्' के नाम से प्रकाशितकिया। सब प्रतियों के समाप्त हो जाने पर बहुत दिनों तक ग्रन्थ की द्वितीयावृत्ति न हो सकी। बीच बीच में सहृदय सज्जनों की ओर से ग्रन्थ की माँग आती रही, परन्तु कतिपय कारणों से ग्रन्थ न छप सका।
 
@@ -39,18 +39,18 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MDIzNzM4MDU
      मंत्री आर्य्य–समाज येवला  
          (नासिक)
 
-![](../books_images/U-IMG-1726655691pic1.gif)
+<MISSING_FIG href="../books_images/U-IMG-1726655691pic1.gif"/>
 
-![](../books_images/U-IMG-1727067661Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1727067661Untitled.jpg"/>
 
 ग्रन्थकार
 
 **आचार्य मेधाव्रत कविरत्न**
 
-![](../books_images/U-IMG-1728382662Screenshot(83).png)  
+<MISSING_FIG href="../books_images/U-IMG-1728382662Screenshot(83"/>.png)  
 **कवि—परिचय**
 
-**![](../books_images/U-IMG-1726656280PIC.gif)**
+**<MISSING_FIG href="../books_images/U-IMG-1726656280PIC.gif"/>**
 
  मस्तिष्क के लिए उर्व्वरा–भूमि महाराष्ट्र प्रान्तान्तर्गत जिला नासिक के प्रसिद्ध नगर 'येवले, में जगंजीवन जी एक प्रसिद्ध मध्यवित्त गृहस्थ थे। इनकी धर्मपत्नी का नाम श्रीमती सरस्वती देवी था। सरस्वती देवी मराठी, गुजराती एवं हिन्दी भाषा जानती थीं। प्रारंभ में यह दम्पती सनातन धर्म के सिद्धान्तों पर विश्वास रखते थे। संन्यासियों एवं अतिथियों की सेवा की भावना दोनों ही में पर्याप्त मात्रा में विद्यमान थी। श्रीसरस्वती देवी बड़ीही पुत्र–वत्सला, साध्वी धर्मपरायणा एवं गृह सम्बन्धी कार्य्योमें सुचतुरा थीं। कुछ ही दिनों के पश्चात् आर्य्य–समाज के प्रसिद्ध विद्वान् स्वर्गीय स्वामी नित्यानंद जी एवं स्वर्गस्थ श्री० पं० बालकृष्ण जी के व्याख्यानों से प्रभावित होकर यह कुटुम्ब आर्य्य–समाज में दीक्षित हुआ। आर्य्य–समाज में प्रवेश करने के पश्चात् इन दोनों की धार्मिक—भावना और भी अधिक जागृत हो उठी। श्रीजगजीवन जी ने आर्य्य–समाज के संपूर्ण साहित्य का सम्यक्रीति से आलोडन किया। आपका जीवन क्रियात्मक था। गृहस्थ में रह कर भी स्वाध्याय, यम, नियमादि का पालन करना आप अपना कर्तव्य समझते थे।
 
@@ -94,11 +94,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MDIzNzM4MDU
 
 ** श्रुतबन्धु शास्त्री।**
 
-**![](../books_images/U-IMG-1726659140PIC.gif)**
+**<MISSING_FIG href="../books_images/U-IMG-1726659140PIC.gif"/>**
 
 **इस ग्रन्थके सम्बन्ध में दो शब्द.**
 
-![](../books_images/U-IMG-1726659374PIC.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1726659374PIC.jpg"/>
 
  जिन दिनों पण्डित जी गुरुकुल की अष्टम श्रेणी में पढ़ रहे थे, उन्हीं दिनों की यह रचना है। इस पुस्तक में कवि ने अपनी बाल्य सुलभ सरलता से प्रेरित होकर प्रकृति के विविध रूपों, गिरि–कन्दराओं, नदीनिर्झरों, सागरसरोवरों, वनोपवनों, आश्रमों, पशुपक्षियों, विविध ऋतुओं और नव नवरूप धारिणी मेघमालाओं एवं नक्षत्र मण्डलों का, आँखों देखा अत्यन्त सुन्दर स्वाभाविक और हृदयग्राही चित्र खींचा है। बहती हुई गंगा जल के समान धारावाहिक भाषा, शब्द लालित्य, वर्णन चातुर्य्य, अलङ्कार निवेशन, प्रसादगुण प्राचुर्य्यको देख कर पाठक का हृदय हर्षातिरेक से तरङ्गित हो उठता है।
 
@@ -119,10 +119,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MDIzNzM4MDU
   बिहार प्रान्त.                          
 उपाध्याय आर्य्य–कन्यामहाविद्यालय, बडोदा.  
  १ जुलाई १९३४                            
+      
 
- ![](../books_images/U-IMG-1726660312PIC.jpg)  
+ <MISSING_FIG href="../books_images/U-IMG-1726660312PIC.jpg"/>  
 
-![](../books_images/U-IMG-1727067915Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1727067915Untitled.jpg"/>
 
 अनुवादक,
 
@@ -130,9 +131,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MDIzNzM4MDU
 
 **॥ओ३म्॥  
 प्रकृतिसौन्दर्यम्।**  
-**![](../books_images/U-IMG-1726680441PIC1.jpg)**  
+**<MISSING_FIG href="../books_images/U-IMG-1726680441PIC1.jpg"/>**  
 **प्रथमोऽङ्कः।  
-![](../books_images/U-IMG-1726680656PIC1.jpg)**  
+<MISSING_FIG href="../books_images/U-IMG-1726680656PIC1.jpg"/>**  
 **\[ नान्दी \]**
 
 **आनन्दं ब्रह्मरूपं निरुपमममलं रूपणीयं निरूप्य  
@@ -152,7 +153,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MDIzNzM4MDU
 **ओ३म् नमोऽन्तर्यामिणे।**  
 **भावसन्दीपिनी भाषाटीका.**
 
-**![](../books_images/U-IMG-1726681019PIC1.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1726681019PIC1.jpg"/>**
 
 \[ नान्दी \]
 
@@ -1077,11 +1078,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MDIzNzM4MDU
 
 **प्रथमाङ्क समाप्त.**
 
-**![](../books_images/U-IMG-1726806769PIC.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1726806769PIC.jpg"/>**
 
 **द्वितीयोऽङ्कः।**
 
-**![](../books_images/U-IMG-1726807003PIC.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1726807003PIC.jpg"/>**
 
 \[ ततः प्रविशति पीताम्बरधरो ब्रह्मचारी विनयकुमारः \]
 
@@ -1773,10 +1774,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MDIzNzM4MDU
 
 **द्वितीयाङ्क समाप्त**
 
-![](../books_images/U-IMG-1726737587Screenshot2024-09-192.49.27PM.png)
+<MISSING_FIG href="../books_images/U-IMG-1726737587Screenshot2024-09-192.49.27PM.png"/>
 
 **तृतीयोऽङ्कः।  
-![](../books_images/U-IMG-1726738020Screenshot2024-09-192.56.41PM.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726738020Screenshot2024-09-192.56.41PM.png"/>**
 
 \[ततः प्रविशतस्तुरङ्गाधिरूढौ चन्द्रकेतुवसुचन्द्रौ\]
 
@@ -2270,11 +2271,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MDIzNzM4MDU
 
 **तृतीयाङ्क समाप्त**
 
-![](../books_images/U-IMG-1726763663Screenshot2024-09-1910.04.01PM.png)
+<MISSING_FIG href="../books_images/U-IMG-1726763663Screenshot2024-09-1910.04.01PM.png"/>
 
 **चतुर्थोऽङ्कः।**
 
-![](../books_images/U-IMG-1726764200Screenshot2024-09-1910.13.07PM.png)
+<MISSING_FIG href="../books_images/U-IMG-1726764200Screenshot2024-09-1910.13.07PM.png"/>
 
 \[ततः प्रविशति चन्द्रकेतुः प्रियमित्रश्च\]
 
@@ -2939,11 +2940,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MDIzNzM4MDU
 
 **चतुर्थोऽङ्कः समाप्त**
 
-![](../books_images/U-IMG-1726850536Screenshot2024-09-2010.12.01PM.png)
+<MISSING_FIG href="../books_images/U-IMG-1726850536Screenshot2024-09-2010.12.01PM.png"/>
 
 **पञ्चमोऽङ्कः।**
 
-![](../books_images/U-IMG-1726850615Screenshot2024-09-192.56.41PM.png)
+<MISSING_FIG href="../books_images/U-IMG-1726850615Screenshot2024-09-192.56.41PM.png"/>
 
 \[ततः प्रविशति ब्रह्मचारिबटुः\]
 
@@ -3561,11 +3562,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MDIzNzM4MDU
 
 **पञ्चमाङ्क समाप्त**
 
-**![](../books_images/U-IMG-1727004529Screenshot2024-09-224.58.22PM.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1727004529Screenshot2024-09-224.58.22PM.png"/>**
 
 **षष्ठोऽङ्कः।**
 
-**![](../books_images/U-IMG-1727005270Screenshot2024-09-1910.13.07PM.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1727005270Screenshot2024-09-1910.13.07PM.png"/>**
 
 \[ततः प्रविशति–आसनासीनो राजा चन्द्रमौलिः, अमात्यमणिर्मणिचन्द्रश्च\]
 
@@ -4201,13 +4202,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MDIzNzM4MDU
 
 **छठाँ अंक समाप्त**
 
-**![](../books_images/U-IMG-1727068141Untitled.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1727068141Untitled.jpg"/>**
 
-![](../books_images/U-IMG-17270859524626.png)
+<MISSING_FIG href="../books_images/U-IMG-17270859524626.png"/>
 
 **   सरस्वतीस्तवनम्॥**
 
-**  ![](../books_images/U-IMG-1727030333Untitled.jpg)**
+**  <MISSING_FIG href="../books_images/U-IMG-1727030333Untitled.jpg"/>**
 
 **\[ १ \]**
 
@@ -4237,7 +4238,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MDIzNzM4MDU
 दुष्प्रापं तद् विमलमतयः प्राप्य ते पुण्यवन्तः  
  सन्तः सन्ति प्रथितयशसो धन्यधन्या अवन्याम्॥**
 
-**![](../books_images/U-IMG-1727030831Untitled.jpg)सरस्वतीनन्दनः**
+**<MISSING_FIG href="../books_images/U-IMG-1727030831Untitled.jpg"/>सरस्वतीनन्दनः**
 
 **कविरत्नंमेधाव्रताचार्यः।**
 

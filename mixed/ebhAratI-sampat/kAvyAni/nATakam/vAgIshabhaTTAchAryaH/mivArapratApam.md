@@ -21,7 +21,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 कलिकाता ४१ संख्यक देवलेन स्थित-सिद्धान्तयन्त्रे  
 श्रीहेमचन्द्रभट्टाचार्य्येण मुद्रितम्।
 
-![](../books_images/U-IMG-1723187915Screenshot2024-08-09124800.png)
+<MISSING_FIG href="../books_images/U-IMG-1723187915Screenshot2024-08-09124800.png"/>
 
 महामहोपाध्याय-महाकवि-भारताचार्य्य-श्रीहरिदाससिद्धान्तवागीशः।
 
@@ -80,7 +80,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 
 नर्त्तकीगणश्च
 
-![](../books_images/U-IMG-172354326954.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172354326954.jpg"/>
 
 **यवनिका-(सिन्) परिचयः।**
 
@@ -136,12 +136,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 | पञ्चमदृश्यम्  | दुर्गसम्मुखे समराङ्गनम्|     |
 | षष्ठदृश्यम्   | दुर्ग, परिखा, अग्निकाण्डञ्च| |
 
-![](../books_images/U-IMG-172354446454.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172354446454.jpg"/>
 
 १३५२ वङ्गाब्दीयसौरफाल्गुनसप्तदशदिवसरजन्यां  
 कलिकाताष्टाररङ्गमञ्चेइमे खल्वभिनेतार आसन्।
 
-![](../books_images/U-IMG-172354446454.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172354446454.jpg"/>
 
 नान्दी—श्रीसनत्कुमारवन्द्योपाध्यायः एम् ए, वि, टि।  
 सूत्रधारः—श्रीजगन्मोहनज्योतिर्विनोदः।  
@@ -172,7 +172,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 दौवारिकः, सेलिमसैनिकगणः, खोरासानी, मूलतानी,  
 भरतगणः, उभयपक्षसैन्यगणः, शिविकावाहकाश्च।
 
-![](../books_images/U-IMG-172354503258.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172354503258.jpg"/>
 
 स्त्रीगणः।
 
@@ -204,11 +204,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 
 नाटकम्।
 
-![](../books_images/U-IMG-1723205314Screenshot2024-08-09173819.png)
+<MISSING_FIG href="../books_images/U-IMG-1723205314Screenshot2024-08-09173819.png"/>
 
 **प्रथमोऽङ्कः।**
 
-![](../books_images/U-IMG-172354534554.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172354534554.jpg"/>
 
 यो जायापदयोस्तले त्रिजगतामूर्द्धेच सन्तिष्ठते  
 धत्तेयश्च कृशानुमम्वुच सुखं शीर्षेसदा सन्ततम्।  
@@ -325,11 +325,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 
 इति निष्क्रान्तौ।
 
-![](../books_images/U-IMG-172362111154.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172362111154.jpg"/>
 
 प्रस्तावना।
 
-![](../books_images/U-IMG-172362114358.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172362114358.jpg"/>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -470,11 +470,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 
 इति निष्क्रान्तौ।
 
-![](../books_images/U-IMG-172362272558.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172362272558.jpg"/>
 
 **विष्कम्भकः।**  
 
-![](../books_images/U-IMG-172362276057.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172362276057.jpg"/>
 
 ततः प्रविशति कालौशैलसन्निहित-कालीमन्दिराङ्गने  
 यथासम्भव-सशस्त्र-सामन्त- सेनानी-सैनिकसमेतः  
@@ -676,15 +676,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 
 (इति देवतां प्रणम्य निष्क्रान्ताः सर्वे।)
 
-![](../books_images/U-IMG-172364807756.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172364807756.jpg"/>
 
 **प्रतिज्ञा नाम प्रथमोऽङ्कः॥०॥**
 
-![](../books_images/U-IMG-1723274790Screenshot2024-08-10125610.png)
+<MISSING_FIG href="../books_images/U-IMG-1723274790Screenshot2024-08-10125610.png"/>
 
 **द्वितीयोऽङ्कः।**
 
-**![](../books_images/U-IMG-1723274863Screenshot2024-08-09173819.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1723274863Screenshot2024-08-09173819.png"/>**
 
 अथ प्रविशति शिविकारूढ़ा कमला।
 
@@ -795,11 +795,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 कमला। अथ श्रूयते— महिलामेला निषिधपुरुषप्रवेशेति। तत् कथं तत्र वादसाहः
 प्रविशति? तत् किमसौ न पुरुषः?
 
+ 
+
 उद्यान। स ण पुरिसो, किन्तु महापुरिसो ज्जेव। ता तस्म पवेसे ण दोसो। (ट)
+
+ 
 
 कमला। तर्हि यज्ञवाटे महाकुर्क्कुरप्रवेशेऽपि न दोषः?
 
+ 
+
 उद्यान। ण जुज्जति भोदीए एरिसं भणिदुं। (ठ)
+
+ 
 
 कमला। तद्ब्रूहि वादसाहदर्शने किं प्रयोजनम्?
 
@@ -934,11 +942,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 
 इति निष्क्रान्ताः सर्व्वे।
 
-![](../books_images/U-IMG-1723287917Screenshot2024-08-10163459.png)
+<MISSING_FIG href="../books_images/U-IMG-1723287917Screenshot2024-08-10163459.png"/>
 
 **इतिकमलाकौशलं नाम द्वितीयोऽङ्कः॥०॥**
 
-![](../books_images/U-IMG-172365068354.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172365068354.jpg"/>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -952,7 +960,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 
 **तृतीयोऽङ्कः।**
 
-![](../books_images/U-IMG-1723288066Screenshot2024-08-09173819.png)
+<MISSING_FIG href="../books_images/U-IMG-1723288066Screenshot2024-08-09173819.png"/>
 
 अथ प्रविशति मन्त्रणाभवने सचिन्तो वादसाहः।
 
@@ -1058,7 +1066,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 
 प्रतिवदन्नग्रजेन प्रतापेन निराकृतस्तिरस्कृतश्च गृहान्तरं गत इति।
 
+ 
+
 बाद। (सहर्षम्) तर्हितेन विभीषणक्रिया कारयितव्या।  
+ 
 
 मान। अत्रास्ति गरीयान् संशयः। येन हि—
 
@@ -1072,14 +1083,22 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 गतेषु चास्मासु स शक्तसिंहः  
 शक्तोऽप्यशक्तो भवितैव वाढ़म्॥१२॥
 
+ 
+
 वाद। अथाधिगतंभवता कियती सैन्यसंख्या प्रतापस्येति।
 
+ 
+
 मान। पञ्चाशत्सहस्रपर्य्यन्ता। तेन च द्विलक्षसैन्योपपन्नेमयि सागरे सरिदिव सा लयं यास्यति।
+
+ 
 
 वाद। मा मैवम्।
 
 आक्रान्तः प्राणरक्षार्थमाक्रन्ता तद्ग्रहाय तु।  
 युध्यते युधि तेनाद्यो दुर्बलोऽपि बलीयते॥१३॥
+
+ 
 
 मान। युक्तिरियं शतश एव प्रत्यक्षसिद्धा वादसाहस्य। किन्त्वितश्च चतुरङ्गिनी चतुर्गुणा च वाहिन्यस्माकमित्यपि विवेक्तव्यम्।
 
@@ -1156,6 +1175,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 
  वाद। (आकर्ण्य विविच्य) भवतु। आयुष्मन्! आगच्छ, पश्यावस्तावन्मिवारमानचित्रं तत्प्रवेशमार्गंसमरोचितंप्रदेशञ्च। (इति मिवारमानचित्रमादत्ते।)
 
+ 
+
 सेलिमः। सर्व्वथा युक्ततमं खल्वेतत्। (इत्युपसर्पति।)
 
  उभौ। मिवारमानचित्रं पश्यतः।
@@ -1207,15 +1228,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 
 इति निष्क्रान्ताः सर्व्वे।
 
-![](../books_images/U-IMG-1723347101Screenshot2024-08-11085805.png)
+<MISSING_FIG href="../books_images/U-IMG-1723347101Screenshot2024-08-11085805.png"/>
 
 **मिवारप्रयाणंनाम तृतीयोऽङ्कः॥०॥**
 
-![](../books_images/U-IMG-172370834054.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172370834054.jpg"/>
 
 **चतुर्थोऽङ्कः।**
 
-![](../books_images/U-IMG-1723347177Screenshot2024-08-11090244.png)
+<MISSING_FIG href="../books_images/U-IMG-1723347177Screenshot2024-08-11090244.png"/>
 
 अथ प्रविशति कालीमन्दिरालिन्देशान्तिशरणमिश्रः।
 
@@ -1396,11 +1417,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 
 इति निष्क्रान्तौ।
 
-![](../books_images/U-IMG-1723349139Screenshot2024-08-11085805.png)
+<MISSING_FIG href="../books_images/U-IMG-1723349139Screenshot2024-08-11085805.png"/>
 
 **विष्कम्भकः।**
 
-![](../books_images/U-IMG-1723349165Screenshot2024-08-11090244.png)
+<MISSING_FIG href="../books_images/U-IMG-1723349165Screenshot2024-08-11090244.png"/>
 
 ततः प्रविशति हरिद्राघट्टप्रान्तवर्त्तिगिरिशिखरे  
 सशस्त्रः शक्तसिंह।
@@ -1676,15 +1697,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 
 इति सविषादंनिष्क्रान्तः।
 
-![](../books_images/U-IMG-1723357036Screenshot2024-08-11090244.png)
+<MISSING_FIG href="../books_images/U-IMG-1723357036Screenshot2024-08-11090244.png"/>
 
 **चतुर्थोऽङ्कः।**
 
-![](../books_images/U-IMG-1723357068Screenshot2024-08-10125610.png)
+<MISSING_FIG href="../books_images/U-IMG-1723357068Screenshot2024-08-10125610.png"/>
 
 **चतुर्थाङ्केगर्भाङ्कः।**
 
-**![](../books_images/U-IMG-172336334353.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-172336334353.jpg"/>**
 
  समम्भ्रमं प्रविश्य सूत्रधारः।
 
@@ -1712,10 +1733,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 
 इति निष्क्रान्तः।
 
-![](../books_images/U-IMG-172336721354.jpg)  
+<MISSING_FIG href="../books_images/U-IMG-172336721354.jpg"/>  
 प्रस्तावना॥०॥
 
-![](../books_images/U-IMG-172336724555.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172336724555.jpg"/>
 
 अथ प्रविशति रक्ताक्तदेहस्तादृशमेव तुरङ्गमारूढः
 
@@ -1840,15 +1861,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 
 **चतुर्थाङ्के गर्भाङ्कः।**
 
-**![](../books_images/U-IMG-172337134556.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-172337134556.jpg"/>**
 
 **प्रतापपराजयो नाम चतुर्थोऽङ्कः॥०॥**
 
-**![](../books_images/U-IMG-172337126854.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-172337126854.jpg"/>**
 
 **पञ्चमोऽङ्कः।**
 
-![](../books_images/U-IMG-172337269457.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172337269457.jpg"/>
 
 अथ प्रविशति निविड़पर्व्वतारण्ये परशुकरण्डीहस्तं  
 भिल्लकाष्ठिकद्वयम्।
@@ -1966,11 +1987,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 
 इति निष्क्रान्तौ।
 
-![](../books_images/U-IMG-172337699054.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172337699054.jpg"/>
 
 **प्रवेशकः॥०॥**
 
-**![](../books_images/U-IMG-172337703255.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-172337703255.jpg"/>**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -2395,15 +2416,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 
 इति निष्क्रान्ताः सर्व्वे।
 
-![](../books_images/U-IMG-172339575256.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172339575256.jpg"/>
 
 **वनवासो नाम पञ्चमोऽङ्कः॥०॥**
 
-![](../books_images/U-IMG-172339579854.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172339579854.jpg"/>
 
 **षष्ठोऽङ्कः।**
 
-![](../books_images/U-IMG-172339591657.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172339591657.jpg"/>
 
 अथ प्रविशति कालीशैलसन्निहितमन्दिरालिन्दे  
 शान्तिशरणमिश्र जपमालाहस्तो हर्षोत्फुल्लवदनः  
@@ -2527,11 +2548,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 
 इति निष्क्रन्तौ।
 
-![](../books_images/U-IMG-172339963955.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172339963955.jpg"/>
 
 अङ्कावतारः॥०॥
 
-![](../books_images/U-IMG-172339967954.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172339967954.jpg"/>
 
 अथ प्रविशति देवीदुर्गे विलासभवने दुर्गाध्यक्षः  
 साहवाज खास्तद्वयस्य मवारकश्च।
@@ -2957,21 +2978,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 
 यवनिकापतनम्।
 
-![](../books_images/U-IMG-172345071555.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172345071555.jpg"/>
 
 **द्वात्रिंशद्दुर्गविजयो नाम षष्ठोऽङ्कः॥०॥**
 
-![](../books_images/U-IMG-172345076154.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172345076154.jpg"/>
 
 समाप्तञ्चेदं मिवारप्रतापं नाम नाटकम्॥०॥
 
 **वियोगवैभवम्।**
 
-**![](../books_images/U-IMG-172345109257.jpg)**  
+**<MISSING_FIG href="../books_images/U-IMG-172345109257.jpg"/>**  
 
 **प्रथमः सर्गः।**
 
-**![](../books_images/U-IMG-172345114854.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-172345114854.jpg"/>**
 
 **मखभुवि शितिकण्ठः कण्ठमानीय कान्तां  
 भ्रमणमनणु चक्रे चक्रवद्यम्महिम्ना।  
@@ -3293,11 +3314,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 इति श्रीहरिदासकृतौ वियोगवैभवे खण्डकाव्ये  
 यामिनीवैभवो नाम प्रथमः सर्गः॥०॥
 
-![](../books_images/U-IMG-172345766555.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172345766555.jpg"/>
 
 **द्वितीयः सर्गः।**
 
-**![](../books_images/U-IMG-172345788854.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-172345788854.jpg"/>**
 
 **अथ विकलकरान्तो धारयन् न्युव्जभावं  
 अरुणवदन इन्दुः शैलमस्तं जगाम।  
@@ -3620,9 +3641,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0MDYyNzI0OTc
 एकोनविंशाब्दवयः स्थितात्मा  
 व्यधादिदं श्रीहरिदासशर्म्मा॥६३॥**
 
-![](../books_images/U-IMG-172344804053.jpg)  
+<MISSING_FIG href="../books_images/U-IMG-172344804053.jpg"/>  
 समाप्वितमिहं वियोगवैभवं खण्डकाव्यम्॥०॥
 
-**![](../books_images/U-IMG-172344809655.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-172344809655.jpg"/>**
 
 \]

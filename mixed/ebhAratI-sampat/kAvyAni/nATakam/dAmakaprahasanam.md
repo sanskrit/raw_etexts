@@ -17,12 +17,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMzMzM1Njg2NTU
 
 \[
 
-![](../books_images/U-IMG-1720248330Screenshot2024-07-06121239.png)
+<MISSING_FIG href="../books_images/U-IMG-1720248330Screenshot2024-07-06121239.png"/>
 
 THE  
 PUNJAB SANSKRIT SERIES.  
 No. IX.  
-![](../books_images/U-IMG-1720248357Screenshot2024-07-06121418.png)
+<MISSING_FIG href="../books_images/U-IMG-1720248357Screenshot2024-07-06121418.png"/>
 
 [TABLE]
 
@@ -46,7 +46,7 @@ V. VENKATARĀM SHASTRI.
 
 \* दामकप्रहसनम् \*
 
-![](../books_images/U-IMG-1720203835dhamaka_2-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1720203835dhamaka_2-removebg-preview.png"/>
 
 \[ नान्द्यन्ते ततः प्रविशति सूत्रधारः \]
 
@@ -92,7 +92,7 @@ V. VENKATARĀM SHASTRI.
 'निष्क्रान्तौ'
 
 स्थापना \।\।  
-![](../books_images/U-IMG-1720243351dhamaka3-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1720243351dhamaka3-removebg-preview.png"/>
 
 ( ततः प्रविशति दामकः )
 
@@ -113,6 +113,8 @@ V. VENKATARĀM SHASTRI.
 निर्वेद एव खल्वनुक्तग्राहिणं स्वामिनमुपाश्रितस्य इत्यजनस्य।
 
 ( पुरोऽवलोक्य)
+
+ 
 
 आ एष दुष्टकुक्कुरः अस्मादाश्रमाभोगात् वल्कलं गृहीत्वा धावति। दास्याः पुत्र कुत्र गमिष्यसि‚ तव दन्तानहं भङ्क्ष्यामि।
 
@@ -137,7 +139,7 @@ V. VENKATARĀM SHASTRI.
 
 ' निष्क्रान्तः '
 
-![](../books_images/U-IMG-1720243688dhamaka5-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1720243688dhamaka5-removebg-preview.png"/>
 
 (ततः प्रविशति परशुरामः कर्णश्च )
 
@@ -173,7 +175,7 @@ V. VENKATARĀM SHASTRI.
 
 **' निष्क्रान्तौ'**
 
-![](../books_images/U-IMG-1720243890dhamaka6-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1720243890dhamaka6-removebg-preview.png"/>
 
 (ततः प्रविशतो भटौ )
 
@@ -215,15 +217,15 @@ V. VENKATARĀM SHASTRI.
 
 समाप्तम्.
 
-![](../books_images/U-IMG-1720244097dhamaka7-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1720244097dhamaka7-removebg-preview.png"/>
 
 **TRANSLATION.**
 
-![](../books_images/U-IMG-1720244386dhamaka8-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1720244386dhamaka8-removebg-preview.png"/>
 
 Damaka Prahasanam.
 
-![](../books_images/U-IMG-1720244599dhamaka9-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1720244599dhamaka9-removebg-preview.png"/>
 
 *(Enter manager at the close of Nāndī. )*
 

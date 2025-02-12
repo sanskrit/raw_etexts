@@ -15,7 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY4Nzg5MzY2MTM
 
 \[
 
-![](../books_images/U-IMG-172121285239.png)
+<MISSING_FIG href="../books_images/U-IMG-172121285239.png"/>
 
 **Harbard College Library**  
 
@@ -37,7 +37,7 @@ OF BOSTON.
 
 **॥ग्रन्थः॥**
 
-**![](../books_images/U-IMG-172121308940.png)**
+**<MISSING_FIG href="../books_images/U-IMG-172121308940.png"/>**
 
 **Dhruva's Penance**
 
@@ -129,7 +129,7 @@ HUMBLE DEDICATION.
 तथा वनचराः वैद्यः भटः इत्यादयः।
 
 **PREFACE.  
-![](../books_images/U-IMG-172121436514.png)**
+<MISSING_FIG href="../books_images/U-IMG-172121436514.png"/>**
 
  The plot of this work is the well-known story of Dhruva so beautifully narrated in the thrilling chapters of Bhagavata.It is briefly summarised below.
 
@@ -195,13 +195,14 @@ An implicit observance of all the Sanskrit rules regulating Dramatic composition
 
 COIMBATORE,  
 5-12-05                                
+                
 
 C. M. PADMANABHACHAR.
 
-![](../books_images/U-IMG-172121552341.png)
+<MISSING_FIG href="../books_images/U-IMG-172121552341.png"/>
 
 **॥ध्रुवतपः॥  
-![](../books_images/U-IMG-172121561542.png)**
+<MISSING_FIG href="../books_images/U-IMG-172121561542.png"/>**
 
 **श्रीमन्मध्वागमाब्धेर्मतगुणमणिभिर्भूषितो भूतिपूर्वै  
 र्नानावर्णैः कवीन्द्रैर्विविधपदगुणैस्संस्तुतः श्रीपदाब्जः।  
@@ -509,6 +510,7 @@ are. I go to attend on Surichi (so she starts.)
 **Suneeti**.— Friend, this letter has to be despatched to His Majesty.  
 **Manthara**.— I will carry it without delay to His Majesty.
 
+                                 
 \[Exeunt.
 
 **उपाङ्कः॥ ३ ॥**  
@@ -1262,10 +1264,11 @@ What enchanting features, they, of slender Suruchi, reflecting a lustre that van
 **Manthara**.— She gifted to me the signet ring highly valued by you and presented as a remembrance during theenjoyments of love. (Shours the ring).  
 **King**.— (Thinking) Enough of this inquiry. It is clearly perceived that their joint residence is not proper.The exile of Suneeti must be ordered.
 
+                                   
  \[Exeunt.
 
 **End of Act I.**  
-![](#)![](../books_images/U-IMG-1722705586Screenshot_3-8-2024_224757_www.ebharatisampat.in.jpeg)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1722705586Screenshot_3-8-2024_224757_www.ebharatisampat.in.jpeg"/>
 
 **॥ द्वितीयोंकः ॥**  
 ॥ प्रस्तावना ॥
@@ -1786,6 +1789,7 @@ whose hand no orthodox persons will accept water.
 **Suneeti**.— Just as the grateful savitri that rescued her husband from the jaws of death, adored Yama, so do I bow before Sumati out of gratitude, if you, O Sumati, show me out of supreme kindness one who is of untarnished lustre, who is ever fixed in my heart, who is honoured by Devas and who is my sovereign, my Lord, and my beloved.  
 **Sumati**.— Everything will turnout satisfactory. Don't give way to grief.
 
+                                   
   \[Exuent.
 
 **॥ उपांकः ४ ॥**
@@ -1941,6 +1945,7 @@ tion of her ruin. What I mistook for a blessing, turns out a source of ruin to h
 **Manthara**.— Undoubtedly, this is Sumati's work.  
 **Ganga**.— We will think of another course.
 
+                                   
 Exeunt.
 
 **END OF ACT II.**
@@ -2097,7 +2102,7 @@ Young Krishna, an ocean of grace divine, O Hari, protect my son constantly; do p
                            ~~
 
 poor luck, represents to me the valued reward of good deeds done in by-gone janmas (incarnations), an only fruit as of a plantain tree, and rare as a paddy sprout grown on a piece of rock.   
-**Manthara.**— (taking the boy) Darling, come; I willgive flowers and fruits to you. Here are toys; your majesty, see the things sent by Suruchi. Fruits viz. wood apples, ebony rose apples, Amalakas![](../books_images/U-IMG-1721189312Screenshot2024-07-17093805.png)(Emblic myrobalan) Pomegranate, Mangoes and plantains; similarly, this painted peacock for the boy; this image of Vencatasa.  
+**Manthara.**— (taking the boy) Darling, come; I willgive flowers and fruits to you. Here are toys; your majesty, see the things sent by Suruchi. Fruits viz. wood apples, ebony rose apples, Amalakas<MISSING_FIG href="../books_images/U-IMG-1721189312Screenshot2024-07-17093805.png"/>(Emblic myrobalan) Pomegranate, Mangoes and plantains; similarly, this painted peacock for the boy; this image of Vencatasa.  
 **Boy.**— (Taking theme) whence were these brought?  
 **Manthara.**— From your father's house.
 
@@ -2528,6 +2533,7 @@ Enter Narada.
 
 **जननीस्तन्यचिन्हं ते  
 बिंबोष्ठेनैव शोषितं॥**  
+      
 
 ** बालः—**
 
@@ -2765,7 +2771,9 @@ Need it be said that it is unattainable by those who occupy positions from which
 
 **The end of Act III.**
 
-**![\#](../books_images/U-IMG-1721221125Screenshot2024-07-17182835.png)**
+**!\#[^2]**
+
+[^2]: ../books_images/U-IMG-1721221125Screenshot2024-07-17182835.png
 
 **॥अथ चतुर्थोंकः॥**
 
@@ -3244,6 +3252,7 @@ ded to bile and wind indeed trying to thephysician.
 सीदत्वत्रदेवी शय्यान्ते,गायतु मंदमंदं। तदेवौषधमितः परम्।
 
 --------------------------------------------------------------------------------------------------
+   
 
 you; and smiles gently moving his lips; The perceptive consciousness of the soul rejoices at the finding of longed-for persons. He utters words of joy,as if delighted by a dream.
 
@@ -3425,7 +3434,7 @@ the despatch cancelling my exile.
 
 **End of Act.IV**
 
-**![](../books_images/U-IMG-1721217538Screenshot2024-07-17172839.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721217538Screenshot2024-07-17172839.png"/>**
 
 **॥ पञ्चमोंकः ॥**
 
@@ -4929,7 +4938,6 @@ I will at once seat you on the lap of the King, as on that account, you grieved 
 
 *\[Exeunt.*
 
-*![](../books_images/U-IMG-1723309665Screenshot2024-08-10223705.png)*
+*<MISSING_FIG href="../books_images/U-IMG-1723309665Screenshot2024-08-10223705.png"/>*
 
 \]
-

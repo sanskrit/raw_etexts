@@ -279,7 +279,7 @@ Von Humboldt.
 ॥ श्रीः ॥
 
 **मालविकाग्निमित्रम्**  
-![](../books_images/U-IMG-1724739358Screenshot(69).png)
+<MISSING_FIG href="../books_images/U-IMG-1724739358Screenshot(69"/>.png)
 
 एकैश्वर्ये स्थितोऽपि प्रणतवहुफले यः स्वयं कृत्तिवासाः  
 कान्तासम्मिश्रदेहोऽप्यविषयमनसां यः परस्ताद्यतीनाम्।  
@@ -754,7 +754,7 @@ Von Humboldt.
 ( इति निष्क्रान्ताः सर्वे )
 
 इति प्रथमोऽङ्कः  
-![](../books_images/U-IMG-1724925370Screenshot(69).png)
+<MISSING_FIG href="../books_images/U-IMG-1724925370Screenshot(69"/>.png)
 
 **अथ द्वितीयोऽङ्कः **
 
@@ -973,7 +973,7 @@ Von Humboldt.
 (इति निष्क्रान्ताः सर्वे)
 
 **इति द्वितीयोऽङ्कः**  
-![](../books_images/U-IMG-1724926702Screenshot(69).png)
+<MISSING_FIG href="../books_images/U-IMG-1724926702Screenshot(69"/>.png)
 
 **अथ तृतीयोऽङ्कः**
 
@@ -2014,7 +2014,7 @@ Von Humboldt.
 
 इति चतुर्थोऽङ्कः
 
-![](../books_images/U-IMG-1723640610Screenshot2024-08-14183248.png)
+<MISSING_FIG href="../books_images/U-IMG-1723640610Screenshot2024-08-14183248.png"/>
 
 **अथ पञ्चमोऽङ्कः**
 
@@ -2600,7 +2600,7 @@ Von Humboldt.
 
 इति श्रीमहाकवि**कालिदास**विरचितं **मालविकाग्निमित्रम्** संपूर्णम्।
 
-![](../books_images/U-IMG-1723883305Screenshot2024-08-17135653.png)
+<MISSING_FIG href="../books_images/U-IMG-1723883305Screenshot2024-08-17135653.png"/>
 
 |                                |                               |
 |:------------------------------:|:-----------------------------:|
@@ -4798,4 +4798,3 @@ END OF THE FIFTH ACT.
 Here Ends the Malavikagnimitra
 
 \]
-

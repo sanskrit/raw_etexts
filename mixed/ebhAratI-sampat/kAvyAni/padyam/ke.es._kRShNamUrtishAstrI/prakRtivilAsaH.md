@@ -17,7 +17,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk4OTM3NzYzNjI
 
 **॥ प्रकृतिविलासः ॥**
 
-![](../books_images/U-IMG-1706419440n1310222.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1706419440n1310222.jpg"/>
 
 **BY**  
 **MAHAMAHOPADHYAYA, PANDITARAJA  
@@ -25,7 +25,7 @@ K.S.KRISHNAMURTI SASTRI**
 ***Poet Laureate in Sanskrit  
 (Madras State)***
 
-![](../books_images/U-IMG-1706419391n1785932.png)
+<MISSING_FIG href="../books_images/U-IMG-1706419391n1785932.png"/>
 
 [TABLE]
 
@@ -62,10 +62,10 @@ K.S.KRISHNAMURTI SASTRI**
 
 [TABLE]
 
-![](../books_images/U-IMG-1706434526Screenshot_20231101_045302.png)
+<MISSING_FIG href="../books_images/U-IMG-1706434526Screenshot_20231101_045302.png"/>
 
 **Author’s Note.**  
-![](../books_images/U-IMG-1706434676Screenshot_20231101_045302.png)
+<MISSING_FIG href="../books_images/U-IMG-1706434676Screenshot_20231101_045302.png"/>
 
  For many years my poetical compositions are being published in Sanskrit journals. As a result of the encouragement given by the Madras Government I have not only been inspired to greater poetical effort in the cause of Sanskrit but also to bring together my published poems in book-form. I am deeply indebted to the Madras Government for their kind encouragement.
 
@@ -85,7 +85,7 @@ K.S.KRISHNAMURTI SASTRI**
 **K. S. Krishnamurthi Sastri**
 
 FOREWORD  
-![](../books_images/U-IMG-1706435195Screenshot_20231101_045302.png)
+<MISSING_FIG href="../books_images/U-IMG-1706435195Screenshot_20231101_045302.png"/>
 
  I think it really presumptuous on my part to write a foreword to the **KAVYA** of such a reputed scholar and poet like Mahamahopadhyaya K. S. Krishnamurti Sastrigal. Persons far more competent than myself have extolled his mastery of the Sanskrit Language and the beauty of his poetical style. The Government have recognised his merit in making him the Poet Laureate in Sanskrit.
 
@@ -108,10 +108,12 @@ May, 13; 1950.
           **PALACE No. 16.  
 PRINCE OF COCHIN                           
              **TRIPUNITTURA.**  
-
+                                   
+                                   
 5th July, 1945.
 
 To                                  
+           
 
 ** PANDITARAJA K. S. KRISHNAMOORTI SASTRY.**
 
@@ -129,7 +131,7 @@ Yours sincerely,
 **RAMAVARMA.**
 
 **॥ अभिनन्दनम् ॥**  
-![](../books_images/U-IMG-1706537786Screenshot_20231101_045302.png)
+<MISSING_FIG href="../books_images/U-IMG-1706537786Screenshot_20231101_045302.png"/>
 
 **वर्ण्यः कथन्नु विदितः सकलेऽपि देशे  
 श्रीकृष्णमूर्तिसुकविर्मम वाग्भिराभिः ।  
@@ -150,7 +152,7 @@ Yours sincerely,
 WARANGAL.  
 N. S. RY.**
 
-![](../books_images/U-IMG-1706537786Screenshot_20231101_045302.png)
+<MISSING_FIG href="../books_images/U-IMG-1706537786Screenshot_20231101_045302.png"/>
 
 **CRITICAL APPRECIATION**  
 BY  
@@ -380,7 +382,7 @@ the honey.
 
  The author evinces considerable mastery over his art in the choice and naming of the themes, in the use of the metres and in the descriptions with refreshing variety. The poems are marked by the author's keen observation of natural phenomena, insight into the working of the human heart and power of expressing eternal truths in apt language. The poet-scholar has demonstrated in his work that he can be at home equally with the simple Kalidasan style and the erudite styles of Bhavabhuti, Bhatti and Sri Harsha. This collection of his early poems clearly brings out the natural poetic talents of the Poet-Laureate; it also assures him an honoured place among the Nature-poets in Sanskrit.
 
-![](../books_images/U-IMG-1707021176Screenshot_20231101_045302.png)
+<MISSING_FIG href="../books_images/U-IMG-1707021176Screenshot_20231101_045302.png"/>
 
 **Mahamahopadhyaya K. S. KRISHNAMURTI SASTRI**
 
@@ -393,14 +395,14 @@ the honey.
 **सारस्वतसर्वस्वं नाम**
 
 **प्रथमो विलासः ॥  
-![](../books_images/U-IMG-1707021622Screenshot_20231101_045302.png)**
+<MISSING_FIG href="../books_images/U-IMG-1707021622Screenshot_20231101_045302.png"/>**
 
 **स्वरूपज्योतिर्या निधनरहिता वागिह परा  
 निजोपास्त्यास्मभ्यं ध्रुवममरभावं वितरति।  
 विवर्तो यस्याश्च स्फुरति भुवि भाषासमुदयः  
 प्रसन्ना ब्राह्मी सा सुरसुरभिरुच्चैर्विजयताम् ॥**
 
-**![](../books_images/U-IMG-1707021622Screenshot_20231101_045302.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707021622Screenshot_20231101_045302.png"/>**
 
 **सत्यो देवस्स दिशतु वचश्शुद्धिमाम्नायसिद्धः  
 संसेवन्ते यमभिदधतस्सि न्धवस्सप्त[^1] नित्यम्।  
@@ -454,7 +456,7 @@ the honey.
 फनोत्तंसा कलहमतुलङ्कर्तुकामेव गर्ज-  
 न्त्याबिभ्रत्या सितघनततिं मूर्ध्नि नीलाद्रिपङ्कचा ॥ १० ॥**
 
-[^15]: "अवपूर्वात्स्यतेर्लुङ्"
+[^15]: # "अवपूर्वात्स्यतेर्लुङ्"
 
 **पातुं पाथः सरिदधिपतौ किन्न्ववप्लुत्यवेगा-  
 त्खेलन्त्युच्चैःकवचितनभःप्रान्ततो वारिवाहाः।  
@@ -661,7 +663,7 @@ the honey.
 अन्तर्वाहिन्यपि[^16] च पतितान्पावयन्त्यस्तटिन्यः  
 प्रेयांसं त्वां परमरसिकं कामयन्ते महान्तम् ॥ ५१ ॥**
 
-[^16]: "अन्तर्वाहिनी = सरस्वती"
+[^16]: # "अन्तर्वाहिनी = सरस्वती"
 
 **यत्रागाधस्त्वमसि जलधे ! तत्र वातस्तरङ्गा-  
 नुत्थाप्य त्वां प्रकृतिचलितं नैव शक्नोति कर्तुम।  
@@ -703,7 +705,7 @@ the honey.
 ऋक्षाणीवाम्बरतलमलङ्कुर्वते सवैथा त्वां  
 प्रत्नो रत्नाकर ! हि महिमा मानहीनस्तवायम् ॥५९ ॥**
 
-[^17]: "उद्भान्तीति शत्रन्तम्"
+[^17]: # "उद्भान्तीति शत्रन्तम्"
 
 **व्योम श्यामं सजलजलदश्यामलः पद्मनाभ-  
 स्त्वञ्च श्यामः कुवलयदलश्यामला शैलकन्या।  
@@ -723,7 +725,7 @@ the honey.
 **प्रकृतिविलासकाव्ये  
 काननकामनीयकं नाम  
 द्वितीयो विलासः  
-![](../books_images/U-IMG-1707146083Screenshot_20231101_045302.png)**
+<MISSING_FIG href="../books_images/U-IMG-1707146083Screenshot_20231101_045302.png"/>**
 
 **कल्याणमाकलयतात्कुलशैलकन्या  
 धम्मिल्लफुल्लतरमल्लिमिलन्मिलिन्दा।  
@@ -780,7 +782,7 @@ the honey.
 प्रस्थातुमप्युदसहन्त न शीतक[^18]त्वा-  
 ल्लक्ष्म्यां सरोरुहविहाररसोत्सुकायाम् ॥ ११ ॥**
 
-[^18]: "शीतकः = अलसः"
+[^18]: # "शीतकः = अलसः"
 
 **पीयूषकल्पमकरन्दमिलद्रजांसि  
 नीहारसीकरकरम्बितकेसराणि।  
@@ -1032,7 +1034,7 @@ the honey.
 आचन्द्रतारकमरण्यविहारिदुर्गे !  
 स्तात्कामनीयकमिदं भुवि काननस्य ॥ ६१ ॥**
 
-**![](../books_images/U-IMG-1707230532Screenshot_20231101_045302.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707230532Screenshot_20231101_045302.png"/>**
 
 **इति महामहोपाध्यायस्य श्रीकृष्णमूर्तिशास्त्रिणः पण्डितराजस्य  
 मद्रप्रान्तसंस्कृतास्थानकवेः कृतिषु  
@@ -1170,7 +1172,7 @@ the honey.
 इमां वल्लीं स्निग्धामिति मदिरनेत्रा विलसितै-  
 रपश्यन्तीवान्यं तरुणमभणत्काप्युपवने ॥ २५ ॥**
 
-[^19]: "अतिबलो = वायुः।"
+[^19]: # "अतिबलो = वायुः।"
 
 **उदञ्चलवल्लिः प्रणयकलहेन प्रियतमे  
 परिष्वङ्गं कुर्वत्यनुनयवचोभिः सरभसम्।  
@@ -1358,7 +1360,7 @@ the honey.
 व्रजाम्यर्चाङ्कर्तुं मलयमनिलस्य प्रभवतो  
 भुवि स्तादाकल्पं मम शिखरिपारम्यमनघम् ॥ ६१ ॥**
 
-**![](../books_images/U-IMG-1707402307Screenshot_20231101_045302.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707402307Screenshot_20231101_045302.png"/>**
 
 **इति महामहोपाध्यायस्य श्रीकृष्णमूर्तिशास्त्रिणः पण्डितराजस्य  
 मद्रप्रान्तसंस्कृतास्थानकवेः कृतिषु  
@@ -1368,7 +1370,7 @@ the honey.
 **प्रकृतिविलासकाव्ये**  
 **समीरसमर्हणं नाम  
 चतुर्थो विलासः  
-![](../books_images/U-IMG-1707402508Screenshot_20231101_045302.png)**
+<MISSING_FIG href="../books_images/U-IMG-1707402508Screenshot_20231101_045302.png"/>**
 
 **धृतिमविरतं तन्याच्छ्रीमान्मरुत्तनयोऽमितां  
 सरिदधिपतिं तीर्त्वा लङ्कां जवेन विवेश यः।  
@@ -1619,7 +1621,7 @@ the honey.
 प्रकृतिशुचिरस्या तश्चा[^20]युर्ददासि वने सतां  
 पुरनरदुराचारैर्दुष्टो यमाय हि कल्पसे ॥४९ ॥**
 
-[^20]: "अतइत्यर्थ आतइत्यव्ययम्।"
+[^20]: # "अतइत्यर्थ आतइत्यव्ययम्।"
 
 **श्वसन ! सुखिनस्तिर्यञ्चोऽपि ह्यरण्यनिवासिनः  
 किमधिकगिरा त्वामासेव्य द्रुमा अपि निर्मलम्।  
@@ -1681,7 +1683,7 @@ the honey.
 वितर पटुतां स्तोतुं मह्यं वियत्सरितं शुभां  
 भुवि विजयतामाचन्द्रार्कं समीरसमर्हणम् ॥६१ ॥**
 
-**![](../books_images/U-IMG-1707494094Screenshot_20231101_045302.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707494094Screenshot_20231101_045302.png"/>**
 
 **इति महामहोपाध्यायस्य श्रीकृष्णमूर्तिशास्त्रिणः पण्डितराजस्य  
 मद्रप्रान्तसंस्कृतास्थानकवेः कृतिषु  
@@ -1693,7 +1695,7 @@ the honey.
 **त्रिपथगासौभाग्यं नाम**
 
 **पञ्चमो विलासः ॥  
-![](../books_images/U-IMG-1707494442Screenshot_20231101_045302.png)**
+<MISSING_FIG href="../books_images/U-IMG-1707494442Screenshot_20231101_045302.png"/>**
 
 **हिमाद्रिवरनन्दिनीमखिललोचनानन्दिनी-  
 मुपेन्द्रपदवन्दिनीमसमदृक्शिरस्स्यन्दिनीम्।  
@@ -2004,7 +2006,7 @@ the honey.
 श्रियं वितर मेऽमितामव ममात्मजान्सादरं  
 भुवि त्रिपथगाता सुभगता विजेजीयताम् ॥ ६१ ॥**
 
-**![](../books_images/U-IMG-1707583128Screenshot_20231101_045302.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707583128Screenshot_20231101_045302.png"/>**
 
 **इति महामहोपाध्यायस्य श्रीकृष्णमूर्तिशास्त्रिणः पण्डितराजस्य  
 मद्रप्रान्तसंस्कृतास्थानकवेः कृतिषु  
@@ -2211,7 +2213,7 @@ the honey.
 निशि भृशमुडवोऽमी डम्बरं कुर्वते, य-  
 त्सरसविहृतिहेतुः स्वामिनोऽसन्निधानम् ॥ ३९ ॥**
 
-**![](../books_images/U-IMG-1707663197WhatsAppImage2023-12-01at08.26.35_287d7ae0.jpg)  
+**<MISSING_FIG href="../books_images/U-IMG-1707663197WhatsAppImage2023-12-01at08.26.35_287d7ae0.jpg"/>  
 (अत्राजर्यमित्यस्य सङ्गतमितिविशेष्यमध्याहार्यम्)**
 
 **प्रतिसुभगपदार्थं व्यञ्जयन्ती परेशं  
@@ -2284,7 +2286,7 @@ the honey.
 सहृदयहृदयाब्जद्योमणिर्ग्रन्थ एष  
 स्फुरतु जगति यावत्कल्पमाकल्प ! शम्भोः ॥ ६१ ॥**
 
-**![](../books_images/U-IMG-1707665235Screenshot_20231101_045302.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707665235Screenshot_20231101_045302.png"/>**
 
 **इति महामहोपाध्यायस्य श्रीकृष्णमूर्तिशास्त्रिणः पण्डितराजस्य  
 मद्रप्रान्तसंस्कृतास्थानकवेः कृतिषु  
@@ -2295,7 +2297,7 @@ the honey.
 प्रकृतिविलासकाव्ये  
 प्रभाकरप्रभावो नाम  
 सप्तमो विलासः ॥  
-![](../books_images/U-IMG-1707665584Screenshot_20231101_045302.png)**
+<MISSING_FIG href="../books_images/U-IMG-1707665584Screenshot_20231101_045302.png"/>**
 
 **श्रेयो वो दिशतात् त्रयीतनुरयं ब्रह्मेत्युपास्यः सतां  
 जन्मस्थेमलयान् प्रकृत्यनुगमात्तन्वन्ननादिर्विभुः।  
@@ -2452,7 +2454,7 @@ the honey.
 दत्से प्राणनशक्तिमम्बरमणे ! त्वं प्राणभृद्भ्योऽवना-  
 विन्धे मूर्तिमती महत्युपकृतिर्मूर्तिः पवित्रा तव ॥ ३१ ॥**
 
-**![](../books_images/U-IMG-1707748626WhatsAppImage2023-12-01at08.26.35_287d7ae0.jpg)  
+**<MISSING_FIG href="../books_images/U-IMG-1707748626WhatsAppImage2023-12-01at08.26.35_287d7ae0.jpg"/>  
 मेघपक्षेऽतिवलो वायुः**
 
 **पृथ्व्यां किञ्चन नोदपत्स्यत विभो ! त्वं नाभविष्योऽर्यम-  
@@ -2492,7 +2494,7 @@ the honey.
 देवानामपि दैवतस्य भवतः प्राप्तुं प्रसादं ममा-  
 प्यार्हन्ती भवकेति[^21] भास्कर ! भवाम्भोधौ निमग्नोऽर्थये ॥ ३८ ॥**
 
-[^21]: "भवकेत्याशिषि वुन्"
+[^21]: # "भवकेत्याशिषि वुन्"
 
 **पात्रेणार्क ! हिरण्मयेन पिहितं सत्यस्य वक्त्रं परं  
 पूषंस्त्वं तदपावृणु द्रुततरं मह्यञ्च मार्गार्थिने।  
@@ -2609,7 +2611,7 @@ the honey.
 सन्तः प्राप्तसुखा भवन्तु सततं सूर्य ! प्रसादेन ते  
 वाचामस्तु फलेग्रहिः समुदयो लोके कवीनां सताम् ॥ ६१ ॥**
 
-**![](../books_images/U-IMG-1707831960Screenshot_20231101_045302.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707831960Screenshot_20231101_045302.png"/>**
 
 **इति महामहोपाध्यायस्य श्रीकृष्णमूर्तिशास्त्रिणः पण्डितराजस्य  
 मद्रप्रान्तसंस्कृतास्थानकवेः कृतिषु  
@@ -2936,7 +2938,7 @@ the honey.
 भाकल्पं सद्विजवरकृतं विद्वदाकल्पकल्पं  
 श्रीशर्वर्या जगति जयतादव सौन्दर्यमेतत् ॥ ६१ ॥**
 
-**![](../books_images/U-IMG-1707838696Screenshot_20231101_045302.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707838696Screenshot_20231101_045302.png"/>**
 
 **इति महामहोपाध्यायस्य श्रीकृष्णमूर्तिशास्त्रिणः पण्डितराजस्य  
 मद्रप्रान्तसंस्कृतास्थानकवेः कृतिषु  
@@ -2944,7 +2946,7 @@ the honey.
 शवरीसौन्दर्यं नाम अष्टमो विलासः।**
 
 **॥ कपर्दिनि समर्पणम् ॥  
-![](../books_images/U-IMG-1707838926Screenshot_20231101_045302.png)**
+<MISSING_FIG href="../books_images/U-IMG-1707838926Screenshot_20231101_045302.png"/>**
 
 **काट्टुष्पुत्तूरुवास्तव्यस्वाम्यार्यस्याहमात्मजः।  
 कृष्णमूर्तिरकुर्वीमां मद्रास्थानकविः कृतिम् ॥ १ ॥**
@@ -2966,7 +2968,7 @@ the honey.
 यस्य श्रीकृष्णमूर्तेः कुलममलमवत्यङ्घ्रिदासस्य नित्यं  
 सोऽयं विप्रः कपर्दिन्यनघकृतिमिमामर्पयत्यात्मतृप्त्यै ॥ ६ ॥**
 
-**![](../books_images/U-IMG-1707838926Screenshot_20231101_045302.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707838926Screenshot_20231101_045302.png"/>**
 
 **॥ आशासनम् ॥**
 
@@ -2981,7 +2983,7 @@ the honey.
 **श्रीमद्भवनगर्राजदम्पती च जयन्त्विमे।  
 कुमारस्वामिराजश्व विद्यामन्त्री च माधवः ॥**
 
-**![](../books_images/U-IMG-1707839507Screenshot_20231101_045302.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707839507Screenshot_20231101_045302.png"/>**
 
 **इति श्रीभारद्वाजकुलजलधिकौस्तुभश्रीमद्वेङ्कटसुब्बरामार्य-  
 वर्यतनूजस्य श्रीवेङ्कटसुब्बलक्ष्मीगर्भसम्भूतस्य  
@@ -2992,7 +2994,7 @@ the honey.
 प्रकृतिविलासः समाप्तः  
 ॐ तत्सत्  
 जय हिन्द  
-![](../books_images/U-IMG-1707839652Screenshot_20231130_085532.png)  
+<MISSING_FIG href="../books_images/U-IMG-1707839652Screenshot_20231130_085532.png"/>  
 श्रीकल्याण मुद्रालयः, तिरुची।**
 
 |                         |                    |

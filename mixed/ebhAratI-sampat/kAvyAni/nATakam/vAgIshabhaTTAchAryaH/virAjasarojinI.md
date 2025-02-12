@@ -30,7 +30,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1NTA4OTI4MjQ
 
 **नाट्योल्लिखित व्यक्तिगणः।**
 
-**![](../books_images/U-IMG-1726396143Screenshot2024-09-15155846.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1726396143Screenshot2024-09-15155846.png"/>**
 
 **पुरुषगणः।**
 
@@ -115,10 +115,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1NTA4OTI4MjQ
 | तादेन          | तातेन          |
 
 **विराजसरोजिनी।  
-![](../books_images/U-IMG-1726413357Screenshot2024-09-15204539.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726413357Screenshot2024-09-15204539.png"/>**
 
 **प्रथमोऽङ्कः।  
-![](../books_images/U-IMG-1726413415Screenshot2024-09-15204640.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726413415Screenshot2024-09-15204640.png"/>**
 
 **यः सृष्टौ भवनामभाक्, पशुपतिस्त्राणे, हरः संहृतौ,  
 दैन्ये दिग्वसनो, महिम्निगगनं विश्वेश्वरः सम्पदि।  
@@ -629,7 +629,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1NTA4OTI4MjQ
 
 **द्वितीयाङ्के गर्भाङ्कः।**
 
-**![](../books_images/U-IMG-1726634678Screenshot2024-09-18101423.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1726634678Screenshot2024-09-18101423.png"/>**
 
 अथ प्रविशति सूत्रधारः।
 
@@ -1399,7 +1399,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1NTA4OTI4MjQ
  (४) वयस्य! प्रसादनं कर्त्तुम् अवसदनं मा कुरु।
 
 **तृतीयोऽङ्कः।  
-![](../books_images/U-IMG-1726834425c.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726834425c.png"/>**
 
 ततः प्रविशति राजपण्डितः शान्तदेवोपाध्यायः  
 सम्भवतश्च शिष्यवर्गः।
@@ -1839,7 +1839,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1NTA4OTI4MjQ
 \_\_\_\_\_\_\_\_\_**
 
 **चतुर्थोऽङ्कः।  
-![](../books_images/U-IMG-1727100095b.png)**
+<MISSING_FIG href="../books_images/U-IMG-1727100095b.png"/>**
 
 नेपथ्ये।
 
